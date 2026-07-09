@@ -1,0 +1,152 @@
+Title: Lechcier-Kimel c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28810/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-457-28810-lechcier-kimel-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-08-08
+
+# Lechcier-Kimel c. La Reine
+
+- Citation: 2008 CCI 457
+- Decision date: 2008-08-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1524, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lechcier-Kimel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-08-08
+Référence neutre
+2008 CCI 457
+Numéro de dossier
+2005-1851(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1851(IT)G
+ENTRE :
+MAHVASH LECHCIER-KIMEL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Requête entendue à Toronto (Ontario), le 25 juin 2008.
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Avocat de l’appelante :
+Me Romeo Finder
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+___________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’intimée pour faire rejeter l’appel, avec dépens;
+Et vu les pièces déposées et les plaidoiries des avocats des parties en cause;
+La Cour ordonne :
+1. la requête de l’intimée est rejetée;
+2. l’appelante doit payer à l’intimée des dépens s’élevant à 5 000 $ au plus tard le 30 septembre 2008;
+3. l’appelante doit déposer et signifier un avis d’appel modifié au plus tard le 30 septembre 2008;
+4. l’intimée doit déposer et signifier une réponse à l’avis d’appel modifié au plus tard le 30 octobre 2008.
+Si l’appelante ne se conforme pas à la présente ordonnance, l’appel interjeté à l’égard de la nouvelle cotisation établie en vertu du paragraphe 160(1) de la Loi de l’impôt sur le revenu pour l’année d’imposition 1990 sera rejeté.
+Signé à Ottawa, Canada, ce 8e jour d’août 2008.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 25e jour de novembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008 CCI 457
+Date : 20080808
+Dossier : 2005-1851(IT)G
+ENTRE :
+MAHVASH LECHCIER-KIMEL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DE L’ORDONNANCE
+Le juge McArthur
+[1] La présente requête a été présentée par l’intimée pour que soit rendue une ordonnance rejetant le présent appel, avec dépens. À l’audience, à la demande de l’intimée, j’ai rendu une ordonnance abrégeant le délai qu’avait l’appelante pour déposer et signifier son dossier de requête, et ce, malgré l’opposition de l’avocat de l’appelante. En juillet 2002, l’appelante a fait l’objet d’une nouvelle cotisation de 172 822 $, établie en vertu du paragraphe 160(1) de la Loi de l’impôt sur le revenu (la « Loi »), à l’égard de l’année d’imposition 1990.
+[2] Les faits sur lesquels l’intimée s’est fondée sont clairement énoncés dans le très long affidavit de Donna Dorosh, qui fait partie du dossier de requête de l’intimée. Me Mboutsiadis a comparu au nom de l’intimée, et Me Finder a comparu seul, au nom de l’appelante, parce qu’il n’avait pas réussi à communiquer avec sa cliente.
+[3] Il semble que l’avis d’appel a été déposé à la Cour le 6 juin 2005, que la réponse à l’avis d’appel a été déposée et signifiée le 3 août 2005 et que la réplique à la réponse à l’avis d’appel a été déposée et signifiée vers le 22 août 2005.
+[4] Comme l’appelante n’avait pas pris certaines mesures dans l’instance, une audience sur l’état de l’instance a été fixée au 8 juin 2006. Avant cette audience, l’appelante a désigné Me Finder comme avocat, et, avec le consentement des deux parties, la Cour a fixé des délais pour l’accomplissement de certaines mesures dans l’instance.
+[5] L’intimée a signifié une liste de documents avant l’échéance du 14 juillet 2006, mais l’appelante n’a pas fait de même. Dans des lettres datées du 16 août 2006, du 18 septembre 2006 et du 6 novembre 2006, l’intimée a rappelé à l’avocat de l’appelante qu’il n’avait pas déposé sa liste de documents. Plus tard, le 15 novembre 2006, l’intimée a averti l’appelante qu’à cause de ce retard, elle demanderait le rejet de l’appel le 7 février 2007. L’appelante a déposé sa liste de documents le 2 février 2007, et l’intimée a retiré sa requête.
+[6] La Cour a ordonné qu’une audience de justification soit tenue le 22 mars 2007. Dans une lettre datée du 20 mars 2007, la Cour a consenti à rendre une ordonnance confirmant le nouveau calendrier, avec le consentement des deux parties. Selon l’ordonnance :
+(i) l’appelante devait déposer et signifier une liste de documents au plus tard le 29 mars 2007;
+(ii) les interrogatoires préalables devaient être terminés au plus tard le 29 mai 2007;
+(iii) les engagements pris devaient être remplis au plus tard le 29 juin 2007.
+[7] L’appelante n’a pas respecté l’échéance relative aux interrogatoires préalables, mais elle a présenté ses réponses à un interrogatoire écrit, et ce, sans que la Cour n’ait rendu d’ordonnance de prorogation de délai.
+[8] L’avocat de l’appelante et l’époux de l’appelante ont assisté à une conférence préparatoire à l’audience le 16 janvier 2008, mais ils n’avaient pas présenté de mémoire préparatoire à l’audience, et ce, même si le coordonnateur des audiences de la Cour le leur avait demandé dans des lettres envoyées à deux reprises. La conférence préparatoire à l’audience a tout de même eu lieu, et une ordonnance rendue le 23 janvier 2008 obligeait l’appelante à déposer et à signifier un avis d’appel modifié dans les 60 jours. Cette fois encore, l’appelante a ignoré l’ordonnance, ce qui a empêché la reprise de la conférence préparatoire à l’audience devant avoir lieu le 23 juin 2008, et qui a plutôt mené à l’audition de la présente requête.
+[9] Apparemment, l’avocat de l’appelante n’a pas réussi à communiquer avec sa cliente; il a donc comparu seul. Sa demande d’ajournement a été rejetée, et, comme je l’ai déjà mentionné, j’ai permis à l’intimée de déposer et de signifier son dossier de requête, tout en tenant compte du fait que l’ordonnance datée du 29 avril 2008 indiquait aux parties que la conférence préparatoire à l’audience devait reprendre le 23 juin 2008. Il semble que l’appelante n’a jamais eu l’intention d’assister à la conférence du 23 juin 2008, car son avocat n’a jamais réussi à communiquer avec elle, et ce, même si l’avocate de l’intimée avait parlé à Me Finder de sa requête de rejet le 5 juin 2008.
+[10] Je salue le travail de Me Mboutsiadis, qui a agi de façon à la fois déterminée et équitable, en tentant à de nombreuses reprises d’amener l’appelante à poursuivre son appel conformément aux Règles de procédure de la Cour canadienne de l’impôt.
+[11] Lorsqu’il est question du rejet d’un appel, le passage suivant de la décision du juge Hamlyn dans D’Abbondanza v. R.[1] est souvent cité :
+[8] Il incombe à l'appelant de poursuivre ses appels sans délai et avec promptitude, selon les règles prescrites. En l'espèce, l'appelant n'a pas adopté une approche proactive; il s'est contenté de réagir. L'appelant n'a pas déposé de liste de documents conformément aux règles et à une ordonnance expresse de la Cour. L'explication qui a été donnée s'est révélée, après examen, sans fondement.
+[9] L'appelant s'est comporté, dans l'ensemble, de manière à retarder délibérément la poursuite des appels.
+[10] En conclusion, l'appelant n'a pas fourni de justification raisonnable pour son inobservation des règles et n'a tenté d'aucune façon de se conformer aux règles et à l'ordonnance de la Cour. Ainsi, celle-ci n'a d'autre choix que de rejeter les appels portant sur les années d'imposition 1986, 1987, 1988 et 1989.
+[12] En outre, le recueil de jurisprudence et de doctrine de l’intimée comprenait huit décisions, dans la plupart desquelles les appels avaient été rejetés à cause de retards ou de manquements moins graves que ceux qui sont en cause en l’espèce. Certains des passages cités par l’intimée sont reproduits ci‑dessous :
+United Color & Chemicals Ltd. v. R.[2]
+[8] Les appelants ont toujours fait traîner les choses. L'avocat des appelants a aidé et contribué à ce retard.
+[9] Il n'existe aucune excuse ou raison valable acceptable d'ajourner ces appels. La demande d'ajournement est rejetée à l'égard des deux appels.
+[10] Pour les motifs susmentionnés et compte tenu de l'omission des deux appelants de poursuivre leurs appels le 19 janvier 1998, les appels sont rejetés. L'intimée a droit à un mémoire de frais complet, sur la base des frais entre parties, contre chaque appelant.
+Ho v. R.[3]
+[9] […] Pour statuer sur le rejet d'un appel, il convient d'examiner si le contribuable a essayé de se conformer aux Règles ou à une ordonnance de la Cour ou a produit une excuse raisonnable à une inobservation. En l'espèce, les deux appelants ont été représentés à l'audience sur l'état de l'instance, avaient connaissance des directives données par la Cour et comprenaient celles-ci et, j'en suis convaincu, ont reçu dans chaque cas l'ordonnance du juge Bowie datée du 17 mai 1999. Depuis ce temps-là, ils ont choisi d'ignorer complètement l'ordonnance et cette inobservation crée un retard délibéré et inexcusable.
+Bourque v. R.[4]
+[41] L'appelant a fait preuve depuis un an d'un manquement flagrant à ses obligations devant cette Cour. Continuer à tolérer de tels agissements aurait pour effet de déconsidérer l'administration de la justice. Il est de droit constant qu'un abus de procédure peut, dans les circonstances appropriées, entraîner le rejet de l'instance (voir Yacyshyn c. La Reine, [1999] A.C.F. no 196 (Q.L.), paragraphe 18).
+[…]
+[43] Les appels sont donc rejetés pour défaut de poursuivre aux termes des articles 64 et 91c) des Règles.
+[13] De plus, comme c’était le cas dans Lichman v. R.[5], l’appelante n’a pas fait beaucoup d’efforts pour répondre aux demandes répétées de l’intimée. La contribuable a agi cavalièrement, notamment en faisant fi des ordonnances judiciaires et des règles de procédure, alors que l’avocate de l’intimée s’efforçait de coopérer avec l’appelante.
+[14] Logiquement, ces conclusions devraient m’amener à rejeter l’appel et à adjuger des dépens à l’intimée, mais je ferais preuve de négligence si je ne tenais pas compte des faits troublants exposés ci‑dessous.
+[15] Fondamentalement, je suis d’avis que la meilleure façon de servir l’intérêt de la justice est de trancher un appel sur le fond. L’avocat de l’appelante a affirmé ne pas avoir réussi à communiquer avec sa cliente, et que cette dernière n’avait pas connaissance de la présente requête.
+[16] De plus, l’historique de l’appel comporte deux facettes, et le comportement de l’intimée dans la présente affaire doit lui aussi être examiné. En résumé, l’intimée a affirmé que l’époux de l’appelante avait acheté la résidence familiale en mars 1989 pour 3 713 000 $, et qu’en mai 1990, il en avait transféré la propriété à l’appelante (son épouse) pour la somme de 2 $. Selon l’intimée, la résidence avait alors une valeur nette réelle de 1 110 000 $ et l’époux de l’appelante, en tant qu’auteur du transfert, devait payer un impôt s’élevant à 172 822 $. Selon l’appelante, la valeur nette réelle de la résidence familiale était nulle en mai 1990, et l’auteur du transfert n’avait aucune obligation fiscale. Pour une raison qui reste inconnue, ce n’est qu’en juillet 2002 qu’une cotisation a été établie à l’égard de l’appelante en vertu du paragraphe 160(1) de la Loi; un décalage de plus de 12 ans qui n’a pas été expliqué. Ce retard fait qu’il est très difficile pour l’appelante de contester la cotisation initiale, comme le permet Gaucher c. Sa Majesté la Reine, ou de déterminer la valeur marchande qu’avait la résidence en mai 1990. De plus, la première version de la réponse à l’avis d’appel était mal rédigée, et une requête de modification a dû être présentée.
+[17] La conduite inacceptable de l’appelante et de ses représentants est partiellement compensée par les retards de l’intimée. À mon avis, la meilleure façon de réconcilier la volonté sérieuse de l’appelante de poursuivre son appel et le temps qu’elle a fait perdre à l’intimée est d’adjuger des dépens. La meilleure façon de servir l’intérêt de la justice est de trancher un appel sur le fond plutôt que de le rejeter pour des raisons procédurales.
+[18] En conclusion, la requête présentée par l’intimée pour faire rejeter l’appel est rejetée. L’appelante devra verser à l’intimée des dépens s’élevant à 5 000 $, au plus tard le 30 septembre 2008. Comme l’a demandé l’avocat de l’appelante, un avis d’appel modifié devra aussi être déposé au plus tard le 30 septembre 2008, et l’intimée aura jusqu’au 30 octobre 2008 pour déposer une réponse à l’avis d’appel modifié.
+[19] Si l’appelante ne se conforme pas à l’ordonnance d’ici le 30 septembre 2008, l’appel interjeté à l’égard de la nouvelle cotisation établie en vertu du paragraphe 160(1) de la Loi pour l’année d’imposition 1990 sera rejeté.
+Signé à Ottawa, Canada, ce 8e jour d’août 2008.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 25e jour de novembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008 CCI 457
+No DU DOSSIER DE LA COUR :
+2005-1851(IT)G
+INTITULÉ :
+Mahvash Lechcier-Kimel et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 25 juin 2008
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge C.H. McArthur
+DATE DE L’ORDONNANCE :
+Le 8 août 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Romeo Finder
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Romeo Finder
+Cabinet :
+Horwitz & Finder
+Toronto (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 93 DTC 1042.
+[2] 98 DTC 1385.
+[3] 2000 DTC 1781.
+[4] 2003 DTC 769.
+[5] 2004 DTC 2547 (CCI), confirmée par 2005 CAF 226.

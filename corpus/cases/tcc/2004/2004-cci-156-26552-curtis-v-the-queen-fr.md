@@ -1,0 +1,182 @@
+---
+title: "Curtis v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26552/index.do"
+last_modified: "2004-03-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 156"
+citation2: ""
+neutral_citation: "2004 CCI 156"
+decision_date: "2004-03-16"
+language: "fr"
+item_id: "26552"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3560
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:42:00.929000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f78d0dcaf7fe056ab16ef10b88dbc8002443f1bc8f1c8b760f4a9dd44c34aa63"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Curtis v. The Queen
+
+- Citation: 2004 CCI 156
+- Decision date: 2004-03-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3560, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Curtis v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-16
+Référence neutre
+2004 CCI 156
+Numéro de dossier
+2002-336(IT)G
+Juges et Officiers taxateurs
+Theodore E. Margeson
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-336(IT)G
+ENTRE :
+DELBERT CURTIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 9 février 2004, à Kitchener (Ontario).
+Devant : L'honorable T. E. Margeson
+Comparutions :
+Avocat de l'appelant :
+Me A.E. Robinson
+Avocats de l'intimée :
+Me Peter M. Kremer, c.r. et
+Me Nicolas Simard
+____________________________________________________________________
+JUGEMENT
+Les appels contre les cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996 et 1998 sont rejetés avec dépens en faveur de l'intimée sur la base des honoraires d'un seul avocat.
+Signé à Ottawa, Canada, ce 16e jour de mars 2004.
+« T. E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 29e jour de juin 2005.
+Joanne Robert, traductrice
+Référence : 2004CCI156
+Date : 20040316
+Dossier : 2002-336(IT)G
+ENTRE :
+DELBERT CURTIS,
+appelant,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Margeson
+[1] Lorsqu'il a établi de nouvelles cotisations pour les années d'imposition 1995, 1996 et 1998 de l'appelant, et ce, au moyen d'avis de nouvelle cotisation simultanés datés du 10 juin 2000, le ministre du Revenu national (le « ministre » ) a refusé les pertes de 3 135 $, de 38 199 $ et de 318 $ que l'appelant avait déduites pour 1995, 1996 et 1998 respectivement, au motif qu'il n'y avait pas de perte autre qu'en capital à appliquer pour les années visées. À partir de ces cotisations, l'appelant a interjeté cet appel.
+Preuve
+[2] L'appelant, Delbert Lyle Curtis, a témoigné qu'au printemps 1994, son fils lui a demandé de l'argent pour pouvoir acheter une franchise du restaurant Arby's ( « Arby's » ) à Owen Sound en Ontario. Le père a accepté d'aider son fils, mais lui a dit qu'il allait devoir hypothéquer sa maison pour obtenir les fonds nécessaires.
+[3] L'appelant a eu recours aux services d'un avocat pour préparer l'hypothèque. Il a emprunté les fonds nécessaires à la Banque Canadienne Impériale de Commerce ( « CIBC » ). Le fils devait faire tous les versements hypothécaires. La femme de l'appelant devait aussi donner son consentement à l'hypothèque, étant donné que la maison était enregistrée aux noms des deux époux. Il a fallu qu'elle consulte ses propres avocats.
+[4] La pièce A-1 a été admise sur consentement et, à l'onglet 13 de cette pièce, il y avait une copie de la convention hypothécaire datée du 6 octobre 1994. La valeur de l'hypothèque était de 131 250 $, et les versements hypothécaires s'élevaient à 1 285,93 $ par mois. Selon la demande de prêt, le taux d'intérêt était de 11,25 % par année; plus particulièrement, il était indiqué dans une annexe que le taux d'intérêt était de 8,75 %, ce qui semblerait être le taux préférentiel, plus 2,5 % par année. La convention était signée par l'appelant et sa femme.
+[5] Dwayne, le fils de l'appelant, a fait les versements mensuels jusqu'à ce qu'il fasse faillite.
+[6] L'onglet 19 de la pièce A-1 était une copie du billet à ordre signé par Dwayne Lyle Curtis en faveur de l'appelant et de sa femme pour le montant de 131 250 $ et l'intérêt au taux préférentiel plus 2,25%.
+[7] L'appelant a dit qu'une entente verbale avait aussi été conclue selon laquelle [TRADUCTION] « il nous donnerait quelque chose pour voyager une fois qu'il serait sur pied » .
+[8] À l'onglet 24, il y avait un document intitulé [TRADUCTION] « Objet : billet à ordre daté du 7e jour d'octobre 1994 » .
+[9] Le document en question indiquait ce qui suit :
+[TRADUCTION]
+La présente a pour but de confirmer que toutes les modalités du billet à ordre susmentionné s'appliquent puisque que moi, Dwayne Lyle Curtis, je suis maintenant constitué en société sous le nom de :
+Dwayne Curtis Restaurants Inc.
+Arby's Heritage Place - ville d'Owen Sound
+Daté à Owen Sound (Ontario) ce 9e jour d'avril 1995.
+[10] Le témoin a dit qu'au début, pour faire les versements hypothécaires, Dwayne Lyle Curtis retirait l'argent nécessaire du compte d'Arby's et qu'après la constitution en société, il faisait les versements sur le compte de la compagnie. La compagnie a fait tous les versements jusqu'à ce que la faillite ait lieu, après quoi le fils a fait un dernier versement de sa propre poche.
+[11] L'appelant a assumé les versements et a essayé de vendre sa maison, mais il a pris trois ans pour le faire.
+[12] La déclaration T1 Générale de l'appelant pour 1997 se trouvait à l'onglet 3. À la ligne 228, l'appelant a déclaré une perte brute au titre d'un placement d'entreprise de 121 847,73 $ et a demandé une déduction admissible de 91 385,80 $.
+[13] Le montant de 121 847,73 $ représente le solde dû de l'hypothèque jusqu'au moment de la faillite. L'appelant a ensuite dit que son fils ne lui a rien donné de plus.
+[14] En contre-interrogatoire, l'appelant a dit que l'entreprise n'était pas constituée en société au moment où il a consenti le prêt. Il n'a jamais été un associé de l'entreprise. Il n'en est jamais devenu actionnaire. Il n'a jamais déclaré de revenu découlant du billet pour les années 1995, 1996 ou 1997. Il n'a tiré aucun bénéfice de cette opération. Le taux d'intérêt indiqué était moins élevé que le taux d'intérêt hypothécaire. Il s'agissait d'une erreur. Il y avait une différence de 0,25% entre les deux taux. Ils ont essayé de fixer le même taux d'intérêt sur les versements hypothécaires à faire à l'appelant et à son épouse que celui sur les versements hypothécaires à faire à la banque. Il n'avait jamais été prévu que le fils paie de l'intérêt sur le billet. Lorsqu'ils ont pris l'engagement verbal, l'appelant et son fils n'ont pas parlé des modalités précises. L'appelant ne savait pas à quel moment son épouse et lui recevraient d'autres versements. Pour que l'appelant reçoive des versements supplémentaires, il fallait que l'entreprise fasse plus d'argent que ce qu'elle devait débourser.
+[15] Il n'y avait pas d'entente ni d'engagement en ce qui concerne ce que le fils pouvait retirer du compte de l'entreprise à titre de salaire ou de bénéfice avant de pouvoir donner quelque chose à son père et à sa belle-mère. Il n'a rien reçu d'autre.
+[16] On lui a laissé entendre qu'il n'aurait pas hypothéqué sa maison si c'était quelqu'un d'autre que son fils qui lui avait demandé de l'aide. Il a répondu : [TRADUCTION] « Je ne peux pas dire ça. Si on m'avait fait une offre alléchante, je l'aurais peut-être fait. » Il a ensuite dit : [TRADUCTION] « probablement pas » .
+[17] Pour ce qui est du document qui se trouve à l'onglet 24, c'est l'appelant et son fils qui l'ont produit. Il a dit que l'original s'appliquait. Son intention était d'avoir la société comme débitrice.
+[18] En réinterrogatoire, il a parlé de l'onglet 10 de la pièce A-1, soit l'état de compte annuel du prêt hypothécaire pour l'année se terminant le 31 décembre 1997. Le taux d'intérêt indiqué était le taux préférentiel (7 %) plus 1,5 %. C'est le taux d'intérêt qui était en vigueur à la fin de l'année en question. L'appelant ne savait pas quel était le taux en vigueur pendant le reste de l'année.
+[19] Le versement était toujours le même. Lorsqu'on lui a demandé à quel moment il allait recevoir un autre versement, dont il avait parlé plus tôt, il a répondu : [TRADUCTION] « quand Arby's deviendrait rentable. Nous n'avions pas d'entente sur la question de savoir s'il (le fils) recevrait un salaire avant que je reçoive quoi que ce soit » .
+[20] Dwayne Lyle Curtis a témoigné qu'il était un employé de Honda Canada. Il a toujours payé de l'impôt au Canada. Il est le fils de l'appelant, Delbert Curtis. En 1994, il travaillait chez Arby's à Owen Sound en Ontario, avec deux autres associés. Il est ensuite devenu propriétaire unique du restaurant et a demandé à son père de l'aider financièrement. Son père et sa belle-mère l'ont aidé financièrement en lui passant la somme de 131 250 $ ou à peu près. En septembre 1994, il est devenu propriétaire, et le premier versement hypothécaire a été fait en octobre.
+[21] Lorsqu'on l'a interrogé au sujet de l'entente, il a dit qu'elle était d'une valeur approximative de 131 000 $ et qu'il devait rembourser la dette. Il y avait un billet à ordre. Une fois que l'entreprise serait sur pied et que l'argent entrerait, l'appelant et sa femme pouvaient s'attendre à [TRADUCTION] « recevoir quelque chose » .
+[22] Le billet se trouvant à l'onglet 19 portait seulement sur la somme empruntée. Il n'indiquait pas ce qui se passerait si le restaurant était un succès. L'entreprise a fait chaque versement jusqu'au moment de la faillite, après quoi le père a assumé les paiements.
+[23] Le document se trouvant à l'onglet 14 renfermait les états financiers en date du 31 mars 1995 du restaurant Arby's situé dans le Heritage Mall. À la dernière page, il était indiqué que le solde impayé dû à son père était de 129 049 $.
+[24] Le document se trouvant à l'onglet 24 avait pour but de garantir que toutes les modalités du billet initial continuraient à s'appliquer.
+[25] L'onglet 15 comprenait une autorisation de retirer du compte de la compagnie les versements à faire à la banque. Les actionnaires de l'organisme constitué en société étaient lui-même et son ex-femme, Trish.
+[26] On lui a demandé qu'est-ce qui s'était passé, et il a répondu que le commerce a bien fait jusqu'en 1996, lorsque les nouveaux propriétaires du mail ont imposé une interdiction de fumer dans le mail. Les ventes ont diminué de 30 % en raison de l'interdiction de fumer, et l'un des magasins piliers du mail a fermé ses portes.
+[27] En 1997, il a dit à son père qu'il allait devoir faire faillite. L'onglet 15 est une copie de l'avis de faillite. Tous ses documents ont été donnés au syndic de faillite, et il n'a pas essayé de les ravoir.
+[28] L'onglet 22 était un état financier en date du 4 septembre 1997 du restaurant constitué en société. Il indiquait un solde dû au père de 121 848 $ sur l'hypothèque. L'année suivante, il s'est déclaré en état de faillite personnelle.
+[29] En contre-interrogatoire, il a dit qu'il n'a jamais payé d'intérêts à son père. Il est allé voir son père pour obtenir le financement nécessaire parce qu'il ne pensait pas pouvoir lui-même emprunter l'argent à la banque. Il devait être tenu compte de toutes les responsabilités qu'il avait selon le premier billet dans le deuxième soi-disant billet qui se trouvait à l'onglet 24. Son père a produit ce billet et le lui a donné. Quand il a signé le deuxième document, il pensait qu'il s'était déchargé de toute responsabilité personnelle. Il a fait un paiement de sa poche après avoir fait faillite. Il se sentait « coupable » .
+[30] Le document n'indiquait absolument pas qu'il avait été déchargé de la responsabilité personnelle. Il n'y avait aucun document qui confirmait que la société prenait la dette en charge. Aucune entente n'avait été conclue quant au montant qu'il pouvait retirer de l'entreprise avant que son père reçoive un montant supplémentaire quelconque.
+[31] En réinterrogatoire, on lui a demandé quand, selon lui, il allait verser un montant supplémentaire à son père. Il a répondu que rien n'était définitif et qu'il allait donner quelque chose à son père quand l'entreprise serait rentable. Cela voulait dire qu'il allait verser quelque chose à son père quand il serait sur pied et quand toutes leurs factures seraient réglées.
+[32] Debra Leanne Curtis est la fille de l'appelant et la soeur de Dwayne Lyle Curtis. Elle savait que son père avait investi dans l'entreprise de Dwayne Lyle Curtis. Ils se sont rencontrés, et le frère lui a parlé de l'entreprise. Elle savait que les conditions étaient que tous les versements hypothécaires devaient être faits par le fils et que le père recevrait quelque chose en retour une fois que l'entreprise serait sur pied. La discussion a eu lieu avant que l'hypothèque soit prise. Elle n'était pas au courant des modalités précises. Sa belle-mère est décédée en avril 1996.
+[33] En contre-interrogatoire, elle a dit que ce que son père a fait était en bout de ligne un investissement. Elle avait compris qu'ils allaient devoir hypothéquer leur maison et qu'ils donneraient les fonds au frère. Selon elle, il s'agissait d'un investissement dans le cadre duquel son père et sa belle-mère pouvaient s'attendre à recevoir quelque chose au-delà des versements hypothécaires quand l'entreprise deviendrait rentable. Lorsqu'on a insisté, elle a dit que son père lui a dit que, plus tard, il recevrait de l'argent. Il s'agissait d'un investissement et non d'un prêt.
+[34] La pièce A-2 a été admise sur consentement. Il s'agissait du certificat de constitution en société de l'organisme.
+Argumentation au nom de l'appelant
+[35] L'avocat de l'appelant a dit qu'il y a une question bien précise en l'espèce. Cette question se rapporte au sous-alinéa 40(2)g)(ii) de la Loi de l'impôt sur le revenu (la « Loi » ).
+[36] Il a formulé la question comme suit : [TRADUCTION] « le contribuable a-t-il contracté la dette pour tirer un revenu? » . Il a répondu à la question dans l'affirmative et a dit que le fils, et plus tard la compagnie, ferait les paiements et verserait un montant supplémentaire, dans la mesure du possible, et que ce montant supplémentaire serait la contrepartie de l'investissement. Les parties se sont entendues sur ces modalités. Les documents originaux étaient erronés, et l'intention était que les modalités du billet signé par le fils soient identiques aux modalités de l'hypothèque.
+[37] Le deuxième document indiquait que l'organisme constitué en société assumait l'hypothèque. Le fils a fait tous les versements jusqu'à la constitution en société, après quoi la compagnie a fait les versements, ce qui correspondait à l'explication que l'appelant et son fils ont donnée à propos de l'entente.
+[38] Il n'est pas nécessaire que toutes les clauses d'un contrat soient écrites; il peut aussi y avoir des clauses verbales. Il a invoqué l'affaire Grand Trunk Railway Co. of Canada c. Fitzgerald (1881), 5 R.C.S. 204, pour appuyer cette affirmation. Il a convenu que la décision rendue dans l'affaire Lowery c. M.R.N., [1986] A.C.I. no 740 (QL), no du greffe 84-1927(IT), lui posait un problème. Dans l'affaire en question, la Cour a décidé que le cautionnement n'avait pas été accordé dans un but commercial. La Cour a jugé que la participation du contribuable ne comportait aucune des caractéristiques propres aux transactions commerciales.
+[39] Dans le même ordre d'idées, la même conclusion a été tirée dans l'affaire Ena M. Casselman v. M.N.R., 83 DTC 522. L'intention de la mère était d'aider le fils, et il n'y avait aucun but commercial. Cela n'a pas été fait dans le but de tirer un revenu ou de faire produire un revenu.
+[40] Toutefois, en ce qui concerne l'affaire Lowery, précitée, le juge de première instance avait déterminé qu'il n'y avait aucune entente, ni orale ni écrite, prévoyant les conditions de participation de l'appelant, ce qui n'était pas le cas en l'espèce.
+[41] Il a invoqué favorablement l'affaire Burns c. Canada, [1994] A.C.I. no 26 (QL), nos du greffe 91-2290(IT)G, 91-2291(IT)G et 91-2289(IT)G. Dans l'affaire en question, le juge de première instance a conclu que les faits de l'affaire en particulier ne justifiaient pas une conclusion semblable à celles qui ont été rendues dans les affaires Lowery ou Casselman, précitées, à savoir que les prêts n'ont été consentis qu'en vue d'aider un membre de la famille et ne comportaient aucun objectif commercial.
+[42] Il a invoqué l'affaire McKissock c. Canada, [1996] A.C.I. no 1192, no du greffe 96-593(IT)I, où la Cour a donné gain de cause au contribuable et a conclu que le critère de l'objet commercial nécessaire avait été respecté, même si aucune contrepartie n'avait été fournie. Dans cette affaire-là, le père, à titre de consultant, aurait pu tirer un revenu de l'entreprise, même s'il ne savait pas à quel moment il toucherait un montant ni combien il toucherait.
+[43] Dans l'affaire Corriveau c. Canada, [1998] A.C.I. no 1068 (QL), no du greffe 95-1888(IT)G, la Cour a jugé qu'il peut y avoir plus d'un « but primordial » qui pourrait permettre d'avoir la fin de commerce nécessaire.
+[44] Dans l'affaire Aylward, succession c. Canada, [2001] A.C.I. no. 391 (QL), no du greffe 98-2015(IT)G, la Cour a conclu que le contribuable n'avait pas garanti personnellement les créances, et, par conséquent, les paiements effectués en faveur des deux créanciers relevaient peut-être d'un acte volontaire. La Cour a quand même conclu que le contribuable pouvait déduire la perte au titre d'un placement d'entreprise. L'avocat a invoqué cette affaire pour démontrer sa position selon laquelle la Cour dispose d'une certaine latitude dans ce genre de cas. Dans l'affaire Lowery, précitée, il n'y avait aucune entente selon laquelle un montant en particulier serait versé, contrairement à l'affaire qui nous intéresse. Il a posé de nouveau la question [TRADUCTION] « est-ce que l'un des buts était de tirer un bénéfice futur? » . En l'espèce, l'un des buts était de toucher des intérêts. Il y avait eu une entente quelconque de payer quelque chose.
+[45] Il a admis qu'il n'y avait pas de documentation relativement à la prise en charge de la dette par la société, mais il a dit que les mesures prises par les actionnaires ainsi que par la compagnie relativement au remboursement d'une partie de la dette suffisaient pour lier la compagnie.
+[46] Il a fait valoir que l'appel devrait être admis avec dépens.
+Argumentation au nom de l'intimée
+[47] En plus des affaires indiquées dans le dossier des sources invoquées de l'appelant, l'avocat de l'intimée a invoqué l'affaire Blanco Estate v. R., [1998] CarswellNat 390 et 98 DTC 1678.
+[48] Dans l'affaire qui nous intéresse, il n'y avait qu'une entente informelle quant à ce que l'appelant recevrait en retour. Rien n'avait été précisé. Il a invoqué l'affaire Lowery, précitée, pour appuyer cet argument et a dit que, dans cette affaire-ci, le contribuable et la société auraient pu mettre les modalités par écrit, mais que le document ne parlait pas du tout des bénéfices. S'il y avait une entente orale, elle ne comportait pas de précisions.
+[49] Il a convenu que la vraie question était de savoir si le prêt avait pour but de produire un revenu. Toutefois, il n'était pas d'accord pour dire qu'il suffisait pour la Cour de conclure que le besoin de produire un revenu n'a pas besoin d'être le but primordial, mais seulement l'un des buts. Il a affirmé qu'il fallait que le besoin de produire un revenu soit le but primordial.
+[50] Dans l'affaire Blanco Estate, précitée, le juge McArthur, CCI, a conclu que la Loi exige qu'un prêt soit consenti dans le but de gagner un revenu. Il faut examiner les faits qui existaient au moment où le prêt a été consenti. La Cour a jugé que le prêt était un prêt familial et que le principal souci de l'appelante était d'aider sa famille.
+[51] L'appelant avait la charge de prouver qu'il avait accordé le prêt en vue de gagner un revenu, charge dont il ne s'est pas acquitté. Le but primordial doit être de gagner un revenu.
+[52] D'après l'avocat, dans le cas qui nous intéresse, si l'emprunteur n'avait pas été le fils du prêteur, l'appelant n'aurait pas consenti le prêt, et ne l'aurait certainement pas consenti selon ces modalités.
+[53] Dans l'affaire Strecker v. R., 95 DTC 3 (C.C.I.), la Cour a jugé qu'il ne suffit pas d'alléguer de manière générale que l'appelant prévoyait une certaine participation aux profits de la compagnie à un moment ultérieur. Il doit y avoir quelque genre de contrepartie en échange du cautionnement. Aucune entente n'avait été faite relativement aux intérêts dans cette affaire-là. Aucune entente n'avait été faite relativement au remboursement en cas de défaut de paiement par la compagnie.
+[54] En ce qui concernait l'argument à l'appui de la participation future, le juge de première instance a invoqué la remarque du juge Sarchuk, son titre à l'époque, dans le cadre de l'affaire Lowery, précitée, où il a rejeté l'appel.
+[55] L'appel devrait être rejeté avec dépens.
+Analyse et décision
+[56] La Cour est convaincue que, pour que l'avance faite dans ce cas-ci soit déductible en vertu du sous-alinéa 40(2)g)(ii) de la Loi, elle doit être convaincue que l'appelant a établi avec prépondérance des probabilités, selon les faits, que l'emprunt auprès de la CIBC et que le paiement des intérêts sur cet emprunt ont été faits « dans le but de tirer un revenu » . Selon la Cour, le bon moment pour examiner ce « but » est le moment où le prêt a été consenti.
+[57] Dans certains cas, dont celui-ci, l'avocat a utilisé certains mots pour qualifier le mot « but » . Parmi les mots utilisés, il y avait primordial, premier et principal. Toutefois, il n'y a pas d'adjectif qualificatif de ce genre dans les dispositions législatives.
+[58] La Cour est convaincue que dans les cas où certains de ces mots ont été utilisés, ils n'ont pas été utilisés comme adjectifs, mais plutôt dans le but de décrire de façon générale l'intention des parties. La Cour n'est pas convaincue que le fait de définir ainsi le mot « but » peut être utile.
+[59] À cet égard, il est intéressant de noter qu'aucune question concernant les buts premiers, secondaires, primordiaux ou multiples n'a été posée à aucun des témoins à aucun moment. De toute façon, même si la question avait été posée et que des preuves avaient été fournies pour établir que l'un de ces mots avait été utilisé par les parties, les preuves n'auraient pas nécessairement été concluantes. L'important est la façon dont les parties ont agi et les documents qu'elles ont utilisés pour le prêt.
+[60] Le seul but qui pourrait ressortir des documents était que le prêt permettait au fils du contribuable de se lancer en affaires. Aucun des documents n'indique autre chose que la simple affirmation que le père serait remboursé en fonction du prêt hypothécaire obtenu de la CIBC. Ce document en particulier indiquait un taux fixe d'intérêt et un paiement fixe. Aucun document n'appuyait la position de l'appelant selon laquelle il pouvait s'attendre à toucher des intérêts supplémentaires. En fait, il ne semblerait pas du tout vraisemblable qu'il puisse toucher des intérêts supplémentaires, étant donné que le montant d'intérêt facturé au débiteur n'était pas plus élevé que le montant d'intérêt à verser à la banque. Encore une fois, aucun revenu n'a été tiré du prêt en ce sens.
+[61] La seule preuve quelconque qui pourrait peut-être donner à penser que l'appelant a conclu l'entente aux termes d'une opération commerciale était le témoignage de vive voix de l'appelant, de son fils et de sa fille. Les trois personnes ont témoigné que, si la compagnie réalisait des bénéfices, l'appelant, à un moment donné, quand des bénéfices seraient réalisés, pourrait recevoir quelque chose. Aucune précision n'a été donnée sur le montant qui pourrait être reçu ou sur les modalités du paiement. En ce qui concerne la Cour, cela n'équivaut à rien de plus qu'un souhait ou qu'un espoir de recevoir quelque chose et, évidemment, ne pouvait pas représenter une préoccupation principale du contribuable au moment où il a consenti le prêt.
+[62] La Cour estime qu'un contribuable pourrait très bien avoir plusieurs buts au moment où il fait ou garantit un prêt. Cependant, l'un de ces buts doit être de tirer un revenu.
+[63] La Cour est convaincue qu'il ne suffit pas de dire tout simplement que d'ailleurs, de façon générale, le contribuable devait recevoir quelque chose si la compagnie devenait rentable. Par exemple, dans l'affaire Lowery, précitée, la façon dont le contribuable a procédé pour garantir le prêt en faveur de la banque faisait en sorte que l'institution réaliserait des bénéfices à la suite de son investissement.
+[64] Il incombait au contribuable de prouver qu'au moment où il a consenti le prêt, son but était d'en tirer quelque chose. Une somme importante d'argent était en cause dans cette affaire-ci. Compte tenu des connaissances de l'appelant et du fils en ce qui concerne la façon dont la banque avait l'intention de garantir son prêt, si le contribuable a consenti le prêt dans le but de tirer un revenu, il aurait dû trouver un moyen d'exprimer son intention d'une façon plus officielle qu'une simple déclaration après coup selon laquelle il espérait recevoir quelque chose si la compagnie avait du succès.
+[65] Le meilleur des cas pour l'appelant est, bien sûr, l'affaire Blanco, précitée. Même dans cette affaire-là, bien que le juge de première instance se soit montré sympathique envers l'appelant et qu'il ait fait de son mieux pour juger en faveur de l'appelant, il n'a pas pu le faire. Comme le juge McArthur, cette cour ne peut pas ignorer que le prêt était un prêt familial et que l'intention de l'appelant était d'aider son fils. Si des preuves documentaires, comme des annexes, des états ou des calendriers, avaient été présentées et que ces preuves avaient eu pour but de montrer tout revenu éventuel qu'aurait pu toucher l'appelant, le résultat aurait pu être différent.
+[66] La Cour est convaincue que tous les témoins ont été francs lorsqu'ils ont présenté leurs éléments de preuve et qu'ils ont essayé de dire les choses telles quelles. Tout compte fait, après que la Cour a examiné tous les faits et tiré toutes les inférences raisonnables, ce qu'elle a le droit de faire, elle doit conclure que, fondamentalement, le prêt était un prêt familial fait à titre d'avance dans le but d'aider le fils. Au moment où il a consenti le prêt, le père n'avait pas l'intention d'en tirer un revenu, du moins dans la mesure où on aurait pu considérer le prêt comme étant de nature commerciale.
+[67] Comme dans l'affaire Blanco, précitée, la Cour ressent de la sympathie pour le contribuable, mais elle ne peut pas ignorer les faits ou s'abstenir de tenir compte du fait que l'appelant n'a pas pu établir, selon la prépondérance des probabilités, que le prêt avait pour but de tirer un revenu.
+[68] J'ai le regret d'annoncer qu'il faut que les appels soient rejetés avec dépens en faveur de l'intimée sur la base des honoraires d'un seul avocat. La cotisation est confirmée.
+Signé à Ottawa, Canada, ce 16e jour de mars 2004.
+« T. E. Margeson »
+Le juge Margeson
+Traduction certifiée conforme
+ce 29e jour de juin.
+Joanne Robert, traductrice

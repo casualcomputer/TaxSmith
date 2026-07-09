@@ -1,0 +1,129 @@
+Title: 9136-6872 Québec Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29672/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-91-29672-9136-6872-qu-bec-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-03-05
+
+# 9136-6872 Québec Inc. c. La Reine
+
+- Citation: 2010 CCI 91
+- Decision date: 2010-03-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6239, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9136-6872 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-05
+Référence neutre
+2010 CCI 91
+Numéro de dossier
+2008-3021(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3021(IT)G
+ENTRE :
+9136-6872 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 14 décembre 2009, à Québec (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelante :
+Maurice Dussault
+Avocat de l'intimée :
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+L'appel de la détermination établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition se terminant le 30 novembre 2004 est rejeté avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 5e jour de mars 2010.
+« François Angers »
+Juge Angers
+Référence : 2010 CCI 91
+Date : 20100305
+Dossier : 2008-3021(IT)G
+ENTRE :
+9136-6872 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit d'un appel d'un avis de détermination de perte datée du 18 mai 2007 pour l'année d'imposition de l'appelante se terminant le 30 novembre 2004.
+[2] Dans sa déclaration de revenus pour son exercice financier se terminant le 30 novembre 2004, l'appelante a déduit à titre de perte finale le montant de 1 477 154 $. Le ou vers le 21 février 2007, l'appelante a reçu une nouvelle cotisation dans laquelle l'intimée a refusé la perte finale en question, rajustant celle-ci à la moitié du montant déclaré, soit 738 577 $. À la suite de ce nouvel avis de cotisation, l'appelante a fait une demande de détermination de perte le 2 mars 2007 pour l'année d'imposition en question.
+[3] Dans son avis de détermination de perte, qui fait l'objet de ce litige, l'intimée établissait la perte « autre qu'en capital » à 1 092 981 $ pour l'année d'imposition en question et l'opposition de l'appelante à cet avis de détermination repose sur le traitement fiscal accordé à l'appelante par l'intimée à l'égard de la démolition d'un immeuble (catégories 1 et 3) appartenant à l'appelante, particulièrement sur l'application de l'alinéa 13(21.1)b) de la Loi de l'impôt sur le revenu (la « Loi »), qui a eu pour conséquence de réduire la perte finale de moitié.
+[4] L'appelante a exploité pendant plusieurs années l'Hôtel Rond‑Point à Lévis (Québec). En mai 2004, elle a décidé de démolir le bâtiment dans le but de construire sur le site un immeuble commercial dont la construction a pris fin en novembre de la même année. L'immeuble en question a été loué pour une période de 20 ans avec option de renouvellement pour des périodes de 5 ans. Le locataire (un marché d'alimentation IGA) a également un droit de premier refus dans l'éventualité où l'appelante décide de vendre. Il n'a jamais été question toutefois de vendre le terrain lors de la démolition de l'hôtel ou par après.
+[5] L'appelante, par l'entremise de ses conseillers-comptables, s'est informée auprès de l'Agence du revenu du Canada sur le montant de la perte finale auquel elle avait droit et, selon l'information obtenue, elle avait droit de déduire à titre de perte finale 1 477 154 $ pour son exercice financier se terminant le 30 novembre 2004. Le 8 décembre 2004, l'Agence des douanes et du revenu du Canada à l'époque a autorisé l'appelante à adopter comme date de clôture d'exercice financier le 30 novembre au lieu du 31 janvier et ce, à compter du 30 novembre 2004. Cela explique d'ailleurs pourquoi l'appelante a deux déclarations de revenus en 2004.
+[6] La perte finale déduite a été refusée à la suite de la vérification et aussi à la suite de la demande de détermination. L'intimée est d'avis que l'alinéa 13(21.1)b) de la Loi s'applique en l'espèce. Le coût indiqué du bâtiment démoli était de 1 477 154 $ et l'appelante a indiqué un produit de disposition de zéro pour le bâtiment démoli dans son tableau d'amortissement. De son côté, l'appelante soutient que ledit alinéa ne s'applique pas puisqu'au moment où le bâtiment a été démoli, elle n'avait aucunement l'intention de vendre le terrain sur lequel était situé le bâtiment; elle avait déjà prévu la construction d'un nouveau bâtiment commercial sur le terrain après la démolition et la location de ce bâtiment pour une durée de 20 ans, de sorte que la totalité de la perte devrait lui être accordée.
+[7] La perte finale que l'appelante a déduite résulte de la disposition de tous les biens de la catégorie 1 et 3 à l'annexe II du « Règlement de l'impôt sur le revenu » et elle a été établie conformément au paragraphe 20(16) de la Loi qui se lit comme suit :
+Perte finale. Malgré les alinéas 18(1)a), b) et h), lorsque, à la fin d'une année d'imposition :
+a) d'une part, le total des montants utilisés pour le calcul des éléments A à D de la formule figurant à la définition de « fraction non amortie du coût en capital » au paragraphe 13(21) est supérieur au total des montants utilisés pour le calcul des éléments E à J de la même formule, au titre des biens amortissables d'une catégorie prescrite d'un contribuable;
+b) d'autre part, le contribuable ne possède plus de biens de cette catégorie,
+dans le calcul de son revenu pour l'année :
+c) il doit déduire l'excédent déterminé en vertu de l'alinéa a);
+d) il ne peut déduire aucun montant pour l'année en vertu de l'alinéa (1)a) à l'égard des biens de cette catégorie.
+[8] Ce paragraphe prévoit que, lorsqu'un contribuable a disposé de tous les biens d'une catégorie prescrite et qu'il reste un solde au titre de la « fraction non amortie du coût en capital » (FNACC) des biens de la catégorie, le solde doit être déduit en entier dans le calcul du revenu et ce, à titre de déduction finale ou de perte finale.
+[9] Il y a cependant des restrictions quant à la perte finale à l'égard des bâtiments. Ces restrictions se trouvent au paragraphe 13(21.1) de la Loi et c'est sur l'application de ce paragraphe que repose finalement le présent litige. Selon le paragraphe 13(21.1), les règles qui y sont prévues s'appliqueraient lorsque le produit de disposition est inférieur au coût indiqué du bâtiment, ce qui est, à mon avis, le cas en l'espèce puisque le produit de disposition est nul et que le coût indiqué du bâtiment est supérieur au produit de disposition.
+[10] Le paragraphe 13(21.1) de la Loi se lit comme suit :
+Disposition d’un bâtiment
+13(21.1) Malgré le paragraphe (7) et la définition de « produit de disposition » à l’article 54, dans le cas où, à un moment donné d’une année d’imposition, un contribuable dispose d’un bâtiment d’une catégorie prescrite pour un produit de disposition, déterminé compte non tenu du présent paragraphe ni du paragraphe (21.2), qui est inférieur à son coût indiqué, ou, s’il est moins élevé, à son coût en capital, pour lui immédiatement avant la disposition, les règles ci‑après s’appliquent dans le cadre de l’alinéa a) de l’élément F de la formule figurant à la définition de « fraction non amortie du coût en capital » au paragraphe (21) de la sous-section c :
+a) si, au cours de l’année, le contribuable ou une personne avec qui il a un lien de dépendance dispose du fonds de terre sous-jacent ou contigu au bâtiment et nécessaire à l’usage qui en est fait, le produit de disposition du bâtiment est réputé égal au moins élevé des montants suivants :
+[...]
+b) lorsque l’alinéa a) ne s’applique pas à la disposition et que, à un moment donné avant celle-ci, le contribuable ou une personne avec laquelle il avait un lien de dépendance était propriétaire du fonds de terre sous-jacent ou contigu au bâtiment et nécessaire à l’usage qui en est fait, le produit de disposition du bâtiment est réputé égal au total des montants suivants :
+(i) le produit de disposition du bâtiment, déterminé compte non tenu du présent paragraphe ni du paragraphe (21.2),
+(ii) la moitié de l’excédent du plus élevé des montants suivants sur le produit de disposition visé au sous-alinéa (i) :
+(A) le coût indiqué du bâtiment pour le contribuable immédiatement avant sa disposition,
+(B) la juste valeur marchande du bâtiment immédiatement avant sa disposition.
+[11] Il ne fait aucun doute que la démolition du bâtiment par l’appelante constitue une disposition au point de vue fiscal. Pour qu’il y ait application de l’alinéa 13(21.1)a), il faut que l’appelante, ou une personne avec qui elle a un lien de dépendance, dispose du fonds de terre sous-jacent au cours de l’année, ce qui n’est pas le cas en l’espèce. Les faits de l’espèce ne permettent pas l’application de cet alinéa puisque ni l’appelante, ni une personne avec qui elle a un lien de dépendance, n'ont disposé du fonds de terre sous-jacent au cours de l’année. Dans un tel cas, le produit de disposition se doit d’être rajusté en vertu de l’alinéa 13(21.1)b) afin de réduire la perte pouvant être déduite. Cette perte qui, normalement, serait entièrement déductible sera traitée comme une perte en capital dont seulement la moitié sera déductible.
+[12] Les notes techniques au paragraphe 13(21.1) de la Loi qui datent de 1982 font référence au moment de la disposition du fonds de terre et indiquent que l’alinéa b) trouve application lorsque l’alinéa a) ne s’applique pas à la disposition. Plusieurs extraits d’articles et de doctrine ont été cités à l'audience. Dans un article intitulé « Sale of a Business – Purchaser and Vendor Issues » 1999 British Columbia Tax Conference, de Leonard Glass, l'auteur est d’avis qu’il n’est pas nécessaire que le fonds de terre soit vendu dans une année subséquente pour que l’alinéa b) s'applique :
+« Where a land is not sold or is not sold until a subsequent year, paragraph 13(21.1)b) effectively treats any terminal loss on the building as a capital loss »
+[13] Lorne Shillinger, dans un article intitulé « Developments in the Taxation of Real Estate Investments » (Report of Proceedings of the fifty-ninth tax conference, Canadian Tax Foundation, 2008) p. 13-50, est du même avis. Si le contribuable ne dispose pas du fonds de terre sous-jacent, le produit de disposition sera rajusté par application de l’alinéa 13(21.1)b) de la Loi.
+[14] Dans un autre article, cette fois-ci de Michelle Desrosiers, intitulé « Règles spéciales concernant la déduction pour amortissement » (1995), 17 Revue de planification fiscale et successorale 163, cette auteur abonde dans le même sens que l’appelante. Voici ce qu’elle dit à la page 224 :
+Bien entendu, si le bâtiment est démoli sans que le vendeur ait l’intention de vendre le terrain sous-jacent, les règles du paragraphe 13(21.1) L.I.R. ne s’appliqueront pas pour présumer un produit de disposition.
+Ce sont plutôt les règles habituelles des articles 54 L.I.R. et 251 L.I. et des paragraphes 13(21) L.I.R. et 93f) L.I. qui s’appliqueront pour considérer une disposition telle que supportée par la Cour suprême du Canada dans l’arrêt Compagnie Immobilière BCN Ltée.
+Donc, afin d’éviter que le vendeur démolisse le bâtiment avant la vente et puisse réclamer une perte finale, certaines règles s’appliquent pour venir réputer un nouveau produit de disposition pour l’immeuble et le terrain.
+[15] Plus loin, à la page 229, madame Desrosiers explique comme suit l’application de l’alinéa 13(21.1)b) de la Loi :
+Disposition du terrain au cours d’une année subséquente
+L’alinéa 13(21.1)b) L.I.R. prévoit une deuxième règle lorsque la disposition du terrain connexe n’a pas lieu au cours de la même année d’imposition que la disposition du bâtiment, mais que ce terrain connexe appartenait, à un moment quelconque avant la disposition du bâtiment, au contribuable ou à une personne qui avait un lien de dépendance.
+[16] À mon avis, il serait faux de prétendre que l’alinéa b) ne s'applique pas si le fonds de terre n’est jamais vendu ou encore qu’un appelant qui n’a pas l’intention de le vendre empêcherait son application, car aucun contribuable ne sait à quel moment il va disposer d’un terrain. Pourtant, une perte finale peut être déduite uniquement dans l’année pendant laquelle elle a été subie. La Cour suprême du Canada, dans l'arrêt Compagnie Immobilière B.C.N. [1979] 1 R.C.S. 865, à la page 880, a dit que le droit de déduire une perte finale « n’existe que pour l’année au cours de laquelle la perte a été subie; ce droit disparaît s’il n’est pas exercé pour l’année de la perte et il ne peut être utilisé une autre année.» Il serait donc, à mon avis, déraisonnable et inefficace d’accorder à un contribuable une perte finale dans l’année de disposition d’un bâtiment s’il ne vend pas le terrain sous-jacent et de le cotiser à nouveau par la suite s’il le vend. Un tel état de choses rendrait l’alinéa 13(21.1)b) complètement superflu.
+[17] Tout comme certains auteurs l’ont signalé, le paragraphe 13(21.1) a pour but d’empêcher le contribuable de tirer indûment profit de la possibilité de déduire une perte finale dans certaines circonstances. Les auteurs Dussault et Ratti dans la 3e édition de leur ouvrage intitulé « L’impôt sur le revenu au Canada », disaient ceci à propos des alinéas 13(21.1)a) et b) :
+9. Le paragraphe 13(21.1) L.I.R. apporte une restriction concernant la perte finale à l’égard des bâtiments. Selon les règles qui précèdent, la disposition d’un bâtiment peut donner lieu à une perte finale si le moindre du coût ou du produit de disposition est inférieur à la « fraction non amortie du coût en capital » des biens de la catégorie. Cette perte finale est normalement entièrement déductible en vertu du paragraphe 20(16) L.I.R. Par ailleurs, le terrain adjacent ou sous‑jacent au bâtiment est une immobilisation non amortissable; sa disposition ne peut donner lieu qu’à un gain ou une perte en capital dont une partie seulement est imposable ou déductible. Si, à la suite de l’acquisition d’un terrain ou d’un bâtiment, on dispose de ce dernier pour un montant inférieur à la fraction non amortie du coût en capital de la catégorie à laquelle appartient le bâtiment (dans le cas de démolition par exemple) mais que par ailleurs on réalise un gain en capital sur le terrain, celui‑ci, qui n’est imposable que pour partie, peut être complètement compensé et même plus par la perte finale entièrement déductible à l’égard du bâtiment.
+Dans le but d’empêcher les contribuables de tirer indûment profit de ces règles, on a apporté des restrictions à la possibilité de réclamer une perte finale en certaines circonstances. Le résultat pratique de ces règles est de traiter une perte sur la vente d’un bâtiment normalement déductible en totalité comme s’il s’agissait d’une perte en capital dont une partie seulement est déductible. Ce résultat est obtenu par la diminution du gain en capital sur le terrain d’un montant équivalent à la perte finale refusée.
+[18] L’alinéa 13(21.1)b) ne fait que statuer que la disposition du fonds de terre ne doit pas être faite dans la même année d’imposition où a eu lieu la disposition du bâtiment. Dans un tel cas, le produit de disposition doit être rajusté afin de réduire la perte pouvant être déduite. Aucune autre interprétation ne serait fonctionnelle ou efficace.
+[19] Madame Sophie Rousseau, de l'Agence du revenu, est venue expliquer certaines corrections dans les calculs faits en fonction des catégories 1, 3 et 8. Ces corrections n'ont finalement pas d'impact sur le montant de la perte finale ni aucun autre impact fiscal. L'appelante ne s'est d'ailleurs pas opposée aux corrections et il n'est pas nécessaire, à mon avis, de les reproduire ici puisqu'elles n'ont pas d'influence sur l'application du paragraphe 13(21.1) de la Loi en l'espèce.
+[20] L’appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 5e jour de mars 2010.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2010 CCI 91
+Nº DU DOSSIER DE LA COUR : 2008-3021(IT)G
+INTITULÉ DE LA CAUSE : 9136-6872 Québec Inc. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 14 décembre 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 5 mars 2010
+COMPARUTIONS :
+Représentant de l'appelant :
+Maurice Dussault
+Avocat de l'intimée :
+Me Vlad Zolia
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,189 @@
+---
+title: "Jamal v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/345260/index.do"
+last_modified: "2018-09-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 196"
+citation2: ""
+neutral_citation: "2018 TCC 196"
+decision_date: "2018-09-27"
+language: "en"
+item_id: "345260"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5003
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:37:46.290000+00:00"
+cases_cited_count: 6
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2fef494bd0f1d28fcdf38c1744435d3a5d448b64aa4ed42483c1a45ec693e397"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jamal v. The Queen
+
+- Citation: 2018 TCC 196
+- Decision date: 2018-09-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5003, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jamal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-09-27
+Neutral citation
+2018 TCC 196
+File numbers
+2017-3874(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Notes
+A correction was made on October 30, 2018
+Decision Content
+Docket: 2017-3874(IT)I
+BETWEEN:
+MOHAMED JAMAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 1, 2018, at Vancouver, British Columbia with subsequent written submissions due August 30, 2018
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kiel Walker
+AMENDED JUDGMENT
+IN ACCORDANCE with the Amended Reasons for Judgment attached, the appeal in respect of the Appellant’s 2011 taxation year is dismissed without costs on the basis that the Appellant made application more than 4 years after the statutory deadline for a refund of an employee overpayment under the Canada Pension Plan, R.S.C. 1985, c. C-8.
+The Amended Judgment and the Amended Reasons for Judgment are issued in substitution for the Judgment and Reasons for Judgment dated September 27, 2018.
+Signed at Ottawa, Canada, this 29th day of October 2018.
+“R.S. Bocock”
+Bocock J.
+Citation: 2018 TCC 196
+Date: 20181029
+Docket: 2017-3874(IT)I
+BETWEEN:
+MOHAMED JAMAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Bocock J.
+I. Facts
+[1] Mr. Jamal appeals the Minister of National Revenue’s (the “Minister”) decision to deny his refund of $1,108.00 in the 2011 taxation year. That refund relates to an overpayment of employee contributions (the “overpayment”) under the Canada Pension Plan, R.S.C. 1985, c. C-8 (the “CPP”). The Minister’s reason is that Mr. Jamal waited longer than 4 years after the balance due date for the 2011 taxation year to claim a refund of the overpayment. Although Mr. Jamal claimed the refund within his 2011 tax return, he did not file that return until August 16, 2016. The Minister asserts the applicable deadline was December 31, 2015: 4 years after the 2011 year-end and 229 days before Mr. Jamal applied.
+[2] Mr. Jamal outlined for the Court perfectly understandable and sympathetic reasons why he was late filing his 2011 tax return. During the inter-ceding 4 years and 229 days, he suffered from a serious medical condition, retired early from his job because of the family demands and moved to British Columbia from Alberta.
+[3] In fact, his retirement was the likely event which caused the overpayment. Mr. Jamal was not an historical tax debtor at filing; he never owed income taxes on any previous balance due date. He had always received a refund. Ironically, this would have been true for 2011, but for the denial of the CPP overpayment refund. Because of his consequential balance due for taxes owing in August of 2016, Mr. Jamal was also assessed a late filing penalty of $188.05. He appeals that and the accrued interest as well.
+[4] In appealing the denial of the overpayment refund and the assessed penalty and interest, Mr. Jamal asserts:
+a) he was not aware of the 4 year limitation to claim the refund because it is an obscure provision;
+b) his filing history of perennial refunds left him with no understanding of penalties and interest;
+c) the odd consequential circumstance of the CPP overpayment refund denial giving rise to the penalty and interest is a mitigating factor to be considered in the appeal; and,
+d) statements and reasons within the cases of Tharle [1] and Freitas [2] and the personal circumstances in this appeal make the denial of the overpayment refund an “unfair result”.
+II. The Law
+a) Statutes
+[5] The provisions within the Income Tax Act, RSC 1985, c.1, as amended (the “ITA”) regarding the filing of returns, penalties and wavers are as follows:
+(i) Deadline for filing income tax returns
+Returns
+Filing returns of income — general rule
+150 (1) …, a return of income … shall be filed with the Minister, … for each taxation year of a taxpayer,
+[…]
+Individuals
+(d) …, on or before
+(i) the following April 30 by that person… .
+(ii) Penalties
+Penalties
+Failure to file return of income
+162 (1) Every person who fails to file a return of income for a taxation year … is liable to a penalty equal to the total of
+(a) an amount equal to 5% of the person’s tax payable under this Part for the year …, and
+(b) the product obtained when 1% of the person’s tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, …, from the date on which the return was required to be filed to the date on which the return was filed.
+(iii) Waver of Interest in Minister’s Discretion
+PART XV
+Administration and Enforcement
+Administration
+Waiver of penalty or interest
+Section 220
+(3.1) The Minister may, on or before the day that is ten calendar years after the end of a taxation year of a taxpayer … or on application by the taxpayer …, waive … all or any portion of any penalty or interest otherwise payable under this Act …
+[6] The refund provisions for overpayment in the CPP for both employees and self-employed persons are as follows:
+Refund of overpayment
+38.(1) If an overpayment has been made by an employee on account of the employee’s contribution under this Act for a year, the Minister shall, if application in writing is made … not later than four years … after the end of the year, refund to the employee the amount of the overpayment.
+Refund of excess contribution in respect of self-employed earnings
+38.(4) Where a person has paid, on account of the contribution required to be made by him for a year in respect of his self-employed earnings, an amount in excess of the contribution, the Minister
+(a) may refund that … amount … paid in excess of the contribution on sending the notice of assessment of the contribution, without any application having been made for the refund; and
+(b) shall make such a refund after sending the notice of assessment, if application is made in writing by the contributor not later than four years ¾ … .
+b) The Jurisprudence
+[7] There are no reported cases directly interpreting the time limitation within subsection 38(1) which deals specifically with employee overpayments. The similar, but not identical subsection 38(4), which deals with self-employed earning over-contributions, has been considered in both Tharle and, most recently, in Freitas.
+[8] In Tharle, Justice Little held that the “four-year limit to demand a refund for excess CPP contributions begins to run at the end of the calendar year for which those payments were owed [3] ”. Justice Little reached this decision regarding the mandatory refund provisions in paragraph 38(4)(b) notwithstanding his expressed consternation at the Minister’s reluctance to exercise his permissive discretion under the refund provisions un paragraph 38(4)(a) [4] . Justice Little and this Court note that paragraph 38(4)(b) contains the words “shall make a refund…, if application is made … not later than four years … after the end of the year”. In contrast, paragraph 38(4)(a) contains the permissive “may refund that … amount … paid in excess”.
+[9] Similarly, in Freitas before the Tax Court [5] , Justice Campbell agreed that the “timeline to demand the Minister provide a refund of excess CPP contributions begins to run at the end of the calendar year in which those [CPP] contributions were owed [6] ”. During submissions before this Court, it was revealed that Freitas had been appealed. This Court determined that any decision in Mr. Jamal’s appeal would be delayed until a decision was rendered in Freitas by the Federal Court of Appeal. Thereafter, the parties would be allowed time to consider the appeal decision and make further submissions. Such written submissions were received from both parties in late August and the Court now renders its decision.
+[10] The appeal to the Federal Court of Appeal was allowed. However, in granting the appeal, Justice Webb held, inter alia, that the Appellant had a valid appeal before the Court in respect of increased “tax” liability contained in the 2015 reassessment and the income allocated to the Appellant was not self-employed earnings subject to CPP contributions in the first instance [7] . In allowing the appeal, the Federal Court of Appeal did not consider paragraph 38(4)(b) of the CPP, did not reference Justice Campbell’s affirmation of the deadline running from the balance due date in Tharle or consider Tharle at all in its decision.
+III. Analysis and Decision
+[11] The surrounding circumstances of Mr. Jamal’s appeal both contain irony and draw empathy. It is not lost on this Court that the filing of his 2011 tax return 4 years and 229 days late on August 16, 2016, rather than merely 4 years late on December 31, 2015, presently deny him the CPP overpayment refund and consequentially “earns” him a late filing penalty plus 4 years and 229 days of interest for good measure. It is not necessarily fair or equitable; however, it is the clear intent of Parliament and it is the consequential result of the applicable law as clearly written in the ITA and the CPP, in turn, interpreted by this and other courts.
+[12] Firstly, the wording of subsection 38(1) is clear. Where an overpayment has been made, the Minister must refund it, if an application is made to the Minister within 4 years after the end of the year. However, unlike paragraph 38(4)(a), there is no discretion of the Minister to refund an over contribution beyond the 4 years. Moreover, even if there were, this Court has no power to direct the Minister to exercise her discretion one way or another [8] .
+[13] The basis for rejecting Mr. Jamal’s appeal and his assertions is fundamental to the self-assessing system of taxation in Canada. Mr. Jamal, like all taxpayers, had an obligation to file his 2011 tax return on April 30, 2012 [9] . He did not. Instead, he filed on August 16, 2016. His move to British Columbia, his illness and family circumstances do not excuse his 4 year and 106 day delay. Neither does his lack of knowledge of the need to file his return each year or the 4 year refund limitation within the CPP [10] . Mr. Jamal cannot rely upon his lack of knowledge of the law or his mistaken belief of it, where he made no effort to learn it or seek advice of its existence [11] , but was merely ignorant of its existence. As a result of that omission, he failed to file until after the expiration of the refund provisions. He was denied the refund properly in accordance with the Act. The penalty and interest correctly and automatically flow from that failure.
+[14] As a matter of policy and practicality, limitations within the ITA and CPP alike exist to provide administrative clarity, efficiency and finality [12] . They also cut both ways [13] . Lastly, both Tharle and Freitas, when interpreting a different but perhaps analogous section of the CPP, have held that the 4 year period to apply for a refund of over-contributions on self-reported earnings runs from the date such amounts were due and failure to apply within the deadline is a valid bar to a refund of a CPP overpayment.
+[15] As to the request for the exercise of further ministerial discretion to waive penalty or interest, Mr. Jamal must apply to the fairness committee of the Canada Revenue Agency or the Minister pursuant to subsection 220(3.1) of the Act. As to a remission order of the Governor-in-Council, however impractical, this again is not within the jurisdiction of this Court and Mr. Jamal must follow that separate legislative route.
+[16] For these reasons, the appeal is dismissed without costs.
+The Amended Judgment and Amended Reasons for Judgment are issued in substitution for the Judgment and Reasons for Judgment dated September 27, 2018.
+Signed at Ottawa, Canada, this 29th day of October 2018.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2018 TCC 196
+COURT FILE NO.:
+2017-3874(IT)I
+STYLE OF CAUSE:
+MOHAMED JAMAL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 1, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+October 29, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Counsel for the Respondent:
+Kiel Walker
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Tharle v R., 2011 TCC 325.
+[2] Freitas v The Queen, 2017 TCC 46, 2018 FCA 110.
+[3] Tharle, at paragraph 21.
+[4] Tharle, at paragraphs 18 and 19.
+[5] Freitas, TCC decision, at paragraph 18.
+[6] Freitas, FCA decision, at paragraph 23.
+[7] Freitas, FCA decision, at paragraph 32.
+[8] 3735851 Canada Inc. v HMQ, 2010 TCC 24 at paragraphs 5 and 7.
+[9] Subsection 150(1), ITA, cited in Section II(i) above.
+[10] Subsection 38(1) CPP.
+[11] Corp. de l'Ecole Polytechnique v HMQ, 2004 FCA 127 at paragraph 35 referencing R. v Molis [1980] 2 SCR 356 at paragraph 364.
+[12] CIBC v Green, 2015 SCC 60 at paragraph 57.
+[13] 152(4) of ITA prevents the Minister from re-assessing beyond 3 years in the absence of a misrepresentation having been made by a taxpayer.

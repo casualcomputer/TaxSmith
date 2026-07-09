@@ -1,0 +1,158 @@
+---
+title: "Lacroix v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27324/index.do"
+last_modified: "2007-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 558"
+citation2: ""
+neutral_citation: "2006 TCC 558"
+decision_date: "2007-06-14"
+language: "en"
+item_id: "27324"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 864
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:01:34.158000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a533310eb56dd40669166a3699936e5fbeb7328ae82833f9c663dd189401f5ba"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lacroix v. The Queen
+
+- Citation: 2006 TCC 558
+- Decision date: 2007-06-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 864, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lacroix v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-14
+Neutral citation
+2006 TCC 558
+File numbers
+2004-757(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-757(IT)G
+BETWEEN:
+REGENT LACROIX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Motions heard in Montréal, Quebec, on September 28, 2006
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Philip Nolan
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+ORDER
+Upon the motions by the Respondent and the Appellant for leave to have Exhibit A‑4 examined by an expert;
+And upon the parties' allegations;
+The Court grants the Respondent leave, in accordance with the attached Reasons for Order, to have Exhibit A‑4 examined by an expert no later than December 1, 2006 and to notify the adverse party, prior to that date, of her intent to produce it, in which case the expert's report shall be submitted to the adverse party no later than December 7, 2006. The adverse party shall then have thirty (30) days in which to submit an expert report made on his behalf.
+Signed at Ottawa, Canada, this 23rd day of October 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 20th day of February 2008.
+Frabçois Brunet, Revisor
+Citation: 2006TCC558
+Date: 20061023
+Docket: 2004-757(IT)G
+BETWEEN:
+REGENT LACROIX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Bédard J.
+[1] The Respondent filed the instant motion in this Court at the hearing of this matter, which was held on September 28 and September 29, 2006. The motion is for leave to have Exhibit A‑4, a promissory note dated June 12, 1996, examined by an expert. In response, the Appellant brought a motion seeking to compel the Respondent, in the event that her motion was granted, to tender his own expert report in evidence and give the Appellant the opportunity to have the document examined by an expert.
+Background
+[2] The Appellant is challenging the Minister's reassessments, which are based on the net worth method. He submits that the Minister's computation of his income based on the net worth method was erroneous. The errors allegedly committed by the Minister include a failure to take account of the Appellant's debts, including a total of $500,000 in cash loans that Gilles Pronovost is alleged to have made to the Appellant over a period extending from the early nineties to 1996.
+[3] Each time that Mr. Pronovost lent the Appellant money, a new note for the new amount of the loan was allegedly signed and the old note was allegedly destroyed. It is alleged that Mr. Pronovost generally kept the original notes and that the Appellant generally kept a copy thereof.
+[4] In the course of an audit by the Canada Revenue Agency ("the Agency") in 2002, the Appellant's accountant, Ms. Cloutier, provided just one copy of Exhibit A‑4 to the Agency's auditor. Ms. Cloutier allegedly told the auditor that Mr. Pronovost had the original document in his possession. As for Mr. Pronovost, he apparently told the auditor that he no longer had the note.
+[5] In the Reply to the Notice of Appeal, the Respondent claims that Mr. Pronovost never lent money to the Appellant.
+[6] Upon his examination for discovery on November 29, 2005, the Appellant said that Mr. Pronovost had the original of Exhibit A‑4 in his possession.
+[7] On September 28, 2006, the first day of the hearing of this matter, the Appellant tendered the original of Exhibit A‑4.
+The Respondent's submission
+[8] The Respondent submits that, under section 98 of the Tax Court of Canada Rules (General Procedure), the Appellant had a duty to notify the Respondent that the answer that he gave at the examination for discovery was erroneous. In addition, the Respondent noted that she made sure to notify the Appellant of this obligation at the examination for discovery.
+[9] The Respondent submits that if the original of Exhibit A‑4 had been provided prior to the hearing, she would certainly have had an expert assessment the document examined by an expert in order to confirm or discount the Appellant's claim that the note was written in 1996. The Respondent submits that if an expert concludes that Exhibit A‑4 was not drafted in 1996, she will be in a position to challenge the Appellant on this claim, which is a central aspect of the Appellant's version of the facts.
+[10] In addition, the Respondent submits that if the Court allows her to have Exhibit A‑4 examined by an expert, she has no obligation to produce the report. In this regard, she alleges that if Exhibit A‑4 had been made available to her before the trial and she had asked to have it examined by an expert, she would not have had to tender the report, and the Court would simply not have been informed of the fact.
+[11] In addition, the Respondent submits that the Appellant has no right to ask to have Exhibit A‑4 examined by an expert because
+(i) the Appellant, by his inaction, has waived right; and
+(ii) the Appellant's request comes too late, is abusive, and would run counter to the Tax Court Rules, which seek to ensure that a party is ready to proceed on the day of the hearing and does not take the adverse party by surprise by bringing the existence of a document to the adverse party's attention.
+[12] Lastly, the Respondent submits that if an expert report is submitted, the Appellant's right to challenge the assessment must be limited to the Respondent's methodology or conclusion. The Respondent asserts that the Appellant cannot have Exhibit A‑4 examined by an expert, even if the Respondent has tendered an expert report.
+The Appellant's submission
+[13] The Appellant's written submissions with respect to the Respondent's motion and his own motion were as follows:
+[TRANSLATION]
+Section 145 of the Tax Court of Canada Rules governs expert evidence. The provision is clear: without special leave of the Court, no expert witness for a party will be heard unless his or her report has been submitted to the adverse party at least thirty (30) days before the hearing commences. The other party then has fifteen (15) days to submit its own report. In our submission, the reason for this rule is to enable the parties to prepare for trial and manage their evidence well before the trial begins.
+In our submission, it would be unprecedented to allow the Respondent to adduce expert evidence at this stage of the trial. To some extent, the Appellant has tendered his evidence based on the Respondent's Reply to the Notice of Appeal and on the fact that the Respondent has tendered no expert evidence. In view of the evidence already adduced, it could be prejudicial to the Appellant to allow expert evidence to be adduced at this stage. Certain additional information from the Appellant's witnesses could become necessary, or the Appellant might need to summon new witnesses, which is not desirable at this stage of the trial. In addition, the harm to the Appellant would be compounded by the fact that the Respondent is asking for time to prepare this expert evidence but has not committed herself to tendering it in evidence.
+The Appellant can understand the position of the Respondent, whose evidence consists solely of unproven allusions and insinuations.
+In addition, the Tax Court of Canada Rules, specifically paragraph 145(2)(a), states:
+(2) Unless otherwise directed by the Court, no evidence in chief of an expert witness shall be received at the hearing in respect of an issue unless
+(a) the issue has been defined by the pleadings or by written agreement of the parties stating the issues;
+Nowhere in her pleadings has the Respondent alleged that the document might have been prepared after June 12, 1996. To allow the Respondent to make a case to this effect would run counter to the intent and purpose of the Tax Court of Canada Rules.
+Should the Court allow the Respondent to submit expert evidence, it would be highly prejudicial to the Appellant if he did not have an opportunity to have his own expert examine the document. If the Respondent had filed expert evidence prior to the trial, the Appellant could have tendered his own expert evidence if he had wished to. If he is not permitted to do so today, he would be unacceptably penalized. The Appellant has already testified that the agreement was signed in 1996. Mr. Pronovost testified to the same effect. The Appellant was not required to adduce independent evidence regarding the date on which the document was written, and he was content to accept uncontradicted testimony in this regard.
+Analysis and conclusion
+[14] At the examination for discovery in the case at bar, the Appellant clearly stated that he did not have the original Exhibit A‑4. Moreover, he did not, at any time before the hearing, notify the Respondent that he had the document in his possession, even though he was required under section 98 of the Rules to notify the Respondent that the answer that he gave during the examination for discovery was erroneous.
+[15] In my opinion, in view of procedural fairness, I may place the Respondent in the same position as she would have been in if the Appellant had notified her that he had the original Exhibit A‑4 in his possession. Specifically, the Respondent could have had the document examined by an expert prior to the hearing unbeknownst to the Appellant and the Court. Once the report was done, the Respondent could either have produced it or not. In the latter case, the Court would not have been able to draw any negative inference from the fact that the expert report was not tendered in evidence, since it would not even have known that it existed. The Appellant must understand that there is no provision in the Rules that would have required the Respondent to produce the expert evidence in such an event. Lastly, I am of the opinion that, based on the aforementioned principle of procedural fairness, under which the Respondent is placed in the same position as she would have been in had she been in possession of Exhibit A‑4 prior to the hearing, the Appellant could have brought a pre-trial motion (though such a motion would not have been necessary, in my view, given the allegation in subparagraph 22(n) of the Reply to the Notice of Appeal) to amend his pleadings and allege that Exhibit A‑4 was not drafted in 1996.
+[16] The Appellant had the original Exhibit A-4 in his possession before the hearing. He had the right to have the document examined by an expert before the hearing, but did not exercise that right. Thus, in an sense, he waived that right. Consequently, I am of the opinion that the Appellant cannot have Exhibit A‑4 examined by an expert unless the Respondent chooses to adduce expert evidence regarding the document, in which case the Appellant shall be entitled to have his own expert examine it.
+[17] For these reasons, I grant the Respondent leave to have Exhibit A‑4 examined by an expert no later than December 1, 2006 and to notify the adverse party, prior to that date, of her intent to produce it, in which case the expert report shall be submitted to the adverse party no later than December 7, 2006. The adverse party shall then have thirty (30) days in which to submit his own expert report.
+Signed at Ottawa, Canada, this 23rd day of October 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 20th day of February 2008.
+François Brunet, Revisor
+CITATION: 2006TCC558
+COURT FILE NO.: 2004-757(IT)G
+STYLE OF CAUSE: REGENT LACROIX AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 28, 2006
+REASONS FOR ORDER BY: The Honourable Justice Paul Bédard
+DATE OF ORDER: October 23, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Philip Nolan
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Name Philip Nolan
+Firm: Lavery, de Billy
+Barristers and Solicitors
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

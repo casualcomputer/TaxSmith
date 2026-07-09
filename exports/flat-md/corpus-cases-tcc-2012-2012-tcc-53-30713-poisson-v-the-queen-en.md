@@ -1,0 +1,189 @@
+---
+title: "Poisson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30713/index.do"
+last_modified: "2012-02-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 53"
+citation2: ""
+neutral_citation: "2012 TCC 53"
+decision_date: "2012-02-20"
+language: "en"
+item_id: "30713"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7515
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:35:30.856000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c3d7a25e84504be27ea98fc304587b44b1e30e244b494830b7d0b2882c602086"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poisson v. The Queen
+
+- Citation: 2012 TCC 53
+- Decision date: 2012-02-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7515, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poisson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-02-20
+Neutral citation
+2012 TCC 53
+File numbers
+2009-3634(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3634(IT)G
+BETWEEN:
+JACQUES POISSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Motion heard on November 4, 2011, at Sherbrooke, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Counsel for the Appellant:
+Robert Jodoin (absent)
+Counsel for the Respondent:
+Mathieu Tanguay
+____________________________________________________________________
+ORDER
+Upon the order made on November 16, 2011;
+And upon receiving the written submissions from the parties as to costs;
+The Court orders that costs in the amount of $650 and disbursements are payable by the appellant to the respondent;
+The Court orders that this amount be reimbursed to the appellant by counsel for the appellant under paragraph 152(1)(b) of the Tax Court of Canada Rules (General Procedure) (Rules), and under subsection 152(3) of the Rules orders
+that counsel for the appellant provide the appellant with this Order and the Reasons for Order.
+Signed at Ottawa, Canada, this 20th day of February 2012.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 16th day of September 2014.
+Erich Klein, Revisor
+Citation: 2012 TCC 53
+Date: 20120220
+Docket: 2009-3634(IT)G
+BETWEEN:
+JACQUES POISSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+D’Auray J.
+[1] In this case, I issued an order dated November 16, 2011, allowing the motion by counsel for the respondent to dismiss the appeal.
+[2] Neither the appellant nor his counsel appeared for the hearing of the motion to dismiss the appeal.
+[3] At the hearing, counsel for the respondent requested that I order costs in excess of the Tariff under section 147 of the Tax Court of Canada Rules (General Procedure) (Rules).
+[4] Counsel for the respondent also argued that section 152 of the Rules allows this Court to direct a counsel to reimburse the counsel’s client for any costs that the client has been ordered to pay to any other party, where a counsel for a party has caused costs to be incurred improperly or without reasonable cause or to be wasted by undue delay, misconduct or other default.
+[5] Subsection 152(2) of the Rules provides that no such direction shall be made unless the counsel is given a reasonable opportunity to make representations to the Court.
+[6] I therefore asked counsel for the appellant and counsel for the respondent for written submissions on costs and particularly on the application of subsection 152(2) of the Rules.
+[7] Written submissions were filed by both parties.
+[8] Counsel for the appellant submits that the costs in this case should be limited to Schedule II, Tariff B, under Class A, that is, $350 for the preparation of a motion for dismissal of the appeal. According to counsel for the appellant, the amount of $2,000 sought by counsel for the respondent is much too high, having regard to the work done in this case.
+[9] In addition, he submits that he cannot be held liable for costs in this case because his client, Mr. Poisson, did not provide him with any instructions; therefore, he could not inform counsel for the respondent of his client’s intentions.
+[10] The submissions of counsel for the appellant also indicate that his client withdrew his mandate as soon as the time for appealing the decision of the Court of Québec expired, that is, on August 15, 2011.
+[11] The day before the hearing, November 3, 2011, the law firm of counsel for the appellant sent a letter to counsel for the respondent indicating to him that he had no mandate from the client to oppose the motion to dismiss the appeal. This Court did not receive a copy of this correspondence.
+[12] Counsel for the appellant did not attend at the hearing on November 4, 2011, as he believed that his presence was unnecessary.
+[13] However, the motion to dismiss the appeal was duly served upon him. Furthermore, counsel for the appellant was still the counsel of record under sections 31 to 34 of the Rules.
+[14] An analysis of the facts in this case shows that it was on the application of counsel for the appellant that the case in this Court was held in abeyance. Counsel for the appellant made a commitment to this Court that the present case would be linked to the judgment rendered by the Court of Québec. The judgment of the Court of Québec was rendered on July 15, 2011, and it dismissed the originating motion of Mr. Poisson. Neither this Court nor counsel for the respondent was notified that a judgment had been rendered. Counsel for the respondent found out about it from counsel for the Deputy Minister of Revenue of Quebec on July 25, 2011.
+[15] On July, 25, 2011, counsel for the respondent attempted unsuccessfully to communicate with counsel for the appellant.
+[16] On July 28, 2011, counsel for the respondent sent a letter to counsel for the appellant asking him to inform him of his intentions with regard to pursuing the case.
+[17] On August 25, 2011, after several attempts at communicating with counsel for the appellant, counsel for the respondent served a second letter, asking him again about his intentions with regard to pursuing the case. In this letter, counsel for the respondent indicated that the appellant had until September 2, 2011, to discontinue the appeal without incurring liability for costs, otherwise a motion to dismiss the appeal would be filed.
+[18] On September 6, 2011, counsel for the respondent served a motion to dismiss the appeal on counsel for the appellant.
+[19] On September 7, 2011, the respondent’s motion to dismiss the appeal and the proofs of service were filed with this Court.
+[20] The hearing of the motion was set down for November 4, 2011, before this Court in Sherbrooke.
+[21] In addition, by letter dated November 3, 2011, counsel for the respondent confirmed to counsel for the appellant his attendance at the hearing. See Exhibit I‑1.
+[22] This is a Class A proceeding because the amount of tax in dispute for each of the 2003 and 2004 taxation years is less than $50,000. Tariff B of Schedule II provides that costs awarded for the preparation and filing of a motion in a Class A proceeding are $350.
+[23] Counsel for the respondent argues that this amount is insufficient considering that the case had to continue to be managed and that all the necessary steps for obtaining the dismissal of the appeal were taken because of counsel’s failure to honour his undertakings to this Court and the respondent.
+[24] Counsel for the respondent relies on paragraphs 147(3)(a), 147(3)(e), 147(3)(g) and subparagraph 147(3)(i)(i) of the Rules.
+147(3)(a) - the result of the proceeding
+[25] The motion to dismiss the appeal was allowed. According to counsel for the respondent, no justification was provided by counsel for the appellant for the conduct he was accused of.
+147(3)(e) – the volume of work
+[26] Counsel for the respondent was forced to spend time on attempting to reach counsel for the appellant by telephone and by mail and on the preparation of the motion.
+147(3)(g) - the conduct of any party that tended to lengthen unnecessarily the duration of the proceeding
+[27] The respondent argues that the conduct of counsel for the appellant had the effect of lengthening unnecessarily the duration of the proceeding.
+147(3)(i)(i) - whether any stage in the proceedings was improper, vexatious, or unnecessary
+[28] The respondent argues that pursuant to the agreement of counsel for the appellant to link this appeal to the judgment rendered in the Court of Québec, counsel for the appellant should have discontinued the appeal in a timely fashion, which would have saved unnecessary costs for both the Court and the respondent.
+[29] Two issues arise in the present case:
+− Whether costs in excess of the Tariff should be awarded.
+− Whether counsel for the appellant must be held liable for costs.
+Whether costs in excess of the Tariff should be awarded
+[30] Most of the decisions dealing with costs indicate that absent special circumstances or, as stated by Justice Mainville of the Federal Court of Appeal, where the circumstances so warrant,[1] costs awarded should be in accordance with the Tariff.
+[31] In the present case, the respondent argues that she was successful on the motion to dismiss the appeal and that, in view of the conduct of counsel for the appellant, she had to continue to manage the case and had to prepare a motion to dismiss the appeal. The conduct of counsel for the appellant lengthened unnecessarily the duration of the proceeding when both the procedures relating to the motion and the hearing of that motion could have been avoided.
+[32] I agree with the submissions of counsel for the respondent. Counsel for the appellant made the commitment to link this appeal to the judgment of the Court of Québec. Accordingly, as soon as the time for appealing expired, counsel for the appellant should have filed a discontinuance. Furthermore, counsel for the appellant had been aware since the end of August 2011 that his client did not wish to continue. He chose to ignore the telephone calls and correspondence of his colleague. He also chose not to file a notice of withdrawal as counsel and to ignore the Court by failing to advise it of his intentions and by not appearing at the hearing.
+[33] In addition, it was not until the day before the hearing that his firm advised counsel for the respondent that his client had not given him a mandate to oppose the motion to dismiss the appeal, but it did not indicate that he would not be appearing before this Court for the hearing of November 4, 2011. The letter was sent to counsel for the respondent, and not to this Court, when counsel for the respondent was already on his way to Sherbrooke.
+[34] I find that in light of the facts of the case, there are circumstances that justify awarding costs in excess of the Tariff. It is clear that if counsel for the appellant had notified his colleague and the Court of his intentions, counsel for the respondent would not have had to manage the case, prepare a motion and appear before this Court. A hearing would not have been necessary. The mandate of counsel for the appellant was withdrawn by his client when the time for appealing expired, that is, on August 15, 2011. He had ample time to notify the Court and his colleague of this prior to the hearing of November 4, 2011. A brief telephone call to his colleague and this Court to inform them that his client did not wish to pursue his appeal would have sufficed. A discontinuance or a motion to withdraw as counsel could have been filed.
+[35] Counsel for the respondent is seeking $2,000 in costs. He did not, however, indicate on what basis he came to that figure. I find the amount of $2,000 high. In light of the facts of the case and paragraphs 147(3)(a), 147(3)(e), 147(3)(g), subparagraph 147(3)(i)(i) and subsection 147(4) of the Rules, I order costs in the amount of $650 plus disbursements.
+Whether counsel for the appellant must be held liable for costs
+[36] Counsel for the appellant maintains that he was shocked to learn that his client was withdrawing his mandate because he was to file for bankruptcy the following day. According to him, he cannot be held liable for his client’s laxity.
+[37] Counsel for the appellant does not, however, explain in his written submissions why
+− he did not inform his colleague and the Court that his client had decided not to pursue his appeal at the end of August 2011, when the time for filing an appeal with the Quebec Court of Appeal had expired;
+− he did not file a discontinuance or a motion to withdraw as counsel although he had made a commitment to link this appeal to the judgment rendered by the Court of Québec;
+− he never contacted counsel for the respondent, despite telephone calls and correspondence from him concerning the pursuit of the matter;
+− he did not advise this Court that he would not be attending at the hearing although he was still the counsel of record.
+[38] The written submissions and conduct of counsel for the appellant in this case are most disappointing. It is clear that if counsel for the appellant had acted diligently and courteously toward his colleague and the Court, the preparation, the service, the filing and the hearing of the motion to dismiss the appeal could have been avoided as could the management of this case by the Court and by counsel for the respondent.
+[39] Section 152 of the Rules provides as follows:
+152. (1) Where a counsel for a party has caused costs to be incurred improperly or without reasonable cause or to be wasted by undue delay, misconduct or other default, the Court may make a direction,
+(a) disallowing some or all of the costs as between the counsel and the client,
+(b) directing the counsel to reimburse the client for any costs that the client has been ordered to pay to any other party, and
+(c) requiring the counsel to indemnify any other party against costs payable by that party.
+(2) A direction under subsection (1) may be made by the Court on its own initiative or on the motion of any party to the proceeding, but no such direction shall be made unless the counsel is given a reasonable opportunity to make representations to the Court.
+(3) The Court may direct that notice of a direction against a counsel under subsection (1) be given to the client in the manner specified in the direction.
+[40] I adopt Justice Boyle’s analysis of section 152 of the Rules in Dacosta v. The Queen, 2008 TCC 136, at paragraphs 23 to 28. It is important to state the principle he sets out at paragraph 23 respecting section 152 of the Rules:
+23 The common law inherent jurisdiction requirement that there be a finding of bad faith clearly does not constitute a prerequisite under Rule 152. The words of Rule 152 should be given their ordinary meaning. There is no requirement that the lawyer’s conduct be abusive, negligent or in bad faith. See, for example, the recent Ontario decisions in Walsh v. 1124660 Ontario Ltd. et al., [2007] O.J. No. 639 and Standard Life Assurance Co. v. Elliott et al., [2007] O.J. No. 2031.
+[41] In this case, I find that the conduct of counsel for the appellant is caught by section 152 of the Rules. His conduct has caused costs to be incurred improperly or without reasonable cause. His conduct reflects a lack of courtesy towards the Court and counsel for the respondent.
+[42] The Court orders by way of a direction that the costs awarded to the respondent and payable by the appellant, in the amount of $650 plus disbursements, be reimbursed in full by counsel for the appellant under paragraph 152(1)(b) of the Rules, and the Court orders counsel for the appellant, under subsection 152(3) of the Rules, to provide the appellant with the Order herein and these Reasons for Order.
+Signed at Ottawa, Canada, this 20th day of February 2012.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 16th day of September 2014.
+Erich Klein, Revisor
+CITATION: 2012 TCC 53
+COURT FILE NO.: 2009-3634(IT)G
+STYLE OF CAUSE: JACQUES POISSON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: November 4, 2011
+REASONS FOR ORDER BY: The Honourable Justice Johanne D’Auray
+DATE OF ORDER: February 20, 2012
+APPEARANCES:
+Counsel for the appellant:
+Robert Jodoin (absent)
+Counsel for the respondent:
+Mathieu Tanguay
+COUNSEL OF RECORD:
+For the appellant:
+Name: Robert Jodoin (absent)
+Firm: Jodoin Hubert
+Bromont, Quebec
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Canada (Attorney General) v. Chrétien, 2011 FCA 53.

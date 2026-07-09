@@ -1,0 +1,641 @@
+---
+title: "Faber c. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28754/index.do"
+last_modified: "2008-07-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 403"
+citation2: ""
+neutral_citation: "2008 CCI 403"
+decision_date: "2008-07-03"
+language: "fr"
+item_id: "28754"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1541
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:35:44.740000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "09427ab9588cbdd763dc06cd8793f034da11b04f91100ed4903ff64ec73bcbb9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Faber c. The Queen
+
+- Citation: 2008 CCI 403
+- Decision date: 2008-07-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1541, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Faber c. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-07-03
+Référence neutre
+2008 CCI 403
+Numéro de dossier
+2005-1062(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1062(IT)G
+ENTRE :
+JONAS FABER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus les 29, 30 et 31 octobre et les 1er et 2 novembre 2007, à Kelowna (Colombie‑Britannique).
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même et
+Mme Diane Henderson
+Avocate de l'intimée :
+Me Nadine Taylor Pickering
+________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en application de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont accueillis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations, selon les motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 3e jour de juillet 2008.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 11e jour de septembre 2008.
+Yves Bellefeuille, réviseur
+Référence : 2008 CCI 403
+Date : 20080703
+Dossier : 2005-1062(IT)G
+ENTRE :
+JONAS FABER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Les faits
+[1] L'appelant est un artiste inuit autodidacte qui crée des sculptures en stéatite et à l'aide d'autres matières naturelles (comme des bois d'animaux, des os, de l'ivoire et d'autres minéraux).
+[2] L'appelant crée également des bijoux et travaille à des projets archéologiques.
+[3] L'appelant exploite son entreprise d'art à titre de propriétaire unique.
+[4] L'appelant et sa famille vivent à Summerland, en Colombie‑Britannique.
+[5] L'appelant était représenté à l'audience par son épouse, Diane Henderson.
+[6] En préparant ses déclarations de revenus pour les années d'imposition 2000 et 2001, l'appelant a déduit un certain nombre de dépenses.
+[7] Le ministre du Revenu national (le « ministre ») a délivré un avis de cotisation. Certaines des dépenses que l'appelant a déduites ont été admises et certaines dépenses ont été refusées.
+[8] La réponse que le ministère de la Justice a déposée renferme l'annexe A, qui indique les dépenses qui ont été déduites, celles qui ont été admises et celles qui ont été refusées. L'annexe A est rédigée comme suit :
+[TRADUCTION]
+2000
+2001
+Déduit
+Admis
+Refusé
+Déduit
+Admis
+Refusé
+Revenu brut
+78 975,00
+78 975,00
+-
+94 817,00
+94 817,00
+-
+Coût des marchandises vendues
+-
+-
+-
+25 925,92
+8 935,41
+16 990,51
+Bénéfice brut
+78 975,00
+78 975,00
+-
+68 891,08
+85 881,59
+16 990,51
+Dépenses :
+Publicité
+350,00
+172,42
+177,58
+259,39
+165,58
+93,81
+Autres
+-
+-
+-
+8 194,70
+2 950,49
+5 244,21
+Assurance
+356,00
+-
+356,00
+-
+-
+-
+Entretien et réparations
+-
+-
+-
+151,85
+-
+151,85
+Repas et représentation
+5 545,28
+1 213,35
+4 331,93
+2 781,82
+725,93
+2 055,89
+Véhicule automobile
+12 883,93
+5 238,32
+7 645,61
+14 396,89
+5 645,22
+8 751,67
+Bureau
+3 403,58
+2 887,01
+516,57
+71,40
+71,40
+-
+Fournitures
+12 452,12
+8 360,35
+4 091,77
+-
+-
+-
+Frais jur. et compt.
+192,60
+192,60
+-
+192,60
+192,60
+-
+Loyer
+7 800,00
+-
+7 800,00
+-
+-
+-
+Salaires et avantages
+13 587,00
+-
+13 587,00
+-
+-
+-
+Déplacements
+15 310,79
+11 178,23
+4 132,56
+12 994,71
+6 167,23
+6 827,48
+Téléphone et services publics
+4 425,23
+577,61
+3 847,62
+2 803,77
+545,36
+2 258,41
+Déduction pour amortissement
+3 059,49
+1 177,87
+1 881,62
+2 722,34
+1 264,76
+1 457,58
+Total des dépenses
+79 366,02
+30 997,76
+48 368,26
+44 569,47
+17 728,57
+26 840,90
+Revenu net (perte)
+-391,02
+47 977,24
+48 368,26
+24 321,61
+68 153,02
+43 831,41
+Bureau à domicile
+-
+4 846,38
+-4 846,38
+5 938,82
+4 949,02
+989,80
+Revenu net :
+-391,02
+43 130,86
+43 521,88
+18 382,79
+63 204,00
+44 821,21
+Frais de bureau à domicile reportés sur des exercices ultérieurs
+-
+-
+-
+-
+-
+-
+Stock de clôture :
+Argent
+-
+-
+-
+-
+2 212,76
+2 212,76
+[9] L'appelant a déposé des avis d'opposition aux nouvelles cotisations et le ministre a ratifié les nouvelles cotisations.
+[10] L'appelant a déposé des avis d'appel devant la Cour canadienne de l'impôt.
+B. Le point en litige
+[11] Il s'agit de savoir si des dépenses en sus du montant admis par le ministre ont été engagées par l'appelant en vue de gagner ou de produire un revenu d'entreprise.
+C. Analyse et décision
+[12] Les appels ont été entendus à Kelowna, en Colombie‑Britannique. À la fin de l'audience, l'avocate de l'intimée a déposé une annexe indiquant les concessions que l'appelant et l'intimée avaient faites. Cette annexe est rédigée comme suit :
+[TRADUCTION]
+CONCESSIONS – APPELANT et INTIMÉE
+2000
+DÉPENSE
+Demandée
+Admise
+L'intimée reconnaît un montant suppl. à admettre
+Refusée
+L'appelant reconnaît que le montant aurait dû être refusé
+Publicité
+350,00
+172,42
+-
+177,58
+-
+Autres
+-
+-
+-
+-
+-
+Assurance
+356,00
+-
+-
+356,00
+-
+Entretien et réparations
+-
+-
+-
+-
+-
+Repas et représentation
+5 545,28
+1 213,35
+-
+4 331,93
+-
+Véhicule automobile
+12 883,93
+5 238,32
+-
+7 645,61
+129,52
+Bureau
+3 403,58
+2 887,01
+-
+516,57
+-
+Fournitures
+12 452,12
+8 360,35
+127,08 (ruban, scie à chaîne)
+4 091,77
+845,12
+Frais jur. et compt.
+192,60
+192,60
+-
+N'EST PLUS CONTESTÉ
+-
+Loyer
+7 800,00
+-
+-
+7 800,00 (voir bureau à domicile)
+-
+Salaires et avantages
+13 587,00
+-
+-
+13 587,00
+-
+Déplacements
+15 310,79
+11 178,23
+-
+4 132,56
+-
+Téléphone et services publics
+4 425,23
+577,61
+720,85
+N'EST PLUS CONTESTÉ
+-
+Déduction pour amortissement
+3 059,49
+1 177,87
+Ne pas tenir compte du montant admis et admettre un pourcentage de l'utilisation du véh. automobile à des fins commerciales x 3 059,49
+1 881,62
+-
+Bureau à domicile
+-
+4 846,38
+-
+N'EST PLUS CONTESTÉ
+-
+2001
+DÉPENSE
+Demandée
+Admise
+L'intimée reconnaît un montant suppl. à admettre
+Refusée
+L'appelant reconnaît que le montant aurait dû être refusé
+Coût des marchandises vendues
+25 925,92
+8 935,41
+359,60 (sac fourre‑tout, ruban, glacières, aspirateur)
+16 990,51
+-
+Publicité
+259,39
+165,58
+-
+93,81
+-
+Autres
+8 194,70
+2 950,49
+-
+5 244,21
+-
+Assurance
+-
+-
+-
+-
+-
+Entretien et réparations
+151,85
+-
+-
+151,85
+-
+Repas et représentation
+2 781,82
+725,93
+-
+2 055,89
+-
+Véhicule automobile
+14 396,89
+5 645,22
+1 126,32
+8 751,67
+151,20
+Bureau
+71,40
+71,40
+-
+0 : NON CONTESTÉ
+-
+Fournitures
+-
+-
+-
+-
+-
+Frais jur. et compt.
+192,60
+192,60
+-
+0 : NON CONTESTÉ
+-
+Loyer
+-
+-
+-
+-
+-
+Salaires et avantages
+[déduits à titre de coût des marchandises vendues : 13 955; refusés au complet]
+-
+-
+-
+-
+Déplacements
+12 994,71
+6 167,23
+561,01
+6 827,48
+246,92
+Téléphone et services publics
+2 803,77
+545,36
+482,79
+N'EST PLUS CONTESTÉ
+-
+Déduction pour amortissement
+2 722,34
+1 264,76
+70,23 + ne pas tenir compte du montant admis et admettre un pourcentage de l'utilisation du véh. automobile à des fins commerciales x 2 141,64
+1 457,58
+-
+Bureau à domicile
+5 938,82
+4 949,02
+N'EST PLUS CONTESTÉ
+[13] L'appelant a déduit un certain nombre de dépenses que le ministre a traitées comme des frais personnels non déductibles.
+1. Dépenses se rattachant à un voyage à Fort Nelson (Colombie‑Britannique) :
+L'appelant et un ami ont effectué un voyage de chasse à Fort Nelson, en Colombie‑Britannique. L'appelant affirme que son inspiration pour ses oeuvres d'art lui vient de voyages de chasse et [TRADUCTION] « de promenades dans la nature ». L'appelant a déduit le coût du voyage de chasse à titre de dépense d'entreprise et le ministre a refusé la dépense dans son ensemble pour le motif qu'il s'agissait de frais personnels.
+Maître Taylor Pickering, avocate de l'intimée, a posé les questions suivantes :
+[TRADUCTION]
+Q. [...] Avant de devenir artiste, la chasse était‑elle pour vous un loisir?
+R. La chasse dans l'Arctique n'est pas un loisir; c'est la vie. Cela fait partie de la culture. (Transcription, page 86, lignes 24 et 25, et page 87, lignes 1 et 2)
+Q. Vous avez dit au cours de l'audience que votre inspiration vous venait de la chasse?
+R. De la chasse et des promenades dans la nature. Je sors et je chasse dans la nature toute l'année durant. Je peux uniquement chasser pendant la saison de chasse, mais en esprit, je sors et je prétends néanmoins chasser toute l'année durant. Cependant, je ne peux pas légalement chasser en dehors de la saison de chasse. Cela n'est pas permis. (Transcription, page 89, lignes 7 à 14)
+Q. Et vous soutenez, n'est‑ce pas, que cette inspiration vous vient de la chasse?
+R. De la chasse. C'est très – la chasse est une partie très importante de ma culture et dans mes oeuvres d'art, je représente ma culture. Par conséquent, la chasse en fait complètement partie, et je sors constamment – en esprit, je chasse continuellement. (Transcription, page 91, lignes 18 à 24)
+Q. (Me Taylor Pickering) [...] les photos de pétroformes n'avaient rien à voir avec votre entreprise d'art inuit en 2000 et en 2001.
+R. Je ne le sais pas – l'art est toute ma vie. Lorsque je sors, je ne peux pas distinguer ce qui est de l'art et ce qui ne l'est pas. C'est toute ma vie. Je suis un artiste 24 heures sur 24. Lorsque je sors et que je vois la nature avec les yeux d'un artiste, je vois quelque chose de différent et je découvre des choses. (Transcription, page 101, lignes 22 à 25, et page 102, lignes 1 à 4)
+Q. Y a‑t‑il eu un voyage dans la nature [...] que vous ne considérez pas comme étant associé à l'entreprise?
+R. L'entreprise n'était pas – c'est ma vie, et voyez‑vous – il est très difficile de survivre à titre d'artiste indépendant. Il faut absorber tout ce qui vous entoure. Je suis un artiste 24 heures sur 24, et c'est ce que je dis à mes élèves. Je leur ai dit, voici ce que j'ai dit : lorsque vous commencez à penser à l'art 24 heures sur 24, vous êtes arrivé et vous êtes un artiste. (Transcription, page 103, lignes 17 à 25, et page 104, lignes 1 à 4)
+Q. (Me Taylor Pickering) [...] Par conséquent, il s'agissait simplement de savoir où vous êtes allé chasser en 2000 et en 2001, et vous avez dit que c'était à Fort Nelson, n'est‑ce pas?
+R. J'allais aux environs de Princeton; j'allais dans le centre de la Colombie‑Britannique. [...]
+[...] Il faut que je sorte, et c'est lorsque je sors que mon inspiration me vient, et ce n'est pas uniquement au cours de la saison de chasse. (Transcription, page 124, lignes 19 à 22, et page 125, lignes 4 à 6)
+Q. (Me Taylor Pickering) [...] vous faisiez donc un voyage de chasse.
+R. De chasse, ouais.
+Q. À partir de Fort Nelson?
+R. Il s'agissait d'un voyage de chasse et d'un voyage pour ramasser des bois d'animaux [...] (Transcription, page 125, lignes 14 à 19)
+Q. (Me Taylor Pickering) Il s'agissait d'un voyage de chasse et d'un voyage pour ramasser des bois d'animaux en plus d'un voyage d'inspiration.
+R. Je n'assiste pas à des conférences, comme la plupart des gens le font. Ces voyages sont mes conférences. Je me promène dans la nature. (Transcription, page 126, lignes 3 à 8)
+Q. Comment ces vêtements sont‑ils liés à votre entreprise? Utilisez‑vous ces vêtements pour chasser ou à quoi vous servent‑ils?
+R. La chasse dure seulement environ deux mois par année, mais je me promène dans la nature toute l'année durant. [...]
+[...] Mais je sors toute l'année durant, et j'achète des vêtements pour le faire, et cela fait intimement partie de ma vie d'artiste, d'artiste qui connaît le succès. (Transcription, page 128, lignes 19 à 24, et page 129, lignes 8 à 11 – [Non souligné dans l'original.])
+En donnant des explications au sujet de l'entreprise d'art de son mari et d'où lui vient son inspiration pour ses oeuvres, Mme Henderson a dit :
+[TRADUCTION]
+[...] La chasse et la famille sont au coeur des traditions inuites, et Jonas gagne sa vie en exprimant sa culture dans l'art. (Transcription, page 232, lignes 20 à 23.)
+Madame Henderson a également dit ce qui suit :
+[TRADUCTION]
+[...] C'est un talent rare que d'être capable de faire d'un morceau de pierre inanimé une oeuvre qui est belle et qui exprime la joie, et c'est un talent rare que d'être capable de transformer une pierre en argent. Le talent de Jonas se situe dans son coeur, dans son esprit, dans ses mains et dans ses enfants. Il a un peu moins de talent pour la tenue de livres, mais il a cherché à corriger la situation. (Transcription, page 237, lignes 16 à 21)
+J'ai examiné le témoignage de l'appelant et la preuve présentée par Mme Henderson et je conclus que les dépenses associées au voyage à Fort Nelson, en Colombie‑Britannique, devraient être admises dans une proportion de 50 p. 100 à titre de dépenses d'entreprise. Je suis arrivé à cette conclusion parce que je crois l'appelant lorsqu'il dit que son inspiration lui vient des promenades dans la nature.
+2. Dépenses associées aux émetteurs‑récepteurs portatifs
+Achat d'émetteurs‑récepteurs portatifs
+Madame Henderson a interrogé l'appelant sur ce point :
+[TRADUCTION]
+Q. Comment utilisez‑vous les émetteurs‑récepteurs portatifs lorsque vous faites un voyage d'affaires?
+R. [...] nous pouvions toujours entrer en communication l'un avec l'autre lorsque nous sommes dans une grosse ville. (Transcription, page 135, lignes 21 à 25, et page 136, ligne 1.)
+Q. [...] comment les utilisez‑vous (les émetteurs‑récepteurs portatifs) [...] lorsque vous avez un chauffeur [...]
+[...]
+R. [...] Je lui en remettais un également. (Transcription, page 136, lignes 2 à 8)
+Je suis convaincu que l'appelant utilisait les émetteurs‑récepteurs portatifs à des fins commerciales et que la dépense se rattachant à l'achat des émetteurs‑récepteurs portatifs devrait être admise à titre de dépense d'entreprise.
+3. Salaires et avantages
+2000
+2001
+13 587 $
+13 955 $
+L'appelant a affirmé embaucher un certain nombre de personnes pour l'aider à sculpter. Il a également affirmé qu'il fournissait des repas à ses employés. Toutefois, l'appelant ne tenait pas de livre de paie. Il ne déclarait pas les salaires qu'il versait aux travailleurs. Il n'utilisait pas de compte en banque et il n'y avait pas de documents bancaires, pas de pièces, pas de feuillets T‑4, ni de chèques oblitérés. Les employés étaient rémunérés en espèces. Étant donné l'absence de documents à cet égard, j'ai conclu que la demande de déduction des salaires versés aux travailleurs devrait être rejetée. J'ai également conclu que l'appelant n'a pas le droit de déduire le coût des repas fournis aux travailleurs.
+4. Repas de famille :
+2000 – 2 054,82 $
+L'appelant a déduit ce qui, selon la vérificatrice (Mme Kristen), étaient des repas de famille. Le montant de 2 054,82 $ a été déduit en l'an 2000. Il n'y a pas de ventilation de la déduction en 2001. Eu égard à la preuve, je ne suis pas convaincu que ces déductions doivent être admises.
+5. Dépenses se rattachant à l'utilisation de véhicules automobiles
+Pour l'année 2000, le comptable de l'appelant a déduit 83,3 p. 100 des dépenses pour la voiture Suzuki et pour le véhicule de camping. (Transcription, page 158)
+Pour l'année 2001, le comptable a déduit la totalité des dépenses pour les deux véhicules. (Transcription, page 159)
+Madame Henderson maintient que les deux véhicules (la voiture Suzuki et le véhicule de camping) étaient utilisés à des fins commerciales. (Transcription, page 159)
+Le ministre a autorisé l'appelant à déduire 48,5 p. 100 des dépenses associées au véhicule de camping et 48,5 p. 100 des dépenses associées à la voiture Suzuki.
+J'ai minutieusement examiné le témoignage se rapportant à l'utilisation des véhicules et j'ai conclu que l'appelant doit être autorisé à déduire les frais relatifs aux véhicules automobiles comme suit :
+2000
+2001
+Véhicule de camping
+75 %
+75 %
+Voiture Suzuki
+70 %
+70 %
+Les pourcentages susmentionnés s'appliquent également à la déduction pour amortissement qui s'applique aux véhicules.
+6. Coût du propane (gaz) pour griller
+La preuve indique que le propane était utilisé pour le véhicule de camping. L'appelant devrait avoir le droit de déduire 75 p. 100 de ce coût.
+7. Lavages de voiture
+L'appelant a déduit les montants suivants pour les frais associés aux lavages des deux véhicules :
+2000
+2001
+208 $
+208 $
+Le ministre n'a admis aucune dépense dans cette catégorie.
+J'ai conclu que les montants susmentionnés doivent être admis dans une proportion de 70 p. 100.
+8. Montants payés pour des photographies
+2000
+2001
+343,49 $
+259,39 $
+L'appelant a maintenu qu'il prenait des photographies de ses oeuvres pour les montrer à des clients, à des clients éventuels et dans des galeries d'art.
+Le ministre n'a pas permis à l'appelant de déduire quoi que ce soit à ce titre. Les représentants de l'Agence du revenu du Canada (l'« ARC ») ont conclu qu'étant donné qu'un certain nombre de photographies des oeuvres de l'appelant montraient également ses enfants, les coûts associés aux photographies étaient des frais personnels.
+Compte tenu du témoignage, j'ai conclu que les photographies d'oeuvres constituent une partie fort importante et nécessaire de l'entreprise artistique de l'appelant. Eu égard à la preuve, je suis convaincu que l'appelant devrait avoir le droit de déduire 85 p. 100 du montant payé pour les photographies. Je rejette la position que la vérificatrice a prise, à savoir qu'étant donné que les enfants de l'appelant figuraient sur certaines photographies, cela constituait des frais personnels.
+9. Frais des époux en Ontario (transcription, page 167)
+L'appelant a déduit à titre de dépenses d'entreprise ce qu'il lui en avait coûté pour se rendre en Ontario. Ce voyage comportait également un voyage au musée des civilisations, à Ottawa (c'est‑à‑dire à Gatineau, au Québec), ainsi que des visites dans des galeries d'art, en Ontario et au Québec. Le ministre a traité ces dépenses comme des frais personnels et n'a pas admis cette déduction.
+La preuve indiquait qu'il s'agissait principalement d'une dépense d'entreprise. J'ai conclu que les dépenses associées à ce voyage devraient être admises dans une proportion de 75 p. 100. (Transcription, pages 173 et 177)
+10. Vêtements de travail; combinaison Farmer John
+La preuve indiquait que l'appelant avait acheté une combinaison Farmer John qu'il utilisait lorsqu'il sculptait à l'extérieur ainsi que lorsqu'il chassait et qu'il se promenait dans la nature.
+L'appelant a également acheté un couteau qu'il utilisait pour sculpter et lorsqu'il chassait.
+J'ai conclu que ces dépenses doivent être admises comme des dépenses d'entreprise dans une proportion de 50 p. 100.
+11. Bicyclette 226,07 $
+L'appelant a déduit ce montant comme dépense d'entreprise parce qu'il utilisait la bicyclette pour se rendre à son unité d'entreposage, à Sumas, dans l'état de Washington.
+Le ministre a traité cette dépense comme des frais personnels.
+La preuve indiquait que l'appelant utilisait la bicyclette uniquement à des fins commerciales. J'admets le montant au complet à titre de dépense d'entreprise. (Transcription, page 188)
+12. Dépenses diverses
+Radio‑réveil
+39,91 $
+Télémètre
+387,94 $
+Borax
+30,19 $
+(Transcription, page 190)
+Compte tenu de la preuve, j'ai conclu que le coût du télémètre constitue des frais personnels. Les autres dépenses sont associées à 100 p. 100 à l'entreprise et elles sont déductibles.
+13. Voyage en Ontario et au Québec
+(Ottawa, Québec et Montréal) (Transcription, page 194)
+Selon la preuve, l'appelant, sa femme et ses enfants se sont rendus dans des galeries d'art, chez des clients et chez des clients éventuels, en Ontario et au Québec.
+Selon la preuve, les déplacements, les ventes et les visites chez des clients ont duré onze jours de suite, et il y avait quelques jours libres. (Transcription, page 196)
+J'admets 75 p. 100 des dépenses à titre de dépenses d'entreprise.
+14. Voyage d'affaires à Washington – exposition d'art
+La preuve indiquait que l'appelant, sa femme et ses enfants s'étaient rendus à Washington pour une exposition des oeuvres d'art de l'appelant. La preuve indiquait que l'appelant a vendu plusieurs oeuvres.
+J'ai minutieusement examiné la preuve et j'ai conclu que la femme de l'appelant, Diane Henderson, fait partie intégrante de l'entreprise de l'appelant et qu'elle y a un rôle important. J'ai conclu que le voyage à Washington était principalement un voyage d'affaires. J'admettrai 85 p. 100 des dépenses à titre de dépenses d'entreprise déductibles.
+15. Voyage à San Francisco (Transcription, page 218)
+L'appelant a déduit la totalité des dépenses associées à ce voyage et le ministre a refusé une partie importante des dépenses.
+À mon avis, l'appelant devrait être autorisé à déduire 85 p. 100 des coûts se rattachant à ce voyage.
+16. Divers voyages effectués par l'appelant depuis Princeton, en Colombie‑Britannique (où il habitait alors)
+La preuve indiquait qu'en l'an 2000 et en 2001, l'appelant avait déduit des dépenses pour 30 voyages entre Princeton et Vancouver. La vérificatrice a admis les dépenses se rattachant à 15 voyages et a refusé les dépenses se rattachant à 15 autres voyages. L'appelant et sa femme ont témoigné que tous les voyages à Vancouver étaient des voyages d'affaires et qu'ils ne devraient pas être traités comme étant de nature personnelle. J'ai conclu que 85 p. 100 des dépenses se rattachant aux voyages à Vancouver doivent être admises.
+[14] En déterminant le revenu pour l'année d'imposition 2001, le ministre a inclus le montant de 2 212,76 $ dans le revenu de l'appelant comme représentant la valeur de l'inventaire d'argent de son entreprise.
+[15] Selon le paragraphe 10(6) de la Loi de l'impôt sur le revenu (la « Loi »), les artistes peuvent faire un choix pour que la valeur des biens à porter à leur inventaire soit réputée nulle. Je me reporte sur ce point au paragraphe 10(6) de la Loi ainsi qu'à la décision rendue par le juge en chef adjoint Bowman dans l'affaire Tramble c. La Reine, no 2001‑639(IT)I, 3 août 2001, [2001] A.C.I. no 522.
+[16] À mon avis, l'appelant peut prendre la position selon laquelle la valeur de l'argent figurant dans son inventaire est nulle.
+[17] Compte tenu de la preuve, je ne suis pas convaincu que d'autres dépenses doivent être admises.
+[18] Au cours de l'audience, l'avocate de l'intimée a fait la remarque suivante :
+[TRADUCTION]
+[...] J'ai une autre remarque à faire : quel que soit le résultat du jugement, l'intimée aimerait pouvoir soumettre des observations au sujet des dépens. (Transcription, page 314, lignes 2 à 5)
+[19] C'est avec plaisir que je tiendrai une conférence téléphonique avec les parties pour discuter des dépens. Madame Henderson et l'avocate de l'intimée communiqueront avec le greffier, à Vancouver, pour organiser une conférence téléphonique.
+[20] Avant de terminer, j'aimerais faire remarquer qu'un grand nombre des problèmes auxquels l'appelant a fait face étaient attribuables à sa mauvaise tenue de livres. Ce n'est que grâce aux efforts de la vérificatrice et aux témoignages de l'appelant et de Mme Henderson que nous avons réussi à clarifier les points en litige. Je demande avec instance à l'appelant de tenir de bons registres afin d'éviter des problèmes de ce genre dans l'avenir.
+[21] L'appel est accueilli et le ministre devra établir de nouvelles cotisations à l'égard des années d'imposition 2000 et 2001 de l'appelant en vue d'effectuer les rajustements susmentionnés. Je discuterai de la question des dépens au cours de la conférence téléphonique qui sera tenue avec les parties.
+Signé à Vancouver (Colombie‑Britannique), ce 3e jour de juillet 2008.
+« L. M. Little »
+Le juge Little
+Traduction certifiée conforme
+ce 11e jour de septembre 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2008 CCI 403
+DOSSIER DE LA COUR : 2005-1062(IT)G
+INTITULÉ : Jonas Faber c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Kelowna (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Les 29, 30 et 31 octobre et les 1er et 2 novembre 2007
+MOTIFS DU JUGEMENT : L'honorable juge L. M. Little
+DATE DU JUGEMENT : Le 3 juillet 2008
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui‑même et
+Mme Diane Henderson
+Avocate de l'intimée :
+Me Nadine Taylor Pickering
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

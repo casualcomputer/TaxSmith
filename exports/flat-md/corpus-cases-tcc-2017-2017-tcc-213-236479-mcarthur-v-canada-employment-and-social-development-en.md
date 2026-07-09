@@ -1,0 +1,153 @@
+---
+title: "McArthur v. Canada (Employment and Social Development)"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/236479/index.do"
+last_modified: "2017-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 213"
+citation2: ""
+neutral_citation: "2017 TCC 213"
+decision_date: "2017-10-24"
+language: "en"
+item_id: "236479"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2159
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:08:14.691000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "04ab37aa414c0d157a198b6baf95cf3258c9207da62179943aed223bf5bc969a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McArthur v. Canada (Employment and Social Development)
+
+- Citation: 2017 TCC 213
+- Decision date: 2017-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2159, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McArthur v. Canada (Employment and Social Development)
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-10-24
+Neutral citation
+2017 TCC 213
+File numbers
+2016-1830(OAS)
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2016-1830(AOS)
+BETWEEN:
+SAMUEL MCARTHUR,
+Appellant,
+and
+MINISTER OF EMPLOYMENT AND SOCIAL DEVELOPMENT,
+Respondent.
+Appeal heard on May 26, 2017, at Sudbury, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Emmanuel Jilwan
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, the appeal from the decision of the Respondent in relation to the income of the Appellant for the purposes of determining his entitlement to the Guaranteed Income Supplement under the Old Age Security Act for the payment period from July 1, 2014 to June 30, 2015 is dismissed, without costs.
+Signed at Ottawa, Canada, this 24th day of October 2017.
+“R.S. Bocock”
+Bocock J.
+Citation: 2017 TCC 213
+Date: 20171024
+Docket: 2016-1830(AOS)
+BETWEEN:
+SAMUEL MCARTHUR,
+Appellant,
+and
+MINISTER OF EMPLOYMENT AND SOCIAL DEVELOPMENT,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction [1] Mr. McArthur brings this appeal because he was denied a Guaranteed Income Supplement (known commonly as the GIS) for the period of July 1, 2014 to June 30, 2015 (the “payment period”). The reason for the Minister of Employment and Social Development’s (the “Minister”) denial was the finding that Mr. McArthur withdrew or received $19,279.11 as a lump sum RSP payment in the year 2013 (the “RSP payment”). That previous 2013 year is used by the Minister as a base year to determine whether Mr. McArthur falls below an income level warranting payment of the GIS for the subsequent payment period. The Minister asserts the RSP payment pushed Mr. McArthur’s income above the maximum threshold. Accordingly, the GIS was denied. The Minister’s decision involved a determination of income. Therefore, the Social Security Tribunal, when Mr. McArthur exercised his right of appeal, referred the matter to this Court pursuant to the Old Age Security Act, R.S.C., 1985, c. O-9 (the “OAS Act”).
+[2] At the hearing, it was clear to the Court that critical documentation was missing: details of the nature of TD Wealth account number 65Y980S. The Court heard Mr. McArthur’s testimony regarding other relevant issues, but adjourned to allow him an opportunity to procure from an otherwise reticent source financial institution the documentary history required concerning the formation of the account. Quite amenably and logically, Respondent’s counsel agreed. Both parties were afforded 90 days to provide the relevant documentation and/or submissions. Based upon the testimony of Mr. McArthur, his supplementary documents and the parties respective submissions, the Court now renders its decision.
+A. Issues [3] The critical issues before the Court are:
+(i) what was the nature of the determinative $19,279.11 payment received by Mr. McArthur in the 2013 base year? (ii) was Mr. McArthur required to include that sum in the computation of his income for GIS purposes? B. Some Additional Facts [4] Mr. McArthur worked for Abitibi Consolidated Limited and related pulp and paper companies for 35 years. At some point during 2003, Abitibi sought to remove itself as trustee and unwind the registered pension plan for its retired pensioned employees. Transfers from that registered pension plan to stand-alone locked-in accounts were effected. In Mr. McArthur’s case, a lump sum amount of approximately $730,000.00 was transferred from the registered pension plan into a locked-in retirement fund (“LIF”). In 2008, after certain unrelated further developments, approximately 25% of the then LIF balance was transferred into an unconstrained or “unlocked” RSP, being the relevant TD Wealth account 65Y980S. It is from this account that the alleged determinative “RSP payment” was made to Mr. McArthur in 2013.
+II. The Law a) What is to be included in the calculation of income for GIS [5] To appreciate the inclusion requirements relating to computing income for GIS purposes, reference in needed to the OAS Act and the Regulations thereunder. The rules for computing income for such purposes are distinct from, but related to the Income Tax Act, RSC 1985, c.1, as amended (the “ITA”).
+[6] Section 2 of the OAS Act defines a pensioner’s income as determined under the ITA. The ITA, in turn, in subsection 146(8) and paragraph 56(1)(h) provides for the inclusion of RSP payments (withdrawals) where it is written:
+146(8)
+Benefits taxable
+(8) There shall be included in computing a taxpayer’s income for a taxation year the total of all amounts received by the taxpayer in the year as benefits out of or under registered retirement savings plans, other than excluded withdrawals (as defined in subsection 146.01(1) or 146.02(1)) of the taxpayer and amounts that are included under paragraph (12)(b) in computing the taxpayer’s income.
+56(1)(h)
+Registered retirement savings plan, etc.
+(h) amounts required by section 146 in respect of a registered retirement savings plan or a registered retirement income fund to be included in computing the taxpayer’s income for the year;
+[7] The OAS Act further provides for certain exclusions from computed income for GIS purposes. For such purposes “pension income” is to be excluded from the income calculation solely for GIS purposes.
+[8] In turn, within section 14 of the OAS Regulations, “pension income” means the aggregate of amounts received as
+(a) annuity payments;
+(b) alimony and maintenance payments;
+(c) employment insurance benefits;
+(d) disability benefits deriving from a private insurance plan;
+(e) any benefit, other than a death benefit, under the Canada Pension Plan or a provincial pension plan as defined in the Canada Pension Plan;
+(f) superannuation or pension payments, other than a benefit received pursuant to the Act or any similar payment received pursuant to a law of a provincial legislature;
+(g) compensation under a federal or provincial employee’s or worker’s compensation law in respect of an injury, disability or death;
+(h) income assistance benefits under an agreement referred to in subsection 33(1) of the Department of Human Resources Development Act by reason of a permanent reduction in the work force as described in that subsection; and
+(i) income assistance benefits under the Plant Workers’ Adjustment Program, the Fisheries Early Retirement Program or the Northern Cod Adjustment and Recovery Program by reason of a permanent reduction in the workforce.
+[9] To calculate one’s income for the purposes of the OAS Act and specifically GIS one follows a prescribed route. The OAS directs a taxpayer to the ITA. The ITA provides general guidance regarding various inclusions from pension type payments. For GIS specifically, one turns back to the OAS Act and Regulations. As stated above, specific exclusions are allowed for GIS purposes including pension income, specifically in the form of annuity payments (14 (a) above). The calculation of income for GIS purposes is then made. If one exceeds the maximum allowable threshold, GIS benefits are not paid.
+b) Mr. McArthur’s position [10] Mr. McArthur asserts two bases as to why the RSP payment is not a withdrawal of $19,279.11 from an RSP, but rather pension income in the form of an annuity payment.
+[11] Firstly, he asserts he turned 71 on January 20, 2013. Therefore the RSP became a RIF or retirement income fund during the 2013 taxation year. Therefore, moneys received were not lump sum RSP payments, but statutorily mandated pension income to be excluded from income for GIS purposes under the OAS Act.
+[12] Secondly, the source of funds - - the TD Wealth account number 65Y980S - - was originally a registered pension plan. Beneficiaries were and are specifically permitted to “unlock” up to 25% of same by an amendment to legislation. Of relevance, receiving funds directly in the form of pension income from that registered pension fund as an annuity would not have been included in income for the GIS calculation. Mr. McArthur therefore argues that his receipt of funds from the pension plan’s successor RSP also should not trigger inclusion. In short, Mr. McArthur argues that, the initial source, namely a registered pension plan, provides a permanent shield from the inclusion of later payments into income for GIS purposes, despite these otherwise being in the form of lump sum withdrawals from an RSP.
+III. Analysis and Decision a) what was the nature of the $19,279.11 payment in 2013? [13] The documentation relating to the TD Wealth Account, the source of payment, is unambiguous: it is an RSP account. The underlying monthly account statements and the generated T4 RSP (Statement of RSP Income) clearly identify the investment, withdrawal and payment as an RSP withdrawal as opposed to pension income as an annuity payment. Its historical lineage from a registered pension plan is not distinguished in the legislation and regulations. Paragraph 56(1)(h) of the ITA includes such payments as income and subsection 146(8) declares such benefits to be included unless excluded. Within the OAS Act itself, there is no further exclusion for an RSP withdrawal, unlike pension income. Mr. McArthur’s situation does not factually fall within the definition contained in paragraph 14(a) of the OAS Regulations exclusions: such as pension income. All of this is true even where the heritage of the RSP was initially intended to be an annuity, but was converted by the pensioner, even at the urging of his former pension trustee, to an RSP.
+[14] Additionally, there is no jurisprudence supporting Mr. McArthur’s contention. This is consistent with the decisions of Justice Webb at paragraph 8 of Gonder v. Human Resources, 2011 TCC 505, itself referencing Justice Bowie in Drake v. Human Resources, 2005 TCC 498 at paragraphs 3 and 6.
+[15] Factually, the documentation provides a full answer to Mr. McArthur’s assertion that the RSP payment became an annuity under a Retirement Income Fund (RIF) upon his 71st birthday. The investment description, statement and T4 RSP, on their face, do not reflect such a transformation. It was a lump sum withdrawn from an RSP, not a converted periodic annuity paid monthly over a statutorily mandated annuity term.
+b) was Mr. McArthur required to include the $19,279.11 for GIS purposes? [16] The purpose behind the differentiation of treatment for pension annuity payment and RSP withdrawal is neither readily identifiable nor necessarily fair upon first glance. However, it is clear. Periodic, annuity payments in the form of pension income need not be included for GIS income purposes, but RSP withdrawals must be. The case law is also clear. Regrettably, so it the Court’s answer: Mr. McArthur must include the $19,279.11 in the calculation of income for GIS purposes in the 2013 base year because the RSP payment was neither in the form of pension income nor another species of excluded benefit or receipt under the ITA or OAS Act and Regulations.
+[17] In summary, the Minister’s determination of income for that year which included the payment was correct. The decision regarding the RSP payment period concerning the denial of the GIS benefits stands. Mr. McArthur’s appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 24th day of October 2017.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2017 TCC 213
+COURT FILE NO.:
+2016-1830(AOS)
+STYLE OF CAUSE:
+SAMUEL MCARTHUR AND MINISTER OF EMPLOYMENT AND SOCIAL DEVELOPMENT
+PLACE OF HEARING:
+Sudbury, Ontario
+DATE OF HEARING:
+May 26, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+October 24, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,144 @@
+Title: Zhang c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30082/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-592-30082-zhang-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-11-18
+
+# Zhang c. La Reine
+
+- Citation: 2010 CCI 592
+- Decision date: 2010-11-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7604, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zhang c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-18
+Référence neutre
+2010 CCI 592
+Numéro de dossier
+2009-3067(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3067(IT)I
+ENTRE :
+FAN ZHANG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 21 juin 2010 à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me A. K. Sandhu
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2010.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 11e jour de janvier 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 592
+Date : 20101118
+Dossier : 2009-3067(IT)I
+ENTRE :
+FAN ZHANG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel interjeté sous le régime de la procédure informelle à l’encontre de la nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) dans sa version modifiée (la « Loi »), pour l’année d’imposition 2006 de l’appelante. Au moyen de la nouvelle cotisation, le ministre a porté le revenu total de l’appelante à 48 165 $ de la manière suivante :
+a) les revenus d’emploi ont été ramenés à 26 $ pour qu’ils correspondent à ceux figurant sur le feuillet T4 – État de la rémunération payée, délivré par l’Université de la Colombie‑Britannique (l’« UCB »);
+b) les autres revenus (bourses de perfectionnement) ont été portés à 46 999 $ pour qu’ils correspondent à ceux figurant sur le feuillet T4A – État du revenu de pension, de retraite, de rente ou d’autres sources – délivré par l’UCB relativement aux bourses d’études, aux bourses de perfectionnement ou aux subventions pour production artistique;
+c) une exemption de 500 $ sur les autres revenus de 46 999 $ conformément au paragraphe 56(3) de la Loi.
+[2] Lors de l’établissement de la nouvelle cotisation, le ministre s’est fondé sur les faits décrits au paragraphe 10 de la réponse à l’avis d’appel, où il est déclaré ce qui suit :
+[traduction]
+a) pendant l’année d’imposition 2006, l’appelante a reçu de l’UCB des bourses de perfectionnement s’élevant à 46 999 $;
+b) l’UCB n’a pas délivré de feuillet T2202A – Certificat pour montant relatif aux études et montant pour manuels – à l’appelante pour l’année d’imposition 2006.
+[3] La question en litige est de savoir si l’appelante a droit à une exemption pour bourse d’études, bourse de perfectionnement et récompenses en sus des 500 $ accordés par le ministre. Le ministre soutient que l’exemption a été calculée correctement, étant donné que l’appelante n’avait pas reçu les bourses de perfectionnement de 46 999 $ en tant qu’étudiante inscrite à un programme qui lui donnait le droit de demander le crédit d’impôt pour études selon le paragraphe 118.6(2) de la Loi.
+[4] Les dispositions pertinentes de la Loi pour les besoins du présent appel sont l’alinéa 56(1)n), le paragraphe 56(3) et le paragraphe 118.6(2) de la Loi. Ces dispositions sont ainsi libellées :
+56(1) Sommes à inclure dans le revenu de l’année -- Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+n) Bourses d’études, de perfectionnement, etc. -- l’excédent éventuel :
+(i) du total des sommes (à l’exclusion des sommes visées à l’alinéa q), des sommes reçues dans le cours des activités d’une entreprise et des sommes reçues au titre, dans l’occupation ou en vertu d’une charge ou d’un emploi) reçues au cours de l’année par le contribuable à titre de bourse d’études, de bourse de perfectionnement (fellowship) ou de récompense couronnant une oeuvre remarquable réalisée dans son domaine d’activité habituel, à l’exclusion d’une récompense visée par règlement,
+sur :
+(ii) l’exemption pour bourses d’études du contribuable pour l’année, calculée selon le paragraphe (3);
+56(3) Exemption pour bourses d’études, bourses de perfectionnement (fellowships) ou récompenses -- Pour l’application du sous-alinéa (1)n)(ii), l’exemption pour bourses d’études d’un contribuable pour une année d’imposition correspond au total des sommes suivantes :
+a) le total des sommes représentant chacune la somme incluse en application du sous-alinéa (1)n)(i) dans le calcul du revenu du contribuable pour l’année au titre d’une bourse d’études ou d’une bourse de perfectionnement (fellowship) reçue relativement à son inscription :
+(i) soit à un programme d’études pour lequel une somme est déductible en application du paragraphe 118.6(2) dans le calcul de l’impôt à payer par le contribuable en vertu de la présente partie pour l’année, pour l’année d’imposition précédente ou pour l’année d’imposition subséquente,
+(ii) soit à un programme d’études d’une école primaire ou secondaire;
+b) le total des sommes représentant chacune la moins élevée des sommes suivantes :
+(i) la somme incluse en application du sous-alinéa (1)n)(i) dans le calcul du revenu du contribuable pour l’année au titre d’une bourse d’études, d’une bourse de perfectionnement (fellowship) ou d’une récompense dont il doit se servir dans la production d’une œuvre littéraire, dramatique, musicale ou artistique,
+(ii) le total des sommes représentant chacune une dépense engagée par le contribuable au cours de l’année en vue de remplir les conditions aux termes desquelles la somme visée au sous-alinéa (i) a été reçue, à l’exception des dépenses suivantes :
+(A) ses frais personnels ou de subsistance, sauf ses frais de déplacement, de repas et de logement engagés en vue de remplir ces conditions, pendant qu’il était absent de son lieu de résidence habituel pour la période visée par la bourse d’études, la bourse de perfectionnement (fellowship) ou la récompense,
+(B) les dépenses qu’il peut se faire rembourser,
+(C) les dépenses déductibles par ailleurs dans le calcul de son revenu;
+c) 500 $ ou, s’il est moins élevé, l’excédent du total visé au sous-alinéa (1)n)(i) pour l’année sur le total des sommes déterminées selon les alinéas a) et b).
+118.6 (2) Crédit d’impôt pour études -- Le montant obtenu par la formule suivante est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+A × B
+où :
+A représente le taux de base pour l’année;
+B la somme des produits suivants :
+a) 400 $ multipliés par le nombre de mois de l’année pendant lesquels le particulier est inscrit à un programme de formation admissible comme étudiant à temps plein d’un établissement d’enseignement agréé,
+b) 120 $ multipliés par le nombre de mois de l’année (sauf ceux visés à l’alinéa a)) dont chacun est un mois pendant lequel le particulier est inscrit à un programme de formation déterminé d’un établissement d’enseignement agréé, aux cours duquel l’étudiant doit consacrer au moins 12 heures par mois.
+Pour que le montant soit déductible, l’inscription du particulier doit être attestée par un certificat délivré par l’établissement — sur le formulaire prescrit contenant les renseignements prescrits — et présenté au ministre et, s’il s’agit d’un établissement d’enseignement agréé visé au sous-alinéa a)(ii) de la définition de cette expression au paragraphe (1), le particulier doit avoir atteint l’âge de 16 ans avant la fin de l’année et être inscrit au programme en vue d’acquérir ou d’améliorer sa compétence à exercer une activité professionnelle.
+[5] Pour l’application du paragraphe 118.6(2), le certificat d’inscription délivré par l’établissement — sur le formulaire prescrit contenant les renseignements prescrits — est le feuillet T2202A.
+[6] Pendant l’année d’imposition 2006, l’appelante était inscrite à un programme d’études à temps plein à l’UCB comme boursière postdoctorale (« BPD »). Pour financer son programme d’études postdoctorales, elle avait reçu deux bourses de perfectionnement des Instituts de recherche en santé du Canada (les « IRSC ») et de la Michael Smith Foundation for Health Research (la fondation « MSFHR »). Les bourses avaient été offertes pour la période allant du 1er janvier 2006 au 31 décembre 2008. L’allocation rattachée à la bourse des IRSC était de 40 000 $ par année, et l’allocation de recherche était de 5 000 $ par année. L’allocation correspondant à la bourse de la fondation MSFHR s’élevait à 21 000 $. L’appelante poursuivait son programme d’études postdoctorales au BC Cancer Research Centre, dans le service d’hématologie, sous la direction du Dr Paul Sorensen.
+[7] Le site Web de l’UCB fournit les renseignements suivants concernant les boursiers postdoctoraux :
+[traduction]
+Les boursiers postdoctoraux sont des personnes qui ont obtenu leur doctorat et qui cherchent à poursuivre leur formation dans un domaine de recherche particulier. Les boursiers postdoctoraux à l’UCB sont des employés ou des stagiaires, selon la description de travail, le niveau de responsabilité et la nature de la subvention de recherche.
+**Un boursier postdoctoral est un employé s’il joue un rôle clé dans une équipe de recherche dirigée et financée par un membre du corps professoral.
+** Un boursier postdoctoral est un stagiaire s’il a obtenu une bourse de recherche par suite d’un concours organisé par un organisme externe, laquelle bourse peut être versée par l’intermédiaire de l’UCB, ou s’il reçoit une aide financière d’un organisme qui accorde la bourse. Les stagiaires n’ont aucune relation d’emploi avec l’UCB. Ils travaillent de façon indépendante et reçoivent les conseils d’un membre du corps professoral qui les supervise.
+[8] D’après l’appelante, l’UCB considère les BPD comme des stagiaires et non comme des employés. À ce titre, les stagiaires ne sont admissibles ni aux avantages sociaux de quelque nature que ce soit (le régime de soins de santé, l’assurance‑emploi, le congé parental régi par les lois fédérales ou l’indemnisation des accidentés du travail en cas de blessure), ni aux régimes enregistrés d’épargne‑retraite et ne peuvent pas cotiser au Régime de pensions du Canada. L’appelante a déclaré que le Dr Sorensen était le seul lien qu’elle avait avec l’UCB. Elle n’avait pas suivi de cours ou participé à des séminaires à l’UCB et n’avait pas payé de frais de scolarité à l’UCB. L’appelante n’était liée à l’UCB par aucun contrat et elle ne recevait aucun avantage social de la part de l’UCB. L’appelante a en outre expliqué que sa relation avec le UBC Cancer Research Centre était temporaire et qu’elle pouvait cesser à tout moment. Elle travaillait dans l’équipe du Dr Sorensen au sein de laquelle elle menait des travaux de laboratoire et rédigeait des articles de recherche aux fins de publication.
+[9] L’appelante a aussi déclaré qu’elle recevait ses bourses par l’intermédiaire de l’UCB. Ces revenus avaient été déclarés sur un feuillet T4A à titre de bourse d’études ou de perfectionnement. De l’impôt sur le revenu avait été retenu sur sa bourse de perfectionnement et elle demande remboursement de l’impôt retenu en 2006. Contrairement à d’autres universités (comme l’Université McGill, l’Université de Montréal, l’Université d’Ottawa et l’Université Dalhousie), l’UCB ne délivrait pas de certificat T2202A à ses BPD à causes de difficultés administratives et des changements survenus dans le traitement fiscal des bourses.
+[10] Malgré le fait qu’aucun certificat T2202A n’avait été présenté au ministre par l’appelante, cette dernière a soutenu qu’un tel certificat n’était pas nécessaire, parce qu’elle n’avait pas demandé le crédit d’impôt pour études mentionné au paragraphe 118.6(2) de la Loi, mais cherchait plutôt à obtenir une exemption totale d’impôt (applicable aux années d’imposition 2006 et suivantes) pour les bourses d’études relativement à une inscription à un programme d’études qui répond aux exigences du paragraphe 118.6(2) de la Loi.
+[11] Malheureusement pour l’appelante, le certificat d’inscription mentionné au paragraphe 118.6(2) de la Loi n’y figure pas à tire purement indicatif; il est obligatoire pour qu’un particulier puisse obtenir un crédit d’impôt pour études. Étant donné qu’aucun certificat n’a été obtenu de l’UCB, l’appelante n’a pas droit au crédit d’impôt pour études relativement à son programme d’études postdoctorales.
+[12] L’exemption pour bourse d’études mentionnée au sous‑alinéa 56(3)a)(i) de la Loi se rapporte précisément à l’inscription du contribuable à un programme d’études pour lequel une somme est déductible en application du paragraphe 118.6 (2) de la Loi dans le calcul de l’impôt à payer par le contribuable en vertu de la partie I de la Loi pour l’année d’imposition, ou pour l’année d’imposition précédente ou subséquente. Ainsi, il n’y a aucune somme au titre du sous‑alinéa 56(3)a)(i) de la Loi pour laquelle une somme est déductible en application du paragraphe 118.6(2) de la Loi. En conséquence, comme la somme énoncée aux alinéas 56(3)a) et b) est de zéro, la somme calculée au titre de l’alinéa 56(3)c) est de 500 $, étant donné qu’elle est la moins élevée des deux sommes, à savoir 500 $ et les sommes obtenues au titre de bourses d’études.
+[13] Par conséquent, l’appelante doit inclure les 46 999 $ dans sa déclaration de revenu pour l’année d’imposition 2006, moins la somme de 500 $ représentant l’exemption prévue par la Loi. L’appel est donc rejeté.
+Signé à Ottawa, Canada, ce 18e jour de novembre 2010.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 11e jour de janvier 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 592
+NO DU DOSSIER DE LA COUR : 2009-3067(IT)I
+INTITULÉ : Fan Zhang
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 21 juin 2010
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 18 novembre 2010
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Amandeep K. Sandhu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous- procureur général du Canada
+Ottawa, Canada

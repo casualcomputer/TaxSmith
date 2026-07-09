@@ -1,0 +1,187 @@
+---
+title: "Watts v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521322/index.do"
+last_modified: "2024-08-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 100"
+citation2: ""
+neutral_citation: "2024 TCC 100"
+decision_date: "2024-08-26"
+language: "en"
+item_id: "521322"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5763
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-11-02T09:25:10.350000+00:00"
+cases_cited_count: 15
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9f87a87cebe4dcddf6e94db781d7d3a62fa3866f64b3b665f79a81fac74bef30"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Watts v. The King
+
+- Citation: 2024 TCC 100
+- Decision date: 2024-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5763, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Watts v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-08-26
+Neutral citation
+2024 TCC 100
+File numbers
+2019-2942(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-2942(IT)G
+BETWEEN:
+MIRIAM WATTS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on November 14 and 15, 2022, at Toronto, Ontario.
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+Marco Iampieri
+Counsel for the Respondent:
+Hye-Won (Caroline) Ahn
+Peter Swanstrom
+ORDER
+In accordance with the attached Reasons for Order of Costs;
+IT IS ORDERED THAT Costs will be set at $30,000, payable by the Appellant to the Respondent.
+Signed at Halifax, Nova Scotia this 26th day of August 2024.
+“R. MacPhee”
+MacPhee J.
+Citation: 2024 TCC 100
+Date: 20240826
+Docket: 2019-2942(IT)G
+BETWEEN:
+MIRIAM WATTS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+MacPhee J.
+I. OVERVIEW
+[1] Ms. Watts’s Appeal (concerning an assessment under section 160 of the Income Tax Act) was heard on November 14 and 15, 2022. A decision was rendered on January 25, 2023, dismissing the appeal. Pursuant to the decision, costs were payable by the Appellant to the Respondent. If the parties were unable to agree upon costs, the Respondent was to file written submissions concerning costs on or before April 14, 2023. The Appellant had until May 15, 2023 to file any responding written submission. The Respondent filed written submissions on April 14, 2023. The Appellant has not filed any responding submissions.
+[2] The Respondents seeks costs of the litigation (up to and including the trial) beyond the Tariff amounts (“enhanced costs”) in a lump sum of $30,000. This amounts to 30% of their solicitor-client costs incurred. They are not seeking any disbursements or the costs of this motion.
+II. ANALYSIS
+[3] As this Court stated many times, Subsection 147(3) of the Rules gives the Court broad discretion in awarding costs. The section provides a non-exhaustive list of factors for the Court to consider in exercising its discretionary power to award costs beyond the Tariff amounts.
+[4] Some key principles of costs awards were helpfully summarized by Justice Lafleur in Hillcore Financial Corporation v. The King, TCC 144 (Tax Court of Canada [General Procedure]), and are reproduced here:
+8. The general rule is that costs should be “compensatory and contributory” and “not punitive” (see Grenon v. The Queen, 2021 TCC 89, at para 12). Further, an award of costs is generally not intended to fully compensate the actual costs incurred by a party (see Velcro Canada Inc. v. The Queen, 2012 TCC 273, [Velcro], at para 29).
+9. ...
+10. The broad discretion of the Court to award costs should not be exercised in an arbitrary manner but must be exercised on a principled basis; further, the quantum of costs must be reasonable and also determined on a principled basis (The Queen v. Lau, 2004 FCA 10, at para 5; The Queen v. Landry, 2010 FCA 135, at paras 22 and 54; Guibord v. Canada, 2011 FCA 346, at para 10 The King v. Bowker, 2023 FCA 133, at para 32).
+11. Subsection 147(3) of the Rules provides a list of factors the Court should consider in exercising its discretion to award costs pursuant to subsection 147(1) of the Rules. However, none of the factors listed in subsection 147(3) of the Rules are determinative and as such, the Court should consider all relevant factors in exercising its discretion (Velcro, supra, at paras 12-13). As indicated by this Court in Velcro, the Tariff is “... a reference point only should the Court wish to rely upon it” (at para 8).
+12. The relevant parts of the Rules read as follows:
+147 (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+...
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+...
+14. This Court is not limited to applying the Tariff. Subsection 147(4) of the Rules provides that the Court “...may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs”.
+15. The case law has held that “...increased costs beyond the Tariff are not tied to exceptional circumstances, such as misconduct, malfeasance or undue delay” (see Duffy v. The Queen, 2020 TCC 135 [Duffy], at para 21; Daishowa-Marubeni International Ltd v. The Queen, 2013 TCC 275, at para 4; Ford Motor, supra, at para 7). Indeed, recent case law held that a greater recognition of the work involved in tax litigation should be a factor to consider in awarding costs (see Duffy, supra, at para 21; Blackburn Radio Inc. v. the Queen, 2013 TCC 98, at paras 14-15; Invesco Canada Ltd v. The Queen, 2015 TCC 92, at paras 17 and 25; Spruce Credit Union v. The Queen, 2014 TCC 42, at para 52; Univar Holdco Canada ULC v. The Queen, 2020 TCC 15, at para 33).
+[5] The Respondent has set out a number of factors that they wish the Court to consider in justifying their claim for enhanced costs. I will focus my attention on these submissions.
+III. MOTIONS BROUGHT BY APPELLANT
+[6] At the outset, I must consider the motions brought by the Appellant (and her husband) in the Appeal. The Appellant brought three different challenges to the Crown’s conduct, twice alleging violations of her Charter rights and once further alleging a breach of an order of the Ontario Superior Court.
+[7] Concerning the motions, I accept the Crown’s submissions set out in paragraph 7 of their written arguments. The constitutional legitimacy of the search at issue in the First Motion had been previously considered and confirmed twice by the Ontario Superior Court of Justice,[1] once by the Ontario Court of Appeal,[2] in a leave application before the Supreme Court of Canada,[3] and in the Federal Court.[4] While those cases were brought by the Appellant’s husband, it was the same search, the same warrant, and essentially the same legal challenge as in the Appellant’s First Motion.[5]
+[8] Ultimately, all three motions were unsuccessful. This Court twice concluded that the search warrant was Charter compliant. The Tax Court also concluded that the Crown had not breached the Superior Court’s order in relying on or retaining copies of documents seized during the search. The Appellant’s motions were without merit, created much additional work for the Respondent, and ultimately were unsuccessful.
+[9] Based upon these motions, I do find that the Appellant took steps that increased the costs of these proceedings. The additional costs created by the motions brought by the Appellant support the Respondent’s claim for costs above the tariff.
+[10] Other factors set out under subsection 147(3) and relied upon by the Respondent are as follows (I will comment on each of the factors):
+a. Result of the proceeding: the Crown was entirely successful in the litigation. Yet I also find that this was an all or nothing matter. On this issue, while I find that costs should be payable to the Respondent, this factor does not, on its own, lead to enhanced costs.
+b. Amounts in issue: the Appeal challenged an assessed tax liability of $138,550. While this amount is a large amount to the Appellant, it is not a large amount given what this Court typically deals with. This factor does not, on its own, support an enhanced costs award.
+c. Importance of the issues: the Appeal’s legal and factual issues were routine for a section 160 appeal. However, as the Respondent notes in her submissions, the Appellant’s three motions seriously assailed the conduct of the Crown. The motions significantly increased the importance of the issues to the Respondent. The Appellant alleged that the Crown breached her Charter rights and disregarded a court order. These are serious allegations that the Appellant was found to have advanced baselessly. This criterion supports a cost order above the tariff amounts.
+d. Any offer of settlement: neither party made an offer to settle in writing. This factor is therefore neutral.
+e. Volume of work: the substantive issues in the appeal did not give rise to a particularly voluminous amount of work. However, as argued by the Respondent:
+The Appellant’s multiple and meritless attempts to relitigate the constitutionality of the Crown’s search, seizure, and reliance on the impugned documents as well as her baseless allegation that the Crown had breached an order of the Superior Court again significantly and unnecessarily added to the volume of work and significantly prolonged the proceedings. The Crown incurred far greater counsel fees than it otherwise would have but for the Appellant’s three challenges. The Appellant ought to have known there was no reasonable prospect of success in bringing her challenges; she did so anyway.
+This factor supports an award of costs above the tariff.
+The Respondent has provided specific details as to their hours worked, the work performed, and the appropriate hourly rates charged. Based on this evidence provided, I accept that the Respondent spent 395.41 hours on this matter, at a cost of $99,810.92. I will use these figures in my final judgement.
+f. The complexity of the issues: The litigation was not complex. However, the Appellant’s three motions significantly increased the complexity of the issues. As stated in the Respondent’s submissions:
+The Appellant’s motions gave rise to constitutional arguments, the application of the doctrines of res judicata and issue estoppel, and the interpretation of Criminal Code provisions. Again, given the serious nature of the Appellant’s allegations, the Crown had no choice but to take on the added complexity and properly respond. The Crown ought to be appropriately indemnified for the costs of that response.
+This factor supports an enhanced costs award.
+g. The conduct of a Party that tended to lengthen unnecessarily the duration of the proceeding: the Appellant’s three motions unnecessarily lengthened the duration of the proceeding. This factor supports an enhanced costs award.
+h. The denial or the neglect or refusal of any party to admit anything that should have been admitted: this factor is not applicable.
+i. Whether any stage in the proceedings was improper, vexatious, or unnecessary: The Crown’s position is that the Appellant’s three motions were improper and unnecessary. I accept this position in deciding what amount to award as costs.
+IV. CONCLUSION
+[11] Based on my analysis of the various factors set out in subsection 147(3) of the rules, I find that the Respondent’s request for costs of $30,000 is reasonable.
+[12] This conclusion relies mostly on the fact that the Appellant brought three unsuccessful motions in this matter, greatly increasing the hours expended by the Respondent. I also base my decision on the success of the Respondent (including in the three motions), and the hours they spent on this matter.
+[13] Costs will be set at $30,000, payable by the Appellant to the Respondent.
+Signed at Halifax, Nova Scotia this 26th day of August 2024.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2024 TCC 100
+COURT FILE NO.:
+2019-2942(IT)G
+STYLE OF CAUSE:
+MIRIAM WATTS AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 14-15, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+August 26, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Marco Iampieri
+Counsel for the Respondent:
+Hye-Won (Caroline) Ahn
+Peter Swanstrom
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Marco Iampieri
+Firm:
+Iampieri Law Professional Corporation
+For the Respondent:
+Nathalie G. Drouin Deputy Attorney General of Canada Ottawa, Canada
+[1] R v Watts, [2012] OJ No. 4482; R v Watts, 2015 ONSC 5597.
+[2] R v Watts, 2018 ONCA 148.
+[3] Lawrence Watts v Her Majesty the Queen, 2018 CanLII 89743 (SCC).
+[4] Lawrence Watts v Canada Revenue Agency, 2019 FC 1321.
+[5] Order and Reasons of the Honourable Justice Favreau, dated March 31, 2021 at paras 20-21.

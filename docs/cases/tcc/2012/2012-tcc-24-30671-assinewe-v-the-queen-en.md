@@ -1,0 +1,170 @@
+---
+title: "Assinewe v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30671/index.do"
+last_modified: "2012-01-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 24"
+citation2: ""
+neutral_citation: "2012 TCC 24"
+decision_date: "2012-01-12"
+language: "en"
+item_id: "30671"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7197
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:39:21.835000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "74d299478f44b06de4dc9367097b132f9b8cd85792666277cfe7532a4960a8af"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Assinewe v. The Queen
+
+- Citation: 2012 TCC 24
+- Decision date: 2012-01-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7197, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Assinewe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-01-12
+Neutral citation
+2012 TCC 24
+File numbers
+2007-2199(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2199(IT)I
+BETWEEN:
+ROSEMARY ASSINEWE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 12, 2012, at Sudbury, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ashleigh Akalehiywot
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+No costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 18th day of January 2012.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2012TCC24
+Date: 20120118
+Docket: 2007-2199(IT)I
+BETWEEN:
+ROSEMARY ASSINEWE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether the employment income received by the Appellant in 2001 from Native Leasing Services (NLS) is exempt from federal income tax because it was personal property situated on a reserve within the meaning of paragraph 87(1)(b) of the Indian Act[1].
+[2] Paragraph 87(1)(b) of the Indian Act provides that:
+87. (1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83, the following property is exempt from taxation, namely,
+(b) the personal property of an Indian or a band situated on a reserve.
+[3] The exemption in the Indian Act is incorporated into the Income Tax Act (the “Act”) by paragraph 81(1)(a). The relevant portion of that paragraph reads:
+81. (1) There shall not be included in computing the income of a taxpayer for a taxation year,
+(a) an amount that is declared to be exempt from income tax by any other enactment of Parliament, …
+Facts
+[4] Both the Notice of Appeal and the Reply to Notice of Appeal gave the following general description of NLS.
+[5] NLS is a placement agency with its head office on the Six Nations of the Grand River Reserve (Six Nations Reserve). Its function is to lease employees to native organizations located off reserve.
+[6] NLS is a sole proprietorship owned and operated by Roger Obonsawin who is a status Indian.
+[7] The Appellant is a member of the Sagamok Anishnawbek First Nation.
+[8] In 1995, the Appellant was engaged as an accounting assistant at the Native Canadian Centre of Toronto (NCC).
+[9] NCC’s purpose was to assist Native people living in Toronto. According to the incorporating documents of the NCC, its objects were:
+1. TO develop and provide cultural programs that will promote and re-affirm in the Native people of Toronto and especially our Native youth, a strong sense of identity and worth;
+2. TO provide a place where Native people can meet with one another and help each other to preserve the Native culture and identity within the Toronto environment;
+3. TO provide educational programs that will help Native people to learn more about the traditional ways of their ancestors and to honour their ancestors and elders;
+4. TO provide educational programs that will help Native people adjust and cope with an urban environment;
+5. TO foster strong and aggressive leadership within the Native community and to attract and retain personnel of superior dedication and motivation who would train others in the organization to fill the vacancies within the Centre with native people who are competent to meet the standards of their position;
+6. TO provide a place where Native and Non-Native people can meet and learn more, through that interaction, about their respective heritage and cultures;
+7. TO assume responsibility for programs and projects designed to dispel the sense of alienation and isolation from the community and provide opportunities for participation in worthwhile social and recreational activities;
+8. TO assist people of Native ancestry who come into the Toronto urban environment to become established as good self-supporting members of the community by providing them with counselling, information, advice and assisting in all suitable ways, by assisting them in finding employment and proper accommodation and by providing a proper place and means for meetings, recreations and creative application of their time, energies and activities;
+9. TO provide the Native Community of Toronto with facilities and access to services in all important aspects of legal and health assistance;
+10. TO maintain an effective system of communication, public relations and dissemination of information to the Native people and the general public of Toronto; and
+11. TO ensure that adequate funds are obtained for the implementation of programs and projects under the jurisdiction of the Centre.
+[10] The Appellant reported to the accountant with NCC and her duties included general office administration, bingo, payroll, recording accounts payable and accounts receivable. When required, she also assisted with the various programs offered by NCC to the First Nations people who lived in Toronto.
+[11] On July 5, 1999, the Appellant signed a contract of employment with NLS. She continued to perform the duties of an accountant assistant with NCC but now her employer was NLS. She was paid by direct deposit into her bank account in downtown Toronto.
+[12] At all relevant times, the Appellant resided in downtown Toronto. She maintained cultural and familial ties with the reserve at Sagamok Anishnawbek.
+Connecting Factors Test
+[13] The connecting factors test formulated in Williams v. Canada[2] has been used by the courts to determine if the employment income received by an Indian was situated on a reserve[3].
+[14] Cromwell J. confirmed in Bastien Estate v Canada[4] that in situations such as the present, where one must determine whether the personal property of an Indian is situated on a reserve and that personal property is intangible, a two-step analysis is required. He stated:
+First, one identifies potentially relevant factors tending to connect the property to a location and then determines what weight they should be given in identifying the location of the property in light of three considerations: the purpose of the exemption from taxation, the type of property and the nature of the taxation of that property[5].
+[15] The purpose of the exemption, as discussed by LaForest, J. in Mitchell v. Peguis Indian Band[6], is to prevent “one branch of government, through the imposition of taxes, from eroding the benefits given to Indians by that branch of government entrusted with the supervision of Indian Affairs”. In discussing the purpose of the exemption, La Forest added:
+The fact that the modern‑day legislation, like its historical counterparts, is so careful to underline that exemptions from taxation and distraint apply only in respect of personal property situated on reserves demonstrates that the purpose of the legislation is not to remedy the economically disadvantaged position of Indians by ensuring that Indians may acquire, hold, and deal with property in the commercial mainstream on different terms than their fellow citizens.[7]
+[16] The personal property in this appeal is intangible. It is the employment income received by the Appellant from NLS.
+[17] Some of the factors which have been identified as potentially relevant in determining whether an Indian’s employment income is situated on a reserve are: the location or residence of the employer; the nature, location and surrounding circumstances of the work performed by the employee, including the nature of any benefit that accrued to a reserve from it; and, the residence of the employee[8].
+[18] All factors connect the Appellant’s employment income to a location off-reserve.
+[19] The employer, NLS, is located on a reserve. However, no evidence was presented at the hearing with respect to Mr. Obonsawin, NLS’s business or its operations. As in Shilling, there was no evidence given from which I can infer that the Six Nations Reserve or for that matter, any reserve, benefited from the Appellant’s employment.
+[20] The Appellant both worked and resided in Toronto.
+[21] The nature, location and surrounding circumstances of her employment are important factors which, in this case, also locate her employment income off-reserve.
+[22] The Appellant stated that in assisting with the NCC’s programs, she occasionally visited Reserves. However, she could not remember if any of these visits occurred in 2001.
+[23] I concluded from Mr. Ramirez’s evidence that if the Appellant performed any of her duties on a Reserve, it would have been infrequent and unusual.
+[24] All evidence presented at the hearing indicate that, in 2001, the Appellant’s employment income was situated off-reserve.
+[25] The appeal is dismissed.
+[26] Having regard to all of the circumstances, no costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 18th day of January 2012.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2012TCC24
+COURT FILE NO.: 2007-2199(IT)I
+STYLE OF CAUSE: ROSEMARY ASSINEWE AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sudbury, Ontario
+DATE OF HEARING: January 12, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: January 18, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Ashleigh Akalehiywot
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985, c. I-5
+2 [1992] 1 S.C.R. 877
+3 Shilling v. M.N.R., 2001 FCA 178
+4 2011 SCC 38
+5 Ibid at paragraph 2
+6 [1990] 2 S.C.R. 85
+7 Ibid at page 131
+8 Supra, footnote 3 at paragraph 31

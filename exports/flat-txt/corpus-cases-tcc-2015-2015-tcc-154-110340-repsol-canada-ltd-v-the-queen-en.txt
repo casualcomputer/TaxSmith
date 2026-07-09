@@ -1,0 +1,176 @@
+Title: Repsol Canada Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110340/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-154-110340-repsol-canada-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-06-19
+
+# Repsol Canada Ltd. v. The Queen
+
+- Citation: 2015 TCC 154
+- Decision date: 2015-06-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2652, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Repsol Canada Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-19
+Neutral citation
+2015 TCC 154
+File numbers
+2012-1931(IT)G, 2012-1933(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1931(IT)G
+BETWEEN:
+REPSOL CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-1933(IT)G
+BETWEEN:
+REPSOL ENERGY CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+The Honourable Justice Campbell J. Miller
+ORDER
+Costs are awarded as follows:
+i. Post-Settlement Offer costs at 80% of solicitor-client costs - $264,334;
+ii. Pre-Settlement Offer costs at 50% of solicitor-client costs - $262,051;
+iii. Disbursements - $35,308;
+iv. Costs of this Motion at 80% of solicitor-client costs plus reasonable disbursements, which I encourage the Parties to agree upon.
+Signed at Ottawa, Canada, this 19th day of June 2015.
+“Campbell J. Miller”
+C. Miller J.
+Citation: 2015 TCC 154
+Date: 20150619
+Docket: 2012-1931(IT)G
+BETWEEN:
+REPSOL CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+Docket: 2012-1933(IT)G
+BETWEEN:
+REPSOL ENERGY CANADA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS RESPECTING SUBMISSIONS ON COSTS
+C. Miller J.
+[1] Repsol Canada Ltd. and Repsol Energy Canada Ltd. (collectively the “Appellants”) have brought a Motion for the following costs:
+a) Substantial indemnity costs in accordance with Rule 147(3.1) and related provisions of the Tax Court of Canada Rules (General Procedure) (the “Rules”), which the Appellants have calculated to be $264,334 in respect of legal fees incurred after the issuance of the settlement offer of February 25, 2014 (the “Settlement Offer”);
+b) Further costs in the amount of $33,042 in accordance with Rule 147(3) of the Rules, being an additional 10% of the legal fees incurred after the issuance of the Settlement Offer;
+c) Further costs in the amount of $391,296 in accordance with Rule 147(3) of the Rules, being 75% of the legal fees incurred with respect to Appeals from and including preparation of the Notices of Appeal;
+d) An amount for all reasonable disbursements which the Appellants have calculated to be $54,225;
+e) Costs in this Motion to be calculated at 80% of solicitor-client costs plus all reasonable disbursements; and
+f) Any other or further relief that this Honourable Court may grant.
+[2] The Respondent has countered with the following:
+a) Rule 147(3.1) of the Rules costs of $259,681.12, being 80% of $324,601 ($330,418 - $5,816.97, being an amount carved out for those Appellants’ lawyers not spending meaningful time on the file);
+b) No enhanced costs of 10% of legal fees for the period after the Settlement Offer;
+c) Tariff for the period May 15, 2012 to February 25, 2014 with no costs for the period prior to May 15, 2012, provided that if the Court determines enhanced costs are in order, further representations be allowed to be made;
+d) Direction from the Court to the Parties to “exchange positions with respect to disbursements with a view to resolve the maximal number of items and that a taxing officer be appointed to deal with the outstanding issues, if necessary”; and
+e) No specific reference was made to costs of the Motion, so I presume the Respondent’s position is costs in accordance with Tariff to the successful Party.
+[3] The issues in this case concerned the tax treatment of capital invested in a Liquid Natural Gas (“LNG”) terminal (the “Terminal”), including a jetty (the “Jetty”), in New Brunswick in the years 2005 to 2007; specifically, whether the Terminal and Jetty fell into Class 1 and Class 3 respectively for Capital Cost Allowance (“CCA”) purposes, and consequently not qualify for Investment Tax Credits (“ITCs”), or whether the assets fell into Class 43 and did qualify for ITCs. The trial was heard over three days in late October 2014 and I awarded judgment in favour of the Appellants on January 27, 2015.
+[4] The Appellants were completely successful obtaining a more favourable judgment than contained in the Settlement Offer.
+[5] The costs can be broken down as follows:
+A. Costs incurred in the time period subsequent to the Settlement Offer, including costs of the Motion.
+B. Costs incurred in the time prior to the Settlement Offer.
+C. Disbursements.
+A. Time subsequent to the Settlement Offer [6] Rule 147(3.1) of the Rules reads:
+Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+[7] There is agreement that this Rule applies. There are, however, some preliminary issues to address for this time period:
+i. Does the 80% of solicitor-client costs pertain to an amount of $5,816, which represents costs of minor players in the litigation?
+ii. Does the Rule extend beyond the date of trial to include costs of this Motion?
+iii. Can enhanced costs be sought over and above the 80% award?
+(i) $5,816 [8] This amount represents work conducted by two partners, three students, something called “Doc-Pro” and library staff, amounting to approximately 30 hours of time in total. The Respondent relies on comments in the case of General Electric Capital Canada Inc. v Canada[1] where Justice Hogan discounted entirely hours of those who he considered did not spend a meaningful amount of time working on the file. I note that in that case 77 lawyers touched the file, compared to seven lawyers and three students in the case before me. Justice Hogan commented that he could not help but believe there was some duplication. His comments, however, were not in the context of Rule 147(3.1) of the Rules but in the context of determining a lump sum award. With these significant differences between the case before me and General Electric, I do not feel any compulsion to accept as a general principle that in determining substantial indemnity costs pursuant to Rule 147(3.1) of the Rules, the costs of those spending something less than significant time on a file are to be ignored. I will not even go into the possibility of a clever articling student discovering in two hours work what ultimately might win the day. I do not discount the $5,816.
+(ii) Does Rule 147(3.1) of the Rules extend to this costs application? [9] I see no reason why it would not, given the wording of the Rule is simply substantial indemnity costs after the date of the Settlement Offer: it does not limit those costs to the date of judgment. The 80%, I find, applies to the costs of this Motion.
+(iii) Enhanced costs over and above the substantial indemnity costs [10] I find the Court is not limited in exercising its discretion towards something greater than the substantial indemnity costs set out in Rule 147(3.1) of the Rules. This is evident from the opening words “Unless otherwise ordered by the Court…”. This is in keeping with the overriding principle that costs are in the judge’s discretion. I interpret Rule 147(3.1) of the Rules as providing neither an end point nor a starting point for the cost determination. It is though a question of degree when awarding enhanced costs beyond Tariff or enhanced costs beyond substantial indemnity. It does not follow that because I may exercise my discretion to award costs beyond Tariff for the pre-Settlement Offer period, that I must increase costs beyond substantial indemnity costs for the post-Settlement Offer period. Awarding costs beyond 80% is skirting with costs on a full solicitor-client basis and, I believe, we should proceed with caution. Those factors implying questionable behaviour of a party become, I suggest, more significant: conduct lengthening the duration, refusal to admit, improper, vexatious or unnecessary conduct – all these should be considered. I would go so far as to suggest it is the egregious nature of behaviour that would cause me to exercise my discretion beyond substantial indemnity. In the case before me, I do not see behaviour that would justify inching towards full indemnity. The Appellants rely on the comment of Justice Bocock in the case of Thomas O’Dwyer v The Queen,[2] in which he awarded costs of 90% of solicitor‑client costs given that he found the Crown to engage in “myopic, perfunctory and hasty evaluations of the merits of the assessment throughout (ultimately reflected in the Reply)”. I note that award was in connection with a motion in which the court struck the Reply in its entirety for failure to show reasonable grounds. This is simply not the situation before me. This was a hard fought trial and I was left with no impression of behaviour on the part of the Respondent that she was unjustifiably or intentionally flogging a dead horse. There was some behaviour I will address in my review of the pre‑Settlement Offer that influences my finding with regards to that time period. But I am not prepared to move beyond the 80% award for the post-Settlement Offer period, which I find is $264,334, plus costs of this Motion at 80%of solicitor-client costs incurred for the Motion.
+B. Time prior to Settlement Offer [11] As a preliminary matter, the Respondent objects to any costs incurred by the Appellants prior to filing the Appeals. The Appellants have not in fact claimed for anything prior to the preparation of the Notice of Appeal, which preparation I find is part of proceedings and properly claimed. I do note, however, that the Appellants appear to have claimed for disbursements for this earlier period which I will address in my discussion on disbursements. The Appellants seek 75% of solicitor-client costs of $545,102, which my math suggests is $393,076 although the Appellants’ Motion seeks $391,296.
+[12] Are the Appellants entitled to enhanced costs beyond Tariff? There has been an evolving body of law in the Tax Court of Canada with respect to costs. Justice Boyle in the Spruce Credit Union v Canada[3] offers an excellent summary of what some have suggested is a new approach. It simply requires a principled approach to exercising our discretion in assessing Rule 147(3) of the Rules factors without a slavish adherence to Tariff. As I suggested in the case of Daishowa-Marubeni International Ltd. v The Queen[4] consistency will result from courts present and future following this principled approach. In that regard, the Appellants provided a helpful chart summarizing some recent awards, noting the percentages awarded along with an evaluation of several of the Rule 147(3) of the Rules factors. I noted that the Appellants’ assessment of Crown behaviour was shown as questionable, poor or very poor (corresponding to awards of 30% in Blackburn Radio Inc. v The Queen,[5] 60% in Reynold Dickie v The Queen[6] and 90% in O’Dwyer). The Appellants included their own claim on this chart suggesting Crown behaviour was poor. More on that later.
+[13] I turn now to the factors set out in Rule 147(3) of the Rules.
+(a) Result The Appellants were entirely successful in their Appeals.
+(b) Amounts in issue The Parties estimate the amount in issue in the $38,000,000 to $50,000,000 plus range. The Respondent suggests this is a neutral factor as it is incumbent on the Crown to protect the Canadian tax base and therefore pursue these assessments. While I do not dispute the Crown’s role, I do find the amount is significant and its importance is not outweighed by the Crown’s role.
+(c) Importance of issues The Crown argues the issues were of neutral importance only. The Appellants maintained the case is a classic illustration of the use of “textual, contextual and purposive interpretation to solve a complex interpretative problem” and such issues will become increasingly important, as will interpreting Court of Appeal decisions that pre‑date regulatory amendments. I do not find the Appellants’ general observations in this regard elevate the issues in this case to such importance that justifies increased costs. It is the role of our Court to interpret complex legislation – nothing extraordinarily important in that regard.
+(d) Offer of settlement This factor obviously came into play in the award of substantial indemnity costs for the post-Settlement Offer period; its importance rests there.
+(e) Volume of work The Appellants’ legal team recorded 1,855 hours for the 30 month period this matter was in litigation, while the Respondent recorded 1,035 hours. The Respondent simply states that volume of work by Appellants’ counsel is, in comparison, not reasonable for the conduct of a three-day trial. I do not share the Respondent’s view. It is easy to accuse an opponent of spending too much time on a file, but several factors should be considered before such a hasty criticism: the amount at issue was significant, the litigation covered 30 months, the onus was on the Appellants, the facts were complicated, experts were necessarily consulted though ultimately not called, economic policy and legislative history was researched, the provisions and regulations were complex, the clients were international. Factoring all these matters together and starting from a premise that reputable law firms serve their clients not just with diligence but with integrity, I conclude the volume of work in this matter was justified and was significant and thus favours some enhanced award.
+(f) Complexity of issues The facts were complex, including the technical construction and operation of the facility as well as the numerous commercial agreements documenting the arrangement. The legislation likewise was complex as was its development through a review of economic policy and legislative history. The argument was extensive. This favours some enhanced award.
+(g) Conduct of Party re: shortening or lengthening trial The Appellants rely on the weight put on this factor in the case of Dickie where Justice Pizzitelli concluded:
+I do however also agree with the Appellant that having regard to the clear wording and intention of the Supreme Court of Canada’s decisions effectively reducing the importance of the commercial mainstream factor, if not obliterating it, that the Respondent could have shortened the proceeding by conceding this fact before trial.
+The Appellants argue that I am faced with a similar situation in that they provided to the Respondent long before trial a research summary “in an attempt to persuade the Respondent that it was not necessary to put the processing issue before the Tax Court of Canada”. I do not see the Appellants’ position as being as strong as in the Dickie matter. Just because an argument is successful at trial does not mean the other side should have conceded it ahead of time. This was not a lengthy trial and the Respondent obviously made the decision that the processing issue deserved argument at trial, especially in light of the Federal Court of Appeal cases cited. I do not put this in the “myopic, speculative and obdurate” behaviour the Appellants suggest I should. This factor has little sway on costs.
+(h) Improper, vexatious and unnecessary conduct The Appellants raised several areas where they submit the Crown took unnecessary steps requiring the Appellants to expend significant amounts of time and money. Those actions were:
+i. List of documents: The Crown initially provided a list of 217 documents. Just prior to examinations, counsel was asked if it was necessary for discoveries with respect to all such documents. The Crown eliminated 125 of the documents – nothing vexatious there.
+ii. Agreed statement of facts: Without going into all the detail and back and forth between the Parties and the ultimately unsuccessful attempts to provide an agreed statement of facts, my impression is that efforts were made by both sides and no one side is so much more blameworthy in the failure as to conclude that that side acted improperly or vexatiously. It struck me more as the usual thrust and parry of litigation.
+iii. Notice under section 30 of the Evidence Act: Seven days before trial, the Crown served the Appellants with a Notice of Production of a 960 page document entitled “Environmental Impact Statement – Liquid Natural Gas Marine Terminal and Multipurpose Pier”. The Appellants claim considerable time was spent before trial to prepare for the introduction of this evidence, while the Crown chose not to introduce it at trial. The Respondent simply states the rules of evidence permit a party to give such notice with no obligation that the documents be effectively entered into evidence. True, but if the Crown knew before trial that she was not going to enter this tome, she might have notified the Appellants. To complain on one hand that the Appellants spent too much time on the file and at the same time presenting a 1000 page report just before trial suggesting it would be introduced as evidence, and then not introducing it is, to be kind, contradictory.
+iv. Joint Book of Documents: The day prior to the commencement of trial, I held a hearing to address several procedural matters. One such matter was the production of a Joint Book of Documents, which I understood had been contemplated and drafts of such prepared by the Crown. The Crown, however, was unable to reproduce the Joint Book and it fell to the Appellants to do so. Again, I would not classify this as vexatious behaviour though I would agree with the Appellants it put a heavier burden on them.
+In summary on this factor, I disagree with the Appellants’ characterization of the nature of the Respondent’s behaviour, though I recognize the latter two steps created some additional headaches, if you will, for the Appellants and I do take that into account in my estimate. I note though that these steps were during the post‑Settlement Offer period which is already being compensated at 80% of solicitor-client costs.
+[14] As I have mentioned, the Appellants have provided a comparative chart with other recent costs’ cases and wish to align themselves more closely with those cases where the courts determined there was some poor behaviour on behalf of the Crown. I find that factor not as significant in this case that would warrant costs at a higher level. I place some weight but not a great deal on this factor. I believe the result, the amount at issue, the volume of work and complexity of the case are more in line with the costs awards given in Henco Industries Limited v The Queen[7] and Spruce Credit, rather than in Dickie or O’Dwyer.
+[15] I see no need to prolong these matters by acceding to the Crown’s request for additional information from the Appellants with respect to time spent. They have indicated the pre-Settlement Offer costs were $524,102. I accept that and award 50% of that amount, or $262,051.
+Disbursements [16] The Respondent objects to three categories of disbursements:
+i. Disbursements incurred prior to commencement of Appeals;
+ii. Mr. McCue’s expenses in attending examinations for discovery in Toronto;
+iii. Travel expenses of two of the Appellants’ witnesses and a Repsol representative, Ms. Esther Muсoz who attended trial but did not testify.
+[17] I agree with the Respondent’s concerns with respect to costs incurred prior to the preparation of the Notice of Appeal and reduce the Appellants’ claim accordingly by $1,380. I disagree with the Respondent’s view of Mr. McCue’s attendance at discoveries. Notwithstanding he asked that discoveries be held in Toronto, it resulted in less costs for all others to attend those discoveries, including his witnesses. I see this as a reasonable expense eligible for inclusion in my award of costs.
+[18] With respect to two of the Appellants’ witnesses, I see no reason why those costs should not be covered: witnesses’ expenses are specifically covered by our Rules in Tariff A. The costs for the attendance at trial and discovery of a representative of the Appellants who did not testify, Ms. Esther Muсoz, is not a reasonable cost to be borne by the Respondent.
+[19] I note that the cost of Ms. Muсoz and Mr. Azcarraga attendance at discovery was approximately $7,200. Rather than conducting a full-fledged audit of expenses, I am simply going to disallow half of that amount or $3,600 as presumably relating to Ms. Esther Muсoz’s costs. Her expense for trial attendance was $6,559 which I also disallow.
+[20] It appears that Mr. Azcarraga’s costs for air travel was in business class at an amount of $9,283. This is not reasonable for the Appellants to claim for the attendance of a witness. Neither side gave me any idea of an economy fare and again so as not to prolong this and to not put myself in a position of an auditor, I am arbitrarily going to disallow $7,283 of the travel costs of Mr. Azcarraga.
+[21] In summary, I reduce the disbursements claimed by the Appellants from $54,225 to $35,403 (a reduction of $1,380, $3,600, $6,559 and $7,283). Frankly, I would have hoped counsel, acting reasonably, could have resolved the issue of disbursements.
+[22] In conclusion, I award costs as follows:
+v. Post-Settlement Offer costs at 80% of solicitor-client costs - $264,334;
+vi. Pre-Settlement Offer costs at 50% of solicitor-client costs - $262,051;
+vii. Disbursements - $35,308;
+viii. Costs of this Motion at 80% of solicitor-client costs plus reasonable disbursements, which I encourage the Parties to agree upon.
+Signed at Ottawa, Canada, this 19th day of June 2015.
+“Campbell J. Miller”
+C. Miller J.
+CITATION:
+2015 TCC 154
+COURT FILE NO.:
+2012-1931(IT)G and 2012-1933(IT)G
+STYLE OF CAUSE:
+REPSOL CANADA LTD. AND HER MAJESTY THE QUEEN and REPSOL ENERGY CANADA LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+n/a
+DATE OF HEARING:
+n/a
+REASONS FOR ORDER BY:
+The Honourable Justice Campbell J. Miller
+DATE OF ORDER:
+June 19, 2015
+APPEARANCES:
+Counsel for the Appellant:
+n/a
+Counsel for the Respondent:
+n/a
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert D. McCue
+Firm:
+Bennett Jones LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2010 TCC 490.
+[2] 2014 DTC 1103.
+[3] 2014 DTC 1063.
+[4] 2013 DTC 1222.
+[5] 2013 DTC 1098.
+[6] 2012 DTC 1276.
+[7] 2014 DTC 1205.

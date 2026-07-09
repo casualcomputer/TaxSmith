@@ -1,0 +1,217 @@
+---
+title: "Duclos v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28309/index.do"
+last_modified: "2004-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 62"
+citation2: ""
+neutral_citation: "2004 TCC 62"
+decision_date: "2004-02-03"
+language: "en"
+item_id: "28309"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1828
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:51:12.156000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7db8fc77d910f6aadc86f6ec0eed39fbdaa77d531fb3698a5da1b374d20417b3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Duclos v. M.N.R.
+
+- Citation: 2004 TCC 62
+- Decision date: 2004-02-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1828, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Duclos v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-03
+Neutral citation
+2004 TCC 62
+File numbers
+2003-869(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2003-869(EI)
+BETWEEN:
+RÉGINALD DUCLOS,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+R. DUCLOS ENTREPRISES LTÉE,
+Intervener.
+__________________________________________________________________
+Appeal heard on common evidence with the appeal of R. Duclos Entreprises Ltée (2003-872(EI)) on September 30, 2003, at Bathurst, New Brunswick
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Antonia Paraherakis
+Agent of the Intervener:
+Andrée Chiasson-Duclos
+__________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is affirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 3rd day of February, 2004.
+"S.J. Savoie"
+D.J.T.C.C.
+Certified true translation
+Colette Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2003-872(EI)
+BETWEEN:
+R. DUCLOS ENTREPRISES LTÉE,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+RÉGINALD DUCLOS,
+Intervener.
+__________________________________________________________________
+Appeal heard on common evidence with the appeal of Réginald Duclos (2003-869(EI)) September 30, 2003, at Bathurst, New Brunswick
+Before: The Honourable Deputy Judge S.J. Savoie
+Appearances:
+Representative of the Appellant:
+Andrée Chiasson-Duclos
+Counsel for the Respondent:
+Me Antonia Paraherakis
+For the Intervener:
+The intervener himself
+_________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is affirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 3rd day of February, 2004.
+"S.J. Savoie"
+D.J.T.C.C.
+Certified true translation
+Colette Beaulne
+[OFFICIAL ENGLISH TRANSLATION
+Citation: 2004TCCI62
+Date: 20040203
+Docket: 2003-869(EI)
+BETWEEN:
+RÉGINALD DUCLOS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+R. DUCLOS ENTREPRISES LTÉE,
+Intervener.
+AND
+Docket: 2003-872(EI)
+R. DUCLOS ENTREPRISES LTÉE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+RÉGINALD DUCLOS,
+Intervener.
+REASONS FOR JUDGMENT
+Deputy Judge Savoie
+[1] These appeals were heard on common evidence at Bathurst, New Brunswick, on September 30, 2003.
+[2] The appeals concern the insurability of the employment of Réginald Duclos, the Appellant, with R. Duclos Entreprises Ltée, the Payer, during the periods at issue, from April 13, 2000, to April 14, 2001, and from April 15, 2001, to April 21, 2002, within the meaning of the Employment Insurance Act (the "Act").
+[3] The Minister of National Revenue (the "Minister") informed the Appellant and the Payer of his decision, according to which the employment held by the Appellant with the Payer was not insurable employment within the meaning of paragraph 5(2)(i) of the Act, during the periods at issue, since the Appellant and the Payer were not dealing with each other at arm's length.
+[4] The Minister based his decision on the following presumptions of fact, which were admitted or denied:
+a) the Payer is a legal entity incorporated in March 1993, the sole shareholder of which is Andrée Chiasson Duclos, the wife of the Appellant; (admitted)
+b) the Payer operates a snow removal and trucking business; (admitted)
+c) the Payer operates from the residence of the Appellant and his wife; (admitted)
+d) the Payer operates year-round but is busier in autumn and winter; (admitted with clarifications)
+e) the Appellant is the main employee of the Payer and his duties consist of operating the heavy machinery and maintaining the Payer's equipment; he also does the purchasing required to maintain the equipment; (admitted)
+f) the Appellant also cultivates blueberries on a commercial basis; (admitted)
+g) the Appellant received a weekly salary of $500.00 during the years 2000 and 2001 and $600.00 during 2002, for 50- to 80-hour weeks; (admitted)
+h) if the Appellant worked fewer than 50 hours a week, he was paid at a rate of $10 an hour in 2000 and $8 an hour in 2001; (admitted, but $8 to $10 in 2001)
+i) the Appellant did not always receive his pay every week; (denied)
+j) the Appellant used one of the Payer's vehicles for his personal use; (on several occasions)
+k) the Appellant and the Payer exchanged services for their individual operations; (admitted)
+l) the duration of the Appellant's employment did not reflect the actual needs of the Payer; (denied)
+m) the Appellant also did work for the Payer for which he received no remuneration; (denied)
+n) the Appellant and the Payer are related persons within the meaning of the Income Tax Act; (admitted)
+o) the Appellant and the Payer do not deal with each other at arm's length; (admitted)
+p) having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is not reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length. (denied)
+[5] The Appellant accordingly admitted the assumptions set out at paragraphs a) to g), k), n) and o), and denied those set out at paragraphs i), l), m) and p) and wished to add clarification to those set out at paragraphs h) and j).
+[6] The Appellant wished to clarify that he received $8 to $10 an hour compensation in 2001 if he worked fewer than 50 hours a week. He also stated that during the periods at issue, he used one of the Payer's vehicles for his personal use.
+[7] After reviewing the file, the Minister concluded that there was a contract of service between the parties concerned. It was established that the Appellant was under the control of the Payer, that all the equipment was provided by the Payer and that the Appellant was not in a situation where he had opportunities for profit and ran the risk of loss. The Minister further decided that the work of the Appellant was essential for the Payer's company.
+[8] Having concluded that a contract of service existed between the parties, the Minister continued his investigation with the aim of determining whether the Appellant's employment was excluded within the meaning of paragraph 5(2)(i) of the Act, since the parties are related within the meaning of paragraph 251(2)(a) of the Income Tax Act, as the Appellant is the husband of Andrée Chiasson-Duclos, who is the sole shareholder of the Payer, R. Duclos Entreprises Ltée.
+[9] Paragraph 5(2)(i) of the Act reads as follows:
+5.(2) Insurable employment does not include
+[...]
+i) employment if the employer and employee are not dealing with each other at arm's length.
+[10] Based on the foregoing, the Minister continued his analysis in order to make the determination required by paragraph 5(3)(b) of the Act. This paragraph reads as follows:
+(3) For the purposes of paragraph (2)(i):
+[...]
+b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[11] It was established that the Appellant's remuneration was low; it amounted to an hourly rate of $7.05 for a total of $600 a week and $5.88 for a total of $500 a week.
+[12] Since the Payer had provided certain documents at the request of the Minister, the latter, after reviewing the Appellant's paycheques for the periods at issue, asked for an explanation when it was discovered that, on several occasions, these cheques were numbered consecutively and had all been cashed on the same day. The sole shareholder of the Payer and the wife of the Appellant, whose job it was to prepare the paycheques, explained that she paid the bills once a month and that was why the cheques often had consecutive numbers. When asked as to why the Appellant cashed the cheques on the same date, she stated that the Appellant would supply the explanation therefor. At the hearing of these appeals, the Appellant explained that he was saving his money "in a sock", while he explained to the investigators that he had not had time to cash them because he was working up to 85 hours a week.
+[13] The explanations given to the investigators by the Appellant led the investigators to wonder what the Appellant was living off, since his blueberry growing business recorded losses on the order of $20,239.95 in $2000 and $15,699.37 in 2001. The Appellant further explained that he derived income from the sale of wood cut on his land. According to the Minister, however, this income did not appear anywhere in the documentation provided, leading to the conclusion that the explanations given by the Appellant were lacking in plausibility.
+[14] The evidence revealed that the Appellant was the only employee to receive a fixed salary. He was, moreover, the only one to receive a pay increase in 2002.
+[15] According to the Minister, after reviewing the documents supplied by the Payer, which bear the signature of the Appellant, the latter worked for free outside the periods at issue. A vain attempt was made to explain the fact that the date of the Appellant's signature on some of the documents did not correspond to that of the service he had provided, which led to the comment by the representative of the Minister that, in the absence of such evidence, the dates appearing on the documents had to be recognized as accurate, and the same was true for the Minister's presumptions. Furthermore, Ms. Andrée Chiasson-Duclos, the sole shareholder of the Payer, told the investigators that the Appellant was never paid when he was on "standby" and, since he was not entered in the pay register, he performed certain services for the business, such as picking up parts, signing invoices and making repairs to equipment, on a voluntary basis.
+[16] The Appellant denied the Minister’s presumption to the effect that the duration of his employment, during the periods at issue, did not correspond to the actual needs of the Payer. While it is true that his record of employment attributed his layoff to a lack of work, the Appellant in fact continued to work after he was laid off, for no pay.
+[17] For his part, the Appellant explained that, when he was doing errands, outside the periods at issue, he would also run errands for the Payer, since "it was on his route" and that he "signed for orders delivered to the house". It must be noted, however, that several delivery chits bearing the signature of the Appellant did not reveal the location at which the signature was obtained.
+[18] Under the provisions of paragraph 5(3)(b) of the Act, the Minister exercised his discretion by examining the circumstances surrounding the Appellant's employment. The evidence thus revealed that the Payer managed her company from her office located in the residence where she lived with the Appellant, her husband. The Payer paid no rent for her office. It was further established that the Appellant and the Payer exchanged services; for example, some of the bills sent to one of them were paid by the other and vice versa. The parties explained these circumstances in their own way, albeit with difficulty in some instances. They thus attempted to attribute certain rental costs to the Appellant, which had been billed to the Payer by mistake, but after checking, the supplier clearly stated that the bill made out to the Payer exactly represented the transaction as concluded and that there had been no need to change it. The question might be asked which party could benefit from the Appellant's assertion.
+[19] In circumstances similar to those in the file under review, the Appellant frequently resorted to the argument that the services rendered by him, outside the period of employment, were so minimal that little importance should be ascribed to them. In this context, it is appropriate to quote from Théberge v. Canada (Minister of National Revenue - M.N.R.), [2002] F.C.J. No. 464, where the Federal Court of Appeal, under Décary J., said the following, at paragraph 19:
+What a claimant does outside the period during which he or she is employed in what the Minister considers to be insurable employment can be relevant, for example, to verify that the claimant is unemployed, to determine the amount of his or her benefits, or to establish his or her period of unemployment. However, for the purposes of the exception provided in paragraph 3(2)(c) of the Act, what a claimant does outside of his or her period of employment will be of little relevance when, as in this case, it is not alleged that the salary paid during the period of employment took into account the work performed outside of that period, that the applicant had included, in the hours spent on his or her insurable employment, hours worked outside of the period, or that work performed outside of his or her period of employment had been included in the work performed during his or her period of employment. It seems to me to be self-evident, and this is confirmed by the evidence, that in the case of family businesses engaged in seasonal work, the minimal amount of work that remains to be done outside the active season is usually performed by family members, without pay. Excepting seasonal employment, in a family farm business, on the grounds that cows are milked year-round amounts, for all practical purposes, to depriving family members who qualify by working during the active season of unemployment insurance and to overlooking the two main characteristics of such a business: that it is a family business and a seasonal business.
+[20] The Appellant is asking this Court to reversing the Minister's determination under paragraph 5(3)(b) of the Act.
+[21] It is appropriate to specify that the authority of this Court, its scope and its limits, has been studied by the Federal Court of Appeal of Canada in Canada (Attorney General) v. Jencan Ltd., [1998] 1 F.C. 187. It is appropriate to reproduce these relevant excerpts by Isaac C.J., who put it in the following terms:
+The decision of this Court in Tignish, supra, requires that the Tax Court undertake a two-stage inquiry when hearing an appeal from a determination by the Minister under subparagraph 3(2)c)(ii). At the first stage, the Tax Court must confine the analysis to a determination of the legality of the Minister's decision. If, and only if, the Tax Court finds that one of the grounds for interference are established can it then consider the merits of the Minister's decision. As will be more fully developed below, it is by restricting the threshold inquiry that the Minister is granted judicial deference by the Tax Court when his discretionary determinations under subparagraph 3(2)c)(ii) are reviewed on appeal.
+[...]
+[...] Because it is a discretion made pursuant to a discretionary power, as opposed to a quasi-judicial decision, it follows that the Tax Court must show judicial deference to the Minister's determination when he exercises that power. Thus, when Décary J.A stated in Ferme Émile, supra, [...] that such an appeal to the Tax Court "more closely resembles an application for judicial review", he merely intended, in my respectful view, to emphasize that judicial deference must be accorded to a determination by the Minister under this provision unless and until the Tax Court finds that the Minister has exercised this discretion in a manner contrary to law.
+[...]
+Thus, by limiting the first stage of the Tax Court's enquiry to a review of the legality of Ministerial determinations under subparagraph 3(2)c)(ii), this Court has merely applied accepted judicial principles in order to strike the proper balance between the claimant's statutory right to have a determination by the Minister reviewed and the need for judicial deference in recognition of the fact that Parliament has entrusted a discretionary authority under this provision to the Minister.
+On the basis of the foregoing, the Deputy Tax Court Judge was justified in interfering with the Minister's determination under subparagraph 3(2)c)(ii) only if it was established that the Minister exercised his discretion in a manner that was contrary to law. And, as I already said, there are specific grounds for the interference implied by the requirement to exercise a discretion judicially. The Tax Court is justified in interfering with the Minister's determination under subparagraph 3(2)c)(ii) "by proceeding to review the merits of the Minister's determination” - where it is established that the Minister: (i) acted in bad faith or for an improper purpose or motive, (ii) failed to take into account all of the relevant circumstances, as expressly required by paragraph 3(2)c)(ii); or (iii) took into account an irrelevant factor.
+[22] The Federal Court of Appeal considered a similar situation in Rockwood v. Canada (Minister of National Revenue – M.N.R.), [2001] F.C.J. No. 948, where Sexton J.A. wrote as follows:
+The Tax Court Judge held that the onus was on the Applicant to establish that the Minister acted capriciously or arbitrarily and that the Applicant had failed to discharge this onus. He relied on the decisions of the Court being Tignish Auto Parts Inc. v. Minister of National Revenue (1994), 185 N.R. 73 (F.C.A.) and Ferme Émile Richard et Fils v. Minister of National Revenue (1994), 178 N.R. 361 (F.C.A.).
+[...]
+In the absence of the record before the Tax Court, we are unable to disagree with the conclusion of the Tax Court Judge. He could only substitute his decision for that of the Minister where it is established that the Minister acted in bad faith or for an improper purpose or failed to take into account all of the relevant circumstances: Canada (Attorney General) v. Jencan, [1998] 1 F.C. 187 (C.A.). None of these were established in this case.
+[23] The relevance of the legislation and the case law in respect of employment contracts between related persons was commented on by Hugessen J. in Bérard v. Canada (Minister of National Revenue – M.N.R.), [1997] F.C.J. No. 88, who wrote, inter alia:
+[...] The clear purpose of the legislation is to except contracts of employment between related persons that are not similar in nature to a normal contract between persons dealing with each other at arm's length. It is in our view clear that this abnormality can just as well take the form of conditions unfavourable to the employee as of favourable conditions. In either case, the employer-employee relationship is abnormal and can be suspected of having been influenced by factors other than economic forces in the labour market.
+[24] In summary, therefore, it must be said that this Court is justified in interfering with the Minister’s determination, by proceeding to review the merits of the Minister’s determination, where it is established that the Minister acted in bad faith or for an improper purpose or failed to take into account all of the relevant circumstances or took into account an irrelevant factor.
+[25] It must be noted that, in exercising his discretion, the Minister considered a number of factors, some of which are:
+1. the work performed without pay outside the periods;
+2. the worker who does not cash his cheques regularly;
+3. the worker, who is related to the Payer, who is the only person to receive a fixed salary and the only one to receive a pay increase;
+4. the exchange of services between the worker and the Payer.
+[26] A case similar to the instant case was dealt with by Rowe J. of this Court in Ostapowich v. Canada (Minister of National Revenue - M.N.R.), [1997] T.C.J. No. 592. The following is a relevant excerpt:
+People are free to arrange their business affairs however they choose, by paying wages or salaries to related persons and, provided the work is done and the expense is reasonable, can deduct that cost from income. However, if family members want to enter into contracts of service with each other and establish an employer/employee relationship for the purposes of insurable employment pursuant to the Unemployment Insurance Act then they must take care to ensure the overall working relationship will satisfy the requirements of subparagraph 3(2)(c)(ii). To that end, each party to the working relationship, if related, may have to forego certain attributes of their intended contract of employment which are strongly rooted in familial loyalties, tradition or convenience in order that the contract of employment can be seen, on an objective basis, as being substantially similar to the one which would be entered into by strangers. Depending on the circumstances, a problem with insurability may arise because of delay in receiving pay, exchange of use of assets without compensation, providing services outside the time frame of the relevant period covered by the determination, working exceptional hours for too little pay, or not enough hours for too much pay, and a variety of other factors which may affect the decision the Minister has to make.. [...]
+[27] The onus was on the Appellant to prove that the Minister erred in his presumptions and that he did not act in accordance with the principles established in Jencan, supra. This he did not do.
+[28] Since the Appellant has admitted virtually all the Minister’s presumptions, we must bear in mind the Federal Court of Appeal decision in Elia v. Canada (Minister of National Revenue – M.N.R.), [1998] F.C.J. No. 316, where the Court held that the Minister’s presumptions must be taken to be admitted unless they have been specifically disproved by the Appellant.
+[29] The Appellant failed to discharge that duty.
+[30] This Court is of the opinion that the Appellants have not succeeded in proving the grounds for interference as is required by the principle established in Jencan, supra. Under these circumstances, this Court must conclude that the Appellants have not established that the Court’s interference would be justified. Accordingly, the appeals are dismissed and the decisions of the Minister are affirmed.
+Signed at Grand-Barachois, New Brunswick, this 3rd day of February, 2004.
+"S.J. Savoie"
+D.J.T.C.C.
+Certified true translation
+Colette Beaulne

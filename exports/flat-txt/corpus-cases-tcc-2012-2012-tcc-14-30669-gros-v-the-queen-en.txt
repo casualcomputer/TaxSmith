@@ -1,0 +1,126 @@
+Title: Gros v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30669/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-14-30669-gros-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-01-16
+
+# Gros v. The Queen
+
+- Citation: 2012 TCC 14
+- Decision date: 2012-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7199, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gros v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-01-16
+Neutral citation
+2012 TCC 14
+File numbers
+2010-3866(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3866(IT)I
+BETWEEN:
+GÉRARD E. A. GROS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 15, 2011, at Montréal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Ilinca Ghibu
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2008 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of January 2012.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 29th day of February 2012.
+Daniela Possamai, Translator
+Citation: 2012 TCC 14
+Date: 20120116
+Docket: 2010-3866(IT)I
+BETWEEN:
+GÉRARD E. A. GROS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+[1] Gérard E. A. Gros (the appellant) has appealed from a reassessment made on May 4, 2009, made under the Income Tax Act in respect of the 2008 taxation year.
+[2] The issue is whether, for the 2008 taxation year, the Minister of National Revenue (the Minister) was justified in considering the amount of $8,616.29 that the appellant received from Fording Canadian Coal Trust (Fording Trust) as trust income rather than a taxable capital gain.
+[3] In making the assessment at issue, the Minister relied on the following facts:
+[Translation]
+(a) the appellant held shares in Canadian Pacific;
+(b) following a reorganization, Fording Canadian Coal Trust units were received in exchange;
+(c) Fording Canadian Coal Trust is a mutual trust fund;
+(d) the trust, created on 26-03-2003, was liquidated on 30-10-2008;
+(e) the trust’s income was designated by the trust in respect of beneficiaries under the trust for the fiscal year ending 31-12-2008;
+(f) the appellant held 87 units of Fording Canadian Coal Trust;
+(g) a T5 information slip was issued by brokerage firm Scotia Capital Inc. showing royalties from Canadian sources in the amount of $8,616.29.
+[4] The documents filed in evidence show that Teck Cominco Limited (“Teck Cominco”) acquired all the assets of Fording Trust in consideration of shares in Teck Cominco and cash.
+[5] According to Fording Trust’s tax return for the 2008 taxation year, its income came almost entirely from a gain from the disposition of mining property. The gain is fully taxable. Fording Trust did not realize any taxable capital gains according to the amended tax return it filed and which the Minister accepted.
+[6] The evidence reveals that after having received from Teck Cominco consideration for the acquisition, Fording Trust distributed that amount to its unitholders as taxable income. Fording Trust subsequently redeemed and cancelled all trust units for a nominal sum.
+[7] The appellant received a T5 slip from Fording Trust which indicated that the amount of $8,616.29 paid by the trust consisted of some shares and cash received from Teck Cominco, and that the appellant had to include that amount in its income.
+[8] This was because Fording Trust wanted to ensure that all the income coming from the disposition of Teck Cominco’s mining property was taxable in the unitholders’ hands and not in the trust’s hands.
+[9] The tax treatment of the unitholders stems from the fact that Teck Cominco purchased the assets of Fording Trust rather than all of its units. Obviously, if Teck Cominco had acquired all of its units, the tax cost of Fording’s assets would have remained the same. By purchasing the assets, Teck Cominco acquired the mining property at fair market value.
+[10] The evidence shows that a large number of Fording Trust unitholders were not taxable, such that the distribution of the income of Fording Trust was of no pecuniary consequence to them. Obviously, it is otherwise for taxable unitholders, for whom while the income distributed by Fording Trust is taxable at 100%, the purchase price of the units is non-deductible, so that indirectly the purchase price becomes taxable.
+[11] The purpose of the caveat in the management information circular of Fording Trust was to encourage taxable unitholders to sell their units to non-taxable purchasers to realize a capital gain following the transaction. The appellant appears not to have taken advantage of the caveat and notes that the tax treatment proposed by the Minister is not very favourable.
+[12] The appellant submits that the transaction did not result in the tax treatment proposed by the Minister at the time of his assessment. According to the taxpayer, simply put, notwithstanding the statements of Fording Trust and Teck Cominco in the information circular and the agreement, the appellant disposed of the units of Fording Trust in consideration of the shares of Teck Cominco and a cash payment in a transaction on capital account. In that regard, the appellant states the following in his objection to the assessment:
+[Translation]
+In effect, the taxpayer originally acquired shares of Canadian Pacific with the intention of receiving income in the form of dividends and capital gains. The Fording securities were received during another reorganization. Fording may wish to present the transaction in a manner likely to ensure a certain interpretation of the Income Tax Act, but that does not in any way change the true nature of the transaction for the taxpayer, namely a disposition. It is important, beyond the technical details associated with Fording’s activities, to refer to the scheme of the Act and the intention of Parliament and codifiers, with respect to taxpayers.
+Accordingly, the purpose of this appeal is to invite Revenue Canada to assess the impact of the decisions and interpretations of Fording on taxpayers involved in good faith in the purchase and sale of long-term securities and to authorize a different tax treatment for the amount of $8,616.29 included in the taxpayer’s income for the 2008 taxation year.
+[13] The appellant submits that the true nature of the transaction is a disposition of Fording Trust’s securities. He adds that, for that reason, the various steps taken by Teck Cominco and Fording Trust are mere details which the Court need not take into account in the characterization of the $8,616.29 the appellant received. However, the approach advocated by the appellant is not consistent with the case law. In tax matters, it is important to take into account the legal form of a transaction.[1] In this case, by ensuring that the transaction follow a specific order, Teck Cominco and Fording Trust primarily sought to obtain a specific tax result. In other words, the tax consequences vary depending on the form of a transaction. That is why the case law has established that where a transaction is neither a sham nor contrary to a statutory provision, its legal realities as well as the legal relationships and the legal effects it creates shall be respected.[2] In this case, the transaction is not a sham and does not contravene any statutory provision. Accordingly, it is not for the Court to recharacterize it. The Court must rather respect and give effect to the transaction as it is.
+[14] The evidence that the appellant submitted indicates that the agreement that was approved by the parties to the transaction occurred in the order and manner described in paragraph 3 herein. I also note that the information circular stated that the tax treatment would not be very favourable for taxable unitholders:
+[Translation]
+. . . the entire, or almost the entire, amount paid to the unitholder under the agreement, including the last buyback payment, will constitute ordinary income for the unitholder. . . . The unitholder residing in Canada who realizes a capital loss on cancellation of units under the agreement will not be able to deduct the loss from his ordinary income, including ordinary income paid or to be paid to the unitholder under the agreement.
+[15] Fording Trust also stated that it would be more beneficial for taxable unitholders to dispose of their units before the date on which the transaction was completed so as to ensure a more favourable treatment of the taxable capital gain.
+[16] The appellant did not take that information into account and decided to acquire new shares of Teck Cominco on a fully taxable distribution by Fording Trust.
+[17] For all these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 16th day of January 2012.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 29th day of February 2012.
+Daniela Possamai, Translator
+CITATION: 2012 TCC 14
+COURT FILE NO.: 2010-3866(IT)I
+STYLE OF CAUSE: GÉRARD E. A. GROS v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: November 15, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: January 16, 2012
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Ilinca Ghibu
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Friedberg [1993] 4 S.C.R. 285.
+[2] Tsiaprailis v. Canada, [2005] 1 S.C.R. 113 and Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622.

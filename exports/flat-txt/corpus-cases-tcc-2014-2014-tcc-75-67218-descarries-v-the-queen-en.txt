@@ -1,0 +1,679 @@
+Title: Descarries v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/67218/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-75-67218-descarries-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-03-07
+
+# Descarries v. The Queen
+
+- Citation: 2014 TCC 75
+- Decision date: 2014-03-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5309, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Descarries v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-03-07
+Neutral citation
+2014 TCC 75
+File numbers
+2013-12(IT)I, 2013-13(IT)I, 2013 16(IT)I, 2013-18(IT)I, 2013-20(IT)I, 2013 21(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-12(IT)I
+BETWEEN:
+LUCIE DESCARRIES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of René Leroux (2013-13(IT)I), Suzanne Gauthier (2013-16(IT)I), Nicole Beauregard (2013-18(IT)I), Jean Leroux (2013-20(IT)I) and Denise L. Bissonnette (2013-21(IT)I), on December 4 and 5, 2013, at Montréal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Marie-Josée Michaud
+Counsel for the respondent:
+Natalie Goulard
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2005 and 2008 taxation years is allowed in part, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of March 2014.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 10th day of June 2014
+Margarita Gorbounova, Translator
+Docket: 2013-13(IT)I
+BETWEEN:
+RENÉ LEROUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Lucie Descarries (2013‑12(IT)I), Suzanne Gauthier (2013-16(IT)I), Nicole Beauregard (2013-18(IT)I), Jean Leroux (2013-20(IT)I) and Denise L. Bissonnette (2013-21(IT)I), on December 4 and 5, 2013, at Montréal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Marie-Josée Michaud
+Counsel for the respondent:
+Natalie Goulard
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2005 and 2008 taxation years is allowed in part, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, on this 7th day of March 2014.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 10th day of June 2014
+Margarita Gorbounova, Translator
+Docket: 2013-16(IT)I
+BETWEEN:
+SUZANNE GAUTHIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Lucie Descarries (2013-12(IT)I), René Leroux (2013-13(IT)I), Nicole Beauregard (2013‑18(IT)I), Jean Leroux (2013-20(IT)I) and Denise L. Bissonnette (2013-21(IT)I), on December 4 and 5, 2013, at Montréal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Marie-Josée Michaud
+Counsel for the respondent:
+Natalie Goulard
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2005 and 2008 taxation years is allowed in part, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, on this 7th day of March 2014.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 10th day of June 2014
+Margarita Gorbounova, Translator
+Docket: 2013-18(IT)I
+BETWEEN:
+NICOLE BEAUREGARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Lucie Descarries (2013-12(IT)I), René Leroux (2013-13(IT)I), Suzanne Gauthier (2013‑16(IT)I), Jean Leroux (2013-20(IT)I) and Denise L. Bissonnette (2013-21(IT)I), on December 4 and 5, 2013, at Montréal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Marie-Josée Michaud
+Counsel for the respondent:
+Natalie Goulard
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2005 and 2008 taxation years is allowed in part, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, on this 7th day of March 2014.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 10th day of June 2014
+Margarita Gorbounova, Translator
+Docket: 2013-20(IT)I
+BETWEEN:
+JEAN LEROUX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Lucie Descarries (2013-12(IT)I), René Leroux (2013-13(IT)I), Suzanne Gauthier (2013‑16(IT)I), Nicole Beauregard (2013-18(IT)I) and Denise L. Bissonnette (2013-21(IT)I), on December 4 and 5, 2013, at Montréal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Marie-Josée Michaud
+Counsel for the respondent:
+Natalie Goulard
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2005 and 2008 taxation years is allowed in part, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, on this 7th day of March 2014.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 10th day of June 2014
+Margarita Gorbounova, Translator
+Docket: 2013-21(IT)I
+BETWEEN:
+DENISE L. BISSONNETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeals of Lucie Descarries (2013-12(IT)I), René Leroux (2013-13(IT)I), Suzanne Gauthier (2013‑16(IT)I), Nicole Beauregard (2013-18(IT)I) and Jean Leroux (2013‑20(IT)I), on December 4 and 5, 2013, at Montréal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Marie-Josée Michaud
+Counsel for the respondent:
+Natalie Goulard
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2005 and 2008 taxation years is allowed in part, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, on this 7th day of March 2014.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 10th day of June 2014
+Margarita Gorbounova, Translator
+Citation: 2014 TCC 75
+Date: 20140307
+Dockets: 2013-12(IT)I
+2013-13(IT)I
+2013-16(IT)I
+2013-18(IT)I
+2013-20(IT)I
+2013-21(IT)I
+BETWEEN:
+LUCIE DESCARRIES,
+RENÉ LEROUX,
+SUZANNE GAUTHIER,
+NICOLE BEAUREGARD,
+JEAN LEROUX,
+DENISE L. BISSONNETTE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction
+[1] Between 2004 and 2008, the appellants performed a series of transactions described at paragraph 6 below relying on the advice of their tax specialist. The transactions at issue included the redemption by 9149-7321 Québec inc. (9149) of shares held by the appellants. The redemption was financed by Oka inc. (Oka), which was a wholly owned subsidiary of 9149 at the time of the redemption. At first, Oka was held directly by the appellants.
+[2] When the appellants’ tax specialist presented his tax plan to them, he compared the tax consequences for the appellants of the redemption of their shares in Oka with the tax result of performing the transactions he proposed. If Oka redeemed the shares held by the appellants, all of the appellants together would receive a taxable dividend of $592,362. The transactions at issue generated an increase in the paid-up capital of 9149 shares issued to the appellants in exchange for their Oka shares. Consequently, according to the tax specialist, the redemption of 9149 shares would result in lower taxable dividends.
+[3] The respondent invites me to consider all of the transactions described below in order to determine the tax consequences of the redemption of the 9149 shares. According to the respondent, in this context, the redemption of the 9149 shares may be described as a distribution or appropriation of Oka's funds or property for the benefit of the appellants on the winding-up, discontinuance or reorganization of Oka's business. This triggers the application of subsection 84(2) of the Income Tax Act (the Act). Under that subsection, all of the appellants together are liable to pay tax in respect of a deemed dividend of $592,366 rather than of $265,505.
+[4] In making the assessments in respect of the appellants, the Minister of National Revenue (the Minister) also relied on the general anti-avoidance rule (the GAAR) contained in section 245 of the Act.
+[5] The appeals were heard on common evidence.
+II. Factual background
+[6] The parties filed a partial agreement on the facts, which reads as follows:
+[Translation]
+1. The company L’immobilière d’Oka Inc. (Oka) was incorporated under Part I of the Quebec Companies Act by letters patent issued on July 31, 1946, and continued to exist under Part IA of said Act on December 8, 2004.
+2. Oka was a corporation resident in Canada for the purposes of the Income Tax Act.
+3. At December 31, 1971, Lionel Leroux held 3,178 common shares in Oka.
+4. Upon Lionel Leroux's death in 1982, his children (René Leroux, Jean Leroux, Suzanne Gauthier, Denise Bissonnette and Lucie Descarries) as well as his step-daughter, Nicole Beauregard (the appellants) became equal owners of the 3,178 common shares of Oka.
+5. The appellants also acquired 820 common shares of Oka from a third party for $25,000 and subscribed to two common treasury shares for $100.
+6. In December 2004, the appellants held all of the 4,000 common shares of Oka in circulation. The fair market value of the 4,000 shares was at that time $617,466; the adjusted cost base was $361,658, and the paid-up capital was $25,100.
+7. Oka owned land for the purpose of selling it.
+9149-7321 Québec Inc. is incorporated
+8. On December 1, 2004, 9149-7321 Québec Inc. was incorporated under Part IA of the Quebec Companies Act. Its authorized capital stock included Class A voting and participating shares and Class B non-voting and non-participating shares that were redeemable at the option of the holder for an amount equivalent to that received when they were issued.
+9. Oka loaned $544,354 to 9149-7321 Québec Inc.
+Oka's common shares are converted into Class A shares
+10. On December 8, 2004, Oka modified its capital stock in order to authorize an unlimited number of common Class A voting and participating shares and an unlimited number of preferred Class B, C and D non-voting shares redeemable at the option of the holder or of Oka.
+11. On the same day, Oka converted its 4,000 common shares into Class A shares. For each common share converted, the appellants received a Class A share.
+The appellants exchange their Class A shares for preferred Class B and C shares of Oka.
+12. On March 1, 2005, the appellants exchanged, through a roll-over under subsection 85(1) of the Income Tax Act, their 4,000 Class A shares in consideration for 269,618 preferred Class B shares and 347,848 preferred Class C shares.
+13. The amount agreed on for the purposes of the rollover was the fair market value of 4,000 Class A shares, namely, $617,466. A capital gain equal to the difference between the ACB of the shares ($361,658) and the agreed-on amount ($617,466) was realized. Each appellant reported a capital gain of $42,635 when filing his or her tax return for the 2005 taxation year. No capital gain deduction was claimed.
+14. Applying the provisions in section 85 of the Act resulted in Class B shares having an ACB of $269,618 and a paid-up capital of $10,960, and the Class C shares having an ACB of $347,848 and a paid-up capital of $14,140.
+The appellant dispose of their Oka shares in favour of 9149-7321 Québec Inc.
+15. On March 15, 2005, the appellants disposed of all of their shares in Oka in favour of 9149‑7321 Québec Inc., in consideration for 347,848 Class A shares and 269,618 Class B shares:
+Disposition
+Consideration received
+269,618 Class B shares of Oka
+151,889 Class A shares of 9149-7321 Québec Inc.
+117,729 Class B shares of 9149-7321 Québec Inc.
+347,848 Class C shares of Oka
+Class A shares of 9149-7321 Québec Inc.
+151,889 Class B shares of 9149-7321 Québec Inc.
+16. Section 84.1 of the Act applied to that transaction to limit the paid-up capital of the new shares issued. Normally, under this section, the paid-up capital of the shares received by the appellants at the time of the transfer would be equal to the greater of the paid-up capital of the exchanged shares or their adjusted cost base. However, some adjustments had to be made to the adjusted cost base of the shares under paragraph 84.1(2)(a.1) in order, among other things, to account for the added value accumulated before 1971. The 347,848 Class A shares of 9149-7321 Québec Inc. therefore had a paid-up capital and an ACB of $347,848, and the 269,618 Class B shares had an ACB of $269,618 and a paid-up capital of $0.
+9149-7321 Québec Inc. redeems its common Class A shares and part of its preferred Class B shares.
+17. On March 29, 2005, 9149-7321 Québec Inc. redeemed all of its Class A shares, namely, 347,848 shares, for $347,848. The redemption had no tax consequences:
+Proceeds of disposition
+$347,848
+Paid-up capital
+- $347,848
+84(3) dividend
+$0
+Proceeds of disposition
+$347,848
+Adjusted cost base
+- $347,848
+Capital gain
+$0
+18. On March 29, 2005, 9149-7321 Québec Inc. also redeemed 196,506 Class B shares for the amount of $196,506, which resulted in a deemed dividend in the amount of $196,506 under subsection 84(3) of the Act and in a capital loss of $196,506.
+Proceeds of disposition
+$196,506
+Paid-up capital
+- $0
+84(3) dividend
+$196,506
+Proceeds of disposition
+$196,506
+84(3) dividend
+- $196,506
+Adjusted cost base
+- $196,506
+Capital gain (loss)
+- $196,506
+19. Each appellant reported a deemed dividend (before gross-up) of $32,751 ($196,506 / 6) and a capital loss of $32,751 ($196,506 / 6) in filing his or her income tax return for the 2005 taxation year.
+20. The capital loss of $32,751 reduced the capital gain of $42,635 described at paragraph 13 of this agreement.
+Oka Inc. is wound up
+21. On December 15, 2006, the directors of Oka and of its sole shareholder, 9149‑7321 Québec Inc., passed resolutions to wind up and dissolve Oka.
+22. In the context of Oka's winding-up, the obligation to pay the amount of $544,354 was extinguished by merger given the union of the qualities of creditor and debtor.
+9149-7321 Québec Inc. redeems the other preferred Class B shares
+23. At the end of 2008, 9149-7321 Québec Inc. redeemed the balance of the Class B shares held by the appellants, that is 73,112 shares for $69,000, which resulted in a deemed dividend in the amount of $69,000 under subsection 84(3) of the Act and in a capital loss of $73,112.
+Proceeds of disposition
+$69,000
+Paid-up capital
+- $0
+84(3) dividend
+$69,000
+Proceeds of disposition
+$69,000
+84(3) dividend
+- $69,000
+Adjusted cost base
+- $73,112
+Capital gain (loss)
+- $73,112
+24. Each appellant reported a deemed dividend (before gross-up) of $11,500 ($69,000 / 6) and a capital loss of $12,185 ($73,112 / 6) in filing his or her income tax return for the 2008 taxation year.
+Dissolving the companies
+25. Oka was dissolved on September 10, 2008.
+26. 9149-7321 Québec Inc. was dissolved on February 24, 2009.
+[7] The tax consequences of the transactions at issue are summarized in Appendix A attached hereto.
+[8] In addition to the facts described in the partial agreement on the facts filed by the parties, the testimony at the hearing revealed the following.
+[9] Oka's business consisted in selling land located in the Oka area.
+[10] At the time of the first redemption of shares by 9149, namely, in March 2005, Oka still had four lots in stock. On December 22, 2005, the lots were sold to Armand Dagenais et Fils inc. and to Denis Dagenais.
+[11] The sale of the lots required, among other things, an agreement to be negotiated with Maurice Vaillancourt, who was using a garage located on one of the lots sold to Armand Dagenais et Fils inc. In addition, Oka had to institute legal proceedings before the Superior Court in order to legalize certain title deeds. The judgment was not rendered until December 12, 2006.
+III. Analysis
+A. Subsection 84(2) of the Act
+(i) Requirements for the application of subsection 84(2) of the Act
+[12] Subsection 84(2) of the Act, which is at the heart of the analysis, reads as follows:
+84(2) Distribution on winding-up, etc. Where funds or property of a corporation resident in Canada have at any time after March 31, 1977 been distributed or otherwise appropriated in any manner whatever to or for the benefit of the shareholders of any class of shares in its capital stock, on the winding-up, discontinuance or reorganization of its business, the corporation shall be deemed to have paid at that time a dividend on the shares of that class equal to the amount, if any, by which
+(a) the amount or value of the funds or property distributed or appropriated, as the case may be,
+exceeds
+(b) the amount, if any, by which the paid-up capital in respect of the shares of that class is reduced on the distribution or appropriation, as the case may be,
+and a dividend shall be deemed to have been received at that time by each person who held any of the issued shares at that time equal to that proportion of the amount of the excess that the number of the shares of that class held by the person immediately before that time is of the number of the issued shares of that class outstanding immediately before that time.
+[13] This subsection therefore requires a number of elements to be present in order for it to apply to a given situation. As explained by the Federal Court of Appeal in Canada v. MacDonald,[1] the conditions for its application may be summarized as follows:
+17 A plain reading of the text reveals several elements that are necessary for its application: (1) a Canadian resident corporation that is (2) winding-up, discontinuing or reorganizing; (3) a distribution or appropriation of the corporation’s funds or property in any manner whatever; (4) to or for the benefit of its shareholders.
+[14] Having explained the difference between the position of the Tax Court of Canada and that of the Crown concerning the element to which a particular importance should be attributed, the Federal Court of Appeal added the following:[2]
+21 In my view, a textual, contextual and purposive analysis of subsection 84(2) leads the Court to look to: (i) who initiated the winding-up, discontinuance or reorganization of the business; (ii) who received the funds or property of the corporation at the end of that winding-up, discontinuance or reorganization; and (iii) the circumstances in which the purported distributions took place. This approach is consistent with the jurisprudence interpreting this provision and provides the consistency of approach with respect to subsection 84(2) spoken to by both parties to this appeal.
+(ii) Existence of a distribution
+[15] The Act does not define distribution; therefore, we must turn to case law. First, let us consider Minister of National Revenue v. Merritt,[3] the facts of which were summarized as follows by the trial court:[4]
+4 The issue here had its origin in a Provisional Agreement entered into, in March, 1937, between the Directors of the Security Loan and Trust Company (hereafter called "the Security Company"), a Loan Company incorporated under the laws of the Province of Ontario, and the Directors of the Premier Trust Company (hereafter called "the Premier Company"), a Trust Company incorporated by an Act of the Parliament of Canada, and the principal terms of the Agreement were the following. The Security Company agreed to sell and transfer to the Premier Company, and the Premier Company agreed to purchase from the Security Company, the whole of the assets and undertaking of the Security Company as a going concern, including the goodwill of its business, and the same was so described in the Agreement as to include any reserves or undistributed profits to which the Security Company was entitled in connection with its business. . . . The consideration for the assets and property so agreed to be sold was that the Premier Company should allot and issue to each shareholder of the Security Company one and one-half fully paid shares (of the par value of $100 each) of its capital stock for each fully paid share held by such shareholder, or, at the option of such shareholder, to pay $102 in cash and to allot and issue one-half share of its capital stock, for each fully paid share held by such shareholder; and provision was made for the adjustment of fractions of shares of the Premier Company by payment in cash, and the shareholders of the Security Company were also to be paid a sum in cash equivalent to accrued dividend, at the rate of five per cent per annum, on each fully paid share held by them, for the period from December 31, 1936, to the date of the issuance of the shares of the Premier Company to which they would be entitled under the terms of the Agreement.
+5 In due course the appellant, by her Trustees, exercised the option of accepting as the consideration for her shares $102 in cash and one-half share of the Premier Company for each fully paid share held by her in the capital stock of the Security Company. On October 5, 1937, the Premier Company remitted to the Trustees, on behalf of the appellant, a cheque for $26,690.75, being, it was so stated in a covering letter, the cash consideration for the appellant's 259 shares in the capital stock of the Security Company, at $102 per share, and an amount for an accrued dividend as provided for by the Agreement, less a deduction resulting from the cash adjustment of a fraction of one fully paid share receivable by the appellant, under the terms of the option exercised. Concurrently the Trustees received a certificate for 130 fully paid shares of the Premier Company registered in the name of the Trustees for the appellant.
+6 As already stated, in May, 1939, the appellant was assessed for additional income in the period in question, in the sum of $10,192.60, and that additional income is claimed to have been the appellant's proportion of the undistributed income which the Security Company had on hand, when its property was distributed on the discontinuance of its business.
+[16] Regarding the distribution, the President came to the following conclusion:[5]
+7 . . . Neither do I entertain any doubt that there was a distribution of the property of the Security Company among its shareholders, in the sense contemplated by s. 19 (1) of the Act, under the terms of the Agreement after its ratification by the shareholders of the Security Company. It is immaterial, in my opinion, that the consideration received by the appellant for her shares happened to reach her directly from the Premier Company and not through the medium of the Security Company.
+[17] That finding was confirmed by the Supreme Court of Canada in Merritt at page 274.
+[18] In Merritt, instead of the normal process to wind up the corporation, that is, naming a liquidator who would distribute the corporation's revenue among shareholders, a process was used whereby the shareholders received their share of the funds through a third-party purchaser. In the end, the corporation was stripped of its assets, which were from then on held by the purchaser, and the shareholders each received a part of them.
+[19] In the case at bar, according to the respondent, the distribution happened when 9149 redeemed shares because it was at that time that the shareholders received their share of the funds. However, Oka had not been stripped of its assets at that time.
+[20] In fact, at the time of the redemption, Oka was 9149's creditor because of the loan that it had given to it.[6] Because of that amount receivable, Oka still held assets.
+[21] The definition of "distribution", which requires both a gain for the shareholders and a loss for the company is based solely on Merritt. Several decisions that found that subsection 84(2) of the Act or one of its earlier versions applied indeed referred to similar factual situations.
+[22] In the Tax Court of Canada decision MacDonald v. The Queen,[7] a shareholder had appropriated a company's funds, and the company's assets were reduced by the same amount. Indeed, Dr. MacDonald thus received close to $525,000 from the company, which was not compensated in any way.
+[23] In McNichol v. Canada,[8] subsection 84(2) was found not to apply to the facts at issue. To summarize, the shareholders of the company Bec wanted to sell their shares to the company Beformac. That company did not have the funds to purchase the Bec shares; therefore, it had to take out a loan from a bank. The shareholders were then paid for the shares with the money from the loan. The two companies amalgamated some time after the sale of the shares. Bec's funds remained in that company until several days after the amalgamation when they were used to repay Beformac's loan.
+[24] Judge Bonner found as follows regarding the distribution in McNichol:[9]
+11 . . . It is impossible to conclude that the money which found its way into the pockets of the appellants was Bec's money in the face of evidence which demonstrates clearly that
+(a) Beformac used money borrowed from CIBC to fund the payment of the sale price to the appellants and
+(b) Bec's money remained in its bank account until the amalgamation of Bec and Beformac on April 5, 1989 and continued to sit in that same bank account as an asset of the amalgamated company until April 21, 1989 when a portion of the money was used to retire the $300,000 debt to CIBC which had been incurred by Beformac.
+. . .
+[25] Subsection 84(2) therefore did not apply because it was money from the bank loan rather than the company's money that was given to the shareholders in payment for their shares. The company's assets therefore remained unchanged at the time of the alleged distribution.
+[26] The Federal Court of Appeal distinguished the facts of McNichol in MacDonald. The Court of Appeal stated the following in this regard:[10]
+25 Contrary to the judge's assertions, McNichol is readily distinguishable from the case at hand. In McNichol, the shareholders of Bec sold their shares to Beformac, a holding company, for less than their book value. To fund the purchase, Beformac obtained a loan from a bank, secured against the amount of money Bec held in its account (which was, incidentally, its only asset). Bec and Beformac amalgamated five days after the share sale, and the loan from the bank was repaid two weeks later. The Tax Court held that subsection 84(2) of the Income Tax Act did not apply because it could not be said that any of Bec's funds found their way into the shareholder's hands. Specifically, the financing of the share purchase came from the bank, and Bec's assets remained deposited in its bank account for some time after the amalgamation. It is clear that the same cannot be said of Dr. MacDonald's case. Indeed, PC's property ended up in his hands and the entire series of events was designed and executed to achieve this result.
+[27] In the appeals at bar, Oka's funds were loaned to 9149 in 2004.[11] The cash was therefore replaced by an amount receivable, although the overall assets remained unchanged. The same happened at the time of the redemption, which was also the time of the alleged distribution. This situation is therefore more similar to that in McNichol.
+[28] Oka's assets were reduced only after 9149's debt was extinguished through a merge on December 15, 2006. Therefore, it cannot be said that there was stripping in March 2005 at the time of the distribution. In addition, when the shares were redeemed in March 2005, Oka still owned four lots, which were not distributed to the appellants.
+(iii) Concurrency with winding-up
+[29] There must not only be a distribution of funds of the company, but that distribution must also coincide with a winding-up, discontinuance or reorganization, as indicated by the wording of subsection 84(2) of the Act.
+Where funds or property of a corporation resident in Canada have . . . been distributed or otherwise appropriated in any manner whatever to or for the benefit of the shareholders of any class of shares in its capital stock, on the winding-up, discontinuance or reorganization of its business . . .
+[Emphasis added.]
+[30] Since one of the alleged distributions took place in March 2005, it must be determined whether the winding-up, discontinuance or reorganization also took place at that time.
+[31] In Kennedy v. M.N.R.[12] subsection 81(1), the predecessor of subsection 84(2), was discussed. The meaning of the wording at issue was explained as follows:[13]
+In section 81(1) the word “reorganization” is used in association with the words “winding-up” and “discontinuance”. Both of those words contain an element of finality. The company is ended, It is therefore logical to assume that the word “reorganization” presupposes the conclusion of the conduct of the business in one form and its continuance in a different form.
+In the Shorter Oxford Dictionary, 3rd ed. at page 1704, the word “reorganization” is defined as “a fresh organization” and the verb “reorganize” is defined as “to organize anew”.
+In the circumstances of the present case there has been no “fresh” organization. The same company continued the same business in the same manner and in the same form. The only difference was that by reason of the sale of its premises the Company operated the same business from the same premises which were rented by it rather than being owned by it.
+[32] In MacDonald and Merritt, the concurrence of the winding-up, discontinuance or reorganization with the distribution was not in doubt. In MacDonald, the first distributions took place on June 25, 2002. The company had already discontinued its business, since Dr. MacDonald had, among other things, let his medical licence expire. This was made official on June 26, 2002, by changing the company's name. In Merritt, the winding-up and the distribution happened at the same time because it was the sale of assets that made it impossible to continue the company's activities.
+[33] On March 29, 2005, when 9149 first redeemed the shares, Oka still had four lots. The sale to Armand Dagenais et Fils inc. and to Denis Dagenais took place only in December 2005, and Oka was involved in the acquisitive prescription proceedings until December 2006. Thus, Oka continued to operate its business until December 2006.
+[34] To summarize, in the case of Oka, the business continued to operate after the alleged distribution. No persuasive factual evidence to the contrary has been filed. The activities continued as usual, and the format of the business remained the same until 2005. Oka's business ceased to operate only in December 2006.
+(iv) Conflict with subsection 84(3) of the Act
+[35] As mentioned earlier, the respondent claims that there was a distribution or an appropriation of Oka's property when 9149 redeemed shares from its capital stock in 2005 and 2008. However, in my view, there is no impediment to the application of subsection 84(3) of the Act, which reads as follows:
+84(3) Where at any time after December 31, 1977 a corporation resident in Canada has redeemed, acquired or cancelled in any manner whatever (otherwise than by way of a transaction described in subsection 84(2)) any of the shares of any class of its capital stock,
+(a) the corporation shall be deemed to have paid at that time a dividend on a separate class of shares comprising the shares so redeemed, acquired or cancelled equal to the amount, if any, by which the amount paid by the corporation on the redemption, acquisition or cancellation, as the case may be, of those shares exceeds the paid-up capital in respect of those shares immediately before that time; and
+(b) a dividend shall be deemed to have been received at that time by each person who held any of the shares of that separate class at that time equal to that portion of the amount of the excess determined under paragraph 84(3)(a) that the number of those shares held by the person immediately before that time is of the total number of shares of that separate class that the corporation has redeemed, acquired or cancelled, at that time.
+[36] The respondent did not offer any explanation to resolve the obvious conflict between the application of subsection 84(2) and that of subsection 84(3) of the Act to the redemption of the shares by 9149. I note that the precedence rule in subsection 84(3), which promotes the application of subsection 84(2), does not apply to the transactions at issue. For the precedence rule to apply, there must be only one complete transaction performed by one taxpayer. In this case, the redemption of shares and the distribution of assets took place in respect of different companies. The winding-up to which the Minister is referring is that of Oka, while the shares were redeemed by 9149. Accepting the respondent's point of view that subsection 84(2) of the Act is applicable would mean that the appellants received two deemed dividends, namely, one under subsection 84(2) of the Act regarding the appropriation or the distribution of Oka's property, and the other under subsection 84(3) of the Act regarding the redemption of the 9149 shares. Nonetheless, the fact remains that the appellants received only one distribution.
+[37] I do not think that subsections 84(2) and 84(3) of the Act may be applied at the same time to the same distributions. Only applying the GAAR can change the tax consequences of the series of transactions that the redemption of the 9149 shares fits into.
+B. The general anti-avoidance rule
+[38] The respondent relies on the GAAR on an auxiliary basis in defence of the assessments at issue.
+[39] The appellants concede the existence of an avoidance transaction. The resolution of the appeals thus depends on the third condition established in Canada Trustco Mortgage Co. v. Canada,[14] namely, that the avoidance transaction giving rise to a tax benefit must be abusive under subsection 245(4).[15] Based on the process outlined by the Supreme Court of Canada, the abuse inquiry involves, first, interpreting the relevant provisions of the Act to determine their object, spirit or purpose and, second, determining whether the impugned transactions fall within, or frustrate the purpose of those provisions.[16] Copthorne Holdings Ltd. v. Canada describes this as follows:[17]
+69 In order to determine whether a transaction is an abuse or misuse of the Act, a court must first determine the “object, spirit or purpose of the provisions . . . that are relied on for the tax benefit, having regard to the scheme of the Act, the relevant provisions and permissible extrinsic aids” (Trustco, at para. 55). The object, spirit or purpose of the provisions has been referred to as the “legislative rationale that underlies specific or interrelated provisions of the Act” (V. Krishna, The Fundamentals of Income Tax Law (2009), at p. 818).
+70 The object, spirit or purpose can be identified by applying the same interpretive approach employed by this Court in all questions of statutory interpretation — a “unified textual, contextual and purposive approach” (Trustco, at para. 47; Lipson v. Canada, 2009 SCC 1, [2009] 1 S.C.R. 3, at para. 26). While the approach is the same as in all statutory interpretation, the analysis seeks to determine a different aspect of the statute than in other cases. In a traditional statutory interpretation approach the court applies the textual, contextual and purposive analysis to determine what the words of the statute mean. In a GAAR analysis the textual, contextual and purposive analysis is employed to determine the object, spirit or purpose of a provision. Here the meaning of the words of the statute may be clear enough. The search is for the rationale that underlies the words that may not be captured by the bare meaning of the words themselves. However, determining the rationale of the relevant provisions of the Act should not be conflated with a value judgment of what is right or wrong nor with theories about what tax law ought to be or ought to do.
+[40] The existence of abusive tax avoidance must be clear. If it is not, the benefit of the doubt must be given to the taxpayer.[18]
+[41] The respondent claims that the transactions at issue frustrate the object, spirit or purpose of subsection 84(2) of the Act. She essentially reiterates the arguments put forward by the respondent in MacDonald.[19] My colleague, Justice Hershfield, ruled as follows regarding these arguments:
+63 That takes me to what I see as the Respondent's third argument. Inherently, by pleading for a purposive rather than literal construction of subsection 84(2), the Respondent asserts an abuse of the Act in this case broader than one that relates to the interaction of capital gains and capital losses in the calculation of income and taxable income. As stated earlier in these Reasons, referring to paragraph 18 of the Reply, the broader concern is the avoidance of the ordinary consequences of distributions of corporate assets, as dividends, that are meant to arise on a wind-up or discontinuance of business. More specifically it is a concern, not so much as to a particular tax benefit that might arise from the tax difference between shareholders accessing retained earnings as a dividend versus receiving capital gains treatment, it is a concern stemming from a view that the purpose of subsection 84(2), as it was brought in by legislation affecting post-1971 dispositions of capital property, was to prevent capital gains treatment. The suggestion is that it was, and remains, an anti-avoidance provision the language of which must be construed more broadly to ensure dividend treatment when a taxpayer indirectly receives the retained earnings of a company that he was entitled to receive as a shareholder.
+64 In my view, that suggestion is tenuous. It is even more of a leap to suggest that the post-1971 provision, following the former model, was intended to ensure the post-1971 restrictions on the use of capital losses when neither such losses nor such restrictions existed in the pre-1972 Act. In fact, the historical references relied on by the Respondent underline that this third argument is all about an attack on surplus stripping transactions per se.
+65 This strikes me as a GAAR issue, however before taking the analysis there, the Respondent's suggestion that this rationale to 84(2) dictates against a literal construction of that provision, requires more to be said about surplus stripping in the context of that provision.
+66 In my view, there is nothing in the language of subsection 84(2) that warrants a finding of a rationale other than liquidating distributions out of a corporation's earnings to its shareholders - holding a particular class of shares - are to be treated as dividends to the extent the distribution exceeds the paid-up capital of the particular class of shares held by persons receiving the distribution. That rationale formulation is set out in paragraphs 84(2)(a) and (b). More generally, that rationale is part of a consistent theme that retained earning of a corporation are a source of dividends and their use or withdrawal for the benefit of shareholders should not be subject to different tax treatment than applicable to dividends.
+67 That said, it is dubious whether subsection 84(2) was ever an anti-avoidance provision in the sense of ensuring this result in the case of a so-called surplus strip which is what the Appellant's tax plan accomplished. The surplus strip here was having the Appellant's shares acquired with corporate funds funnelled through a related corporation as a tax-free dividend. This classic strip in the old system was subject to a specific anti-avoidance provision; namely section 138A of the old, pre-1972 Act. That provision was replaced in 1972 with section 247 which was repealed in 1988. The section that survived is, of course, section 245. That is the provision to look at in these circumstances. Essentially that is what Justice Bonner concluded in McNichol and I agree.
+68 In coming to this conclusion, I cannot ignore the Supreme Court of Canada decision in Smythe et al. v. Minister of National Revenue even though the parties made no direct reference to it. In that case, the Crown was successful in applying the subsection 81(1) of the pre-1972 Act (the predecessor to subsection 84(2)) to a dividend strip. While the Supreme Court of Canada found it unnecessary to express any opinion on the scope of subsection 137(2) of the pre-1972 Act as a condition of applying the former section 81(1), it is interesting to note that the Exchequer Court did rely on that former provision as an anti-dividend stripping provision. Subsection 137(2) was an artificial transactions provision. If a transaction artificially conferred a benefit, the benefit was deemed to have been conferred "notwithstanding the form or legal effect of the transactions". The Supreme Court of Canada just relied on the artificiality of the transaction that gave rise to the dividend strip without reliance on the former subsection 137(2). In the case at bar, no assertion was made that the subject transactions were artificial. Furthermore, and importantly, as noted earlier in these Reasons, former subsection 137(2) was replaced in the post-1971 Act by the former section 247 which became the current section 245 in 1988.31 All this is to say that the appropriate provision to apply in the case at bar given the withdrawal of the sham basis for the subject assessment, in my view, is section 245 of the Act.
+69 Accordingly, I see no basis to find that a purposive contextual analysis of subsection 84(2) would invite a less literal interpretation of its language than that I have found must govern, although there remains one last aspect of this argument that needs to be addressed.
+. . .
+128 Insisting that the maintenance of a dividend regime per se is required to maintain the integrity of the scheme of the Act in the context of the distribution of retained earnings on a winding up or discontinuance of a business, requires that subsection 84(2) be found to operate beyond its express language. I have found to the contrary. That sits well, in my view. A proper reading of the subject provisions dictates only one approach: find the abusive benefit and look to GAAR to maintain the integrity of the scheme of the Act in the context of the distribution of retained earnings on a winding up or discontinuance of a business.
+[42] I agree with Justice Hershfield's findings.
+[43] As stated by the appellants in their written submissions, I noted in Gwartz v. The Queen[20] that the Act does not contain any general prohibition stating that any distribution by a company must be done in the form of a dividend. However, I also specified in that case that, although the taxpayers may arrange to distribute surpluses in the form of dividends or of capital gains, that option is not limitless. Any tax planning done for that purpose must comply with the specific anti-avoidance provisions found in sections 84.1 and 212.1 of the Act.[21]
+[44] In the GAAR context, the transactions at issue must also fall within the object, spirit or purpose of those provisions. In this case, section 212.1 of the Act is irrelevant because it applies to non-residents. However, section 84.1 of the Act is relevant because, among other things, it prevents individuals from stripping a company of its surpluses including through the use of a tax-exempt margin.
+[45] For these reasons, after receiving their written submission, I contacted the parties' counsel to inform them that I was going to consider whether the transactions at issue frustrated, in an abusive fashion, the specific anti-avoidance rule established in section 84.1 of the Act. Although the respondent did not refer to this provision at the trial in order to defend the assessments relying on the GAAR, I do not believe that I am bound when deciding on a question of law to agree to an interpretation on which the parties agree.[22] Therefore, I invited the parties' counsel to file additional written submissions on section 84.1 of the Act and on the issue of the potential abuse, which I was going to consider.
+[46] The appellants argue that I must allow their appeals even if I find that there was abusive avoidance under section 84.1 of the Act. According to the appellants, the respondent did not discharge her burden of proof regarding the issue of abuse. I believe that it is a burden of persuasion, rather than a burden of proof, that must be discussed. This term relates to a question of fact. I agree that when the respondent attempts to rely on the GAAR, she would do well to describe the object, spirit and purpose of the provisions of the Act, which she believes were frustrated by the transactions at issue. Clearly, if the Court is not satisfied that there has been abuse, the appeals will be allowed because the taxpayers have the benefit of the doubt with respect to this issue.
+[47] I believe that the appellants were not prejudiced by the fact that the respondent did not take into account the GAAR in the context of section 84.1 of the Act. The appellants had the chance to provide additional submissions on the issue. In addition, I note that the appellants dealt with section 84.1 of the Act in their initial written submissions regarding the GAAR in the context of subsection 84(2) of the Act.
+[48] I also note that the appellants' tax specialist acknowledged that section 84.1 of the Act should be taken into account in analyzing the issue of abuse for the purposes of subsection 245(4) of the Act. In a memorandum (Exhibit I-1), he deals with the GAAR issue as follows:
+[Translation]
+Application of the general anti-avoidance rule (GAAR)
+The proposed steps raise the issue of the potential application of the GAAR. This rule specifies that, where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that would result from that transaction or from a series of transactions that includes that transaction.
+An avoidance transaction is a single transaction or a transaction that is part of a series of transactions that would result, directly or indirectly, in a tax benefit, unless the transaction is undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit;.
+The “tax benefit” is defined as a reduction, avoidance or deferral of tax or other amount payable or an increase in a refund of tax or other amount under the Act.
+However, if it may reasonably be considered that the transaction would not result directly or indirectly in an abuse of any provision having regard to the Act read as a whole, the GAAR does not apply.
+In this case, without the proposed transactions, following the sale of all the lots, the company would plausibly have proceeded by redeeming its shares thus generating a dividend of $592,366 to its shareholders. The proposed transactions increase the ACB of the shares following the realization of a capital gain and then increase the paid-up capital of the shares to an amount corresponding to the new ACB despite the effect of section 84.1 ITA.
+Tax authorities have not ruled on whether the GAAR applies in such a situation. However, the economic benefits stemming from the proposed transactions result from the consequences of applying sections of the ITA. Indeed, the increase in the ACB of the shares does not flow from section 84.1 ITA, but from the regular rules of determining the cost of property. Therefore, subsection 84.1(1) is not used to obtain a given result; rather, transactions are performed in a context where this subsection is applicable and produces the effects it must produce.
+In addition, section 84.1 ITA sets limits regarding the amount that may be removed from a corporation without tax consequences. One of these limits is the ACB of the transferred shares. In the series of transactions being considered, the capital gain realized by the taxpayer at the time of the internal rollover is indeed bona fide. The fact that the ACB obtained through this transfer makes it possible to extract surpluses during the second transfer is within the limits set by section 84.1 ITA.
+[49] It is well established that the GAAR may apply if the transactions at issue frustrate the object, spirit or purpose of a specific anti-avoidance rule. In this context, I believe that, in addition to the transaction details, the object, spirit or purpose of section 84.1 of the Act must be considered to determine whether the GAAR applies to the transactions at issue.
+[50] The rule applies when the following key components are present:
+(a) A taxpayer resident in Canada (the transferor), other than a corporation, disposes of shares (the subject shares);
+(b) The shares are shares of a corporation resident in Canada (the subject corporation);
+(c) The subject shares are capital assets;
+(d) The taxpayer transfers the subject shares to a corporation (purchaser corporation) with which the taxpayer does not deal at arm's length;
+(e) The subject corporation is connected to the purchaser corporation.
+[51] In this case, the parties agree that the application conditions were met when the appellants disposed of their Oka shares for the benefit of 9149.
+[52] When section 84.1 of the Act applies, it may cause either a reduction in the paid-up capital of the shares issued by the purchaser corporation or an immediate taxable dividend to the transferor. In general, such negative tax consequences are produced only when either the non-share consideration or the paid-up capital of the shares issued by the purchaser corporation or both exceed the greater of the paid-up capital and the adjusted cost base.
+[53] Paragraphs 84.1(2)(a) and (a.1) and subsection 84.1(2.01) change how the adjusted cost base of the subject shares is calculated for the purposes mentioned above. Under the rules established in these provisions, the part of the adjusted cost base of the subject shares that is attributable to the value accumulated as of 1971 is not recognized in order to prevent shareholders from using the tax-exempt margin to strip a corporation of its surpluses. This adjustment also applies when the shareholders purchased the subject shares after 1971 from a person with whom they were not dealing at arm's length. A similar rule applies to prevent the capital gain exemption from being used to strip a corporation of its surpluses in similar cases. In summary, the specific rules show that the object, spirit or purpose of section 84.1 of the Act is to prevent taxpayers from performing transactions whose goal is to strip a corporation of its surpluses tax-free through the use of a tax-exempt margin or a capital gain exemption.
+[54] My description of the object, spirit or purpose of this provision is consistent with the presentation made by the Minister of Finance when he proposed amendments to section 84.1 in 1985 during his introduction of the new provisions concerning the capital gain exemption.
+Section 84.1 of the Act is an anti-avoidance rule to prevent the removal of the taxable surpluses of a corporation as a tax-free repayment of capital where there is a non-arm's length transfer of shares by an individual resident in Canada to a corporation. While the purpose of this provision is maintained, both the means by which it is achieved and its scope are being changed as a result of the introduction of the new lifetime capital gains exemption.
+Subsection 84.1(1) of the Act presently applies to deem an immediate capital gain or an adjusted cost base reduction on certain non-arm's length transfers of shares of a corporation resident in Canada to another corporation by a taxpayer resident in Canada other than a corporation. Since the net tax on dividends approximated the tax on capital gains, section 84.1 was designed to discourage the use by corporations of certain techniques for stripping surpluses known as "Valuation Day" strips.
+With the introduction of the capital gains exemption, the existing rules in subsection 84.1(1) are no longer appropriate since the gain on the share transfer may be exempt. Consequently, subsection 84.1(1) is being repealed and replaced by a rule that requires a paid-up capital reduction and, in certain circumstances, the immediate recognition of a dividend on certain non-arm's length transfers of shares to a corporation after May 22, 1985. For these purposes, the non-arm’s length test currently contained in subsection 84.1(2) is being maintained. The basic rule under new subsection 84.1(1) is that the maximum amount that can be received by the transferor from the transferee corporation as proceeds in the form of any non-share consideration and the paid-up capital of the share consideration is restricted to the greater of the paid-up capital of the transferred shares and what could be called the actual non-arm's length adjusted cost base to the transferor of the shares.
+New paragraph 84.1(1)(a) provides for a paid-up capital reduction for each class of shares of the purchaser corporation for which shares were issued as consideration for its acquisition of shares of another corporation. A paid-up capital reduction must be made in the event of an increase in the legal paid-up capital of the shares of the purchaser corporation arising as a result of the share transfer is more than the excess, if any, of the greater of the paid-up capital of the transferred shares and the adjusted cost base, as modified under new paragraph 84.1(2)(a) or (a.1), to the transferor of the transferred shares over the fair market value of any non-share consideration paid by the purchaser corporation as part of the purchase price for the transferred shares. The paid-up capital reduction is divided among the different share classes of the purchaser corporation on the basis of the legal paid-up capital increases occurring as a result of the share transfer.
+New paragraph 84.1(1)(b) treats the purchaser corporation as having paid a dividend to the transferor where the aggregate of the amount of the increase in the legal paid‑up capital of its shares arising as a result of the share transfer and the fair market value of the non-share consideration given by it for the transferred shares exceeds the total of
+(a) the greater of the adjusted cost base, modified under new paragraph 84.1(2)(a) or (a.1) to the transferor of the transferred shares and the paid-up capital of the transferred shares, and
+(b) the total paid-up capital reductions required by paragraph 84.1(1)(a) to be made by the purchaser corporation.
+The excess is the amount that will be treated as a dividend.
+[Emphasis added.]
+[55] In this case, the person who had conducted the tax planning was aware that having Oka simply redeem the shares held by the appellants would not produce an optimal tax result. The redemption generates a taxable dividend of $592,366 and a capital loss of $336,558 for all of the appellants. Without tax planning, the capital loss is not available to reduce the tax payable by the appellants on the deemed dividend. The internal rollover of Oka's common shares was introduced in order to bridge this gap in matching. The goal of this transaction was to create a capital gain of $255,808, which would generate an increase in the adjusted cost base of Oka's shares by the same amount. The increase in the adjusted cost base allowed 9149 to issue Class A shares with a maximum adjusted cost base and paid-up capital.
+[56] Clearly, it was not by chance that the tax planner proposed to the appellants to realize a capital gain of $255,808 during Oka's capital reorganization. The tax specialist was aware of the fact that section 84.1 of the Act would cause the Class B shares issued by 9149 to have an adjusted cost base that is higher than their paid-up capital, which would prevent the additional value accumulated before 1971 from being used to strip Oka of its surpluses. However, applying this rule ensures that the redemption of these shares will generate a capital loss that is sufficient to erase the capital gain realized in the preceding step, namely, the internal rollover of Oka's common shares.
+[57] In this light, the analysis shown above allows me to find that the additional value accumulated before 1971 was used to avoid the tax payable on the capital gain. Since the capital gain was created to allow the appellants to receive the Class A shares with a maximum adjusted cost base and paid-up capital, I find that the transactions at issue allowed the appellants to use the value accumulated before 1971 to indirectly distribute part of Oka's surpluses tax‑free.
+[58] In summary, the three transactions described above have allowed the appellants to indirectly receive part of Oka's surpluses tax-free. The following transactions took place:
+(a) internal rollover of Oka's shares, which allowed the appellants to increase the adjusted cost base of their shares by an amount equal to $255,808.
+(b) transfer of Class A and B shares of Oka to 9149;
+(c) redemption of Class A and B shares by 9149.
+[59] Had it not been for the internal rollover, the paid-up capital of all of the shares of 9149 would have been limited to $92,040. This number represents the capital gain amount assessed at the time of the appellants’ father's death, namely, $66,940 and the adjusted cost base of Oka's shares purchased from a third party for $25,100. The result of all three transactions described above is that the tax-exempt margin made it possible for part of Oka's surplus to be distributed to the appellants tax-free in a manner contrary to the object, spirit or purpose of section 84.1 of the Act. For these reasons, I find that this provision was applied in an abusive fashion.
+[60] The Minister made assessments regarding a deemed dividend of $592,362 for all of the appellants for all of the redemptions of 9149's shares. I believe that this amount is too high. Based on my calculations, section 84.1 of the Act would make it possible for the appellants to receive shares from the capital stock of 9149 having a paid-up capital of $92,040 rather than $25,100. There is nothing in section 84.1 of the Act that prevents the appellants from having it recognized that the paid-up capital of their 9149 shares is $92,040, which represents a capital gain of $66,940 assessed on the death of their father following a deemed disposition of Oka's common shares and the adjusted cost base of $25,100 of Oka's shares purchased from a third party. None of these elements is attributable to value accumulated before 1971 or to the use of the capital gain exemption by a person with whom the appellants are not dealing at arm's length. Consequently, the deemed dividend for all of the appellants for all redeemed shares of 9149 is $525,422. Appendix B attached illustrates the impact of my decision on each appellant.
+IV. Conclusion
+[61] For all of these reasons, the appeals are allowed in part and the assessments are referred back to the Minister for reconsideration and reassessment, in accordance with the above reasons for judgment.
+Signed at Ottawa, Canada, on this 7th day of March 2014.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 10th day of June 2014
+Margarita Gorbounova, Translator
+APPENDIX A
+L’immobilière d’Oka
+Reorganization
+The disposition of 3,178 shares on the death of Lionel Leroux
+Proceeds of disposition
+3,178 shares at
+$158.21
+$502,791
+Adjusted cost base
+3,178 shares at
+$131.25
+$417,113
+CDC dividend
+$33,766
+SCEM dividend
+$33,766
+SCEM dividend
+$113,729
+-$181,261
+-$235,852
+$266,940
+Rollover
+-$200,000
+Capital gain on death
+$66,940
+Step 1: Capital reorganization of L’immobilière d’Oka (with 85(1) option at FMV)
+Exchanged shares
+Proceeds of disposition
+$617,466
+Adjusted cost base
+3,178 shares
+Note 1
+$336,558
+820 shares
+25,000
+2 shares
+$100
+$361,658-
+Capital gain
+$255,808
+Loss on subsequent redemption of Nouco shares
+-$258,658
+Capital gain (loss)
+-$2,850
+Tax (24.1%)
+- $
+Shares received in consideration
+B preferred shares
+Number of shares received
+269,618
+Fair market value
+$269,618
+Adjusted cost base
+$269,618
+Paid-up capital
+$10,960
+C preferred shares
+Number of shares received
+347,848
+Fair market value
+$347,848
+Adjusted cost base
+$347,848
+Paid-up capital
+$14,140
+Note 1
+Adjusted cost base of 3,178 shares in accordance with subs. 26(3) and 26(5) ITAR
+Cost under 26(3) ITAR: median value of
+(a) actual cost
+-$
+(b) FMV - VD
+$417,113
+(c) Proceeds of disposition
+$617,466
+Amounts deducted from 83(1) ACB
+$147,495
+$764,961
+Costs under 26(5)(c) ITAR
+Median value
+$417.113
+Previous capital gains
+$66,940
+Amounts deducted from 83(1) ACB
+-$147,495
+$336,558
+Steps 2 and 3: Creation of Nouco and transfer of shares to Nouco (84.1 and 84.1(2)(c))
+Preferred shares
+Adjusted cost base
+$269,618
+84.1(2)(c) adjustment
+FMV-VD
+$417,113
+Actual cost
+-$
+83(1) dividends
+-$147,495
+$269,618
+Amended adjusted cost base
+-$
+Paid-up capital
+$10,960
+Common shares
+Adjusted cost base
+$347,848
+Paid-up capital
+$347,848
+Steps 3 and 4: Winding up of the corporation in Nouco and redemption of shares by Nouco
+common shares
+Preferred shares
+Total
+Proceeds of redemption
+$347,848
+$196,506
+$544,354
+Paid-up capital
+-$347,848
+-$7,988
+-$355,836
+Deemed dividend
+-$
+$188,518
+$188,518
+Tax (32.8%)
+-$
+-$61,834
+-$61,834
+Proceeds of disposition
+$347,848
+$196,506
+$544,354
+Deemed dividend
+-$
+-$188,518
+-$188,518
+Adjusted proceeds of disposition
+$347,848
+$7,988
+$355,836
+Adjusted cost base
+-$347,848
+-$196,506
+-$544,354
+Capital gain (loss)
+-$
+-$188,518
+-$188,518
+Step 6: Disposition of remaining lots and redemption of shares
+Disposition of lots
+Proceeds of disposition
+$80,000
+Adjusted cost base
+-$48,692
+Business income
+$31,308
+Tax (22%)
+-$6,888
+Funds available after sale
+$73,112
+Preferred shares
+Redemption summary
+Deemed dividend at time of redemption
+$73,112
+$617,466
+Paid-up capital
+-$2,972
+-$358,808
+Deemed dividend
+$70,140
+$258,658
+Tax (32.8%)
+-$23,006
+-$84,840
+Proceeds of disposition
+$73,112
+$617,466
+Deemed dividend
+-$70,140
+-$258,658
+Adjusted proceeds of disposition
+$2,972
+$358,808
+Adjusted cost base
+-$73,112
+-$617,466
+Capital gain (loss)
+-$70,140
+-$258,658
+Funds received
+$617,466
+Total tax
+-$84,840
+Liquid assets available after tax
+$532,626
+APPENDIX B
+Section 84.1 without internal rollover benefit
+Fair market value
+Paid-up capital
+Adjusted cost base
+$102,910
+$15,340
+$60,276
+Amount received
+Paid-up capital
+Deemed dividend
+$102,910
+- $15,340
+$87,570
+Capital loss
+Proceeds of disposition
+84(3)
+Adjusted cost base
+Capital loss
+$102,910
+- $87,570
+- $60,276
+- $44,936
+CITATION: 2014 TCC 75
+COURT FILE NOs: 2013-12(IT)I
+2013-13(IT)I
+2013-16(IT)I
+2013-18(IT)I
+2013-20(IT)I 2013‑21(IT)I
+STYLE OF CAUSE: LUCIE DESCARRIES,
+RENÉ LEROUX,
+SUZANNE GAUTHIER,
+NICOLE BEAUREGARD,
+JEAN LEROUX,
+DENISE BISSONNETTE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: December 4 and 5, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: March 7, 2014
+APPEARANCES:
+Counsel for the appellants:
+Marie-Josée Michaud
+Counsel for the respondent:
+Natalie Goulard
+COUNSEL OF RECORD:
+For the appellants: Marie-Josée Michaud
+Firm: KPMG
+Montréal, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2013 FCA 110.
+[2] Ibid.
+[3] [1942] S.C.R. 269.
+[4] [1941] Ex. C.R. 175 (Exchequer Court of Canada)
+[5] Ibid.
+[6] Appellants' written submissions, Part I - factual background, paragraph 9.
+[7] 2012 TCC 123.
+[8] [1997] T.C.J. No. 5 (QL), [1997] 2 C.T.C. 2088.
+[9] Ibid.
+[10] Footnote 1.
+[11] Appellants' written submissions, Part I - factual background, paragraphs 8 and 9.
+[12] Federal Court (T.D.), T-3235-71, August 3, 1972, [1972] C.T.C. 429 (Engl.).
+[13] Ibid., page 13 (official translation), page 437 (C.T.C.).
+[14] 2005 SCC 54, [2005] 2 S.C.R. 601.
+[15] Ibid., at paragraph 36.
+[16] Ibid., at paragraph 44.
+[17] 2011 SCC 63, [2011] 3 S.C.R. 721.
+[18] Truscto, footnote 14, above, at paragraph 66.
+[19] Footnote 7, above.
+[20] 2013 TCC 86.
+[21] Ibid, at paragraphs 63 to 65.
+[22] Lipson v. Canada, [2009] 1 S.C.R. at paragraph 44.

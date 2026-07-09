@@ -1,0 +1,122 @@
+Title: Capancini v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30073/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-581-30073-capancini-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-11-10
+
+# Capancini v. The Queen
+
+- Citation: 2010 TCC 581
+- Decision date: 2010-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7614, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Capancini v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-10
+Neutral citation
+2010 TCC 581
+File numbers
+2010-86(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-86(IT)I
+BETWEEN:
+WAYNE CAPANCINI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 13, 2010, at Toronto, Ontario
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Diana Aird
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2007 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of November, 2010.
+“E.A. Bowie”
+Bowie J.
+Citation: 2010 TCC 581
+Date: 20101110
+Docket: 2010-86(IT)I
+BETWEEN:
+WAYNE CAPANCINI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] Mr. Capancini appeals from a reassessment for income tax for the taxation year 2007. By that reassessment the Minister of National Revenue added $5,101 to his income for the year. There is no disagreement between the parties as to the facts that gave rise to this inclusion. However, they do disagree as to the application of the Income Tax Act[1] to those facts.
+[2] Prior to June 29, 2007 Mr. Capancini owned 225 shares of Tyco International Ltd (Tyco I), a large and diversified corporation with its head office in Bermuda and operating in the United States and elsewhere. On that date, Tyco I underwent a reorganization that involved spinning off two segments of its business to new corporations, Tyco Electronics Ltd. (Tyco E) and Covidien Ltd., together with a reverse stock split. Tyco E and Covidien were also incorporated under the laws of Bermuda. Under this reorganization Tyco I shareholders each received one Tyco E share, one Covidien share, and one new Tyco I share for each four old Tyco I shares that they held. For fractions over a multiple of four they received a cash payment. The appellant, therefore, received 56 Tyco E shares, 56 Covidien shares, 56 new Tyco I shares and a small cash payment in place of his 225 old Tyco I shares.
+[3] Mr. Capancini’s broker, Northern Securities, issued a T5 slip to him which indicated that he had received foreign dividend income of $4,647.44US ($5,001CAD) consisting of his 56 Tyco E and 56 Covidien shares, that being their market value on the date of issue. On the basis of that T5 slip the Minister reassessed the appellant, adding the value of the Tyco E and Covidien shares to his income for the year.
+[4] Understandably, Mr. Capancini asserts that he is being taxed on an amount that is not income to him but simply what he already owned, but in a different form. His 168 shares in three corporations on June 29 2007 represented exactly the same ownership interest in exactly the same businesses as did his 225 old Tyco I shares on June 28. In filing his income tax return for the 2007 taxation year he included a letter explaining that he did not consider that his receipt of the shares of Tyco E and Covidien was a taxable event, and after he was reassessed he filed a notice of objection with the Minister, and he also asked his broker, Northern Securities, to amend the T5 slip to delete the value of these shares from the statement of his foreign income received.
+[5] The Minister responded to his notice of objection by confirming the reassessment with this explanation:
+$4,740.00 US $ is foreign income and is income from a property under paragraph 12(1)(c). It has been included in your income according to section 3.
+[6] For its part, Northern Securities declined to amend the T5 slip that it had issued. It relied upon a press release issued by Tyco I on June 7, 2007, which referred to the spin-offs to Tyco E and Covidien as being effected through a tax‑free dividend distribution to Tyco International shareholders, and a statement from Tyco I to the effect that each of Tyco I, Tyco E and Covidien are resident in Bermuda, and that there is no tax treaty between Canada and Bermuda, and therefore section 86.1 of the Act does not apply.
+[7] The Minister’s position as pleaded in the Reply to the Notice of Appeal is that as a result of the restructuring of Tyco I the appellant received the Tyco E and Covidien shares as dividends in kind. If those shares were a dividend in kind then their fair market value at the date of the distribution would be taxable in Mr. Capancini’s hands by reason of section 90, paragraph 12(1)(k) and subsection 52(2) of the Act, unless it could be shown that section 86.1 applied to make it an eligible distribution. Section 90, paragraph 12(1)(k) and subsection 52(2) read as follows:
+90 In computing the income for a taxation year of a taxpayer resident in Canada, there shall be included any amounts received by the taxpayer in the year as, on account or in lieu of payment of, or in satisfaction of, dividends on a share owned by the taxpayer of the capital stock of a corporation not resident in Canada.
+12(1) There shall be included in computing the income of a taxpayer for a taxation year as income from a business or property such of the following amounts as are applicable:
+(a) …
+(k) dividends from other corporations -- any amount required by subdivision i to be included in computing the taxpayer's income for the year in respect of a dividend paid by a corporation not resident in Canada on a share of its capital stock or in respect of a share owned by the taxpayer of the capital stock of a foreign affiliate of the taxpayer; …
+52(2) Where any property has, after 1971, been received by a shareholder of a corporation at any time as, on account or in lieu of payment of, or in satisfaction of, a dividend payable in kind (other than a stock dividend) in respect of a share owned by the shareholder of the capital stock of the corporation, the shareholder shall be deemed to have acquired the property at a cost to the shareholder equal to its fair market value at that time, and the corporation shall be deemed to have disposed of the property at that time for proceeds equal to that fair market value.
+[8] I shall not reproduce section 86.1 as Mr. Capancini does not rely on it. His position is simply that there is no dividend, in kind or otherwise. His 225 shares of Tyco I were a capital asset; his 56 shares of each of Tyco I, Tyco E and Covidien which have replaced them are a capital asset.
+[9] Counsel for the respondent referred me to five decisions.
+[10] In 463 v. M.N.R.[2] the taxpayer received, through a personal corporation, a cash dividend from one U.S. corporation, and from another U.S. corporation shares of a subsidiary of that corporation. The appellant contended that these were not taxable events as the payor corporations described them as payments in the nature of return of capital and not taxable under the laws of the United States. The presiding member of the Tax Appeal Board, W.S. Fisher, held that they were dividends and taxable in the appellant’s hands because the companies that made the payments “were not in the process of winding-up, being discontinued, or reducing their capital structure”.
+[11] Cangro Resources Ltd. (In Liquidation) v. M.N.R.[3] concerned the exigibility of tax on a cash dividend that was paid to shareholders of a U.S. corporation to enable them to subscribe for shares of a new corporation being organized by the existing corporation. The existing corporation described the process as a “partial reorganization”, but W.O. Davis, the presiding member of the Tax Appeal Board, found that the new corporation was created to carry on a business that was distinct from that of the old corporation, and that the transactions were not part of a reorganization of the first corporation. On that basis he found the payment to be a taxable dividend.
+[12] In Brulotte v. The Queen[4] Lamarre Proulx J. found that the dividend in question was a stock dividend, as defined in the Act, and therefore was a dividend by reason of the definition of that word, which specifically includes a stock dividend. These definitions, found in subsection 248(1) of the Act, read then, as they do now, as follows:
+“dividend” includes a stock dividend (other than a stock dividend that is paid to a corporation or to a mutual fund trust by a non-resident corporation);
+and
+“stock dividend” includes any dividend (determined without reference to the definition “dividend” in this subsection) paid by a corporation to the extent that it is paid by the issuance of shares of any class of the capital stock of the corporation;
+[13] Morasse v. The Queen[5] is a case in which the facts were indistinguishable from the case before me. The taxpayer was the owner of 400 shares of a Mexican corporation which underwent a reorganization whereby a distinct part of the business of the corporation was spun off to a new corporation. The assets and the liabilities relating to that part of the business of the original company became the assets and liabilities of the new company. Each shareholder received one share of the new company for each share held in the original company. As in this case, the appellant’s broker described the shares of the new company as a stock dividend and issued a T5 form for the market value of the shares on the date of issue. Miller J. held that that was not determinative of the issue. I agree with that, and I agree with his conclusion that in these circumstances the new shares are not a stock dividend, because they are not shares of the original company. Nor are they a dividend in kind, as is the case when a wholly owned subsidiary is spun off by a distribution of its shares to shareholders of the parent company. In this case the shares of Tyco E and Covidien were never owned by Tyco I. They were created in the course of a reorganization, and together with the new Tyco I shares they simply comprise the original capital of Tyco I in a different form.
+[14] The word “dividend” is not a word of art. Subject only to the inclusion of a stock dividend by reason of the definition in section 248, it is a word to be given its ordinary meaning: see Re Carson.[6] Black’s Law Dictionary, while acknowledging some 30 different types of dividends, defines the word “dividend” as
+A portion of a company’s earnings or profits distributed pro rata to its shareholders, usually in the form of cash or additional shares.
+The Oxford Dictionary of Law defines “dividend” as “a payment declared … as being payable to shareholders from profits available for distribution.” It is clear that the shares of Tyco E and Covidien that were distributed to the shareholders of Tyco I do not come within the ordinary meaning of the word “dividend”. Consequently, they are not subject to tax in the hands of the appellant.
+[15] Allen v. The Queen[7] is a case in which the facts were not dissimilar to those in Morasse. However in Allen, Miller J. found that the only evidence as to the nature of the transaction was the description by the appellant’s broker of the shares as being a dividend, and that the appeal must fail because there had not been compliance with the requirements of section 86.1. In this case there is no disagreement as to the basic facts of the reorganization, as appears from paragraphs 9 and 10 of the respondent’s Reply to the Notice of Appeal. The only matter of dispute is the Minister’s characterization in subparagraph 9(b) of the Tyco E and Covidien shares as a dividend in kind. This is an incorrect conclusion on his part, for the reasons that I have given. It is also a statement of mixed fact and law, the pleading of which offends the rule laid down by the Federal Court of Appeal in The Queen v. Anchor Pointe Energy Ltd.[8]
+[16] The appeal is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of November, 2010.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2010 TCC 581
+COURT FILE NO.: 2010-86(IT)I
+STYLE OF CAUSE: WAYNE CAPANCINI and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 13, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: November 10, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Diana Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: Myles Kirvan, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1996, c.23, as amended.
+[2] 57 DTC 530.
+[3] 67 DTC 582.
+[4] 2003 TCC 467.
+[5] 2004 TCC 239.
+[6] [1963] 1 O.R. 373 (Ont H.C.).
+[7] 2006 TCC 598.
+[8] 2003 FCA 294.

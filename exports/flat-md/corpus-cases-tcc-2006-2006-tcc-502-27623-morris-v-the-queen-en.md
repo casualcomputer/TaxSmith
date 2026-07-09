@@ -1,0 +1,134 @@
+---
+title: "Morris v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27623/index.do"
+last_modified: "2006-09-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 502"
+citation2: ""
+neutral_citation: "2006 TCC 502"
+decision_date: "2006-09-15"
+language: "en"
+item_id: "27623"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 444
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:45:25.879000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ba8462c5289dfeb31e86206741949ea4df859691c7d3bc5bd76c72a51b8bfd70"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morris v. The Queen
+
+- Citation: 2006 TCC 502
+- Decision date: 2006-09-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 444, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morris v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-15
+Neutral citation
+2006 TCC 502
+File numbers
+2005-1261(IT)I
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1261(IT)I
+BETWEEN:
+BARRY MORRIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on August 29, 2006 at North Bay, Ontario.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Agent for the Appellant: Ian Smith
+Counsel for the Respondent: Pascal Tétrault
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years are dismissed.
+Signed at Ottawa, Canada this 15th day of September 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2006TCC502
+Date: 20060915
+Docket: 2005-1261(IT)I
+BETWEEN:
+BARRY MORRIS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals are from income tax assessments for the appellant's 1999 and 2000 taxation years. The issue is simply what portion of Mr. Morris' expenses relating to his cottage Mr. Morris is entitled to deduct in computing his income.
+[2] Mr. Morris did not testify but his wife did. She was quite knowledgeable about his business and tax affairs.
+[3] Mr. Morris built his cottage in 1989. He rented it out in 1991 and 1992 and again in 1999 and 2000. In 1999 he and his family used the cottage for personal use for a period of 35 days and in 2000 it was used for personal use for a period of 24 days. In 1999 and 2000, it was rented 21 days and 28 days respectively, primarily during July and August. It was advertised in a number of business establishments.
+[4] The question boils down to what portion of the cottage expenses was it reasonable to allocate to the rental operation as opposed to personal use. Subsection 4(1) of the Income Tax Act requires that one determine what is reasonable to attribute to a particular source of income, in this case, the cottage rental operation. The simplest way of demonstrating the appellant's claim and how it was dealt with on assessing is to reproduce Schedule "A" to the Reply to the notice of appeal for the two years in question.
+[5] The original assessments denied the entire loss on the basis of the now discredited reasonable expectation of profit (reop) principle. On objection it was accepted that the cottage rental operation had the requisite degree of commerciality and a portion of the expenses was allowed.
+[6] One point that strikes me is that in 1999, according to the appellant's claim, he spent $10,819 to earn $2,375 and in 2000 he spent $12,977 to earn $2,525. This, despite the fact that about 50% of the usage in those two years was personal.
+[7] The concept of reasonableness, and its converse, unreasonableness, appear frequently both in income tax law and in other areas of the law. They are terms of some elasticity. They are easier to recognize than to define. If the court is directed by the law to determine what is "reasonable" it requires the application of judgement and common sense and may involve as an initial determination what is unreasonable.
+[8] As a starting point, I think it is unreasonable to charge $10,000 to $12,000 to produce about $2,500 in income. The appellant's representative suggested the following formula.
+[9] If we assume about 60 days during which, because of the freeze up, the cottage is unusable, this leaves 305 days during which the cottage is available for use. In 1999 it was used 35 days for personal purposes. 35 days is 11.4% of 305 days. Similarly, for 2000, 24 days is 7.84% of 306 days. It is this percentage that the appellant suggests should be applied to personal use and the rest of the expenses (about 89% in 1999 and about 92% in 2000) should be allocated to business use. This, with respect, makes little sense. It would be as reasonable to apply a similar formula to business use so that about 7% or 9% was allocated to business use.
+[10] The appeals assesser attributed about 50% of the fixed expenses (interest, taxes) and to business and 100% of the expenses that were attributable solely to the business to the extent she could substantiate them. This is eminently reasonable, indeed generous.
+[11] The appeals are dismissed.
+Signed at Ottawa, Canada this 15th day of September 2006.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2006TCC502
+COURT FILE NO.:
+2005-1261(IT)I
+STYLE OF CAUSE:
+Barry Morris v.
+Her Majesty The Queen
+PLACE OF HEARING:
+North Bay, Ontario
+DATE OF HEARING:
+August 29, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT AND
+REASONS FOR JUDGMENT:
+September 15, 2006
+APPEARANCES:
+Agent for the Appellant:
+Ian Smith
+Counsel for the Respondent:
+Pascal Tétrault
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

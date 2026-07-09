@@ -1,0 +1,153 @@
+Title: Merck Frosst Canada Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29064/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-538-29064-merck-frosst-canada-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-09-24
+
+# Merck Frosst Canada Ltd. v. M.N.R.
+
+- Citation: 2008 TCC 538
+- Decision date: 2008-09-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6811, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Merck Frosst Canada Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-09-24
+Neutral citation
+2008 TCC 538
+File numbers
+2008-754(EI)
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-754(EI)
+BETWEEN:
+MERCK FROSST CANADA LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DALE CHOQUETTE,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Motion to amend reasons for judgment
+rendered on September 24, 2008
+by: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Pierre Barsalou
+Anna Szuminski
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+For the Intervener:
+The Intervener herself
+____________________________________________________________________
+JUDGMENT
+Whereas this Court issued a Judgment with Reasons for Judgment dated September 24, 2008;
+Whereas counsel for the Appellant advised the Court that an error crept into the second phrase of paragraph 23 of the Reasons for Judgment and that the reference to the Appellant should have rather been a reference to the Intervener;
+Whereas it is a palpable error and does not affect the substance of the judgment;
+It is ordered that paragraph 23 of the Reasons for Judgment be amended ex parte to read as follows:
+[23] My opinion, after hearing the witnesses and reviewing the relevant documents, is that the amount of $71,713.43 was unquestionably not received as salary, but rather as a retiring allowance. The Intervener did not perform any work and did not receive any salary during the period in issue. Thus, I find that the leave that the Intervener was offered for the period from March 4, 2006, to March 31, 2007, was truly unpaid leave, and did not constitute insurable employment.
+Signed at Ottawa, Canada, this 12th day of November 2008.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 29th day of July 2010.
+Daniela Possamai, Translator
+Citation: 2008TCC538
+Date: 20081112
+Docket: 2008-754(EI)
+BETWEEN:
+MERCK FROSST CANADA LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+DALE CHOQUETTE,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal from a decision of the Minister of National Revenue ("the Respondent") dated December 10, 2007, that the Intervener Dale Choquette was employed in insurable employment from March 25, 2006, to March 3, 2007 ("the period in issue").
+[2] A few days before the hearing, counsel for the Respondent notified the Court, the Appellant and the Intervener that the Respondent would be taking the same position as the Appellant, namely, that Dale Choquette was not employed in insurable employment during the period in issue. In this regard, counsel for the Respondent asked the Court for an adjournment in the event that the Intervener might wish to have more time to prepare.
+[3] The Intervener chose to proceed on the scheduled hearing date.
+[4] The Appellant filed a book of documents, containing eight tabs, as Exhibit A‑1.
+[5] The Intervener testified. She said that she began working for Merck Frosst Canada Ltd. ("Merck Frosst") on November 20, 1989. In December 2005, she and some of her co-workers received a mass layoff notice.
+[6] On November 28, 2005, Merck Frosst had announced the first phase of its restructuring program, which included 235 job cuts across Canada (Exhibit A-1, tab 1).
+[7] The documents, issued by the employer, which notified the Intervener of the termination of her employment and informed her about the retirement options and pension plan benefit options available to her, are dated December 7, 2005 (Exhibit A‑1, tab 2).
+[8] The statutory termination notice period was from December 10, 2005, to March 3, 2006. During that period, the Intervener retained all the rights of an employee, even though she had ceased to work on December 9, 2005, when she gave her employer all the property belonging to the company, as stated on the sheet at tab 4 of Exhibit A‑1.
+[9] In exchange for a signed release, the employer offered the Intervener an "Enhanced Termination Compensation Package", the terms of which are set out in section 9 of the agreement of December 7, 2005. Among other things, the proposed package added one year to her length of service in order to give her better access to the employer's pension plan benefits. The employer did this by granting the Intervener one year of unpaid leave from March 4, 2006, to March 31, 2007.
+[10] The package also provided for a $71,713.43 lump sum, which could be paid in bi-weekly instalments commencing March 4, 2006, or in a single payment on March 31, 2007. The employer and the employee ultimately agreed on a payment method that differs slightly from the first method proposed but is nonetheless bi‑weekly.
+[11] The Record of Employment (ROE) (Exhibit A-1, tab 6) states that the last pay period began on March 4, 2006, and that the remuneration was bi-weekly. The ROE also refers to bi-weekly severance pay, ending in March 2007.
+[12] Ms. Choquette appears to have applied for EI benefits in February 2007, one month before the final instalment on the $71,713.43, and one month before the end of the one-year unpaid leave that she was offered in order to enable her to increase her pension plan rights.
+[13] It appears that the Department of Human Resources and Skills Development Canada initially refused the EI benefit claim on the basis that the worker had not accumulated enough hours of work from January 29, 2006, to January 27, 2007. She had accumulated 184 hours, but needed 630 to qualify. Ms. Choquette appealed on March 6, 2007. The appeal was not tendered in evidence. On April 25, 2007, she received a letter from the Department, notifying her that the Commission had changed its decision and was granting her full entitlement to EI benefits, which would begin two weeks after March 5, 2007, the date on which she had ceased to hold insurable employment with her employer.
+[14] Counsel for the Appellant is not disputing the fact that the Intervener was employed during the period in issue, but he submits that the employment was not insurable because it was unpaid. He argues that remuneration for services rendered is an essential element of insurable employment within the meaning of the Employment Insurance Act ("the Act"). In this regard, he refers to paragraph 5(1)(a) of the Act:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+[15] Counsel submits that the payment that was received is indeed in the nature of a retiring allowance. According to the agreement between the parties, produced at tab 2 of Exhibit A‑1, the amount of $71,713.43 was paid as compensation for long service. It was a single amount, broken into bi-weekly payments for the employee's benefit and at her request.
+[16] In this regard, counsel for the Appellant referred to the definition of "retiring allowance" in subsection 248(1) of the Income Tax Act:
+248. (1) Definitions – In this Act,
+. . .
+"retiring allowance" means an amount (other than a superannuation or pension benefit, an amount received as a consequence of the death of an employee or a benefit described in subparagraph 6(1)(a)(iv)) received
+(a) on or after retirement of a taxpayer from an office or employment in recognition of the taxpayer's long service, or
+(b) in respect of a loss of an office or employment of a taxpayer, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal,
+by the taxpayer or, after the taxpayer's death, by a dependant or a relation of the taxpayer or by the legal representative of the taxpayer;
+[17] He also referred to paragraph 2(3)(b) of the Insurable Earnings and Collection of Premiums Regulations:
+2(3) For the purposes of subsections (1) and (2), "earnings" does not include
+. . .
+(b) a retiring allowance;
+. . .
+[18] Counsel referred, inter alia, to the following decisions of the Federal Court of Appeal and the Tax Court of Canada:
+Élément v. Canada (Minister of National Revenue), [1996] F.C.J. No. 718;
+Forrestall v. Canada (Minister of National Revenue), [1996] F.C.J. No. 1638; and
+Overin v. The Queen [1997] T.C.J. No. 1264.
+Counsel quoted paragraph 2 of the decision in Élément, supra:
+2 We are all of the opinion that the Minister and the Tax Court of Canada judge reached the proper conclusion when they decided that the applicant did not hold insurable employment during the period in question. Despite Mr. Lepage's very able argument that the applicant's employment contract continued to exist because he had a right to be recalled, the fact remains that a person who does not perform any work or receive any wages does not hold insurable employment within the meaning of paragraph 3(1)(a) of the Act.
+[20] The Intervener relied on the Respondent's initial position.
+Analysis and determination
+[21] The confusion in the Respondent's position appears to have arisen from the type of leave that the employee was offered. Paragraph (g) of the Reply to the Notice of Appeal states that the employer offered the worker the benefit of unpaid leave for the period from March 4, 2006, to March 31, 2007. In addition, paragraph (k) states that the worker continued to receive bi-weekly remuneration from the employer during that period. At paragraph (p) of the Reply, the Respondent states that the worker was on paid leave during the period in issue.
+[22] The instant case turns on the nature of the $71,713.43 payment.
+[23] My opinion, after hearing the witnesses and reviewing the relevant documents, is that the amount of $71,713.43 was unquestionably not received as salary, but rather as a retiring allowance. The Intervener did not perform any work and did not receive any salary during the period in issue. Thus, I find that the leave that the Intervener was offered for the period from March 4, 2006, to March 31, 2007, was truly unpaid leave, and did not constitute insurable employment.
+[24] The appeal is allowed and the intervention is dismissed.
+Signed at Ottawa, Canada, this 12th day of November 2008.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 29th day of July 2010.
+Daniela Possamai, Translator
+CITATION: 2008TCC538
+COURT FILE NO.: 2008-754(EI)
+STYLE OF CAUSE: MERCK FROSST CANADA LTD. v. M.N.R. AND DALE CHOQUETTE
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 16, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: September 24, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Pierre Barsalou
+Anna Szuminski
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+For the Intervener:
+The Intervener herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Pierre Barsalou
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

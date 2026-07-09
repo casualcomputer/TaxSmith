@@ -1,0 +1,95 @@
+Title: Simek c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27703/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-119-27703-simek-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-03-19
+
+# Simek c. La Reine
+
+- Citation: 2004 CCI 119
+- Decision date: 2004-03-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 456, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Simek c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-03-19
+Référence neutre
+2004 CCI 119
+Numéro de dossier
+2000-3009(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-3009(IT)G
+ENTRE :
+STEFAN SIMEK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 13 janvier 2004 à Edmonton (Alberta)
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Avocat de l’appelant :
+Me Douglas J. Forer
+Avocat de l’intimée :
+Me Louis A.T. Williams
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+L’appel concernant la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 1995 est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 19e jour de mars 2004.
+"Brent Paris"
+Le juge Paris
+Traduction certifiée conforme
+ce 13e jour d'avril 2005.
+Colette Dupuis-Beaulne, traductrice
+Référence : 2004TCC119
+Date : 20040319
+Dossier : 2000-3009(IT)G
+ENTRE :
+STEFAN SIMEK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] M. Simek fait appel du refus de sa demande de ce qui est communément appelé le « crédit d’impôt pour emploi à l’étranger » (CIEE), prévu au paragraphe 122.3(1) de la Loi de l’impôt sur le revenu, pour l’année d’imposition 1995.
+[2] M. Simek est ingénieur de profession. Il est le président, un actionnaire et un employé de 831594 N.W.T. Ltd., qui exploite une entreprise à Yellowknife sous le nom de Ferguson Simek Clark, Engineers and Architects (FSC). FSC est spécialisée en technologie et en conception du bâtiment dans les climats arctiques.
+[3] Au début des années 1980, FSC a commencé à chercher du travail en génie et en construction à l’étranger. En 1990, elle a commencé à concevoir et à construire des bâtiments à Yakoutsk, en Sibérie. M. Simek est responsable de ce volet des activités de FSC, parce qu’il connaît bien le russe.
+[4] En 1994, FSC a conclu un contrat d’une valeur de 17,5 M$US pour concevoir et construire une aérogare à Yakoutsk. La construction a eu lieu en 1994 et 1995. Au milieu de 1995, FSC s’est vu attribuer un autre contrat d’une valeur de 12 M$US pour la conception et la construction de 504 unités de logement à Yakoutsk, et la construction a commencé à l’automne de cette année‑là. Les deux projets ont créé des emplois pour 60 Canadiens et 200 Russes en 1995.
+[5] En raison de ces contrats, M. Simek a dû travailler pendant de longues périodes à l’extérieur du Canada. Il a donc demandé le crédit d’impôt pour emploi à l’étranger. Une des conditions d’admissibilité aux fins du crédit d’impôt est énoncée comme ceci dans la Loi de l'impôt sur le revenu : « Tout au long d’une période de plus de six mois consécutifs … [le contribuable]… a exercé la totalité, ou presque, des fonctions de son emploi à l’étranger ». Le ministre du Revenu national a rejeté la demande, parce que, d’après lui, M. Simek n’a pas exercé en 1995 la totalité, ou presque, des fonctions de son emploi à l’extérieur du Canada.
+[6] La seule question que la Cour doit trancher consiste à déterminer si M. Simek satisfait à cette condition; l’intimée ne conteste pas le fait que l’appelant satisfait aux autres conditions d’admissibilité aux fins du crédit d’impôt.
+[7] Selon les aveux de l’intimée, les fonctions exercées par M. Simek à l’extérieur du Canada et liées au projet de construction de l’aérogare de Yakoutsk consistaient à négocier le contrat, à acheter les matériaux de fournisseurs russes et slovaques, à apporter des changements au design, à aider le gouvernement de la République de Sakha à obtenir des fonds pour le projet, à participer à des conférences et à obtenir des paiements. L’intimée a également avoué que les fonctions exercées par M. Simek à l’extérieur du Canada et se rapportant aux unités de logement comprenaient l’établissement de dessins, la création d’une société chypriote, la supervision sur le chantier, des réunions fréquentes avec le client et l'obtention des paiements. M. Simek a aussi négocié le contrat.
+[8] M. Simek était le seul témoin à l’audience. Les éléments de preuve qu’il a présentés montraient qu’en raison des deux contrats de Yakoutsk, il a beaucoup voyagé en 1995, non seulement vers cette ville, mais aussi vers d’autres endroits en Europe, en Asie et en Amérique du Nord. Il a présenté un résumé de ses voyages, qu’il a rédigé après avoir examiné le brouillard qu’il tenait, son passeport et certains reçus de voyage. D’après son témoignage et le résumé en question, M. Simek a travaillé en 1995 pendant 210 jours à l’extérieur du Canada, et pendant 93 jours au Canada.
+[9] Même si M. Simek était le président de la compagnie, il n’avait pas de responsabilités de gestion quotidiennes au Canada. Un autre employé, qu’il a appelé « associé directeur », assumait ces fonctions. D’après le témoignage de M. Simek, pendant les périodes où il était au Canada en février et mars 1995, il a travaillé environ trois heures par jour au « projet à l’étranger », bien qu’au tout début, il ait dit qu’il était difficile d'établir le nombre d'heures de travail effectuées. Il a dit qu’il allait au bureau tous les jours de la semaine pendant ce temps-là. Du 27 avril au 8 mai, il était retourné à Yellowknife où, d’après son témoignage, il n’a pas fait « grand‑chose ». Il a dit qu’il a travaillé trois heures par jour pendant cette période‑là. Pour la période allant du 25 mai au 6 juin, il a travaillé un jour à Toronto, et plus de sept heures et demie par jour du 28 au 30 mai. Quand il était chez lui en juillet et août, il a dit avoir travaillé de 12 à 15 heures par semaine. Il n’a pas donné le nombre exact d'heures travaillées au cours des autres jours où il était au Canada.
+[10] Quand il était à Yakoutsk, M. Simek a travaillé sept jours par semaine, généralement pendant 10 heures par jour. Du 14 jusqu’au 28 janvier et du 6 jusqu’au 11 juillet, il a dit avoir travaillé entre 10 et 12 heures par jour. Son brouillard semble indiquer qu’en 1995, il a fait sept séjours à Yakoutsk, y passait en tout 97 jours. M. Simek a ajouté que le voyage entre Yellowknife et Yakoutsk pouvait prendre entre 48 et 64 heures selon les correspondances à faire.
+[11] Le seul autre élément de preuve relatif aux heures de travail réellement effectuées à l’extérieur du Canada concerne un voyage que M. Simek a fait de Hawaï, où il était en vacances avec sa famille, en Chine pour des réunions d'affaires urgentes. Il y a passé six jours, y travaillant de 10 à 14 heures par jour.
+[12] Il n’y a pas de preuve du nombre d’heures que M. Simek a consacrées pour exécuter les fonctions de son emploi pendant le reste des jours où il a travaillé à l’extérieur du Canada.
+[13] Au cours du contre-interrogatoire, on a présenté à M. Simek des copies des feuilles de temps qu’il a admis avoir remplies pour FSC, indiquant les heures qu’il a travaillées chaque semaine pendant presque toute l’année 1995. Selon les feuilles de temps, le nombre d'heures de travail effectuées au Canada était beaucoup plus élevé que ce qu'il avait dit dans sa preuve principale. Les feuilles de temps montraient qu’en 1995, M. Simek avait effectué environ 40 % de toutes ses heures de travail au Canada. Il a expliqué que les feuilles de temps n’étaient pas exactes, qu’il avait surévalué les heures travaillées au Canada, et généralement sous-évalué les heures travaillées à l’extérieur du pays. Il a expliqué qu’il avait surévalué les heures faites au Canada, parce que son employeur exigeait que tous les employés fassent 37½ heures de travail par semaine et qu’il voulait que ses feuilles de temps indiquent qu’il respectait cette exigence aux fins de la comptabilité interne. Toutefois, comme la compagnie recevait un montant forfaitaire pour le travail sur les deux contrats de Yakoutsk, il savait que les feuilles de temps n’étaient pas utilisées pour la facturation, et il ne voyait pas d’inconvénient à gonfler ses heures de travail. De plus, comme il n’était pas rémunéré pour les heures supplémentaires, il ne voyait pas l'utilité de consigner toutes les heures qu’il effectuait alors qu’il était à l’extérieur du pays. Il a ajouté que ses « associés » ne se seraient pas souciés du nombre d’heures qu’il consacrait aux projets de Yakoutsk.
+[14] L’avocat de l’appelant a fait valoir que les éléments de preuve présentés par M. Simek montraient clairement qu’en 1995, il avait exercé la presque totalité des fonctions de son emploi à l’extérieur du Canada. Selon ses estimations, M. Simek avait travaillé entre 200 et 210 jours à l’extérieur du Canada pour une moyenne de 10 heures de travail par jour, et environ 80 jours au Canada pour une moyenne de trois heures de travail par jour. Selon les calculs de l’avocat de l’appelant, M. Simek aurait exécuté 89,75 % de ses fonctions à l’extérieur du Canada.
+[15] Il a enchaîné en disant que, de toute façon, pour déterminer si la totalité, ou presque, des fonctions de l’emploi avaient été exercées à l’extérieur du Canada, il ne suffisait pas de faire une simple comparaison entre le temps travaillé au Canada et le temps travaillé à l’extérieur du Canada; il fallait aussi tenir compte d'un facteur subjectif. Il a laissé entendre que la Cour devrait prendre en considération l’importance relative des fonctions exercées dans chaque endroit et non seulement le temps consacré à l’exécution de ces fonctions, afin de déterminer si la presque totalité des fonctions étaient exercées à l’extérieur du Canada. En d’autres termes, il faudrait accorder plus de poids aux fonctions qui sont plus importantes pour l’employeur au moment de décider à quel endroit la totalité des fonctions ont été exercées. L’avocat de l’appelant a dit qu’il s’agissait d’une « approche contextuelle » comportant une évaluation qualitative en plus d'une évaluation quantitative des fonctions exécutées. Il a fait valoir que les fonctions exercées au Canada dans ce cas‑ci étaient moins importantes que celles qui avaient été exercées à l’étranger et que, par conséquent, le temps passé au Canada devait être sous-estimé pour décider si M. Simek satisfaisait à la condition « la totalité, ou presque ».
+[16] Je ne suis pas convaincu que l’appelant ait réussi à prouver que le ministre a commis une erreur en établissant une nouvelle cotisation pour rejeter la demande du CIEE. Les éléments de preuve fournis par M. Simek ne m’ont pas donné un nombre précis d'heures travaillées à l’extérieur du Canada pendant plus de 100 jours, ni d’ailleurs pour bien des jours travaillés au Canada. Je ne suis pas non plus convaincu que l'estimation des heures de travail effectuées par M. Simek soit fiable. Pour les dates où il a indiqué le nombre d'heures travaillées au Canada, il s’agissait invariablement de trois heures de travail par jour ou presque, malgré les changements à ce qui se passait sur le chantier de construction à Yakoutsk. Par exemple, en février 1995, l’aérogare était bel et bien en construction, alors qu’à l'été, la construction semblait être presque terminée. La construction des unités de logement a commencé en octobre. Selon M. Simek, il n’avait pas beaucoup de travail à faire en juillet et août au Canada, parce que FSC attendait le financement du projet des unités de logement. Toutefois d’après son estimation, les heures de travail effectuées pendant l'été étaient à peu près équivalentes aux heures faites en février. Je remarque aussi que M. Simek lui-même a admis qu’il lui était difficile d’évaluer le temps consacré au travail pendant la période où il était au Canada en février. Je crois que cette difficulté est due au fait qu’il n’a pas consigné les heures travaillées, excepté sur les feuilles de temps, qu’il qualifie maintenant d’inexactes.
+[17] Je me pose les mêmes questions pour les jours où M. Simek a travaillé à l’extérieur du Canada. Les éléments de preuve sont clairs pour ce qui est des jours passés à Yakoutsk, où M. Simek semblait avoir un horaire de travail relativement stable, mais je n’accepte pas un chiffre global de dix heures de travail par jour pour le reste des jours. Les fonctions de M. Simek pendant les jours en question variaient énormément, ainsi que les endroits où il les exerçait. Dans l’ensemble, je n’ai pas trouvé convaincants les éléments de preuve fournis par M. Simek concernant le nombre d'heures travaillées.
+[18] Je trouve aussi que la preuve présentée par M. Simek sur l’exactitude de ses feuilles de temps est intéressée et peu convaincante. Je remarque que les feuilles de temps indiquent une répartition du travail sur plusieurs jours établie par M. Simek, ainsi que le temps consacré à différentes tâches. J’ai l’impression que les feuilles de temps ont été remplies avec plus de soin que M. Simek ne voudrait l’admettre. En outre, les feuilles de temps n’indiquent pas systématiquement 37½ heures de travail par semaine; à plusieurs reprises, du temps supplémentaire est consigné, malgré le fait que M. Simek ait affirmé qu’il n’était pas tenu de consigner le temps supplémentaire. Finalement, personne chez FSC n’a été appelé à témoigner pour corroborer ce que M. Simek a dit, c'est-à-dire que les associés ne se souciaient pas de la précision des feuilles de temps ni du nombre d’heures consignées.
+[19] Étant donné l’incertitude entourant les heures de travail effectuées par M. Simek au Canada et à l’extérieur du Canada, je suis incapable de comparer les heures comme il faudrait pour décider s’il a exercé la totalité, ou presque, des fonctions de son emploi à l’extérieur du pays.
+[20] En outre, je ne suis pas convaincu que les facteurs autres que le temps devraient être pris en compte dans ce cas‑ci pour déterminer si la totalité, ou presque, des fonctions de l’emploi a été exercée à l’extérieur du Canada. L’expression « la totalité, ou presque » doit rendre « l’idée d’une proportion du total susceptible d’être déterminée » (Ruh c. La Reine, [1998] G.S.T.C. 4 (T.C.C.). D’après moi, cela veut dire que je dois évaluer le travail effectué par M. Simek au Canada et à l’extérieur du Canada, d’une façon ou d’une autre. On ne peut pas baser la comparaison sur l’importance relative des fonctions exercées par M. Simek, parce que « l’importance » ne peut pas être chiffrée avec certitude. Cependant, les heures consacrées au travail constituent une mesure du travail acceptée et représentent un moyen de comparaison objectif.
+[21] En conclusion, comme l’appelant n’a pas montré selon la prépondérance des probabilités que le ministre a commis une erreur en considérant que M. Simek n’a pas exercé en 1995 la totalité, ou presque, des fonctions de son emploi à l’extérieur du Canada, il n’a pas droit au crédit d’impôt pour emploi à l’étranger pour cette année‑là. L’appel est donc rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 19e jour de mars 2004.
+"Brent Paris"
+Le juge Paris
+Traduction certifiée conforme
+ce 13e jour d'avril 2005.
+Colette Dupuis-Beaulne, traductrice

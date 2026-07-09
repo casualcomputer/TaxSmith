@@ -1,0 +1,208 @@
+---
+title: "Côté c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27634/index.do"
+last_modified: "2007-04-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 182"
+citation2: ""
+neutral_citation: "2007 TCC 182"
+decision_date: "2007-04-02"
+language: "en"
+item_id: "27634"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 390
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:15:15.954000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "39f892e5ba3dd5989756df9e8c4fc65f71bbfa23fa645115f1bc874d413904e0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Côté c. La Reine
+
+- Citation: 2007 TCC 182
+- Decision date: 2007-04-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 390, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Côté c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-02
+Neutral citation
+2007 TCC 182
+File numbers
+2006-429(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-429(GST)I
+BETWEEN:
+MARC CÔTÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Donald Côté (2006-430(GST)I) and Pierre Côté (2006-431(GST)I)
+on March 5, 2007, at Shawinigan, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Bernard P. Boudreau
+Counsel for the Respondent:
+Philippe Morin
+____________________________________________________________________
+JUDGMENT
+The appeal from the Goods and Services Tax assessment under subsection 323(1) of the Excise Tax Act, notice of which is dated January 18, 2005, and bears the number PQ‑2005-7890, for the period from July 1, 2003, to September 30, 2003, is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 2nd day of April 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 9th day of August 2007.
+Brian McCordick, Translator
+Docket: 2006-430(GST)I
+BETWEEN:
+DONALD CÔTÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Marc Côté (2006-429(GST)I) and Pierre Côté (2006-431(GST)I)
+on March 5, 2007, at Shawinigan, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Bernard P. Boudreau
+Counsel for the Respondent:
+Philippe Morin
+____________________________________________________________________
+JUDGMENT
+The appeal from the Goods and Services Tax assessment under subsection 323(1) of the Excise Tax Act, notice of which is dated January 18, 2005, and bears the number PQ‑2005-7886, for the period from July 1, 2003, to September 30, 2003, is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 2nd day of April 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 9th day of August 2007.
+Brian McCordick, Translator
+Docket: 2006-431(GST)I
+BETWEEN:
+PIERRE CÔTÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Marc Côté (2006-429(GST)I), and Donald Côté (2006-430(GST)I)
+on March 5, 2007, at Shawinigan, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Bernard P. Boudreau
+Counsel for the Respondent:
+Philippe Morin
+____________________________________________________________________
+JUDGMENT
+The appeal from the Goods and Services Tax assessment under subsection 323(1) of the Excise Tax Act, notice of which is dated January 18, 2005, and bears the number PQ‑2005-7888, for the period from July 1, 2003, to September 30, 2003, is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 2nd day of April 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 9th day of August 2007.
+Brian McCordick, Translator
+Citation: 2007TCC182
+Date: 20070402
+Dockets: 2006-429(GST)I
+2006-430(GST)I
+and 2006-431(GST)I
+BETWEEN:
+MARC CÔTÉ,
+DONALD CÔTÉ,
+PIERRE CÔTÉ,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] These appeals were heard on common evidence.
+[2] With respect to the remittance period of July 1, 2003 to September 30, 2003 ("the period in issue"), Scierie 116 Inc. ("Scierie"), a corporation incorporated on September 23, 1999 under the Canada Business Corporations Act, failed to remit to the Minister of Revenue of Quebec ("the Minister") net tax in the amount of $10,992.53 as required by subsection 228(1) of the Excise Tax Act ("the Act"). Scierie 116 Inc. ceased its operations toward the end of 2003, by virtue of a prior notice of the exercise of a right under a movable hypothec. The Crown made its proof of claim with regard to the net tax, interest and penalties, and a certificate bearing the number GST‑1751‑04 was registered in the Federal Court on April 2, 2004.
+[3] The Minister assessed each Appellant under subsection 323(1) of the Act by notices of assessment dated January 18, 2005, and bearing the numbers PQ‑2005‑7886, PQ‑2005‑7888 and PQ‑2005‑7890, claiming from each Appellant the amount of $6,070.56, consisting of $5,253.22 in net tax, $233.49 in interest, and a penalty of $583.85. The amounts of the assessments are not contested. The Appellants are appealing against the assessments on the ground that they exercised the degree of care, diligence and skill, to prevent Scierie's failure to remit the tax, that a reasonably prudent person would have exercised in comparable circumstances, as required by subsection 323(3) of the Act.
+[4] The Appellants submit that they are not responsible for Scierie's failure to remit the tax because, among other things, the accounting firm of Thibault, Chagnon, Gaudreau, CGA, was specifically mandated to calculate the GST, input tax credits and rebate claims and to file the relevant returns and remit the taxes owed.
+[5] The Respondent submits, among other things, that
+(a) the Appellants did not take the appropriate measures to ensure that the taxes were remitted through the accounting firm responsible for paying them;
+(b) the Appellants were responsible for the day‑to‑day financial management of the business and regularly consulted its monthly financial statements and the reports concerning its activities; and
+(c) the Appellants were aware of the corporation's financial troubles and its problems remitting its taxes, and took no concrete, positive steps to prevent the corporation's defaults.
+[6] During the period in issue, the Appellants were shareholders and directors of Scierie. Marc Côté was the president, Donald Côté was the vice-president and Pierre Côté was the secretary-treasurer.
+[7] Marc Côté, an electrician, was responsible for organizing the mill work and production. Donald Côté, a forestry contractor, was responsible for building the mill and for supplying it with timber. Pierre Côté, who has a Grade 9 education and completed training in agricultural insemination technology, was responsible for the corporation's general accounting. The Appellants are brothers.
+[8] From the date on which the business incorporated until June 30, 2003, the three Appellants were authorized signing officers with respect to the opening of bank accounts, the signing and endorsement of commercial paper and the signing of loan agreements. A single signature sufficed. Effective June 30, 2003, only Marc and Pierre Côté were authorized signing officers of Scierie, and both of their signatures were required.
+[9] The evidence discloses that Pierre Côté did indeed look after the day‑to‑day financial management of the business. He was responsible for paying invoices. He was one of the authorized signing officers for the purposes of bank accounts and instruments of credit. He signed the tax returns and forms such as Form T661 for scientific research and experimental development expenses. He interfaced with the accounting firm responsible for calculating and remitting source deductions, GST and Quebec sales tax and for preparing the returns and reports related to those taxes.
+[10] Pierre Côté's interaction with the accounting firm proceeded as follows. He sent the information necessary for the accounting firm to calculate the GST along with a series of blank cheques to enable the firm to make the remittances. He filled in the payees of the cheques and signed the cheques without entering the amount. He did not sign the tax returns or the payment slips. The accounting firm added the date and the amount on the cheques and sent the GST return and remittance for each period to the Minister.
+[11] The evidence also discloses that the accounting firm produced monthly financial statements and submitted them to the management of the business each month. The Appellants were asked to attend the monthly presentations and knew the financial situation of the business and that it was having financial troubles. On September 30, 2002, Scierie had an accumulated deficit of $228,370, and it made only $8,785 in profit in the course of the 2002 fiscal year.
+[12] The GST return for the period in issue was filed by the accounting firm on November 3, 2003, three days late, without a remittance cheque. The subsequent GST returns were also filed without remittance cheques. The Appellants claim that it was only in December 2003 that they noticed that the GST return for the period in issue was filed without a remittance cheque, at which point the business had ceased its operations. They say that this is why they did not remedy the default. It was also shown that the GST return for the period of January 1 to March 31, 2003, was filed on April 30, 2003, without a payment. It was not shown whether the amount of $7,768.93 in GST to be remitted for this period was paid or not.
+Application of the due diligence standard
+[13] During the period in issue, the Appellants were inside directors, to use the term employed by Robertson J.A. in Soper v. Her Majesty the Queen, 1997 CanLII 6352 (F.C.A.), where he stated in the following terms at page 25:
+At the outset, I wish to emphasize that in adopting this analytical approach I am not suggesting that liability is dependent simply upon whether a person is classified as an inside as opposed to an outside director. Rather, that characterization is simply the starting point of my analysis. At the same time, however, it is difficult to deny that inside directors, meaning those involved in the day-to-day management of the company and who influence the conduct of its business affairs, will have the most difficulty in establishing the due diligence defence. For such individuals, it will be a challenge to argue convincingly that, despite their daily role in corporate management, they lacked business acumen to the extent that that factor should overtake the assumption that they did know, or ought to have known, of both remittance requirements and any problem in this regard. In short, inside directors will face a significant hurdle when arguing that the subjective element of the standard of care should predominate over its objective aspect.
+[14] Although the Appellants had little business experience, they were aware of Scierie's financial situation and of its problem making GST remittances. In fact, the first time that this problem arose was in connection with the remittance period of January 1, 2003, to March 31, 2003. Surely the accounting firm responsible for filing GST returns was not making the decision to file GST returns without attaching remittance cheques. It undoubtedly checked with the Appellants, or one of them, to see whether the funds necessary to make the GST remittances were available.
+[15] Based on the evidence, the Appellants did not take specific measures to prevent or remedy the failure to remit the GST. They were content to claim that they were unaware of the default and that the responsibility for filing the GST returns and paying the GST had been entrusted to the accounting firm.
+Conclusion
+[16] For all these reasons, I find that the Appellants have not discharged their burden of proof and have not shown to the Court's satisfaction that they acted with care, diligence and skill to prevent the failures that gave rise to the assessments under appeal in the instant case.
+[17] Consequently, the appeals are dismissed.
+Signed at Montréal, Quebec, this 2nd day of April 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 9th day of August 2007.
+Brian McCordick, Translator
+CITATION: 2007TCC182
+COURT FILE NOS.: 2006-429(GST)I, 2006-430(GST)I and 2006‑431(GST)I
+STYLE OF CAUSE: Marc Côté, Donald Côté, Pierre Côté and
+The Queen
+PLACE OF HEARING: Shawinigan, Quebec
+DATE OF HEARING: March 5, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: April 2, 2007
+APPEARANCES:
+Counsel for the Appellants:
+Bernard P. Boudreau
+Counsel for the Respondent:
+Philippe Morin
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Bernard P. Boudreau
+Firm: Boudreau Méthot Tourigny
+City: Drummondville, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

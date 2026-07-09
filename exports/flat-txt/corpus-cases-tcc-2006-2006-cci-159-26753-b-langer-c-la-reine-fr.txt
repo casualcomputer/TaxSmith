@@ -1,0 +1,141 @@
+Title: Bélanger c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26753/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-159-26753-b-langer-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-05-18
+
+# Bélanger c. La Reine
+
+- Citation: 2006 CCI 159
+- Decision date: 2006-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3499, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bélanger c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-18
+Référence neutre
+2006 CCI 159
+Numéro de dossier
+2005-2119(GST)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-2119(GST)I
+ENTRE :
+PIERRE BÉLANGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 1er mars 2006 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Daniel Cantin
+Avocat de l'intimée :
+Me Robert Poupart
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie relativement à la taxe sur les produits et services en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 3 décembre 2004 et porte le numéro 231670, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de mai 2006.
+« Alain Tardif »
+Juge Tardif
+Référence : 2006CCI159
+Date : 20060518
+Dossier : 2005-2119(GST)I
+ENTRE :
+PIERRE BÉLANGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel relatif à la cotisation de taxe sur les produits et services ( « TPS » ), portant le numéro 231670 et en date du 3 décembre 2004, qui a été établie en vertu de la Loi sur la taxe d'accise (la « Loi » ), concernant des crédits de taxe sur les intrants en raison de la location de véhicules pour les périodes du 1er janvier 2001 au 31 décembre 2001, du 1er janvier 2002 au 31 décembre 2002 et du 1er janvier 2003 au 31 décembre 2003.
+[2] La question en litige consiste à déterminer. aux fins du calcul du crédit de taxe sur les intrants, si l'appelant a utilisé principalement à des fins personnelles, dans une proportion de plus de 50 %, les véhicules suivants, soit une voiture de marque Cadillac Séville pour la période du 1er janvier 2001 au 21 juillet 2002 et une Jaguar de l'année 2003 pour la période du 22 juillet 2002 au 30 septembre.
+[3] Lors des périodes en litige, l'appelant exploitait, comme vendeur indépendant, un poste d'essence à Beauport depuis 1972.
+[4] À ce titre, pendant les périodes en litige, il exécutait toutes les tâches liées à l'exploitation d'un tel commerce, dont la vocation était exclusivement la vente d'essence. Il était responsable de la gestion, de l'entretien et du matériel et de l'entretien du terrain.
+[5] Il a affirmé qu'en sa qualité de propriétaire d'un tel commerce, il devait effectuer une tournée plusieurs fois par jour afin de vérifier le prix de vente au litre de l'essence chez ses concurrents de manière à réagir rapidement. En d'autres termes, l'appelant devait s'assurer qu'il vendait son essence au même prix que les concurrents.
+[6] Au soutien de son témoignage, l'appelant a déposé des cartes géographiques indiquant où se situaient les divers postes d'essence qu'il considérait comme des références au niveau de la concurrence. L'appelant parcourait deux ou trois fois par jour, cinq jours par semaine, la distance indiquée entre son commerce et ses compétiteurs; l'un des parcours avait une distance de 14 km alors que l'autre en avait une de 9 km.
+[7] Suivant ses prétentions, l'appelant a comptabilisé trois trajets par jour à raison de 9 km chacun, 20 jours par mois, soit 540 km par mois. À ce chiffre, il a ajouté les trajets aller-retour de son bureau situé à sa résidence jusqu'au poste d'essence, soit 60 km par mois auquel il a ajouté 50 km par mois pour les déplacements requis pour les rencontres avec les représentants, ses déplacements à la banque, le transport des préposés et des employés, la livraison d'essence d'urgence pour les véhicules en panne, les déplacements pour les achats de pièces, les achats de papeterie et les déplacements pour visiter d'autres commerces, soit un total général de 650 km par mois. Pour tous ces déplacements, il a utilisé un véhicule de marque Cadillac Séville du début de la première période en litige jusqu'au 21 juillet 2002, après quoi il a utilisé un véhicule de marque Jaguar de l'année 2003.
+[8] Lors des périodes en litige, l'appelant ne complétait aucun rapport d'utilisation de son véhicule à des fins commerciales; il a commencé à le faire après avoir fait l'objet de la cotisation.
+[9] Au moyen de son registre pour l'année 2005, qui, selon lui, faisait état sensiblement du même usage, il a affirmé qu'il utilisait son véhicule à des fins essentiellement commerciales et que l'usage personnel était tout à fait marginal variant de deux à cinq pour cent des kilomètres parcourus chaque année.
+[10] Il s'est rendu, à des fins personnelles, chez le barbier, à six reprises et chez son chiropraticien à dix reprises, faisant alors un long trajet et se rendant au commerce. Ce trajet consistait en un parcours de 15 km alors que celui pour aller chez le barbier consistait en 3 km. Il faisait donc dix fois 15 km et six fois 3 km, soit un total de 168 km au cours de l'année. Il a de plus mentionné qu'à la suite du traitement chez le chiropraticien, il en profitait pour se rendre au poste d'essence, réduisant ainsi considérablement le trajet de nature personnelle.
+[11] En réponse à la question du tribunal pour savoir quel véhicule il utilisait pour ses déplacements commerciaux et lequel il utilisait pour ses déplacements personnels, l'appelant a soutenu que la très grande majorité de ses déplacements personnels étaient faits au moyen du véhicule de sa compagne, de marque Ford Focus, pour éviter que sa Cadillac Séville ou sa Jaguar soit placée dans des terrains de stationnement publics.
+[12] Pour justifier un tel comportement assez particulier, l'appelant se décrit comme un passionné de belles voitures et a dit qu'il s'agissait de véhicules de collection.
+[13] À cet égard, le tribunal n'a pas compris qu'un véhicule faisant l'objet d'un contrat de location puisse être une voiture de collection.
+[14] Lors de la vérification, l'appelant a expliqué qu'il avait pris sa retraite depuis la période en litige; au cours de la période en litige, il a travaillé durant une certaine période. Durant cette période, son travail était situé à 35 km de sa résidence, soit un parcours de 70 km aller-retour. Il a dit qu'il n'avait en réalité pas travaillé pendant la totalité des jours ouvrables, étant donné qu'il avait accumulé au fil des ans et de sa carrière plusieurs congés de maladie et plusieurs congés qu'il n'avait pas pris, d'où le fait que durant les derniers six mois, il avait en quelque sorte profité de ses congés accumulés. Quant au reste, il a soutenu qu'il faisait partie d'un groupe qui faisait du covoiturage. La preuve n'a pas indiqué s'il utilisait la voiture de sa conjointe quand il devenait responsable du transport du groupe ou s'il était exclu de cette responsabilité à cause du genre de véhicule qu'il utilisait.
+[15] Appelé à décrire les véhicules que ses compagnons de travail utilisaient et qu'ils partageaient, il n'a pas été en mesure de le faire, ajoutant que l'écoulement du temps avait fait son oeuvre et qu'il ne s'en souvenait pas. Il s'agit là de quelque chose de très particulier pour quelqu'un qui se définit comme un passionné de l'automobile.
+[16] Les dispositions de la Loi sur la taxe d'accise sur cette question, à la partie IX, section 2, prévoient ce qui suit :
+170. (1) Restriction - Le calcul du crédit de taxe sur les intrants d'un inscrit n'inclut pas de montant au titre de la taxe payable par celui-ci relativement aux biens ou services suivants :
+[...]
+c) le bien fourni par bail, licence ou accord semblable au cours de la période de déclaration de l'inscrit, ou avant, principalement pour la consommation ou l'utilisation personnelles d'un des particuliers suivants au cours de cette période, sauf si l'inscrit a effectué au cours de cette période, au profit d'un tel particulier, une fourniture taxable du bien pour une contrepartie, qui devient due au cours de cette période, égale à la juste valeur marchande de la fourniture au moment où la contrepartie devient due :
+(i) si l'inscrit est un particulier, lui-même ou un autre particulier qui lui est lié,
+(ii) s'il est une société de personnes, le particulier qui en est un associé ou un autre particulier qui est le salarié, le cadre ou l'actionnaire de l'associé ou qui est lié à celui-ci,
+(iii) s'il est une personne morale, le particulier qui est son actionnaire ou un autre particulier qui est lié à celui-ci,
+(iv) s'il est une fiducie, le particulier qui est son bénéficiaire ou un autre particulier qui est lié à celui-ci.
+(2) Autre restriction - Le calcul du crédit de taxe sur les intrants d'un inscrit n'inclut pas de montant au titre de la taxe payable par celui-ci relativement à un bien ou un service qu'il a acquis, importé ou transféré dans une province participante, sauf dans la mesure où :
+a) d'une part, la consommation ou l'utilisation du bien ou du service, compte tenu de leur qualité, nature ou coût, est raisonnable dans les circonstances, eu égard à la nature des activités commerciales de l'inscrit;
+[...]
+280. (1) Pénalités et intérêts - Sous réserve du présent article et de l'article 281, la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer la pénalité et les intérêts suivants, calculés sur ce montant pour la période commençant le lendemain de l'expiration du délai et se terminant le jour du versement ou du paiement :
+[...]
+Analyse
+[17] D'entrée de jeu, je dois reconnaître que le procureur de l'appelant avait très bien préparé son dossier. Au soutien de la preuve, il a déposé une photo de l'emplacement, diverses cartes géographiques, une copie du relevé quotidien que l'appelant a complété pour l'année 2005, la convention de participation au programme « valeur plus » indiquant la nature et le genre des obligations qui liaient les parties à la convention intervenue entre l'appelant et la société pétrolière à laquelle il était associé, le registre d'opérations démontrant la fréquence des changements de prix et l'état des résultats pour les années en cause.
+[18] Malheureusement, une bonne préparation n'a pas pour effet de rendre crédible ce qui ne l'est pas, ni de rendre vraisemblable ce qui est invraisemblable. En effet, je n'accorde aucune crédibilité aux explications, qui m'apparaissent tout simplement invraisemblables, qu'une personne raisonnable utilise un véhicule de marque Cadillac Séville pour une certaine période et pendant une autre période un véhicule de marque Jaguar de l'an 2003, dont les coûts de location dépassent 800 $ par mois, en tenant compte que des dépôts ont été faits pour réduire au minimum les coûts mensuels, dans une proportion de plus de 95 % dans le cadre de l'exploitation d'un poste d'essence et dont l'essentiel de l'utilisation visait à visiter les stations concurrentes pour vérifier le prix.
+[19] Cette appréciation sévère de la qualité du témoignage de l'appelant m'apparaît validée par toute une série d'explications loufoques et tout aussi invraisemblables. Je fais notamment référence au fait que l'appelant a soutenu utiliser son véhicule à des fins personnelles d'une manière tout à fait marginale, voire même symbolique, ce qui est encore là tout à fait invraisemblable, d'autant plus que tout passionné de l'automobile trouve généralement plaisir à profiter dans un contexte idéal du véhicule qui fait sa fierté.
+[20] À la question du tribunal visant à savoir quelle voiture était utilisée pour les sorties personnelles et familiales, l'appelant a soutenu que la voiture de son épouse, une automobile ordinaire, de bas de gamme, de catégorie compacte ou sous-compacte, était celle utilisée, étant donné qu'il ne voulait pas stationner sa Cadillac ou sa Jaguar dans les terrains de stationnement publics des centres commerciaux.
+[21] Or, un véhicule ne sert pas exclusivement à se rendre à des centres commerciaux. Il existe plusieurs possibilités de sortie qui permettent de stationner un véhicule à des endroits sécuritaires sans risquer d'égratignure. Ces sorties sont d'ailleurs généralement plus nombreuses et fréquentes lorsqu'on est retraité.
+[22] Bien qu'il ne s'agit pas d'une année en litige, l'année 2005 est pertinente en ce que l'appelant a indiqué avoir fait sensiblement le même usage de l'automobile que durant les années en litige; or, au cours de l'année 2005, il aurait utilisé son véhicule à une dizaine de reprises pour se rendre chez le chiropraticien, prenant bien soin d'indiquer qu'il s'agissait là d'une visite dans le cadre d'un déplacement vers le poste d'essence, où il effectuait après chaque visite chez le chiropraticien la comptabilité hebdomadaire, et pour six sorties pour se rendre chez le barbier, soit 18 kilomètres.
+[23] L'appelant a expliqué qu'il en était ainsi étant donné qu'il avait une préoccupation pratiquement maladive de ne pas faire endommager son véhicule, véhicule qui, je le rappelle, faisait l'objet d'un contrat de location. Retraité pour la majeure partie des trois périodes en litige, l'appelant aurait utilisé un véhicule de catégorie plus ou moins sous-compacte pour ses déplacements personnels. Il aurait été probablement avantageux de ne pas pousser aussi loin une description qui, en fait, frise le ridicule.
+[24] La preuve ne me permet pas de fixer d'une façon fiable un quelconque pourcentage d'utilisation. Par contre, l'évaluation du ministre du Revenu national est non seulement raisonnable, elle est même, dans les circonstances, fort généreuse; il n'y a donc aucune raison que j'intervienne. Quant aux pénalités, je les confirme, eu égard à l'exagération manifeste des prétentions de l'appelant.
+[25] La personne chargée de la vérification du dossier a affirmé qu'elle en était arrivée à cette conclusion en raison du fait que le véhicule était le seul véhicule enregistré de l'appelant et qu'il n'existait aucun registre; elle a indiqué avoir tenu compte du genre de véhicule ainsi que du nombre de visites et a conclu avec raison qu'il y avait manifestement abus.
+[26] L'utilisation d'un registre est d'une certaine façon un élément de validation; il constitue une pièce de référence pertinente susceptible de permettre une appréciation d'une plus grande fiabilité, mais il n'est certainement pas suffisant pour mettre l'utilisateur d'un véhicule à l'abri d'une contestation quant au bien-fondé d'une description qui, à sa face même, est totalement déraisonnable.
+[27] Un registre est un instrument utile et approprié pour permettre de mesurer de façon mathématique l'utilisation d'un véhicule à moteur. La seule présence d'un tel registre n'est pas en soi suffisante pour conclure d'une manière absolue.
+[28] Il s'agit essentiellement d'un document approprié pour illustrer avec une plus grande précision et d'une manière plus fiable l'importance de l'utilisation d'un véhicule.
+[29] Comme toute comptabilité, tout compte rendu ou tout document, le registre peut faire l'objet d'une analyse afin d'en déterminer la qualité et le degré de fiabilité. D'ailleurs, l'existence d'un tel registre peut avoir exactement l'effet contraire à celui recherché si, par exemple, il est manifeste que le registre a été complété après coup ou d'une façon totalement arbitraire. Dans une telle hypothèse, cela dénote que l'auteur du compte rendu a possiblement voulu cacher ou masquer l'utilisation véritable du véhicule en cause.
+[30] En l'espèce, les explications soumises me sont apparues farfelues et tout simplement invraisemblables et cela, pour les nombreux motifs que j'ai énumérés. Je ne retiens donc pas les prétentions et les explications soumises par l'appelant au soutien de son appel et je conclus qu'il n'a pas relevé le fardeau de la preuve qui lui incombait. En conséquence, son appel est rejeté et la cotisation est confirmée, y compris pour les pénalités.
+Signé à Ottawa, Canada, ce 18e jour de mai 2006.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2006CCI159
+No DU DOSSIER DE LA COUR :
+2005-2119(GST)I
+INTITULÉ DE LA CAUSE :
+Pierre Bélanger et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+Le 1 mars 2006
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+Le 18 mai 2006
+COMPARUTIONS :
+Pour l'appelant :
+Me Daniel Cantin
+Pour l'intimée :
+Me Robert Poupart
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Daniel Cantin
+Étude :
+Ville :
+Gagné et LeTarte
+Québec (Québec)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,146 @@
+Title: Allen Adams O-A Miramichi Crafters c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26178/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-567-26178-allen-adams-o-a-miramichi-crafters-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-10-17
+
+# Allen Adams O-A Miramichi Crafters c. M.R.N.
+
+- Citation: 2003 CCI 567
+- Decision date: 2003-10-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3976, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Allen Adams O-A Miramichi Crafters c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-17
+Référence neutre
+2003 CCI 567
+Numéro de dossier
+2000-2438(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2000‑2438(EI)
+ENTRE :
+ALLEN ADAMS S/N MIRAMICHI CRAFTERS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 26 juin 2003 à Miramichi (Nouveau‑Brunswick)
+Devant : L’honorable juge suppléant S. J. Savoie
+Comparutions
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+Signé à Grand‑Barachois (Nouveau‑Brunswick), ce 17e jour d’octobre 2003.
+« S. J. Savoie »
+Juge suppléant Savoie
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Liette Girard, traductrice
+Référence : 2003CCI567
+Date : 20031017
+Dossier : 2000‑2438(EI)
+ENTRE :
+ALLEN ADAMS S/N MIRAMICHI CRAFTERS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Le présent appel a été entendu le 26 juin 2003 à Miramichi, au Nouveau‑Brunswick.
+[2] Il s’agit d’un appel interjeté à l’encontre d’une décision du ministre du Revenu national (le « ministre ») selon laquelle Suzanne Clancy, la travailleuse, occupait un emploi assurable auprès de l’appelant, du 28 mai au 15 août 1998, la période en litige, au sens de la Loi sur l’assurance‑emploi (la « Loi »).
+[3] Le ministre a informé l’appelant qu’il avait été décidé que l’emploi que la travailleuse occupait auprès de lui durant la période en litige était assurable parce que cette dernière était employée en vertu d’un contrat de louage de services.
+[4] En rendant sa décision, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[Traduction]
+a) l’appelant était le propriétaire unique d’une boutique où il vendait des objets d’artisanat locaux placés en consignation (la « boutique »);
+b) la travailleuse a été embauchée par l’appelant afin de créer des contacts avec des artisans pour l’aider à créer la boutique et à gérer les activités;
+c) l’appelant exploitait la boutique sous le nom de Miramichi Crafters, mais durant la période en litige, le nom n’était pas enregistré;
+d) l’appelant a ouvert un compte bancaire à son propre nom pour l’exploitation de la boutique;
+e) l’appelant possédait seul le pouvoir de signature à l’égard du compte bancaire susmentionné;
+f) l’appelant possédait l’édifice où il exploitait la boutique;
+g) l’appelant payait les services publics;
+h) l’appelant fournissait l’équipement nécessaire, comme la caisse enregistreuse;
+i) la travailleuse n’avait pas investi dans l’entreprise;
+j) la travailleuse prenait elle‑même 100 $ par semaine à partir de l’argent liquide disponible, pour un total de 1 100 $ durant la période en litige;
+k) la travailleuse a également reçu un chèque de l’appelant au montant de 563,74 $;
+l) l’appelant a remis un relevé d’emploi à la travailleuse indiquant un revenu de 624 $ et une période d’emploi du 26 mai au 13 juin 1998;
+m) l’appelant a remis un feuillet T4 à la travailleuse indiquant un revenu de 624 $;
+n) la travailleuse a été employée jusqu’au 15 août 1998;
+o) la travailleuse et l’appelant ont conclu un contrat de louage de services.
+[5] L’appelant admet les hypothèses de fait sur lesquelles s’est fondé le ministre et qui sont énoncées aux sous‑paragraphes d), e) et m), il réfute celles énoncées aux sous‑paragraphes a), b), f), g) et o) et il admet en partie les hypothèses des sous‑paragraphes c), h), i), j), k), l) et n).
+[6] Bien que l’appelant ait nié un certain nombre des hypothèses de fait du ministre, sa position n’a pas été appuyée par la preuve. Lorsqu’on l’a confronté au contenu de certains documents, comme sa propre demande de financement auprès du gouvernement, qui formaient le fondement même de certaines des hypothèses, il a offert une autre interprétation à ces documents qui était en contradiction flagrante avec le sens manifeste de leur libellé et, dans certains cas, qui allait à l’encontre du bon sens.
+[7] La boutique d’artisanat a ouvert le 26 mai 1998. Les lieux qui accueillaient la boutique étaient la propriété de Saddlers' Cafe Ltd., une société que possédait en totalité l’appelant qui en était l’unique actionnaire et administrateur. La société payait toutes les dépenses de l’édifice, notamment les taxes, l’assurance et les services publics.
+[8] L’appelant possédait et exploitait Saddlers' Cafe. À ce titre, il a fait paraître une offre d’emploi pour une serveuse. La travailleuse a abordé l’appelant pour l’emploi. Au cours d’une rencontre entre la travailleuse et l’appelant, le sujet de la création de la boutique d’artisanat s’est présenté. L’appelant l’a soulevé, et il a offert de fournir à cette boutique un espace vacant au deuxième étage, au‑dessus du restaurant. Le projet a été formulé en termes vagues au début, mais lors de rencontres subséquentes, il a commencé à prendre forme.
+[9] L’appelant a proposé de rénover l’espace vacant afin d’accueillir la boutique. La travailleuse, pour sa part, devait communiquer avec des artisans et obtenir leur adhésion à la boutique où leurs objets d’artisanat seraient placés en consignation. Elle était également responsable de la gestion et de l’exploitation de la boutique, alors que l’appelant exploitait son restaurant. Il a été convenu que la travailleuse exploiterait la boutique d’artisanat pour un salaire de 400 $ par semaine à compter de l’ouverture qui est survenue le 26 mai 1998.
+[10] La travailleuse n’a engagé aucune dépense pour l’établissement de la boutique à l’exception du faut qu’elle a apporté ses propres objets d’artisanat à vendre, un panier pour les placer ainsi qu’une vieille caisse en noyer.
+[11] L’appelant a apporté une caisse enregistreuse et certains comptoirs et étagères empruntés à des parents.
+[12] L’appelant a demandé une subvention d’aide au projet auprès du gouvernement provincial en vertu du Programme de partenariat. La demande a été rejetée parce que le projet comptait déjà une employée salariée, soit la travailleuse.
+[13] Malgré que le salaire convenu était estimé à 400 $ par semaine, il est devenu évident dès le début que la boutique ne pouvait supporter ce type de dépense, et on a convenu que la travailleuse prendrait 100 $ par semaine pour couvrir ses frais de garde d’enfants.
+[14] La travailleuse veillait à la gestion et à l’exploitation de la boutique, elle était la personne‑ressource auprès des artisans et elle s’occupait du travail de bureau. Elle payait les artisans une fois par mois pour les articles vendus conformément à l’accord de consignation. La Cour a consulté la demande de financement de l’appelant en vertu du Programme de partenariat susmentionné qui a été déposée sous la cote R‑2. L’appelant l’a signée le 16 juillet 1998. Dans sa demande, il décrit la travailleuse comme une commis à la gestion de la boutique d’artisanat. En outre, il déclare que la travailleuse possède de l’expérience dans le commerce de détail local, qu’elle a la capacité de traiter avec les clients et les fournisseurs et qu’elle peut s’occuper de la tenue de livres.
+[15] Il établit ses tâches pour ce qui est de l’exploitation de la partie du commerce de détail de l’entreprise, soit la réception des produits des fournisseurs, la vente des produits à des clients et le dépôt bancaire ainsi que le paiement des fournisseurs.
+[16] L’appelant exploitait son restaurant et il avait des contacts quotidiens avec la travailleuse qui lui faisait des comptes rendus. L’appelant a ouvert un compte bancaire pour la boutique à son propre nom et il était le seul à posséder un pouvoir de signature à son égard.
+[17] Il a été établi que la travailleuse a travaillé pendant douze semaines et qu’elle a été payée pour onze semaines à 100 $ par semaine. De toute évidence, les parties reconnaissaient que la travailleuse était sous‑payée, mais l’appelant promettait continuellement l’arrivée prochaine de fonds. La travailleuse a également reçu un montant de 563,74 $ le 17 septembre.
+[18] L’appelant a prétendu licencier la travailleuse afin d’être admissible au Programme de partenariat et il a émis des relevés d’emploi qu’il a signés. Ils sont déposés en preuve sous la cote R‑6 et R‑7. Les relevés d’emploi indiquent le motif du licenciement :
+[Traduction]
+incapable de conserver le niveau d’emploi en raison des coûts de démarrage.
+[19] En contre‑interrogatoire, l’appelant n’a pu expliquer comment le projet est né, parlant en termes vagues de sa rencontre avec la travailleuse pour discuter d’un projet commun.
+[20] Il ne se rappelait pas que la travailleuse avait posé sa candidature pour un poste de serveuse au Saddlers' Cafe.
+[21] La boutique ne payait pas de loyer à l’appelant.
+[22] Il n’a pu expliquer comment le prix de vente des objets d’artisanat était fixé.
+[23] Il a poursuivi en expliquant que le programme d’aide pour lequel il avait présenté une demande exigeait un relevé d’emploi et des feuilles du livre de paie. Il a ajouté qu’il s’efforçait d’adapter l’emploi de la travailleuse afin d’obtenir l’aide requise du programme d’aide gouvernementale. Il a expliqué que la demande d’aide avait été rejetée parce qu’il y a eu un ralentissement des activités. Cependant, on l’a confronté avec la lettre du ministère du Travail de la province du Nouveau‑Brunswick signée par Maurice Vautour, agent de la création d’emplois, déposée en preuve sous la cote R‑3, qui indique un motif tout à fait différent, soit que l’employée, la travailleuse, était déjà en place.
+[24] La travailleuse a demandé qu’une décision soit rendue en vertu de la Loi sur les normes d’emploi, alléguant qu’en tant qu’employée, elle n’avait pas reçu de salaire ni de paie de vacances auxquels elle avait droit dans le cadre de la gestion d’une boutique d’artisanat, propriété de l’appelant.
+[25] Sa plainte a fait l’objet d’une enquête et, à la suite de la recommandation de l’agent des normes d’emploi, le directeur a ordonné à l’appelant de verser à la travailleuse le montant de 3 136,26 $, qui représente 3 015,63 $ en salaire, plus 120,63 $ à titre de paie de vacances. L’appelant a renvoyé l’affaire devant la Commission du travail et de l’emploi qui a confirmé l’ordonnance du directeur.
+[26] On a posé des questions à l’appelant à ce sujet, et il a déclaré qu’il ne pouvait se rappeler s’il avait interjeté appel à l’encontre de cette décision. La travailleuse a cependant indiqué dans son témoignage qu’elle ne savait pas si cette décision avait fait l’objet d’un appel et que l’appelant ne lui avait jamais versé le montant octroyé.
+[27] Je crois qu’il est utile de citer l’extrait suivant de cette décision signée par Eugene McGinley, président, Commission du travail et de l’emploi, datée du 9 juin 1999 :
+[Traduction]
+Lorsque Mme Clancy a abordé M. Adams au début, elle cherchait un emploi de serveuse. La preuve a finalement révélé qu’elle a travaillé pour lui comme gestionnaire d’une entreprise naissante d’un commerce de détail d’artisanat. L’entreprise elle‑même avait pris naissance sur l’initiative de M. Adams et devait être exploitée sous sa supervision dans un établissement où se trouvait son restaurant. Même si la preuve n’indique pas si M. Adams était le propriétaire ou simplement l’occupant de l’édifice, il appert qu’il contrôlait tout l’établissement et que c’était lui, en tant que propriétaire, qui s’était personnellement occupé de la rénovation des lieux et qui a gardé le contrôle à la suite du licenciement de Mme Clancy. Il semble que M. Adams était heureux d’accepter les conseils de Mme Clancy pour ce qui est de l’exploitation de l’entreprise, mais même si elle gérait les activités quotidiennes, M. Adams semble avoir conservé le contrôle, comme on le constate particulièrement en ce qui concerne l’exploitation d’un compte bancaire. Selon la Commission, c’est M. Adams qui était essentiellement le propriétaire. Il était celui qui aurait profité de la rentabilité de l’entreprise et qui prenait les risques et a subi la perte. L’opinion de la Commission est appuyée par une affaire souvent citée, Montreal v. Montreal Locomotive Works Ltd. [1947] 1 D.L.R. 161. En outre, la Commission est parvenue à cette conclusion après avoir réfléchi au fait que le relevé d’emploi indiquait clairement que Mme Clancy était une employée. Que le relevé d’emploi ait ou non été simplement émis de façon factice pour améliorer la demande de participation de M. Adams au Programme de partenariat, la Commission est d’avis qu’une personne ne devrait pas être autorisée, comme on le dit parfois « à parler des deux côtés de la bouche en même temps » afin de profiter de programmes d’aide publique.
+La Commission confirme l’ordonnance no 0990305 du directeur.
+[28] Le ministre fonde sa décision sur la législation en vertu de l’alinéa 5(1)a) de la Loi, qui est ainsi rédigé :
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[29] Les critères à considérer pour déterminer si la travailleuse était employée par l’appelant en vertu d’un contrat de louage de services ont été établis par la Cour d’appel fédérale dans une affaire souvent citée, Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (87 DTC 5025).
+[30] Contrôle : La preuve a démontré que la travailleuse faisait souvent rapport à l’appelant. En particulier, la travailleuse avait besoin d’une permission pour quitter la boutique à 17 h. L’appelant établissait le prix des objets d’artisanat vendus, une marge de 33 p. 100. La travailleuse n’avait pas le pouvoir de signature à la banque.
+[31] Propriété des instruments de travail : L’exploitation de l’entreprise nécessitait un minimum d’instruments, néanmoins la caisse enregistreuse a été fournie par l’appelant, tout comme les comptoirs et les étagères. Les lieux étaient fournis par l’appelant.
+[32] Chance de profit et risque de perte : Ce critère a été considéré par l’appelant lui‑même qui a rédigé une lettre au chef des appels qui a été déposée en preuve sous la cote R‑8. Voici un extrait de cette lettre :
+[Traduction]
+[...]
+Les conditions de son emploi ne lui permettaient pas de réaliser un profit ou de s’exposer à un risque de perte.
+Comme je l’ai mentionné plus tôt, puisque ses conditions d’emploi étaient fondées sur un partenariat avec moi, cela ne lui permettait pas de réaliser un profit ou de subir des pertes. Si le projet pilote avait été un succès, la boutique d’artisanat serait déménagée dans un édifice plus grand et elle serait devenue la gestionnaire générale de la nouvelle boutique. Pour que le projet soit un succès, toutes les factures devraient être payées pour le projet de démarrage, tout comme un salaire raisonnable devait être versé à Suzanne. Je considérerais que cela comme un profit potentiel.
+Si ce projet pilote n’avait pas connu de succès, le projet plus important n’aurait pas été tenté. L’échec du projet serait déterminé si, à la fin de la saison, des factures étaient impayées et s’il n’y avait pas suffisamment de recettes ou de financement pour indemniser Suzanne pour son temps. Cela exposerait Suzanne au risque de perdre un emploi possible à plein temps.
+[...]
+[33] Intégration : Comme la travailleuse était la gestionnaire et qu’elle exploitait l’entreprise, ses fonctions étaient très intégrées à la boutique d’artisanat dans la mesure où sans elle le projet n’aurait pu avoir lieu à moins qu’une autre personne exerce ces fonctions.
+[34] L’analyse des faits en litige tels qu’ils ont été établis par la preuve orale et documentaire selon les critères susmentionnés ne laisse aucun doute quant au fait que la nature du travail effectué par la travailleuse établit l’existence d’une relation employeur‑employé entre l’appelant et elle. Elle qualifie un contrat de louage de services comme le définit l’alinéa 5(1)a) de la Loi.
+[35] Le fardeau de la preuve repose sur l’appelant selon la prépondérance des probabilités.
+[36] Comme l’a indiqué la Cour à de nombreuses occasions, l’affaire Elia c. Canada (ministre du Revenu national – M.R.N.), [1998] A.C.F. no 316, entendue par la Cour d’appel fédérale, étaye la proposition selon laquelle les hypothèses de fait du ministre sont considérées admises par l’appelant à moins qu’il les désapprouve précisément. L’appelant a omis de faire cela.
+[37] En outre, le témoin appelé par l’intimé ainsi que la preuve documentaire déposée ont été concluants puisqu’ils ont permis à la conclusion du ministre de dépasser la norme de preuve requise de sa part.
+[38] L’appelant et la travailleuse ont tous les deux témoigné et ont donné une version complètement différente l’une de l’autre.
+[39] La Cour devait évaluer les témoignages entendus et les comparer avec le reste de la preuve. Dans le cadre de cet exercice, il est devenu évident à la lecture des notes du procès que le témoignage de l’appelant était souvent hésitant, ambigu et en général vague et évasif. Il a été contredit par le témoignage de la travailleuse, les documents déposés en preuve, souvent les siens, et les conclusions de la Commission du travail et de l’emploi du Nouveau‑Brunswick.
+[40] En conséquence, selon l’ensemble de la preuve, la Cour conclut que la travailleuse occupait auprès de l’appelant un emploi assurable au sens de l’alinéa 5(1)a) de la Loi pendant la période en litige parce qu’un contrat de louage de services a été conclu entre eux.
+[41] L’appel est donc rejeté et la décision du ministre est confirmée.
+Signé à Grand‑Barachois (Nouveau‑Brunswick), ce 17e jour d’octobre 2003.
+« S. J. Savoie »
+Juge suppléant Savoie
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Liette Girard, traductrice

@@ -1,0 +1,133 @@
+Title: Maple Tree Community Housing Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/236742/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-218-236742-maple-tree-community-housing-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-10-30
+
+# Maple Tree Community Housing Corporation v. The Queen
+
+- Citation: 2017 TCC 218
+- Decision date: 2017-10-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2166, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maple Tree Community Housing Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-10-30
+Neutral citation
+2017 TCC 218
+File numbers
+2017-855(GST)APP
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-855(GST)APP
+BETWEEN:
+MAPLE TREE COMMUNITY HOUSING CORP.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Application heard on May 15, 2017, at London, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Agent for the Applicant:
+D. Robert Evans
+Counsel for the Respondent:
+Charlotte Deslauriers
+JUDGMENT
+WHEREAS the Applicant filed application for an extension of time to file a Notice of Objection under the Excise Tax Act (Canada) for the GST/HST New Residential Rental Property Rebate;
+AND WHEREAS the application was filed beyond the applicable legislated time period and this Court does not have jurisdiction to extend that legislated time period for the Applicant to file a Notice of Objection for the said Rebate;
+THEREFORE this application for extension of time to file a Notice of Objection for the GST/HST New Residential Rental Property Rebate is dismissed, without costs.
+Signed at Ottawa, Canada, this 30th day of October 2017.
+“B. Russell”
+Russell J.
+Citation: 2017 TCC 218
+Date: 20171030
+Docket: 2017-855(GST)APP
+BETWEEN:
+MAPLE TREE COMMUNITY HOUSING CORP.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+[1] These are reasons for decision in the application under section 304 of the federal Excise Tax Act (Act) of the corporate entity Maple Tree Community Housing Corporation (Maple) for extension of time to file a notice of objection. The issue is whether the application was filed on a sufficiently timely basis to permit it to be allowed.
+[2] Subsection 304(5) of the Act specifies that no section 304 application to this Court may be granted unless, amongst other things, an application for extension of time to file a notice of objection had been made to the Minister of National Revenue (Minister) per section 303 of the Act within one year following the ninetieth day after the making (and mailing) of the assessment intended to be objected to. The issue in this matter is whether this application has been made on a timely basis.
+[3] Maple is a not-for-profit corporation incorporated in 2007 principally by two faith-based communities in Goderich, Ontario, to build a multi-unit affordable housing complex for qualifying occupants. The funding for this commendable project was provided by the Province and by Huron County (HC), of which Goderich is the county seat. The evidence of Robert Evans, a volunteer principal of Maple, was that after carrying out construction of the relevant 12 unit building, funded through public monies as aforesaid, in spring of 2013 Maple submitted to the Minister an application for a GST/HST New Residential Rental Property Rebate.
+[4] The Minister received this Rebate application April 17, 2013. About a month later, on May 14, 2013 the Minister received from Maple a second Rebate application. Both were based on expenses incurred in respect of the said housing complex.
+[5] In the days following, Canada Revenue Agency (CRA) caused a Rebate amount of approximately $35,000 to be paid into Maple’s bank account.
+[6] Thereafter the Minister on June 6, 2013 responded to the later filed (on May 14, 2013) Rebate application, denying it. The amount shown on the related notice of (re)assessment as assessed was nil.
+[7] An email dated June 27, 2013 to a Maple principal from local accountant Ron Burt, CA (Ex. A-11), acting in a volunteer capacity on behalf of Maple, states that earlier that month CRA had sought additional information pertaining to the Rebate applications. In that month and continuing at least to some extent there was communication between Mr. Burt’s firm on behalf of Maple, and CRA.
+[8] The Burt email states that CRA was seeking of Maple,
+… to self assess on HST and therefore be responsible for paying HST on the FMV of building and getting a reduced amount in rebate back.
+It states also that Mr. Burt’s accounting firm tried to clarify the situation with the CRA representative and that the latter recommended the matter be referred to CRA Rulings, and that Mr. Burt’s firm concurred with that. The email says also that,
+Our firm has made initial contact with CRA rulings branch and are in the process of working through the situation. Our expectation is that we should get a clear understanding on how CRA would like to treat CRA [sic, presumably Maple intended] before the end of July. At that time Mapletree will need to decide if the treatment is correct from [its] perspective.
+[9] The email then states, “If Mapletree disagrees then objections can be filed.” It concludes by stating that the amount involved could exceed $100,000 and that Maple treasurer George Land has delivered information to the accountant “that will help with the Rulings branch”.
+[10] Shortly thereafter, on July 17, 2013 the Minister denied the Rebate application received April 17, 2013. The related reconstructed notice of (re)assessment showing mailing date of July 17, 2013, stated an amount assessed of $36,411.
+[11] The ninetieth day following the aforementioned June 6, 2013 and July 17, 2013 assessment dates were, respectively, September 4, 2013 and October 15, 2013. The Respondent says that no notice of objection was filed by Maple within either of these two ninety day periods.
+[12] Further, the Respondent maintains, without evidence from Maple suggesting otherwise, that no section 303 application for extension of time to file a notice of objection in respect of either assessment was filed with the Minister within one year following the last day of either of the two said ninety day periods. The expiry dates of those two one year periods commencing October 15, 2013 and September 4, 2013 were October 15, 2014 and September 4, 2014 respectively.
+[13] Maple filed with the Minister on January 4, 2016 a purported notice of objection in respect of both 2013 assessments. It is a letter dated December 30, 2015 signed by Mr. Evans. In response, on February 2, 2016 the Minister sent a letter so dated to Maple, informing that the purported notice of objection filed January 4, 2016 could not be accepted as a validly filed notice of objection as it not been filed within either of the two pertinent ninety day periods aforementioned. The letter advised also that an application for extension of time to file a notice of objection could not now be granted as the applicable one year period for each of the two subject assessments, also aforementioned, had expired. Thereafter the herein application was filed with this Court on February 23, 2017, i.e. more than a year later.
+[14] At the hearing of this application Messrs. Burt and Land each testified. Mr. Burt stated that sometime after his email of June 27, 2013 he had prepared a notice of objection. Mr. Burt had no file or other copy of the notice of objection that he said he had drafted. He said he drafted it on a date close to the deadline, but could not be more precise as to when. Mr. Land was to pick it up and mail it. Mr. Burt said he assumed that had happened. Mr. Land, outside the courtroom during Mr. Burt’s testimony, subsequently testified that he arrived at Mr. Burt’s office “and they filled out the form” for the notice of objection, referring to himself and Mr. Burt. He thought it was late on a Friday, but could not be more specific. He says he took it and mailed it to CRA Appeals in Summerside, PEI.
+[15] I have difficulty with this testimony, based purely on memory of over four years ago, over and above the fact that the Minister says no notice of objection was ever received. First, there is no file, or file copy or other copy whatsoever of any such notice of objection available, notwithstanding that this pro bono work was done in an accounting firm office. Nor does Mr. Land have any copy or other documentary corroboration. Messrs. Burt and Land’s accounts differ significantly - the former says he prepared the notice of objection and left it for the latter to pick up, and the latter says they both “filled out the form”.
+[16] Also, I question this because there are no subsequent references throughout the active timeline of this matter indicating that either of these persons or anyone else from Maple ever sought follow-up regarding the notice of objection ostensibly sent - so as to resend it or make then rather than only now an application for extension of time to file or refile.
+[17] Lastly, the above-referenced December 30, 2015 letter from Maple to CRA received January 4, 2016, taken as being a purported notice of objection, consists of a four page chronology of pertinent events. In this chronology there is no reference, suggestion or claim that any notice of objection previously had been filed or that there had been any attempt to so file. There is a statement in the letter recounting, in respect of a CRA officer saying to Mr. Evans by telephone in late-December 2015 that a notice of objection should have been filed “years ago”, that “[w]e certainly have been led to believe that our matter had merit, and that it was being looked into by CRA.”
+[18] Maple submits that in all the circumstances it should be considered as having constructively filed a notice of objection. What are these circumstances?
+[19] I do not intend to repeat all the evidence. Mr. Evans testified that in mid-2013 more funding was granted by the Province and by HC. HC then held the granted money and took over from Maple as project manager of the affordable housing project. This at least initially was welcomed by the volunteers of Maple, who had been managing this housing project. The July 17, 2013 notice of (re)assessment or a copy thereof was forwarded by Maple to HC on or before December 2013. HC was said to be wearing two hats - custodian of the project funds and spender of the funds. In late 2013 and moving into 2014 Maple sought from HC copies of records of spending by HC so Maple could get its financial statements prepared. Maple was the owner of the affordable housing building.
+[20] Apparently HC was not forthcoming with the records, and a major dispute in this regard arose between HC and Maple. This dispute was worsened by the discovery that HC had claimed input tax credits (ITCs) on this project based on the expenditures it had made. This prevented Maple from making, as it had intended, its own further GST/HST submission for refund, from which proceeds Maple had anticipated it could pay off the subject assessed sum.
+[21] By this time, in early 2014, CRA Collections was calling. Ex. A-17 is a copy of an email from Mr. Evans showing date of January 9, 2013 but presumably from context of the message itself the actual date was in or about early 2014. I hasten to add I attribute no improper motive for this mistaken date. The email is to Mr. Land it asks that he handle follow-up of a call from CRA. It seems this was CRA Collections calling. The email makes mention of intent to try to pay the owed amount through
+..many hundreds of thousands of dollars spent since the HST refund was applied for and paid to us, no doubt for which we should be claiming some HST Refund, and that, if this present Claim is valid (and I’m not sure that it fully is), hopefully there will be some credit balance resulting which could offset the Claim.
+It was after this that Maple determined that HC had submitted for ITCs and resultant refunds, that Maple considered it should have been able to seek.
+[22] Maple then engaged a local law firm to seek a ruling from CRA. The ruling request, submitted February 13, 2014, was to confirm Maple was right in its dispute with HC as to who properly could claim ITCs and accordingly a GST/HST refund for expenditures HC had incurred, ostensibly as agent for Maple in completing work on the building that Maple owned and operated. From my understanding of the record, nothing definitive came of this ruling request. It is hardly mentioned if at all after having been submitted.
+[23] As well, Maple obtained an “expert” opinion from an accounting firm dated March 1, 2015 in respect of its dispute with HC, to the effect that Maple was entitled to the funds HC had managed and thus was entitled, rather than HC, to submit a further rebate or refund application based on the further work done. Again Maple’s plan was that these further monies could be used to pay back the Rebate received in 2013 that had to be repaid.
+[24] Maple also took steps to discuss this with CRA, particularly with calls coming in from Collections. In mid-2015 Maple sent to a CRA Collections officer in B.C. a detailed and documented submission telling the whole story from Maple’s perspective to see what could be done. No response was received; it appears that this Collections officer was reassigned off the Maple file, and the matter had been left without timely response and sometime thereafter was referred to another CRA officer.
+[25] Also, the above noted December 30, 2015 letter signed by Mr. Evans was sent to the CRA Appeals office in Sudbury, Ontario. It states in part, as referred to above, that,
+In a telephone discussion a week ago with Ms. Mayzes, she indicated that Maple Tree should have filed an Objection years ago. We certainly have been led to believe that our matter had merit, and that it was being looked into by CRA.
+Analysis and Conclusion [26] Maple submits that the circumstances as a whole support the granting of this application to extend time to file a notice of objection. In this regard, Maple principally cites the decision of Schneidmiller v Her Majesty, 2009 TCC 354.
+[27] In the case of Maple, the applicable 90 day periods for filing a notice of objection for either or both of the subject assessments passed on September 4, 2013 and October 15, 2013. No notice of objection was filed, nor anything else that could reasonably be construed as a notice of objection, by either of these two dates. Nor was there any attempt to so file, until early 2016 when CRA received Maple’s letter dated December 30, 2015 and construed it as being an intended notice of objection. Unfortunately the legislated time period of one year from expiry of the applicable 90 day period for seeking an extension of time to file a notice of objection had long past for each of the two subject assessments - by September 4, 2014 and October 15, 2014. Indeed these dates had passed the better part of a year before even the package of materials was assembled and sent to the B.C. based CRA Collections officer.
+[28] In retrospect, it seems Maple may have allowed itself to become unduly preoccupied with its dispute with HC. A ruling was requested re the legal situation vis-a-vis HC in early 2014 and an expert opinion on the same topic was prepared in early 2015. Perhaps the lack of focus in the meantime on the subject assessments and the time requirements for filing a notice of objection were, at least in part that Maple seemed to have adopted the view that those assessments were not at least entirely in error and that the solution ultimately was in a further GST/HST rebate or refund application that Maple intended to make that could generate the funds to repay the earlier Rebate in 2013 that the Minister had assessed as being required to be paid back. But the dispute with HC prevented, delayed or rendered more difficult the making of that further GST/HST application. Whether Maple has any valid legal claim against HC in this situation, which has only been generally set out herein, is not for this Court to opine on.
+[29] As for the Schneidmiller decision, in that case the taxpayer had received notices of reassessment that he disagreed with, so well within the applicable 90 day period he contacted CRA to discuss. CRA sent him “T1 Adjustment Request” forms to fill out and submit, which the taxpayer did, still well within the applicable 90 day period. These completed forms were lost by CRA apparently. So, after the taxpayer had followed up by enquiry, the taxpayer was provided, and he completed and submitted, fresh such forms, by now being 18 months after the subject reassessments. Thereafter he was advised to file a notice of objection which he did but by then the taxpayer was well beyond the 90 days plus a year period for extension of time.
+[30] What Beaubier, J. of this Court did in that case, on the application for extension of time to file a notice of objection, was recognize the initial T1 Adjustment Request forms which CRA had given the taxpayer and which the taxpayer dutifully completed and submitted to CRA, well within the applicable 90 day period, as substantively being notices of objection. The taxpayer thus was successful.
+[31] However I am unable to apply that decision to this case at bar. In this present case, there is no evidence of anything particularly expressing objection having been filed with CRA within the applicable 90 day periods, or thereafter. Even the package of materials sent in 2015 to the CRA Collections officer in B.C. occurred, as noted above, well beyond the applicable 90 day periods and as well the better part of a year after expiry of the herein applicable one year periods ending September 4, 2013 and October 15, 2013 for seeking an extension of time.
+[32] Here the time period legislatively provided per section 304 of the Act for making an application for extension of time was egregiously exceeded. The time periods expired in September and October of 2014. This application for extension of time was not brought until February of 2017, approximately 2.5 years later. As stated above, subsection 304(5) specifies that no section 304 application may be granted unless the application for extension had been made to the Minister per section 303 within one year following the applicable 90 day period.
+[33] Therefore, and with all due respect for the good works of Maple in instituting this affordable housing project in its home community, I conclude that this application must be dismissed, albeit without costs.
+Signed at Ottawa, Canada, this 30th day of October 2017.
+“B. Russell”
+Russell J.
+CITATION:
+2017TCC218
+COURT FILE NO.:
+2017-855(GST)APP
+STYLE OF CAUSE:
+MAPLE TREE COMMUNITY HOUSING CORP. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+May 15, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+October 30, 2017
+APPEARANCES:
+Agent for the Applicant:
+D. Robert Evans
+Counsel for the Respondent:
+Charlotte Deslauriers
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

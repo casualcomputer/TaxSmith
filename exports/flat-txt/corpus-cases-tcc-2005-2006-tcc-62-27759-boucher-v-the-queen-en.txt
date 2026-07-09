@@ -1,0 +1,33 @@
+Title: Boucher v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27759/index.do
+Corpus path: corpus/cases/tcc/2005/2006-tcc-62-27759-boucher-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-12-06
+
+# Boucher v. The Queen
+
+- Citation: 2006 TCC 62
+- Decision date: 2005-12-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 312, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boucher v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-06
+Neutral citation
+2006 TCC 62
+File numbers
+2005-363(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Your browser's JavaScipt is disabled. Please download the PDF via the PDF icon.

@@ -1,0 +1,474 @@
+---
+title: "ARCHIVED - Excise and GST/HST News - No. 102"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news102/news102-excise-gst-hst-news-no-102-july-2017.html
+last_modified: 2017-07-28
+---
+# ARCHIVED - Excise and GST/HST News - No. 102
+
+## Table of Contents
+
+- [Voluntary Disclosures Program public consultation](#_Toc485296428)
+
+- [Federal Budget 2017](#_Toc485296429)
+
+    - [Excise Tax Act GST/HST measures](#_Toc485296430)
+
+          - [Taxi and ride-sharing services](#_Toc485296431)
+
+          - [GST/HST rebate to non-residents for tour package accommodations](#_Toc485296432)
+
+          - [Opioid overdose treatment drug – naloxone](#_Toc485296433)
+
+    - [Excise duties on tobacco products](#_Toc485296434)
+
+    - [Excise duties on alcohol products](#_Toc485296435)
+
+    - [Previously announced measures](#_Toc485296436)
+
+- [Applying the HST rate increases in New Brunswick, Newfoundland and Labrador, and Prince Edward Island to reimbursements](#_Toc485296437)
+
+- [New regulation related to the Quebec sales tax](#_Toc485296438)
+
+- [Tsawwassen First Nation implements the First Nations Goods and Services Tax](#_Toc485296439)
+
+- [ABM services supplied by merchants](#_Toc485296440)
+
+- [Non-compliance hold on refunds reminder](#_Toc485296441)
+
+- [Updating the mail-out preference of your GST/HST return](#_Toc485296442)
+
+- [Changes to Form RC59 after May 15, 2017](#_Toc485296443)
+
+- [Prescribed rates of interest](#_Toc485296444)
+
+- [What’s new in publications](#_Toc485296445)
+
+- [Contact us](#_Toc485296446)
+
+## Voluntary Disclosures Program public consultation
+
+The Canada Revenue Agency (CRA) is undertaking a comprehensive review of its Voluntary Disclosures Program. This program provides taxpayers with an opportunity to voluntarily come forward and correct previous omissions in their dealings with the CRA. It applies to disclosures relating to GST/HST, excise tax, excise duties under the Excise Act, 2001, charges under the Air Travellers Security Charge Act and the Softwood Lumber Products Export Charge Act, 2006, as well as income tax and source deductions.
+
+On June 9, 2017, the CRA launched a 60-day online consultation with Canadians about the CRA’s proposed changes to its Voluntary Disclosures Program. During this period the CRA is seeking input from the public on the proposed changes to the program to ensure that it is more responsive, innovative, and fair for all Canadians.
+
+The consultations will assist the CRA in determining the next steps for the Voluntary Disclosures Program. It is expected that the CRA will announce formal changes to the program in the fall of 2017.
+
+For more detailed information and to read the draft publications, go to the Consulting with Canadians on the Voluntary Disclosures Program webpage.
+
+Please send your email comments to **vdpconsultsg@cra-arc.gc.ca** by August 8, 2017.
+
+## Federal Budget 2017
+
+On March 22, 2017, the Minister of Finance tabled [Budget 2017](https://www.fin.gc.ca/n17/17-017-eng.asp) which proposed to amend the [Excise Tax Act](https://laws-lois.justice.gc.ca/eng/acts/E-15/index.html), the [Excise Act](https://laws-lois.justice.gc.ca/eng/acts/E-14/index.html) and the [Excise Act, 2001](https://laws-lois.justice.gc.ca/eng/acts/E-14.1/index.html). Budget 2017 also confirmed the Government’s intention to proceed with certain previously announced measures relating to the GST/HST. See the [March 22, 2017, Department of Finance News Release](https://www.fin.gc.ca/n17/17-017-eng.asp) for related information.
+
+Many of the proposed measures have been included in Bill C-44, the Budget Implementation Act, 2017, No. 1, which received Royal Assent on June 22, 2017 and is now referred to as Statutes of Canada, 2017, c. 20.
+
+The measures included in the Budget Implementation Act, 2017, No. 1 amend the Excise Tax Act, the Excise Act, and the Excise Act, 2001 in the following ways:
+
+### Excise Tax Act GST/HST measures
+
+#### Taxi and ride-sharing services
+
+To ensure that the GST/HST applies consistently to taxi services and ride-sharing services, the Budget Implementation Act, 2017, No. 1 amends the definition of “taxi business” for GST/HST purposes to also include commercial ride-sharing services, effective July 1, 2017.
+
+The definition of “taxi business” has been amended to generally also include a business of transporting passengers for fares by motor vehicle within a municipality and its environs if the transportation is arranged or coordinated through an electronic platform or system, such as a mobile application or website. It will only include transportation that is supplied in the course of a commercial activity. It will not include the school transportation of elementary or secondary students or a sightseeing service.
+
+As a result of this amendment, effective July 1, 2017, providers of taxable commercial ride-sharing services are subject to the special GST/HST rules that currently apply to taxi operators. By this date, self-employed commercial ride-sharing service drivers who supply such services are therefore required to be registered for GST/HST purposes, even if their annual taxable ride-sharing revenues do not exceed the small supplier threshold of $30,000, and to collect GST/HST on those services. Such drivers who are small suppliers are only required to be registered in respect of their ride-sharing service activities. However, they may choose to have their registration also apply to their other commercial activities. Additional information regarding the obligations and entitlements of businesses that are GST/HST registrants can be found on the [GST/HST for businesses](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html) webpage.
+
+Commercial ride-sharing service drivers are encouraged to register as soon as possible. When applying for registration, they may request that their registration only become effective as of the July 1, 2017, effective date.
+
+The simplest way to register for GST/HST purposes is to do so electronically by using [Business Registration Online](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/registering-your-business/business-registration-online-overview.html). [Other means of registration](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/registering-your-business/register.html) may also be used, such as by mail, fax or phone.
+
+As GST/HST registrants, commercial ride-sharing drivers are required to report and remit GST/HST, which may be done electronically and by other means. For further information, refer to [GST/HST Info Sheet GI-196, GST/HST and Commercial Ride-sharing Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-196.html).
+
+For additional information, please call Business Enquiries at 1-800-959-5525.
+
+#### GST/HST rebate to non-residents for tour package accommodations
+
+Generally, a rebate is currently available under the [Foreign Convention and Tour Incentive Program](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/foreign-convention-tour.html) (FCTIP) to non-resident individuals and non-resident tour operators for the GST/HST that is payable in respect of the Canadian short-term accommodation or camping accommodation portion of eligible tour packages.
+
+Budget Implementation Act, 2017, No. 1 repeals this rebate. A rebate under FCTIP will continue to be available for certain expenses related to foreign conventions.
+
+The repeal of the rebate applies in respect of a supply of a tour package or accommodation made after March 22, 2017. Thus, the rebate continues to be available in respect of a supply of a tour package or accommodation made on or before March 22, 2017, regardless of when the consideration for the supply is paid or the tour takes place. As a transitional measure, the rebate will continue to be available in respect of a supply of a tour package or accommodation made after March 22, 2017, but before January 1, 2018, if all of the consideration for the supply is paid before January 1, 2018.
+
+For GST/HST purposes, the entering into of an agreement to provide property or a service is generally deemed to be a supply of the property or service made at the time of the entering into the agreement and the actual provision of the property or service is deemed to be part of that supply. Go to the [Foreign Convention and Tour Incentive Program](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/gst-hst-rebates/foreign-convention-tour.html) webpage for further information.
+
+#### Opioid overdose treatment drug – naloxone
+
+Prescription drugs and certain non-prescription drugs that are used to treat life-threatening conditions are relieved (zero-rated) from the GST/HST.
+
+Naloxone (including its salts, such as naloxone hydrochloride) is a drug used to treat opioid (e.g., fentanyl) overdose. Prior to March 22, 2016, naloxone was only available by prescription and it was zero-rated for GST/HST purposes as a prescription drug. On March 22, 2016, Health Canada removed the requirement for a prescription when naloxone is indicated for emergency use for opioid overdose. As such, supplies of naloxone where a prescription was not required no longer qualified for GST/HST relief.
+
+Effective for supplies made after March 21, 2016, Budget Implementation Act, 2017, No. 1 zero-rates non-prescription supplies of naloxone (including its salts) by adding it to the list of zero-rated non-prescription drugs.
+
+Note that supplies of naloxone made after March 21, 2016 and on or before March 22, 2017 (as well as importations or bringing into a participating province of naloxone during that time), will not be zero-rated under this measure if the GST/HST was charged, collected, remitted or paid in respect of the supply importation or bringing into a participating province. More information is available in [GST/HST Notice305, Questions and Answers on the Proposed GST/HST Treatment of Supplies of Naloxone](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice305.html).
+
+### Excise duties on tobacco products
+
+Effective after March 22, 2017, the Budget Implementation Act, 2017, No. 1 has increased the excise duty rates on tobacco products. As well, businesses with more than 30,000 cigarettes in inventory at the time of the rate increase were required to remit an inventory tax on those cigarettes by May 31, 2017.
+
+The rate increase applies to:
+
+- excise duty rates on stamped tobacco products such as cigarettes, tobacco sticks, manufactured tobacco other than cigarettes and tobacco sticks and cigars;
+
+- special duty on unstamped imported manufactured tobacco such as cigarettes, tobacco sticks and manufactured tobacco other than cigarettes and tobacco sticks delivered to a duty free shop;
+
+- special duty on traveller’s tobacco such as cigarettes, tobacco sticks and manufactured tobacco other than cigarettes and tobacco sticks; and
+
+- special duty on unstamped tobacco products such as cigarettes, tobacco sticks and tobacco products other than cigarettes and tobacco sticks manufactured in Canada and exported.
+
+For more information and the exact excise duty rates on tobacco products please refer to Excise Duty Notice EDN42, Changes to Excise Duty Rates on Tobacco Products.
+
+**Inventory tax on cigarettes**
+
+For existing inventories of cigarettes held by manufacturers, importers, wholesalers and retailers at the end of March 22, 2017, the Budget Implementation Act, 2017, No. 1 imposed an inventory tax of $0.00265 per cigarette, which must have been remitted by May 31, 2017.
+
+The inventory tax applies to cigarettes that display the “Duty Paid Canada Droit Acquitté” excise stamp and that were held in inventory at the beginning of March 23, 2017.
+
+All persons who are liable to pay the inventory tax were required to complete and file Form B273, Excise Return – Cigarette Inventory Tax, on or before May 31, 2017. Inventory must be determined in a fair and reasonable manner as supported by appropriate books and records.
+
+This inventory tax does not apply to retailers holding 30,000 or fewer cigarettes in a separate retail establishment or to cigarettes held in vending machines.
+
+### Excise duties on alcohol products
+
+Effective March 23, 2017, the Budget Implementation Act, 2017, No. 1 has increased the excise duty rates on beer, spirits and wine by 2% and provides for these rates to be adjusted annually for inflation.
+
+The new rates and how they apply are published in Excise Duty Notices EDBN22, Changes to Excise Duty Rates on Beer and EDN45, Changes to Excise Duty Rates on Spirits and Wine.
+
+**Indexing of alcohol duty rates to the Consumer Price Index**
+
+The Budget Implementation Act, 2017, No. 1 provides for the annual adjustment of excise duty rates on beer, spirits and wine. The rates will be indexed to the Consumer Price Index with the first inflationary rate adjustment effective April 1, 2018. The CRA will publish the adjusted rates each year, well in advance of April 1.
+
+### Previously announced measures
+
+The budget confirms the Government's intention to proceed with the following previously announced tax and related measures, as modified to take into account consultations:
+
+- legislative and regulatory proposals released on July 22, 2016, relating to the GST/HST; and
+
+- measures confirmed in Budget 2016 relating to the GST/HST joint venture election.
+
+## Applying the HST rate increases in New Brunswick, Newfoundland and Labrador, and Prince Edward Island to reimbursements
+
+Effective July 1, 2016, the Government of New Brunswick and the Government of Newfoundland and Labrador increased the provincial part of the harmonized sales tax (HST) by two percentage points from 8% to 10%. Also, effective October 1, 2016, the Government of Prince Edward Island increased the provincial part of the HST by one percentage point from 9% to 10%. This has resulted in an increase in the HST rate to 15% for all three provinces.
+
+The Excise Tax Act (the Act) deems the GST/HST to have been paid, or collected, in certain circumstances.
+
+The legislation concerning reimbursements paid by employers to employees, by partnerships to partners, or by public institutions and charities to their volunteers deems the GST/HST to be paid by these persons at specific times. Provided all the conditions outlined below are met, the person who pays these reimbursements is deemed to have paid the GST/HST, and may be entitled to claim an input tax credit (ITC) or rebate for the deemed tax paid.
+
+A person is deemed to have paid the GST/HST on a reimbursement paid to:
+
+- an employee of the person;
+
+- where the person is a partnership, a member of the partnership; or
+
+- where the person is a charity or public institution, a volunteer who gives services to the charity or public institution;
+
+as long as the conditions listed below are met.
+
+1. The employee, partner or volunteer must have paid the GST/HST on the taxable property or service acquired, imported, or brought into a participating province.
+
+2. The property or service acquired, imported or brought into a participating province by an employee, partner or volunteer must be for consumption or use in relation to the activities of the employer, partnership, charity or public institution.
+
+When these conditions are met, the person is deemed to have received a supply of the property or service, and any consumption or use of the property or service by the employee, partner or volunteer, in relation to the activities is instead deemed to be consumption or use by the person. The person is also deemed, on the day the reimbursement is paid, to have paid GST/HST in respect of the supply of the property or service.
+
+The deemed tax paid on the reimbursement is equal to the amount determined by the formula
+
+A × B
+
+where
+
+A is the tax paid by the employee, partner or volunteer in respect of that person's acquisition, importation or bringing into a participating province of the property or service; and
+
+B is the lesser of
+
+1. the percentage of the cost to the employee, partner or volunteer of the property or service that is reimbursed, and
+
+2. the extent (expressed as a percentage) to which the property or service was acquired, imported or brought into the province, as the case may be, by the employee, partner or volunteer for consumption or use in relation to the activities of the employer, partnership, charity or public institution.
+
+Registrants may choose one of the following two methods to calculate the deemed tax paid in relation to reimbursements for expenses incurred in Canada:
+
+- use the exact calculation method as shown above; or
+
+- use a factor rate of the total amount reimbursed.
+
+The calculation method chosen must be used consistently within each category of reimbursed amounts (e.g., airfare, hotel accommodation, food, beverages, and entertainment) throughout the fiscal year.
+
+The Appendix in [GST/HST Memorandum 9-4, Reimbursements](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/9-4.html), provides the factor rates an employer, partnership, charity or public institution may use to calculate the ITC or rebate on reimbursements paid to employees, partners and volunteers. The factor rates are lower than the tax rates in recognition of the fact that the total expenses may include tips, provincial sales tax, and other amounts that are not subject to the GST/HST.
+
+The factor rates for calculating the tax deemed paid for expenses incurred in New Brunswick, Newfoundland and Labrador and Prince Edward Island are as follows:
+
+- 12/112 for reimbursements paid before July 1, 2016, in New Brunswick or Newfoundland and Labrador; and
+
+- 13/113 for reimbursements paid before October 1, 2016, in Prince Edward Island.
+
+The new factor rate is 14/114 for reimbursements paid on or after July 1, 2016 for expenses incurred in New Brunswick and Newfoundland and Labrador, and for reimbursements paid on or after October 1, 2016 for expenses incurred in Prince Edward Island.
+
+For further information on the application of GST/HST to reimbursements, including the documentary requirements for using the factor method, refer to [GST/HST Memorandum 9-4, Reimbursements](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/9-4.html). This publication will be updated in the near future to include these new factors.
+
+## New regulation related to the Quebec sales tax
+
+As of January 1, 2013, the CRA has been administering the Quebec sales tax (QST) on behalf of Revenu Québec, as well as the GST/HST, for persons that are selected listed financial institutions for GST/HST or QST purposes or both.
+
+Since then, there have been various changes to [An Act Respecting the Québec Sales Tax](http://legisquebec.gouv.qc.ca/en/ShowDoc/cs/T-0.1) to make the QST more consistent with the GST/HST. The most recent changes were published in a regulation on April 12, 2017 in the Gazette officielle du Québec to amend the Regulation respecting the Quebec sales tax. This regulation came into force on April 12, 2017 and generally has effect from January 1, 2013.
+
+This regulation includes, for example, regulatory provisions related to:
+
+- Element G of the special attribution method (SAM) formula;
+
+- prescribed persons for purposes of the definition of “reporting institution” that are not required to file an annual information return for financial institutions;
+
+- prescribed persons for purposes of the definition of “investment plan”;
+
+- prescribed amounts of tax for Element F of the SAM formula; and
+
+- formulas for calculating the rebate for an investment plan or a segregated fund of an insurer.
+
+## Tsawwassen First Nation implements the First Nations Goods and Services Tax
+
+Under the Tsawwassen First Nation Final Agreement the transitional GST/HST relief provided to qualifying Tsawwassen members expired April 30, 2017. As a result, effective May 1, 2017, Tsawwassen members acquiring property on or off Tsawwassen lands are subject to GST/HST even if the property is acquired on a reserve of another Indian band.
+
+The Tsawwassen Government has entered into an agreement with the Government of Canada allowing it to impose a value added tax under the Tsawwassen Goods and Services Tax Act. Effective May 1, 2017, a First Nations Goods and Services Tax (FNGST) is imposed on Tsawwassen lands listed in Schedule I to the First Nations Goods and Services Tax Act (FNGST Act).
+
+Therefore, starting on May 1, 2017, the FNGST applies to supplies made on the lands of the Tsawwassen First Nation. Everyone, including Indians, is required to pay the FNGST on property or services acquired on the lands of the Tsawwassen First Nation.
+
+As the FNGST is designed to work within the GST/HST framework, no additional forms or changes to registration are required. Vendors will simply apply the FNGST to their supplies of property and services made on the lands of the Tsawwassen First Nation in the same manner as the GST/HST.
+
+Please see [GST/HST Notice306, Tsawwassen First Nation Implements the First Nations Goods and Services Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice306.html) for further information.
+
+## ABM services supplied by merchants
+
+This article focuses on the GST/HST treatment of supplies made by merchants with respect to automated bank/teller machines (ABMs) that are owned by a person other than the merchant but operate within the merchant’s premises.
+
+[GST/HST Info Sheet GI-006, ABM Services](https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/gi-006.html), discusses the application of the GST/HST to services received by a cardholder and services related to shared cash dispensing using ABMs. Shared cash dispensing allows a person to obtain cash or a cash advance using a debit, credit or charge card from ABMs not owned by the person’s financial institution.
+
+The term “downstream merchant” described in GI-006 deals with a merchant (that is not a card acceptor) that provides space or a location for an ABM owned by another person. The downstream merchant may also have other responsibilities with respect to the ABM such as electricity, telephone lines or replenishing money in the ABM.
+
+In these circumstances, often the predominant element of the supply made by a downstream merchant is the provision of a licence in respect of real property (that is, providing space or a location for the ABM). This is a taxable supply. The predominant element of a particular supply must be determined in each case based on an analysis of the surrounding facts. Where the predominant element of the supply consists of replenishing money, providing telephone lines, electricity or any combination thereof, the supply would also generally constitute a taxable supply.
+
+The basis for calculating the consideration for the supply made by the downstream merchant may vary. For example, the consideration may be a specific licence fee or a per transaction fee or a combination thereof. It is important to note that the method of calculating the consideration will generally not affect the characterization and tax status of the supply.
+
+For more information, please refer to [GST/HST Info Sheet GI-006, ABM Services](https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/gi-006.html).
+
+## Non-compliance hold on refunds reminder
+
+The CRA may place a non-compliance hold on a person’s accounts if the person is a non-compliant GST/HST registrant. The non-compliance hold prevents any refunds or credits on the registrant’s account(s) from being issued until the registrant is compliant.
+
+Beginning May 2017, the CRA has applied a non-compliance hold to all non-compliant GST/HST registrants including financial institutions that are GST/HST registrants that have outstanding annual information returns such as [Form GST111, Financial Institution GST/HST Annual Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst111.html), or [RC7291 - GST/HST and QST Annual Information Return for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7291.html). The CRA will remove the non-compliance hold on a registrant’s account(s), once the registrant is compliant.
+
+It should be noted that where all other conditions are met, corporations that are deemed for GST/HST purposes to be financial institutions based on a section 150 election for exempt supplies that is in effect, are required to file Form GST111. Failure to file Form GST111 can result in a non-compliance hold on the corporation’s accounts.
+
+## Updating the mail-out preference of your GST/HST return
+
+Starting in May 2017, the CRA is simplifying the way we determine which format of the GST/HST return to send your business. This enhancement is part of ongoing efforts to promote sustainable development and simplify electronic services.
+
+If your chosen filing method was paper in the past and you start to file your returns electronically, the CRA will now automatically begin sending you the version of the GST/HST return for electronic filers. There is no need to contact us to make that change.
+
+**Tips**
+
+To help you prepare your electronic GST/HST return, go to the [Complete a GST/HST Return](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/complete-file-instructions.html) webpage to download the GST/HST Return Working Copy and keep a copy for your records.
+
+The CRA Business Tax Reminders mobile app lets you create custom reminders and alerts for key CRA due dates related to instalment payments, returns and remittances. For more information and to download our CRA mobile apps go to [Mobile apps](https://www.canada.ca/en/revenue-agency/services/e-services/cra-mobile-apps.html).
+
+## Changes to Form RC59 after May 15, 2017
+
+If you are a representative and you use [Form RC59, Business Consent](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc59.html) to get online access to your client’s business information in [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html), or if you are the business owner and you use Form RC59 to authorize a representative for online access to your GST/HST information in [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html), please note that after May 15, 2017, Form RC59 will no longer be used to authorize online access.
+
+**If you are a representative:**
+
+To request online access to tax information for a business, you will need to complete the authorization request in Represent a Client.
+
+To complete an authorization request:
+
+1. Log in to [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html).
+
+2. From the Welcome page, select "Review and update".
+
+3. Select "Authorization request" at the bottom of the "Manage clients" tab and follow the instructions.
+
+4. Print the signature page for your client to sign.
+
+5. Scan and send the signed copy of the signature page to the CRA using [Submit documents](https://www.canada.ca/en/revenue-agency/services/e-services/submit-documents-online.html).
+
+After you send it, you will receive authorization and online access to your client’s information in five days or less.
+
+**If you are a business owner:**
+
+To authorize a representative for online access to your tax information, you will need to use the “Authorize a representative” service in My Business Account.
+
+To authorize a representative:
+
+1. Log in to [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html).
+
+2. From the Welcome page, select “Representatives” under the “Manage” heading.
+
+3. Select “Authorize a representative” and follow the instructions.
+
+Once you complete the authorization, it takes effect immediately and your representative will have access to your accounts.
+
+If you still do not use Represent a Client or My Business Account, we urge you to give them a try. These services can change the way you do business. However, if you prefer your current process, you can still use Form RC59 to request and grant telephone and mail access.
+
+## Prescribed rates of interest
+
+The prescribed annual rate of interest in effect from April 1, 2017 to June 30, 2017, and from July 1, 2017 to September 30, 2017, on overdue amounts payable to the Minister is 5%. The prescribed annual rate of interest on amounts owed by the Minister (i.e., rebates or refunds) is 1% for corporate taxpayers and 3% for non-corporate taxpayers. These rates are applicable to income tax, excise tax, the softwood lumber products export charge, GST/HST, the air travellers security charge (ATSC) and excise duty on wine, spirits and tobacco.
+
+The prescribed annual rate of interest respecting excise duty on beer, on overdue amounts payable for the indicated period, is set at 3%. Refund interest rates are not applicable for amounts owed by the Minister (i.e., rebates or refunds) for excise duty that is in relation to beer.
+
+| **PERIOD** | July 1 to September 30, 2017 | April 1 to June 30, 2017 | January 1 to March 31, 2017 | October 1 to December 31, 2016 |
+
+| --- | --- | --- | --- | --- |
+
+| **Refund Interest Corporate Taxpayers** | 1% | 1% | 1% | 1% |
+
+| **Refund Interest Non-Corporate Taxpayers** | 3% | 3% | 3% | 3% |
+
+| **Arrears and Instalment Interest** | 5% | 5% | 5% | 5% |
+
+| **PERIOD** | July 1 to September 30, 2017 | April 1 to June 30, 2017 | January 1 to March 31, 2017 | October 1 to December 31, 2016 |
+
+| --- | --- | --- | --- | --- |
+
+| **Arrears Interest Excise duty - beer** | 3% | 3% | 3% | 3% |
+
+Prescribed interest rates for previous years are available on the CRA website at [Prescribed interest rates](https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates.html).
+
+## What’s new in publications
+
+The following is a list of new or revised excise and GST/HST forms and publications.
+
+**GST/HST forms**
+
+- [GST29, Educational Services - Election and Revocation of the Election to Make Certain Supplies Taxable](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst29.html)
+
+- [GST32, Application to Deem One Unincorporated Organization to Be a Branch of Another Unincorporated Organization](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst32.html)
+
+- [GST59, GST/HST Return for Imported Taxable Supplies, Qualifying Consideration, and Internal and External Charges](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst59.html)
+
+- [GST60, GST/HST Return for Acquisition of Real Property](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst60.html)
+
+- [GST111, Financial Institution GST/HST Annual Information Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst111.html)
+
+- [GST190, GST/HST New Housing Rebate Application for Houses Purchased from a Builder](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst190.html)
+
+- [GST531, Return for Self-Assessment of the First Nations Goods and Services Tax (FNGST)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/gst531.html)
+
+- [RC59, Business Consent](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc59.html)
+
+- [RC59X, Cancel Business Consent or Delegated Authority](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc59x.html)
+
+- [RC151, GST/HST Credit Application for Individuals Who Become Residents of Canada](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc151.html)
+
+- [RC4615, Election or Revocation of the Election to Not Account for GST/HST on Actual Taxable Supplies](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc4615.html)
+
+- [RC7215, Elections or Revocation of the Elections to Not Account for GST/HST and QST on Actual Taxable Supplies for Participating Employers that are Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7215.html)
+
+- [RC7259, Business Consent for Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7259.html)
+
+- [RC7259X, Cancel Business Consent or Delegated Authority for Certain Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7259x.html)
+
+- [RC7321, Delegation of Authority for Certain Selected Listed Financial Institutions](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/rc7321.html)
+
+**GST/HST guides**
+
+- [RC4210, GST/HST Credit Including related provincial credits and benefits for the period from July 2016 to June 2017](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4210.html)
+
+**GST/HST notices**
+
+- [NOTICE304, GST/HST Pension Plan Rules for Master Trusts](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice304.html)
+
+- [NOTICE305, Questions and Answers on the Proposed GST/HST Treatment of Supplies of Naloxone](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice305.html)
+
+- [NOTICE306, Tsawwassen First Nation Implements the First Nations Goods and Services Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/notice306.html)
+
+**GST/HST info sheets**
+
+- [GI-196, GST/HST and Commercial Ride-sharing Services](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/gi-196.html)
+
+**GST/HST memoranda**
+
+- [14-6, Trade Unions and Similar Employee Associations](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/14-6.html)
+
+**GST/HST technical information bulletins**
+
+- [B-110, Application of the GST/HST to the Practice of Acupuncture](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/b-110.html)
+
+**Excise tax and special levies rates**
+
+- ETSL64, Imposition of Excise Tax on Fuel-Inefficient Vehicles – List of Vehicles and Associated Tax Rates for 2017
+
+**Excise duty forms**
+
+- [B262, Excise Duty Return - Excise Warehouse Licensee](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b262.html)
+
+- [B273, Excise Return - Cigarette Inventory Tax](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/b273.html)
+
+**Excise duty notices**
+
+- EDBN22, Changes to Excise Duty Rates on Beer
+
+- EDN42, Changes to Excise Duty Rates on Tobacco Products
+
+- EDN45, Changes to Excise Duty Rates on Spirits and Wine
+
+All GST/HST, excise duty and excise taxes and special levies publications can be found on the CRA website. Go to the [Technical information - GST/HST](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/technical-information-gst-hst.html), [Excise taxes and special levies](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-taxes-special-levies.html) and [Excise duty](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/excise-duty.html) webpages.
+
+To receive email notification as soon as a document is published on the CRA website, go to [electronic mailing lists](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html) and subscribe to the RSS feed for all new CRA publications and forms, or subscribe to any number of mailing lists for different types of publications.
+
+## Contact us
+
+**More information****Forms and publications**
+
+- All **GST/HST technical publications** and **GST/HST related forms** are available on the CRA website. Go to [GST/HST related forms and publications](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/forms-publications.html).
+
+- To access **all other**forms and publications on the CRA website go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+- To order forms and publications**by telephone**, call 1-800-959-5525.
+
+To make a **GST/HST enquiry** by **telephone**:
+
+- for **GST/HST general enquiries,**call Business Enquiries at 1-800-959-5525;
+
+- for **GST/HST technical enquiries,**call GST/HST Rulings at 1-800-959-8287.
+
+If you are located in**Quebec**, call**Revenu Québec**at **1-800-567-4692**or visit their website at [revenuquebec.ca](https://www.revenuquebec.ca/en/)**.**
+
+If you are a**selected listed financial institution**(whether or not you are located in Quebec) and require information on the**GST/HST**or the**QST**, go to [GST/HST and QST - Financial institutions, including selected listed financial institutions](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/financial-institutions.html) or
+
+- for**general GST/HST**or**QST enquiries**, call**Business Enquiries**at**1-800-959-5525;**
+
+- for**technical GST/HST**or**QST enquiries**, call**GST/HST Rulings SLFI**at**1-855-666-5166.**
+
+**Account enquiries**
+
+For**general information** and to make **enquiries**regarding your **account** (except for softwood lumber products export charge accounts), you can:
+
+- view answers to common enquiries, or submit an enquiry using the online “Enquiries service” on “My Business Account”;
+
+- view account information online at [E-services for Businesses](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses.html); or
+
+- call Business Enquiries at 1-800-959-5525.
+
+For **online access**to your **GST/HST**,**air travellers security charge**, **excise tax**and **duty accounts** (such as viewing up-to-date account balances and transactions, transferring payments and more), go to:
+
+- [Represent a Client](https://www.canada.ca/en/revenue-agency/services/e-services/represent-a-client.html) if you are an authorized representative or employee; or
+
+- [My Business Account](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/business-account.html) if you are the business owner.
+
+For **enquiries**regarding your **softwood lumber products export charge account**, you can call 1-866-330-3304.
+
+For **enquiries**regarding the**status of specific GST/HST domestic rebate claims,** call Business Enquiries at 1-800-959-5525.
+
+**Help**
+
+For **technical support using our online services**:
+
+- business accounts, call 1-800-­959-­5525
+
+- teletypewriter users, call 1-800-665-0354
+
+- calls outside of Canada and the United States, call collect at 1-613-940-8497
+
+Please have the screen number (bottom right) and, if applicable, the error number and message received on hand when calling.
+
+The Excise and GST/HST News is published quarterly and highlights recent developments in the administration of the GST/HST, First Nations goods and services tax (FNGST) and First Nations tax (FNT), softwood lumber products export charge, air travellers security charge (ATSC) as well as excise taxes and duties. If you would like to receive a link to each new edition of the Excise and GST/HST News as it is published, subscribe to the [electronic mailing list](https://www.canada.ca/en/revenue-agency/news/e-services/canada-revenue-electronic-mailing-lists.html).
+
+This publication is provided for information purposes only and does not replace the law, either enacted or proposed. Please note that any commentary in this newsletter regarding proposed measures should not be taken as a statement by the CRA that such measures will in fact be enacted into law in their current form. Comments or suggestions about the newsletter should be sent to the Editor, Excise and GST/HST News, Legislative Policy and Regulatory Affairs Branch, CRA, Ottawa, ON K1A 0L5.

@@ -1,0 +1,140 @@
+Title: Axa Canada Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27115/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-334-27115-axa-canada-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-01-11
+
+# Axa Canada Inc. c. La Reine
+
+- Citation: 2006 CCI 334
+- Decision date: 2006-01-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 920, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Axa Canada Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-11
+Référence neutre
+2006 CCI 334
+Numéro de dossier
+2003-3021(IT)G
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3021(IT)G
+ENTRE :
+AXA CANADA INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête présentée par observations écrites
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de la requérante :
+Me Dominic C. Belley
+Avocat de l'intimée :
+Me Richard Gobeil
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de la requérante visant à obtenir que soit rendue, en vertu de l'article 147 des Règles de la Court canadienne de l'impôt (procédure générale) (les « Règles » ), fixant une partie des dépens en ne tenant pas compte du tarif B de l'annexe II et en sus des dépens taxés;
+Vu la demande de la requérante que la Cour se prononce sur cette requête sur la base des observations écrites et sans comparution des parties, en vertu de l'article 69 des Règles;
+Et vu les observations écrites des deux parties;
+La requête est accordée en partie, sans frais, selon les motifs de l'ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de juin 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2006CCI334
+Date : 20060614
+Dossier : 2003-3021(IT)G
+ENTRE :
+AXA CANADA INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+La juge Lamarre Proulx
+[1] Il s'agit d'une requête à être tranchée sur la base d'observations écrites et sans la comparution des parties en vertu de l'article 69 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles » ).
+[2] Cette requête vise à obtenir en vertu de l'article 147 des Règles une ordonnance :
+1) fixant une partie des dépens en ne tenant pas compte du tarif B de l'annexe II et en sus des dépens taxés;
+2) donnant des directives à l'officier taxateur :
+a) d'accorder des sommes supplémentaires à celles prévues pour les postes mentionnés au tarif B de l'annexe II;
+b) de tenir compte des services rendus ou des débours effectués qui ne sont pas inclus dans le tarif B de l'annexe II; et
+c) de permettre à l'officier taxateur de prendre en considération, pour la taxation des dépens, des facteurs autres que ceux précisés à l'article 154.
+[3] Les coûts et leur réclamation sont ainsi décrits aux paragraphes 15 à 18 de l'argumentation écrite de l'appelante :
+15. Le mémoire de frais de l'Appelante, préparé en conformité du tarif B de l'annexe II permet à l'Appelante de réclamer des dépens pour un montant maximum de 55 938 $.
+16. Dans le cadre de la préparation du présent dossier, depuis l'avis d'appel, l'appelante a engagé des honoraires juridiques pour un montant de 187 216 $, en sus des frais indiqués dans son mémoire de frais.
+17. La quasi-totalité de frais engagés par l'Appelante ont dû être engagés en raison du refus de l'Intimée de prendre en considération ses arguments, tout en se révélant incapable, lors de l'audition, de réfuter la preuve de l'Appelante.
+18. Dans son mémoire de frais, l'Appelante a réclamé, inter alia, que (i) l'ensemble de ses dépenses engagées dans le cadre de la préparation de l'appel, y compris ses frais de déplacements et ses frais d'expertise; (ii) des honoraires pour les services d'un second procureur lors de l'audition; et (iii) une somme de 50 000 $ en sus des dépens taxés.
+[4] Selon la réponse de l'intimée et la réplique de l'appelante, les points en litige sont la somme globale de 50 000 $, les débours pour huissiers, courriers, photocopies et autres au montant de 6 984,80 $, les frais d'un voyage à Paris de l'avocat de l'appelante au montant de 3 307,78 $, les frais pour rapport d'expertise au montant de 18 600 $ et les dépenses pour le voyage Paris/Montréal/Paris du témoin monsieur Patrick Werner au montant de 13 745,42 $.
+[5] L'appelante soumet qu'elle a engagé des frais pour un montant nettement supérieur à ceux couverts par le tarif B de l'annexe II en majeure partie en raison de l'action ou de l'inaction de l'intimée.
+[6] La réponse de l'intimée à cet égard est que la conduite professionnelle de l'avocat ne donne pas lieu à l'octroi d'une adjudication supérieure au tarif.
+[7] En réplique, l'appelante fait valoir que ce n'est pas la conduite professionnelle des avocats de l'intimée qui est en cause car il ne s'agit pas d'une réclamation sur la base d'avocat-client mais une réclamation fondée sur l'exercice de la discrétion de la Cour, dans l'adjudication des dépens, prévue à l'article 147 des Règles.
+[8] L'appelante souligne le fait que l'intimée n'a produit aucun témoin et n'a contre-interrogé qu'un seul témoin, soit monsieur Alain Lessard, actuaire à l'emploi de l'appelante.
+[9] L'intimée répond que l'avocat de l'intimée a choisi de ne pas produire de témoin, n'avait aucune obligation de le faire et qu'il n'a pas non plus d'obligation de contre-interroger tous les témoins de l'appelante.
+[10] L'intimée se réfère à une décision de la juge Lamarre de cette Cour, dans l'affaire Miller c. Canada, [2002] A.C.I. no 571 (QL), au paragraphe 5 :
+... Le fait que l'intimée n'a pas produit de liste de documents ou que le vérificateur de l'Agence des douanes et du revenu du Canada n'a pas été appelé à témoigner par l'intimée a été plus nuisible à la cause de cette dernière qu'à celle de la requérante. En fait, ces facteurs ont joué en faveur de la requérante si l'on considère le résultat de ses appels.
+[11] L'intimée s'appuie également sur une décision du juge Bowman de cette Cour dans l'affaire Continental Bank of Canada v. R., [1994] A.C.I. No. 863 (QL) et fait valoir que nombre de dossiers dont cette Cour est saisie sont des dossiers complexes et qu'il n'y a pas lieu d'accorder des frais supérieurs à ceux du tarif pour cette seule raison. L'avocat de l'intimée s'appuie sur le passage suivant :
+[9] Il est manifeste que les montants prévus au tarif ne sont nullement censés compenser entièrement une partie des frais juridiques que celle-ci a engagés dans la poursuite d'un appel. Le fait que les montants prévus au tarif paraissent excessivement bas par rapport aux dépens réels d'une partie n'est pas une raison pour adjuger des dépens supplémentaires à ceux que prévoit le tarif. Je ne crois pas que, chaque fois que la présente Cour est saisie d'une cause de nature fiscale importante et complexe, nous devrions user de notre pouvoir discrétionnaire pour hausser les dépens adjugés à un montant qui corresponde davantage à celui que les avocats des contribuables factureront vraisemblablement. Il doit avoir été évident aux membres des comités de rédaction des règles qui ont fixé le tarif que les dépens entre parties qui peuvent être recouvrés sont de peu d'importance par rapport aux frais réels qu'une partie peut avoir engagés. Nombreuses sont les causes importantes et complexes dont la Cour est saisie. Les litiges de nature fiscale sont un aspect complexe et spécialisé du droit, et les rédacteurs des Règles auxquelles nous sommes soumis devaient le savoir.
+[12] Au titre des débours concernant huissier, courrier, photocopies, et autres, l'intimée propose de payer la moitié.
+[13] Au sujet du voyage à Paris de l'avocat de l'appelante, l'intimée s'explique mal au nom de quel principe elle devrait payer les frais de déplacement de l'avocat de la partie adverse, qui est allé rencontrer un témoin potentiel. L'appelante réplique que le témoignage de monsieur Werner était essentiel pour la compréhension des événements et que les frais engagés sont raisonnables. Quant au principe applicable, le paragraphe 2 du tarif B prévoit spécifiquement que les déboursés essentiels à la conduite du litige sont admissibles.
+[14] En ce qui concerne le rapport d'expertise, l'intimée accepte qu'une somme raisonnable soit payée à l'appelante au titre des honoraires de témoin expert et souhaite une facture détaillée quant à la nature du travail effectué par le témoin expert, le nombre d'heures consacrées au dossier ainsi que le taux horaire.
+[15] Relativement aux dépenses pour le voyage Paris/Montréal/Paris de monsieur Patrick Werner, l'intimée offre de payer 1 414,72 $ pour le billet d'avion et pour les repas 87,12 $ en conformité avec la Directive sur les voyages du Conseil du Trésor du Canada.
+Analyse et conclusion
+[16] Le 11 janvier 2006, j'ai rendu jugement accordant en totalité l'appel de l'appelante en concluant qu'elle n'avait pas conféré un avantage à un actionnaire.
+[17] Dans sa réponse à l'avis d'appel, l'intimée dit au paragraphe 2 qu'il ne connaît pas et n'admet pas les faits allégués aux paragraphes 11 et 15 de l'avis d'appel, qui sont les suivants :
+11. Au cours des périodes subséquentes à la signature des conventions décrites au paragraphe 6, Abeille-Ré a subi relativement à ces deux ententes des pertes importantes qui se chiffraient à la fin de 1993 à plus de 60M $.
+...
+15. Les pertes économiques subies par Abeille-Ré quant aux deux ententes décrites au paragraphe 6 ont largement, à ce jour, excédé 60M $.
+[18] Le paragraphe 6 de l'avis d'appel décrit ce qui a été appelé au cours de l'audience et dans les motifs du jugement de traités de sauvetage :
+6. En 1990 et 1991, dans un effort de sauvetage de l'entreprise exploitée par Boréal, Abeille-Ré, société française non résidente du Canada et détenant le contrôle de Victoire Canada concluait avec Boréal les ententes suivantes :
+a. le 31 décembre 1990, un traité de réassurance « Quote-Part Stop Loss » qui comportait un traité « Quote-Part » sur les opérations canadiennes (à l'exception de la réassurance assumée canadienne) et un traité « Stop Loss » sur les opérations de réassurance internationale (ci-après, le traité « QPSL » );
+b. le 19 décembre 1991, une cession par Boréal à Abeille-Ré de son portefeuille de réassurance internationale moyennant un paiement de 32.3M $ par Boréal à Abeille-Ré.
+[19] Pour les fins de l'analyse de cette demande de frais supplémentaires, je trouve utile d'ajouter le paragraphe suivant des propos du juge Bowman dans l'affaire Continental Bank cités par l'intimée plus haut :
+Il faut habituellement respecter le tarif, à moins de circonstances exceptionnelles, dont une inconduite de la part de l'une des parties, un retard abusif, une prolongation inutile de l'instance, des querelles procédurales inutiles, pour n'en citer que quelques-unes. Aucun de ces éléments n'est présent en l'espèce. »
+[20] Normalement, même si l'affaire est complexe, le tarif est respecté à moins de circonstances exceptionnelles. L'inaction de l'intimée peut-elle être considérée comme une telle circonstance exceptionnelle?
+[21] Relativement au fardeau de la preuve, je me réfère aux propos de la juge L'Heureux-Dubé dans Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336 à la page 378 et s. :
+91 Comme je l'ai signalé, l'appelante a produit une preuve claire et non contredite, alors que l'intimée n'a produit absolument aucune preuve. À mon avis, le droit sur ce point est bien établi et l'intimée ne s'est pas acquittée de son fardeau de preuve pour les raisons suivantes.
+92 Il est bien établi en droit que, dans le domaine de la fiscalité, la norme de preuve est la prépondérance des probabilités ... et que, à l'intérieur de cette norme, différents degrés de preuve peuvent être exigés, selon le sujet en cause, pour que soit acquittée la charge de la preuve: ... En établissant des cotisations, le ministre se fonde sur des présomptions : ... et la charge initiale de "démolir" les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable
+...
+94 Lorsque l'appelant a « démoli » les présomptions du ministre, le « fardeau de la preuve [. . .] passe [. . .] au ministre qui doit réfuter la preuve prima facie » faite par l'appelant et prouver les présomptions :.. Ainsi, dans la présente affaire, la charge est passée au ministre, qui doit prouver ses présomptions ...
+95 Lorsque le fardeau est passé au ministre et que celui-ci ne produit absolument aucune preuve, le contribuable est fondé à obtenir gain de cause ...
+[22] Ici, il ne s'agissait pas d'une cause où seul le droit était en cause. Les faits étaient très importants. Il arrive assez souvent que la preuve des faits n'engage pas de grands frais. Mais dans ce cas-ci, l'intimée ne pouvait que savoir que d'avoir à faire la preuve des traités de sauvetage conclus par l'actionnaire corporatif, de leur effet sur le bilan de l'appelante, des pertes engagées par l'actionnaire corporatif et le contexte historique des négociations qui ont conduit à l'achat des actions et à la détermination de leur prix ne pouvait se faire qu'à grands coûts et efforts.
+[23] S'il y avait eu un certain effort de la part de l'intimée dans l'accomplissement de son fardeau de la preuve, ma décision serait différente. Il est étrange dans une cause comme celle que j'ai entendue qu'aucun agent du Ministre ne vienne témoigner pour expliquer la position du ministre, qu'aucun autre témoin ne soit appelé pour soulever un certain doute quant à la preuve de l'appelante sur les pertes engagées par l'actionnaire corporatif et sur le contexte des négociations. L'intimée a agi comme si elle se savait au départ incapable de réfuter la preuve de l'appelante et incapable de prouver les présomptions du Ministre. Elle a attendu que l'appelante fasse sa preuve. Comment pouvait-elle penser que des actuaires ne réussiraient pas à démolir les présomptions du Ministre? L'appelante a engagé de grands frais pour présenter une preuve solide pour contrer celle qu'aurait pu présenter l'intimée. Or, l'intimée n'a rien fait.
+[24] Il me semble que dans ces circonstances où l'appelante a fait tant d'efforts coûteux pour présenter une preuve alors que l'intimée n'avait aucune intention de même tenter de la réfuter, qu'il s'agit là d'une circonstance exceptionnelle qui permet l'octroi de frais supplémentaires au tarif. Je considère donc juste qu'un montant supérieur au tarif soit accordé à la partie gagnante.
+[25] L'appelante a fait également état d'une offre de règlement pour un montant de 300 000 $, en date du 2 novembre 2000. Cette offre étant minime relativement au montant cotisé et sans fondement juridique, elle ne m'a pas influencée dans ma décision d'accorder des frais supplémentaires.
+[26] Le montant de 50 000 $ demandé à titre de somme globale par l'appelante en sus des dépens taxés, peut paraître à première vue, élevé. Selon l'appelante, les honoraires juridiques engagés en sus de son mémoire de frais sont de 187 216 $. La somme globale demandée est donc malgré tout moins du tiers des honoraires juridiques supplémentaires. Toutefois il me faut aussi prendre en considération que l'adjudication de frais supplémentaires doit demeurer restreinte dans son application. Les tarifs judiciaires existent dans un but de protéger un accès sécuritaire aux tribunaux et éviter l'arbitraire. Une adjudication de frais supplémentaires a normalement comme but la dissuasion d'un comportement considéré comme incorrect, mais cette adjudication ne doit pas devenir une source de crainte à l'égard du droit de porter un litige devant les tribunaux. Je considère que l'adjudication d'une somme globale de 20 000 serait acceptable pour répondre à cette recherche de l'équilibre.
+[27] La demande d'honoraires pour les services d'un second procureur lors de l'audition n'a pas été contestée par l'intimée dans sa Réponse. Ils sont donc accordés.
+[28] En ce qui concerne les débours en litige, je suis d'avis que ceux relatifs aux huissiers, photocopies et autres, ainsi qu'au voyage de l'avocat de l'appelante peuvent être acceptés tels que proposés par l'appelante. En ce qui concerne les frais du rapport d'expertise, je les trouve très élevés. À mon avis, le tiers du montant demandé me paraîtrait raisonnable. La même proportion me paraîtrait raisonnable en ce qui concerne le voyage de monsieur Werner.
+Signé à Ottawa, Canada, ce 14e jour de juin 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2006CCI334
+N º DU DOSSIER DE LA COUR : 2003-3021(IT)G
+INTITULÉ DE LA CAUSE : AXA CANADA INC. c. LA REINE
+MOTIFS DE L'ORDONNANCE PAR : L'hon. juge Louise Lamarre Proulx
+DATE DE L'ORDONNANCE : le 14 juin 2006
+COMPARUTIONS :
+Avocat de la requérante :
+Me Dominic C. Belley
+Avocat de l'intimée :
+Me Richard Gobeil
+AVOCAT INSCRIT AU DOSSIER :
+Pour la requérante:
+Nom : Me Dominic C. Belley
+Étude : Ogilvy Renault
+Montréal (Québec)
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

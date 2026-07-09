@@ -1,0 +1,147 @@
+---
+title: "Hole v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181457/index.do"
+last_modified: "2015-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 55"
+citation2: ""
+neutral_citation: "2016 TCC 55"
+decision_date: "2015-12-01"
+language: "en"
+item_id: "181457"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2979
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:04:52.790000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b8fc67fcfbd3ae99479bb142b0def3e0ccede8a46c2c000de5bd9d13898a9b74"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hole v. The Queen
+
+- Citation: 2016 TCC 55
+- Decision date: 2015-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2979, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hole v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-12-01
+Neutral citation
+2016 TCC 55
+File numbers
+2011-3541(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2016 TCC 55
+Date: 2017 07 25
+Dockets: 2011-3541(IT)G
+2013-164(GST)G
+BETWEEN:
+ROBERT HOLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Kamloops, British Columbia
+on December 1, 2015)
+Graham J.
+[1] The Minister of National Revenue believes that Robert Hole was operating a marijuana grow-op in his 2003, 2004 and 2005 taxation years. Mr. Hole did not report any income from the sale of marijuana in his tax returns for those years. The Minister projected the income that the Minister believed Mr. Hole would have earned from growing marijuana in 2003, 2004 and 2005 and calculated the GST that should have been collected thereon in Mr. Hole's reporting periods from January 1, 2003 to December 31, 2005. The Minister reassessed Mr. Hole to add that income to his income and for the related GST. The Minister also assessed gross negligence penalties on both the income and the GST. Through a processing error, the penalties were not applied to the 2005 income tax. Mr. Hole has appealed both the income tax and the GST reassessments and the related penalties.
+[2] The Minister also believes that Mr. Hole failed to report income that he earned as a logger. The Minister reassessed Mr. Hole to include that alleged unreported logging income in his 2003, 2004, 2005 and 2006 tax years. The Minister also assessed Mr. Hole for the related GST in his reporting periods from January 1, 2004 to December 31, 2005. The Minister assessed gross negligence penalties on both the income and the GST. Again, due to a processing error, the income tax penalties were only applied to Mr. Hole's 2003 and 2004 tax years. Mr. Hole has appealed the inclusion of the logging income, the imposition of the GST and the related penalties.
+Grow-Op Income [3] Turning first to the alleged grow-op. The RCMP conducted a search of Mr. Hole's property in Clearwater, British Columbia in August of 2005. They found marijuana plants in various stages of growth in two locations. The first location was a machine shop on the property. The second location was in the forest. The machine shop contained 90 mature marijuana plants and 144 clones that were still in the vegetative stage of growth. The forest location contained 172 mature plants. As a result of the search, Mr. Hole was convicted of production of a controlled substance and of possession of a controlled substance for the purpose of trafficking.
+[4] Sergeant Craig McMillan, of the RCMP, was called by the respondent as an expert witness on grow-ops. Sgt. McMillan had prepared an expert report for Mr. Hole's criminal trial. He tendered that report as his expert report. He also provided significant evidence on how grow-ops worked.
+[5] Kelly Plato was an auditor with the Canada Revenue Agency's special enforcement program. He was assigned to audit Mr. Hole's 2003 to 2006 tax years. The respondent called Mr. Plato as a witness. I found Mr. Plato to be credible. Mr. Plato explained that he had used information from Sgt. McMillan's expert report to project Mr. Hole's income from his grow-op for 2003, 2004 and 2005. I will describe these projections as a “yield analysis”. A yield analysis is an alternative method of determining income that is sometimes used by the Minister when the Minister believes that a taxpayer was operating a grow-op and that the taxpayer's records are an inadequate means of verifying the taxpayer's income from the grow-op. In simple terms, a yield analysis determines income using four variables: the number of plants in each crop, the yield of dried marijuana that will come from each plant, the frequency in which plants are harvested and the price at which the marijuana is sold.
+[6] There are two primary ways in which a taxpayer can challenge a yield analysis. The first is to prove that his or her records were adequate and thus that his or her income should have been determined using those records. Since operators of marijuana grow-ops very rarely keep the level of records that would be necessary to determine their income in this manner, the second, and more common, method of challenging a yield analysis is to challenge the actual determination of income made by the Minister under the yield analysis.
+[7] Mr. Hole focused his appeal on challenging the actual determination of income under the yield analysis. However, rather than challenging the appropriateness of one or more of the variables used by the Minister in the analysis, Mr. Hole simply denied that he had ever made any income from his grow-op. He testified that he did not grow marijuana in 2003 or 2004. He further testified that, while he did grow marijuana in 2005, he did not make any money from doing so. He explained that the RCMP seized all of his marijuana after the search and that, prior to that, he had had trouble growing plants and had been unsuccessful in obtaining a crop. He explained that he was growing the marijuana for his own personal use to treat pain that he suffers in his foot.
+[8] I did not find Mr. Hole's explanation to be plausible. The 2005 search was not the first time that the RCMP had found marijuana on Mr. Hole's property. The property was also searched in 2002 and a grow-op was found. British Columbia Hydro records for the property were entered into evidence. They showed a consistent high usage of electricity from 2002 to 2005. This strongly suggests that a grow-op existed throughout all of those years.
+[9] Mr. Hole argued that his property simply uses a lot of electricity. He referred to the fact that he owned cattle and horses in the years in question and explained that their care required a lot of electricity. This explanation did not make sense for two reasons. First, if the livestock required a lot of electricity, one would expect that the levels of electricity to be high in 2003 and 2004 and to spike in 2002 and 2005 when the electricity demands of the grow-ops were added to the already high electricity needs of the livestock. No such spikes occurred. Second, the vast majority of the examples given by Mr. Hole to explain the electricity needs of the livestock involved caring for them in winter, yet there was no noticeable pattern of higher winter usage of electricity. Mr. Hole testified that his neighbours had similarly high hydro bills but he neither entered copies of those bills into evidence nor called those neighbours as witnesses. I draw an adverse inference from his failure to do so.
+[10] Mr. Hole's explanation that he was growing marijuana for personal use was also not believable. The amount of marijuana that would have yielded from the plants he was growing far outstripped his personal needs. Sgt. McMillan opined that even based on a high rate of personal usage, Mr. Hole would have yielded decades worth of marijuana from his operation if he had been planning on using it solely for his personal purposes. Sgt. McMillan further explained that since the THC in marijuana breaks down after about a year even in optimal storage conditions, there would be no reason for an individual to grow and stockpile years’ worth of marijuana for themselves.
+[11] Based on all of the foregoing I find that Mr. Hole operated a grow-op on his property from 2003 to 2005.
+[12] The Minister assessed Mr. Hole based on the following key assumptions about each of the variables in the yield analysis:
+1) that he had 90 plants in each crop in his grow-op;
+2) that he had harvested marijuana that dried down to three ounces from each plant;
+3) that he had harvested crops three times per year, and
+4) that he had sold the resulting marijuana for $2,500 per pound (GST included)
+[13] Mr. Hole did not demolish those assumptions.
+[14] The figure of 90 plants came from the number of actual mature plants that the RCMP found in the machine shop in 2005. This figure is conservative, as it ignores the 172 outdoor plants that they found and ignores the fact that there were also 144 clones in the shop. Mr. Hole did not provide me with any evidence on which I might reasonably conclude that he had fewer than 90 plants per crop at any time.
+[15] There was no evidence as to how many ounces would have been yielded from Mr. Hole's crop had they reached maturity before the search. Sgt. McMillan testified that an average yield is three ounces per plant. Mr. Hole did not provide any reasonable evidence to explain why his yields would have been lower than that.
+[16] Sgt. McMillan testified that a normal operation like Mr. Hole's would produce three to four crops per year. Thus I find the three crop figure assumed by the Minister to be a conservative estimate. In fact, I find it to be generous as it assumes that Mr. Hole was only growing one crop at a time. The presence of the 144 clones in the vegetative stage of growth indicates that he had two crops growing on different cycles. This would have led to a far higher number of crops per year as the number of weeks between harvests of one crop or the other would theoretically have been cut in half. I note that Mr. Plato appropriately reduced the number of crops in 2005 to two crops to account for the fact that the RCMP shut down the operation in August, 2005.
+[17] Sgt. McMillan testified that marijuana from grow-ops is generally sold by the ounce or by the pound. The price per ounce is higher than the price per pound. He opined that the price per pound in 2005 would have been $2,500 and that it would have been slightly higher in the prior years. He explained that a grow-op the size of the one operated by Mr. Hole would generally have sales both by the ounce and by the pound. Based on the foregoing, I find that Mr. Plato's choice to assess based only on sales by the pound and using the price of $2,500 was reasonable.
+[18] Mr. Plato calculated the GST on the marijuana sales by making the generous assumption that the $2,500 per pound price included GST.
+[19] Based on all the foregoing, I find that Mr. Hole has not successfully challenged the Minister's projections that he had $118,282 in income from the sale of marijuana in each of his 2003 and 2004 tax years and $78,855 in income from the sale of marijuana in his 2005 taxation year, nor that he should have remitted GST on those sales.
+[20] I also find that the Minister has successfully proven that Mr. Hole was grossly negligent in failing to report his income from growing marijuana. The amount of unreported income is large. Mr. Hole only reported $13,591 of income in 2003, no income at all in 2004, and $5,600 in 2005. His wife reported approximately $15,000 per year in each of those years. Banking and other financial documents show that Mr. Hole made regular deposits of cash to his bank account and paid almost $10,000 in cash in 2005 for down payments on leases of two vehicles. He also regularly paid for other expenses using cash. The banking documents also demonstrate that Mr. Hole and his wife were spending far more money in 2003 to 2005 than their reported incomes could support. There is no doubt in my mind that Mr. Hole knew he was operating a marijuana business, knew that that business was profitable, knew that he was required to report his income from that business in his tax returns and chose not to do so. As such, the application of gross negligence penalties to both the income tax and GST assessments is appropriate.
+[21] I note that there was no discussion or evidence regarding expenses that Mr. Hole may have been entitled to claim against his grow-op income. Clearly he had electricity expenses. My understanding is that he also had a mortgage so presumably he had some interest expenses as well. In addition to those, there would have been property tax expenses and presumably some capital cost expenses and terminal losses relating to the actual grow-op equipment. Mr. Hole did not provide me with any evidence as to these or any other expenses. Thus I have no way of knowing how much they were or whether they were already claimed by himself or his wife in respect of some other business activity. In the absence of such evidence, I cannot allow any deductions for expenses related to the grow-op.
+Logging Income [22] Turning next to the alleged unreported logging income. Mr. Hole admitted that he earned income from his business as a logging contractor in 2003, 2004, 2005 and 2006, but he did not report any income from that business nor did he report any net GST related thereto.
+[23] The Respondent entered numerous invoices issued by Mr. Hole into evidence. Those invoices showed that Mr. Hole was actively earning logging income. The Respondent also entered numerous cheques into evidence showing that Mr. Hole was being paid for his services.
+[24] Mr. Plato determined the amount of Mr. Hole's unreported logging income using another alternative method of assessment known as a bank deposit analysis. A bank deposit analysis is an alternative method of determining income that is sometimes used by the Minister when the Minister believes that a taxpayer's records are an inadequate means of verifying the taxpayer's income. In simple terms, a bank deposit analysis assumes that all deposits that have been made to a taxpayer's bank account are income unless the taxpayer is able to show otherwise.
+[25] Mr. Plato explained that he had totaled all of the deposits made to the bank accounts owned by Mr. Hole and his wife and all accounts owned jointly with their children. He explained that he deducted any amounts that were transfers from other bank accounts and any amounts that had already been reported as income. This left Mr. Plato with three types of deposits: deposits that he knew were cheques relating to logging income; deposits that he knew were cash; and deposits where he did not know what had been deposited. Mr. Plato explained that he then made two adjustments. The first was to back out any cash deposits. Mr. Plato explained that he had excluded these deposits because he assumed that any cash that had been deposited had come from the grow-op and he wanted to avoid double-counting the same income. The second adjustment that Mr. Plato made was to exclude any unknown deposits of less than $1,000 that were round figures. Mr. Plato explained that he felt it was more likely than not that such deposits were cash. He testified he did not exclude round-figure deposits over $1,000 because he had noted that most of Mr. Hole's logging invoices were for round figures and were over $1,000 and thus believed that excluding round figures over $1,000 would exclude logging income that had not been detected from the invoices.
+[26] I found Mr. Plato's methodology to be fair in the circumstances. I was initially very concerned that the use of two alternative methods of assessment in the same tax year could result in a serious risk of income being double-counted. However, I am satisfied that Mr. Plato took sufficient steps to reduce the risk of double-counting.
+[27] There are two primary ways in which a taxpayer can challenge a bank deposit analysis. The first is to prove that his or her records were adequate and thus that his or her income should have been determined using those records. The second, and more common, method is to challenge the actual determination of income made by the Minister under the bank deposit analysis.
+[28] Mr. Hole focused his appeal on challenging the actual determination of income. He attacked a number of deposits related to sales of equipment and parts and services provided by his son that it turned out had already been excluded from the bank deposit analysis by Mr. Plato. Mr. Hole also focused on other deposits that involved the sale of vehicle parts in the amounts of $3,200 and $1,000. He testified that the parts came from a vehicle that he had purchased so that his son could use the engine. In essence, Mr. Hole was arguing that the sale was a sale of personal use property. I am not prepared to accept Mr. Hole's explanation. He did not provide any evidence of how much he paid to buy the vehicle, why he bought the whole vehicle instead of just the engine or when he bought the vehicle. He claims to have sold the vehicle to the same company that he sold used parts and equipment to and that he provided his logging services to. Mr. Hole did not call any witnesses from that company to testify as to the sale of the vehicle parts, nor did he call his son as a witness. I draw an adverse inference from his failure to do so.
+[29] Mr. Hole also challenged one cheque that was deposited to his son's bank account. Mr. Hole's son has the exact same name as he does. The cheque was endorsed by his son. However, Mr. Hole had a pattern of depositing his own funds into accounts held by his children. As such, the mere fact that the cheque was deposited to his son's account is not enough for me to back out that amount. I draw an adverse inference from Mr. Hole's failure to call either his son or someone from the company to whom the services in question were provided as a witness in respect of that cheque.
+[30] Based on all of the foregoing, I find that Mr. Hole has failed to demolish the Minister's assumptions that he earned income from logging in the amounts of $7,000, $39,869, $34,226, and $25,452 in his 2003, 2004, 2005 and 2006 tax years respectively. Mr. Hole has similarly failed to demolish the Minister's assumption that he failed to collect GST on those sales in 2004 and 2005.
+[31] I also find that the Minister has successfully proven that Mr. Hole was grossly negligent in failing to report his logging income. Mr. Hole did the work in question, issued invoices for that work, received payment for those invoices and deposited the payments in his or his families’ bank accounts. He knew that he was earning income and he simply chose not to report any of it on his tax returns.
+[32] Mr. Hole claimed that he did not need to report his logging income because he earned too little to be taxable. Even if I believed that his income was below the basic personal exemption, that would not excuse his knowingly filing a false return. An individual who earns too little to be taxable has two choices. Either he can file a tax return and report all of his income or he can simply not file a return. Filing a return without disclosing his income not only presents a false return, it also means that his income will be incorrectly determined for the purposes of various low-income credits such as the GST credits provided to taxpayers and that his spouse may receive the benefit of his personal exemption when she files her return.
+[33] Based on all of the foregoing, the appeals are dismissed.
+This Judgment is issued in substitution for the Judgment dated March 8, 2016.
+Signed at Ottawa, Canada, this 25th day of July, 2017.
+“David E. Graham”
+Graham J.
+CITATION:
+2016 TCC 55
+COURT FILE NOS.:
+2011-3541(IT)G & 2013-164(GST)G
+STYLE OF CAUSE:
+ROBERT HOLE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Kamloops, British Columbia
+DATE OF HEARING:
+November 30, 2015 and December 1, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+December 1, 2015
+DATE OF AMENDED
+REASONS FOR JUDGMENT
+July 25, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Margaret McCabe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

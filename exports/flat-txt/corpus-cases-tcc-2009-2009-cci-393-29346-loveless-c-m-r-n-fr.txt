@@ -1,0 +1,148 @@
+Title: Loveless c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29346/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-393-29346-loveless-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2009-08-05
+
+# Loveless c. M.R.N.
+
+- Citation: 2009 CCI 393
+- Decision date: 2009-08-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6901, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Loveless c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-08-05
+Référence neutre
+2009 CCI 393
+Numéro de dossier
+2008-175(EI)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-175(EI)
+ENTRE :
+GEORGE LOVELESS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+________________________________________________________________
+Appel entendu le 18 juin 2009, à Gander (Terre‑Neuve).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocate de l'intimé :
+Me Jill Chisholm
+________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi est rejeté, et la décision rendue par le ministre du Revenu national à l'égard de l'appel porté devant lui en vertu de l'article 91 de la Loi relativement aux périodes allant du 22 décembre 2003 au 1er mai 2004, du 17 janvier 2005 au 15 avril 2005 et du 28 novembre 2005 au 4 mars 2006 est confirmée.
+Signé à Vancouver (Colombie‑Britannique), ce 5e jour d'août 2009.
+« B. Paris »
+Le juge Paris
+Traduction certifiée conforme
+ce 14e jour d'octobre 2009.
+Yves Bellefeuille, réviseur
+Référence : 2009 CCI 393
+Date : 20090805
+Dossier : 2008-175(EI)
+ENTRE :
+GEORGE LOVELESS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Le présent appel a été interjeté à l'égard d'une décision rendue par le ministre du Revenu national, selon laquelle le travail fait par l'appelant pour la société South Coast Snow Removal Ltd. (« South Coast ») pendant les périodes allant du 22 décembre 2003 au 1er mai 2004, du 17 janvier 2005 au 15 avril 2005 et du 28 novembre 2005 au 4 mars 2006 ne constituait pas un emploi assurable au sens de la Loi sur l'assurance‑emploi (la « Loi »).
+[2] Le ministre a conclu que l'appelant et South Coast avaient entre eux un lien de dépendance et que l'emploi de l'appelant ne constituait donc pas un emploi assurable en application de l'alinéa 5(2)i) de la Loi. Cette disposition est ainsi rédigée :
+5(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+De plus, le paragraphe 5(3) de la Loi est libellé de la façon suivante :
+5(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[3] Il existait un lien de dépendance entre l'appelant et South Coast parce que l'appelant et sa conjointe de fait, Shirley Engram, étaient chacun propriétaires de 33 % des actions de South Coast. En tant que conjoints de fait, l'appelant et Mme Engram formaient un groupe lié au sens de l'article 251 de la Loi de l'impôt sur le revenu. Comme l'appelant et Mme Engram détenaient ensemble plus de 50 % des actions de South Coast, ils contrôlaient cette société et avaient un lien de dépendance avec elle. (Le reste des actions de South Coast appartenait à un ami de l'appelant et de Mme Engram.)
+[4] En l'espèce, le litige porte seulement sur la conclusion du ministre selon laquelle, compte tenu de toutes les circonstances, l'appelant et South Coast n'auraient pas conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance. Je dois décider, en fonction de tous les éléments de preuve, si la conclusion du ministre est raisonnable (voir Porter c. Le ministre du Revenu national, 2005 CCI 364).
+[5] Les hypothèses de fait sur lesquelles le ministre s'est fondé pour rendre sa décision sont exposées au paragraphe 7 de la réponse à l'avis d'appel, qui est ainsi rédigé :
+[TRADUCTION]
+a) l'appelant, Shirley Engram et Don Sutton étaient chacun propriétaires de 33,3 % des actions du payeur;
+b) l'appelant et Shirley Engram étaient conjoints de fait;
+c) pendant les périodes visées par l'appel, Shirley Engram et Don Sutton avaient des emplois à temps plein ailleurs et ne travaillaient pas pour le payeur;
+d) le payeur exploitait une entreprise de déneigement et d'épandage de sel et de sable au moyen d'une chargeuse frontale et d'une camionnette à quatre roues motrices équipée d'un chasse‑neige (le « matériel »);
+e) le payeur était le propriétaire inscrit de la chargeuse frontale;
+f) l'appelant était le propriétaire inscrit de la camionnette et du chasse‑neige;
+g) l'appelant était responsable de l'entretien et du fonctionnement du matériel servant à l'entreprise du payeur;
+h) l'appelant était l'unique responsable de l'exploitation quotidienne de l'entreprise;
+i) Shirley Engram et Don Sutton ne participaient pas à l'exploitation quotidienne de l'entreprise;
+j) l'appelant était le seul employé du payeur durant les années d'imposition 2003 et 2004;
+k) pendant l'année d'imposition 2005, le payeur avait un autre employé et lui a versé 1 025 $ pour cette année‑là;
+l) l'appelant était de nouveau le seul employé du payeur durant l'année d'imposition 2006;
+m) le salaire de l'appelant était calculé selon un taux horaire de 12 $ et une semaine de travail de 60 heures, et ce, peu importe le nombre d'heures de travail réelles de l'appelant;
+n) le travail du payeur et les heures de travail de l'appelant variaient selon le temps qu'il faisait;
+o) l'appelant était souvent rémunéré pour des semaines où le payeur n'avait aucun travail à faire;
+p) l'appelant a travaillé pour le payeur hors des périodes visées par l'appel;
+q) pendant les périodes visées par l'appel, le payeur a prétendument payé l'appelant pendant 24 périodes de paye à la quinzaine;
+r) pendant les périodes visées par l'appel, l'appelant a reçu 15 chèques de paye du payeur;
+s) l'appelant attendait souvent des semaines ou des mois avant d'encaisser ses chèques de paye;
+t) la fréquence où l'appelant était payé dépendait du flux de trésorerie du payeur.
+[6] L'appelant a admis les hypothèses de fait exposées aux alinéas a) à n) du paragraphe 7 de la réponse à l'avis d'appel.
+[7] Pour ce qui est de l'hypothèse présentée à l'alinéa 7o), l'appelant a dit qu'il n'avait souvenir d'aucune semaine pendant les périodes visées par l'appel où il n'avait pas travaillé pour South Coast. Il a dit qu'il y avait toujours quelque chose à faire; s'il n'y avait pas de neige à enlever, il s'occupait de l'entretien du matériel.
+[8] Pour ce qui est de l'hypothèse exposée à l'alinéa 7p), l'appelant a témoigné avoir travaillé pour South Coast chaque hiver, du 1er novembre au 31 mars. Il a dit que dans les rares cas où il y avait de la neige à enlever après le 31 mars, il devait faire le déneigement sans être payé.
+[9] L'appelant a soutenu que les modalités du contrat qu'il avait conclu avec South Coast étaient semblables à celles des contrats conclus par le ministère des Transports provincial pour le déneigement et l'épandage de sable. Il a témoigné que les contrats du ministère couvraient la période allant du 1er novembre au 31 mars de chaque hiver, et que les entrepreneurs étaient payés 15 $ l'heure. L'appelant a aussi affirmé avoir été payé pour le temps passé à travailler, et ne jamais avoir travaillé sans rémunération. L'appelant a dit qu'il considérait donc que ses modalités d'emploi étaient semblables à celles qui existent dans les situations où il n'existe pas de lien de dépendance.
+[10] Compte tenu de l'ensemble des éléments de preuve, l'appelant n'a pas su me convaincre que la décision du ministre n'était pas raisonnable. À mon avis, le fait que, pendant les périodes visées par l'appel, l'appelant était rémunéré pour 60 heures de travail par semaine, peu importe le nombre d'heures de travail réelles, n'est en rien semblable à ce qui existerait dans une relation de travail exempte de lien de dépendance. Quoique l'appelant ait dit que son salaire horaire et ses périodes d'emploi étaient semblables à ceux des entrepreneurs engagés par le ministère des Transports, rien ne prouve que ces entrepreneurs étaient rémunérés pour 60 heures de travail par semaine pendant toute la période d'emploi, peu importe le véritable nombre d'heures de travail. De plus, aucun élément de preuve n'a été présenté pour confirmer le taux horaire payé par le ministère des Transports pour le déneigement et l'épandage de sable.
+[11] L'appelant n'a présenté aucun élément de preuve pour établir que le nombre d'heures pour lesquelles il était payé correspondait au nombre d'heures pendant lesquelles South Coast avait besoin de ses services, ni que des entreprises de déneigement semblables rémunéraient leurs employés de façon semblable. De même, aucune preuve n'a été présentée pour établir que le modèle d'entreprise de South Coast et sa façon de rémunérer l'appelant étaient rentables.
+[12] Le témoignage de l'appelant, selon lequel il avait travaillé pendant au moins trois jours par semaine tout au long des périodes visées par l'appel, n'a pas du tout été corroboré. L'appelant ne consignait pas ses heures de travail dans un journal, et il n'y a aucun moyen de vérifier ses heures de travail de façon indépendante. Le témoignage de l'appelant quant au nombre de jours par semaine où il travaillait ne correspond pas à la réponse inscrite dans un questionnaire fourni par l'Agence du revenu du Canada, formulaire qui avait été complété par le comptable de l'appelant et dont l'appelant avait attesté l'exactitude. Selon le questionnaire, l'appelant avait travaillé entre un et sept jours par semaine. Je tiens aussi à souligner que l'appelant a souvent eu de la difficulté à se souvenir des détails de son travail auprès de South Coast et qu'il a affirmé avoir des problèmes de mémoire. Tout compte fait, je ne peux pas être certain du nombre d'heures pendant lesquelles l'appelant travaillait pour South Coast chaque semaine. Par conséquent, l'appelant n'a pas réussi à démontrer que la rémunération que lui a versée South Coast est semblable à celle qu'il aurait reçue s'il n'y avait pas eu de lien de dépendance entre eux.
+[13] Pour rendre sa décision à l'égard de l'emploi de l'appelant, le ministre a aussi tenu compte du fait que l'appelant devait souvent attendre des semaines ou des mois avant d'encaisser ses chèques de paye, selon le flux de trésorerie de South Coast. L'appelant a reconnu ce fait et a dit qu'il devait attendre que South Coast ait payé ses autres factures avant d'être payé. À mon avis, cet aspect de la relation de travail n'existerait pas normalement dans une relation de travail exempte de lien de dépendance.
+[14] Compte tenu des conclusions exposées ci‑dessus, je suis d'avis que le ministre a rendu une décision raisonnable en concluant que l'appelant et South Coast n'auraient pas conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[15] Par conséquent, l'appel est rejeté.
+Signé à Vancouver (Colombie‑Britannique), ce 5e jour d'août 2009.
+« B. Paris »
+Le juge Paris
+Traduction certifiée conforme
+ce 14e jour d'octobre 2009.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2009 CCI 393
+No DU DOSSIER DE LA COUR :
+2008-175(EI)
+INTITULÉ :
+George Loveless et
+Le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Gander (Terre‑Neuve)
+DATE DE L'AUDIENCE :
+Le 18 juin 2009
+MOTIFS DU JUGEMENT :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 5 août 2009
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Jill Chisholm
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

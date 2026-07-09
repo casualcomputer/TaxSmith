@@ -1,0 +1,199 @@
+---
+title: "Ilijoic v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/143108/index.do"
+last_modified: "2016-03-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 74"
+citation2: ""
+neutral_citation: "2016 TCC 74"
+decision_date: "2016-03-22"
+language: "en"
+item_id: "143108"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3106
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:55:46.721000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fc4e4b71dbf145aa33e15a75e24bd5371ec9abf9c228d341ab957ebef61f1f70"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ilijoic v. M.N.R.
+
+- Citation: 2016 TCC 74
+- Decision date: 2016-03-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3106, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ilijoic v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-03-22
+Neutral citation
+2016 TCC 74
+File numbers
+2015-90(EI)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2015-90(EI)
+BETWEEN:
+HELEN MARTHA ILIJOIC,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on February 19, 2016, at Edmonton, Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Bradley Angove - Law Student
+Counsel for the Respondent:
+Ian Wiebe
+Adam Pasichnyk, Student-at-Law
+JUDGMENT
+The appeal with respect to Minister of National Revenue’s decision dated October 14, 2014 made under the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 22nd day of March 2016.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2016TCC74
+Date: 20160322
+Docket: 2015-90(EI)
+BETWEEN:
+HELEN MARTHA ILIJOIC,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue in this appeal is whether the payments received by the Appellant under a Wage Loss Replacement Program (“WLRP”) during the period from January 1, 2013 to December 31, 2013 are insurable earnings in accordance with section 2 of the Employment Insurance Act (the “EI Act”) and section 2 of the Insurable Earnings and Collection of Premiums Regulations (the “IECPR”).
+FACTS [2] The witnesses at the hearing were the Appellant and Sherwyn Wharton who is a CPP/EI Appeals Officer with the Canada Revenue Agency (“CRA”).
+A. Appellant’s Evidence [3] The Appellant is an employee of Dow Chemical Canada ULC (“Dow”). She started to work for Dow in 1990 as a chemical technologist and in 1993 she became a research technologist. In September 2003, the Appellant became ill. During the period September 2004 until March 21, 2005, she was unable to work and she received benefits pursuant to a Short-Term Disability Plan. In 2005, Sun Life Assurance Company (“Sun Life”) approved her application to receive payments from the Long-Term Disability (“LTD”) Plan retroactively to March 22, 2005. Sun Life was the plan administrator.
+[4] The Appellant has not worked since 2004. However, she continues to be an employee at Dow and she participates in their insurance, dental and medical plan.
+[5] As part of her evidence, the Appellant submitted the following documents:
+• Letters dated January 31, 2005 and June 29, 2005 from Dow with respect to LTD benefits;
+• An e-mail from Dow dated March 28, 2008 with respect to the rehabilitation protocol;
+• A page from the Benefits Guide bearing the date 2002;
+• A document titled CLAIM FILE dated February 23, 2005 for the Appellant;
+• 7 pay notifications from Sun Life with dates from June 22, 2005 to January 8, 2007;
+• Amendment Agreement to Group Policy 83140 (“Policy 83140”) issued by Sun Life to Dow on July 1, 2004.
+[6] The Appellant stated that in 2005 Sun Life determined her eligibility to receive LTD benefits. She noted that when her claim to receive LTD benefits was approved, the policy number of the agreement between Sun Life and Dow was 83140. The Appellant entered a copy of the document entitled Amendment Agreement No. 7, Amendment to Group Policy 83140 (“Policy 83140” or the “Policy”) into evidence. The Policy was issued to Dow by Sun Life. The Policy number was written on various other documents submitted into evidence by the Appellant. In particular, it appeared on the pay notifications which were sent to her by Sun Life when it deposited money into her bank account (the “pay notifications”). The pay notifications showed the gross payment, federal tax deducted and amount deposited in her account. The pay notifications in evidence were dated from June 22, 2005 to January 8, 2007.
+[7] Policy 83140 was an insurance policy between Sun Life and Dow with an effective date of July 1, 2004. The Policy included Life Insurance and Long Term Disability Insurance. According to the Policy, Dow paid premiums to Sun Life and Dow was responsible for the administration of the Policy in accordance with the instructions provided by Sun Life. The Long Term Disability Insurance Provision contained a subrogation clause. It stated that if Sun Life had paid or was obligated to pay a benefit for an injury or disease for which a third party was or may be liable, Sun Life would assert its right to reimbursement.
+[8] I note that Dow could terminate the Policy by giving written notice and the termination date would be the date Sun Life received the notice or the termination date specified in the notice. Sun Life could also terminate the Policy on the first policy anniversary or on a premium due date after that by giving Dow 60 days written notice.
+B. Respondent’s Evidence [9] Mr. Wharton explained that this file was opened in the Appeals Division by a screener named Laurie Vallette. In opening the file, Laurie Vallette sent a letter to the Appellant and to Dow. The letter to Dow was dated May 7, 2014 (exhibit R-3) and requested Dow to provide all relevant information in support of its position with respect to the Appellant. The file was then assigned to Mr. Wharton.
+[10] The letter from Dow in response to CRA’s request was dated July 16, 2014 (exhibit R-4). A portion of that letter reads:
+Your letter does not describe Ms. Ilijoic’s exact issue. However, in her calls to our service center she expressed concern that Employment Insurance (“EI”) premiums had been deducted from her 2013 Long-Term disability (“LTD”) benefit payments, and said that she planned to appeal. Below is a summary of information and fact in support of our position that EI premiums were correctly deducted from Ms. Ilijoic’s 2013 LTD payments from Sun Life Financial on behalf of Dow.
+…
+Ms. Ilijoic was actively employed by Dow from September 18, 1990 through March 21, 2005. On March 22, 2005, she began receiving benefits under the Dow Long-Term Disability (“LTD”) program, which is administered by Sun Life Financial through an Administrative Services Only (“ASO”) arrangement.
+During the period January 1, 2013 to December 31, 2013, Ms. Ilijoic continued to receive ASO LTD benefits. Because Sun Life Financial pays benefits to Ms. Ilijoic on behalf of Dow through a wage loss replacement plan (LTD), Sun Life deducted EI premiums from her 2013 ASO LTD payments. Based on the Employers’ Guide language above, we believe that action was correct.
+[11] Mr. Wharton then requested and received a copy of the Administrative Services Contract (“ASO Contract”) between Sun Life and Dow. The ASO Contract has number 25506 and its effective date is January 1, 2008. I will discuss the provisions of this contract in the Analysis section of my decision.
+C. Appellant’s Position [12] The Appellant was represented by Bradley Angove, law student. He quoted the relevant legislative provisions. Mr. Angove stated that when the Appellant made her claim for LTD payments, the agreement between Dow and Sun Life was Policy 83140. Her eligibility to receive LTD payments was determined in accordance with Policy 83140; it was an insurance contract and not an administrative services only contract. Dow paid the premiums to Sun Life for the insurance policy but Sun Life, the insurer, determined the Appellant’s eligibility for benefits pursuant to Policy 83140. Sun Life made the payments to the Appellant and bore the risk pursuant to this Policy. There was a subrogation clause in this contract. The ASO Contract (exhibit R-1) is not relevant because it was not in force when the Appellant was found to be eligible to receive the WLRP payments.
+D. Respondent’s Position [13] Mr. Pasichnyk, student-at-law, represented the Respondent. He stated that the issue in this appeal is whether the WLRP payments received by the Appellant in 2013 were insurable earnings. He quoted the relevant statutory provisions and then stated that the WLRP received by the Appellant in 2013 was completely funded by Dow.
+[14] It was the Respondent’s position that the period at issue in this appeal is 2013. The Appellant may have first received her WLRP payments under the insurance contract, Policy 83140, but that contract was not effective for 2013. The ASO Contract was effective as of January 1, 2008 and remained in effect during 2013. As a result, the WLRP payments received by the Appellant in 2013 were pursuant to the ASO Contract. The amounts paid to the Appellant in 2013 by Sun Life were actually payments by Dow to the Appellant as Sun Life was agent for Dow.
+II. LEGISLATION [15] The relevant provisions of the EI Act and the IECPR read:
+Employment Insurance Act
+2(1) Definitions—In this Act,
+[…]
+insurable earnings means the total amount of the earnings, as determined in accordance with Part IV, that an insured person has from insurable employment; (rémunération assurable)
+5(1) Types of insurable employment—subject to subsection (2), insurable employment is
+a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+Insurable Earnings and Collection of Premiums Regulations, SOR/97-33
+2(1) For the purposes of the definition “insurable earnings” in subsection 2(1) of the Act and for the purposes of these Regulations, the total amount of earnings that an insured person has from insurable employment is
+(a) the total of all amounts, whether wholly or partly pecuniary, received or enjoyed by the insured person that are paid to the person by the person’s employer in respect of that employment, and;
+III. ANALYSIS AND DECISION [16] The first question to answer in this appeal is whether the WLRP payments received by the Appellant in 2013 were pursuant to Policy 83140 or the ASO Contract. I have concluded that it was the ASO Contract.
+[17] It is my view that many of the documents submitted by the Appellant were not relevant to the issue before me. All documents submitted by her bore a date prior to 2013. The pay notifications which showed the amount of money deposited into her bank account by Sun Life bore the contract number 83140. However, all of these pay notifications were dated prior to 2008. The last one was dated January 8, 2007.
+[18] In cross-examination, the Appellant admitted that she received pay notifications from Sun Life at least once a year and she did have pay notifications for 2013. She did not include them in her book of documents and she failed to bring them to Court. I have drawn an adverse inference from her failure to submit any pay notifications for 2013. I have inferred that the Appellant did not submit a 2013 pay notification because it would not have supported her position in this appeal. I note that each of the pay notifications for 2005 to 2007 inclusive contained the contract number under which the payments were made. I have also inferred that the 2013 pay notifications most likely contained the number of the contract in force for 2013 which was the ASO Contract – 25506.
+[19] The Appellant may have received her WLRP payments under Policy 83140 in 2005 to 2007, but it appears that that Policy was not effective for 2013. The ASO Contract was effective as of January 1, 2008 and remained in effect in 2013. In cross-examination, the Appellant admitted that “most likely” her 2013 WLRP payments were paid in accordance with the ASO Contract.
+[20] The letter from Dow to the CRA is clear that, in 2013, the Appellant was paid benefits by Sun Life through an Administrative Services Contract. When Mr. Wharton requested the relevant contract from Dow, the ASO Contract was sent to him.
+[21] The second question is whether it matters that the Appellant’s eligibility for LTD payments was first determined under Policy 83140. I think not. The question is not under which policy she was first found to be eligible to receive LTD payments but under which policy was she determined to be eligible to receive benefits in 2013. That policy is the relevant policy in this appeal.
+[22] According to the ASO Contract, to be eligible for benefits, “an employee must be a member of a class of eligible employees as agreed between the Plan Sponsor (Dow) and the Plan Administrator” (Sun Life). It is clear from the ASO Contract that Dow had the final determination concerning an employee’s eligibility for coverage under the Plan attached to the ASO Contract.
+[23] The Appellant’s documents included an email dated March 27, 2008 from her to Paula Westaway who is a Benefits Plan Specialist at Dow. According to this email, in 2008, the Appellant was required to obtain further independent medical examinations. It seems to me that her eligibility to receive WLRP payments was again determined in 2008. I note that the ASO Contract was effective January 1, 2008.
+[24] The next question is whether the WLRP payments received by the Appellant in 2013 were insurable earnings.
+[25] Subsection 2(1) of the EI Act defines “insurable earnings” as the “total amount of earnings”, determined in accordance with Part IV, that an insured person has from insurable employment. In this case, it is not disputed that the Appellant was engaged in “insurable employment” during the relevant period. Both parties agreed that the Appellant was an employee of Dow in 2013 and therefore she was employed under a contract of service in accordance with paragraph 5(1)(a) of the EI Act.
+[26] Paragraph 2(1)(a) of the IECPR sets out that the “total amount of earnings” is “the total of all amounts, whether wholly or partly pecuniary, received or enjoyed by the insured person that are paid to the person by the person’s employer in respect of that employment.” (emphasis added).
+[27] In Banque nationale du Canada v Ministre du Revenu national, 2003 FCA 242, Letourneau J.A. summarized the legal principles from the earlier Federal Court of Appeal decision in Université Laval v Ministre du Revenu national, 2002 FCA 171. That decision discussed the legal principles involved in determining whether WLRP payments are paid by an employer in respect of employment. He wrote:
+(1) The expression “in respect of” such employment, which qualifies earnings paid by the employer and which is found in subsection 2(1) of the Regulations is particularly broad;
+(2) There can be insurable earnings within the meaning of the Regulations even where the employee has not performed any services;
+(3) Benefits paid by an employer under a wage loss indemnity plan constitute insurable earnings within the meaning of the Act and the Regulations, while benefits paid by a third party insurer are excluded from the definition;
+... and
+(5) Wage loss benefits are paid by an employer under a contract of employment where the following indicia exist, which are not necessarily exhaustive: the wage loss insurance plan is entirely paid for by the employer, the employment relationship continues to exist during the disability, the benefits payable are increased if there is a salary increase during the disability period, the benefits are paid by the employer during normal pay periods for the first 52 weeks of disability and thereafter by the insurer and lastly, the employer determines eligibility for the benefits and signs the cheques. (emphasis added)
+[28] According to the Federal Court of Appeal, it is not necessary for all the indicia listed in principle (5) to exist in order to find that the benefits are paid by the employer.
+[29] The WLRP is a group plan and is referred to in the ASO Contract as the Plan. The ASO Contract contains the following provisions:
+a) Clause 2: Sun Life performed its obligations under the ASO Contract as agent for Dow and not as an insurer;
+b) Clause 7: Sun Life did not insure or underwrite the Plan. Dow retained the legal and financial liability to pay benefits under the Plan and all expenses incurred in administering the Plan except those expenses which Sun Life assumed. Sun Life had no duty to defend any action against the Plan or Dow. Dow indemnified Sun Life against any damage, liability and expenses which resulted from claims or lawsuits brought against Sun Life in connection with the Plan or the ASO Contract;
+c) Clause 10: Sun Life opened a bank account in its name which was used solely in connection with the Plan and the ASO Contract. The bank account was funded by Dow;
+d) Appendix “B”: Sun Life performed administrative and claims services for Dow. They consisted of:
+Administrative Services
+i. maintain the necessary records for experience analysis, reserve calculation purposes, payment of benefits, projection of future costs, and cost estimates for plan modifications;
+ii. provide a monthly accounting of payments with sufficient detail to allow for the control and audit of the Plan's funds;
+iii. prepare an annual financial report reviewing activity in the Plan during the year;
+iv. assist in the preparation of communication material for employees concerning the benefits provided under the Plan;
+v. prepare and print claim forms;
+vi. prepare the Plan documents and any proposed modifications for review and approval by Dow;
+Claims Services
+i. advise as to the entitlement of covered persons to receive benefits in accordance with the Plan documents;
+ii. investigate any claim which required investigation and obtain the opinion of experts, including medical experts, where necessary;
+iii. refer to Dow for consideration and final determination:
+(a) any dispute concerning a person's eligibility or coverage under the Plan, or his right to receive benefits;
+(b) any situation where a person has disputed the amount due;
+(c) generally any controversial matter or non-routine matter arising out of the administration of the Plan where such matters cannot be satisfactorily resolved by following the claims administration procedures and practices established;
+[30] It is clear that Sun Life merely acted as agent for Dow who entirely funded the WLRP and bore all financial risks of the Plan. Sun Life was not an insurer but the administrator of the Plan. Dow had the final determination with respect to a person’s eligibility or coverage under the Plan.
+[31] I have concluded that the WLRP payments received by the Appellant in 2013 were paid to her by Dow in respect of her employment and the WLRP payments are insurable earnings. The appeal is dismissed.
+Signed at Ottawa, Canada, this 22nd day of March 2016.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2016TCC74
+COURT FILE NO.:
+2015-90(EI)
+STYLE OF CAUSE:
+HELEN MARTHA ILIJOIC AND M.N.R.
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+February 19, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+March 22, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Bradley Angove - Law Student
+Counsel for the Respondent:
+Ian Wiebe
+Adam Pasichnyk, Student-at-Law
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Bradley Angove - Law Student
+Firm:
+13004 205 Street NW
+Edmonton, Alberta
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

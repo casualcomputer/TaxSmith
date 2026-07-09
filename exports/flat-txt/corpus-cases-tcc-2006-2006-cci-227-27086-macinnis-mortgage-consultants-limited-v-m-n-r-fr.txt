@@ -1,0 +1,213 @@
+Title: MacInnis Mortgage Consultants Limited v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27086/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-227-27086-macinnis-mortgage-consultants-limited-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2006-04-18
+
+# MacInnis Mortgage Consultants Limited v. M.N.R.
+
+- Citation: 2006 CCI 227
+- Decision date: 2006-04-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 956, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacInnis Mortgage Consultants Limited v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-18
+Référence neutre
+2006 CCI 227
+Numéro de dossier
+2005-2121(EI)
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005‑2121(EI)
+ENTRE :
+MACINNIS MORTGAGE CONSULTANTS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+RUTH BRAITHWAITE,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu sur preuve commune avec l’appel de MacInnis Mortgage Consultants Limited (2005‑2122(CPP)), à Halifax (Nouvelle‑Écosse),
+le 14 décembre 2005 et le 10 mars 2006
+Devant : l’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelante :
+M. Roderick MacInnis
+Avocate de l’intimé :
+Pour l’intervenante :
+Me Catherine McIntyre
+L’intervenante elle‑même
+_______________________________________________________________
+JUGEMENT
+L’appel est accueilli, sans que les dépens soient adjugés, et la décision du ministre est annulée selon les motifs de jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 18e jour d’avril 2006.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 25e jour de juin 2007.
+Maurice Audet, réviseur
+Dossier : 2005‑2122(CPP)
+ENTRE :
+MACINNIS MORTGAGE CONSULTANTS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+RUTH BRAITHWAITE,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+_______________________________________________________________
+Appel entendu sur preuve commune avec l’appel de MacInnis Mortgage Consultants Limited (2005‑2121(EI)), à Halifax (Nouvelle‑Écosse),
+le 14 décembre 2005 et le 10 mars 2006
+Devant : l’honorable juge Diane Campbell
+Comparutions :
+Représentant de l’appelante :
+M. Roderick MacInnis
+Avocate de l’intimé :
+Pour l’intervenante :
+Me Catherine McIntyre
+L’intervenante elle‑même
+_______________________________________________________________
+JUGEMENT
+L’appel est accueilli, sans que les dépens soient adjugés, et la décision du ministre est annulée selon les motifs de jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 18e jour d’avril 2006.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 25e jour de juin 2007.
+Maurice Audet, réviseur
+Référence : 2006CCI227
+Date : 20060418
+Dossiers : 2005‑2121(EI)
+2005‑2122(CPP)
+ENTRE :
+MACINNIS MORTGAGE CONSULTANTS LIMITED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+RUTH BRAITHWAITE,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] L’appelante exploite une entreprise de courtage hypothécaire sous l’égide de la Mortgage Brokers and Lenders Registration Act (la « Mortgage Brokers Act »), en Nouvelle‑Écosse. Ruth Braithwaite (la « travailleuse ») a travaillé comme conseillère hypothécaire du 12 février au 5 juillet 2004 (la « période visée par l’appel »). L’appelante a interjeté appel d’une décision selon laquelle la travailleuse exerçait un emploi assurable aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi (la « Loi ») et que l’emploi ouvrait droit à pension conformément à l’alinéa 6(1)a) du Régime de pensions du Canada (le « Régime »). C’est de cette décision que l’appelante a interjeté appel. Roderick MacInnis, président et unique actionnaire de l’appelante, a également interjeté appel devant la Cour. Toutefois, la décision du ministre du Revenu national (le « ministre ») se rapportait uniquement à l’emploi de la travailleuse auprès de l’appelante et ne concernait pas Roderick MacInnis personnellement.
+[2] L’intimé s’est fondé sur les hypothèses de fait suivantes en arrivant aux décisions :
+[traduction]
+a) les faits énoncés et admis ci‑dessus;
+b) l’appelante exploitait une entreprise de courtage hypothécaire;
+c) Roderick MacInnis est l’unique actionnaire et président de l’appelante;
+d) la travailleuse a été embauchée par l’appelante à titre de conseillère hypothécaire;
+e) la travailleuse s’occupait notamment de rencontrer les clients afin d’examiner leurs besoins en matière hypothécaire ainsi que les solutions possibles, de rassembler les documents nécessaires, de demander une évaluation et ainsi de suite;
+f) la travailleuse représentait l’appelante lorsqu’elle exécutait ses tâches;
+g) la travailleuse était tenue d’accomplir ses tâches personnellement;
+h) la travailleuse était tenue de se tenir au fait du marché;
+i) la travailleuse était tenue de participer à deux salons professionnels annuels en tant que membre d’une équipe représentant l’appelante;
+j) la travailleuse était tenue d’établir un calendrier des événements hebdomadaires, ce qui comprenait le tableau de service de l’appelante, les rendez‑vous avec les clients, le temps de commercialisation au sein de la communauté et les rendez‑vous personnels;
+k) le tableau de service de l’appelante couvait la période allant de 8 h à 18 h;
+l) les dossiers préparés par la travailleuse étaient assujettis à une vérification de la part de l’appelante;
+m) la travailleuse était tenue de suivre une formation selon le programme de formation de l’appelante;
+n) la travailleuse était tenue de rencontrer la direction sur une base régulière;
+o) la travailleuse était tenue de se conformer au code vestimentaire de l’appelante;
+p) l’appelante réglait les plaintes que les clients présentaient contre la travailleuse;
+q) l’appelante pouvait mettre fin à l’emploi de la travailleuse;
+r) l’appelante louait un ordinateur destiné à être utilisé par la travailleuse; la travailleuse remboursait l’appelante des frais de location;
+s) la rétribution de la travailleuse était basée sur un partage des commissions, dans une proportion 60/40 sur les premiers 25 000 $ associés aux honoraires de recherche et dans une proportion de 70/30 pour les honoraires de recherche en sus du montant de 25 000 $;
+t) la travailleuse était tenue de participer au régime de prestations de services de santé de l’appelante.
+[3] Roderick MacInnis a témoigné que sa société, l’appelante, exploitait un centre de courtage hypothécaire franchisé par l’entremise de CIBC Mortgages Inc. Il a soutenu que la travailleuse était une courtière ou une conseillère autonome qui fournissait des services à ses propres clients en les aidant à trouver une société de prêts hypothécaires appropriée qui leur accorderait l’hypothèque dont ils avaient besoin. L’appelante assurait un soutien administratif en permettant un fonctionnement plus efficace et plus économique de la procédure de demande d’hypothèque. De plus, c’est l’appelante qui détient la licence ou le permis en vertu de la Mortgage Brokers Act et qui est donc le courtier inscrit. Les conseillers hypothécaires tels que la travailleuse n’étaient pas obligés d’être agréés individuellement en vertu de cette loi, mais ils ne pouvaient faire affaire que sous le nom de l’appelante. Il incombe à l’appelante de veiller à ce que les courtiers en hypothèques respectent les paramètres de la législation habilitante. Le 12 février 2004, l’appelante et la travailleuse ont signé un contrat de prestation de services de conseiller qui énonçait les conditions régissant leur relation de travail. Dans l’un des paragraphes de l’entente, il est reconnu que la travailleuse n’est pas une employée de l’appelante, mais qu’elle est plutôt un entrepreneur indépendant. Je reviendrai plus loin sur les détails de cette entente.
+[4] En ce qui concerne les hypothèses, l’appelante a convenu des faits énoncés aux alinéas b), c), d), h), k), o) et s). M. MacInnis a apporté des réserves ou ne souscrivait pas aux hypothèses ci‑après énoncées :
+e) M. MacInnis a apporté une réserve à cette hypothèse en soulignant que les tâches de la travailleuse comprenaient également la responsabilité de développer sa propre entreprise en augmentant le nombre de ses propres clients au moyen de la participation au tableau de service et à d’autres mécanismes de constitution de réseaux de commercialisation personnelle. M. MacInnis a déclaré que l’inscription aux tableaux de service était volontaire au sein du bureau et que les courtiers y inscrivaient leurs propres horaires de travail. Pour les courtiers, les tableaux de service étaient l’un des moyens d’obtenir des pistes de clients étant donné que, pendant leurs heures particulières, ils répondaient aux clients qui se présentaient à l’improviste au bureau ainsi qu’aux appels téléphoniques de clients éventuels. De plus, la travailleuse pouvait développer son entreprise comme elle l’entendait au moyen de contacts avec des avocats, des agents immobiliers et des planificateurs financiers.
+f) M. MacInnis ne souscrivait pas à cette hypothèse; il a déclaré que, même si le nom de l’appelante figurait sur le formulaire de demande d’hypothèque conformément aux prescriptions de la Mortgage Brokers Act, la travailleuse signait en fait l’autorisation au nom du client afin d’obtenir le rapport de solvabilité et elle traitait exclusivement avec ses clients. Il a déclaré que la travailleuse agissait en fait pour son propre compte et ne représentait pas l’appelante.
+g) M. MacInnis a donné des explications au sujet de cette hypothèse en précisant que c’était la travailleuse qui connaissait sa clientèle et les besoins des clients. La travailleuse était libre de rencontrer les clients chez elle et elle n’avait en fait jamais à se rendre au bureau. Par conséquent, personne d’autre ne pouvait accomplir ses tâches à sa place.
+i) M. MacInnis a apporté une réserve à cette hypothèse en disant que les salons professionnels constituaient l’un des mécanismes permettant d’acquérir une connaissance du marché et que les dépenses engagées pour y assister étaient à la charge de la travailleuse. De plus, M. MacInnis a souligné que le courtier exerce ses activités en vertu de la licence de l’appelante, mais que c’est l’appelante qui doit veiller à ce que les courtiers observent la Mortgage Brokers Act, ce qu’ils font en acquérant une connaissance du marché par différents moyens, dont les salons professionnels.
+j) M. MacInnis n’était pas d’accord pour dire que la travailleuse était tenue de s’inscrire au tableau de service; il a expliqué que cela était volontaire, mais qu’une fois inscrit à l’horaire, chaque courtier devait effectuer ces heures au bureau. M. MacInnis a également dit qu’il voulait s’assurer qu’un calendrier des événements soit en place afin d’éviter qu’il y ait conflit avec les rendez‑vous.
+l) M. MacInnis a apporté une réserve à cette hypothèse en expliquant que les dossiers étaient assujettis à une vérification en vue d’assurer l’observation de la Mortgage Brokers Act et de veiller à ce que toute la documentation hypothécaire soit complète une fois la demande présentée.
+m) Cette hypothèse a été niée, sauf en ce qui concerne le fait qu’on expliquait à la travailleuse comment utiliser le logiciel de l’ordinateur portatif et que les formulaires appropriés requis par la législation étaient examinés avec elle. La plupart des documents et des formulaires provenaient de sources extérieures. De plus, tout courtier recevait de 35 à 60 heures de formation informatique avant d’être engagé. La formation comprenait un questionnaire en ligne auquel il devait répondre pour qu’on puisse déterminer ce qu’il savait de l’industrie. Il arrivait parfois que des banques et des établissements de crédit comme la SCHL s’occupent de la formation, de sorte qu’il y avait des événements indépendants auxquels les courtiers pouvaient participer.
+n) M. MacInnis a nié cette hypothèse; il a affirmé qu’il y avait des réunions mensuelles, mais que la date et l’heure de ces réunions n’étaient pas fixes.
+p) M. MacInnis a clarifié cette hypothèse en disant qu’il pouvait au besoin agir comme intermédiaire lorsqu’un client formulait une plainte contre la travailleuse.
+q) Cette hypothèse a été clarifiée parce que l’appelante et la travailleuse pouvaient toutes deux mettre fin à l’emploi.
+r) M. MacInnis ne souscrivait pas à cette hypothèse; il a affirmé que l’ordinateur portatif appartenait uniquement à la travailleuse, qu’elle seule était responsable du paiement du prix de location et que Roderick MacInnis avait signé le contrat de location personnellement uniquement parce que la travailleuse n’était pas elle‑même admissible.
+t) Une réserve a été apportée à cette hypothèse. La travailleuse devait participer dans une certaine mesure au régime de prestations de services de santé simplement parce que les conseillers, en tant que groupe, avaient décidé d’être couverts. La travailleuse avait choisi d’être entièrement couverte par le régime et elle était tenue de payer la totalité des primes.
+[5] En plus de la preuve qu’il a fournie au sujet des hypothèses, M. MacInnis a dit qu’en ce qui concerne le régime de rémunération (annexe A jointe au contrat de prestation de services de conseiller), tout le revenu était généré par les commissions, l’industrie autorisant le partage entre l’appelante et les conseillers dans une proportion de 50/50 à 95/5, selon la répartition générale des frais généraux de bureau, telle qu’elle était déterminée par l’appelante. Le pourcentage qui revenait à l’appelante couvrait la part au prorata des frais de bureau que la travailleuse devait payer, comme le téléphone, les photocopies, les télécopies, le loyer et les fournitures de bureau. Cela évitait d’avoir à déterminer les frais de bureau à imputer à chaque courtier.
+[6] L’appelante comptait deux employés de bureau et cinq courtiers. Les courtiers travaillaient dans une grande pièce dotée de cinq postes individuels de travail. Chaque poste était muni de son propre téléphone, mais chaque courtier était tenu d’avoir un ordinateur portatif qui était un élément crucial de ses activités.
+[7] La travailleuse devait recruter ses propres clients, mais tous les courtiers étaient autorisés à accéder à la base de clients établie par l’appelante.
+[8] M. MacInnis a déclaré qu’en vertu de la Mortgage Brokers Act, les courtiers étaient tenus de souscrire une assurance contre les erreurs et les omissions, chacun devant payer les frais y afférents.
+[9] Quant aux clauses de non‑concurrence figurant dans le contrat conclu entre l’appelante et la travailleuse, M. MacInnis a déclaré qu’elles visaient principalement à protéger la confidentialité des dossiers des clients. M. MacInnis a déclaré que cela empêchait un courtier de s’établir d’une façon autonome et de faire concurrence à l’appelante, mais que l’appelante ne s’opposait pas à ce qu’un courtier aille travailler pour un concurrent.
+[10] Selon la preuve présentée par M. MacInnis, la travailleuse payait tous ses propres frais de publicité et décidait des moyens publicitaires à employer. La publicité était faite pour le compte de l’appelante en vertu de la licence et sous le logo de l’appelante conformément à la législation.
+[11] Quant à l’établissement de l’horaire de travail et aux heures travaillées, M. MacInnis a affirmé que les courtiers décidaient de leurs propres horaires et de leurs propres heures, à condition que ce soit pendant les heures quotidiennes de bureau, soit de huit à dix‑huit heures. Chaque courtier avait sa propre clé du bureau et décidait de ses heures individuelles de travail. Les courtiers allaient sur les chantiers de construction le dimanche après‑midi, mais ils le faisaient volontairement et il y avait un courtier qui ne participait pas du tout à ce programme.
+[12] En plus de la preuve fournie par Roderick MacInnis, l’appelante s’est fondée sur le témoignage de Jo‑Ann Hamilton, qui agissait comme agente administrative principale en vertu de la Mortgage Brokers Act. Lorsqu’elle a été contre‑interrogée, Mme Hamilton a expliqué que la société ou le particulier qui exploite une entreprise en vertu de cette loi doit détenir une licence, mais que si une entité titulaire de licence a recours à des particuliers pour exercer ses activités, ceux-ci n’ont pas à posséder une licence en vertu de cette loi. Ces particuliers sont plutôt considérés comme exerçant leurs activités pour le compte ou au nom de l’entité détenant la licence. Mme Hamilton a souligné qu’un particulier pouvait travailler pour plusieurs entités détentrices de licence en même temps, à condition d’informer le client de l’entité qu’il représentait pour une opération particulière. Mme Hamilton a ensuite expliqué que la Mortgage Brokers Act n’oblige pas le titulaire d’une licence à se tenir à jour quant à ses qualifications et à sa formation. Toute publicité doit être faite au nom du titulaire de la licence conformément à cette loi. De plus, l’entité titulaire d’une licence doit tenir des dossiers et avoir un bureau dans la province, de façon à permettre au ministère de procéder à des enquêtes. Mme Hamilton a ajouté que les formulaires de demande d’hypothèque doivent contenir le nom de l’entité titulaire de la licence uniquement si le conseiller en cause ne détient pas lui‑même de licence.
+[13] Le dernier témoin était Ruth Braithwaite, l’intervenante et la travailleuse. Son témoignage sur certains points contredisait celui de M. MacInnis. Mme Braithwaite a témoigné que la participation aux salons professionnels, la présence aux portes ouvertes, les réunions hebdomadaires et l’inscription au tableau de service pour les présentations internes étaient obligatoires. Lorsqu’elle a été interrogée par M. MacInnis, elle a toutefois convenu qu’un courtier avait décidé de ne pas participer à certains événements. L’horaire des portes ouvertes était établi à la suite d’une discussion de groupe entre les conseillers et l’horaire était ensuite remis à la réceptionniste pour qu’elle l’affiche. Lorsque l’avocat de l’intimé l’a interrogée, Mme Braithwaite a déclaré que l’idée du tableau de service avait été adoptée après qu’elle eut commencé à travailler à ce bureau. Les conseillers discutaient de l’horaire et l’établissaient ensemble. À un moment donné, si Mme Braithwaite ne voulait pas participer, elle était libre de le faire, mais elle pensait que cela était néanmoins obligatoire parce que, si elle ne participait pas en vue d’obtenir des appels téléphoniques et des pistes, ses activités en souffraient. Mme Braithwaite a déclaré que les courtiers étaient affectés aux portes ouvertes par rotation et que, comme pour le tableau de service, ils s’entendaient entre eux et un horaire était établi.
+[14] En plus du contrat de prestation de services de conseiller qui a été signé, les parties ont également signé, le même jour, un contrat intitulé [traduction] « contrat de travail ». M. MacInnis a affirmé que le contrat de travail avait été signé par erreur et que c’était le contrat de prestation de services de conseiller qui s’appliquait, mais la travailleuse a affirmé ne pas savoir que le contrat de travail ne devait pas faire partie de l’entente. Mme Braithwaite a convenu qu’avant de signer les contrats, elle s’était entendue avec M. MacInnis pour agir à titre d’entrepreneur indépendant recevant de l’aide avec les pistes de clients. Elle a convenu qu’il y avait eu accord des volontés au sujet de son statut d’entrepreneur indépendant.
+[15] Quant à la formation, Mme Braithwaite a témoigné qu’elle avait de l’expérience en tant que courtière lorsqu’elle avait commencé à travailler pour l’appelante, mais qu’elle avait suivi un cours en ligne gratuit. Dans l’annexe A jointe à leur entente, il était fait mention de la formation requise et Mme Braithwaite a déclaré que la formation était obligatoire en ce sens que les courtiers devaient se tenir à jour au sein de l’industrie. Elle a également déclaré croire qu’elle n’aurait pas pu négocier le partage des commissions, mais elle a ajouté que ce partage lui convenait. Quant à l’assurance en cas d’erreur ou d’omission, Mme Braithwaite a déclaré que l’appelante avait certaines exigences en matière d’assurance et que si elle voulait travailler au centre, elle devait souscrire l’assurance stipulée. Mme Braithwaite croyait également que l’assurance‑vie et l’assurance‑invalidité étaient obligatoires. Lorsque M. MacInnis l’a interrogée, Mme Braithwaite a affirmé ne pas savoir qu’il y avait uniquement une exigence minimum aux fins de la participation au régime d’assurance et que, sauf pour cette exigence, elle était libre de ne pas participer au régime.
+[16] La travailleuse a affirmé avoir assisté à deux types différents de réunions : celles du petit déjeuner et les réunions individuelles avec la direction. Elle a admis qu’on ne lui avait en fait jamais dit que les réunions du petit déjeuner (qui étaient des séances de remue‑méninges au cours desquelles on discutait des événements à venir) étaient obligatoires, mais elle estimait qu’il était essentiel d’assister aux réunions afin de se tenir au courant des changements d’horaire, des salons professionnels et de la politique du bureau. Les réunions individuelles étaient tenues lorsque, par exemple, les formulaires de demande d’hypothèque de la travailleuse étaient inexacts ou incomplets. La travailleuse a convenu qu’elle jouissait d’une autonomie complète lorsqu’il s’agissait de fixer les rendez‑vous avec les clients, mais elle estimait représenter l’appelante lorsqu’elle les rencontrait. Elle croyait qu’il y avait des frais à payer pour assister aux salons professionnels, mais que l’appelante s’en chargeait. Cela contredisait le témoignage de M. MacInnis qui a déclaré que les conseillers payaient eux‑mêmes ce qu’il en coûtait pour assister aux salons. Si, un jour donné, la travailleuse décidait de ne pas s’inscrire au tableau de service, elle pouvait néanmoins se rendre au bureau à son gré. La travailleuse a déclaré effectuer presque tout son travail depuis le bureau de l’appelante. Elle estimait être supervisée lorsqu’elle était au bureau puisque la plupart des demandes étaient traitées par l’entremise du chef de bureau qui était chargé d’assurer la conformité avec la Mortgage Brokers Act. La travailleuse a déclaré que M. MacInnis était au bureau tous les jours. De plus, le chef de bureau savait quels clients la travailleuse voyait. Au début, il n’a jamais été question des plaintes, mais la travailleuse croyait que toute plainte la concernant devait être adressée à M. MacInnis.
+[17] La travailleuse a confirmé la preuve de M. MacInnis selon laquelle tous les frais de la publicité qu’elle engageait étaient à sa charge et que, dans certains cas, elle les partageait avec un agent immobilier de l’extérieur. Elle a également confirmé que, lorsqu’elle faisait de la publicité, elle devait le faire sous le nom de l’appelante parce que la licence était enregistrée au nom de cette dernière en vertu de la législation.
+[18] La travailleuse a confirmé qu’elle venait de s’installer dans la région, qu’elle n’était pas encore établie et qu’elle ne pouvait donc pas louer d’ordinateur portatif en son nom personnel. Cela confirmait la preuve que M. MacInnis avait fournie quant à la raison pour laquelle il avait signé le contrat de location. La travailleuse effectuait les versements et elle a confirmé avoir pu conserver l’ordinateur à son départ de la firme. Elle a également confirmé que l’ordinateur faisait partie intégrante de son travail.
+[19] En ce qui concerne l’embauchage de quelqu’un d’autre pour s’occuper des portes ouvertes à sa place, la travailleuse a déclaré qu’elle pouvait le faire, à condition que son remplaçant soit un collaborateur du bureau.
+Analyse
+[20] La question à trancher est celle de savoir si l’appelante a engagé la travailleuse aux termes d’un contrat de louage de services ou d’un contrat d’entreprise. Pour la résoudre, il faut tenir compte des facteurs bien connus du critère composé de quatre éléments, énoncés dans l’arrêt Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, et approuvés par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983. Les facteurs du critère sont le contrôle, la propriété des instruments de travail, les chances de bénéfice ou les risques de perte et, dans une moindre mesure, le degré d’intégration. Toutefois, l’examen des faits tels qu’ils se rapportent à chacun de ces facteurs n’offre pas une formule magique dont l’application rend toujours une telle détermination nécessairement claire. La remarque que je fais est étayée par les propos du juge Major, au paragraphe 48 de l’arrêt Sagaz :
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+Dans l’arrêt Sagaz, le juge Major approuve ensuite la question posée par le juge Cooke dans l’arrêt Market Investigations Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732. Après avoir examiné les faits par rapport au critère composé de quatre éléments, il faut prendre du recul une fois qu’on a tenu compte de la totalité de la relation existant entre les intéressés et se demander « à qui appartient l’entreprise ».
+[21] Quant au premier facteur, le contrôle, il est important de se demander si le payeur avait la capacité d’exercer un contrôle sur le mode d’exécution du travail ainsi que sur le moment et sur l’endroit où le travail était exécuté. L’intimé a soutenu que les facteurs « contrôle » et « intégration » militaient en faveur d’une relation employeur‑employé, alors que ceux dits « instruments de travail » et « intention » militaient à l’encontre. Il existait une preuve contradictoire sur certains des points se rapportant au facteur « contrôle », mais si j’examine la description de travail du courtier (annexe C du contrat de prestation de services de conseiller), il est clair que chaque courtier, dont la travailleuse, devait accomplir le travail en tant que membre d’une équipe et participer aux activités de commercialisation du bureau qui avaient lieu à l’extérieur, et notamment à deux salons professionnels annuels. De plus, la travailleuse devait établir un calendrier des événements hebdomadaires, ce qui comprenait les rendez‑vous avec les clients, le tableau de service et les efforts individuels de commercialisation. Selon la preuve fournie par M. MacInnis et par la travailleuse, l’inscription au tableau de service et la participation aux portes ouvertes n’étaient pas obligatoires, mais les pistes de clients étaient plus difficiles à obtenir si l’on n’y prenait pas part. Cependant, en fin de compte, l’appelante ne se comportait pas comme la plupart des employeurs le feraient; en effet, la preuve ne montrait pas que la participation à ces activités était obligatoire. Selon la preuve, il semblait que la participation de la travailleuse aux activités du bureau contribuait dans une large mesure à son succès pour ce qui était d’obtenir des pistes de clients, mais cette participation, même si on la favorisait, était largement laissée à la discrétion de la travailleuse. De plus, certains éléments de preuve montrent que l’appelante n’exigeait rien de la travailleuse quant à ses allées et venues. Selon la preuve, la travailleuse était libre de fixer ses propres heures de travail et, lorsqu’elle décidait de ses heures, elle était libre de travailler chez elle ou au bureau. La travailleuse ne touchait pas un salaire fixe, mais elle était plutôt rémunérée en fonction du partage des commissions. Le taux de rémunération était directement lié à l’effort que la travailleuse mettait à son travail et à la mesure dans laquelle elle réussissait à se créer une clientèle. Dans ce cas‑ci, l’appelante n’exerçait aucun contrôle sur le moment ou l’endroit où le travail était accompli. De plus, la travailleuse payait ses propres frais de publicité. Elle faisait la publicité et rédigeait le formulaire de demande sous le nom et le logo de l’appelante, mais la chose visait essentiellement à assurer l’observation de la Mortgage Brokers Act de la province, étant donné que c’était l’appelante qui détenait la licence. Selon une partie de la preuve présentée par Jo‑Ann Hamilton, les courtiers pouvaient travailler et exercer des activités de courtage pour plusieurs firmes à la fois, à condition d’indiquer quelle société ils représentaient chaque fois qu’ils remplissaient une demande d’hypothèque. Même la législation laisse entendre que le payeur exerce sur le courtier un contrôle moins étroit que celui qui est normalement exercé dans une relation employeur‑employé. La tenue obligatoire de dossiers était également une exigence administrative imposée par la Mortgage Brokers Act.
+[22] Selon la façon dont j’ai compris la preuve, la travailleuse a répondu à un questionnaire en ligne avant d’être engagée et, par la suite, elle a reçu des conseils sur la façon de remplir les formulaires de demande, qui provenaient principalement de sources extérieures. La formation continue était assurée par des sources extérieures et la participation aux séances était facultative. Selon la preuve fournie par M. MacInnis, il y avait peu de formation obligatoire directe, ou même aucune, alors que la travailleuse a affirmé que, selon une entente verbale, elle devait suivre une formation en ligne afin d’être capable de faire le travail. Un autre élément qui entre en ligne de compte pour ce qui est du contrôle a trait aux clauses de non‑concurrence figurant dans le contrat liant les parties. Ces clauses empêchaient la travailleuse de travailler pour un concurrent pendant les deux années suivant la fin de son engagement auprès de l’appelante. M. MacInnis a affirmé qu’il n’appliquerait pas la clause, mais la travailleuse croyait qu’il le faisait, et il s’agissait certes d’une clause obligatoire du contrat. De plus, une clause de confidentialité empêchait la travailleuse de conserver tout matériel ou document ou de divulguer des renseignements confidentiels concernant les clients à la fin de son engagement. Ces clauses parlaient du droit exclusif de l’appelante sur le matériel ainsi que de l’obligation de la travailleuse de s’abstenir de recruter des clients et des emprunteurs éventuels avec lesquels l’appelante traitait. Je ne crois pas que l’inclusion d’une clause visant à assurer la confidentialité du matériel et des renseignements concernant les clients auxquels un travailleur peut avoir accès indique nécessairement l’existence d’une relation employeur‑employé, mais la partie de la clause se rapportant à la non‑concurrence, qui contrôle le travail de la travailleuse une fois qu’elle a quitté l’appelante, indique de fait que la travailleuse était une employée. En se fondant sur le libellé des clauses, il serait également possible de conclure que les clients étaient ceux de l’appelante, car on y stipule qu’il est interdit à la travailleuse de recruter les clients de l’appelante.
+[23] L’intimé a soutenu que le facteur « contrôle » milite clairement en faveur d’un engagement à titre d’employé, mais selon moi, cela n’est pas aussi clair. En réalité, certains faits, quant au facteur « contrôle », semblent indiquer la qualité d’employé, alors que d’autres indiquent celle d’entrepreneur indépendant. La clause de non‑concurrence, la mention des listes de clients et le fait que la travailleuse estimait être supervisée dans une certaine mesure étayent l’existence de la qualité d’employé, mais de nombreux autres facteurs ne l’indiquent pas. La travailleuse décidait de ses propres heures, de l’endroit et du moment où elle rencontrait les clients, du moment et de l’endroit où elle faisait de la publicité, de la question de savoir si elle allait partager l’espace publicitaire et les frais y afférents avec des institutions indépendantes et du montant consacré à la publicité puisque ces coûts étaient à sa charge. Ces facteurs font clairement pencher la balance du côté d’une relation d’entrepreneur indépendant. La travailleuse croyait devoir assister aux réunions du petit déjeuner et aux portes ouvertes et s’inscrire au tableau de service, mais elle a confirmé la preuve fournie par M. MacInnis, à savoir que ces activités n’étaient pas réellement obligatoires. Il s’agissait dans tous les cas de moyens d’obtenir des pistes de clients et c’était donc une excellente façon de créer une clientèle, mais on ne demandait pas à la travailleuse d’y participer et de rendre compte de ses activités comme un employé devrait le faire. La preuve ne montrait pas que l’appelante ait eu le droit d’exercer un contrôle sur l’exécution des tâches de la travailleuse, sauf dans la mesure où cette dernière devait remplir les formulaires conformément aux exigences de la Mortgage Brokers Act. Aucun élément de preuve n’a été fourni au sujet des congés de maladie et de la paie de vacances, mais il a été fait mention d’un régime d’assurance‑vie et d’assurance maladie qui, encore une fois, n’était pas obligatoire, mais qui avait été organisé par les courtiers eux‑mêmes et exigeait une participation minimale de chaque courtier. Il semble également qu’une certaine formation ait été assurée, mais elle était minime et, selon la preuve, elle n’était pas fournie par l’appelante en grande partie, mais elle l’était plutôt par des institutions de l’extérieur, dans le cadre d’activités indépendantes. Aucun élément de preuve ne donnait à entendre que cette formation indépendante était obligatoire. De plus, les deux parties pouvaient résilier le contrat qu’elles avaient conclu.
+[24] Pour ce qui est de l’élément « contrôle », étant donné que je relève des facteurs qui militent presque également en faveur de la qualité d’employé et de celle d’entrepreneur indépendant, je conclus que le critère du contrôle est neutre quant à la détermination du statut de la travailleuse dans ce cas‑ci. Il s’agit simplement d’un indicateur neutre de la relation existant entre l’appelante et la travailleuse puisque, en matière de contrôle, il y a des facteurs convaincants dans les deux sens.
+[25] Le facteur suivant, la propriété des instruments de travail, indique clairement que la travailleuse avait été engagée à titre d’entrepreneur indépendant. L’avocate de l’intimé a souscrit à la preuve sur ce point. Les deux parties ont convenu qu’un ordinateur portatif qui pouvait être doté d’un progiciel approprié était une pièce essentielle au rendement de la travailleuse. Elles ont également convenu qu’il incombait à la travailleuse de fournir l’ordinateur et elles ont toutes deux expliqué pourquoi le contrat de location avait été signé par M. MacInnis. La travailleuse effectuait les versements et, à la fin de son engagement, l’ordinateur lui appartenait. Ce facteur milite sans aucun doute en faveur de l’existence de la qualité d’entrepreneur indépendant.
+[26] Quant aux facteurs « chances de bénéfice » et « risques de perte », l’avocate de l’intimé a signalé que le partage des commissions était imposé par l’appelante, sans que la travailleuse ait son mot à dire. Toutefois, la travailleuse a témoigné être satisfaite de ce partage; elle croyait simplement qu’elle ne pouvait pas le négocier. L’avocate de l’intimé a signalé que la part des frais généraux attribuée au prorata à la travailleuse était incluse dans ce partage des commissions, mais que, comme la travailleuse n’exerçait aucun contrôle sur les frais de bureau, elle ne pouvait pas réduire ces frais pour augmenter son bénéfice. Cela est vrai, mais il reste que la travailleuse exerçait un contrôle considérable sur la possibilité de faire des bénéfices, puisque les commissions touchées dépendaient du temps et de l’effort qu’elle était prête à consacrer pour attirer des clients et les conserver. La travailleuse n’était pas rémunérée pour les heures travaillées. Sa rémunération était basée uniquement sur sa capacité d’obtenir des pistes de clients et d’y donner suite par la signature de demandes d’hypothèque. Le facteur « bénéfice » n’est pas caractéristique d’une relation employeur‑employé et il neutralise le facteur « risques de perte » qui, dans une certaine mesure, indique l’existence d’une relation employeur‑employé.
+[27] Le facteur « intégration » doit être considéré du point de vue de la travailleuse et il est relié à la question de savoir à qui appartient l’entreprise. Il est clair que, conformément à la législation, la travailleuse devait remplir les formulaires et annoncer son produit en vertu de la licence dont l’appelante était titulaire. Toutefois, la preuve de Mme Hamilton, qui était chargée de surveiller l’application de cette législation, indiquait que la travailleuse aurait pu créer sa propre clientèle auprès de plusieurs sociétés titulaires de licences à la fois, à condition d’indiquer aux clients éventuels qu’elle préparait la documentation pour le compte de telle ou telle entité titulaire d’une licence. Les faits jouent ici encore dans les deux sens. Le fait que l’appelante n’exerçait aucun contrôle sur les allées et venues de la travailleuse, sur ses heures de travail ou sur l’endroit où le travail était accompli indique que la travailleuse exploitait sa propre entreprise sans être intégrée aux activités de l’appelante. Comme elle l’a elle‑même dit, la travailleuse avait négocié en vue d’agir comme entrepreneur indépendant dans le cadre de cette relation de travail, et telle était son intention. Après avoir reçu la formation minimum nécessaire, la travailleuse était libre d’établir sa clientèle en recourant à toute stratégie qu’elle jugeait indiquée, y compris au système de présentations internes. La travailleuse était essentiellement maître de sa propre destinée.
+[28] Selon moi, la jurisprudence montre clairement que la façon dont une personne décide de qualifier sa relation de travail n’est peut‑être pas toujours déterminante. Il en est certes ainsi lorsque les faits particuliers, analysés selon le critère composé de quatre éléments, vont clairement à l’encontre de la façon dont les parties ont décidé de désigner leur relation de travail. Toutefois, je crois que mon analyse des faits en l’espèce indique qu’il s’agit ici d’un cas limite. Certains éléments de preuve sont contradictoires, mais en fin de compte, les indices vont à peu près également dans les deux sens, certains militant en faveur de la qualité d’employé et d’autres en faveur de celle d’entrepreneur indépendant. Mon appréciation de l’ensemble de la relation existant entre les parties ici en cause ne me permet pas de tirer des conclusions claires; en pareil cas, il faut accorder plus de poids à l’intention des parties, lorsqu’elles ont négocié leur relation de travail, que celui que j’y accorde généralement dans d’autres appels. Or, les deux parties ont indiqué qu’elles voulaient que leur relation de travail soit celle d’un entrepreneur indépendant. De plus, la travailleuse était une courtière en hypothèques chevronnée qui avait de l’expérience dans le domaine et qui devait certes posséder une certaine connaissance et avoir une idée préconçue de la relation qu’elle voulait entretenir avec l’appelante. Je ne puis omettre de tenir compte des nombreux points sur lesquels les parties ont agi et se sont comportées d’une façon conforme à leur intention.
+[29] Par conséquent, les appels sont accueillis, sans que les dépens soient adjugés, et la décision du ministre est annulée.
+Signé à Vancouver (Colombie‑Britannique), ce 18e jour d’avril 2006.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 25e jour de juin 2007.
+Maurice Audet, réviseur
+RÉFÉRENCE :
+2006CCI227
+Nos DES DOSSIERS DE LA COUR :
+2005‑2121(EI) et 2005‑2122(CPP)
+INTITULÉ :
+MacInnis Mortgage Consultants Limited et
+Le ministre du Revenu national et
+Ruth Braithwaite
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle‑Écosse)
+DATES DE L’AUDIENCE :
+Le 14 décembre 2005
+et le 10 mars 2006
+MOTIFS DU JUGEMENT :
+L’honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 18 avril 2006
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Roderick MacInnis
+Avocate de l’intimé :
+Pour l’intervenante :
+Me Catherine McIntyre
+L’intervenante elle‑même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

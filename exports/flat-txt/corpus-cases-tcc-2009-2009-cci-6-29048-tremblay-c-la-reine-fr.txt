@@ -1,0 +1,520 @@
+Title: Tremblay c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29048/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-6-29048-tremblay-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-01-08
+
+# Tremblay c. La Reine
+
+- Citation: 2009 CCI 6
+- Decision date: 2009-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6856, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-08
+Référence neutre
+2009 CCI 6
+Numéro de dossier
+2006-2178(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2178(IT)G
+ENTRE :
+DANIELLE VAILLANCOURT TREMBLAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Succession de feue Hélène Tremblay (2006-2205(IT)G),
+Gérard Tremblay (2006-2207(IT)G) et
+Martin Tremblay (2006-2210(IT)G),
+le 23 janvier 2008, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocats de l'appelante :
+Me Richard W. Pound
+Me Charles C. Gagnon
+Avocats de l'intimée :
+Me Michel Lamarre
+Me Nathalie Labbé
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 1994 est admis avec frais et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de janvier 2009.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2006-2205(IT)G
+ENTRE :
+SUCCESSION DE FEUE HÉLÈNE TREMBLAY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Danielle Vaillancourt Tremblay (2006-2178(IT)G),
+Gérard Tremblay (2006-2207(IT)G) et
+Martin Tremblay (2006-2210(IT)G),
+le 23 janvier 2008, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocats de l'appelante :
+Me Richard W. Pound
+Me Charles C. Gagnon
+Avocats de l'intimée :
+Me Michel Lamarre
+Me Nathalie Labbé
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 1994 est admis avec frais et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de janvier 2009.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2006-2207(IT)G
+ENTRE :
+GÉRARD TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Danielle Vaillancourt Tremblay (2006-2178(IT)G),
+Succession de feue Hélène Tremblay (2006-2205(IT)G), et
+Martin Tremblay (2006-2210(IT)G),
+le 23 janvier 2008, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocats de l'appelant :
+Me Richard W. Pound
+Me Charles C. Gagnon
+Avocats de l'intimée :
+Me Michel Lamarre
+Me Nathalie Labbé
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 1994 est admis avec frais et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de janvier 2009.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2006-2210(IT)G
+ENTRE :
+MARTIN TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Danielle Vaillancourt Tremblay (2006-2178(IT)G),
+Succession de feue Hélène Tremblay (2006-2205(IT)G), et
+Gérard Tremblay (2006-2207(IT)G),
+le 23 janvier 2008, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocats de l'appelant :
+Me Richard W. Pound
+Me Charles C. Gagnon
+Avocats de l'intimée :
+Me Michel Lamarre
+Me Nathalie Labbé
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 1994 est admis avec frais et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 8e jour de janvier 2009.
+« Réal Favreau »
+Juge Favreau
+Référence : 2009 CCI 6
+Date : 20090108
+Dossiers : 2006-2178(IT)G
+2006-2205(IT)G
+2006-2207(IT)G
+2006-2210(IT)G
+ENTRE :
+DANIELLE VAILLANCOURT TREMBLAY,
+SUCCESSION DE FEUE HÉLÈNE TREMBLAY,
+GÉRARD TREMBLAY,
+MARTIN TREMBLAY,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Les appelants interjettent appel à l’encontre des nouvelles cotisations établies le 30 décembre 2004 par le ministre du Revenu national (le « Ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1, 5e suppl., telle que modifiée (la « Loi »), pour l’année d’imposition 1994, et portant les numéros 1‑041223-122454, 1-041223-123432, 1-041223-124358 et 1-041223-125212. Les appels ont été entendus sur preuve commune. Dans chaque cas, le litige porte sur la question de savoir si le paragraphe 84(2) de la Loi s’applique à une opération décrite comme étant un échange d’actions. Les parties ont déposé une entente sur les faits qu’il y a lieu de reproduire sans faire référence aux pièces jointes à moins que le contexte ne l’exige :
+1. Danielle Vaillancourt-Tremblay est l’épouse de Gérard Tremblay et la mère de Martin et Hélène Tremblay. Gérard, Danielle, Martin et Hélène Tremblay sont désignés collectivement comme la « Famille Tremblay ».
+2. La Famille Tremblay a détenu pendant plusieurs années une entreprise de câblodistribution québécoise du nom de Télésag inc., par le biais d’une compagnie de gestion appelée Les Placements M.H.T. inc. (« MHT »).
+3. Le 14 février 1989, MHT a vendu les actions de Télésag inc. à la société publique Le Groupe Vidéotron ltée (« Vidéotron ») en contrepartie d’actions privilégiées de cette dernière par voie de roulement en vertu du paragraphe 85(1) de la Loi de l’impôt sur le revenu (la « Loi »).
+4. Au début de 1994, les membres de la Famille Tremblay ont demandé la collaboration de Vidéotron en vue de la mise en place d’une réorganisation de leurs affaires.
+5. Au début de 1994, les membres de la Famille Tremblay ont entrepris une réorganisation de leurs affaires en vue de vivre à l’étranger.
+6. Dans le cadre de cette organisation, la société 9000-8855 Québec inc. (« 8855 ») fut constituée par la Famille Tremblay le 2 février 1994 en vertu de la Partie 1A de la Loi sur les compagnies du Québec. Elle était une société privée au sens de la Loi.
+7. Le 15 février 1994, les membres de la Famille Tremblay ont vendu leurs actions de MHT à 8855, en contrepartie d’actions de catégorie A de celle-ci, par voie de roulement en vertu du paragraphe 85(1) de la Loi et ayant les attributs fiscaux suivants.
+Actionnaires
+Nombre
+d’actions
+Prix de base rajusté ($)
+Capital versé ($)
+Juste valeur marchande ($)
+Gérard
+541 461
+106
+106
+16 180 529
+Danielle
+28 564
+403
+403
+853 554
+Martin
+497 707
+418 476
+1 379
+14 873 398
+Hélène
+483 790
+415 472
+1 179
+14 457 296
+1 551 522
+834 457
+3 067
+46 364 777
+8. Le 16 février 1994, MHT a transféré, par voie de roulement en vertu du paragraphe 85(1) de la Loi, à la société 8855 les valeurs mobilières suivantes de Vidéotron, ci-après nommées les titres convertibles.
+· 425 174 actions privilégiées de premier rang série B à dividende cumulatif de 8 % (les « actions privilégiées »), convertibles en actions subalternes à droit de vote (les « actions subalternes ») sur la base de trois actions subalternes pour chaque action privilégiée de premier rang série B; et
+· Des débentures non garanties subordonnées (les « débentures »), portant intérêt au taux de 11¾ %, d’une valeur nominale de 5 175 000 $ (92 coupures de 56 250 $ chacune), convertibles en actions subalternes de Vidéotron sur la base de 3 000 actions subalternes pour chaque coupure de 56 250 $.
+9. Les débentures mentionnées au paragraphe précédent étaient convertibles au gré du porteur au prix de 18,75 $ l’action subalterne à droit de vote jusqu’au 15 février 1999 (soit un taux de conversion de 3 000 actions subalternes à droit de vote pour chaque 56 250 $ de valeur nominale) rachetables après le 15 février 1994 au gré de Vidéotron à certaines conditions (aucune condition après le 15 février 1996) ou du porteur, portant intérêt au taux de 11,75 %, échéant en 2009.
+10. Au cours de l’année civile 1994, le taux d’intérêt prescrit pour les fins de la Loi de l’impôt sur le revenu a fluctué entre 6 % et 9 %, taux qui au cours de l’année civile suivante a fluctué entre 8 % et 11 %.
+11. Selon les données compilées par Scotia Capital inc. et publiées par la Banque du Canada, les rendements moyens des obligations à moyen terme des sociétés canadiennes au cours des années 1993 et 1994 s’établissaient comme suit :
+1993
+1994
+Janvier
+9,43
+6,74
+Février
+8,83
+7,26
+Mars
+8,86
+8,40
+Avril
+8,88
+8,45
+Mai
+8,68
+8,96
+Juin
+8,17
+9,76
+Juillet
+7,94
+9,85
+Août
+7,60
+9,23
+Septembre
+7,77
+9,30
+Octobre
+7,42
+9,49
+Novembre
+7,41
+9,62
+Décembre
+7,05
+9,71
+12. Le 25 février 1994, une entente est intervenue entre Vidéotron et la Famille Tremblay, suivant laquelle Vidéotron acceptait de « prêter indirectement et de façon subsidiaire son concours aux dernières étapes de la réorganisation corporative » que la Famille Tremblay se proposait d’effectuer, sous réserve que soient satisfaites toutes et chacune des conditions énumérées à l’entente, notamment :
+i) La Famille Tremblay devait renoncer à une somme de 200 928,52 $ au titre d’intérêts sur les débentures et de 335 071,48 $ au titre de dividendes sur les actions privilégiées;
+ii) Le conseil d’administration de Vidéotron, à sa seule discrétion, devait approuver l’émission des actions subalternes du capital-actions de Vidéotron en contrepartie de l’achat des actions d’une société détenue par la Famille Tremblay;
+iii) La Famille Tremblay devait fournir un engagement d’indemnisation au bénéfice de Vidéotron pour toute réclamation pouvant découler de l’échange d’actions et la liquidation de 8855. De plus, la Famille Tremblay devait fournir une lettre de crédit bancaire irrévocable d’au moins 1 000 000 $, valable pour une période de cinq ans à compter de son émission;
+iv) Vidéotron devait obtenir des dispenses de la Commission des valeurs mobilières du Québec et des autorisations des Bourses de Montréal et de Toronto, et la Famille Tremblay devait fournir les engagements requis par les Bourses à l’égard de la revente ou de la disposition des actions subalternes qui allaient être émises dans le cadre de la réorganisation;
+v) La Famille Tremblay devait assumer tous les coûts, honoraires, frais et dépenses engagés par Vidéotron, ses conseillers et ses vérificateurs dans le cadre de la réorganisation, et ce depuis la première date à laquelle la Famille Tremblay a approché Vidéotron, soit le 27 janvier 1994;
+vi) La réorganisation devait être complétée au plus tard le 8 avril 1994. Les appelants ont quitté le Canada le 7 avril 1994.
+13. Cette entente spécifiait également que Vidéotron procéderait le 26 avril 1994 au rachat de tous les titres que 8855 détenait dans Vidéotron à moins qu’ils ne soient convertis en actions subalternes de Vidéotron avant cette date.
+14. Le 7 mars 1994, Vidéotron a fractionné ses actions subalternes sur la base de deux pour une; 8855 a fait de même à l’égard de ses actions de catégorie A.
+15. Suite au fractionnement, Gérard, Danielle, Martin et Hélène détenaient 3 103 044 actions de catégorie A de 8855 ayant les attributs fiscaux suivants :
+Actionnaires
+Nombre d’actions de catégorie A
+de 8855
+Capital versé
+($)
+Prix de base
+rajusté
+($)
+Gérard
+1 082 922
+106
+106
+Danielle
+57 128
+403
+403
+Martin
+995 414
+1 379
+418 476
+Hélène
+967 580
+1 179
+415 472
+3 103 044
+3 067
+834 457
+16. Le 31 mars 1994, la Commission des valeurs mobilières du Québec a octroyé une dispense d’établir un prospectus et d’inscription à l’égard de la transaction proposée.
+17. Le 6 avril 1994, Vidéotron, d’une part, et Gérard, Danielle, Martin et Hélène, d’autre part, ont procédé à un échange d’actions en vertu du paragraphe 85.1(1) de la Loi. Cet échange a permis aux membres de la Famille Tremblay de détenir directement une part dans Vidéotron et l’échange a eu pour effet que les actions subalternes reçues soient réputées des biens canadiens imposables. Vidéotron a alors émis à Gérard, Danielle, Martin et Hélène, en échange de la totalité des actions émises et en circulation du capital-actions de 8855, 3 103 044 actions subalternes réparties comme ci-dessous.
+Actionnaires
+Nombre d’actions subalternes de Vidéotron
+Prix de base rajusté
+($)
+Juste valeur marchande en date du
+6 avril 1994
+($)
+Gérard
+1 082 922
+106
+15 431 639
+Danielle
+57 128
+403
+814 074
+Martin
+995 414
+418 476
+14 184 650
+Hélène
+967 580
+415 472
+13 788 015
+3 103 044
+834 457
+44 218 378
+18. Au moment de l’échange d’actions, 8855 n’avait aucun passif et ses seuls éléments d’actifs étaient les débentures et les actions privilégiées de Vidéotron.
+19. Immédiatement après l’échange d’actions effectué en vertu du paragraphe 85.1(1) de la Loi, 8855 et Vidétron ont choisi en vertu de l’ancien paragraphe 80(3) d’annuler la dette que Vidéotron avait envers 8855.
+20. Le 6 avril 1994, 8855 a cessé l’exploitation de son entreprise. Le 6 avril 1994, Vidéotron a procédé à la liquidation de 8855 en vertu du paragraphe 88(1) de la Loi et 8855 a été dissoute le 5 octobre 1994, conformément aux articles 28 et 28.1 de la Loi sur les compagnies du Québec, articles auxquels renvoie l’article 123.6 de cette loi.
+21. Lors de la liquidation de 8855, les débentures et les actions privilégiées détenues par 8855 ont été distribuées à Vidéotron et annulées. Les titres convertibles détenus par 8855 ont été annulés sans contrepartie lors de la liquidation de 8855 dans Vidéotron.
+22. Les membres de la Famille Tremblay ont obtenu de la Banque Nationale du Canada, le 6 avril 1994, une lettre de crédit de 1 000 000 $ au nom de Vidéotron à titre de garantie subsidiaire pour la réorganisation.
+23. Par un avis de nouvelle cotisation en date du 30 décembre 2004 pour l’année d’imposition 1994, le ministre du Revenu national a inclus un dividende imposable majoré de 1 017 088 $ dans le revenu de Danielle Vaillancourt-Tremblay, de 19 298 416 $ dans le revenu de Gérard Tremblay, de 17 729 089 $ dans le revenu de Martin Tremblay et de 17 233 545 $ dans le revenu de Succession de Feue Hélène Tremblay, en vertu du paragraphe 84(2) de la Loi.
+[2] Aucun témoin n’a été entendu à l’audience.
+Position des appelants
+[3] Les appelants invoquent à l’appui de leurs prétentions les arguments suivants décrits aux paragraphes 12 à 24 de leur avis d’appel respectif (l’avis d’appel de la succession de feue Hélène Tremblay en l’occurrence) :
+12. La transaction d’échange a été effectuée en vertu du paragraphe 85.1 de la Loi et le paragraphe 84(2) de la Loi ne s’appliquait pas à la transaction d’échange.
+13. Le paragraphe 84(2) de la Loi s’applique uniquement lorsque des fonds ou des biens d’une société résidant au Canada ont été distribués ou autrement attribués, de quelque façon que ce soit aux actionnaires ou au profit des actionnaires de toute catégorie d’actions de son capital-actions.
+14. En l’espèce, aucun des actifs de 8855 (actions privilégiées et débentures) n’a été distribué ou autrement attribué de quelque façon que ce soit à l’Appelante.
+15. La transaction d’échange n’a eu aucun impact sur les actifs de 8855 et l’Appelante ne s’est jamais retrouvée avec des actifs ayant appartenu à 8855.
+16. 8855 est demeurée propriétaire des actions privilégiées et des débentures jusqu’à sa liquidation entre les mains de Vidéotron.
+17. Les actions subalternes de Vidéotron reçues par l’Appelante en contrepartie de ses actions de 8855 ont été émises dans le cadre de la transaction d’échange et n’existaient pas auparavant.
+18. Il est donc impossible de prétendre qu’il s’agissait de biens qui ont été distribués ou attribués à l’Appelante par 8855.
+19. Il est n’est pas non plus possible de prétendre qu’il s’agissait de biens identiques puisque les actions subalternes avaient une nature juridique différente des actions privilégiées et des débentures.
+20. Le droit de conversion rattaché aux actions privilégiées et aux débentures n’en faisait pas des biens légalement identiques aux actions subalternes.
+21. La transaction d’échange et les transactions similaires avec les parents et le frère de l’Appelante constituaient la manière la plus économique pour Vidéotron d’atteindre son objectif d’éliminer les débentures et les actions privilégiées.
+22. En concluant la transaction d’échange, Vidéotron visait d’abord et avant tout la réalisation d’un objectif commercial, celui de réduire ses frais de financement.
+23. Les impacts fiscaux résultant de la transaction d’échange en vertu de l’article 85.1 de la Loi sont conformes à l’économie générale de la Loi de permettre de différer l’impôt lorsqu’un contribuable dispose de biens en faveur d’une société en contrepartie d’actions de celle-ci.
+24. Appliquer le paragraphe 84(2) de la Loi à une transaction fondée sur l’article 85.1 de la Loi irait à l’encontre de cette politique fiscale et ferait en sorte de rendre caduc l’article 85.1 de la Loi.
+Position de l’intimée
+[4] L’intimée invoque les arguments suivants décrits aux alinéas 1 à 9 du paragraphe 11 de la réponse aux avis d’appel pour justifier les avis de nouvelle cotisation datés du 30 décembre 2004 (la réponse à l’avis d’appel de la succession de feue Hélène Tremblay en l’occurrence) :
+1. L’intimée soumet que des fonds ou les biens d’une société résidant au Canada ont été distribués ou autrement distribués de quelque façon que ce soit à l’appelant actionnaire ou au profit de l’appelant actionnaire de toute catégorie d’actions de son capital-action lors de la liquidation, de la cessation de l’exploitation ou de la réorganisation de son entreprise.
+2. L’intimée soumet que l’échange d’actions fait le 6 avril 1994 entre 9000‑8855 Québec Inc. et Vidéotron en vertu de l’article 85.1 de la Loi de l’impôt sur le revenu fait partie des transactions qui ont permis que les actifs de 9000-8855 Québec Inc. soient distribués ou autrement distribués de quelque façon que ce soit à l’appelante lors de la cessation de l’exploitation de son entreprise ayant eu lieu le même jour soit le 6 avril 1994.
+3. L’intimée soumet que l’émission de nouvelles actions de Vidéotron au profit de l’appelante a le même effet que la conversion des titres que 9000-8855 Québec Inc. détient dans Vidéotron, de sorte que cette émission constitue un rachat indirect des actifs que 9000-8855 Québec Inc. détient dans Vidéotron.
+4. L’intimée soumet que Vidéotron a agi à titre d’accommodateur pour permettre à la Famille Tremblay d’obtenir les nouvelles actions.
+5. L’intimée soumet que les membres de la Famille Tremblay n’auraient pas obtenu de nouvelles actions si 9000-8855 Québec Inc. n’avait pas détenu les titres convertibles.
+6. L’intimée soumet que les dispositions de l’article 85.1 de la Loi de l’impôt sur le revenu peuvent s’appliquer conjointement avec les dispositions du paragraphe 84(2) de la Loi car ces dispositions sont toutes aussi spécifiques l’une que l’autre.
+7. L’intimée soumet que l’application conjointe du paragraphe 84(2) et de l’article 85.1 de la Loi de l’impôt sur le revenu ne va pas à l’encontre de la politique fiscale sous-jacente à la disposition des biens canadiens imposables par des anciens résidents canadiens.
+8. L’intimée soumet que les titres convertibles ont donc été distribués de « quelque façon que ce soit » au sens du paragraphe 84(2) de la Loi de l’impôt sur le revenu lors de la cessation de l’entreprise.
+9. L’intimée soumet qu’un dividende de 13 786 836 $ a été reçu de 9000-8855 Québec Inc. en vertu du paragraphe 84(2) de la loi. Par conséquent, un dividende imposable de 17 233 545 $ a été calculé selon les paragraphes 82(1) de la Loi tel qu’applicable lors de l’année en litige.
+Dispositions législatives
+[5] Le paragraphe 84(2) de la Loi s’applique lorsque des fonds ou des biens d’une société résidant au Canada ont été distribués ou autrement attribués, de quelque façon que ce soit, aux actionnaires ou au profit des actionnaires lors de la liquidation, de la cessation de l’exploitation ou de la réorganisation de son entreprise. L’imposition des distributions faites par les sociétés à titre de dividendes est prévue au paragraphe 82(1) de la Loi. Le paragraphe 84(2) a pour effet d’étendre l’imposition à d’autres types de distributions ou d’attributions des fonds ou des biens des sociétés. Le but du paragraphe 84(2) est d’éviter que les actionnaires se retrouvent avec les biens d’une société sans subir les conséquences fiscales d’une telle distribution ou d’une telle attribution. Plus précisément, le paragraphe 84(2) de la Loi dans sa version applicable à l’année 1994 se lit comme suit :
+Distribution lors de liquidation, etc.
+Lorsque des fonds ou des biens d'une société résidant au Canada ont, à un moment donné après le 31 mars 1977, été distribués ou autrement attribués, de quelque façon que ce soit, aux actionnaires ou au profit des actionnaires de toute catégorie d'actions de son capital-actions, lors de la liquidation, de la cessation de l'exploitation ou de la réorganisation de son entreprise, la société est réputée avoir versé au moment donné un dividende sur les actions de cette catégorie, égal à l'excédent éventuel du montant ou de la valeur visés à l'alinéa a) sur le montant visé à l'alinéa b) :
+a) le montant ou la valeur des fonds [ou][1] des biens distribués ou attribués, selon le cas;
+b) le montant éventuel de la réduction, lors de la distribution ou de l'attribution, selon le cas, du capital versé relatif aux actions de cette catégorie;
+chacune des personnes qui détenaient au moment donné une ou plusieurs des actions émises est réputée avoir reçu à ce moment un dividende égal à la fraction de l'excédent représentée par le rapport existant entre le nombre d'actions de cette catégorie qu'elle détenait immédiatement avant ce moment et le nombre d'actions émises de cette catégorie qui étaient en circulation immédiatement avant ce moment.
+[6] Le paragraphe 84(2) de la Loi est analogue au paragraphe 81(1) S.R.C. 1952, chap. 148.
+[7] L’article 85.1 de la Loi a été introduit postérieurement au paragraphe 84(2) de la Loi par les S.C. 1974-75-76, chap. 26, art. 49(1) applicable à l’égard des opérations effectuées après le 6 mai 1974. Lorsque les conditions d’application de l’article 85.1 de la Loi sont rencontrées, l’article 85.1 permet à un contribuable de différer l’imposition de son gain en capital lors de la disposition d’actions détenues comme immobilisations en faveur d’une société canadienne en échange de nouvelles actions de cette société. L’application de l’article 85.1 de la Loi est automatique et il n’y a aucun choix à produire. Les paragraphes 85.1(1) et 85.1(2) de la Loi dans leur version applicable à l’année 1994 se lisent comme suit :
+85.1 : Échange d’actions
+(1) Les règles suivantes s'appliquent, sous réserve du paragraphe (2), dans le cas où une société canadienne (appelée "acheteur" au présent article) émet des actions d'une catégorie de son capital-actions en faveur d'un contribuable (appelé "vendeur" au présent article), en échange d'immobilisations du vendeur qui sont des actions d'une catégorie du capital-actions (appelées "actions échangées" au présent article) d'une autre société qui est une société canadienne imposable (appelée "société acquise" au présent article):
+a) sauf lorsque le vendeur a, dans sa déclaration d'impôt pour l'année d'imposition au cours de laquelle a eu lieu l'échange, inclus dans le calcul de son revenu pour cette année, toute partie du gain ou de la perte, par ailleurs déterminée, provenant de la disposition des actions échangées, le vendeur est réputé:
+(i) avoir tiré un produit de disposition des actions échangées égal au prix de base rajusté de celles-ci, pour lui, immédiatement avant l'échange,
+(ii) avoir acquis les actions de l'acheteur à un coût, pour lui, égal au prix de base rajusté des actions échangées, pour lui, immédiatement avant l'échange;
+en outre, lorsque les actions échangées étaient un bien canadien imposable du vendeur, les actions de l'acheteur qu'il a ainsi acquises sont réputées être un bien canadien imposable du vendeur;
+b) le coût pour l'acheteur de chaque action échangée à un moment donné qui n'est pas postérieur au moment où il a disposé de l'action est réputé être le moins élevé des montants suivants:
+(i) la juste valeur marchande de l'action immédiatement avant l'échange,
+(ii) le capital versé au titre de l'action immédiatement avant l'échange.
+(2) Non-application du par. (1).
+Le paragraphe (1) ne s’applique pas dans l’un ou l’autre des cas suivants :
+a) le vendeur et l'acheteur avaient un lien de dépendance immédiatement avant l'échange (autrement qu'à cause d'un droit visé à l'alinéa 251(5)b) qui permet à l'acheteur d'acquérir les actions échangées);
+b) le vendeur, les personnes avec qui il a un lien de dépendance ou le vendeur et les personnes avec qui il a un lien de dépendance :
+(i) soit contrôlaient l’acheteur;
+(ii) soit avaient la propriété effective d'actions du capital-actions de l'acheteur dont la juste valeur marchande est égale à plus de 50 % de la juste valeur marchande de toutes les actions en circulation du capital-actions de l'acheteur,
+(c) le vendeur et l'acheteur ont présenté un choix en vertu du paragraphe 85(1) ou (2) à l'égard des actions échangées;
+(d) la contrepartie, à l'exception d'actions de la catégorie donnée du capital-actions de l'acheteur, a été reçue par le vendeur en compensation des actions échangées, malgré le fait que le vendeur ait pu disposer d'actions du capital-actions de la société acquise (à l'exception des actions échangées) en faveur de l'acheteur moyennant une contrepartie autre que des actions d'une catégorie du capital-actions de l'acheteur.
+[8] Pour bien comprendre le rôle et la portée du paragraphe 84(2) de la Loi par rapport aux autres dispositions de la Loi, il y a lieu de reproduire ici les paragraphes 69(4), 69(5) et 84(5) de la Loi qui traitent également de la distribution et de l’attribution de biens aux actionnaires :
+69(4) Attribution à un actionnaire
+Lorsque le bien d'une société est attribué de quelque manière que ce soit à un actionnaire de la société, ou à son profit, à titre gratuit ou pour une contrepartie inférieure à sa juste valeur marchande, et que la vente du bien à sa juste valeur marchande aurait augmenté le revenu de la société, ou réduit sa perte, la société est réputée avoir disposé du bien au moment de son attribution et en avoir reçu un produit de disposition égal à sa juste valeur marchande à ce moment.
+69(5) Lorsque, au cours d'une année d'imposition d'une société, des biens de la société ont été attribués de quelque manière que ce soit à un actionnaire ou au profit de celui-ci, lors de la liquidation de la société, les règles suivantes s'appliquent :
+a) pour le calcul du revenu de la société pour l'année : (i) la société est réputée avoir vendu chaque bien immédiatement avant la liquidation et en avoir reçu la juste valeur marchande à ce moment, (ii) l’alinéa 40(2)e) ne s’applique pas au calcul de la perte résultant de la vente d’un tel bien;
+b) l’actionnaire est réputé avoir acquis les biens à un coût égal à leur juste valeur marchande immédiatement avant la liquidation;
+c) les paragraphes 52(1), (1.1) et (2) ne s'appliquent pas lorsqu'il s'agit de déterminer le coût de ces biens pour l'actionnaire;
+d) les paragraphes 85(4) et (5.1) ne s'appliquent pas à la liquidation;
+e) l’alinéa 40(2)e) ne s’applique pas au calcul de la perte que l’actionnaire subit à la disposition d’une action du capital-actions de la société en faveur de la société lors de la liquidation.
+84(5) Biens distribués ou somme versée comprenant une action — Lorsque :
+a) soit les biens distribués par une société ou attribués d'une autre façon par cette dernière à ses actionnaires ou pour le compte de ceux-ci, comme il est indiqué à l'alinéa (2)a);
+b) soit la somme versée par une société, comme il est indiqué aux alinéas (3)a) ou (4)a),
+comprennent une action du capital-actions de la société, pour l'application des paragraphes (2) à (4), les règles suivantes s'appliquent :
+c) dans le calcul de la valeur des biens visés à l'alinéa a) à un moment donné, l'action doit être évaluée à un montant égal à son capital versé à ce moment;
+d) dans le calcul de la somme visée à l'alinéa b) à un moment donné, l'action doit être évaluée à un montant égal à l'augmentation apportée, par l'émission de celle-ci, au capital versé à l'égard de la catégorie d'actions dont elle fait partie.
+[9] Ces trois dernières dispositions ne sont pas applicables en l’espèce. Le paragraphe 69(4) de la Loi précise les règles au niveau de la société dont un bien a été attribué à un actionnaire. Le paragraphe 69(5) de la Loi décrit les règles applicables lors de la liquidation de la société tandis que le paragraphe 85(4) de la Loi ne s’applique que lorsque la société a elle-même distribué ou attribué à un actionnaire une action de son capital-actions. Ce n’est évidemment pas le cas ici mais cela démontre que le paragraphe 84(2) de la Loi ne s’applique pas uniquement dans le cas où la société concernée participe elle-même à la distribution ou à l’attribution de ses biens ou de ses fonds. Si cela avait été l’intention du législateur, il aurait pu facilement le prévoir comme il l’a fait au paragraphe 85(4) de la Loi. Par conséquent, le paragraphe 84(2) peut s’appliquer même sans l’intervention directe de la société dont les biens ont été distribués au attribués. La décision rendue par le juge Bowman dans RMM Canadian Enterprises Inc. c. Canada, [1997] A.C.I. no 302 en est un très bon exemple. Cette décision sera examinée plus à fond dans les paragraphes qui suivent.
+[10] Les dispositions suivantes de la Loi font référence au paragraphe 84(2) :
+53(2)a)iv)
+Montant déductible du prix de base rajusté
+53(2)p)
+Créance sur une société
+54
+Définition de l’expression « Produit de disposition » à l’alinéa j)
+88(1)d.1)
+La non-application de 84(2) à la liquidation d’une filiale
+88(2)b)
+Liquidation d’une société canadienne
+89
+Définition de l’expression « Capital versé » au sous-alinéa b)(iii)
+135.1(8)
+La non-application de 84(2) aux parts d’imposition différée
+191(4)
+Dividendes réputés exclus
+[11] Aucune exclusion du paragraphe 84(2) n’apparaît au paragraphe 85.1(2) de la Loi. À l’inverse, aucune référence n’est faite au paragraphe 84(6) de la Loi, qui précise les circonstances dans lesquelles le paragraphe 84(2) de la Loi ne s’applique pas, à un échange d’action visé par l’article 85.1 de la Loi.
+[12] D’un point de vue purement technique, rien ne semble empêcher l’application simultanée des dispositions du paragraphe 84(2) de la Loi et de l’article 85.1 de la Loi. Si le législateur avait eu l’intention d’empêcher l’application simultanée de ces deux dispositions, il aurait facilement pu le prévoir aux paragraphes 84(6) et 85.1(2) de la Loi. Les dispositions 84(2) et 85.1 de la Loi se trouvent toutes deux dans la sous-section h Section b de la Partie 1 de la Loi intitulée « Les sociétés résidant au Canada et leurs actionnaires ». Contrairement à l’arrêt Alan M. Schwartz c. Sa Majesté la Reine., [1996] 1 R.C.S. 254, il ne semble pas que l’on puisse dire qu’une de ces dispositions serait d’application générale et que l’autre serait d’application plus spécifique donnant préséance à la dernière.
+[13] L’argument des appelants contre l’application simultanée du paragraphe 84(2) et de l’article 85.1 en ce que cela créerait une double imposition ne peut être retenu. Même si le montant du dividende réputé suite à l’application du paragraphe 84(2) à l’échange d’actions ne serait pas ajouté au prix de base rajusté des actions reçues en échange (contrairement à ce qui est prévu au paragraphe 53(1) concernant un dividende réputé en vertu du paragraphe 84(3)), il serait néanmoins considéré ne pas être compris dans le produit de disposition des actions échangées en vertu de l’alinéa 54 j) de la Loi qui se lit comme suit :
+54. Définitions — Les définitions qui suivent s’appliquent à la présente sous-section.
+« produit de disposition » Sont compris dans le produit de disposition d’un bien :
+. . .
+Malgré les autres dispositions de la présente partie, le terme ne vise toutefois pas :
+. . .
+j) une somme qui serait par ailleurs le produit de disposition d’une action, dans la mesure où elle est réputée, en vertu du paragraphe 84(2) ou (3), être un dividende reçu et n’est pas, en vertu de l’alinéa 55(2)a) ou du sous-alinéa 88(2)b)(ii), réputée ne pas être un dividende;
+[14] De toute façon, cette question de double imposition est hypothétique seulement et la Loi contient des dispositions précises visant à éviter toute double imposition. Il y a lieu de mentionner ici les paragraphes 4(4) et 248(28) de la Loi.
+[15] Le litige en l’espèce ne concerne pas l’application de la règle générale anti-évitement, ni des dispositions s’appliquant aux opérations trompe-l’œil contenues dans la Loi. Le litige ne porte pas non plus sur la notion d’agent ou de mandat, ni sur la détermination quant à savoir si les parties impliquées dans l’opération avaient un lien de dépendance ou non. L’intimée ne conteste pas l’application de l’article 85.1 de la Loi aux échanges d’actions que les appelants ont effectués avec Vidéotron Ltée malgré le fait que Vidéotron Ltée a clairement agi à titre de « facilitateur » pour permettre aux membres de la Famille Tremblay de réaliser leurs objectifs en contrepartie, notamment, (i) d’une renonciation par les membres de la Famille Tremblay à une somme de plus de 500 000 $ en intérêts dus sur les débentures et en dividendes dus sur les actions privilégiées, (ii) d’un engagement d’indemnisation par les membres de la Famille Tremblay au bénéfice de Vidéotron Ltée pour toute réclamation pouvant découler des échanges d’actions et de la liquidation de 8855, lequel engagement était garanti par une lettre de crédit bancaire irrévocable d’au moins un million de dollars pour une durée de cinq ans à compter de son émission et (iii) du paiement par les membres de la Famille Tremblay de tous les coûts, honoraires, frais et dépenses engagés par Vidéotron Ltée dans le cadre de la réorganisation. L’intimée prétend cependant que le paragraphe 84(2) s’applique conjointement avec l’article 85.1 aux échanges d’actions effectués par les appelants.
+[16] Pour que le paragraphe 84(2) puisse s’appliquer en l’espèce, il faut que des fonds ou des biens de 8855 aient été « distribués ou autrement attribués, de quelque façon que ce soit » aux appelants ou à leur profit « lors de la liquidation, de la cessation de l’exploitation ou de la réorganisation de son entreprise ».
+[17] Les mots « distribués », « attribués » et « autrement » ne sont pas définis dans la Loi. Le Petit Robert offre les définitions suivantes de ces termes :
+« ATTRIBUER » v. tr. 1 Allouer (qqch. à qqn) dans un partage, une répartition. Attribuer une part à un héritier. Adjuger, allouer, assigner, départir, lotir. Attribuer à chacun son dû. Accorder (un avantage) à qqn, attacher (une prérogative) à un emploi, une fonction. De nombreux avantages lui ont été attribués. Octroyer. Attribuer une dignité à qqn. Conférer, décerner. De grands privilèges sont attribués à cette fonction. Adjoindre, attacher, joindre, rattacher. Attribuer un crédit à une dépense. Affecter, imputer
+« AUTREMENT » adv. 1 D’une façon autre, d’une manière différente. Différemment. Il faut procéder autrement, tout autrement.
+« DISTRIBUER » v. tr. 1. Donner (une partie d’une chose ou d’un ensemble de choses semblables) à plusieurs personnes prises séparémment. Þ donner, partager, répartir; distribution. . . . Þ assigner, attribuer.
+[18] Le juge Bowman a émis le commentaire suivant au paragraphe 22 de la décision rendue dans RMM Canadian Enterprises Inc. c. Canada, [1997] A.C.I. no 302 lorsqu’il a eu à interpréter le sens de ces mots :
+Les mots "distribués ou autrement attribués, de quelque façon que ce soit, lors de la liquidation, de la cessation de l'exploitation ou de la réorganisation de son entreprise" ont une portée fort large et visent un bon nombre de façons de remettre aux actionnaires les fonds de l'entreprise. Voir Merritt (précité); Smythe et al. v. M.N.R., 69 D.T.C. 5361 (C.S.C.).
+[19] Le juge Bowman a par ailleurs repris dans sa décision l’extrait suivant du paragraphe 7 de la décision du président Maclean dans Merritt v. Canada (ministre du Revenu national – M.R.N.), [1941] Ex.C.R. 175 :
+[TRADUCTION]
+Je crois donc qu’on ne saurait vraiment contester que Security Company a cessé son exploitation au sens commercial réel du terme et que, moyennant une contrepartie, elle a disposé de tous ses biens et actifs, même si cela peut nous mener bien loin lorsqu’il s’agit de trancher les questions ici en cause. Il n’est donc pas nécessaire de tenter de définir avec précision les mots « liquidation, cessation ou réorganisation ». Ce qu’on a fait de l’entreprise de Security Company était visé par le sens et l’esprit de ces mots. Je ne doute pas non plus que Security Company ait distribué ses biens à ses actionnaires au sens du paragraphe 19(1) de la Loi, en vertu des conditions de l’entente après que les actionnaires de la compagnie eurent ratifié celle-ci. À mon avis, il importe peu que l’appelante ait reçu la contrepartie se rapportant à ses actions directement de Premier Company et non par l’entremise de Security Company.
+[20] Le sens de l’expression « attribués de quelque manière que ce soit », telle qu’utilisé au paragraphe 69(4) de la Loi a été examiné par la Cour fédérale du Canada dans l’arrêt Boardman c. Canada, [1985] A.C.F. no 1043. Le juge Strayer a émis le commentaire suivant à la page 7 de son jugement :
+[. . .] Il faut souligner que, dans le paragraphe 69(4), le verbe est employé à la voix passive puisqu'il y est question de biens qui "ont été attribués". Le paragraphe ne stipule pas que le bien doit avoir été attribué par la société en faveur de l'actionnaire ou au profit de celui-ci, mais seulement que les biens ont été "attribués de quelque manière que ce soit à un actionnaire ou au profit de celui-ci". Je pense par conséquent que la mesure prise par la Cour du banc de la Reine, soit le fait de choisir ce bien particulier pour satisfaire aux obligations personnelles de M. Boardman à l'égard de son épouse, peut être considérée comme une attribution au sens du paragraphe 69(4).
+[21] Comme la rédaction du paragraphe 84(2) est très similaire à celle utilisée au paragraphe 69(4), la même interprétation peut être donnée à l’expression « lorsque des fonds ou des biens d’une société résidant au Canada, à un moment donné après le 31 mars 1977, ont été distribués ou autrement attribués, de quelque façon que ce soit, aux actionnaires ou au profit des actionnaires de toute catégorie d’actions de son capital-action», telle qu’utilisé au paragraphe 84(2) et faire en sorte qu’une participation active de la part de la société ne soit pas nécessaire pour qu’il y ait attribution de biens à ses actionnaires.
+[22] Une autre condition d’application du paragraphe 84(2) est que des fonds ou des biens d’une société aient été distribués ou attribués à ses actionnaires. Immédiatement avant l’échange d’actions, les biens détenus par la société 8855 étaient les actions privilégiées et les débentures de Vidéotron Ltée, lesquelles étaient convertibles en actions subalternes de Vidéotron Ltée au gré de la société 8855. Ce que les actionnaires de la société 8855 ont reçu, ce sont les actions subalternes de Vidéotron Ltée qui auraient été émises à la société 8855 si cette dernière avait converti toutes les actions privilégiées et les débentures de Vidéotron Ltée qu’elle détenait.
+[23] D’un point de vue purement technique, les actions subalternes que les appelants ont reçues en échange ne sont pas des biens identiques à ceux détenus par la société 8855. Le paragraphe 248(12) de la Loi définit l’expression « biens identifiques » de la façon suivante :
+Pour l'application de la présente loi, une obligation, un effet, un billet ou un titre semblable émis par un débiteur est identique à un autre titre du même genre émis par ce débiteur si les deux sont identiques quant aux droits -- en equity ou autrement, immédiats ou futurs, conditionnels ou non -- qui y sont rattachés, sauf en ce qui concerne le principal.
+[24] Même si les actions subalternes reçues par les appelants lors de l’échange ne soient pas identiques aux biens de la société 8855, il y a quand même lieu de souligner que la Commission des valeurs mobilières du Québec a, dans sa décision no 94-C-0105 du 14 avril 1994, considéré l’échange comme un rachat indirect des actions privilégiées série B et des débentures de Vidéotron Ltée pour fins d’annulation et a accordé sa dispense au motif que l’opération était au même effet que la conversion des titres visés par l’offre en actions subalternes. La Commission des valeurs mobilières du Québec a donc justifié l’octroi de sa dispense en ce qui regarde l’émission des actions subalternes aux actionnaires de la société 8855 pour le motif que ces actions auraient été émises lors de l’annulation des actions privilégiées série B et des débentures suite à l’exercice du droit de conversion qui y était rattaché. Aux fins de l’application du paragraphe 84(2), il y a donc lieu de se demander si les actions subalternes émises aux appelants constituent des biens de la société qui leur ont été attribués.
+[25] Une autre condition d’application du paragraphe 84(2) de la Loi est que les fonds ou les biens d’une société doivent avoir été distribués ou attribués aux actionnaires de la société lors de la liquidation, de la cessation de l’exploitation ou de la réorganisation de son entreprise. Pour reprendre les propos du président Maclean dans Merritt c. Canada, précité, au paragraphe 7 :
+[. . .] Il n’est donc pas nécessaire de tenter de définir avec précision les mots « liquidation, cessation ou réorganisation ».
+[26] La société 8855 a été constituée le 2 février 1994 dans le seul but de permettre aux appelants d’effectuer un échange d’actions avec Vidéotron Ltée ce qui fut fait le 6 avril 1994. Au moment de l’échange d’actions, la société 8855 n’avait aucun passif et ses seuls éléments d’actifs étaient les débentures et les actions privilégiées de Vidéotron Ltée. Le 6 avril 1994, 8855 a cessé l’exploitation de son entreprise et Vidéotron Ltée a procédé à sa liquidation. Lors de la liquidation de 8855, les débentures et les actions privilégiées détenues par 8855 ont été distribuées à Vidéotron Ltée et annulées. Les titres convertibles détenus par 8855 ont été annulés sans contrepartie lors de la liquidation de 8855 dans Vidéotron Ltée.
+[27] La société 8855 n’a existé que pour permettre l’échange d’actions. Elle avait donc une durée limitée et elle était régie par l’entente conclue par les appelants avec Vidéotron Ltée. Compte tenu de ces circonstances, je n’ai aucune hésitation à conclure que les biens de 8855 ont été distribués ou attribués dans le cadre ou à l’occasion de la liquidation ou de la cessation de l’exploitation de son entreprise.
+Décisions judiciaires
+[28] Les avocats de l’intimée ont invoqué les décisions suivantes pour justifier l’application du paragraphe 84(2) de la Loi :
+· RMM Canadian Enterprises Inc. c. Canada, [1997] A.C.I. no 302
+· Merritt c. Canada (ministre du Revenu national – M.R.N.), [1941] Ex.C.R. 175 et [1942] R.C.S. 269
+· McNichol c. Canada, [1997] A.C.I. no 5
+· Geransky c. Canada, [2001] A.C.I. no 103
+· McMullen c. Canada, [2007] CCI 16
+· David c. Canada, [1975] C.F. 43
+· Hypothèques Trustco Canada c. Canada, [2005] 2 R.C.S. 601
+· Cie pétrolière Impériale Ltée c. Canada, [2006] 2 R.C.S. 447
+· Havlik Enterprises Ltd. c. Canada (ministre du Revenu national – M.R.N.), [1989] T.C.J. No. 137
+· Boardman c. Canada (minisre du Revenu national – M.R.N.), [1985] A.C.F. no 1043
+[29] Le juge Bowman a conclu dans RMM Canadian Enterprises Inc. (RMM), précité, que le paragraphe 84(2) de la Loi s’appliquait à une vente d’actions concoctée avec un facilitateur ou un intermédiaire pour éviter les conséquences fiscales de la liquidation d’une société canadienne dans sa société-mère américaine. La société canadienne possédait toutes les actions ordinaires d’une autre société canadienne et les deux sociétés canadiennes avaient des fonds en caisse pour environ 3 000 000 de dollars canadiens et le droit de recevoir un remboursement d’impôt d’environ 1 500 000 de dollars canadiens. Les deux sociétés canadiennes n’exploitaient plus d’entreprise depuis quelques années et elles ne s’occupaient que du recouvrement du prix de location des photocopieuses qui avaient été louées à des tiers en vertu de contrats de location et de la liquidation de leur portefeuille respectif.
+[30] L’appelante RMM a été constituée par des amis avocats en vue d’acheter les actions de la société-mère canadienne. Ces actions ont été achetées pour un montant égal au total des fonds en caisse des sociétés canadiennes et du montant du remboursement d’impôt auquel elles avaient droit, plus les intérêts. Aucune valeur n’a été attribuée aux contrats de location. Le prix d’achat des actions a été financé au moyen d’un prêt consenti par une banque américaine, lequel prêt était garanti par les actifs de la société-mère canadienne. Suite au transfert des actions de la société-mère canadienne à RMM, la société-mère canadienne a commencé à être liquidée de façon à être intégrée à RMM et la filiale canadienne a par la suite fusionné avec RMM. Dans les jours qui ont suivi l’acquisition d’actions, RMM a remboursé le prêt consenti par la banque à l’aide des fonds en caisse des sociétés canadiennes.
+[31] Même si aucune valeur n’a été attribuée aux contrats de location des photocopieuses, la société-mère américaine et sa société-mère également américaine ont fourni une garantie à RMM d’un montant de 140 000 de dollars américains à recouvrer en vertu des contrats de location et ont réduit le prix d’achat des actions de 10 000 de dollars américains pour couvrir une partie des frais d’avocats de RMM. Selon le juge Bowman, ce n’était pas les contrats de location qui intéressaient RMM, mais ce qui était essentiellement, la rémunération à laquelle elle avait droit du fait de sa participation au dépouillement par la société-mère américaine des surplus de la société-mère canadienne et de sa filiale.
+[32] Le juge Bowman a conclu que le paragraphe 84(2) de la Loi s’appliquait à l’opération ci-dessus décrite en se basant, entre autres, sur ce qui est énoncé aux extraits suivants tirés des paragraphes 16 et 17 :
+Je suis arrivé à la conclusion selon laquelle EL a distribué ou attribué ses biens ou ses fonds à EC ou au profit d'EC lors de la liquidation, de la cessation de l'exploitation ou de la réorganisation de son entreprise au sens du paragraphe 84(2) et qu'il n'était pas nécessaire d'avoir recours à la DGAE.
+[. . .] Personne que ce soit EC ou RMM, ne s'intéressait particulièrement à la valeur exacte des contrats de location. EC les considérait comme une "prime". RMM voulait uniquement gagner ce qui était essentiellement une rémunération parce qu'elle agissait comme facilitateur dans l'opération qui visait à permettre à EC de mettre la main sur les fonds en caisse et valeurs assimilables d'EL et d'ECL sans payer de retenue d'impôt. [. . .] De toute évidence, RMM n'avait pas l'intention d'exploiter l'entreprise de location qu'EL et ECL exploitaient antérieurement, les contrats de location ayant été acquis par EC après que le montant garanti eut été payé. RMM avait gagné la rémunération de 140 000 $ US à laquelle elle avait droit pour avoir agi comme intermédiaire lors de la liquidation ou de la cessation de l'exploitation des entreprises des filiales canadiennes et de la distribution de leurs actifs à EC.
+[33] Le juge Bowman a de plus distingué la décision McNichol, précitée, rendue quelques mois auparavant en émettant les commentaires suivants tirés du paragraphe 21 :
+Il s’agit ensuite de savoir si la vente des actions est une opération qui peut raisonnablement être considérée comme ayant été effectuée principalement à des fins véritables autres que l'obtention de l'avantage fiscal prévu au paragraphe 245(3). Il incombait aux appelants d'établir que la chose pouvait ainsi être considérée; or, ils ont omis de le faire. L'avocat des appelants a soutenu qu'en vendant les actions, ses clients voulaient principalement mettre fin à l'association par suite de laquelle ils possédaient Bec en commun. Je ne suis pas d'accord. Il est important de savoir quelle était la nature de leur "association" pendant l'hiver 1989. Les appelants possédaient tous, en leur qualité d'actionnaires de Bec, un intérêt dans le seul actif de la compagnie, soit le surplus non distribué. La situation, telle qu'ils l'ont décrite dans une lettre datée du 10 février 1993 qu'ils ont envoyée au ministère du Revenu national, était la suivante :
+À la suite de la vente de l'immeuble, il ne restait à Bec qu'un seul actif - des liquidités, correspondant à environ 315 000 $, après qu'une provision eut été créée aux fins des obligations fiscales découlant de la vente, de 120 500 $, et des bénéfices non répartis libérés d'impôt de 314 000 $. Ici encore, les actionnaires ne s'étaient pas entendus au sujet de la question de savoir s'ils devaient liquider la compagnie et se distribuer le produit ou s'ils devaient faire en sorte que Bec exploite une entreprise sous une forme quelconque. Il est devenu tout à fait clair que les actionnaires ne voulaient pas exploiter une entreprise ensemble.
+[34] Il peut être utile de rappeler ici certains faits de la décision McNichol, précitée :
+· au moment de la vente des actions de Bec Holding Corporation Limited, cette dernière n’avait pas de fonds de commerce et elle n’exploitait plus d’entreprise depuis la vente de son principal actif, un immeuble commercial. Elle n’avait qu’un actif, soit la somme de 318 666 $ dans sa trésorerie;
+· l’acheteur des actions était la société Beformac Holdings Limited, une société qui n’avait alors que 63 $ dans son compte bancaire et qui a dû emprunter 300 000 $ de la banque pour verser le prix d’achat des actions aux appelants, prêt qu’elle a obtenu sur la garantie du solde bancaire de Bec Holding Corporation Limited;
+· la vente des actions a eu lieu le 31 mars 1989 et la fusion de Bec Holding Corporation Limited et de Beformac Holdings Limited a été effectuée le 5 avril 1989 et le prêt de 300 000 $ à la banque a été remboursée le 21 avril 1989;
+· aucun motif d’ordre commercial justifiant l’achat des actions par Beformac Holdings Limited n’a été fourni.
+[35] Dans l’arrêt Merritt, précité, le président Maclean a appliqué le paragraphe 19(1) de la Loi de l’impôt de guerre sur le revenu, telle que modifiée par l’article 11 du chap. 38 des Statuts du Canada, qui se lisait comme suit en 1936 :
+19(1) Lors de la liquidation, de la cessation ou de la réorganisation des opérations d’une compagnie constituée en corporation, la distribution, sous quelque forme que ce soit, des biens de la compagnie est censée le paiement d’un dividende dans la mesure où la compagnie a en sa possession un revenu non distribué.
+[36] Les faits sous-jacents à cette décision sont fort simples. La société Security Loan and Savings Company avait conclu une entente afin de vendre à la société Premier Trust Company la totalité de ses actifs, y compris son achalandage, ses réserves et ses profits non distribués. La contrepartie pour l’achat d’actif était payable par l’émission à chaque actionnaire de Security Loan and Savings Company d’une action et demie (d’une valeur nominale de 100 $ chacune) du capital-actions de Premier Trust Company ou, au choix des actionnaires, par le paiement d’une somme de 102 $ comptant et d’une demie action pour chaque action émise et en cours de Security Loan and Savings Company détenue par chaque actionnaire.
+[37] Le président Maclean a conclu dans ce contexte que la société Security Loan and Savings Company avait discontinué l’exploitation de son entreprise au sens réel et commercial du terme suite à son acceptation de vendre la totalité de ses biens et de son actif et qu’il y avait une distribution des biens de la société à ses actionnaires au sens du paragraphe 19(1) malgré le fait que les actionnaires aient reçu la contrepartie de leurs actions directement de la société Premier Trust Company et non pas par l’entremise de la société Security Loan and Savings Company.
+[38] La décision du président Maclean a été renversée par la Cour suprême du Canada, [1942] R.C.S. 269, pour des motifs autres que ceux-ci-dessus mentionnés. La Cour suprême du Canada a majoritairement souscrit à la position du président MacLean en ces termes :
+[VERSION FRANÇAISE NON DISPONIBLE]
+It was first contended on behalf of the respondent that, within the meaning of subsection 1 of section 19 of the Income War Tax Act as above noted, there was no distribution of the property of the Loan Company and no winding up, discontinuance or reorganization of its business. The learned President decided against this contention and on that point of I agree with his statement of the facts and with his conclusions and have nothing to add.
+[39] Le juge Bowman a eu à nouveau à se prononcer sur l’application du paragraphe 84(2) de la Loi dans la cause Geransky, précitée, décision qui fut rendue en 2001. Dans ce cas, il a refusé d’appliquer le paragraphe 84(2) de la Loi sur la base des conclusions suivantes :
+· les opérations effectuées étaient exécutoires et valides;
+· les conséquences fiscales de chaque opération découlaient de l’application de dispositions particulières de la Loi;
+· l’objectif économique ultime était l’acquisition par Lafarge des biens de la cimenterie de GBC et l’obtention par GBC d’un contrat d’approvisionnement de dix ans auprès de Lafarge;
+· Lafarge n’était pas une compagnie de commodité du type de celle qui a été utilisée dans les affaires Smythe et al v. M.R.N., [1970] R.C.S. 64 (Cour suprême du Canada) et RMM, où le paiement a été effectué essentiellement au moyen des fonds de la compagnie même dont le surplus était distribué;
+· il n’y a eu ni cessation, ni liquidation, ni réorganisation de quelque entreprise que ce soit d’une compagnie. GH et GBC ont continué de faire ce qu’elles ont toujours fait;
+· les transactions effectuées n’ont pas fait en sorte que des fonds ou des biens de GH et de GBC ont fini dans les mains de l’appelant. L’appelant a vendu des actions de 606103 à Lafarge qui les a payées avec ses propres fonds.
+[40] La juge Lamarre a également eu à considérer l’application du paragraphe 84(2) de la Loi dans l’affaire McMullen, précité. Dans cette affaire, la Cour a conclu que le paragraphe 84(2) ne s’appliquait pas parce que les opérations n’ont pas été exécutées dans le cadre d’une « réorganisation » de l’entreprise de DEL, la société qui opérait son entreprise dans deux localités différentes. Le but premier des opérations était apparemment de permettre à chacun des partenaires de posséder avec leur conjointe respective l’entreprise exploitée dans une seule localité. Dans ce contexte, la société opérante n’a pas cessé d’exploiter son entreprise. Elle a plutôt continué d’exploiter la même entreprise, de la même manière, et ce, dans une seule localité plutôt que dans deux localités. L’opération problématique dans ce cas, était une vente d’actions par l’appelant à une société de gestion appartenant à la conjointe de son partenaire et dont le prix d’achat a été payé à même un dividende déclaré par la société opérante sur les actions vendues par l’appelant. Selon l’intimée, la vente d’actions à la société de gestion constituait une distribution des fonds ou des biens de la société opérante effectuée dans le cadre d’une réorganisation de son entreprise.
+[41] La Cour suprême du Canada a également appliqué le paragraphe 81(1) de la Loi de l’impôt sur le revenu, S.R.C. 1952, c. 148, telle que modifié, soit la version précédente du paragraphe 84(2) de la Loi, dans les arrêts Smythe c. Canada (ministre du Revenu national – M.R.N.), [1970] R.C.S. 64 et Craddock and Atkinson c. M.R.N., 69 DTC 5369 et la Cour fédérale a fait de même dans l’affaire David c. Canada, [1975] C.F. 43. Il n’est pas nécessaire de commenter ici ces décisions mais les commentaires du juge Walsh dans l’affaire David concernant le sens des mots « lors de » tels qu’utilisés dans l’expression « lors de la liquidation, de la cessation ou de la réorganisation de son entreprise » à l’article 81(1) sont particulièrement intéressants. Voici ses propos à ce sujet tirés de la page 65 :
+[. . . ] il est cependant vrai qu’en l’espèce ce n’est pas au moment de, ni « lors de » la cessation des opérations commerciales de la compagnie, en août, que les fonds furent appropriés à l’avantage du groupe David, mais seulement cinq mois plus tard. Il est clair cependant que le groupe David avait l’intention de liquider non seulement les opérations commerciales mais toute l’entreprise de la compagnie immédiatement après en avoir acquis le contrôle comme l’indique le procès-verbal des réunions du 30 décembre 1965. Même s’il est vrai que les évènements ultérieurs indiquent que la liquidation n’eut pas lieu à ce moment-là, mais qu’on continua d’exploiter la compagnie comme société de placements, je ne pense pas que cette situation change le fait que la liquidation faisait apparemment partie du projet.
+[42] La Cour Suprême du Canada a réitéré les principes clés régissant l’interprétation des lois fiscales dans les arrêts Trustco Canada et Imperial Oil Ltd., précités.
+[43] Le juge Lebel dans l’arrêt Cie pétrolière Impériale Ltée, a rappelé que l’interprétation textuelle demeure pertinente mais la méthode moderne insiste également sur l’importance d’interpréter les dispositions des lois fiscales dans leur contexte, en tenant compte de l’ensemble de la Loi. La méthode moderne d’interprétation s’applique à toutes les lois, y compris la Loi de l’impôt sur le revenu. La méthode moderne nécessite une analyse textuelle, contextuelle et téléologique afin que le sens qui se dégage s’harmonise avec la Loi dans son ensemble. C’est avec ce principe en tête qu’il faut appliquer les dispositions de la Loi à l’opération en cause.
+[44] Les avocats des appelants ont, quant à eux, invoqué les décisions suivantes en plus de celles de Geransky, McNichol et RMM Canadian Enterprises Inc., précitées :
+· Corporation Notre-Dame de Bon Secours v. Québec, [1994] 3 S.C.R. 3 (Cour Suprême)
+· R. v. Friedberg, 99 D.T.C. 6031 (CAF)
+· R. V. Loewen, 2004 D.T.C. 6321 (CAF)
+· Mitchell v. R., 99 D.T.C. 866
+· Schwartz v. R., [1996] S.C.R. 254 (Cour Suprême)
+· Shell Canada Ltd. v. R., [1999] 3 S.C.R. 622 (Cour Suprême)
+· Singleton v. R., [2001] 2 S.C.R. 1046 (Cour Suprême).
+[45] Il ne fait pas de doute que Vidéotron Ltée avait un intérêt économique à effectuer les échanges d’actions avec les appelants. Le taux de dividende cumulatif de 8% sur les actions privilégiées et le taux d’intérêt de 11¾% sur les débentures étaient très élevés par rapport aux rendements moyens des obligations à moyen terme des sociétés canadiennes au cours des années 1993 et 1994. Vidéotron Ltée avait tout intérêt de procéder au rachat des actions privilégiées et des débentures. Par contre, Vidéotron Ltée ne pouvait forcer la conversion des actions privilégiées et des débentures en actions subalternes de son capital-actions. Les échanges d’actions avec les appelants a permis à Vidéotron Ltée d’éliminer les actions privilégiées et les débentures en payant en actions plutôt qu’en argent le prix de rachat de ces valeurs mobilières. Le nombre d’actions que Vidéotron Ltée a émis était l’équivalent des actions qui auraient été émises si la société 8851 avait elle-même exercé les droits de conversion rattachés aux actions privilégiées et aux débentures qu’elle détenait.
+[46] Vidéotron Ltée était une société active dans le domaine de la câblodistribution et elle détenait des actifs substantiels en termes d’immobilisation et de clientèle. Vidéotron Ltée n’était certes pas une société de commodité du type de celle qui a été utilisée dans les affaires Smythe et RMM, précitées, dans lesquelles le paiement du prix des actions a été effectué essentiellement au moyen des fonds de la société qui a été acquise. Par contre, Vidéotron Ltée a tout de même prêté indirectement et de façon subsidiaire son concours aux dernières étapes de la réorganisation corporative que la Famille Tremblay se proposait d’effectuer, et elle a monnayé sa participation en exigeant à la Famille Tremblay une renonciation à une somme de 200 928,52 $ au titre d’intérêts sur les débentures et de 335 071,48 $ au titre de dividendes sur les actions privilégiées et en faisant supporter par la Famille Tremblay tous les coûts, honoraires, frais et dépenses engagées par Vidéotron Ltée, ses conseillers et ses vérifications dans le cadre de la réorganisation.
+[47] La société 8855 était un intermédiaire financier créée le 2 février 1994 dans le seul but de détenir les actions privilégiées et les débentures de Vidéotron Ltée et dont l’existence était limitée compte tenu de l’entente intervenue entre Vidéotron Ltée et la Famille Tremblay le 22 février 1994. De fait, elle a été liquidée pour fins fiscales, le jour même où les échanges d’actions entre les appelants et Vidéotron Ltée ont eu lieu. Lors de la liquidation de la société 8855, les actions privilégiées et les débentures qu’elle détenait ont été annulées.
+[48] Les actions subalternes de Vidéotron Ltée qui ont été émises aux appelants en contrepartie de leurs actions de la société 8855 étaient de nouvelles actions issues du trésor, i.e. qu’elles n’existaient pas auparavant. Ces actions subalternes avaient une nature juridique différente des actions privilégiées et des débentures détenues par la société 8855. Le droit de conversion rattaché aux actions privilégiées et aux débentures n’en faisait pas des biens légalement identiques aux actions subalternes. Les actions subalternes distribuées ou attribuées aux appelants ne sont pas des biens provenant de la société 8855.
+[49] Il ne fait pas de doute que les biens de la société 8855 ont été acquis par Vidéotron Ltée lors de la liquidation de la société 8855.
+Conclusion
+[50] Compte tenu de ce qui précède, je ne vois pas comment les échanges d’actions effectués par les appelants pourraient de quelque manière que ce soit être visés par le paragraphe 84(2) de la Loi.
+[51] Les appels sont admis avec frais mais un seul mémoire de frais pour l’ensemble des dossiers et les cotisations établies pour l’année d’imposition 1994 sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que le paragraphe 84(2) de la Loi ne s’applique pas aux échanges d’actions en cause.
+Signé à Ottawa, Canada, ce 8e jour de janvier 2009.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2009 CCI 6
+Nº DES DOSSIERS DE LA COUR : 2006-2178(IT)G, 2006-2205(IT)G,
+2006-2207(IT)G, 2006-2210(IT)G
+INTITULÉS DES CAUSES : Danielle Vaillancourt Tremblay et SMR
+Succession de feue Hélène Tremblay et SMR
+Gérard Tremblay et SMR
+Martin Tremblay et SMR
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 23 janvier 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 8 janvier 2009
+COMPARUTIONS :
+Avocats des appelants :
+Me Richard W. Pound
+Me Charles C. Gagnon
+Avocats de l'intimée :
+Me Michel Lamarre
+Me Nathalie Labbé
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour les appelants:
+Noms : Me Richard W. Pound
+Me Charles C. Gagnon
+Cabinet : Stikeman Elliott
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Ajouté subséquemment pour rendre le texte conforme à la version anglaise.

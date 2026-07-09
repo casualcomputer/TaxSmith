@@ -1,0 +1,304 @@
+Title: Skaling c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30282/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-180-30282-skaling-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-03-23
+
+# Skaling c. La Reine
+
+- Citation: 2011 CCI 180
+- Decision date: 2011-03-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7992, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Skaling c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-23
+Référence neutre
+2011 CCI 180
+Numéro de dossier
+2010-2215(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010‑2215(IT)I
+ENTRE :
+CHRIS SKALING,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu le 3 février 2001, à Victoria (Colombie‑Britannique)
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Représentant de l’appelant :
+M. Jim Mitchell
+Avocat de l’intimée :
+Me Rob Whittaker
+___________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 et 2007 sont rejetés sans frais.
+Signé à Vancouver (Colombie‑Britannique), ce 23e jour de mars 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 18e jour de mai 2011.
+Marie‑Christine Gervais
+Référence : 2011 CCI 180
+Date : 20110323
+Dossier : 2010‑2215(IT)I
+ENTRE :
+CHRIS SKALING,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] Les appels concernent les années d’imposition 2006 et 2007 de l’appelant.
+[2] Durant les années visées par l’appel, l’appelant travaillait comme mécanicien automobile auprès d’Alpine Transmission & Auto Repairs Ltd. (« Alpine »).
+[3] L’appelant travaillait quatre jours par semaine pour Alpine.
+[4] Avant 2006, le passe‑temps de l’appelant consistait à travailler sur des voitures à haute performance qui étaient utilisées dans des courses d’accélération.
+[5] L’appelant a expliqué que les « courses d’accélération » étaient des courses où des « voitures superpuissantes » s’affrontaient dans le cadre d’une course sur un parcours rectiligne, habituellement sur une distance d’un quart de mile. (Transcription, page 5, lignes 19 à 25, et page 6, lignes 14 à 25)
+[6] L’appelant a affirmé qu’au cours de l’année 2006, il avait démarré une entreprise qui consistait à reconstruire des moteurs de voiture et à faire participer sa Buick GS 1970 (la « voiture de course ») à des courses d’accélération sur différentes pistes de course en Colombie‑Britannique (l’« entreprise »). (Transcription, page 34, lignes 5 à 8)
+(Note : L’appelant a affirmé qu’en fait, il avait démarré l’entreprise en 2002, mais que vu qu’il était très occupé chez Alpine, il avait dû suspendre les activités de son entreprise jusqu’en 2006.) (Transcription, page 24, lignes 15 à 20).
+[7] L’entreprise que l’appelant exploitait était une entreprise individuelle.
+[8] L’appelant exploitait l’entreprise à partir d’un garage chez lui.
+[9] L’appelant a dit qu’il avait tiré les revenus suivants de l’entreprise de reconstruction de moteurs de voiture :
+a) 2006 – 19 223 $;
+b) 2007 – 20 795 $.
+[10] Lorsque l’appelant a commencé à exploiter l’entreprise, il possédait plusieurs outils (les « outils ») qu’il dit avoir acquis sur une période de plusieurs années.
+[11] L’appelant possédait aussi une camionnette et une remorque utilisées pour transporter la voiture de course de chez lui aux pistes de course et vice‑versa.
+[12] L’entreprise a acquis les outils, la voiture de course et la camionnette et la remorque en 2006, et le comptable de l’appelant, M. Jim Mitchell, les a consignés dans les tableaux de déduction pour amortissement (« DPA ») de l’entreprise.
+[13] Dans le tableau de la DPA de l’appelant, le comptable a inscrit que la valeur des outils était de 27 140 $.
+[14] Le ministre du Revenu national (le « ministre ») a soutenu que la juste valeur marchande (« JVM ») des outils au début de 2006 ne dépassait pas 13 750 $.
+[15] La valeur de la voiture de course inscrite dans les livres de l’appelant était de 35 546 $. Le ministre a soutenu que la JVM de la voiture de course était de 4 455 $.
+[16] La valeur de la camionnette et de la remorque inscrite dans les livres de l’appelant était de 40 000 $.
+[17] Pour l’année d’imposition 2007, l’appelant a déduit 13 432 $ au titre de fournitures. (Note : Ce montant correspondait aux coûts d’exploitation de la voiture de course pour cette année là.)
+[18] Lorsque l’appelant a produit ses déclarations de revenus pour 2006 et 2007, il a demandé une DPA à l’égard des outils, de la voiture de course et de la camionnette et de la remorque.
+Année d’imposition 2006
+DPA
+Autorisée par l’Agence du revenu du Canada (l’« ARC »)
+Outils – 20 p. 100, règle
+de la demi‑année : 2 714 $
+1 357 $
+Voiture de course –
+30 p. 100, règle de la
+demi‑année : 5 332 $
+0 $
+Camionnette et remorque – 30 p. 100, règle de la
+demi‑année : 6 000 $
+0 $
+Année d’imposition 2007
+DPA
+Autorisée par l’ARC
+Outils – 20 p. 100 :
+4 885 $
+2 443 $
+Voiture de course –
+30 p. 100 :
+9 000 $
+0 $
+Camionnette et remorque
+– 30 p. 100 : 10 030 $
+0 $
+(Pièce R‑1, onglet 4)
+[19] Les tableaux de la DPA de l’appelant et du ministre indiquent ce qui suit :
+Année d’imposition 2006
+Ajouts au tableau de DPA
+pour 2006
+Autorisée par l’ARC
+Outils : 27 140 $
+13 570 $
+Voiture de course : 35 546 $
+0 $
+Camionnette
+et remorque : 40 000 $
+0 $
+Fraction non amortie du coût en capital (« FNACC ») à la fin de l’année
+Autorisée par l’ARC
+Outils : 24 426 $
+12 213 $
+Voiture de course : 30 214 $
+0 $
+Camionnette
+et remorque : 34 000 $
+0 $
+Montant net d’immobilisations refusé : 89 116 $
+Montant net de DPA refusé pour la période : 12 689 $
+FNACC à la fin de l’année : 12 213 $
+Année d’imposition 2007
+FNACC au début de l’année sur le tableau de DPA pour 2007
+Autorisée par l’ARC
+Outils : 24 426 $
+12 213 $
+Voiture de course : 30 314 $
+0,00 $
+Camionnette
+et remorque : 34 000 $
+0,00 $
+FNACC à la fin de l’année
+Autorisée par l’ARC
+Outils : 19 541 $
+9 770 $
+Voiture de course : 21 214 $
+0,00 $
+Camionnette
+et remorque : 23 910 $
+0,00 $
+Montant net de DPA refusé : 21 473 $
+FNACC à la fin de l’année : 9 770 $
+(Pièce R‑1, onglet 4)
+(Note : L’appelant a affirmé avoir cessé d’exploiter l’entreprise à la fin de 2008 parce qu’il est incapable de travailler et qu’il touche des prestations d’invalidité).
+B. QUESTION EN LITIGE
+[20] La question en litige est celle de savoir si l’appelant a le droit de déduire des montants en sus des montants que le ministre a autorisés.
+C. ANALYSE ET DÉCISION
+[21] En contre‑interrogatoire, l’avocat de l’intimée a posé les questions suivantes à l’appelant :
+[traduction]
+Q [...] Steve Braithwaite a participé à environ combien de courses en 2006 et en 2007? Si vous vous rappelez.
+(Note : Steve Braithwaite était le pilote de la voiture de course.)
+R Pas trop. Nous avons ralenti en quelque sorte. Probablement une demi‑douzaine, peut‑être. Nous ne sommes pas allés à Bremerton ni l’une ni l’autre de ces années‑là.
+(Note : Une piste de course est située à Bremerton, dans l’état de Washington.)
+Q Donc, une demi‑douzaine au total pour les deux années?
+R Non non, chaque année.
+(Transcription, page 46, lignes 9 à 17)
+[22] L’avocat de l’intimée a aussi posé la question suivante à l’appelant :
+[traduction]
+Q Et vous n’avez pas reçu d’argent d’une personne fortunée pour vous aider dans vos courses automobiles, est‑ce exact?
+R Non, j’ai reçu en fait de – ouais, Peter Wille chez Victoria Automatic, du matériel de transmission et d’autres choses, des pièces, comme je disais plus tôt. 1 000 $ de Lordco.
+(Transcription, de la ligne 25 de la page 46 aux lignes 1 à 6 de la page 47)
+[23] À la page 35 de la transcription, l’appelant a dit :
+[traduction]
+R Lordco me donnait 1 000 $ chaque année à titre de commandite, que je pouvais – c’était dans un compte. Le compte numéro 474 chez Lordco. J pouvais aller là et obtenir des pièces, pas au prix de gros mais au prix coûtant, et je pouvais acheter jusqu’à 1 000 $ de pièces.
+(Transcription, page 35, lignes 21 à 25).
+[24] L’avocat de l’intimée a aussi demandé à l’appelant :
+[traduction]
+Q [...] quels prix en argent ont été gagnés en 2006 d’abord, et quels prix en argent ont été gagnés en 2007?
+R Je sais qu’à Port Alberni, je pense que nous avons eu – je pense que c’était quelque chose comme 400 ou 500 piastres pour une course, et sinon, seulement des trophées.
+Q Bon. Alors il est juste de dire qu’en deux ans, vous avez eu de trophées, mais le seul prix en argent que vous avez gagné était de 400 ou 500 dollars?
+R Je pense que nous avons eu quelques premiers prix à la Western Speedway, mais la paye n’est pas si extraordinaire, n’est‑ce pas? C’était comme 150 piastres ou quelque chose comme ça.
+(Transcription, page 48, lignes 1 à 11)
+[25] L’avocat de l’intimée a alors dit :
+[traduction]
+Q [...] Pouvez‑vous dire à la Cour, en 2006, quel genre de dépenses vous engagiez pour l’activité de course automobile?
+(Transcription, page 48, lignes 13 à 15).
+[26] L’appelant a répondu au moyen des renseignements suivants :
+Article
+2006
+2007
+Deux paires de pneus lisses par année à 750 $ la paire (Note : Les pneus lisses sont des pneus arrières spécialisés conçus pour la course.)
+1 500 $
+1 500 $
+Carburant de course (coût approximatif)
+500 $
+500 $
+Ressorts de soupapes
+150 $
+150 $
+Ressorts hélicoïdaux
+(2 x 150 $)
+300 $
+300 $
+Carburant pour la camionnette pour apporter la voiture de course à la piste et la rapporter chez l’appelant
+300 $ à 500 $
+300 $ à 500 $
+TOTAL :
+2 750 $ à 2 950 $
+2 750 $ à 2 950 $
+(Transcription, pages 48 à 54)
+[27] À la page 56 de la transcription, l’avocat de l’intimée a dit :
+[traduction]
+Q [...] C’est une passion. La course est une de vos passions, est‑ce exact? [...]
+R Oui. C’est une passion, c’est ce que je connais. Mon père m’a appris [...]
+(Transcription, page 56, lignes 18 à 22)
+[28] L’avocat de l’intimée a appelé Dalyce Levesque à témoigner. Mme Levesque est vérificatrice à l’ARC. Elle a été la vérificatrice dans le présent dossier. L’avocat de l’intimée a dit :
+[traduction]
+Q [...] Et pouvez‑vous dire à la Cour quel a été l’objet de la présente vérification?
+R [...] au cours de la vérification, j’ai conclu que M. Skaling exploitait une entreprise de construction de moteurs sur mesure, alors j’ai conclu que la voiture de course, la camionnette et la remorque n’étaient pas liés à l’entreprise. J’ai aussi conclu que les – qu’il avait des outils, mais que leur valeur n’était pas exacte, et j’ai réduit la valeur de ces outils.
+(Transcription, page 69, lignes 14 à 15 et des lignes 21 à 25 de la page 69 aux lignes 1 et 2 de la page 70)
+[29] L’avocat de l’intimée a demandé à la vérificatrice, à la page 75 :
+[traduction]
+Q Maintenant, vos éléments de preuve indiquent que vous n’avez admis aucun montant à l’égard de la voiture ni de la camionnette et la remorque. Pouvez‑vous dire à la Cour pourquoi vous n’avez autorisé aucun montant à l’égard de ces articles au titre d’une déduction pour amortissement?
+R La voiture de course et la camionnette et la remorque étaient liées, évidemment, à la course, et il est ressorti de mon entretien et de ma discussion avec M. Skaling que celui‑ci exploitait une entreprise de construction de moteurs Buick et non – il n’y avait aucun – l’entreprise de course n’était pas là.
+(Transcription, page 75, lignes 5 à 13)
+Publicité
+[30] L’avocat de l’intimée à noté que la vérificatrice avait autorisé des dépenses de publicité. Il a dit :
+[traduction]
+Q Pouvez‑vous dire à la Cour pourquoi vous avez décidé d’admettre cela?
+R Étant donné qu’il exploitait une entreprise de construction de moteurs, j’ai eu des discussions avec mon chef d’équipe et nous avons décidé qu’il était raisonnable qu’il puisse utiliser son passe‑temps consistant à participer à des courses pour faire la publicité de cette [« entreprise » de] construction puisqu’il s’agit, vous savez, d’un secteur similaire. [...]
+(Transcription, des lignes 23 à 25 de la page 76 aux lignes 1 à 4 de la page 77)
+(Note : Mme Levesque a affirmé, à la page 77 de la transcription, que, pour être raisonnable et équitable, elle a admis un pourcentage des coûts d’exploitation de l’appelant liés à sa voiture de course au titre des dépenses de publicité. Selon la pièce R‑1, onglet 3, les montants suivants de dépenses de publicité ont été admis : 445 $ en 2006 et 1 343 $ en 2007. Il s’agit de 10 p. 100 du montant déduit par l’appelant.)
+[31] Dans sa plaidoirie, M. Mitchell, le comptable de l’appelant, a dit que l’appelant n’avait exagéré sous aucun poste de dépense. Il a dit que la voiture de course et l’entreprise de reconstruction de moteurs étaient une seule et même entreprise, le tout servant à promouvoir les efforts que déployait M. Skaling pour établir sa propre entreprise et travailler à son compte.
+[32] L’avocat de l’intimée a noté que l’ARC avait décidé que la DPA relative à la FNACC des outils correspondait à la moitié de ce qui avait été demandé.
+[33] L’avocat de l’intimée a affirmé que l’ARC avait conclu que la DPA qui avait été admise se limitait aux outils et que la DPA demandée à l’égard de la voiture de course, de la camionnette et de la remorque avait été complètement refusée parce que ces actifs ne faisaient pas partie de l’entreprise. L’avocat de l’intimé a noté que 10 p. 100 des coûts d’exploitation déduits pour 2007 avaient été admis, c’est‑à‑dire 10 p. 100 de 13 432 $, ou 1 343 $ (voir le paragraphe [17] ci‑dessus).
+[34] L’avocat de l’intimée a dit :
+[traduction]
+ME WHITTAKER : Je pense que la prémisse essentielle de cette décision était tout simplement que la course automobile n’était pas une entreprise. Le contribuable a peut‑être décrit la course automobile comme une entreprise, mais il n’y avait aucune expectative raisonnable de profit. Alors voilà essentiellement pourquoi cette dépense a été refusée. De plus, l’ARC a estimé, quant à la voiture de course, à la camionnette et à la remorque, que, bien que l’on ait pu soutenir qu’il y avait une certaine justification commerciale à leur intégration au volet de l’entreprise relatif à la reconstruction de moteurs, il y avait aussi un aspect personnel important. Et puisqu’il y a aussi un aspect personnel, la déduction pour amortissement ne pouvait pas être demandée. Voilà vraiment l’essentiel de la position de l’ARC.
+[Non souligné dans l’original.]
+(Transcription, page 104, lignes 13 à 24)
+[35] L’avocat de l’intimée a ensuite affirmé :
+[traduction]
+ME WHITTAKER : Voilà essentiellement notre position, et l’appelant a affirmé dans son témoignage que la course automobile était sa passion, et cela est parfaitement compréhensible. Nous disons donc qu’un aspect personnel important se rattache à la voiture de course, à l’achat de la camionnette et à la remorque, et, à cause de cet aspect personnel important, nous soutenons qu’en vertu de la loi, une déduction pour amortissement ne peut pas être demandée à l’égard de ces actifs.
+(Transcription, page 105, lignes 11 à 17)
+[36] Tel qu’il est indiqué précédemment, l’avocat de l’intimée a dit que la déduction des dépenses liées à la voiture de course avait été refusée essentiellement parce qu’il n’y avait aucune expectative raisonnable de profit.
+[37] Dans l’arrêt Stewart c. Canada, [2002] 2 R.C.S. 645, 2002 CSC 46, [l’arrêt Stewart], la Cour suprême du Canada a traité de la question de savoir si le critère de l’expectative raisonnable de profit était un critère acceptable pour déterminer si un contribuable exploitait une entreprise commerciale. Les juges Iacobucci et Bastarache ont dit :
+5 Il est incontesté que la notion de « source de revenu » est un élément fondamental du régime fiscal canadien. Cependant, tout critère d’appréciation de l’existence d’une source doit reposer fermement sur le texte et l’économie de la Loi. En conséquence, pour déterminer si une activité particulière constitue une source de revenu, le contribuable doit démontrer qu’il a l’intention d’exercer cette activité en vue de réaliser un profit, et présenter des éléments de preuve étayant cette intention. Ce critère a pour objet de distinguer les activités commerciales des activités personnelles. Lorsqu’une activité exercée dans le but de réaliser un profit ne comporte aucun aspect personnel ou récréatif, cette activité est commerciale et la recherche d’un profit par le contribuable est établie. Cependant, lorsqu’on soupçonne que l’activité du contribuable est un passe‑temps ou une démarche personnelle plutôt qu’une entreprise commerciale, la prétendue expectative raisonnable de profit est un facteur parmi d’autres qui peut être pris en considération pour déterminer si le contribuable a l’intention d’exploiter une entreprise commerciale.
+[...]
+50 Il est manifeste que, pour que l’art. 9 s’applique, le contribuable doit d’abord déterminer s’il a une source de revenu constituée soit d’une entreprise, soit d’un bien. Comme nous l’avons vu, une activité commerciale qui ne constitue pas véritablement une entreprise peut néanmoins être une source de revenu constituée d’un bien. De même, il est clair que certaines démarches de contribuables ne sont ni des entreprises, ni des sources de revenu constituées d’un bien, mais sont uniquement des activités personnelles. On peut recourir à la méthode à deux volets suivante pour trancher la question de l’existence d’une source :
+(i) L’activité du contribuable est‑elle exercée en vue de réaliser un profit, ou s’agit‑il d’une démarche personnelle?
+(ii) S’il ne s’agit pas d’une démarche personnelle, la source du revenu est‑elle une entreprise ou un bien?
+[...]
+52 [...] Ainsi, lorsque la nature de l’entreprise du contribuable comporte des aspects indiquant qu’elle pourrait être considérée comme un passe‑temps ou une autre activité personnelle, mais que l’entreprise est exploitée d’une manière suffisamment commerciale, cette entreprise sera considérée comme une source de revenu aux fins d’application de la Loi.
+53 Nous soulignons que ce critère de l’existence d’une source « en vue de réaliser un profit » ne doit faire l’objet d’une analyse que dans les situations où l’activité en cause comporte un aspect personnel ou récréatif. En toute déférence, nous estimons que les tribunaux ont commis une erreur, dans le passé, en appliquant le critère de l’ERP à des activités comme l’exercice du droit et la restauration qui ne comportent aucun aspect personnel de cette nature : voir, par exemple, Landry, précité; Sirois, précité; Engler c. Canada, [1994] A.C.F. no 483 (QL) (1re inst.). Lorsqu’une activité est clairement de nature commerciale, il n’est pas nécessaire d’analyser les décisions commerciales du contribuable. De telles démarches comportent nécessairement la recherche d’un profit. Il existe donc par définition une source de revenu et il n’est pas nécessaire de pousser l’examen plus loin.
+[38] Autrement dit, dans l’arrêt Stewart, la Cour suprême du Canada a introduit un nouveau critère pour déterminer si une activité était une entreprise, surtout lorsque l’activité en cause comporte un aspect « personnel ou récréatif ».
+[39] À mon avis, M. Skaling menait une activité personnelle ou récréative lorsqu’il faisait de la course automobile, ET l’activité consistant à faire de la course automobile n’a pas été menée d’une manière suffisamment commerciale pour être considérée comme une source de revenu.
+[40] Je suis arrivé à cette conclusion parce que l’appelant a affirmé que lorsqu’il avait participé à des courses, il avait seulement gagné des prix en argent de 400 $ ou 500 $ une année, plus 150 $, pour un total de 550 $ ou 650 $, de même que plusieurs trophées. Cependant, il détenait les actifs suivants qui étaient liés à la course :
+a) Voiture de course – 35 546 $;
+b) Camionnette et remorque – 40 000 $.
+En outre, l’appelant a affirmé qu’il possédait des outils d’une valeur de 27 140 $. Autrement dit, la JVM des actifs que l’appelant a utilisés dépassait 100 000 $ tandis que les revenus pour 2006 et 2007 ont été de 550 $ à 650 $ pour les deux années.
+[41] Il convient également de noter que l’appelant a supporté les coûts d’exploitation suivants à l’égard de la voiture de course et de la camionnette et de la remorque :
+a) 2006 – 2 750 $ à 2 950 $;
+b) 2007 – 2 750 $ à 2 950 $.
+(Voir le paragraphe [26] ci‑dessus.)
+[42] Dans sa plaidoirie, l’avocat de l’intimée a cité l’arrêt Hickman Motors Ltd. c Canada, [1997] 2 R.C.S. 336, 51 D.T.C. 5363, de la Cour suprême du Canada au soutien de la décision du ministre de ne pas autoriser de DPA à l’égard de la voiture de course ni de la camionnette et de la remorque. Je souscris à la position du ministre sur ce point.
+D. CONCLUSION
+[43] Après avoir examiné soigneusement les éléments de preuve et avoir examiné les décisions judiciaires pertinentes, je conclus que le ministre a eu raison de conclure que le « passe‑temps » de l’appelant qui consistait à faire de la course d’accélération ne constituait pas une entreprise commerciale.
+[44] Les appels sont rejetés sans frais.
+Signé à Vancouver (Colombie‑Britannique), ce 23e jour de mars 2011.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 18e jour de mai 2011.
+Marie‑Christine Gervais
+RÉFÉRENCE : 2011 CCI 180
+No DU DOSSIER DE LA COUR : 2010‑2215(IT)I
+INTITULÉ : CHRIS SKALING c. LA REINE
+LIEU DE L’AUDIENCE : Victoria (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 3 février 2011
+MOTIFS DU JUGEMENT : L’honorable juge L.M. Little
+DATE DU JUGEMENT : Le 23 mars 2011
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Jim Mitchell
+Avocat de l’intimée :
+Me Rob Whittaker
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,165 @@
+---
+title: "Larivière c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/126662/index.do"
+last_modified: "2015-11-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 287"
+citation2: ""
+neutral_citation: "2015 CCI 287"
+decision_date: "2015-11-19"
+language: "fr"
+item_id: "126662"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2686
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:17:44.542000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "16f4e2448f5728a4e0a22e168fe49ba5aeb3681b03709062ccb25de5d1a57827"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Larivière c. La Reine
+
+- Citation: 2015 CCI 287
+- Decision date: 2015-11-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2686, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larivière c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-11-19
+Référence neutre
+2015 CCI 287
+Numéro de dossier
+2015-987(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-987(IT)I
+ENTRE :
+SYLVAIN LARIVIÈRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 20 août 2015 à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l’appelant lui-même
+Avocates de l'intimée :
+Marissa Figlarz (stagiaire en droit)
+Me Antonia Paraherakis
+JUGEMENT
+L’appel à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu en date du 18 et 22 juillet 2013 concernant les années d’imposition 2010, 2011 et 2012 de l’appelant est rejeté selon les motifs de jugement ci-joints.
+Signé à Montréal, Canada, ce 19e jour de novembre 2015.
+« Réal Favreau »
+Juge Favreau
+Référence : 2015 CCI 287
+Date : 20151119
+Dossier : 2015-987(TI)I
+ENTRE :
+SYLVAIN LARIVIÈRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel, régi par la voie de la procédure informelle, à l’encontre de cotisations établies en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e suppl.), telle que modifiée (la « Loi ») par le ministre du Revenu national (le « ministre ») datées du 18 et 22 juillet 2013 concernant les années d’imposition 2010, 2011 et 2012 de l’appelant.
+[2] En vertu de la cotisation du 18 juillet 2013, le ministre a refusé à l’appelant la déduction de la somme de 14 522 $ réclamée à titre de pension alimentaire et le crédit d’impôt pour enfants de 2 191 $ pour l’année d’imposition 2012.
+[3] En vertu de la cotisation du 22 juillet 2013, le ministre a refusé à l’appelant la déduction des sommes de 13 172 $ et 13 830 $ réclamées à titre de pension alimentaire pour les années d’imposition 2010 et 2011 respectivement et a imposé à l’appelant des pénalités pour production tardive en vertu des paragraphes 162(1) et 162(2) de la Loi.
+[4] En fixant l’impôt payable le ministre s’est fondé sur les faits suivants :
+a) l’appelant et madame Marie-Claude Tessier ont vécu en union de fait pendant 14 ans;
+b) de leur union sont nés deux enfants en 1995 et en 1997;
+c) l’appelant et Madame Tessier vivent séparés depuis février 2007;
+d) en date du 4 juillet 2007, un jugement a été rendu par la Cour Supérieure du Québec ordonnant à l’appelant de verser à Madame pour ses deux enfants une somme de 16 945 $ par année à titre de pension alimentaire de base pour les enfants, plus une somme de 4 820 $ représentant 90% des frais de garderie et camps de jour;
+e) par ce jugement, l’appelant doit également verser à Madame Tessier pour maintenir le niveau de vie des enfants une somme de 1 000 $ par mois pour les frais de logement, représentant 800 $ pour l’hypothèque et 200$ pour le paiement des taxes équivalant à une somme de 13 172 $, de 13 830 $ et de 14 522 $ pour les années d’imposition 2010, 2011 et 2012 respectivement.
+Pénalité pour production tardive répétée
+f) pour l’année d’imposition 2008, l’appelant a payé une pénalité pour production tardive;
+g) pour l’année d’imposition 2010, l’appelant devait produire sa déclaration de revenus au plus tard le 30 avril 2011 et il l’a produite le 22 février 2013.
+Pénalité pour production tardive
+h) pour l’année d’imposition 2011, l’appelant devait produire sa déclaration de revenus au plus tard le 30 avril 2012 et il l’a produite le 22 février 2013;
+[5] Le ministre a refusé la déduction des paiements respectifs de 13 172 $, de 13 830 $ et de 14 522 $ que l’appelant a versés à son ex-conjointe au cours des années d’imposition 2010, 2011 et 2012 parce que ces montants ne constituaient pas des montants de pension alimentaire déductibles au sens du paragraphe 56.1(4) de la Loi.
+[6] L’appelant ne conteste pas l’imposition des pénalités pour production tardive. Par contre, l’appelant soutien que la bénéficiaire des paiements dont la déduction est contestée pouvait les utiliser à sa discrétion. Les paiements étaient effectués par des transferts bancaires au compte de banque indiqué par la bénéficiaire et aucun mécanisme de contrôle n’a été mis en place pour assurer que l’argent soit spécifiquement dépensé selon les stipulations du jugement. Tel que spécifié au paragraphe 30 du jugement, les paiements ont été effectués dans le but de maintenir le niveau de vie des enfants en payant les frais de logement.
+[7] L’appelant a expliqué qu’il a réclamé, pour l’année d’imposition 2012, le crédit d’impôt pour enfants parce que sa fille a emménagé chez lui en janvier 2012 et ce, pour toute l’année. Pour l’année scolaire 2011-2012, la fille de l’appelant a été inscrite au Collège Sainte-Anne de Lachine alors que pour l’année scolaire 2010-2011 elle était inscrite à la Polyvalente Deux-Montagnes. L’appelant a continué de verser la pleine pension à l’égard de sa fille malgré le fait qu’elle vivait maintenant avec son père. La fille de l’appelant avait le choix de retourner vivre chez sa mère à tout moment.
+Analyse [8] Les montants qui font l’objet du présent litige ont été versés par l’appelant à son ex-conjointe en vertu d’un jugement de la Cour supérieure du Québec daté du 4 juillet 2007 et ce jugement a homologué l’entente intervenue entre les parties datée du 22 mai 2007. Comme le jugement a été établi après avril 1997, la date du jugement est considérée être la date d’exécution du jugement selon la définition de l’expression « date d’exécution » que l’on retrouve au paragraphe 56.1(4) de la Loi :
+56.1(4) Définitions – Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+« date d’exécution » Quant à un accord ou une ordonnance
+a) si l’accord ou l’ordonnance est établi après avril 1997, la date de son établissement;
+[…]
+[9] La date d’exécution du jugement est importante pour déterminer le régime fiscal applicable aux pensions alimentaires pour enfants. Une pension alimentaire pour enfants payable aux termes d’une ordonnance dont la date d’exécution est postérieure à avril 1997 est généralement non imposable pour la bénéficiaire et non déductible pour le payeur tandis que les autres paiements de pension alimentaire versés pour subvenir aux besoins du bénéficiaire sont, en général imposables pour le bénéficiaire et déductibles pour la personne tenue d’en effectuer le paiement.
+[10] L’expression « pension alimentaire pour enfants » est définie au paragraphe 56.1(4) en ces termes :
+« pension alimentaire pour enfants » Pension alimentaire qui, d’après l’accord ou l’ordonnance aux termes duquel elle est à recevoir, n’est pas destinée uniquement à subvenir aux besoins d’un bénéficiaire qui est soit l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur, soit le parent, père ou mère, d’un enfant dont le payeur est légalement l’autre parent.
+[11] L’expression « pension alimentaire » est également définie au paragraphe 56.1(4) de la Loi et ce de la façon suivante :
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[12] Les paiements effectués par l’appelant à son ex-conjointe en vertu du paragraphe 30 du jugement de la Cour supérieure du Québec rendu en date du 4 juillet 2007 se qualifient à titre de « pension alimentaire » parce qu’ils ont été versés pour subvenir aux besoins de la bénéficiaire et de ses enfants et que la bénéficiaire pouvait utiliser les montants à sa discrétion. L’Agence du revenu du Canada a d’abord conclu, lors de la confirmation des cotisations, que la bénéficiaire ne pouvait pas utiliser ces montants à sa discrétion, ces montants étant versés pour payer les frais de logement, représentant 800 $ pour l’hypothèque et 200 $ pour le paiement des taxes. Lors de l’audition de la cause, cette ligne de pensée a été abandonnée par l’intimée suite à la demande de retrait du paragraphe 11 de la Réponse modifiée à l’avis d’appel.
+[13] Par contre, les paiements en question se qualifient également à titre de « pension alimentaire pour enfants » parce qu’ils ne sont pas destinés uniquement à subvenir aux besoins de l’ex-conjointe de l’appelant; ces paiements étant également destinés à maintenir le niveau de vie des enfants dont l’ex-conjointe avait la garde.
+[14] À mon avis, le jugement en vertu duquel les paiements ont été effectués ne comporte aucune ambiguïté et il n’y a pas eu de répartition de la pension alimentaire entre l’ex-conjointe et les enfants. Par conséquent, la totalité des montants versés est une pension alimentaire pour enfants au sens de la Loi.
+[15] Pour l’année d’imposition 2012, le ministre a refusé le crédit d’impôt pour enfants que l’appelant a réclamé pour un de ses enfants au motif que l’appelant était tenu de verser à son ex-conjointe une pension alimentaire au sens du paragraphe 56.1(4) de la Loi.
+[16] L’alinéa 118(1)b) de la Loi prévoit un crédit d’impôt personnel pour le contribuable qui subvient aux besoins d’une personne à charge et l’alinéa 118(1)b.1) de la Loi prévoit un crédit d’impôt personnel pour le contribuable qui subvient aux besoins d’un enfant. Toutefois, le paragraphe 118(5) de la Loi précise qu’aucun montant n’est déductible en application du paragraphe 118(1) si le contribuable est tenu de payer une pension alimentaire, au sens du paragraphe 56.1(4) de la Loi, à son ex-conjoint pour la personne en question.
+[17] Le paragraphe 118(5) de la Loi se lit comme suit :
+(5) Pension alimentaire - Aucun montant n’est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition si le particulier, d’une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son conjoint ou ancien conjoint pour la personne et, d’autre part, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait tout au long de l’année pour cause d’échec de leur mariage ou union de fait;
+b) demande une déduction pour l’année par l’effet de l’article 60 au titre de la pension alimentaire versée à son conjoint ou ancien conjoint.
+[18] La définition de « pension alimentaire » est reproduite au paragraphe 11 ci-dessus.
+[19] Un parent tenu au paiement d’une pension alimentaire pour enfants, comme dans le cas présent, n’a pas droit au crédit d’impôt personnel du paragraphe 118(1) de la Loi et ce, même si la pension ne peut être déduite dans le calcul du revenu du payeur et même si l’enfant réside au cours de l’année d’imposition donnée avec le payeur et que l’obligation de verser la pension alimentaire aurait pu être annulée.
+[20] Le paragraphe 118(5) de la Loi est très clair sur la question et l’exception du paragraphe 118(5.1) de la Loi n’est pas applicable en l’espèce.
+[21] Pour ces motifs, l’appel est rejeté.
+Signé à Montréal, Canada, ce 19e jour de novembre 2015.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2015 CCI 287
+Nº DU DOSSIER DE LA COUR :
+2013-1829(IT)I
+INTITULÉ DE LA CAUSE :
+Sylvain Larivière et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 20 août 2015
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 19 novembre 2015
+COMPARUTIONS :
+Pour l'appelant :
+L’appelant lui-même
+Avocates de l'intimée :
+Marissa Figlarz (stagiaire en droit)
+Me Antonia Paraherakis
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

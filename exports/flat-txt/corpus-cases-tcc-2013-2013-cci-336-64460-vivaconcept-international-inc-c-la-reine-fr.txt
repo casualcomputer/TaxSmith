@@ -1,0 +1,284 @@
+Title: Vivaconcept International Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64460/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-336-64460-vivaconcept-international-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-10-24
+
+# Vivaconcept International Inc. c. La Reine
+
+- Citation: 2013 CCI 336
+- Decision date: 2013-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5926, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vivaconcept International Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-10-24
+Référence neutre
+2013 CCI 336
+Numéro de dossier
+2010-1499(GST)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2010-1499(GST)G
+2010-2507(GST)G
+ENTRE :
+VIVACONCEPT INTERNATIONAL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 27 juin 2013, à Montréal (Québec).
+Devant : L’honorable juge Alain Tardif
+Comparutions :
+Avocats de l’appelante :
+Me Paul Prokos
+Me Geneviève Léveillé
+Avocat de l’intimée :
+Me Benoît Denis
+____________________________________________________________________
+JUGEMENT
+Selon les motifs du jugement ci-joints, les appels des cotisations établies en vertu de la Loi sur la taxe d’accise pour les périodes du 1er août 2006 au 31 janvier 2007 et du 1er novembre 2008 au 31 janvier 2009, dont les avis sont datés du 3 mars 2009 et du 5 août 2009 respectivement, sont accueillis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement.
+Le tout avec dépens en faveur de l’appelante.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2013.
+« Alain Tardif »
+Juge Tardif
+Référence : 2013 CCI 336
+Date : 20131024
+Dossiers : 2010-1499(GST)G
+2010-2507(GST)G
+ENTRE :
+VIVACONCEPT INTERNATIONAL INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Les parties ont convenu de soumettre la même preuve au soutien des deux dossiers. Dans un deuxième temps, les parties se sont entendues sur le principal des faits pertinents aux deux dossiers.
+[2] L’entente porte sur les faits suivants :
+2010-1499(GST)G / 2010-2507(GST)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE
+VIVACONCEPT INTERNATIONAL INC.
+APPELANTE
+- ET -
+SA MAJESTÉ LA REINE
+INTIMÉE
+ENTENTE SUR LES FAITS
+Pour les fins des présents appels, les parties reconnaissent que1 :
+1. L’appelante est une société constituée en vertu de la Loi canadienne sur les sociétés par actions, L.R.C. 1985, c. C-44.
+2. L’exercice financier de l’appelante se termine au 31 janvier de chaque année.
+3. L’appelante est un inscrit aux fins de la partie IX de la Loi sur la taxe d’accise (la « Loi »).
+4. L’appelante produit ses déclarations de taxe nette aux fins de la Loi sur une base trimestrielle, soit ceux se terminant le 30 avril, 31 juillet, 31 octobre et 31 janvier.
+5. L’appelante exploite une entreprise dont l’activité principale consiste en la gestion d’événements.
+6. Durant l’année 2005, International Flora Montréal (« Flora ») a conclu une entente avec l’appelante afin que cette dernière gère la mise en place d’une exposition estivale d’horticulture et de jardinage présentée annuellement au Parc des écluses situé dans le Vieux-Port de Montréal à compter de l’été 2006. L’entente a été entérinée dans un contrat de gestion signé en 2006 (le « Contrat de gestion »2).
+7. Le Contrat de gestion prévoyait que des honoraires de gestion au montant de 113 500 $ étaient payables sur une base mensuelle à l’appelante en contrepartie des services rendus par cette dernière.
+8. Flora et l’appelante n’ont aucun lien de dépendance.
+9. La première exposition a eu lieu du 15 juin au 8 octobre 2006 (« Exposition 2006 »).
+10. Pour la réalisation de l’Exposition 2006, Flora a eu recours aux services de plusieurs entreprises, artistes et créateurs oeuvrant, entre autres, dans le domaine de l’aménagement paysager, architecture, design, horticulture et jardinage ainsi qu’à divers fournisseurs dans le domaine de la publicité et du marketing (les « Fournisseurs »).
+11. L’appelante a facturé à Flora des honoraires de gestion pour un montant total de 1 769 693,92 $, incluant la TPS et la TVQ, entre novembre 2005 et octobre 2006. La TPS et TVQ applicables à ces honoraires s’élevaient, respectivement, à 103 440,44 $ et 123 467,04 $.
+12. Les factures émises par l’appelante relativement aux honoraires de gestion pour la période de novembre 2005 à octobre 2006 n’ont jamais été acquittées par Flora.
+13. Pendant l’Exposition 2006, Flora a appris qu’elle n’obtiendrait pas les subventions gouvernementales promises pour la tenue de l’Exposition 2006.
+14. Faute d’obtenir les subventions gouvernementales promises, Flora a connu d’importantes difficultés financières, tel que le démontrent le bilan et l’état des résultats de Flora pour son exercice financier terminé le 31 octobre 20063.
+15. Flora était incapable d’honorer ses obligations envers ses Fournisseurs et l’appelante.
+16. Flora a été jugée insolvable par ses administrateurs en novembre 2006.
+17. Une entente entre Flora et un comité représentant ses Fournisseurs a finalement été conclue à l’automne 2006 (« l’Entente »). Par lettre datée du 13 février 2007, Flora a soumis une offre à ses Fournisseurs conformément à l’Entente4.
+18. L’appelante était dans l’obligation de se soumettre aux termes de l’Entente afin d’éviter la faillite de Flora et de permettre la tenue d’une exposition en 2007.
+19. La TPS relative à la Créance est un montant de 103 440,44 $.
+20. L’appelante n’a jamais pu percevoir la Créance ni la TPS applicable à la Créance.
+21. La TPS applicable à la Créance a été incluse dans le calcul de la taxe nette déclarée au Ministre. Plus précisément, l’appelante a inclus dans le calcul de sa taxe nette déclarée au Ministre un montant de 83 373,20 $ et le Ministre, par le biais de la cotisation datée du 25 mars 20095, a ajouté la différence à quelques centaines de dollars près, soit un montant de 20 430 $, dans le calcul de la taxe nette de l’appelante.
+22. Dans sa déclaration de taxe nette amendée produite en avril 2008 pour la période terminée le 31 janvier 2007, l’appelante a déduit dans le calcul de sa taxe nette un montant de 85 525,84 $, incluant un montant de 83 373,30 $ à titre de déduction pour créance irrécouvrable6.
+23. La déduction pour créance irrécouvrable réclamée par l’appelante a été refusée par le Ministre au motif qu’il s’agissait d’une réduction volontaire de la contrepartie payable au sens de l’article 232 de la Loi.
+24. Cette décision finale a été communiquée à l’appelante vers la fin 2008 aux termes de diverses discussions avec, entre autres, Alain Muguet, vérificateur pour l’Agence du revenu du Québec.
+25. Le Ministre a émis un avis de cotisation daté du 3 mars 20097 qui confirme le refus de la déduction pour créance irrécouvrable réclamée par l’appelante pour la période terminée le 31 janvier 2007.
+26. Le 14 janvier 2009, une entente de radiation de dette a été signée par l’appelante et Flora8.
+27. En date du 14 janvier 2009, l’appelante a remis une note de crédit à Flora relativement à la Créance annulée en sa faveur9.
+28. Dans sa déclaration de taxe nette pour la période terminée le 31 janvier 2009 signée le 20 avril 2009, l’appelante a réclamé un redressement au montant de 103 440,44 $10.
+29. Le 5 août 2009, le Ministre a considéré que l’appelante n’avait pas droit au montant de redressement demandé, qui représente la TPS exigée mais non perçue, au motif qu’une note de crédit n’avait pas été remise à Flora dans un délai raisonnable.
+30. Le 5 août 2009, le Ministre a établi une cotisation à l’égard de l’appelante établissant le montant de la taxe nette à un montant de 0 $ et lui réclamant le montant suivant11 :
+Rajustements apportés au calcul de la taxe nette déclarée
+103 440,44 $
+Intérêts sur arriéré
+1 613,54 $
+Total [montant dû]
+105 053,98 $
+31. Le remboursement de 103 440,44 $ demandé par l’appelante dans sa déclaration de taxe pour la période terminée le 31 janvier 2009 n’a jamais été effectué par le Ministre.
+32. L’appelante n’est pas redevable au Ministre d’aucune somme pour la période terminée le 31 janvier 2009.
+33. Le Ministre exige de l’appelante le versement d’un montant total de TPS facturée par l’appelante mais jamais payée par Flora plus le paiement d’un montant de 105 053,98 $ pour lequel l’appelante n’est pas redevable.
+Montréal ce 27 juin 2013.
+[signature]
+[signature]
+HEENAN BLAIKIE S.E.N.C.R.L., SRL
+Me Geneviève Léveillé
+Me Paul Prokos
+Procureurs de l’appelante
+LARIVIÈRE MEUNIER
+Me Benoît Denis
+Procureurs de l’intimée
+1 Veuillez prendre note que tous les documents énumérés dans le présent document se retrouvent
+dans le cahier conjoint de documents.
+2 Onglet 1 – « Contrat de gestion et de services entre Vivaconcept International Inc. et International
+Flora Montréal ».
+3 Onglet 2 – « Bilan » et « États des résultats » de Flora.
+4 Onglet 3 – « Lettre aux créanciers de Flora 2006 » transmise par Flora en date du 13 février 2007.
+5 Onglet 4 – Avis de (nouvelle) cotisation daté du 25 mars 2009.
+6 Onglet 5 – Déclaration de taxe nette amendée pour la période se terminant le 31 janvier 2007.
+7 Onglet 6 – Avis de (nouvelle) cotisation daté du 3 mars 2009.
+8 Onglet 7 – Entente de radiation de dette, Affidavit.
+9 Onglet 8 – Note de crédit.
+10 Onglet 9 – Déclaration de taxe nette pour la période se terminant le 31 janvier 2009.
+11 Onglet 10 – Avis de (nouvelle) cotisation daté du 5 août 2009.
+[3] La Cour a demandé aux parties de soumettre une version commune des questions en litige. Les parties ont donc convenu de libeller les questions en litige comme suit :
+2010-1499(GST)G
+L’appelante a-t-elle droit à une déduction au montant de 103 440,44 $ pour créance irrécouvrable dans le calcul de sa taxe nette pour la période trimestrielle se terminant le 31 janvier 2007 selon les termes de l’article 231 LTA?
+2010-2507(GST)G
+L’appelante a-t-elle droit à un redressement au montant de 103 440,44 $ dans le calcul de sa taxe nette pour la période trimestrielle se terminant le 31 janvier 2009 selon les paragraphes 232(2) et 232(3) LTA?
+– Plus spécifiquement l’appelante a-t-elle remis à Flora (l’acquéreuse) une note de crédit dans un délai raisonnable?
+LE TOUT AVEC FRAIS POUR UN SEUL DOSSIER.
+Les parties conviennent que l’appelante ne peut avoir droit qu’à un des redressements/déductions demandés dans la mesure où elle a droit à l’un ou l’autre.
+[signature]
+[signature]
+Pour l’appelante
+Pour l’intimée
+[4] L’audition des témoins a permis d’établir d’une manière prépondérante que l’appelante avait fait plusieurs démarches auprès des représentants de l’intimée pour régler les dossiers, c'est-à-dire, ne pas avoir à payer les montants de TPS non perçus. À la suite de ces démarches, l’appelante a cru avoir fait tout ce qui était requis pour régulariser ses dossiers auprès de l’intimée.
+[5] À partir des faits ci-avant énumérés, et ayant fait l’objet d’une entente, l’appelante a-t-elle droit à un redressement, soit en vertu de l’article 231 de la Loi sur la taxe d’accise « LTA », soit en vertu des paragraphes 232(2) et 232(3) de la LTA.
+[6] Tout d’abord, l’article 231 de la LTA prévoit différents critères, dont celui de savoir si la créance est irrécouvrable.
+[7] Dans un second temps, il sera question de l’article 232 de la LTA et ses critères d’application, dont celui du délai raisonnable. L’analyse permettra de déterminer si l’appelante a respecté la procédure prévue par la Loi.
+L’article 231 de la LTA
+[8] L’article 231 de la Loi comporte plusieurs critères d’application; seuls ceux qui sont visés par le litige sont pertinents.
+[9] Dans un premier temps, pour obtenir la déduction au paragraphe 231(1), il faut être en présence d’un fournisseur ayant effectué une fourniture taxable pour une contrepartie au profit d’un acquéreur avec lequel il n’a aucun lien de dépendance. Ces critères ne posent pas de problème en l’espèce.
+[10] Les conditions ou éléments de la Loi relatifs au litige sont les suivantes :
+1) Tout ou partie de la contrepartie et de la taxe payable relativement à la fourniture est devenue une créance irrécouvrable;
+2) Le fournisseur radie cette créance de ses livres comptables;
+3) La taxe percevable est incluse dans le calcul de la taxe nette indiquée dans la déclaration que le fournisseur a produit pour la période au cours de laquelle la taxe est devenue percevable;
+4) La totalité de la taxe nette à verser selon cette déclaration est versée.
+[11] Enfin, la déduction doit être demandée dans les quatre ans de la date limite pour produire la déclaration de la période au cours de laquelle il y a eu radiation, ce qui n’est pas en litige dans le dossier.
+La créance irrécouvrable
+[12] Pour ce qui est de la créance irrécouvrable, la question à déterminer est de savoir si la créance était vraiment irrécouvrable.
+[13] La décision Rich c. R[1] m’apparaît être la décision détaillant le mieux les facteurs à prendre en considération pour décider du caractère irrécouvrable d’une créance. Dans cette affaire, il s’agissait de savoir si l’appelant avait droit à une perte déductible au titre d’un placement d’entreprise. Pour trancher la question, le juge Rothstein énumère les facteurs qui, en général, devraient être pris en compte. Il précise que c’est le créancier qui doit décider des facteurs à retenir, la Cour devant se demander si ce dernier a honnêtement et correctement statué que la créance était irrécouvrable à partir des facteurs suivants notamment :
+1) L’historique et l’âge de la créance;
+2) La situation financière du débiteur;
+3) L’évolution du chiffre d’affaire total par rapport aux années antérieures;
+4) L’encaisse, les comptes clients et les autres disponibilités du débiteur à l’époque pertinente et par rapport aux années antérieures;
+5) Les comptes fournisseurs et autres exigibilités du débiteur à l’époque pertinente et par rapport aux années antérieures;
+6) Les conditions économiques générales ayant cours dans le pays, parmi l’ensemble des débiteurs et dans la branche d’activités du débiteur;
+7) L’expérience antérieure du contribuable en matière de radiation de créances irrécouvrables.[2]
+[14] Les perspectives de la société débitrice peuvent aussi être prises en compte, sauf s’il ne s’agit que de conjectures ou d’hypothèses. Un évènement futur pourrait donc être considéré s’il est probable qu’il se produise et qu’il permettre le recouvrement de la créance[3].
+[15] Il m’apparaît important de souligner qu’il n’est pas nécessaire pour le créancier d’épuiser tous les moyens possibles de recouvrement. Une évaluation honnête et raisonnable suffit[4]. Il ne sera essentiel de prendre des mesures proactives que s’il y a lieu de croire que le remboursement est envisageable et possible[5].
+[16] Dans Paquin c. R.[6], le juge Garon précise que le créancier ne peut se contenter de la croyance que son débiteur n’a pas de biens. Dans cette affaire, le créancier ne fit aucune démarche afin d’obtenir le recouvrement car il croyait cela inutile en raison de la faillite du principal associé de la société débitrice. Il n’a rien tenté à l’encontre de cet associé, ni à l’encontre d’un autre associé de la société. Il s’agissait là, d’une décision prise à partir d’une analyse incomplète de la situation.
+[17] La preuve n’a donc pas démontré que le créancier avait pris des mesures raisonnables en vue du recouvrement. Sa simple affirmation que la créance était irrécouvrable sur la base de la faillite de l’associé principal ne suffit pas[7]. Pour reprendre le raisonnement de Rich, on pourrait résumer en disant que la croyance du créancier qu’il ne serait pas payé n’était pas raisonnable. Il se devait donc de prendre des mesures appropriées. Il doit s’agir d’un exercice objectif qui prend en compte tous les éléments pertinents.
+[18] Le juge Garon cite également la décision Ciriello c. Canada[8], dans laquelle la Cour explique que le fardeau de preuve quant à la nature de la créance incombe au créancier d’où ce dernier a l’obligation de démontrer qu’il ne s’agit pas essentiellement d’une décision intuitive mais raisonnable et validée par différents éléments qui varient d’un dossier à l’autre[9].
+[19] Bref, on peut conclure de ces différentes décisions que le créancier n’aura pas à prendre de mesures proactives s’il croit sincèrement et raisonnablement que le remboursement est impossible. Cette croyance honnête et raisonnable devra se fonder notamment sur les facteurs précédemment énumérés.
+[20] Conséquemment, une entente privée n’est pas suffisante en soi pour conclure qu’une créance est irrécouvrable. Il est essentiel pour conclure qu’une créance est irrécouvrable que le test soit fait à partir des divers facteurs pertinents.
+[21] En l’espèce, la preuve relative à ces facteurs permet-elle de conclure que la créance de Vivaconcept était bel et bien irrécouvrable?
+[22] La date et création de la créance se situe entre novembre 2005 et octobre 2006, à partir de la facturation de Flora à Vivaconcept. À l’automne 2006, moment où survient l’entente avec les fournisseurs, la créance remonte à près d’une année.
+[23] Pendant cette année, aucun paiement ne fut fait :
+12. Les factures émises par l’appelante relativement aux honoraires de gestion pour la période de novembre 2005 à octobre 2006 n’ont jamais été acquittées par Flora.
+Il ne fait aucun doute en l’espèce que Flora était dans une situation précaire. Elle avait été déclarée insolvable par ses administrateurs et avait conclu l’entente avec les fournisseurs dans le but d’éviter la faillite et de pouvoir faire une nouvelle exposition l’année suivante :
+16. Flora a été jugée insolvable par ses administrateurs en novembre 2006.
+17. Une entente entre Flora et un comité représentant ses Fournisseurs a finalement été conclue à l’automne 2006 (« l’Entente »). Par lettre datée du 13 février 2007, Flora a soumis une offre à ses Fournisseurs conformément à l’Entente4.
+18. L’appelante était dans l’obligation de se soumettre aux termes de l’Entente afin d’éviter la faillite de Flora et de permettre la tenue d’une exposition en 2007.
+[24] Les faits étaient alors simples et clairs à l’effet que la débitrice était totalement insolvable; ne pas accepter cette réalité se serait avéré pure mesquinerie gratuite et inutile.
+[25] La décision de prendre pour acquis qu’il s’agissait dorénavant d’une créance irrécupérable était une décision sage, raisonnable et rationnelle. D’ailleurs l’état des résultats fait état d’une perte nette de ‑4 254 985,21 $ pour la période allant du 1er novembre 2005 au 31 octobre 2006.
+[26] Bien que les pièces aux dossiers ne permettent pas d’analyser chaque facteur de façon distincte et approfondie, le dossier m’apparaît particulier en ce que les faits ne sont pas contestés. Cette absence de contestation valide l’évidence de la situation qui prévalait à savoir qu’il était manifeste et incontestable que la créance était devenue irrécupérable. D’ailleurs, les seuls faits relatifs à la non-obtention de la subvention faisaient en sorte que tout le projet était voué à l’échec total eu égard à la façon dont il avait été planifié et conçu.
+[27] Je rappelle que, la vocation de Flora consistait à la mise sur pieds d’une activité saisonnière estivale dont les revenus provenaient principalement des coûts d’admissions; or, même ce volet s’est avéré tout à fait différent des attentes.
+[28] L’automne étant arrivé, il n’y avait aucun espoir à cet égard. Bien plus, toute procédure judiciaire initiée pour le recouvrement aurait eu pour effets d’entrainer la faillite certaine de l’entreprise détruisant ainsi l’embryon et fermant la porte définitivement à toute possibilité de mettre sur pieds une deuxième tentative avec la collaboration réduite, mais possible d’un certain nombre de créanciers.
+[29] En conclusion à ce volet du dossier, je considère que l’appelante a été honnête, raisonnable et justifiée d’agréer à l’entente et de n’entreprendre aucune démarche supplémentaire pour le recouvrement de sa créance.
+[30] La créance était bel et bien devenue irrécouvrable au sens des dispositions de la Loi. Je suis convaincu qu’il s’agissait là d’une décision responsable, sage et tout à fait appropriée et sans reproche; toute dépense ou tout effort pour initier quelque mesure que ce soit se serait avéré une pure perte d’énergie et d’argent.
+La radiation de la créance
+[31] Le paragraphe 231(1) de la LTA précise que la créance doit être radiée des livres comptables du créancier.
+[32] Dans Ministic Air Ltd c. la Reine[10], le juge Bowie reprend la conclusion du juge Beaubier dans Burkman v. The Queen[11] à l’effet qu’une note écrite peut satisfaire au critère de radiation lorsqu’il n’existe aucun livre comptable. L’important est qu’il y ait une déclaration écrite enregistrant la décision de radier la dette[12].
+[33] Dans l’affaire Ministic Air, un mémorandum faisant état de la radiation avait été fait. Toutefois, selon le juge Bowie, ce document avait été créé non pas pour enregistrer une transaction, mais bien pour avoir de la preuve supportant la demande de redressement[13]. Le juge explique d’ailleurs que la demande de redressement doit être faite dans la période de la radiation ou une période postérieure. Or, Ministic Air avait fait sa demande avant que la note de radiation ne soit rédigée. Ainsi, même si la note avait été une preuve suffisante de la radiation, elle n’aurait pas pu supporter la demande faite antérieurement[14].
+[34] Dans Bajan c. la Reine[15], aucun livre comptable n’a été présenté en preuve et le comptable de la société n’a pas témoigné. D’ailleurs, des démarches visant le recouvrement de la créance avaient été faites après la prétendue radiation. La seule preuve présentée au sujet de la radiation était une lettre du comptable, peu détaillée et rédigée 15 ou 16 ans après les faits, ce qui a été jugé insuffisant[16].
+[35] Dans McCool c. la Reine[17], le juge Bonner tient les propos suivants :
+À mon avis, une créance irrécouvrable ne peut être considérée comme ayant été rayée des livres comptables d’une personne à moins qu’une note n’ait été faite dans ces livres selon laquelle la créance en question a été radiée. Une décision non consignée ne suffit pas. Une écriture de journal devrait être faite pour ramener à zéro chaque compte débiteur sans valeur. Sinon, il serait impossible d’appliquer 231[…].[18]
+[36] En l’espèce, la demande de redressement en vertu du paragraphe 231(1) fut faite en avril 2008, c’est-à-dire dans le mois suivant l’entente conclue avec les fournisseurs. Toutefois, l’entente de radiation écrite ne fut signée qu’en janvier 2009 afin de se conformer à l’exigence de l’alinéa 232(3)a) concernant la note de crédit. Cette entente de janvier 2009 ne saurait donc supporter la demande d’avril 2008, comme nous l’enseigne Ministic Air.
+[37] La mention d’une radiation se trouve dans le rapport financier daté du 31 janvier 2007. Bien qu’il semble qu’une partie seulement ait été radiée, je crois qu’il s’agit là d’une preuve suffisante de radiation, le contexte permettant d’affirmer que la créance radiée est bel et bien celle en litige.
+[38] Bien que la jurisprudence n’affirme pas explicitement que la radiation puisse être prouvée par témoignage, notre Cour a souligné dans Bajan que le fait que le comptable n’ait pas témoigné empêchait d’évaluer la crédibilité du contenu de sa lettre énonçant la radiation[19]. En d’autres termes, la lettre, insuffisante à elle seule, aurait toutefois pu être une preuve valide si elle avait été corroborée par témoignage. Rappelons toutefois que la lettre en question avait été rédigée de nombreuses années après les faits.
+[39] Ainsi, un écrit contemporain enregistrant la décision de radier la créance semble essentiel à l’application de l’article 231. La nature de l’écrit en question peut toutefois varier selon les circonstances. Bajan suggère même que l’écrit n’a pas à être contemporain, dans la mesure où il est crédible.
+[40] En l’espèce, l’ensemble des faits admis, les témoignages et les écrits déposés au soutien de la preuve permettent de conclure que la prépondérance milite pour la radiation.
+[41] Le paragraphe 231(1.1) impose deux conditions supplémentaires à la demande de redressement pour créance irrécouvrable. Premièrement, la taxe percevable relativement à la fourniture doit être incluse dans le calcul de la taxe nette indiquée dans la déclaration de la période au cours de laquelle la taxe est devenue percevable.
+[42] Dans Bajan, le juge Paris déplore qu’aucun dossier de l’appelant n’ait été produit en preuve, rendant impossible la détermination de la portion de TPS attribuable à la créance que l’on dit irrécouvrable[20].
+[43] Il faut donc regarder la déclaration de taxe pour la période concernée et s’assurer qu’une partie ou la totalité du montant déclaré relève de la fourniture taxable. Cette preuve pouvant être faite par des documents de la société.
+[44] Dans le cas qui nous préoccupe, il est admis par les parties qu’un montant de 83 373 $ fut déclaré relativement à la créance en cause, montant qui fit ensuite l’objet d’un rajustement par la ministre.
+[45] Le contrat intervenu entre Vivaconcept et Flora, l’entente de radiation, ainsi que la note de crédit font également preuve du montant de la créance, lequel permet de déterminer le montant de taxe relatif à la fourniture.
+[46] Bref, il ne fait aucun doute que c’est un montant de 103 440,44 $ qui correspond à la taxe sur la créance irrécouvrable.
+[47] La deuxième condition énoncée au paragraphe 231(1.1), exige que la totalité de la taxe nette à verser selon la déclaration de la période au cours de laquelle la taxe est devenue percevable soit versée. En d’autres mots, tel qu’indiqué dans les notes explicatives[21], « [le] déclarant sera aussi tenu de verser tout montant positif de taxe nette indiqué dans [la] déclaration ».
+[48] Dans Ministic Air, la demande de déduction pour créance irrécouvrable avait été faite en mars 2001. Or, à cette époque, la TPS sur les fournitures inscrites à la déclaration était toujours impayée. Elle ne fut payée qu’au mois d’août 2001 par l’utilisation d’actifs saisis par l’Agence du Revenu du Canada, ce qui ne satisfait pas à l’exigence[22].
+[49] Bref, le montant positif de taxe nette relatif à la période où la taxe sur les fournitures est devenue percevable doit être versé au Ministre avant que la demande de déduction soit faite. Vivaconcept a-t-elle payé la taxe nette applicable? La preuve à cet égard ressorti du témoignage de Monsieur Goulet.
+[50] Tout comme l’article 231 de la LTA, le paragraphe 232(2) prévoit plusieurs critères d’application. Afin d’obtenir le redressement convoité, il faut être en présence d’une personne qui exige ou perçoit une taxe calculée sur la contrepartie d’une fourniture, laquelle contrepartie doit, dans un second temps, être réduite en tout ou en partie. Le redressement peut être demandé dans la période pendant laquelle la contrepartie est réduite ou dans les 4 ans suivant la fin de celle-ci.
+[51] Le paragraphe 232(3) prévoit une autre condition :
+1) La personne qui demande le redressement remet à l’autre personne une note de crédit dans un délai raisonnable.
+[52] La demande de redressement peut être faite dans la période où la note de crédit est remise dans la mesure où le montant dont on demande la déduction a été inclus dans le calcul de la taxe nette de cette même période ou d’une période antérieure.
+[53] En l’espèce, il n’est pas contesté qu’une note de crédit fut remise. En effet, il est admis qu’une note de crédit valide fut émise le 14 janvier 2009. La problématique se situe essentiellement au niveau du délai; il s’est écoulé 23 mois entre l’entente ayant pour effet de réduire la contrepartie (en février 2007) et la remise de la note de crédit (en janvier 2009). Déterminer si un délai est raisonnable ou pas n’est pas un exercice essentiellement mathématique, une foule de considérations et d’éléments doivent s’apprécier en fonction du contexte et des circonstances.
+[54] C’est du moins ce que précisait le juge Muldoon dans Silden v. The Queen[23]. La question du délai raisonnable doit également s’apprécier en fonction de l’objectif évident du législateur qui a voulu qu’un acquéreur de fourniture puisse corriger ou rectifier la situation eu égard aux très nombreux aléas possible en matière d’opérations économiques et commerciales.
+[55] Il est vrai qu’un délai de 23 mois est relativement long. Toutefois, l’appelante croyait que l’article 231 était celui qui s’appliquait à sa situation, cet article ne nécessitant pas de note de crédit. Ce n’est qu’à la fin de l’année 2008 qu’elle apprit qu’elle devait plutôt recourir à l’article 232 et qu’elle devait donc remettre une note de crédit à Flora.
+24. Cette décision finale a été communiquée à l’appelante vers la fin 2008 aux termes de diverses discussions avec, entre autres, Alain Muguet, vérificateur pour l’Agence du revenu du Québec.
+[56] Cette note de crédit fut remise le 14 janvier 2009, soit relativement peu de temps après que l’appelante ait apprit qu’elle devait en faire une. La demande de redressement en vertu de l’article 232 fut ensuite faite le 20 avril 2009 dans sa déclaration de taxe nette pour la période se terminant le 31 janvier 2009 :
+28. Dans sa déclaration de taxe nette pour la période terminée le 31 janvier 2009 signée le 20 avril 2009, l’appelante a réclamé un redressement au montant de 103 440,44 $10.
+[57] L’appelante a fait preuve de diligence, particulièrement si l’on prend en considération les dispositions de l’article 231, le délai découlant de la demande en vertu l’article 231 doit être pris en compte. Le délai restant, soit celui écoulé entre l’avis de refus du ministre (fin 2008) et l’émission de la note de crédit (janvier 2009), me semble tout à fait raisonnable.
+[58] L’appelante a fait preuve de diligence; en effet, le recours, dans un premier temps, aux dispositions de l’article 231 était une étape incontournable puisque l’appelante aurait pu obtenir satisfaction dès ce moment; en effet, la radiation de la créance et le paiement de la taxe nette auraient très pu donner satisfaction à l’appelante à cette première étape.
+[59] Je ne crois pas exagérer en affirmant que certaines dispositions de la Loi sont particulièrement complexe pour la compréhension de ceux et celles qui y sont pourtant assujettie. À cet égard, les représentants de l’intimée ont une certaine responsabilité quant à la vulgarisation de manière à ce que les personnes assujetties puissent gérer leurs obligations fiscales adéquatement.
+[60] En l’espèce, il n’y a aucun doute que l’appelante a agi de bonne foi, d’une manière raisonnable eu égard aux circonstances. Dans un tel contexte, je suis d’avis qu’advenant un doute ou d’un certain inconfort quant à la prépondérance de la preuve, la décision doit favoriser le contribuable d’autant plus que les reproches qu’on lui impute, vise beaucoup plus la forme que le fond.
+[61] En l’espèce, je crois que la preuve est satisfaisante pour faire droit aux appels; ils sont donc accueillis, le tout avec dépens en faveur de l’appelante.
+Signé à Ottawa, Canada, ce 24e jour d’octobre 2013.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2013 CCI 336
+Nos DES DOSSIERS DE LA COUR : 2010-1499(GST)G
+2010-2507(GST)G
+INTITULÉ DE LA CAUSE : VIVACONCEPT INTERNATIONAL INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 27 juin 2013
+MOTIFS DU JUGEMENT PAR : L’honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 24 octobre 2013
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Paul Prokos
+Me Geneviève Léveillé
+Avocat de l'intimée :
+Me Benoît Denis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Noms : Me Paul Prokos
+Me Geneviève Léveillé
+Cabinet : Heenan Blaikie
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Rich c. R, 2003 CAF 38.
+[2] Ibid. au para. 13.
+[3] Ibid. au para. 14.
+[4] Ibid. au para. 15.
+[5] Ibid. au para. 23.
+[6] Paquin c. R. , 2004 CCI 597.
+[7] Ibid. au para. 20-26.
+[8] [2000] A.C.I. no 829 (QL).
+[9] Paquin, supra note 6 aux paras. 27 et 28.
+[10] 2008 CCI 296.
+[11] [1997] GSTC 98.
+[12] Ministic Air, supra note 11 au para. 14.
+[13] Ibid. aux paras. 14-15.
+[14] Ibid. au para. 16.
+[15] 2009 CCI 521.
+[16] Ibid. au para. 12.
+[17] McCool c. la Reine, 2005 CCI 357.
+[18] Ibid. au para. 6.
+[19] Bajan, supra note 16 au para. 12.
+[20] Ibid. au para. 14.
+[21] Canada, ministère des Finances, Notes explicatives concernant la Loi de l’impôt sur le revenu, la Loi sur le droit pour la sécurité des passagers du transport aérien et la Loi sur la taxe d’accise (20 décembre 2002), art. 231(1), (1.1).
+[22] Supra note 11 au para 17.
+[23] Silden v. The Queen, 90 DTC 6576.

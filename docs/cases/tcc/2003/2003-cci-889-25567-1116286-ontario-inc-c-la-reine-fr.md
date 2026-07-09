@@ -1,0 +1,124 @@
+---
+title: "1116286 Ontario Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25567/index.do"
+last_modified: "2003-12-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 889"
+citation2: ""
+neutral_citation: "2003 CCI 889"
+decision_date: "2003-12-23"
+language: "fr"
+item_id: "25567"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2466
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:22:20.021000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2541963385d85e2f5ac606c249ebecd41fb239028e63f991ce13dc72f05c0110"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1116286 Ontario Inc. c. La Reine
+
+- Citation: 2003 CCI 889
+- Decision date: 2003-12-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2466, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1116286 Ontario Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-23
+Référence neutre
+2003 CCI 889
+Numéro de dossier
+2003-1202(GST)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Référence : 2003CCI889
+Date : 20031223
+Dossier : 2003‑1202(GST)I
+ENTRE :
+1116186 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Représentant de l’appelante : Duncan G. Bell Avocat de l’intimée : Me Jocelyn Espejo Clarke
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Hamilton (Ontario) le 23 octobre 2003.)
+Le juge McArthur
+[1] Le présent appel concerne l’admissibilité de l’appelante à des crédits de taxe sur les intrants (CTI) pour la période du 1er juillet 1997 au 31 décembre 1999 en vertu de l’article 169 de la Loi sur la taxe d’accise. Le ministre du Revenu national a établi des cotisations de taxe sur les produits et services au montant de 58 216 $ et a admis des CTI au montant de 21 314 $. Il a également imposé des pénalités et des intérêts aux montants de 7 700 $ et de 6 205 $ respectivement. L’appelante exploitait une entreprise faisant affaire sous le nom de National Tickets ou de National Promotions, et son directeur, Steven Barber, ainsi que Duncan Bell, son comptable agréé, ont tous les deux témoigné.
+[2] L’appelante achetait et revendait des billets de spectacles et d’événements sportifs. La plupart de ses activités commerciales étaient liées à des événements sportifs qui avaient lieu aux États‑Unis et, par conséquent, les opérations étaient exonérées de la TPS. En règle générale, ces activités incluaient l’achat et la vente de billets de matches de football, tels que le Rose Bowl, l’Orange Bowl et le Super Bowl. Ces opérations ne font pas l’objet d’un litige. La question à trancher concerne l’achat et la vente de billets d’événements sportifs et de concerts qui ont eu lieu au Canada.
+[3] L’appelante concluait des contrats de louage de services en vue d’engager de la main-d’œuvre occasionnelle pour s’occuper de l’achat des billets. Selon la popularité de l’événement, l’appelante prenait les dispositions nécessaires pour assigner jusqu’à 60 personnes qui devaient faire la file dans des points de vente de billets, tels les points de vente de Ticketmaster, au Copps Coliseum, dans des boutiques et au Maple Leaf Gardens, en vue d’acheter des billets. L’appelante remettait à chaque acheteur des sommes en espèces pour qu’ils puissent acheter des billets. Elle revendait ensuite ces billets à des particuliers ou à des groupes. La plupart des opérations s’effectuaient en espèces.
+[4] L’appelante était représentée par Duncan G. Bell, son comptable agréé, qui a déclaré ce qui suit dans l’Avis d’appel :
+[traduction]
+[…] L’entreprise consiste à conclure des contrats de louage de services en vue d’engager une main‑d’œuvre occasionnelle importante afin de remplir des bons de commande de billets en se présentant à divers points de vente. La délivrance de chèques, l’utilisation de cartes de crédit et l’obtention de reçus pour les achats de billets dans ce milieu où les activités se déroulent à un rythme rapide et dans ces circonstances opérationnelles ne sont pas toujours réalisables; il s’agit pour la plupart du temps d’opérations de vente en gros. Comme nous le savons tous, il est impossible d’acheter des billets à des guichets ou à des billetteries, tel que le réseau Ticketmaster, sans payer la TPS.
+[…]
+Bien qu’il soit quelquefois difficile d’obtenir des documents justificatifs dans ce contexte opérationnel, il va de soi que nos clients ne peuvent s’approvisionner en billets auprès d’aucune source quelconque sans payer la TPS. C’est donc respectueusement que nous demandons à ce qu’une décision juste et raisonnable soit rendue concernant les crédits de taxe sur les intrants à l’égard de la TPS en tenant compte des ventes de l’entreprise.
+[5] Les CTI au montant de 21 314 $ qu’a admis le ministre résultaient d’achats de billets par chèque qu’a effectués l’appelante, essentiellement pour des matches de hockey des Toronto Maple Leafs et des Canadiens de Montréal. Selon l’intimée, l’appelante n’a pas adéquatement tenu de livres et de registres, comme l’exige la Loi, et elle a omis de produire des déclarations de TPS pour la période pertinente. De même, le ministre a refusé d’accorder à l’appelante des CTI autres que ceux qu’il avait admis au motif que l’appelante n’a pas obtenu ni tenu à jour des documents justificatifs sur lesquels le ministre aurait pu s’appuyer pour lui accorder ces crédits.
+[6] En fait, l’appelante demande à ce que je prenne connaissance d’office qu’elle a payé la TPS sur tous les billets qu’elle a achetés. M. Barber a déclaré que l’appelante n’avait pas produit de déclarations de TPS parce que ses CTI équivalaient à la TPS payable et parce que selon lui, la totalité des opérations était inférieure au seuil de 30 000 $.
+[7] La pièce A‑1, qui a été déposée en preuve, consiste en neuf lettres qu’ont signées des particuliers et dans lesquelles ils déclarent ceci :
+[traduction]
+Je […] reconnais que j’ai acheté des billets au nom de l’entreprise National Tickets à de nombreuses occasions. J’achetais ces billets à un point de vente de Ticketmaster. Les achats étaient toujours effectués en espèces.
+De même, la pièce R‑1 contient 16 lettres semblables qu’ont signées les divers agents occasionnels qui travaillaient pour le compte de l’appelante. La pièce A‑2 contient des états financiers qu’a préparés M. Bell pour l’année d’imposition 1999 après la vérification. Quant aux pièces R‑3 et R‑4, il s’agit de rapports qu’a produits le vérificateur de l’intimée, soit Brian Hassall, qui a également témoigné.
+[8] L’appelante a admis qu’il s’agissait d’une entreprise unique et a soutenu que l’intimée ne devrait pas être aussi stricte. En règle générale, elle achetait des billets en payant en espèces, elle payait la TPS, elle ne recevait aucun reçu hormis les billets, puis elle les revendait et percevait le prix des billets en espèces, ici encore, sans remettre de reçu. Des talons de chèque et des relevés bancaires ont été soumis au vérificateur de l’intimée. Les talons de chèque faits au porteur pour l’achat de billets indiquaient l’événement qui devait avoir lieu. De nombreux billets n’ont pas été vendus.
+[9] L’alinéa 169(4)a) de la Loi est ainsi formulé :
+169(4) L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+[…]
+Les « renseignements » en question sont décrits à l’article 3 du Règlement pris en application de la Loi et qui expose en détail en quoi consistent les renseignements visés. Ainsi :
+3 Les renseignements visés à l’alinéa 169(4)a) de la Loi, sont les suivants :
+a) […] fournitures est de moins de 30 $ :
+(i) le nom […] du fournisseur […]
+(ii) […]
+(iii) si aucune facture n’a été remise […] la date à laquelle il y a un montant de taxe payée […]
+(iv) le montant total payé […] pour la ou les fournitures;
+3b) lorsque le montant total payé […] est de 30 $ ou plus et de moins de 150 $ :
+[…]
+Les renseignements requis comprennent ceux énoncés plus en détail aux sous‑alinéas 3a)(iii) et (iv). De toute évidence, l’appelante n’a pas satisfait les exigences énoncées à ces sous‑alinéas.
+[10] Les conditions techniques que prévoit le Règlement sont très rigoureuses. L’article 286 de la Loi exige que toute personne, y compris une société, exploitant une entreprise tienne des livres et des registres « permettant d’établir ses obligations et responsabilités aux termes de la présente partie ou de déterminer le remboursement auquel elle a droit ».
+[11] Dans l’affaire en l’espèce, l’appelante n’avait produit aucune déclaration de TPS avant de faire l’objet d’une vérification. M. Barber exploite une entreprise d’achat et de vente de billets depuis 1981. Il possède un diplôme universitaire, il a enseigné dans une école pendant un an avant de démarrer sa propre entreprise et il ignorait tout simplement quelles étaient les obligations en matière de TPS. Dans une telle situation, il aurait été raisonnable qu’il tente d’obtenir des conseils professionnels ou qu’il consulte des agents responsables de la TPS concernant la situation de l’appelante plutôt que de faire fi de ces obligations.
+[12] Après que le ministre a procédé à la vérification, il a demandé à M. Bell de préparer des états financiers de la société qu’a admis l’Agence des douanes et du revenu du Canada. L’appelante a demandé à ce que les chèques annulés et les relevés bancaires soient admis en preuve pour justifier les montants payés. De toute évidence, ces documents sont insuffisants pour satisfaire les conditions techniques prévues au Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants et particulièrement à l’article 3. Les chèques ont été faits au porteur. L’appelante remettait à ses agents une somme en espèces pour l’achat de billets, leur versait des honoraires de 20 $ ou de 30 $ et peut‑être leur remboursait‑elle aussi les menues dépenses qu’ils engageaient. On me demande d’admettre aveuglément que le produit total des chèques moins une petite somme a servi à l’achat de billets et que dans le cadre de toutes les opérations d’achat de billets, des montants de TPS ont été payés. En vertu du paragraphe 169(4) de la Loi et de l’article 3 du Règlement, je ne dispose pas d’une telle latitude.
+[13] Les commentaires suivants qu’a formulés le juge en chef adjoint Bowman, dans l’affaire Helsi Construction Management Inc. c. La Reine, [2001] A.C.I. no 149, s’appliquent également à l’affaire en l’espèce :
+[13] Nous avons affaire à l’une des conditions techniques prévues par une loi qui est quelque peu unique par sa particularisation. En outre, il s’agit là du fondement d’un régime d’autocotisation visant le monde du commerce. Aussi malheureux que cela puisse paraître pour l’appelante, les règles sont les règles. Je ne peux rien faire pour l’aider sur ce point. Le problème, dans une certaine mesure, découle du fait de l’appelante. M. Familamiri s’est efforcé de corriger la situation créée initialement par l’état désordonné des dossiers et il y est parvenu dans une certaine mesure. Toutefois, il y a des limites à ce qu’une personne peut faire pour corriger des années de désordre.
+De même, dans la décision E.R. Design Ideas Inc. c. La Reine, [1999] A.C.I. no 198, la juge Lamarre Proulx, dans des circonstances semblables à celles en l’espèce, a déclaré ceci :
+[22] […] Un chèque annulé ou un relevé bancaire peut parfois être utilisé en tant que preuve lorsqu’une facture a été perdue, mais le vérificateur doit s’assurer que tel est bien le cas et que le montant qui y figure n’est pas calculé deux fois. À mon avis, la vérification a été effectuée soigneusement et, dans une certaine mesure, elle avantage l’appelante. Si l’appelante n’a pu fournir des éléments de preuve plus satisfaisants, je peux seulement supposer, compte tenu ce que j’ai entendu au cours de l’audience, que c’est parce qu’elle n’a pas été en mesure de le faire.
+Ces propos sont pertinents au présent appel.
+[14] Il ne fait aucun doute que l’appelante éprouve des difficultés à satisfaire les conditions que prévoit la Loi, mais il est certain que de ne rien faire n’est pas l’approche à adopter. Sans aucun doute, l’appelante avait droit à des CTI supplémentaires. Je ne peux toutefois pas exercer un pouvoir discrétionnaire pour déterminer quelle serait une attribution raisonnable. En vertu du paragraphe 169(5), le ministre est investi d’un certain pouvoir discrétionnaire. Il s’agit d’une situation où il aurait peut‑être dû exercer ce pouvoir en vue de « dispenser un inscrit ». Je ne suis pas investi d’un tel pouvoir et je ne peux modifier la décision du ministre.
+[15] En contre-interrogatoire, l’intimée a déposé en preuve un article négatif paru dans le Hamilton Spectator au sujet de M. Barber en 1998. Apparemment, il a été accusé en vertu de dispositions législatives provinciales d’avoir vendu des billets pour un concert rock au prix de 100 $ l’unité alors qu’ils coûtaient 37 $ l’unité. À mon avis, ces renseignements ne sont pas pertinents dans le contexte de la présente audience. Il est à espérer que cette accusation n’a pas eu pour effet d’altérer la décision du ministre d’établir une cotisation à l’égard de l’appelante.
+[16] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de décembre 2003.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 15e jour d’avril 2004.
+Nancy Bouchard, traductrice

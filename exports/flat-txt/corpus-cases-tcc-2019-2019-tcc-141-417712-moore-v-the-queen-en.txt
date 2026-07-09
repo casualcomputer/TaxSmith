@@ -1,0 +1,135 @@
+Title: Moore v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/417712/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-141-417712-moore-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-06-26
+
+# Moore v. The Queen
+
+- Citation: 2019 TCC 141
+- Decision date: 2019-06-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4378, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moore v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-06-26
+Neutral citation
+2019 TCC 141
+File numbers
+2018-2659(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-2659(IT)I
+BETWEEN:
+SCOTT MOORE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 4, 2019 and decision rendered from the Bench
+on June 5, 2019, at Montreal, Quebec
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amelia Fink
+JUDGMENT
+For the reasons given from the bench, the appeal from the assessment made under the Income Tax Act for the 2015 taxation year is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons.
+Signed at Edmonton, Alberta, this 26th day of June 2019.
+“Patrick Boyle”
+Boyle J.
+Docket: 2018-2659(IT)I
+BETWEEN:
+SCOTT MOORE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED VERSION OF TRANSCRIPT
+OF ORAL REASONS FOR JUDGMENT
+Let the attached edited transcript of the reasons for judgment rendered orally at the hearing on June 5, 2019 at Montreal, Quebec be filed. I have edited the transcript (certified by the Court Reporter) for style, clarity and to make minor corrections only. I did not make any substantive changes.
+Signed at Edmonton, Alberta, this 26th day of June 2019.
+“Patrick Boyle”
+Boyle J.
+Citation: 2019 TCC 141
+Date: 20190626
+Docket: 2018-1109(IT)I
+BETWEEN:
+SCOTT MOORE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Appeal heard on June 4 and decision rendered orally at the hearing on
+June 5, 2019, at Montreal, Quebec)
+Boyle J.
+[1] I am delivering my reasons in yesterday morning’s informal appeal by Scott Moore. With apologies, these were scheduled to be delivered after four yesterday afternoon, however, yesterday’s remaining appeal went longer than anticipated. My apologies to Mr. Moore that he did not receive the Court’s voice message left for him pointing out that this was put over until this morning.
+[2] Mr. Moore’s informal appeal is in respect of 2015 and the amounts involved are less than $3,000.
+[3] The taxpayer worked for GE Capital from 2003 to 2016 and continues to work for its successor. He worked in Europe until 2010 at which time he started working for GE Capital Canada.
+[4] While employed at GE Canada, the taxpayer took advantage of its employer-sponsored share purchase plan to acquire shares of GE Canada’s parent which was a publicly traded U.S. corporation. He acquired the shares gradually by bi-weekly payroll deductions with matched funding from GE Canada. The share purchase plan was administered by Sun Life Financial Canada for GE Canada and its employees.
+[5] In March, 2016, GE Capital Canada was acquired by Wells Fargo Canada and this ended the taxpayer’s participation in the GE Canada employer-sponsored share purchase plan. Mr. Moore was then given the option to either sell his shares or transfer them to a Canadian brokerage account. He chose the latter.
+[6] It was only after this change that he first realized that he should have started filing a T1135 Specified Foreign Property form starting in 2015 when the aggregate cost of his GE shares in the plan first exceeded $100,000. That was also the first year that shares’ aggregate fair market value exceeded $100,000 as well; they have dropped below that at this time.
+[7] The evidence is that all of the dividends received up to that time were properly reported in his tax returns. There is no suggestion that any employment benefit from the acquisition was not also properly reported.
+[8] Shortly after his 2016 return filing due date, Mr. Moore wrote to CRA informing them of this and duly completed T1135 forms for both 2015 and 2016. He has continued to file T1135s annually since then as required.
+[9] He was assessed a $2,500 penalty for not filing his 2015 form on a timely basis and that is the only issue in this appeal.
+[10] The respondent put in by way of affidavit evidence blank copies of CRA’s 2015 tax return form and the portions of the Income Tax Guide for 2015 it considered relevant.
+[11] The question asked of Canadians on their 2015 tax return that is relevant asks, Yes or No:
+“Did you own specified foreign property at any time in the year where the total cost was more than $100,000?”
+It continues before the Yes and No answer boxes:
+“See specified foreign property in the Guide for more information.”
+[12] If one turns to the 2015 Guide for more information as directed in the return, the table of contents does not have a heading for “specified foreign property” of any form. It does have one for “Foreign Income” and it is there that one would find some more information about specified foreign property. This location or heading is odd given that the Act’s filing requirement for ownership of specified foreign property is not income-driven, nor does it matter if income is ever generated by it.
+[13] The additional information on specified foreign property under the heading “Foreign Income” is under a sub-heading “Specified Foreign Property.” It consists of very little information other than a reference to the form itself and then identifying several properties that are not specified foreign property.
+[14] Following that under the sub-heading “Specified Foreign Property”, there is a further sub-sub-heading titled “Shares of a Non-Resident Corporation” which says that if you hold 10 percent or more of the shares of a non-resident corporation you may have to complete a T1134. It literally says nothing about a T1135 form.
+[15] While a tax lawyer or other tax professional will recognize this sub‑sub‑heading, it appears clearly misplaced in the Guide. I don’t think any other average Canadian could reasonably be expected to recognize that. I’m not sure most reasonable Canadian taxpayers would necessarily find more information on foreign property under the part of the Guide headed “Foreign Income”. It could certainly be better named Foreign Investments if it deals with both income earned offshore and assets situated offshore.
+[16] In juge Favreau’s Leclerc v. The Queen, T1135 late filing penalty case, 2010 TCC 99, he concluded Canadians could not be expected to know that T1135 late filing penalties would only be waived by CRA if they formally applied under its Voluntary Disclosure Program since these information forms do not involve fraud or non-disclosure of income. While juge Favreau decided the due diligence defence did not apply on the facts of that case, I believe his comments apply equally to reasonable Canadians not necessarily finding the correct information on foreign shares or understanding it from the Guide and the return’s reference to the Guide.
+[17] Juge Favreau’s comments are also relevant to, and highlight, the fact that Mr. Moore may have voluntarily disclosed to CRA his late filing, but was unaware that would have had to be done under CRA’s formal Voluntary Disclosure Program if he wanted to avoid coming to Court.
+[18] In this case, I’m following the analytical approach taken by Justice Woods, then of this Court, in her Douglas v. The Queen, T1135 penalty case, 2012 TCC 73 in paragraphs 13 to 17 of that decision. Justice Woods was following the approach taken by Mr. Justice Miller of this Court in Home Depot Canada v. The Queen, 2009 TCC 281 with respect to penalties that do not have a statutory due diligence-type defence by their terms.
+[19] In yesterday morning’s case, Mr. Moore was not cavalier about his income tax obligations. Any benefit and all income received on the shares was properly reported and tax paid. No amount was misrepresented, mischaracterized or omitted in his 2015 tax return. Upon finding out the T1135 notification form filing requirement was engaged in 2015, Mr. Moore promptly filed it going forward and notified CRA in writing about 2015 and filed a 2015 form.
+[20] As Justice Woods said in paragraph 17 of her Douglas decision, “the judge-made due diligence defence should be applied sparingly. However, this is an appropriate case in which it should be applied.”
+[21] I adopt that in this case. For the above reasons I am allowing this appeal.
+[22] As a final observation, I would ask the rhetorical question, “Is Mr. Moore’s disclosure to CRA on a voluntary basis of his failure to file a 2015 information return not the type of compliance effort CRA wants to encourage Canadians to follow?”
+[23] I think we might all guess the odds of this appeal even being before this Court had he simply started filing his T1135 prospectively and not alerted CRA to the fact the $100,000 threshold was triggered in 2015 and filed the 2015 form.
+[24] I cannot imagine why in a case such as this the CRA would prefer to have Mr. Moore appeal to this Court, lose, and then go back to CRA’s Fairness Review program armed with my comments.
+[25] The appeal is allowed. We are adjourned in this matter. Thank you, Ms. Fink. Thank you, Mr. Moore.
+Signed at Edmonton, Alberta, this 26th day of June 2019.
+“Patrick Boyle”
+Boyle J.
+CITATION:
+2019 TCC 141
+COURT FILE NO.:
+2018-2659(IT)I
+STYLE OF CAUSE:
+SCOTT MOORE v. THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+June 4, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+June 26, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amelia Fink
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

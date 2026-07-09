@@ -1,0 +1,331 @@
+---
+title: "Cocks c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26359/index.do"
+last_modified: "2004-09-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 627"
+citation2: ""
+neutral_citation: "2004 CCI 627"
+decision_date: "2004-09-22"
+language: "fr"
+item_id: "26359"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3372
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:00:50.609000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "704652e98e311e529236ae545e07e6b7fbf9918e515399d7fa2bf4f35a7571cd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cocks c. M.R.N.
+
+- Citation: 2004 CCI 627
+- Decision date: 2004-09-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3372, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cocks c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-22
+Référence neutre
+2004 CCI 627
+Numéro de dossier
+2003-536(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-536(EI)
+ENTRE :
+JEAN-CHARLES COCKS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CAROLE SIMARD,
+intervenante.
+____________________________________________________________________
+Appel entendu le 27 août 2004, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocate de l'appelant :
+Me Véronique Racicot
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+Pour l'intervenante :
+L'intervenante elle-même
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de septembre 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2004CCI627
+Date : 20040922
+Dossier : 2003-536(EI)
+ENTRE :
+JEAN-CHARLES COCKS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+CAROLE SIMARD,
+intervenante.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit de l'appel d'une décision en date du 19 novembre 2002. La décision concerne les périodes du 3 août 1996 au 5 décembre 1997, du 12 octobre 1998 au 12 juin 1999, du 3 avril au 30 décembre 2000 et du 29 octobre 2001 au 1er juin 2002, la question étant de savoir si l'appelant avait exercé un emploi assurable lorsqu'il travaillait pour le compte et au bénéfice de Carole Simard (la « payeuse » ), qui faisait alors des affaires sous le nom et la raison sociale de Locations et Services C. S.
+[2] Le fardeau de la preuve incombe à l'appelant. La preuve fut constituée des témoignages de l'appelant et de l'intervenante.
+[3] Le témoignage de l'appelant doit s'analyser en tenant compte de ce que la grande majorité des hypothèses de fait tenues pour acquises ont été admises. Les admissions ont porté sur les hypothèses de fait suivantes :
+a) La payeuse exploite une entreprise, enregistrée le 28 avril 1995, offrant de multiples services sous la raison sociale de « Locations et Services C.S. » .
+b) L'entreprise de la payeuse offre des services de lavage de camions, de décapage de bâtiments, de réparation et peinture de piscines et de bouées et de dégel de dalles en béton sur les chantiers de construction.
+c) La payeuse est la seule propriétaire de l'entreprise.
+d) Entre 1996 et 2001, la payeuse a déclaré des revenus bruts d'entreprise annuels variant entre 73 438 $ et 130 765 $.
+e) Les revenus provenant du lavage de camions sont réguliers à longueur d'année; les lavages se font les samedis et dimanches.
+f) Depuis quelques années, le gros des revenus de l'entreprise proviennent d'un contrat avec Pêche [ sic ] et Océan [ sic ] Canada; ce contrat consiste au nettoyage de bouées dans le fleuve St-Laurent.
+g) Le nettoyage des bouées se fait surtout à l'automne, à partir d'octobre ou novembre et jusqu'au 15 ou 20 décembre; il y a environ 300 bouées à nettoyer.
+h) Toujours avec Pêche [ sic ] et Océan [ sic ] Canada, l'entreprise effectue des travaux de décapage et de peinture de tours de radiophares d'alignement servant au balisage de la voie maritime du St-Laurent.
+i) Les travaux sur les tours d'alignement se font soit au printemps ou en été.
+j) L'appelant, conjoint de la payeuse, a été en affaires, dans le même domaine que l'entreprise de la payeuse, de 1990 à 1996, avant de déclarer une faillite personnelle en 1997.
+k) La payeuse a acheté les actifs de l'ancienne entreprise de son conjoint pour démarrer son entreprise en 1995.
+l) Comme actifs, la payeuse possède une camionnette (éconoline), un camion à échelle de 100 pieds, une remorque, 2 ou 3 machines à pression, son auto personnelle ainsi que la résidence familiale (à son nom personnel).
+[...]
+n) L'appelant travaille sur des soumissions et il négocie les tarifs et les ententes avec les clients.
+[...]
+p) L'appelant a un horaire de travail variable mais il prétend que généralement, lorsqu'il est inscrit au registre des salaires de la payeuse, il fait entre 40 et 42 heures par semaine.
+q) Quand les contrats de l'entreprise sont terminés, il ne reste plus que le lavage des camions et l'appelant est alors embauché à temps partiel, les samedis et dimanches, par la payeuse.
+[...]
+t) Durant chacune des années en litige, l'appelant recevait une rémunération minime (à temps partiel) ou ne recevait aucune rémunération durant certaines semaines alors que l'entreprise de la payeuse générait des revenus.
+u) En 2001, l'appelant n'a pas été inscrit au registre de paie de la payeuse pendant une période de 10 mois et ce, alors que [...] l'entreprise poursuivait normalement ses activités.
+v) Sur chacun des relevés d'emploi obtenu [ sic ] par l'appelant on retrouve comme raison de cessation d'emploi : manque de travail; ce qui ne correspond pas aux périodes d'activités de la payeuse.
+w) Les périodes d'emploi de l'appelant ne correspondent pas avec les périodes d'activités réelles de l'entreprise de la payeuse.
+L'appelant a dit ne rien savoir au sujet des hypothèses de fait suivantes :
+m) L'appelant a beaucoup d'expérience sur le genre de contrats obtenus par la payeuse et travaille généralement sur tous les contrats de la payeuse.
+[...]
+o) L'appelant s'occupe de certaines activités quotidiennes de l'entreprise; il travaille physiquement à tous les contrats et embauche et congédie le personnel nécessaire à chaque contrat.
+Les hypothèses de fait suivantes ont été niées :
+r) Les heures de travail de l'appelant ne sont pas comptabilisées par la payeuse.
+s) Lorsqu'il était inscrit à plein temps au registre des salaires de la payeuse, l'appelant recevait une rémunération hebdomadaire fixe qui a varié comme suit : 420 $ en 1998 et 1999, 480 $, 600 $ et 900 $ en 2000, 420 $ en 2001 et 2002
+[...]
+x) L'emploi de l'appelant est indispensable à la bonne marche de l'entreprise de la payeuse; sans lui, l'entreprise serait inopérante.
+[4] L'appelant, avant de faire cession de ses biens, possédait la même entreprise que celle acquise par sa conjointe à la suite de la faillite. L'appelant a témoigné qu'il agissait comme contremaître étant donné qu'il avait une vaste et longue expérience dans le domaine acquise lors de la période où il avait été propriétaire de la même entreprise
+[5] Étant donné l'étendue et l'importance de sa responsabilité au sein de l'entreprise, sa présence aurait normalement dû être constante et continue; or, il n'en était rien et l'appelant était licencié pour de longues périodes.
+[6] Pour expliquer cette particularité, il a affirmé que la propriétaire de l'entreprise, sa conjointe intervenante, avait alors recours à des employés dont le salaire était moins élevé que le sien.
+[7] Pour expliquer le fait d'avoir retardé l'encaissement de certains chèques de paye, l'appelant a indiqué n'avoir pas eu besoin d'argent étant donné que sa conjointe assumait le principal de ses dépenses de subsistance.
+[8] Pour expliquer pourquoi il n'avait pas travaillé durant certaines périodes où l'entreprise exerçait des activités, il a affirmé que, des suites de sa faillite, il avait adopté une nouvelle philosophie de vie et qu'il avait décidé de se ménager un peu plus vu qu'il avait dû travailler beaucoup d'heures à une certaine époque de sa vie.
+[9] Le témoignage de l'appelant n'a guère été convaincant, d'autant plus que plusieurs explications ont été confuses insuffisantes et totalement incomplètes. Souvent, il éludait les questions en prétextant qu'il n'était pas au courant, l'entreprise étant la propriété de sa conjointe. Quant à certaines autres explications, elles ne sont tout simplement pas crédibles ou vraisemblables. Je fais notamment référence aux longues périodes où, aux dires de l'appelant, il n'effectuait aucun travail.
+[10] Le témoignage de sa conjointe intervenante en l'instance, a permis de constater que cette dernière n'avait ni la capacité ni l'autorité ni l'expertise nécessaire pour justifier et confirmer la version de l'appelant. Comme il avait déjà été le seul propriétaire de l'entreprise cédée à sa conjointe à la suite de sa faillite, il aurait été important que l'appelant et l'intervenante ne tiennent rien pour acquis étant donné le contexte très particulier créé par le renversement des rôles, c'est-à-dire que le patron est devenu l'employé et l'employée est devenue patronne.
+[11] L'appelant avait les qualités, les connaissances et l'expérience voulues pour diriger l'entreprise. Il avait également manifestement l'autorité nécessaire et exerçait un fort ascendant sur sa conjointe, au point qu'il n'est aucunement exagéré de conclure qu'il était l'âme dirigeante de l'entreprise.
+[12] Les variations du salaire, les périodes de travail, les raisons invoquées pour expliquer le début et la fin des périodes en cause et l'absence totale de cohérence entre les revenus de l'entreprise et les périodes de travail sont autant d'éléments qui permettent de conclure que l'appelant agissait comme s'il s'agissait de sa propre entreprise, comme elle l'avait d'ailleurs déjà été.
+[13] Dans les faits, l'appelant exploitait sa propre entreprise; il est possible que sa conjointe soit devenue la véritable propriétaire et non pas un simple prête-nom. Par contre, il m'est apparu évident que cette dernière ne décidait rien; l'appelant était le seul maître, particulièrement quand venait le temps de décider à quel moment prenait fin sa période de travail et à quel moment il reprenait le travail.
+[14] L'intimé, par l'entremise de monsieur Denis Hamel, a fait un travail impeccable dans le cadre de son enquête. Il a notamment recueilli des données et préparé des tableaux permettant de tirer des conclusions non équivoques quant au bien-fondé de la détermination.
+[15] À titre d'illustration, il y a lieu de reproduire certains éléments tirés des pièces produites en l'espèce. Tout d'abord, dans sa déclaration statutaire datée du 27 juin 2002, l'appelant déclarait ce qui suit (pièce I-1) :
+[...] Je ne peux vous dire si elle avait déjà eu des employés probablement pas car elle devait faire seulement l'administration de sa compagnie à ce moment. [...] Dans mon carnet de caisse je dois expliquer que les derniers dépôts de mes paies ont été le 11 février 02 2 semaines de salaires déposés, le 13 février 2002, 2 autres semaines de salaires, le 20 février, 2 autres semaines de salaires et entre le 20 février et les derniers dépôts le 4 juin 2002 ma conjointe ne m'a déposé aucun salaire car elle a assez d'argent dans le compte mais elle attend d'autres entrées d'argent pour me déposer tous mes autres chèques. J'accepte ça car je veux que la compagnie survive et que c'est mon seul gagne pain et le seul travail que je connais comme il faut. Je peux me permettre d'accepter de ne pas recevoir mon salaire car dans les faits ma conjointe paie les frais de la maison et de subsistance comme je n'ai pas de voiture mais je prends celle de la compagnie (elle me le permet). Je ne peux exiger mon chèque à chaque semaine car ça me donne quoi de faire crever ou fermer la compagnie de ma conjointe ce n'est pas à mon avantage. Un jour j'aurai tous mes paiements à date mais j'accepte de les recevoir en retard. Pour un autre employeur c'est certain que j'aurais besoin de mon salaire car j'aurais des dépenses. [...] J'ai un salaire de $420 par semaine mais en 2000 j'avais $900 par semaine car il y avait les contrats du Gouvernement et avec discussion avec le comptable je pouvais recevoir ce montant. J'ai eu une baisse car la compagnie n'aurait pu continuer à survivre ça va bien lorsque les contrats du Gouvernement sont là. [...]
+(Je souligne.)
+Ensuite, il y a les éléments suivants contenus dans la pièce I-2 :
+[...]
+Renseignements employé/employeur
+Systèmes RAPID, CORTAX et TPS
+C et/ou DD.3
+1996
+1997
+1998
+1999
+2000
+2001
+Nom
+Jean-
+Charles
+Cock's
+237817663
+46 ans
+Revenu T4/T4A
+Prestations A.-E
+Location brut
+Entr brut
+Rev REER
+9 600
+10 000
+26 249
+8 147
+22 600
+11 911
+6 957
+16 741
+8 830
+7 165
+25 557
+1 686
+3 780
+12 704
+Nom
+Carole
+Simard
+238259667
+48 ans
+Revenu T4/T4A
+Prestations A.-E
+Entr brut
+Entr nets
+Gain en cap
+90 009
+17 616
+91 876
+4 945
+82 407
+(18 028)
+31 187
+73 438
+1 489
+130 765
+18 491
+116 197
+38 351
+DD.2
+Nom de L'Eur
+Carole
+Simard
+NE
+898349055
+Nb d'employés
+10
+17
+7
+23
+12
+TPS
+Fin
+Trimestre
+Ventes
+Situation
+de
+l'appelant
+30-9-98
+31-12-98
+31-3-99
+30-6-99
+30-9-99
+31-12-99
+31-3-00
+30-6-00
+30-9-00
+31-12-00
+31-3-01
+30-6-01
+30-9-01
+31-12-01
+31-3-02
+30-6-02
+11 823
+12 435
+21 267
+17 376
+17 082
+17 713
+26 250
+26 632
+58 657
+19 227
+27 053
+56 134
+15 096
+17 913
+24 838
+0
+Chômage
+Travail
+Travail
+Travail
+Chômage
+Chômage
+Chômage
+Travail
+Travail
+Travail
+Chômage
+Chômage
+Chômage
+Travail
+Travail
+Travail
+[...]
+Actifs de l'entreprise selon le grand livre au 31 août 2002 (onglet R)
+- Matériel roulant: 13 002, 50 $,
+Amortissement accumulé: 3 606 $
+- Équipement: 4 500 $
+Amortissement accumulé: 3 034 $
+- Machinerie: 1 218,03 $
+Amortissement accumulé: 363 $
+Chèques de paie de l'appelant pour l'année 2002, à compter du 17 janvier 2002 (Onglet S)
+- Les chèques de paie de l'appelant de janvier 2002 ont été encaissés le 4 juin 2002.
+- Les chèques de février 2002 ont été encaissés le 3 juillet 2002.
+- Les chèques de mars 2002 ont été encaissés le 11 juillet 2002.
+- Les chèques de mars 2002 ont été encaissés le 11 juillet 2002.
+- Les chèques suivants jusqu'au 6 juin 2002 ont été encaissés le 16 août 2002 et surtout le 28 août 2002.
+[16] Le fardeau de la preuve incombait à l'appelant. L'intimé a étoffé le dossier en produisant des éléments irréfutables. La façon pour l'appelant de s'acquitter de son fardeau de la preuve n'était pas de présenter de simples affirmations vagues, confuses et incomplètes, voire même invraisemblables, sur des aspects fondamentaux.
+[17] L'appelant était incontestablement l'âme dirigeante de l'entreprise. Il l'administrait, la gérait et la dirigeait exactement comme si elle lui avait appartenu. Non seulement il a profité d'un statut particulier, mais il était sans l'ombre d'un doute celui qui décidait du début et de la fin des périodes de travail, le tout étant, de toute évidence, orchestré et planifié en fonction de l'admissibilité aux prestations d'assurance-emploi.
+[18] Il s'agit d'un dossier où l'appelant avait une telle autonomie et liberté qu'il s'organisait pour apparaître au registre des salaires de la société quand cela lui convenait, le tout étant fonction, de toute évidence, de son admissibilité à l'assurance-emploi.
+[19] Non seulement la preuve produite par l'appelant et l'intervenante n'a pas fait ressortir d'éléments ou de faits nouveaux s'ajoutant à ceux mis en lumière par l'enquête, mais elle a plutôt confirmé la justesse de la décision, résultant de l'enquête et de l'analyse irréprochables et judicieuses de l'intimé.
+[20] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 22e jour de septembre 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2004CCI627
+No DU DOSSIER DE LA COUR :
+2003-536(EI)
+INTITULÉ DE LA CAUSE :
+Jean-Charles Cocks
+et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE
+le 27 août 2004
+MOTIFS DU JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 22 septembre 2004
+COMPARUTIONS :
+Avocate de l'appelant :
+Me Véronique Racicot
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+Pour l'intervenante :
+L'intervenante elle-même
+AVOCAT INSCRIT AUX DOSSIERS :
+Pour l'appelant :
+Nom :
+Étude :
+Ville :
+Me Véronique Racicot
+APCHQ (Savoie Fournier Avocats)
+Anjou (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,224 @@
+---
+title: "Fard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520918/index.do"
+last_modified: "2022-04-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 42"
+citation2: ""
+neutral_citation: "2022 TCC 42"
+decision_date: "2022-04-11"
+language: "en"
+item_id: "520918"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4542
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:36:33.645000+00:00"
+cases_cited_count: 11
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1edd8cb76e00d0c5363fe66a743d82e162d0f554d7bef17d04db5c753ad310a4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fard v. The Queen
+
+- Citation: 2022 TCC 42
+- Decision date: 2022-04-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4542, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-04-11
+Neutral citation
+2022 TCC 42
+File numbers
+2019-3523(GST)I
+Judges and Taxing Officers
+Rommel G. Masse
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2019-3523(GST)I
+BETWEEN:
+MERCEDEH FARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 21, 2022, at Toronto, Ontario
+Before: The Honourable Rommel G. Masse, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Adrian Zita-Bennett
+Acinkoj Majok
+JUDGMENT
+This appeal from a Reassessment made by the Minister of National Revenue (the “Minister”) on November 9, 2018 under the Excise Tax Act is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Kingston, Canada, this 11th day of April 2022.
+“Rommel G. Masse”
+Masse D.J.
+Citation: 2022 TCC 42
+Date: 20220411
+Docket: 2019-3523(GST)I
+BETWEEN:
+MERCEDEH FARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Masse D.J.
+[1] The Appellant, Mercedeh Fard, appeals from a Reassessment made by the Minister of National Revenue (the “Minister”) on November 9, 2018, denying her claim for the GST/HST New Housing Rebate (the “Rebate”) in relation to the purchase of a property described as 16 Folliot St., Aurora, Ontario (“Folliot”), on the basis that the Appellant did not acquire Folliot with the intention of using it as a primary place of residence as required by paragraph 254(2)(b) of the Excise Tax Act, R.S.C. 1985, c. E-15, (the “ETA”).
+Background
+[2] On August 26, 2016, the Appellant purchased Folliot, a multi-level townhouse yet to be constructed, by way of an Assignment of Agreement of Purchase and Sale (the “APS”) for $779,900.00. Her husband, Mr. Behzad Zand, is a realtor by profession and he was the listed salesperson for Folliot. At that time, they were living in a rental property at 61 Richvalley Crescent in Richmond Hills Ontario (“Richvalley”). They never did move from Richvalley and were still living there as of the date of this hearing.
+[3] The construction of Folliot was complete or substantially complete as of July 2017. The Appellant and her husband took possession of Folliot on July 11, 2017 and moved some furniture in on July 29, 2017.
+[4] The Appellant filed an application for a GST/HST New Housing Rebate (the “Rebate”) for Folliot on July 25th, 2017. The Appellant had been credited the Rebate by the builder. By Notice of Reassessment dated November 9th, 2018, the Minister denied the Rebate application and assessed a Rebate adjustment of $24,000.00 and arrears of interest amounting to $1,809.25. The Appellant objected to this reassessment by way of a Notice of Objection dated January 17, 2019. The reassessment was confirmed by way of a Notice of Confirmation dated July 3rd, 2019. Hence, the appeal to this Court.
+The Evidence
+[5] The Appellant and Mr. Zand were the only witnesses to testify. He and the Appellant have been married 14 years. Mr. Zand has been a realtor for the last 20 years, mostly in Richmond Hill. He testified that it was always intended to acquire Folliot as their primary place of residence.
+[6] Mr. Zand testified that some years back, the Appellant’s parents moved to Canada to live with him and the Appellant. The Appellant’s parents do not speak English and they have no other relatives in Canada to take care of them. They are very dependent on the Appellant and her husband. The parents lived together with the Appellant and her husband at Richvalley. This is a multi-level home with stairs.
+[7] The Appellant’s father (the “father”) has some very serious health problems including back and herniated disc issues. On May 20th, 2016, prior to signing the assignment of the APS, the father was diagnosed with multilevel advanced degenerative disc disease and facet joint arthrosis as well as multilevel advanced central canal and neural foraminal bilateral stenosis (see Ex. R-3 and Ex. A-1). This results in chronic pain and the father cannot go up and down stairs. Dr. Sanjay Rastogi, in a hand-written note dated June 13th, 2019, indicates that “Mr. Fard [the father] was diagnosed with severe lumbar stenosis on 5/2016. His symptoms have progressed resulting him not to be able to go up/down stairs since then.” Dr. Rastogi recommended that the Appellant live within 15 minutes of her parents. This would enable her to attend to them quickly in case of any medical emergency and also to take care of their needs.
+[8] Mr. Zand stated that while the parents were living with them, the father fell in the bathtub and broke a few ribs and damaged his back. Ever since, his condition has been deteriorating and he is not getting any better. Mr. Zand did not indicate the date when the father fell in the bathtub.
+[9] By March of 2017, the Appellant moved her parents into a single level condo, with no stairs. The condo was only about 8 km or 10 minutes away from Richvalley; close enough to allow her or her husband to quickly attend her parents’ residence.
+[10] In July 2017, Folliot was ready to be moved in. Folliot was further from the parents’ condo than was Richvalley. It would take at least 30 minutes to get from Folliot to the condo. This was important since they needed to be close by to attend to the parents’ needs in any emergency.
+[11] Mr. Zand testified that they decided to move to Folliot temporarily in order to “test the waters” to find out if they wanted to move there permanently and to see if they could manage going back and forth to see and take care of the parents. Only a few items of furniture – a TV, two sofas, one bed and a few carpets were moved to Folliot. The rest of their furniture, more than 85%, was left at the rented property at Richvalley. This did not work out and they stayed at Folliot just a short time. In his words, they “gave up and couldn’t do it anymore.” Folliot was listed for sale on September 15, 2017 for $898,888 and sold for $875,000. - $95,000 more than their purchase price. Mr. Zand was the listing agent. Folliot sold on October 1, 2017 with a closing date of November 3, 2017. In mid October, they moved back to Richvalley where they continue to live today.
+[12] In cross-examination, Mr. Zand testified that his in-laws moved to Canada around 2007 or 2008, he doesn’t really know since he is not good with dates. He acknowledged that he had purchased a condo in May 2013 and that he took possession of the condo in October 2016. By March 2017, the Appellant had moved her parents into this condo.
+[13] Mr. Zand testified that Folliot was used as a place of residence but only for a short period of time. They continued to rent Richvalley and took no steps to terminate the lease. They did not change their home address for purposes of their driver’s license, their health cards, or their passports. They did not change their address for purposes of corresponding with the Canada Revenue Agency. They continued to use the Richvalley address for purposes of banking, credit cards, and any other financial matters. On the listing agreement for the sale of Folliot (in Ex. R-2), the property was listed as vacant. He agrees that Folliot was sold less than three months after taking possession of the property. Mr. Zand acknowledged that the Confirmation of Home Insurance and the Policy Declaration for Folliot (in Ex. R–2) indicate that the effective date of insurance was July 25, 2017. The mailing address of the owners of the insured property was not Folliot but was Richvalley. Mr. Zand confirms that the personal property in Folliot was insured for only $20,000, the minimum available for ensuring personal property, because only a few items of furniture were moved to Folliot. The insurance documents indicate that occupancy of Folliot was as a second home, not the primary residence. He agrees that the insurance documents clearly specify that “primary residence means you usually live in the home. You can only have one primary residence at a time.” The insurance documents indicate that the home was not occupied.
+[14] Mr. Zand agrees that the father was diagnosed with severe lumbar stenosis in May 2016 and that he has not been able to go up and down stairs since that date. The medical documents that were filed with the court make no reference to a slip on stairs suffered by the father in January 2017 or to a fall in the bath tub where he broke a few ribs that made his condition worse. This slip or fall was simply not documented and if it was, such documents were not produced to the Court. When the father was diagnosed with lumbar stenosis in May 2016 he had been having difficulties for some time which Mr. Zand described as minor issues. On being asked to describe these minor issues he stated that the father couldn’t get up, he couldn’t stand up, he couldn’t walk properly, and he could not climb stairs. In my opinion, these are not “minor” issues. The reason the father lived with them at Richvalley is because there was an office on the main floor that was converted into a bedroom so that the parents did not have to go up and down stairs. Mr. Zand testified that the father’s symptoms existed for three or four months before May 2016.
+[15] The Appellant testified. She essentially confirms the evidence given by her husband but she adds that he was a little bit off with exact dates. She stated that after 2016, her father’s health got worse. This was unforeseen. She did not expect him to be unable to go up and down stairs, which seems to be at odds with the evidence of Mr. Zand and Dr. Rastogi’s note dated June 13th, 2019. Her mother’s health also deteriorated.
+[16] It was always their intention to make Folliot their primary place of residence but when the time came, their intention was frustrated because the living arrangements for her parents and for them did not work out – her parents lived too far away. She felt that living at Folliot put her parents’ health at risk since she and her husband would not be able to get to her parents’ residence quickly enough in an emergency.
+Position of the Parties
+[17] The Appellant argues that when she assumed liability under the assignment of the APS in August of 2016, she did so with the intention of acquiring Folliot to be used as the primary place of residence for her, her husband and her elderly parents. At the time she took possession, it was still her intention to occupy Folliot as a place of residence. She and her husband tried to live there for a few months but this did not work out since Folliot was too far away from her parents. Her intention was frustrated due to her father’s deteriorating health. Her father’s injury worsened his condition to the point where he could no longer manoeuver his way up and down any stairs. This was unforeseen, beyond her control and left her with no choice but to move out of Folliot and back to Richvalley. She urges the Court to allow her appeal.
+[18] The Respondent contends that, when the Appellant signed the assignment of the APS, she did not intend to acquire Folliot to be used as a primary place of residence, as required by paragraphs 254(2)(b) of the ETA. In addition, the Appellant has not shown that she or a qualifying relation was the first to occupy and use the property as a place of residence within the meaning of and as required by paragraph 254(2)(g) of the ETA. It is argued that the failing health of the Appellant’s parents did not constitute a frustrating event that rendered her unable to fulfill all of the conditions set out in paragraph 254(2) of the ETA. Therefore, the appeal should be dismissed.
+Issues
+[19] In my view, the following issues present themselves for resolution by the Court:
+At the time the Appellant agreed to purchase Folliot, did she intend to acquire the property as a primary place of residence for her or a qualifying relation as required by paragraph 254(2)(b) of the ETA?
+Did the Appellant or a qualifying relation occupy Folliot as a place of residence as required by paragraph 254(2)(g) of the ETA?
+Did the father’s deteriorating health frustrate the intent and ability of the Appellant to fulfill the conditions set out in paragraph 254(2)(g) of the ETA?
+Analysis
+[20] Generally speaking, GST/HST is applicable to sales and rentals of real property to the extent they are not specifically exempted under the ETA. In today’s real estate market, this can result in a huge tax liability arising in respect of the purchase of a new home. The ETA provides for a rebate of the tax paid in certain circumstances, such as the purchase of a newly constructed or substantially renovated home. This is the GST/HST New Housing Rebate. In Ontario, the Rebate caps out at $24,000.
+[21] In order to qualify for the Rebate, the seven conditions set out in paragraphs 254(2)(a) through (g) of the ETA must be satisfied. In our case, only paragraphs 254(2)(b) and (g) are in issue. These paragraphs provide:
+254(2) Where
+…
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+…
+(g) either
+(i) the first individual to occupy the complex or unit as a place of residence at any time after substantial completion of the construction or renovation is
+(A) in the case of a single unit residential complex, the particular individual or a relation of the particular individual,
+…
+the Minister shall, subject to subsection (3), pay a rebate to the particular individual …
+[22] Paragraph 254(2)(b) requires that, at the time a purchaser becomes liable or assumes liability under an APS, he or she intends to acquire the property for use as his or her “primary place of residence” or for use as the “primary place of residence of his or her “relation.” Paragraph 254(2)(g) requires the purchaser or a “relation” to be the first person to occupy the property as a “place of residence.”
+Intent to acquire as primary place of residence – s. 254(2)(b)
+[23] It is clear that the onus is on the Appellant to satisfy the Court on a balance of probabilities that, at the time she “became liable or assumed liability under an agreement of purchase and sale” with the builder, she had the requisite intention to acquire Folliot as a “primary place of residence”: Kandiah v. The Queen, 2014 TCC 276. This is her stated intention and such must, of course, be considered by the Court. However, the best way of determining intention is to objectively look at all the surrounding factual circumstances. The use made of the property is often the best evidence of the purpose of the acquisition.
+[24] In Margolin v. HMQ, 2018 TCC 36, it was stated at paragraph 6:
+Subsection 254(2) requires intention to be determinative measured at the time the purchaser becomes legally bound under the agreement of purchase and sale (the “APS”) concerning the property: Wong v. HMQ, 2013 TCC 23 at paragraph 10. The determination at that critical moment will be informed by the stated intention of the claimant. However, this subjective intention is occasionally unreliable and must be filtered through the prism of “actual use” of the rebate property: Coburn Realty Ltd. v. Canada, 2006 TCC 245 at paragraph 10 … Accordingly, such a factual analysis of the surrounding factual circumstances is necessary: Nahid Safar-Zadeh v. HMQ, 2017 TCC 35 at paragraph 4.
+[25] In Sozio v. HMQ, 2018 TCC 258, Justice Bocock of this Court set out a list of indicia to be considered in determining occupancy. This list will expand or contract based upon each unique fact situation. He stated at paragraph 15:
+Each case is an exercise in analyzing the taxpayer’s subjective intention using the unique facts of each appeal across a variety of indicia. The facts will provide direction and inform the application and weight to be given to the indicia. In short, is what a taxpayer says or intended supported across the waypoints of occupancy. Such indicia of occupancy as a primary residence are logical;
+a) demarcation of primary place of residence by change of address;
+b) the relocation of sufficient personal effects to the rebate property;
+c) if no occupancy of the residence, was there cogent evidence of frustration of occupancy;
+d) permanent occupant insurance versus seasonal or rental coverage;
+e) delivery of possession of previous primary residence to another;
+f) if dual occupancy continues, then the rebate property must be more frequently occupied, more convenient to third party locations such as work, more convenient amenities and more suitable to the needs of the taxpayer.
+[26] In Lounsbury v. HMQ, 2019 TCC 109, Justice Jorré, at paragraph 37, noted these same indicia. There is, of course, no fixed list and there is no specific weighing to be given particular indicia. However, in the case of dual occupancy, the time spent at each location is very important and must be given great weight.
+[27] In Kniazev v. HMQ, 2019 TCC 58, Justice Guy Smith of this Court stated:
+7. In the end, there are numerous decisions, each turning on their own facts, on the issue of a purchaser’s intention to acquire a residence as a “primary place of residence” for the purpose of the rebate. What is required is a clear and settled intention to occupy the premises as a “primary place of residence,” considered in the context of an individual’s personal, family and work-related circumstances. A tentative, fleeting or whimsical intention does not suffice.
+8. Parliament’s use of the word “primary” also suggests that the purchaser must have a settled intention to centre or arrange his personal and family affairs around that property. The rebate is not intended for a secondary residence or “pied-à-terre.” An individual can own multiple residences but would typically have only one “primary place of residence.”
+[28] In Ghosi v. The Queen, 2019 TCC 104, Justice Dianne Campbell of this Court astutely observed:
+18. It is not one factor taken alone that either supports or does not support a taxpayer’s subjective intent, but it is all of the facts and circumstances taken together as a whole that will or will not support that the taxpayer’s subjective intent is actually the reality of what occurred.
+19. Justice Lamarre Proulx in Bérubé v. Her Majesty the Queen, [2000] TCJ No. 415, set out a number of criteria that a Court may look at in determining if a residence is a primary or secondary residence for the taxpayer.
+20. At paragraph 11, she included the following:
+Mailing address, income tax, voting, municipal/school taxes, telephone listing, personal effects that are moved into the new property, use of the property stated on the insurance policy, evidence that the former residence, if one is owned or leased, is offered for sale or rental at or before occupancy at the new location. If the former residence is not sold or leased, then factors such as the location of each property relative to work, amount of time spent at the new residence compared to the old, its suitability and availability of personal amenities will all be used to determine which residence is the primary residence as opposed to the taxpayer’s secondary home.
+[29] As I have already indicated, the Appellant must prove on the balance of probabilities that, at the time she assumed liability under the Assignment of the APS for Folliot, it was her intention to acquire the property for use as a “primary place of residence” for her or a “relation.”
+[30] What is the evidence of her intention? First of all, there is her stated intention. However, as observed by Chief Justice Bowman in Coburn Realty Ltd. v. HMQ, 2006 TCC 245, at paragraph 10, statements of subjective purpose and intent are not necessarily the most reliable basis upon which such a question is to be determined. The actual use is frequently the best evidence of the purpose of the acquisition.
+[31] In determining the question of intent, I also consider the following:
+Folliot was insured with Square One Insurance Services Inc. effective July 25, 2017. Details of the insurance are indicated in the Confirmation of Home Insurance and the Policy Declaration (found in Ex. R-2). Pertinent details are:
+o The home was not occupied.
+o The home was to be used as a “second home.”
+o Mr. Zand acknowledged that this was to be a second home, not the primary residence. He agrees that the insurance documents clearly specify that “primary residence means you usually live in the home. You can only have one primary residence at a time.”
+o The mailing address of the owners of the home was Richvalley.
+o The insurance provided only minimal insurance for personal property in the amount of $20,000.
+o The insurance was effective July 25/17, when the property was noted to be vacant but the furniture was only moved in and the property occupied, although only temporarily, on July 29/17. The insurer requires that any changes in status be reported to the insurer. There is no evidence of any change of status from vacant to occupied being reported to the insurer.
+The invoice dated July 29/17 from Abbi Moving for moving furniture from Richvalley to Folliot was only $420. This is a clear indication that only a few articles of furniture were moved, which Mr. Zand confirms.
+Only a few items of furniture were moved to Folliot, about 15%, leaving the great majority of their belongings at Richvalley.
+The move to Folliot was only temporary, “testing the waters” to see if they could live there and still take care of the Appellant’s parents.
+The listing for the resale of Folliot indicates that Folliot was “vacant.”
+The Appellant never terminated the lease for Richvalley at any time from the time of the purchase of Folliot until Folliot was sold.
+They moved back to Richvalley after Folliot was sold.
+They occupied Folliot for only a short period of time: about two and a half months from the time they moved in at the end of July until they moved out in mid October.
+They did not change their home address for purposes of their driver’s license, their health cards, their passports or for purposes of corresponding with the Canada Revenue Agency. They continued to use the Richvalley address for purposes of banking, credit cards, and any other financial matters.
+[32] In conclusion, even though the Appellant stated that at the time she became liable under the assignment of the APS, she subjectively intended to acquire Folliot for use as a primary place of residence, the objective facts as demonstrated by her conduct and the actual use she made of the property, do not support her stated subjective intent. It was up to her to prove to this Court on a balance of probabilities that she had the requisite intent of occupying Folliot as her primary place of residence as required by paragraph 254(2)(b). She has not succeeded in doing so.
+Occupancy of the premises – paragraph 254(2)(g)
+[33] Judges are not infallible. I may be wrong in concluding that the Appellant lacked the intent to acquire the property for the purpose of occupying it as a primary place of residence. In that case, I would have to determine if she in fact was the first to occupy the property as a place of residence within the meaning of paragraph 254(2)(g) of the ETA.
+[34] In Gill v. The Queen, 2016 TCC 13, Justice Guy Smith, observed the following regarding the occupancy requirement of paragraph 254(2)(g):
+29. In my view, the considerations identified in Kandiah and Goulet, supra, also apply to the issue of occupancy of the premises after substantial completion of construction. It must be more than passing or sporadic. There must be an element of permanence that supports the intention to acquire the complex for use as a primary residence. Transitory occupancy cannot satisfy the requirement that the purchaser be the “first individual to occupy the complex” within the meaning of paragraph 254(2)(g) of the ETA.
+[35] In Kniazev v. HMQ, 2019 TCC 58, Justice Smith again took up the same theme at paragraph 9 where he said:
+9. The second relevant criteria is [sic] set out in paragraph 254(2)(g). It provides that the purchaser or qualifying relation must be the first to occupy the subject property. It is necessary to interpret this provision, and in particular the word “occupy,” in the context of someone who presumptively intends to acquire a property as a “primary place of residence.” As discussed in Gill (para. 29), there must be an element of permanence in the occupation of the premises. It must be more than sporadic, transitory or temporary. Acquiring title, taking possession of the keys and moving in a few items of furniture does not suffice.
+[36] In Margolin v. HMQ, 2018 TCC 36 it was stated:
+7. While subjective intention to occupy a property necessarily directs the finder of fact to the objective factual evidence surrounding the intention at the time the APS becomes binding, it is also relevant at the subsequent time when the claimant must be the first to occupy the property as a residence with elements of use rendering it the primary place of residence: Mahendran Kandiah v. HMQ, 2014 TCC 276 at paragraph 20. As an example, renting or selling the home before occupancy, notwithstanding the initial intention, will invalidate a claim: Napoli v. HMQ, 2013 TCC 307 at paragraph 11. There must be some evidence of positive action culminating in first occupancy of the property as a primary place of residence: Kandiah at paragraphs 21 and 22. Plans may change to shorten or truncate the long-term plans after brief occupancy, but the change in plans cannot have taken place or have been contemplated at the time the APS became binding: Montemarano v. HMQ, 2015 TCC at paragraph 16.
+[37] Many of the same factors and indicia that I listed in paragraph [31] of these Reasons for Decision bear on the issue of “first occupancy.” The Appellant and her husband did move in on July 29/17 but they only stayed until mid October, some two and a half months. Mr. Zand confirms that this was only temporary. In his words, they were “testing the waters” – if it worked for them, they would stay but if not then they would move back to Richvalley. They only moved a few items of furniture into the property – certainly not enough to support a long-term living arrangement.
+[38] In conclusion, the “occupancy” in the case at bar was transitory and of a passing or temporary nature. It was very short in duration. There was no element of permanence in the actions taken by the Appellant that would support the intention to acquire the property as a primary residence. Stated another way, there was no evidence of positive action culminating in first occupancy as a primary place of residence. Moving in a few items of furniture and staying there a short period of time on a temporary basis is not enough to establish “occupancy” within the meaning of paragraph 254(2)(g). The Appellant has failed to satisfy this Court that she or a qualifying relative was the first to occupy the premises as required by paragraph 254(2)(g).
+Frustration
+[39] The Appellant argues that in all the circumstances she was frustrated in her efforts to actually use the rebate property as her primary place of residence.
+[40] In Sozio, supra, Justice Bocock discussed the confluence of factors required in order to establish a frustrating event. At paragraph 29 he held that in order to invoke frustration as an excuse for a failure to actually use the rebate property as a primary residence, the surrounding circumstances must be such as to make the frustrating event unforeseeable, beyond the buyer’s control, and results in the absence of real choice such that it makes living primarily and habitually at the rebate property impossible.
+[41] I agree that the health problems of the father were not within the Appellant’s control. However, that is not the end of the discussion.
+[42] The Appellant argues that the events affecting her father’s health problems and his ability to go up and down stairs were not foreseeable. Mr. Zand, on the other hand, agrees with the note from Dr. Rastogi that the father was unable to go up and down stairs since at least May of 2016 – which was before signing the assignment of the APS. According to Mr. Zand, as of May 2016, the father couldn’t get up, couldn’t stand up, couldn’t walk properly, and could not climb stairs. The reason why the father was living with them is because the office on the main floor of Richvalley was converted into a bedroom so that the father would not have to go up and down stairs. It was known that the father was suffering from a severe degenerative disc disease that could only get worse. I find that the Appellant was aware of this. I am not satisfied that it was unforeseeable that the father’s health would deteriorate to such an extent that he would not be able to go up and down stairs. That would be the natural progression of the disease and this must have been within the Appellant’s contemplation at the time she assumed liability for the purchase of Folliot.
+[43] What was the final frustrating event? In her pleadings as set out in the Notice of Appeal, the Appellant indicates that her father “slipped a couple of stairs” in their home in January 2017 and hurt his back that was already damaged by severe lumbar stenosis. In a few weeks, her father was completely unable to go up and down stairs. Mr. Zand gives a different version. He testified that the father fell in the bathtub and broke some ribs. This leads me to question what was the final frustrating event?
+[44] Whether he slipped on some stairs further hurting his back or fell in the tub breaking some ribs, or both, the father would certainly have suffered some serious trauma that would have required medical intervention. Yet, there has been no evidence produced that the father was taken to the hospital, or was seen by a doctor or other health care professional. One would expect that such trauma would have generated a call for an ambulance, emergency department documentation, nurses’ and doctors’ notes and reports regarding diagnosis, treatment, medication and prognosis. No such documentation has been produced to the Court. It is up to the Appellant to prove the totality of the circumstances that frustrated the ability of the Appellant to actually use the rebate property as a primary residence. She has not done so.
+[45] Lastly, did the Appellant not have any real choice whether or not to live in Folliot as the first occupant enjoying the property as a primary residence? In my view, this element also has not been proven on the balance of probabilities.
+[46] I have no doubt that the Appellant and Mr. Zand are very devoted to her parents and they are greatly concerned for their health comfort and welfare. This is born out by the Appellant’s choice to move her parents into the condo. That was serendipitous since Mr. Zands owned it. However, there was no evidence presented that any other reasonable and cost-effective options were explored such as finding some convenient and affordable property to rent or purchase closer to Folliot than the condo, transforming a room on the main floor of Folliot into a bedroom as was done at Richvalley, or installing a mechanized chairlift to go up and down stairs (in many cases the cost of such is subsidized). I do not know if any of these options were affordable, could practically have been carried out or if they were even considered. Staying at Folliot was certainly inconvenient, difficult and time-consuming but this did not make it such that it was not possible to live at Folliot.
+[47] The facts in this appeal do not rise to the threshold of unforeseeable, lack of control and absence of real choice required to make it impossible to live primarily and habitually at the rebate property as a place of residence.
+Disposition
+[48] For all of the foregoing reasons, the appeal is dismissed. The Appellant has not satisfied the Court on the balance of probabilities that she had the requisite intention to occupy the rebate property as her primary place of residence at the time she became liable to acquire it under the Assignment of the APS. Beyond that, she has not satisfied the Court that she first occupied the rebate property as a place of residence nor failed to do so because her occupancy was thwarted by frustration.
+Signed at Kingston, Canada, this 11th day of April 2022.
+“Rommel G. Masse”
+Masse D.J.
+CITATION:
+2022 TCC 42
+COURT FILE NO.:
+2019-3523(GST)I
+STYLE OF CAUSE:
+MERCEDEH FARD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 21, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Rommel G. Masse, Deputy Judge
+DATE OF JUDGMENT:
+April 11, 2022
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Adrian Zita-Bennett
+Acinkoj Magok
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

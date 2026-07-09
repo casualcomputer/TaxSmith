@@ -1,0 +1,155 @@
+---
+title: "Yassa v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26830/index.do"
+last_modified: "2004-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 354"
+citation2: ""
+neutral_citation: "2004 CCI 354"
+decision_date: "2004-05-20"
+language: "fr"
+item_id: "26830"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 701
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:26:22.157000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "da5596648ea5361b61fff783ad9beb6359862e36d50cc2b09528e3be796aefd8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Yassa v. M.N.R.
+
+- Citation: 2004 CCI 354
+- Decision date: 2004-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 701, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yassa v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-20
+Référence neutre
+2004 CCI 354
+Numéro de dossier
+2003-3029(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-3029(EI)
+ENTRE :
+MICHAEL YASSA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 février 2004 à Montréal (Québec)
+Devant : L'honorable juge suppléant S. J. Savoie
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée, conformément aux motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick) ce 20e jour de mai 2004.
+« S. J. Savoie »
+Juge suppléant Savoie
+Traduction certifiée conforme
+ce 29e jour de juillet 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2004CCI354
+Date : 20040520
+Dossier : 2003-3029(EI)
+ENTRE :
+MICHAEL YASSA,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Le présent appel a été entendu à Montréal, au Québec, le 24 février2004.
+[2] Il s'agit d'un appel interjeté à l'encontre de la décision du ministre du Revenu national (le « ministre » ) selon laquelle l'appelant était employé par 9051-4688 Quebec Inc. (la « payeuse » ) au cours de la période allant du 4 juin 2001 au 7 janvier 2002, pendant 350 heures assurables et pour une rémunération assurable s'élevant à 4 050 $.
+[3] Pour prendre sa décision, le ministre s'est fondé sur les hypothèses de fait suivantes :
+a) la payeuse a été constituée en personne morale le 13 juin 1997; (écarté)
+b) la payeuse exploitait une entreprise d'entreposage ainsi qu'une entreprise de lavage de remorques et de camions; (admis)
+c) la payeuse opérait sous les dénominations sociales de « J.A.M. Warehousing » et de « Sunshine Trailers & Truck Wash » ; (admis)
+d) l'appelant a été engagé en qualité de laveur de camions et de concierge; (admis)
+e) les tâches de l'appelant consistaient à sortir les poubelles de l'entrepôt et du bureau de la payeuse, à nettoyer les planchers, à construire des murs de séparation dans l'entrepôt et à laver des camions; (admis);
+f) l'appelant était supervisé par Aurelio Robert Paravano, qui lui donnait des ordres; (admis)
+g) l'appelant travaillait du lundi au vendredi dans les locaux de la payeuse; (admis);
+h) l'appelant recevait une rémunération de 800 $ toutes les deux semaines, sous forme de chèque; (admis)
+i) le 7 mars 2002, l'intimé a demandé à la payeuse de lui fournir les chèques oblitérés des paiements versés à l'appelant pour son travail au cours des années 2001 et 2002; (ignoré)
+j) le 20 mars 2002, la payeuse a présenté cinq chèques émis au nom de l'appelant pour dix semaines de travail; (admis)
+k) suivant la payeuse [sic], l'appelant a reçu 4 050 $ de salaire conformément au tableau suivant :
+chèque no 4 2001-10-05 800 $
+no 7 2001-10-19 800 $
+no 11 2001-11-02 800 $
+no 23 2001-11-27 850 $
+no 27 2001-11-14 800 $
+(admis);
+l) l'appelant n'avait aucune preuve de la rémunération qu'il avait reçue; (admis)
+m) le 1er janvier 2001, le taux du salaire minimum était de 6,90 $ de l'heure; (admis)
+n) la payeuse n'a pas consigné les heures de travail de l'appelant; (nié)
+6. l'appelant a déposé à l'encontre de la payeuse une plainte en recouvrement du salaire sur le fondement de la Partie III du Code canadien du travail. (admis)
+7. Le 9 octobre 2002, Michel Germain, agent des normes du travail, a reçu la plainte de l'appelant à l'encontre de la payeuse et il a condamné cette dernière à verser à l'appelant la somme de 3 677,12 $ moins les retenues légales.
+8. Voici les détails de la somme de 3 677,12 $ :
+440,00 $ de salaire pour 55 heures de travail non-payées;
+680,00 $ de rémunération de sept jours fériés;
+1 188,00 $ de prime pour heures supplémentaires;
+800,00 $ en guise d'avis de cessation d'emploi;
+569,12 $ d'indemnité de vacances;
+(admis).
+[4] L'appelant a témoigné qu'il a travaillé pour la payeuse à partir du 4 juin 2001 jusqu'au 7 janvier 2002. Il se plaint que la payeuse n'a reconnu que 350 heures de son travail. Il a déposé avoir été payé au moyen d'un chèque pour lequel il devait signer et qu'on lui donnait une photocopie de chaque chèque de paie qu'il n'a jamais conservée. C'est là une faiblesse de la cause de l'appelant, qui découle de l'insuffisance de sa documentation.
+[5] L'appelant a nié l'hypothèse du ministre que la payeuse n'a pas consigné ses heures de travail. Cependant, il n'a pas été capable d'en démontrer la fausseté et par conséquent il a été incapable de s'acquitter du fardeau de la preuve qui pesait sur lui.
+[6] La preuve démontre que l'appelant a déposé certaines demandes auprès de la Banque nationale du Canada pour demander des documents à l'appui de sa réclamation. À l'audience, la Cour lui a accordé une prorogation du délai pour lui donner le temps de recueillir les pièces justificatives en question, pièces qui ont été déposées par la suite. Malheureusement, les données contenues dans lesdites pièces sont si vagues, floues et incomplètes, qu'elles ne peuvent renforcer la position de l'appelant.
+[7] Cependant, pour rendre sa décision, le ministre a tenu compte des gains de l'appelant documentés par les chèques fournis par la payeuse, au montant total de 4 050 $, ainsi que des conclusions de Michel Germain, l'agent des normes du travail et de Développement des ressources humaines Canada (DRHC) qui a fait enquête sur la plainte déposée par l'appelant contre la payeuse. M. Germain a conclu que la payeuse devait à l'appelant un montant supplémentaire de 3 677,12 $ et exigé ce paiement pour le compte de l'appelant. La preuve démontre que, ni DRHC, ni l'appelant, n'ont réussi à recouvrer la dette de la payeuse.
+[8] Le ministre fait valoir que certaines retenues légales doivent être soustraites de la demande de 3 677,12 $, notamment la prime d'heures supplémentaires au montant de 1 188 $ et la somme qui aurait dû être payée en guise d'avis de cessation d'emploi, c'est-à-dire 800 $. La conclusion du ministre à cet égard est bien fondée. Dans le Règlement sur la rémunération assurable et la perception des cotisations on trouve les dispositions suivantes :
+2.(1) Pour l'application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l'application du présent règlement, le total de la rémunération d'un assuré provenant de tout emploi assurable correspond à l'ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l'assuré reçoit ou dont il bénéficie et qui lui est versé par l'employeur à l'égard de cet emploi;
+[...]
+(2) Pour l'application de la présente partie, le total de la rémunération d'un assuré provenant d'un emploi assurable comprend la partie impayée de cette rémunération qui n'a pas été versée à cause de la faillite de l'employeur, de sa mise sous séquestre effective ou imminente ou d'un non-paiement de rétribution à l'égard duquel l'assuré a déposé une plainte auprès de l'organisme fédéral ou provincial de main-d'oeuvre. Est exclu du total de la rémunération tout montant impayé qui se rapporte au temps supplémentaire ou qui aurait été versé en raison de la cessation de l'emploi. (Je souligne.)
+[9] En bref, la rémunération assurable de l'appelant s'élève donc à 4 050 $.
+[10] Il a aussi été relativement difficile d'établir le nombre d'heures assurables accumulées par l'appelant pour la période en cause. Par conséquent, le ministre a suivi les directives énoncées dans les dispositions habilitantes du Règlement sur l'assurance-emploi en la matière. Voici les articles pertinents :
+9.2 Sous réserve de l'article 10, lorsque la totalité ou une partie de la rémunération d'une personne pour une période d'emploi assurable n'a pas été versée pour les raisons visées au paragraphe 2(2) du Règlement sur la rémunération assurable et la perception des cotisations, la personne est réputée avoir exercé un emploi assurable pendant le nombre d'heures qu'elle a effectivement travaillées durant cette période, qu'elle ait été ou non rétribuée.
+[...]
+10.(4) Sauf dans les cas où le paragraphe (1) et l'article 9.1 s'appliquent, lorsque l'employeur ne peut établir avec certitude ni ne connaît le nombre réel d'heures d'emploi assurable accumulées par une personne pendant sa période d'emploi, la personne est réputée, sous réserve du paragraphe (5), avoir travaillé au cours de la période d'emploi le nombre d'heures d'emploi assurable obtenu par division de la rémunération totale pour cette période par le salaire minimum, en vigueur au 1er janvier de l'année dans laquelle la rémunération était payable, dans la province où le travail a été accompli.
+[...]
+(5) En l'absence de preuve des heures travaillées en temps supplémentaire ou en surplus de l'horaire régulier, le nombre maximum d'heures d'emploi assurable qu'une personne est réputée avoir travaillées d'après le calcul prévu au paragraphe (4) est de 7 heures par jour sans dépasser 35 heures par semaine
+[11] Le ministre a donc calculé à 350 le nombre d'heures assurables, en conformité avec le Règlement.
+[12] Sur le fondement de la preuve présentée devant la Cour et sur le fondement du Règlement sur lequel le ministre s'est basé pour prendre sa décision, en l'absence d'information à l'appui de la plainte de l'appelant, la Cour statue que l'appelant n'a pas réussi à démontrer la nécessité que le tribunal renverse la décision du ministre.
+[13] La décision du ministre est bien fondée en fait et en droit. L'appel est rejeté et la décision du ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick) ce 20e jour de mai 2004.
+« S. J. Savoie »
+Juge suppléant Savoie
+Traduction certifiée conforme
+ce 29e jour de juillet 2004.
+Ingrid B. Miranda, traductrice

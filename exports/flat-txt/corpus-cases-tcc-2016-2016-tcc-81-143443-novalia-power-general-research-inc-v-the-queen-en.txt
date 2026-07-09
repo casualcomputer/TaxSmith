@@ -1,0 +1,224 @@
+Title: Novalia Power General Research Inc v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/143443/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-81-143443-novalia-power-general-research-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-04-08
+
+# Novalia Power General Research Inc v. The Queen
+
+- Citation: 2016 TCC 81
+- Decision date: 2016-04-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3114, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Novalia Power General Research Inc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-04-08
+Neutral citation
+2016 TCC 81
+File numbers
+2014-679(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014‑679(IT)I
+BETWEEN:
+NOVALIA POWER GENERAL RESEARCH INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[ENGLISH TRANSLATION]
+Appeal heard on April 27 and August 21, 2015, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Normand Beaudoin
+Counsel for the Respondent:
+Anne‑Marie Boutin
+JUDGMENT
+The appeal from the assessment made by the Minister of National Revenue in accordance with the Income Tax Act, dated September 27, 2013, with respect to the 2011 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of April 2016.
+‟Réal Favreau”
+Favreau J.
+Citation: 2016 TCC 81
+Date: 20160408
+Docket: 2014‑679(IT)I
+BETWEEN:
+NOVALIA POWER GENERAL RESEARCH INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal subject to the rules for an informal procedure that apply under the Tax Court of Canada Act. It is an appeal from the assessment issued by the Minister of National Revenue (the Minister) under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the Act), dated September 27, 2013, for the 2011 taxation year.
+[2] Based on the assessment dated September 27, 2011, the Minister denied the $32,000 claimed as a scientific research and experimental development (SR&ED) tax credit, and the $11,375 claimed as an investment tax credit (ITC).
+[3] The Appellant submitted an SR&ED project and claimed the following amounts for the taxation year ending on October 31, 2011:
+T661 Scientific Research and Experimental Development (SR&ED) Expenditures Claim
+Amounts claimed by the Appellant
+Project no. 1 – Turbine energy windmill
+Total of current SR&ED expenditures
+$32,000
+Plus: Proxy amount
+$12,501
+Less: Government or non‑government assistance and contract payments: for current expenditures: provincial government assistance
+($12,000)
+Total SR&ED expenditures that qualify for investment tax credits (ITCs)
+$32,501
+ITC (35% of the total qualified SR&ED expenditures)
+$11,375
+[4] The assessment of September 27, 2013, reflects the Minister’s decision to grant the Appellant $32,000 as business expenditures, rather than qualified SR&ED expenditures for the calculation of the ITC, as claimed by the Appellant in its 2011 income tax return. The Minister determined that the research project undertaken by the Appellant did not meet the definition of SR&ED within the meaning of subsection 248(1) of the Act.
+[5] By reassessing the Appellant’s tax payable for the 2011 taxation year, the Minister made the following assumptions of fact, listed in subsection 11 of the Reply to the Amended Notice of Appeal:
+a) [translation]
+The Appellant works primarily in the sale and development of new mechanical concepts for manufacturers or prospective license buyers;
+b) The Appellant operated under the name Les Moteurs Novalia 2000 Inc. until March 15, 2011;
+c) The Appellant is a ‟Canadian‑controlled private corporation” under the Act;
+d) The Appellant’s fiscal year ended on October 31 of each year;
+e) For the 2011 taxation year, the Appellant chose the proxy method set out in clause 37(8)(a)(ii)(B) of the Act to calculate its SR&ED expenditures and its ITCs;
+f) Normand Beaudoin is the president and sole shareholder for the Appellant;
+g) Normand Beaudoin has a doctoral degree in music;
+h) Normand Beaudoin filed a patent application entitled ‟Hydraulic wings and wind power stations” on June 28, 2004 (CA 2472130); however, the patent was not issued until April 24, 2013;
+i) Normand Beaudoin filed a patent application for a ‟Turbine energy windmill” on August 19, 2011 (CA 2750048); however, the patent was not issued until April 24, 2013;
+j) With respect to project no. 1, entitled ‟Turbine energy windmill” (project no. 1):
+i) The goal was to increase turbine windmill power and make all of its components ergonomically cost‑effective with the following features:
+A. Less cumbersome;
+B.Blade width will be equal to that of its extremities, which will increase wind surface area;
+C.Blades will exert a positive force that will be evenly distributed amongst all components.
+ii) The Appellant submitted secondary objectives for potential commercial applications (vacuums, propellers/pumps), without demonstrating any related activities;
+iii) The Appellant evaluated existing wind power concepts and devised a drive engine with pulleys and rectangular blades, without taking into account any concepts related to fluid dynamics, modelling, natural phenomena or laws that could enter into play.
+iv) The technology base or level for project no. 1 can be compared to that of wind turbines, which are a cross between a windmill and a turbine;
+v) The Appellant indicates that it would like to increase wind turbine power in an ergonomically cost‑effective manner, but does not list or describe the parameters in question;
+vi) The Appellant did not define, from the outset, the performance indicators or measures to be carried out to meet its primary objective. These measures are a standard part of a systematic investigation process;
+vii) The Appellant evaluated existing wind turbine concepts;
+viii) The Appellant developed a mechanism (pulleys and rectangular blades, belts) to interest future investors, but failed to create models or take validation measures, natural phenomena or laws into account that could enter into play (fluid dynamics, among other things).
+ix) The Appellant presented real‑time calculations prepared by a third party comparing a rectangular turbine to a circular turbine; however, these were not corroborated, were based on static conditions and did not include actual dynamic parameters;
+x) The calculations submitted by the Appellant (prepared by a third party with no corroboration) present a theoretical efficiency of 240% with no scientific basis or corroboration over time;
+xi) The Appellant constructed a mechanism (bicycle base / blades / parallel belts / fittings with criss‑cross supports) based on current engineering practices;
+xii) The Appellant’s mechanism creates mechanical friction that reduces the efficiency rating of 240%;
+xiii) The Appellant tested the mechanism (vertical and horizontal positions) and experienced issues with it that reduced the efficiency rating of 240%;
+xiv) The Appellant did not purchase any materials for project no. 1, even though it indicated that it had tested the mechanism;
+xv) The Appellant tests its mechanisms using a trial and error system;
+xvi) The Appellant’s work involved a pre‑feasibility study for a potential project and did not explore beyond current practices;
+xvii) Project no. 1 was submitted as experimental development, even though the Appellant had previously called it a [translation] ‟basic concept”;
+xviii) The Appellant did not demonstrate that project no. 1 constitutes a [translation] ‟basic concept”;
+xix) There was no hypothesis related to a wind turbine mechanism for project no. 1;
+xx) Project no. 1 did not validate a hypothesis related to a wind turbine mechanism based on a systematic investigation process (experimentation or analysis leading to the formulation of a logical conclusion);
+xxi) The Appellant did not incorporate into project no. 1 any characteristics or features that were innovative or difficult to access in standard practice;
+xxii) The Appellant did not prepare or clearly identify any data that could have advanced the understanding of scientific relations or technology by overcoming scientific or technological uncertainty, nor did the results it obtained.
+[6] Based on the Appellant’s unaudited financial statements for the fiscal year ending on October 31, 2011, the $32,000 claimed as SR&ED expenditures represents salary paid to Normand Beaudoin. No amounts were claimed as SR&ED expenditures for the cost of materials used to build prototype devices for demonstration purposes. Based on the information provided by Mr. Beaudoin, the salary in question was for time dedicated to preparatory research for the invention, manufacturing prototypes, evaluating the possible variants to produce patentable intellectual property with as many applications as possible, and preparing the patent application.
+[7] Mr. Beaudoin is reproaching the Canada Revenue Agency (the ‟CRA”) and the CRA’s scientific advisor, Micheline Bétournay, for having botched the analysis of his claim for three reasons: no reviewers came to his workshop to observe the work performed, the reviewer did not watch either of the two videos showing the development of the prototypes and, as a result, no observations were made on the various blade bracket assemblies developed. Furthermore, the CRA reviewer who sent a draft assessment to Mr. Beaudoin at his residence on January 15, 2013, and to whom Mr. Beaudoin showed his wind turbine prototype, which had been stored for winter, told the CRA’s lead reviewer that the wind turbine had been ‟dismantled,” which Mr. Beaudoin formally denies.
+[8] Philippe Dufresne, reviewer at the CRA, testified at the hearing and confirmed that he had gone to Mr. Beaudoin’s residence and seen the device crushed under the weight of the snow. He could not confirm whether the wind turbine had been stored under a temporary shelter. He did not visit Mr. Beaudoin’s workshop at the time because there was too much snow.
+[9] Micheline Bétournay, Research and Technology Advisor with the CRA, testified at the hearing, and her SR&ED Review Report dated December 6, 2012, was submitted into evidence. To prepare her report, Ms. Bétournay examined the documents submitted by the Appellant following a request for additional information dated August 1, 2012, which included:
+sketches (including applications for related and unrelated patents for wind turbines);
+calculations relating to a triangular blade that did not show the basis for the calculations;
+a document that seems to be a patent application dated June 20, 2012, related to the following: [translation] ‟How to build a machine that converts fluid energy into mechanical energy, or conversely, mechanical energy into fluid energy (for use in wind/water current turbines, wet/dry vacuums, air/water pumps)”;
+a video showing a non‑autonomous mechanism made up of multiple square blades attached to a belt on pulleys, some of which rotated in the direction of the fluid, and others in the opposite direction.
+[10] The reviewer’s conclusions are as follows:
+[translation]
+All of the activities/work described and claimed as part of project no. 1 involve a series of concepts for numerous potential applications, the scientific and technological uncertainty of which was not demonstrated. There is not enough admissible documentation. …
+The Appellant did not perform a systematic investigation in a field of technology by means of experiment to resolve technological uncertainty. It did not incorporate into the product any features or capabilities that were unknown or not openly available in standard practice.
+[11] Ms. Bétournay confirmed that Mr. Beaudoin had invited her to visit his workshop and see his prototypes. She declined his invitation because she did not find it necessary to do so to evaluate the project.
+[12] Following Ms. Bétournay’s report, Mr. Beaudoin submitted additional information on January 15 and 16, February 14 and April 16, 2013. He also requested a meeting at the CRA offices, which was held on January 18, 2013. The meeting was attended by Normand Beaudoin, Omer Descostes, one of Mr. Beaudoin’s financial advisors, Philippe Dufresne, financial reviewer at the CRA, Cédric Durban, Research and Technology Manager at the CRA (and Ms. Bétournay’s supervisor) and Micheline Bétournay.
+[13] Based on the additional information submitted by Mr. Beaudoin following the CRA’s first report, the primary objective of the project was to use new kinetic advancements to:
+increase conventional wind turbine power;
+improve conventional wind turbine design; and
+reduce the unwieldiness of conventional wind turbines.
+[14] The secondary objectives of the project were to identify:
+variations in lateral fluid input during the main process;
+the main types of fluid movement through the machines;
+devices that could use these techniques in fluid propulsion mode (wind and water current turbines);
+devices that can use these techniques in fluid propulsion mode (vacuums/propellers/pumps).
+[15] Based on the information provided by Mr. Beaudoin, the research project began in 2010 and was to be completed by the end of 2011. The summary of the work performed in 2011 included an evaluation of existing wind turbine concepts, and the development of a prototype for demonstration purposes (not intended for use) with rectangular pulleys and blades (with no material expenditures).
+[16] Based on Mr. Beaudoin’s submissions and the additional information he provided, Ms. Bétournay prepared an addendum to her report on April 24, 2013. She retained her opinion that the Appellant did not resolve any technological uncertainty by performing a systematic investigation in a field of technology. In her opinion, the Appellant tests its mechanisms using a trial and error system. She noted no concepts related to fluid dynamics, and no models, or natural phenomena or laws that could enter into play. The various percentages indicated by Mr. Beaudoin have no scientific basis and were not corroborated.
+[17] After receiving the addendum to Ms. Bétournay’s report, Mr. Beaudoin made submissions to Cédric Durban, Research and Technology Manager at the Laval Tax Services Office (CRA). He testified at the hearing and confirmed that he had upheld Ms. Bétournay’s opinion in a letter dated September 9, 2013, addressed to Mr. Beaudoin and the Appellant. The conclusions are clearly expressed in the last three paragraphs of the letter:
+[translation]
+In summary, the project and the activities claimed do not meet the requirements of the SR&ED program for the following reasons: they do not sufficiently account for the existing wind energy conversion technological knowledge base, they fail to convincingly demonstrate any potential technological advancements and there are no indicators or measures that validate the existence of a systematic investigation.
+Moreover, even if the project qualified as an SR&ED project, it has been demonstrated that some of the work claimed is, by all indications, standard practice.
+Upon reviewing your submissions, we find no elements that could enable us to change the conclusions of the RTA’s review. The conclusions of our review therefore remain unchanged: the project presented does not meet the definition of SR&ED in subsection 248(1) of the Income Tax Act.
+[18] To prepare for the appeal hearing, the Department of Justice mandated Hocina Haine of the CRA, in his capacity as an expert, to examine the Appellant’s work and determine whether its activities were designed to make technological advancements in wind power generation. Mr. Haine signed his report on March 11, 2015. It concludes as follows:
+[translation]
+Mr. Beaudoin has stated and explained that his goal in carrying out the project was to improve wind turbine performance, such that his concept could significantly increase their power. He based it on ideas that, to my knowledge, have no basis in the discipline that normally deals with the mechanical component of this technology (fluid mechanics and, specifically, aerodynamics). He did not perform any research to identify performance indicators on which he would base his work and that could have helped to determine whether his project’s objectives were achievable. Technological advancement cannot be measured on this basis.
+Mr. Beaudoin built a device and tried to operate it by focusing his efforts solely on its technical feasibility. That is not the research objective indicated in the application (Form T661 SR&ED Expenditures Claim). According to the application, the intended advancement was for the device to considerably improve wind turbine power. None of the activities (experiments or analyses) demonstrated whether or not this objective was achieved. When it is a question of aerodynamics, which is the case with wind turbines, standard experimentation can only be performed in a wind tunnel (more controlled environment). If Mr. Beaudoin could only demonstrate the validity of his idea through visual effects, we would expect to see two devices (one conventional and one based on the new concept) tested under the same conditions to be able to observe the difference. In the end, we do not know what the device was used for other than to move air, as all other wind turbines do, only in a more complicated manner. Moreover, no mathematical models of the natural phenomena at play were created.
+In conclusion, I am of the opinion that the goal of the work performed was not to resolve any scientific or technological uncertainty. Rather, it illustrated an idea that was based on an erroneous understanding of the phenomena that characterize wind turbine movement. Mr. Beaudoin’s explanations did not help me to understand how the device he built could lead to any kind of advancement in wind turbine power or increase in the knowledge of the technology in question. Mr. Beaudoin may have had a few good ideas for the design and construction of the device itself (presented in the video); however, that is not enough to demonstrate the scientific or technological advancement he claims in his application.
+[19] Mr. Beaudoin did not contest Mr. Haine’s status as an expert, but naturally disagreed with the conclusions of the report. In his opinion, the quality of the report cannot be relied upon because Mr. Haine refused to consider previous machines or wind turbines constructed later and, thereby, the general scientific advancement, by focusing solely on the specific technology, the scientific basis of which he called into question. Mr. Beaudoin’s theory on the scientific advancement is as follows:
+[translation]
+It is not the drive wheels or the belts that provide the scientific basis for the advancement; rather, it is the fact that the drive wheels increase rotation speed and that the belts play a key role similar to the effect of the connecting rod in a piston engine or a counter‑rotational cylinder in a turbine engine, which free the blades from strict axis rotation, and synchronizes them with the fluid flow.
+[20] According to Mr. Beaudoin, the advantage to synchronizing the blades with the fluid flow is that it reduces the machines’ loss of efficiency because their rotational motion is unitary and too slow, making the connecting rod less effective. The belts’ recovery of the connecting rod’s power helps the blades to mimic the fluid flow, thereby increasing their mechanical efficiency. Mr. Beaudoin’s work involved the development of new technological procedures to increase rotational motion.
+Applicable legislation provisions and analysis
+[21] The definition of ‟scientific research and experimental development” can be found in subsection 248(1) of the Act. In the version applicable to the 2011 taxation year, the definition reads as follows:
+scientific research and experimental development means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+e) market research or sales promotion,
+f) quality control or routine testing of materials, devices, products or processes,
+g) research in the social sciences or the humanities,
+h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+j) style changes, or
+k) routine data collection;
+[22] To obtain ITCs, the Appellant must demonstrate that it has made qualified expenditures within the meaning of subsection 127(9) of the Act. In this case, the expenditures simply involve salary paid to Mr. Beaudoin.
+[23] In paragraph 16 of Northwest Hydraulic Consultants Ltd. v. The Queen, 98 DTC 1839, Bowman J. described the steps to take to determine whether the research activities described constitute SR&ED:
+. . .
+1. Is there a technical risk or uncertainty?
+. . .
+2. Did the person claiming to be doing SRED formulate hypotheses specifically aimed at reducing or eliminating that technological uncertainty? This involves a five stage process:
+(a) the observation of the subject matter of the problem;
+(b) the formulation of a clear objective;
+(c) the identification and articulation of the technological uncertainty;
+(d) the formulation of an hypothesis or hypotheses designed to reduce or eliminate the uncertainty;
+(e) the methodical and systematic testing of the hypotheses.
+. . .
+3. Did the procedures adopted accord with established and objective principles of scientific method, characterized by trained and systematic observation, measurement and experiment, and the formulation, testing and modification of hypotheses?
+. . .
+4. Did the process result in a technological advance, that is to say an advancement in the general understanding?
+. . .
+5. Although the Income Tax Act and the Regulations do not say so explicitly, it seems self‑evident that a detailed record of the hypotheses, tests and results be kept, and that it be kept as the work progresses.
+[24] Unfortunately for the Appellant and for Mr. Beaudoin, I do not find that the work performed as part of the ‟Turbine energy windmill” project can be qualified as SR&ED activities.
+[25] It is important to reiterate here that the Appellant’s research project has been examined by three CRA scientists, one of whom is considered an expert, and that Mr. Beaudoin has had many opportunities to explain his point of view and convince them that his research activities meet the requirements of the Act. Moreover, the Appellant’s research project has been examined as an [translation] ‟Experimental development project for the improvement of existing product applications,” given that the issue of the existence of technological uncertainties has been addressed from the standpoint of both basic and applied research for the advancement of scientific knowledge that does not necessarily require technological uncertainties. According to the CRA’s scientists, the Appellant’s research project never reached the SR&ED stage because it simply involves a concept illustrated by drawings and demonstrated using an extremely rudimentary prototype, at least in the 2011 version of the project.
+[26] If we apply the criteria set out by Bowman J. in Northwest Hydraulic Consultants Ltd. v. The Queen, cited above, to determine whether the Appellant’s research activities qualify as SR&ED, it is clear that none of the five criteria therein are met in this case. There is a lack of both uncertainty and technological advancement; no clear hypothesis was formulated or technological investigation performed as part of the scientific method used; and, lastly, the hypotheses, tests performed and results obtained were not properly recorded as the project progressed.
+[27] In conclusion, the work performed by the Appellant does not constitute SR&ED within the meaning of subsection 248(1) of the Act, and the Minister was right to reject the amounts claimed by the Appellant as SR&ED expenditures and those claimed as ITCs.
+[28] For all of these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 8th day of April 2016.
+‟Réal Favreau”
+Favreau J.
+CITATION:
+2016 TCC 81
+COURT FILE NO.:
+2014‑679(IT)I
+STYLE OF CAUSE:
+Novalia Power General Research Inc. v. Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+April 27 and August 21, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+April 8, 2016
+APPEARANCES:
+Agent for the Appellant:
+Normand Beaudoin
+Counsel for the Respondent:
+Anne‑Marie Boutin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

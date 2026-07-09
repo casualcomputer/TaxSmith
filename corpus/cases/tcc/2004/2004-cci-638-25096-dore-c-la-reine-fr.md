@@ -1,0 +1,141 @@
+---
+title: "Dore c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25096/index.do"
+last_modified: "2004-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 638"
+citation2: ""
+neutral_citation: "2004 CCI 638"
+decision_date: "2004-10-15"
+language: "fr"
+item_id: "25096"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2505
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:56:19.632000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "52f30ccd21f37b01129a012d36a257362f2bb9f61b8302f45d9b22cec5cfa468"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dore c. La Reine
+
+- Citation: 2004 CCI 638
+- Decision date: 2004-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2505, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dore c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-15
+Référence neutre
+2004 CCI 638
+Numéro de dossier
+2004-277(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI638
+Date : 20041015
+Dossier : 2004-277(IT)I
+2004-278(IT)I
+ENTRE :
+LINDA DORE et ROGER J. DORE,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANCAISE OFFICIELLE]
+Représentante des appelants : Linda Dore
+Représentante de l'intimée : Katy Grist (étudiante en droit)
+_______________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à
+Vancouver (Colombie-Britannique), le 16 juillet 2004)
+Le juge Bowie
+[1] En 1998, en 1999 et en 2000, Roger et Linda Dore exploitaient une entreprise (une société de personnes dont ils étaient chacun partenaire pour moitié) à partir de leur maison. Ils vendaient des articles de ménage Watkins en vente directe, et ils louaient certains équipements, comme des laveuses à pression, à ceux qui n'en avaient pas souvent besoin et qui ne voulaient pas en acheter. Les appels concernent le calcul des pertes de l'entreprise pour chacune des trois années. Les montants en litige sont présentés dans sept annexes qui sont jointes aux réponses du ministre. Je propose de traiter les éléments qui ont été refusés à la société de personnes. Les revenus de chaque appelant seront touchés jusqu'à concurrence de 50 % des rajustements à faire.
+[2] Le seul désaccord concernant les revenus survient en 1998, année où la dernière nouvelle cotisation avait ajouté 117,86 $ aux revenus déclarés. Les appelants ont le droit de faire soustraire ce montant de leurs revenus en fonction des éléments de preuve fournis par Mme Dore. On ne m'a pas donné d'explications concernant la raison du changement effectué. Les appelants ont également droit d'obtenir gain de cause en ce qui a trait au montant de 2,78 $ d'inventaire. Mme Dore a affirmé qu'ils avaient fait un dénombrement de l'inventaire, et tout me porte à croire qu'il a été effectué correctement, alors 120,64 $ sont soustraits des revenus.
+[3] Sept éléments de dépenses sont en litige en ce qui a trait au calcul pour l'année 1998. Ils représentent tous des dépenses qui ont été refusées en partie par la répartitrice. De plus, au départ, il y avait un différend concernant la déduction pour amortissement telle qu'elle avait été rajustée par la répartitrice. Cependant, au cours de l'audience, Mme Dore a convenu d'accepter le calcul de la déduction pour amortissement effectué par le ministre.
+[4] Je vais maintenant examiner les éléments de dépenses. Le premier élément est un montant de 152,93 $ qui concerne la publicité et la promotion et qui a été refusé. La dépense représente essentiellement des articles d'épicerie achetés pour des soupers auxquels étaient invités des clients potentiels, ainsi que d'autres petits articles. Les dépenses incluses dans le montant demandé ne sont pas déraisonnables, et j'estime qu'elles étaient suffisamment liées à l'entreprise pour être déduites en application de l'alinéa 18(1)a) de la Loi. Donc, une dépense additionnelle de 152,93 $ est acceptée sous cette rubrique.
+[5] Ensuite, des frais de bureau de 194,67 $ ont été refusés. Les éléments de preuve fournis par Mme Dore ont réussi à me convaincre que ces dépenses étaient toutes raisonnables et liées à l'entreprise, à l'exception d'un montant de 45,01 $ que les appelants ont dépensé pour faire recouvrir leurs chaises de cuisine. Selon mon évaluation des preuves, il s'agissait ici d'une dépense qui relève davantage de besoins personnels que des besoins de l'entreprise. Donc, sous la rubrique « frais de bureau » , les appelants ont droit à 149,66 $ additionnels.
+[6] Le troisième élément en litige est les salaires que les appelants payaient à leurs enfants et qui, selon ce que j'ai cru comprendre, ont été refusés en fonction du critère du caractère raisonnable présenté à l'article 67. Les enfants des appelants sont un garçon de 12 ans et une fille de 7 ans (plus précisément, c'était l'âge qu'ils avaient au cours de la période visée). Les appelants payaient 25 $ par mois à leur fils et 15 $ par mois à leur fille pour des tâches effectuées dans le but de les aider dans leur entreprise. Il n'y a aucun doute que les montants ont été payés. Les enfants recevaient une allocation de leurs parents avant que l'entreprise soit démarrée, et ils ont continué de recevoir une allocation après la fermeture de l'entreprise. Les montants étaient différentiels, et Mme Dore a décrit les tâches effectuées. Le caractère raisonnable doit être évalué de façon appropriée en fonction du critère établi par le juge Cattanach dans l'affaire Gabco Ltd. v. M.N.R.[1] Dans son jugement, le juge Cattanach a affirmé que pour qu'une dépense soit refusée comme étant déraisonnable, elle devait être telle qu'aucune personne d'affaires raisonnable n'aurait accepté de payer le montant pour le travail effectué ou les services rendus, n'ayant que le bien de l'entreprise en tête. Les montants en jeu ici sont mineurs. Le fils reçoit un montant considérablement plus élevé que la fille parce que ses tâches sont considérablement plus grandes que celles de la fille. Bien que les enfants ne consignaient pas leur temps, j'estime que la rémunération est raisonnablement proportionnée aux tâches qu'ils effectuaient pour la gagner. Un montant additionnel de dépenses de 240 $ est donc admis sous la rubrique des salaires.
+[7] Le quatrième élément pour 1998 est un montant de 129,96 $ prétendument déduit pour un voyage effectué par les appelants et leurs deux enfants de leur maison à Vancouver à la vallée de l'Okanagan. Selon ce qu'on ma dit, le montant déduit représente les montants payés pour les péages autoroutiers et les frais de terrains de camping. Mme Dore a affirmé que le voyage était lié à l'entreprise, plus particulièrement, il avait pour but de promouvoir l'entreprise et de recruter deux personnes précises comme représentants une fois arrivés à destination. Je ne suis pas convaincu que le but principal ou même secondaire du voyage était lié à l'entreprise. Le voyage, selon la description qu'en a fait l'appelante, semble plus être un voyage familial qu'un voyage d'affaires. Le montant a donc été refusé à bon droit en fonction de l'alinéa 18(1)h).
+[8] Le cinquième élément concerne un montant de 555,11 $ déduit et refusé pour la formation, les repas et les frais de représentation. De ce montant, une somme de 283 $ représentait une dépense associée à des cours suivis par les appelants pour améliorer leurs compétences, et je pense qu'il est possible de déterminer que les cours avaient un objectif d'affaires légitime, donc la somme doit être admise. Le reste du cinquième élément concerne des montants payés pour des soupers pris par les appelants et leurs deux enfants dans des restaurants locaux. Mme Dore a décrit ces soupers, qui avaient lieu une fois par mois, comme des réunions d'affaires au cours desquelles toute la famille discutait de différentes façons d'améliorer le rendement de l'entreprise. Aussi, pendant ces soupers, ils étalaient sur la table du restaurant des brochures et d'autres documents fournis par la société Watkins. Mme Dore a affirmé que ceci attirait l'attention des autres clients, et même des propriétaires du restaurant, et qu'ils faisaient ainsi de la promotion des produits pendant leurs soupers, ce qui aidait à faire avancer les intérêts de leur entreprise. Je suis conscient de la mise en garde formulée par le juge Iacobucci dans l'affaire Symes c. Canada[2] en ce qui a trait à l'examen détaillé qui doit être effectué dans le cas d'éléments de dépenses qui semblent être de nature très personnelle, et, comme pour les voyages dans la vallée de l'Okanagan, je considère que ces soupers ressemblent davantage à des soupers de famille qu'à des réunions d'affaires. À mon avis, ils ne devraient pas être subventionnés par le fisc, et ils ont été refusés à bon droit comme des dépenses personnelles. Il faut donc ajouter 283 $ de dépenses additionnelles sous la rubrique de la formation, des repas et des frais de représentation.
+[9] Le sixième élément pour 1998 concerne la taxe sur les produits et services (TPS) et la taxe de vente provinciale (TVP) refusées pour des éléments de dépense précis autrement refusés. Dans la mesure où des éléments taxables ont été refusés par la répartitrice, celle-ci a aussi refusé les taxes payées. Également, dans la mesure où les appelants ont gain de cause en ce qui a trait à ces éléments dans leurs appels, ils ont droit à un autre rajustement pour la TPS et la TVP.
+[10] Le septième élément est un montant de 933,09 $ pour des frais afférents à des véhicules à moteur qui avait été refusé pour l'année 1998. Je propose de laisser les frais afférents à des véhicules à moteur pour le moment et d'y revenir plus loin dans mes motifs. Donc, à l'exception de cet élément, les appelants obtiennent gain de cause jusqu'à concurrence de 946,23 $ plus la TPS et la TVP associées aux éléments taxables que j'ai admis.
+[11] Je passe maintenant à l'année d'imposition 1999. Cinq éléments de dépenses, autres que des frais afférents à un véhicule à moteur, ont été refusés pour cette année-là. Le premier est un montant de 52,53 $ pour de la publicité et de la promotion. De ce montant, la somme de 34,09 $ semble avoir été dépensée pour des frais de représentation associés à l'entreprise, et peuvent donc raisonnablement être admis. Ensuite, si j'ai bien compris la preuve fournie par Mme Dore, le reste des dépenses représentent ce qu'elle a qualifié de « réunion du personnel » , et comme pour l'année 1998, ces dépenses ont à bon droit été refusées. Donc, sous la rubrique des frais de représentation, 34,09 $ sont admis.
+[12] Le deuxième élément est une dépense de bureau de 61,15 $ qui a été refusée. Selon ce que j'ai compris de la preuve fournie, cette dépense concernait l'achat d'un pot de peinture, ainsi que 50 % des frais de connexion Internet dans la résidence des appelants. La connexion Internet est le seul accès à Internet de la maison et elle ne se trouvait pas dans une pièce de la maison qui était utilisée comme bureau pour l'entreprise. Mme Dore a affirmé que la connexion Internet était principalement utilisée pour l'entreprise et qu'ils préféraient qu'elle soit à l'extérieur du bureau parce que, si les enfants l'utilisaient, elle serait à un endroit où les enfants peuvent être supervisés. De toute évidence, les appelants en faisaient un usage personnel, mais je ne doute pas qu'elle était aussi utilisée de façon considérable pour l'entreprise. La répartitrice a admis les frais à raison de 50 % d'usage pour l'entreprise et 50 % d'usage personnel, et les preuves n'ont pas réussi à me convaincre que la répartitrice avait tort dans sa détermination. En ce qui a trait au pot de peinture, Mme Dore n'a pas pu dire ce qu'il avait servi à peindre. Il a donc été à bon droit refusé.
+[13] Le troisième élément est les salaires des enfants. Comme pour l'année 1998, je vais les admettre comme des dépenses d'entreprise raisonnables.
+[14] Le quatrième élément est un autre voyage de Vancouver à la vallée de l'Okanagan. Les éléments de preuve présentés par Mme Dore concernant l'objet du voyage n'étaient pas très différents de ceux qu'elle avait présentés à l'appui du voyage de l'année précédente. Le montant de 67,41 $ n'est évidemment qu'une petite partie de ce qui a été dépensé pour le voyage. Selon ce que j'ai compris, il n'y avait pas de raison particulière pour laquelle ce montant a été imputé à l'entreprise, au même titre que les frais afférents à la voiture, et que les autres montants dépensés ne l'ont pas été. Quoi qu'il en soit, je considère que le montant dépensé était de nature personnelle, donc qu'il a été refusé à bon droit.
+[15] Cela m'amène au cinquième élément pour 1999. Il s'agit de la formation, des repas et des frais de représentation, équivalant à 1 301,52 $. La plus grande dépense ici était de 895 $ et concernait un test d'orientation professionnelle passé par Roger Dore. Selon la preuve fournie par Mme Dore, ce test était recommandé par les gens de chez Watkins (comme elle les appelait). De plus, M. Dore a suivi des cours de lecture rapide (qui, selon Mme Dore, l'aideraient à lire les manuels de réparations), ainsi que des cours d'anglais. À mon avis, toutes ces dépenses sont de nature personnelle. Elles n'ont sûrement pas de lien direct avec l'entreprise. Le test et les cours pourraient même aider M. Dore à choisir un autre secteur d'activité ou l'aider dans ses lectures personnelles. Ils pourraient aussi l'aider à améliorer ses compétences en communication, mais le lien avec l'entreprise est ténu, au mieux. Donc, je considère les dépenses comme des dépenses personnelles qui ont été à bon droit refusées.
+[16] Un montant de 120,76 $ de frais de représentation pour des clients est admis à bon droit en tant que dépense d'entreprise, au même titre qu'un montant additionnel de 34,09 $. Donc, le montant additionnel total à admettre dans les dépenses pour 1999, sous réserve de mon examen ultérieur des frais afférents à des véhicules à moteur et des frais de bureau à domicile, est de 634,85 $.
+[17] Pour l'année 2000, trois éléments étaient en litige, sans compter les frais afférents à des véhicules à moteur et les frais de bureau à domicile. Le premier élément était une dépense de 982,27 $. De ce montant, Mme Dore a admis que la somme de 536,12 $ avait été à bon droit refusée. Il reste donc 446,15 $ en litige. Mme Dore a suivi un cours d'informatique qui a coûté 300 $. Elle devait certainement utiliser l'ordinateur pour mener les affaires de l'entreprise, alors je considère la dépense comme étant une dépense d'entreprise légitime. Les autres éléments qui avaient été refusés pour l'année 2000 étaient de nature personnelle et concernaient le perfectionnement professionnel, ou de la formation ou des tests de compétences, ainsi que la moitié des frais de connexion Internet. À mon avis, toutes ces dépenses ont été refusées à bon droit, étant donné qu'elles étaient de nature personnelle. Il y a donc 300 $ qui sont admis.
+[18] Ensuite, il est question d'un montant de 129,62 $ pour des fournitures. Il a été refusé, du moins en partie, en raison de l'absence de reçus. Les fournitures sont tant des articles mineurs que des articles plus importants. Cependant, les preuves fournies par Mme Dore sont suffisantes pour me convaincre que le montant a véritablement été dépensé et que les articles ont servi à des fins d'entreprise légitimes. J'admets donc le montant additionnel de 129,62 $, ce qui donne un total de 429,62 $ à admettre comme dépenses pour l'année 2000. Le troisième élément en litige pour cette année-là représente la TPS et la TVP déboursées.
+[19] Ce qui m'amène aux déductions concernant les frais afférents à des véhicules à moteur. Les appelants utilisaient deux véhicules, tous deux pour leur usage personnel et pour l'entreprise, au cours des trois années en question. Ils avaient besoin des véhicules pour des activités comme rendre visite à des clients, livrer des produits, livrer de l'équipement qu'ils louaient à des clients, et aller chercher l'équipement chez les entreprises de location pour en faire la sous-location à leurs clients. M. Dore utilisait une camionnette pour l'entreprise de location, et il l'utilisait aussi pour se rendre à son travail à temps plein. De son côté, Mme Dore utilisait une fourgonnette pour se rendre à son travail à temps partiel. La fourgonnette était aussi utilisée pour l'entreprise.
+[20] Mme Dore a expliqué qu'au cours des années précédant l'année 1998, ils avaient tenu des registres de kilométrage pour leurs deux véhicules. Semblerait-il que selon des conseils qui leur ont été donnés par quelqu'un, ils ont arrêté de tenir ces registres. Des registres partiels ont été tenus pendant à peu près six mois en 1998 pour la fourgonnette, et pendant une plus courte période pour la camionnette. Pour des raisons dont la logique m'échappe, les appelants ont conclu que, selon leur estimation, 90 % de l'utilisation de la fourgonnette relevait de l'entreprise, et qu'environ 10 % de l'utilisation de la camionnette relevait de l'entreprise, et qu'ils devaient donc déduire 100 % des dépenses liées à la fourgonnette, et aucune des dépenses liées à la camionnette, comme dépenses d'entreprise. De toute évidence, ceci ne représente pas un registre de l'utilisation réelle, mais bien une estimation approximative fondée sur des renseignements partiels. Les gens d'affaires qui utilisent leur véhicule personnel pour des activités d'affaires doivent tenir des registres exacts du kilométrage réel effectué s'ils veulent avoir droit à la déduction de la totalité des coûts associés à l'utilisation de leur véhicule dans le cadre de leurs activités commerciales. Des estimations effectuées à la fin de l'année dans lesquelles on soustrait un montant estimé comme correspondant à l'utilisation personnelle du kilométrage total de l'année sont, justement, seulement des estimations. En général, elles ont tendance à favoriser l'estimateur.
+[21] Je souligne encore ce que le juge Iacobucci a affirmé à ce sujet dans l'affaire Symes, précitée. À mon avis, on a affaire ici à un cas semblable. Un exemple concret serait les voyages dans la vallée de l'Okanagan et les frais afférents à un véhicule à moteur liés à ce voyage qui ont été inclus dans la déduction généralement faite des frais afférents à un véhicule à moteur, et qui auraient gonflé la déduction. La répartitrice a elle aussi effectué une estimation. Elle a fondé son estimation sur les registres qui ont été tenus pendant une partie de l'année 1998 et elle a extrapolé les renseignements qu'elle a pu obtenir de ces registres. Elle a ajouté le pourcentage d'utilisation d'affaires qu'elle a calculé pour la fourgonnette, soit 60 %, et pour la camionnette, soit 11 %, a appliqué ces 71 % aux dépenses déclarées pour la fourgonnette, et a admis le résultat du calcul. Elle a été forcée de faire ce type d'estimation parce qu'elle pouvait seulement se fonder sur les renseignements qui lui ont été fournis, et les renseignements concernant les dépenses réelles pour la camionnette ne lui avaient tout simplement pas été fournis. Selon les éléments de preuve fournis par Mme Dore, la fourgonnette était un véhicule plus dispendieux que la camionnette pour ce qui est de son utilisation. Son coût en capital représentait environ le double de celui de la camionnette. L'erreur flagrante de l'approche utilisée joue en faveur des appelants, à mon sens. Selon moi, l'approche utilisée par la répartitrice était la plus adéquate compte tenu des données qui étaient à sa disposition, et le résultat penche probablement plus en faveur des appelants. Si j'ai bien compris, les dépenses des deux autres années ont été calculées essentiellement avec la même approche. Les appelants ne se sont certainement pas acquittés du fardeau qui leur incombait d'établir que les frais afférents à des véhicules à moteur liés à leur entreprise dépassaient ce qui avait été admis par la répartitrice.
+[22] Quant aux frais de bureau à domicile, la preuve fournie par les appelants démontrait que leur maison avait une surface de 2 600 pieds carrés et qu'une pièce de cette maison, y compris une partie du garage, était utilisée pour l'entreprise. La pièce qui servait de bureau, selon Mme Dore, avait une surface de 150 pieds carrés. Le garage est un garage individuel, et la maison a neuf pièces en tout. Mme Dore soutient que 10 % des dépenses associées à la maison devraient être admis comme frais de bureau à domicile. Elle semblait fonder son argument sur le fait qu'une pièce sur les neuf pièces de la maison était utilisée pour l'entreprise. De son côté, la répartitrice applique le pourcentage de la surface : 150 pieds carrés représentent 5,7 % de 2 600 pieds carrés, qu'elle a arrondi à 6 %. À mon avis, le pourcentage de la surface de la maison est une façon bien plus équitable d'estimer la proportion des dépenses associées à la maison qui doivent être admises en réduction des revenus de l'entreprise lorsqu'une partie de la maison est utilisée pour les activités de l'entreprise. Manifestement, la taille des pièces varie considérablement. Selon moi, les 0,3 % d'écart entre 5,7 % et 6 % représentent de façon adéquate l'utilisation d'environ la moitié du garage pour les activités de l'entreprise.
+[23] Il y avait un différend mineur concernant les frais d'aménagement paysager et d'entretien de la pelouse qui, selon les arguments de Mme Dore, auraient dû être inclus dans l'estimation des frais de bureau à domicile. À mon avis, le lien entre ces frais et l'entreprise est plutôt ténu. Dans la mesure où ils représentent une dépense faisant partie intégrante du total des dépenses pour la maison, leurs répercussions annuelles, une fois ramenées dans les 6 % admis, seraient minimes. Compte tenu que les appelants n'avaient pas le droit, pour les trois années en litige, de déduire toutes les dépenses liées à leur bureau à domicile, mais seulement une partie dont le reste devait être reporté prospectivement aux années suivantes, même si Mme Dore avait réussi à me convaincre qu'elle avait raison en ce qui a trait aux éléments dont il est question dans ce paragraphe-ci, ils n'auraient pas eu d'effet sur les cotisations établies pour les années visées par l'appel.
+[24] En résumé, les appels seront admis et les cotisations seront renvoyées au ministre du Revenu national pour que celui-ci fasse un nouvel examen et qu'il établisse une nouvelle cotisation en fonction du fait que le revenu de la société de personnes sera rajusté comme suit : pour l'année 1998, des dépenses additionnelles de 946,23 $, plus la TPS et la TVP connexes, sont admises; pour l'année 1999, des dépenses additionnelles de 634,85 $, plus la TPS et la TVP connexes, sont admises ; pour l'année 2000, des dépenses additionnelles de 429,62 $, plus la TPS et la TVP connexes, sont admises. Les montants selon lesquels les revenus de chaque appelant seront réduits représenteront bien sûr la moitié des montants indiqués ci-dessus. Il n'est pas adjugé de dépens.
+Signé à Ottawa, Canada, ce 15e jour d'octobre 2004.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 2e jour de mai 2005.
+Hélène Tremblay, traductrice
+RÉFÉRENCE :
+2004CCI638
+No DU DOSSIER DE LA COUR :
+2004-277(IT)I et 2004-278(IT)I
+INTITULÉ DE LA CAUSE :
+Linda Dore et Roger J. Dore et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+15 juillet 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable E.A. Bowie
+DATE DU JUGEMENT :
+19 juillet 2004
+COMPARUTIONS :
+Représentante des appelants :
+Linda Dore
+Représentante de l'intimée :
+Katy Grist (étudiante en droit)
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour les appelants :
+Nom :
+S/O
+Cabinet :
+S/O
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 68 DTC 5210.
+[2] [1993] 4 R.C.S. 695.

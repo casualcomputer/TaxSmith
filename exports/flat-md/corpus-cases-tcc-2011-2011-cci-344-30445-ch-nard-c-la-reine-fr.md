@@ -1,0 +1,162 @@
+---
+title: "Chénard c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30445/index.do"
+last_modified: "2011-07-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 344"
+citation2: ""
+neutral_citation: "2011 CCI 344"
+decision_date: "2011-07-08"
+language: "fr"
+item_id: "30445"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7918
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:44:32.336000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e074bcf457c564a7b6f321aa70751bd99122d57024a31100efb205b6d61df443"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chénard c. La Reine
+
+- Citation: 2011 CCI 344
+- Decision date: 2011-07-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7918, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chénard c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-07-08
+Référence neutre
+2011 CCI 344
+Numéro de dossier
+2011-86(IT)APP
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-86(IT)APP
+ENTRE :
+ALAIN CHÉNARD,
+requérant,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+____________________________________________________________________
+Demande entendue le 6 avril 2011 à Ottawa (Ontario)
+Devant : L’honorable juge B. Paris
+Comparutions :
+Avocat du requérant :
+Me Richard Généreux
+Avocats de l’intimée :
+Me Paul Klippenstein Me Marie‑Eve Aubry
+____________________________________________________________________
+ORDONNANCE
+VU la demande présentée par le requérant en vue d’obtenir une ordonnance prorogeant le délai pour interjeter appel des nouvelles cotisations établies en vertu de
+la Loi de l’impôt sur le revenu pour les années d’imposition 1998, 1999, 2000, 2001, 2002, 2003 et 2004;
+ET VU les documents déposés à l’appui de la demande et les allégations du requérant et de l’avocat de l’intimée;
+LA COUR ORDONNE QUE le délai dans lequel l’appel peut être interjeté soit prolongé jusqu’à la date de la présente ordonnance et que l’avis d’appel accompagnant la demande soit considéré comme un avis d'appel valide.
+Signé à Vancouver, Colombie-Britannique, ce 8e jour de juillet 2011.
+« B.Paris »
+Juge Paris
+Référence : 2011 CCI 344
+Date : 20110708
+Dossier : 2011-86(IT)APP
+ENTRE :
+ALAIN CHÉNARD,
+requérant,
+et
+SA MAJESTÉ
+LA REINE ,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Paris
+[1] Le requérant, M. Alain Chénard, demande une prorogation du délai pour déposer un avis d’appel à l’encontre de nouvelles cotisations établies en vertu de
+la Loi de l’impôt sur le revenu (la « Loi ») à l’égard de ses années d’imposition 1998 à 2004. Les nouvelles cotisations, qui sont datées du 29 juillet 2009, ont été ratifiées par des avis datés du 12 mars 2010, et la présente demande a été déposée le 30 décembre 2010.
+[2] L’intimée s’oppose à la demande au motif que M. Chénard ne remplit pas les conditions énoncées à l’alinéa 167(5)b) de
+la Loi , qui est libellé ainsi :
+167(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) […]
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention d’interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l’appel est raisonnablement fondé.
+La preuve
+[3] En 2008, le requérant a investi 12 500 $ dans un stratagème dont un groupe d’Ottawa dénommé « Financial Advantage » faisait la promotion. Le requérant s’était fait dire par un des promoteurs, M. Philippe Joanisse, que son investissement lui rapporterait 75 000 $ après cinq ans. M. Joanisse a par la suite invité le requérant et certaines autres personnes participant au stratagème à assister à une présentation effectuée par des représentants d’un autre groupe, « Fiscal Arbitrators », de Toronto. M. Joanisse a agi comme interprète lors de la réunion parce que les représentants de Fiscal Arbitrators parlaient seulement anglais alors que le requérant et les autres participants parlaient français.
+[4] Lors de la réunion, les participants se sont fait dire qu’en raison de leur investissement auprès de Financial Advantage, ils pouvaient déduire des pertes fiscales pour les dix années précédant l’année de leur investissement et que, moyennant des frais de 700 $ plus 10 % des remboursements d’impôt obtenus, Fiscal Arbitrators s’occuperait d’établir les déclarations modifiées. Le requérant a déclaré qu’on lui avait dit que l’arrangement était légitime, et il croyait sincèrement que c’était le cas.
+[5] Le requérant a accepté que Fiscal Arbitrators établisse les déclarations de revenus modifiées pour lui et il les a signées et produites à l’Agence du revenu du Canada (l’« ARC ») en novembre 2008. Dans ces déclarations de revenus, le requérant a déduit des pertes commerciales d’environ 50 000 $ par année. Fiscal Arbitrators a demandé que le requérant lui envoie tout document qu’il recevrait de l’ARC concernant les déclarations; il rédigerait alors une réponse et l’enverrait au requérant pour qu’il la signe et l’envoie à l’ARC. Fiscal Arbitrators a également insisté que le requérant communique seulement avec l’ARC par écrit. On lui a également dit de demander à l’ARC qu’elle communique par écrit avec lui en anglais parce que les directeurs de Fiscal Arbitrators ne parlaient pas français. Le requérant quant à lui est francophone, mais il parle un peu l’anglais.
+[6] En réponse aux déclarations modifiées, l’ARC a écrit une lettre au requérant le 11 mars 2009 et lui a demandé de fournir des documents à l’appui des pertes dont il demandait la déduction. Le requérant a remis la lettre à M. Joanisse pour qu’il l’envoie à Fiscal Arbitrators, mais rien ne donne à penser qu’une réponse a été préparée pour le requérant pour que celui‑ci l’envoie à l’ARC.
+[7] L’ARC a envoyé une autre lettre au requérant le 28 mai 2009 dans laquelle elle avisait ce dernier qu’elle n’accorderait pas la déduction des pertes demandée et qu’elle avait l’intention d’imposer des pénalités en vertu du paragraphe 163(2) de
+la Loi à l’égard des pertes déduites. L’ARC lui a donné jusqu’au 26 juin 2009 pour présenter des observations au sujet des pénalités. Le requérant dit qu’il a aussi remis cette lettre à M. Joanisse pour qu’il l’envoie à Fiscal Arbitrators. Encore une fois, il n’existe aucun élément de preuve permettant de penser que Fiscal Arbitrators a préparé une réponse à la lettre pour que le requérant l’envoie à l’ARC. Le requérant dit que, chaque fois qu’il a donné la lettre à M. Joanisse, on lui a dit que Fiscal Arbitrators se chargeait de tout pour lui et qu’il n’était pas inhabituel que l’ARC conteste les déductions.
+[8] Le 8 juillet 2009, l’ARC a informé le requérant par écrit qu’elle imposerait les pénalités proposées et l’a avisé de son droit d’opposition. Les nouvelles cotisations ont été établies le 29 juillet 2009. Le requérant a remis les nouvelles cotisations à M. Joanisse pour qu’il les envoie à Fiscal Arbitrators. Le requérant a reçu de Fiscal Arbitrators un formulaire d’avis d’opposition rempli qu’il a signé et envoyé à l’ARC le 31 août 2009.
+[9] L’ARC a alors envoyé une lettre au requérant le 24 décembre 2009 dans laquelle elle lui demandait de fournir des renseignements supplémentaires à l’appui de son opposition. Le requérant a envoyé la lettre à Fiscal Arbitrators par l’entremise de M. Joanisse. Rien ne permet de penser que Fiscal Arbitrators a préparé quelque réponse que ce soit à cette lettre.
+[10] Le 23 février 2010, l’ARC a envoyé au requérant une lettre de suivi relativement à la demande de renseignements, lequel a transmis la lettre à Fiscal Arbitrators. Fiscal Arbitrators a rédigé une lettre à l’intention de l’ARC qui était prête à recevoir la signature du requérant et la lettre a été envoyée le 2 mars 2010. La lettre ne voulait rien dire et ne donnait aucun nouveau renseignement. Le ministre a ratifié les nouvelles cotisations le 12 mars 2010.
+[11] Vers la fin du mois de septembre, un agent de recouvrement de l’ARC qui cherchait à recouvrer les sommes dues suivant les nouvelles cotisations a communiqué avec le requérant. Ce dernier a donc communiqué avec M. Joanisse pour savoir ce qui se passait. Le requérant alors a appris qu’aucun avis d’appel n’avait été préparé, mais M. Joanisse l’a assuré que Fiscal Arbitrators se chargerait d’en préparer un.
+[12] Le 14 octobre 2010, Fiscal Arbitrators a envoyé au requérant une lettre à l’intention de l’ARC qu’il avait rédigée au sujet de l’année d’imposition 2008 du requérant, lettre que le requérant a signée et envoyée à l’ARC. Il semble que la lettre a été rédigée en réponse à une lettre envoyée par l’ARC au requérant le 4 octobre 2010, mais la lettre n’a pas été déposée en preuve et le requérant n’a pas fourni de détails au sujet de la lettre. Cela montre toutefois qu’à ce moment‑là, le requérant se fiait encore à Fiscal Arbitrators pour la préparation des documents nécessaires relativement à ses affaires fiscales.
+[13] Le requérant a témoigné qu’après avoir reçu l’appel de l’agent de recouvrement de l’ARC, il a commencé à s’interroger au sujet de la façon dont Fiscal Arbitrators s’occupait de son cas. Il a demandé à sa fille, qui travaillait dans un cabinet comptable, de se renseigner auprès du comptable au sujet des lettres qu’il avait reçues de l’ARC. Le comptable a demandé à voir tous les documents, puis a rencontré le requérant vers la fin octobre ou le début novembre 2010 et lui a conseillé de consulter un avocat pour faire la présente demande de prorogation de délai pour déposer un avis d’appel. Il a rencontré un avocat à la fin novembre à Montréal et lui a demandé de déposer la demande, ce qui a été fait le 30 décembre 2010.
+Les observations des parties
+[14] L’avocat du requérant affirme que le requérant remplit toutes les conditions relatives à l’acceptation de la prorogation de délai énoncées à l’alinéa 167(5)b) de
+la Loi. Il soutient que le requérant a démontré qu’il avait l’intention d’interjeter appel des nouvelles cotisations après leur ratification le 12 mars 2010 lorsqu’il a envoyé l’avis de ratification à Fiscal Arbitrators. Il s’attendait à ce que Fiscal Arbitrators prépare les documents nécessaires pour contester les nouvelles cotisations, tout comme il avait rédigé l’avis d’opposition pour lui.
+[15] L’avocat du requérant affirme également que le requérant n’a également pu ni agir ni charger quelqu’un d’agir en son nom parce qu’il croyait que Fiscal Arbitrators s’occupait déjà de l’affaire pour lui.
+[16] L’avocat de l’intimée soutient que le requérant n’a pas présenté la demande dès que les circonstances le permettaient en raison d’un manque de diligence de sa part. L’avocat de l’intimée affirme que le requérant savait depuis le 12 mars 2010 qu’il devait prendre des mesures pour contester les nouvelles cotisations, mais qu’il n’a pas fait de démarches raisonnables pour s’assurer que ces mesures soient prises. Il n’a pas fait de suivi auprès de Fiscal Arbitrators avant septembre 2010 et, même après avoir appris qu’aucun appel n’avait été interjeté, il n’a rien fait pour redresser la situation avant la fin octobre 2010.
+[17] L’avocat de l’intimée soutient également que le requérant n’a pas démontré qu’il avait l’intention d’interjeter appel parce qu’il n’a jamais demandé à Fiscal Arbitrators de préparer les documents nécessaires pour interjeter appel. En outre, il n’a pas démontré qu’il n’avait pu agir à quelque moment que ce soit, et il aurait pu engager quelqu’un d’autre que Fiscal Arbitrators pour agir en son nom.
+[18] L’avocat de l’intimée soutient que, compte tenu de l’ensemble des circonstances, il n’est pas juste et équitable d’accorder la demande de prorogation de délai eu égard aux conditions énoncées à l’alinéa 167(5)b) de
+la Loi.
+La décision
+[19] Compte tenu de l’ensemble de la preuve, je suis convaincu que le requérant avait véritablement l’intention d’interjeter appel des nouvelles cotisations établies à l’égard de ses années d’imposition 1998 à 2004. En envoyant l’avis de ratification à Fiscal Arbitrators, il a démontré qu’il voulait que Fiscal Arbitrators prenne des mesures en vue de contester les pénalités établies. Selon l’entente conclue entre le requérant et Fiscal Arbitrators, ce dernier s’était engagé à préparer les documents que le requérant devrait déposer auprès de l’ARC par suite de la présentation de la demande de modification de ses déclarations de revenus en vue de demander la déduction de pertes. Il existe des éléments de preuve montrant que Fiscal Arbitrators s’était engagé à cet égard envers le requérant. Fiscal Arbitrators a rédigé au moins deux lettres pour le requérant afin que celui‑ci les envoie à l’ARC. Il a également rédigé un avis d’opposition pour que le requérant puisse contester l’imposition des pénalités. Fiscal Arbitrators a rédigé ces documents en réponse à des documents de l’ARC que le requérant lui avait envoyés, et ce sans que le requérant n’en fasse la demande explicite.
+[20] Il est donc raisonnable de conclure que, lorsqu’il a envoyé l’avis de ratification à Fiscal Arbitrators, le requérant voulait que celui‑ci prépare les documents nécessaires pour contester les nouvelles cotisations.
+[21] Comme j’ai conclu que le requérant avait l’intention d’interjeter appel des nouvelles cotisations, il n’est pas nécessaire que je tranche la question de savoir si le requérant n’avait pu ni agir ni charger quelqu’un d’agir en son nom dans le délai imparti pour interjeter appel.
+[22] La question la plus difficile à trancher en l’espèce est celle de savoir si la demande a été présentée dès que les circonstances le permettaient. Ce n’est qu’à la fin septembre 2010 que le requérant a appris qu’aucun appel n’avait été interjeté. À ce moment‑là, il a pris ce que j’estime être des mesures raisonnables pour redresser la situation. Il a tout d’abord communiqué avec M. Joanisse, qui l’a avisé que les documents nécessaires étaient en train d’être préparés. Lorsqu’il a constaté qu’il n’avait pas de nouvelles de Fiscal Arbitrators en octobre, il a demandé à sa fille de faire part de sa situation à son employeur qui était comptable. À partir de ce moment‑là, il a suivi les directives du comptable et a eu recours aux services d’un avocat pour présenter la demande de prorogation de délai.
+[23] Je suis également convaincu qu’avant la fin septembre 2010, il n’était pas déraisonnable que le requérant croie que Fiscal Arbitrators prenait les mesures nécessaires pour la préparation de l’appel des nouvelles cotisations. Fiscal Arbitrators avait préparé un avis d’opposition en temps opportun pour le requérant et il avait également rédigé des lettres pour lui afin qu’il les envoie à l’ARC. Je ne ferai pas de commentaires au sujet de la substance ou de la qualité des observations de Fiscal Arbitrators parce qu’elles ne sont pas en cause dans la présente instance. Je conviens que le requérant avait de la difficulté à comprendre ces observations parce qu’elles ne sont pas rédigées en français et en raison de son niveau d’instruction limité. Ce qui est important pour les besoins de l’espèce c’est que, à la connaissance du requérant, jusqu’à la date de l’envoi de l’avis de ratification Fiscal Arbitrators avait préparé des observations et l’avis d’opposition pour lui. J’accepte le fait qu’il considérait que Fiscal Arbitrators était formé de conseillers fiscaux professionnels et qu’il s’était donc fié à ces conseillers pour qu’ils prennent les mesures nécessaires dans le délai prescrit par
+la Loi. Il est évident qu’il a eu tort de leur faire confiance, mais jusqu’à la fin septembre 2010 ce fait n’était pas clair pour lui. Je suis disposé à accepter que, vu le niveau d’instruction limité du requérant et son manque d’expérience en affaires, jusqu’en octobre 2010 il croyait sincèrement que Fiscal Arbitrators était une entreprise légitime. J’estime également que les tactiques que Fiscal Arbitrators a appliquées pour faire en sorte que toute communication avec l’ARC se fasse en anglais ont eu pour effet d’augmenter le niveau de dépendance du requérant envers Fiscal Arbitrators et de réduire sa capacité de se rendre compte du caractère douteux de ses activités. Compte tenu des circonstances, je conclus que la demande a été présentée dès que les circonstances le permettaient. Je conclus également qu’il serait juste et équitable d’accorder la demande vu les commentaires que j’ai formulés ci‑dessus et vu le montant important des pénalités en cause.
+Signé à Vancouver, Colombie-britannique, ce 8e jour de juillet 2011.
+« B.Paris »
+Juge Paris
+RÉFÉRENCE : 2011 CCI 344
+Nº DU DOSSIER DE
+LA COUR : 2011-86(IT)APP
+INTITULÉ : ALAIN CHÉNARD c.
+LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 6 avril 2011
+MOTIFS DE L’ORDONNANCE : L’honorable juge B. Paris
+DATE DE L’ORDONNANCE : Le 8 juillet 2011
+COMPARUTIONS :
+Avocat du requérant :
+Me Richard Généreux
+Avocats de l’intimée :
+Me Paul Klippenstein
+Me Marie-Eve Aubry
+AVOCAT INSCRIT AU DOSSIER :
+Pour le requérant:
+Nom : Me Richard Généreux
+Cabinet : Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

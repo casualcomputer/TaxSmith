@@ -1,0 +1,149 @@
+Title: Chouinard c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26384/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-566-26384-chouinard-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-08-30
+
+# Chouinard c. M.R.N.
+
+- Citation: 2004 CCI 566
+- Decision date: 2004-08-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3331, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chouinard c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-30
+Référence neutre
+2004 CCI 566
+Numéro de dossier
+2004-1895(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-1895(EI)
+ENTRE :
+DANY CHOUINARD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 10 août 2004 à Percé (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Agathe Cavanagh
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour d'août 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI566
+Date : 20040830
+Dossier : 2004-1895(EI)
+ENTRE :
+DANY CHOUINARD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L'appelant en appelle de la décision du ministre du Revenu national (le « ministre » ), qui soutient que l'appelant n'exerçait pas un emploi assurable durant la période en litige, soit du 1er octobre au 15 octobre 2003, lorsque au service de monsieur Daniel Queenton (le « payeur » ), et ce, aux termes d'un véritable contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi (la « Loi » ).
+[2] Les faits sur lesquels le ministre s'est appuyé pour rendre sa décision sont décrits au paragraphe 5 de la Réponse à l'avis d'appel et sont les suivants :
+a) Danny Queenton est quadriplégique suite à un accident automobile;
+b) le payeur et son épouse Lyne Reeves s'occupaient depuis 3 ans de Danny Queenton;
+c) Danny Queenton est le frère jumeau du payeur;
+d) Danny Queenton était logé dans une annexe de la résidence du payeur;
+e) le payeur recevait un montant hebdomadaire de la S.A.A.Q. pour l'hébergement et l'entretien de son frère;
+f) durant la période en litige, le payeur et son épouse n'avaient pas d'emploi autre que de s'occuper de Danny Queenton;
+g) l'appelant était un ami de Danny Queenton;
+h) l'appelant prétend avoir été embauché à temps plein par le payeur comme aide-personnel alors que, en réalité, le payeur et son épouse continuaient à s'occuper de Danny Queenton;
+i) durant la période en litige, l'appelant n'a pas rendu de services au payeur ou des services pour une durée minime;
+j) depuis 3 ans qu'il s'occupait de son frère, le payeur n'avait jamais engagé d'aide-personnel;
+k) durant l'enquête de l'intimé, l'appelant et le payeur ont déclaré aux représentants de l'intimé des versions contradictoires sur les prétendus conditions de travail de l'appelant;
+l) durant la période en litige, l'appelant prétendait que le payeur et son épouse étaient parti en vacances alors qu'en réalité ils étaient à leur domicile;
+m) durant la période en litige, l'appelant prétend avoir travaillé chaque semaine du lundi au vendredi, de 8 h 00 à 17 h 00 pour le payeur alors que le payeur avait initialement prétendu que l'appelant avait travaillé les fins de semaine pour le payeur;
+n) durant la période en litige, l'appelant prétend avoir reçu une rémunération brute de 600 $ par semaine alors que ni l'appelant, ni le payeur ne pouvait fournir de preuve que l'appelant a véritablement été rémunéré, sauf par la présentation, à la fin de l'enquête de l'intimé en mars 2004, de deux reçus non signés de 400 $ chacun;
+o) l'appelant avait initialement prétendu avoir été payé par un seul chèque de 800 $ et par la suite l'appelant a changé sa version des faits pour prétendre avoir été payé en argent comptant par le payeur;
+p) le 1er novembre 2003, le payeur émettait un relevé d'emploi à l'appelant, pour la période débutant le 1er octobre 2003 et se terminant le 15 octobre 2003, et qui indiquait 80 heures assurables et une rémunération assurable totale de 800,00 $;
+q) le relevé d'emploi ne reflète pas la réalité quant à la période travaillée, quant aux heures travaillées ni quant à la rémunération versée;
+r) l'appelant avait besoin de 75 heures pour se qualifier à recevoir des prestations de chômage;
+s) l'appelant et le payeur ont conclu un arrangement afin de permettre à l'appelant de se qualifier à recevoir des prestations de chômage.
+Analyse
+[3] Un emploi qui n'est pas un trompe-l'oeil et qui remplit toutes les conditions énoncées au Code civil du Québec constitue un contrat de travail véritable aux fins de la Loi et ce, même si le contrat de travail visait à rendre une personne admissible à des prestations d'assurance-emploi. Toutefois, cette cour a l'obligation de scruter avec soin l'entente qui existait entre les parties - ici l'appelant et le payeur - pour s'assurer qu'un véritable contrat de travail existe.
+[4] La première question qu'il faut résoudre ici est donc de savoir si le contrat liant l'appelant constituait un véritable contrat de travail. Les trois éléments essentiels à l'existence du contrat de travail sont : la prestation d'un service, le paiement d'une rémunération et l'existence d'un lien de subordination. Les modalités d'un véritable contrat de travail doivent s'articuler autour de la prestation de travail à accomplir, d'un mécanisme permettant de contrôler l'exécution du travail et, finalement, d'une rétribution correspondant essentiellement à la quantité et à la qualité du travail exécuté.
+Prestation de services
+[5] Il convient d'abord de citer certains extraits pertinents de la déclaration statutaire de l'appelant faite devant madame Coulombe, agente auprès de Développement des ressources humaines Canada (DRHC), pièce I-1, le 25 novembre 2003 :
+...Je suis un aide-pêcheur de métier depuis 17 ans ... J'ai dû laisser mon travail le 2 août 2003 parce que mon nerf sciatique m'a lâché... J'ai ensuite travaillé pour Daniel Queenton comme aide-personnel. Mon travail consistait à prendre soin du frère handicapé de Daniel qui a 27 ans et qui s'appelle Danny Queenton. Il est en chaise roulante. Daniel et sa femme ont pris des vacances et je les ai remplacés. Je suis donc allé rester à la maison qui appartient à Danny et dans laquelle demeurent aussi Daniel et sa femme, Lyne Reeves. Mes tâches étaient de m'occuper de lui en tout temps. Je l'aidais à manger et à fumer, je le prenais dans mes bras pour le coucher, etc. Habituellement c'est Daniel et Lyne qui s'en occupent et Daniel est payé par la S.A.A.Q. pour faire cette tâche. Ils se sont absentés 15 jours, je ne sais pas où ils sont allés; ils sont venus quelques fois à la maison et repartaient.
+[6] Madame Nathalie Bédard, agente des appels de la section assurance-emploi de l'Agence des douanes et du revenu du Canada, dont la crédibilité n'est pas en cause, a témoigné que les paragraphes 21, 24, 30, 31, 32 et 33 de son rapport écrit (pièce I-3) reflétaient fidèlement les déclarations de l'appelant faites lors de l'entrevue téléphonique qu'elle avait eue avec ce dernier le 11 mars 2004, paragraphes qui se lisent comme suit :
+21. Les fonctions du travailleur étaient de s'occuper de Danny Queenton de 8 h à 17 h du lundi au vendredi, son repas du dîner était fourni par le payeur. Selon le travailleur, Danny Queenton est paraplégique. Quand le payeur et sa conjointe arrivaient à la maison aux alentours de 17 h, le travailleur s'en retournait chez lui. La fin de semaine, Daniel Queenton et Lynne Reeves s'occupaient de Danny Queenton.
+24. Dany Chouinard devait donner les médicaments (des pilules) à Danny Queenton à tous les jours, soit à 11 h et à 15 h. Les médicaments de 22 h étaient donnés par Danielle [sic] Queenton ou sa conjointe puisque le travailleur avait quitté depuis 17 h.
+30. Lecture de la déclaration statutaire du travailleur faite à Rivière-au-Renard le 25 novembre 2003 devant Carole Coulombe agent DRHC...
+31. Le travailleur corrobore les faits de la déclaration statutaire et ajoute les précisions suivantes.
+32. « Daniel et sa femme ont pris des vacances et je les ai remplacés. Je suis donc allé rester maison [sic] qui appartient à Danny et dans laquelle demeurent aussi Daniel et sa femme, Lyne Reeves. »
+- Dany Chouinard déclare que Daniel Queenton et sa femme revenaient à la maison le soir, vers 17 h, que parfois ils venaient dîner à la maison d'autres fois non; ils ne sont pas partis pendant quinze jours consécutifs.
+33. « Ils se sont absentés 15 jours, je ne sais pas où ils sont allés, ils sont venus quelques fois à la maison et repartaient » .
+- Dany Chouinard mentionne que Daniel Queenton et Lyne Reeves revenaient à la maison le soir.
+[7] De plus, madame Bédard a témoigné que le paragraphe 55 de son rapport écrit (pièce I-3) reflétait fidèlement les déclarations faites par le payeur lors de l'entrevue téléphonique qu'elle avait eue avec ce dernier le 18 mars 2004, paragraphe qui se lit comme suit :
+« Nous, on était ici, à la maison durant le temps qu'il a travaillé pour moi mais on est partis les 2 fins de semaine. »
+- Je fais remarquer à Daniel Queenton que si lui et sa conjointe n'étaient pas à la maison pendant les deux fins de semaine et que Dany Chouinard ne travaillait pas la fin de semaine; alors qui s'occupait de son frère?
+- Daniel Queenton mentionne que lui et sa conjointe sont sortis de la maison pour s'amuser. Dany Chouinard s'est occupé de son frère la fin de semaine; il était payé du lundi au vendredi, mais le contrat était pour les 15 jours.
+- Dany Chouinard était à la maison presque 24 heures sur 24 pendant les 15 jours de travail; il était payé sur une base de 40 heures, mais c'est très difficile d'estimer puisque son frère demande des soins 24 heures sur 24. Dany Chouinard a dormi dans l'annexe où son frère demeure.
+[8] Les témoignages de l'appelant et du payeur à l'égard des modalités du contrat d'emploi n'y ont ajouté que confusion.
+[9] Il est indéniable que l'appelant et le payeur ont donné aux représentants de l'intimé des versions contradictoires sur les conditions de travail de l'appelant. Dans un premier temps, l'appelant déclarait devant madame Coulombe que le payeur et sa conjointe s'étaient absentés 15 jours, qu'il ne savait pas où ils étaient allés et qu'ils venaient à la maison quelques fois et repartaient. Dans un deuxième temps, il déclarait à madame Bédard qu'il s'occupait de Danny Queenton de 8 h à 17 h du lundi au vendredi et qu'il retournait chez lui vers 17 h, lorsque le payeur et sa conjointe revenaient à la maison.
+[10] Quant au payeur, il déclarait à madame Bédard que lui et sa conjointe n'étaient pas à la maison pendant les deux fins de semaine. Alors, qui s'occupait de Daniel Queenton les fins de semaine puisque l'appelant a déclaré qu'il ne travaillait que du lundi au vendredi? Il déclarait aussi à madame Bédard que l'appelant était à la maison 24 heures sur 24 pendant les 15 jours alors que l'appelant déclarait à madame Coulombe qu'il retournait chez lui à la fin de sa journée de travail, qui se terminait à 17 h. Enfin, le payeur a témoigné que l'appelant n'avait travaillé qu'une fin de semaine sur deux.
+[11] Finalement, je tiens à souligner que l'appelant a déclaré qu'il prenait Danny Quenton dans ses bras pour le déposer dans son lit même s'il avait déclaré à madame Coulombe qu'il avait dû quitter son travail le 2 août 2003 à cause de maux causés par son nerf sciatique.
+[12] L'appelant avait le fardeau de démontrer, selon la prépondérance des probabilités, que le ministre avait tort de prétendre qu'il n'avait rendu aucun service au payeur durant la période en litige. L'appelant ne s'est sûrement pas acquitté de l'obligation qui lui incombait en faisant des déclarations contradictoires sur ses modalités de travail. Qui plus est, les déclarations de l'appelant ont été contredites par le payeur qui, lui-même, s'est contredit à plusieurs reprises sur les mêmes conditions de travail.
+Rémunération
+[13] L'appelant a témoigné qu'il avait reçu une rémunération de 400 $ par semaine, et ce, en argent comptant. Le témoignage du payeur fut le même.
+[14] Pourtant, dans la déclaration statutaire du 25 novembre 2003 (pièce I-1), l'appelant avait affirmé :
+... je ne me rappelle pas ce que je recevais en salaire et je crois qu'il m'a payé avec un seul chèque de 800 $. Je ne me rappelle pas trop où je l'ai encaissé.
+[15] Lors de son témoignage, l'appelant a prétendu qu'il avait tout simplement commis une erreur en faisant une telle déclaration écrite devant madame Coulombe et que cette erreur était due au fait qu'il avait un peu trop festoyé la veille de sa rencontre avec madame Coulombe.
+[16] Le témoignage de l'appelant à cet égard m'apparaît peu crédible et tout à fait invraisemblable. Comment peut-on se contredire sur deux points aussi simples que le nombre de paiements (un paiement ou deux) qu'il a reçus du payeur et sur la nature des paiements (en argent comptant ou par chèque). Il m'apparaît non plausible qu'un être modérément intelligent puisse être à ce point confus.
+[17] Pour ces motifs, je conclus que l'appelant n'a pas démontré, selon la prépondérance des probabilités, que le ministre avait tort de prétendre que le relevé d'emploi du payeur ne reflétait pas la réalité quant à la rémunération versée.
+[18] Je conclus que cet emploi n'était qu'un trompe-l'oeil et que l'appelant et le payeur avaient conclu un arrangement afin de permettre à l'appelant de pouvoir recevoir des prestations d'assurance-emploi. Je suis d'avis que le contrat qui liait l'appelant et le payeur ne constituait pas un véritable contrat de travail. En effet, l'appelant devait démontrer que le contrat de travail qui le liait au payeur remplissait toutes les conditions énoncées au Code civil du Québec. Il devait donc démontrer qu'une rémunération avait été réellement payée et qu'il y avait eu une prestation réelle de services, deux des éléments essentiels à l'existence de son contrat de travail. L'appelant ne s'est tout simplement pas acquitté de l'obligation qui lui incombait de prouver, selon la prépondérance des probabilités, que le contrat qui le liait au payeur était un véritable contrat de travail.
+[19] Pour ces motifs, l'appel est rejeté et la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 30e jour d'août 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI566
+No DU DOSSIER DE LA COUR :
+2004-1895(EI)
+INTITULÉ DE LA CAUSE :
+Dany Chouinard et M.R.N.
+LIEU DE L'AUDIENCE :
+Percé (Québec)
+DATE DE L'AUDIENCE :
+le 10 août 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 30 août 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimé :
+Me Agathe Cavanagh
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

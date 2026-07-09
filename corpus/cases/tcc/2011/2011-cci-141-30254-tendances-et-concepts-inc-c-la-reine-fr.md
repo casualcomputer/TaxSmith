@@ -1,0 +1,273 @@
+---
+title: "Tendances et Concepts Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30254/index.do"
+last_modified: "2011-03-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 141"
+citation2: ""
+neutral_citation: "2011 CCI 141"
+decision_date: "2011-03-08"
+language: "fr"
+item_id: "30254"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7993
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:02:39.478000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f4793a04e889ea788b263c12cb16434b9315f9e50cd6a8b100f5727a6bcab6dc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tendances et Concepts Inc. c. La Reine
+
+- Citation: 2011 CCI 141
+- Decision date: 2011-03-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7993, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tendances et Concepts Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-03-08
+Référence neutre
+2011 CCI 141
+Numéro de dossier
+2010-1966(GST)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2010-1966(GST)I
+ENTRE :
+TENDANCES ET CONCEPTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 15 novembre 2010, à Montréal (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Représentant de l'appelante :
+Denis Cadieux
+Avocat de l'intimée :
+Me Benoît Denis
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d'accise pour la période du 1er au 31 mai 2008, dont l’avis est daté du 28 juillet 2009, est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour de mars 2011.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2011 CCI 141
+Date : 20110308
+Dossier : 2010-1966(GST)I
+ENTRE :
+TENDANCES ET CONCEPTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Tendances et concepts inc. (ci-après l’« appelante ») est une société de fabrication de mobilier de cuisines et de salles de bains qui exige de ses clients un versement initial de 30 % au moment de la signature du contrat. La question est de déterminer si ce montant initial constitue des arrhes ou un acompte.
+[2] En établissant la cotisation en cause à l’égard de l’appelante, le ministre du Revenu national (ci-après le « ministre ») s’est fondé, entre autres, sur les conclusions et les hypothèses de fait suivantes :
+a) l’appelante exploite une entreprise de fabrication et de vente en détail d’armoires de cuisine et de salle de bain;
+b) la contrepartie payable par les acquéreurs des fournitures effectuées par l’appelante l’est en trois paiements partiels, soit :
+i 30 % de la contrepartie convenue, incluant la TPS et, lorsque applicable, la taxe de vente du Québec (ci-après la « TVQ »), au moment de la signature du contrat de vente,
+ii 60 % de la contrepartie convenue, incluant la TPS et, lorsque applicable, la TVQ, lors de la livraison des biens faisant l’objet de la fourniture et,
+iii le reliquat, soit 10 % de la contrepartie convenue, incluant la TPS et, lorsque applicable, la TVQ, lors de l’installation des biens faisant l’objet de la fourniture;
+c) il peut s’écouler plusieurs semaines, voire des mois, entre le moment où le contrat de vente est signé par l’appelante et les acquéreurs et la livraison et l’installation des biens faisant l’objet de la fourniture et, par conséquent, entre les trois paiements partiels de la contrepartie, incluant la TPS et, lorsque applicable, la TVQ;
+d) l’appelante n’a pas inclus, dans le calcul de sa taxe nette pour une période de déclaration donnée, la TPS qui est incluse dans le premier paiement partiel de la contrepartie effectué durant ladite période de déclaration donnée, par un acquéreur relativement à la fourniture qu’il a acquise d’un bien donné.
+[3] Les faits ne sont pas contestés. L’appelante affirme cependant qu’elle n’est pas tenue de verser la taxe perçue au moment du premier versement puisqu’il constitue un dépôt et non un acompte, et que la taxe ne s’applique qu’au moment où le dépôt est appliqué en règlement partiel du prix de vente.
+[4] Le propriétaire de l’appelante a expliqué, lors de l’audition, le fonctionnement de son entreprise et la nature du versement initial de 30 % qui est exigé des clients. La vente se déroule comme suit.
+[5] Le client se rend à la salle d’exposition et rencontre un cuisiniste à qui il fait part de ses préférences quant au style et aux matériaux. Par la suite, le cuisiniste propose au client un projet à l’aide d’un premier plan de cuisine et un prix. Si le client est satisfait, les parties signent un contrat et un versement initial de 30 % du prix de vente global, incluant les taxes, est alors demandé. C’est donc dire que l’appelante reçoit 30 % des taxes au moment du versement initial de 30 %.
+[6] Le premier versement, désigné comme un dépôt par l’appelante, n’est pas mis dans un compte distinct, mais il n’est pas pour autant comptabilisé comme un revenu. Aux états financiers, il apparaît comme un dépôt du client, et il y reste aussi longtemps que le mobilier n’est pas livré.
+[7] Après la signature du contrat, un employé se rend chez le client pour prendre des mesures exactes. Il peut s’écouler plusieurs semaines entre le moment de la signature du contrat et celui où un employé se rend à la résidence du client pour prendre les mesures. Le cuisiniste refait son plan selon les mesures exactes. Le design complet et définitif du mobilier, avec une perspective en trois dimensions et en couleur, se fait donc généralement après la signature du contrat.
+[8] Le plan final est envoyé au client pour approbation. Il arrive souvent que les plans soient modifiés et que le prix de vente soit rajusté en conséquence. S’il est accepté, le plan définitif est remis au service de réalisation, et la réalisation comme telle du mobilier de cuisine débute environ deux semaines plus tard.
+[9] Il arrive que des modifications importantes soient apportées au contrat initial. Dans ce cas, les modifications sont attestées par un avenant au contrat d’origine.
+[10] L’appelante effectue la facturation au moment de la livraison du mobilier à la résidence du client. C’est à ce moment qu’elle applique le versement initial en règlement partiel et exige alors la taxe applicable qu’elle a, en fait, déjà perçue au moment de la signature du contrat. Le propriétaire de l’appelante précise que si le taux de taxation change entre le moment du versement initial de 30 % et la facturation, l’appelante refait une facture pour tenir compte de la baisse de la taxe et réduit en conséquence le montant versé initialement.
+[11] L’appelante exige également au moment de la livraison le deuxième versement, équivalant cette fois à 60 % du prix de vente. Il reste dès lors un solde de 10 %, qui est versé lorsque les travaux d’installation du mobilier sont complétés.
+[12] L’appelante a apporté des copies choisies au hasard des contrats qu’elle fait signer par ses clients au moment de la vente ainsi qu’une facture et un avenant au contrat d’origine. Le contrat mentionne les modalités « dépôt 30 % ». De son côté, la facture mentionne « down payment » ou acompte car, selon l’appelante, c’est à ce moment que le premier versement se transforme en acompte. Je note que sur l’avenant au contrat d’origine, on lit les termes « acompte 30 % ».
+[13] L’appelante a du mobilier de cuisines et de salles de bains que les clients ne réclament pas d’une valeur d’environ 100 000 $. Le propriétaire de l’appelante affirme que le versement initial de 30 % sert à retenir le client, à garantir que le client va acheter le mobilier et en prendre possession. De plus, ce versement sert à payer les matériaux au cas où le client n’en prendrait pas possession. Ainsi, le client perd son versement initial de 30 % si le mobilier est déjà en réalisation ou si le client refuse d’en prendre possession.
+[14] L’appelante n’a pas encore consacré de matériaux à la construction du mobilier au moment de la signature du contrat. Si c’est à ce stade que le contrat est résilié, alors qu’aucun travail n’est réalisé et qu’aucun matériau n’est commandé, le verso du contrat comprend une clause de pénalité qui prévoit :
+16. Dans l’éventualité où le présent contrat serait résilié par l’Acheteur, des frais de l’ordre de 950 $ plus taxes seraient exigibles à titre de dommages-intérêts conventionnels pour la préparation et la réalisation, en tout ou en partie, de perspectives et de dessins d’artiste.
+[15] Il n’y a pas de mention, au verso du contrat, de la nature du versement de 30 % remis au moment de la signature du contrat. Rien n’indique que l’appelante est autorisée à garder ce montant à titre de dommages-intérêts conventionnels lorsque la fabrication du mobilier a déjà été entamée. Au contraire, le verso du contrat prévoit au second alinéa de l’article 16 :
+Dans l’éventualité où le présent contrat serait résilié à une étape ultérieure, l’Acheteur accepte et convient de payer au vendeur tous les coûts de fabrication et toutes les autres obligations afférentes jusqu’au moment de la résiliation.
+[16] Enfin, le contrat d’origine et l’avenant au contrat d’origine comprennent la clause suivante :
+Les seules conditions de vente sont celles fixées par le vendeur ou réciproquement convenues entre les parties et inscrites au présent contrat.
+Analyse
+[17] Les dispositions de la Loi sur la taxe d’accise (la « Loi ») pertinentes à la question en litige sont les suivantes :
+152(1) Contrepartie due — Pour l'application de la présente partie, tout ou partie de la contrepartie d'une fourniture taxable est réputée devenir due le premier en date des jours suivants :
+152(1) When consideration due — For the purposes of this Part, the consideration, or a part thereof, for a taxable supply shall be deemed to become due on the earliest of
+a) le premier en date du jour où le fournisseur délivre, pour la première fois, une facture pour tout ou partie de la contrepartie et du jour apparaissant sur la facture;
+(a) the earlier of the day the supplier first issues an invoice in respect of the supply for that consideration or part and the date of that invoice,
+b) le jour où le fournisseur aurait délivré une facture pour tout ou partie de la contrepartie, n'eût été un retard injustifié;
+(b) the day the supplier would have, but for an undue delay, issued an invoice in respect of the supply for that consideration or part, and
+c) le jour où l'acquéreur est tenu de payer tout ou partie de la contrepartie au fournisseur conformément à une convention écrite.
+(c) the day the recipient is required to pay that consideration or part to the supplier pursuant to an agreement in writing.
+[…]
+168(1) Règle générale — La taxe prévue à la présente section est payable par l'acquéreur au premier en date du jour où la contrepartie de la fourniture taxable est payée et du jour où cette contrepartie devient due.
+168(1) General rule — Tax under this Division in respect of a taxable supply is payable by the recipient on the earlier of the day the consideration for the supply is paid and the day the consideration for the supply becomes due.
+(2) Contrepartie partielle — Par dérogation au paragraphe (1), la taxe prévue à la présente section relativement à une fourniture taxable dont la contrepartie est payée ou devient due plus d'une fois est payable à chacun des jours qui est le premier en date du jour où une partie de la contrepartie est payée et du jour où cette partie devient due et est calculée sur la valeur de la partie de la contrepartie qui est payée ou qui devient due ce jour-là.
+(2) Partial consideration — Notwithstanding subsection (1), where consideration for a taxable supply is paid or becomes due on more than one day,
+(a) tax under this Division in respect of the supply is payable on each day that is the earlier of the day a part of the consideration is paid and the day that part becomes due; and
+(b) the tax that is payable on each such day shall be calculated on the value of the part of the consideration that is paid or becomes due, as the case may be, on that day.
+[…]
+(9) Arrhes — Pour l'application du présent article, les arrhes (sauf celles afférentes à une enveloppe ou un contenant auxquels l'article 137 s'applique), remboursables ou non, versées au titre d'une fourniture ne sont considérées comme la contrepartie payée à ce titre que lorsque le fournisseur les considère ainsi.
+(9) Deposits — For the purposes of this section, a deposit (other than a deposit in respect of a covering or container in respect of which section 137 applies), whether refundable or not, given in respect of a supply shall not be considered as consideration paid for the supply unless and until the supplier applies the deposit as consideration for the supply.
+[Je souligne]
+[18] Le paragraphe 168(9) de la Loi précise que les arrhes, remboursables ou non, versées au titre d'une fourniture ne sont considérées comme la contrepartie payée à ce titre que lorsque le fournisseur les considère ainsi. Ce moment ultérieur ne peut dépasser le moment où le fournisseur estime que les arrhes n’en sont plus, mais constituent une partie de la contrepartie. Si les arrhes sont appliquées à titre de contrepartie, les arrhes n’en sont plus car elles sont dès lors un acompte et c’est le paragraphe 168(2) de la Loi qui s’applique. Les auteurs Papillon et Morin tiennent les propos suivants dans leur ouvrage :
+Les dépôts contre achats futurs de fournitures ne sont pas assujettis à la TPS/TVH au moment de l'encaissement du dépôt. La TPS/TVH est à remettre au ministère sur un dépôt lorsque le vendeur porte le dépôt en diminution de la contrepartie de la fourniture à la conclusion du contrat. Pour obtenir ce traitement, le montant perçu doit donc bien se qualifier à titre de dépôt[1].
+[19] À la lecture du paragraphe 152(1) de la Loi, il semble clair que le moment où les arrhes deviennent un acompte ne peut être postérieur au moment où la facture est délivrée, car c’est à ce moment que la contrepartie est réputée devenir due et, par le fait même, taxable. En conséquence, la taxe n’est généralement pas exigible avant la facturation s’il s’agit d’arrhes et, s’il s’agit plutôt d’un acompte, la taxe est exigible dès sa réception. Ces deux règles différentes illustrent l’importance de bien caractériser et distinguer les différents types de paiements faits d’avance, soit l’acompte et les arrhes. Il importe de définir la notion d’arrhes par rapport à celle d’acompte, l’acompte étant tout simplement un paiement partiel à valoir sur une somme due[2] (une contrepartie partielle au sens de la Loi).
+[20] L’article 1477 du Code civil du Bas-Canada (ci-après le « CcBC ») définit les arrhes en ces mots :
+1477 Si la promesse de vente est accompagnée d’arrhes, chacun des contractants est maître de s’en départir, celui qui les a données, en les perdant, et celui qui les a reçues, en payant le double.
+[21] Les arrhes sont un concept de droit civil qui n’ont pas été repris dans le nouveau Code civil du Québec. Il s’agit d’un concept qui est tombé en désuétude dans les transactions commerciales courantes au profit du « dépôt ».
+[22] Il convient de distinguer entre l’acompte et les arrhes. Le premier est le versement d’une partie du prix de vente, tandis que les arrhes sont un mécanisme permettant aux deux contractants de se dédire, de se libérer, selon des modalités précises, celui qui les a remises en les perdant, celui qui les a reçues en remboursant le double. La plupart du temps, la convention d’arrhes est assortie d’un délai; après ce délai, les arrhes deviennent un acompte et le contrat, irrévocable[3]. Étant un mécanisme de dédit, les arrhes ne sont pas un montant qu’un acquéreur donne en garantie pour assurer l’exécution d’une obligation qui lui incombe. Il s’agit au contraire d’un montant donné pour s’assurer de pouvoir se libérer.
+[23] Les arrhes ne sont pas remboursables. Au contraire, lorsque l’acheteur se prévaut de ce mécanisme de dédit, il perd les arrhes consenties et les parties sont quittes. De l’autre côté, l’acompte est toujours remboursable lorsque la vente n’a pas lieu. Le vendeur sera cependant en droit de réclamer des dommages et intérêts pour rupture de contrat et une forme de compensation judiciaire pourra être accordée par les tribunaux[4].
+[24] Enfin, les arrhes sont un mécanisme de dédit que l’on retrouve principalement dans les promesses de vente ou d’achat. Les arrhes précèdent généralement le contrat, bien qu’on puisse les retrouver dans un contrat synallagmatique comme en font foi les propos de Faribault :
+106 — Comme la vente à l’essai, la vente accompagnée d’arrhes est une modalité de la promesse de vente où de la promesse d’achat, et même quelquefois de la vente elle-même. Bien que la convention d’arrhes puisse accompagner tout contrat synallagmatique, elle convient surtout à une promesse d’acheter lorsqu’elle est un moyen de dédit[5]. […]
+108 — L’article 1477 n’a aucune application dans le cas d’une vente parfaite. Les parties sont alors liées d’une façon définitive, et les sommes versées par l’acheteur doivent nécessairement être considérées comme des acomptes sur le prix[6]. […]
+Si elles sont consenties après la formation du contrat elles doivent être considérées comme devant servir à en établir le caractère irrévocable; les parties ne sont plus alors libres de se dégager (178)[7]. [1914 Bricot v. Brien, 23 B.R. 265]
+[25] Une lecture du texte complet du paragraphe 168(9) de la Loi nous démontre toutefois que le législateur ne voulait pas privilégier un sens civiliste lorsqu’il a employé le terme « arrhes ».
+[26] Le paragraphe 168(9) de la Loi précise que les arrhes, remboursables ou non, versées au titre d'une fourniture, ne sont considérées comme la contrepartie payée à ce titre que lorsque le fournisseur les considère ainsi. En utilisant l’expression « remboursable ou non », le législateur élargit la définition des arrhes. En effet, les arrhes ne sont normalement pas remboursables. Elles sont remboursables uniquement lorsque le vendeur exerce son droit de dédit et décide de verser deux fois le montant des arrhes à l’acheteur.
+[27] De plus, si les arrhes sont remboursables ou non, il s’ensuit que plusieurs cas de figure non traditionnels sont désormais possibles aux fins de l’application du paragraphe 168(9) de la Loi. Par exemple, les parties pourraient envisager des arrhes non remboursables par le vendeur alors que, sous le CcBC, il aurait dû rembourser deux fois le montant des arrhes pour se libérer. Dans ce cas de figure, les arrhes ne sont plus réciproques et le vendeur ne possède plus son droit de dédit. À l’inverse, si les arrhes sont remboursables à l’acheteur même si ce dernier est en défaut, le concept d’arrhes perd son sens même, qui est de pénaliser l’acheteur lorsqu’il se dédit de l’entente. En effet, les arrhes exigent le paiement d’une somme quelconque en échange de l’exercice du droit de dédit. L’acheteur doit donc perdre quelque chose s’il exerce ce droit. Dans le cas contraire, les arrhes ne sont plus vraiment des arrhes, elles deviennent plutôt un droit de dédit à titre gratuit.
+[28] L’examen du terme « deposit » utilisé dans la version anglaise du paragraphe 18(9) de la Loi est utile afin de déceler l’intention du législateur.
+[29] Le Oxford English Dictionary[8] définit le terme « deposit » comme suit :
+Une chose, habituellement des espèces, confiée à la garde d'autrui en gage d'exécution d'un contrat, à titre de paiement partiel d'une chose achetée, etc.
+[30] La section des appels de la Cour suprême de l’Ontario a déclaré dans la décision Doumani c. Reynolds[9] :
+22 […]
+« Tout le monde sait ce qu'est un dépôt. [...] Le dépôt a deux fonctions : si l'achat est conclu, il est imputé au prix d'achat, mais sa principale fonction est qu'il garantit que l'acheteur est sérieux, et s'il existe une situation où il est juste et équitable qu'on dépôt soit confisqué, c'est, je crois, lorsqu'un homme s'engage à acheter un bien immeuble sans se donner la peine de vérifier s'il a les moyens de le payer » : lord Macnaghten, dans Soper v. Arnold (1889), 14 App. Cas. 429, à la page 435. « Le dépôt est donné en gage de l'exécution du contrat » : lord Herschell, à la page 433.
+23 Il s'agit essentiellement de la même chose qu'un « acompte » lors de la vente d'objets, sans toutefois avoir l'effet qu'a un acompte en vertu de la loi intitulée Statute of Frauds. Deux éléments sont toujours indispensables : le dépôt doit être donné et reçu à titre de paiement partiel si l'opération a lieu, et il doit servir de garantie si l'acheteur n'exécute pas l'achat.
+24 Dans Howe v. Smith (1884), 27 Ch. D. 89, à la page 101, le lord juge Fry s'est penché sur un contrat qui ne décrivait pas en termes techniques le premier versement au titre du prix d'achat comme étant un dépôt. Le lord juge a cité et approuvé les propos du baron Pollock dans Collins v. Stimson (1883), 11 Q.B.D. 142, aux pages 143 et 144 : « En vertu du droit de la vente, on suppose qu'un tel dépôt est donné en gage de l'exécution du contrat, et s'il y a inexécution du contrat en raison du manquement de l'acheteur, le vendeur a le droit de garder le dépôt. » Il ajoute : « Les sommes données en dépôt doivent, j'imagine, être versées selon certaines conditions, implicites ou explicites. En l'espèce, ces conditions ne sont pas explicites, et nous devons donc nous demander quelles conditions sont implicites. Dans le cas de sommes versées lors de la signature d'un contrat, il me semble que les conditions implicites les plus vraisemblables sont que si le contrat est exécuté, les sommes seront passées en compte, mais que si l'acheteur n'exécute pas le contrat, le bénéficiaire pourra les garder. Il ne s'agit pas uniquement d'un paiement partiel; il s'agit également d'un acompte pour que l'entente soit exécutoire, et la crainte d'être déchu des sommes versées incite le payeur à exécuter le reste de l'entente. » Le Conseil privé a approuvé cette décision dans Sprague v. Booth, [1909] A.C. 576, aux pages 579 et 580, où l'on a dit :
+25 « La décision Howe v. Smith décrit correctement la nature et l'effet d'un tel dépôt. »
+[31] Le dictionnaire juridique Stroud’s[10] énonce ce qui suit :
+Un dépôt, par opposition à un paiement partiel, a deux fonctions : en cas d'exécution du contrat, il réduit d'autant le prix à verser, et pendant la période entre le contrat et son exécution, il sert de gage ou de garantie de l'exécution du contrat (Dies v. British & International Mining & Finance Corporation, [1939] 1 K.B. 724).
+[32] Words and Phrases Legally Defined[11] rapporte que :
+« Le principe de base d'un dépôt dans un cas simple où la conclusion doit avoir lieu sous peu est de garantir, pour ainsi dire, le sérieux de l'acheteur. La question de la confiscation du dépôt ne se soulève que si l'acheteur ne présente pas le solde du prix d'achat au moment fixé pour la conclusion de la vente et, dans ce cas, il n'y a aucune difficulté à considérer un dépôt raisonnable comme des dommages‑intérêts déterminés, et rien ne justifie de le considérer comme une sanction dont on peut demander à être exonéré. La situation peut cependant être très différente s'il y a un long délai entre le contrat et la conclusion définitive et si l'acheteur est, pendant ce temps, lié par diverses obligations d'importance fort différente, de sorte qu'un manquement à une obligation peut causer un préjudice grave, alors qu'un manquement à une autre obligation peut ne causer qu'un préjudice limité, ou même aucun préjudice réel. Plus les circonstances donnant lieu à la confiscation du dépôt sont diverses, plus il sera difficile de considérer le dépôt comme des dommages‑intérêts déterminés. » Coates v. Sarich, [1964] W.A.R. 2, le juge Hale à la page 15 (Australie).
+[33] Waddams[12] affirme de son côté :
+Cet examen de différentes formes de confiscations nous mène naturellement à la forme de confiscation la plus courante, c'est‑à‑dire la confiscation d'un dépôt en cas de manquement à l'obligation qu'il garantit. Ce ne sont pas tous les paiements anticipés qui constituent un « dépôt » et qui sont ainsi susceptibles de confiscation en cas de manquement. Un simple paiement partiel doit être remboursé, en l'absence de preuve d'un préjudice réel. On dit qu'un « dépôt » peut, au contraire, être confisqué, même si celui qui le détient ne subit aucun préjudice, quoiqu'il faille en tenir compte s'il prétend avoir subi un préjudice plus important. La seule différence entre un dépôt et une disposition prévoyant une pénalité est qu'un dépôt est payé d'avance afin de garantir une obligation future, alors qu'une pénalité est versée après le manquement. Cette distinction ne semble nullement justifier le traitement bien plus favorable auquel a droit la personne liée par l'obligation dans un cas par rapport à l'autre cas. En fait, la distinction cesse d'exister lorsqu'on considère une somme exigible d'avance, mais qui n'a pas été versée, comme un dépôt pouvant être confisqué, alors que la Cour estime que la même somme constituerait une pénalité susceptible d'être annulée si elle était exigible en cas de manquement.
+[Je souligne]
+[34] Enfin, selon Swan :
+7.111 L'acquéreur d'un bien immeuble qui verse un dépôt lors de la signature de la convention d'achat‑vente perd habituellement son dépôt s'il ne conclut pas la vente. La question de savoir si le vendeur peut garder le dépôt dépend des modalités de la convention (et du pouvoir des tribunaux d'accorder l'exonération d'une sanction). En l'absence d'une disposition, explicite ou implicite, voulant que le moment versé par l'acheteur soit un dépôt et que le vendeur ait le droit de le garder en cas de manquement, la règle générale veut que l'acheteur puisse recouvrer ce qu'il a versé, après déduction des dommages‑intérêts que le vendeur peut établir[13].
+[35] La plupart des décisions de common law appuient leur analyse du terme « deposit » sur la décision Howe v. Smith.
+[36] Selon ces décisions et la doctrine, qui abondent dans le même sens, un « deposit » a comme principal but d’assurer que les parties feront affaires et que l’entente sera exécutée comme prévu : il s’agit d’une garantie. En cas de défaut, l’acheteur perd le montant donné en garantie qui n’est pas remboursable, alors que l’acompte, lui, est remboursable, à moins que le vendeur ne subisse un préjudice. Cela crée chez l’acheteur une « peur de perdre son argent » et l’incite à respecter ses engagements. Le vendeur peut ainsi s’assurer du sérieux de l’acheteur, par exemple afin de vérifier s’il a les moyens de conclure la vente. Accessoirement, le dépôt sera utilisé à titre de paiement si la vente se poursuit sans anicroche.
+[37] Le « deposit » est comparable à des dommages-intérêts conventionnels payés d’avance qui peuvent être gardés par le vendeur en cas de défaut de l’acheteur. À moins d’indication claire à cet égard, l’acheteur est autorisé à reprendre le montant payé, moins les dommages subis par le vendeur.
+[38] Le législateur n’ayant pas entendu le terme « arrhes » dans son sens civil et ayant employé les mots « remboursables ou non », les principes d’interprétation m’obligent à privilégier un sens commun et large des termes « arrhes » et « deposit » pour donner une même application de la Loi à tous les contribuables à travers le Canada. Quel est le sens commun de ces deux termes?
+[39] L’analyse des arrhes et du « deposit » ci-dessus révèle qu’il s’agit de deux concepts juridiques très similaires. Il existe cependant quelques différences. Tout d’abord, les arrhes sont un droit de dédit réciproque, c’est-à-dire qu’à la fois le vendeur et l’acheteur peuvent s’en prévaloir. Le vendeur doit rembourser le double des arrhes pour exercer ce droit. Le « deposit » ne prévoit pas une telle possibilité pour le vendeur. Néanmoins, l’utilisation de l’expression « remboursable ou non » rend obsolète cette distinction, comme nous l’avons expliqué précédemment.
+[40] Deuxièmement, étant un mécanisme de dédit, les arrhes ne sont pas un montant qu’un acquéreur donne en garantie pour assurer l'exécution d’une obligation qui lui incombe, contrairement au « deposit ». Il s’agit plutôt d’un montant donné pour s’assurer de pouvoir se libérer. Cette différence n’est pas importante, car même si le but des arrhes est de procurer un droit de dédit aux parties, il n’en demeure pas moins que les arrhes seront également, en fait, un moyen pour le vendeur de s’assurer de la démarche de l’acheteur. Le « deposit » et les arrhes étant des dommages-intérêts conventionnels payés d’avance, le vendeur ne pourra pas en réclamer davantage.
+[41] Il ressort de cette comparaison qu’il existe un sens commun à ces deux expressions. Le législateur québécois semble privilégier ce sens commun aux fins de l’application de l’article 92 de la Loi sur la taxe de vente du Québec, qui reprend la règle du paragraphe 168(9) de la Loi. L’article 92 ce lit comme suit :
+92. Pour l'application des articles 82, 82.2 et 85 à 91, un dépôt, qu'il soit remboursable ou non, donné à l'égard d'une fourniture, ne doit être considéré comme une contrepartie payée pour la fourniture que lorsque le fournisseur applique le dépôt à titre de contrepartie de la fourniture.
+[42] Évidemment, ce texte ne provient pas du législateur fédéral. Toutefois, comme le législateur provincial a déclaré son intention d’harmoniser cette loi avec la loi fédérale, ces termes nous aident à comprendre l’intention du législateur fédéral comme le comprend le législateur provincial.
+[43] Le Bulletin d’interprétation et des pratiques administratives concernant les lois et les règlements — TVQ 92-1[14] énonce ce qui suit au sujet de la notion de « dépôt » :
+Distinction entre un « dépôt » et un « acompte »
+4. En tout premier lieu, il convient de signaler que pour qualifier correctement un montant de dépôt ou d'acompte (i.e. paiement partiel d'une contrepartie), il est d'abord nécessaire d'examiner l'entente liant les parties et ce, afin de rechercher l'intention de celles-ci.
+5. Un dépôt s'entend habituellement d'un montant qu'un acquéreur donne en garantie pour assurer l'exécution d'une obligation qui lui incombe. Ce montant peut être remboursable ou non. Généralement, le versement d'un dépôt implique que les parties ont convenu de ne pas se lier définitivement, mais plutôt de s'obliger à conclure ultérieurement le contrat envisagé sous réserve de la faculté dont elles disposent de ne pas y donner suite moyennant une pénalité qui correspond au montant du dépôt. Il en est souvent ainsi des sommes versées dans le cadre d'une promesse de contracter.
+6. Un acompte, pour sa part, représente le paiement partiel de la contrepartie d'une fourniture lors de la formation du contrat donnant lieu à la fourniture. Ainsi, dans le cas où est conclu un contrat en vertu duquel une fourniture doit être effectuée et que l'acquéreur paie un montant au fournisseur lors de la conclusion du contrat, il y a lieu de considérer que le versement de ce montant constitue un paiement partiel puisque l'acquéreur, en payant ce montant, ne cherche pas à garantir l'exécution d'une obligation comme c'est le cas en ce qui concerne un dépôt, mais exécute partiellement son obligation qui est de payer la contrepartie.
+7. Ainsi, pour qualifier de dépôt le montant donné par l'acquéreur au moment de la formation du contrat donnant lieu à une fourniture, ce montant doit être donné pour garantir l'exécution d'une obligation contractuelle de ce dernier autre que celle de payer la contrepartie de la fourniture, auquel cas il y a alors exécution partielle par l'acquéreur de son obligation de payer.
+8. Par ailleurs, il importe de mentionner qu'en matière de promesse de vente, l'article 1711 du nouveau Code civil du Québec prévoit une présomption qui n'existait pas sous le Code civil du Bas-Canada et qui est à l'effet que « toute somme versée à l'occasion d'une promesse de vente est présumée être un acompte sur le prix, à moins que le contrat n'en dispose autrement ». Dès lors, le montant versé lors d'une promesse de vente est donc réputé constituer un acompte sur le prix de vente à moins que les parties en aient convenu autrement.
+Exemples de montants constituant un dépôt
+9. Constitue un dépôt, le montant versé par une personne à un fournisseur, sans qu'il y ait eu promesse d'acheter, pour que celui-ci mette de côté un mobilier de salle à manger pendant un certain temps et ainsi permettre à la personne de décider si elle entend ou non se porter acquéreur de ce mobilier. Advenant le cas où la personne décide effectivement d'acquérir le mobilier en question, la taxe sera alors payable à l'égard du montant versé à titre de dépôt au moment où le fournisseur considérera ce montant comme constituant une partie de la contrepartie de la fourniture du mobilier.
+10. Constitue un dépôt en matière de faillite, le montant versé par une personne à un syndic lors du dépôt d'un acte de cession par une personne insolvable (failli) afin de garantir les frais d'administration du dossier. Ce montant est déposé dans un compte bancaire en fiducie séparé du compte bancaire du patrimoine du failli et doit être remis à la personne si le syndic ne le requiert pas pour ses honoraires et déboursés.
+11. Constitue un dépôt, le montant exigé lors de la location d'un casier postal pour la remise de la clé du casier, ce montant étant remboursé au locataire à la fin de la période de location.
+Exemple d'un montant constituant un acompte
+12. Ne constitue pas un dépôt mais plutôt un acompte sur une contrepartie, le montant versé par un acquéreur lors de la conclusion d'un contrat de vente d'appareils ménagers et ce, en vertu du contrat stipulant que le solde du prix de vente est payable lors de la livraison des appareils chez l'acquéreur.
+[Je souligne]
+[44] Le dépôt dont parle Revenu Québec est le parfait hybride du « deposit » de la common law et des arrhes du droit civil. Je crois également que cette interprétation décrit bien l’intention du législateur fédéral lorsqu’il a fait l’emploi du terme « arrhes ». Le but du dépôt est de s’assurer de l'exécution des obligations de l’acheteur (comme le « deposit » de common law), mais il prend les attributs des arrhes du droit civil, à l’exception de la réciprocité. Pour ces raisons, il nous semble que le dépôt selon Revenu Québec correspond à ce que devrait être le « deposit » ou les arrhes selon le paragraphe 168(9) de la Loi.
+[45] À mon avis, au sens de la Loi, des arrhes ou un « deposit » est :
+- une garantie pour s’assurer de l’exécution du contrat,
+- conservée par le vendeur en cas de défaut de l’acheteur, contrairement à l’acompte,
+- remboursable ou non,
+- par la suite appliquée en diminution du prix de vente,
+- qui précède le contrat,
+- qui est assimilable à un moyen de dédit,
+- qui est assimilable à une clause pénale ou des dommages-intérêts conventionnels payés d’avance,
+- et qui est un montant fixe minimal invariable.
+[46] Afin de déterminer si une somme constitue des arrhes ou un « deposit » au sens de la Loi, les questions suivantes peuvent être posées :
+- Le contrat précise-t-il la nature du premier versement?
+- La somme a-t-elle pour but de garantir l’exécution d’une obligation?
+- La somme est-elle remise avant ou après le contrat?
+- Existe-t-il déjà une clause pénale?
+- La taxe a-t-elle été calculée sur la somme demandée?
+- La somme est-elle de faible ou de grande importance par rapport à la valeur totale du contrat?
+- Les parties ont-elles fixé une modalité suivant laquelle elles peuvent exercer leur droit de dédit?
+[47] Après avoir établi ce qu’est un « deposit » et des arrhes, il s’agit maintenant de déterminer si les montants reçus par l’appelante constituent des acomptes ou des arrhes.
+Conclusion
+[48] Il ressort du témoignage du propriétaire de l’appelante que le premier versement sert à garantir que le client va acheter le mobilier et servira à payer les frais de fabrication. Cette somme constituait ainsi, en quelque sorte, des dommages‑intérêts conventionnels payés d’avance. Cependant, il y a trois raisons principales qui m’incitent à croire que le premier versement de 30 % ne constitue pas des arrhes au sens de la Loi.
+[49] Tout d’abord, l’intimée a mis l’accent sur l’article 1711 du Code civil du Québec (ci-après le « CcQ »), qui se lit comme suit :
+Toute somme versée à l'occasion d'une promesse de vente est présumée être un acompte sur le prix, à moins que le contrat n'en dispose autrement.
+[50] Je ne crois pas que cet article s’applique dans le cas présent. Tout d’abord, le versement initial est remis au moment de la signature d’un contrat synallagmatique et non lors d’une promesse de vente. Deuxièmement, le contrat emploie le terme « dépôt ». Bien que l’utilisation de ce mot ne soit pas en soi suffisante pour déterminer la nature juridique du montant ainsi décrit, je crois qu’il permet de réfuter la présomption de l’article 1711 du CcQ. En utilisant le mot « dépôt », le contrat en dispose autrement.
+[51] Néanmoins, malgré l’inapplicabilité de la présomption de l’article 1711 du CcQ, il reste que le premier versement qui est exigé par l’appelante après la signature du contrat et, dans un tel cas, la jurisprudence et la doctrine sont d’avis qu’une somme remise à ce moment doit être considérée comme un acompte à moins d’indice clair du contraire.
+[52] Deuxièmement, il ressort que les arrhes au sens de la Loi sont assimilables à une forme de dommages-intérêts conventionnels payés d’avance. Or, le deuxième alinéa de l’article 16 du contrat indique que l’acheteur s’engage à payer au vendeur « tous les coûts de fabrication et toutes les autres obligations afférentes ». On ne fait aucune mention de la nature du versement initial.
+[53] Cette clause pénale n’est pas limitée au montant du premier versement, elle varie en fonction des dommages subis. L’acheteur peut donc être tenu de payer un montant supérieur ou inférieur à 30 % du prix de vente global.
+[54] Si on devait considérer le versement initial comme des dommages‑intérêts conventionnels payés d’avance afin de couvrir les coûts de fabrication, cela ferait perdre son sens à ce deuxième alinéa de l’article 16. La nature du versement initial devrait être précisée au contrat qui, par ailleurs, stipule que les seules conditions de vente sont celles fixées par le vendeur ou réciproquement convenues entre les parties et inscrites au présent contrat.
+[55] Je note enfin que l’avenant au contrat d’origine emploie le terme « acompte » et non le terme « dépôt ».
+[56] Le problème pour l’appelante, et cela ressort du témoignage, c’est que lors du prélèvement du montant initial de 30 %, l’appelante savait qu’elle prélevait les taxes. En effet, le président de l’appelante a expliqué que si un client ne réclame pas le mobilier, il conserve le versement initial et remet au fisc le montant de taxe qui a été prélevé sur ce premier versement. De plus, il a précisé que si la taxe changeait entre le moment du premier paiement et la facturation, le montant de taxe prélevé initialement était rajusté pour tenir compte de la baisse de taxe. Ces faits illustrent à mon avis que l’appelante perçoit la taxe sur le premier versement au moment de la conclusion du contrat et non au moment de la facturation. En d’autres mots, elle reçoit une somme équivalant à 30 % du prix des biens vendus, plus les taxes applicables, au moment de la conclusion du contrat. Étant perçues à ce moment, les taxes auraient dû être remises à ce moment.
+[57] Qui plus est, le montant de taxe qui est remis à l’ARC par l’appelante pour le versement initial auquel l’acheteur renonce n’est pas celui qui devrait l’être. La politique de Revenu Québec, à titre de mandataire de l’ARC, est que si l’acheteur perd son dépôt parce qu’il n’effectue pas son achat, le dépôt inclut alors la TPS et la TVQ. Ce raisonnement est basé sur l’article 182 de la Loi. Considérons l’exemple suivant donné par l’ARC dans le mémorandum TPS 300-6-8 portant sur les arrhes :
+10. Si des arrhes font l'objet d'une renonciation par une personne au profit d'un inscrit par suite de la modification ou de l'annulation d'un accord prévoyant la réalisation d'une fourniture (autre qu'une fourniture détaxée), l'article 182 de la Loi estime que la fourniture taxable a été effectuée par le fournisseur et qu'il y a eu assujettissement à la taxe au moment de la renonciation. Le fournisseur est réputé avoir perçu la taxe (et est donc tenu de la verser) au moment de la renonciation. La taxe perçue est réputée être égale à 7/107 du montant versé.
+11. À titre d'exemple, des arrhes d'un montant de 50 $ font l'objet d'une renonciation au profit d'un fournisseur inscrit. Le fournisseur est réputé avoir perçu la taxe de 3,27 $ (50 $ x 7/107) sur le montant faisant l'objet de la renonciation et avoir reçu 46,73 $ à titre de contrepartie.
+[58] Si le versement initial était des arrhes au sens de la Loi, l’appelante devrait remettre la taxe calculée sur l’ensemble du montant exigé à titre d’arrhes, c'est‑à-dire 30 % du prix de vente global incluant les taxes. Or, les taxes qu’elle remet sont calculées sur 30 % du prix de vente sans les taxes. C’est donc dire que, s’il s’agissait effectivement d’arrhes, ce à quoi je ne souscris pas, la méthode de calcul du montant de taxe à remettre par l’appelante en cas de renonciation par un client est erronée.
+[59] Avant de conclure, j’aimerais ouvrir la parenthèse suivante. L’appelante a soulevé comme argument que le premier versement n’est pas considéré comme un revenu dans ses livres comptables jusqu’au moment où la facture est émise.
+[60] Effectivement, le premier versement n’est pas considéré comme un revenu d’un point de vue comptable car il fait l’objet d’une double écriture à l’actif et au passif du bilan de l’entreprise à titre de revenu rapporté jusqu’à ce que la marchandise soit facturée et livrée[15]. C’est uniquement au moment de la facturation que ce premier versement devient un revenu pour les fins comptables et que le jeu de double écriture disparaît.
+[61] Le traitement fiscal suit en partie ce principe comptable. En effet, en vertu de l’alinéa 12(1)a) de la Loi de l’impôt sur le revenu, les sommes reçues au cours de l'année par le contribuable dans le cours des activités de son entreprise au titre de marchandises non livrées avant la fin de l'année sont à inclure dans le calcul de son revenu tiré de l’entreprise. D’autre part, ce montant fait l’objet d’une provision en vertu de l’alinéa 20(1)m) de la Loi lorsqu’il est raisonnable de prévoir que ces marchandises seront livrées après la fin de l'année.
+[62] Le système comptable de l’appelante tient compte de cette réalité fiscale et comptable, qui est celle des entreprises de vente de biens s’étalant sur plusieurs mois. Il est donc normal que l’appelante estime que le versement initial, qui est traité comme une provision selon l’impôt sur le revenu et selon les normes comptables, le soit également pour les taxes à la consommation. Si l’appelante devait taxer le premier versement immédiatement comme un acompte, elle se retrouverait avec un revenu pour la TPS, mais non pour l’impôt sur le revenu.
+[63] L’appelante a adopté une position pragmatique et compréhensible dans la mesure où elle exploite une petite entreprise. L’appelante ne veut pas se retrouver avec trois systèmes comptables ; soit un pour l’impôt sur le revenu, un pour la comptabilité et un autre pour les taxes de vente. Néanmoins, en l’absence d’une nouvelle loi qui harmoniserait la perception des taxes à la consommation avec l’impôt sur le revenu, ou encore d’une nouvelle politique administrative du fisc afin qu’une somme soit traité de la même façon pour les deux lois, le juge doit suivre la loi telle qu’elle est.
+[64] Pour tous ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 8e jour de mars 2011.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2011 CCI 141
+Nº DU DOSSIER DE LA COUR : 2010-1966(GST)I
+INTITULÉ DE LA CAUSE : TENDANCES ET CONCEPTS INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 15 novembre 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 8 mars 2011
+COMPARUTIONS :
+Représentant de l'appelante :
+Denis Cadieux
+Avocat de l'intimée :
+Me Benoît Denis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Analyses/commentaires — fédéral — Fiscalité spécialisée, 21e édition 2008 — Robert Morin et Marc Papillon (extraits), 36.1 – Taxnet.pro.
+[2] Le Nouveau Petit Robert : dictionnaire alphabétique et analogique de la langue française, 2008, sub verbo « acompte ».
+[3] Pierre-Gabriel Jobin, La vente, 3e éd, Cowansville, Éditions Yvon Blais, 2007, page 52.
+[4] 9134-4515 Québec inc. c. 9069-9885 Québec inc. (C.Q.), EYB 2009-157320; Lainé c. Bérubé (C.A.), EYB 2001‑25629.
+[5] L. Faribault, Traité de droit civil du Québec, tome XI, 1961, page 104.
+[6] Ibid., page 105.
+[7] Ibid., page 107.
+[8] Deuxième édition, volume IV.
+[9] [1923] O.J. No. 4 (QL), [1924] 1 D.L.R. 1025, paragraphes 22 à 25.
+[10] Stroud’s Judicial Dictionary of Words and Phrases, volume 1, 2006, sous « deposit ».
+[11] Volume 2, sous « deposit ».
+[12] S.M. Waddams, The Law of Contracts, 6e édition, Canadian Law Book, 2010, p. 338.
+[13] Angela Swan, Canadian Contract Law, 2e édition, Lexis Nexis, 2009, p.567-568.
+[14] Revenu Québec, 31 janvier 1997, pages 1 et 2.
+[15] Manuel de l’ICCA, volume 1, feuille mobile 1510.07, Toronto, 1995.

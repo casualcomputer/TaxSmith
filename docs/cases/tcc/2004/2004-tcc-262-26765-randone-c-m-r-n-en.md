@@ -1,0 +1,226 @@
+---
+title: "Randone c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26765/index.do"
+last_modified: "2004-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 262"
+citation2: ""
+neutral_citation: "2004 TCC 262"
+decision_date: "2004-04-14"
+language: "en"
+item_id: "26765"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3511
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:35:33.131000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "76ce3bdf637baf9b1627bfe92587ead9daf03f36f88516c069d7a277790c8017"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Randone c. M.R.N.
+
+- Citation: 2004 TCC 262
+- Decision date: 2004-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3511, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Randone c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-14
+Neutral citation
+2004 TCC 262
+File numbers
+2003-2858(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-2858(EI)
+BETWEEN:
+DENYSE PROULX,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ANTOINE RANDONE,
+Intervenor.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Antoine Randone (2003-2856(EI)) on March 8, 2004,
+at Québec, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+For the Appellant:
+Antoine Randone
+Counsel for the Respondent:
+For the Intervenor:
+Philippe Dupuis
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of April 2004.
+"François Angers"
+Angers J.
+Certified true translation
+Docket: 2003-2856(EI)
+BETWEEN:
+ANTOINE RANDONE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Denyse Proulx (2003-2858(EI)) on March 8, 2004,
+at Québec, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Philippe Dupuis
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of April 2004.
+"François Angers"
+Angers J.
+Certified true translation
+Reference: 2004CCI262
+Date: 20040414
+Docket: 2003-2858(EI)
+BETWEEN:
+DENYSE PROULX,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+ANTOINE RANDONE,
+Intervenor,
+and
+Docket: 2003-2856(EI)
+BETWEEN:
+ANTOINE RANDONE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] These are two appeals from decisions by the Minister of National Revenue (the "Minister") on May 23, 2003. These appeals were heard on common evidence. The two cases concern the Minister's decision that the Appellant Denyse Proulx's employment from January 1, 200, to November 30, 2002, with the Appellant (the Payer) was not insurable employment within the meaning of paragraph 5(2)(i) and subsection 5(3) of the Employment Insurance Act. The Minister, after studying the terms of employment for the period at issue, ruled that the employment was not insurable because the two Appellants would not have entered into a substantially similar employment contract if they had been dealing with each other at arm's length.
+[2] The Appellant Denyse Proulx is the common law spouse of the Appellant Antoine Randone. The fact that they are not at arm's length is not at issue, nor is the fact that there is a contract of service. The Appellant Antoine Randone is currently a financial advisor. During the period in question, he was an insurance broker and he sold life insurance and mutual funds. He had two offices, one at the Sun Life building and the other one in the basement of his house. For the Sun Life office, the Appellant hired Gina Bédard as his secretary, and at his home, his spouse held this position. According to the Appellant, his spouse's work was more administrative, whereas Ms. Bédard's work was more technical. Ms. Bédard was responsible for correspondence with headquarters, answered the telephone and, although she held a licence to do mutual fund transactions, she never did any. She could, however, bind the Appellant Antoine Randone as she had power of attorney.
+[3] The Appellant Denyse Proulx prepared the files for the day, verified the amount of commissions and the status of accounts, answered the telephone and, occasionally, acted as a driver because of the Appellant Antoine Randone's state of health. He oversaw the work of the Appellant and provided her with the equipment and supplies needed to carry out her duties. The Appellant Antoine Randone admits that the Appellant Denyse Proulx did not have set work hours, that she worked many irregular hours each week and that, during the period in question, she also had another job. The Appellant's work hours were not monitored and no log of her work hours was maintained. Her hourly rate went from $14.00 to $18.00 per hour but her salary was not paid on fixed dates. She was paid at times by cheque, at times by cheque endorsed by the Appellant Antoine Randone and at times by payments into her mutual funds or her Registered Retirement Savings Plan (RRSP). Moreover, there was no written agreement between the Appellants setting out the conditions of employment for Denyse Proulx. Her terms of employment were established orally and remuneration was based on the time she worked and based on an average of the hours determined by the Appellant Antoine Randone. According to Mr. Randone, Ms. Proulx had a schedule that varied according to need.
+[4] Ms. Bédard, however, had a written employment contract setting out all the terms and conditions, including the work schedule established by Mr. Randone, her remuneration, leave and her hourly rate. Ms. Bédard was paid every two weeks at a rate of $15.00 an hour. The work hours were recorded in a payroll register and the total reflected the number of hours actually worked and not an average as in the case of the Appellant Denyse Proulx.
+[5] For health reasons, the Appellant had to stop working and he terminated Ms. Bédard's employment in August 2002 and his common law spouse's employment on November 30, 2002.
+[6] Louise Moisson was the appeals officer at the Canada Customs and Revenue Agency responsible for the investigation. The facts that she obtained during the investigation are similar to the facts that the Appellant presented and admitted. Moreover, she made recommendations based on the information she obtained from the two Appellants and this information was not refuted at trial.
+[7] In particular, she reviewed the Appellant's employment income. As part of this review she considered the testimony given, the payroll register, Ms. Bédard's contract of employment and the amounts deposited by the Appellant (Mr. Randone) in to the bank account and RRSP of the Appellant (Ms. Proulx). The remuneration paid and the terms and conditions attracted her attention the most. The following is an excerpt from her report concerning these topics.
+[Translation]
+Remuneration paid
+The Payer and Worker told us that the salary was paid at a rate of $18/hour in 2002. The previous years, the Payer stated that it varied from $14 to $15.50. However, with respect to payment, the Worker told us that she received $600/month and the rest was in irregular payments; sometimes in cash, sometimes by cheque that the Payer endorsed and gave to her and sometimes by direct payments into her RRSP. This situation was confirmed by the Payer.
+A review of her bank statements shows that there is no regularity in dates or amounts. Payments to the mutual funds were made in February and March 2002. The Payer made these payments when it was the time to invest and not based on the payroll.
+According to the payroll register, the total net remuneration is $12,648.08 for 2002. The total payments on the bank statements is $9,330 and the total payments to the mutual fund is $17,820. The total payments made for Denyse Proulx is $26,150.
+For the other years the Payer did not provide us with any documents that would enable us to know precisely what salary is on the books and what salary was really paid. However, the Worker and the Payer told us that the payments were always irregular.
+With respect to the Worker Gina Bédard, she had an employment contract indicating that her hourly wage was $15. The Payer confirmed that she was paid regularly every two weeks as indicated in the payroll register.
+It is not reasonable to believe that similar conditions of remuneration would have been given to employees at arm's length.
+Terms of employment
+With respect to the work schedule, we received three different accounts. According to the Payer, Denyse Proulx worked 35 to 38 hours per week. According to Denyse Proulx, she worked 30 hours per week. However, the payroll register for 2002 indicates that the total number of hours is entered every two weeks and that it varies from one week to the next. This is particularly surprising because Denyse Proulx did not record her hours.
+She worked at her leisure, during the day, evening or weekends. As she also had a part-time job with another Payer, she adjusted her schedule accordingly. Since the office was at their home, it was easy for her to work whenever it was convenient.
+The Payer did not monitor her hours.
+The other worker, Gina Bédard, had an office at the Sun Life building. Her work schedule (and her conditions) was clearly set out in her employment contract: Monday to Thursday from 8:30 a.m. to 3 p.m. The Payer confirmed that she maintained a log of her hours. She called him to inform him of the hours worked. If she missed work, she informed him and made up the time.
+It is unreasonable to think that that [sic] the relationship between the Worker and the Payer are at arm's length.
+[8] In the instant case, the burden lies with the Appellants to establish, on the balance of probabilities, that the Minister's decision, given the evidence, was not reasonable and that the Appellants would have entered into a substantially similar employment contract if they had been dealing with each other at arm's length. The role of the Minster and the role of the Court was set out by the Federal Court of Appeal in Legaré v. Canada, [1999] F.C.A. no. 878 (QL). Marceau J.A. summarized it at paragraph 4:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[9] Furthermore, the Federal Court of Appeal restated its position in Pérusse v. Canada, [2000] F.C.A. no. 310 (QL). Marceau J.A., referring to the above-cited passage from Legaré, added the following at paragraph 15:
+The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading
+[10] In the instant case, the evidence of the Appellant and his admissions to almost all the presumptions of fact on which the Minister based the exercise of his discretion leaves very little doubt as to the truthfulness of the facts and the Minister's assessment of them. The presumptions of fact that the Minister based his decision on with respect to the remuneration paid and the terms of employment are identical to the evidence adduced, and the analysis of the facts support his conclusion. The fact that the Appellant's hours were not written down in a register, that the Appellant was paid irregularly sometimes in cash, sometimes by cheque endorsed by the Appellant or by direct payments to her RRSP during RRSP season or by deposits in her bank account leads the Court to the following conclusion: these conditions of remuneration would not be offered to an employee at arm's length. The terms of employment here gave the Appellant an incredible amount of flexibility in her availability, which justifies the Minister's theory in his analysis of the employment contract between the Appellants.
+[11] Consequently, after examining the evidence of the Appellants, the terms of employment, the remuneration paid, the length of employment and the nature and importance of the work accomplished, I find that the Minister's decision in this case was well founded. Thus, the appeals are dismissed.
+Signed at Ottawa, Canada, this 14 day of April 2004.
+"François Angers"
+Angers J.
+Certified true translation
+REFERENCE:
+2004CCI262
+COURT FILE NUMBER:
+2003-2858(EI)
+STYLE OF CAUSE:
+Denyse Proulx v. The Minister of National Revenue
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+March 8, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable François Angers, Judge
+DATE OF JUDGMENT:
+April 14, 2004
+APPEARANCES:
+For the Appellant:
+Antoine Randone
+For the Respondent:
+For the Intervenor:
+Philippe Dupuis
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+REFERENCE:
+2004CCI262
+COURT FILE NUMBER:
+2003-2856(EI)
+STYLE OF CAUSE:
+Antoine Randone v. The Minister of National Revenue
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+March 8, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable François Angers, Judge
+DATE OF JUDGMENT:
+April 14, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Philippe Dupuis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

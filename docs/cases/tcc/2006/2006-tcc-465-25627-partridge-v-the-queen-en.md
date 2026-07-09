@@ -1,0 +1,186 @@
+---
+title: "Partridge v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25627/index.do"
+last_modified: "2006-08-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 465"
+citation2: ""
+neutral_citation: "2006 TCC 465"
+decision_date: "2006-08-24"
+language: "en"
+item_id: "25627"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2433
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:48:44.901000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1e7a4d1bb77931e05c61d67787dd1d77a686a34948ab07e85b93bee1990d3599"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Partridge v. The Queen
+
+- Citation: 2006 TCC 465
+- Decision date: 2006-08-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2433, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Partridge v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-08-24
+Neutral citation
+2006 TCC 465
+File numbers
+2004-4647(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4647(IT)I
+BETWEEN:
+GRANT PARTRIDGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 6, 2006 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+John David Buote
+Counsel for the Respondent:
+Aleksandrs Zemdegs
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1999, 2000, 2001 and 2002 taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of August 2006.
+"L.M. Little"
+Little J.
+Citation: 2006TCC465
+Date: 20060824
+Docket: 2004-4647(IT)I
+BETWEEN:
+GRANT PARTRIDGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant and Barbara Anne Partridge (the "Former Spouse") were married on September 4, 1976.
+[2] The Appellant and the Former Spouse are the parents of two sons:
+- Son No. 1 - Born September 20, 1983
+- Son No. 2 - Born June 18, 1986
+[3] On October 8, 1991 the Appellant and the Former Spouse were granted a divorce (the "Divorce Judgment" - Exhibit A-3).
+[4] The Divorce Judgment provided that the Appellant would pay child support to the Former Spouse in the amount of $1,500.00 per month ($750.00 per month for each child).
+[5] On June 30, 1993 the Ontario Court ("General Division") varied the Divorce Judgment to reduce the amount of child support payable by the Appellant to $1,300.00 per month ($650.00 per month for each child - Exhibit A-2).
+[6] On August 31, 1998 the Appellant and the Former Spouse signed an Agreement varying the amount of child support payable by the Appellant to the Former Spouse (the "Agreement" - Exhibit A-1).
+[7] The Agreement states that it is made to bring the child support payments payable by the Appellant into compliance with the Child Support Guidelines.
+[8] The Agreement provides for the payment of child support by the Appellant to the Former Spouse in the amount of $1,000.00 per month ($500.00 per month for each child) commencing June 1, 1998.
+[9] The Agreement also provides that the child support amount will be adjusted on June 1 of every year in accordance with the Child Support Guidelines.
+[10] In the years indicated the Appellant made child support payments to the Former Spouse in the following amounts:
+1999 $17,312.00
+2000 $19,372.00
+2001 $18,891.00
+2002 $19,351.92
+[11] When the Appellant filed his income tax returns for the 1999, 2000, 2001 and 2002 taxation years he deducted the child support payments referred to in paragraph 10 above.
+[12] On June 5, 2003 the Minister of National Revenue (the "Minister") issued Notices of Reassessment for the 1999 - 2002 taxation years. In the said Notices of Reassessment the Minister determined that the child support payments that were claimed by the Appellant were not deductible.
+[13] The Notices of Reassessment were confirmed by the Minister on September 9, 2004.
+[14] On December 8, 2004 the Appellant filed Notices of Appeal to the Reassessments.
+B. ISSUES
+[15] Whether the Appellant should be allowed to deduct the child support payments made in the 1999 - 2002 taxation years.
+C. ANALYSIS AND DECISION
+[16] Under what has sometimes been described as the old tax régime (pre-May 1997) spouses making payments to separated or ex-spouses for the support of children were allowed to deduct those payments and the recipient was required to include the amount of the payments in their income. Following the decision of the Supreme Court of Canada in Thibaudeau v. Canada, [1995] 2 S.C.R. 627, the Income Tax Act (the "Act") was amended and new provisions were introduced to deal with child support payments.
+[17] The amended Act provided that if a pre-May 1997 agreement or Court Order remained unchanged the deduction/inclusion system as provided by the old régime prevailed. However, if a new agreement was entered into by the parties or if a new Court Order was issued, or an old agreement was changed in a particular way, the deduction/inclusion régime would not apply and only payments made up to the commencement day, as defined in the Act, were deductible from income by the payor and included in income by the payee.
+[18] Subsection 56.1(4) of the Act defines "child support amount", "commencement day" and "support amount". Subsection 56.1(4) reads as follows:
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or former spouse of the payer or who is a parent of a child of whom the payer is a natural parent.
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or former spouse of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[19] Paragraph 60(b) of the Act reads as follows:
+(b) Support -- the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxation year;
+[20] In this situation the Divorce Judgment dated October 8, 1991 provided that the Appellant would pay child support to the Former Spouse in the amount of $1,500.00 per month ($750.00 per month for each child).
+[21] On June 30, 1993 the Ontario Court (General Division) varied the Divorce Judgment and the child support payments payable by the Appellant were reduced to $1,300.00 per month ($650.00 per month for each child).
+[22] On August 31, 1998 the Appellant and the Former Spouse signed an Agreement to vary the amount of child support payments payable by the Appellant to the Former Spouse. The Agreement states that it is made to bring the child support payments payable by the Appellant into compliance with the Child Support Guidelines. The Agreement provides for child support payments payable by the Appellant in the amount of $1,000.00 per month ($500.00 per month for each child) commencing June 1, 1998.
+[23] The Agreement also provides that the child support payments will be adjusted on June 1 of every year in accordance with the Child Support Guidelines.
+[24] The Minister has determined that the amount of child support payable by the Appellant was varied by the Agreement dated August 31, 1998. The Minister has also concluded that the "variation" created by the Agreement has created a "commencement day" as defined in subsection 56.1(4) of the Act and therefore any amounts paid after the commencement day are not deductible.
+[25] Counsel for the Appellant maintains that the parties were not successful in varying the Court Order. Counsel for the Appellant said that none of the things that needed to be done to give effect to the Agreement actually got done.
+[26] Counsel for the Appellant said that in the Province of Ontario you have to have an agreement that is filed under the Family Law Act in order to vary a child support payment.
+[27] Mr. Zemdegs, counsel for the Respondent, maintains that the validity of an agreement is not conditional as being approved or sanctioned by the Court. He argued that the parties are not prohibited by the Family Law Act or the Divorce Act from settling between themselves the way they want to execute the benefits and obligations derived from a Court Order and are free to negotiate at any time.
+[28] In support of his position counsel for the Respondent referred me to a decision of Mr. Justice Sexton of the Federal Court of Appeal in Kennedy v. Canada, [2004] F.C.J. 2122. In that case Mr. Justice Sexton said:
+11. It was argued by the appellant that because it was necessary for her to obtain a judgment in order to obtain an enforcement procedure to compel payment of the cost of living increases, the 1997 Order which was made after April 1997 created a commencement day within the meaning of paragraph (1) of the definition of s. 56.1(4).
+12. I cannot accept this interpretation of the legislation. The obligation to pay the support payments was created by the Order of the Court in 1991. The obligation to pay the cost of living increases was created by the Minutes of Settlement which were signed in 1991. The 1997 Judgment did not alter either of those obligations. It may have made collection procedures simpler for Ms. Kennedy but the obligations themselves existed well prior to April 1997. Ms. Kennedy did not need to obtain the 1997 Judgment to enforce payment. She could have obtained relief in the Ontario Court by bringing an action to enforce the terms of the Minutes of Settlement.
+13. It seems to me that, although the statutory definition of "commencement day" in subsection 56.1(4) might be more clearly drafted, the intention of the legislation is that orders or agreements made after April 1997 which actually create new obligations will be subject to the new regime. Obligations created under the old regime will remain subject to the old provisions. This intention is borne out by subparagraph (b)(ii) which specifies that agreements or orders which are varied after April 1997 so as to change child support amounts payable, will qualify as creating a commencement day. In such a case, a new obligation will have been created by the variance after April 1997. The same can be said of subparagraph (b)(iii) which provides that a subsequent agreement or order made after April 1997 which changes the total amount of child support payments creates a commencement day.
+[29] Mr. Zemdegs also referred me to a decision of my colleague Justice Lamarre in Clermont v. The Queen, [2003] T.C.C. 752. In that case Justice Lamarre said that an agreement that was not confirmed by a Court Order still had the effect of varying the earlier Order.
+[30] I agree with the comments of Justice Sexton and Justice Lamarre and I conclude that the Agreement dated August 31, 1998 (Exhibit A-1) has the effect of varying the original Court Order. It therefore follows that there is a commencement date in this situation and therefore any child support payments paid by the Appellant after the commencement date are not deductible.
+[31] The appeals are dismissed, with costs.
+Signed at Ottawa, Canada, this 24th day of August 2006.
+"L.M. Little"
+Little J.
+CITATION:
+2006TCC465
+COURT FILE NO.:
+2004-4647
+STYLE OF CAUSE:
+Grant Partridge and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 6, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+August 24, 2006
+APPEARANCES:
+Counsel for the Appellant:
+John David Buote
+Counsel for the Respondent:
+Aleksandrs Zemdegs
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+John David Buote
+Firm:
+Brampton, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

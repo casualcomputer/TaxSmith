@@ -1,0 +1,154 @@
+Title: Elguindy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26599/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-107-26599-elguindy-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-02-20
+
+# Elguindy v. The Queen
+
+- Citation: 2006 CCI 107
+- Decision date: 2006-02-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3541, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elguindy v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-20
+Référence neutre
+2006 CCI 107
+Numéro de dossier
+2005-920(GST)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+2005-920(GST)I
+ENTRE :
+GAMAL ELGUINDY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu à Toronto (Ontario), le 3 novembre 2005 et le 27 janvier 2006
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Représentant de l’appelant :
+M. Emad Elguindy
+Avocate de l’intimée :
+Me Meghan Castle
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en application de la Loi sur la taxe d’accise, dont l’avis est daté du 4 mai 2004 et porte le numéro 04085519012370001, est rejeté.
+Signé à Toronto (Ontario), ce 20e jour de février 2006.
+« E.A Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 16e jour d’août 2006.
+Christian Laroche, LL.B.
+Référence : 2006CCI107
+Date : 20060220
+Dossier : 2005-920(GST)I
+ENTRE :
+GAMAL ELGUINDY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] M. Elguindy interjette appel à l’encontre de la cotisation établie en application de la partie IX de la Loi sur la taxe d’accise[1] (la « Loi »), dans laquelle sa demande de remboursement de taxe sur les produits et services (« TPS ») a été refusée. Son appel a été entendu à Toronto, sous le régime de la procédure informelle de la Cour. L’appelant était représenté par son frère, qui est technicien juridique et qui a aussi témoigné pour le compte de l’appelant.
+[2] Le 21 octobre 2003, l’appelant a acheté une Volkswagen Passat de Queensway Volkswagen Inc. (« Queensway »), à Toronto, pour 50 000 $. Il devait payer un montant de TPS de 3 500 $ et la taxe de vente provinciale (« TVH ») de 4 000 $ relativement à l’opération. L’appelant a versé 15 000 $ en espèces et a pris possession du véhicule deux jours plus tard. À ce moment‑là, Queensway avait cédé le contrat à VW Credit Canada Inc. (« VW Credit »), avec qui l’appelant avait conclu un contrat de vente conditionnelle lorsqu’il avait pris possession du véhicule. Il n’est pas contesté que la TPS faisait partie du paiement de 15 000 $ ou que le vendeur a dûment versé la TPS au receveur général du Canada, comme l’exige la Loi.
+[3] Une dizaine de jours plus tard, un huissier s’était rendu à la maison où l’appelant et son frère habitaient et avait repris possession du véhicule pour le compte du vendeur. Il semble que M. Elguindy a sans succès intenté une action devant la Cour de l’Ontario en vue de récupérer le véhicule, mais les renseignements à ce sujet ne sont pas tout à fait clairs. La pièce A‑5 est une lettre des avocats de VW Credit à l’intention de l’appelant. La lettre disait que le véhicule avait été repris parce que M. Elguindy avait transféré le droit de propriété du véhicule à un certain Emadeldin Elguindy, un résident de l’Alberta, violant ainsi une des clauses du contrat de vente. La lettre disait ensuite que, si l’appelant ne payait pas le solde du prix d’achat dans un délai précis, le véhicule serait vendu et le produit de la vente serait appliqué en réduction du solde. Dans l’éventualité d’un bris de contrat de la part de l’acheteur, le vendeur dispose d’un certain nombre de recours, dont l’application de la clause de déchéance du terme, qui autorise le vendeur à exiger immédiatement le solde impayé du prix d’achat.
+[4] Lors de son témoignage, l’appelant a nié avoir transféré le droit de propriété du véhicule, contrairement à ce qui est allégué dans la lettre des avocats. Il adopte la position selon laquelle VW Credit n’avait pas le droit de reprendre possession du véhicule. Je ne peux pas statuer sur cette question. À tort ou à raison, il est clair que VW Credit a pris des mesures du fait qu’il y avait eu bris du contrat de vente conditionnelle et l’appelant n’a pas réussi à prouver le contraire devant la Cour qui a compétence pour trancher cette question. Toutefois, il est clair que le contrat n’avait pas été résilié par suite d’un accord mutuel.
+[5] Le représentant de l’appelant a fait valoir que le contrat conclu entre l’appelant et VW Credit avait été révoqué par le vendeur, qu’il n’y avait donc pas eu d’opération de vente et, par conséquent, qu’aucune TPS n’était payable. À l’appui de ces affirmations, il signale que le gouvernement de l’Ontario lui avait remboursé la taxe de vente provinciale payée. Il a soutenu que la situation correspondait à un cas où un acheteur retourne des produits à un magasin et obtient un remboursement du prix de vente et des taxes payées. Finalement, il a invoqué la compétence en équité de la Cour et a avancé qu’il s’agirait d’un enrichissement sans cause si l’intimée pouvait garder la TPS payée sur l’achat du véhicule en question.
+[6] Malheureusement pour l’appelant, la Cour n’a pas compétence pour dispenser les demandeurs de l’application des dispositions de la Loi pour des raisons d’équité. Je peux uniquement déterminer si les dispositions de la Loi accordent à l’appelant un remboursement de taxe à la lumière des circonstances révélées par la preuve.
+[7] La mesure dans laquelle la taxe est payable dépend de la question de savoir si l’appelant était l’acquéreur d’une fourniture taxable[2]. Vu les définitions de « fourniture taxable » et de « fourniture » contenues au paragraphe 123(1) de la Loi, la vente d’une automobile dans le cadre d’une activité commerciale est une fourniture taxable. L’intimée a adopté la position selon laquelle les paragraphes 165(1), 168(1) et 152(1) s’appliquaient à la vente en question, que le contrat de vente conclu le 21 octobre 2003 était une facture et que la taxe était donc devenue payable en entier à cette date. Les paragraphes 165(1), 168(1) et 152(1) se lisent comme suit :
+165(1) Sous réserve des autres dispositions de la présente partie, l’acquéreur d’une fourniture taxable effectuée au Canada est tenu de payer à Sa Majesté du Chef du Canada une taxe calculée au taux de 7 % sur la valeur de la contrepartie de la fourniture.
+168(1) La taxe prévue à la présente section est payable par l’acquéreur au premier en date du jour où la contrepartie de la fourniture taxable est payée et du jour où cette contrepartie devient due.
+152(1) Pour l’application de la présente partie, tout ou partie de la contrepartie d’une fourniture taxable est réputée devenir due le premier en date des jours suivants :
+a) le premier en date du jour où le fournisseur délivre, pour la première fois, une facture pour tout ou partie de la contrepartie et du jour apparaissant sur la facture;
+b) le jour où le fournisseur aurait délivré une facture pour tout ou partie de la contrepartie, n’eût été un retard injustifié;
+c) le jour où l’acquéreur est tenu de payer tout ou partie de la contrepartie au fournisseur conformément à une convention écrite.
+Toutefois, il me semble que le paragraphe 168(3) de la Loi est la disposition qui régit l’incidence de la taxe sur ce genre d’opération, à savoir une opération sous forme de contrat de vente conditionnelle :
+168(3) Par dérogation aux paragraphes (1) et (2), la taxe prévue à la présente section, calculée sur la valeur de tout ou partie de la contrepartie d’une fourniture taxable, est payable le dernier jour du mois qui suit le premier mois où l’un des faits suivants se réalise, dans le cas où tout ou partie de la contrepartie n’est pas payée ou devenue due au plus tard ce jour‑là :
+a) s’il s’agit de la fourniture par vente d’un bien meuble corporel, sauf la fourniture visée à l’alinéa b) ou c), la propriété ou la possession du bien est transférée à l’acquéreur;
+b) [sans pertinence];
+c) [sans pertinence].
+Quoi qu’il en soit, la taxe sur la contrepartie totale de 50 000 $ était payable au plus tard le 30 novembre 2003.
+[8] L’article 232[3] de la Loi prévoit que les vendeurs doivent rembourser les clients de la taxe qu’ils ont payée si le contrat est résilié par suite d’un accord mutuel ou rajusté en vue de réduire le prix de vente. Cependant, cet article ne s’applique pas à la présente affaire, étant donné que le contrat n’a été ni résilié ni modifié. Le contrat est demeuré en vigueur, même après que le vendeur a repris possession du véhicule; le vendeur s’était prévalu de recours qui étaient à sa disposition en vertu du contrat, à savoir l’application de la clause de déchéance du terme, ainsi que la reprise et la vente du véhicule lorsque l’appelant a omis de payer le solde dû à la nouvelle date rapprochée. Autrement dit, la reprise de possession ne change rien au fait que le véhicule avait été vendu au prix convenu. L’article 232 de la Loi ne s’applique donc pas à la présente affaire.
+[9] Le représentant de l’appelant a invoqué le paragraphe 261(1) à l’appui de son argument selon lequel l’appelant a droit à un remboursement.
+261(1) Dans le cas où une personne paie un montant au titre de la taxe, de la taxe nette, des pénalités, des intérêts ou d’une autre obligation selon la présente partie alors qu’elle n’avait pas à le payer ou à le verser, ou paie un tel montant qui est pris en compte à ce titre, le ministre lui rembourse le montant, indépendamment du fait qu’il ait été payé par erreur ou autrement.
+261(2) Le montant n’est pas remboursé dans la mesure où :
+a) le montant est pris en compte à titre de taxe ou de taxe nette pour la période de déclaration d’une personne et le ministre a établi une cotisation à l’égard de la personne pour cette période selon l’article 296;
+b) le montant payé était une taxe, une taxe nette, une pénalité, des intérêts ou un autre montant visé par une cotisation établie selon l’article 296;
+c) un remboursement du montant est accordé en application des paragraphes 215.1(1) ou (2) ou 216(6) ou des articles 69, 73, 74 ou 76 de la Loi sur les douanes par l’effet des paragraphes 215.1(3) ou 216(7).
+261(3) Le remboursement n’est versé que si la personne en fait la demande dans les deux ans suivant le paiement ou le versement du montant.
+Cependant, il ressort manifestement de ce qui précède que, dans la présente affaire, la taxe n’avait pas été payée « par erreur ». M. Elguindy a donc axé son argumentation sur une autre expression contenue dans l’article, soit l’expression « ou autrement », qui vient après l’expression « par erreur ». Cette argumentation ne tient toutefois pas compte du fait que la personne qui demande un remboursement doit prouver qu’elle avait payé un montant au titre de la taxe « […] alors qu’elle n’avait pas à le payer ou à le verser […] », ce que l’appelant ne peut pas faire pour les raisons que j’ai évoquées.
+[10] Le représentant de l’appelant a vigoureusement soutenu qu’il serait très injuste d’exiger que l’appelant paie la taxe dans la présente affaire, étant donné qu’il n’a plus la possession du véhicule. Il reste que la situation de l’appelant ne diffère pas de celle où le véhicule d’une personne a été volé ou détruit, ou du cas où une personne a décidé de vendre sa voiture immédiatement après en avoir pris possession. Dans tous ces cas, la taxe est exigible au moment de l’achat et ne devient pas remboursable en raison des événements qui ont lieu après la vente. Lors d’un vol ou d’une destruction, si l’acheteur est assuré contre la perte, il récupère la taxe du produit de l’assurance, et non au moyen d’un remboursement.
+[11] L’appelant s’appuie sur le fait que la taxe de vente provinciale lui a été remboursée, mais cela n’est pas non plus un argument de poids. Cette taxe est régie par une loi différente. Si la loi en question prévoit un remboursement dans les circonstances de la présente affaire, cela n’est aucunement pertinent à l’application de la loi fédérale.
+[12] Pour les motifs susmentionnés, je conclus que l’appelant était tenu de payer la TPS sur le prix de vente du véhicule au taux de 7 % et qu’il n’a pas droit au remboursement demandé. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 20e jour de février 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 16e jour d’août 2006.
+Christian Laroche, LL.B.
+ANNEXE A
+232(1) La personne qui exige ou perçoit d’une autre personne un montant au titre de la taxe prévue à la section II qui excède celui qu’elle pouvait recevoir peut, dans les deux ans suivant le jour où le montant a été ainsi exigé ou perçu :
+a) si l’excédent est exigé mais non perçu, redresser la taxe exigée;
+b) si l’excédent est perçu, le rembourser à l’autre personne ou le porter à son crédit.
+232(2) La personne qui exige ou perçoit d’une autre personne la taxe prévue à la section II, calculée sur tout ou partie de la contrepartie d’une fourniture, laquelle contrepartie est par le suite réduite en tout ou en partie au cours d’une de ses périodes de déclaration pour une raison quelconque peut, au cours de cette période ou dans les quatre ans suivant la fin de celle‑ci :
+a) si la taxe est exigée mais non perçue, la redresser en soustrayant la partie de la taxe qui a été calculée sur le montant de la réduction;
+b) si la taxe est perçue, rembourser à l’autre personne la partie de la taxe qui a été calculée sur le montant de la réduction, ou la porter à son crédit.
+232(3) Les règles suivantes s’appliquent dans le cas où une personne redresse un montant en faveur d’une autre personne en application des paragraphes (1) ou (2), le lui rembourse ou le porte à son crédit :
+a) elle remet à l’autre personne, dans un délai raisonnable, une note de crédit, contenant les renseignements réglementaires, pour le montant remboursé ou le montant du redressement ou du crédit, à moins que cette dernière ne lui remette une note de débit, contant les renseignements réglementaires, pour un tel montant;
+b) le montant est déductible dans le calcul de la taxe nette de la personne pour sa période de déclaration au cours de laquelle elle remet la note de crédit ou reçoit la note de débit, dans la mesure où il a été inclus dans le calcul de sa taxe nette pour cette période ou pour une de ses périodes de déclaration antérieures;
+c) le montant est ajouté dans le calcul de la taxe nette de l’autre personne pour sa période de déclaration au cours de laquelle elle remet la note de débit ou reçoit la note de crédit, dans la mesure où il a été inclus dans le calcul d’un crédit de taxe sur les intrants qu’elle a demandé dans une déclaration produite pour cette période ou pour une de ses périodes de déclaration antérieures;
+d) si le montant a été inclus, en totalité ou en partie, dans le calcul d’un remboursement prévu à la section VI qui a été versé à l’autre personne, ou appliqué en réduction d’une somme dont elle est redevable, avant le jour donné où elle reçoit la note de crédit ou remet la note de débit et si le montant du remboursement ainsi versé ou appliqué excède celui auquel elle aurait eu droit si le montant remboursé ou le montant du redressement ou du crédit n’avait jamais été exigé ni perçu de sa part, elle est tenue de verser l’excédent au receveur général en application de l’article 264 comme s’il s’agissait d’un montant qui lui a été remboursé en trop :
+(i) si l’autre personne est un inscrit, le jour où la déclaration de celle‑ci pour la période de déclaration qui comprend le jour donné doit au plus tard être produite,
+(ii) dans les autres cas, le dernier jour du mois civil suivant le mois civil qui comprend le jour donné.
+232(4) Le présent article ne s’applique pas dans le cas où l’article 161 ou 176 s’applique.
+RÉFÉRENCE :
+2006CCI107
+NO DU DOSSIER :
+2005‑920(GST)I
+INTITULÉ :
+Gamal Elguindy c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Le 3 novembre 2005 et le 27 janvier 2006
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge E.A. Bowie
+DATE DU JUGEMENT :
+Le 20 février 2006
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Emad Elguindy
+Avocate de l’intimée :
+Me Meghan Castle
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985 ch. E-15, dans sa version modifiée.
+[2] Paragraphe 165(1) de la Loi.
+[3] Voir l’annexe A.

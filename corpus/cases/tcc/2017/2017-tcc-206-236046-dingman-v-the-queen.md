@@ -1,0 +1,302 @@
+---
+title: "Dingman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/236046/index.do"
+last_modified: "2017-10-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 206"
+citation2: ""
+neutral_citation: "2017 TCC 206"
+decision_date: "2017-10-12"
+language: "en"
+item_id: "236046"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2156
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:08:48.082000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3e563545d534ddee7e3752cda06f1306848c34e56355dbea11c51569edbdc894"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dingman v. The Queen
+
+- Citation: 2017 TCC 206
+- Decision date: 2017-10-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2156, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dingman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-10-12
+Neutral citation
+2017 TCC 206
+File numbers
+2014-2746(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-2746(IT)G
+BETWEEN:
+STANLEY BLAKE DINGMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 10, 2017, at Edmonton, Alberta.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valerie Meier
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal against the reassessments dated March 28, 2013 made under the Income Tax Act by the Minister of National Revenue in respect of the appellant’s 2008, 2009, 2010 and 2011 taxation years, is dismissed with costs which are fixed in the amount of $4,860.44.
+Signed at Ottawa, Canada, this 12th day of October 2017.
+“Réal Favreau”
+Favreau J.
+Citation: 2017 TCC 206
+Date: 20171012
+Docket: 2014-2746(IT)G
+BETWEEN:
+STANLEY BLAKE DINGMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal against the reassessments dated March 28, 2013 made under the Income Tax Act, R.S.C. 1985, c. 1 (5th supp.), as amended (the “Act”), by the Minister of National Revenue in respect of the appellant’s 2008, 2009, 2010 and 2011 taxation years.
+[2] By way of the reassessments, the Minister:
+(a) included in the appellant’s income $16,613.34 in shareholder benefits received by the appellant in 2009. The amounts were payments for services provided by 1094238 Alberta Ltd. (“1094238”) to 870413 Alberta Ltd. o/a Graham’s Backhoe Services (“Graham’s Backhoe”). The appellant was the sole shareholder of 1094238;
+(b) included in the appellant’s income the following amounts received from Graham’s Backhoe for services provided directly by him to Graham’s Backhoe:
+Taxation Year
+Amount Included in Income
+2010
+$80,456.50
+2011
+$82,014.50
+(c) assessed the appellant gross negligence penalties on the amounts in sub-paragraphs (a) and (b) above. The Minister also assessed gross negligence penalties on the amounts of $65,445 in 2008 and $13,089 in 2009 which relate to reassessed shareholder benefits to which the appellant has already concurred and which gross negligence penalties are not in issue in this appeal. For 2008, the gross negligence penalties were assessed beyond the statute-barred period pursuant to section 152(4) of the Act.
+[3] Pursuant to subsection 152(9) of the Act, the Minister now relies on subsection 9(1) rather than subsections 15(1) and 15(1.3) in reassessing $3,861.59 of the $16,613.34 referred to in paragraph 2(a) above. The $3,861.59 is in respect of amounts received by the appellant from Graham’s Backhoe for services provided directly by him to Graham’s Backhoe.
+[4] In determining the appellant’s tax liability for the 2009, 2010 and 2011 taxation years, the Minister made the following assumptions of fact set out in paragraph 8 of the Amended Amended Reply to the Notice of Appeal:
+a) The Appellant reported no employment or business income on his 2009, 2010 and 2011 T1 tax returns;
+b) The Appellant was a shareholder of 1094238;
+c) 1094238 was a personal services business;
+d) As a result of an audit of his 2006-2008 taxation years, the Appellant was previously reassessed shareholder benefits from 1094238 in respect of personal amounts of the Appellant that were paid by 1094238;
+e) The Appellant had a longstanding working relationship with Graham’s Backhoe operating backhoe equipment;
+Prior to December 2009 – Unreported Shareholder Benefits
+f) Prior to December 2009, the Appellant provided services to Graham’s Backhoe through 1094238;
+g) Payment by Graham’s Backhoe to 1094238 for the Appellant’s services were issued to the Appellant and deposited into 1094238’s bank account;
+h) In October and November 2009, the appellant picked up two cheques totalling $12,751.75 from Graham’s Backhoe;
+i) The two cheques totalling $12,751.75 were made out to the Appellant and deposited into his own personal bank account;
+j) Neither the Appellant nor 1094238 reported the $12,751.75 or any portion thereof, on their income tax returns;
+k) The Appellant did not pay the $12,751.75 amounts (sic) he received from Graham’s Backhoe to Dannea Business Services Inc. (“Dannea”);
+l) The Appellant did not owe the $12,751.75 amounts (sic) he received from Graham’s Backhoe to Dannea;
+m) If any payment was made by the Appellant to Dannea in respect of the $12,751.75 amounts (sic), that payment would not have related to the appellant’s nor 1094238’s ability to earn and receive income from Graham’s Backhoe;
+December 2009 – 2011 – Unreported Income
+n) Starting December 1, 2009, the Appellant ceased providing his services through 1094238 and instead, became involved in an advertised leased employee scheme;
+o) The leased employee scheme was promoted by Peter Eickmeier and/or Graycliff Financial Corporation (“Graycliff”);
+p) The scheme, described by Eickmeier and/or Graycliff as a “procedure”, had the intended result that a leased employee would “never owe any income tax” on the income they (sic) earn because:
+(i) instead of the employer owing the leased employee a salary for work performed, it loans the money to the leased employee;
+(ii) the security for the loan is the legal obligation by the employer to pay the salary, “so the net amount is no one really owes anyone anything”; and
+(iii) any interest charged on the loan by the employer is offset by equal interest charged by the leased employee on the unpaid salary;
+q) Eickmeier and/or Graycliff charge individuals to implement their leased employee scheme;
+r) As of December 1, 2009, the Appellant provided the same services he previously provided through 1094238 directly to Graham’s Backhoe;
+s) Starting December 1, 2009, Graham’s Backhoe’s was instructed to issue payment for the Appellant’s services directly to Dannea;
+t) From December 2009 to August 20, 2010, cheques relating to services provided by the Appellant to Graham’s Backhoe were made payable to Dannea and totalled the following amounts:
+Taxation Year
+Amount Included into Income
+2009
+2010
+$ 3,861.59
+$37,764.50
+(the “Dannea Amounts”)
+u) From August 21, 2010 to December 31, 2011, cheques relating to services provided by the Appellant to Graham’s Backhoe were made payable to Browncliff Services Inc. (“Browncliff”) and totalled the following amounts:
+Taxation Year
+Amount Included into Income
+2010
+2011
+$42,692
+$82,014,50
+(the “Browncliff Amounts”)
+v) Browncliff and Dannea are both located in Grimsby, Ontario;
+w) The Appellant picked up the cheques issued by Graham’s Backhoe to Dannea and Browncliff from Graham’s Backhoe;
+x) Graham’s Backhoe is located in central Alberta;
+y) The Appellant resides and works in central Alberta;
+z) The cheques from Graham’s Backhoe to Dannea were deposited in an account both at ATM machines and at a bank branch in central Alberta;
+aa) The cheques from Graham’s Backhoe to Browncliff were deposited in an account both at ATM machines and at a bank branch in central Alberta;
+bb) Money withdrawn from the Dannea bank account and the Browncliff bank account were withdrawn from ATM machines in central Alberta;
+cc) Debit purchases for various items from the Dannea bank account and the Browncliff bank account were made from various locations in central Alberta;
+dd) The Dannea bank account and the Browncliff bank account were located at bank branches in Ontario;
+ee) No regular banking activity in respect of the Dannea bank account or the Browncliff bank account occurred in or near Grimsby, Ontario;
+ff) The money in the Dannea bank account and the Browncliff bank account was there for the Appellant’s use and enjoyment;
+gg) Neither Dannea nor Browncliff issued or filed T4 or T4A slips for the Appellant;
+hh) Neither Dannea nor Browncliff reported any income from Graham’s Backhoe;
+ii) Apart from the names in which payments were to be issued, Dannea and Browncliff did not have any direct involvement in communications with services provided to, or contractual obligations with Graham’s Backhoe;
+jj) The listed shareholder and sole director of both Dannea and Browncliff is Peter Eickmeier, who also owns Graycliff;
+kk) In his dealings with Dannea and Browncliff, the Appellant was following a leased employee procedure scheme promoted by Eickmeier and/or Graycliff; and
+ll) The Appellant did not report any part of the monies payable to Dannea or Browncliff.
+[5] In determining that the appellant was liable to penalties pursuant to subsection 163(2) of the Act, the Minister relied on the following facts set out in paragraph 9 of the Amended Amended Reply to the Notice of Appeal:
+a) The assumptions of fact in paragraph 8 above;
+. . .
+e) In his 2011 tax return, the Appellant asserted that he is not subject to government legislation;
+f) The Appellant’s spouse prepared the T1 returns the Appellant signed his T1s for 2009, 2010 and 2011; and
+g) The Appellant did not report enough income to support himself and his spouse.
+[6] The Minister relied on the following additional material facts set out in paragraph 11 of the Amended Amended Reply to the Notice of Appeal:
+a) Dannea issued no T4 slips in 2009 and 2010;
+b) Browncliff issued no T4 slips in 2010 and 2011;
+c) The registered offices and principal place of business of Browncliff, Dannea and Graycliff are all at the same address in Grimsby, Ontario;
+d) Browncliff was incorporated on August 26, 2010;
+e) The Browncliff bank account used by the Appellant is c/o Peter Eickmeier;
+f) Peter Eckmeier is the sole director of Graycliff; and
+g) The Appellant or someone under the Appellant’s direction created the invoices issued by Dannea and Browncliff to Graham’s Backhoe.
+[7] The Deputy Attorney General also relies on the following facts set out in paragraph 12 of the Amended Amended Reply to the Notice of Appeal:
+a) The acts done and documents executed by the Appellant and Dannea/ Browncliff in respect of the leased employee scheme were intended to misrepresent to the Minister the reality of the relationship between the Appellant and Dannea/Browncliff in order for the Appellant to avoid taxation;
+b) The Appellant and Dannea/Browncliff intended to create the appearance of an employment relationship when one did not exist;
+c) The Appellant and Dannea/Browncliff intended to create the appearance that reciprocal loans existed when no such loans actually existed;
+d) The Appellant was wilfully blind as to the legitimacy of the scheme;
+e) The Appellant reported annual total income of $3,500 in each (sic) his T1 returns for 2009, 2010 and 2011 (the “Returns”);
+f) In all three Returns, the Appellant asserted that he is not subject to government legislation; and
+g) The Appellant reported that his total income was $3,500 in the Returns because he believed that was the amount of the basic personal exemption.
+[8] Only the appellant and the auditor (Mrs. Michelle Towns) from the Canada Revenue Agency (“CRA”) testified at the hearing.
+[9] Prior to December 2009, the appellant provided his services to Graham’s Backhoe through 1094238, a personal services corporation of which the appellant was the sole shareholder. As a result of an audit conducted in 2009, the appellant was reassessed shareholder benefits from 1094238 in respect of personal expenses paid by 1094238 in his 2006-2008 taxation years. Gross negligence penalties under subsection 163(2) of the Act were proposed but not levied. As a result of the reassessment, half of the appellant’s salary was garnished by the CRA.
+[10] In his testimony, the appellant explained that he obtained the name of Peter Eickmeier from an individual from the community of folks on monetary and economic reform (“Comer”). The appellant said that he never met Mr. Eickmeier but that he had a few discussions with him as to how to minimize his tax liability and avoid the garnishment of his pay. Mr. Eickmeier’s proposal consisted of depositing the appellant’s pay cheques in the bank account of Dannea Business Services Inc. (“Dannea”) and withdrawing funds from Dannea’s bank account to make purchases for his living. The Dannea’s fees for this service was a 7% fee.
+[11] The funds withdrawn from the Dannea’s bank account in any given year, were considered to be loans to the appellant as evidenced by a promissory note dated December 31 of the given year. As security for the loan made in a year. the appellant assigned to Dannea his contractual rights and obligations arising from the payments made by Graham’s Backhoe to Dannea during the year. Upon payment in full of the said loan, all contractual rights and obligations assigned to Dannea will revert to the appellant.
+[12] To implement the plan, the appellant entered into an employment agreement with Dannea dated December 1, 2009. Mr. Peter Eickmeier signed the employment agreement with the appellant as president of Dannea. Under the employment agreement, the appellant was hired in his capacity of manager beginning on December 1, 2009 and Dannea undertook to pay the appellant a salary corresponding to 93% of the amounts that Dannea will receive from clients, exclusive of applicable taxes, for the services of the appellant.
+[13] By memorandum dated December 1, 2009, the appellant informed Graham’s Backhoe that, as of December 1, 2009, his services will be provided to Graham’s Backhoe through Dannea and he asked Graham’s Backhoe to make all paycheques for his services payable to Dannea. The appellant further stated that an invoice will be provided by Dannea at the end of each month and that the appellant will pick up the cheques at the office of Graham’s Backhoe.
+[14] In his testimony, the appellant recognized that the services he provided to Graham’s Backhoe from December 1, 2009 were the same as the ones he provided before through his personal services corporation. As before, he prepared his timesheets and invoices on behalf of Dannea. The appellant picked up the paycheques from Graham’s Backhoe and deposited them in Dannea’s bank account from January 1, 2009 to September 30, 2010.
+[15] The appellant stated that he did not receive the bank statements in respect of the Dannea’s bank account but that he got the balance every time he made a withdrawal from the account. According to the appellant, he and his spouse were the only persons who could make withdrawals from this account with the appellant’s ATM card. The money was available for his personal uses.
+[16] On September 1, 2010, the appellant replaced Dannea with Browncliff Services Inc. (“Browncliff”) apparently at the request of Mr. Peter Eickmeier. The appellant entered into an employment agreement with Browncliff dated September 1, 2010. Mr. Peter Eickmeier, as president of Browncliff, signed the employment agreement with the appellant. That employment agreement became effective on September 1, 2010 and had similar terms and conditions as the employment agreement entered into with Dannea.
+[17] Graham’s Backhoe was notified of the change sometime in August 2010 and was required to make the paycheques payable to Browncliff for the appellant’s services from August 21, 2010 to March 2012. The appellant prepared his timesheets and the monthly invoices on behalf of Browncliff, picked up the paycheques and deposited them in Browncliff’s bank account from November 1, 2010 to December 30, 2011. The appellant and his spouse were also the only persons who could make withdrawals from this account with the appellant’s ATM card.
+[18] On October 31, 2009, the appellant picked up a cheque from Graham’s Backhoe in the amount of $7,062.25 made payable to him and, on November 30, 2009, the appellant picked up another cheque from Graham’s Backhoe in the amount of $5,689.50 also made payable to him. The two cheques totalling $12,751.75 were deposited in the appellant’s personal bank account. Neither the appellant nor 1094238 reported the $12,751.75 or any portion thereof, on their respective income tax returns. The first cheque made payable to Dannea was deposited on January 11, 2010 in Dannea’s bank account.
+[19] The appellant stated that he and his spouse prepared his income tax returns for the 2008, 2009, 2010 and 2011 taxation years and he signed them. The appellant reported a total income of $9,200 for 2008 and $3,500 for the 2009, 2010 and 2011 taxation years.
+[20] The appellant explained that he did not seek any professional advice concerning the legitimacy of the plan proposed by Mr. Peter Eickmeier before implementing it. He has never seen the article of the Welland Tribune dated June 3, 2008 which announced that Mr. Peter Eickmeier pleaded guilty in a $5.2 million tax fraud case and has been sentenced to three years in jail and was ordered to repay nearly $3.3 million that he admitted receiving from the federal government in false GST returns.
+[21] The appellant further stated that he has not seen before discoveries, the Graycliff Financial Corporation’s website which offered a similar arrangement to the one adopted by the appellant, nor the Graycliff promotional material on the Internet on how to minimize income tax, how to create an additional layer of protection and how to prevent criminal prosecution on the imposition of income tax and financial penalties.
+[22] According to the appellant, the salary received from Graham’s Backhoe in 2009, 2010 and 2011 will become taxable in his hands when the promissory notes issued to Dannea and Browncliff will be reimbursed by the appellant. So far, none of the promissory notes have been reimbursed.
+[23] At the hearing, the parties produced a joint book of documents which includes the following documents:
+- the employment agreement dated the 1st day of December 1, 2009 between Dannea and the appellant;
+- the employment agreement dated the 1st day of September, 2010 between Browncliff and the appellant;
+- an unsigned promissory note dated December 31, 2010 from the appellant to Dannea;
+- an unsigned promissory note dated December 31, 2011 from the appellant to Browncliff;
+- all invoices issued by Dannea to Graham’s Backhoe in 2010;
+- all invoices issued by Browncliff to Graham’s Backhoe in 2010 and 2011;
+- the appellant’s T1 General Tax Returns for 2008, 2009, 2010 and 2011;
+- the letter to the appellant from Michelle Towns dated March 6, 2012, asking for the books and records of 1094238 for the period of March 1, 2008 to February 28, 2010;
+- the letter to 870413 Alberta Ltd. (Graham’s Backhoe) from Michelle Towns dated June 26, 2012 requesting information on all amounts paid to 1094238 or Stanley Dingman during the period from March 1, 2008 to February 28, 2010, inclusively, with an attached bundle of invoices, timesheets and cancelled cheques received on July 18, 2012;
+- the amended memo to the previous Bluecliff Services memo dated December 1, 2009;
+- the financial ledgers provided by the appellant received on July 18, 2012;
+- BMO Business Banking statements of Dannea for the monthly periods ending from January 29, 2010 to September 30, 2010;
+- BMO Business Banking statements of Browncliff for the monthly periods ending from November 30, 2010 to December 31, 2011;
+- Working Payer #80 – Statement of Adjustments dated November 19, 2012;
+- Natalie Elzinga’s (CRA) letter to the appellant dated November 9, 2009 regarding his T1 Personal Income Tax returns for 2006, 2007 and 2008;
+- the appellant’s Notice of Objection dated June 6, 2013 for 2008, 2009, 2010 and 2011;
+- the article entitled “Filing false GST returns nets Grimsby man jail” dated June 3, 2008;
+- Webpage of Graycliff Financial Corporation titled “Employers and Self-employed Business Owners to get Salary and Business Income-Tax-free”, dated March 19, 2013;
+- Webpage of Graycliff Financial Corporation titled “How to Minimize Income Taxes” dated August 16, 2012;
+- Webpage of Graycliff Financial Corporation titled “Audit Protection”, dated August 16, 2012;
+- Webpage of Graycliff Financial Corporation titled “Frequently Asked Questions”, dated August 16, 2012;
+[24] The respondent filed as Exhibit R-2 read-ins from the appellant’s discoveries.
+The Issues
+[25] The issues in this appeal are:
+a) whether shareholder benefits totalling $12,751.75 received by the appellant from 1094238 should be included in his 2009 income and whether he can deduct the amount received as a business income?
+b) whether the amounts of $3,861.59, $80,456.50 and $82,014.50 relating to services provided by the appellant to Graham’s Backhoe were received by him in 2009, 2010 and 2011 and whether these amounts should be included in his income?
+c) whether the appellant is liable for gross negligence penalties?
+Position of the Parties
+The Appellant’s Position
+[26] Concerning the cheques made out to the appellant, dated October and November 2009, that were not deposited in the bank account of 1094238, the appellant pretends that these funds belonged to Dannea which had acquired the rights to them. These funds were used for Dannea’s corporate purposes. Consequently, these funds are revenues of Dannea’s and not of the appellant’s.
+[27] Concerning the Graham’s Backhoe’s cheques made payable to Dannea from January 1, 2010 to August 20, 2010 and to Browncliff from August 21, 2010 to December 31, 2011, the appellant pretends that he cannot be held liable for the taxes on those amounts because he simply picked up the cheques on behalf of the said corporations. As these funds belonged to the concerned corporations, he cannot be held liable for the taxes thereon.
+[28] The appellant further argues that he received employee loans from Dannea and Browncliff which are governed by subsection 80.4(1) of the Act. According to the appellant, the employee loans will become taxable only when the promissory notes are paid off. When the CRA challenged his income tax calculations, he decided to defer the taxation of his wages until after the matter is settled by objecting to the reassessments or by a decision of the Tax Court of Canada.
+[29] The appellant disagrees with the imposition of penalties as no fraud or misrepresentation was made by him. The employment agreements and the loans made to the appellant are valid and represent the real situation. In the present case, neither the borrower nor the lenders lacked any of the rights that a borrower or the lenders need to have. Therefore, there is nothing to give rise to a claim that the loans were shams.
+The Respondent’s Position
+[30] According to the respondent, the appellant did not dispute any aspect of the reassessment for 2008 and did not plead any facts that could support an appeal of the reassessment.
+[31] Concerning the $12,751.75 received by the appellant in 2009, the respondent alleges that the amount was owed to 1094238 for services provided to Graham’s Backhoe and was reportable revenue for 1094238. The appellant directly received the amounts as the sole shareholder of 1094238. The respondent further alleges that the appellant is not entitled to deduct the $12,751.75 as an expense. The appellant did not pay that amount to Dannea in 2009 and did not owe that amount to Dannea. In any event, the amount was not incurred by the appellant for the purpose of gaining or producing income from a business.
+[32] The amounts of $3,861.59, $80,456.50 and $82,014.50 should be included in the appellant’s income for his 2009, 2010 and 2011 taxation years respectively as these amounts were in respect of services provided directly by the appellant to Graham’s Backhoe. The appellant had access to and received these amounts.
+[33] The leased employee scheme was a sham. The appellant, Dannea and Browncliff misrepresented their relationship to Graham’s Backhoe and to the Minister so that the appellant could avoid paying income tax and so that Dannea and Browncliff could realize a profit from that misrepresentation. There was no intent by the appellant and Dannea/Browncliff to create an employee/employer relationship and to enter into a lender/borrower relationship. In fact, no employment relationship existed and no such loans existed. In the alternative, if an employment relationship existed, the amounts received by the appellant are incomes pursuant to subsection 5(1) of the Act.
+[34] The appellant is liable for the gross negligence penalties since he knowingly or under circumstances amounting to gross negligence, failed to report his business income (or in the alternative, his employment income) in the amounts of $3,861.59, $80,456.50 and $82,014.50 on his 2009, 2010 and 2011 tax returns.
+Legislation
+[35] The following provisions of the Act are relevant for the purpose of this appeal:
+3. The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer’s income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer’s income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer’s income for the year from each office, employment, business and property,
+5.(1) Subject to this Part, a taxpayer’s income for a taxation year from an office or employment is the salary, wages and other remuneration, including gratuities, received by the taxpayer in the year.
+9.(1) Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+15.(1) Benefit conferred on shareholder Where at any time in a taxation year a benefit is conferred on a shareholder, or on a person in contemplation of the person becoming a shareholder, by a corporation otherwise than by
+. . .
+the amount or value thereof shall, except to the extent that it is deemed by section 84 to be a dividend, be included in computing the income of the shareholder for the year.
+18.(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+152.(9) Alternative basis for assessment The Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period unless, on an appeal under this Act
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+163.(2) False statements or omissions Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+Analysis and Conclusion
+[36] Based on the evidence before me, it is clear to me that the two cheques totalling $12,173.75 were issued by Graham’s Backhoe to the appellant for services provided by him in the months of October and November 2009, e.g. in respect of a period preceding the arrangement with Dannea. The two cheques should have been made payable to 1094238 in accordance with prior years’ arrangement. That money belonged to 1094238 and was not deposited in the corporate bank account nor reported by the corporation in its tax return for that taxation year. In my opinion, it is a benefit conferred on the shareholder of the corporation which was rightly assessed by the Minister pursuant to subsection 15(1) of the Act.
+[37] The appellant alleged that the amount of $12,173.75 should have been considered as a deductible business expense but he did not explain what he has done with the money. The respondent is of the view that the money was paid to Mr. Peter Eickmeier as an up-front fee for entering into the Dannea/Browncliff arrangement.
+[38] That interpretation appears to me to be the most plausible considering the fact that no 7% withholding fee was retained by Dannea or by Browncliff on the amounts received from Graham’s Backhoe as required by the employment agreements respectively dated December 1, 2009 and November 1, 2010.
+[39] In the circumstances, I do not think that the expense was made for the purpose of earning income from a business. On the contrary, it appears that the expense was incurred for the purpose of hiding the appellant’s income.
+[40] Concerning the second issue, my conclusion is that the amounts of $3,861.59, $80,456.50 and $82,014.50 paid by Graham’s Backhoe for services provided by the appellant should have been included in his income pursuant to subsection 9(1) of the Act for the 2009, 2010 and 2011 taxation years for the reasons that follow.
+[41] These amounts are in respect of services provided directly by the appellant to Graham’s Backhoe and the appellant had unfettered access to these amounts as they were deposited in Dannea’s and Browncliff’s bank accounts for his own and exclusive benefit. The appellant had full control over this money. These amounts were not received by him as loans from his employer.
+[42] There was no contractual relationship between Graham’s Backhoe and Dannea and between Graham’s Backhoe and Browncliff. There was no agreement between the parties setting out the terms and conditions of the work to be performed by the appellant. Dannea and Browncliff were empty shells. The appellant had to prepare the invoices on their behalf for the services he provided to Graham’s Backhoe. Dannea and Browncliff did not report the amounts that Graham’s Backhoe paid them on their income tax returns.
+[43] There was no true employer-employee relationship between Dannea and the appellant and between Browncliff and the appellant despite the employment agreements entered into by the parties. Dannea and Browncliff were not in a position to exercise any form of control or supervision over the services provided by the appellant to Graham’s Backhoe. If the parties would have intended to create a true employer-employee relationship, Dannea and Browncliff would have taken source deductions from the amounts paid to the appellant.
+[44] There was no true creditor-debtor relationship between Dannea and the appellant and between Browncliff and the appellant despite the promissory notes and the assignments of security for the loans that the appellant supposedly signed in favour of Dannea and Browncliff.
+[45] If the intention of the parties was that the amounts would be repaid, they would have done so from future payments to be received from Graham’s Backhoe by way of set-offs or compensation and not from the assignment of the appellant’s contractual rights and obligations arising from the payments already made by Graham’s Backhoe in the year. In fact, there is no debt payable in the future and no reimbursement of the loans made by Dannea and Browncliff to the appellant up to the time of the hearing.
+[46] The true nature of the arrangement between the appellant and Dannea/Browncliff is a sham transaction and the employment agreements, the notes and the assignments of the appellant’s contractual rights and obligations should be disregarded. The appellant, Dannea and Browncliff misrepresented their relationships to Graham’s Backhoe and to the Minister so that the appellant could avoid paying income tax and so that Dannea, Browncliff and their respective shareholder could profit from the misrepresentation. The “sham” concept was applied by the Federal Court of Appeal in Faraggi v. The Queen, 2008 FCA 398 and Antle v. The Queen, 2010 FCA 280. The true nature of the leased employee scheme was easily found by the CRA’s auditor on the website of Graycliff Financial Corporation (tab 24 to 28 of the Joint Book of Documents).
+[47] Concerning the third issue, I come to the conclusion that the gross negligence penalties assessed against the appellant pursuant to subsection 163(2) of the Act are justified in the circumstances.
+[48] In his 2009 income tax return, the appellant is noted as a tax protester because he signed his income tax return with the following affirmation: “I, commonly called Stanley-Blake of the Dingman family for Stanley Blake Dingman, for Her Majesty in Right of Canada”. He also signed his 2010 and 2011 tax returns in the same manner.
+[49] The appellant knew that his income for the 2009, 2010 and 2011 taxation years was much higher than the $3,500 reported in each of these years. He knew exactly how much he was earning in any given year as he prepared the invoices for the services he personally provided to Graham’s Backhoe.
+[50] The appellant has been grossly negligent in dealing with a person who has pleaded guilty in a $5.2 million tax fraud case in 2008 and by not exercising care and accuracy in the completion of his tax returns and not making any effort to verify the accuracy and completeness of his returns for the 2009, 2010 and 2011 taxation years, after being audited for the period from January 1, 2006 to December 31, 2008.
+[51] The gross negligence penalty for the 2008 taxation year is also justified since the appellant diverted money from his corporation to his own benefit without reporting it in his income.
+[52] For all these reasons, the appeal is dismissed with costs which are fixed in the amount of $4,860.44
+Signed at Ottawa, Canada, this 12th day of October 2017.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2017 TCC 206
+COURT FILE NO.:
+2014-2746(IT)G
+STYLE OF CAUSE:
+Stanley Blake Dingman and Her Majesty the Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+April 10, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+October 12, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valerie Meier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

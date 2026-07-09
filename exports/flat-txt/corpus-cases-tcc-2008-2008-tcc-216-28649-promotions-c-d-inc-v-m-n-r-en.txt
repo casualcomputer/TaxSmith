@@ -1,0 +1,164 @@
+Title: Promotions C.D. Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28649/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-216-28649-promotions-c-d-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-05-20
+
+# Promotions C.D. Inc. v. M.N.R.
+
+- Citation: 2008 TCC 216
+- Decision date: 2008-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1113, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Promotions C.D. Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-20
+Neutral citation
+2008 TCC 216
+File numbers
+2007-3931(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2007-3931(EI)
+BETWEEN:
+PROMOTIONS C.D. INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 13, 2008, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Daniel Bourgeois
+Counsel for the Respondent:
+Christina Chait
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decisions made by the Minister of National Revenue are set aside in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of May 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 12th day of June 2008.
+Brian McCordick, Translator
+Citation: 2008TCC216
+Date: 20080520
+Docket: 2007-3931(EI)
+BETWEEN:
+PROMOTIONS C.D. INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The issue in the case at bar is whether the following Workers fulfilled the requirements of a contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act while working for the Appellant: Michel Blais, Antoine Corbeil, David Franks, Robert Lavoie and Denis Pilon.
+[2] In making the decisions in issue, the Minister of National Revenue ("the Minister") relied on the following assumptions of fact, set out in paragraph 23 of the Reply to the Notice of Appeal, and either admitted to or denied by the Appellant, as stated in parentheses:
+[TRANSLATION]
+(a) The Appellant was incorporated on August 22, 1972. (admitted)
+(b) The Appellant operated a business that distributed and sold non-food products inside grocery stores and pharmacies. (admitted)
+(c) The Appellant hired 60 salaried employees, and 40 workers that it considered to be self-employed representatives. (admitted)
+(d) The Appellant considered the five Workers in the case at bar to be self‑employed representatives because they accepted an offer to that effect from the Appellant. (denied as worded)
+(e) The Workers signed contracts with the Appellant that were automatically renewed each year. (admitted)
+(f) The majority of the Workers told the appeals officer that they accepted the Appellant's terms and conditions so that they could work and earn a living. (denied)
+(g) Denis Pilon had been working for the Appellant for 12 years, Michel Blais and David Franks had been working for the Appellant for eight years, and Antoine Corbeil and Robert Lavoie had been working for the Appellant for five years. (admitted)
+(h) Certain Workers did not take weeks off because they were afraid that they would lose their jobs if they did. (denied)
+(i) The Workers' duties consisted in taking orders from the Appellant's customers, receiving consignments at the Appellant's regional warehouse, and delivering and setting up merchandise such as toys or stationery in grocery stores or pharmacies. (denied as worded)
+(j) The Workers received training and instructions concerning the display racks and the presentation of the Appellant's merchandise; they had to display the merchandise in accordance with the Appellant's "program". (denied)
+(k) The Appellant assigned the Workers a territory. (denied)
+(l) The Appellant provided the Workers with a list of businesses to serve. (denied as worded)
+(m) The customers were the Appellant's, not the Workers'. (denied as worded)
+(n) The Workers never billed the Appellant's customers. (admitted)
+(o) The Appellant, not the Workers, resolved customer complaints. (denied)
+(p) The Appellant provided the Workers with a handheld computer and gave them the merchandise and the equipment necessary to install it, such as display racks and hooks. (admitted)
+(q) The Appellant had supervisors who verified the quality of the Workers' work. (denied)
+(r) Michel Blais, David Franks, Robert Lavoie and Denis Pilon told a representative of the Respondent that a supervisor of the Appellant's regularly gave them instructions. (denied)
+(s) Antoine Corbeil said that the Appellant's sales director supervised his work. (denied as worded)
+(t) Each Worker set his own schedule, but they all had to visit the businesses as frequently as instructed by the Appellant. (denied)
+(u) The Workers were paid solely by commission, and their commission varied from 9 to 14% depending on the value of the sales. (denied as worded)
+(v) The Appellant alone set the price of merchandise. (denied as worded)
+(w) The Workers had to submit weekly sales reports to the Appellant. (denied)
+(x) The Workers were paid regularly every two weeks by cheque. (admitted)
+(y) The Workers had business cards supplied by the Appellant. (admitted)
+(z) The Appellant's comptroller, René Cloutier, told a representative of the Respondent that the Workers did not invest anything in the Appellant's business and that they had no financial responsibilities other than their travel expenses. (denied as worded)
+(aa) If the Workers had to travel more than 200 km, the Appellant reimbursed them for the distance they drove and their travel expenses. (denied)
+(bb) Michel Blais, Robert Lavoie and Denis Pilon told a representative of the Respondent that they had to do the work personally and could not hire an assistant. (denied)
+Preliminary remarks
+[3] Henriot Cléophat, an appeals officer with the Canada Customs and Revenue Agency, was the Respondent's sole witness.
+[4] The Appellant's witnesses were Jacques Collette, the Appellant's Vice‑President, and Denis Pilon, Antoine Corbeil and David Franks, who are Workers affected by the Minister's decisions. I should immediately note that I found the testimony of the Appellant's witnesses to be very credible.
+Facts
+[5] The Appellant operates a business that distributes and sells non‑food products (household and industrial chemical products, toys, stationery, etc.). The Workers' duties included taking orders from the Appellant's customers (essentially major supermarket chains as well as pharmacy chains and convenience store chains) and from the customers that they recruited, collecting the merchandise (owned by the Appellant) from a warehouse (generally the Appellant's warehouse) and delivering and setting it up on the customers' premises, and taking back unsold merchandise so that it could be returned to the Appellant's warehouse or delivered to a common carrier for delivery to the Appellant's warehouse.
+[6] The Appellant's witnesses and the documentary evidence adduced by the Appellant further establish as follows:
+(a) All the Workers signed the contract in a free and fully informed manner. The contract sets out the terms and conditions governing the relationship between the parties and the sale of the Appellant's products by the Workers, who are described therein as non‑exclusive independent contractors, not employees of the Appellant. The declared and sincerely expressed intention of the parties to the contract is clear: they wanted the contract they signed to be in the nature of a contract of enterprise.
+(b) All the Workers reported their remuneration as business income on their income tax returns. They registered their businesses with the Inspecteur général des entreprises financières. They were also registered with the tax authorities for GST and QST purposes, and these taxes were collected and remitted to the authorities.
+(c) The Workers received nothing more than their commission. They had to personally defray the costs and expenses associated with their sales. Moreover, the Appellant did not provide the Workers with a car or cell phone, or an allowance for the use thereof. Lastly, the Appellant did not reimburse lodging expenses. The Workers were liable for any theft or loss of goods from the moment that the goods were under their control, i.e. from the moment that they picked them up from the Appellant's warehouse or from the warehouse belonging to the common carrier whose services the Appellant had retained, and from the moment they picked up unsold goods from the customers.
+(d) The Appellant imposed no sales quotas on the Workers.
+(e) The Workers were free to sell products other than the Appellant's, provided those products did not compete with the Appellant's. In this regard, Mr. Franks explained that, for a certain period within the years in issue, in addition to distributing the Appellant's products, he distributed coffee in bulk to the Appellant's customers and his customers. Mr. Franks also explained that he operated a floor cleaning business during the same period.
+(f) The Workers did not, at any time, become owners of the goods sold. They did not determine the price of the goods and they never billed the customers. In addition, certain Workers explained that they occasionally proposed that the Appellant reduce their commission on certain products in order to keep customers.
+(g) The Workers could hire their own sales force without the Appellant's consent or involvement. In this regard, Mr. Collette explained that his distributors for the Québec and Beauce regions each had their own sales force.
+(h) The Workers were responsible for planning their work, decided how many hours they would work and on what days, and chose which customers they met and how often they did so. Lastly, the Workers determined when they went on vacation and how long their vacations would last.
+(i) The Workers recruited their own customers in addition to serving the Appellant's customers. The Appellant assigned each Worker a territory. However, the Workers could and did recruit customers outside the assigned territory without the Appellant's consent. The Workers explained that the cost of transportation associated with the delivery of the merchandise was the only thing that limited their efforts to make sales outside the territory assigned to them. Mr. Corbeil even explained that he was free not to serve the Appellant's customers within the territory that was assigned to him. In this regard, he explained that he notified the Appellant that he would no longer be serving those of its customers that were located in the most distant portion of the territory that had been assigned to him (the La Tuque area) because he had noticed that he was losing money by serving them.
+(j) The Appellant did not demand that the Workers submit reports on the activities, nor did it fill out the evaluation forms concerning their work when it met with them to provide them with the results of the evaluation. The Appellant did not discipline the workers.
+(k) The Workers did not work on the Appellant's premises. They essentially went to the Appellant's premises to pick up the goods at its warehouse and to return, to the same warehouse, the unsold goods that the customers wanted to return to the Appellant.
+(l) It was the Workers, not the Appellant, who resolved the Appellant's customers' complaints, and it should be added that such complaints were very rare due to the quality of the Workers' services and their considerable experience in distribution.
+(m) As a general rule, the Workers received no instructions or training from the Appellant. The instruction and training that they did receive from the Appellant pertained to the instructions that the Appellant occasionally received from some of its customers with respect to the positioning of the merchandise at its points-of-sale. All the Workers who testified stated that they only met the Appellant's supervisors very rarely, and that the only instructions that they occasionally received from them were related, once again, to the demands of the Appellant's customers concerning merchandise placement at their places of business. Lastly, Mr. Corbeil categorically denied that the Appellant's sales director supervised his work. Mr. Corbeil explained that he occasionally met with the Appellant's sales director solely for the purpose of working with him to develop a strategy to keep a customer that the Appellant was on the verge of losing.
+(n) The Appellant provided the Workers with a handheld computer as well as the equipment required to lay out the merchandise, such as racks and hooks. The Workers explained that the Appellant did not demand that the handheld computer be used, but that such use greatly facilitated their work in terms of taking customers' orders and sending them to the Appellant. Lastly, it should be emphasized that the Workers were liable for the loss or theft of the handheld computer made available to them.
+Analysis
+The law
+[7] When the courts must define concepts from Quebec private law to apply federal legislation such as the Employment Insurance Act, they must follow the rule of interpretation in section 8.1 of the Interpretation Act. To determine the nature of a Quebec employment contract and distinguish it from a contract for services, one must apply the relevant rules of the Civil Code of Québec (the "Civil Code"), at least since June 1, 2001. These rules are not consistent with the rules stated in decisions such as 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.R. 983 and Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553. Contrary to the situation with the common law, the constituent elements of a contract of employment have been codified, and, since the coming into force of articles 2085 and 2099 of the Civil Code on January 1, 1994, the courts no longer have the same latitude as the common law courts to define what constitutes an employment contract. If it is necessary to rely on previous court decisions to determine whether there was a contract of employment, one must choose decisions with an approach that conforms to civil law principles.
+[8] The Civil Code contains distinct chapters governing the "contract of employment" (articles 2085 to 2097) and the "contract of enterprise or for services" (articles 2098 to 2129).
+[9] Article 2085 states that a contract of employment
+. . . is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[10] Article 2098 states that a contract of enterprise
+. . . is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+[11] Article 2099 follows, and states:
+The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[12] It can be said that the fundamental distinction between a contract for services and a contract of employment is the absence, in the former case, of a relationship of subordination between the provider of services and the client, and the presence, in the latter case, of the right of the employer to direct and control the employee. Thus, what must be determined in the case at bar is whether there was a relationship of subordination between the Appellant and the workers.
+[13] The Appellant has the burden of proving, on a balance of probabilities, the facts in issue that establish its right to have the Minister's decisions set aside. It must prove the contract entered into by the parties and establish their common intention with respect to its nature. If there is no direct evidence of that intention, the Appellant may turn to indicia from the contract and the Civil Code provisions that governed it. In the case at bar, if the Appellant wishes to show that there was no employment contract, it will have to prove that there was no relationship of subordination. In order to do so, it may, if necessary, prove the existence of indicia of independence such as those stated in Wiebe Door, supra, namely the ownership of tools, the risk of loss and the chance of profit. However, in my opinion, contrary to the common law approach, once a judge is satisfied that there was no relationship of subordination, that is the end of the judge's analysis of whether a contract of service existed. It is then unnecessary to consider the relevance of the ownership of tools or the risk of loss or chance of profit, since, under the Civil Code, the absence of a relationship of subordination is the only essential element of a contract for services that distinguishes it from a contract of employment. Elements such as the ownership of tools, the risk of loss or the chance of profit are not essential elements of a contract for services. However, the absence of a relationship of subordination is an essential element. For both types of contract, one must decide whether or not a relationship of subordination exists. Obviously, the fact that the worker behaved like a contractor could be an indication that there was no relationship of subordination.
+[14] Ultimately, the courts will usually have to make a decision based on the facts shown by the evidence regarding the performance of the contract, even if the intention expressed by the parties suggests the contrary. If the evidence regarding the performance of the contract is not conclusive, the Court can still make a decision based on the parties' intention and their description of the contract, provided the evidence is probative with respect to these questions. If that evidence is not conclusive either, the appeal will be dismissed on the basis that there is insufficient evidence.
+[15] Thus, the question is whether the Workers in the case at bar worked under the Appellant's control or direction, or whether the Appellant could have, or was entitled to, control or direct the Workers.
+[16] The contract between the Workers and the Appellant clearly states that it is a contract of enterprise. However, even though the contracting parties in the case at bar stated their intention clearly, freely and in a fully informed manner in their written contract, this does not mean that I must consider this fact decisive. The contract must also have been performed in a manner that is consistent with its provisions. Just because the parties stipulated that the work would be done by an independent contractor does not mean that the relationship was not between an employer and an employee. Clearly, I must verify whether the relationship described in the contract was consistent with reality.
+[17] In my opinion, the contract between the Workers and the Appellant was a contract for services because there was no subordination. First of all, the Workers behaved like contractors. As we have seen, the Appellant was not entitled to the Workers' services on an exclusive basis, and the Workers could sell products other than the Appellant's and hire their own sales force without the Appellant's consent or involvement. The Workers were responsible for planning their work, decided how many hours they worked and on what days, and chose which customers to meet and how often they would meet them. The Workers determined when they went on vacation and how long their vacations lasted. The Workers recruited their own customers in addition to serving the Appellant's customers. They could and did recruit customers within the territories assigned. They could and did refuse to serve the Appellant's customers when they determined that it was not profitable to do so. The Appellant did not require the Workers to report on their activities. The Workers did not work on the Appellant's premises. They were paid solely by commission. They had to personally assume the costs and expenses associated with the sales. They owned almost all the tools needed to perform their work. Admittedly, they had to lay out the merchandise in some of the Appellant's customers' establishments in accordance with the Appellant's instructions. I do not believe that this necessarily implies a relationship of subordination. In my opinion, the specificity of the tasks to be carried out is not a distinguishing and exclusive characteristic of an employment contract. Indeed, a contractor who retains the services of a subcontractor to carry out his duties to his customers, in whole or in part, will necessarily specify what the subcontractors must do. Otherwise, one would have to conclude that the Appellant itself had a contract of employment with its customers because it was required to position the merchandise in accordance with their instructions. It is rare for someone to give out work and not ensure that it is done in accordance with their requirements. It is true that the Appellant had control over the pricing of merchandise and over billing. Although I believe this is generally an indicia of subordination as opposed to independence, I emphasize that it does not, in itself, make the existence of a contract of employment more likely, since practically all the other facts adduced support the existence of a contract for services. In my view, the fact that the Appellant determined the price of the goods is to be expected, because it was the Appellant that entered into a contract with the customers. Thus, the customers were the Appellant's and were simply served by independent contractors, namely, the Workers.
+[18] For these reasons, the appeal is allowed.
+Signed at Ottawa, Canada, this 20th day of May 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 12th day of June 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC216
+COURT FILE NO.: 2007-3931(EI)
+STYLE OF CAUSE: PROMOTIONS C.D. INC. AND M.N. R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: March 13, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: May 20, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Daniel Bourgeois
+Counsel for the Respondent:
+Christina Chait
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Daniel Bourgeois
+Firm: De Grandpré Chait
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

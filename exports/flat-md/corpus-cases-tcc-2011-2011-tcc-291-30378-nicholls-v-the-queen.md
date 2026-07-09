@@ -1,0 +1,164 @@
+---
+title: "Nicholls v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30378/index.do"
+last_modified: "2011-06-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 291"
+citation2: ""
+neutral_citation: "2011 TCC 291"
+decision_date: "2011-06-07"
+language: "en"
+item_id: "30378"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7896
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:32:51.323000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5c785d18969b576fa88cf15346b966e2546e7315846a74f721ab322a4774b12c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nicholls v. The Queen
+
+- Citation: 2011 TCC 291
+- Decision date: 2011-06-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7896, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nicholls v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-07
+Neutral citation
+2011 TCC 291
+File numbers
+2010-1587(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1587(IT)G
+BETWEEN:
+PATRICK NICHOLLS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motions heard on common evidence with the Motions of Patrick Nicholls (2010-2433(IT)APP) and Patrick Nicholls (2009-2034(IT)I) on March 31, 2011, at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ricky Tang
+____________________________________________________________________
+ORDER
+Upon motion by the Appellant for:
+… an Order to set aside the Order of Justice Valerie Miller dated January 21, 2011 and allow the underlying Appeal.
+And upon reading the pleadings and hearing submissions of the parties;
+IT IS ORDERED THAT:
+1. The Appellant’s motion is dismissed;
+2. Costs shall be payable forthwith to the Respondent by the Appellant in the amount of $1,000;
+in accordance with the attached Reasons for Order.
+Signed at Vancouver, British Columbia, this 7th day of June 2011.
+“L.M. Little”
+Little J.
+Citation: 2011 TCC 291
+Date: 20110607
+Docket: 2010-1587(IT)G
+BETWEEN:
+PATRICK NICHOLLS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+A. FACTS
+[1] When the Appellant filed his income tax return for the 1998 taxation year, he claimed an Allowable Business Investment Loss (“ABIL”) in the amount of $266,123.21.
+[2] The Minister of National Revenue (the “Minister”) issued a Notice of Reassessment on January 16, 2007 to deny the claim made by the Appellant for an ABIL.
+[3] This appeal relates to the fact the Minister disallowed the Appellant’s ABIL in the amount of $266,123.21 for the 1998 taxation year.
+[4] On December 13, 2010, Justice Valerie Miller heard the Appellant’s Motion to strike the Respondent’s Reply, or in the alternative, order particulars.
+[5] Justice Valerie Miller dismissed the Appellant’s Motion on January 21, 2011. Justice Valerie Miller also dismissed the Appellant’s Motion for a determination of a question of law, his Motion to strike the Respondent’s pleadings and granted the Respondent an extension of time to file the Reply.
+[6] The Appellant brings this Motion to reconsider on the basis that Justice Valerie Miller dismissed his application for an order for particulars without addressing this explicitly in her Reasons. The relevant portion of Justice Valerie Miller’s Order reads:
+…
+Upon hearing a motion by the Appellant pursuant to section 53 of the Rules wherein he requested that all or part of the Reply to the Notice of Appeal be struck, or in the alternative, pursuant to Rule 52 he made a request for particulars, the motion is dismissed;
+…
+[7] As a further background, it should be noted that the requested particulars are in respect of the following “additional facts” contained in paragraphs 21 and 22 of the Respondent’s Reply. They read:
+21. The debt arising from the Appellant’s sale of shares to the Nicholls (Children) Family Trust was not acquired for the purpose of gaining or producing income.
+22. The Notice of Determination dated February 1, 2010, states in error that the net capital loss determined is nil. The Appellant was allowed a capital loss of $354,830 for the 1998 taxation year. The Appellant’s non-capital loss (ABIL) claimed was reduced to nil.
+[8] The Appellant was required to bring his Motion within 10 days of knowledge of Justice Valerie Miller’s Order. Justice Valerie Miller signed her Order on January 21, 2011 and the Order was sent on January 24, 2011. On February 1, 2011, the Appellant requested a set down date for his Motion by telephone and on February 3, 2011 the Appellant received a letter from the Hearings Coordinator confirming that his Motion was made returnable on March 31, 2011. In accordance with subsection 27(5) of the Interpretation Act, RSC 1985 c. I-21, the 10 day period after January 24, 2011 ended on February 3, 2011. I have therefore concluded that the Appellant brought his Motion in time.
+B. ISSUE
+[9] The issue is whether Justice Valerie Miller’s Order should be reconsidered.
+[10] The Appellant’s contention is that since Justice Valerie Miller failed to address the order for particulars in her Reasons she has overlooked this matter. The Appellant did not explicitly bring his Motion under section 168 of the Tax Court of Canada Rules (General Procedure) (“Rules”), however this is the only provision which allows for reconsideration at the Tax Court level without filing an appeal to the Federal Court of Appeal. Rule 168 reads:
+Reconsideration of a Judgment on an Appeal
+168. Where the Court has pronounced a judgment disposing of an appeal any party may within ten days after that party has knowledge of the judgment, move the Court to reconsider the terms of the judgment on the grounds only,
+(a) that the judgment does not accord with the reasons for judgment, if any, or
+(b) that some matter that should have been dealt with in the judgment has been overlooked or accidentally omitted.
+(Emphasis added)
+[11] In terms of disposing of an appeal, section 167 of the Rules provides the procedure the Court must follow:
+Pronouncing and Entering of Judgments
+167.(1) The Court shall dispose of an appeal or an interlocutory or other application that determines in whole or in part any substantive right in dispute between or among the parties by issuing a judgment and shall dispose of any other interlocutory or other application by issuing an order.
+[…]
+(3) A judgment and the reasons relating thereto, if any, shall be deposited in the Registry at Ottawa and it shall be entered and filed there whereupon section 17.4 of the Act shall be complied with. (Emphasis added)
+[12] The statement “if any” in both sections 167 and 168 of the Rules makes it clear that reasons are not required for a judgment. It should be noted that Justice Nadon of the Federal Court, Trial Division, made the following comment when discussing the former Rule 337(5) of the Federal Court Rules which is very similar to the current rule of the Tax Court of Canada:
+As I read this Rule it simply means that a judge of the Trial Division may reconsider his decision if he failed to deal with or has overlooked a matter. The Rule does not say that the judge must give reasons in respect of every point or matter raised. In fact the Rules do not provide that a judge must give reasons for his order. As counsel are aware there are a considerable number of orders rendered where judges give no reasons.
+(See Balasingam v. Canada, [1994] F.C.J. No. 448 at paragraph 5).
+[13] I have concluded that Justice Valerie Miller’s failure to provide reasons in dismissing the Appellant’s request for particulars is not an omission, nor are her Reasons in discord with her Order. As a result, the Appellant’s application should be dismissed.
+[14] The Appellant believes that he is entitled to particulars and he has indicated that he will bring another Motion requesting them. In my opinion, the Appellant faces two problems for his application for an order of particulars under Rule 52. Number 1 - He has not served a demand on the Respondent as required and number 2 - He is not entitled to particulars based on the information contained in the Reply.
+[15] Section 52 of the Rules reads as follows:
+Demand for Particulars
+52. Where a party demands particulars of an allegation in the pleading of an opposite party, and the opposite party fails to supply them within thirty days, the Court may order particulars to be delivered within a specified time.
+[16] The Rules makes it clear that the Appellant must first request the particulars from the Respondent before bringing a Motion to Court for production of particulars. In Mastronardi v the Queen, 2010 TCC 57, 2010 D.T.C. 1066, Justice Campbell concluded that there are three conditions required for a Court order to produce particulars:
+(1) the party demanding the particulars must serve the opposing party a demand for particulars, as required by section 52 of the Rules;
+…
+C. ANALYSIS AND DECISION
+[17] The Appellant’s Motion to reconsider under section 168 of the Rules must be dismissed as Justice Valerie Miller addressed this in her Order by dismissing it. Justice Valerie Miller did not give reasons regarding this issue, but she is not required to.
+[18] The Appellant’s Motion is dismissed.
+COSTS
+[19] In my opinion, the Appellant is wasting the time of the Court and wasting the time of the Respondent in bringing this type of Motion. I award costs of $1,000.00 payable by the Appellant to the Respondent. The costs are to be payable forthwith.
+Signed at Vancouver, British Columbia, this 7th day of June 2011.
+“L.M. Little”
+Little J.
+CITATION: 2011 TCC 291
+COURT FILE NO.: 2010-1587(IT)G
+STYLE OF CAUSE: PATRICK NICHOLLS AND THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 31, 2011
+REASONS FOR ORDER BY: The Honourable Justice L.M. Little
+DATE OF ORDER: June 7, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ricky Tang
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

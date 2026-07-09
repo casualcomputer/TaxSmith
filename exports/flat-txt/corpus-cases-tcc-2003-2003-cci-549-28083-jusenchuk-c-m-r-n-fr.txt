@@ -1,0 +1,214 @@
+Title: Jusenchuk c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28083/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-549-28083-jusenchuk-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2003-08-19
+
+# Jusenchuk c. M.R.N.
+
+- Citation: 2003 CCI 549
+- Decision date: 2003-08-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1668, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jusenchuk c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-19
+Référence neutre
+2003 CCI 549
+Numéro de dossier
+2002-2027(EI)
+Juges et Officiers taxateurs
+William E. MacLatchy
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002‑2027(EI)
+ENTRE :
+MICHAEL JUSENCHUK,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Michael Jusenchuk (2002‑2028(CPP)) et de Lyte Enterprises Inc. (2002‑2040(EI) et 2002‑2042(CPP))
+le 16 juillet 2003 à Toronto (Ontario)
+Devant : L’honorable juge suppléant W. E. MacLatchy,
+Comparutions
+Avocat de l’appelant :
+Me Gregory Dimitriou
+Avocat de l’intimé :
+Me Nimanthika Kaneira
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 19e jour d’août 2003.
+« W. E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Louise-Marie Leblanc, traductrice
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002‑2028(CPP)
+ENTRE :
+MICHAEL JUSENCHUK,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Michael Jusenchuk (2002‑2027(EI)) et de Lyte Enterprises Inc. (2002‑2040(EI) et 2002‑2042(CPP)) le 16 juillet 2003 à Toronto (Ontario)
+Devant : L’honorable juge suppléant W. E. MacLatchy
+Comparutions
+Avocat de l’appelant :
+Me Gregory Dimitriou
+Avocat de l’intimé :
+Me Nimanthika Kaneira
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+Signé à Toronto (Ontario), ce 19e jour d’août 2003.
+« W. E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Louise-Marie Leblanc, traductrice
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002‑2040(EI)
+ENTRE :
+LYTE ENTERPRISES INC.,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Michael Jusenchuk (2002‑2027(EI) et 2002‑2028(CPP)) et de Lyte Enterprises Inc. (2002‑2042(CPP)) le 16 juillet 2003 à Toronto (Ontario)
+Devant : L’honorable juge suppléant W. E. MacLatchy
+Comparutions
+Avocat de l’appelante :
+Me Thomas McRae
+Avocat de l’intimé :
+Me Nimanthika Kaneira
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Attendu que la présente Cour a rendu un jugement et fourni les motifs du jugement datés du 19 août 2003 relativement à l’appel de Lyte Enterprises Inc. dans lesquels on pouvait lire ce qui suit :
+L’appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+Et attendu que Thomas McRae, l’avocat de l’appelante, dans une lettre datée du 31 octobre 2003, a demandé à la présente Cour de modifier son jugement et les motifs du jugement afin d’y indiquer sa participation à l’appel à titre d’avocat;
+Par conséquent, la présente Cour modifie le jugement en conséquence. Les autres dispositions du jugement et les motifs du jugement qui y sont joints et qui sont datés du 19 août 2003, demeurent les mêmes.
+Signé à Toronto (Ontario), ce 26e jour de novembre 2003.
+« W. E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Louise-Marie Leblanc, traductrice
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002‑2042(CPP)
+ENTRE :
+LYTE ENTERPRISES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Michael Jusenchuk (2002‑2027(EI) et 2002‑2028(CPP)) et de Lyte Enterprises Inc. (2002‑2040(EI)) le 16 juillet 2003 à Toronto (Ontario)
+Devant : L’honorable juge suppléant W. E. MacLatchy
+Comparutions
+Avocat de l’appelant :
+Me Thomas McRae
+Avocat de l’intimé :
+Me Nimanthika Kaneira
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Attendu que la présente Cour a rendu un jugement et fourni les motifs du jugement datés du 19 août 2003 relativement à l’appel de Lyte Enterprises Inc. dans lesquels on pouvait lire ce qui suit :
+L’appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+Et attendu que Thomas McRae, l’avocat de l’appelante, dans une lettre datée du 31 octobre 2003, a demandé à la présente Cour de modifier son jugement et les motifs du jugement afin d’y indiquer sa participation à l’appel à titre d’avocat;
+Par conséquent, la présente Cour modifie le jugement en conséquence. Les autres dispositions du jugement et les motifs du jugement qui y sont joints et qui sont datés du 19 août 2003 demeurent les mêmes.
+Signé à Toronto (Ontario), ce 26e jour de novembre 2003.
+« W. E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Louise-Marie Leblanc, traductrice
+Référence : 2003CCI549
+Date : 20030819
+Dossiers : 2002‑2027(EI)
+2002‑2028(CPP)
+ENTRE :
+MICHAEL JUSENCHUK,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossiers : 2002‑2040(EI)
+2002‑2042(CPP)
+LYTE ENTERPRISES INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant MacLatchy
+[1] Les présents appels ont été entendus sur preuve commune avec consentement le 16 juillet 2003 à Toronto, en Ontario.
+[2] Lyte Enterprises Inc., la payeuse, a interjeté appel à l’encontre d’une décision du ministre du Revenu national (le « ministre ») qui visait à déterminer si les travailleurs, Craig Bagshaw, Philip Greg Banks, Brian Carpenter, Frank Danek, Roland Dodman, Michael Downie, Thomas Glister, Paul Humphrey, Ghulam Mohammad, Erastus Wall, Philip West et Michael Jusenchuk, également un appelant dans la présente affaire, occupaient ou non un emploi assurable et ouvrant droit à pension au sens de la Loi sur l’assurance‑emploi (la « Loi ») et du Régime de pensions du Canada (le « Régime ») alors qu’ils travaillaient pour la payeuse pendant la période allant du 1er janvier 2000 au 15 août 2001.
+[3] Dans une lettre datée du 28 février 2002, le ministre a informé les travailleurs et la payeuse qu’il avait déterminé que leur emploi auprès de la payeuse pendant la période pertinente était assurable et ouvrait droit à pension étant donné qu’ils avaient été embauchés aux termes d’un contrat de louage de services.
+[4] La question que doit résoudre la présente Cour consiste à savoir si les travailleurs avaient été embauchés par la payeuse (Lyte) à titre d’entrepreneurs autonomes aux termes d’un contrat d’entreprise ou comme employés aux termes d’un contrat de louage de services.
+[5] Il serait approprié d’effectuer un bref examen des décisions rendues par des tribunaux supérieurs et sur lesquelles la présente Cour peut se guider pour rendre son jugement. En 1986, la Cour d’appel fédérale, dans l’affaire Wiebe Door Services Ltd. et M.R.N., [1986] 3 C.F. 553 (87 DTC 5025), a indiqué que les tribunaux devraient s’appuyer sur quatre critères pour déterminer le genre d’accord conclu entre les parties. Le contrôle, la propriété des instruments de travail, les chances de profit et les risques de perte constituaient les critères recommandés. Toutefois, on s’est également rendu compte que ce critère à quatre volets devrait constituer la règle générale qui oblige à « examiner l’ensemble des divers éléments qui composent la relation entre les parties ». Dans l’affaire Montreal v. Montreal Locomotive Works Ltd. et al., [1947] 1 D.L.R. 161, lord Wright utilise les quatre critères afin d’interpréter l’ensemble de la transaction.
+[6] Dans d’autres décisions, le critère organisationnel aussi connu sous le nom de critère d’intégration a également été adopté comme l’a indiqué le lord juge Denning dans Stevenson, Jordan and Harrison, Ltd. v. MacDonald and Evans, [1952] 1 T.L.R. 101 (C.A.), à la page 111 :
+[Traduction]
+Une particularité semble se répéter dans la jurisprudence : en vertu d’un contrat de louage de services, une personne est employée en tant que partie d’une entreprise et son travail fait partie intégrante de l’entreprise; alors qu’en vertu d’un contrat d’entreprise, son travail, bien qu’il soit fait pour l’entreprise, n’y est pas intégré mais seulement accessoire.
+[...]
+[7] Le juge d’appel MacGuigan, dans l’affaire Wiebe Door (précitée), a affirme à la page 5030 :
+[...]
+Il est toujours important de déterminer quelle relation globale les parties entretiennent entre elles.
+[...]
+De toute évidence, le critère d’organisation énoncé par lord Denning et d’autres juristes donne des résultats tout à fait acceptables s’il est appliqué de la bonne manière, c’est‑à‑dire quand la question d’organisation ou d’intégration est envisagée du point de vue de l’« employé » et non celui de l’« employeur ». En effet, il est toujours très facile, en examinant la question du point de vue dominant de la grande entreprise, de présumer que les activités concourantes sont organisées dans le seul but de favoriser l’activité la plus importante. Nous devons nous rappeler que c’est en tenant compte de l’entreprise de l’employé que lord Wright a posé la question « À qui appartient l’entreprise? ».
+On donne également l’avertissement suivant :
+Quand il doit régler un tel problème, le juge de première instance ne peut se soustraire à l’obligation de peser avec soin tous les facteurs pertinents […]
+[8] Dans la récente décision de la Cour suprême du Canada dans l’affaire 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, 274 N.R. 366, bien que la question en litige soit la responsabilité du fait d’autrui, on a examiné la question de savoir si les parties avaient conclu un contrat d’entreprise ou un contrat de louage de services. Au paragraphe 47 de ce jugement, le juge Major a déclaré ceci :
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, […], est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui‑même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+[9] Les récentes décisions de la Cour d’appel fédérale dans les affaires Wolf c. Canada, [2002] A.C.F. no 375 et Precision Gutters Ltd. c. Canada (Ministre du Revenu national – M.N.R.), [2002] A.C.F. no 771, donnent un aperçu d’une interprétation plus généreuse de la personne [Traduction] « considérée un employé ». Le juge Décary dans la décision Wolf a indiqué ceci :
+De nos jours, quand un travailleur décide de garder sa liberté pour pouvoir signer un contrat et en sortir pratiquement quand il le veut, lorsque la personne qui l'embauche ne veut pas avoir de responsabilités envers un travailleur si ce n'est le prix de son travail et lorsque les conditions du contrat et son exécution reflètent cette intention, le contrat devrait en général être qualifié de contrat de service. Si l'on devait mentionner des facteurs particuliers, je nommerais le manque de sécurité d'emploi, le peu d'égard pour les prestations salariales, la liberté de choix et les questions de mobilité.
+[10] On semble vouloir modifier cette façon de voir et reconnaître que, dans un travail de consultation, les parties peuvent se donner le titre d’entrepreneur autonome et, pour cette raison, les tribunaux ne devraient pas intervenir en ce qui concerne la description de leur relation. Il faut, par contre, se rappeler que les tribunaux ont reconnu que la dénomination d’une relation ne constitue pas un élément déterminant (voir Standing c. Canada (Ministre du Revenu national – M.R.N.), [1992] A.C.F. no 890 (C.A.F.) et Wolf (précitée)).
+[11] La présente Cour doit examiner soigneusement les faits de l’affaire en l’espèce. Les hypothèses sur lesquelles s’est fondé le ministre ont été présentées comme suit aux paragraphes 11 a) à n) de la Réponse à l’avis d’appel (dossier 2002‑2027(EI)) :
+[Traduction]
+a) la payeuse exploite une entreprise de camionnage qui transporte des frets pour les clients de la payeuse (les « clients ») dans l’ensemble du Canada et aux États‑Unis;
+b) les travailleurs et l’appelant [Michael Jusenchuk (Micheal)] ont été embauchés par la payeuse pour conduire les camions de la payeuse et livrer les frets des clients de celle‑ci;
+c) les travailleurs et l’appelant [Michael] devaient détenir un permis de conduire de classe AZ et avoir de l’expérience dans ce domaine;
+d) les travailleurs et l’appelant [Michael] devaient tenir des registres des heures de conduite afin de se conformer aux règlements du gouvernement;
+e) les travailleurs et l’appelant [Michael] devaient respecter les lois et les règlements qui régissent l’industrie du camionnage;
+f) les travailleurs et l’appelant [Michael] se rapportaient régulièrement à la payeuse lorsqu’un chargement était livré afin d’obtenir de nouvelles affectations ou pour d’autres raisons diverses;
+g) on fournissait des téléavertisseurs aux travailleurs et à l’appelant [Michael];
+h) les travailleurs et l’appelant [Michael] devaient accomplir leurs tâches en respectant les échéanciers établis par la payeuse afin de satisfaire les clients et de s’assurer que l’on répondait à leurs besoins;
+i) les travailleurs et l’appelant [Michael] devaient fournir personnellement les services à la payeuse;
+j) la payeuse fournissait les camions et l’équipement utilisés par les travailleurs et l’appelant [Michael];
+k) le nom de la payeuse ainsi que les numéros d’autorisation paraissaient sur les camions conduits par les travailleurs et l’appelant [Michael];
+l) les travailleurs et l’appelant [Michael] étaient rémunérés au mille;
+m) la payeuse était responsable de tous les frais liés aux camions et à l’équipement, y compris les réparations, l’entretien, l’essence, les assurances ainsi que les droits de péage pour les routes et les ponts;
+n) la payeuse offrait aux travailleurs et à l’appelant [Michael] des plans d’assurance médicale, d’assurance-soins dentaires et d’assurance‑vie.
+[12] Les questions liées au contrôle, à la propriété des instruments de travail, aux chances de profit et aux risques de perte doivent tout d’abord être examinées.
+[13] Contrôle – Le concept de contrôle dans ce domaine plus complexe et plus sophistiqué peut constituer un élément neutre. Le camionneur n’est, en aucun temps, sous la supervision directe de la payeuse puisqu’il ne se trouve pas au même endroit que celle‑ci. Son travail consiste à livrer des produits pour les clients de la payeuse. On appelle le camionneur afin de savoir s’il est disponible et s’il désire travailler. Si c’est le cas, il se rapporte à un répartiteur et on lui remet les documents nécessaires pour effectuer la livraison. Cela comprend les formulaires et les déclarations, le manifeste, les connaissements et tout autre document nécessaire au camionneur pour effectuer la livraison du chargement. Si un échéancier est établi par le répartiteur, il doit être respecté et le camionneur doit communiquer avec le répartiteur lorsque la livraison est terminée afin qu’on lui indique où se rendre pour obtenir un autre chargement. On a admis que le camionneur pouvait revenir vide, mais qu’il ne serait pas rémunéré pour son temps. De toute façon, il ne serait pas responsable sur le plan financier d’agir de la sorte.
+[14] L’élément ultime de contrôle serait le droit de la payeuse de mettre fin à un contrat. La payeuse a le droit de ne pas rappeler un camionneur pour lui confier d’autre travail sans lui fournir d’explication. En ce qui concerne le contrôle dans ces circonstances, il s’agirait, selon moi, d’une relation employeur‑employé.
+[15] Propriété des instruments de travail – Je crois qu’il s’agit d’un critère qui indique fortement une relation employeur‑employé. L’instrument étant un camion d’une valeur apparente et/ou une remorque dont la payeuse est propriétaire, et le nom de cette dernière apparaît sur le véhicule. Il s’agit d’un gros investissement de la part de la payeuse. Le camionneur devait posséder le permis pertinent afin de pouvoir travailler pour la payeuse. Selon moi, il ne s’agit pas d’un instrument en tant que tel. Le véhicule constitue le principal équipement. Si aucun camion n’est disponible, le travailleur ne peut pas accomplir son travail. Il est également important de souligner que la payeuse était responsable de tous les coûts liés au véhicule, y compris les frais d’assurances, d’entretien, d’essence ou de tout autre carburant, d’indemnisation des travailleurs en cas de blessure ou les coûts occasionnels liés à une panne du véhicule.
+[16] Chances de profit – Le seul moyen pour un camionneur d’augmenter son revenu était de conduire plus de milles. Il est restreint par les lois régissant les camionneurs et ne peut accomplir son travail que pendant une période prescrite. Il ne s’agit pas de profit dans le sens véritable d’une entreprise.
+[17] La payeuse a affirmé que le camionneur pouvait se faire remplacer par un autre camionneur, mais le remplaçant devait posséder les titres et qualités nécessaires qui devaient être vérifiés par la payeuse avant que celle-ci ne confie un véhicule coûteux à quelqu’un d’autre.
+[18] Les risques de perte du camionneur sont négligeables. Il pouvait choisir un itinéraire plus long approuvé par la payeuse pour se rendre à destination et il n’était pas payé pour le millage supplémentaire. Il pouvait revenir à vide après une livraison même s’il avait pu en faire une autre, mais cela signifiait qu’il ne serait pas payé pour le voyage de retour. Pour la payeuse, cela représentait également plus de travail, car elle devait trouver une autre personne pour ramasser le chargement alors qu’un élément de son coûteux équipement revenait à vide.
+[19] Le camionneur devait payer ses repas et ses petites dépenses personnelles pendant ses voyages. Ces éléments ne peuvent pas être considérés comme une perte pour l’entreprise. Les taux de rémunération pour les livraisons étaient établis à l’avance par la payeuse. La payeuse était responsable de tous les frais liés à la route sauf les contraventions imposées par une loi ou un règlement.
+[20] La question de l’intégration suggère encore une relation employeur‑employé. On pourrait dire qu’il en était autrement pour les travailleurs, puisqu’ils avaient signé un document dans lequel ils reconnaissaient être des entrepreneurs autonomes. Il ne s’agit pas d’un contrat signé. On ne trouve nulle part le nom de la payeuse, il s’agit donc d’une décision prise uniquement par le camionneur travailleur désirant être perçu comme un entrepreneur autonome. La loi est raisonnablement claire à ce sujet : le fait que les parties donnent simplement un nom à une relation (dans l’affaire en l’espèce, seul le travailleur y donne un nom) ne constitue pas un élément déterminant de la relation. La présente Cour doit examiner les circonstances réelles de la relation en se fondant sur les éléments de preuve présentés. Le camionneur n’a pas approché la payeuse et affirme qu’il était propriétaire d’une entreprise de camionnage et que sa propre entreprise pourrait se charger des livraisons de la payeuse. Si cela avait été le cas, on suppose qu’il aurait tenté d’obtenir une certaine garantie de protection de la part de la payeuse au cas où d’autres personnes offriraient de faire le même travail. Michael Jusenchuk a indiqué qu’il possédait une « entreprise de camionneurs supplémentaires », mais cela ne comprenait que lui‑même, et ses services n’étaient nécessaires que lorsque la payeuse le décidait. Tout ce que les travailleurs investissaient était leur temps.
+[21] Après avoir examiné les éléments de preuve et leur avoir accordé l’importance nécessaire en fonction des critères habituels susmentionnés, il semble clair à la présente Cour que la relation entre la payeuse et les travailleurs était une relation employeur‑employé et que les travailleurs avaient été embauchés aux termes d’un contrat de louage de services.
+[22] Ces appels sont rejetés et, par conséquent, les décisions du ministre sont confirmées.
+Signé à Toronto (Ontario), ce 19e jour d’août 2003.
+« W. E. MacLatchy »
+Juge suppléant MacLatchy
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Louise-Marie Leblanc, traductrice

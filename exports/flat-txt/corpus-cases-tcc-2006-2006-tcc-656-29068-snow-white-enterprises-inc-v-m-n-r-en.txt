@@ -1,0 +1,138 @@
+Title: Snow White Enterprises Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29068/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-656-29068-snow-white-enterprises-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-12-13
+
+# Snow White Enterprises Inc. v. M.N.R.
+
+- Citation: 2006 TCC 656
+- Decision date: 2006-12-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6814, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Snow White Enterprises Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-13
+Neutral citation
+2006 TCC 656
+File numbers
+2006-18(EI)
+Judges and Taxing Officers
+Michael H. Porter
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-18(EI)
+BETWEEN:
+SNOW WHITE ENTERPRISES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 14, 2006, at Edmonton, Alberta
+Before: The Honourable M.H. Porter, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Rafi Farooqui
+Counsel for the Respondent:
+Tyler Lord
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the assessment of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Calgary, Alberta, this 13th day of December 2006.
+"M.H. Porter"
+Porter D.J.
+Citation: 2006CCI656
+Date: 20061213
+Docket: 2006-18(EI)
+BETWEEN:
+SNOW WHITE ENTERPRISES INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Porter, D.J.
+[1] The Appellant has appealed from the decision of the Minister of National Revenue confirming an assessment dated May 4, 2005, for employment insurance premiums payable on behalf of two workers, Sukhwant Dhaliwal and Harjit Singh Dhaliwal during the period from January 1st, 2004 to December 31st, 2004. The Minister in confirming the assessment by letter dated November 22nd, 2005, decided that the two workers in question were engaged under a contract of service and were, " as a matter of fact ", dealing with the Appellant at arm’s length and were thus in insurable employment.
+The Law
+[2] In the scheme established under the Employment Insurance Act (the " E.I Act "), Parliament has made provision for certain employment to be insurable, leading to the payment of benefits upon termination, and other employment which is not included and thus carries no benefits upon termination. Employment arrangements made between persons, who are not dealing with each other at arm's length, are excluded. Quite clearly the purpose of this legislation is to safeguard the system from having to pay out a multitude of benefits based on artificial or fictitious employment arrangements.
+Subsection 5.(2)(i) of the E.I. Act reads as follows :
+5.(2) Insurable employment does not include
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+Subsection 5.(3)(a) of the E.I. Act reads as follows :
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act.
+Paragraph 251.(1)(c) of the Income Tax Act reads as follows :
+For the purposes of this Act;
+(c) …it is a question of fact whether persons not related to each other were at a particular time dealing with each other at arm's length.
+[emphasis added]
+[3] Although the Income Tax Act (the "Act ") specifies that it is a question of fact whether persons were at a particular time dealing with each other at arm's length, that factual question must be decided within the cradle of the law and in reality it is a mixed question of fact and law; see Bowman, T.C.J. in R.M.M. Canadian Enterprises et al. v. The Queen, 97 DTC 302.
+[4] What is meant by the term "arm's length" has been the subject of much judicial discussion both here in Canada, in the United States, the United Kingdom and in other Commonwealth countries such as Australia where similar wording appears in their taxing statutes. To the extent that the term has been used in trust and estate matters, that jurisprudence has been discounted in Canada when it comes to the interpretation of taxation statutes; see Locke, J. in M.N.R. v. Sheldon's Engineering Ltd., 55 DTC 1110.
+In considering the meaning of the term "arm's length" sight must not be lost of the words in the statute to which I gave emphasis above, "were at a particular time dealing with each other at arm's length. The case law in Canada as Bowman, T.C.J. (as he then was) points out in the R.M.M. case (above) has tended to dwell upon the nature of the relationship rather than upon the nature of the transactions. I am not sure that having regard to the inclusion of these words in the statute, that this approach is necessarily the only one to be taken, for to do so is to ignore these somewhat pertinent words, to which surely some meaning must be given. Perhaps this development has come about as a result of the factual situations in a number of the leading cases in Canada. These have tended to involve one person (either legal or natural) controlling the minds of both parties to the particular transaction. Thus even though the transaction might be similar to an ordinary commercial transaction made at arm's length that itself has not been enough to take the matter out of the it non arm 's length" category; see for example Swiss Bank Corporation et al. v M.N.R., 72 D.T.C. 6470 (S.C.C.).
+[5] In effect what these cases say is that if a person moves money from one of his pockets to the other, even if he does so consistently with a regular commercial transaction, he is still dealing with himself, and the nature of the transaction remains "non arm's length".
+[6] However, simply because these leading cases involved such factual situations, does not mean that people who might ordinarily be in a non arm's length relationship cannot in fact "deal with each other at a particular time in an 'arm's length' manner", any more than it means that people who are ordinarily at arm's length might not from time to time deal with each other in a non arm's length manner. These cases are quite simply examples of what is not an arm's length relationship rather than amounting to a definition in positive terms as to what is an arm's length transaction. Thus at the end of the day all of the facts must be considered and all of the relevant criteria or tests enunciated in the case law must be applied.
+[7] The expression "at arm's length" was considered by Bonner, T.C.J. in William J. McNichol et al. v. The Queen, 97 D. T. C. 111, where at pages 117 and 118 he discussed the concept as follows :
+Three criteria or tests are commonly used to determine whether the parties to a transaction are dealing at arm's length.
+They are :
+(a) the existence of a common mind which directs the bargaining for both parties to the transaction,
+(b) parties to a transaction acting in concert without separate interests, and
+(c) "de facto" control.
+The decision of Cattanach, J. in M.N.R. v. T R Merrit Estate is also helpful. At pages 5165-66 he said:
+In my view, the basic premise on which this analysis is based is that, where the "mind by which the bargaining is directed on behalf of one party to a contract is the same "mind" that directs the bargaining on behalf of the other party, it cannot be said that the parties were dealing at arm's length. In other words where the evidence reveals that the same person was "dictating" the "terms of the bargain" on behalf of both parties, it cannot be said that the parties were dealing at arm's length.
+Finally, it may be noted that the existence of an arm’s length relationship is excluded when one of the parties to the transaction under review has de facto control of the other. In this regard reference may be made to the decision of the Federal Court of appeal in Robson Leather Company v M.N.R., 77 DTC 5106.
+[8] This approach was also adopted by Cullen, J. in the case of Peter Cundill & Associates Ltd. v. The Queen, [1991] 1 C.T.C. 197, where at page 203 he says this :
+Whether the parties in this case were dealing at arm's length is a question to be examined on its own particular facts.
+[9] Many of these cases, as I say, are premised on the relationship existing between the parties which was determined to be all conclusive. There is little direct guidance there, when consideration is being given to the nature of the transaction or dealing itself. This question has, however, been quite succinctly dealt with by the Federal Court of Australia in the case of The Trustee for the Estate of the late AW Furse No 5 Will Trust v. FC of T, 91 ATC 4007/21 ATR 1123. Hill, J. said when dealing with similar legislation in that country :
+There are two issues, relevant to the present problem, to be determined under s. 102AG(3). The first is whether the parties to the relevant agreement were dealing with each other at arm's length in relation to that agreement. The second is whether the amount of the relevant assessable income is greater than the amount referred to in the subsection as the "arm's length amount.
+The first of the two issues is not to be decided solely by asking whether the parties to the relevant agreement were at arm's length to each other. The basis in the subsection is rather upon whether those parties, in relation to the agreement, dealt with each other at arm's length. The fact that the parties are themselves not at arm's length does not mean that they may not, in respect of a particular dealing, deal with each other at arm's length. This is not to say that the relationship between the parties is irrelevant to the issue to be determined under the subsection.
+[emphasis added]
+[10] Bowman, T.C.J. alluded to this type of situation in the R.M.M. case (above) when he said at page 311 :
+I do not think that in every case the mere fact that a relationship of principal and agent exists between persons means that they are not dealing at arm's length within the meaning of the Income Tax Act. Nor do I think that if one retains the services of someone to perform a particular task, and pays that person a fee for performing the service, it necessarily follows that in every case a non-arm's-length relationship is created. For example, a solicitor who represents a client in a transaction may well be that person's agent yet I should not have thought that it automatically followed that there was a non-arm's-length relationship between them.
+The concept of non-arm's length has been evolving.
+[11] In Scotland, in the case of Inland Revenue Commissioners v. Spencer-Nairn 1991 SLT 594 (ct. of Sessions) the Scottish Law Lords reviewed a case where the parties were in a non arm's length situation. They commented favourably on the approach taken by Whiteman on Capital Gains Tax (4th ed.), where it was suggested by the author that two matters should be taken into account when considering the words 'arm's length'. These were whether or not there was separate or other professional representation open to each of the parties and secondly, perhaps with more relevance to the situation on hand, whether there was “a presence or absence of bona fide negotiation".
+[12] In the United States the term "arm's length" was defined in the case of Campana Corporation v. Harrison (7 Circ; 1940) 114 F2d 400, 25 AFTR 648, as follows :
+A sale at arm's length connotes a sale between parties with adverse economic interests.
+[13] I dealt with these cases in Campbell and M.N.R. (96-2467(UI) and (96-2468(Ul)) and the principles for which they stand. I adopt all that I said in that case.
+[14] At the end of the day it would seem to me that what is intended by the words "dealing at arm's length" can best be described by way of an example. If one were to imagine two traders, strangers, in the market place negotiating with each other, the one for the best price he could get for his goods or services and the other for the most or best quality goods or service he could obtain, these persons one would say would be dealing with each other at arm's length. If however these same two persons, strangers, acted with an underlying interest to help one another, or in any manner in which he or she would not deal with a stranger, or if their interest were to put a transaction together which had form but not substance in order to jointly achieve a result, or obtain something from a third party, which could not otherwise be had in the open marketplace, then one would say that they were not dealing with each other at arm's length.
+[15] If the relationship itself (and here it must again be remembered that the EI Act does not say "where they are in a non arm's length relationship" it says "where they are not dealing with each other at arm's length") is such that one party is in a substantial position of control, influence or power with respect to the other or they are in a relationship whereby they live or they conduct their business very closely, for instance if they were friends, relatives or business associates, without clear evidence to the contrary, the Court might well draw the inference that they were not dealing with each other at arm's length. That is not to say, however, that the parties may not rebut that inference. One must however, in my view, distinguish between the relationship and the dealing. Those who are in what might be termed a “non arm's length relationship" can surely deal with each other at arm's length in the appropriate circumstances just as those who are strangers may, in certain circumstances, collude the one with the other and thus not deal with each other at arm’s length.
+[16] Ultimately if there is any doubt as to the interpretation to be given to these words I can only rely on the words of Madam Justice Wilson who in the case of Abrahams v. A/G Canada [1983] 1 S.C.R.2, at p. 10 said this :
+Since the overall purpose of the Act is to make benefits available to the unemployed, I would favour a liberal interpretation of the re-entitlement provisions. I think any doubt arising from the difficulties of the language should be resolved in favour of the claimant.
+[17] In the end it comes down to those traders, strangers, in the marketplace. The question that should be asked is whether the same kind of independence of thought and purpose, the same kind of adverse economic interest and same kind of bona fide negotiating has permeated the dealings in question, as might be expected to be found in that marketplace situation. If on the whole of the evidence that is the type of dealing or transaction that has taken place then the Court can conclude that the dealing was at arm's length. If any of that was missing then the converse would apply.
+The facts
+[18] At the hearing of the appeal the Appellant was represented by its accountant and bookkeeper, one Rafi Farooqui. No other witnesses were present. Mr. Farooqui confirmed that he agreed with each and every one of the assumptions of fact relied upon by the Minister.
+[19] Mr. Farooqui contended that the Appellant who paid the workers should not be required to pay employment insurance premiums if the workers were not eligible to receive employment insurance benefits, if they were laid off from their employment. He was under the impression that they would not be eligible for such benefits.
+[20] The workers are brothers. Each of them and two other totally independent persons, each own 25% of the shares in the Appellant. Although they are related persons under the Income Tax Act and the Employment Insurance Act, the two workers together do not hold a majority of the shares in the Appellant, nor do they control the corporation between themselves. Further neither of them own by themselves 40% of the shareholdings. Accordingly neither of them are by law automatically in excluded employment as laid down by the statute.
+[21] It is thus a matter of fact to be decided whether or not either or both of them were dealing with the Appellant at arm’s length.
+The conclusion
+[22] I have set out a definition of “arm’s length” above. The Minister decided on the facts before him that the workers were dealing with the Appellant at arm’s length and were thus in insurable employment the Appellant agrees with those facts. I see nothing in the facts which would lead me to a different conclusion. All the facts point to a clear conclusion that these two workers could not operate the corporation by themselves, but rather needed at least one other shareholder to agree with them. That shareholder clearly had a different and separate economic interest. Accordingly I find that the workers were in insurable employment during the period in question. Should they have become unemployed and met the other criteria for benefits, they would have been entitled to claim the same on the basis of their being in insurable employment.
+[23] For these reasons the appeal is dismissed and the assessment is confirmed.
+Signed at Calgary, Alberta, this 13th day of December 2006.
+"M.H. Porter"
+Porter D.J.
+CITATION: 2006CCI656
+COURT FILE NO.: 2006-18(EI)
+STYLE OF CAUSE: SNOW WHITE ENTERPRISES INC. AND M.N.R.
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: November 14, 2006
+REASONS FOR JUDGMENT BY: The Honourable M.H. Porter, Deputy Judge
+DATE OF JUDGMENT: December 13th, 2006.
+APPEARANCES:
+Agent for the Appellant:
+Rafi Farooqui
+Counsel for the Respondent:
+Tyler Lord
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

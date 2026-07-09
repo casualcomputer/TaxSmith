@@ -1,0 +1,463 @@
+Title: Promutuel Réassurance v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/460302/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-13-460302-promutuel-r-assurance-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-01-23
+
+# Promutuel Réassurance v. The Queen
+
+- Citation: 2020 TCC 13
+- Decision date: 2020-01-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4249, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Promutuel Réassurance v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-01-23
+Neutral citation
+2020 TCC 13
+File numbers
+2016-3908(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3908(IT)G
+BETWEEN:
+PROMUTUEL RÉASSURANCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 7 and 8, and June 5, 2019, at Québec, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the appellant:
+Roger Taylor
+Marie‑Claude Marcil
+Counsel for the respondent:
+Michel Lamarre
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act, the notice of which is dated February 23, 2016, for the appellant’s 2011 taxation year is allowed with costs in favour of the appellant in accordance with the attached reasons for judgment.
+Signed at Montreal, Quebec, this 23rd day of January 2020.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 23rd day of June 2021.
+Janine Anderson, Revisor
+Citation: 2020 TCC 13
+Date: 20200123
+Docket: 2016-3908(IT)G
+BETWEEN:
+PROMUTUEL RÉASSURANCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a reassessment made by the Minister of National Revenue (the “Minister”) under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) as amended (the “ITA”), the notice of which is dated February 23, 2016, and concerns the 2011 taxation year of Promutuel Réassurance (the “appellant” or “ProRé”).
+[2] In the notice of reassessment, the Minister disallowed the deduction of a non‑capital loss in the amount of $11,834,372 and a tax reserve for loans in the amount of $39,762 and a deduction of deferred policy acquisition costs in the amount of $589,293 for the appellant’s taxation year ending December 31, 2011. Only the non‑capital loss deduction of $11,834,372 is challenged in this appeal.
+[3] Prior to the hearing, the parties submitted a partial agreement on the facts, which it is helpful to reproduce in its entirety:
+[translation]
+1. The appellant has its principal place of business at 200 Lebourgneuf Boulevard, Suite 400, Québec, Quebec.
+2. The appellant contests the disallowance of a “non‑capital loss” deduction in the amount of $11,834,372 resulting from a notice of reassessment issued with respect to the appellant on February 23, 2016, for its taxation year ending December 31, 2011.
+A. THE APPELLANT: PROMUTUEL RÉASSURANCE
+3. The appellant is a corporation incorporated by chapter 110 of the statutes of Quebec of 1975, amended by chapter 104 of the statutes of 1977 and chapter 100 of the statutes of 1979. These statutes were replaced by chapter 62 of the statutes of 1985, An Act respecting the Société mutuelle de réassurance du Québec, which was amended by chapter 86 of the statutes of 1995, An Act to amend the Act respecting the Société mutuelle de réassurance du Québec (the “ProRé Act”). The appellant is governed by the ProRé Act and, on a suppletive basis, by the Act respecting insurance, CQLR c A‑32, as amended (the “AI”) and by Part I of the Companies Act, CQLR c C‑38, as amended (the “CAQ”).
+4. The appellant was continued as a corporation under the ProRé Act of June 19, 1975, but has neither shareholders nor capital stock. Its capital is obtained from the contribution of its members, that is, the 27 mutual general insurance associations (“MGIAs”) that it has the power to assess.
+5. The purpose of the appellant is to practise damage reinsurance. The appellant may also practise damage insurance.
+B. GROUPE PROMUTUEL FÉDÉRATION DE SOCIÉTÉS MUTUELLES D’ASSURANCE GÉNÉRALE
+6. Groupe Promutuel Fédération de sociétés mutuelles d’assurance générale (“Groupe Promutuel”) is a federation of mutual general insurance associations incorporated on November 25, 1970, and governed by chapter III.2 of the AI.
+7. One of the objects of Groupe Promutuel is to define the common objectives for the MGIAs.
+8. Groupe Promutuel is a legal person with neither shareholders nor capital stock but, rather, members with interest in its capital.
+9. In 2010, Groupe Promutuel had 27 MGIAs that were members. Only an MGIA can be a member of Groupe Promutuel.
+10. Any MGIA that is a member of Groupe Promutuel is also a member of the appellant.
+11. In 2010, Groupe Promutuel held no interest in the appellant.
+12. Groupe Promutuel’s affairs are administered by a board of directors composed of 10 members. At the relevant time, Groupe Promutuel’s board of directors was composed of 10 members, seven of whom were directors of MGIAs and three of whom were general managers of MGIAs.
+13. In addition to general managers of MGIAs, any director of an MGIA may be eligible for the function of director of Groupe Promutuel. For the purposes of the election of said directors, the MGIAs are grouped into three zones to ensure better representation for Groupe Promutuel.
+14. The board of directors of Groupe Promutuel appoints the seven members of the appellant’s board of directors.
+C. MUTUAL GENERAL INSURANCE ASSOCIATIONS
+15. MGIAs are governed by chapter III.1 of the AI.
+16. MGIAs are corporations.
+17. MGIAs have only members and have neither capital stock nor shareholders.
+18. An MGIA is composed of members with an interest in its capital. Each member has a right to vote.
+19. Any person who has entered into an insurance contract with the MGIA automatically becomes a member of it.
+20. The object of each MGIA is to provide its members with financial services, mainly damage insurance.
+21. The MGIA’s board of directors administers the affairs and exercises all the powers of the MGIA, except those the general meeting reserves to itself by by-law.
+22. In 2010, each of the MGIAs was a member of the appellant. The MGIAs are therefore the sole members of the appellant and of Groupe Promutuel.
+23. Each MGIA has the right to be represented by three representatives at the annual general meeting of members of Groupe Promutuel and by one representative at any special general meeting, with each representative being entitled to one vote.
+24. For tax purposes, under section 138 of the ITA, MGIAs are deemed to operate an insurance business. They are also financial institutions within the meaning of the definition of a financial institution in subsection 142.2(1) of the ITA in reference to the definition of a restricted financial institution and that of an insurance corporation under subsection 248(1) of the ITA.
+D. PROMUTUEL CAPITAL TRUST COMPANY INC.
+25. Promutuel Capital Trust Company Inc. (“ProCap”) was a taxable Canadian trust company incorporated on June 23, 1988, under The Act respecting trust companies and savings companies, CQLR, c S‑29.01, as amended (the “ARTCSC”) and Part I of the CAQ.
+26. As at December 31, 2010, ProCap’s “non‑capital losses” amounted to $11,834,372, given that $235,923 of the “non‑capital losses” had expired on December 31, 2010.
+27. In 2010, ProCap’s authorized capital stock was composed of six classes of shares: share classes “A” to “F”, which were entirely held by the MGIAs, the appellant and Groupe Promutuel. The principal rights, privileges, conditions and restrictions of the issued and outstanding shares of the classes of ProCap’s capital stock were as follows:
+• Class “A”: an unlimited number of Class “A” shares, voting (one vote per share), participating and without par value, entitling the holder to receive dividends when declared by the directors and to participate in the division of the residual assets of ProCap pari passu with the Class “B” shares of ProCap’s capital stock up to a capital of $18,000,000 exclusive of the balance.
+• Class “B”: 228,500 non‑participating, non-voting Class “B” shares that have a par value of $25 each, entitling the holder to a quarterly, fixed, preferred non‑cumulative dividend equal to 18.75% of the bank prime rate, calculated on the value of $39,338 per share and participating in the division of the residual assets of ProCap and pari passu with the Class “A” shares of ProCap’s capital stock up to a capital of $18,000,000.
+• Class “C”: 2,000,000 non‑participating, non-voting Class “C” shares, with a par value of $1 each, entitling the holder to a quarterly, preferential, non‑cumulative dividend that may vary from 0.5% to 3%, calculated on the value of $1,345 per share.
+• Class “D”: 2,000,000 non‑participating, non-voting Class “D” shares, with a par value of $1 each, entitling the holder to a quarterly, preferential, non‑cumulative dividend that may vary from 0.5% to 3%, calculated on the value of $1,079 per share.
+• Class “E”: 102,875 non‑participating, non-voting Class “E” shares, with a par value of $100 each, with a non‑cumulative preferential quarterly dividend equal to 18.75% of the bank prime rate on the par value.
+• Class “F”: 110,500 non‑participating, non-voting Class “F” shares, with a par value of $100 each, entitling the holder to a quarterly, preferential and cumulative dividend equal to 0.8475%, calculated on the par value of the share.
+28. The issued and paid capital stock of ProCap was distributed as follows as at December 31, 2010:
+Shareholder
+Number and class
+Paid-up capital
+Adjusted cost base
+Value
+MGIAs1
+95,040 Class A
+$5,687,259
+$0
+$847,379
+162,156 Class B
+$4,053,900
+$0
+$1,078,586
+93,000 Class F
+$9,300,000
+$9,300,000
+$9,615,270
+The appellant
+70,601 Class A
+$4,244,812
+$4,712,565
+$629,480
+59,992 Class B
+$1,499,800
+$2,358,478
+$399,039
+1,452,392 Class C
+$1,452,392
+$1,452,392
+$1,953,467
+1,104,335 Class D
+$1,104,335
+$1,104,335
+$1,191,577
+Groupe Promutuel
+4,821 Class A
+$288,492
+$356,896
+$42,984
+6,347 Class B
+$158,675
+$250,000
+$42,217
+29. In 2010, each of the 27 MGIAs held shares of ProCap’s capital stock.
+30. In 2010, the appellant held shares of ProCap’s capital stock.
+31. At all relevant times, Groupe Promutuel held shares in ProCap’s capital stock.
+E. TRANSACTIONS
+32. On December 31, 2010, Groupe Promutuel transferred to the appellant all of the Class “A” and “B” shares that it held in ProCap’s capital stock at the value estimated by the parties, that is, $85,210 payable in cash (the “Groupe Promutuel Transaction”).
+33. On December 31, 2010, each of the MGIAs transferred to the appellant all of the Class “B” and Class “F” shares that it held in ProCap’s capital stock at the value estimated by the parties, that is, a total of, respectively, $1,078,586.61 and $9,615,270, payable in cash (“First MGIAs’ Transaction”). The purchase price of the Class “F” shares of ProCap included the cumulative dividend accrued and not paid by ProCap on these shares.
+34. Following amendments made to its By‑law No. 3 concerning interest in its capital, the appellant put out a call for additional capital interest. The capital call was payable in predetermined goods, that is, by means of transfers by the MGIAs to the appellant of all of the Class “A” shares held by them in ProCap’s capital stock (“Second MGIAs’ Transaction”). In return for the Second MGIAs’ Transaction, the MGIAs’ interest in the appellant’s capital was increased by an amount equal to their additional interest, that is, the fair market value of the Class “A” shares in ProCap’s capital stock that were transferred.
+35. The appellant issued in favour of each of the MGIAs additional interest certificates given the completion of the Second MGIAs’ Transaction. No tax rollover election was made under section 85 of the Act.
+36. Each MGIA included in its income tax return, for the taxation year in which the disposition was made, the resulting gain or loss, in accordance with the mark‑to‑market rules.
+37. Following the Groupe Promutuel Transaction, the First MGIAs’ Transaction, and the Second MGIAs’ Transaction, all of the capital stock issued by ProCap was held by the appellant.
+38. After the Second MGIAs’ Transaction carried out on December 31, 2010, ProCap was liquidated in favour of its sole shareholder, that is, the appellant.
+F. REQUEST FOR AN ADVANCE RULING
+39. On June 29, 2010, the appellant and ProCap submitted a request for an advance ruling to the Canada Revenue Agency to determine whether the appellant was entitled to claim “non‑capital losses” after the planned acquisition of control of ProCap.
+40. On September 21, 2010, the appellant provided the Canada Revenue Agency with additional information in connection with its request for an advance ruling dated June 29, 2010.
+41. On December 1, 2010, the appellant provided the Canada Revenue Agency with additional information in connection with its request for an advance ruling dated June 29, 2010.
+42. On April 14, 2011, the CRA’s advance income tax rulings directorate informed the appellant that the request for an advance ruling had been rejected.
+[4] A corporate organizational chart dated December 31, 2009, that is, before the transactions were carried out, is attached as Appendix A to this judgment, and a corporate organizational chart dated December 31, 2010, that is, after the transactions were carried out, is attached as Appendix B to this judgment. Groupe Promutuel Fédération de Sociétés mutuelles d’assurance générale will hereinafter be referred to as the “Federation”.
+Issues
+[5] Did the appellant acquire control of ProCap when it acquired all of the shares of ProCap, thereby triggering the application of the rules with respect to restrictions on the carry-forward of losses set out in subsections 88(1.1) and 111(5) of the ITA, which prevent the appellant from deducting $11,834,372 as “non‑capital losses” in the computation of its taxable income for the taxation year ending December 31, 2011?
+[6] Is paragraph 256(7)(d) of the ITA applicable in such a way as to deem that the appellant did not acquire control of ProCap when it acquired the shares of ProCap?
+The law
+[7] Since ProRé’s acquisition of the Class A shares held by the MGIAs in consideration of additional interest in ProRé’s capital stock resulted in the acquisition of control of ProCap, ProRé cannot use non‑capital losses accumulated by ProCap as deductions in computing its taxable income for its 2011 taxation year under subsection 111(5) of the ITA unless paragraph 256(7)(d) of the ITA applies in such a way as to deem that control of ProCap was never acquired.
+[8] Paragraph 256(7)(d) of the ITA reads as follows:
+256(7) Acquiring control – For the purposes of subsections 10(10), 13(21.2) and (24), 14(12) and 18(15), sections 18.1 and 37, subsection 40(3.4), the definition “superficial loss” in section 54, section 55, subsections 66(11), (11.4) and (11.5), 66.5(3) and 66.7(10) and (11), section 80, paragraph 80.04(4)(h), subsections 85(1.2), 88(1.1) and (1.2) and 110.1(1.2), sections 111 and 127, subsection 249(4) and this subsection:
+. . .
+(d) where at any time shares of the capital stock of a particular corporation are disposed of to another corporation (in this paragraph referred to as the “acquiring corporation”) for consideration that includes shares of the acquiring corporation’s capital stock and, immediately after that time, the acquiring corporation and the particular corporation are controlled by a person or group of persons who
+(i) controlled the particular corporation immediately before that time, and
+(ii) did not, as part of the series of transactions or events that includes the disposition, cease to control the acquiring corporation,
+control of the particular corporation and of each corporation controlled by it immediately before that time is deemed not to have been acquired by the acquiring corporation solely because of the disposition;
+[9] For paragraph 256(7)(d) to apply, the following three conditions must be met:
+(a) shares of the particular corporation (ProCap) must have been disposed of to another corporation (ProRé) as consideration for shares in ProRé;
+(b) immediately after the disposition, ProRé and ProCap must be controlled by a person or group of persons who controlled ProCap immediately before that time; and
+(c) the person or group of persons who controlled ProCap immediately before the disposition of shares did not, as part of the series of transactions or events that includes the disposition, cease to control ProRé.
+[10] To determine whether paragraph 256(7)(d) applies to the transactions carried out, the Court must, in particular, consider under what circumstances a person or group of persons may be considered to have control of a corporation when, in fact, no person individually holds the majority of the voting rights to elect the members of the corporation’s board of directors.
+Testimonial and documentary evidence
+[11] Michel Gauthier and Michel Gosselin testified on behalf of the appellant.
+[12] Mr. Gauthier was retired at the time of his testimony on May 7, 2019, and was the president of the MGIA called Promutuel Portneuf‑Champlain. In 2010, he was director of the Federation, of Promutuel Vie Inc. and of ProCap. He was a member of the Promutuel Portneuf‑Champlain MGIA for 46 years. He outlined the history of the MGIAs that were at the origin of the farmer cooperatives grouped together in parish mutuals. Each MGIA has its territory and the MGIAs do not compete with each other. In 2010, there were 27 MGIAs whereas now, only 16 MGIAs remain. Several MGIAs merged together.
+[13] Mr. Gauthier is a staunch mutualist. He explained that the Federation was formed in 1956 as an MGIA development tool by pooling MGIA services. ProRé was formed for the purpose of reinsuring insurance contracts over $5,000. ProCap was formed to act as a trust company. All of ProCap’s assets, except certain loans and investments, were sold to Desjardins in July 2010 after ProCap invested more than $50 million to develop its computer system.
+[14] Regarding the MGIA of Promutuel Portneuf‑Champlain, Mr. Gauthier explained that it had some 40,000 members and 102 employees and that it handled the sale and management of automobile and home insurance policies, both residential and commercial. The board of directors consisted of eight people and only members were eligible to sit on the board of directors.
+[15] During his testimony, Mr. Gauthier pointed out the following facts that tend to support the position that the MGIAs formed a group of persons that controlled ProRé and ProCap:
+(a) The Federation and the other entities of the group were all created as tools for the MGIAs. Nothing was done without the consent of the MGIAs;
+(b) Each MGIA held its own territory. Moreover, no competition between the MGIAs was allowed in an MGIA’s territory. Section 4 of the Federation’s by‑law concerning the MGIAs’ territories reads as follows:
+[translation]
+A member association cannot systematically adopt pricing practices, coding practices, solicitation practices, damage insurance placing practices and/or commercial practices that are intended to unduly compete with any other member association in its established territory and/or shared territory.
+(c) The witness often referred to the concept of mutuality, which he defined as always helping each other and helping the weakest member in order to be stronger together;
+(d) The relationships between the MGIAs were relationships of courtesy, consultations, and discussion. For example, the MGIAs discussed each MGIA’s financial statements to view the performance of the other MGIAs and to see if one of them needed help.
+(e) The MGIAs all had the same auditor, the same computer services, and all major services were arranged together;
+(f) The MGIAs paid dues for the Federation’s services (legal, financial, accounting, computer, actuarial, human resources, advertising, printing (forms and insurance policies) services, etc.) based on each MGIA territory’s potential, wealth and volume;
+(g) The role of the Federation was to act as a specialist that provided technical support to the MGIAs and monitoring (e.g., minimum capital test);
+(h) The MGIAs prepared monthly financial statements and sent them to the Federation, which compiled them to make a consolidated global report;
+(i) The Federation was funded by the MGIAs and could request additional dues;
+(j) The directors of the Federation were directors of the MGIAs. The Federation sent solicitations of interest to the MGIAs for director positions;
+(k) All MGIAs had to be members of the Federation and follow its rules;
+(l) Each MGIA had the same number of votes at the Federation’s annual meetings;
+(m) Employees of the MGIAs and the Federation were covered by the same supplementary pension plan and the same group insurance policy.
+[16] In his testimony, Mr. Gauthier also pointed out facts that tend to support that the MGIAs did not form a group of persons that controlled both ProRé and ProCap. These facts are as follows:
+(a) There was some mistrust between the MGIAs and the Federation, and the MGIAs wanted to maintain control of the entities that were part of the group. For example, ProCap’s shareholder agreement stipulated that the MGIAs must jointly hold at least 51% of the shares in all voting classes of the corporation, divided equally among them. The shareholder agreement was amended on April 4, 2006, so that four of the seven members of the board of directors could be elected by the MGIAs and the other three members could be elected by the Federation whereas previously the Federation could elect five of the seven members of the board of directors. The agreement was again amended on April 14, 2010, to facilitate the sale of ProCap’s assets by increasing the number of directors of the corporation to 10 directors appointed by the Federation’s board of directors and by making any director of the Federation eligible for the position of director of the corporation;
+(b) The mutuality contract between the MGIAs was not a binding, enforceable contract but was instead equivalent to a handshake, i.e., an agreement in principle;
+(c) The offices of the MGIAs were independent from each other. Each MGIA had its own head office, board of directors and branch and made decisions based on its interests and territory. The number of directors in each MGIA varied from 7 to 15. The internal management by‑laws of each MGIA governed the number of directors;
+(d) The MGIAs could offer different products. Boat insurance was an example of a product not offered by all MGIAs;
+(e) The Federation established the insurance policy pricing manual, but the MGIAs could depart from it;
+(f) The MGIAs could purchase brokerage offices, but they asked for advice and assistance from the Federation beforehand. The final decision was up to the MGIA concerned;
+(g) Although MGIAs could have shared accountants or other experts, in 2010, they did not do so;
+(h) There was no written voting agreement between the MGIAs but there was a verbal “mutuality contract”. Each MGIA voted in an independent and sovereign manner but in the interest of all of the MGIAs;
+(i) There was no proxy voting by one MGIA for another MGIA.
+[17] Michel Gosselin also testified at the hearing. At the time of his testimony, he was retired but held the position of the Federation’s acting vice-president, finance. From 2006 to 2018, he was vice-president, finance, of all of the entities in the group, with the exception of the MGIAs.
+[18] Mr. Gosselin first reviewed the activities carried out by each entity in the group. The Federation’s mandate is to support the MGIAs in the realization of their business plan. The Federation is a taxable business, but its objective is not to make a profit. Its budget is balanced and its income comes from dues collected from the MGIAs and reimbursements for the costs of the services provided to the MGIAs.
+[19] ProRé was responsible for reinsurance for policies with up to $5 million in coverage. ProRé employees were employees of the Federation, but their salaries and benefits were charged to ProRé.
+[20] ProCap was responsible for group savings plans and the granting of agricultural loans that were either guaranteed or not guaranteed by mortgages. ProCap received support from the Federation and had its distribution network in the MGIAs. ProCap did not carry on the activities of a real trust company.
+[21] The Promutuel Guarantee Fund acted as a safety net for the MGIAs and was capitalized through the issuance of preferred shares to the MGIAs. The purpose of the Promutuel Guarantee Fund was to assist the MGIAs in the event of financial difficulties and to help them in their recovery plan.
+[22] Promutuel Vie inc. was a life insurance company that was 50% controlled by La Capitale groupe financier. La Capitale provided insurance policies and pricing. The policy sales network was inside the MGIA network.
+[23] Fonds de placement Promutuel was set up to allow the Federation to manage the funds dedicated to or belonging to the MGIAs.
+[24] Mr. Gosselin described in more detail the services offered by the Federation to the MGIAs; these services tend to support the position that the MGIAs and the Federation formed a group of persons that controlled both ProRé and ProCap.
+[25] All MGIAs used the same accounting system managed by the Federation to consolidate the financial statements of all of the MGIAs. Each MGIA produced its own financial statements, but the results of each one were shared with the other MGIAs for comparison purposes.
+[26] The services offered by the Federation to the MGIAs affected nearly all of the areas of activity of the MGIAs:
+– support for the accounting system and the application of accounting standards applicable to all MGIAs;
+– auditing of the MGIAs’ annual financial statements;
+– inspection and compliance services for regulatory bodies, including the Autorité des marchés financiers (e.g., compliance with capitalization requirements and the establishment and evaluation of reserves);
+– the technology needs and the business systems of the MGIAs were all the same: issuance of insurance policies, claims handling, acquisition of central systems, software packages, computers and databanks, contract negotiations for cellphones, telephones and the support line for resolving IT problems, etc.;
+– a centralized compensation service;
+– legal support;
+– two levels of advertising:
+local: each MGIA had its own budget and managed it itself with support from the Federation (same colours, logos, themes);
+national/provincial: the MGIAs approved the budget that was managed by the Federation but the budget cost was apportioned between the MGIAs;
+– user pay services which the MGIAs could elect to subscribe to: broken windows, photo-based estimates, and agreements with auto body repairers for repairs after disasters;
+– preparation of triennial strategic plans.
+[27] Mr. Gosselin also explained that MGIA representatives sat on committees led by the Federation, which include the insurance committee, the compensation committee, the standards and practices committee, the finance committee and the pricing committee. In addition, all of the general managers of the MGIAs sat on the Federation’s management committee.
+[28] In his testimony, Mr. Gosselin also highlighted facts showing the independence and autonomy of the MGIAs. These facts include the following:
+(a) The pricing of insurance policies was done by the Federation’s actuaries, but until 2010, the territory of the MGIA where the policies were sold was one of the criteria that had to be taken into account in the pricing;
+(b) For certain services, such as the printing of policies, questionnaires and forms, and direct compensation services, the MGIAs had the choice of whether or not to opt in;
+(c) Members of the MGIAs had to adopt resolutions for ordinary operations with 50% of the votes, whereas the resolutions for major projects or for very important decisions had to be adopted with 75% of the votes;
+(d) The Federation made the decision to sell ProCap and mandated a consulting firm to that effect. After receiving the consultants’ report, the Federation reached out to the MGIAs to explain the findings and to convince them to proceed with the sale. The MGIAs acquiesced and ProCap was officially put up for sale. After receiving the offer from Desjardins, the Federation again reached out to the MGIAs to explain the terms and conditions and consequences of the offer. The sale of ProCap’s assets to Desjardins was unanimously approved by the MGIAs. Each MGIA then held approximately 2.06% of the Class A shares of ProCap, and each MGIA was free to vote its shares as it saw fit because there was no voting agreement between the MGIAs;
+(e) The MGIAs could leave the Federation with the consent of the Federation, as was done in 2007 by Promutuel Dorchester, société mutuelle d’assurance générale and Promutuel Lévisienne-Orléans, société mutuelle d’assurance générale.
+[29] The documentary evidence submitted by the appellant includes, among other things, the following documents:
+– the Federation’s internal management by‑laws, namely, by-laws 1, 8, 17, 24, 25, 28 and 30, and by-laws 2010‑1, 2010‑2, 2010‑3 and 2010‑4;
+– the ProCap shareholder agreement dated April 10, 2003, and as amended on April 4, 2006, and April 14, 2010;
+– Groupe Promutuel’s 2001–2005 global action plan and strategic analysis;
+– Groupe Promutuel’s 2005–2007 strategic plan;
+– Groupe Promutuel’s 2008–2010 strategic plan;
+– the resolution by Groupe Promutuel’s board of directors to approve the signing of an addendum to a protocol concerning two MGIAs dated March 4, 2008;
+– the allocation of the 2010 advertising budget between the various MGIAs; and
+– the supplementary pension plan for Groupe Promutuel employees, dated January 1, 2001.
+[30] The respondent submitted the following legislation:
+– the incorporating statutes of the Société mutuelle de réassurance du Québec with amendments;
+– the Act respecting insurance (as it appeared in 2010);
+– Part I of Quebec’s Companies Act (as it appeared in 2010);
+– the Act respecting trust companies and savings companies (as it appeared from November 17, 2010, to December 31, 2010); and
+– An Act concerning the transfer of all of the property or the enterprise of Promutuel Capital Trust Company Inc., assented to June 11, 2010.
+[31] The respondent also submitted into evidence the following documents:
+– the 2010 administration agreement to manage ProCap following the sale of assets to Desjardins Trust Inc.;
+– Groupe Promutuel’s 2011–2013 strategic plan;
+– Groupe Promutuel’s 2009 annual report;
+– certain correspondence exchanged with the Canada Revenue Agency regarding the request for advance rulings and the use of ProCap losses by ProRé following the liquidation of ProCap;
+– the offer to purchase the ProCap savings and credit portfolio filed by the Fédération des caisses Desjardins du Québec on December 17, 2009, and accepted on December 21, 2009, by ProCap;
+– the purchase and sale agreement entered into by ProCap and La Caisse Centrale Desjardins du Québec dated March 25, 2010;
+– the agreement of purchase and sale of 4,821 Class A shares and 6,347 Class B shares of ProCap by the Federation to ProRé dated December 31, 2010;
+– the agreement of purchase and sale of Class B and Class F shares of ProCap by the MGIAs to ProRé dated December 31, 2010;
+– the agreement for the payment of additional interest and the transfer of Class A shares of ProCap by the MGIAs to ProRé dated December 31, 2010, under which each MGIA transferred to ProRé 3,520 Class A shares of ProCap payable by an additional interest in the capital of ProRé in the amount of $35.20;
+– ProRé board of director resolutions adopted on December 31, 2010, requiring from each MGIA an interest in the capital of ProRé, namely, the Class A shares of ProCap;
+– ProCap’s third interim financial report for the nine‑month period ending September 30;
+– excerpts from the examination for discovery of Sylvain Fauchon, who was chief executive officer of the Federation and ProRé.
+[32] The following elements of the documentary evidence tend to support the position that the MGIAs formed a group of persons that, together with the Federation, controlled ProRé and ProCap:
+(a) The legislation governing the MGIAs, the Federation and the Guarantee Fund treats MGIAs as an interdependent group sharing common links. The fact that the Act respecting insurance (CQLR, c A‑32 as amended) is the enabling legislation that governs the MGIAs, the Federation and the Guarantee Fund is, in itself, evidence of the legislature’s intention to treat these entities in a solidary manner and confirms that these entities operate their joint insurance business as a mutual group through the common links that they maintain, particularly with regard to their reciprocal obligations;
+(b) The directors of the Federation are elected from among the directors of the MGIAs that are members of the Federation. The MGIAs themselves decide on the election process for the directors of the Federation. The importance of the “one member, one vote” mutualist principle allows the MGIAs to be considered equally, notwithstanding their respective size. The mutualist principle is reinforced by the fact that each MGIA has three representatives with a right to vote at the Federation’s annual general meeting and one representative with a right to vote at a special general meeting of the Federation;
+(c) The importance of the principle of mutual assistance between MGIAs and non‑competition between them finds application in the fact that each MGIA has its own geographical region in which it can carry on its insurance business. The Act respecting insurance protects and promotes the MGIAs’ group approach to their joint insurance business with the result that they cannot compete unless there is a consensus of at least three quarters of the MGIAs;
+(d) Each MGIA must guarantee its own solvency for the benefit of the group and ensure that it complies with the minimum capitalization requirements at all times. The founding MGIAs of a federation must request the constitution of a guarantee fund for the common benefit of the group members, failing which they cannot carry on their insurance business.
+(e) MGIAs, through their federation, may designate a single reinsurer with which they are required to enter into their reinsurance contracts;
+(f) The Société mutuelle de réassurance du Québec was incorporated under a private Quebec law and it continued as a corporation governed by An Act respecting the Société mutuelle de réassurance du Québec, Statutes of Quebec, 1985, chapter 62 (the “ProRé Act”). The legislature’s intention was to treat ProRé as part of the same group as the MGIAs, the Federation and the Guarantee Fund. The following provisions of the ProRé Act support this legislative intention:
+(i) all members of the Federation, i.e., the MGIAs, are also members of ProRé;
+(ii) the board of directors of ProRé is appointed by the board of directors of the Federation;
+(iii) the directors of ProRé may adopt by‑laws for conducting business without the approval of its members;
+(iv) ProRé must send each MGIA a certificate every year indicating the percentage and amount of its capital interest;
+(v) the board of directors of ProRé must report on its mandate and submit an annual report at the annual general meeting of the Federation’s members;
+(g) Section 1 of ProCap’s shareholder agreement states that the general purpose is [translation] “to combine their efforts and financial resources to promote the interests of the Company” and “avoid any cause of discord”. Sections 3 and 4 of the agreement state that a system is in place to ensure that MGIAs always have the same number of voting shares;
+(h) The Federation has the authority to declare an open territory or to keep it reserved, and to approve or reject sharing agreements between MGIAs. As a result, the Federation has decision‑making authority and authority to manage territories;
+(i) The preamble to By‑law 2010‑2 concerning the decision‑making process and the membership requirements of members of the Federation states the following:
+[translation]
+Whereas the Federation must protect the interests of all mutual general insurance associations, promote the achievement of their common goals and promote their development;
+Whereas the mutual general insurance associations are committed to cooperation and mutual assistance, both among themselves and with their insured members;
+Whereas the mutual general insurance associations rely on their cohesion of action to benefit from means of collective development;
+[33] The following elements of the documentary evidence tend to support the fact that the MGIAs were independent, autonomous entities that did not form a group of persons that controlled ProRé and ProCap:
+(a) Each MGIA is administered by its board of directors, comprised of directors elected by members of the MGIA. Under section 93.87 of the Act respecting insurance, it is the board of directors of the MGIA that administers the affairs and exercises all the powers of the MGIA;
+(b) The number of directors on the board of directors of a MGIA is determined by its internal management by‑laws and not by the Federation;
+(c) The legal framework set out in the Act respecting insurance does not have the effect of making the MGIAs subject to the control and direction of the Federation in the conduct of their business;
+(d) Paragraph 2 of section 2 of ProCap’s shareholder agreement, which was signed in 2003, states that the MGIAs are separate, unlinked entities that are not subject to any voting agreement or any other agreement to the same effect and that exercise their right to vote in ProCap autonomously and independently. That paragraph reads as follows:
+[translation]
+The shareholders acknowledge that each of the mutual associations are separate entities that are not directly or indirectly linked, that are not subject to any voting agreement or any other agreement to the same effect, and that exercise their right to vote autonomously and independently.
+(e) Each MGIA has signed, through its authorized representative, the agreement for the payment of additional interest and the transfer of shares dated December 31, 2010, under which ProRé became the sole proprietor of the Class A shares of the capital stock of ProCap via an amendment to its By‑law No. 3 concerning the interest in its capital and not via a direct sale to the appellant;
+(f) It has not been established that agreements were entered into between the MGIAs proving that they acted in concert in a manner to constitute a group of persons controlling ProCap;
+(g) The 2008–2010 strategic plan states that [translation] “. . . the growth of mutual associations over the past five years, and the groupings of associations to come, will lead the Federation to adapt its service offering based on a greater autonomy and structure of mutual associations.”
+(h) Two MGIAs, Promutuel Dorchester and Promutuel Lévisienne Orléans, left the Federation following a decision by their respective boards of directors, which shows that each MGIA is autonomous and independent and can choose to leave the Federation and the group.
+Position of the parties
+A. For the appellant
+[34] First, the appellant maintains that the MGIAs controlled ProRé (the acquiring corporation) and ProCap (the particular corporation) both before and after the transactions of December 31, 2010, which resulted in the disposition of the shares of ProCap to ProRé, without having ceased control of ProRé during that time.
+(a) The MGIAs controlled ProRé both before and after the transactions of December 31, 2010, through their control of Groupe Promutuel (hereinafter the Federation), which controlled ProRé under section 31 of the Act respecting Promutuel réassurance (“ProRé Act”). As established by the evidence, control of ProRé belongs to the Federation since section 31 of the ProRé Act legislatively gives authority to the board of directors of the Federation to appoint the seven directors of ProRé. Under subsection 256(6.1) of the ITA concerning simultaneous control, the MGIAs controlled ProRé before and after the transactions of December 31, 2010;
+(b) The MGIAs also controlled ProCap before the transactions of December 31, 2010, since, at that time, they collectively held more than 50% of the voting shares of ProCap and they have sufficient links between them to constitute a group of persons in a position to exercise control over ProCap, as supported by the appellant’s evidence, including:
+i. the many commercial links between the MGIAs, specifically the links that their businesses and managers maintain;
+ii. the numerous annual general meetings and special general meetings held by the Federation and ProCap, in which the MGIAs participated, as well as the numerous consultative meetings and discussions that took place beforehand with a view to holding said meetings and in which the MGIAs participated;
+iii. the ProCap shareholder agreement dated April 2003, and the amendments made to section 15 of that agreement, which were unanimously approved in April 2006 and in April 2010, as well as several other important decisions, including the sale of ProCap’s assets to Desjardins in July 2010, decisions that were also unanimously approved;
+(c) The MGIAs also controlled ProCap following the transactions of December 31, 2010, through the control they exercised over the Federation, which controlled ProRé under section 31 of the ProRé Act. As a result, the appellant maintains that the MGIAs controlled the Federation, which controlled ProRé after the transactions of December 31, 2010, ProRé being the sole shareholder of ProCap at that time. It is therefore also pursuant to subsection 256(6.1) of the ITA that the MGIAs controlled ProCap after the transactions of December 31, 2010.
+[35] Alternatively, the appellant maintains that it was the Federation that controlled ProRé (the acquiring corporation) and ProCap (the particular corporation) both before and after the transactions of December 31, 2010, which resulted in the disposition of the shares of ProCap to ProRé, without having ceased control of ProRé during that time.
+(a) At all relevant times, the Federation controlled ProRé under section 31 of the ProRé Act, which conferred on the board of directors of the Federation the authority to appoint the seven directors of ProRé;
+(b) The Federation also controlled ProCap before the transactions of December 31, 2010, given the ProCap shareholder agreement of April 2003, amended on April 14, 2010, which stipulated that only the Federation had the right to appoint the directors of ProCap;
+(c) Lastly, the Federation controlled ProCap after the transactions of December 31, 2010, given that the Federation controlled ProRé under section 31 of the ProRé Act, which granted it the authority to appoint the members of ProRé’s board of directors, and given that ProRé itself controlled ProCap after the transactions, being its sole shareholder. Under subsection 256(6.1) of the ITA, the Federation therefore simultaneously controlled ProCap through its control of ProRé, which effectively controlled ProCap after the transactions of December 31, 2010.
+B. For the respondent
+[36] The “relief” rule set out in paragraph 256(7)(d) of the ITA does not apply because immediately before December 31, 2010 (at any time) and during the transactions carried out on December 31, 2010, the 27 MGIAs did not form a group that legally controlled both the appellant and ProCap because:
+(a) each MGIA is a separate entity with its own board of directors that administers its affairs and exercises all of the powers of the MGIA;
+(b) there was no voting agreement between the MGIAs;
+(c) there was no agreement to act in concert;
+(d) there were no commercial links between the MGIAs that could influence their right to vote;
+(e) there were no family connections between the MGIAs; and
+(f) sections 1.1 and 1.5 of the Act respecting insurance are interpretation provisions that are limited in application and that do not create any legal rights. These provisions therefore have no effect on the concept of “group of persons” for the purposes of the ITA.
+[37] At any time and during the transactions carried out on December 31, 2010, no person or group of persons legally controlled ProCap because:
+(a) no shareholder held more than 50% of the voting shares of ProCap;
+(b) there was no sufficient link between the 27 MGIAs, holders of the voting shares, to form a “group of persons” within the meaning of paragraph 256(7)(d) of the ITA for the reasons stated in the preceding paragraph;
+(c) the Federation could not legally control ProCap because of the laws governing ProCap. Nothing in the laws governing ProCap, i.e., the Act respecting trust companies and savings companies or Part I of the Companies Act, allows ProCap shareholders to enter into agreements to remove or restrict the powers normally vested in the directors of ProCap.
+[38] At any time and during the transactions carried out on December 31, 2010, no person or group of persons legally controlled the appellant because:
+(a) the 27 MGIAs were members of the appellant and they did not form a “group of persons” within the meaning of paragraph 256(7)(d) of the ITA for the reasons stated in paragraph 13 above;
+(b) the Federation was not a member of the appellant and, therefore, could not legally control the appellant. The authority conferred by the ProRé Act on the board of directors of the Federation to appoint the appellant’s board of directors is not part of the mandate of the Federation’s board of directors as it appears in the Act respecting insurance and the Federation’s internal management by‑laws. In other words, when members of the Federation’s board of directors exercise the power of appointment, they do not wear the hat of board member. The power of appointment is not a power attributed by the ProRé Act to the Federation; it is a power attributed to a specific group of persons exercising the power of appointment set out in the ProRé Act and not in accordance with the responsibility as director of the Federation.
+Analysis
+[39] The first condition that must be met for paragraph 256(7)(d) to apply is that the shares of ProCap must have been disposed of to ProRé in consideration for shares of ProRé.
+[40] As previously indicated, ProRé did not technically issue shares of its capital stock as consideration for shares of ProCap. Instead, it issued to the MGIAs certificates of additional interest in its capital in consideration for the Class A shares of ProCap.
+[41] Although ProRé has no shareholders or share capital, subsection 256(8.1) of the ITA states that, for the purposes of subsections 256(7) and 256(8) of the ITA, (i) a corporation without share capital (in this case, ProRé) is deemed to have a capital stock of a single class, (ii) its members (the MGIAs) are deemed to be shareholders of the corporation and (iii) interest in the corporation of each of these participants is deemed to be the number of shares of the corporation’s capital stock that the Minister considers reasonable in the circumstances, having regard to the total number of participants in the corporation and the nature of their participation.
+[42] Subsection 256(8.1) of the ITA reads as follows:
+Corporations without share capital
+(8.1) For the purposes of subsections 256(7) and 256(8),
+(a) a corporation incorporated without share capital is deemed to have a capital stock of a single class;
+(b) each member, policyholder and other participant in the corporation is deemed to be a shareholder of the corporation; and
+(c) the membership, policy or other interest in the corporation of each of those participants is deemed to be the number of shares of the corporation’s capital stock that the Minister considers reasonable in the circumstances, having regard to the total number of participants in the corporation and the nature of their participation.
+[43] As appears from paragraphs 34 and 35 of the partial agreement on the facts, it is acknowledged that, in consideration for the transfer by the MGIAs of their shares in ProCap to ProRé, they have seen their respective participation in ProRé’s capital increased by an amount equal to the market value of each of their Class A shares thus transferred.
+[44] Under subsection 256(8.1) of the ITA, ProRé is therefore deemed to have issued shares of its capital stock to the MGIAs in consideration for the transfer of the Class A shares that they held in ProCap.
+[45] In light of the foregoing, the MGIAs are deemed to have received shares of the capital stock of ProRé (the acquiring corporation) in consideration of the disposition of their Class A shares in ProCap (the particular corporation) to ProRé (the acquiring corporation) such that the first condition for the application of subsection 256(7) of the ITA is met in this case.
+[46] The second condition that must be met for the purposes of paragraph 256(7)(d) of the ITA is that immediately after the disposition by the MGIAs of the Class A shares in ProCap to ProRé, ProRé and ProCap must have been controlled by a person or group of persons that controlled ProCap immediately before that time.
+[47] As stated above, ProRé had neither capital stock nor shareholders. The 27 MGIAs were members of ProRé and each of them held a capital interest in ProRé. No MGIA controlled ProRé alone.
+[48] The Federation was not a member of ProRé and held no capital interest in ProRé. However, under section 31 of the ProRé Act, that corporation was administered by a board of directors made up of at least seven people appointed by the Federation’s board of directors.
+[49] According to the Federation’s 2009 annual report, the Federation’s board of directors consisted of 10 people who were either presidents or general managers of various MGIAs. According to the same annual report, ProRé’s board of directors consisted of six people, three of whom sat on the Federation’s board of directors and three people were either a president or general manager of an MGIA. On the basis of that information, it seems that there was a vacancy on ProRé’s board of directors at that time.
+[50] The Federation’s directors are elected from among the directors of the MGIAs that are members of the Federation, with few exceptions (section 93.147 of the Act respecting insurance).
+[51] Immediately after the MGIAs disposed of the Class A shares of ProCap to ProRé, ProCap became a wholly owned subsidiary of ProRé and was therefore directly controlled by ProRé and indirectly controlled by the person or group of persons that controlled ProRé at that time, that is, either the MGIAs alone or the Federation alone, or the MGIAs through the Federation.
+[52] The text of paragraph 256(7)(d) of the ITA refers only to the word “control,” but does not include the words “directly or indirectly in any manner whatever” as appears in subsection 256(5.1), which addresses “control in fact”. In this context, according to the case law, the word “control” refers to “de jure control”. The general test for de jure control was established by the Exchequer Court of Canada in Buckerfield’s Limited et al. v. M.N.R. [1965] 1 Ex. C.R. 299 (QL) (“Buckerfield’s”). This is the “right of control that rests in ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the Board of Directors” (paragraph 11).
+[53] The test set out in Buckerfield’s was confirmed by the Supreme Court of Canada in Duha Printers (Western) Limited v. Her Majesty The Queen, [1998] 1 S.C.R. 795 (“Duha”), which recognized that the test for de jure control is an attempt to ascertain who is in effective control of the affairs and fortunes of the corporation. The holding of voting shares of the capital stock of the corporation normally constitutes a basic condition to be met, but there may be exceptions.
+[54] This conclusion is evident in the summary of the principles of corporate and taxation law considered in Duha, which are restated below (paragraph 85):
+(1) Subsection 111(5) of the Income Tax Act contemplates de jure, not de facto, control.
+(2) The general test for de jure control is that enunciated in Buckerfield’s, supra: whether the majority shareholder enjoys “effective control” over the “affairs and fortunes” of the corporation, as manifested in “ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors.”
+(3) To determine whether such “effective control” exists, one must consider:
+(a) the corporation’s governing statute;
+(b) the share register of the corporation; and
+(c) any specific or unique limitation on either the majority shareholder’s power to control the election of the board or the board’s power to manage the business and affairs of the company, as manifested in either:
+(i) the constating documents of the corporation; or
+(ii) any unanimous shareholder agreement.
+(4) Documents other than the share register, the constating documents, and any unanimous shareholder agreement are not generally to be considered for this purpose.
+(5) If there exists any such limitation as contemplated by item 3(c), the majority shareholder may nonetheless possess de jure control, unless there remains no other way for that shareholder to exercise “effective control” over the affairs and fortunes of the corporation in a manner analogous or equivalent to the Buckerfield’s test.
+[55] To decide who has effective control of ProRé, the Court must take into account, among other things, the legislation governing the corporation, namely the ProRé Act, under which the existence of ProRé was continued as a corporation. The ProRé Act specifically states that ProRé’s board of directors is appointed by the Federation’s board of directors and that ProRé’s directors may adopt by‑laws for conducting business without the approval of its members.
+[56] Consequently, it seems clear to me that ProRé’s effective control was held by the Federation through its board of directors. The MGIAs had no means of exercising effective control over ProRé’s affairs and fortunes in a manner analogous or equivalent to the Buckerfield’s test.
+[57] Furthermore, it should be noted here that immediately after the disposition by the MGIAs of the Class A shares of ProCap to ProRé, the Federation controlled ProRé under section 31 of the ProRé Act, which granted it the authority to appoint the members of ProRé’s board of directors, and that ProRé itself controlled ProCap, being its sole shareholder. Under paragraph 256(6.1)(a) of the ITA, which deals with simultaneous control, the Federation therefore controlled ProRé and ProCap simultaneously through its control of ProRé. Paragraph 256(6.1)(a) reads as follows:
+Simultaneous control
+(6.1) For the purposes of this Act and for greater certainty,
+(a) where a corporation (in this paragraph referred to as the “subsidiary”) would be controlled by another corporation (in this paragraph referred to as the “parent”) if the parent were not controlled by any person or group of persons, the subsidiary is controlled by
+(i) the parent, and
+(ii) any person or group of persons by whom the parent is controlled;
+[58] To complete the analysis of the second condition for applying paragraph 256(7)(d), it is necessary to consider whether the Federation controlled ProCap immediately before the disposition by the MGIAs of the Class A shares of ProCap to ProRé.
+[59] As stated above, immediately before that time, the Federation no longer held ProCap shares, and the Class B and Class F shares of ProCap held by the MGIAs had been bought back by ProCap. The MGIAs then held the majority of the Class A shares in ProCap; the balance of the shares was then held by ProRé.
+[60] The agreement between the shareholders of ProCap, dated April 10, 2003, and amended on April 4, 2006, and April 14, 2010, was apparently still in place even though the Federation was no longer a ProCap shareholder. It should be noted that, under the amendment made to the agreement on April 14, 2010, ProCap’s board of directors was made up of 10 directors appointed by the Federation’s board of directors and that only the Federation’s directors were eligible to be ProCap directors.
+[61] It should be noted here that ProCap is a corporation that was incorporated by letters patent on June 23, 1988, under the Act respecting trust companies and savings companies (CQLR, chapter S‑29.01) and the Companies Act (CQLR, chapter C‑38).
+[62] The transfer of the property or the enterprise of ProCap was duly approved by its directors and by at least two thirds of shareholder votes at a special meeting called for that purpose. Said transfer was confirmed by An Act concerning the transfer of all of the property or the enterprise of Promutual Capital Trust Company Inc., passed on June 10, 2010, and assented to June 11, 2010.
+[63] The agreement between ProCap shareholders initially signed on April 10, 2003 by all ProCap shareholders and in which ProCap intervened and section 15 of that agreement was thus amended on April 4, 2006, and on April 14, 2010, is not a “constating document” that can be used to determine ProCap’s de jure control.
+[64] According to Duha, the status of “constating document” must come from the laws governing the corporate entity. However, nothing in the legislation governing ProCap, that is, part I of the Companies Act and the Act respecting trust companies and savings companies, in the versions applicable in 2010, allowed ProCap’s shareholders to enter into agreements to remove or restrict the powers normally vested in ProCap’s directors. Consequently, the agreement entered into by ProCap’s shareholders cannot constitute a unanimous shareholder agreement.
+[65] Even if one considered the agreement between ProCap’s shareholders in this case to be a unanimous shareholder agreement, the agreement did not in fact deprive ProCap’s shareholders of being able to exercise de jure control of ProCap.
+[66] As stated in paragraph 62 above, the transfer of the property or the enterprise of ProCap had to be approved by a vote of two thirds of the shareholders. Moreover, the fourth paragraph of section 2 of the agreement stipulates that no change in the control of ProCap can be validly carried out without the consent of three quarters (%) of the MGIAs, confirmed by a written resolution.
+[67] Nothing in the evidence showed that ProCap applied the acquisition of control rules set out in the ITA after the amendment to section 15 of the shareholder agreement was adopted on April 14, 2010, that is, the deemed taxation year end (see subsection 249(4) of the ITA).
+[68] In light of these observations, the Federation did not legally control ProCap immediately before the disposition by the MGIAs of the Class A shares of ProCap to ProRé. Consequently, the second condition for applying paragraph 256(7)(d) is not met at that stage.
+[69] As a result, it is necessary to consider whether the MGIAs, as a group, controlled ProRé through the Federation before and after the transaction of December 31, 2010, and whether the MGIAs, as a group, controlled ProCap, immediately before said transaction.
+[70] The two leading cases in the context of a group of persons who controls a corporation are Vina-Rug (Canada) Limited v. Minister of National Revenue, [1968] S.C.R. 193 (“Vina‑Rug”), a decision of the Supreme Court of Canada, and Silicon Graphics Ltd. v. Canada, 2002 FCA 260 (CanLII) (“Silicon Graphics”) a decision of the Federal Court of Appeal.
+[71] In Vina‑Rug, the test used by the Supreme Court of Canada to determine whether two corporations were controlled by the same group of persons was based on the question of whether the group of persons was in a position to control the majority of the voting rights for the purpose of electing directors at the general meeting of shareholders. It is important to note that the Supreme Court of Canada did not require that the group of persons actually exercise this control or that the persons comprising the group be required to vote in a certain way when voting to elect directors.
+[72] In Silicon Graphics, the Court made the following comments regarding the de jure control exercised or having the potential to be exercised by a group of shareholders in paragraphs 36 and 58 of its reasons:
+36. Based on these cases, I agree with the appellant’s submission that simple ownership of a mathematical majority of shares by a random aggregation of shareholders in a widely held corporation with some common identifying feature (e.g. place of residence) but without a common connection does not constitute de jure control as that term has been defined in the case law. I also agree with the appellant’s submission that in order for more than one person to be in a position to exercise control it is necessary that there be a sufficient common connection between the individual shareholders. The common connection might include, inter alia, a voting agreement, an agreement to act in concert, or business or family relationships.
+58. From the foregoing analysis, I am persuaded that the concept of de jure control as developed by Buckerfield’s, Yardley Plastics, Vina-Rug, and Duha Printers applies fully to the definition of CCPC in subsection 125(7). In particular, de jure control includes a requirement that a sufficient common link or interest exist amongst the shareholders that compose the “group of persons”, or there must be evidence that those shareholders act together to exert control over the corporation.
+[73] Applying these case law principles to the case at bar results in consideration of whether there was a sufficient common link between the MGIAs to constitute a group that was in a position to control ProCap and ProRé.
+[74] It is clear from the evidence that each MGIA is administered by its own board of directors, made up of directors elected by the MGIA members, and that it is the MGIA’s board of directors that administers the affairs and exercises all of the powers of the MGIA.
+[75] The evidence also demonstrated that each MGIA is a separate legal entity that is not directly or indirectly connected to any other MGIA, which is not subject to any voting agreement or any other agreement to that effect, and which exercises its right to vote in an autonomous and independent manner.
+[76] Each MGIA has its own geographical region in which it can carry on its insurance business.
+[77] An MGIA can merge with another MGIA or withdraw from the group.
+[78] However, the evidence also showed that the legislation governing the MGIAs, the Federation and the Guarantee Fund treats MGIAs as an interdependent group sharing common links. The legislature’s intention is to treat these entities in a solidary manner and this intention is confirmed by the common links that these entities maintain, particularly with respect to their reciprocal obligations and the operation of their joint insurance business as a mutual group.
+[79] The MGIAs essentially operate the same business, use the same business model, and operate under the same banner, using the same logos and the same distinctive colours on the market.
+[80] Decisions related to development and economic growth are made in the collective interest of the MGIAs.
+[81] The MGIAs, through their Federation, share, among other things:
+– the same computer technology and the same digital platform to collect their financial results, which they share with each other on a monthly basis;
+– a single actuarial service used to establish pricing bases;
+– the same strategic vision;
+– the same advertising budget;
+– the same insurance forms;
+– the same audit services; and
+– the same reinsurer, ProRé, with which they are required to work.
+[82] In light of the foregoing, it seems clear to me that the MGIAs have sufficient links to form a group not only because they have a common objective or goal, but also because they have common interests and often act in concert. In the circumstances, I do not think it appropriate to look only at the commercial links that have an impact on the exercise of the right to vote of each of the MGIAs.
+[83] The sale of ProCap’s assets to Desjardins is an excellent example of important decisions on which the MGIAs had to agree in the group’s collective best interest. At the end of the consultative process used by the MGIAs to allow them to make an informed decision about the future of their products and services distribution business, the MGIAs unanimously decided that it was in the best interest of the group to withdraw from that line of business and part ways with ProCap. The sale of the majority of ProCap’s assets to Desjardins was approved in March 2010 and was concluded on July 1, 2010.
+[84] The Federation has its own board of directors elected by the MGIAs at its annual general meeting. Under section 93.148 of the Act respecting insurance, the MGIAs have the authority to decide the number of directors (a minimum of seven) and the director election process. This process for electing the Federation’s directors is detailed in sections 24 to 29 of the Federation’s internal management by‑laws, i.e., Internal Management By‑law No. 30 for 2010, which is consistent with the by‑law in place in the previous years.
+[85] The MGIAs agreed on a process for allocating seats on the Federation’s board of directors to ensure the best possible representation of the MGIAs on said board.
+[86] The number of directors of the Federation is set at 10 under the Federation’s Internal Management By‑law No. 30. Only directors or general managers of the MGIAs are eligible for the position of director of the Federation, although the number of general managers who can sit on the Federation’s board of directors cannot exceed one third of the members on the board.
+[87] Under section 25 of By‑law No. 30, the MGIAs chose to be grouped together into three zones and to grant each of these zones at least two seats on the Federation’s board of directors, that is, one seat for an MGIA director and the other seat for an MGIA general manager. Each of the candidates for these six seats must be supported by at least five directors or general managers from at least two MGIAs that are part of that zone.
+[88] The other four seats on the Federation’s board of directors (seats 7 to 10 inclusively) must be filled by directors of MGIAs from the three zones. Applications for those positions must be supported, in writing, by at least five directors or general managers of MGIAs belonging to three different zones; the candidate therefore has to obtain at least one letter of support per zone. Elections for these positions take place at the annual general meeting.
+[89] This election process for the board of directors clearly shows that the MGIAs are in a position to exercise control over the election of the Federation’s board of directors and de jure control over the Federation.
+[90] The MGIAs controlled the Federation given that they had sufficient links between them allowing them to be in a position to exercise control over the Federation, as described in detail above.
+[91] The Federation controlled ProRé given that it legislatively had the authority to appoint the seven directors of ProRé under section 31 of the ProRé Act and that these directors had the right to administer its affairs.
+[92] The MGIAs, as a group of persons, controlled the Federation and the Federation controlled ProRé; the MGIAs must be considered to have also controlled ProRé under the principle of simultaneous holding set out in subsection 256(6.1) of the ITA immediately after and immediately before the MGIAs disposed of the Class A shares of ProCap to ProRé.
+[93] As for ProCap, the evidence demonstrated that the MGIAs, as a group, also controlled ProCap immediately before the disposition by the MGIAs of the Class A shares of ProCap to ProRé. The ProCap shareholder agreement and the amendments thereto clearly show that the MGIAs had the authority to control the corporation through its ability to appoint the majority of the members of the corporation’s board of directors.
+[94] In the initial version of ProCap’s shareholder agreement dated April 10, 2003, section 15 stated that the board of directors was composed of seven members, five of whom were appointed by the Federation from among the members of its board of directors and two of whom were elected by the MGIAs. This provision was amended on April 4, 2006, in order to allow the MGIAs to regain control of the majority of the members of the board of directors. The board of directors was still made up of seven members, but only three were appointed by the Federation and four were elected by the MGIAs. On April 14, 2010, the MGIAs again amended section 15 of the shareholder agreement to increase the number of directors to 10, all of whom had to be appointed by the Federation’s board of directors from among its own directors.
+[95] Control over the election of members of ProCap’s board of directors was delegated to the Federation after the MGIAs approved the sale of the majority of ProCap’s assets to Desjardins in order to facilitate the completion of the sale.
+[96] Immediately after the MGIAs disposed of the Class A shares of ProCap to ProRé, ProCap was a wholly owned subsidiary of ProRé. As the MGIAs, as a group of persons, controlled ProRé, as explained in paragraph 92 above, and ProRé then controlled ProCap, the MGIAs also controlled ProCap under the principle of simultaneous holding set out in subsection 256(6.1) of the ITA.
+[97] As the MGIAs controlled ProRé and ProCap immediately after and immediately before the MGIAs disposed of the Class A shares of ProCap to ProRé, the second requirement for the application of paragraph 256(7)(d) of the ITA is met.
+[98] The third requirement for the application of paragraph 256(7)(d) of the ITA is that the person or group of persons that controlled ProCap immediately before the disposition of the Class A shares of ProCap did not, as part of the series of transactions or events that includes the disposition, cease to control ProRé.
+[99] This condition is met in this case because the other transactions or events included in the series of transactions that includes the MGIAs’ disposition of the Class A shares of ProCap to ProRé had no impact on the control of ProRé.
+[100] Since all the conditions for the application of paragraph 256(7)(d) of the ITA are met, the appeal is allowed with costs to the appellant.
+Signed at Montreal, Quebec, this 23rd day of January 2020.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 23rd day of June 2021.
+Janine Anderson, Revisor
+APPENDIX A
+APPENDIX B
+CITATION:
+2020 TCC 13
+COURT FILE NO.:
+2016-3908(IT)G
+STYLE OF CAUSE:
+PROMUTUEL RÉASSURANCE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+May 7 and 8 and June 5, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+January 23, 2020
+APPEARANCES:
+Counsel for the appellant:
+Roger Taylor and Marie‑Claude Marcil
+Counsel for the respondent:
+Michel Lamarre
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Roger Taylor
+Marie‑Claude Marcil
+Firm:
+EY Law LLP
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

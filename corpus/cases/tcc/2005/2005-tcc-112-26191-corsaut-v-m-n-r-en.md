@@ -1,0 +1,183 @@
+---
+title: "Corsaut v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26191/index.do"
+last_modified: "2005-02-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 112"
+citation2: ""
+neutral_citation: "2005 TCC 112"
+decision_date: "2005-02-10"
+language: "en"
+item_id: "26191"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3922
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:02:58.326000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "376a1d7e2bc6875292c338c279beab4a94939c8955ff47f6e63d4ee5a0b25821"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Corsaut v. M.N.R.
+
+- Citation: 2005 TCC 112
+- Decision date: 2005-02-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3922, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Corsaut v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-02-10
+Neutral citation
+2005 TCC 112
+File numbers
+2004-2835(EI)
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Dockets: 2004-2835(EI)
+2004-2836(CPP)
+BETWEEN:
+RONALD CORSAUT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+RALPH & JUNE MOUNT O/A TIM'S USED TIRES,
+Intervener.
+____________________________________________________________________
+Appeals heard on January 26, 2005 at London, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Steven D. Leckie
+Agent for the Intervener:
+Ralph Mount
+____________________________________________________________________
+JUDGMENT
+The appeals are allowed and the decisions that Mr. Corsaut was not engaged in insurable and pensionable employment during the period from April 28, 2001 to April 28, 2003, are vacated.
+Signed at Ottawa, Canada this 10th day of February 2005.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Citation: 2005TCC112
+Date: 20050210
+Dockets: 2004-2835(EI)
+2004-2836(CPP)
+BETWEEN:
+RONALD CORSAUT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+RALPH & JUNE MOUNT O/A TIM'S USED TIRES,
+Intervener.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] These appeals are from decisions of the Minister of National Revenue under the Employment Insurance Act and the Canada Pension Plan that the appellant was not employed in insurable or pensionable employment during the period of April 28, 2001 to April 28, 2003.
+[2] The appellant contends that he worked during that period for Ralph and June Mount who carried on business as Tim's Used Tires ("Tim's").
+[3] His testimony was that he worked from 8 a.m. to 6 p.m., Monday, Wednesday and Friday and was paid $14 per hour. He said he also worked for Tim's on Saturdays and used his own or Tim's pickup truck to pick up tires.
+[4] He said that he lived with his girlfriend and her daughter at that time and that he took the girlfriend to work and the daughter to school each day. At that time he lived only a few blocks from Tim's at 443 Spruce Street in London. He said that he was hired by Mr. Mount after "Gus" (an employee) had retired. He said he was asked by Mr. Mount to work for him when he was in the shop buying tires.
+[5] He testified that during the two years in question his income from Tim's (which was always paid on Friday in cash) was his only source of livelihood. He said he was injured at work in April 2003 and had to leave his employment. He applied for compensation from the Workplace Safety & Insurance Board ("WSIB"). He stated further that he never received any T-4 slips or any record that Tim's had withheld tax or EI or CPP premiums.
+[6] A letter from the WSIB, dated June 6, 2003 to the appellant is illustrative of the sort of problem that the WSIB had with this claim. Only the first page of the letter was provided. Mr. Corsaut was unable to say what the second page said and so the evidentiary value of the letter is somewhat suspect. We do know that the claim was denied. For what it is worth the first page reads as follows:
+Dear Mr. Corsaut:
+On May 6, 2003 you contacted the Workplace Safety & Insurance Board to report a workplace injury to your back. A claim was subsequently registered for you and assigned to me for adjudication. As per our recent telephone conversation, this letter serves to explain my rationale for not being able to allow your claim for benefits.
+As you are aware the initial task for me was to determine whether you were considered a "worker" under the Workplace Safety & Insurance Act. On May 9, 2003 you informed me that you had worked for Tim's Tire for four and a half years, where seven or eight other employees worked. You indicated you worked a 44 hour work week and earned $15.00 per hour. You said you averaged taking home $450.00 per week. You further advised that you were usually paid in cash and the odd personal cheque, and therefore did not have any pay stubs. Furthermore you did not claim this income with Revenue Canada and therefore could not provide a Statement of Income and Deductions to assist in proving your employment status. It should be noted that regardless of the earnings information you told me on May 9, 2003, you reported on your Worker's Report of Injury that you worked three days a week, earned $10.93 per hour, and averaged your weekly pay as $350.00.
+Following our above noted discussion I called and spoke with Ralph Mount, the owner of Tim's Tire. When I advised him of the content of our conversation, Mr. Mount claimed none of this was true. Faced with the challenge of differing statements, I arranged to have a Senior Investigator from our Special Investigation Branch attend Tim's Tire to speak once again with Mr. Mount. During that visit the Investigator noted a very small business that would not require 7 or 8 employees as you had advised me were employed there. Mr. Mount did advise the Investigator that he did pay you monies on occasion for helping them change tires. When asked how much money you would be paid on average per week, Mr. Mount said he paid you approximately eight or nine dollars an hour, and you helped them out on the average of 15 hours per week.
+Given Mr. Mount's acknowledgement that he paid you money for performing work, I rendered the decision that you were in fact a worker under the Workplace Safety & Insurance Act. Having concluded this essential step, I then turned my attention to adjudicating the claim per policy guidelines.
+[7] In Exhibit R-1 he stated that his gross normal weekly earnings were $620 for a 44 hour week. If he worked a 44 hour week at $14 per hour it would have come to $616. His testimony however was that he took home somewhere between $300 and $350.
+[8] In his supplement to the application for benefits (Exhibit R-2), he stated that he normally worked Monday, Tuesday, Wednesday and Friday at an hourly rate of pay of $15.00. This is inconsistent with his oral testimony.
+[9] Mr. Mount, who represented the intervener, (Tim's) testified that the appellant never worked for Tim's. Exhibit R-5 is a letter from Mr. Mount to a Mr. Rioux, Insurance Agent, at the London HRCC. (I am not sure what this stands for). He stated:
+Dear S.M. Rioux:
+Thank-you for your letter of February 05,2004 requesting a "Record of Employment" for Mr.Corsault.
+We have never employed Mr. Corsault at any time. Though our kindness, Ron has blown this situation out of proportion as some kind of revenge tactic. Ron had a disagreement with my son over borrowing a tire changer we needed at the time. Also we think he caught wind that we would be hiring someone in the near future to help my son as I am having back problems. He may have wanted the job but we hired a family friend. This may have upset him as he hung around our shop on a daily basis drinking coffee and socializing with my other friends that would stop in. He would use our equipment when we where not busy for friends cars as well as the many he would curbside in the papers. He would change the odd tire here and there for me as a favor for using our machines. I would sometimes give him eight or nine dollars to go and buy himself lunch for helping out. This was out of my pocket, not from the business in any way.
+There was never a worker / employer relationship with Ron. He was just a nice guy who hung around the shop at least ten to fifteen hours a week here and there. He already tried to get Worker's Compensation and lied repeatedly to the adjudicator. This was identified in his appeal being denied by an Appeals Tribunal. Some of my other friends want to use the machines when we are not busy, but I now tell them I can't as the liability is to great, Not that Ron ruined it for everyone!
+Please find attached a letter from my accountant showing my son as an employee and his income tax return. He was the only employee until I hired our family friend Joe. Once again, Mr. Corsault was never, ever an employee of Tim's Tire resulting in no record of employment being sent on Mr.Corsault's behalf.
+[10] I have pointed out a number of inconsistencies in Mr. Corsaut's evidence. There are also inconsistencies in Mr. Mount's evidence. He stated that Mr. Corsaut never was an employee of Tim's. Yet in the letter from the WSIB it appears that he stated that he paid Mr. Corsaut approximately $8 or $9 an hour and that Mr. Corsaut helped them (Tim's) out on the average of 15 hours per week. This is inconsistent with his stating that Mr. Corsaut never worked for him at all.
+[11] Also, a memo to the file from Mr. J. Lockwood, an adjudicator with WSIB reads as follows in Exhibit A-1. I am reproducing it with all of its spelling and grammatical errors:
+DESCRIPTION: MEMO # 2 - CALL FROM EMPLOYER
+CLAIMS WORKER NOT HIS WORKER
+I RECEIVED A CALL FROM RALPH MOUNT THIS DATE, THE EMPLOYER OF THIS INJURED WORKER. HE INFORMED ME "I GOT A LETTER FROM YOU YESTERDAY AND NEED TO TALK TO YOU ABOUT IT. IT'S ABOUT SOMEONE I DON'T KNOW.
+I RETURNED THE CALL AND EXPLAINED THAT THIS WORKER CALLED OUR OFFICE TO REPORT AN INJURY TO HIS BACK ON 23APR2003. WHEN ASKED IF THIS MAN WAS HIS EMPLOYER SAID NO. HE SAID "THIS GUY" COMES IN SOMETIME TO HELP OUT AND I FEEL BAD THAT HE IS HELPING SO A GIVE HIM SOME MONEY SOMETIMES.
+I INFORMED RALPH THAT IF THIS PERSON COMES INTO THE SHOP AND PERFORMS WORK FOR WHICH HE IS PAID, HE IS A WORKER UNDER THE ACT AND ENTITLED TO BENEFITS
+I TOLD RALPH I WOULD BE CONTACTING THE WORKER TO DISCUSS THE CLAIM AND EMPLOYMENT RELATIONSHIP FURTHER.
+J. LOCKWOOD, A DJUDICATOR
+09 MAY 2003
+[12] For Mr. Mount to say that he did not know Mr. Corsaut and at the same time admit that he came in to help out and in another communication to say that he worked about 15 hours per week makes it somewhat difficult to know what to believe.
+[13] The difficulty in deciding the credibility issue is exacerbated by reason of the fact that no one was called by the appellant, the Crown or the intervener, to corroborate the diametrically opposed stories of Mr. Corsaut or Mr. Mount, although a witness did appear and stated that when he visited Tim's as a customer (about once a month) he never heard Mr. Mount use profanity or obscenity. He did not see Mr. Corsaut. That witness' testimony might be truthful as far as it goes, but it goes nowhere. It is of doubtful relevance or evidentiary value. Moreover, Mr. Corsaut did not cross-examine Mr. Mount. I do not think that the rule in Browne v. Dunn (1893) 6 R 67, HL, at 70-71, should be as rigorously applied in the case of an unrepresented litigant such as Mr. Corsaut as it would be if there were counsel representing a party. Nonetheless, the result is that Mr. Mount's testimony remained untested by cross-examination. Moreover, I considered it inappropriate for me to cross-examine Mr. Mount. While I believe that where a litigant is unrepresented, it is permissible for the trial judge to intervene more than he or she might where counsel are involved, there are limits. A judge cannot and should not simply take over the case. It can in some cases create an impression of bias. See James v. The Queen, 2001 DTC 5075, where the Federal Court of Appeal allowed an appeal and ordered a new trial when the trial judge intervened so excessively that he appeared to have taken on the role of counsel. See also Jones v. National Coal Board [1957] 2 All E.R. 155; [1957] 2 Q.B. 55. In Thomson v. Glasgow Corporation, Reports-1961, Scots Law Times, 237, (The Lord Justice-Clerk (Thomson), Lords Patrick, Mackintosh and Strachan) said at pages 245-6:
+[. . .] It is an essential feature of the judge's function to see that the litigation is carried on fairly between the parties. Judges sometimes flatter themselves by thinking that their function is the ascertainment of truth. This is so only in a very limited sense. Our system of administering justice in civil affairs proceeds on the footing that each side, working at arms length, selects its own evidence. Each side's selection of its own evidence may, for various reasons, be partial in every sense of the term. Much may depend on the diligence of the original investigators, or on the luck of finding witnesses or on the skill and judgment of those preparing the case. At the proof itself whom to call, what to ask, when to stop and so forth are matters of judgment. A witness of great value on one point may have to be left out because he is dangerous on another. Even during the progress of the proof values change, treasured material is scrapped and fresh avenues feverishly explored. It is on the basis of two carefully selected versions that the judge is finally called upon to adjudicate. He cannot make investigations on his own behalf; he cannot call witnesses; his undoubted right to question witnesses who are put in the box has to be exercised with caution. He is at the mercy of contending sides whose whole object is not to discover truth but to get his judgment. That judgment must be based only on what he is allowed to hear. He may suspect that witnesses who know the "truth" have never left the witness room for the witness box because neither side dares risk them but the most that he can do is to comment on their absence.
+A litigation is in essence a trial of skill between opposing parties conducted under recognised rules, and the prize is the judge's decision. We have rejected inquisitorial methods and prefer to regard our judges as entirely independent. Like referees at boxing contests they see that the rules are kept and count the points.
+[14] With respect, this somewhat jaundiced view of the court's role does not accurately reflect our obligations as judges. Our courts do have an interest in determining the truth because the determination of truth is an essential aspect of our commitment to ensure that justice be done. That determination must however be made within the rules and one of the rules is that we not descend into the arena. We are certainly more than referees at a boxing match. The justification for the adversarial system in our courts (as opposed to the inquisitorial system) is that it is assumed that the truth will emerge from the confrontation of opposing positions. The games theory expressed by the Scottish court implies that the paramount consideration is how you play the game and justice and the interests of the litigants are relegated to a subordinate position. Lord Denning's eloquent exposition in the Jones case of the role of a trial judge is worth repeating ([1957] 2 Q.B. at 63).
+No one can doubt that the judge, in intervening as he did, was actuated by the best motives. He was anxious to understand the details of this complicated case, and asked questions to get them clear in his mind. He was anxious that the witnesses should not be harassed unduly in cross-examination, and intervened to protect them when he thought necessary. He was anxious to investigate all the various criticisms that had been made against the board, and to see whether they were well founded or not. Hence, he took them up himself with the witnesses from time to time. He was anxious that the case should not be dragged on too long, and intimated clearly when he thought that a point had been sufficiently explored. All those are worthy motives on which judges daily intervene in the conduct of cases, and have done for centuries.
+Nevertheless, we are quite clear that the interventions, taken together, were far more than they should have been. In the system of trial which we have evolved in this country, the judge sits to hear and determine the issues raised by the parties, not to conduct an investigation or examination on behalf of society at large, as happens, we believe, in some foreign countries. Even in England, however, a judge is not a mere umpire to answer the question "How's that?" His object, above all, is to find out the truth, and to do justice according to law; and in the daily pursuit of it the advocate plays an honourable and necessary role. Was it not Lord Eldon L.C. who said in a notable passage that "truth is best discovered by powerful "statements on both sides of the question"?: see Ex parte Lloyd. And Lord Greene M.R. who explained that justice is best done by a judge who holds the balance between the contending parties without himself taking part in their disputations? If a judge, said Lord Greene, should himself conduct the examination of witnesses, "he, so to speak, descends into the arena and "is liable to have his vision clouded by the dust of conflict": see Yuill v. Yuill.
+Yes, he must keep his vision unclouded. It is all very well to paint justice blind, but she does better without a bandage round her eyes. She should be blind indeed to favour or prejudice, but clear to see which way lies the truth: and the less dust there is about the better. Let the advocates one after the other put the weights into the scales - the "nicely calculated less or more" - but the judge at the end decides which way the balance tilts, be it ever so slightly. So firmly is all this established in our law that the judge is not allowed in a civil dispute to call a witness whom he thinks might throw some light on the facts. He must rest content with the witnesses called by the parties: see In re Enoch & Zaretsky, Bock & Co. So also it is for the advocates, each in his turn, to examine the witnesses, and not for the judge to take it on himself lest by so doing he appear to favour one side or the other: see Rex v. Cain, Rex v. Bateman, and Harris v. Harris, by Birkett L.J. especially. And it is for the advocate to state his case as fairly and strongly as he can, without undue interruption, lest the sequence of his argument be lost: see Reg. v. Clewer. The judge's part in all this is to hearken to the evidence, only himself asking questions of witnesses when it is necessary to clear up any point that has been overlooked or left obscure; to see that the advocates behave themselves seemly and keep to the rules laid down by law; to exclude irrelevancies and discourage repetition; to make sure by wise intervention that he follows the points that the advocates are making and can assess their worth; and at the end to make up his mind where the truth lies. If he goes beyond this, he drops the mantle of a judge and assumes the robe of an advocate; and the change does not become him well. Lord Chancellor Bacon spoke right when he said that: "Patience and gravity of hearing is an essential part of justice; and an over-speaking judge is not well-tuned cymbal."
+Such are our standards. They are set so high that we cannot hope to attain them all the time. In the very pursuit of justice, out keenness may outrun our sureness, and we may trip and fall. That is what has happened here. A judge of acute perception, acknowledged learning, and actuated by the best of motives, has nevertheless himself intervened so much in the conduct of the case that one of the parties - nay, each of them - has come away complaining that he was not able properly to put his case; and these complaints are, we think, justified.
+[15] At the end of the trial it appeared to me that the two witnesses were, credibility-wise, in a dead heat. Therefore, I reserved judgment, based on my decision in 1084767 Ontario Inc. (c.o.b. Celluland) v. Canada, [2002] T.C.J. No. 227:
+8. The evidence of the two witnesses is diametrically opposed. I reserved judgment because I do not think findings of credibility should be made lightly or, generally speaking, given in oral judgments from the bench. The power and obligation that a trial judge has to assess credibility is one of the heaviest responsibilities that a judge has. It is a responsibility that should be exercised with care and reflection because an adverse finding of credibility implies that someone is lying under oath. It is a power that should not be misused as an excuse for expeditiously getting rid of a case. The responsibility that rests on a trial judge to exercise extreme care in making findings of credibility is particularly onerous when one considers that a finding of credibility is virtually unappealable.
+See also Chomica v. The Queen, 2003 DTC 535.
+[16] On reflection, despite the inconsistencies in the appellant's evidence, I think on balance that his evidence is more reliable and indeed is more consistent with parts of Mr. Mount's evidence that he gave to the WSIB. To find Mr. Corsaut's evidence wholly false would be to ignore large parts of the evidence and moreover, would be to find that his assertion that he worked for Tim's was part of a monumental fraud. I am not prepared to do so.
+[17] Quite apart from my observation of both witnesses there are other factors that tended to favour my acceptance of the appellant's version. The appellant in his notice of appeal made some rather intemperate and serious allegations about Mr. Mount's character, behaviour and vocabulary. Normally the making of such statements, albeit irrelevant, would make me somewhat apprehensive about the appellant's testimony. However, Mr. Mount in his testimony did not deny the assertion.
+[18] A second consideration that I think is of significance is that Mr. Corsaut testified that every day his girlfriend's daughter, after she got back from school, would call him at Tim's. She was in court throughout the case and could have been called. Mr. Corsaut did not call her. Also, Mr. Mount's son was in court throughout the trial and he was not called. I regard the failure to call Mr. Mount's son as more serious than the failure to call the girlfriend's daughter. The son is an adult and he could have corroborated his father's story because he worked at Tim's. The daughter of the girlfriend could only have stated that she telephoned the appellant at Tim's. Moreover, the daughter at the time of trial was only 13 years old and I informed Mr. Corsaut that if he called her I would have to be satisfied on the matters mentioned in section 16 of the Canada Evidence Act. This may have made the appellant a little hesitant to call her.
+[19] The appeals are allowed and the decisions that Mr. Corsaut was not engaged in pensionable and insurable employment in the period in question are vacated.
+Signed at Ottawa, Canada this 10th day of February 2005.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+CITATION:
+2005TCC112
+COURT FILES NOS.:
+2004-2835(EI) & 2004-2836(CPP)
+STYLE OF CAUSE:
+Ronald Corsaut and
+The Minister of National Revenue and
+Ralph & June Mount o/a Tim's Used Tires
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+January 26, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Associate Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+February 10, 2005
+APPEARANCES:
+For the Appellant:
+The appellant himself
+Counsel for the Respondent:
+Steven D. Leckie
+Agent for the Intervener:
+Ralph Mount
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

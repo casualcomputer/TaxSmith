@@ -1,0 +1,147 @@
+---
+title: "Auclair c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26264/index.do"
+last_modified: "2003-03-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 29"
+citation2: ""
+neutral_citation: "2003 CCI 29"
+decision_date: "2003-03-31"
+language: "fr"
+item_id: "26264"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3995
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:22:13.877000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7f6e64ebe28ceb831e01ef56ea2dcc9172a57008888fec6d1e8adae9e36b4fd6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Auclair c. M.R.N.
+
+- Citation: 2003 CCI 29
+- Decision date: 2003-03-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3995, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Auclair c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-31
+Référence neutre
+2003 CCI 29
+Numéro de dossier
+2000-2310(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2000-2310(EI)
+ENTRE :
+PAUL AUCLAIR,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu le 29 janvier 2003 à Trois-Rivières (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimé :
+Me Simon-Nicolas Crépin
+_______________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision du Ministre est modifiée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 31e jour de mars 2003.
+« Alain Tardif »
+J.C.C.I.
+Référence : 2003CCI29
+Date : 20030331
+Dossier : 2000-2310(EI)
+ENTRE :
+PAUL AUCLAIR,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Alain Tardif, C.C.I.
+[1] L'appelant était employé d'une compagnie qui avait mis sur pied un système de « Cumul d'heures » ou « Banque d'heures » . L'objectif était de réunir des heures travaillées s'échelonnant sur une certaine période et effectuées de façon sporadique en semaines assurables, comme si les heures en question avaient été effectuées de façon consécutive lors d'une même semaine.
+[2] L'appelant a affirmé n'avoir jamais participé à un système de « Cumul d'heures » pour le motif que lui et son supérieur immédiat entretenaient des relations très tendues générant un climat de méfiance mutuel.
+[3] Il a aussi expliqué qu'il travaillait seul dans un garage isolé et éloigné des endroits où se déroulaient les activités des compagnies impliquées dans le « Cumul d'heures »
+[4] Au moment de l'enquête, l'appelant a produit une attestation de l'un de ses supérieurs. L'attestation en question mentionnait ce qui suit : (voir Pièce A-1)
+Le 24 mars 1998
+Revenu Canada
+Trois-Rivières
+Monsieur, Madame,
+La présente est pour confirmer que Paul Auclair a récupéré occasionnellement des pièces chez nos fournisseurs de Trois-Rivières, sans rémunération, lorsqu'il devait se rendre à Shawinigan pour prendre son chèque de paye ou faire rapport sur les réparations faites au garage de Trois-Rivières.
+Le garage de Trois-Rivières est situé au 8850 boul. Parent, ce lieu est l'affectation de M. Auclair pour la saison hivernale.
+Normand Cossette
+Magasinier
+Les Constructions et Pavages Continental
+[5] Le contenu de cette lettre fut porté à l'attention de madame Lucie Vaugeois, responsable du dossier de l'appelant; elle n'y a accordé aucune valeur probante au moment où ce dernier la lui a remise. Elle a même conclu que l'appelant n'était pas crédible, rejetant ainsi, du revers de la main, toutes les explications sans même vérifier auprès du signataire.
+[6] La méga-enquête a établi, selon l'une des responsable à savoir madame Vaugeois que la très grande majorité, voire même la totalité des employés de la compagnie pour laquelle travaillait l'appelant, étaient impliqués dans le « Cumul d'heures » .
+[7] Ayant manifestement pris pour acquis que tous les employés, sans exception, avaient été associés à la pratique du « Cumul d'heures » , toute indication ou information à l'effet contraire était rejetée comme non crédible voire même mensongère.
+[8] Même si une enquête peut permettre de tirer des conclusions déterminantes, je ne crois pas qu'il soit approprié d'écarter pour autant sans raison tout élément susceptible de justifier une conclusion différente.
+[9] En d'autres termes, même si une enquête sérieuse et approfondie démontre que la très grande majorité des employés peuvent avoir participé à une manoeuvre illégale, je ne crois pas que cela soit suffisant pour conclure automatiquement qu'il n'y a aucune exception et que, si certains soutiennent le contraire, ils mentent automatiquement.
+[10] En l'espèce, il m'est apparu évident que le dossier de l'appelant avait été abordé en prenant pour acquis qu'il ne faisait aucun doute qu'il était tout aussi impliqué que les autres travailleurs dans les dossiers de « Cumul d'heures » .
+[11] En l'espèce, les éléments sur lesquels s'est appuyée madame Vaugeois étaient peu nombreux; ils pouvaient possiblement créer une présomption qu'il s'agissait d'un dossier comme tous les autres. Était-ce en soi suffisant et adéquat pour en tirer des conclusions absolues d'autant plus que l'appelant a tenté de faire la preuve, dès le début de l'enquête, qu'il n'était aucunement complice du système. Je ne le crois pas.
+[12] Je crois plutôt que l'appelant a été victime de conclusions hâtives non suffisamment justifiées. Il eût fallu faire des vérifications additionnelles et fouiller le dossier d'une manière plus approfondie et, tout spécifiquement, au niveau des prétentions soumises au moment où l'enquête fut effectuée.
+[13] Je dois décider sur la base d'une prépondérance de la preuve, dont le fardeau incombait à l'appelant; ce dernier a soumis des explications vraisemblables. Si le fardeau de preuve en avait été un, hors de tout doute, je devrais rejeter son appel.
+[14] Comme il s'agit d'un fardeau de preuve moins exigeant et que l'appelant a soumis des explications vraisemblables et comme la détermination a été plus intuitive que rationnelle, je conclus que la prépondérance de la preuve favorise la position soumise par l'appelant; je fais donc droit à son appel.
+Signé à Ottawa, Canada, ce 31e jour de mars 2003.
+« Alain Tardif »
+J.C.C.I
+RÉFÉRENCE :
+2003CCI29
+No DU DOSSIER DE LA COUR :
+2000-2310(EI)
+INTITULÉ DE LA CAUSE :
+Paul Auclair
+et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATE DE L'AUDIENCE
+le 29 janvier 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 31 mars 2003
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimé :
+Me Simon-Nicolas Crépin
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,179 @@
+Title: Tremblay v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28081/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-541-28081-tremblay-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-08-12
+
+# Tremblay v. M.N.R.
+
+- Citation: 2003 TCC 541
+- Decision date: 2003-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1666, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-12
+Neutral citation
+2003 TCC 541
+File numbers
+2001-4356(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2001-4356(EI)
+BETWEEN:
+ALAIN TREMBLAY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 16, 2003, at Jonquière, Quebec
+Before:
+Honourable Deputy Judge J. F. Somers
+Appearances:
+Counsel for the Appellant:
+Marie-Josée Lafontaine
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is upheld in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12thth day of August 2003.
+"J. F. Somers"
+D.J.T.C.C.
+Translation certified true
+on this 15th day of March 2004.
+Shulamit Day-Savage, Translator
+Citation: 2003TCC541
+Date: 20030812
+Docket: 2002-4356(EI)
+BETWEEN:
+ALAIN TREMBLAY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Somers, D.J.T.C.C.
+[1] This appeal was heard at Jonquière, Québec, on June 16, 2003.
+[2] The Appellant appealed from the decision of the Minister of National Revenue (the "Minister") that the employment with the Payor, Gestion Rodrigue Tremblay Ltée., from January 1 to December 31, 2000, is insurable because this employment met the requirements for a contract of service and there was an employer-employee relationship between the Payor and Appellant.
+[3] Subsection 5(1) of the Employment Insurance Act reads, in part, as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+[4] Subsections 5(2) and (3) of the Employment Insurance Act read in part as follows:
+5. (2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+(3) For the purposes of paragraph (2)(i):
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[5] Section 251 of the Income Tax Act reads, in part, as follows:
+Section 251: Arm’s length
+(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm’s length;
+. . .
+(2) Definition of "related persons". For the purpose of this Act, "related persons", or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+(b) a corporation and
+(i) a person who controls the corporation, if it is controlled by one person,
+(ii) a person who is a member of a related group that controls the corporation, or
+(iii) any person related to a person described in subparagraph 251(2)(b)(i) or 251(2)(b)(ii); …
+[6] The burden of proof is on the Appellant. The Appellant must show, on a balance of evidence, that the Minister's decision is unfounded in fact and in law. Each case stands on its own merits.
+[7] The Minister based his decision on the following presumptions of fact outlined in paragraph 10 of the Reply to the Notice of Appeal, which were admitted or denied:
+[TRANSLATION]
+(a) The Payor has been in operation since 1964; (admitted)
+(b) The Payor operated a shoe sales and foot orthotics manufacturing business; (admitted)
+(c) During the period at issue, the Payor’s shareholders were: (admitted)
+Rodrigue 50.9% of the shares
+Peurl Mercier 49% of the shares
+The Appellant 0.1% of the shares
+(d) Rodrigue Tremblay is the Appellant’s father and Peurl Mercier is the Appellant’s mother; (admitted)
+(e) The Appellant was hired as the Payor’s managing director; (admitted)
+(f) The Appellant’s duties involved supervising the employees, purchasing, selling and manufacturing orthotics and directing daily business operations; (admitted)
+(g) Significant decisions were made by the Payor’s board of directors; (denied)
+(h) The Appellant was paid $41,000 per year by the Payor; (admitted)
+(i) The Appellant usually worked 42 to 43 hours per week; (admitted)
+(j) For three of the months during the period at issue, the Appellant worked 80 to 85 hours per week as the result of the absence of one of the Payor’s employees; (admitted)
+(k) During these three months, the Appellant received the same pay; (admitted)
+(l) The Appellant was paid by cheque each week; (admitted)
+(m) The Appellant received group insurance that included a wage‑loss indemnity plan; (admitted)
+(n) The Appellant had three weeks of paid vacation per year; (admitted)
+(o) The Payor reimbursed the costs of the Appellant’s training or conferences; (admitted)
+(p) The Appellant did not have to cover any expenses as part of his employment; (admitted)
+(q) As part of his work, the Appellant assumed no risk of loss or chance of profit; (denied)
+(r) All the tools and equipment used for the Appellant’s work belonged to the Payor; (admitted)
+(s) The Appellant’s work was an integral part of the Payor’s activities. (admitted)
+[8] The Payor has been in operation since 1964, operating a shoe sales and foot orthotics manufacturing business.
+[9] During the period at issue, the Payor’s shareholders were Rodrigue Tremblay, Peurl Mercier and the Appellant, who owned 50.9%, 49% and 0.1% of the shares, respectively.
+[10] Rodrigue Tremblay and Peurl Mercier are the Appellant’s father and mother; there is therefore not an arm’s‑length relationship between the Payor and the Appellant.
+[11] The Appellant was hired as the Payor’s managing director. His responsibilities included the supervision of approximately eight employees, purchasing, sales and manufacturing of orthotics, and directing daily business operations.
+[12] Major decisions were made informally by the board of directors, but the Appellant made daily decisions without consulting the two other shareholders. There was a full transfer of the management of the business.
+[13] The Appellant was paid $41,000 per year, usually working 42 to 43 hours per week. However, for three months during the period at issue, the Appellant worked 80 to 85 hours per week as the result of the absence of an employee, without any increase in salary.
+[14] The Appellant was paid by cheque each week. He received group insurance that included a wage‑loss indemnity plan. He had three weeks of paid vacation per year.
+[15] The Payor reimbursed expenses related to the Appellant’s training courses or conferences. The Appellant was not responsible for any expenses as part of his employment.
+[16] The tools and equipment used in the Appellant’s work were the property of the Payor.
+[17] Rodrigue Tremblay testified that he started this business in 1964 with his spouse.
+[18] While they were in school, the children worked for the business. However, the Appellant developed a particular interest in the business. Starting in 1990, the Appellant worked full-time.
+[19] In 1994, the Appellant took an eight- or nine-month training course in manufacturing moulded shoes. Rodrigue Tremblay has complete trust in the Appellant’s abilities.
+[20] Two documents submitted as Exhibits I-1 and I-2 demonstrate that Rodrigue Tremblay and Peaul Tremblay, his spouse, signed them: Exhibit I-1 is a loan for $35,000 from the National Bank of Canada to the Payor and Exhibit I-2 is a line of credit for $75,000. Rodrigue Tremblay and his spouse were jointly liable to the National Bank of Canada.
+[21] The photocopies of the cheques made payable to the Appellant, submitted as Exhibit I-3, were all signed by Peurl Tremblay, the spouse of Rodrigue Tremblay.
+[22] Exhibit I-4, [translation] “List of administrators or notice of change in administrators” indicated the three shareholders’ names and occupations within the business and the Appellant appears on the list as the manager.
+[23] Rodrigue Tremblay stated that he worked between 10 and 20 hours per week during the period at issue and that he received a weekly salary of $527.96.
+[24] Since they were on site, Rodrigue Tremblay and the Appellant consulted one another on occasion when making major decisions.
+[25] According to the witness, the other employees each received one hour for a meal, with a 15‑minute break in the morning and the afternoon. The Appellant was not subject to these working conditions and had the right to one day off each week.
+[26] The Appellant essentially corroborated his father’s testimony. He stated that he never felt controlled by his parents with respect to managing the business. He stated that he did not have a fixed schedule and that the meal hour and breaks given to the other employees did not apply to him.
+[27] He added that his father earned $500 to $600 per week, whereas he earned $800 for a 40‑hour week. He claimed that his salary should be double what he earned.
+[28] In Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553, the Federal Court of Appeal listed four basic tests for distinguishing between a contract of service and a contract for services. These tests are:
+(a) The degree of control;
+(b) Ownership of tools;
+(c) Chance of profits and risks of loss;
+(d) Integration of the employee’s work into the Payor’s business.
+[29] The evidence demonstrated that the tools belonged to the Payor. The Appellant received a regular salary paid by cheque every week. Therefore there was no chance of profit or risk of loss. The Appellant was an integral part of the Payor company’s operations, working exclusively for the family business.
+[30] From these three tests, it can be concluded that there was a contract of service between the Appellant and the Payor.
+[31] The degree of control is an important factor in determining whether there is a contract of service.
+[32] In Groupe Desmarais Pinsonneault & Avard Inc. v. Canada (Minister of National Revenue - M.N.R.), [2002] F.C.J. No. 572, Noël J. of the Federal Court of Appeal said the following:
+4 In concluding that there was no relationship of subordination between the workers and the defendant, the trial judge does not appear to have taken into account the well-settled rule that a company has a separate legal personality from that of its shareholders and that consequently the workers were subject to the defendant's power of supervision.
+5 The question the trial judge should have asked was whether the company had the power to control the way the workers did their work, not whether the company actually exercised such control. The fact that the company did not exercise the control or that the workers did not feel subject to it in doing their work did not have the effect of removing, reducing or limiting the power the company had to intervene through its board of directors.
+6 We would add that the trial judge could not conclude there was no relationship of subordination between the defendant and the workers simply because they performed their daily duties independently and without supervision. The control exercised by a company over its senior employees is obviously less than that exercised over its subordinate employees.
+[33] In Industries J.S.P. Inc. v. Canada (Minister of National Revenue – M.N.R.), [1999] T.C.J. No. 423, Tardif J. of this Court summarized the facts, similar to those of the case under review, in these terms:
+Marie-Claude Perreault testified and gave a number of examples to describe and explain her interest, enthusiasm and fervour and that of her brothers with respect to the interests of the appellant company, which operates in the difficult and highly competitive field of furniture building.
+Sharing major strategic responsibilities in the company controlled by Jacques Perreault, who holds 1,000 voting but non-participating shares, Marie-Claude Perreault and her brothers left nothing to chance in ensuring the company's well-being and development.
+Each family member was paid more than a reasonable salary and, at year end, received a bonus that varied depending on the economic performance of the company and the quality of the work performed.
+Major decisions were made jointly and by consensus. The family members each devoted at least 60 hours [per week] to their respective duties for the company.
+The balance of evidence, therefore, was that the Perreault family members dedicated themselves totally and entirely to the company's business. They invested in it most of their available time (at least 60 hours [per week]) to ensure that the company could succeed in a difficult market where competition is stiff.
+The family members affected by the Minister's decision held important, essential positions and were paid salaries probably lower than those the company should have paid to third parties for performing similar duties. This fact alone led the agent for the appellant company to state and conclude that their employment was excluded from insurable employment under paragraph 3(2)(c) of the Unemployment Insurance Act ("the Act").
+. . .
+Contributing to and being a partner in the management, administration or development of a business, particularly a small business, means that a person's job description is strongly marked by responsibilities characteristic of those often fulfilled by actual business owners or persons holding more than 40 per cent of the voting shares in the company employing them. In other words, in assessing remuneration, at this level of responsibility, caution must be exercised when a comparison is made with the salaries of third parties; often there are advantages that offset the lower salaries.
+and concluded that the employment of the members of this same family, although not at arm’s‑length, was not excluded from insurable employment.
+[34] The degree of control is a factor that is very important in assessing the Minister’s decision.
+[35] In this case, the board of directors had the power to exercise control over the Appellant’s management of the business. Control over the company’s operations does not mean that there is control over the company.
+[36] Rodrigue Tremblay and his spouse controlled almost all the company shares and had an interest in the proper operation of the business operations.
+[37] Rodrigue Tremblay testified that his income came from his dividends and his salary of approximately $600 per week was his [translation] “pension fund.”
+[38] Informal discussions were still held with respect to major decisions to be made. The Appellant’s father and mother signed financial commitments for the company’s benefit.
+[39] Despite the full authority exercised by the Appellant, he consulted his father with respect to the major decisions to be made, for example, renovations to the business. Rodrigue Tremblay worked in the business approximately 15 to 20 hours per week. He effectively had control over the administration of the business, despite his great trust in the Appellant’s management abilities.
+[40] We can identify a relationship of subordination between the Appellant and the company. After an analysis of all the factors, the Appellant’s employment meets the requirements for a contract of service.
+[41] The Minister and the Appellant held that there was not an arm’s‑length relationship between the Appellant and the Payor; this was, in fact, the case.
+[42] The Appellant worked regular hours, approximately 40 hours per week, except for the three months of the period at issue due to exceptional circumstances during which he worked 80 hours per week.
+[43] The Appellant had the right to paid vacation, as did the other employees. His salary, despite his responsibilities, was not unreasonable. The fact that he did not receive a one-hour lunch or breaks, as did the other employees, cannot be considered unreasonable. The Appellant exercised a management position within the company, therefore his special position had both advantages and disadvantages. The Appellant had a particular interest because he testified that he would inherit the company when his parents died.
+[44] It is therefore reasonable to conclude, given the circumstances of the case, the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, that the Appellant and the Payor would have entered into a substantially similar contract if they had been dealing with each other at arm’s length.
+[45] Under the circumstances, during the period at issue, the Appellant’s employment was insurable within the meaning of the Employment Insurance Act.
+[46] The appeal is dismissed.
+Signed at Ottawa, Canada, this 12thth day of August 2003.
+"J. F. Somers"
+D.J.T.C.C.
+Translation certified true
+on this 15th day of March 2004.
+Shulamit Day-Savage, Translator

@@ -1,0 +1,466 @@
+---
+title: "Gabriel v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521374/index.do"
+last_modified: "2024-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 166"
+citation2: ""
+neutral_citation: "2024 TCC 166"
+decision_date: "2024-12-19"
+language: "en"
+item_id: "521374"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6039
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:52:10.442000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "239cc03ba51db91e6e421377a20593330b587e185f95b645a24b443376b8b601"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gabriel v. The King
+
+- Citation: 2024 TCC 166
+- Decision date: 2024-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6039, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gabriel v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-12-19
+Neutral citation
+2024 TCC 166
+File numbers
+2016-467(IT)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-467(IT)G
+BETWEEN:
+PATRICK GABRIEL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeals heard on April 12, 2018, February 20, 2024 and July 9‑10, 2024 at Hamilton, Ontario and
+on October 17-18, 2024 at Burlington, Ontario
+By: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gregory B. King (April 12, 2018)
+Jennifer Goodhart (February 20, July 9–10, 2024)
+Sam Perlmutter (October 17-18, 2024)
+JUDGMENT
+Having considered the evidence and the submissions presented by the parties, and in accordance with the attached Reasons for Judgment (the “Reasons”),
+IT IS ADJUDGED THAT:
+The Appeal from a reassessment made under the Income Tax Act in respect of the Appellant’s 2010 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+a)the amount of $157,247, which was assessed as a shareholder benefit or a shareholder appropriation, and the amount of $12,000, which was assessed in respect of the T4A slip described in the Reasons, are not to be included in computing the Appellant’s income for 2010;
+b)the penalty assessed under subsection 163(2) of the Income Tax Act is cancelled; and
+c)the real estate commission in the amount of $3,543 was properly included in the Appellant’s income for 2010.
+The Appeal from a reassessment made under the Income Tax Act in respect of the Appellant’s 2011 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+a)the amount of $51,824, which was assessed as a shareholder benefit or a shareholder appropriation, is not to be included in computing the Appellant’s income for 2011; and
+b)the penalty assessed under subsection 163(2) of the Income Tax Act is cancelled.
+No costs are awarded to either party.
+Signed at Ottawa, Canada, this 19th day of December 2024.
+“Don R. Sommerfeldt”
+Sommerfeldt J.[1]
+Citation: 2024 TCC 166
+Date: 20241219
+Docket: 2016-467(IT)G
+BETWEEN:
+PATRICK GABRIEL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION [1] These Reasons pertain to the Appeals instituted by Patrick Gabriel in respect of reassessments (the “Reassessments”) for the 2010 and 2011 taxation years, as set out in Notices of Reassessment issued on November 17, 2015 by the Canada Revenue Agency (the “CRA”) on behalf of the Minister of National Revenue (the “Minister”).
+II. ISSUES [2] The issues in these Appeals are:
+(a) Did Life Breath Home Care Services Inc. (“Life Breath”) overstate the amount “due to shareholder” by $157,247 at the end of the 2010 taxation year, and, if so, did the amount of $157,247 constitute unreported income of Mr. Gabriel for the 2010 taxation year?
+(b) Did Life Breath overstate the amount “due to shareholder” by $51,824 at the end of the 2011 taxation year, and, if so, did the amount of $51,824 constitute unreported income of Mr. Gabriel for the 2011 taxation year?
+(c) Did Mr. Gabriel receive income in the amount of $3,543 from Halton Heritage Realty (“Halton Realty”) in 2010, which he failed to report on his 2010 income tax return?
+(d) Did Mr. Gabriel receive income in the amount of $12,000 from Park Home Furniture Inc. (“Park Furniture”) which he failed to report?
+(e) Did the Minister properly assess penalties pursuant to subsection 163(2) of the Income Tax Act (the “ITA”)[2] in respect of the 2010 and 2011 taxation years?
+III. FACTUAL BACKGROUND A. Shareholder Loan Account
+[3] The resolution of these Appeals requires an analysis of the opening and closing balances in the shareholder loan account (sometimes referred to, at the hearing, in some of the pleadings and exhibits, and in these Reasons, as the “due to shareholder” account) of Life Breath for 2010 and 2011. The Crown, in setting out the Minister’s assumptions of fact in paragraph 14 of its Reply to Amended Notice of Appeal, framed the factual background in respect of the first two issues as follows:
+(a) Mr. Gabriel was the sole shareholder of Life Breath, which had a fiscal year end of December 31.
+(b) At the beginning of 2010, the opening balance in the “due to shareholder” account was $74,111.
+(c) At the end of 2010 and the beginning of 2011, the balance in the “due to shareholder” account was $260,376.
+(d) At the end of 2011, the closing balance in the “due to shareholder” account was $289,422.
+(e) Life Breath reported that for 2010 the opening and closing balances in the “due to shareholder” account were $74,111 and $260,376 respectively, resulting in an increase of $186,265 in that account over the course of the year.
+(f) In 2010, Mr. Gabriel loaned to Life Breath $29,018 more than the amount that Life Breath reimbursed to him.
+(g) At the end of 2010, Life Breath overstated the amount “due to shareholder” by $157,247 (i.e., $186,265 − $29,046[3]).
+(h) Life Breath reported that, between the beginning and the end of 2011, the balance of the “due to shareholder” account increased by $29,046 (i.e., $289,422 − $260,376).
+(i) In 2011, the amount reimbursed to Mr. Gabriel by Life Breath exceeded the amounts that he loaned to Life Breath by $22,778.
+(j) At the end of 2011, Life Breath overstated the amount “due to shareholder” by $51,824 (i.e., $29,046 + $22,778).
+(k) The overstated amounts in the “due to shareholder” account, being $157,247 and $51,824 for 2010 and 2011 respectively, constituted benefits conferred by Life Breath on Mr. Gabriel in his capacity as a shareholder.[4]
+[4] While Mr. Gabriel agreed that on January 1, 2010 the opening balance in his “due to shareholder” account was $74,111, he disagreed with significant portions of the remainder of the analysis undertaken by the CRA. One of the points of disagreement related to the shareholdings of Life Breath. As noted above, the CRA assumed that Mr. Gabriel was the only shareholder of Life Breath. However, Mr. Gabriel testified that he owned 999 shares of Life Breath and that Park Furniture[5] owned one share of Life Breath.[6] This was the basis of the most significant aspect of the dispute between Mr. Gabriel and the CRA. Mr. Gabriel testified that in 2010 and 2011 Park Furniture, in its capacity as a shareholder of Life Breath, paid numerous expenses on behalf of Life Breath, resulting in substantial amounts owed by Life Breath to Park Furniture at the end of 2010 and 2011.
+[5] The evidentiary burden on Mr. Gabriel was rendered difficult by several factors. Mr. Gabriel stated that a number of years ago the hard drive on the computer used to keep the financial statements of Life Breath crashed, sustained water damage, or was stolen. Apparently, there was no electronic backup of the financial statements, nor were there paper copies thereof. Accordingly, Mr. Gabriel frankly admitted at the hearing that he did not have the books and records that had once been maintained by Life Breath, nor did he have any way of confirming with certainty the various entries in the “due to shareholder” account in 2010 and 2011. In addition, documents pertaining to another corporation, LE-MD Leading Edge Medical Devices Inc. (“Leading Edge”), whose relevance will be explained below, are no longer available.
+[6] A further difficulty is that Life Breath did not have a chequing account, with the result that the majority of its expenses were paid initially by him and subsequently by Park Furniture, and with the further result that the expenses of both Life Breath and Park Furniture were commingled on the bank statements of Park Furniture.
+[7] Mr. Gabriel stated that before 2010 he had a personal line of credit with Toronto‑Dominion Bank (“TD Bank”). As that line of credit had unlimited chequing privileges, he used it to pay all the expenses of both Life Breath and Park Furniture.[7] In late 2009, he was called to a meeting with an official of TD Bank, who informed him that the bank had determined that he had been using his personal line of credit for business purposes, which was not permitted. Accordingly, the official informed him that the bank would be closing the line of credit and would be requiring prompt repayment of the outstanding balance. An arrangement was put in place pursuant to which the bank withdrew $10,000 from Life Breath’s bank account each month for five months, followed by a final payment in the amount of $33,440.42 on April 27, 2010.[8]
+[8] As Mr. Gabriel no longer had a means whereby he could pay the expenses of Life Breath and Park Furniture, he arranged for Park Furniture to open a chequing account at Hamilton Community Credit Union Limited (the “Credit Union”). Thereafter, that chequing account was used to pay the expenses of both Park Furniture and Life Breath.
+[9] Although many of the books and records of Life Breath are no longer available, Mr. Gabriel did have a copy of the basic GIFI balance sheet attached to the 2010 income tax return of Life Breath.[9] That balance sheet showed that the closing balance in the “due to individual shareholder(s)” account at the end of 2010 was $260,376, which is the amount that was assumed by the CRA.[10]
+[10] In presenting his analysis of the 2010 and 2011 “due to shareholder” amounts, Mr. Gabriel reviewed the entries on a working paper prepared by the CRA auditor in respect of the balance in the “due to shareholder” account for 2010 and 2011. That working paper, which related to Mr. Gabriel, which was numbered as W/P #2000-5, and whose subject was described as “shareholder benefits,” showed an opening balance for 2010 of $74,111, with an accompanying note that read simply “GIFI” (which presumably referred to the GIFI balance sheet). The working paper also showed various amounts that were paid by Life Breath on behalf of Mr. Gabriel or otherwise withdrawn from Life Breath’s bank account for the benefit of Mr. Gabriel.[11] The most recurring amount was $1,053.30, which was withdrawn monthly from Life Breath’s bank account to make a mortgage payment in respect of a house purchased for Mr. Gabriel’s former spouse (pursuant to an obligation that he undertook in the course of matrimonial proceedings that were happening at about the same time).[12] Other significant withdrawals from Life Breath’s bank account were used to pay down the above-mentioned personal line of credit, which, as outlined above, TD Bank had previously made available to him, but had, over a period of five months in late 2009 and early 2010, required him to repay. With one exception, Mr. Gabriel acknowledged that the various payments or withdrawals from Life Breath’s bank account, as itemized by the CRA auditor, were correct.
+[11] The one exception was a $17,500 entry in December 2010. Mr. Gabriel explained that in 2010 Life Breath was constructing a building in Smithville, Ontario. Sometime before December 2010, the town of Smithville required Life Breath to post a letter of credit in the amount of $17,500. In order to obtain a letter of credit from TD Bank, Life Breath was required to deposit, in a guaranteed investment certificate (a “GIC”), the amount of $17,500 with TD Bank. In December 2010 that particular GIC matured and the amount of $19,725.63 (i.e., the principal amount plus accrued interest) was deposited into Life Breath’s bank account. Immediately thereafter, in order to maintain the letter of credit, the amount of $17,500 was taken from Life Breath’s account and reinvested with TD Bank in a new GIC. The CRA auditor treated the $17,500 withdrawal as a benefit conferred by Life Breath on Mr. Gabriel; however, Mr. Gabriel testified that the $17,500 was not made available to him, but was merely reinvested by Life Breath in a new GIC that it used to secure the letter of credit.[13]
+[12] The auditor’s working paper also listed various amounts deposited by Mr. Gabriel in Life Breath’s bank account. All of those amounts (other than $220) came from Econo Rent (“Econo”), which was a sole proprietorship owned and managed by Mr. Gabriel and which operated a storage-locker business. At that time, Econo was, as Mr. Gabriel put it, “cash positive,” which enabled him to use some of the earnings from that business to loan to Life Breath.[14]
+[13] The other significant entry in the auditor’s working paper was an entry for wages in the amount of $48,000, which was posted in December 2010. Mr. Gabriel explained that throughout 2010 he had not received an actual salary or wage from Life Breath. However, knowing that Life Breath had been paying various amounts on his behalf, notably the mortgage payments on his former spouse’s home and the repayment of the TD Bank line of credit, in December 2010, Mr. Gabriel arranged for Life Breath to treat $48,000 of those amounts as wages paid to him. Life Breath subsequently issued to Mr. Gabriel a T4 slip in the amount of $48,000. The auditor accepted that the amount “due to shareholder” was to be increased by the amount of $48,000.[15]
+[14] The auditor’s working paper showed that at the end of December 2010, the balance in the “due to shareholder” account was $103,129.28. Mr. Gabriel then referred to another CRA working paper, entitled “Calculation of Shareholder Appropriations.”[16] This working paper showed that the amount “due to shareholder” on December 31, 2010, as reported by Life Breath in its GIFI balance sheet, was $260,376. As the auditor had determined that, in her view, the correct amount “due to shareholder” was $103,129, she treated the difference, i.e., $157,247, as a shareholder appropriation in 2010 that was taxable under subsection 15(1) of the ITA.
+[15] Turning to 2011, the “Calculation of Shareholder Appropriations” working paper prepared by the auditor showed that in that year Life Breath made:
+(a) seven mortgage payments, each in the amount of $1,053.30, in respect of a house purchased for Mr. Gabriel’s former spouse;
+(b) a withdrawal of $1,904.60, which Mr. Gabriel used to pay a personal income tax obligation;[17] and
+(c) a withdrawal of $24,000, which was not explained but which appears to have related to Park Furniture, and which reduced the amount “due to shareholder.”[18]
+[16] The working paper also showed that in 2011 Mr. Gabriel, through his sole proprietorship, Econo, loaned $6,500 to Life Breath, and he arranged for Life Breath to categorize as wages $4,000 previously paid in the year by Life Breath on behalf of Mr. Gabriel. Thus, the working paper showed that the amount “due to shareholder” at the end of 2011 was $80,351.58. Mr. Gabriel noted that the “Calculation of Shareholder Appropriations” working paper showed that the GIFI balance in the “due to shareholder” account at the end of 2011, as reported by Life Breath, was $289,422. After subtracting the shareholder benefit assessed for 2010 (i.e., $157,247) and the amount “due to shareholder,” as determined by the auditor (i.e., $80,352, as rounded), the balance was $51,824, which the auditor treated as a shareholder benefit conferred in 2011 by Life Breath on Mr. Gabriel.[19]
+B. Payments Made by Park Furniture on Behalf of Life Breath
+[17] As noted above, Mr. Gabriel explained that, in 2010 and 2011, he and Park Furniture paid many of the expenses and other obligations of Life Breath, primarily because Life Breath did not have chequing privileges in respect of its bank account.
+[18] Even though it seems that Life Breath’s employees were paid by automatic deposit (rather than by cheque), Park Furniture was, in a sense, the payroll manager of Life Breath. In other words, as explained by Mr. Gabriel, Park Furniture paid the payroll for Life Breath, which thus incurred an obligation to reimburse Park Furniture.[20] Consequently, the payroll records of Park Furniture showed the salary or wage payments and source deductions of the employees of both Park Furniture and Life Breath mingled together. Each employee was assigned an employee number. Mr. Gabriel explained that typically employee numbers less than 1,000 designated employees of Park Furniture, while employee numbers greater than 1,000 designated employees of Life Breath.[21] However, there were exceptions to that demarcation and there were a few employees who, although having only one employee number, worked for both corporations and received two T4 slips, one from each corporation.[22] Mr. Gabriel seemed to have a thorough understanding of the payroll and T4 records and was able to provide a satisfactory explanation of which employees were employed by Life Breath.
+[19] Mr. Gabriel produced the monthly statements of account issued by the Credit Union.[23] Park Furniture paid its employees and the employees of Life Breath on a biweekly basis. The monthly statements of account from the Credit Union showed aggregate biweekly withdrawals in the range of $24,000 to $28,000, which Mr. Gabriel explained were the aggregate payments of the net pay to each employee. The difficulty from an evidentiary point of view is that each of the withdrawals was described on the particular monthly statement as relating to “EconoRent”, which, as mentioned above, was a reference to the sole proprietorship owned and operated by Mr. Gabriel.[24] Mr. Gabriel testified that, for historical reasons,[25] the withdrawals from the Credit Union account of Park Furniture, as shown on the monthly statements, were described by reference to Econo, rather than payroll. Mr. Gabriel showed that the biweekly entries in Park Furniture’s payroll records and the biweekly withdrawals from the Credit Union account of Park Furniture coincided (subject to some minor discrepancies of a few cents).
+[20] Mr. Gabriel produced T4 Summaries and T4 slips for Life Breath and its employees for 2010.[26] Mr. Gabriel testified that those documents indicated that the gross payroll of Life Breath for 2010 was $400,386.00. However, Park Furniture paid only the net payroll, leaving it to Life Breath to remit its source deductions on its own to the CRA and to other payees. The net payroll paid in 2010 by Park Furniture on behalf of Life Breath was $332,206.90.[27] Mr. Gabriel asserted that, as a result of Park Furniture’s having paid that net payroll for 2010, Life Breath owed $332,206.90 to Park Furniture.[28]
+[21] Mr. Gabriel also produced T4 Summaries and T4 slips for Life Breath and its employees for 2011.[29] The gross payroll of Life Breath for 2011 was $334,403 and the net payroll of Life Breath for 2011, which was paid by Park Furniture, was $266,571.73,[30] which, according to Mr. Gabriel, also constituted an amount owed by Life Breath to Park Furniture.[31]
+[22] Mr. Gabriel testified that in 2010 and 2011, Life Breath had two independent contractors, to whom it issued T4A slips shortly after the end of 2010 and 2011 respectively. The independent contractors were paid by Park Furniture and the payments appeared on the payroll records of Park Furniture.[32] The aggregate amount paid by Park Furniture, on behalf of Life Breath, to the independent contractors in 2010 was $29,410.50, and in 2011 was $61,134.16.[33]
+[23] In 2010 and 2011, Park Furniture paid the amounts billed to Life Breath by many of the suppliers of Life Breath, as set out in the invoices rendered by those suppliers, many of which were put into evidence.
+[24] Mr. Gabriel also gave evidence of another addition to his shareholder loan account in respect of Life Breath, which he had overlooked when the CRA did its audit. In 2010 and 2011 (and perhaps earlier), Mr. Gabriel was a 1% shareholder of Leading Edge, which manufactured various medical devices. In 2001, Leading Edge entered into an agreement with Brian Doyle and his company, Six Degrees of Freedom Inc., to purchase a large number of hinges for knee braces, and committed to purchase $50,000 worth of hinges each month for a period of twelve or thirteen months. Six or seven months into the term of the contract, Leading Edge encountered financial difficulty and asked Mr. Gabriel to lend it the money to pay three months of arrears and the remaining three monthly payments for the rest of the contract term. As a result of this arrangement, Mr. Gabriel loaned an aggregate of $300,000 to Leading Edge.[34]
+[25] In 2010, Leading Edge ceased to operate and closed its bank account, and, in 2011, Leading Edge was dissolved.[35] In 2010, the only significant asset of Leading Edge was the remaining hinges, and its only significant liability was the indebtedness owed to the shareholders, including Mr. Gabriel.[36] As part of the winding-up and dissolution, Leading Edge distributed the hinges among the shareholders to whom it owed liabilities. As a result, Mr. Gabriel acquired $300,000 worth of hinges from Leading Edge.[37]
+[26] By this time, Life Breath had expanded its business from merely dealing with respiratory issues to also manufacturing knee braces (having previously obtained approval from the Ministry of Health for knee braces). Consequently, Mr. Gabriel sold the hinges to Life Breath, which was unable to pay him at that time for the hinges. Thus, according to Mr. Gabriel, the amount owed to him by Life Breath was increased by $300,000;[38] however, he freely acknowledged that he could not remember whether he “journalized” the addition to the “due to shareholder” account.
+IV. ANALYSIS A. Burden of Proof [27] In an appeal of an assessment under the ITA, the burden is on the taxpayer to disprove the assumptions that were made by the Minister and that underpin the assessment, or otherwise to prove that the assessment is not correct.[39] In addition, the taxpayer has the burden of proving the material facts which the taxpayer pled in the Notice of Appeal or on which the taxpayer needs to rely to support the tax return filed by the taxpayer.[40]
+[28] By reason of evidentiary insufficiencies acknowledged by Mr. Gabriel, he has encountered difficulty in meeting the burden of proof that he bears. At the hearing he acknowledged the following:
+(a) Life Breath did not journalize an entry in its financial statements in respect of the $300,000 worth of hinges that Mr. Gabriel sold to it (without being paid the purchase price).[41] Later in his testimony, Mr. Gabriel stated that he did not know whether the entries were journalized or not.[42]
+(b) The hard drive on Life Breath’s computer crashed, sustained water damage or was stolen, with the result that Life Breath no longer has its books and records, such that Life Breath does not have the original journal entries pertaining to the shareholder loan account.[43]
+(c) As Life Breath no longer has its books and records, Mr. Gabriel cannot explain how he calculated the balances that he reported on the financial statements accompanying Life Breath’s 2010 and 2011 income tax returns.[44]
+(d) Not only does Life Breath not have the actual journal entries made in the general ledger, but it no longer has its expense reports either. However, Life Breath does have hard copies of its invoices, receipts “and stuff like that.”[45]
+(e) The evidence given by Mr. Gabriel in respect of the balance of the shareholder loan account was based on his having surmised what the entries in respect of the shareholder loan account would have been.[46]
+[29] Mr. Gabriel’s evidentiary difficulties were exacerbated by the banking arrangement that he put in place for Life Breath. Although Life Breath had a bank account, it did not have chequing privileges, so it could not make payments by issuing cheques to suppliers or other creditors.[47] Therefore, before 2010 Mr. Gabriel personally paid all of Life Breath’s bills,[48] using his personal line of credit at TD Bank.[49] As explained above, in late 2009, a representative of TD Bank told Mr. Gabriel that he could no longer use his personal line of credit to pay the expenses of Life Breath and Park Furniture.[50] Accordingly, Park Furniture opened a chequing account at the Credit Union and subsequently paid its own expenses and the expenses of Life Breath by issuing cheques drawn on that account.[51] Apparently, when the CRA audited Life Breath, the auditor supposedly did not acknowledge the bills and other expenses paid by Park Furniture on behalf of Life Breath.[52]
+[30] Also as noted above, a further complicating evidentiary factor is that, in recording the salary and wages paid by Park Furniture on its behalf and on Life Breath’s behalf, the payroll disbursements were combined into a single entry, rather than being separated between the two corporations.[53] An additional complication mentioned above is that, due to a historical anomaly (dating back to when Econo was lending money to Life Breath), on the bank statements, the entries for the payroll paid by Park Furniture were labelled “Econo Rent.”[54]
+[31] Given the passage of time, Mr. Gabriel’s memory of the events of 2010 and 2011 has dimmed. As noted above, at different times during his testimony, he ascribed the loss of Life Breath’s computerized accounting records to a crash, water damage or theft. He also said that Life Breath may have, over the years, had more than one laptop, each of which suffered a different fate.
+[32] While Mr. Gabriel understood that he had arranged for a single share of Life Breath to be issued by that corporation to Park Furniture, he could not remember whether the total number of shares issued by Life Breath was 1,000 (of which he held 999) or 1,000,000 (of which he held 999,999).
+[33] As noted above, Mr. Gabriel was not certain as to whether he had acquired $300,000 or $350,000 worth of hinges from Leading Edge. As well, he could not remember whether he sold all the hinges to Life Breath in a single transaction, or whether he sold the hinges to Life Breath incrementally, as they were needed.
+[34] I did not find anything to indicate that Mr. Gabriel was not a credible witness. However, given the above inconsistencies in Mr. Gabriel’s evidence (as well as other inconsistencies that counsel for the Crown identified in the Respondent’s Written Submissions), there are portions of Mr. Gabriel’s testimony (particularly those that pertain to numerical details) that are not reliable.
+B. Shareholder Loan Account
+[35] Notwithstanding the unreliability of some portions of Mr. Gabriel’s testimony, particularly in respect of numerical details, I do accept the following:
+a)Park Furniture paid numerous amounts on behalf of Life Breath.
+b)Mr. Gabriel understood (perhaps incorrectly) that Park Furniture held a share in the issued capital of Life Breath.
+c)Mr. Gabriel understood that the amounts paid by Park Furniture on behalf of Life Breath constituted amounts loaned by Park Furniture to Life Breath.
+d)When Mr. Gabriel recorded the above amounts for accounting purposes, he treated them as amounts owed by Life Breath to a shareholder.
+e)The accounting system used by Life Breath recorded amounts owed to all shareholders in the same shareholder loan account (or in the same “due-to-shareholder” account).
+f)In other words, Mr. Gabriel understood that the aggregate of the amounts due to shareholder, as shown on Life Breath’s accounting records, combined and mingled the amounts owed by Life Breath to him personally and the amounts owed by Life Breath to Park Furniture.
+g)Due to Mr. Gabriel’s understanding (or perhaps misunderstanding), Mr. Gabriel did not create, in Life Breath’s accounting records, a “due-to-related-party” account (i.e., a separate account), to record amounts owed by Life Breath to Park Furniture.
+h)By reason of the above accounting error (as it could be described), as Park Furniture paid amounts on behalf of Life Breath, the amount of the “due-to-shareholder” account increased, which resulted in an increased amount of the shareholder benefit calculated by the CRA on behalf of the Minister.
+[36] Mr. Gabriel eschews professional advisers. For instance, he represented himself in the trial of these Appeals. Similarly, he did the incorporation of Life Breath and Park Furniture himself. Mr. Gabriel has a tendency to cut corners. Consequently, when he incorporated those two corporations, he did little (if anything) to document the organizational structure of either corporation. Thus, no organizational shareholder’s resolutions or director’s resolutions were drafted, nor were any share certificates prepared. Neither corporation has a minute book.
+[37] Mr. Gabriel stated that, when Life Breath was incorporated, he was its sole shareholder, although he could not remember whether he held 1,000 shares or 1,000,000 shares in the capital of that corporation. Subsequently, when Park Furniture was incorporated, according to Mr. Gabriel, he sold one of his shares in the capital of Life Breath to Park Furniture, such that the latter became a shareholder of the former. However, Mr. Gabriel acknowledges that he did not prepare a transfer or conveyancing document in respect of the sale of that share, nor did he arrange for Life Breath to issue a share certificate to Park Furniture in respect of the share that it held, or to issue to Mr. Gabriel a share certificate in respect of the reduced number of shares that he held after the sale.
+[38] When filing Life Breath’s tax return after the above share sale, he was uncertain as to how to show the shareholding percentages of that corporation. With one share, Park Furniture held either 0.1% or 0.0001% of the issued shares (depending on whether Life Breath had 1,000 issued shares or 1,000,000 issued shares). According to Mr. Gabriel, the corporate tax return required that shareholders be shown by reference to their percentage interest in the corporation. As he held either 99.9% or 99.9999% of the issued shares (depending on whether Life Breath had 1,000 issued shares or 1,000,000 issued shares), he concluded that the most accurate thing to do was to show him as holding 100% of the shares, and not to mention Park Furniture’s interest, as it was less than 1%. It was for this reason that the Minister assumed that Mr. Gabriel was the only shareholder of Life Breath.
+[39] Throughout his testimony, Mr. Gabriel maintained that he was not the sole shareholder of Life Breath, and that, by reason of the above share sale, Park Furniture was also a shareholder of Life Breath in 2010 and 2011. However, without any documentation in respect of that transaction, it may well have been a share sale that occurred only in Mr. Gabriel’s mind.
+[40] In this regard, a statement made by Justice Bonner in the Gannon case may be applicable. In that case, the controlling shareholder of a corporation sold property to the corporation, for which the corporation issued to him a promissory note. It appears that, by reason of a bookkeeping error, the amount of the note was not recorded in the shareholder loan account. Thereafter, from time to time, as the shareholder withdrew money from the corporation, his shareholder loan account was debited, but the amount owing under the note was not adjusted. Upon being reassessed under subsection 80.4(2) of the ITA, in respect of a loan to a shareholder, the shareholder said that the amounts withdrawn from the corporation had been set off against the amount owed to him by the corporation under the note. Justice Bonner summarized the appellant shareholder’s argument as follows:
+The appellant was asked whether there was any express agreement, whether written or oral, between himself and the company calling for a set-off. His answer was that he was the sole operating officer of the company, that he owned shares as previously mentioned and that it was “the intention” that the indebtedness of the company to him be paid before drawings could be considered to be a debt from the appellant to the company. He added that he was only one person, that the “prevailing intention” was as just set out and that he had thought in those terms at all times. He said that he considered that the company owed him about $65,000 (on the note) and that he had the right to draw that money from the company.[55]
+[41] Concerning the alleged unwritten set-off agreement, Justice Bonner stated:
+An agreement between a company and its shareholder is not formed by a mere fleeting thought in the mind of the individual who controls it.[56]
+[42] This same principle was stated as follows in Rose:
+As I appreciate the evidence in this case, the five individuals in question, believing that a partnership agreement had been executed and knowing that there was intended to be a services agreement, decided in their own minds that they would act on behalf of the partnership in performing the services to be provided under that agreement. In my view, where corporations are involved and the existence of such relationship is important as against third persons such as the Revenue, this is not sufficient.[57]
+[43] Thus, I am not convinced that the “fleeting thought” decided in Mr. Gabriel’s own mind about a share sale actually had the legal effect that he may have intended. In other words, there is no objective evidence, and certainly no documentary evidence, to support the proposition that Park Furniture was a shareholder of Life Breath.
+[44] Even though Mr. Gabriel has not been able to prove that Park Furniture was a shareholder of Life Breath, he has proven that Park Furniture paid most of Life Breath’s expenses, including the net amount of Life Breath’s payroll. I also accept Mr. Gabriel’s assertion (which was confirmed by the auditor’s testimony) that, when the CRA audited Life Breath, it did not challenge the expenses that Life Breath had deducted, even though those expenses had been paid by Park Furniture. Thus, it has been established that Life Breath owed significant amounts to Park Furniture, which were recorded in the “due-to-shareholder” account. If Park Furniture was not a shareholder of Life Breath, it was an error to record such amounts as additions to that account. Consequently, I do not have confidence in the balances in that account, as they appeared from time to time.
+[45] As has been expressed by Justice Kempo, “accounting entries reflect rather than create reality, and … a mere bookkeeping entry in a shareholder loan account does not in and of itself constitute a taxable benefit without something more.”[58]
+[46] Justice Ouimet recently made the following point, in French, in the Houle case:
+… la Cour estime que le ministre ne peut pas conclure qu’un avantage a été accordé à un actionnaire au sens de l’article 15(1) de la LIR uniquement en faisant la preuve qu’à la suite d’écritures comptables fausses, le solde du compte « Payable à l’actionnaire » a été augmenté artificiellement.[59]
+[47] In Mr. Gabriel’s situation, (rather than saying that false accounting entries artificially increased the balance in the “payable to shareholder” account, which was the situation in Houle), I would say that erroneous accounting entries incorrectly increased the balance in the “due to shareholder” account (assuming that Park Furniture was not a shareholder of Life Breath).
+[48] In Chaplin, Justice Graham expressed the applicable principle in this manner:
+… I am not convinced that simply making a false bookkeeping entry, even knowingly, confers a benefit on a shareholder. It seems to me that the benefit is conferred when something of value is conferred on the shareholder. At most, a false bookkeeping entry lays the groundwork for disguising a future appropriation or hiding an outstanding debt owed to a company by a shareholder. It is not, in itself, a benefit.[60]
+[49] Consequently, I do not have confidence that the year-end balances in the “due to shareholder” account maintained by Life Breath were accurate or reliable for the purpose of determining the shareholder benefit, if any, conferred by Life Breath on Mr. Gabriel.
+[50] The Minister’s assumptions of fact, as set out in subparagraphs 14.c) through 14.j) of the Reply to Amended Notice of Appeal (which are paraphrased and summarized in subparagraphs 3(b)-3(k) above), indicate that the Minister used the year-end balances in the “due to shareholder” account to calculate the amounts of the benefits conferred by Life Breath on Mr. Gabriel, in his capacity as a shareholder. Given the unreliability of those balances, the amounts of the assessed shareholder benefits are also suspect.
+[51] I hasten to point out, however, that the Minister, the CRA and the auditor cannot be faulted in any way for using the “due to shareholder” account balances and the shareholder percentage interests that Mr. Gabriel reported in Life Breath’s corporate income tax returns. Only Mr. Gabriel is responsible for the information that he, on behalf of Life Breath, reported on those returns. Yet, notwithstanding that Mr. Gabriel must take responsibility for the reporting errors,[61] it does not change the fact that the reported “due to shareholder” account balances were inaccurate.
+[52] Given the unreliability of the “due to shareholder” account balances, in this particular circumstance, I prefer to calculate the amount of the shareholder benefits (if any) by reference to the verified entries made by the auditor in her working paper entitled “Calculation of Shareholder Appropriations”,[62] with one exception. As noted above, the amount of $17,500 was not actually distributed by Life Breath to Mr. Gabriel in December 2010. Rather, Life Breath reinvested that amount in a GIC to secure a line of credit in favor of the town of Smithville.
+[53] My computation of the shareholder benefits is set out in the attached Schedule. As the oral evidence indicated, and as appears in the Schedule, the most significant payments made by Life Breath on behalf of Mr. Gabriel were the monthly payments (each in the amount of $1,053.30) in respect of a mortgage that encumbered his former spouse’s home, and the amounts used to repay his personal line of credit, which was owed to TD Bank.
+[54] In 2010, the total of the verified debits in the “due to shareholder” account was $88,726.72, and the total of the verified credits was $135,245.00, meaning that Life Breath did not confer a shareholder benefit on Mr. Gabriel in 2010. In 2011, the total of the verified debits in the “due to shareholder” account was $33,277.70, and the total of the verified credits was $10,500.00, meaning that the debit balance exceeded the credit balance by $22,777.70.
+[55] Although it may be arguable that the above net debit amount of $22,777.70 for 2011 might suggest that Life Breath conferred a shareholder benefit in that amount on Mr. Gabriel in that year (particularly as income and tax are computed on an annual basis), another principle comes into play. As Justice MacPhee stated in Kootenay Management, “a shareholder loan account must fall into a deficit in order for a shareholder benefit to be recognized.”[63]
+[56] The difficulty that arises here is that, because of the unreliable account balances, I cannot accurately determine whether the “due to shareholder” account fell into a deficit at the end of 2011. Given this unusual situation, I have determined that the best that can be done here is to aggregate the 2010 and 2011 debit entries and credit entries together. Over the two-year period (from January 1, 2010 to December 31, 2011), the total of the verified debit entries was $122,004.42 (i.e., $88,726.72 + $33,277.70), and the total of the verified credit entries was $145,745.00 (i.e., $135,245.00 + $10,500), resulting in a net credit amount of $23,740.58 (i.e., $145,745.00 - $122,004.42). Therefore, I am of the view that Life Breath did not confer a shareholder benefit on Mr. Gabriel during the taxation years that are the subject of these Appeals.
+C. Real Estate Commission
+[57] In addition to being an accountant, in 2010 Mr. Gabriel was also a licensed real estate agent. As a means of assisting any employees of Life Breath and Park Furniture who were buying or selling a home and who retained him as their real estate agent, Mr. Gabriel told them that whatever net commission he received from Halton Realty (the brokerage with which he worked) in respect of the transaction, he would give that net amount to them. He explained to them that, under his arrangement with Halton Realty, he had to pay a portion of his commission to it to cover various fees and expenses. However, he told them that whatever amount remained after paying Halton Realty, he would give that amount to them.
+[58] One such employee was Aaron McColl, who purchased a home in 2010. After paying to Halton Realty the fees and expenses that he was obligated to pay, Mr. Gabriel gave the remainder of his commission, in the amount of $3,543, to Mr. McColl.
+[59] Mr. Gabriel was genuinely of the understanding that his arrangement with Mr. McColl resulted in him (i.e., Mr. Gabriel) receiving the net amount of his commission (i.e., $3,543) in trust for Mr. McColl, such that he (i.e., Mr. Gabriel) was not required to include that net amount in computing his income.
+[60] Notwithstanding the sincerity with which Mr. Gabriel argued his position, I disagree with it. Upon the closing of the purchase of Mr. McColl’s home, Mr. Gabriel became entitled to receive his commission. In other words, at that point in time he had earned the commission, even though it was initially received and held by Halton Realty. It was because he was already the beneficial owner of the commission that Halton Realty was in a position to retain a portion of that commission in payment of the fees and expenses owed to it by him. In other words, there was a sequence of events: First, Mr. Gabriel earned the commission; second, Halton Realty retained a portion of the commission to cover the fees and expenses that he owed to it; and third, he gave his net commission to Mr. McColl.
+[61] Mr. Gabriel is to be commended for the generosity that he extended to Mr. McColl. In fact, he displayed true generosity, because he gave away his own money, and not money to which he had never earned any entitlement. Thus, as Mr. Gabriel had already earned his commission before he gave the net amount thereof to Mr. McColl, the full amount of the commission (less the fees and expenses retained by Halton Realty) was properly included in computing Mr. Gabriel’s income for 2010.
+D. T4A Slip for $12,000
+[62] During Mr. Gabriel’s testimony on April 12, 2018, he stated that one of the issues in dispute pertained to a T4A slip, apparently issued to him in 2010, in the amount of $12,000. He said that he had not received the T4A slip, but had been told about it by the CRA auditor. He explained that, in 2010, a movie company had used a building (owned by one of his companies) as a set while filming an HBO special, titled Living in Your Car. He stated that the movie company paid the $12,000 to the building owner, which was a numbered company, which reported the $12,000 revenue on its corporate income tax return for 2010.[64]
+[63] There was not sufficient time on April 12, 2018 for Mr. Gabriel to complete his direct examination. During the interval between the first and second days of the trial, Mr. Gabriel applied for, and obtained, leave to amend his Notice of Appeal. In his Amended Notice of Appeal, which was filed on April 25, 2019, Mr. Gabriel pleaded that Magnus Echelon Productions (“Magnus”) used 240 Lottridge Street, Hamilton to film an HBO series. He also pleaded that the property was owned by 2045054 Ontario Inc. (“204ON”), of which Mr. Gabriel was the sole shareholder. Mr. Gabriel further pleaded that Magnus paid the $12,000 to him, which he accepted in trust for 204ON, which, in turn, recorded that amount as revenue on its 2010 corporate return. In addition, Mr. Gabriel pleaded that, upon learning, during the audit, of the T4A slip, he called Magnus and requested that the T4A slip be reissued in the name of 204ON, but Magnus declined to do so, as too much time had elapsed.[65]
+[64] In its Reply to Amended Notice of Appeal, filed on July 30, 2019, the Crown pleaded that the $12,000 T4A slip had been issued by Park Furniture.[66] As well, the Crown pleaded no knowledge in respect of, or denied, most of the facts pleaded by Mr. Gabriel in respect of the $12,000 T4A slip.[67]
+[65] On February 20, 2024, shortly before the conclusion of Mr. Gabriel’s direct examination, on the second day of the trial, Mr. Gabriel put into evidence copies of the 2022 Interim Tax Bill (the “Tax Bill”) issued on February 1, 2022 by the City of Hamilton, and the T2 Corporation Income Tax Return of 204ON for its taxation year beginning February 1, 2009 and ending January 31, 2010.[68] The Tax Bill indicates that, on February 1, 2022, 204ON was the owner of property located at 70 Sanford Avenue North, Hamilton, which is not the property described in paragraph 63 above or in Mr. Gabriel’s Amended Notice of Appeal. The GIFI Income Statement #1 – Schedule 125 in 204ON’s tax return shows that 204ON reported revenue of $12,000; no other description of that revenue, or its source, is given in that document. On February 20, 2024, Mr. Gabriel did not give oral testimony about these two documents.
+[66] The cross-examination of Mr. Gabriel occurred on July 9, 2024. In the course of the cross-examination, Mr. Gabriel said that Magnus had used the parking lot, and not the building, of the particular property as the movie set. No explanation was given as to why he had previously said that Magnus had used the building, nor did he explain the reason for the change in his testimony.
+[67] During the cross-examination of Mr. Gabriel, counsel for the Crown did not ask any questions about the difference between the address of the movie-set property given in the Amended Notice of Appeal and the address of the property shown in the Tax Bill. Nor did counsel for the Crown ask any questions of Mr. Gabriel about the difference between his assertion that Magnus had paid the $12,000 and presumably issued the T4A slip, and the Crown’s assertion that it was actually Park Furniture that had issued the T4A slip.
+[68] The CRA auditor testified that, when she was conducting her audit in respect of Mr. Gabriel and Life Breath, she noticed that the CRA’s records showed that the CRA had (several years earlier) received a copy of a T4A slip for 2010, in the amount of $12,000, which had been issued to Mr. Gabriel. It appeared to her that Mr. Gabriel had not included the $12,000 on his 2010 individual income tax return, which led to this item being included in the Reassessment for 2010.
+[69] When the auditor testified, she stated that the $12,000 T4A slip had been issued in 2010 by Park Furniture, and not by Magnus. However, she did not produce a copy of the T4A slip. When I asked counsel for the Crown about the issuer and the whereabouts of the T4A slip, she advised that the CRA no longer has a copy of it, but it does have a digital copy of the relevant data thereon. Nevertheless, a printout of that data had not been brought to the hearing.
+[70] By the time the trial reconvened on October 17, 2024, Mr. Gabriel had further searched his memory, and had requested from the CRA a copy of the T4A slip. On October 17, 2024, Mr. Gabriel acknowledged that he had previously been mistaken and that the T4A slip had, in fact, been issued by Park Furniture, and not by Magnus.[69]
+[71] Consequently, Mr. Gabriel had obtained, and brought with him, a copy of the T4A slip issued by Park Furniture for the 2010 taxation year.[70] The slip showed that, in 2010, Park Furniture had paid, to Mr. Gabriel, $12,000, which had been categorized as self-employed commissions.[71] The slip also showed that $6,000 of income tax had been deducted from that payment.
+[72] Mr. Gabriel produced a copy of his Statement of Business or Professional Activities (Form T2125), for 2010.[72] This form reports (among other things) the amount of $12,000, described as “Income reported on T4A slips”. In addition, he also produced a Statement of Pension, Retirement, Annuity, and Other Income for 2010, which shows, in box 020, $12,000 of self-employed commissions, and, in box 022, $6,000 of income tax deducted.[73]
+[73] Mr. Gabriel also produced a copy of the first page of his Notice of Reassessment, which the CRA had issued to him for the 2010 taxation year.[74] That notice showed, under the heading “Federal tax credits”, the amount of $6,000, which was described on the notice as “Income tax deducted”.
+[74] In addition, Mr. Gabriel produced a copy of a form titled “Income Tax Return Information – Regular” (Form RC143), which had been issued by the CRA for 2010, and which showed, on line 437, the amount of $6,000, described as “Total tax deducted per information slips”.[75] Mr. Gabriel testified that the only amount of income tax deducted from his remuneration in 2010 was the $6,000 that had been deducted by Park Furniture from the $12,000 payment that was the subject of the above T4A slip.[76]
+[75] The above Form RC143 shows that the date of assessment was June 13, 2011, which was the date of the CRA’s initial assessment. Line 104 on Form RC143 shows “Other employment income” in the amount of $15,660. That amount is large enough to include the $12,000 that is the subject of the T4A slip issued by Park Furniture.
+[76] As a result of the analysis of Exhibits A-61 and A-64, which did not occur until the fifth day of the trial, I am now satisfied that Mr. Gabriel did report on his 2010 income tax return, the amount of $12,000 that Park Furniture had paid to him as a management fee in that year.
+E. Penalties
+[77] The Minister assessed penalties under subsection 163(2) of the ITA for 2010 and 2011. By reason of the conclusion that I have reached in respect of the shareholder benefit issue and the T4A slip issue, the penalties in respect thereof are cancelled.
+[78] The Crown has the burden of proof in respect of the penalty pertaining to the real estate commission in the amount of $3,543. The Crown has not satisfied me that Mr. Gabriel was grossly negligent or wilfully blind in failing to report the commission. Mr. Gabriel genuinely and honestly believed that he had received the commission in trust for Mr. McColl. He may have been unaware of the legal principles pertaining to the arrangement that he had with Mr. McColl, but that did not constitute gross negligence or wilful blindness.
+V. CONCLUSION [79] The Appeal for 2010 is allowed and the Reassessment for 2010 is referred back to the Minister for reconsideration and reassessment on the basis that:
+a)the amount of $157,247, which was assessed as a shareholder benefit or a shareholder appropriation, and the amount of $12,000, which was assessed in respect of the above-mentioned T4A slip, are not to be included in computing Mr. Gabriel’s income for 2010; and
+b)the penalty assessed under subsection 163(2) of the ITA is cancelled.
+[80] For greater certainty, the real estate commission in the amount of $3,543 was properly included in Mr. Gabriel’s income for 2010.
+[81] The Appeal for 2011 is allowed. For greater certainty:
+a)the amount of $51,824, which was assessed as a shareholder benefit or a shareholder appropriation, is not to be included in computing Mr. Gabriel’s income for 2011; and
+b)the penalty assessed under subsection 163(2) of the ITA is cancelled.
+[82] As success is divided, I am not inclined to award costs to, or against, either party.
+Signed at Ottawa, Canada, this 19th day of December 2024.
+“Don R. Sommerfeldt”
+Sommerfeldt J.[77] SCHEDULE
+Calculation of Shareholder Appropriations
+2010
+Description
+Debit
+Credit
+2011
+Description
+Debit
+Credit
+January
+TD Bank
+$ 1,053.30
+January
+TD Bank
+10,000.00
+February
+TD Bank
+1,053.30
+February
+TD Bank
+10,000.00
+March
+TD Bank
+10,000.00
+April
+TD Bank
+1,053.30
+April
+TD Bank
+10,000.00
+April
+TD Bank
+33,440.42
+April
+TD Bank – from Econo
+$ 14,000.00
+May
+TD Bank
+1,053.30
+June
+TD Bank
+1,053.30
+July
+TD Bank
+1,053.30
+July
+TD Bank – from Econo
+25,800.00
+August
+TD Bank
+1,053.30
+August
+10500/econo-balance a loan from someone
+15,720.00
+August
+TD Bank - from Econo
+8,000.00
+September
+TD Bank
+1,053.30
+September
+TD Bank
+3,700.00
+September
+TD Bank – from Econo
+1,925.00
+October
+TD Bank
+1,053.30
+October
+TD Bank – from Econo
+6,800.00
+November
+TD Bank
+1,053.30
+December
+TD Bank
+1,053.30
+December
+TD Bank – from Econo
+15,000.00
+December
+Patrick wages
+_______________
+48,000.00
+_______________
+$ 88,726.72
+$ 135,245.00
+January
+TD Bank
+$ 1,053.30
+February
+TD Bank
+1,053.30
+March
+TD Bank
+1,053.30
+April
+TD Bank
+1,053.30
+May
+TD Bank
+1,053.30
+May
+TD Bank – 4500 Econo
+$ 6,500.00
+June
+TD Bank
+1,053.30
+June
+TD Bank
+1,904.60
+July
+TD Bank
+1,053.30
+July
+TC Bank
+24,000.00
+December
+Patrick wages
+_______________
+4,000.00
+_______________
+$ 33,277.70
+$ 10,500.00
+CITATION:
+2024 TCC 166
+COURT FILE NO.:
+2016-467(IT)G
+STYLE OF CAUSE:
+PATRICK GABRIEL v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Hamilton, Ontario
+DATES OF HEARING:
+April 12, 2018, February 20, 2024 and July 9‑10, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+December 19, 2024
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gregory B. King
+Jennifer Goodhart
+Sam Perlmutter
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+c
+Firm:
+Blank / En blanc
+For the Respondent:
+Shalene Curtis‑Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Signed pursuant to a written request and authorization issued by Chief Justice St-Hilaire under section 16 of the Tax Court of Canada Act.
+[2] Income Tax Act, RSC 1985, c. 1 (5th Supplement), as amended.
+[3] At the commencement of the trial, counsel for the Crown said that this amount should be $29,018. See Transcript, vol. 1 (April 12, 2018), p. 5, lines 23-26; and p. 6, lines 11-14.
+[4] The Crown filed its initial Reply on May 6, 2016. On July 30, 2019, the Crown filed a Reply to Amended Notice of Appeal. Subparagraphs (a) to (j) above paraphrase and summarize the assumptions of fact set out in subparagraphs 14(a) to (j) of the Reply to Amended Notice of Appeal. As well, subparagraph (k) above paraphrases arguments made by the Crown in paragraphs 19 and 20 of the Reply to Amended Notice of Appeal.
+[5] Transcript, vol. 1, p. 99, lines 1-4.
+[6] Transcript, vol. 1, p. 65, lines 11-15.
+[7] Transcript, vol. 1, p. 62, line 19 to p. 63, line 3.
+[8] Transcript, vol. 1, p. 63, line 3 to p. 64, line 10; p. 71, line 4 to p. 72, line 1; and Exhibit R-1, tab 16.
+[9] Exhibit A-4. “GIFI” is an acronym for “General Index of Financial Information”.
+[10] See Reply, p. 2, ¶8(c)(ii).
+[11] Exhibit R-1, Tab 28.
+[12] Transcript, vol. 1, p. 70, lines 12-17; and p. 70, line 20 to p. 71, line 20.
+[13] Transcript, vol. 1, p. 91, line 17 to p. 94, line 20.
+[14] Transcript, vol. 1, p. 75, lines 1-17.
+[15] Transcript, vol. 1, p. 78, lines 5-25.
+[16] Exhibit R-1, Tab 2.
+[17] Transcript, vol. 1, p. 85, lines 13‑23.
+[18] Transcript, vol. 1, p. 85, line 26 to p. 86, line 1; and Exhibit R-1, tab 16, p.16 of 19, line 542.
+[19] Transcript, vol. 1, p. 86, line 8 to p.88, line 9; and Exhibit R-1, Tab 2.
+[20] Transcript, vol. 1, p. 95, lines 20-27; and p. 102, lines 8‑11.
+[21] Transcript, vol. 1, p. 101, lines 8-12.
+[22] Transcript, vol. 1, p. 106, line 1 to p. 107, line 13; and p. 108, line 5 to p. 111, line 6.
+[23] Exhibit A-6.
+[24] As explained in paragraph [12] above, in these Reasons, the sole proprietorship is generally referred to as “Econo.”
+[25] When Mr. Gabriel initially designed the payroll software, the payroll was paid by Econo, which had ample cash. Later there was a change in payer, and Park Furniture began to pay the payroll, but the entries in the statements of account continued to refer to “EconoRent.” See Transcript, vol. 1, p. 98, lines 11-26.
+[26] Exhibit A-8.
+[27] Transcript, vol. 1, p. 115, line 15 to p. 116, line 21; and Exhibit A-8, first page.
+[28] Transcript, vol. 1, p. 116, line 22.
+[29] Exhibit A-9.
+[30] Transcript, vol. 1, p. 119, line 18 to p. 120, line 8; and Exhibit A-9, first page.
+[31] Transcript, vol. 1, p. 120, line 9.
+[32] Exhibit A-5; and Transcript, vol. 1, p. 120, line 15 to p. 121, line 21.
+[33] Exhibit A-10; and Transcript, vol. 1, p. 125, lines 14-17; and p. 126, lines 1-7. In his testimony Mr. Gabriel said that the aggregate amount paid by Park Furniture on behalf of Life Breath, to the two independent contractors in 2011 was $64,134.16. As the respective amounts paid to the two independent contractors in 2011 were $29,490 and $31,644.16, I think that Mr. Gabriel meant to have said that the aggregate amount was $61,134.16.
+[34] Transcript, vol. 1, p. 32, line 4 to p. 34, line 24. At another point in his testimony, Mr. Gabriel said that he made seven payments of $50,000 each, for a total of $350,000.
+[35] Transcript, vol. 1, p. 35, lines 18-23. See also Exhibit A-2.
+[36] Transcript, vol. 1, p. 35, lines 24-26. See also the GIFI balance sheet in the 2010 T2 corporate income tax return of Leading Edge; Exhibit A-1.
+[37] Transcript, vol. 1, p. 35, lines 26-28; and p. 36, lines 11-16.
+[38] Transcript, vol. 1, p. 36, lines 6-18. In that portion of his testimony, Mr. Gabriel said, “I gave the hinges to Life Breath…. I just gave them the hinges…. I took my [$]300,000 [worth of] hinges and I advanced them to Life Breath …. so Life Breath owes me an additional $300,000.” Although Mr. Gabriel used words suggesting either a gift (“I just gave them…”) or a loan and a resultant debt (“I advanced them…”), I think that the proper substantive characterization is that which I have shown above, i.e., a sale with an unpaid purchase price. Elsewhere, Mr. Gabriel indicated that he only sold hinges to Life Breath as they were needed.
+[39] Subsection 152(8) of the ITA; Johnston v. MNR, [1948] CTC 195, 3 DTC 1182 (SCC), ¶7, 19 & 25; House v. The Queen, 2011 FCA 234, ¶30‑32; Sarmadi v. The Queen, 2017 FCA 131, ¶ 19-20, 24-27, 31 & 61-63 (but see also ¶16 & 71); and Eisbrenner v. The Queen, 2020 FCA 93, ¶ 24.
+[40] Eisbrenner, ibid, ¶ 32 & 46-47.
+[41] Transcript, vol. 1, p. 36, lines 8-17; and p. 40, lines 8-10 & 18-22.
+[42] Transcript, vol. 1, p. 49, lines 5-22.
+[43] Transcript, vol. 1, p. 45, lines 7-15.
+[44] Transcript, vol. 1, p. 45, lines 16-25.
+[45] Transcript, vol. 1, p. 45, line 25 to p. 46, line 5; and p. 84, lines 8-12.
+[46] Transcript, vol. 1, p. 49, lines 22-28; and p. 84, line 12.
+[47] Transcript, vol. 1, p. 62, lines 6-7; and p. 64, line 24 to p. 65, line 5.
+[48] Transcript, vol. 1, p. 62, lines 6-21.
+[49] Transcript, vol. 1, p. 62, line 22 to p. 63, line 3.
+[50] Transcript, vol. 1, p. 63, lines 3-9.
+[51] Transcript, vol. 1, p. 64, lines 21-23; and p. 65, lines 9-11.
+[52] Transcript, vol. 1, p. 65, lines 18-22.
+[53] Transcript, vol. 1, p. 96, lines 18-24.
+[54] Transcript, vol. 1, p. 98, lines 11-26.
+[55] Gannon v. MNR, [1988] 1 CTC 2422, 88 DTC 1282 (TCC), ¶6.
+[56] Ibid, ¶9.
+[57] Rose v. MNR, [1973] CTC 74, 73 DTC 2083 (FCAD), ¶21.
+[58] Berube v. The Queen, [1994] 1 CTC 2655 (TCC), ¶19. See also The Queen v. Franklin, 2002 FCA 38, ¶7.
+[59] Houle c. Le Roi, 2023 CCI 2, ¶32. The Google translation of the above statement is: “… the Court considers that the Minister cannot conclude that a benefit was granted to a shareholder within the meaning of section 15(1) of the ITA solely by proving that, as a result of false accounting entries, the balance in the ‘Payable to Shareholder’ account was artificially increased.” The summary by Gordon Bourgard and Robert McMechan in Tax Court Practice, vol. 2, release no. 2024-1, p. 17-12.10, of the above statement is: “Evidence that false accounting entries artificially increased the balance of the ‘Payable to shareholder’ account is not sufficient to show that a benefit has been granted to a shareholder within the meaning of s. 15(1) ITA.”
+[60] Chaplin v. The Queen, 2017 TCC 194, ¶114.
+[61] This was a factor in my decision concerning costs.
+[62] Respondent’s Book of Documents, entered as Exhibit R-1, tab 2, first three pages.
+[63] Kootenay Management Consultants Ltd. v. MNR, 2019 TCC 97, ¶56. See also Franklin, supra note 58, ¶5.
+[64] Transcript, vol. 1 (April 12, 2018), p. 140, lines 15-28.
+[65] Notice of Appeal, filed April 25, 2019, second page, under the headings “Issue B” and “Material Facts”. Although this pleading is titled Notice of Appeal, it is actually an amended notice of appeal. In these reasons, to distinguish the April 25, 2019 pleading from the original Notice of Appeal, which was filed on February 10, 2016, I will use the term Amended Notice of Appeal to refer to the pleading filed on April 25, 2019.
+[66] Reply to Amended Notice of Appeal (the “Amended Reply”), filed July 30, 2019, p. 2, ¶3.
+[67] Amended Reply, ¶3-4.
+[68] Both documents were entered as a single exhibit, which was marked as Exhibit A-57.
+[69] Transcript, vol. 5 (October 17, 2024), p. 15, lines 16-23.
+[70] Exhibit A-61. See also Transcript, vol. 5 (October 17, 2024), p. 15, line 24 to p. 16, line 28.
+[71] Mr. Gabriel stated that he was paid a management fee of $1,000 per month (i.e., $12,000 per year) by Park Furniture. See Transcript, vol. 5 (October 17, 2024), p. 34, line 24 to p. 35, line 16.
+[72] Exhibit A-64.
+[73] This Statement forms part of Exhibit A-64. See Transcript, vol. 5 (October 17, 2024), p. 34, line 7 to p. 36, line 28.
+[74] This document forms part of Exhibit A-61.
+[75] This document forms part of Exhibit A-61.
+[76] Transcript, vol. 5 (October 17, 2024), p. 97, line 20 to p. 98, line 8; and p. 99, lines 2-11.
+[77] Signed pursuant to a written request and authorization issued by Chief Justice St-Hilaire under section 16 of the Tax Court of Canada Act.

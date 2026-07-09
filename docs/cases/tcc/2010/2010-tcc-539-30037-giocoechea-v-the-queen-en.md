@@ -1,0 +1,166 @@
+---
+title: "Giocoechea v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30037/index.do"
+last_modified: "2010-10-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 539"
+citation2: ""
+neutral_citation: "2010 TCC 539"
+decision_date: "2010-10-26"
+language: "en"
+item_id: "30037"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7711
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:55:06.803000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ed1eb2c4cd8644c980f34895d96e143b1b6af7e477f14efca8366462c7dad43f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Giocoechea v. The Queen
+
+- Citation: 2010 TCC 539
+- Decision date: 2010-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7711, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Giocoechea v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-26
+Neutral citation
+2010 TCC 539
+File numbers
+2008-2825(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2825(IT)I
+BETWEEN:
+JOHN GOICOECHEA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 25, 2010, at Hamilton, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act, the notice of which is dated August 30, 2007 and bears number 33771, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of October 2010.
+"Réal Favreau"
+Favreau J.
+Citation: 2010 TCC 539
+Date: 20101026
+Docket: 2008-2825(IT)I
+BETWEEN:
+JOHN GOICOECHEA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal by way of the informal procedure from a reassessment made under section 227.1 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the "Act"). The Appellant was reassessed, by a notice dated August 30, 2007, on the basis that he was a director of 2030885 Ontario Ltd. (the "Corporation") when it failed to remit to the Receiver General source deductions in respect of its employees during the 2003 and 2004 taxation years. The amount of the reassessment was $22,304.09, which included unremitted federal and provincial source deductions and premiums under the Canada Pension Plan and the Employment Insurance Act, together with interest and penalties thereon in the amounts of $5,285.02 and 1,615.49 respectively.
+[2] The Appellant takes the position that he resigned as director of the Corporation on May 3, 2004, which was more than two years prior to his being assessed under section 227.1 of the Act, that he never received notification that a section 223 certificate in respect of the Corporation's tax liability had been registered by the Canada Revenue Agency ("CRA"), and that he is not liable for the Corporation's failure to remit source deductions because he exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[3] The Respondent takes the position that the Appellant never resigned as director of the Corporation, that on or about January 26, 2006, a certificate for the amount of the Corporation's liability was registered pursuant to section 223 of the Act in the Federal Court Trial Division, that execution was returned unsatisfied by way of a nulla bona report, and that the Appellant took no positive steps to ensure that remittances were made to the Receiver General.
+Facts
+[4] The Appellant is an employee of the Ontario Liquor Board. The Corporation was incorporated on August 11, 2003 under the Ontario Business Corporations Act, R.S.O. 1990, c. B.16 (the "OBCA"). The Appellant was the sole shareholder and the sole director of the Corporation from its incorporation. The Corporation carried on the business of buying and selling used appliances until it ceased its operations in March 2004 after carrying on those operations for only five months. The Corporation obtained a franchise from Cash Converters and operated a store in Ottawa, on Carling Avenue, with five employees (three full‑time and two part‑time). The Corporation obtained small business loans from the Bank of Nova Scotia after the presentation of a business plan dated September 2, 2003, and the Corporation had a bank account with the Bank of Nova Scotia. The Corporation entered into a lease agreement with Ogilvy Realty Ltd. in respect of the leased premises situated at 2183 Carling Avenue and obtained, on September 22, 2003, an acknowledgement from the landlord confirming that any leasehold improvements performed by the tenant to the leased premises were and would remain the property of the tenant and that neither did the landlord have, nor would it have, any ownership interest in or charge on any such improvements.
+[5] The Appellant submitted as evidence an e‑mail dated February 24, 2010 from Denise Weishar, Vice‑president Franchise Relations for Cash Converters Canada, in which she states that, to the best of her recollection, the Ottawa Carling Avenue store was closed in 2004 by the Appellant as a result of financial difficulties due to the theft of inventory by staff (Exhibit A‑3).
+[6] The Appellant also submitted as part of Exhibit A‑1 two documents to support his claim that he resigned as director of the Corporation, namely:
+1. a photocopy of a document entitled "Resignation" signed by the Appellant and addressed to the Corporation and to the shareholders thereof and dated May 3, 2004, whereby the Appellant resigned as director, president and secretary of the Corporation effective as of that date;
+2. a photocopy of a page entitled "Register of Directors" of the Corporation, which indicated that the "resident address" of the Appellant was 2168 Bloomfield Drive, Oakville, Ontario, that the Appellant was appointed or elected as director on August 11, 2003, and that he ceased to be the director, president and secretary of the Corporation on May 3, 2004. The date of cessation of functions was entered manually.
+[7] The Appellant testified at the hearing and revealed that he hired the employees working at the store, that they came from another store and that they were recommended by the franchisor. The Appellant also explained how the employees' salaries were paid. The manager of the store sent reports of the hours worked by the employees to the bookkeeper, a company named 1451100 Ontario Inc. located at 112 Grace Drive, Oakville, Ontario, and owned by the president of the franchisor. The amounts owed to each employee were calculated by the bookkeeper and the bookkeeper prepared the cheques for the biweekly salary payments. The Appellant stated that he was not involved in the process and that his role consisted only in signing the pay cheques. The Appellant claims that the bookkeeper was supposed to make the payments to the Receiver General.
+[8] The Appellant further explained that the small business loans that the Corporation obtained from the Bank of Nova Scotia (approximately $150,000) were guaranteed by government and by him personally up to $40,800. According to him, this explains why the bank did not initiate collection procedures against the Corporation; the bank simply called upon the guarantors for reimbursement.
+[9] The Appellant said that as soon as he discovered the inventory problem, in January or February of 2004, he closed the store. He said that the landlord and the CRA were informed of the closing. In particular, he referred to a meeting with the CRA held in April 2004 that lasted two hours and at which the CRA examined all of the Corporation's cheques and bank statements and was provided with information concerning the location of the assets of the Corporation.
+[10] Finally, the Appellant confirmed that no other director was elected by the shareholder of the Corporation and that the Corporation was not dissolved or wound up.
+[11] Ms. Jacqueline White, a collection agent with the CRA, gave evidence on behalf of the Respondent. She stated that her mandate was to collect from the director of the Corporation the amounts owing to the Receiver General. In her testimony, she referred to the pre‑assessment letter that was sent to the Appellant in October 2005 and to the collection action taken by the CRA, namely the examination of the books and records of the Corporation in March 2004 and the garnishment of the bank account of the Corporation. She referred as well to the receipt of notice from the Bank of Nova Scotia that the loans were being called, to the fact that there were no funds available in the bank account and that the value of the assets was not sufficient to repay the loans, and to the contact made with the landlord, who stated that the assets were junk.
+[12] Ms. White further stated that the CRA never received any indication or documentary evidence that the Appellant had resigned as director of the Corporation. The Appellant's notice of objection does not contain any reference to the fact that he was not a director of the Corporation. Ms. White also mentioned that when reviewing the file she did not find any notes written by previous assessors in the period since November 26, 2003, indicating that the Appellant had resigned as director of the Corporation.
+[13] In the course of her testimony, the following documents were tendered as Exhibit R‑1:
+1. a copy of the certificate under section 223 of the Act, in the amount of $19,273.52 and dated January 26, 2006 (Tab 1), presented to the Federal Court against 2030885 Ontario Ltd.;
+2. a copy of the writ of seizure and sale in the Federal Court against 2030885 Ontario Ltd., dated January 26, 2006 (Tab 2);
+3. a copy of the sheriff's levy report of J. Manser dated October 19, 2006 (Tab 3).
+Legislation
+[14] Subsections 227.1(1) to (4) of the Act read as follows:
+227.1(1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+(2) A director is not liable under subsection (1), unless
+(a) a certificate for the amount of the corporation's liability referred to in that subsection has been registered in the Federal Court under section 223 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation's liability referred to in that subsection has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation's liability referred to in that subsection has been proved within six months after the date of the assignment or bankruptcy order.
+(3) A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+(4) No action or proceedings to recover any amount payable by a director of a corporation under subsection 227.1(1) shall be commenced more than two years after the director last ceased to be a director of that corporation.
+Analysis
+[15] The Corporation was incorporated under the OBCA and section 121 thereof determines when a director ceases to hold office, as follows:
+121.(1) A director of a corporation ceases to hold office when he or she,
+(a) dies or, subject to subsection 119(2), resigns;
+(b) is removed in accordance with section 122; or
+(c) becomes disqualified under subsection 118(1).
+(2) A resignation of a director becomes effective at the time a written resignation is received by the corporation or at the time specified in the resignation, whichever is later.
+[16] The Respondent has asserted that the Appellant, as sole director of the Corporation, could not resign, and in that regards relied, inter alia, on subsections 119(1) and (2) of the OBCA, which read as follows:
+119. (1) Each director named in the articles shall hold office from the date of endorsement of the certificate of incorporation until the first meeting of shareholders.
+(2) Until the first meeting of shareholders, the resignation of a director named in the articles shall not be effective unless at the time the resignation is to become effective a successor has been elected or appointed.
+[17] The Appellant was named as the first director in the Articles of Incorporation (the "Articles"), tendered as part of Exhibit A‑1, and was elected director of the Corporation by a resolution of the sole shareholder of the Corporation dated August 11, 2003, and was to hold office until the first annual meeting of shareholders or until his successor was elected or appointed. Pursuant to Article 3.03 of By‑law No. 1, which was confirmed by a resolution of the sole shareholder of the Corporation dated August 11, 2003, if an election of directors is not held at the proper time, i.e. at the first meeting of shareholders and at each annual meeting of shareholders or by written resolution signed by the shareholders in lieu of such meeting, the incumbent directors are to continue in office until their successors are elected.
+[18] The evidence did not reveal if and when the first annual meeting of shareholders took place, but as no successor director was elected, the Appellant continued in office in accordance with Article 3.03 of By‑law No. 1 and the shareholder resolution whereby the Appellant was elected director of the Corporation.
+[19] The reports of the Ministry of Consumer and Business Services, Companies and Personal Property Security Branch of the Province of Ontario, produced on May 26, 2005 and May 6, 2008 (Exhibit R‑1, Tabs 4 and 5) show no resignation of the Appellant as director of the Corporation. Furthermore, no evidence was produced confirming that representatives of the CRA were informed that the Appellant had resigned as director of the Corporation.
+[20] Even if the Appellant were considered to have resigned as director on May 3, 2004, the fact would remain, nevertheless, that he was the person who managed the affairs of the Corporation after May 3, 2004. At that point in time, the Corporation had no officer and no director, and the Appellant as sole shareholder was the only person who could appoint a new director. No one else could manage or administer the affairs of the Corporation. Subsection 115(4) of the OBCA contemplates the situation where all of the directors of a corporation have resigned or have been removed and deems the person who manages or supervises the management of the business to be the director of the corporation. Subsection 115(4) reads as follows:
+115. (4) Where all of the directors have resigned or have been removed by the shareholders without replacement, any person who manages or supervises the management of the business and affairs of the corporation shall be deemed to be a director for the purposes of this Act.
+[21] No reference was made to any specific action undertaken by the Appellant on behalf of the Corporation after May 3, 2004, but it appears reasonable to assume that some actions, albeit minimal perhaps, must have been taken by the Appellant, actions such as communicating and meeting with CRA officials to help them with the collection of the amounts due, making claims against the franchisor for the failure to remit the source deductions and against the former employees for the theft of inventory, making reports to the police and to the insurer concerning the missing inventory, taking steps with a view to the settlement of the bank debt and the landlord's and other third‑party claims, etc. Such actions could in many cases have taken several months to complete.
+[22] The Appellant has not shown that he did not take any actions on behalf of the Corporation after May 3, 2004 or that the Corporation was dormant or completely inactive. In the circumstances, I consider that the Appellant is deemed to have been a director of the Corporation after May 3, 2004 by virtue of subsection 115(4), and consequently, the two‑year limitation period in subsection 227.1(4) of the Act does not protect the Appellant from liability under the reassessment.
+[23] The requirements of paragraph 227.1(2)(a) of the Act were all met in the instant case. The CRA registered a certificate against the Corporation in the principal amount of $19,273.52 on January 26, 2006, but was unsuccessful in collecting any money; the writ of seizure and sale was issued on the same day to be executed at the Corporation's registered office at 2900 Argentia Road, Unit 14, Mississauga, Ontario, and was returned nulla bona by the sheriff on October 19, 2006.
+[24] Even if the Appellant was not notified that a certificate was registered against the Corporation and even if the writ was not executed at the right place — i.e. presumably at the store address — the certificate was nevertheless valid and executory.
+[25] The CRA was not required to proceed with collection procedures as there was no urgency in this case. However, the CRA did attempt to collect the amounts owed by the Corporation. The landlord and the bank were both contacted and they stated that they were having problems collecting their own debts. According to the landlord, the assets were junk.
+[26] The last issue in this appeal is the due diligence defence as enunciated in subsection 227.1(3) of the Act. The Appellant was the only director and the only officer of the Corporation. The Appellant was the only person authorized to sign cheques on behalf of the Corporation. He outsourced to a bookkeeper the payroll administration and exercised little supervision over the bookkeeper's activities. The mandate to the bookkeeper was obviously not clear enough. The Appellant became aware of the problem only when things went wrong for the business and when additional funding became necessary.
+[27] The Appellant has not shown that he met the standard of care that is required by subsection 227.1(3) of the Act. He took no action to prevent the bookkeeper's failure to remit source deductions on behalf of the Corporation when they were due. The due diligence actions should have been taken during the period of operation of the store instead of after its closing.
+[28] The appeal is dismissed.
+Signed at Ottawa, Canada, this 26th day of October 2010.
+"Réal Favreau"
+Favreau J.
+CITATION: 2010 TCC 539
+COURT FILE NO.: 2008-2825(IT)I
+STYLE OF CAUSE: JOHN GOICOECHEA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: February 25, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: October 26, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

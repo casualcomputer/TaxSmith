@@ -1,0 +1,433 @@
+Title: Raby c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27317/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-406-27317-raby-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-08-23
+
+# Raby c. La Reine
+
+- Citation: 2006 CCI 406
+- Decision date: 2006-08-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 857, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raby c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-08-23
+Référence neutre
+2006 CCI 406
+Numéro de dossier
+98-3187(IT)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 98-3187(IT)I
+2005-1685(IT)I
+ENTRE :
+JACQUELINE RABY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus avec les appels de Raymond Baltazar (98-3371(IT)I et 2004-1989(IT)I), Jocelyn Blanchet (98-3373(IT)I et 2004-2600(IT)I), Jacques Elie (98-3382(IT)I et 2004-2043(IT)I), Normand Elie (98-3383(IT)I et 2004-2046(IT)I) et Serge Le Guerrier (98-3393(IT)I et 2005-1686(IT)I),
+les 2 et 3 août 2005 et le 9 janvier 2006, à Montréal (Québec).
+Devant : L'honorable juge P. R. Dussault
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même et
+Serge Le Guerrier
+Avocats de l'intimée :
+Me Anne-Marie Boutin
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1986, 1989 et 1990 sont rejetés, selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour d'août 2006.
+« Pierre R. Dussault »
+Juge Dussault
+Dossiers : 98-3371(IT)I
+2004-1989(IT)I
+ENTRE :
+RAYMOND BALTAZAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus avec les appels de Jacqueline Raby (98-3187(IT)I et 2005-1685(IT)I), Jocelyn Blanchet (98-3373(IT)I et 2004-2600(IT)I), Jacques Elie (98-3382(IT)I et 2004-2043(IT)I), Normand Elie (98-3383(IT)I et 2004-2046(IT)I) et Serge Le Guerrier (98-3393(IT)I et 2005-1686(IT)I),
+les 2 et 3 août 2005 et le 9 janvier 2006, à Montréal (Québec).
+Devant : L'honorable juge P. R. Dussault
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Anne-Marie Boutin
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1989 et 1990 sont rejetés, selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour d'août 2006.
+« Pierre R. Dussault »
+Juge Dussault
+Dossiers : 98-3373(IT)I
+2004-2600(IT)I
+ENTRE :
+JOCELYN BLANCHET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus avec les appels de Jacqueline Raby (98-3187(IT)I et 2005-1685(IT)I), Raymond Baltazar (98-3371(IT)I et 2004-1989(IT)I), Jacques Elie (98-3382(IT)I et 2004-2043(IT)I), Normand Elie (98-3383(IT)I et 2004-2046(IT)I) et Serge Le Guerrier (98-3393(IT)I et 2005-1686(IT)I),
+les 2 et 3 août 2005 et le 9 janvier 2006, à Montréal (Québec).
+Devant : L'honorable juge P. R. Dussault
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Anne-Marie Boutin
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1989 et 1990 sont rejetés, selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour d'août 2006.
+« Pierre R. Dussault »
+Juge Dussault
+Dossiers : 98-3382(IT)I
+2004-2043(IT)I
+ENTRE :
+JACQUES ELIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus avec les appels de Jacqueline Raby (98-3187(IT)I et 2005-1685(IT)I), Raymond Baltazar (98-3371(IT)I et 2004-1989(IT)I), Jocelyn Blanchet (98-3373(IT)I et 2004-2600(IT)I), Normand Elie (98-3383(IT)I et 2004-2046(IT)I) et Serge Le Guerrier (98-3393(IT)I et 2005-1686(IT)I),
+les 2 et 3 août 2005 et le 9 janvier 2006, à Montréal (Québec).
+Devant : L'honorable juge P. R. Dussault
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Anne-Marie Boutin
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1986, 1989 et 1992 sont rejetés, selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour d'août 2006.
+« Pierre R. Dussault »
+Juge Dussault
+Dossiers : 98-3383(IT)I
+2004-2046(IT)I
+ENTRE :
+NORMAND ELIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus avec les appels de Jacqueline Raby (98-3187(IT)I et 2005-1685(IT)I), Raymond Baltazar (98-3371(IT)I et 2004-1989(IT)I), Jocelyn Blanchet (98-3373(IT)I et 2004-2600(IT)I), Jacques Elie (98-3382(IT)I et 2004-2043(IT)I) et Serge Le Guerrier (98-3393(IT)I et 2005-1686(IT)I),
+les 2 et 3 août 2005 et le 9 janvier 2006, à Montréal (Québec).
+Devant : L'honorable juge P. R. Dussault
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Anne-Marie Boutin
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1989 et 1990 sont rejetés, selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour d'août 2006.
+« Pierre R. Dussault »
+Juge Dussault
+Dossiers : 98-3393(IT)I
+2005-1686(IT)I
+ENTRE :
+SERGE LE GUERRIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus avec les appels de Jacqueline Raby (98-3187(IT)I et 2005-1685(IT)I), Raymond Baltazar (98-3371(IT)I et 2004-1989(IT)I), Jocelyn Blanchet (98-3373(IT)I et 2004-2600(IT)I), Jacques Elie (98-3382(IT)I et 2004-2043(IT)I) et Normand Elie (98-3383(IT)I et 2004-2046(IT)I),
+les 2 et 3 août 2005 et le 9 janvier 2006, à Montréal (Québec).
+Devant : L'honorable juge P. R. Dussault
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Anne-Marie Boutin
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1987, 1989 et 1990 sont rejetés, selon les motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour d'août 2006.
+« Pierre R. Dussault »
+Juge Dussault
+Référence : 2006CCI406
+Date : 20060823
+Dossiers : 98-3187(IT)I et 2005-1685(IT)I
+ENTRE :
+JACQUELINE RABY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 98-3371(IT)I et 2004-1989(IT)I
+ENTRE :
+RAYMOND BALTAZAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 98-3373(IT)I et 2004-2600(IT)I
+ENTRE :
+JOCELYN BLANCHET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 98-3382(IT)I et 2004-2043(IT)I
+ENTRE :
+JACQUES ELIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 98-3383(IT)I et 2004-2046(IT)I
+ENTRE :
+NORMAND ELIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossiers : 98-3393(IT)I et 2005-1686(IT)I
+ET ENTRE :
+SERGE LE GUERRIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Ces appels ont été entendus selon la procédure informelle de la Cour canadienne de l'impôt et sur preuve en partie commune.
+[2] Il s'agit d'appels de cotisations établies pour les années d'imposition 1989 et 1990 en vertu de la Loi de l'impôt sur le revenu ( « Loi » ). Seul monsieur Jacques Elie n'a pas interjeté appel de la cotisation établie pour l'année 1990. Comme il sera expliqué plus loin, certains des appelants ont reporté à d'autres années une partie du crédit d'impôt à l'investissement auquel ils estimaient avoir droit pour 1989, de sorte que les cotisations par lesquelles le report a été refusé ont aussi fait l'objet d'un appel.
+[3] L'appelante et les cinq appelants (ci-après collectivement désignés « les appelants » ) ont acquis des parts de la société C.I.D. SYSTEMS ( « C.I.D. » ) à l'automne 1989. C.I.D. se proposait de faire de la recherche scientifique et du développement expérimental. Pour 1989, tous les appelants ont réclamé la déduction d'une perte d'entreprise à peu près équivalente au montant de leur investissement ainsi qu'un crédit d'impôt à l'investissement. Le ministre du Revenu national ( « ministre » ) a refusé d'accorder la déduction de la perte d'entreprise, mais il a accordé à chacun des appelants la déduction de sa part de la perte d'une société de personnes dont il était un associé déterminé - soit un associé non actif selon l'alinéa b) de la définition d' « associé déterminé » au paragraphe 248(1) de la Loi. Cette perte d'entreprise a donc été considérée comme des « frais de placement » selon le sous-alinéa c)(ii) de la définition de cette expression au paragraphe 110.6(1) de la Loi. La conséquence de cette qualification est que ces « frais de placement » sont considérés comme faisant partie de la « perte nette cumulative sur placements » selon la définition de cette expression au paragraphe 110.6(1) de la Loi,laquelle réduit le « plafond des gains cumulatifs » défini au même paragraphe et limite ainsi la déduction pour gains en capital prévue au paragraphe 110.6(3) de la Loi, dont pouvaient se prévaloir les appelants lors de la disposition de leurs parts dans C.I.D. survenue en 1990.
+[4] Le crédit d'impôt à l'investissement réclamé par chacun des appelants en 1989 a été refusé au motif qu'ils étaient des associés déterminés au sens de l'alinéa b) de la définition d' « associé déterminé » au paragraphe 248(1) de la Loi et que l'alinéa a) du paragraphe 127(8) de la Loi exclut une dépense admissible (soit une dépense pour recherches scientifiques et développement expérimental) du calcul du crédit d'impôt à l'investissement pour un tel « associé déterminé » .
+[5] La cotisation établie à l'égard de chacun des appelants pour l'année 1989 a fait l'objet d'un appel.
+[6] Au début de 1990, les appelants ont tous disposé de leurs parts dans C.I.D. pour un montant égal à 50 % de leur investissement. Compte tenu du fait que, suivant le sous-alinéa 53(2)c)(i) de la Loi, le prix de base rajusté de leurs parts était diminué du montant de la perte dont la déduction a été accordée pour 1989, les appelants ont réalisé un gain en capital lors de cette disposition. La partie imposable du gain en capital a été ajoutée dans le calcul du revenu de chacun lorsque cela n'avait pas été fait dans la déclaration de revenu produite, et le ministre n'a pas accordé la déduction pour gains en capital, puisque celle-ci avait été limitée tel qu'il a été expliqué précédemment. De plus, le crédit d'impôt du Québec a été ajouté au revenu de chacun des appelants en vertu de l'alinéa 12(1)x) de la Loi. Tel qu'il a été mentionné plus haut, seul monsieur Jacques Elie n'a pas interjeté appel de la cotisation établie pour l'année 1990.
+[7] Certains des appelants ont déduit dans le calcul de l'impôt d'autres années le crédit d'impôt à l'investissement auquel ils croyaient avoir droit pour 1989. Puisque le crédit d'impôt à l'investissement a été refusé pour 1989, des cotisations ont été établies refusant le report du crédit à ces autres années. Ces cotisations ont également fait l'objet d'un appel. Ainsi, monsieur Jacques Elie a aussi interjeté appel des cotisations établies pour les années 1986 et 1992. Madame Jacqueline Raby a aussi interjeté appel de la cotisation établie pour l'année 1986. Monsieur Serge Le Guerrier a aussi interjeté appel de la cotisation établie pour l'année 1987.
+[8] Les faits tenus pour acquis pour établir la cotisation à l'égard de chacun des appelants pour l'année 1989 sont essentiellement les mêmes, bien que chacun des appelants ait investi un montant différent dans C.I.D., de sorte que la perte dont la déduction a été demandée et le crédit d'impôt à l'investissement réclamé diffèrent également. Ces faits sont exposés dans la Réponse à l'avis d'appel ( « Réponse » ) de chacun. À titre d'exemple, je me réfère aux alinéas a) à l) du paragraphe 29 de la Réponse dans le dossier de l'appelante Jacqueline Raby (dossier 98-3187(IT)I). Ces alinéas se lisent ainsi :
+a) La société C.I.D. SYSTEMS ( « la Société » ) a été créée le 25 août 1989;
+b) avant même que l'appelante n'adhère à la Société, la Société a conclu, en date du 24 novembre 1989 avec Zuniq Corp. ( « Zuniq » ) une entente intitulée « Contrat de services » , laquelle énonce que Zuniq effectuera des travaux décrits comme des travaux de recherche scientifique et de développement expérimental concernant le projet « CASA » ;
+c) ce même jour, le 24 novembre 1989, Zuniq a conclu une entente intitulée « Contrat de services » avec chacune des corporations suivantes : Dias Informatique Inc. ( « Dias » ), Data Age Corp. ( « Data Age » ), Zuniq Data Corp. ( « Zuniq Data » ) et Système Inar Inc., ( « Inar » ). Ces ententes énoncent que Dias, Data Age, Zuniq Data et Inar effectueront des travaux décrits comme des travaux de recherche scientifique et de développement expérimental concernant le projet « CASA » ;
+d) Zuniq a été incorporée le 25 mars 1985 avec comme objet de faire des travaux présentés comme étant de la recherche et du développement. Elle devait exécuter différents travaux et pour ce faire, diverses sociétés ont été créées;
+e) ces diverses sociétés concluent des contrats avec des corporations qui répartissent certains coûts d'après un pourcentage établi en fonction des investissements reçus de ces diverses sociétés;
+f) le promoteur-organisateur de la Société est M. Hien Vohoang ( « Vohoang » ), l'âme dirigeante de Zuniq;
+g) pour son exercice financier se terminant le 31 décembre 1989, la Société indique une perte de 1 599 572 $, dont une somme de 1 600 000 $ présentée au titre de frais de recherche selon le sous-alinéa 37(1)a)(i) de la Loi de l'impôt sur le revenu;
+h) vers la fin de l'année 1989, Diasware Inc. ( « Diasware » ) a « financé » 50% de la participation des membres de la Société;
+i) selon ce qui est indiqué dans les documents présentés au Ministre du Revenu national, le prêt, portant un taux d'intérêt de 13,5%, était remboursable par 120 paiements mensuels, soit sur une période de 10 ans commençant 1 an après la date d'investissement, soit à la fin de 1990;
+j) au début de l'année 1990, les membres de la Société ont cédé leur participation à Glenrock Investments Ltd ( « Glenrock » );
+k) les membres de la Société ne se connaissaient pas et ne travaillaient pas activement dans la Société;
+l) l'appelante est une associée qui de façon régulière, continue et importante tout au long de l'année en litige où la Société prétend exploiter habituellement son entreprise, ne prend pas une part active dans les activités de l'entreprise de la Société et n'exploite pas une entreprise semblable à celle que la Société représente exploiter au cours de cette année.
+[9] Les paragraphes 30 à 42 ont été ajoutés à la Réponse. Ils se lisent comme suit :
+30. Lors de la vente des participations, le plan d'achat offert par la prétendue Société consistait à ce que les investisseurs québécois versent une somme d'argent au comptant, représentant 50% de leur participation et que les investisseurs ontariens versent une somme d'argent au comptant, représentant environ 46% de leur participation. La différence était « financée » par la corporation Diasware.
+31. L'appelante n'avait aucune obligation envers quiconque à l'égard du montant présenté comme étant « financé » .
+32. L'appelante savait que, selon le montage présenté lors de la sollicitation, sa participation ferait l'objet d'un rachat à court terme pour le montant présenté comme étant « financé » .
+33. Le paiement dans tous les cas s'est fait par quittance de dette pour un montant représentant le montant « financé » consenti par Diasware. Le montant en question dépassait la juste valeur marchande de la participation au moment de la disposition;
+34. L'utilisation du stratagème de rachat-financement décrit ci-haut représentait, pour les promoteurs et les membres de la prétendue Société, une caractéristique essentielle de « l'abri fiscal » dont ils étaient réciproquement vendeurs et acheteurs.
+35. L'appelante avait le droit de recevoir un montant qui lui était accordé en vue de supprimer ou réduire l'effet d'une perte du fait qu'elle avait une participation dans la Société.
+36. L'appelante a bénéficié d'un mécanisme prévoyant la disposition de sa participation dans la prétendue Société et dont il est raisonnable de considérer qu'un des principaux objets consiste à tenter de la soustraire à l'application du paragraphe 96(2.4) de la Loi de l'impôt sur le revenu.
+37. L'obtention d'une réduction de son impôt à payer en vertu de la Loi de l'impôt sur le revenu est la seule raison pour laquelle l'appelante est devenue membre de la prétendue Société.
+38. La Société, Dias, Data Age, Zuniq Data, Inar, Diasware, Glenrock et Zuniq ( « les corporations du groupe Zuniq » ) ont toutes un lien de dépendance entre elles ainsi qu'avec Vohoang.
+39. Zuniq, Dias, Data Age, Zuniq Data et Inar ont toutes la même adresse postale.
+40. La prétendue Société n'avait aucune raison d'être sauf servir de véhicule qui génère des remboursements d'impôt et qui sert comme outil de financement aux corporations du groupe Zuniq.
+41. L'appelante n'avait aucune intention de former un contrat de société; l'appelante et les co-contractants n'avaient pas l'intention de travailler ensemble pour faire produire des bénéfices à la prétendue entreprise.
+42. Les activités de la prétendue Société ne comportent, dans les circonstances, aucun espoir raisonnable de profit, de sorte que la Société n'exploitait pas à cet égard une entreprise.
+[10] De façon à préciser les allégations de fait contenues dans la Réponse, les avocats de l'intimée ont produit une annexe à cette Réponse dans chacun des dossiers. En ce qui concerne madame Jacqueline Raby cette annexe se lit ainsi :
+RENSEIGNEMENTS GÉNÉRAUX RELATIFS À L'INVESTISSEMENT
+Nom de l'abri fiscal : C.I.D. Systems
+Année(s) d'imposition en appel : 1986, 1989 et 1990
+Date de souscription des parts : Inconnue (1989)
+Nombre de parts souscrites : 16
+Valeur de la souscription : 16 000 $
+Date de cession des parts : Vers février 1990
+Produit de disposition des parts : 8 000 $
+RENSEIGNEMENTS RELATIFS AU TRAITEMENT FISCAL DE L'INVESTISSEMENT
+Perte d'entreprise
+Perte d'associé passif
+C.I.I.
+Réclamé(e)
+1 16 086 $
+0 $
+3 3 159 $
+Refusé(e)
+16 086 $
+N/A
+3 159 $
+Accordé(e)
+0 $
+2 15 996 $
+0 $
+RENSEIGNEMENTS RELATIFS AU GAIN EN CAPITAL EN 1990
+Gain en capital
+Gain en capital imposable
+Déduction pour gain en capital
+Déclaré / réclamée
+0 $
+0 $
+0 $
+Révisé(e)
+8 000 $
+6 000 $
+0 $
+__________________________
+1 Ce montant inclut une perte d'opération de 15 996 $ ainsi que des frais d'intérêts de 90 $;
+2 Des frais financiers supplémentaires de 90 $ ont également été accordés;
+3 Ce crédit a été imputé de la manière suivante :
+- 2 286,79 $ en 1989;
+- 68,60 $ en 1989, (crédit supplémentaire, réduction surtaxe);
+- 803,61 $ reporté en 1986.
+[11] Au paragraphe 43 de la Réponse, les questions en litige sont énoncées dans les termes suivants :
+43. Les questions en litige sont les suivantes :
+- Est-ce qu'il existe véritablement une société et si oui, exploite-t-elle une entreprise?
+- Est-ce que l'appelante est, le cas échéant, une associée qui est commanditaire de la prétendue société, au sens du paragraphe 96(2.4) de la Loi de l'impôt sur le revenu à un moment de l'année pertinente au présent appel?
+- Est-ce que l'appelante est, le cas échéant, une associée qui de façon régulière, continue et importante tout au long de l'année visée où la prétendue société représente exploiter habituellement son entreprise, ne prend pas une part active dans les activités de l'entreprise de la prétendue société et n'exploite pas une entreprise semblable à celle que la prétendue société représente exploiter au cours de l'année visée?
+[12] Finalement, les dispositions et moyens invoqués ainsi que les conclusions recherchées par l'intimée sont indiqués aux paragraphes 44 à 48 de la Réponse, qui se lisent ainsi :
+44. Le Sous-procureur général du Canada s'appuie, entre autres, sur les articles 3, 9, 18(1)a), 37, 96, 127 et 248(1) de la Loi de l'impôt sur le revenu, L.R.C. 1985, (5e Suppl.), ch. 1, dans sa version applicable au litige. Le Sous-procureur général du Canada s'appuie en outre sur l'article 2900 du Règlement de l'impôt sur le revenu, C.R.C., 1978, c. 945, tel qu'amendé.
+45. Il soutient que, compte tenu de l'ensemble des circonstances, il n'existe pas véritablement de société exploitant une entreprise, de sorte que les dépenses et la perte en découlant, si dépenses et perte il y a, ne sont pas déductibles.
+46. Il soutient que l'appelante est, le cas échéant, une associée commanditaire au sens du paragraphe 96(2.4) de la Loi de l'impôt sur le revenu : en conséquence l'appelante est une associée déterminée au sens de l'alinéa a) de la définition de cette expression prévue par le paragraphe 248(1) de ladite Loi.
+47. Il soutient que l'appelante est aussi, le cas échéant, une associée déterminée au sens de l'alinéa b) de la définition de cette expression prévue par le paragraphe 248(1) de la Loi de l'impôt sur le revenu.
+48. Au surplus, le Sous-procureur général soutient respectueusement que l'ensemble des faits relatés ci-dessus autorise cette Cour à conclure que:
+1o l' « abri fiscal » dont il est question est un trompe-l'oeil ne donnant ouverture à aucune des déductions réclamées;
+2o l'appelante n'était pas membre d'une société au 31 décembre 1989.
+POUR CES MOTIFS, il [le Sous-procureur général] demande à cette Cour de rejeter l'appel.
+[13] Tous les appelants ont témoigné. Pour l'intimée les personnes suivantes ont témoigné :
+- Monsieur Pierre Beaupré, investisseur dans C.I.D.
+- Monsieur Michel Beaudry, vérificateur à Revenu Canada à l'époque pertinente.
+- Madame Han Nguyen, à l'époque pertinente employée de monsieur Vohoang ou de sociétés par actions qu'il contrôlait.
+- Madame Hélène Deshaies, agent des appels à l'époque pertinente.
+- Monsieur Serge Huppé, agent des appels à l'administration centrale de Revenu Canada à Ottawa à l'époque pertinente.
+- Monsieur Claude Papion, expert scientifique de l'intimée.
+[14] La convention de société de C.I.D. est d'abord intervenue entre monsieur Tom Nguyen et madame Chau H. Nguyen le 25 août 1989, ces deux personnes indiquant qu'elles habitaient à Modesto en Californie. L'article 15 de la convention précise qu'elle est régie par la Loi de la province de l'Ontario. Toutefois, selon l'article 3, l'adresse de C.I.D. est à Rosemead en Californie. Selon l'article 9.1 de la convention, monsieur Tom Nguyen est désigné secrétaire de C.I.D. (pièce I-2, onglet 3). Les deux mêmes personnes ont signé une déclaration de société à Calgary en Alberta en indiquant chacun une adresse à Calgary (pièce I-2, onglet 2).
+[15] C.I.D. est l'une des 13 sociétés en nom collectif formées par monsieur Hien Vohoang et son groupe ( « les promoteurs » ), composé notamment des membres de sa famille, pour solliciter des investisseurs pour des projets de recherche scientifique et de développement expérimental ( « R & D » ) dans le domaine de l'informatique de 1989 à 1992. Plusieurs sociétés par actions ont aussi été formées pour réaliser en sous-traitance des projets de recherche (pièces I-5 et I-8). Parmi ces sociétés on trouve notamment Zuniq Corp. ( « Zuniq » ), à laquelle C.I.D. a confié son projet de recherche CASA en sous-traitance en 1989, la société Diasware Inc. ( « Diasware » ), qui était utilisée pour le financement d'une partie de l'investissement des associés dans C.I.D. en 1989, et également la société Glenrock Investments Ltd. ( « Glenrock » ), qui a racheté en 1990 les parts que les associés de C.I.D. avaient acquises en 1989.
+[16] De septembre à décembre 1989, C.I.D. a recruté 105 associés, dont les six appelants, qui y ont investi une somme totale de 1 600 000 $ (pièce I-2, onglet 6). Chaque investisseur devenait associé de C.I.D. après avoir signé une offre de participation par laquelle il acceptait de souscrire un certain nombre de parts à 1 000 $ chacune selon les conditions de la convention de société. Cette offre de participation comporte la clause suivante : « De plus, le soussigné s'engage à participer de façon régulière, continue et importante, suivant ses compétences, aux activités de la Société et déclare qu'il est disponible pour les fins susdites » (pièce I-2, onglet 5).
+[17] Les promoteurs offraient aux investisseurs de doubler le montant de leur investissement dans C.I.D. en leur offrant d'en financer 50 %. C'est la société Diasware qui effectuait les prêts et les parts dans C.I.D. étaient données en garantie du prêt (pièce I-2, onglet 9). Les appelants ont tous témoigné avoir accepté cette offre, de sorte qu'ils n'ont eu à débourser que 50 % du montant de leur investissement. Certains des appelants auraient contracté un deuxième emprunt pour couvrir leur mise de fonds de 50 % (transcription du témoignage de monsieur Serge Le Guerrier, page 226, et transcription du témoignage de madame Jacqueline Raby, pages 242 à 244). Il semble bien que le montant emprunté par les investisseurs à Diasware était versé directement par celle-ci à C.I.D. au nom des investisseurs (pièce I-2, onglet 8, et transcription du témoignage de monsieur Michel Beaudry, vérificateur, page 84, et de monsieur Jacques Elie, page 85).
+[18] Les promoteurs avaient prévu que la société Glenrock rachèterait les parts des investisseurs pour un montant égal à 50 % de leur investissement peu après la fin du premier exercice financier de C.I.D., lequel se terminait le 31 décembre 1989. Le témoignage de l'investisseur Pierre Beaupré, des appelants Raymond Baltazar, Jacques Elie et Jocelyn Blanchet ainsi que celui de madame Han Nguyen sont très clairs à cet égard. Selon cette dernière, c'est madame Marjorie Lauger, la secrétaire de monsieur Vohoang, qui signait les formules de cession au nom de Glenrock. Les rachats ont été effectués principalement dans les premiers mois de 1990 (pièce I-2, onglet 32). Seul monsieur Le Guerrier a affirmé ne pas avoir été au courant, au moment d'investir dans C.I.D., qu'un rachat des parts était prévu. Toutefois, il a mentionné qu'il avait peut-être manqué une partie de la réunion au cours de laquelle le mécanisme de rachat aurait été expliqué (transcription du témoignage de monsieur Serge Le Guerrier, pages 213 et 214). Pour compléter le cycle financier de l'investissement dans C.I.D., le montant du prix de rachat des parts des investisseurs était utilisé pour rembourser le prêt consenti par Diasware, ce qui se faisait, semble-t-il, directement. Les investisseurs n'avaient donc qu'à payer à Diasware le montant des intérêts pour quelques mois.
+[19] Je signale qu'aucun des appelants ne connaissait les sociétés Diasware et Glenrock ni leur lien avec monsieur Vohoang, avec des proches de celui-ci ou avec des employés, telle son épouse, madame Huyen Anh Nguyen, ou sa secrétaire, madame Marjorie Lauger, qui ont signé des documents au nom de ces sociétés. Diasware avait son adresse à Calgary en Alberta, bien que son adresse postale ait été au 2035, chemin de la Côte-de-Liesse à Ville Saint-Laurent (pièces I-3 et I-4). Par ailleurs, on peut constater que Glenrock a été constituée à Dublin en Irlande en 1988 (pièce I-2, onglet 67) et que madame Huyen Anh Nguyen a, comme administratrice, signé en 1990 un changement d'adresse de son siège social, qui demeurait toutefois à Dublin. La société Aston Corporate Management Ltd., ayant une adresse sur l'île de Man, est indiquée comme « presenter » de ce changement d'adresse (pièce I-2, onglet 68). Dans une télécopie adressée au vérificateur Michel Beaudry le 16 février 1993, monsieur Hien Vohoang lui précisait que l'adresse de Glenrock était à Rosemead en Californie (pièce I-2, onglet 44). Aux fins de certaines transactions bancaires, l'adresse indiquée au dossier était à Calgary en Alberta ou au 2035, chemin de la Côte-de-Liesse à Ville Saint-Laurent (pièce I-2, onglets 57 et 59). Le nombre de sociétés par actions utilisées pour s'occuper de différents aspects de l'investissement dans C.I.D., que ce soit pour effectuer la recherche, pour offrir du financement aux investisseurs ou encore pour racheter leurs parts, et la multitude d'adresses, souvent à l'étranger, données pour ces sociétés n'étaient certainement pas des éléments destinés à favoriser la transparence des opérations.
+[20] Le projet de recherche de C.I.D. avait comme nom CASA. L'expert scientifique de l'intimée mandaté pour analyser ce projet, monsieur Claude Papion, a affirmé que le projet avait comme objectif « de mettre au point une méthodologie et un logiciel d'outil d'atelier de génie logiciel pour l'analyse orientée objet » destinés à des informaticiens pour leur permettre de bâtir des applications « dans le langage dit orienté objet » . Selon lui, il s'agissait d'un projet d'une très grande envergure qui remplissait les conditions de l'article 2900 du Règlement de l'impôt sur le revenu, de sorte qu'il s'agissait d'un projet admissible.
+[21] Lors de sa visite au 2035, chemin de la Côte-de-Liesse accompagné du vérificateur Michel Beaudry en août 1992, monsieur Papion a rencontré monsieur Vohoang et certains chercheurs, dont messieurs Sylvain Giroux et François Cloutier. Le projet CASA s'est poursuivi jusqu'en 1991 et s'est terminé sur un constat d'échec. Monsieur Papion s'est dit surpris d'apprendre que sept personnes seulement y avaient travaillé et seulement à temps partiel, soit l'équivalent, selon lui, de trois personnes/année, ce qui aurait requis, selon son estimation, un budget de recherche de 150 000 $ au total pour le travail accompli et non les 1 600 000 $ indiqués dans l'état des résultats de C.I.D. pour l'exercice de quatre mois terminé le 31 décembre 1989 soumis par chacun des appelants avec sa déclaration de revenu pour l'année 1989 (pièces I-11, I-15, I-18, I-20, I-22 et I-23). Lors de son témoignage, monsieur Papion a affirmé qu'avec un budget de 1 600 000 $ il se serait attendu à ce qu'une trentaine de personnes travaillent au projet.
+[22] La dépense de 1 600 000 $ pour frais de recherche déclarée par C.I.D. se rapporte à un contrat de services conclu avec Zuniq pour ce même montant le 24 novembre 1989. Par ce contrat, C.I.D. confiait à Zuniq les travaux de recherche scientifique et de développement expérimental reliés au projet CASA, le montant du contrat, soit 1 600 000 $, étant équivalent au total des souscriptions des associés de C.I.D. au 31 décembre 1989 (pièce I-2, onglet 13). Les paiements à Zuniq ont d'ailleurs débuté le 17 octobre 1989, avant même la signature du contrat (pièce I-2, onglet 14).
+[23] Également le 24 novembre 1989, Zuniq concluait avec les sociétés Data Age Corp., Zuniq Data, Dias Informatique Inc. et Système Inar des contrats de sous-traitance pour les travaux de recherche scientifique et de développement expérimental concernant le projet CASA (pièce I-2, onglets 15 à 18). Toutes ces sociétés par actions étaient contrôlées par monsieur Vohoang et des membres de sa famille. Compte tenu que des contrats de recherche ont aussi été donnés par d'autres sociétés en nom collectif aux mêmes sociétés par actions et que celles-ci avaient des exercices financiers différents et se donnaient des contrats l'une à l'autre, le vérificateur Michel Beaudry a affirmé qu'il n'avait pas été possible de vérifier quels avaient été les fonds qui avaient été affectés aux travaux de recherche pour un projet en particulier ni de savoir ce qui s'était réellement passé.
+[24] Il n'y a aucune preuve que les appelants ou les autres investisseurs ont été appelés à participer d'une façon quelconque aux décisions menant à l'attribution des contrats de recherche pour le projet CASA, et ce, malgré ce que dit le paragraphe 8.1 de la convention de société (pièce I-2, onglet 3). Cette disposition se lit ainsi :
+Les affaires et opérations de la Société seront gérées et administrées par les associés à la majorité des voix établie sur les parts en cours, à l'exception de celles qui, de temps à autre, pourront être expressément confiées à l'un ou plusieurs d'entre eux. Tout associé pourra à l'occasion, par procuration spéciale pour parer à une absence ou son incapacité d'agir, donner à un autre associé mandat d'agir à sa place.
+[25] Bien que le contrat pour 1 600 000 $ de travaux de recherche ait été donné par C.I.D. à Zuniq le 24 novembre 1989 et que cette société ait, le même jour, donné des contrats de sous-traitance aux autres sociétés mentionnées, les promoteurs de C.I.D. ont demandé aux investisseurs - du moins à certains d'entre eux - de signer une résolution désignant madame Sue Truong gestionnaire du projet CASA jusqu'au 31 décembre 1992. Au moins trois des appelants ont signé cette résolution. Monsieur Serge Le Guerrier l'a signée le 22 septembre 1989 (pièce A-1, onglet 5) et monsieur Normand Elie l'a signée le 30 octobre 1989 (pièce I-13). Madame Jacqueline Raby l'aurait également signée, mais son nom, sa signature et la date sont illisibles sur la copie déposée en preuve (pièce A-2, onglet 5). Quoi qu'il en soit, aucun des appelants n'a témoigné qu'il connaissait madame Truong. Bien que messieurs Normand Elie et Serge Le Guerrier aient affirmé ne pas la connaître, ils ont déclaré avoir signé le document simplement parce qu'on leur demandait de le faire.
+[26] Par ailleurs, parmi les documents déposés en preuve par monsieur Le Guerrier et madame Raby se trouve un document en date du 26 février 1990 intitulé « MÉTHODE DE GÉNIE LOGICIEL POUR LE DÉVELOPPEMENT ÉVOLUTIF D'APPLICATIONS ORIENTÉES − OBJET D'ENVERGURE Rapport de recherche scientifique et de développement expérimental selon le formulaire T661 de Revenu Canada par C.I.D. Systems et Zuniq Corp. » (pièces A-1, onglet 2 et A-2, onglet 2). Or, à la page 5 de ce document, sous le titre « PERSONNEL DIRIGEANT ET EXÉCUTANT » , on trouve le nom de cinq personnes, dont monsieur Hien Vohoang, administrateur du projet, monsieur Jean-François Cloutier, coordonnateur, et monsieur Sylvain Giroux, chercheur « senior » . Messieurs Vohoang, Cloutier et Giroux sont parmi les personnes qu'a rencontrées l'expert scientifique de l'intimée, monsieur Papion, et le vérificateur, monsieur Michel Beaudry, en août 1992. Curieusement, le nom de madame Sue Truong n'apparaît nulle part, bien qu'elle ait été désignée gestionnaire du projet CASA aux termes de la résolution mentionnée plus haut.
+[27] Tous les appelants ont témoigné sur les circonstances de leur investissement dans C.I.D. et leur participation au projet de cette société. Au-delà des aspects financiers et fiscaux, dont les détails ont déjà été relatés, plusieurs autres raisons ont été mentionnées par les appelants pour expliquer leur intérêt pour le projet. D'abord, il importe de mentionner que les recherches de monsieur Vohoang dans le domaine du génie logiciel et sa réputation de scientifique de haut niveau dans ce domaine étaient connues de plusieurs appelants dont les expériences et les activités professionnelles étaient également reliées à l'informatique à des degrés divers. Il s'agit de messieurs Jacques et Normand Elie et de monsieur Serge Le Guerrier. Ces appelants se voyaient donc dans une position que je qualifierais de « privilégiée » pour participer activement au projet CASA proposé par C.I.D. Messieurs Jacques et Normand Elie espéraient que les travaux de monsieur Vohoang leur permettraient de résoudre certains problèmes reliés au transfert d'un logiciel développé par monsieur Jacques Elie durant plusieurs années sur un ordinateur Hewlett Packard 80 vers des ordinateurs à architecture ouverte, tels les PC de IBM, et ce, grâce à une nouvelle carte graphique que monsieur Vohoang tentait de mettre au point. Monsieur Le Guerrier avait lui-même une formation et une expérience de plusieurs années dans le domaine de l'informatique, y compris la conception de logiciels et la programmation. Monsieur Baltazar estimait quant à lui que le projet était relié à ses expériences antérieures et complémentaire à ses activités professionnelles dans le domaine de l'électronique.
+[28] C'est de sources diverses que l'investisseur monsieur Pierre Beaupré ainsi que les appelants ont appris l'existence du projet de recherche scientifique et de développement expérimental de C.I.D. Ils se seraient d'abord rendus à une première réunion d'information, vraisemblablement tenue à l'hôtel Roussillon à Longueuil sur la rive sud de Montréal, où le projet leur aurait été expliqué par monsieur Vohoang et des personnes qui l'accompagnaient. Sauf quelques parents, amis ou collègues de travail de certains appelants, les personnes présentes ne se connaissaient pas et elles n'ont pas établi de liens personnels ou d'affaires par la suite.
+[29] À la suite de leur décision d'investir dans C.I.D., monsieur Beaupré, les appelants et, je présume, tous les autres investisseurs, ont reçu par la poste un certain nombre de disquettes portant sur l'apprentissage de logiciels de base, tels : J'apprends MS-DOS, Getting Started Sperry Personal Computer, WordPerfect Tutor etLotus 1-2-3 . Deux articles, le premier de J. M. Robert, W. Blach et D. Goupil intitulé « Niveau de connaissance d'un système informatique et perception des incohérences de son interface » et l'autre de Jean-Marc Robert intitulé « Apprentissage des systèmes informatiques par exploration » étaient également transmis aux investisseurs et on leur demandait de faire l'analyse des interfaces de l'un des logiciels et de remplir à cet égard un questionnaire intitulé « Fiche de participation » (pièces I-2, onglet 50, I-10, I-14, I-17, I-19, A-1, onglet 6, A-2, onglet 6).
+[30] Au début de 1992, le vérificateur Michel Beaudry a demandé à monsieur Claude Papion d'examiner, dans le but de vérifier la participation des associés au projet entrepris par C.I.D., la documentation obtenue de celle-ci (pièce I-9). Monsieur Beaudry lui aurait également donné le même mandat concernant les sociétés GET SYSTEMS et ECT SYSTEMS formées par les mêmes promoteurs.
+[31] Le 21 mai 1992, monsieur Papion faisait part de ses conclusions dans une « Note au vérificateur » (Rapport d'expert de l'intimée, pièce I-25, annexe A, onglet 1). Cette note se lit comme suit :
+1. PREAMBULE
+Dans le cadre de sociétés de recherche constituées de manière à permettre le financement de projets de recherche scientifique et de développement expérimental par le biais de l'abri fiscal, les associés sont tenus de participer, de façon convenable, aux travaux.
+Le soussigné fut invité à examiner la nature de la participation des associés aux sociétés suivantes :
+· Société CID systèmes
+· Société GET systèmes
+· Société ECT systèmes.
+2. NATURE DES PROJETS
+La Société CID systèmes a entrepris le projet CASA de mise au point d'un prototype d'une méthodologie de développement évolutif d'applications orientées-objet d'envergure qui s'inscrit donc dans le domaine du génie logiciel.
+La Société GET systèmes, de son côté, fut constituée pour entreprendre le projet SEAGEPT de développement d'un système expert d'aide à la gestion personnelle du temps, faisant appel aux principes de l'intelligence artificielle.
+La Société ECT systèmes, enfin, devait entreprendre le développement d'un système expert, appelé DAMDES, destiné à simplifier l'entretien des systèmes d'avionique tout en réduisant les coûts de maintenance et d'opération.
+3. NATURE DE LA PARTICIPATION DES ASSOCIÉS
+La documentation abondante fournie concernant la participation des associés présente les caractéristiques suivantes :
+· dans les trois cas, bien que les projets traitent de sujets fondamentalement différents les uns des autres, la documentation fournie est rigoureusement identique et sans la moindre pertinence vis-à-vis le sujet du projet sur lequel l'associé a investi des fonds,
+· chaque dossier contient un rapport annuel des activités de participation des associés pour l'année 1989;
+or, les associés n'ont été invités à prendre connaissance de la documentation préparée à leur intention qu'en 1990 ainsi qu'en fait foi le relevé de travail de plusieurs associés datés de 1990 correspondant à la période au cours de laquelle ils ont effectué leur souscription;
+· enfin, le questionnaire auquel l'associé fut invité à répondre, est identique dans les trois cas et ne fait aucune mention du sujet du projet de recherche sur lequel il est supposé contribuer.
+L'objet de cette documentation demeure donc mystérieux.
+[32] Lors de son témoignage, monsieur Papion a affirmé que c'est tout ce qu'il pouvait dire après lecture des documents qui lui avaient été remis (transcription du témoignage de monsieur Claude Papion, 3 août 2005, page 27).
+[33] En décembre 1993, monsieur Beaudry a demandé à monsieur Papion de se pencher à nouveau sur l'activité des associés de C.I.D. en fonction de la documentation que lui avait fait parvenir l'un des investisseurs, monsieur Dominique Boisvert (pièce I-2, onglet 50). Le 4 décembre 1993, monsieur Papion transmettait son évaluation à monsieur Beaudry (Rapport d'expert de l'intimée, pièce I-25, annexe A, onglet 2). Ce document se lit ainsi :
+Selon la documentation soumise par Monsieur Dominique Boisvert, les activités déployées par cette personne dans le cadre du projet CASA, entrepris par CID Systems Inc., ne correspondent pas aux objectifs poursuivis par ce projet.
+Le projet CASA avait, en effet, pour objectifs la conception et le développement d'un prototype d'une méthodologie de développement évolutif d'applications orientées objet d'envergure.
+La technologie, dans le domaine du logiciel, sur laquelle le projet reposait consistait à bâtir, en premier lieu un cadre méthodolgique [sic] pour le développement de logiciels complexes "qui ne pourraient être spécifiés intégralement dès le départ". Un tel cadre serait particulièrement attrayant dans le cas de la recherche fondamentale entreprise pour l'avancement de la science sans aucune application pratique en vue et éventuellement dans celui de la recherche appliquée. Il s'agit donc d'une tentative de développement d'un outil d'atelier de génie logiciel pour l'analyse orientée objet.
+Le projet CASA commencé en Septembre 1988,[1] se poursuivait jusqu'en Décembre 1991, se terminant sur un constat d'échec.
+Les activités auxquelles M. Dominique Boisvert a participé touchent la manipulation de logiciels élémentaires utilisés dans les institutions d'enseignement collégial lors de l'apprentissage des premiers éléments d'informatique : j'apprends MS DOS (éléments de base), Word Perfect (un système de traitement de textes répandu), teach yourself Lotus 123 (le chiffrier le plus répandu).
+De même les deux articles transmis à M. Boisvert pour fins d'analyse (Niveau de connaissance d'un système informatique et perception des incohérences de son interface par Robert J.M., Blach W. et Goupil D. ainsi que Apprentissage des systèmes informatiques par exploration par J.M. Robert) n'ont aucune relation avec le thème et les objectifs du projet CASA.
+De telles activités sont absolument sans relation avec le sujet du projet CASA et ne contribuent en rien aux travaux conduits par plusieurs universitaires recrutés pour le projet, très familiers avec les technologies sous-jacentes des logiciels examinés lors de l'étude de faisabilité. De tels logiciels exigent en outre une pleine maîtrise de la technologie informatique, de loin plus exigente [sic] que les activités de niveau "débutant" en informatique auxquelles CID Systems INC. a cru bon de convier M. Boisvert.
+La feuille d'analyse des interfaces ne correspond nullement à l'exploration de la représentation orientée objet à laquelle l'équipe de recherche se livrait.
+Cette feuille ne fait pas état d'une participation véritable à la construction en cours du prototype d'outil logiciel annoncé, en coordination avec les chercheurs assignés, pour le choix des technologies du domaine logiciel susceptibles d'être prises comme point de départ de la recherche sur le projet CASA ou encore pour orienter éventuellement le projet vers une avenue susceptible de l'éloigner de l'échec enregistré.
+[34] Interrogé par monsieur Le Guerrier sur la relation possible entre l'analyse des interfaces des logiciels connus à laquelle se sont livrés les investisseurs grâce au questionnaire que les promoteurs leur ont demandé de remplir et le projet CASA, monsieur Papion a réitéré sa conclusion selon laquelle il n'y avait aucune relation entre les deux, puisque le projet CASA était un projet de génie logiciel. Monsieur Papion s'est d'abord référé à la notion de « génie logiciel » que l'on trouve au paragraphe 6.10(6) de la Circulaire d'information 86-4R2 « Recherches scientifiques et développement expérimental » en date du 29 août 1988. Ce paragraphe se lit comme suit :
+Le génie logiciel comprend l'étude, au sens de la recherche pure ou appliquée, des méthodes à suivre pour concevoir, mettre en oeuvre et éprouver des logiciels et en évaluer le rendement. Les progrès technologiques dans ce domaine consistent à faire avancer les méthodes requises pour créer des programmes informatiques plus souples, plus efficaces, plus fiables et plus faciles à entretenir.
+[35] Monsieur Papion a poursuivi dans les termes suivants, que l'on trouve aux pages 45 et 46 de la transcription de son témoignage :
+Alors j'insiste sur le fait que pour le travail que je devais faire d'évaluation de l'admissibilité du projet CASA, je devais m'appuyer sur le fait que le génie logiciel est aux membres de l'équipe, en particulier, monsieur Sylvain Giroux qui était un étudiant de l'Université de Montréal qui était en train de préparer son doctorat en informatique, et bien oui, il était qualifié pour faire l'étude au sens de la recherche pure ou appliquée des méthodes de travail. C'est ça le but du projet CASA. Alors cela n'a rien à voir avec l'interface. Au contraire, on voulait que les gens qui devaient contribuer au projet, eh bien, contribuent au projet sur l'analyse de ce qu'est une application orientée objet, sur la construction d'un logiciel orienté objet, d'une application, et sur la programmation éventuellement s'ils en avaient la capacité. Ce sont les trois éléments sur lesquels je m'attendais à ce que les participants puissent travailler. Ça n'a pas été le cas.
+[36] Par la suite, monsieur Papion a rejeté complètement la suggestion de monsieur Le Guerrier selon laquelle l'analyse des interfaces par les investisseurs pouvait constituer la phase préliminaire du projet CASA, s'apparentant à une étude d'opportunité ou encore à une étude de faisabilité relative au projet. Aux pages 48 et 49 de la transcription de son témoignage on peut lire ce qui suit :
+Non. Je ne peux pas accepter ça pour la simple raison qu'on est allé beaucoup plus loin. On avait déjà circonscrit les faiblesses des technologies existantes. Alors monsieur Giroux est un autre chercheur à l'emploi de Zuniq, travaillait également sur d'autres projets de d'autres sociétés et était allé très loin dans la mise en place de sa recherche sur les langages orientés objet dans sa préparation au doctorat en informatique. Par conséquent, c'était son domaine depuis le tout début. Et par conséquent, il était loin d'avoir dépassé une étude préliminaire. Il n'en était plus là.
+[37] Lors de leur témoignage, certains appelants ont affirmé avoir assisté à une seconde réunion qui se serait tenue à Laval. Il s'agit de messieurs Serge Le Guerrier, Jacques Elie et Normand Elie. Peu de détails ont été fournis à cet égard, sinon que la discussion aurait notamment porté sur les interfaces (transcription du témoignage de monsieur Jacques Elie, pages 105 à 107).
+[38] Plusieurs appelants ont affirmé avoir été disponibles pour participer au projet de C.I.D. Toutefois, malgré les appels téléphoniques que, dans le but de s'informer des étapes suivantes requérant leur participation, certains d'entre eux ont faits après avoir rempli le questionnaire sur les interfaces de l'un des logiciels de base qu'on leur avait transmis, absolument rien de concret ne leur a été proposé et, comme on le sait, tous ont disposé de leurs parts dans C.I.D. en faveur de Glenrock dans les premiers mois de 1990.
+[39] Par ailleurs, mis à part l'approbation de la nomination de madame Sue Truong comme gestionnaire du projet, comme il a été mentionné plus haut, aucun des associés n'a participé à la gestion de C.I.D. ni pris de décision concernant les activités de la société. D'ailleurs, force est de reconnaître qu'ils n'ont pu démontrer qu'ils connaissaient quelque aspect que ce soit de la gestion de la société et des décisions prises à cet égard. Les réponses données lors de leur contre-interrogatoire sont particulièrement éloquentes sur ce point.
+[40] Il importe ici d'ajouter un commentaire sur un élément particulier soulevé par monsieur Le Guerrier concernant la gestion de la société. Celui-ci a souligné le fait qu'il avait révisé et approuvé les états financiers de C.I.D. pour l'année terminée le 31 décembre 1989 (pièce A-1, onglet 5, dernière page). En fait, la déclaration approuvant les états financiers a été signée par monsieur Le Guerrier le 12 avril 1990. Or, celui-ci avait déjà disposé de ses parts dans C.I.D. le 24 janvier 1990, à la suite de l'offre reçue de Glenrock (pièce A-1, annexe A - Historique sommaire des actions et interventions). C'est donc deux mois et demi après avoir cessé d'être associé de C.I.D. que monsieur Le Guerrier a signé le document qu'on lui avait présenté approuvant les états financiers de C.I.D. au 31 décembre 1989.
+[41] En résumé, la prépondérance de la preuve tend à établir les faits suivants :
+- Les appelants, en tant qu'associés, n'ont pas participé au projet de recherche de C.I.D. Il n'a nullement été démontré que l'analyse des interfaces de logiciels connus à laquelle les appelants se sont livrés à la demande des promoteurs avait un lien quelconque avec le projet CASA. Comme l'a souligné l'expert scientifique de l'intimée, monsieur Claude Papion, cet exercice de niveau débutant, le même d'ailleurs que celui qui aurait été fait relativement à trois projets de recherche différents, n'avait en réalité aucune relation avec le travail des chercheurs nommés affectés au projet CASA, qui avaient depuis longtemps dépassé cette étape. Ma conclusion à cet égard est que cette seule activité à laquelle ont été conviés les associés de C.I.D. était destinée à donner l'illusion d'une participation active aux activités de la société, d'ailleurs fort limitées étant donné le contrat de sous-traitance octroyé à Zuniq pour le projet de recherche CASA et les contrats octroyés simultanément par Zuniq à des sociétés par actions liées pour effectuer la recherche dans le cadre de ce projet. Aucun des appelants n'a participé aux décisions menant à l'octroi de ces contrats. Dans ce contexte, la résolution désignant madame Sue Truong comme gestionnaire du projet CASA apparaît comme un leurre destiné à donner l'illusion d'une participation des associés à la gestion de C.I.D. Dans l'ensemble des documents présentés en preuve on ne peut rien trouver qui puisse établir un rôle quelconque de madame Truong relatif au projet CASA.
+- Au-delà des aspects reliés à la recherche, aucun des appelants n'a non plus participé à la gestion de C.I.D., que ce soit au point de vue financier ou autrement. D'ailleurs, lors de leur contre-interrogatoire, tous les appelants ont du admettre n'avoir aucune connaissance des aspects administratifs des activités de C.I.D. ou de la gestion de celle-ci. À cet égard, l'approbation des états financiers par certains associés après qu'ils eurent cédé leurs parts ne peut certainement pas être considérée comme un indice de participation active aux activités de la société.
+- Tous les appelants ont vendu leurs parts dans C.I.D. à Glenrock au cours des premiers mois de 1990 selon un mécanisme prévu d'avance par les promoteurs et dont ils n'ont aucunement négocié les termes. Le prix d'achat, fixé à 50 % du montant de l'investissement de chacun, était destiné et a servi à rembourser un prêt consenti par Diasware d'un montant équivalent, ce qui avait pour effet de doubler les avantages fiscaux escomptés.
+[42] Les hypothèses de fait retenues pour établir les cotisations pour l'année 1989 sont que C.I.D. a été validement formée et qu'elle a exploité une entreprise, mais que les appelants étaient des associés déterminés au sens de l'alinéa b) de la définition d' « associé déterminé » au paragraphe 248(1) de la Loi. À cette époque, cette définition se lisait ainsi :
+« associé déterminé » s'entend, dans un exercice financier ou une année d'imposition, selon le cas, d'une société, de tout associé qui :
+a) soit est commanditaire ou assimilé de la société, au sens du paragraphe 96(2.4), à un moment de l'exercice ou de l'année,
+b) soit, de façon régulière, continue et importante tout au long de la partie de l'exercice ou de l'année où la société exploite habituellement son entreprise :
+(i) ne prend pas une part active dans les activités de la société, sauf dans celles qui ont trait au financement de l'entreprise de la société, ou
+(ii) n'exploite pas une entreprise semblable à celle que la société exploitait au cours de l'exercice ou de l'année, sauf à titre d'associé d'une société.
+[43] Compte tenu de la conclusion à laquelle j'en suis arrivé, à savoir que les appelants n'ont pas participé au projet de recherche CASA ni à l'administration ou à la gestion de C.I.D., je suis forcé de conclure qu'ils n'ont pas pris une part active dans les activités de C.I.D. d'une façon régulière, continue et importante au cours des quatre mois de son exercice financier terminé le 31 décembre 1989. Les conséquences d'une telle conclusion sont conformes aux cotisations établies dont les détails sont exposés aux paragraphes 3 à 7 des présents motifs de jugement.
+[44] De façon subsidiaire, l'intimée soutient que chacun des appelants était un associé déterminé au sens de l'alinéa a) de la définition d' « associé déterminé » au paragraphe 248(1) de la Loi,soit un associé qui est « commanditaire ou assimilé » de la société.
+[45] La définition d'un associé « commanditaire ou assimilé » se trouve au paragraphe 96(2.4) de la Loi. L'alinéa 96(2.4)b) de la Loi prévoit qu'un contribuable sera considéré comme un « commanditaire ou assimilé » à une date donnée si, à cette date ou dans les trois ans suivants, le contribuable ou une personne avec qui il a un lien de dépendance a le droit de recevoir un montant ou un avantage visé à l'alinéa 96(2.2)d) de la Loi, sauf les exceptions mentionnées. Selon les termes de cet alinéa, le droit de recevoir un montant ou un avantage peut être immédiat ou futur, absolu ou conditionnel, peut prendre la forme notamment d'un remboursement, d'une compensation, d'une garantie de recettes ou d'un produit de disposition et est accordé en vue de supprimer ou de réduire l'effet d'une perte dont le contribuable serait tenu en tant qu'associé de la société ou du fait qu'il a un intérêt dans la société ou qu'il en dispose.
+[46] Le mécanisme mis en place pour le rachat à court terme par Glenrock des parts de C.I.D. détenues par les associés, dont les appelants, pour un montant égal à 50 % de leur investissement a amplement été démontré, tout comme l'a été le fait que chacun des appelants en a bénéficié dès les premiers mois de 1990. J'estime que le droit de recevoir cet avantage faisait en sorte qu'on aurait pu considérer chacun d'eux comme « commanditaire ou assimilé » . La conséquence aurait alors été que la déduction de la perte aurait été tout simplement refusée par l'application de l'alinéa 96(1)g) de la Loi. Le crédit d'impôt à l'investissement aurait également été refusé par l'application de la restriction contenue à l'alinéa a) du paragraphe 127(8) de la Loi. Toutefois, comme la cotisation n'a pas été établie sur la base que chacun des appelants était un associé « commanditaire ou assimilé » , il n'y a pas lieu de poursuivre là-dessus, sinon pour souligner qu'ils ont vraisemblablement obtenu plus que ce à quoi ils avaient droit.
+[47] L'intimée soutient aussi, de façon subsidiaire, qu'il n'y avait pas de véritable société à cause notamment de l'absence d'intention d'exploiter une entreprise en commun dans le but de réaliser un bénéfice, éléments essentiels à l'existence d'une société en vertu de l'article 1830 du Code civil du Bas-Canada.
+[48] L'intimée soutient également que l'objectif du « montage financier » orchestré par les promoteurs n'était pas de permettre l'exploitation d'une entreprise, mais simplement de donner à tous les participants la possibilité de s'enrichir.
+[49] Évidemment, ces conclusions sont tirées d'hypothèses de fait complètement à l'opposé de celles retenues pour établir les cotisations en litige. J'ai à déterminer si ces cotisations sont fondées en vertu des hypothèses de fait retenues pour les établir et du droit applicable. Ceci étant fait, j'estime qu'il n'est pas nécessaire que je me prononce sur la question de savoir si C.I.D. était une véritable société ou si elle exploitait une véritable entreprise; en même temps, je souligne qu'il m'apparaît quelque peu incongru que l'on puisse, au nom de l'intimée, plaider à la fois une chose et son contraire. Je ne suis pas convaincu que le paragraphe 152(9) de la Loi permette d'aller aussi loin. En tout état de cause, j'estime que les cotisations telles qu'elles ont été établies sont bien fondées.
+[50] En terminant, je tiens à mentionner que les appelants ont adressé de nombreux reproches à Revenu Canada au sujet du traitement de leur dossier et même, plus généralement, au sujet de la gestion des dossiers de R & D. L'un des reproches les plus importants concerne les retards, que d'aucuns considèrent comme excessifs et inacceptables dans les circonstances. Les appelants demandent donc à la Cour l'annulation des intérêts dans l'hypothèse où leurs appels seraient rejetés.
+[51] Comme je l'ai fait lors de l'audience, je rappelle que l'annulation des intérêts relève du pouvoir discrétionnaire conféré au ministre par le paragraphe 220(3.1) de la Loi. La Cour canadienne de l'impôt n'a aucun pouvoir à cet égard, sa compétence se limitant à déterminer le bien-fondé d'une cotisation. Si un contribuable qui s'est adressé au ministre pour faire annuler les intérêts est insatisfait de la décision rendue, il peut formuler une demande de contrôle judiciaire en Cour fédérale.
+[52] En conséquence de ce qui précède, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 23e jour d'août 2006.
+« Pierre R. Dussault »
+Juge Dussault
+RÉFÉRENCE :
+2006CCI406
+Nos DES DOSSIERS DE LA COUR :
+98-3187(IT)I, 2005-1685(IT)I, 98-3371(IT)I, 2004-1989(IT)I, 98-3373(IT)I, 2004-2600(IT)I, 98-3382(IT)I, 2004-2043(IT)I,
+98-3383(IT)I, 2004-2046(IT)I,
+98-3393(IT)I, 2005-1686(IT)I.
+INTITULÉS DES CAUSES :
+Jacqueline Raby, Raymond Baltazar, Jocelyn Blanchet, Jacques Elie, Normand Elie et Serge Le Guerrier
+c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATES DE L'AUDIENCE :
+les 2 et 3 août 2005 et
+le 9 janvier 2006
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P. R. Dussault
+DATE DU JUGEMENT :
+le 23 août 2006
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocats de l'intimée :
+Me Anne-Marie Boutin
+Me Dany Leduc
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il s'agit manifestement d'une erreur puisque C.I.D. a été formée le 25 août 1989 (pièce I-2, onglet 3).

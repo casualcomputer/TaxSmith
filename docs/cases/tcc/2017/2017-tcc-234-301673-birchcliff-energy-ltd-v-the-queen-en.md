@@ -1,0 +1,619 @@
+---
+title: "Birchcliff Energy Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/301673/index.do"
+last_modified: "2017-11-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 234"
+citation2: ""
+neutral_citation: "2017 TCC 234"
+decision_date: "2017-11-24"
+language: "en"
+item_id: "301673"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7819
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:06:02.509000+00:00"
+cases_cited_count: 7
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9dea52deb17d5f057beeb6ffe9c182c19d3ff640d0695bca5df41cbe7574c067"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Birchcliff Energy Ltd. v. The Queen
+
+- Citation: 2017 TCC 234
+- Decision date: 2017-11-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7819, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Birchcliff Energy Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-11-24
+Neutral citation
+2017 TCC 234
+File numbers
+2012-1087(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1087(IT)G
+BETWEEN:
+BIRCHCLIFF ENERGY LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the Appellant:
+Patrick Lindsay
+Jean-Philippe Couture
+Counsel for the Respondent:
+Robert Carvalho
+Neva Beckie
+Jonathan Wittig
+JUDGMENT
+In accordance with the attached reasons for judgment, the appeal from the reassessment made under the Income Tax Act for the 2006 taxation year is dismissed with costs to the Respondent.
+Signed at Ottawa, Ontario, this 24th day of November 2017.
+“Gaston Jorré”
+Jorré J.
+Citation: 2017 TCC 234
+Date: 20171124
+Docket: 2012-1087(IT)G
+BETWEEN:
+BIRCHCLIFF ENERGY LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Jorré J.
+Introduction[1] [1] This is primarily, but not exclusively, a case about the general anti‑avoidance rule (GAAR).
+[2] Veracel Inc. was incorporated in 1994; its business was to develop, manufacture and market automated medical diagnostic instruments. It ran into difficulties and filed a proposal under the Bankruptcy and Insolvency Act in 2002; the proposal was accepted and carried out. It ceased its medical business in 2002.
+[3] Birchcliff was incorporated in 2004 and in February 2005 it entered into a letter agreement to purchase certain oil and gas properties for some $2.75 million.
+[4] Subsequently at the beginning of March 2005 Birchcliff entered into a letter agreement for the purchase of oil and gas properties known as the Devon properties for some $255 million.
+[5] Later in 2005 Veracel and Birchcliff amalgamated and continued using the name Birchcliff. There were many steps leading to that amalgamation including steps to obtain additional capital and resulting in the creation of Class B shares of Veracel just before the amalgamation. Those steps are set out below.
+[6] Generally, I shall refer to Birchcliff after the amalgamation as the amalgamated company.
+[7] Just before the amalgamation Veracel had various tax attributes including some $16 million in non-capital losses (business losses). In filing its 2006 tax return the Appellant claimed those non-capital losses.
+[8] The Minister of National Revenue reassessed to deny those losses leading to the dispute before the Court.
+[9] It is useful at this point to set out certain portions of the Income Tax Act (Act) relating to losses.[2] In reproducing the provisions I have deleted much of the wording that has no application here so as to highlight the essence of the provisions that are relevant to this appeal.
+[10] Firstly, there is paragraph 111(1)(a) as well as subsection 111(5):
+Losses deductible
+111(1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such portion as the taxpayer may claim of the taxpayer’s
+Non-capital losses
+(a) non-capital losses for the 10 taxation years immediately preceding and the 3 taxation years immediately following the year;
+. . .
+Idem
+(5) Where, at any time, control of a corporation has been acquired by a person or group of persons, no amount in respect of its non-capital loss . . . for a taxation year ending before that time is deductible by the corporation for a taxation year ending after that time and no amount in respect of its non-capital loss . . . for a taxation year ending after that time is deductible by the corporation for a taxation year ending before that time . . .
+[11] Paragraph 111(1)(a), together with other provisions, permits the carryback or carryforward of unused business losses (non‑capital losses) over a period of time. Subsection 111(5) limits the ability to do so where there has been a change of control of the corporation.
+[12] Secondly, paragraph 256(7)(b) sets out rules regarding change of control when there is an amalgamation of corporations:[3]
+Acquiring control
+(7) For the purposes of subsections . . ., sections 111 . . . and this subsection,
+(a) control of a particular corporation shall be deemed not to have been acquired solely because of
+(i) the acquisition at any time of shares of any corporation by
+(A) a particular person who acquired the shares from a person to whom the particular person was related (otherwise than because of a right referred to in paragraph 251(5)(b)) immediately before that time,
+(B) a particular person who was related to the particular corporation (otherwise than because of a right referred to in paragraph 251(5)(b)) immediately before that time,
+. . .
+(ii) the redemption or cancellation at any particular time of, or a change at any particular time in the rights, privileges, restrictions or conditions attaching to, shares of the particular corporation or of a corporation controlling the particular corporation, where each person and each member of each group of persons that controls the particular corporation immediately after the particular time was related (otherwise than because of a right referred to in paragraph 251(5)(b)) to the corporation
+(A) immediately before the particular time, or
+. . .
+(b) where at any time 2 or more corporations (each of which is referred to in this paragraph as a “predecessor corporation”) have amalgamated to form one corporate entity (in this paragraph referred to as the “new corporation”),
+(i) control of a corporation is deemed not to have been acquired by any person or group of persons solely because of the amalgamation unless it is deemed by subparagraph 256(7)(b)(ii) or 256(7)(b)(iii) to have been so acquired,
+(ii) a person or group of persons that controls the new corporation immediately after the amalgamation and did not control a predecessor corporation immediately before the amalgamation is deemed to have acquired immediately before the amalgamation control of the predecessor corporation . . . (unless the person or group of persons would not have acquired control of the predecessor corporation if the person or group of persons had acquired all the shares of the predecessor corporation immediately before the amalgamation), and
+(iii) control of a predecessor corporation and of each corporation it controlled immediately before the amalgamation is deemed to have been acquired immediately before the amalgamation by a person or group of persons
+(A) unless the predecessor corporation was related (otherwise than because of a right referred to in paragraph 251(5)(b)) immediately before the amalgamation to each other predecessor corporation,
+(B) unless, if one person had immediately after the amalgamation acquired all the shares of the new corporation’s capital stock that the shareholders of the predecessor corporation, or of another predecessor corporation that controlled the predecessor corporation, acquired on the amalgamation in consideration for their shares of the predecessor corporation or of the other predecessor corporation, as the case may be, the person would have acquired control of the new corporation as a result of the acquisition of those shares, or
+(C) unless this subparagraph would, but for this clause, deem control of each predecessor corporation to have been acquired on the amalgamation where the amalgamation is an amalgamation of
+(I) two corporations, or
+(II) two corporations (in this subclause referred to as the “parents”) and one or more other corporations (each of which is in this subclause referred to as a “subsidiary”) that would, if all the shares of each subsidiary’s capital stock that were held immediately before the amalgamation by the parents had been held by one person, have been controlled by that person;
+. . .
+[13] I would note certain aspects of the rules under paragraph 256(7)(b).
+[14] There is no change of control as a result of an amalgamation unless one of subparagraph 256(7)(b)(ii) or 256(7)(b)(iii) deems such a change of control to occur.[4]
+[15] In this case, clause 256(7)(b)(iii)(B) is very important; the portion of the text that matters here is:[5]
+(7) For the purposes of . . . sections 111 . . .
+. . .
+(b) where at any time 2 or more corporations (each of which is referred to in this paragraph as a “predecessor corporation”) have amalgamated to form one corporate entity (in this paragraph referred to as the “new corporation”),
+. . .
+(iii) control of a predecessor corporation . . . is deemed to have been acquired immediately before the amalgamation by a person or group of persons
+. . .
+(B) unless, if one person had immediately after the amalgamation acquired all the shares of the new corporation’s capital stock that the shareholders of the predecessor corporation . . . acquired on the amalgamation in consideration for their shares of the predecessor corporation . . . the person would have acquired control of the new corporation as a result of the acquisition of those shares, or
+. . .
+[16] The test in subparagraph 256(7)(b)(iii) can be described as follows.
+[17] Where there is an amalgamation of two corporations, there is a deemed change of control of a predecessor corporation immediately before the amalgamation unless one of the three exceptions in clauses (A), (B) or (C) applies.
+[18] Here the only exception that can come into play is clause (B). The test must be considered in relation to each of the predecessor corporations.
+[19] The exception requires that one perform the following hypothetical exercise. One assumes that a single person, immediately after the amalgamation, acquired all the shares of the amalgamated corporation acquired by the shareholders of one particular predecessor corporation on the amalgamation. If that single person then controls the amalgamated corporation the exception applies and there is no deemed change of control of the particular predecessor corporation.
+[20] For example, suppose that predecessor companies A and B amalgamate. Let us further suppose that Mr. X acquires all the shares in the amalgamated company acquired by the shareholders of predecessor company A. If as a result Mr. X controls the amalgamated company, then there is no deemed change of control of predecessor company A immediately before the amalgamation.
+[21] On the other hand, if Mr. X acquires all the shares in the amalgamated company acquired by the shareholders of predecessor company A and Mr. X does not, as a result, control the amalgamated company then there is a deemed change of control of predecessor company A immediately before the amalgamation.
+[22] Another way of describing the rules in paragraph 256(7)(b) is:
+1. Generally, when two unrelated companies amalgamate, the Act will, in effect, deem one of the two predecessor companies to have acquired control of the other just before the amalgamation.
+2. The process of determination is carried out in the following way.
+3. One, in effect, assumes, hypothetically, that each predecessor had a single shareholder.
+4. If the shareholder of a particular predecessor has control of the amalgamated company, then that particular predecessor is deemed to have acquired control of the other predecessor just before the amalgamation.
+5. However, there is one narrow exception. If neither of the two hypothetical shareholders would have control of the amalgamated company, then there is no deemed change of control of either predecessor.[6]
+[23] One might think about this as a rule about which a predecessor company, if any, took control of the amalgamated company.
+[24] Broadly, the position of the Appellant is: Veracel decided to restart, operating a new business, acquired additional financing through the issuance of Class B shares and proceeded to amalgamate with predecessor Birchcliff.[7] Given that, at law, the rights and obligations of the predecessor corporations continue in the amalgamated company it is perfectly normal that the tax attributes of Veracel, including the losses, are available to the amalgamated company.[8]
+[25] Further, because of the number of votes in the amalgamated company acquired by the Class B shareholders, under the hypothetical test in clause 256(7)(b)(iii)(B), if a single person had acquired all the shares of the amalgamated corporation acquired by the shareholders of Veracel, that person would have had control of the amalgamated corporation. As a consequence the exception in that clause applies and there was no change of control of Veracel immediately prior to the amalgamation.
+[26] If for some reason one must ignore the shares of the amalgamated company acquired by the Class B shareholders, then a single person that acquired only the shares in the amalgamated company acquired by the Veracel shareholders, other than the Class B shareholders, would not have acquired control of the amalgamated company. As a consequence, there would be a deemed change of control of Veracel immediately prior to the amalgamation.
+[27] The Respondent makes three alternative submissions in support of the denial of the loss claimed in 2006. Summarily, they are as follows.
+[28] Firstly, the Class B shares were a sham and in applying the test for the exception in clause 256(7)(b)(iii)(B) one should disregard the Class B shares.
+[29] Secondly, in the alternative, the Class B shareholders acquired control of Veracel immediately before the amalgamation.[9]
+[30] Thirdly, in the further alternative, the Respondent submits that the general anti‑avoidance provision in section 245 of the Act applies and that the appropriate tax consequence that flows therefrom is to deny the losses.
+Facts and Findings of Facts [31] Three witnesses testified: David Tonken, Susan Mak and James Surbey. Voluminous documentation was introduced.
+[32] David Tonken is in business in Alberta.[10] He has created capital pool companies that facilitate private firms going public. He also does consulting and agreed in cross‑examination that tax monetization was a minor part of what he did. He has carried out his business activities together with his partner, Greg Matthews, for many years. Together they had a company, Cavalon Capital Partners, through which they carried out many of their activities.[11]
+[33] At some point in 2004 David Tonken received a copy of a February 24, 2004 letter from Veracel seeking proposals for use of its tax losses.[12] The letter is reproduced further below. Mr. Tonken was very excited when he received the letter; he saw this as a good opportunity because it appeared that Veracel was proceeding very professionally and had already done many things that would facilitate any transaction involving Veracel.
+[34] He and his partner became very involved with Veracel and played an important role in these transactions. There is a first transaction that they tried to arrange for Veracel. That first transaction was unsuccessful.[13]
+[35] David Tonken subsequently made the first approach to Birchcliff by phoning James Surbey.[14]
+[36] Later we will see that David Tonken and Greg Matthews received significant shares from Veracel. When asked what he did to receive the shares, Mr. Tonken stated that he and Mr. Matthews spent about a year working on the transaction and paid for about $20,000 of expenses.
+[37] Susan Mak is an employee of Olympia Trust Company. She testified as to the role of Olympia Trust in the issuance of subscription receipts for the Class B shares, as escrow agent for the proceeds of the issuance of the subscription receipts, in the issuance of the Class B shares and in the conversion of the Class B shares into common shares of the amalgamated company. There is substantial additional detail about these steps below.
+[38] James Surbey was at the relevant times the vice-president of corporate development and the corporate secretary of Birchcliff.
+[39] The parties provided the Court with the following:
+Partial Agreed Statement of Facts
+The parties agree for the purposes of the determination of the issues herein that the following facts may be accepted as evidence without further proof thereof. Numerical references in brackets refer to the relevant tab in the Agreed List of Documents.
+Veracel
+1. Veracel Inc. (“Veracel”) was incorporated on August 10, 1994 as Morphometric Technologies Inc. under the Business Corporations Act of Ontario.
+2. Veracel’s business was to develop, manufacture and market automated diagnostic instruments for medical applications (the “Medical Business”).
+3. In April 2001, the company changed its name to Veracel.
+4. On November 15, 2002, Veracel filed a proposal under the [Ontario][15] Bankruptcy and Insolvency Act that was accepted by the Ontario Superior Court of Justice. [2] On November 19, 2003, the Trustee certified that Veracel had fully performed the proposal.
+5. Veracel ceased its Medical Business in 2002. No income was earned from the Medical Business after 2002.
+6. In February 2004, Veracel solicited proposals in connection with its existing tax attributes. [4] Soon thereafter, Veracel started to work with David Tonken and Greg Matthews.
+7. On November 5, 2004, Veracel, David Tonken, Greg Matthews and Emerging Equities Inc. executed a letter agreement in connection with a proposed transaction. [5] The proposed transaction was not completed.
+8. As at the end of 2004, Veracel had the following tax attributes: non-capital losses of $16,226,489; scientific research and experimental development expenses of $15,558,003; and, investment tax credits of $1,874,979 (the “Tax Attributes”).
+9. The issued and outstanding Veracel shares, as at December 31, 2004, consisted of 10,280,461 Common Shares and 7,299,424 Class A Preference Shares. [9; 44, Exhibit B]
+10. Class A Preference shareholders were entitled to receive notice of and attend meetings, and vote at such meetings, on a 1:1 basis with holders of Common Shares. [64]
+11. Veracel shareholders included the Business Development Bank of Canada, Ontario Development Corp., AGF and HSBC. [44, Exhibit B]
+Birchcliff
+12. On July 6, 2004, Birchcliff was incorporated as 1116463 Alberta Ltd. That company changed its name to Birchcliff Energy Ltd. on September 10, 2004.
+13. On January 18, 2005, Scout Capital Corp. (“Scout”), a publicly listed company, amalgamated with the company then named Birchcliff Energy Ltd. (the “Scout Amalgamation”). The amalgamated company adopted the name Birchcliff Energy Ltd. (“Birchcliff”). When Birchcliff and Veracel amalgamated on May 31, 2005, as set out below, that company also adopted the name Birchcliff Energy Ltd. (“Amalco”).
+14. On January 19, 2005, the common shares of this newly amalgamated company were listed for trading on the TSX Venture Exchange under the trading symbol “BIR”.
+15. The Scout Amalgamation was done by way of a court approved Plan of Arrangement and involved the issuance of subscription receipts. [11]
+16. David Tonken was the President and CEO of Scout from 1998 to 2002.
+17. David Tonken is the brother of Jeff Tonken, the President and CEO of Birchcliff and of Amalco.
+Purchase of initial oil and gas property
+18. On February 14, 2005, Birchcliff entered into a letter agreement to purchase properties in the Peace River Arch area of Alberta for $2.75 million.
+19. This purchase closed on May 5, 2005.
+Agreement to purchase major oil and gas property
+20. On March 9, 2005, Birchcliff entered into a letter agreement in connection with the purchase of oil and natural gas properties in the Peace River Arch area of Alberta for $255 million (the “Devon Properties”). [14] The related purchase agreement was executed on March 29, 2005 for a purchase price of $243 million.
+21. It was anticipated that the acquisition of the Devon Properties would close on or before May 31, 2005.
+22. Birchcliff approached several financial institutions including Scotia Capital in connection with financing the acquisition of the Devon Properties.
+23. On March 29, 2005 Birchcliff and Scotia Capital signed a Commitment Letter wherein Scotia Capital committed financing in the form of a Revolving Loan in the amount of $70 million and a Bridge Loan in the amount of $149 million, to purchase the Devon Properties. [21] The Bridge Loan was never advanced.
+24. KPMG prepared a schedule of revenue and expense for the Devon Properties identifying that, in 2004, the Devon Properties generated revenue exceeding $85 million which, after the payment of royalties and operating costs, generated net profit of more than $50 million. [10]
+Veracel and Birchcliff sign a letter agreement
+25. David Tonken brought Veracel and Birchcliff together for a possible transaction. He contacted Jim Surbey at Birchcliff and discussed Veracel’s situation with him. [132, 133]
+26. On March 18, 2005, Birchcliff directors approved of entering into a purchase agreement for the Devon Properties and approved a proposed Arrangement Agreement with Veracel. [19]
+27. Negotiations between Veracel and Birchcliff included the exchange of draft agreements, and revisions to such agreements, in correspondence dated March 21, 23, and 29, 2005.
+28. On March 29, 2005, a Birchcliff press release announced that Birchcliff had entered into an acquisition agreement for the purchase of the Devon Properties for approximately $240 million. The press release described the Devon Properties and identified that the parties anticipated that the transaction would be completed by May 31, 2005. [25]
+29. John Anderson of Veracel sent a letter dated March 29, 2005 to the shareholders of Veracel regarding “Reorganization of Veracel Inc.” [24]
+30. On April 1, 2005, Birchcliff and Veracel signed a Letter Agreement. [27]
+31. On April 3, 2005, Birchcliff issued a press release announcing that Veracel and Birchcliff had signed the Letter Agreement. [39]
+32. By April 4, 2005, the new financing proposed in the letter agreement is being marketed. [34]
+Steps to implement letter agreement
+33. On April 12, 2005, Olympia Trust Company (“Olympia”) on behalf of Birchcliff advised the TSX Venture Exchange (“TSXV”) and the securities commissions in British Columbia, Alberta, Saskatchewan, Ontario and Nova Scotia that the annual and special meeting was set for May 24, 2005.
+34. On April 14, 2005, GMP Securities Ltd. signed a letter of offer to Veracel to agree to place subscription receipts. [32]
+35. On April 14, 2005, the Underwriting Agreement became effective, among Veracel and GMP Securities Ltd., as lead underwriter, Sprott Securities Inc. and Scotia Capital Inc. (collectively the “Underwriters”), with respect to an equity financing of up to $136,000,000 plus a further $10,000,000 in a separate flow-through equity financing. [42]
+36. On April 18, 2005, Veracel and Birchcliff executed the Arrangement Agreement. Exhibit A to the Arrangement Agreement is the Plan of Arrangement. [44]
+37. During April 2005, Veracel received concurrence of shareholders to proceed with the Arrangement Agreement. [40]
+Notices and approvals
+38. On April 18, 2005, Birchcliff notified the TSXV in connection with the proposed transactions. [45]
+39. On April 18, 2005, Veracel notified shareholders of a special meeting in connection with proposed transactions. [46]
+40. On April 19, 2005, Birchcliff notified the Alberta Securities Commission (“ASC”) that counsel to Birchcliff would attend the Alberta Court on April 22, 2005 to apply for an Interim Order in connection with the Plan of Arrangement.
+41. On April 21, 2005, the Veracel directors approved the Arrangement Agreement, the Private Placement, the “New Equity Financing” and other matters. [47]
+42. On April 21, 2005, the Birchcliff directors approved of the Information Circular and other matters. [48]
+43. On April 21, 2005, in accordance with the Arrangement Agreement, Birchcliff filed a Petition with the Alberta Court applying for an Interim Order directing that a shareholders meeting be called to vote on the proposed Arrangement. [49] An affidavit of Jim Surbey was filed in connection with this Petition. [52]
+44. On April 21, 2005, an MRRS Decision document was issued. [50]
+45. On April 22, 2005, the Alberta Court issued the Interim Order.
+46. A copy of the Interim Order and related documents [was] provided to the ASC by letter dated April 22, 2005.
+47. On April 22, 2005 the Information Circular was published. [51]
+48. A corporate administrator from Olympia declared, on May 5, 2005, that the Information Circular and a Proxy were mailed to each Birchcliff Shareholder on April 26, 2005 and confirmation of same was provided to the TSXV and to securities commissions in British Columbia, Alberta, Saskatchewan and Ontario.
+49. An April 25, 2005 press release announced that the Underwriters had exercised their option to sell the additional 8 million Veracel Subscription Receipts, to increase the equity financing up to $136,000,000. [54] The Underwriters’ confirmation of same was issued May 4, 2005. [68]
+50. On April 26, 2005, Birchcliff by letter applied to the Committee on Uniform Security Identification Procedures (“CUSIP”) for approval of a new CUSIP number for the Common Shares of Amalco that were to be issued in exchange for shares of Veracel and Birchcliff on the amalgamation.
+51. The new CUSIP number was issued on May 2, 2005. A specimen Amalco Common Share certificate with the new CUSIP number and a specimen Amalco Series 1 Preferred Share certificate were prepared on May 20, 2005.
+Further Veracel approvals
+52. On April 29, 2005, the shareholders and investors of Veracel met and passed the following resolutions: [56]
+a. to elect Robert Allan, John Anderson and David Tonken as directors;
+b. to issue 3,775,000 [common shares] to each of David Tonken and Greg Matthews on condition of the Arrangement closing (the “Private Placement”);
+c. to amend then terminate the Unanimous Shareholders Agreement;
+d. to authorize the Letter Agreement with Birchcliff;
+e. to approve the amendment to the articles of Incorporation to create Class B common shares;
+f. to transfer all assets to Newco in exchange for Newco shares and then to distribute those shares to Veracel shareholders;
+g. to continue to Alberta;
+h. to authorize the Arrangement Agreement with Birchcliff;
+i. to authorize the “New Equity Financing”; and
+j. to waive rights, privileges and conditions attached to Class A Preferred Shareholders.
+53. On April 29, 2005, the directors of Veracel passed the following resolutions: [55]
+a. to approve the Letter Agreement and Arrangement with Birchcliff;
+b. to transfer all assets to Newco in exchange for Newco shares and then to distribute those shares to Veracel shareholders;
+c. to authorize David Tonken and John Anderson to implement the “Arrangement”;
+d. to issue 3,775,000 [common shares] to each of David Tonken and Greg Matthews; and
+e. to authorize the “New Equity Financing”.
+54. On April 29, 2005, Veracel filed Articles of Amendment to allow for the issuance of Class B Common Shares.
+55. On April 29, 2005, Veracel share certificates were issued representing 3,775,000 [common shares] to each of David Tonken and Greg Matthews in accordance with the Private Placement. [57]
+56. On May 2, 2005, Veracel continued from Ontario to Alberta. [64]
+Financing to raise $136,000,000
+57. On May 2, 2005 Veracel completed a “Due Diligence Questionnaire” for the Underwriters regarding the transaction with Birchcliff. [61]
+58. On May 2, 2005 Birchcliff completed a “Due Diligence Questionnaire” for the Underwriters regarding the transaction with Veracel. [62]
+59. On May 4, 2005, the Subscription Receipt Indenture among Veracel, the Underwriters and Olympia became effective. [69]
+60. On May 4, 2005, the Representation Agreement between Birchcliff and the Underwriters became effective. [70]
+61. A memorandum was issued regarding the transfer of $130,500,000, to be received by the Underwriters for the sale of 32,625,000 Subscription Receipts, which provided that, once all parties and counsel agreed the closing documentation had been tabled, such funds would be wire transferred from the Underwriters’ account to Olympia’s account. [73] The other $5,500,000 was to be received from the President’s List subscribers. [67]
+62. On May 4, 2005, the Subscription Receipt financing closed and 34,000,000 Subscription Receipts were issued to 133 investors. [111]
+63. On May 4, 2005, the closing of the $136,000,000 financing was announced. [71]
+64. A Subscription Receipt Agreement was completed by each of the 133 investors [60, 80, 81] and each investor was issued a Subscription Receipt. [58, 66, 77, 78, 82]
+65. On May 4, 2005, by Treasury Order, Veracel directed Olympia to issue the Subscription Receipts. [74]
+66. On May 4, 2005, Veracel and Olympia acknowledged receipt by Olympia of $136,000,000 in aggregate from the Underwriters ($130,500,000) and from the President’s List subscribers ($5,500,000). [75, 76, 79]
+Further Birchcliff approvals
+67. On May 10, 2005, Birchcliff warrant holders and stock option holders approved the Arrangement and the Arrangement Agreement. [84, 85]
+68. On May 16, 2005, Birchcliff notified the ASC that Birchcliff intended to apply to the Court on May 24, 2005 for a Final Order.
+69. On May 24, 2005, the Birchcliff shareholders’ meeting was held and Olympia, as scrutineer, issued a report identifying that holders of more than 50% of the outstanding shares of Birchcliff attended the meeting in person or by proxy and that 100% of the 54 votes cast were in favour of the Amalgamation and acquisition of the Devon Properties.
+Completion of the plan of arrangement and related matters
+70. On May 24, 2005, an Affidavit was sworn in support of the Final Order. [90]
+71. On May 24, 2005, the Court approved the Final Order, which provided that the Arrangement was approved and would be effective in accordance with its terms, and binding on all persons, upon the filing of the Articles of Arrangement. A copy of the Order was provided to the ASC.
+72. On May 25, 2005, Veracel directors approved of the form and allotment of the Veracel Class B Common Shares and other matters. [91]
+73. On May 25, 2005, Veracel and the Underwriters directed Olympia to deposit the $136,000,000 into Olympia’s account at the Bank of Nova Scotia. [92]
+74. On May 30, 2005, Birchcliff directors approved the filing of Articles of Amendment to create Series 1 Preferred Shares dated May 30, 2005. [95]
+75. On May 30, 2005, Articles of Amendment were filed, creating Series 1 Preferred Shares, and a Certificate of Amendment was issued by the Alberta Corporate Registrar (the “Registrar”). [96]
+76. The Series 1 Preferred Shares provided for redemption and retraction at a price equal to $1,500,000, less certain liabilities, divided by the total number of Veracel Common Shares and Veracel Class A Preference Shares outstanding prior to filing of the Articles of Arrangement. [96]
+77. On May 30, 2005, the Depositary Agreement between Veracel and Olympia became effective. [97]
+78. Veracel and Birchcliff jointly confirmed for Olympia that the redemption price for the Series 1 Preferred Shares of Amalco was $0.05969 and confirmed the exchange ratio for each holder of Veracel Common Shares and Class A Preference Shares that elected to receive Amalco Common Shares would have an exchange ratio of 1:0.01492. [114]
+79. Veracel shareholders issued Letters of Transmittal in order to elect whether to receive Amalco common shares or Amalco Series 1 Preferred Shares. [94]
+80. On May 31, 2005, Veracel and the Underwriters issued the Transaction Notice and Direction which is received by Olympia. [102, 103]
+81. On May 31, 2005, Birchcliff issued a Certificate, acknowledged by Olympia, confirming that the capital stock of Birchcliff at the close of business on May 30, 2005 continued to consist of 20,248,337 Common Shares.
+82. On May 31, 2005, Veracel issued a Certificate, confirming that the issued and outstanding Veracel shares continued to consist of 17,830,461 Common Shares and 7,299,424 Class A Preference Shares for a total of 25,129,885 outstanding shares. [108]
+83. On May 31, 2005, Articles of Arrangement were filed by Veracel and Birchcliff and the Registrar confirmed such filings.
+84. On May 31, 2005, Gordon Cameron, Werner Siemens, Larry Shaw and Jeffery Tonken signed consents to act as directors of Amalco.
+85. On May 31, 2005 John Anderson, Robert Allan, and David Tonken resigned as officers and directors of Veracel. These directors and Veracel signed mutual releases effective on the same day. [107, 109, 110]
+86. On May 31, 2005, Olympia acknowledged receipt of the Treasury Order. [116, 117]
+87. On May 31, 2005, the Underwriters were paid, and acknowledged receipt of payment [of], their fee of $6,580,475, in accordance with the Underwriters’ agreement with Veracel. [99]
+88. On May 31, 2005, Olympia received $1,031,884.87, representing the redemption price for the outstanding Amalco Series 1 Preferred Shares. [100]
+89. On May 31, 2005, Amalco filed the Articles of Arrangement [115], Final Order, Plan of Arrangement, and Articles of Amalgamation with the TSXV and the securities commissions in British Columbia, Alberta, Saskatchewan, Ontario and Quebec.
+90. On June 3, 2005, Amalco issued a press release announcing that Amalco had completed the Flow-Through Financing. [122]
+91. On June 3, 2005, Amalco issued a TSXV Bulletin announcing that Amalco shares were issued in exchange for Veracel and Birchcliff shares and identifying that the Amalco Common Shares would commence trading on the TSXV on June 6, 2005. [123]
+Reassessment and related matters
+92. The Appellant claimed a portion of the Tax Attributes in its 2006 taxation year.
+93. By Notice of Reassessment dated November 30, 2011, the Minister reassessed Birchcliff to disallow the deduction of $16,226,489 of non‑capital losses (the “Reassessment”) claimed in the 2006 taxation year.
+94. The Reassessment was based on assumptions related to allegations of sham and acquisition of control. GAAR was not a basis for the Reassessment.
+95. The Appellant filed a Notice of Objection dated December 2, 2011.
+96. By Notice of Appeal filed March 13, 2012, the Appellant appealed the 2006 taxation year to this Court.
+[40] Upon the amalgamation:
+1. Shareholders of predecessor Birchcliff received about 20 million common shares of the amalgamated company.
+2. The Class B shareholders of Veracel received 34 million common shares of the amalgamated company.
+3. Other shareholders of Veracel received about 117,000 common shares of the amalgamated company.[16]
+[41] Let us next examine certain aspects of the Class B shares.
+[42] Veracel raised funds by creating Class B shares which were sold by subscription. Subscribers received subscription receipts and, once everything was in place to complete the amalgamation at the effective time, the subscription receipts were converted to Class B shares, the two predecessor companies amalgamated and the Class B shares were then converted to shares of the amalgamated company.
+[43] This all takes place instantaneously, and in sequence, in accordance with the plan of arrangement.[17]
+[44] The arrangement was designed to ensure that the purchasers of subscription receipts were either going to acquire common shares of the amalgamated company, if everything closed as planned or, if for some reason things went wrong, they would get their money back.
+[45] They were never going to benefit from being Class B shareholders of predecessor Veracel, as such.
+[46] This is absolutely clear from the documentation. For example, one reads the following in the subscription receipt certificates:[18]
+Each Subscription Receipt entitles the Receiptholder:
+(a) any time after the Escrow Release Condition occurs at or before the Termination Time, to receive, for no additional consideration and without further action, one fully paid and non‑assessable Class B common share (“Share”) in the capital of the Corporation which will be automatically exchanged for one common share of Amalco pursuant to the Arrangement, subject to adjustment in certain circumstances as more fully described in the Indenture, together with the payment of any Special Amounts; or
+[Emphasis added.]
+[47] The subscription receipt incorporates by reference the subscription receipt indenture; the indenture has slightly different language to the same effect:[19]
+3.2 Issue of Shares
+(a) If the Escrow Release Condition occurs, the Issuance Right is deemed to have been exercised and the underlying [Class B] Shares of the Corporation, as constituted before the Effective Time, shall be and shall be deemed to be automatically issued immediately prior to the Effective Time, notwithstanding that certificates representing such Shares may not have been so issued, and the persons to whom such Shares are to be issued shall be deemed to have become the holders of record of such Shares immediately prior to the Effective time.
+(b) If the Escrow Release Condition occurs, the holder of a Subscription Receipt . . . shall automatically be entitled from and after the Effective Time a certificate representing the applicable number of Shares of Amalco and a cheque for the Special Amount, if any, without any further action on the part of the Receiptholder.[20]
+[Emphasis added.]
+[48] Article 2.3 of the indenture also says:[21]
+2.3 Receiptholder not a Shareholder
+Nothing in this Indenture or in the holding of a Subscription Receipt evidenced by a Subscription Receipt Certificate or otherwise shall confer or be construed as conferring upon a Receiptholder any right or interest whatsoever as a Shareholder, including, but not limited to, the right to vote at, to receive notice of, or to attend, meetings of Shareholders or any other proceedings of the Corporation, or the right to receive any continuous disclosure materials of the Corporation.
+[49] Finally, the plan of arrangement approved by the Court of Queen’s Bench of Alberta states:[22]
+ARTICLE 3
+ARRANGEMENT
+3.1 At the Effective Time, each of the events set out below shall occur and be deemed to occur in the sequence set out without further act or formality:
+(a) each issued and outstanding Veracel Subscription Receipt shall be, and shall be deemed to be, exchanged for one Veracel Class B Share . . .;
+(b) Veracel and Birchcliff shall be amalgamated and shall continue as one corporation and pursuant to the amalgamation of Veracel and Birchcliff:
+. . .
+(ii) the shares of Veracel and Birchcliff will be exchanged for shares of Amalco as follows:
+. . .
+B. each issued and outstanding Veracel Class B Share and all rights pertaining to the ownership thereof shall be, and shall be deemed to be, exchanged for one Amalco Common Share . . .;
+[Emphasis added.]
+[50] It is abundantly clear that anyone paying for a subscription receipt was seeking to acquire shares in the amalgamated company, a company that, as a result of the agreements entered into by predecessor Birchcliff, had already acquired some oil and gas properties and that would be on the verge of acquiring some much bigger oil and gas properties, the Devon Properties — an acquisition to be funded in large measure with the funds raised through the issuance of the Class B shares. They were in no way seeking to acquire an ownership interest in predecessor company B.
+[51] It is equally clear that the Class B shares had a very ephemeral existence.[23]
+[52] What drove the arrangement agreement, the financing raised by Veracel and the amalgamation agreement between Veracel and predecessor Birchcliff?
+[53] The Appellant’s position is that Veracel wanted to restart in the oil and gas business and, indeed, there are many references to restarting in the testimony of David Tonken.
+[54] The word “restart” is not, by itself, helpful and I think that it is useful to focus first on what was planned, agreed to and carried out by Veracel leading up to the amalgamation.
+[55] Veracel had ceased its business relating to medical diagnostics in 2002.
+[56] In the same year, it made a bankruptcy proposal that was accepted. That proposal was carried out in 2003.
+[57] Under the arrangement agreement, Veracel represented and warranted that at the time of the amalgamation it would have no assets and no employees.[24] Indeed, under that agreement Veracel agreed that it would spin off its assets to a new company, Spinco, to be owned by the original Veracel owners. The property consisted of patents, intellectual property, prototype units and files that were the result of some $40 million of expenditures that Veracel had spent in its efforts in the medical diagnostic business.[25]
+[58] At that time, it had no operating business and no one suggested that it brought knowledge or expertise in the oil and gas business.
+[59] At the amalgamation, Veracel was close to a shell. What did it bring to the amalgamation?
+[60] Firstly, it brought itself, an existing corporate entity that had been continued earlier in the same month from Ontario to Alberta. It also brought, so to speak, a clean bill of health — up‑to‑date filings, limited liabilities and, more importantly, no reason to expect material surprises as to liabilities.[26]
+[61] While predecessor Birchcliff did not need an existing corporate entity as such, the clean bill of health meant that amalgamating with Veracel was unlikely to cause problems for the amalgamated company.
+[62] Secondly, Veracel brought with it potential financing in the form of a series of contractual arrangements whereby a large number of persons had subscribed to buy the Class B shares for a total of $136 million if certain conditions were met.
+[63] As we have seen, the contractual arrangements were such that the purchaser of the subscription receipt was going to receive a common share in the amalgamated company in exchange for his Class B share of Veracel immediately after receiving those Class B shares.[27] Because of the structure of the plan of arrangement, if things fell apart and the amalgamation did not proceed, the purchaser of the subscription receipt would not receive shares in the amalgamated company nor would he receive shares in Veracel; he would simply have the money he paid returned.
+[64] Thirdly, Veracel brought to the amalgamation its tax attributes including the non‑capital losses in issue.
+[65] To summarize, Veracel brought itself to the amalgamation. It brought potentially new equity in the form of new shareholders of the amalgamated company, if and only if, everything came into place including the amalgamation itself. Finally, it brought its tax attributes.
+[66] Birchcliff, as we have already seen, brought to the amalgamation some oil and gas properties, employees and a management team. It also had an agreement to purchase much more in the way of oil and gas assets, the Devon Properties. On March 29, 2005 Birchcliff had lined up financing sufficient to complete the purchase of the Devon Properties including the $149 million bridge loan that would allow it time to raise additional equity financing, if needed.[28]
+[67] There are three letters dated March 10, 11 and 15, 2005 wherein Scotia Capital states that it is confident that Birchcliff can raise up to $150 million in new equity to finance the purchase of the Devon Properties.[29]
+[68] It is also worth noting that at that time Birchcliff had recently raised over $40 million in new equity.[30]
+[69] Given that Birchcliff was the predecessor acquiring the Devon Properties, it is evident that it could have raised new equity itself to repay the bridge loan or to avoid calling on the bridge loan.[31]
+[70] The reason why the whole arrangement for the sale of the subscription receipts and the Class B shares had to be one where the purchasers were locked in to an arrangement where they received common shares of the amalgamated company or the return of their money was that the, ­­­­­­­­­­about to close, purchase of the Devon Properties negotiated by Birchcliff was what made the subscription receipts interesting to purchasers. By itself, predecessor Veracel had no assets or plans of interest to investors.[32]
+[71] The acquisition of the Devon Properties in the Peace River Arch area of Alberta closed on the same day as the amalgamation of Birchcliff and Veracel into the new amalgamated company, May 31, 2005.
+[72] It is also worth noting that Birchcliff agreed to pay all of Veracel’s costs in carrying out the plan of arrangement.[33]
+[73] Let us now focus on what each predecessor company sought from the amalgamation.
+[74] Birchcliff did not need a corporate shell as such from Veracel and would have been perfectly capable of raising the equity financing without Veracel issuing Class B shares. Birchcliff had recently issued equity successfully and, as we have just seen, before offering the bridge loan financing by the March 29, 2005 agreement, the Bank of Nova Scotia had been advised by Scotia Capital about two weeks earlier that Scotia Capital was confident of Birchcliff’s ability to raise equity.
+[75] I have no hesitation in concluding that the benefit sought by Birchcliff from the amalgamation was to obtain the tax attributes, the losses, of Veracel.[34] It was not motivated by any other advantage of amalgamating with Veracel; there was no other benefit.
+[76] One indication of the significance of the tax attributes, the losses, is found in article 9.2(b) of the arrangement agreement[35] which provides that:
+9.2 Termination
+. . .
+(b) Notwithstanding any other rights contained herein, Birchcliff may terminate this Agreement upon written notice to Veracel if:
+. . .
+(vi) the Supreme Court of Canada renders a decision after the date hereof which makes it unlikely, in the opinion of Birchcliff, acting reasonably, that the non‑capital losses and scientific research and experimental development expenses of Veracel incurred over the previous six years, will be available to be deducted by Amalco;[36]
+[77] What did predecessor Veracel want from the transaction and what did it get from it?
+[78] What Veracel wanted is set out very clearly in a letter dated February 24, 2004.[37] That letter says:
+Re: Request for Proposal — Tax losses
+This is a request for a proposal to utilize the tax losses of Veracel Inc.
+Veracel was incorporated on August 10th, 1994 as Morphometrix Technologies Inc. under the Ontario Business Corporations Act to develop, manufacture, and market automated diagnostic instruments for medical applications.
+After several years of development work and pre-clinical trials, it was decided by the Shareholders that unless a suitable clinical development partner could be found, the Company would need to suspend operations. In December of 2002, the Company made a proposal to its creditors, which was accepted, and all debts and liabilities were satisfied in full.
+The Company is now dormant; it continues to own its intellectual property, prototype units, and data. The Company files, records, and physical embodiments are in safe storage in a suitably secure facility. The Company has no operations at this point.
+Tax losses totaling some $34.8 million including R & D carry-overs, plus $1.9 million Investment Tax credits are available and the Shareholders of the Company want proposals for utilization of these losses.
+A Data Book will be given to interested parties once the attached Confidentiality Agreement has been executed. The Shareholders request that the interested parties make proposals within fourteen days after receiving the data book, submitting the proposals to:
+Veracel Inc.
+. . .
+The Shareholders will only entertain proposals that are not contingent on utilization of the future losses and involve compensation, which includes an upfront cash component and equity in the transaction.
+The current Shareholders are prepared to continue in a role to support an arrangement and transaction that would utilize the losses.
+The Shareholders want to retain ownership of the intellectual property and the physical embodiments in order to utilize the accumulated know‑how with other suitable technology development partners. Your proposal should reflect estimates of the costs associated with the transaction and the expected time lines and the steps to be taken to complete the transaction.
+The Shareholders will select at least two parties to proceed to the next stage of due diligence and formal offer.
+Please advise soonest of your interest and execute the attached Confidentiality Agreement.
+Attachments:
+A. Preliminary Information Q & A
+B. Detail of Tax Pools
+C. Confidentiality Agreement
+Yours truly,
+Robert W. Allan,
+Chairman,
+Veracel Inc.
+[79] The letter speaks for itself. There is no suggestion in it of an interest in pursuing a new business and it is quite clear the parties are trying to monetize the losses and other tax attributes.
+[80] What did the Veracel shareholders get out of the amalgamation? Most of them got cash, although in a somewhat roundabout way.
+[81] Basically, Birchcliff proposed that under the plan of arrangement the shareholders of Veracel, other than the Class B shareholders to be created, would receive $1.5 million for all their shares of Veracel. This would amount to about 5% of each dollar of tax attribute. The shareholders would have the choice of getting this as cash or of getting this in common shares of Amalco.[38]
+[82] Part of these arrangements was that David Tonken and Greg Matthews were each to receive 3,775,000 common shares of Veracel. These shares were to be issued from treasury and where in compensation for the expenditures incurred by the two individuals on the reorganization of Veracel. Those shares were subsequently issued.
+[83] As a result, David Tonken and Greg Matthews were to share in the $1.5 million. Their 7,550,000 common shares, once issued, represented approximately 30% of the shares of Veracel (other than the Class B shares to be created).
+[84] David Tonken and Greg Matthews did not get a fee for the work they did for Veracel. They received the shares.
+[85] Veracel shareholders who wanted to cash out would receive non‑voting preferred shares of the amalgamated company. Such shareholders would receive the preferred shares unless they elected to receive common shares.[39]
+[86] The plan of arrangement further provides that “as soon as practicable” the preferred shares of the amalgamated company issued to the former Veracel shareholders were to be issued and redeemed and cheques for the redemption price sent out to the shareholders.[40]
+[87] The preferred shares of the amalgamated company were all redeemed for cash quickly.[41]
+[88] Thus the Veracel shareholders who wanted cash received their cash upon redemption of the preferred shares of the amalgamated company. They received one preferred share for every share of Veracel they had and were paid $0.05969 per preferred share of the amalgamated company.[42]
+[89] Veracel shareholders exchanged 17,287,432 of their common shares for preferred shares of the amalgamated company.[43] In addition, 7,842,453 common shares of Veracel were exchanged for common shares of the amalgamated company.
+[90] Of those 7,842,453 common shares that were exchanged for common shares of the amalgamated company, 7,550,000 belonged to David Tonken and Greg Matthews. This means that the shareholders of Veracel, at the time of the letter agreement agreeing to the plan of arrangement, chose to cash out for money over 98% of the shares of Veracel that existed at that time. The only significant shareholding of Veracel that was exchanged for common shares of Amalco was that of David Tonken and of Greg Matthews; they became shareholders after the signature of the arrangement agreement on April 18, 2005.[44]
+[91] These transactions that I have just described are not an effort by Veracel to restart a business in any usual way one might understand the term restarting a business. Veracel wanted to try to monetize its losses and other tax attributes and it did so.
+[92] With the help of David Tonken and Greg Matthews, Veracel successfully entered into and carried out the arrangements described. The original shareholders were able to obtain over $1 million for the tax attributes; some 98% of that sum was paid out in cash while the balance was paid in common shares of the amalgamated company.
+[93] For their efforts, David Tonken and Greg Matthews received common shares of the amalgamated company worth about $225,000 each at the issuance price.
+[94] The benefit from this for Birchcliff was that it obtained for the amalgamated company the tax attributes of Veracel for a comparatively modest cost.[45] It did not obtain anything else it could not have obtained more simply without the amalgamation.
+Analysis[46] Sham [95] The Respondent’s first argument is that the doctrine of sham applies and the Class B shares should be ignored.
+[96] An essential element of sham is that there must be an element of deceit. For example, in Stubart Investments Ltd. v. The Queen,[47] Justice Estey said:
+1. A sham transaction: This expression comes to us from decisions in the United Kingdom, and it has been generally taken to mean (but not without ambiguity) a transaction conducted with an element of deceit so as to create an illusion calculated to lead the tax collector away from the taxpayer or the true nature of the transaction; or, simple deception whereby the taxpayer creates a facade of reality quite different from the disguised reality. The Court of Appeal here found it unnecessary to determine whether or not the transaction was a sham. . . .
+[97] While more recent decisions further refine the definition of sham, the fact remains that a degree of deceit is nonetheless required. For example, in Antle v. Canada,[48] Justice Noël of the Federal Court of Appeal, as he then was, stated:
+20 . . . The required intent or state of mind is not equivalent to mens rea and need not go so far as to give rise to what is known at common law as the tort of deceit . . . . It suffices that parties to a transaction present it as being different from what they know it to be. That is precisely what the Tax Court judge found.
+[98] The difficulty I have is this. Where is the element of deceit? How is the transaction being presented as different from what the parties know it to be? Where is the facade of reality that is different from the disguised reality?
+[99] I accept that the Class B shares come into existence for the sole purpose of immediately disappearing to be replaced by common shares of the amalgamated company. I also accept the reality that Class B shareholders cannot in practice enjoy any rights or privileges or bear any obligations of the Class B shares.[49]
+[100] However, I do not see how there can be an element of deceit in this case where the ephemeral nature of the Class B shares and the resulting inability of Class B shareholders to enjoy any of the attributes of owing the shares was, so to speak in plain view, in the arrangement agreement and the plan of arrangement filed with the Court of Queen’s Bench of Alberta in order to obtain approval of the plan of arrangement and where it is not suggested that anything different was claimed.[50]
+[101] The two predecessor corporations told the Court of Queen’s Bench what they would do and proceeded to do it. That is not hidden.
+[102] Finally, with respect to the sham argument, I am satisfied that the paperwork was done to reflect the issuance of the Class B shares based on the testimony of Susan Mak and the documents.[51]
+[103] The sham doctrine has no application, at least as it has developed in Canada for tax matters.[52]
+Did the Class B Shareholders Acquire Control of Veracel Immediately Before the Amalgamation? [104] The Respondent’s second argument is that the Class B shareholders, by subscribing to buy those shares and by giving a proxy to Jeffery Tonken, or in his place James Surbey, form a group of persons having acquired control of Veracel immediately prior to the amalgamation.
+[105] I would first note that, apart from the proxy, there is no evidence of the persons purchasing the subscription receipts being related or having a unanimous shareholders agreement or other agreement that ties together their actions in relation to the company.
+[106] Before examining whether the proxy ties together these subscribers and turns them into a “group of persons” having control, it is useful to consider this proxy which reads:[53]
+10. Prior to the implementation of the Plan of Arrangement, holders of Subscription Receipts will not be securityholders of Veracel and will not be entitled to vote on the Plan of Arrangement. Holders of Subscription Receipts will only be entitled to receive either Veracel Class B Shares pursuant to the Plan of Arrangement, which will be exchanged on a one for one basis for Amalco Common Shares pursuant to the Plan of Arrangement on surrender of their Subscription Receipts to the Trustee [or] a return of the Aggregate Subscription Price for their Subscription Receipts together with any payments on account of [int]erest as determined in accordance with the Subscription Receipt Indenture. Notwithstanding the foregoing, the Subscriber [he]reby acknowledges, approves, authorizes and consents to the Plan of Arrangement and the initiatives and actions set forth in paragraphs 8 and 9 above, and in the event that the Subscriber becomes entitled or is otherwise required to vote on the Plan of Arrangement or any of the matters referred to above, the Subscriber:
+(a) provided that the fundamental terms of the Plan of Arrangement have not changed, hereby grants an irrevocable power of attorney to A. Jeff[er]y Tonken, or failing him, James W. Surbey, as the Subscriber’s proxy, with full power of substitution to vote all of the Subscription Receipts, and the Veracel Class B Shares issuable upon the exchange of the Subscription Receipts pursuant to the Plan of Arrangement, in favour of the Plan of Arrangement or any of the initiatives or actions set out in paragraphs 8 or 9 above and any resolutions or matters relating thereto at any meeting (and at any adjournment thereof and at every poll that may take place in consequence thereof) of Veracel, called to consider the same and, with respect to any other matter relating to the Plan of Arrangement that may be put before the securityholders of Veracel;
+. . .
+[Emphasis added.]
+[107] I would observe that I am not at all sure that this proxy ties together the subscription receiptholders to any material extent in their capacity as shareholders. Firstly, much of it is directed to the holders in their capacity as receiptholders not as shareholders. Secondly, the entire structure of the transaction makes it impossible to exercise the proxy for Class B shares since those shares are replaced at the same time as they are created. Thirdly, if for some hard to imagine reason the Class B shares came into existence but were not simultaneously replaced with the common shares, it seems doubtful that the proxy would still be valid; this is due to the fact that the failure to simultaneously convert the shares to common shares of the amalgamated company would appear to be a change in the fundamental terms of the plan of arrangement thereby bringing the proxy to an end.[54]
+[108] Be that as it may, even if in some sense the proxy can be seen as the ability to vote the Class B shares, the constraint on the proxy resulting from the words “provided that the fundamental terms of the Plan of Arrangement have not changed” means that the proxy can only be used to do things to help implement the plan of arrangement, a course of action already taken by Veracel. The proxy could not be used to make any change to Veracel’s direction.
+[109] From an investment or business point of view you have unrelated individuals who are acquiring or seeking to acquire shares in the amalgamated company that will continue the two predecessors at closing. They are in no way linked so as to make them a group of persons with control of Veracel.[55]
+[110] At the most, the proxy links them as Class B shareholders to assist in implementing the plan of arrangement; it does not give them the ability to change the direction of Veracel and it does not give them control of Veracel.
+The General Anti-Avoidance Rule [111] The third argument of the Respondent is that the general anti‑avoidance rule applies; it is set out in section 245 of the Act.
+[112] The portions of section 245 that are relevant to this litigation read as follows:
+Definitions
+245(1) In this section,
+tax benefit means a reduction, avoidance or deferral of tax or other amount payable under this Act . . .;
+tax consequences to a person means the amount of income, taxable income . . ., tax . . . or any other amount that is relevant for the purposes of computing that amount;
+transaction includes an arrangement or event.
+General anti-avoidance provision
+(2) Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+Avoidance transaction
+(3) An avoidance transaction means any transaction
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit . . .; or
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit,
+[unless the transaction or series of transactions may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.]
+Application of subsection (2)
+(4) Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of . . .
+(i) this Act,
+. . .
+(b) would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.
+Determination of tax consequences
+(5) Without restricting the generality of subsection (2), and notwithstanding any other enactment,
+(a) any deduction, exemption or exclusion in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+(b) any such deduction, exemption or exclusion, any income, loss or other amount or part thereof may be allocated to any person,
+(c) the nature of any payment or other amount may be recharacterized, and
+(d) the tax effects that would otherwise result from the application of other provisions of this Act may be ignored,
+in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+[113] Thus, the critical elements of section 245 in this appeal are:
+Where a transaction, or a series of transactions, is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit.
+However, a transaction cannot be an avoidance transaction if the transaction does not result in an abuse or misuse of the provisions of the Act.
+If the general anti‑avoidance rule applies, in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit, among other possibilities, a deduction may be disallowed or the tax effects that would otherwise result from the application of other provisions may be ignored.
+Definitions
+Tax consequences to a person: his income, taxable income, tax or any other amount that is relevant for the purposes of computing the income.
+Tax benefit: reduction, avoidance or deferral of tax.
+Avoidance transaction: any transaction, or transaction that is part of a series of transactions, which would result in a tax benefit unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+[114] This can be summarized as follows:
+If a transaction (or a series of transactions)
+1. results in a tax benefit,
+2. was not undertaken primarily for purposes other than to obtain the tax benefit and
+3. the transaction is an abuse or misuse of the provisions of the Act
+the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit.[56]
+[115] With respect to the facts, the burden is on the taxpayer to refute the Minister’s assumption that there is a tax benefit and an avoidance transaction.[57]
+[116] With respect to the issue of whether there was an abuse:
+. . . It is for the Minister who seeks to rely on the GAAR to identify the object, spirit or purpose of the provisions that are claimed to have been frustrated or defeated, when the provisions of the Act are interpreted in a textual, contextual and purposive manner. . . .[58]
+[117] The Minister’s obligation to demonstrate the existence of an abuse can largely be described as a “burden of persuasion”. As Chief Justice Bowman said in Evans v. The Queen:[59]
+. . . The words “burden of proof” of which the Supreme Court of Canada speaks may imply an evidentiary burden but primarily they impose a requirement that the Crown identify the object, spirit or purpose of the relevant legislation that is said to be frustrated or defeated. This might be described as a “burden of persuasion” although this is not the usual sense of the expression “burden of proof”. . . .[60]
+[118] The following three issues therefore need to be examined:[61]
+1. Was there a tax benefit?
+2. Was the transaction (or series of transactions) giving rise to the tax benefit an avoidance transaction?
+3. Was the avoidance transaction giving rise to the tax benefit abusive?
+[119] The first question is whether there is a tax benefit arising from the transactions in issue. The notion of a tax benefit is extremely wide and there can be little doubt that the ability for the amalgamated corporation, the Appellant, to use the tax attributes of predecessor Veracel, notably the losses claimed in the year in issue, is a tax benefit. This benefit arises from the transactions in issue.
+[120] What are those transactions? The Respondent considers that they are:
+1. the transfer of predecessor Veracel’s assets to Spinco,[62]
+2. the sale of subscription receipts for Class B shares by Veracel,
+3. the exchange of the subscription receipts for the Class B shares and
+4. the amalgamation itself.
+[121] I do not disagree that these transactions are part of the series but, although I am not sure it matters, I am satisfied that the series begins with the signing of the arrangement agreement where the two predecessor corporations agree to a great many things including all the essential steps in the series leading to the amalgamation.
+[122] I turn to the second question: Is the series of transactions an avoidance transaction, or was it entered into primarily for bona fide purposes other than obtaining a tax benefit?
+[123] As set out in my earlier findings, it is absolutely clear that the series of transactions here was not undertaken primarily for purposes other than to obtain the tax benefit. Therefore, the series is an avoidance transaction.
+[124] Veracel wanted to monetize its tax attributes; Birchcliff wanted to obtain those attributes. All the rest was done to accomplish those objectives.
+[125] In the end, we are left with the key question of whether this series of transactions was an abuse or misuse of the Act.
+[126] In paragraphs 65 to 73 of Copthorne Holdings Ltd. v. Canada,[63] the Supreme Court of Canada sets out how the question of abuse is to be analyzed. I reproduce below part of these paragraphs:
+65 The most difficult issue in this case is whether the avoidance transaction was an abuse or misuse of the Act. The terms “abuse” or “misuse” might be viewed as implying moral opprobrium regarding the actions of a taxpayer to minimize tax liability utilizing the provisions of the Income Tax Act in a creative way. That would be inappropriate. Taxpayers are entitled to select courses of action or enter into transactions that will minimize their tax liability . . . .
+66 The GAAR is a legal mechanism whereby Parliament has conferred on the court the unusual duty of going behind the words of the legislation to determine the object, spirit or purpose of the provision or provisions relied upon by the taxpayer. While the taxpayer’s transactions will be in strict compliance with the text of the relevant provisions relied upon, they may not necessarily be in accord with their object, spirit or purpose. In such cases, the GAAR may be invoked by the Minister. The GAAR does create some uncertainty for taxpayers. Courts, however, must remember that s. 245 was enacted “as a provision of last resort” . . . .
+. . .
+68 For this reason, “the GAAR can only be applied to deny a tax benefit when the abusive nature of the transaction is clear” . . . .
+69 In order to determine whether a transaction is an abuse or misuse of the Act, a court must first determine the “object, spirit or purpose of the provisions ... that are relied on for the tax benefit, having regard to the scheme of the Act, the relevant provisions and permissible extrinsic aids” . . . . The object, spirit or purpose of the provisions has been referred to as the “legislative rationale that underlies specific or interrelated provisions of the Act” . . . .
+70 The object, spirit or purpose can be identified by applying the same interpretive approach employed by this Court in all questions of statutory interpretation — a “unified textual, contextual and purposive approach” . . . . While the approach is the same as in all statutory interpretation, the analysis seeks to determine a different aspect of the statute than in other cases. In a traditional statutory interpretation approach the court applies the textual, contextual and purposive analysis to determine what the words of the statute mean. In a GAAR analysis the textual, contextual and purposive analysis is employed to determine the object, spirit or purpose of a provision. Here the meaning of the words of the statute may be clear enough. The search is for the rationale that underlies the words that may not be captured by the bare meaning of the words themselves. However, determining the rationale of the relevant provisions of the Act should not be conflated with a value judgment of what is right or wrong nor with theories about what tax law ought to be or ought to do.
+71 Second, a court must consider whether the transaction falls within or frustrates the identified purpose . . . . As earlier stated, while an avoidance transaction may operate alone to produce a tax benefit, it may also operate as part of a series of transactions that results in the tax benefit. While the focus must be on the transaction, where it is part of a series, it must be viewed in the context of the series to enable the court to determine whether abusive tax avoidance has occurred. In such a case, whether a transaction is abusive will only become apparent when it is considered in the context of the series of which it is a part and the overall result that is achieved . . . .
+72 The analysis will then lead to a finding of abusive tax avoidance: (1) where the transaction achieves an outcome the statutory provision was intended to prevent; (2) where the transaction defeats the underlying rationale of the provision; or (3) where the transaction circumvents the provision in a manner that frustrates or defeats its object, spirit or purpose . . . . These considerations are not independent of one another and may overlap. At this stage, the Minister must clearly demonstrate that the transaction is an abuse of the Act, and the benefit of the doubt is given to the taxpayer.
+73 When applying this test, there is no distinction between an “abuse” and a “misuse”. . . .
+[127] The Appellant submits that generally a corporation can carry forward, or back, business losses pursuant to subsection 111(5) of the Act and that is specifically recognized in the case of an amalgamation in subsection 87(2.1);[64] there has been no change of control for the purposes of subsection 111(5).
+[128] Further, the Appellant submits that the deeming provisions in subsection 256(7) are complex provisions that Parliament took extreme care in drafting and those price rules apply here with the consequence that while predecessor Birchcliff’s tax attributes are impaired, that is not the case for predecessor Veracel’s tax attributes.
+[129] The two predecessor corporations executed a carefully thought out plan of arrangement and, as a result, the Class B shareholders were inserted into the ownership of predecessor Veracel at the same time as the amalgamation.
+[130] Given the deemed order, the receiptholders of Class B shares became shareholders of predecessor Veracel and, if the general anti‑avoidance rule does not apply, then the rules in paragraph 256(7)(b) will not trigger a deemed change of control of predecessor Veracel just before the amalgamation.
+[131] Given the first two elements of the general anti‑avoidance rule are met, everything turns on the last question: whether there is an abuse of one or more sections of the Income Tax Act.
+[132] I do not disagree with the Appellant’s comments regarding sections 87 and 111. However, on its face, Parliament has sought to codify when there is, or is not, a change of control on an amalgamation as a result of the amalgamation itself.
+[133] At the beginning of the judgment, I spent some time on the rules contained in subsection 256(7) as they are relevant here. The key points were:
+1. The amalgamation itself does not trigger a change of control.
+2. However, the rules then provide that there is a deemed change of control of a particular predecessor unless all the shares of the amalgamated company held by the shareholders of the particular predecessor would be sufficient, if held by a single person, to control the amalgamated company.
+[134] In the case of two companies amalgamating, one of them will have a change of control, unless the exception for circumstances where the shareholders of each predecessor wind up with an equal number of votes applies.
+[135] The statutory provision itself shows that the policy underlying the provision is that the “minority” predecessor, i.e. the predecessor whose shareholders, were they acting in concert, would not have control in the amalgamated corporation, will lose its tax attributes, its losses, on an amalgamation with another corporation. It does not include what might be described as contingent shareholders like the Class B shareholders here.
+[136] The artificial insertion of Class B shareholders of Veracel, persons whose shares’ only purpose was to be converted into common shares,[65] and whose shares had such a short existence that they had to be deemed by the plan of arrangement to be created before the amalgamation, is a manipulation of the shareholdings of a predecessor contrary to the object of the rules in subsection 256(7).
+[137] Put another way, it would be contrary to the policy of the provision to take account of the Class B shares where the existence of the shares is an ephemeral one at the time of the amalgamation and where the very existence of those shares is predicated on the amalgamation itself occurring. It is only at that instant, the instant where various events are deemed to occur in a sequence, that the new Class B shareholders contribute to the capital stock of the corporation.
+[138] That is an abuse of the provision and it follows that the third condition is met.
+[139] The general anti‑avoidance rule applies.
+[140] For the purposes of determining the tax consequences pursuant to subsection 245(5), the obvious solution in order to deny the tax benefit is to ignore the Class B shares with the result that there was a change of control of Veracel immediately before the amalgamation.
+Conclusion [141] For these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Ontario, this 24th day of November 2017.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2017 TCC 234
+COURT FILE NO.:
+2012-1087(IT)G
+STYLE OF CAUSE:
+BIRCHCLIFF ENERGY LTD. v. THE QUEEN
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT:
+November 24, 2017
+APPEARANCES:
+Counsel for the Appellant:
+Patrick Lindsay
+Jean-Philippe Couture
+Counsel for the Respondent:
+Robert Carvalho
+Neva Beckie
+Jonathan Wittig
+COUNSEL OF RECORD:
+For the Appellant:
+Patrick Lindsay
+Jean-Philippe Couture
+PwC Law LLP
+Calgary, Alberta
+(Both counsel were, at the time of the trial, of the firm Borden Ladner Gervais.)
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This matter has been returned to me as a result of the April 28, 2017 decision of the Federal Court of Appeal, 2017 FCA 89.
+[2] As the provisions then read. I will set out the general anti‑avoidance rule later in these reasons.
+[3] As is clearly explained in R. v. Black & Decker Manufacturing Co., [1975] 1 S.C.R. 411, an amalgamation does not create a new company. As a consequence, generally, the rights and obligations of the amalgamating company continue in the amalgamated corporation.
+With respect to subsection 256(7), also see the December 1997 Technical Notes, especially those in relation to paragraph 256(7)(b).
+[4] The words in parentheses at the end of subparagraph 256(7)(b)(ii) have no application here, i.e. the words beginning with “(unless the person or group of persons would not have acquired control . . .)”. Those words carve out from the deeming provision an amalgamation if the person or group of persons would not have acquired control if they had acquired the shares of the predecessor corporation because of paragraph 256(7)(a). Similarly, clause 256(7)(b)(iii)(A) has no application here.
+[5] Clause (A) is not relevant because the predecessors were not related and clause (C) is not relevant because on the facts here this is not a situation where subparagraph 256(7)(b)(iii) would otherwise deem a change of control of both predecessor corporations.
+[6] This is the exception in clause 256(7)(b)(iii)(C). It would apply if each of the two hypothetical shareholders had an equal number of shares.
+[7] See the facts below.
+[8] Again, see R. v. Black & Decker Manufacturing Co., [1975] 1 S.C.R. 411. See also section 186 of the Business Corporations Act of Alberta as it then read.
+[9] Under this heading the Respondent also argued, as an alternative, that the Class B shares are not relevant in determining who had de jure control of Veracel with the consequence that the amalgamation resulted in an acquisition of control of predecessor Veracel. I have difficulty in following this particular alternative argument because, in terms of the exception in clause 256(7)(b)(iii)(B), whether or not the Class B shareholders are relevant to determine who had control of Veracel before the acquisition, as such, does not determine whether or not they acquire voting rights in the amalgamated company.
+Given the arguments made in paragraphs 206 to 211 of the Respondent’s written argument, and without reaching a conclusion on the merits of such an argument, I would have better understood if the Respondent had been arguing that there never were “Class B shareholders of Veracel” with the consequence that the shares of Amalco acquired by the persons referred to as “Class B shareholders of Veracel” must be ignored in applying the hypothetical test in clause 256(7)(b)(iii)(B) because, on a proper interpretation of that clause, no account should be taken of those shares given the rather ephemeral existence of those shares in circumstances where the Class B shareholders would never benefit from, and never exercise any rights, of the Class B shares in predecessor Veracel.
+[10] David is the brother of Jeffery Tonken, the president of Birchcliff.
+[11] It is not entirely clear to me in the transactions here what exactly was carried out by Cavalon and what was carried out by the two individuals but it really does not matter for the issues in this case. Generally, given that the gain that the two individuals received for all their work in the transactions was in the form of shares received personally from Veracel, I conclude that most or all of what they did they did personally.
+[12] Exhibit A‑1, Tab 4.
+[13] Transcript of the first day of hearing, pages 65 to 69.
+[14] Transcript of the first day of hearing, pages 70 and 71.
+[15] The word “Ontario” is in the original but that has to have been a typographical error.
+[16] Other shareholders of Veracel also received a number of non‑voting preferred shares of the amalgamated company; they have no impact on control. Those preferred shares were intended as a means of paying out cash to Veracel shareholders who wanted cash on the amalgamation. They were quickly paid out as we shall see below.
+[17] See paragraph 41 below. The effective time was on May 31, 2005.
+[18] Exhibit A-3, Tab 82, first page at “a”. The alternative of a refund if the transaction is not completed is in “b” on the same page.
+[19] Exhibit A-2, Tab 69, the subscription receipt indenture at article 3.2. To the same effect, see article 3 of the terms and conditions of subscription for subscription receipts of Veracel Inc., at Tab 60, which says:
+3. Each Subscription Receipt will entitle the holder to receive without further payment, pursuant to the Plan of Arrangement . . ., one Veracel Class B Share which will be exchanged for one common share of Amalco . . . pursuant to the Plan of Arrangement.
+[20] Under the indenture the “Special Amount” is defined as a possible cash amount payable from one of two potential sources. Firstly, there was the possibility of a payment of interest earned on the escrowed subscription funds. Secondly, the indenture refers to the possibility of a payment of a further amount to the receiptholders if a dividend is paid to the shareholders of Veracel. Such a payment is, to say the least, rather hypothetical given the agreement that Veracel was to move all its existing assets unrelated to the subscription receipts to a new company owned by the existing Veracel shareholders. See the letter agreement dated April 1, 2005, page 4, article 7(h), at Tab 27 of Exhibit A-1. See also the arrangement agreement at Tab 44, article 4.1(oo).
+[21] Exhibit A-2, Tab 69, page 6.
+[22] Exhibit A-1, Tab 44, pages A-4 and A-5 of the plan of arrangement which is Exhibit A to the arrangement agreement.
+[23] I also note article 10 of the terms and conditions of subscription for subscription receipts of Veracel Inc., Exhibit A‑2, Tab 60, pages 4 and 5. Article 10 says that subscription receiptholders will not be securityholders and will not be entitled to vote on the plan of arrangement; they will only be entitled to receive either a Class B share that will be exchanged for a share of the amalgamated company or the return of their funds. Surprisingly, it then goes on, in the event that the subscriber becomes entitled to vote, to give an irrevocable proxy, so long as there is no fundamental change of the plan of arrangement; based on the terms, I have trouble seeing how a subscriber could ever become entitled to vote.
+[24] See the arrangement agreement, Exhibit A‑1, Tab 44, article 4.1(o) and (oo) and article 5.3(e).
+[25] See the arrangement agreement, Exhibit A‑1, Tab 44, article 4.1(oo) as well as the definitions of “Veracel Transfer”, “Veracel Assets” and “Spinco” in article 1.1. See also Exhibit A-1, Tab 4, first page.
+It is clear from the testimony of David Tonken that these assets posed a problem because they did not know how to value them and it would complicate financing. As a result, the simplest solution was to move them out of predecessor Veracel. See the transcript of the first day of trial at pages 89 and 90.
+[26] See the arrangement agreement, Exhibit A‑1, Tab 44, article 4.1.
+[27] As we have seen, the Court of Queen’s Bench of Alberta approved plan of arrangement says in article 3 that at the effective time the issuance of Class B shares, the amalgamation and the exchange of Class B shares for common shares of the amalgamated company occur and deems the events to be in a certain sequence. In a practical sense, I have difficulty in conceiving how a number of events can occur simultaneously and yet be a sequence and, for these purposes, I find it easier to think of the sequence as occurring with an infinitely small delay between the events in the sequence.
+Having said that, while in the physical world as we perceive it it seems impossible to have a sequence of simultaneous events, I have no difficulty with the concept that in law parties may agree that certain events occurring simultaneously are to be deemed to occur in a prescribed order, a kind of sequential, but instant, fusion of events.
+[28] See Exhibit A-1, Tab 21, as well as Tab 7.
+[29] See Exhibit A-1, Tab 16.
+[30] See Exhibit A-1, Tab 7, notes 3, 8 and 14 of the financial statements. Indeed, the company raised significant other amounts apart from the $40 million at about the same time; some $15 million of the additional amounts were raised from employees, management, directors and their families. See Exhibit A-1, Tab 6, first and forth pages.
+[31] The bridge loan was not, in fact, used.
+[32] See the transcript of the first day of hearing, pages 82 and 83.
+[33] See Exhibit A-1, Tab 44, article 3.3(t) and the definition of “Birchcliff Advance” in article 1.1; the only exception was: if Veracel did, or failed to do, certain things which would cause the failure to carry out the arrangement agreement. If that happened, Veracel would have to reimburse the costs paid by Birchcliff. In any other case, even if the arrangement agreement was not successfully carried out, Birchcliff would bear the cost. See articles 6.1 and 6.2.
+[34] The following question put to Mr. Surbey, and his answer, illustrate this:
+Q MR. LINDSAY: And -- and why was Birchcliff entertaining this transaction with Veracel?
+A Why? Because it would put Birchcliff in a better position – in the – in the capital markets if we could buy these assets that were big with lots of scope for expansion and development and growth and, at the same time, have an entity – do it – do it through an entity that had tax pools like Veracel, and so we saw that as useful. We were in the business of creating value, so this was a way to add some more value to the Devon deal that we already had, right? That’s why we were interested.
+(Transcript of the second day of trial, page 84.)
+[35] Exhibit A-1, Tab 44.
+[36] Article 9.2(b)(vi) can be exercised anytime prior to the effective date when everything closes although the agreement requires completion of the subscription receipt offering on or before May 4, 2005; see article 5.1(d). Thus Birchcliff could terminate the arrangement agreement even after the completion of the subscription receipt offering but before the effective date when everything in the plan of arrangement would be completed. By May 4, 2005 Veracel had completed the sale of 34 million subscription receipts for $136 million.
+[37] Exhibit A-1, Tab 4.
+[38] See Exhibit A‑1, Tab 24 — a memo from John Anderson, the Chief Financial Officer of Veracel, to Veracel shareholders. The 5% figure is in the first paragraph. The $1.5 million is set out on the second and third pages.
+[39] Exhibit A‑1, Tab 44, plan of arrangement, article 1.1, definition of “Amalco Preferred Shares” and article 3.1(b)(ii)C and D.
+[40] Exhibit A-1, Tab 44, plan of arrangement, article 4.3(a).
+[41] See Exhibit A-3, Tab 125, 2005 annual report of the amalgamated company, the Appellant, at note 11 to the financial statements. Note 11 is rather hard to read but still readable. See also Tab 124 that shows that payment for the redemption of many of the preferred shares was in early June 2005. While I cannot find an indication of the timing of the payment of the remainder, the plan of arrangement did require that it be as soon as practicable and we know from note 11 to the 2005 financial statements that it was prior to December 31, 2005.
+[42] Exhibit A-3, Tab 124, we can see the actual redemption amount was still the same as that outlined earlier by John Anderson; see Exhibit A-1, Tab 24.
+[43] Throughout these reasons, I have ignored the fact that these were both Veracel common shares and Veracel Class A preferred shares for the simple reason that the Class A preferred shares were treated in the same way as the common shares. All the Class A preferred shares of Veracel were exchanged for preferred shares of the amalgamated company. David Tonken and Greg Matthews received common shares.
+[44] David Tonken testified that he chose common shares of the amalgamated company; see page 74 of the transcript of the first day of hearing. Also, while it is extremely hard to read the headings at the top of the second page and near the top of the third page of Tab 124 of Exhibit A-3 (pages numbered 700230 and 700231 at the bottom), it is clear that the heading at the top of the first page is “PREFERRED SHARE/CASH ELECTION” and the heading near the top of the third page is “AMALCO SHARE ELECTION”. Both David Tonken and Greg Matthews are listed under “AMALCO SHARE ELECTION”. Further evidence that they chose to receive common shares of the amalgamated company is the fact that they are absent from the list of shareholders of the preferred shares of the amalgamated company at Tab 119.
+[45] Assuming that the entire set of arrangements work from a tax point of view.
+[46] I thank the parties for their additional written submissions.
+[47] [1984] 1 S.C.R. 536, at pages 545 and 546.
+[48] 2010 FCA 280.
+[49] Apart from their pre-arranged conversion to common shares of the amalgamated company.
+[50] See Exhibit A-1, Tab 44, and Exhibit A-2, Tab 52. In addition, there are a number of other documents setting this out which would have circulated around a fair number of people in the investment community.
+[51] Notably on the basis of Exhibits A-6 and A-8.
+The opening two lines of article 3.1 of the plan of arrangement say that at the effective time a series of events “shall occur and be deemed to occur” in a sequence without further formality. It is an interesting question exactly what the consequences of those opening words are in light of subsection 193(13) of the Business Corporations Act of Alberta; I do not need to answer that question.
+[52] My understanding is that the doctrine has evolved differently elsewhere.
+[53] Exhibit A‑2, Tab 60, pages 4 and 5.
+[54] Instantaneous or simultaneous conversion of the Class B shares is fundamental, thereby triggering the limiting words “provided that the fundamental terms of the Plan of Arrangement have not changed” and ending the proxy.
+[55] See Silicon Graphics Ltd. v. Canada, 2002 FCA 260, at paragraphs 30 to 37.
+[56] As Justice Rothstein said in paragraph 32 of the Supreme Court of Canada’s decision in Copthorne Holdings Ltd. v. Canada, 2011 SCC 63:
+. . . Where a transaction is an avoidance transaction (a transaction that would result in a tax benefit and whose primary purpose was to obtain the tax benefit), the tax benefit resulting from the transaction will be denied. However, the tax benefit will not be denied if the avoidance transaction would not result in an abuse or misuse of the Income Tax Act.
+[57] See Copthorne, 2011 SCC 63, at paragraphs 34 and 35, and Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54, at paragraph 63.
+It is worthwhile to keep in mind that in any civil case, any burden of proof issue is important only insofar as the tribunal cannot determine a fact based on the evidence provided.
+[58] Trustco Mortgage, 2005 SCC 54, at paragraph 65.
+[59] 2005 TCC 684, paragraph 35(e). See also Justice Hogan’s decision in Descarries v. The Queen, 2014 TCC 75, at paragraph 46.
+[60] In paragraphs 68 to 72 of Copthorne, 2011 SCC 63, Justice Rothstein explained how the Court must examine the issue to determine whether there was an abuse.
+[61] Copthorne, 2011 SCC 63, paragraph 33.
+[62] Spinco, as the to be created company, is referred to in the arrangement agreement.
+[63] 2011 SCC 63.
+[64] Subsection 87(2.1) reflects the common law effect of an amalgamation.
+[65] As we have seen, the legal arrangements were such that they could not have existed if they were not converted into Class B shares.

@@ -1,0 +1,286 @@
+Title: Leduc Society For Christian Education c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520980/index.do
+Corpus path: corpus/cases/tcc/2023/2022-cci-114-520980-leduc-society-for-christian-education-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-07-28
+
+# Leduc Society For Christian Education c. Le Roi
+
+- Citation: 2022 CCI 114
+- Decision date: 2023-07-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4503, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leduc Society For Christian Education c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-10-05
+Référence neutre
+2022 CCI 114
+Numéro de dossier
+2017-1753(IT)G
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-1753(IT)G
+ENTRE :
+LEDUC SOCIETY FOR CHRISTIAN EDUCATION,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé;
+Dossier : 2017-1754(IT)G
+ET ENTRE :
+MCS FOUNDATION LTD.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé;
+Dossier : 2017-1755(IT)G
+ET ENTRE :
+TABER SOCIETY FOR CHRISTIAN EDUCATION LTD.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Affaire entendue par audience virtuelle tenue les 18 et 19 octobre 2021
+Devant : l’honorable juge Susan Wong
+Comparutions :
+Avocate des appelantes :
+Me MaryAnne Loney
+Avocates de l’intimé :
+Me Joanna Hill
+Me Linsey Rains
+DÉTERMINATION FAITE AU TITRE DE L’ARTICLE 58
+Conformément aux motifs de la détermination ci-joints, les questions soulevées en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) obtiennent les réponses suivantes :
+Les droits d’inscription aux programmes alternatifs d’éducation chrétienne que les parents ont payés aux appelantes constituaient-ils un paiement volontaire?
+Non
+Les parents ont-ils obtenu un avantage ou une contrepartie des appelantes en échange du paiement des droits d’inscription aux programmes alternatifs d’éducation chrétienne?
+Oui
+Chaque partie assumera ses propres frais.
+Signé à Ottawa, Canada, ce 5e jour d’octobre 2022.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 25e jour de juillet 2023.
+Elisabeth Ross, jurilinguiste
+Référence : 2022 CCI 114
+Date : 05102022
+Dossier : 2017-1753(IT)G
+ENTRE :
+LEDUC SOCIETY FOR CHRISTIAN EDUCATION,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé;
+Dossier : 2017-1754(IT)G
+ET ENTRE :
+MCS FOUNDATION LTD.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé;
+Dossier : 2017-1755(IT)G
+ET ENTRE :
+TABER SOCIETY FOR CHRISTIAN EDUCATION LTD.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE LA DÉTERMINATION
+La juge Wong
+Introduction/aperçu
+[1] Notre Cour est saisie d’une demande présentée en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) pour que soient tranchées les questions suivantes :
+a) Les droits d’inscription aux programmes alternatifs d’éducation chrétienne que les parents ont payés aux appelantes constituaient-ils un paiement volontaire?
+b) Les parents ont-ils obtenu un avantage ou une contrepartie des appelantes en échange du paiement des droits d’inscription aux programmes alternatifs d’éducation chrétienne?
+[2] Les exercices financiers (c’est-à-dire les années scolaires) visés sont les suivants :
+a) Leduc Society for Christian Education (« Leduc ») – du 1er septembre 2006 au 31 août 2007 et du 1er septembre 2007 au 31 août 2008;
+b) MCS Foundation Ltd. (« MCS ») – du 1er septembre 2008 au 31 août 2009;
+c) Taber Society for Christian Education Ltd. (« Taber ») – du 1er septembre 2009 au 31 août 2010 et du 1er septembre 2010 au 31 août 2011.
+[3] Le ministre du Revenu national a infligé des pénalités aux appelantes en vertu du paragraphe 188.1(7) de la Loi de l’impôt sur le revenu, au motif que les droits d’inscription aux programmes alternatifs d’éducation chrétienne n’étaient pas des dons et que les appelantes ne pouvaient donc pas délivrer de reçus à ce titre.
+[4] En accueillant la demande présentée conjointement par les parties pour que soient tranchées ces questions, j’ai indiqué que les parties pouvaient se fonder sur les actes de procédure, un exposé conjoint partiel des faits et un cahier conjoint de preuve documentaire[1].
+Contexte factuel
+[5] Bien que les faits ne soient pas identiques dans les trois appels, ils sont suffisamment semblables pour que les trois causes soient entendues sur la base d’une preuve commune, des distinctions y étant apportées au besoin.
+[6] Les appelantes sont des organismes de bienfaisance enregistrés pour l’application de la Loi de l’impôt sur le revenu, qui ont été constitués en personne morale en Alberta et qui mènent leurs activités dans cette province[2]. Selon leurs actes constitutifs respectifs, les appelantes ont pour objectif commun de dispenser une éducation chrétienne[3].
+[7] Avant les périodes visées par les appels, Leduc et MCS dirigeaient des écoles religieuses privées, appelées respectivement Covenant Christian School et Meadowlark Christian School[4]. La Taber Christian School était une école religieuse privée qui était administrée par la Society for Christian Education in Southern Alberta, avant que Taber en prenne le contrôle en 2009[5].
+[8] Durant les périodes visées par les appels, les conseils scolaires de l’Alberta étaient régis par la loi provinciale sur les écoles, la School Act[6], laquelle a été remplacée par la loi provinciale sur l’éducation, l’Education Act[7], en septembre 2019. Les conseils scolaires sont tenus de donner accès à l’éducation à tous les enfants qui résident à l’intérieur de leur district et de veiller à ce qu’aucuns droits de scolarité ne soient exigés pour fréquenter l’école publique[8].
+[9] Ces deux lois autorisent les conseils scolaires à offrir des programmes alternatifs d’éducation et à percevoir des droits auprès des parents (des enfants inscrits à ces programmes) pour couvrir une partie ou la totalité des frais connexes qui ne sont pas liés à l’enseignement[9]. Les conseils scolaires qui offrent des programmes alternatifs d’éducation doivent également continuer d’offrir le programme d’éducation obligatoire prévu par la loi[10]. Aux termes de la School Act aujourd’hui abrogée, ces programmes étaient appelés programmes d’éducation ordinaires (« regular education programs »)[11] , tandis qu’aux termes de l’Education Act, l’offre de programmes obligatoires était plus variée[12].
+[10] Le 13 juin 2005 (dans le cas de Leduc), le 9 juin 2004 (dans le cas de MCS) et le 11 juin 2009 (dans le cas de Taber), les appelantes ont conclu une entente avec leur conseil scolaire public local respectif, en vue de l’établissement, dans les trois écoles que ces organismes administraient, de programmes alternatifs d’éducation chrétienne en application de l’article 21 de la School Act. Les écoles Covenant Christian School, Meadowlark Christian School et Taber Christian School (les « écoles ») sont ainsi devenues des écoles publiques[13].
+[11] Les conseils scolaires respectifs ont alloué aux écoles en l’espèce du financement à l’éducation dans une proportion égale à celle qu’ils allouent aux autres écoles publiques, le financement étant calculé selon une formule qui tient compte du nombre d’élèves inscrits dans chaque école. Les conseils scolaires utilisent ces fonds pour :
+a) embaucher des directeurs, des enseignants et des aides-enseignants pour les écoles et payer leurs salaires;
+b) payer les salaires du personnel administratif et des bibliothécaires ainsi que les frais d’entretien des écoles;
+c) payer le coût du matériel et des ressources pédagogiques laïques pour les écoles[14].
+[12] Les conseils scolaires paient les appelantes pour l’utilisation de leurs installations, lesquelles appartiennent toujours aux appelantes respectives[15].
+[13] Les programmes alternatifs d’éducation chrétienne sont dispensés conformément aux politiques d’orientation des conseils scolaires, aux exigences des programmes d’études provinciaux, ainsi qu’aux documents sur l’éducation et la vision pédagogique préparés par les appelantes[16]. La religion est intégrée à tous les volets de l’enseignement dispensé dans les écoles, y compris le volet laïc[17]. L’enseignement de la religion et la participation des élèves aux activités religieuses ont continué de se faire essentiellement de la même manière après la conclusion des ententes entre les appelantes et les conseils scolaires[18].
+[14] Durant les périodes visées par les appels, les appelantes ont mené les activités suivantes[19] :
+a) veiller à ce que les écoles mènent leurs activités conformément à la vision et aux objectifs définis dans les documents sur l’éducation et la vision pédagogique;
+b) surveiller la mise en œuvre des programmes alternatifs d’éducation chrétienne;
+c) définir des orientations à l’intention des directeurs d’école, leur donner des conseils et les soutenir dans la manière de dispenser l’enseignement religieux;
+d) fournir des conseils et de l’encadrement sur l’embauche des enseignants et des directeurs d’école;
+e) mettre sur pied divers sous-comités pour examiner les problèmes des écoles liés à l’enseignement religieux, aux finances, à l’administration, aux immeubles et à d’autres questions, et participer à ces sous-comités;
+f) financer le perfectionnement professionnel du personnel des écoles en matière d’éducation chrétienne;
+g) financer l’achat de matériel et de ressources pour l’éducation chrétienne;
+h) dans le cas de Leduc, financer l’équivalent de 0,6 équivalent temps plein d’un enseignant, ainsi que la venue de conférenciers occasionnels;
+i) recruter de nouvelles familles et les renseigner sur les programmes alternatifs d’éducation chrétienne;
+j) fournir les installations des écoles, les entretenir et les améliorer;
+k) fournir des ordinateurs et du mobilier;
+l) organiser des activités et des sorties religieuses parascolaires;
+m) dans le cas de Leduc et de Taber, exploiter le système de transport par autobus scolaires;
+n) dans le cas de Leduc, diriger un programme préscolaire;
+o) recueillir des fonds pour financer leurs activités.
+[15] Les droits d’inscription aux programmes d’éducation chrétienne que les parents devaient payer, conformément aux ententes conclues avec les conseils scolaires, faisaient partie des activités de financement menées par les appelantes[20]. Les appelantes déterminaient le montant des droits et percevaient ces droits[21]. Ces droits couvraient les frais supplémentaires associés à la prestation des programmes alternatifs d’éducation chrétienne, notamment le matériel et les installations[22].
+[16] Les appelantes ne séparaient pas les droits d’inscription aux programmes d’éducation chrétienne des autres sources de financement et ces sommes étaient toutes utilisées aux fins suivantes[23] :
+a) le perfectionnement professionnel du personnel des écoles en matière d’éducation chrétienne;
+b) des bibles, des manuels d’enseignement religieux chrétien, des ressources pédagogiques et des livres pour la bibliothèque;
+c) des fournitures scolaires axées sur l’éducation chrétienne, par exemple des bannières et des tableaux d’affichage;
+d) du mobilier et des fournitures pour la chapelle;
+e) le paiement de droits d’adhésion et de cotisations à des associations d’écoles chrétiennes;
+f) l’amélioration et l’entretien des installations des écoles;
+g) des éléments d’immobilisations, par exemple des ordinateurs, des caméras de sécurité et du mobilier (au chapitre des installations des écoles);
+h) le recrutement et l’inscription aux programmes alternatifs d’éducation chrétienne et la promotion de ces programmes;
+i) les bureaux des appelantes, y compris le personnel et les fournitures;
+j) la collecte de fonds et d’autres activités connexes;
+k) les activités et sorties religieuses parascolaires;
+l) dans le cas de Leduc et de Taber, les chauffeurs d’autobus scolaires;
+m) dans le cas de Leduc et de Taber, l’acquisition et l’entretien d’autobus scolaires;
+n) dans le cas de Leduc, les coûts du programme préscolaire;
+o) le soutien des conseils d’administration, des comités et des groupes de travail des appelantes;
+p) dans le cas de Leduc, le paiement au conseil scolaire de 0,6 équivalent temps plein de l’enseignant requis pour l’enseignement religieux supplémentaire et le personnel suppléant lorsque le personnel habituel devait s’absenter pour des activités de perfectionnement professionnel sur l’éducation chrétienne;
+q) dans le cas de Leduc, la venue de conférenciers religieux tels que des aumôniers, une ou deux fois par année;
+r) dans le cas de MCS, des téléphones cellulaires (pour le concierge en chef et le bureau de l’école), l’entretien, la collecte des ordures, Internet et les surveillants à l’heure du midi.
+Quelques-uns de ces éléments étaient payés par l’intermédiaire des conseils scolaires, mais la majorité d’entre eux étaient payés directement par les appelantes[24].
+[17] Les parents devaient signer et remettre un formulaire de demande d’admission ou d’inscription pour inscrire leurs enfants aux écoles[25]. Ces formulaires indiquaient les droits à payer pour l’inscription au programme d’éducation chrétienne et précisaient que les appelantes s’attendaient à ce que les parents paient ces droits[26]. Cependant, si les parents ne payaient pas ces droits d’inscription après l’acceptation de leur enfant, les appelantes ne retiraient pas l’enfant du programme alternatif. Dans certains cas, les appelantes offraient une aide financière ou renonçaient à une partie ou à la totalité des droits d’inscription exigés[27].
+[18] Les parents pouvaient envoyer leurs enfants à d’autres écoles publiques qui relevaient du même conseil scolaire et qui se trouvaient dans la même région géographique ou le même district scolaire. Ces autres écoles offraient le même programme scolaire provincial, sans le volet religieux et sans exiger le paiement des droits d’inscription au programme alternatif[28].
+[19] Durant les périodes visées par les présents appels, les appelantes ont remis aux parents des reçus officiels à des fins fiscales correspondant à la totalité (100 %) des droits d’inscription aux programmes alternatifs d’éducation chrétienne[29].
+Cadre législatif
+[20] Le cœur des questions à trancher est de déterminer ce qui constitue un don pour l’application de la Loi.
+[21] La Loi ne donne pas de définition du terme « don », et la définition proposée par la Cour d’appel fédérale dans l’arrêt Friedberg, c’est-à-dire le « transfert volontaire du bien d’un donateur à un donataire, en échange duquel le donateur ne reçoit pas d’avantage ni de contrepartie », demeure le point de départ[30]. De plus, l’avantage fiscal associé au don n’est généralement pas considéré comme un avantage, car cela irait à l’encontre de la déduction pour don de bienfaisance prévue par la Loi[31].
+[22] Le terme « contrepartie » est vaste et il englobe : (a) l’incitation à un contrat; (b) la cause, le motif, le prix ou une influence stimulante qui incite une partie à passer un contrat; (c) un droit, un intérêt, un profit ou un avantage pour une partie ou (d) une renonciation, un désavantage, une perte ou une responsabilité pour l’autre partie[32].
+[23] Pour déterminer si le donateur a obtenu quelque avantage ou contrepartie, il faut également tenir compte de l’intention libérale; en d’autres termes, le donateur doit avoir l’intention de s’appauvrir en faisant le don[33]. L’intention du donateur doit être entièrement libérale[34] et le don doit être effectué sans que le donateur s’attende à obtenir quoi que ce soit en échange[35].
+[24] Le paragraphe 248(30) de la Loi prévoit qu’il peut exister un lien conditionnel entre le don et l’avantage qui en découle; il s’applique aux dons faits après le 20 décembre 2002. Cette disposition est ainsi libellée :
+248. (30) Intention de faire un don – Le fait qu’un transfert de bien donne lieu à un montant d’un avantage ne suffit en soi à rendre le transfert inadmissible à titre de don à un donataire reconnu si, selon le cas :
+a) le montant de l’avantage n’excède pas 80 % de la juste valeur marchande du bien transféré;
+b) le cédant établit à la satisfaction du ministre que le transfert a été effectué dans l’intention de faire un don.
+[25] Je ne discuterai toutefois pas de l’application potentielle (ou de la non-application) du paragraphe 248(30), car cette disposition ne fait pas partie des paramètres de la présente détermination faite au titre de l’article 58 des Règles.
+Discussion
+A. Les droits d’inscription aux programmes alternatifs d’éducation chrétienne que les parents ont payés aux appelantes constituaient-ils un paiement volontaire?
+[26] Les appelantes insistent sur le fait que les parents ont choisi volontairement et délibérément d’inscrire leurs enfants aux programmes alternatifs d’éducation chrétienne et que les droits perçus font partie de ce choix; par conséquent, ni l’inscription ni les droits ne sont obligatoires. L’intimé, en revanche, fait valoir que le paiement des droits d’inscription était une exigence contractuelle de l’inscription.
+[27] Les parties ont proposé ces définitions, tirées du dictionnaire Black’s Law Dictionary :
+[traduction] don volontaire – don fait sans contrepartie à titre onéreux ni obligation juridique; fait à titre gratuit[36]
+volontaire – fait librement ou intentionnellement; sans y être contraint ni poussé par une influence extérieure[37]
+[28] Dans le formulaire de Leduc précisant les arrangements financiers, les parents doivent choisir un calendrier de paiements (paiement intégral, mensuel ou autre) et le mode de paiement (chèques postdatés ou prélèvements bancaires automatiques mensuels). Les familles qui ne sont pas en mesure de payer le montant intégral des droits exigés ont la possibilité de présenter une demande de bourse pour réduire les droits d’inscription au programme; il est toutefois précisé sur le formulaire que les bourses sont limitées et que les parents doivent choisir un calendrier de paiement et un mode de paiement même s’ils demandent une bourse. Selon le formulaire, les parents sont tenus, et c’est une condition à l’inscription et au maintien de l’inscription, de consentir à payer le montant total des droits indiqués dans le formulaire[38].
+[29] Dans le formulaire de paiement de MCS, les parents doivent indiquer s’ils préfèrent payer les droits d’inscription au programme alternatif en versant la somme globale ou par prélèvements automatiques. Il est également indiqué dans le calendrier de paiement que le formulaire doit être rempli intégralement (c’est-à-dire que les parents doivent indiquer le choix de paiement et fournir un chèque annulé), faute de quoi l’inscription de l’enfant sera retardée jusqu’à ce que tous les renseignements nécessaires aient été fournis. Le formulaire de paiement précise en outre que de l’aide financière est disponible et que des formulaires supplémentaires doivent être remplis à cette fin. Bien que le formulaire de MCS soit moins clair que celui de Leduc, rien n’y indique que les parents peuvent omettre de remplir le formulaire de paiement s’ils ont l’intention de présenter une demande d’aide[39].
+[30] Le formulaire d’engagement financier de Taber précise que le paiement des droits d’inscription constitue un soutien financier qui est non seulement attendu, mais qui devrait également être considéré comme un privilège. Dans le formulaire des modalités de paiement, les parents doivent choisir entre 2 ou 12 prélèvements bancaires automatiques, et la trousse d’inscription ne semble pas faire mention d’aide financière[40].
+[31] Bien que je constate qu’il existe des nuances entre les thèses des deux parties, je suis d’avis que le paiement de ces droits n’était pas volontaire dans les circonstances. Dans chaque cas, les formulaires de demande d’admission ou d’inscription devaient être remplis intégralement, y compris les renseignements sur le paiement.
+[32] Une fois que les parents avaient fait le choix volontaire d’inscrire leurs enfants au programme alternatif d’éducation chrétienne, ils étaient tenus de respecter les exigences liées à l’inscription à ce programme. À supposer que l’on accepte de qualifier de volontaire le choix de payer les droits d’inscription obligatoires, il demeure que les droits d’inscription eux-mêmes, tant le montant de ces droits que le moment de les payer, étaient fixés par les appelantes, lesquelles s’attendaient à ce que les parents paient ces droits dans le cadre du processus d’inscription ordinaire.
+[33] J’estime qu’il existait une relation contractuelle entre les appelantes et les parents des enfants inscrits aux programmes alternatifs d’éducation chrétienne et qu’en cas de défaut de paiement, des mesures judiciaires pourraient vraisemblablement être prises pour obliger le paiement des droits d’inscription, à moins que les appelantes n’y renoncent. La possibilité de renoncer à tout ou partie des droits d’inscription et de renoncer à retirer des élèves pour cause de non-paiement était des options qui étaient laissées à l’entière discrétion des appelantes; les formulaires de demande d’admission et d’inscription mentionnaient toutefois clairement que ces cas étaient l’exception à la règle voulant que les droits d’inscription doivent être payés.
+[34] Pour tous ces motifs, je répondrais à la première question par la négative, c’est-à-dire que les droits d’inscription aux programmes alternatifs d’éducation chrétienne que les parents devaient payer aux appelantes ne constituaient pas un paiement volontaire.
+B. Les parents ont-ils obtenu un avantage ou une contrepartie des appelantes en échange du paiement des droits d’inscription aux programmes alternatifs d’éducation chrétienne?
+[35] Les appelantes affirment que les avantages ou contreparties reçus par les parents ont une valeur subjective qui diffère de la valeur objective d’une contrepartie. Elles soutiennent que l’éducation religieuse a une valeur subjective qui varie d’une personne à l’autre, donc que cet élément n’est pas pertinent, et qu’il n’existe aucune contrepartie objective dans les circonstances. L’intimé, en revanche, affirme que les droits perçus couvraient les coûts des activités et du matériel du programme alternatif d’éducation chrétienne, lesquels ont tous profité directement aux enfants inscrits au programme.
+[36] Il m’est impossible de me fonder sur les nuances que les appelantes apportent dans les observations pour tirer la conclusion qu’elles souhaitent. Les présents appels s’apparentent, sous certains aspects importants, à l’affaire McBurney tranchée par la Cour d’appel fédérale[41]. Dans cet arrêt, la Cour d’appel a conclu que les paiements que le contribuable avait versés au titre des frais d’exploitation de l’école chrétienne privée que ses enfants fréquentaient était une contrepartie en échange de l’éducation reçue, même si le montant des paiements n’était pas fixe et que le contribuable n’était assujetti à aucune obligation juridique. La Cour d’appel a également conclu que, grâce aux paiements qu’il avait faits, le contribuable avait obtenu le type d’éducation qu’il voulait pour ses enfants et que les paiements ne constituaient donc pas des dons[42].
+[37] En l’espèce, les programmes alternatifs d’éducation chrétienne ont été établis en application de l’article 21 de la School Act de l’Alberta, conformément aux ententes que les appelantes avaient conclues avec leurs conseils scolaires respectifs. Le paragraphe 21(4) de la School Act et le paragraphe 19(5) de la loi qui l’a remplacée, l’Education Act, autorisent les conseils scolaires à percevoir des droits auprès des parents pour couvrir une partie ou la totalité des frais non liés à l’enseignement qui sont associés aux programmes alternatifs d’éducation chrétienne. Dans le présent contexte, les appelantes perçoivent les droits au nom de leurs conseils scolaires respectifs puisque, selon la loi, ce sont les conseils scolaires qui sont autorisés à percevoir les droits.
+[38] La nature des droits prélevés se reflète également dans les documents de demande d’admission et d’inscription des appelantes. Dans la page d’introduction de la trousse d’inscription de MCS, par exemple, il est indiqué que MCS prélèvera des droits pour couvrir le coût de son programme alternatif d’éducation chrétienne[43]. Autre exemple, le formulaire d’engagement financier de Taber précise que Taber perçoit des droits [traduction] « pour soutenir l’élaboration du programme d’éducation chrétienne et le perfectionnement professionnel, entretenir ses installations, financer le transport et répondre à d’autres besoins afin de permettre à l’école de mener ses activités »[44]. Bien que le formulaire de demande d’admission ou d’inscription de Leduc ne le précise pas expressément, la loi exigeait, quoi qu’il en soit, que les droits soient perçus à cette fin. De plus, la liste des coûts couverts par les droits perçus (mentionnés au paragraphe 16 des présents motifs) indique que les appelantes ont utilisé les droits aux fins auxquelles ils étaient destinés.
+[39] J’en déduis que, si elles ne percevaient pas les droits d’inscription pour couvrir une partie ou la totalité des frais non liés à l’enseignement de leurs programmes alternatifs d’éducation chrétienne, les appelantes soit devraient offrir une version réduite de ces programmes, soit ne seraient pas en mesure de les offrir du tout. Par conséquent, les parents ont reçu un avantage tangible en échange des droits qu’ils ont payés du fait que leurs enfants ont pu ainsi être inscrits au programme d’éducation chrétienne voulu ou à une version de qualité supérieure de ce programme. Il ne s’agit pas d’un avantage accessoire découlant du paiement des droits, mais bien d’un avantage faisant partie intégrante du paiement.
+[40] Pour tous ces motifs, je répondrais à la deuxième question par l’affirmative, c’est-à-dire que les parents ont obtenu un avantage ou une contrepartie des appelantes en échange du paiement des droits d’inscription aux programmes alternatifs d’éducation chrétienne.
+Autre
+[41] La circulaire d’information IC75-23, intitulée « Frais de scolarité et dons de charité versés à des écoles laïques privées et à des écoles religieuses », prévoit une exception administrative à l’égard des écoles privées qui enseignent exclusivement la religion ou qui dispensent à la fois un enseignement laïc et un enseignement religieux. Dans ces cas, les droits de scolarité peuvent être considérés comme étant des dons de bienfaisance. Je dirais que cette exception administrative a cessé de s’appliquer aux appelantes lorsque celles-ci ont conclu, avec leurs conseils scolaires respectifs, des ententes qui ont fait en sorte que leurs écoles privées sont devenues des écoles publiques.
+Conclusion
+[42] En résumé, je serais d’avis de répondre de la manière suivante aux questions soulevées :
+a)Les droits d’inscription aux programmes alternatifs d’éducation chrétienne que les parents ont payés aux appelantes constituaient-ils un paiement volontaire?
+Non
+b)Les parents ont-ils obtenu un avantage ou une contrepartie des appelantes en échange du paiement des droits d’inscription aux programmes alternatifs d’éducation chrétienne?
+Oui
+[43] Ainsi qu’en ont convenu les parties, chacune assumera ses propres frais.
+Signé à Ottawa, Canada, ce 5e jour d’octobre 2022.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 25e jour de juillet 2023.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2022 CCI 114
+NOS DES DOSSIERS DE LA COUR :
+2017-1753(IT)G
+2017-1754(IT)G
+2017-1755(IT)G
+INTITULÉ :
+Leduc Society For Christian Education c. Sa Majesté le Roi
+MCS Foundation Ltd. c. Sa Majesté le Roi
+Taber Society for Christian Education Ltd. c. Sa Majesté le Roi
+LIEU DE L’AUDIENCE :
+Audience virtuelle
+DATE DE L’AUDIENCE :
+Les 18 et 19 octobre 2021
+MOTIFS :
+L’honorable juge Susan Wong
+DATE DE LA DÉCISION :
+Le 5 octobre 2022
+COMPARUTIONS :
+Avocate de l’appelante :
+Me MaryAnne Loney
+Avocates de l’intimé :
+Me Joanna Hill
+Me Linsey Rains
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me MaryAnne Loney
+Cabinet :
+McLennan Ross LLP
+Edmonton (Alberta)
+Pour l’intimé :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] Ordonnance rendue le 3 juillet 2019
+[2] Exposé conjoint partiel des faits, par. 2 et 3
+[3] Exposé conjoint partiel des faits, par. 4
+[4] Au paragraphe 6 de l’exposé conjoint partiel des faits, les écoles ont été inversées par erreur; cahier conjoint de preuve documentaire (onglets 1 et 2)
+[5] Exposé conjoint partiel des faits, par. 6
+[6] R.S.A. 2000, ch. S-3
+[7] S.A. 2012, ch. E-0.3
+[8] Exposé conjoint partiel des faits, par. 7
+[9] School Act, R.S.A. 2000, ch. S-3, art. 21 (abrogée); Education Act, S.A. 2012 ch. E-0.3, art. 19; énoncé conjoint partiel des faits, par. 9
+[10] Exposé conjoint partiel des faits, par. 10
+[11] School Act, R.S.A. 2000, ch. S-3, par. 21(3) (abrogée)
+[12] Education Act, S.A. 2012, ch. E-0.3, par. 19(4)
+[13] Exposé conjoint partiel des faits, par. 11 et 12
+[14] Exposé conjoint partiel des faits, par. 13
+[15] Exposé conjoint partiel des faits, par. 14
+[16] Exposé conjoint partiel des faits, par. 16
+[17] Exposé conjoint partiel des faits, par. 18
+[18] Exposé conjoint partiel des faits, par. 21
+[19] Exposé conjoint partiel des faits, par. 22
+[20] Exposé conjoint partiel des faits, par. 25
+[21] Exposé conjoint partiel des faits, par. 26
+[22] Exposé conjoint partiel des faits, par. 27
+[23] Exposé conjoint partiel des faits, par. 30
+[24] Exposé conjoint partiel des faits, par. 31
+[25] Exposé conjoint partiel des faits, par. 32
+[26] Exposé conjoint partiel des faits, par. 33 et 34
+[27] Exposé conjoint partiel des faits, par. 35 et 36
+[28] Exposé conjoint partiel des faits, par. 37
+[29] Exposé conjoint partiel des faits, par. 38
+[30] Sa Majesté la Reine c. Friedberg, [1991] A.C.F. no 1255, par. 4, conf. par [1993] 4 R.C.S. 285
+[31] Sa Majesté la Reine c. Friedberg, [1991] A.C.F. no 1255, par. 4, conf. par [1993] 4 R.C.S. 285
+[32] Fiducie Famille Gauthier c. La Reine, 2011 CCI 318, par. 5 et 16
+[33] Canada c. Berg, 2014 CAF 25, par. 29; Sa Majesté la Reine c. Burns, [1988] A.C.F. no 31, par. 28 (C.F. 1re inst.), conf. par [1990] F.C.J. no 174 (C.A.F.); Mariano c. La Reine, 2015 CCI 244, par. 18 à 20
+[34] Webb c. La Reine, 2004 CCI 619, par. 16; Glover c. La Reine, 2015 CCI 199, par. 15 et 16
+[35] Maréchaux c. La Reine, 2009 CCI 587, par. 48 et 49; Glover c. La Reine, 2015 CCI 199, par. 15 et 17
+[36] Black’s Law Dictionary (11e éd. 2019) – recueil de jurisprudence de l’intimé (onglet 24)
+[37] Black’s Law Dictionary (11e éd. 2019) – recueil de jurisprudence de l’intimé (onglet 24); Black’s Law Dictionary (8e éd.) – recueil de jurisprudence de l’appelante (onglet 27)
+[38] Trousse d’inscription de Leduc (cahier conjoint de preuve documentaire, onglet 16)
+[39] Trousse d’inscription de MCS (cahier conjoint de preuve documentaire, onglet 17)
+[40] Trousse d’inscription de Taber (cahier conjoint de preuve documentaire, onglet 18)
+[41] Sa Majesté la Reine c. McBurney, [1985] A.C.F. no 821 (C.A.F.)
+[42] Sa Majesté la Reine c. McBurney, [1985] A.C.F. no 821, par. 14 (C.A.F.)
+[43] Trousse d’inscription de MCS (cahier conjoint de preuve documentaire, onglet 17)
+[44] Trousse d’inscription de Taber (cahier conjoint de preuve documentaire, onglet 18)

@@ -1,0 +1,204 @@
+---
+title: "Brooks v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27988/index.do"
+last_modified: "2007-09-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 557"
+citation2: ""
+neutral_citation: "2007 TCC 557"
+decision_date: "2007-09-12"
+language: "en"
+item_id: "27988"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1770
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:44:30.155000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6515458f9ba5342e06c568c432190ebcdd65e98eabd9458e9c9d663208b2f074"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brooks v. The Queen
+
+- Citation: 2007 TCC 557
+- Decision date: 2007-09-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1770, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brooks v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-12
+Neutral citation
+2007 TCC 557
+File numbers
+2006-853(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-853(IT)I
+BETWEEN:
+JOHN G. BROOKS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on September 12, 2007, at Toronto, Ontario.
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Reverend Sir David Brooks
+Counsel for the Respondent:
+Laurent Bartleman
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the Appellant’s 2002, 2003 and 2004 taxation years are dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 20th day of September 2007.
+“Wyman W. Webb”
+Webb J.
+Citation: 2007TCC557
+Date: 20070920
+Docket: 2006-853(IT)I
+BETWEEN:
+JOHN G. BROOKS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in this case is whether the Appellant had a source of income from which to deduct certain expenses in 2002, 2003 and 2004. The Appellant, in his Notice of Appeal, had indicated that there was a separate issue related to certain rental expenses that had been claimed. However at the commencement of the hearing, it was confirmed that the Appellant was not pursuing his appeal in relation to the rental expenses. The only items before the Court related to the business losses that had been claimed in 2002, 2003 and 2004.
+[2] The Appellant had some previous business experience in the early 1990s when he drove for an auto parts dealer. This was not the business that was the subject of this appeal but it does illustrate the Appellant’s prior business experience.
+[3] The activities for which the Appellant is claiming the expenses that are the subject of this appeal started in 1999. The Appellant determined that he would be able to make money by buying Beanie Babies on e‑bay and then later selling them for a profit. It was the Appellant’s understanding that the company that was making Beanie Babies was going to stop production and hence that this could increase the demand for the Beanie Babies. Instead, the company chose to produce a separate line of Beanie Babies which effectively flooded the market and caused the price to drop. While the Appellant was carrying on this activity he acquired as many as 2,500 Beanie Babies. The Appellant’s brother lived with the Appellant and assisted him significantly in carrying out these activities and the activities that are described below.
+[4] The Appellant also acquired other items on e-bay that he believed he could sell for a profit including soccer memorabilia from a team that the Appellant supported, Royal Navy memorabilia related to the aircraft carrier on which the Appellant’s brother served in the navy, VHS tapes of different shows, a model airplane, and other items that he believed would be collectors’ items and that he could sell for a profit. Also included in the list of purchases were items such as a satellite dish, compact discs, DVD RAM drive, and video cards that were not items that were intended to be resold. Although the activities commenced in 1999, the Appellant has not, to the date of the hearing, sold a single item. Because the items were occupying a large part of his house, he decided to put them in storage. As the Appellant has not paid the storage fee, the items are still in storage and the Appellant cannot retrieve the items without paying the past due storage fees.
+[5] The business losses that were claimed in each of the taxation years under appeal are summarized in Schedule A to the Reply as follows:
+Expense
+2002
+2003
+2004
+Opening inventory
+0
+0
+$9,269
+Purchases
+$8,356
+$9,269
+$9,302
+Delivery and Freight
+0
+$644
+$1,525
+Tax, Licence, fees, Dues
+0
+$261
+0
+Utility Expenses
+0
+$1,050
+$5,022
+Office Expenses
+$632
+0
+0
+Capital Costs Allowance
+$919
+$643
+$450
+Advertising Expenses
+$888
+$2,337
+$5,960
+Management and Administration Expense
+0
+0
+$206
+Other Business Expenses
+0
+0
+$799
+Totals
+$10,795
+$14,204
+$32,533
+[6] The most striking element of the expenses that were claimed relates to the purchases/inventory. Although not a single item was sold by the Appellant, the entire amount spent on purchases was deducted in 2002 and 2003 and in 2004 not only was the entire amount spent on purchases made in 2004 deducted but also the amount spent on purchases made in 2003 was again deducted in 2004. There was no recognition in any of these years for the closing inventory. No valuation of the closing inventory was completed as the Appellant stated that it would have taken too long to value the inventory at any particular point in time. Assuming that any goods were sold, the costs of goods sold would be determined by the following formula: opening inventory + purchases - closing inventory = costs of goods sold.
+[7] By not making any deduction for the closing inventory, the Appellant has clearly overstated the expenses and in 2004 by showing $9,269 as an opening inventory (the cost of which had been fully deducted in 2003), the Appellant has claimed this amount twice.
+[8] The evidence in relation to the activities shows that the Appellant was initially trying to capitalize on the Beanie Baby craze of the late 1990s. There is very little evidence of any market research that the Appellant had completed and his attempts to sell any of the items in inventory were minimal. He indicated that he had tried to sell some on e‑bay but he lost his account with e‑bay. He indicated that he lost his account on e‑bay because various individuals had submitted complaints concerning his payment record.
+[9] The Appellant also testified that he had set up websites to try to sell his inventory. He indicated that he had as many as four different websites. However, none of the websites had any hits. The amounts that the Appellant had claimed as advertising related mostly to work related to the websites that were prepared for him by his brother-in-law. He also spent some money for flyers that were distributed.
+[10] The Supreme Court of Canada in Stewart v. The Queen, [2002] 2 S.C.R. 645 dealt with the issue of whether the reasonable expectation of profit test is an acceptable test to determine a source of income. Justices Iacobucci and Bastarache stated the following:
+5 It is undisputed that the concept of a “source of income” is fundamental to the Canadian tax system; however, any test which assesses the existence of a source must be firmly based on the words and scheme of the Act. As such, in order to determine whether a particular activity constitutes a source of income, the taxpayer must show that he or she intends to carry on that activity in pursuit of profit and support that intention with evidence. The purpose of this test is to distinguish between commercial and personal activities, and where there is no personal or hobby element to a venture undertaken with a view to a profit, the activity is commercial, and the taxpayer's pursuit of profit is established. However, where there is a suspicion that the taxpayer's activity is a hobby or personal endeavour rather than a business, the taxpayer's so-called reasonable expectation of profit is a factor, among others, which can be examined to ascertain whether the taxpayer has a commercial intent.
+. . .
+50 It is clear that in order to apply s. 9, the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither businesses, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?
+The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property.
+51 Equating “source of income” with an activity undertaken “in pursuit of profit” accords with the traditional common law definition of “business,” i.e., “anything which occupies the time and attention and labour of a man for the purpose of profit”: Smith, supra, at p. 258, Terminal Dock, supra. As well, business income is generally distinguished from property income on the basis that a business requires an additional level of taxpayer activity: see Krishna, supra, at p. 240. As such, it is logical to conclude that an activity undertaken in pursuit of profit, regardless of the level of taxpayer activity, will be either a business or property source of income.
+52 The purpose of this first stage of the test is simply to distinguish between commercial and personal activities, and, as discussed above, it has been pointed out that this may well have been the original intention of Dickson J.'s reference to “reasonable expectation of profit” in Moldowan. Viewed in this light, the criteria listed by Dickson J. are an attempt to provide an objective list of factors for determining whether the activity in question is of a commercial or personal nature. These factors are what Bowman J.T.C.C. has referred to as “indicia of commerciality” or “badges of trade”: Nichol, supra, at p. 1218. Thus, where the nature of a taxpayer's venture contains elements which suggest that it could be considered a hobby or other personal pursuit, but the venture is undertaken in a sufficiently commercial manner, the venture will be considered a source of income for the purposes of the Act.
+53 We emphasize that this “pursuit of profit” source test will only require analysis in situations where there is some personal or hobby element to the activity in question. With respect, in our view, courts have erred in the past in applying the REOP test to activities, such as law practices and restaurants, where there exists no such personal element: see, for example, Landry, supra, Sirois, supra, Engler v. R. (1994), 94 D.T.C. 6280 (Fed. T.D.). Where the nature of an activity is clearly commercial, there is no need to analyze the taxpayer's business decisions. Such endeavours necessarily involve the pursuit of profit. As such, a source of income by definition exists, and there is no need to take the inquiry any further.
+54 It should also be noted that the source of income assessment is not a purely subjective inquiry. Although in order for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit, in addition, as stated in Moldowan, this determination should be made by looking at a variety of objective factors. Thus, in expanded form, the first stage of the above test can be restated as follows: "Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?" This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+55 The objective factors listed by Dickson J. in Moldowan, at p. 486, were: (1) the profit and loss experience in past years; (2) the taxpayer's training; (3) the taxpayer's intended course of action; and (4) the capability of the venture to show a profit. As we conclude below, it is not necessary for the purposes of this appeal to expand on this list of factors. As such, we decline to do so; however, we would reiterate Dickson J.'s caution that this list is not intended to be exhaustive, and that the factors will differ with the nature and extent of the undertaking. We would also emphasize that although the reasonable expectation of profit is a factor to be considered at this stage, it is not the only factor, nor is it conclusive. The overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner. …
+(emphasis added)
+[11] In Morris v. Her Majesty the Queen, 2003 FCA 116, 2003 D.T.C. 5236, [2003] 3 C.T.C. 75, 301 N.R. 327, the Federal Court of Appeal stated as follows:
+11 The Judge's finding that Mr. Morris had a strong personal interest in fishing assumes a particular importance because the Court stated in Stewart that, although a reasonable expectation of profit is not a necessary requirement to establish a source of income for the purpose of section 9 of the Act when the activity is of a commercial nature, if there is a personal or hobby element in the activity in question it is still relevant to determine if there is a reasonable expectation of profit from the activity in order to decide whether the taxpayer had a commercial intent. In these circumstances, the objective criteria prescribed in Moldowan remain relevant, although the existence of a reasonable expectation of profit from the activity is only one of the circumstances that must be examined when ascertaining whether the taxpayer has a commercial intent: Stewart at paras. 5 and 55..
+12 According to Stewart (at para. 50), in order to determine if a source of income exists a court should first ask: “is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?” The factors listed in Moldowan provide objective criteria for answering this question. Thus, even though the taxpayer has a personal interest in the activity, if “the venture is undertaken in a sufficiently commercial manner, the venture will be considered a source of income for the purposes of the Act”: Stewart at para 52. The Court went on to say (at para. 54) that to establish an intention on the part of the taxpayer to pursue an activity for profit, rather than personal interest, requires the taxpayer to establish that his or her predominant intention is to make a profit and that the activity has been carried on in accordance with objective standards of businesslike behaviour.
+(emphasis added)
+[12] In this case the activities of the Appellant could be a hobby or personal endeavour. Many individuals collect memorabilia and other items. Some of the items that were purchased had a personal connection to the Appellant or his brother. The items that were purchased included soccer memorabilia from the soccer team that the Appellant supported and items related to the aircraft carrier on which the Appellant’s brother served in the navy. Many of the items were purchased in a haphazard manner on e-bay. As a result, the activities may have been personal or at least “there is a suspicion that the taxpayer's activity is a hobby or personal endeavour”. In this situation, it is necessary to determine whether the activities have been undertaken in a sufficiently commercial manner to make the activities commercial in nature. Did the Appellant carry out his activities “in accordance with objective standards of businesslike behaviour”?
+[13] The Supreme Court of Canada noted four objective factors that are to be examined in determining whether an activity should be classified as commercial in nature when making the determination of whether the activity is personal or commercial. These are as follows:
+1. the profit and loss experience in past years;
+2. the taxpayer’s training;
+3. taxpayer’s intended course of action; and
+4. the capability of the venture to show a profit.
+[14] The alleged business in this case commenced in 1999 and since no items were sold at all, there could not have been a profit in either 1999 or 2000. Since no items were sold in 2002, 2003 or 2004, again there was obviously no profit in any of those years. While the Appellant did attempt to take some training there was no evidence of any prior experience or training in buying and selling fad items or memorabilia or carrying on any retail operation. The previous business venture was driving for an auto parts company.
+[15] The Appellant’s intended course of action in holding on to the items in the hopes that they would appreciate in value does not suggest that this is a commercial activity. During the years under appeal, there does not appear to be any plan of action to liquidate the inventory. Rather the plan was to hold it and hope that it would go up in value.
+[16] In this particular case, there is very little evidence of any advertising that was actually completed. Although the amount spent on advertising was significant in 2003 and 2004, most of this was paid to the brother-in-law of the Appellant for work related to the website design for a website which received no hits.
+[17] The final criteria listed by the Supreme Court of Canada is the capability of the venture to show a profit. Without selling a single item, it is difficult for the Appellant to establish that the venture had any capability of showing a profit.
+[18] In this particular case there is also an issue in relation to the record keeping and the determination of profit. In Kaye v. The Queen, 98 DTC 1659, [1998] 3 C.T.C. 2248, Bowman, J. (as he then was) dealt with a situation in which a person was claiming various expenses for an alleged business. The alleged business in that case was buying and selling antiques and collectibles. Although this case was prior to the Supreme Court of Canada decision in Stewart, the test applied by Bowman, J. still relates to the question of whether it was carried on in a businesslike manner and this case was cited by the Supreme Court of Canada in the Stewart case. As well, Bowman, A.C.J. (as he then was) also cited this case in Martin v. Her Majesty the Queen 2003 TCC 155, [2003] 3 C.T.C. 2416 which was after the Supreme Court of Canada released its decision in the Stewart case. Of particular note in the Kaye case are the comments of Bowman, J. (as he then was) in paragraphs 12, 13 and 14 where he stated as follows:
+[12] After most of the evidence had been adduced counsel agreed to abandon the claim for the additional $6,287 and limited it to a claim for $5,523. This was probably on the basis that it was clear that many of the expenses could not be substantiated. For example, some $3,000 was claimed as an opening inventory although the appellant was unable to state just what was in the opening inventory, some of which he agreed was purchased from his father-in-law's wife. I should have thought that if there was $3,000 worth of opening inventory and only $150 worth was sold the balance together with purchases in the year, valued at the lower of lost [sic] or market or on some other basis as may be appropriate, would have appeared in the closing inventory. The statement of business activities shows, in computing as cost of goods sold an opening inventory of $3,000, purchases of $4,300 for a total of $7,300, less a closing inventory of $5,500 for a cost of goods sold of $1,800. This means that the goods sold of $150 (two hockey cards) had a notional cost attributed to them of $1,800.
+[13] I cite this as one example of the somewhat unrealistic way in which the computation of the income or loss was approached. Many of the other expenses appear to have been ballpark guesstimates. The other expenses claimed are round figures - such as salaries ($2,450) travel ($1,500) motor vehicle expenses ($3,250) and so forth. There was no separate business bank account and it was impossible to tell from the bank statement that was put in evidence just what the money withdrawn from the account was spent on.
+[14] Quite apart from the rather fundamental question of what the loss, if any, was, this somewhat haphazard method of record keeping is quite inconsistent with the assertion that a real business was being carried on.
+[19] In Kaye, the fact that the taxpayer had claimed that the costs of goods sold was $1,800 in relation to the sale of two hockey cards indicated a “somewhat unrealistic way in which the computation of the income or loss was approached”. In this particular case, no items were sold yet the entire amount of the purchases was deducted in each year and the amount spent on purchases made in 2003 was deducted twice, once in 2003 and again in 2004. In 2002, the amount deducted as purchases represented 77% of all the expenses that were claimed. In 2003, the amount deducted for purchases represented approximately 65% of all of the expenses that were claimed. In 2004, the total amount claimed as a deduction for the opening inventory and as a deduction for the purchases represented approximately 57% of all of the expenses that were claimed. As in the Kaye case, this is an unrealistic method of calculating income. As noted no valuation of the inventory was completed and therefore it is impossible to determine what, if any, write down of the inventory should be taken into account for any of these years. This also confirms that the activities were not carried on in a businesslike manner.
+[20] As a result, I find that the activities of the Appellant in 2002, 2003 and 2004 were personal and not commercial in nature and hence the amounts claimed as business expenses were not deductible by the Appellant as the Appellant had no source of income from which to deduct these amounts.
+[21] The appeals for the 2002, 2003 and 2004 taxation years are dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 20th day of September 2007.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2007TCC557
+COURT FILE NO.: 2006-853(IT)I
+STYLE OF CAUSE: JOHN G. BROOKS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 12, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: September 20, 2007
+APPEARANCES:
+Agent for the Appellant:
+Reverend Sir David Brooks
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

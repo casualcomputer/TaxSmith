@@ -1,0 +1,111 @@
+Title: Ali v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26530/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-726-26530-ali-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-11-01
+
+# Ali v. The Queen
+
+- Citation: 2004 TCC 726
+- Decision date: 2004-11-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3214, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ali v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-01
+Neutral citation
+2004 TCC 726
+File numbers
+2004-2376(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket:2004-2376(IT)I
+BETWEEN:
+ADIL ALI,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 14, 2004, at St. Catharines, Ontario, by
+The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Peter M. Kremer, Q.C.
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 2002 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to a tuition credit based upon fees paid of $5,602 and an education tax credit based upon one month of attendance.
+Signed at Ottawa, Canada, this 1st day of November, 2004.
+"E.A. Bowie"
+Bowie J.
+Citation: 2004TCC726
+Date: 20041101
+Docket:2004-2376(IT)I
+BETWEEN:
+ADIL ALI,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+BowieJ.
+[1] The Appellant was a student at Northwood University in Midland, Michigan, in the United States of America in the years 2002 and 2003. In filing his income tax return for the year 2002, he claimed the tuition credit that section 118.5 of the Income Tax Act (the Act) provides, and the education tax credit under section 118.6. Initially, he was allowed a tuition credit based upon the payment of fees totalling $11,011, and an education credit based upon eight months of full-time attendance at a qualifying educational program at a designated educational institution. He was later reassessed to disallow both of these credits, and it is from that reassessment that he now appeals.
+[2] The facts are not now in dispute, although the Minister's reassessment of the Appellant was based on a misunderstanding as to the exact duration of the second course for which he was registered. The Appellant earned a diploma from Niagara College in Ontario. Thereafter, he studied Business Administration at Midland University. He enrolled there in September 2002, and he paid fees of US$3,367 for the fall term. That term began the week of September 2 and lasted until the week of November 11. He then enrolled for the winter term, paying fees of US$3,487. That term lasted from the week of December 2, 2002 to the week of February 24, 2003. The fall term therefore was of 11 weeks duration, and the winter term was 13 weeks. It is not disputed that the total fees that the Appellant paid were equivalent to C$11,011.
+[3] Paragraph 118.5(1)(b) of the Act makes provision for the tuition credit in respect of fees paid to attend a university outside Canada. The relevant part reads:
+118.5(1) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted,
+(a) ...
+(b) where the individual was during the year a student in full-time attendance at a university outside Canada in a course leading to a degree, an amount equal to the product obtained when the appropriate percentage for the year is multiplied by the amount of any fees for the individual's tuition paid in respect of the year to the university, except any such fees
+(i) paid in respect of a course of less than 13 consecutive weeks duration,
+...
+It is subsection 118.6(2) of the Act that creates the education credit, but it is made available only to an individual who was
+... enrolled in a qualifying educational program as a full-time student at a designated educational institution ...
+For the purposes of this appeal the expression "designated educational institution" is defined by paragraph 118.6(1)(b) to mean
+a university outside Canada at which the individual referred to in subsection (2) was enrolled in a course, of not less than 13 consecutive weeks duration, leading to a degree, ...
+[4] It is therefore a requirement in respect of each of these credits that the course in which the taxpayer was enrolled be of at least 13 consecutive weeks duration. In the Appellant's case the winter term qualifies, but the fall term does not. Counsel for the Respondent conceded at the hearing of the appeal that the Appellant is entitled to credits based on the fees for the winter term and the one month of the winter term that took place in 2002, based upon the Appellant's uncontradicted evidence as to the duration of the winter term. The appeal will be allowed, to that extent.
+[5] This may well be a case in which the Respondent would consider a remission of the taxes involved. Mr. Ali testified that Midland University, like many U.S. universities, operates on a quarterly rather than a trimester system, with the result that a student may attend on a full-year basis, and yet not be enrolled for more than 11 or 12 weeks in one term, and so be unable for that reason alone to qualify for the tax credits. The apparent intention of the 13-consecutive week requirement is to ensure that the credit is available only to students who are studying on a full-time basis. However, those students like Mr. Ali, who attend universities that operate on a quarterly basis, are placed at what seems to be an unintended disadvantage, even though they attend throughout the year. That, however, is a matter for the executive, not the Court, to decide.
+[6] The appeal will be allowed and the assessment referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to a tuition credit based upon fees paid of $5,602 and an education tax credit based upon one month of attendance.
+Signed at Ottawa, Ontario, this 1st day of November, 2004.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2004TCC726
+COURT FILE NO.:
+2004-2376(IT)I
+STYLE OF CAUSE:
+Adil Ali and Her Majesty the Queen
+PLACE OF HEARING:
+St. Catharines, Ontario
+DATE OF HEARING:
+October 14, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT:
+November 1, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Peter M. Kremer, Q.C.
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

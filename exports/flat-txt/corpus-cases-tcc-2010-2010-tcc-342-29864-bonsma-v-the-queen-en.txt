@@ -1,0 +1,170 @@
+Title: Bonsma v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29864/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-342-29864-bonsma-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-06-22
+
+# Bonsma v. The Queen
+
+- Citation: 2010 TCC 342
+- Decision date: 2010-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6421, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bonsma v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-22
+Neutral citation
+2010 TCC 342
+File numbers
+2009-3430(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3430(IT)I
+BETWEEN:
+CLARENCE BONSMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 19, 2010, at Edmonton, Alberta.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amy Martin-LeBaence
+Marla Teeling, Observer
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2005, 2006 and 2007 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of June 2010.
+“Paul Bédard”
+Bédard J.
+Citation: 2010 TCC 342
+Date: 20100622
+Docket: 2009-3430(IT)I
+BETWEEN:
+CLARENCE BONSMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This appeal under the informal procedure was heard at Edmonton, Alberta, on May 19, 2010. The Appellant was the only witness.
+Context
+[2] The Appellant commenced his employment with Tesco Corporation (“Tesco”) on August 25, 2000 as a top‑drive technician. In January 2004, the Appellant claimed statutory vacation pay owing to him by Tesco. Tesco refused to pay the outstanding statutory vacation pay and the Appellant proceeded through the Alberta Labour Department to enforce payment. He received the initial payment of statutory vacation pay sometime around July 2004 and the final payment on or about October 28, 2004.
+[3] The Appellant testified that Tesco restricted the work assigned to him after he enforced payment of the statutory vacation pay. He also said that he did not receive standby pay between jobs while working for Tesco. He stated that Tesco used its ability to restrict his work assignments as a mean of punishing him for claiming the outstanding statutory vacation pay and that between July 2004 and the termination of his employment on November 18, 2004 his only income from Tesco was for 32 hours of training at $20 per hour. He explained that he had to terminate his employment with Tesco on November 18, 2004 since he was unable to survive without income.
+[4] Finally, on August 4, 2005, the Appellant filed in the Court of Queen’s Bench of Alberta a statement of claim against Tesco for its alleged wrongful actions (“Statement of Claim”).
+[5] In the Statement of Claim (see Exhibit A‑1, Tab 1), the Appellant claimed that he had suffered loss and damages as follows:
+a. Pecuniary damages for loss of employment income prior to termination of employment;
+b. Pecuniary damages for loss of employment income after termination of employment;
+c. Pecuniary damages for the loss of benefits and advantages of his employment;
+d. Non pecuniary damages for bad faith treatment
+e. Such further and other benefits as may be proven at the time of trial.
+[6] The Appellant accordingly sought damages as follows:
+a. General damages in the sum of $100,000.00;
+b. Aggravated damages in the sum of $50,000.00;
+c. Punitive damages in the sum of $50,000.00;
+d. Special damages in the sum of $10,000.00.
+[7] The Appellant did not receive from Tesco, as a result of his legal action against that company, a retiring allowance, including any damages or settlement for wrongful dismissal, in the 2005, 2006 or 2007 taxation years. Neither did he include in his income for the 2005, 2006 and 2007 taxation years any amount from Tesco in respect of a retiring allowance, including any damages or settlement for wrongful dismissal.
+[8] In computing his income for the 2005, 2006 and 2007 taxation years, the Appellant claimed deductions of the following amounts for legal fees:
+(a) $8,044.00 for 2005;
+(b) $8,206.00 for 2006; and
+(c) $14,924.00 for 2007.
+[9] In reassessing the Appellant for the 2005 and 2006 taxation years on August 10, 2009 and for the 2007 taxation year on December 8, 2008, the Minister of National Revenue (the “Minister”) disallowed the deduction for legal fees for each of those years.
+[10] The Appellant objected to the reassessments for the 2005, 2006 and 2007 taxation years by Notices of Objection dated September 11, 2009 for the 2005 and 2006 taxation years and by a Notice of Objection dated January 8, 2009 for the 2007 taxation year.
+[11] The Minister confirmed the reassessments for the 2005, 2006 and 2007 taxation years by Notification of Confirmation dated September 18, 2009 for the 2005 and 2006 taxation years and by Notification of Confirmation dated August 4, 2009 for the 2007 taxation year.
+[12] The Appellant’s Notice of Appeal was filed with the Tax Court on October 30, 2009.
+[13] In determining the Appellant’s income tax liability for the 2005, 2006 and 2007 taxation years, the Minister relied on the following assumptions of fact:
+(a) on August 4, 2005, the Appellant filed, in the Court of Queen’s Bench of Alberta, a statement of claim against Tesco (the “Statement of Claim”);
+(b) in the Statement of Claim, the Appellant claimed that he suffered losses and damages including:
+(i) pecuniary damages for the loss of employment income;
+(ii) pecuniary damages for the loss of benefits and advantages of his employment; and
+(iii) non pecuniary damages for bad faith treatment;
+(c) in the Statement of Claim, the Appellant sought damages as follows:
+(i) general damages in the sum of $100,000.00;
+(ii) aggravated damages in the sum of $50,000.00;
+(iii) punitive damages in the sum of $50,000.00; and
+(iv) special damages in the sum of $10,000.00;
+(d) the Appellant did not receive a retiring allowance, including any damages or settlement for wrongful dismissal, from Tesco in the 2005, 2006 or 2007 taxation years as a result of his legal action against Tesco;
+(e) the Appellant did not include into [sic] income for the 2005, 2006 and 2007 taxation years any amounts from Tesco in respect of a retiring allowance, including any damages or settlement for wrongful dismissal; and
+(f) the Appellant paid legal fees of no more than $13,723.91 in 2007.
+Issue to be decided
+[14] The issue to be decided is whether the Minister properly disallowed the Appellant’s claim for deductions in the following amounts for legal fees:
+(a) $8,044.00 for 2005;
+(b) $8,206.00 for 2006; and
+(c) $14,924.00 for 2007.
+Respondent’s position
+[15] The Respondent submits that the legal fees paid by the Appellant in the 2005, 2006 and 2007 taxation years were incurred for the purpose of establishing a right to damages from Tesco for the loss of employment and not for the purpose of collecting or establishing a right to salary or wages owed to the Appellant by Tesco. The Respondent submits that, accordingly, the legal fees were incurred for the purpose of establishing a right to a retiring allowance within the meaning of subsection 248(1) of the Income Tax Act (the “Act”). The Respondent also submits that the Minister of National Revenue (the “Minister”) properly disallowed the Appellant’s claims for the deduction of legal fees in that the deduction of legal fees paid to collect or to establish a right to a retiring allowance is limited to the amount of the retiring allowance received and included in income in the year. Accordingly, as the Appellant did not receive and include in income any amount on account of a retiring allowance from Tesco in the 2005, 2006 and 2007 taxation years, the Appellant is prohibited from deducting his legal fees by virtue or paragraph 60(o.1) of the Act. Finally, the Respondent submits that should the Court find that the Appellant is entitled to the deduction of legal fees, the Appellant’s claim should be limited to the amount of legal fees actually paid. In this regard, the Respondent alleges that the Appellant paid legal fees of no more than $7,839.80 in 2005 and no more than $13,723.91 in 2007.
+Appellant’s position
+[16] Essentially, the Appellant submits that the legal fees claimed were not paid for the purpose of attempting to establish a right to a retiring allowance but for the purpose of recovering from Tesco lost employment earnings and related damages.
+Analysis and conclusion
+[17] The relevant provisions of the Act in this case read as follows:
+8(1) Deductions allowed -- In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . .
+(b) Legal expenses of employee -- amounts paid by the taxpayer in the year as or on account of legal expenses incurred by the taxpayer to collect or establish a right to salary or wages owed to the taxpayer by the employer or former employer of the taxpayer;
+. . .
+60.(o) Legal [or other] expenses [of objection or appeal] -- amounts paid by the taxpayer in the year in respect of fees or expenses incurred in preparing, instituting or prosecuting an objection to, or an appeal in relation to,
+. . .
+(o.1) Legal expenses [re job loss or pension benefit] -- the amount, if any, by which the lesser of
+(i) the total of all legal expenses (other than those relating to a division or settlement of property arising out of, or on a breakdown of, a marriage or common-law partnership) paid by the taxpayer in the year or in any of the 7 preceding taxation years to collect or establish a right to an amount of
+. . .
+(B) a retiring allowance of the taxpayer or a deceased individual of whom the taxpayer was a dependant, relation or legal representative, and
+. . .
+248(1) . . .
+. . .
+“retiring allowance” means an amount (other than a superannuation or pension benefit, an amount received as a consequence of the death of an employee or a benefit described in subparagraph 6(1)(a)(iv)) received
+(a) on or after retirement of a taxpayer from an office or employment in recognition of the taxpayer's long service, or
+(b) in respect of a loss of an office or employment of a taxpayer, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal,
+by the taxpayer or, after the taxpayer's death, by a dependant or a relation of the taxpayer or by the legal representative of the taxpayer;
+. . .
+“salary or wages”, except in sections 5 and 63 and the definition “death benefit” in this subsection, means the income of a taxpayer from an office or employment as computed under subdivision a of Division B of Part I and includes all fees received for services not rendered in the course of the taxpayer's business but does not include superannuation or pension benefits or retiring allowance.
+[18] Paragraph 8(1)(b) of the Act essentially permits in the computation of income from an office or from employment a deduction for legal expenses paid by a taxpayer in the year in order to collect or to establish a right to salary or wages owed by an employer. Salary and wages include amounts owing to a person for services already rendered in circumstances where the employer has failed to pay such salary and wages. In the present case, the evidence clearly revealed that none of the amounts claimed in the Statement of Claim were related to services already rendered by the Appellant to Tesco. Consequently, I am of the opinion that by virtue of paragraph 8(1)(b) of the Act the Appellant cannot deduct the legal expenses that he paid in the years at issue.
+[19] A retiring allowance includes an amount received “in respect of” a loss of an office or employment. In this context, the words “in respect of” imply a connection between the loss of employment and the subsequent payment, whose primary purpose was compensation for the loss of employment. The two questions to be answered in order to determine whether such a connection exists for the purposes of establishing the existence of a retiring allowance are as follows:
+1. But for the loss of employment would the amount have been received?
+2. Was the purpose of the payment to compensate a loss of employment?
+Only if the answer to the first question is “no” and the answer to the second question is “yes” will the amount received be considered a retiring allowance. Accordingly, when an individual receives compensation on account of damages suffered as a result of a loss of employment, the amount received will generally be taxed as a retiring allowance. This also applies to special damages, such as those received for lost (unearned) wages or employee benefits. It applies as well to general damages received for the loss of self‑respect, for humiliation, for mental anguish, for hurt feelings, etc. I would point out, however, that general damages relating to human rights violations can be considered as being unrelated to a loss of employment.
+[20] Here, the evidence revealed the following:
+i. The Appellant lost his employment;
+ii. But for the loss of his employment, the amount of damages claimed in his Statement of Claim would never be received; and
+iii. The purpose of any amount that he received would clearly be to compensate him for his loss of employment and not to pay salary or wages owed him by Tesco.
+Consequently, I am of the opinion that the Appellant’s legal fees were incurred to establish a right to a retiring allowance.
+[21] Since the Appellant did not receive and include in income any amount on account of a retiring allowance paid by Tesco in the 2005, 2006 and 2007 taxation years, he is prohibited from deducting his legal fees by virtue of paragraph 60(o.1) of the Act, which limits the deduction of legal fees to the amount of the retiring allowance received and included in income in a taxation year.
+[22] As I have concluded that the Appellant is prohibited from deducting his legal fees, I do not see the necessity of determining what part of those fees qualified as legal fees.
+[23] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 22nd day of June 2010.
+“Paul Bédard”
+Bédard J.
+CITATION: 2010 TCC 342
+COURT FILE NO.: 2009-3430(IT)I
+STYLE OF CAUSE: CLARENCE BONSMA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: May 19, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: June 22, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amy Martin-LeBaence
+Marla Teeling, Observer
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

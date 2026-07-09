@@ -1,0 +1,236 @@
+Title: Heaney c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30529/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-429-30529-heaney-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-10-03
+
+# Heaney c. La Reine
+
+- Citation: 2011 CCI 429
+- Decision date: 2011-10-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7332, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Heaney c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-10-03
+Référence neutre
+2011 CCI 429
+Numéro de dossier
+2005-766(IT)G, 2005-767(GST)I, 2005-768(IT)G, 2005-769(GST)I, 2005-770(IT)G, 2005-771(GST)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2005-766(IT)G
+2005-767(GST)I
+ENTRE :
+ADAM HEANEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels de Ken Chasse (2005-768(IT)G, 2005-769(GST)I) et de David Gilbert (2005-770(IT)G, 2005-771(GST)I) le 20 juin 2011, à Toronto (Ontario).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée:
+Me Jack Warren
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en application de la Loi de l’impôt sur le revenu, dont l’avis est daté du 26 février 2004, est accueilli sans frais et l’affaire est renvoyée au ministre du Revenu pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+L’appel interjeté à l’égard de la cotisation établie en application de la Loi sur la taxe d’accise, dont l’avis est daté du 26 février 2004 et porte le numéro 50212, est accueilli sans frais et l’affaire est renvoyée au ministre du Revenu pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+La Cour ordonne en outre le remboursement à l’appelant des droits de dépôt de 100 $.
+Signé à Ottawa, Canada, ce 3e jour d’octobre 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 30e jour de novembre 2011.
+Mario Lagacé, jurilinguiste
+Dossiers : 2005-768(IT)G
+2005-769(GST)I
+ENTRE :
+KEN CHASSE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels d’Adam Heaney (2005-766(IT)G, 2005-767(GST)I) et de David Gilbert (2005-770(IT)G, 2005-771(GST)I) le 20 juin 2011 à Toronto (Ontario).
+Devant : L’honorable juge Diane Campbell
+Comparutions:
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée:
+Me Jack Warren
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en application de la Loi de l’impôt sur le revenu, dont l’avis est daté du 26 février 2004, est accueilli sans frais et l’affaire est renvoyée au ministre du Revenu pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+L’appel interjeté à l’égard de la cotisation établie en application de la Loi sur la taxe d’accise, dont l’avis est daté du 26 février 2004 et porte le numéro 50169, est accueilli sans frais et l’affaire est renvoyée au ministre du Revenu pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+La Cour ordonne en outre le remboursement à l’appelant des droits de dépôt de 100 $.
+Signé à Ottawa, Canada, ce 3e jour d’octobre 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 30e jour de novembre 2011.
+Mario Lagacé, jurilinguiste
+Dossiers : 2005-770(IT)G
+2005-771(GST)I
+ENTRE :
+DAVID GILBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus sur preuve commune avec les appels d’Adam Heaney (2005-766(IT)G, 2005-767(GST)I) et de Ken Chasse (2005-768(IT)G, 2005-769(GST)I) le 20 juin 2011, à Toronto (Ontario).
+Devant : L’honorable juge Diane Campbell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jack Warren
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en application de la Loi de l’impôt sur le revenu, dont l’avis est daté du 26 février 2004, est accueilli sans frais et l’affaire est renvoyée au ministre du Revenu pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+L’appel interjeté à l’égard de la cotisation établie en application de la Loi sur la taxe d’accise, dont l’avis est daté du 26 février 2004 et porte le numéro 50213, est accueilli sans frais et l’affaire est renvoyée au ministre du Revenu pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+La Cour ordonne en outre le remboursement à l’appelant des droits de dépôt de 100 $.
+Signé à Ottawa, Canada, ce 3e jour d’octobre 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 30e jour de novembre 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2011 CCI 429
+Date : 20111003
+Dossiers : 2005-766(IT)G
+2005-767(GST)I
+ENTRE :
+ADAM HEANEY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossiers : 2005-768(IT)G
+2005-769(GST)I
+ENTRE :
+KEN CHASSE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossiers : 2005-770(IT)G
+2005-771(GST)I
+ET ENTRE :
+DAVID GILBERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Campbell
+[1] Les appelants étaient administrateurs de DSL Communications Inc. (« DSL »), qui, au cours des années d’imposition 2000, 2001 et 2002, n’a pas versé les retenues à la source prélevées sur les salaires de ses employés. De plus, entre octobre 2000 et janvier 2003, DSL n’a pas versé la taxe sur les produits et services (la « TPS ») nette qu’elle avait perçue. Une cotisation a été établie à l’égard des appelants conformément à l’article 227.1 de la Loi de l’impôt sur le revenu (« LIR ») et à l’article 323 de la Loi sur la taxe d’accise (« LTA ») relativement aux sommes que DSL avait omis de verser, ainsi qu’aux pénalités et intérêts connexes.
+La question en litige
+[2] La question en litige est de savoir si les appelants sont responsables, en qualité d’administrateurs de DSL, du paiement des sommes que DSL a omis de verser ou s’ils peuvent invoquer la défense de la diligence raisonnable énoncée dans les dispositions de la LIR et de la LTA concernant la responsabilité des administrateurs.
+Les faits
+[3] DSL a été constituée en société en mars 2000 à titre de fournisseur d’accès Internet. Elle était l’une des premières sociétés à travailler avec Bell Canada (« Bell ») en Ontario et au Québec et revendait au public les récentes connexions Internet à haute vitesse. DSL était une filiale de Velocet Communications Inc. (« Velocet »), une autre société qui offrait des services de conseil en informatique et dont les appelants étaient administrateurs.
+[4] DSL a été créée grâce à l’aide financière de CI Communications Inc. (« CI »), qui était également un fournisseur de services Internet et qui avait accès à des millions de dollars. CI a investi des sommes très élevées dans les entreprises commerciales de DSL et de Velocet et a promis d’autres injections de fonds pour payer certains frais prévus, y compris les retenues à la source et les versements de TPS de DSL. Selon le témoignage de M. Heaney, l’entreprise de DSL a connu un essor rapide. En quelques mois à peine, la société comptait 40 employés à son service.
+[5] Lorsqu’elle revendait les services de Bell, DSL utilisait une technologie semblable pour l’essentiel à celle que Bell emploie aujourd’hui. Pour revendre les services de Bell, DSL devait acheter des articles d’équipement de celle-ci, y compris des modems coûteux, et les louer à ses clients. Les premiers modems n’étaient pas adéquats, parce qu’ils ne permettaient pas d’atteindre les vitesses promises. DSL n’a donc pu les vendre ni les retourner à Bell. C’est là que les problèmes de DSL ont commencé, parce que l’entreprise devait des centaines de milliers de dollars à l’égard de modems désuets qui devaient être remplacés.
+[6] À la fin de septembre 2000, les appelants étaient au courant de deux problèmes majeurs auxquels DSL était aux prises. D’abord, elle avait des problèmes de réseau et de facturation avec Bell. C’était là un aspect crucial, parce que l’entreprise de DSL dépendait en entier de l’infrastructure de Bell pour offrir des services à ses clients. De plus, le financement que DSL avait obtenu de CI était en péril. DSL a appris que CI éprouvait de graves problèmes financiers imprévus et qu’elle ne serait peut-être pas en mesure de remplir ses engagements financiers ultérieurs envers elle. À la fin de l’année 2000, CI a fait faillite.
+[7] Lorsque les appelants ont été mis au courant de ces problèmes, ils ont immédiatement pris des mesures pour réduire les coûts de DSL et pour trouver d’autres sources de financement. DSL a mis fin à toute publicité, modifié ses offres de produits, licencié des employés, réduit les heures du service à la clientèle, retenu les services du groupe appelé Affinity Financial Group pour l’aider à recouvrer les créances et travaillé avec des comptables pour trouver d’autres investisseurs ou sources de financement. DSL a également engagé des discussions avec Bell afin de négocier les achats d’équipement, y compris les modems, ainsi que les coûts uniques élevés comme les frais de lancement. De plus, DSL a tenté de corriger les erreurs de facturation qui se produisaient avec Bell afin que les sommes correspondantes soient portées au crédit de ses comptes. DSL a créé un registre afin d’assurer le suivi de ces mesures.
+[8] Les efforts déployés pour trouver de nouvelles sources de financement ont été vains. M. Heaney a attribué cet échec à ce qu’il a appelé [traduction] « l’éclatement de la bulle Internet » qui a été observé à l’époque (transcription, page 117, lignes 23 à 24). Le 31 octobre 2000, DSL a fait défaut pour la première fois d’effectuer les paiements de TPS. Vers la mi‑décembre 2000, elle a fait défaut pour la première fois de verser les retenues à la source.
+[9] En décembre 2000, Bell a demandé à DSL de lui payer plusieurs comptes en souffrance, dont quelques-uns ont été décrits comme des comptes qui [traduction] « remontaient à un certain temps » (pièce A-1, onglet 2). Le 20 décembre 2000, Bell a demandé que le paiement d’une somme de plus de 145 000 $ soit effectué en deux versements, dont le premier était échu le 22 décembre 2000. En cas de défaut de paiement, DSL se verrait nier toute possibilité de [traduction] « croissance ultérieure », ce qui signifiait vraisemblablement que Bell commencerait à refuser de traiter les dossiers des nouveaux clients de DSL (pièce A-1, onglet 2).
+[10] Au cours de son témoignage, M. Heaney a expliqué clairement ce qui se passerait si DSL choisissait de ne pas payer Bell. Sans les services de Bell, DSL ne pourrait plus poursuivre ses activités. M. Heaney a décrit comme suit le sort qui attendait DSL :
+[traduction]
+Bell était devenue une nécessité absolue. Nous ne pouvions pas nous en sortir sans les payer. Ils nous surveillaient de très près et, en cas de défaut de paiement de notre part, nous aurions perdu les clients.
+(Transcription, page 26, lignes 6 à 9)
+[11] En conséquence, DSL a choisi de reporter le paiement des versements à l’Agence du revenu du Canada (« ARC »). Les appelants considéraient ce report comme une mesure temporaire, parce qu’ils s’attendaient à trouver du nouveau financement qui permettrait à DSL de s’acquitter de ses obligations envers l’ARC. Tout au long de l’année 2001, les appelants ont continué sans succès à chercher de nouveaux partenariats et investisseurs et d’autres façons de reconstituer le capital de DSL.
+[12] En novembre et décembre 2001, Bell a exigé le paiement d’une somme de 195 000 $ et menacé de couper les services de DSL (pièce A1, onglet 2). Étant donné qu’elle n’avait pas de financement et que ses dettes ne cessaient d’augmenter, DSL a présenté, en février 2002, une proposition à ses créanciers sous le régime de la Loi sur la faillite et l’insolvabilité, laquelle proposition a été subséquemment approuvée par la Cour supérieure de justice de l’Ontario.
+[13] Les appelants ont continué à chercher de nouvelles sources de financement et, en octobre 2002, ils ont entamé des discussions avec une société appelée Wiznet Inc. (« Wiznet »), laquelle était dirigée par Fraser et Jeff Mason, deux comptables agréés. Les appelants ont consenti à une fusion entre DSL et Wiznet et, en novembre 2002, Wiznet a acquis les biens de Velocet et de DSL. Les appelants sont devenus administrateurs et actionnaires de Wiznet. Sur les conseils de Fraser Mason, DSL et Velocet n’ont pas respecté les conditions de la proposition présentée aux créanciers et, en mars 2003, elles ont fait une cession de faillite. L’intention était de permettre à Wiznet d’acheter les biens de Velocet et de DSL pour la somme de 185 000 $. Selon ce que les appelants avaient compris, [traduction] « [...] l’ARC serait satisfaite de cette somme [...] » (transcription, page 35, lignes 15 à 16). Afin d’obtenir la somme de 185 000 $, Wiznet a effectué ce que M. Heaney a décrit comme un [traduction] « appel de liquidités » (transcription, page 85, ligne 11). Les appelants ont fourni une somme de 85 000 $ en contractant un emprunt auprès des parents de M. Gilbert. Le reste a été avancé par Fraser Mason, qui contrôlait désormais la société par suite de ces mesures.
+Analyse
+[14] Les articles 227.1 de la LIR et 323 de la LTA sont des dispositions presque identiques. Les paragraphes 227.1(1) de la LIR et 323(1) de la LTA prévoient tous les deux que, lorsqu’une société a omis de payer un montant d’impôt ou de taxe, les administrateurs de la société sont solidairement responsables, avec la société, du paiement de cette somme. Les paragraphes 227.1(2) et (3) de la LIR permettent aux administrateurs d’échapper à cette responsabilité s’ils prouvent qu’ils ont agi avec le degré de soin, de diligence et d’habileté nécessaire pour prévenir le manquement. Voici le texte des dispositions en cause :
+227.1 (1) Lorsqu’une société a omis de déduire ou de retenir une somme, tel que prévu aux paragraphes 135(3) ou 135.1(7) ou aux articles 153 ou 215, ou a omis de verser cette somme ou a omis de payer un montant d’impôt en vertu de la partie VII ou VIII pour une année d’imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s’y rapportant.
+(2) Un administrateur n’encourt la responsabilité prévue au paragraphe (1) que dans l’un ou l’autre des cas suivants :
+a) un certificat précisant la somme pour laquelle la société est responsable selon ce paragraphe a été enregistré à la Cour fédérale en application de l’article 223 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+b) la société a engagé des procédures de liquidation ou de dissolution ou elle a fait l’objet d’une dissolution et l’existence de la créance à l’égard de laquelle elle encourt la responsabilité en vertu de ce paragraphe a été établie dans les six mois suivant le premier en date du jour où les procédures ont été engagées et du jour de la dissolution;
+c) la société a fait une cession ou une ordonnance de faillite a été rendue contre elle en vertu de la Loi sur la faillite et l’insolvabilité et l’existence de la créance à l’égard de laquelle elle encourt la responsabilité en vertu de ce paragraphe a été établie dans les six mois suivant la date de la cession ou de l’ordonnance de faillite.
+(3) Un administrateur n’est pas responsable de l’omission visée au paragraphe (1) lorsqu’il a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[15] Le paragraphe 323(3) de la LTA, reproduit ci-dessous, permet également aux administrateurs d’invoquer ce moyen de défense dans les circonstances appropriées.
+323. […]
+(3) L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[16] Il est indéniable que les appelants étaient administrateurs tout au long des périodes pertinentes. Ils étaient des administrateurs internes qui ont participé personnellement à la gestion quotidienne des activités de la société. Cet aspect n’est pas contesté. La question qui se pose est de savoir si les appelants peuvent invoquer la défense de la diligence raisonnable prévue au paragraphe 227.1(3) de la LIR et au paragraphe 323(3) de la LTA. Selon la jurisprudence, c’est pour les administrateurs internes que la tâche d’établir ce moyen de défense est la plus ardue. Les administrateurs internes sont en effet réputés être les personnes les mieux placées pour connaître les problèmes auxquels la société est exposée et avoir le pouvoir de prendre des mesures préventives appropriées pour corriger ces problèmes. L’obligation d’agir de manière proactive en ce qui concerne les paiements que la société doit effectuer naît lorsque l’administrateur est au courant des problèmes possibles ou qu’il aurait dû l’être. Cependant, comme la juge Sharlow l’a souligné au paragraphe 14 de l’arrêt Smith c. La Reine, 2001 CAF 84, [2001] A.C.F. no 448, « [...] la norme est celle du raisonnable et non celle de la perfection ». Si l’administrateur a agi de manière raisonnable, mais que ses efforts n’ont pas donné de résultats, il pourra peut-être encore invoquer la défense de la diligence raisonnable.
+[17] Il est maintenant établi dans la jurisprudence que la norme de diligence imposée par les paragraphes 227.1(3) et 323(3) est la norme objective que la Cour suprême du Canada a établie dans Magasins à rayons Peoples inc. (Syndic de) c. Wise, 2004 CSC 68, [2004] A.C.S. no 64. La Cour d’appel fédérale a récemment confirmé la norme de diligence dans Buckingham c. La Reine, 2011 CAF 142, [2011] A.C.F. no 616. Au paragraphe 34, le juge Mainville a formulé les remarques suivantes :
+34. […] je conviens avec le juge de première instance que la norme « objective subjective » énoncée dans Soper a été remplacée par la norme objective établie par la Cour suprême du Canada dans Magasins à rayons Peoples. J’arrive à cette conclusion compte tenu du libellé du paragraphe 227.1(3) de la Loi de l’impôt sur le revenu et du paragraphe 323(3) de la Loi sur la taxe d’accise, et en appliquant le principe de la présomption de cohérence entre les lois.
+Cependant, l’application d’une norme objective ne signifie pas qu’il ne doit pas être tenu compte des circonstances propres à un administrateur :
+[…] Ces circonstances doivent être prises en compte, mais elles doivent être considérées au regard de la norme objective d’une « personne raisonnablement prudente ». […]
+(Buckingham, paragraphe 39)
+[18] Bien que l’avocat de l’intimée ait invoqué la décision que la Cour d’appel fédérale a récemment rendue dans Buckingham, il n’a pas relevé les similitudes entre les faits des présents appels et ceux de l’affaire Buckingham, où il a été décidé que M. Buckingham avait fait preuve de diligence raisonnable pendant une partie précise de la période pertinente. Après avoir analysé les efforts que M. Buckingham avait déployés pour obtenir de nouvelles sources de financement et les mesures qu’il avait prises pour réduire les dépenses, le juge Webb, de la Cour canadienne de l’impôt, a conclu notamment que M. Buckingham avait fait preuve de diligence en ce qui a trait aux retenues salariales non versées jusqu’en février 2003, mais non après cette date. La Cour d’appel fédérale a décidé, quant à elle, que la même analyse devait être menée tant pour les versements de la TPS que pour ceux des retenues à la source. Toutefois, la conclusion du juge Webb selon laquelle M. Buckingham avait fait preuve de diligence raisonnable jusqu’en février 2003 n’a pas été contestée en appel. En conséquence, M. Buckingham n’était responsable que des versements de la TPS et des retenues salariales que la société n’avait pas effectués après que M. Buckingham eut axé ses efforts sur la correction des défauts de paiement en février 2003. Cependant, la Cour d’appel fédérale a souligné en toutes lettres que les administrateurs ne pourront pas invoquer la défense de la diligence raisonnable s’ils avalisent la poursuite des activités de leur société en réaffectant à d’autres fins les retenues à la source sur les salaires et les versements de la TPS. C’est exactement ce qui s’est produit dans les présentes affaires à la fin de l’année 2000.
+[19] Jusqu’à la fin de l’année 2000, les appelants croyaient raisonnablement que leurs efforts visant à réduire les frais de l’entreprise et à trouver de nouvelles sources de financement permettraient à DSL de s’acquitter de ses obligations, notamment en ce qui a trait aux versements de la TPS et des retenues à la source sur les salaires. Lorsqu’ils ont été mis au courant des problèmes financiers de DSL, ils ont pris des mesures concrètes en croyant raisonnablement qu’ils pourraient empêcher les défauts de paiement de DSL. Ils ont cessé de faire de la publicité, modifié les offres de produits, licencié des employés, réduit les heures du service à la clientèle, travaillé avec des comptables, pris des mesures en vue du recouvrement des créances, négocié avec Bell et continué à chercher de nouvelles sources de financement. Je suis convaincue, à la lumière du témoignage de M. Heaney, que les appelants prenaient des mesures pour corriger la situation en ce qui a trait aux versements que DSL devait effectuer et qu’ils ont agi avec soin et diligence pour empêcher les manquements de DSL à cet égard jusqu’à la fin de l’année 2000. Cependant, après l’année 2000, la conduite des appelants ne respectait plus la norme exigée par les paragraphes 227.1(3) et 323(3), parce que leurs efforts ont ensuite été axés sur la correction des défauts de paiement de DSL. À la fin de l’année 2000, les appelants ont décidé d’inciter DSL à payer Bell plutôt qu’à s’acquitter de ses obligations en matière de versement. Comme c’était le cas dans Buckingham, les appelants ont alors perdu la possibilité de se prévaloir de la défense de la diligence raisonnable.
+[20] En octobre 2000, DSL était incapable de s’acquitter de ses obligations financières et, en décembre 2000, Bell exigeait le paiement de sa créance.
+[21] M. Heaney s’est exprimé de façon très franche en contre-interrogatoire. Il a admis que les administrateurs avaient choisi de payer Bell plutôt que d’autres créanciers de DSL, y compris l’ARC. La preuve ne permet pas de dire clairement à quelle date les appelants ont décidé d’agir ainsi, mais cette pratique s’est poursuivie tout au long de l’année 2001. Voici un extrait du contre-interrogatoire figurant aux pages 67 à 68 de la transcription :
+[traduction]
+Q. Est-ce que vous-même ou quelqu’un d’autre chez DSL aviez décidé de dire « Nous devons reporter le paiement de nos versements à l’ARC ou ne pas les faire »? Y a-t-il eu un moment précis où vous-même ou un autre membre de la direction de DSL vous êtes adressés aux gens de la paie et leur avez dit « retenez le chèque destiné à l’ARC »? Vous rappelez-vous si une décision a été prise et communiquée aux gens qui s’occupaient de la comptabilité et de la paie?
+R. Je suis certain que oui.
+(Transcription, page 67, ligne 20 à la page 68, ligne 3)
+Q. […] Saviez-vous, tout au long de l’année 2001, que les retenues sur les salaires et les montants de TPS dus à l’ARC n’étaient pas payés à la date d’échéance et que vous étiez en retard?
+R. Oui.
+Q. Est-il juste de dire que vous avez toléré cette situation comme mesure de dernier recours pour permettre à l’entreprise de survivre?
+R. C’est exact. Nous pensions que ce serait temporaire. Nous ne nous attendions certainement pas à ce que cela se poursuive aussi longtemps. [...]
+(Transcription, page 68, lignes 14 à 25)
+[22] Il semble que les montants des versements exigés ont été calculés aux dates pertinentes, que DSL ait eu ou non les fonds nécessaires pour effectuer ces versements. En contre-interrogatoire, M. Heaney a répondu comme suit :
+[traduction]
+Q. […] Mme Gilbert et Mme Watters, l’agente de la paie et la contrôleuse -- elles auraient normalement eu pour tâche d’effectuer ces versements des retenues sur les salaires et de la TPS, mais elles ont reçu de DSL l’ordre de retenir ces versements pendant un certain temps. C’est ça?
+R. Les chèques destinés à l’ARC ont probablement été versés dans un dossier avec d’autres chèques dont les montants ne pouvaient tout simplement pas être payés.
+(Transcription, page 69, lignes 9 à 17)
+[23] Bien que la preuve ne permette pas de connaître la date exacte à laquelle la décision de ne pas effectuer les versements a été prise, l’ensemble de la preuve permet raisonnablement de conclure que cette décision a été prise vers la fin de l’année 2000, probablement peu après la première demande de paiement de Bell, qui réclamait une somme de plus de 145 000 $ le 22 décembre 2000, et la deuxième demande formulée le 15 janvier 2001. En conséquence, à la fin de l’année 2000, les appelants ne tentaient plus d’éviter les défauts de paiement, mais s’efforçaient plutôt de corriger ces défauts.
+[24] Le paragraphe 227.1(3) de la LIR et le paragraphe 323(3) de la LTA sont rédigés de façon semblable et doivent être analysés et appliqués de manière semblable. En conséquence, les appelants sont responsables des retenues à la source sur la paie qui auraient dû être versées au cours des années d’imposition 2001 et 2002, ainsi que des montants de TPS nette qui auraient dû être payés tous les trimestres en 2001, 2002 et 2003.
+[25] Enfin, j’aimerais commenter une question qui a été soulevée vers la fin de l’audience au sujet du montant de la dette non réglée de DSL. Bien que cette question n’ait pas été soulevée dans les avis d’appel, une des plaintes des appelants au sujet des cotisations concernait le fait que, selon ce qu’ils avaient compris, la somme de 185 000 $ obtenue par suite de la procédure de faillite serait suffisamment élevée pour régler la dette de DSL. L’agent des appels de l’ARC, Kimmo Riihimaki, a déclaré au cours de son témoignage qu’il se rappelait non seulement la réception de la somme de 185 000 $, mais également la lettre qu’il avait rédigée et envoyée aux appelants pour les informer de la réception de ce paiement et de son imputation aux dettes fiscales de DSL (transcription, pages 109 à 111). En fait, tant M. Riihimaki que l’avocat de l’intimée ont compris que les sommes figurant dans les réponses aux avis d’appel correspondaient aux sommes que devait DSL (transcription, page 112). Cependant, les appelants ont fait savoir qu’ils n’avaient jamais reçu cette lettre de M. Riihimaki. De plus, il appert des réponses que les sommes en cause dans les présents appels sont celles que DSL n’a pas versées au cours des périodes pertinentes et non les sommes inférieures qui tenaient compte des paiements versés par suite de la procédure de faillite.
+[26] À la fin de l’audience, j’ai demandé à l’avocat de l’intimée de faire une recherche à ce sujet, eu égard, notamment, au témoignage de M. Riihimaki, et de me présenter son compte rendu. Dans la réponse qu’elle a fait parvenir à la Cour, l’intimée affirme que M. Riihimaki s’est rétracté et a laissé entendre que le témoignage qu’il avait donné sous serment au sujet du paiement de 185 000 $ était erroné. Il semble que, même si M. Riihimaki témoignait devant moi au sujet des présents appels, son attention était dirigée ailleurs et il pensait plutôt à [traduction] « [...] un dossier d’appel semblable, quoique complètement différent, sur lequel il avait travaillé » (lettre de l’avocat de l’intimée, du 4 juillet 2001).
+[27] Dans un affidavit joint à la lettre de l’intimée datée du 4 juillet 2011, Colette Ouimet, la chef d’équipe de M. Riihimaki, a confirmé que l’ARC n’avait aucun registre du paiement de la somme de 185 000 $.
+[28] Les appelants avaient joint à leur réponse des copies de deux chèques datés du 8 janvier 2006 qui avaient pour effet de confirmer les paiements de 45 199,29 $ et de 2 398,69 $ au receveur général, ainsi qu’une déclaration dans laquelle le syndic de faillite confirmait qu’une somme de 45 199,29 $ devait être payée à l’ARC à l’égard de ces versements. Cependant, ces documents n’ont pas été présentés en preuve au cours de l’audience.
+[29] Dans une autre réponse datée du 7 septembre 2011, l’intimée a présenté des relevés de compte sur lesquels figurent les dates et les montants des paiements que l’ARC a reçus au titre de la dette de DSL. Aucun paiement d’une somme de 185 000 $ ne figure sur ces relevés; cependant, ceux-ci font état d’un paiement de 45 199,29 $ reçu le 11 août 2006 à l’égard du compte de retenues sur les salaires.
+[30] Ces relevés de compte n’étaient pas absolument nécessaires pour les besoins de ma décision dans les présents appels, parce que les appelants seront solidairement responsables des défauts de paiement de DSL pour les années 2001, 2002 et 2003, quelle que soit cette responsabilité. La Cour canadienne de l’impôt n’a pas l’habitude de se plonger dans les détails relatifs aux montants et aux dates des paiements effectués par les contribuables. Cependant, il m’apparaît juste et raisonnable que les appelants et la Cour aient en main un relevé faisant clairement état des sommes qui auraient dû être versées et des sommes que l’ARC a effectivement reçues.
+[31] Étant donné que j’ai conclu que les appelants avaient agi avec le degré de diligence nécessaire jusqu’à la fin de l’année 2000, je n’accorde aucuns dépens. Même si j’en étais arrivée à une autre décision et que j’avais rejeté en entier les présents appels, il m’aurait semblé justifié, dans l’exercice de mon pouvoir discrétionnaire conformément à l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale), de ne pas adjuger de dépens. L’intimée a prolongé inutilement la durée des présents appels et les a rendus plus complexes. L’avocat de l’intimée a décidé en effet de faire témoigner un témoin qui a prétendu à tort qu’il se souvenait de certains événements liés aux appels et qui a affirmé sous serment, sans citer de documents à l’appui ou consulter de notes à l’audience, que l’ARC avait reçu une somme de 185 000 $ et qu’il avait fait parvenir aux appelants une lettre dans laquelle il confirmait la réception de cette somme. De toute évidence, rien de tout cela n’était vrai.
+[32] Les appels sont accueillis au motif que les appelants ne sont pas responsables en qualité d’administrateurs de DSL, selon l’article 227.1 de la LIR et l’article 323 de la LTA, du paiement des sommes que DSL a omis de verser pour la période précédant la fin de l’année 2000. Cependant, les appelants sont responsables, en qualité d’administrateurs de DSL, du paiement des sommes que la société a omis de verser à l’égard des périodes pertinentes après la fin de l’année 2000. Les pénalités et les intérêts doivent être rajustés en conséquence. Je n’adjuge aucuns dépens.
+Signé à Ottawa, Canada, ce 3e jour d’octobre 2011.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 30e jour de novembre 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 429
+Nos DES DOSSIERS DE LA COUR : 2005-766(IT)G; 2005-767(GST)I;
+2005-768(IT)G; 2005-769(GST)I;
+2005-770(IT)G; 2005-771(GST)I
+INTITULÉS: ADAM HEANEY,
+KEN CHASSE,
+DAVID GILBERT
+ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 20 juin 2011
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 3 octobre 2011
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocat de l’intimée :
+Me Jack Warren
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

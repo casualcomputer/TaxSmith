@@ -1,0 +1,205 @@
+Title: 1524994 Ontario Ltd v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27198/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-87-27198-1524994-ontario-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-02-15
+
+# 1524994 Ontario Ltd v. The Queen
+
+- Citation: 2006 TCC 87
+- Decision date: 2006-02-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1001, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1524994 Ontario Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-15
+Neutral citation
+2006 TCC 87
+File numbers
+2002-4946(GST)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-4946(GST)G
+BETWEEN:
+1524994 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 26 and 27, 2005 at London, Ontario,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+David Thompson
+Counsel for the Respondent:
+Boyd Aitken
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act notice of which is dated February 20, 2001, for the period August 1, 1997 to April 30, 2000 is allowed, with costs, and the assessment is vacated.
+Signed at Ottawa, Canada, this 15th day of February, 2006.
+"C.H. McArthur"
+McArthur J.
+Citation: 2006TCC87
+Date: 20060215
+Docket: 2002-4946(GST)G
+BETWEEN:
+1524994 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This is an appeal under Part IX of the Excise Tax Act for the reporting period August 1, 1997 to April 30, 2000. The issue is whether services between the Appellant (the corporation) and two medical doctors are exempt supplies pursuant to Part II of Schedule V of the Act. The Minister of National Revenue assessed the Appellant goods and services tax of $31,686 arising from a contract between Dr. Hugh Rooney and Dr. James Campbell (the doctors), the Appellant and Brian Field.
+[2] The Appellant, 1524994 Ontario Limited, is a successor to 722592 Ontario Limited, which company was incorporated on July 31, 1987, to carry on the business of The Audiology Clinic of Southwestern Ontario (the Clinic). On July 31, 2002, the Appellant and 722592 Ontario Limited were amalgamated. The principal of the Appellant and of the Clinic is Brian Field.
+[3] At the outset of the hearing, the Appellant acknowledged that it was not pursuing the matters referred to in paragraph 16(c) of the Reply to the Notice of Appeal with respect to Input Tax Credits. The only assumption in issue is paragraph 16(b) which states as follows:
+b) at all relevant times, the Appellant supplied to Dr. Rooney and Dr. Campbell supplies of building and equipment rental together with management services;
+In addition, the Minister had claimed penalties, but did not deal with them during the hearing.
+[4] The Appellant was in the business of audiology testing (hearing tests) under the business name mentioned above. The Appellant was owned and operated by Brian Field who was one of the first in Ontario to set up and operate, through the corporation, a Clinic separate from the offices of any medical doctor or hospital. The Clinic employed its own staff of three or four employees including a bookkeeper, receptionist, and audiologist licensed to practice in Ontario.
+[5] Audiology in Ontario is regulated by Provincial legislation. Mr. Field is a licensed audiologist and is a member of the College of Audiologists and Speech Language Pathologists of Ontario. The Clinic and Field provided services for the most part to patients referred by medical practitioners in London and surrounding area. The Ontario Health Insurance Plan (OHIP) provided coverage only in respect of hearing tests required by, and performed under the supervision of medical doctors. To circumvent this requirement, the Clinic and Field entered into an agreement dated November 11, 1989,[1] with two medical doctors carrying on a family practice across the hallway from the Clinic.
+[6] Brian Field was an impressive witness although his arrangement with the doctors is not praiseworthy. After six years of study, he began practicing audiology in the mid-1980s. It is significant that he set up the Clinic, and not the doctors. The relevant agreement between the parties is dated November 11, 1989. The leasing arrangement in the agreement provided that the doctors would lease from the corporation the premises used in connection with the operation of an Audiology Clinic, together with all equipment used in connection therewith on a month-to-month basis for the sum of $5,000, payable on the 20th of each month. The leasing arrangement was amended in February 1992, but does not change the relevant facts, other than the increase of the monthly rental to $6,000 as follows: rental for premises, $1,000 and rental for equipment, $5,000. Because of its importance to this decision, the original agreement dated November 11, 1989 is reproduced in its entirety as Schedule "A".
+[7] The purpose of the agreement was to provide a way to bill OHIP for the audiology services provided by the Clinic to patients referred by Drs. Campbell and Rooney and other doctors, and to pay the OHIP fees received by the two doctors. Audiology[2] fees are exempt from GST. OHIP would only pay for audiology fees which were provided by or under the supervision of a medical doctor.[3]
+[8] The agreement included that the premises and equipment of the Clinic was leased to the two doctors for the purpose of their operating an audiology Clinic. It provided further that Mr. Field was to be an employee of the two doctors to provide audiology services to patients referred by the doctors. The affairs of the audiology business were to be operated by the Clinic. The agreement added that the two doctors would receive in effect, $12,000 annually for billing OHIP on the Clinic's behalf.
+[9] There was an attempt between the parties' bookkeepers to implement the accounting according to the agreement to include a management fee and lease payment. This, in fact, is a fiction. The reality of the arrangement was that the doctors were paid $1,000 monthly for processing the Appellant's fees for payment by OHIP. All of the OHIP audiology payments which totaled over $10,000 monthly, were paid to the Appellant, less the $1,000 monthly to the doctors. That was the extent of the agreement. Mr. Field was not an employee of the doctors. There was no actual lease of the premises and equipment. None was intended and none was accomplished. There were no management or consulting services rendered. The evidence of Dr. Rooney and Mr. Field is uncontradicted in this regard.
+[10] An example of the schedule the doctors sent monthly to the Clinic[4] reads as follows:
+OHIP FEE DISBURSEMENTS SCHEDULE
+Doctor H. Rooney
+Meridian Hearing Centre
+205-440 Boler Road
+London, Ontario
+N6K 4L2
+TRANSACTIONS FOR THE MONTH OF: JUNE/JULY
+Gross OHIP Remittance
+$9,291.30
+Less Charge for Consulting and Administrative Services
+$550.00
+Balance Payable to Meridian Hearing Centre
+$8,741.30
+The Appellant informed Dr. Rooney's office of its monthly audiology billings (hearing tests), and Dr. Rooney's office would bill OHIP for the same amount, and then remit the OHIP payment to the Clinic after deducting administration costs. I find that the doctors were in fact acting as the Appellant's agents with respect to its dealings with OHIP
+[11] Subsection 123(1) of the Act defines "Exempt supply" as follows:
+123(1) In section 121, this Part and Schedules V to X,
+"Exempt supply" means a supply included in Schedule V.
+and Schedule V, Part II - Health Care Services includes the following:
+7 A supply of any of the following services when rendered to an individual, where the supply is made by a practitioner of the service;
+...
+(g) audiological services;
+Position of the Appellant
+[12] The Appellant provided audiological services which are GST exempt. The agreement between the Appellant and the doctors was not a rental agreement, nor an employment and services, or management agreement, and at no time was it ever intended to be. The Appellant provided an exempt service. The agreement was prepared solely to satisfy the requirements of OHIP for billing purposes. The Appellant submitted that a taxpayer's legal relationship and the true commercial nature of a taxpayer's business must be respected, and referred to the case of Singleton v. Canada.[5] It also referred to Bronfman Trust v. The Queen,[6] as quoted in Singleton, and Sussex Square Apartments Ltd. v. The Queen,[7] for its position that the agreement must be construed to determine the true legal relationship of the parties.
+Position of the Respondent
+[13] Counsel for the Respondent states that if the amounts paid by the doctors to the Appellant were for rent and management fees, they would not be GST exempt. The bona fide legal relationships entered into in Schedule "A" clearly describe the transaction and that description should remain untouched. Counsel cites the often-quoted passage by Linden J. in The Queen v. Friedberg[8] which states:
+In tax law, form matters. A mere subjective intention, here as elsewhere in the tax field, is not by itself sufficient to alter the characterization of a transaction for tax purposes. ...
+[14] He also referred to Chief Justice McLachlin of the Supreme Court of Canada, in Shell Canada Ltd. v. The Queen,[9] and in particular, where she quotes from Bronfman Trust to the effect that economic realities of a situation cannot be used to recharacterize a bona fide legal relationship. Counsel goes on to refer to Major J. in Singleton, and states that the Appellant cannot "cherry pick" the provisions he wants, or does not want, from the provisions to suit his present-day needs. He cannot say it is a valid and binding contract for OHIP, but not for the tax department.
+Analysis
+[15] The Appellant submits that I determine the true legal relationship of the parties, ignoring the relationship as set out in the agreement. Both counsel referred to Shell Canada, supra, where Chief Justice McLachin stated:
+39 This Court has repeatedly held that courts must be sensitive to the economic realities of a particular transaction, rather than being bound to what first appears to be its legal form: Bronfman Trust, supra, at pp. 52-53, per Dickson C.J.; Tennant, supra, at para. 26, per Iacobucci J. But there are at least two caveats to this rule. First, this Court has never held that the economic realities of a situation can be used to recharacterize a taxpayer's bona fide legal relationships. To the contrary, we have held that, absent a specific provision of the Act to the contrary or a finding that they are a sham, the taxpayer's legal relationships must be respected in tax cases. Recharacterization is only permissible if the label attached by the taxpayer to the particular transaction does not properly reflect its actual legal effect: Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298, at para. 21, per Bastarache J.
+The Appellant emphasizes that the label which the Minister attached to the present transaction does not properly reflect its actual legal effect.
+[16] In Singleton, the taxpayer was a partner in a law firm. He borrowed $300,000 from his bank and deposited it with his law firm. On the same day, he paid the same amount to purchase a home and took out a new loan by way of mortgage on his home. The Supreme Court of Canada found that the direct use to which the borrowed funds are put, not the taxpayer's motivation in structuring the borrowing arrangement should be considered. The Supreme Court added that the legal relationship must be given effect and treated independently. They found that the legal relationship between the Appellant and the Bank was that of a legally binding contract between the borrower and lender.
+[17] In the decisions in Shell and Singleton, the Supreme Court directs that the true legal relationship of the parties be determined and given effect. In the present case, some positions of the agreement were given effect to and some were not.
+[18] Firstly, there is no doubt that the agreement did not reflect the dominant or overall relationship of the parties. It is clear from the evidence of Field (on behalf of his corporation), and Dr. Rooney, that they at no time intended to create a lease of the premises and equipment, and an employment contract. These three items are the major thrust of the agreement and the parties did not act on them and never intended to. I have no difficulty in finding that the lease and employment agreement were not legally binding contracts. The arm's length lease for the premises entered into by the Field on behalf of his corporation, was over 30 pages.
+[19] In paragraph 1 of the Reply to the Notice of Appeal, the Minister admits the fact contained in paragraph 39 of the Notice of Appeal which states that "Field was not at any relevant time an employee of Campbell and Rooney". In addition, in a letter to Canada Customs and Revenue Agency dated March 8, 2002,[10] and confirmed in his evidence, Dr. Rooney wrote the following which is self-explanatory:
+Mr. Field, through his corporation 722952 Ontario Limited (the corporation), has provided services to patients in the form of diagnostic testing in the field of audiology.
+At all times, Mr. Field's relationship with me was that of an independent contractor. Mr. Field was at no time under the control of myself. I have never attended at the facilities of the corporation for the purpose of providing services. Tests and procedures were completed by corporation, and or by Mr. Field, when and where scheduled by the corporation through direct consultation with the patients. I do not possess the technical skills required to complete the diagnostic testing required.
+I did not provide any equipment to Mr. Field, rather the equipment was provided directly by the corporation. The facilities and testing equipment of the corporation used to perform these services have never been under my possession or control. Mr. Field and his corporation assumed all risk of loss to their obligation to provide equipment, employees, overhead, etc. for a fee computed by reference to the OHIP fee received by myself.
+The consideration received by the corporation for providing audiology services to the patients was a flow through of the fees received by myself from the provincial health services plan. My office directly billed the Ontario Health Insurance Plan for the services provided by Mr. Field and his corporation to the patients. Further, Mr. Field and his corporation rendered these services to the patients under contract to myself. The agreement between the corporation and myself establishes that the fee received by the corporation was simply a calculated portion of the OHIP fee received by myself.
+[20] Obviously, Dr. Rooney never performed any services to patients in the Appellant's premises. He never used or possessed the equipment nor the premises. He did not have the training to do so. The fees paid by Dr. Rooney to the Appellant were for audiological services and his services to the patients were simply a flow through of fees from OHIP to the Appellant. That was the legal relationship between the parties that must be respected. The doctors acted as agents for the Appellant turning over the OHIP amounts (less $1,000 monthly to cover bookkeeping costs) for the audiological services rendered by the Appellant to its patients.
+[21] The following by Justice Bowman in Sussex Square Apartments, and affirmed by the Federal Court of Appeal,[11] applies equally to the present circumstances. He stated:
+27 In Continental Bank of Canada et al. v. The Queen, 94 DTC 1858 at 1871, I summarized my view of the substance versus form doctrine as follows:
+The principle to be deduced from these authorities is simply this: the essential nature of a transaction cannot be altered for income tax purposes by calling it by a different name. It is the true legal relationship, not the nomenclature that governs. The Minister, conversely, may not say to the taxpayer "You used one legal structure but you achieved the same economic result as that which you would have had if you used a different one. Therefore I shall ignore the structure you used and treat you as if you had used the other one".
+28 Once it is determined that the legal relationships are what they purport to be the court must give effect to them. I find that the legal relationships in this case are valid, binding and real. They were certainly not shams.
+In the present situation, effect must be given to the legal relationship of the parties.
+[22] Firstly, does paragraph 1 of the agreement create a legally binding lease? The lease portion of the original agreement for the premises and equipment is contained in six lines. Amongst many other usual lease provisions, it does not set out who will pay the carrying costs such a business taxes, utilities, insurance and maintenance. It does not identify the equipment nor who will maintain such equipment. Paragraph 1 does not create an enforceable legal lease.
+[23] Although it was not argued, I do not believe the situation between the parties was a sham. Both parties made a disclosure to officers of OHIP before entering into the agreement. The Appellant was rendering valuable services to patients and Dr. Rooney's intentions were laudable in that he believed there was a need in the community for the Appellant's services. He and his partner acted as a go-between to permit OHIP to pay for the Appellant's exempt services. The doctors did not provide the audiological services, the Appellant did. The doctors were no more than agents. This is the true legal relationship.
+[24] For the above reasons, the appeal is allowed, with costs. The services provided by the Appellant were exempt services and the Appellant did not fail to collect and remit GST. As referred to above, the Appellant was not pursuing the recovery of input tax credits claimed. No penalties shall apply.
+Signed at Ottawa, Canada, this 15th day of February, 2006.
+"C.H. McArthur"
+McArthur J.
+SCHEDULE "A"
+THIS AGREEMENT made this 11 day of November, 1989
+BETWEEN: DR. JAMES CAMPBELL and
+DR. HUGH ROONEY, of the Boler Medical Centre
+(hereinafter referred to as "Campbell" and "Rooney" respectively)
+- and - BRIAN FIELD, Audiologist
+(hereinafter referred to as "Field")
+- and - 722952 ONTARIO LIMITED, carrying on business as The Audiology Clinic of Southwestern Ontario
+(hereinafter referred to as "The Corporation")
+WHEREAS Campbell and Rooney are medical doctors carrying their practices in the City of London, County of Middlesex at the Boler Medical Centre, 305 Boler Road;
+AND WHEREAS Field is a Audiologist practicing in the City of London, County of Middlesex;
+AND WHEREAS the parties wish to enter into an agreement concerning the relationship between them;
+NOW THEREFORE THIS AGREEMENT WITNESSETH that in consideration of the sum of ONE ($1.00) DOLLAR and the mutual covenants herein contained the parties hereby agree as follows:
+1. The Corporation hereby leases the premises used in connection with the operation of an Audiology Clinic to Campbell and Rooney together with all equipment used in connection therewith, on a month to month basis during the term of this agreement for the sum of FIVE THOUSAND ($5,000.00) DOLLARS per month payable on or before the 20th day of each month for the previous month.
+2. The parties hereby agree that Field will be employed by Campbell and Rooney on a non-exclusive basis to provide the services of an Audiologist to the patients referred to the Audiology Clinic. Field's salary shall be ONE THOUSAND ($1,000) DOLLARS per month payable on or before the 20th day of each and every month for the previous month.
+3. The Corporation will operate and manage the Clinic including the maintenance of all business and patient records, patient scheduling, report preparations and general conduct of the management of the day to day affairs of the clinic. The Corporation will prepare and submit all billings of the clinic for services covered by OHIP to Campbell and Rooney for their approval and submission to OHIP.
+4. It is agreed that the Corporation is entitled to employ other Audiologists on behalf of Campbell and Rooney and that such, Audiologists will be employees of Campbell and Rooney. The salaries of any Audiologist so hired shall be deducted from the consulting/management fee paid to the Corporation.
+5. Campbell and Rooney will collectively retain an amount equal to ten (10) percent of all fees for OHIP services provided to patients by the clinic in consideration of the consulting and administrative services provided by them. Such amount shall be limited to TWELVE THOUSAND ($12,000.00) DOLLARS over each 12 month period during the term of this agreement. Campbell and Rooney will then deduct from the remaining ninety (90) percent of the OHIP fees, Field's salary and all employers' and employees deductions in relation to Field's salary, the $5,000.00 monthly rent, and will pay the remainder, if any, to the Corporation as a consulting/management fee.
+6. The parties hereby agree that only the OHIP billings of the clinic are subject to this agreement and that neither the Corporation nor Field are responsible to account to Campbell and/or Rooney for any other monies received by either of them.
+7. It is agreed that in the event the OHIP billings in any particular month are not sufficient to pay the Corporation the $5,000.00 rental fee pursuant to this agreement after the deduction by Campbell and Rooney of ten (10) percent of that month's billings and of Field's salary, then the rental payment shall abate by the amount of the shortfall.
+8. It is understood that the basic criteria set out by OHIP with respect to the payment of fees for audiological services is as follows:
+(i) The audiologist performing the services for patients must be an employee of the physician;
+(ii) The services performed b the audiologist must be performed in space and on equipment, either owned or leased by the physician;
+(iii) The physician must be involved in establishing the criteria for the quality and nature of service provided to patients and further, must have a direct involvement for ensuring that the appropriate level of maintenance of equipment is completed on an ongoing and regular basis and that the record keeping with respect to patients meets the appropriate professional standard; and
+(iv) The physician must be involved in the process of interpreting the results of all tests completed.
+It is intended that this agreement comply with these provisions and it shall be interpreted in such a manner so as to give effect to this intention. In order to ensure that the above criteria are satisfied, the parties agree that Campbell and Rooney will regularly inspect the premises of the Audiology Clinic and will monitor and review the methods employed by Field and will monitor and review the methods employed by Field and the Audiology Clinic generally, with respect to all OHIP attendances and equipment records generally, and more specifically patient files and charts. In addition, there shall be at least one annual inspection of the premises and records performed by a physician who is a practicing otolaryngologist and who shall report his findings to all parties concerned. It is expected that Dr. Ralph Ruby will be initially involved in this process. Furthermore, a complete report will be prepared by the Audiology Clinic with respect to any and all tests performed for patients, and a copy of that report will be forwarded to the referring physician, and a duplicate copy of that report will be maintained in the patients' file in the Audiology Clinic permanently.
+9. It is agreed that in the event of the disability of Field, where no replacement audiologist is hired by the Corporation on behalf of the doctors, this agreement shall be suspended until such time as Field returns to work or a replacement is hired.
+10. This agreement shall continue from year to year until terminated pursuant to paragraph 11 hereof. The terms and conditions contained herein are subject to review by all parties on an annual basis, and at such earlier times as may be necessary, as a result of changes and procedures, practices or regulations of OHIP, the Ontario Medical Association or any other government or professional body having jurisdiction over the conduct or affairs of physicians or audiologists in the Province of Ontario.
+11. This agreement shall terminate on the happening of any of the following events:
+(i) The death of Field;
+(ii) The death of both Campbell and Rooney;
+(iii) The relocation of the practices of Field or Campbell and Rooney;
+(iv) The bankruptcy of any one of Campbell, Rooney, Field or the Corporation; or
+(v) The refusal of OHIP to pay billings billed to it pursuant to this agreement.
+(vi) Upon the giving of six month's written notice of the intention to terminate this agreement given by any of Campbell, Rooney, Field or the Corporation.
+IN WITNESS WHEREOF the parties hereto have set their hands and seals on the day, month and year first written above.
+SIGNED, SEALED AND DELIVERED ) 722952 ONTARIO LIMITED
+in the presence of ) PER:
+)
+___"Signature"_____________ ) ___ "Signature"___________
+Witness ) President, I have the authority to ) bind the Corporation
+____"Signature"___________ ) ________"Signature" ______
+Witness ) DR. JAMES CAMPBELL
+____"Signature"___________ ) ________"Signature" ______
+Witness ) DR. HUGH ROONEY
+____"Signature"___________ ) ________"Signature" ______
+Witness ) BRIAN FIELD
+CITATION: 2006TCC87
+COURT FILE NO.: 2002-4946(GST)G
+STYLE OF CAUSE: 1524994 Ontario Limited &
+Her Majesty the Queen
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: October 26 and 27, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: February 15, 2006
+APPEARANCES:
+Counsel for the Appellant:
+David Thompson
+Counsel for the Respondent:
+Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David Thompson
+Firm: Tompson, Corbett
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Exhibit A-1, Tab 1.
+[2] The words audiology and audiological are used interchangeably in these Reasons. The word audiological used in the legislation is not found in the Canadian Oxford Dictionary.
+[3] In recent years, the OHIP legislation was amended to provide that OHIP will only pay for audiology fees charged by an Ear-Nose-Throat medical doctor.
+[4] Exhibit R-1, Tab 5.
+[5] [1987] 1 S.C.R. 32.
+[6] [1996] 3 C.T.C. 2873.
+[7] 99 DTC 443.
+[8] 92 DTC 6031.
+[9] [1999] 3 S.C.R. 622.
+[10] Exhibit A-1, Tab 8.
+[11] [2000] 4 C.T.C. 203.

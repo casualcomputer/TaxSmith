@@ -1,0 +1,187 @@
+Title: Plant v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28247/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-453-28247-plant-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-09-04
+
+# Plant v. M.N.R.
+
+- Citation: 2007 TCC 453
+- Decision date: 2007-09-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2028, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Plant v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-09-04
+Neutral citation
+2007 TCC 453
+File numbers
+2006-1587(EI)
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-1587(EI)
+BETWEEN:
+CYNTHIA PLANT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CANADA POST CORPORATION,
+Intervenor.
+____________________________________________________________________
+Appeal heard on July 24, 2007 at Fredericton, New Brunswick
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Carole Benoit
+Counsel for the Intervenor:
+Rhonda R. Shirreff
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 3rd day of August, 2007.
+"Wyman W. Webb"
+Webb, J.
+Docket: 2006-1588(CPP)
+BETWEEN:
+CYNTHIA PLANT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CANADA POST CORPORATION,
+Intervenor.
+____________________________________________________________________
+Appeal heard on July 24, 2007 at Fredericton, New Brunswick
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Carole Benoit
+Counsel for the Intervenor:
+Rhonda R. Shirreff
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 3rd day of August, 2007.
+"Wyman W. Webb"
+Webb, J.
+Citation: 2007TCC453
+Date: 20070803
+Docket: 2006-1587(EI)
+2006-1588(CPP)
+BETWEEN:
+CYNTHIA PLANT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CANADA POST CORPORATION,
+Intervenor.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The issue in this appeal is whether the Appellant was engaged in a contract of service or a contract for services during the periods from March 29, 2004 to April 8, 2004 and from June 22, 2004 to August 31, 2004. The Respondent had determined that the Appellant was not engaged in insurable employment or pensionable employment during the above periods as the Respondent had found that the Appellant was engaged in a contract for services during these periods and, hence, was an independent contractor.
+Facts
+[2] Marilyn Williams was a Rural and Suburban Mail Carrier (“RSMC”) for Canada Post Corporation. In March of 2004, her husband passed away and she was finding that she was unable to do the route. The Appellant, upon receiving some training from Marilyn Williams, did the route for her on various occasions. For some of the periods the Appellant was paid by Marilyn Williams and for others she was paid by Canada Post Corporation. For the periods under appeal, she was paid by Canada Post Corporation. On September 27, 2004, which is after the periods under appeal, Marilyn Williams had an accident and was hospitalized for some time. The Postmaster, Julie Fournier, then contacted the Appellant and asked her if she could take over the route. However, the engagement of the Appellant for those periods is not under appeal. For the periods under appeal, the Appellant was contacted by Marilyn Williams.
+[3] The duties that the Appellant performed were the same duties that Marilyn Williams would have performed if she would have been doing the work on the particular days. She would arrive at the post office before 9:00 a.m., sort the mail, deliver the mail and ensure that any packages to be sent out by mail were returned to the post office by a particular time. She would also ensure that all priority post deliveries were made by a particular time and that any priority post packages that had to be picked up were picked up by a specified time. The rural route that the Appellant covered was approximately 87 kilometres and there were approximately 191 customers on the route. The Appellant testified that she did not feel that she could deviate from the route that was assigned to her or the manner in which it was to be completed. Since this was a rural route in Perth-Andover, New Brunswick, it is likely that the route as set out for the Appellant was set out in the most efficient manner available. There would not be a lot of options to travel the route in a different manner or direction than that which was assigned.
+[4] In carrying out her duties, the Appellant used her own vehicle and was responsible for all costs and expenses associated with operating that vehicle. The Appellant was provided with flashing yellow and red lights to use on her vehicle and also a sign for her vehicle which simply said “Canada Post”.
+[5] The Appellant received a fixed amount per day which was comprised of two components. One component was a daily rate payable for covering the route and the other was an amount for the use of her vehicle.
+[6] The Appellant was required to have a security check completed for herself. The Appellant indicated that some time after the period in question, she had asked for a helper and was advised that she could not have a helper. There were times, however, when her husband would deliver the mail for her. She indicated that this was, in particular, when the weather was bad and the roads were treacherous. She also indicated that she did not pay him.
+[7] The Appellant was not allowed to deliver any other items while she was delivering the mail.
+[8] In April of 2004, when she first started, she was aware of the requirement to carry liability insurance and that she was responsible for any damage that she may cause.
+[9] The Appellant indicated that at some point she had tried to join the union, but was told that she was unable to do so. As well, the Appellant did not receive any employee benefits and was not paid for holidays.
+[10] Julie Fournier was the Postmaster in Perth-Andover. She stated that she had indicated to the Appellant that she was not an employee but she could not recall when this conversation took place. Since Julie Fournier only started at the post office in Perth-Andover on June 14, 2004, this conversation could not have taken place prior to the first period under appeal in this case.
+[11] She also indicated that if there was a problem with a particular route, the complainant would report it to her, as the Postmaster, and then she would talk to the person looking after the route.
+Case Law
+[12] The question of whether an individual is an employee or an independent contractor has been the subject of several cases. In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. 61, 2001 S.C.C. 59, Major J. of the Supreme Court of Canada stated as follows:
+46 In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, supra, that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that "no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations ..." (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, supra, at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose.... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[13] In recent decisions of the Federal Court of Appeal the issue of the intent of the parties has been addressed. In the recent decision of the Federal Court of Appeal in Combined Insurance Co. of America v. M.N.R., 2007 FCA 60, Nadon J.A. of the Federal Court of Appeal stated as follows:
+35. In my view, the following principles emerge from these decisions:
+1. The relevant facts, including the parties’ intent regarding the nature of their contractual relationship, must be looked at in the light of the factors in Wiebe Door, supra, and in the light of any factor which may prove to be relevant in the particular circumstances of the case;
+2. There is no predetermined way of applying the relevant factors and their importance will depend on the circumstances and the particular facts of the case.
+Although as a general rule the control test is of special importance, the tests developed in Wiebe Door and Sagaz, supra, will nevertheless be useful in determining the real nature of his contract.
+[14] It is clear in this case that the intent of Canada Post Corporation was that the Appellant would be an independent contractor but the Appellant is taking the position that she was an employee of Canada Post Corporation.
+Control
+[15] In this particular case, the Canada Post Corporation did have some level of control over the work performed by the Appellant. Canada Post Corporation obviously had an interest in ensuring that the mail was delivered on time and that any packages that were to be picked up were picked up on time. This type of control, though, seems to be focused on the results of the work. In the case of Direct Care in-Home Health Services Inc. v. The Minister of National Revenue, 2005 TCC 173, Justice Hershfield made the following comments in relation to control:
+11 Analysis of this factor involves a determination of who controls the work and how, when and where it is to be performed. If control over work once assigned is found to reside with the worker, then this factor points in the direction of a finding of independent contractor; if control over performance of the worker is found to reside with the employer, then it points towards a finding of an employer-employee relationship. However, in times of increased specialization this test may be seen as less reliable, so more emphasis seems to be placed on whether the service engaged is simply "results" oriented; i.e. "here is a specific task -- you are engaged to do it". In such case there is no relationship of subordination which is a fundamental requirement of an employee-employer relationship. Further, monitoring the results, which every engagement of services may require, should not be confused with control or subordination of a worker.
+12 In the case at bar, the Worker was free to decline an engagement for any reason, or indeed, for no reason at all. …
+(emphasis added)
+[16] In the case at hand, the control exercised by Canada Post was more results oriented as they simply were interested in the result – ensuring that the mail was delivered at a particular time and outgoing mail was returned to the post office at a particular time. As well, during the periods in issue, the Appellant was free to decline any engagement as she was simply engaged directly by Marilyn Williams during these periods under appeal.
+Opportunity for Profit/Risk of Loss
+[17] The Appellant was paid a fixed amount per day, comprised of two components – one for the services provided and the other as a vehicle allowance. In 918855 Ontario Limited v. The Minister of National Revenue, [1997] T.C.J. No. 664, Justice Bowie, in analyzing the profit and loss test for persons who were engaged to provide the same services the Appellant was engaged to provide in this particular case, found that the profit and loss factor should not bear heavily on the result. I agree with his conclusions. While counsel for the Respondent and the Intervenor tried to argue that the route could be changed and therefore the Appellant could make more profit, the reality would be that the route would have been designed in the most economical and efficient manner and there would be limited options (if any) to travel a different route in the outskirts of Perth-Andover, New Brunswick.
+Ownership of Tools
+[18] The most significant tool that the Appellant was required to use was her vehicle. The vehicle was owned by her. While she may also have been supplied some tools to change the locks on community mail boxes, that would not be significant in comparison to the vehicle that she was required to provide. If a person is required to provide an expensive tool that is essential to the carrying out of the task, this would suggest an independent contractor relationship, but it should also be noted, as was noted by Justice Bowie in 918855 Ontario Limited v. The Minister of National Revenue, there are also many situations where people who are employees are also required to provide their own vehicle. In this situation, however, since the vehicle was used daily and was essential to completing the task, it does point, in my opinion, to the person being an independent contractor.
+Hiring of Helpers
+[19] Since the Appellant was the replacement RSMC for Marilyn Williams’ route, the Appellant could not hire helpers. This was related to the security requirement that it is essential that Canada Post Corporation knows who is handling the mail at all times.
+Degree of Responsibility for Investment and Management
+[20] The Appellant did not have any responsibility for investment and management with Canada Post Corporation. The Appellant did have the responsibility for her own investment in choosing the vehicle that she would be using to carry out the task.
+Other Factors
+[21] In this particular case, as noted above, the Appellant was provided with a sign to post on her vehicle that stated: “Canada Post”. As well, when she was delivering priority mail packages, she would have the individuals who received the packages sign a confirmation on a Canada Post form confirming that they had received the package. While this may suggest to the person to whom the package was delivered that the Appellant was a representative of Canada Post and, hence, probably an employee of Canada Post, in Flash Courier Services Inc. v. The Minister of National Revenue, [2000] T.C.J. No. 235, Justice Rowe held that the couriers were independent contractors notwithstanding that the couriers had uniforms and identification cards to identify them as being from Flash. At paragraph 21, Justice Rowe made the following comments:
+21 In the within appeals, one can say that an outsider observing the intervenor carry out deliveries during the course of a day could reasonably conclude the business was that of Flash. However, that would be as a result of the surface arrangement between the parties. Paul had not installed a sign or otherwise placed information on the side of his vehicle to indicate he was the owner/operator. As discussed earlier, the security requirements were the main reason the intervenor - and other couriers - wore a jacket and/or shirt identiying them as being from Flash. Flash had the facilities to receive calls from customers, dispatch the drivers to make pickups and deliveries, store parcels, and to do all the administration and accounting in order to account for revenue and the proper allocation between Flash and each courier in accordance with the percentage set forth in the particular contract.
+[22] In that case the couriers were found to be independent contractors.
+[23] The Appellant submitted into evidence her original copy of the RSMC Leave Voucher. This is a Canada Post Corporation form which was signed by the Appellant and submitted to Canada Post Corporation so that the Appellant could receive payment. The form has two parts – one entitled “Application for Leave” in which Marilyn Williams is identified as the employee and the second part in which the Appellant is described as a “Replacement contractor”. The terms and conditions are printed on the back; however, the form is light green in colour and the terms and conditions are printed in a slighter darker shade of green that makes the words very difficult to read. If Canada Post Corporation intended individuals to be bound by the words on the back of this form, the words should have been printed in a manner that could easily be read. Because the words are so difficult to read, I do not give any weight to the words on the back of the form.
+[24] While the RSMC Leave Voucher referred to the Appellant as a Replacement contractor, the documents that the Appellant received from Ceridian (who handled payments for Canada Post Corporation) indicated that the Appellant had an employee number. Therefore these two references would send conflicting messages to the Appellant and neither could be used to definitively find that the Appellant was an independent contractor or an employee.
+[25] The Appellant did not receive any benefits from employment and did not have any job security during the periods under appeal. As noted by Justice Hershfield in Direct Care In-Home Health Services Inc. v. The Minister of National Revenue:
+… Furthermore, in terms of risk, it is relevant that the Worker does not enjoy the type of job security that is normally inherent in employment. She has no: health insurance benefits, pension plan, union protection, assured hours, advancement structure or job security of any type. As noted earlier in these Reasons, Décary J.A. in Wolf, referring to factors indicating an independent contractor relationship, commented that: "If specific factors have to be identified, I would name lack of job security, disregard for employee-type benefits, freedom of choice and mobility".
+There are two cases dealing with replacement workers for RSMCs and whether such persons were employees or independent contractors of Canada Post. In Skipsey v. Canada (Minister of National Revenue - M.N.R.), 2007 TCC 192, Justice O’Connor found that the replacement worker was an employee of Canada Post. However, the reasons provided are very brief and, as Justice O’Connor noted:
+4 I guess I could only add this is perhaps a unique case, not meant to be a judgment favouring every substitute employee of Canada Post.
+[26] In the subsequent case of Laperrière v. Canada (Minister of National Revenue – M.N.R.), 2007 TCC 252, Justice Rowe also dealt with a replacement worker for an RSMC and determined that such a person was an independent contractor and not an employee.
+[27] As well, in the case of 918855 Ontario Limited referred to above, Justice Bowie found that individuals working for an RSMC were independent contractors. These individuals provided substantially the same services as the Appellant.
+[28] The Appellant’s main argument in this case was that she was providing exactly the same work under the same conditions as the RSMCs and since they were employees of Canada Post, then she ought to be an employee of Canada Post.
+[29] Mr. Gerard Mathieu is a retired executive of Canada Post. One of his main areas of responsibility was the conversion of the RSMCs from independent contractors to employees as of January 1, 2004. Prior to January 1, 2004, the 6,000 RSMCs were all treated as independent contractors. The conversion of this group from independent contractors to employees was completed by the agreement of the parties involved. Mr. Mathieu clearly testified that the work did not change from 2003 to 2004. Therefore, notwithstanding the fact that the RSMCs were performing the same tasks in 2004 as they were in 2003, they were employees in 2004 and independent contractors in 2003. Therefore, presumably, the Appellant would not have been making the comparison if the time period would have been in 2003 and not 2004. As well, Mr Mathieu clearly indicated that while the RSMCs became employees in 2004, it was not the intent of Canada Post Corporation to make any person who replaced an RSMC an employee of Canada Post Corporation. The Appellant was not a party to the agreement by which the RSMCs became employees of Canada Post Corporation.
+[30] This raises the issue of whether the RSMCs would, at common law, be independent contractors of Canada Post if they would not have agreed to become employees.
+[31] The Canada Post Corporation Act, R.S.C. 1985, c. C-10, s. 1. provides, in part, as follows:
+2. (1) In this Act, …
+"mail contractor" means a person who has entered into a contract with the Corporation for the transmission of mail, which contract has not expired or been terminated;
+…
+13. (5) Notwithstanding any provision of Part I of the Canada Labour Code, for the purposes of the application of that Part to the Corporation and to officers and employees of the Corporation, a mail contractor is deemed not to be a dependent contractor or an employee within the meaning of those terms in subsection 3(1) of that Act.
+[32] This deems a mail contractor to not be an employee for the purposes of the application of Part I of the Canada Labour Code to the Corporation. It does not apply for the purposes of the Employment Insurance Act, nor for the purposes of the Canada Pension Plan. However, Hugessen, J.A., of the Federal Court of Appeal in the case of Canada Post Corporation v. Association of Rural Route Mail Couriers, [1989] 1 F.C. 176, 82 NR 249, stated at paragraph 41 that:
+41 For my part, while I do not consider the Minister's statement to be conclusive nor even very weighty, I do think it is of some help as providing a part of the background to the enactment of subsection 13(6). I also find helpful the provisions of the former Post Office Act dealing with mail contractors (subsection 2(1), "postal employees", and sections 22 to 35 inclusive). All this material serves to throw light on the situation as it existed prior to the passing of the Canada Post Corporation Act. That situation, as is common ground here, was that rural mail couriers were considered to be mail contractors and not postal employees. I have already indicated that I think the provisions of the Canada Post Corporation Act are clear and are to the same effect. That statute, far from altering the position of the rural mail couriers, continued it unchanged.
+(emphasis added)
+[33] Therefore, it seems clear from this statement that the rural mail couriers were independent contractors and that the foregoing provisions of the Canada Post Corporation Act did not alter that situation. It was only by agreement among the parties that the RSMCs became employees effective January 1, 2004. The Appellant was not party to that agreement and therefore did not become an employee of the Canada Post Corporation.
+[34] Therefore, in light of the application of the various tests as outlined above and, in particular, based on the decisions of this Court in Laperrière and 918855 Ontario Limited and in the comments of the Federal Court of Appeal concerning the status of the RSMCs as independent contractors, I find that the Appellant was an independent contractor during the periods under appeal and hence the appeals are dismissed.
+Signed at Ottawa, Canada this 3rd day of August, 2007.
+"Wyman W. Webb"
+Webb, J.
+CITATION: 2007TCC453
+COURT FILE NO.: 2006-1587(EI) and 2006-1588(CPP)
+STYLE OF CAUSE: Cynthia Plant v. M.N.R.
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: July 24, 07
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: August 3, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Carole Benoit
+Counsel for the Intervenor:
+Rhonda R. Shirreff
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

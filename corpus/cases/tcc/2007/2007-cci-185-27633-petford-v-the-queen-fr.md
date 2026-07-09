@@ -1,0 +1,192 @@
+---
+title: "Petford v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27633/index.do"
+last_modified: "2007-04-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 185"
+citation2: ""
+neutral_citation: "2007 CCI 185"
+decision_date: "2007-04-04"
+language: "fr"
+item_id: "27633"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 403
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:47:39.777000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "94b17b0bd6900fcc9f608ff872ad7f11d1d5054cecb471ef48b20c27e0cabec2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Petford v. The Queen
+
+- Citation: 2007 CCI 185
+- Decision date: 2007-04-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 403, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Petford v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-04
+Référence neutre
+2007 CCI 185
+Numéro de dossier
+2006-2980(GST)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-2980(GST)I
+ENTRE :
+BRIAN PETFORD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 23 mars 2007, à Victoria (Colombie‑Britannique).
+Devant : L’honorable D.W. Beaubier
+Comparutions :
+Représentant de l’appelant :
+Jack Greenwood
+Avocat de l’intimée :
+Me Max Matas
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en application de la Loi sur la taxe d’accise, dont l’avis est daté du 13 mars 2006 et porte le numéro 11CUGB050621141343, pour la période de déclaration commençant le 1er janvier 1996 et se terminant le 31 décembre 2001, est rejeté.
+Signé à Saskatoon (Saskatchewan), ce 4e jour d’avril 2007.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 23e jour de juillet 2007
+Claude Leclerc, trad. a., LL.L
+Référence : 2007CCI185
+Date : 20070404
+Dossier : 2006-2980(GST)I
+ENTRE :
+BRIAN PETFORD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel interjeté dans le cadre de la procédure informelle a été entendu à Victoria (Colombie‑Britannique), le 23 mars 2007. L’appelant et son expert‑comptable, Jack Greenwood, ont témoigné. L’intimée a appelé à témoigner le vérificateur responsable du dossier, Christopher Skillings, et une agente des enquêtes en appel, Sandra Ouellette, lesquels sont tous deux des employés de l’Agence du revenu du Canada (l’« ARC »).
+[2] Les points en litige sont énoncés à la fin du paragraphe 17 de la réponse à l’avis d’appel. Ils sont ainsi formulés :
+[TRADUCTION]
+RÉPONSE
+En réponse à l’avis d’appel de l’appelant concernant l’avis de nouvelle cotisation portant le numéro 11CUGB050621141343 et daté du 13 mars 2006, pour la période du 1er janvier 1996 au 31 décembre 2001 (la « période »), le sous‑procureur général du Canada affirme :
+A. L’ÉNONCÉ DES FAITS
+1. Il nie les allégations de fait énoncées aux paragraphes 2, 3 et 6 de l’avis d’appel et il demande que l’appelant soit tenu d’en faire la preuve.
+2. Quant au paragraphe 1 de l’avis d’appel :
+a) il affirme que l’appelant a déclaré un revenu brut d’entreprise de 30 094,61 $ dans sa formule de déclaration T1 pour 1998;
+b) il reconnaît que le revenu total de l’appelant était inférieur à 30 000,00 $ pour chacune des années d’imposition 1996, 1997, 1998, 2000 et 2001, respectivement.
+3. Quant au paragraphe 4 de l’avis d’appel :
+a) il reconnaît que l’appelant était inscrit par le ministre du Revenu national (le « ministre ») pour l’application de la taxe sur les produits et services (la « TPS ») à compter du 1er octobre 1993;
+b) il affirme que le revenu d’entreprise de l’appelant était supérieur à 30 000,00 $ pour chacune des années d’imposition 1993, 1994 et 1995, respectivement;
+c) il affirme que l’appelant a effectué des fournitures taxables dans le domaine de la construction navale avant et pendant la période;
+d) il nie les autres faits allégués dans ce paragraphe.
+4. Quant au paragraphe 5 de l’avis d’appel :
+a) il ne sait pas si l’appelant a établi des factures dans le cadre de son entreprise;
+b) il nie les autres faits allégués dans ce paragraphe.
+5. Quant au paragraphe 7 de l’avis d’appel :
+a) il affirme que l’appelant a effectué des fournitures taxables pendant la période;
+b) il estime que les autres allégations de fait formulées dans ce paragraphe ne sont pas pertinentes et qu’il est inutile de reconnaître ou de nier leur véracité.
+6. Quant au paragraphe 8 de l’avis d’appel :
+a) il affirme que l’agent des appels de l’Agence du revenu du Canada (l’« Agence ») a informé le représentant de l’appelant du fait que l’appelant était tenu de percevoir la TPS peu importe son niveau de revenu parce qu’il était un inscrit aux fins de la TPS;
+b) il reconnaît les autres faits énoncés dans ce paragraphe.
+7. Quant au paragraphe 9 de l’avis d’appel :
+a) il reconnaît que le revenu d’entreprise de l’appelant était inférieur à 30 000,00 $ pour chacune des années d’imposition 1996, 1997, 1998, 1999, 2000 et 2001;
+b) il nie les autres faits allégués dans ce paragraphe.
+8. Par un avis de cotisation portant le numéro 11CU2002541 et daté du 27 janvier 2005, le ministre a établi à l’égard de l’appelant une cotisation relative à une TPS nette de 12 574,70 $, à une pénalité de 6 989,61 $ et à des intérêts de 3 018,10 $ pour la période. Le montant de la pénalité englobe une pénalité pour faute lourde de 1 702,00 $ imposée en application de l’article 285 de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E‑15, et ses modifications (la « Loi »).
+9. L’appelant s’est opposé à la cotisation du 27 janvier 2005. Le ministre a reçu l’avis d’opposition le 17 février 2005.
+10. Par un avis de décision daté du 13 mars 2006, le ministre a réduit la TPS recouvrable de 4 784,27 $ pour la période. Le ministre a donc délivré l’avis de nouvelle cotisation portant le numéro 11CUGB050621141343 relatif à une taxe nette de 7 790,43 $, à une pénalité de 5 261,40 $ et à des intérêts de 1 761,05 $ à cette date. Le montant de la pénalité englobe une pénalité pour faute lourde de 2 140,13 $ imposée en application de l’article 285 de la Loi.
+11. Lorsqu’il a établi cette cotisation à l’égard de l’appelant, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+a) l’appelant, un particulier, exploite une entreprise dans le secteur de la construction navale;
+b) l’appelant accomplissait son travail à Victoria et ses environs;
+c) le revenu d’entreprise brut de l’appelant pendant les années d’imposition 1993, 1994 et 1995 s’élevait à 497 728,00 $, à 166 327,00 $ et à 30 040,00 $, respectivement;
+d) l’appelant est inscrit sous le régime de la partie IX de la Loi depuis le 1er octobre 1993, et son numéro d’inscrit aux fins de la TPS est le suivant : 891651523RT;
+e) l’appelant était tenu de produire des déclarations de TPS à tous les ans;
+f) à tous les moments pertinents, l’appelant a effectué des fournitures taxables;
+g) à tous les moments pertinents, l’appelant a perçu ou était tenu de percevoir la TPS au taux habituel de 7 pour 100 sur les fournitures taxables;
+h) l’appelant a omis de tenir des livres et documents comptables appropriés pour les besoins de l’impôt sur le revenu et de la TPS;
+i) l’appelant n’avait pas annulé son inscription ni présenté une demande d’annulation de celle‑ci sous le régime de la partie IX de la Loi;
+j) le 3 septembre 2002, l’appelant a produit des déclarations de TPS et a déclaré une TPS recouvrable nulle, des crédits de taxe sur les intrants nuls et une taxe nette nulle pour la période;
+k) le revenu d’entreprise de l’appelant pour les années d’imposition 1996, 1997, 1998, 1999, 2000 et 2001 s’élevait à 12 180,00 $, à 21 120,00 $, à 25 417,00 $, à 6 620,50 $, à 25 212,08 $ et à 28 532,73 $, respectivement, ce qui constitue le revenu tiré des fournitures taxables effectuées, y compris la TPS;
+l) l’appelant a omis de déclarer une TPS recouvrable de 7 790,43 $ pour la période.
+12. L’hypothèse de fait énoncée au paragraphe 11(i) a d’abord été invoquée par le ministre dans l’avis de décision du 13 mars 2006.
+13. Outre les faits que le ministre a tenus pour acquis et qui sont énoncés au paragraphe 11 ci‑dessus, le ministre s’appuie sur les faits suivants pour étayer la cotisation en ce qui concerne les pénalités imposées pour faute lourde en application de l’article 285 de la Loi;
+a) la TPS non déclarée pour la période est appréciable;
+b) l’appelant exploite une entreprise dans le secteur de la construction et de la réparation navales depuis de nombreuses années;
+c) l’appelant a personnellement participé aux opérations quotidiennes de l’entreprise;
+d) l’appelant avait des communications fréquentes avec l’Agence au sujet de sa situation fiscale;
+e) l’appelant savait ou aurait dû savoir que ses déclarations de TPS ne reflétaient pas de manière exacte la TPS recouvrable pour la période.
+B. LES QUESTIONS À TRANCHER
+14. Les questions en litige sont les suivantes :
+a) Le ministre a‑t‑il à bon droit établi à l’égard de l’appelant une cotisation au titre de la TPS recouvrable non déclarée pour la période?;
+b) Le ministre a‑t‑il à bon droit imposé une pénalité pour faute lourde en application de l’article 285 de la Loi pour la période?
+C. LES DISPOSITIONS LÉGISLATIVES INVOQUÉES
+15. Il invoque les articles 123, 165, 221, 222, 225, 228, 240, 241, 242, 280, 285, 296, 298 et 299 de la Loi.
+D. LES MOYENS INVOQUÉS ET LES RÉPARATIONS DEMANDÉES
+16. Il soutient que le ministre a à bon droit décidé que l’appelant a omis de déclarer la TPS recouvrable de 7 790,43 $ pour la période.
+17. Il soutient en outre que le ministre a à bon droit prélevé une pénalité de 2 140,13 $ en application de l’article 285 de la Loi parce que l’appelant a, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans les déclarations de TPS produites pour la période au moment de remplir les obligations que lui impose la Loi.
+[3] Aucune des hypothèses formulées au paragraphe 11 de la réponse n’a été réfutée par la preuve.
+[4] L’appelant a longuement témoigné. Pendant son contre‑interrogatoire, il a répondu de manière très vague – il y avait certains faits qu’il estimait [TRADUCTION] « possibles » et d’autres dont il n’arrivait pas à se souvenir. Son propre témoignage n’a donc permis de réfuter ni les hypothèses formulées ni les témoignages des témoins de l’intimée, lesquels comportaient les éléments de preuve nécessaires pour justifier l’imposition de pénalités. En particulier, j’ajoute foi au témoignage de Mme Ouellette lorsqu’elle affirme avoir informé l’appelant à maintes reprises à partir de septembre 1999 du fait qu’il était un inscrit aux fins de la TPS et qu’il devait produire des déclarations de TPS et remettre la TPS recouvrable. M. Petford se souvenait vaguement d’avoir annulé son inscription, mais l’ARC l’avait inscrit à nouveau.
+[5] Les déclarations de revenus de M. Petford produites le 21 novembre 2002 ont été remplies par M. Greenwood. On y déclare des revenus bruts d’entreprise de 28 077,19 $ en 1996, de 28 629,76 $ en 1997, de 30 094,61 $ en 1998 et de 21 000,00 $ en 2001, qui ont tous été tirés de services rendus. Les clients de M. Petford fournissaient le matériel. M. Petford travaillait à titre de charpentier contractuel et il déduisait ses dépenses d’entreprise, comme les frais de véhicule à moteur. Les montants de la TPS et de la cotisation établis pour ces quatre années sont fondés sur le revenu net d’entreprise déclaré par M. Petford dans ses déclarations de revenus. M. Petford a omis de fournir une preuve précise permettant de réfuter les sommes visées par les cotisations relatives à ces quatre années ou aux autres années constituant la période.
+[6] Les cotisations ont toutes été établies dans le délai applicable prévu par la Loi sur la taxe d’accise après la production des déclarations de TPS de l’appelant pour les années en cause. Toutes ces déclarations étaient datées du 3 septembre 2002. Elles ont été remplies par M. Greenwood, puis produites. Elles portaient toutes la mention [TRADUCTION] « néant ».
+[7] L’appelant était un inscrit aux fins de la TPS pour la période en cause et il effectuait des fournitures taxables comme il est précisé dans les cotisations. Ces dernières ont été établies dans les trois années suivant la production, par l’appelant, de ces déclarations de TPS pour la période et ne sont pas frappées de prescription. Par conséquent, son appel visant la TPS et l’intérêt y afférent est rejeté.
+[8] En ce qui concerne les pénalités, l’appelant, au début des années 90, a été partie à un litige touchant une cotisation au titre de la TPS. Il a omis d’annuler l’inscription aux fins de la TPS de son entreprise et il n’a produit ni déclarations de revenus ni déclarations de TPS pendant un certain nombre d’années, malgré ses difficultés antérieures avec l’ARC. À partir de septembre 1999, des fonctionnaires de l’ARC ont commencé à avoir de nombreuses conversations téléphoniques avec l’appelant et la question de la TPS a été soulevée à ces occasions. En particulier, Mme Ouellette lui a demandé de produire ses déclarations de TPS et de remettre la TPS recouvrable. Mme Ouellette l’a averti un certain nombre de fois qu’il y aurait des répercussions s’il omettait de le faire. Après qu’on lui a envoyé des formules en 2003, il a produit des déclarations portant la mention [TRADUCTION] « néant » pour la période. Enfin, en 2005, il a présenté une demande d’annulation de son inscription et celle‑ci a été annulée.
+[9] La preuve établit que, malgré les appels téléphoniques de l’ARC, l’appelant ne se souciait nullement de produire ses déclarations de TPS et de se conformer à la loi, ou non. Il a finalement produit des déclarations portant la mention « néant » en 2003 au moyen de formules que l’ARC lui a envoyées. Les déclarations « néant » et son « indifférence » antérieure montrent que l’appelant a délibérément omis de satisfaire à ses obligations sous le régime de la Loi sur la taxe d’accise. Rien ne permet de penser que l’appelant tenait des livres comptables pendant la période, malgré son expérience passée en matière d’exploitation d’une entreprise et de son expérience avec l’administration fiscale. Tout cela constitue une faute lourde de la part de l’appelant.
+[10] Par conséquent, l’appel relatif aux pénalités imposées est rejeté.
+[11] L’appel est rejeté en entier.
+Signé à Saskatoon (Saskatchewan), ce 4e jour d’avril 2007.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+Claude Leclerc, trad. a., LL.L
+RÉFÉRENCE : 2007CCI185
+NO DU DOSSIER DE LA COUR : 2006-2980(GST)I
+INTITULÉ : BRIAN PETFORD
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 23 mars 2007
+MOTIFS DU JUGEMENT : L’honorable Juge D.W. Beaubier
+DATE DU JUGEMENT : Le 4 avril 2007
+COMPARUTIONS :
+Représentant de l’appelant :
+Jack Greenwood
+Avocat de l’intimée :
+Me Max Matas
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

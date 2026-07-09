@@ -1,0 +1,168 @@
+Title: Gypse et joints MPG Rive-Nord Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28361/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-12-28361-gypse-et-joints-mpg-rive-nord-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-08
+
+# Gypse et joints MPG Rive-Nord Inc. v. The Queen
+
+- Citation: 2008 TCC 12
+- Decision date: 2008-01-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1946, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gypse et joints MPG Rive-Nord Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-08
+Neutral citation
+2008 TCC 12
+File numbers
+2002-1311(GST)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-1311(GST)G
+BETWEEN:
+GYPSE ET JOINTS MPG RIVE-NORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 6 and November 7, 2006
+and on February 28 and April 25, 2007, at Montreal, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Steve Robitaille
+Counsel for the Respondent:
+Denis Émond
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Excise Tax Act, the notices of which bear the numbers T97S254 and 032G0107682 and are dated March 31, 2000 for the period from January 1, 1995 to December 31, 1996, and February 19, 2002 for the period from October 1, 1996 to September 30, 1999, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of January 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 31st day of July 2008.
+Erich Klein, Revisor
+Citation: 2008TCC12
+Date: 20080108
+Docket: 2002-1311(GST)G
+BETWEEN:
+GYPSE ET JOINTS MPG RIVE-NORD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] On March 31, 2000, the Minister of National Revenue ("the Minister"), through the Quebec Minister of Revenue, issued a reassessment against the appellant ("the reassessment of March 31, 2000") under Part IX of the Excise Tax Act ("the ETA") for the period from January 1, 1995 to December 31, 1996. On January 19, 2002, the Minister issued another reassessment against the appellant ("the reassessment of January 19, 2002") under the ETA, whereby he essentially disallowed input tax credits (ITC) in the amount of $23,844.16 and imposed penalties and interest for the period from October 1, 1996 to September 30, 1999 ("the relevant period").
+[2] I am of the opinion that the appeal from the reassessment of March 31, 2000 must be dismissed because it was not filed on time. Indeed, the appellant filed its Notice of Appeal on the 643rd day following the expiration of the 90-day period in which an appeal from that reassessment could be filed.
+[3] In the reassessment of January 19, 2002, the Minister essentially disallowed the ITCs that the appellant had claimed, on the ground that the tax in respect of which it was claiming the ITCs was paid to subcontractors who issued so-called "accommodation" invoices.
+[4] The appellant operates a business in the construction field. Basically, it installs drywall. During the relevant period, the appellant did business with roughly 20 subcontractors because it was short of employees and had too many contracts to perform. The Minister contests the invoices issued by seven of these subcontractors ("the problematic invoices"). The seven subcontractors are:
+(i) Construction B.V. Champlain Inc.;
+(ii) 9054-5419 Québec Inc., which, at the time, operated as Acoustique B.V. ("Acoustique B.V.");
+(iii) 3323293 Canada Inc., which, at the time, operated as Construction J.L. Green ("Construction J.L. Green");
+(iv) Construction S. Thuot Inc.;
+(v) 9039-1210 Québec Inc.;
+(vi) 9053-7168 Québec Inc., which, at the time, operated as Les Entreprises BNS ("Les Entreprises BNS"); and
+(vii) Acoustique B & A Inc.
+[5] The Minister acknowledged the legal existence of these seven subcontractors. He also acknowledged that they each held a building contractor permit. He admitted that they had registration numbers for the purposes of making goods and services tax (GST) payments as well as source deductions. The Minister also acknowledged that the problematic invoices existed, and that the appellant issued cheques in payment thereof. However, on the basis of the profile of these subcontractors, he made the assumption that the supplies of services that the appellant received from them were fictitious. He made the assumption that the supporting documents submitted by the appellant were accommodation invoices giving the appearance that a regular supply had been made when in fact no supply of services was made by the subcontractors referred to in the supporting documents. Lastly, the Minister made the assumption that the strategy employed by the appellant enabled it to pay its employees under the table.
+[6] What, then, was the subcontractors' profile which the Minister relied upon in making his assumption that they issued accommodation invoices? That profile, on which the Minister relied in assessing the appellant, is set out in the report of Richard Lafontaine (Exhibit A‑1), the auditor from the Ministère du Revenu du Québec who audited the appellant, and in his testimony. On the basis of his own investigation and the information obtained from colleagues at the Ministère du Revenu du Québec, Mr. Lafontaine testified that he had found with regard to all the problematic subcontractors except Acoustique B & A Inc. that during the relevant period:
+(i) They did not remit the GST collected from the appellant.
+(ii) Their invoices were prepared by employees of the appellant.
+(iii) They filed no income tax return.
+(iv) They had no employees.
+(v) Mr. Lafontaine was unable to contact their directors and obtain the subcontractors' accounting records.
+(vi) The cheques that the appellant issued to these subcontractors in payment of their alleged services were either cashed by their director at a Cheque Express counter for a 3% commission, or deposited into their bank accounts. Mr. Lafontaine explained that, in the latter case, a cash amount equal to the amount of the cheques thus deposited was immediately withdrawn from their bank accounts.
+(vii) There were no documents, other than the invoices and the cheques issued by the appellant, to prove that the services of the subcontractors in question were used.
+(viii) They were not among the subcontractors that the appellant declared to the general contractors.
+(ix) According to the records of the Commission de la construction du Québec, the inspectors of that agency never saw the subcontractors in question on any construction sites.
+[7] With respect to Acoustique B & A Inc., Mr. Lafontaine testified that he found during his investigation that this subcontractor issued some invoices for services actually rendered to the appellant. He also stated, on the other hand, that it had also issued accommodation invoices. Mr. Lafontaine called this subcontractor a [TRANSLATION] "mixed accommodator". He testified that he refused to accept any invoices of this subcontractor
+(i) that were prepared by an employee of the appellant; and
+(ii) with respect to which the GST that the appellant paid to the subcontractor was not remitted by the subcontractor; and
+(iii) with respect to which the payment cheques issued by the appellant were cashed by the subcontractor's director at a Cheque Express counter for a 3% commission.
+Pierre Ouimette's testimony
+[8] The testimony given by Mr. Ouimette, an officer of the appellant during the relevant period, can be summarized as follows:
+(i) The appellant had about ten employees during the relevant period.
+(ii) During the relevant period, the appellant granted contracts to around 20 subcontractors, including the seven problematic subcontractors, because it was short of employees and had too many contracts to perform. For certain contracts, the work was split between the subcontractors and the appellant's employees.
+(iii) The contracts with the subcontractors were oral contracts. The remuneration generally agreed upon with them was $120-$130 per thousand square feet of drywall installed. The terms were [TRANSLATION] "payment immediately upon completion". Mr. Ouimette explained that, in the commercial sector, there was a 10% holdback to ensure that the work would be done properly. Thus, the appellant held back 10% of the balance otherwise payable to the subcontractors that had done work for the appellant in the commercial sector.
+(iv) Certain subcontractors trusted the appellant so much that they gave it blank invoices that were filled out by employees of the appellant on behalf of those subcontractors. Mr. Ouimette explained that this was the context in which Daniel Champagne filled out on behalf of Acoustique B.V. an invoice dated April 27, 1998 (Exhibit A‑3). Mr. Ouimette explained that Mr. Champagne prepared this invoice from a sheet (Exhibit A‑3) on which Mr. Champagne had noted the work that he and the subcontractor had done on the appellant's various job sites during the previous week. In my opinion, the statement made by Mr. Ouimette (Exhibit I‑2) in the presence of, among others, Christian Tremblay, an investigator with the Ministère du Revenu du Québec, is worth reproducing here in full, because it strikes me as much more explicit than his testimony on the subject of the appellant's modus operandi with the problematic subcontractors.
+[TRANSLATION]
+I met with Christian Tremblay at the offices of the Ministère du Revenu to clarify the situation of Gypse & Joints MPG Rive Nord Inc., now named Gypse et Joints Rive Nord Inc. I am the president of G&JMPGRNI, the company referred to above. In that capacity, I looked after the contracts submitted to me and had the work performed. I have never been a shareholder of the company, and my role as far as the accounting is concerned involves controlling the subcontractors' invoices, and billing customers. I am also authorized to sign the company's cheques. The bookkeeping is done by Sylvie Tremblay, who is also the company's sole shareholder. The contracts that the company obtains are submitted to me by telephone in view of my long standing in the construction field. When I have a contract to perform, the workers (of G&JMPGRNI) are notified the day before. If I am unable to perform the contract on time, I use subcontractors. I call the subcontractor, which sends me employees on request. The invoices of 3323293 Canada Inc. and Construction B.V. Champlain Inc. were all filled out by Daniel Champagne, a salaried employee of G&JMPGRNI. Thus, a large percentage of the invoices of Acoustique B & A were completed by salaried employees of G&JMPGRNI. Those invoices were obtained by our company from the person who represented the said companies; in the case of 3323293 Canada Inc. and Construction B.V. Champlain Inc., that person was Michel Dubois. The invoices of Acoustique B & A were given to me by Yves Beauchamp. Stéphane Thuot gave me the invoices for Construction S. Thuot Inc. Based on the time sheets of the salaried employees of G&JMPGRNI and the work done, we do the following calculation: the quantities installed, as determined by the site superintendent, are invoiced at the agreed rate; the hours worked by the salaried employees of G&JMPGRNI are deducted from the total, along with the various transportation allowances, the cost of the materials, and other costs; the balance is taxed at the rates of 7% (GST) and 6.5% (QST) and is payable to the subcontractor by G&JMPGRNI. Work done in the commercial sector was subject to a 10% deduction from the total amount owing as a guarantee that the work would be performed properly. It was then the role of G&JMPGRNI's subcontractor to pay the workers that it had provided in order to complete the contract. I do not know the names of the people who worked for the subcontractors. The payment cheque was generally handed over to the subcontractors' representatives as soon as the work was completed. I never paid to workers—whether G&JMPGRNI's or others—any amounts other than those referred to above, namely: salaries, transportation allowances and reimbursements for purchases of materials and supplies.
+[9] With respect to this statement, I would note immediately that all the invoices of J.L. Green and Construction B.V. Champlain Inc. were prepared by Mr. Champagne. I would note also with regard to the same statement that a large percentage of the invoices of Acoustique B & A Inc. were prepared by other employees of the appellant. Moreover, one learns upon reading the statement that the blank invoices from J.L. Green and Construction B.V. Champlain Inc. were given to the appellant by Michel Dubois, a representative of those companies. Lastly, according to the statement, the blank invoices of Acoustique B & A Inc. were given to the appellant by Yves Beauchamp and those of Construction S. Thuot were given to the appellant by Stéphane Thuot. Furthermore, I would point out here that Mr. Dubois pleaded guilty to the following offence:[1]
+[TRANSLATION]
+In Repentigny, District of Joliette, and elsewhere in Quebec, did, between January 1, 1996 and December 31, 1999, participate in the making of false or deceptive statements in returns filed or made under section 238 of the Excise Tax Act (R.S.C. 1985, c. E-15, as amended) by or on behalf of the following persons, corporations or partnerships, to wit: Stabo Inc., Les Constructions Dany Lachance Inc., Système Intérieur S. Lafleur Inc., 2942429 Canada Inc., Rénovation Allens Michel Inc., Système Intérieur Lebeau Inc., Acoustique B & A Inc., Quapaz Inc., Construction Alban Perreault Inc., Construction Patry Inc., 9053-3340 Québec Inc., Gypse & Joints M P G Rive-Nord Inc., Gaétan Lepage, R. Tavano Enr., Acoustique DRT Inc., Système Intérieur A. Lagueux Inc., Finition Intérieure Rojean S.E.N.C. and Entreprise Générale Gestram Ltée, for the reporting periods comprised between January 1, 1996 and December 31, 1999, inclusively, by providing false invoices purporting to be issued by 9024‑4450 Québec Inc., 3323293 Canada Inc., Construction B.V. Champlain Inc. and 9054‑5419 Québec Inc., which these persons, corporations or partnerships used for the purpose of claiming false input tax credits in the amount of $223,922.81 and thus attempting to evade the tax or net tax, or to obtain a rebate in the same amount, thereby committing an offence under section 327(1)(a) of that Act and making himself liable on summary conviction to the penalty prescribed in section 327(1)(f) or 327(1)(g) of the Act.
+Mr. Tremblay's testimony
+[10] Lastly, I note that Mr. Tremblay, the investigator who uncovered the scheme put in place by Mr. Dubois, testified that his investigation resulted not only in Mr. Dubois's plea of guilty to the aforementioned charges, but also in the guilty pleas of Yves Beauchamp and Stéphane Thuot to similar charges. Mr. Tremblay explained that, among other things, Mr. Dubois had provided false invoices which purported to be issued by Construction B.V. Champlain Inc., Acoustique B.V. and Construction J.L. Green and which the appellant used to claim false input tax credits. Mr. Tremblay explained that Mr. Dubois set up these companies, had invoices printed, and used nominees (in particular, Nathalie Dubois, Bernard Vinet and Marcel Benoît) to act as directors of these companies, cash the cheques issued by the appellant in payment of these false invoices, and hand over to the appellant the amounts thus obtained (less a 10% commission), which amounts were apparently used to pay the appellant's employees under the table.
+Mr. Champagne's testimony
+[11] Mr. Champagne corroborated in a way Mr. Ouimette's testimony concerning his role in the appellant's business during the relevant period by specifying that he filled out blank invoices of Construction B.V. Champlain Inc. and J.L. Green on their behalf. He explained that he had not met the officers of those companies, but had rubbed shoulders with their employees at the appellant's various job sites. He added that he was paid only by the appellant during the relevant period. Lastly, he explained that he did not know why the amounts payable to these subcontractors had been the subject of a 10% holdback.
+The appellant's position
+[12] The appellant submitted that the respondent's evidence that the invoices in question were fictitious was based essentially on the subcontractors' profiles and on the fact that their invoices were filled out by employees of the appellant. The appellant asserted that the Minister has in no way shown that it colluded with these subcontractors or that the tax that it paid them was used to pay its employees under the table. With respect to the invoices filled out by employees of the appellant, the appellant claimed that the subcontractors instructed it to prepare them on their behalf, and so the Minister could not infer from this that the invoices were fictitious. The appellant added that it always made sure that the subcontractors had a GST registration number, and that this was all that it could do, since all information about the payment of the tax by the supplier of the service is confidential and cannot be disclosed to the appellant. The appellant maintained that it had no way of knowing that it was dealing with delinquent businesses. According to the appellant, it is the conduct of those businesses that contravened the ETA. The appellant further stated that it should not have to bear the economic burden resulting from these subcontractors' failure to remit to Her Majesty the tax that the appellant had paid them. Lastly, the appellant submitted that the invoices, the cheques that it issued in payment of those invoices, and the credible testimony of Pierre Ouimette (corroborated by Mr. Champagne's testimony) that the services were truly provided to the appellant by these subcontractors constituted prima facie evidence that the invoices in question were not fictitious, and that this prima facie evidence was sufficient to demolish the assumptions of fact on which the Minister relied in assessing the appellant. The appellant explained that once the Minister's assumptions of fact were demolished, the burden of proof shifted to the Minister, who must accordingly rebut the appellant's prima facie evidence.
+Analysis and conclusion
+[13] I would point out that, in the field of tax law, the standard of proof is proof on a balance of probabilities. I would also point out that, in making an assessment, the Minister relies on assumptions, and that the taxpayer bears the initial burden of demolishing the assumptions made by the Minister in his assessment. The taxpayer's initial burden consists solely in demolishing the exact assumptions made by the Minister, and nothing more. An appellant discharges this initial burden of demolishing the exact assumptions made by the Minister if it presents at least prima facie evidence. As a general rule, prima facie evidence is defined as evidence sufficient to establish a fact until the contrary is proven. Once the appellant has demolished the Minister's assumptions, the burden of proof shifts to the Minister, who must rebut the prima facie evidence. I would note as well that the law of evidence in force in the province of Quebec applies in the present case. Specifically, the following provisions of the Civil Code of Québec apply:
+2826. A private writing is a writing setting forth a juridical act and bearing the signature of the parties; it is not subject to any other formality.
+2828. A person who invokes a private writing has the burden of proving it. . . .
+2831. An unsigned writing regularly used in the ordinary course of business of an enterprise to evidence a juridical act makes proof of its content.
+2835. A person who invokes an unsigned writing shall prove that it originates from the person whom he claims to be its author.
+2836. Writings contemplated in this section may be contested in any manner.
+[14] The question that now arises is as follows: is the evidence adduced by the appellant in the case at bar sufficient to demolish the Minister's assumptions of fact?
+[15] In the case at bar, the appellant had to show that the invoices were from subcontractors. In order to do so, it had to show that those subcontractors instructed it to fill out, on their behalf, the blank invoices that the officers of the subcontractors had given to the appellant. The appellant had the opportunity to call the officers of those subcontractors to testify in this regard. These officers could have testified that they gave such instructions to the appellant, and that services were truly provided to the appellant. The respondent could then have cross‑examined those witnesses, which the appellant was in a position to produce. But the appellant did not produce the witnesses that it was in a position to call to testify. The inference that I draw from this is, quite simply, that their evidence would have been unfavourable to the appellant. In this regard, the appellant wished to produce letters from officers of these subcontractors stating that the services were truly provided. I would point out that I did not allow the appellant to tender these letters in evidence since the respondent was not able to cross‑examine those officers. In my opinion, the letters had no probative value under the circumstances. Mr. Ouimette stated that three of the officers had died and therefore could not testify. The fact remains that the appellant could have called the other officers, who had not died. It did not do so.
+[16] I note as well that the appellant's evidence could also be contested in any manner. In this regard, the respondent called Mr. Tremblay to testify, and tendered Mr. Dubois's plea of guilty as Exhibit I‑3, and Mr. Ouimette's statement as Exhibit I‑2.
+[17] With respect to Construction B.V. Champlain Inc., I note that the respondent
+(i) produced as Exhibit I-3 Mr. Dubois's plea of guilty to having participated in the making of false and deceptive statements in returns filed or made under section 238 of the ETA by or on behalf of the appellant, for the reporting periods commencing January 1, 1996, and ending on December 31, 1999, by providing false invoices purporting to be issued by Construction B.V. Champlain Inc., which the appellant used for the purpose of claiming false ITCs;
+(ii) produced as Exhibit I-2 Mr. Ouimette's statement that the blank invoices of this subcontractor had been provided to the appellant by Mr. Dubois; (In this regard, I note Mr. Ouimette's testimony that the blank invoices of this subcontractor were filled out by Mr. Champagne, an employee of the appellant. I also note in this regard that Mr. Champagne testified that he had filled out this subcontractor's invoices.)
+(iii) called Mr. Tremblay as a witness. (I note that his testimony was that Mr. Vinet (the director of this subcontractor who went to a Cheque Express counter and cashed the cheques from the appellant that were related to these invoices) was a nominee of Mr. Dubois.)
+[18] With respect to Construction J.L. Green, I note that the respondent
+(i) produced as Exhibit I-3 Mr. Dubois's plea of guilty to having participated in the making of false and deceptive statements in returns filed or made under section 238 of the ETA by or on behalf of the appellant, for the reporting periods commencing January 1, 1996, and ending December 31, 1999, by providing false invoices purporting to be issued by J.L. Green, which the appellant used for the purpose of claiming false ITCs;
+(ii) produced as Exhibit I-2 Mr. Ouimette's statement that the blank invoices of this subcontractor had been provided to the appellant by Mr. Dubois; (In this regard, I note Mr. Ouimette's testimony that the blank invoices of this subcontractor were filled out by Mr. Champagne, an employee of the appellant. I also note that Mr. Champagne testified that he had filled out this subcontractor's blank invoices.
+(iii) called Mr. Tremblay as a witness. (I note that his testimony was that Mr. Michel Benoît (the director of this subcontractor who went to a Cheque Express counter and cashed the cheques from the appellant that were related to these invoices, paying a 3% commission) was a nominee of Mr. Dubois.)
+[19] With respect to Acoustique B.V., I note that the respondent:
+(i) produced as Exhibit I-3 Mr. Dubois's plea of guilty to having participated in the making of false and deceptive statements in the returns filed or made under section 238 of the ETA by or on behalf of the appellant, for the reporting periods commencing January 1, 1996, and ending December 31, 1999, by providing false invoices purporting to be issued by Acoustique B.V., which the appellant used for the purpose of claiming false ITCs; (I note Mr. Champagne's testimony that he filled out this subcontractor's blank invoices.)
+(ii) called Mr. Tremblay as a witness. (I note that his testimony was that Mr. Bernard Vinet (the director who went to a Cheque Express counter and cashed the cheques from the appellant that were related to these invoices, paying a 3% commission) was a nominee of Mr. Dubois.)
+[20] With respect to the subcontractor Acoustique B & A, the respondent called Mr. Tremblay as a witness. Mr. Tremblay testified that Yves Beauchamp, that subcontractor's sole director, was a nominee of Mr. Dubois and had pleaded guilty to an offence similar to that to which Mr. Dubois pleaded guilty. I note that in this regard the evidence showed that Mr. Beauchamp was the person who cashed the appellant's cheques related to that subcontractor's invoices at a Cheque Express counter, paying a 3% commission. I also note Mr. Ouimette's statement that a large percentage of that subcontractor's blank invoices were filled out by employees of the appellant.
+[21] With respect to the subcontractor Construction Stéphane Thuot, the respondent called Mr. Tremblay as a witness. Mr. Tremblay testified that Stéphane Thuot, that subcontractor's sole director, was also a nominee of Mr. Dubois and had pleaded guilty to an offence similar to that to which Mr. Dubois' pleaded guilty. In this regard, I note Mr. Ouimette's statement that Stéphane Thuot provided that subcontractor's blank invoices to the appellant. Lastly, I note that the evidence disclosed that the appellant's certified cheques in payment of that subcontractor's invoices were deposited into the subcontractor's bank account, and that equal amounts were immediately withdrawn in cash from that account.
+[22] In my opinion, the Minister has shown, through Mr. Tremblay's credible testimony, Mr. Dubois's guilty plea (Exhibit I‑3) and Mr. Ouimette's statement (Exhibit I‑2) that the problematic invoices were fictitious. I would add that the fact that the appellant never paid to the subcontractors in question the 10% holdback (to guarantee the performance of the work) only reinforces my conviction that these invoices were fictitious.
+[23] Lastly, I would point out that the invoices found at pages 56, 58, 55, 57, 59, 382, 384, 383, 60, 496, 498, 499, 500, 501, 502, 503, 374, 377, 378, 504, 505, 495 and 494 of Exhibit I‑1 do not comply with either section 169 of the ETA or the Input Tax Credit Information (GST/HST) Regulations in that they do not indicate the registration number required for GST purposes. Consequently, the appellant cannot claim the ITCs related to these invoices.
+[24] Given my foregoing finding that the invoices in issue were fictitious, I conclude that the Minister properly disallowed the appellant's ITC claim. Since the Minister very clearly showed that Mr. Ouimette participated with Mr. Dubois and other persons of his ilk in fictitious transactions, I have no choice but to hold that the Minister properly imposed the penalty under section 285 of the ETA.
+[25] For these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 8th day of January 2008.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 31st day of July 2008.
+Erich Klein, Revisor
+CITATION: 2008TCC12
+COURT FILE NO.: 2002-1311(GST)G
+STYLE OF CAUSE: GYPSE ET JOINTS MPG RIVE-NORD v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATES OF HEARING: November 6 and 7, 2006,
+February 28, 2007 and
+April 25, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: January 8, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Steve Robitaille
+Counsel for the Respondent:
+Denis Émond
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Steve Robitaille
+City: Lavalterie, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Exhibit I‑3.

@@ -1,0 +1,192 @@
+Title: Landry v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27794/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-383-27794-landry-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-07-18
+
+# Landry v. The Queen
+
+- Citation: 2007 CCI 383
+- Decision date: 2007-07-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 274, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-07-18
+Référence neutre
+2007 CCI 383
+Numéro de dossier
+2006-2893(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2893(IT)I
+ENTRE :
+PHILLIP L. LANDRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 25 juin 2007, à Yarmouth (Nouvelle‑Écosse).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Lindsay D. Holland
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont accueillis en partie et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait qu’en ce qui concerne le bureau à domicile, l’appelant a droit à une déduction de 1 200,32 $ pour l’année 2002, et à une déduction de 748,84 $ pour l’année 2003.
+Les appels concernant la déduction des frais afférents aux véhicules à moteur, de 7 739,90 $ pour l’année 2002 et de 9 732,40 $ pour l’année 2003, sont rejetés.
+Signé à Halifax (Nouvelle‑Écosse), ce 18e jour de juillet 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 20e jour d’août 2007
+Johanne Brassard, trad. a.
+Référence : 2007CCI383
+Date : 20070718
+Dossier : 2006-2893(IT)I
+ENTRE :
+PHILLIP L. LANDRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En 2002 et en 2003, l’appelant était surintendant des écoles à la Commission scolaire régionale Southwest, en Nouvelle‑Écosse (la « commission scolaire »). Dans le cadre de ses fonctions, il était obligé d’effectuer de nombreux déplacements sur tout le territoire régi par la commission scolaire et d’assister à des réunions à l’extérieur de la région. En produisant ses déclarations de revenus pour les années 2002 et 2003, l’appelant a déduit les montants suivants, qui sont contestés :
+Dépenses déduites
+2002
+2003
+Frais de véhicule à moteur
+7 739,90 $
+9 732,40 $
+Frais de bureau à domicile
+1 200,32 $
+748,84 $
+Frais de véhicule à moteur
+[2] Dans l’exercice de ses fonctions, l’appelant utilisait deux véhicules en 2002 et en 2003. L’appelant soumettait à la commission scolaire des demandes de remboursement des dépenses pour les déplacements associés à son travail et il était payé en fonction du nombre de kilomètres effectués pour les activités se rattachant à son emploi. En 2002, l’appelant a reçu un montant de 12 901,87 $ en tout pour les déplacements et, en 2003, il a reçu un montant de 12 864,20 $.
+[3] L’appelant n’a inclus ni l’un ni l’autre de ces montants dans son revenu des années 2002 et 2003. Toutefois, en 2002, il a déduit un montant de 7 739,90 $ au titre de l’assurance, de la déduction pour amortissement et des frais d’intérêt associés aux véhicules à moteur et, en 2003, il a déduit un montant de 9 732,40 $ pour les frais d’entretien et de réparation, l’assurance, le permis et l’immatriculation, la déduction pour amortissement et les frais d’intérêt associés aux véhicules à moteur.
+[4] Étant donné que l’emploi de l’appelant n’était pas lié à la vente de biens ou à la négociation de contrats pour son employeur, les dispositions applicables de la Loi de l’impôt sur le revenu (la « Loi ») sont le sous‑alinéa 6(1)b)(vii.1), les alinéas 8(1)h.1) et 8(1)j) ainsi que le paragraphe 8(2), lesquels prévoient ce qui suit :
+6(1) Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables:
+[...]
+b) les sommes qu’il a reçues au cours de l’année à titre d’allocations pour frais personnels ou de subsistance ou à titre d’allocations à toute autre fin, sauf:
+[...]
+(vii.1) les allocations raisonnables pour l’usage d’un véhicule à moteur qu’un employé [...] a reçues de son employeur pour voyager dans l’accomplissement des fonctions de sa charge ou de son emploi.
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant:
+[...]
+h.1) dans le cas où le contribuable, au cours de l’année, a été habituellement tenu d’accomplir les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d’emploi, d’acquitter les frais afférents à un véhicule à moteur qu’il a engagés dans l’accomplissement des fonctions de sa charge ou de son emploi, les sommes qu’il a dépensées au cours de l’année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas:
+(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l’effet de l’alinéa 6(1)b), n’est pas incluse dans le calcul de son revenu pour l’année,
+[...]
+j) lorsqu’un montant est déductible en application des alinéas f), h) ou h.1) dans le calcul du revenu que le contribuable tire d’une charge ou d’un emploi pour une année d’imposition:
+(i) les intérêts payés par le contribuable au cours de l’année soit sur de l’argent emprunté et utilisé pour acquérir un véhicule à moteur utilisé dans l’exercice des fonctions de sa charge ou de son emploi ou un aéronef nécessaire à cet exercice, soit sur un montant payable pour l’acquisition d’un tel véhicule ou aéronef,
+(ii) la déduction pour amortissement pour le contribuable, autorisée par règlement, applicable, selon le cas:
+(A) à un véhicule à moteur utilisé dans l’exercice des fonctions de sa charge ou de son emploi,
+(B) à un aéronef qui est nécessaire à l’exercice de ces fonctions;
+8.(2) Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+[Je souligne.]
+[5] Étant donné que, selon l’alinéa 8(1)h.1), l’employé a le droit de déduire les frais afférents au véhicule à moteur « sauf s’il a [...] reçu une allocation pour frais afférents à un véhicule à moteur qui, par l’effet de l’alinéa 6(1)b), n’est pas incluse dans le calcul de son revenu pour l’année », aucune déduction n’est permise pour les frais afférents au véhicule à moteur si l’employé a reçu une allocation raisonnable qui n’était pas incluse dans le calcul de son revenu. Étant donné que, conformément à l’alinéa 8(1)j), la déduction des frais d’intérêt et la déduction pour amortissement peuvent uniquement être demandées si le contribuable a droit à une déduction en vertu des alinéas 8(1)f), h) ou h.1), la réception d’une allocation raisonnable qui n’est pas incluse dans le calcul du revenu empêche la déduction des frais afférents au véhicule à moteur en vertu de l’alinéa 8(1)h.1) ainsi que toute déduction des frais d’intérêt et la déduction pour amortissement.
+[6] Compte tenu de ces dispositions, il existe deux possibilités lorsque l’employé est obligé de se déplacer dans l’exercice de ses fonctions, à savoir :
+a) l’employeur a versé à l’employé une allocation raisonnable en vue de rembourser les frais afférents au véhicule à moteur que l’employé a engagés;
+b) l’employeur n’a pas versé à l’employé une allocation raisonnable en vue de rembourser les frais afférents au véhicule à moteur que l’employé a engagés.
+[7] Si l’employé a reçu une allocation raisonnable :
+a) le montant du remboursement n’est pas inclus dans le revenu de l’employé;
+b) l’employé n’a pas droit à une déduction en vertu de la Loi à l’égard des frais afférents au véhicule à moteur qu’il a engagés, et notamment la déduction des frais d’intérêt et la déduction pour amortissement.
+[8] Si l’employé n’a pas reçu une allocation raisonnable :
+a) le montant est inclus dans le revenu de l’employé;
+b) l’employé a le droit de déduire les frais afférents au véhicule à moteur qu’il a engagés pour voyager dans l’accomplissement de ses fonctions, et il a notamment droit à la déduction des frais d’intérêt et à la déduction pour amortissement.
+[9] En l’espèce, l’appelant et son comptable ont choisi une méthode qui n’est pas sanctionnée par la Loi. Dans le calcul de son revenu, l’appelant n’a pas inclus le montant qu’il avait reçu de la commission scolaire au titre du remboursement des frais afférents aux véhicules à moteur qu’il avait engagés; pourtant, dans le calcul de son revenu, il a décidé de déduire certains frais y afférents.
+[10] Dans ce cas‑ci, en omettant d’inclure dans son revenu les montants reçus au titre du remboursement des frais afférents aux véhicules à moteur, l’appelant doit avoir pris la position selon laquelle ce montant constituait une allocation raisonnable pour l’utilisation de ses véhicules à moteur. Les frais afférents aux véhicules à moteur ne sont donc pas déductibles en vertu de l’alinéa 8(1)h.1) et, par suite des dispositions de l’alinéa 8(1)j), aucun montant n’est déductible au titre des frais d’intérêt ou ne peut faire l’objet d’une déduction pour amortissement. En omettant d’inclure le montant en question dans son revenu, l’appelant ne peut donc pas déduire les frais afférents aux véhicules à moteur.
+[11] Le comptable de l’appelant a témoigné reconnaître que l’appelant recevait une allocation pour les frais afférents à ses véhicules à moteur, mais il a pris la position selon laquelle ce montant visait à dédommager l’appelant pour l’essence et l’usure. Toutefois, le comptable a également témoigné n’avoir jamais calculé le montant que l’appelant avait de fait dépensé pour l’essence et il ne connaissait donc pas le montant par lequel le montant reçu par l’appelant dépassait les frais réels engagés à ce titre.
+[12] L’agent des appels à l’Agence du revenu du Canada (l’« ARC ») a préparé, à l’aide des renseignements soumis par l’appelant, un tableau indiquant le total des frais engagés pour les deux véhicules en question et il a préparé une estimation de la proportion dans laquelle chaque véhicule était utilisé dans le cadre de l’emploi. L’appelant a contesté les montants soumis par l’intimée; toutefois, il n’avait pas de documents ou de renseignements précis à l’appui de sa position quant au nombre de kilomètres effectués chaque année, et les renseignements de l’intimée étaient basés sur les lectures de l’odomètre, faites à l’aide des factures de réparation. Je retiens donc la preuve de l’intimée sur ce point. De plus, l’appelant a reconnu qu’il était possible que les véhicules aient effectué le nombre total de kilomètres proposé par l’intimée s’il était tenu compte de l’utilisation des véhicules par les autres membres de la famille. Étant donné que les dépenses se rapportent simplement aux véhicules, indépendamment de l’utilisateur des véhicules, le nombre total de kilomètres parcourus devrait également être basé sur le nombre de kilomètres effectués par chaque véhicule, indépendamment de l’utilisateur du véhicule. Je conclus que le nombre total de kilomètres effectués par les deux véhicules au cours de chacune des années 2002 et 2003 s’élevait à environ 72 000 kilomètres.
+[13] Toutefois, en préparant la liste des dépenses, l’intimée n’a pas inclus les reçus concernant l’essence achetée par d’autres membres de la famille. Étant donné que le total des dépenses pour les deux véhicules doit être fondé sur toutes les dépenses engagées à l’égard des véhicules, il importe peu de savoir qui achetait l’essence. Par conséquent, toutes les dépenses associées à l’essence auraient dû être incluses dans le calcul. Toutefois, il se posait un autre problème. L’agent des appels de l’ARC a noté que parmi les reçus soumis par l’appelant, il y en avait plusieurs qui se rapportaient à des réparations et à de l’essence pour plusieurs véhicules et, en particulier, pour trois véhicules qui n’étaient pas désignés comme étant des véhicules que l’appelant utilisait dans l’exercice de ses fonctions d’employé. On ne sait donc pas trop combien d’essence a en fait été achetée pour les deux véhicules et, puisqu’il n’a pas produit de sommaire des montants réels qui ont été dépensé pour l’essence, l’appelant n’a pas satisfait à la charge qui lui incombait d’établir les faits quant aux montants dépensés à ce titre.
+[14] De toute façon, si les montants déterminés par l’agent des appels de l’ARC sont utilisés, y compris tous les montants identifiés par l’agent des appels comme se rapportant à l’essence, les montants dépensés pour les deux véhicules que l’appelant utilisait dans l’exercice de ses fonctions s’élevaient en tout aux montants figurant dans le sommaire reproduit ci‑dessous :
+Élément
+2002
+2003
+Essence
+8 757,08 $
+7 701,33 $
+Entretien et réparation
+1 638,68 $
+2 813,50 $
+Assurance
+1 028,00 $
+1 805,00 $
+Permis et immatriculation
+134,00 $
+134,00 $
+Déduction pour amortissement
+6 756,30 $
+6 497,61 $
+Frais d’intérêt
+808,82 $
+758,08 $
+Total
+19 122,88 $
+19 709,52 $
+[15] Le nombre de kilomètres parcourus dans le cadre de l’emploi a été déterminé à l’aide des documents indiquant les montants reçus au titre du remboursement, et je retiens donc les chiffres mentionnés par l’agent des appels. Le nombre de kilomètres parcourus dans le cadre de l’emploi s’élevait à 50 786 en 2002 et à 46 540 en 2003. Par conséquent, les véhicules étaient utilisés dans le cadre de l’emploi dans une proportion de 50 786/72 000 en 2002, soit 71 p. 100, et dans une proportion de 46 540/72 000 en 2003, soit 65 p. 100.
+[16] Les dépenses totales pour l’année 2002 qui se seraient rapportées à l’emploi correspondent à 71 p. 100 de 19 122,88 $, soit 13 577,24 $, et pour l’année 2003, elles correspondent à 65 p. 100 de 19 709,52 $, soit 12 811,19 $.
+[17] Le montant total que l’appelant a reçu à titre de remboursement à l’égard de l’utilisation de son véhicule s’élevait à 12 901,87 $ en 2002 et à 12 864,20 $ en 2003. En 2003, le montant que l’appelant a reçu dépassait le total des dépenses qui a été déterminé ci‑dessus. En 2002, le montant que l’appelant a reçu était légèrement supérieur à 95 p. 100 du montant total qui a été dépensé comme il en a été fait mention ci‑dessus. Toutefois, comme il en a été fait mention ci‑dessus, il existe certains doutes au sujet de la question de savoir si les dépenses associées à l’essence qui ont été incluses ci‑dessus se rapportaient aux deux véhicules. Étant donné que le montant du remboursement représentait 95 p. 100 du total des dépenses estimées (y compris tous les montants se rattachant à l’essence), l’appelant n’a pas réussi à établir que le montant qu’il avait reçu de la province n’était pas un montant raisonnable, même si tous les montants indiqués sur les reçus relatifs à l’essence sont inclus. Par conséquent, l’appelant n’a droit à aucune déduction pour les frais qu’il a engagés en 2002 et en 2003 à l’égard de ses véhicules à moteur.
+Frais de bureau à domicile
+[18] L’avocate de l’intimée a indiqué que les montants qui avaient été déduits pour le bureau à domicile n’étaient pas contestés. Le litige se rapportait à la question de savoir si l’appelant avait le droit de déduire ces montants.
+[19] L’alinéa 8(1)i) de la Loi prévoit ce qui suit :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant:
+[...]
+i) les sommes payées par le contribuable au cours de l’année au titre:
+[...]
+(iii) du coût des fournitures qui ont été consommées directement dans l’accomplissement des fonctions de la charge ou de l’emploi et que le contrat d’emploi du cadre ou de l’employé l’obligeait à fournir et à payer, [...]
+[20] Le paragraphe 8(13) de la Loi impose une restriction additionnelle en ce qui concerne la déduction des frais de bureau à domicile. Cette disposition est rédigée comme suit :
+Malgré les alinéas (1)f) et i):
+a) un montant n’est déductible dans le calcul du revenu d’un particulier pour une année d’imposition tiré d’une charge ou d’un emploi pour la partie d’un établissement domestique autonome où le particulier réside que si cette partie, selon le cas:
+(i) est le lieu où le particulier accomplit principalement les fonctions de la charge ou de l’emploi,
+(ii) est utilisée exclusivement, au cours de la période à laquelle le montant se rapporte, aux fins de tirer un revenu de la charge ou de l’emploi et est utilisée pour rencontrer des clients ou d’autres personnes de façon régulière et continue dans le cours normal de l’exécution des fonctions de la charge ou de l’emploi.
+[21] L’appelant a déclaré qu’il n’y avait pas de contrat écrit pour l’année 2002 ou pour l’année 2003. Il a produit en preuve une copie du contrat conclu en 2004 et il a déclaré que le contrat était essentiellement identique à l’entente relative aux années 2002 et 2003. Le contrat de 2004 prévoyait que la commission scolaire fournirait du matériel de bureau et du matériel électronique, à savoir un téléphone cellulaire, un ordinateur personnel et une imprimante, la connexion à Internet à la résidence ainsi qu’une ligne de téléphone réservée au télécopieur.
+[22] En sa qualité de surintendant des écoles, l’appelant commençait à travailler très tôt le matin. Pendant l’année scolaire, vers 4 h 30 ou 5 h chaque matin, il devait décider s’il allait fermer des écoles ce jour‑là, la fermeture étant habituellement attribuable aux conditions météorologiques.
+[23] Il me semble qu’il serait déraisonnable de s’attendre à ce qu’un employé qui doit commencer sa journée à 4 h 30 ou 5 h soit obligé de se rendre à son bureau pour faire des appels téléphoniques afin de fermer une école ou des écoles, en particulier lorsque les routes ne sont peut‑être pas sûres. Dans le contrat de 2002 et de 2003, il devait donc être implicitement prévu que l’appelant aurait chez lui un endroit où il pourrait accomplir ces tâches. L’appelant faisait remplir et signer chaque année un formulaire T2200 par M. Légère, en sa qualité de directeur général de la commission scolaire du district Tri‑County, indiquant que l’appelant était obligé de payer ses frais de bureau à domicile. M. Légère a témoigné qu’il incombait à l’appelant de vérifier les prévisions météorologiques chaque jour et de décider s’il fallait fermer des écoles. Ce témoignage confirmait encore une fois que l’appelant était obligé de travailler à la maison étant donné que la décision devait être prise très tôt le matin.
+[24] En l’absence de preuve contraire, je conclus que l’appelant était obligé d’avoir un bureau à domicile.
+[25] L’appelant a également témoigné, et je retiens son témoignage, qu’au moins une fois par semaine, il rencontrait des personnes au bureau qu’il avait chez lui et il a témoigné que l’endroit où le bureau était situé dans la maison était utilisé exclusivement dans le cadre de son emploi. Ce bureau n’était pas utilisé à d’autres fins. L’appelant et M. Légère ont tous deux témoigné que l’appelant faisait plusieurs appels depuis la maison le soir et pendant la fin de semaine. Dans les décisions Vanka v. Her Majesty the Queen [2001] 4 C.T.C. 2832 et Ryan v. Her Majesty the Queen [2006] 3 C.T.C. 2153, la présente cour a conclu que les réunions téléphoniques sont suffisantes pour l’application du sous‑alinéa 18(12)a)(ii), dont les dispositions sont identiques à celles du sous‑alinéa 8(13)a)(ii) pour ce qui est de l’exigence selon laquelle le bureau doit être utilisé sur une base régulière et continue pour des réunions; je conclus donc que l’appelant a satisfait aux exigences du sous‑alinéa 8(13)a)(ii).
+[26] Par conséquent, je conclus que l’appelant s’est acquitté de l’obligation qui lui incombait d’établir son droit de déduire les dépenses associées au bureau à domicile; la déduction relative aux fournitures à l’égard du bureau à domicile, d’un montant de 1 200,32 $ pour l’année 2002 et d’un montant de 748,84 $ pour l’année 2003, est donc admise.
+[27] Par conséquent, les appels interjetés par l’appelant en ce qui concerne la déduction des frais de bureau à domicile sont accueillis.
+[28] Les appels que l’appelant a interjetés à l’égard des frais afférents aux véhicules à moteur sont rejetés.
+Signé à Halifax (Nouvelle‑Écosse), ce 18e jour de juillet 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 20e jour d’août 2007
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI383
+No DU DOSSIER DE LA COUR : 2006-2893(IT)I
+INTITULÉ : PHILLIP L. LANDRY
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Yarmouth (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 25 juin 2007
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 18 juillet 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Lindsay D. Holland
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

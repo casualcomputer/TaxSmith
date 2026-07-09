@@ -1,0 +1,98 @@
+Title: Davar v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26561/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-715-26561-davar-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-11-04
+
+# Davar v. The Queen
+
+- Citation: 2005 TCC 715
+- Decision date: 2005-11-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3569, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-11-04
+Neutral citation
+2005 TCC 715
+File numbers
+2005-1824(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC715
+Date: 20051104
+Docket: 2005-1824(IT)I
+BETWEEN:
+ANJI DAVAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Agent for the Appellant: Glenna Rasley
+Counsel for the Respondent: Edward Sawa
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Fredericton, New Brunswick, on October 25, 2005)
+Miller J.
+[1] Ms. Anji Davar appeals the assessment of the Minister of National Revenue (the Minister) of her 2003 taxation year. The Minister denied certain expenses as qualifying as medical expenses.
+[2] The facts of this matter are straightforward. Both Mr. and Ms. Davar have several health concerns. Mr. Davar in connection with heart problems; Ms. Davar in connection with severe allergies. They both did something that many Canadians have turned to in recent years and they sought alternative treatments, including the services of a naturopath, massage therapist and acupuncturist. This was triggered by the failure of traditional western methods of treatment. Mr. Davar gave the example of physician prescribed drugs rendering him harm rather than good.
+[3] In 2003, the Appellant spent approximately $1,200 on the services of two naturopaths. Both had certificates under the Drugless Practitioners Act of Ontario as naturopathic doctors. The Appellant received the services from these doctors here in New Brunswick.
+[4] The Appellant paid $402 for massage therapy. No evidence was provided as to the therapist's qualifications. The Appellant paid $550 for acupuncture services at the New Start Allergy Clinic. The Appellant is also seeking $93 for dental work but has provided no evidence of such service.
+[5] The Appellant's position is twofold. First, that the list of what is included in the Income Tax Act as medical expenses is unfair as it does not allow for the alternative treatments they have received and which have clearly benefited them. Second, that the provisions of the Act, specifically section 118.2 and 118.4, can and should be interpreted liberally to include New Brunswick massage therapists, naturopaths and acupuncturists. Those sections read as follows:
+118.2(2) For the purposes of subsection 118.2(1), a medical expense of an individual is an amount paid:
+(a) to a medical practitioner, dentist or nurse ... in respect of medical or dental services provided to a person who is the individual, the individual's spouse ...
+Section 118.4(2) reads:
+118.4(2) For the purposes of sections 63, 118.2 ..., a reference to ... medical practitioner ... is a reference to a person authorized to practise as such,
+(a) where the reference is used in respect of a service rendered to a taxpayer, pursuant to the laws of the jurisdiction in which the service is rendered;
+For purposes of the Act, to qualify as a medical practitioner, New Brunswicklegislation must authorize an individual to practise as such. The only legislation in New Brunswick to which I was referred was the Medical Act. This Act clearly does not authorize a naturopath, massage therapist or acupuncturist to practise as such. I recognize that Ontario has legislation dealing with professionals in alternative treatment, but as Justice Bowie found in the Noddin v. R.[1] case, this does not permit a tax credit based on such services received in New Brunswick. Justice Bowie also addressed the constitutionality of such laws and did indeed find them to be constitutional. If changes are to be made, it is for the Government of Canada to make those changes.
+[6] The Appellant understands that there is no authorizing legislation in New Brunswick for such practices. The Davars have even written a letter to the Government of New Brunswick seeking change. They are frustrated, and as Ms. Davar stated, offended by this. They ask who can they turn to. While this Court has interpreted these laws liberally and compassionately, the Court cannot turn a blind eye to the real and exact meaning of the law, no matter how unfair the taxpayer believes it to be.
+[7] Mr. Davar, I cannot see any liberal interpretation that would allow me to find that a New Brunswick naturopath, massage therapist or acupuncturist qualify as required by the specific provisions of the Income Tax Act. I would be ignoring those provisions. Regrettably, we often have to decline these types of expenses. The Act does not yet acknowledge the trend in our healthcare system towards alternative forms of treatment. I have said this before, but I will repeat it for your benefit, there is no doubt in my mind that pain and suffering can be relieved by the alternative treatments.
+[8] Sometimes the law leads society in a certain direction, but often times societal behaviour leads the law. In the case of medical expenses, it is a matter of the law eventually catching up to society's behaviour and I am hopeful the legislators will do that. They do constantly review these medical expense rules to ensure that they are updated and that they are appropriate. They, however, are not there yet regarding the types of alternative treatment expenses you seek.
+[9] You must appreciate it is not for me to rewrite the legislation. But by bringing your concerns to this Court, you will, as many others have, make the legislators aware of your concerns regarding alternative treatments. I appreciate your effort in doing this, but I cannot allow your appeal.
+[10] I dismiss your appeal, but I do wish you both well.
+Signed at Ottawa, Canada, this 4th day of November, 2005.
+"CampbellJ. Miller"
+Miller J.
+CITATION:
+2005TCC715
+COURT FILE NO.:
+2005-1824(IT)I
+STYLE OF CAUSE:
+Anji Davar and Her Majesty the Queen
+PLACE OF HEARING
+Fredericton, New Brunswick
+DATE OF HEARING
+October 25, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+November 2, 2005
+APPEARANCES:
+Agent for the Appellant:
+Glenna M. Rasley
+Counsel for the Respondent:
+Edward Sawa
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2004 DTC 3577.

@@ -1,0 +1,207 @@
+---
+title: "Pro-Style Stucco & Plastering Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28308/index.do"
+last_modified: "2004-01-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 32"
+citation2: ""
+neutral_citation: "2004 CCI 32"
+decision_date: "2004-01-09"
+language: "fr"
+item_id: "28308"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1841
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:09:00.015000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "85659a3f2a626ce94e86efe49020c17f752aace8803fd34ec195c3fb282d5d7d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pro-Style Stucco & Plastering Ltd. c. La Reine
+
+- Citation: 2004 CCI 32
+- Decision date: 2004-01-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1841, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pro-Style Stucco & Plastering Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-09
+Référence neutre
+2004 CCI 32
+Numéro de dossier
+2002-4864(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002‑4864(IT)I
+ENTRE :
+PRO‑STYLE STUCCO & PLASTERING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Pro-Style Stucco & Plastering Ltd. (2002‑4862(CPP))
+le 17 décembre 2003 à Edmonton (Alberta)
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Représentant de l’appelante :
+Dan R. Mason
+Avocat de l’intimée :
+Me K. Wood
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2004.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 26e jour d’avril 2004.
+Nancy Bouchard, traductrice
+Dossier : 2002‑4862(CPP)
+ENTRE :
+PRO‑STYLE STUCCO & PLASTERING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Pro-Style Stucco & Plastering Ltd. (2002‑4864(IT)I)
+le 17 décembre 2003 à Edmonton (Alberta)
+Devant : L’honorable juge Gerald J. Rip
+Comparutions :
+Représentant de l’appelante :
+Dan R. Mason
+Avocat de l’intimé :
+Me K. Wood
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté en vertu du paragraphe 28(1) du Régime de pensions du Canada est rejeté et la décision du ministre, portée en appel devant lui en vertu de l’article 27 du Régime, est confirmée.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2004.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 26e jour d’avril 2004.
+Nancy Bouchard, traductrice
+Référence : 2004CCI32
+Date : 20040109
+Dossier : 2002‑4864(IT)I
+ENTRE :
+PRO‑STYLE STUCCO & PLASTERING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2002-4862(CPP)
+ET ENTRE :
+PRO‑STYLE STUCCO & PLASTERING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Les présents appels ont été entendus ensemble sur preuve commune. La question principale à trancher dans les appels en l’espèce qu’interjette la Pro‑Style Stucco & Plastering Ltd. (l’entreprise « Pro‑Style ») à l’encontre de l’imposition d’une pénalité pour l’année 2000 en vertu du paragraphe 162(7) de la Loi de l’impôt sur le revenu (la « Loi ») et à l’encontre d’une décision qu’a rendue le ministre du Revenu national en vertu du Régime de pensions du Canada (le « RPC ») également pour l’année 2000 consiste à savoir si John Marocco, l’unique actionnaire et administrateur de l’entreprise Pro‑Style, était un employé de cette dernière pendant l’année civile 2000. Le ministre soutient qu’il était un employé; quant à l’appelante, elle affirme qu’il ne l’était pas.
+[2] Des cotisations ont été établies à l’égard de l’appelante de la façon suivante :
+a) des cotisations au RPC au montant de 1 205,10 $ en vertu des articles 21 et 22 du RPC;
+b) une pénalité de 120,51 $ pour avoir omis de verser des cotisations en vertu de l’article 21(7) du RPC;
+c) des intérêts au montant de 231,53 $ pour des cotisations qui n’ont pas été versées, conformément au paragraphe 21(6) du RPC;
+d) une pénalité de 400 $ pour avoir omis de produire des déclarations sur un feuillet T4 et sur un sommaire T4 en vertu du paragraphe 162(7) de la Loi concernant l’emploi qu’occupait M. Marocco.
+[3] L’appelante soutient également que la cotisation au RPC au montant de 1 205,10 $ est un double versement du montant de la cotisation établie à l’égard de M. Marocco au motif qu’il était un employé de l’appelante.
+[4] Si M. Marocco n’est pas un employé de l’entreprise Pro‑Style, alors la pénalité imposée en vertu du paragraphe 162(7) de la Loi sera annulée et l’appelante ne sera pas tenue de verser des cotisations au RPC et de payer une pénalité et des intérêts aux termes du RPC.
+[5] Les activités commerciales de l’entreprise Pro‑Style consistent à fournir des services de plâtrage. M. Marocco, un plâtrier, est le président, et l’unique administrateur et actionnaire de l’entreprise Pro‑Style, une société de l’Alberta. L’exercice de la société se termine le 28 février.
+[6] M. Marocco et l’entreprise Pro-Style ont passé un document intitulé « Contrat et accord des administrateurs » (l’« Accord ») daté du 10 août 1996. L’Accord contenait les attendus suivants :
+[traduction]
+ATTENDU QUE la compagnie est désireuse d’engager JOHN MAROCCO en tant qu’administrateur de l’entreprise PRO STYLE STUCCO & PLASTERING LTD.
+ATTENDU QUE John Marocco est désireux d’être l’administrateur de l’entreprise PRO STYLE STUCCO & PLASTERING LTD. ou un de ses administrateurs.
+et les parties ont notamment convenu de ce qui suit :
+[traduction]
+1.1 [...]
+a) [L’administrateur] en agissant au titre d’administrateur actif de la société percevra une allocation de présence maximale correspondant à plus ou moins 80 p. 100 (quatre‑vingts pourcent) du profit net de la société.
+b) L’allocation de présence sera établie à la fin de l’exercice de la société.
+c) L’administrateur peut toucher une avance sous forme de prêt que lui consentira la société, sous réserve :
+i) que des fonds suffisants soient disponibles au moment de toucher l’avance et que cette avance consentie ne compromette d’aucune façon la capacité de la société à remplir ses obligations financières.
+d) Si les prêts (avances) des administrateurs excèdent le pourcentage de profits désigné, tel que l’aura établi la société à la fin de son exercice, lesdits prêts seront reportés à l’année suivante et seront tout d’abord déduits de l’affectation des profits à l’administrateur pour cette année.
+e) L’administrateur est lié à la société en vertu d’un contrat et ne doit pas être considéré comme un employé de la société.
+1.2 La société, son conseil d’administration et ses actionnaires, à l’unanimité, nomment et élisent John Marocco au poste de président, qui assumera les tâches et responsabilités liées à ce poste, telles qu’elles sont énoncées dans les règlements administratifs de la société.
+1.3 La date d’entrée en vigueur de la nomination au titre d’administrateur de la société sera le 1er avril 1996.
+1.5 Les modalités du présent accord sont permanentes.
+1.6 Le présent accord et la nomination seront insérés au titre d’une résolution de la société. […]
+[7] M. Marocco fait à l’occasion affaire sous le nom commercial et la raison sociale Marocco Management. La Marocco Management agit à titre de sous‑traitant de l’entreprise Pro‑Style. Selon l’appelante, M. Marocco n’est pas un employé de la société, mais un entrepreneur qui la dirige. M. Marocco insiste sur le fait qu’il est l’administrateur de la société et non un employé.
+[8] M. Marocco a expliqué comment l’entreprise Pro‑Style le rémunère. Il a indiqué qu’il percevait une rémunération « cinq ou six fois au cours de l’année » à des montants variés « chaque fois ». Son salaire dépendait des profits que réalisait l’appelante; si elle ne générait aucun profit, il n’était pas payé. M. Marocco a indiqué qu’il ne perçoit pas son salaire régulièrement, par exemple toutes les semaines ou toutes les deux semaines, comme c’est le cas pour un employé. Il a déclaré que ce n’est qu’à la fin de l’année que l’appelante détermine quel sera le traitement qu’elle lui versera. Au cours de 2000, l’entreprise Pro‑Style lui a consenti une avance et les prêts ont été inscrits à titre de prêts aux actionnaires. Au cours de l’exercice 2000 de l’entreprise Pro‑Style, la société a versé à M. Marocco une allocation de présence correspondant à 18 950 $.
+[9] Le bureau de l’appelante est situé à la résidence personnelle de M. Marocco; il n’exige aucun loyer de la société. Si besoin est, l’appelante utilise certains biens personnels de M. Marocco, tels que des mélangeurs, des échafaudages, des madriers, des brouettes, des pelles ainsi que des truelles, ici encore, sans qu’aucuns frais ne lui soient imputés.
+[10] Les services que M. Marocco fournit à l’entreprise Pro‑Style consistent notamment à engager et à mettre à pied des travailleurs, à prendre les dispositions nécessaires pour souscrire à des assurances, à réparer et à entretenir les véhicules ainsi qu’en prendre des arrangements avec des sous‑traitants et d’autres plâtriers pour exécuter les travaux prévus aux contrats accordés à l’entreprise Pro‑Style.
+[11] Parfois, si un sous‑traitant ne se présentait pas pour exécuter les travaux, M. Marocco effectuait lui‑même le plâtrage.
+[12] Il est arrivé à quelques reprises que l’entreprise Pro‑Style retienne des sommes dues à des sous‑traitants en raison de malfaçon. Cependant, elle n’a jamais retenu de sommes quelconques dues à M. Marocco.
+[13] M. Marocco a insisté sur le fait qu’aucun employé ne travaillait pour le compte de la société.
+[14] M. Marocco n’a pas été en mesure de se rappeler quel avait été le montant des « honoraires » que lui avait versé l’appelante en 1998, lorsque celle‑ci a subi une perte de 52 710 $. Il a admis que sa seule source de revenu entre 1997 et 2001, inclusivement, était l’entreprise Pro‑Style. En 1998, l’entreprise Pro‑Style lui a versé une somme de 2 000 $. Les revenus de l’entreprise Pro‑Style et les montants que M. Marocco a déclaré avoir perçus de l’entreprise Pro‑Style dans ses déclarations de revenus pour les années ultérieures sont les suivants :
+Année*
+Revenu de l’entreprise Pro‑Style – Exercice
+Sommes qu’a perçues M. Marocco
+(année civile)
+1999
+96 303 $
+20 000 $
+2000
+19 975 $
+18 950 $
+2001
+23 614 $
+10 500 $
+2002
+(27 426 $)
+7 500 $
+[15] Toutes les sommes qu’a perçues M. Marocco étaient des allocations de présence. Il n’a jamais facturé ses services à l’entreprise Pro‑Style. Pour l’exercice 2000 de l’entreprise Pro‑Style, l’appelante a déclaré un paiement versé à M. Marocco au montant de 25 000 $ à titre d’« honoraires de gestion ». Parce que l’exercice de l’appelante ne correspond pas à l’année civile, il est difficile de rapprocher les sommes que l’entreprise Pro‑Style a réellement versées à M. Marocco pour les années civiles 1999 et 2000. Il se peut fort bien que la somme de 20 000 $ que M. Marocco a déclarée dans sa déclaration de revenus pour 1999 représente une partie de la somme de 25 000 $ qu’il a perçue cette année‑là. Cependant, M. Marocco n’a pas été en mesure de confirmer ou de fournir des précisions à ce sujet.
+[16] La Couronne a déposé en preuve la déclaration de revenus de l’entreprise Pro‑Style pour 2000 qui comprend un index général des renseignements financiers. Cet index renvoie à des salaires directs de 12 447 $ qu’a versés l’entreprise Pro‑Style ainsi qu’à des avantages sociaux de 5 524 $. M. Marocco n’a pas été en mesure de se rappeler avoir constaté que l’entreprise Pro‑Style avait versé des « salaires » quelconques en 2000, bien qu’il se soit souvenu que l’appelante a versé la somme de 2 705 $ à une main-d’œuvre temporaire pour effectuer des travaux de « nettoyage »; il a indiqué que l’entreprise Pro‑Style payait 250 $ pour chaque contrat de « nettoyage », mais il a ensuite affirmé qu’il avait payé 250 $ « tous les trente‑six du mois », soit peut‑être quatre ou cinq fois par mois.
+[17] En 2000, les biens de l’appelante valaient un peu plus de 140 000 $ et comprenaient un chariot élévateur à fourche, un échafaudage et un mélangeur de trois tonnes. La société possédait également des véhicules et payait des primes d’assurance pour ces véhicules. L’entreprise Pro‑Style souscrivait également à une assurance contre les accidents du travail si un sous‑traitant n’était pas couvert par une telle assurance. La société et ses administrateurs assumaient aussi tous les risques liés à des retards de livraisons et à la qualité des travaux. De même, selon M. Marocco, la société a payé la somme de 6 505 $ pour souscrire à une assurance contre le feu et le vol ainsi qu’à une assurance de responsabilité civile.
+[18] M. Marocco a indiqué que bien qu’en 2000 il n’ait fourni ses services qu’à l’entreprise Pro‑Style, il était libre de les fournir à d’autres entrepreneurs.
+[19] Il m’est difficile, bien que cela ne soit pas nécessairement impossible, de croire qu’une société qui n’a qu’un seul actionnaire, qui est aussi l’unique administrateur, puisse exploiter une entreprise dans l’industrie de la construction sans engager des employés et même de n’avoir que ce seul administrateur. Le représentant de l’appelante, M. Mason, m’a rappelé que l’intention des parties signataires d’un accord est importante et que celle des parties qui ont conclu l’Accord, notamment l’entreprise Pro‑Style et M. Marocco, est claire : les parties voulaient créer une relation contractuelle. M. Mason a fait valoir que M. Marocco assumaient plusieurs fonctions, mais aucune d’elles ne relevait de celles d’un employé de l’entreprise Pro‑Style.
+[20] M. Mason a renvoyé la Cour aux motifs du jugement qu’a prononcés le juge Bell dans l’affaire Sara Consulting & Promotions Inc. c. M.R.N.[1] En s’appuyant sur la preuve qui lui a été présentée, le juge Bell a soutenu que les services de « démonstration – en magasin – d’aliments, de boissons et de produits connexes » dans divers points de vente au détail étaient fournis par des entrepreneurs indépendants et non par des employés. Cependant, les faits dans l’affaire Sara sont tout à fait différents de ceux en l’espèce.
+[21] Dans une situation où une personne est l’unique administrateur et actionnaire d’une société et qu’elle fournit ses services à cette société, les critères traditionnels pour déterminer si cette personne est un employé ou un entrepreneur indépendant ne sont pas toujours utiles. Par exemple, comment peut‑on évaluer le degré de contrôle qu’exerce un employeur sur les activités du travailleur lorsque la personne qui dirige l’employeur est le travailleur? Il se peut fort bien, comme l’a laissé sous‑entendre M. Marocco, que l’entreprise Pro‑Style ait été constituée en personne morale parce qu’il voulait que ses responsabilités relatives à l’exploitation de l’entreprise soient limitées. Il a donc fait en sorte que tous les contrats soient conclus sous le nom commercial de l’entreprise Pro‑Style. Toutefois, l’entreprise Pro‑Style assumait tous les risques liés à la qualité des travaux. L’entreprise qui était exploitée était celle de Pro‑Style et non celle de M. Marocco, et les services qu’il fournissait faisaient partie intégrante de cette entreprise.
+[22] Il se peut que l’Accord conclu entre M. Marocco et l’entreprise Pro‑Style soit censé être un contrat en vertu duquel M. Marocco s’est engagé à fournir ses services à l’entreprise Pro‑Style, mais les parties ont également convenu que M. Marocco serait l’administrateur de l’entreprise Pro‑Style[2]. Il existe des dispositions législatives qui désignent M. Marocco comme un employé de l’entreprise Pro‑Style parce qu’il est un administrateur de la société et qu’il agit à ce titre en plus d’être son président. Par exemple, le RPC définit un employé de manière à inclure les fonctionnaires. Un fonctionnaire s’entend d’une personne qui détient une telle fonction ou charge « lui donnant droit à un traitement ou à une rémunération déterminée ou constable […] y compris le poste d’administrateur de personne morale »[3]. La disposition 1.1a) de l’Accord donne droit à M. Marocco à un traitement constable pour les services qu’il fournit à titre d’administrateur. Le RPC définit également un « emploi » de manière à inclure « la période d’occupation d’une fonction ». Un « employeur » est une personne « tenue de verser un traitement, un salaire, ou une autre rémunération pour des services accomplis dans un emploi. Est assimilée à un employeur, dans le cas d’un fonctionnaire, la personne qui lui verse sa rémunération »[4]. Dans l’affaire en l’espèce, l’employeur est l’entreprise Pro‑Style.
+[23] Pour ces motifs, M. Marocco était un employé de l’entreprise Pro‑Style pendant 2000.
+[24] L’argument de l’appelante selon lequel si ses appels sont rejetés, ses cotisations au RPC seront doublées n’est pas fondé. Comme l’avocat de l’intimée a déclaré, les rajustements nécessaires seront apportés de manière à éviter le double versement de cotisations. Tant l’employé que l’employeur sont responsables de verser leurs cotisations respectives au RPC. Toutes les cotisations excédentaires qu’a pu verser M. Marocco conséquemment à sa déclaration selon laquelle il était un travailleur autonome lui seront remboursées.
+[25] Il incombait à l’appelante de produire des déclarations de renseignements pour l’application de la Loi, mais elle a omis de s’acquitter de cette obligation; par conséquent, elle est tenue de payer les pénalités qui lui ont été imposées.
+[26] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 9e jour de janvier 2004.
+« Gerald J. Rip »
+Juge Rip
+Traduction certifiée conforme
+ce 26e jour d’avril 2004.
+Nancy Bouchard, traductrice
+* L’exercice de l’entreprise Pro‑Style se termine le 28 février.
+[1] [2001] A.C.I. no 773.
+[2] Il n’est pas nécessaire aux fins des présents motifs que j’émette des commentaires sur le bien‑fondé de l’Accord conclu entre l’entreprise Pro-Style et M. Marocco et je préfère m’en abstenir. L’intimée n’a pas mis en doute l’Accord en question.
+[3] Paragraphe 2(1). Voir également l’alinéa 6(1)c) de la Loi.
+[4] Idem.

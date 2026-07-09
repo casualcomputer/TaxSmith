@@ -1,0 +1,150 @@
+---
+title: "Lunn v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30626/index.do"
+last_modified: "2011-12-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 552"
+citation2: ""
+neutral_citation: "2011 TCC 552"
+decision_date: "2011-12-02"
+language: "en"
+item_id: "30626"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7122
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:48:49.150000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "029b17dc15f00de499edb58a3079394c9ec0fc3bc84909d2bff39f0bdda02cf7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lunn v. The Queen
+
+- Citation: 2011 TCC 552
+- Decision date: 2011-12-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7122, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lunn v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-12-02
+Neutral citation
+2011 TCC 552
+File numbers
+2011-787(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-787(IT)I
+BETWEEN:
+HUGH VINCENT LUNN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 30, 2011 at Ottawa, Canada
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Christopher Kitchen
+Tanis Halpape
+____________________________________________________________________
+JUDGMENT
+The Appellant’s appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 2nd day of December, 2011.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2011TCC552
+Date: 20111202
+Docket: 2011-787(IT)I
+BETWEEN:
+HUGH VINCENT LUNN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The Appellant was released from the military in 1995. Prior to 2008, he was receiving a pension from the Canadian Forces and a long term disability benefit from the Service Income Security Insurance Plan (“SISIP”) which was administered by Manulife Financial. On June 3, 2008 the Appellant’s application for benefits under the Canada Pension Plan was approved, retroactive to March 2007. This resulted in a lump sum payment of $12,487.70 to the Appellant. Since he had now received benefits under the Canada Pension Plan for the same period of time during which he had received pension payments from the Canadian Forces and benefit payments from the SISIP, the result was that he had received more in payments under the Canadian Forces pension and under SISIP than he should have received. The amount of the overpayment under the Canadian Forces pension was $6,446.58 and the amount of the overpayment under the SISIP was $8,521.02. The Appellant claimed a deduction in the amount of $14,519.87 in computing his income for 2008 on the basis that he was obligated to repay these overpayments[1]. The Canada Revenue Agency reduced the amount allowed as a deduction to $108. The issue is whether the Appellant is entitled to a deduction in an amount greater than $108.
+[2] The Appellant expressed concern that the lump sum payment amount that he had received in 2008 under the Canada Pension Plan was $12,487.70 but the overpayment amounts totalled $14,967.60. Although it is not entirely clear, it seems to me that this discrepancy perhaps arises as a result of the timing of the determination under the Canada Pension Plan of his entitlement to benefits and the receipt of payments from the other sources. The Appellant’s application under the Canada Pension Plan was approved on June 3, 2008, retroactive to March 2007. The lump sum payment of $12,487 was for 10 months in 2007 and 5 months in 2008. Therefore the lump sum payment covered the period from March to December of 2007 and January to May of 2008.
+[3] However, for the month of June 2008 he received a gross payment under the Canada Pension Plan of $843.54 and a gross payment under the SISIP of $1,530.24 as it was not until July of 2008 that the gross payments under the SISIP were reduced to $991.07 to reflect the monthly payments that the Appellant was now receiving under the Canada Pension Plan. As a result, in addition to the overpayment of $12,487 for the period from March 2007 to May 2008, there would also have been an overpayment of $539.17 ($1,530.24 - $991.07) from the SISIP for the month of June 2008. This presumably would account for another $539.17 of the total overpayment ($12,487.70 + $539.17 = $13,026.87).
+[4] The monthly payments under the Canadian Forces pension were not disclosed during the hearing but since the letter indicating the overpayment under this pension was dated in October 2008, presumably monthly payments for June, July, August and September (and possibly October) continued at the rate that did not reflect the monthly Canada Pension Plan benefit that the Appellant was receiving. It seems to me that this could explain why there was a difference between the lump sum payment amount received under the Canada Pension Plan and the total overpayment amounts.
+[5] The Appellant was repaying the overpayment amounts by deductions from the payments he was receiving from the Canadian Forces pension and the SISIP. The monthly amount that he was repaying under the Canadian Forces pension was $54.34 and two of these payments (for the months of November and December) were made in 2008. The Appellant was allowed a deduction of $108 for these two payments.
+[6] The total gross benefits paid under the SISIP in 2008 were $15,127.86. The amount that he repaid under the SISIP in 2008 was $1,934.63 and the difference between these two amounts is $13,193.23, which is the amount shown in his T4A slip as other income under the SISIP and which was the amount of income that he reported on his tax return for 2008 from the SISIP. No adjustment to this amount of income was made by the Canada Revenue Agency. Therefore the Appellant has received a deduction for the amounts that he repaid under the SISIP in 2008.
+[7] The Appellant claimed a deduction of $14,519.87 in computing his income for 2008 based on the amount that he was obligated to repay, which as counsel for the Respondent correctly noted, would mean that the Appellant would, if successful, be entitled to two deductions for the amounts actually repaid to SISIP – once in determining the net amount reported on the Appellant’s T4A slip and again as part of the deduction of $14,519.87 that the Appellant claimed in computing his income. Although the amount that he claimed ($14,519.87) was less than the total amount repayable ($14,967.60), the difference ($447.73) is less than the amount repaid to SISIP ($1,934.63) and therefore is less than the amount for which he already received the benefit of a deduction. Therefore there would still be the amount of $1,486.90 ($1,934.63 - $447.73) for which the Appellant would be receiving the benefit of two deductions. Even if the Appellant were allowed to claim a deduction for the amount that was repayable, he cannot have the benefit of the same amount twice.
+[8] In any event the issue is whether the Appellant is entitled to claim any deduction for the amounts that were repayable or whether his deduction is limited to only the amounts that he actually repaid in 2008.
+[9] In order to claim a deduction in computing income for the purposes of the Income Tax Act (the “Act”), it is necessary to find a provision in the Act that permits such a deduction. The Appellant did not refer to any of the provisions of the Act. The Respondent referred to paragraphs 8(1)(n) and 60(j.04) of the Act which provide as follows:
+8. (1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+…
+(n) an amount paid by or on behalf of the taxpayer in the year pursuant to an arrangement (other than an arrangement described in subparagraph (b)(ii) of the definition “top-up disability payment” in subsection 6(17)) under which the taxpayer is required to reimburse any amount paid to the taxpayer for a period throughout which the taxpayer did not perform the duties of the office or employment, to the extent that
+(i) the amount so paid to the taxpayer for the period was included in computing the taxpayer's income from an office or employment, and
+(ii) the total of amounts so reimbursed does not exceed the total of amounts received by the taxpayer for the period throughout which the taxpayer did not perform the duties of the office or employment;
+…
+60. There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+…
+(j.04) the total of all amounts each of which is an amount paid in the year by the taxpayer to a registered pension plan as
+(i) a repayment under a prescribed statutory provision of an amount received from the plan that
+(A) was included under subsection 56(1) in computing the taxpayer's income for a taxation year ending after 1989, and
+(B) can reasonably be considered not to have been designated by the taxpayer for the purpose of paragraph (j.2), or
+(ii) interest in respect of a repayment referred to in subparagraph (i),
+except to the extent that the total was deductible under paragraph 8(1)(m) in computing the taxpayer's income for the year;
+(emphasis added)
+[10] In this appeal it is not necessary to determine if all of the conditions for the application of these paragraphs are satisfied as both provisions only apply to amounts paid by the taxpayer. They do not apply to amounts that are payable (but not paid).
+[11] The Appellant is not entitled to a deduction for the amounts payable in 2008 that were not paid in 2008. The Appellant indirectly received a deduction for the repayments he made under the SISIP ($1,934.63) as the amount included in his income from the SISIP ($13,193.23) was net of the total amount he repaid under the SISIP. The Appellant was allowed a deduction for the amounts ($108 in total) that he repaid under the Canadian Forces pension. Therefore the Appellant has received the benefit of a deduction for the amounts he repaid under the SISIP and under the Canadian Forces pension in 2008. As a result, the Appellant is not entitled to any further deduction in computing his income for 2008.
+[12] Presumably for the amounts repaid under the SISIP after 2008, the amounts stated in his T4A slips for each year reflect the net amount paid to him (taking into account the amounts he repays during that year). Presumably he will also continue to be allowed a deduction for each year for the amounts that he repays during that year under the Canadian Forces pension.
+[13] The Appellant also raised an issue in relation to a claim that he was making for a capital loss. In 1993 the Appellant retained a contractor to build a house in Kingston, Nova Scotia. The Appellant stated that the house was to be partially used for a business but did not indicate what portion of the costs incurred would have been for this business or whether the Appellant had commenced to carry on a business.
+[14] As a result of the Appellant’s release from the Canadian Forces, the Appellant’s mortgage was not approved and he was unable to pay the contractor. The contractor commenced an action against the Appellant in the Supreme Court of Nova Scotia and was awarded a lien in the amount of $50,217. In the decision of the Nova Scotia Supreme Court the property is referred to either as the Appellant’s dwelling or his house. There is no reference to the proposed use of a part of the structure in carrying on a business. Included in the decision is a copy of a letter from the lawyer for the Appellant to the lawyer for the contractor. In that letter, the Appellant’s lawyer referred to the property as the Appellant’s house or home. It also appears that the Appellant was living in this house for a period of time.
+[15] It appears, based on the testimony of the Appellant, that the property was subsequently seized and sold and that the amount realized on the sale simply satisfied the outstanding lien.
+[16] In order to claim a capital loss, the Appellant would have to establish the proceeds of disposition, the adjusted cost base and that the property was not a personal use property. A house in which the Appellant lived would be a personal use property. Even if the taxpayer could establish all of these for a part of the property, any resulting allowable capital loss could only be used as a deduction against taxable capital gains, and the Appellant did not have any taxable capital gains in 2008. Therefore no adjustment will be made for the capital loss claimed by the Appellant.
+[17] As a result the Appellant’s appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 2nd day of December, 2011.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2011TCC552
+COURT FILE NO.: 2011-787(IT)I
+STYLE OF CAUSE: HUGH VINCENT LUNN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: November 30, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: December 2, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Christopher Kitchen
+Tanis Halpape
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] No explanation was provided for the difference between the amount claimed by the Appellant ($14,519.87) and the actual amount of the overpayments ($6,446.58 + $8,521.02 = $14,967.60).

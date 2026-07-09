@@ -1,0 +1,173 @@
+Title: Paré c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26243/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-540-26243-par-c-m-r-n-en.md
+Document type: case_law
+Last modified: 2004-10-29
+
+# Paré c. M.R.N.
+
+- Citation: 2004 TCC 540
+- Decision date: 2004-10-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4040, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paré c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-29
+Neutral citation
+2004 TCC 540
+File numbers
+2003-3989(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2003-3989(EI)
+BETWEEN:
+JULIE PARÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 30, 2004, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of October 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 24th day of January 2005.
+Elizabeth Tan, Translator
+Citation: 2004TCC540
+Date: 20041029
+Docket: 2003-3989(EI)
+BETWEEN:
+JULIE PARÉ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant is appealing from the decision of the Minister of National Revenue (the "Minister") stating that her employment with Toitures Fix Inc. (the "Payer") during the periods in question, September 24, 2001, to December 15, 2001, and March 3, 2003, to April 11, 2003, was not insurable employment within the meaning of the Employment Insurance Act (the "Act") because the Payer and the Appellant were not dealing at arm's length.
+[2] Subsection 5(1) of the Act reads, in part:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+...
+[3] Subsections 5(2) and 5(3) of the Act read, in part:
+(2) Insurable employment does not include
+...
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+(3) For the purposes of subparagraph (2)(i):
+(a) the question of whether persons are not dealing with each other at arm's length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[4] Section 251 of the Income Tax Act reads, in part:
+251 Arm's length
+(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm's length;
+...
+(2) Definition of "related person"
+For the purpose of this Act, "related persons", or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+...
+[5] The Minister's decision was based on the following presumptions of fact, as set out in paragraph 6 of the Reply to the Notice of Appeal:
+[translation]
+(a) the Payer was incorporated on March 26, 1999; (admitted)
+(b) the Payer specialized in roof repairs and metal work; (admitted)
+(c) the company employed two to seven people; (admitted)
+(d) the Payer ran the business year-round but the busiest period for the Payer was from September to January;
+(e) the Appellant was hired as secretary on commission; (admitted)
+(f) the Appellant's duties consisted of setting up computer programs, taking care of invoices, filing, making bank deposits, and preparing month-ends for the accountant; (admitted)
+(g) the Appellant had two children, Marie, born in November 1999, and Mathis, born in June 2003; (admitted)
+(h) on September 8, 2003, in a statement to the Respondent's representative, Danny Mousseau stated that the Appellant worked from home while taking care of her daughter; (denied)
+(i) the Appellant set her hours and her work schedule for the Payer; (admitted)
+(j) during the periods in question, the Appellant received a fixed salary regardless of the number of hours actually worked;
+(k) from the company's beginnings, in 1999, to September 23, 2001, the Appellant provided her services to the Payer with no declared salary; (admitted)
+(l) from September 24, 2001, to December 15, 2001, the Appellant was on the Payer's payroll for 30 hours of work per week; (admitted)
+(m) on September 8, 2003, in a statement to the Respondent's representative, Danny Mousseau stated that the Appellant provided her services for around 10 hours per week without being paid, from December 16, 2001, to March 2, 2003;
+(n) in the spring of 2003, the Appellant was informed that she needed 187 more hours to be eligible for maternity benefits;
+(o) from March 3, 2003 to April 11, 2003, the Appellant was on the Payer's payroll for 190 hours of work; (admitted)
+(p) on September 8, 2003, in a statement to the Respondent's representative, Danny Mousseau stated that the Appellant was hired so she could qualify for employment insurance; (admitted)
+(q) on September 8, 2003, in a statement to the Respondent's representative, Danny Mousseau stated that he would probably not have hired someone with whom he was dealing at arm's length to perform the Appellant's work;
+(r) the Appellant's salary was unreasonable considering the services provided to the Payer;
+(s) the Appellant provided her services to the Payer outside the periods in question, with no declared wages;
+(t) the Payer's payroll did not reflect the actual hours the Appellant worked;
+(u) the alleged periods the Appellant worked did not correspond to the periods actually worked;
+(v) the periods the Appellant was on the Payer's payroll did not correspond to the Payer's busiest periods of economic activity;
+(w) the Appellant's terms and length of employment, with no set schedule and work performed with pay and sometimes without pay are unreasonable;
+(x) on January 3, 2002, the Payer gave the Appellant a record of employment with September 24, 2001, as the first day of work, and December 15, 2001, as the last day of work, 480 insurable hours, and a total salary of $3,600.00;
+(y) on April 24, 2003, the Payer gave the Appellant a record of employment with March 3, 2003, as the first day of work, and April 11, 2003, as the last day of work, 190 insurable hours, and a total salary of $1,900.00;
+(z) the Appellant's records of employment are not reflective of reality in terms of either the hours or the periods the Appellant worked;
+(aa) the Appellant continued to provide her services to the Payer, while receiving employment insurance benefits;
+(bb) the Payer and the Appellant had an arrangement so that the Appellant could qualify for employment insurance benefits.
+Analysis
+[6] The Federal Court of Appeal has defined the role the Act confers on a justice of the Tax Court of Canada many times. This role does not permit a justice to substitute his or her discretion for that of the Minister, but it does carry with it the obligation to "verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so...decide whether the conclusion with which the Minister was "satisfied" still seems reasonable."[1]
+[7] In other words, before deciding whether the conclusion with which the Minister was satisfied still seems reasonable, I must, in light of the evidence before me, verify whether the Minister's allegations are well founded in whole or in part, considering the factors stated in paragraph 5(3)(b) of the Act.
+[8] The credibility of the Appellant and Mr. Mousseau is not questioned. They testified honestly, based on their knowledge, and sometimes very emotionally. They convinced me that the Appellant did, in fact, work for the Payer under his supervision during the two periods in question, that she worked around 30 hours per week (except for the last week of the second period in question) and that her salary was established based on this 30-hour average. The Appellant was paid at an hourly rate of $7.50 and $10.00 for the first and second periods in question, respectively. Outside the periods in question, the Appellant had various jobs with various employers and took a client care attendant course, and also provided her services to the Payer on a volunteer basis, an average of 10 hours per week, evenings and weekends. These services included some bookkeeping, preparing submissions, bank deposits, and filing some documents. During the periods in question, she not only continued to perform the same duties, but she also had two special mandates: during the first period in question, she programmed the new computer the Payer had purchased, and during the second period in question, she developed a new computer system for the Payer and also filed all the documents that had not been filed since the Payer's place of business had moved. It seems reasonable to me that the Appellant worked so many hours during the periods in question considering the special mandates the Payer gave her. This, in my opinion, is conclusive regarding subparagraphs (e), (f), (j), (l), (t) and (w) of the Minister's allegations.
+[9] The question now is whether the Payer and the Appellant would have concluded the same contract if they had been dealing at arm's length. In other words, were the employment conditions more favourable because the Appellant is the common-law spouse of the Payer's main shareholder? The Minister alleged the following regarding the working conditions, to show that they were unreasonable:
+(i) the Appellant's salary was unreasonable considering the services provided to the Payer;
+(ii) the Appellant set her own hours and her work schedule for the Payer;
+(iii) the Appellant performed her work at home, while caring for her daughter.
+[10] As for the Appellant's wages, I feel that they were more than reasonable considering the work she performed. Additionally, the Respondent recognized this at the hearing. This, in my opinion, is conclusive regarding subparagraph (r) of the Minister's allegations.
+[11] The terms of employment were simple: the employer gave her duties to carry out during the week and they were to be completed by the weekend. The Appellant testified that she was to perform her work during the periods in question because she was being paid. She stated that she would not have been paid if the work were not completed. As for her work schedule, the Appellant explained that she worked during usual working hours, during the day and this is why she drove her daughter to a babysitter at the start of the day. However, when the babysitter was unavailable, she worked in the evening when her common-law spouse was able to take care of her daughter. I feel that flexibility in the work schedule alone is not enough to conclude that the Payer and the Appellant would not have concluded such a work contract if they had been dealing at arm's length. The fact that the Appellant benefited from such working conditions does not seem to be to be relevant and decisive, especially since the type of work given to the Appellant (essentially programming and filing) does not necessarily have to be done at a set place or during set hours. In my opinion, the type of work during the periods in question explains the length of the Appellant's period of work and the reason she did not continue to perform these duties. This, in my opinion, is conclusive regarding subparagraphs (h) and (i) of the Minister's allegations.
+[12] As for the Minister's allegation that the Appellant's period of work did not correspond to the Payer's most active commercial periods, I simply do not see the relevance considering the type of mandate the Appellant was given during the periods in question. Why would these special mandates have to be carried out during the Payer's most active periods? This, in my opinion, is conclusive regarding subparagraphs (d) and (v) of the Minister's allegations; neither of these can lead to the reasonable conclusion that they were not dealing at arm's length.
+[13] I feel that the Minister erred by placing too much emphasis on the type, duration and importance of the work done outside the employment periods in question. We shall therefore review subparagraphs (aa), (m), (s) and (k) of the Minister's allegations. The evidence did show that the Appellant worked on a volunteer basis for the Payer outside the periods in question and that this work might have represented up to 10 hours per week. However, what the Appellant did outside the employment periods does not seem very relevant to me, since nothing in the evidence would show that the salary paid during the employment periods took into account the work accomplished outside these periods, or that the Appellant included hours worked outside the employment periods with the hours worked during the insurable employment periods, or that the work accomplished outside these employment periods was included in the work accomplished during these periods. The fact that the Appellant worked on a voluntary basis outside the periods in question shows perhaps that she would not have performed this work on a volunteer basis had she not been the common-law spouse of the Payer's main shareholder. This is a typical situation in small family businesses. They often need their relatives to volunteer their services in order to survive. As Décary J.A. stated in the Federal Court of Appeal decision Théberge v. Canada(Minister of National Revenue - M.N.R.), [2002] F.C.J. No. 464 (Q.L.), at paragraph 21:
+...However, that is not the work we are concerned with, and the judge erred by taking it into account in the absence of any indication that the insurable employment at issue was subject to special terms and conditions that were attributable services being rendered outside the period of employment.
+[14] Moreover, I refuse to find that the Payer and the Appellant came to a false agreement to allow her to qualify for employment insurance benefits. Granted, the evidence showed that the Appellant worked the required number of hours to qualify for employment insurance; however, the Payer needed an employee to implement the computer system and file the documents and the Appellant did, in fact, work for the Payer during the two periods in question, and was compensated for it. Mr. Mousseau testified that if the Appellant had not been available and qualified for this work, he would have had to hire someone else. In my opinion, it is neither unlawful nor reprehensible to organize one's business in order to benefit from the social plan of employment insurance, on condition that the services are provided and the wages correspond to the economic value of the services provided. This was shown in a satisfactory way in this case. This, in my opinion, is conclusive regarding subparagraphs (bb), (o) and (p) of the Minister's allegations.
+[15] This case differs from Boudreau v. Canada(Minister of National Revenue - M.N.R.)[2] and Denis v. Canada(Minister of National Revenue - M.N.R.),[3] mentioned by counsel for the Respondent. In those cases, the Appellants essentially continued to perform the same duties and work the same number of hours while receiving their employment insurance benefits. Moreover, in Boudreau, supra, the Appellant's spouse changed her version of the facts when the Minister refused to recognize her employment and that of the Appellant (her spouse) as insurable employment. In Denis, supra, no evidence was submitted that showed the Appellant received a salary. In this case, the Appellant was hard to believe. This is not so in the present case. The Appellant went from 30 hours of work per week to volunteering more or less 10 hours per week. Moreover, the Appellant was not performing the same duties since the filing backlog was finished and the computer system was working. The facts show that the Appellant was only doing the Payer a favour, this time as the spouse of the main shareholder instead of as an employee. The facts in this case do not lead me to find it is likely that the terms of employment were created to falsely benefit from the Act.
+[16] In light of the evidence before me, after reviewing the factors stated in paragraph 5(3)(b) of the Act and after verifying the validity of the Minister's allegations, the conclusion with which the Minister was satisfied seems unreasonable to me.
+Signed at Ottawa, Canada, this 29th day of October 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 24th day of January 2005.
+Elizabeth Tan, Translator
+CITATION:
+2004TCC540
+COURT FILE NUMBER:
+2003-3989(EI)
+STYLE OF CAUSE:
+Julie Paré v. M.N.R.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+July 30, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Paul Bédard
+DATE OF HEARING:
+October 29, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+For the Respondent:
+Julie David
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+1
+Légaré v. Canada(Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878 (Q.L.), paragraph 4.
+[2] [2003] T.C.J. No. 687.
+[3] [2004] F.C.J. No. 400.

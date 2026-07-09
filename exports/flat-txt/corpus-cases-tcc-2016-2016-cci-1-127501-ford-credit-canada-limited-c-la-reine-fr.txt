@@ -1,0 +1,319 @@
+Title: Ford Credit Canada Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/127501/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-1-127501-ford-credit-canada-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-01-06
+
+# Ford Credit Canada Limited c. La Reine
+
+- Citation: 2016 CCI 1
+- Decision date: 2016-01-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3051, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ford Credit Canada Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-01-06
+Référence neutre
+2016 CCI 1
+Numéro de dossier
+2013-4143(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-4143(IT)G
+Entre :
+CRÉDIT FORD DU CANADA LIMITÉE,
+appelante,
+et
+Sa Majesté la reine,
+intimée.
+[Traduction française officielle]
+Appel entendu les 19 et 20 octobre 2015, à Toronto (Ontario).
+Devant : L'honorable juge en chef adjointe Lucie Lamarre
+Comparutions :
+Avocats de l'appelante :
+Me Daniel Sandler
+Me Allison Blackler
+Avocates de l'intimée :
+Me Donna Dorosh
+Me Patricia Lee
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2005 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 6e jour de janvier 2016.
+« Lucie Lamarre »
+La juge en chef adjointe Lamarre
+Référence : 2016 CCI 1
+Date : 20160106
+Dossier : 2013-4143(IT)G
+Entre :
+CRÉDIT FORD DU CANADA LIMITÉE,
+appelante,
+et
+Sa Majesté la reine,
+intimée.
+[Traduction française officielle]
+Motifs du jugement
+La juge en chef adjointe Lamarre
+[1] La question en litige dans le présent appel est celle de savoir si une cotisation corrélative alléguée établie le 19 décembre 2011 pour l'année d'imposition 2005 est prescrite. La réponse à cette question repose sur la question de savoir si la cotisation a été régulièrement établie conformément au paragraphe 152(4.3) de la Loi de l'impôt sur le revenu (la « LIR »), qui est rédigé comme suit :
+(4.3) Cotisation corrélative. Malgré les paragraphes (4), (4.1) et (5), lorsqu'une cotisation ou une décision d'appel a pour effet de modifier un solde donné applicable à un contribuable pour une année d'imposition donnée, le ministre peut ou, si le contribuable en fait la demande par écrit, doit, avant le dernier en date du jour d'expiration de la période normale de nouvelle cotisation pour une année d'imposition subséquente et de la fin du jour qui suit d'un an l'extinction ou la détermination de tous les droits d'opposition ou d'appel relatifs à l'année donnée, établir une nouvelle cotisation à l'égard de l'impôt, des intérêts ou des pénalités payables par le contribuable, déterminer de nouveau un montant réputé avoir été payé, ou payé en trop, par lui ou modifier le montant d'un remboursement ou une autre somme qui lui est payable, en vertu de la présente partie pour l'année subséquente, mais seulement dans la mesure où il est raisonnable de considérer que la nouvelle cotisation, la nouvelle détermination ou la modification se rapporte à la modification du solde donné applicable au contribuable pour l'année donnée.
+[Non souligné dans l'original.]
+[2] Les faits qui sous‑tendent le présent appel sont résumés dans un exposé conjoint partiel des faits, qui est joint à la fin des présents motifs du jugement.
+[3] En résumé, par une nouvelle cotisation du 9 juillet 2009, le ministre du Revenu national (le « ministre ») a inclus divers montants dans le revenu de l'appelante pour l'année d'imposition 2004, dont certains avaient été initialement déclarés dans le revenu de l'appelante pour l'année d'imposition 2005. La question relative à la plupart de ces montants portait sur la date pertinente. Les montants en cause incluaient des paiements reportés sur des opérations de titrisation et des revenus anticipés de subventions, totalisant 76 673 532 $, que le ministre a par la suite retirés du revenu pour l'année d'imposition 2005 en vertu d'une nouvelle cotisation du 21 juin 2010. Les paiements reportés et les revenus anticipés de subventions, ainsi que quelques autres montants, ont été désignés comme étant un [TRADUCTION] « Rajustement relatif à la titrisation T2S(1) » dans la nouvelle cotisation pour 2005. Bien que la cotisation pour 2005 contienne d'autres rajustements, ils ne sont pas pertinents.
+[4] Au total, la nouvelle cotisation pour 2004 ajoutait 237 608 206 $ au revenu et retirait 21 312 655 $ du revenu.
+[5] L'appelante a déposé des avis d'opposition à l'égard des deux années.
+[6] En ce qui concerne l'année 2004, l'appelante contestait certains rajustements faits dans la nouvelle cotisation et demandait une déduction supplémentaire de 5 681 266 $, qu'elle avait demandée pendant la vérification, mais dont la demande n'avait pas été traitée. L'appelante demandait une réduction totale de 198 405 337 $ du revenu imposable.
+[7] En ce qui a trait à l'année 2005, l'appelante n'a pas contesté le « Rajustement relatif à la titrisation T2S(1) », mais a demandé, dans le cas où son revenu de 2004 était modifié en appel de manière à réduire le montant des pertes autres qu'en capital nécessaires pour réduire le revenu imposable de 2004 à 100 $, que ces pertes autres qu'en capital soient appliquées dans l'ordre où elles survenaient pour réduire le revenu imposable de 2004 à 100 $ et pour réduire le revenu imposable de 2005 à 100 $ (avis d'opposition à l'égard de l'année 2005, paragraphe 17, pièce A‑1, onglet 16, page 278).
+[8] Madame Leslie Patrick a traité les deux avis d'opposition à titre d'agente des appels de l'Agence du revenu du Canada (l'« ARC »). Le 3 décembre 2010, elle a écrit à l'appelante pour l'informer qu'elle avait été affectée au dossier (pièce A‑1, onglet 17).
+[9] Le 20 juin 2011, Mme Patrick a envoyé, pour le compte de la Division des appels de l'ARC, une lettre à l'appelante lui offrant de régler les oppositions à l'égard des années d'imposition 2004 et 2005 selon les modalités énoncées dans cette lettre (principalement que le ministre accepterait tous les rajustements de l'appelante pour l'année 2004), à la condition que l'appelante renonce à son droit d'opposition et d'appel à l'égard de l'année 2004 et qu'elle retire son avis d'opposition à l'égard de l'année 2005 (pièce A‑1, onglet 23).
+[10] L'appelante a répondu par une lettre du 30 juin 2011 demandant une explication concernant les principes étayant la position de la Division des appels de l'ARC concernant l'offre de règlement (pièce A‑1, onglet 24).
+[11] Une explication de la position de l'ARC a été fournie à l'appelante dans une lettre du 14 juillet 2011 signée par Mme Patrick, l'agente des appels de l'ARC (pièce A‑1, onglet 25). Mme Patrick déclarait ce qui suit dans les trois derniers paragraphes de cette lettre :
+[TRADUCTION]
+[...]
+Il n'y a pas de question en litige en matière de titrisation pour l'année d'imposition 2005. Toutefois, si la nouvelle cotisation pour l'année 2004 est annulée par la Division des appels, il y aura des rajustements corrélatifs correspondants pour l'année 2005, qui devraient également répondre à vos préoccupations concernant les pertes autres qu'en capital.
+La proposition repose sur notre interprétation des faits présentés. En conséquence, notre offre de règlement vise uniquement l'année d'imposition 2004. L'Agence du revenu du Canada continuera d'examiner et de vérifier les opérations de titrisation et d'autres questions concernant les années d'imposition 2006 et suivantes et, le cas échéant, elle établira de nouvelles cotisations.
+Si vous souhaitez discuter de cette affaire en plus de détail, n'hésitez pas à communiquer avec la soussignée.
+[12] Dans une lettre du 19 août 2011, l'appelante a demandé la clarification de certains points afin d'être en mesure de répondre utilement à la proposition de l'ARC et de faire progresser les discussions de règlement (pièce A‑1, onglet 26). L'appelante a notamment soulevé la question suivante : [TRADUCTION] « est‑ce que la Division des appels de l'ARC, dans le cours normal de l'examen des appels en vertu du paragraphe 165(3) de la Loi de l'impôt sur le revenu, a l'intention d'accueillir l'opposition de Crédit Ford du Canada limitée à l'égard de l'année 2004 et d'annuler la cotisation actuelle? ». L'appelante a ensuite terminé la lettre en disant qu'elle souhaitait obtenir des éclaircissements quant aux répercussions procédurales de l'offre de l'ARC à l'égard de ses oppositions.
+[13] Dans une lettre du 26 août 2011, l'agente des appels de l'ARC a répondu à l'appelante. Mme Patrick résumait sa compréhension des questions que l'appelante soulevait dans sa lettre du 19 août 2011. Comme cette lettre est cruciale dans le présent appel, il est utile de la reproduire en entier :
+[TRADUCTION]
+Crédit Ford du Canada limitée
+The Canadian Road
+Oakville (Ontario) L6J 5C7
+À l'attention de M. Norman Baxter, directeur des affaires fiscales
+Notre référence/Our file
+L. Patrick 430-2-0
+416-952-1068
+GB11117120 8200
+GB11117120 9146
+Le 26 août 2011
+Objet : Crédit Ford du Canada limitée
+Numéro d'entreprise — 101842557RC0001
+Avis d'opposition visant les années d'imposition se terminant les 31 décembre 2004 et 2005
+Cher M. Baxter,
+Je vous remercie de votre lettre du 19 août 2011. Je crois comprendre que vous désirez savoir si la Division des appels de l'Agence du revenu du Canada (l'« ARC ») est d'accord avec votre position concernant la « participation conservée ». De plus, vous désirez savoir si le fondement de notre décision s'applique aux années d'imposition ultérieures et vous souhaitez connaître la raison pour laquelle l'agente des appels vous a transmis une offre de règlement.
+Selon la position de l'ARC, la valeur actuelle nette d'une participation conservée est rajoutée à l'annexe 1 (T2SCH1) de la déclaration de revenus des sociétés. Toutefois, étant donné que nous ne sommes pas d'accord avec tous les rajustements de la Division de la vérification de l'ARC, nous annulons la nouvelle cotisation pour 2004 en cause.
+Vous avez mentionné le paragraphe 165(3) de la Loi de l'impôt sur le revenu (la « Loi »). Selon cette disposition, sur réception de l'avis d'opposition, le ministre, avec diligence, examine de nouveau la cotisation et l'annule, la ratifie ou la modifie ou établit une nouvelle cotisation. Afin d'atteindre notre objectif, la Division des appels recourt à l'occasion à des « accords de règlement » pour résoudre certaines questions qui ne sont pas tranchées à 100 % en faveur de l'ARC ou du contribuable. Dans la présente affaire, il a été jugé qu'une offre de règlement était le moyen le plus efficace de s'assurer que toutes les parties sachent que la Division des appels n'est pas entièrement d'accord avec la position de Crédit Ford du Canada limitée. De plus, le fondement de notre décision s'applique uniquement aux années visées par les oppositions.
+Plus précisément, l'examen qu'a effectué la Division des appels visait les années d'imposition 2004 et 2005. Notre examen s'est limité aux années visées par les oppositions. Nous ne pouvons faire de commentaires concernant des années d'imposition ultérieures.
+L'emploi des renonciations aux fins de règlement vise à s'assurer que toutes les parties comprennent clairement que même si nous n'appuyons pas pleinement votre position, la nouvelle cotisation sera annulée. De surcroît, notre décision s'applique uniquement à l'année d'imposition 2004.
+Finalement, il y a lieu de noter que l'emploi de l'expression « sous toutes réserves » est une pratique habituelle appliquée à toutes nos offres de règlement.
+Je serai heureuse de discuter de la question avec vous plus en profondeur. Veuillez téléphoner à la soussignée pour fixer une date qui convient à tous pour une rencontre à nos bureaux à Scarborough (Ontario).
+Je vous prie d'agréer, Monsieur, l'expression de mes sentiments les meilleurs.
+L. Patrick
+Agente des appels
+[Non souligné dans l'original.]
+[14] Cette lettre est le nœud du litige dans la présente affaire. L'appelante est d'avis que le ministre a annulé la nouvelle cotisation du 9 juillet 2009 (pour l'année d'imposition 2004) et a communiqué sa décision à l'appelante dans la lettre du 26 août 2011 qui apparaît ci‑dessus, s'acquittant ainsi de son obligation de se prononcer sur l'opposition en vertu du paragraphe 165(3) de la LIR, qui est rédigé comme suit :
+Opposition à la cotisation
+[...]
+(3) Obligations du ministre. Sur réception de l'avis d'opposition, le ministre, avec diligence, examine de nouveau la cotisation et l'annule, la ratifie ou la modifie ou établit une nouvelle cotisation. Dès lors, il avise le contribuable de sa décision par écrit.
+[15] L'appelante est d'avis que lorsque l'ARC a déclaré dans sa lettre que [TRADUCTION] « étant donné que nous ne sommes pas d'accord avec tous les rajustements de la Division de la vérification de l'ARC, nous annulons la nouvelle cotisation pour 2004 en cause », l'ARC déclarait qu'après avoir examiné de nouveau la nouvelle cotisation du 9 juillet 2009, elle avait décidé de l'annuler et qu'elle avisait l'appelante de cette décision dans cette lettre. De l'avis de l'appelante, la mention du paragraphe 165(3) dans le paragraphe suivant de la lettre confirme que le ministre avait pris la décision d'annuler la nouvelle cotisation de 2004, qui était en litige à ce moment‑là.
+[16] Si l'interprétation de l'appelante se révèle exacte, il s'ensuivrait que la nouvelle cotisation du 19 décembre 2011 établie à l'égard de 2004 n'a pas été établie conformément au paragraphe 165(3) de la LIR, puisque l'affaire aurait déjà été réglée par la lettre du 26 août 2011. Ainsi, cette nouvelle cotisation aurait été établie après la période normale de nouvelle cotisation, qui prenait fin le 13 juillet 2009 à l'égard de 2004, et aurait été par conséquent prescrite.
+[17] L'appelante fait de plus valoir que le ministre n'avait pas le pouvoir d'établir une nouvelle cotisation corrélative en vertu du paragraphe 152(4.3) de la LIR pour l'année d'imposition 2005, puisque cette disposition ne prévoit pas l'établissement d'une nouvelle cotisation corrélative par suite de l'annulation par le ministre d'une nouvelle cotisation en vertu du paragraphe 165(3). (L'appelante soutient que la décision d'annuler une cotisation n'est pas « une cotisation ou une décision d'appel », ce qui est une condition préalable qui se trouve au paragraphe 152(4.3) pour que le ministre puisse exercer son droit d'établir une nouvelle cotisation corrélative.)
+[18] Par conséquent, selon l'appelante, la nouvelle cotisation du 19 décembre 2011 concernant l'année 2005 n'aurait pu être établie en vertu du paragraphe 152(4.3) et était donc aussi prescrite.
+[19] Pour sa part, l'intimée est d'avis que la lettre du 26 août 2011 ne faisait que répondre à la demande de l'appelante (dans sa lettre du 19 août 2011) d'obtenir des éclaircissements au cours des discussions de règlement à la suite d'une proposition présentée « sous toutes réserves » par l'ARC pour le règlement des oppositions. L'intimée soutient que la lettre ne constituait pas un avis de la décision d'annuler la nouvelle cotisation du 9 juillet 2009.
+[20] En fait, l'intimée déclare qu'une rencontre a eu lieu avec les représentants de l'appelante et ceux du ministre le 18 octobre 2011 (pièce A‑2, paragraphe 33). Cette rencontre suivait une lettre envoyée par l'appelante à Mme Patrick le 9 septembre 2011, dans laquelle l'appelante demandait la rencontre. Je souligne que dans cette lettre, l'appelante a demandé une prorogation du délai pour répondre à la proposition de règlement de l'ARC.
+[21] L'intimée a déclaré que l'appelante n'a finalement pas accepté l'offre de règlement et qu'après avoir terminé le rapport sur l'opposition, l'ARC a décidé d'établir une nouvelle cotisation à l'égard de l'appelante en conformité avec ce qui était proposé dans l'offre de règlement.
+[22] Une lettre du 23 novembre 2011 signée par le chef d'équipe de la Division des appels a été envoyée à l'appelante. Cette lettre indiquait que la Division des appels de l'ARC avait terminé l'examen des avis d'opposition pour les années d'imposition 2004 et 2005 et que le ministre annulait la nouvelle cotisation de 192 724 070 $ pour 2004 et qu'il acceptait une réduction supplémentaire de 5 681 266 $. La lettre déclarait aussi que les divers rajustements corrélatifs augmenteraient le revenu pour l'année d'imposition 2005 de 76 673 532 $ et que des pertes autres qu'en capital seraient appliquées pour réduire le revenu imposable. La lettre se termine en disant que des avis de nouvelle cotisation suivraient (pièce A‑1, onglet 31).
+[23] Les nouvelles cotisations ont été établies le 19 décembre 2011. Selon l'intimée, la cotisation corrélative à l'égard de 2005 a été établie en vertu du paragraphe 152(4.3) en raison de la nouvelle cotisation établie pour 2004 à la même date, selon la décision du ministre à l'égard des oppositions de l'appelante aux termes du paragraphe 165(3).
+La question en litige [24] La question est donc celle de savoir si la lettre du 26 août 2011 était déterminante et disposait de l'opposition, de sorte que le ministre était functus officio et qu'il ne pouvait établir une nouvelle cotisation à l'égard de l'appelante après l'envoi de cette lettre. Je ne crois pas que ce soit le cas.
+Analyse [25] Comme j'ai conclu que la lettre du 26 août 2011 n'annulait pas la nouvelle cotisation du 9 juillet 2009 ni n'était un avis d'une décision d'annulation en vertu du paragraphe 165(3), il est clair que le principe du functus officio est inapplicable.
+[26] Je suis parvenue à cette conclusion pour deux motifs.
+[27] Premièrement, j'accepte le témoignage de Mme Patrick qui a déclaré que lorsqu'elle a utilisé le verbe [TRADUCTION] « annuler », elle ne l'utilisait qu'au sujet des montants auxquels l'appelante s'était opposée. Elle n'a pas voulu dire qu'elle annulait la nouvelle cotisation du 9 juillet 2009, puisque seulement une partie de celle‑ci était en litige. Au procès, en réponse à la question lui demandant l'objet de la lettre du 26 août 2011, Mme Patrick a répondu ainsi :
+[TRADUCTION]
+Il s'agit d'un suivi à la lettre de juillet qui ne fait que reprendre plusieurs des points énoncés plus tôt, que nous sommes — premièrement, la contribuable était préoccupée par notre renvoi au paragraphe 165(3) dans la lettre. Alors, nous avons simplement indiqué que nous — l'explication que j'ai donnée est que nous annulons la nouvelle cotisation pour 2005 qui est contestée. La lettre indiquait simplement que les montants en litige seraient annulés pour 2004. Toutefois, nous ne visions pas — et cela est implicite dans ma compréhension du mot « annuler » dans ce genre de cotisation, était que nous visions uniquement le montant — non la totalité du montant qui a été vérifié par la Division de la vérification ou qui a fait l'objet d'une nouvelle cotisation établie par celle-ci.
+[Non souligné dans l'original.]
+[Transcription, volume 1, pages 61 et 62]
+[28] Dans l'extrait qui précède, Mme Patrick voulait sans doute parler de la nouvelle cotisation de 2004 plutôt que de la nouvelle cotisation de 2005.
+[29] L'explication de Mme Patrick concernant l'objet de la lettre est logique dans le contexte. L'appelante ne s'est pas opposée à tous les rajustements faits dans la nouvelle cotisation du 9 juillet 2009; de même, dans l'offre de règlement du 20 juin 2011, le ministre n'a pas offert d'annuler tous les rajustements de la nouvelle cotisation (c'est‑à‑dire d'annuler la nouvelle cotisation). Le ministre a uniquement offert d'annuler les rajustements auxquels l'appelante s'était opposée.
+[30] Deuxièmement et subsidiairement, même si j'acceptais que le verbe [TRADUCTION] « annuler » dans la lettre du 26 août 2011 signifiait une annulation au sens du paragraphe 165(3), la lettre expliquait simplement ce que le ministre était disposé à faire si l'offre de règlement était acceptée. L'appelante n'a jamais accepté l'offre.
+[31] Il ressort clairement du libellé de la lettre et du contexte dans lequel elle a été envoyée que la lettre offrait uniquement [TRADUCTION] « d'annuler » la nouvelle cotisation lors d'un règlement. Dans cette même lettre, Mme Patrick a écrit que [TRADUCTION] « même si nous n'appuyons pas pleinement votre position, la nouvelle cotisation sera annulée » [non souligné dans l'original]. L'emploi du futur signifie que la cotisation n'avait pas encore été annulée.
+[32] En ce qui concerne le contexte, la lettre du 26 août 2011 a été écrite pendant une discussion de règlement en cours. Plus précisément, elle a été écrite en réponse à la demande de l'appelante d'obtenir des éclaircissements sur l'incidence qu'aurait l'offre sur les années postérieures à 2004 et sur les répercussions procédurales de l'offre à l'égard de ses oppositions.
+[33] Il est également clair que l'appelante n'a jamais accepté l'offre. En réponse à la lettre du 26 août 2011, l'appelante a, dans une lettre du 9 septembre 2011, demandé une prorogation du délai pour fournir une réponse à l'offre. Les parties se sont rencontrées par la suite pour discuter plus en profondeur, mais en fin de compte elles n'ont pas conclu de règlement.
+[34] Je conclus donc que la lettre du 26 août 2011 signée par Mme Patrick n'était pas l'avis d'une décision d'annulation, pas plus que la lettre elle‑même n'était une annulation de la nouvelle cotisation du 9 juillet 2009 en vertu du paragraphe 165(3).
+[35] Cela suffit pour disposer de l'appel. Compte tenu de cette conclusion, j'estime que la décision du ministre à l'égard de l'opposition se trouve dans la nouvelle cotisation du 19 décembre 2011 pour 2004, qui a ouvert la porte à la cotisation corrélative établie à la même date pour 2005.
+[36] Par conséquent, je n'aurai pas à me prononcer sur la question de savoir si une cotisation corrélative peut découler d'une décision du ministre d'annuler une cotisation pour une année antérieure.
+[37] L'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 6e jour de janvier 2016.
+« Lucie Lamarre »
+La juge en chef adjointe Lamarre
+[TRADUCTION]
+Dossier de la Cour no 2013-4143(IT)G
+Cour canadienne de l'impôt
+Entre :
+CRÉDIT FORD DU CANADA LIMITÉE
+appelante,
+et
+Sa Majesté la reine
+intimée.
+Exposé conjoint partiel des faits
+Couzin Taylor LLP
+Tour Ernst & Young
+222, rue Bay
+C.P. 143
+Toronto (Ontario)
+M5K 1H1
+Ministère de la Justice
+Services du droit fiscal
+The Exchange Tower
+130, rue King Ouest
+Bureau 3400, C.P. 36
+Toronto (Ontario)
+M5X 1K6
+Me Daniel Sandler
+Me Donna Dorosh
+Tél. : (416) 943-4434
+Tél. : (416) 952-5097
+Téléc. : (416) 943-2700
+Téléc. : (416) 973-0810
+Avocats de l'appelante
+Avocats de l'intimée
+Exposé conjoint partiel des faits
+Exclusivement pour les besoins de l'appel dans le dossier no 2013-4143(IT)G de la Cour canadienne de l'impôt, l'appelante et l'intimée conviennent des faits suivants :
+L'appelante
+1. Crédit Ford du Canada limitée (« CFCL ») est une filiale en propriété exclusive indirecte de Ford Motor Company (« Ford »). CFCL est une « société sœur » de Ford du Canada limitée (« Ford du Canada »), une résidente du Canada pour les besoins de la Loi de l'impôt sur le revenu (la « Loi ») et une filiale en propriété exclusive de Ford.
+2. Au cours des années d'imposition 2004 et 2005, CFCL était une « société canadienne imposable » au sens des paragraphes 248(1) et 89(1) de la Loi, dont l'exercice prenait fin le 31 décembre, et une « grande société » au sens du paragraphe 225.1(8) de la Loi.
+3. Le siège de CFCL est situé à The Canadian Road, Oakville (Ontario) L6J 5E4.
+La cotisation visée par l'appel
+4. Le 19 décembre 2011, l'Agence du revenu du Canada (l'« ARC ») a envoyé à CFCL un document intitulé « Avis de nouvelle cotisation » concernant l'impôt payable au titre de la partie I pour l'année d'imposition 2005 (la « nouvelle cotisation au titre de la partie I pour 2005 »)[1].
+5. CFCL a déposé un avis d'opposition à la nouvelle cotisation au titre de la partie I pour 2005 dans le délai de 90 jours suivant le 19 décembre 2011, et le ministre du Revenu national (le « ministre ») a ratifié cette cotisation. La nouvelle cotisation au titre de la partie I pour 2005 est l'objet du présent appel.
+Le contexte
+6. Ford et Ford du Canada exploitent directement et indirectement une entreprise de fabrication et de vente de voitures de tourisme et d'autres véhicules.
+7. L'entreprise de CFCL est de consentir des prêts aux acheteurs des produits de Ford en gros et au détail. CFCL consent des prêts aux concessionnaires de Ford et aux consommateurs au détail qui achètent des véhicules à crédit ou qui louent des véhicules. CFCL consent des prêts aux clients qui souhaitent acheter des véhicules de Ford à crédit en achetant les conventions de vente au détail (les « CVD ») des concessionnaires qui concluent les contrats de vente de véhicules.
+8. CFCL vendait les CVD à des entités de titrisation, notamment des fiducies appelées fiducies de titrisation (les « FT »).
+9. CFCL a effectué des opérations de titrisation en 2002, en 2003 et en 2004, mais non en 2005.
+10. CFCL recevait des FT des paiements forfaitaires initiaux. Au fur et à mesure que les clients au détail remboursaient les CVD, les FT versaient à CFCL des paiements additionnels (les « paiements reportés »).
+11. Dans les états financiers de 2002 à 2005, CFCL a déclaré comme élément d'actif une estimation actualisée des paiements reportés.
+12. Lorsqu'elle a produit ses déclarations de revenus des sociétés pour 2002 à 2004, CFCL a déclaré à titre de revenus les paiements forfaitaires initiaux versés lors de la vente d'un CVD à une FT, mais n'a inclus aucun montant au titre des paiements reportés au moment de la vente. CFCL a déclaré les paiements reportés à titre de revenus lorsque la FT était juridiquement tenue de payer à CFCL des montants précis en conformité avec l'accord conclu avec la FT.
+13. Dans ses déclarations de revenus, CFCL a déclaré une perte lors de la vente de chaque CVD.
+14. Les CVD vendues par CFCL faisaient l'objet de certaines ententes de « subvention » avec Ford du Canada en vertu desquelles Ford du Canada convenait de verser à CFCL un montant pour l'indemniser du fait que les taux d'intérêt pour les CVD étaient inférieurs aux taux du marché. Ces opérations de financement à un taux inférieur à celui du marché constituent une partie importante de la commercialisation des véhicules de Ford du Canada.
+15. Le montant reçu au titre de la subvention constaté pour les besoins comptables au moment d'une titrisation est appelé une « subvention anticipée ».
+16. CFCL a déclaré le montant des subventions anticipées dans ses revenus pour les besoins de la comptabilité financière durant l'année de la vente de titrisation, mais n'a pas déclaré ces revenus à ce moment‑là dans ses déclarations de revenus.
+Historique de la cotisation concernant l'année d'imposition 2004 de CFCL
+17. Le 12 juillet 2005, l'ARC a avisé CFCL qu'aucun impôt n'était payable au titre de la partie I de la Loi pour l'année d'imposition 2004 (l'« avis initial au titre de la partie I pour 2004 »). Le document contenant l'avis, appelé « Avis de cotisation des sociétés », établissait l'impôt de CFCL au titre de la partie I.3 à 888 057 $. Les cotisations au titre de la partie I et de la partie I.3 correspondaient toutes deux à la position de CFCL dans sa déclaration.
+18. Le 9 juillet 2009, à la suite d'une vérification de l'ARC, le ministre a établi une nouvelle cotisation concernant l'impôt payable au titre de la partie I à l'égard de l'année d'imposition 2004 de CFCL (la « nouvelle cotisation au titre de la partie I pour 2004 »). Le ministre a ajouté au revenu de CFCL des montants totalisant 237 608 206 $ et a déduit du revenu de CFCL des montants totalisant 21 312 655 $. Les rajustements qui augmentaient le revenu de CFCL incluaient notamment les postes suivants (comme l'indique le formulaire T7W‑C visant la nouvelle cotisation au titre de la partie I pour 2004) : un « revenu de subvention » de 109 857 849 $, une « contrepassation de la déduction pour titrisation à l'annexe 1 » de 81 474 335 $, une « dépense relative à des créances irrécouvrables » de 5 586 862 $, et une « provision pour pertes sur prêts » de 9 567 458 $. Les réductions comprenaient un « revenu anticipé de subventions » de 13 762 433 $. L'impôt de CFCL établi au titre de la partie I en vertu de la nouvelle cotisation au titre de la partie I pour 2004 était de 22 $. Dans le même document, l'ARC a établi une nouvelle cotisation pour l'impôt de CFCL au titre de la partie I.3, le réduisant de 1 $ et le faisant passer à 888 056 $.
+19. En vertu de la nouvelle cotisation au titre de la partie I pour 2004, le ministre a inclus dans le revenu de CFCL le montant de 76 673 532 $ se rapportant à des montants que CFCL a déclarés comme revenu pour l'année d'imposition 2005 concernant les ententes de titrisation (les paiements reportés) et concernant les opérations de subvention (les subventions anticipées).
+20. CFCL a déposé un avis d'opposition concernant l'impôt établi au titre de la partie I en vertu de la nouvelle cotisation au titre de la partie I pour 2004 dans le délai prescrit contestant uniquement les rajustements mentionnés au paragraphe 18 qui précède.
+Historique de la cotisation concernant l'année d'imposition 2005 de CFCL
+21. Le 17 juillet 2006, l'ARC a établi la cotisation initiale de CFCL pour l'impôt au titre de la partie I pour l'année d'imposition 2005 (la « cotisation initiale au titre de la partie I pour 2005 »). En vertu de cette cotisation, l'impôt de CFCL au titre de la partie I pour 2005 était de 16 553 253 $. Le même document, intitulé « Avis de cotisation des sociétés », établissait également l'impôt de CFCL au titre de la partie I.3 à 347 985 $. Les cotisations au titre de la partie I et de la partie I.3 correspondaient toutes deux à la position de CFCL dans sa déclaration initiale.
+22. Le 21 juin 2010, à la suite d'une vérification de l'ARC, le ministre a établi une nouvelle cotisation à l'égard de CFCL pour l'année d'imposition 2005 (la « nouvelle cotisation au titre de la partie I pour 2005 après la vérification ») qui a notamment réduit le revenu de CFCL de 83 283 119 $, désigné dans le formulaire T7W‑C comme étant un « rajustement relatif à la titrisation T2S(1) ». Ce rajustement comprenait notamment une réduction de 76 673 352 $, qui incluait la « subvention anticipée » (53 884 612 $), des « frais de service pour intérêts » (30 352 059 $), et des « revenus anticipés de subventions » (7 563 139 $). L'impôt de CFCL au titre de la partie I établi en vertu de la nouvelle cotisation au titre de la partie I pour 2005 après la vérification demeurait 22 $.
+23. CFCL avait inclus les 76 673 532 $ mentionnés dans le paragraphe précédent dans le revenu pour l'année d'imposition 2005; le ministre avait retiré ce montant et l'avait inclus dans le revenu de CFCL pour l'année d'imposition 2004 lors des rajustements effectués dans la nouvelle cotisation au titre de la partie I pour 2004.
+24. CFCL a déposé dans le délai prescrit un avis d'opposition à l'égard de la nouvelle cotisation au titre de la partie I pour 2005 après la vérification. CFCL ne s'est pas opposée dans l'avis d'opposition à la réduction mentionnée dans les paragraphes qui précèdent comme étant un « rajustement relatif à la titrisation T2S(1) ».
+Après le dépôt des avis d'opposition
+25. Dans une lettre du 3 décembre 2010, Leslie Patrick (l'« agente des appels de l'ARC ») a écrit à CFCL pour le compte de la Division des appels de l'ARC afin de l'informer qu'elle était chargée de l'examen des avis d'opposition à l'égard des années 2004 et 2005.
+26. Le 17 février 2011, l'ARC a envoyé deux documents à CFCL, tous deux intitulés « Avis de nouvelle cotisation des sociétés », concernant les années d'imposition 2004 et 2005 de CFCL. Les deux avis ne rajustaient que les obligations fiscales provinciales en Nouvelle‑Écosse et en Colombie‑Britannique.
+27. Afin de se protéger lors de l'opposition à la nouvelle cotisation au titre de la partie I pour 2004 et de l'opposition à la nouvelle cotisation au titre de la partie I pour 2005 après la vérification, comme le suggérait l'ARC dans sa lettre à CFCL du 21 février 2011 signée par l'agente des appels de l'ARC, CFCL a déposé des avis d'opposition le 18 avril 2011. Ces avis d'opposition étaient identiques à ceux déposés à l'égard de la nouvelle cotisation au titre de la partie I pour 2004 et de la nouvelle cotisation au titre de la partie I pour 2005 après la vérification.
+28. Dans une lettre du 20 juin 2011 signée par l'agente des appels de l'ARC, l'ARC offrait de régler les oppositions à l'égard des années d'imposition 2004 et 2005 suivant les modalités énoncées dans cette lettre, à la condition que CFCL renonce à ses droits d'opposition et d'appel à l'égard de l'année d'imposition 2004 et qu'elle retire son avis d'opposition à l'égard de l'année d'imposition 2005.
+29. CFCL a répondu par une lettre du 30 juin 2011 demandant une explication concernant la position de la Division des appels de l'ARC relativement à l'offre de règlement.
+30. Une explication de la position de l'ARC a été fournie à CFCL dans une lettre du 14 juillet 2011 signée par l'agente des appels de l'ARC.
+31. Dans une lettre du 19 août 2011, CFCL a demandé des explications sur certains points.
+32. Dans une lettre du 26 août 2011 signée par l'agente des appels de l'ARC, l'ARC a répondu à CFCL. La lettre du 26 août 2011 indique en partie ce qui suit : « étant donné que nous ne sommes pas d'accord avec tous les rajustements de la Division de la vérification de l'ARC, nous annulons la nouvelle cotisation pour 2004 en cause »[2].
+33. CFCL et l'ARC ont échangé d'autres lettres le 9 septembre 2011 et le 27 septembre 2011 et, le 18 octobre 2011, CFCL et ses conseillers ont rencontré l'agente des appels de l'ARC et son chef d'équipe, Abe Frisz.
+34. Dans une lettre du 23 novembre 2011, l'ARC (Abe Frisz, chef d'équipe, Division des appels) a écrit à CFCL pour l'informer que l'ARC établirait de nouvelles cotisations pour les années d'imposition 2004 et 2005 de CFCL. La lettre du 23 novembre 2011 indique notamment que « le ministre du Revenu national annule la nouvelle cotisation de 192 724 070 $ pour 2004, et accepte une réduction supplémentaire de 5 681 266 $. De plus, les rajustements corrélatifs respectifs augmenteront le revenu de l'année d'imposition 2005 de 76 673 532 $. »
+35. Le 19 décembre 2011, l'ARC a établi un document intitulé « Avis de nouvelle cotisation des sociétés » à l'égard de l'impôt payable au titre de la partie I pour l'année d'imposition 2004 de CFCL (la « nouvelle cotisation du 19 décembre 2011 pour 2004 »)[3].
+36. Le formulaire T7W‑C qui se rapporte à la nouvelle cotisation du 19 décembre 2011 pour 2004 indique des rajustements au revenu net de CFCL pour 2004 qui annulent les inclusions de revenus et les déductions de la nouvelle cotisation au titre de la partie I pour 2004 décrites au paragraphe 18 et indique aussi une déduction supplémentaire de 5 681 266 $ et, pour que le revenu imposable de CFCL soit maintenu à 100 $, réduit le montant des pertes autres qu'en capital reportées de 1999, comme le demandait CFCL dans son avis d'opposition déposé à l'égard de la nouvelle cotisation au titre de la partie I pour 2004. Le montant d'impôt au titre de la partie I qui apparaît à la nouvelle cotisation du 19 décembre 2011 pour 2004 est 22 $.
+37. Les rajustements effectués dans la nouvelle cotisation de CFCL au titre de la partie I pour 2004, les rajustements auxquels s'opposait CFCL, et les rajustements de la Division des appels de l'ARC dans la nouvelle cotisation du 19 décembre 2011 pour 2004 sont résumés dans l'annexe A ci‑jointe.
+38. L'ARC a traité la nouvelle cotisation du 19 décembre 2011 pour 2004 et CFCL ne s'est pas opposée à celle‑ci.
+39. Le 19 décembre 2011, l'ARC a également établi la nouvelle cotisation au titre de la partie I pour 2005 (décrite dans le paragraphe 4).
+40. Le formulaire T7W‑C qui se rapporte à la nouvelle cotisation au titre de la partie I pour 2005 indique des rajustements au revenu net de CFCL pour 2005 qui ajoutent les montants que l'ARC a déduits dans la nouvelle cotisation au titre de la partie I pour 2005 après la vérification décrite au paragraphe 22, donnant lieu à une augmentation globale du revenu de 76 673 532 $ et, pour que le revenu imposable de CFCL demeure 100 $, cette nouvelle cotisation a augmenté le montant des pertes autres qu'en capital reportées de 2007, comme le demandait CFCL dans son avis d'opposition déposé à l'égard de la nouvelle cotisation au titre de la partie I pour 2005 après la vérification. Le montant d'impôt au titre de la partie I qui apparaît dans la nouvelle cotisation au titre de la partie I pour 2005 est 22 $.
+DATÉ ce 19e jour d'octobre 2015, à Toronto.
+[signature]
+[signature]
+Daniel Sandler
+Donna Dorosh
+Avocat de l'appelante
+Avocate de l'intimée
+CRÉDIT Ford du CANADA LIMITée c. SMLR 2013-4143(IT)G
+Annexe A — exposé conjoint partiel des faits
+Année d'imposition 2004
+Rajustements du PNC lors de la vérif.
+le 9 juillet 2009
+Rajustements contestés par CFCL ou visés par l'opposition
+Rajustements de la Div. des appels du 19 décembre 2011
+Revenu net selon la cotisation antérieure
+96 750 652 $
+313 046 203 $
+Ajouter :
+Réduction de la DPA demandée
+13 620 595 $
+NOC‑Ligne directrice 13
+Revenu de dérivés
+9 399 634 $
+Annulation de la déduction de la titrisation de l'ann. 1
+(participation conservée)
+81 474 335 $
+81 474 335 $
+(81 474 335 $)
+Créances irrécouvrables
+(crédit pour la participation conservée)
+5 586 862 $
+5 586 862 $
+(5 586 862 $)
+Revenu de subvention
+(subvention anticipée)
+109 857 849 $
+109 857 849 $
+(109 857 849 $)
+Provision pour pertes sur prêts
+9 567 458 $
+9 567 458 $
+(9 567 458 $)
+Augmenter la déduction des provisions pour impôts
+8 101 473 $
+Déduire :
+Disposition des commissions de montage des prêts
+(7 550 222 $)
+Revenus anticipés de subventions
+(13 762 433 $)
+(13 762 433 $)
+13 762 433 $
+Provision compensatrice du revenu : demande de CFCL à la vérif., et la vérif. a recommandé que la Div. des appels l'accepte
+(5 681 266 $)
+(5 681 266 $)
+Réduction totale du revenu imposable
+(198 405 337 $)
+Revenu net révisé pour les besoins de l'impôt
+313 046 203 $
+114 640 866 $
+RÉFÉRENCE :
+2016 CCI 1
+No du dossier de la cour :
+2013-4143(IT)G
+Intitulé :
+Crédit Ford du Canada limitée c. Sa Majesté la Reine
+Lieu de l'audience :
+Toronto (Ontario)
+DATES DE L'AUDIENCE :
+Les 19 et 20 octobre 2015
+Motifs du jugement :
+L'honorable juge en chef adjointe Lucie Lamarre
+DATE DU JUGEMENT :
+Le 6 janvier 2016
+Comparutions :
+Avocats de l'appelante :
+Me Daniel Sandler
+Me Allison Blackler
+Avocates de l'intimée :
+Me Donna Dorosh
+Me Patricia Lee
+Avocats inscrits au dossier :
+Pour l'appelante :
+Nom :
+Me Daniel Sandler
+Cabinet :
+Couzin Taylor
+Toronto (Ontario)
+Pour l'intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] CFCL n'admet pas que cet avis constitue une nouvelle cotisation valide à l'égard de l'impôt payable au titre de la partie I en vertu de la Loi.
+[2] L'intimée nie que cette lettre ou toute partie de celle-ci, y compris l'extrait, annulait la nouvelle cotisation au titre de la partie I pour 2004 ou qu'elle constituait un avis d'une décision ou d'une mesure qui annulait cette nouvelle cotisation.
+[3] CFCL n'admet pas que cet avis constitue une nouvelle cotisation valide à l'égard de l'impôt au titre de la partie I en vertu de la Loi.

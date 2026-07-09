@@ -1,0 +1,200 @@
+---
+title: "Ouazana v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/488930/index.do"
+last_modified: "2020-11-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 124"
+citation2: ""
+neutral_citation: "2020 TCC 124"
+decision_date: "2020-11-20"
+language: "en"
+item_id: "488930"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4647
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:00:53.210000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5d181141aa7e16d6f033fd73b008485ea84fa1b9232a3036f88d1bb405847346"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ouazana v. The Queen
+
+- Citation: 2020 TCC 124
+- Decision date: 2020-11-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4647, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouazana v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-11-20
+Neutral citation
+2020 TCC 124
+File numbers
+2019-941(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2019-941(GST)I
+BETWEEN:
+JACQUES OUAZANA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 17, 2020, at Montreal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Jonathan Lafrance
+Counsel for the Respondent:
+Alnashir Tharani
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act dated June 22, 2016 for the period from January 1, 2014 to December 31, 2014 is allowed and the assessment for the Goods and Services Tax for the period is vacated in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 20th day of November 2020.
+“Réal Favreau”
+Favreau J.
+Citation: 2020 TCC 124
+Date: 20201120
+Docket: 2019-941(GST)I
+BETWEEN:
+JACQUES OUAZANA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from an assessment against the appellant, made pursuant to Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the “ETA”) by the Quebec Revenue Agency (the “QRA”) on behalf of the Minister of National Revenue (the “Minister”), dated June 22, 2016 and pertaining to the period from January 1, 2014 to December 31, 2014 (the “Period”).
+[2] By way of the June 22, 2016 assessment, the Minister made adjustments to the appellant’s net tax by $45,750 for the Period, namely with respect to unremitted net tax on the disposition of an immovable real property.
+[3] When making the assessment in respect of the Appellant, the Minister relied, inter alia, on the following assumptions and findings of fact:
+(a) the facts admitted above;
+(b) the Appellant is a businessman who’s (sic) activities included the rental of residential and commercial units namely in the 3539-3541 Van home complex;
+(c) during the Period, the Appellant was the owner of an immovable real property bearing civic number 3539-3543, Van Horne avenue, in the city of Montreal;
+(d) the said property was used for both commercial (60%) and residential (40%) purposes;
+(e) on February 7, 2014, the said property was sold to Gestio (sic) Levav Inc. (hereinafter referred to as the “buyer”) for the sum of $1,525,000.00;
+(f) as 60% of the property was being used for commercial properties, GST was applicable on $925,000.00, representing the taxable supply;
+(g) at the time of the sale, although the buyer indicated GST and QST numbers on the Agreement of Purchase and Sale, the said numbers were invalid and as such the buyer was not a registrant at the time of sale;
+(h) at the time of sale, the Appellant did not verify the buyer’s GST number and as such did not conduct due diligence to ensure that the buyer was a registrant;
+(i) the Appellant ought to have known that the buyer was not a registrant at the time of sale;
+(j) had it not been for the Minister’s audit, the Appellant would not have known that the buyer was not a registrant at the time of sale;
+(k) following the issuance of the Notice of Assessment, the buyer requested the Minister to reactivate its GST and QST numbers as of February 2, 2014;
+(l) in support of the buyer’s request to reinstate its GST and QST numbers, the buyer namely invoked an invoice from La Rotisserie Souvlaki Parthenon Inc.;
+(m) the Minister has no way of confirming nor denying that the buyer remitted the GST at the time of purchase.
+The issue
+[4] The only issue to be determined in this appeal is whether the June 22, 2016 assessment is well-founded in fact and in law, given the retroactive registration of Gestion Levav Inc. to February 7, 2014 (i.e. the date of the sale of the real estate property).
+Position of the Parties
+The Appellant’s Position
+[5] Gestion Levav Inc. was retroactively registered by the QRA for Goods and Services Tax purposes, effective February 7, 2014 (the date on which the real estate property was sold).
+[6] Because of the retroactive registration effective February 7, 2014, Gestion Levav Inc. was registered for GST purposes at the time of the sale.
+[7] Therefore, the Appellant was not required to collect GST on the sale as all the conditions precedent to paragraph 221(2)(b) of the ETA exceptions were met, namely:
+(a) the appellant is a supplier who makes a taxable supply of real property; and
+(b) Gestion Levav Inc., the recipient, was registered at the time of the supply.
+[8] Since retroactive registration creates a presumption of continuous registration, Gestion Levav Inc. is deemed to have been registered on February 7, 2014 for the purposes of paragraph 221(2)(b) of the ETA when the supply of real estate property was made by the Appellant.
+The Respondent’s Position
+[9] A supplier who makes the taxable supply of real property by way of a sale is required to collect the tax payable by the recipient unless the recipient is registered at the time of sale.
+[10] In this case, the buyer was not registered at the time of the sale despite the retroactive reactivation of the buyer’s GST numbers to the date of sale.
+[11] At the time the supplier was required to collect the GST, the recipient was not registered for GST purposes. In this instance, the GST in respect of the sale of the real estate became payable on February 7, 2014, i.e., at a time when the recipient was not registered.
+[12] Gestion Levav Inc. became registered again on November 16, 2016 with retroactive effect to February 7, 2014, after the June 22, 2016 assessment of the appellant and 2½years after the completion date of the transaction.
+[13] The wording used in paragraph 221(2)(b) of the ETA is different from the wording used in subsection 169(1) of the ETA for the input tax credits. In paragraph 221(2)(b), the recipient must be registered for GST purposes, at the time of supply, while in subsection 169(1), the person claiming the credit must be a registrant during the reporting period in which that person paid tax in respect of the supply. The term “registrant” is defined in paragraph 123(1) of the ETA as a person who is registered or who is required to be registered, under subdivision (d) of Division V of the ETA.
+[14] In the context of the input tax credits, it makes sense to adopt a broader interpretation and to allow a correction if an error was made but, in the context of subsection 221(2) of the ETA which is an exception to the general rule, the provision must be strictly construed.
+The Law
+[15] The provision of the ETA that are relevant for the purpose of this appeal are the following:
+General rule
+168 (1) Tax under this Division in respect of a taxable supply is payable by the recipient on the earlier of the day the consideration for the supply is paid and the day the consideration for the supply becomes due.
+Partial consideration
+(2) Notwithstanding subsection (1), where consideration for a taxable supply is paid or becomes due on more than one day
+(a) tax under this Division in respect of the supply is payable on each day that is the earlier of the day a part of the consideration is paid and the day that part becomes due; and
+(b) the tax that is payable on each such day shall be calculated on the value of the part of the consideration that is paid or becomes due, as the case may be, on that day.
+…
+(5) Sale of real property - Notwithstanding subsections (1) and (2), tax under this Division in respect of a taxable supply of real property by way of sale is payable
+(a) in the case of a supply of a residential condominium unit where possession of the unit is transferred, after 1990 and before the condominium complex in which the unit is situated is registered as a condominium, to the recipient under the agreement for the supply, on the earlier of the day ownership of the unit is transferred to the recipient and the day that is sixty days after the day the condominium complex is registered as a condominium; and
+(b) in any other case, on the earlier of the day ownership of the property is transferred to the recipient and the day possession of the property is transferred to the recipient under the agreement for the supply.
+Collection of tax
+221 (1) Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+Exception
+(2) A supplier (other than a prescribed supplier) who makes a taxable supply of real property by way of sale is not required to collect tax under Division II payable by the recipient in respect of the supply where
+(a) the supplier is a non-resident person or is resident in Canada by reason only of subsection 132(2);
+(b) the recipient is registered under Subdivision D and, in the case of a recipient who is an individual, the property is neither a residential complex nor supplied as a cemetery plot or place of burial, entombment or deposit of human remains or ashes;
+(b.1) the supplier and the recipient have made an election under section 2 of Part I of Schedule V in respect of the supply; or
+(c) the recipient is a prescribed recipient.
+Registration
+241 (1) The Minister may register any person that applies for registration and, upon doing so, must assign a registration number to the person and notify the person in writing of the registration number and the effective date of the registration.
+…
+Registration by Minister
+(1.5) If, after 60 days after the particular day on which a notice of intent was sent by the Minister to a person, the person has not applied for registration under this Subdivision and the Minister is not satisfied that the person is not required to be registered for the purposes of this Part, the Minister may register the person and, upon doing so, shall assign a registration number to the person and notify the person in writing of the registration number and the effective date of the registration, which effective date is not to be earlier than 60 days after the particular day.
+Analysis
+[16] On February 7, 2014, the real property was sold, the GST and QST numbers of Gestion Levav Inc. were invalid which means that Gestion Levav Inc. was not registered at that time for the purposes of the ETA. Gestion Levav Inc. was nevertheless required to be registered because it was engaged in a commercial activity as owner of commercial properties.
+[17] On February 7, 2014, the real property bearing civic number 3539-3543 was rented to Rotisserie Souvlaki Parthenon inc. by way of a lease expiring on March 31, 2018 for the sum of $3,750 plus taxes monthly not including heat (at the time the property was sold).
+[18] Pursuant to the Agreement of Purchase and Sale, only $175,000 of the total purchase price of $1,525,000 was received by the vendor on the date of the sale. As for the balance, namely $1,350,000, the purchaser undertook to pay to the vendor the sum of $1,200,000 on February 7, 2020 and the sum of $150,000 on August 7, 2015. These sums bore interest of 3.5% and 5% per year respectively and were payable by monthly payments. The repayment of the balance of the sale price was secured by hypothecs in favour of the vendor on the real property sold. The purchaser may prepay the balance of the sale price at any time without notice or indemnity.
+[19] Despite the fact that a substantial portion of the sale price of the real property was payable by instalments, the tax in respect of the taxable supply of real property by way of sale, is payable on the earlier of the day ownership of the property is transferred to the recipient and the day possession of the property is transferred to the recipient, which is on February 7, 2014 in the case of this transaction (see paragraph 168(5) of the ETA).
+Effects of re-registration
+[20] The issue at this stage is whether the re-registration can remedy the legal effects that resulted from the fact that Gestion Levav Inc. was not registered when the tax became payable in respect of the taxable supply of real property.
+[21] The respondent argues that, despite the retroactive re-registration, the effects of the non-registration of Gestion Levav Inc. at the time of the transaction cannot be cured.
+[22] A vendor needs absolute certainty that a purchaser of commercial properties is currently GST-registered before agreeing not to collect the tax on closing. In this instance, the appellant did not check the validity of the GST numbers of Gestion Levav Inc.
+[23] The respondent argues that the use by the legislator of the words “the recipient is registered” in paragraph 221(2)(b) instead of the words “the recipient is a registrant” is a clear indication that the recipient must be registered at the time the tax became payable. This wording is more restrictive than a reference to a “registrant” because the word “registrant” refers to both a person who is registered, or who is required to be registered.
+[24] In support of its position, the respondent submitted some technical interpretations from the QRA, such as interpretation letter 17-040367-001 dated September 24, 2018 published on the website of Publications du Québec, and some extracts from a conference given at the 26th symposium on consumption taxes of the Association de planification fiscale et financière in 2019.
+[25] With respect, I do not agree with the interpretation given by the respondent to paragraph 221(2)(b). By enacting subsection 241(1), the Canadian Parliament enacted legislation which gave the Minister the power to retroactively change the status of a person for GST purposes. The Minister has discretionary power to determine the effective date of the registration of an applicant. There is no limit imposed on the Minister for a maximum backdating period and there is no set of conditions to be met.
+[26] Administratively, the Canada Revenue Agency (the “CRA”) automatically approved a retroactive registration for a maximum of 30 days, with proof that the person was engaged in a commercial activity in the course of which the applicable taxes were collected. In special cases, the CRA will accept a retroactive application backdated beyond a 30-day period where a person voluntarily request such a registration and present documentation to support the date requested. The person must provide evidence that GST/HST was collected from the date requested on a regular and continuous basis. It is my understanding that the same administrative policy is followed by the QRA.
+[27] In this instance, Gestion Levav Inc. has been re-registered on November 16, 2016 with retroactive effect to February 7, 2014 with the same registration numbers that were mentioned in the Agreement of Purchase and Sale. In my opinion, this retroactive registration creates a presumption of continuous registration of Gestion Levav Inc. since February 7, 2014 for the purposes of the ETA, including paragraph 221(2)(b).
+[28] Subsection 241(1) requires that the minister notify the person who applies for registration of the “effective date of the registration” which is the date on which the applicant becomes subject to the ETA. When the effective date of registration is backdated, the retroactive effect of the registration must be recognized for all purposes of the ETA unless there is a clear provision of the ETA to the contrary. No such provision seems to exist in respect of paragraph 221(2)(b).
+[29] In my view, a strong comparison can be drawn between paragraph 241(1) and paragraph 241(1.5). In paragraph 241(1), there is no limitation to the discretionary power of the Minister to backdate the effective date of registration of a person while in paragraph 241(1.5) the discretionary power imposed on the Minister is limited to a date that is not to be earlier than 60 days after the particular day on which a notice of intent was sent by the Minister to the person. Prior to this provision being introduced in the legislation of 2014, there was absolutely no time limit for the Minister to determine the effective date of registration of a person that is not registered but is required to be registered and has failed to apply for registration.
+[30] If the legislator had wanted to prevent the retroactive effect of the registration of a person in the context of paragraph 221(2)(b), he should have made specific exception for that purpose.
+[31] Considering the foregoing, I am of the opinion that the backdating of registration of a person can apply retroactively to a sale of commercial real estate where no tax was paid on closing by a purchaser that had not been registered at the time of closing but that had applied for registration afterwards.
+[32] For all those reasons, the appeal is allowed and the assessment is vacated.
+Signed at Ottawa, Canada, this 20th day of November 2020.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2020 TCC 124
+COURT FILE NO.:
+2019-941(GST)I
+STYLE OF CAUSE:
+JACQUES OUAZANA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+August 17, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+November 20, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Jonathan Lafrance
+Counsel for the Respondent:
+Alnashir Tharani
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jonathan Lafrance
+Firm:
+Norton Rose Fulbright
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

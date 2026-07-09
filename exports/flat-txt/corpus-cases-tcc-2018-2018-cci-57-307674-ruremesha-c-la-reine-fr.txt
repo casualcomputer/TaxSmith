@@ -1,0 +1,291 @@
+Title: Ruremesha c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/307674/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-57-307674-ruremesha-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-03-20
+
+# Ruremesha c. La Reine
+
+- Citation: 2018 CCI 57
+- Decision date: 2018-03-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7566, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ruremesha c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-03-20
+Référence neutre
+2018 CCI 57
+Numéro de dossier
+2015-5483(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-5483(IT)I
+ENTRE :
+JAMES SYMBAH RUREMESHA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 19 octobre 2017, à Calgary (Alberta).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Grégoire Cadieux
+JUGEMENT
+L’appel à l’encontre des nouvelles cotisations établies en vertu de Loi de l’impôt sur le revenu en date du 10 mars 2011 à l’égard des années d’imposition 2007, 2008 et 2009, en date du 4 juillet 2011 à l’égard de l’année d’imposition 2006, en date du 30 septembre 2013 à l’égard des années d’imposition 2010 et 2011 et en date du 16 juillet 2015 à l’égard de l’année 2012 est rejeté conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de mars 2018.
+« Réal Favreau »
+Juge Favreau
+Référence : 2018 CCI 57
+Date : 20180320
+Dossier : 2015-5483(IT)I
+ENTRE :
+JAMES SYMBAH RUREMESHA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit ici d’un appel à l’encontre des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée, (la « Loi ») à l’égard des années d’imposition 2006 à 2012 de l’appelant.
+[2] Les nouvelles cotisations visées par le présent litige sont celles datées du :
+- 10 mars 2011 à l’égard des années d’imposition 2007, 2008 et 2009;
+- 4 juillet 2011 à l’égard de l’année d’imposition 2006;
+- 30 septembre 2013 à l’égard des années d’imposition 2010 et 2011; et du
+- du 16 juillet 2015 à l’égard de l’année d’imposition 2012.
+[3] Les montants visés par ces nouvelles cotisations sont les suivants :
+2006
+$
+2007
+$
+2008
+$
+2009
+$
+2010
+$
+2011
+$
+2012
+$
+Dons de bienfaisance refusés
+10 650
+13 870
+10 560
+8 870
+1 480
+2 250
+1 220
+Autres dépenses d’emploi refusées
+−
+−
+6 124
+8 683
+14 435
+−
+3 250
+Remboursement refusé de la TPS/TVH à l’intention des salariés
+−
+−
+228
+322
+−
+−
+−
+Dépenses d’entreprise refusées
+−
+−
+−
+−
+−
+17 973
+−
+Revenu provenant d’un RÉER non déclaré
+−
+−
+−
+4 500
+4 200
+−
+−
+Frais de scolarité refusés
+−
+−
+−
+−
+−
+−
+1 386
+Montant refusé relatif aux études
+−
+−
+−
+−
+−
+−
+2 325
+Pénalité pour production tardive
+102
+−
+16
+81
+152
+−
+−
+Pénalité pour omission répétée de déclarer un revenu
+−
+−
+−
+−
+420
+−
+−
+[4] À l’audience, l’appelant a indiqué à la Cour que seuls les dons de bienfaisance refusés pour les années d’imposition 2006 à 2010 étaient en litige.
+[5] Le ministre a fixé l’impôt payable par l’appelant pour les années d’imposition 2006 à 2012 en tenant pour acquis les faits suivants relativement aux dons de bienfaisance, tels que décrits aux paragraphes 12 a) à i) de la Réponse à l’avis d’appel :
+a) en produisant ses déclarations de revenus pour les années d’imposition en litige, l’appelant a réclamé les montants suivants à titre de don de bienfaisances [sic] en espèce [sic] ou en biens qu’il aurait effectués pour les années d’imposition 2006, 2007, 2008, 2009, 2010, 2011 et 2012 :
+Organisme [sic] de bienfaisance
+2006
+$
+2007
+$
+2008
+$
+2009
+$
+2010
+$
+2011
+$
+2012
+$
+Revival Time Ministries
+4 800
+−
+−
+−
+−
+−
+−
+Operation Save Canada Teens
+−
+8 950
+7 800
+8 870
+−
+Organisme(s) inconnu(s)
+5 850
+4 920
+2 760
+−
+1 480
+2250
+1 220
+Total
+10 650
+13 870
+10 560
+8 870
+1 480
+2 250
+1 220
+Revival Time Ministries (“RTM”) et Operation Save Canada Teens (“OSCT”)
+b) RTM et OSCT étaient des organismes de bienfaisance enregistrés durant les années d’imposition 2006, 2007, 2008 et 2009;
+c) RTM et OSCT n’ont pas tenu de livres et de registres adéquats;
+d) RTM et OSCT n’ont pas utilisé leurs fonds exclusivement pour des fins de bienfaisance.
+e) le statut d’organisme de bienfaisance de RTM et de OSCT a été révoqué pour défaut de se conformer aux exigences de la Loi en date du 8 janvier 2011 et du 15 janvier 2011 respectivement;
+f) les reçus de dons émis à l’appelant par RTM et OSCT pour les années d’imposition 2006, 2007, 2008 et 2009 ne contiennent pas les renseignements suivants :
+i) l’adresse au Canada de RTM et OSCT ne correspond pas à l’adresse enregistrée auprès du ministre;
+ii) les dates de délivrance des reçus;
+iii) l’endroit ou la localité où les reçus ont été émis.
+g) l’appelant n’a pas soumis de reçus relativement aux dons de 5 850 $, de 4 920 $, de 2 760 $, de 1 480 $, de 2 250 $ et de 1 220 qu’il a prétendument effectués aux organismes inconnus durant les années d’imposition 2006, 2007, 2008, 2010, 2011 et 2012;
+h) l’appelant a gagné un revenu net de 44 006 $, de 44 864 $, de 47 739 $, de 57 465 $, de 56 676 $, de 47 882 $ et de 28 399 $ pour les années d’imposition 2006, 2007, 2008, 2009, 2010, 2011 et 2012 respectivement;
+i) le montant des dons allégués représentent 24%, 31%, 22%, 15%, 3%, 5% et 4% du revenu net de l’appelant pour les années d’imposition 2006, 2007, 2008, 2009, 2010, 2011 et 2012 respectivement.
+[6] Seul l’appelant a témoigné à l’audience. Il a reconnu ne pas avoir de reçu pour les dons effectués auprès de divers organismes inconnus. Il n’a pu fournir le nom de ces organismes à l’audience, ni confirmer si ces organismes étaient des organismes de charité enregistrés aux fins de la Loi. Il a expliqué que le montant des dons effectués en 2010 avait fortement baissé parce qu’il a cessé d’être un membre actif de Revival Time Ministries (« RTM ») et de Operation Save Canada Teens (« OSCT ») et parce qu’il s’est marié, ce qui a eu pour effet d’augmenter ses obligations financières.
+[7] L’appelant a expliqué qu’il a retenu les services du cabinet comptable Raoul Services Canada pour la préparation et la production de ses déclarations de revenus. Ce cabinet de comptables était apparemment connu dans la communauté africaine du Rwanda. Le cabinet de comptables préparait les déclarations de revenus de l’appelant et les produisait par la voie électronique. Pour ses services, le cabinet de comptables exigeait de 10 à 15% des remboursements d’impôt obtenus. Le cabinet de comptables se chargeait d’obtenir les reçus d’impôt pour les dons de bienfaisance. Lorsqu’il signait ses déclarations de revenus, l’appelant ne voyait pas les reçus émis par les organismes de charité enregistrés. De fait, il n’a vu les reçus pour dons de charité qu’en octobre 2015 après que l’Agence du Revenu du Canada (l’« ARC ») les lui a envoyés. L’appelant a reconnu que les montants des dons réclamés chaque année étaient arbitraires mais que ces montants lui semblaient être raisonnables, soit environ 800 $ par mois. Selon l’appelant, il donnait de 100 $ à 200 $ par semaine en argent comptant lors de services religieux et lors d’autres activités de l’église RTM. Il devait en principe donner sous forme de dîme 10% de son revenu brut annuel.
+[8] L’appelant a de plus indiqué que l’organisme OSCT était en fait la même église qui, opérait sous un autre nom. Il ne savait pas ce qui distinguait ces deux organismes.
+[9] L’appelant a reconnu qu’il a appris que le statut d’organisme de charité enregistré de RTM et de OSCT avait été révoqué en 2011 à cause d’erreurs sur les reçus, d’une tenue de livres déficiente et de mauvaises utilisations des dons. Selon l’appelant, ces révocations de statut ont entraîné l’annulation rétroactive des dons effectués de 2006 à 2010.
+[10] L’appelant prétend que l’ARC a failli à sa tâche en ne vérifiant pas les organismes RTM et OSCT avant de les enregistrer et en émettant des chèques de remboursement d’impôts qu’il doit maintenant rembourser avec intérêts parce que l’ARC n’a pas appliqué le montant de ces remboursements aux impôts et aux intérêts de 45 000 $ alors dus par l’appelant.
+[11] L’appelant a présumé que les organismes RTM et OSCT étaient des organismes de charité enregistrés et que les reçus émis par ces organismes étaient conformes à la Loi parce que l’ARC émettait des chèques de remboursement d’impôts relativement aux dons consentis à ces organismes.
+Dispositions législatives et règlementaires
+[12] L’alinéa 118.1(2)a) de la Loi prévoit que la preuve d’un don de bienfaisance se fait par la présentation d’un reçu pour le don qui contient les renseignements prescrits. L’alinéa est rédigé comme suit :
+118.1(2) Pour que le montant admissible d’un don soit inclus dans le total des dons de bienfaisance le total des dons à l’Etat, le total des dons de biens culturels ou le total des dons de biens écosensibles, le versement du don doit être attesté par la présentation au ministre des documents suivants :
+a) un reçu contenant les renseignements prescrits;
+[…]
+[13] L’article 3500 du Règlement de l’impôt sur le revenu CRC, 1977, ch. 945 (le « Règlement ») est rédigé en partie come suit :
+« reçu officiel » s’entend d’un reçu remis pour l’application des paragraphes 110.1(2) ou (3) ou 118.1(2), (6) ou (7) de la Loi, sur lequel figurent les détails exigés par les articles 3501 ou 3502.
+[14] Les renseignements prescrits que doit contenir un reçu sont prévus à l’article 3501 du Règlement qui est rédigé comme suit :
+(1) Tout reçu officiel délivré par une organisation enregistrée doit énoncer qu'il s'agit d'un reçu officiel aux fins de l'impôt sur le revenu et indiquer clairement, de façon à ce qu'ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l'adresse au Canada de l'organisation ainsi qu'ils sont enregistrés auprès du Ministre;
+b) le numéro d'enregistrement attribué par le Ministre à l'organisation;
+c) le numéro de série du reçu;
+d) le lieu ou l'endroit où le reçu a été délivré;
+e) lorsque le don est un don en espèces, la date ou l'année où il a été reçu;
+e.1) lorsque le don est un don de biens autres que des espèces :
+(i) la date où il a été reçu;
+(ii) une brève description du bien, et
+(iii) le nom et l’adresse de l’évaluateur du bien si une évaluation a été faite;
+f) la date de délivrance du reçu;
+g) le nom et l'adresse du donateur, y compris, dans le cas d'un particulier, son prénom et son initiale;
+h) celle des sommes ci-après qui est applicable :
+(i) au montant du don en espèces, ou
+(ii) lorsque le don est un don de biens autres que des espèces, la juste valeur marchande du bien au moment où le don est fait;
+h.1) le montant de l’avantage, le cas échéant, au titre du don;
+h.2) le montant admissible du don;
+i) la signature, ainsi qu'il est prévu au paragraphe (2) ou (3), d'un particulier compétent qui a été autorisé par l'organisation à accuser réception des dons;
+j) le nom de l'Agence du revenu du Canada et l'adresse de son site Internet.
+Analyse
+[15] Le ministre a supposé qu’en 2006, l’appelant n’a pas fait de don en espèces de 4 800 $ à RTM et, qu’en 2007, 2008 et 2009, l’appelant n’a pas fait de dons en espèces de 8 950 $, 7 800 $ et de 8 870 $ respectivement à OSCT.
+[16] À mon avis, l’appelant n’a pas établi que l’hypothèse du ministre était erronée. L’appelant n’a pas consigné dans un registre les montants et les dates de ses dons et il n’a pas mis en preuve ses relevés bancaires, ses bordereaux de retrait ou ses autres documents personnels pour appuyer les dons en espèces allégués. Personne n’a témoigné pour le compte de RTM et de OSCT pour attester des dons effectués par l’appelant et aucun registre des dons reçus par ces organismes de la part de l’appelant n’a été produit. Le comptable de l’appelant n’a pas été appelé à témoigner pour démontrer comment les montants des reçus émis à l’appelant avaient été déterminés par RTM et OSCT.
+[17] L’appelant avait le fardeau de démontrer qu’il a fait les dons en espèces et son seul témoignage à cet égard n’est pas suffisant.
+[18] Aux fins de la Loi, le versement d’un don de bienfaisance doit être attesté par la présentation d’un reçu qui doit obligatoirement contenir les renseignements prescrits par l’article 3501 du Règlement.
+[19] En l’espèce, les reçus émis à l’appelant par RTM et OSCT n’étaient pas conformes aux exigences de l’article 3501 du Règlement à plusieurs égards.
+[20] Contrairement aux exigences de l’alinéa 3501(1)a) du Règlement, l’adresse de l’organisme de bienfaisance apparaissant sur chacun des reçus ne correspondait pas à l’adresse de chacun des organismes de bienfaisance qui avait été enregistrée auprès du ministre. L’adresse apparaissant sur les reçus émis par RTM et OSCT était « 415 Oakdale Rd. Suite # 224, Toronto, M3N 1W7 » alors que l’adresse enregistrée auprès du ministre pour chacun des organismes était « 3612A Dufferin Street, Toronto, Ontario, M3K 1N7 ».
+[21] Contrairement à l’exigence de l’alinéa 3501(1)d) du Règlement, les reçus émis à l’appelant par RTM et OSCT ne précisent pas le lieu ou l’endroit où les reçus ont été émis.
+[22] Contrairement à l’exigence de l’alinéa 3501(1)f ) du Règlement, les reçus émis à l’appelant par RTM et OSCT ne précisent pas les dates de délivrance des reçus.
+[23] Je ne retiendrai pas ici les arguments avancés par l’appelant quant aux responsabilités de l’ARC en ce qui concerne l’enregistrement des organismes de bienfaisance, à la vérification des activités des organismes de bienfaisance, à l’émission des chèques de remboursement d’impôt sans faire de compensation avec les sommes dues par les contribuables parce que ces procédures sont des mesures administratives qui ne relèvent pas de la compétence de cette Cour.
+[24] Notre système est basé sur un système d’autocotisation et il appartient aux contribuables de s’assurer que les montants qu’ils réclament sous forme de déductions ou des crédits d’impôt sont conformes aux exigences de la Loi.
+[25] L’appelant ne peut invoquer sa propre turpitude afin de blâmer l’ARC. L’appelant a confié à un comptable frauduleux la préparation de ses déclarations de revenu; il l’a mandaté d’obtenir les reçus pour des dons de charité auprès de RTM et de OSCT et il a accepté de le rémunérer sur la base d’un pourcentage sur les remboursements d’impôt obtenus. La conduite de l’appelant démontre un haut niveau de négligence dans l’organisation de ses affaires.
+[26] Pour toutes ces raisons, l’appel de l’appelant est rejeté.
+Signé à Ottawa, Canada, ce 20e jour de mars 2018.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2018 CCI 57
+Nº DU DOSSIER DE LA COUR :
+2015-5483(IT)I
+INTITULÉ DE LA CAUSE :
+James Symbah Ruremesha et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+le 19 octobre 2017
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 20 mars 2018
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Grégoire Cadieux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

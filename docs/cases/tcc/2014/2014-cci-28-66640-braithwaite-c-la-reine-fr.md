@@ -1,0 +1,315 @@
+---
+title: "Braithwaite c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66640/index.do"
+last_modified: "2014-01-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 28"
+citation2: ""
+neutral_citation: "2014 CCI 28"
+decision_date: "2014-01-28"
+language: "fr"
+item_id: "66640"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6002
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:09:53.328000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aa646b4f886b2d1af96056cc3a264089fb7f00be0823393576cbc7aa427d37df"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Braithwaite c. La Reine
+
+- Citation: 2014 CCI 28
+- Decision date: 2014-01-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6002, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Braithwaite c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-01-28
+Référence neutre
+2014 CCI 28
+Numéro de dossier
+2012-911(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-911(IT)I
+ENTRE :
+LYLE BRAITHWAITE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de l’appelant (2012‑912(GST)I) le 19 mars 2013, à Nanaimo (Colombie‑Britannique).
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Rob Whittaker
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation datée du 8 novembre 2010, établie par le ministre du Revenu national (le « ministre ») au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 de l’appelant est accueilli, et l’affaire est déférée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que le paiement de 1 070,38 $ fait à Black Press en 2006 relativement à des frais de publicité de 2004 doit être admis à titre de frais déductibles dans le calcul du revenu d’entreprise de l’appelant.
+Signé à Ottawa, Canada, ce 28e jour de janvier 2014.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 13e jour de mars 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2014 CCI 28
+Date : 20140128
+Dossier : 2012-911(IT)I
+ENTRE :
+LYLE BRAITHWAITE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Le présent appel concernant l’impôt sur le revenu a été entendu sur preuve commune avec l’appel interjeté par l’appelant en matière de taxe sur les produits et services (la « TPS ») (2012-912(GST)I).
+[2] En l’espèce, la Cour est appelée à se prononcer sur la question de savoir si l’appelant a le droit de demander la déduction de frais de publicité, de frais d’intérêts, de frais afférents à un véhicule à moteur, de frais de déplacement et d’autres frais, ainsi qu’une déduction pour amortissement (la « DPA »), pour l’année d’imposition 2006 (collectivement, les « dépenses pour 2006 ») en plus des montants accordés par le ministre du Revenu national (le « ministre ») au moyen de la nouvelle cotisation datée du 8 novembre 2010 établie au titre de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa version modifiée (la « Loi »).
+[3] Au moyen de la nouvelle cotisation établie le 8 novembre 2010, le ministre a refusé de déduire les dépenses d’entreprise suivantes, qui totalisent 20 463 $ :
+- frais de publicité
+- frais d’intérêts
+1 020 $
+3 487 $
+- frais afférents à un véhicule à moteur
+5 151 $
+- frais de déplacement
+6 026 $
+- autres frais (bureau, téléphone et autres)
+4 779 $
+[4] Dans le calcul de son revenu pour l’année d’imposition 2006, l’appelant a inclus des commissions reçues de 41 137 $ et a déduit des dépenses d’entreprise de 54 753,55 $, ce qui a donné lieu à une perte d’entreprise nette de 13 616,55 $.
+[5] Pour établir la dette fiscale de l’appelant pour l’année d’imposition 2006, le ministre a formulé les hypothèses de fait suivantes, énoncées au paragraphe 9 de la réponse à l’avis d’appel :
+[traduction]
+a) l’appelant était agent immobilier et consultant en matière immobilière (les « activités commerciales »); (admise)
+b) dans le cadre de ses activités commerciales, l’appelant, agent d’immeubles commerciaux, exerçait ses activités à partir du bureau de la société Sutton group Resource Realty, à Duncan, en C.‑B; (admise)
+c) dans le cadre de ses activités commerciales, l’appelant exploitait aussi la société Braithwaite & Co. Real Estate Consulting à son domicile; (admise)
+d) l’appelant utilisait la méthode de comptabilité de caisse pour demander la déduction de frais relativement à ses activités commerciales; (admise)
+Frais de publicité
+e) dans l’année d’imposition 2006, l’appelant a déduit des frais de publicité de 3 538,59 $, comme cela ressort de l’annexe « A »; (admise)
+f) l’appelant a payé 1 020 $ à Black Press en 2006 relativement à une facture de 2004 pour des services de publicité qui avaient été antérieurement déclarés à titre de dépenses d’entreprise pour l’année d’imposition 2004; (niée)
+g) l’appelant n’a pas supporté de frais publicité, en plus des montants accordés par le ministre, en vue de tirer un revenu de ses activités commerciales, comme cela ressort de l’annexe « A »; (niée)
+Frais d’intérêts
+h) dans l’année d’imposition 2006, l’appelant a déduit des frais d’intérêts de 4 720,96 $, comme cela ressort de l’annexe « A »); (admise)
+i) dans l’année d’imposition 2006, l’appelant a déduit des frais d’intérêts relativement aux comptes suivants :
+i) compte bancaire à la Coast Capital Savings;
+ii) marge de crédit à la caisse populaire Island Savings;
+iii) carte de crédit MasterCard de la Banque de Montréal;
+iv) Sutton Realty;
+v) Banque Royale;
+vi) prêt d’Evans Street (admise, mais la carte de crédit MBNA ne figure pas sur la liste)
+j) l’appelant a déduit des frais d’intérêts concernant ses frais personnels et de subsistance; (niée)
+k) l’appelant n’a pas supporté de frais d’intérêts, en plus des montants accordés par le ministre, en vue de tirer un revenu de ses activités commerciales, comme cela ressort de l’annexe « A »; (niée)
+Frais afférents à un véhicule à moteur
+l) dans l’année d’imposition 2006, l’appelant a déduit des frais afférents à un véhicule à moteur de 8 871,52 $, comme cela ressort de l’annexe « A » (les « frais afférents au véhicule »); (admise)
+m) l’appelant conduisait un véhicule de marque Buick Rendezvous au cours de l’année d’imposition 2006 (le « véhicule »); (admise)
+n) l’appelant a inclus dans les frais afférents au véhicule des frais qui n’étaient pas liés à ses activités commerciales, y compris des frais d’intérêts, des frais mensuels payés à l’Union Club à Victoria ainsi que frais relatifs à l’utilisation du véhicule à des fins personnelles; (niée)
+o) l’appelant ne consignait pas le kilométrage parcouru ni ne tenait de registre pour l’usage du véhicule; (admise)
+p) l’appelant n’a pas supporté de frais afférents au véhicule, en plus des montants accordés par le ministre, en vue de tirer un revenu de ses activités commerciales, comme cela ressort de l’annexe « A »; (niée)
+Frais de déplacement
+q) dans l’année d’imposition 2006, l’appelant a déduit des frais de déplacement de 6 778,45 $, comme cela ressort de l’annexe « A »; (admise, mais plus de frais ont été déduits durant la vérification)
+r) l’appelant a déduit des frais de déplacement qui n’étaient pas liés à ses activités commerciales, y compris :
+i) des frais pour des billets d’avion pour ses enfants; (niée)
+ii) des frais pour des déplacements personnels de l’appelant au Québec et en Ontario; (niée)
+iii) des frais concernant l’hébergement de son chien à un chenil; (admise)
+iv) des frais d’achats de vêtements à Toronto; (niée)
+v) des frais d’entrée à un terrain de golf; (niée)
+s) l’appelant n’a pas supporté de frais de déplacement, en plus des montants accordés par le ministre, en vue de tirer un revenu de ses activités commerciales, comme cela ressort de l’annexe « A »; (niée)
+Frais de bureau, frais de téléphone et autres frais
+t) dans l’année d’imposition 2006, l’appelant a déduit un montant total de 7 295,02 $ relativement à des frais de bureau, à des frais de téléphone et à d’autres frais, comme cela ressort de l’annexe « A » (les « autres frais »); (admise)
+u) l’appelant a inclus des dépenses personnelles sous la rubrique des autres frais, y compris : (niée)
+i) des frais de médicaments;
+ii) des factures pour la ligne téléphonique résidentielle et pour Internet;
+ii) des factures du téléphone cellulaire personnel;
+v) l’appelant n’a pas supporté d’autres frais, en plus des montants accordés par le ministre, en vue de tirer un revenu de ses activités commerciales, comme cela ressort de l’annexe « A »; (niée)
+Déduction pour amortissement (« DPA »)
+w) à la fin de son année d’imposition 2001, la fraction non amortie du coût en capital (la « FNACC ») de l’appelant pour la catégorie 10 était de 12 904 $; (admise)
+x) à la fin de son année d’imposition 2006, l’appelant a déclaré une FNACC de 19 455 $ pour la catégorie 10, comme cela ressort de l’annexe « B »; (admise)
+y) à la fin de son année d’imposition 2006, l’appelant a déclaré une FNACC de 4 892 $ pour la catégorie 45, comme cela ressort de l’annexe « B »; (admise)
+z) au cours des années d’imposition allant de 2002 à 2005, l’appelant a énuméré dans ses tableaux de DPA joints à ses déclarations de revenus l’acquisition des immobilisations (« les immobilisations ») suivantes : (admise)
+Année 2002
+Catégorie 10
+3 917,22 $
+Ordinateur
+Année 2003
+Catégorie 10
+3 650,74 $
+Ordinateur
+Année 2003
+Catégorie 10
+3 764,33 $
+Ordinateur
+Année 2005
+Catégorie 45
+2 049,76 $
+Ordinateur portatif Mac
+Total
+16 938,07 $
+aa) l’appelant n’a pas acquis les immobilisations en vue de tirer un revenu de ses activités commerciales; (niée)
+bb) l’appelant a déclaré un écart de 3 556,02 $ entre son solde de clôture pour la catégorie 10 en 2003 et son solde d’ouverture pour la catégorie 10 en 2004, comme cela ressort de l’annexe « B »; (admise)
+cc) l’appelant n’a pas demandé de DPA dans son année d’imposition 2006; (admise)
+dd) à la fin de son année d’imposition 2006, la FNACC de l’appelant pour la catégorie 10 était de 4 566 $, comme cela ressort de l’annexe « C »; (niée)
+ee) à la fin de son année d’imposition 2006, la FNACC de l’appelant pour la catégorie 45 était de 2 842 $, comme cela ressort de l’annexe « C ». (niée)
+Frais de publicité
+[6] Le montant qui est contesté est de 1 070,38 $, et il a été payé par l’appelant à Black Press en 2006 relativement à une facture pour des services de publicité de 2004. Au 31 décembre 2004, le solde de clôture pour le montant dû à Black Press était de 1 070,38 $. Pour 2005, le montant facturé à l’appelant était de 2 837,31 $, TPS incluse. Étant donné qu’aucun paiement n’a été fait à Black Press en 2005, le solde de clôture pour les montants dus à Black Press au 31 décembre 2005 était de 3 907,69 $. Au cours de la vérification, seul un paiement de 3 659,36 $ fait à Black Press a été étayé par des documents. Il avait été fait en juillet 2006 au moyen du chèque no 66 tiré sur le compte de l’appelant à la Coast Capital.
+[7] L’Agence du revenu du Canada (l’« ARC ») a considéré que le paiement de 3 659,36 $ fait en 2006 avait permis de rembourser le solde dû de 1 070,38 $ pour 2004 et que le montant restant de 2 588,98 $ (2 420 $, net de TPS) avait été porté en réduction du solde de 3 907,69 $ dû à Black Press pour 2005.
+[8] Selon l’ARC, le paiement de 1 070,38 $ fait en 2006 pour 2004 avait déjà été déduit en 2004, étant donné que la déduction de 2 890 $ demandée par l’appelant pour 2004 comprenait tous les montants facturés jusqu’au 31 décembre 2004.
+[9] L’appelant a nié que le montant de 1 070,38 $ avait antérieurement été déduit à titre de dépense d’entreprise pour l’année d’imposition 2004 et il a affirmé que le montant de 1 070,38 $ payé en 2006 s’ajoutait au paiement de 3 659,36 $, mais aucune preuve documentaire corroborante n’a été fournie au cours de la vérification.
+Frais d’intérêts et frais bancaires
+[10] Au cours de la vérification, l’appelant a fourni à l’ARC des feuilles de calcul (produites sous les cotes A‑3 et A‑4) faisant état de tous les montants qui étaient portés à ses comptes de cartes de crédit pour les années 2005 et 2006, et l’appelant a précisé que, du total de 45 924,71 $, 39 855,83 $ avaient été supportés à titre de dépenses d’entreprise. Cela signifie que le total de ses dépenses personnelles pour la période de deux ans n’était que de 6 068,88 $. Selon le vérificateur de l’ARC, cette répartition n’était pas raisonnable et elle était très différente des conclusions tirées relativement à l’échantillon de relevés des cartes de crédit de l’appelant pour 2005 portant sur un mois. Celui‑ci a également déclaré que sa carte de crédit MBNA ne figurait pas sur la liste.
+[11] L’appelant a également avancé que les frais d’intérêts portés à son compte de marge de crédit auprès de la caisse populaire Pacific Coast Savings, dont le solde était de 215 000 $, devraient être déductibles à titre de dépenses d’entreprise, étant donné que ce compte avait toujours été utilisé exclusivement pour son entreprise. Le vérificateur de l’ARC a considéré que ce compte de marge de crédit avait été utilisé comme un compte chèques, ce qui veut dire que les intérêts payés sur les retraits sont considérés comme étant des intérêts sur de nouveaux emprunts et non comme des montants permettant de tirer un revenu de la vente de biens. En raison de l’absence de documents qui corroborent que les emprunts en question ont été effectués pour les besoins de l’entreprise, le vérificateur de l’ARC n’a pas accepté de faire passer les intérêts associés à ce compte de la catégorie de frais d’utilisation de la résidence aux fins de l’entreprise à la catégorie de frais d’intérêts concernant l’entreprise.
+[12] L’ARC a également refusé la déduction demandée par l’appelant pour des frais facturés par la Banque Royale du Canada, parce que ces frais n’étaient pas liés à l’entreprise de l’appelant. Il s’agissait d’honoraires d’avocat qui avaient été supportés relativement à une action en justice intentée par l’appelant contre la banque en raison de frais que celle‑ci avait injustement portés à un compte de carte de crédit de l’entreprise. Les documents fournis par l’appelant n’ont pas expressément établi que les frais facturés par la Banque Royale étaient liés à l’entreprise.
+Frais afférents à un véhicule à moteur
+[13] L’appelant a déduit des frais d’intérêts de 3 267,73 $ en tant que frais supportés pour financer l’achat du véhicule de marque Buick Rendezvous utilisé à des fins professionnelles. L’appelant a soutenu que l’achat du véhicule Buick Rendezvous de 2002 avait été financé par son épouse et qu’il avait remboursé à celle‑ci le montant de l’achat au moyen de sa marge de crédit de la Coast Capital. Les paiements faits à General Motors provenaient du compte conjoint ouvert auprès de l’Island Savings dans lequel le revenu d’emploi de l’épouse de l’appelant était versé. Comme l’appelant n’a pas fourni au vérificateur de documents corroborants établissant qu’il avait remboursé le montant à son épouse à partir de son compte de marge de crédit à la Coast Capital, la demande de l’appelant en vue d’obtenir un rajustement des frais intérêts pour le véhicule à moteur a été refusée.
+[14] En ce qui concerne les frais de stationnement, l’appelant a expliqué qu’il avait accès à un bureau à Victoria où il avait auparavant travaillé, et que, maintenant, il conduit pour se rendre à Victoria deux fois par semaine. Il est devenu membre de l’Union Club pour avoir accès à son parc de stationnement situé dans les environs et paie des frais d’abonnement mensuels de 45 $. Le vérificateur de l’ARC a refusé la demande de l’appelant visant à obtenir un rajustement de cette dépense, parce qu’il est mentionné sur les factures provenant de l’Union Club que les frais payés concernent des cotisations de membre et non le stationnement.
+[15] En ce qui concerne l’utilisation du véhicule de l’entreprise à des fins personnelles, l’appelant n’a pas fourni le kilométrage parcouru ou un registre pour l’usage du véhicule pour qu’on puisse établir le coût lié au nombre de kilomètres parcourus pour gagner un revenu par rapport au total des coûts supportés pour le véhicule. Le véhicule de l’entreprise de l’appelant n’était pas uniquement utilisé à des fins professionnelles, malgré le fait qu’en plus de ce véhicule, l’appelant et son épouse avaient deux autres véhicules. L’appelant n’a pas fourni de documents, tels que les coûts de fonctionnement de chaque véhicule, pour démontrer que son épouse et lui utilisaient leurs véhicules personnels uniquement à des fins personnelles.
+Frais de déplacement
+[16] L’appelant a expliqué que les montants déduits au titre de frais de transport aérien concernaient les billets d’avion qu’il avait achetés pour ses enfants afin qu’ils puissent se rendre à Nanaimo et retourner à leur lieu de résidence. Les enfants de l’appelant habitaient à Montréal, à Toronto et à Ottawa, à ce moment‑là. L’appelant a déclaré qu’ils l’aidaient dans son entreprise en été et qu’au lieu de les rémunérer, il payait leurs billets d’avion et déduisait le montant à titre de dépense d’entreprise. À l’audience, l’appelant a donné l’exemple de sa fille, qui travaillait dans un cabinet d’avocats à Montréal spécialisé en droit de l’immigration, et qui avait accompagné un client allemand à Vancouver. L’appelant avait payé le billet d’avion pour sa fille à partir de Montréal et un billet de train aller simple pour retourner à Montréal. Le client aurait supporté ses propres frais. L’ARC a établi que les montants déduits en tant que frais de transport aérien étaient des dépenses personnelles supportées pour le compte des enfants de l’appelant afin qu’ils puissent se rendre chez lui à Noël et pendant les vacances d’été.
+[17] La déduction demandée concernant un voyage d’une semaine à Toronto et à Montréal a été refusée, parce qu’il s’agissait de dépenses personnelles. L’appelant a expliqué que les dépenses avaient été supportées pour assister à un cours de formation et pour rencontrer des clients potentiels. Aucun registre de réunions avec des clients potentiels ni programme de cours n’a été produit à l’audience à titre de preuve.
+Frais de bureau, frais de téléphone et autres frais
+[18] La déduction demandée concernant la ligne téléphonique résidentielle de l’appelant a été refusée, parce qu’il n’y avait pas de document établissant que la ligne en question était utilisée à des fins professionnelles, et aussi parce que la déduction demandée concernant le téléphone cellulaire pour le travail fourni à l’appelant par Sutton Realty avait été accordée à 100 %.
+[19] La déduction demandée concernant le Réseau Sans-fil de Rogers a été refusée pour trois des quatre lignes téléphoniques pour cause d’absence de documents corroborant le fait que les trois numéros de téléphone cellulaire étaient inscrits dans l’annonce de l’appelant en tant que numéros de téléphone auxquels on pouvait l’appeler.
+[20] La déduction par l’appelant concernant les services de câblodistribution de Shaw a été refusée, parce que les services de télévision fournis (service de câble de base avec un rehaussement au niveau trois, des fonctions numériques, Movie Central et des services de télévision à la carte) n’étaient pas liés aux activités commerciales de l’appelant. Celui‑ci a expliqué que les services de câblodistribution de Shaw comprenaient un ensemble de services (Internet haute vitesse et télévision), et qu’il n’avait d’autre choix que de les prendre tous ensemble.
+[21] La déduction demandée concernant des frais de médicament, quelle que soit la raison pour laquelle ces médicaments ont été pris, a été refusée, parce que les frais ont été considérés comme étant de nature personnelle plutôt que professionnelle. L’appelant a précisé qu’il prenait le médicament expérimental chaque jour de travail pour qu’il puisse l’aider à se concentrer.
+Déduction pour amortissement et fraction non amortie du coût en capital (« FNACC »)
+[22] La déduction demandée par l’appelant concernant les frais supportés de 2002 à 2005 pour du matériel informatique a été refusée dans le calcul du solde de clôture de la FNACC de 2006 pour la catégorie 10 et pour la catégorie 45, parce que l’appelant n’avait pas fourni de documents étayant les achats et la déductibilité des actifs déclarés au cours de cette période. L’ARC a estimé qu’il était déraisonnable d’acheter cinq ordinateurs en quatre ans, étant donné que l’appelant était agent immobilier. Celui‑ci a expliqué que l’ordinateur portatif Mac ajouté à la classe 45 en 2005 avait été acheté à l’Université de Toronto par le fils de l’appelant pour le compte de ce dernier, au moyen d’un programme qui n’était offert qu’à des étudiants de l’université. L’appelant n’a produit aucun élément de preuve démontrant qu’il avait acheté l’ordinateur de son fils.
+Analyse
+[23] Les dispositions de la Loi applicables en l’espèce sont les suivantes :
+9 (1) Revenu — Sous réserve des autres dispositions de la présente partie, le revenu qu’un contribuable tire d’une entreprise ou d’un bien pour une année d’imposition est le bénéfice qu’il en tire pour cette année.
+(2) Perte — Sous réserve de l’article 31, la perte subie par un contribuable au cours d’une année d’imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l’année relativement à cette entreprise ou à ce bien, calculée par l’application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+18(1) Exceptions d’ordre général — Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale — les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+b) Dépense ou perte en capital — une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[...]
+h) Frais personnels ou de subsistance — le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+[...]
+20(1) Déductions admises dans le calcul du revenu tiré d’une entreprise ou d’un bien — Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+a) Coût en capital des biens [DPA] — la partie du coût en capital des biens supporté par le contribuable ou le montant au titre de ce coût ainsi supporté que le règlement autorise;
+[...]
+67 Restriction générale relative aux dépenses — Dans le calcul du revenu, aucune déduction ne peut être faite relativement à une dépense à l’égard de laquelle une somme est déductible par ailleurs en vertu de la présente loi, sauf dans la mesure où cette dépense était raisonnable dans les circonstances.
+67.1(1) Frais de représentation — Sous réserve du paragraphe (1.1), pour l’application de la présente loi, sauf les articles 62, 63, 118.01 et 118.2, la somme payée ou payable pour des aliments, des boissons ou des divertissements pris par des personnes est reputée correspondre à 50 % de la moins élevée des sommes suivantes :
+a) la somme réellement payée ou à payer;
+b) la somme qui serait raisonnable dans les circonstances.
+230(1) Livres comptables et registres — Quiconque exploite une entreprise et quiconque est obligé, par ou selon la présente loi, de payer ou de percevoir des impôts ou autres montants doit tenir des registres et des livres de comptes (y compris un inventaire annuel, selon les modalités réglementaires) à son lieu d’affaires ou de résidence au Canada ou à tout autre lieu que le ministre peut désigner, dans la forme et renfermant les renseignements qui permettent d’établir le montant des impôts payables en vertu de la présente loi, ou des impôts ou autres sommes qui auraient dû être déduites, retenues ou perçues.
+248(1) Définitions — Les définitions qui suivent s’appliquent à la présente loi.
+« frais personnels ou de subsistance » Sont compris parmi les frais personnels ou de subsistance :
+a) les dépenses inhérentes aux biens entretenus par toute personne pour l’usage ou l’avantage du contribuable ou de toute personne unie à ce dernier par les liens du sang, du mariage, de l’union de fait ou de l’adoption, et non entretenus dans le but ou avec l’espoir raisonnable de tirer un profit de l’exploitation d’une entreprise;
+b) les dépenses, primes ou autres frais afférents à une police d’assurance, un contrat de rentes ou à d’autres contrats de ce genre, si le produit de la police ou du contrat est payable au contribuable ou à une personne unie à lui par les liens du sang, du mariage, de l’union de fait ou de l’adoption, ou au profit du contribuable ou de cette personne;
+c) les dépenses inhérentes aux biens entretenus par une succession ou une fiducie au profit du contribuable à titre de bénéficiaire.
+[24] Une dépense n’est déductible dans le calcul du revenu d’un contribuable que si elle a été engagée en vue de produire un revenu. Selon la restriction générale prévue à l’alinéa 18(1)a) de la Loi, le contribuable doit avoir engagé ou effectué la dépense en vue de tirer un revenu de l’entreprise à laquelle il se consacre.
+[25] Selon l’alinéa 18(1)h) de la Loi, les « frais personnels ou de subsistance » ne sont pas déductibles par le contribuable dans le calcul de son revenu tiré d’une entreprise. Toutefois, la restriction prévue à l’alinéa 18(1)h) de la Loi ne couvre pas les frais de déplacement engagés par le contribuable dans le cadre de son entreprise pendant qu’il était absent de chez lui.
+[26] Pour établir l’objet d’une dépense, il faut examiner la raison principale pour laquelle le contribuable engage la dépense. Il existe une distinction importante entre les dépenses qui sont engagées principalement à des fins personnelles et les dépenses engagées principalement en vue de gagner un revenu, mais pour lesquelles les éléments personnels ne sont qu’accessoires ou secondaires.
+[27] En l’espèce, ce n’est pas l’existence d’une source de revenus qui est en cause, mais plutôt le lien entre les dépenses et la source à laquelle elles sont censées se rapporter.
+[28] La majorité des dépenses que l’appelant a déduites, en l’espèce, pouvaient être décrites comme étant limites, parce qu’elles comportent un élément personnel important et que l’appelant ou les membres de sa famille avaient reçu un avantage économique.
+Frais de publicité
+[29] La preuve documentaire produite par l’appelant à l’audience concerne le renouvellement d’une entente de publicité de 36 mois dans l’éditorial du Real Estate Today publié par Black Press. Un coût unique de 1 000 $ (plus taxe) a été facturé à l’appelant et a été inclus dans le report de 2004. Le montant de 1 070,38 $ a été payé en juillet 2006, en plus du paiement de 3 659,36 $ fait en 2006. Contrairement à la conclusion de l’ARC, le paiement de 1 070,38 $ n’a pas été inclus dans la déduction de 2 890 $ demandée pour 2004, parce que l’appelant utilisait la comptabilité de caisse pour déduire ses dépenses au cours de ces années‑là. Ces dépenses devraient être déductibles dans le calcul du revenu d’entreprise de l’appelant.
+Frais d’intérêts et frais bancaires
+[30] En 2006, l’appelant a déduit 4 720,96 $ en tant que frais d’intérêts, et l’ARC a effectué les rajustements suivants, totalisant 3 487 $ :
+Marge de crédit à la caisse populaire Island Savings = 546 $ (70 % du montant déduit)
+Carte de crédit Mastercard de la BMO = 1 149 $ (88 % du montant déduit)
+Banque Royale = 200 $
+Prêt d’Evans 2 = 1 592 $
+[31] Le compte de la marge de crédit à la caisse populaire Island Savings et le compte de la carte de crédit Mastercard de la BMO de l’appelant comportaient une combinaison de dépenses personnelles et de dépenses d’entreprise. Le vérificateur de l’ARC a examiné un échantillon de relevés des deux comptes susmentionnés pour une période de trois mois, et a précisé pour chaque opération de dépense s’il s’agissait d’une opération de nature personnelle ou professionnelle ou d’une opération mixte. Il a ensuite additionné les montants des dépenses considérées comme étant de nature personnelle et la moitié des montants des dépenses considérées comme étant mixtes, et a divisé le total obtenu par le total des dépenses figurant sur les relevés. Il a par la suite pris la moyenne de l’échantillon de trois mois et l’a utilisée pour calculer le pourcentage qui devrait être attribué à l’usage personnel pour l’année. Selon ces calculs, 70 % des opérations effectuées au moyen de la marge de crédit à la caisse populaire Island Savings et 88 % des opérations effectuées au moyen de la carte de crédit Mastercard de la BMO ont été considérées comme étant des dépenses de nature personnelle. La déduction demandée pour ces dépenses a donc été refusée.
+[32] La déduction demandée concernant le paiement de 200 $ fait à la Banque Royale en 2006 a été refusée, parce que la facture qui renvoie à l’état de coûts ne donne aucune précision quant à la nature du montant que l’appelant devait payer à la Banque Royale. On ne connaissait pas la portion des intérêts sur ce paiement.
+[33] La déduction demandée concernant tous les paiements effectués sous la rubrique Prêt d’Evans 2 a été refusée, parce que l’appelant n’a fourni à l’ARC aucun document corroborant que le prêt en question concernait l’entreprise et démontrant la portion des intérêts y afférents.
+[34] À mon avis, les frais d’intérêts susmentionnés ne sont pas déductibles dans le calcul du revenu d’entreprise de l’appelant.
+Frais afférents à un véhicule à moteur
+[35] En 2006, l’appelant a déduit 8 871,52 $ en tant que frais afférents à un véhicule à moteur. L’ARC a rejeté la déduction demandée concernant les frais suivants :
+Intérêts
+3 267,73 $
+Réparations et entretien
+311,66 $
+Frais de stationnement
+419,28 $
+Portion personnelle (25 %)
+1 227, 94 $
+Dépenses refusées
+5 226,61 $
+[36] À mon avis, les frais afférents au véhicule à moteur déduits par l’appelant ne sont pas déductibles dans le calcul de son revenu d’entreprise pour les motifs exposés aux paragraphes 13, 14 et 15.
+Frais de déplacement
+[37] En 2006, l’appelant a demandé une déduction de 6 778,48 $ et, de ce total, l’ARC en a refusé 6 026 $. Comme je l’ai expliqué aux paragraphes 16 et 17, les frais dont la déduction a été refusée ont été supportés à des fins personnelles et, par conséquent, ils ne sont pas déductibles à titre de dépenses d’entreprise.
+Frais de bureau, frais de téléphone et autres frais
+[38] En 2006, l’appelant a demandé une déduction totale de 7 295,02 $, de la manière suivante :
+Frais de bureau
+847,63 $
+Frais de téléphone
+2 245,76 $
+Autres frais
+4 201,63 $
+[39] L’ARC a refusé la déduction de 4 779 $ demandée concernant les frais suivants :
+Frais de bureau (matériel et fournitures, commercialisation et promotion)
+2 159,51 $
+Frais de communication de données (Shaw)
+766,02 $
+Frais de téléphone (Telus)
+554,09 $
+Frais de téléphone (Rogers)
+816,43 $
+Frais de médicaments
+482,93 $
+[40] La déduction demandée concernant les frais de bureau a été refusée, parce que l’appelant n’a pas fourni suffisamment de renseignements pour établir que les 27 articles inclus sous cette rubrique se rapportaient aux activités de l’entreprise. Aucun autre élément de preuve n’a été fourni au cours de l’audience du présent appel.
+[41] Pour ce qui est des téléphones cellulaires de Rogers, l’appelant a admis que ses enfants les utilisaient.
+[42] Concernant les factures de Telus, il est ressorti de la vérification que les montants déduits comprenaient aussi bien les frais pour la ligne téléphonique résidentielle que les frais pour la ligne téléphonique du bureau. L’ARC a considéré que les frais pour la ligne résidentielle étaient des dépenses personnelles. Compte tenu de la facture datée du 14 mai 2006, l’utilisation personnelle a été établie à 39 %. Ce pourcentage a été appliqué à toutes les factures de Telus pour l’année.
+[43] Étant donné que les montants déduits relativement aux factures de Shaw incluaient aussi bien des frais pour des services de câble que des frais pour Internet, l’ARC a accepté la demande de déduction de tous les montants concernant les services Internet et a refusé celle concernant les montants liés à des services de câble et à des services numériques qu’elle a qualifiés de dépenses personnelles. Étant donné que les frais totaux ont été groupés et réduits, le pourcentage des factures lié à l’usage personnel devait être calculé. En fonction des factures pour 2005, l’ARC a utilisé le même pourcentage (55 %) qui avait été calculé en ce qui concerne le montant de l’utilisation personnelle en 2005.
+[44] Pour les motifs exposés aux paragraphes 18 à 21 et 39 à 42, les frais figurant sous cette rubrique ne sont pas déductibles dans le calcul du revenu d’entreprise de l’appelant.
+Déduction pour amortissement et fraction non amortie du coût en capital
+[45] Étant donné qu’aucun autre document à l’appui n’a été produit à l’audience pour justifier l’achat de cinq ordinateurs en quatre ans et leur utilisation dans les activités commerciales de l’appelant, les montants qui doivent être inclus dans le calcul du solde de clôture de la FNACC de 2006 pour la catégorie 10 (11 332,29 $ + 3 556,02 $ concernant un écart non déterminé) et pour la catégorie 45 (2 049,76 $) n’ont pas été admis.
+Conclusion
+[46] Pour les motifs exposés ci‑dessus, l’appel est accueilli, et la nouvelle cotisation est déférée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que le paiement de 1 070,38 $ fait à Black Press en 2006 relativement à des frais de publicité de 2004 doit être admis comme frais déductibles dans le calcul du revenu d’entreprise de l’appelant.
+Signé à Ottawa, Canada, ce 28e jour de janvier 2014.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 13e jour de mars 2014.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE : 2014 CCI 28
+No DU DOSSIER DE LA COUR : 2012-911(IT)I
+INTITULÉ : Lyle Braithwaite c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Nanaimo (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 19 mars 2013
+MOTIFS DU JUGEMENT : L’honorable juge Réal Favreau
+DATE DU JUGEMENT : Le 28 janvier 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Rob Whittaker
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

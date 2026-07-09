@@ -1,0 +1,170 @@
+Title: Pauwels c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29100/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-95-29100-pauwels-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-02-12
+
+# Pauwels c. La Reine
+
+- Citation: 2009 CCI 95
+- Decision date: 2009-02-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6663, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pauwels c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-12
+Référence neutre
+2009 CCI 95
+Numéro de dossier
+2006-3672(GST)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-3672(GST)I
+ENTRE :
+JACK PAUWELS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 juin 2008, à Hamilton (Ontario).
+Devant : L’honorable juge M.A. Mogan
+Comparutions :
+Avocate de l’appelant :
+Me Rebecca L. Grima
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 9 février 2006, pour la période allant du 1er janvier 2001 au 31 décembre 2004, est accueilli et la cotisation est annulée.
+Signé à Ottawa, Canada, ce 12e jour de février 2009.
+« M.A. Mogan »
+Juge suppléant M.A. Mogan
+Traduction certifiée conforme
+ce 26e jour de mars 2009.
+D. Laberge, LL.L.
+Référence : 2009 CCI 95
+Date : 20090212
+Dossier : 2006-3672(GST)I
+ENTRE :
+JACK PAUWELS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Mogan
+[1] Il s’agit d’un appel d’une cotisation établie en vertu des dispositions relatives à la taxe sur les produits et services (la « TPS ») de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E‑15 (la « Loi »). La période visée par l’appel s’étend sur quatre années civiles, du 1er janvier 2001 au 31 décembre 2004. Au début de l’audience, les parties ont déposé un recueil conjoint de documents renfermant 33 documents distincts, chacun étant marqué d’un onglet. Sur consentement, les documents ont été produits sous les cotes 1 à 33 respectivement.
+[2] Les pièces 1, 8, 15 et 23 sont les déclarations de revenus T1 générale de l’appelant pour les années d’imposition 2001, 2002, 2003 et 2004 respectivement. Au cours de chacune de ces quatre années d’imposition, l’appelant a inscrit, à la ligne 166, un montant qui est appelé, dans la déclaration, « revenus de commissions ». Les quatre montants variaient de 147 000 à 187 000 $. Étant donné que les montants étaient si clairement appelés des « revenus de commissions » dans les déclarations de revenus, l’Agence du revenu du Canada (l’« ARC ») a établi une cotisation relative à la TPS sur ces montants au titre de commissions reçues pour services rendus.
+[3] L’appelant affirme ne jamais avoir touché de commissions au cours de la période visée par l’appel. Il déclare : (i) qu’il avait conclu un contrat avec une agence de voyages particulière; (ii) qu’étant donné qu’il possédait de l’expérience dans les milieux universitaires, il organisait des circuits touristiques à l’étranger dans des endroits présentant un intérêt éducatif et il assurait la promotion de ces circuits; (iii) que l’agence se chargeait de prendre toutes les dispositions nécessaires pour les clients qui effectuaient ces circuits; (iv) qu’il accompagnait souvent lui‑même le groupe de voyageurs; (v) que l’agence et lui‑même partageaient en parts égales, à titre d’associés, tout bénéfice ou toute perte résultant d’un circuit. L’appelant affirme fondamentalement que les montants appelés « revenus de commissions », dans ses déclarations de revenus, représentaient en fait une accumulation de sa part des bénéfices nets tirés des circuits que l’agence et lui‑même organisaient dans le cadre d’une société de personnes au cours d’une année particulière.
+[4] Dans la langue des affaires, il s’agit de savoir si l’appelant était un vendeur à commission qui était tenu de percevoir et de verser la TPS sur les commissions qu’il touchait ou s’il était un associé dans diverses opérations (à savoir les circuits touristiques), qui partageait les bénéfices ou les pertes selon les circonstances de chaque opération.
+[5] En termes juridiques, la question en litige est tranchée à l’aide de la législation sur la TPS. Le paragraphe 123(1) renferme de nombreuses définitions, mais celles qui sont ci‑après énoncées sont fondamentales :
+123(1) Les définitions qui suivent s’appliquent à l’article 121, à la présente partie et aux annexes V à X.
+[...]
+« fourniture » Sous réserve des articles 133 et 134, livraison de biens ou prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation.
+« fourniture taxable » Fourniture effectuée dans le cadre d’une activité commerciale.
+165(1) Sous réserve des autres dispositions de la présente partie, l’acquéreur d’une fourniture taxable effectuée au Canada est tenu de payer à Sa Majesté du chef du Canada une taxe calculée au taux de 7 % sur la valeur de la contrepartie de la fourniture.
+221(1) La personne qui effectue une fourniture taxable doit, à titre de mandataire de Sa Majesté du chef du Canada, percevoir la taxe payable par l’acquéreur en vertu de la section II.
+Eu égard aux dispositions précitées, il s’agit de savoir si les montants en question ont été versés à l’appelant à l’égard de fournitures taxables effectuées au profit de l’agence de voyages.
+[6] La preuve et l’argumentation ont été présentées compte tenu du fait que, si l’appelant a reçu les montants en question à titre d’associé de l’agence de voyages, il n’existe aucune obligation de percevoir ou de verser la TPS sur ces montants. Par contre, si les montants en question ont été reçus au titre de commissions pour services rendus à l’agence de voyages, l’appelant devait percevoir la TPS sur ces montants et la verser.
+La preuve
+[7] L’appelant est arrivé au Canada en 1969, en provenance de la Belgique, lorsqu’il avait 23 ans. Il est historien. Depuis son arrivée au Canada, il a obtenu un doctorat en histoire de l’Université York ainsi qu’une maîtrise et un doctorat en sciences politiques de l’Université de Toronto. Au fil des ans, il a enseigné l’histoire à titre de chargé de cours dans les cinq universités ontariennes suivantes : York, Toronto, Guelph, Waterloo et Western. À cause de circonstances sur lesquelles nous reviendrons ci‑dessous, l’appelant a cessé d’enseigner vers l’année 1990. Il a écrit six livres sur des sujets historiques comme la Seconde Guerre mondiale et l’histoire des pays de l’OTAN. La plupart de ses écrits sont postérieurs à l’année 1990.
+[8] Le frère de l’appelant, Norbert Pauwels, avait ouvert une agence de voyages à Brantford (Ontario), sous le nom « Pauwels Travel Bureau Limited », appelée l’« agence de voyages » dans les présents motifs. Au cours des années 1970, pendant qu’il étudiait et qu’il était chargé de cours, l’appelant travaillait à temps partiel comme employé salarié de l’agence de voyages. Au cours des années 1980, l’appelant a commencé à planifier et à organiser des circuits touristiques à l’étranger, dans les endroits présentant un intérêt historique où il pouvait lui‑même servir de guide. Étant donné qu’il ne détenait aucun permis l’autorisant à exploiter une agence de voyages, l’appelant a demandé à son frère de faire en sorte que l’agence de voyages prenne toutes les dispositions nécessaires pour les clients qui effectuaient les circuits qu’il planifiait.
+[9] L’appelant utilisait son poste de chargé de cours (histoire) pour recruter des étudiants, des enseignants et d’autres personnes qui aimeraient peut‑être voir des endroits d’intérêt historique. L’appelant parle l’anglais, l’italien, l’espagnol et le flamand (et un peu de hollandais et d’allemand). Il connaît également le grec et le latin. Compte tenu de ses compétences linguistiques, il peut souvent servir lui‑même de guide touristique. Il n’organise pas de voyages au Royaume‑Uni ou en Israël parce qu’un trop grand nombre d’autres agences offrent des voyages ou des circuits dans ces deux pays. De plus, il n’organise pas de voyages vers des destinations qui n’ont que la plage, le surf et les palmiers à offrir. Seuls les voyages éducatifs ou culturels l’intéressent.
+[10] Lorsque l’appelant a commencé à planifier et à organiser ses propres circuits touristiques, au cours des années 1980, et qu’il a demandé à son frère de faire en sorte que l’agence de voyages prenne toutes les dispositions nécessaires, son frère et lui‑même se sont entendus pour que chaque circuit constitue une entreprise ou un centre de profit distinct et que l’agence de voyages et lui‑même partagent en parts égales les bénéfices ou les pertes résultant de chaque circuit. Aucun contrat de société de personnes n’a été conclu par écrit entre l’appelant et l’agence de voyages, mais il existe énormément de témoignages oraux et d’éléments de preuve documentaire établissant que les bénéfices et les pertes étaient partagés en parts égales. Cette preuve est décrite ci‑dessous, aux paragraphes 16 et suivants.
+[11] Au cours des années 1970 et 1980, l’appelant effectuait des études de cycle supérieur ou il travaillait comme chargé de cours dans diverses universités de l’Ontario. Au cours des années 1980, il a commencé, dans ses moments de loisir, à organiser chaque année deux ou trois circuits d’intérêt historique en ayant recours à l’entreprise de son frère, l’agence de voyages, pour qu’elle prenne les dispositions nécessaires pour le voyage. C’est à ce moment‑là qu’a commencé le partage des bénéfices en parts égales entre l’appelant et l’agence de voyages. En même temps, l’appelant s’était créé une clientèle dans les collèges, dans les écoles et auprès des personnes que les circuits à caractère historique intéressaient.
+[12] En 1990, le frère de l’appelant (Norbert) est décédé. La veuve de Norbert, Bertha, ne possédait pas suffisamment d’expérience pour gérer l’agence de voyages, et leur fille, Sandra, était trop jeune pour la gérer. Vers les années 1990, certaines universités de l’Ontario ont réduit leurs effectifs, de sorte que l’appelant a cessé d’enseigner. Il a commencé à participer plus activement à l’exploitation de l’agence de voyages, mais il n’en est pas devenu propriétaire; il n’était pas non plus dirigeant ou administrateur de la société.
+[13] Avant 1990, l’appelant organisait chaque année seulement deux ou trois circuits pour lesquels il était accompagnateur. Après 1990, lorsqu’il a cessé d’enseigner, l’appelant organisait chaque année six ou sept circuits et servait d’accompagnateur. De plus, il a élargi sa clientèle dans les écoles et dans les collèges de l’Ontario; il a établi plus de relations avec des hôtels et des services de transport par autocar, à l’étranger. Depuis 1999, il organise chaque année une vingtaine de circuits, mais il sert de guide pour quelques circuits seulement. Pendant la période pertinente, du début des années 1980 jusqu’à l’année 2004 (la dernière année civile visée par l’appel), la même entente concernant le partage des bénéfices en parts égales est en vigueur entre l’appelant et l’agence de voyages. Le décès de Norbert, en 1990, n’a pas influé sur cette entente, même si l’appelant a commencé à participer plus activement à l’exploitation de l’agence de voyages au début des années 1990.
+[14] Trois personnes ont témoigné pour le compte de l’appelant : l’appelant lui‑même, William Hyde et Sandra Pauwels. M. Hyde est comptable agréé dans un cabinet privé; c’est lui qui prépare les états financiers de la société (les commentaires de l’expert‑comptable) pour l’agence de voyages depuis 1982. Il prépare également les états de l’agence de voyages à l’intention de l’International Association of Travel Agents (l’« IATA ») et du Travel Industry Council of Ontario (le « TICO »). M. Hyde prépare les déclarations de revenus de l’appelant depuis 1991.
+[15] Sandra Pauwels est maintenant directrice de l’agence de voyages, où elle a commencé à travailler vers 1983 lorsqu’elle était étudiante et qu’elle s’occupait des voyages au détail. Elle a étudié dans un collège communautaire, dans le domaine du tourisme et des voyages, et elle est ensuite retournée travailler à l’agence de voyages tant qu’elle n’a pas acquis suffisamment d’expérience pour exercer les fonctions de directrice.
+[16] La pièce 21 est un document de trois pages que l’appelant a passé en revue à l’audience. Ce document indique les modalités de partage des bénéfices. Chacun des circuits de l’appelant fait l’objet d’un compte distinct dans les livres et registres de l’agence de voyages puisque chaque circuit est considéré comme un centre de profit. La pièce 21 est le compte se rapportant à un circuit appelé « European Primavera ». Des recettes de 123 599,46 $ et des dépenses de 94 794,63 $ y sont inscrites, ce qui donne un bénéfice de 28 804,83 $. Le bénéfice est rajusté à la baisse d’un montant de 623,70 $ pour une dépense que l’appelant a engagée en espèces (désignée dans les documents comme se rapportant à « Jack »), ce qui donne un bénéfice net de 28 181,13 $.
+[17] Dans la pièce 21, un montant de 14 090,57 $ est attribué à l’appelant au titre du bénéfice net, et un montant identique est attribué à l’agence de voyages, au 30 juin 2003. La pièce 16 est le propre sommaire des résultats de l’appelant pour l’année 2003. Sous la rubrique : [traduction] « Commissions relatives aux circuits », au milieu de la liste, figure le poste : « Primavera Bay of Biscay », avec le montant de 14 090,57 $. Ce montant représente le bénéfice de 50 p. 100 que l’appelant a tiré du circuit, pièce 21. Les soi‑disant [traduction] « commissions relatives aux circuits », dans la pièce 16, s’élèvent en tout à 169 551,09 $, moins des pertes de 1 644,45 $, de sorte que le montant net est de 167 886,64 $. L’appelant a ajouté des droits d’auteur et des honoraires de conférencier de 2 300 $, ce qui a donné, en 2003, un chiffre global de 170 186,64 $ au titre des recettes.
+[18] La pièce 15 est une copie de la déclaration de revenus de 2003 de l’appelant. À la page 2 de la pièce 15, après la ligne 130, il y a cinq types différents de « revenus d’un travail indépendant » : revenus d’entreprise, revenus de profession libérale, revenus de commissions, revenus d’agriculture et revenus de pêche. À la ligne 166, l’appelant a inscrit le montant de 170 186,64 $ au titre des « revenus de commissions » même si ce montant comprenait de petits montants reçus pour des droits d’auteur (2 000 $) et pour des honoraires de conférencier (300 $). Au cours du contre‑interrogatoire et de l’argumentation, l’avocat de l’intimée, en se reportant à la ligne 166, a affirmé que l’appelant avait admis la nature de son revenu. J’ai certaines réserves à faire à ce sujet.
+[19] Dans son témoignage, l’appelant a signalé qu’il partageait en parts égales les bénéfices et les pertes résultant des circuits qu’il organisait. Dans la pièce 16, l’appelant énumère quatre circuits qui avaient occasionné des pertes, au montant global de 1 664,45 $. Une perte pouvait se produire de différentes façons, mais les pertes résultaient souvent d’acomptes qui étaient perdus. En effet, l’agence de voyages était obligée de verser un acompte pour réserver des billets d’avion ou des chambres d’hôtel. Or, si un client changeait d’idée à la dernière minute, ou en cas de troubles politiques et d’annulation du voyage, les acomptes étaient en totalité ou en partie perdus. L’appelant était tenu de payer 50 p. 100 de tout montant ainsi perdu pour un voyage qu’il avait organisé.
+[20] La publicité pour les circuits organisés par l’appelant était faite au nom de l’agence de voyages et ne révélait pas qu’il avait été convenu de partager en parts égales les bénéfices et les pertes. Seule l’agence de voyages est autorisée à exploiter une agence de voyages et elle seule est membre de l’IATA et du TICO. Dans certains cas, l’entente de parts égales conclue avec l’agence de voyages donnait lieu à des rajustements. L’appelant a donné deux exemples, pièce 2, qui est une liste de ses recettes pour l’année 2001. En premier lieu, la pièce 2 indique des recettes de 5 636,89 $ provenant d’un circuit appelé « Isabel Wilkes Italy Tour ». L’appelant a expliqué que les bénéfices tirés de ce circuit étaient partagés en trois : un tiers lui revenait, un tiers revenait à l’agence de voyages et un tiers revenait à Michael Quinn, qui n’a pas été identifié de quelque autre façon. En second lieu, la pièce 2 indique des recettes de 5 000 $ provenant d’un circuit appelé « Waterways of Russia ». L’appelant a déclaré que le montant de 5 000 $ qui lui revenait était inférieur aux 50 p. 100 des bénéfices parce que sa contribution à ce circuit était inférieure à sa contribution normale. Il a accepté de recevoir un montant fixe de 5 000 $, soit un montant représentant moins de 50 p. 100.
+[21] La deuxième page de la pièce 2 indique certaines dépenses que l’appelant a engagées pour des circuits qu’il a organisés en 2001. Les postes en caractères gras se rapportent à des montants que l’appelant partageait en parts égales avec l’agence de voyages. Les postes qui ne sont pas en caractères gras se rapportent à des montants que seul l’appelant a payés. Le dernier poste se rapportait à un prix de langue que l’appelant avait offert à une école locale (près de Brantford), mais qu’il avait payé au nom de l’agence de voyages. L’appelant avait également payé la cotisation de membre de l’agence de voyages à l’Association de la collectivité belge de Toronto.
+[22] La pièce 9 est une liste des recettes de l’appelant pour l’année 2002. La plupart des montants, sous la rubrique : [traduction] « Commissions relatives aux circuits », représentent la part de 50 p. 100 des bénéfices auxquels l’appelant avait droit selon l’entente conclue avec l’agence de voyages. Toutefois, deux montants représentent des paiements fixes de 5 000 $ se rapportant à des voyages appelés « Allen Toff Spain » et « Tunisia ». L’appelant a accepté de recevoir ces deux montants fixes, qui étaient inférieurs aux 50 p. 100 habituels, parce que sa contribution à ces deux voyages avait été inférieure à sa contribution normale. De plus, le montant de 6 073,80 $ se rattachant au « Isabel Wilkes France Tour » ne représentait que le tiers du bénéfice parce que Michael Quinn avait reçu un tiers des bénéfices.
+[23] La pièce 9 montre également le genre de pertes, aux termes de l’entente de parts égales, que l’appelant est tenu de supporter. Il y a cinq genres de pertes, s’élevant en tout à 3 471,20 $, et trois d’entre elles résultent de voyages annulés. Si l’on soustrait les cinq montants associés à des pertes des 22 montants se rattachant à des voyages rentables, l’appelant avait touché des [traduction] « commissions nettes » de 155 470,32 $. L’appelant a déclaré que le mot « commission » est un terme d’usage courant dans le secteur des voyages parce qu’il s’applique à un grand nombre d’indemnités différentes.
+[24] Lorsqu’il a été contre‑interrogé, l’appelant a reconnu avoir lui‑même préparé les documents relatifs aux [traduction] « recettes », produits sous les cotes 2, 9, 16 et 24, en employant le mot [traduction] « commission » pour désigner son revenu d’entreprise net. Il a également joint à ses déclarations de revenus un formulaire T2124 de l’ARC intitulé : « État des résultats des activités d’une entreprise » afin de déclarer les dépenses qu’il avait lui‑même payées, mais qu’il ne pouvait pas imputer à l’entente de parts égales qu’il avait conclue avec l’agence de voyages. Or, les formulaires T2124 n’indiquaient pas que l’appelant exerçait ses activités d’entreprise avec un associé. À mon avis, il n’était pas pertinent ni nécessaire de faire état de l’entente de parts égales conclue avec l’agence de voyages dans les formulaires T2124 de l’ARC parce que ces formulaires, qui étaient joints aux déclarations de revenus de l’appelant, visaient uniquement à indiquer les dépenses d’entreprise de l’appelant, indépendamment de celles de l’agence de voyages.
+[25] Lorsqu’il a été contre‑interrogé, l’appelant a déclaré que ses circuits constituaient chacun un tout. Il a parlé d’une société en nom collectif ad hoc en parts égales pour chacun de ses circuits, mais il a affirmé avec insistance qu’il n’était pas associé d’une façon continue à 50 p. 100 avec l’agence de voyages dans l’entreprise exploitée par celle‑ci. Les circuits de l’appelant étaient annoncés et organisés sous le nom de l’agence de voyages parce qu’elle détenait un permis et qu’elle était membre de l’IATA et du TICO. D’autre part, les voyages de l’appelant ne se seraient jamais matérialisés si l’appelant n’avait pas eu les relations nécessaires dans les milieux de l’enseignement pour recruter des étudiants, des enseignants, des écoles et des collèges que les circuits à caractère historique intéressaient. La profession de professeur d’histoire de l’appelant était la pierre angulaire des activités auxquelles il se livrait avec l’agence de voyages.
+[26] Le comptable, M. Hyde, a confirmé que l’agence de voyages établissait un compte distinct pour chacun des circuits de l’appelant et que chaque circuit était considéré comme un centre de profit distinct. L’appelant avait un compte ouvert auprès de l’Agence de voyages. La part de 50 p. 100 des bénéfices qui lui revenait pour chacun de ses circuits était portée au crédit de son compte ouvert. De même, toute perte enregistrée pour l’un de ses circuits était divisée en deux et la moitié de la perte était débitée de son compte ouvert. De temps à autre, l’agence de voyages émettait un chèque en faveur de l’appelant s’il y avait un solde créditeur dans le compte de celui‑ci.
+[27] M. Hyde s’est reporté à la pièce 32 comme exemple de l’entente de parts égales que l’appelant avait conclue avec l’agence de voyages. Ce document indiquait un bénéfice de 22 163,57 $ au mois de juin 2004, pour le circuit appelé « Oppel Sicily ». Ce montant a été partagé en parts égales et un montant de 11 081,79 $ a été porté au crédit du compte ouvert que l’appelant avait auprès de l’agence de voyages (pièce 33). De plus, le sommaire des résultats de 2004 (pièce 24) de l’appelant indiquait le même montant. La pièce 24 indique une seule perte de 150 $ se rapportant à un circuit appelé « McGill Spain ». Cette perte de 150 $ figure dans la balance de vérification (pièce 28) du compte ouvert de l’appelant pour la période allant du 1er juillet 2003 au 30 juin 2004. Le montant de 150 $ est une écriture débitrice (13 mai), à la page 3 de la pièce 28, et le bénéfice de 11 081,79 $ tiré du voyage appelé « Oppel Sicily » est une écriture créditrice (24 juin), à la page 4.
+[28] M. Hyde a parlé de la pièce 17, l’état des résultats et des bénéfices non répartis de l’agence de voyages pour les exercices ayant pris fin les 30 juin 2003 et 2004. Les recettes de 350 707 $ appelées [traduction] « commissions », pour l’année 2004, comprenaient tous les montants attribués à l’agence de voyages aux termes de l’entente de parts égales conclue avec l’appelant, plus les commissions régulières provenant des ventes au détail. M. Hyde a déclaré que le mot [traduction] « commission » est un terme générique employé à la légère dans le secteur des voyages.
+[29] À la page 2 des déclarations de revenus de l’appelant (pièces 1, 8, 15 et 23), les revenus d’un travail indépendant auraient pu être inscrits à la ligne 162 en tant que « revenus d’entreprise » tout aussi facilement qu’à la ligne 166, à titre de « revenus de commissions ». M. Hyde cherchait plutôt à s’assurer que les déclarations de revenus divulguent complètement tous les montants permettant de déterminer le revenu net. Il a reconnu la lettre qu’il avait envoyée le 8 novembre 2005 à l’ARC (pièce 29) au sujet de l’appelant, dans laquelle il protestait contre l’inscription de l’appelant pour la TPS. Il a également dit que les déclarations relatives à la TPS produites sous la cote 30 pour les années visées par l’appel avaient été produites sous toute réserve et qu’elles avaient toutes été produites tardivement, le 8 novembre 2005.
+[30] Sandra Pauwels a été la troisième personne à témoigner. Elle est actuellement directrice de l’agence de voyages; elle a parlé des deux divisions de l’agence : les voyages au détail et les voyages de groupe. La division des voyages au détail s’occupe principalement des clients qui arrivent à l’improviste. Les membres du personnel affectés aux ventes au détail touchent tous un salaire de base, plus des commissions. Aucune déduction n’est faite sur les montants qu’ils touchent lorsqu’un client qui se plaint est indemnisé. En d’autres termes, le personnel affecté aux ventes au détail ne courait aucun risque. Mme Pauwels a mentionné la pièce 14 comme exemple d’un circuit qui avait donné lieu à des pertes et pour lequel l’appelant (désigné sous le nom de « Jack ») s’était vu attribuer la moitié des pertes.
+[31] Mme Pauwels a déclaré que l’appelant était un précieux collaborateur à cause de ses vastes connaissances en histoire et parce qu’il comptait parmi ses clients des clients comme le Musée royal de l’Ontario, le Musée des beaux‑arts de l’Ontario et les anciens de diverses universités ontariennes. Il pouvait facilement promouvoir un voyage compte tenu de sa connaissance de l’histoire et des clients des milieux de l’enseignement. Mme Pauwels a déclaré que l’agence de voyages organisait chaque été un gros pique‑nique pour ses clients (et qu’il pouvait y avoir jusqu’à 300 invités) et que l’appelant payait toujours la moitié des frais à cause de l’entente de parts égales qu’il avait conclue à l’égard des circuits qu’il organisait.
+[32] On a renvoyé Sandra Pauwels à l’état des résultats des années 2001 et 2000 de l’agence de voyages (pièce 3). Mme Pauwels a expliqué que les dépenses appelées [traduction] « commissions » (6 469 $) représentaient le montant global versé à des tiers qui les mettaient en relation avec des clients, alors que les commissions versées aux employés étaient appelées des [traduction] « salaires » (288 722 $). Le montant des bénéfices attribués à l’appelant à l’égard de ses divers circuits ne figure pas au titre des [traduction] « dépenses » dans la pièce 3, parce que ces bénéfices proviennent de centres de profit en dehors des activités ordinaires de l’agence de voyages. La part des bénéfices revenant à l’appelant par suite des circuits qu’il a organisés est incluse dans les [traduction] « commissions » (482 380 $).
+[33] Depuis l’année 2001, l’agence de voyages conclut des ententes avec environ huit autres personnes qui, comme l’appelant, organisent des voyages. Chaque entente est conclue sur la base de parts égales, comme c’est le cas pour l’appelant. Mme Pauwels a dit que, si l’agence de voyages faisait enregistrer pour la TPS l’entente de parts égales qu’elle a conclue avec l’appelant, il faudrait également faire enregistrer, pour la TPS, les ententes similaires conclues avec environ huit autres personnes.
+[34] Les témoignages de William Hyde et de Sandra Pauwels corroboraient celui de l’appelant; les pièces documentaires corroboraient fondamentalement les trois témoignages. Même s’il est fait abstraction des documents, la preuve des trois témoins était fort crédible. L’intimée n’a cité aucun témoin.
+Analyse
+[35] Au paragraphe 7 de la réponse à l’avis d’appel, un fait important que le ministre du Revenu national a supposé, en établissant la cotisation visée par l’appel, est énoncé comme suit :
+[traduction]
+a) pendant la période pertinente, l’appelant était vendeur à commission pour Pauwels Travel Bureau Limited.
+Aux paragraphes 4, 5 et 6 ci‑dessus, la question en litige est énoncée comme consistant à savoir si l’appelant a reçu les montants en question au titre de commissions pour services rendus à l’agence de voyages. Pour les motifs ci‑dessous énoncés, je conclus que, pendant la période pertinente, l’appelant n’était pas vendeur à commission pour l’agence de voyages. Par contre, je conclus que l’appelant et l’agence de voyages avaient formé une société de personnes à l’égard des circuits à caractère historique et culturel que l’appelant organisait.
+[36] Au cours de l’argumentation, les avocats des deux parties ont cité la jurisprudence pertinente à l’appui de leurs positions respectives, mais à mon avis, l’issue de l’affaire dépend principalement des faits qui lui sont propres. Les dispositions pertinentes de la Loi sur les sociétés en nom collectif de l’Ontario sont les suivantes :
+2. La société en nom collectif est la relation qui existe entre des personnes qui exploitent une entreprise en commun en vue de réaliser un bénéfice.
+[...]
+3. Pour déterminer si une société en nom collectif existe ou non, il est tenu compte des règles suivantes :
+1. [...]
+2. [...]
+3. La réception par une personne d’une quote-part des bénéfices d’une entreprise constitue la preuve, en l’absence de preuve contraire, qu’elle est un associé dans cette entreprise. Toutefois, la réception d’une telle quote‑part ou d’un tel paiement qui dépend des bénéfices d’une entreprise ou qui varie suivant ces derniers ne fait pas, en soi, de cette personne un associé dans cette entreprise, et en particulier :
+a) [...]
+[37] L’examen des pièces 2, 9, 16 et 24 montre que l’appelant et l’agence de voyages ont organisé un grand nombre de voyages au cours de chacune des quatre années civiles visées par l’appel. Le tableau ci‑dessous indique le nombre de voyages rentables et de voyages non rentables organisés chaque année. Dans les « voyages non rentables », j’ai omis des acomptes d’un montant peu élevé qui ont été perdus pour des voyages qui n’ont jamais eu lieu.
+Nombre de voyages rentables
+Nombre de voyages non rentables
+2001
+16
+néant
+2002
+22
+2
+2003
+25
+2
+2004
+31
+néant
+[38] La part des bénéfices revenant chaque année à l’appelant sur les voyages mentionnés dans le tableau, au paragraphe 37, était de l’ordre de 147 000 à 187 000 $. L’agence de voyages a fait un bénéfice similaire par suite des mêmes voyages. Le nombre de voyages organisés par l’appelant et par l’agence de voyages ensemble et le montant des bénéfices tirés de ces voyages constituent une preuve très forte tendant à montrer que l’appelant et l’agence de voyages exploitaient une entreprise au cours de la période visée par l’appel.
+[39] L’appelant et Sandra Pauwels ont témoigné sous serment qu’ils (l’appelant et l’agence de voyages) partageaient les bénéfices tirés de leur entreprise sur la base de parts égales. Un grand nombre de pièces documentaires établissaient ce partage en parts égales des bénéfices. La preuve fournie par les trois témoins de l’appelant, qu’il s’agisse des témoignages oraux ou de la preuve documentaire, n’a pas été contredite. Comme il en a déjà été fait mention, les témoins étaient fort crédibles. En ce qui concerne les circuits à caractère historique et culturel que l’appelant a organisés, je conclus que l’appelant et l’agence de voyages exploitaient une entreprise en commun en vue de réaliser un bénéfice. En d’autres termes, je conclus à l’existence d’une société en nom collectif.
+[40] La preuve prima facie de la société en nom collectif qui découle du partage des bénéfices (dont il est fait mention à l’article 3 de la Loi sur les sociétés en nom collectif de l’Ontario) milite en faveur de l’appelant. De plus, la part des bénéfices revenant à l’appelant ne dépendait pas de la réalisation d’un bénéfice. De fait, l’appelant partageait les pertes.
+[41] À mon avis, il est malheureux que l’appelant ait déclaré sa part des bénéfices au titre de « revenus de commissions », à la ligne de 166 de ses déclarations de revenus. Ces montants auraient dû être déclarés en tant que « revenus d’entreprise », à la ligne 162. Il me semble que le mot « commissions », à la ligne 166, a aveuglé les fonctionnaires, à l’ARC, qui ont établi la cotisation visée par l’appel. L’appel sera accueilli.
+Signé à Ottawa, Canada, ce 12e jour de février 2009.
+« M.A. Mogan »
+Juge suppléant M.A. Mogan
+Traduction certifiée conforme
+ce 26e jour de mars 2009.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2009CCI95
+No DU DOSSIER DE LA COUR : 2006-3672(GST)I
+INTITULÉ : JACK PAUWELS
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Hamilton (Ontario)
+DATE DE L’AUDIENCE : Le 11 juin 2008
+MOTIFS DU JUGEMENT : L’honorable juge suppléant M.A. Mogan
+DATE DU JUGEMENT : Le 12 février 2009
+COMPARUTIONS :
+Avocate de l’appelant :
+Me Rebecca L. Grima
+Avocat de l’intimée :
+Me Hong Ky (Eric) Luu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Rebecca L. Grima
+Cabinet : Giffen et associés LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

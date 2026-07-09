@@ -1,0 +1,130 @@
+---
+title: "Dean Mazzariol c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29337/index.do"
+last_modified: "2009-03-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 169"
+citation2: ""
+neutral_citation: "2009 CCI 169"
+decision_date: "2009-03-10"
+language: "fr"
+item_id: "29337"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6985
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:05:30.919000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4c71625e01d37e421bafb808f33788461b740a1381ec44e7dd8d075e4dce648e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dean Mazzariol c. La Reine
+
+- Citation: 2009 CCI 169
+- Decision date: 2009-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6985, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dean Mazzariol c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-10
+Référence neutre
+2009 CCI 169
+Numéro de dossier
+2007-2783(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-2783(GST)I
+ENTRE :
+DEAN MAZZARIOL, ANTHONY BUCCELLA et LIDIA MAZZARIOL
+faisant affaire sous le nom de Mazcom Print,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 mars 2009, à Toronto (Ontario).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Représentante de l’appelante :
+Kay Bond
+Avocat de l’intimée :
+Me Ian Theil
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 18 mai 2006 et porte le numéro 05DP0125234, pour la période allant du 1er janvier 1994 au 31 décembre 2001, est rejeté conformément aux motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 24e jour de mars 2009.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 29e jour de juillet 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 169
+Date : 20090324
+Dossier : 2007-2783(GST)I
+ENTRE :
+DEAN MAZZARIOL, ANTHONY BUCCELLA et LIDIA MAZZARIOL
+faisant affaire sous le nom de Mazcom Print,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L’appelante interjette appel d’une cotisation datée du 18 mai 2006 pour la TPS non versée ainsi que pour les intérêts et les pénalités y afférents pour la période allant du 1er janvier 1994 au 31 décembre 2001.
+[2] L’appelante soutient que le ministre aurait dû renoncer aux pénalités et aux intérêts qui avaient été imposés parce qu’elle avait fait une divulgation volontaire au ministre en février 2004 à l’effet qu’elle devait payer de l’impôt. Le ministre a conclu qu’il ne pouvait pas renoncer aux pénalités et aux intérêts parce que la divulgation volontaire n’avait été faite qu’à l’égard d’un montant d’impôt dû en application de la Loi de l’impôt sur le revenu et qu’elle n’avait pas été faite « aux fins de la TPS ».
+[3] Il est clair que la Cour n’a pas compétence pour examiner l’exercice par le ministre du pouvoir discrétionnaire de renoncer à des pénalités ou à des intérêts que lui confère l’article 281.1 de la Loi sur la taxe d’accise. L’appel doit donc être rejeté.
+[4] Je suis toutefois convaincu que l’appelante voulait que la divulgation volontaire faite en février 2004 ait été effectuée aux fins de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise. Je recommande donc fortement que le ministre exerce son pouvoir discrétionnaire de renoncer aux pénalités et aux intérêts dans ce cas‑ci pour les périodes pour lesquelles il peut le faire.
+Signé à Ottawa, Canada, ce 24e jour de mars 2009.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 29e jour de juillet 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 169
+NO DU DOSSIER DE LA COUR : 2007-2783(GST)I
+INTITULÉ : DEAN MAZZARIOL, ANTHONY BUCCELLA et LIDIA MAZZARIOL faisant affaire sous le nom de Mazcom Print
+ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 10 mars 2009
+MOTIFS DU JUGEMENT : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 24 mars 2009
+COMPARUTIONS :
+Représentante de l’appelante :
+Kay Bond
+Avocat de l’intimée :
+Me Ian Theil
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

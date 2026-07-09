@@ -1,0 +1,171 @@
+---
+title: "Mélançon c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26415/index.do"
+last_modified: "2004-08-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 565"
+citation2: ""
+neutral_citation: "2004 TCC 565"
+decision_date: "2004-08-30"
+language: "en"
+item_id: "26415"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3197
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:06:34.223000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e1af7a4f0014fdda490d919e71321c49ca83466fdb6ea151b5cdc68582466c07"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mélançon c. M.R.N.
+
+- Citation: 2004 TCC 565
+- Decision date: 2004-08-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3197, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mélançon c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-08-30
+Neutral citation
+2004 TCC 565
+File numbers
+2004-931(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2004-931(EI)
+BETWEEN:
+PIERRE MÉLANÇON,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 9, 2004, at Percé, Quebec
+Before: The Honourable Judge Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Agathe Cavanagh
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed, and the decision by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 30th day of August 2004.
+"Paul Bédard"
+Bédard J.
+Certified true translation
+Colette Dupuis-Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2004TCC565
+Date: 20040830
+Docket: 2004-931(EI)
+BETWEEN:
+PIERRE MÉLANÇON,
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant is appealing from the decision of the Minister of National Revenue (the "Minister"), who contends that the Appellant did not hold insurable employment under a genuine contract of service within the meaning of paragraph 5(1)(a) of the Employment Insurance Act (the "Act") during the period in issue, from August 5 to October 11, 2002, with Primex 2000 Inc. (the "Payer").
+[2] The facts on which the Minister relied in making his decision are described in paragraph 5 of the Reply to the Notice of Appeal and are as follows:
+[TRANSLATION]
+(a) the Payer was incorporated on October 21, 1996;
+(b) Gaston Langlais was the majority shareholder of the Payer with 97 percent of the Payer's voting shares;
+(c) the Payer operated a wholesale live lobster buying and selling business over the 10 weeks that fishery lasts;
+(d) the Appellant claims that he worked as an advisor for the restart-up of the Payer's plant during the period in issue, whereas he did not do so;
+(e) there was no lobster fishery during the period in issue;
+(f) during the period in issue, the Appellant claims that he worked for the Payer every week, from Monday to Friday, from 8:30 a.m. to 5:00 p.m., whereas he in fact rendered only a few services of short duration and only occasionally to the Payer, and did so during and after the period in issue;
+(g) during the period in issue, the Appellant claims that he received gross remuneration of $750 a week, whereas neither the Appellant nor the Payer could provide evidence that the Appellant was in fact remunerated;
+(h) the Appellant claims that he was paid in cash by the Payer;
+(i) on October 18, 2002, the Payer issued a record of employment to the Appellant for the period starting on August 5, 2002, and ending on October 11, 2002, showing 350 insurable hours and total insurable earnings of $7,500;
+(j) the record of employment does not reflect the actual situation with respect to the period worked, the hours worked or the remuneration paid;
+(k) the Appellant needed 420 hours to qualify for employment insurance benefits and he accumulated only 225 insurable hours in an employment that ended on August 2, 2002;
+(l) the Appellant and the Payer entered into an arrangement to enable the Appellant to qualify for employment insurance benefits.
+Analysis
+[3] Employment that is not a sham and that meets all the conditions set out in the Civil Code of Quebec constitutes a genuine contract of employment for the purposes of the Act, even if the purpose of the contract of employment was to render a person eligible for employment insurance benefits. However, this Court has an obligation to take a careful look at the agreement that existed between the parties - the Appellant and the Payer in this instance - to ensure that a genuine contract of employment existed.
+[4] The first question that must be resolved here is whether the contract binding on the Appellant constituted a genuine contract of employment. The three essential elements of a contract of employment are: the provision of a service, payment of remuneration, and the existence of a relationship of subordination. The terms and conditions of a genuine contract of employment must centre on the work to be performed, a mechanism for controlling the performance of the work and, finally, on the payment of remuneration that basically corresponds to the quantity and quality of the work done.
+Provision of Services
+[5] Did the Appellant in fact render services to the Payer? First it should be emphasized that the Appellant's evidence is essentially based on his testimony and that of Gaston Langlais, the principal shareholder of the Payer. Their testimony revealed:
+(i) that, in 1996, the Payer acquired a plant from a third party, who had initially built it to produce breaded seafood products, but that the third party had however disposed of the equipment necessary for that type of production before 1996;
+(ii) that the Payer essentially retained the Appellant's services to help it restart the production of breaded seafood products;
+(iii) that, during the period in issue, the Appellant not only conducted studies and research for the purpose of restarting the plant, but also contacted a number of financial and government stakeholders in order to finance the restart-up project;
+(iv) that the Appellant, although a notary by training, had the required skills to do the work because he had rendered similar services to other employers;
+(v) that the Appellant devoted 350 hours to the project at a rate of 35 hours a week; the Appellant's work was mainly performed at the plant; he was the only employee working at the plant during the period in issue, since the lobster season was closed at the time. He went to the head office from time to time (which was located at Mr. Langlais' residence) to use the Payer's computer;
+(vi) that the Appellant filed no written report on his research and analysis, but had only made oral reports during his sporadic meetings with Mr. Langlais.
+[6] First I would like to emphasize that the Appellant's testimony was, to say the least, vague, even silent, as to the exact nature of his studies and analyses. Did he conduct a market study or a feasibility study or prepare a financing plan? Furthermore, he did not see fit to file any correspondence whatever in support of his testimony that he had contacted a number of government and private agencies to find financing and grants in order to restart the project. Nor was his testimony on this point supported by any other independent and credible testimony. Furthermore, I find it implausible and improbable that the Payer would not have required written reports on the results of his research and analysis and that it would merely have accepted oral reports in the circumstances. It should not be forgotten that the Appellant spent 350 hours on those studies and analyses and that the cost was $7,500.
+[7] I wish to recall that the burden was on the Appellant to show on a balance of probabilities that he had in fact rendered such services to the Payer. The Appellant simply did not discharge the obligation that was on him. In other words, the testimony of the Appellant and Mr. Langlais, which is not supported by any documentary evidence or any independent and credible testimony whatever, simply did not satisfy me that the Appellant had actually rendered such services to the Payer.
+Remuneration
+[8] Did the Appellant really receive weekly remuneration of $750 for services rendered throughout the entire period in issue? The Appellant's evidence on this point was based solely on his testimony and that of Gaston Langlais.
+[9] On this matter, the Appellant's testimony revealed:
+(i) that he was remunerated by Mr. Langlais rather than the Payer since the Payer's bank account was seized during the period in issue;
+(ii) that Mr. Langlais paid him in cash;
+(iii) that he was not remunerated regularly, that is to say every week, although he received all the remuneration owed him under the contract of employment;
+(iv) that he deposited a portion of his remuneration in his spouse's bank account because he did not have a bank account, not seeing the utility in having one personally.
+[10] Mr. Langlais' testimony revealed:
+(i) that he personally had to pay the Appellant the remuneration under the contract of employment binding the Appellant and the Payer since the latter's bank account was seized during the period in issue; he added that he had treated the amounts thus paid to the Appellant as advances made to the Payer, without however bringing any documentary evidence whatever on this point;
+(ii) that he paid the Appellant in cash; in cross-examination by counsel for the Respondent on the reason he had paid the Appellant in cash rather than by cheque, Mr. Langlais took offence and answered in an aggressive tone that he had had no obligation to pay him by cheque;
+(iii) that he did not pay the Appellant regularly, that is to say every week, but nevertheless paid the Appellant all the remuneration owed him by the Payer under the contract of employment binding the Appellant and the Payer; however, he was unable actually to explain why the Payer's payroll (Exhibit A-2) showed that the Appellant had been paid every week.
+[11] Once again, I would recall that the burden of proof was on the Appellant, who had to show on a balance of probabilities that he had actually received such remuneration and that it basically corresponded to the quality and quantity of the work performed. I find that the Appellant did not discharge his obligation to do so. The evidence he brought in the instant case was essentially based on his testimony and that of Mr. Langlais, who cannot be characterized as an independent witness. I simply did not find that evidence convincing.
+[12] I find that there was no genuine contract of employment in the case at bar since, in my view, the services were not actually rendered by the Appellant and remuneration corresponding to the quality and quantity of the work performed was not really received by him. In my opinion, the employment was simply a sham designed to render the Appellant eligible for employment insurance benefits. In view of the above, I see no point in analyzing the existence, or lack thereof, of a relationship of subordination between the Payer and the Appellant or ruling on that matter. It should be recalled that the employment insurance system is a social program whose aim is to support those who actually lose their jobs.
+[13] Having regard to the above, the appeal is dismissed and the Minister's decision is confirmed.
+Signed at Ottawa, Canada, this 30th day of August 2004.
+"Paul Bédard"
+Bédard J.
+Certified true translation
+Colette Dupuis-Beaulne
+CITATION:
+2004TCC565
+COURT FILE NUMBER:
+2004-931(EI)
+STYLE OF CAUSE:
+Pierre Mélançon and M.N.R.
+PLACE OF HEARING:
+Percé, Quebec
+DATE OF HEARING:
+August 9, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Paul Bédard
+DATE OF JUDGMENT:
+August 30, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+For the Respondent:
+Agathe Cavanagh
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

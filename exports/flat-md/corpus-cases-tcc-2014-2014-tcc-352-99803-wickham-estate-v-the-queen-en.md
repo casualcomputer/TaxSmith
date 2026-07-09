@@ -1,0 +1,160 @@
+---
+title: "Wickham Estate v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99803/index.do"
+last_modified: "2014-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 352"
+citation2: ""
+neutral_citation: "2014 TCC 352"
+decision_date: "2014-12-01"
+language: "en"
+item_id: "99803"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5227
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:25:51.750000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "131bf8151de52f4cec00edfec1386253534103c2f64db17a884fa3e016ff8890"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wickham Estate v. The Queen
+
+- Citation: 2014 TCC 352
+- Decision date: 2014-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5227, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wickham Estate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-12-01
+Neutral citation
+2014 TCC 352
+File numbers
+2014-1578(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-1578(IT)I
+BETWEEN:
+ESTATE OF FREDA WICKHAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 22, 2014, at Nanaimo, British Columbia
+Before: The Honourable Justice B. Paris
+Appearances:
+Agent for the Appellant:
+Keith Sanders
+Counsel for the Respondent:
+Whitney Dunn
+JUDGMENT
+The appeal of the reassessment of the appellant’s 2011 taxation year is allowed on the basis that the appellant be allowed a deduction of $32,000 under paragraph 20(1)(bb) of the Income Tax Act in its 2011 taxation year.
+Costs fixed in the amount of $200 are awarded to the appellant.
+Signed at Ottawa, Canada, this 1st day of December 2014.
+“B.Paris”
+Paris J.
+Citation: 2014 TCC 352
+Date: 20141201
+Docket: 2014-1578(IT)I
+BETWEEN:
+ESTATE OF FREDA WICKHAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal from a reassessment of Ms. Wickham’s 2011 taxation year by which the Minister denied her claim for a deduction of $40,000 in computing income from property.
+[2] The $40,000 was paid to Keith Sanders as remuneration for services he provided as committee of Ms. Wickham, prior to Ms. Wickham’s death in 2011. Mr. Sanders had been appointed Ms. Wickham’s committee by Order of the B.C. Supreme Court dated May 12, 2005 by reason of Ms. Wickham’s mental infirmity.
+[3] Prior to being appointed committee, Mr. Sanders had acted as financial adviser to Ms. Wickham and her late husband while Mr. Sanders was employed at the North Shore Credit Union. Mr. Sanders retired from that employment in 2005 and did not provide investment management services to anyone besides Ms. Wickham after his retirement.
+[4] Mr. Sanders said that he had promised Ms. Wickham’s husband that he would ensure that Ms.Wickham was cared for after his death.
+[5] As Ms. Wickham’s committee, Mr. Sanders had authority over all of her affairs, and arranged for home care and health care for her and managed her financial affairs.
+[6] Ms. Wickham had substantial assets, the majority of which consisted of a large portfolio of securities and a Registered Retirement Income Fund.
+[7] The securities portfolio was maintained at HSBC and Mr. Sanders used a securities adviser from HSBC to assist him with managing the portfolio. HSBC charged an annual fee in the neighbourhood of ¾% of the total portfolio value.
+[8] As Ms. Wickham’s health deteriorated, her health care costs increased substantially. By 2010, those costs amounted to $137,411. Mr. Sanders testified that he had to ensure that her assets were invested in a way that would produce sufficient income to cover these escalating expenses. He said that he reviewed the investments in Ms. Wickham’s account regularly and instructed HSBC purchase a number of investments in order to provide income growth. Some of these investments were made on his own initiative and some on the advice of the HSBC adviser.
+[9] Ms. Wickham earned investment income of $73,892 in 2008, $63,473 in 2009 and $79,098 in 2010. She also made a capital gain of $84,000 in 2010 on the disposition of certain securities in the HSBC account.
+[10] Mr. Sanders filed reports with the Public Trustee of B.C. in 2006, 2008 and 2010 in which he provided a summary of Ms. Wickham’s personal circumstances and health, a financial summary setting out her assets and liabilities and attached tax returns, and bank and investment statements. These reports were used to pass Mr.Sanders’ accounts as committee, and to determine the fees to which he was entitled for his services as committee.
+[11] The Public Trustee approved the 2010 report filed by Mr. Sanders and determined his remuneration at $45,208.62 for the period from May 13, 2008 to May 31, 2010. The remuneration was broken down into two components: a fee of $19,424.80 for income management and a fee of $25,783.82 for asset management. Mr. Sanders took only $40,000 of the approved remuneration, and this amount was paid to him from Ms. Wickham’s account on January 11, 2011. The formula used in the calculation of the fees was not before the Court, but according to Mr. Sanders, they were based in part on the amount of income earned during the period and in part on the total value of the assets under management.
+[12] Counsel for the respondent argued that since Mr. Sanders was responsible for handling all of Ms. Wickham’s affairs, including her personal and medical care, the primary purpose of the fees was for the care of Ms. Wickham and not for the purpose of gaining or producing income from a business or property.
+[13] Counsel also submitted that the expense is not deductible under paragraph 20(1)(bb) of the Income Tax Act (ITA), which deals with investment counsel fees, because the expense does not meet the conditions contained in that provision. Paragraph 20(1)(bb) reads as follows:
+20.(1) Deductions permitted in computing income from business or property—Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer’s income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . .
+(bb) fees paid to investment counsel —an amount other than a commission paid by the taxpayer in the year to a person
+(i) for advice as to the advisability of purchasing or selling a specific share or security of the taxpayer, or
+(ii) for services in respect of the administration or management of shares or securities of the taxpayer,
+if that person’s principal business
+(iii) is advising others as to the advisability of purchasing or selling specific shares or securities, or
+(iv) includes the provision of services in respect of the administration or management of shares or securities;
+[14] Specifically, counsel said that Mr. Sanders was not carrying on a business acting as Ms. Wickham’s committee and did not carry on a business otherwise during the period in issue, and therefore that he did not meet the conditions set out in either subparagraph 20(1)(bb)(iii) or (vi).
+[15] Counsel for the respondent relied on the decision of this Court in Bond Estate,[1] where it was held that fees paid to the Public Trustee of Saskatchewan for management and administration of the shares and securities of a mentally incompetent adult were not deductible under paragraph 20(1)(bb). The Court found that the principal business of the Public Trustee was not advising others as to the advisability of purchasing or selling specific shares or securities and did not include the provision of services in respect of the administration or management of shares or securities.
+[16] Finally, counsel for the respondent argued that paragraph 18(1)(u) of the ITA prohibited the deduction of the fees paid to Mr. Sanders to the extent that the fees related to management of Ms. Wickham’s RRIF.
+[17] Paragraph 18(1)(u) reads as follows:
+18. (1) General limitations — In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+. . .
+(u) fees — individual savings plans — any amount paid or payable by the taxpayer for services in respect of a retirement savings plan, retirement income fund or TFSA under or of which the taxpayer is the annuitant or holder; and
+. . .
+Analysis [18] According to the letter from the Public Trustee authorizing Mr. Sanders to take the fees, the payment was made for asset and income management. There is no evidence that Mr. Sanders was paid for any other services he provided to, or on behalf of, Ms. Wickham. Therefore, the purpose of the fees was not personal, and was to earn income from property.
+[19] Since the management services provided by Mr. Sanders related to capital assets held by Ms. Wickham, the fees would be non‑deductible capital expenditures unless otherwise provided in the ITA.
+[20] I agree with the appellant that paragraph 20(1)(bb) of the ITA permits the deduction of the fees. The evidence shows that Mr. Sanders was carrying on business when he was providing investment management services while acting as Ms. Wickham’s committee. Although Mr. Sanders may have had a personal motivation for assisting Ms. Wickham, I find that he also expected to be compensated for his services. This is evident from the fact that he sought remuneration when the accounts were passed in 2006, 2008 and 2010. It is also uncontested that Mr. Sanders had relevant professional experience, that he devoted time and energy to the management of Ms. Wickham’s portfolio and that he carried out those activities in an organized and business-like fashion.
+[21] In my view, the Bond case is easily distinguishable. The Court there found that the Public Trustee was not a commercial undertaking and did not hold itself out as offering investment counsel services. In this case, I have found that Mr. Sanders was engaged in a commercial undertaking.
+[22] I also find that services provided by Mr. Sanders in respect of the administration and management of shares and securities owned by Ms. Wickham constituted his only business during the relevant period and therefore that it was his “principal business.”
+[23] Mr. Sanders testified that he did not carry on any other business than that of providing investment management services in the course of acting as Ms. Wickham’s committee. From the evidence, the bulk of Mr. Sander’s role as committee consisted of the management and administration of the securities portfolio.
+[24] I agree with counsel for the respondent, however, that part of the fees that were paid related to Ms. Wickham’s RRIF. The “asset management” and “income management” components of the fees determined by the Public Trustee were based on the total value of the assets of, and income earned by, Ms. Wickham, including the value of and income earned by the RRIF. Clearly paragraph 18(1)(u) would prohibit deduction of the fees paid in relation to the RRIF. In the absence of evidence concerning the income from the RRIF in the period for which the fees in issue were paid, I believe the most logical approach to determining the proportion of the fees that were paid in respect of the RRIF would be to base it on the value of the RRIF relative to the value of the securities portfolio. In 2010 the approximate values of the securities portfolio was $1.4 million and the value of the RRIF was $360,000. Therefore the fees paid in respect of the RRIF would represent approximately 20% of the total fees paid, or $8,000.
+[25] For all of these reasons, I would allow the appeal on the basis that the appellant be allowed a deduction of $32,000 under paragraph 20(1)(bb) of the ITA in its 2011 taxation year. The appellant is awarded its costs, which I fix in the amount of $200.
+Signed at Ottawa, Canada, this 1st day of December 2014.
+“B.Paris”
+Paris J.
+CITATION:
+2014 TCC 352
+COURT FILE NO.:
+2014-1578(IT)I
+STYLE OF CAUSE:
+ESTATE OF FREDA WICKHAM AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Nanaimo, British Columbia
+DATE OF HEARING:
+October 22, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+December 1, 2014
+APPEARANCES:
+Agent for the Appellant:
+Keith Sanders
+Counsel for the Respondent:
+Whitney Dunn
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1999] 1 C.T.C. 2181, [1998] T.C.J. no 838.

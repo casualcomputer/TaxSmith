@@ -1,0 +1,178 @@
+---
+title: "Gould c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29273/index.do"
+last_modified: "2009-06-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 307"
+citation2: ""
+neutral_citation: "2009 CCI 307"
+decision_date: "2009-06-11"
+language: "fr"
+item_id: "29273"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7044
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:49:35.891000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "688cfee8da509865b55014fd6cfa035360b8040f7bcb5a9e19a0c1c2defad73d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gould c. La Reine
+
+- Citation: 2009 CCI 307
+- Decision date: 2009-06-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7044, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gould c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-11
+Référence neutre
+2009 CCI 307
+Numéro de dossier
+2006-2188(IT)G
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2188(IT)G
+ENTRE :
+ROY GOULD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec les requêtes déposées par l’intimée à l’égard des appels de Kathryn Kossow 2005-1974(IT)G, de Roy Gould 2004‑4449(IT)G et de Guiseppe (Joe) Fiorante 2005-3091(IT)G par conférence téléphonique le 25 mai 2009, à Ottawa, Canada.
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de l’appelant :
+Me Joel A. Nitikman
+Avocats de l’intimée :
+Me Bruce Senkpiel
+Me Lynn Burch
+____________________________________________________________________
+ORDONNANCE
+Vu les documents déposés et les observations des avocats;
+Et conformément aux motifs de l’ordonnance ci‑joints;
+LA COUR :
+1. ORDONNE que Gilles Abrioux fasse l’objet d’un interrogatoire sous serment ou affirmation solennelle avant l’instruction de l’appel en application de l’article 119 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »);
+2. DÉCLARE que les articles 101 à 112 des Règles s’appliquent pour ce qui est de l’interrogatoire;
+3. ORDONNE que l’interrogatoire ait lieu à Cour canadienne de l’impôt, à Toronto (Ontario), le 25 juin 2009 et soit enregistré sur bande magnétoscopique au moyen des installations de la Cour;
+4. ORDONNE que la déposition recueillie à l’interrogatoire soit commune au présent appel et aux appels de Kathryn Kossow 2005‑1974(IT)G; de Roy Gould 2004‑4449(IT)G et de Guiseppe (Joe) Fiorante 2005‑3091(IT)G (les « appels connexes »);
+5. ORDONNE que les appelants dans les appels connexes aient le droit de participer à l’interrogatoire, soit en personne, soit par vidéoconférence au moyen des installations de vidéoconférence dont la Cour dispose et qu’ils aient le droit de recevoir une copie des transcriptions, des bandes magnétoscopiques et des enregistrements de l’interrogatoire; le coût des copies étant supporté par les appelants;
+6. ORDONNE que les débours relatifs à l’interrogatoire soient à la charge de l’intimée dans ce cas‑ci, sous réserve de l’allocation de ces débours par le juge de fond;
+7. ORDONNE que les autres dépens de l’interrogatoire soient alloués par le juge de fond;
+8. ORDONNE que, conformément aux motifs ci‑joints, les dépens afférents à la requête soient à la charge de l’intimée et payables immédiatement.
+Signé à Vancouver (Colombie‑Britannique), ce 11e jour de juin 2009.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 15e jour de juillet 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 307
+Date : 20090611
+Dossier : 2006-2188(IT)G
+ENTRE :
+ROY GOULD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Hershfield
+Contexte et points en litige
+[1] Il s’agit d’une requête présentée à l’égard de quatre appels qui portent tous sur un programme particulier de don par emprunt. Les appels concernent des dons qui auraient été faits pour l’achat de certaines œuvres d’art dont quelques‑une ont été achetées par un certain M. Abrioux que l’intimée avait l’intention d’appeler à témoigner lors de l’audience de chacun des appels.
+[2] L’intimée a demandé à la Cour de rendre une ordonnance en vertu de l’article 119 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») l’autorisant à interroger M. Abrioux avant l’instruction des appels. Les moyens invoqués sont énoncés à l’alinéa 119(2)b) des Règles, qui mentionne que la présente Cour, dans l’exercice du pouvoir discrétionnaire dont elle dispose d’accorder l’autorisation demandée, prend en considération l’éventualité que la personne soit empêchée de témoigner à l’audience pour cause d’infirmité, de maladie ou de décès. L’intimée fait valoir que c’est le cas pour M. Abrioux. La seule preuve présentée à cet effet est que M. Abrioux est âgé de 82 ans et qu’un chef de l’équipe de la vérification a constaté qu’il n’avait pas l’air très en santé. De plus, il a été noté que l’instruction de ces appels a déjà fait l’objet de nombreux longs retards et que l’affaire n’a pas encore été inscrite au rôle.
+[3] L’intimée demande une ordonnance l’autorisant à interroger M. Abrioux avant l’instruction des appels et invoque comme argument que la déposition ainsi recueillie sera présentée en preuve à l’audience de chacun de ces appels et que M. Abrioux ne devrait pas être appelé à témoigner lors de l’instruction de l’appel. L’intimée se fonde sur l’article 122 des Règles pour présenter sa requête.
+[4] L’intimée a également demandé que l’interrogatoire de M. Abrioux se fasse par vidéoconférence, que tous les appelants puissent participer à l’interrogatoire et que la déposition soit commune aux appels de chacun d’entre eux.
+[5] Je note que, même si l’intimée n’a pas bien établi quels étaient les risques que M. Abrioux ne soit pas en mesure de comparaître à l’audience, les appelants ne se sont pas opposés à la requête. Ils semblent donc donner le consentement nécessaire à l’application de l’article 119 des Règles. Par conséquent, je note que les parties peuvent, en vertu du paragraphe 119(1) des Règles, engager la procédure prévue à cet article sans qu’il y ait de directive ou d’ordonnance de la présente Cour. Toutefois, les parties ne s’entendent pas sur le fait qu’il devrait y avoir une ordonnance, ou bien une présomption tirée de l’article 122 des Règles, prévoyant que si j’accueille la requête, M. Abrioux ne serait donc pas tenu de témoigner à l’instruction des appels, même s’il était en mesure de le faire. C’est sur cette question (la « question relative à l’article 122 ») que les parties se sont principalement concentrées lors de l’audition de la requête.
+[6] Les parties sollicitent également une ordonnance relative aux dépens. Il y a deux mémoires de frais à traiter. Tout d’abord, il y a les dépens relatifs à l’audition de la requête. Ensuite, il y a les dépens relatifs à la tenue de l’interrogatoire.
+[7] Il n’y a pas vraiment de différence entre les positions des parties pour ce qui est des dépens liés à la tenue de l’interrogatoire, même si elles se sont appuyées sur un raisonnement différent. L’intimée a fait valoir que les dépens liés à l’interrogatoire remplaçaient les dépens qui auraient été engagés lors de l’audience (à l’exception des dépens pour l’enregistrement vidéo) et a présenté une requête en vue d’obtenir une ordonnance pour que la décision quant aux dépens liés à l’interrogatoire soit réservée au juge de fond. L’appelant a allégué que la décision relative aux dépens liés à l’interrogatoire doit être réservée au juge de fond, non pas parce qu’ils ont été engagés au lieu des dépens qui auraient découlés de l’audience (étant donné que, à leur avis, cette question ne doit pas être tranchée immédiatement), mais parce que les facteurs qui peuvent être pertinents ne sont pas encore intervenus.
+[8] Pour ce qui est des dépens de la requête, l’intimée sollicite une ordonnance adjugeant les dépens en sa faveur. L’appelant a soutenu que l’intimée, en tant que partie demandant l’interrogatoire, doit supporter les dépens et qu’il ne faut pas laisser le juge de fond décider. L’intimée a allégué que la nécessité de présenter la requête se faisait davantage sentir maintenant qu’il y a quelques années et que les retards étaient imputables aux appelants. Ceux‑ci doivent donc supporter les dépens de la requête. La preuve dont j’ai été saisi ne m’a pas convaincu que les retards étaient attribuables aux appelants dans une mesure telle que cela justifierait une ordonnance d’adjudication des dépens sur cette base.
+La question relative à l’article 122
+[9] Comme il a été noté, l’intimée se fonde sur l’article 122 des Règles, qui, selon elle, justifie la délivrance d’une ordonnance selon laquelle M. Abrioux ne devrait pas être appelé à témoigner lors de l’instruction des appels. L’article 122 est libellé ainsi :
+Utilisation des dépositions à l’audience
+122. (1) Une partie peut utiliser à l’audience, à titre de déposition d’un témoin, une transcription et une bande magnétoscopique ou un autre enregistrement d’un interrogatoire effectué conformément aux articles 119 et 121, sauf si la Cour ordonne autrement pour toute raison valable.
+(2) Le témoin qui a été interrogé en application de l’article 119 ou 121 n’est pas assigné à témoigner à l’audience sans l’autorisation du juge.
+(3) L’utilisation d’une déposition recueillie en application de l’article 119 ou 121 est subordonnée à la décision du juge quant à son admissibilité.
+(4) La transcription et la bande magnétoscopique ou un autre enregistrement peuvent être déposés auprès de la Cour pendant l’audience. Il n’est pas nécessaire de lire la transcription ou de faire passer la bande ou l’enregistrement à l’audience à moins que le juge ou une partie ne l’exige.
+[10] Cet article prévoit clairement qu’une partie peut utiliser à l’audience, à titre de déposition d’un témoin, une transcription et une bande magnétoscopique ou un autre enregistrement d’un interrogatoire effectué conformément à l’article 119, sauf si la Cour ordonne autrement. Aucune directive de ce genre n’est demandée ou donnée. De plus, le paragraphe 122(2) des Règles prévoit qu’un témoin dont la déposition a été recueillie en application de l’article 119 n’est pas assigné à témoigner à l’audience sans l’autorisation du juge.
+[11] L’intimée semblait prétendre que, selon le paragraphe 122(2) des Règles, la déposition de M. Abrioux sur bande magnétoscopique est le seul élément de preuve qui peut être accueilli à l’audience, étant donné que l’utilisation du mot « shall » dans la version anglaise des Règles donne à penser que les parties sont obligées de n’utiliser que l’enregistrement sur bande magnétoscopique comme élément de preuve. L’intimée a soutenu que la requête et le paragraphe 122(2) des Règles avaient pour but de ne faire témoigner le témoin qu’une seule fois par souci d’efficacité. Il serait toutefois peut-être mieux d’alléguer que le but est de conserver la preuve qui pourrait autrement être perdue. Quoi qu’il en soit, j’ai du mal à croire que l’intimée demande qu’une ordonnance oblige le juge de fond à n’accepter que le témoignage sur bande magnétoscopique comme élément de preuve à produire lors de l’instruction. Même si les parties ont présenté leurs arguments à l’audience comme s’il s’agissait de l’ordonnance sollicitée, d’après moi, la seule requête déposée est celle visant à obtenir une ordonnance pour que la déposition faite par M. Abrioux avant l’audience soit disponible afin d’être produite et acceptée comme élément de preuve à l’audience. Rien ne donne à penser que l’intimée essaie de me faire rendre une ordonnance liant le juge de fond.
+[12] Il se peut que la seule question à trancher en l’espèce soit de savoir si l’article 122 des Règles modifie toute présomption de common law selon laquelle ce genre de témoignage, communément appelé une preuve de bene esse, équivaut seulement à une assurance. Selon la common law, la preuve de bene esse ne peut être utilisée que si le témoin ne peut pas assister à l’instruction dans les faits.
+[13] Les deux affaires citées par l’intimée relativement à la preuve de bene esse renvoient toutes les deux à la common law, laquelle prévoit qu’une ordonnance relative à un interrogatoire hors cour se fait de bene esse, de façon que si le témoin est en vie et en bonne santé au moment de l’instruction, il doit témoigner devant la cour[1]. La common law et les Règles mentionnent également clairement que dans les cas où des témoignages sont entendus à l’audience, tout élément de preuve découlant d’un interrogatoire hors cour n’est pas pris en compte.
+[14] Dans la décision Samson, le juge Teitelbaum a confirmé le principe de bene esse énoncé par le juge Hugessen dans l’arrêt Première nation Dene Tsaa :
+3 Cependant, si M. Moore est encore en vie, en bonne santé physique et disponible lorsqu’aura lieu la phase du procès se rapportant au pétrole et au gaz, il témoignera devant la Cour à ce moment‑là. Les vidéocassettes et transcriptions qui résulteront de sa déposition hors le tribunal seront alors ignorées. En faisant cette remarque particulière, et à mon avis importante, je suis guidé par le récent jugement de Monsieur le juge Hugessen dans l’affaire Première nation Dene Tsaa c. Canada, [2002] A.C.F. no 1107.
+[…]
+[15] Dans l’arrêt Première nation Dene Tsaa c. Canada, [2002] A.C.F. no 1107[2], le juge Hugessen de la Cour fédérale (Section de première instance) a examiné la question de l’octroi d’une telle ordonnance :
+7 […] Une ordonnance relative à l’interrogatoire hors cour d’un témoin qui se trouve au Canada se fait toujours, comme nous les avocats avons l’habitude de dire, de bene esse, c’est-à-dire pour ce que son témoignage pourrait valoir. Si le témoin est encore en vie et disponible au moment de l’instruction, même s’il ne peut se déplacer de Fort Nelson, il ne fait aucun doute dans mon esprit que la Cour composera avec le témoin et qu’elle prendra des mesures pour se rendre à Fort Nelson afin de recueillir sa déposition. Cependant, et que le ciel nous en préserve, advenant le décès de M. Dickie ou son incapacité à témoigner au moment de l’instruction, à laquelle on ne procédera en toute probabilité que dans plusieurs années, on servirait mieux les fins de la justice en recueillant ce qu’on peut de son témoignage et en le conservant comme on le peut, plutôt que de priver la Cour de son témoignage.
+[16] Dans la décision Schwartz, la juge Kent a accueilli une requête que l’appelante avait présentée en vue d’interroger deux témoins âgés de bene esse. Lorsqu’elle avait accueilli la requête, la cour avait dit que la preuve de bene esse visait à conserver la preuve dans les cas où un témoin ne serait plus en mesure de témoigner. Si le témoin est capable de témoigner au moment de l’instruction, il doit comparaître en personne. La cour avait ajouté ce qui suit :
+[traduction]
+12 Finalement, et manifestement sous réserve d’une décision par le juge de fond, si la requérante à l’intention de produire l’élément de preuve sur bande magnétoscopique plutôt que de faire entendre les témoins en personne, c’est à elle qu’incombera le fardeau très lourd de prouver que les témoins ne sont pas capables de témoigner.
+[17] Cela me ramène à la position des appelants, qui allèguent que le principe de bene esse est encore valable d’un point de vue juridique, c’est‑à‑dire que l’article 122, malgré le libellé apparemment clair du paragraphe (2), n’avait pas pour but de remplacer le principe de bene esse de la common law.
+[18] D’après moi, si les appelants veulent que le témoin témoigne aussi à l’audience, ils peuvent demander l’autorisation du juge, si le témoin est en mesure de se présenter, ou bien plaider qu’il n’est pas nécessaire d’obtenir l’autorisation du juge, comme ils l’ont fait lors de l’audition de la requête. Il ne m’appartient pas de dire ce que le juge de fond pourrait répondre à un tel argument, mais je renvoie les parties à la décision Russett v. Bujold[3] de la Cour supérieure de justice de l’Ontario.
+[19] L’affaire Russett traitait d’une règle semblable à l’article 122, qui a été enchâssé dans les règles de la Cour supérieure de justice de l’Ontario[4]. La décision donne une bonne revue historique de la règle qu’elle appelle la [traduction] « règle moderne ». Il suffit de dire qu’il peut y avoir de nombreuses raisons d’autoriser l’abandon de cette règle moderne en faveur du principe de bene esse de la common law comme cela a été fait dans ce cas‑là. Si le témoin est capable de témoigner à l’audience, pour répondre à la question de savoir s’il faut l’autoriser à témoigner, il faudrait tenir de compte de facteurs comme les coûts, la crédibilité, le besoin de mener un interrogatoire plus poussé compte tenu de la preuve dont la cour dispose ou le caractère opportun du fait que le juge voit le témoin de ses propres yeux. On pourrait soutenir que le fait d’accorder une telle autorisation dans ces conditions revient à autoriser la tenue d’un réinterrogatoire à l’égard d’un témoin, comme le prévoit le paragraphe 144(1) des Règles.
+Conclusions
+[20] Quoi qu’il en soit, j’accueille la requête visant l’interrogatoire de M. Abrioux avant l’audience sans me prononcer au sujet de l’utilisation éventuelle de la déposition ainsi recueillie et sur la question de savoir si le témoin peut être appelé à témoigner à l’audience s’il est en mesure de le faire.
+[21] Pour ce qui est des dépens, je note que la jurisprudence invoquée par l’intimée ne fournissait aucune mention concernant la façon dont la question des dépens pourrait réglée de façon appropriée et équitable en l’espèce.
+[22] Dans l’arrêt Première nation Dene Tsaa, la Couronne défenderesse avait demandé que la déposition soit recueillie en dehors de la cour. La requête avait été accueillie et les dépens avaient suivi l’issue de la cause.
+[23] Dans la décision Samson, la Couronne défenderesse, qui avait demandé que la déposition soit recueillie en dehors de la cour, avait dû supporter les frais de l’enregistrement sur vidéocassette. La question concernant tous les autres dépens découlant de l’interrogatoire du témoin a été réglée plus tard.
+[24] Dans la décision Schwartz, la demanderesse requérante avait déposé la requête et il lui avait été ordonné de payer les dépens taxés sans délais à l’égard de la requête.
+[25] En l’espèce, je crois qu’on peut présumer que l’intimée a fait preuve de prudence en voulant obtenir la déposition afin d’étayer sa preuve et, par conséquent, les dépens afférents à la requête, dont le traitement a été simplifié par le fait que l’appelant ne les a pas contestés en soi, doivent être adjugés aux appelants. Par contre, comme les appelants n’ont pas présenté d’observations écrites et semblent avoir fait très peu de choses, si ce n’est rien du tout, en guise de préparation afin de faire valoir leurs arguments à l’égard de la question relative à l’article 122 qu’ils ont soulevée lors de l’audition de la requête, je ne vois aucune raison d’adjuger aux appelants des dépens qui excèdent la moitié de ce qui est prévu dans le tarif applicable figurant à l’alinéa 1(1)c) du tarif B des Règles. Il est entendu que les dépens payables sans délai par l’intimée doivent être payés une seule fois pour l’appelante Mme Kossow et une seule fois pour tous les autres appelants comme s’ils n’étaient qu’une seule partie.
+[26] Pour ce qui est des dépens liés à l’interrogatoire lui‑même, il reste encore trop de choses à apprendre et à décider pour adjuger les dépens à une partie en particulier. Les dépens de l’interrogatoire seront adjugés conformément aux directives du juge de fond. Les débours seront à la charge de l’intimée dans ce cas‑ci.
+Signé à Vancouver (Colombie‑Britannique), ce 11e jour de juin 2009.
+« J.E. Hershfield »
+Juge Hershfield
+Traduction certifiée conforme
+ce 15e jour de juillet 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 307
+NO DU DOSSIER DE LA COUR : 2006-2188(IT)G
+INTITULÉ : ROY GOULD et LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 25 mai 2009
+MOTIFS DE L’ORDONNANCE : L’honorable juge J.E. Hershfield
+DATE DE L’ORDONNANCE : Le 11 juin 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Joel A. Nitikman
+Avocats de l’intimée :
+Me Bruce Senkpiel
+Me Lynn Burch
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Joel A. Nitikman
+Cabinet : Fraser Milner Casgrain
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Samson Indian Nation and Band c. Canada, [2002] A.C.F. no 1671 (C.F. 1re inst.); Schwartz Estate v. Kwinter, [2008] A.J. no 548 (Cour du banc de la Reine de l’Alberta, district de Calgary).
+[2] Arrêt sur lequel le juge s’est fondé dans la décision Samson.
+[3] 2003 CarswellOnt 5501.
+[4] Paragraphe 36.04(3) des Règles des procédures civiles de l’Ontario R.R.O. 1990 Règl. 194.

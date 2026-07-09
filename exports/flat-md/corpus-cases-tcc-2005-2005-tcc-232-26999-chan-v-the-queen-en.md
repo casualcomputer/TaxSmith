@@ -1,0 +1,128 @@
+---
+title: "Chan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26999/index.do"
+last_modified: "2005-04-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 232"
+citation2: ""
+neutral_citation: "2005 TCC 232"
+decision_date: "2005-04-04"
+language: "en"
+item_id: "26999"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 544
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:52:13.507000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1a3ab086ab756e7be9ef5e9cc803aff050acdbf75a2a32c6616d1cda26a84be6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chan v. The Queen
+
+- Citation: 2005 TCC 232
+- Decision date: 2005-04-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 544, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-04
+Neutral citation
+2005 TCC 232
+File numbers
+2004-2(IT)APP
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2(IT)APP
+BETWEEN:
+FREDDIE CHAN,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on March 17, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Fiona Mendoza
+____________________________________________________________________
+ORDER
+UPON application for an extension of time within which to institute an appeal and to pay the appropriate filing fee for the Applicant’s 1998 and 1999 taxation years;
+AND UPON hearing from the parties;
+IT IS ORDERED THAT:
+1. The address for service of the Appellant is ordered changed to:
+Freddie Chan
+5524 Wells Street
+Vancouver, British Columbia
+V5R 3M8
+2. This application is dismissed for the attached reasons.
+Signed at Saskatoon, Saskatchewan, this 4th day of April, 2005.
+“D.W. Beaubier”
+Beaubier, J.
+Citation: 2005TCC232
+Date: 20050404
+Docket: 2004-2(IT)APP
+BETWEEN:
+FREDDIE CHAN,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Beaubier, J.
+[1] This application for an extension of time in which to pay the filing fee for a Notice of Appeal for the Applicant’s 1998 and 1999 taxation years was heard at Vancouver, British Columbia on March 17, 2005. Freddie Chan was the only witness. All of his testimony is believed.
+[2] An order extending time for these appeals was previously granted by the Tax Court of Canada on February 24, 2004 “if the appropriate filing fee is paid to the Registry not later than March 25, 2004.”
+[3] That fee was not paid because, the Applicant’s agent states in his application “but for not paying the filing fee we did not get a hearing date.”
+[4] This Court’s Order of February 24, 2004 was clear and explicit. The current application is dated January 27, 2005. It constitutes a new application to extend time and it was filed beyond the statutory time limit for an application to extend the time. The evidence before the Court establishes that the Applicant’s agent, Fareed Raza, was negligent when he did not pay the fee or notify Mr. Chan to pay the fee on a timely basis. It would appear that Mr. Chan has a legal action for negligence against Fareed Raza of “F & A Accounting Services, 2665 Kingsway, Vancouver, British Columbia,” who was the Applicant’s agent in this matter to and after receipt of the Court’s Order of February 24, 2004.
+[5] For the above reasons the application is dismissed.
+Signed at Saskatoon, Saskatchewan, this 4th day of April, 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2005TCC232
+COURT FILE NO.: 2004-2(IT)APP
+STYLE OF CAUSE: FREDDIE CHAN AND THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: March 17, 2005
+REASONS FOR JUDGEMENT BY: D.W. Beaubier
+DATE OF JUDGMENT: April 4, 2005
+APPEARANCES:
+For the Applicant:
+The Applicant himself
+Counsel for the Respondent:
+Fiona Mendoza
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

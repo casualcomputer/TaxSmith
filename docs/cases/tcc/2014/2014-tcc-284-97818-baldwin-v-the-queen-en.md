@@ -1,0 +1,429 @@
+---
+title: "Baldwin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/97818/index.do"
+last_modified: "2014-09-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 284"
+citation2: ""
+neutral_citation: "2014 TCC 284"
+decision_date: "2014-09-26"
+language: "en"
+item_id: "97818"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5169
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:33:10.212000+00:00"
+cases_cited_count: 11
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4a854c100f2eb6843b4c6fea8b98f2fef4fcf0b5ac8130bb59f7722d00306eea"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Baldwin v. The Queen
+
+- Citation: 2014 TCC 284
+- Decision date: 2014-09-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5169, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baldwin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-09-26
+Neutral citation
+2014 TCC 284
+File numbers
+2012-1920(IT)I, 2012-2035(IT)I, 2012-2042(IT)I, 2012-2252(IT)I, 2012-2609(IT)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2252(IT)I
+BETWEEN:
+LAURA BALDWIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Virginia Forsythe 2012-2042(IT)I; Carrie Martin 2012-2035(IT)I; Diane Sheridan 2012-2609(IT)I; and Art Zoccole 2012-1920(IT)I on January 13-17, 2014 and February 26-27, 2014, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+James Fyshe
+Counsel for the Respondent:
+Laurent Bartleman
+Gordon Bourgard
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2010 taxation year is dismissed.
+No costs are awarded in this matter.
+Signed at Halifax, Nova Scotia, this 26th day of September 2014.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2012-2042(IT)I
+BETWEEN:
+VIRGINIA FORSYTHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Laura Baldwin 2012-2252(IT)I; Carrie Martin 2012-2035(IT)I; Diane Sheridan 2012-2609(IT)I; and Art Zoccole 2012-1920(IT)I on January 13-17, 2014 and February 26-27, 2014, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+James Fyshe
+Counsel for the Respondent:
+Laurent Bartleman
+Gordon Bourgard
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2010 taxation year is dismissed.
+No costs are awarded in this matter.
+Signed at Halifax, Nova Scotia, this 26th day of September 2014.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2012-2035(IT)I
+BETWEEN:
+CARRIE MARTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Laura Baldwin 2012-2252(IT)I; Virginia Forsythe 2012-2042(IT)I; Diane Sheridan 2012-2609(IT)I; and Art Zoccole 2012-1920(IT)I on January 13-17, 2014 and February 26-27, 2014, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+James Fyshe
+Counsel for the Respondent:
+Laurent Bartleman
+Gordon Bourgard
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2010 taxation year is dismissed.
+No costs are awarded in this matter.
+Signed at Halifax, Nova Scotia, this 26th day of September 2014.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2012-2609(IT)I
+BETWEEN:
+DIANE SHERIDAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Laura Baldwin 2012-2252(IT)I; Virginia Forsythe 2012-2042(IT)I; Carrie Martin 2012-2035(IT)I; and Art Zoccole 2012-1920(IT)I on January 13-17, 2014 and February 26-27, 2014, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+James Fyshe
+Counsel for the Respondent:
+Laurent Bartleman
+Gordon Bourgard
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2009 taxation year is dismissed.
+No costs are awarded in this matter.
+Signed at Halifax, Nova Scotia, this 26th day of September 2014.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2012-1920(IT)I
+BETWEEN:
+ART ZOCCOLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Laura Baldwin 2012-2252(IT)I; Virginia Forsythe 2012-2042(IT)I; Carrie Martin 2012-2035(IT)I; and Diane Sheridan 2012-2609(IT)I; on January 13-17, 2014 and February 26-27, 2014, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+James Fyshe
+Counsel for the Respondent:
+Laurent Bartleman
+Gordon Bourgard
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the Appellant’s 2010 taxation year is dismissed.
+No costs are awarded in this matter.
+Signed at Halifax, Nova Scotia, this 26th day of September 2014.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2014TCC284
+Date: 20140926
+Docket: 2012-2252(IT)I
+BETWEEN:
+LAURA BALDWIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-2042(IT)I
+AND BETWEEN:
+VIRGINIA FORSYTHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-2035(IT)I
+AND BETWEEN:
+CARRIE MARTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-2609(IT)I
+AND BETWEEN:
+DIANE SHERIDAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2012-1920(IT)I
+AND BETWEEN:
+ART ZOCCOLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] Each of the Appellants was employed by Native Leasing Services (“NLS”) and their appeals were heard consecutively. The question in each appeal is whether the employment income earned by the Appellants from NLS during the relevant period was the personal property of an Indian situated on a reserve within the meaning of section 87 of the Indian Act and therefore exempt from tax under the Income Tax Act.
+[2] The evidence with respect to NLS was given by way of a Statement of Agreed Facts and I have summarized it below. There was also a Statement of Agreed Facts for each of the Appellants and I have included those facts with the evidence given in each appeal.
+[3] Throughout this decision when I use the term “Aboriginal”, it includes Indian (both status and non-status), Métis and Inuit peoples.
+The Appellants [4] I will briefly describe each of the Appellants in this section of my decision and will discuss the details of their circumstances as they relate to the “connecting factors” in the Analysis section of the decision.
+Art Zoccole [5] Art Zoccole’s appeal related to his 2010 taxation year. His income tax liability was assessed on May 24, 2011 to include in his income the amount of $64,911, his employment income from NLS.
+[6] Zoccole is a member of Lac de Mille Lac First Nation Reserve. In 2010 he lived in Toronto and worked as the Executive Director of 2-Spirited People of the 1st Nations (“2-Spirited”) in Toronto.
+[7] Zoccole has been employed by NLS since 2000. According to his contract of employment with NLS, he was placed as the Executive Director with 2-Spirited on April 1, 2003. His job description was included as a schedule to his contract of employment.
+Laura Baldwin [8] Laura Baldwin is a member of the White Fish River First Nation, Birch Island, Ontario.
+[9] Her appeal related to her 2010 taxation year. Her tax liability was assessed and confirmed on the basis that her income of $22,788 from NLS was taxable.
+[10] During 2010, Baldwin lived in Toronto. She provided her services as a tenant relations worker/payroll clerk through NLS to Nishnawbe Homes Incorporated (“Nishnawbe Homes”) at its building located at 244 Church Street in downtown Toronto.
+Virginia Forsythe [11] Virginia Forsythe is a status Indian and is a member of the Wahgoshig First Nation Reserve which is near Matheson, Ontario. In 2010, she lived in Cochrane, Ontario.
+[12] Forsythe was employed by NLS since November 4, 1999 to perform the duties of an HIV/AIDS Coordinator with the Ontario Métis Aboriginal Association.
+[13] On April 1 2005, NLS signed a Placement Agreement with the Ontario Aboriginal HIV/AIDS Strategy (“OAHAS”) to provide it with employees for various positions including that of an HIV/AIDS Coordinator. Ms. Forsythe held that position with OAHAS in 2010 and she worked in its office located in Cochrane, Ontario.
+[14] She was assessed by notice dated June 16, 2011 to include the amount of $54,275, her earnings from NLS, in her income for 2010.
+Carrie Martin [15] Carrie Martin is a status Indian and a member of Listuguj Mi’gmaq Government Indian Band. In 2010, she lived in LaSalle, Québec. LaSalle is a borough of the City of Montréal.
+[16] In 2010, she earned $41,519.69 from her employment with NLS.
+[17] Through her employment with NLS in 2010, Martin provided various services to the Native Women’s Shelter of Montreal (“NWSM”). NLS has had a placement agreement with NWSM since May 8, 1992 whereby it would provide NWSM with employees for a number of positions.
+[18] During the period, Martin had a series of employment contracts with NLS. In 2010, she performed the duties of Harm Reduction Coordinator and Aboriginal Healing Foundation Evaluation Coordinator for NWSM.
+Diane Sheridan [19] Diane Sheridan is a status Indian and is a member of the Hiawatha First Nation. Her appeal relates to her 2009 taxation year in which she earned $16,275 from her employment with NLS. In 2009, she was employed by NLS for the period February 23 to July 10 to perform the duties of a Healthy Babies Healthy Children’s Program worker. She was placed by NLS to perform her duties through the Barrie Native Friendship Centre (“Friendship Centre”) which was located in Barrie, Ontario.
+[20] In 2009, she had a residence on the Hiawatha First Nation Reserve. However, she lived in a basement apartment in Barrie from Monday to Friday and travelled to her home on the Hiawatha First Nation Reserve on Friday after work. She returned to Barrie on Sunday or Monday morning depending on the weather. Sheridan insisted that her main residence was on the Hiawatha First Nation Reserve but, in spite of this, she used the address of the Friendship Centre as her mailing address. She had an office at the Barrie Friendship Centre.
+The Employer – NLS [21] Roger Obonsawin is a status Indian and a member of the Odanak First Nation which has its reserve in Odanak, Quebec. Although he is not a member of the Six Nations First Nation, he established a residence on the Six Nations Reserve. According to the Statement of Agreed Facts, one of his reasons for establishing this residence was the “tax litigation”.
+[22] Obonsawin operates two businesses, NLS and O.I. Employee Leasing Inc. (“OIEL”). Both businesses provide organizations with a variety of administration services. Both businesses are for-profit entities. NLS is carried on by Obonsawin as a sole proprietorship and OIEL is incorporated with Obonsawin as the President and sole shareholder. These businesses offer the same services but to different types of organizations. NLS provides employment placement services to not-for-profit Aboriginal organizations, while OIEL provides services to for-profit businesses that may have Aboriginal or non-Aboriginal people in their programs.
+[23] NLS offers organizations a variety of support services including payroll services, human resource support, employee leasing/outsourcing, bookkeeping and staffing.
+[24] NLS refers to its placement of employees in organizations as ‘leasing’ and the organizations are referred to as ‘placement organizations’. In most cases, there was a pre-existing employer/employee relationship between the placement organization and the employee. In order to change their employer, the employee signed a contract with NLS and provided a release to the placement organization, their former employer. The NLS concept of leasing employees is that it leases an employee to a placement organization and it provides all the administration and human resource support services as the employer. I will refer to these employees as employees or “leased employees” to distinguish them from the administrative staff employed by NLS.
+[25] The majority of the placement organizations are operated by boards of directors. Many of the placement organizations are Friendship Centres, shelters and health organizations operated for the benefit of Aboriginals and funded by government. NLS did not have any representatives on the boards of directors of any of the placement organizations in 2009 and 2010, the period in issue in these appeals. NLS did not determine the objectives of the placement organizations and did not have first-hand knowledge of the funding agreements between the placement organizations and the government funders. NLS was not a party to any contracts to provide the services which the placement organizations provided. It was only responsible for the human resources administration of its employees at the placement organizations.
+[26] The placement organizations are responsible for delivering their services and for determining their objectives.
+[27] The NLS leased employees report on a day-today basis to a supervisor agreed on by NLS and the placement organization. The employees get their instructions and directions with respect to their duties from this supervisor. They report to the placement organizations and are supervised by the placement organizations. If there is a problem with an employee, then the placement organization calls NLS.
+[28] To receive their income, employees fill out a timesheet which is approved by the onsite supervisor at the placement organization. A summary of the time sheets is sent to the NLS office a week prior to the employees’ payday. NLS then prepares invoices which it sends to the placement organizations. The amount of these invoices includes the employees’ earnings, NLS’ service fee, CPP, EI and the WCB.
+[29] NLS charged a service fee of 5% (sometimes 6%) calculated on the cost to the placement organization inclusive of those charges. This service fee was paid by the placement organization in some instances or by the employee in those situations where the placement organization could not afford it. When paid by the placement agency, the service fee was added to its invoice. If the employee paid the service fee, it was deducted from their salary.
+[30] NLS has its operating account at the CIBC branch on the reserve in Hobbema, Alberta. As part of the mechanics of the payroll service, the placement organization was required to open a CIBC bank account near their place of business and make payments on its agreement with NLS into that CIBC RapidTrans account. For 2009 and 2010, any new placement organizations would have the payments taken from their account by pre-authorized debit.
+[31] The key functions for NLS are conducted at its office on the Six Nations Reserve. Its administrative staff checked the timesheets received from the placement organizations; entered the information into the payroll system; calculated the amounts for vacation pay; and, deposited the employees’ wages into their accounts electronically.
+[32] NLS paid each of the Appellants’ wages from its office on the Six Nations Reserve. Each of the Appellants’ wages was deposited into their bank account which was also located on a reserve. Each of the Appellants treated the income they received from NLS as being exempt from taxation.
+[33] From time to time, NLS offered training to the employees in the form of workshops. Training was usually off-reserve and purchased from and provided by a non-Aboriginal third party commercial business. In 2009 and 2010, the total expense for all out-sourced training was $2,274. However, in 2009 and 2010, NLS staff did provide, at most, three free training workshops for the leased employees.
+[34] NLS administrative staff compiled a list of training opportunities which they sent to leased employees. These opportunities were usually one or two day seminars of a generic nature, addressing some skill sets within the placement organizations.
+[35] The placement organizations also provided direct training to the leased employees.
+[36] Only NLS’ administrative staff provided services on the Six Nations Reserve. The leased employees did not provide services on the Six Nations Reserve. In 2009 there were 477 NLS leased employees. In 2010 there were 365 NLS leased employees. Almost without exception those employees were primarily providing their services off-reserve. In 2009, there were 11 administrative staff at the offices of NLS and in 2010, there were 13 administrative staff.
+[37] The only source of revenue for NLS was the service fees it earned from the placement organizations off reserve.
+[38] While income tax was not the initial reason for the creation of the employee leasing model, after becoming aware of the decision in Nowegijick v R, [1983] 1 SCR 29, Obonsawin thought that if he operated his employee leasing business from a reserve, then the income his employees earned would be exempt from taxation. This was one of the reasons NLS was located on a reserve and its key functions and files were conducted on a reserve.
+The Appellants’ Position with respect to the interpretation of section 87 of the Indian Act [39] It was the Appellants’ position that the common law rule for the situs of a debt which was applied in Nowegijick remains the authority for the location of employment income in respect of section 87 of the Indian Act. Counsel for the Appellants argued that the Supreme Court of Canada in Williams v Canada, [1992] 1 SCR 877 did not specifically overrule Nowegijick. Rather, in Williams, Gonthier J. made the following observation at paragraph 32 of the decision:
+It may be that the residence of the debtor remains an important factor, or even the exclusive one. However, this conclusion cannot be directly drawn from an analysis of how the conflict of laws deals with such an issue.
+[40] Counsel submitted that Gonthier J. incorrectly assumed that the rule for the situs of a debt originated with the conflict of laws. Counsel stated that the rule is part of the common law and it can be traced back to at least the sixteenth century with its root in the law of probate. Although the Supreme Court of Canada has repeatedly stated that a liberal, purposive approach should be adopted when interpreting statutes dealing with Aboriginal people, this approach should not exclude the application of other principles. In particular, when interpreting a statutory provision, it is presumed that the legislature does not intend to change the existing law or to depart from established common law principles.
+[41] In his written submissions, after analyzing Bastien Estate v Canada, 2011 SCC 38 and discussing the decision in McDiarmid Lumber Ltd v God’s Lake First Nation, 2006 SCC 58, counsel for the Appellant concluded:
+1. The Williams “connecting factors” approach to the determination of the location of property is not applicable in every case. In particular, if it is possible to determine the location of the property by applying “traditional common law approaches”, then it will be unnecessary to invoke the “connecting factors” test.
+2. It follows that the default position to determining where property is situated pursuant to s. 87 are the “traditional common law approaches”.
+3. That being the case, the onus is on the party that wishes to invoke other factors to demonstrate why a “traditional common law” approach is inapplicable. In this particular case, it follows that the Crown bears the onus of demonstrating why the Common Law Rule is inadequate to the task.
+[42] Counsel for the Appellants concluded that when the common law rule for the situs of a debt is applied to the facts in these appeals, the Appellants’ wages are situated on a reserve where their employer NLS has its offices. In the alternative, if the “connecting factors” test must be used, then the relevant factors are the location where the debt for wages is recoverable; the location of payment; and, the place of contracting. All of these locations are on the Six Nations Reserve as are the Appellants’ wages.
+The Respondent’s position with respect to the interpretation of section 87 of the Indian Act [43] It was the Respondent’s position that the “connecting factors” test which was established in Williams and confirmed by the Supreme Court of Canada in Bastien is the test to be applied in order to attribute a location to property for the purposes of section 87 of the Indian Act.
+The Law [44] Paragraph 87(1)(b) of the Indian Act provides that:
+87. (1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83 and section 5 of the First Nations Fiscal Management Act, the following property is exempt from taxation:
+…
+(b) the personal property of an Indian or a band situated on a reserve.
+[45] The exemption in the Indian Act is incorporated into the Income Tax Act by paragraph 81(1)(a) which reads in part:
+81(1) There shall not be included in computing the income of a taxpayer for a taxation year,
+(a) an amount that is declared to be exempt from income tax by any other enactment of Parliament …
+[46] It was decided in Nowegijick that income was both personal property and intangible property. The only question to be decided in these appeals is whether the employment income of each Appellant is “situated on a reserve”.
+[47] I disagree with the Appellants that the situs of the debt is the appropriate test to determine this question. I understand from the decision in Williams that the “residence of the debtor test” used in Nowegijick to determine whether income was “situated on a reserve”, no longer applies in the context of section 87 of the Indian Act. In this regard, in Williams, Gonthier J. stated:
+25 The factor identified in previous cases as being of primary importance to determine the situs of this kind of property is the residence of the debtor, that is, the person paying the income.
+…
+27 The only justification given in these cases for locating the situs of a debt at the residence of the debtor is that this is the rule applied in the conflict of laws. The rationale for this rule in the conflict of laws is that it is at the residence of the debtor that the debt may normally be enforced.
+…
+28 …This may be reasonable for the general purposes of conflicts of laws. However, one must inquire as to its utility for the purposes underlying the exemption from taxation in the Indian Act.
+…
+32 In resolving this question, it is readily apparent that to simply adopt general conflicts principles in the present context would be entirely out of keeping with the scheme and purposes of the Indian Act and Income Tax Act. The purposes of the conflict of laws have little or nothing in common with the purposes underlying the Indian Act. It is simply not apparent how the place where a debt may normally be enforced has any relevance to the question whether to tax the receipt of the payment of that debt would amount to the erosion of the entitlements of an Indian qua Indian on a reserve. The test for situs under the Indian Act must be constructed according to its purposes, not the purposes of the conflict of laws. Therefore, the position that the residence of the debtor exclusively determines the situs of benefits such as those paid in this case must be closely re-examined in light of the purposes of the Indian Act. It may be that the residence of the debtor remains an important factor, or even the exclusive one. However, this conclusion cannot be directly drawn from an analysis of how the conflict of laws deals with such an issue. (emphasis added)
+[48] It is of little consequence whether the rule for the “situs of a debt” derives historically from the common law or from the conflict of law. The Supreme Court of Canada has instructed that in determining whether property is “situated on a reserve”, one must have regard to the purpose of the Indian Act and the Income Tax Act.
+[49] In identifying that the analysis of “connecting factors” was the appropriate test to determine whether income was “situated on a reserve” for the purposes of section 87, Gonthier J. did not limit the use of the test to unemployment insurance benefits. Rather, he envisioned that the “connecting factors test” would apply to any type of income. This interpretation was affirmed by the Supreme Court of Canada in Bastien when it stated that the “connecting factors test” applied to determine the location of intangible personal property; that is, the test applies to all types of income. In Bastien, Cromwell J. explained:
+2…One determines the location of intangible personal property such as the interest income in issue in this case by conducting a two-step analysis. First, one identifies potentially relevant factors tending to connect the property to a location and then determines what weight they should be given in identifying the location of the property in light of three considerations: the purpose of the exemption from taxation, the type of property and the nature of the taxation of that property.
+…
+16 Where, because of its nature or the type of exemption in question, the location of property is not objectively easy to determine, courts must apply the connecting factors approach set out in Williams v. R., [1992] 1 S.C.R. 877 (SCC) , in order to attribute a location to the property. While this search for location may seem at times to be more the stuff of metaphysics than of law, the attribution of location is what the Indian Act provisions require. The difficulty of doing so means that it is not generally possible to apply a simple, standard test to determine the location of intangible property.
+[50] In Williams and again affirmed in Bastien, the court cautioned against having a single criterion test or a test which contained only one or two factors because the test would be open to manipulation and abuse.
+[51] The Appellants position is not novel. This is not the first time this argument has been made in an appeal where NLS was the employer. As an example see Horn et al v The Queen, 2008 FCA 352; Hester v The Queen, 2010 TCC 647; and Baptiste v The Queen, 2011 TCC 295. In each case, as here, the argument was found to have no merit. In its recent decision in The Estate of Charles Pilfold v The Queen, 2014 FCA 97, the Federal Court of Appeal affirmed that the search for the situs of income for the purposes of section 87 “requires a complete consideration of all facts relating to the income which must include but cannot be limited to the formal structure through which the income is received”.
+[52] There is no merit to the Appellants’ argument respecting the test applicable to the interpretation of section 87 of the Indian Act.
+[53] According to Bastien, the first step in determining whether the Appellants’ income is situated on a reserve is to identify potentially relevant factors which tend to connect the income to a location. The second step is to weigh each factor in light of the purpose of the exemption from taxation, the type of property, and the nature of the taxation.
+The “connecting factors” [54] In Desnomie v R, [1998] 4 CTC 2207 (TCC), Archambault J. considered the following “connecting factors” to analyze whether employment income was “situated on a reserve”:
+1. the residence of the employer;
+2. the residence of the employee;
+3. where the employee was paid;
+4. where the work was performed; and
+5. the nature of the services performed or the special circumstances in which they were performed.
+Justice Archambault’s decision was affirmed by the Federal Court of Appeal ([2000] 3 CTC 6) and leave to appeal to the Supreme Court of Canada (265 NR 398) was denied. It is my view that these factors continue to be relevant in a section 87 analysis with respect to employment income.
+The type of property [55] Each of the Appellants received wages in exchange for the services they provided. The property at issue in these appeals is employment income.
+The nature of the taxation [56] Employment income is taxed pursuant to subsection 5(1) of the Income Tax Act. It is taxable when it is received.
+The purpose of the exemption [57] The purpose of the exemption is to preserve the entitlements of Indians to their reserve lands and to ensure that the use of their property on their reserve lands is not eroded by the ability of governments to tax: Williams at paragraph 16 and affirmed in Bastien at paragraph 23. The Supreme Court of Canada and the Federal Court of Appeal have informed us that the following principles are important and should be remembered in any analysis of section 87.
+1. The words “situated on a reserve” should be interpreted consistently throughout the Indian Act to mean “within the boundaries of the reserve”: Union of New Brunswick Indians v New Brunswick (Minister of Finance), [1998] SCR 1161.
+2. Both Gonthier J. in Williams and LaForest J. in Mitchell v Sandy Bay Indian Band, [1990] 2 SCR 85 cautioned that the purpose is not to confer a general economic benefit upon Indians by ensuring that they can acquire, hold and deal with property in the commercial mainstream on different terms than their fellow citizens.
+3. The availability of the exemption does not depend on whether the property is integral to the way of life on the reserve or that it benefits the traditional Indian way of life.
+4. The purpose of the requirement in section 87 is to “determine whether the Indian holds the property in question as part of the entitlement of an Indian qua Indian on the reserve”: Williams at paragraph 19.
+5. The question is whether the property is situated on a reserve not whether the owner of the property is situated on a reserve: Kelly v Canada, 2013 FCA 171 at paragraph 52.
+6. It is important not to give so much weight to the ‘commercial mainstream’ factor that it “undercuts the purposes of section 87”: Kelly at paragraph 64.
+Analysis [58] I will address the factors “Location of employer”, the “Location where the Appellant’s were paid”, and “Residence of the Appellant” globally as the facts pertaining to these factors are the same for all Appellants except Diane Sheridan who had a residence on a reserve. I will also include an analysis of the facts with respect to Sheridan’s residence in the section I have labelled “Residence of the Appellant”. Then, I will address the other connecting factors for each Appellant separately as the nature of their employment and the services they delivered differed for each Appellant.
+Location of employer [59] According to Williams, the location of the employer is a factor that should be analyzed in the connecting factors test. However, there should be little weight given to this factor unless there is evidence to show the scope of the employer’s activities on the reserve, or some benefit flowing to a reserve from the employer’s presence: The Queen v Monias, 2001 FCA 239 at paragraph 50.
+[60] NLS located its office on the Six Nations Reserve. The key functions of its employee leasing operation – human resources administration, payroll and benefits administration, invoicing and accounting, general administrative support – are conducted from this location. All NLS files including staff and financial records are kept on the reserve.
+[61] The placement agreements with the placement organizations and the contracts of employment with the Appellants were signed on the Six Nations Reserve.
+[62] More specific to the leased employees, NLS provided the following services:
+a) If a placement organization accepted NLS’s suggestion and established a performance evaluation system, then the evaluations were done by the supervisor at the placement organization or by NLS;
+b) If there was a problem with an employee, then the agreement between the placement organization and NLS required the placement organization to contact NLS who attempted to resolve the problem. If the problem could not be resolved, then it was NLS who terminated the employee’s employment.
+c) NLS offered optional benefit packages, training and networking to the leased employees.
+[63] Although NLS conducted its key activities on the Six Nations Reserve, there was no evidence that a benefit flowed to the reserve from its activities. The only employees which NLS had at its office on the Six Nations Reserve were its administrative staff. In 2009 it had 11 administrative staff and in 2010 it had 13 administrative staff. There was no evidence that any of these staff members lived on a reserve or that they were Indian or that their employment with NLS benefited a reserve.
+[64] NLS’s only source of revenue was the fees from providing the employees to the placement organizations. There was no evidence with respect to its earnings or its profit in 2009 and 2010. There was no evidence that NLS’s presence on the Six Nations Reserve benefited the reserve. There was no evidence that NLS made payments to Six Nations Reserve. Its operations could have been conducted from any place. There was no evidence to demonstrate that NLS was actually ‘connected’ to the reserve beyond having its office there.
+[65] Although its administrative staff deposited the Appellants’ wages in their bank accounts on a reserve from the Six Nations Reserve, NLS “did little more than act as a conduit” between the placement organizations and the Appellants: McIvor v The Queen, 2009 TCC 469 at paragraph 85. I have given little weight to the fact that NLS had its bank account on-reserve. In my view this was a contrivance to link the transfer of the Appellants’ wages from the placement organizations to a reserve.
+[66] In conclusion, there is a slight connection in respect of the location of the employer but I ascribe very little weight to it. NLS’s office on the Six Nations Reserve was really a location of convenience. This does not situate the Appellants’ employment income on a reserve: Monias at paragraph 50.
+Location where the Appellants were paid [67] Each Appellant was paid by having her/his wages deposited into her/his bank account on a reserve. There was no reason given by any Appellant for having a bank account on a reserve and I have inferred from Exhibit A-7, tab 8 that it was a requirement of their employment with NLS. In my view this was an attempt by the Appellants and NLS to manipulate the test for locating the situs of the employment income. I have attached no weight to this factor.
+Residence of the Appellants [68] The residence of an individual may be a relevant factor connecting employment income to a reserve. It can indicate whether the income was acquired or used on a reserve: Monias at paragraph 20. However, the Appellants off-reserve residence may locate their employment income off-reserve as well.
+[69] The decision in Dubé v R, 2011 SCC 39 informs us that although this factor may be potentially relevant, it should be given little weight. The objective is to find a location for the Appellants’ employment income not where the Appellants were located.
+[70] Each of the Appellants, except Diane Sheridan, lived off-reserve. For those Appellants whose residence was located off-reserve, this factor indicates an off-reserve location to the employment income but I attribute little weight to this factor.
+[71] I also attribute little weight to this factor for Diane Sheridan. She lived in Barrie five days a week and traveled to her residence on the Hiawatha First Nations Reserve for the weekend. There was no evidence to demonstrate that there was a nexus between her employment income and her residence on the Hiawatha First Nations Reserve. She returned to her home on the reserve for personal reasons and not for any reason connected to her employment. No evidence was provided with respect to how she used her employment income. There was no evidence to show that her employment income benefited the reserve.
+Location, nature of the services performed and the special circumstances in which they were performed [72] The location and nature of the Appellants work is the most important factor to consider in this section 87 analysis. This flows from the type of property involved – employment income. The income is earned as a result of the services provided and therefore the services themselves may be an aid in determining the location of income. In Shilling v Minister of National Revenue, 2001 FCA 178 the scope of this factor was described as follows:
+49 …Normally, regard must be had to the nature of the employment as a whole and the surrounding circumstances to determine what connection, if any, the off-reserve employment has to a reserve.
+Art Zoccole [73] In 2010, Zoccole worked at 2-Spirited’s office in downtown Toronto. As Executive Director of 2-Spirited, he coordinated the activities of the organization. He managed and administered its operation in accordance with its by-laws and policies. He was responsible for recruitment, selection and management of all staff; and, he was in charge of the financial management and administration of the organization.
+[74] 2-Spirited is a non-profit social services organization which provides services to gay, lesbian, bisexual, transgender and inter-sexed (“LGBT”) Aboriginals who are living with HIV and AIDS. Its Mission Statement specifies that its membership consists of Aboriginal LGBT people in Toronto whereas its Information Guide includes Aboriginal LGBT people in North America as its members.
+[75] Zoccole testified that 95% of the people 2-Spirited provides services to are First Nations people who come from across Canada to Toronto either for medical reasons or because they have been discriminated against or ostracized in their home community. In 2010, 70% of its clients lived in Toronto. 2-Spirited also provides indirect services to people on-reserve through partnership with an on-reserve group. An example of work they do directly with a reserve is repatriating the remains of a deceased. In direct examination, Zoccole described his duties as follows:
+That of the executive director; so overseeing the operations of the agency, ensuring that the services that we need to do in terms of providing services to over I would say hundreds of aboriginal people who are living with HIV and AIDS in City of Toronto and elsewhere throughout Canada basically, because people utilize our services right across the country. And we have a website that some of the documents that we've prepared to help people to work with our community have been utilized by First Nations communities across Canada.
+[76] 2-Spirited was incorporated in 1995 with Zoccole as one of its first directors. According to the constating documents for 2-Spirited, four of its objects were:
+(i) To educate the aboriginal community and the general public, through cultural programs, historical reviews and other educational activities, about the traditional role and place of honour held by homosexual, lesbian and gay persons in the aboriginal community prior to the arrival of non-aboriginal persons to Canada.
+(ii) To provide a forum to educate persons about the cultural practices, roles, knowledge and history of aboriginal persons in general and those relating to homosexual, lesbian and gay aboriginal persons in particular, which existed prior to the arrival of non-aboriginal persons to Canada.
+(iii) To promote all aspects of a healthy lifestyle and healthy community among aboriginal persons including supplementing the activities of existing health services and assisting in the prevention of the further spread of the Human Immunodeficiency Virus and other similar health-related conditions.
+(iv) To improve the quality of life of aboriginal persons infected and affected by the Human Immunodeficiency Virus and other similar health-related conditions by providing counselling, information, advice, assistance, supportive care and accommodation to them and to their families and friends before and after death and by offering programs and projects designed to dispel their sense of alienation and isolation from other members of the community.
+[77] In 2010, 2-Spirited was funded by the Ontario Ministry of Health and Long Term Care Aids Bureau (“Aids Bureau”) and the Toronto Central Local Health Integration Network Long Term Care Program. The Program Plan which 2-Spirited submitted to the Aids Bureau for its 2009/2010 and 2010/2011 fiscal years showed that its programs and services included workshops to both Aboriginal and non-Aboriginal organizations in Toronto, Thunder Bay, London, Windsor and Kingston; support services to its members; sharing its resources with community organizations; distributing a pamphlet on HIV prevention to its members and to First Nations communities; participating in the Toronto Aboriginal Research Project. Its focus was on working with Aboriginal people in urban or rural areas. It did not provide services to reserves.
+[78] In 2010 Zoccole did not travel to reserves.
+[79] Given these facts, Zoccole’s employment does not indicate any connection to a reserve. His services were performed off-reserve and according to the Mission Statement for 2-Spirited, its membership was intended to be the Aboriginal LBGT people in Toronto. Any work done by 2-Spirited with people on-reserve was incidental to its core activities. The location, nature of the services performed by Zoccole and the special circumstances in which the services were performed situate his employment income off-reserve.
+Laura Baldwin [80] In 2010, Baldwin provided her services as a tenant relations worker/payroll clerk through NLS to Nishnawbe Homes at its building located at 244 Church Street in downtown Toronto.
+[81] The thrust of Baldwin’s duties was to help manage 244 Church Street. Her duties included administration work, payroll, hiring staff, interviewing tenants, tenant support, secretarial and receptionist. She also took care of paperwork regarding the tenants and collected rents. She spent 75% of her time dealing with tenants and the rest of her time was spent on administrative duties.
+[82] Nishnawbe Homes opened the building at 244 Church Street in Toronto in 2008 as a renovated three-storey apartment building. The building has 60 furnished single room occupancy units with shared kitchens and washrooms. This building also houses the office for Nishnawbe Homes. It was purchased and renovated with funds provided from the Canada-Ontario Affordable Housing Program. Pursuant to a Contribution Agreement, Nishnawbe Homes received operating assistance in the form of property tax exemption, planning application exemption and building permit exemption from the City of Toronto.
+[83] A small number of the tenants at 244 Church Street were students who came from a reserve to attend university in Toronto. Most of the tenants were previously homeless or without a permanent address and living in the Toronto area. All of the tenants were Aboriginal people.
+[84] Baldwin’s statement that most of the residents of the home at 244 Church Street were status Indians is unsupported and unreliable. She had no records with her and she had agreed that Nishnawbe Homes did not keep a record of its tenants’ background or whether they were coming directly from a reserve. She also agreed that all “eligible Aboriginal individuals” could access the services of Nishnawbe Homes regardless of whether they were coming from a reserve or were status Indian.
+[85] To qualify to be a tenant in Nishnawbe Homes, an individual had to self identify as an Aboriginal; be working or be in receipt of or qualify to receive income from Ontario Works (“OW”) or Ontario Disability Support Program (“ODSP”). Tenants had to sign a one year lease and most of them paid their rent in cash.
+[86] Nishnawbe Homes is a non-profit housing corporation which housed Aboriginals in the downtown core of Toronto. It was a participant in the Urban Native Housing Program and as a result, it received assistance from CMHC to purchase homes to meet the needs of urban Aboriginal households looking for affordable, adequate and suitable rental housing. According to Frances Sanderson, executive director of Nishnawbe Homes, the agreements with CMHC has enabled Nishnawbe Homes to purchase 10 homes. CMHC has also provided a subsidy for 49 units of the 10 homes.
+[87] Although the Urban Native Housing Program was administered by CHMC on behalf of the federal government, the federal funding and the responsibility for the administration of most of the existing federally funded social housing off-reserve, was transferred to the Province of Ontario. In turn, Ontario has, by statute, devolved the administration of the existing federally funded social housing portfolio, including housing projects in the Urban Native Housing Program and social housing programs administered by Ontario, to either municipalities or, in the north, district social service administration boards as “service managers”. The City of Toronto is the municipal government service manager responsible for funding and administering social housing and social housing agreements in Toronto.
+[88] All of Baldwin’s services were performed in Toronto, off-reserve. Even if most of the tenants came from a reserve, they all lived in Toronto when they benefited from her services. This does not serve to connect Baldwin’s employment income to a reserve. She performed services for Nishnawbe Homes whose purpose was really the same as that of the Urban Native Housing Program; that is, to assist urban Aboriginal households looking for affordable, adequate and suitable rental housing. Its programs were all aimed at off-reserve activities.
+[89] The only difference between Baldwin’s duties and that of other administration staff working in a social services office in downtown Toronto is that all of her clients are Aboriginal people. This does not situate her employment income on-reserve.
+Virginia Forsythe [90] In 2010, Forsythe worked as a health outreach worker for the Ontario Aboriginal HIV/AIDS Strategy (“OAHAS”) from their office in Cochrane, Ontario where she lived.
+[91] The OAHAS program aims “to educate the Aboriginal public about the causes and effect of and treatments for HIV/AIDS by offering workshops, seminars, conferences and meetings, and collecting and disseminating information on that topic”.
+[92] Forsythe’s duties included conducting HIV/AIDS workshops, information sessions, healthy promotion sessions, healthy sexuality workshops, giving individual counselling and making referrals. She provided support to individuals by means of the telephone or Facebook or in person. She provided education and advocacy to her clients. She stated that she did outreach which required that she travel to communities to give information about the services she offered. She did outreach both on- and off-reserve.
+[93] Forsythe stated that she provided individual counselling which could, on occasion, require her to travel to a reserve, but it was more likely that the clients who required counselling lived in the urban areas. In 2010, she provided counselling to approximately 10 people, 3 of whom lived on a reserve.
+[94] Some communities which Forsythe said she visited were Taykwa Tagamou, Chapleau Cree First Nations, Brunswick House, Chapleau Oji-Cree, Mattagami First Nations, Wahgoshig and Constance Lake. She also attended at Monteith Correctional Complex, Jubilee Centre (an addiction treatment facility in Timmins) and North Cochrane Addiction Services at Smooth Rock, Migwam Youth Facilities, and Pineger Youth Residence. In cross-examination, she stated that she also held workshops in Cochrane and in Timmins.
+[95] Forsythe estimated that she spent 70% of her time away from her office in Cochrane and of that time, 30% of it was spent working with people on a reserve or with people from a reserve who were in institutions.
+[96] According to her evidence, many of the persons she worked with were transient status Indians who came into Cochrane. However, she had no statistics concerning whether the persons she worked with were status or non-status Indians, Métis or Inuit.
+[97] It was her evidence that although she worked out of OAHAS’ office in Cochrane, her duties required that she travel to various Aboriginal communities, including reserve communities, in the northeast region of Ontario. Forsythe was closely questioned by counsel for the Respondent to ascertain if she had any documents which she had prepared in 2010 which would support her evidence with respect to her clients and her travels. She admitted that she had to submit travel claims to OAHAS for her travel; that she kept a copy of these travel claims but she did not bring them to the hearing of her appeal because they would show where she traveled in 2010. Her evidence was as follows:
+Q. You would have to submit travel budgets?
+A. I put my travel claims in and then I would...
+Q. Who would you submit them to?
+A. I would send them to the head office.
+Q. Whose head office?
+A. Of my placement agency.
+Q. Did you keep copies of those?
+A. Yes.
+Q. You didn't bring them?
+A. No.
+Q. Because they would show where you were going?
+A. Yes.
+[98] It is my view that Forsythe’s credibility was completely shaken. Although I believe that she did provide some services on-reserve, there was nothing to substantiate that she did so in 2010 and if so, how often she provided the services. She did agree that she only went on-reserve when she was invited by the Chief or the community health representative or someone from the Native Aboriginal Addiction Program.
+[99] In 2010, OAHAS was funded primarily by the Ontario Ministry of Health and Long-Term Care with some funding from the Public Health Agency Canada.
+[100] Frank McGee from the Ministry of Health also testified. He explained that it was not important for the purposes of the OAHAS program whether the clients lived on- or off-reserve.
+[101] Although Forsythe, on occasion, provided her services on-reserve, the nature of her employment was to help and inform Aboriginal people no matter where they lived. The mission of OAHAS was not restricted to on-reserve people. The evidence indicated that Forsythe spent the majority of her time working off-reserve with off-reserve people. The evidence submitted at the hearing did not demonstrate that the location and nature of her work was connected to a reserve.
+Carrie Martin [102] In 2010, Martin held three different positions with the Native Women’s Shelter of Montréal (“NWSM”). From January 1 to March 31, she worked as a Harm Reduction Coordinator. This position was funded by the Public Health Agency of Canada (“PHAC”) from its Non-Reserve First Nations, Inuit and Métis Communities HIV/AIDS Project Fund (the “Non-Reserve Fund”). The funding from PHAC ended on March 31 and Martin then provided the services of an Aboriginal Healing Foundation (“AHF”) Evaluation Coordinator to NWSM for the period April 1 to June 30. Finally from July 1 to December 31, she returned to the position of Harm Reduction Coordinator which was now funded by the Province of Québec.
+[103] As the Harm Reduction Coordinator, Martin assisted women who were permanent residents in the City of Montréal area and women who came to Montréal from a reserve to obtain services which were not offered on reserves. She stated that this latter category of women was returning to a reserve after they received their treatments and she estimated that they comprised 50% of her clientele.
+[104] As a Harm Reduction Coordinator, Martin worked with Aboriginal women who were HIV, Hep-C or STI-positive, or were at risk. Her job was to provide educational awareness and prevention activities to those women. She facilitated workshops on topics related to harm reduction; accompanied women to appointments; arranged for HIV testing; organized ceremonies such as sweat lodges and traditional healing activities; participated in street patrols to help women; and networked with other social service agencies.
+[105] When Martin was the Evaluation Coordinator, she completed the final quarterly report and archived files for several projects which NWSM had carried out over the prior 10 years. All of this work was done in the shelter in Montréal.
+[106] The evidence demonstrated that, regardless of the position Martin held, all of her services, were provided in Montréal and off-reserve. The funding from the Non-Reserve Fund of PHAC for her position as Harm Reduction Coordinator specified that it supported only off-reserve activities. The nature of the services performed; the circumstances under which they were performed and the funding which allowed for the services all indicate that Martin’s employment income was situated off-reserve. The focus of her work was to service Aboriginal women in the Montréal area.
+[107] Martin stated that 50% of her clients came from a reserve to access services in Montréal and returned to the reserve after they received the services. The fact that her clients could only receive these services off-reserve does not assist in placing Martin’s employment duties on a reserve: Monias at paragraph 42.
+Diane Sheridan [108] Sheridan worked out of the Barrie Native Friendship Centre (“Friendship Centre”) in Ontario as a Healthy Baby Healthy Children worker. Her position was funded by the Province of Ontario through the Ministry of Community and Social Services.
+[109] As part of her duties, Sheridan offered parenting and pre-natal care courses; she made home visits to the families who were her clients and she networked with other organizations to share resources and to refer her clients or accept referrals as need be. Her clients either came to her because they were aware of the services she offered or they were referred to her. Families normally remained as her clients for 3 to 6 months.
+[110] It was mandatory that she make monthly home visits to her clients so that she could see their living arrangements and assess whether the babies were at risk. In 2009, most of her home visits were made to clients who lived within the municipal boundary of Barrie.
+[111] Sheridan taught courses to her clients to help them develop healthy life styles. She also taught or facilitated traditional teachings to assist her clients to heal in a traditional way. These courses were taught at the Friendship Centre in Barrie.
+[112] Sheridan stated that she networked with the Children’s Aid Society in Barrie and the Barrie Area Native Association. She assisted the Children’s Aid Society with the development of an Aboriginal component to their organization. She, the nurse from the Rama Reserve and the children services person from the Christian Island Reserve met on a regular basis to share resources and ideas. It was her evidence that they met either on the reserve or at the Friendship Centre. She gave no details with respect to the frequency of these meetings or how often they occurred on a reserve or at the Friendship Centre.
+[113] Sheridan worked with families who had custody issues with their children. In direct examination she described two situations when she had to work on customary care agreements. In particular, she stated that there had been two families who were going to lose their children. In one case, twin babies had been taken from the mother as soon as she gave birth in the hospital. The twins were in Orillia and Sheridan worked to set up a customary care arrangement for them with their paternal grandparents on the Christian Island Reserve. The second situation concerned a mother who lived in Barrie who was going to lose her three children. Sheridan arranged for the mother’s family to take care of the children. One child was placed with a family member on the Christian Island Reserve and two children were placed with family in Barrie. She stated that she visited the on-reserve families on occasion but most of her contact with them was done by telephone.
+[114] In direct examination, Sheridan estimated that 50% of her services related to families who lived on-reserve.
+[115] Sheridan’s evidence was far from clear. Her evidence consisted of estimates and guesses which did not satisfy her onus to demonstrate that her employment income was “situated on a reserve”. In addition, in my view she exaggerated the number of on-reserve families she worked with and the percentage of her services which related to on-reserve families in 2009. My conclusion is based on the following evidence.
+[116] In direct examination Sheridan recalled only 2 situations where she worked with on-reserve families in 2009. In cross-examination, she stated that she worked with 3 on-reserve families.
+[117] Initially in cross-examination she stated that in 2009 she had between 12 and 15 clients at any one time. After further probing questions from Respondent’s counsel, Sheridan admitted she did not know how many clients she had in 2009.
+[118] Lance Triskle was an Aboriginal criminal court worker with the Friendship Centre from September 2005 until July 2007 when he became its Executive Director. He served in this position until July 2009. He testified that twin babies were apprehended at birth by the Children’s Aid Society in June 2006 and that Sheridan worked with them but he didn’t know when she ceased to work with them. He could not recall if the twins were put into customary care but he stated that their grandparents, who lived on the Christian Island Reserve, had unsupervised visits with them.
+[119] Lance Triskle also stated that the workers from the Friendship Centre could not go on a reserve unless they were invited. He stated that “it could have grave consequences for our relationship with those First Nations, given that many of their community members lived in our urban centre”.
+[120] Gary Sutherland became the Executive Director of the Friendship Centre on July 6, 2009 but he was with the Centre since its inception in 1988. It was his evidence that one of the objectives of the Friendship Centre was “to act on behalf of the Aboriginal people in an off-reserve environment”. In particular, the Centre’s geographic territory (catchment area) was the city of Barrie and 25 kilometres outside of Barrie. There were no reserves within the Centre’s catchment area. However, the Centre did not refuse services to people who lived on-reserve and came to Barrie to seek services from the Centre. He estimated that no more than 10% of the families receiving services from the Healthy Babies Healthy Children program would have come directly from a reserve.
+[121] He stated that during his tenure, the Healthy Babies Healthy Children worker was never required to drive to a reserve to perform her services. He highly doubted if Sheridan drove to a reserve to deliver her services because her travel budget was minimal – it was an annual amount of only $1500 – and it had to compensate her for her travel within the catchment area.
+[122] I have concluded that Sheridan performed the majority of her duties at the Friendship Centre, at Court, at homes in the Centre’s catchment area and at the Children’s Aid Society office – all of these were locations in Barrie and off-reserve. Any on-reserve clients that she may have had in 2009 came to Barrie, an off-reserve location, to seek her services. The number of on-reserve clients that she had in 2009 was minimal.
+[123] The evidence indicated that the location, nature of the services performed and the special circumstances in which Sheridan performed her employment services were off-reserve. I accept that in 2009 she may have had a small number of clients who lived on-reserve but came to Barrie to receive services from her and that she contacted them by telephone. These services were insufficient to situate Sheridan’s employment income on-reserve: Shilling v Minister of National Revenue, [1999] FCJ No.889 (FCTD) at paragraph 60. The focus of her services was the Aboriginal community who lived within the Centre’s catchment area – an off-reserve location. Her work with on-reserve persons was incidental to the performance of her duties.
+Conclusion [124] I have concluded from my analysis of the connecting factors that the employment income for each Appellant was situated off-reserve. As a result, the income for each Appellant was properly assessed as being taxable and the appeals are dismissed. No costs are awarded in this matter.
+Signed at Halifax, Nova Scotia, this 26th day of September 2014.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2014TCC284
+COURT FILE NO.:
+2012-2252(IT)I
+2012-2042(IT)I
+2012-2035(IT)I
+2012-2609(IT)I
+2012-1920(IT)I
+STYLE OF CAUSE:
+LAURA BALDWIN
+VIRGINIA FORSYTHE
+CARRIE MARTIN
+DIANE SHERIDAN
+ART ZOCCOLE
+AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 13-17, 2014
+February 26-27, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+September 26, 2014
+APPEARANCES:
+Counsel for the Appellant:
+James Fyshe
+Counsel for the Respondent:
+Laurent Bartleman
+Gordon Bourgard
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+James Fyshe
+Firm:
+Fyshe McMahon LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

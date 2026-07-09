@@ -1,0 +1,148 @@
+Title: Patricia & Daniel Blais O/A Satronics Satellites v The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29942/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-361-29942-patricia-daniel-blais-o-a-satronics-satellites-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-07-08
+
+# Patricia & Daniel Blais O/A Satronics Satellites v The Queen
+
+- Citation: 2010 TCC 361
+- Decision date: 2010-07-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6488, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Patricia & Daniel Blais O/A Satronics Satellites v The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-08
+Neutral citation
+2010 TCC 361
+File numbers
+2006-1815(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1815(IT)I
+BETWEEN:
+PATRICIA & DANIEL BLAIS
+O/A SATRONICS SATELLITES,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 14, 2010, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellants:
+Patricia Blais
+Counsel for the Respondent:
+Charles M. Camirand
+____________________________________________________________________
+JUDGMENT
+The appeal from the Notices of Assessment dated July 13, 2000 made under the Income Tax Act for the periods January 1, 1998 to December 31, 1998, January 1, 1999 to December 31, 1999 and January 1, 2000 to March 31, 2000 with respect to Part XIII non-resident withholding tax is allowed and the assessments are vacated.
+The Appellants are granted costs in the total amount of $1,000.
+Signed at Toronto, Ontario, this 8th day of July 2010.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2010TCC361
+Date: 201007108
+Docket: 2006-1815(IT)I
+BETWEEN:
+PATRICIA & DANIEL BLAIS
+O/A SATRONICS SATELLITES,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The Appellants have appealed notices of assessment for the periods January 1 to December 31, 1998, January 1 to December 31, 1999 and January 1 to March 31, 2000 wherein the Minister of National Revenue (the “Minister”) assessed Part XIII tax in the amounts of $8,023.24, $6,361.70 and $1,108.74 respectively, with respect to payments made to a non-resident.
+[2] The Minister issued the assessments on the basis that the payments made to DSI Distributing Inc. were royalties, and in particular, were copyright royalties which were subject to withholding under paragraph 212(1)(d) and, or subsection 212(5) of the Income Tax Act (the “Act”). The Minister confirmed the assessments on the basis that the Appellants were required by subsection 215(1) of the Act to deduct or withhold an amount in accordance with paragraph 212(1)(d). In the Notice of Confirmation, the Minister stated that the payments to the non-resident were royalties in accordance with paragraph 212(1)(d) and that the payments were copyright royalties.
+[3] The withholding rate of 25% imposed by paragraph 212(1)(d) of the Act was reduced to 10% in accordance with the Canada-United States Income Tax Convention (1980) (the “Convention”).
+Preliminary Matters
+[4] On December 3, 2007 the Respondent brought a motion to file an Amended Reply to the Notice of Appeal. That motion was granted subject to one word being changed in the draft Amended Reply. At the hearing of this appeal, it became apparent that the Amended Reply had never been filed with the court.
+[5] Patricia Blais gave evidence on behalf of the Appellants. She stated that she had telephoned the court prior to the hearing and was told that only the original Reply was before the court. She stated that she had prepared for the hearing on that basis.
+[6] Counsel for the Respondent stated that he was able to make his submissions using either the Reply or the Amended Reply. Ultimately he made his submissions with respect to both the Reply and the Amended Reply.
+[7] I have reviewed the transcript of the motion proceedings and I have concluded that the Appellants have not been prejudiced by allowing the Amended Reply to be filed at this hearing. They were not taken by surprise by the Respondent’s submissions. At the hearing of the motion with respect to the Amended Reply, the Appellants heard the arguments and the position that would be taken by the Minister of National Revenue (the “Minister”).
+[8] Counsel for the Minister explained that the Reply was amended so that the Appellants would better know the Minister’s position and the case they had to meet. In particular, Patricia and Daniel Blais are in partnership and this was not addressed in the original Reply. Also, the reference to taxation years in the Reply was misleading as Part XIII tax must be withheld and remitted forthwith and not on an annual basis. The Amended Reply speaks specifically to the periods in issue. Finally, the Reply referred to the payments as being copyright royalties. It is the Minister’s position in the Amended Reply that the payments in issue were not copyright royalties but were “royalties” or “rents” or other similar payments.
+[9] The Minister abandoned his position that the payments were copyright royalties as copyright royalties are exempt from taxation under subparagraph 212(1)(d)(vi) of the Act. He is entitled to make the alternative argument that the payments were rents or other similar payments as that argument is supported by the section of the Act on which he relied.
+[10] Although it was not raised by the Appellants at the hearing, I have concluded that the Minister has not changed the basis of the assessment. He has only put forth an alternative argument. Rothstein J.A., as he then was, stated the following in Anchor Pointe Energy Ltd. v. R.[1]:
+37 Subsection 152(9) permits the Minister to rely upon an alternative argument in support of an assessment after the normal reassessment period. There is no suggestion here that Anchor Pointe is no longer able to adduce relevant evidence with respect to the Minister's new basis or argument. Therefore, if the Global decision constitutes a new basis or argument in support of the reassessment, the Minister may rely upon it even though it was not relied upon prior to expiry of the normal reassessment period.
+[11] I have made these observations as the Appellants argued their case solely on the ground that the payments to the non-resident were not copyright royalties.
+Issue
+[12] The issue in this appeal is whether the amounts paid by the Appellants to the non-resident were “rents”, “royalties” or other similar amount.
+Facts
+[13] Patricia Blais and her husband, Daniel Blais, operated as partners under the name Satronics Satellites. They had a contract with DSI Distributing Inc. which operated under the name National Programming Service (“NPS”). NPS was located in Indianapolis, Indiana. NPS sold satellite television programming to the Appellants who, in turn, sold United States (“US”) source television programming to persons in Ontario.
+[14] Mrs. Blais tendered a copy of a blank form which she said was the same as the form which she and her husband had signed with NPS. The relevant portions of this form are:
+NPS SATELLITE DEALER AGREEMENT & GUARANTEE
+1. Upon NPS’s acceptance of this Agreement, Guarantee, and Dealer Application, NPS will establish and maintain an account for the Dealer at the NPS facility and issue a 4 digit security code which will enable the dealer to charge satellite television programming to its account.
+2. NPS may sell satellite TV programming to the Dealer or do activations for the Dealer for certain satellite TV programmers which NPS has from time to time the rights to authorize or sell.
+3. The Dealer agrees that NPS will receive payment by the date printed on the programming invoice. If NPS does not receive payment by that date, the programming will be automatically suspended and then terminated.
+…
+6. NPS will credit the Dealer’s account for commissions for all programming services that NPS had the right to sell that have pre-established commission rates. Commission rates shall be determined by NPS from time to time and are subject to change without notice. The Dealer will receive commission credits on accounts it originates in the NPS computer system. Commission programs are subject to change without notice.
+…
+GUARANTEE
+WHEREAS, National Programming Service, LLC (“NPS”) has entered an Agreement with the Dealer whereby NPS will sell satellite television programming (“the Programming”) to the Dealer, which the Dealer will subsequently offer and sell to its customers.
+NOW, THEREFORE, in consideration of and to induce NPS to sell the Programming to the Dealer, the undersigned for themselves and their heirs, representative and assigns, jointly and severally, unconditionally guarantee the complete fulfillment of all obligations of the Dealer with respect to the Dealer’s NPS Star Dealer Agreement with NPS and the Dealer’s purchase of the Programming, and all indebtedness and obligations of the Dealer arising thereunder, whether heretofore or hereinafter incurred, including compromises, renewals, and extensions thereof, any of which may be made without notice to the undersigned. In the event of the Dealer’s default or breach of any obligations owing to NPS, NPS shall not be bound to exhaust its recourse against the Dealer, or against any person or any security NPS may at any time have before being entitled to payment from the undersigned hereunder. The liability of the undersigned shall not be affected by any extension, renewal or the release, settlement, or compromise of or with any party liable to NPS, or the release or non-perfection of any security. Each of the undersigned Guarantors hereby waives notice of the acceptance of this Guarantee, and of presentment, demand and protest and notices of non-payment and dishonour, and any other demands and notices required by law and waives all setoffs and counterclaims. The obligation of each of the undersigned guarantors hereunder shall be joint and several and in addition to any other obligation that such guarantor may have with respect to any agreement between NPS and the Dealer. The undersigned agrees that this Guarantee and any contemporaneous or subsequent agreement will be governed as to validity, interpretation, construction, effect and in all other respects by the laws of the State of Indiana and further consents to jurisdiction and venue of any action to lie in Marion County, Indiana. This Guarantee shall bind the undersigned and their respective heirs, administrators, personal representatives, successors, trustees, agents and assigns and shall inure to the benefit of all of NPS’s successors, agents and assigns.
+[15] In a prepared statement which Mrs. Blais read to the court, she described the partners’ relationship with NPS as follows:
+All of the rights in the programs for which we sold a subscription, reside in third parties. The uplinking of the television signal in long distance transmission does involve copyright. Therefore the uplinker, who are independent third parties pay royalties to the US networks because the uplinking is a retransmission of work protected by copyright. The US networks hold the copyright to the retransmitted work and therefore have the right to claim royalties on such transmissions. Because the retransmission of the works protected by copyright occur outside of Canada, any use of the copyright occurs outside of Canada.
+After the uplinking or retransmission takes place, the signals carrying television programming are relayed to earth for reception. The signals are uplinked to satellites outside of Canada and then relayed to earth continuously regardless of whether long distance viewers watch this television programming or not. We are not involved in the relay of signals to earth.
+As with local transmission, anyone who is equipped to receive the signal can watch television programming. Long distance viewers of satellite transmission do not deal with the copyright of US networks anymore than viewers of local television programming.
+We had a contract with National Programming Service. We were a reseller of satellite television activations. We would phone them for our customer to activate a subscription and they would activate whatever channels were available for long distance viewers. We obtained no rights to any television signal or programming directly. We were a middleman providing a service. We did not transmit, retransmit, copy or reproduce either the television programming or signals. We had no rights to activate any television channels ourselves. We contacted “NPS” to do the activation. They would take the customer’s descrambler ID # and NPS would activate the channels that the customer wanted to subscribe to.
+[16] The facts disclosed in the evidence were that NPS informed the Appellants of the list of channels which they had available. The Appellants in turn gave the list of channels to their customers who chose the channels they wanted. The customers subscribed to have access to the channels for a period of three months, six months or a year. The Appellants then sent this information along with the number on the customer’s descrambler unit to NPS which activated the descrambler unit for the chosen channels. The Appellants were paid by their customers. The Appellants then deducted their commission and sent the remainder of the payment to NPS. Mrs. Blais stated that she paid NPS on a weekly basis by credit card.
+[17] It was the Respondent’s position that the language in paragraph 212(1)(d) is broad enough to include the payments made to NPS. Counsel for the Respondent argued that the payments had the characteristics of a “rent”, “royalty” or similar payment.
+Analysis
+[18] The relevant part of paragraph 212(1)(d) of the Act reads as follows:
+212. (1) Tax -- Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+…
+(d) rents, royalties, etc. -- rent, royalty or similar payment, including, but not so as to restrict the generality of the foregoing, any payment
+[19] In R. v. Saint John Shipbuilding & Dry Dock Co.[2] Ryan, C.J. said the following concerning the terms “rent” and “royalty”:
+15 The payments have none of the characteristics of rentals or royalties. The word "rental" is not a familiar one to use in connection with property rights of the kinds enumerated but I see no reason to think that when used in reference thereto it would connote characteristics different from those it has in its more familiar use in relation to tangible property. A rental can, of course, be paid in a lump sum but in my opinion the word is inseparable from the connotation of a payment for a term, whether fixed in time or determinable on the happening of an event or in a manner provided for, after which the right of the grantee to the property and to its use reverts to the grantor. "Royalties", though a broad term, when used in the sense of a payment for the use of property, connotes a payment calculated by reference to the use or to the production or revenue or profits from the use of the rights granted. In Jowitt's Dictionary of English Law the term is defined thus:
+Royalty, a payment reserved by the grantor of a patent, lease of a mine or similar right, and payable proportionately to the use made of the right by the grantee. It is usually a payment of money, but may be a payment in kind, that is, of part of the produce of the exercise of the right. See RENT.
+Royalty also sometimes means a payment which is made to an author or composer by an assignee or licensee in respect of each copy of his work which is sold, or to an inventor in respect of each article sold under the patent. (emphasis added)
+[20] I conclude that the payments in question had none of the characteristics of “rent” or similar payment. The Appellants’ customers subscribed to receive access to certain programming and they paid a subscription fee for this access. It was this subscription fee, less commission, which the Appellants paid to NPS. Even if the term “rent” is given a broad meaning, it cannot be said that the payment from the Appellants to NPS was “rent” or that the Appellants or its customers rented the programming. Property rights were not acquired in the programming and at the end of the customers’ subscriptions, nothing reverted to NPS. The customers acquired only the right to view their chosen channels. At the end of the subscription period, the customers merely lost that right.
+[21] In Hasbro Canada v. R.[3], Dussault T.C.J. reviewed the term “royalty” as discussed in Vauban Productions v. R.[4] and Grand Toys Ltd. v. Minister of National Revenue[5] and at paragraph 22 he concluded the following:
+22 A royalty or similar payment is therefore one made for the use of property, rights or information whereby the payments for such use are contingent upon the extent or duration of use, profits or sales by the user.
+[22] The payments from the Appellants to NPS cannot be said to be in the nature of or have the characteristics of a “royalty” or similar payment. The payments were for the performance of services by NPS. They were for NPS to activate the descrambler units held by the Appellants’ customers for the subscription period. The payments were not contingent on the extent or duration of use, profits or sales by the Appellants or its customers. The word “contingent” is defined in the Dictionary of Canadian Law as:
+Conditional upon the occurrence of some future uncertain event.
+There was nothing contingent about the payments in the present appeal. They were referable to the subscription fees paid to the Appellants by its customers. These subscription fees were predetermined by NPS for the period of the subscription.
+[23] I conclude that the payments made by the Appellants to NPS did not possess those characteristics that would bring them within the phrase “rent, royalty or similar payments”.
+[24] In making the assessments and in confirming the assessments, the Minister has only relied on the phrase in the preamble of paragraph 212(1)(d) of the Act. Consequently, it is not necessary for me to consider whether the payments made by the Appellants to NPS come within the ambit of any of the subparagraphs in paragraph 212(1)(d).
+[25] The appeal is allowed and the assessments are vacated. The Appellants are entitled to costs in the amount of $1,000.
+Signed at Toronto, Canada, this 8th day of July 2010.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2010TCC361
+COURT FILE NO.: 2006-1815(IT)I
+STYLE OF CAUSE: PATRICIA & DANIEL BLAIS
+O/A SATRONICS SATELLITES AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: April 14, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: July 8, 2010
+APPEARANCES:
+Agent for the Appellants:
+Patricia Blais
+Counsel for the Respondent:
+Charles M. Camirand
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan,
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2003 FCA 294 at para. 37
+[2] [1980] C.T.C. 352 (FCA)
+[3] [1999] 1 C.T.C. 2512 (TCC)
+[4] [1975] C.T.C. 511 (FCTD)
+[5] (1989), 90 DTC 1059 (TCC)

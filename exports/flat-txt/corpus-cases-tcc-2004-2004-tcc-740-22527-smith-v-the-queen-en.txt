@@ -1,0 +1,195 @@
+Title: Smith v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22527/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-740-22527-smith-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-11-25
+
+# Smith v. The Queen
+
+- Citation: 2004 TCC 740
+- Decision date: 2004-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2232, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Smith v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-25
+Neutral citation
+2004 TCC 740
+File numbers
+2003-4584(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4584(IT)I
+BETWEEN:
+PAUL SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 26, 2004 at Vancouver, British Columbia
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pavanjit Mahil
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of November, 2004.
+"T. O'Connor"
+O'Connor, J.
+Citation:2004TCC740
+Date: 20041125
+Docket: 2003-4584(IT)I
+BETWEEN:
+PAUL SMITH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The issue in this appeal is whether the Appellant was required to include in his income for the 2001 taxation year, an amount of $24,450.00 which he received from Strategic Profit Inc. ("SP Inc.").
+[2] The Appellant was the sole shareholder of a company incorporated in 1992 under the name of Money Mailer of Western Canada Inc. ("MM Inc.").
+[3] The Appellant sometimes also simply used the name of Money Mailer of Western Canada ("MMWC"). The evidence of the Appellant is that although the latter name (not employing the abbreviation "Inc.") may have been used, no proprietorship was ever registered. In reality MMWC did not exist as a separate legal entity.
+[4] A Contract ("Contract") was entered into on January 1, 2001. The first part of this Contract reads as follows:
+CONTRACTORS AGREEMENT
+January 1, 2001
+This is a contract agreement between Strategic Profits Inc.
+(The "Company")
+and
+Money Mailer of Western Canada (dba Paul Smith),
+of 3025 Brookridge Dr, North Vancouver,
+BC V7R 3A7 smitty no85@canada.com (The "Contractor")
+WITNESSES THAT WHEREAS:
+The Company wishes to engage the Contractor to perform certain services as are outlined and specified on the attached "Working Agreement" and "Vision, Mission, Values and Philosophy Statement."
+[5] None of the documents referred to as "attached" were in fact attached. The Contract is extremely loosely drafted and contains some provisions pointing to an independent contractor relationship and some to an employer-employee relationship. In my opinion the Contract cannot be relied upon to determine the relationship between the Appellant and SP Inc. However, it is clear that the Contract was not with MM Inc.
+[6] Pursuant to the Contract the Appellant performed certain consulting and other services and was paid directly by SP Inc. in the year 2001, a total of $24,450.00. The payments totalling this amount were paid directly to the Appellant by means of 22 cheques issued periodically in each and every month of the year 2001, sometimes by means of one cheque a month, sometimes three times a month but most of the time by two cheques per month (this is evidenced by Exhibit A-2).
+[7] The apparent contention of the Appellant is that the cheques really belonged to MM Inc. and that he had instructed SP Inc. to pay him directly because of financial difficulties affecting MM Inc. This was done but there is no satisfactory evidence that any portion of the $24,450.00 was ever paid over to MM Inc. The Appellant states he paid some expenses with that money and kept the balance.
+[8] The Appellant also contends that he was not in an employee-employer relationship position with SP Inc. and therefore was not in receipt of employment income. He claims that he was rather an independent contractor, not an employee.
+[9] The Appellant's basic submissions on that issue are set forth in the following extracts from the Notice of Appeal.
+...
+CONTROL
+· [Appeals Div]According to the "contractors agreement", you were responsible for estimating the time and costs of each project assigned to you, however, the estimate was subject to consensus by both yourself and Strategic Profits Inc. ("SP Inc.")
+· Standard business practice in the technology industry requires that contracts are "negotiated" and signed when the two parties have come to an agreement. Prices are rarely fixed and non-negotiable.
+· [Appeals Div] if the work performed was unsatisfactory, SP Inc decided whether the work must be redone
+· Standard contracts in the technology industry require that a job be completed according to the contract. If not, the work is to be re-done until such a time it meets the specifications agreed upon.
+· [Appeals Div] An office was provided to you for your use
+· I was allowed to share a work-station for those times when I was required to be at the office-typically to use between meetings.
+· [Appeals Div] According to the "contractors agreement" provided. SP Inc. had the right to terminate your services should you violate certain provisions of the agreement.
+· Standard contracts in the technology industry permit contract to be terminated - with due process of course.
+OWNERSHIP OF TOOLS:
+· [Appeals Div ] Although you sometimes worked at home and provided your own computer, a computer was provided to you by SP Inc. at not (sic) cost to you when you worked in their office.
+· A shared computer was provided, but majority of the work was completed offsite - as stated in the Contractor's Agreement.
+· [Appeals Div] You claimed that the only expenses you incurred while working for SP Inc. were transportation to SP Inc.'s office and telephone calls
+· Plus typical home office expenses.
+· [Appeals Div] SP inc. covered the cost of liability insurance
+· As a small contractor in the tech industry - liability insurance is not available
+CHANCE OF PROFIT/RISK OF LOSS:
+· [Appeals Div] You were paid a rate of $20/hour regardless of the financial health of SP Inc. You did not share in SP Inc.'s potential for profit or risk of loss.
+· If the financial health of SPI was poor, this would be reflected in less contracts being available.
+· [Appeals Div] SP Inc. covered all related costs such as materials, time, and money should work have to be redone.
+· My time is not paid for work that had to be re-done as, obviously, the terms of the contract haven't been met.
+· [Appeals Div] SP Inc. covered all costs relating to bad debts and was responsible for invoicing and collecting from their customers
+· As typically in the tech business - in order to portray a "larger organization" contractors are assumed as "part of the team" and contractor bills are grouped together into one invoice to be presented to the client. There can typically be several independent contractors involved in one project.
+· [Appeals Div] Work performed by you were for SP Inc.'s customers and therefore, SP Inc. was responsible for resolving all customer complaints.
+· As typically in the tech business - in order to portray a larger organization contractors are assumed as "part of the team" and SP Inc would act as the contact point to the client.
+· [Appeals Div] [Appeals Div] SP Inc. guaranteed all work performed to their customers
+· As typically in the tech business - in order to portray a larger organization contractors are assumed as "part of the team" and SP Inc would act as the contact point to the client.
+ADDITIONAL FACTS:
+· [Appeals Div] You were subject to a probationary period while working for SP Inc.
+· Or in other words, a way to determine "Preferred Contractor Status" as indicated by the Contractors Agreement
+· [Appeals Div] You were entitled to rewards and recognition should you meet or surpass certain requirements in the "contractors agreement".
+· A method by which the company tries to secure the loyalty of contractors in a competitive market
+· [Appeals Div] You were eligible to receive shares in the company for exceptional performance and/or loyalty
+· A method by which the company can secure the loyalty of contractors in a competitive market
+· [Appeals Div] The "contractors agreement" was signed by you as Paul Smith not Money Mailer of Western Canada.
+· The contract is made out to Money Mailer of Western Canada and signed by Paul Smith - a duly registered signing authority of that company.
+[10] The Respondent's submissions are set forth in the following extracts from the Reply to the Notice of Appeal:
+...
+12
+a) SP Inc. was in the business of developing and promoting computer software programs and in internet marketing;
+b) SP Inc. hired the Appellant to prepare quotes for its customers, to manage projects, to market its software and to do office administration (the "Duties");
+c) SP Inc. established and paid the Appellant $20.00 per hour;
+d) ...
+e) SP Inc. established a probationary period and monitored the Appellant's performance of the Duties;
+f) ...
+g) SP Inc. guaranteed the work done for its clients, ...
+h) SP Inc. provided the office space, office equipment, computer equipment and internet access used by the Appellant in the performance of the Duties;
+i) ...
+j) ...
+k) on occasion, the Appellant worked on projects from his home and used his own computer;
+l) the Appellant did not invest, and was not required to invest, any capital in the performance of the Duties;
+m) the Appellant did not incur any expenses in the performance of the Duties; and
+n) ...
+[11] The Appellant submits further as follows - that he submitted invoices with respect to each of the cheques described in Exhibit A-2 - that his rate of pay was not strictly set by SP Inc. However, the Appellant does confirm that the amount in question, namely $24,450.00 was based on an hourly rate of $20.00 but that some services he rendered were outside the core business of SP Inc. (i.e. no integration) and that not all work he performed was based on an hourly rate. The Appellant adds that SP Inc. did not reimburse travel expenses, however, the Appellant acknowledges that the travel was not extensive, involving principally bus travel from his home to SP Inc.'s office. Also the Appellant submits that SP Inc. furnished no benefits and no training, that the Appellant had a personal computer with software and an internet connection and a telephone at his home office, that he was not supervised and that his services were not required full-time.
+[12] The Appellant referred to his office consisting of a room at his parents' home. He considered this as an office of SP Inc., however, no rent was paid by SP Inc. The Appellant testified that the office available to him at SP Inc.'s premises was a communal office used by himself and other contractors. However, this allegation is rebutted by the evidence of Laura Murphy, a trust account examiner of CRA, that in her payroll audit of SP Inc., she saw cheques, with appropriate deductions for eight employees, but only one set of cheques to a "contractor" namely those to the Appellant detailed in Exhibit A-2.
+[13] The Respondent adds the following: SP Inc. invoiced its customers with respect to the work performed by the Appellant. SP Inc. covered any bad debts. SP Inc. guaranteed the work to its customers. In this regard the Appellant says that he guaranteed his work to SP Inc. The Respondent referred to various questions in Exhibit R-3 and pointed out that some of those questions were answered differently than the verbal testimony given by the Appellant at the hearing. The Respondent also referred to Exhibit R-2 a document put out by SP Inc. entitled "The Management Team" which refers to the Appellant by the title "VP Marketing Administration".
+Conclusion
+[14] The question to be determined therefore is whether the Appellant was an employee or an independent contractor.
+[15] This type of issue comes before this Court frequently and, as is well known, the issue has generally been resolved on the basis of a four-fold test. The tests are:
+(1) control,
+(2) ownership of tools,
+(3) chance of profit and risk of loss,
+(4) the integration test.
+Before analysing these tests, the following general comments are relevant.
+[16] In deciding the issue I am not simply to substitute my opinion for that of the Minister but I am to give some deference to the decision of the Minister. These principles have been developed by the Federal Court of Appeal in the following cases. In Légaré v. Canada(Minister of National Revenue - M.N.R.), [1999] F.C.J. No. 878 the Court had occasion to review the issue. Paragraph 4 of that decision by Marceau, Desjardins and Noël, J.J. stated as follows:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+Also in the case of Pérusse v. Canada(Minister of National Revenue - M.N.R.) [2000] F.C.J. No. 310, Marceau, J. at paragraph 14 said:
+In fact, the judge was acting in the manner apparently prescribed by several previous decisions. However, in a recent judgment this court undertook to reject that approach, and I take the liberty of citing what I then wrote in this connection in the reasons submitted for the court.
+Then at paragraph 15 he said:
+The function of an appellate judge is thus not simply to consider whether the Minister was right in concluding as he did based on the factual information which Commission inspectors were able to obtain and the interpretation he or his officers may have given to it. The judge's function is to investigate all the facts with the parties and witnesses called to testify under oath for the first time and to consider whether the Minister's conclusion, in this new light, still seems "reasonable" (the word used by Parliament). The Act requires the judge to show some deference towards the Minister's initial assessment and, as I was saying, directs him not simply to substitute his own opinion for that of the Minister when there are no new facts and there is nothing to indicate that the known facts were misunderstood. However, simply referring to the Minister's discretion is misleading.
+[17] Having reviewed all the Exhibits and having considered the testimony submitted at the hearing, in my opinion on a balance of probabilities the Appellant was engaged by SP Inc. in the year 2001 under a contract of services (i.e. employer/employee relationship) and not an "independent contractor" relationship. My principal reasons are: (1) The Contract was not with MM Inc. but rather with "Money Mailer of Western Canada Inc. (dba Paul Smith)" and the terms of the Contract bear this out; (2) the testimony of Laura Murphy and several of the exhibits, in particular the description of "The Management Team" (Exhibit R-2), the Questionnaire (Exhibit R-3) contradict the testimony of the Appellant and in my opinion are to be preferred.
+[18] The result is that the Appellant in the year 2001 received the $24,450.00 as employment income.
+[19] Alternatively, even if the Appellant was successful in his contention that he was an "independent contractor" then he must be considered as having received the $ 24,450.00 as business income from SP Inc., the Contract referring to him as an "independent contractor", doing business as Money Mailer of Western Canada Inc. (dba Paul Smith).
+[20] As a further alternative the Appellant must be considered as having received the $24,450.00 as a shareholder benefit, he being the only shareholder of MM Inc. In this regard reference is made to subsection 15(1) of the Income Tax Act (the "Act") which provides as follows:
+Benefit conferred on shareholder.
+(1) Where at any time in a taxation year a benefit is conferred on a shareholder, or on a person in contemplation of the person becoming a shareholder, by a corporation otherwise than by
+(a) the reduction of the paid-up capital, the redemption, cancellation or acquisition by the corporation of shares of its capital stock or on the winding-up, discontinuance or reorganization of its business, or otherwise by way of a transaction to which section 88 applies,
+(b) the payment of a dividend or a stock dividend,
+(c) conferring, on all owners of common shares of the capital stock of the corporation at that time, a right in respect of each common share, that is identical to every other right conferred at that time in respect of each other such share, to acquire additional shares of the capital stock of the corporation, and, for the purpose of this paragraph,
+...
+the amount or value thereof shall, except to the extent that it is deemed by section 84 to be a dividend, be included in computing the income of the shareholder for the year.
+[21] Moreover even if one were to categorize the $24,450.00 as a shareholder loan by MM Inc. to the Appellant it still represents income of the Appellant because of the effect of subsection 15(2) and paragraph 20(1)(j) of the Act which bring unpaid shareholder loans into income.
+[22] For all of the above reasons the appeal is dismissed.
+Signed at Ottawa, Canada, this 25th day of November, 2004.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC740
+COURT FILE NO.:
+2003-4584(IT)I
+STYLE OF CAUSE:
+Paul Smith v. H.M.Q.
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+October 26, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+November 25, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Pavanjit Mahil
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

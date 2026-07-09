@@ -1,0 +1,239 @@
+---
+title: "Morrissey v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30462/index.do"
+last_modified: "2011-07-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 373"
+citation2: ""
+neutral_citation: "2011 TCC 373"
+decision_date: "2011-07-29"
+language: "en"
+item_id: "30462"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7594
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:24:44.380000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "826f3e07a665d4b91e79d7661194ad7dd106005efb5191ff95395b891d915a82"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morrissey v. The Queen
+
+- Citation: 2011 TCC 373
+- Decision date: 2011-07-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7594, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morrissey v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-07-29
+Neutral citation
+2011 TCC 373
+File numbers
+2009-250(IT)I
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-250(IT)I
+BETWEEN:
+BARB MORRISSEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 9, 2011, at Toronto, Ontario.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+Counsel for the Appellant:
+Jeffrey Radnoff
+Counsel for the Respondent:
+Roxanne Wong
+____________________________________________________________________
+JUDGMENT
+The appeals form the reassessments made under the Income Tax Act for the 2003 and 2004 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled:
+· to deduct motor vehicle expenses in the amounts of $10,168.77 for the 2003 taxation year and $8,390.35 for the 2004 taxation year;
+· to deduct bonus and gift expenses in the amounts of $2,689.32 for the 2003 taxation year and $3,350 for the 2004 taxation year;
+· to deduct as home office expenses the amounts of $1,521.97 for the 2003 taxation year and $1,530.20 for the 2004 taxation year.
+In all other respect the appeals are dismissed.
+Costs are granted in accordance with the tariff.
+Signed at Ottawa, Canada, this 29th day of July 2011.
+“Johanne D’Auray”
+D'Auray J.
+Citation: 2011 TCC 373
+Date: 20110729
+Docket: 2009-250(IT)I
+BETWEEN:
+BARB MORRISSEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Auray J.
+[1] The questions to be decided in these appeals are:
+Motor vehicle expenses
+Whether the appellant was entitled to deduct the amount of $13,264 for the 2003 taxation year and the amount of $11,551 for the 2004 taxation year as motor vehicle expenses;
+Unreported income
+Whether the Minister of National Revenue properly included the amounts of $12,790 and $12,221 in the appellant’s business income for the 2003 and 2004 taxation years respectively;
+Advertising, donations, bonuses and gifts
+Whether the appellant was entitled to deduct as advertising, donation, bonus and gift expenses the amount of $2,914 for the 2003 taxation year and the amount of $1,448 for the 2004 taxation year;
+Bad debt
+Whether the appellant was entitled to deduct as a bad debt the amount of $1,998 for the 2004 taxation year;
+Home office expenses
+Whether the appellant was entitled to deduct as home office expenses a portion (amounts of $3,112 and $4,991 for the 2003 and 2004 taxation years respectively) of the expenses incurred for her residence;
+Facts
+[2] The appellant, Barb Morrissey, is a distributor of newspapers and other publications.
+[3] During the years under appeal she was in charge of distributing the National Post in the Kitchener-Waterloo area.
+[4] The appellant also distributed for S&G the Kitchener-Waterloo Real Estate News, (hereinafter referred to as the KW Real Estate News).
+[5] The appellant’s work for the National Post consisted of meeting the driver who came from Toronto with the papers to the depot location in Kitchener. She then unloaded and distributed the papers to other drivers, who in turn delivered the papers to still other drivers at different locations or checkpoints from where the National Post was distributed in the Kitchener-Waterloo area. All the drivers for the National Post were hired by the appellant as independent contractors. The appellant also took care for the National Post of the paperwork and client complaints, and if she found out during the day that papers had not been delivered, for the National Post she would deliver those papers herself. The appellant testified that she would occasionally also have to drive to a checkpoint if a driver called in sick or was for some other reason unable to get there. She testified that out of a total of ten deliveries, one would require that she drive to a checkpoint.
+[6] The drivers were paid by the appellant at a set rate determined by the National Post.
+[7] During the years under appeal she also did some work for S&G, a business owned by Gary Bumstead. The appellant had an oral agreement with Mr. Bumstead whereby she agreed to pick up and distribute the KW Real Estate News for S&G. For that purpose however, the appellant used drivers hired by S&G. She was not responsible for handling customer complaints; Mr. Bumstead was. The appellant testified that she was remunerated by S&G through direct deposits into her account. She then paid S&G’s drivers in cash at a rate determined by S&G. She paid the drivers as a convenience to Gary Bumstead.
+Analysis
+Motor vehicle expenses
+[8] In filing her income tax returns for the 2003 and 2004 taxations years, the appellant claimed as motor vehicle expenses amounts of $13,264 and $11,551 respectively. She reported that she used her vehicle for business purposes 90% of the time in 2003 and 95% of the time in 2004.
+[9] The auditor responsible for the audit of the appellant testified for the Minister of National Revenue. She explained that she disallowed all the motor vehicle expenses claimed by the appellant for both years. She did so because she did not agree that the appellant’s place of business was her residence. She also stated that the appellant did not keep any logbooks and that the documents presented and the explanations given by the appellant were so confusing that she could not determine the amounts that were deductible.
+[10] The evidence demonstrated that the appellant had to travel for business purposes for the National Post. Using Google Maps, the appellant was able to show the number of kilometres she had to travel every day from her residence to the depot location and occasionally to the different checkpoints.
+[11] Counsel for the Crown disputed the kilometres claimed by the appellant and pointed to car maintenance invoices which showed fewer kilometres. However, at trial it was clearly demonstrated that there were errors in the kilometres shown on those invoices.
+[12] I agree with counsel for the appellant that the appellant’s residence was her place of business. I also agree with his calculations (found in Exhibit A-7) based on the number of kilometres that the appellant had to travel during the years in issue. Those figures appear reasonable in light of the evidence given at trial and the type of work performed by the appellant.
+[13] The appellant is therefore entitled to deduct motor vehicle expenses in the amounts of $10,168.77 for the 2003 taxation year and $8,390.35 for the 2004 taxation year.
+Unreported income
+[14] The amounts included by the Minister of National Revenue in the appellant’s business income were in relation to the work that the appellant performed for S&G in picking up and delivering the KW Real Estate News. The Minister of National Revenue included the amounts of $12,790.20 for the 2003 taxation year and $12,221 for the 2004 taxation year.
+[15] The appellant testified that S&G paid her by means of direct deposits in her bank account. She then took some of that money to pay the S&G’s drivers. Those drivers were paid in cash by the appellant. In reporting her income from the work she did for S&G, she entered only the net amounts in her general ledger, namely $9,500 and $6,750 for the 2003 and 2004 taxation years respectively. The appellant explained that the additional income represented what she had paid to S&G’s drivers on behalf of Gary Bumstead.
+[16] The auditor explained why she included the amounts of $12,790 and $12,221 in the appellant’s business income for the 2003 and 2004 taxation years respectively.
+[17] For the 2003 taxation year, the auditor did not rely on invoices, as no invoices were found or given to her by the appellant. She reviewed three bank statements. On the basis of three deposits made by S&G in the appellant’s bank account, she estimated the revenue received from S&G during the year: see Exhibit R-1, Tab 9, p. 55.
+[18] For the 2004 taxation year, she reviewed the bank statements and noted that the direct deposits received from S&G amounted to $17,832.05. She also reviewed the invoices, which totalled $20,278.27: see Exhibit R-1, Tab 9, p. 58.
+[19] The auditor did not deduct any amount for the payments that the appellant says she made to the S&G’s drivers. The auditor indicated that she did not have any documents with respect to the amounts so paid. The appellant did not provide her with a list of the drivers or with their names, nor did she indicate their pay rate and how much was paid to each driver. No documentary evidence was produced at trial by the appellant; she merely stated that she had to pay the S&G’s drivers. When asked, the appellant could not remember the rate of pay or how many drivers she paid.
+[20] I agree with Justice Bowman, as he then was, who stated in 620247 Ontario Ltd. v. Canada, 1995 CarswellNat 27, [1995] G.S.T.C. 22 (Tax Court of Canada (Informal Procedure)), at paragraphs 6 and 8:
+6 I shall endeavour to summarize the evidence. In a case involving a challenge to a GST assessment the onus of proof is the same as in an income tax appeal. Where the issue is one of fact, as it is here, the appellant has the onus of establishing on a balance of probabilities that the assessment is wrong. No question of law is raised in this case and it is of course inappropriate to speak of onus of proof where the issue is one of law. [ … ]
+8 The assessment is based upon the assumption that the bank deposits are about as accurate an indication of the sales as one is likely to get, given that the appellant kept no books and its only record of sales was the sales slips, which were incomplete and essentially in an unsatisfactory state. It may be a fair surmise that some of the bank deposits came from sources other than sales but the evidence simply does not establish how much. In a case of this type, which involves an attempt by the Department of National Revenue to make a detailed reconstruction of the taxpayer's business, it is incumbent upon the taxpayer who challenges the accuracy of the Department's conclusions to do so with a reasonable degree of specificity. That was not done here. A bald assertion that the sales could not have been that high, or that some unspecified portion of the bank deposits came from other sources is insufficient. I am left with the vague suspicion that the chances are that the sales figures computed by the Minister may be somewhat high, but within a range of indeterminate magnitude. This is simply not good enough to justify the allowing of the appeal. If I sent the matter back for reconsideration and reassessment the same evidentiary impasse would result. I must therefore conclude that the appellant has failed to meet the onus of showing that the assessment is wrong.
+[21] The same is true in the present appeal: If I were to send the matter back for reconsideration and reassessment the same evidentiary impasse would result.
+[22] The income added by the Minister of National Revenue for the 2003 and 2004 taxation years was therefore properly included using the only method available to the auditor, namely a reconciliation of the bank deposits and the invoices when the latter were available.
+[23] With respect to the amounts paid to drivers, Justice Bowman’s remarks also hold true. It is impossible for me to determine the amounts that were paid to the S&G’s drivers. As the auditor stated, they could already have been deducted under the subcontractors account.
+[24] In Njenga v. R., [1997] 2 C.T.C. 8, 96 DTC 6593 (Federal Court of Appeal), at paragraph 3, McDonald J. A. speaking for the court, stated:
+The Income tax system is based on self monitoring. As a public policy matter the burden of proof of deductions and claims properly rests with the taxpayer. The Tax Court Judge held that persons such as the Appellant must maintain and have available detailed information and documentation in support of the claims they make. We agree with that finding. Ms. Njenga as the Taxpayer is responsible for documenting her own personal affairs in a reasonable manner. Self written receipts and assertion without proof are not sufficient.
+[25] I would also add that while it may not be illegal to pay in cash, when a taxpayer chooses to pay in cash he or she should be all the more careful to ensure that payment can be proven if a deduction is claimed. Here, the appellant did not succeed in reversing the burden of proof as she was not able to demonstrate how much she paid the S&G’s drivers on behalf of Gary Bumstead.
+[26] Therefore, the amounts of $12,790 for the 2003 taxation year and $12,221 for the 2004 taxation year were properly included in the appellant’s income by the Minister of National Revenue.
+Advertising, donations, bonuses and gifts
+[27] The Minister of National Revenue disallowed the advertising, donation, bonus and gift expenses claimed for the 2003 and 2004 taxation years.
+[28] With respect to bonuses and gifts, the appellant testified that in the 2003 and 2004 taxation years she gave performance bonuses and gifts to some of her drivers who delivered the National Post. She testified that she gave $2,689.32 in the 2003 taxation year and $3,350 in the 2004 taxation year.
+[29] The appellant stated that she gave bonuses and gifts in the form of Tim Horton cards, Walmart cards and boxes of Laura Secord chocolates to show her appreciation to the drivers.
+[30] There were journal entries in the general ledger of the appellant reflecting the amounts given as bonuses and gifts: see Exhibits A-3 and A-5. Copies of cancelled cheques were also tendered in evidence.
+[31] The documents submitted are in line with the testimony of the appellant. The appellant should therefore be entitled to deduct under section 9 of the Income Tax Act the amounts that she gave to her drivers in the form of bonuses and gifts.
+[32] The appellant claimed as advertising expenses donations she made to charitable organizations. The amounts are $225 in the 2003 taxation year and $561.76 in the 2004 taxation year. The link between the donations and advertising was not established in evidence. I am not satisfied, in light of the evidence, that these donations were made for the purpose of gaining or producing income from the appellant’s paper distribution business. Accordingly, the donations are not deductible.
+Home office expenses
+[33] The appellant claimed the amounts of $3,112 for the 2003 taxation year and $4,991 for the 2004 taxation year as home office expenses. The Minister of National Revenue allowed $906.37 for the 2003 taxation year and $911.27 for the 2004 taxation year.
+[34] At trial, the appellant presented a plan of her house. The appellant’s home is 1,710 square feet. I am satisfied on the evidence presented at trial that the appellant was using 201 square feet of her home as an office. Therefore, she is entitled to deduct as home office expenses the amounts of $1,521.97 for the 2003 taxation year and $1,530.20 for the 2004 taxation year.
+Bad debt
+[35] The appellant is claiming a deduction of $1,998 for her 2004 taxation year as a bad debt expense. The appellant stated that she loaned the money to one of her drivers, Donna Wagler, for the purpose of buying a vehicle. The appellant testified that it is impossible to collect that amount from Ms. Wagler. The only document that she tendered was a copy of a cancelled cheque for $2,000 dated June 18, 2004 and payable to the order of Ms. Wagler. There is no annotation on the cancelled cheque to indicate its purpose: see Exhibit A-8, appellant’s Document Brief, Tab 8.
+[36] Counsel for the respondent established through cross-examination that Ms. Wagler barely worked for the appellant. Ms. Wagler was paid $500 and $140.27 by the appellant for the 2003 and 2004 taxation years respectively: see appellant’s Document Brief, Tab Q, pp. 13 and 14.
+[37] I agree with the respondent that the evidence does not establish that the loan was made for the purpose of gaining or producing income from a business under section 9 of the Income Tax Act; it was a personal loan.
+[38] First, there is no documentary evidence as to the purpose of the cheque; second, Ms. Wagler barely worked for the appellant; third, Ms. Wagler did not testify. The appellant stated that she could not testify because her mental health did not permit her to do so.
+[39] I therefore reject the argument of the appellant that the purpose of the loan was to protect and increase the appellant’s existing business. In any event, it could not have been a bad debt, since the appellant does not meet the conditions of paragraph 20(1)(p) of the Income Tax Act in that the amount claimed was never included in her income.
+Costs
+[40] Under the informal procedure, costs are governed by subsection 18.26 of the Tax Court of Canada Act (the Act) and sections 10 to 14 of the Tax Court of Canada Rules (Informal Procedure) (the Rules).
+Section 18.26 of the Act reads:
+18.26 (1) The Court may, subject to the rules, award costs. In particular, the Court may award costs to the appellant if the judgment reduces the aggregate of all amounts in issue or the amount of interest in issue, or increases the amount of loss in issue, as the case may be, by more than one half.
+Consideration of offers
+(2) The Court may, in deciding whether to award costs, consider any written offer of settlement made at any time after the notice of appeal is filed.
+Section 10 of the Rules reads:
+10. (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) The Court may award costs to the respondent, in an amount not exceeding the amounts listed in section 11, only if the actions of the appellant unduly delayed the prompt and effective resolution of the appeal.
+(3) The Court may direct the payment of costs in a fixed sum, in lieu of any taxed costs.
+[41] I agree with the appellant that the above provisions do not prevent the Court from awarding costs to an appellant where the appeal results in a reduction of the amounts assessed of less than one half.
+The tariff is found at section 11 of the Rules:
+11. On the taxation of party and party costs the following fees may be allowed for the services of counsel
+(a) for the preparation of a notice of appeal or for advice relating to the appeal, $185;
+(b) for preparing for a hearing, $250;
+(c) for the conduct of a hearing, $375 for each half day or part of a half day; and
+(d) for the taxation of costs, $60.
+[42] At the end of the trial, the appellant requested that I award him costs above the tariff. He submitted a bill of costs amounting to $6 752.
+[43] Counsel for the respondent then asked for, and was granted, permission to submit written submission on costs. The appellant filed written submissions in reply. Each party then filed an additional letter with the responding to each other’s earlier submissions.
+[44] I understood that the main reason the appellant was seeking costs above the normal tariff was because she considered that the respondent had failed to concede some deductions despite the suggestion of the Associate Chief Justice Rossiter at a pre-trial conference that she do so. The appellant pointed out that no new substantive new evidence was offered and no new arguments were unveiled during the trial.
+[45] In response to this argument, the counsel for the respondent wrote in her written submissions at paragraph 4 that:
+[…] the Appellant’s pre-trial memo failed to fully outline the Appellant’s position. It provided the appellant’s position in respect of business-use-of-home and vehicle expenses but neglected to mention the other issues in dispute, such as unreported income, subcontractor expenses, bad debt expenses and advertising expenses. The respondent could not make a settlement offer or assess the sustainability of the parties’ position without knowledge of the Appellants position. In turn, the Appellant never made an offer of settlement despite being fully apprised of the Respondent’s position.
+[46] In response to the respondent’s written submissions, the counsel for the appellant in his written submissions raised additional arguments to support his claim for costs in excess of the tariff. At paragraph 3 of his submissions, he stated:
+3. Costs above the tariff rate are justified due to the unreasonable positions taken by and conduct of the respondent which prolonged and increased the costs of these proceedings as follows:
+a) Failure to accept the appellant’s reasonable position at the pre-trial.
+b) The refusal of counsel for the respondent to communicate with the appellant’s counsel.
+c) The breach of professional conduct on the part of counsel for the respondent which is outlined below.
+d) The refusal of the respondent to concede to any issues in this appeal, despite the directions of both the pre-trial and trial judges.
+[47] I have carefully read the correspondence exchanged between the parties in which the possibility of settlement was raised. The correspondence was included in the parties’ written submissions on costs. What emerges from reading the documents is that the parties misunderstood each other and failed to respond clearly to each other’s correspondence. What is also clear is that neither party made an offer of settlement. The appellant may have wished to do so but at the end of the day never did.
+[48] I have summarized the correspondence below to show that although counsel for the parties may have been exchanging letters, they were not communicating:
+· In a letter to the Court dated July 19, 2010, the appellant requested the Court to schedule a pre-trial conference and indicated that: “Our view is that the matter can be settled before trial if the issue as to business expenses is settled.” Although the letter is addressed to the Court and not to the respondent, the respondent was copied on the letter. There is no indication on the record as to whether the respondent followed up as to what the appellant meant by “the matter can be settled before trial if the issue as to business expenses is settled.”
+· After the pre-trial conference, by letter dated October 4, 2010, the appellant sought the respondent’s confirmation on what had been decided at the pre‑trial conference. At the end of the letter, counsel for the appellant wrote: “My client looks forward to resolving this matter with you according to the very strong suggestion of His Honour.”
+· By letter dated October 7, 2010, the respondent disagreed with the appellant’s recollection of what had occurred at the pre-trial conference with respect to some items. In response to the appellant’s request to resolve the matter, the respondent indicated a preference for “an holistic approach in our settlement discussions and will be mindful of the amounts claimed and the reasons that they are claimed.” However, in closing, the respondent wrote, in addition to the above, “my understanding is that you are agreeable with the other expenses and the unreported income assessed”.
+· In response to the October 7th letter, the appellant, by letter dated November 10, 2010, addressed some of the pre-trial issues in dispute and asked the respondent to respond to particular issues. However, the appellant did not respond to the respondent’s request to indicate whether he agreed “with the other expenses and the unreported income assessed”.
+· In response to the November 10th letter, the respondent by letter dated November 24, 2010, refers the appellant to her letter of October 4, 2010, although the appellant had asked her to respond to each issue mentioned in the November 10th letter. Attached to the November 24th letter are invoices from the auditor that related to the vehicle of the appellant. Counsel for the respondent had previously stated that the CRA did not have copies of these invoices.
+· On November 24, 2010, the appellant wrote to the respondent requesting a second pre-trial conference. At the first pre-trial conference, Associate Chief Justice Rossiter had indicated that if a second pre-trial conference were needed, it had to be arranged before December 1, 2010.
+· In response, by letter dated November 28, 2010, the respondent advised the appellant that it opposed the request for a second pre-trial conference.
+· By letter dated November 30, 2010, the appellant made another request to the Court for a second pre-trial conference.
+· By letter dated December 3, 2010 to the Court, the respondent opposed the second request for a pre-trial conference, but failed to send a copy of this letter to the appellant.
+[49] The appellant’s request for a second pre-trial conference was denied by the Court on December 14, 2010.
+[50] As I stated earlier, the correspondence between the parties shows a failure on the part of each party to respond to the other. Both parties could have, but never did, make a written offer of settlement as contemplated by subsection 18.26 (2) of the Act. I do not consider what was written by the appellant or for that matter by the respondent, as written offers of settlement.
+[51] The appellant relies on Walsh v. R., 2010 CarswellNat 470, in support of its request for costs above the tariff. In Walsh, Justice Sheridan after stating that “in the absence of special circumstances, costs are to be awarded in accordance with the tariff”, found special circumstances justifying an award in excess of the tariff in the failure of the Minister of National Revenue to accept the settlement offer made by Mr. Walsh. Justice Sheridan was of the view that because both the facts and the law in the case were clear and since no new evidence was introduced or new arguments presented at trial, the Walsh appeal should have not proceeded.
+[52] Special circumstances depend on the facts of each case. In my view, the circumstances of this case differ from those in Walsh. First, Walsh was not an informal procedure appeal but a general procedure appeal. As a result, discovery was conducted and it was evident from the discovery that the facts did not support the legislative pre-conditions for assessing the taxpayer. In the present appeal, the facts were not settled by discovery. The appellant did not maintain proper books and records and at times did not have any documents to support the deductions claimed.
+[53] Second, in Walsh there was only one issue to be decided. In this appeal, there were several factual issues that remained to be decided. Finally, in Walsh there was an offer of settlement; here there was none.
+[54] With respect to the allegation that respondent refused to communicate with counsel, there is no evidence before me to establish this. It is clear that the parties’ counsel replied to each other’s letters. As for the allegation that the respondent’s counsel did not responding to the appellant’s counsel’s phone calls, I do not have any evidence before me to support this allegation.
+[55] Nor do I do have evidence before me establishing professional misconduct on the part of the respondent’s counsel. It is clear that a copy of the letter that the respondent sent to the Court on December 3, 2010 opposing a second request for a pre-trial conference should have been sent to the appellant. It was explained by the acting director of the Toronto office of the Department of Justice that this occurred through inadvertence. I will give counsel for the respondent the benefit of the doubt. It should be noted, that counsel for the respondent had earlier advised the appellant that she would oppose any request for a second pre-trial conference.
+[56] As to the invoices relating to the appellant’s vehicle that she sent to the appellant after stating earlier that CRA did not have them. I do not have any explanation, except that the she sent the invoices to the appellant on November 24, 2010 well before the trial date on May 9 and 10, 2011. As to the fact, that she sent the written submissions on costs on May 24, 2011, instead of one week after the trial date as discussed at the end of the trial, knowing that the counsel for the appellant would be in vacation, again I do not have any evidence that the respondent acted in bad faith.
+[57] I agree with counsel for the appellant that some issues should have been settled before the trial and I said so during the trial. The documentary evidence tendered at trial with respect to the deductions relating to the motor vehicle expenses and the home office was the same as what was given to the respondent. A trial might have been shortened if the respondent had shown more willingness to settle some issues.
+[58] However, I am of the view that the failure of the respondent to settle some of the issues in this case does not amount to special circumstances. As mentioned earlier, there was no settlement offer made by the appellant, there were a number of issues raised by the facts and not all the facts had been clearly resolved before the appeal.
+[59] Both parties referred to the pre-trial conference in their written submissions. I did not give any weight to either party’s submissions based on the pre-trial conference. In my view what happens at a pre-trial conference should remain confidential. I agree with the comments of Justice Carthy of the Ontario Court of Appeal, in Bell Canada v. Olympia & York Developments Ltd.[1] where he stated at pp 144-145:
+Pre-trials were designed to provide the court with an opportunity to intervene with the experience and influence of its judges to persuade litigants to reach reasonable settlements or refine the issues. None of that would be possible without assurance to the litigants that they can speak freely, negotiate openly, and consider recommendations from a judge, all without concern that their positions in the litigation will be affected.
+[…] The pre-trial judge was seeking to persuade the parties to a settlement on a basis that appeared reasonable to him at the time. His opinions should not be taken as depriving the parties of the right to make their own assessments as to their best interests and to form their own opinions as to the likely outcome […].
+[60] In light of the above facts and that the aggregate of all amounts in issue were reduced by more than one half, costs will be granted in accordance with the tariff.
+[61] The appeals are therefore allowed and I refer the matter back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled:
+· to deduct motor vehicle expenses in the amounts of $10,168.77 for the 2003 taxation year and $8,390.35 for the 2004 taxation year;
+· to deduct bonus and gift expenses in the amounts of $2,689.32 for the 2003 taxation year and $3,350 for the 2004 taxation year;
+· to deduct as home office expenses the amounts of $1,521.97 for the 2003 taxation year and $1,530.20 for the 2004 taxation year.
+[62] In all other respects the appeals are dismissed.
+[63] Costs are granted in accordance with the tariff.
+Signed at Ottawa, Canada, this 29th day of July 2011.
+“Johanne D’Auray”
+D'Auray J.
+CITATION: 2011 TCC 373
+COURT FILE NO.: 2009-250(IT)I
+STYLE OF CAUSE: BARB MORRISSEY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 9, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Johanne D'Auray
+DATE OF JUDGMENT: July 29, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Jeffrey Radnoff
+Counsel for the Respondent:
+Roxanne Wong
+COUNSELS OF RECORD:
+For the Appellant:
+Name: Jeffrey Radnoff
+Firm: Dioguardi Tax Law LLP
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Bell Canada v. Olympia & York Developments Ltd., 17 OR (3d) 135.

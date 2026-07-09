@@ -1,0 +1,117 @@
+Title: Seely v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25978/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-342-25978-seely-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-06-17
+
+# Seely v. The Queen
+
+- Citation: 2003 CCI 342
+- Decision date: 2003-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3776, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Seely v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-17
+Référence neutre
+2003 CCI 342
+Numéro de dossier
+2001-1335(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+2001-1335(IT)I
+ENTRE :
+JUDY K. SEELY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 15 mai 2002 et jugement rendu oralement
+le 17 mai 2002, à Fredericton (Nouveau-Brunswick), par
+l'honorable juge C. H. McArthur
+Comparutions Avocat de l'appelante :
+Me Richard Speight Avocate de l'intimée :
+Me Christa MacKinnon
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation d'impôt établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1999 est admis, les dépens de 300 $ sont adjugés à l'appelantE, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que l'appelante est admissible, en vertu de l'article 118.2 de la Loi, à la déduction des frais médicaux engagés pour l'achat et l'installation de planchers en bois franc.
+Signé à Ottawa, Canada, le 24 mai 2002.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI342
+Date: 20030617
+Dossier: 2001-1335(IT)I
+ENTRE :
+JUDY K. SEELY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Avocat de l'appelante : Me Richard Speight Avocate de l'intimée : Me Christa MacKinnon
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à
+Fredericton (Nouveau-Brunswick) le 17 mai 2002)
+Le juge McArthur
+[1] L'enjeu du présent appel consiste à savoir si, pour l'année d'imposition 1999, l'appelante est admissible en vertu de l'article 118.2 de la Loi de l'impôt sur le revenu à un crédit pour frais médicaux relativement au coût de planchers en bois franc. Le plancher a coûté à peu près 11 000 $, y compris une plinthe et une moulure pour la retenir. L'appelante a demandé un remboursement d'impôt d'environ 3 000 $.
+[2] Mme Seely affirme que les frais médicaux ont été engagés pour son conjoint, Jim. Le paragraphe 118.2(1) permet un crédit correspondant à un pourcentage des frais médicaux du contribuable. Les frais médicaux sont définis comme suit à l'alinéa 118.2(2)l.2) :
+118.2(2) ... les frais payés :
+l.2) pour les frais raisonnables afférents à des rénovations ou transformations apportées à l'habitation du patient ne jouissant pas d'un développement physique normal ou ayant un handicap moteur grave et prolongé, pour lui permettre d'avoir accès à son habitation, de s'y déplacer ou d'y accomplir les tâches de la vie quotidienne;
+[3] Les faits qui sont pertinents d'après moi, et que j'extrais pour une grande part de l'avis d'appel préparé de manière exhaustive par Mme Seely au nom de son conjoint, s'établissent comme suit :
+[TRADUCTION]
+Jim a été le patient de différents médecins, notamment des spécialistes en maladies environnementales. Il a souffert d'allergies causées par son manque de développement physique normal (comme l'atteste son médecin). Des médecins nous ont dit qu'on pourrait améliorer sa santé en enlevant les vieilles moquettes ainsi que les sources de moisissures. Avant ces vastes travaux de rénovation domiciliaire, mon conjoint avait souffert quotidiennement pendant plus d'un an de diarrhée chronique (allergies alimentaires) et de céphalées sinusales (également d'origine allergique). En janvier 1999, il a subi des dommages irréversibles aux oreilles, causés par une otite et par la rupture du tympan, également attribuable à ses allergies. Il est maintenant partiellement sourd dans une oreille.
+Voici quels sont ou étaient certains de ses symptômes :
+1. Réaction à de nombreux solides et liquides - diarrhée chronique, brûlures gastriques...
+2. Infection auriculaire ...
+3. Céphalées intenses et problèmes sinusaux...
+4 Céphalées intenses et problèmes sinusaux causés par la poussière, les moisissures et le pollen ...
+[4] L'appelante mentionne un incident grave qui s'est produit pendant les fêtes en 1998, alors que son conjoint avait souffert de maux de tête graves et s'était senti grandement incommodé. En 1999, il y a eu rupture du tympan. Il a consulté un grand nombre de spécialistes. Il travaille pour Énergie Nouveau-Brunswick depuis 1973. Le rapport contient également un long compte rendu de ses antécédents que je ne reprendrai pas ici pour ne pas prolonger indûment l'instance.
+[5] L'appelante était le seul témoin. Sa crédibilité n'est pas en doute. Son avocat l'a représentée avec compétence. Elle a indiqué que Jim avait été orienté par son omnipraticienne vers un allergologue. Ces deux médecins lui ont conseillé d'éliminer les vieux tapis qu'il y avait chez lui. Des lettres à cet effet ont été versées au dossier de la preuve. La première, qui émane de son omnipraticienne, la docteure Anna Marie MacKinnon, est datée du 14 février 2001 et se lit comme suit :
+[TRADUCTION]
+En raison d'une détérioration significative de son état de santé liée à un dysfonctionnement immunitaire aggravé par la présence de produits chimiques et de moisissures dans son domicile, James Seely était incapable d'accomplir les tâches de la vie quotidienne chez lui tant que les tapis n'auraient pas été éliminés et remplacés par du bois franc. Aussi bien le docteur Imbulgoda, allergologue, que moi-même lui avons conseillé de remplacer ses tapis, afin d'améliorer son état de santé.
+Une lettre plus courte du docteur Manel Imbulgoda contient les mots suivants :
+[TRADUCTION]
+M. Seely est allergique aux poussières domestiques. Il a déclaré que ses symptômes étaient aggravés par la présence de tapis chez lui. On lui a conseillé d'éliminer les tapis, ce qu'il a fait, les remplaçant par des planchers en bois franc. Ces modifications ont produit une réduction de ses symptômes.
+L'appelante ajoute ceci :
+[TRADUCTION]
+Depuis que nous avons rénové la maison, mon conjoint a pu adopter un style de vie normal. Les rénovations lui permettent d'accomplir les tâches de la vie quotidienne chez lui, alors qu'auparavant, il en était incapable. Bien que ses troubles aux oreilles soient irréversibles, il est soulagé d'une partie de ses symptômes d'allergies. Les rénovations ont été faites uniquement sur les recommandations d'un praticien en médecine et ne visaient qu'à améliorer l'aptitude de mon conjoint à accomplir les tâches de la vie quotidienne chez lui.
+[6] Vu les longs antécédents médicaux de M. Seely, il ne fait aucun doute qu'il ne jouissait pas d'un développement physique normal au sens de la Loi. L'appelante reconnaît que M. Seely souffrait d'allergies et que ses médecins lui avaient recommandé d'éliminer les tapis et les sources de moisissures afin d'améliorer son état de santé.
+[7] Le montant des dépenses n'est pas en litige. La position du ministre comprend ceci :
+[TRADUCTION]
+Le coût de l'acquisition et de l'installation de planchers en bois franc n'était pas une dépense liée à la rénovation ou à la modification d'un logement pour un patient qui ne jouit pas d'un développement physique normal ou qui a un handicap moteur grave et prolongé.
+Compte tenu des lettres des docteurs MacKinnon et Imbulgoda et du témoignage détaillé de l'appelante, il ne fait aucun doute que M. Seely avait un handicap grave et prolongé. Les frais liés aux planchers en bois franc et à l'élimination des moisissures étaient raisonnables. Son handicap était un handicap moteur, puisque les tapis et les moisissures l'empêchaient d'accomplir les tâches de la vie quotidienne dans son logement. La docteure MacKinnon dit également ceci :
+[TRADUCTION]
+James Seely était incapable d'accomplir les tâches de la vie quotidienne chez lui tant que les tapis n'auraient pas été enlevés et remplacés par du bois franc.
+[8] L'intimée n'a présenté aucune preuve autre que son contre-interrogatoire compétent.
+[9] Je souscris à la position de l'avocat de l'appelante énoncée au paragraphe 29 de la page 14 de ses observations écrites. L'avocate du ministre n'a présenté aucune jurisprudence, mais a essayé de distinguer les faits en litige de ceux relevant de cas soumis au nom de l'appelante, en prétextant que le handicap de M. Seely n'était pas aussi grave que celui des contribuables visés par ces autres causes. Quatre affaires sur les onze présentées ont reçu une attention particulière : il s'agit de McGaugh, [1999] A.C.I. no 954, Williams, [1997] A.C.I. no 1346, Pawlychka, [1999] A.C.I. no 886, et Russell, [2001] A.C.I. no 442.
+[10] Aucune preuve comparative n'a été présentée à l'égard du degré de handicap moteur. J'estime que l'appelante a satisfait aux critères énoncés à l'article 118.2. Les paroles du juge Bell dans l'affaire Pawlychka s'appliquent tout aussi bien dans le cas de Mme Seely :
+10 L'objet de l'article 118.2 est de fournir un allègement fiscal aux personnes ayant un certain état de santé. Comme je l'ai mentionné plus haut, bien que l'alinéa l.2) semble s'appliquer à un certain type manifeste de mobilité réduite, je pense que nous ne devrions pas lui imposer une interprétation aussi restrictive. Dans Johnston v. Her Majesty the Queen, 98 DTC 6169, le juge Létourneau a indiqué à la page 6171, après s'être référé aux propos du juge Bowman, de la C.C.I., dans Radage v. R., [1996] 3 C.T.C. 2510 :
+En effet, même si elles ne s'appliquent qu'aux personnes gravement limitées par une déficience, ces dispositions ne doivent pas recevoir une interprétation trop restrictive qui nuirait à l'intention du législateur, voire irait à l'encontre de celle-ci.
+11 Le propos du juge Bowman auxquels il s'était référé sont les suivants :
+L'intention du législateur semble être d'accorder un modeste allégement fiscal à ceux et celles qui entrent dans une catégorie relativement restreinte de personnes limitées de façon marquée par une déficience mentale ou physique. L'intention n'est pas d'accorder le crédit à quiconque a une déficience ni de dresser un obstacle impossible à surmonter pour presque toutes les personnes handicapées. On reconnaît manifestement que certaines personnes ayant une déficience ont besoin d'un tel allégement fiscal, et l'intention est que cette disposition profite à de telles personnes. [....]
+Pour donner effet à l'intention du législateur, qui est d'accorder à des personnes déficientes un certain allégement qui atténuera jusqu'à un certain point les difficultés accrues avec lesquelles leur déficience les oblige à composer, la disposition doit recevoir une interprétation humaine et compatissante.
+[11] Pour conclure, l'appel est accueilli et les dépens sont adjugés à l'appelante au montant de 300 $.
+Signé à Ottawa, Canada, le 17 juin 2003.
+« C. H. McArthur »
+J.C.C.I.
+Traduction certifiée conforme
+ce 1er jour d'avril 2005.
+Mario Lagacé, réviseur

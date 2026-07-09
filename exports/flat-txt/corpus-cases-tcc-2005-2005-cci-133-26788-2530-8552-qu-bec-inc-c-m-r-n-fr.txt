@@ -1,0 +1,563 @@
+Title: 2530-8552 Québec Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26788/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-133-26788-2530-8552-qu-bec-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-03-18
+
+# 2530-8552 Québec Inc. c. M.R.N.
+
+- Citation: 2005 CCI 133
+- Decision date: 2005-03-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3468, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2530-8552 Québec Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-18
+Référence neutre
+2005 CCI 133
+Numéro de dossier
+2003-4433(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-4433(EI)
+ENTRE :
+2530-8552 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Isabelle Pépin (2003-4434(EI)), Pascal Milette (2003-4438(EI)),
+Diane Delisle (2003-4441(EI)) et Micheline Fraser (2003-4442(EI))
+les 6 et 7 octobre 2004, à Trois-Rivières (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Robert Leclerc
+Avocate de l'intimé :
+Me Julie David
+_______________________________________________________________
+JUGEMENT
+L'appel de la société 2530-8552 Québec Inc. (2003-4433(EI)) interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi, est accueilli en ce qui a trait au dossier Diane Delisle (2003-4441(EI)); conséquemment le travail exécuté par cette dernière, lors de la période allant du 26 novembre 2001 au 31 mai 2002, l'a été en vertu d'un contrat de louage de services constituant ainsi un emploi assurable; la décision rendue par le ministre du Revenu national (le « ministre » ) est infirmée.
+Quant aux dossiers Isabelle Pépin (2003-4434(EI)), Pascal Milette (2003-4438(EI)) et Micheline Fraser (2003-4442(EI)), les appels sont rejetés et les décisions rendues par le ministre sont confirmées, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de mars 2005.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2003-4434(EI)
+ENTRE :
+ISABELLE PÉPIN,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+2530-8552 Québec Inc. (2003-4433(EI)), Pascal Milette (2003-4438(EI)),
+Diane Delisle (2003-4441(EI)) et Micheline Fraser (2003-4442(EI))
+les 6 et 7 octobre 2004, à Trois-Rivières (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Robert Leclerc
+Avocate de l'intimé :
+Me Julie David
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de mars 2005.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2003-4438(EI)
+ENTRE :
+PASCAL MILETTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+2530-8552 Québec Inc. (2003-4433(EI)), Isabelle Pépin (2003-4434(EI)), Diane Delisle (2003-4441(EI)) et Micheline Fraser (2003-4442(EI))
+les 6 et 7 octobre 2004, à Trois-Rivières (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me Robert Leclerc
+Avocate de l'intimé :
+Me Julie David
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de mars 2005.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2003-4441(EI)
+ENTRE :
+DIANE DELISLE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+2530-8552 Québec Inc. (2003-4433(EI)), Isabelle Pépin (2003-4434(EI)),
+Pascal Milette (2003-4438(EI)) et Micheline Fraser (2003-4442(EI))
+les 6 et 7 octobre 2004, à Trois-Rivières (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Robert Leclerc
+Avocate de l'intimé :
+Me Julie David
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est accueilli, en ce que le travail exécuté par l'appelante, lors de la période allant du 26 novembre 2001 au 31 mai 2002, l'a été en vertu de un contrat de louage de services constituant un emploi assurable; la décision rendue par le ministre du Revenu national est infirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de mars 2005.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2003-4442(EI)
+ENTRE :
+MICHELINE FRASER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+_______________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+2530-8552 Québec Inc. (2003-4433(EI)), Isabelle Pépin (2003-4434(EI)),
+Pascal Milette (2003-4438(EI)) et Diane Delisle (2003-4441(EI))
+les 6 et 7 octobre 2004, à Trois-Rivières (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Robert Leclerc
+Avocate de l'intimé :
+Me Julie David
+_______________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté et la décision rendue par le ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 18e jour de mars 2005.
+« Alain Tardif »
+Juge Tardif
+Référence : 2005CCI133
+Date : 20050318
+Dossiers : 2003-4433(EI)
+2003-4434(EI)
+2003-4438(EI)
+2003-4441(EI)
+2003-4442(EI)
+ENTRE :
+2530-8552 QUÉBEC INC.,
+ISABELLE PÉPIN,
+PASCAL MILETTE,
+DIANE DELISLE,
+MICHELINE FRASER,
+appelantes,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'appels interjetés dans les dossiers 2530-8552 Québec Inc. (2003-4433(EI)), Isabelle Pépin (2003-4434(EI)), Pascal Milette (2003-4438(EI)), Diane Delisle (2003-4441(EI)) et Micheline Fraser (2003-4442(EI)), dossiers auxquels la majorité des faits sont communs. Le dossier 2530-8552 Québec Inc. englobe tous les autres, puisqu'il s'agit de l'appel introduit par l'entreprise payeuse qui a établi tous les relevés d'emploi à l'origine des déterminations quant à l'assurabilité du travail exécuté par toutes les personnes physiques appelantes.
+[2] Les parties ont convenu de présenter une preuve commune pour tous les dossiers.
+[3] La société appelante 2530-8552 Québec Inc., a établi les relevés d'emploi pour les différentes périodes en litige relativement à toutes les personnes physiques appelantes.
+[4] Le 26 novembre 2002, la société appelante a demandé à l'intimé de statuer sur la question de savoir si Isabelle Pépin du 10 mai au 26 novembre 1999, Pascal Milette du 27 septembre au 17 décembre 1999, Diane Delisle du 26 novembre 2001 au 31 mai 2002 et Micheline Fraser du 16 juin au 26 septembre 1997, du 15 juin 1998 au 7 mai 1999 et du 10 janvier au 23 décembre 2000 avaient effectué un travail assurable lorsqu'ils étaient à son service.
+[5] Par lettres datées du 26 septembre 2003, le ministre du Revenu national ( « ministre » ) informait la société appelante 2530-8552 Québec Inc., ainsi que les appelants Diane Delisle, Micheline Fraser, Pascal Milette et Isabelle Pépin, de ses décisions selon lesquelles aucun des quatre appelants n'avait occupé un emploi assurable.
+[6] Tous ont déposé un avis d'appel pour contester la détermination en soutenant que le travail qu'ils avaient effectué relevait d'un véritable contrat de louage de services.
+[7] Pour établir et soutenir ses déterminations dans les dossiers d'Isabelle Pépin, de Pascal Milette, de Diane Delisle et de Micheline Fraser, le ministre a tenu pour acquis les diverses hypothèses de fait suivantes :
+Dossier 2530-8552 Québec Inc. (2003-4433(EI)) :
+a) l'appelante a été constituée en société le 24 septembre 1987; (admis)
+b) Serge Pépin est l'unique actionnaire de l'appelante; (admis)
+c) l'appelante faisait affaires sous le nom de Général Surplus enr.; (admis)
+d) l'appelante exploitait une entreprise de réparation et de vente d'outillages et de machineries, elle offrait également un service de garantie après vente pour des entreprises comme Wall Mart [sic], Canadian Tire et Sears; (admis)
+e) le chiffre d'affaires annuel de l'appelante s'élevait au 30 septembre 1999, à 575 510 $ et, au 30 septembre 2000, à 513 661 $; (admis)
+f) depuis 1992, l'appelante était installée dans un local à Grand'Mère; (admis)
+g) en octobre et novembre [et décembre] 1998 l'appelante a aménagé un nouveau local qui était adjacent à l'ancien; (admis)
+h) l'appelante a suspendu les activités de son commerce durant la période des fêtes de 1998 jusqu'au 11 janvier 1999 pour déménager dans le local adjacent; (admis)
+i) du 18 octobre 1999 au 16 novembre 1999, l'appelante a fait construire un entrepôt à St-Tite; (nié)
+DIANE DÉLISLE
+j) Diane Délisle avait été embauchée comme commis-comptable; (nié)
+k) Diane Délisle prétend que ses tâches consistaient à effectuer la facturation, à classer et faxer les factures, à signer les bordereaux de livraison, à surveiller les autres employés lorsque Serge Pépin était absent et à faire la comptabilité manuelle alors que la comptabilité de l'appelante était informatisée depuis juin 1998; (nié)
+l) Micheline Fraser a déclaré à un représentant de l'intimé qu'elle avait donné de la formation à Diane Délisle du 28 août 2001 au 25 novembre 2001 alors que Diane Délisle n'a commencé à être inscrite au journal des salaires que le 26 novembre 2001; (nié)
+m) le 27 août 2002, Diane Délisle déclarait à un représentant de l'intimé qu'elle ne savait pas qui passait les commandes, Serge Pépin ne voulant pas qu'un employé fouille dans les factures alors qu'elle prétend effectuer la facturation; (nié)
+n) le 31 juillet 2003, Diane Délisle déclarait à un représentant de l'intimé qu'elle ne touchait pas à l'informatique alors que la comptabilité de l'appelante était informatisée; (admis)
+o) pour la période du 26 novembre 2001 au 31 mai 2002, Diane Délisle était inscrite au journal des salaires pour 24 semaines de paye de 332,50 $ avec 35 heures de travail par semaine et pour 2 semaines de 380 $ de 40 heures; (admis)
+p) le 17 juin 2002, l'appelante remettait à Diane Délisle un relevé d'emploi qui indiquait comme premier jour de travail le 26 novembre 2001 et comme dernier jour de travail le 31 mai 2002, et qui indiquait 920 heures assurables et 8 740 $ comme rémunération assurable; (admis)
+q) le 13 mai 2002, Diane Délisle avait cessé de travailler pour l'appelante; (nié)
+r) Diane Délisle continuait à être inscrite au journal des salaires de l'appelante sans rendre de services à l'appelante; (nié)
+s) le relevé d'emploi de Diane Délisle n'est pas conforme à la réalité quant aux heures ni quant à la période; (nié)
+t) la période prétendument travaillée de Diane Délisle ne correspond pas avec la période réellement travaillée par celle-ci; (nié)
+u) l'appelante et Diane Délisle ont conclu un arrangement afin de qualifier Diane Délisle à obtenir des prestations de chômage; (nié)
+MICHELINE FRASER
+v) Micheline Fraser avait été embauchée comme commis-comptable; (nié)
+w) les tâches de Micheline Fraser consistaient à faire la tenue des livres comptables, la facturation, la conciliation bancaire, les paies et les dépôts; (nié)
+x) durant les périodes en litige, tout en travaillant pour l'appelante, Micheline Fraser effectuait la comptabilité des entreprises suivantes, Racibec, JSD Marine Inc., Rose Laframboise, Services RL et Maçonnerie Grand-Mère; (nié)
+y) Micheline Fraser n'avait pas d'horaire fixe et travaillait selon sa convenance; (nié)
+z) le 20 février 2002, Serge Pépin déclarait à un représentant de l'intimé que Micheline Fraser connaissait son travail et n'avait pas besoin de supervision; (nié)
+aa) pour la période du 16 juin 1997 au 27 septembre 1997, Micheline Fraser était inscrite au journal des salaires pour 4 semaines de paye de 280 $ avec 35 heures de travail par semaine; (admis)
+bb) pour la période du 13 octobre 1997 au 20 décembre 1997, elle était inscrite pour 5 semaines de paye de 280 $ avec 35 heures de travail par semaine; (admis)
+cc) le 14 juillet 1997, l'appelante émettait un chèque de 20 000 $ au nom de Micheline Fraser; (admis)
+dd) le 17 juillet 2003, Serge Pépin déclarait à un représentant de l'intimé qu'il était incapable de justifier le bien fondé [sic] paiement; (nié)
+ee) l'appelante émettait des chèques au nom de la mère de Micheline Fraser, Jeannine Fraser qui étaient endossés par Micheline Fraser;(admis)
+ff) du 1er janvier au 27 juin 1998, Micheline Fraser était inscrite au journal des salaires pour 14 semaines non consécutives de 280 $ avec 35 heures de travail; (admis)
+gg) du 5 juillet au 26 décembre 1998, Micheline Fraser était inscrite pour des semaines consécutives de 280 $ avec 35 heures par semaine; (admis)
+hh) du 1er janvier 1999 au 7 mai 1999, Micheline Fraser était inscrite pour des semaines consécutives de 297,50 $ avec 35 heures par semaine, par la suite, elle l'a été pour les semaines du 2 et du 30 octobre et les semaines des 17, 18, 25 et 31 décembre; (admis)
+ii) du 10 janvier 2000 au 25 mars 2000, Micheline Fraser était inscrite à raison de 3 semaines par mois pour des semaines de 297,50 $ avec 35 heures par semaine; (nié)
+jj) du 26 mars 2000 au 23 décembre 2000, Micheline Fraser était inscrite à raison de 3 semaines par mois pour des semaines consécutives de 297,50 $ avec 35 heures par semaine; (admis)
+kk) le 21 octobre 1997, l'appelante remettait à Micheline Fraser un relevé d'emploi qui indiquait comme premier jour de travail le 16 juin 1997 et comme dernier jour de travail le 26 septembre 1997, et qui indiquait 175 heures assurables et 1 400,00 $ comme rémunération assurable; (admis)
+ll) le 21 mai 1999, l'appelante remettait à Micheline Fraser un relevé d'emploi qui indiquait comme premier jour de travail le 15 juin 1998 et comme dernier jour de travail le 7 mai 1999, et qui indiquait 1610 heures assurables et 13 195,00 $ comme rémunération assurable; (admis)
+mm) le 4 janvier 2001, l'appelante remettait à Micheline Fraser un relevé d'emploi qui indiquait comme premier jour de travail le 10 janvier 2000 et comme dernier jour de travail le 23 décembre 2000, et qui indiquait 1645 heures assurables et 13 982,50 $ comme rémunération assurable; (admis)
+nn) après et entre les périodes en litige, Micheline Fraser continuait à rendre des services à chaque semaine à l'appelante sans être inscrite au journal des salaires; (nié)
+oo) les relevés d'emploi de Micheline Fraser ne sont pas conformes à la réalité quant aux heures ni quant aux périodes; (nié)
+pp) les périodes prétendument travaillées de Micheline Fraser ne correspondent pas avec les périodes réellement travaillées par celle-ci; (nié)
+qq) l'appelante et Micheline Fraser ont conclu un arrangement afin de qualifier Micheline Fraser à obtenir des prestations de chômage tout en continuant à rendre des services pour l'appelante; (nié)
+AUTRES FAITS PERTINENTS POUR MICHELINE FRASER
+rr) en janvier 1997, Serge Pépin l'actionnaire unique de l'appelante, a quitté son épouse; (admis)
+ss) depuis janvier 1998, Micheline Fraser est la conjointe de fait de Serge Pépin; (nié)
+PASCAL MILETTE
+TT) l'appelante et Pascal Milette sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+I) Serge Pépin est l'unique actionnaire de l'appelante. (admis)
+II) Serge Pépin est le père d'Isabelle Pépin. (admis)
+III) Pascal Milette est le conjoint d'Isabelle Pépin. (admis)
+IV) Pascal Milette est unie [sic] par des liens du mariage [conjoint] avec Serge Pépin, son beau-père, qui contrôlait l'appelante. (admis)
+uu) durant la période en litige, Pascal Milette prétend avoir été embauché comme peintre et journalier; (admis)
+vv) durant la période en litige, Pascal Milette prétend que ses tâches consistaient à peinturer le nouveau local de l'appelante, à monter les étagères, à aider au déménagement et à classer les pièces alors que le déménagement était terminé; (nié)
+ww) Pascal Milette était inscrit au journal des salaires pour la période du 27 septembre au 17 décembre 1999; (admis)
+xx) Pascal Milette était inscrit pour 12 semaines consécutives de 40 heures; (admis)
+yy) Pascal Milette était inscrit avec une rémunération de 340,00 $ à chaque semaine; (admis)
+zz) le 3 janvier 2000, l'appelante remettait à Pascal Milette un relevé d'emploi qui indiquait comme premier jour de travail le 27 septembre 1999 et comme dernier jour de travail le 17 décembre 1999, et qui indiquait 480 heures assurables et 4 080,00 $ comme rémunération assurable; (admis)
+AUTRES FAITS PERTINENTS POUR PASCAL MILETTE
+aaa) le 28 août 2002, Serge Pépin déclarait à un représentant de l'intimé que Pascal Milette n'avait pas travaillé au déménagement de l'entreprise alors qu'il avait précédemment déclaré que Pascal Milette avait travaillé à placer la machinerie lourde dans la salle de démonstration lors du déménagement; (nié)
+bbb) avant la période en litige, Pascal Milette avait peinturé, pendant 2 semaines à l'automne 1998, le nouveau local de l'appelante; (admis)
+ccc) durant la période en litige, Pascal Milette n'a pas rendu de services à l'appelante; (nié)
+ddd) l'appelante et Pascal Milette ont conclu un arrangement afin de qualifier Pascal Milette à obtenir des prestations de chômage. (nié)
+ISABELLE PÉPIN
+EEE) l'appelante et Isabelle Pépin sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+I) Serge Pépin est l'unique actionnaire de l'appelante. (admis)
+II) Serge Pépin est le père de Isabelle Pépin. (admis)
+iii) Isabelle Pépin est unie par des liens du sang à Serge Pépin qui contrôlait l'appelante. (admis)
+fff) durant la période en litige, Isabelle Pépin prétend avoir été embauchée comme journalière et que ses tâches consistaient à nettoyer les étagères et à classer les pièces alors qu'en réalité elle n'a pas travaillé durant cette période; (nié)
+ggg) le 11 mars 2002, Isabelle Pépin déclarait à un représentant de l'intimé qu'elle travaillait du lundi au vendredi entre 8h00 et 17h00; (admis)
+hhh) durant la période en litige, Isabelle Pépin prétend que ses tâches consistaient à nettoyer les étagères et à classer les pièces alors qu'en réalité elle n'a pas travaillé durant cette période; (nié)
+iii) le 31 juillet 2003, Isabelle Pépin déclarait à un représentant de l'intimé qu'elle amenait régulièrement ses deux enfants de 4 ans et de 1 an avec elle au travail chez l'appelante; (admis)
+jjj) Isabelle Pépin était inscrite au journal des salaires pour la période du 9 mai au 27 novembre 1999; (admis)
+kkk) Isabelle Pépin était inscrite pour 29 semaines consécutives de 35 heures; (admis)
+lll) Isabelle Pépin était inscrite avec une rémunération de 297,50 $ à chaque semaine; (admis)
+mmm) le 2 décembre 1999, l'appelante remettait à Isabelle Pépin un relevé d'emploi qui indiquait comme premier jour de travail le 10 mai 1999 et comme dernier jour de travail le 26 novembre 1999, et qui indiquait 1015 heures assurables et 8 627,50 $ comme rémunération assurable; (admis)
+nnn) le relevé d'emploi de Isabelle Pépin n'est pas conforme à la réalité. (nié)
+AUTRES FAITS PERTINENTS POUR ISABELLE PÉPIN
+ooo) le 28 août 2002, Serge Pépin déclarait à un représentant de l'intimé que Isabelle Pépin avait été embauchée à cause du déménagement et qu'elle avait été mise à pied parce que le déménagement était fini; (nié)
+ppp) le 11 mars 2002, Isabelle Pépin déclarait à un représentant de l'intimé qu'elle ne se rappelait pas exactement la période où elle avait travaillé pour l'appelante mais que c'était durant la période de déménagement; (nié)
+qqq) le déménagement des pièces était terminé en février 1999; (admis)
+rrr) durant la période en litige, Isabelle Pépin n'a pas rendu de services à l'appelante; (nié)
+sss) l'appelante et Isabelle Pépin ont conclu un arrangement afin de qualifier Isabelle Pépin à obtenir des prestations de chômage. (nié)
+[8] L'appelante a admis les paragraphes a, b, c, d, e, f, g, h, n, o, p, aa, bb, cc, ee, ff, gg, hh, jj, kk, ll, mm, rr, TT) I), II), III) et IV), uu, ww, xx, yy, zz, bbb, EEE I), II) et iii), ggg, iii, jjj, kkk, lll, mmm et qqq.
+[9] Par contre,plusieurs faits ont été niés; il s'agit des faits mentionnés aux paragraphes i, j, k, l, m, q, r, s, t, u, v, w, x, y, z, dd, ii, nn, oo, pp, qq, ss, vv, aaa, ccc, ddd, fff, hhh, nnn, ooo, ppp, rrr et sss.
+[10] Chacune des personnes physiques ayant déposé un avis d'appel, l'intimé a énuméré une Réponse à l'avis d'appel propre au dossier de chacune les motifs à l'appui de la détermination la concernant.
+[11] Étant donné que plusieurs faits ont été admis, il y a lieu de reproduire pour chacun des dossiers les faits qui ont fait l'objet d'une admission.
+[12] Au début de l'audience, tous les faits furent examinés et le procureur des appelants a indiqué au tribunal les faits niés, les faits ignorés et, finalement, les faits admis, d'où les mentions entre parenthèses figurant à la fin de chacun des faits énoncés ci-après.
+Dossier Isabelle Pépin (2003-4434(EI))
+5. [...]
+A) Le payeur a été constitué en société le 24 septembre 1987. (admis)
+B) Serge Pépin est l'unique actionnaire du payeur. (admis)
+C) Serge Pépin est le père de l'appelante. (admis)
+D) L'appelante est unie par des liens du sang à Serge Pépin qui contrôlait le payeur. (admis)
+6. [...]
+a) le payeur faisait affaires sous le nom de Général Surplus enr.; admis)
+b) le payeur exploitait une entreprise de réparation et de vente d'outillages et de machineries, il offrait également un service de garantie après vente pour des entreprises comme Wall Mart [sic], Canadian Tire et Sears; (admis)
+c) le chiffre d'affaires annuel du payeur s'élevait au 30 septembre 1999, à 575,510 $ et, au 30 septembre 2000, à 513 661 $; (admis)
+d) depuis 1992, le payeur était installé dans un local à Grand'Mère; (admis)
+e) en octobre et novembre [et décembre] 1998, le payeur a aménagé un nouveau local qui était adjacent à l'ancien; (admis)
+f) le payeur a suspendu les activités de son commerce durant la période des fêtes de 1998 jusqu'au 11 janvier 1999 pour le déménagement dans le local adjacent; (admis)
+g) du 18 octobre 1999 au 16 novembre 1999, le payeur a fait construire un entrepôt à St-Tite; (nié)
+h) durant la période en litige, l'appelante prétend avoir été embauchée comme journalière et que ses tâches consistaient à nettoyer les étagères et à classer les pièces alors qu'en réalité elle n'a pas travaillé durant cette période; (nié)
+i) le 11 mars 2002, l'appelante déclarait à un représentant de l'intimé qu'elle travaillait du lundi au vendredi entre 8 h 00 et 17 h 00; (admis)
+j) le 31 juillet 2003, l'appelante déclarait à un représentant de l'intimé qu'elle amenait régulièrement ses deux enfants de 4 ans et de 1 an avec elle au travail chez le payeur; (nié)
+k) l'appelante était inscrite au journal des salaires pour la période du 9 mai au 27 novembre 1999; (admis)
+l) l'appelante était inscrite pour 29 semaines consécutives de 35 heures; (admis)
+m) l'appelante était inscrite avec une rémunération de 297,50 $ à chaque semaine; (admis)
+n) le 2 décembre 1999, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 10 mai 1999 et comme dernier jour de travail le 26 novembre 1999, et qui indiquait 1015 heures assurables et 8 627,50 $ comme rémunération assurable; (admis)
+o) le relevé d'emploi de l'appelante n'est pas conforme à la réalité. (nié)
+7. [...]
+a) le 28 août 2002, Serge Pépin déclarait à un représentant de l'intimé que l'appelante avait été embauchée à cause du déménagement et qu'elle avait été mise à pied parce que le déménagement était fini; (nié)
+b) le 11 mars 2002, l'appelante déclarait à un représentant de l'intimé qu'elle ne se rappelait pas exactement la période où elle avait travaillé pour le payeur mais que c'était durant la période de déménagement; (nié)
+c) le déménagement des pièces était terminé en février 1999; (admis)
+d) durant la période en litige, l'appelante n'a pas rendu de services au payeur; (nié)
+e) le payeur et l'appelante ont conclu un arrangement afin de qualifier l'appelante à obtenir des prestations de chômage.(nié)
+Dossier Pascal Milette (2003-4438(EI))
+5. [...]
+A) Le payeur a été constitué en société le 24 septembre 1987. (admis)
+B) Serge Pépin est l'unique actionnaire du payeur. (admis)
+C) Serge Pépin est le père d'Isabelle Pépin. (admis)
+D) L'appelant est le conjoint d'Isabelle Pépin. (admis)
+E) L'appelant est unie [sic] par des liens du mariage [conjoint] avec Serve Pépin, son beau-père, qui contrôlait le payeur. (admis)
+6. [...]
+a) le payeur faisait affaires sous le nom de Général Surplus enr. (admis)
+b) le payeur exploitait une entreprise de réparation et de vente d'outillages et de machineries, il offrait également un service de garantie après vente pour des entreprises comme Wall Mart [sic], Canadian Tire et Sears; (admis)
+c) le chiffre d'affaires annuel du payeur s'élevait au 30 septembre 1999, à 575,510 $ et, au 30 septembre 2000, à 513 661 $; (admis)
+d) depuis 1992, le payeur était installé dans un local à Grand'Mère; (admis)
+e) en octobre et novembre [et décembre] 1998, le payeur a aménagé un nouveau local qui était adjacent à l'ancien; (admis)
+f) le payeur a suspendu les activités de son commerce durant la période des fêtes de 1998 jusqu'au 11 janvier 1999 pour déménager dans le local adjacent; (admis)
+g) du 18 octobre 1999 au 16 novembre 1999, le payeur a fait construire un entrepôt à St-Tite; (nié)
+h) durant la période en litige, l'appelant prétend avoir été embauché comme peintre et journalier; (admis)
+i) durant la période en litige, l'appelant prétend que ses tâches consistaient à peinturer le nouveau local du payeur, à monter les étagères, à aider au déménagement et à classer les pièces alors que le déménagement était terminé; (nié)
+j) l'appelant était inscrit au journal des salaires pour la période du 27 septembre au 17 décembre 1999; (admis)
+k) l'appelant était inscrit pour 12 semaines consécutives de 40 heures; (admis)
+l) l'appelant était inscrit avec une rémunération de 340,00 $ à chaque semaine; (admis)
+m) le 3 janvier 2000, le payeur remettait à l'appelant un relevé d'emploi qui indiquait comme premier jour de travail le 27 septembre 1999 et comme dernier jour de travail le 17 décembre 1999, et qui indiquait 480 heures assurables et 4 080,00 $ comme rémunération assurable; (admis)
+7. [...]
+a) le 28 août 2002, Serge Pépin déclarait à un représentant de l'intimé que l'appelant n'avait pas travaillé au déménagement de l'entreprise alors qu'il avait précédemment déclaré que l'appelant avait travaillé à placer la machinerie lourde dans la salle de démonstration lors du déménagement; (nié)
+b) avant la période en litige, l'appelant avait peinturé, pendant 2 semaines à l'automne 1998, le nouveau local du payeur; (nié)
+c) durant la période en litige, l'appelant n'a pas rendu de services au payeur; (nié)
+d) le payeur et l'appelant ont conclu un arrangement afin de qualifier l'appelant à obtenir des prestations de chômage.(nié)
+Dossier Diane Delisle (2003-4441(EI))
+5. [...]
+a) le payeur a été constitué en société le 24 septembre 1987; (admis)
+b) Serge Pépin est l'unique actionnaire du payeur; (admis)
+c) le payeur faisait affaires sous le nom de Général Surplus enr.; (admis)
+d) le payeur exploitait une entreprise de réparation et de vente d'outillages et de machineries, il offrait également un service de garantie après vente pour des entreprises comme Wall Mart, Canadian Tire et Sears; (admis)
+e) le chiffre d'affaires annuel du payeur s'élevait au 30 septembre 1999, à 575,510 $ et, au 30 septembre 2000, à 513 661 $; (admis)
+f) depuis 1992, le payeur était installé dans un local à Grand'Mère; (admis)
+g) en octobre, novembre et décembre 1998, le payeur a aménagé un nouveau local qui était adjacent à l'ancien; (admis)
+h) le payeur a suspendu les activités de son commerce durant la période des fêtes de 1998 jusqu'au 11 janvier 1999 pour le déménagement dans le local adjacent;(admis)
+i) du 18 octobre 1999 au 16 novembre 1999, le payeur a fait construire un entrepôt à St-Tite; (nié)
+j) l'appelante avait été embauchée comme commis-comptable; (nié)
+k) l'appelante prétend que ses tâches consistaient à effectuer la facturation, classer et faxer les factures, signer les bordereaux de livraison, surveiller les autres employés lorsque Serge Pépin était absent et de faire la comptabilité manuelle alors que la comptabilité du payeur était informatisée depuis juin 1998; (nié)
+l) Micheline Fraser a déclaré à un représentant de l'intimé qu'elle avait donné de la formation à l'appelante du 28 août 2001 au 25 novembre 2001 alors que Diane Délisle n'a commencé à être inscrite au journal des salaires que le 26 novembre 2001; (nié)
+m) le 27 août 2002, l'appelante déclarait à un représentant de l'intimé qu'elle ne savait pas qui passait les commandes, Serge Pépin ne voulant pas qu'un employé fouille dans les factures alors qu'elle prétend effectuer la facturation; (nié)
+n) le 31 juillet 2003, l'appelante déclarait à un représentant de l'intimé qu'elle ne touchait pas à l'informatique alors que la comptabilité du payeur était informatisée; (admis)
+o) pour la période du 26 novembre 2001 au 31 mai 2002, l'appelante était inscrite au journal des salaires pour 24 semaines de paye de 332,50 $ de 35 heures de travail par semaine et 2 semaines de 380,00 $ de 40 heures; (admis)
+p) le 17 juin 2002, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 26 novembre 2001 et comme dernier jour de travail le 31 mai 2002, et qui indiquait 920 heures assurables et 8 740 $ comme rémunération assurable; (admis)
+q) le 13 mai 2002, l'appelante avait cessé de travailler pour le payeur; (nié)
+r) l'appelante continuait à être inscrite au journal des salaires du payeur sans rendre de services au payeur; (nié)
+s) le relevé d'emploi de l'appelante n'est pas conforme à la réalité quant aux heures ni quant à la période; (nié)
+t) la période prétendument travaillée de l'appelante ne correspond pas avec la période réellement travaillée; (nié)
+u) le payeur et l'appelante ont conclu un arrangement afin de qualifier l'appelante à obtenir des prestations de chômage. (nié)
+Dossier Micheline Fraser (2003-4442(EI))
+5. [...]
+a) le payeur a été constitué en société le 24 septembre 1987; (admis)
+b) Serge Pépin est l'unique actionnaire du payeur; (admis)
+c) le payeur faisait affaires sous le nom de General Surplus enr.; (admis)
+d) le payeur exploitait une entreprise de réparation et de vente d'outillages et de machineries, il offrait également un service de garantie après vente pour des entreprises comme Wall Mart [sic], Canadian Tire et Sears; (admis)
+e) le chiffre d'affaires annuel du payeur s'élevait au 30 septembre 1999, à 575,510 $ et, au 30 septembre 2000, à 513 661 $; (admis)
+f) depuis 1992, le payeur était installé dans un local à Grand'Mère; (admis)
+g) en octobre et novembre [et décembre 1998], le payeur a aménagé un nouveau local qui était adjacent à l'ancien; (admis)
+h) le payeur a suspendu les activités de son commerce durant la période des fêtes de 1998 jusqu'au 11 janvier 1999 pour le déménagement dans le local adjacent;(admis)
+i) du 18 octobre 1999 au 16 novembre 1999, le payeur a fait construire un entrepôt à St-Tite; (nié)
+j) l'appelante avait été embauchée comme commis-comptable;(admis)
+k) les tâches de l'appelante consistaient à faire la tenue des livres comptables, la facturation, la conciliation bancaire, les paies et les dépôts;(admis)
+l) durant les périodes en litige, tout en travaillant pour le payeur, l'appelante effectuait la comptabilité des entreprises suivantes, Racibec, JSD Marine Inc., Rose Laframboise, Services RL et Maçonnerie Grand-Mère; (nié)
+m) l'appelante n'avait pas d'horaire fixe et travaillait selon sa convenance; (nié)
+n) le 20 février 2002, Serge Pépin déclarait à un représentant de l'intimé que l'appelante connaissait son travail et n'avait pas besoin de supervision; (nié)
+o) pour la période du 16 juin 1997 au 27 septembre 1997, l'appelante était inscrite au journal des salaires pour 4 semaines de paye de 280 $ avec 35 heures de travail par semaine; (admis)
+p) pour la période du 13 octobre 1997 au 20 décembre 1997, l'appelante était inscrite pour 5 semaines de paye de 280 $ avec 35 heures de travail par semaine; (admis)
+q) le 14 juillet 1997, le payeur émettait un chèque de 20 000 $ au nom de l'appelante; (admis)
+r) le 17 juillet 2003, Serge Pépin déclarait à un représentant de l'intimé qu'il était incapable de justifier le bien fondé [sic] de ce paiement; (nié)
+s) le payeur émettait des chèques au nom de la mère de l'appelante Jeannine Fraser qui étaient endossés par l'appelante; (admis)
+t) du 1er janvier au 27 juin 1998, l'appelante était inscrite au journal des salaires pour 14 semaines non consécutives de 280 $ avec 35 heures de travail; (admis)
+u) du 5 juillet au 26 décembre 1998, l'appelante était inscrite pour des semaines consécutives de 280 $ avec 35 heures par semaine; (admis)
+v) du 1er janvier 1999 au 7 mai 1999, l'appelante était inscrite pour des semaines consécutives de 297,50 $ avec 35 heures par semaine, par la suite, elle l'a été les semaines du 2 et du 30 octobre et les semaines des 17, 18, 25 et 31 décembre; (admis)
+w) du 10 janvier 2000 au 25 mars 2000, l'appelante était inscrite à raison de 3 semaines par mois pour des semaines de 297,50 $ de 35 heures par semaine;(admis)
+x) du 26 mars 2000 au 23 décembre 2000, l'appelante était inscrite au journal des salaires pour des semaines consécutives de 297,50 $ avec 35 heures de travail; (admis)
+y) le 21 octobre 1997, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 16 juin 1997 et comme dernier jour de travail le 26 septembre 1997, et qui indiquait 175 heures assurables et 1 400,00 $ comme rémunération assurable; (admis)
+z) le 21 mai 1999, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 15 juin 1998 et comme dernier jour de travail le 7 mai 1999, et qui indiquait 1610 heures assurables et 13 195,00 $ comme rémunération assurable; (admis)
+aa) le 4 janvier 2001, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 10 janvier 2000 et comme dernier jour de travail le 23 décembre 2000, et qui indiquait 1645 heures assurables et 13 982,50 $ comme rémunération assurable; (admis)
+bb) après et entre les périodes en litige, l'appelante continuait à rendre des services à chaque semaine au payeur sans être inscrite au journal des salaires; (nié)
+cc) les relevés d'emploi de l'appelante ne sont pas conformes à la réalité quant aux heures ni quant aux périodes; (nié)
+dd) les périodes prétendument travaillées de l'appelante ne correspondent pas avec les périodes réellement travaillées par celle-ci; (nié)
+ee) le payeur et l'appelante ont conclu un arrangement afin de qualifier l'appelante à obtenir des prestations de chômage tout en continuant à rendre des services pour le payeur. (nié)
+6. AUTRES FAITS PERTINENTS
+a) en janvier 1997, Serge Pépin l'actionnaire unique du payeur, a quitté son épouse; (admis)
+b) depuis janvier 1998, l'appelante est la conjointe de fait de Serge Pépin. (admis)
+[13] Serge Pépin, unique actionnaire de la société appelante qui faisait des affaires sous le nom de Général Surplus enr., a longuement témoigné.
+[14] Il a expliqué et décrit l'entreprise dont il était le seul actionnaire en référant, dans son témoignage, à chacune des personnes, soit Micheline Fraser, Diane Delisle, Pascal Milette et, finalement, Isabelle Pépin ayant exécuté le travail dont l'assurabilité est en litige.
+[15] Selon Serge Pépin, Micheline Fraser n'était pas sa conjointe au moment où elle a fait ses débuts comme employée dans l'entreprise. Elle la serait devenue à un moment dont la date précise n'a pas été clairement établie.
+[16] Isabelle Pépin était sa fille et Pascal Milette était le conjoint d'Isabelle Pépin. Quant à Diane Delisle, il n'y avait aucun lien de parenté de quelque nature que ce soit entre elle et Serge Pépin; elle était donc une tierce personne par rapport à lui et à son commerce.
+[17] Serge Pépin a expliqué que son ex-épouse avait travaillé dans l'entreprise qu'il dirigeait jusqu'à ce que la situation familiale se détériore au point d'en arriver à la rupture définitive, laquelle a d'ailleurs été sanctionnée par un divorce.
+[18] Son ex-épouse, Lise Pépin, avait eu des responsabilités importantes dans l'entreprise; elle y avait travaillé d'une manière continue et sans arrêt, et cela, depuis le tout début de l'entreprise.
+[19] Suivant le témoignage de Serge Pépin, son ex-épouse n'était ni disciplinée ni méthodique dans l'exécution de son travail; en outre, elle n'avait pas suffisamment de connaissances en matière d'administration et de comptabilité pour être autonome.
+[20] L'entreprise devait donc avoir recours, d'une manière fréquente et répétitive, aux services d'une certaine Céline Boisvert pour la comptabilité, et ce, particulièrement pour les fins d'exercice.
+[21] En substance, Serge Pépin a décrit tout le contexte et les circonstances et les raisons l'ayant amené à faire l'embauche des diverses personnes mentionnées ci-avant, c'est-à-dire de tous les travailleurs, soit Isabelle Pépin, Pascal Milette, Diane Delisle et Micheline Fraser dont l'assurabilité du travail pour les périodes en litige fait l'objet des présent appels.
+[22] Il a expliqué pourquoi les appelants avaient été engagés par l'entreprise qu'il dirigeait et contrôlait seul.
+[23] L'entreprise était très spécialisée; elle avait généralement en stock des pièces de remplacement pour des outils mécaniques ou électriques qui, souvent, ne se fabriquent plus étant de ce fait rarement disponibles et très recherchées.
+[24] Conséquemment, la société appelante faisait souvent affaire avec des clients de l'extérieur du Québec. Outre cette spécialité qui lui valait une grande renommée, l'entreprise avait différents contrats avec de grandes entreprises telles Wal-Mart, Canadian Tire, et plusieurs autres, pour assurer le service après vente pour diverses machines et divers outils mécaniques ou électriques. De plus, l'entreprise avait également son propre stock d'outils qu'elle vendait.
+[25] Une partie importante des affaires s'effectuait par téléphone. Le commerce possédait trois lignes différentes et il y avait aussi pour chacune un numéro 800, ce qui donnait l'équivalent de six lignes. Plusieurs manutentions, allant de la réception à la réexpédition, étaient nécessaires.
+[26] Le travail de bureau était important en ce que la facturation, le transport et la livraison exigeaient beaucoup d'heures de travail. Souvent, les clients étaient anglophones.
+[27] Comme Serge Pépin ne s'exprimait pas parfaitement en anglais, il devait recourir à des employés en mesure de prendre les nombreux appels en anglais qui revêtaient une grande importance du point de vue du volume d'affaires.
+Dossier Micheline Fraser
+[28] Serge Pépin a expliqué avoir fait la connaissance de Micheline Fraser lorsqu'elle travaillait dans une entreprise voisine à la sienne; sachant qu'elle possédait de l'expérience et de l'expertise en comptabilité et en administration, il lui a demandé, a-t-il expliqué, de travailler pour son entreprise, qui avait grand besoin de son savoir et de son expertise.
+[29] Il a décrit le travail de Micheline Fraser comme semblable ou comparable à celui que son ex-épouse avait exécuté au cours des ans, ajoutant cependant en insistant beaucoup sur ce fait, que madame Fraser était plus compétente, plus disciplinée, mieux organisée; conséquemment, selon lui, Micheline Fraser exécutait un travail plus complet, plus satisfaisant et le faisait plus rapidement.
+[30] Il a indiqué qu'au début il y avait entre eux essentiellement une relation d'employeur-employée. Après le départ de son ex-épouse à la suite de la rupture, il aurait loué à Micheline Fraser une chambre dans sa résidence. Encore là, il se serait agi d'une relation d'affaires exclusivement.
+[31] Plus tard, à un moment non déterminé de façon précise, ils sont devenus conjoints de fait. Ils se sont alors partagé les dépenses reliées à la cohabitation.
+[32] Serge Pépin a aussi expliqué que Micheline Fraser avait choisi de retourner aux études à temps plein, de sorte qu'elle avait dû quitter le travail pour s'investir à plein temps dans ses études. Cette absence pour cause de retour aux études a été comblée par l'embauche de Diane Delisle.
+[33] Il a aussi soutenu que la qualité du travail de Micheline Fraser, son efficacité et sa très grande compétence faisait en sorte que sa présence à l'entreprise n'était pas requise de façon continue. Les explications quant aux débuts et fins des périodes de travail sont demeurées par contre assez vagues et imprécises, si ce n'est à l'égard de la dernière période, pour laquelle la raison de la fin du travail était le retour aux études.
+Dossier Diane Delisle
+[34] Serge Pépin a affirmé avoir rencontré Diane Delisle lorsque cette dernière était venue solliciter un emploi après avoir appris que Micheline Fraser, qu'elle connaissait, l'eut avisé qu'elle retournait aux études à temps plein. Il a donc retenu ses services, peu de temps après avoir obtenu son curriculum vitae pour la période indiquée au relevé d'emploi, soit du 26 novembre 2001 au 31 mai 2002, et elle a été engagée pour remplacer Micheline Fraser.
+[35] Comme travail, elle remplaçait Micheline Fraser, retournée aux études à temps plein, mais elle n'avait pas, semble-t-il, toutes les aptitudes et connaissances de Micheline Fraser, qui aurait continué, d'une façon ponctuelle, à rendre des services à l'entreprise pour que tout se passe bien.
+Dossier Pascal Milette
+[36] Pascal Milette était le conjoint d'Isabelle Pépin, fille de Serge Pépin. Détenant une « carte de compétence » comme peintre, il était aussi très habile en matière de construction et de rénovation. Serge Pépin a retenu ses services pour la période allant du 27 septembre 1999 au 17 décembre 1999.
+[37] Le pourquoi de son embauche était de confier à la personne fiable qu'il était, la responsabilité d'agir comme surveillant sur les lieux où étaient effectués d'importants travaux de construction à la suite de l'achat d'un immeuble à St-Tite pour en faire un entrepôt.
+[38] Ayant confié le contrat à une tierce compagnie et ne pouvant pas être constamment sur les lieux puisqu'il était retenu à l'établissement de l'entreprise à Grand-Mère, Serge Pépin a, affirmait-il, confié à Pascal Milette la responsabilité de surveiller les travaux et de s'assurer que tout se déroulait comme il le voulait, étant donné que ce dernier avait toutes les qualités requises pour ce travail.
+[39] Non seulement a-t-il donné à Pascal Milette cette responsabilité de contrôle et de surveillance des travaux, mais il lui a demandé d'effectuer les travaux qui devaient permettre d'utiliser les lieux comme entrepôt.
+[40] Pascal Milette, aurait donc fait des étagères destinées à recevoir des articles de stock. Il devait faire également des travaux de peinture et placer divers articles qu'il transportait de l'établissement à Grand-Mère jusqu'à St-Tite au moyen de la camionnette de l'entreprise.
+[41] À la fin des travaux, ses services n'étaient plus requis d'où la fin de la période de travail a été le 17 décembre 1999.
+Dossier Isabelle Pépin
+[42] La conjointe de Pascal Milette, Isabelle Pépin, était la fille de Serge Pépin. Le local où se trouvait l'entreprise que dirigeait Serge Pépin et qui faisait des affaires sous le nom de Général Surplus enr., ayant été vendu, l'entreprise avait alors dû déménager toutes ses installations et ses inventaires dans un local contigu plus petit, qui lui appartenait également.
+[43] Pressé par l'acquéreur de quitter les lieux, Serge Pépin a organisé et planifié le déménagement durant la période des fêtes. Comme on devait procéder très rapidement, le stock était placé dans des boîtes qui étaient tout simplement transportées et déposées pêle-mêle sur le plancher du nouveau local contigu au précédent.
+[44] Après avoir dû fonctionner quelques mois dans l'embarras et le fouillis, Serge Pépin a décidé d'engager sa fille, qui n'avait aucune expérience dans ce genre de travail, pour qu'elle vide les boîtes et place leur contenu sur des étagères tout en marquant les articles pour permettre un classement informatique de l'inventaire.
+[45] Mère de deux jeunes enfants, Isabelle Pépin se rendait souvent au travail avec ses deux enfants, qui s'amusaient sur les lieux sans que cela soit un problème, même s'il s'agissait d'un environnement pouvant s'avérer dangereux, eu égard au genre de pièces, de morceaux et d'outils qui s'y trouvaient.
+[46] Le récit et les explications de Serge Pépin ont paru cohérents et vraisemblables.
+[47] Chacune des personnes dont le travail a été décrit par Serge Pépin ayant elle-même fait appel de la décision quant à l'assurabilité du travail exécuté a témoigné à l'audience.
+[48] Lors de l'interrogatoire dirigé par leur procureur, les appelants Isabelle Pépin, Pascal Milette, Diane Delisle et Micheline Fraser ont essentiellement fourni des explications qui se voulaient une confirmation générale des faits présentés par Serge Pépin dans son témoignage.
+[49] Lors des contre-interrogatoires, le tribunal a pu constater que l'intimé détenait, de toute évidence, des informations et des renseignements qui n'étaient pas tout à fait conformes aux explications fournies en réponse aux questions du procureur des appelants, qui avait manifestement très bien préparé ses dossiers.
+[50] Les contre-interrogatoires des témoins ont fait ressortir plusieurs incohérences et permis ainsi de mieux comprendre certains faits tenus pour acquis par le ministre au soutien des déterminations. Pour réconcilier les discordances et clarifier les ambiguïtés, certaines explications furent données.
+[51] La preuve soumise par les appelants fut suivie par la preuve de l'intimé; les personnes ayant participé à l'enquête de laquelle ont résulté les déterminations ont donc témoigné.
+[52] Au départ, il a été indiqué que l'intimé voulait essentiellement enquêter sur l'assurabilité du travail de l'appelante, Micheline Fraser. Dès le début de l'enquête, madame Denyse Prévost a cependant constaté plusieurs anomalies importantes. Les nombreuses et importantes irrégularités l'ont incitée à faire une enquête et une analyse plus exhaustives et complètes ce qui l'a amenée à examiner les dossiers de tous les appelants.
+[53] Madame Prévost a notamment fait les constatations suivantes :
+· Micheline Fraser exécutait du travail de comptabilité pour plusieurs entreprises; elle ne déclarait pas les revenus qu'elle recevait sur les formulaires lui permettant de recevoir ses prestations d'assurance-emploi qu'elle touchait régulièrement grâce à son travail chez Général Surplus.
+· Elle niait énergiquement tous ces faits jusqu'à ce qu'on lui démontre l'évidence incontournable; à ce moment-là, elle finissait par reconnaître les faits découverts par l'enquête et elle tentait alors d'expliquer le pourquoi de son revirement.
+· Madame Fraser, une personne très intelligente, avait participé à une séance de formation et d'information sur ses droits et obligations en ce qui concerne l'assurance-emploi; malgré cette séance d'information, elle soutenait avoir vérifié auprès du bureau d'assurance-emploi et avoir été informée qu'elle n'avait pas d'obligation de déclarer les gains inférieurs à 25 % du montant des prestations d'assurance-emploi qu'elle recevait.
+· Micheline Fraser avait reçu plusieurs fois des sommes supérieures aux fameux 25 %, sans les déclarer.
+· Micheline Fraser ne déclarait pas dans ses revenus annuels certains revenus ponctuels qu'elle recevait pour du travail de comptabilité exécuté pour le compte et au bénéfice de diverses entreprises.
+· Elle écoulait toutes ses prestations d'assurance-emploi avant de réapparaître au registre des salaires.
+· Elle a encaissé plusieurs chèques de paye dont elle n'était pas la bénéficiaire dont certains pour son fils, sa mère et Diane Delisle.
+· Bien qu'elle ait soutenu ne pas être la conjointe de Serge Pépin au début, elle a elle-même déclaré être conjointe lors d'une demande soumise à une institution financière.
+[54] Les nombreuses constatations d'irrégularités ont généré un climat de grande suspicion et de méfiance à l'égard du dossier Général Surplus enr.; l'intimé a dès lors décidé d'investir du temps et des ressources pour vérifier et analyser en profondeur tout le dossier Général Surplus enr.
+[55] Plus l'enquête progressait, plus les soupçons s'avéraient fondés et plus il était découvert des irrégularités, particulièrement lorsqu'il était fait des croisements à partir de certaines informations provenant des documents soumis, dont, notamment, le livre des salaires.
+[56] Devenue suspicieuse et méfiante pour les raisons précédemment mentionnées, madame Prévost a pris l'initiative de s'associer un collègue spécialisé dans les dossiers de fraude majeure.
+[57] Elle a expliqué avoir effectué un travail colossal pour faire la lumière sur la situation à partir des documents qui lui furent remis pêle-mêle dans une vingtaine de caisses. Elle a ainsi réuni un très grand nombre de données. Elle a également fait plusieurs croisements à partir des chèques de rémunération et du livre des salaires.
+[58] Les tableaux préparés à partir des divers documents analysés ont révélé des faits troublants, dont, notamment, le fait que des chèques ont été libellés à l'ordre de la mère ou du fils de Micheline Fraser mais endossés par celle-ci alors qu'elle n'apparaissait pas au registre des salaires.
+[59] Le tableau produit sous la cote I-9 préparé par madame Denise Prévost, révèle notamment :
+- [...] Lise Désilets-Pépin est inscrite au livre des salaires entre février 1997 et juillet 1998 alors qu'elle n'y travaille pas tel qu'il appert du témoignage de M. Lépine, de Mme Isabelle Pépin et Mme Vaugeois.
+- [...] À la suite de la mise à pied de Micheline Fraser en mai 1999, Isabelle Pépin est embauchée à cette même période et au même salaire que Micheline Fraser.
+- [...] Serge Pépin ne se verse pas de salaire lorsque Pascal Milette est embauché en 1999.
+- [...] en 2000, Jeannine Fraser est inscrite au livre des salaires pendant quatre semaines dont une semaine où Micheline Fraser ne reçoit aucun salaire. Au cours de cette même année, ... Yann Roberge est inscrit au livre des salaires pour une semaine, lorsque sa mère, Micheline Fraser, ne travaille pas.
+- En 2001, Jeannine Fraser est inscrite au livre des salaires quatre semaines au cours desquelles Micheline Fraser ne travaille pas . De plus, Yann Roberge est inscrit au livre des salaires quatre semaines où sa mère n'y apparaît pas.
+[60] Eu égard à la coïncidence quant aux dates, il aurait été très intéressant et certainement pertinent de faire témoigner les bénéficiaires des chèques endossés et encaissés par Micheline Fraser; les divers constats créaient une présomption à l'effet que Micheline Fraser avait été la véritable bénéficiaire des montants indiqués sur les chèques; il pouvait s'agir d'une façon indirecte de recevoir une rémunération en même temps que des prestations d'assurance-emploi. Chose certaine, il s'agissait là d'une situation qui méritait des explications plus explicites et surtout plus crédibles que celles soumises.
+[61] Très impliquée dans l'administration et la gestion de l'entreprise de Serge Pépin, devenu son conjoint, le tribunal a trouvé curieux, voire même invraisemblable, que Micheline Fraser ne sache pas ce que son fils avait fait comme travail pour l'entreprise alors que, selon les registres, ce dernier aurait travaillé et reçu un salaire.
+[62] Je rappelle qu'il ne s'agissait pas d'une entreprise qui employait des dizaines de personnes. Il s'agissait d'une très petite entreprise où tous savaient ou devaient savoir ce que les autres faisaient.
+[63] Lucie Vaugeois, agente d'assurabilité, a, quant à elle, appris de l'ex-conjointe, Lise Pépin, qu'elle avait travaillé pour l'entreprise depuis ses débuts. Selon Lise Pépin, le commerce Général Surplus enr. requérait la présence continue d'une personne pour l'exécution du travail de bureau administratif.
+[64] Madame Vaugeois a ainsi conclu, à partir de la déclaration de l'ex-conjointe de Serge Pépin, que Micheline Fraser avait effectué du travail, et cela, d'une manière beaucoup plus soutenue, constante et continue que cette dernière et son conjoint, Serge Pépin, l'ont prétendu.
+[65] L'exclusion du travail de Micheline Fraser des emplois assurables a aussi découlé de la relation contractuelle particulière qui existait entre elle et son conjoint, Serge Pépin.
+[66] Selon l'intimé, Micheline Fraser a profité d'avantages et de conditions de travail largement influencés et déterminés par son statut de conjointe de fait de Serge Pépin au point qu'il existait un véritable arrangement entre eux pour qu'elle profite au maximum des prestations d'assurance-emploi.
+[67] Serge Pépin et Micheline Fraser ont fait état de ce que madame Lise Pépin n'avait pas la compétence voulue pour s'occuper de toute la comptabilité et que le commerce devait de ce fait, avant la venue de Micheline Fraser, faire appel à une madame Céline Boisvert. Or, l'examen de tous les chèques n'a permis de découvrir aucun chèque payable à cette dernière. Serge Pépin a aussi soutenu que sa relation affective avec Micheline Fraser avait débuté beaucoup plus tard que l'a prétendu l'intimé. Les explications relatives quant aux débuts de la relation maritale n'ont pas été très convaincantes. Le tribunal croit que l'arrivée de Micheline Fraser dans le décor n'est pas étrangère à la rupture intervenue entre Serge Pépin et son épouse, le début de la relation maritale étant, de toute évidence, celui tenu pour acquis par l'intimé.
+[68] Dans le cas d'Isabelle Pépin, les enquêteurs ont obtenu d'elle des réponses vagues, ambiguës, même totalement farfelues, au point qu'elle n'avait même pas été en mesure de situer dans le temps sa période d'emploi.
+[69] Isabelle Pépin ne se serait pas rappelé si c'était l'hiver ou l'été. Sa description de tâches aurait été nébuleuse et très ambiguë. Elle aurait amené avec elle sur les lieux du travail ses deux jeunes enfants. À quelle fréquence? Pour quelle durée? Le tribunal ne l'a jamais su vraiment.
+[70] Après avoir refusé de donner le nom de sa gardienne, elle aurait ensuite accepté de le faire. Après avoir fourni des explications vagues, générales et très confuses quant à la nature du travail qu'elle aurait exécuté au cours de sa période en litige, lors de l'audience, elle a fait une description de son travail en donnant des détails dignes de la précision d'une horloge. La gardienne n'a pas témoigné.
+[71] Pour expliquer ou justifier certains faits tout à fait inconciliables avec certaines explications fournies lors d'entrevues durant l'enquête sur son dossier, elle a tout simplement fait état de ce qu'elle avait aussi fait du travail à une autre époque et a dit qu'elle avait pu mélanger les deux périodes lors des entrevues avec les enquêteurs.
+[72] Selon elle, dans l'autre période, il s'agissait de travail bénévole et non rémunéré exécuté lors du déménagement au cours de la période des fêtes. Pareille explication avait l'avantage de renvoyer la balle dans le camp adverse et de laisser croire que les personnes responsables de l'analyse de son dossier mélangeaient ou confondaient les deux périodes, l'une rémunérée et l'autre non.
+[73] Son conjoint, Pascal Milette, également appelant, a adopté la même approche lorsque les faits relatés par lui à l'audience sont devenus quelque peu nébuleux quant à la nature du travail qu'il avait exécuté, mais aussi, et surtout, quant à l'endroit et au moment où ce travail aurait été exécuté.
+[74] Il y avait tellement de différences entre le témoignage des appelants et celui des personnes qui ont fait l'enquête qu'on aurait pu croire qu'il ne s'agissait pas des mêmes dossiers.
+[75] Le dossier de l'appelante Diane Delisle est particulier en ce que celle-ci n'avait aucun lien de dépendance avec l'entreprise de laquelle elle a obtenu un relevé d'emploi.
+[76] Certains faits ont discrédité la version des faits soumise par madame Delisle; je fais notamment référence aux éléments suivants : au fait que la conjointe de Serge Pépin, Micheline Fraser, a elle-même encaissé quelques-uns des chèques; à la description des activités qui ont eu lieu durant de la période des fêtes; à la confusion quant aux congés et quant à la semaine où elle n'aurait pas travaillé, et finalement, à la durée de son travail, qui a été assez longue pour qu'elle devienne admissible aux prestations d'assurance-emploi.
+[77] Tous ces éléments pouvaient expliquer la conclusion de l'intimé. Par contre, j'ai aussi constaté que, dès le début de l'enquête, on avait pratiquement tenu pour acquis que Diane Delisle mentait systématiquement, de sorte qu'on a considéré que sa version était essentiellement un tissu de mensonges.
+[78] Le dossier de Diane Delisle a été abordé avec un préjugé teinté de profonds soupçons quant à la véracité des ses prétentions; bien que leurs soupçons aient pu avoir une certaine légitimité eu égard aux nombreuses constatations d'irrégularités, elle avait droit à une considération objective des faits.
+[79] J'ai constaté que la personne qui avait fait l'examen de son dossier a en quelque sorte tenu pour acquis, après avoir constaté certaines incohérences dans les explications données que Diane Delisle mentait sur toute la ligne.
+[80] Les vérificateurs et enquêteurs chargés des dossiers ont abordé le dossier de Diane Delisle avec un préjugé qui lui était nettement défavorable; en effet, après avoir constaté certaines contradictions, qui pouvaient cependant s'expliquer par l'écoulement du temps, ils ont rapidement conclu que madame Delisle leur mentait. D'ailleurs, certaines remarques et le ton du langage utilisé m'ont permis de constater que les explications fournies avaient été rapidement écartées du revers de la main; prétendant qu'il s'agissait de pures inventions.
+[81] Plusieurs éléments étaient pourtant favorables à madame Delisle. Je fais référence au fait que les enquêteurs chargés du dossier ont eux-mêmes appris lors de leur enquête que l'entreprise avait eu un réel besoin de la présence continue d'un employé de bureau.
+[82] Ils avaient recueilli et accepté cette donnée, qui provenait de l'ex-conjointe de Serge Pépin, qui avait travaillé à plein temps pour l'entreprise depuis sa création jusqu'à ce que la rupture intervienne entre elle et Serge Pépin, moment où l'appelante Micheline Fraser a fait son arrivée dans le décor. Or, la période de travail de Diane Delisle correspondait à la période où Micheline Fraser est retournée aux études à temps plein. Diane Delisle a bel et bien fait du travail. Elle n'avait aucun lien de dépendance avec l'employeur.
+[83] Quant aux autres dossiers, les nombreuses coïncidences relatives à certains relevés d'emploi et les soupçons quant au véritable destinataire de certains chèques sont largement suffisants pour conclure, selon la prépondérance de la preuve, que l'entreprise Général Surplus enr. avait une conscience très élastique pour ce qui est de l'établissement de certains relevés d'emploi. Il n'est pas exagéré de conclure que tout un système avait été mis sur pied pour exploiter au maximum le programme d'assurance-emploi.
+[84] Non seulement le nombre d'heures indiqué sur certains relevés coïncidait avec le nombre d'heures requis pour être admissible aux prestations, bien plus les montants indiqués sur les relevés d'emploi profitaient possiblement à quelqu'un d'autre que la personne à l'ordre de qui les chèques étaient libellés. Si les bénéficiaires de certains de ces chèques douteux avaient témoigné, le tribunal aurait peut-être pu tirer une conclusion différente. Souvent, la conjointe de Serge Pépin, qui, pour la période en question, ne recevait pas de salaire mais touchait des prestations d'assurance-emploi, était celle qui encaissait les chèques en question.
+[85] Selon la prépondérance de la preuve, certains relevés d'emploi étaient essentiellement des relevés d'emploi de complaisance qui profitaient à deux personnes. La personne au nom de qui était fait le relevé en profitait en ce qu'il l'aidait à se rendre admissible à des prestations, alors que les montants qui y apparaissaient profitaient, soit à monsieur Pépin lui-même, soit à sa compagne, Micheline Fraser.
+[86] Qui croire? Les enquêteurs n'avaient aucun intérêt à inventer quoi que ce soit. De leur côté, les appelants avaient réfléchi pour la préparation de leur témoignage; ils ont tenté de fournir des explications relatives aux nombreuses différences entre la version qu'ils ont donnée devant le tribunal et celle fournie aux enquêteurs.
+[87] Les nombreuses différences entre les versions soulevaient cependant une question importante. Comment les déclarations des appelants avaient-elles pu être aussi imprécises et confuses lors de l'enquête alors que leur témoignage devant le tribunal, enregistré plusieurs mois plus tard, a été aussi clair et précis?
+[88] Je ne crois pas les versions données lors de l'audience; elles étaient trop simples; si les choses s'étaient passées d'une manière aussi simple, il n'y avait aucune raison pour laquelle les versions devaient être à ce point ambiguës et confuses au cours des conversations avec mesdames Prévost et Vaugeois; rien ne justifiait de telles différences entre les versions.
+[89] Il est important de rappeler que les enquêtes ont eu lieu à un moment beaucoup plus rapproché des événements en cause, ce qui devait favoriser le souvenir. Pour expliquer les incohérences, il a notamment été mentionné qu'ils avaient fait l'objet d'intimidation et que de ce fait, les versions qu'ils avaient données ne correspondaient pas.
+[90] Pour ce qui est de l'intimidation et des menaces, je crois que ce grief est tout à fait mal fondé et à cet égard, je souscris entièrement à l'évaluation de l'intimé exprimée à l'argumentation écrite comme suit :
+- Dans l'argumentation écrite des appelants, certains d'entre eux déclarent avoir reçu des menaces ou avoir subi une pression de la part d'enquêteurs de DRHC et/ou d'agents de l'Agence du revenu du Canada (l'Agence).
+- Cependant, tel qu'il appert du témoignage des appelants, aucune déclaration statutaire déposée en preuve n'a été prise sans le consentement libre et volontaire des participants.
+- Tous les appelants qui ont signé une déclaration statutaire ont confirmé leur version lorsqu'ils ont été contactés par les agents de l'Agence. Aucun d'entre eux ne leur a déclaré avoir été soumis à une pression indue avant de signer leur déclaration statutaire.
+[91] En outre, l'interprétation de certains faits par les analystes a été confirmée par des données objectives telles une abondante preuve documentaire. De leur côté, les appelants ont essentiellement fourni des explications verbales non corroborées. La corroboration n'est pas essentielle, mais revêt une certaine importance lorsqu'une personne présente différentes versions quant à une même question.
+[92] Les nombreux éléments disponibles mis en lumière lors des enquêtes et analyses permettent de conclure que Serge Pépin, seul actionnaire du commerce faisant des affaires sous la raison sociale Général Surplus enr., était, dans la gestion de son entreprise, très peu scrupuleux quant à la tenue du registre des salaires et qu'il était, de toute évidence très complaisant.
+[93] Il était très peu scrupuleux dans l'établissement des relevés d'emploi, surtout qu'il s'agissait de personnes dont il était très proche. La preuve a démontré que les relevés d'emploi de complaisance le favorisaient en ce que sa conjointe obtenait ainsi indirectement une rémunération qu'elle ne pouvait pas recevoir autrement parce qu'elle recevait des prestations d'assurance-emploi.
+[94] L'enquête réalisée par l'intimé a permis d'apprendre, ce qu'ont d'ailleurs reconnu les enquêteurs, que l'entreprise Général Surplus enr. avait réellement besoin d'un employé pour le travail d'écriture, la réception des clients, la prise des appels téléphoniques, etc. Cette constatation provient de la preuve même de l'intimé en ce que la version obtenue de l'ex-conjointe de Serge Pépin, qu'ont rencontrée les enquêteurs, a révélé que l'entreprise avait besoin d'une personne de manière continue.
+[95] Or, la preuve a aussi établi que Micheline Fraser s'était inscrite à des cours pour devenir infirmière auxiliaire et avait suivi ces cours à plein-temps. Il y avait là une explication objective de la présence d'une employée telle Diane Delisle.
+[96] D'ailleurs, cette présence et le besoin continu d'une personne ayant des notions de comptabilité et des compétences en matière de travail d'écriture ont été tenus pour acquis par l'intimé lors de l'appréciation du travail exécuté par Micheline Fraser.
+[97] Il est tout aussi vraisemblable que la nouvelle orientation de l'appelante Micheline Fraser, qui avait alors commencé ses cours pour obtenir le diplôme d'infirmière auxiliaire, l'a accaparée au point qu'elle n'avait plus suffisamment de disponibilité pour l'entreprise de son conjoint si ce n'est par le biais d'une supervision ponctuelle.
+[98] Finalement, lors de son témoignage, l'appelante Diane Delisle a fourni des détails fort explicites et a donné des explications vraisemblables et cohérentes.
+[99] Le fardeau de la preuve qui lui incombait n'était pas de faire une preuve hors de tout doute raisonnable; elle devait plutôt démontrer selon la prépondérance de la preuve, que ses prétentions étaient bien fondées. Même si des doutes subsistaient toujours à la fin du procès quant à la véracité de certains éléments, je lui accorde le bénéfice du doute.
+[100] Je conclus, après une certaine hésitation, au bien-fondé de son appel puisque la prépondérance de la preuve est à l'effet que le travail litigieux a été exécuté dans le cadre d'un contrat de louage de services. Conséquemment, l'appel est accueilli en ce que le travail exécuté, et décrit au relevé d'emploi comme ayant été exécuté du 26 novembre 2001 au 31 mai 2002, est déterminé assurable.
+[101] Quant aux autres dossiers, certains faits me sont apparus particulièrement déterminants pour statuer sur les appels dont le sort repose essentiellement sur la crédibilité des principaux intervenants.
+[102] Je fais notamment référence aux éléments suivants :
+· nombreuses hésitations;
+· mémoire sélective;
+· précision d'une horloge quant à certaines explications favorables à leur position et oublis multiples lorsque les réponses possibles étaient de nature à discréditer leur thèse;
+· nombreuses explications invraisemblables; à titre d'exemple : l'embauche de Micheline Fraser a été justifiée par sa connaissance de la langue anglaise; or, comment réconcilier cette explication avec le fait que les clients anglophones étaient nombreux et qu'ils faisaient des affaires principalement par le biais du téléphone alors que Micheline Fraser était très souvent absente;
+· l'absence de certaines personnes dont le témoignage aurait été très utile;
+· nombreuses contradictions et invraisemblances.
+· Lors des interrogatoires dirigés par leur procureur, les appelants ont témoigné d'une manière cohérente et précise, qualités qui ont totalement disparues lors des contre-interrogatoires.
+· La version des faits recueillis par les enquêteurs différait complètement de celle soumise au tribunal par les appelants et cela, sur plusieurs aspects importants, dont notamment au niveau de la nature du travail exécuté, le moment de l'exécution.
+· L'absence de logique au niveau des explications; je fais notamment référence à la période de travail de Isabelle Pépin et Pascal Milette au fait que Micheline Fraser qui rendait, aux dires de Serge Pépin, des services tout à fait essentiels; malgré qu'il s'agissait d'une employée essentielle, elle était régulièrement mise à pied.
+[103] Lors de son témoignage, Micheline Fraser a expliqué d'une manière détaillée le travail qu'elle a soutenu avoir exécuté. Il s'agissait d'une version simple laissant peu de place à l'équivoque. Sa version des faits a cependant été complètement discréditée par le témoignage des différents intervenants ayant conduit l'enquête de laquelle a résulté la détermination. Employée indispensable et essentielle, elle ne travaillait pas de façon continue!
+[104] Lors de la cessation d'emploi d'Isabelle Pépin, plusieurs caisses de pièces étaient toujours pêle-mêle et le tout n'aurait par la suite donné lieu à aucune réembauche pour que soit poursuivi ou achevé le travail qualifié de super important, absolument nécessaire et urgent. Au moment de l'établissement du relevé d'emploi attestant de la fin de l'emploi, plusieurs caisses étaient toujours là et d'après la preuve, probablement encore là.
+[105] Pourquoi ce travail a-t-il été défini comme plus fondamental que le travail de gestion et de comptabilité, puisque, durant la prétendue période de travail de l'appelante Isabelle Pépin, l'entreprise n'avait personne à son service pour s'occuper du volume important de travail qui, dans le temps, avait été exécuté par l'ex-conjointe de Serge Pépin, Lise Pépin, plus tard par l'appelante Micheline Fraser, et pendant une autre période, où cette dernière n'était plus disponible, par l'appelante Diane Delisle? Il s'agissait là d'un aspect fort important; malgré cela, aucune explication vraisemblable n'a été soumise.
+[106] Tout comme sa conjointe, Isabelle Pépin, l'appelant Pascal Milette a présenté des explications simples et cohérentes à l'audience, alors que tout était vague et confus lors de l'enquête.
+[107] Le travail exécuté par Pascal Milette avait trait à l'aménagement d'un entrepôt situé à quelques kilomètres du commerce. Il aurait agi comme surveillant des travaux alors exécutés par une tierce entreprise. N'étant pas lui-même disponible, monsieur Pépin l'aurait engagé afin qu'il le représente sur le chantier pour surveiller les travaux, qui avaient été confiés à un entrepreneur de la région.
+[108] Parallèlement à ce travail de surveillance, il aurait fait le transport d'articles et les aurait placés dans le nouvel entrepôt; il y aurait fait en outre des travaux de peinture, conçu et fabriqué des étagères qui devaient recevoir plus tard divers articles de stock et, finalement, fait du rangement sur les étagères. La preuve documentaire quant aux dates d'exécution du travail par l'entrepreneur soulève plusieurs questions quant à la pertinence du travail de Pascal Milette.
+[109] Lors de l'enquête dont il a fait l'objet, l'appelant Pascal Milette avait donné une toute autre version des faits complètement différente de celle présentée au tribunal. Pour rendre le tout vraisemblable et crédible, l'appelant Pascal Milette a fait valoir qu'il avait effectivement fait du travail pour Général Surplus enr., dont monsieur Pépin, le père de sa conjointe était propriétaire, mais que c'était à titre de bénévole pour venir en aide à l'entreprise, la même explication que celle de sa conjointe, Isabelle Pépin.
+[110] Cette explication permettait de faire disparaître les incohérences et confusions constatées par les enquêteurs et facilitait la présentation d'une version nouvelle et cohérente qui ne pouvait pas faire l'objet de controverse en ce qu'il s'agissait de faits non vérifiés ni vérifiables.
+[111] Il aurait été utile, voire essentiel, que le tiers, entrepreneur qui avait effectué les fameux travaux d'aménagement du nouvel entrepôt, vienne confirmer et corroborer ses prétentions.
+[112] Comme ils savaient que leur nouvelle version des faits soumise au tribunal ferait sans aucun doute des remous, eu égard à la version et aux explications données antérieurement, il devenait impératif que les appelants soient en mesure de consolider leur nouvelle version par l'intervention de témoins indépendants et fiables, d'autant plus que le fardeau de la preuve leur incombait.
+[113] Les nombreuses contradictions constatées par les responsables de l'étude des dossiers, les nombreux constats dégagés par la preuve documentaire, tel que le livre des salaires et les périodes de travail, ainsi que les différences fondamentales entre certaines explications initiales et celles données ultérieurement discréditent totalement la preuve des appelants Micheline Fraser, Pascal Milette, Isabelle Pépin et de la société 2530-8552 Québec Inc.
+[114] À titre d'exemple, Micheline Fraser soutenait dans un premier temps ne pas avoir travaillé; devant la présentation de chèques faits à son ordre par un autre employeur, elle admettait qu'elle avait effectivement travaillé, soutenant toutefois qu'il s'agissait là d'un fait particulier et isolé dans le temps et que sa mémoire avait pu la trahir, qu'elle avait mal compris la question, etc., etc.
+[115] Mise en présence de plusieurs chèques émanant de plusieurs entreprises, elle a reconnu qu'ils correspondaient à du travail qu'elle avait fait, ajoutant qu'après vérification auprès des autorités, elle avait obtenu de l'information selon laquelle elle n'avait pas à en déclarer les montants.
+[116] Or, la preuve a démontré que madame Fraser avait participé à une séance d'information où ces éléments étaient clairement et longuement expliqués. Très intelligente, bonne communicatrice et disciplinée, non seulement cette personne a reçu des sommes supérieures à la limite de 25 %, mais il s'est avéré qu'elle ne déclarait pas non plus de tels revenus dans ses déclarations annuelles de revenus.
+[117] La preuve a fait ressortir un grand nombre d'éléments utiles et déterminants pour apprécier la qualité et la crédibilité des témoignages des appelants.
+[118] La preuve des appelants ne fait pas le poids par rapport à celle soumise par l'intimé qui en outre n'avait pas le fardeau de la preuve.
+[119] En substance, le ministre a retenu suffisamment de faits pertinents pour justifier les déterminations dans les dossiers, de Micheline Fraser, d'Isabelle Pépin et de Pascal Milette; ces faits se sont avérés déterminants pour conclure au caractère totalement raisonnable des conclusions retenues.
+[120] L'enquête a certes mis en lumière de nombreux faits nouveaux; par contre, je suis d'avis que ces nouveaux faits soumis par les appelants ont été une pure invention; ils n'ont aucune valeur n'étant aucunement crédibles.
+[121] Les déterminations dans les dossiers de Micheline Fraser, d'Isabelle Pépin et de Pascal Milette ont résulté d'une analyse et d'une appréciation certes teintées d'une certaine agressivité qui pouvait se comprendre eu égard aux attitudes des appelants, mais qui n'est certainement pas acceptable.
+[122] Même si j'en étais arrivé à la conclusion que l'enquête et l'analyse desquelles avaient résulté les déterminations étaient inacceptables à cause d'une approche possiblement discutable, je devrais néanmoins conclure à la non-assurabilité, et cela, pour deux ordres de motifs.
+[123] En premier lieu, il n'y a aucun doute que les contrats de travail, si contrats de travail il y a eu, ont été très largement influencés par le lien de dépendance de jure existant dans les dossiers d'Isabelle Pépin et de Pascal Milette et par le lien de dépendance de facto existant dans le dossier de Micheline Fraser.
+[124] En second lieu, la prépondérance de la preuve est à l'effet que les relevés d'emploi à l'origine des déterminations ont été établis à la suite d'un arrangement conclu avec la compagnie appelante, représentée par Serge Pépin. Il s'agissait de toute évidence de relevés d'emploi qui n'avaient rien à voir avec le travail qui a pu être exécuté.
+[125] Pour toutes ces raisons, les appels d'Isabelle Pépin (2003-4434(EI)), de Pascal Milette (2003-4438(EI)) et celui de Micheline Fraser (2003-4442(EI)) sont rejetés.
+Signé à Ottawa, Canada, ce 18e jour de mars 2005.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2005CCI133
+Nos DES DOSSIERS
+DE LA COUR :
+2003-4433(EI), 2003-4434(EI), 2003-4438(EI), 2003-4441(EI),
+2003-4442(EI)
+INTITULÉS DES CAUSES :
+2530-8552 QUÉBEC INC.,
+ISABELLE PÉPIN, PASCAL MILETTE,
+DIANE DELISLE, MICHELINE FRASER
+c. LE MINISTRE DU REVENU NATIONAL
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATE DE L'AUDIENCE :
+les 6 et 7 octobre 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 18 mars 2005
+COMPARUTIONS :
+Avocat des appelants :
+Me Robert Leclerc
+Avocate de l'intimé :
+Me Julie David
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom:
+Étude :
+Ville :
+Me Robert Leclerc
+Dugré, Leclerc, Bourbeau, Roof
+Shawinigan (Québec)
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

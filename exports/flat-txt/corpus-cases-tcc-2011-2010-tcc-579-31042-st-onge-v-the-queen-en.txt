@@ -1,0 +1,275 @@
+Title: St-Onge v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31042/index.do
+Corpus path: corpus/cases/tcc/2011/2010-tcc-579-31042-st-onge-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-01-10
+
+# St-Onge v. The Queen
+
+- Citation: 2010 TCC 579
+- Decision date: 2011-01-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4865, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Onge v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-10
+Neutral citation
+2010 TCC 579
+File numbers
+2008-3994(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2010 TCC 579
+Date: 20110110
+Docket: 2008-3994(IT)I
+BETWEEN:
+ALCIDAS ST-ONGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+AMENDED REASONS FOR JUDGMENT
+Bédard J.
+[1] The subject of this appeal is the expenses declared by the appellant, an investment advisor, for earning commission income during the 2003, 2004 and 2005 taxation years.
+[2] I would note immediately that the appellant did not file his Notice of Appeal from the notice of confirmation dated March 8, 2008, for the 2005 taxation year, within the time allowed under section 169 of the Income Tax Act (the Act). Accordingly, I am of the opinion that the appeal regarding the 2005 taxation year cannot be heard.
+[3] Paragraphs 1 to 12 of the Reply to the Notice of Appeal set out the issues. Those paragraphs read as follows:
+[Translation]
+a. He acknowledges that the appeal relates only to the expenses claimed for earning commission income during the 2003, 2004 and 2005 taxation years.
+b. He denies the allegations of fact set out in the Notice of Appeal that are not consistent with the following.
+c. The initial notice of assessment, for the 2003 taxation year, was sent to the appellant on May 20, 2004.
+d. By reassessment for the 2003 and 2004 taxation years, notices of which were sent to the appellant on April 10, 2007, the Minister of National Revenue (the Minister) rejected the sums of $32,843 and $22,877, respectively, in relation to expenses claimed for earning commission income.
+e. On May 14, 2007, the appellant served notices of objection, inter alia, on the Minister for each of the 2003 and 2004 taxation years.
+f. On March 6, 2008, the Minister reassessed the appellant in response to the notices of objection for the 2003 and 2004 taxation years, revising the net commission income to $34,492 and $52,582, respectively.
+g. On May 11, 2009, Justice Gerald J. Rip allowed the applicant’s application to extend the time for appealing for the 2003 and 2004 taxation years, and fresh Notices of Appeal had to be prepared and filed with this Court no later than June 15, 2009.
+h. In making the reassessments dated March 6, 2008, for the 2003 and 2004 taxation years, the Minister assumed the following facts:
+i. during the taxation years in issue, the appellant was an investment advisor;
+ii. during the taxation years in issue, he moved to Bonaventure on the Baie des Chaleurs and developed a clientele in that region;
+iii. in early February 2004, the appellant sold his clientele to Investors Group and ceased to carry on business in that field;
+iv. during the taxation years in issue, the appellant claimed the following amounts as expenses incurred for the purpose of earning commission income:
+2003 – $53,767
+2004 – $27,932
+v. after auditing the expenses for earning commission income, the Minister disallowed the following amounts relating to the expenses claimed, in computing the appellant’s income:
+2003
+2004
+(i) advertising
+$ 549
+(ii) salary
+$ 8,000
+(iii) training
+$ 611
+(iv) miscellaneous
+$ 1,515
+(v) insurance
+$ 2,365
+(vi) taxes and permits
+$ 884
+(vii) vehicles
+$ 4,610
+$ 4,299
+(viii) interest
+$ 2,859
+$ 1,905
+(ix) entertainment expenses
+$ 2,154
+$ 250
+(x) rent
+$ 5,802
+$ 3,886
+(xi) travel expenses
+$ 3,189
+$ 2,283
+(xii) telephone
+$ 305
+$ 573
+(xiii) commissions
+(xiv) client buy-backs
+$ 6,500
+(xv) office expenses
+_______
+$ 3,181
+$32,843
+$22,877
+vi. at the objections stage, the Minister allowed the following amounts, for expenses for earning commission income:
+2003
+2004
+(i) advertising
+$ 538
+(ii) miscellaneous
+$ 157
+(iii) insurance
+$ 453
+(vii) vehicles
+$4,268
+$436
+(v) rent
+$1,184
+$ 99
+(vi) travel expenses
+$ 622
+$7,222
+$535
+vii. after the objections stage, the Minister disallowed the following amounts for expenses claimed for earning commission income:
+2003
+2004
+(i) expenses disallowed after audit
+$32,843
+$22,877
+(ii) less: expenses allowed after objections stage
+$ 7,222
+$ 535
+$25,621
+$22 342
+viii. the amounts disallowed by the Minister for the 2003 and 2004 taxation years, such as rental expenses, travel expenses, interest expenses and vehicle expenses, were disallowed because they were personal expenses;
+ix. the other expenses disallowed by the Minister for the 2003 and 2004 taxation years were disallowed because they were not incurred and were not incurred for the purpose of earning commission income.
+B. ISSUES
+i. The issues are as follows:
+i. whether the appellant has a right of appeal to this Court for the 2005 taxation year;
+ii. whether the Minister properly disallowed the sums of $25,621 and $22,342 for the 2003 and 2004 taxation years, respectively, as expenses incurred for the purpose of earning commission income.
+C. STATUTORY PROVISIONS, ARGUMENT AND RELIEF SOUGHT
+j. He relies primarily on sections 9, 10, 12, 14, 18, 20, 67, 152, 165, 169 and 248 of the Income Tax Act, R.S.C. 1985 (5th Supp.), c. 1 (the Act).
+k. He submits that the Notice of Appeal relating to the 2005 taxation year may not be adjudicated because the appellant did not file the appeal within the time allowed by section 169 of the Act.
+l. He submits that the Minister properly disallowed the sums of $25,621 and $22,342 for the 2003 and 2004 taxation years, respectively, as expenses incurred for the purpose of earning commission income, under section 18 of the Act.
+[4] I would point out immediately that the appellant was the only person who testified in his appeal. I would also point out that the appellant did not produce any documentary or objective evidence to substantiate his position. In addition, Hélène Marquis, the auditor with the Canada Customs and Revenue Agency (the Agency) who did the audit in the appellant’s case, and Mr. Roy, an objections officer with the Agency, testified in support of the respondent’s position.
+Client buy-backs
+[5] The appellant deducted an expense of $8,395 in computing income from his business for 2004 under the heading [Translation] “Client Buy-backs” The Minister disallowed a portion of the expense deducted, in the amount of $6,500. In their testimony on this issue, Ms. Marquis essentially reiterated the part of her audit report (Exhibit I‑1, tab 3, page 13) on this issue, and Mr. Roy essentially reiterated the part of his objection report (Exhibit I‑2) on this issue. The relevant part of Ms. Marquis’ audit report (Exhibit I‑1) reads as follows:
+[Translation]
+The taxpayer claimed expenses for client buy-backs in the amount of $8,395 in computing his commission income for the 2004 taxation year. That amount is composed of a $1,895 buy-back of a client and $6,500 for purchase of clients. The $6,500 for purchase of clients is substantiated only by a handwritten note showing the purchase of clients from René St‑Onge; the handwritten note is not sufficient to substantiate the $6,500 claimed. In addition, purchase of clients is not a current expense, it is a “capital” expenditure that could be treated as an eligible expenditure. We asked the taxpayer to provide us with supporting documents to substantiate the purchase of clients in order to treat this amount as an eligible capital expenditure in computing the cumulative amount of eligible capital expenditures. The taxpayer did not provide us with any additional information.
+We therefore disallow $6,500 in 2004.
+F/T 7950
+Paragraph 18(1)(a) of the ITA
+The relevant part of Mr. Roy’s objection report (Exhibit I‑2) reads as follows:
+[Translation]
+Client buy-back
+2003
+The taxpayer allegedly sold part of his clientele to his son Rémi in the summer of 2001 after he moved to Bonaventure. He allegedly bought the same clientele back from Rémi in May 2003, paying by cheque in the amount of $7,500, on May 11, 2003. However, the taxpayer is claiming a $6,500 expense in 2004 as client buy‑back?
+In a discussion with the taxpayer, he told us that there was no real sale to his son in 2001. Because he lived with his son when he went to see other clients in Québec between June 2001 and the summer of 2002, the savings on the cost of a hotel made up for the clientele. According to the taxpayer, the amount paid in May 2003 was a commission for looking after his clientele.
+Other facts and conclusions in the appeals
+Facts:
+- Mr. St‑Onge’s son Rémi allegedly lived in Québec for one year (June 01 to June 02) and then settled in the municipality of Maria a few kilometres from Bonaventure (where his father lived);
+- The taxpayer spent about 12 days a month in Québec to look after his clientele, although he lived in Bonaventure;
+- The taxpayer bought the clientele back in May 2003 and sold it in February 2004;
+- There was no sale contract in 2001;
+- The expense claimed in 2004 ($6,500) is not consistent with the amount of the cheque ($7,500);
+- The expense was claimed in 2004 and the payment was in 2003; and
+- The purchase of clientele is a capital expenditure (eligible capital expenditure).
+Conclusion
+There cannot have been an acquisition of clientele since the facts show there was never a sale. The issue is therefore whether the payment represents an eligible expense. The son (Rémi) benefited from the clientele developed by the father. The son had to look after the clientele in Québec because the father lived in Bonaventure. However, the son moved to a few kilometres from Bonaventure (Maria) one year after the father left Québec. Because the son was in the same situation as the father (remote from the clientele), he was not performing any service.
+It is curious for a person to be paid to benefit from clientele that he did not develop. As a general rule, it is actually the person to whom the clientele is lent who should pay a commission. Is it conceivable that if the transaction had been made at arm’s length the terms would have been the same? As well, in this period, the taxpayer stated that he was constantly prospecting for clients. We can therefore assume that the taxpayer could have looked after the clientele lent to his son.
+Based on these facts and information, it cannot be concluded that the expense was incurred for the purpose of earning income from a business, because it was not established that a service was performed by the son (Rémi). The expense is disallowed under 18(1)(a).
+Ref: Table of Contents – Representation Section (R38-R40)
+In addition, I note that the appellant’s testimony on this issue cannot be summarized, given that it was vague and incomprehensible. I would also point out that the appellant did not present any supporting document at the hearing to substantiate the alleged $6,500 expense.
+[6] I would immediately point out that the fact that the appellant presented three different versions to Ms. Marquis and Mr. Roy regarding this $6,500 expense and also submitted supporting documents to them to substantiate this expense that were dubious, to say the least, prompted me to conclude that it would be dangerous to assign credibility to the appellant’s testimony without probative corroborating evidence in the form of sufficient documentation or credible testimony.
+[7] Given that the appellant’s evidence on this issue was based solely on his testimony, which was vague and incomprehensible, I must conclude (having regard to my earlier conclusion concerning the probative value of the appellant’s testimony) that the Minister properly disallowed the $6,500 for the 2004 taxation year as expenses for client buy-backs for the purpose of earning commission income, under section 18 of the Act. I will add that I also inferred from the fact that the appellant did not call his son to testify that that evidence would have been unfavourable to him.
+Vehicle expenses
+[8] In computing his income from his business for the 2003 taxation year, the appellant deducted $9,529 as vehicle expenses, which breaks down as follows:
+Gas and oil:
+$2,908
+Registration and licence:
+$ 173
+Lease expenses:
+$5,862
+Parking:
+$ 586
+[9] In addition, in computing his income from his business for the 2004 taxation year, the appellant deducted $4,745 as vehicle expenses, which breaks down as follows:
+Gas and oil:
+$ 300
+Registration and licence:
+$ 173
+Lease expenses:
+$3,990
+Insurance:
+$ 60
+Parking:
+$ 250
+[10] The Minister disallowed a portion of the expenses deducted by the appellant in this regard in 2003 (in this case, expenses totalling $342) because:
+1. for certain expenses, the appellant presented no objective proof to substantiate them;
+2. for certain expenses, the documents presented to substantiate them were insufficient;
+3. the Minister concluded that 15% of the appellant’s travel was of a personal nature.
+[11] The appellant’s evidence on this point was based solely on his testimony. The appellant simply explained that he had two vehicles available to him, and that one of them (the leased Toyota) had been used solely to earn income from his business. I would immediately point out that Mr. Roy, whose credibility is not in doubt, testified that the appellant had told him at an interview that he estimated the maximum percentage use of that vehicle for personal purposes to be 15%.
+[12] Having regard to my earlier conclusion that it would be dangerous to assign any probative weight to the appellant’s testimony without probative corroborating evidence in the form of documentation (such as invoices, cheques and travel records), I must conclude in this case that the Minister properly disallowed the $342 for the 2003 taxation year as expenses relating to the use of a vehicle for the purpose of earning commission income. That conclusion seems to me to be particularly obvious in that the appellant’s testimony was contradicted by a credible witness.
+[13] The Minister also disallowed a portion of the expenses deducted by the appellant in this regard in 2004 (in this case, expenses totalling $3,863) because:
+1. for certain expenses, the appellant presented no objective proof to substantiate them;
+2. for certain expenses, the documents presented to substantiate them were insufficient;
+3. the $3,291 lump sum payment was made by the appellant to cancel his vehicle lease when he was no longer in business.
+[14] The appellant’s evidence regarding the expenses deducted for the use of a vehicle for the 2004 taxation year was based solely on his testimony. Given that I previously concluded that I assigned no probative value to the appellant’s testimony without probative corroborating evidence, I must conclude that the Minister was entitled to disallow the expenses not substantiated by sufficient supporting documentation that he deducted in this regard in 2004. The expenses incurred by the appellant after his business was sold (in this case, after February 2, 2004) cannot have been incurred for the purpose of earning income from a business because he was no longer operating the business when the expenses were incurred. With respect to the $3,291 lump sum paid by the appellant to cancel the lease on his vehicle, I am of the opinion that the appellant could not deduct that expense in computing the income from his business for the 2004 taxation year. Just as amounts originally payable under a contract would be deductible from income if they had been paid, amounts paid to cancel a contract can also be deductible, as a general rule. In this case, if the appellant had continued to make monthly payments under the lease after February 2, 2004 (the date when the appellant’s business was sold), rather than making a lump sum payment to cancel the lease, the monthly payments would not have been deductible as expenses incurred for the purpose of earning income from a business, given that he was no longer operating the business at that point.
+Salary
+[15] The appellant deducted $8,000 as salary he allegedly paid to his spouse in computing the income from his business for the 2003 taxation year. The evidence showed (see Exhibit I‑2) that the expense was disallowed by the Minister essentially because no supporting evidence was submitted by the appellant to substantiate the $8,000 expense. The appellant, who had the burden of proof, did not produce any documentary or objective evidence at the hearing showing payment of the salary to his spouse in 2003. The appellant’s evidence on this point was based solely on his testimony. However, the appellant did not even give an explanation at the hearing as to the nature of the services his spouse allegedly performed for him in that year and the time she allegedly spent on providing the services. Having regard to my earlier conclusion concerning the probative value of the appellant’s testimony, I must conclude that the Minister properly disallowed the $8,000 as salary expenses for the purpose of earning commission income for the 2003 taxation year, under section 18 of the Act.
+Taxes and permits
+[16] The appellant deducted $2,448 as expenses for taxes, permits and fees in computing the income from his business for the 2003 taxation year. The evidence showed (see Exhibit I-1, tab 3, page 7 and Exhibit I‑2) that a portion of the expense deducted, in this case $884, was disallowed essentially because the appellant did not provide any supporting documents to substantiate those expenses, or because the documents provided were insufficient. The appellant did not even think it necessary to give any explanation whatsoever at the hearing concerning the disallowed $884 expense, nor did he submit any documentary evidence concerning it. Accordingly, I must conclude, given that the appellant did not present any evidence on this point, that the Minister properly refused the $884 as expenses for taxes, permits and fees for the purpose of earning commission income for the 2003 taxation year, under section 18 of the Act.
+Insurance
+[17] The appellant deducted $2,395 as insurance expenses in computing the income from his business for the 2003 taxation year. The evidence showed (see Exhibit I‑2, tab 3, page 7 and Exhibit I‑2) that a portion of the expense deducted in 2003, in this case $1,912, was disallowed essentially because the appellant did not provide any supporting documents to substantiate those expenses. At the hearing, the appellant provided no explanation or documentary evidence on this point. Accordingly, I am of the opinion that the Minister properly disallowed the $1,912 as insurance expenses for the purpose of earning commission income for the 2003 taxation year, under section 18 of the Act.
+Advertising
+[18] The appellant deducted $549 as advertising expenses in computing the income from his business for the 2003 taxation year. The evidence showed (see Exhibit I‑2) that the Minister disallowed a portion of the expense, in this case $11, because no sufficient supporting document was submitted by the appellant to substantiate the $11 expense. Given that the appellant did not produce any documentary or objective evidence at the hearing to show payment of that expense, and did not provide any explanation concerning this alleged expense, I must also conclude that the Minister properly disallowed the $11 as advertising expenses for the purpose of earning commission income for the 2003 taxation year, under section 18 of the Act.
+Training
+[19] The appellant deducted $611 as training expenses in computing the income from his business for the 2003 taxation year. The evidence showed (see Exhibit I‑2) that the expense was essentially disallowed by the Minister because no sufficient supporting document was submitted by the appellant to substantiate the $611 expense. The appellant, who had the burden of proof, did not produce any documentary or objective evidence at the hearing to show payment of that expense. The appellant did not even give any explanation at the hearing concerning the nature of the expense he allegedly incurred for the purpose of earning income from his business. Accordingly, I must conclude, having regard to the absence of evidence, that the Minister properly disallowed the $611 as training expenses for the purpose of earning commission income for the 2003 taxation year, under section 18 of the Act.
+Miscellaneous expenses
+[20] The evidence showed (see Exhibit I‑2) that the Minister disallowed $1,358 deducted by the appellant in computing the income from his business for the 2003 taxation year under the heading [Translation] “Miscellaneous Expenses”, under section 18 of the Act, essentially because no supporting document was submitted by the appellant to substantiate those expenses. The appellant, who had the burden of proof, simply did not submit any evidence at the hearing on this point. Accordingly, I must conclude, having regard to the absence of evidence, that the Minister properly disallowed the $1,358 as miscellaneous expenses for earning commission income for the 2003 taxation year, under section 18 of the Act.
+Office expenses
+[21] The appellant deducted $3,274 as office expenses in computing the income from his business for the 2004 taxation year. The evidence showed (see, inter alia, Exhibit I‑1, tab 3, page 13 and Exhibit I‑2) that a portion of the expense deducted in 2004, in this case $3,181, was disallowed because the appellant did not provide any supporting documents to substantiate those expenses. At the hearing, the appellant did not provide any explanation or documentary evidence on this point. Accordingly, I am of the opinion that the Minister properly disallowed the $3,181 deducted by the appellant as office expenses for the purpose of earning commission income for the 2004 taxation year, under section 18 of the Act.
+Entertainment expenses
+[22] The appellant deducted $2,154 and $272 as entertainment expenses in computing the income from his business for the 2003 and 2004 taxation years, respectively. The evidence showed (see Exhibit I‑1, tab 3, page 11 and Exhibit I‑2) that the expense deducted in 2003 and a portion of the expense also deducted in 2004, in this case $250, was disallowed because the applicant did not provide any supporting documents to substantiate those expenses. The appellant did not provide any explanation or documentary evidence on this point at the hearing. Accordingly, I am of the opinion that the Minister properly disallowed the $2,154 and $250 deducted as entertainment expenses for the purpose of earning commission income for the 2003 and 2004 taxation years, respectively, under section 18 of the Act.
+Telephone
+[23] The appellant deducted $1,429 and $698 as telephone expenses for the 2003 and 2004 taxation years, respectively. The evidence showed that a portion of these deductions, in this case $305 in 2003 and $573 in 2004, was disallowed because the applicant did not provide any supporting documents to substantiate those expenses. The appellant did not provide any explanation or documentary evidence on this point at the hearing. Accordingly, I am of the opinion that the Minister properly disallowed the $305 and $573 as telephone expenses incurred for the purpose of earning commission income for the 2003 and 2004 taxation years, respectively, under section 18 of the Act.
+Interest
+[24] The appellant deducted $3,578 and $9,973 as interest expenses for the 2003 and 2004 taxation years, respectively. The evidence showed (see Exhibit I‑1, tab 3, page 10 and Exhibit I‑2) that a portion of these expenses, in this case $2,859 in 2003 and $1,905 in 2004, was disallowed essentially because the appellant was not able to provide any documentary evidence to establish that the purchases paid for by credit card, or the cash withdrawals from those credit cards, were used to earn income from his business or to earn income from property. The appellant’s evidence on that point was based solely on his testimony that the interest was for the purchase of materials used to set up his office at his residence in Bonaventure and purchases of Nortel shares. Having regard to my earlier conclusion, that it would be dangerous to assign credibility to the appellant’s testimony without probative corroborating evidence in the form of sufficient documentation or credible testimony, I must conclude that the Minister properly disallowed the $3,578 and $1,973 as interest paid for the purpose of earning commission income for the 2003 and 2004 taxation years, respectively, under section 18 of the Act.
+Travel expenses
+[25] The appellant’s principal residence was in Bonaventure during the years in issue, and he had set up an office in the residence. Given that a large proportion of the clients were still in Québec, the appellant had to go there for about 12 days a month for business purposes. Instead of staying at a hotel while he was in Québec, the appellant lived in an apartment with his son. The appellant deducted $3,274 and $2,283 as travel expenses for the 2003 and 2004 taxation years. The evidence showed that the travel expenses deducted in 2003 included $2,644.93 for meals and $630.09 for transportation. The evidence also showed (see Exhibit I‑1, tab 3, page 12) that for 2004, all of the expenses deducted by the appellant in this regard were disallowed by Ms. Marquis because the appellant did not provide any supporting documentation for the expenses deducted in this regard. The evidence also showed that for 2003, virtually all of the expenses deducted by the appellant in this regard (in this case, $3,189) were disallowed by Ms. Marquis for the reasons stated in her audit report (see Exhibit I‑1, tab 3, page 12), which reads as follows:
+[Translation]
+For 2003, $492.19 corresponds to the difference between the amounts entered on the compilation sheets and all of the supporting documents provided. That amount was not incurred for the purpose of earning income. For $840.01 there are not sufficient supporting documents. The receipts and credit/debit cards are not sufficient supporting documents because they do not provide a detailed and accurate description of the expense incurred. There is $1,210.91 for meals in Québec (restaurants and grocery stores). We consider these to be non-deductible personal and living expenses. There is $15.64 for a meal in Bonaventure. There is nothing from which we could determine that this was a meal for business purposes.
+The evidence also shows (see Exhibit I‑2) that for settlement purposes, Mr. Roy allowed the appellant to deduct 50% of the expenses incurred (in this case, 50% of $1,210.91) for meals (restaurants and grocery stores) in Québec. The appellant’s evidence on this point was based solely on his testimony that all of the expenses deducted in this regard were incurred for the purpose of earning income from his business. Having regard to my earlier conclusion with respect to the probative weight of the appellant’s testimony when it was not supported by sufficient documentary evidence or the testimony of credible witnesses, I must conclude that the Minister was entitled to disallow most of the expenses deducted in 2003, with the exception of restaurant and grocery store expenses incurred that year, and all expenses deducted in 2004. For the grocery store expenses deducted in 2003, I am of the opinion that they were personal expenses or living expenses and accordingly that the Minister was more than generous in allowing the appellant to deduct 50% of those expenses (in this case, $621) in computing the income earned from his business for the 2003 taxation year.
+Rent
+[26] The appellant deducted $9,159 and $3,986 in expenses in computing the income from his business for the 2003 and 2004 taxation years, respectively. The Minister disallowed a portion of the expenses deducted in this regard: $4,618 in 2003 and $3,787 in 2004. In her testimony on this issue, Ms. Marquis essentially reiterated the part of her audit report (see Exhibit I‑1, tab 3, page 11) that reads as follows:
+[Translation]
+The taxpayer deducted rental expenses of $9,159 and $3,986 in computing his commission income in 2003 and 2004, respectively. These were, in part, rental expenses associated with an apartment where he lived when he went to Québec. His son was the co-tenant. The taxpayer lived in Québec from 2000 to 2001. He then moved to Bonaventure. Although he bought a residence in Bonaventure, he retained his clients in Québec. He also developed a small clientele in Bonaventure. In Bonaventure, the taxpayer had an office in his personal residence. In Québec, he had an office in the common room of the Investors Group building. Over 90% of the clientele was in Québec. He went to Québec every month for one week. The taxpayer did not provide any supporting documents to substantiate the amounts deducted. In addition, he disposed of his [sic] on February 2, 2004.
+We are of the opinion that the taxpayer had a place of business in Québec (the Investors Group building) and a place of business in Bonaventure (the office in his personal residence). The rental expenses for the apartment in Québec are personal and living expenses. In the representations dated October 23, 2006, the taxpayer provided us with supporting documents based on which we can allow him $460.30 (total monthly expenses for renting a computer), $99.79 and $585.66 (40% of school taxes and municipal taxes = business % of the use of the residence in Bonaventure) and $2,211.74 (electricity attributable to the office in Bonaventure) in computing commission income for 2003. A total of $99.79 is also allowed in 2004 (computer rental for one month and other expenses).
+We therefore disallow $5,802 ($9,159 - $460.30 - $99.79 - $585.66 - $2,211.74 = $5,501.51) in 2003 and $3,886 ($3,986 - $99.79 = $3,886.21) in 2004, corresponding to personal expenses and also not substantiated by supporting documents; those expenses are not deductible in computing commission income.
+F/T 744 and F/T 7410
+Paragraphs 18(1)(a) and 18(1)(h) of the ITA
+In addition, in his testimony on this issue, Mr. Roy essentially reiterated the part of his report (see Exhibit I‑2) concerning an objection that reads as follows:
+[Translation]
+Rent
+The $5,802 expense in 2003 and $3,886 in 2004 were disallowed.
+(2003): The disallowed expense is largely related to the rental of an apartment in Québec. The apartment is occupied by Mr. St-Onge’s son (Daniel), a student at the time. The taxpayer is claiming the amount of the apartment because he says if he had had to pay for a hotel and the cost would have been much higher.
+The Audit Division determined that the apartment in Québec was personal in nature and therefore not an allowable expense.
+The expense was originally $9,159. The expenses for electricity and taxes for the office in Bonaventure and the computer rental were allowed. The remaining $5,802 was therefore disallowed.
+(2004): The amount disallowed again represents the apartment in Québec, according to the taxpayer. However, he was no longer in business as of February 2004. He then submitted, in representations, an expense for breaking the computer rental contract, in the amount of $3,221. The expense was disallowed because the taxpayer was no longer in business when the contract was broken.
+[27] The appellant’s barely comprehensible testimony on this point could be summarized as: [Translation] “I paid the rent and my son, with whom I lived, paid the other expenses associated with the apartment that I rented.” In other words, the appellant claimed that the real cost of the rent was more than $500 per month (or $8.22 per day) and that the Minister should have taken that into account in his calculations. I would point out that the appellant submitted no documentary evidence to substantiate the expenses thus deducted and that his son did not testify to corroborate his position. I conclude from this that that evidence would have been unfavourable to him. Having regard to my earlier conclusion with respect to the probative weight of the appellant’s testimony when it was not supported by sufficient documentary evidence or the testimony of credible witnesses, I must conclude that the Minister properly disallowed the $4,618 and $3,781 for rental expenses incurred for the purpose of earning commission income for the 2003 and 2004 taxation years, respectively, under section 18 of the Act.
+[28] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 10th day of January 2011.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 22nd day of February 2011
+Monica F. Chamberlain, Reviser
+CITATION: 2010 TCC 579
+COURT FILE NO.: 2008-3994(IT)I
+STYLE OF CAUSE: ALCIDAS ST-ONGE and HER MAJESTY THE QUEEN
+PLACE OF HEARING: New Carlisle, Quebec
+DATE OF HEARING: July 13, 2010
+AMENDED REASONS FOR The Honourable Justice Paul Bédard
+JUDGMENT BY:
+DATE OF JUDGMENT: January 10, 2011
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Simon-Olivier de Launière
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

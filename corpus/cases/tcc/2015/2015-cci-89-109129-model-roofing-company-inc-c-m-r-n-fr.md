@@ -1,0 +1,221 @@
+---
+title: "Model Roofing Company Inc. c. M.R.N"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109129/index.do"
+last_modified: "2015-04-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 89"
+citation2: ""
+neutral_citation: "2015 CCI 89"
+decision_date: "2015-04-13"
+language: "fr"
+item_id: "109129"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2859
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:36:56.671000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b930e7ae5fe726849432c31851db0a1b8ebd0fafe40217adcddd8a12897a621f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Model Roofing Company Inc. c. M.R.N
+
+- Citation: 2015 CCI 89
+- Decision date: 2015-04-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2859, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Model Roofing Company Inc. c. M.R.N
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-04-13
+Référence neutre
+2015 CCI 89
+Numéro de dossier
+2014-1610(CPP), 2014-1611(EI)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2014-1611(EI)
+2014-1610(CPP)
+Entre :
+MODEL ROOFING COMPANY INC.,
+appelante,
+et
+le ministre du revenu national,
+intimé,
+et
+TEMESGHEN ZERU,
+intervenant.
+[Traduction française officielle]
+Appels entendus le 25 mars 2015, à Calgary (Alberta)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l’appelante :
+M. Hagos Desta
+Avocate de l’intimée :
+Me Paige MacPherson
+Pour l’intervenant :
+L’intervenant lui-même
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l’assurance‑emploi et du paragraphe 28(1) du Régime de pensions du Canada sont accueillis et la décision du ministre du Revenu national est annulée compte tenu du fait que Temesghen Zeru n’exerçait pas un emploi assurable ni un emploi ouvrant droit à pension.
+Signé à Ottawa, Canada, ce 13e jour d’avril 2015.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 22e jour de mai 2015.
+M.-C. Gervais
+Référence : 2015 CCI 89
+Date : 20150413
+Dossiers : 2014-1611(EI)
+2014-1610(CPP)
+Entre :
+MODEL ROOFING COMPANY INC.,
+appelante,
+et
+le ministre du revenu national,
+intimé,
+et
+TEMESGHEN ZERU,
+intervenant.
+[Traduction française officielle]
+motifs du jugement
+Le juge C. Miller
+[1] Les présentes affaires relatives à la Loi sur l’assurance‑emploi et au Régime de pensions du Canada portent sur le statut de la relation de travail entre l’appelante, Model Roofing Company Inc. (« Model Roofing ») et l’intervenant, M. Zeru. M. Zeru et l’intimé soutiennent que Model Roofing employait M. Zeru à titre d’employé, alors que M. Desta, le propriétaire de Model Roofing, soutient que M. Zeru était un entrepreneur indépendant. Malheureusement, l’appelante et l’intervenant ont eu une mésentente, M. Zeru ayant poursuivi Model Roofing pour près de 20 000 $. Les parties semblaient plus préoccupées d’examiner cet aspect de leur différend que de porter leur attention sur la question véritable dont je suis saisi, soit la nature réelle du travail de M. Zeru auprès de Model Roofing pendant plusieurs mois en 2012.
+[2] La présente affaire soulevait des questions de crédibilité sérieuses. L’exemple par excellence est la présentation de factures que M. Zeru et M. Desta ont tous deux nié avoir rédigées. J’ai examiné les factures et je suis convaincu que M. Zeru ment lorsqu’il affirme ne pas avoir rédigé les factures et qu’il a en fait rédigé ces factures. Je suis arrivé à cette conclusion pour deux motifs. Premièrement, les factures que M. Zeru aurait adressées à Model Roofing, portant les numéros 716 à 721, montrent que des paiements ont été effectués à la fois par chèque et en argent comptant, et montrent également les montants d’impôt retenus. Selon M. Desta, pour le compte de Model Roofing, Model Roofing ne payait jamais en argent comptant et ne retenait jamais d’impôt. Il serait illogique qu’il ait rédigé ce genre de facture pour que M. Zeru les présente à Model Roofing. Deuxièmement, trois factures portant les numéros 722, 726 et 733, adressées par M. Zeru à une autre entreprise de couverture, Cameron Roofing, portent des numéros consécutifs aux numéros des factures présentées à Model Roofing, bien qu’elles visent des périodes (février à avril 2012) antérieures aux périodes visées par les factures présentées à Model Roofing, soit de mai à octobre 2012. M. Zeru s’est fait prendre dans un tissu de mensonges. Compte tenu de ma conclusion en ce qui concerne son absence de crédibilité, je rejette la totalité de son témoignage. Je préfère celui de M. Desta. Malheureusement, il y avait en quelque sorte une barrière linguistique et, comme il s’agit d’une affaire régie par la procédure informelle, j’ai autorisé l’épouse de M. Desta à traduire lorsque c’était nécessaire. L’avocate de l’intimé et M. Zeru ont tous deux convenu de permettre à l’épouse de M. Desta de traduire.
+[3] L’avocat de l’intimé a passé en revue avec M. Desta toutes les hypothèses du ministre du Revenu national (le « ministre ») que je reproduirai en précisant où le témoignage de M. Desta était différent.
+a) L’unique actionnaire de l’appelante était Hagos Desta.
+b) Hagos Desta contrôlait les activités quotidiennes de l’appelante.
+c) L’appelante exploitait une entreprise de recouvrement à Calgary (Alberta).
+d) Les clients de l’appelante étaient principalement des propriétaires de résidences.
+e) L’entreprise de l’appelante n’avait pas d’heures d’exploitation fixes.
+f) Le travailleur n’avait pas de lien de parenté avec l’appelante.
+g) L’appelante a engagé le travailleur suivant une entente verbale pour travailler comme couvreur.
+h) Le travailleur était un couvreur d’expérience au moment où l’appelante l’a engagé.
+i) Parmi les tâches du travailleur, mentionnons les suivantes :
+i) enlever et jeter les vieux bardeaux;
+ii) nettoyer la surface des toitures;
+iii) monter les matériaux sur les toits;
+iv) poser les nouveaux bardeaux.
+j) Le travailleur a été embauché pour une période de temps indéterminée. M. Desta a précisé que le travail était fonction de chaque client.
+k) Le travailleur a travaillé pour l’appelante de façon continue du 1er mai 2012 au 15 octobre 2012. Non. Selon M. Desta, il y a eu deux moments pendant cette période où le travailleur a travaillé ailleurs, par exemple, pour Cameron Roofing.
+l) Le travailleur n’appartenait pas à un syndicat ouvrier.
+m) L’appelante attribuait le travail au travailleur.
+n) L’appelante fixait les délais pour réaliser le travail. Non. Selon M. Desta, aucun délai n’était fixé en tant que tel : il s’agissait simplement d’accomplir le travail.
+o) Le travailleur faisait partie d’une équipe ou travaillait seul, selon ce que déterminait l’appelante.
+p) L’appelante amenait le travailleur en voiture au lieu de travail et l’en ramenait tous les jours.
+q) Il n’était pas permis au travailleur de choisir le travail à accomplir. M. Desta a ici précisé qu’il donnait simplement à M. Zeru un travail à effectuer et il le faisait. M. Zeru pouvait refuser un travail s’il le souhaitait.
+r) L’appelante fixait l’horaire du travailleur. M. Desta a ici précisé que le travail était fonction des clients. Il a cependant reconnu qu’il amenait M. Zeru en voiture lorsque ce dernier faisait du travail pour Model Roofing.
+s) L’appelante fixait les heures de travail du travailleur. Selon M. Desta, ce n’était pas le cas. Il appartenait à M. Zeru de choisir les heures pendant lesquelles il travaillait. Il incombait au propriétaire de l’endroit où le recouvrement de la toiture devait être effectué de décider du moment où les couvreurs pouvaient commencer, et ceux‑ci travaillaient tout simplement jusqu’à ce que le travail soit terminé.
+t) L’appelante et le travailleur comptabilisaient tous deux les heures de travail du travailleur. Non. Selon M. Desta, il travaillait jusqu’à ce que le travail soit terminé.
+u) Le travailleur consignait ses heures quotidiennes sur un calendrier. Je rejette le témoignage de M. Zeru selon lequel il inscrivait ses heures quotidiennes sur un calendrier.
+v) L’appelante établissait le mode de rémunération du travailleur et sa fréquence. Non. Selon M. Desta, M. Zeru était payé lorsqu’il présentait une facture.
+w) Le travailleur effectuait ses tâches chez les clients de l’appelante.
+x) L’appelante supervisait le travailleur dans l’exécution de ses fonctions. Non. M. Zeru n’était pas supervisé pendant la journée.
+y) L’appelante répondait aux préoccupations des clients et inspectait le travail accompli par le travailleur.
+z) L’appelante fournissait gratuitement les instruments de travail, l’équipement et les fournitures dont le travailleur avait besoin pour exercer ses fonctions.
+aa) Les instruments de travail et l’équipement fournis par l’appelante incluaient une cloueuse, un marteau, une pelle, des poubelles et un casque protecteur. M. Desta a affirmé dans son témoignage qu’une partie de cet équipement provenait de l’entrepreneur principal.
+bb) Le travailleur fournissait ses propres gants et un couteau.
+cc) L’appelante était chargée de l’entretien et de la réparation des instruments de travail et de l’équipement qu’elle fournissait au travailleur.
+dd) Le travailleur était tenu de fournir ses services personnellement.
+ee) Le travailleur ne pouvait pas engager d’aides ou d’assistants. M. Desta a déclaré que M. Zeru pouvait en fait engager des aides ou des assistants.
+ff) Le travailleur ne pouvait pas sous-traiter son travail à une autre partie. Selon M. Desta, M. Zeru pouvait sous-traiter son travail.
+gg) L’appelante était chargée de l’embauche et de la rémunération des remplaçants. Selon M. Desta, si M. Zeru ne se présentait pas au travail, M. Desta effectuait tout simplement le travail.
+hh) Le travailleur était rémunéré sur une base horaire pour les services fournis. Non. Selon M. Desta, M. Zeru était rémunéré selon le nombre de paquets de tuiles qu’il posait.
+ii) Le taux de rémunération horaire du travailleur était de 17 $. Non, cela ne l’était pas.
+jj) L’appelante fixait le taux de rémunération du travailleur. Oui, M. Desta fixait la rémunération du travailleur, mais celle-ci n’était pas établie en fonction du nombre d’heures de travail, mais plutôt en fonction du nombre de paquets de tuiles posées.
+kk) Le travailleur présentait des factures à l’appelante.
+ll) L’appelante effectuait des retenues d’impôt sur les gains du travailleur. Non. Dans son témoignage, M. Desta a affirmé qu’il ne faisait pas cela.
+mm) Le travailleur était payé en argent comptant et par chèque. Non. Selon M. Desta, il était uniquement payé par chèque.
+nn) Le travailleur pouvait refuser le travail que lui offrait l’appelante.
+oo) Le travailleur pouvait travailler pour des concurrents de l’appelante.
+pp) Le travailleur n’a pas supporté de dépenses dans la prestation de ses services pour l’appelante. M. Desta a précisé que M. Zeru devait payer son couteau et ses gants.
+qq) L’appelante fournissait une assurance‑responsabilité pour le travailleur. Selon M. Desta, Model Roofing ne fournissait pas une telle assurance.
+rr) L’appelante garantissait la qualité du travail.
+ss) Le travailleur n’avait droit à aucune prime ni au partage de bénéfices.
+tt) L’appelante voulait que le travailleur fournisse ses services à titre de sous‑traitant.
+uu) Le travailleur voulait fournir ses services à titre d’employé de l’appelante. Je ne suis pas convaincu que cela était réellement l’intention de M. Zeru au départ. Je m’exprimerai plus longuement sur ce sujet plus loin.
+vv) Le travailleur n’avait pas de nom commercial ni de permis d’exploitation.
+ww) Le travailleur n’annonçait pas ses services.
+xx) Le travailleur n’avait pas de carte professionnelle.
+yy) Le travailleur était inscrit aux fins de la TPS/TVH depuis le 1er mai 2012.
+zz) Le travailleur ne facturait pas la TPS/TVH à l’appelante. Selon M. Desta, la TPS a en fait été facturée à M. Zeru et il l’a payée.
+[4] Puisque j’ai conclu que le témoignage de M. Zeru n’était pas fiable, je m’appuie entièrement sur l’explication de M. Desta concernant les faits entourant le travail de M. Zeru auprès de Model Roofing.
+[5] Depuis l’arrêt de la Cour d’appel fédérale dans l’affaire 1392644 Ontario Inc. s/n Connor Homes c Ministre du Revenu national[1], les tribunaux ont adopté une démarche en deux étapes à l’égard de l’analyse du statut d’employé par opposition au statut d’entrepreneur indépendant. Premièrement, il y a lieu d’établir s’il existe entre les parties à l’entente une intention commune et, si oui, d’examiner les facteurs habituels (le contrôle, la propriété des instruments de travail, la possibilité de profit et le risque de perte et tout autre facteur pertinent) dans le contexte de cette intention commune. Manifestement, M. Desta, pour le compte de l’appelante, avait l’intention de conclure une entente avec un entrepreneur indépendant. Il facturait la TPS, il n’effectuait pas de retenues à la source et ne voulait tout simplement pas que M. Zeru soit un employé. À l’instruction, M. Zeru a prétendu qu’il était un employé. Il a affirmé que l’obtention d’un numéro de TPS, peu de temps avant qu’il commence à travailler auprès de Model Roofing, était pour une autre entreprise qu’il n’a jamais vraiment établie. Je ne le crois pas. Il soutient qu’il n’a jamais rédigé les factures. Je ne le crois pas. Nonobstant la position qu’il a adoptée à l’instruction, un examen objectif de son comportement en 2012 m’amène à penser qu’il avait en effet l’intention d’avoir le statut d’entrepreneur indépendant.
+[6] Ainsi, si j’examine la relation de travail en fonction de l’existence d’une intention commune d’établir une relation d’entrepreneur indépendant, les facteurs traditionnels permettent‑ils d’étayer une telle relation? J’estime qu’ils le peuvent.
+Contrôle [7] Comme la Cour suprême du Canada l’a fait remarquer dans l’arrêt 671122 Ontario Ltd. c Sagaz Industries Canada Inc.[2], le contrôle est toujours un facteur important. Toutefois, dans la présente affaire, où le travailleur, M. Zeru, est un couvreur d’expérience, il n’est pas particulièrement utile d’examiner le facteur le plus répandu en ce qui a trait au contrôle, soit la supervision quotidienne de la façon dont le travail est accompli. M. Zeru n’avait pas besoin d’une telle supervision et, en fait, il n’y en avait aucune. La Couronne invoque par conséquent plusieurs autres facteurs qui donnent à penser qu’un contrôle était exercé par l’appelante :
+1. L’inspection du travail une fois celui-ci terminé. Je ne vois pas pourquoi une telle inspection reflète plus une relation employeur-employé qu’une relation d’entrepreneur indépendant. Je suppose qu’un entrepreneur principal inspecte le travail, peu importe qui l’a réellement accompli.
+2. L’appelante était responsable de la qualité du travail envers le client.
+3. L’appelante fixait l’horaire. En toute déférence, si je comprends bien, l’appelante obtenait un travail à effectuer et l’horaire était plutôt fixé par le client et la nature du travail. Selon M. Desta, les travailleurs travaillaient simplement jusqu’à ce que le travail soit terminé.
+4. L’appelante fixait le taux de rémunération. Bien que M. Desta ait en effet reconnu qu’il fixait la rémunération en fonction des paquets, il n’y avait aucune description précise de la façon dont cela était fait ni s’il s’agissait d’une norme de l’industrie par exemple.
+[8] Je reconnais qu’à partir de l’examen de ces seuls éléments, le facteur milite en faveur de l’existence d’une relation employeur‑employé, mais seulement quelque peu. Cependant, je tiens aussi compte des éléments suivants :
+1. M. Zeru pouvait refuser un travail.
+2. M. Zeru pouvait travailler pour des concurrents et, dans les faits, il a travaillé pour un concurrent.
+3. M. Zeru n’était pas tenu de comptabiliser ses heures.
+4. M. Zeru pouvait engager des aides ou des sous-traitants, bien qu’il ne l’ait pas fait.
+[9] Je conclus que ces éléments font plus que l’emporter sur les éléments sur lesquels s’appuie l’intimé et, en fonction d’une compréhension mutuelle du statut d’entrepreneur indépendant, ils appuient fortement ce statut d’entrepreneur indépendant.
+INSTRUMENTS DE TRAVAIL [10] M. Zeru fournissait des gants et un couteau, alors que Model Roofing fournissait directement, ou par l’entremise de l’entrepreneur principal, la cloueuse et les autres instruments de travail nécessaires à un couvreur. La Couronne a reconnu que, dans l’industrie, les instruments de travail des couvreurs sont souvent fournis par l’entrepreneur principal. Ce facteur favorise toutefois l’existence d’une relation employeur‑employé.
+Possibilité de profit [11] Étant donné que le paiement était fonction du nombre de paquets de tuiles par opposition à un taux horaire, cela est plus compatible avec une entreprise commerciale et la capacité d’une personne en affaires d’augmenter ses profits. Cela milite en faveur de l’existence d’une entente avec un entrepreneur indépendant plutôt que d’un emploi. De plus, M. Zeru pouvait augmenter ses profits en travaillant pour des concurrents, ce qu’il a fait.
+Risque de perte [12] Même si M. Zeru avait peu de dépenses, il pouvait simplement choisir de ne pas travailler.
+[13] Pris ensemble, les facteurs financiers sont neutres, bien que, si on les examine en fonction d’une entente conclue avec un entrepreneur indépendant, ils ne contredisent pas le statut d’entrepreneur indépendant.
+[14] Tout bien considéré, je conclus que M. Zeru n’était pas un employé de Model Roofing. Par conséquent, les appels sont accueillis et la décision du ministre est annulée compte tenu du fait que M. Zeru n’exerçait pas un emploi assurable ni un emploi ouvrant droit à pension.
+Signé à Ottawa, Canada, ce 13e jour d’avril 2015.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 22e jour de mai 2015.
+M.-C. Gervais
+RÉFÉRENCE :
+2015 CCI 89
+Nos DES DOSSIERS DE LA COUR :
+2014-1611(EI), 2014-1610(CPP)
+Intitulé :
+Model Roofing Company Inc. c. Ministre du Revenu national et Temesghen Zeru
+Lieu de l’audience :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 25 mars 2015
+Motifs du jugement :
+L’honorable juge Campbell J. Miller
+DATE du JUDGMENT :
+Le 13 avril 2015
+Comparutions :
+Représentant de l’appelante :
+M. Hagos Desta
+Avocate de l’intimé :
+Me Paige MacPherson
+Pour l’intervenant :
+L’intervenant lui-même
+Avocats inscrits auX dossierS :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2013 CarswellNat 663, 2013 CAF 85.
+[2] 2001 CSC 59.

@@ -1,0 +1,105 @@
+Title: Ross v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29335/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-650-29335-ross-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2008-10-31
+
+# Ross v. The Queen
+
+- Citation: 2008 CCI 650
+- Decision date: 2008-10-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6986, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ross v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-31
+Référence neutre
+2008 CCI 650
+Numéro de dossier
+2005-4263(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2008 CCI 650
+2005-4263(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+DENEE ROSS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE RENDUE ORALEMENT À L’AUDIENCE PAR L’HONORABLE JUGE GASTON JORRÉ
+dans les locaux du Service administratif des tribunaux judiciaires,
+180, rue Queen Ouest, Toronto (Ontario),
+le vendredi 31 octobre 2008.
+COMPARUTIONS :
+Pour l’appelante
+Personne n’a comparu
+Pour l’intimée
+Me Justin Kutyan
+A.S.A.P. Reporting Services Inc. 8 (2008)
+200, rue Elgin, bureau 1105
+Ottawa (Ontario) K2P 1L5
+613‑564-2727
+130, rue King Ouest, bureau 1800
+Toronto (Ontario) M5X 1E3
+416‑861-8720
+MOTIFS DE L’ORDONNANCE
+(Transcription révisée des motifs rendus oralement à l’audience
+à Toronto (Ontario), le 31 octobre 2008.)
+[1] L’HONORABLE JUGE JORRÉ : Je vais maintenant rendre ma décision concernant la requête déposée par l’intimée dans le cadre de l’appel interjeté dans l’affaire Denee Ross c. Sa Majesté la Reine.
+[2] Le 3 juin 2008, à la suite de l’audience de justification qui a eu lieu le 29 mai 2008, le juge Hershfield a rendu une ordonnance exigeant que les interrogatoires préalables soient effectués au moyen de questions et de réponses écrites en vertu des articles 113 et 114 des Règles de la Cour canadienne de l’impôt, et qu'ils soient terminés au plus tard le 29 août 2008. Il a également ordonné que l’appel soit inscrit au rôle pour audition le 18 novembre 2008, à 9 h 30.
+[3] Je suis saisi d’une requête en vue de l’obtention d’une ordonnance rejetant l’appel pour cause de retard et parce que l'appelante ne s'est pas conformée à une ordonnance rendue par la Cour. À titre subsidiaire, l’intimée demande à la Cour de rendre une ordonnance enjoignant à l’appelante de répondre aux questions écrites au plus tard le 7 novembre 2008.
+[4] Le 23 octobre 2008, l’intimée a signifié son dossier de requête à l’appelante.
+[5] L’appelante n’a pas comparu à l’audition de la requête.
+[6] Le 28 novembre 2005, l’avis d’appel avait été déposé dans la présente affaire. Le 24 février 2006, le ministre a déposé sa réponse à l’avis d’appel. Le 13 juillet 2006, l’intimée a déposé sa liste de documents.
+[7] À la suite d’une audience sur l’état de l’instance qui s’est tenue le 27 juin 2007, la juge Woods a rendu une ordonnance enjoignant à l’appelante de déposer et de signifier sa liste de documents au plus tard le 17 août 2007, et exigeant que les parties aient terminé les interrogatoires préalables au plus tard le 31 octobre 2007. Le 17 août 2007, l’appelante a déposé sa liste.
+[8] Les interrogatoires préalables n’ont pas été effectués conformément à l’ordonnance rendue par la juge Woods, et, le 29 mai 2008, une audience de justification s’est tenue devant le juge Hershfield, qui, le 3 juin 2008, a rendu l’ordonnance que j’ai mentionnée précédemment.
+[9] L’affidavit figurant au dossier de requête et les pièces qui y sont jointes indiquent que, le 28 juillet 2008, l’intimée a envoyé des questions écrites à l’appelante par courrier recommandé. Au 23 octobre 2008, soit la date de l’affidavit, l’appelante n’avait toujours pas fourni de réponses aux questions écrites.
+[10] Le 30 août 2008, l’appelante a envoyé un courriel à l’avocat de l’intimée, y joignant une lettre dans laquelle elle disait qu’il lui faudrait au moins deux semaines de plus pour fournir ses réponses. Le 2 septembre 2008, l’avocat de l’intimée a envoyé à l’appelante un courriel dans lequel il l’informait qu’il ne s’opposerait pas à une éventuelle requête, si elle décidait d'en présenter une, visant à faire proroger de deux semaines le délai pour répondre aux questions.
+[11] Le 10 octobre 2008, l’intimée a envoyé une lettre à l’appelante par courrier ordinaire, par courrier recommandé et par courrier électronique, l’avisant que si l'intimée ne recevait pas les réponses le 17 octobre 2008 au plus tard, elle présenterait une requête en vue de faire contraindre l'appelante à fournir des réponses et de se faire adjuger des dépens. C’est là la requête dont je suis saisi.
+[12] La présente instance a été introduite à la fin de l’année 2005, et deux ans et demi se sont écoulés depuis. D'après la suite des événements précédemment décrite, il est évident que l’appelante ne poursuit pas activement l’appel qu’elle a interjeté. L’appelante se contente de réagir plutôt que d'agir.
+[13] L’appelante ne poursuit pas son appel avec diligence, et il est bien établi que les appelants ont l'obligation de poursuivre leurs appels.
+[14] Je fais remarquer que, dans la lettre envoyée par l’intimée le 10 octobre, il n’est question que d’une ordonnance contraignant l’appelante à fournir des réponses, bien que la réparation principale que l’intimée demande maintenant soit la radiation de l’appel. Bien sûr, rien ne s’oppose à ce qu'une réparation plus grande soit demandée dans la requête.
+[15] Compte tenu de toutes les circonstances, je conclus qu’il est approprié d’accorder à l’intimée la réparation subsidiaire qu’elle demande. J’ordonne que l’appelante fournisse au plus tard le 7 novembre 2008 des réponses aux questions écrites posées dans le cadre de l'interrogatoire préalable.
+[16] J’accorde à l’intimée ses dépens relatifs à la présente requête, et ce, quelle que soit l’issue de l’affaire; ces dépens sont fixés à 600 $ et doivent être payés sans délai.
+[17] Merci.
+Traduction certifiée conforme
+ce 30e jour de juin 2009.
+Erich Klein, réviseur
+RÉFÉRENCE : 2008 CCI 650
+NO DU DOSSIER DE LA COUR : 2005-4263(IT)G
+INTITULÉ DE LA CAUSE : Denee Ross c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 31 octobre 2008
+MOTIFS DE L’ORDONNANCE PAR : L’honorable juge Gaston Jorré
+DATE DES MOTIFS DE
+L’ORDONNANCE RENDUE
+ORALEMENT : Le 31 octobre 2008
+DATE DE LA TRANSCRIPTION
+RÉVISÉE DES MOTIFS DE
+L’ORDONNANCE : Le 27 novembre 2008
+COMPARUTIONS :
+Pour l’appelante :
+Personne n’a comparu
+Avocat de l’intimée :
+Me Justin Kutyan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

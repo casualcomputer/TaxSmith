@@ -1,0 +1,152 @@
+---
+title: "Echum v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30565/index.do"
+last_modified: "2011-10-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 489"
+citation2: ""
+neutral_citation: "2011 TCC 489"
+decision_date: "2011-10-26"
+language: "en"
+item_id: "30565"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7306
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:11:47.545000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c763f56d9bc76819ce981933658d7f839e73336a84731c874046178807aa7158"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Echum v. The Queen
+
+- Citation: 2011 TCC 489
+- Decision date: 2011-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7306, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Echum v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-10-26
+Neutral citation
+2011 TCC 489
+File numbers
+2007-2974(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2974(IT)I
+BETWEEN:
+CHARLENE ECHUM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Before: The Honourable Justice G. A. Sheridan
+____________________________________________________________________
+ORDER
+Whereas the Appellant, Charlene Echum, applied to have the dismissal of her Informal Procedure appeals of her 2004, 2005, 2006 and 2007 taxation years set aside under section 18.21 of the Tax Court of Canada Act;
+And having considered the factors set out in the Appellant’s letter in light of the criteria for the setting aside of an order of dismissal under paragraphs 18.21(3)(a) and (b) of the Act;
+And not being satisfied that the Appellant has shown that “it would have been unreasonable in all the circumstances” for her to have attended the hearing;
+IT IS HEREBY ORDERED THAT the Appellant’s application to set aside the Order dated September 15, 2011 is dismissed in accordance with the attached Reasons for Order.
+Signed at
+Toronto ,
+Ontario
+, this 26th day of October 2011.
+“G. A. Sheridan”
+Sheridan
+J.
+Citation: 2011TCC489
+Date: 20111026
+Docket: 2007-2974(IT)I
+BETWEEN:
+CHARLENE ECHUM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Sheridan
+J.
+[1] By letter dated October 11, 2011, the Appellant requested that the Court set aside an Order dismissing her appeals under subsection 18.21(1) of the Tax Court of Canada Act. The appeals having proceeded under the Informal Procedure, it was appropriate to treat her letter as an application to set aside the order of dismissal as required by subsection 18.21(2). For such an order to be granted, the Appellant must satisfy the criteria in paragraphs (a) and (b) of subsection 18.21(3):
+(3) The Court may set aside an order of dismissal made under subsection (1) where
+(a) it would have been unreasonable in all the circumstances for the appellant to have attended the hearing; and
+(b) the appellant applied to have the order of dismissal set aside as soon as circumstances permitted the application to be brought but, in any event, not later than one hundred and eighty days after the day on which the order was mailed to the appellant.
+[2] I accept the Appellant’s explanation that certain medical problems affecting the members of her family in the days following the dismissal of her appeals prevented her from applying to set aside the dismissal of her appeals prior to October 11, 2011. Thus, I am satisfied that she has satisfied the timeliness requirement under paragraph 18.21(3)(b) of the Act. However, after carefully considering the reasons for her failure to appear and having reviewed the Court file with regard to the Appellant’s prosecution of her appeals, I am far from convinced “it would have been unreasonable in all the circumstances” for her to have attended the hearing within the meaning of paragraph 18.21(3)(a) of the Act.
+[3] These appeals are part of a series of appeals involving taxpayers who were placed with third-party employers by an agency known as Native Leasing Services. A Notice of Appeal was filed by Native Leasing Services on the Appellant’s behalf on May 3, 2007. As was its practice, Native Leasing Services filed a generic Notice of Appeal giving no particulars of the Appellant’s employment circumstances. However, the Appellant seems to have been aware of the appeals as the following month, she filed with the Court a request to waive the
+Info rmal Procedure filing fees in which she provided details of her personal financial situation. Her request was duly granted on June 29, 2007.
+[4] Nothing further happened until January 11, 2010 when (then) counsel for Native Leasing Services filed an amended Notice of Appeal on behalf of the Appellant. The only change was to include the assessments from two other taxation years to the appeal.
+[5] Over a year later, in March 2011, the Court ordered a status hearing to determine the Appellant’s intentions with regard to her appeals. The Court issued a Notice of Status Hearing setting the matter down for hearing in
+Timmins ,
+Ontario
+on April 18, 2011.
+[6] On April 5, 2011, the Appellant requested an adjournment of the status hearing for medical reasons; the matter was adjourned to April 19, 2011. The Appellant appeared on her own behalf before D’Arcy, J. who by Order dated May 5, 2011, set dates for the completion of next steps in the appeals. In addition to the deadlines for filing an Amended Notice of Appeal and the Reply to the Amended Notice of Appeal, the Order set the hearing of the appeal for September 12, 2011 in
+Timmins ,
+Ontario
+.
+[7] The Appellant duly filed her Amended Notice of Appeal within the time permitted. In the first paragraph of the Amended Notice of Appeal the Appellant specifically referred to the hearing date of September 12, 2011. While still no further details of her employment with the placement agency were provided, the Amended Notice of Appeal contained references to generic treaty and aboriginal rights but without further explanation as to how these related to the Appellant’s particular circumstances.
+[8] The Respondent’s Reply to the Amended Notice of Appeal was filed and served on the Appellant on June 29, 2011. In her cover letter to the Appellant, counsel for the Respondent noted that the Amended Notice of Appeal appeared to raise constitutional questions. Having first acknowledged that she was not in a position to provide legal advice to the Appellant, counsel went on to inform the Appellant of certain statutory requirements attached to such pleadings and advised that she intended to request that the Court convene a telephone conference call with the parties “to discuss whether there are other steps [the Appellant] should be taking before the hearing of [her] appeal scheduled for the week of September 12, 2011”.
+[9] Counsel’s request was duly made and by letter dated July 20, 2011, the Court sent notice to the parties of the telephone conference call scheduled for August 3, 2011 at approximately 11:00 a.m. On the appointed day, no one appeared for the Appellant. There is nothing on the Court file to show that the Appellant did not receive the notice or that she contacted the Court to request it be held at another time.
+[10] On September 1, 2011, the Respondent served on the Appellant a motion record returnable on September 12, 2011, the date set for the hearing of the Appellant’s appeals, stating, among other things, the Respondent’s intention to seek an order to dismiss because of the Appellant’s delay in prosecuting her appeals.
+[11] On September 12, 2011, the matter was called for hearing in
+Timmins ,
+Ontario
+. Again, no one appeared for the Appellant. There were other matters set for the same day and the Court remained in session until approximately 1:30 p.m. During that time, no one appeared for the Appellant nor was any call received to explain the Appellant’s absence.
+[12] It is against this backdrop that the Appellant’s failure to appear at the September 12, 2011 hearing must be considered. According to the Appellant’s letter of October 11, 2011, the reasons for her absence are that she was under so much stress that she forgot about it; and/or that she did not have childcare available.
+[13] Leaving aside the inherent contradiction in these alternative explanations, the Appellant’s justification for her absence falls short of satisfying the requirements for setting aside the order to dismiss. While I am sympathetic to the Appellant’s description of her work and family pressures, it is clear from the record that her appeals had been going on for years and that she had been personally handling the prosecution of her appeals. In the months leading up the appeals, numerous references were made to the September 12, 2011 hearing date. Within the limits of their respective duties, both counsel for the Respondent and the Court made efforts to assist the Appellant with the procedural aspects of her appeals, especially just prior to the hearing date. The Appellant was aware of the possibility of requesting an adjournment because she had done it before. According to her letter, it was during July and August 2011 that she was experiencing difficulties with childcare responsibilities and changes at work yet she took no action to request the hearing be delayed. Notwithstanding the useful information provided to her in the Respondent’s letter of June 29, 2011, the Appellant did not participate in the case management conference call convened on August 3, 2011, about a month prior to the hearing date.
+[14] Many self-represented taxpayers face problems similar to those described by the Appellant and yet still manage not to forget their trial dates and/or to arrange for childcare on the appointed day. I am also mindful of the fact that arranging for hearings in
+Timmins ,
+Ontario is an expensive proposition, a cost that is borne by all the taxpayers in
+Canada
+. The hearing on September 12, 2011 was the second sitting scheduled in that center for the Appellant’s benefit. While the Court makes every effort to accommodate the needs of taxpayers wherever they live in this vast country, with that privilege comes the responsibility of meeting their obligations in respect of their appeals. In my view, the Appellant has failed to keep up her end of the bargain.
+[15] In these circumstances, I am not persuaded that the Appellant has met the requirements of paragraph 18.21(3)(a) and accordingly, her application to set aside the order of dismissal of September 15, 2011 is dismissed.
+Signed at
+Toronto ,
+Ontario
+, this 26th day of October 2011.
+“G. A. Sheridan”
+Sheridan
+J.
+CITATION: 2011TCC489
+COURT FILE NO.: 2007-2974(IT)I
+STYLE OF CAUSE: CHARLENE ECHUM AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+DATE OF HEARING:
+REASONS FOR ORDER BY: The Honourable Justice G. A. Sheridan
+DATE OF ORDER: October 26, 2011
+APPEARANCES:
+For the Appellant:
+Counsel for the Respondent:
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of
+Canada
+Ottawa, Canada

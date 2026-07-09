@@ -1,0 +1,325 @@
+---
+title: "Tsuruda v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27182/index.do"
+last_modified: "2006-07-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 288"
+citation2: ""
+neutral_citation: "2006 CCI 288"
+decision_date: "2006-07-07"
+language: "fr"
+item_id: "27182"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 985
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:28:59.982000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9658434c1349a47fc557b6d27c5c129622b4309763ec9ddd023c17ad3182360e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tsuruda v. The Queen
+
+- Citation: 2006 CCI 288
+- Decision date: 2006-07-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 985, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tsuruda v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-07
+Référence neutre
+2006 CCI 288
+Numéro de dossier
+2001-4448(IT)G
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-4448(IT)G
+ENTRE :
+FAY TSURUDA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu le 27 avril 2006, à Vancouver (Colombie‑Britannique).
+Devant : le juge R. D. Bell
+Comparutions :
+Avocat de l'appelante :
+Me Richard B. Wong
+Avocat de l'intimée :
+Me Tom Torrie
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'égard des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997, 1998 et 1999 sont rejetés conformément aux motifs du jugement.
+Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 7e jour de juillet 2006.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 9e jour d'avril 2008.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI288
+Date : 20060707
+Dossier : 2001-4448(IT)G
+ENTRE :
+FAY TSURUDA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bell
+LES QUESTIONS EN LITIGE
+[1] La présente affaire soulève les questions en litige suivantes :
+1. Le revenu d'emploi versé à l'appelante par la société 3878 Investments Ltd. (« 3878 ») pendant les années d'imposition 1997, 1998 et 1999 était‑il exempté de taxation suivant l'alinéa 81(1)a) de la Loi de l'impôt sur le revenu (la « Loi ») et l'article 87 de la Loi sur les Indiens?
+2. Le revenu d'emploi versé à l'appelante par la société 519298 BC Ltd. (« 519 ») pendant les années d'imposition 1997, 1998 et 1999 était‑il exempté de taxation suivant l'alinéa 81(1)a) de la Loi de l'impôt sur le revenu (la « Loi ») et l'article 87 de la Loi sur les Indiens?
+LES FAITS
+[2] Les parties ont produit un exposé conjoint des faits. L'appelante a témoigné, ainsi que son fils, Dale Tsuruda. Les faits suivants ressortent de ces éléments de preuve. L'appelante, une « Indienne » au sens de la Loi sur les Indiens, a obtenu ce statut en 1987. À cette époque, elle vivait à West Vancouver et non dans une réserve. Elle est membre de la bande indienne de Spuzzum (la « bande de Spuzzum »). Cette bande possède une réserve indienne près de Spuzzum (C.‑B.). L'appelante n'a jamais vécu dans une réserve indienne.
+[3] En 1957, l'appelante a épousé Steve Tsuruda (« Steve »), un non‑Indien. Ken Tsuruda (« Ken ») et Dale Tsuruda (« Dale ») sont les fils de l'appelante et de Steve.
+[4] Pour rendre la situation plus facile à comprendre, un tableau est joint après le paragraphe 18. L'entreprise Bayside, qui fait des affaires depuis 1986, exploitait une scierie et vendait des produits en bois. Le 1er janvier 1991, elle a conclu un contrat de gestion avec la société 394 afin qu'elle l'aide à administrer son entreprise et ses affaires en contrepartie d'honoraires de gestion de 255 000 $ par année et d'une prime fondée sur le rendement et la rentabilité de Bayside.
+[5] La société 3878 a été constituée en société le 28 février 1994 pour détenir le contrat de gestion que la Cranefield, anciennement la société 394, lui a cédé le 30 juin 1994. Les sociétés 394 et 3878 appartenaient à cent pour cent à l'appelante. Même si la preuve à cet égard est vague, il semble que l'appelante a vendu ses actions de la Cranefield à la Cranefield International Inc. (« CI ») et qu'elle a par la suite procédé à un « roulement » de ses actions de la CI à 519, laquelle a subséquemment vendu ces actions pour une somme appréciable. Pendant les années d'imposition visées par l'appel, l'appelante était une administratrice et une dirigeante de 3878. Dale était un administrateur et le président de 3878 pendant les années en cause. Le siège social et les dossiers de cette société étaient situés dans la réserve indienne no 5 de Kapilano, au 905‑100, Kapilano, Park Royal South (« Park Royal »), à West Vancouver (Colombie‑Britannique). Aucune preuve relative à la taille de la réserve n'a été présentée. Cependant, Park Royal est situé dans un secteur commercial et résidentiel très peuplé, et il ne s'agit pas d'une réserve au sens habituel du terme.
+[6] De 1992 à 1999, le siège social et les dossiers de la société 394 étaient situés à la même adresse que ceux de la société 3878. Avant cette époque, son siège social et ses dossiers étaient situés au 1000–840, Howe, à Vancouver (C.‑B.), et non dans une réserve indienne. L'appelante était l'unique actionnaire et une administratrice de 394. Dale était un administrateur et un dirigeant de 394.
+[7] L'exposé conjoint des faits mentionne ce qui suit relativement aux locaux de Park Royal :
+[TRADUCTION]
+La location de ces locaux visait notamment à faire bénéficier l'appelante d'une exemption de taxation en application de l'article 87 de la Loi sur les Indiens.
+[8] Dans son témoignage, l'appelante a affirmé que 3878 fournissait des services de gestion à la Bayside. Elle a déclaré avoir embauché Dale à titre d'administrateur et Dave comme gérant de la scierie. Elle a en outre embauché Ken pour qu'il veille à l'entretien de la scierie. Elle a mentionné que les réunions étaient tenues dans les bureaux de 3878, situés dans la réserve, pour discuter du financement, des acquisitions, de la commercialisation, des négociations avec le syndicat, des questions juridiques, du service administratif ainsi que des services bancaires et du courrier. Elle a ajouté que la société achetait ses fournitures de bureau d'une papeterie située dans la réserve. Selon son témoignage, elle achetait des vêtements, effectuait ses opérations bancaires et faisait ses courses dans la réserve et la nourriture servie aux réunions tenues aux bureaux situés dans la réserve provenait de Park Royal. Elle a déclaré qu'elle était présente aux bureaux [TRADUCTION] « de deux à quatre jours » par semaine. Elle a en outre précisé que 3878 la payait par chèque et lui remettait des T4.
+[9] Dans son témoignage, l'appelante a mentionné que 519 avait été constituée en société pour détenir des actions de la Cranefield International Inc. Elle a décidé de constituer cette entreprise en société suivant les conseils de son avocat et de son expert‑comptable. L'adresse de la société pour les besoins de la production de déclarations de revenus était la même que celle de 394 et de 3878. Elle a ajouté qu'elle s'appuyait sur l'avis de l'avocat et de l'expert‑comptable pour décider du moment où elle vendait des actions de la CI. Elle a également affirmé qu'elle fournissait des services à 519, à savoir la tenue des comptes, le dépouillement du courrier, l'administration, et ainsi de suite, et que les réunions touchant la vente d'actions se tenaient aux bureaux situés dans la réserve.
+[10] L'appelante a de plus mentionné que 519 la payait par chèque dans la réserve et lui remettait des T4, et que sa banque, la Banque Canadienne Impériale de Commerce, se trouvait dans la réserve. Elle a ajouté qu'elle achetait des vêtements et des articles de maison dans la réserve. Selon l'appelante, 3878 recevait de l'argent d'une entité qu'elle a désignée simplement comme NB Contracting, une entreprise d'excavation, dont elle aurait reçu 70 000 $ par année, plus ou moins. Elle a affirmé qu'un dénommé Nick Bergmach (« M. Bergmach ») gérait cette entreprise et opérait l'excavatrice, et que les bureaux de cette entreprise étaient situés dans la réserve, tout comme son siège social et ses dossiers. Elle a ensuite ajouté qu'elle était l'unique actionnaire de cette société et que 3878 fournissait à celle‑ci des services de tenue des comptes et de classement et tenait des réunions pour cette entité. Elle a affirmé qu'elle n'a personnellement jamais reçu de revenu de cette société pendant les années visées par l'appel.
+[11] Pendant le contre‑interrogatoire, l'appelante a déclaré qu'elle n'avait jamais vécu dans une réserve et que les dispositions prises avec 3878 et la Bayside et relativement à 394 avaient pour objet d'obtenir une exemption sous le régime de la Loi sur les Indiens.
+[12] L'appelante a également affirmé que Steve se présentait parfois aux bureaux situés dans la réserve à l'occasion de réunions ou pour régler des questions d'ordre financier, et ainsi de suite, mais qu'il passait le plus clair de son temps à la scierie. L'appelante a mentionné qu'elle fixait les sommes devant être payées par 3878 à Steve, à Ken et à elle‑même à titre de salaires de gestion. Ces sommes figurent dans le tableau suivant.
+1995
+1996
+1997
+1998
+1999
+Steve Tsuruda
+42 000 $
+60 000 $
+60 000 $
+60 000 $
+90 000 $
+Ken Tsuruda
+42 000 $
+60 000 $
+60 000 $
+60 000 $
+60 000 $
+Fay Tsuruda
+83 152 $
+525 212 $
+697 158 $
+835 963 $
+274 760 $
+Selon l'exposé conjoint des faits, 3878 a reçu les frais de gestion suivants.
+1995
+1996
+1997
+1998
+1999
+Frais de gestion payés à 3878
+417 080 $
+576 080 $
+776 080 $
+976 080 $
+456 080 $
+La Bayside a déduit les frais de gestion qu'elle a payés à 3878. Le service de la paye de la Bayside était assuré par un système de paye de la Banque Royale, qui n'était pas situé dans la réserve. Au cours des trois années d'imposition en cause, Steve et Ken n'ont reçu aucun salaire de la Bayside.
+[13] Pour l'exercice se terminant le 31 janvier 1998, 519 a déclaré un gain en capital et a déduit des dépenses, y compris des frais de gestion de 600 000 $ payés à l'appelante. Cette dernière n'avait aucun contrat de gestion écrit avec 519.
+[14] L'appelante n'avait aucun rapport avec les membres de la bande indienne de Kapilano en leur qualité de membres de la bande ou d'Indiens. Elle n'avait aucun rapport, non plus, avec la réserve indienne de Kapilano, si ce n'est le fait que 3878 louait des locaux situés dans cette réserve et qu'elle achetait parfois des fournitures de magasins situés sur les terres réservées aux Indiens et louées à des non‑Indiens.
+[15] Le ministre du Revenu national a délivré à l'appelante des avis de nouvelle cotisation s'élevant aux montants suivants :
+1997
+697 156 $
+1998
+1 435 963 $
+1999
+274 760 $
+[16] De plus, pendant son contre‑interrogatoire, l'appelante a affirmé qu'elle ne conservait aucun document consignant ses jours de travail et les fonctions remplies, mais que celles‑ci nécessitaient environ quatre heures par jour en moyenne. En réponse à des questions précises au sujet des services qu'elle rendait, elle a énuméré certaines activités, comme la tenue de la comptabilité, le dépouillement du courrier, le classement, l'achat de fournitures de bureau, l'établissement de chèques destinés aux employés, et ainsi de suite. En particulier, elle a répondu par l'affirmative à une question laissant entendre qu'il y avait moins de dix articles de courrier par mois. Elle a déclaré qu'elle pensait que Dale était présent aux bureaux tous les jours, mais qu'elle n'en était pas sûre. Elle a mentionné qu'il était responsable de la gestion quotidienne de 3878 et que la société n'employait aucun autre membre de la bande qu'elle‑même. Elle a aussi ajouté que Dale était chargé de la vente des actions de CI.
+[17] L'appelante a produit un double du document intitulé [TRADUCTION] « contrat de gestion modifié » et [TRADUCTION] « daté du 14 février 1992 à titre de référence ». Ce contrat est intervenu entre D. Cranefield & Company Ltd.[1] (le « gestionnaire »), la Bayside (la « société »), Steve Tsuruda et Dale Tsuruda (les « administrateurs ») et Steve Tsuruda, l'unique actionnaire de la société (l'« actionnaire »). Un double du contrat de gestion daté du 1er janvier 1991 est joint à ce document[2]. Le contrat prévoit que la Bayside doit payer à 394 des frais de gestion de 255 000 $ par année ainsi qu'une prime fondée sur le rendement du gestionnaire et sur la rentabilité de la société, et que [TRADUCTION] « cette prime sera fixée annuellement par le gestionnaire et la société ». Les fonctions du gestionnaire sont énoncées de la façon suivante :
+[TRADUCTION]
+Le gestionnaire s'engage à faire de son mieux pour s'acquitter de ses fonctions et de ses obligations prévues aux présentes et pour promouvoir l'entreprise et les activités de la société.
+La seule autre clause de ce document relative aux fonctions du gestionnaire est la suivante :
+[TRADUCTION]
+Le gestionnaire s'engage à présenter de temps à autre au conseil d'administration de la société, conformément aux instructions de ce dernier, un rapport complet sur les activités de la société, étant entendu que le gestionnaire doit fournir un tel rapport à la société au moins une fois pendant l'exercice de cette dernière.
+Le contrat modifié prévoit simplement la durée de l'entente et le droit de retirer 21 250 $ par mois. Par un contrat de cession et de prise en charge, D. Cranefield & Company Inc. a cédé le contrat à 3878 en date du 30 juin 1994.
+[18] On a également produit un contrat de gestion prenant effet le 1er juillet 1994 et conclu par l'appelante et 3878. Selon ce contrat, 3878 retenait les services de l'appelante à titre de gestionnaire pour aider la société à administrer son entreprise. La clause relative à la rémunération de la gestionnaire est ainsi rédigée :
+[TRADUCTION]
+3.1 En contrepartie de la gestion et des fonctions administratives prévues par le présent contrat, la gestionnaire recevra des frais de gestion fondés sur son rendement et sur la rentabilité de la société (les « frais »). Ces frais seront fixés annuellement par la gestionnaire et la société pendant la durée de la présente entente et ils seront versés à la gestionnaire par la société dans les trente jours de la fin de l'exercice de la société; il est cependant entendu que le défaut d'en arriver à une telle entente ou de payer la prime n'aura aucune incidence sur le présent contrat ou sur les droits et obligations des parties aux termes des présentes et que l'affaire sera renvoyée à un seul arbitre nommé en conformité avec les dispositions de la loi intitulée Arbitration Act (Loi sur l'arbitrage) de la Colombie‑Britannique. Malgré ce qui précède, les honoraires ne peuvent être inférieurs à cinquante pour cent de l'ensemble des revenus nets de la société, moins les honoraires, ou à la somme de trente mille dollars.
+Les fonctions de la gestionnaire sont simplement présentées de la façon suivante :
+[TRADUCTION]
+4.1 La gestionnaire s'engage à faire de son mieux pour s'acquitter de ses fonctions et de ses obligations prévues aux présentes et pour promouvoir l'entreprise et les activités de la société.
+ANALYSE ET CONCLUSIONS
+[19] L'article 87 de la Loi sur les Indiens est ainsi libellé :
+87(1) Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l'article 83, les biens suivants sont exemptés de taxation :
+a) le droit d'un Indien ou d'une bande sur une réserve ou des terres cédées;
+b) les biens meubles d'un Indien ou d'une bande situés sur une réserve.
+(2) Nul Indien ou bande n'est assujetti à une taxation concernant la propriété, l'occupation, la possession ou l'usage d'un bien mentionné aux alinéas (1)a) ou b) ni autrement soumis à une taxation quant à l'un de ces biens.
+(3) Aucun impôt sur les successions, taxe d'héritage ou droit de succession n'est exigible à la mort d'un Indien en ce qui concerne un bien de cette nature ou la succession visant un tel bien, si ce dernier est transmis à un Indien, et il ne sera tenu compte d'aucun bien de cette nature en déterminant le droit payable, en vertu de la Loi fédérale sur les droits successoraux, chapitre 89 des Statuts révisés du Canada de 1952, ou l'impôt payable, en vertu de la Loi de l'impôt sur les biens transmis par décès, chapitre E‑9 des Statuts révisés du Canada de 1970, sur d'autres biens transmis à un Indien ou à l'égard de ces autres biens.
+[20] L'article 81 de la Loi de l'impôt sur le revenu dispose :
+81(1) Ne sont pas inclus dans le calcul du revenu d'un contribuable pour une année d'imposition :
+a) une somme exonérée de l'impôt sur le revenu par toute autre loi fédérale, autre qu'un montant reçu ou à recevoir par un particulier qui est exonéré en vertu d'une disposition d'une convention ou d'un accord fiscal conclu avec un autre pays et qui a force de loi au Canada; [...]
+Suivant le paragraphe 89(1) de la Loi sur les Indiens :
+89(1) Sous réserve des autres dispositions de la présente loi, les biens d'un Indien ou d'une bande situés sur une réserve ne peuvent pas faire l'objet d'un privilège, d'un nantissement, d'une hypothèque, d'une opposition, d'une réquisition, d'une saisie ou d'une exécution en faveur ou à la demande d'une personne autre qu'un Indien ou une bande.
+Le paragraphe 90(1) de ce texte législatif est ainsi rédigé :
+90(1) Pour l'application des articles 87 et 89, les biens meubles qui ont été :
+a) soit achetés par Sa Majesté avec l'argent des Indiens ou des fonds votés par le Parlement à l'usage et au profit d'Indiens ou de bandes;
+b) soit donnés aux Indiens ou à une bande en vertu d'un traité ou accord entre une bande et Sa Majesté,
+sont toujours réputés situés sur une réserve.
+[21] Dans l'arrêt Mitchell c. Bande indienne Peguis, [1990] 2 R.C.S. 85, 90 D.L.R. (4th) 193, le juge La Forest s'exprime en ces termes à la page 131 :
+En résumé, le dossier historique indique clairement que les art. 87 et 89 de la Loi sur les Indiens, auxquels s'applique la présomption de l'art. 90, font partie d'un ensemble législatif qui fait état d'une obligation envers les peuples autochtones, dont la Couronne a reconnu l'existence tout au moins depuis la signature de la Proclamation royale de 1763. Depuis ce temps, la Couronne a toujours reconnu qu'elle est tenue par l'honneur de protéger les Indiens de tous les efforts entrepris par des non‑Indiens pour les déposséder des biens qu'ils possèdent en tant qu'Indiens, c'est‑à‑dire leur territoire et les chatels qui y sont situés.
+Il est également important de souligner la conséquence de la conclusion que je viens de tirer. Le fait que la loi contemporaine, comme sa contrepartie historique, prenne tant de soin pour souligner que les exemptions de taxe et de saisie ne s'appliquent que dans le cas des biens personnels situés sur des réserves démontre que l'objet de la Loi n'est pas de remédier à la situation économiquement défavorable des Indiens en leur assurant le pouvoir d'acquérir, de posséder et d'aliéner des biens sur le marché à des conditions différentes de celles applicables à leurs concitoyens. Un examen des décisions portant sur ces articles confirme que les Indiens qui acquièrent et aliènent des biens situés à l'extérieur des terres réservées à leur usage le font aux mêmes conditions que tous les autres Canadiens.
+[Non souligné dans l'original.]
+Le juge a reproduit en l'approuvant le passage suivant tiré de l'arrêt Leonard v. R. In Right of British Columbia (1984), 52 B.C.L.R. 389, à la page 395 :
+[TRADUCTION]
+Il est raisonnable d'interpréter l'article en disant qu'une exemption de taxe sur un bien personnel d'un Indien sera restreinte à l'endroit où le possesseur de ce bien est censé l'avoir en sa possession, c'est‑à‑dire sur les terres qu'un Indien occupe en tant qu'Indien, la réserve. Les Indiens qui cèdent par bail leurs terres à des non‑Indiens renoncent au droit d'occupation et j'estime que, lorsqu'ils sont propriétaires de biens meubles ou en ont la possession sur ces terres cédées, ils ne sont pas dans une situation différente de celle de tout autre citoyen.
+[Non souligné dans l'original.]
+[22] Le juge La Forest mentionne en outre à la page 133 :
+[...] Mais je répéterais qu'en l'absence d'un lien discernable entre le bien en question et l'occupation des terres réservées par le propriétaire de ce bien, les protections et privilèges des art. 87 et 89 ne s'appliquent pas.
+J'attire l'attention sur ces décisions pour souligner encore une fois qu'il faut éviter d'accorder une portée trop large aux art. 87 et 89. Ces dispositions n'ont pas pour but d'accorder des privilèges aux Indiens à l'égard de tous les biens qu'ils peuvent acquérir et posséder, peu importe l'endroit où ils sont situés. Leur but est plutôt simplement de protéger [...] les droits de propriété des Indiens sur leurs terres réservées [...]
+[Non souligné dans l'original.]
+Les propos magnifiquement formulés par le juge La Forest dans l'arrêt Mitchell constituaient une observation judiciaire non équivoque du sens qu'il faut donner à l'article 87 de la Loi sur les Indiens. Depuis ce temps, la jurisprudence a étendu la portée de cette disposition à des situations qui, en raison de leur éloignement croissant de la simple exactitude de la vision adoptée par le juge La Forest, sont une source de grande confusion. En effet, la double nature des motifs du jugement prononcés dans plusieurs affaires offre aux avocats qui trient sur le volet, du mieux à l'occasion, un fondement écrit qui semble étayer leur thèse.
+[23] Dans l'arrêt Williams c. Canada, [1992] 1 R.C.S. 877, 92 D.T.C. 6320, la Cour suprême du Canada déclare à l'unanimité, aux pages 892 et 893, que la méthode suivante s'applique pour décider du lieu où un revenu d'emploi se trouve :
+La méthode qui tient le mieux compte de ces préoccupations est celle qui analyse la situation sous le rapport des catégories de biens et des types d'imposition. Par exemple, la pertinence des facteurs de rattachement peut varier selon qu'il s'agit de prestations d'assurance‑chômage, de revenu d'emploi ou de prestations de pension. Il faut d'abord identifier les divers facteurs de rattachement qui peuvent être pertinents. On doit ensuite analyser ces facteurs pour déterminer le poids à leur accorder afin d'identifier l'emplacement du bien, en tenant compte de trois choses : (1) l'objet de l'exemption prévue dans la Loi sur les Indiens, (2) le genre de bien en cause et (3) la nature de l'imposition de ce bien. Il s'agit donc de déterminer, relativement à chaque facteur de rattachement, le poids qui devrait lui être accordé pour décider si l'imposition en cause de ce type de bien représenterait une atteinte aux droits de l'Indien à titre d'Indien sur une réserve.
+Avant d'énoncer ce qui précède, la Cour mentionne, à la page 892 :
+[...] il serait dangereux de soupeser les facteurs de rattachement de manière abstraite, indépendamment de l'objet de l'exemption prévue dans la Loi sur les Indiens. Un facteur de rattachement n'est pertinent que dans la mesure où il identifie l'emplacement du bien en question aux fins de la Loi sur les Indiens.
+Ces passages tirés de l'arrêt Williams sont reproduits non pour appliquer les facteurs de rattachement à la présente affaire, mais pour présenter le point de vue de la Cour suprême, laquelle estime que l'analyse de ces facteurs doit se faire dans le contexte de l'effet qu'entraîne leur application, à savoir l'éventuelle
+atteinte aux droits de l'Indien à titre d'Indien sur une réserve.
+Les facteurs de rattachement ont été définis comme la résidence de la personne payant le revenu, la résidence de la personne qui reçoit le revenu, l'endroit où le revenu est versé et l'emplacement du revenu d'emploi donnant droit à l'exemption de taxation. Dans l'arrêt Williams, il s'agissait de savoir si la réserve constituait l'emplacement du revenu reçu sous le régime de la Loi sur l'assurance‑chômage.
+[24] Les observations écrites de l'avocat de l'appelante se fondent sur les assertions suivantes :
+1. La personne qui versait le revenu, soit la société 3878, était l'employeur de l'appelante, elle était située dans une réserve et l'appelante travaillait dans ses bureaux.
+2. La contribuable qui recevait le revenu ne résidait pas dans une réserve, mais cette résidence ne constituait pas un facteur important.
+3. L'endroit où le revenu était versé se trouvait dans la réserve, aux bureaux de 3878 et de 519.
+4. L'emplacement du revenu d'emploi donnant droit à l'exemption de taxation se trouvait en fait dans la réserve, puisque l'appelante recevait son revenu aux bureaux de la société.
+[25] Les observations comportent en outre le passage suivant :
+[TRADUCTION]
+Les sociétés de la famille Tsuruda ont des bureaux dans la réserve indienne de Kapilano depuis 1979 [...] et elles y avaient toujours des bureaux tant au cours des années visées par l'appel que postérieurement à celles‑ci. Leurs sociétés avaient des bureaux dans la réserve indienne de Kapilano bien avant que l'appelante n'obtienne le statut d'Indienne, en 1987.
+On constate toutefois que 3878 a été constituée en société le 28 février 1994, et 519, le 6 mai 1996.
+L'extrait suivant est également tiré des observations écrites :
+[TRADUCTION]
+Malgré ce qui précède, même si 3878 et 519298 avaient été constituées en société et si leurs bureaux se situaient dans la réserve indienne de Kapilano à la seule fin de bénéficier de l'exemption qui s'applique aux Indiens, la jurisprudence indique clairement que les contribuables ont le droit d'organiser leurs affaires d'une façon particulière dans le seul but de se prévaloir délibérément de dispositions légales leur permettant de réduire leur obligation fiscale.
+L'avocat a renvoyé à l'arrêt Neuman c. La Reine, [1998] 1 R.C.S. 770, 98 D.T.C. 6297, au paragraphe 39, mais il a omis de reproduire dans ses observations la partie pertinente de ce paragraphe. En voici le texte :
+Finalement, il importe de se rappeler que notre Cour a statué à l'unanimité dans l'arrêt Stubart, précité, à la p. 575, qu'une opération ne devait pas être écartée sur le plan fiscal parce qu'elle ne vise aucun but commercial distinct ou véritable (le juge Estey s'est exprimé en son propre nom et en celui des juges Beetz et McIntyre; le juge Wilson a écrit des motifs concordants auxquels le juge Ritchie a souscrit). Ainsi, les contribuables peuvent organiser leurs affaires d'une façon particulière dans le seul but de se prévaloir délibérément des mécanismes de réduction de l'impôt prévus dans la LIR.
+L'arrêt Neuman n'avait rien à voir avec l'exemption prévue par la Loi sur les Indiens. L'avocat a également renvoyé à l'arrêt Recalma c. La Reine, 98 D.T.C. 6238, no A‑571‑96, 27 mars 1998, dans lequel la Cour d'appel fédérale a déclaré ce qui suit lorsqu'elle s'est demandé si un certain revenu de placement était exempté de l'impôt sur le revenu du fait de l'application de l'article 87 de la Loi sur les Indiens :
+Bien entendu, il n'y a rien de mal à ce que les Canadiens arrangent leurs affaires de façon à réduire leur fardeau fiscal. Cela n'est pas moins vrai pour les autochtones que ce ne l'est pour d'autres entrepreneurs qui ont recours à des fusions et à des instruments étrangers pour réduire ce fardeau fiscal. Certains des efforts déployés dans ce but réussissent et d'autres non. Nous devons décider si le moyen utilisé en l'espèce doit être accepté ou rejeté. À notre avis, il doit être rejeté.
+Il s'agissait simplement de savoir si les Indiens appelants étaient soustraits à l'impôt sur le revenu à l'égard d'un revenu de placement tiré d'acceptations bancaires et de fonds communs de placement qu'ils avaient achetés à une succursale de la Banque de Montréal, située sur d'autres terres réservées aux Indiens.
+[26] L'avocat a aussi invoqué l'arrêt Shilling c. La Reine, 99 D.T.C. 5441, no T‑222‑97, 9 juin 1999, dans lequel la Cour d'appel fédérale affirme ce qui suit après avoir fait mention de la décision Neuman :
+Ce principe doit s'appliquer également aux Indiens qui cherchent à obtenir l'avantage que leur procure l'article 87 de la Loi sur les Indiens et qui sont disposés à créer des relations juridiques en ne poursuivant que ce seul but.
+Dans cette affaire où elle a obtenu gain de cause, l'appelante était une Indienne vivant à Toronto. Elle avait travaillé pour AHT, un centre de santé pour autochtones, par l'entremise d'un employeur indien, lequel exploitait une entreprise à titre de propriétaire unique d'un bureau de placement pour autochtones appelé Native Leasing Services (« NLS »). Le propriétaire, qui résidait et exploitait son entreprise dans une réserve, avait conclu un contrat avec AHT. L'appelante a conclu un contrat avec NLS afin de se prévaloir des dispositions de l'article 87 de la Loi sur les Indiens et de se soustraire ainsi à l'impôt sur le revenu. Le ministre du Revenu national a établi à son égard une cotisation fondée sur le fait que le revenu d'emploi que lui versait NLS était imposable. L'avocat de l'intimée a soutenu que Mme Shilling avait trouvé un emploi chez AHT, mais qu'au lieu d'entreprendre une relation indépendante avec ce dernier, elle était plutôt devenue une employée de NLS dans le but de bénéficier d'avantages fiscaux et que, par conséquent, l'emplacement de NLS ne devait pas être pris en compte. La Cour a répondu ce qui suit à cet argument :
+Je ne suis pas d'accord avec cet argument. Je pars de la prémisse que chaque personne a le droit d'organiser ses affaires pour bénéficier des allègements fiscaux prévus par la loi, et que cela peut être accompli par la création d'obligations et de relations qui n'ont pas d'autre but que l'obtention de cet allègement.
+Dans l'arrêt Canada c. Folster, 97 D.T.C. 5315, no A‑595‑94, 22 mai 1997, la Cour d'appel fédérale a reconnu que « l'historique et l'objet de l'article 87 ont fait l'objet d'un examen complet dans l'arrêt Mitchell c. Bande indienne Peguis ». Elle a affirmé à la page 10 :
+Le juge La Forest a qualifié l'objet de la disposition créant l'exemption d'impôt essentiellement d'effort pour préserver le mode de vie traditionnel des collectivités indiennes en protégeant les biens que les Indiens possèdent en tant qu'Indiens sur une réserve. L'article 87 ne visait toutefois pas à remédier à la situation désavantageuse des Indiens sur le plan économique. Bien qu'il s'agisse d'un but louable, il n'appartient pas aux tribunaux d'essayer de l'atteindre en étirant les limites de l'exemption fiscale plus que ne le permet une interprétation de la loi fondée sur l'objet. Par conséquent, lorsqu'un autochtone décide d'entrer sur ce qu'on appelle le « marché » canadien, il n'y a aucun texte législatif qui l'exempte du paiement d'un impôt sur son revenu d'emploi [...]
+L'arrêt Folster intéressait l'impôt sur le revenu d'une Indienne résidant dans la réserve indienne de Norway House et employée comme gestionnaire au Norway House Indian Hospital. Même si l'hôpital n'était plus situé dans la réserve, comme il l'était autrefois, il se trouvait à proximité de celle‑ci et continuait de desservir principalement la collectivité de la réserve. La question à trancher dans cet appel consistait à savoir si le revenu d'emploi de l'appelante devait être exempté de l'impôt sur le revenu en application de l'article 87 de la Loi sur les Indiens. La Cour d'appel fédérale est arrivée à la conclusion suivante :
+[...] Je suis plutôt d'avis que le refus de reconnaître l'exemption en l'espèce équivaudrait à une atteinte à un bien détenu par un Indien en tant qu'Indien sur une réserve. Vu l'objet de la disposition, le revenu d'emploi de l'appelante est un bien meuble qui devrait bénéficier de la pleine protection de l'article 87. À mon avis, le juge de première instance a accordé trop de poids à l'emplacement géographique précis de l'emploi et à la résidence de l'employeur, en l'occurrence le gouvernement fédéral. Inversement, il n'a pas accordé assez de poids aux circonstances véritables touchant l'emploi de l'appelante, sa résidence sur la réserve et l'historique de l'hôpital où elle travaillait.
+Le juge a ensuite mentionné, aux pages 19 et suivantes :
+[...] À mon avis, étant donné le but poursuivi par le législateur en créant l'exemption d'impôt et le genre de bien meuble en cause, l'analyse doit porter sur la nature de l'emploi de l'appelante et les circonstances qui s'y rapportent. [...]
+[...] l'appelante était une résidente de la réserve indienne de Norway House qui tirait avantage de la vie sur la réserve et y contribuait en travaillant dans un hôpital situé près de la réserve dont la mission était de répondre aux besoins en matière de soins de santé de la collectivité de la réserve. Attribuer une importance considérable au fait que l'hôpital est maintenant physiquement situé non pas sur la réserve mais à proximité de celle-ci masque la nature véritable du revenu d'emploi en l'espèce. À mon avis, étant donné tous les facteurs examinés, la meilleure façon de réaliser l'objet de la loi est de statuer que le salaire de l'appelante était un bien détenu par un Indien à titre d'Indien sur une réserve.
+[...]
+Le raisonnement du juge du procès néglige le fait que le travail de l'appelante était en grande partie consacré à la réserve indienne de Norway House et accompli au profit de celle-ci.
+[Non souligné dans l'original.]
+Il est utile, en l'espèce, de répéter les propos suivants formulés par le juge La Forest dans l'arrêt Mitchell :
+[...] la Couronne a toujours reconnu qu'elle est tenue par l'honneur de protéger les Indiens de tous les efforts entrepris par des non‑Indiens pour les déposséder des biens qu'ils possèdent en tant qu'Indiens, c'est‑à‑dire leur territoire et les chatels qui y sont situés.
+[27] Chacune des décisions susmentionnées traitait simplement d'une seule question touchant les Indiens, à savoir :
+1. Recalma : Les appelants, vivant dans une réserve, avaient placé des fonds dans des titres à une succursale bancaire située dans une autre réserve. L'appel a été rejeté parce que, même si la banque ayant vendu les titres était située dans une réserve, les émetteurs de ces titres étaient d'ailleurs.
+2. Shilling : La contribuable, une Indienne, ne vivait pas dans une réserve. L'avocat de la Couronne a convenu que le lieu de sa résidence n'avait pas de pertinence. Son emploi donnait un bénéfice au peuple et aux organismes autochtones et elle avait choisi de travailler pour une société qui plaçait des employés auprès d'un centre de santé pour autochtones. Son employeur était situé dans une réserve et l'emplacement de son revenu d'emploi donnant droit à l'exemption de taxation se situait dans une réserve. Selon les motifs du jugement, Mme Shilling visitait la réserve où vivait sa famille toutes les deux fins de semaine et elle considérait cette réserve comme son foyer.
+3. Folster : Les faits sont exposés juste un peu plus haut.
+[28] En l'espèce, l'appelante ne vivait pas dans la réserve indienne de Kapilano ni, en fait, dans aucune réserve. Les trois entreprises, soit 394, 3878 et 519, dont elle était l'unique propriétaire et pour lesquelles elle travaillait, ont été constituées en société après qu'elle eut obtenu le statut d'Indienne en 1987. Elle a affirmé à plusieurs reprises pendant son témoignage que la structure des sociétés avait été établie et les décisions d'ordre économique avaient été mises en oeuvre suivant les conseils de son avocat et de son expert‑comptable. Cette confiance, et sa franche affirmation selon laquelle elle souhaitait bénéficier de l'exemption de taxation prévue à l'article 87 de la Loi sur les Indiens, laissent croire fortement à la création d'un modèle qui, conjugué à sa situation particulière, a donné lieu à l'établissement et à la présentation d'une structure qui, en apparence, donnerait droit à l'exemption de taxation suivant le critère des facteurs de rattachement.
+[29] Comme il est mentionné plus haut, la Cour d'appel fédérale a déclaré ce qui suit dans l'arrêt Folster :
+[...] À mon avis, étant donné le but poursuivi par le législateur en créant l'exemption d'impôt et le genre de bien meuble en cause, l'analyse doit porter sur la nature de l'emploi de l'appelante et les circonstances qui s'y rapportent. [...]
+[Non souligné dans l'original.]
+En l'espèce, l'emploi de l'appelante et les circonstances entourant ce dernier englobent ce qui suit :
+° L'appelante était l'unique actionnaire de 394, de 3878 et de 519, entreprises qui ont toutes été constituées en société après 1987, année où elle a recouvré son statut d'Indienne.
+° L'entreprise Bayside, qui versait d'énormes honoraires de gestion à l'appelante, appartenait en totalité à son mari Steve, un Canadien de descendance japonaise. Il n'était pas un Indien au sens où ce terme est défini dans la Loi sur les Indiens.
+° L'entreprise lucrative de la Bayside était entièrement exploitée à l'extérieur d'une réserve indienne, quelle qu'elle soit.
+° Le témoignage de l'appelante et la façon dont celui‑ci a été rendu visaient à mon sens à impressionner la Cour en raison du volume de travail et de l'importance des services qu'elle accomplissait pour les sociétés dont elle était l'unique actionnaire.
+° L'appelante a déclaré qu'elle avait agi suivant les conseils de son avocat et de son expert‑comptable et que les dispositions prises avec 3878 et la Bayside et relativement à 394 visaient à obtenir une exemption sous le régime de la Loi sur les Indiens. Elle a mentionné que l'entreprise 519 avait également été constituée en société par suite d'une décision qu'elle avait prise suivant les conseils de son avocat et de son expert‑comptable.
+° L'appelante achetait des fournitures de bureau, par ailleurs négligeables, dans la réserve.
+° L'appelante a affirmé dans son témoignage qu'elle achetait des vêtements, effectuait ses opérations bancaires et magasinait dans la réserve, activités manifestement de nature personnelle.
+° Les honoraires de gestion versés par la Bayside à 3878 pendant les années 1995 à 1999, inclusivement, totalisaient 3 201 400 $.
+° Les honoraires de gestion versés par 3878 à l'appelante pendant ces cinq années totalisaient 2 416 245 $.
+° En 1998, des honoraires de gestion de 600 000 $ ont été versés par 519 à l'appelante.
+° L'appelante n'avait aucun rapport avec les membres de la bande indienne de Kapilano en leur qualité de membres d'une bande indienne ou d'Indiens.
+° L'appelante n'avait aucun rapport avec une autre bande indienne, quelle qu'elle soit.
+° L'appelante vivait à West Vancouver, et non dans une réserve.
+° L'appelante n'a jamais vécu dans une réserve.
+° Le terrain sur lequel se trouvaient les bureaux des sociétés de l'appelante faisait partie d'un secteur commercial et résidentiel très peuplé situé juste à l'ouest du pont Lion's Gate de Vancouver.
+° Le système de paye de la Banque Royale ne se trouvait pas dans une réserve.
+[30] L'appelante a constitué en société des entreprises dont elle s'est servie pour lui fournir de l'emploi. Ces sociétés n'avaient absolument aucun lien avec une quelconque réserve indienne, si ce n'est de permettre de bénéficier de l'exonération d'impôt sur le revenu qui est prévue à l'article 87. Mes propos ne visent pas à contester la déclaration faite par la Cour d'appel fédérale voulant que les Indiens jouissent du même droit que les autres contribuables canadiens, soit celui d'organiser leurs affaires de façon à se soustraire à la taxation. Toutefois, comme l'a si éloquemment explicité le juge La Forest, l'objet visé par l'article 87 s'inscrit dans le contexte des biens détenus par des Indiens :
+[...] qu'ils possèdent en tant qu'Indiens, c'est‑à‑dire leur territoire et les chatels qui y sont situés.
+L'alinéa 87(1)b) dispose que les biens suivants sont exemptés de taxation :
+[...] les biens meubles d'un Indien ou d'une bande situés sur une réserve.
+Lorsque je tourne mon analyse vers la nature de l'emploi de l'appelante et les circonstances qui entourent cet emploi, je me sens interpellé par les observations reproduites plus haut, que la Cour d'appel fédérale a formulées dans l'arrêt Folster et que je répète ici :
+Bien qu'il s'agisse d'un but louable, il n'appartient pas aux tribunaux d'essayer de l'atteindre en étirant les limites de l'exemption fiscale plus que ne le permet une interprétation de la loi fondée sur l'objet.
+[31] Certes, les employeurs de l'appelante, qui lui appartenaient à cent pour cent, avaient leurs bureaux dans une réserve. Certes, elle rendait des services à ces employeurs dans une réserve. Certes, elle était payée par ces employeurs dans une réserve. Bien que ce point puisse ne pas être très important, l'appelante ne vivait pas dans une réserve. Elle n'a nullement contribué à la vie dans la réserve. L'appelante n'entretenait de relations avec aucune bande ni aucun autre Indien. Le mari de l'appelante, un non‑Indien, était l'unique propriétaire de la société Bayside, qui versait les sommes considérables mentionnées plus haut aux sociétés de l'appelante, ces sommes constituant la source de son salaire. Même si certains pourraient avancer que ce point est dénué de pertinence, il ne fait aucun doute qu'il nuance les circonstances que je dois examiner et analyser.
+Selon le dictionnaire The New Shorter Oxford English Dictionary, volume 2, le terme « qua » (en tant que), qui est employé en anglais par la Cour suprême du Canada et la Cour d'appel fédérale dans l'expression « qua Indian » (« en tant qu'Indien »), signifie [TRADUCTION] « en qualité de ». Selon l'ouvrage Sanagan's Encyclopedia of Words and Phrases Legal Maxims, il signifie [TRADUCTION] « comme ». Dans l'arrêt Mitchell, le juge La Forest fait mention :
+[...] des biens qu'ils possèdent en tant qu'Indiens, c'est‑à‑dire leur territoire et les chatels qui y sont situés.
+Dans l'arrêt Williams, le juge Gonthier se demande :
+si l'imposition en cause de ce type de bien représenterait une atteinte aux droits de l'Indien à titre d'Indien sur une réserve.
+Dans l'arrêt Folster, la Cour d'appel fédérale affirme, à la page 10 :
+Le juge La Forest a qualifié l'objet de la disposition créant l'exemption d'impôt essentiellement d'effort pour préserver le mode de vie traditionnel des collectivités indiennes en protégeant les biens que les Indiens possèdent en tant qu'Indiens sur une réserve. [...]
+Cela laisse entendre que les tribunaux ont interprété l'expression « qua Indian » (« en tant qu'Indien ») comme si elle désignait ou, à tout le moins, évoquait le milieu que constitue normalement une réserve pour un Indien — ce qui est loin du caractère urbain que revêtent des locaux situés dans un grand ensemble de bureaux et de magasins, au moyen desquels on tente de satisfaire à trois des quatre facteurs de rattachement, d'autant plus que la seule raison pour avoir choisi cet endroit tenait à l'obtention d'une exemption de taxation suivant l'article 87 de la Loi sur les Indiens.
+[32] L'avocat de l'appelante a fait valoir ce qui suit dans ses observations :
+[TRADUCTION]
+Assujettir à la taxation le revenu que l'appelante tire de son emploi chez 3878 représenterait une atteinte au bien qu'elle possède en tant qu'Indienne.
+Aucun détail ni aucune précision n'a été donné pour expliquer cette assertion. Or, à la lumière du contexte que fournit l'expression « en tant qu'Indien » et qui est examiné plus haut, cette affirmation ne résiste tout simplement pas à l'analyse. L'avocat soutient en outre :
+[TRADUCTION]
+L'appelante ne conteste pas le fait que la nature de son travail ne permet pas d'établir un lien direct entre son revenu d'emploi et la réserve indienne de Kapilano. Cependant, le travail que fait l'appelante pour 3878 a indirectement bénéficié à la réserve en ce que l'appelante, tandis qu'elle travaillait pour 3878, dépensait de l'argent (y compris de l'argent gagné par suite des services offerts à 3878) dans la réserve (c.‑à‑d. qu'elle achetait des vêtements et de la nourriture et utilisait le lave‑auto, etc.) et qu'elle y effectuait ses opérations bancaires.
+Le prétendu avantage pour la réserve est trop minime pour avoir un quelconque effet probant.
+[33] À la lumière de ce qui précède, j'arrive à la conclusion suivante, à l'instar du juge La Forest, dont je reprends ici les propos :
+[...] en l'absence d'un lien discernable entre le bien en question et l'occupation des terres réservées par le propriétaire de ce bien, les protections et privilèges des art. 87 et 89 ne s'appliquent pas.
+Même si l'article 89 ne s'applique pas en l'espèce, j'ai reproduit l'extrait dans son intégralité.
+[34] Je répète également une autre observation formulée par le juge La Forest :
+Ces dispositions n'ont pas pour but d'accorder des privilèges aux Indiens à l'égard de tous les biens qu'ils peuvent acquérir et posséder, peu importe l'endroit où ils sont situés. Leur but est plutôt simplement de protéger des ingérences et des entraves de la société en général les droits de propriété des Indiens sur leurs terres réservées pour veiller à ce que ceux‑ci ne soient pas dépouillés de leurs droits. La Cour d'appel de l'Alberta [...] saisit l'essence du problème lorsqu'elle affirme [...] au sujet de l'art. 87 que : [TRADUCTION] « D'après ses termes, l'article a pour objet d'empêcher qu'on porte atteinte aux biens des Indiens sur une réserve .»
+[35] L'appel sera rejeté et les dépens seront adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 7e jour de juillet 2006.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 9e jour d'avril 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI288
+NO DU DOSSIER DE LA COUR : 2001-4448(IT)
+INTITULÉ DE LA CAUSE : FAY TSURUDA ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE : Le 27 avril 2006
+MOTIFS DU JUGEMENT PAR : M. le juge R. D. Bell
+DATE DU JUGEMENT : Le 7 juillet 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Richard B. Wong
+Avocat de l'intimée :
+Me Tom Torrie
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Nom : Me Richard B. Wong
+Cabinet : Thorsteinssons
+Pour l'intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Dans les documents produits par l'appelante, la dénomination de cette société se termine parfois par Ltd., parfois par Inc.
+[2] Il s'agit du contrat mentionné plus haut.

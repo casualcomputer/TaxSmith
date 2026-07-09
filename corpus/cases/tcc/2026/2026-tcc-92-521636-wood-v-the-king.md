@@ -1,0 +1,141 @@
+---
+title: "Wood v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521636/index.do"
+last_modified: "2026-05-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 92"
+citation2: ""
+neutral_citation: "2026 TCC 92"
+decision_date: "2026-05-22"
+language: "en"
+item_id: "521636"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5564
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-05-29T09:06:09.392000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b71b16ac5f05cc7a6dbf0b4d312718aa3e3ee9005b15842a8200c803a78fe5bb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wood v. The King
+
+- Citation: 2026 TCC 92
+- Decision date: 2026-05-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5564, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wood v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-05-22
+Neutral citation
+2026 TCC 92
+File numbers
+2022-1610(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-1610(IT)G
+BETWEEN:
+PETER WOOD,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion determined by Written Submissions
+Before: The Honourable Justice David E. Graham
+Participants:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sophia Trinacty
+JUDGMENT
+The appeals of the reassessments of the Appellant’s 2007, 2008, 2010, 2011, 2012 and 2013 taxation years are struck without leave to amend.
+Costs in the appeal are awarded to the Respondent.
+Signed this 22nd day of May 2026.
+“David E. Graham”
+Graham J.
+Citation: 2026 TCC 92
+Date: 20260522
+Docket: 2022-1610(IT)G
+BETWEEN:
+PETER WOOD,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] By order dated March 19, 2026, I gave eleven taxpayers who had participated in the Global Learning and Gifting Initiative donation program (“GLGI”) the chance to explain why their appeals should not be struck without leave to amend for abusing the Court’s process.
+[2] One of those taxpayers withdrew his appeal. One conceded the GLGI portion of his appeal. One did not respond by the deadline and, as a result, I have struck his appeal without leave to amend.
+[3] The remaining eight taxpayers all filed written submissions. None of them satisfied me that they would be raising new facts or new arguments that could somehow overcome what I described in my Order as the donative intent problem. Similarly, none of them satisfied me that their appeal involves some other issue over which the Court has jurisdiction. They simply made the same stale arguments that have failed in this Court time and again – arguments that it would be an abuse of this Court’s process to allow to proceed.
+[4] I will address the specific arguments raised by the Appellant, Peter Wood, below.
+A. Donative Intent [5] Mr. Wood argues that he is a good person who cares about others in his community and that he has previously made donations to charities. He says he believed GLGI was helping others. Many GLGI taxpayers who have appeared before the Court have made these same arguments. They do not work.
+[6] Donative intent is determined on a donation-by-donation basis. Mr. Wood’s general character and previous charitable gifts are irrelevant to the question of whether he had donative intent in respect of his purported GLGI donations of approximately $85,000 from 2007 to 2013, just as his lack of donative intent in GLGI would have been irrelevant to the validity of the $28 in legitimate gifts that the Reply indicates the Minister allowed in those years.
+[7] GLGI taxpayers frequently tell the Court that they have previously made charitable donations. What these taxpayers fail to mention is that the charities that received those donations gave them receipts for the amount of cash they donated, not an amount three to eight times greater than that. They came away from those donations poorer, not richer.
+[8] In summary, Mr. Wood has not satisfied me that his appeal raises any new facts or arguments that could overcome the donative intent issue.
+B. Other Arguments [9] Mr. Wood raises a number of other arguments. None of them is new. I will address them briefly.
+Personal Circumstances [10] Mr. Wood wants the chance to explain his personal circumstances to a trial judge. The question the Court has to decide is whether Mr. Wood had donative intent. His physical health, age and financial circumstances are irrelevant to that question. The Court does not have the power to waive or reduce a person’s taxes because of their personal circumstances.
+Due Diligence [11] Mr. Wood says that he knows little about tax, that he was referred to GLGI by an accountant who appeared to him and his co-workers to be a very smart man and that he was not wilfully blind or grossly negligent. In other words, he says he was duly diligent.
+[12] Mr. Wood has not asserted that the reassessments were issued beyond the normal reassessment period or that he was assessed gross negligence penalties. Accordingly, his due diligence or lack thereof in deciding to participate in GLGI is irrelevant.
+Failure to Warn [13] Mr. Wood says that the CRA failed to warn taxpayers about GLGI. As I stated in Johnson v. The Queen, “the CRA’s actions in warning or failing to warn taxpayers about the GLGI tax shelter are irrelevant to determining the validity or correctness of the Appellant’s reassessments. Either the Appellant’s donations were valid or they were not. No warning or lack thereof will change this.”[1]
+CRA Actions [14] Mr. Wood says that the CRA took too long to process his objection. As I also stated in Johnson v. The Queen, “[t]he Tax Court's role in an income tax appeal is to determine whether the assessment is valid and correct based on the relevant facts and the provisions of the Income Tax Act. The Minister's conduct during the audit or objection process is irrelevant to that determination. That conduct is not a ground upon which the Court can allow an appeal.”[2]
+Day In Court [15] Mr. Wood asserts that it would be unfair to deprive him of his day in Court but he does not explain why other than that he wants the chance to make the above arguments. He does not address the concerns I set out in my Order concerning consistency, judicial economy or finality.
+[16] As I stated in my Order, the fact that Mr. Wood has not personally had a chance to make the same arguments about the same facts is far outweighed by the potential risks to the integrity of the judicial system of allowing his appeal to continue.
+C. Conclusion [17] Based on all of the foregoing, Mr. Wood’s appeal is struck without leave to amend. Costs are awarded to the Respondent.
+Signed this 22nd day of May 2026.
+“David E. Graham”
+Graham J.
+CITATION:
+2026 TCC 92
+COURT FILE NO.:
+2022-1610(IT)G
+STYLE OF CAUSE:
+PETER WOOD v. HIS MAJESTY THE KING
+DATE OF HEARING:
+Motion determined by Written Submissions
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+May 22, 2026
+PARTICIPANTS:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sophia Trinacty
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Marie-Josée Hogue
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2022 TCC 31, at para. 22.
+[2] 2022 TCC 31, at para. 13 [footnote omitted].

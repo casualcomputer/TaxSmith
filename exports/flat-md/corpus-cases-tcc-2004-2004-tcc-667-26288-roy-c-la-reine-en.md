@@ -1,0 +1,250 @@
+---
+title: "Roy c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26288/index.do"
+last_modified: "2004-10-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 667"
+citation2: ""
+neutral_citation: "2004 TCC 667"
+decision_date: "2004-10-08"
+language: "en"
+item_id: "26288"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3300
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:56:45.728000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7ca7bfe23cd05e704d94545402cff13e2411564656f8df2091e5ad96d894406f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Roy c. La Reine
+
+- Citation: 2004 TCC 667
+- Decision date: 2004-10-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3300, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roy c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-08
+Neutral citation
+2004 TCC 667
+File numbers
+2004-1362(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1362(IT)I
+BETWEEN:
+DIANE ROY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Motion heard on common evidence with the motions of Steve Tétreault (2004-1423(IT)I), Réal D'Anjou (2004-1425(IT)I), and Adrien D'Anjou (2004-1428(IT)I) at Sherbrooke, Quebec, on July 16, 2004.
+Before: The Honourable Justice Brent Paris
+Appearances:
+Agent for the Appellant:
+André L. Mercier
+Counsel for the Respondent:
+Emmanuelle Faulkner
+JUDGMENT
+Upon application by counsel for the respondent to have the purported appeal vacated for lack of jurisdiction;
+And upon the filing of the sworn statement of Alain Solliec;
+And upon the parties' allegations;
+The motion is granted, and the purported appeal is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of October 2004.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 20th day of January 2005.
+Colette Dupuis-Beaulne, Translator
+Docket: 2004-1423(IT)I
+BETWEEN:
+STEVE TÉTREAULT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the motions of Diane Roy (2004-1362(IT)I), Réal D'Anjou (2004-1425(IT)I), and Adrien D'Anjou (2004-1428(IT)I) at Sherbrooke, Quebec, on July 16, 2004.
+Before: The Honourable Justice Brent Paris
+Appearances:
+Agent for the Appellant:
+André L. Mercier
+Counsel for the Respondent:
+Emmanuelle Faulkner
+JUDGMENT
+Upon application by counsel for the respondent to have the purported appeal vacated for lack of jurisdiction;
+And upon the filing of the sworn statement of Alain Solliec;
+And upon the parties' allegations;
+The motion is granted, and the purported appeal is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of October 2004.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 20th day of January 2005.
+Colette Dupuis-Beaulne, Translator
+Docket: 2004-1425(IT)I
+BETWEEN:
+RÉAL D'ANJOU,
+Appellant
+and
+HER MAJESTY THE QUEEN,
+respondent.
+_____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the motions of Diane Roy (2004-1362(IT)I), Steve Tétreault (2004-1423(IT)I), and Adrien D'Anjou (2004-1428(IT)I) at Sherbrooke, Quebec, on July 16, 2004.
+Before: The Honourable Justice Brent Paris
+Appearances:
+Agent for the Appellant:
+André L. Mercier
+Counsel for the Respondent:
+Emmanuelle Faulkner
+JUDGMENT
+Upon application by counsel for the respondent to have the purported appeal vacated for lack of jurisdiction;
+And upon the filing of the sworn statement of Alain Solliec;
+And upon the parties' allegations;
+The motion is granted, and the purported appeal is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of October 2004.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 20th day of January 2005.
+Colette Dupuis-Beaulne, Translator
+Docket: 2004-1428(IT)I
+BETWEEN:
+ADRIEN D'ANJOU,
+Appellant
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the motions of Diane Roy (2004-1362(IT)I), Steve Tétreault (2004-1423(IT)I), and Réal D'Anjou (2004-1425(IT)I) at Sherbrooke, Quebec, on July 16, 2004.
+Before: The Honourable Justice Brent Paris
+Appearances:
+Agent for the Appellant:
+André L. Mercier
+Counsel for the Respondent:
+Emmanuelle Faulkner
+JUDGMENT
+Upon application by counsel for the respondent to have the purported appeal vacated for lack of jurisdiction;
+And upon the filing of the sworn statement of Alain Solliec;
+And upon the parties' allegations;
+The motion is granted, and the purported appeal is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of October 2004.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 20th day of January 2005.
+Colette Dupuis-Beaulne, Translator
+Citation: 2004TCC667
+Date: 20041008
+Docket: 2004-1362(IT)I
+BETWEEN:
+DIANE ROY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+2004-1423(IT)I
+STEVE TÉTREAULT,
+Appellant
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND
+2004-1425(IT)I
+RÉAL D'ANJOU,
+Appellant
+and
+HER MAJESTY THE QUEEN,
+Respondent
+AND
+2004-1428(IT)I
+ADRIEN D'ANJOU,
+Appellant
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] The respondent filed a motion to have the appeals vacated on the basis that the reassessments at issue do not establish any tax payable.
+[2] In support of the motion, for each of the appellants counsel for the respondent filed an affidavit from Alain Solliec, an officer at the Canada Customs and Revenue Agency's Litigation Office in Montreal. The affidavit contained the following statement:
+[TRANSLATION]
+The Minister of National Revenue issued "nil" reassessment notices for the 1999, 2000, and 2001 taxation years on December 16, 2002, for Réal D'Anjou, Diane Roy, and Steve Tétreault. With regard to Adrien D'Anjou, the Minister issued a "nil" reassessment notice on September 30, 2002, for the 2000 taxation year and on December 16, 2002, for the 2001 taxation year.
+[3] The agent for the appellants acknowledges that the balance of each assessment made by the Minister of National Revenue ("the Minister") is zero dollars, but he says that, when making those assessments, the Minister miscalculated an amount for the deduction granted to each appellant each year on account of foreign tax, and that error has a direct impact on the provincial tax payable by the appellants. The appellants wish to object to the Minister's calculations in order to obtain a reduction of the tax required by Quebec's Minister of Revenue.
+[4] In my opinion, this Court does not have the jurisdiction to hear these appeals. The case law clearly shows that "nil" assessments are not subject to appeal. In Canada v. Consumers' Gas Co., Hugessen J. of the Federal Court of Appeal noted the following:
+[...] What is put in issue on appeal to the courts under the Income Tax Act is the Minister's assessment. While the word `assessment' can bear two constructions, as being either the process by which tax is assessed or the product of that assessment, it seems to me clear, from a reading of section 152 to 177 of the Income Tax Act, that the word is there employed in the second sense only. This conclusion flows in particular from subsection 165(1) and from the well established principle that a taxpayer can neither object to nor appeal from a nil assessment.[1]
+[5] In this case, the appellants do not wish to object to the results of the calculations made to establish the tax payable; instead, they wish to object to the purported errors made by the Minister in his calculations. In this respect, Pratte J. of the Federal Court of Appeal said in Bowater Mersey Paper Co. v. Canada:[2]
+... The right of appeal that exists is from the result of the calculation made by the Minister, not from those calculations.
+[6] The appellants did not show that this rule does not apply in this case.
+[7] It seems to me that the appellants should seek to dispose of the matter regarding the amount of the deduction granted by Quebec's Minister of Revenue by appealing from the provincial assessment under the provisions of the Taxation Act. The calculations related to the amount of foreign tax paid by the appellants have an impact at the provincial level on the tax they are to pay.
+[8] If, as the agent for the appellants claims, Quebec's Minister of Revenue is bound by the calculations made by the federal minister to determine the deduction for foreign tax at the provincial level,[3] the appellants would need to be granted declaratory relief by a court having jurisdiction to decide on the fairness and accuracy of the calculation of the deduction granted by the federal minister. In my opinion, the appellants could then obtain relief under section 18 of the Federal Courts Act.[4] In any event, the Tax Court of Canada does not have the desired jurisdiction.
+[9] Thus, for all of these reasons, the respondent's motions are allowed, and the purported appeals are vacated.
+Signed at Ottawa, Canada, this 18th day of October 2004.
+"B. Paris"
+Paris J.
+Translation certified true
+on this 20th day of January 2005.
+Colette Dupuis-Beaulne, Translator
+CITATION:
+2004TCC667
+COURT DOCKET NO.:
+2004-1362(IT)I, 2004-1423(IT)I, 2004-1425(IT)I, and 2004-1428(IT)I
+STYLE OF CAUSE:
+Diane Roy, Steve Tétreault, Réal D'Anjou, Adrien D'Anjou, and HMQ
+PLACE OF HEARING:
+Sherbrooke, Quebec
+DATE OF HEARING:
+July 16, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+APPEARANCES:
+Agent for the Appellants:
+André L. Mercier
+Counsel for the Respondent:
+Emmanuelle Faulkner
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1987] 2 F.C. 60, page 67
+[2] [1987] F.C.J. No 427 (Q.L.)
+[3] Section 772.6 of Quebec's Taxation Act states that, when computing the taxpayer's provincial deduction, a taxpayer may deduct only the amount by which the total foreign tax paid exceeds the deduction granted in the computation of income at the federal level.
+[4] In Longley v. Canada (Minister of National Revenue - M.N.R) (B.C.C.A.) (1992), 66 B.C.L.R. (2d) 238, counsel for the Attorney General submitted that "a declaration related to the interpretation and application of s. 127 [of the Income Tax Act] is within the jurisdiction of the Federal Court under s. 18 of the Federal Court Act" (page 243).

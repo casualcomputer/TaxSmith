@@ -1,0 +1,195 @@
+---
+title: "Houle c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25463/index.do"
+last_modified: "2006-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 144"
+citation2: ""
+neutral_citation: "2006 CCI 144"
+decision_date: "2006-03-07"
+language: "fr"
+item_id: "25463"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2351
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:50:09.480000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1412ffc7791468ceb30e076be34cb3483f5be0fafb2ce386ce876439b8e161d8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Houle c. La Reine
+
+- Citation: 2006 CCI 144
+- Decision date: 2006-03-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2351, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Houle c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-03-07
+Référence neutre
+2006 CCI 144
+Numéro de dossier
+2001-3004(IT)G
+Juges et Officiers taxateurs
+Ronald D. Bell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001‑3004(IT)G
+ENTRE :
+LAWRENCE HOULE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 10 janvier 2006, à Winnipeg (Manitoba)
+Devant : L'honorable juge R. D. Bell
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocats de l'intimée :
+Me Gérald Chartier
+Me Jennifer Dundas
+________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1995, 1996, 1997, 1998 et 1999 sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 7e jour de mars 2006.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 19e jour de juin 2008.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI144
+Date : 20060307
+Dossier : 2001‑3004(IT)G
+ENTRE :
+LAWRENCE HOULE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bell
+QUESTIONS EN LITIGE
+[1] Les questions à trancher sont les suivantes :
+1. Les revenus d'emploi que l'appelant a reçus de l'établissement correctionnel Stony Mountain et des Aboriginal Legal Services de Winnipeg au cours des années d'imposition 1995, 1996, 1997, 1998 et 1999 étaient‑ils exonérés de l'impôt en vertu de l'alinéa 81(1)a) de la Loi de l'impôt sur le revenu (la « Loi ») au motif qu'ils constituaient des biens meubles d'un Indien situés sur une réserve au sens de l'article 87 de la Loi sur les Indiens?
+2. L'appelant a‑t‑il des droits ancestraux ou issus de traités protégés par l'article 35 de la Loi constitutionnelle de 1982 qui ont été violés par le ministre lorsque celui‑ci a imposé les revenus d'emploi reçus par l'appelant au cours de ces années d'imposition et, si oui, cette violation peut‑elle être justifiée?
+[2] L'intimée a déposé et signifié un avis de requête en vue d'obtenir ce qui suit :
+[TRADUCTION]
+1. une ordonnance en vertu de l'alinéa 58(1)b), de l'article 65 et du paragraphe 4(1) des Règles de la Cour canadienne de l'impôt (procédure générale) radiant une partie du paragraphe 7, les paragraphes 10 et 14 et une partie du paragraphe 15 de l'avis d'appel et les détails connexes;
+2. une ordonnance accordant toute autre réparation que la Cour estime juste;
+3. une ordonnance adjugeant les dépens de la requête à l'intimée quelle que soit l'issue de la cause.
+La requête est fondée sur ce qui suit :
+[TRADUCTION]
+Les paragraphes ne révèlent aucun moyen raisonnable d'appel étant donné qu'il est clair et évident que les droits ancestraux allégués, qui sont caractérisés par la négative, ne sont pas reconnus dans la jurisprudence.
+[3] L'article 19.2 de la Loi sur la Cour canadienne de l'impôt est libellé ainsi :
+(1) Les lois fédérales ou leurs textes d'application, dont la validité, l'applicabilité ou l'effet, sur le plan constitutionnel, est en cause devant la Cour ne peuvent être déclarés invalides, inapplicables ou sans effet, que si le procureur général du Canada et ceux des provinces ont été avisés conformément au paragraphe (2).
+(2) L'avis est, sauf ordonnance contraire de la Cour, signifié au moins dix jours avant la date à laquelle la question constitutionnelle qui en fait l'objet doit être débattue.
+(3) Les avis d'appel portant sur une question constitutionnelle sont à signifier au procureur général du Canada et à ceux des provinces.
+(4) Le procureur général à qui un avis visé aux paragraphes (1) ou (3) est signifié peut présenter une preuve et des observations à la Cour à l'égard de la question constitutionnelle en litige.
+(5) Le procureur général qui présente des observations est réputé partie à l'instance aux fins d'un appel portant sur la question constitutionnelle.
+Lors de l'audience, l'intimée a retiré l'avis de requête susmentionné.
+[4] L'avocat de l'intimée a dit qu'il avait envoyé une lettre à l'appelant le 19 décembre 2005 concernant l'avis approprié à donner au sujet de la question constitutionnelle et il a mentionné que l'appelant avait dit qu'il n'avait pas envoyé d'avis de ce genre.
+[5] L'avocat a fait référence à l'arrêt Bekker c. La Reine, 2004 CAF 186, 2004 D.T.C. 6404, où la Cour d'appel fédérale a mentionné ce qui suit :
+La Cour d'appel n'examinera pas une question de nature constitutionnelle sans qu'un avis ait été signifié au procureur général du Canada et à celui de chaque province [...]. Cet avis n'est pas qu'une simple formalité ou technicalité que la Cour peut ignorer ou à l'égard de laquelle elle peut accorder une dispense : voir La Reine c. Fisher (1996), 96 D.T.C. 6291, où la Cour d'appel fédérale a décidé que l'avis doit être donné dans tous les cas où la validité constitutionnelle ou l'applicabilité d'une loi est remise en question de la manière décrite à l'article 57, notamment dans une instance portée devant la Cour de l'impôt et régie par la procédure informelle. Effectivement, un juge ne peut de lui‑même soulever une question constitutionnelle sans donner un avis au procureur général : voir Renvoi relatif à la rémunération des juges de la Cour provinciale de l'Î.‑P.‑É., [1997] 3 R.C.S. 3[1].
+[6] L'avocat a ensuite dit que la présente affaire avait été tenue en suspens en attendant l'issue d'un autre appel, soit l'affaire Benoit c. Canada, 2003 CAF 236, qui concerne le Traité no 8. Dans le jugement de la Cour d'appel fédérale, ce traité a été décrit comme ayant été conclu en 1899 entre la Couronne et les Cris et Déné et comprenant la promesse que les signataires autochtones ne seraient assujettis à aucune taxe, à quelque moment ou pour quelque motif que ce soit. L'avocat a informé la Cour que la Cour d'appel fédérale avait décidé que rien n'était mentionné à ce sujet dans le traité et que la Cour suprême du Canada a rejeté un appel interjeté à l'encontre de la décision rendue par la Cour d'appel.
+[7] Après la réception d'une lettre de l'intimée dans laquelle elle demandait qu'une conférence de gestion de l'instance soit tenue pour examiner les actes de procédure et la procédure relativement à l'avis d'appel, une audience a été tenue à Winnipeg (Manitoba) le 19 juillet 2005. La Cour, dans une ordonnance datée du 25 juillet 2005, a déclaré que l'appelant était tenu de modifier son avis d'appel au plus tard le 19 août 2005, que l'intimée pouvait déposer une réponse modifiée à l'avis d'appel au plus tard le 19 septembre 2005 et que si l'une ou l'autre des parties :
+[TRADUCTION]
+[...] souhaite présenter une preuve historique orale lors de l'audience, les parties doivent signifier un résumé détaillé de la preuve historique orale à l'autre partie au plus tard le 30 septembre 2005.
+L'avis d'appel n'a pas été modifié. Il n'a donc pas été nécessaire de modifier la réponse à l'avis d'appel. De plus, les parties n'ont pas présenté de résumés de preuve historique orale comme la Cour l'avait ordonné.
+[8] En me fondant sur la jurisprudence précitée, j'ai conclu que l'appelant ne pouvait pas présenter d'arguments au sujet de la question susmentionnée relative à la Loi constitutionnelle. L'appelant a dit qu'il ne contestait pas cette conclusion.
+LES FAITS
+[9] L'appelant, qui a agi en personne, a dit qu'il fournissait des services de consultation. Il célébrait notamment des cérémonies traditionnelles, des cérémonies de guérison, des cérémonies de la suerie et des cérémonies de recherche de la vision à l'établissement correctionnel Stony Mountain (« Stony Mountain ») à Stony Mountain (Manitoba) et aux Aboriginal Ganootamaage Justice Services (« Aboriginal Services ») à Winnipeg. Il a dit qu'il avait été engagé par l'administration publique fédérale et qu'il était payé par elle, que les détenus autochtones à qui les services étaient fournis venaient de réserves au Manitoba et qu'ils représentaient environ 54 pour 100 des 600 détenus de Stony Mountain. Il a dit que Stony Mountain n'était pas situé dans une réserve.
+[10] L'appelant a dit qu'il n'était pas payé dans une réserve par l'administration publique fédérale, qu'il demeurait à Stony Mountain et à Winnipeg, à l'extérieur de réserves, et que le gouvernement ne retenait pas d'impôt sur les montants qui lui étaient versés.
+ANALYSE ET CONCLUSION
+[11] L'article 87 de la Loi sur les Indiens est libellé ainsi :
+87(1) Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l'article 83, les biens suivants sont exemptés de taxation :
+a) le droit d'un Indien ou d'une bande sur une réserve ou des terres cédées;
+b) les biens meubles d'un Indien ou d'une bande situés sur une réserve.
+(2) Nul Indien ou bande n'est assujetti à une taxation concernant la propriété, l'occupation, la possession ou l'usage d'un bien mentionné aux alinéas (1)a) ou b) ni autrement soumis à une taxation quant à l'un de ces biens.
+(3) Aucun impôt sur les successions, taxe d'héritage ou droit de succession n'est exigible à la mort d'un Indien en ce qui concerne un bien de cette nature ou la succession visant un tel bien, si ce dernier est transmis à un Indien, et il ne sera tenu compte d'aucun bien de cette nature en déterminant le droit payable, en vertu de la Loi fédérale sur les droits successoraux, chapitre 89 des Statuts révisés du Canada de 1952, ou l'impôt payable, en vertu de la Loi de l'impôt sur les biens transmis par décès, chapitre E‑9 des Statuts révisés du Canada de 1970, sur d'autres biens transmis à un Indien ou à l'égard de ces autres biens.
+[12] L'article 81 de la Loi de l'impôt sur le revenu est libellé ainsi :
+81(1) Ne sont pas inclus dans le calcul du revenu d'un contribuable pour une année d'imposition :
+a) une somme exonérée de l'impôt sur le revenu par toute autre loi fédérale, autre qu'un montant reçu ou à recevoir par un particulier qui est exonéré en vertu d'une disposition d'une convention ou d'un accord fiscal conclu avec un autre pays et qui a force de loi au Canada; [...]
+[13] Dans l'arrêt Mitchell c. Bande indienne Peguis, [1990] 2 R.C.S. 85, le juge La Forest a mentionné ce qui suit à la page 131 :
+En résumé, le dossier historique indique clairement que les art. 87 et 89 de la Loi sur les Indiens, auxquels s'applique la présomption de l'art. 90, font partie d'un ensemble législatif qui fait état d'une obligation envers les peuples autochtones, dont la Couronne a reconnu l'existence tout au moins depuis la signature de la Proclamation royale de 1763. Depuis ce temps, la Couronne a toujours reconnu qu'elle est tenue par l'honneur de protéger les Indiens de tous les efforts entrepris par des non‑Indiens pour les déposséder des biens qu'ils possèdent en tant qu'Indiens, c'est‑à‑dire leur territoire et les chatels qui y sont situés.
+Il est également important de souligner la conséquence de la conclusion que je viens de tirer. Le fait que la loi contemporaine, comme sa contrepartie historique, prenne tant de soin pour souligner que les exemptions de taxe et de saisie ne s'appliquent que dans le cas des biens personnels situés sur des réserves démontre que l'objet de la Loi n'est pas de remédier à la situation économiquement défavorable des Indiens en leur assurant le pouvoir d'acquérir, de posséder et d'aliéner des biens sur le marché à des conditions différentes de celles applicables à leurs concitoyens. Un examen des décisions portant sur ces articles confirme que les Indiens qui acquièrent et aliènent des biens situés à l'extérieur des terres réservées à leur usage le font aux mêmes conditions que tous les autres Canadiens.
+[Non souligné dans l'original.]
+Il a cité et approuvé le passage suivant de l'arrêt Leonard v. R. In Right of British Columbia (1984), 52 B.C.L.R. 389, à la p. 395 :
+[TRADUCTION]
+Il est raisonnable d'interpréter l'article en disant qu'une exemption de taxe sur un bien personnel d'un Indien sera restreinte à l'endroit où le possesseur de ce bien est censé l'avoir en sa possession, c'est‑à‑dire sur les terres qu'un Indien occupe en tant qu'Indien, la réserve. Les Indiens qui cèdent par bail leurs terres à des non‑Indiens renoncent au droit d'occupation et j'estime que, lorsqu'ils sont propriétaires de biens meubles ou en ont la possession sur ces terres cédées, ils ne sont pas dans une situation différente de celle de tout autre citoyen.
+[14] Le juge La Forest a ajouté ce qui suit, à la page 133 :
+[...] Mais je répéterais qu'en l'absence d'un lien discernable entre le bien en question et l'occupation des terres réservées par le propriétaire de ce bien, les protections et privilèges des art. 87 et 89 ne s'appliquent pas.
+J'attire l'attention sur ces décisions pour souligner encore une fois qu'il faut éviter d'accorder une portée trop large aux art. 87 et 89. Ces dispositions n'ont pas pour but d'accorder des privilèges aux Indiens à l'égard de tous les biens qu'ils peuvent acquérir et posséder, peu importe l'endroit où ils sont situés. Leur but est plutôt simplement de protéger des ingérences et des entraves de la société en général les droits de propriété des Indiens sur leurs terres réservées pour veiller à ce que ceux‑ci ne soient pas dépouillés de leurs droits. La Cour d'appel de l'Alberta [...] saisit l'essence du problème lorsqu'elle affirme [...] au sujet de l'art. 87 que : [TRADUCTION] « D'après ses termes, l'article a pour objet d'empêcher qu'on porte atteinte aux biens des Indiens sur une réserve ».
+[Non souligné dans l'original.]
+[15] Dans l'arrêt Williams c. Canada, [1992] 1 R.C.S. 877, les juges de la Cour suprême du Canada ont unanimement décrit la méthode suivante pour ce qui est de déterminer où se situe le revenu d'emploi :
+[...] Il faut d'abord identifier les divers facteurs de rattachement qui peuvent être pertinents. On doit ensuite analyser ces facteurs pour déterminer le poids à leur accorder afin d'identifier l'emplacement du bien, en tenant compte de trois choses : (1) l'objet de l'exemption prévue dans la Loi sur les Indiens, (2) le genre de bien en cause et (3) la nature de l'imposition de ce bien. Il s'agit donc de déterminer, relativement à chaque facteur de rattachement, le poids qui devrait lui être accordé pour décider si l'imposition en cause de ce type de bien représenterait une atteinte aux droits de l'Indien à titre d'Indien sur une réserve.
+Avant de mentionner ce qui précède, la Cour a dit ce qui suit :
+[...] il serait dangereux de soupeser les facteurs de rattachement de manière abstraite, indépendamment de l'objet de l'exemption prévue dans la Loi sur les Indiens. Un facteur de rattachement n'est pertinent que dans la mesure où il identifie l'emplacement du bien en question aux fins de la Loi sur les Indiens.
+[16] Dans l'arrêt Bell et al. c. La Reine, no A‑527‑98, 18 mai 2000, 2000 D.T.C. 6365 (C.A.F.), la Cour d'appel fédérale a mentionné ce qui suit au paragraphe 36 :
+Comme cette cour l'a dit dans l'arrêt Folster c. La Reine, 97 D.T.C. 5315, à la page 5323, dans le contexte d'un revenu d'emploi, le facteur de rattachement qui indique le mieux si les biens personnels en question font partie du « marché » se rapporte à la nature de l'emploi et aux circonstances y afférentes. En d'autres termes, le caractère de ce type particulier de bien ne peut pas être apprécié pour l'application de l'exonération d'impôt prévue à l'article 87, « sans se référer aux circonstances dans lesquelles il a été gagné » comme la résidence du contribuable, l'endroit où le travail est effectué et la nature de l'avantage pour la réserve : [...]
+[17] Dans l'arrêt Desnomie c. Canada, no A‑533‑98, 19 avril 2000, [2000] A.C.F. no 528 (QL), la Cour d'appel fédérale a confirmé la décision de la Cour de l'impôt selon laquelle les facteurs de rattachement pertinents dont il faut tenir compte pour le revenu d'emploi sont les suivants :
+(1) la résidence de l'employeur;
+(2) la résidence de l'employé;
+(3) le lieu où le travail a été accompli;
+(4) le lieu où l'employé était payé;
+(5) la nature des services fournis ou les circonstances particulières dans lesquelles ils ont été fournis.
+Dans l'arrêt Bell, la Cour a noté que le juge de première instance avait dit que la question sous‑jacente à laquelle il fallait répondre était de savoir :
+[...] si « l'imposition de ce revenu aurait une incidence négative sur l'intérêt matériel détenu par l'appelant à titre d'Indien ou si cela servirait simplement à conférer un avantage économique non offert aux autres ».
+[18] Compte tenu des arrêts et des critères susmentionnés, l'appelant ne peut pas avoir gain de cause. Il n'habitait pas une réserve, son employeur n'était pas situé dans une réserve, Stony Mountain, un pénitencier, n'est pas situé dans une réserve. Le travail de l'appelant était accompli à Stony Mountain et aux Aboriginal Services, pas dans une réserve. De plus, le compte bancaire de l'appelant n'était pas situé dans une réserve et l'appelant n'était pas payé dans une réserve.
+[19] L'appelant était très émotif à la fin de l'audience, quand il s'est aperçu qu'il se pouvait qu'il n'ait pas gain de cause. Même si la Cour n'a été saisie d'aucun élément de preuve concernant tout avis que l'appelant aurait reçu au sujet du caractère non imposable de son revenu, ce dernier semblait s'attendre à n'avoir aucun montant d'impôt à payer à l'égard de ses revenus d'emploi. Cependant, il ne peut tout simplement pas satisfaire au critère requis pour avoir droit à une exemption fiscale. Dans les circonstances, s'il cherche à invoquer ce qu'on appelle le « Dossier Équité » en application de l'article 220 de la Loi, compte tenu de la situation, du montant important d'impôt à payer et des années visées par la cotisation faisant l'objet de l'appel, je recommande que le ministre du Revenu national renonce aux pénalités et aux intérêts, dont l'imposition semble causer de grandes difficultés pour l'appelant.
+[20] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 7e jour de mars 2006.
+« R. D. Bell »
+Le juge Bell
+Traduction certifiée conforme
+ce 19e jour de juin 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI144
+NO DU DOSSIER DE LA COUR : 2001‑3004(IT)G
+INTITULÉ : Lawrence Houle c. La Reine
+LIEU DE L'AUDIENCE : Winnipeg (Manitoba)
+DATE DE L'AUDIENCE : Le 10 janvier 2006
+MOTIFS DU JUGEMENT : L'honorable juge R. D. Bell
+DATE DU JUGEMENT : Le 7 mars 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui‑même
+Avocats de l'intimée :
+Me Gerald Chartier
+Me Jennifer Dundas
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Auparavant, le contenu de l'article 19.2 de la Loi sur la Cour canadienne de l'impôt figurait dans l'article 57 de la Loi sur la Cour fédérale.

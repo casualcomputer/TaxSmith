@@ -1,0 +1,134 @@
+---
+title: "Papadionysiou c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25610/index.do"
+last_modified: "2003-04-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 262"
+citation2: ""
+neutral_citation: "2003 CCI 262"
+decision_date: "2003-04-11"
+language: "fr"
+item_id: "25610"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2418
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:18:44.636000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6c0d6a21d812f53066b1be44b9da40837c378d92d5197ee4110df9d04734712d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Papadionysiou c. La Reine
+
+- Citation: 2003 CCI 262
+- Decision date: 2003-04-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2418, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Papadionysiou c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-11
+Référence neutre
+2003 CCI 262
+Numéro de dossier
+2002-4494(IT)APP
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002‑4494(IT)APP
+ENTRE :
+GEORGE PAPADIONYSIOU,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue le 25 mars 2003 à Ottawa (Ontario)
+Devant : L'honorable juge Lucie Lamarre
+Comparutions
+Représentant du requérant :
+Allan Scope
+Avocat de l'intimée :
+Me Tony Chambers
+____________________________________________________________________
+ORDONNANCE
+Après avoir entendu la demande faite en vue d’obtenir une ordonnance prorogeant le délai dans lequel les appels à l’encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d’imposition 1998 et 1999 peuvent être interjetés;
+Et vu les allégations des parties;
+La demande est rejetée.
+Signé à Ottawa, Canada, ce 11e jour d'avril 2003.
+« Lucie Lamarre »
+J.C.C.I.
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Liette Girard, traductrice
+Référence : 2003CCI262
+Date : 20030411
+Dossier : 2002‑4494(IT)APP
+ENTRE :
+GEORGE PAPADIONYSIOU,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Lamarre, C.C.I.
+[1] La demande de prorogation du délai dans lequel le requérant peut déposer auprès de la Cour un Avis d’appel visant les nouvelles cotisations datées du 17 octobre 2000 établies par le ministre du Revenu national (le « ministre ») à l’égard des années d’imposition 1998 et 1999 du requérant est rejetée.
+[2] Le ministre a d’abord établi une cotisation à l’égard des déclarations de revenus du requérant pour les années d’imposition 1998 et 1999 au moyen d’Avis de cotisation datés du 17 mai 1999 et du 22 juin 2000, respectivement, et postés au requérant à ces dates.
+[3] Le ministre a établi une nouvelle cotisation à l’égard des déclarations de revenus du requérant pour les années d’imposition 1998 et 1999 au moyen d’Avis de nouvelle cotisation datés du 17 octobre 2000 et postés au requérant à cette date.
+[4] Le 15 décembre 2000, le requérant a signifié au ministre un Avis d’opposition à l’égard des cotisations du 17 octobre 2000 susmentionnées.
+[5] Par Avis de ratification daté du 29 octobre 2001 et envoyé au requérant cette même date, le ministre a ratifié lesdites nouvelles cotisations.
+[6] Le 21 novembre 2002, le représentant du requérant a déposé auprès de la Cour un Avis d’appel dans lequel il demandait d’obtenir une ordonnance prorogeant le délai dans lequel l’appel pouvait être interjeté.
+[7] Le délai pour déposer un appel est indiqué au paragraphe 169(1) de la Loi de l'impôt sur le revenu (« Loi ») :
+ARTICLE 169 : Appel.
+(1) Lorsqu'un contribuable a signifié un Avis d'opposition à une cotisation, prévu à l'article 165, il peut interjeter appel auprès de la Cour canadienne de l'impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l'expiration des 90 jours qui suivent la signification de l'Avis d'opposition sans que le ministre ait notifié au contribuable le fait qu'il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l'expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l'article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[8] Un contribuable peut demander la prorogation du délai pour interjeter un appel si certaines conditions sont réunies, comme on peut le constater à la lecture des paragraphes 167(1) et 167(5) de la Loi :
+ARTICLE 167 : Prorogation du délai d'appel.
+(1) Le contribuable qui n'a pas interjeté appel en application de l'article 169 dans le délai imparti peut présenter à la Cour canadienne de l'impôt une demande de prorogation du délai pour interjeter appel. La Cour peut se faire droit à la demande et imposer les conditions qu'elle estime justes.
+4167(5)3
+(5) Acceptation de la demande. Il n'est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée dans l'année suivant l'expiration du délai imparti en vertu de l'article 169 pour interjeter appel;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour interjeter appel, il n'a pu agir ni charger quelqu'un d'agir en son nom, ou il avait véritablement l'intention d'interjeter appel,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l'espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient,
+(iv) l'appel est raisonnablement fondé.
+[9] Même si le représentant du requérant, M. Allan Scope, C.G.A., était présent pour expliquer pourquoi lui‑même n’a pas déposé l’Avis d’appel à temps, l’appelant n’était pas en Cour pour expliquer pourquoi il n’a pu agir ni charger quelqu'un d’autre que M. Scope d'agir en son nom dans le délai par ailleurs imparti par l’article 169 de la Loi pour interjeter appel à l’encontre des nouvelles cotisations en litige, comme l’exige le sous‑alinéa 167(5)b)(i) de la Loi.
+[10] M. Scope a indiqué dans son témoignage qu’il combattait le cancer et qu’il allait commencer sous peu des traitements de chimiothérapie au moment où le requérant a reçu l’Avis de ratification daté du 29 octobre 2001 ratifiant les nouvelles cotisations du 17 octobre 2000. À ce moment, le requérant a informé M. Scope qu’il avait reçu l’Avis de ratification, mais il ne semble pas que le requérant, malgré le fait qu’il connaissait les problèmes de santé de M. Scope, ait fait un suivi ou qu’il ait chargé quelqu'un de faire un suivi de ses problèmes fiscaux. Ce n’est que le 21 novembre 2002, que M. Scope a finalement déposé un Avis d’appel accompagné d’une demande de prorogation de délai. Le délai pour déposer un Avis d’appel a expiré le 27 janvier 2002.
+[11] Le témoignage seul de M. Scope ne suffisait pas pour démontrer que le requérant avait une intention véritable d’interjeter appel à l’encontre des nouvelles cotisations en litige dans le délai imparti par l’article 169 de la Loi, comme l’exige l’alinéa 167(5)b)(i) de la Loi, ou que la présente demande a été effectuée dès que les circonstances le permettaient, comme l’exige le sous‑alinéa 167(5)b)(iii) de la Loi.
+[12] Bien que M. Scope ait dûment avisé le requérant de la date et de l’heure de l’audition de la présente demande de prorogation du délai pour déposer un Avis d’appel, ce dernier n’était pas présent et n’a pas signé d’affidavit expliquant pourquoi il n’a pas respecter les conditions liées au délai imposées par la Loi en ce qui concerne le dépôt d’un Avis d’appel.
+[13] Pour ces raisons, je n’ai d’autre choix que de rejeter la demande.
+Signé à Ottawa, Canada, ce 11e jour d'avril 2003.
+« Lucie Lamarre »
+J.C.C.I.
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Liette Girard, traductrice

@@ -1,0 +1,172 @@
+---
+title: "Merrins v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27085/index.do"
+last_modified: "2006-06-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 281"
+citation2: ""
+neutral_citation: "2006 TCC 281"
+decision_date: "2006-06-27"
+language: "en"
+item_id: "27085"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 955
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:59:11.934000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2f6a586d7c84ba6c58c4a8172c1a93ee989193067d0065817fade0208cac804f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Merrins v. The Queen
+
+- Citation: 2006 TCC 281
+- Decision date: 2006-06-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 955, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Merrins v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-27
+Neutral citation
+2006 TCC 281
+File numbers
+2005-2588(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2588(IT)I
+BETWEEN:
+HUGH MERRINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+THE HONOURABLE JUSTICE BRENT PARIS
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 27th day of June 2006.
+"B. Paris"
+Paris J.
+Citation: 2006TCC281
+Date: 20060627
+Docket: 2005-2588(IT)I
+BETWEEN:
+HUGH MERRINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] The Appellant is appealing from reassessments of his 2002 and 2003 taxation years. The appeals proceeded on the basis of written submissions without the appearance of the parties.
+Preliminary procedural issue
+[2] The Appellant strenuously objected to Respondent's counsel including certain materials in his written submissions. Those materials consisted of a copy of the pleadings in this case and an affidavit of an officer of the Canada Revenue Agency attaching a copy of the Appellant's 2002 and 2003 tax returns and the relevant Notices of Reassessment, Objection and Confirmation.
+[3] I find that there is nothing improper in the Respondent's counsel referring to these materials. The pleadings, of course, form part of the Court record, and the affidavit material is admissible under section 244(9) of the Income Tax Act (the "Act")[1], which provides:
+An affidavit of an officer of the Canada Revenue Agency, sworn before a commissioner or other person authorized to take affidavits, setting out that the officer has charge of the appropriate records and that a document annexed to the affidavit is a document or true copy of a document, or a print-out of an electronic document, made by or on behalf of the Minister or a person exercising a power of the Minister or by or on behalf of a taxpayer, is evidence of the nature and contents of the document.
+Background
+[4] Throughout the years in issue the Appellant was a resident of Irelandand received income from three sources, all of which originated in Canada: Old Age Security and Canada Pension Plan payments and superannuation benefits. Under the Canada-Ireland Income Tax Agreement, 1967, S.C. 1966-1967, Part II, c. 75 (the "Treaty"), the latter two sources were exempt from tax.
+[5] The Appellant received the following amounts of income in 2002 and 2003:
+2002 2003
+Old Age Security payments - $5,335.00 $5,457.00
+Canada Pension Plan payments - 6,502.00 6,606.00
+Superannuation benefits - 9,756.00 9,912.00
+Total $21,593.00 $21,976.00
+[6] In filing his return, the Appellant elected under section 217(2) to file a tax return under Part I of the Act, rather than having his tax liability calculated in accordance with Part XIII of the Act. Upon that basis the Minister reassessed the Appellant for tax of $393.10 for 2002 and $402.40 for 2003.
+Issues
+[7] The Appellant claims that these reassessments contravene the provisions of the treaty because the Minister has included his CPP and superannuation benefits in the calculation of his tax payable, whereas those amounts are exempt from taxation under the Treaty. He also alleges that the Minister failed to allow him a pension credit under subsection 118(3) of the Act against tax otherwise payable.
+[8] The Appellant raised these same issues in two previous appeals to this Court, first by in respect of his 1998 taxation year[2] and then in respect of his 2000 and 2001 taxation years[3]. Both of these appeals were dismissed. The Appellant appealed the judgment in Merrins #1 to the Federal Court of Appeal. That appeal was also dismissed[4]. The Appellant has also filed an appeal from the judgment in Merrins #2 which is presently pending in the F.C.A.
+[9] There are no material differences between the facts as they relate to the Appellant's 2002 and 2003 taxation years and the facts upon which the earlier appeals were decided. The Appellant's sources of income were the same in all of the years, and the reassessment of the Appellant's tax was made in the same manner for each year, as set out below. However, given that these appeals involve separate taxation years, an independent review of the facts and issues is required.
+Analysis
+Subsection 217(2) election
+[10] A non-resident who receives Canadian-source benefits ("Canadian benefits") such as those received by the Appellant in this case has two options for paying tax under the Act.
+[11] The first is to pay withholding tax under Part XIII at a flat rate of 25% on that income. (In this case the rate of withholding tax would have been reduced to 15% pursuant to the Treaty and would have only been payable on income that was not exempted from taxation by the Treaty.) No deductions from income and no tax credits are allowed in calculating the withholding tax[5]. In the Appellant's case the Part XIII tax payable would have been $800 for 2002 and $825 for 2003.
+[12] Alternatively, a non-resident can elect under subsection 217(2) to calculate his tax payable in accordance with Part I of the Act. Non-resident taxpayers typically make this election where their tax liability will be lower under Part I because of the deductions and credits available under that Part. This was the option chosen by the Appellant.
+[13] Pursuant to Part I a non-resident is ordinarily liable for tax on his or her taxable income earned in Canada ("TIEC") which is calculated in accordance with Division D of Part I. However, where the non-resident elects under subsection 217(2), a non-resident's TIEC must be determined under subsection 217(3). Under paragraph 217(3)(b), the non-resident's TIEC is the greater of two amounts:
+(i) his TIEC calculated under Division D plus the amount of his Canadian benefits, less any deductions that would be applicable to those benefits under Division D (subparagraph 217(3)(b)(i));
+(ii) his net world income (subparagraph 217(3)(b)(ii)).
+[14] In the Appellant's case, the first amount equals $5,335 for 2002 and $5,457 for 2003. This is the amount of the Appellant's Canadian benefits, less a deduction under subparagraph 110(1)(f)(i) of Division D for income which is exempted from taxation under an agreement or convention with another country (i.e. the Appellant's CPP and superannuation income.)
+[15] The second amount equals $21,594 for 2002 and $21,976 for 2003, which was the Appellant's net world income.
+[16] Therefore, the Appellant's TIEC according to paragraph 217(3)(b) was $21,594 for 2002 and $21,976 for 2003, being the greater of the first and second amounts above for each year.
+[17] The Appellant argues that the Minister erred in including all of his income in his TIEC since, under the Treaty, his CPP and superannuation benefits were exempt from tax. He argues that his tax payable can only be based on his non-exempt income each year.
+[18] This argument cannot be sustained for the reasons set out by Rip, T.C.C.J. in Merrins #1 at paragraphs 26 and 27:
+...the inclusion of treaty exempt income in the calculation of tax under a subsection 217(2) election does not increase the tax payable by the appellant because of the tax exemption provided in subsection 217(6)...
+...The intent of subsection 217(2) of the Act is to allow a non-resident to elect to be taxed under Part I rather than Part XIII of the Act. This allows the non-resident access to non-refundable tax credits in section 118 which may reduce their tax payable. In calculating the tax payable under section 217 the taxpayers "net world income" is the starting point. This would include income that is normally not taxable under Part XIII or a tax treaty. However, subsection 217(6) provides a special tax exemption, which in the present appeal would exclude from tax payable, tax calculated under section 217 on the appellant's treaty exempt income. What a section 217 election accomplishes is in keeping with the intent of the Canada-Ireland Treaty, as in effect it does not tax treaty exempt income.
+[19] In this case, the Minister allowed the Appellant a tax credit of $1,195 for 2002 and $1,217 for 2003 under subsection 217(6). The credit represents 75.29% of tax payable in 2002 and 75.17% of tax payable in 2003. These are the same percentages that the Appellant's treaty-exempt income was of his net world income in those years. Thus it can be seen that the credit excludes from tax payable the tax attributable to the Appellant's treaty exempt income.
+[20] The decision in Merrins #1 was upheld by the Federal Court of Appeal. The Court stated:
+2 We are well satisfied that the applicant has had the full benefit of the Canada-Ireland Income Tax Agreement Act (1967, Part II, c. 75 S.C. 1966-67) (the Treaty).
+3 While the applicant's Treaty exempt pension income is included in the calculation of his tax payable; section 217 gives Mr. Merrinsthe benefit of Part non-refundable tax credits as well as a special tax credit equal to the tax payable in respect to the Treaty exempt income. In the end he is taxed at a lower rate on his non-treaty exempt income.
+[21] Subsequently, in Merrins #2, Bowman C.J.T.C.C. wrote:
+35 In both of the appellant's 2000 and 2001 taxation years the section 217 election allowed him to benefit from non-refundable tax credits that would not otherwise be available to him and as a result his tax liability was reduced. The effect of bringing the appellant's treaty-exempt amounts into income was merely to increase the rate of tax levied on his taxable income. The special tax credit provided for under subsection 217(6) fully offset that portion of the tax liability which was attributable to the treaty-exempt income. Accordingly, the appellant has received the full benefit available under the Treaty.[6]
+[22] In the years under appeal the Appellant has again received the full benefit of the Treaty, having been allowed the special credit under subsection 217(6), as well as his non-refundable tax credits under section 118 of Division D.
+Pension Credit
+[23] The Appellant also argues that the Minister erred in not allowing him a pension credit under subsection 118(3) of the Act in the years under appeal.
+[24] I find that the Appellant was not entitled to a pension credit because none of his income qualified as "pension income" as defined in subsection 118(8). Only pension income is eligible for the pension credit.
+[25] OAS and CPP are specifically excluded from the definition of "pension income" by paragraphs 118(8)(a) and (b) which read:
+For the purposes of subsection (3), "pension income" and "qualified pension income" received by an individual do not include any amount that is
+(a) the amount of a pension or supplement under the Old Age Security Act or of any similar payment under a law of a province;
+(b) the amount of a benefit under the Canada Pension Plan or under a provincial pension plan as defined in section 3 of that Act;
+[26] The Appellant's superannuation income is excluded from "pension income" by virtue of paragraph 118(8)(d), the relevant portions of which read:
+For the purposes of subsection (3), "pension income" and "qualified pension income" received by an individual do not include any amount that is
+(d) the amount, if any, by which
+(i) an amount required to be included in computing the individual's income for the year
+exceeds
+(ii) the amount, if any, by which the amount referred to in subparagraph (i) exceeds the total of all amounts deducted by the individual for the year in respect of that amount;
+[27] The Appellant deducted the amount of $16,258.92 in 2002 and $16,519.08 in 2003[7] under subparagraph 110(1)(f)(i) which amounts represented his superannuation and CPP income in each year.
+[28] In Merrins #1, Rip, T.C.J. noted:
+At first blush it appears as though the appellant is being improperly denied the pension credit with respect to his superannuation income because the deduction of his superannuation income (claimed on line 256 of his tax return) does not figure into the calculation of the appellant's tax payable in schedule 1 of his tax return. However, pursuant to subsection 217(6) of the Act the appellant received a tax adjustment of $1,015.00. The tax adjustment effectively credits tax calculated under section 217 of the Act on treaty exempt income.
+[29] In effect, the deduction taken by the Appellant for his treaty exempt income does not affect his TIEC, but does enter into the calculation of his subsection 217(6) credit which fully offset the tax attributable to the Appellant's treaty exempt income. Therefore, since the Appellant is not paying tax on his superannuation income, it is reasonable that he cannot claim a pension credit with respect to it.
+[30] For all of these reasons, the appeals are dismissed.
+Signed at Ottawa, Canada, this 27th day of June 2006.
+"B. Paris"
+Paris J.
+CITATION: 2006TCC281
+COURT FILE NO.: 2005-2588(IT)I
+STYLE OF CAUSE: HUGH MERRINS AND HER MAJESTY THE QUEEN
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: June 27, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michael Ezri
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. 1985 (5th Supp.), c. 1
+[2] Merrins v. The Queen, TCJ No. 336 ("Merrins #1")
+[3] Merrins v. The Queen 2005 TCC 470 (Merrins #2).
+[4] Merrins v. The Queen 2003 FCA 147
+[5] See subsection 214(1) of the Act. See also Merrins #1 at paragraphs 6 to 10
+[6] At paragraph 35
+[7] At line 256 of his returns.

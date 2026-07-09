@@ -1,0 +1,222 @@
+---
+title: "Marco Polo Travel Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26628/index.do"
+last_modified: "2003-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 936"
+citation2: ""
+neutral_citation: "2003 CCI 936"
+decision_date: "2003-12-19"
+language: "fr"
+item_id: "26628"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3636
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:23:16.232000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3f414ef912b634941b830f2063d70e3aaed153df39d86c5ca56ac6e011993d61"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marco Polo Travel Ltd. v. The Queen
+
+- Citation: 2003 CCI 936
+- Decision date: 2003-12-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3636, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marco Polo Travel Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-12-19
+Référence neutre
+2003 CCI 936
+Numéro de dossier
+2003-1918(GST)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-1918(GST)I
+ENTRE :
+MARCO POLO TRAVEL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 11 décembre 2003 à Vancouver (Colombie-Britannique)
+Par : L'honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l'appelante :
+Jackie Ma
+Avocate de l'intimée :
+Me Stacey M. Repas
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 11 décembre 2002 et qui porte le numéro 11BU-118652742, pour la période du 1er décembre 1999 au 31 décembre 2001, est rejeté.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2003.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 3e jour de mai 2004.
+Nancy Bouchard, traductrice
+Référence : 2003CCI936
+Date : 20031219
+Dossier : 2003-1918(GST)I
+ENTRE :
+MARCO POLO TRAVEL LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] Le 11 décembre 2002, le ministre du Revenu national (le « ministre » ) a établi une cotisation à l'égard de l'appelante, Marco Polo Travel Ltd. ( « Marco Polo » ), concernant des déclarations de taxe sur les produits et services ( « TPS » ) pour la période du 1er décembre 1999 au 31 décembre 2001, au motif que Marco Polo avait déclaré en moins 63 259,46 $ de TPS. Cette sous-évaluation découlait de l'application par le ministre de l'article 163 de la Loi sur la taxe d'accise (la Loi) pour inclure, dans la partie taxable du prix d'un voyage organisé de Marco Polo à Las Vegas, environ 47 p. 100 de la marge brute ou du ratio de marge bénéficiaire de Marco Polo. Le ministre a obtenu le résultat de 47 p. 100 en calculant la moyenne du coût des tarifs aériens taxables des voyages organisés de Marco Polo à Las Vegas, par rapport au coût total des tarifs aériens et des frais d'hébergement non taxables aux É.-U. M. Ma, propriétaire de Marco Polo, a affirmé que la marge brute (le ratio de marge bénéficiaire) ne se rapportait nullement aux tarifs aériens, mais uniquement aux hôtels américains, et par conséquent, qu'elle ne devrait être ni imputable à la partie taxable du tarif aérien dans le prix des voyages organisés ni soumise à la TPS.
+[2] Bien que M. Ma présente une observation intéressante et effectivement logique, celle-ci ne concorde pas avec mon interprétation de l'article 163, et son appel doit donc être rejeté.
+[3] Marco Polo pratique la vente en gros de voyages organisés de Vancouver à Las Vegas. Sa clientèle se compose d'agents de voyages. Marco Polo fait affaire avec une quinzaine d'hôtels de trois à cinq étoiles à Las Vegas, grâce auxquels elle organise ses voyages. À l'époque qui nous intéresse, Marco Polo avait un arrangement avec Alaska Airlines concernant des vols de retour Vancouver - Las Vegas à un certain prix. M. Ma a présenté une feuille de travail interne de l'entreprise (même si elle visait l'année 2003, il a déclaré que celle de 2001 aurait suivi la même présentation), qui montrait le coût standard des billets d'avion et le coût de chaque hôtel pour des séjours de durées différentes. À titre d'exemple, voici la première ligne du forfait de l'hôtel Aladdin[1] :
+[TRADUCTION]
+3 NUITS
+ALADDIN RESORT
+PRIX RECTIFIÉS
+DÉP.
+RETOUR
+CH.
+VOL
+HTL et
+VOL
+Marge brute
+LITS JUM.
+PERS. SUPP.
+SIMPLE
+TRIPLE
+QUAD.
+1 mars
+5
+4 mars
+1
+268
+250
+518
+40
+558
+499
+678
+648
+638
+[4] La chambre était estimée à 268 $, le tarif aérien à 250 $, la marge de Marco Polo à 40 $ et le prix définitif à l'agent, à 678 $ : les 120 $ supplémentaires représentaient la commission estimative de l'agent.
+[5] M. Ma a témoigné que l'organisateur de voyages en groupe n'avait aucune possibilité de bénéfice sur la partie du tarif aérien du forfait. En fait, selon M. Ma, l'industrie du voyage a changé si radicalement depuis quelques années que le client peut sans doute trouver un meilleur tarif aérien dans Internet que tout ce que Marco Polo peut offrir. La commission sur les tarifs aériens n'existe plus. M. Ma a soutenu en outre que l'attrait des voyages organisés de Marco Polo n'a rien à voir avec le tarif aérien et qu'il s'agit plutôt d'avoir un bon hôtel à Las Vegas, à bon prix. Il a laissé entendre que dans l'exemple de l'hôtel Aladdin ci-dessus, si l'on vendait le forfait hôtelier seulement, sans le tarif aérien, la marge brute resterait de 40 $. M. Lyle Ralph Ware, vérificateur de la TPS à l'Agence des douanes et du revenu du Canada (ADRC), a d'abord établi la cotisation de Marco Polo en considérant simplement le rapport tarif vol-hôtel, en ce qui concernait un seul hôtel. En appel, il a fait la moyenne des coûts des 15 hôtels, par comparaison avec les tarifs aériens, pour obtenir un pourcentage de 47,21 p. 100 (voir l'annexe « A » )[2]. M. Ma a signifié clairement qu'il n'était pas d'accord avec ce pourcentage parce qu'il ne reflète pas exactement le pourcentage réel pour chaque hôtel, en tenant compte du volume de voyages organisés. Ce qui est plus important, M. Ma a soutenu que 0 p. 100 est le taux qui s'applique à la marge brute. Il était outré que M. Ware invoque le Mémorandum sur la TPS no 27.1, car ce mémorandum a été publié en 1995, avant les profonds changements qui sont survenus dans l'industrie, à une époque où un organisateur de voyages comme Marco Polo pouvait tirer un certain bénéfice de la partie du tarif aérien du voyage. En 2001, ce n'était plus possible.
+[6] L'observation de M. Ma consiste en ce que le gouvernement devrait exercer un pouvoir discrétionnaire pour effectuer une répartition raisonnable de la marge brute entre les parties taxable et non taxable des voyages organisés, d'après les réalités de l'industrie du voyage, réalités selon lesquelles l'organisateur ne fait pas d'argent sur la partie du tarif aérien.
+[7] Il est nécessaire de disséquer les dispositions du paragraphe 163(1) pour déterminer si l'on peut effectivement appliquer le caractère raisonnable à la répartition de la marge brute de Marco Polo. La disposition pertinente est l'article 163 :
+163(1) Pour le calcul de la taxe payable relativement aux parties d'un voyage organisé, la contrepartie de la fourniture de la partie taxable au provincial du voyage ou de sa partie non taxable au provincial, selon le cas, (appelée « partie déterminée » au présent paragraphe) est réputée égale au montant suivant :
+a) si la fourniture est effectuée par le premier fournisseur du voyage, le résultat du calcul suivant :
+A x B
+où :
+A représente le pourcentage taxable relativement à la partie déterminée au moment de la fourniture,
+B la contrepartie totale de l'ensemble du voyage;
+b) si la fourniture est effectuée par une autre personne, le résultat du calcul suivant :
+A x B
+où :
+A représente le pourcentage exprimé par le rapport entre la contrepartie de la fourniture, au profit de la personne, de la partie déterminée et la contrepartie totale payée ou payable par la personne pour l'ensemble du voyage,
+B la contrepartie totale payée ou payable à la personne pour l'ensemble du voyage.
+163(3) Les définitions qui suivent s'appliquent au présent article et à la partie VI de l'annexe VI.
+« partie taxable » Biens et services compris dans un voyage organisé et au titre desquels la taxe prévue à la section II serait payable s'ils étaient fournis autrement que dans le cadre d'un tel voyage.
+« pourcentage de référence » À un moment donné, quant à la partie taxable au provincial d'un voyage organisé ou à sa partie non taxable au provincial, selon le cas, (appelée « partie déterminée » dans la présente définition), le résultat du calcul suivant :
+A/B
+où :
+A représente la partie du montant (appelé « prix de référence » dans la présente définition) que le premier fournisseur du voyage exigerait pour la fourniture à ce moment qu'il est alors raisonnable d'imputer à la partie déterminée;
+B le prix de référence.
+« pourcentage taxable » À un moment donné, quant à la partie taxable au provincial d'un voyage organisé ou à sa partie non taxable au provincial, selon le cas, (appelée « partie déterminée » dans la présente définition), l'un des pourcentages suivants :
+a) si l'écart entre le pourcentage de référence à ce moment quant à la partie déterminée et le pourcentage taxable initial quant à cette partie ou le pourcentage de référence à un moment antérieur quant à cette partie est de plus de 10 points, le pourcentage de référence au moment donné quant à cette partie;
+b) sinon, le pourcentage taxable initial quant à la partie déterminée.
+« voyage organisé » Ensemble de services, ou de biens et de services, qui comprend le service de transport, le logement, le droit d'utiliser un terrain de camping ou les services d'un guide ou d'un interprète, si les biens et les services sont fournis en bloc pour un prix forfaitaire.
+[8] Le paragraphe 163(1) est l'article déterminatif applicable : selon ce paragraphe, la partie taxable de l'ensemble du voyage organisé est réputée être la contrepartie totale payée pour le voyage organisé, multipliée par ce que l'on appelle le pourcentage taxable. À première vue, cette disposition déterminative ne permet aucune détermination d'un caractère raisonnable : c'est strictement un calcul mathématique. Voyons maintenant la définition de un des éléments du calcul, le pourcentage taxable. À moins d'un changement considérable du pourcentage, ce que je ne traiterai pas en profondeur pour le moment par souci de simplicité, le pourcentage taxable sera le pourcentage taxable initial. Le pourcentage taxable initial correspond à la partie du montant devant être facturé par l'organisateur de voyages qui est raisonnablement imputable à la partie taxable, divisée par le prix initial. Il ne fait aucun doute qu'il est raisonnable d'imputer le coût des tarifs aériens comme étant la partie taxable. Voilà la mesure dans laquelle se détermine le caractère raisonnable. Cette définition n'est pas formulée en fonction d'une répartition raisonnable de la marge brute entre taxable ou non taxable. Elle est formulée en fonction de ce qui constitue raisonnablement la partie taxable, et ce qui constitue raisonnablement la partie taxable est le tarif aérien. C'est ici, je crois, que M. Ma interprète à tort les dispositions. Pour accepter l'interprétation de M. Ma, il faudrait admettre que le « prix initial » inclut la marge brute. Le Mémorandum sur la TPS no 27.1 laisse supposer que le prix initial doit être interprété seulement comme le coût du tarif aérien et de l'hôtel. Je crois que c'est l'interprétation correcte.
+[9] Il est utile d'examiner la signification de « prix de référence » contenue dans la définition de « pourcentage de référence » . Le prix de référence n'est pas clairement expliqué dans la définition. Cependant, il est permis de supposer que l'emploi du mot « référence » indique un point de départ, soit un certain montant avant les ajouts. Dans le scénario des voyages organisés de Marco Polo, cela semblerait indiquer le coût des tarifs aériens et des hôtels, et rien d'autre. Pour illustrer cela par quelques chiffres, je me servirai de l'exemple donné dans le Mémorandum sur la TPS no 27.1. Supposons le forfait Las Vegas suivant :
+Vol aller retour Vancouver - Las Vegas
+200 $
+Hôtel Aladdin (3 nuits)
+300 $
+Ratio de marge bénéficiaire (marge brute)
+50 $
+Le prix de référence de l'exemple serait de 500 $ et le pourcentage de référence serait donc établi à 40 p. 100, en divisant 200 par 500. Cependant, c'est le pourcentage taxable, et non le pourcentage de référence, qui forme la définition employée dans l'article déterminatif, le paragraphe 163(1). Le pourcentage taxable peut être soit le pourcentage de référence, soit le pourcentage taxable initial. C'est seulement le pourcentage de référence s'il existe une contradiction notable entre le pourcentage de référence et tout pourcentage taxable initial; sinon, le pourcentage taxable sera le pourcentage taxable initial.
+[9] Le pourcentage taxable initial est formulé un peu différemment du pourcentage de référence : le prix initial, par opposition au prix de référence, est le « montant que le fournisseur exigerait pour la fourniture du voyage organisé » . De prime abord, on peut présumer que cela doit signifier autre chose que le « prix de référence » , mais ce n'est pas le cas : les deux peuvent signifier la même chose. La définition de pourcentage taxable renvoie à l'ampleur de la différence entre le pourcentage de référence et le pourcentage taxable initial, ce qui laisse supposer que ces pourcentages peuvent différer d'une manière ou d'une autre ou, en fait, qu'ils peuvent être les mêmes; en effet, le prix initial et le prix de référence peuvent être les mêmes. Les deux éléments du pourcentage dans chaque cas doivent être la partie taxable comme numérateur et la somme de la partie taxable et de la partie non taxable comme dénominateur. Le pourcentage taxable initial ne diffère du pourcentage de référence que si l'un de ces éléments change. La marge brute ne peut pas faire partie du dénominateur.
+[10] Cet examen fait simplement ressortir l'impossibilité, en étudiant ces définitions, d'exercer un pouvoir discrétionnaire quelconque pour déterminer le pourcentage du ratio de marge bénéficiaire qui est taxable. La formule vise à répartir simplement au prorata le ratio de marge bénéficiaire ou la marge brute, sans permettre une évaluation fondée sur d'autres facteurs, tels que ceux proposés par M. Ma. Le fait que le Mémorandum sur la TPS no 27.1 a été publié en 1995 n'est pas pertinent, car les changements survenus depuis dans l'industrie du voyage n'ont aucun effet sur le calcul de l'article 163.
+[11] Malgré l'approche compréhensible que M. Ma adopte dans la répartition de la marge brute de Marco Polo, elle ne correspond tout simplement pas aux exigences de l'article 163. M. Ma n'a pas présenté de chiffres détaillés pour les voyages organisés des années en question qui m'auraient permis de vérifier plus exactement le pourcentage taxable approprié. Je suis donc disposé à invoquer le pourcentage taxable du ministre, fondé sur le calcul de la moyenne à l'annexe « A » . Je suggère que dans l'avenir, les chiffres se rapportant à chaque forfait de voyage organisé conviendront mieux pour déterminer le montant correct de la TPS exigible.
+[12] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2003.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 3e jour de mai 2004.
+Nancy Bouchard, traductrice
+[TRADUCTION]
+ANNEXE « A »
+ANNEXE « F » - Pourcentage de la partie des tarifs aériens
+Les hôtels sont énumérés tels qu'ils figurent dans notre site Web : http://www.marcopolotours.com
+Aladdin Resort
+8 265 $
+Bally's
+7 521 $
+Ballagio
+15 999 $
+Circus Circus
+5 976 $
+Excalibur
+8 472 $
+Flamingo Hilton
+6 939 $
+Imperial Palace
+5 298 $
+Luxor
+6 229 $
+Mandalay Bay
+10 413 $
+MGM Grand
+9 081 $
+Mirage
+11 316 $
+Monte Carlo
+6 391 $
+New York New York
+7 443 $
+Paris
+9 873 $
+Treasure Island
+10 781 $
+129 997 $
+Hôtel
+Vol
+Hôtel + vol
+8 666 $
+7 750 $
+16 416 $
+Pourcentage de la partie des tarifs aériens
+7 750 $
+16 416 $
+47,21 %
+[1] Pièce R-1.
+[2] Pièce R-2.

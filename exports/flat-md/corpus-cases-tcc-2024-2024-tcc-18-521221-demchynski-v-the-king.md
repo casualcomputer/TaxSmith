@@ -1,0 +1,317 @@
+---
+title: "Demchynski v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521221/index.do"
+last_modified: "2024-02-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 18"
+citation2: ""
+neutral_citation: "2024 TCC 18"
+decision_date: "2024-02-14"
+language: "en"
+item_id: "521221"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5703
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:09:54.171000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c1af3a40a1841c50b217fa4bd5b4c02b820652a6e2490c40d65739425f2523f7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Demchynski v. The King
+
+- Citation: 2024 TCC 18
+- Decision date: 2024-02-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5703, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Demchynski v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-02-14
+Neutral citation
+2024 TCC 18
+File numbers
+2016-2036(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2036(IT)G
+BETWEEN:
+EDWARD DEMCHYNSKI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on March 7, 8 and 9, 2023, at Winnipeg, Manitoba
+Before: The Honourable Justice Steven K. D’Arcy
+Appearances:
+Counsel for the Appellant:
+Jeff Pniowsky
+Matthew Dalloo
+Counsel for the Respondent:
+David Silver
+Michael Reimer
+JUDGMENT
+In accordance with my reasons for judgment:
+The appeal is allowed in part to incorporate the concessions made by the Respondent. The assessments are referred back to the Minister for reconsideration and reassessment on the basis that the unreported income of the Appellant is as follows:
+- For the 2009 taxation year, the $311,509 of unreported business income determined by the net worth calculation minus the $7,007.46 concession made by the Respondent.
+- For the 2010 taxation year, the $440,216 of unreported business income determined by the net worth calculation minus the $23,101.65 concession made by the Respondent.
+- For the 2011 taxation year, the $142,184 of unreported business income determined by the net worth calculation minus the $16,503.74 concession made by the Respondent.
+The parties have 60 days from the date of this judgment to make written representations with respect to the amount of costs that the Court should award the Respondent. The written submissions shall not exceed 15 pages. If no submissions are received, costs shall be awarded to the Respondent as set out in the Tariff.
+Signed at Edmonton, Alberta, this 14th day of February 2024.
+“S. D’Arcy”
+D’Arcy J.
+Citation: 2024 TCC 18
+Date: 20240214
+Docket: 2016-2036(IT)G
+BETWEEN:
+EDWARD DEMCHYNSKI,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+D’Arcy J.
+[1] Using the net worth method, the Minister assessed the Appellant for failing to report substantial income on his income tax returns for the 2009, 2010 and 2011 taxation years. He was also assessed penalties under subsection 163(2) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.).
+[2] The Appellant; his spouse, Shannon Demchynski; and the Canada Revenue Agency (the “CRA”) auditor, Joanne Douglas, who conducted the audit of the Appellant, testified during the hearing.
+[3] I found Ms. Douglas to be a credible witness. I did not find either the Appellant or Mrs. Demchynski to be a credible witness.
+[4] Mrs. Demchynski briefly testified with respect to her family’s lifestyle. As I will discuss, this testimony was shown on cross-examination to be misleading.
+[5] I found the Appellant not to be forthcoming with respect to his contracting business and his family’s lifestyle. He was very evasive during cross-examination with respect to these two topics.
+[6] Under cross-examination, he either could not recall damaging testimony that he provided under oath during his examination for discovery or directly contradicted such damaging testimony.
+[7] In many instances, the objective evidence before me contradicted the Appellant’s testimony. This included his testimony with respect to his hours worked for his employer, his primary source of income, the nature of his contracting business and his family’s lifestyle. He was not a credible witness.
+The Appellant’s sources of income
+[8] The Appellant testified that he worked full time for the town of The Pas at a hockey rink cleaning the ice surface. In the summertime, he cut grass for the town. He testified that he carried on a “side” endeavour or business of performing carpentry work and “home repairs and stuff for people.” He noted that he carried on the business on his days off from his job with the town and on weekends when he could.
+[9] I do not accept the Appellant’s testimony on his sources of income. In my view, it was an attempt to downplay his principal source of income, namely, the carrying on of a business as a contractor. His testimony that he carried on a part‑time business of performing carpentry work and home repairs was a deliberate attempt to mislead the Court. His testimony on this point seriously damaged his credibility.
+[10] In an attempt to support the Appellant’s testimony that he worked full time for the town of The Pas, the Appellant’s counsel asked the Appellant the following leading questions with respect to a pay stub of the Appellant that the Appellant filed as Exhibit A-72:
+Q Okay. I want you to go to Volume 7, Tab 72, please.
+A Okay.
+Q So I – I’m just going to talk you through it. I think we can all read this. Is – this is a pay stub?
+A Yes, it is.
+Q And this – and it says – it’s dated, basically, end of December 23, and it’s got year to date. So is it fair to say this would be the – the last pay stub for the – for the year for 2011?
+A Yes, it would be.
+Q Okay. And are the – do these numbers look accurate?
+A I would say so.
+Q So – and just on the bottom, sir, it says 2,155.27. So for the Town of The Pas – by the way, does this pay stub reflect what you just told the Court? This is Zamboni and cutting grass, et cetera?
+A Yes, it would be.
+Q Okay. And at the bottom, it says two-thousand-one-five-five-point-two-seven. Did you work almost 2200 hours for the Town of The Pas that year?
+A Yes, I would have. I worked full-time.
+[11] The issue with counsel’s questions and the Appellant’s answers is that the 2,155.27 referred to by counsel does not represent the hours that the Appellant worked in 2011 but rather represents his gross pay of $2,155.27 for the two-week pay period ending on December 23, 2011.
+[12] An estimate of the hours that he worked can be determined from the pay stub. The first line of numbers under the title “Earnings” shows year-to-date regular employment income of $31,598.19 at a rate of $21.51 per hour. The Appellant testified that the town paid him roughly the same hourly rate throughout the year. This means that he worked 1,469 regular hours during the 2011 year.
+[13] His total compensation from the town of The Pas was lower in 2009 and 2010.
+[14] This evidences that his job for the town of The Pas was more of a part-time or seasonal job. Since he worked at a hockey rink, I assume that the Appellant’s job with the town of The Pas was a seasonal job that he worked mainly during the hockey season.
+[15] The Appellant provided limited evidence with respect to his contracting business. Exhibit A-57 contains invoices that the Appellant issued in respect of his contracting business. The invoices are identified as quotations; however, the Appellant testified that these were actually the invoices that he issued to customers.
+[16] The Appellant provided all of these invoices, except for an invoice for $45,000 issued in August 2010,[1] to Ms. Douglas during the audit.
+[17] Exhibits A-14, A-17 and A-22 summarize the invoices provided to Ms. Douglas. The invoices, plus the invoice at Exhibit R-61, evidence that the Appellant had gross income (including any GST that he charged) from his contracting business of at least $250,559 in 2009, $451,356 in 2010 and $209,692 in 2011. However, the Court was not provided with all of the invoices issued in respect of the Appellant’s contracting business.
+[18] It can be seen from the summaries and the actual invoices that each of the invoices has a quotation/invoice number. These numbers evidence that the Court was not provided with all of the invoices issued by the Appellant. For example, for the 2009 taxation year, the Court was only provided with 8 of the 34 invoices issued with quotation/invoice numbers between 108151 and 108185.[2] The summary at Exhibit A-17 evidences that the Court was only provided with 4 of the 12 invoices issued in the 2010 taxation year with quotation/invoice numbers between 108186 and 108198. The summary at Exhibit A-22 evidences that the Court was provided with 12 invoices in respect of the 2011 taxation year. Exhibit A-22 shows that the Appellant used two sets of invoices in 2011. One set consisted of invoices that were numbered between 186159 and 186191. The second set consisted of invoices that were numbered between 254108 and 254128. Clearly, the Court was not provided with all of the invoices issued in 2011.
+[19] This factual finding is supported by Ms. Douglas’s analysis of amounts deposited into the Appellant’s bank accounts. For each of the years at issue, Ms. Douglas reviewed the Appellant’s bank statements and credit card statements to determine the amount of deposits that the Appellant made into each of these accounts. She then deducted what she could identify as “non-business income deposits” such as interest, bank charges, child tax benefits, transfers between accounts, the Appellant’s income from employment, Mrs. Demchynski’s income from employment, income tax refunds, and merchandise returns. The result was assumed to be deposits from business receipts.[3]
+[20] Using this method, Ms. Douglas estimated that the Appellant received gross business income (including any GST that he charged) of $352,590 in 2009, $614,050.99 in 2010 and $327,325.07 in 2011. Over the three years, this equals $1,293,966.06 of gross business income. The $1,293,966.06 exceeds the $911,607 of gross business income shown on the invoices provided by the Appellant by $382,359.06. This constitutes additional evidence that the Appellant did not provide the Court with copies of all of the invoices that he issued to customers during the relevant years.
+[21] The Appellant testified that his clients included insurance companies and individual homeowners. His work for one insurance company included building a home that had been damaged by a fire.
+[22] The Appellant testified that he only charged GST on the invoices issued to the insurance companies. He did not charge GST on the invoices issued to the individual homeowners. The insurance companies informed him that his invoices had to include GST.
+[23] The Appellant did not remit any of the GST that he collected from the insurance companies. At some point, he pleaded guilty to a criminal offence for failing to remit GST.
+[24] The Appellant testified that he had a quote book that contained the quotes (invoices) for each job and the receipts for expenses incurred to complete the job. He did not provide the quote books to the CRA or file them as evidence with the Court. The Appellant testified that he “threw” the quote books out before the CRA began to audit the relevant years. The audit began on January 2, 2013, only 8 months after he filed his tax return for the 2011 taxation year. Under subsection 230(4), the Appellant was required to keep for six years all records and books of account for each of his taxation years, together with every account and voucher necessary to verify the information contained in his records and books. The Appellant did not comply with this provision.
+[25] The evidence before me leads to a factual finding that that Appellant carried on a substantial contracting business during each of the relevant taxation years. Further, the dates on the invoices provided to the Court indicate that the business was carried on throughout each year.
+[26] On the basis of the evidence before the Court, I have concluded that the Appellant carried on a full-time business of acting as a contractor and was employed on a part-time/seasonal basis to clean the ice at the hockey rink and mow lawns.
+[27] The Appellant had two other sources of income. One was rental income in 2010 and 2011 from two rental properties that he constructed in 2009 and 2010. I will discuss each of these properties when discussing the net worth calculation.
+[28] The other source of income was from the sale of land in 2010. In 2003, the Appellant purchased 39 acres of land for $50,000. He subsequently subdivided the land into a number of lots. The Appellant built a family home on one of the lots, gifted some of the lots to family members and sold the remaining lots to third parties.
+[29] In 2005, he sold four of the lots to third parties for consideration of $74,000. He sold one lot in 2007 for consideration of $22,000 and one lot in 2008 for consideration of $10,000. In 2010, he sold two lots for consideration of $48,000.
+Income reported on Appellant’s income tax returns
+[30] In his tax return for 2009, the Appellant reported employment income of $28,217.75, gross business income of $45,180 and a loss from this business of $651.[4]
+[31] In his tax return for 2010, the Appellant reported employment income of $31,813.76, net rental income of $13,810, gross business income of $45,814 and a loss from this business of $1,291.58.[5]
+[32] In his tax return for 2011, the Appellant reported employment income of $49,593.14, net rental income of $10,312.21, gross business income of $54,255.80 and a loss from this business of $12,324.19.[6]
+CRA’s determination of the Appellant’s income
+[33] As I noted in Berezuik v. The Queen, 2010 TCC 296, at paragraph 16:
+… The net worth analysis is a method of last resort. The method should only be used where, due to a lack of reliable records, approaches that are more conventional cannot be used. However, as this Court has noted on numerous occasions, it is open to the Minister under subsection 152(7) to use the net worth method whenever he considers it appropriate. It is not the role of this Court to question the use of the net worth method by the Minister to assess the Appellants; rather I must, based upon the evidence before me, determine the correctness of the assessments at issue.
+[34] Ms. Douglas noted that the audit of the Appellant occurred because of a lead obtained from a CRA collector who was doing field work in the town of The Pas. The collector obtained information that the Appellant was working for cash and not reporting income from his contracting business, the sale of lots or the rental properties.
+[35] Ms. Douglas explained why she used the net worth method to determine the Appellant’s income.
+[36] After her initial meetings with the Appellant and his spouse, she determined that the Appellant had no books and records for his contracting business. There was no ledger to show revenue accounts or expenses. She had no records to verify.
+[37] The only information that the Appellant provided to Ms. Douglas was a grocery bag full of receipts for 2011. He provided no receipts for 2009 or 2010.
+[38] Ms. Douglas, after being informed by the Appellant that his gross income was around $54,000, quickly reviewed the Appellant’s bank statements and noticed that bank deposits far exceeded the $54,000. As discussed previously, deposits were well in excess of $1 million over the three-year period.
+[39] This is a classic situation where the CRA, on account of the lack of books and records and the unexplained deposits that appeared on the taxpayer’s bank statements, was forced to use the net worth method to calculate the Appellant’s income. This was the only method available to Ms. Douglas to calculate the Appellant’s income.
+[40] Ms. Douglas performed a fairly standard net worth calculation for the Appellant. The components of the calculation are as follows:
+-First, she determined the Appellant’s total assets as at December 31, 2008, 2009, 2010 and 2011. Ms. Douglas divided the assets into two groups: business assets and personal assets.
+-She then determined the Appellant’s total liabilities at the end of each of the years. The liabilities were divided into business liabilities and personal liabilities.
+-The increase or decrease in the Appellant’s net worth was then calculated.
+-Ms. Douglas then made a number of positive adjustments to the calculated increase in the Appellant’s net worth for each year. The most significant positive adjustment was the addition of substantial personal expenditures.
+-Next, Ms. Douglas made negative adjustments to the calculated amount in respect of income tax refunds and child tax benefits.
+-Ms. Douglas then compared the number arrived at after making the adjustments to the income reported by the Appellant and his spouse on their income tax returns. The difference was treated as unreported business income.
+-Ms. Douglas’s final step was to reduce the calculated unreported business income to take into account the fact that the two rental properties shown on the assets schedule for the Appellant had been double counted. I will discuss this double counting shortly.
+[41] After removing the double counting of the rental properties, Ms. Douglas concluded, on the basis of the net worth analysis, that the Appellant had understated his business income in each of the relevant taxation years as follows:
+- 2009 taxation year – $311,509
+- 2010 taxation year – $440,216
+- 2011 taxation year – $142,184
+[42] The Respondent notes in his Reply that on account of a processing error, the Appellant was only assessed to increase his business income by $306,916, $434,212 and $134,984.
+[43] Since the Respondent used the net worth method to calculate the unreported business income of the Appellant, he assumed that the increase in the Appellant’s net worth each year and the amount that the Appellant spent on personal expenditures were funded by income that the Appellant had earned in each of the years.
+[44] The Respondent made a concession at the commencement of the hearing with respect to the amount of personal expenditures incurred by the Appellant in each of the relevant years. The Respondent conceded that the amount of personal expenditures should be reduced by $7,007.46 in 2009, $23,101.65 in 2010 and $16,503.74 in 2011. The Respondent concluded that such expenditures were business expenses of the Appellant. As a result, my judgment will reduce the Appellant’s unreported business income by the amounts conceded by the Respondent.
+[45] Ms. Douglas provided detailed evidence regarding the calculations that she performed with respect to the net worth calculation. After taking into account all of the adjustments that she made, I am satisfied that her calculations contain no material errors.
+[46] Schedule I of the net worth calculation shows the Appellant’s assets increasing from $428,592 at December 31, 2008 to $718,410 at December 31, 2009–an increase of $289,818. However, Ms. Douglas subsequently reduced this amount by $145,000 to take into account her double counting of the asset shown on Schedule I as “Apartment Block – 3 plex at 213 Crossley” (the “Three-plex”). The double counting occurred when the Three-plex was included twice in Schedule I: once as “UCC per Schedule 1a – CCA” and a second time as “Apartment Block – 3 plex 213 Crossley”.
+[47] The Appellant testified that the Three-plex was a three-plex rental unit that he had built in 2009. The $145,000 reduction for the double counting is shown on Schedule V under the heading “Deduct: Known audit adjustments, Other – Apartment blocks”. The result of this reduction is that the Respondent calculated the Appellant’s income for 2009 on the basis that his assets had increased by $144,818.[7]
+[48] All of the increase in the Appellant’s assets in 2009 was due to the addition of the $145,000 Three-plex. There was no material change in any of the Appellant’s other business or personal assets. In addition, there was no material change in the Appellant’s liabilities in 2009.
+[49] Schedule I of the net worth calculation shows the Appellant’s assets increasing from $718,410 at December 31, 2009 to $1,080,932 at December 31, 2010–an increase of $362,522. However, Ms. Douglas subsequently reduced this amount by $194,500 to take into account her double counting of the asset shown on Schedule I as “Aoartment [sic] Block – 4 plex at 235 Crossley” (the “Four‑plex”). Similar to the double counting of the Three-plex, the double counting with respect to the Four-plex occurred when the Four-plex was included twice in the asset schedule: once in the amount shown as “UCC per Schedule 1a – CCA” and a second time as “Aoartment [sic] Block – 4 plex 235 Crossley”.
+[50] The Appellant testified that this was a four-plex rental unit that he had built in 2010. The $194,500 reduction is shown on Schedule V under the heading “Deduct: Known audit adjustments, Other – Apartment block”. The result of this reduction is that the Respondent calculated the Appellant’s income for 2010 on the basis that his assets had increased by $168,022.[8]
+[51] Ms. Douglas’s calculations actually understated the increase in the Appellant’s assets by $19,500. The $194,500 reduction for the double counting in the 2010 calculation is composed of her calculation of the cost of the Four-plex ($175,000) plus the cost of the land that the Appellant purchased in 2010 to build the Four-plex on ($19,500). However, Ms. Douglas did not double count the cost of the land; she only double counted the cost of the Four-plex itself.
+[52] Regardless, all of the increase in the Appellant’s assets in 2010 was due to the addition of the land at 235 Crossley and the construction of the Four-plex on the land. There was no material change to the Appellant’s liabilities in 2010.
+[53] The Appellant’s assets at the end of 2011 were approximately the same as his assets at the end of 2010. The only difference was the sale of an undeveloped lot that he had owned for a number of years. There also was no material change in his liabilities in 2011.
+[54] In summary, all of the increase in the Appellant’s net worth in 2009, 2010 and 2011 was due to the construction of the Three-plex and the Four-plex and the acquisition of the land for the Four-plex.
+[55] Counsel for the Appellant argued that even after the adjustments were made by Ms. Douglas, there had been a double counting of the Three-plex in 2010. The above analysis shows that there was no double counting of the Three-plex after Ms. Douglas made her adjustments. The increase in net worth during the relevant periods corresponds with the only assets added during these periods, namely the Three‑plex and the Four-plex. The Appellant’s liabilities had no impact on the change in his net worth since they remained relatively constant throughout the relevant periods.
+[56] The amounts shown as personal expenditures in Schedule III of the net worth calculation comprise over 90% of the adjustments made to the calculated change in net worth for each of the relevant years. In fact, the total of the increase in net worth caused by the addition of the Three-plex and the Four-plex and the total of the personal expenditures exceeds the total of the calculated unreported business income in each year. In other words, any calculated unreported income for the relevant years is solely dependent on the addition of the Three-plex, the addition of the Four-plex and the calculated personal expenditures. There are no other material numbers in the net worth calculation.
+[57] I will first address the inclusion of the Three-plex and the Four-plex in the calculation of the increase in the Appellant’s net worth in 2009 and 2010.
+[58] The Appellant testified that he built the Three-plex and the Four-plex as rental properties.
+[59] The Appellant built the Three-plex at 213 Crossley Avenue in The Pas in 2009. The Appellant accepts that he acquired the land at 213 Crossley Avenue sometime before December 31, 2008, at a cost of $14,000.
+[60] The Appellant built the Four-plex at 235 Crossley in The Pas in 2010. The Appellant accepts that he acquired the land at 235 Crossley in 2010 at a cost of $19,500.
+[61] Ms. Douglas testified that during the audit, the Appellant informed her that he built the Three-plex in 2009 at a cost of between $140,000 and $150,000. She then, in her words, “split it down the middle” and chose a 2009 construction cost of $145,000.
+[62] Similarly, the Appellant informed Ms. Douglas that he built the Four-plex in 2010 at a cost of between $170,000 and $180,000. She once again “split it down the middle” and chose a 2010 construction cost of $175,000.
+[63] The Appellant did not provide the Court with reliable objective evidence that would demolish the Respondent’s assumption that the cost of the Three-plex was approximately $145,000 and that the cost of the Four-plex was approximately $175,000.
+[64] Exhibit A-53 contains 175 pages of invoices that the Appellant testified related to the construction of the Three-plex. Exhibit A-54 contains approximately 400 pages of invoices that the Appellant testified related to the construction of the Four-plex.
+[65] The majority of the invoices in Exhibits A-53 and A-54 are for less than $500, and many are for less then $100. None of the invoices show the purchased materials being delivered to 213 or 235 Crossley Avenue.
+[66] I was not provided with a ledger or any schedule showing the costs of the various components of either building. Further, I was not provided with any objective evidence tying the invoices into the costs incurred to construct the Three‑plex and the Four-plex. I have no way of knowing whether the invoices include all of the costs of the Three-plex and Four-plex or whether they even relate to the construction of the two buildings. Some or all of the invoices could have related to the Appellant’s contracting business.
+[67] The self-serving evidence of the Appellant alone, whom I found not to be a credible witness, is not sufficient for me to conclude that the invoices represent the total cost of the Three-plex and Four-plex or that all invoices relate to the construction of the two buildings.
+[68] The Appellant was asked during his examination-in- chief how he funded the construction of the two buildings. He stated the following:
+I – I did have some lots, and I sold the lots, and they were – so some of the money come from there. I borrowed some money from my mother-in-law, I borrowed money from my brother-in-law, I borrowed money from my dad, and when the threeplex – when – once the first building was up, the threeplex and we were getting rent from it, all of my rent – so I would get roughly about $3,000 a month, and then all that money from the rent would go straight into be – buy – buying material for the fourplex. And that’s – that’s – and then – I was short money, so I would borrow money.[9]
+[69] The Appellant’s testimony was inconsistent with his testimony during his discovery by the Respondent’s counsel. When asked during his discovery examination how he funded the cost of the Three-plex and the Four-plex, he stated that he used his line of credit. During his cross-examination before the Court, he stated that he did not recall telling counsel during his discovery that he had used his line of credit.[10] This is one of many examples of instances where the Appellant’s testimony before the Court contradicted his sworn testimony during discovery. These contradictions seriously damaged his credibility.
+[70] When asked whether he had any loan agreements with his family members the Appellant stated that he believed he had one with his mother-in-law.
+[71] The Appellant acknowledged that Ms. Douglas asked him to provide loan documents. He noted that the loans were just verbal; there were no documents. He also acknowledged that he could not show Ms. Douglas deposits on his bank statements that represented amounts received as loans.
+[72] I do not accept the Appellant’s verbal evidence that he received loans from family members. It is not supported by the objective evidence, particularly the fact that his bank statements do not show amounts received as loans being deposited into his account.
+[73] It is also damaging to the Appellant that he did not call a family member to testify that he or she made loans to the Appellant.
+[74] I have concluded, on the basis of the evidence before me, that the Appellant self‑funded the construction of the Three-plex and the Four-plex. The net worth calculation is consistent with this assumption.
+[75] With respect to rental income from the Three-plex, the Appellant’s income tax return for 2009 showed no revenue from the Three-plex. His tax return for 2010 shows gross rental revenue of $17,970 and net income after expenses of $13,810. The Appellant may have used all or a portion of the $13,810 to pay for costs incurred to construct the Four-plex. In fact, the net worth calculation credits him for this income by reducing his unreported income by the amount of income (including rental income) reported on his 2010 tax return.
+[76] With respect to the line of credit, the Appellant acknowledged during his cross-examination that he could not have used the line since the balance in the line of credit was around $125,000 from December 2008 to the end of 2011. The $125,000 was the maximum amount that the Appellant was entitled to borrow under the line of credit.
+[77] For the foregoing reasons, I have concluded, on the basis of the evidence before the Court, that the Respondent has properly accounted for the Three-plex and the Four-plex when calculating the increase in the Appellant’s net worth.
+[78] I will now address the positive adjustment made to the net worth calculation in respect of personal expenditures. In assessing the Appellant, the Minister assumed that the Appellant incurred personal expenditures of $220,013, $329,499 and $206,804 in his 2009, 2010 and 2011 taxation years, respectively.
+[79] Ms. Douglas explained that she used a “withdrawal” analysis to determine the Appellant’s personal expenditures. This involved her reviewing the Appellant’s bank statements, credit card statements and any of his other financial statements. She identified any withdrawals on the statements and categorized each withdrawal as a business expense, a personal expense or a transfer. Transfers were transfers between various accounts and were not included in the calculation of the Appellant’s personal expenses or business expenses.
+[80] She then tried to group the personal expenses into 13 specific categories such as food, shelter, household operations, and clothing. Any withdrawals that she could not identify as business expenses or as expenses related to one of the 13 personal categories were included in miscellaneous personal expenses.
+[81] Ms. Douglas prepared detailed spreadsheets showing how she categorized each withdrawal noted on the Appellant’s bank and credit card statements.[11] These spreadsheets were provided to the Appellant.
+[82] Ms. Douglas testified that she made the following assumptions when analyzing the bank statements and other financial records of the Appellant:
+-All expenses that were evidenced by invoices from one of his suppliers of building materials, such as Northern Building Supply, Home Hardware, and Timber Mart, were classified as business expenses. She did not try to determine if any of these invoices were in respect of personal expenditures.
+-She did not try to distinguish between business expenses incurred in respect of the Appellant’s contracting business and business expenses incurred in the construction or maintenance of the two rental properties.
+-If the Appellant provided a cheque with respect to a specific withdrawal, then the cheque would be used to classify the withdrawal. If the cheque was payable to one of the suppliers of building materials or equipment, then the withdrawal was classified as a business expense. The withdrawals evidenced by the remaining cheques were placed in the appropriate personal expenditure category. For example, if the cheque was made payable to IGA, the withdrawal was included in the food category.
+-After discussing with the Appellant the items that he purchased at Costco, Ms. Douglas decided that any payments to Costco over $300 would be classified as business expenses, while payments under $300 would be classified as personal expenses.
+-Ms. Douglas decided that any cash withdrawals over $800 were business expenses. This was based on the assumption that the Appellant’s bank limited the maximum amount of a single transaction on his debit card to $800. As a result, the Appellant was required to withdraw cash to purchase goods or services that cost in excess of $800.
+[83] Exhibits R-53, R-54, R-55, R-58, R-63 and R-64 evidence that Ms. Douglas examined over 1,300 pages of invoices from the Appellant’s suppliers of building materials. Exhibits R-26, R-27 and R-28 contain Ms. Douglas’s spreadsheets summarizing the withdrawals that she identified as business expenses. These spreadsheets show that Ms. Douglas identified 33 suppliers of business materials and services in 2009 and 35 in 2010 and 2011.
+[84] Exhibit R-23 contains a summary of Ms. Douglas’s analysis of the Appellant’s bank statements and other financial statements; it shows the following:
+-In 2009, after accounting for transfers, Ms. Douglas identified $386,083 of withdrawals of which she assumed, on the basis of her analysis, $166,070 were business expenses and $220,012 were personal expenses.
+-In 2010, after accounting for transfers, Ms. Douglas identified $635,145 of withdrawals of which she assumed, on the basis of her analysis, $305,646 were business expenses and $329,498 were personal expenses.
+-In 2011, after accounting for transfers, Ms. Douglas identified $389,049 of withdrawals of which she assumed, on the basis of her analysis, $182,246 were business expenses and $206,804 were personal expenses.
+[85] Ms. Douglas categorized a substantial amount of the personal expenses as miscellaneous expenditures: $148,348 in 2009, $244,364 in 2010 and $146,813 in 2011.
+[86] During his examination-in-chief of the Appellant, counsel for the Appellant noted that the Appellant is not disputing any of the personal expenditures other than the miscellaneous expenditures.[12] This concession in and of itself results in the Appellant having significant unreported income in 2009 and 2010. If I remove the miscellaneous personal expenses from the net worth calculation, the calculation results in $163,161 of unreported income in 2009 and $195,852 of unreported income in 2010.
+[87] Although the Appellant does not accept the amounts calculated for miscellaneous expenditures, he has produced no evidence to rebut the Minister’s assumption that the Appellant incurred the personal expenditures set out in Schedule IV to the Reply, which includes the miscellaneous expenditures. This is an assumption that the Minister made when assessing the Appellant. The Court must accept this assumption unless the Appellant presents evidence to “destroy” it.
+[88] The Appellant has produced no such evidence. He testified that his position is that all expenses categorized as miscellaneous expenditures were in fact business expenses. He also testified that even though he was provided with Ms. Douglas’s detailed calculation of the specific withdrawals that she classified as miscellaneous expenses, he did not inform the Respondent of any specific items that he disagreed with or provide him with any evidence to show that a specific item that Ms. Douglas classified as a miscellaneous personal expense was in fact a business expense. More importantly, the Appellant did not provide such evidence to the Court. The Court received no evidence from the Appellant with respect to any of the specific withdrawals that the Respondent classified as miscellaneous expenses. In such a situation, the Court accepts the Minister’s assumption with respect to the amount of the miscellaneous expenditures.
+[89] Further, I have concluded, on the basis of Ms. Douglas’s testimony and her working papers, that she took a fair and reasonable approach to calculating the Appellant’s personal expenditures using the information provided to her by the Appellant. She clearly spent a significant amount of time analyzing the Appellant’s bank accounts, credit card statements and line of credit statements and provided the Appellant with numerous opportunities to clarify the nature of the various withdrawals.
+[90] Based on the foregoing, I accept the Minister’s calculation of the Appellant’s personal expenditures for each of the relevant years.
+[91] For the foregoing reasons, I also accept the Minister’s calculation of the Appellant’s unreported income. The calculations undertaken by Ms. Douglas are supported by the evidence before the Court and provide the only reliable evidence of the Appellant’s income during the relevant years.
+Appellant’s argument with respect to lifestyle
+[92] While my conclusion disposes of the appeal as it relates to unreported income, I will address the Appellant’s main argument.
+[93] As discussed, the Appellant did not provide any reliable evidence to challenge Ms. Douglas’s calculation of the Appellant’s unreported net income. The Appellant’s primary argument is that the Appellant’s frugal lifestyle simply does not support the assessed amounts.
+[94] Counsel for the Appellant argued that the Appellant’s family’s primary sources of income were the income that the Appellant received from working full‑time as a Zamboni driver for the town of The Pas and the income that Mrs. Demchynski received from working as a housekeeper at a care centre. Counsel for the Appellant argued that the Appellant’s lifestyle does not reflect the lifestyle of someone who had earned the unreported income determined by the net worth calculation. He also noted that there were no “assets of extravagance” in the net worth calculation.
+[95] The Appellant’s argument is predicated on the assumption that the Appellant’s family’s primary source of income was the $21.51 per hour that he was paid by the town and the $15 per hour that Mrs. Demchynski earned working at the care centre. Counsel also relied heavily on the testimony of Mrs. Demchynski and the Appellant that the family lived a frugal lifestyle.
+[96] The nature of the lifestyle that a family leads has little relevance to the determination of whether they had unreported income. More importantly, the evidence before the Court contradicts the factual foundation of the Appellant’s argument.
+[97] Firstly, I have found, as a question of fact, that the Appellant’s primary source of income was his contracting business–a business that had gross receipts well in excess of $1 million during the relevant period.
+[98] Secondly, the evidence before me is that the Appellant’s family did not live a frugal lifestyle.
+[99] I do not accept the Appellant’s and Mrs. Demchynski’s testimony during their examination-in-chief that they lived a frugal lifestyle. Their testimony was destroyed on cross-examination.
+[100] After numerous questions from counsel for the Respondent and frequent references to prior inconsistent statements made by the Appellant during his discovery examination, the Appellant finally admitted that he had spent a good deal of time at a time-share that the family owned in Las Vegas. I have concluded, on the basis of the Appellant’s demeanour and his answers to counsel’s questions during cross‑examination, that the evidence that he provided during his discovery is the most reliable evidence of the time that the family spent in Las Vegas, being eight weeks per year. In addition, I have concluded, on the basis of the cross‑examination, that the Appellant’s interest in the time-share entitled him to stay four weeks per year at the time-share. He spent an additional $10,000 per year to purchase the additional four weeks per year that his family spent in Las Vegas at the time-share. This is not a frugal lifestyle.
+[101] The Appellant acknowledged on cross-examination that he purchased a home in Las Vegas in 2013. After he purchased the home, he retained the interest in the time-share. While I acknowledge that 2013 is outside of the relevant period, the fact that he purchased the home in 2013 is consistent with the evidence before me that he spent significant time in Las Vegas.
+[102] The Appellant’s testimony with respect to Las Vegas is one of numerous instances where he attempted to hide from the Court his actual lifestyle. His evidence on this point seriously damaged his credibility.
+[103] As discussed previously, during the relevant period the Appellant built a Three‑plex and a Four‑plex at a cost of at least $320,000. There is no evidence before the Court that the Appellant borrowed any monies to fund the construction of the two complexes. They were self-funded. This may not be an “asset of extravagance”, but the self-funding of this acquisition during the relevant period is not consistent with the income that the Appellant reported on his income tax returns.
+[104] Regardless of the Appellant’s actual lifestyle, I have accepted Ms. Douglas’s net worth calculation. It is the only reliable evidence before me of the Appellant’s income during the relevant periods.
+Penalties under subsection 163(2)
+[105] Subsection 163(2) imposes a penalty on every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a tax return.
+[106] The Federal Court of Appeal noted in Wynter v. Canada,[13] that the knowledge requirement is satisfied if the taxpayer had an actual intent to make a false statement or the taxpayer is wilfully blind. The court explained that:
+A taxpayer is wilfully blind in circumstances where the taxpayer becomes aware of the need for inquiry but declines to make the inquiry because the taxpayer does not want to know, or studiously avoids, the truth. The concept is one of deliberate ignorance. …
+… wilful blindness pivots on a finding that the taxpayer deliberately chose not to make inquiries in order to avoid verifying that which might be such an inconvenient truth. The essential factual element is a finding of deliberate ignorance, as it “connotes ‘an actual process of suppressing a suspicion.’”
+[107] The Federal Court of Appeal noted that gross negligence is distinct from wilful blindness. Gross negligence “… arises where the taxpayer’s conduct is found to fall markedly below what would be expected of a reasonable taxpayer. …”[14]
+[108] Under subsection 163(3), the Minister has the burden of establishing the facts that justify the assessment of a penalty under subsection 163(2).
+[109] For the following reasons, I find that the Appellant knowingly made false statements in his income tax return for each of the relevant years. Specifically, he knowingly understated his income from his contracting business and failed to report his income in 2010 from the sale of the vacant lots.
+[110] In each of the relevant years, the Appellant’s tax returns significantly understated his income from his contracting business.
+[111] In his 2009, 2010 and 2011 tax returns, the Appellant reported gross sales from his contracting business of $45,180, $45,814 and $54,225.80 respectively.[15] These numbers are clearly incorrect since, as discussed previously, the Appellant’s gross income from his contracting business in 2009, 2010 and 2011 was at least $250,559, $451,356 and $209,692 respectively and appears to have been significantly higher.
+[112] With respect to expenses, the Appellant claimed, in his tax returns for 2009, 2010 and 2011, expenses in respect of his contracting business of $45,831, $47,105 and $66,549.99 respectively. The expenses shown on his statement of business or professional activities filed with his income tax return were composed of supplies; subcontracts; legal, accounting and other fees; telephone and utilities; fuel costs; salaries, wages and benefits; capital cost allowance; registration, repairs and gas for equipment; and interest.[16]
+[113] The Appellant then reported losses from his contracting business in his 2009, 2010 and 2011 tax returns of $651, $1,291.58 and $12,324.19 respectively.[17] The reporting of these losses constitutes a false statement. In each of these years, the Appellant realized a substantial profit from his contracting business. These profits constituted most of the unreported income of the Appellant.
+[114] The Appellant signed each of these tax returns, certifying that the information in each of the returns was correct, was complete, and fully disclosed all of his income. He testified that he reviewed the returns before they were filed.
+[115] The Appellant first testified that the gross revenue that appears on the income tax returns is actually his net profit from each job. He testified that he provided the accountant who prepared his tax returns with the net profit from his contracting business as opposed to the gross income and actual expenses from the business.
+[116] However, on cross-examination, counsel for the Respondent pointed out to the Appellant that he claimed on the statement of business or professional activities filed with his return a number of expenses in respect of his contracting business, such as supplies, subcontracts, salaries and wages, and equipment expenses. The Appellant then claimed that he was not sure how his income from his contracting business was reported on his tax return.
+[117] I have concluded, on the basis of the fact that each of the statements of business or professional activities that the Appellant filed with his income tax returns shows an amount for gross income and detailed expenses, that the statements are intended to report what they show, namely the gross income from the Appellant’s contracting business and the expenses that he incurred in earning this gross income.
+[118] The Appellant testified that an accountant prepared his income tax returns. However, the space on each income tax return where a professional tax preparer acknowledges that he or she prepared the return is blank. Other than the Appellant’s oral testimony, the Court has no evidence to support his assertion that an accountant prepared his tax returns.
+[119] Regardless, what is clear from the evidence before me is that the Appellant provided all of the information that was used to calculate the Appellant’s income from his contracting business–information that grossly understates his income from the business.
+[120] The Appellant consistently stated that he did not understand the information on his tax return. I do not accept this testimony. Clearly, he understood the information since he prepared it and provided it to the accountant.
+[121] I have concluded that as a question of fact, the Appellant knowingly understated the income from his contracting business that he reported on his income tax returns for each of the relevant years.
+[122] He also knowingly failed to report the profit that he realized in 2010 on the sale of the two lots discussed previously. The sales are not reported on the Appellant’s 2010 tax return.
+[123] The Appellant claimed that the sale of the lots was included in his statement of business or professional activities. I do not accept this testimony. The Appellant provided no documentary evidence to show how he determined the loss from his business as reported on his tax return or to show the amount, if any, that he included as profit from the sale of the two lots.
+[124] Further, the gross proceeds from the sale of the two lots was $48,000, whereas the gross revenue reported on his statement of business or professional activities was $45,814. In other words, the statement of business or professional activities does not include the profit that the Appellant realized on the sale of the lots. He clearly realized a profit since between 2005 and 2010, he sold eight lots for gross proceeds of $154,000 that had a cost of $62,000.[18]
+[125] In summary, the Appellant is liable for the penalty imposed under subsection 163(2) in respect of his unreported income.
+[126] For the foregoing reasons, the appeal is allowed in part to incorporate the concessions made by the Respondent. The assessments are referred back to the Minister for reconsideration and reassessment on the basis that the unreported income of the Appellant is as follows:
+-For the 2009 taxation year, the $311,509 of unreported business income determined by the net worth calculation minus the $7,007.46 concession made by the Respondent.
+-For the 2010 taxation year, the $440,216 of unreported business income determined by the net worth calculation minus the $23,101.65 concession made by the Respondent.
+-For the 2011 taxation year, the $142,184 of unreported business income determined by the net worth calculation minus the $16,503.74 concession made by the Respondent.
+[127] The parties have 60 days from the date of this judgment to make written representations with respect to the amount of costs that the Court should award the Respondent. The written submissions shall not exceed 15 pages. If no submissions are received, costs shall be awarded to the Respondent as set out in the Tariff.
+Signed at Edmonton, Alberta, this 14th day of February 2024.
+“S. D’Arcy”
+D'Arcy J.
+CITATION:
+2024 TCC 18
+COURT FILE NO.:
+2016-2036(IT)G
+STYLE OF CAUSE:
+Edward Demchynski v. His Majesty the King
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+March 7–9, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D’Arcy
+DATE OF JUDGMENT:
+February 14, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Jeff Pniowsky
+Matthew Dalloo
+Counsel for the Respondent:
+David Silver
+Michael Reimer
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jeff Pniowsky Matthew Dalloo
+Firm:
+Thompson Dorfman Sweatman LLP Winnipeg, Manitoba
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] See Exhibit R-61.
+[2] See Exhibit A-14.
+[3] See Exhibits R-13, R-15 and R-18 and Transcript of Proceedings, March 8, 2023.
+[4] See Exhibit R-47.
+[5] See Exhibit R-48.
+[6] See Exhibit R-49.
+[7] $289,818 − $145,000.
+[8] $362,522 − $194,500.
+[9] Transcript of Proceedings, March 7, 2023, page 78.
+[10] Supra, page 178.
+[11] See Exhibit R-23.
+[12] Transcript of Proceedings, March 7, 2023, at page 58.
+[13] 2017 FCA 195, paragraphs 13 and 17.
+[14] Supra, paragraph 18.
+[15] See Exhibit R-47, page 484, Exhibit R-48, page 510 and Exhibit R-49, page 537.
+[16] See Exhibit R-47, page 485, Exhibit R-48, pages 511 to 512 and Exhibit R-49, page 539.
+[17] See Exhibit R-47, page 478, Exhibit R-48, page 500 and Exhibit R-49, page 527.
+[18] See Exhibit R-29.

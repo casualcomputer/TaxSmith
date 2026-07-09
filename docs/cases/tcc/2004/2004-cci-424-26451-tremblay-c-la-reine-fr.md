@@ -1,0 +1,152 @@
+---
+title: "Tremblay c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26451/index.do"
+last_modified: "2004-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 424"
+citation2: ""
+neutral_citation: "2004 CCI 424"
+decision_date: "2004-08-12"
+language: "fr"
+item_id: "26451"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3136
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:09:59.944000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5ba21d2b6a63a8657ce42ff52ea2afc8b6c94336b570bc4d67a9dbda9bd2394b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tremblay c. La Reine
+
+- Citation: 2004 CCI 424
+- Decision date: 2004-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3136, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tremblay c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-08-12
+Référence neutre
+2004 CCI 424
+Numéro de dossier
+1999-1762(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 1999-1762(IT)G
+ENTRE :
+ORIGÈNE TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 1er juin 2004 à Sept-Îles (Québec)
+Par : L'honorable juge Brent Paris
+Comparutions :
+Avocat de l'appelant :
+Me André A. Lévesque
+Avocat de l'intimée :
+Me Simon‑Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1993, 1994, 1995 et 1996 est accueilli, avec dépens, et les cotisations sont renvoyées au ministre pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 12e jour d'août 2004.
+« B. Paris »
+Juge Paris
+Référence : 2004CCI424
+Date : 20040812
+Dossier : 1999-1762(IT)G
+ENTRE :
+ORIGÈNE TREMBLAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris, C.C.I.
+[1] La question en litige en l’espèce est celle de savoir si l’appelant a le droit de déduire des pertes locatives de 33 106 $, 27 602 $ et 231 993 $ subies lors de ses années d’imposition 1994, 1995 et 1996 et, s’il a le droit de reporter rétrospectivement aux années d’imposition 1993 et 1994 les pertes qu’il a subies pendant l’année 1996. Les pertes en question sont le résultat d’un placement immobilier désastreux de l’appelant dans un bien locatif situé à Longueuil, au Québec.
+[2] Le ministre du Revenu national (le « ministre ») a refusé les pertes locatives (y compris une perte finale considérable subie en 1996), aux motifs que l’appelant n’avait pas d’attente raisonnable de profit de la location du bien locatif et, donc, que ce bien ne constituait pas une source de revenu pour lui. Le ministre soutient que les activités du bien locatif comportaient un élément personnel et que la location n’a pas été effectuée d’une manière commerciale. En raison du refus de ces pertes, il n’existait pas de perte à reporter rétrospectivement à l’année d’imposition 1993.
+[3] L’appelant nie que l’activité de location ait comporté un élément personnel, et il dit qu’il avait eu, tant qu’il en avait été propriétaire, l’intention de tirer un profit de cette propriété et qu’il avait effectué les activités d’une manière commerciale.
+Preuve
+[4] L’appelant a été le seul témoin appelé à l’audience.
+[5] Il s’agit d’un homme de 72 ans qui est à la retraite d’une longue carrière comme cadre de chez IOC Ltd. (auparavant Iron Ore Company of Canada) à Sept‑Îles, au Québec. L’appelant et son épouse résident toujours à Sept‑Îles, où elle exploite à son propre compte un petit commerce de détail.
+[6] L’appelant a témoigné qu’il avait acheté au fil des ans un certain nombre de biens locatifs, y compris des condominiums près de Magog et de Saint‑Sauveur, ainsi qu’à Montréal. Bien que certaines de ces propriétés se soient trouvées près de stations de ski et de régions touristiques, elles n’ont jamais été utilisées à son usage personnel. Il avait toujours eu l’intention de les conserver comme placements et comme sources de revenu de location.
+[7] Vers 1987, l’appelant a décidé de faire un autre placement dans un bien locatif dans la région de Montréal. Il avait appris que la municipalité de Longueuil était en train d’aménager des lots dans un secteur résidentiel et il estimait que ce secteur offrait beaucoup de possibilités de location d’une résidence unifamiliale de luxe. Longueuil grandissait rapidement et beaucoup d’entreprises de fabrication industrielle, notamment Canadair et Pratt and Whitney, se trouvaient à proximité. En outre, l’aéroport qui faisait partie de l’ancienne base militaire de Saint‑Hubert allait être rouvert comme établissement civil.
+[8] L’appelant a acheté un terrain vacant situé au 806, des Roselins, à Longueuil, pour la somme de 36 000 $ dans le but d’y construire une maison qu’il comptait louer pour suppléer à son revenu de pension. Il a dit qu’il estimait être capable de trouver de meilleurs locataires en offrant un logement de meilleure qualité. Il a calculé qu’au début, il devrait atteindre le seuil de rentabilité, et que, avec le temps il ferait des profits grâce aux augmentations du loyer et réductions de l’hypothèque. Il a fait ses calculs sur la base d’un placement de 100 000 $ de ses capitaux propres et d’un emprunt de 200 000 $.
+[9] Il a fait construire une maison de deux étages d’environ 5 000 pi. ca. de surface habitable, avec 4 chambres à coucher, 3 salles de bain, une salle familiale, une salle de jeux, une piscine et des finitions de première qualité. Elle se trouvait dans un nouveau secteur de Longueuil, dans un quartier de résidences luxueuses.
+[10] Peu après le début des travaux, l’appelant a dû faire face à des problèmes de construction. Le premier entrepreneur qu’il a engagé pour monter la charpente a facturé à l’appelant des matériaux qu’il utilisait dans le construction d’une autre maison. Le coût de la main‑d’œuvre et des matériaux a été plus élevé que prévu et, de plus, on a ajouté à la maison des options supplémentaires. L’appelant a dit avoir été induit en erreur par l’entrepreneur qui a fait la première estimation du projet, qui a fourni des prix excessivement bas pour plusieurs articles, comme le parement de brique de la maison. À un certain moment, l’appelant a épuisé ses ressources et il a été obligé de suspendre les travaux. La maison était presque terminée, mais elle n’était pas prête à être louée. L’appelant a dû effectuer lui‑même certains travaux de finition. La maison a finalement été achevée en 1992, au prix de 430 000 $ au lieu des 300 000 $ estimés initialement.
+[11] L’appelant a passé plusieurs périodes dans sa maison de Longueuil pour effectuer les travaux de finition. Il avait alors déjà pris sa retraite de l’IOC, mais son épouse était toujours à Sept‑Îles. Il travaillait aussi à temps partiel sur la côte Nord du Québec. Il aurait donc été plus avantageux pour lui de rester à Sept‑Îles pour consacrer à cet emploi à temps partiel, mais il voulait terminer la maison pour être en mesure de la louer.
+[12] La fille de l’appelant a aussi habité dans la maison à partir de 1992. La maison n’était pas meublée, sinon une chambre à coucher. La cuisine était utilisable aussi, grâce aux armoires et aux meubles encastrés. L’appelant a déposé que sa fille avait emménagé dans la maison pour lui rendre service, pour décourager le vandalisme et les entrées par effraction. Il y avait déjà eu une entrée par effraction et un incident de vandalisme pendant la construction de la maison. De plus, l’assureur de la maison exigeait que la maison soit occupée pour qu’elle soit assurable. La fille de l’appelant lui a versé un loyer nominal qu’il a indiqué dans ses déclarations de revenus.
+[13] En 1993, l’appelant a décidé de vendre la propriété. Il a dit qu’il y à été contraint par sa situation financière. Il s’était endetté sérieusement envers la banque en raison de toutes ces dépenses excédentaires et il devait payer chaque mois des intérêts considérables. Il a mis la maison en vente au prix de 549 000 $.
+[14] Même pendant qu’elle était en vente, l’appelant avait essayé de louer la propriété, mais ces efforts ont été presque vains : la maison n’a été louée que pendant deux mois de l’été 1995, au loyer mensuel de 4 000 $.
+[15] En 1996, l’appelant a jugé qu’il n’avait plus les moyens de garder la maison et il l’a remise à la banque de son propre chef, en contrepartie de l’annulation de l’hypothèque. À ce moment‑là, il devait 366 000 $ à la banque. Ce montant est présumé être le produit de la disposition de la maison, ce qui lui a causé une perte de 217 172 $. Il a réclamé ce montant à titre de perte finale formant partie de la perte locative réclamée dans le cadre de l’année 1996.
+[16] L’appelant a nié avoir construit la maison pour son usage personnel. Il a dit que la maison aurait été inadaptée à ses besoins et à ceux de son épouse pour leur retraite, parce qu’elle était trop grande et coûteuse. Leur maison de Sept‑Îles n’avait que 2 000 pi. ca. de surface habitable et elle dépassait leurs besoins. De plus, son épouse est relativement plus jeune que lui au moment où la maison a été construite et elle n’avait pas encore prévu de prendre sa retraite. L’appelant a aussi rejeté l’allégation selon laquelle il aurait fait construire la maison pour sa fille. La maison ne convenait simplement pas à celle‑ci, une jeune femme célibataire, pour des raisons de dimension, de coût et de situation.
+Analyse
+[17] Dans l’arrêt Stewart c. Canada[1], la Cour suprême du Canada a dit que la première étape pour imputer la source d’un revenu à une entreprise ou à un bien, consiste à distinguer les opérations commerciales, d’une part, et les activités de nature récréative ou personnelle, d’autre part. S’il s’agit d’une opération commerciale, il est inutile d’analyser les décisions commerciales du contribuable parce que l’objectif de l’activité est le profit. Cependant, si l’activité comporte un aspect personnel, pour être en mesure de conclure qu’il s’agissait d’une source de revenu selon la Loi de l’impôt sur le revenu (la « Loi »), un tribunal doit être convaincu que l’intention principale du contribuable consistait à tirer un profit de l’activité, et aussi que cette intention a été mise à exécution conformément aux normes objectives du comportement commercial. Un des facteurs dont la Cour tient compte est l’attente qu’avait raisonnablement le contribuable de tirer profit de cette activité.
+[18] L’avocat du ministre soutient que l’occupation de la propriété par la fille de l’appelant constitue un aspect personnel qui rend nécessaire de décider si le contribuable avait une attente raisonnable de profit pendant les années en cause. Il a admis qu’aucun élément de preuve ne démontre que l’appelant avait l’intention d’utiliser la maison pour son usage personnel lorsqu’il a acquis le lot et qu’il a fait construire la maison. Cependant, à son avis, la simple occupation de la maison par la fille de l’appelant constituait l’aspect personnel nécessaire.
+[19] Je crois que dans les cas semblables à celui‑ci, la notion d’« aspect personnel » s’étend aux situations dans lesquelles ce n’est pas le profit mais des motifs personnels qui motivent le contribuable à se consacrer à des activités commerciales ou à des activités de location. Il existe un aspect personnel lorsque le contribuable jouit, ou a l’intention de jouir, d’un avantage ou d’un profit personnel découlant de l’activité en cause.
+[20] L’ensemble de la preuve en l’instance démontre que, ni l’appelant, ni aucun membre de sa parenté, n’ont tiré personnellement avantage de l’exploitation du bien locatif. J’admets la déposition de l’appelant qu’il n’a pas construit la maison pour son usage personnel ni pour l’usage d’aucun autre membre de sa famille. L’appelant m’a paru direct et crédible, et son témoignage sur ce point est corroboré par le caractère clairement excessif de la maison au regard des besoins d’un couple à la retraite ou d’une personne célibataire. L’avocat de l’intimée n’a pas contesté que l’objectif de la construction de la maison a été construite en était la location, mais il a insisté sur le fait que l’occupation de la maison par l’appelant et par sa fille a ajouté un aspect personnel à l’activité de location. Cependant, la nécessité de faire habiter la maison pour des motifs de sécurité et d’assurance démontre que l’occupation de la maison par la fille de l’appelant était justifiée par des raisons commerciales plutôt que personnelles. Encore une fois, cette preuve n’a pas été contestée en contre‑interrogatoire, non plus que la déclaration de l’appelant selon laquelle le montant du loyer était raisonnable compte tenu de la faiblesse de la superficie de la maison que sa fille occupait. J’admets aussi que l’occupation de la maison par l’appelant lui‑même était justifiée par les travaux de finition qu’il devait effectuer et qu’il n’en a tiré aucun avantage personnel.
+[21] Dans l’ensemble, j’estime que l’appelant n’avait aucun motif non commercial pour faire construire et pour exploiter ce bien locatif. Il semble que son échec à en tirer un revenu de location est justifié par la mauvaise condition du marché et par la mise de la propriété en vente, et non pas par le fait que sa fille y habitait. L’appelant n’a pas choisi de perdre une occasion de gagner un loyer plus élevé afin de laisser sa filler habiter dans la maison. Celle‑ci y a habité pendant qu’il était impossible de trouver d’autres locataires, ce que démontre la location de la maison à des tiers sans liens de parenté, en 1995.
+[22] Même si j’avais conclu à la présence en l’instance d’un aspect personnel dans l’activité de location, j’aurais tout de même conclu que l’appelant satisfaisait le critère de l’attente raisonnable de profit puisqu’il s’est comporté conformément aux normes reconnues de comportement commercial. Avant d’acheter le lot à Longueuil, il a fait des recherches sur le marché locatif et il a évalué les perspectives de développement et de croissance économique du secteur. Il a préparé des projections du coût de construction et du revenu de location, et conclu qu’il existait une possibilité d’en tirer des profits. Et après l’achèvement de la maison, il a pris toutes les mesures nécessaires pour la louer, puis a décidé de mettre la maison en vente pour minimiser ses pertes. L’on a suggéré qu’il aurait dû remettre la maison à la banque dès 1994, alors qu’il était incapable de trouver un locataire, et que le fait qu’il n’a pas agi ainsi a démontré qu’il ne gérait pas cette activité de manière commerciale. Cependant, il s’agit‑là d’une critique des compétences commerciales de l’appelant plutôt que du caractère commercial de l’activité; elle n’est donc pas pertinente pour l’application du critère de l’attente raisonnable de profit.
+[23] Je conclus que l’activité locative de l’appelant était pour lui une source de revenu aux termes de la Loi et qu’il a droit à la déduction des pertes qu’il a demandée.
+[24] L’appel est accueilli, avec dépens.
+Signé à Ottawa, Canada, ce 12e jour de juin 2004.
+« B. Paris »
+Juge Paris
+RÉFÉRENCE :
+2004CCI424
+No DU DOSSIER DE LA COUR :
+1999-1762(IT)G
+INTITULÉ DE LA CAUSE :
+Origène Tremblay et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Sept-Îles (Québec)
+DATE DE L'AUDIENCE :
+le 1er juin 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+le 12 août 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me André A. Lévesque
+Pour l'intimée :
+Me Simon-Nicolas Crépin
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me André a. Lévesque
+Étude :
+Bonaventure (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [2002] 2 R.C.S. 645.

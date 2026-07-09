@@ -1,0 +1,185 @@
+---
+title: "North Delta Real Hot Yoga ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31071/index.do"
+last_modified: "2012-10-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 369"
+citation2: ""
+neutral_citation: "2012 CCI 369"
+decision_date: "2012-10-19"
+language: "fr"
+item_id: "31071"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4712
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:19:57.115000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f1ebf1cec19ec8d68ffb499b7f83136aa0c3a5fbca0784aa506e3505032cb838"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# North Delta Real Hot Yoga ltd. c. M.R.N.
+
+- Citation: 2012 CCI 369
+- Decision date: 2012-10-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4712, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+North Delta Real Hot Yoga ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-19
+Référence neutre
+2012 CCI 369
+Numéro de dossier
+2011-3768(CPP), 2011-3769(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2011-3768(CPP)
+2011-3769(EI)
+ENTRE :
+NORTH DELTA REAL HOT YOGA LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SUKHDEV PANGALIA,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 22 juin et 24 septembre 2012,
+à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge J. M. Woods
+Comparutions :
+Représentant de l’appelante :
+M. Makan Parhar
+Avocat de l’intimé :
+Pour l’intervenant :
+Me Devi Ramachandran
+L’intervenant lui‑même
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des décisions que le ministre du Revenu national a rendues en vertu de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada selon lesquelles Sukhdev Pangalia occupait un emploi assurable et ouvrant droit à pension auprès de l’appelante du 1er mai au 15 octobre 2010 est rejeté et les décisions sont confirmées. Chaque partie assumera ses propres dépens.
+Signé à Ottawa (Ontario), ce 19e jour d’octobre 2012.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 26e jour de novembre 2012.
+Alya Kaddour, traductrice
+Référence : 2012CCI369
+Date : 20121019
+Dossiers : 2011-3768(CPP)
+2011-3769(EI)
+ENTRE :
+NORTH DELTA REAL HOT YOGA LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SUKHDEV PANGALIA,
+intervenant.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Sukhdev Pangalia a travaillé pour le studio de yoga de l’appelante pendant environ six mois avant de perdre son emploi et de présenter une demande de prestations d’assurance-emploi. L’intimé a alors établi que M. Pangalia avait occupé un emploi assurable et ouvrant droit à pension au sens de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada.
+[2] L’appelante interjette appel de cette décision et fait valoir qu’elle avait engagé M. Pangalia en tant qu’entrepreneur indépendant. M. Pangalia est intervenu en l’espèce.
+[3] Cette embauche s’est mal terminée et M. Pangalia a fini par intenter plusieurs procédures judiciaires.
+[4] Je voudrais tout particulièrement souligner le fait que le Employment Standards Tribunal (Tribunal des normes d’emploi – le « Tribunal ») de la Colombie‑Britannique a conclu que M. Pangalia était un employé au sens des lois pertinentes. La conclusion du Tribunal ne règle pas la question en litige en l’espèce, en partie parce que le Tribunal adopte une définition élargie du terme « emploi » en vue d’aider à la réalisation des grands objectifs de la loi (Employment Standards Tribunal, dossier no 2011A/189, paragraphes 53 à 59). Il convient néanmoins de tenir compte des conclusions du Tribunal, particulièrement en ce qui a trait aux faits. Ces conclusions cadrent avec la conclusion que j’ai tirée au vu de la preuve dont j’ai été saisie.
+Le contexte
+[5] Le studio de yoga de l’appelante est situé à Delta, en Colombie‑Britannique. Il s’agit d’une petite entreprise familiale; M. Makan Parhar en est le président et son épouse, Rapinder Lalli, assure le soutien administratif. M. Parhar et Mme Lalli ont tous deux témoigné pour le compte de l’appelante.
+[6] M. Pangalia a témoigné pour le compte de l’intimé.
+[7] À l’origine, MM. Parhar et Pangalia se sont connus dans un autre studio de yoga et sont devenus amis. Après que M. Parhar a ouvert son propre studio, il s’est intéressé à l’expérience des affaires de M. Pangalia, étant donné que ce dernier avait été propriétaire d’un studio de danse.
+[8] La relation de travail entre MM. Parhar et Pangalia était tendue, pour employer un euphémisme, et il était évident à l’audience qu’il y avait beaucoup d’animosité entre les deux hommes. Il semble que cette animosité ait eu un impact sur la fiabilité de tous les témoignages, y compris celui de Mme Lalli. Par exemple, MM. Parhar et Pangalia se sont mutuellement accusés d’avoir forgé de toutes pièces une entente provisoire dans le contexte de leur différend en matière de normes d’emploi.
+[9] En pareilles circonstances, il est difficile de faire ressortir la vérité en ce qui concerne la nature de leur relation. Il ne reste plus qu’à définir quels sont les faits les plus probables compte tenu de l’ensemble de la preuve.
+[10] En ce qui concerne la nature des tâches accomplies, M. Pangalia a déclaré avoir été engagé comme réceptionniste. Ses tâches étaient définies de manière extrêmement précise et se trouvaient sous le contrôle de l’appelante.
+[11] M. Parhar et Mme Lalli ont affirmé que M. Pangalia n’avait pas été engagé comme réceptionniste, mais en tant que gestionnaire et consultant en affaires.
+[12] J’ai conclu que, selon toute vraisemblance, M. Pangalia avait été embauché comme réceptionniste à temps plein et qu’il devait également s’acquitter de certaines fonctions de gestion et de consultation. Il ne serait pas logique que M. Pangalia ait été engagé uniquement comme réceptionniste dans la mesure où son salaire mensuel, qui s’élevait à 3 000 $, était bien plus élevé que celui des autres employés.
+Les principes juridiques applicables
+[13] Les principes juridiques généraux qui s’appliquent ont été récemment énoncés par la juge Sharlow dans l’arrêt TBT Personnel Services Inc. c Canada, 2011 CAF 256, aux paragraphes 8 et 9 :
+[8] L’arrêt qui fait autorité en ce qui concerne les principes pour établir une distinction entre un contrat de louage de services et un contrat d’entreprise est Wiebe Door Services Ltd. c. M.N.R. [1986] 3 C.F. 553 (C.A.). Le juge Major, rédigeant l’arrêt de la Cour suprême du Canada, a approuvé Wiebe Door dans l’arrêt 67112 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 R.C.S. 983. Il a résumé, aux paragraphes 47 et 48, les principes pertinents comme suit :
+47. [...] La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48. Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[9] Dans les arrêts Wolf c. Canada, 2002 CAF 96, [2002] 4 C.F. 396 (C.A.), et Royal Winnipeg Ballet c. Canada (Ministre du Revenu national – M.N.R.) 2006 CAF 87, [2007] 1 R.C.F. 35, la Cour a ajouté que lorsqu’il est établi que les parties avaient l’intention commune d’établir une relation juridique entre elles, il est nécessaire de tenir compte de cette preuve, mais il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties.
+[14] L’application de ces principes généraux à un cas précis est largement tributaire des faits. Toutefois, certains principes sont ressortis de la jurisprudence, principes que le juge Hershfield a clairement résumés dans une affaire de soins infirmiers à domicile : Direct Care In-Home Health Services Inc. c M.R.N., 2005 CCI 173. Les parties pertinentes de cette décision sont reproduites ci‑dessous.
+Contrôle
+[11] Dans le cadre de l’analyse de ce facteur, il faut déterminer qui contrôle le travail et comment, quand et où il doit être effectué. S’il est jugé que le travailleur a le contrôle du travail une fois qu’il lui est confié, cela semble davantage indiquer que le travailleur est un entrepreneur indépendant, et s’il est jugé que l’employeur exerce un contrôle sur l’exécution du travail par le travailleur, cela laisse entendre qu’il y a une relation employeur‑employé. Toutefois, lorsque les travailleurs ont une spécialisation accrue, il se peut que ce critère soit considéré comme moins fiable. On accorde donc plus d’importance à la question de savoir si le service que le travailleur doit fournir dans le cadre de ses fonctions est simplement axé sur les « résultats »; c.‑à‑d. « voici une tâche précise – vous avez été engagé pour l’exécuter ». Dans un tel cas, il n’y a pas de lien de subordination, ce qui est une exigence fondamentale pour qu’il y ait une relation employé-employeur. De plus, il ne faut pas confondre le contrôle des résultats, qui peut être exigé à chaque fois qu’un travailleur est engagé pour fournir des services, avec le contrôle ou la subordination d’un travailleur.
+[…]
+Outils et matériel
+[13] Pour ce qui est de ce facteur, il faut se demander qui possède les biens ou le matériel nécessaires pour l’exécution du travail, l’employeur ou la travailleuse. Ce facteur semble indiquer que la travailleuse est une entrepreneuse indépendante si c’est elle qui contrôle les biens ou le matériel. En revanche, si c’est l’employeur qui en a le contrôle, il est probable que la conclusion sera que la travailleuse est une employée.
+[…]
+Risque de perte/possibilité de profit
+[16] Ce facteur permet d’examiner la possibilité de profit et le risque de perte du travailleur. Normalement, un entrepreneur indépendant assume les risques de perte et est responsable des possibilités de profit résultant de l’exécution de son travail, alors que dans le cas d’un employé, c’est l’employeur qui assume ce fardeau et qui a ces possibilités.
+[…]
+À qui appartient l’entreprise?
+[…]
+[22] Toutefois, il ne faut pas tomber dans le piège et penser que seulement ce qui revêt les signes extérieurs d’une « entreprise » est une entreprise pour les besoins de cette analyse. À cet égard, je fais référence au paragraphe 13 de l’arrêt D & J Driveway :
+[...] Il faut bien se prémunir à l’encontre d’un réflexe de songer uniquement à une corporation d’affaires ou à une entreprise commerciale structurée lorsque l’on pense à des travaux qui sont réalisés ou des services qui sont fournis autrement qu’en vertu d’un contrat de travail. Ce sont souvent les exemples de l’entrepreneur en électricité, en plomberie ou en construction qui viennent immédiatement à l’esprit dans un tel contexte. Mais il existe toute une gamme de services qui sont offerts en vertu d’un contrat de service. D’ailleurs, le Code civil du Québec, à l’article 2098, a bien pris soin de mettre sur un pied d’égalité le « contrat d’entreprise » et le « contrat de service » et d’appeler « entrepreneur » la personne qui exécute un contrat d’entreprise et « prestataire de services » celle qui exécute un contrat de service.
+[23] Même si le Code civil du Québec ne s’applique pas en l’espèce, je trouve que les propos du juge Letourneau sont instructifs. […]
+Analyse
+[15] Je commence par l’examen des critères établis dans l’arrêt Wiebe Door.
+[16] Pour ce qui est du contrôle, selon la prépondérance de la preuve, l’appelante exerçait un contrôle sur M. Pangalia. Je conclus qu’on avait confié à ce dernier un poste par quarts à temps plein et que les fonctions de ce poste le menaient à remplir les tâches que tous les réceptionnistes accomplissaient (p. ex. l’ouverture des locaux, le nettoyage, le contrôle des élèves qui se présentaient au studio). Il accomplissait également certaines tâches de gestion.
+[17] M. Parhar a laissé entendre que M. Pangalia ne travaillait pas à temps plein et qu’il avait falsifié l’horaire de travail. Je conclus que cet horaire n’a pas été falsifié. Il est peu probable que M. Pangalia se soit vu confier un poste à temps partiel considérant qu’il recevait un salaire fixe, lequel était considérablement plus élevé que celui des autres employés.
+[18] Pour ce qui est de la question de savoir si M. Parhar était en position de dicter à M. Pangalia la façon d’accomplir son travail, je conclus que tel était le cas. En plus des témoignages oraux, plusieurs échanges de messages électroniques entre les deux hommes donnent à penser que M. Pangalia accomplissait son travail en suivant les instructions détaillées que M. Parhar lui donnait.
+[19] Pour ce qui est des fonctions de consultant en affaires, les éléments de preuve montrent que M. Pangalia a accompli très peu de services à ce titre, voire aucun. Les mauvais rapports de MM. Parhar et Pangalia ont vraisemblablement empêché la relation de progresser dans cette voie.
+[20] En l’espèce, le critère de contrôle tend fortement à démontrer l’existence d’une relation employeur-employé.
+[21] Les autres critères définis dans l’arrêt Wiebe Door jouent un rôle plutôt neutre. Pour ce qui est des outils et du matériel, M. Pangalia utilisait l’ordinateur et d’autre matériel de l’appelante. Il lui arrivait de se servir de sa propre voiture sans être remboursé, mais cela était vraisemblablement assez rare.
+[22] Pour ce qui est des pertes et des profits, il ne s’agit pas non plus de critères significatifs en l’espèce. M. Pangalia devait recevoir un salaire mensuel fixe. Il n’avait que très peu de risques de pertes ou de possibilités de profits, mais cela n’est pas rare, aussi bien dans une relation employeur-employé que dans une relation employeur-entrepreneur indépendant.
+[23] J’ai conclu que l’ensemble de la preuve tendait à démontrer l’existence d’une relation employeur-employé. Très peu d’éléments tendent à démontrer que M. Pangalia avait sa propre entreprise.
+[24] À la lumière de cette conclusion, l’intention des parties n’est pas un élément pertinent. Toutefois, si tel était le cas, je conclurais que les parties avaient vraisemblablement convenu du fait que M. Pangalia serait un entrepreneur indépendant. Il avait accepté une entente selon laquelle aucune déduction à la source ne serait effectuée. Je n’accepte pas le témoignage de M. Pangalia selon lequel son salaire net devait s’élever à 3 000 $. Je conclus qu’il devait gagner 3 000 $ sans retenues à la source. En tant qu’ancien propriétaire d’entreprise, M. Pangalia a vraisemblablement compris que cela signifiait qu’il allait avoir le statut d’entrepreneur indépendant.
+[25] Toutefois, dans les faits, la relation des parties ne cadrait pas avec une relation employeur-entrepreneur indépendant. Si les parties souhaitent entretenir une relation employeur-entrepreneur indépendant au sens de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada, leurs actes doivent correspondre à leurs intentions. Malheureusement pour l’appelante en l’espèce, l’ensemble de la preuve tend à démontrer que les parties n’ont pas agi d’une manière correspondant à une relation employeur-entrepreneur indépendant.
+[26] L’appel sera rejeté et chaque partie assumera ses propres dépens.
+Signé à Ottawa (Ontario), ce 19e jour d’octobre 2012.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 26e jour de novembre 2012.
+Alya Kaddour, traductrice
+RÉFÉRENCE : 2012 CCI 369
+NOS DES DOSSIERS DE LA COUR : 2011-3768(CPP) et
+2011-3769(EI)
+INTITULÉ : North Delta Real Hot Yoga Ltd. c. Le ministre du Revenu national et Sukhdev Pangalia
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATES DE L’AUDIENCE : Les 22 juin et 24 septembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 19 octobre 2012
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Makan Parhar
+Avocat de l’intimé :
+Me Devi Ramachandran
+Représentant de l’intervenant :
+M. Sukhdev Pangalia
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa (Ontario)

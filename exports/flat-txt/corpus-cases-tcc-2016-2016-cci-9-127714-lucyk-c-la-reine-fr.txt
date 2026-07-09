@@ -1,0 +1,190 @@
+Title: Lucyk c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/127714/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-9-127714-lucyk-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-01-08
+
+# Lucyk c. La Reine
+
+- Citation: 2016 CCI 9
+- Decision date: 2016-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3058, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lucyk c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-01-08
+Référence neutre
+2016 CCI 9
+Numéro de dossier
+2014-4343(IT)I
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-4343(IT)I
+ENTRE :
+CHRIS LUCYK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 8 décembre 2015, à Regina (Saskatchewan)
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Représentant de l’appelant :
+Me Ralph Munchinsky
+Avocat de l’intimée :
+Me Cailen Brust
+JUGEMENT
+L’appel est accueilli en partie, sans dépens, et les nouvelles cotisations qui sont visées par l’appel sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations compte tenu du fait que 10 % de l’usage du téléphone de la maison de l’appelant était lié aux activités d’entreprise de 101103269 Saskatchewan Ltd.
+Signé à Ottawa, Canada, ce 8e jour de janvier 2016.
+« Don R. Sommerfeldt »
+Juge Sommerfeldt
+Traduction certifiée conforme
+ce 8e jour de mars 2016.
+S. Tasset
+Référence : 2016 CCI 9
+Date : 20160108
+Dossier : 2014-4343(IT)I
+ENTRE :
+CHRIS LUCYK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sommerfeldt
+Introduction [1] Le présent appel, qui concerne les années d’imposition 2009 et 2010, a été entendu à Regina, en Saskatchewan, le 8 décembre 2015.
+[2] L’appelant, Chris Lucyk, est un poseur de moquettes dévoué et travaillant. De fait, il est tellement dévoué et travaillant qu’il a choisi de passer le 8 décembre 2015 à travailler à poser des moquettes plutôt que d’assister à l’audition du présent appel. À l’audience, M. Lucyk a été représenté par Ralph Munchinsky, qui est un ami de M. Lucyk et une personne avec qui il fait affaire. Plus particulièrement, M. Munchinsky est l’agent d’assurance-vie de M. Lucyk. M. Munchinsky a également agi comme représentant de M. Lucyk en vertu de l’article 18.14 de la Loi sur la Cour canadienne de l’impôt (la « LCCI »)[1].
+[3] Étant donné les liens étroits entre M. Lucyk et M. Munchinsky, ce dernier a une certaine connaissance personnelle des modalités de travail du premier. En conséquence, M. Munchinsky, qui a prêté serment comme témoin, a témoigné au soutien de l’appel de M. Lucyk. Toutefois, comme l’avocat de la Couronne l’a diligemment souligné, certains des éléments de preuve que M. Munchinsky a présentés constituaient du ouï-dire. Puisque le présent appel a été entendu selon la procédure informelle, j’ai permis à M. Munchinsky de dire ce qu’il avait à dire[2], mais j’ai fait savoir que, dans la mesure où M. Munchinsky présenterait des éléments de preuve par ouï-dire, je déciderais du poids qu’il convient d’y accorder[3].
+Contexte [4] M. Lucyk est employé et unique actionnaire de la société 101103269 Saskatchewan Ltd. (« 101SK »), qui exploite une entreprise de pose de moquettes. 101SK emploie M. Lucyk pour réaliser la majorité des travaux de pose de moquettes.
+[5] M. Lucyk est marié à Rosalind Lucyk, qui est employée par un employeur sans lien de dépendance, auprès duquel elle occupe un poste dans la vente au détail qui n’est pas pertinent pour le présent appel. Elle fait un peu de travail pour 101SK, mais de manière officieuse, puisqu’il appert qu’elle n’est pas une employée de 101SK[4].
+Les nouvelles cotisations [6] Par voie d’avis de nouvelle cotisation datés du 14 mars 2013 (les « nouvelles cotisations »), le ministre a établi de nouvelles cotisations à l’égard de M. Lucyk de manière à inclure des avantages imposables dans le calcul de son revenu pour les années d’imposition 2009 et 2010. Les avantages étaient liés à des dépenses personnelles de M. et Mme Lucyk, s’élevant à 35 168,00 $ en 2009 et à 32 857,00 $ en 2010 qui auraient été payées par 101SK. Le ministre a par la suite modifié les nouvelles cotisations de manière à permettre à M. Lucyk de déduire des dépenses liées à des déplacements effectués au moyen d’un véhicule à moteur s’élevant à 18 373,00 $ en 2009 et à 17 958,00 $ en 2010.
+[7] Voici les catégories de dépenses et les montants des dépenses que 101SK aurait payées au profit de M. Lucyk :
+Description
+2009
+2010
+Repas et divertissements
+3 730,98 $
+3 040,66 $
+Déplacements
+597,98 $
+352,06 $
+Uniformes
+300,00 $
+459,55 $
+Téléphone
+1 001,82 $
+776,47 $
+Services publics
+1 340,63 $
+1 039,36 $
+Véhicule
+22 649,40 $
+22 953,00 $
+29 620,81 $
+28 621,10 $
+[8] Voici les catégories de dépenses et les montants des dépenses que 101SK aurait payées au profit de Mme Lucyk :
+Description
+2009
+2010
+Repas et divertissements
+854,83 $
+777,86 $
+Téléphone
+115,78 $
+611,44 $
+Véhicule
+4 576,20 $
+2847,00 $
+5 546,81 $
+4236,30 $
+[9] Lorsqu’il a établi les nouvelles cotisations, le ministre a considéré que :
+a) le paiement par 101SK des dépenses personnelles de M. Lucyk avait donné lieu à des avantages que M. Lucyk avait reçus en sa qualité d’employé ou d’actionnaire de 101SK, lesquels avantages devaient être inclus dans le calcul du revenu de M. Lucyk en vertu de l’article 6 ou du paragraphe 15(1), selon le cas, de la Loi de l’impôt sur le revenu (la « LIR »)[5], et
+b) le paiement par 101SK des dépenses personnelles de Mme Lucyk avait donné lieu à des avantages que M. Lucyk avait reçus en vertu du paragraphe 56(2) de la LIR.
+Concessions [10] À l’audition du présent appel, M. Munchinsky a avisé la Cour que M. Lucyk avait concédé que les nouvelles cotisations étaient correctes à l’égard des montants suivants :
+2009 2010
+Déplacements 597,98 $ 352,06 $
+Uniformes 300,00 $ 459,55 $
+Services publics 1340,63 $ 1039,36 $
+[11] Par conséquent, sous réserve d’un commentaire formulé ci-après au paragraphe 13, les seules catégories et les seuls montants qui demeurent en litige quant aux dépenses de M. Lucyk sont les suivants :
+2009 2010
+Repas et divertissements 3 730,98 $ 3 040,66 $
+Téléphone 1 001,82 $ 776,47 $
+Véhicule 22 649,40 $ 22 953,00 $
+[12] Sous réserve du paragraphe suivant, les dépenses que 101SK aurait payées au profit de Mme Lucyk, comme il est énoncé au paragraphe 8 ci-dessus, demeurent également en litige.
+[13] M. Munchinsky a également affirmé que M. Lucyk ne contestait plus les parties des nouvelles cotisations qui concernaient le coût des repas payés par 101SK auxquels seuls M. et Mme Lucyk avaient pris part. On ne m’a pas précisé à l’audience les montants des dépenses relatives à des repas qui n’étaient plus contestés ni les montants des dépenses relatives à des repas qui demeuraient contestés.
+Analyse Repas et divertissements [14] À l’audience, M. Munchinsky a affirmé que M. Lucyk (en tant qu’employé de 101SK) travaillait souvent avec d’autres poseurs de moquettes dans le cadre de ce qu’il a appelé des [TRADUCTION] « ouvrages divisés ». Lorsqu’un ouvrage était divisé, 101SK et un autre poseur de moquettes présentaient conjointement une soumission pour l’ouvrage et, si la soumission était acceptée, ils posaient la moquette ensemble. Dans ces situations, M. Lucyk invitait parfois l’autre poseur de moquettes (ou, si l’autre poseur de moquettes était une société, l’employé de l’autre poseur de moquettes) à manger, et 101SK payait le coût du repas.
+[15] M. Munchinsky a affirmé que le coût d’un repas payé par 101SK dans la situation décrite au paragraphe précédent n’était pas une dépense personnelle engagée au profit de M. Lucyk. Comme je l’explique au paragraphe suivant, l’Agence du revenu du Canada (l’« ARC ») a adopté la même position.
+[16] À l’audience, M. Munchinsky a produit en preuve, comme pièce A-1, une lettre datée du 28 février 2013 de la Division de la vérification du Bureau des services fiscaux de l’ARC à Regina, à laquelle étaient joints un sommaire des rajustements (révisé) et des documents de travail connexes. Ces documents de travail montrent que l’ARC n’a pas considéré les frais de repas comme un avantage imposable dans les situations où M. Lucyk avait travaillé à l’exécution d’un ouvrage divisé et avait pris un repas en compagnie d’un autre poseur de moquettes qui travaillait également à l’exécution de cet ouvrage et dont le nom apparaissait sur le reçu de repas. Ainsi, d’après la pièce A-1, l’ARC n’a pas traité les frais de repas dans le contexte d’un ouvrage divisé comme un avantage imposable.
+[17] M. Munchinsky a également affirmé que, de temps à autre, M. Lucyk payait des repas à ses assistants. La question n’est pas claire de savoir qui étaient ces assistants, puisque la vérification effectuée par l’ARC n’a rien révélé qui porte à croire que 101SK avait eu d’autres employés que M. Lucyk ou qui montre que 101SK avait engagé des sous-traitants. Malheureusement, M. Lucyk n’était pas présent à l’audience pour témoigner au sujet de ces assistants ou pour indiquer quels repas avaient été payés pour eux.
+[18] Le document de travail no 7005 de la pièce A-1 comporte les affirmations suivantes :
+[traduction]
+L’actionnaire [c.-à-d. M. Lucyk] affirme qu’il invite souvent son épouse à sortir parce qu’elle n’est pas rémunérée pour son travail lorsqu’elle fait des dépôts à la banque ou lorsqu’elle paye des comptes. Puisque ces montants n’ont pas été inclus sur un T4 pour l’épouse (pour le montant des repas payés au lieu d’un salaire), ils seront considérés comme des dépenses personnelles […].
+Souvent, c’est seulement le nom de l’épouse de l’actionnaire qui apparaît sur les reçus.
+[19] Comme je l’ai dit au paragraphe 13 qui précède, M. Lucyk ne conteste plus l’inclusion d’un avantage imposable dans son revenu relativement aux repas auxquels seuls lui et son épouse ont pris part.
+[20] Compte tenu de ce qui précède, je n’ai pas été persuadé que les nouvelles cotisations étaient incorrectes en ce qui concerne les repas et les divertissements.
+Téléphones [21] Durant les années d’imposition en question, M. et Mme Lucyk avaient un téléphone résidentiel à la maison et avaient chacun un téléphone cellulaire. SaskTel établissait une facture mensuelle pour le téléphone de la maison et Telus établissait une seule facture mensuelle pour les deux téléphones cellulaires. 101SK a payé les comptes mensuels relatifs aux trois téléphones. L’ARC a considéré que le téléphone de la maison et le téléphone cellulaire de Mme Lucyk n’étaient pas utilisés à des fins commerciales. En conséquence, l’ARC a inclus les sommes suivantes dans le revenu de M. Lucyk :
+a) le plein montant des comptes de téléphone mensuels relatifs au téléphone de la maison, en vertu du paragraphe 15(1) de la LIR;
+b) la moitié des comptes de téléphone mensuels relatifs aux téléphones cellulaires (représentant la portion attribuable au téléphone cellulaire de Mme Lucyk), en vertu du paragraphe 56(2) de la LIR.
+[22] À l’audience, M. Munchinsky a affirmé dans son témoignage que le téléphone de la maison était utilisé de temps à autre à des fins commerciales, de sorte que 101SK devrait pouvoir déduire une partie des comptes mensuels relatifs au téléphone de la maison (ce qui n’était pas en litige dans le présent appel) et qu’il ne devrait pas s’agir d’un avantage imposable inclus dans le revenu de M. Lucyk. M. Munchinsky n’a pas pu présenter des éléments de preuve détaillés ou précis quant à la proportion de l’usage du téléphone de la maison qui avait eu un objet commercial. Malheureusement, M. Lucyk n’était pas en cour pour présenter des éléments de preuve au sujet de la mesure dans laquelle il avait utilisé son téléphone de la maison à des fins commerciales.
+[23] Au cours des années d’imposition en question, les activités de 101SK été dirigées à partir de la maison de M. et Mme Lucyk et de la fourgonnette Ford F350 de M. Lucyk (la « fourgonnette »). 101SK n’avait aucun autre établissement commercial. En conséquence, je suis convaincu que le téléphone de la maison de M. et Mme Lucyk a été utilisé à l’occasion à des fins commerciales. Toutefois, la Cour ne disposant d’aucun autre élément de preuve que le témoignage de M. Munchinsky, fondé sur les connaissances générales de ce dernier, concernant la mesure dans laquelle le téléphone de la maison avait été utilisé à des fins commerciales, je ne suis pas prêt à allouer plus de 10 % à un usage commercial.
+[24] M. Munchinsky était d’avis que l’ARC avait seulement traité la moitié de l’usage du téléphone cellulaire de M. Lucyk comme étant lié à l’entreprise, étant donné que les documents de travail de la pièce A-1 montrent que l’ARC a traité la moitié de chaque compte mensuel de téléphone cellulaire comme un avantage imposable. Toutefois, il ressort clairement d’un examen plus attentif de ces documents de travail que l’ARC a admis que M. Lucyk avait utilisé son téléphone cellulaire entièrement à des fins commerciales et a présumé que Mme Lucyk n’avait pas du tout utilisé son téléphone cellulaire dans le contexte des activités de l’entreprise de 101SK. Aussi, la moitié de chaque facture que l’ARC a traitée comme un avantage imposable était la moitié qui correspondait au téléphone cellulaire de Mme Lucyk.
+[25] Pour résumer ma conclusion au sujet des dépenses relatives aux téléphones, les nouvelles cotisations devraient être révisées de manière à traiter seulement 90 % (plutôt que 100 %) du coût du téléphone de la maison comme un avantage imposable. Puisqu’il n’y avait aucun élément de preuve concernant l’utilisation du téléphone cellulaire de Mme Lucyk, il n’y a aucune raison de réviser les nouvelles cotisations en ce qui a trait au coût des téléphones cellulaires.
+Véhicules [26] Comme je l’ai mentionné précédemment, M. Lucyk conduisait généralement la fourgonnette, dont il est le propriétaire, lorsqu’il s’occupait des activités de 101SK. À l’audience, M. Munchinsky, a bien décrit les coûts engagés par M. Lucyk pour faire rouler la fourgonnette. M. Munchinsky a affirmé qu’une fourgonnette Ford F350, surtout lorsqu’elle est lourdement chargée d’équipement, de moquettes, de sous-tapis, de colle et d’autres fournitures, est un véhicule dont l’utilisation suscite des dépenses importantes.
+[27] M. Munchinsky a affirmé dans son témoignage que 101SK payait une indemnité à M. Lucyk pour l’utilisation de la fourgonnette, au taux de 0,80 $ le kilomètre. M. Munchinsky croyait que, lorsque l’ARC avait établi les nouvelles cotisations, pour ce qui concerne la fourgonnette, elle avait calculé le montant de l’avantage imposable en présumant que l’indemnité avait été payée au taux de 0,80 $ le kilomètre. Toutefois, il ressort d’un examen des documents de travail de la pièce A-1 et des hypothèses énoncées aux alinéas 8(jj) à 8(eee) de la réponse que l’ARC a calculé l’avantage imposable en fonction de l’hypothèse que l’indemnité avait été payée au taux de 0,60 $ le kilomètre, plutôt que 0,80 $ le kilomètre. Ainsi, si l’indemnité a effectivement été payée au taux de 0,80 $ le kilomètre, l’ARC – par générosité ou par inadvertance – a sous-évalué le montant de l’avantage imposable de 0,20 $ le kilomètre.
+[28] Lorsqu’elle a calculé le revenu de M. Lucyk, l’ARC y a inclus des avantages imposables liés à la fourgonnette s’élevant à 22 649,40 $ pour 2009 et à 22 953,00 $ pour 2010, mais il importe de noter que l’ARC a aussi permis à M. Lucyk de déduire, en vertu de l’alinéa 8(1)h.1) de la LIR, des frais afférents à un véhicule à moteur de 18 373,00 $ en 2009 et de 17 958,00 $ en 2009. Ainsi, l’augmentation nette du revenu de M. Lucyk liée à la fourgonnette par suite des nouvelles cotisations était de 4 276,00 $ (c.-à-d. 22 649,00 $ - 18 373,00 $) pour 2009 et de 4 995,00 $ (c.-à-d. 22 953,00 $ - 17 958,00 $) pour 2010.
+[29] En 2009 et en 2010, Mme Lucyk possédait un véhicule à moteur, qu’elle conduisait pour se rendre à son propre lieu de travail et à divers endroits qui n’étaient pas liés au travail. Elle a aussi utilisé son véhicule pour s’occuper de certaines opérations bancaires de 101SK, qui lui a payé une indemnité au taux de 0,60 $ le kilomètre pour presque tous les kilomètres qu’elle avait parcourus chaque année (c.-à-d. que ce soit à ses fins personnelles ou à des fins commerciales). L’ARC a estimé (en prenant des distances et en employant une méthodologie qui étaient généreusement favorables à M. Lucyk) qu’une part importante des kilomètres que Mme Lucyk avait parcourus n’avait rien à voir avec l’entreprise de 101SK. Par conséquent, lorsqu’elle a calculé les revenus de M. Lucyk pour 2009 et 2010, conformément au paragraphe 56(2) de la LIR, l’ARC a inclus des avantages imposables s’élevant respectivement à 4576,20 $ et à 2847,00 $.
+[30] M. Munchinsky n’a présenté aucun élément de preuve qui me convainquait que le calcul par l’ARC des avantages imposables liés aux véhicules (qu’il s’agisse de la fourgonnette de M. Lucyk ou du véhicule de Mme Lucyk) était incorrect. Ni M. Lucyk ni Mme Lucyk n’étaient présents en cour pour témoigner au sujet de la mesure dans laquelle Mme Lucyk avait utilisé son véhicule pour les activités de 101SK.
+Conclusion [31] En lisant les documents de travail de la pièce A-1, j’ai eu l’impression que, lorsqu’elle avait cerné puis calculé les avantages imposables qui étaient l’objet des nouvelles cotisations, l’ARC avait donné le bénéfice du doute à M. Lucyk et avait eu tendance à arrondir les rajustements et à faire d’autres approximations en sa faveur (plutôt qu’en faveur du fisc).
+[32] En réfléchissant aux observations que M. Munchinsky a formulées à l’audience pour le compte de M. Lucyk, j’ai l’impression que ces deux hommes percevaient les nouvelles cotisations comme étant plus lourdes qu’elles ne l’étaient en réalité. Par exemple, il semble qu’ils aient cru que l’ARC avait traité le coût des repas liés à des ouvrages divisés comme un avantage imposable, alors qu’en fait, l’ARC avait permis à 101SK de déduire le coût de ces repas et n’avait pas inclus ce coût dans le calcul du revenu de M. Lucyk. De même, M. Munchinsky et M. Lucyk semblaient croire que l’ARC avait inclus la moitié du coût mensuel du téléphone cellulaire de M. Lucyk dans le calcul de son revenu, alors qu’en fait, l’ARC avait reconnu le coût intégral de son téléphone cellulaire comme une dépense d’entreprise et, pour ce qui concerne les téléphones cellulaires, elle avait seulement inclus le coût du téléphone cellulaire de Mme Lucyk dans le calcul du revenu de M. Lucyk. De plus, il semble que M. Munchinsky, et peut-être M. Lucyk, croyait que l’ARC avait calculé le montant de l’avantage imposable lié à la fourgonnette en fonction d’une indemnité de 0,80 $ le kilomètre payée par 101SK, alors que le taux que l’ARC a utilisé pour calculer le montant de l’avantage était seulement de 0,60 $ le kilomètre. En outre, l’ARC a permis à M. Lucyk de déduire d’importantes dépenses liées à un véhicule à moteur, qui ont grandement réduit les montants des nouvelles cotisations.
+[33] Outre la modeste part d’usage commercial que j’ai allouée au téléphone de la maison de M. Lucyk, je suis d’avis que les nouvelles cotisations étaient correctes. Toutefois, en raison de ma conclusion concernant le téléphone de la maison, le présent appel est accueilli en partie, sans dépens, et les nouvelles cotisations sont renvoyées au ministre pour nouvel examen et nouvelles cotisations compte tenu du fait que 10 % de l’usage du téléphone de la maison de M. Lucyk était lié à l’entreprise de 101SK. Sous réserve de l’instruction donnée dans la phrase qui précède, les nouvelles cotisations sont ratifiées.
+Signé à Ottawa, Canada, ce 8e jour de janvier 2016.
+« Don R. Sommerfeldt »
+Juge Sommerfeldt
+Traduction certifiée conforme
+ce 8e jour de mars 2016.
+S. Tasset
+RÉFÉRENCE :
+2016 CCI 9
+NO DU DOSSIER DE LA COUR :
+2014-4343(IT)I
+INTITULÉ :
+CHRIS LUCYK ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Regina (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 8 décembre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 8 janvier 2016
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Ralph Munchinsky
+Avocat de l’intimée :
+Me Cailen Brust
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] LRC 1985, ch. T-2, modifiée.
+[2] Voir le paragraphe 18.15(3) de la LCCI.
+[3] Voir l’arrêt Suchon c. La Reine, 2002 CAF 282, au paragraphe 29; et l’arrêt Selmeci c. La Reine, 2002 CAF 293, aux paragraphes 4 à 9.
+[4] À l’alinéa 8(c) de la réponse à l’avis d’appel (la « réponse »), le ministre du Revenu national (le « ministre ») a présumé que Mme Lucyk n’était pas une employée de 101SK. Aucun élément de preuve n’a été présenté pour réfuter cette hypothèse.
+[5] LRC 1985, ch. 1 (5e suppl.), modifiée.

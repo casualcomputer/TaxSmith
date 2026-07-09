@@ -1,0 +1,262 @@
+Title: Ville de Laval v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27905/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-275-27905-ville-de-laval-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-05-18
+
+# Ville de Laval v. M.N.R.
+
+- Citation: 2005 TCC 275
+- Decision date: 2005-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1753, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ville de Laval v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-18
+Neutral citation
+2005 TCC 275
+File numbers
+2004-2902(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-2902(EI)
+BETWEEN:
+VILLE DE LAVAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+________________________________________________________________
+Appeal heard on February 23, 2005, at Montréal, Quebec
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+André Guérin
+Counsel for the Respondent:
+Simon Petit
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister's decision is set aside in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 18th day of May 2005.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 12th day of March 2009.
+Brian McCordick, Translator
+Citation: 2005TCC275
+Date: 20050518
+Docket: 2004-2902(EI)
+BETWEEN:
+VILLE DE LAVAL,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] This appeal was heard at Montréal, Quebec, on February 23, 2005.
+[2] This appeal concerns the insurability of the employment of the worker Sylvie Lafrenière with the Appellant from February 13 to June 9, 2003, the period in issue. On April 23, 2004, the Minister of National Revenue ("the Minister") informed the Appellant of his decision that the worker held insurable employment during this period.
+[3] In making his decision, the Minister relied on the following assumptions of fact:
+[Translation]
+(a) Each year, the Appellant hired people for the enumeration and sale of dog licences and to update the inventory of residential swimming pools. (admitted)
+(b) The worker had been hired by the Appellant as an enumerator since 1998. (admitted)
+(c) The worker's duties consisted in visiting all residences in a given territory to enumerate and sell dog licences and update the inventory of indoor and outdoor swimming pools. (admitted)
+(d) When she was hired, the Appellant gave the worker training on the territory to be visited, instructions to be followed and the city's code of ethics. (admitted)
+(e) The Appellant determined the territory to be visited by the worker. (denied)
+(f) According to the Appellant's instructions, the worker had to visit the residences between 11:00 a.m. and 9:00 p.m. from Monday to Saturday. (admitted)
+(g) The worker could choose her hours of work within the schedule determined by the Appellant. (admitted)
+(h) The worker had to carry an identification card from the Appellant at all times. (admitted)
+(i) The worker had to visit all residences in her territory without exception. (denied)
+(j) When occupants were absent, the Appellant required the worker to make three visits. (admitted)
+(k) The Appellant set a schedule for the worker. (denied)
+(l) The Appellant sold dog licences at $27 each. (denied)
+(m) The worker had to submit several written reports each week to the Appellant on her sales, the refusals, the streets completed and the number of swimming pools. (denied)
+(n) The worker had to submit the money collected to the Appellant each week. (admitted)
+(o) The worker was paid $8 per dog licence sold and $10 per new swimming pool identified. (admitted)
+(p) The worker was paid by cheque each week. (admitted)
+(q) During the period in issue, the worker sold 2,098 dog licences and she identified 204 new swimming pools. (admitted)
+(r) The worker's remuneration rate was determined by the Appellant alone. (admitted)
+(s) The worker had to follow the Appellant's orders and instructions. (denied)
+(t) The work materials were supplied to the worker by the Appellant. (denied)
+(u) The worker had no financial risk in the performance of her work. (denied)
+(v) The worker's duties were integrated with the Appellant's activities. (denied)
+[4] The evidence disclosed the following facts:
+1. The worker and the Appellant entered into an agreement extending from February 13 to June 9, 2003 under which the worker was to go door-to-door on the territory of Laval to sell licences to dog owners and identify newly installed swimming pools.
+2. Before beginning her work, the worker was given training by the Appellant.
+3. She had no fixed schedule and she could solicit residents between 11 a.m. and 9 p.m., Monday through Saturday.
+4. She had to cover the entire territory assigned to her between February and June, but nobody checked whether this territory had in fact been completely covered and no list of addresses where a licence had been sold the previous year was given to the worker.
+5. She had to submit weekly reports and she was paid according to the number of licences sold ($8 for each dog licence and $10 for each new swimming pool identified).
+6. She supplied her own automobile and bore all costs related to the car as well as her other expenses, such as her clothing.
+7. The Appellant for its part supplied certain ancillary tools such as forms, a receipt book, an identification card, etc.
+8. The worker assumed full responsibility in the event of the loss of any licences or money.
+9. She had no guarantee of income and she had no insurance coverage provided by the Appellant in the event of injury.
+[5] The worker was given a few hours of training by the Appellant. At the very outset the Appellant warned the workers that residents who were solicited were often recalcitrant. The Appellant gave her a code of ethics and its operational guidelines. The evidence established that the worker was hired as a self-employed worker and not as the Appellant's employee. Accordingly, the Appellant did not reimburse the worker for expenses incurred in the course of her work. She was not provided with any office space; she was not entitled to any vacation or any benefit. She was not covered by any collective agreement and she had no pension fund or insurance plan. She was not paid for her training session. She had no seniority, pension plan or job security. There were no source deductions for taxes, employment insurance or union dues. No equipment was provided to her by the Appellant other than a kit with the following items:
+- a certificate signed by the director of finance and treasurer of the city authorizing her to go door-to-door to sell dog licences;
+- an identification card;
+- lists of locations by district (road sheets) with taxpayers' addresses;
+- pre-numbered official receipts;
+- dog licences bearing the same numbers;
+- application forms for exemption from payment of dog licences;
+- pamphlets pertaining to the dog by-law;
+- weekly report forms;
+- refusal sheets;
+- a bag.
+[6] The worker testified at the hearing. She is an office clerk and does this work for the Appellant to increase her income. She has been hired every year since 1998. Toward the end of January, she received a call from Mr. Lépine, manager of the licences division of the City of Laval. She stated that in her opinion she was a self-employed worker and was hired as such by the Appellant. She has her own car to do her work and she bears all the related expenses. The same applies to her work clothes. She testified that she identified herself as a self-employed worker in her income tax return. She stated that in the performance of her duties for the Appellant, she could follow her own procedure. Moreover, she was free to take whatever time off she wished.
+[7] The determination of the insurability of employment involves the application of paragraph 5(1)(a) of the Employment Insurance Act ("the Act"), which provides as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[8] For the exercise of determining insurability under paragraph 5(1)(a), supra, the courts have laid down the tests. Here are a few examples. In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, the Supreme Court of Canada stated, at paragraph 36:
+[36] Various tests have emerged in the case law to help determine if a worker is an employee or an independent contractor. The distinction between an employee and an independent contractor applies not only in vicarious liability, but also to the application of various forms of employment legislation, the availability of an action for wrongful dismissal, the assessment of business and income taxes, the priority taken upon an employer's insolvency and the application of contractual rights.... Accordingly, much of the case law on point while not written in the context of vicarious liability is still helpful.
+[9] In Montreal v. Montreal Locomotive Works Limited, [1947] 1 D.L.R. 161, Lord Wright stipulated that:
+It has been suggested that a fourfold test would in some cases be more appropriate, a complex involving (1) control; (2) ownership of the tools; (3) chance of profit; (4) risk of loss. Control in itself is not always conclusive.
+[10] In Sagaz, supra, the Supreme Court added the following explanations:
+[46] In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. ... Further, I agree with MacGuigan J.A. in Wiebe Door, [[1986] 3 F.C. 553] ... :
+... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. ...
+[47] ... The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[11] In Vulcain Alarme Inc. v. Canada (Minister of National Revenue), [1999] F.C.J. No. 749, the Federal Court of Appeal ruled on the insurability of Mr. Blouin's employment. Here are the circumstances and the reasoning of Létourneau J.A.:
+[3] In connection with the control which characterizes master-servant relations in a contract of employment, and thus the relationship of subordination required between the employer and employee, the Tax Court of Canada deputy judge considered inter alia the following facts:
+...
+(b) Mr. Blouin had to report to the plaintiff's business once a month to get the list of customers requiring service;
+(c) Mr. Blouin enjoyed flexible hours but the services had to be provided to the plaintiff's customers within 30 days;
+(d) Mr. Blouin was entitled to do work for other businesses, but had to give the plaintiff priority in carrying out the work given to him by the latter;
+...
+(f) Mr. Blouin had to submit his time sheets and expense reports to be paid by the hour at a rate determined by the plaintiff, and the plaintiff accordingly exercised control over him through this billing system.
+[4] In our opinion, all these points of fact are also consistent with a contract of enterprise. ... The fact that Mr. Blouin had to report to the plaintiff's premises once a month to get his service sheets and so to learn the list of customers requiring service, and consequently the places where his services would be provided, does not make him an employee. ...
+[5] As regards remuneration and the billing system, it is worth repeating the comments of my brother Hugessen J.A. in Canada (Attorney General) v. Rousselle et al.[(1990) 124 N.R. 339, at page 344] where he concluded that the judge had clearly not understood the meaning of the word "control":
+Fixing the amount of remuneration or defining the purpose of the exercise is not controlling work. These aspects exist in a contract for services as much as in a contract of service. It is still more the case that control does not lie in the act of payment, whether by cheque or otherwise.
+[6] The same is true, of course, of reimbursement for expenses and the inevitable billing system associated with it.
+[7] ... On the contrary, the latter was complete master of the way in which he provided his services, except that they had to be done within 30 days. ... No one imposed any control on him or exercised any supervision over his provision of the services, and Mr. Blouin set his own schedule. ...
+[8] The trial judge recognized that Mr. Blouin travelled from one site to another with his own truck to provide the inspection services required but took as an indication of a contract of employment the fact that he was reimbursed for his expenses by the plaintiff and that the inspection of detectors done by Mr. Blouin was done using a special detector provided by the plaintiff.
+...
+[14] ... However, they were not legally bound by an exclusive contract and had not ceased to be contractors. Mr. Blouin was not working in the plaintiff's offices or workshops.[13] Further, his comings and goings, his work hours and days were in no way integrated into or coordinated with the plaintiff's operations. ...
+...
+[18] ... Although Mr. Blouin's income was calculated on an hourly basis, the number of hours of work were determined by the number of service sheets he received from the plaintiff. Mr. Blouin and his company thus had no guaranteed income. Unlike the technicians working as employees within the plaintiff's business, whose weekly salary was constant, Mr. Blouin's income fluctuated with the service calls. In fact, towards the end of his contract with the plaintiff Mr. Blouin was no longer doing the equivalent of forty hours a month as he was receiving few service sheets. ...
+[19] Further, Mr. Blouin, who used his own vehicle for work, had to pay the losses resulting from an accident in which he was involved and obtain another vehicle. ...
+[12] The Federal Court of Appeal, per Létourneau J.A., sought to recognize, in this exercise, the importance of the intention expressed by the parties to the contract of work. He ruled as follows in Livreur Plus Inc. v. Canada (Minister of National Revenue), [2004] F.C.J. No. 267:
+[17] What the parties stipulate as to the nature of their contractual relations is not necessarily conclusive, and the Court may arrive at a different conclusion based on the evidence before it: D & J Driveway Inc. v. The Minister of National Revenue, [2003] F.C.J. No. 1784, 2003 FCA 453. However, if there is no unambiguous evidence to the contrary, the Court should duly take the parties' stated intention into account.... Essentially, the question is as to the true nature of the relations between the parties. Thus, their sincerely expressed intention is still an important point to consider in determining the actual overall relationship the parties have had between themselves in a constantly changing working world....
+[13] Pursuing his analysis of the employment of the workers, Létourneau J.A. turned to the control test and wrote:
+[24] Counsel for the respondent mentioned a number of facts ... To begin with, she strongly emphasized the fact that the delivery persons were subject to obligatory hours of availability, each worked in a defined territory and they could not alter the work schedule without the applicant's authorization.
+[25] With respect, I do not think that these three first points are conclusive in determining the nature of the overall relationship between the parties or suffice to change the nature of what they stated in the contract. ...
+[26] The respondent submitted that there was also evidence of control exercised by the applicant over its delivery persons, first, in the obligation they had to file delivery reports. To that should be added the fact that the applicant checked with the pharmacies to ensure that the goods were indeed collected and delivered as agreed and to their satisfaction.
+[27] These two aspects relied on by the respondent are only evidence of control by the applicant of the result, a result for which it was responsible to its customers. ...
+[14] The judge then examined the employment of the workers under the test of ownership of the tools, stating:
+[33] The most important, most significant and most costly work tool was still the automobile. There was no dispute that this work tool was the property of the delivery persons. ...
+[15] Concluding that the workers' employments were not insurable, Létourneau J.A. ruled, in part, as follows:
+[35] On the question of profit and loss, the evidence was that the delivery persons' income rose or fell from one week to the next depending on the number of deliveries and exchanges the delivery persons could make between themselves. They were not entitled to paid leave, so that their income was affected if they decided to take a rest period. ...
+[36] The contracts and testimony established that the delivery persons were responsible for expenses associated with the use of their automobiles, namely depreciation, repairs, gasoline, insurance, registration, maintenance and so on. They thus incurred all the risks of loss and fluctuation in their income, especially in the event of an accident....
+[37] Finally, the delivery persons were personally responsible for loss of the medication they were delivering, the money they received from customers of pharmacies, and ...
+...
+[41] The delivery persons had no offices or premises at the applicant's location. They did not have to go to the applicant's location to do their delivery work....
+[16] In Wolf v. Canada, [2002] 4 F.C. 396, the Federal Court of Appeal, per Desjardins J.A., again determined that the worker was not engaged in insurable employment. It ruled, in part:
+[117] ... I say, with great respect, that the courts, in their propensity to create artificial legal categories, have sometimes overlooked the very factor which is the essence of a contractual relationship, i.e. the intention of the parties. Article 1425 of the Civil Code of Québec establishes the principle that "[t]he common intention of the parties rather than the adherence to the literal meaning of the words shall be sought in interpreting a contract". ...
+[118] ... The hiring company does not, in its day-to-day operations, treat its consultants the same way it treats its employees ... The whole working relationship begins and continues on the basis that there is no control and no subordination.
+...
+[120] In our day and age, when a worker decides to keep his freedom to come in and out of a contract almost at will, when the hiring person wants to have no liability towards a worker other than the price of work and when the terms of the contract and its performance reflect those intentions, the contract should generally be characterised as a contract for services. If specific factors have to be identified, I would name lack of job security, disregard for employee-type benefits, freedom of choice and mobility concerns.
+[17] Finally, it is worth citing Seitz v. Entraide populaire de Lanaudière Inc., [2001] J.Q. No. 7635, where the Court of Québec resolved a dispute similar to the case at bar. Here are a few relevant extracts:
+[Translation]
+[10] ... l'Entraide recruits salespersons who, in the Court's opinion, are not volunteers. ... Accordingly, it solicits candidates to sell lottery tickets. It requires that these candidates have an automobile, a driver's licence, interpersonal skills, availability and a team spirit.
+[11] The primary aim of the salespersons so recruited is to obtain an income. For some, the income they derive from the sale of the tickets is in addition to their income security benefits or employment insurance benefits. For most, it is temporary work while they look for a job or try to return to the workforce. ...
+...
+[14] All of the salespersons, including the plaintiff, have had the same remuneration since December 1997. They receive $5 per book of tickets sold. There are no deductions at source from this remuneration. The salespersons must bear their own costs of transportation, meals and accommodation. They have no fringe benefits.
+...
+[62] The indicators of a subordinate relationship [encadrement] are, in particular:
+- mandatory presence at a place of work
+- adherence to a work schedule
+- control over the employee's absences for vacations
+- submission of activity reports
+- supervision of the quantity and quality of the work
+- imposition of methods for performing the work
+- power of sanction over the employee's performance
+- deductions at source
+- fringe benefits
+- employee status in tax returns
+- exclusivity of services for the employer
+...
+[65] On a balance of probabilities, the Court is persuaded that the plaintiff was a self-employed worker offering his services to l'Entraide. That is, he was a provider of services. He sold lottery tickets at his convenience. He was free to accept or reject proposed assignments. He could organize his work schedules as he wished. ...
+...
+[68] Furthermore, the plaintiff himself considered he was a self-employed worker deriving an income from a business in his 1997, 1998 and 1999 tax returns.
+[18] This Court has drawn on the above-cited judgments in deciding the case before it.
+[19] The evidence gathered has established the following facts that should now be analyzed in light of the four tests laid down in the case law.
+A. CONTROL
+1. The flexibility of the worker's hours of work; she had no set hours.
+2. Great flexibility as to days of work, none of which was mandatory. Only Sunday was excluded.
+3. The worker reported once a week to the Appellant to hand over what she had collected and receive her pay.
+4. The Appellant assigned the worker to a designated territory, but she was free to cover it at her discretion.
+5. The territory covered was in no way verified.
+6. The worker was not supervised at all.
+7. She was not required to notify anyone if she was absent.
+8. She was free to work elsewhere, and the Appellant had no exclusive right to her services; in fact, she held another job as an office clerk.
+9. The performance of her duties was left to the worker's discretion.
+B. OWNERSHIP OF THE TOOLS
+1. The forms and accessory items associated with the work were provided by the Appellant.
+2. The worker supplied her automobile, which was essential to her work, and she was not reimbursed for any expenses, such as insurance, repairs, maintenance, fuel or registration.
+3. The Appellant did not provide her with any office, telephone, computer or pager.
+C. PROFITS AND LOSSES
+1. The worker was paid exclusively on commission.
+2. Her income varied according to the number of licences sold and swimming pools enumerated.
+3. She risked losses in the event of mechanical breakdowns, and bore the expenses related to her car, including fuel and insurance; she had no liability insurance.
+4. She was responsible for the loss of any licences or money that had been collected.
+5. She had no paid vacation or leave.
+6. She had no guaranteed remuneration and was not paid for overtime.
+7. If she could not travel, she was deprived of income.
+8. The worker had no job security, pension fund or group insurance.
+D. INTEGRATION
+1. The Appellant did not provide her with an office or premises for her work.
+2. The worker was not employed exclusively by the Appellant.
+3. Her hours of work and her days were not coordinated with those of the other employees of the Appellant.
+4. In the context of her employment with the Appellant, she did not contribute to the Quebec Pension Plan or any other retirement plan.
+5. Her remuneration was not subject to any source deductions.
+6. She had no opportunity for promotion, advance layoff notice, or seniority rights.
+7. Her pay scale was non-existent; she had no permanent or supernumerary status.
+8. She was not covered by a collective agreement.
+9. The worker was a representative of the Appellant, but her work was not integrated with its business as a municipality; furthermore, she was not a regular employee of the Appellant; in the performance of her duties, the worker operated her own small business and not that of the Appellant.
+[20] Having regard to the foregoing analysis, the evidence has established on a balance of probabilities that the worker was self-employed. She operated her small business. The work she was doing did not fulfill the requirements of a contract of service within the meaning of paragraph 5(1)(a) of the Act and the analysis of her work and her relationship with the Appellant has satisfied this Court that the worker provided her services to the Appellant as a self-employed worker.
+[21] Consequently, the appeal is allowed and the Minister's decision is set aside.
+Signed at Grand-Barachois, New Brunswick, this 18th day of May 2005.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 12th day of March 2009.
+Brian McCordick, Translator
+CITATION:
+2005TCC275
+COURT FILE NO.:
+2004-2902(EI)
+STYLE OF CAUSE:
+VILLE DE LAVAL AND M.N.R.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+February 23, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable S.J. Savoie, Deputy Judge
+DATE OF JUDGMENT:
+May 18, 2005
+APPEARANCES:
+Counsel for the Appellant:
+André Guérin
+Counsel for the Respondent:
+Simon Petit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+André Guérin
+Firm:
+Allaire et associés
+Laval, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

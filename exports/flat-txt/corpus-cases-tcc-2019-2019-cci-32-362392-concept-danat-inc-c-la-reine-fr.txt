@@ -1,0 +1,214 @@
+Title: Concept Danat Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/362392/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-32-362392-concept-danat-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-02-01
+
+# Concept Danat Inc. c. La Reine
+
+- Citation: 2019 CCI 32
+- Decision date: 2019-02-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4351, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Concept Danat Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-02-01
+Référence neutre
+2019 CCI 32
+Numéro de dossier
+2017-3790(IT)I
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3790(IT)I
+ENTRE :
+CONCEPT DANAT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 20 juin 2018 et le 23 novembre 2018, à Montréal (Québec)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Représentant de l’appelante :
+Yves Hamelin
+Avocate de l’intimée :
+Me Anne-Marie Boutin
+JUGEMENT
+L’appel interjeté de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2015 est rejeté, sans dépens, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, le 1er jour de février 2019.
+« Dominique Lafleur »
+La juge Lafleur
+Référence : 2019 CCI 32
+Date : 20190201
+Dossier : 2017-3790(IT)I
+ENTRE :
+CONCEPT DANAT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lafleur
+I. LES FAITS
+[1] Concept Danat Inc. (« Danat ») fait appel d’une cotisation datée du 24 janvier 2017 pour l’année d’imposition se terminant le 31 octobre 2015 et établie par la ministre du Revenu national (la « ministre ») en vertu de la Loi de l’impôt sur le revenu (L.R.C. (1985), ch. 1 (5e suppl.)) (la « Loi »). La ministre a refusé, d’une part, la déduction de dépenses de recherche scientifique et de développement expérimental (« RS&DE ») de 32 056 $ réclamée par Danat, ainsi que, d’autre part, le crédit d’impôt à l’investissement (« CII ») de 13 862 $ demandé relativement à ces dépenses. La ministre a également imposé une pénalité pour production tardive de 113,16 $.
+[2] Danat, une entreprise comptant environ 24 employés, exerce des activités dans le domaine de la fabrication et de la distribution de vêtements de toutes saisons, de vêtements de sport et de vêtements de bureau depuis 1994. Plus précisément, les opérations de Danat consistent en la décoration de vêtements à des fins publicitaires par diverses méthodes, soit la broderie, la sérigraphie, l’impression numérique, le laser et le transfert, et en la fabrication de vêtements.
+[3] Dans sa déclaration de revenus pour l’année d’imposition se terminant le 31 octobre 2015, Danat fait état de trois projets pour lesquels la déduction de dépenses de RS&DE, ainsi que le CII correspondant, a été réclamée : le projet 2015-01 : Impression de vêtements au laser (« Projet 1 »); le projet 2015-02 : Amélioration des techniques de broderie, et un jumelage de la broderie et du laser sur un même gilet (« Projet 2 »); et le projet 2015-03 : Technique de sublimation sur les encolures élastiques et impression sur du nylon 210 deniers (« Projet 3 »).
+[4] À l’audience, aucune partie n’a invité d’expert à témoigner.
+[5] Monsieur Daniel Bourgault, président de Danat, a témoigné. Ce dernier gère la totalité de l’entreprise et effectue toutes les tâches pour faire évoluer celle-ci. Selon monsieur Bourgault, les activités exercées dans le cadre des trois projets constituent des activités de RS&DE au sens du paragraphe 248(1) de la Loi. Il a témoigné que, pour les trois projets, les dépenses se sont élevées à 48 671 $, dont 1 850 $ pour le matériel, le solde représentant des dépenses de main-d’œuvre. La manière d’établir les coûts a été une estimation faite par monsieur Bourgault en fonction des heures travaillées par les employés. Monsieur Bourgault a ainsi estimé que 10,2 % du temps des employés était relié à des activités de RS&DE et il a conclu que 10,2 % des salaires versés aux employés étaient pour des activités de RS&DE.
+[6] Monsieur Assen Sylla, conseiller en recherche et technologie à l’Agence du revenu du Canada (l’« ARC »), qui a procédé à l’évaluation de l’admissibilité des travaux réalisés dans le cadre des trois projets, a également témoigné. Monsieur Sylla a obtenu une formation en génie physique avec une composante en génie des matériaux et une formation de troisième cycle en instrumentation physique, chimique et biomédicale. Il a également une formation sur les nouvelles technologies dites « intelligentes » dans le domaine des tissus.
+[7] Monsieur Sylla a conclu que les travaux effectués dans le cadre des trois projets ne constituaient pas des activités de RS&DE au sens du paragraphe 248(1) de la Loi. Selon monsieur Sylla, les trois projets ne révélaient aucune incertitude technologique; les travaux effectués par Danat étaient de nature purement technique et aucun avancement technologique n’en a résulté. De plus, l’approche utilisée dans le cadre des trois projets n’était pas conforme à une investigation ou recherche systématique, qui comprendrait la formulation d’hypothèses et la vérification par voie d’expérimentation et d’analyse. Également, monsieur Sylla est d’avis que le nombre d’heures qui aurait été consacré aux travaux était douteux, puisqu’il semble y avoir eu plusieurs paliers de supervision et une absence de distinction entre les projets; la description des tâches se répétait souvent.
+[8] Dans ces motifs, toutes les références à des dispositions législatives sont des références aux dispositions de la Loi, sauf mention contraire.
+II. LES QUESTIONS EN LITIGE
+[9] Il s’agit de déterminer si les travaux effectués dans le cadre des trois projets constituent des activités de RS&DE au sens du paragraphe 248(1). Si tel est le cas, il s’agit de déterminer si les dépenses de 32 056 $ dont la déduction a été réclamée sont des dépenses déductibles de RS&DE selon le paragraphe 37(1) qui donnent droit au CII selon le paragraphe 127(5).
+III. LES PROJETS
+1. Projet 1 : Impression de vêtements au laser
+[10] Dans le cadre du Projet 1, l’objectif visé était de graver au laser, en brûlant la fibre très légèrement pour décorer les vêtements, des vêtements faits de coton, de polyester ou de polar. Cette technique d’impression commençait à apparaître sur le marché en 2014-2015. Monsieur Bourgault a témoigné qu’en date de la première journée d’audience en juin 2018, ce projet était toujours en cours. En effet, Danat a réussi à graver du tissu de type polar; toutefois, pour les autres types de tissus, les résultats démontrent que le procédé n’est pas au point.
+[11] Après avoir effectué de nombreuses recherches sur Internet et communiqué avec plusieurs fournisseurs pour trouver une machine permettant de graver les tissus par la technique du laser, monsieur Bourgault a fait l’acquisition d’une machine, soit le LaserPro MG380 Hybride (la « machine LaserPro »), conçue pour couper ou graver des matériaux durs, tels le verre, le plastique, le métal ou le bois, mais pouvant aussi découper au laser un tissu appelé « poly-twill » ainsi que le vinyle, dans le but de faire l’impression au laser sur les tissus. Les fournisseurs de machines au laser avaient indiqué à monsieur Bourgault que les machines au laser étaient trop puissantes pour graver les tissus.
+[12] Monsieur Bourgault a témoigné que la machine LaserPro fonctionne comme une imprimante : un dessin préparé sur l’ordinateur est envoyé à la machine LaserPro, qui, par la suite, lance un jet au laser pour découper ou graver le matériau voulu. Les paramètres contrôlables de la machine LaserPro sont la vitesse de déplacement et la puissance du laser. Les ajustements ne se faisaient qu’en unités d’un pourcent, soit de 1 % à 100 %. Monsieur Bourgault devait donc trouver les paramètres de puissance permettant la décoration et non la découpe des tissus et réglant le laser, puisqu’aucune donnée n’existait concernant les tissus.
+[13] Réalisant que le logiciel offert avec la machine LaserPro ne fonctionnait pas pour décorer les tissus, monsieur Bourgault a fait des recherches pour trouver un logiciel commercial lui permettant de contrôler les paramètres de la machine, mais sans succès. Il s’est alors tourné vers le logiciel Adobe Illustrator, un logiciel de dessin déjà utilisé par deux employés de Danat et compatible avec la machine LaserPro, étant recommandé par le concepteur de cette machine. Les logiciels de dessin permettent de préétablir le motif et le ton de la couleur d’une manière compatible avec le pilote d’impression de la machine LaserPro.
+[14] Monsieur Bourgault n’a pas modifié la machine LaserPro, si ce n’est par l’installation d’un plateau ou d’un support supplémentaire. Il n’a pas modifié le laser en tant que tel. Il a plutôt travaillé sur le procédé, en utilisant les paramètres existants de la machine : soit l’air (qui a une influence sur la puissance du laser) et la vitesse du laser. Les premiers essais étaient effectués en utilisant des paramètres aléatoires; par la suite, les paramètres étaient corrigés : soit la vitesse et la puissance du laser. Il y avait 10 000 possibilités. Monsieur Bourgault a témoigné qu’il devait toujours recommencer avec les différents tissus puisque chaque tissu a une épaisseur, une densité, une fibre et une stabilité qui lui est propre.
+2. Projet 2 : Amélioration des techniques de broderie, et un jumelage de la broderie et du laser sur un même gilet
+[15] Dans le cadre du Projet 2, Danat voulait développer de nouvelles techniques de broderie avec des combinaisons de tissus nouveaux; l’objectif était de réaliser des logos brodés sur des lainages, avec de fines lignes de contour, à l’aide de l’impression au laser et de la broderie, et de réaliser des lettres d’une grande épaisseur, lesquelles ne se touchent pas ni ne se bouchent. De plus, dans une autre phase de ce projet, il s’agissait de déterminer comment broder un tissu à un endroit précis d’un dessin fait par le laser.
+[16] Selon monsieur Bourgault, le défi technologique était de taille puisqu’il est difficile de jumeler les deux méthodes de décoration : une machine différente est utilisée dans chaque cas et ces machines ne sont pas conçues pour travailler ensemble. Cela se faisait en deux étapes : le dessin était tracé avec le laser en utilisant la machine LaserPro, et ensuite la broderie était effectuée, qui devait être à un endroit précis du dessin afin de former un logo.
+[17] Le Projet 2 jumelait le laser et la broderie. Ce projet devait permettre d’élaborer les paramètres de compensation et d’alignement entre la technologie d’impression au laser et la technologie de broderie. Afin de trouver les paramètres optimaux de compensation et d’alignement, la brodeuse devait être ajustée. Différentes séries d’essais ont été effectuées sur différents logos, mais, selon monsieur Bourgault, Danat n’a jamais réussi à produire une broderie satisfaisante.
+3. Projet 3 : Technique de sublimation sur les encolures élastiques et impression sur du nylon 210 deniers
+[18] Le Projet 3 consistait en l’impression par sublimation sur les tissus de tricot côtelé (appelé communément « rib »), le nylon 210 deniers et les bas de soccer. La sublimation est un processus d’impression qui fait passer la couleur de l’état solide à l’état gazeux sans passer par l’état liquide, ce qui fait en sorte que les couleurs sont très belles. De plus, cette technique permet une impression incrustée dans la maille du textile ou sous le vernis polyester, sans modifier le toucher initial du produit à marquer, et confère ainsi une résistance exceptionnelle aux lavages industriels. La sublimation est un procédé d’impression conçu pour le polyester et non pour le nylon.
+[19] Monsieur Bourgault a témoigné que l’objectif était de développer des méthodes de travail permettant d’imprimer par sublimation sur une large gamme de produits spécialisés que les concurrents ne fabriquaient pas encore : il s’agissait de matériaux différents, de tissus aux caractéristiques particulières et de formes non conventionnelles.
+[20] Selon le témoignage de monsieur Bourgault, ce procédé n’a pas fonctionné sur des tissus élastiques; la couleur n’allait pas jusqu’au fond du rib sans que l’on étire ce tissu. Mais, si l’on étirait le rib, le tissu ne reprenait pas sa forme initiale par la suite. Danat a utilisé différentes températures d’impression et a varié la quantité d’encre, sans arriver à un résultat satisfaisant. En ce qui concerne le nylon, l’impression se faisait bien, mais les couleurs n’étaient pas conformes aux couleurs recherchées.
+IV. LA POSITION DES PARTIES
+[21] Selon Danat, les travaux effectués dans le cadre des trois projets constituent des activités de RS&DE, en ce sens que les travaux sont des travaux entrepris dans l’intérêt du progrès technologique, une démarche scientifique a été suivie par Danat et les travaux techniques ont été réalisés afin d’éliminer l’incertitude technologique et pour réaliser un avancement technologique. De plus, les travaux ont été effectués par des personnes expérimentées dans le domaine, qui avaient des objectifs précis à atteindre.
+[22] Également, les heures consacrées par les employés aux différents projets étaient bien détaillées dans les documents soumis à l’ARC et toutes les feuilles de temps des employés étaient également disponibles pour vérification par monsieur Sylla, ce dernier ne s’étant toutefois pas déplacé sur les lieux de l’entreprise pour les vérifier.
+[23] Selon l’intimée, aucune incertitude technologique n’a été démontrée dans le cas des trois projets. Les travaux effectués par Danat étaient de nature purement technique. La preuve a démontré que Danat avait de la difficulté à utiliser des machines existantes; Danat a rencontré des difficultés au niveau de l’utilisation de la technologie existante. Ni la technologie des machines utilisées ni l’algorithme de ces machines n’ont été modifiés. Danat a utilisé les paramètres de la machine LaserPro dans un but pour lequel la machine n’avait pas encore été exploitée. La technologie et les logiciels existants ont été utilisés. Également, selon l’intimée, l’approche globale adoptée par Danat dans le cadre des trois projets n’était pas conforme à une investigation ou recherche systématique comprenant la formulation et la vérification d’hypothèses par voie d’expérimentation ou d’analyse, et aucun avancement technologique n’en a résulté.
+[24] Danat devait conserver les preuves pour démontrer le processus de pensée relativement aux travaux effectués, ce qui n’a pas été fait (Highweb & Page Group Inc. c. La Reine, 2015 CCI 137 aux para. 20 et 22).
+[25] Finalement, selon l’intimée, en ce qui concerne les salaires, les documents fournis par Danat n’étaient pas suffisants pour établir les heures consacrées aux divers projets. Également, selon le témoignage de monsieur Bourgault, les heures consacrées aux projets ont été estimées, ce qui, aux fins de la Loi, n’est pas suffisant pour justifier les demandes pour RS&DE.
+V. LA LOI ET LA JURISPRUDENCE
+[26] Les activités de RS&DE sont définies ainsi au paragraphe 248(1) :
+« activités de recherche scientifique et de développement expérimental » Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l’étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données.
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection;
+[Non souligné dans l’original.]
+[27] La Loi prévoit un critère à deux volets. Dans un premier temps, il faut déterminer si les activités répondent à la définition d’activités de RS&DE selon le paragraphe 248(1). Si les projets ne satisfont pas aux critères auxquels ils doivent répondre pour pouvoir être considérés comme des activités de RS&DE, l’examen se terminera à cette étape. Toutefois, s’il est établi que les activités répondent à la définition d’activités de RS&DE, il faudra ensuite évaluer l’admissibilité d’une dépense de RS&DE eu égard aux faits propres à chacun des projets (paragraphe 37(1)) (Zeuter Development Corporation c. La Reine, 2006 CCI 597 au para. 20, 2007 DTC 41 [Zeuter Development]).
+[28] Danat a le fardeau de démontrer que les dépenses engagées correspondent à des activités de RS&DE, selon la prépondérance des probabilités.
+[29] Dans la décision Northwest Hydraulic Consultants Ltd. c. Canada, [1998] A.C.I. no 340 (QL) [Northwest Hydraulic], le juge Bowman (tel était alors son titre) a fait observer que la législation octroyant des stimulants fiscaux pour la RS&DE doit s’interpréter « de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet », qui est d’encourager la recherche scientifique au Canada (para. 11).
+[30] Le juge Bowman, se basant sur la circulaire d’information 86-4R3 (la « Circulaire ») (Northwest Hydraulic, para. 16), a également formulé cinq critères servant à déterminer si des travaux constituent des activités de RS&DE. Ces critères, qui doivent tous être remplis pour que l’on conclue à des activités de RS&DE, ont été confirmés par la Cour d’appel fédérale dans l’arrêt RIS‑Christie Ltd. c. Canada, [1998] A.C.F. no 1890 (QL), et repris dans l’arrêt C.W. Agencies Inc. c. La Reine, 2001 CAF 393, 2002 DTC 6740 (para. 17) :
+1. Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes?
+2. La personne qui prétend faire de la RS & DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+3. La procédure adoptée était-elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+4. Le processus a-t-il abouti à un progrès technologique?
+5. Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l'avancement des travaux?
+[31] La Circulaire a été remplacée à deux reprises et est maintenant consacrée dans la Politique sur l’admissibilité des travaux aux crédits d’impôt à l’investissement en RS&DE en date du 24 avril 2015 (la « Politique »). Le juge Bowman, dans la décision Northwest Hydraulic, précitée, a convenu que la Circulaire était un guide « utile et digne de foi » puisqu’elle découlait de longues consultations entre le gouvernement et la communauté scientifique (para. 15). Récemment, la juge D’Auray a confirmé que l’on peut en dire autant du document datant de 2012 qui a remplacé la Circulaire (6379249 Canada Inc. c. La Reine, 2015 CCI 77 aux para. 57 et 58). Ainsi, je conclus que la Politique, qui remplace ces documents, est aussi un guide utile et digne de foi.
+[32] Dans la décision Northwest Hydraulic, précitée, le juge Bowman s’est exprimé ainsi au sujet de l’incertitude technologique (para. 16) :
+[16] […]
+a) Lorsqu’on parle de « risque ou [d’] incertitude technologique » dans ce contexte, on laisse implicitement entendre qu’il doit exister une incertitude quelconque qui ne peut pas être éliminée par les études techniques courantes ou par les procédures habituelles. Je ne parle pas du fait que dès qu’un problème est décelé, il peut exister un certain doute au sujet de la façon dont il sera réglé. Si la résolution du problème est raisonnablement prévisible à l’aide de la procédure habituelle ou des études techniques courantes, il n’y a pas d’incertitude technologique telle que cette expression est utilisée dans ce contexte.
+b) Qu’entend-on par « études techniques courantes »? C’est cette question (ainsi que celle qui se rapporte au progrès technologique) qui semble avoir divisé les experts plus que toute autre. En résumé, cela se rapporte aux techniques, aux procédures et aux données qui sont généralement accessibles aux spécialistes compétents dans le domaine.
+[…]
+Il est important de reconnaître que, bien qu’une incertitude technologique doive être définie au départ, la détermination de nouvelles incertitudes technologiques au fur et à mesure que les recherches avancent et l’emploi de la méthode scientifique, et notamment l’intuition et la créativité, et parfois l’ingéniosité en découvrant, en reconnaissant et en mettant fin à de nouvelles incertitudes, font partie intégrante de la RS&DE.
+[…]
+[Non souligné dans l’original.]
+[33] Selon la Politique (section 2.1.1) :
+[…]
+Une incertitude scientifique ou technologique existe si la probabilité d’atteindre un objectif ou un résultat donné, ou la façon d’y parvenir ne peuvent être connues ou déterminées d’après l’expérience ou les connaissances scientifiques ou technologiques généralement disponibles. Plus spécifiquement, il est impossible de prévoir si les objectifs pourront être réalisés, ou quelles solutions (par exemple, approches, démarches, études, configurations de l’équipement, architecture des systèmes, techniques de circuit, etc.) permettront d’atteindre les objectifs, à partir de la base de connaissances scientifiques ou technologiques existante. […]
+Les incertitudes technologiques peuvent découler des déficiences ou des limites dans l’état actuel de la technologie, ce qui empêche le développement d’une capacité nouvelle ou améliorée. Autrement dit, l’état actuel de la technologie peut être insuffisant pour résoudre un problème qui survient en cours de développement.
+[…]
+Il est important de reconnaître que cette question ne se limite pas simplement à identifier qu’on ne sait pas comment atteindre les objectifs. On doit être en mesure d’identifier spécifiquement ce qui manque à la base de connaissances scientifiques ou technologiques et qui génère cette incertitude. […]
+[Non souligné dans l’original.]
+[34] La juge D’Auray, dans la décision Formadrain Inc. c. La Reine, 2017 CCI 42 au para. 93, 2017 DTC 1022, a précisé qu’« [e]n d’autres mots, il faut que les connaissances manquantes soient réellement inexistantes dans la base de connaissances scientifiques ou technologiques et non uniquement inconnues du demandeur. »
+[35] Seul le doute quant à la façon de résoudre un problème découlant d’une incertitude technologique peut satisfaire au premier critère, de sorte qu’il y ait des activités de RS&DE et qu’il ne s’agisse pas simplement d’un problème technique. Ainsi, on parle d’un problème technique lorsque la source exacte du problème est établie et que le tout peut être résolu au moyen d’une solution existante, par l’application des pratiques, des techniques ou des méthodes qui sont connues ou qui sont aisément accessibles. Le problème est technique lorsque la base de connaissances scientifiques ou technologiques existante est suffisante pour résoudre le problème (la Politique, section 2.1.1).
+[36] Dans la décision Zeuter Development, précitée au para. 22, le juge Little a précisé que la résolution d’incertitudes associées à un projet ne constituait pas nécessairement la résolution d’incertitudes technologiques :
+[…] Si des spécialistes compétents dans le domaine peuvent régler les problèmes de façon prévisible, il n’y a pas d’incertitude technologique. C’est exactement la situation en l’espèce. Sans vouloir déprécier après coup les travaux entrepris par l’appelante, la Cour constate qu’il était clair qu’en utilisant les techniques courantes et établies l’appelante allait être capable de surmonter les difficultés technologiques. […]
+[Non souligné dans l’original.]
+[37] En ce qui concerne le critère du progrès ou de l’avancement technologique, le juge Bowman a écrit ce qui suit (Northwest Hydraulic, précitée au para. 16) :
+[16] […]
+4. Le processus a-t-il abouti à un progrès technologique, c’est-à-dire à un progrès en ce qui concerne la compréhension générale?
+a) Je veux dire par là quelque chose que les personnes qui s’y connaissent dans le domaine savent ou qu’elles peuvent de toute façon savoir. Je ne parle pas d’un élément de connaissance que quelqu’un, quelque part, peut connaître. La collectivité scientifique est étendue, et elle publie des documents dans de nombreuses langues. Un progrès technologique au Canada ne cesse pas d’être tel simplement parce qu’il existe une possibilité théorique qu’un chercheur, disons, en Chine, a peut-être fait le même progrès, mais que ses travaux ne sont généralement pas connus.
+b) Le rejet, après l’essai d’une hypothèse, constitue néanmoins un progrès en ce sens qu’il élimine une hypothèse jusque là [sic] non vérifiée. Une bonne partie de la recherche scientifique vise justement à cela. Le fait que l’objectif initial n’est pas atteint n’invalide ni l’hypothèse qui a été émise ni les méthodes qui ont été employées. Au contraire, il est possible que l’échec même renforce le degré d’incertitude technologique.
+[…]
+[38] Notre Cour a déjà conclu que la création d’un nouveau produit ne constituait pas nécessairement un progrès technologique (Zeuter Development, précitée au para. 24).
+[39] Par ailleurs, l’utilisation exclusive de la méthode consistant à procéder « par essais et erreurs » et « par tâtonnements » pour un projet ne relève pas de la méthode scientifique (Flavor Net Inc. c. La Reine, 2017 CCI 179 aux para. 53 et 54). Comme l’indique le juge Bowman dans la décision Northwest Hydraulic, précitée, « [l]es procédures adoptées » doivent être « conformes aux principes établis et aux principes objectifs de la méthode scientifique, définis par l’observation scientifique systématique, la mesure et l’expérimentation ainsi que la formulation, la vérification et la modification d’hypothèses » (para. 16).
+VI. L’ANALYSE
+1. Projet 1 : Impression de vêtements au laser
+[40] Danat est d’avis que, dans le cas du Projet 1, l’incertitude technologique était que le laser présentait une puissance trop élevée pour qu’il soit possible de décorer des tissus et, donc, Danat devait trouver les paramètres, jusque-là inconnus, qui permettraient de le faire. Danat devait également établir le lien entre l’épaisseur du tissu et les paramètres de la machine et développer un « tensiomètre » pour maintenir le tissu en place. Ainsi, Danat a réussi à faire en sorte que la machine LaserPro puisse être réglée en fractions quant à la vitesse et à la puissance du laser (en faisant varier les nuances de l’image dans Adobe Illustrator). Puisque la machine LaserPro était conçue pour découper alors que Danat voulait imprimer sur des tissus (ou les décorer), Danat est donc allée au‑delà de la capacité de la machine LaserPro. Selon monsieur Bourgault, l’avancement technologique consistait à développer une nouvelle technique d’impression au laser sur tissus avec la machine LaserPro.
+[41] Quant à monsieur Sylla, il est d’avis que la problématique de Danat consistait, pour un tissu donné, à faire la correspondance entre l’intensité et la vitesse du laser d’une part et le ton de la couleur d’impression d’autre part, à l’aide de logiciels commerciaux. Selon lui, il n’y avait aucune incertitude technologique puisqu’il n’y avait pas d’incompatibilité d’ordre technologique entre les différents paramètres de gravure/découpe et le paramètre du pilote d’impression de la machine LaserPro. Les ajustements des paramètres du laser sont restés dans les limites offertes par celui-ci; le pilote d’impression n’a pas été modifié. La corrélation s’est faite à l’aide du logiciel Adobe Illustrator, logiciel commercial recommandé par le fabricant de la machine LaserPro. Également, le Projet 1 n’a mené à aucun avancement de la technologie; en effet, la technologie n’a pas été touchée dans le cadre de ce projet. De plus, selon monsieur Sylla, Danat n’a pas procédé par voie d’investigation ou de recherche systématique, mais a plutôt procédé par essais et erreurs : en effet, pour chaque tissu, Danat devait recommencer les tests.
+[42] Danat ne m’a pas convaincue, selon la prépondérance des probabilités, que les incertitudes auxquelles l’entreprise faisait face ne pouvaient être éliminées par les procédures habituelles ou à l’aide d’études techniques courantes ni qu’il existait quelque incertitude technologique que ce soit pour ce projet. Je suis d’avis que les connaissances manquantes n’étaient pas inexistantes dans la base des connaissances technologiques.
+[43] De plus, il n’y avait pas d’incompatibilité d’ordre technologique entre les différents paramètres de gravure/découpe et le paramètre du pilote d’impression de la machine LaserPro : les ajustements effectués aux paramètres du laser sont restés dans les limites offertes par la machine LaserPro et le pilote d’impression n’a pas été modifié. Danat n’a apporté aucune modification mécanique à la machine LaserPro ni au laser. L’objectif de ce projet a été atteint grâce au logiciel commercial Adobe Illustrator et par la mise à l’essai de différents ajustements des paramètres de fonctionnement du laser de la machine LaserPro : les outils disponibles à Danat, soit le laser, le pilote d’impression et le logiciel graphique, lui ont permis de faire la corrélation sans contrainte.
+[44] Selon les éléments de preuve, les procédures habituelles quant à l’utilisation de la machine LaserPro ont permis d’éliminer les obstacles à l’impression sur des tissus par le laser qu’a rencontrés Danat. Ainsi, Danat a utilisé la technologie existante pour effectuer le travail. Je suis d’avis que les problèmes rencontrés par Danat étaient d’ordre technique puisque la base de connaissances technologiques existante était suffisante pour résoudre les problèmes rencontrés et atteindre les objectifs visés par Danat.
+[45] Danat a fait preuve d’ingéniosité, par exemple en utilisant le cerceau de broderie afin de maintenir le tissu en place, mais Danat n’a pas tenté de résoudre une incertitude technologique. Également, la preuve n’a démontré aucun avancement technologique puisque les techniques courantes ont été utilisées.
+2. Projet 2 : Amélioration des techniques de broderie, et un jumelage de la broderie et du laser sur un même gilet
+[46] Dans le cadre du Projet 2, Danat a tenté de faire fonctionner deux machines qui, selon monsieur Bourgault, n’ont pas été conçues pour fonctionner l’une après l’autre, soit la machine LaserPro suivie de la machine à broder (brodeuse). Selon monsieur Bourgault, l’incertitude technologique était de savoir comment jumeler un dessin gravé au laser à la broderie. De plus, Danat voulait développer de nouveaux logos ayant plusieurs couches de fils de broderie et des logos sur lainages avec de fines lignes de contour. Également, selon monsieur Bourgault, l’avancement technologique a consisté dans le développement de nouvelles techniques de broderie et dans le jumelage de deux techniques sur un même vêtement par l’élaboration de paramètres de compensation et d’alignement entre le laser de la machine LaserPro et la brodeuse.
+[47] Selon monsieur Sylla, bien qu’il s’agisse d’un travail manuel qui demande une certaine dextérité, ce projet ne visait pas à modifier ou à améliorer une technologie quelconque. La machine LaserPro et la brodeuse ont été utilisées de façon normale. Les machines ont été programmées, sans que l’on touche aux algorithmes de celles-ci : Danat a utilisé les machines selon le savoir-faire des travailleuses qui les faisaient fonctionner et n’est pas allée au-delà de ce qui était disponible. Puisque aucun problème d’ordre scientifique ou technologique n’a été abordé, il ne pouvait y avoir dans ce projet ni de l’incertitude ni un avancement technologique. Monsieur Sylla reconnaît toutefois que ce projet comportait beaucoup de contraintes techniques : Danat devait trouver les paramètres optimaux de compensation et d’alignement des machines; on a surmonté cette contrainte en utilisant successivement une machine au laser pour dessiner sur du tissu et une brodeuse pour réaliser un logo en suivant l’image préalablement imprimée par le laser ou en effectuant des ajustements à la brodeuse et en établissant des points de repère afin que la broderie puisse être bien positionnée par rapport au dessin. Il n’existait aucune incompatibilité technologique entre la machine LaserPro et la brodeuse. De plus, il n’y a eu aucune investigation systématique dans un champ de la science ou de la technologie.
+[48] Je suis d’avis qu’il n’y avait aucune incertitude technologique dans ce projet, mais plutôt des problèmes ou des contraintes techniques. La résolution des problèmes relevés par Danat et l’atteinte des objectifs visés étaient raisonnablement prévisibles à l’aide des procédures habituelles ou des études techniques courantes. Les problèmes rencontrés par Danat étaient d’ordre technique puisque la base de connaissances technologiques existante était suffisante pour résoudre les problèmes et atteindre les objectifs visés. La preuve a démontré que la machine LaserPro de même que la brodeuse ont été utilisées de façon normale et que Danat a utilisé des techniques courantes pour faire face aux problèmes éprouvés. Danat devait déterminer les paramètres de compensation et d’alignement des machines et a réussi à le faire sans modifier la technologie existante de ces machines.
+[49] Je suis également d’avis que la preuve a démontré qu’il n’y avait pas d’incompatibilité technologique entre les deux machines. De plus, ce projet ne visait que l’amélioration de la technique dans le domaine de la broderie et non pas l’avancement de la technologie dans ce domaine.
+3. Projet 3 : Technique de sublimation sur les encolures élastiques et impression sur du nylon 210 deniers
+[50] Dans le cadre de ce projet, Danat a tenté, en effectuant une multitude de tests, de trouver la température permettant d’effectuer l’impression sur des tissus par la technique de la sublimation sans détruire la fibre et en faisant pénétrer la couleur jusqu’au fond du tissu. Selon monsieur Bourgault, l’avancement technologique consistait à développer davantage la technique d’impression par sublimation afin de permettre de meilleures propriétés de résistance des vêtements à l’abrasion, aux rayures et au lavage.
+[51] Selon monsieur Sylla, Danat a essayé différentes combinaisons de pression, de temps de pression, de température et de quantité d’encre. Danat n’a été confronté à aucune limitation technologique puisqu’elle a opéré à l’intérieur des plages des paramètres actuels offerts par son équipement. Danat a utilisé des combinaisons différentes des paramètres disponibles. Puisqu’elle n’est pas allée au-delà des plages de fonctionnement normal de son équipement, Danat n’a pas été confronté à l’incertitude technologique. Dans le cadre de ce projet, Danat ne visait pas à éliminer une incertitude technologique ou à réaliser un avancement technologique. Selon monsieur Sylla, Danat a procédé par la méthode essais et erreurs et n’a pas suivi une démarche systématique.
+[52] En l’espèce, Danat ne m’a pas convaincue d’une quelconque incertitude technologique dans ce projet. Elle a utilisé différentes combinaisons des paramètres disponibles et offerts par son équipement : diverses quantités d’encre, diverses pressions, diverses températures et diverses durées de la pression. La preuve n’a pas démontré que Danat a cherché à aller au-delà des paramètres de fonctionnement de son équipement. De même, je ne suis pas d’avis qu’il y a eu avancement de la technologie; en effet, notre Cour a déjà décidé que la nouveauté d’un produit ne suffit pas pour démontrer un avancement technologique (Zeuter Development, précitée aux para. 23 et 24). L’utilisation satisfaisante de la technique de la sublimation sur le rib, le nylon ou les bas de soccer ne se traduit pas par un avancement technologique, mais a plutôt pour résultat un produit nouveau.
+4. Pour les trois projets
+[53] En ce qui concerne les trois projets, Danat ne m’a pas convaincue que l’estimation des heures fournie par Danat était exacte. Selon le témoignage de monsieur Bourgault, il a estimé que 10,2 % du temps des employés était consacré aux activités de RS&DE en question et c’est sur cette base que la réclamation pour les salaires a été faite. Toutefois, Danat n’a pas fourni le détail exact des heures consacrées à ces projets. Je suis d’avis qu’un registre exact des heures travaillées doit être fourni pour appuyer une demande en matière de RS&DE (Hypercube Inc. c. La Reine, 2015 CCI 65 au para. 48, 2015 DTC 1089). De même, la description des tâches effectuées par les divers employés n’était pas claire ni suffisamment détaillée pour appuyer la demande.
+VII. CONCLUSION
+[54] Pour toutes ces raisons, je suis d’avis que Danat n’a pas réussi à démontrer selon la prépondérance des probabilités que les travaux réalisés dans le cadre des trois projets constituaient des activités de RS&DE au sens du paragraphe 248(1). L’appel est rejeté sans dépens.
+Signé à Ottawa, Canada, le 1er jour de février 2019.
+« Dominique Lafleur »
+La juge Lafleur
+RÉFÉRENCE :
+2019 CCI 32
+NO DU DOSSIER DE LA COUR :
+2017-3790(IT)I
+INTITULÉ DE LA CAUSE :
+CONCEPT DANAT INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+Les 20 juin et 23 novembre 2018
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 1er février 2019
+COMPARUTIONS :
+Représentant de l’appelante :
+Yves Hamelin
+Avocate de l’intimée :
+Me Anne-Marie Boutin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada

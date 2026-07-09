@@ -1,0 +1,139 @@
+Title: Goodwin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28693/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-183-28693-goodwin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-05-09
+
+# Goodwin v. The Queen
+
+- Citation: 2008 TCC 183
+- Decision date: 2008-05-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1483, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goodwin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-09
+Neutral citation
+2008 TCC 183
+File numbers
+2007-2792(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2792(IT)I
+BETWEEN:
+NADINE W. GOODWIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 17, 2008, at Yarmouth, Nova Scotia.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Philip Star Q.C.
+Counsel for the Respondent:
+Deanna M. Frappier
+____________________________________________________________________
+JUDGMENT
+The appeals from the redeterminations of the Minister of National Revenue with respect to the Canada child tax benefit for the 2003, 2004 and 2005 base taxation years and the redeterminations with respect to the goods and services tax credit for the 2003, 2004 and 2005 taxation years are allowed in part in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 9th day of May 2008.
+“François Angers”
+Angers J.
+Citation: 2008TCC183
+Date: 20080509
+Docket: 2007-2792(IT)I
+BETWEEN:
+NADINE W. GOODWIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from the confirmation of redeterminations respecting the Canada child tax benefit (CCTB) made by the Minister of National Revenue (the Minister) on March 21, 2007, in respect of the 2003, 2004 and 2005 base taxation years, and also respecting the goods and services tax credit (GSTC) for the 2003, 2004 and 2005 taxation years.
+[2] The appellant and her former spouse, Earl Allen, are the parents of Amy, born February 18, 1988 and Cara, born August 13, 1991. At all material times, the appellant and Mr. Allen were living separate and apart due to the breakdown of their marriage. They were divorced on December 12, 1996.
+[3] The Minister reviewed the appellant’s entitlement to the CCTB for the period from April 2005 to September 2006 with regard to her two daughters. The Minister determined that the appellant was not the eligible individual in respect of Cara during that period and was not the eligible individual in respect of Amy during the period from October 2005 to September 2006. The Minister assessed the appellant for an amount of $6,875.48 representing the CCTB overpayment that she had received, as follows:
+(a) base taxation year 2003: received from April 2005 to June 2005 inclusive
+$ 1,305.50
+(b) base taxation year 2004: received from July 2005 to June 2006 inclusive
+$ 4,770.00
+(c) base taxation year 2005: received from July 2006 to September 2006 inclusive
+$ 799.98
+Total overpayment
+$ 6,875.48
+[4] The Minister also reviewed the appellant’s entitlement to the GSTC for the period from April 2005 to October 2006 with regard to both Amy and Cara. The Minister determined that the appellant was not the eligible individual in respect of Cara during that period, nor was she with respect to Amy during the period from October 2005 to October 2006. For the 2003, 2004 and 2005 taxation years, the Minister assessed an amount of $700.68 for the recovery of the GSTC overpayment received by the appellant during those periods, as follows:
+(a) taxation year 2003: received April 2005
+$ 114.30
+(b) taxation year 2004: received from July 2005 to June 2006
+$ 409.38
+(c) taxation year 2005: received from July 2006 to October 2006
+$ 177.00
+Total overpayment
+$ 700.68
+[5] It is admitted by the respondent that the Minister erred in calculating the overpayment of both the CCTB and the GSTC to the appellant. The Minister now accepts that the appellant was the eligible individual with respect to Amy during the period from April 2005 to September 2005 and that the calculation of the overpayment should reflect that fact. The amount of the overpayment therefore needs to be corrected.
+[6] In addition, the appellant now agrees that she did not reside with her child Cara during the period from May 2006 to August 2006 and agrees to pay back the overpayment with respect to that child for that period.
+[7] The issue to be decided is whether the appellant was the eligible individual entitled to receive the CCTB in respect of both children (the qualified dependants), that is, in respect of Cara during the period from April 2005 to September 2006 and in respect of Amy during the period from October 2005 to February 2006, the month of Amy’s eighteenth birthday, and also whether the appellant was the eligible individual entitled to receive the GSTC in respect of Cara during the period from April 2005 to October 2006 and in respect of Amy during the period from October 2005 to October 2006.
+[8] The appellant’s former spouse made applications for the CCTB and the GSTC for both children. In correspondence with the Canada Revenue Agency (Exhibit R‑1), he indicates that Cara had been living with him all of the time from March 1, 2005 to the date of his application, which date was not specified but would have been sometime in June or July 2006, and that Amy had been living with him all of the time from September 1, 2005 to March 1, 2006, the month after her eighteenth birthday. He also indicates that he had the day-to-day care of both children and considered himself the person primarily responsible for their care and upbringing for the periods they were with him.
+[9] Prior to the above-mentioned applications being made, the former spouse had made an application to vary an existing divorce order that contained custody, access and support provisions. The variation order was signed on May 11, 2006. The joint custody of both children was not changed but the provision now stated that the former spouse was to have the day-to-day care of both Amy and Cara and that the appellant was to have reasonable access on reasonable notice. The order also forgives all child support arrears of the former spouse, which, at June 1, 2006, amounted to $4,480, representing eight months at $560 per month. The appellant gave her consent to the variation order.
+[10] The affidavit in support of the variation order was signed by the former spouse on February 27, 2006. He stated therein that the arrears were $2,240 and that this was for the period from October 2005 up to and including February 2006. The affidavit reads October and November “2006,” but is no doubt wrong and should read “2005.” The former spouse stated that he was seeking forgiveness of these arrears for the time that Amy and Cara resided with him. Yet in paragraph 12 of his affidavit he stated that Amy had been residing with him since September 2005 and Cara since March 2005. There is obviously an inconsistency between his testimony and the contents of his affidavit.
+[11] The former spouse testified that Amy moved in with him in September 2005 and that Cara would have done so in May 2005. He made the application for a variation order because he wanted to stop paying child support and be forgiven the arrears on the basis that the children were living with him and that he had day-to-day care of them. He does agree that Cara went back and forth between him and the appellant but said that she was living with him more that with the appellant as of May 2005. At the appellant’s request, he signed a statement (Exhibit A-2) on December 15, 2006, indicating that the appellant was responsible for both Amy and Cara until May 2006, that Cara began seeing and staying with him more in March 2005, but that the appellant had been responsible for the upbringing of both until May 2006. The former spouse now says that the statement about the appellant being responsible for both Amy and Cara until May 2006 is incorrect. He did not prepare the statement and, although he signed it, he states that at the time he did not want to get involved.
+[12] Amy testified that she lived with the appellant until September 2005. She then lived with her father for one week but was with him a lot less after that as she spent time at her boyfriend’s place. As for Cara, Amy testified that she had always been going back and forth between both parents since January 2005.
+[13] The appellant’s position is that she was the primary caregiver for both children until May 2006 when the variation order was signed. She agrees that her former spouse became the primary caregiver at that time. She testified that prior to May 2006 Amy only stayed with her father for a period of two weeks in February 2005 and that Cara seldom saw her father until March 2005 when she lived with him for one week. She went back to live with the appellant and afterwards apparently went back and forth until May 2006 when she moved in with her father. Up to that point, it was the appellant who bought her clothes and provided for her personal needs.
+[14] As to the reasons why she gave her consent to the variation order, the appellant testified that she signed the document thinking that it was to stop the maintenance payments for Cara, who was staying more with her father at the time. She was not represented by a lawyer and did not read the order before giving her consent and signing it.
+[15] In order to qualify for the CCTB and the GSTC, the appellant must establish on a balance of probabilities that she satisfies all the requirements of the definition of “eligible individual” found in section 122.6 of the Income Tax Act in the case of the CCTB and section 122.5 in the case of the GSTC. Both definitions require, among other things, that the appellant have resided with the qualified dependants, namely, Cara and Amy. The only issue in this instance is whether both Amy and Cara resided with the appellant during the relevant months. The aforementioned definitions read as follows:
+Section 122.6
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+Section 122.5
+"eligible individual", in relation to a month specified for a taxation year, means an individual (other than a trust) who
+(a) has, before the specified month, attained the age of 19 years; or
+(b) was, at any time before the specified month,
+(i) a parent who resided with their child, or
+(ii) married or in a common-law partnership.
+[16] The issue of whether a child resides with a parent has been discussed by this Court in cases similar to this one. In S. R. v. The Queen, 2003 TCC 649, Mr. Justice Bonner wrote at paragraph 12:
+The word "reside" with as used in the section 122.6 definition of the term "eligible individual" must be construed in a manner which reflects the purpose of the legislation. That legislation was intended to implement the child tax benefit. That benefit was introduced in 1993 with a view to providing a single nontaxable monthly payment to the custodial parent of a child. That payment was intended to benefit the child by providing funds to the parent who primarily fulfilled the responsibility for the care and upbringing of the child. The threshold test is whether the child resides with the parent. Physical presence of the child as a visitor in the residence of a parent does not satisfy the statutory requirement. The word "resident" as used in s. 122.6 connotes a settled and usual abode. . . .
+[17] Mr. Justice Dussault wrote the following in Lapierre v. The Queen, 2005 TCC 720:
+. . . All things considered, residence implies a certain constancy, a certain regularity or else a certain permanence according to a person’s usual lifestyle in relation to a given place and is to be distinguished from what might be called visits or stays for specific purposes or of a sporadic nature. When the Act sets as a condition to reside with another person, I do not consider it appropriate to attribute to the verb “to reside” a meaning which deviates from the concept of residence as it has been developed by the courts. To reside with someone is to live or stay with someone in a given place with a certain constancy, a certain regularity or else in an habitual manner.
+[18] In this instance, the appellant resided with both children and received maintenance payments for both as a result of a joint custody order granted on December 12, 1996 and varied on August 12, 2004. It is alleged by the respondent that in March 2005 both children moved in with their father, making him the eligible individual. The respondent now acknowledges that the appellant was the eligible individual for Amy up to and including September 2005, but maintains her position that the appellant ceased being the eligible individual with respect to Cara as of April 2005.
+[19] Of the two children, Amy is the only one who testified. She testified that in September 2005 she moved in with her father and that, from then on, she stayed with him but also spent time at her boyfriend’s place. Although she may have been gone from home a lot, as her father did mention, she did, in my opinion, move in with her father in a permanent way and to such a degree that home for her became her father’s residence sometime in September 2005. Although her testimony may have been brief, she appeared very credible and clear as to when she actually moved in with her father. I therefore conclude that the appellant was not the eligible individual with respect to Amy from the month of October 2005 until Amy’s eighteenth birthday, as regards the CCTB, and from the month of October 2005 as regards the GSTC.
+[20] All three witnesses testified that Cara, as of March 2005, was going back and forth from one parent to the other. The amount of time she may have spent at each place remained somewhat nebulous and both parents have demonstrated their ability to fulfil the responsibility for the care and upbringing of Cara. The issue, though, is one of residence, for in order to be eligible for the CCTB and the GSTC, the taxpayer has to reside with the child.
+[21] The appellant maintains that Cara resided with her until April 2006, even though she acknowledges that Cara was spending more time than usual at her father’s place. The former spouse, on the other hand, maintains that Cara moved in with him on a full-time basis in May 2005. In his application for the CCTB, he indicated that Cara had lived with him all of the time from March 1, 2005. He also swore in his affidavit in support of the variation order that Cara had been residing with him since March 2005, but he indicated as well that he was seeking forgiveness of the arrears for the time both children resided with him. The arrears he sought to have forgiven were calculated as of October 2005; they consisted of only half the maintenance amount for October and November 2005 and the full amount for December 2005, January 2006 and February 2006. No explanations were given as to why forgiveness of only half the amount was sought if both children resided with him or why forgiveness of the maintenance for Cara did not go back to March 2005. What is clear is that the arrears pertaining to Cara were forgiven because Cara was residing with her father.
+[22] The appellant testified that she did not read the variation order and that she thought its only purpose was to stop the maintenance payments for Cara. The variation order does exactly that and, in my opinion, the appellant was not unaware that the arrears went back as far as October 2005, or at least she should have known that fact as she was the person to whom the maintenance payments were being made. I therefore conclude that in all probability, Cara began residing with her father on a more permanent and regular basis sometime in September 2005, which thus justified his request for forgiveness of the maintenance payments for Cara for October 2005. The appellant was therefore the eligible individual for Cara up to and including September 2005 after which time which the former spouse became the eligible individual with respect to Cara for both the CCTB and the GSTC.
+[23] The appeal is allowed in part and the redeterminations are referred back to the Minister for reconsideration and redetermination in accordance with these reasons.
+Signed at Edmundston, New Brunswick, this 9th day of May 2008.
+“François Angers”
+Angers J.
+CITATION: 2008TCC183
+COURT FILE NO.: 2007-2792(IT)I
+STYLE OF CAUSE: Nadine W. Goodwin v. HMQ
+PLACE OF HEARING: Yarmouth, Nova Scotia
+DATE OF HEARING: March 17, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: May 9, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Philip Star Q.C.
+Counsel for the Respondent:
+Deanna M. Frappier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Philip Star, Q.C.
+Firm: Pink Star Murphy Barro
+Yarmouth, Nova Scotia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

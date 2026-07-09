@@ -1,0 +1,395 @@
+Title: Craig v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29576/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-617-29576-craig-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-12-17
+
+# Craig v. The Queen
+
+- Citation: 2009 TCC 617
+- Decision date: 2009-12-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6332, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Craig v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-12-17
+Neutral citation
+2009 TCC 617
+File numbers
+2007-3040(IT)G
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3040(IT)G
+BETWEEN:
+JOHN H. CRAIG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+John H. Craig 2008-869(IT)G on August 25, 2009 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Glenn Ernst
+Marisa Wyse
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with and for the reasons set out in the attached Reasons for Judgment.
+Signed at Winnipeg, Manitoba this 17th day of December 2009.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2008-869(IT)G
+BETWEEN:
+JOHN H. CRAIG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+John H. Craig 2007-3040(IT)G on August 25, 2009 at Toronto, Ontario
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Glenn Ernst
+Marisa Wyse
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2001 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with and for the reasons set out in the attached Reasons for Judgment.
+Signed at Winnipeg, Manitoba this 17th day of December 2009.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2009 TCC 617
+Date: 20091217
+Dockets: 2007-3040(IT)G
+2008-869(IT)G
+BETWEEN:
+JOHN H. CRAIG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+[1] The Appellant is appealing reassessments of his 2000 and 2001 taxation years. The appeals concern the application of the restricted farm loss provisions set out in section 31 of the Income Tax Act (the “Act”).
+[2] In respect of his 2000 taxation year, the reassessment being appealed made no adjustment to restricted farm losses that the Appellant reported for that year in respect of certain horseracing activities carried on by him. The appeal is made, nonetheless, on the basis that the Appellant has since determined that he was entitled to claim the subject losses in that year without restriction.
+[3] In respect of his 2001 taxation year, the Appellant reported his horseracing activities as two businesses. Losses incurred from the buying and selling of horses were reported as being from a different source than those incurred in his horseracing operation. The losses from the racing operation were reported as being subject to the restricted farm loss provisions while the losses from his trading activity were reported as losses from a non-farming business and not subject to the restricted farm loss provisions. The Appellant was reassessed on the basis that both activities were subject to the restricted farm loss provisions. The appeal is made on the basis that the restricted farm loss provisions do not apply to either activity.
+[4] The Appellant acknowledged at the hearing that he was not pursuing his position that the buying and selling of horses was a separate non-farming business. His appeal was to be advanced on the basis that his horseracing operation included the buying and selling of horses and was “farming” as defined in section 248 of the Act in both years under appeal but was, nonetheless, not subject to the restricted farm loss provisions in section 31 of the Act.
+[5] The issue in these appeals then is whether the losses in question are subject to the restricted farm loss provisions set out in section 31 of the Act. The Appellant asserts that those losses are ordinary business losses.
+Factual Background and Preliminary Findings
+[6] The following is an overview of the Appellant’s activities that relate to the issue raised in these appeals and have either been agreed to or have been established by the evidence to my satisfaction:
+a. The Appellant has been practising law for approximately 35 years and is presently a partner at the law firm Cassels, Brock & Blackwell LLP in Toronto;
+b. His income from his law practice for his 2000 and 2001 years was $770,423 and $646,600 respectively. In those years, respectively, he billed for some 900 hours and 1300 hours of recorded time.[1] His remuneration reflected his value as a business generator who maintained personal relationships with clients to the benefit of the firm. He managed and supervised the work being done for these clients by other lawyers in the firm and provided strategic advice. Many of his clients have become well-established clients of the firm. New clients come by word of mouth. As well, it seems he is well-respected in his field and attracts clients by virtue of his reputation. His law income has increased in recent years to seven figures without material change in his time commitment to the practice;
+c. In addition to his law practice, he acts on the boards of directors of several companies (as many as seven). His time on such boards (averaging some 100 hours a year) is recordable and billable time in his law practice. Fees are paid to the firm. In relation to these activities he has received stock options which have resulted in him personally reporting significant gains as employment income;
+d. Unrelated to his law practice, but related perhaps to his area of interest and specialization in the legal world, he has made significant capital gains on equity investments in the oil and gas sector;
+e. As set out in the Reply and Exhibit A-4 and agreed to or testified to at the hearing, the Appellant reported the following income and losses during the years 1996 to 2001:
+Year
+Employment
+Income
+Net Professional Income (from the Law Practice)
+Investment Income (Taxable Capital Gains)
+Farming Income (Loss)
+1996
+588,600
+715,085
+213,915
+(63,924)
+1997
+517,350
+668,579
+259,989
+(273,061)
+1998
+35,200
+653,715
+128,667
+(185,142)
+1999
+487,500
+710,066
+313,881
+(142,803)
+2000
+24,000
+770,423
+372,732
+(222,642)
+2001
+36,000
+646,600
+129,331
+(205,655)
+f. The Appellant acknowledged that in the subject years he relied on his law practice income (including his employment income) and his capital gain investment income for his livelihood. As well, it is safe to say that these cash flow streams financed his horseracing operation in the subject years;
+g. The Appellant has a capital investment in his law firm that varies annually and ranged from $150,000 (the amount in 2000 and 2001 respectively was $165,000 and $150,000) to $280,000 in the current year. The capital invested in his portfolio (the source of his capital gains) was acknowledged to be higher than the capital investment in the horseracing operation, not counting annual costs to cover operational deficits;
+h. The Appellant testified that there was some small overlap between his horseracing activities and his law practice. He admitted horseracing was not a popular avenue for entertaining clients and noted that even though his biggest client happened to be a horse breeder, which contributed to the collegial side of their relationship, it was his talents as a lawyer that brought that relationship into being, not his connection to horseracing;
+i. The Appellant sees himself slowing down and phasing out his law practice over the next six years at which time he will have reached the age of retirement prescribed by his firm;
+j. Turning to his horseracing activities, the Appellant has been actively involved for some 25 years in standardbred horse ownership and racing which included the buying and selling of standardbred horses (the “horseracing operation”). The business is operated year round. Standardbred horseracing is not a seasonal activity;
+k. Prior to his entry into the horseracing scene, there is no evidence that the Appellant had any background, experience or training with respect to any aspect of horseracing. He retained the services of a trainer to facilitate his entry into this new venture and continued to retain such services under a fairly comprehensive arrangement which incorporated the provision of all required maintenance of the horses as well as their training;
+l. Over the years preceding 2000 he studied industry publications and absorbed knowledge from his trainer and others. His focus and attention to all aspects of the industry, from breeding to racing regulations and his regular attendance at horse sales, races and training sessions, gave him over 15 years of operational experience perhaps best reflected by the fact that he was Chair of the Standardbred Appeal Board. As well, I note, that he was a founding member of the Standardbred Horse Owners Panel (“SHOP”), a group dedicated to freeing the industry of drug use that has haunted the horseracing world and has impacted the success of clean operations such as his;
+m. He built his operation up from nothing to 10 to 15 horses by the mid-1990s. In 2000, he had as many as 20 horses. This he determined was too many for his operation to handle. A change in his operational planning aimed at fewer, better and younger quality stock meant a reduction in his stable from 20 to some 14 horses in 2001, declining further to 11 horses at the time of the hearing;
+n. For many years, including his 2000 and 2001 taxation years, the Appellant has devoted more than 600 hours annually to horse ownership, racing and trading activities. His activities include:
+- morning review of internet racing services and daily telephone updates and discussions with the trainer on all aspects of operations including training progress, lameness and racing strategies; one hour daily; 250 hours a year;[2]
+- Saturday meetings with the trainer and veterinarians and watching training almost every week. These meetings included discussion of similar topics covered in daily telephone conversations including training regimes, racing strategies and horse sales; 4.5 hours weekly; 200 hours yearly;
+- attending race tracks in excess of 40 times a year; in a given year his horses could be racing 150 to 160 times a year; 150 hours a year;[3]
+- reviewing horse sales catalogues and attending sales 3 to 4 times a year;
+- attending appeal board hearings; as chair of the Standardbred Appeal Board, the Appellant hears appeals from decisions made at the track or pertaining to races. He hears 7 to 8 appeals a day, 3 to 4 times a year;
+- maintaining records for annual tax returns and for filing quarterly GST returns.
+o. Revenues are derived from winnings (“purses”) and horse sales. The average purse at an A-track would be in the range between $12,000 and $50,000 per race. The top five horses share the purse. The percentages from first to fifth are 50, 25, 12, 8 and 5. Stakes races pay substantially higher purses but require a series of payments to be made to enter a horse;
+p. Stakes races might have purses ranging from $30,000 to in excess of $1,500,000 for the top cup events. Purses have gone up dramatically since being enriched by increased stakes payments, revenues from slot machines and the like and Ontario grants for Ontario-sired horses;
+q. There are hundreds of stakes races each year. In 2000, the Appellant had six wins and quite a few seconds and thirds. In 2001, he had the same number of wins but fewer seconds. These were not sufficient to pay expenses. Better success was achieved in the next two years;
+r. The Appellant’s income/loss position relating to his horseracing operation is as follows:[4]
+Taxation Year
+Income (Loss)
+1986
+1987-91
+$ 27,222
+Unspecified losses
+1992
+$ 25,500
+1994
+$ 28,850
+1995
+$ 73,000
+1996
+($ 63,924)
+1997
+1998
+1999
+2000
+2001
+($237,061)
+($185,142)
+($142,803)
+($222,642)
+($205,655)
+2002
+$ 69,000
+2003
+$ 32,000
+2004
+($ 81,212)
+2005
+($ 66,262)
+2006
+($ 63,924)
+2007
+($ 143,003)
+2008
+($ 85,043)
+s. In addition to financing operational losses, the Appellant invested significant amounts of money in his racing stock. The investment each year was estimated by the Appellant as follows:[5]
+Taxation Year
+Capital
+1994
+$190,000
+1995
+$206,000
+1996
+$341,000
+1997
+$130,000
+1998
+$221,000
+1999
+$222,000
+2000
+$412,000
+2001
+$254,000
+t. The Appellant acknowledged that his investment in subsequent years was lower, ranging from $100,000 to $300,000. This was due to a change in his operational strategy which was to reduce his stable to fewer better quality horses;
+u. Aside from some equipment, such as harnesses and sulkies, the Appellant has virtually no capital investment in his horseracing operation other than in the racehorses. He has no direct obligations relating to rent, staff or other overhead except as covered under his arrangement with the trainer;
+v. From inception of the horseracing operation to present, the Appellant has retained the same trainer.[6] The arrangement with the trainer includes the provision of all facilities, feed and hands needed to maintain and train the Appellant’s horses. The trainer issues monthly statements to the Appellant with quarterly summaries. The monthly statements itemize expenses for each horse and include a training fee (for the number of days the particular horse was trained, if any), farm or stall fees on a daily basis, veterinary expenses and other sundry items. It also, incidentally, shows purse winnings, if any, for the month. The winnings are shown in the calculation of an additional item on the trainer’s monthly statements, namely, an additional fee based on 5% of a horse’s winnings during the month;[7]
+w. The trainer owns an interest (25%, 33.33% or 50%) in some of the horses included in the Appellant’s horseracing operation. Indeed, in 2000 and 2001 the trainer had an interest in a majority of the horses included in the Appellant’s horseracing operation as shown on the trainer’s statements;
+x. The trainer pays for his interest in such horses and shares proportionately in all expenses incurred in respect of them, including his training fee and his 5% winnings fee. A rough estimate of the trainer’s percentage share of the capital and expenses of the Appellant’s entire horseracing operation might be in the order of 20%;[8]
+y. The Appellant has no written plan to demonstrate that his horseracing operation can, or could have, a reasonable chance of consistently earning profits, being a chief source of income or being the means by which he could earn his livelihood. Indeed, the Appellant acknowledged that his legal career in, prior to and since the subject years was his chief occupation and livelihood. He further acknowledged that this will likely continue to be the case going forward until his retirement from law in a few years. By that time, he believes he will devote more time to his horseracing operation and board of directors work.
+[7] Notwithstanding the Appellant’s lack of knowledge and experience going into the horseracing operation and the appearance that it could be run without much, if any, input from him, I am satisfied by his testimony that by 2000 he played a very active role in this business. While the trainer had full responsibility for the training and maintenance of the horses, he only made recommendations on other aspects of the operation, including which horses to buy or sell, which horses to rest, which horses to race in one category or another or at which track particular horses will race. In these areas the final decision rested with the Appellant.[9]
+[8] I am satisfied, as well, that his devotion to this operation over the years has contributed to knowledge and experience that support a finding that he is more than a simple investor who contracted out operations. His daily preoccupation with assessing every aspect of his business underlines his commitment to its success under his stewardship. He familiarizes himself with his own horses, the competition, the racing options and tracks in order to make, in consultation with the trainer, daily decisions necessary for a successful operation. In short, I am satisfied that he had, by the years in question, become experienced in all areas about which a successful operator would have to be informed. However, this must be taken in perspective. Profitability is a gamble where the intervention of good or bad breaks play such an important role. Good or bad luck, if you will, can determine profitability. I am satisfied that the Appellant’s approach, experience, knowledge and devotion of time and resources give him a foundation for as realistic a vision and expectation of profitability as might be expected of any horseracing operator. This is supported by the trainer’s investment in the operation.
+[9] The Appellant personally maintains the records of, and separate business registrations and GST registrations for, his horseracing operation. He does not keep financial statements and frequently referred to his investment from year to year as estimates. Exhibits relating to such investments were admitted to have been prepared for the purposes of the hearing. The Respondent asserted that this was not consistent with the operation of a commercial enterprise.
+[10] An understanding of the need for and the purpose of financial statements shed some light on this concern.
+[11] Firstly, financial statements are required to show an outsider where a business stands. For example, it helps a bank assess where a business stands when the bank is being called upon to lend money and the business forms part of the bank’s security. It helps investors assess the value of their investment and informs partners about what is happening in respect of their interest in a business. A sole proprietor has no reason to prepare financial statements. The Act does not require them of such operators.
+[12] Secondly, the format of financial statements paints a picture of the financial situation of an operation at a single point in time, traditionally at the end of a fiscal or business year. A sole proprietor might be able to tell you his financial situation at any point of any day, but if asked in 2009 what the investment was in 2000, he would have to ask on what day or estimate the average for the year by going back and resurrecting records. That is what he did.
+[13] The Appellant prepared statements of income and loss at the end of each year from his records. They are reported to the penny and there is no question as to their accuracy. Essentially, all expenses are on the trainer’s statements and the Appellant’s share of earnings, as reported, have not been questioned. As well, his records of buying and selling racehorses, and the time when those records were prepared, have not been questioned. Accordingly, his records of his capital investment should not be in question. The objection is without merit.
+[14] While the Appellant had no written business plan, he certainly adopted new approaches and modified approaches to his operation from time to time with a view to increasing profitability.
+[15] In 1997, the Appellant made the decision to expand his horse ownership by acquiring more yearlings (horses that are less than two years old). These were longer term prospects. Accordingly, the losses over the next two to three years were not surprising. The Appellant chose to do this with a view to achieve greater profitability over time. While this increased losses and increased business risks, purses were going up, (particularly for horses eligible for the Standardbred Ontario Sires Stakes program which yielded lucrative purses) so the rewards for the investment in yearlings looked favourable.
+[16] The results of this strategy paid off modestly in 2002 and 2003 but he had too many horses to maintain so he revised his business plan by downsizing to better quality horses. As he said, it cost as much to maintain a losing horse as a winning horse and staffing shortages for a larger stable contributed to problems as well.
+[17] Still, results have continued to be disappointing. Overall, the Appellant admits to mistakes along the way, such as making bad purchase choices and insisting on horses racing at too early an age which contributed to lameness. As well, emerging in 2003/2004 was the wide-spread use of illegal performance- enhancing drugs that gave less scrupulous owners an unfair advantage. In this regard the Appellant took some personal pride in his role as a founding member of SHOP in bringing about what he referred to as huge changes in drug testing and the stiffness of penalties.
+[18] The Appellant testified that he would, and expected that he could, continue with his horseracing operation, on a smaller scale at least, without his law practice income.
+Statutory Framework
+[19] The relevant provision of the Act reads as follows:
+31(1) Loss from farming where chief source of income not farming -- Where a taxpayer's chief source of income for a taxation year is neither farming nor a combination of farming and some other source of income, for the purposes of sections 3 and 111 the taxpayer's loss, if any, for the year from all farming businesses carried on by the taxpayer shall be deemed to be the total of
+(a) the lesser of
+(i) the amount by which the total of the taxpayer's losses for the year, determined without reference to this section and before making any deduction under section 37 or 37.1, from all farming businesses carried on by the taxpayer exceeds the total of the taxpayer's incomes for the year, so determined from all such businesses, and
+(ii) $2,500 plus the lesser of
+(A) 1/2 of the amount by which the amount determined under subparagraph (i) exceeds $2,500, and
+(B) $6,250, and
+(b) the amount, if any, by which
+(i) the amount that would be determined under subparagraph (a)(i) if it were read as though the words "and before making any deduction under section 37 or 37.1" were deleted,
+exceeds
+(ii) the amount determined under subparagraph (a)(i).
+(1.1) Restricted farm loss -- For the purposes of this Act, a taxpayer's "restricted farm loss" for a taxation year is the amount, if any, by which
+(a) the amount determined under subparagraph (1)(a)(i) in respect of the taxpayer for the year
+exceeds
+(b) the total of the amount determined under subparagraph (1)(a)(ii) in respect of the taxpayer for the year and all amounts each of which is an amount by which the taxpayer's restricted farm loss for the year is required to be reduced because of section 80.
+(2) Determination by Minister -- For the purpose of this section, the Minister may determine that a taxpayer's chief source of income for a taxation year is neither farming nor a combination of farming and some other source of income.
+Appellant’s Argument
+[20] The Appellant’s position is that the horseracing operation, in combination with his law practice, was his chief source of income in the subject years so that section 31 of the Act has no application to him to restrict his loss from his horseracing operation for those years.
+[21] The Appellant relies heavily on the case of Gunn v. The Queen.[10]
+[22] Mr. Gunn, like the Appellant, was a lawyer with substantial professional income. Mr. Gunn also operated a crop and cattle farm over an 18 year period while he was practising law. In every year, except for two, the taxpayer incurred losses, in some years over $100,000, from his farm operations.
+[23] In Gunn, the Federal Court of Appeal noted that the seminal case on the application of section 31, Moldowan v. The Queen,[11] had attracted criticism. The Appellant notes the nature of such criticism by reference to the decision by Justice Bowman (as he then was) in Hover v. Canada (Minister of National Revenue - M.N.R.)[12] and by Justice Joyal in Harold S. Hadley v. Her Majesty the Queen.[13] These cases suggest that the Moldowan test leads to an unworkable situation since it in effect means that a person cannot avoid the application of section 31 unless he can establish that his other source of income is subordinate to farming. If he could establish that, he would have established that farming was his chief source of income and this would render the combination test in section 31 meaningless.
+[24] The Appellant goes on to argue that the Moldowan decision invoked statutory construction principles that are no longer acceptable. The Appellant cites several authorities in support of this argument. Support of this argument is indeed found in Gunn itself and, accordingly, reliance on such other authorities seems unnecessary.
+[25] The combination test in section 31 that the Appellant advances is stated in Gunn at paragraph 83.
+83 In my view, the combination question should be interpreted to require only an examination of the cumulative effect of the aggregate of the capital invested in farming and a second source of income, the aggregate of the income derived from farming and a second source of income, and the aggregate of the time spent on farming and on the second source of income, considered in the light of the taxpayer's ordinary mode of living, farming history, and future intentions and expectations. This would avoid the judge-made test that requires farming to be the predominant element in the combination of farming with the second source of income, which in my view is a test that cannot stand with subsequent jurisprudence. It would result in a positive answer to the combination question if, for example, the taxpayer has invested significant capital in a farming enterprise, the taxpayer spends virtually all of his or her working time on a combination of farming and the other principal income earning activity, and the taxpayer's day to day activities are a combination of farming and the other income earning activity, in which the time spent in each is significant.
+[26] The Appellant cites Brian J. Stewart v. The Queen[14] as authority for the proposition that on the facts of the case at bar, the Appellant’s horseracing operation cannot be found to be a personal endeavour. Further, considering the capital investment in the horseracing operation and the number of horses owned by the Appellant in that operation, it is argued that the operation has reached a level of commerciality, commitment and importance within the taxpayer’s settled routine and business life, such that it cannot be considered a sideline business.
+[27] Further, as acknowledged by Justice Woods in Clemmer v. The Queen[15] at paragraph 19, an investment in farming should also include “the entire monetary contribution to the business, not simply expenditures in the nature of capital.” The Appellant’s contributions in this regard were clearly significant.
+[28] The time spent in the horseracing operation relative to the time spent in his law practice is material.
+[29] Based on such facts, it is argued that the Appellant has satisfied the Gunn formulation of identifying a chief source of income, so as to recognize that his chief source for the taxation years in issue was a combination of his horseracing operation and his law practice. It is also pointed out, to support the Appellant’s argument, that the evidence of profitability in some years must be given considerable weight.
+[30] The Appellant acknowledged that in Gunn the Federal Court of Appeal stated that the result would have been the same in that case even if the Moldowan principles were more strictly applied. Relying on the similar focus given to their respective farming businesses by Mr. Gunn and the Appellant, the Appellant argues that he too should be found to be free of the section 31 restriction as was Mr. Gunn.
+[31] In dealing with the question of the binding nature of Gunn the Appellant referred to Johnson v. Canada[16] where Justice Webb concluded that he was bound by the Gunn combination formulation.
+[32] In respect of the issue that the Appellant relied on a hired trainer to operate the business, the Appellant relies on Astroff v. M.N.R.[17] and Felicella v. The Queen[18] which found that such factors are not relevant. With respect to the risky nature of the business, the Appellant relies on Clemmer where Justice Woods, dealing with this very point in a similar context, remarked that it was not desirable for a court to second-guess the business judgment of a taxpayer.
+[33] The Appellant also reviewed a number of cases where horseracing activities were found to be subject to section 31 of the Act. It was argued that all such cases can be distinguished from the case at bar.
+Respondent’s Argument
+[34] The Respondent argues that the Appellant’s chief source of income was neither farming nor a combination of farming and some other source of income. Rather, his chief source of income was income from his law practice or from a combination of his law practice and investment income. It was emphasized at the hearing that the Appellant identified these two income streams as the source of his livelihood and that in any event, he has not proven otherwise.
+[35] Although the Respondent conceded that the Appellant’s horseracing operation was a business, it was still argued that he carried it out with an indifference toward the losses being incurred and relies on the Federal Court of Appeal decision in Minister of National Revenue v. Donnelly[19] as authority for asserting that in such cases section 31 applies.
+[36] Again relying on Donnelly, the Respondent notes that the profitability of the business has to be assessed in relation to the investment. An inordinately small profit relative to time and capital invested cannot be treated the same as a degree of profitability that is more reasonable in those relative terms.
+[37] The Respondent also relies on a strict application of the test in Moldowan. To the extent that the Gunn decision is at odds with the Moldowan decision, the Respondent argues that I am bound by the Supreme Court of Canada decision in Moldowan, as found in Falkener v. Canada.[20] In Moldowan, to be free of the section 31 restriction, the taxpayer has to be a person whose major preoccupation is farming. The Respondent argues that this is the only construction of the subject provision that makes any sense at all.
+[38] Other cases are relied on to support the view that section 31 is there to protect the full-time farmer who obtained a subordinate source of income to sustain his farming activity. See, for example, Loyens v. The Queen.[21] The Respondent readily distinguishes cases relied on by the Appellant including Gunn, which clearly presents the best comparable for the Appellant. The Respondent further submits that if Gunn does expand the principles in Moldowan in an acceptable way, such expansion is not sufficient to assist the Appellant in the case at bar. In short, the Respondent has argued that the facts in Gunn are distinguishable from those in the present appeal.
+[39] The Respondent argues that recognizing profits in 6 of 25 years of operation does not signal the horseracing operation as a chief source of income. Rather, it signals a chief source of losses – a sideline business at best.
+[40] In reviewing cases such as Moldowan, Canada v. Morrissey,[22] Afzal v. R.[23] and Donnelly to name a few, the Respondent argues that comparing the facts of those cases to those of the current case demonstrates that the Appellant falls into a category of farmer who is subject to the section 31 loss restriction.[24]
+Analysis
+[41] As noted, the Respondent conceded in argument that the horseracing operation was a business. This is a concession that the horseracing operation is a source of income.
+[42] Recognizing that the horseracing operation was a business suggests that it was not a personal endeavour such as a hobby. This reasoning relies on the analysis in Stewart where the Supreme Court of Canada cast a new light on the meaning of the phrase “source of income”. The case was of landmark significance in finding that, under the Act, there was no restriction on claiming losses arising out of an activity found to be a source of income; i.e. there was no restriction on losses incurred in an activity pursued as a business as opposed to a personal endeavour. Those concepts are mutually exclusive. On this basis, a concession that the horseracing operation was a business is, as the law stands today, a concession that it was not a personal endeavour.
+[43] The relevance of this reasoning and conclusion is that if section 31 targets personal endeavours such as hobby farmers, as suggested in so many cases before and after Moldowan, then it would follow that persons who have devoted themselves to farming in a business-like manner sufficient to meet the tests established in Stewart will never be subject to that section. That clearly cannot be so.
+[44] Even if a farming business is found to be a business under the Stewart test, the section 31 loss restriction will still apply if it is a sideline business. In spite of the anomalies that arise in dealing with section 31, the jurisprudence invoking a sideline business restriction construction of the section is well-ingrained in the law. Without such concept, the riddle of the combination question and its applicative obscurity would be even more perplexing than it has been.
+[45] However, the notion of a sideline business has not been easily applied. Indeed, as set out in the Moldowan formulation of three classes of farmers, the sideline business test has been the object of considerable criticism. If farming has to be more than a sideline business to avoid the section 31 loss restriction, then the tendency is to suggest that it must be the chief source, which renders the combination test meaningless.
+[46] This, in my view, is where the Gunn analysis expands on the interpretive principles set down in Moldowan so as to narrow the scope for restricting farm losses. In doing so it provides considerable assistance in rationalizing a satisfactory construction of section 31. In my view, it confirms that a farming operation will not be considered a sideline business for the purposes of the combination test in section 31 even if it may never be the chief source of income of the taxpayer operating it.
+[47] Applying section 31 in this way or as otherwise applied in Gunn, opens the door for the Appellant. That is, to succeed in his appeals the Appellant is totally reliant on if and how I apply Gunn.
+[48] The starting point of the analysis is to consider the construction of section 31 as directed in Moldowan and compare it to that employed in Gunn to better understand in what respect the Gunn construction is more generous. It will then be possible to determine if the Appellant warrants having the same result as afforded Mr. Gunn under that construction. If I make that determination in favour of the Appellant, it will be necessary to determine if that construction can prevail without a further finding that the Appellant also met the Moldowan criteria, as did Mr. Gunn.
+The Moldowan Classification of Farmers
+[49] It would be helpful to set out an expanded reiteration of the guiding principles in Moldowan that formulate three classes of farmers:
+i) the class (1) farmer is, in today’s terms, one who meets the Stewart test for income from a business and who has met the further criteria set for farmers who can claim their farm losses on an unrestricted basis. They are farmers “… for whom farming may reasonably be expected to provide the bulk of income or the centre of work routine.” (emphasis added).[25] They look to farming for their livelihood even though there are years in which they sustain losses;
+ii) the class (2) farmer is one who passes the Stewart test but who has not met the additional class (1) criteria;
+iii) in Moldowan, the class (2) farmer is “the taxpayer who does not look to farming, or to farming and to some subordinate source of income, for his livelihood but carried on farming as a sideline business.”[26] In this description, the second source is described as “subordinate” even though quantitatively it would have to be the higher source of income. If farming is merely a sideline activity then, relatively, the other source will not be a “subordinate” activity (source of income) and cannot be used in the combination test to prop up the sideline farming business as being part of the two sources that together comprise a chief source;
+iv) this has been taken to mean that only one of two sources can be predominant and that this source must be farming to avoid the application of section 31 restricted loss treatment. While it is necessary to appreciate that such predominance cannot be determined simply by dollar amounts, it is this application of the combination test that would render it sterile if applied strictly;
+v) the class (3) farmer does not meet the Stewart test and is denied all losses under Moldowan.
+[50] Of importance in this reiteration of the Moldowan classes of farmers is that it recognizes limits to the combination test being used as the vehicle whereby a profitable source can be used to prop up an unprofitable farming source so as to add it to the already identified class (1) group of farmers. It is restrictive and seemingly, if not clearly, directs that farming must be the chief source even in the combination test.
+The Gunn Approach
+[51] In determining whether the farming activity is to be part of the combination formula, we are instructed in Gunn at paragraph 83 to consider that:
+… the combination question should be interpreted to require only an examination of the cumulative effect of the aggregate of the capital invested in farming and a second source of income, the aggregate of the income derived from farming and a second source of income, and the aggregate of the time spent on farming and on the second source of income, considered in the light of the taxpayer's ordinary mode of living, farming history, and future intentions and expectations. …
+[52] My reading of this formulation of the combination test is that it requires that the chief source factors being examined in respect of farming, including potential profitability, be considered relative to the chief source factors being examined in respect of the second source being included in the combination. This is consistent with the directive in Moldowan that profitability be assessed relatively.[27]
+[53] The challenge in Gunn is to assess how material the farming source contribution must be to the aggregation formula. Other authorities suggest that the contribution need not be quantitatively substantial (as held in Taylor v. Canada[28] and Kroeker). However, in my view, it is implicit in Gunn that the farming source must make a meaningful contribution to the aggregation formula so as to suggest that farming is or has the potential to be a chief source.[29]
+The Gunn Construction vs. The Moldowan Construction
+[54] Drawing from my reading of Gunn, it is clear to me that in the combination test there is never a need to establish that farming will ever provide the bulk of a taxpayer’s income or even that it will ever need to be the predominant business or work activity of the taxpayer. As recognized in Gunn, this invokes a more generous test than the Moldowan suggestion that farming must be the chief source even in the combination test. Recognizing that the tests in these cases are different, this Court has already expressed conflicting views on whether Gunn is a binding authority in the face of Moldowan.[30]
+[55] Still, the factors considered in Gunn also form part of the analysis in Moldowan. At page 4, Dickson J. (as he then was) noted:
+… The distinguishing features of ‘chief source’ are the taxpayer’s reasonable expectation of income from his various revenue sources and his ordinary mode and habit of work. These may be tested by considering, inter alia in relation to a source of income, the time spent, the capital committed, the profitability both actual and potential. …
+[56] That is, the criteria or factors considered in identifying a chief source in Moldowan, including, but not limited to profitability, are not dissimilar from those relied on in the Gunn articulation of the aggregation formula. In both cases the time spent, the capital committed, the potential profitability and the taxpayer’s ordinary mode and habit of work are the criteria for determining whether farming is more than a sideline business.
+[57] If that were the end of the comparison of the two cases, one could conclude that Gunn is not at odds with Moldowan. That, however, as noted, is not the end of the comparison. Contrary to Moldowan, Gunn suggests that the activity propping up the farming income need not be subordinate to farming but rather it suggests that the farming activity, relative to the other source, must make a relevant or meaningful contribution to the aggregation formula assessed by using the Moldowan criteria.
+[58] Applying the combination test in this way, Gunn affords class (1) treatment to an expanded group of farmers by allowing that the combination test can apply to give that result even where farming alone may never be the chief or predominant source from either a quantitative perspective or from a commitment perspective.
+[59] Still, the question arises whether this expanded application of Moldowan is such a departure from it as to suggest that it cannot bind this Court. A strict application of the rules of stare decisis may well bind me to follow Moldowan. This was the finding of Justice Bowie in Falkener. It does strike me as unlikely that any court should be able to distinguish a higher court’s decision if it undermines the very mandate of that decision even if the mandate has gone beyond what thoughtful critics have suggested can properly be drawn from the legislation.
+[60] However, I am not certain that Gunn undermines the very mandate of the Moldowan decision. What it does is avoid the contradictions and difficulties that have been the Moldowan legacy. There is in Gunn a harmonious union of the language of section 31 and discernable distinctions between casual farming activities and committed farming preoccupations. Such distinctions become more apparent by applying the Gunn approach which itself draws on factors relied on in Moldowan. Rationalizing an abundance of cases purporting to apply Moldowan becomes clearer under the lens of a Gunn analysis.
+[61] Indeed, it is my view that Gunn simply puts the Moldowan analysis back on track as a workable construction of section 31 – one that does not render it sterile while paying heed to the language of the section. The Gunn analysis uses the personal and commercial commitment factors embraced in Moldowan in a manner that fits into the combination formula stipulated in section 31. That is, after all, what Moldowan was attempting to do. The sideline or auxiliary business concept was embraced in Moldowan as a means to avoid an untenable construction of the subject provision. Gunn does that very thing as well, and adopts an approach that embraces the Supreme Court of Canada’s dictate to apply the restriction to a sideline farming business. As such, I feel compelled to apply it as a means of avoiding some of the unintended aspects of a rigid application of those few lines in Moldowan that summarily formulate three classes of farmers.
+[62] At the heart of this acceptance of the Gunn analysis is my view that it is compatible with a satisfactory construction of the language of section 31.
+[63] If one initially limits the class (1) farmer group to farmers for whom farming may reasonably be expected to provide the bulk of their income, then in determining who belongs in that class, we must employ an overall quantitative assessment of the farming operation regardless of a loss sustained in a particular year. However, since section 31 asks if the farming operation was a chief source of income in the particular year, which is a loss year, the meaning of “chief source” must be broadened to include other factors. Acknowledging this need not preclude identifying the initial class (1) group in the context of an overall quantitative assessment. Indeed, this should be clear from the initial class (1) description of a farmer as a taxpayer who looks to farming for his livelihood even though there are years in which they sustain losses.
+[64] If one limits, in the first instance, the class (1) farmer group in this way, a number of contradictions are avoided when one goes on to analyze the combination test which surely can only be there to expand the class (1) farmer group eligible to claim losses on an unrestricted basis.
+[65] In the combination test we must find that the taxpayer’s chief source of income in the loss year was a combination of farming and some other source. Since this farmer has not established that it is reasonable to expect that farming has been or will provide the bulk of income based on an overall quantitative assessment, a determination is required under the combination test not only as to potential profitability but as to the level of commitment the taxpayer demonstrates to the farming source. The commitment has to demonstrate that the activity is more than a sideline business. In cases like Gunn and the case at bar, the determination of the level of commitment becomes somewhat of a comparative exercise as between the source that props up the farming source and the farming source itself.
+[66] The language of section 31 can only support this construction if in the combination test the phrase “chief source of income” takes on a special meaning applicable only in the context of that test. Indeed, its meaning must be altered in the combination test even when compared to its meaning in establishing the initial class (1) group of farmers. In the combination test it should not be necessary to establish that farming will ever provide the bulk of a taxpayer’s income. In the combination test we are instructed by Moldowan to look at other factors that demonstrate that farming is not a sideline business.
+[67] This approach is inherent in the Gunn decision.
+[68] Further, Gunn suggests that the less generous approach is not consistent with modern rules of statutory construction that seek to avoid anomalies such as those inherent in a strict application of Moldowan’s three classes of farmers.
+[69] Gunn also suggests that there is no historical basis for finding that Parliament intended such a narrow approach. This suggestion requires elaboration.
+[70] There is an historical record that Parliament intended that hobby farmers or gentleman farmers not be allowed to use the treasury to subsidize their country life indulgences.[31] However, that record does not necessarily reflect an intention to restrict loss claims in respect of farming activities that have been carried out with such degree of personal commitment as to credibly establish an intent to operate an economically, commercially viable business with a meaningful profit potential. There is no parliamentary record that would suggest that a farming activity that met this threshold could not properly be included in the combination test in section 31, regardless of many years of losses.
+[71] Many amateur photographers, stamp collectors or yachting enthusiasts with a considerable passion and commitment for their respective endeavour will not pass the Stewart test to have losses from their endeavours deductible but if they can pass that test they will be able to use their losses on an unrestricted basis.[32] Farming enthusiasts of the recreational or country gentleman variety who do not make the bulk of their income from farming have a higher bar to reach to get similar treatment as afforded to these hobbyists. In order to use farming losses on an unrestricted basis, their farming endeavours must be pursued in such a manner as to be seen as one of two or more chief sources. Section 31 raises the bar for the farmer. The Gunn threshold appears to me to recognize the height of the bar that best reflects a construction of the language of the section that does not contradict the legislative intent. Further, it does not, in my view, violate the underlying principles recognized in Moldowan. Accordingly, having found an approach that does justice to those principles and to the words of the Act, I would feel compelled to follow that approach if required.
+[72] I am suggesting then that the test is whether the taxpayer’s mode of operation has sufficient commitment and commerciality and profit potential to be recognized as a chief source applying the Moldowan commitment and profitability criteria. Looking at time spent, capital invested, and a meaningful profit potential arising from a dedication to profitability, the question of whether the taxpayer is recognizable as a committed, viable commercial player in a genuine economic sector of the economy should be readily answered. Such a test will not put recreational farmers in an advantaged position.
+Distinguishing Gunn on the Facts
+[73] The Appellant’s case still rests on my finding that the facts in Gunn are not sufficiently distinguishable as to warrant a different result.
+[74] The facts in Gunn involve a cattle-breeding and crop-raising operation that lost money every year for 15 consecutive years (1987- 2001) before making a profit in 2002 (three years after the years under scrutiny in that case). Mr. Gunn lost money again in 2003 and made a profit in 2004.
+[75] In concluding that farming was not a sideline business for Mr. Gunn, the Federal Court of Appeal accepted Mr. Gunn’s undisputed evidence as to the profit potential of his farm and gave some weight to the synergies of his law practice and his farm operations. While I do not make this latter finding in the case at bar, I accept the Appellant’s undisputed evidence as to the profit potential of his horseracing operation.
+[76] Further, I note that the weight of the factors considered in the Gunn analysis, other than demonstrated profitability, clearly point in that case, as they do here, to the impugned farming business being more than a sideline business. Even though both taxpayers derived their principal income from the practice of law and their total hours spent at their law practices exceeded that devoted to their farming businesses, they both devoted a material amount of capital and a very significant part of their daily work routine to their farming businesses. In both cases the business was pursued as a major business preoccupation. The Appellant’s mornings, evenings and weekends were consumed by a dedication to enhancing the potential profitability of the operation. This was more than a distraction from his normal mode of living or an entertainment or sport. Like Mr. Gunn, his dedication was to the economic success of the operation.
+[77] Like Mr. Gunn, the Appellant was involved in his farming business beyond the farm; beyond the stable and track in the case at bar. I have given weight to the fact that the Appellant was an active member of and contributor to the community of standardbred horseracing. He worked to improve the integrity of standardbred racing so as to improve the potential profitability of his operation. His knowledge of the competitions that determined profitability was sufficient to place him as chairperson of the industry’s appeal board.
+[78] One distinction that the Respondent might rely on is the degree of potential profitability. One aspect of this concern is the relative potential of profitability of the Appellant’s farming activities compared to that of Mr. Gunn and another is the risk associated with horseracing.
+[79] In Gunn, the taxpayer’s net farming income in the 18th year was some $96,000 compared to his law practice income of $247,000. While this quantitatively puts farming in a better proven relative position for Mr. Gunn than for the Appellant, I do not believe the analysis can be that finite. Further, to rely on such a distinction would require me to penalize the Appellant for having established a lucrative law practice which required a somewhat modest amount of billable time relative to that required by many other lawyers earning far less.
+[80] As well, in support of a conclusion that Gunn cannot be distinguished on the basis of relative potential profitability, I note that unlike Mr. Gunn, the Appellant had two consecutive profit years immediately following the years under appeal.
+[81] As to the risks associated with horseracing, I do not agree with the emphasis that the Respondent places on that factor. Farmers operate in an extraordinarily risky environment. Assessing the commitment to profitability should not be based on speculation as to the risk inherent in different types of farming activities but rather, as suggested in both Moldowan and Gunn, it must be based on the investment of time, capital and energy of the taxpayer reflective of a commitment and devotion to its economic success. As in Gunn, the farming operation in the Appellant’s case was sufficiently commercial and part of his ordinary mode of living and work routine as not to be considered a sideline business.
+[82] There is another factual distinction between the two cases that may well be at the heart of the Respondent’s position. Mr. Gunn was a cattle and grain farmer with a farming background who worked the farm himself. His activity relates to human sustenance. It is an essential part of our Canadian economy. The Appellant is a city lawyer who pursues horseracing from, relatively speaking, a comfortable distance. His activity provides sporting entertainment.
+[83] The combination in this case of a horseracing operation being carried on by a city person who contracts out so much of the work does raise a few perceptual problems for the Appellant. The combination of these perceptions feeds the view that horseracing operations, as opposed to other farming operations, are inevitably, if not inherently, a recreational diversion, more consistent with a self-indulgent sideline than with an objective expectation of earning a profit that would make a meaningful contribution to the aggregate income requirement in the section 31 combination test.
+[84] I recognize that this perception cannot be ignored. I also recognize that it derives from a cynicism, in cases such as this, that the endeavour is none other than a recreational distraction. While one must be careful not to decide cases on perceptions and cynical mindsets, the distinctions causing those perceptions and mindsets still need to be considered although it might be possible to dispose of this concern by referring to Gunn which, at paragraph 67, shuns the notion that section 31 can be applied more assiduously to horseracing activities. It might also be possible to gloss over this concern by pointing out that some authorities have cast doubt on whether the degree of profitability is relevant in the application of section 31 of the Act.
+[85] As well, and perhaps most importantly, I note that the Act defines farming to include horseracing and imposes the same test for the application of a loss restriction rule on both the Appellant and Mr. Gunn. This might be sufficient reason to dispose of this concern over the perception of horseracing inherently being a personal indulgence. As the Act reads, Mr. Gunn cannot be given better tax treatment than the Appellant simply because we perceive horseracing differently than grain and cattle farming. The Act should address this concern not the courts.
+[86] However, dealing with this concern in this manner does not seem entirely satisfactory.
+[87] A more satisfactory way to deal with this concern is to rely on the activity in question being scrutinized by applying objective criteria to the issue of potential profitability. Regardless of its business form and the extent of the taxpayer’s devotion to its economic success, the test of there being a reasonable expectation of meaningful profitability (relative to the other source being considered in the combination test) must not only be a relative one but must be an objective one as well.[33]
+[88] Applying such a test to the case at bar does not, in my view, put the Appellant on weaker ground. The factual similarities with Gunn encourage me to find that even such a test would have to favour the Appellant. The Appellant is entitled to hire a trainer and have his operation housed and maintained by contracting out the provision of these supplies. That does not undermine the evidence supporting the reasonableness of his expectation that his horseracing operation might become, potentially, a chief source measured by its contribution to the combination test in section 31. Indeed, as noted, the involvement of the trainer, who has also invested in the Appellant’s operation, serves in this case to add weight to the Appellant’s faith in its potential profitability.
+[89] Viewing the two cases as a whole, I agree with the Appellant. They cannot be sufficiently distinguished to warrant a different result. If the Federal Court of Appeal found that Mr. Gunn was not subject to section 31 loss restrictions even on the Moldowan interpretation of the combination test, as it did at paragraph 93, then the Appellant should be allowed the same result. As such, even if my acceptance of the expanded construction of the combination test in section 31 in Gunn is misguided, I am satisfied, in any event, that the facts of the two cases are not sufficiently distinguishable to give a different result.
+Conclusion
+[90] Accordingly, the appeals are allowed with costs.
+Signed at Winnipeg, Manitoba this 17th day of December 2009.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2009 TCC 617
+COURT FILE NOS.: 2007-3040(IT)G; 2008-869(IT)G
+STYLE OF CAUSE: JOHN H. CRAIG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 25, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: December 17, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Glenn Ernst
+Marisa Wyse
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Glenn Ernst
+Marisa Wyse
+Firm: Goodmans LLP
+250 Yonge Street, Suite 2400
+Toronto, Ontario, M5B 2M6
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Billable recorded time did not include office administration time which he said was 221 hours in 2000 and 197 hours in 2001. It does not include business generation hours which are not recorded, however he testified this was not a time-consuming part of his day. He worked in Toronto, his clients were not from Toronto and he did not beat the bushes looking for clients or entertain existing clients to keep their work. His testimony was that his recorded time plus his administration time was pretty much the extent of his law practice time.
+[2] I have estimated the annual hours based on the Appellant’s testimony of the duration and frequency of his activities. I am satisfied with his evidence and accept that his time spent in relation to his horseracing operation exceeded 600 hours per year in the subject years.
+[3] Since 2006, when he started getting evening live television broadcasts of races at home, his attendance at the track decreased to 30 to 40 times a year but his evenings spent studying his horses and others compete on televised broadcasts added at least an hour daily to his time spent on his horseracing operation. This additional time would put his time spent on his horseracing operation far in excess of 600 hours per year since 2006.
+[4] The incomes and losses in this subparagraph are taken from the Notice of Appeal which did not include any income or loss for 1993. The Respondent, in the Reply, admitted that the asserted gains and losses as shown in the Notice of Appeal were as reported. No evidence was adduced by the Crown to contradict such reported amounts. As well, the Appellant testified as to several of these amounts including making profits in the early years and again in 2002 and 2003. I have no reason to doubt such testimony. Lastly, I note that I have amended the loss shown for 2001 to correspond with that shown in subparagraph 6(e) above which the parties agreed was correct.
+[5] Given that gains and losses from buying and selling horses are not on capital account, the investment might be said to be in inventory. Nevertheless, it is being referred to as the Appellant’s capital investment for the purposes of the section 31 analysis. The estimates of such investments were set out in Exhibit A-1 and were attested to by the Appellant at the hearing. Respondent’s counsel objected to Exhibit A-1 because it was prepared well after the fact for the purposes of this litigation. Still, it must be acknowledged that there was nothing to contradict the witness’ testimony. As well, Exhibit A-3 details the Appellant’s investment in racehorses in 2000 and the total there is as shown in Exhibit A-1. All things considered, I have accepted the estimates shown in Exhibit A-1 despite the objection.
+[6] A different trainer was occasionally used where horses were running on B-tracks.
+[7] I note that it appears that not all operational expenses are shown on the trainer’s statements. Stakes fees, for example, are not shown or accounted for even though document books show stakes fees paid on horses in which the trainer had an interest. One might presume that these are accounted for separately along with an accounting for winnings, but I have no evidence on this aspect of the Appellant’s operation.
+[8] The 20% estimate is based on my calculation of the investment in racehorses for 2000 as shown on Exhibit A-3, which shows both the cost of each horse and the trainer’s percentage interest. A perusal of other years’ statements prepared by the trainer suggests such percentage would not be far off the mark for other years as well. I note here, as well, that the Appellant had small interests in at least one other horse trained and raced by another stable and operator. Such interests are included in the Appellant’s horseracing operation but are of minor, if any, relevance to the determination of the issue in these appeals.
+[9] While one might question whether the Appellant had such authority over a horse in which the trainer had a substantial interest, it is difficult not to accept the Appellant’s testimony that he had the final say in these matters. He was candid in all his testimony and in general terms is clearly a person of integrity. On the other hand, evidence by an interested party might best be corroborated to ensure its acceptance. In this case, the Appellant was not asked to confirm that his authority was the same in respect of horses co-owned by the trainer. The trainer was not called to testify and no written representations of the arrangement between the trainer and the Appellant were tendered. In this regard, I note that the Respondent has some responsibility to do more in a case such as this than to rely on possible negative inferences that might be drawn in respect of uncorroborated self-serving evidence. All things considered, I have accepted the Appellant’s testimony as to his authority to make final decisions on all matters other than those pertaining to training and caring for the horses and having them race ready.
+[10] 2006 D.T.C. 6544 (F.C.A.).
+[11] 77 D.T.C. 5213 (S.C.C.).
+[12] 93 D.T.C. 98 (T.C.C.).
+[13] 85 D.T.C. 5058 (F.C.T.D.).
+[14] 2002 D.T.C. 6969 (S.C.C.).
+[15] 2004 D.T.C. 3573 (T.C.C.).
+[16] 2009 TCC 383.
+[17] 84 D.T.C. 1689 (T.C.C.).
+[18] 95 D.T.C. 402 (T.C.C.).
+[19] 97 D.T.C. 5499.
+[20] 2007 D.T.C. 1470.
+[21] 2008 D.T.C. 4698.
+[22] 89 D.T.C. 5080.
+[23] [1998] 1 C.T.C. 2125 (T.C.C.), upheld at the Federal Court of Appeal 99 D.T.C. 5004.
+[24] Other cases referred to include Sylvain v. R., [2002] 4 C.T.C. 2285; McRae v. R., [2004] 4 C.T.C. 2136; Graham v. R., [1985] 1 C.T.C. 380; Kroeker v. R., 2002 FCA 392.
+[25] Moldowan at page 4.
+[26] Moldowan at page 4.
+[27] Moldowan at page 5.
+[28] [2002] F.C.J. No. 1534 at paragraph 5.
+[29] Cases that suggest that the farming activity does not require the potential for substantial profits to be propped up by another source have not gone so far as to deny that there must be a reasonable expectation of more than a meaningless profit that could never contribute in a recognizable or meaningful way to the taxpayer’s livelihood.
+[30] Johnson at footnote 16 and Falkener at footnote 20.
+[31] The term “gentleman farmer” has long referred to hobby farmers who do not engage in farming for profit. For example, the gentleman farmer was referred to in U.S. case law as early as 1928 in Walter P. Temple v. Commissioner of Internal Revenue, where the Commissioner disallowed the petitioner’s deduction because he was a gentleman farmer who did not engage in farming and ranching for profit. Subsequent U.S. tax cases use the terms “gentleman farmer” and “hobby farmer” interchangeably. In Canada, “gentleman farmer” was first referred to by the Minister of Finance in 1951 and 1952 House of Commons debates regarding amendments to the farm loss provisions in the Income Tax Act. Justice Mahoney reproduced transcripts of these debates in Morrissey. The Minister referred to gentleman farmers as “hobby farmers” “whose principal occupation is not farming” and who almost invariably never make money from their farms.
+[32] Hobbyists prior to Stewart had a higher bar to reach in order to deduct losses. Still, the bar or threshold set in Gunn for farmers to get unrestricted losses is higher for so-called hobby farmers than for other hobbyists measured even prior to Stewart.
+[33] Moldowan at page 4 states the chief source of income test as a “relative and objective test”.

@@ -1,0 +1,177 @@
+---
+title: "Jackman c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520947/index.do"
+last_modified: "2022-07-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 73"
+citation2: ""
+neutral_citation: "2022 CCI 73"
+decision_date: "2022-07-07"
+language: "fr"
+item_id: "520947"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4536
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:04:49.516000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "85b0c3deedc13e51036047888622c6817653632cbd8723461159297eec548297"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jackman c. La Reine
+
+- Citation: 2022 CCI 73
+- Decision date: 2022-07-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4536, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jackman c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-07-07
+Référence neutre
+2022 CCI 73
+Numéro de dossier
+2019-1043(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2019-1043(IT)G
+2019-1045(IT)G
+ENTRE :
+BRUCE JACKMAN,
+NANCY JACKMAN,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Devant : L'honorable juge Patrick Boyle
+Comparutions :
+Avocat des appelants :
+Me Frank W. Quo Vadis
+Avocat de l'intimée :
+Me Marc Shearer
+JUGEMENT
+Les appels interjetés à l'encontre des nouvelles cotisations établies en application de la Loi de l'impôt sur le revenu pour les années d'imposition 2013 et 2014 sont accueillis, avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 7e jour de juillet 2022.
+« Patrick Boyle »
+Le juge Boyle
+Référence : 2022 CCI 73
+Date : 20220707
+Dossiers : 2019-1043(IT)G
+2019-1045(IT)G
+ENTRE :
+BRUCE JACKMAN,
+NANCY JACKMAN,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] La seule question en litige dans le présent appel est d'évaluer l'avantage conféré aux appelants actionnaires de C.A.B. Industrial Automotive Supplies Ltd. (« C.A.B. ») quant à leur utilisation personnelle d'un bateau, le Port McNeill Explorer, qui appartient à C.A.B. et qu'elle utilisait pour ses activités commerciales, principalement pour la commercialisation de son port de plaisance ainsi que la vente de carburant et de fournitures aux plaisanciers de la région.
+I. Les faits
+[2] Bruce et Nancy Jackman ont mis sur pied une entreprise prospère et importante située à Port McNeill, sur l'île de Vancouver, au cours des cinq dernières décennies. Elle est exploitée par C.A.B., qui fournit une gamme diversifiée de biens et de services à la région dans laquelle elle exerce ses activités, un territoire important de petites collectivités éloignées, mais non négligeables, principalement situées le long des îles de l'archipel de Broughton au nord de l'île de Vancouver. Les appelants mènent ces activités de Port McNeill (Colombie‑Britannique) par l'intermédiaire de C.A.B.
+[3] Autrefois, les activités commerciales de C.A.B. consistaient en la vente de pièces et d'équipement d'automobiles, comme le nom de la société l'indique. Elle a acquis le quai de ravitaillement en carburant de Port McNeill, qui, comme son nom l'indique, était un quai unique où le carburant était vendu et où ceux qui souhaitaient également acheter des fournitures pouvaient amarrer leur bateau. Depuis que les appelants ont acquis ce quai de ravitaillement en carburant, ils l'ont fait croître de manière à ce qu'il devienne le grand et prospère port de plaisance « North Island Marina ».
+[4] Port McNeill est une plaque tournante régionale desservant la région, et les entreprises commerciales C.A.B. des Jackman ont à la fois grandi et évolué avec la ville. Elles contribuent de façon importante à Port McNeill, en fournissant des services et des biens à la région. Tandis que l'exploitation forestière et les activités connexes déclinaient dans la région, le tourisme, principalement des plaisanciers, des observateurs de baleines, des pêcheurs et des kayakistes, a gagné considérablement en importance pour l'économie locale. L'archipel de Broughton n'est en grande partie accessible que par bateau, hydravion ou hélicoptère. C.A.B. est une entreprise multigénérationnelle; les appelants ont tous deux pris leur retraite en grande partie depuis et la génération des enfants de la famille dirige maintenant l'entreprise.
+[5] Les activités de C.A.B. comprennent également des hydravions, des hélicoptères, la location d'immeubles et un magasin pour les fournitures dont la clientèle pourrait avoir besoin ou pourrait vouloir en passant du temps ou en faisant des affaires dans la région. Elles comprenaient autrefois une franchise Radio Shack.
+[6] En écoutant et en examinant les éléments de preuve, il n'est pas difficile d'imaginer que leur région, leur collectivité et leurs activités commerciales figurent dans un documentaire télévisé canadien sur une chaîne documentaire, qu'elles accueillent une émission de télé‑réalité canadienne sur la chaîne History ou qu'elles hébergent une suite à Corner Gas ou une nouvelle version de The Beachcombers.
+[7] Les Jackman exploitaient leurs entreprises commerciales ensemble. Bruce s'occupait lui-même du pilotage du bateau et des hydravions et hélicoptères. Nancy ne connaissait pas les aspects financiers ou mécaniques des entreprises commerciales. L'un de ses nombreux rôles actifs était celui de commis‑comptable, qui, dans son cas, consistait en grande partie à payer les fournisseurs et à rapprocher les relevés bancaires.
+[8] Le bateau est de marque Coastal Craft et a 36 pieds. C'est un « bateau de plaisance » selon sa conception; il ne s'agit pas d'un bateau de travail selon sa conception ou son équipement, comme un remorqueur, un chalutier ou un bateau‑citerne. Le nom Port McNeill Explorer est en gros caractères bien en vue sur sa coque. Le port de plaisance des Jackman est le seul port de plaisance à Port McNeill. Le nom même incitait les plaisanciers à explorer Port McNeill. C'est l'un des petits bateaux amarrés à leur port de plaisance.
+[9] L'utilisation principale du bateau dans l'entreprise était de commercialiser le port de plaisance directement auprès des plaisanciers qui visitaient la région, y résidaient ou y travaillaient. Cela se faisait en dirigeant le bateau vers les plaisanciers dans tous les autres petits ports de plaisance de la région ou dans les baies où ils étaient amarrés. On l'utilisait également pour nouer le dialogue avec les autres petits ports de plaisance, leurs propriétaires et leurs exploitants, ainsi que leurs clients. L'amarrage dans ces ports de plaisance s'effectuait environ une fois par semaine pendant la saison de navigation de plaisance de cinq mois. C'était de la commercialisation personnelle directe habituelle. Plusieurs de ces autres plaisanciers étaient déjà des utilisateurs de leur port de plaisance, vu sa taille et son emplacement, et ceux qui ne l'étaient pas étaient de véritables clients éventuels, puisqu'ils s'y trouvaient avec leurs bateaux. On utilisait également le bateau pour se déplacer vers les salons nautiques en Colombie‑Britannique et à l'État de Washington, y participer et y accueillir des plaisanciers. Les Jackman considéraient ces salons nautiques comme essentiels à leur entreprise et ils y louaient des kiosques pour leur port de plaisance. Les salons nautiques, comme les ports de plaisance, sont des lieux où les plaisanciers et ceux qui envisagent de le devenir se rassemblent. Les Jackman ne possédaient pas de bateau avant d'acheter le port de plaisance, ils n'ont jamais utilisé le Port McNeill Explorer pour faire d'autres excursions, pas même de courtes excursions auxquelles des clients les avaient invités, car ils ne pouvaient pas se dégager de leurs responsabilités professionnelles quotidiennes pendant la saison de navigation de plaisance. Lorsqu'ils se rendaient en bateau vers d'autres ports de plaisance et d'autres zones d'arrimage pour la commercialisation, ils le faisaient principalement le soir, après s'être acquittés de leurs responsabilités normales de la journée de travail.
+[10] Cette forme de commercialisation était très fructueuse pour eux. Les revenus d'amarrage et de carburant du port de plaisance ont augmenté chaque année. Ils croient que c'est parce que la navigation de plaisance est une activité personnelle, familiale et sociale pour leur clientèle de plaisanciers (à l'exception des clients qui sont des entreprises qui utilisent des bateaux à des fins commerciales). Cette forme de commercialisation pourrait être décrite comme créant des occasions de rencontrer des clients et des clients éventuels, en dînant avec eux dans d'autres ports de plaisance, en les divertissant sur le Port McNeill Explorer et en discutant généralement de la navigation de plaisance dans la région, de leur port de plaisance et de leurs installations. Ils échangeaient des cartes de visite de bateau et des cartes professionnelles, répondaient aux questions sur la navigation de plaisance dans la région, fournissaient des renseignements utiles ou nécessaires qu'on n'avait pas demandés et échangeaient des nouvelles de nature locale et familiale depuis leur dernière rencontre. Bruce se déplaçait seul la plupart du temps; Nancy l'accompagnait environ un quart du temps. Ils participaient à ces activités principalement les fins de semaine, lorsque le trafic maritime était plus intense.
+[11] On utilisait également le bateau pour d'autres aspects des activités commerciales de C.A.B., pour le transport, au besoin. Par exemple, on l'utilisait pour livrer des pièces pour des activités commerciales menées ailleurs dans l'archipel. Puisque le bateau était principalement utilisé pour la commercialisation auprès des clients existants et de nouveaux clients, il était interdit en tout temps d'utiliser le bateau pour la pêche ou pour transporter des agrès de pêche.
+[12] Le bateau était entièrement assuré pour ces utilisations déclarées.
+[13] L'utilisation personnelle du Port McNeill Explorer était très occasionnelle, moins d'une demi‑douzaine de fois pour amener des amis ou de la famille ou pour rendre visite à des parents dans le port situé juste en face du port de plaisance afin d'avoir une meilleure vue des baleines que celle qu'on avait de la rive et des quais. On ne l'avait utilisé hors de saison qu'une demi‑douzaine de fois lorsqu'il était amarré dans un hangar à bateaux à Nanaimo afin que les Jackman passent la nuit dans sa couchette plutôt qu'au motel local en attendant le traversier du matin vers la terre ferme. Il n'est pas clair que tous ces voyages vers la terre ferme n'aient aucun lien avec l'entreprise.
+[14] Au cours de chacune des deux années en cause, les Jackman ont noté et versé (en réduisant les prêts aux actionnaires) 18 000 $ à C.A.B. au titre de leur utilisation personnelle du bateau. Cela a été fait en consultation avec leur comptable, et les Jackman ont pensé qu'il s'agissait d'une somme modérément élevée dans les circonstances.
+[15] La Cour conclut, et l'intimée l'a reconnu, qu'il n'y a aucun problème à l'égard de la crédibilité des Jackman. Ils ont volontiers reconnu toute lacune relativement à la fiabilité de leur témoignage en raison de leur niveau de connaissances ou d'activités commerciales particulières ou de leur mémoire qui s'estompe en raison du temps et de l'âge. Les appelants étaient les seuls témoins dans le présent appel.
+II. Conclusions précises
+[16] Après avoir examiné attentivement les éléments de preuve et les observations des parties, je conclus que la preuve, appréciée dans son ensemble, est tout à fait claire sur plusieurs points. Je tire les conclusions suivantes :
+- C.A.B. a acquis le Port McNeill Explorer à des fins commerciales. Il était détenu, utilisé et mis à disposition à des fins commerciales principalement.
+- L'utilisation personnelle du bateau en tant que bateau, par opposition aux moments lorsqu'il n'y avait personne à bord, si ce n'est qu'aux fins de réparation, de la préparation pour l'hiver ou de la préparation pour la saison, était de l'ordre de 5 %. La quasi‑totalité de son utilisation comme bateau était donc à des fins commerciales véritables pour les entreprises et activités commerciales de C.A.B. [1] .
+- Rien n'étaye l'affirmation selon laquelle les Jackman se sont servis de leur rôle d'actionnaires afin d'utiliser les ressources de leur société pour acheter un bateau afin qu'il soit à leur disposition pour leur utilisation personnelle. Même si les Jackman ont tiré un avantage de leur utilisation personnelle limitée du bateau qu'on indiquait dans les documents comptables, ce bateau n'a été ni acquis ni détenu par C.A.B. dans le but de procurer cet avantage.
+- La somme de 18 000 $ que les appelants ont versée à C.A.B. chaque année pour tenir compte de leur utilisation personnelle occasionnelle du PortMcNeillExplorer n'était pas inférieure à la fourchette de la juste valeur marchande raisonnable pour l'utilisation personnelle du bateau par les Jackman, vu les éléments de preuve dont dispose la Cour quant à leur utilisation personnelle et à l'évaluation de cette utilisation.
+III. Droit et analyse
+[17] Toute l'utilisation du Port McNeill Explorer dans la commercialisation des activités de C.A.B. était une commercialisation légitime. Il n'y avait pratiquement aucun élément de preuve qui étayait que l'utilisation personnelle du bateau n'était pas qu'incidente, et encore moins qu'il [TRADUCTION] « était utilisé exclusivement à des fins personnelles » par les appelants, et qu'il [TRADUCTION] « n'était pas utilisé pour promouvoir les activités commerciales de [C.A.B.] », comme il est indiqué dans la réponse.
+[18] Même s'il est logique que l'ARC veuille examiner l'utilisation d'un bateau de plaisance coûteux par un propriétaire exploitant de port de plaisance, il convient de faire remarquer qu'en l'espèce, les témoignages des appelants correspondent essentiellement aux réponses détaillées données dans l'interrogatoire préalable écrit, et l'intimée n'a convoqué aucun témoin pour présenter des éléments de preuve contraires ou n'a apporté aucun élément de preuve contradictoire pour mettre en doute le témoignage des appelants. Même après que tous les éléments de preuve ont été présentés à la Cour, sans contestation, même quant à la crédibilité, le présent appel s'est poursuivi pendant une seconde journée pour les observations. Tout cela semble avoir été dirigé par un ou plusieurs fonctionnaires de l'ARC qui n'étaient pas présents lors des témoignages. C'est le ministère de la Justice qui représente l'intimée, Sa Majesté la Reine. L'ARC n'est pas le client du ministère de la Justice dans une relation procureur‑client. Aucune entente de financement entre les deux ministères ne change cela. L'intimée doit en tenir compte, et plus particulièrement lorsque, comme en l'espèce, et c'est souvent le cas, le vérificateur de l'ARC « chargé des directives », l'agent des litiges ou l'agent des appels de l'ARC ne sont même pas présents lors de la présentation de la preuve.
+[19] La Loi impose des limites expresses à la déduction de certaines catégories de dépenses d'entreprise comme les repas, le golf, les yachts et les événements sportifs. Ces restrictions ne sont pas en cause dans les présents appels, où la seule question en litige est de savoir quels sont les avantages que les Jackman ont reçus personnellement.
+[20] Les tribunaux n'autorisent pas l'ARC à simplement remettre en question la stratégie ou les efforts de commercialisation d'une entreprise, même s'ils sont infructueux pour produire des revenus. Dans la décision Matt Harris & Son Ltd. c. La Reine, [2000] A.C.I. no 849 (QL), l'ancien juge en chef Rip a écrit :
+[49] L'appelante a engagé les dépenses de publicité dans le but de tirer un revenu de son entreprise. La décision de faire de la publicité était une décision d'affaires prise dans le but de gagner un revenu. L'objet des dépenses était de faire croître l'entreprise de l'appelante en favorisant l'établissement de nouveaux liens et de nouveaux débouchés au profit de l'entreprise de bois et de sciage.
+[50] L'administration fiscale n'a pas à dicter à un entrepreneur la manière de diriger son entreprise. Les dépenses de publicité peuvent prendre de nombreuses formes : radio, télévision, journaux (locaux, provinciaux ou nationaux), commandites ou acquisition d'équipes sportives, tournois, activités communautaires... — je pourrais continuer encore et encore. Une forme de publicité peut porter fruit pour une entreprise mais pas forcément pour une autre, même une concurrente. Chaque entreprise doit avoir toute liberté de choisir le support publicitaire de son choix.
+[51] L'entreprise peut choisir d'axer sa publicité sur une activité à laquelle son propriétaire (ou le principal actionnaire de la société à qui appartient l'entreprise) porte un intérêt particulier ou dont il tire un haut degré de satisfaction personnelle. Il n'y a aucune raison pour qu'une forme de publicité soit rejetée par le fisc uniquement parce que le propriétaire de l'entreprise s'intéresse à l'activité en question ou en tire une satisfaction personnelle, ou encore, comme c'est le cas en l'instance, parce qu'il y prend part ou que le rapport entre l'activité et l'entreprise n'est pas assez étroit. Le fait que le propriétaire d'une entreprise (ou l'administrateur d'une société) tire indirectement une satisfaction de la forme de publicité choisie ne doit pas conduire nécessairement à la conclusion que la dépense de publicité doit être rejetée. Si cette dépense, quelle qu'elle soit, est engagée par le contribuable en vue de tirer un revenu de son entreprise et qu'elle est raisonnable dans les circonstances, elle doit être déductible dans le calcul du revenu. C'est ce que dicte la Loi.
+[52] Cependant, lorsque la forme de publicité choisie comporte une importante dimension personnelle, il incombe au contribuable — et ce fardeau est alors plus lourd que dans des circonstances normales — d'établir que la dépense a réellement été engagée en vue de tirer un revenu de l'entreprise. Il est bien possible que la dépense puisse servir à la fois les besoins de l'entreprise et ceux de l'actionnaire; dans un tel cas, il peut y avoir lieu d'établir l'objet premier de la dépense ou, peut‑être, de répartir la dépense entre l'entreprise et l'actionnaire. Ce point n'a pas été évoqué dans les plaidoyers ni au cours de l'audience, et je n'ai pas à déterminer si cette approche est étayée par la Loi.
+On peut également se reporter à la décision Bilous c. La Reine, 2011 CCI 154, qui mettait en cause un musée de la motoneige utilisé pour promouvoir une entreprise de vente de graines de colza et de produits agricoles.
+[21] Comme je l'ai écrit dans la décision Jolly Farmer Products Inc. c. La Reine, 2008 CCI 693 :
+[3] Même Voltaire conviendrait que le juge en chef Bowman est une personne dotée d'un bon sens hors du commun. Il ressort sans équivoque de ses motifs qu'il estimait qu'il ne s'agissait pas d'une affaire difficile à trancher et que la question en litige ne justifiait pas une aussi longue instruction, si tant est qu'une instruction ait même été nécessaire. Je crois qu'il est en outre juste d'ajouter que, dans ses motifs, le juge en chef Bowman blâme carrément l'intimée pour cette situation. Trois paragraphes de ses motifs sont particulièrement pertinents :
+13 [...] Dans ce cas‑ci, je crois que l'ARC faisait une fixation (l'avocat de l'appelante a parlé d'[TRADUCTION] « obsession ») sur deux choses — le fait que les employés sont actionnaires et le fait qu'ils professent certaines croyances chrétiennes fondamentales rappelant l'Église primitive et qu'ils adhèrent à ces croyances. À mon avis, ces faits n'ont aucune importance. Une fois que nous nous débarrassons de ces deux diversions et que nous mettons l'accent sur le fait que l'appelante fournit des habitations et d'autres installations à ses employés, la fourniture de ces installations devient un coût tout à fait normal et ordinaire d'exploitation de l'entreprise de l'appelante.
+14 Selon moi, l'approche que le ministre a adoptée à l'égard de ce problème résulte de la confusion entre au moins deux concepts (ou peut‑être de leur fusion). Dans le calcul de son revenu, le particulier ne peut pas déduire des « frais personnels ou de subsistance ». Le ministre semble croire, si je comprends bien, que le coût pour un employeur de la fourniture de locaux d'habitation (ou le coût en capital des biens utilisés à cette fin) est également visé par cette interdiction. À partir de cette prémisse fallacieuse inarticulée, le ministre cherche à contraindre l'employeur à démontrer que la décision commerciale qu'il a prise de fournir le logement à ses employés est justifiable sur le plan commercial, et que cette façon de faire des affaires est préférable à une autre méthode. Le caractère fallacieux de la prémisse initiale est ainsi aggravé et exacerbé par le fait que, pour une raison qui m'échappe, le ministre tient en outre compte du fait que les employés sont également actionnaires et qu'ils ont de fermes croyances religieuses. Puis, même après que l'employeur, Jolly Farmer Products Inc., a démontré d'une façon irréfutable (ce qui était à mon avis inutile) que son entreprise connaît un succès retentissant sur le plan commercial, le ministre tient encore, avec une ténacité féroce, à son erreur initiale et affirme que l'appelante aurait dû adopter des pratiques commerciales qui lui plaisent davantage, même si elles sont moins économiques. Mit der Dummheit kämpfen Götter selbst vergebens.
+24 Nous avons ici un excellent exemple d'un cas dans lequel l'ARC cherche à substituer son jugement à celui du contribuable sur le plan des affaires. Les solutions de rechange proposées par l'intimée auraient eu pour effet de diminuer la rentabilité de l'entreprise. La façon dont l'appelante choisit d'exercer ses activités commerciales fort rentables est une décision commerciale, et le ministre du Revenu national n'a pas le droit de substituer son jugement à celui de la société et de préconiser d'autres solutions qui lui plaisent davantage. (Voir par exemple Gabco Limited v. M.N.R., 68 D.T.C. 5210.)
+[22] Une fois qu'il est établi que les activités de commercialisation de l'entreprise étaient véritables et qu'elles étaient menées principalement à des fins commerciales, et que les dépenses étaient elles-mêmes raisonnables, il n'importe pas que la commercialisation comporte des contacts avec des clients, des clients éventuels ou d'autres personnes ou entités utiles pour l'entreprise. De même, il importe peu que le propriétaire de l'entreprise soit bon dans ce domaine ou même qu'il y prenne plaisir. Il est normal que les propriétaires d'entreprises canadiennes entretiennent, établissent ou étendent des relations avec les clients et les fournisseurs au cours d'activités sociales agréables comme un dîner ou un souper, un match, un festival de musique, une partie de golf, et ainsi de suite. Il n'est guère surprenant ni louche qu'une entreprise de navigation mène de telles activités lors d'événements et de divertissements nautiques et utilise un bateau à ces fins.
+[23] Il n'est pas non plus pertinent que la commercialisation de l'entreprise demande une collaboration avec d'autres ports de plaisance pour promouvoir la région et ce qu'elle offre, et qui peuvent concurrencer leur port de plaisance à certains égards. Il suffit de penser à toutes les associations commerciales locales et nationales des secteurs industriels, des épiciers aux banques en passant par les dentistes et les courtiers d'assurance, et à toutes les associations ou chambres de commerce d'amélioration des affaires d'une ville canadienne.
+[24] Il n'est pas pertinent non plus que les Jackman, que ce soit Bruce seul ou avec Nancy, aient continué de se rendre dans un port de plaisance plus que d'autres pour avoir des contacts avec d'autres plaisanciers, pour dîner en leur compagnie à ce port de plaisance ou près de celui-ci ou pour les divertir devant un verre et une bonne table à bord du Port McNeill Explorer. Le dicton n'est pas que les pêcheurs veulent aller là où se trouvent les poissons, mais plutôt qu'ils veulent aller là où les poissons mordent. Quoi de plus logique que d'investir plus de temps dans des activités de commercialisation qui se sont révélées plus efficaces que d'autres?
+[25] Puisque j'ai conclu que l'acquisition, la détention et l'utilisation du Port McNeill Explorer par l'entreprise étaient toutes à des fins commerciales véritables, la question qui reste est de savoir si l'utilisation personnelle du bateau de C.A.B. par les Jackman a été correctement comptabilisée. J'ai constaté que leur utilisation personnelle était de l'ordre de 5 %. Bien que l'une ou l'autre des parties ne m'ait pas fourni beaucoup de renseignements pour évaluer l'avantage pour les Jackman de cette utilisation du bateau, ou pour savoir comment l'intimée est arrivée à la somme qu'elle a utilisée dans les nouvelles cotisations, je suis en mesure de conclure selon les éléments de preuve imparfaits dont je dispose, et selon la prépondérance des probabilités, que cette valeur ne dépassait pas les 18 000 $ qui ont été comptabilisés pour C.A.B. pour chacune des années en cause [2] .
+IV. Dispositif
+[26] Les appels sont accueillis avec dépens. Si les parties ne peuvent s'entendre sur les dépens dans les 30 jours, elles peuvent déposer chacune des observations écrites d'au plus dix pages (exception faite des pièces jointes).
+Signé à Ottawa, Canada, ce 7e jour de juillet 2022.
+« Patrick Boyle »
+Le juge Boyle
+RÉFÉRENCE :
+2022 CCI 73
+NOS DES DOSSIERS DE LA COUR :
+2019-1043(IT)G
+2019-1045(IT)G
+INTITULÉS :
+BRUCE JACKMAN,
+NANCY JACKMAN
+ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 4 mai 2022
+MOTIFS DU JUGEMENT :
+L'honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 7 juillet 2022
+COMPARUTIONS :
+Avocat des appelants :
+Me Frank W. Quo Vadis
+Avocat de l'intimée :
+Me Marc Shearer
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Frank W. Quo Vadis
+Cabinet :
+Koffman Kalef LLP
+Vancouver (Colombie-Britannique)
+Pour l'intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le mot « utilisation » peut avoir des sens différents, selon le contexte. En l'espèce, il semble y avoir des malentendus au sujet du mot tel qu'il est utilisé en droit fiscal, dans les documents d'assurance et par les plaisanciers, qui pourraient faire référence à l'utilisation mécanique du moteur ou au temps passé sur l'eau et hors de son amarrage. Les personnes qui ne sont pas des plaisanciers pourraient utiliser le terme en référence aux bateaux de façon très différente.
+[2] C'est l'approche que j'ai dû adopter dans la décision Laliberté c. La Reine, 2018 CCI 186, et cette approche a été confirmée par la Cour d'appel fédérale, 2020 CAF 97, au paragraphe 56.

@@ -1,0 +1,112 @@
+---
+title: "ARCHIVED - Non-Residents - Income Earned in Canada"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it420r3sr/archived-non-residents-income-earned-canada.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Non-Residents - Income Earned in Canada
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-420R3SR**
+
+DATE: February 20, 1995
+
+SUBJECT: INCOME TAX ACT**Non-Residents - Income Earned in Canada**
+
+REFERENCE: SPECIAL RELEASE
+
+Application
+
+This Special Release revises Interpretation Bulletin IT-420R3 dated March 30, 1992. The primary purpose of this Special Release is to reflect amendments to the Income Tax Act enacted in S.C. 1991, c. 49 (formerly Bill C-18), in S.C. 1992, c. 48 (formerly Bill C-80), in S.C. 1993, c. 24 (formerly Bill C-92), and in S.C. 1994, c. 21 (Bill C-27).
+
+The comments in the bulletin are not affected by the Budget Proposals of February 22, 1994, or the Draft Amendments to the Income Tax Regulations released on April 5, 1994.
+
+Bulletin Revisions
+
+1. The last sentence of the "Application" paragraph of the bulletin is deleted.
+
+2. As a result of the Bill C-27 amendment to the definition of "taxable Canadian property" in subsection 248(1), paragraph 3 of the bulletin is replaced with the following:
+
+3. The definition of "taxable Canadian property," as discussed more fully in 16 below, is contained in paragraph 115(1)(b). That definition is further expanded by subsection 248(1), for the purposes of section 128.1 (after 1992) and subsection 2(3) to include:
+
+(a) property pertaining to the amounts described in 18(a), (c), (d) and (e) below and to a negative balance in the undepreciated capital cost of a timber resource property (see 18(b) below); and
+
+(b) for dispositions occurring after July 13, 1990, a life insurance policy in Canada (see 18(g) below);ensuring that the related income will be taxable under Part I of the Act.
+
+As a result, properties described in (a) and (b) above, as well as those described within the paragraph 115(1)(b) definition, will be excluded from the deemed disposition rules provided in paragraphs 128.1(1)(b), (when a taxpayer becomes a resident of Canada), and 128.1(4)(b) (when a taxpayer ceases to be a resident of Canada).
+
+Generally, the definition of "taxable Canadian property" in subsection 248(1) applies to corporations that are granted articles of continuance or similar constitutional documents in a particular jurisdiction pursuant to subsection 250(5.1) if, amongst other things, the articles of continuance or similar constitutional documents are granted after 1992.
+
+3. The following, which reflects the Bill C-27 amendment to subsection 4(3), replaces the last two sentences of paragraph 7 of the bulletin:
+
+For taxation years ending after November 12, 1981, subsection 4(3)applies to all sources of income, whether or not the source of income relates to more than one place. Under the rules in section 4, the allowable deductions which are not allocable to any source of income, are the deductions allowed by paragraphs 60(b) to (o), (p), (r), and (v) to (w). The full amount of these particular deductions may, if applicable, be claimed by the non-resident after reporting all section 115 income, in accordance with the comments in 29 below.
+
+In addition, subsection 4(3) applies to subsections 104(22) and 104(22.1) for the purposes of the flow-through of foreign source income from a trust to its beneficiaries. Subsection 4(3) ensures that deductions made by a trust under subsection 104(6), for amounts paid or payable to beneficiaries, and subsection 104(12), for amounts allocated to preferred beneficiaries, are not considered to be applicable to sources in a foreign country. However, if a trust designates such amounts in favour of its beneficiaries under subsection 104(22), subsection 104(22.2) requires that the trust's foreign source income be reduced accordingly.
+
+4. As a result of the Bill C-27 amendment to subsection 4(3), the last two sentences of paragraph 10 of the bulletin are replaced by the following:
+
+Under the rules in section 4, such an allocation is not made of the deductions allowed by paragraphs 60(b) to (o), (p), (r), and (v) to (w). Instead, the full amount of those particular deductions may, where applicable, be claimed by the non-resident after reporting all section 115 income, in accordance with the comments in 29 below.
+
+5. The first sentence of paragraph 14 of the bulletin is replaced by the following:
+
+A non-resident may carry on a resource business or businesses, as described in the definition of "principal-business corporation" in subsection 66(15), at a fixed place or places of business in Canada.
+
+This is changed because references to the Income Tax Act are to the Income Tax Act as revised by the 5th Supplement to the Revised Statutes of Canada, 1985, which came into force on March 1, 1994.
+
+6. Paragraph 16 of the bulletin is revised to clarify that taxable Canadian property includes an option on such property, as provided in subsection 115(3), which was amended by Bill C-18 in 1991. The first two sentences of paragraph 16 are replaced by the following new sentences:
+
+Included in a non-resident's taxable income earned in Canada, by virtue of subparagraph 115(1)(a)(iii) and paragraph 115(1)(b), is any excess of taxable capital gains over allowable capital losses that result from the disposition of "taxable Canadian property," including an interest in or option on such property. (Interests in and options on real property and shares are discussed in the current version of IT-176.)
+
+7. Paragraph 16(g) of the bulletin is revised to reflect the repeal of subsection 48(2) and the introduction of subsection 128.1(4)(e), which sets out a rule similar to that provided in subsection 48(2). Paragraph 16(g) of the bulletin is replaced with the following:
+
+(g) property deemed by another provision of the Act (e.g., paragraph 128.1(4)(e)) to be taxable Canadian property.
+
+8. The first sentence of paragraph 18(c) of the bulletin is replaced by the following:
+
+(c) under subparagraph 115(1)(a)(iii.3) - amounts pertaining to a Canadian resource property;
+
+This provision applies when the non-resident carries on in Canada in the taxation year a resource business as described in the definition of "principal-business corporation" in subsection 66(15).
+
+The first sentence of paragraph 18(g) of the bulletin is replaced by the following:
+
+(g) under subparagraph 115(1)(a)(vi) - gains arising from the disposition of certain life insurance policies in Canada.
+
+A life insurance policy, under the definitions of "life insurance policy" and "life insurance policy in Canada" in subsection 138(12), includes an annuity contract, issued or effected upon the life of a person resident in Canada at the time it was issued or effected.
+
+These are changed because references to the Income Tax Act are to the Income Tax Act as revised by the 5th Supplement to the Revised Statutes of Canada, 1985, which came into force on March 1, 1994.
+
+9. Paragraph 20(b) of the bulletin is revised as a result of the Bill C-18 amendment to paragraph 56(1)(n), effective for 1987 and subsequent taxation years. This amendment allows a taxpayer who has received a grant that is to be used in the production of a literary, dramatic, musical, or artistic work to deduct more than $500 against the grant. Paragraph 20(b) of the bulletin is deleted and replaced with the following:
+
+(b) the excess of Canadian source scholarships, fellowships, bursaries and prizes, as described in paragraph 56(1)(n), over $500, except that in the case of "art production grants" that are included in income under paragraph 56(1)(n), the taxpayer may deduct the greater of $500 and reasonable expenses incurred to fulfil the conditions of the grant, up to the amount of the grant (see the current version of IT-75);
+
+10. Paragraph 20(d) of the bulletin is revised to reflect the Bill C-80 amendments to subparagraph 115(2)(e)(iii). Beginning in 1993, family allowance payments are replaced by the non-taxable child tax benefit. Paragraph 20(d) is replaced with the following:
+
+(d) for taxation years before 1993, Canadian family allowance payments, or any portion of such payments, that would be required by subsection 56(5) to be included in the non-resident's income for the year if he or she had been resident in Canada throughout the year;
+
+11. Paragraph 21 of the bulletin is revised to reflect the amendment to section 115.1 in Bill C-92, effective after 1984. The Bill C-92 amendment extends the application of section 115.1 to a broader range of transactions. Paragraph 21 is replaced with the following:
+
+Competent Authority Agreements
+
+21. Subsection 115.1(1) applies when a provision in an income tax treaty provides a mechanism for avoiding double taxation by allowing a taxpayer to defer tax in Canada. Specifically, subsection 115.1(1) provides that where the Minister of National Revenue and a taxpayer have entered into an agreement, under a provision of a tax treaty with a foreign country that has the force of law in Canada (such as paragraph 8 of Article XIII of the 1980 Canada-United States Income Tax Convention and paragraph 6 of Article 13 of the Canada- Netherlands Income Tax Convention), the terms and conditions of such an agreement will govern the taxation of the taxpayer. A taxpayer who qualifies for relief under subsection 115.1(1) may enter into a tax deferral agreement in advance of the transactions involved.
+
+For example, subsection 115.1(1) may apply when a non-resident person or partnership disposes of property in Canada in the course of a corporate organization, reorganization, amalgamation, division, or similar transaction, and the disposition results in income earned in Canada for purposes of section 115 in the year of the transaction. When the taxation of any profit, gain, or income arising from the disposition of property in this type of transaction is deferred in the non-resident vendor's country of residence, double taxation may occur because the most beneficial use of foreign tax credits may not be possible. However, subsection 115.1(1) may apply if a provision of an income tax treaty provides relief from such double taxation.
+
+The current version of IT-270 contains more information on section 115.1 and the current version of IT-173 also provides details on section 115.1 as it pertains to paragraph 8 of Article XIII of the 1980 Canada-United States Income Tax Convention. Taxpayers who would like to enter into an agreement under subsection 115.1(1) may obtain information on how to proceed by writing to:
+
+International Tax Programs Directorate 875 Heron Road Ottawa ON K1A 0L8
+
+12. Paragraph 30 of the bulletin is revised to reflect the amendment to paragraph 115(1)(c) in Bill C-92. Before the Bill C-92 amendment, losses from the duties of an office or employment performed by a non- resident in Canada and allowable business investment losses were not deductible in calculating a non-resident's income under subsection 115(1). Paragraph 30 is replaced by the following paragraph:
+
+30. In calculating income earned in Canada for the year under subsection 115(1), paragraph 115(1)(c) provides that losses from businesses carried on by a non-resident in Canada are deductible. For the 1991 and subsequent taxation years, losses from duties of an office or employment performed by a non-resident in Canada, and allowable business investment losses arising from the disposition of property any gain on which would be included in determining the non- resident's income, are also deductible under paragraph 115(1)(c). For more information about the deductibility of losses by a non-resident, see the current version of IT-262.
+
+If you have any comments about the matters discussed in this release, please send them to:
+
+Director, Technical Publications Division Policy and Legislation Branch Revenue Canada 875 Heron Road Ottawa ON K1A 0L8

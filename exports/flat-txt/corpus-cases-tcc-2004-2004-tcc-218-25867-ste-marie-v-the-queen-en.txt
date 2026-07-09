@@ -1,0 +1,144 @@
+Title: Ste-Marie v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25867/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-218-25867-ste-marie-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-05-07
+
+# Ste-Marie v. The Queen
+
+- Citation: 2004 TCC 218
+- Decision date: 2004-05-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3861, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ste-Marie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-07
+Neutral citation
+2004 TCC 218
+File numbers
+2002-4292(GST)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002‑4292(GST)I
+BETWEEN:
+HAROLD STE‑MARIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 27, 2004, in Québec City, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Richard Philippe Guay
+Counsel for the Respondent:
+Ghislaine Thériault
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment issued in application of Part IX of the Excise Tax Act, (the "Act"), notice of which is dated March 23, 2001, and bears No. 203817, concerning the Goods and Services Tax, is allowed in part. The assessment is sent back to the Minister of National Revenue to be reconsidered and reassessed, taking into account the fact that the $38,100 must be removed from all the calculations; the penalties remain, but must be reevaluated according to the reassessment hereby prescribed, all without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of May 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 10th day of September 2004.
+Ingrid B. Miranda, Translator
+Citation: 2004TCC218
+Date: 20040507
+Docket: 2002‑4292(GST)I
+BETWEEN:
+HAROLD STE‑MARIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from an assessment dated March 23, 2001, bearing No. 203817, issued pursuant to the Excise Tax Act, (the "Act").
+[2] In reconsidering and reevaluating the assessment, the Respondent relied on the following assumptions of fact, reproduced under numbers 13 to 22 of Paragraph A of the Reply to the Notice of Appeal:
+[TRANSLATION]
+13. As alleged in the Notice of Appeal and the Agreement of Dissolution filed as Exhibit I‑1, the Appellant operated an incorporated law office under the name Ste-Marie, Milliard et Associés;
+14. As stated at paragraph 4 of the same agreement, the Appellant reserved rights over all work in progress, and over all work undertaken by the other lawyers in the firm, as at February 1st 1993;
+15. As stipulated at paragraph 6 of the said agreement, associate Milliard was to pay the Appellant 50% of all fees he invoiced from February 1st, 1993, until his termination of employment, in order to defray his office expenses;
+16. As stipulated at paragraph 7 of the same agreement, associate Milliard agreed to pay the Appellant 10% of the legal fees invoiced in connection with some of the files, subject to certain terms and conditions, with respect to the reimbursement of some of the expenses;
+17. From the time the company Ste‑Marie, Milliard ceased to exist, January 31st, 1993 until February 28, 1994, the date on which Harold Ste‑Marie was supposed to receive the legal fees in compliance with paragraphs 4, 6 and 7 of the said agreement, the Appellant did not file a tax return, as shall be demonstrated during discovery and the hearing;
+18. The Appellant was therefore in default in this respect. In order to rectify the situation, the auditor retroactively registered Harold Ste‑Marie, in the capacity of agent, at February 1, 1993, since legal fees are by law subject to taxation. The auditor then proceeded to audit the company;
+19. Following the audit, the Minister issued an assessment on February 7, 1997, bearing No. 06213104, and covering the time period from February 1, 1993 to June 30, 1996, as seen in Exhibit I‑2;
+20. On April 17, 1997, the Appellant filed an objection and the Minister issued a decision confirming most of the assessment, as seen in Exhibit I‑3;
+21. On January 8, 1999, following the decision with respect to the objection, the Minister issued a reassessment bearing No. 8214005, as seen in Exhibit I‑4;
+22. In its decision respecting the objection, the Minister established the objector’s billings for the period from February 1, 1993 to June 30, 1996, as follows:
+Year 1994 – Billings
+Per the individual’s tax return
+$189,459
+Following Audit
+$284,584
+Settlement of Objections
+$246,972
+Additional Revenue including taxes
+$57,513
+Year 1995 – Billings
+Per the individual’s tax return
+$42,522
+Following Audit
+$106,310
+Settlement of Objections
+$106,310
+Additional Revenue, including taxes
+$63,788
+Year 1996 – Billings
+Per the individual’s tax return
+$103,383
+Following Audit
+$65,283
+Settlement of Objections
+$65,283
+Difference (balance of 1996 accounts receivable to be added to 1997 billings)
+- $38,100
+[3] The Respondent described as follows the issue at bar:
+[TRANSLATION]
+The issue at bar comes down to simply determining the amount of taxable supplies for the period from February 1, 1996 to January 31, 1999, while taking into account an additional amount of $38,100 added to the 1997 billings;
+[4] A lawyer by profession, the Appellant operated a company that juggled multiple businesses under the name "Étude légale Ste‑Marie, Milliard et Associés”. Following dissolution of the company, the Appellant pursued legal practice on his own.
+[5] The associates, including the Appellant, concluded an agreement providing for the dissolution of the company. The agreement stipulated that, as at February 1, 1993, the Appellant was to keep all the work in progress, as well as all the undertakings of the other lawyers in the firm.
+[6] The Appellant collected legal fees for the period from February 1, 1993 to February 28, 1994. However, he did not file the corresponding tax return. In fact, the Appellant failed to register and therefore, did not submit any activity reports.
+[7] The Appellant collected legal fees that are taxable pursuant to the Act. He failed to report these fees and failed to effect the pertinent payments. During the audit the Appellant was retroactively registered as at February 1st, 1993, for the years 1993 to 1996.
+[8] Following the first audit, the Minister issued assessment No. 06213104 on February 7, 1997, for the period from February 1, 1993 to June 30, 1996.
+[9] On April 17, 1997, the Appellant filed an objection. But a large measure of the assessment was confirmed in the resulting decision.
+[10] It seems the Appellant was not very cooperative with respect to the audit of the years prior to 1997. Since there were very few documents available to effect the audit and to determine the legal liabilities of the Appellant, it was then agreed that a third party be appointed to reconstruct the accounting to some extent, in order to facilitate the task of assessing and calculating the amount of Goods and Services Tax ("GST") owed by the Appellant.
+[11] With this objective in mind, the Minister used the cash accounting method to issue the reassessment, since it would have been extremely difficult, if not impossible, to use the accrual accounting method; on the basis of the cash accounting method, the Respondent claims that he had to carry forward an amount of $38 100 to the 1997 financial year.
+[12] Following the audit, talks and negociations took place at the objection stage. The Respondent pointed out that the Appellant had consented to the fact that the $38 100 amount be brought forward to 1997.
+[13] After paying the full payable amount assessed in connection with taxation years 1994, 1995 and 1996, the Appellant claimed that he had already sorted out his position until the end of the period covered by the assessment, namely the end of 1996. He therefore completely denied agreeing that an amount of $38,100 be carried forward to 1997.
+[14] Later, Ms. Diane Lavallée decided to undertake a new audit with respect to the taxation years following 1994, 1995 and 1996, which are the years covered by the settlement and subject to this particular appeal.
+[15] On January 8, 1999, the Minister issued a reassessment bearing No. 8214005 to which the Appellant objected again.
+[16] In support of the assessment hereby appealed, Ms. Diane Lavallée, who is in charge of the Appellant’s file, rejects the interpretation of facts submitted by the Appellant and his accountant; she insists that the parties undertook an implied agreement that the $38,100 would be carried over to the 1997 taxation year.
+[17] For this reason, Ms. Lavallée proceeded on the basis that $38,100 was to be added to the total revenue for the 1997 taxation year, since she is of the opinion that this amount was excluded from the 1996 fiscal period calculations and therefore, the amount had not been assessed.
+[18] Accordingly, while auditing 1997, 1998 and 1999, she added a $38 100 to the other revenues to assess the said taxation years.
+[19] The evidence established that the original assessment hereby appealed includes two components: the first component is related to the amount of $38 100, and has been the subject of inconsistent explanations; the second component concerns the differences between the Appellant’s statement and the observations made by Ms. Lavallée during the audit.
+[20] Following issuance of the appealed assessment, the Appellant initiated the objection procedure. He chose to waive the possible benefits of prescription and retained the services of a tax professional in order to prove, during the objection, the validity of his submissions.
+[21] Once again, the officers in charge of the Appellant’s file noted that the tax expert retained by the Appellant failed to cooperate whatsoever during the discovery of documents and during the submission of observations in support of the objection.
+[22] It appears that the tax expert retained by the Appellant did not actually cooperate or submit any explanations or documents. The Appellant seemed surprised with the harsh resulting decision, since he alleged he had very good arguments to submit in support of his objection.
+[23] According to the Appellant, the basis of his objection was: to deny the carrying forward the $38,100 to the 1997 taxation year and to demonstrate that a significant portion of his revenue included non taxable legal fees, since a number of his clients were Indian and therefore, not subject to the GST.
+[24] Even though the grounds he mentioned could have raised some interesting issues, the Appellant did not provide sufficient evidence for this Court to weigh its validity and pertinence.
+[25] I must conclude that he did not submit any valid proof in support. The Appellant himself recognized that his evidence was insufficient with respect to this component of the appeal, and he added that he would assume all the resulting consequences.
+[26] As to the $38,100, I accept the explanations submitted by the Appellant and his accountant, these explanations being perfectly consistent with his waiving application of the prescription.
+[27] Indeed, he probably believed that all his liabilities prior to the end of 1996 had been resolved, and he then chose to waive application of the prescription. Otherwise, he would certainly not have agreed to waive this benefit.
+[28] Moreover, I found that the explanations in connection with the $38,100 to be a bit suspicious: normally, the officers in charge of the file would have followed the matter up. Here, the Appellant only learned a number of years later that he was being reassessed and that, with respect to this reassessment, he would have to deal with a $38,100 carry forward relating to the 1997 taxation year.
+[29] The appeal is allowed in part and the assessment is sent back to the Minister of National Revenue to be reconsidered and reassessed taking into account the fact that the $38,100 should be deleted from all calculations; the penalties remain but must be reassessed according to the above‑mentioned corrections; the interest must also be reassessed relative to the reassessment.
+Signed in Ottawa, Canada, this 7th day of May 2004.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 10th day of September 2004.
+Ingrid B. Miranda, Translator

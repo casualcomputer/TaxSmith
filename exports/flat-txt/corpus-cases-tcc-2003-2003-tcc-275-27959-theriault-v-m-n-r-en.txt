@@ -1,0 +1,97 @@
+Title: Theriault v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27959/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-275-27959-theriault-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-04-23
+
+# Theriault v. M.N.R.
+
+- Citation: 2003 TCC 275
+- Decision date: 2003-04-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1807, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Theriault v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-23
+Neutral citation
+2003 TCC 275
+File numbers
+2002-3300(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2002-3300(EI)
+BETWEEN:
+RÉGINALD THÉRIAULT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on April 10, 2003, at Rivière-du-Loup, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stéphanie Côté
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23th day of April 2003.
+"Alain Tardif"
+J.T.C.C.
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2003TCC275
+Date: 20030423
+Docket: 2002-3300(EI)
+BETWEEN:
+RÉGINALD THÉRIAULT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Tardif, J.T.C.C.
+[1] This is an appeal from a determination dated July 18, 2002, in which the respondent held that the work done by the appellant for the account and benefit of Jocelyn Lebrun from September 12 to December 18, 1999, did not constitute a contract of service and that it accordingly was not insurable employment.
+[2] In making his decision, the appellant made the following assumptions of fact:
+[TRANSLATION]
+(a) the payer operated a logging business in St‑Elzéar;
+(b) the appellant owned a skidder valued at approximately $15,000;
+(c) during the period in issue, the payer allegedly employed the appellant to fell trees on his lands;
+(d) in fact, the payer and the appellant shared equally in the proceeds of the sale of wood;
+(e) no written contract was signed between the appellant and the payer;
+(f) the appellant's duties were to fell trees, transport them to the road and cut them into logs;
+(g) the appellant was purportedly paid $750 a week by the payer, whereas the payer issued a cheque that was endorsed by the appellant and handed over to the payer;
+(h) the payer then paid the appellant purported wages in cash, whereas the money was in fact an advance on the proceeds of sale of the wood;
+(i) the payer and the appellant sold the wood to Victorien Lemay Inc.;
+(j) Victorien Lemay Inc. paid half of the purchase price of the wood directly to the payer and the other half directly to the appellant;
+(k) once the wood was sold and the money received from Victorien Lemay Inc., the appellant reimbursed the payer for the gross wages and employer-employee contributions paid by the payer;
+(l) on December 17, 1999, the payer issued a record of employment to the appellant for the period starting on September 12, 1999, and ending on December 18, 1999, stating 560 insurable hours and total insurable earnings of $10,483.20;
+(m) the appellant was responsible for maintaining his skidder;
+(n) the appellant assumed the cost of gasoline and spare parts for the skidder;
+(o) the appellant operated his own business;
+(p) the payer and the appellant entered into an arrangement to enable the appellant to qualify for employment insurance benefits.
+[3] The appellant essentially contended that he had performed his work as he had done for a number of years and that he had previously never had any problem obtaining employment insurance benefits; his submissions respecting the manner of performing the work and, more specifically, the remuneration were vague and unclear. The evidence brought by the appellant was so unclear that he did not discharge his burden of proof.
+[4] He essentially stated and repeated that he had never had any problem qualifying for employment insurance. The answers to the Court's questions were confused; what is more, it seemed quite clear that there had been genuine collusion between him and the woodlot owner, the payer Lebrun, so that he could qualify for employment insurance benefits.
+[5] The respondent, for his part, had Pierre Savoie, the person responsible for the investigation in the appellant's case, testify. Mr. Savoie outlined the scheme used by the appellant and the payer, Jocelyn Lebrun, who had agreed to issue cheques to the appellant to cover the period in issue; the cheques were immediately endorsed and handed back. In addition, the investigator observed that the cheques from the account of Jocelyn Lebrun's business had been redeposited to his personal account bearing another folio number.
+[6] He had not been able to determine whether the payer had paid the appellant in cash, the documentary evidence showing quite decisively that there had been no payment. Instead the appellant was paid 50 percent of the amount obtained when the wood was sold.
+[7] It appears that, during the investigation, the alleged employer categorically refused to cooperate by providing explanations and relevant documents that could confirm that the record of employment was not false.
+[8] It could also be observed from Mr. Savoie's investigation that the appellant worked during the periods when he received employment insurance benefits and sold wood using the account of his spouse's business. In other words, it appears from the investigator's testimony that the appellant was involved in various schemes to obtain employment insurance benefits without entitlement; he worked during the periods when he was receiving such benefits.
+[9] The evidence brought by the respondent showed on balance that the version of the facts presented by the appellant was inconsistent with his claims. In light of the evidence adduced, there is no doubt that the appellant's explanations are in no way credible and that the record of employment was the result of an agreement for the sole purpose of qualifying the appellant for employment insurance benefits.
+[10] In actual fact, the appellant did indeed perform work on Jocelyn Lebrun's property. It was work consisting in felling, transporting and cutting wood using his skidder. The wood was subsequently sold, and the appellant received 50 percent of the proceeds of the sale. This was therefore not a contract of service, but essentially work performed as part of his own business.
+[11] As business income was payable when the wood was sold, the appellant and the owner of the land where the sold wood had been cut entered into a false arrangement suggesting that there was a contract of service. In actual fact, the cheques were not cashed by the appellant; they served only to create an appearance of a contract of service.
+[12] In conclusion, it was shown on a balance of probabilities that the appellant performed work as a contractor, not as an employee; the work was disguised and arranged so that he could qualify for employment insurance benefits, which clearly confirms that the determination here in appeal, that the work performed by the appellant was not done as part of a genuine contract of service, was correct.
+[13] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 23th day of April 2003.
+"Alain Tardif"
+J.T.C.C.

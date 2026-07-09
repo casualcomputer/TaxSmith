@@ -1,0 +1,630 @@
+Title: Exxonmobil Canada Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/405691/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-108-405691-exxonmobil-canada-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-05-07
+
+# Exxonmobil Canada Ltd. c. La Reine
+
+- Citation: 2019 CCI 108
+- Decision date: 2019-05-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4410, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Exxonmobil Canada Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-05-07
+Référence neutre
+2019 CCI 108
+Numéro de dossier
+2003-705(IT)G, 2012-1389(IT)G
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-705(IT)G
+ENTRE :
+EXXONMOBIL CANADA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur une preuve commune avec l’appel de ExxonMobil Canada Hibernia Company Ltd. (2012-1389(IT)G)) du 14 au 17 janvier 2019, du 21 au 24 janvier 2019 et les 28 et 29 janvier 2019, à Calgary (Alberta)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocats de l’appelante :
+Mes Gerald Grenon, David Jacyk et Brynne Harding
+Avocats de l’intimée :
+Mes Rosemary Fincham, Suzanie Chua et Cédric Renaud-Lafrance
+JUGEMENT
+ATTENDU QUE, avant le début de l’audition du présent appel, les parties ont réglé un nombre important de questions soulevées dans l’avis d’appel initial déposé par l’appelante;
+ET ATTENDU QUE le règlement de ces questions a fait l’objet d’un jugement et d’une ordonnance partiels rendus par le juge Paris de la Cour le 5 mars 2018;
+ET ATTENDU QUE, au début de l’audition du présent appel, les parties ont présenté un consentement partiel à jugement daté du 13 janvier 2019 qui venait résoudre entièrement les questions 8, 9, 10 et 11 qui faisaient encore l’objet de l’appel;
+ET ATTENDU QUE le reste de la question en appel est de savoir si la part des revenus de l’appelante provenant de la vente de pétrole brut donne droit à la déduction relative aux ressources en application de l’ancien alinéa 20(1)v.1) de la Loi de l’impôt sur le revenu (« LIR »);
+PAR CONSÉQUENT, conformément aux motifs du jugement ci-joints, l’appel interjeté contre la nouvelle cotisation établie sous le régime de la LIR pour l’année d’imposition se terminant le 30 novembre 2000, dont l’avis porte la date du 31 décembre 2018, est accueilli, et cette nouvelle cotisation est renvoyée au ministre du Revenu national afin qu’il procède à un nouvel examen et établisse une nouvelle cotisation en partant du principe qu’aucun revenu n’a été tiré par l’appelante du transport ou de la transmission de pétrole.
+Chaque partie doit prendre en charge ses propres dépens.
+Signé à Ottawa, Canada, ce 7e jour de mai 2019.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 21e jour de février 2020.
+François Brunet, réviseur
+Dossier : 2012-1389(IT)G
+ENTRE :
+EXXONMOBIL CANADA
+HIBERNIA COMPANY LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de
+ExxonMobil Canada Ltd. (2003-705(IT)G) du
+14 au 17 janvier 2019, du 21 au 24 janvier 2019 et
+les 28 et 29 janvier 2019, à Calgary (Alberta)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocats de l’appelante :
+Mes Gerald Grenon, David Jacyk et Brynne Harding
+Avocats de l’intimée :
+Mes Rosemary Fincham, Suzanie Chua et Cédric Renaud-Lafrance
+JUGEMENT
+ATTENDU QUE, avant le début de l’audience du présent appel, les parties ont réglé deux des cinq questions soulevées dans l’avis d’appel initial déposé par l’appelante;
+ET ATTENDU QUE le règlement de ces questions a fait l’objet d’un jugement partiel rendu par le juge Paris de la Cour le 13 juin 2017;
+ET ATTENDU QUE, au début de l’audience du présent appel, les parties ont présenté un consentement partiel à jugement daté du 13 janvier 2019 qui venait résoudre entièrement la question 4 faisant l’objet de l’appel;
+ET ATTENDU QUE les autres questions en appel sont de savoir si la part des revenus de l’appelante provenant de la vente de pétrole brut donne droit à la déduction relative à des ressources et si la part des dépenses de l’appelante engagées pour forer un puits est admissible comme dépenses relatives à des activités de recherche scientifique et de développement expérimental (RS & DE);
+PAR CONSÉQUENT, conformément aux motifs du jugement ci-joints :
+1. l’appel interjeté de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu (« LIR ») pour l’année d’imposition se terminant le 31 décembre 2005, dont l’avis est daté du 4 mars 2010, en ce qui a trait à la question de déduction relative à des ressources est accueilli et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en partant du principe qu’aucun revenu n’a été tiré par l’appelante du transport ou de la transmission de pétrole;
+2. l’appel de la nouvelle cotisation établie en application de la LIR pour l’année d’imposition se terminant le 31 décembre 2005, dont l’avis est daté du 4 mars 2010, concernant la question relative aux activités de recherche scientifique et de développement expérimental (RS & DE) est rejeté.
+Chaque partie doit prendre en charge ses propres dépens.
+Signé à Ottawa, Canada, ce 7e jour de mai 2019.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 21e jour de février 2020.
+François Brunet, réviseur
+Référence : 2019 CCI 108
+Date : 20190507
+Dossier : 2013-705(IT)G
+ENTRE :
+EXXONMOBIL CANADA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2012-1389(IT)G
+ET ENTRE :
+EXXONMOBIL CANADA
+HIBERNIA COMPANY LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Owen
+I. Introduction
+[1] Notre Cour est saisie des appels interjetés par ExxonMobil Canada Ltd. (« EMCL ») relativement à la nouvelle cotisation établie à l’égard de son année d’imposition se terminant le 30 novembre 2000 par avis daté du 31 décembre 2018 et par ExxonMobil Canada Hibernia Company Ltd. (« EMCHCL ») relativement à la nouvelle cotisation établie à l’égard de son année d’imposition se terminant le 31 décembre 2005 par un avis daté du 4 mars 2010.
+[2] Avant le début de l’audience du présent appel, les parties ont réglé un nombre important de questions soulevées dans les avis d’appel initiaux déposés par EMCL et EMCHCL; Le règlement de ces questions a été concrétisé, dans le cas d’EMCL, par un jugement partiel et une ordonnance du juge Paris en date du 5 mars 2018 et, dans le cas d’EMCHCL, dans un jugement partiel du juge Paris en date du 13 juin 2017.
+[3] Au début de l’audition des présents appels, les parties ont présenté à la Cour deux autres consentements partiels à jugement portant sur toutes les autres questions sauf deux. J’ai retenu les consentements partiels à jugement et j’ai intégré à mon jugement les questions discutées dans ces consentements.
+[4] En conséquence de ce qui précède, les deux seules questions discutées lors de l’audition des présents appels étaient les suivantes : 1) la nouvelle cotisation établie à l’égard d’EMCL visant à reclassifier sa quote-part de 3 674 626 $ des revenus tirés par ExxonMobil Canada Properties, une société en nom collectif d’EMCL et d’ExxonMobil Canada Resources Company, de la vente de pétrole brut pendant son exercice terminé le 31 décembre 1999 comme n’étant pas admissible à la déduction relative à des ressources prévue à l’ancien alinéa 20(1)v.1) de la Loi de l’impôt sur le revenu (la « LIR ») et de la partie XII du Règlement de l’impôt sur le revenu (le « RIR ») et la nouvelle cotisation établie à l’égard d’EMCHCL visant à reclassifier 530 138 $ de ses revenus provenant de la vente de pétrole brut au cours de son année d’imposition 2005 comme n’étant pas admissible à la déduction relative aux ressources, et (2) la nouvelle cotisation établie à l’égard d’EMCHCL en vue de rejeter la demande d’EMCHCL selon laquelle sa part des dépenses engagées en 2005 pour forer le puits B16-54 était admissible à titre de dépense relative à des « activités de recherche scientifique et de développement expérimental » au sens du paragraphe 248(1) de la LIR (la « demande de RS & DE »).
+II. Les faits
+[5] Les parties ont déposé un exposé conjoint partiel des faits (l’« ECPF ») et un recueil conjoint de documents (le « RCD »). Les figures 1 à 5 de l’ECPF sont reproduites à l’annexe A des présents motifs et le texte de l’ECPF est reproduit ci-dessous. Par souci de commodité, j’appellerai Hibernia le projet situé au large de la côte est de Terre-Neuve-et-Labrador et portant sur la mise en valeur et l’exploitation des champs de pétrole d’Hibernia.
+[6] L’appelante a cité à comparaître les témoins des faits suivants :
+1) John Joseph Henley. M. Henley a été, à titre de consultant ou d’employé, au service de la Société d’exploitation et de développement d’Hibernia ltée (SEDH), qui exploitait Hibernia. De 2001 à 2006, M. Henley a été président de Newfoundland Transshipment Limited (« NTL »), qui était propriétaire du terminal de transbordement Whiffen Head (« Whiffen Head ») à Placentia Bay, à Terre-Neuve. Le témoignage de M. Henley portait sur la question de la déduction relative aux ressources.
+2) John Edward Eastwood. M. Eastwood est géophysicien et sismologue et a été directeur de la production géoscientifique pour Hibernia et d’autres projets à proximité entre 2003 et 2007. Il a décrit le rôle de l’équipe multidisciplinaire composée de 12 à 14 personnes qu’il a supervisée comme ayant pour but de caractériser les réservoirs, de comprendre la quantité des réserves et de mettre en valeur les champs de la manière la plus « optimale » possible. M. Eastwood a quitté Hibernia en 2007.
+3) Peter John Vrolijk. En 1989, M. Vrolijk s’est joint à ce qui est devenu par la suite ExxonMobil Upstream Research Company (« EMURC ») à titre de chercheur et y est demeuré jusqu’à sa retraite en 2016. EMURC a entrepris des recherches nouvelles et, dans de nombreux cas, exclusives pour obtenir un avantage concurrentiel dans l’exploration et la production de pétrole et de gaz. EMURC a également fourni une expertise technique à d’autres sociétés du groupe ExxonMobil.
+4) Arslan Akhmetov. M. Akhmetov est superviseur géoscientifique de la production chez Imperial Oil en Alberta. L’équipe que M. Akhmetov supervise s’occupe de tous les efforts géoscientifiques déployés à l’appui de la production de pétrole à Hibernia ainsi qu’à l’égard d’autres biens de production.
+5) James Ridley Muir. M. Muir a été conseiller en recherche et technologie à l’Agence du revenu du Canada (l’« Agence ») de 2004 jusqu’au début de 2009.
+6) Chris Chiwetelu. M. Chiwetelu a occupé le poste de spécialiste national du secteur de la technologie à l’Agence à compter de 2000 et a participé à l’examen par l’Agence de la demande de RS & DE.
+[7] En plus des six témoins de fait appelés par l’appelante, l’appelante et l’intimé ont chacune appelé un témoin expert. M. Fairchild a témoigné en faveur de l’appelante et le professeur Gringarten a témoigné pour l’intimée. M. Fairchild a été reconnu comme expert dans le domaine de la géologie et de la géophysique ainsi que dans le développement et l’utilisation de l’analyse de la connectivité des réservoirs. Le professeur Gringarten a été reconnu comme expert dans la caractérisation des réservoirs, en particulier dans l’analyse de la connectivité des réservoirs, et dans la prise de mesures concernant les puits et leurs utilisations, en particulier l’analyse en matière d’essais de puits des données provenant des appareils d’essai des couches filaires.
+[8] J’ai conclu que tous les témoins étaient crédibles.
+[9] L’ECPF énonce ceci :
+1. Hibernia est un champ pétrolifère situé dans l’océan Atlantique Nord, à environ 315 kilomètres à l’est de St. John’s (Terre-Neuve-et-Labrador), par 80 mètres d’eau, qui était exploité par la Hibernia Management & Development Corporation (« HMDC »).
+2. Les grès d’Hibernia et les grès d’Avalon sont les deux principaux réservoirs du champ Hibernia.
+3. En 1965, Mobil Oil Canada Ltd. a obtenu un permis d’exploration et a commencé l’exploration pétrolière de la zone des Grands Bancs au large de la province de Terre-Neuve en 1966.
+4. Un puits de découverte a été foré dans le champ Hibernia en 1979 et complété en 1980.
+5. Le 15 janvier 1985, Mobil Oil Canada Ltd, Gulf Canada Resources Inc, Petro-Canada Inc, Chevron Canada Resources Limited, Chevron Canada Petroleum Limited et Columbia Gas Development of Canada Ltd. ont conclu l’accord conjoint d’exploitation Hibernia.
+6. Le 11 février 1985, le gouvernement du Canada (le « Canada ») et le gouvernement de Terre-Neuve-et-Labrador (la « province ») ont signé l’Accord atlantique (l’« Accord »).
+7. L’Accord prévoyait la gestion conjointe et le partage des recettes à l’égard des ressources pétrolières et gazières au large de Terre-Neuve-et-Labrador. Les parties à l’Accord ont également convenu de créer l’Office Canada-Terre-Neuve des hydrocarbures extracôtiers (l’« Office ») pour appliquer la législation pertinente.
+8. L’Accord devait être mis en œuvre par une législation mutuelle et parallèle.
+9. Le 15 septembre 1985, Mobil Oil Canada Ltd, en son nom et au nom des autres participants à une coentreprise concernant un projet d’exploitation pétrolière extracôtière dans le champ Hibernia (désigné par la suite par l’Office comme le « promoteur ») a présenté une demande comprenant le « plan de retombées Hibernia » et le « plan de développement Hibernia ».
+10. Le 30 mars 1990, le promoteur a soumis à l’Office, à titre d’information, un plan intitulé « Mise à jour du plan de développement Hibernia » (la « mise à jour »). Cette mise à jour exposait l’interprétation que le promoteur faisait alors de la géologie et des caractéristiques du réservoir du champ Hibernia, ainsi que les changements apportés à son approche prévue et aux installations proposées. L’Office a déterminé que la mise à jour constituait un plan de développement révisé qu’il devait approuver.
+11. Dans sa mise à jour, le promoteur a proposé d’utiliser un « système de chargement en mer » (SCM) composé d’un terminal de tubes ascenseurs du fond marin, d’un tube ascenseur vertical flexible, d’une tête d’injection sous-marine et d’un col de cygne, d’une bouée sous-marine et d’un tube ascenseur caténaire flexible. Le système proposé par le promoteur était représenté à la figure 6 de la décision 90.01.
+12. Le 7 septembre 1990, Mobil Oil Canada Properties, une société en nom collectif dont Mobil Oil Canada Ltd. était une associée, Gulf Canada Resources Limited, Petro-Canada Hibernia Partnership, Chevron Canada Resources et Hibernia Management and Development Company Ltd, ont conclu l’« accord d’exploitation du champ Hibernia ». Le 24 mars 1993, ledit accord a été modifié par l’« accord modifiant l’accord d’exploitation du champ Hibernia ».
+13. Le 7 septembre 1990, Mobil Oil Canada Properties, une société en nom collectif dont Mobil Oil Canada Ltd. était une associée, Gulf Canada Resources Limited, Petro-Canada Hibernia Partnership, Chevron Canada Resources, Hibernia Management and Development Company Ltd, Mobil Oil Canada Ltd., Petro-Canada Inc., et Chevron Canada Resources Limited ont conclu l’Entente unanime des actionnaires du projet Hibernia. Le 24 mars 1993, cette entente a été modifiée par l’« Entente unanime des actionnaires du projet Hibernia modifiée et mise à jour ».
+14. Le 10 novembre 1990, Sa Majesté la Reine du chef du Canada, Sa Majesté la Reine du chef de la province de Terre-Neuve, Mobil Oil Canada Properties (dont Mobil Oil Canada Ltd. était une associée), Chevron Canada Resources, Gulf Canada Resources Limited et Petro-Canada Hibernia Partnership, ont conclu l’« Entente-cadre relative au projet de développement Hibernia ». Cette entente a été modifiée pour la première fois le 30 janvier 1992. L’entente a été modifiée de nouveau le 24 mars 1993 par la « deuxième entente de modification de l’Entente-cadre relative au projet de développement Hibernia ».
+15. Avant la construction du SCM, des études avaient été effectuées pour déterminer jusqu’à quel point le SCM devait protéger à la fois le pétrolier et la plateforme Hibernia. Une de ces études a été effectuée par Nordco Limited pour le compte de Mobil Oil Canada Properties, datée de février 1990 (le « rapport Nordco »).
+16. Le rapport Nordco évaluait les caractéristiques de manœuvre et de dérive des pétroliers Hibernia proposés pour déterminer la distance entre les systèmes de chargement de pétrole brut et la plateforme Hibernia. Le rapport concluait qu’une distance de sécurité de deux kilomètres était suffisante et laissait suffisamment de temps à l’équipage du navire de réserve et du pétrolier pour reprendre le contrôle des navires en cas de panne des moteurs principaux lors du chargement. Le rapport Nordco contenait les recommandations suivantes :
+a. La distance de sécurité entre la plateforme et le système de chargement doit être de 2 km ou plus;
+b. Les pétroliers ne doivent pas être autorisés à manœuvrer dans un rayon de un kilomètre autour de la plateforme.
+17. La décision finale a été prise par la direction d’Hibernia. Bien que la direction d’Hibernia aurait fait des économies en plaçant le SCM le plus près possible de la plateforme, l’expert maritime a décidé de le placer à deux kilomètres de la plateforme.
+18. Le 10 juillet 1996, la Société d’exploitation et de développement d’Hibernia ltée a présenté « La modification du plan de développement Hibernia [ »] (la « modification ») aux fins d’approbation par l’Office Canada-Terre-Neuve des hydrocarbures extracôtiers.
+19. L’Office a présenté son rapport, qui constitue son approbation conditionnelle des propositions du promoteur, par la décision 97.01.
+20. La plateforme Hibernia a commencé le forage de développement et la production en 1997. La plateforme a été conçue pour un taux moyen de production de pétrole brut sur un an de 110 000 barils de pétrole par jour, avec un taux maximum de 150 000 barils par jour. En 2003, l’Office a autorisé la Société d’exploitation et de développement d’Hibernia ltée à augmenter son taux de production annuel à 220 000 barils par jour.
+Les installations en surface
+21. La plateforme Hibernia comprend des installations en surface qui peuvent accueillir du matériel de forage et de production et de l’équipement de services publics, ainsi que des quartiers d’habitation pouvant accueillir un équipage de 278 personnes en régime permanent. Les installations de surface se composent de cinq supermodules :
+a. M10 Processus : Le gaz et l’eau sont séparés du pétrole produit et le gaz est ensuite comprimé pour être réinjecté dans le réservoir.
+b. M20 Tête de puits : Les opérations de forage se déroulent à l’intérieur du module de tête de puits, sur lequel deux tours de forage mobiles sont montés. La plateforme Hibernia est conçue pour forer deux puits à la fois.
+c. M30 Boue : Les boues de forage sont pompées dans la tige de forage et dans les trous du trépan pour refroidir celui-ci, empêcher l’effondrement du trou et éloigner les déblais du fond du trou. Les boues sont produites et conditionnées dans le module de boue.
+d. M40 Services publics : Le module des services publics contient divers équipements nécessaires à la production d’électricité, au chauffage, à la ventilation, à la climatisation et à la distribution d’eau.
+e. M50 Hébergement : Le module d’hébergement abrite les salles à manger et les dortoirs des personnes travaillant en mer, ainsi que des bureaux et des salles de réunion. Le module d’hébergement contient également le refuge sûr temporaire (RST) en cas d’urgence. Le RST fournit l’alimentation électrique d’urgence, des communications radio et des installations médicales. On y trouve également le principal poste d’embarquement dans les engins de sauvetage, l’hélipont et le système d’évacuation Skyscape de Selantic.
+La structure-poids
+22. Les installations en surface sont soutenues par la structure-poids, un piédestal massif en béton, qui repose sur le fond de l’océan et mesure 111 mètres de haut.
+23. La structure-poids est elle-même dotée d’une paroi de glace de 15 mètres d’épaisseur spécialement conçue et renforcée qui protège les cellules de stockage intérieures. La plateforme Hibernia peut résister à l’impact d’un iceberg de plusieurs millions de tonnes, bien que les icebergs de la région soient généralement plus petits, allant de 50 000 à 300 000 tonnes.
+Le système de chargement en mer
+24. Le SCM consiste en un réseau de conduites [1] (parfois appelées « conduites d’écoulement », « pipelines » ou « conduites d’aspiration » dans certains documents) qui déchargent le pétrole de la plateforme Hibernia vers de grands pétroliers-navettes. Le système de chargement se compose de deux conduites d’aspiration sous-marines, chacune s’étendant sur deux kilomètres, de la plateforme aux bases de chargement nord et sud, respectivement. Un tube ascenseur vertical à chaque base est ensuite relié à une bouée souterraine qui soutient des tuyaux flexibles de chargement. À l’extrémité de chaque tuyau de chargement se trouve une tête d’accouplement à fixer sur les pétroliers. Il y a également une ligne d’interconnexion entre les deux bases.
+25. Les conduites d’aspiration forment une boucle qui permet au pétrole brut de s’écouler de la plateforme vers un pétrolier-navette relié à l’un ou l’autre SCM. La boucle permet au système d’être rincé à l’eau de mer en raison d’un impact éventuel avec un iceberg. De façon plus détaillée, le système de chargement en mer comprend ce qui suit :
+a. Conduite extracôtière principale nord et conduite extracôtière principale sud : Les conduites sous-marines sortent du fond de la structure-poids. Elles sont faites d’acier et soudées et se raccordent aux bases des tubes ascenseurs du SCM, soit la base nord du SCM et la base sud du SCM (collectivement, les « bases du SCM »). Ces conduites sous-marines s’étendent chacune sur deux kilomètres et ont un diamètre de 24 pouces. La disposition du SCM et des conduites sous-marines est illustrée dans le diagramme annexé aux présentes à la figure 1.
+b. Conduite extracôtière d’interconnexion : Une conduite d’interconnexion de 400 mètres se trouve entre les bases du SCM qui peut être utilisée pour faire recirculer les conduites sous-marines avec l’eau de mer en cas d’impact avec un iceberg. Un impact avec un très gros iceberg peut présenter un risque de dommages aux canalisations et, si les canalisations contenaient du pétrole brut, cet impact pourrait créer un risque de fuite. Par conséquent, dès qu’un iceberg se trouve à une certaine distance de la plateforme, l’équipe d’opérations de la plateforme veillerait à déplacer le pétrole brut dans les conduites sous-marines avec de l’eau de mer, ramenant ainsi le pétrole brut dans les cellules de stockage de la structure-poids.
+c. SCM : Le SCM est représenté dans les deux diagrammes annexés aux présentes aux figures 2 et 3.
+i. Base du SCM : La figure 2 est un dessin d’une base de tube ascenseur, qui est une base en acier avec quatre cônes de pieux. Les bases du SCM sont empilées dans le fond marin par un long morceau de tuyau d’acier qui les enferme. À une extrémité de la base du SCM se trouve l’endroit où l’une des conduites d’aspiration se connecte et à l’autre extrémité se trouve l’endroit où l’autre conduite, par l’entremise de la conduite extracôtière d’interconnexion, se connecte. Une vanne permet à la plateforme Hibernia d’isoler un SCM des conduites d’aspiration au besoin, pendant que l’autre SCM fonctionne. Au milieu de la base du SCM se trouve la partie mâle d’un raccord hydraulique qui verrouille la partie inférieure du pied du tube ascenseur.
+ii. Système de tubes ascenseurs du SCM : La figure 3 constitue un dessin du système de tubes ascenseurs du SCM. Le système de tubes ascenseurs comporte un tuyau flexible de 19 pouces de diamètre qui se raccorde au pied du tube ascenseur et comprend l’assemblage comprenant une tête d’injection sous-marine et un col de cygne qui permet à la partie supérieure du système de tube ascenseur de tourner sur 360 degrés autour de la partie verticale du système de tube ascenseur. Une bouée souterraine maintient la conduite flexible de 19 pouces à la verticale. Le tube ascenseur caténaire, composé d’une partie inférieure et d’une partie supérieure, y est fixé. Ces pièces sont séparées par une tête d’injection en ligne qui permet au tube ascenseur caténaire de pivoter sur lui-même lorsque le pétrolier tourne autour par mauvais temps. À l’extrémité du tube ascenseur caténaire se trouve une tête d’accouplement.
+iii. Dispositif de ramassage. La figure 4 ci-jointe présente le tube ascenseur du SCM à l’état de fonctionnement et à l’état de repos. Un pétrolier se connecte au SCM en demandant à un navire de réserve de ramasser une conduite flottante en nylon qui est fixée à un flotteur souterrain. Le navire de réserve tire ensuite une conduite jusqu’à l’avant du pétrolier. Le pétrolier prend cette conduite, l’accroche, puis la pose sur un treuil de traction et tire le tube ascenseur caténaire vertical du fond de la mer pour le placer sur un réceptacle à l’avant du pétrolier. La tête d’accouplement se trouve à l’extrémité du tube ascenseur caténaire. Pendant le chargement, la tête d’accouplement du tube ascenseur du SCM est connectée à l’attelage du pétrolier. La tête d’accouplement du tube ascenseur du SCM intègre la vanne d’isolation principale du système de tube ascenseur du SCM, qui est un type de tige à ressort, à fermeture à sécurité intégrée. Elle est ouverte par le pétrolier une fois qu’elle est solidement raccordée. La plateforme Hibernia pompe ensuite le pétrole brut des cellules de stockage jusqu’au pétrolier en passant par la tête d’accouplement à un débit de 53 000 à 55 000 barils par heure.
+26. La plateforme Hibernia et le pétrolier sont tous deux équipés pour un arrêt d’urgence. En particulier, le pétrolier possède un système de contrôle qui communique avec le système de contrôle de la plateforme Hibernia au moyen d’une liaison de télémesure. La surveillance télémétrique des opérations entre le pétrolier et la plateforme Hibernia est appelée la « ligne verte ». En cas de rupture de la « ligne verte », le pompage et le transfert du pétrole brut s’arrêtent dans les 30 secondes : la vanne d’isolation du système de tube ascenseur du SCM sur la tête d’accouplement se ferme à une certaine vitesse permettant au pétrole brut dans la conduite de ralentir pour éviter que le SCM subisse un choc.
+27. Les forces générées par le vent, le courant et l’action des vagues sur le pétrolier sont contrecarrées par le système de positionnement dynamique installé sur le pétrolier. Les propulseurs et les moteurs principaux du pétrolier-navette maintiennent l’étrave dans le rayon d’action approuvé pour le SCM. Si un problème se produit avec le système de positionnement du pétrolier, il y a un risque que le pétrolier, en essayant de s’adapter aux conditions météorologiques, démarre ou ajoute trop de puissance. Si l’étrave du pétrolier sort du rayon autorisé en raison des forces du vent et des vagues, le pétrolier-navette arrête les pompes de chargement du pétrole brut et si l’excursion est extrême, il fait tomber le tuyau du système de chargement. Ceci protège le système et l’environnement. Les pétroliers-navettes sont de gros navires et il faut du temps pour que leur position change en fonction des propulseurs et du système de propulsion principal.
+28. Il y a aussi le risque qu’un pétrolier perde de la puissance. Chaque pétrolier est équipé d’un abri de remorquage d’urgence, comme l’exige l’Organisation maritime internationale. Si le pétrolier perd de la puissance, son équipage jette cet équipement de remorquage d’urgence à l’eau, où il est récupéré par un navire de réserve. Le navire de réserve remorque alors le pétrolier hors de la trajectoire de la plateforme. Ce processus prend du temps, au moins 30 minutes.
+29. Dans l’un ou l’autre cas, lorsqu’un pétrolier s’éloigne ou perd de la puissance, il y a un risque qu’il se dirige vers la plateforme Hibernia. Les pétroliers sont de très grands navires mesurant 275 mètres de long sur 50 mètres de large. Ils pèsent 155 000 tonnes de port en lourd et peuvent contenir 127 000 tonnes de port en lourd de pétrole brut. Ils sont beaucoup plus grands que la plateforme Hibernia, dont le diamètre est de 102 mètres.
+30. Si un pétrolier heurtait la plateforme Hibernia, il ne détruirait pas la plateforme, qui est conçue pour contrer les impacts très importants des icebergs. Au contraire, les risques sont les suivants :
+a. le pétrolier serait endommagé et risquerait de prendre feu;
+b. si le pétrolier avait du pétrole brut à bord, il y aurait un risque de déversement d’hydrocarbures, ce qui constituerait un problème environnemental majeur;
+c. en raison de sa hauteur, le pétrolier pourrait heurter la surface des postes d’embarquement dans les engins de sauvetage et d’autres parties de la plateforme Hibernia qui surplombent la paroi extérieure du SCM, ce qui pourrait endommager la plateforme et provoquer un incendie ou une explosion sur celle-ci. La distance de deux kilomètres entre les bases du SCM et la plateforme Hibernia permet au pétrolier-navette et au navire de réserve de détourner le pétrolier de la plateforme.
+31. Pour tenir compte des conditions environnementales et pour des raisons de sécurité, les pétroliers-navettes sont des navires à double coque renforcés de glace et équipés de citernes à cargaison et de ballast séparés. Les pétroliers-citernes sont équipés de deux hélices propulsées par des moteurs diesel distincts, de deux gouvernails à haut rendement et de deux propulseurs d’étrave, afin d’assurer une manœuvrabilité maximale et de minimiser la possibilité d’un déversement de pétrole.
+Le cheminement du pétrole brut du réservoir jusqu’au marché
+32. Les puits de pétrole brut et de gaz naturel sont préparés en vue de la production par un procédé appelé complétion de puits.
+33. Les opérations de forage sur la plateforme Hibernia se déroulent à l’intérieur du module de tête de puits, et les deux modules de forage sont situés sur des pistes au-dessus du module de tête de puits. Pendant les opérations de forage, un trépan fore le puits dans le fond de l’océan. La tige de forage et le tubage passent à travers une fente, soit un trou dans la base de la plateforme, pour se diriger vers la cible de forage située sous le fond marin.
+34. La pierre concassée produite par un trépan est appelée déblais de forage. Les déblais de forage sont retirés du puits au moyen de la boue de forage, un composé d’eau ou d’huile synthétique, d’argile et d’autres additifs chimiques qui sont mélangés ensemble dans le module de boue. Les déblais de forage sont éliminés soit par rejet dans l’océan, conformément aux directives réglementaires, soit par réinjection dans le sol.
+35. Une fois que le puits a atteint la profondeur et l’emplacement souhaités, des tubes d’acier appelés « tubages de production » ou simplement « tubages » sont introduits dans le puits et cimentés. Les tubages s’alignent sur toute la longueur du puits de forage afin d’assurer un contrôle sécuritaire du pétrole brut et du gaz naturel, d’empêcher l’eau de pénétrer dans le puits de forage et d’empêcher les formations rocheuses de s’y engouffrer.
+36. Une fois le ciment durci, la colonne de production peut être mise en place. La colonne de production est descendue dans le tubage et suspendue à une installation de fond marin appelée tête de puits. Un « arbre de Noël » est installé sur le dessus de la tête de puits qui est doté de vannes et d’étrangleurs télécommandés qui permettent à l’opérateur de production de régler le flux du pétrole et du gaz naturel.
+37. Le tubage de production est ensuite perforé pour permettre au pétrole brut et au gaz naturel de s’écouler dans le puits. Pour ce faire, on place de minuscules charges explosives dans les assemblages, qui sont ensuite abaissées dans le fond du puits où on les fait exploser avant de remonter les assemblages à la surface. Les charges font de petits trous dans le tubage, ce qui permet au pétrole, au gaz et à l’eau de s’écouler dans le puits de forage.
+38. Le puits est maintenant prêt pour la production.
+39. La pression du réservoir pousse le fluide qui y est contenu dans le puits jusqu’à la tête de puits située sur la plateforme Hibernia.
+40. Le mélange composé de gaz, d’hydrocarbures et d’eau, parfois appelé « fluide de puits », est amené en surface par la colonne de production dans l’arbre de Noël qui contrôle la production du puits.
+41. À l’extrémité de l’arbre de Noël se trouve un mélange des mêmes éléments qui sont sortis du réservoir, c’est-à-dire un mélange de gaz, d’hydrocarbures et d’eau produite. Le mélange entre ensuite dans la chaîne de traitement.
+42. Durant les premières étapes de la production, le fluide provenant des réservoirs contient surtout du pétrole brut, et un peu de gaz naturel. Au fur et à mesure que la production se poursuit et que le réservoir s’épuise, on récupère plus de gaz et éventuellement de l’eau avec le pétrole.
+43. Le fluide du puits passe ensuite par les séparateurs. La séparation du gaz naturel et de l’eau permet de transporter le pétrole brut en toute sécurité. Cela se produit à l’intérieur du module de traitement de la plateforme Hibernia.
+44. En particulier, les puits produisent un mélange de gaz, de pétrole et d’eau à partir du réservoir. Les gaz produits comprennent le méthane, l’éthane, le propane et le butane; ces gaz se vaporisent dans des conditions normales et peuvent exploser dans certaines circonstances. Par conséquent, les gaz doivent être éliminés pendant le processus de séparation. Les fluides du puits pénètrent dans les séparateurs ce qui permet au gaz de remonter vers le haut et au pétrole brut de flotter sur l’eau produite.
+45. Les fluides du puits passent par trois séparateurs : d’abord un séparateur de haute pression, puis un séparateur de moyenne pression, et enfin un séparateur de basse pression.
+46. Le traitement doit se faire par étapes parce que les pressions qui s’écoulent vers la plateforme Hibernia sont très élevées. À chaque étape de séparation, le gaz est retiré pour réduire la pression. L’eau est également évacuée par les séparateurs de moyenne et de basse pression. Ce processus de séparation produit du « pétrole brut stabilisé » qui peut être stocké dans les cellules de stockage. On obtient du pétrole brut stabilisé lorsque la pression de vapeur du pétrole brut est inférieure à la pression atmosphérique. Le processus de stabilisation empêche les gaz de s’évaporer dans des conditions atmosphériques susceptibles de s’enflammer ou d’exploser.
+47. L’eau extraite du pétrole brut par les séparateurs est traitée de manière à réduire la teneur en hydrocarbures résiduels à des niveaux inférieurs ou égaux à ceux qui visent à protéger l’environnement, conformément à la réglementation gouvernementale, avant d’être rejetée dans la mer. L’eau traitée fait l’objet d’une surveillance régulière afin de s’assurer que le rejet est effectué conformément aux exigences réglementaires.
+48. Le gaz produit, à l’exception de celui qui est utilisé comme carburant sur la plateforme, est également destiné à être injecté dans le réservoir pour trois raisons :
+a. Pour minimiser le brûlage à la torche, qui n’a lieu que pour des raisons de sécurité;
+b. Pour conserver le gaz en vue d’une extraction éventuelle à une date ultérieure;
+c. Fournir un maintien de la pression en vue d’augmenter les réserves récupérables dans certaines zones du champ.
+49. Après les séparateurs, il reste un mélange de pétrole brut qui provient des fluides de puits extraits du grès d’Hibernia et du grès d’Avalon. Comme les composants des substances des deux réservoirs sont différents, le pétrole brut produit et traité sur la plateforme Hibernia est appelé « mélange Hibernia ».
+50. À la fin des trois séparateurs, le pétrole brut est stabilisé et est stocké dans la structure-poids.
+51. La structure-poids contient de l’espace de stockage pour environ 1,3 million de barils de pétrole, dans quatre groupes de cellules de stockage situés dans la structure-poids.
+52. Lorsqu’un pétrolier arrive, la plateforme Hibernia pompe le pétrole brut des cellules de stockage dans les conduites d’aspiration sous-marines de deux kilomètres jusqu’au pétrolier.
+53. Le pétrole brut est la propriété conjointe des coentrepreneurs jusqu’à ce qu’il atteigne la bride d’accouplement du SCM du pétrolier. Une fois que le pétrole brut monte à bord du pétrolier, il devient la propriété de l’un des coentrepreneurs.
+54. La figure 5 ci-jointe illustre les opérations effectuées sur la plateforme Hibernia et autour de celle-ci.
+55. Un accord d’enlèvement entre les coentrepreneurs est conclu.
+56. Le pétrole brut, y compris le « mélange Hibernia », ne peut être vendu comme produit final, mais peut être vendu à un raffineur tiers sans autre transformation. Le prix du pétrole brut est établi en fonction de la quantité d’essence, de carburéacteur, de carburant diesel et de mazout de chauffage qui peut en être tirée. Les composants du pétrole brut varient en fonction du réservoir à partir duquel il est produit. Les raffineurs achètent souvent différents types de pétrole brut afin de créer un mélange optimal de pétrole brut pour le type d’équipement dont ils disposent dans leur raffinerie.
+57. Un participant à la coentreprise Hibernia peut également vendre son pétrole brut de la façon suivante :
+a. Directement sur le marché : dans ce cas, le participant à la coentreprise vend le pétrole brut à un tiers sans le stocker dans un terminal de transbordement. Une fois vendu à un tiers, le pétrole brut peut être acheminé directement à une raffinerie ou à un entrepôt avant d’être raffiné.
+b. Par un terminal de transbordement : le transbordement fait partie d’un processus de transport en deux étapes mené par un participant à une coentreprise en vue du transport du pétrole brut vers le marché. Le participant à la coentreprise prend le pétrole brut de la plateforme et le stocke dans un lieu de stockage intermédiaire avant de le vendre à une raffinerie. Il peut être transbordé n’importe où. Le transbordement présente deux avantages : il réduit au minimum le nombre de pétroliers-navettes complexes nécessaires pour retirer le pétrole brut de la plateforme et permet au propriétaire du pétrole brut d’utiliser un autre pétrolier pour vendre le pétrole brut à l’acheteur le plus offrant.
+58. Durant toute la période pertinente, la principale activité d’ExxonMobil Canada Hibernia Company Ltd. était l’exploration et la production de pétrole, de gaz naturel et d’autres hydrocarbures.
+59. Au 31 décembre 2005, ExxonMobil Canada Hibernia Company Ltd. était une filiale en propriété exclusive d’ExxonMobil Canada Resources Company (« EMCRC »), qui était une filiale en propriété exclusive d’ExxonMobil Canada Ltd. (« Exxon »).
+60. ExxonMobil Canada Limited et ExxonMobil Canada Resources Company sont des associés d’ExxonMobil Canada Properties, une société en nom collectif créée en vertu des lois de l’Alberta.
+61. ExxonMobil Canada Limited détient une participation de soixante pour cent (60 %) dans ExxonMobil Canada Properties et ExxonMobil Canada Resources Company détient une participation de quarante pour cent (40 %).
+62. L’exercice financier d’ExxonMobil Canada Properties se termine le 31 décembre.
+63. ExxonMobil Canada Properties et ExxonMobil Canada Hibernia Company Ltd. sont parties à un contrat communément appelé contrat de coentreprise et connu sous le nom de Hibernia.
+64. La participation d’ExxonMobil Canada Properties et d’ExxonMobil Canada Hibernia Company Ltd. dans Hibernia est respectivement de 28,125 % et de 5 %.
+65. Le ministre a reclassifié le montant de 3 674 626 $ des revenus tirés de ressources déclarés par ExxonMobil Canada Properties comme revenus non liés aux ressources et a par conséquent établi une nouvelle cotisation pour l’année d’imposition 2000 à l’égard d’ExxonMobil Canada Limited. De même, en établissant une nouvelle cotisation pour l’année d’imposition 2005 à l’égard d’ExxonMobil Canada Hibernia Company Ltd., le ministre a reclassifié 530 138 $ de ses revenus tirés de ressources comme revenus non liés aux ressources.
+66. Dans le rajustement préparé à l’appui de sa nouvelle cotisation, le ministre a déclaré : [traduction] « Pour arriver à la valeur des revenus de production de la structure-poids, il faut déduire les coûts du SCM. En utilisant une méthode comptable qui comprend l’amortissement et le rendement du capital (semblable à la méthode G3 utilisée pour estimer les bénéfices des usines à gaz), nous avons calculé les coûts totaux pour le SCM. La part proportionnelle de ces coûts de la société en nom collectif réduirait les bénéfices relatifs à des ressources. » Les calculs, y compris la part proportionnelle de la société en nom collectif, ont été présentés dans une feuille de calcul intitulée « Système de chargement en mer (SCM) ».
+67. Ni l’une ni l’autre des parties ne soutient que, si des montants autres que les montants à zéro sont traités à juste titre comme des revenus non liés aux ressources relativement au SCM, des montants différents de ceux à l’égard desquels le ministre a établi une cotisation comme il est indiqué ci-dessus seraient exacts.
+68. Le champ Hibernia a une configuration complexe, et ses réservoirs sont dotés d’une tuyauterie complexe.
+69. L’analyse de la connectivité des réservoirs (« ACR ») constitue une approche systématique et logique pour évaluer la façon dont un réservoir est connecté.
+70. Au cours de l’année d’imposition 2005, HMDC a poursuivi le développement de l’ACR en intégrant un logiciel de visualisation 3D de pointe utilisé pour prédire le type de fluide, la profondeur de contact du fluide et les pressions du fluide dans le réservoir Hibernia. ExxonMobil Canada Hibernia Company Ltd. a soutenu, aux fins de l’impôt sur le revenu, que les travaux suivants pour l’ACR avaient permis de réaliser des progrès scientifiques et technologiques, ce qui a été accepté par le ministre pour l’année d’imposition 2005 :
+i) l’intégration des données aquifères à l’échelle du champ et à l’échelle régionale;
+ii) l’étude du rôle des blocs structuraux intermédiaires dans la séparation des fluides doubles;
+iii) la ségrégation par gravité du pétrole;
+iv) l’intégration de la prévision de l’ACR en tant que variable explicative de premier ordre pour cibler les études portant sur les indicateurs directs d’hydrocarbures;
+v) la visualisation à l’aide de modèles Petrel 3D pour évaluer les connexions plausibles et les points de fuite et de retournement.
+71. HMDC a versé un total de 40 964 305 $ à Noble Drilling, ABB Vetco, Swaco, Weatherford, Halliburton et Schlumberger pour le forage du puits B16-54MM durant l’année d’imposition 2005. La quote-part d’ExxonMobil Canada Hibernia Company Ltd. des coûts susmentionnés était de 2 048 215 $ pour l’année d’imposition 2005.
+72. Le ministre a rejeté la demande d’ExxonMobil Canada Hibernia Company Ltd. pour des dépenses admissibles de RS & DE de 2 048 215 $, soit sa part du coût total susmentionné du forage du puits Bl6-54MM pour l’année d’imposition 2005.
+73. ExxonMobil Canada Limited et ExxonMobil Canada Hibernia Company Ltd. sont de grandes sociétés au sens de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) en sa version modifiée (la « Loi »).
+74. Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard d’ExxonMobil Canada Hibernia Company Ltd. par avis daté du 4 mars 2010 pour l’année d’imposition se terminant le 31 décembre 2005.
+75. ExxonMobil Canada Hibernia Company Ltd. a déposé un avis d’opposition le 1er juin 2010 (l’« avis d’opposition »).
+76. L’appel d’ExxonMobil Canada Hibernia Company Ltd. est interjeté aux termes de l’article 169(1) de la Loi.
+[10] Le pétrole brut stabilisé produit à Hibernia (ci-après, le « pétrole brut ») est chargé à bord d’un des trois [2] pétroliers-navettes utilisant le SCM. Les pétroliers-navettes transportent le pétrole brut Hibernia soit directement sur le marché - habituellement l’une des nombreuses raffineries du nord-est des États-Unis, soit vers Whiffen Head. Le pétrole brut stocké à Whiffen Head est ensuite expédié aux raffineries à bord de pétroliers standard. Le propriétaire de Whiffen Head n’acquiert pas la propriété du pétrole brut stocké à l’installation.
+[11] Le SCM a deux emplacements pour le chargement du pétrole brut sur les pétroliers-citernes : l’un est appelé la base nord et l’autre la base sud. Les deux bases sont situées chacune à environ deux kilomètres au sud-est de la plateforme Hibernia et sont reliées à la structure-poids par une conduite de 24 pouces (appelée « conduite d’aspiration » par M. Henley) (figure 1 de l’ECPF). On a choisi deux kilomètres parce que c’était la distance minimale qui répondait à toutes les préoccupations en matière de sécurité et de protection de l’environnement [3] . Les courants dominants et les conditions météorologiques ont dicté la direction à suivre - si un pétrolier-navette perd de la puissance, il est plus susceptible de s’éloigner de la plateforme.
+[12] Chaque base du SCM est reliée à l’autre base du SCM par le pipeline extracôtier d’interconnexion (« PEI »). Un tube ascenseur soutenu en partie par une bouée souterraine relie chaque base du SCM à une tête d’accouplement qui se fixe au pétrolier-navette. Lorsqu’elle n’est pas utilisée, une partie du tube ascenseur et de la tête d’accouplement repose sur le fond marin. Les composantes détaillées des SCM sont illustrées aux figures 2, 3 et 4 de l’ECPF.
+[13] Lorsque le SCM est utilisé, le pétrole brut s’écoule des cellules de stockage de la structure-poids à travers les conduites d’aspiration vers chaque base du SCM. Le pétrole brut qui arrive à la base et qui n’est pas utilisé pour charger le pétrolier-navette s’écoule ensuite de cette base vers l’autre base par le PEI. Le système est conçu de manière à ce qu’en cas de menace pour les conduites d’aspiration, par exemple dans le cas où des icebergs grattent le fond marin, l’eau puisse être évacuée à travers le système permettant ainsi de retourner le pétrole brut dans les cellules de stockage afin qu’une rupture des conduites d’aspiration ne résulte en un déversement d’hydrocarbures. Les conduites d’aspiration sont toujours remplies d’eau ou de pétrole pour s’assurer que la pression dans ces conduites est similaire à la pression à l’extérieur des conduites.
+[14] Le pétrole brut stocké dans les cellules de stockage de la structure-poids appartient conjointement aux propriétaires de la coentreprise Hibernia jusqu’à ce qu’il atteigne un pétrolier-navette. À ce moment-là, le pétrole brut devient la propriété de l’un des propriétaires de la coentreprise (ou de sa société affiliée désignée) conformément à l’accord d’enlèvement et de transport du SCM Hibernia conclu le 1er novembre 1997 (onglet 61 du RCD). Un connaissement est émis pour refléter le transfert de propriété.
+[15] Le propriétaire du pétrole brut le vend ensuite à une raffinerie qui le transforme en essence, en carburéacteur, en diesel et en mazout de chauffage. Le prix du pétrole brut acheté par la raffinerie est établi de manière à refléter la quantité de ces composantes qui y sont contenues. L’utilisation du SCM pour le chargement des pétroliers-navettes n’ajoute pas de valeur au pétrole brut. Toutefois, le SCM permet aux propriétaires de coentreprises de réaliser la valeur de ce pétrole brut en le transportant sur le marché (c.-à-d. aux raffineries qui peuvent le transformer) [4] .
+[16] La capacité de stockage des cellules de stockage de la structure-poids (1,3 million de barils de pétrole brut) et la capacité de chaque pétrolier-navette (850 000 barils de pétrole brut) signifient qu’un pétrolier-navette doit être chargé tous les cinq et demi à six jours. Si le pétrole brut stocké dans les cellules de stockage dépassait un million de barils, la production devrait être réduite, ce qui résulterait en une perte de revenus calculée sur la valeur actualisée nette.
+[17] Dans le secteur en amont, Exxon Mobil se divise en quatre groupes de sociétés : des sociétés d’exploration qui font de l’exploration pétrolière et gazière, des sociétés de mise en valeur qui développent des actifs pétroliers et gaziers, des sociétés de production qui produisent du pétrole et du gaz ainsi qu’une société de recherche. La société de recherche, ExxonMobil Upstream Research Company, effectue des recherches fondamentales et appliquées à l’appui des activités des trois autres sociétés pour leur donner un avantage concurrentiel.
+[18] Les sociétés pétrolières utilisent diverses techniques pour déterminer l’existence, l’emplacement et l’étendue du pétrole dans une région donnée. Une fois qu’un réservoir de pétrole est désigné, le processus que les sociétés pétrolières suivent pour développer le réservoir est connu sous le nom de gestion du réservoir. La première étape de la gestion du réservoir consiste à caractériser le réservoir, dans le but d’élaborer un modèle de réservoir. L’analyse de la connectivité des réservoirs fait elle-même partie de la caractérisation des réservoirs dans la mesure où elle contribue à la construction du modèle de réservoir. Le professeur Gringarten opine que toutes les sociétés pétrolières ont recours à une certaine forme de gestion du réservoir [5] .
+[19] Les densités relatives du gaz naturel, de l’huile et de l’eau sont telles que lorsque ces trois éléments sont présents dans un réservoir de pétrole, le gaz est situé sur le dessus du pétrole, le pétrole est situé sous le gaz et sur l’eau et l’eau est située sous le pétrole. On appelle contact huile-eau ou CHE l’endroit où l’huile entre en contact avec l’eau.
+[20] Si la pression à des profondeurs particulières de l’huile et de l’eau est connue, le contact huile-eau peut être déterminé à l’aide d’un graphique qui trace les pressions d’huile et d’eau connues et extrapolées en fonction de la profondeur. Le point d’intersection des lignes résultantes sur le graphique est le contact huile-eau. Si la pression à des profondeurs particulières de l’huile et de l’eau peut être prédite avec précision, alors le contact huile-eau peut l’être tout autant.
+[21] Un puits producteur de pétrole est foré au sommet du niveau d’huile, un puits d’injection d’eau est foré au sommet du niveau d’eau et un puits d’injection de gaz est foré au sommet du niveau de gaz.
+[22] Le champ pétrolifère Hibernia est divisé en « blocs » qui sont désignés par des lettres ou par des lettres et des chiffres. Normalement, un bloc est une zone d’un champ pétrolifère délimitée par des failles et nécessite la présence de puits de production et d’injection distincts pour extraire le pétrole de ce bloc [6] . Une représentation graphique des blocs du champ pétrolifère Hibernia se trouve à la page 11 de l’onglet 5B du RCD [7] .
+[23] D’un point de vue géologique, le prolongement sud du champ pétrolifère Hibernia comprend les blocs DD, Z, AA1, AA2, AA2, GG1, GG2, KK, LL, MM et NN [8] . À la fin de 2005, seuls les blocs DD et Z avaient fait l’objet d’un forage de puits [9] .
+[24] La pression de l’eau ou de l’huile dans un bloc peut être ou ne pas être la même que celle de l’eau ou de l’huile dans un bloc adjacent. Si le fluide dans un bloc « communique » avec le même fluide dans un bloc adjacent, la pression de ce fluide dans chaque bloc est équilibrée. La communication est le processus par lequel un fluide se déplace d’un bloc à l’autre. Le mouvement peut être minime et s’étaler sur des centaines de milliers d’années (les grandes échelles de temps sont appelées temps géologiques) [10] .
+[25] Avant 2005, la décision a été prise de mettre en valeur le bloc DD du champ pétrolifère Hibernia, et deux puits d’exploitation ont été forés dans ce bloc, un puits producteur de pétrole et un puits d’injection d’eau. Le puits du producteur de pétrole a d’abord été foré et a montré une pression d’huile plus élevée que ce à quoi on aurait pu s’attendre avec les données existantes et les techniques d’interprétation traditionnelles. Au début de 2005, le puits d’injection d’eau (B16-50) a été foré jusqu’à 4 330 mètres sous le fond marin, où l’on s’attendait à trouver de l’eau à la lumière des données de pression existantes et des techniques d’interprétation traditionnelles. Cependant, le puits d’injection d’eau ne montrait que du pétrole recouvrant un rocher à cette profondeur (c.-à-d. qu’il y avait du pétrole jusqu’à au moins 4 330 mètres sous le fond marin) [11] .
+[26] Les travaux sur l’ACR en cause dans les présents appels ont commencé par une réunion d’une semaine convoquée par M. Vrolijk au début de janvier 2005, qui a défini la portée du projet et prédit un résultat pour le puits B16-50, qui était alors en forage. Une deuxième réunion d’une semaine s’est tenue en février, au cours de laquelle les résultats du puits B16-50 étaient disponibles. Les résultats ont confirmé les prévisions qui avaient été faites lors de la réunion de janvier. Cela a conduit à l’étude détaillée d’une nouvelle théorie de modélisation de l’ACR [12] . Les éléments de l’enquête sont décrits en termes généraux au paragraphe 70 de l’ECPF.
+[27] EMCHCL a demandé sa part des dépenses engagées dans le cadre de l’enquête sur l’ACR à titre de dépenses de RS & DE et le ministre a approuvé ces dépenses à ce titre. L’approche nouvelle/améliorée de l’ACR prévoyait que le contact huile-eau dans les blocs situés dans le prolongement sud du champ pétrolifère Hibernia (le « prolongement sud d’Hibernia ») pourrait se produire jusqu’à 4 800 mètres de profondeur, d’après une pression d’huile commune prévue entre les blocs DD, Z, AA1, AA2, GG1, GG2, KK, LL, MM et NN [13] et un aquifère quasi hydrostatique commun [14] . Avant les prévisions de l’ACR en 2005, personne n’avait prévu la présence importante de pétrole dans le prolongement sud d’Hibernia en dessous du contact huile-eau à 4 000 mètres prévu précédemment [15] .
+[28] L’emplacement du puits B16-54 a été choisi parce qu’il nécessitait le moins de forage (c’est-à-dire la plus courte longueur de puits) pour obtenir les données recherchées [16] . Pour obtenir la permission de forer le puits B16-54 ainsi que l’autorisation de financement, une présentation a été préparée à l’intention de la direction [17] . La diapositive 2 de la présentation, intitulée « Sommaire pour la direction », indique ce qui suit :
+CHAMP D’APPLICATION
+- Forer et abandonner un puits sauvage en champ proche de 8 175 m (27 000 pi) de PM dans le bloc MM d’Hibernia pour un coût total de 43,1 M$ CA (autorisation de dépenser) [ADD].
+- Le puits sauvage en champ proche MM1 sera immédiatement dévié vers l’emplacement OPGG1. Le développement du bloc GG1 fait l’objet d’une décision en matière de financement distincte.
+- La date prévue pour le lancement du puits sauvage en champ proche MM1 est juillet 2005 à partir de l’installation de forage est.
+OBJECTIFS PRINCIPAUX
+- Définir le contact huile-eau dans le prolongement sud d’Hibernia en pénétrant les cibles du réservoir principal des couches 2 et 3 entre 4 500 et 4 800 m (14 764-15 748 pi) de profondeur verticale réelle [PVR]; tester le contact le plus profondément possible.
+- Écarter les risques associés à la suffisance des volumes pour déterminer la viabilité économique de la modernisation des installations de la plateforme ou d’un projet d’injection d’eau sous-marine de 11 puits.
+- Obtenir des carottes et des échantillonneurs de fluides pour caractériser les propriétés des réservoirs en profondeur afin d’optimiser les développements futurs.
+MESURES INCITATIVES
+- La capture d’huile de stockage en place (STOOIP) du puits sauvage en champ proche MM1 avec accroissement du risque est de 170 Mb dans un maximum de 6 blocs faillés.
+- Le coût unitaire de mise en valeur avec risque du développement du prolongement sud d’Hibernia est de 4 à 5 milliards de dollars canadiens.
+- Respecte l’engagement de la licence d’exploration 1093 de 8 millions de dollars canadiens.
+QUESTIONS
+- La profondeur du contact huile-eau du prolongement sud d’Hibernia est actuellement inconnue, mais le puits sauvage en champ proche du bloc MM1 testera un intervalle de PVR de 4 500 à 4 800 m (de 14 764 à 15 748 pi). L’ACR et les données tirées du puits sauvage en champ proche du bloc MM écartent explicitement le risque associé au prolongement sud d’Hibernia.
+- L’ampleur de la dégradation de la qualité potentielle du réservoir (perméabilité et porosité) en fonction de la profondeur sera mieux comprise par l’acquisition de billes et de carottes.
+[29] Chevron, l’un des propriétaires d’Hibernia, a soulevé des préoccupations concernant le forage du puits B16-54. Ces préoccupations ont été discutées dans un courriel daté du 28 juin 2005, adressé à Paul Gremell de Chevron par Mark P. Evans, gestionnaire du réservoir pour Hibernia. Ce courriel faisait suite à un courriel antérieur de M. Gremell à M. Eastwood et à Mark P. Evans, dont une copie a été envoyée à M. Eastwood, qui a déclaré qu’il avait contribué à la création du courriel [18] .
+[30] En réponse à la préoccupation de M. Gremell selon laquelle le puits B16-54 n’était pas le premier puits optimal dans le prolongement sud d’Hibernia, Mark Evans affirme ce qui suit :
+[traduction]
+Le puits sauvage en champ proche MM est positionné de manière à éliminer les risques de contact huile-eau pour tous les blocs faillés du prolongement sud d’Hibernia (à l’exclusion du bloc EE). Notre analyse a mis à profit non seulement l’expertise interne de HMDC, mais aussi celle d’ExxonMobil Upstream Research, et a été examinée par ExxonMobil Production Company et ExxonMobil Development Company. Le puits a été conçu pour échantillonner explicitement l’aquifère régional, en forant jusqu’à des PVR de 4 800 m. En pénétrant le sommet de la couche 2 d’Hibernia à des PVR de 4 500 m, on maximisera la probabilité de rencontrer explicitement le contact huile-eau du prolongement sud d’Hibernia. Notre interprétation fondée sur la juxtaposition des couches 2/3 d’Hibernia (en s’appuyant sur la nouvelle migration profondeur avant sommation anisotrope (APSDM)) est qu’un aquifère continu est partagé par tous les blocs du prolongement sud d’Hibernia. De plus, nous interprétons une seule colonne d’huile continue à l’échelle du prolongement sud d’Hibernia (à l’exception du bloc EE). Nous considérons qu’il s’agit d’un investissement stratégique qui permettra de prendre des décisions à court terme en temps opportun et avec un meilleur ensemble de renseignements. De plus, nous considérons ces coûts comme un investissement global permettant d’optimiser le développement du prolongement sud d’Hibernia. Nous convenons que le volume de pétrole dans le bloc MM peut être potentiellement faible par rapport à d’autres blocs, mais cela aussi sera déterminé à partir du puits sauvage en champ proche. Il convient de noter que le puits sauvage en champ proche du bloc MM aura une incidence importante sur la détermination des réserves probables (~500 MBO d’huile de stockage en place) pour la base de ressources d’Hibernia, et la voie d’évitement subséquente vers l’emplacement OPGG1 servira de base aux réserves prouvées (selon les directives de la SEC). Par conséquent, on ne saurait sous-estimer l’importance stratégique de la définition de la base de ressources et de ses incidences sur les options de développement [19] .
+[Non souligné dans l’original.]
+[31] En réponse à la préoccupation de M. Gremell selon laquelle il n’y avait aucun avantage économique à accélérer d’un an la délimitation du prolongement sud d’Hibernia, Mark Evans déclare, en partie, ce qui suit :
+[traduction]
+Le puits sauvage en champ proche du bloc MM offre à la fois des mesures incitatives économiques à court terme et une valeur stratégique. La valeur stratégique du puits sauvage en champ proche du bloc MM est essentielle, notamment parce qu’elle nous permet d’optimiser et d’accélérer la planification du développement du prolongement sud d’Hibernia et l’engagement de la LE 1093. Notre évaluation initiale a révélé que l’injection d’eau sous-marine était potentiellement économique selon des hypothèses optimistes. La réduction des risques associés au contact huile-eau d’ici la fin de l’année 2005 est nécessaire pour préserver cette option. L’aspect économique du dégoulottage de la plateforme, selon un scénario de réussite risquée, montre à la fois un bénéfice d’accélération par des augmentations à court terme des taux de pétrole d’environ 20 000 barils de pétrole par jour et des réserves de capture dues à la vaporisation de pétrole supplémentaire dans le cycle du gaz. Cette analyse est en voie d’être finalisée dans le cadre de notre processus de planification des activités liées aux actifs, mais il est clair que la pleine compréhension de l’étendue du potentiel des réserves du prolongement sud d’Hibernia permet de prendre des décisions opportunes pour optimiser la mise en valeur.
+[. . .]
+En ce qui concerne les autres options liées aux puits de forage, nous considérons le forage OPGG1 comme le prochain puits présentant une option sûre du point de vue du contact avec le pétrole, mais il ne fournit aucun renseignement supplémentaire important concernant les ressources du prolongement sud d’Hibernia. Il faudrait que le puits attende son injecteur d’eau complémentaire dont le calendrier ne peut être accéléré davantage en raison de sa complexité (plus de 9 mois pour les articles longs en plomb, ~9 km de PM et 4,7 km de PVR, et 57 M$ CA). L’emplacement optimal de l’injecteur d’eau du bloc GG dépend également des connaissances en matière de contact huile-eau acquises par rapport au puits sauvage en champ proche du bloc MM. Nous avons travaillé récemment sur le calendrier de forage pour nous permettre de maintenir des volumes de production essentiellement stables à très court terme (à l’exclusion des temps d’arrêt) tout en faisant progresser de façon dynamique le développement du prolongement sud d’Hibernia [20] .
+[Non souligné dans l’original.]
+[32] Le document intitulé « Autorisation de dépenser » (ADD) daté du 27 juin 2005 a approuvé la dépense de 43 090 000 $ pour le forage du puits B16-54 qui ne comprend pas la voie d’évitement proposée [21] . Ce qui suit est indiqué sous la rubrique DESCRIPTION DE L’ADD :
+[traduction]
+Le puits NFWMM1 cible le réservoir Hibernia dans l’engagement 1093 du PE. Une fois le forage et l’évaluation terminés, le puits de forage du bloc MM sera abandonné et le puits sera dévié. [22]
+[33] Le PE 1093 était un permis d’exploration délivré par l’Office Canada-Terre-Neuve des hydrocarbures extracôtiers (l’« OCTHE ») qui entrait en vigueur le 15 janvier 2005 [23] . M. Eastwood a témoigné que le permis était garanti par les propriétaires d’Hibernia (désignés collectivement dans le permis comme le « titulaire » et individuellement comme les « indivisaires ») parce que, dans le meilleur des cas, une partie du pétrole dans le prolongement sud d’Hibernia pourrait autrement se trouver sur des terres appartenant toujours à la Couronne [24] . La décision d’acquérir le PE 1093 doit avoir été prise en 2004 avant le début de l’ACR de 2005 puisque le permis est daté du 15 janvier 2005 et que son acquisition a nécessité un processus de soumission [25] .
+[34] Les articles 4 et 5 du PE 1093 énoncent ce qui suit :
+[traduction]
+4. EXIGENCES DE LA LICENCE
+Une condition préalable au début de la période II de la durée de la licence est que les exigences de la licence décrites à l’article 3 de l’annexe III soient satisfaites dans le délai qui y est précisé. Si cette condition préalable n’est pas respectée, les terres, autres que les terres converties en une attestation de découverte importante ou en une licence de production importante, seront restituées à la Couronne sans autre avis à la fin de la période I de la durée de la licence.
+5. DÉPÔTS
+1. Le titulaire doit faire le ou les dépôts exigés aux termes des présentes, selon la forme que l’Office juge satisfaisante, et selon le montant, le cas échéant, prévu à l’annexe III.
+2. Lorsqu’un dépôt a été effectué par les indivisaires et que l’Office a déterminé que les exigences et les obligations pour lesquelles le dépôt a été effectué ont été respectées, l’Office ordonne que le dépôt soit remboursé.
+[35] L’annexe III de la LE 1093 stipule, en partie, ce qui suit :
+1. DURÉE
+La date d’entrée en vigueur de la présente licence est le 15 janvier 2005. La présente licence est d’une durée de neuf (9) ans et se compose de deux périodes appelées période I et période II. La période I commence à la date d’entrée en vigueur. La période II suit immédiatement la période I.
+a) La période I est une période de cinq (5) ans commençant à la date d’entrée en vigueur de la présente licence, de la manière indiquée ci-dessous. Cette période peut être prolongée d’un an si un dépôt de forage est remis avant la fin de la cinquième année.
+b) La période II suit immédiatement la période I et comprend le reste de la durée de la présente licence.
+c) Afin de valider la présente licence pour la période II, le forage d’un puits doit être entrepris au cours de la période I et poursuivi avec diligence jusqu’à sa résiliation, conformément aux bonnes pratiques de l’industrie pétrolière. Si cette exigence n’est pas respectée, la licence sera résiliée à la fin de la première période.
+d) Le puits de validation doit tester adéquatement une cible géologique valide qui doit être déclarée à l’Office par le titulaire avant le début du forage.
+e) À l’expiration de la période II, la présente licence prendra fin et toutes les terres seront restituées à la Couronne, sauf celles qui ont été converties en une attestation de découverte importante ou en une licence de production.
+f) Si le forage d’un puits a été entrepris avant l’expiration de la présente licence, la présente licence demeurera en vigueur pendant que le forage de ce puits se poursuit avec diligence et aussi longtemps qu’il sera nécessaire pour déterminer l’existence d’une découverte importante d’après les résultats du forage de ce puits.
+[. . .]
+3. EXIGENCES DE LA LICENCE
+Le titulaire doit, avant la fin de la période I de la durée de la licence, avoir foré un ou plusieurs puits sur les terres et les avoir exploités avec diligence, conformément aux bonnes pratiques de l’industrie pétrolière.
+[36] L’article 4 de l’annexe III exigeait que les indivisaires fournissent un dépôt de garantie de 2 031 375 $ avant l’émission de la LE 1093. Les indivisaires ont reçu un crédit sur le dépôt de 25 % des dépenses admissibles. Selon l’article 6 de l’annexe III, les dépenses admissibles pour une année sont les dépenses totales pour cette année selon des taux stipulés qui comprennent un montant de 600 000 $ par jour pour le forage de puits.
+[37] M. Eastwood a témoigné que le puits B16-54 n’avait pas été foré pour satisfaire aux exigences de la LE 1093. Il a déclaré qu’on s’attendait à ce que le puits B16-54 coûte 43 millions de dollars, mais que la responsabilité aux termes de la LE 1093 ne représentait que le montant du dépôt [26] .
+[38] Le forage du puits B16-54 a débuté le 1er août 2005. Le puits a été foré jusqu’à une profondeur verticale de 4 600 mètres, puis le trépan de forage s’est « détaché » du fond du puits et a disparu [27] . Cela a empêché de poursuivre le forage du puits prévu à l’origine. En février 2006, une ADD supplémentaire a été demandée pour financer un projet de déviation par rapport à l’objectif initial du puits B16-54 [28] .
+[39] Au total, trois tentatives de déviation ont été faites, mais seule la troisième, qui a foré directement à partir de l’emplacement de la dérivation, a obtenu un certain succès, en ce sens qu’elle a permis d’obtenir une mesure de pression et certains matériaux du noyau [29] . Ces renseignements étaient toutefois suffisants pour établir que du pétrole était présent à cette profondeur et que la pression d’huile dans le bloc MM correspondait à la pression d’huile dans les blocs DD et Z [30] .
+[40] M. Eastwood a témoigné que le puits B16-54 a été foré pour tester les prévisions de contact huile-eau faites par la nouvelle ACR et pour valider le modèle d’ACR [31] . M. Vrolijk a déclaré que le puits B16-54 a fourni une validation expérimentale considérable de la méthode de l’ACR [32] .
+III. Analyse
+A. La question de la déduction relative à des ressources
+[41] Dans le jugement Cameco Corporation c. La Reine, 2018 CCI 195 (« Cameco »), j’ai résumé le régime de déduction relative aux ressources désormais abrogé de la façon suivante :
+[858] Pour les années d’imposition se terminant avant 2007, la LIR permettait généralement aux contribuables de demander une déduction relative à des ressources à l’égard du revenu tiré de certaines activités de production et de transformation de ressources naturelles. Plus précisément, l’ancien alinéa 20(1)v.1) prévoyait que, dans le calcul du revenu d’un contribuable provenant d’une entreprise ou d’un bien pour une année d’imposition donnée, il était possible de déduire le montant permis par règlement relativement, notamment, aux ressources minérales au Canada. Parallèlement, l’alinéa 18(1)m) interdisait la déduction des redevances, impôts et autres sommes payés à un gouvernement fédéral ou provincial, à un mandataire ou à une entité du Canada relativement à l’acquisition, à l’aménagement ou à la propriété d’un avoir minier canadien, ou à la production au Canada, entre autres, de métaux, de minéraux ou de charbon à partir de ressources minérales situées au Canada (jusqu’à un stade qui ne dépasse pas celui du métal primaire ou son équivalent).
+[859] Le règlement mentionné à l’alinéa 20(1)v.1) se trouve à la partie XII du RIR. La déduction relative à des ressources est calculée selon un processus en plusieurs étapes : premièrement, il faut calculer les « bénéfices bruts relatifs à des ressources » aux termes du paragraphe 1204(1) du RIR; deuxièmement, il faut calculer les « bénéfices relatifs à des ressources » conformément au paragraphe 1204(1.1) du RIR; troisièmement, il faut calculer les « bénéfices modifiés relatifs à des ressources » aux termes du paragraphe 1210(2) du RIR; enfin, il faut calculer la déduction relative à des ressources en multipliant par 25 % les bénéfices modifiés relatifs à des ressources du contribuable, conformément au paragraphe 1210(1) du RIR.
+[860] Pour les années postérieures à 2002 et antérieures à 2007, l’alinéa 20(1)v.1) permettait une déduction égale à un pourcentage de la déduction relative à des ressources calculée conformément au paragraphe 1210(1) du RIR. La déduction relative à des ressources a été éliminée pour les années postérieures à 2006.
+[42] L’intimée soutient qu’une partie du revenu de l’appelante provenant de la vente du pétrole du champ Hibernia n’est pas admissible à la déduction relative aux ressources. Le calcul par l’intimée de la partie controversée est fondé sur les coûts du SCM [33] . Je note qu’aux fins de la présente analyse, le terme « SCM » désigne non seulement le système de chargement lui-même, mais aussi les conduites qui relient le SCM à la structure-poids. L’ensemble du système est représenté graphiquement aux figures 1 à 5 de l’ECPF.
+[43] Le paragraphe 1204(1) du RIR définit les « bénéfices bruts relatifs à des ressources ». Les éléments de cette définition pertinents à la présente analyse se trouvent aux sous-alinéas 1204(1)b)(i), (v) et (vi), qui comprennent les « bénéfices bruts relatifs à des ressources » :
+b) du montant, s’il en est, de l’ensemble de ses revenus pour l’année tirés
+(i) de la production de pétrole, de gaz naturel ou d’hydrocarbures connexes, ou de soufre, extraits, selon le cas :
+(A) de puits de pétrole ou de gaz que le contribuable exploite au Canada,
+(B) de gisements naturels (sauf des ressources minérales) de pétrole ou de gaz naturel situés au Canada et exploités par le contribuable,
+[. . .]
+(v) du traitement au Canada du pétrole brut lourd extrait d’un puits de pétrole ou de gaz au Canada jusqu’à un stade qui ne dépasse pas le stade du pétrole brut ou son équivalent,
+(vi) du traitement préliminaire au Canada [34] [...]
+[44] Il est reconnu depuis longtemps que l’alinéa 1204(1)b) du RIR fait référence aux sources de revenu qui découlent des activités décrites aux sous-alinéas 1204(1)b)(i) à (vi). Dans le jugement Echo Bay Mines Ltd. c. Canada, [1992] 3 C.F. 707 (CFPI) (« Echo Bay »), la Cour a observé :
+À la lecture du paragraphe 1204(1), je note qu’il serait plus fidèlement représenté par un extrait plus complet des mots servant à définir « bénéfices relatifs à des ressources » que l’extrait cité par la défenderesse. Ainsi, ces bénéfices sont définis, en partie à l’alinéa b), comme le montant [. . .] de l’ensemble de [. . .] revenus [. . .] tirés de la production au Canada [. . .] de métaux ou de minéraux » [jusqu’à un stade qui ne dépasse pas le stade du métal brut]. L’emploi des mots « ensemble » et « revenus », et l’inclusion implicite [...] du « revenu [. . .] qui est le résultat du transport, du convoiement ou du traitement » [jusqu’à un stade qui ne dépasse pas celui du métal brut] pour ce qui est des métaux et minéraux visés à l’alinéa 1204(1)b), signifient l’un et l’autre que le revenu de « production » peut provenir de diverses activités à condition que celles-ci fassent partie intégrante des opérations de production. Or la production n’engendre d’elle-même aucun revenu s’il n’y a pas de vente. Les opérations qui peuvent raisonnablement être reliées à la commercialisation du produit et qui sont entreprises pour garantir que celui-ci soit vendu à un prix satisfaisant, pour produire un revenu avec espoir de bénéfices, sont à mes yeux des activités faisant partie intégrante de la production qui vise à rapporter un revenu et des bénéfices relatifs à des ressources au sens du paragraphe 1204(1) du Règlement [35] .
+[Non souligné dans l’original.]
+[45] La position de l’intimée se résume de la façon suivante :
+[TRADUCTION] L’activité principale de production, soit l’extraction du pétrole du sol, a cessé à la tête de puits. D’autres activités, dans la mesure où il s’avère qu’elles génèrent des revenus de production, sont des activités sources. Le transport du pétrole brut commercialisable de la plateforme jusqu’aux pétroliers constitue une telle activité, et tout revenu qui en est tiré est correctement soustrait du revenu de production par l’exception prévue à l’alinéa 1204(3)a) [36] .
+[46] L’alinéa 1204(3)a) du RIR dispose :
+(3) Sont exclus du revenu ou de la perte d’un contribuable provenant d’une source visée à l’alinéa (1)b) :
+a) le revenu ou la perte provenant du transport, de la transmission ou du traitement (sauf celui visé aux divisions (1)b)(ii)(C), (iii)(C) ou (iv)(C) ou aux sous-alinéas (1)b)(v) ou (vi)) de pétrole, de gaz naturel ou d’hydrocarbures connexes, ou de soufre, provenant d’un gisement naturel de pétrole ou de gaz naturel;
+[47] Pour que l’alinéa 1204(3)a) du RIR joue, deux conditions doivent être réunies.
+[48] Premièrement, le revenu ou la perte provenant du transport de pétrole provenant d’un gisement naturel de pétrole doit être inclus dans le revenu du contribuable provenant des sources de revenu visées par l’alinéa 1204(1)b). Étant donné que ce texte ne vise pas le transport de pétrole provenant d’un gisement naturel de pétrole, pour que le revenu ou la perte découlant de cette activité soit inclus dans les bénéfices bruts relatifs à des ressources, le transport ou la transmission du pétrole doit être intégré ou suffisamment lié aux activités décrites aux sous-alinéas 1204(1)b)(i), (v) et (vi) [37] .
+[49] Deuxièmement, le contribuable doit avoir un revenu ou une perte provenant du transport ou de la transmission du pétrole provenant d’un gisement naturel de pétrole. À mon avis, le mot « provenant » [38] signifie que le revenu ou la perte doit exister non pas parce que le transport ou la transmission du pétrole provenant d’un gisement naturel de pétrole était nécessaire pour vendre le pétrole, mais parce que le transport ou la transmission du pétrole en lui-même a généré un revenu ou une perte. À mon avis, cette interprétation est conforme à l’objet de la déduction relative aux ressources que le gouvernement fédéral a instaurée en 1976 pour accorder une déduction dans le calcul du revenu compte tenu du fait que les provinces exigent des impôts ou des redevances à l’égard des ressources provinciales [39] .
+[50] Les appelants ont transporté/transmis du pétrole brut sur une distance d’environ deux kilomètres entre la structure-poids et les pétroliers-navettes, en utilisant le SCM. Le pétrole brut a été transporté/transmis de cette manière aux pétroliers-navettes parce que, pour des raisons liées à la sécurité et à la protection de l’environnement, le pétrole stocké dans les cellules de stockage de la structure-poids ne pouvait être chargé directement à partir de ces cellules de stockage sur les pétroliers-navettes. Le pétrole brut a changé de propriétaire au fur et à mesure qu’il était chargé sur les pétroliers-navettes. Il a ensuite été expédié soit directement à une raffinerie acheteuse, soit à Whiffen Head pour être expédié de nouveau à une raffinerie.
+[51] Dans les circonstances, je n’ai aucune difficulté à conclure que le transport/la transmission du brut de la structure-poids aux pétroliers-navettes était suffisamment lié à la commercialisation du pétrole brut pour être considéré comme faisant partie intégrante de la production du pétrole brut aux fins de l’application de l’alinéa 1204(1)b) du RIR. La question est donc de savoir si les appelantes ont tiré de cette activité un revenu qui doit être exclu de leurs bénéfices bruts relatifs à des ressources en vertu de l’alinéa 1204(3)a).
+[52] Il ressort de la preuve que le seul revenu réalisé par les copropriétaires à partir de la production de pétrole brut était le revenu tiré de la vente du pétrole brut aux raffineries. Le paragraphe 56 de l’ECPF indique que « [l] prix du pétrole brut est établi en fonction de la quantité d’essence, de carburéacteur, de carburant diesel et de mazout de chauffage qui peut en être tiré ».
+[53] L’avocat de l’intimée soutient que l’emploi du mot « provenant » à l’alinéa 1204(3)a) signifie que les appelantes n’ont pas besoin de recevoir un revenu du transport ou de la transmission du pétrole de la structure-poids aux pétroliers-navettes et que l’emploi du mot « any » en anglais élargit la portée de l’alinéa 1204(3)a). L’Agence a remédié à l’absence de revenu réel en calculant le revenu des appelantes provenant du transport ou de la transmission du pétrole brut de la structure-poids aux pétroliers-navettes en fonction des coûts liés au SCM [40] . Implicitement, l’Agence traite le montant ainsi calculé comme inclus dans le revenu de l’appelante provenant de la production en application de l’alinéa 1204(1)b) et l’applique ensuite à ce revenu tiré des bénéfices bruts relatifs à des ressources en application de l’alinéa 1204(3)a).
+[54] Il ne fait aucun doute que le SCM a permis aux copropriétaires du pétrole brut d’expédier ce pétrole brut sur le marché afin que le revenu puisse être tiré de la vente du pétrole brut. Toutefois, le revenu réalisé par les copropriétaires de la vente du pétrole brut provenait uniquement de la valeur marchande du pétrole brut. Le SCM n’a eu aucune incidence, d’une façon ou d’une autre, sur le montant des revenus réalisés par les copropriétaires grâce à la vente du pétrole brut Hibernia et n’a en soi généré aucun revenu ni aucune perte pour les copropriétaires. Par conséquent, il n’y a aucun revenu provenant du transport ou de la transmission de pétrole auquel l’alinéa 1204(3)a) peut s’appliquer. L’emploi du mot « any » n’exige pas la déduction des revenus provenant du transport ou de la transmission de pétrole brut lorsqu’il n’existe en fait aucun revenu provenant du transport ou de la transmission de pétrole brut.
+[55] En résumé, l’alinéa 1204(3)a) visait à faire en sorte que le revenu supplémentaire tiré du transport ou de la transmission du pétrole brut ne fasse jouer la déduction relative aux ressources. Ce texte ne visait pas à réduire le revenu du contribuable tiré de la production de pétrole brut lorsque ce revenu reflète uniquement la valeur marchande du pétrole brut [41] .
+[56] Pour les motifs qui précèdent, les appels interjetés par les appelantes relativement à la question de la déduction relative à des ressources sont accueillis.
+B. La question relative aux activités de recherche scientifique et de développement expérimental
+[57] Durant l’année 2005, le puits B16-54 a été foré jusqu’à une profondeur verticale de 4 600 mètres, puis le trépan de forage s’est « détaché » du fond du puits et est disparu. La principale question est de savoir si la part d’EMCHCL dans le coût du forage du puits B16-54 en 2005 constitue une dépense relative à des activités de recherche scientifique et de développement expérimental. L’ECPF indique que le coût du forage du puits B16-54 en 2005 était de 40 964 305 $ et que la part d’EMCHCL dans ce coût était de 2 048 215 $ [42] .
+[58] L’expression « activités de recherche scientifique et de développement expérimental » (« RS & DE ») est définie au paragraphe 248(1) de la LIR de la façon suivante :
+activités de recherche scientifique et de développement expérimental Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+a) la recherche pure, à savoir les travaux entrepris pour l’avancement de la science sans aucune application pratique en vue;
+b) la recherche appliquée, à savoir les travaux entrepris pour l’avancement de la science avec application pratique en vue;
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+Pour l’application de la présente définition à un contribuable, sont compris parmi les activités de recherche scientifique et de développement expérimental :
+d) les travaux entrepris par le contribuable ou pour son compte relativement aux travaux de génie, à la conception, à la recherche opérationnelle, à l’analyse mathématique, à la programmation informatique, à la collecte de données, aux essais et à la recherche psychologique, lorsque ces travaux sont proportionnels aux besoins des travaux visés aux alinéas a), b) ou c) qui sont entrepris au Canada par le contribuable ou pour son compte et servent à les appuyer directement.
+Ne constituent pas des activités de recherche scientifique et de développement expérimental les travaux relatifs aux activités suivantes :
+e) l’étude du marché et la promotion des ventes;
+f) le contrôle de la qualité ou la mise à l’essai normale des matériaux, dispositifs, produits ou procédés;
+g) la recherche dans les sciences sociales ou humaines;
+h) la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production;
+i) la production commerciale d’un matériau, d’un dispositif ou d’un produit nouveau ou amélioré, et l’utilisation commerciale d’un procédé nouveau ou amélioré;
+j) les modifications de style;
+k) la collecte normale de données.
+[59] La jurisprudence a cerné cinq critères utiles pour déterminer si une activité constitue une activité de RS & DE :
+1) Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes?
+2) La personne qui soutient faire de la RS & DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+3) La procédure adoptée était-elle complètement conforme à la rigueur de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+4) Le processus a-t-il abouti à un progrès technologique?
+5) Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l’avancement des travaux [43] ?
+[60] L’appelante soutient que le forage du puits B16-54 constituait une activité de RS & DE parce qu’il a permis de valider expérimentalement les prédictions faites à l’aide de la méthode nouvelle ou améliorée de l’ACR élaborée par Upstream Research Company.
+[61] L’intimée soutient que le forage du puits B16-54 visait à délimiter le champ pétrolifère dans le prolongement sud d’Hibernia et à satisfaire aux exigences de la LE 1093 et que l’alinéa h) de la définition d’activité de RS & DE exclut le forage de pétrole, ce qui est conforme au fait que le coût des puits pétroliers est visé par les définitions des « frais d’exploration au Canada » (« FEC ») et des « frais d’aménagement au Canada (« FAC ») aux paragraphes 66.1(6) et 66.2(5) respectivement de la LIR.
+[62] Pour appuyer sa thèse, l’appelante a soumis les rapports d’expertise de M. Fairchild et pour appuyer la sienne, l’intimée a soumis les rapports d’expertise du professeur Gringarten [44] . Bien que ces rapports fournissent des renseignements techniques intéressants, ils n’offrent qu’une aide limitée en ce qui concerne la question de savoir si le forage du puits B16-54 constitue une activité de RS & DE. De plus, dans la mesure où les rapports d’experts tentent de discuter directement cette question, j'ai à l'esprit la mise en garde suivante professée par la Cour suprême du Canada dans l'arrêt R. c. Mohan, [1994] 2 R.C.S. 9, dans le cadre de sa discussion sur la nécessité de la preuve par expert :
+Il y a également la crainte inhérente à l’application de ce critère que les experts ne puissent usurper les fonctions du juge des faits. Une conception trop libérale pourrait réduire le procès à un simple concours d’experts, dont le juge des faits se ferait l’arbitre en décidant quel expert accepter.
+Ces préoccupations sont le fondement de la règle d’exclusion de la preuve d’expert relativement à une question fondamentale. Bien que la règle ne soit plus d’application générale, les préoccupations qui la sous-tendent demeurent. En raison de ces préoccupations, les critères de pertinence et de nécessité sont à l’occasion appliqués strictement pour exclure la preuve d’expert sur une question fondamentale [45] .
+[63] Cette problème peut être discuté à tout moment au cours de l’appel. Dans l'arrêt R. c. Sekhon, 2014 CSC 15, [2014] 1 R.C.S. 272, le juge Moldaver a observé au paragraphe 46 :
+Compte tenu des craintes exprimées concernant l’incidence éventuelle du témoignage d’un expert sur l’issue d’un procès — y compris le risque que l’expert usurpe la fonction du juge des faits —, le juge du procès doit veiller à bien encadrer l’expert et à dûment circonscrire son témoignage. Même si le risque est accru dans le cas d’un procès devant jury, le juge, y compris celui qui siège seul, a l’obligation de toujours faire en sorte que le témoignage de l’expert respecte les limites établies. Il ne suffit pas qu’il tienne compte des critères de l’arrêt Mohan au début du témoignage de l’expert et qu’il rende une décision initiale quant à l’admissibilité de la preuve. Il doit faire en sorte que, tout au long de son témoignage, l’expert respecte les limites établies à l’égard d’une telle preuve. [. . .]
+[64] Cela dit, je constate que deux observations du professeur Gringarten constituent un cadre utile à la question faisant l’objet de l’appel :
+[traduction]
+[. . .] Quoi qu’il en soit, la validation d’un modèle de réservoir ne peut s’appuyer sur un seul puits, mais provient de l’accumulation des preuves relatives à une série de puits [46] .
+[. . .]
+Tous les puits sont forés en s’appuyant sur des études de caractérisation et de connectivité des réservoirs et, tous les puits, du puits sauvage au puits d’appréciation, en passant par le puits de délimitation et le puits de développement, apportent des connaissances qui sont utilisées pour améliorer le modèle de réservoir et en réduire les incertitudes [47] .
+[65] Les principaux objectifs, mesures incitatives et questions à l’égard du puits B16-54 sont décrits de la façon suivante dans l'allocution à la direction datée du 16 juin 2005 :
+OBJECTIFS PRINCIPAUX
+- Définir le contact huile-eau dans le prolongement sud d’Hibernia en pénétrant les cibles du réservoir principal des couches 2 et 3 entre 4 500 et 4 800 m (14 764-15 748 pi) de profondeur verticale réelle [PVR]; tester le contact le plus profondément possible.
+- Écarter les risques associés à la suffisance des volumes pour déterminer la viabilité économique de la modernisation des installations de la plateforme ou d’un projet d’injection d’eau sous-marine de 11 puits.
+- Obtenir des carottes et des échantillonneurs de fluides pour caractériser les propriétés des réservoirs en profondeur afin d’optimiser les développements futurs.
+MESURES INCITATIVES
+- La capture d’huile de stockage en place (STOOIP) du puits sauvage en champ proche MM1 avec accroissement du risque est de 170 Mb dans un maximum de 6 blocs faillés.
+- Le coût unitaire de mise en valeur avec risque du développement du prolongement sud d’Hibernia est de 4 à 5 milliards de dollars canadiens.
+- Respecte l’engagement de la licence d’exploration 1093 de 8 millions de dollars canadiens.
+QUESTIONS
+- La profondeur du contact-huile-eau du prolongement sud d’Hibernia est actuellement inconnue, mais le puits sauvage en champ proche du bloc MM1 testera un intervalle de PVR de 4 500 à 4 800 m (de 14 764 à 15 748 pi). L’ACR et les données tirées du puits sauvage en champ proche du bloc MM écartent explicitement le risque associé au prolongement sud d’Hibernia.
+- L’ampleur de la dégradation de la qualité potentielle du réservoir (perméabilité et porosité) en fonction de la profondeur sera mieux comprise par l’acquisition de billes et de carottes [48] .
+[66] Le courriel de Mark P. Evans qui figure à l’onglet 47 du RCD confirme les raisons du forage du puits B16-54, qui visait à faciliter et à accélérer le développement du prolongement sud d’Hibernia, pour lequel la LE 1093 avait été obtenu le 15 janvier 2005 (c’est-à-dire avant que la méthode nouvelle ou améliorée de l’ACR ait été développée).
+[67] Le fait que les données limitées fournies par le puits B16-54, ou plus précisément la voie d’évitement W, appuyaient la prédiction faite à l’aide de la méthode nouvelle ou améliorée de l’ACR ne prouve pas que le puits était une composante de l’activité de RS & DE effectuée pour créer ou améliorer cette méthode. Le fait que le choix du puits B16-54 se soit imposé pour obtenir le plus grand nombre de données au moindre coût n’est pas non plus une preuve que le puits était une composante de l’activité de RS & DE effectuée pour créer/améliorer la méthode de l’ACR. Ces deux faits sont également compatibles avec le forage du puits B16-54 qui visait à faciliter et à accélérer le développement du prolongement sud d’Hibernia, comme l’indiquent les documents aux onglets 42 et 47 du RCD.
+[68] La méthode nouvelle ou améliorée de l’ACR prévoyait l’existence d’importantes quantités de pétrole dans le prolongement sud d’Hibernia. Tout puits foré dans le prolongement sud après cette prévision pouvait potentiellement fournir des données pertinentes pour évaluer l'exactitude de cette prévision. Cependant, selon le bon sens et la réalité commerciale, forcément, le but principal d’un tel puits (même le premier) n’était pas de valider la méthode de l’ACR, mais plutôt d’obtenir des données sur le pétrole dans le prolongement sud. En l’espèce, j’en arrive à la conclusion de fait que le puits B16-54 a été foré pour obtenir des données concernant le pétrole dans le prolongement sud et pour satisfaire aux exigences de la LE 1093. La validation de la méthode de l’ACR était accessoire à ces objectifs. Cette conclusion est conforme au fait qu’il n’y avait aucune preuve permettant de lier le puits B16-54 à la formulation, à la mise à l’essai et à la modification de la méthode de l’ACR [49] .
+[69] Il y a lieu de faire une distinction entre le forage d’un puits classique, basé sur l’emplacement prévu du pétrole, pour déterminer si et dans quelle mesure le pétrole est présent, et la construction d’une usine-pilote pour tester un procédé ou une technologie nouveau ou amélioré. La seconde solution contribue à résoudre l’incertitude technologique associée à la construction d’une centrale à grande échelle, tandis que la première solution fournit accessoirement des données qui concordent ou ne concordent pas avec le résultat prévu par le modèle.
+[70] La conclusion selon laquelle le forage du puits B16-54 ne constituait pas une activité de RS & DE est renforcée et confirmée par l’alinéa d) de la définition d’activité de RS & DE. Cet alinéa inclut dans les activités décrites aux alinéas a) à c) les travaux entrepris en ce qui concerne la collecte de données, à la condition qu’ils soient proportionnés aux besoins de ces activités et servent à les appuyer directement. Toutefois, l’alinéa h) de la définition d’activité de RS & DE exclut les « travaux de prospection relatifs aux activités suivantes : [. . .] « la prospection, l’exploration et le forage fait en vue de la découverte de minéraux, de pétrole ou de gaz naturel et leur production ».
+[71] L’exclusion prévue par l’alinéa h) signifie que les travaux relatifs à la collecte de données qui sont proportionnels à la recherche fondamentale, à la recherche appliquée ou au développement expérimental et qui les appuient ne comprennent pas les travaux qui constituent de la prospection, de l’exploration ou du forage fait en vue de la découverte de pétrole. En l’espèce, le puits B16-54 a été foré pour obtenir des données sur le pétrole présent dans le prolongement sud d’Hibernia. Par conséquent, le forage du puits est exclu de la définition d’activité de RS & DE. Ce résultat est conforme au fait que les dépenses de prospection, d’exploration ou de forage pétrolier sont visées par les définitions des FEC et des FAC.
+[72] Compte tenu de ce qui précède, l’appel interjeté par EMCHCL relativement à la question relative aux activités de RS & DE est rejeté.
+IV. Conclusion
+[73] Les appels interjetés par les appelantes quant à la question portant sur la déduction relative à des ressources sont accueillis et l’appel interjeté par EMCHCL en ce qui a trait à la question relative aux activités de RS & DE est rejeté. Compte tenu du succès mitigé, chaque partie doit assumer ses propres dépens.
+Signé à Ottawa, Canada, ce 7e jour de mai 2019.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 21e jour de février 2020.
+François Brunet, réviseur
+OTC 8402
+OTC 8402
+True North
+Nord géographique
+Platform North
+Plateforme nord
+GBS
+Structure-poids
+GBS Tie-In Spools
+Tronçons de tuyauterie de la structure-poids
+Main Offshore Pipeline North (MOPN)
+Principal pipeline extracôtier nord (PPEN)
+2km – 24” Pipeline
+Pipeline de 2 km – 24 po
+Main Offshore Pipeline South (MOPS)
+Principal pipeline extracôtier sud (PPES)
+OLS Base North
+Base nord du SCM
+OLS Tie-In Spools
+Tronçons de tuyauterie du SCM
+Interconnecting Offshore Pipeline (IOP)
+Pipeline extracôtier d’interconnexion (PEI).
+OLS Base South
+Base sud du SCM
+0.4 Km
+0,4 km
+OLSS- Mops Tie-In Spools
+Tronçons de tuyauterie du PPES du SCM
+160mm Thick Concrete Coating @ 3040 kg/m3
+Revêtement de béton épais de 160 mm à 3 040 kg/m3
+MOPS
+PPES
+9.048 m
+9,048 m
+Total Weight of Tie-In is 68 Tonnes
+Le poids total des tronçons de tuyauterie est de 68 tonnes
+Note: Above figures are approximate.
+Remarque : Les chiffres ci-dessus sont approximatifs.
+Figure 1 – Hibernia Subsea Crude Loading Facilities Layout
+Figure 1 – Aménagement des installations sous-marines de chargement de pétrole d’Hibernia
+Hibernia Subsea Crude Loading Facilities
+Installations sous-marines de chargement de pétrole d’Hibernia
+ROV Access Platform
+Plateforme d’accès du véhicule téléguidé
+Re-Entry Cone
+Cône de réentrée
+19” Connector Hub
+Collet de raccord de 19 po
+Tubular Structure
+Structure tubulaire
+24” Pipe
+Tuyau de 24 po
+Pull-Down Sheaves
+Molettes à enfoncement
+Plate Girder Structure
+Structure à poutres à âme pleine
+Lower Swage Can
+Boîte d’effilement inférieur
+Upper Swage Can
+Boîte d’effilement supérieur
+Pile Cones With Latch-Lok Ring
+Cônes de pieux avec anneaux de verrouillage
+Figure 2 – Isometric of OLS Base
+Figure 2 – Isométrique d’études de la base du SCM
+LINK SEW GOOSENECK
+COL DE CYGNE DE LIAISON
+SWIVEL/ GOOSENECK
+TÊTE D’INJECTION SOUS-MARINE/COL DE CYGNE
+BENDING RESTRICTOR
+DISPOSITIF DE SOLIDIFICATION
+VERTICAL RISER
+TUBE ASCENSEUR VERTICAL
+RISER FOOT
+PIED DU TUBE ASCENSEUR
+LOWER CATENARY RISER
+TUBE ASCENSEUR CATÉNAIRE INFÉRIEUR
+SWIVEL
+TÊTE D’INJECTION
+SUBSURFACE BUOY (SSB)
+BOUÉE SOUTERRAINE
+UPPER CATENARY RISER
+TUBE ASCENSEUR CATÉNAIRE SUPÉRIEUR
+COUPLING HEAD
+TÊTE D’ACCOUPLEMENT
+Figure 3 – Hibernia OLS Riser System
+Figure 3 – Système de tubes ascenseurs du SCM d’Hibernia
+“Operating Condition”
+État de fonctionnement
+OLS Base
+Base du SCM
+Riser Foot
+Pied du tube ascenseur
+Vertical Riser
+Tube ascenseur vertical
+Swivel / Gooseneck
+Tête d’injection sous-marine/col de cygne
+Subsurface Buoy
+Bouée souterraine
+Lower Catenary Riser
+Tube ascenseur caténaire inférieur
+Upper Catenary Riser
+Tube ascenseur caténaire supérieur
+Catenary Swivel
+Tête d’injection caténaire
+Coupling Head
+Tête d’accouplement
+Dynamic Positioning Shuttle Tanker
+Pétrolier-navette au positionnement dynamique
+Seabed
+Fond marin
+[BLANK]
+[BLANK]
+“Idle Condition”
+État de repos
+OLS Base
+Base du SCM
+Riser Foot
+Pied du tube ascenseur
+Vertical Riser
+Tube ascenseur vertical
+Swivel / Gooseneck
+Tête d’injection sous-marine/col de cygne
+Subsurface Buoy
+Bouée souterraine
+Lower Catenary Riser
+Tube ascenseur caténaire inférieur
+Upper Catenary Riser
+Tube ascenseur caténaire supérieur
+Catenary Swivel
+Tête d’injection caténaire
+Coupling Head
+Tête d’accouplement
+Pick-up arrangement
+Dispositif de ramassage
+Seabed
+Fond marin
+Figure 4 – OLS Riser in Operating and Idle Conditions
+Figure 4 – Tube ascenseur du SCM à l’état de fonctionnement et à l’état de repos.
+Length of offshore pipelines from Hibernia platform to offshore loading
+Longueur des pipelines extracôtiers de la plateforme Hibernia du système de chargement en mer
+Figure 5
+Figure 5
+RÉFÉRENCE :
+2019 CCI 108
+NOS DES DOSSIERS DE LA COUR :
+2003-705(IT)G et 2012-1389(IT)G
+INTITULÉS :
+EXXONMOBIL CANADA LTD. c. SA MAJESTÉ LA REINE
+EXXONMOBIL CANADA HIBERNIA COMPANY LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATES DE L’AUDIENCE :
+Du 14 au 17 janvier 2019
+Du 21 au 24 janvier 2019
+Les 28 et 29 janvier 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge John R. Owen
+DATE DU JUGEMENT :
+Le 7 mai 2019
+COMPARUTIONS :
+Avocats de l’appelante :
+Mes Gerald Grenon, David Jacyk et Brynne Harding
+Avocats de l’intimée :
+Mes Rosemary Fincham, Suzanie Chua et Cédric Renaud-Lafrance
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Gerald Grenon
+Cabinet :
+Osler, Hoskin & Harcourt S.E.N.C.R.L., s.r.l.
+Calgary (Alberta)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Les mots « conduites », « conduite » ou « conduite d’aspiration », tels qu’ils figurent dans l’énoncé conjoint partiel des faits, ne constituent pas une admission que telle est la bonne terminologie en ce qui concerne le SCM, qui est controversé entre les parties.
+[2] Au départ, il y avait deux pétroliers-navettes. Le troisième pétrolier navette a été ajouté en 2001 ou 2002. Lignes 19 à 24 de la page 136 du volume 1 de la transcription des appels des appelantes entendus dans la ville de Calgary du 14 au 29 janvier 2019 (la « transcription »).
+[3] Lignes 12 à 18 de la page 120 du volume 1 de la transcription.
+[4] Lignes 27 et 28 de la page 119 et lignes 1 à 7 de la page 120 du volume 1 de la transcription.
+[5] Avis d’expert d’Alain C. Gringarten daté du 8 octobre 2018 (le « rapport Gringarten »), à la page 15 du volume 1.
+[6] Lignes 23 à 28 de la page 180 et lignes 1 à 3 de la page 181 du volume 1 de la transcription.
+[7] De nombreux diagrammes montrant les blocs figurent à l’onglet 5B et ailleurs dans le RCD.
+[8] Lignes 3 à 11 de la page 49 du volume 2 de la transcription.
+[9] Lignes 12 à 27 de la page 49 du volume 2 de la transcription.
+[10] Voir, de façon générale, la section 2 du rapport d’expert de Lee H. Fairchild daté du 19 octobre 2018 (le « rapport Fairchild ») commençant à la page 4, et les pages 20 à 24 du rapport Gringarten.
+[11] Lignes 9 à 28 de la page 15, lignes 1 à 12 et 26 à 28 de la page 16, lignes 1 à 12 de la page 17 et lignes 13 à 22 de la page 96 du volume 2, et lignes 27 et 28 de la page 74 et lignes 1 à 9 de la page 75 du volume 5 de la transcription. Les données du puits ont été obtenues en février 2005 : lignes 14 à 19 de la page 46, lignes 6 à 14 de la page 73, lignes 12 à 28 de la page 74 et lignes 1 à 9 de la page 75 du volume 5 de la transcription.
+[12] Lignes 18 à 28 de la page 29, lignes 1 à 4 de la page 30, ligne 28 de la page 63 et lignes 1 à 12 de la page 64 du volume 2 et lignes 4 à 28 de la page 42, pages 43 et 44, lignes 1 à 4 de la page 45, lignes 14 à 19 de la page 46, lignes 6 à 26 de la page 73 et lignes 5 à 18 de la page 74 du volume 5 de la transcription et onglet 49 du RCD.
+[13] Onglet 42 du RCD aux diapositives 6 et 13 et aux lignes 8 à 18 de la page 46 du volume 2, aux lignes 24 à 28 de la page 79, page 80 et aux lignes 1 à 25 de la page 81 du volume 5 de la transcription. La pression d’huile dans le bloc DD a été déterminée par le puits producteur de pétrole dans ce bloc. De plus, au 16 juin 2005, il n’y avait qu’un seul puits producteur dans le bloc Z : lignes 24 à 28 de la page 52, lignes 1 à 3 de la page 53, lignes 27 à 28 de la page 70, lignes 1 à 7 de la page 71, lignes 23 à 28 de la page 96 et lignes 1 à 25 de la page 97 du volume 2 de la transcription, les diapositives 6 et 13 de l’onglet 42 du RCD et les diapositives 4, 5 et 6 de l’onglet 5A du RCD.
+[14] La pression de l’eau est hydrostatique si, au point de mesure, elle reflète le poids de l’eau au-dessus de ce point.
+[15] Lignes 2 à 12 de la page 189 du volume 2 et lignes 11 à 15 de la page 122 du volume 5 de la transcription.
+[16] Lignes 9 à 28 de la page 56, pages 57 à 59, lignes 1 à 26 de la page 60 et lignes 14 à 24 de la page 138 du volume 2 et lignes 12 à 28 de la page 119 et lignes 1 à 12 de la page 120 du volume 5 de la transcription et diapositive 14 de l’onglet 41 du RCD. Le document à l’onglet 41 a été préparé pour l’Agence et est daté du 18 mars 2010.
+[17] Onglet 42 du RCD.
+[18] Lignes 18 à 28 de la page 148 et lignes 1 à 7 de la page 149 du volume 2 de la transcription. La chaîne de courriels se trouve à l’onglet 47 du RCD.
+[19] Page no 4 de l’onglet 47 du RCD. Noter qu’il s’agit en fait de la première page de l’onglet 47.
+[20] Pages 5 et 6 de l’onglet 47 du RCD.
+[21] Page 1 de l’onglet 7 du RCD.
+[22] Onglet 7 du RCD.
+[23] Onglet 10 du RCD.
+[24] Lignes 23 à 28 de la page 154 et lignes 1 à 9 de la page 155 du volume 2 de la transcription.
+[25] Lignes 8 à 14 de la page 156 du volume 2 de la transcription.
+[26] Ligne 28 de la page 158 et lignes 1 à 9 de la page 159 du volume 2 de la transcription.
+[27] Lignes 15 à 28 de la page 168 et lignes 1 à 8 de la page 169 du volume 2 de la transcription. Le calendrier relatif au forage des puits publié par l’OCTHE indique que le puits B16-54 a été foré le 1er août 2005 et s’est terminé le 15 février 2006 et que la profondeur verticale réelle du puits était de 4 672,45 mètres (page 1 de l’onglet 9 du RCD).
+[28] Lignes 9 à 28 de la page 169 et ligne 1 de la page 170 du volume 2 de la transcription et page 5 de l’onglet 7 du RCD.
+[29] Lignes 10 à 24 de la page 173 du volume 2 de la transcription.
+[30] Lignes 2 à 6 de la page 174 du volume 2 de la transcription.
+[31] Lignes 9 à 20 de la page 56, lignes 21 à 28 de la page 57, lignes 1 à 6 de la page 58 et lignes 19 à 23 de la page 179 du volume 2 de la transcription.
+[32] Lignes 17 à 20 de la page 121 du volume 5 de la transcription.
+[33] Paragraphe 66 de l’ECPF.
+[34] Les mots « traitement préliminaire au Canada » sont définis au paragraphe 248(1) de la LIR. L’alinéa e) de la définition englobe :
+« le traitement au Canada de pétrole brut (sauf le pétrole brut lourd récupéré d’un puits de pétrole ou de gaz ou d’un gisement de sables asphaltiques) récupéré d’un gisement naturel de pétrole, jusqu’à un stade ne dépassant pas celui du pétrole brut ou son équivalent »;
+[35] Page 732. La Cour d’appel fédérale a confirmé que cette approche s’appliquait à la définition de « bénéfices bruts relatifs à des ressources » dans La Reine c. 3850625 Canada Inc., 2011 CAF 117 (« 3850625 Canada »), au paragraphe 21.
+[36] Paragraphe 4 du mémoire des faits et du droit de l’intimée en ce qui a trait aux revenus du système de chargement en mer d’Hibernia reclassifiés à titre de revenus non liés aux ressources.
+[37] 3850625 Canada, précité, note de base de page 35, au paragraphe 21.
+[38] Le Oxford English Dictionary (2e éd.) définit « provenant » (derived) de la façon suivante : « tiré, obtenu, venu ou déduit d’une source ».
+[39] Discours du budget du 23 juin 1975, aux pages 33 et 34, et Plan budgétaire du 6 mars 1996, à la page 162.
+[40] Paragraphe 66 de l’ECPF.
+[41] En l’espèce, il y a lieu de faire une distinction avec les faits des affaires Echo Bay et 3850625 Canada, où un revenu a été réalisé en plus du revenu provenant de la vente de la ressource naturelle.
+[42] Paragraphe 71 de l’ECPF.
+[43] C.W. Agencies Inc. c. Canada, 2001 CAF 393, [2002] 1 C.T.C. 212, 2002 DTC 6740 (C.A.F.), au paragraphe 17. Voir également Northwest Hydraulic Consultants Limited c. Sa Majesté la Reine, [1998] 3 C.T.C. 2520, 98 DTC 1839 (C.C.I.), au paragraphe 16; et RIS-Christie Ltd. C. Canada, [1999] 1 C.T.C. 132, 99 DTC 5087 (C.A.F.), au paragraphe 10.
+[44] Chaque expert a préparé un rapport d’expert, un rapport en réfutation et un rapport en contre réfutation.
+[45] À la page 24.
+[46] Pages 32 à 33 du rapport Gringarten.
+[47] Page 33 du rapport Gringarten.
+[48] Diapositive 2 de l’onglet 42 du RCD.
+[49] Voir, par exemple, les documents qui figurent à l’onglet 5 du RCD.

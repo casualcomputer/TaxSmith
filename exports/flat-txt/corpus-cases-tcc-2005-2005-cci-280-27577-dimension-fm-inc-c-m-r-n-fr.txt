@@ -1,0 +1,145 @@
+Title: Dimension FM Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27577/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-280-27577-dimension-fm-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-05-05
+
+# Dimension FM Inc. c. M.R.N.
+
+- Citation: 2005 CCI 280
+- Decision date: 2005-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 72, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dimension FM Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-05
+Référence neutre
+2005 CCI 280
+Numéro de dossier
+2004-3066(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-3066(EI)
+ENTRE :
+DIMENSION FM INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 9 mars 2005, à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, Juge suppléant
+Comparutions :
+Représentante de l'appelante :
+Morena Del Grande
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs de jugements ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 5e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2005CCI280
+Date : 20050505
+Dossier : 2004-3066(EI)
+ENTRE :
+DIMENSION FM INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec) le 9 mars 2005.
+[2] Il s'agit de déterminer si Russell Robinson, le travailleur, a exercé un emploi assurable du 10 février au 7 juin 2003, la période en litige, lorsqu'au service de l'appelante. Le 22 avril 2004, le ministre du Revenu national (le « Ministre ») a informé l'appelante de sa décision selon laquelle, pendant la période en litige, le travailleur exerçait un emploi assurable.
+[3] En rendant sa décision, le Ministre s'est appuyé sur les faits présumés suivants :
+a) l'appelante, constituée en société en 2001, exploite une entreprise d'installation de cubicules et de meubles de bureau; (admis)
+b) M. Frank Dicapua était l'unique actionnaire de l'appelante; (admis)
+c) l'appelante exploite son entreprise dans la région de Montréal et ses principaux clients sont Visa Desjardins, Amex et Microsoft; (admis)
+d) le travailleur installait des bureaux et des cubicules chez les clients du payeur; il faisait occasionnellement du déménagement de meubles de bureau; (admis)
+e) il travaillait surtout de jour entre 8 h 30 et 16 h 30 et occasionnellement en soirée; (admis)
+f) le travailleur avait un horaire de travail variable mais ses heures de travail étaient contrôlées par le superviseur de l'appelante, présent sur le chantier; (admis)
+g) le superviseur de l'appelante planifiait et dirigeait le travail du travailleur; (admis)
+h) le travailleur fournissait ses outils manuels et son téléphone cellulaire; (admis)
+i) le travailleur recevait une rémunération de 20,00 $ de l'heure; (admis)
+j) les tâches exécutées par le travailleur étaient intégrées aux activités de l'appelante; (admis)
+k) les clients étaient ceux de l'appelante et non ceux du travailleur; (admis)
+l) durant la période en litige, l'appelante a versé au travailleur la somme de 6 564,80 $ plus la TPS et la TVQ pour un total de 7 549,52 $; (nié)
+m) durant la période en litige, il a travaillé durant 328,25 heures soit 6 564,80 $ divisé par 20,00 $. (nié)
+[4] L'appelante a admis tous les faits présumés du Ministre sauf ceux énoncés aux alinéas l) et m), où le Ministre a établi le nombre d'heures assurables et la rémunération assurable du travailleur.
+[5] Frank DiCapua est le président de l'appelante. Il a témoigné que le travailleur avait commencé à exploiter sa propre entreprise et qu'à la fin de son emploi avec l'appelante, il était allé travailler en Ontario. Il a affirmé qu'il avait retenu les services du travailleur comme sous-traitant. L'appelante avait à son emploi entre 12 et 14 employés mais lorsque ceux-ci ne pouvaient pas suffire à la tâche, il appelait le travailleur qui s'amenait avec ses hommes et ses outils. Il a affirmé qu'avant le 7 février 2003, le travailleur faisait partie de ses employés à temps plein. Il payait le travailleur au taux horaire de 14 $ comme employé et 20 $ comme sous-traitant. Il a ajouté que le travailleur ne bénéficiait d'aucun congé ou de vacance payés.
+[6] Par ailleurs, M. DiCapua a déclaré à l'enquêteur que le travailleur n'avait pas d'horaire de travail fixe ni d'heures minimum par jour ou par semaine de travail. Celui-ci donnait ses disponibilités à l'appelante. Les entrées et sorties du travailleur et ses heures travaillées étaient contrôlées par le superviseur de l'appelante. La preuve de l'appelante a indiqué que le travailleur pouvait refuser de travailler et qu'alors on lui trouvait un remplaçant. M. DiCapua a affirmé que le travailleur avait des employés qu'il amenait avec lui sur le chantier et que ceux-ci étaient rémunérés par l'appelante. Monsieur DiCapua a ajouté que le travailleur avait d'autres clients. Il a été établi que le travailleur était dirigé par le superviseur de l'appelante qui planifiait son travail et la façon de l'exécuter. La preuve a révélé que le travailleur, pour exécuter ses tâches pour l'appelante, utilisait ses outils à mains et son téléphone cellulaire et qu'il était payé au taux horaire de 20 $ lequel avait été établi par l'appelante. Par ailleurs, il a été établi que le travailleur aurait été mis à pied en raison d'une mésentente avec l'appelante. Monsieur DiCapua a affirmé que le travailleur oeuvrait comme travailleur autonome, qu'il avait des clients en Ontario et qu'il l'aurait appelé plus souvent s'il avait été son employé. Aux enquêteurs, le travailleur a corroboré, en partie, l'information donnée par M. DiCapua. Il a ajouté, cependant, qu'il travaillait surtout de 8 h 30 à 16 h 30, mais qu'il n'avait pas d'autres clients. Il a affirmé qu'il avait eu un seul contrat avec un autre client, mais c'était avant la période en litige. Il a ajouté que son travail pour l'appelante s'est terminé lorsque celle-ci a cessé de l'appeler. Le travailleur a dit aux enquêteurs qu'il se considérait employé puisqu'il avait travaillé pour le compte de l'appelante durant une période oì celle-ci lu avait prélevé les déductions à la source. Le travailleur a expliqué la facture numéro 229008, qui fait partie de la pièce A-3, en disant qu'il avait remise celle-ci à la demande de l'appelante, en y incluant les heures de travail de Daniel Robinson, pour que ce dernier lui remette sa paie, tel que l'exigeait l'appelante.
+[7] Les enquêteurs du Ministre ont examiné les documents fournis par l'appelante, dont les factures soumises par le travailleur à l'appelante et les chèques de cette dernière encaissés par le travailleur totalisant 7 742,12 $ pour la période en litige. Ces documents ont démontré que le travailleur était rémunéré au taux horaire de 20 $.
+[8] C'est sur l'alinéa 5(1)a) de la Loi sur l'assurance-emploi (la « Loi ») que le Ministre s'est appuyé pour conclure à l'assurabilité de l'emploi du travailleur. Je reproduis ci-dessous l'alinéa en question :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[9] Or, comment va-t-on déterminer si un emploi est assurable selon l'alinéa 5(1)a) de la Loi? C'est ce que les tribunaux ont déterminé en statuant des critères à la lumière desquels il faut examiner les circonstances d'un emploi. Le juge MacGuigan de la Cour d'appel fédérale dans l'arrêt Wiebe Door Services Ltd. c. Canada (ministre du Revenu national – M.R.N.), [1986] 3 C.F. 553, écrivait, et je cite :
+La jurisprudence a établi une série de critères pour déterminer si un contrat constitue un contrat de louage de services ou un contrat d'entreprise. Bien qu'il en existe d'autres, les quatre critères suivants sont les plus courramment utilisés :
+a) le degré; ou l'absence de contrôle exercé par le prétendu employeur;
+b) la propriété des instruments de travail;outils;
+c) les chances de bénéfice et les risques de perte;
+d) l'intégration des travaux effectués par les prétendus employés dans l'entreprise de l'employeur présumé.
+[10] Il convient donc d'examiner les éléments de preuve à la lumière de ces critères.
+LE DEGRÉ DE CONTRÔLE
+[11] La détermination du Ministre sous ce critère n'a pas été contestée par l'appelante. En effet, celle-ci a admis que les heures de travail du travailleur étaient comptabilisées, que le travailleur et son travail étaient sous la supervision de l'appelante. Il a été admis que le travailleur travaillait surtout de jour entre 8 h 30 et 16 h 30 et occasionnellement en soirée; qu'il avait un horaire de travail variable mais que ses heures de travail étaient contrôlées par le superviseur de l'appelante, présent sur le chantier et que celui-ci planifiait et dirigeait le travail du travailleur. La preuve est concluante, pour ce qui est du contrôle, que le travailleur exerçait un emploi assurable.
+LA PROPRIÉTÉ DES OUTILS
+[12] Il a été établi que le travailleur fournissait ses outils manuels et son téléphone cellulaire. La preuve n'a pas révélé qu'il fournissait les autres outils qui ne font pas partie des outils manuels de l'ouvrier.
+LES CHANCES DE BÉNÉFICE ET LES RISQUES DE PERTE
+[13] Le travailleur recevait une rémunération de 20 $ l'heure. Il a demandé à l'appelante d'amener ses hommes avec lui. Le temps du travailleur était toujours payé au taux horaire de 20 $. Aucun élément de preuve soumis à l'examen de cette Cour n'a établi comment et combien le travailleur payait ses hommes. Sur les factures produites, les heures des employés du travailleur étaient comptabilisées aux même taux horaire de 20 $. Le travailleur a informé les enquêteurs que pendant la période en litige, il n'avait travaillé que pour l'appelante. La preuve recueillie n'a pas démontré que le travailleur encourait des risques de perte ou avait des chances de bénéfice. L'examen des faits sous ce critère favorise l'existence d'une relation employeur-employé.
+LE CRITÈRE DE L'INTÉGRATION
+[14] On a souvent dit que la détermination de l'emploi sous ce critère résidait dans la réponse à la question : Pour qui oeuvrait le travailleur? S'il travaille dans le cadre des objectifs de l'entreprise, il exerce un emploi assurable. Si, au contraire, il exploite sa propre entreprise, c'est un travailleur indépendant. Examiné sous ce critère, il est clair que l'on peut conclure à l'existence d'un contrat de louage de services et non pas d'un contrat d'entreprise.
+[15] La Cour Suprême du Canada dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc. [2001] 2 R.C.S. 983 a statué que :
+...Aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Il faut toujours déterminer quelle relation globale les parties entretiennent entre elles. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches...
+[11] Il convient de rappeler que l'appelante a admis la plupart des présomptions de fait du Ministre. Or, ceci ne vient pas secourir l'appelante dans sa démarche de faire renverser la décision du Ministre.
+[12] À ce propos, il convient de rappeler la consigne établie par la Cour d'appel fédérale dans l'arrêt Elia c. Canada (ministre du Revenu national – M.R.N.), [1998] A.C.F. no 316 où le juge Pratte s'exprimait ainsi :
+Le juge, contrairement à ce qu'il a cru, aurait donc pu intervenir et aurait dû intervenir si, comme il l'a affirmé, la preuve révélait que la décision du Ministre était déraisonnable. Mais cette affirmation du juge nous paraît, elle aussi, inexacte et fondée sur une erreur de droit puisque le juge n'a pas tenu compte de la règle bien établie selon laquelle les allégations de la réponse à l'avis d'appel, où le Ministre énonce les faits sur lesquels il a fondé sa décision, doivent être tenus pour avérés aussi longtemps que l'appelant n'en a pas prouvé la fausseté.
+[13] Les faits, en l'espèce, analysés à la lumière de la jurisprudence précitée, appuient la notion que le travailleur occupait un emploi assurable puisqu'il exerçait un emploi en vertu d'un contrat de louage de services.
+[14] Par ailleurs, c'est sur les articles 9.1 et 10.2 du Règlement sur l'assurance‑-emploi, ainsi que sur l'article 2 du Règlement sur la rémunération assurable et la perception des cotisations que le Ministre s'est basé pour établir la rémunération et les heures assurables du travailleur. Je reproduis, ci-dessous, les articles en question :
+9.1 Lorsque la rémunération d'une personne est versée sur une base horaire, la personne est considérée comme ayant exercé un emploi assurable pendant le nombre d'heures qu'elle a effectivement travaillées et pour lesquelles elle a été rétribuée.
+10.2 Pour l'application des articles 9.1, 10, 10.01, 10.1, et 22, les règles suivantes s'appliquent :
+a) un heure de travail accomplie dans un emploi assurable compte pour une seule heure d'emploi assurable, même si elle a été rétribuée au taux applicable aux heures supplémentaires;
+b) lorsque le total des heures d'emploi assurable accumulées entre le premier et le dernier jour de travail d'une période d'emploi donnée comporte une fraction d'heure, celle-ci est considérée comme une heure complète.
+RÉMUNÉRATION ASSURABLE
+Rémunération provenant d'un emploi assurable
+2. (1) Pour l'application de la définition de « rémunération assurable » au paragraphe 2(1) de la Loi et pour l'application du présent règlement, le total de la rémunération d'un assuré provenant de tout emploi assurable correspond à l'ensemble des montants suivants :
+a) le montant total, entièrement ou partiellement en espèces, que l'assuré reçoit ou dont il bénéficie et qui lui est versé par l'employeur à l'égard de cet emploi;
+b) le montant de tout pourboire que l'assuré doit déclarer à l'employeur aux termes de la législation provinciale.
+[15] Dans sa réponse à l'avis d'appel, le Ministre avait établi les heures assurables à 328,25 et la rémunération assurable à 6 564,80 $. Cependant, après avoir examiné la preuve de l'appelante, il s'est ravisé et a modifié ces données qui maintenant se chiffrent ainsi :
+- Rémunération assurable : 5 304,80 $
+- Nombre d'heures assurables : 266
+[16] Ces nouvelles données n'ont pas fait l'objet d'une contestation de la part de l'appelante. Au terme de cet exercice, cette Cour doit conclure que le Ministre a exercé à bon droit la tâche que lui a confiée le Législateur et il ne convient donc pas d'intervenir dans la décision qu'il a rendue.
+[17] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 5e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2005CCI280
+Nº DU DOSSIER DE LA COUR : 2004-3066(EI)
+INTITULÉ DE LA CAUSE : DIMENSION FM INC. ET M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 9 mars 2005
+MOTIFS DE JUGEMENT PAR : L'honorable S.J. Savoie, Juge suppléant
+DATE DU JUGEMENT : le 5 mai 2005
+COMPARUTIONS :
+Représentante de l'appelante :
+Morena Del Grande
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

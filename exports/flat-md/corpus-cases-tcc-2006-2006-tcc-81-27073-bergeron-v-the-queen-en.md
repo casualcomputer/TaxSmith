@@ -1,0 +1,167 @@
+---
+title: "Bergeron v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27073/index.do"
+last_modified: "2006-02-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 81"
+citation2: ""
+neutral_citation: "2006 TCC 81"
+decision_date: "2006-02-24"
+language: "en"
+item_id: "27073"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 780
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:19:22.420000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3ec0f756fe33ce377a17a61ecccf11158bc9736a229517de1ba61e8d280f81fd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bergeron v. The Queen
+
+- Citation: 2006 TCC 81
+- Decision date: 2006-02-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 780, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bergeron v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-24
+Neutral citation
+2006 TCC 81
+File numbers
+2005-2885(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2885(IT)I
+BETWEEN:
+DIANE BERGERON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on February 3, 2006, at Trois-Rivières, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant
+Benoît Boucher
+Counsel for the Respondent
+Simon-Nicolas Crépin
+JUDGMENT
+The appeal from the notice of confirmation of the Minister of National Revenue (the "Minister") dated July 6, 2005, is allowed, without costs, and the matter is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is the eligible individual in respect of her daughter, Caroline, from January to March 2005, for the Canada Child Tax Benefit for the 2003 base year and for the goods and services tax credit for the 2003 taxation year, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of February 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 26th day of July 2006.
+Monica F. Chamberlain, Reviser
+Citation: 2006TCC81
+Date: 20060224
+Docket: 2005-2885(IT)I
+BETWEEN:
+DIANE BERGERON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a determination concerning the Canada Child Tax Benefit made by the Minister of National Revenue (the "Minister") on June 20, 2005, in respect of the 2003 base year, for the period from January to March 2005.
+[2] The issue is whether the Minister correctly concluded that the Appellant was not the eligible individual in respect of her daughter Caroline, for the period from January to March 2005 inclusive, for the Canada Child Tax Benefit for the 2003 base year and the goods and services tax credit for the 2003 taxation year.
+[3] In making and confirming the redetermination under appeal, the Minister assumed the following facts:
+[TRANSLATION]
+(a) the Appellant and Donald Duguay were married on September 21, 1991;
+(b) the Appellant and Donald Duguay had three children:
+(i) Jean-Sébastien Bergeron-Duguay, born on November 17, 1986,
+(ii) Nadine Bergeron-Duguay, born on September 2, 1989, and
+(iii) Caroline Bergeron-Duguay, born on July 29, 1991;
+(c) the Appellant and Donald Duguay have no longer been living together since June 4, 2003;
+(d) in the separation judgment of the Superior Court dated October 7, 2003, the Honourable Justice Jocelyn Verrier, J.C.S., approved, declared binding and ordered the parties to comply with the terms and conditions of the consent to corollary relief duly signed by the parties on October 1, 2003, in particular the following:
+(i) the Appellant shall have custody of Jean-Sébastien and Caroline Bergeron-Duguay,
+(ii) Donald Duguay shall have custody of Nadine Bergeron-Duguay;
+(e) on April 2, 2004, the Minister informed the Appellant and Donald Duguay that their marital status was considered to be separated for the period commencing July 1, 2003;
+(f) before the period in issue, the Appellant was always considered the parent who primarily fulfilled the responsibility for the care and upbringing of her child Caroline;
+(g) the father, Donald Duguay, filed a Canada Child Tax Benefit claim with the Minister, alleging that it was he who had primarily fulfilled the responsibility for the care of his daughter Caroline starting on December 9, 2004;
+(h) the Minister issued the notice of redetermination of Canada Child Tax Benefit made on March 18, 2005, for the 2003 base year, and the notice of redetermination of goods and services tax credit dated February 25, 2005, for the 2003 taxation year, to reflect the facts alleged by the father in his Canada Child Tax Benefit claim;
+(i) at the objection stage, the Appellant reported, inter alia, the following facts:
+(i) the child Caroline went to her father's home on or around December 8 or 9, 2004;
+(ii) a social worker, Marie-Pierre Morneau, confirmed to the Appellant that her daughter Caroline wanted to return and live with her mother;
+(iii) the child Caroline returned to her mother's home on March 17, 2005;
+(j) the Minister found that the Appellant had not shown that she was the eligible individual in respect of her daughter Caroline for the period from January to March 2005 inclusive, for the base year and the 2003 taxation year.
+[4] It was shown on a balance of probabilities that the child Caroline had visited her father during the annual Christmas vacation in December 2004.
+[5] At the end of the vacation, the father refused to take the necessary steps for Caroline to return and live with her mother.
+[6] A social worker, Marie-Pierre Morneau, intervened; the Appellant then sent the child's father a formal demand to return the child to her in accordance with the legal custody that the Court had awarded her.
+[7] The Minister claims that the Appellant, Diane Bergeron, Caroline's mother, was not entitled to the Canada Child Tax Benefit for the period from January to March 2005 on the ground that Caroline was with her father at the time, even though it was in the context of unlawful custody.
+[8] According to the explanation given by the Appellant in her Notice of Objection, the person or persons responsible for reviewing the case clearly lacked thoroughness in the way they handled the file by focusing essentially on the untrue version that the father had provided and limiting the case review to a bare minimum.
+[9] Paragraph 122.6(a) of the Income Tax Act requires that the eligible individual reside with the dependent. The residence test is thus an essential factor in obtaining the credit.
+[10] In S. R. v. The Queen, 2003TCC649, file no. 2003-602(IT)I, Bonner J. wrote as follows at paragraph 12:
+12. The word "reside" with as used in the section 122.6 definition of the term "eligible individual" must be construed in a manner which reflects the purpose of the legislation. That legislation was intended to implement the child tax benefit. That benefit was introduced in 1993 with a view to providing a single non-taxable monthly payment to the custodial parent of a child. That payment was intended to benefit the child by providing funds to the parent who primarily fulfilled the responsibility for the care and upbringing of the child. The threshold test is whether the child resides with the parent. Physical presence of the child as a visitor in the residence of a parent does not satisfy the statutory requirement. The word "resident" as used in s. 122.6 connotes a settled and usual abode.
+[11] The term "resident" thus refers to a settled and usual abode. The word "residence" used in the Act means the usual and lawful place.
+[12] In the instant case, it was shown on a balance of probabilities that the father had abused his visiting rights and decided unilaterally to keep the minor child against the will of the mother, who had lawful custody of that child.
+[13] I certainly cannot approve of such an action by dismissing the appeal. As I have stated moreover, it seems to me the Agency could put in place a procedure for avoiding taking sides in difficult relations between the parents of minor children.
+[14] While I understand that this may result in additional costs for the establishment of a more reliable system, it is nevertheless my impression that a more appropriate mechanism would make it possible to achieve substantial savings by preventing these too numerous cases from going before the courts.
+[15] These cases have very negative and often serious consequences, in addition to aggravating the already tense situation between parents and, what is even more unacceptable, have, in many cases, direct and indirect effects on the well-being of the children, who are already very much affected by the tense relations between their parents.
+[16] I have no hesitation in finding that the residence of the minor child Caroline, from January to March 2005, was her settled and usual abode, that of her mother, and that her presence in her father's home was essentially temporary, unusual and, especially, utterly unlawful.
+[17] Accordingly, the appeal is allowed and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the Minister incorrectly concluded that the Appellant was not the eligible individual in respect of her daughter Caroline for the period from January to March 2005 inclusive, for the purposes of the Canada Child Tax Benefit for the 2003 base year and the goods and services tax credit for the 2003 taxation year, since the Appellant was indeed the eligible individual in respect of her daughter.
+Signed at Ottawa, Canada, this 24th day of February 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 26th day of July 2006.
+Monica F. Chamberlain, Reviser
+CITATION:
+2006TCC81
+COURT FILE NO.:
+2005-2885(IT)I
+STYLE OF CAUSE:
+Diane Bergeron v. Her Majesty the Queen
+PLACE OF HEARING:
+Trois-Rivières, Quebec
+DATE OF HEARING:
+February 3, 2006
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Alain Tardif
+DATE OF JUDGMENT:
+February 24, 2006
+APPEARANCES:
+Counsel for the Appellant
+Benoît Boucher
+Counsel for the Respondent
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Benoît Boucher
+Gendron, Boucher, Bacon et Gladu
+Montréal, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

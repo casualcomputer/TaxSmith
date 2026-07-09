@@ -1,0 +1,161 @@
+Title: Raglan c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29989/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-477-29989-raglan-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-09-22
+
+# Raglan c. La Reine
+
+- Citation: 2010 CCI 477
+- Decision date: 2010-09-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8002, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raglan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-09-22
+Référence neutre
+2010 CCI 477
+Numéro de dossier
+2008-1109(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1109(IT)I
+ENTRE :
+JAMES RAGLAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 9 et 10 septembre 2010 à Toronto (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Amir Ummat
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie relativement à la responsabilité des administrateurs en vertu de la Loi de l’impôt sur le revenu par avis daté du 3 juin 2005 est rejeté. Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 22e jour de septembre 2010.
+« J. M. Wood »
+Juge Woods
+Traduction certifiée conforme
+ce 8e jour de novembre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 477
+Date : 20100922
+Dossier : 2008-1109(IT)I
+ENTRE :
+JAMES RAGLAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Dans le présent appel, James Raglan conteste la cotisation établie relativement à la responsabilité des administrateurs en vertu de l’article 227.1 de la Loi de l’impôt sur le revenu (la « Loi »). La cotisation a été établie par avis daté du 3 juin 2005.
+[2] La cotisation découle du fait que Goose Loonies Eatery & Taps Ltd. (la société « Goose Loonies ») a omis de remettre les retenues à la source nécessaires pendant ses années d’imposition 1999 et 2000. Goose Loonies a cessé ses activités, et les cotisations établies à l’égard de la société n’ont pas été payées.
+[3] Une cotisation a été établie à l’égard de Goose Loonies pour manquement à l’obligation de remettre des retenues à la source de 3 365,14 $, plus les pénalités et les intérêts s’y rapportant. En outre, des cotisations connexes avaient été établies en vertu d’autres lois. Ces cotisations connexes ont aussi donné lieu à des cotisations établies relativement à la responsabilité des administrateurs, et ces cotisations sont pendantes à l’étape de l’opposition en attendant l’issue du présent appel. Le montant total de toutes les cotisations s’élève à 18 853,18 $.
+[4] L’appelant a témoigné pour son propre compte et a appelé comme témoins quatre personnes auxquelles il avait signifié des subpoenas, à savoir : deux frères qui avaient investi dans Goose Loonies et deux fonctionnaires de l’Agence du revenu du Canada (l’« ARC »).
+[5] L’intimée n’a appelé personne à témoigner.
+Le contexte factuel
+[6] Au cours de l’année 1998, l’appelant avait convenu avec Colin Linneberg d’ouvrir un restaurant à Lindsay, en Ontario. L’appelant avait accepté d’investir 25 000 $ dans ce restaurant et d’assurer la gestion de la cuisine.
+[7] Au début de l’année 1999, Goose Loonies a été constituée en société afin d’exploiter le restaurant, et des locaux ont été loués en son nom. Selon la convention des actionnaires produite en preuve, les deux partenaires étaient actionnaires à parts égales et chacun avait le droit de nommer un administrateur.
+[8] Bien que M. Linneberg aurait pu se nommer administrateur, il semble qu’il ne l’ait jamais fait de façon formelle. L’appelant était l’unique administrateur au moment de la constitution de Goose Loonies en société et cela n’a jamais changé.
+[9] Même s’il y avait d’autres investisseurs dans la société, il ressort de l’ensemble de la preuve que l’appelant et M. Linneberg étaient les principaux actionnaires.
+[10] Le restaurant a ouvert ses portes au cours de l’année 1999, vers le mois de novembre selon la déclaration de l’appelant.
+[11] L’appelant a aussi déclaré qu’au mois de janvier 2000, il avait avisé M. Linneberg qu’il quittait la société et qu’il ne voulait plus rien avoir à faire avec Goose Loonies. Il a précisé qu’il y avait beaucoup de problèmes quant à la façon dont M. Linneberg gérait le restaurant. M. Linneberg avait aussi été informé du fait que l’appelant resterait dans la société pendant quelques mois, jusqu’à ce qu’un remplaçant soit trouvé. L’appelant a également déclaré qu’il avait informé l’avocat de Goose Loonies de sa décision. J’accepte ce témoignage.
+[12] Selon le témoignage de l’appelant, le départ annoncé de celui‑ci avait occasionné la constitution d’une nouvelle société. Il ressort de l’ensemble de la preuve que les avoirs de Goose Loonies avaient été vraisemblablement transférés à une nouvelle société au cours de l’année 2000.
+[13] L’appelant a quitté la société à la fin du mois d’avril 2000 et, peu après, il a été embauché par X Coppers en tant que technicien juridique.
+[14] Il semble y avoir eu des manquements importants quant au paiement du loyer aussi bien de la part de Goose Loonies que de la part de la nouvelle société, ce qui a entraîné la fermeture du restaurant et la saisie de ses biens par le locateur au mois de décembre 2000. Il y a eu aussi d’autres manquements, notamment à l’égard de Brewers Retail et à l’égard des salaires dus aux employés.
+[15] Au mois d’août 2000, l’ARC a entrepris une vérification des feuilles de paie pour 1999 par suite d’une plainte d’un employé qui n’avait pas reçu son feuillet T4. Le vérificateur, Oliver Baro, a déclaré qu’il s’était rendu sur les lieux du restaurant et que M. Linneberg lui avait fourni les documents de paie, les chèques et les relevés bancaires. La vérification avait été achevée en une journée, et une cotisation pour manquement à l’obligation de remettre les retenues à la source avait été établie à l’égard de Goose Loonies.
+[16] Au mois de septembre 2000, M. Baro avait tenté d’entreprendre une vérification des feuilles de paie pour une partie de l’année 2000. Il a déclaré qu’il avait rencontré l’appelant au restaurant et que ce dernier lui avait dit qu’il n’avait aucun document à lui soumettre.
+[17] L’appelant a nié avec ardeur avoir rencontré M. Baro au restaurant au mois de septembre 2000. Compte tenu du fait qu’il s’était écoulé beaucoup de temps depuis cette rencontre, il est possible que M. Baro se soit trompé sur la personne qu’il avait rencontrée.
+[18] La vérification des feuilles de paie pour 2000 avait été par la suite effectuée par un autre vérificateur, et une cotisation pour manquement à l’obligation de remettre les retenues à la source pour l’année 2000 avait été alors établie à l’égard de Goose Loonies.
+[19] Aucune des deux cotisations établies à l’égard de Goose Loonies n’a été payée, et, par conséquent, une cotisation a été établie à l’égard de l’appelant, en sa qualité d’unique administrateur, en application de l’article 227.1 de la Loi.
+[20] À l’heure actuelle, l’appelant est toujours inscrit au ministère des Services gouvernementaux de l’Ontario comme l’unique administrateur de Goose Loonies.
+Les questions en litige
+[21] Voici les trois questions en litige :
+- Les cotisations sous‑jacentes sont‑elles exactes?
+- L’appelant a‑t‑il agi avec le degré de soin requis en sa qualité d’administrateur?
+- L’appelant a‑t‑il démissionné de ses fonctions?
+Les dispositions législatives
+[22] Les dispositions législatives pertinentes, à savoir les paragraphes 227.1(1), (2), (3) et (4) de la Loi, en vigueur en 2005, sont ainsi libellées :
+Responsabilité des administrateurs pour défaut d’effectuer les retenues
+227.1(1) Lorsqu’une société a omis de déduire ou de retenir une somme, tel que prévu au paragraphe 135(3) ou à l’article 153 ou 215, ou a omis de remettre cette somme ou a omis de payer un montant d’impôt en vertu de la partie VII ou VIII pour une année d’imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s’y rapportant.
+Restrictions relatives à la responsabilité
+227.1(2) Un administrateur n’encourt la responsabilité prévue au paragraphe (1) que dans l’un ou l’autre des cas suivants :
+a) un certificat précisant la somme pour laquelle la société est responsable selon ce paragraphe a été enregistré à la Cour fédérale en application de l’article 223 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+b) la société a engagé des procédures de liquidation ou de dissolution ou elle a fait l’objet d’une dissolution et l’existence de la créance à l’égard de laquelle elle encourt la responsabilité en vertu de ce paragraphe a été établie dans les six mois suivant le premier en date du jour où les procédures ont été engagées et du jour de la dissolution;
+c) la société a fait une cession ou une ordonnance de faillite a été rendue contre elle en vertu de la Loi sur la faillite et l’insolvabilité et l’existence de la créance à l’égard de laquelle elle encourt la responsabilité en vertu de ce paragraphe a été établie dans les six mois suivant la date de la cession ou de l’ordonnance de faillite.
+Idem
+227.1(3) Un administrateur n’est pas responsable de l’omission visée au paragraphe (1) lorsqu’il a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+Prescription
+227.1(4) L’action ou les procédures visant le recouvrement d’une somme payable par un administrateur d’une société en vertu du paragraphe (1) se prescrivent par deux ans à compter de la date à laquelle l’administrateur cesse pour la dernière fois d’être un administrateur de cette société.
+Les cotisations sous‑jacentes sont-elles exactes?
+[23] Par application du paragraphe 227.1(1) de la Loi, lorsqu’une société a omis de remettre des retenues à la source, les administrateurs de la société sont solidairement responsables, avec la société, du paiement de ces retenues y compris les intérêts et les pénalités s’y rapportant. L’appelant cherche à remettre en question le montant de la cotisation en contestant l’exactitude des cotisations sous‑jacentes établies à l’égard de Goose Loonies.
+[24] L’intimée fait valoir que : (1) les cotisations établies à l’égard de Goose Loonies font état du montant dont l’appelant est responsable selon le paragraphe 227.1(1) de la Loi; et (2) de toute façon, l’appelant ne s’est pas acquitté de la charge d’établir que les cotisations sont inexactes.
+[25] Il n’est pas nécessaire d’examiner le premier argument de l’intimée, parce que je ne suis pas convaincue du fait que les cotisations établies à l’égard de Goose Loonies sont inexactes. Dans la mesure révélée par la preuve, l’ARC a établi à juste titre les cotisations à l’égard de Goose Loonies en se fondant sur les documents comptables que la société avait fournis à l’ARC. Les hypothèses du ministre quant aux montants dus n’ont pas été réfutées par une preuve contraire.
+L’appelant a‑t‑il agi avec le degré de soin requis?
+[26] L’appelant rejette aussi toute responsabilité eu égard au fait que les affaires financières de Goose Loonies ne relevaient pas de lui.
+[27] L’argument ci‑dessus soulève la question de savoir si, aux termes du paragraphe 227.1(3), l’appelant a agi avec le degré « de soin, de diligence et d’habileté » pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[28] Les principes généraux qu’il convient d’appliquer ont été résumés par la juge Sharlow dans le passage suivant, tiré de Smith v. The Queen, 2001 CAF 84; 2001 DTC 5226 :
+[9] L’arrêt Soper, précité, a établi que la norme de prudence décrite dans la défense de diligence raisonnable au sens de la loi est essentiellement la même que la norme de prudence en common law, établie dans l’arrêt City Equitable Fire Insurance Commission., In re, [1925] ch. 407 (C.A.). Il s’ensuit que ce à quoi on peut raisonnablement s’attendre d’un administrateur aux fins des paragraphes 227.1(1) de la Loi de l’impôt sur le revenu et 323(1) de la Loi sur la taxe d’accise dépendra des faits de l’affaire, avec un élément objectif et un élément subjectif.
+[10] L’élément subjectif de la norme de prudence applicable à un administrateur donné dépendra de ses qualités personnelles, y compris ses connaissances et son expérience. En général, une personne expérimentée en affaires ou en questions financières sera tenue à une norme plus élevée qu’une personne qui n’a pas de connaissances ou d’expérience en affaires et dont le statut d’administrateur reflète, par exemple, un simple lien familial. Toutefois, la défense de diligence raisonnable ne sera d’aucune aide à un administrateur qui n’a pas tenu compte des obligations imposées aux administrateurs par la loi, ou qui n’a fait aucun cas d’un problème dont il connaissait l’existence, ou dont il aurait dû connaître l’existence comme toute personne prudente en pareilles circonstances (Hanson c. Canada (2000) 260 N.R. 79, [2000] 4 C.T.C. 215, 2000 D.T.C. 6564 (C.A.F.)).
+[11] En évaluant objectivement l’aspect raisonnable de la conduite d’un administrateur, il y a lieu de tenir compte de facteurs comme le volume, la nature et la complexité des affaires de la société, ainsi que de ses coutumes et pratiques. Plus une entreprise est importante et complexe, plus il sera raisonnable que les administrateurs se partagent les responsabilités, ou qu’ils délèguent le règlement de certaines questions au personnel de la société et à des conseillers extérieurs auxquels ils accordent leur confiance.
+[12] La souplesse inhérente à la défense de diligence raisonnable peut créer des situations où une norme de prudence plus élevée s’impose à certains administrateurs d’une société par rapport à d’autres. Par exemple, il peut être approprié d’imposer une norme plus élevée à un « administrateur interne » (par exemple, un directeur ayant l’habitude de la gestion au jour le jour) qu’à un « administrateur externe » (comme un directeur qui connaît assez peu les affaires de la société et n’est impliqué que de façon superficielle).
+[13] Ceci s’applique plus particulièrement s’il est démontré que l’administrateur externe a donné foi de façon raisonnable aux assurances données par les administrateurs internes que les remises d’impôts correspondant aux obligations de la société étaient effectivement versées. Voir notamment Cadrin c. Canada (1998), 240 N.R. 354, [1999] 3 C.T.C. 366, 99 D.T.C. 5079 (C.A.F.).
+[14] Dans certaines circonstances, le fait qu’une société soit en difficultés financières et donc à risque plus élevé que d’autres sociétés de ne pas verser ses remises d’impôts peut être un facteur qui milite pour une norme de prudence plus élevée. Par exemple, un administrateur qui connaît les difficultés financières de la société et qui décide sciemment de financer les opérations de la société avec les sommes prélevées à la source et non remises pourrait ne pas pouvoir invoquer la défense de diligence raisonnable (Ruffo c. Canada, 2000 D.T.C. 6317 (C.A.F.)). Toutefois, il est important de se rappeler que dans tous les cas la norme est celle du raisonnable et non celle de la perfection.
+[29] La preuve n’établit pas que l’appelant a agi avec le degré de soin, de diligence et d’habileté requis pour prévenir le manquement à l’obligation de remettre les retenues à la source. J’accepte le fait que M. Linneberg s’occupait des aspects financiers de la société, mais je n’accepte pas le fait qu’un administrateur raisonnablement prudent aurait confié à M. Linneberg la responsabilité relative aux retenues à la source sans aucune supervision.
+[30] Il semble que Goose Loonies ait éprouvé de graves difficultés financières dès le début, et je ne suis pas convaincue que l’appelant ait fait quoi que ce soit pour éviter les manquements.
+[31] L’appelant soutient qu’il n’aurait rien pu faire. Je n’en suis pas persuadée. Il ressort de l’ensemble de la preuve que M. Linneberg ne s’occupait pas des finances de manière responsable, et l’appelant aurait dû s’en apercevoir dès le début. Un administrateur raisonnablement prudent n’aurait pas dû laisser à M. Linneberg seul la responsabilité de remettre les retenues à la source.
+L’appelant avait‑t‑il démissionné de ses fonctions ?
+[32] L’appelant soutient qu’il avait démissionné de ses fonctions en avisant M. Linneberg et le père de ce dernier qu’il n’allait plus rien avoir à faire avec Goose Loonies.
+[33] Si l’appelant avait démissionné en 2000, l’ARC serait forclose de recouvrer toute somme due par l’appelant selon le paragraphe 227.1(4) de la Loi, parce que la démission serait intervenue plus de deux ans avant l’établissement de la cotisation.
+[34] Je ne suis pas convaincue toutefois que l’appelant ait jamais démissionné de ses fonctions d’administrateur de Goose Loonies.
+[35] L’appelant avait annoncé son départ en janvier 2000 et il avait mentionné qu’il resterait quelques mois jusqu’à ce qu’un remplaçant soit trouvé. Selon la preuve limitée dont dispose la Cour, il semble qu’un avocat ait été engagé pour réaliser le transfert des avoirs du restaurant à une nouvelle société. Les éléments de preuve ne sont pas suffisants pour établir s’il était prévu que l’appelant devait démissionner de ses fonctions d’administrateur de Goose Loonies.
+Conclusion
+[36] Compte tenu des constatations qui précèdent, l’appel est rejeté.
+[37] L’intimée sollicite les frais en application du paragraphe 10(2) des Règles de la Cour canadienne de l’impôt (procédure informelle). Cette disposition prévoit que les frais ne peuvent être alloués à l’intimée que si les actions de l’appelant ont retardé indûment le règlement prompt et efficace de l’appel.
+[38] Je n’accorde pas les frais au titre de cette disposition. Quoiqu’il subsiste des doutes quant à la manière dont l’appelant a mené l’appel, en particulier eu égard à une jurisprudence abondante, la Cour ne dispose pas de suffisamment de renseignements quant à ce qui s’est passé avant l’audience, et il convient de signaler que les ajournements antérieurs ont été accordés par suite de circonstances indépendantes de la volonté de l’appelant.
+Signé à Ottawa, Canada, ce 22e jour de septembre 2010.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 8e jour de novembre 2010.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 477
+NO DU DOSSIER DE LA COUR : 2008-1109(IT)I
+INTITULÉ : JAMES RAGLAN
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DES AUDIENCES : Les 9 et 10 septembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 22 septembre 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Amir Ummat
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom : s/o
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

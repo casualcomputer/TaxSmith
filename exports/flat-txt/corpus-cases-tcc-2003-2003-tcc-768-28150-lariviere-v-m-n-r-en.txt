@@ -1,0 +1,101 @@
+Title: Lariviere v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28150/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-768-28150-lariviere-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-11-18
+
+# Lariviere v. M.N.R.
+
+- Citation: 2003 TCC 768
+- Decision date: 2003-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1996, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lariviere v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-18
+Neutral citation
+2003 TCC 768
+File numbers
+2003-1656(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003‑1656(EI)
+BETWEEN:
+DANIEL LARIVIÈRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on July 30, 2003, at Québec City, Quebec
+Before: The Honourable Deputy Judge S. J. Savoie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Marie‑Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is upheld in accordance with the attached Reasons for Judgment.
+Signed at Grand‑Barachois, New Brunswick, this 18th day of November 2003.
+"S. J. Savoie"
+Savoie, D.J.
+Translation certified true
+on this 26th day of April 2004.
+Sharon Moren, Translator
+Citation: 2003TCC768
+Date: 20031118
+Dossier: 2003‑1656(EI)
+BETWEEN:
+DANIEL LARIVIÈRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Deputy Judge Savoie
+[1] This appeal was heard at Québec City, Quebec, on July 30, 2003.
+[2] This appeal involves the number of hours of insurable employment and insurable earnings while the Appellant was working for Modulex Inc., "the Payor" as understood in the Employment Insurance Act.
+[3] On April 17, 2003, the Minister of National Revenue (the "Minister") informed the Appellant of his decision that the insurable earnings for this employment, for the period from July 2 to October 21, 2002, totalled $20,163.90 and the insurable hours totalled 640.
+[4] In making his decision, the Minister relied on the following assumptions of fact that the Appellant admitted or denied:
+[translation]
+(a) the Payor was incorporated on August 28, 1968; (admitted)
+(b) the Payor operated a business manufacturing prefabricated houses; (admitted)
+(c) the Appellant had been hired as director of marketing and sales; (admitted)
+(d) the Appellant's tasks consisted in managing a sales team as well as selling houses himself; (admitted with explanations)
+(e) the Appellant almost always worked at the Payor's sales office; (denied)
+(f) the Payor remunerated the Appellant on the basis of a 10% commission on the first $600,000 of annual sales and 3% afterward; (admitted)
+(g) the appellant worked from 9:30 or 10:30 a.m. to 5:00 p.m., Monday to Friday; (denied)
+(h) according to the Payor, the Appellant worked one evening and two weekends during the period at issue; (denied)
+(i) the Payor recorded 40 hours of work per week for the Appellant in the payroll register; (no knowledge)
+(j) during the period at issue, the Appellant worked for the Payor for 16 weeks; (admitted)
+(k) during the period at issue, the Appellant worked 640 hours, or sixteen 40‑hour weeks. (denied)
+[5] The evidence revealed that the Payor recorded 40 hours of work per week in the payroll register for the Appellant. During the period at issue, the Appellant worked for the Payor for 16 weeks.
+[6] According to data supplied by the Payor, the Appellant allegedly worked 640 hours, or sixteen 40‑hour weeks, during the period at issue.
+[7] It was established that the Appellant's remuneration was prescribed by the agreement between the Payor and the Appellant, entered into evidence as Exhibit I‑1, on a commission basis. Moreover, this is admitted by the Appellant.
+[8] The Appellant claimed that, according to his calculations, the number of hours he allegedly worked is approximately 80 to 100 hours in addition to those entered by the Payor.
+[9] According to him, he began his work at his home on his computer very early in the morning and worked at the office in the evenings and weekends. According to the evidence, a subordinate occasionally saw him at the office in the evening. In his calculations, the Payor is willing to acknowledge that the Appellant worked, at the most, from 10:00 a.m. to 5:00 p.m. and from 7:00 p.m. to 9:00 p.m. five days per week for a total of 40 hours. The Payor maintains that his polling of the Appellant's colleagues does not justify this number of hours, since he was rarely in the office on Fridays and did not arrive at the office until late in the morning, while others answered his telephone calls. In addition, the Payor made clear that the Appellant never took advantage of the computer at his disposal in the adjacent offices. On this point, the Payor's evidence was more objective, convincing and credible.
+[10] The Employment Insurance Regulations set out the following at Part I – Unemployment Benefits – Hours of Insurable Employment – Methods of Determination:
+10.(1) Where a person's earnings are not paid on an hourly basis but the employer provides evidence of the number of hours that the person actually worked in the period of employment and for which the person was remunerated, the person is deemed to have worked that number of hours in insurable employment.
+[11] This appeal then involves only the number of insurable hours.
+[12] However, this was established by the Minister who relied on information provided by the Payor, in applying subsection 10.(1) of the Employment Insurance regulations.
+[13] Since the assumption prescribed at subsection 10.(1) was not refuted by the Appellant, this Court must uphold the Minister's decision to the effect that the number of insurable hours during the period at issue is 640; the insurable earnings amount to $20,163.90.
+[14] Consequently, the appeal is dismissed and the Minister's decision is upheld.
+Signed at Grand‑Barachois, New Brunswick, this 18th day of November 2003.
+"S. J. Savoie"
+Savoie, D.J.
+Translation certified true
+on this 26th day of April 2004.
+Sharon Moren, Translator

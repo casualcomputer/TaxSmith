@@ -1,0 +1,78 @@
+Title: Roach v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25114/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-219-25114-roach-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-04-07
+
+# Roach v. The Queen
+
+- Citation: 2006 CCI 219
+- Decision date: 2006-04-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2579, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roach v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-07
+Référence neutre
+2006 CCI 219
+Numéro de dossier
+2005-3566(IT)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI219
+Date : 20060407
+Dossier : 2005‑3566(IT)I
+ENTRE :
+J. BUD ROACH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+[Rendus oralement à l’audience
+à Toronto (Ontario), le 16 mars 2006]
+Le juge Paris
+[1] Il s’agit d’une requête visant l’annulation de l’appel interjeté à l’égard des années d’imposition 2001 et 2002 de l’appelant. Étant donné que l’appelant a indiqué qu’il ne s’oppose pas à la requête et compte tenu des documents qui ont été déposés par affidavit, je suis convaincu que l’appel qui a été interjeté devant la Cour à la suite des avis de nouvelles cotisations délivrés le 30 septembre 2004 n’est pas valide puisqu’il n’y a pas d’impôt fédéral à payer selon ces nouvelles cotisations. Il ressort clairement de la jurisprudence que la Cour n’a pas compétence pour entendre un appel lorsqu’il n’y a pas d’impôt fédéral à payer.
+[2] Toutefois, il semble que l’appelant veuille contester le montant de l’impôt provincial qui a fait l’objet d’une nouvelle cotisation. La procédure d’appel applicable à une nouvelle cotisation qui se rapporte uniquement à l’impôt provincial sur le revenu peut être compliquée pour le contribuable. En l’espèce, on aurait apparemment dit à l’appelant qu’il pouvait en appeler de la nouvelle cotisation devant la présente cour; or, l’appelant a interjeté appel et il se rend maintenant compte que l’appel ne peut pas en fait être entendu par la Cour et qu’il doit s’adresser à un autre tribunal afin d’exercer son droit d’appel. Il arrive plutôt rarement que le contribuable se trouve dans une telle situation, et il est difficile pour quelqu’un qui est dans la situation de M. Roach de comprendre les complexités de la procédure d’appel lorsqu’une cotisation se rapporte à un montant établi au titre de l’impôt provincial, mais non de l’impôt fédéral.
+[3] Je crois comprendre que l’appelant a l’intention d’en appeler de la cotisation en vertu de la Loi de l’impôt sur le revenu de l’Ontario et de demander une prorogation de délai. Bien sûr, je n’ai pas compétence sur ce point, mais je me contenterai de dire en passant que les documents joints à l’avis de ratification et informant M. Roach qu’il pouvait interjeter appel devant la présente cour ont induit celui‑ci en erreur, et ce, sans qu’on ait eu l’intention de le faire, à mon sens.
+[4] Il ressort du dossier que M. Roach a de fait interjeté appel dans le délai imparti conformément aux instructions jointes à ces documents et qu’il s’est montré diligent en exerçant son droit d’appel.
+[5] La requête en annulation est accueillie.
+Signé à Ottawa, Canada, ce 7e jour d’avril 2006.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 22e jour de juin 2007.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2006CCI219
+No DU DOSSIER DE LA COUR : 2005‑3566(IT)I
+INTITULÉ : J. Bud Roach
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 16 mars 2006
+MOTIFS DU JUGEMENT : L’honorable juge Brent Paris
+DATE DU JUGEMENT : Le 7 avril 2006
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Michael Fox
+Avocat de l’intimée :
+Me Nimanthika Kaneira
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Ontario)

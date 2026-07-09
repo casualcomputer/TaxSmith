@@ -1,0 +1,168 @@
+Title: Les Entreprises Guy Choquette Ltée c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26031/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-442-26031-les-entreprises-guy-choquette-lt-e-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-06-28
+
+# Les Entreprises Guy Choquette Ltée c. M.R.N.
+
+- Citation: 2004 CCI 442
+- Decision date: 2004-06-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4091, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Entreprises Guy Choquette Ltée c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-28
+Référence neutre
+2004 CCI 442
+Numéro de dossier
+2003-3647(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-3647(EI)
+ENTRE :
+LES ENTREPRISES GUY CHOQUETTE LTÉE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 24 mars 2004 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Représentant pour l'appelante :
+Alain Savoie
+Avocate de l'intimé :
+Me Antonia Paraherakis
+____________________________________________________________________
+JUGEMENT
+L'appel est admis et la décision du Ministre est annulée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 28e jour de juin 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2004CCI442
+Date : 20040628
+Dossier : 2003-3647(EI)
+ENTRE :
+LES ENTREPRISES GUY CHOQUETTE LTÉE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec) le 24 mars 2004.
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi qu'exerçait Michel Choquette, le travailleur, lorsqu'au service de l'appelante pendant la période en litige, soit du 1er janvier 2000 au 12 mars 2003.
+[3] Le 11 juillet 2003, le ministre du Revenu national (le « Ministre » ) a informé l'appelante de sa décision selon laquelle le travailleur occupait un emploi assurable pendant la période en litige.
+[4] En rendant sa décision, le Ministre s'est appuyé sur les faits présumés suivants :
+6.a) l'appelante a été constituée en société le 7 octobre 1974; (admis)
+b) l'appelante exploitait une entreprise de vente et d'installation de recouvrement de planchers en bois franc, en marqueterie, en céramique ou en prélart; (admis)
+c) l'appelante employait environ de 10 à 15 employés; (admis)
+d) le travailleur était le gérant de l'appelante; (nié)
+e) les tâches du travailleur consistaient à gérer le personnel, à s'occuper de l'approvisionnement des stocks, à négocier avec les clients et à s'occuper du service à la clientèle; (à parfaire)
+f) le travailleur travaillait dans les locaux de l'appelante; (nié)
+g) l'horaire de travail du travailleur était du lundi au vendredi de 8 h 00 à 18 h 00, soit environ 50 heures par semaine; (nié)
+h) le travailleur avait un salaire fixe de 43 000 $ par année; (admis)
+i) le travailleur et le vendeur avaient droit à un bonus si les ventes avaient été bonnes; (nié)
+j) le travailleur recevait une rémunération hebdomadaire payée par chèque; (admis)
+k) dans l'exécution de ses tâches, le travailleur suivait les spécifications de l'appelante; (nié)
+l) le travailleur ne pouvait pas prendre de décision importante pour l'appelante; (nié)
+m) l'actionnaire majoritaire se rendait à tous les deux jours au bureau de l'appelante; (admis)
+n) l'appelante avait le pouvoir de contrôler le travail du travailleur; (nié)
+o) tout le matériel et l'équipement dont se servait le travailleur appartenaient à l'appelante; (admis)
+p) le travailleur n'avait aucune dépense dans l'exercice de ses fonctions; (admis)
+q) le travailleur n'avait aucun risque de perte dans l'exercice de ses fonctions; (admis)
+r) les tâches du travailleur étaient intégrées aux activités de l'appelante. (admis)
+7.a) les actionnaires de l'appelante avec droit de vote étaient :
+Guy Choquette 80 % des actions
+Louise Choquette 10 % des actions
+le travailleur 10 % des actions
+(admis)
+b) Guy Choquette est l'époux de Louise et le père du travailleur. (admis)
+c) Le travailleur était lié par les liens du sang à une personne qui contrôlait l'appelante. (admis)
+[5] La preuve de l'appelante a révélé que le travailleur faisait à peu près tout quant à l'administration de l'entreprise de l'appelante. Il en assurait la gestion et l'administration. Ses tâches consistaient à gérer le personnel, à s'occuper de l'approvisionnement des stocks, à négocier avec les clients et à s'occuper de la clientèle. C'est sur lui que reposait la tâche d'embaucher et de congédier les employés. En outre, il se chargeait des ventes de l'entreprise et de son roulement.
+[6] Le travailleur accomplissait ses tâches à partir des locaux de l'appelante mais aussi de son domicile où il s'occupait de préparer les soumissions, de faire la lecture des plans et de téléphoner aux clients.
+[7] Quant à son horaire de travail, c'est lui-même qui en décidait. Aussi, il pouvait tout aussi bien travailler de 15 à 20 heures que 60 à 70 heures par semaine, toujours selon son bon gré, et selon ses tâches dans l'entreprise.
+[8] Le représentant de l'appelante a nié que le travailleur et le vendeur avaient droit à un boni si les ventes avaient été bonnes. La preuve a révélé que le travailleur, contrairement au vendeur, avait droit à un dividende.
+[9] Il a été démontré que le travailleur exécutait ses tâches sans supervision, sans suivre les spécifications de l'appelante et qu'il pouvait prendre des décisions importantes sans elle.
+[10] Quant au fait présumé énoncé à l'alinéa 6.n), l'appelante en a prouvé la fausseté par les témoignages du travailleur et de son père, Guy Choquette, l'actionnaire à 80 pour cent des actions votantes de l'appelante.
+[11] Pour illustrer la fausseté de l'allégation du Ministre selon laquelle le travailleur ne pouvait pas prendre de décisions importantes pour l'appelante, le travailleur et son père ont donné trois exemples où la volonté du travailleur l'a emporté sur celle de son père. Il s'agit : du projet d'ajouter à l'entreprise le service de la vente de bois franc, de l'agrandissement de l'usine et du recouvrement de l'extérieur du magasin de l'appelante d'une peinture rose.
+[12] Il a été établi que le salaire du travailleur avait été déterminé par Guy Choquette et le comptable de l'entreprise, mais monsieur Choquette a précisé que le travailleur avait le pouvoir d'augmenter son salaire, s'il le désirait. Le travailleur avait le pouvoir d'embauche et de congédiement des employés. Si son père était en désaccord, ils en discutaient, mais la décision finale reposait sur le travailleur. Le travailleur a commencé à travailler à l'entreprise de l'appelante pendant qu'il était étudiant. Il a grandi dans l'entreprise. Il a été démontré que cette entreprise lui reviendrait, un jour. Le père du travailleur précise qu'il s'agit là de son héritage.
+[13] Le travailleur est le seul employé de l'entreprise à qui on a fourni une voiture et l'essence ainsi qu'un téléphone cellulaire. Son père a avoué qu'il le gâtait un peu, ce qui est admis par le travailleur qui a ajouté qu'il fait ce qu'il veut et a précisé que s'il n'était pas le fils de l'actionnaire majoritaire, il n'aurait pas tous ces avantages. Quant au père, il a confié que pour remplacer son fils dans l'entreprise, il lui faudrait payer un salaire de 55 000,00 $ à 60 000,00 $. Il a avoué que sans la présence de son fils dans l'entreprise, il devrait mettre celle-ci à vendre.
+[14] L'appelante n'exerçait aucun contrôle sur le travailleur, selon le témoignage de Guy Choquette qui a précisé que le travailleur voyait à tout. En outre, il s'absentait sans l'avertir. Il a avoué qu'il discutait avec son fils. C'est tout. Monsieur Choquette a précisé qu'il se présentait à l'entreprise à trois ou quatre reprises par semaine pour prêter main forte à son fils qui lui disait quoi faire.
+[15] En contre-interrogatoire, l'avocate du Ministre a voulu illustrer le pouvoir de contrôle de l'appelante sur le travailleur. Guy Coquette a déclaré que le travailleur pouvait seul négocier un emprunt pour l'entreprise de l'ordre de 100 000,00 $. Il a cependant, avec hésitation, admis qu'il pourrait intervenir si le travailleur s'avisait de négocier un emprunt de 500 000,00 $, mais qu'il hésiterait à le faire. Enfin, il a admis qu'il avait le pouvoir de l'arrêter, mais qu'il ne songeait aucunement à le faire.
+[16] L'avocate du Ministre a voulu mettre en doute les chiffres de l'appelante portant sur le salaire du travailleur, en produisant la pièce A-1 qui décrit le boni payé à ce dernier, mais l'appelante soutient qu'il ne s'agit pas d'un boni mais bel et bien d'un dividende et la preuve orale de l'appelante à ce sujet a été très bien documentée. Il s'agit d'un dividende et non d'un boni.
+[17] Le travailleur accomplit certaines tâches de son domicile de façon à pouvoir mieux assumer ses responsabilités familiales qui exigent une présence à la maison pour sa fille Rebecca qui doit être accompagnée régulièrement à des ateliers orthophoniques. Il a été établi également que le travailleur amenait son fils avec lui au travail, encore une fois, pour s'acquitter de sa tâche familiale de garde.
+[18] Il a été démontré que le travailleur avait le même salaire depuis quatre ans alors que les autres employés de l'entreprise avaient des augmentations de salaire régulières. Ce sont là certaines conditions qui ont amené l'appelante à soutenir que de telles conditions de travail ne seraient pas acceptables dans un contexte où n'existerait pas un lien de dépendance. Sur ce point, l'avocate du Ministre a tout simplement répliqué que ces conditions sont tout à fait normales dans un contexte d'une entreprise familiale. La preuve présentée par l'appelante servant à démontrer le rôle important que joue le travailleur dans l'entreprise, en prenant des décisions majeures, même à l'encontre des volontés de l'actionnaire majoritaire de l'appelante, a fait dire à l'agent des appels que l'appelante n'en avait tout simplement pas parlé lors de l'enquête. Quoiqu'il en soit, cette Cour doit tenir compte de cette preuve produite à l'audition.
+[19] Dans son témoignage, l'agent des appels a voulu illustrer de quelle façon il dirigeait son enquête pour déterminer s'il était raisonnable de conclure que des conditions de travail à peu près semblables auraient pu exister entre des parties non liées, en utilisant la méthode, pendant l'entrevue, de se mettre à la place du travailleur sans lien de dépendance. Ainsi, disait-il, il demandait à l'employeur s'il l'aurait engagé, lui, dans ces mêmes conditions. Mais, lorsqu'on lui a demandé s'il avait posé cette question au représentant de l'appelante, il a admis ne pas se souvenir s'il avait utilisé cette technique. Ceci a fait dire au représentant de l'appelante que l'agent des appels ne s'est pas appliqué à étudier le dossier conformément aux critères établis dans la jurisprudence.
+[20] La preuve a révélé que le travailleur pouvait consacrer de 15 à 70 heures pas semaine à ses tâches. L'appelante a soutenu qu'il ne s'agissait pas là de l'horaire d'un emploi sans lien de dépendance. Il en est de même, a soutenu l'appelante, pour les conditions de travail, telles le travail à la maison pour accommoder les tâches familiales du travailleur envers sa fille ou le travail au bureau de l'appelante avec son fils. L'appelante a soutenu qu'à cela s'ajoute la flexibilité de l'horaire du travailleur qui lui permet quatre jours de congé pendant la semaine de relâche, pour des raisons personnelles et qui lui permet de prendre des congés comme bon lui semble. L'appelante a ajouté qu'un employé sans lien de dépendance recevrait son augmentation régulière comme les autres employés de l'entreprise alors que le travailleur reçoit le même salaire depuis quatre ans. L'appelante a soutenu, en outre, qu'un employé sans lien de dépendance n'aurait pas sa voiture, son essence de même que son téléphone cellulaire fournis par son employeur. Un employé sans lien de dépendance qui a droit à six semaines de vacances se contenterait-il de n'en prendre que trois, questionne l'appelante. L'actionnaire majoritaire de l'appelante, Guy Choquette, affirme que son fils, le travailleur, fait ce qu'il veut et qu'il a le contrôle de l'entreprise. Il a ajouté que sans son fils, il vendrait la compagnie. Il a affirmé, en outre, que pour remplacer son fils, qui touche un salaire de 43 000,00 $ par année, il lui en coûterait de 55 000,00 $ à 60 000,00 $.
+[21] Cette Cour a eu l'occasion de se pencher sur une question semblable à celle sous étude dans l'arrêt Planchers de Bois Franc 2000 (Laval) Inc. c. Canada (ministre du Revenu national - M.N.R.), [2001] A.C.I. no 479. Dans cette cause, comme dans celle-ci, la travailleuse était la fille du père, l'actionnaire majoritaire du payeur. La situation factuelle dans cette cause ressemble à celle sous étude. Je reproduis ici les paragraphes 19 et 20 des motifs du juge suppléant Somers de cette Cour :
+La travailleuse oeuvrait tant au magasin qu'à l'extérieur, à savoir elle pouvait s'occuper de la comptabilité à la maison le soir, durant les fins de semaine et même pendant ses vacances, soit après ses heures régulières de travail, sans être rémunérée pour le temps supplémentaire. Les heures régulières de travail de la travailleuse étaient, selon le témoin, 50 heures par semaine. Le payeur fournissait à la travailleuse un véhicule pour les besoins de la compagnie ainsi que pour ses besoins personnels.
+Selon Maurice Lepage, les responsabilités de la travailleuse se sont accrues au fil des ans. Le salaire de cette dernière était établi à 21 000 $ par année et elle recevait ce même salaire que ce soit pendant les périodes de pointe ou les périodes creuses. Un certain monsieur Blouin, commis-vendeur, recevait un salaire de 26 000 $ alors qu'il assumait moins de responsabilités que la travailleuse. Selon Maurice Lepage, la travailleuse devrait recevoir 10 000 $ à 15 000 $ de plus par année vu ses responsabilités.
+[22] Dans cette situation, le juge suppléant Somers a écrit sa conclusion au paragraphe 24 en disant ce qui suit :
+Il est raisonnable de conclure que la travailleuse n'aurait pas été engagée avec les mêmes conditions de travail s'il n'y avait pas eu de lien de dépendance entre elle et l'appelante. Compte tenu de toutes les circonstances, la Cour conclut que la travailleuse n'occupait pas un emploi assurable au sens de l'alinéa 5(2)i) de la Loi puisqu'il existait un lien de dépendance entre elle et l'appelante.
+[23] À l'appui de ses prétentions, le représentant de l'appelante a cité l'arrêt Edward Bergen c. Canada (ministre du Revenu national - M.R.N.), [2002] A.C.I. no 73 de cette Cour, où des faits très similaires à la cause sous étude on fait l'objet de l'étude par le juge suppléant Porter.
+[24] Au paragraphe 4 de ce jugement, le juge suppléant Porter résumait les faits de la façon suivante :
+Les faits pertinents révèlent que les appelants contrôlaient au total 44 p. 100 des actions émises de la société par le truchement de leurs propres sociétés et que le 56 p. 100 restant des actions était détenu par d'autres membres de la famille par le truchement de leurs propres sociétés. La société exploitait une entreprise de fabrication d'équipement agricole. Par conséquent, en vertu de l'effet conjugué de l'article 251 de la Loi de l'impôt sur le revenu et des alinéas 5(2)i) et 6(3)a) de la Loi sur l'a.-e., leurs emplois, directeur général dans le cas d'Edward et directeur de l'exploitation dans le cas d'Allan, étaient automatiquement réputés ne pas être des emplois assurables, sous réserve de l'exception à l'alinéa 5(3)b) de la Loi sur l'a.-e. qui prévoit que l'employeur et l'employé sont présumés ne pas avoir de lien de dépendance si le ministre est convaincu de l'existence des divers critères énumérés dans cet article et qu'il exerce son pouvoir discrétionnaire afin de leur faire franchir la porte, pour ainsi dire. Le ministre a prétendu le faire et ce sont ces décisions qui sont en litige dans les présents appels.
+[25] Dans cette cause, comme dans celle sous étude, il a été établi que les travailleurs accomplissaient leurs tâches en partie au bureau de l'entreprise mais aussi à partir de leur domicile et que leurs heures n'étaient pas consignées.
+[26] En accueillant l'appel, le juge suppléant Porter écrivait la conclusion suivante :
+Compte tenu de toutes les circonstances, notamment les longues heures et les nombreuses journées de travail des frères, leur possibilité de prendre congé sans obtenir l'autorisation de quiconque et sans perte de salaire, leur consentement à réduire leur salaire lorsque la société manquait d'argent et la signature des garanties pour la société, je suis fermement convaincu qu'il n'y avait pas d'indépendance de pensée ou d'objet entre la société et les frères, qu'il n'y avait pas d'intérêts économiques contraires, que leurs intérêts étaient inextricablement liés et qu'il n'y avait pas véritablement, dans leur relation, de négociations distinctes de bonne foi du genre de celles auxquelles on s'attendrait entre les négociants au marché dont j'ai déjà parlé assez longuement. Par conséquent, je conclus que ni l'un ni l'autre n'occupait un emploi assurable.
+[27] En rendant sa décision, dans l'arrêt Bergen, précité, le juge s'est appuyé également sur le fait que les intérêts économiques des appelants étaient inextricablement liés à ceux de la société, comme c'est le cas, en l'espèce, entre le travailleur et l'appelante. Il s'exprimait en ces termes :
+Je n'entends pas exposer encore une fois toute la preuve. J'ai déjà mentionné les faits importants. Il est clair, à mon avis, que les deux frères et la société ne faisaient qu'un. Leurs intérêts économiques étaient inextricablement liés à ceux de la société. Bien qu'ils aient pu signer les garanties en leur qualité d'actionnaires ou d'administrateurs, le fait qu'ils l'aient fait montre qu'il existait un lien inextricable entre eux et la société. Leurs intérêts économiques étaient liés à ceux de la société et ceux de la société étaient liés aux leurs, dans une telle mesure qu'on ne peut dire qu'il existait entre eux des intérêts économiques distincts ou contraires. Ils étaient l'âme dirigeante de la société, ils avaient eux-mêmes un lien de parenté et ils avaient un intérêt économique familial commun qui était inséparable de celui de la société. C'est exactement la situation qu'a envisagée le législateur lorsqu'il a établi le régime d'assurance-emploi de façon à empêcher les personnes qui dirigent ou contrôlent leur propre entreprise d'une façon commerciale de prendre part à ce régime et de demander des prestations s'ils se retrouvent sans emploi.
+[28] La preuve a démontré que Michel Choquette, le travailleur, était l'âme dirigeante de l'entreprise. Plus haut dans ces motifs, des exemples ont été donnés pour démontrer comment cela s'est manifesté. Pourtant, cela n'a pas fait l'objet de l'enquête de l'agent des appels.
+[29] Toujours dans l'affaire Bergen, précitée, le juge s'est penché sur l'horaire particulier des appelants qui ressemblait à celui du travailleur, en l'espèce. Il écrivait, et je cite :
+[...] Par conséquent, bien que leur rôle principal consistait à gérer l'entreprise, ils devaient faire tout ce qui devait être fait lorsqu'il y avait du travail à faire. Par conséquent, ni l'un ni l'autre n'avait des heures de travail régulières. Ils travaillaient de cette façon parce qu'ils estimaient être les propriétaires de la société plutôt que des employés ordinaires. En supposant que les appelants avaient des heures de travail régulières, le ministre a commis une erreur. Ils travaillaient selon un horaire souple, mais ils travaillaient souvent durant de longues heures.
+[30] Le représentant de l'appelante a jugé bon de citer, à nouveau, le juge Porter dans l'arrêt précité pour illustrer comment, dans certains cas, le Ministre a pu s'appuyer sur certains faits pour exclure un emploi à l'assurabilité alors que les mêmes faits ont été, en d'autres occasions, utilisés pour l'inclure. Je reproduis ici le paragraphe 55 de l'arrêt Bergen :
+En plus de tout cela, il existait un nombre infini de différences entre la situation des appelants et celle d'employés n'ayant aucun lien de dépendance. Il s'agit de facteurs que le ministre mentionne habituellement, comme on peut le voir dans la jurisprudence publiée portant sur des affaires entendues dans l'ensemble du Canada, à l'appui de la prétention qu'il n'existait pas de relation à peu près semblable à celle que des parties n'ayant pas entre elles de lien de dépendance pourraient conclure. Dans la présente affaire, le ministre semble les traiter d'une manière différente. Ces différences comprennent le fait que les appelants emmenaient leurs enfants dans les locaux de la société lorsqu'ils travaillaient le samedi et qu'ils leur laissaient utiliser le matériel de la société, ce qui était interdit aux employés réguliers, qu'ils pouvaient utiliser le matériel de la société en tout temps sans consulter quiconque, qu'ils n'étaient pas payés pour les heures supplémentaires ou pour les jours fériés, qu'ils étaient disposés à réduire leur paye durant les périodes difficiles, qu'ils pouvaient prendre des congés à leur guise, sans tenir compte du fait que la société avait établi un horaire prévoyant deux semaines de vacances prises en même temps chaque été et que leurs payes n'étaient pas réduites s'ils prenaient congé.
+[31] Contre-interrogé par le représentant de l'appelante, l'agent des appels a donné son interprétation du rôle du Ministre dans l'application de l'alinéa 5(3)b) de la Loi sur l'assurance-emploi (la « Loi » ).Dans son témoignage, il a dit, et je cite : « Le Ministre doit déterminer si les conditions de travail sont raisonnables... » . Une situation semblable s'est présentée dans l'affaire Bergen, précitée. Voici comment le juge suppléant Porter l'a analysée, au paragraphe 58 :
+Janice Affleck, une préposée aux décisions du RPC et de l'a.-e. à l'Agence des douanes et du revenu du Canada, a également témoigné. Elle a rendu la décision initiale et elle a été appelée à témoigner au nom du ministre pour expliquer les motifs de sa décision. Elle a affirmé qu'elle connaissait les tâches et les responsabilités des directeurs généraux des entreprises exploitées dans les petites villes. Elle avait estimé qu'il n'y avait rien d'inhabituel dans les modalités d'emploi des appelants. Cela est étrange parce que, en toute déférence, il y a un certain nombre d'éléments inhabituels que j'ai déjà mentionnés. Elle a poursuivi en utilisant un terme curieux. Elle a affirmé qu'elle ne voyait rien de « déraisonnable » en rapport avec l'emploi qui « exclurait celui-ci des emplois assurables » . En toute déférence, la question en l'espèce n'a rien à voir avec ce qui est raisonnable ou déraisonnable. De plus, il semble, pour ainsi dire, qu'elle mette la charrue avant les boeufs lorsqu'elle aborde la question sous l'angle du fait qu'il n'y a rien qui exclut l'emploi. L'emploi est plutôt déjà exclu par la loi et la question à ce moment est de savoir ce qui pourrait faire en sorte que cet emploi soit ramené dans la catégorie des emplois assurables aux termes de la Loi sur l'a.-e.
+[32] Le travailleur, Michel Choquette, est le fils de Guy Choquette, actionnaire majoritaire de l'appelante. Le travailleur et l'employeur, soit l'appelante, sont donc liés au sens de l'article 251 de la Loi de l'impôt sur le revenu. Donc, l'emploi de Michel Choquette n'est pas un emploi assurable en vertu de l'alinéa 5(2)i) de la Loi. Mais l'alinéa 5(3)b) de la Loi prescrit ce qui suit :
+(3) Pour l'application de l'alinéa (2)i) :
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[33] C'est donc suite à l'exercice prescrit à l'alinéa 5(3)b) de la Loi que le Ministre a conclu que l'emploi exercé par le travailleur était assurable puisque, selon lui, il était convaincu qu'il était raisonnable de conclure, compte tenu de toutes les circonstances précitées, que le travailleur et l'appelante auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance. Par ailleurs, la preuve a révélé que la conception du rôle du Ministre, en application des consignes de l'alinéa 5(3)b) de la Loi, telle que décrite par l'agent des appels à l'audition, a permis de mettre en doute la méthodologie employée par ce dernier dans son appréciation du dossier. En conséquence, plusieurs faits présumés par le Ministre ont été ignorés ou faussement appréciés.
+[34] À cet égard, il convient de souligner l'importance, dans cet exercice, de considérer les principes établis dans l'arrêt Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878, où le juge Marceau, de la Cour d'appel fédérale, statuait ce qui suit :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciées correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était "convaincu" paraît toujours raisonnable.
+[35] En regard de ce qui précède, cette Cour doit conclure, à la lumière des textes législatifs et de la jurisprudence citée, que les faits retenus par le Ministre n'ont pas été appréciés correctement dans le contexte où ils sont survenus, et la conclusion de celui-ci, compte tenu des faits présentés à l'audition, ne paraît plus raisonnable.
+[36] En conséquence, cette Cour se doit de déterminer qu'il n'était pas raisonnable de statuer que l'appelante et le travailleur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[37] Pour ces motifs, cette Cour est contrainte de conclure que l'emploi du travail n'était pas assurable. La décision rendue par le Ministre est donc annulée.
+Grand-Barachois (Nouveau-Brunswick), ce 28e jour de juin 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI442
+No DU DOSSIER DE LA COUR :
+2003-3647(EI)
+INTITULÉ DE LA CAUSE :
+Les Entreprises Guy Choquette Ltée et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 24 mars 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable S.J. Savoie, juge suppléant
+DATE DU JUGEMENT :
+le 28 juin 2004
+COMPARUTIONS :
+Pour l'appelante :
+Alain Savoie (représentant)
+Pour l'intimé :
+Me Antonia Paraherakis
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

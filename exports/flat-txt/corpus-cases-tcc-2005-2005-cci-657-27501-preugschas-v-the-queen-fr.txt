@@ -1,0 +1,133 @@
+Title: Preugschas v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27501/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-657-27501-preugschas-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-10-11
+
+# Preugschas v. The Queen
+
+- Citation: 2005 CCI 657
+- Decision date: 2005-10-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 58, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Preugschas v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-11
+Référence neutre
+2005 CCI 657
+Numéro de dossier
+2005-826(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-826(IT)I
+ENTRE :
+TRINA D. PREUGSCHAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+Appel entendu sur preuve commune avec les appels de Walter K. Preugschas (2005-822(IT)I) et Marjorie J. Preugschas (2005-827(IT)I) à Edmonton (Alberta), le 16 août 2005
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Représentant de l'appelante :
+Walter K. Preugschas
+Avocate de l'intimée :
+Me Dawn Taylor
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en application de la Loi de l'impôt sur le revenu pour l'année d'imposition 2003 est admis sans frais et l'affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 11e jour d'octobre 2005.
+Juge Little
+Traduction certifiée conforme ce 2e jour d'août 2006.
+Christian Laroche, LL.B.
+Référence : 2005CCI657
+Date : 20051011
+Dossier : 2005-826(IT)I
+ENTRE :
+TRINA D. PREUGSCHAS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS :
+[1] L'appelante est la fille de Walter et de Marjorie Preugschas.
+[2] Walter Preugschas ( « Walter » ) détient 50 % des actions émises de Bloomsbury Farms Ltd. ( « Bloomsbury » ). Marjorie Preugschas détient également 50 % des actions de Bloomsbury. Bloomsbury possède et exploite une grosse porcherie près de Barrhead, au nord-ouest de l'Alberta (la « ferme » ). La ferme s'étend sur 700 acres et comporte de 6 000 à 7 000 porcs.
+[3] La famille Preugschas a eu un accident d'automobile près de Regina, Saskatchewan, en 1997. Le fils aîné, Nolan (18), est décédé des suites de l'accident et Trina (16) a subi des blessures à la colonne vertébrale, au niveau du cou.
+[4] Après l'accident, les médecins ont conclu que Trina avait subi des blessures sérieuses. Il y a eu rupture des disques C4, C5 et C6 situés dans le cou de Trina et elle était considérée comme quadriplégique. Les médecins ont dit qu'il était peu probable que Trina retrouve un jour l'usage de ses bras et de ses mains et qu'il était encore moins probable qu'elle puisse remarcher.
+[5] Les médecins de Trina ont aussi précisé que les personnes ayant subi des lésions de la moelle épinière avaient souvent des problèmes de santé secondaires, comme des pneumonies, des escarres, des infections urinaires et rénales, des douleurs, des problèmes cardiaques, etc.
+[6] Walter Preugschas a déclaré dans son témoignage qu'après l'accident, la principale préoccupation de Trina était de travailler le plus fort possible pour retrouver une grande partie de ses fonctions motrices, y compris la capacité de marcher.
+[7] Walter Preugschas a également déclaré dans son témoignage que pour aider Trina à atteindre son objectif visant à retrouver une grande partie de ses fonctions motrices, y compris la capacité de marcher, Trina et lui avaient fait des recherches concernant différentes sortes d'appareils d'exercice et un certain nombre de thérapies médicales.
+[8] Walter Preugschas a témoigné qu'en 2002, dans le cadre des recherches qu'ils effectuaient pour trouver des appareils d'exercice qui permettraient d'augmenter les chances de Trina d'améliorer son état, ils avaient découvert que la société Combo, en Suisse, fabriquait des appareils d'exercice utilisés par les personnes ayant subi des lésions de la moelle épinière.
+[9] L'appelante et son père, Walter, ont effectué d'autres recherches avec des centres de rétablissement enEurope et ils ont aussi discuté avec des personnes en Europe qui avaient subi des lésions de la moelle épinière. Ils ont également rencontré des médecins praticiens au Canada, en Europe et aux États-Unis.
+[10] Du 22 au 29 octobre 2003, l'appelante et Walter ont travaillé avec Thomas Nyfeller de Steinhauser, en Suisse. M. Nyfeller est un neuro-physiothérapeute. Dans une lettre adressée à la Saskatchewan Government Insurance et datée du 29 octobre 2003, M. Nyfeller a dit ce qui suit :
+[traduction]
+[...] nous recommandons fortement qu'elle ait chez elle l'appareil à position allongée Giger MD et l'appareil à impulsion Giger Booster. Le système Giger MD est un mécanisme thérapeutique révolutionnaire. Ce genre de système permet d'optimiser les fonctions motrices des patients qui ont des problèmes d'articulations et de dos, de l'arthrite, des problèmes circulatoires et des troubles complexes de fonctionnement du système nerveux.
+[11] L'appelante a suivi la recommandation de M. Nyfeller et a payé 12 929 $ pour acheter le Giger Booster.
+[12] Lorsque l'appelante a produit sa déclaration de revenus pour l'année d'imposition 2003, elle a déduit le montant de 12 929 $ qui représentait le coût du Giger Booster.
+[13] Au moyen d'un avis de nouvelle cotisation datée du 23 septembre 2004, le ministre a établi une nouvelle cotisation à l'égard de l'appelante pour refuser le montant de 12 292 $.
+B. LA QUESTION EN LITIGE :
+[14] Il s'agit de savoir si l'appelante a le droit de déduire les frais médicaux de 12 292 $ selon l'article 118.2 de la Loi de l'impôt sur le revenu (la Loi) pour déterminer son revenu pour l'année d'imposition 2003.
+C. ANALYSE ET CONCLUSION :
+[15] La demande d'un crédit d'impôt pour frais médicaux de l'appelante est fondée sur l'alinéa 118.2(2)m) de la Loi, qui se lit comme suit:
+118.2(2) Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés :
+[...]
+m) [dispositifs prescrits] - pour tout dispositif ou équipement destiné à être utilisé par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l'alinéa a) et qui répond aux conditions suivantes, dans la mesure où le montant payé ne dépasse pas le montant fixé par règlement, le cas échéant, relativement au dispositif ou à l'équipement :
+(i) il est d'un genre visé par règlement,
+(ii) il est utilisé sur ordonnance d'un médecin,
+(iii) il n'est pas visé à un autre alinéa du présent paragraphe,
+(iv) il répond aux conditions prescrites quant à son utilisation ou à la raison de son acquisition;
+[16] Je dois ensuite examiner la partie LVII du Règlement de l'impôt sur le revenu (le Règlement).
+[17] Voici le libellé de l'article 5700 du Règlement :
+5700. Les dispositifs ou équipements suivants sont prescrits pour l'application de l'alinéa 118.2(2)m) de la Loi :
+[...]
+i) tout dispositif qui est conçu à l'intention du particulier à mobilité réduite pour l'aider à marcher;
+[18] En l'espèce, la preuve indique clairement que l'équipement médical connu sous le nom de Giger Booster a été prescrit par Thomas Nyfeller. J'ai également conclu que le Giger Booster constitue un dispositif prescrit au sens de l'alinéa 5700m) du Règlement.
+[19] Comme la situation de l'appelante correspond au libellé de l'alinéa 118.2(2)m) de la Loi et de l'alinéa 5700m) du Règlement, elle a le droit de déduire le montant de 12 929 $ qu'elle a payé pour acheter le Giger Booster pour déterminer son revenu pour l'année d'imposition 2003.
+[20] L'appel est admis sans frais.
+Signé à Vancouver (Colombie-Britannique), ce 11e jour d'octobre 2005.
+Juge Little
+Traduction certifiée conforme ce 2e jour d'août 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE :
+2005CCI657
+NO DU DOSSIER DE LA COUR :
+2005-826(IT)I
+INTITULÉ DE LA CAUSE :
+Trina D. Preugschas c.
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Edmonton (Alberta)
+DATE DE L'AUDIENCE :
+Le 16 août 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 11 octobre 2005
+COMPARUTIONS :
+Représentant de l'appelante :
+Walter K. Preugschas
+Avocate de l'intimée :
+Me Dawn Taylor
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

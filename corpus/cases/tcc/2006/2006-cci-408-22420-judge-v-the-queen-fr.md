@@ -1,0 +1,177 @@
+---
+title: "Judge v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22420/index.do"
+last_modified: "2006-07-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 408"
+citation2: ""
+neutral_citation: "2006 CCI 408"
+decision_date: "2006-07-20"
+language: "fr"
+item_id: "22420"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2277
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:54:26.379000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c64034aecb283dee5012a752d4906922a182bf193c394467a307034d9d29f1e4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Judge v. The Queen
+
+- Citation: 2006 CCI 408
+- Decision date: 2006-07-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2277, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Judge v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-20
+Référence neutre
+2006 CCI 408
+Numéro de dossier
+2005-1343(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1343(IT)I
+ENTRE :
+NEELAM KAUR JUDGE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+DARBARA SINGH BAINS,
+mis en cause.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 10 juillet 2006 à Vancouver (Colombie-Britannique)
+Devant : L'honorable juge L.M. Little
+Comparutions :
+Avocat de l'appelante :
+Me K. Alastair Rees-Thomas
+Représentant de l'intimée :
+Ryan Gellings, stagiaire en droit
+Pour le mis en cause :
+Darbara S. Bains, pour son propre compte
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années de base 2000, 2001 et 2002 sont accueillis sans frais, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 20e jour de juillet 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 31e jour d'octobre 2006.
+Jean David Robert, traducteur
+Référence : 2006CCI408
+Date : 20060720
+Dossier : 2005-1343(IT)I
+ENTRE :
+NEELAM KAUR JUDGE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+DARBARA BAINS,
+mis en cause.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L'appelante et Darbara Singh Bains (le « mis en cause » ) se sont mariés le 26 juin 1993 et se sont séparés le 28 mai 2001.
+[2] Deux enfants sont issus du mariage :
+Date de naissance
+Fils
+29 décembre 1995
+Fils
+20 novembre 1997
+(Les enfants sont ci-après désignés sous le terme d' « enfants » .)
+[3] L'appelante a reçu la prestation fiscale pour enfants (la « PFE » ) à l'égard des enfants pendant la période allant de la séparation en mai 2001 jusqu'en 2004.
+[4] Les années d'imposition en cause sont les suivantes :
+Année de base
+Période en cause
+2000
+juillet 2001 à juin 2002
+2001
+juillet 2002 à juin 2003
+2002
+juillet 2003 à juin 2004
+[5] Vers le 7 avril 2004, le mis en cause a rempli et a signé un formulaire de demande de prestation fiscale pour enfants dans lequel il a indiqué qu'il était principalement responsable des deux enfants depuis le 1er septembre 2001.
+[6] Le ministre du Revenu national (le « ministre » ) a transmis à l'appelante un avis de PFE daté du 20 juillet 2004 relativement aux années de base 2000, 2001 et 2002. Dans l'avis en question, le ministre a informé l'appelante qu'elle n'avait plus le droit de recevoir la PFE à l'égard de son fils cadet depuis juillet 2001 et à l'égard de son fils aîné depuis octobre 2001 parce que, depuis ces dates, les enfants ne résidaient plus avec elle. Le ministre a aussi décidé que le mis en cause était la personne qui assumait principalement la responsabilité pour le soin et l'éducation des enfants.
+[7] Le 22 avril 2005, l'appelante a déposé un avis d'appel.
+[8] Le 20 décembre 2005, le ministre a présenté une demande en vertu de l'article 174 de la Loi de l'impôt sur le revenu (la « Loi » ). Celle-ci indique qu'il demande qu'une décision soit rendue sur la question de savoir qui est le particulier admissible au sens de l'article 122.6 de la Loi et de l'article 6302 du Règlement de l'impôt sur le revenu pour les besoins de la détermination de la PFE à payer à l'égard des personnes à charge admissibles de l'appelante et du mis en cause pour la période de juillet 2001 à juin 2004 inclusivement et pour les années de base 2000 à 2002 inclusivement.
+B. QUESTION EN LITIGE
+[9] La question en litige est de savoir si l'appelante était le particulier admissible à l'égard des enfants à partir de septembre 2001 et, donc, si elle avait droit à la PFE à l'égard des enfants à partir de cette date.
+C. ANALYSE ET DÉCISION
+[10] La preuve est contradictoire parce que l'appelante et sa belle-soeur, Angella, ont affirmé que l'appelante était la personne qui assumait principalement la responsabilité pour le soin et l'éducation des enfants depuis la séparation (27 mai 2001) jusqu'au 1er septembre 2003. Le mis en cause, son père Kewal Bains et d'autres témoins ont affirmé que le mis en cause était la personne qui assumait principalement la responsabilité pour le soin et l'éducation des enfants à partir du 1er septembre 2001.
+[11] En considérant la preuve, j'ai examiné les témoignages faits sous serment par les témoins et plusieurs documents, lettres et reçus. Je constate que l'honorable juge Gove de la Cour provinciale de la Colombie-Britannique a prononcé une décision en vertu de la Family Relations Act de la Colombie-Britannique (voir pièce A-19). Dans ses motifs du jugement, le juge Gove a dit ce qui suit en parlant de l'appelante et du mis en cause :
+[traduction]
+[...] Ils vivent séparés depuis 2001. Au début, après qu'ils se sont séparés, les deux garçons passaient plus de temps avec leur mère qu'avec leur père. Avec le temps, ceci a changé, et ils passent maintenant plus de temps avec leur père. En effet, il contrôle le droit de visite dont dispose Mme Judge, et ce, entre autres, parce qu'il les a inscrits à diverses activités et a donc limité le temps qu'ils pouvaient passer avec leur mère.
+[12] Après avoir examiné toute la preuve en détail et analysé plusieurs décisions rendues par la Cour, je suis arrivé à la conclusion que l'appelante était la personne qui assumait principalement la responsabilité pour le soin et l'éducation des enfants du 27 mai 2001 au 31 août 2002. J'ai aussi conclu que le mis en cause assumait principalement cette responsabilité à partir du 1er septembre 2002.
+[13] Puisque les deux parties ont partiellement gain de cause, j'ai décidé de ne pas adjuger les dépens.
+[14] Les appels sont accueillis sans frais, et les cotisations sont déférées au ministre pour nouvel examen et nouvelle cotisation afin que le ministre puisse effectuer les modifications qui s'imposent.
+[15] Avant de conclure mes propos, je tiens à ajouter que je suis arrivé à la conclusion que les deux parents travaillent très fort pour veiller à ce que les enfants aient un environnement sûr et qu'ils soient exposés à de nombreuses activités utiles. J'applaudis les efforts louables que les parents déploient pour subvenir aux besoins de leurs enfants.
+Signé à Vancouver (Colombie-Britannique), ce 20e jour de juillet 2006.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 31e jour d'octobre 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE :
+2006CCI408
+N º DU DOSSIER DE LA COUR :
+2005-1434(IT)I
+INTITULÉ :
+Neelam Kaur Judge et Sa Majesté la Reine et Darbara Bains
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 10 juillet 2006
+MOTIFS DU JUGEMENT :
+L'honorable juge L.M. Little
+DATE DU JUGEMENT :
+Le 20 juillet 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Alastair Rees-Thomas
+Représentant de l'intimée :
+Ryan Gellings, stagiaire en droit
+Pour le mis en cause :
+Darbara S. Bains, pour son propre compte
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me K. Alastair Rees-Thomas
+Cabinet :
+Rees-Thomas & Company
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

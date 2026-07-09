@@ -1,0 +1,164 @@
+---
+title: "Kelowna Christian Center Society v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28495/index.do"
+last_modified: "2008-02-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 80"
+citation2: ""
+neutral_citation: "2008 TCC 80"
+decision_date: "2008-02-04"
+language: "en"
+item_id: "28495"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1292
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:35:05.455000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "83f74eee7fdc5167a9d610d993017e88507d3abd8132eb16c143f7ee7c457ae2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kelowna Christian Center Society v. M.N.R.
+
+- Citation: 2008 TCC 80
+- Decision date: 2008-02-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1292, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kelowna Christian Center Society v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-04
+Neutral citation
+2008 TCC 80
+File numbers
+2007-2067(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Dockets: 2007-2067(EI)
+2007-2068(CPP)
+BETWEEN:
+KELOWNA CHRISTIAN CENTER SOCIETY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+HEATHER WIK,
+Intervenor.
+____________________________________________________________________
+Appeal heard on January 22, 2008 at Vancouver, British Columbia
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+David M. Towill
+Counsel for the Respondent:
+Christa Akey
+For the Intervenor:
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeals in respect of decisions of the Minister of National Revenue made under the Employment Insurance Act and the Canada Pension Plan are allowed, and the decisions are vacated on the basis that Heather Wik was not engaged in insurable or pensionable employment for the period from September 5, 2005 to June 30, 2006.
+Each party shall bear their own costs.
+Signed at Toronto, Ontario this 4th day of February, 2008.
+"J. Woods"
+Woods J.
+Citation: 2008TCC80
+Date: 20080204
+Dockets: 2007-2067(EI)
+2007-2068(CPP)
+BETWEEN:
+KELOWNA CHRISTIAN CENTER SOCIETY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+HEATHER WIK,
+Intervenor.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench on January 30, 2008)
+Woods J.
+[1] These are reasons delivered orally relating to appeals instituted by the Kelowna Christian Center Society against the Minister of National Revenue.
+[2] The issue to be decided is whether Heather Wik, who was hired by the Society as a teacher, was engaged as an employee or independent contractor during a ten-month school term in 2005 and 2006. The Minister of National Revenue determined that she was engaged in insurable and pensionable employment for purposes of the Employment Insurance Act and the Canada Pension Plan. The Society appeals that determination.
+[3] Ms. Wik participated in the hearing as an intervenor, and seeks confirmation of the Minister’s determination that she was an employee primarily for the purposes of determining maternity benefits under the Employment Insurance Act.
+[4] I will first provide some background about the appellant and the intervenor.
+[5] The appellant is a non-profit society whose activities include the operation of a number of schools. Some of the schools operate in a traditional way with fixed classrooms but the school that is at issue in this appeal provides distance learning through online education. In general, the online school provides assistance for home-schooled students for grades kindergarten through 12.
+[6] When teachers are hired by the appellant to teach in traditional classrooms, they are hired as employees. But when teachers contract to teach for the online school, the appellant intends to hire them as independent contractors. I would note, however, that this is not explicitly stated in the standard form contract that each teacher in the online school signs.
+[7] Ms. Wik was hired as a teacher at the online school for a ten-month school term.
+[8] As I understand it, there are two types of services that the online school offers to home-schooled families. One service offers online courses. Some teachers are hired specifically for this but Ms. Wik was not one of them. Accordingly, this service is not at issue in these appeals. The other service offered to home-schooled families is called the Individualized Program. As I understand it, the main objective of this program is to assist home-schooled families in complying with government prescribed regulations called learning outcomes. It was this program that Ms. Wik contracted for.
+[9] Ms. Wik’s responsibilities were to work with an assigned number of students, in her case 13 or 14. The school had estimated that a teacher would spend approximately one hour each week per student and accordingly Ms. Wik’s work load was anticipated to be about 14 hours per week.
+[10] In general, the work required that Ms. Wik first collaborate with each family to develop an individualized learning plan that satisfied the government’s learning outcomes. She then assisted the parents in the implementation of the learning plan throughout the school year, primarily by means of an email communication once a week. She was also required to assess the student’s work three times a year and determine whether the learning outcomes had been satisfied.
+[11] I turn now to the issue to be decided.
+[12] The legal principle that is to be applied in situations such as this is well known and I will not repeat it here. Essentially, it must be decided whether Ms. Wik was operating her own business. This depends on a careful review of all the facts and circumstances and a weighing of factors such as the ability of the school to control the manner in which Ms. Wik’s work was done, the ownership of Ms. Wik’s equipment and supplies, her opportunity for profit or loss, and lastly the intention of the parties.
+[13] Based on the evidence presented, I have concluded that the relationship between the online school and Ms. Wik is more consistent with an independent contractor relationship. My reasons are as follows.
+[14] I will first consider the intention of the parties. Based on the evidence as a whole, I have concluded that there was no specific understanding between Ms. Wik and the online school that she be engaged as an independent contractor. Ms. Wik testified to that effect and I find her testimony to be credible.
+[15] Notwithstanding that there was no agreement between the parties, I also find that the school’s administration did attempt to communicate what its intention was to teachers. This was done at an orientation meeting at the commencement of the year which all teachers are required to attend. I accept the testimony of the superintendent of the school, Gregory Bitgood, when he said that he thought that the school’s intention was implicit. I think that it is likely that most teachers would have understood the school’s position in this respect.
+[16] Although Ms. Wik did not appreciate that she was to be engaged as an independent contractor, I think that she was not paying close attention to a number of red flags. No source deductions were made. A course on how to carry on your own business was offered to teachers at the orientation session. In addition, the teachers’ remuneration was different from a traditional teaching position. One thing that could legitimately cause confusion, however, was the fact that the school administration referred to the teachers as staff. On balance, though, I think that Ms. Wik should have realized that this relationship was fundamentally different from her former teaching jobs.
+[17] Where does that leave us with respect to the factor of intention? Quite clearly, the parties did not have a common intention, but I think that it is significant that the school’s administration made bona fide efforts to communicate its intention. If Ms. Wik had been paying close attention to what was being communicated, I think she would have had at the very least real doubts about this being an employment relationship.
+[18] I would note, however, that the school failed to make this clear in their standard form contract, and it appears that the school also failed to specifically notify teachers that this teaching contract would not count towards maternity benefits. That is very unfortunate but it is not a sufficient reason for me to find that this was an employment relationship.
+[19] I will turn now to the terms of the contract which are quite different from a traditional employment relationship which usually has set hours of work, an indefinite period of hiring, and an hourly wage or salary. In this case, Ms. Wik was paid an annual amount per student and she was free to perform the services on her own time and at a location chosen by her. She could even work while traveling because all she needed was internet access. Further, the school tried to accommodate the work load that the teachers desired. In Ms. Wik’s case, she wanted about 15 students and this was considerably less than a full-time work load which would be about 40 students. Further, I note that Ms. Wik was provided some benefits such as a dental plan but these were on an optional basis and Ms. Wik had to contribute to the cost. These factors when considered together support the appellant’s position.
+[20] I also note that Ms. Wik had to purchase her own equipment and supplies, but I think that it is significant that the school provided compensation towards some of these costs. I consider this factor to be neutral, not pointing strongly to either an employment or independent contractor relationship.
+[21] Another fact that was raised at the hearing was that teachers were allowed to subcontract out their work. I do not think that this is a significant factor in this case because there is no indication that this was communicated to Ms. Wik. I accept Ms. Wik’s testimony that she did not think that subcontracting was possible.
+[22] Finally, I come to the issue of control. The question here is the extent to which the school could dictate to Ms. Wik how she performed her teaching responsibilities.
+[23] I think that it is relevant in considering this factor that the school clearly thought that it had entered into an independent contractor relationship. There is nothing in the contract that Ms. Wik signed that indicates that the school had the ability to generally dictate how the work was done. The contract does set out specific policies, such as communication policies, and it provides that the school could make certain demands in peripheral areas, such as writing articles for the newsletter or relational matters with the parents. But in the core areas of teaching and assessment, Ms. Wik contractually had considerable freedom in how to perform this work. When the contract is looked at as a whole, I find that it supports the appellant’s position that it does not have the ability to control how the work was done.
+[24] That is not the end of the matter, however, because it is also necessary to look beyond the contract to consider whether the school’s administration actually did try to dictate to Ms. Wik how her work should be done. If the school’s administration attempted to exercise considerable control over the manner in which the work was done, then I think that this would be significant.
+[25] In this regard, the respondent introduced a document called the teacher’s handbook which sets out policies and procedures that teachers are to follow. In general, I find that it does not go over the line in trying to exercise control over how the teachers perform their work. The procedures provide a framework for the teachers to work within, but there is a lot of freedom, as might be expected when you are dealing with home-schooled education where the parents play a fundamental role.
+[26] In addition, the respondent introduced Ms. Wik as a witness and she testified that a teacher working for the administration, Janet Rainbow, communicated with her on a very frequent basis. She testified that she had received over 80 emails from Ms. Rainbow and a sample of these emails were introduced into evidence to show the nature of the relationship.
+[27] For the most part, I think that Ms. Rainbow’s communications can be described as being in the nature of a support to a teacher rather than providing directives. Ms. Rainbow was described at the hearing more than once as someone who was a great resource. The emails indicate that Ms. Rainbow did at times impose requirements on the teachers, but this is to be expected where government regulations need to be satisfied and parents’ expectations need to be met. There were one or two instances where Ms. Rainbow stepped over the line, in my view, but I do not think that these are sufficient to tip the scales in favour of an employment relationship.
+[28] I would also comment that Ms. Wik was hired at a time when this program was quite new. In this circumstance, it would be expected that there would be considerable communication between the administration and the teachers as everyone was trying to figure out how best to deliver the services to the families and satisfy government regulations.
+[29] Overall, I find that the school administration did not go over the line in exercising control and that it did not have the contractual ability to do so.
+[30] When all of the above factors are weighed, I conclude that the facts support the position of the appellant that Ms. Wik was engaged as an independent contractor. Although there are some factors that point toward an employment relationship, I think that the majority are in the appellant’s favour.
+[31] The appeals will be allowed, and the decisions of the Minister will be vacated on the basis that Ms. Wik was not engaged in insurable or pensionable employment. There will be no order as to costs.
+Signed at Toronto, Ontario this 4th day of February, 2008.
+"J. Woods"
+Woods J.
+CITATION: 2008TCC80
+COURT FILE NO.: 2007-2067(EI); 2007-2068(CPP)
+STYLE OF CAUSE: KELOWNA CHRISTIAN CENTER SOCIETY AND MINISTER OF NATIONAL REVENUE AND
+HEATHER WIK.
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: January 22, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Woods
+DATE OF JUDGMENT: February 4, 2008
+APPEARANCES:
+Counsel for the Appellant:
+David M. Towill
+Counsel for the Respondent:
+Christa Akey
+For the Intervenor
+The Intervenor herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David M. Towill
+Firm: Thomas Butler LLP
+Vancouver, British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervenor: n/a

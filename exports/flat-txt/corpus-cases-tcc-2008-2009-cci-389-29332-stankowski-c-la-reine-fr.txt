@@ -1,0 +1,132 @@
+Title: Stankowski c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29332/index.do
+Corpus path: corpus/cases/tcc/2008/2009-cci-389-29332-stankowski-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-03-10
+
+# Stankowski c. La Reine
+
+- Citation: 2009 CCI 389
+- Decision date: 2008-03-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7071, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stankowski c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-03-10
+Référence neutre
+2009 CCI 389
+Numéro de dossier
+2005-1759(IT)G
+Juges et Officiers taxateurs
+Barbara Tanasychuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1759(IT)G
+ENTRE :
+LESLIE JOSEPH STANKOWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+CERTIFICAT DE TAXATION
+JE CERTIFIE que j’ai taxé les dépens entre parties de l’intimée dans la présente instance en vertu du paragraphe 153(1) des Règles de la Cour canadienne de l’impôt (Procédure générale) et J’ACCORDE LA SOMME DE 4 739,65 $.
+Signé à Toronto (Ontario), ce 6e jour d’août 2009.
+« B.G. Tanasychuk »
+Officière taxatrice
+Traduction certifiée conforme
+ce 5e jour d’octobre 2009.
+Sandra de Azevedo, LL.B.
+Référence : 2009CCI389
+Date : 20090806
+Dossier : 2005-1759(IT)G
+ENTRE :
+LESLIE JOSEPH STANKOWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE LA TAXATION
+L’officière taxatrice Barbara Tanasychuk, O.T., C.C.I.
+[1] L’instruction de la présente taxation a eu lieu par voie de conférence téléphonique le 24 juin 2009. Elle fait suite au jugement en date du 11 mars 2008 par lequel la juge Judith Woods de notre Cour a rejeté avec dépens l’appel interjeté relativement à une cotisation établie en vertu de la Loi de l’impôt sur le revenu. L’appelant se représentait lui-même et l’intimée était représentée par Me Shatru Ghan.
+[2] Le mémoire de frais déposé le 24 octobre 2008 s’établit comme suit :
+[traduction]
+1.(1) Services fournis par les avocats :
+1(1)a) pour tous les services fournis avant l’interrogatoire préalable 525 $
+1(1)b) pour la communication de documents ou l’inspection de biens 150 $
+1(1)c) pour l’interrogatoire préalable du 26 janvier 2007 525 $
+1(1)e) pour la préparation de l’audience de justification du
+30 novembre 2007 et la présence à cette audience 125 $
+pour la préparation de l’audience de justification du
+7 septembre 2007 et la présence à cette audience 125 $
+1(1)g) pour la préparation de l’audience 625 $
+1(1)h) pour chaque journée d’audience ou partie de journée d’audience
+(1 500 $ par journée), l’audience ayant été tenue
+le 10 mars 2008 1 500 $
+1(1)i) pour tous les services fournis après le prononcé du jugement 300 $
+TOTAL DES HONORAIRES : 3 875 $
+1.(2) Débours :
+Transcription de l’interrogatoire préalable : 267,65 $
+MHFFeltman Verbatim Reporting
+Photocopies : 8,40 $
+Réponse :
+4 pages x 0,20 $ x 4 copies = 3,20 $
+Liste de documents (communication partielle) :
+5 pages x 0,20 $ x 4 copies = 4 $
+Avis de convocation : 3 pages x 0,20 $ x 1 copie = 0,60 $
+Demande conjointe : 3 pages x 0,20 $ x 1 copie = 0,60 $
+Huissier : 63,60 $
+Cancor Services – signification d’un avis de convocation
+et de la liste de documents (communication partielle) de l’intimée
+TOTAL DES DÉBOURS : 339,65 $
+TOTAL DES HONORAIRES ET DÉBOURS : 4 214,65 $
+1(1)c) pour la taxation des dépens 525 $
+Total des honoraires et des débours
+(incluant le cas échéant la taxation des dépens) 4 739,65 $
+THÈSE DE L’APPELANT
+[3] La thèse de M. Stankowski est que l’intimée n’a droit à aucun montant à titre de dépens. M. Stankowski se réfère à une lettre de l’Agence du revenu du Canada (l’ARC) qui établit selon lui le montant dû à l’ARC et dans laquelle se trouve une déclaration suivant laquelle l’ARC renoncerait à toute mesure de recouvrement entreprise dès que ce montant aura été acquitté. Comme je n’avais pas cette lettre en main, une copie m’en a été transmise après la clôture de la présente audience. Cette lettre de l’ARC est datée du 30 mai 2008. En voici le texte :
+[traduction]
+Agence du revenu du Canada
+Bureau des services fiscaux
+Scarborough (Ontario) M1P 4Y3
+Le 30 mai 2008
+Compte numéro
+LESLIE J STANKOWSKI 480 316 496
+6193, CHEMIN KINGSTON
+SCARBOROUGH (ONTARIO) M1C 1L1
+Objet : Demande de lettre sur l’état du compte de Leslie Joseph Stankowski
+Monsieur,
+La présente fait suite à l’appel téléphonique au cours duquel vous avez demandé que l’on vous indique le solde qu’il vous reste à payer à l’Agence du revenu du Canada (ARC).
+En date d’aujourd’hui, votre solde s’établit à 85 000 $.
+Ces chiffres sont extraits des dossiers informatisés de l’Agence du revenu du Canada relatifs à ce compte.
+Veuillez faire parvenir votre chèque ou votre paiement à l’attention de P. Strachan à l’adresse ci-après mentionnée. Prière d’indiquer votre numéro de compte au recto de votre chèque pour faciliter le traitement.
+Il y aura cessation immédiate de toute mesure de recouvrement entreprise dès que le montant en souffrance aura été acquitté.
+N’hésitez pas à communiquer avec nous au numéro de téléphone ci-après indiqué pour de plus amples renseignements.
+Veuillez agréer, Monsieur, l’expression de nos sentiments distingués.
+P. Strachan
+Agent de perception
+[4] M. Stankowski affirme qu’il a acquitté la somme de 85 000 $ mentionnée dans la lettre de l’ARC. Il soutient qu’il a payé tout ce qu’il devait à l’ARC et ajoute que l’intimée ne peut maintenant lui réclamer les dépens. M. Stankowski insiste sur le texte du cinquième paragraphe de la lettre de l’ARC :
+[traduction] Il y aura cessation immédiate de toute mesure de recouvrement entreprise dès que le montant en souffrance aura été acquitté.
+THÈSE DE L’INTIMÉE
+[5] Me Ghan n’est pas d’accord avec M. Stankowski. Il soutient que la lettre de l’ARC indique le solde dû par M. Stankowski, ce qui constitue une question distincte qui n’a rien à voir avec la question des dépens qui ont été adjugés par la Cour et auxquels l’intimée a droit.
+DÉCISION
+[6] Le jugement relatif à l’appel a été rendu le 11 mars 2008. Or, la lettre de l’ARC citée par M. Stankowski porte la date du 30 mai 2008.
+[7] Le mémoire de frais de l’intimée a été déposé à la Cour le 24 octobre 2008. Toutefois, la correspondance entre l’intimée et M. Stankowski au sujet des dépens avait déjà commencé le 11 juin 2008. À l’affidavit de Hilda Mozaffar est jointe à titre d’annexe E une lettre adressée le 11 juin 2008 par Me Ghan à M. Stankowski. À cette lettre étaient joints le mémoire de frais de l’intimé ainsi qu’une demande de paiement des dépens. Cette lettre est restée sans réponse. Une autre lettre a été envoyée à M. Stankowski le 25 juin 2008 (annexe F de l’affidavit de Hilda Mozaffar). La première lettre adressée par Me Ghan à M. Stankowski a été envoyée moins de deux semaines après celle de l’ARC.
+[8] La lettre de l’ARC portait la mention suivante : [traduction] « Il y aura cessation immédiate de toute mesure de recouvrement entreprise dès que le montant en souffrance aura été acquitté ». Comme il a payé à l’ARC 85 000 $, c’est-à-dire le solde qu’il devait, M. Stankowski estime que l’intimée n’a pas droit aux dépens adjugés par la Cour. Je ne suis pas de cet avis. L’adjudication des dépens à l’intimée par la Cour faisait suite à l’appel dont M. Stankowski a été débouté. Toute mesure de recouvrement entreprise par l’ARC pour recouvrer le solde dû par M. Stankowski n’a aucun rapport avec les dépens adjugés par la Cour que l’intimée a le droit de réclamer.
+[9] Les montants réclamés à titre d’honoraires des avocats sont conformes à l’annexe II, tarif B des Règles de la Cour canadienne de l’impôt (Procédure générale), et j’accorde la somme de 4 400 $, laquelle comprend 525 $ pour la présente taxation des dépens. Le montant réclamé pour les débours est appuyé par un affidavit relatif aux débours souscrit le 23 octobre 2008 par Hilda Mozaffar, auquel ont été jointes des copies des factures pertinentes. Je suis convaincue que ces débours étaient essentiels à la poursuite de l’instance. J’accorde donc la somme de 339,65 $ pour les débours.
+[10] Le mémoire de frais est taxé et j’accorde la somme de 4 739,65 $. Un certificat portant ce montant sera délivré.
+Signé à Toronto (Ontario), ce 6e jour d’août 2009.
+« B.G. Tanasychuk »
+Officière taxatrice
+Traduction certifiée conforme
+ce 5e jour d’octobre 2009.
+Sandra de Azevedo, LL.B.

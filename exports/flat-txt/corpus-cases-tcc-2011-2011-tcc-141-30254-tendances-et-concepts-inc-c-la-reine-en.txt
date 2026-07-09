@@ -1,0 +1,269 @@
+Title: Tendances et Concepts Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30254/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-141-30254-tendances-et-concepts-inc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2011-03-08
+
+# Tendances et Concepts Inc. c. La Reine
+
+- Citation: 2011 TCC 141
+- Decision date: 2011-03-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7993, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tendances et Concepts Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-08
+Neutral citation
+2011 TCC 141
+File numbers
+2010-1966(GST)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-1966(GST)I
+BETWEEN:
+TENDANCES ET CONCEPTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard November 15, 2010, at Montréal, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Agent for the appellant:
+Denis Cadieux
+Counsel for the respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+The appeal from an assessment made under the Excise Tax Act for the period from May 1 to May 31, 2008, notice of which is dated July 28, 2009, is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of March 2011.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 2nd day of June 2011.
+Daniela Possamai, Translator
+Citation: 2011 TCC 141
+Date: 20110308
+Docket: 2010-1966(GST)I
+BETWEEN:
+TENDANCES ET CONCEPTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+[1] Tendances et concepts Inc. (hereinafter the appellant) is a company specializing in the manufacturing of kitchens and bathroom cabinetry which requires its clients to provide an initial payment of 30 per cent upon signing the contract. The issue is whether this amount constitutes a deposit (“arrhes” in French) or a down payment (“accompte” in French).
+[2] In his assessment of the appellant, the Minister of National Revenue (hereinafter the Minister) relied on, but not exclusively, the following findings and presumptions of fact:
+[Translation]
+(a) the appellant operates a business for the manufacture and retail sale of kitchen and bathroom cabinets;
+(b) consideration payable by the purchasers of cabinetry made by the appellant is in three partial payments, including:
+i 30% of the consideration agreed upon, including the GST and, when applicable, the Quebec Sales Tax (hereinafter the “QST”), upon the signing of the contract of sale,
+ii 60% of the consideration agreed upon, including the GST and, when applicable, the QST, at the time of delivery of the goods supplied and,
+iii the balance, that is, 10% of the consideration agreed upon, including the GST and, when applicable, the QST, at the time of installation of the goods supplied;
+(c) several weeks, if not months, can go by between the time the contract of sale is signed by the appellant and the purchasers and the delivery and installation of goods supplied and, therefore, between the three partial payments of the consideration, including the GST and, when applicable, the QST;
+(d) the appellant did not include, when calculating its net tax for a given reporting period, the GST that is included in the first partial payment of the consideration made during said reporting period by a purchaser with respect to the supply it purchased of a given good.
+[3] The facts are not in dispute. However, the appellant states that it is not liable to pay the tax collected at the time of the initial payment as it constitutes a deposit and not a down payment, and that the tax only applies at the time the deposit is applied as partial settlement of the sale price.
+[4] The appellant’s owner explained, during the hearing, how his business is run and the nature of the initial payment of 30% required from the clients. The sale process is as follows.
+[5] The client goes to the showroom and meets with a kitchen designer to discuss style and material preferences. Then, the kitchen designer proposes a project by providing the client with a preliminary kitchen plan and price. If the client is satisfied, the parties sign a contract and an initial payment of 30% of the total sale price, including taxes, is then requested. It therefore means that the appellant receives 30% of the taxes at the time of the initial payment of 30%.
+[6] The initial payment, referred to as a deposit by the appellant, is not put into a separate account but is not included as income. On the financial statements, the initial payment appears to be a deposit by the client, and it is until the cabinetry is delivered.
+[7] After signing the contract, an employee goes to the client’s house to take the exact measurements. Several weeks can go by between the time the contract is signed and the time an employee goes to the client’s residence to take the measurements. The kitchen designer redraws the plan to reflect the exact measurements. The complete and final design of the cabinetry, displayed in three-dimensional perspective view and in colour, is therefore usually made after the contract is signed.
+[8] The final plan is sent to the client for approval. What often happens is that the plans are modified and the sale price is adjusted accordingly. If accepted, the final plan is remitted to the production department, and the production as such of the cabinetry is commenced approximately two weeks later.
+[9] There are times when significant changes are made to the initial contract. In such cases, the changes are evidenced by an amendment to the original contract.
+[10] The appellant issues an invoice at the time of delivery of the cabinetry to the client’s residence. It is then that the appellant applies the initial payment as partial settlement and requires payment of the applicable tax, which, in fact, is already collected at the time of signing of the contract. The appellant’s owner states that if the rate of taxation changes between the time of the initial payment of 30% and invoicing, the appellant reissues an invoice to reflect the decrease in tax and thereby reduces the amount of the down payment.
+[11] At the time of delivery, the appellant also requires the second payment, which this time is equivalent to 60% of the sale price. The balance remaining is therefore 10%, which is paid upon completion of the installation of the cabinetry.
+[12] The appellant brought randomly chosen copies of the contracts it has its clients sign at the time of the sale as well as an invoice and an amendment to the original contract. The contract provides for a [Translation] “30% deposit.” The invoice, for its part, specifies “down payment” or “accompte” [also known as a deposit on account of consideration] as, according to the appellant, it is at that moment that the first payment becomes a down payment. I note that the words appearing in the amendment to the original contract are “30% accompte.”
+[13] The appellant has kitchen and bathroom cabinetry worth about $100,000 which the clients did not claim. The appellant’s owner states that the initial payment of 30% is to retain the client, to guarantee that the client will go through with the purchase and take ownership of the cabinetry. Furthermore, the payment is used to pay for the material in case the client does not take possession of the cabinetry. Thus, the client loses his or her initial payment of 30% if the cabinetry is already in production or if the client refuses to take ownership of it.
+[14] The appellant has yet to purchase the material required to build the cabinetry at the time the contract is signed. If at this stage, when no work has been done and no material has been ordered, that the contract is terminatedthe reverse of the contract includes a penalty clause which stipulates as follows:
+[Translation]
+16. In the event that this contract is terminated by the Purchaser, a fee in the amount of $950 plus taxes will be owing as liquidated damages for the preparation and production, in whole or in part, of perspectives and conceptual drawings.
+[15] There is no mention, on the reverse of the contract, of the nature of the 30% payment remitted at the time of signing of the contract. There is nothing indicating that the appellant is authorized to keep the amount as liquidated damages when the manufacturing of the cabinetry has already begun. On the contrary, the reverse of the contract provides as follows at paragraph 2 of article 16:
+[Translation]
+In the event that this contract is terminated at a further stage, the Purchaser accepts and agrees to pay to the vendor all manufacturing costs and all other related obligations until the time of termination.
+[16] Finally, the original contract and amendment to the original contract include the following clause:
+[Translation]
+The only conditions of sale are those set by the vendor or reciprocally agreed upon between the parties and included in this contract.
+Analysis
+[17] The provisions of the Excise Tax Act (the Act) relevant to the matter in issue are the following:
+152(1) When consideration due — For the purposes of this Part, the consideration, or a part thereof, for a taxable supply shall be deemed to become due on the earliest of
+152(1) Contrepartie due — Pour l'application de la présente partie, tout ou partie de la contrepartie d'une fourniture taxable est réputée devenir due le premier en date des jours suivants :
+(a) the earlier of the day the supplier first issues an invoice in respect of the supply for that consideration or part and the date of that invoice,
+a) le premier en date du jour où le fournisseur délivre, pour la première fois, une facture pour tout ou partie de la contrepartie et du jour apparaissant sur la facture;
+(b) the day the supplier would have, but for an undue delay, issued an invoice in respect of the supply for that consideration or part, and
+b) le jour où le fournisseur aurait délivré une facture pour tout ou partie de la contrepartie, n'eût été un retard injustifié;
+(c) the day the recipient is required to pay that consideration or part to the supplier pursuant to an agreement in writing.
+c) le jour où l'acquéreur est tenu de payer tout ou partie de la contrepartie au fournisseur conformément à une convention écrite.
+. . .
+…
+168(1) General rule — Tax under this Division in respect of a taxable supply is payable by the recipient on the earlier of the day the consideration for the supply is paid and the day the consideration for the supply becomes due.
+168(1) Règle générale — La taxe prévue à la présente section est payable par l'acquéreur au premier en date du jour où la contrepartie de la fourniture taxable est payée et du jour où cette contrepartie devient due.
+(2) Partial consideration — Notwithstanding subsection (1), where consideration for a taxable supply is paid or becomes due on more than one day,
+(a) tax under this Division in respect of the supply is payable on each day that is the earlier of the day a part of the consideration is paid and the day that part becomes due; and
+(b) the tax that is payable on each such day shall be calculated on the value of the part of the consideration that is paid or becomes due, as the case may be, on that day.
+(2) Contrepartie partielle — Par dérogation au paragraphe (1), la taxe prévue à la présente section relativement à une fourniture taxable dont la contrepartie est payée ou devient due plus d'une fois est payable à chacun des jours qui est le premier en date du jour où une partie de la contrepartie est payée et du jour où cette partie devient due et est calculée sur la valeur de la partie de la contrepartie qui est payée ou qui devient due ce jour-là.
+. . .
+…
+(9) Deposits — For the purposes of this section, a deposit (other than a deposit in respect of a covering or container in respect of which section 137 applies), whether refundable or not, given in respect of a supply shall not be considered as consideration paid for the supply unless and until the supplier applies the deposit as consideration for the supply.
+(9) Arrhes — Pour l'application du présent article, les arrhes (sauf celles afférentes à une enveloppe ou un contenant auxquels l'article 137 s'applique), remboursables ou non, versées au titre d'une fourniture ne sont considérées comme la contrepartie payée à ce titre que lorsque le fournisseur les considère ainsi.
+[Emphasis added.]
+[18] Subsection 168(9) of the Act specifies that a deposit, whether refundable or not, given in respect of a supply shall not be considered as consideration paid for the supply unless and until the supplier applies the deposit as consideration for the supply. That time cannot extend beyond the day on which the supplier applies a deposit as partial consideration. If a deposit is applied as consideration, a deposit can no longer be such because as of that moment it becomes a down payment and subsection 168(2) of the Act then applies. Authors Papillon and Morin state as follows in their work:
+[Translation]
+Deposits against future purchases of supplies are not subject to the GST/HST when it is received. The GST/HST on a deposit is to be remitted to the Department when the vendor applies the deposit as consideration for the supply upon the signing of the contract. For that process to take place, the amount collected must therefore be considered as a deposit.[1]
+[19] On reading subsection 152(1) of the Act, it seems clear that the moment at which a deposit becomes a down payment cannot postdate the time of issuing of the invoice, as it is at that moment that the consideration is deemed to become due and, therefore, taxable. Consequently, the tax is generally not payable prior to invoicing in the case of a deposit and, in the case of a down payment, the tax is payable rather as soon as it is received. The two different rules illustrate the importance of properly characterizing and distinguishing the different types of payments made in advance, namely, down payments and deposits. It is important to define the concept of “deposit” (earnest) as opposed to that of “down payment,” where a down payment is simply partial payment to be deducted from an amount due[2] (partial consideration within the meaning of the Act).
+[20] In article 1477 of the Civil Code of Lower Canada (hereinafter the CCLC), the French term “arrhes,” rendered as “earnest” in English, is defined as follows:
+1477 If a promise of sale be accompanied by the giving of earnest, each of the contracting parties may recede from it; he who has given the earnest, by forfeiting it, and he who received it, by returning double the amount.
+[21] An earnest is a civil law concept that was not included in the new Civil Code of Québec. It is a concept that has become obsolete in routine business transactions in favour of “deposit.”
+[22] It is appropriate to distinguish between a down payment and an earnest. The first is payment of a part of the sale price, whereas an earnest is a mechanism which allows the two contracting parties to withdraw, or be released from its obligations, according to specific terms and conditions; the party who has given the earnest, by forfeiting it, and the party who received it, by refunding double the amount. Most of the time, an agreement with respect to a deposit has a time limit beyond which an earnest becomes a down payment and the contract is irrevocable.[3] As a withdrawal mechanism, an earnest is not an amount that a purchaser gives as security to ensure it will meet its obligations. Rather, it is an amount given to ensure release.
+[23] An earnest is non-refundable. On the contrary, when the purchaser uses such a withdrawal mechanism, it forfeits the earnest given and the parties arereleased. However, a down payment is always refundable when the sale has not taken place. The vendor, however, is entitled to claim damages for breach of contract and some type of legal compensation may be granted by the courts.[4]
+[24] Finally, an earnest is a withdrawal mechanism that is found primarily in a promise of sale or purchase. An earnest usually precedes a contract, although it can be found in a synallagmatic contract as attested to by the words of Faribault:
+[Translation]
+106 — Like a sale on approval, a sale accompanied by the giving of earnest is a term of the promise of sale or of the promise of purchase, and sometimes even of the sale itself. Although an agreement with respect to an earnest may accompany a synallagmatic contract, it is especially suitable for a promise to purchase when it is a means of withdrawal.[5] . . .
+108 — Article 1477 is not applicable in the case of an executed sale. The parties are therefore definitively bound, and the amounts paid by the purchaser must necessarily be considered as down payment on the price.[6] . . .
+If earnest is given after the drafting of the contract, it must be considered as being used for the purpose of determining its finality; at that point the parties are no longer free to recede from the contract (178).[7] [1914 Bricot v. Brien, 23 B.R. 265]
+[25] A reading of the full text of subsection 168(9) of the Act however shows that Parliament’s intent was not to give preference to the civil law meaning when it employed the term “deposit” (arrhes).
+[26] Subsection 168(9) of the Act specifies that a deposit, whether refundable or not, given in respect of a supply shall not be considered as consideration paid for the supply unless and until the supplier applies the deposit as consideration for the supply. In using the expression “refundable or not,” Parliament broadened the definition of “deposit.” Indeed, a deposit is usually non-refundable. It is only refundable when the vendor exercises the right to withdraw and decides to pay twice the amount of the deposit to the purchaser.
+[27] Furthermore, if a deposit can be refundable or not, a number of novel scenarios are now possible for the purposes of application of subsection 168(9) of the Act. For instance, the parties may consider a deposit to be non-refundable by the vendor whereas, under the CCLC, the vendor would have had to refund twice the amount of the deposit to be released from any obligations. In that situation, the deposit is no longer reciprocal and the vendor no longer has the right to withdraw. Conversely, if a deposit is refundable to the purchaser even though the purchaser is in default, the concept of deposit loses its very meaning, which involves penalizing the purchaser when it withdraws from the agreement. In fact, a deposit requires payment of any amount in exchange for the exercise of the right to withdraw. The purchaser must therefore incur a loss in order to gain the exercise of that right. Otherwise, a deposit is really no longer a deposit and rather becomes a gratuitous right of withdrawal.
+[28] Consideration of the term “deposit” used in the English version of subsection 18(9) of the Act is useful in discerning Parliament’s intent.
+[29] The Oxford English Dictionary[8] defines the term “deposit” as follows:
+Something, usually a sum of money, committed to another person’s charge as a pledge for the performance of some contract, in part payment of a thing purchased, etc.
+[30] The Appellate Division of the Ontario Supreme Court stated as follows in Doumani v. Reynolds:[9]
+22 . . .
+“Everybody knows what a deposit is…The deposit serves two purposes-if the purchase is carried out it goes against the purchase-money-but its primary purpose is this, it is a guarantee that the purchaser means business; and if there is a case in which a deposit is rightly and properly forfeited it is, I think, when a man enters into a contract to buy real property without taking the trouble to consider whether he can pay for it or not: “Lord Macnaghten in Soper v. Arnold (1889), 14 App. Cas. 429, 435. The deposit is given as a security for the performance of the contract:” Lord Herschell, at p. 433.
+23 It is essentially the same thing as the “earnest” upon a sale of goods, though without the same effect as is given to an earnest under the Statute of Frauds. Two things are in each case essential: it must be made and accepted as part payment if the transaction is carried out, and it must be as security in case the transaction is not carried out by the purchaser.
+24 In Howe v. Smith (1884), 27 Ch. D. 89, 101, Lord Justice Fry, speaking of a contract in which the first payment on account of the purchase-money was not designated by any technical words as a deposit, quotes with approval from Baron Pollock in Collins v. Stimson (1883), 11 Q.B.D. 142, 143, 144: "According to the law of vendor and purchaser the inference is that such a deposit is paid as a guarantee for the performance of the contract, and when the contract goes off by default of the purchaser, the vendor is entitled to retain the deposit;" and adds: "money paid as a deposit must, I conceive, be paid on some terms, implied or expressed. In this case no terms are expressed, and we must therefore inquire what terms are to be implied. The terms most naturally to be implied appear to me in the case of money paid on the signing of a contract to be that in the event of the contract being performed it shall be brought into account, but if the contract is not performed by the payer it shall remain the property of the payee. It is not merely a part payment, but is then also an earnest to bind the bargain so entered into, and creates by the fear of its forfeiture a motive in the payer to perform the rest of his contract." This case has the approval of the Privy Council in Sprague v. Booth, [1909] A.C. 576, 579, 580, where it is said:
+25 “The nature and incidents of such a deposit are accurately discussed in the case of Howe v. Smith.”
+[31] Stroud’s Judicial Dictionary[10] states as follows:
+A deposit, as distinguished from a part payment, serves two purposes, namely, in the event of the contract being performed to go in diminution of the purchase price, and in the interval between contract and completion to operate as an earnest or guarantee that the contract shall be performed (Dies v. British & International Mining & Finance Corporation, [1939] 1 K.B. 724).
+[32] Words and Phrases Legally Defined[11] notes as follows:
+“The underlying concept of a deposit in a simple case where completion is to take place within a short period is that it is to serve as it were as a guarantee that the purchaser means business, and any question of forfeiture, will really only arise if the purchaser fails to come up with the balance of the price on the date fixed for completion; and in these circumstances, there is no difficulty in treating a reasonable deposit as liquidated damages, and there can be no basis for treating it as a penalty against the forfeiture of which relief can be granted. But the position may be very different where the contract is to run for a long period before final completion, the purchaser meanwhile being bound by a variety of covenants of widely differing importance, so that one breach may produce substantial damage whereas another breach could produce only little damage or perhaps no actual damage at all. The wider the variety of contingencies on which forfeiture is to occur the more difficult it becomes to regard the deposit as liquidated damages.” Coates v. Sarich, [1964] W.A.R. 2 at 15, per Hale J (Australia).
+[33] Waddams,[12] for his part, states as follows:
+This examination of various forms of forfeiture leads naturally to the most common kind of forfeiture of all, the simple case of a deposit of money to be forfeited on breach of the obligation secured. Not every advance payment of money is categorized as a “deposit” and consequently liable to forfeiture on breach. A mere part payment must be accounted for subject to proof of actual loss. A deposit, may by contrast, it is said, be retained even though the holder suffers no loss at all, though it must be brought into account if the holder claims a larger loss. The only distinction between deposits and penalty clauses is that a deposit is payable in advance to secure a later performance whereas a penalty is payable after breach. This distinction seems wholly insufficient to justify the much more generous treatment given to the obligor in the one case than in the other. Indeed the distinction practically breaks down in a case where a sum of money payable in advance but not actually paid is treated as a deposit liable to forfeiture, even though the court contemplates that had the same sum been payable on breach, it would have been struck down as a penalty.
+[Emphasis added.]
+[34] Finally, according to Swan:
+7.111 The purchaser of land who pays a deposit on the execution of the agreement of purchase and sale will normally forfeit the deposit if it does not complete the sale. The right of the vendor to keep the deposit depends on the terms of the agreement (and on the power of the courts to relieve against forfeiture). If the agreement does not provide, expressly or by implication, that what the purchaser may have paid is to be treated as a deposit and forfeited on its breach of the contract, the general rule is that the purchaser may recover what it has paid, after deducting the damages for breach that the vendor can establish.[13]
+[35] Most common law decisions base their analysis of the term “deposit” on Howe v. Smith.
+[36] According to such decisions and the authorities, which hold a similar view, the primary purpose of a “deposit” is to ensure that the parties will do business and that the agreement will be performed as planned: it is security. If it defaults, the purchaser loses the non-refundable amount paid as a guarantee, whereas a down payment, for its part, is refundable, unless the vendor suffers a loss. This creates in the purchaser a “fear of losing its money” and a motive to meet its obligations. The vendor can therefore make sure that the purchaser means business, so as to consider, for instance, whether it can pay for purchase or not. Incidentally, the deposit shall be used as payment if the transaction is carried out smoothly.
+[37] A “deposit” is comparable to liquidated damages paid in advance that may by retained by the vendor in the case of default by the purchaser. Unless clearly specified in that respect, the purchaser is authorized to recover the amount paid, less damages suffered by the vendor.
+[38] Given that Parliament did not understand the term “arrhes” in its civil law meaning and that it employed the words “whether refundable or not,” the principles of statutory interpretation compel me to prefer a common and broad meaning of the terms “deposit” and “arrhes” so as to afford all Canadian taxpayers the same application of the Act. What is the common meaning of the two terms?
+[39] The foregoing analysis of deposit and “arrhes” reveals that they are two very similar legal concepts. However, there are some differences. First, “arrhes” are a reciprocal right of withdrawal, that is to say that both the vendor and the purchaser can avail themselves of them. The vendor must refund double the amount to exercise such a right. A “deposit” does not provide such a possibility for the vendor. Nevertheless, the use of the expression “refundable or not” makes that distinction obsolete, as explained earlier.
+[40] Second, as a withdrawal mechanism, “arrhes” are not an amount given by a recipient as security for the performance of an obligation by the recipient, contrary to a “deposit.” They are rather an amount given to ensure a party can be released from its obligations. This difference is of little importance, as even though the purpose of “arrhes” is to provide the parties with a right of withdrawal, they are still, in fact, a means for the vendor to ensure the transaction is carried out by the purchaser. Seeing as a “deposit” and “arrhes” are prepaid liquidated damages, the vendor cannot claim more.
+[41] It is clear from this comparison that there is a meaning common to both expressions. The Quebec legislator seems to favour that common meaning for the purposes of application of section 92 of the An Act respecting the Québec sales tax, which restates the rule of subsection 168(9) of the Act. Section 92 reads as follows:
+92. For the purposes of sections 82, 82.2 and 85 to 91, a deposit, whether refundable or not, given in respect of a supply shall not be considered as consideration paid for the supply unless and until the supplier applies the deposit as consideration for the supply.
+[42] Obviously, this text is not a federal statute. Nevertheless, seeing as the provincial legislator stated its intention to harmonize the provincial statute with the federal statute, the terms help us to understand Parliament’s intent as understood by the provincial legislator.
+[43] The Interpretation and administrative practice concerning the Laws and Regulations — TVQ 92-1[14] sets out as follows with respect to the notion of “deposit:”
+The Distinction Between a “Deposit” and a “Deposit on Account of Consideration”
+4. It should first be pointed out that to correctly qualify an amount as a deposit or a deposit on account of consideration (i.e. partial payment of consideration), it
+is first necessary to examine the agreement binding the parties in order to learn their intentions.
+5. On one hand, a deposit ordinarily means an amount given by a recipient as security for the performance of an obligation by the recipient, whether that amount
+is refundable or not. In general, the payment of a deposit implies that the parties have agreed not to bind themselves definitively, but rather to oblige themselves
+to subsequently enter into the contract contemplated, subject to the possibility they have of not giving effect to it, in consideration for a penalty corresponding to the
+amount of the deposit. This is often the case for amounts paid in the course of a promise to enter into a contract
+6. On the other hand, a deposit on account of consideration represents a partial payment of the consideration for a supply at the time of making the contract giving rise to the supply. Thus, where a contract is entered into under which a supply must be made and the recipient pays an amount to the supplier at the time of entering into the contract, it should be considered that the payment of this amount constitutes
+a partial payment since the recipient, when paying that amount, is not seeking to secure the performance of an obligation as with respect to a deposit (lodged as
+security), but is partially fulfilling his obligation to pay the consideration.
+7. Thus, in order to qualify an amount given by the recipient at the time of entering into a contract in respect of a supply as a deposit (lodged as security), that amount
+must be given to secure the performance of a contractual obligation of the recipient other than the obligation of paying the consideration for the supply, in which case,
+the recipient partially performs his obligation to pay.
+8. Moreover, it should be mentioned that in matters of promises of sale, article 1711 of the new Civil Code of Québec provides a presumption that did not exist under the Civil Code of Lower Canada, to the effect that “any amount paid on the occasion of a promise of sale is presumed to be a deposit on the price unless otherwise stipulated in the contract.” That being the case, the amount paid at the time of a promise of sale
+is therefore deemed to constitute a deposit on account of the consideration for the sale unless the parties have agreed otherwise.
+Examples of Amounts that Constitute a Deposit
+9. One example of a deposit is an amount paid by a person to a supplier without any promise of purchase in order to have the supplier lay aside a dining room set for a certain time and thus allow the person to decide whether or not he will acquire this furniture. Should the person actually decide to acquire the furniture in question, the tax would then be payable on the amount paid as a deposit at the time the supplier considers that the amount constitutes a part of the consideration for the supply of the furniture.
+10. In bankruptcy matters, the amount paid by a person to a trustee in bankruptcy at the time of the filing of an assignment by an insolvent person (the bankrupt) as security for the administration fees connected with the case constitutes a deposit. This amount is deposited, in trust, in a bank account that is separate from the bank account of the bankrupt’s patrimony and must be remitted to the person if the trustee does not need it for the payment of his fees and disbursements.
+11. The amount charged at the time of renting a post office box to ensure remittal of the key to that box constitutes a deposit, since this amount is refunded to the lessee at the end of the rental period.
+Example of an Amount that Constitutes a Deposit on Account of Consideration
+12. An amount paid by a recipient at the time of entering into a contract for the sale of household appliances does not constitute a deposit (lodged as security), but rather
+a deposit on account of the consideration, under the contract which stipulates that the balance of the price of sale is payable at the time of delivery of the appliances to the recipient.
+[Emphasis added.]
+[44] The deposit referred to by Revenu Québec is the perfect hybrid of the common law’s “deposit” and the civil law’s “arrhes.” I also believe that interpretation aptly describes Parliament’s intent when it employed the term “arrhes.” While the purpose of a deposit is to ensure the performance of an obligation by the purchaser (like the common law’s “deposit”), it takes on the attributes of the civil law’s “arrhes,” with the exception of reciprocity. For these reasons, it seems to us that a deposit according to Revenu Québec corresponds with what a “deposit” or “arrhes” should be according to subsection 168(9) of the Act.
+[45] In my view, a “deposit” or “arrhes,” within the meaning of the Act, is
+- security for the performance of the contract;
+- retained by the vendor in the case of default by the purchaser, contrary to a down payment;
+- refundable or not;
+- subsequently applied as a reduction of the sale price;
+- an amount on request prior to entering the contract;
+- is akin to a means of withdrawal;
+- is akin to a penalty clause or prepaid liquidated damages; and
+- a set, invariable, minimum amount.
+[46] In order to determine whether an amount is a “deposit” or “arrhes” within the meaning of the Act, the following questions must be posed:
+- Does the contract specify the nature of the first payment?
+- Is the amount intended to secure performance of an obligation?
+- Is the amount paid prior to or after the signing of the contract?
+- Does a penalty clause already exist?
+- Has the tax been calculated on the amount requested?
+- Does it represent a relatively small or substantial amount compared to the total value of the contract?
+- Have the parties set any terms respecting exercising their right of withdrawal?
+[47] After having established what a “deposit” or “arrhes” is, we must now determine whether the amounts received by the appellant are down payments or deposits.
+Conclusion
+[48] The testimony of the appellant’s owner revealed that the first payment is used to guarantee that the client will purchase the cabinetry and will be used to pay for manufacturing costs. That amount therefore constitutes, to a certain extent, prepaid liquidation damages. However, there are three main reasons that lead me to believe the initial payment of 30% does not constitute a deposit within the meaning of the Act.
+[49] First, the respondent raised article 1711 of the Civil Code of Québec (hereinafter the CCQ), which reads as follows:
+Any amount paid on the occasion of a promise of sale is presumed to be a deposit on the price unless otherwise stipulated in the contract.
+[50] I do not believe that article applies in this present case. First, the initial payment is remitted at the time of signing a synallagmatic contract and on the occasion of a promise of sale. Second, the contract employs the term “dépôt” [deposit]. Although the use of the word is not in itself sufficient for determine the legal nature of the amount so described, I believe it rules out the presumption of article 1711 of the CCQ. By using the word “dépôt”, the contract provides otherwise.
+[51] Nevertheless, despite the inapplicability of the presumption of article 1711 of the CCQ, the fact remains that a first payment is required by the appellant following the signing of a contract and, in such a case, it is the authorities’ view that any amount paid at that time must be considered a deposit unless otherwise expressly stipulated.
+[52] Second, it is also revealed that deposits within the meaning of the Act are akin to a form of prepaid liquidation damages. The second paragraph of section 16 of the contract indicates that the purchaser undertakes to pay to the vendor [Translation] “all manufacturing costs and all other related obligations.” There is no mention of the nature of the initial payment.
+[53] That penalty clause is not limited to the amount of the first payment, it varies depending on the loss suffered. The purchaser can therefore be held liable to pay an amount greater or less than 30% of the overall sale price.
+[54] If the initial payment were to be considered prepaid damages to cover manufacturing costs, that would cause the second paragraph of section 16 to be stripped of its meaning. The nature of the initial payment should be specified in the contract which, furthermore, stipulates that [Translation] “the only conditions of sale are those set by the vendor or reciprocally agreed upon between the parties and included in this contract”.
+[55] Finally, I note that the amendment to the original contract employs the term “accompte” [deposit on account of consideration] and not the term “dépôt” [deposit].
+[56] The problem for the appellant, and this was revealed in the testimony, is that when the initial amount of 30% was collected, the appellant was aware that it was collecting the taxes. In fact, the appellant’s president explained that if a client does not claim the cabinetry, it keeps the initial payment and remits to the tax authorities the amount of tax collected (or charged) on the first payment. Furthermore, he specified that if the tax changed between the time of the first payment and the invoicing, the amount of tax initially collected is adjusted to account for the tax reduction. The facts illustrate, in my opinion, that the appellant collects the tax on the first payment at the time of entering the contract and not at the time of invoicing. In other words, the appellant receives an amount equivalent to 30% of the price of the goods sold, plus the applicable taxes, at the time of entering the contract. Seeing as they are collected at that time, the taxes should be remitted at that time.
+[57] Moreover, the amount of tax that is remitted to the CRA by the appellant for the initial payment forfeited by the recipient is not what should be forfeited. The policy of Revenu Québec, as an agent of the CRA, is that if the recipient forfeits his deposit because no purchase was made, the deposit will then include the GST and QST. That reasoning is based on section 182 of the Act. Let us consider the following example given by the CRA in GST Memorandum 300-6-8 regarding deposits:
+10. If a deposit is forfeited to a registrant because of a breach, modification or termination of an agreement to make a taxable (other than zero-rated) supply, then section 182 of the Act deems a taxable supply to have been made by the supplier and liability for the tax to have been incurred at the time of the forfeiture. The supplier is considered to have collected the tax (and is therefore responsible for remitting the tax) at the time of forfeiture. The tax collected is deemed to be equal to 7/107ths of the amount forfeited.
+11. For example, a deposit of $50 was forfeited to a registered supplier. The supplier is deemed to have collected tax of $3.27 ($50 x 7/107) on the forfeiture and received $46.73 as consideration.
+[58] If the initial payment was a deposit within the meaning of the Act, the appellant should have remitted the tax calculated on the total amount payable on a deposit, that is, 30% of the entire sale price, including taxes. However, the taxes it remits are calculated on 30% of the sale price without taxes. Therefore, if it was in fact a deposit, a claim that I do not support, the method used to calculate the amount of tax to be remitted by the appellant in the event of a forfeiture by the client is incorrect.
+[59] Before concluding, I would like to digress. The appellant raised as a an argument that the initial payment is not considered income in its accounts until an invoice has been issued.
+[60] In fact, the initial payment is not considered income from an accounting standpoint because it is subject to a double entry with respect to the assets and liabilities reported as income on the business’s balance sheet until the goods are invoiced and delivered.[15] It is not until the time of invoicing that the first payment becomes income for accounting purposes and that the double entry disappears.
+[61] The tax treatment follows in part this accounting principle. In fact, under paragraph 12(1)(a) of the Income Tax Act, any amount received by the taxpayer in the year in the course of its business on account of goods not delivered before the end of the year shall be included in computing the income of a taxpayer for a taxation year as income from a business. However, such amount is subject to paragraph 20(1)(m) of the Act when it is reasonably anticipated that the goods will have to be delivered after the end of the year.
+[62] The appellant’s accounting system takes into account that fiscal and accounting reality, which is that of businesses engaged in the sale of goods processed over the course of several months. It is therefore normal that the appellant considers that the initial payment, which is treated as a reserve pursuant to the Income Tax Act and accounting standards, would also be regarded similarily with respect to consumption taxes. If the appellant were to immediately tax the initial payment as a down payment, it would end up with income for GST purposes, not income for income tax purposes.
+[63] The appellant adopted a pragmatic approach, which was understandable because it operates a small business. The appellant does not want to end up with three accounting systems; namely, one for the Income Tax Act, one for accounting purposes, and another for sales taxes. Nevertheless, in the absence of a new statute that would harmonize the collection of consumption taxes with income tax, or even a new administrative policy by tax authorities so that an amount be treated in the same manner under both statutes, judges must follow the statute as it is written.
+[64] For all these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 9th day of March 2011
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 2nd day of June 2011.
+Daniela Possamai, Translator
+CITATION: 2011 TCC 141
+COURT FILE NO.: 2010-1966(GST)I
+STYLE OF CAUSE: TENDANCES ET CONCEPTS INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: November 15, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: March 8, 2011
+APPEARANCES:
+Agent for the appellant:
+Denis Cadieux
+Counsel for the respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Analyses/comments — federal — Fiscalité spécialisée, 21st edition, 2008 — Robert Morin and Marc Papillon (excerpts), 36.1 – Taxnet.pro.
+[2] Le Nouveau Petit Robert : dictionnaire alphabétique et analogique de la langue française, 2008, sub verbo [Translation] “down payment.”
+[3] Pierre-Gabriel Jobin, La vente, 3rd ed., Cowansville, Éditions Yvon Blais, 2007, page 52.
+[4] 9134-4515 Québec Inc. v. 9069-9885 Québec Inc. (C.Q.), EYB 2009-157320; Lainé v. Bérubé (C.A.), EYB 2001‑25629.
+[5] L. Faribault, Traité de droit civil du Québec, Volume XI, 1961, page 104.
+[6] Ibid., page 105.
+[7] Ibid., page 107.
+[8] Second edition, Volume IV.
+[9] [1923] O.J. No. 4 (QL), [1924] 1 D.L.R. 1025, paragraphs 22 to 25.
+[10] Stroud’s Judicial Dictionary of Words and Phrases, Volume 1, 2006, under “deposit.”
+[11] Volume 2, under “deposit.”
+[12] S.M. Waddams, The Law of Contracts, 6th edition, Canadian Law Book, 2010, p. 338.
+[13] Angela Swan, Canadian Contract Law, 2nd edition, Lexis Nexis, 2009, pp. 567-568.
+[14] Revenu Québec, January 31, 1997, pages 1 and 2.
+[15] CICA Handbook, Volume 1, looseleaf format 1510.07, Toronto, 1995.

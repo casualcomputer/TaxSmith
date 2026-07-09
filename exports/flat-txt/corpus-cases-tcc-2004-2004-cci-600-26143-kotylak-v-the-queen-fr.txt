@@ -1,0 +1,127 @@
+Title: Kotylak v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26143/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-600-26143-kotylak-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-09-10
+
+# Kotylak v. The Queen
+
+- Citation: 2004 CCI 600
+- Decision date: 2004-09-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4138, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kotylak v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-09-10
+Référence neutre
+2004 CCI 600
+Numéro de dossier
+2004-578(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-578(IT)I
+ENTRE :
+DONALD KOTYLAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 23 août 2004 à Whitehorse (Yukon)
+Devant : L'honorable L. M. Little
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Raj Grewal
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est rejeté sans dépens, selon les motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique), ce 10e jour de septembre 2004.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 17e jour de février 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI600
+Date : 20040910
+Dossier : 2004-578(IT)I
+ENTRE :
+DONALD KOTYLAK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. FAITS
+[1] L'appelant a travaillé pour Northwestern Utilities du 28 janvier 1992 au 7 août 1998.
+[2] Il soutient qu'il a démissionné de son poste au sein de Northwestern Utilities pour des raisons de sécurité.
+[3] Il a présenté une demande de prestations d'assurance-emploi (les « prestations d'AE » ) le 17 septembre 1998. Sa demande a cependant été refusée.
+[4] Il a porté la décision de la Commission en appel devant le conseil arbitral. Dans une décision rendue à la majorité, ce dernier a rejeté l'appel de l'appelant.
+[5] Il a ensuite porté la décision du conseil arbitral en appel devant le juge-arbitre Guy Goulard.
+[6] Le 29 juin 2001, le juge-arbitre Goulard a statué que la décision rendue par la majorité du conseil arbitral était erronée compte tenu des faits. Selon lui, le conseil disposait d'une preuve amplement suffisante pour conclure que le prestataire (l'appelant) avait démontré qu'il était fondé à quitter son emploi.
+[7] Pendant l'année d'imposition 2002, l'appelant a reçu des prestations d'AE totalisant 15 129 $ relativement à la demande faite à l'égard des années antérieures.
+[8] Dans sa déclaration de revenus pour l'année d'imposition 2002, l'appelant a réparti les prestations d'AE qu'il avait reçues en 2002 entre l'année 2002 et les montants qui lui avaient été payés pour les années antérieures.
+[9] Par un avis de cotisation daté du 7 avril 2003, le ministre du Revenu national (le « ministre » ) a décidé que des prestations d'AE totalisant 23 550 $ devaient être incluses dans le calcul du revenu de l'appelant pour l'année d'imposition 2002 et a accepté qu'une partie de ce montant - soit 15 129 $ - soit attribuée aux années antérieures dans le calcul de son revenu imposable. L'avis de cotisation indiquait également que l'appelant devait une somme de 1 885 $ à titre de remboursement des prestations sociales relatives aux prestations d'AE qu'il avait reçues.
+[10] L'appelant a déposé un avis d'opposition à la cotisation.
+[11] Par un avis de nouvelle cotisation daté du 9 septembre 2003, le ministre a établi une nouvelle cotisation à l'égard de l'appelant pour l'année d'imposition 2002. Cet avis a réduit le montant des prestations d'AE qui étaient attribuables aux années antérieures de 15 129 $ à 14 455 $. Le montant d'impôt payable par l'appelant était ainsi moins élevé, mais le montant des prestations sociales qu'il devait rembourser, soit 1 885 $, restait inchangé.
+B. QUESTIONS EN LITIGE
+[12] La Cour doit décider :
+a) si le ministre a eu raison d'inclure les prestations d'AE dans le calcul du revenu de l'appelant pour l'année d'imposition 2002;
+b) si le ministre a eu raison d'attribuer la partie rétroactive des prestations d'AE reçues par l'appelant en 2002 aux années antérieures dans le calcul du revenu imposable;
+c) si le ministre a bien calculé le remboursement de 1 885 $ au titre des prestations sociales relatives aux prestations d'AE reçues par l'appelant en 2002 et si la cotisation établie à cet égard était correcte.
+[13] Le ministre s'est fondé sur l'alinéa 56(1)v) de la Loi de l'impôt sur le revenu (la « Loi » ) pour inclure le montant de 14 455 $ dans le calcul du revenu de l'appelant pour l'année d'imposition 2002.
+[14] Le ministre a déduit le montant de 14 455 $ dans le calcul du revenu imposable de l'appelant en vertu des paragraphes 110.2(1), 110.2(2) et 120.31(2) de la Loi.
+[15] J'ai conclu que le ministre a eu raison d'inclure les prestations d'AE de 23 550 $ dans le calcul du revenu de l'appelant pour l'année d'imposition 2002 suivant le sous-alinéa 56(1)a)(iv) de la Loi.
+[16] J'ai conclu en outre que le ministre a eu raison d'attribuer le montant de 14 455 $ des prestations d'AE reçues par l'appelant en 2002 aux années d'imposition 1998 et 1999 dans le calcul du revenu imposable de l'appelant et de l'impôt payable par lui pour l'année d'imposition 2002, conformément aux paragraphes 110.2(1), 110.2(2) et 120.31(2) de la Loi.
+[17] J'ai conclu également que le ministre a bien calculé les prestations sociales de 1 885 $ relatives aux prestations d'AE que l'appelant a reçues en 2002, conformément aux articles 144, 145, 148, 149 et 150 de la Loi sur l'assurance-emploi.
+[18] L'appel est rejeté sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 10e jour de septembre 2004.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 17e jour de février 2005.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI600
+NUMÉRO DU DOSSIER
+DE LA COUR :
+2004-578(IT)I
+INTITULÉ :
+Donald Kotylak et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Whitehorse (Yukon)
+DATE DE L'AUDIENCE :
+Le 23 août 2004
+MOTIFS DU JUGEMENT :
+L'honorable L. M. Little
+DATE DU JUGEMENT :
+Le 10 septembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Raj Grewal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

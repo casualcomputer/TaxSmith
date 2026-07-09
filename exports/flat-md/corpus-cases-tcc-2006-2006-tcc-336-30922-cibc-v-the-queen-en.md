@@ -1,0 +1,292 @@
+---
+title: "CIBC v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30922/index.do"
+last_modified: "2006-07-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 336"
+citation2: ""
+neutral_citation: "2006 TCC 336"
+decision_date: "2006-07-20"
+language: "en"
+item_id: "30922"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7418
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:54:41.568000+00:00"
+cases_cited_count: 2
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "16ff0a2d8a6ed407daa93fc7dfa3befea665ed30e5aee162c193f1bc29b53dd0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# CIBC v. The Queen
+
+- Citation: 2006 TCC 336
+- Decision date: 2006-07-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7418, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CIBC v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-20
+Neutral citation
+2006 TCC 336
+File numbers
+2004-1427(GST)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-1427(GST)G
+BETWEEN:
+LA BANQUE CANADIENNE IMPÉRIALE DE COMMERCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 30, 2005, at Toronto, Ontario.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Jacques Bernier
+Martin Sorensen
+Counsel for the Respondent:
+Richard Gobeil
+Michael Ezri
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment, notice of which is dated July 14, 2003, made under the Excise Tax Act for the period from June 1, 2000, to May 30, 2002, is dismissed with costs.
+Signed at Edmundston, New Brunswick, this 20th day of July 2006.
+“François Angers”
+Angers, J.
+Citation: 2006TCC336
+Date: 20060720
+Docket: 2004-1427(GST)G
+BETWEEN:
+LA BANQUE CANADIENNE IMPÉRIALE DE COMMERCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers, J.
+[1] The appellant, the Canadian Imperial Bank of Commerce (“CIBC”), is appealing from an assessment by the Minister of National Revenue (the "Minister") dated July 14, 2003, made under the Excise Tax Act (“ETA”) with respect to the period from June 1, 2000, to May 30, 2002. The amount involved in the assessment was $2,663,662.00. That amount represents a rebate claim for goods and services tax (GST) paid in error by CIBC. Before trial, the parties informed the Court that an agreement had been reached on the amount of the rebate claim which is now $2,468,451.47. All the other assumptions of fact relied upon by the respondent in the Reply to the Notice of Appeal were admitted by the appellant.
+[2] The appellant is a diversified financial institution governed by the Bank Act, [1991, c. 46]. As part of its business, the appellant makes loans, grants credit and issues credit cards. During the period covered by the assessment, certain borrowers, credit card holders and other debtors (collectively the “debtors”) defaulted on the agreements which they had with the appellant. After several attempts to recover the money owed by these debtors, the appellant contracted with various collection agencies in order to collect amounts owing on loans, credit cards and other forms of credit (collectively the “amounts owing”). These amounts were deposited in the collection agencies’ trust accounts on behalf of the appellant whereas other amounts were paid directly to the appellant. The agencies were paid a fee when amounts owing were collected, and payment included GST on that fee. The agencies also had authority to settle a claim at an amount lower than that sought through collection, but within the limit stated in the directives given by the appellant.
+[3] On June 25, 2002, the appellant filed a general rebate claim for tax remitted in error on the fees paid to the collection agencies during the period in question for the collection of amounts owing. The respondent disallowed the rebate.
+[4] The only issue in this appeal is whether the services provided to the appellant by collection agencies qualify as “financial services” under subsection 123(1) of Part IX of the ETA.
+[5] In summary, the appellant’s position is that the services provided by the collection agencies qualify as financial services, which are exempt services; therefore, GST paid on those services was paid in error. Conversely, the respondent’s position is that the services in question do not qualify as financial services; therefore, the appellant did not pay the GST on those services in error.
+[6] The only witness who testified in this matter was Jonathan Goodman, Vice-President, Recovery, Support and Portfolio Management, for CIBC. Mr. Goodman performed various functions for the appellant and all were related to the collection process and strategies. He testified that CIBC’s collection procedure when accounts become delinquent is to first transfer these accounts to one central collections group; CIBC employees with that group will then contact customers in order to arrange payment of the arrears or the amount that is delinquent. Once all possibilities have been exhausted at that level, CIBC will issue a letter of demand asking for payment in full. If there is no response, the account is then sent to the recovery centre, which then sends the delinquent accounts out to collection agencies approved or selected by the appellant and licensed to act as such.
+[7] CIBC dealt with about twenty different collection agencies during the period at issue. They were all paid on a contingency basis in percentages varying from 20% to 50%, depending on the types of accounts they were receiving. The different types of accounts are identified in terms of classification based on the degree of difficulty in collecting that they represent. The relationship between CIBC and the collection agencies is governed by standard contracts and standard directives, many samples of which were produced in evidence (see Tab 28 of Exhibit A‑1). Under those contracts and directives, the collection agencies receive remuneration only when they succeed in collecting an amount owing. They are not compensated for their work or activities unless they do collect.
+[8] Mr. Goodman also testified as to the types of delinquent accounts that the collection agencies were hired to collect. These accounts included principal and interest owing on personal lending products, which include credit cards, loans, instalment loans, demand loans, lines of credit, overdraft accounts and residual balances after securities have been disposed of.
+[9] In his testimony, Mr. Goodman acknowledged that of the accounts recovered by the collection agencies about 15% represent payments in full. In other cases, the collection agencies have the ability to settle the accounts, or to make arrangements with the customer to extend the time for payment of principal plus interest. Payment of recovered amounts can be made in one of two ways: to the collection agency or directly to the bank. The collection agency would still receive its fee regardless of who received payment.
+[10] In cross-examination, Mr. Goodman testified that CIBC turns to the collection agencies because they possess collection skills that the bank does not. He acknowledged that they are more specialized and better equipped to recover delinquent accounts than CIBC. In fact, he agreed that the collection agencies do more than, for example, collect hydro payments, which the bank does through its clients’ bank accounts. The appellant requires that the collection agencies keep track of their activities in the collection process, including taking notes of various conversations, and reserves the right to monitor accounts turned over to the collection agencies. CIBC also requires that a certain minimum of work be done by the collection agencies within 5 days of receipt of the accounts, with other minimum activities to be performed during the process. Mr. Goodman acknowledged that the higher commissions paid to collection agencies with respect to certain accounts reflect the fact that those accounts are more difficult to collect and require more work.
+[11] The relevant provisions of the ETA and the Financial Services (GST/HST) Regulations (the “Regulations”) are the following:
+123. (1) Definitions — In section 121, this Part and Schedules V to X,
+"commercial activity" of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+. . .
+"commercial service", in respect of tangible personal property, means any service in respect of the property other than
+(a) a service of shipping the property supplied by a carrier, and
+(b) a financial service;
+"exempt supply" means a supply included in Schedule V;
+"financial instrument" means
+(a) a debt security,
+(b) an equity security,
+(c) an insurance policy,
+(d) an interest in a partnership, a trust or the estate of a deceased individual, or any right in respect of such an interest,
+(e) a precious metal,
+(f) an option or a contract for the future supply of a commodity, where the option or contract is traded on a recognized commodity exchange,
+(g) a prescribed instrument,
+(h) a guarantee, an acceptance or an indemnity in respect of anything described in paragraph (a), (b), (d), (e) or (g), or
+(i) an option or a contract for the future supply of money or anything described in any of paragraphs (a) to (h);
+"financial service" means
+(a) the exchange, payment, issue, receipt or transfer of money, whether effected by the exchange of currency, by crediting or debiting accounts or otherwise,
+(b) the operation or maintenance of a savings, chequing, deposit, loan, charge or other account,
+(c) the lending or borrowing of a financial instrument,
+(d) the issue, granting, allotment, acceptance, endorsement, renewal, processing, variation, transfer of ownership or repayment of a financial instrument
+(e) the provision, variation, release or receipt of a guarantee, an acceptance or an indemnity in respect of a financial instrument,
+(f) the payment or receipt of money as dividends (other than patronage dividends), interest, principal, benefits or any similar payment or receipt of money in respect of a financial instrument,
+(f.1) the payment or receipt of an amount in full or partial satisfaction of a claim arising under an insurance policy,
+(g) the making of any advance, the granting of any credit or the lending of money,
+(h) the underwriting of a financial instrument,
+(i) any service provided pursuant to the terms and conditions of any agreement relating to payments of amounts for which a credit card voucher or charge card voucher has been issued,
+(j) the service of investigating and recommending the compensation in satisfaction of a claim where
+(i) the claim is made under a marine insurance policy, or
+(ii) the claim is made under an insurance policy that is not in the nature of accident and sickness or life insurance and
+(A) the service is supplied by an insurer or by a person who is licensed under the laws of a province to provide such a service, or
+(B) the service is supplied to an insurer or a group of insurers by a person who would be required to be so licensed but for the fact that the person is relieved from that requirement under the laws of a province,
+(j.1) the service of providing an insurer or a person who supplies a service referred to in paragraph (j) with an appraisal of the damage caused to property, or in the case of a loss of property, the value of the property, where the supplier of the appraisal inspects the property, or in the case of a loss of the property, the last-known place where the property was situated before the loss,
+(k) any supply deemed by subsection 150(1) or section 158 to be a supply of a financial service,
+(l) the agreeing to provide, or the arranging for, a service referred to in any of paragraphs (a) to (i), or
+(m) a prescribed service,
+but does not include
+(n) the payment or receipt of money as consideration for the supply of property other than a financial instrument or of a service other than a financial service,
+(o) the payment or receipt of money in settlement of a claim (other than a claim under an insurance policy) under a warranty, guarantee or similar arrangement in respect of property other than a financial instrument or a service other than a financial service,
+(p) the service of providing advice, other than a service included in this definition because of paragraph (j) or (j.1),
+(q) the provision, to an investment plan (as defined in subsection 149(5)) or any corporation, partnership or trust whose principal activity is the investing of funds, of
+(i) a management or administrative service, or
+(ii) any other service (other than a prescribed service),
+if the supplier is a person who provides management or administrative services to the investment plan, corporation, partnership or trust,
+(r) a professional service provided by an accountant, actuary, lawyer or notary in the course of a professional practice,
+(r.1) the arranging for the transfer of ownership of shares of a cooperative housing corporation,
+(s) any service the supply of which is deemed under this Part to be a taxable supply, or
+(t) a prescribed service.
+123. (1) Définitions -- Les définitions qui suivent s'appliquent à l'article 121, à la présente partie et aux annexes V à X.
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l'exploitation d'une entreprise (à l'exception d'une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l'ensemble des associés sont des particuliers), sauf dans la mesure où l'entreprise comporte la réalisation par la personne de fournitures exonérées;
+. . .
+« service commercial » Service relatif à un bien meuble corporel, sauf un service d'expédition du bien fourni par un transporteur et un service financier.
+« fourniture exonérée » Fourniture figurant à l'annexe V.
+« effet financier »
+a) Titre de créance;
+b) titre de participation;
+c) police d'assurance;
+d) participation dans une société de personnes ou une fiducie ou droit dans une succession, ou droit y afférent;
+e) métal précieux;
+f) option ou contrat, négocié dans une bourse de commerce reconnue, pour la fourniture à terme de marchandises;
+g) effet visé par règlement;
+h) garantie, acceptation ou indemnité visant un effet visé à l'alinéa a), b), d), e) ou g);
+i) option ou contrat pour la fourniture à terme d'argent ou d'un effet visé à l'un des alinéas a) à h).
+« service financier »
+a) L'échange, le paiement, l'émission, la réception ou le transfert d'argent, réalisé au moyen d'échange de monnaie, d'opération de crédit ou de débit d'un compte ou autrement;
+b) la tenue d'un compte d'épargne, de chèques, de dépôt, de prêts, d'achats à crédit ou autre;
+c) le prêt ou l'emprunt d'un effet financier;
+d) l'émission, l'octroi, l'attribution, l'acceptation, l'endossement, le renouvellement, le traitement, la modification, le transfert de propriété ou le remboursement d'un effet financier;
+e) l'offre, la modification, la remise ou la réception d'une garantie, d'une acceptation ou d'une indemnité visant un effet financier;
+f) le paiement ou la réception d'argent à titre de dividendes sauf les ristournes, d'intérêts, de principal ou d'avantages, ou tout paiement ou réception d'argent semblable, relativement à un effet financier;
+f.1) le paiement ou la réception d'un montant en règlement total ou partiel d'une réclamation découlant d'une police d'assurance;
+g) l'octroi d'une avance ou de crédit ou le prêt d'argent;
+h) la souscription d'un effet financier;
+i) un service rendu en conformité avec les modalités d'une convention portant sur le paiement de montants visés par une pièce justificative de carte de crédit ou de paiement;
+j) le service consistant à faire des enquêtes et des recommandations concernant l'indemnité accordée en règlement d'un sinistre prévu par :
+(i) une police d'assurance maritime,
+(ii) une police d'assurance autre qu'une police d'assurance-accidents, d'assurance-maladie ou d'assurance-vie, dans le cas où le service est fourni :
+(A) soit par un assureur ou une personne autorisée par permis obtenu en application de la législation d'une province à rendre un tel service,
+(B) soit à un assureur ou un groupe d'assureurs par une personne qui serait tenue d'être ainsi autorisée n'eût été le fait qu'elle en est dispensée par la législation d'une province;
+j.1) le service consistant à remettre à un assureur ou au fournisseur du service visé à l'alinéa j) une évaluation des dommages causés à un bien ou, en cas de perte d'un bien, de sa valeur, à condition que le fournisseur de l'évaluation examine le bien ou son dernier emplacement connu avant sa perte;
+k) une fourniture réputée par le paragraphe 150(1) ou l'article 158 être une fourniture de service financier;
+l) le fait de consentir à effectuer un service visé à l'un des alinéas a) à i) ou de prendre les mesures en vue de l'effectuer;
+m) un service visé par règlement.
+La présente définition exclut :
+n) le paiement ou la réception d'argent en contrepartie de la fourniture d'un bien autre qu'un effet financier ou d'un service autre qu'un service financier;
+o) le paiement ou la réception d'argent en règlement d'une réclamation (sauf une réclamation en vertu d'une police d'assurance) en vertu d'une garantie ou d'un accord semblable visant un bien autre qu'un effet financier ou un service autre qu'un service financier;
+p) les services de conseil, sauf un service visé aux alinéas j) ou j.1);
+q) l'un des services suivants rendus soit à un régime de placement, au sens du paragraphe 149(5), soit à une personne morale, à une société de personnes ou à une fiducie dont l'activité principale consiste à investir des fonds, si le fournisseur est une personne qui rend des services de gestion ou d'administration au régime, à la personne morale, à la société de personnes ou à la fiducie :
+(i) un service de gestion ou d'administration,
+(ii) tout autre service (sauf un service prévu par règlement);
+r) les services professionnels rendus par un comptable, un actuaire, un avocat ou un notaire dans l'exercice de sa profession;
+r.1) le fait de prendre des mesures en vue du transfert de la propriété des parts du capital social d'une coopérative d'habitation;
+s) les services dont la fourniture est réputée taxable aux termes de la présente partie;
+t) les services visés par règlement.
+Financial Services(GST/HST) Regulations, SOR/91-26, as amended by SOR/2001-61
+4. (1) In this section,
+"instrument" means money, an account, a credit card voucher, a charge card voucher or a financial instrument;
+"person at risk", in respect of an instrument in relation to which a service referred to in subsection (2) is provided, means a person who is financially at risk by virtue of the acquisition, ownership or issuance by that person of the instrument or by virtue of a guarantee, an acceptance or an indemnity in respect of the instrument, but does not include a person who becomes so at risk in the course of, and only by virtue of, authorizing a transaction, or supplying a clearing or settlement service, in respect of the instrument.
+(2) Subject to subsection (3), the following services, other than a service described in section 3, are prescribed for the purposes of paragraph (t) of the definition "financial service" in subsection 123(1) of the Act:
+(a) the transfer, collection or processing of information, and
+(b) any administrative service, including an administrative service in relation to the payment or receipt of dividends, interest, principal, claims, benefits or other amounts, other than solely the making of the payment or the taking of the receipt.
+(3) A service referred to in subsection (2) is not a prescribed service for the purposes of paragraph (t) of the definition “financial service” in subsection 123(1) of the Act where the service is supplied with respect to an instrument by
+(a) a person at risk,
+(b) a person that is closely related to a person at risk, where the recipient of the service is not the person at risk or another person closely related to the person at risk, or
+(c) an agent, salesperson or broker who arranges for the issuance, renewal or variation, or the transfer of ownership, of the instrument for a person at risk or a person closely related to the person at risk.
+Règlement sur les services financiers (TPS/TVH), DORS/91-26, modifié par DORS/93-242 et DORS/2001-61
+4. (1) Les définitions qui suivent s'appliquent au présent article.
+« effet » Argent, compte, pièce justificative de carte de crédit ou de paiement, ou effet financier.
+« personne à risque » Personne exposée à un risque financier du fait de la propriété, de l'acquisition ou de l'émission par la personne d'un effet à l'égard duquel un service mentionné au paragraphe (2) est offert, ou à cause d'une garantie, d'une acceptation ou d'une indemnité se rapportant à l'effet, à l'exclusion de la personne qui s'expose à un tel risque dans le cadre et du seul fait de l'autorisation d'une opération relative à l'effet ou de la fourniture d'un service de compensation ou de règlement relativement à l'effet.
+(2) Sous réserve du paragraphe (3), pour l'application de l'alinéa t) de la définition de « service financier », au paragraphe 123(1) de la Loi, sont visés les services suivants, sauf ceux mentionnés à l'article 3 :
+a) la communication, la collecte ou le traitement de renseignements;
+b) les services administratifs, y compris ceux reliés au paiement ou au recouvrement de dividendes, d'intérêts, de capital, de créances, d'avantages ou d'autres montants, à l'exclusion des services ne portant que sur le paiement ou le recouvrement.
+(3) Pour l'application de l'alinéa t) de la définition de « service financier », au paragraphe 123(1) de la Loi, ne sont pas visés les services mentionnés au paragraphe (2) et fournis relativement à un effet par :
+a) la personne à risque;
+b) la personne étroitement liée à la personne à risque, si l'acquéreur du service n'est ni la personne à risque, ni une autre personne étroitement liée à celle-ci;
+c) le mandataire, le vendeur ou le courtier qui prend des mesures en vue de l'émission, du renouvellement, de la modification ou du transfert de propriété de l'effet pour le compte de la personne à risque ou d'une personne étroitement liée à celle-ci.
+[12] Before I address the issue in this case, I will attempt to summarize the mechanics of the definition of “financial service” contained in section 123(1) of the ETA.
+[13] In order for a supply to qualify as a financial service, the supply needs to qualify under any one of paragraphs (a) to (m) of the definition of “financial service”. Once it is established that it falls under any one of these paragraphs, one must then determine whether any of paragraphs (n) to (t) exclude the supply from the definition of “financial service”.
+[14] Paragraph (t) of the definition provides that a service that is prima facie a financial service will be excluded from the definition if it is a “prescribed service”. Paragraph 4(2)(b) of the Regulations provides that “any administrative service . . . other than solely the making of the payment or the taking of the receipt” of any of the amounts referred to is a prescribed service. Therefore, if a supply qualifies as an administrative service it does not constitute a financial service and is therefore taxable.
+[15] However, there are several exceptions to the exclusion, which have the effect of re-including the supply in the definition of financial service. The relevant exception for the purposes of this appeal is also contained in paragraph 4 (2)(b) of the Regulations: “other than solely the making of the payment or the taking of the receipt”. Therefore, if a supply is an administrative service that is “solely the making of the payment or the taking of the receipt”, it qualifies as a financial service.
+[16] The appellant submits that the supplies provided by the collection agencies constitute a “financial service” as defined in paragraphs (a), (d), (f) and (l) of the definition of “financial service” in subsection 123(1) of the ETA, namely:
+(a) “the . . . payment . . . receipt or transfer of money . . . by crediting or debiting accounts or otherwise”;
+(d) “the . . . variation . . . or repayment of a financial instrument”;
+(f) “the payment or receipt of money as . . . interest, principal . . . or any similar payment or receipt of money in respect of a financial instrument”.
+(l) “arranging for” any of the services referred to in paragraphs (a), (d) and (f);
+[17] Examples of services falling under paragraph (a) of the definition include cashing cheques, converting currency, exchanging money and the simple debiting and crediting of accounts (see Elgin Mills Leslie Holdings Ltd. v. Canada, [2000] G.S.T.C. 8 (TCC), and Drug Trading Co. v. R., [2001] G.S.T.C. 48, 2001 G.T.C. 382 (TCC)). In the fact situation here, the collection agencies do much more than just credit and debit accounts. They do not provide the same service as a financial institution providing credit or debit card services. The collection agencies’ services involve finding delinquent debtors, contacting them and getting them to pay their debts. The supply (service) is the use of their skill and ability to collect or obtain payments.
+[18] Paragraph (d) usually applies to transactions involving financial instruments, such as those done by stockbrokers or those involved in factoring. In the present case, it cannot be said that a financial instrument is varied when the collection agency negotiates a settlement or accepts part payment. Collection agencies are hired to collect the entire amount that is owed to the bank and it is only when the collection agencies are unable to collect the entire amount that they can negotiate a part payment or settlement. Should a debtor fail to live up to his undertakings under the negotiated settlement, the full amount is still recoverable. In my opinion, such a settlement does not constitute a variation of a financial instrument. As for the repayment of a financial instrument, that is done by the debtor and not the collection agencies.
+[19] The following opinion provided in GST/HST Interpretation 11590-5, 11590‑2, dated November 19, 2002, concerning the “GST Status of Third Party Collection Agency Services” is very useful and apropos for a better appreciation of the meaning of “arranging for” with respect to any of paragraphs (a) to (i) of the definition of “financial service” in subsection 123(1) of the ETA.
+The Bank suggests that the collection Agency/Company is "arranging for" a financial service listed in paragraphs (a) through (i) as defined in paragraph (l) of the definition of "financial service" in subsection 123(1) of the ETA. In our opinion, the collection Agency/Company is not "arranging for" the supply of a financial service referred to in paragraphs (a) to (i) of the definition of "financial service" found in subsection 123(1) of the ETA.
+The concept of "arranging for" is clarified in our GST/HST Policy Statement P-239, "Meaning Of The Term "Arranging For" As Provided In The Definition Of "Financial Service" as follows:
+In general, an "arranging for" service can be described as the activities of one or more intermediaries as "go-betweens" in bringing together two (or more) persons for the supply of a financial service by one person to the other. There must be a clear nexus between the activities of the intermediary and the supply of the financial service. Whether the intermediary's service can be considered to be a service of arranging for a supply of a financial service is a question of fact depending on the degree of involvement of the intermediary in each particular case.
+In the present situation, the issuance of the "debt security" (the supply of the financial service) has already taken place. Therefore, the Agency/Company is not "bringing" the lender and the debtor together to facilitate the supply of the financial service. The collection on the "debt security" does not result in the supply of a new financial instrument rather it is a taxable, administrative service that facilitates the collection of overdue accounts. The examples referred to in the Arranging for Policy P-239, referenced above refer to situations where the person "arranging for" the service is involved in the supply of the financial service such as the completion of a loan agreement, the issuance of shares or facilitating the completion of a credit card application. These examples indicate that to qualify under paragraph (1) of the definition of "financial service" in subsection 123(1) of the ETA the intermediary should be involved in the supply of the financial service. The collection Agency/Company is not "arranging for" the supply of a "debt security" as the relationship between the debtor and the Bank already exists.”
+[20] For the above reasons, I do not find that the services provided by the collection agencies in the present case qualify as a “financial service” under any of paragraphs (a) to (m) of subsection 123(1) of the ETA.
+[21] The respondent submitted, and I agree, that the supply provided by the collection agencies is distinguishable from the services described in the definition of “financial service” both in the manner in which these services are provided and in the manner in which they are regulated. As a result, the supply of a debt collection service is taxable, even though there may be some overlap between the elements of that service and the broad definition of “financial service”. As the respondent argued, the dominant element of the supply made by the collection agencies in this case was the provision of a debt collection service, and that service is sufficiently distinct from any of its constituent elements for it to become a separate supply whose characterization is different than that of its components (see W. T. Hawkins Ltd. v. Deputy Minister of National Revenue for Customs and Excise, [1958] Ex. C.R. 152). In the Hawkins case, the appellant was selling a product composed of three ingredients that were exempt from sales tax. The Court held that the new article was an entirely new product differing in appearance, form and function from the three original ingredients. The new product was accordingly held not to be exempt from sales tax. Similarly, the debt collection service here is not a financial service, hence it is taxable.
+[22] In my opinion, even if I were to agree with the appellant that the supply provided by the collection agencies was a financial service under any of paragraphs (a) to (m) of the definition of that term in subsection 123(1) of the ETA, the services would be excluded from the definition by paragraph (t), since they are prescribed services under the Regulations.
+[23] The appellant submitted that subsection 4(2) of the Regulations does not exclude the services provided by the collection agencies from the definition of financial service for one of two reasons. First, the appellant submitted that the supply by the collection agencies does not constitute an administrative service. Second, the appellant submitted that even if the service is administrative, it constitutes “solely the making of the payment or the taking of the receipt”.
+[24] The appellant submitted in argument that a distinction must be made between management services and administrative services. According to the appellant, administrative services are limited to clerical and simple administrative support, while management services include decision making and exercising judgment. In the appellant’s opinion, the fact that the collection agencies have the power to settle accounts, to reduce the amount of capital and interest payable or to extend payment arrangements signifies that they are providing more than just administrative services.
+[25] However, what the appellant fails to take into consideration is the fact that even if a distinction must be made between management services and administrative services, the collection agencies still only provide administrative services.
+[26] The evidence reveals that the principal tasks of the collection agencies are to verify or obtain contact information about the debtor, send out letters advising the debtor that the account has been assigned to a collection agency, call and write the debtor until contact is made, persuade the debtor to make payments on the account, perform financial capacity assessments and make recommendations with respect to settlement of debts outside the guidelines set out in the contracts between CIBC and the collection agencies. They also maintain a running calculation of accrued interest on the debt, monitor the payment arrangement to make sure that payments are made, provide weekly collection reports to CIBC, operate and maintain access systems so that CIBC can perform remote monitoring of the status of accounts, and take legal action with the consent of CIBC.
+[27] Thus, the collection agencies implement the managerial decision taken by Recovery, Support and Portfolio Management at CIBC. Any decision that the collection agencies take in the process of fulfilling their collection duties is ancillary to the collection service and does not constitute a management decision. The collection service remains an administrative service.
+[28] Therefore, in my opinion, the services provided by the collection agencies are administrative in nature. However, the appellant and respondent differ in their submissions as to whether the “solely the making of the payment or the taking of the receipt” exception applies so as to exclude the collection agencies’ services from the definition of “prescribed services” in the Regulations.
+[29] It is worth noting that the English and French versions of paragraph 4(2)(b) of the Regulations are not the same:
+(b) any administrative service . . . other than solely the making of the payment or the taking of the receipt.
+b) « les services administratifs . . . à l'exclusion des services ne portant que sur le paiement ou le recouvrement. »
+[Emphasis added.]
+[30] The appellant submits that even if the collection services are administrative in nature, they constitute “solely the making of the payment or the taking of the receipt”, mainly because the French version of the Regulations uses the word “recouvrement” which means “collection” in English. However, the English version of the legislation uses the word “receipt”. Since there seems to be a difference in meaning between the two versions, the principles of interpretation regarding bilingual legislation must be considered.
+[31] The Supreme Court of Canada has had occasion to discuss the principles of bilingual statutory interpretation in several recent cases. In particular, in Medovarski v. Canada (Minister of Citizenship and Immigration), 2005 SCC 51, at paragraphs 24 - 26, the Court stated the following:
+24 In interpreting bilingual statutes, the statutory interpretation should begin with a search for the shared meaning between the two versions: P.-A. Côté, The Interpretation of Legislation in Canada (3rd ed. 2000), at p. 327. In Daoust, Bastarache J. held for the Court that the interpretation of bilingual statutes is subject to a two-part procedure.
+25 First, one must apply the rules of statutory interpretation to determine whether or not there is an apparent discordance, and if so, whether there is a common meaning between the French and English versions. "[W]here one of the two versions is broader than the other, the common meaning would favour the more restricted or limited meaning": Schreiber, at para. 56, per LeBel J. . . .
+Given the conflict between the two provisions [in question in Schreiber] the Court adopted the clearer and more restrictive French version. The common meaning is the version that is plain and not ambiguous. If neither version is ambiguous, or if they both are, the common meaning is normally the narrower version: Daoust, at paras. 28-29.
+26 Second, one must determine if the common meaning is consistent with Parliament's intent: Daoust, at para. 30.
+[32] When bilingual legislation is being interpreted, the shared meaning between the two versions must be sought in order to resolve ambiguities. Usually, the shared meaning is the narrower version.
+[33] In the present case, the English version of subsection 4(2) of the Regulations uses the word “receipt”, while the French version uses the word “recouvrement”. Thus, “receipt” is limited to the act or process of receiving the money, while “recouvrement” (collection) includes not only the receipt but also the process of collection of money owed. The English version is the narrower of the two versions and is therefore the text that establishes the shared meaning. Therefore, the activity that is to remain exempt from taxation is the “the making of the payment or the taking of the receipt” of money and not the actual collection of money.
+[34] The appellant brought to the attention of the Court the recent case of Royal Bank of Canada v. The Queen, 2005 TCC 802, arguing that it supports its position. In that case, the Court found that the supply made by RBC was the arranging for the distribution of mutual funds, with customer service being a subordinate element of that supply, and that the branch services were therefore not administrative services within the meaning of section 4 of the Regulations.
+[35] In the fact situation here, there is no evidence to support a finding that the collection agencies had a non-administrative function in respect of CIBC’s business. On the contrary, the evidence shows that CIBC had an elaborate management structure in place and that the collection agencies operated within well-defined and tightly controlled parameters. Management is all about being able to control how a business is run and the collection agencies had no voice in how CIBC ran its business.
+[36] In conclusion, it is my opinion that the services provided by the collection agencies do not qualify as a “financial service” under any of paragraphs (a) to (m) of the definition of that term in subsection 123(1) of the ETA. However, even if I were to conclude that the services do constitute financial services under any of those paragraphs, they would be excluded from the definition by paragraph (t), since they are “prescribed services” under the Regulations. Furthermore, neither one of the exceptions to exclusion found in paragraph 4(2)(b) and subsection 4(3) of the Regulations applies in this case. The services provided to the appellant are therefore taxable supplies. Accordingly, no tax was remitted by it in error.
+[37] The Respondent brought to the attention of the Court the fact that on June 22, 2006, Bill C-13 received Royal Assent as S.C. 2006, c. 4. Section 136 of c. 4 amends the definition of “financial service” to specifically exclude debt collection services. The Respondent believes that the decision in this case should be based on this enactment. However, this enactment does not change the law but only clarifies the position of the law as it stood before the amendments. The decision is therefore based on the law as it was written at the time of the transactions and there is no need to have the hearing reopened or to decide whether the amendments apply retroactively.
+[38] The appeal is therefore dismissed with costs.
+Signed at Edmundston, New Brunswick, this 20th day of July 2006.
+“François Angers”
+Angers, J.
+CITATION: 2006TCC336
+COURT FILE NO.: 2004-1427(GST)G
+STYLE OF CAUSE: La Banque Canadienne Impériale de Commerce and Her Majesty the Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 30, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: July 20, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Jacques Bernier and
+Counsel for the Respondent:
+Martin Sorensen
+Richard Gobeil and
+Michael Ezri
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jacques Bernier and Martin Sorensen
+Firm: Bennett Jones LLP
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

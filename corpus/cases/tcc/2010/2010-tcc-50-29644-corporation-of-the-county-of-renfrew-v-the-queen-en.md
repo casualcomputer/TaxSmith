@@ -1,0 +1,150 @@
+---
+title: "Corporation of the County of Renfrew v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29644/index.do"
+last_modified: "2010-03-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 50"
+citation2: ""
+neutral_citation: "2010 TCC 50"
+decision_date: "2010-03-05"
+language: "en"
+item_id: "29644"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6151
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:34:56.381000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "77d04a52e7aaf1f1986b4fb70605603d481670544b46ce4a2df145574bbc8e87"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Corporation of the County of Renfrew v. The Queen
+
+- Citation: 2010 TCC 50
+- Decision date: 2010-03-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6151, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Corporation of the County of Renfrew v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-05
+Neutral citation
+2010 TCC 50
+File numbers
+2008-1722(GST)I
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2010 TCC 50
+Date: 20100305
+Docket: 2008-1722(GST)I
+BETWEEN:
+CORPORATION OF THE COUNTY OF RENFREW,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Counsel for the Appellant: Brian R. Carr
+Counsel for the Respondent: Julian Malone
+AMENDED REASONS FOR JUDGMENT
+(Delivered orally from the Bench on
+December 11, 2009, at Ottawa, Canada)
+Pizzitelli, J.
+[1] There are initially two issues to be decided in this manner:
+(i) Whether the Appellant was entitled to input tax credits of $201,207.94 relating to the construction of Miramichi Lodge under the self‑supply rules of the Excise Tax Act (the “Act”); and
+(ii) Whether the Appellant is entitled to input tax credits of $41,615 in relation to the provision of administrative services to the Province of Ontario under the Ontario Works Program.
+[2] At the beginning of the trial, the Respondent agreed that the appeal with respect to the allowance of input tax credits for $41,615 in issue (ii) above should be allowed. Accordingly, the main issue to be dealt with by this Court is whether the County of Renfrew is entitled to input tax credits of $201,207.94 under subsection 191(3) of the Act as it then read for the period April 1, 2006 to June 30, 2006, and if not, whether the Appellant would be entitled to same under the coming into force rules set out in subsection 73(15) of the Budget Implementation Act, 2008, S.C. 2008. c. 28.
+Background
+[3] The County of Renfrew is a municipality which undertook the construction of Miramichi Lodge located in Pembroke, Ontario, during the period April 1, 2002 to January 31, 2004. The new Lodge replaced the previous Miramichi Lodge on completion and was a long-term care facility for 166 residents whose average age was 85 years, and which operated under the Ministry of Health and Long‑Term Care Regulations and Standards. There are 166 beds and 100 private suites and the balance are shared units. The Lodge provides 24-hour nursing and personal care, nutritious meals and snacks, activation and recreation, rehabilitation, palliative care, housekeeping, laundry and administrative support. The Lodge provides medical staff as well. The residents of the Lodge all suffer from physical, psychological and mental incapacities in addition to their senior age, all of which are requirements to qualifying for entry to the Lodge. Accommodation rates are set by the Ministry of Health and Long-Term Care and reduced rates are available upon application to the Minister.
+[4] The construction of the Lodge was completed in December 2004 and an occupancy certificate was issued by the City of Pembroke on December 20, 2004. On January 16, 2005, the move was completed from the old facilities on Bell Street to the new Lodge on Pembroke Street. The cost of construction for the Lodge for GST purposes was $31,234,103. The value of the Lodge was assessed by the Municipal Property Assessment Corporation at $13,420,000. The County of Renfrew claimed public-service body rebates equal to 57.14% of GST paid on construction pursuant to section 259 of the Act and the Regulations thereunder. It should be noted that after January 31, 2004, the Regulations were amended to provide that municipalities could claim 100% of the GST paid as a rebate. Clearly the Appellant missed out on the higher rebate percentage and consequently incurred $352,996.39 of GST expense representing the 42.86% of the total GST paid that was not rebated to it.
+[5] On July 19, 2006, the Appellant executed a GST return for the period April 1, 2006 to June 30, 2006, in which it claimed to collect $4,033.36 on revenues of $69,627. It claimed GST rebates of $188,515.46, presumably being the balance of total public service body rebate it was entitled to since it was not disallowed.
+[6] On July 26, 2006, the Appellant wrote Canada Revenue Agency (“CRA”) requesting corrections to such GST return by claiming further input tax credits of $242,822.94. This amount included $201,207.94 for the construction of the building and $41,615 for administrative services provided to the Ministry of Health and Long-Term Care which the Respondent has agreed to allow in this appeal as stated above. The amount in issue, still disallowed, is then the $201,207.94 which the Treasurer for the Appellant testified was calculated as representing the 42.86% of the input tax credits for which it did not receive the rebate based only on the portion of the cost above the fair market value of the property. In other words, the Appellant was of the belief that at the time it could not claim any input tax credits for the portion of the construction costs representing the assessed fair market value of the property at $13,420,000 only on the amount over such value. It should be noted that the July 26, 2006 letter still made no reference to GST payable on any self-assessment.
+[7] Also, on July 26, 2006 after telephone conversations with the GST Rulings Division, the Appellant wrote to CRA requesting a ruling as to whether or not it qualified for an additional GST rebate or input tax credit based on the fair market value of the property or on the actual cost of construction. It is clear from such letter and the response of CRA dated October 3, 2006, that the Appellant was seeking a ruling as to whether the self-supply rules of the Act would apply to the construction of the project so as to enable the Appellant to claim the full input tax credits paid on total construction. The response from the CRA was that it was not prepared to give a ruling, however, provided its interpretation only that the self‑supply provisions of subsection 191(3) did not apply since the builder did not meet the condition of said subsection in that it must give “possession or use of any residential unit in the complex under a lease, licence or similar arrangement entered into for the purpose of the occupancy of the unit by an individual as a place of residence.” As a result, the Appellant would not be able to utilize the provisions of subsection 191(3) to deem the supply a taxable supply and consequently claim all ITCs. CRA also provided its interpretation that the long-term care facility is not used in a commercial activity since it is an exempt supply under sections 1 and 2 of Part II of Schedule V as the provision of institutional health care services. Obviously, CRA disallowed the further input tax credits claimed by the Appellant from which the Appellant has appealed and for which, as I stated above, CRA has now agreed to partially allow on administrative services provided but not in relation to the construction of the complex.
+[8] Almost three years later on March 31, 2009, the Appellant wrote CRA on the advice of its accountants, requesting that the GST return for the period January 1, 2005 to March 31, 2005, which would encompass the date the Lodge became occupied, be amended to effectively claim on line 103 GST collected of $2,439,735.18 representing the amount of self-supply. The stated purpose of the adjustments was "to allow the county to meet the coming into force provision for purposes of amended subsection 191(3) of the Act,” now contained in subsection 73(15) of the Budget Implementation Act, 2008. In that same letter, the County confirmed that it was of the view it had a requirement to self assess the GST pursuant to subsection 191(3) and did not self assess due to CRA's letter of October 3, 2006, stating that it did not feel the County was subject to the self‑supply rules. Accordingly, the County asked that the March 31, 2009 adjusted return be accepted to take into account a requirement to self assess in circumstances.
+[9] The first issue to be addressed is whether the Appellant was entitled to self assess under old subsection 191(3) as it read at the time of the supply, being January 16, 2005, the date the first unit was occupied in the complex. It should be noted that the parties are in agreement that all preconditions to qualifying under such subsection are met save and except the requirement that the builder give possession of a residential unit in the complex to a person under a lease, licence or similar arrangement for the purpose of occupying the unit as a place of residence of an individual.
+[10] The parties are both in agreement that the definition of “possession” is not defined in the Act, however, was considered by the Federal Court of Appeal in North Shore Health Region v. The Queen, 2008 FCA 2. In such case, the Court concluded that the word “possession” as used in subsection 191(3) was intended to describe a right of possession that is equivalent or analogous to the right of possession normally enjoyed by a tenant under a residential lease. Sharlow, J.A. went on to say at paragraph 44:
+44 … That would suggest, generally speaking, a right to the exclusive use and enjoyment of a particular apartment for a defined period of time for residential purposes, a right that cannot be defeated during the stipulated period except upon a breach by the tenant of the terms of the tenancy. …
+[11] In the North Shore Health Region case, the Federal Court of Appeal decided that since room assignments could be changed at will by the North Shore Health Region, i.e., the right of an individual to occupy a particular room is entirely at the discretion of North Shore, that such person would not have a right of possession as that term is normally used in the context of occupying a residential space.
+[12] In the case at hand, the Appellant has argued that the terms of occupancy by a resident are substantially stronger than those in North Shore Health Region, and accordingly, this case is distinguishable from North Shore Health Region. In particular, the Appellant pleaded that residents are assigned specific rooms and cannot be moved without their approval, that the individual has the ability to exclude others from the room, is entitled to alter or make changes to the room (i.e., furnishings or decorating the room), can control the temperature in the room and obtain insurance for personal property in the room. The evidence of the Appellant's Lodge administrator on examination-in-chief was that no patient has ever been moved without their consent or that of their substitute decision-maker and that if they consider a patient should be moved to enable better access to treatment or equipment within the facility, then they meet with a resident or their representative and explain the reasons, which have never been refused. However, on cross-examination, the same witness testified that the final decision would belong to the Lodge not the resident, and that she would act to protect the safety of the resident or other residents and staff. In addition, she agreed that there were restrictions on what furniture could be brought into the premises by the resident depending on the size and the requirements, that there were no locks on the unit doors, staff was not barred from a room at any time and that patients with Alzheimer's generally wander in and out of rooms at will and that temperature changes could only be made within a range of five degrees.
+[13] The Admission Agreement signed with respect to residents who stay at the Lodge clearly provides in paragraph 2 that:
+Provincial funding regulations allow each resident to be absent from the Home for the following periods of time:
+1. Casual Leave - 2 days per week, …
+2. Vacation Leave - 21 days per year …
+Clearly the terms of the Agreement restricts a resident's freedom to come and go as they please without risk of being discharged from the home.
+[14] In addition, a new resident handbook used by the Appellant limits alcohol use to a maximum of two drinks daily when prescribed by a physician, while decorating is subject to what space and safety allow suggesting an overriding control by the home. Likewise, there are restrictions on having refrigerators, electrical heating pads or grain-filled microwaveable pads and residents can only bring in personal furniture that is assessed as safe by staff and as space allows. Having regard to the fact that private rooms are only 180 square feet in size and all bedroom furnishings such as beds, bedside tables, easy chairs, etc. are provided by the homes, it seems reasonable to conclude there is very little space for residents’ additional personal belongings. All of these restrictions on the use of the premise and the residents’ conduct within them are hardly consistent with the use of a leased premises or right of possession normally enjoyed by a tenant of a residential lease as contemplated by the Court of Appeal in the North Shore Health Region case.
+[15] It should be noted that in the North Shore Health Region case, the policy of North Shore Health Region was not to move a patient unless a change occurred in the individual's physical or mental condition. Notwithstanding this, the Court still ruled there was no “possession” in the room given in the ordinary sense. The case at hand is no different when the Lodge recommends a change in room due to a resident's change in health and has the final say as to whether or not it happens.
+[16] When one considers all the evidence as a whole, I find that Miramichi Lodge does not give “possession” of the unit to an individual for the purposes contemplated by subsection 191(3), as it then read, and that the facts in this case are not in any meaningful way distinguishable from the North Shore Health Region case.
+[17] Counsel for the Appellant also argued that since the Budget Plan 2008 giving rise to the Budget Implementation Act, 2008 amending subsection 191(3) makes reference to the purpose of the budget as being to “clarify” the GST/HST treatment of long-term residential care facilities that the Courts should then interpret old subsection 191(3) as having always been intended to apply to such facilities. In effect, counsel for the Appellant is asking the Court to ignore the Federal Court of Appeal's decision in North Shore Health Region as a result of the stated clarification.
+[18] This Court has no jurisdiction to overrule its appellate body and Parliament dealt with the issue in Bill C-50 which gave rise to the Budget Implementation Act, 2008.
+[19] In fact, the next question to be determined is whether the Appellant falls within the coming into force provisions of Bill C-50 being subsection 73(15) of the Budget Implementation Act, 2008.
+[20] Since the particular time in question is before February 26, 2008, then only the provisions of paragraph 73(15)(b) of the Budget Implementation Act, 2008 apply. The conditions found in said subparagraph (b) above are basically twofold.
+[21] Firstly, the Appellant must have been deemed to have made a taxable supply if the provisions of subsections 73(1) to 73(13) applied as amended to the Appellant at a particular time, which is defined in subsection 73(14) as effectively being the later of the date of completion or date of first possession or use of a unit, in our case, January 16, 2005. Since the provisions now read that the builder must give “possession or use” of a unit to an individual it is clear the new provisions would have applied at the particular time and this was acknowledged by the Respondent.
+[22] Secondly, the Appellant, as the builder must have reported an amount as or on account of tax, as a result of the builder applying section 191 of the Act in respect of the complex in a builder's return under Division V of Part IX of the Act, for any reporting period the return for which is either filed on or before February 26, 2008, or is required to be filed on or before that date. It is this second requirement that gives rise to dispute between the parties.
+[23] The requisite elements of this second condition found in clause (ii) of paragraph 73(15)(b) are:
+(i) The builder must have reported all or part of the tax as a result of self‑assessing under section 191 in respect of the complex;
+(ii) The tax must be reported in a builder's return under Division V of Part IX of the Act; and
+(iii) The return must be for any reporting period that is either filed on or before February 26, 2008 or is required to be filed before that date.
+[24] The evidence establishes that returns were filed for two different periods:
+(i) For the period April 1, 2006 to June 30, 2006, the Appellant filed a return on July 19, 2006 as amended July 26, 2006.
+(ii) For the period January 1, 2005 to March 31, 2005, the Appellant filed a return which was amended on March 31, 2009.
+The position of the Appellant is that both filings comply with the requirements of subparagraph 73(15)(b), while the Respondent argues none of them do.
+[25] In connection with the filing for the first period April 1, 2006 to June 30, 2006, the return dated July 19, 2006, and mailed July 20, 2006, shows sales revenue of $69,627 and GST collected or that became collectible of $4,033.36. Line 405 dealing with GST to be self-assessed is left blank. Clearly there is no evidence that any tax let alone the entire amount of tax was reported in connection with the self-supply of the complex which cost $31,234,103. The tax of $4,033.36 pertains to revenue earned of $69,627 and there is evidence that the Lodge provided taxable supplies such as hairdressing and other charges for services for which GST had to be remitted. More importantly, the evidence is that no self‑supply was contemplated at this time. The amendment of July 26, 2006 only amended the amount of input tax credits and adjustments claimed in line 108 and subsequent provisions showing a larger refund claimed such that it is clear the ITCs were claimed in connection with the complex as earlier stated but no tax on account of the self‑assessment were recorded. Accordingly, the filing for this period simply showed no tax on account of the self-assessment and hence the requisite elements above have not been met with respect to that return.
+[26] In connection with the reporting period of January 1, 2005 to March 31, 2005, the original return was not submitted into evidence. However, since by letter of March 31, 2009, the Appellant applied to amend such return by including in line 103 an amount of $2,439,735.18, it is clear at this point that the Appellant attempted to self assess. The question then remains whether this amended filing meets the requirements of paragraph 73(15)(b).
+[27] Although a copy of the initial filing for this period was not submitted into evidence, there was no argument or pleading by the Respondent that the initial filing did not comply with the provisions of Division V of Part IX of the Act. Hence, the second element is not in dispute. The Respondent's only objection is that the return could not be said to be filed within the time limitations of the section.
+[28] The Appellant was clearly a GST registrant who filed quarterly returns as per the evidence provided. The Appellant admits in the March 31, 2009 letter that the requirement to self assess arose in the reporting period January 1, 2005 to March 31, 2005 and that the GST return for this reporting period was due May 2, 2005. Clearly, in the initial return, no self-assessment occurred since the stated purpose of the amended return of March 31, 2009, was to remedy that fact. The Appellant stated in that letter of adjustment that “the purpose of the foregoing adjustments is to allow the County to report the GST under subsection 191(3) of the Excise Tax Act (“ETA”) by way of an amended GST/HST Return for the reporting period in 2005 …” in question.
+[29] The third element, however, of paragraph 73(15)(b) was that the return for any reporting period be filed on or before February 26, 2008, or that it is required to be filed on or before February 26, 2008. Clearly the amendment occurred March 31, 2009 and cannot be said to have been filed before February 26, 2008. However, the Appellant argued that the words “or is required to be filed on or before February 26, 2008”, should be taken to mean that since the reporting period in question required a filing on or before February 26, 2008, it makes no difference whether the filing actually occurred by that date. I agree with this position.
+[30] The language of the provision clearly contemplates that the relief is available to periods for whom filings were actually made before February 26, 2008, or for periods for which filings were due before that time, even if not yet made, otherwise that specific clause has no relevant meaning. It would be absurd to suggest that the filing containing the self-assessment must be made before February 26, 2008, in regards to a transaction which occurred before that date when the entire purpose of the relieving provision is to permit an election to be made and filed to receive retroactive treatment.
+[31] In Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54, the Supreme Court of Canada, in discussing the rules of statutory interpretation, stated in paragraph 23 that where such a provision admits of no ambiguity in its meaning or in its application to facts, it must be strictly applied. I find the words "or is required to be filed" to be clear and unambiguous as stated. Even if I were to have accepted that, based on the different positions of the parties, the words created a real ambiguity, then the Supreme Court of Canada in Canada Trustco Co. would have directed in paragraph 47 that:
+47 … In order to reveal and resolve any latent ambiguities in the meaning of provisions of the Income Tax Act, the courts must undertake a unified textual, contextual and purposive approach to statutory interpretation.
+and said in paragraph 29 that the courts could then resort to external interpretative aids.
+[32] In considering the Budget Plan of 2008 as such interpretative aid, I note that page 314 of the Budget Plan 2008 clearly sets out that the change will apply to such facilities “on a going forward basis” and to certain past transactions where the owner has paid tax on the facility “or elects to have the new rules apply”. In addition, on page 315 in direct reference to Changes to Self-Assessment Rules, it is clear that it will only apply for transactions on or before February 26, 2008, where the owner has self-assessed GST/HST … “or an election has been made”. The intention of the budget seems clear that retroactive treatment was the method by which Parliament chose to deal with the results of North Shore Health Region when certain terms are met. The intention of Parliament is clear that either there was a self-assessment already or an election could be made to self-assess. Otherwise, only those taxpayers who self-assessed before February 26, 2008, contrary to the law as it stood at that time, could benefit from the retroactive provision while the law-abiding taxpayer who respected the law as it stood, including those that went to the effort of confirming the status of the law with CRA and received it and respected it, as the County did in this instance, would be penalized, which would be an absurd result.
+[33] The Appellant, by its letter of March 31, 2009, took the position that the amendment should be permitted under the CRA administrative policy of allowing adjustments to GST returns outlined in P-149R, which allows returns to be adjusted, except where a person is attempting to increase the amount of input tax credits or other credit adjustments without a corresponding increase in tax liability. It seems clear that the amendment did not have the effect of changing the net refund, and accordingly has met the criteria. In any event, while it is clear that the CRA Administrative Policy is not binding law on the Court, the Minister pleaded no assumptions in regards to the form of the filing. In fact, the Respondent argued the only issue was one of timing, not form. In any event, based on the wording of the provision as discussed above, it would make no difference in my view whether the filing was a new one or an amended one as long as it referred to any period for which a filing was due before February 26, 2008, because the wording clearly contemplates a late filing.
+[34] Accordingly, this appeal is allowed in full and the matter is referred back to the Minister for reassessment on that basis. There will be no order as to costs.
+Signed at Ottawa, Canada, this 5th day of March 2010.
+“F.J. Pizzitelli”
+Pizzitelli, J.
+CITATION: 2010 TCC 50
+COURT FILE NO.: 2008-1722(GST)I
+STYLE OF CAUSE: CORPORATION OF THE COUNTY OF RENFREW and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: December 8 and 11, 2009
+AMENDED REASONS FOR
+JUDGMENT BY: The Honourable Justice F.J. Pizzitelli
+DATE OF JUDGMENT: December 15, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Brian R. Carr
+Counsel for the Respondent:
+Julian Malone
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Brian R. Carr
+Firm: Moskowitz & Meredith LLP
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

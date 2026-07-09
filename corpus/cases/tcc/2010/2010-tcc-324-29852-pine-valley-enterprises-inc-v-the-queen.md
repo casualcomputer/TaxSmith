@@ -1,0 +1,276 @@
+---
+title: "Pine Valley Enterprises Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29852/index.do"
+last_modified: "2010-06-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 324"
+citation2: ""
+neutral_citation: "2010 TCC 324"
+decision_date: "2010-06-15"
+language: "en"
+item_id: "29852"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6409
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:16:07.048000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3f268dc0feed96502fdf4872c21e1675d5fc8e846412e28ac47c128d7ffc6499"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pine Valley Enterprises Inc. v. The Queen
+
+- Citation: 2010 TCC 324
+- Decision date: 2010-06-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6409, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pine Valley Enterprises Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-15
+Neutral citation
+2010 TCC 324
+File numbers
+2009-3722(GST)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-3722(GST)G
+BETWEEN:
+PINE VALLEY ENTERPRISES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on April 28, 2010 at Toronto, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Rocco Galati
+Counsel for the Respondent:
+Peter A. Vita, Q.C.
+____________________________________________________________________
+ORDER
+Upon Motion by the Respondent for an Order:
+1. striking-out the following paragraphs of the Notice of Appeal and/or Amended Notice of Appeal:
+a. paragraphs 4-12 of the Notice of Appeal;
+b. the phrase, “Following all of this”, in paragraph 13;
+c. paragraph 17;
+d. subparagraphs 18(e) to (i) inclusive;
+e. subparagraphs 19(a) and (b); and
+f. subparagraph 21(c);
+2. extending the time for the delivery of a Reply to 60 days after the final disposition of the Motion;
+And upon reading the Affidavit of Joanne Jaworsky sworn April 21, 2010 and the Affidavit of Stefanie Gude sworn April 22, 2010;
+And upon hearing submissions by the parties;
+IT IS ORDERED THAT:
+1. The Respondent’s Motion is allowed, in part, in accordance with the attached Reasons for Order.
+2. The following paragraphs, or portions thereof, of the Notice of Appeal/Amended Notice of Appeal shall be struck:
+Paragraphs 4, 8, 9, 18(e), 18(f), 18(h), 18(i), 19(b) and 21(c)
+3. Several sentences in paragraph 6 shall be struck, leaving the paragraph to read as follows:
+In early 2006 the Respondent’s official indicated to Mr. Bova that the Appellant’s GST was not in compliance and planned to conduct an audit into the Appellant’s books and records. In February, 2006, the Respondent’s officials commenced their audit. The audit conducted was for the periods July, 2002 to July 31, 2005.
+4. The Respondent shall have 60 days from the final disposition of this Motion to file a Reply to the Notice of Appeal/Amended Notice of Appeal.
+5. Costs shall be left to the discretion of the Judge hearing this appeal.
+Signed at Ottawa, Canada, this 15th day of June 2010.
+"Diane Campbell"
+Campbell J.
+Citation: 2010 TCC 324
+Date: 20100615
+Docket: 2009-3722(GST)G
+BETWEEN:
+PINE VALLEY ENTERPRISES INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Campbell J.
+[1] The Appellant filed a Notice of Appeal, in respect to the 2005 taxation year, on December 4, 2009, in which it states at paragraph 1 that, “[t]he assessment under appeal is the assessment from the notice of confirmation, dated September 8th, 2009”. Prior to the hearing of the within Motion on April 28, 2010, and subsequent to consultations between counsel, Appellant counsel, on April 15, 2010, submitted an Amended Notice of Appeal which eliminated any reference to section 7 of the Canadian Charter of Rights and Freedoms (the “Charter”). As this did not satisfy all of the concerns of Respondent counsel, a Motion, dated April 21, 2010, was brought to strike certain portions of the Notice of Appeal. This Notice of Motion was amended on April 23, 2010 and further amended on April 26, 2010.
+[2] The Further Amended Notice of Motion requests that the following portions be struck from the Notice of Appeal and/or the Amended Notice of Appeal pursuant to Rule 53 of the Tax Court of Canada Rules (General Procedure) (the “Rules”):
+(a) paragraphs 4-12 of the Notice of Appeal. These paragraphs read as follows:
+4. Both the Appellant and its related company duly registered for Goods and Services Tax (“GST”) since its introduction and have, without fail and incident, filed and paid upon their returns. The first reporting period of Pine Valley Enterprises Inc. was July 1, 1998 to September 30, 1998. The first reporting period of Pine Valley Landscaping Ltd. was January 1, 1991 to March 31, 1991.
+5. In the years 2002 to 2005, the Appellant and its related company, unknown to their directing mind, became the victims of a fraud perpetrated by bookkeepers. While this fraud was unknown to the Appellant and its director/officer/shareholder, Mr. Bova, it was known to the Respondent’s officials, who at no time advised the Appellant nor its director/officer/shareholder of the fraud being perpetrated, namely: false and/or non-returns, on behalf of the Appellant were being filed, without any payments being made to the Minister of National Revenue but which monies were being directed to those perpetrating the fraud.
+6. In early 2006 the Respondent’s officials indicated to Mr. Bova that the Appellant’s GST was not in compliance and planned to conduct an audit into the Appellant’s books and records. In January, 2006, Mr. Bova requested a meeting with Revenue Canada, in Ottawa, to discuss the reasons for the audit and why it was being conducted, and what was amiss with GST. Revenue Canada refused to meet. In February, 2006, the Respondent’s officials commenced their audit. In or about March, 2006, further concerned about the audit, the Appellant’s Director/President, Mr. Rocco (“Rocky”) Bova specifically instructed that the Respondent’s official no longer deal with “M & R Accounting”, but deal with him directly as Director/President of the Appellant companies and apprise him of the reasons and results of the audit. The Respondent’s officials further ignored this request/demand. The audit conducted was for the periods July, 2002 to July 31st, 2005.
+7. On or about July 19th, 2006, without any prior warning, “Requirements to Pay”, pursuant to s. 317(3) of the Excise Tax Act, were issued to the City of Vaughan, a client of the Appellant company, on account of monies up to $414,000.00 payable, on account of the Appellant’s services, on alleged default of unpaid GST and penalties and interest thereon, by the Appellant and its related company. “Requirements to Pay” were also issued to the City of Brampton and the City of Richmond Hill.
+8. On July 26th, 2006, the Appellant’s Director/President, Mr. Rocco (“Rocky”) Bova, upon learning of this alleged unpaid GST, contacted the Respondent’s officials, in writing, setting out previous contact and inquiring as to why his request/demand had been ignored. He further set out that, in the circumstances, the issuance of the requirement to pay, to the City of Vaughan, and other municipalities, had caused considerable damage to the reputation and economic viability of the Appellant company and that any such further action would irreparably jeopardize the Appellant and its related company.
+9. In order to mitigate any such further damage, and under protest and without prejudice, the Appellant’s Director/President took immediate steps to redress the problem, including:
+(a) obtaining legal counsel;
+(b) arranging for full payment, under protest, of the amounts demanded, including penalty and interest, in full, pending the taking of objection and/or appeal to the Tax Court from any disputed amounts.
+10. On August 4th, 2006, the Appellant and its related company paid:
+(a) $417,999.83; and
+(b) $102,151.12;
+Respectively, under protest.
+11. The Respondent’s officials, during the course of communication and negotiation(s) with the Appellant’s legal counsel, had undertaken to forward a copy of the notice(s) of assessment, which purportedly grounded the basis for their collection and search and seizure of these amounts, by way of the requirements to pay under the Excise Tax Act. However, no such notices were ever forwarded either to the Appellant or to the Appellant’s counsel.
+12. Despite repeated requests and demands to be furnished with a copy of such notice(s) of assessment, so that notices of objection and/or appeal may be taken under the Excise Tax Act, if advisable, the Respondent’s officials have not only refused to furnish such notice(s) of assessment, they have refused to altogether even respond to legal counsel with respect to the initial purported assessment(s).
+(b) the phrase, “Following all of this”, in paragraph 13. This paragraph reads as follows:
+13. Following all of this, on or about May 22nd, 2008, out of the blue, the Appellant received Notice(s) of (Re)assessment, which were difficult to decipher for the period covering 2005-12-01 to 2005-12-31.
+(c) paragraph 17. This paragraph reads as follows:
+17. To date, no satisfactory accounting nor explanation as to the initial “assessments”, which were never sent by the Respondent upon which monies were seized and paid under protest, nor for the “(re)assessment(s)” issued in May, June, and July, 2008, has been furnished by the Respondent.
+(d) subparagraphs 18(e) to (i) inclusive. These subparagraphs read as follows:
+18… e) Whether the Respondent has engaged in an abuse of process at common law and/or s. 7 of the Charter, which warrants relief pursuant to s. 24(1) of the Charter?
+f) Whether the Respondent has engaged in unreasonable search and seizure, contrary to the Act, and s. 8 of the Charter, in seizing and taking monies without an underlying assessment? As well as conduct contrary to the Preamble to the Constitution Act, 1867?
+g) Whether the Minister’s assessment is void ab initio by way of issue estoppel and estoppel by action and/or officially induced error?
+h) Whether the penalities, and interest thereon, imposed, and collected and sought, knowing that the Appellant was a victim of fraud, are contrary to the common law, the statute, and s. 8 of the Charter?
+i) Whether s. 299(1) and 296(1) of the Excise Tax Act are of no force and effect or should be suspended in the circumstances for abuse of process and s. 8 Charter violations?
+(e) subparagraphs 19(a) and (b). These subparagraphs read as follows:
+19. The Appellant relies on the following statutory and legal provisions:
+a) the Common Law;
+b) s. 7 of the Charter;
+…
+(f) subparagraph 21(c). This subparagraph reads as follows:
+21. The Appellant therefore requests […] the following relief:
+[…]
+(c) that the monies paid, as set out in paragraph 10, be ordered paid back, with interest, to the Appellant;
+[3] This Court may strike pleadings pursuant to Rule 53 of the Rules. Rule 53 states:
+53. The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+[4] The test for striking pleadings was set out at paragraph 3 of Main Rehabilitation Co. Ltd. v. The Queen, 2004 D.T.C. 6762, where the Federal Court of Appeal stated the following:
+The test to be applied for striking out pleadings is whether it is plain and obvious that Main’s Notice of Appeal to the Tax Court discloses no reasonable claim. Only if its appeal is certain to fail should the relevant portions of the Notice of Appeal be struck out. As stated, the facts alleged in the Notice of Appeal are assumed to be true. See Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959
+An Order to strike portions of a pleading should not be made “…unless it be obvious that the plaintiff’s action is so clearly futile that it has not the slightest chance of succeeding…” (Pfizer Canada Inc. v. Apotex Inc., [1999] F.C.J. No. 959 (Fed. T.D.) at paragraph 30).
+[5] It must be remembered that the purpose of pleadings is to assist in clearly and concisely defining the issues before the Court. At paragraph 5 of Zelinski v. The Queen, 2002 D.T.C. 1204, which was affirmed by the Federal Court of Appeal (2002 FCA 330), Justice Bowie stated that:
+[5] The applicable principle is stated in Holmsted and Watson:
+This is the rule of pleading: all of the other pleading rules are essentially corollaries or qualifications to this basic rule that the pleader must state the material facts relied upon for his or her claim or defence. The rule involves four separate elements: (1) every pleading must state facts, not mere conclusions of law; (2) it must state material facts and not include facts which are immaterial; (3) it must state facts and not the evidence by which they are to be proved; (4) it must state facts concisely in a summary form.
+Applying these principles, I approach both motions on the basis that the test to be applied is whether the paragraphs in dispute, and those that the Appellant proposes to add, are proper pleadings of material facts. The Appellant's motion seeks to add two issues to those now pleaded. She should be permitted to do so, unless it is plain and obvious that they are so ill-founded in law that they could not succeed at trial, even if the facts upon which they depend were established to be true.
+However, matters of weight and relevancy and the significance of the evidence are best left to the discretion of the presiding Judge.
+[6] Section 309 of the Act provides that:
+309. (1) The Tax Court may dispose of an appeal from an assessment by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment, or
+(ii) referring the assessment back to the Minister for reconsideration and reassessment.
+This provision is almost identical to subsection 171(1) of the Income Tax Act and both clearly establish that it is the validity of the assessment, and not the process which establishes that assessment, that this Court has been given the statutory authority to deal with in an appeal before it. As Justice Woods stated in her Reasons at paragraph 21 of Main Rehabilitation Co. Ltd. v. The Queen, 2004 D.T.C. 2099:
+[21] …If the assessments are incorrect as a matter of law, it will not matter whether the objection process was flawed. If they are correct, they must stand even if the objection process was flawed.
+This Court has no authority to determine whether Canada Revenue Agency (“CRA”) has engaged in a reasonable and fair process in arriving at the assessment but can only determine if the amounts contained in the assessment are owing in total, in part, or not at all, under the relevant statute.
+[7] With this background, I will now review the impugned paragraphs of the Notice of Appeal/Amended Notice of Appeal.
+[8] According to paragraphs 4 through 12 of the Notice of Appeal, the Appellant seeks to introduce evidence concerning both an alleged fraud perpetrated against the Appellant by its bookkeepers and subsequent garnishment orders issued by CRA. The Appellant is concerned that there are overlapping time frames relating to prior audits and that all of these facts are relevant to the correctness of the assessment under appeal.
+[9] The Respondent submits that these facts are irrelevant to the issues before the Court as they relate to matters outside the audit period, do not relate to amounts owing pursuant to the assessment and generally are not within the jurisdiction of this Court to consider.
+[10] Paragraphs 4 through 12 of the Notice of Appeal/Amended Notice of Appeal outline a complex and lengthy history between the Appellant and CRA. The paragraphs describe a history of audits of the Appellant, allegations of the issuance of improper assessments and an overlap in audit periods, with approximately half a million dollars being paid under protest pursuant to garnishment proceedings. The test to determine the relevance of these paragraphs is whether they are relevant to the determination of the issues before this Court and whether they will have bearing ultimately on the questions which the presiding Judge must address (Faber v. The Queen, 2007 D.T.C. 640, at paragraph 14).
+Paragraph 4:
+[11] This paragraph describes the Appellant’s general conduct with respect to paying taxes. Paragraph 4 has no relevance to the issues that will be before this Court and following the decision in Eramo et al v. The Queen, 2007 D.T.C. 1330, at paragraph 6, where a similar paragraph was struck, paragraph 4 of the Appellant’s Notice of Appeal/Amended Notice of Appeal should be struck.
+Paragraph 5:
+[12] This paragraph contains allegations that the Appellant was a victim of fraud by its bookkeepers and that false returns were filed on the Appellant’s behalf, without its knowledge, in earlier years. This paragraph also contains allegations that CRA was privy to this alleged fraud. The Respondent argued that these facts are irrelevant to the present assessment. However, I believe that these allegations of fraud may be very relevant to the correctness of the assessment and particularly to the imposition of penalties. In Gould v. The Queen, 2005 D.T.C. 1311, Chief Justice Bowman (as he was then), in considering whether to strike portions of a Reply dealing with a purported scheme in which the taxpayer may have participated, stated at paragraph 11:
+[11] I can see nothing wrong with the Overview. It describes generally the "scheme" in which the Minister alleges the appellant participated. I think it is arguably relevant that the appellant's charitable donations are not an isolated phenomenon but form part of a larger pattern. What weight if any should be given to this fact will be a matter for the judge who hears the case. It would be premature and indeed inappropriate for me, sitting as a motions judge, without the benefit of having heard any evidence to decide whether so broad a description of an alleged "scheme" is relevant. To do so would be to usurp the function of the trial judge.
+[13] I agree with the Appellant’s submissions that, if these allegations are founded, they may impact upon the assessment and most certainly the penalty issue. The details of the fraud and its relevance are best left to the presiding Judge. If they are shown to be irrelevant to the issues, the presiding Judge can ignore them. This paragraph should remain.
+Paragraph 6:
+[14] This paragraph contains details of an earlier audit conducted in 2006 for the periods covering July, 2002 to July 31, 2005. This paragraph also contains allegations of abuse by the CRA during the audit process.
+[15] Most of this paragraph contains facts concerning the actions of CRA during the audit that are not relevant to the correctness of the assessment. Since it is well established that this Court cannot address alleged abuses by CRA occurring in the assessment process, these references within paragraph 6 must be struck. However, the first, fourth and last sentence of this paragraph should remain. If, as the Appellant alleges, an audit was conducted in periods that overlap with the present assessment under appeal and no independent assessment was issued, the details of this audit may have some bearing on the correctness of the present assessment. Again, this is best left to be determined by the presiding Judge.
+Paragraphs 8 and 9:
+[16] These paragraphs describe dealings between the Appellant and CRA in an objection process and are irrelevant to the correctness of the assessment. They should be struck.
+Paragraphs 7, 10, 11 and 12:
+[17] These paragraphs contain details concerning the garnishment proceedings in 2006. The Respondent argued that the garnishment resulted from an earlier assessment under the Act and that, if the Appellant had objections to that assessment, it could have challenged the validity of that assessment at the time. The Appellant’s argument is that this garnishment was never valid and that there was no opportunity to legitimately dispute the amounts that CRA claimed were owed. If the Appellant can adduce evidence to show that there was some duplication of amounts which the Appellant paid under protest pursuant to this garnishment, then there may be an argument that the present assessment is incorrect. This is particularly true if, as the Appellant alleges, the garnishment was not issued pursuant to an independent assessment. The relevance and weight, if any, is best left to the presiding Judge to assess within the parameters of all the adduced evidence. It is not clear and obvious to me that these impugned paragraphs should be struck because they are scandalous, frivolous or vexatious, or an abuse of the process of the Court. It would be premature for me on a motion to deprive the Appellant of its right to present this argument to the presiding Judge. These paragraphs will remain in the pleadings.
+Paragraph 17:
+[18] This paragraph relates to the detailed information contained in the preceding paragraphs 7, 10, 11 and 12. Similar reasoning applies and therefore this paragraph will remain as well.
+Paragraph 13:
+[19] The phrase, “Following all of this”, flows as a consequence of allowing the preceding paragraphs 7, 10, 11 and 12 to remain and, consequently, will be permitted to remain.
+Subparagraph 18(e) – Abuse of Process
+[20] The Appellant has eliminated any reference to section 7 of the Charter in the Amended Notice of Appeal. Consequently, subparagraph 18(e) now states:
+18… e) Whether the Respondent has engaged in an abuse of process at common law which warrants relief.
+[21] The Appellant’s allegations of abuse of process focus on CRA’s conduct during the audit and assessment process, including refusals to respond, to account for monies paid pursuant to the garnishment and to explain the alleged overlap of assessment periods. The Appellant’s allegations of abuse are clearly confined to the actions of CRA and the correctness of its administrative processes during audit and assessment. Jurisprudence supports that this Court’s jurisdiction does not extend to these matters. Although the Appellant relied on the decision in U.S.A. v. Cobb, [2001] 1 S.C.R. 613, to argue that this Court has implicit jurisdiction to prevent abuse of its own process, even where protections afforded under section 7 of the Charter do not apply, I do not believe that the decision by implication extends the jurisdiction of this Court to adjudicate upon the administrative processes employed by CRA. Therefore, because the claim of abuse of process against the actions of CRA is beyond the Court’s jurisdiction, this subparagraph must be struck.
+Subparagraph 18(f) – Garnishment and Section 8 of the Charter:
+[22] The Appellant alleged that the garnishment proceedings in 2006 are an infringement of section 8 of the Charter and contrary to the preamble to the Constitution Act, 1867. Section 8 of the Charter reads:
+8. Everyone has the right to be secure against unreasonable search or seizure.
+[23] The Respondent submitted that the current appeal contains no allegations of unreasonable search or seizure which would engage these provisions. The Respondent argues that such proceedings are simply methods of collection authorized by statute. In any event, no monies were seized, as the Appellant voluntarily paid funds pursuant to these proceedings, although under protest. Even if the garnishment was an improper seizure of money, it may relate to the present appeal only to the extent that it affects the correctness of the calculations used in the assessment. In the decision in Faber, at paragraph 17, it was held that claims of violations of protections that do not affect the validity of the assessment should be struck.
+[24] The clear purpose of section 8 of the Charter is aimed at protecting individuals from unjustified intrusion of an individual’s privacy rights. It does not, however, extend to protection of economic rights. While a taxpayer may expect significant privacy protections in some forms of search or seizure, in this appeal the Appellant paid under protest in response to CRA’s garnishment proceedings. The basic governing principle is that the right to levy taxes will include the right to collect them (The Queen v. McKinlay Transport Limited et al., [1990] 1 S.C.R. 627; Pembina on the Red Development Corporation Ltd v. Triman Ind. Ltd. et al., 92 D.T.C. 6174). An integral and essential part of the tax collection scheme includes garnishment proceedings that CRA may take. As far as the Appellant’s concerns with the garnishment going to the validity of the assessment as expressed in paragraphs 5, 7, 10, 11 and 12, I have permitted those paragraphs to remain in the pleadings. However, there is no basis for the allegation that these same garnishment proceedings affected rights of personal dignity or privacy. Subparagraph 18(f) will therefore be struck.
+Subparagraph 18(g) – Issue Estoppel:
+[25] In reviewing my notes, the transcript of the proceedings and the submissions, I do not see where either counsel addressed this issue. Because the party bringing the Motion bears the burden to prove that this allegation is contrary to Rule 53 of the Rules, and since this burden has not been met, subparagraph 18(g) will not be struck.
+Subparagraph 18(h) – Penalties and Interest:
+[26] The Appellant challenges the application of penalties and interest because, due to the alleged fraud by the Appellant’s bookkeepers, such amounts are contrary to the common law and section 8 of the Charter.
+[27] In Jarvis v. The Queen, [2002] S.C.J. No. 76, at paragraph 69, the Supreme Court of Canada described the application of section 8 as follows:
+[69] … For the application of s. 8, there must first be a search or seizure. Subsequently, it must be determined whether the search or seizure was unreasonable. Like the Fourth Amendment of the U.S. Constitution, s. 8 protects a reasonable expectation of privacy: Hunter v. Southam, supra, at p. 159, per Dickson, J. (as he then was). What is reasonable, however, is context-specific. In the application of s. 8, "an assessment must be made as to whether in a particular situation the public's interest in being left alone by government must give way to the government's interest in intruding on the individual's privacy in order to advance its goals, notably those of law enforcement" (id., at pp. 159-60).
+[28] The Appellant has not demonstrated how the application of penalties and interest would fall within the context of section 8 in this appeal. The burden of proof is upon the Respondent in the application of gross negligence penalties pursuant to section 285 of the Act. It was unclear if all of the referenced penalty amount was applied pursuant to section 280 or if some of it related to section 285. If the Appellant shows that the garnishment had some bearing on the validity of the assessment, then that may also have some bearing on this issue. Consequently, the Appellant would have an opportunity to challenge the imposition of penalties without reliance upon section 8 of the Charter. Without substantive reasons to support a section 8 challenge to penalties, it is not plain and obvious that this subparagraph should remain and, accordingly, it is struck.
+Subparagraph 18(i) – Sections 299(1) and 296(1) of the Act:
+[29] The Amended Notice of Appeal changed the wording of subparagraph 18(i) to read:
+18… i) Whether s. 299(1) and 296(1) of the Excise Tax Act should be suspended, or not applied, in the circumstance for abuse of process at common law and s. 8 Charter violations?
+However, the substance of the issue is essentially unchanged from the wording contained in the Notice of Appeal.
+[30] The Appellant challenged the validity of these two sections of the Act on the grounds that they constitute abuse of process and violations of section 8 of the Charter. Section 299(1) addresses the fact that the Minister of National Revenue (the “Minister”) is not bound by any return while section 296(1) is the general provision giving the Minister the right to assess taxpayers.
+[31] A section 8 Charter challenge arises in the context of a search or seizure. Although this Court has jurisdiction to rule on the validity of the provisions of the Act, neither of these provisions relate to the search or seizure of the Appellant’s property. Since I have previously discussed the nature of the garnishment proceedings in the context of a section 8 Charter challenge, it will suffice to say that it is plain and obvious that this Charter challenge cannot succeed and should be struck.
+[32] I turn next to the abuse of process argument referenced in this subparagraph. A claim of abuse of process may have several contexts. Justice C. Miller, in Obonsawin v. The Queen, [2004] T.C.J. No. 68, at paragraphs 8, 10, 11 and 12, describes the range of potential abuse of process allegations as follows:
+[8] Clearly the Tax Court of Canada has exclusive jurisdiction to vacate a GST assessment. Just as clearly, the OSCJ has jurisdiction to award damages in a tort action of abuse of power or abuse of process. What is not so clear is who has jurisdiction to give declaratory relief. It is helpful to clarify certain concepts in considering this issue, before proceeding to address the stay application. What is abuse of power? What is abuse of process?
+…
+Abuse of process
+[10] This concept becomes somewhat trickier as it is used in a number of different contexts.
+(i) Tort. Again relying on comments in Remedies In Tort, Mr. Lewis Klar and Justice Linden summarized this tort as originating in Grainger v. Hill as follows:
+4. ... It is an action for abusing the process of law, by employing it to extort property to which the Defendants had no right: that is of itself a sufficient cause of action, without alleging that there was no reasonable or probable cause for the suit itself" (per Vaughan J.). "This is not an action for a malicious arrest or prosecution, or for maliciously doing that which the law allows to be done: the process was enforced for an ulterior purpose; to obtain property by duress to which the Defendants had no right. The action is not for maliciously putting process in force, but for maliciously abusing the process of the Court" (per Bosanquet J.).
+...
+Damages for this tort liability also are not within the purview of the Tax Court of Canada.
+(ii) Court's inherent jurisdiction over its own process. The Tax Court of Canada is no different from other Superior Courts in having an inherent power to prevent abuse of its own process. The Tax Court of Canada rules are full of examples, the clearest perhaps represented in Rule 53, which allows the Court to strike out all of a pleading on the grounds that it is an abuse of process of the Court.
+[11] This, however, is not the abuse of process at issue in this case, as the abuse of process, if any, was not an abuse of the Court's own procedure, but of the assessment procedure and the assessment itself.
+(iii) Abuse of process in the administrative or public law context of a breach of principles of natural justice.
+[12] This appears to be the abuse Mr. Bourgard was referring to when he first suggested the Court could vacate an assessment if there is something about the Minister's assessing actions that shocks the conscience of the community. …
+[33] While the Appellant has not clearly established which of the abuse of process claims it is arguing, it is clear that the first and third abuse of process claims are beyond the jurisdiction of this Court. The Notice of Appeal/Amended Notice of Appeal do not contain any grounds to support a claim that these two provisions of the Act are an abuse of the Tax Court process. As no reasonable cause of action is disclosed, this subparagraph should be struck.
+Subparagraphs 19(a) and (b) – Relief:
+[34] As subparagraph 19(a) on its face is not offensive within the meaning of Rule 53 of the Rules, it should remain, subject to my within Reasons. Subparagraph 19(b) will be struck, since no valid Charter claim is established in the Notice of Appeal/Amended Notice of Appeal.
+Subparagraph 21(c) – Relief:
+[35] The Appellant requests that this Court order that the monies, paid pursuant to the garnishment proceedings, be returned to the Appellant with interest. This relief is beyond the jurisdiction of this Court. The Appellant paid this money voluntarily, although under protest, and if a claim for such relief is possible, it may only be through an application to the Federal Court. This subparagraph should therefore be struck.
+Extension of Time for Filing a Reply to the Notice of Appeal/Amended Notice of Appeal:
+[36] The Respondent requested 60 days after the “final disposition of this Motion” to file its Reply. There was some discussion at the end of the hearing as to the appropriateness of this request. After hearing from both counsel, I advised that I would provide the Respondent with 60 days to file after the disposition of the within Motion but not the “final” disposition, should there be an appeal of the within Reasons. The Appellant submits that this Court does not have jurisdiction to grant such an extension and, if a party seeks to appeal, then that party must apply to stay the proceedings.
+[37] Pursuant to Rule 12(1) of the Rules, this Court has discretion to extend or abridge any time prescribed by these Rules on such terms as are just.
+[38] The time for delivery of a Reply falls under Rule 44(1)(b) which states:
+44. (1) A reply shall be filed in the Registry within 60 days after service of the notice of appeal unless
+…
+(b) the Court allows, on application made before or after the expiration of the 60-day period, the filing of that reply after the 60-day period within a specified time.
+On further review of the Respondent’s request and the Rules, I believe it is both practical and logical that I permit the Respondent 60 days after the final disposition of this Motion to file the Reply. This avoids the unnecessary delays and costs that would be associated with requiring the Respondent to bring another application in this respect should there be an appeal of the within Reasons.
+Summary:
+[39] For the reasons set out above, the following paragraphs of the Notice of Appeal/Amended Notice of Appeal shall be struck:
+Paragraphs 4, 8, 9, 18(e), 18(f), 18(h), 18(i), 19(b) and 21(c)
+[40] Several sentences contained in paragraph 6 shall be struck, leaving the paragraph to read as follows:
+In early 2006 the Respondent’s official indicated to Mr. Bova that the Appellant’s GST was not in compliance and planned to conduct an audit into the Appellant’s books and records. In February, 2006, the Respondent’s officials commenced their audit. The audit conducted was for the periods July, 2002 to July 31, 2005.
+Costs:
+[41] The Respondent did not request costs and, although success was divided, I leave this to the ultimate discretion of the presiding Judge.
+Signed at Ottawa, Canada, this 15th day of June 2010.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2010 TCC 324
+COURT FILE NO.’S:
+2009-3722(GST)G
+STYLE OF CAUSE:
+Pine Valley Enterprises Inc. and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 28, 2010
+REASONS FOR ORDER BY:
+The Honourable Justice Diane Campbell
+DATE OF ORDER:
+June 15, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Rocco Galati
+Counsel for the Respondent:
+Peter A. Vita, Q.C.
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

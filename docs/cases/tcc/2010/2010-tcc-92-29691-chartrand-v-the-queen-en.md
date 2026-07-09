@@ -1,0 +1,268 @@
+---
+title: "Chartrand v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29691/index.do"
+last_modified: "2010-03-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 92"
+citation2: ""
+neutral_citation: "2010 TCC 92"
+decision_date: "2010-03-19"
+language: "en"
+item_id: "29691"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6196
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:31:49.027000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f0c9726c63e02dab7b5308e5def2eecd219ced001fca08b870fa27f29a46617d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chartrand v. The Queen
+
+- Citation: 2010 TCC 92
+- Decision date: 2010-03-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6196, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chartrand v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-19
+Neutral citation
+2010 TCC 92
+File numbers
+2008-262(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-262(IT)G
+BETWEEN:
+MARCEL CHARTRAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with appeal 2008-263(GST)G on January 18, 19 and 20, 2010, at Montréal, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gatien Fournier and Julian Malone
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999, 2000, 2001, 2002 and 2003 taxation years are allowed in part, and the reassessments are referred back to the Minister for reconsideration and reassessment in accordance with the attached Reasons for Judgment. The Respondent is entitled to her costs.
+Signed at Ottawa, Canada, this 19th day of March 2010.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of June 2010.
+François Brunet, Revisor
+Docket: 2008-263(GST)G
+BETWEEN:
+MARCEL CHARTRAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with appeal 2008-262(IT)G
+on January 18, 19 and 20, 2010, at Montréal, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gatien Fournier and Julian Malone
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made for the period from January 31, 1997, to December 31, 2002, under the Excise Tax Act, notice of which is dated March 31, 2005 and bears the number 04BP0200112, is allowed in part, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. The Respondent is entitled to her costs.
+Signed at Ottawa, Canada, this 19th day of March 2010.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of June 2010.
+François Brunet, Revisor
+Citation: 2010 TCC 92
+Date: 20100319
+Dockets: 2008-262(IT)G,
+2008-263(GST)G
+BETWEEN:
+MARCEL CHARTRAND,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] These are two appeals by Marcel Chartrand from reassessments made under the Income Tax Act (the Act) and the Excise Tax Act (the ETA). The appeals were heard on common evidence.
+[2] The reassessments made under the Act pertain to the taxation years 1999 through 2003. The reassessments made under the ETA pertain to the period from from January 31, 1997, to December 31, 2002.
+[3] The Appellant is a residential contractor and has been active in real estate since 1992. Before that, he was a businessman (always self-employed) in various fields, such as real estate brokerage.
+[4] The Appellant built his first buildings in 1994 and continued building in each subsequent year. As a result, he owned 10 to 20 buildings in 1997. Each of the buildings had four rental units and the Appellant built them to generate income and then bequeath them to his children.
+[5] The Appellant began to have liquidity problems in 1999. The problems worsened in 2000. That year, the Appellant purchased a parcel of land for $250,000 so that it could be subdivided into 19 lots on which more apartment buildings could be built. According to the Appellant, the cost of setting up the infrastructure was roughly $400,000. The Appellant's financial troubles began when he found himself unable to obtain sufficient financing at a reasonable rate for a higher percentage — higher than what the banks were offering him — of the value of the property given as security. Consequently, even though their rates adversely affected the profitability of his projects, he had to obtain loans from private lenders to finance the purchases of land, the infrastructure setup costs and the construction of the 19 apartment buildings located on each of the lots along Nelson and Paul Streets.
+[6] During the same period, that is to say, 1999-2000, the Appellant was pursuing another development project called "La Source", which involved 40 to 50 lots that the Appellant had an option to purchase. His plan was to set up the infrastructure, including the roads; commence construction; and get financing to buy the land and cover the construction costs. All the projects were financed by private lenders as well.
+[7] This case concerns 40 real estate sales involving similar four-unit apartment buildings based on the same plans. The size of the units varies, but the Appellant agrees that there is only a roughly $10,000 difference, in value and cost, between the two models.
+[8] It should also be noted that, for the purposes of the assessment made under the ETA, the buildings that were built starting on January 31, 1997, and were rented out during each respective period until December 31, 2002, were the subject of a self‑assessment under section 191 of the ETA, and their fair market value (FMV) is in dispute.
+[9] It is unnecessary, in my view, to reproduce the full list of the buildings in question. There are 47 in all. This case raises the question of when one should self‑assess, and the question of the fair market value of certain buildings, sold to related persons, for the purposes of computing GST.
+[10] It should be noted that the Appellant was allowed the input tax credits during the audit, and they are not at issue in this case.
+[11] During the taxation years in question, the Appellant sold 40 of his buildings: four buildings in 1999, six buildings in 2000, five buildings in 2001, and 25 buildings in 2002. As the Appellant acknowledges in his Amended Notice of Appeal, some of these sales, including a few sales to one Denis Riel and other sales to related persons, generated business income. The sales in which the buildings were sold immediately after construction also generated business income. The Respondent has accepted and admitted these statements, just as she did at the time of the audit.
+[12] The Notice of Appeal states that 22 of these 40 transactions gave rise to a capital gain, not business income. The Respondent now concedes that three of the buildings built in 2001, and five of the buildings built in 2002, did indeed give rise to capital gains, as described in Table I‑12, and, as a result, the only issue is whether the sales of the 14 remaining buildings generated business income or capital gains.
+[13] Five of the sales from those years were to related persons, and the parties have asked the Court to determine the FMV of the buildings in question. Lastly, it must be determined whether the reassessments for the Appellant's 1999 and 2000 taxation years could be issued beyond the normal reassessment periods.
+[14] The Appellant's Amended Notice of Appeal raises other points that the parties managed to resolve prior to the hearing. In his income tax return, the Appellant deducted interest expenses, legal fees and other costs totalling $493,521.29, which, according to Exhibit I‑11, the Respondent did not allow. On the basis of the supporting documents that the Respondent received from the Appellant in the weeks prior to the hearing, the Respondent is now prepared to allow the full $493,521 in expense deductions, as shown in Exhibit I‑12. The Respondent also granted the Appellant a reduction of the selling price of certain buildings, including six in 2001 and a few in 2001 and 2002 that were sold by the Appellant at a discount. These concessions are set out in Exhibits I‑11 and I‑12, and, like the other concessions, will result in a reassessment. The Respondent also concedes that the Appellant sold the buildings to Denis Riel at arm's length, and thus, that the sales to Denis Riel are not to be adjusted.
+[15] In the matter involving the ETA, the Respondent conceded that the Appellant and Denis Riel were dealing with each other at arm's length. Consequently, there is no adjustment to be made to the amount of tax on the selling price. The Respondent also allowed input tax credits (ITCs) that the Appellant claimed upon his objection, in addition to the ITCs that the Minister had already allowed (see also Exhibit I‑17).
+[16] Exhibits I‑13 and I‑14, which were subsequently amended to take certain concessions into account, concern buildings that were not rented out before they were sold. The buildings were sold to people who were not dealing with the Appellant at arm's length, and their FMV was in dispute. According to the Minister, the FVM of these buildings is set out in Exhibit I‑14(2) and takes into account the reduction granted to the Appellant as a result of those concessions.
+[17] The Minister also made concessions regarding the FMV of the buildings that were rented and were the subject of a self-assessment under section 191 of the ETA. The list of the buildings in question and the calculations of tax are contained in Exhibits I-15(2) and I-16(2). The Respondent acknowledged that the Appellant self‑assessed prior to the deadlines, and, in view of the short rental period, she granted the Appellant a reduction of the selling price. All of these concessions are set out in Exhibits I‑15(2) and I-16(2).
+Limitation period
+[18] The burden is on the Respondent to show, on a balance of probabilities, that the Appellant has, within the meaning of subsection 152(4)(a)(i), made a misrepresentation attributable to neglect, carelessness or wilful default in filing his income tax returns for the 1999 and 2000 taxation years, thereby authorizing the Minister to make reassessments.
+[19] According to the person who audited the Appellant's file, the Appellant reported $39,000 in gross income and $19,000 in net income. The Appellant said that he did not report any business income. The audit did not uncover the source of the gross income that was reported, but the auditor did find that, during the 1999 taxation year, the Appellant sold four buildings, generating more than $800,000 in income, from which the auditor deducted expenses. Even though the selling prices were later adjusted downward, the fact remains that the income generated by the sale of the four buildings in question was not reported. The Appellant says that he relied on his accountant, but the accountant was not called to the witness box to explain anything. Consequently, it seems the Appellant made a misrepresentation attributable to neglect or carelessness, and thus, the Minister was entitled to make a reassessment beyond the normal reassessment period for the 1999 taxation year.
+[20] The result for the Appellant's 2000 taxation year must be the same. In his income tax return for that year, the Appellant reported $150,000 in gross and net business income. The Statement of Business Activities attached to the return provides no details regarding the source of the income, or the expenses. However, the audit revealed that the Appellant sold six buildings in 2000, and that these sales from the year 2000 generated nearly $1,500,000 in gross income, which, less expenses, yielded him a net profit in excess of $300,000 ($316,121, to be precise), as shown by Exhibit I‑12.
+[21] The Appellant, who has always been self-employed, personally signed the purchase offers on the properties sold in 2000 (Exhibit I-20). He knew that the sales closed in 2000. In my opinion, this is clearly a misrepresentation attributable to the Appellant's neglect, carelessness or wilful default. The Appellant did not exercise reasonable care with a view to ensuring, at the time of filing his 1999 and 2000 income tax returns, that the information in those returns was accurate. The Appellant is a seasoned businessman who has always been self-employed. Accordingly, the Minister was entitled to reassess the Appellant beyond the normal reassessment period for the 2000 taxation year.
+Capital gains versus business income
+[22] The Appellant sold 40 buildings from 1999 to 2002. This case pertains to the sales of 22 of those buildings, and the issue that it raises is whether their disposition resulted in capital gains or business income in the Appellant's hands. The Appellant argues that the sale of the 22 buildings generated capital gains. The Minister now concedes that eight of those sales generated capital gains. This means that 14 sales remain in issue. Here is the list of the 22 sales in question:
+(a) 370–372 Tupper Street, Hawkesbury, sold in 2001;
+(b) 360–362 Tupper Street, Hawkesbury, sold in 2001;
+(c) 296 Tupper Street, Hawkesbury, sold in 2001;
+(d) 761–765 Nelson Street, Hawkesbury, sold in 2002;
+(e) 771–775 Nelson Street, Hawkesbury, sold in 2002;
+(f) 781–785 Nelson Street, Hawkesbury, sold in 2002;
+(g) 601–603 Paul Street, Hawkesbury, sold in 2002;
+(h) 606–608 Paul Street, Hawkesbury, sold in 2002;
+(i) 612–614 Paul Street, Hawkesbury, sold in 2002;
+(j) 607–609 Paul Street, Hawkesbury, sold in 2002;
+(k) 613–615 Paul Street , Hawkesbury, sold in 2002;
+(l) 511–513 Mario Street, Hawkesbury, sold in 2002;
+(m) 521–523 Mario Street, Hawkesbury, sold in 2002;
+(n) 540–542 Mario Street, Hawkesbury, sold in 2002;
+(o) 541­543 Mario Street, Hawkesbury, sold in 2002;
+(p) 550–552 Mario Street, Hawkesbury, sold in 2002;
+(q) 550–552 Mario Street , Hawkesbury, sold in 2002;
+(r) 239–242 Prospect Street , Hawkesbury, sold in 2002;
+(s) 200–202 Prospect Street , Hawkesbury, sold in 2002;
+(t) 250–252 Prospect Street , Hawkesbury, sold in 2002;
+(u) 64–66 / 68­70 Kincardine Street , Hawkesbury, sold in 2002; and
+(v) 72–74 / 76–78 Kincardine Street, Hawkesbury, sold in 2002.
+[23] In the Appellant's submission, the buildings sold immediately after they were built gave rise to business income, and the buildings that were rented to third parties before being sold generated capital gains. The eight transactions which the Respondent now admits resulted in capital gains involved buildings (a), (b), (c), (r), (s), (t), (u) and (v). Thus, the disputed sales are those, in 2002, of the buildings on Nelson, Paul and Mario Streets in Hawkesbury.
+[24] In his testimony, the Appellant claimed that the Nelson and Paul Street buildings were built and rented out in 1999, and that the Mario Street buildings were built in late 2000. They were all rented at the time of their sale in 2002, and, according to the Appellant, are part of the group of buildings that he built with the intention of holding on to them in order to earn rental income and ultimately bequeath them to his children.
+[25] The Appellant's financial problems surfaced in 1999. Owing to the scope of his projects and his trouble financing them, the Appellant was forced to change his objectives and dispose of certain buildings. Interest rates fluctuated between 10 and 15% and all his projects were privately financed. The infrastructure work on the 19 lots, before the buildings were even erected, cost him between $700,000 and $800,000.
+[26] In 2000, the Appellant sold the buildings on Paul Street, with the help of one Robert Primeau, who found him a purchaser. The Appellant himself admits that he was unable to make money from the project on the sole basis of the rental income, and that he needed to sell the buildings to turn a profit. He says that he lived in hope of selling. The sales also enabled him to finance his "La Source" project, which included 40 to 50 lots. He also sold buildings from the "La Source" project, including the buildings on Mario Street, to finance other projects to purchase land, notably in Rockland and Ottawa.
+[27] Robert Primeau continued to help the Appellant find purchasers. Every month, the Appellant examined his financial situation and decided whether or not he had to sell buildings. The buildings to be sold were chosen on the basis of the street: he sold buildings on the same street to avoid competing with new purchasers. The amount of cash that would be generated, and whether the buildings were rented, were also factors in choosing which buildings would be sold. The Appellant acknowledged that in order to continue carrying out his development projects, he had to sell buildings to ensure he had enough liquidity.
+[28] In the Federal Court of Appeal's recent decision in Canada Safeway Ltd. v. Canada, 2008 FCA 24, Justice Nadon summarized the principles which, according to the case law, are referred to in determining whether a transaction has given rise to capital gains or business income. The passage in question, at paragraph 61, reads as follows:
+A number of principles emerge from these decisions which I believe can be summarized as follows. First, the boundary between income and capital gains cannot easily be drawn and, as a consequence, consideration of various factors, including the taxpayer's intent at the time of acquiring the property at issue, becomes necessary for a proper determination. Second, for the transaction to constitute an adventure in the nature of trade, the possibility of resale, as an operating motivation for the purchase, must have been in the mind of the taxpayer. In order to make that determination, inferences will have to be drawn from all of the circumstances. In other words, the taxpayer's whole course of conduct has to be assessed. Third, with respect to "secondary intention", it also must also have existed at the time of acquisition of the property and it must have been an operating motivation in the acquisition of the property. Fourth, the fact that the taxpayer contemplated the possibility of resale of his or her property is not, in itself, sufficient to conclude in the existence of an adventure in the nature of trade. In Principles of Canadian Income Tax Law, supra, the learned authors, in discussing the applicable test in relation to the existence of a "secondary intention", opine that "the secondary intention doctrine will not be satisfied unless the prospect of resale at a profit was an important consideration in the decision to acquire the property" (see page 337). I agree entirely with that proposition. Fifth, the viva voce evidence of the taxpayer with respect to his or her intention is not conclusive and has to be tested in the light of all the surrounding circumstances.
+[29] The Appellant is a businessperson who has been building rental properties in the Hawkesbury area since 1994. This dispute is about the tax treatment of the taxpayer's 22 sales. The Respondent conceded that, in 1995, 1996 and 1997, the Appellant had eight buildings built on lots set up solely for leasing purposes. She also admitted that their disposal gave rise to capital gains, not business income, thereby limiting this dispute to 14 transactions.
+[30] Although there is no need to go over the entire history of the Appellant's business relationships, it should be pointed out that, starting in 1999, his construction projects received a new boost when he purchased a parcel of land for $250,000 and spent nearly $20,000 per lot developing each of the 19 lots that he intended to make viable. During the same period, he exercised purchase options on roughly 40 lots for the "La Source" project, a project that also required him to develop the land, borrow money, construct buildings, and, in most cases, sell them.
+[31] In my opinion, the scope of the Appellant's projects, combined with the financial problems that had begun by 1999, forced the Appellant to change his modus operandi, which was to construct buildings solely for the purpose of renting them out. The Appellant himself admits that the excessive cost of private financing meant that he was unable to carry out these two projects without selling some buildings. In my opinion, the Appellant knew from the outset that he would be unable to hold on to all his buildings under the circumstances, and that he would have to sell some of them in order to be able to carry out his projects. In fact, not only did he rely on Robert Primeau to help him sell his buildings, he also personally selected the buildings to sell on a monthly basis, based on their location, to avoid competing with his own purchasers. The profits from the sale of the buildings in question enabled him to continue operating his business, and, eventually, to make more profits or income. Thus, the Appellant has not satisfied me, on a balance of probabilities, that the sales in question generated capital gains.
+The FMV of the buildings sold to related persons
+[32] There were five sales to related persons. Two of the sales date back to 1999, and there was one sale in each of the years 2000, 2001 and 2002. The fact that the parties to these transactions were related persons is not in dispute. Under subsection 69(1) of the Act, a taxpayer who disposes of property to a person with whom he is not dealing at arm's length is deemed to have received proceeds of disposition therefor equal to its FMV.
+[33] At paragraphs 48 through 59 of his Amended Notice of Appeal, the Appellant alleges that the five buildings in question were sold to related persons for the following amounts:
+Year
+Address
+Selling price
+1998
+1999
+2000
+741–745 Nelson Street
+751–755 Nelson Street
+714–716 Paul Street
+530–532 Mario Street
+911–913 Jacynthe Street
+$174,000
+$174,000
+$174,000
+$190,400
+$190,400
+[34] These allegations are admitted by the Respondent at paragraph 1 of her Reply to the Amended Notice of Appeal. However, at paragraph 16 of that Reply, the Respondent alleges that each of the two buildings on Nelson Street has a fair market value of $175,000; that the building at 714–716 Paul Street has a fair market value of $269,000; that the building at 530–532 Mario Street is worth $272,000; and that the building at 911–913 Jacynthe Street is worth $272,000. It should be noted that a 90% share of the last building was sold to the Appellant's son. The fair market value of that share would therefore be $244,800. The amount set out in the Reply to the Notice of Appeal is $228,780. There must therefore be a calculation error.
+[35] At the beginning of the hearing, the Respondent agreed to reduce the FMV of the two Nelson Street buildings sold in 1999 to $174,000, which is the same amount as the alleged selling price of the buildings, set out in the Amended Notice of Appeal. With regard to the building at 714–716 Paul Street, the Minister agreed to reduce its FMV to $259,000, the alleged price at which it was sold to third parties. With regard to the building at 530–532 Mario Street, the Minister agreed to reduce its FMV to $250,000, the alleged price at which it was sold to third parties. With regard to the building at 911–913 Mario Street, the Minister agreed to reduce its FMV to $225,000.
+[36] The Appellant adduced no expert evidence to rebut the FMV determined by the Minister in his Response to the Amended Notice of Appeal. In his testimony, the Appellant said that the five transactions with related persons involved sales of land alone, and that the building was built subsequently. The selling price of the lots at 741–745 and 751–755 Nelson Street, and at 714–716 Paul Street, was $6,000 each, and the selling price at the lot at 530–532 Mario Street, sold to his wife, and the lot at 911–913 Jacynthe Street, sold to his son, was $1.00. I noticed that the Appellant's testimony contradicted not only the allegations contained in his Amended Notice of Appeal (which were clearly prepared by legal advisors that he had retained at the time) but also the representations made by the Appellant's same legal advisors in the correspondence sent to the Canada Revenue Agency on October 14, 2005, and May 19, 2006.
+[37] The Appellant adduced records from the Ontario land registry office (Exhibits A‑13 through A‑17) supporting his assertion that the consideration for the transfers of property to related persons was $6,000 or $1.00, as alleged.
+[38] The Appellant also adduced documentation regarding each transaction with a related person. The documentation discloses the following information.
+Transaction involving 741–745 Nelson Street (Exhibit A-7, book 7, tab 64)
+The deed transferring the property to the purchaser was registered on April 30, 1999, along with a mortgage of $174,000. However, the closing took place four days beforehand, on April 26, 1999. The expenses page indicates the sale of land and the construction of a building. The building permit was issued to the purchaser, care of the Appellant. The Trust Ledger Statement from the Appellant's solicitor shows that, at the time the transaction closed, the Appellant received $54,810 from the purchaser. The certificate of occupancy was issued in August 1999.
+Transaction involving 751–755 Nelson Street (Exhibit A-7, book 7, tab 65)
+The transaction took place on June 10, 1999. The Appellant had granted a mortgage loan of $30,000 to a third party, and this mortgage charged the land in February 1999. The expenses page records the sale of land and the construction of a building. The building permit was issued to the purchaser, care of the Appellant. The Trust Ledger Statement from the Appellant's solicitor, dated June 8, indicates that the Appellant received $84,564 from the purchaser, and, in a letter dated June 18, 1999, the solicitor informs the Appellant that he obtained a discharge of the third-party mortgage in February 1999. The certificate of occupancy was issued in August 1999.
+Transaction involving 714–716 Paul Street (Exhibit A-2, book 7, tab 64)
+This transaction took place on May 11, 2000. The expenses page indicates that the land was sold to Guy Chartrand and that a semi-detached house was built. The certificate of occupancy was issued on October 29, 1999. The solicitor's statement of adjustments indicates a selling price of $6,000 and a progress advance of up to $174,000.
+Transaction involving 530–532 Mario Street (Exhibit A-3, book 3, tab 41)
+The transfer to the purchaser, the Appellant's wife, was registered on May 22, 2001, along with the $190,000 mortgage loan, but the transaction took place on May 18, 2001. The expenses page makes no reference to a sale of land or to the person to whom the building permit was issued. However, the solicitor's Trust Ledger Statement indicates that the purchaser gave the Appellant $190,400, the full amount of the mortgage loan, upon closing. There is no reference to the issuance of a certificate of occupancy.
+The transaction involving 911–913 Jacynthe Street (Exhibit A-5, book 5, tab 52)
+This transaction took place on November 5, 2002. On the same date, a $190,400 mortgage loan was registered. The Appellant transferred 90% of his interest to his son. The expenses page does not record the sale of the land or the name of the building permit holder, but it does state that the permit was issued on September 28, 2001, more than one year prior to the closing of the transaction. The Trust Ledger Statement refers to a payment of $171,360 to the vendor, that is to say, the Appellant, at the time of the transaction.
+[39] In the light of the information obtained from this documentation, I find it highly probable that three of the five transactions in issue involved the sale of land, namely, the first three transactions, which pertain to the two lots on Nelson Street and the lot on Mario Street. It is likely that the last two transactions took place, and that the payments to the Appellant were made, several months after the building permits were issued.
+[40] This documentation contradicts the allegations by the Appellant, admitted by the Respondent in arguments, with the exception of the last two transactions. Thus, I am unable to conclude that there was a sale of buildings in the three cases in question, despite the arguments of the parties and the documentation adduced in evidence.
+[41] We must now determine the FMV of the property involved in the five transactions in question. The Appellant submits that the assessments prepared by the Province of Ontario's Municipal Property Assessment Corporation (MPAC) provide a reliable indication of FMV. The Appellant referred the Court to the amount set out on the expense page pertaining to the transactions in question. For the transaction involving 530–532 Mario Street, the amount of the MPAC assessment for property tax purposes is $160,000. For 911–913 Jacynthe Street, it is $197,000. According to the documents, 530–532 Mario Street was sold for $190,400, which is $30,400 more than the MPAC assessed value, and 911–913 Jacynthe Street was sold for $171,360, which is $25,640 less than the MPAC assessment. The Appellant had told the Respondent that the land was sold for $190,400, which is $6,600 less than the MPAC assessment. In my view, the MPAC assessments for property tax purposes are not reliable indicators of FMV in view of the definition of that phrase in Henderson Estate v. M.N.R., [1973] F.C.J. No. 800 (QL).
+[42] The evidence reveals that the buildings constructed by the Appellant are all similar and the construction costs varied only by roughly $10,000, depending on the configuration of the rooms in the apartments. Most of the sales made to third parties, according to the concessions made by the Minister and the selling prices alleged by the Appellant, were for roughly $250,000 per building. If the Appellant sold the buildings in question to third parties for $259,000 and the Minister admits an FMV of $250,000, it seems to me reasonable to conclude that the FMV of the two buildings was $250,000. Ten percent of this value will need to be deducted for the building at 911–913 Jacynthe Street.
+[43] The FMV of the three lots that were sold is problematic. In the documentation adduced by the Appellant, the price of the Nelson Street lots, namely 771–775, 781–785 and 721–725, was $36,000.44. There is also a sale to Denis Riel of 731–745 Nelson Street, where the cost of the land was roughly a $6,000 expense. These four transactions were with third parties. The evidence does not reveal whether the lots that were sold were made viable. After allocation, the purchase cost of each of these lots was determined by the Respondent, at subparagraph 10(j) of the Reply to the Amended Notice of Appeal, to be $15,350. I therefore find that the fair market value of the two Nelson Street lots is $15,350 each.
+[44] With respect to the price of the land at 714–716 Paul Street, we know from the expenses page that the lots at 702–704, 703–705, 708–710, 709–711 and 715–717 Paul Street were sold for $13,160 each. I find that the FMV of the land at 714–716 Paul Street is $13,160.
+GST File 2008-263(GST)G
+[45] As I have said, the Respondent allowed the Appellant all the ITCs that he claimed (see Exhibit I-17). In addition, the Respondent conceded that the Appellant's sales of buildings to Denis Riel were at arm's length, so no adjustment need be made to the GST calculations. The Respondent also concedes that the Appellant gave credits or rebates to his purchasers, thereby reducing the selling price (see Exhibit I‑16(2), a table). What needs to be determined, then, is the FMV for the purposes of the assessment under section 191 of the ETA. The first thing that must be ascertained in order to do this is whether the value determined by MPAC is a valid valuation method. The second is whether the sales to five people related to the Appellant must undergo an adjustment for GST purposes. The last is the time to be used for computing the GST on the buildings briefly rented out before being sold.
+[46] The properties concerned under section 191 are listed in the tables forming Exhibits I-15(2) and I-15(2). Not only do both tables draw a distinction between the amounts in issue before and after the Appellant's concessions, but the buildings are identified on the basis of each period in issue. The tables contain the construction completion date, the FMV for purposes of self-assessment, the GST payable, and the construction costs on the basis of the representations made by the Appellant through his then legal advisors, and the correspondence of October 14, 2005 and May 19, 2006. The tables also set out the Respondent's corresponding FMV determinations for self-assessment purposes, the GST payable, and the difference between the two.
+[47] I did not think it necessary to reproduce the tables. I noticed that in some cases, the FMV determined by the Respondent is to the Appellant's advantage.
+[48] Subsection 191(3) provides that a builder who builds a multiple unit residential complex for rental purposes must pay GST on the FMV of the building at the time that the construction is substantially completed, or the day on which the use of the unit is transferred to the tenants, whichever comes later. The subsection reads as follows:
+Self-supply of multiple unit residential complex
+(3) For the purposes of this Part, where
+(a) the construction or substantial renovation of a multiple unit residential complex is substantially completed,
+. . .
+(c) the builder, the particular person, or an individual who has entered into a lease, licence or similar arrangement in respect of a residential unit in the complex with the particular person, is the first individual to occupy a residential unit in the complex as a place of residence after substantial completion of the construction or renovation,
+the builder shall be deemed
+(d) to have made and received, at the later of the time the construction or substantial renovation is substantially completed and the time possession or use of the unit is so given to the particular person or the unit is so occupied by the builder, a taxable supply by way of sale of the complex, and
+(e) to have paid as a recipient and to have collected as a supplier, at the later of those times, tax in respect of the supply calculated on the fair market value of the complex at the later of those times.
+[49] At the hearing, the Appellant offered no evidence that would alter the representations of his legal advisers with respect to the dates on which construction was completed or on which units were rented out, or on the construction costs based on which he calculated GST payable for the purposes of self-assessment. It is also important to note that, during the periods in question, the Appellant did not self‑assess in connection with any of his buildings, and did not pay any GST, on the basis that everything was cancelled out by the ITCs that the Appellant claimed on account of expenses in his financial statements.
+[50] The Appellant now asks that the Court use the MPAC property assessment for the purpose of establishing FMV, and that he be allowed to reduce the FMVs of certain buildings that were based on certain selling prices received several months after the buildings were rented. However, the evidence adduced by the Appellant is insufficient. The Court cannot take the Appellant's argument into consideration, because it contains no reference to any specific exhibit among all those he adduced.
+[51] I have concluded that the MPAC property assessments do not come within the case law's definition of FMV. In the case at bar, it might be appropriate to do an analysis to determine FMV, but such an exercise would disadvantage the Appellant because the FMV used by the Respondent for nearly half the buildings is roughly $35,000 less than the construction cost reported by the Appellant.
+[52] The FMVs used by the Respondent were not rebutted by the Appellant and are based on the prices of similar buildings sold by the Appellant to third parties or, in some cases, lower prices. In my opinion, these selling prices are consistent with the accepted definition of FMV, and there is nothing in the case at bar that would justify my reliance on any construction costs or even replacement costs where comparable sales of similar property, by the Appellant himself, are available as a reference.
+[53] The definition accepted by the case law is that propounded by Cattanach J. in Henderson Estate v. M.N.R., [1973] F.C.J. No. 800 (QL), at paragraph 20:
+The statute does not define the expression "fair market value", but the expression has been defined in many different ways depending generally on the subject matter which the person seeking to define it had in mind. I do not think it necessary to attempt an exact definition of the expression as used in the statute other than to say that the words must be construed in accordance with the common understanding of them. That common understanding I take to mean the highest price an asset might reasonably be expected to bring if sold by the owner in the normal method applicable to the asset in question in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm's length and under no compulsion to buy or sell. I would add that the foregoing understanding as I have expressed it in a general way includes what I conceive to be the essential element which is an open and unrestricted market in which the price is hammered out between willing and informed buyers and sellers on the anvil of supply and demand. These definitions are equally applicable to "fair market value" and "market value" and it is doubtful if the use of the word "fair" adds anything to the words "market value".
+[54] The Minister's FMV determinations, set out in Exhibit I-16(2), are therefore accepted for the purposes of this case.
+[55] As for the buildings sold to related persons, I have already concluded that three of the sales involved only land, which means that the GST payment must be adjusted accordingly, and the GST remittance calculations must be redone based on the selling prices or the FMV of the buildings in accordance with Exhibit I‑14(2), less the FMV of the land which I have determined at paragraphs 43 and 44 of these Reasons for Judgment. With regard to the other two properties, and for the reasons already given, the FMV in Exhibit I-14(2) will have to be used to calculate the GST payable on the two sales: $250,000 for 530–532 Mario Street, and $225,000 for 911–913 Jacynthe Street. With regard to the transactions between related persons, the consideration of the property is deemed to be equal to its FMV (see subsection 155(1) of the ETA).
+[56] The interest and penalties will need to be adjusted to take the Minister's concessions and these reasons into account. The appeals are allowed in part, and the assessments are referred back to the Minister for reconsideration and reassessment. The Respondent is entitled to her costs.
+Signed at Ottawa, Canada, this 19th day of March 2010.
+"François Angers"
+Angers J.
+Translation certified true
+on this 1st day of June 2010.
+François Brunet, Revisor
+CITATION: 2010 TCC 92
+COURT FILE NOS.: 2008-262(IT)G and 2008-263(GST)G
+STYLES OF CAUSE: Marcel Chartrand v. Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATES OF HEARING: January 18, 19 and 20, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: March 19, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gatien Fournier and Julian Malone
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

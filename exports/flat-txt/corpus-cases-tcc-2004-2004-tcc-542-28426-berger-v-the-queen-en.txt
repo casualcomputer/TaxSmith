@@ -1,0 +1,152 @@
+Title: Berger v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28426/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-542-28426-berger-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-08-04
+
+# Berger v. The Queen
+
+- Citation: 2004 TCC 542
+- Decision date: 2004-08-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1224, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Berger v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-08-04
+Neutral citation
+2004 TCC 542
+File numbers
+2003-3095(GST)G
+Judges and Taxing Officers
+Alban Garon
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-3095(GST)G
+BETWEEN:
+JEAN-CLAUDE BERGER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 7 and 8, 2004, at Quebec City, Quebec.
+Before: The Honourable Alban Garon, Chief Judge
+Appearances:
+Counsel for the Appellant:
+Paul Larochelle
+Counsel for the Respondent:
+Philippe Morin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, the notice of which is dated May 27, 2002, and numbered PQ-2002-6489, is dismissed, with costs.
+Signed at Ottawa, Canada, this 4th day of August 2004.
+“Alban Garon”
+Garon C.J.T.C.C.
+Translation certified true
+on this 28th day of February 2005.
+Colette Dupuis-Beaulne, Translator
+Citation: 2004TCC542
+Date: August 04, 2004
+Docket: 2003-3095(GST)G
+BETWEEN:
+JEAN-CLAUDE BERGER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Garon C.J.T.C.C.
+[1] This is an appeal from an assessment dated May 27, 2002, for the sum of $21,542.84, issued under the Excise Tax Act, for the period beginning February 1998 and ended May 2000. According to the Respondent, the Appellant did not fulfil his obligations as director of 9046-4264 Québec Inc. (“Company 9046”) with the reasonable degree of care, diligence, and knowledge required to prevent Company 9046 from failing to remit the required amounts of Goods and Services Tax to the tax authorities.
+[2] Company 9046 was incorporated on February 5, 1997, under Part 1A of the Companies Act of Quebec. Beginning in April 1997, it operated a vehicle maintenance and repair business and a service station. At the time, the corporation’s business was known as Garage Philippe Cloutier (“Garage Cloutier”).
+[3] The only two shareholders of Company 9046 were Ms. Lise Gosselin and Mr. Paul Couture; each shareholder held 50% of all of the shares in this company, which had three directors, namely, the two shareholders—Mr. Couture and Ms. Gosselin—and the Appellant, Ms. Gosselin’s spouse since 1990.
+[4] Company 9046 had close ties with 9005-2200 Québec Inc. (“ Company 9005”). Company 9005 has only two directors, namely, the Appellant, who is the Vice-President, and Ms. Gosselin, who is the President. Ms. Gosselin is the sole shareholder of Company 9005. This company’s place of business is located on the premises of l’Atelier de pneus Montmagny. Company 9005 held all of the shares in l’Atelier de pneus Montmagny Ltée.
+[5] It is important to begin by describing the role of Ms. Gosselin, Mr. Cloutier, and, particularly, the Appellant within Company 9046.
+[6] Ms. Gosselin described herself as a businesswoman. She owned a clothing and shoe store from 1970 to 1990. In 1994, she acquired all of the shares of a company operating as l’Atelier de pneus Montmagny through Company 9005.
+[7] Mr. Couture was unemployed at the time Company 9046 acquired Garage Cloutier. In addition to being a director, he was the vice-president of Company 9046. He managed the day-to-day operations of Garage Cloutier. He performed manual labour and supervised the garage’s employees. According to clause (b) of the shareholders’ agreement dated April 11, 1997, reproduced below, Mr. Couture was the manager of this business. He dealt with the suppliers. Through him, Company 9046 purchased tires from l’Atelier de pneus Montmagny for the purpose of his business. These purchases were invoiced to Garage Cloutier.
+[8] Mr. Paul Couture described himself as a labourer; he had a secondary school level IV education. He normally supervised two employees, and on occasion, he supervised a third employee. He confirmed that the Appellant did not work at Garage Cloutier, but that he worked full-time at l’Atelier de pneus Montmagny. The accounting work for Company 9046 was performed on the premises of l’Atelier de pneus Montmagny. Mr. Couture would submit the documents relevant to the garage’s current operations to the Appellant when he would come to fill up his vehicle at Garage Cloutier. Mr. Couture testified that he handled all of the bank deposits for Company 9046 from April 1997 to December 1999, as supported by his signature as it appears on all of the deposit slips prepared during this period. Mr. Couture was required to sign all of the cheques issued by Company 9046. A second signature was also required; the Appellant or Ms. Gosselin also had to sign.
+[9] Mr. Couture dealt with the Appellant where major issues arose with respect to the operations of Garage Cloutier. According to him, the tax returns were signed by Ms. Gosselin or the Appellant, and at times by himself, where the Appellant or Ms. Gosselin were absent. Mr. Couture stated that the Appellant made the business decisions for the company. Mr. Couture ceased to be a director on December 23, 1999. He claimed that he reimbursed Company 9046 in 1997 for the personal expenses the company had paid while relations with Mr. Couture and Ms. Gosselin were good. During cross-examination, it was introduced in evidence that Mr. Couture had pleaded guilty to some criminal charges in 1997 and 1998. Mr. Couture also stated that he was informed by the Minister of Revenue of Quebec, in a letter dated April 18, 2002, that the department was contemplating assessing him as a director of Company 9046, given that the company failed to remit some taxes. Through his letter dated April 26, 2002, to Ms. Josée Perrault of Revenu Québec, Mr. Couture persuaded the tax authorities to not follow through on their intention to issue an assessment against him.
+[10] A shareholder agreement, dated April 11, 1997, governed the relations between Mr. Paul Couture and Ms. Lise Gosselin. Two clauses in this agreement are of particular interest. They read as follows:
+[TRANSLATION]
+1 – GENERAL PURPOSE
+[...]
+(b) The shareholders agree to provide their expertise and their resources to the company; Paul Couture agrees to act as business manager and employee until April 30, 2002. His remuneration shall be twenty-five thousand dollars ($25,000) per year, paid weekly, subject to increases approved by the shareholders, on the basis of increased business profits, and, for as long as he remains business manager, shall include the lease of a vehicle or the cost of leasing a vehicle (approximately $6,000 per year), a vehicle expense allowance of two thousand five hundred dollars ($2,500) per year, and an entertainment expense allowance to a maximum of two thousand five hundred dollars ($2,500) upon submission of supporting documents for these expenses.
+[...]
+The company’s accounting shall be carried out under the supervision of the legal entity known as 9005-2200 Québec Inc., whose place of business is located at 266 St-Ignace Street, Montmagny, Quebec, G5V 1S7, until the directors deem it appropriate that the accounting be carried out at the company’s principal place of business.
+[11] As previously stated, the Appellant did not work at Garage Cloutier. He was the manager of a garage that sold tires, l’Atelier de pneus Montmagny, as previously mentioned.
+[12] As for his role in the management of Company 9046, the Appellant maintains that he was appointed to the position of director and secretary of the company at the notary’s suggestion. He states categorically that he has not invested in Company 9046 and that he has no financial interest in this company. He has not, at any time, been paid for any services performed as director or in any other capacity. However, in 1999, the Appellant did lend Ms. Gosselin $20,000 to fund some of Company 9046’s undertakings.
+[13] In his testimony, the Appellant stated that he has a grade nine education and that he has been a tire salesman since 1964. He has never owned a business. He was friendly with Mr. Couture and, during the years at issue, he frequented Garage Cloutier to purchase gas, nothing more. He stated that he did not participate in business meetings dealing with Garage Cloutier’s operations, although he has, on occasion, accompanied his spouse, Ms. Gosselin, to some meetings. He also accompanied Mr. Couture to a meeting to discuss an automobile parts franchise with U.A.P. At Ms. Gosselin’s request, the Appellant also contacted the ministère du Revenu du Québec regarding the GST. Although he does not recall whether he signed cheques for Company 9046, he added subsequently that, if he did, it was only one or two cheques. The Appellant could not say specifically when he became aware that Company 9046 had not remitted taxes, but it was some time prior to the transactions of December 23 and 24, 1999, which are described below.
+[14] The Appellant acknowledged that he had signed a number of documents dealing with Company 9046's commercial operations, including those relating to the company’s incorporation and tax returns. According to the Appellant, he did so because his spouse, Ms. Lise Gosselin, asked him to help out in her absence. At other times, he did so at the request of l'Atelier de pneus Montmagny’s office secretary. The company’s tax return for the fiscal year ended January 31, 1999, lists the Appellant as director and the person responsible for Company 9046’s books. This tax return was prepared by Mallette Maheu. The Appellant also certified the content of the regulations on the loans and guarantees of a corporation for the Caisse Populaire, as well as the “Résolution et attestation concernant l’administration d’une personne morale” [resolution and declaration regarding the administration of a corporation]. This document states that the signature of the vice-president, in this case, Mr. Couture, is always required in these matters.
+[15] The Appellant did not incur any liability for the $50,000 line of credit granted to Company 9046. The co-signatories and guarantors were Mr. Paul Couture and Ms. Lise Gosselin. The Appellant did not incur any liabilities with suppliers.
+[16] In addition, taxes were not remitted for Company 9046’s sale of a pick-up truck to Ms. Julie Ouellette, Mr. Couture’s spouse. The Appellant’s initials appeared on the bill of sale at issue. According to the Appellant, Ms. Gosselin did not collect the taxes for this transaction and thus, she could not remit them.
+[17] The evidence also showed that some invoices paid by Company 9046 represented Mr. Couture’s personal expenses. I refer specifically to the purchase of a winch, men’s clothing, and certain renovations done in his home. The Appellant lives across the street from Mr. Couture and could have easily determined that renovations had been done in Mr. Couture’s home. Company 9046 took no action to recover the payment of these expenses. Ms. Gosselin stated that she only became aware of these personal expenses incurred by Mr. Couture after the accounting books and records and other documents for Company 9046 were reviewed some time after Mr. Couture ceased to be a shareholder. Mr. Couture testified that he invoiced some personal expenses to Company 9046 based on a suggestion made by the Appellant, who claimed that the company would, consequently, pay less income tax. The amounts at issue for these expenses totalled approximately $2,000. Ms. Gosselin was asked to explain her statement whereby Mr. Couture’s personal expenses had been paid by Company 9046 without her knowledge; she replied that she had signed the cheques without comparing them to the invoices.
+[18] It is necessary to examine how the accounting work for Company 9046 was carried out, and by whom.
+[19] Ms. Fabienne Leblanc performed bookkeeping duties for Company 9046 from the beginning of the company’s operations until her resignation in June 1999. She prepared documents for tax remittances based on the supporting documents and information provided by Mr. Couture. On a number of occasions, the Appellant signed the government remittance slips. This accounting work was performed on the premises of l’Atelier des pneus Montmagny. Ms. Leblanc also kept the books for l’Atelier de pneus Montmagny. Beginning in July 1999, Ms. Julie Ouellette—Mr. Couture’s spouse, as I mentioned earlier—replaced Ms. Leblanc for a period of approximately six weeks. During the period beginning July 1, 1999, and ended December 24, 1999, taxes were remitted by Ms. Ouellette or Mr. Couture. After Ms. Leblanc left in June 1999, Mr. Patrice Roy, an accountant, made source deduction remittances for Company 9046 on a monthly basis, and GST and QST remittances every three months. Ms. Gosselin testified that she did not learn before July 2000 that some remittances had not been made.
+[20] The Appellant explained that, in the fall of 1999, Mr. Couture wanted to end his involvement with the Appellant and Ms. Gosselin in the business of Company 9046 prior to the end of the year at issue. According to the Appellant, Mr. Couture wanted to claim a deduction for the losses he incurred for the 1999 taxation year as a result of his investment in Company 9046. Company 9046 was in poor financial condition owing to the fuel price war. Mr. Couture also wanted to release the guarantors from their obligations to the Caisse populaire Desjardins de Montmagny.
+[21] On December 24, 1999, Mr. Paul Couture sold all of his stock—50,000 shares—in Company 9046 to Ms. Gosselin for $1. The transaction in which these shares were sold was preceded by another transaction, the [TRANSLATION] “Transaction Agreement,” dated December 23, 1999, between Mr. Paul Couture and Ms. Lise Gosselin. The parties mentioned clause 7 of this agreement specifically. It reads as follows:
+[TRANSLATION]
+7/ The transferor authorizes the company to apply specifically to the repayment of advances made by Jean-Claude Berger ($20,000), the repayment of advances made by l’Atelier de Pneus Montmagny ($10,000), and the payment of the debt owing to l’Atelier de Pneus Montmagny for supplies ($30,000), the proceeds from the repayment of capital on the $50,000 promissory note owed by 9027-9068 Québec Inc. to the company, bearing an interest rate of two percent (2%) per year, signed on April 11, 1997, and the interest owing on the other promissory note, dated on the same day, for the initial amount of $100,000, bearing an interest rate of four percent (4%).
+(Exhibit I-1, Tab 14.)
+[22] Company 9046 ceased to operate Garage Cloutier on January 31, 2001.
+[23] Ms. Line Dufresne, a Revenu Québec tax audit technician responsible for contacting businesses who do not file their income tax returns or who fail to make source deductions contacted Company 9046 in this regard; she first dealt with Mr. Couture, who said that action would be taken following her call. Ms. Leblanc later stated that the Appellant would deal with tax remittance issues. The Appellant did so on July 19, 1999, and Ms. Dufresne told him that the QST and GST returns for January 1999 had not been filed. The Appellant explained that Company 9046 was experiencing cash flow problems and that a payment would be made at a later date. It should be noted that Ms. Dufresne did not communicate with Ms. Gosselin about the requests for information on the tax returns and remittances.
+[24] In June 2000, Ms. Johanne Doré, who was no longer an employee of the ministère du Revenu du Québec at the time of this appeal hearing, but who was, at the relevant time, an employee of that department, carried out a tax audit of Company 9046 for the period beginning March 1997 and ended April 2000. She noted inconsistencies in the accounting data, and she was unable to speak with Ms. Leblanc, who was no longer an employee of Company 9046 and Company 9005. She stated that she contacted the Appellant and Ms. Gosselin to obtain the information that was missing. She stated that the Appellant had more knowledge of the details of the business relationship between Company 9046 and Petro-Canada during the years at issue than Ms. Gosselin had. Ms. Doré confirmed the reliability of the information provided by the Appellant with Petro-Canada. She added that she submitted her draft assessment to Ms. Gosselin and to the Appellant, and she gave them 21 days to submit their comments. The Appellant discussed the draft assessment with her by telephone on a number of occasions. Ms. Gosselin did not deal with Ms. Doré regarding the draft assessment. The Appellant was the only person to do so. She also stated that she attempted to contact Mr. Couture with respect to this draft assessment, but she was unsuccessful. She dealt with the Appellant and Ms. Gosselin during her audit. She was unable to determine whether Ms. Gosselin or the Appellant had provided the most information. Ms. Doré also discussed this draft assessment with Mr. Patrice Roy, an accountant retained by Company 9046.
+[25] Ms. Perrault’s testimony revealed that the Appellant negotiated the agreement on the terms and conditions of payment with Revenu Québec with respect to the assessment at issue.
+[26] Company 9046 did not object to the assessments of GST amounts that were not remitted to the tax authorities.
+Analysis
+[27] In light of these facts, it must first be determined whether the Appellant was a director of Company 9046 during the period at issue.
+[28] Firstly, it is necessary to examine the initial return filed by Company 9046, dated March 21, 1997, in which it is clearly indicated that this company had three directors: the Appellant, Ms. Gosselin, and Mr. Couture. The amending declaration of a corporation, also dated March 21, 1997, which was filed by this company, also identifies the Appellant as a director. The section of the document that contains additional information shows that the Appellant is the secretary of Company 9046 through the use of a notation: “SE.” These two documents were certified by the Appellant himself shortly before Company 9046 began its operations. Company 9046 sent the department at issue a second amending declaration, dated April 18, 1997. The addition identifying “Garage Philippe Cloutier” in this declaration was also signed by the Appellant.
+[29] With respect to whether the Appellant was a director of Company 9046, section 62 of An Act respecting the Legal publicity of sole proprietorships, partnerships and legal persons, which reads as follows, must be considered:
+The information relating to each registrant is proof of its contents in favour of third persons in good faith from the date on which it is entered in the statement of information. Third persons may submit any proof to refute the information contained in a declaration.
+That information shall include:
+[...]
+6) the names and domiciles of the directors, with an entry indicating the position held by each.
+[30] It is clear from the preceding that the Appellant was one of the directors of Company 9046. The Appellant did not, at any time, claim that his name had been inserted in the declaration required pursuant to the Quebec Companies Act without his consent. The fact that he may not have known the extent of the responsibilities inherent in the position of director of a corporation does not change the fact that he became a director of Company 9046 in law. Paragraph 8 of the amended notice of appeal contains an ambiguous passage, which reads as follows:
+[TRANSLATION]
+8. The Appellant was appointed to the position of secretary of the corporation at the request of the notary who incorporated the company; the notary claimed that there should be three (3) directors.
+[31] The Appellant, therefore, was indeed a director of Company 9046 during the period at issue. The evidence is conclusive in this matter.
+[32] Additionally, the evidence shows that the Appellant was closely involved in the management of Company 9046. For example, the Appellant signed a form from the Caisse populaire Desjardins entitled “Règlement relatif aux emprunts et aux garanties de la personne morale” [regulations regarding the loans and guarantees of a corporation] on behalf of Company 9046 (Exhibit I-1, Tab 8). On April 1, 1997, he also signed another document from the Caisse populaire Desjardins entitled “Résolution et attestation concernant l'administration d'une personne morale” [resolution and attestation regarding the administration of a corporation] (Exhibit I-1, Tab 9). The Appellant signed two tax returns for Company 9046, dated June and August 1999 (Exhibit I-1, Tab 10). The Appellant’s name also appears on a document relating to the sale of a truck to Ms. Ouellette by Company 9046 on December 1, 1999 (Exhibit I-1, Tab 12). On December 24, 1999, the Appellant also signed another document from the Caisse populaire Desjardins entitled “Résolution et attestation concernant l'administration d'une personne morale” [resolution and attestation regarding the administration of a corporation] (Exhibit I-1, Tab 13).
+[33] Moreover, it was also shown that the Appellant played an important role on some occasions with respect to the business of Company 9046. The Appellant explained to the Revenu Québec representative the nature of the relatively complex arrangements made between the Appellant and Petro-Canada concerning some of the payments it made, as Ms. Gosselin was unable to provide appropriate information in this matter. The Appellant explained the volume discount given to Company 9046 by Petro-Canada to the Revenu Québec representative. Reference can be made to Ms. Dufresne’s testimony in which she claims that the Appellant contacted her in July 1999 to inform her that Company 9046 was experiencing cash flow problems and that Company 9046 would make a payment at a later time. Reference can also be made to Ms. Doré’s testimony, whereby the Appellant was the only person who had a number of discussions with the Revenu Québec representative regarding the draft assessment of Company 9046. As counsel for the Respondent clearly indicated, the Appellant intervened on a number of occasions with respect to the management of Company 9046’s business.
+[34] I conclude that the Appellant minimized his role within Company 9046. Contrary to his claims, he played an active role in the business operations of the company at issue. He was involved in the principal events concerning this company, particularly those dealing with financial aspects, during the relevant period.
+[35] Based on all of the evidence, I conclude that the Appellant was a director of Company 9046 and that his circumstances are those of an inside director, according to the definition set out by the Federal Court of Appeal in Soper v. Canada (C.A.), [1998] 1 F.C. 124.
+[36] Given that it is my opinion that the Appellant was a director of the company, I conclude that the Appellant has not taken the measures necessary to prevent the failure to remit the Goods and Services Tax for the periods at issue.
+[37] Firstly, pursuant to the shareholders’ agreement concluded between Mr. Couture and Ms. Gosselin, on April 11, 1997, the monitoring of Company 9046’s accounting operations was the responsibility of Company 9005, whose place of business was located on the premises of l’Atelier de pneus Montmagny, where the Appellant worked on a permanent basis during the period at issue. The Appellant was one of two directors of Company 9005; the other director was the Appellant’s spouse, Ms. Gosselin. According to Ms. Dufresne’s testimony, he was aware, by July 1999, that a tax remittance report for the month of January 1999 had not been generated. He knew that Company 9046 was experiencing cash flow problems.
+[38] Given his knowledge of Company 9046’s operations and activities, it is more than likely that he knew that Company 9046 had not remitted taxes for some time. The opposite seems unlikely to me. At the very least, he could have inquired about the tax remittance, particularly the GST, and made arrangements to resolve this matter. In the circumstances, the Appellant would not have had to make a big effort to ensure that the required payments had been made to the tax authorities involved. For example, before July 1999, he could have contacted Fabienne Leblanc (the person responsible for Company 9046’s bookkeeping), who was located on the premises of l’Atelier de pneus Montmagny, where the Appellant was employed as a tire salesman during the relevant period.
+[39] Although the Appellant’s formal education was limited, he nonetheless had business experience. The standards of conduct pursuant to subsection 323(3) of the Excise Tax Act, which are partially subjective, are not being disputed here. See Soper, supra, in which the Federal Court of Appeal commented on a similar provision of the Income Tax Act.
+[40] Given all of the circumstances in this case, I conclude that the Appellant did not exercise the degree of care, diligence, and knowledge required by the Excise Tax Act.
+[41] It is my opinion, therefore, that the assessment made by the Minister of National Revenue is well founded.
+[42] For these reasons, the appeal is dismissed, with costs.
+Signed at Ottawa, Canada, this 4th day of August 2004.
+“Alban Garon”
+Garon C.J.T.C.C.
+Translation certified true
+on this 28th day of February 2005.
+Colette Dupuis-Beaulne, Translator
+CITATION: 2004TCC542
+COURT FILE No.: 2003-3095(GST)G
+STYLE OF CAUSE: Jean-Claude Berger and
+Her Majesty the Queen
+PLACE OF HEARING: Quebec City, Quebec
+DATE OF HEARING: June 7 and 8, 2004
+REASONS FOR JUDGMENT BY: The Honourable Alban Garon, Chief Judge
+DATE OF JUDGMENT: August 4, 2004
+APPEARANCES:
+For the Appellant: Paul Larochelle
+For the Respondent: Philippe Morin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Paul Larochelle
+Firm: Brochet Dussault Lemieux Larochelle
+Montmagny, Quebec
+For the Respondent: Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

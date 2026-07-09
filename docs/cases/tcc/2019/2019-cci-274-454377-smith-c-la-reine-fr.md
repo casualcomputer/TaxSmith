@@ -1,0 +1,459 @@
+---
+title: "Smith c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/454377/index.do"
+last_modified: "2019-12-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 274"
+citation2: ""
+neutral_citation: "2019 CCI 274"
+decision_date: "2019-12-11"
+language: "fr"
+item_id: "454377"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4290
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:05:07.003000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6297c389e21724ff42aa8279dd3bc1ec800b97face759392756c1392fb360b48"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Smith c. La Reine
+
+- Citation: 2019 CCI 274
+- Decision date: 2019-12-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4290, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Smith c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-12-11
+Référence neutre
+2019 CCI 274
+Numéro de dossier
+2018-2275(IT)I, 2018-2276(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-2275(IT)I 2018-2276(IT)I
+ENTRE :
+LORRAINE SMITH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 4 juillet 2019, à Toronto (Ontario)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocats de l’appelante :
+Me Arad Moslehi Me Jason C. Rosen
+Avocate de l’intimée :
+Stephanie Hodge
+JUGEMENT
+ATTENDU QUE, après avoir entendu la preuve et pris connaissance des observations des parties, la Cour rend ses motifs de jugement ci-joints.
+LA COUR ORDONNE PAR CONSÉQUENT CE QUI SUIT :
+Les appels des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2012, 2013 et 2014 de l’appelante sont accueillis uniquement parce que les pénalités imposées au titre du paragraphe 163(2) sont supprimées et que l’appelante aura droit à un don de bienfaisance admissible supplémentaire de 20 $ pour l’année d’imposition 2013;
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2015 de l’appelante est rejeté;
+L’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation;
+Il n’y aura aucune adjudication de dépens.
+Signé à Vancouver, Colombie-Britannique, ce 11e jour de décembre 2019.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2019TCC274
+Date : 20191211
+Dossier : 2018-2275(IT)I
+2018-2276(IT)I
+ENTRE :
+LORRAINE SMITH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. INTRODUCTION
+[1] Ces appels portent sur des déductions pour dons de bienfaisance et des dépenses d’emploi refusées pour quatre années d’imposition, soit 2012, 2013, 2014 et 2015. Les trois premières années d’imposition ont fait l’objet d’une cotisation après l’expiration de la période normale de nouvelle cotisation prévue au paragraphe 152(4) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1, telle que modifiée (la « Loi »). Au cours de ces mêmes années, le ministre a également imposé des pénalités en application du paragraphe 163(2) de la Loi. L’appelante, Mme Smith, interjette appel de tous les aspects des nouvelles cotisations.
+[2] Le montant de l’impôt en cause faisait en sorte que ces appels auraient dû être entendus selon les règles de procédure informelle de la Cour. Malgré cela, l’audience a duré toute une journée et il était passé 18 h quand la Cour a été levée.
+[3] En fin de compte, comme nous le verrons plus loin, l’impôt à payer sur les dons de bienfaisance, bien qu’il exige bon nombre de documents papier, est assez facile à déterminer. De même, les dépenses d’emploi refusées n’ont pas été présentées à la Cour en raison du manque de preuves documentaires. Les questions les plus nuancées pour la Cour, par ordre de difficulté de la conclusion, étaient la recevabilité des nouvelles cotisations après l’expiration de la période normale de nouvelle cotisation et la justification de l’imposition des pénalités pour fausses déclarations.
+II. EXPOSÉ DES FAITS
+a) Historique des dépôts et des cotisations
+[4] Pour chaque année d’imposition visée par l’appel, des dons de bienfaisance effectués par Mme Smith ont été autorisés ou refusés.
+[5] L’historique des déclarations, des vérifications et des nouvelles cotisations est décrit ci-dessous sous forme de tableau récapitulatif, comme c’était le cas dans les annexes des réponses du ministre.
+(i) Année d’imposition 2012
+[BLANK]
+Demandées
+Autorisées
+Refusées
+Square one seniors
+50,00 $
+50,00 $
+0,00 $
+Square one seniors
+50,00 $
+0,00 $
+50,00 $
+Sick kids
+20,00 $
+20,00 $
+0,00 $
+Samaritans purse
+42,00 $
+42,00 $
+0,00 $
+Inconnu
+400,00 $
+0,00 $
+400,00 $
+Danforth Community Church
+5 572,00 $
+5 572,00 $
+0,00 $
+United Way
+25,00 $
+25,00 $
+0,00 $
+Danforth Community Church
+6 150,00 $
+0,00 $
+6 150,00 $
+Signet church
+1 567,20 $
+0,00 $
+1 567,20 $
+Propres feuillets
+130,00 $
+130,00 $
+0,00 $
+Déductions non réclamées pour dons de 2008 à 2011
+5 228,30 $
+0,00 $
+5 228,30 $
+Total des dons de bienfaisance
+19 234,50 $
+5 839,00 $
+13 395,50 $
+Report prospectif
+7 052,84 $
+0,00 $
+7 052,84 $
+Total
+14 006,20 $
+5 839,00 $
+8 167,20 $
+Demandées pour l’année
+12 181,66 $
+5 839,00 $
+6 342,66 $
+(ii) Année d’imposition 2013
+[BLANK]
+Demandées
+Autorisées
+Refusées
+St. Barnabas Church
+20,00 $
+20,00 $
+0,00 $
+Church on Queensway
+20,00 $
+20,00 $
+0,00 $
+Sick kids
+20,00 $
+0,00 $
+20,00 $
+Samaritans purse
+95,00 $
+95,00 $
+0,00 $
+Daycare
+44,00 $
+0,00 $
+44,00 $
+Danforth Community Church
+7 780,00 $
+7 780,00 $
+0,00 $
+Terry Fox
+40,00 $
+40,00 $
+0,00 $
+Intervarsity
+100,00 $
+100,00 $
+0,00 $
+Déductions non réclamées pour dons de 2009 à 2012
+7 052,84 $
+0,00 $
+7 052,84 $
+Total des dons de bienfaisance
+15 171,84 $
+8 055,00 $
+7 116,84 $
+Report prospectif
+0,00 $
+0,00 $
+0,00 $
+Total
+8 119,00 $
+8 055,00 $
+64,00 $
+Demandées pour l’année
+15 171,84 $
+8 055,00 $
+7 116,84 $
+(iii) Année d’imposition 2014
+[BLANK]
+Demandées
+Autorisées
+Refusées
+Word of Faith International Christian Centre
+100,00 $
+100,00 $
+0,00 $
+Word of Faith International Christian Centre
+20,00 $
+20,00 $
+0,00 $
+Word of Faith International Christian Centre
+20,00 $
+0,00 $
+20,00 $
+Church on the Queensway
+25,00 $
+25,00 $
+0,00 $
+Church on the Queensway
+20,00 $
+20,00 $
+0,00 $
+Danforth Community Church
+8 136,00 $
+8 136,00 $
+0,00 $
+Non étayée
+225,00 $
+0,00 $
+225,00 $
+Déductions non réclamées pour dons de 2010 à 2013
+7 052,84 $
+0,00 $
+7 052,84 $
+Total des dons de bienfaisance
+15 598,84 $
+8 301,00 $
+7 297,84 $
+Report prospectif
+0,00 $
+0,00 $
+0,00 $
+Total
+8 546,00 $
+8 301,00 $
+245,00 $
+Demandées pour l’année
+15 598,84 $
+8 301,00 $
+7 297,84 $
+(iv) Année d’imposition 2015
+[BLANK]
+Demandées
+Autorisées
+Refusées
+Apostolic Pentecostal Church
+20,00 $
+20,00 $
+0,00 $
+Word of Faith International Christian Centre
+8 550,00 $
+8 550,00 $
+0,00 $
+Word of Faith International Christian Centre
+1 790,00 $
+0,00 $
+1 790,00 $
+Word of Faith International Christian Centre
+430,00 $
+0,00 $
+430,00 $
+Word of Faith International Christian Centre
+5,21 $
+0,00 $
+5,21 $
+Cornerstone Montessori Prep School
+5 550,00 $
+555,00 $
+4 995,00 $
+Word of Faith International Christian Centre
+100,00 $
+0,00 $
+100,00 $
+Assists Projects
+500,00 $
+500,00 $
+0,00 $
+MoveIn Vision
+1 000,00 $
+1 000,00 $
+0,00 $
+Déductions non réclamées pour dons de 2011 à 2014
+0,00 $
+0,00 $
+0,00 $
+Total des dons de bienfaisance
+17 945,21 $
+10 625,00 $
+7 320,21 $
+Report prospectif
+798,83 $
+0,00 $
+798,83 $
+Total
+17 945,21 $
+10 625,00 $
+7 320,21 $
+Demandées pour l’année
+17 146,38 $
+10 625,00 $
+6 521,38 $
+b) Fondement des refus
+[6] Bien que de nombreux montants de dons de bienfaisance aient été refusés, il était clair pour la Cour, à la lumière des autres montants acceptés et documentés chaque année, que Mme Smith était une généreuse donatrice. Par ailleurs, les refus du ministre sont répartis dans plusieurs catégories. En résumé, les quatre fondements des refus du ministre se décrivent comme suit :
+(i) erreurs mathématiques, comprenant deux sous-catégories :
+double comptabilisation des retenues;
+erreurs d’addition dans les déclarations.
+(ii) reports prospectifs erronés;
+(iii) absence de reçus pour dons de bienfaisance;
+(iv) absence d’intention charitable/existence d’un avantage réciproque.
+c) Formation de Mme Smith
+[7] Mme Smith est actuellement travailleuse autonome. Pendant les années visées par les appels et pendant 28 ans au total, elle a été employée par la Ville de Toronto. En plus d’être diplômée en études de la santé et en sciences, elle est également administratrice agréée en soins de longue durée. Elle exploite actuellement sa propre entreprise. Elle est éloquente, réfléchie et posée. Elle a été franche pendant son témoignage.
+d) Dépenses d’emploi et dépenses connexes
+[8] Au cours de l’année 2014, Mme Smith était travailleuse sociale à la Ville de Toronto. En ce qui concerne les dépenses d’emploi réclamées, elle était superviseure de l’unité fonctionnelle des programmes directs. À ce poste, elle était chargée de superviser diverses activités de liaison et de sensibilisation au profit des quartiers prioritaires et des organismes confessionnels. Par ailleurs, elle a supervisé des programmes pour la ville de Toronto, comme le Programme ontarien de soutien aux personnes handicapées et Ontario au travail. Au cours de l’année d’imposition 2014, elle a déduit 6 660 $ à titre de dépenses d’emploi liées au carburant, au stationnement, à l’assurance-automobile et aux frais de bureau à domicile.
+e) Préparation et examen des déclarations de revenus
+[9] Mme Smith a témoigné que son mari avait préparé ses déclarations de revenus, mais qu’elle les avait examinées et signées. Elle était responsable de recueillir les reçus, qu’elle remettait ensuite à son mari. Toutefois, celui-ci s’est chargé des reports prospectifs et des calculs mathématiques nécessaires.
+III. ANALYSE DES DÉPENSES D’EMPLOI
+[10] Mme Smith ne peut pas déduire ses dépenses d’emploi pour les raisons suivantes. Elle n’a produit aucun formulaire T-2200 - Déclaration des conditions d’emploi. Même si elle était employée de la Ville de Toronto, la Ville n’a pas rempli le formulaire lorsqu’on lui a demandé de le faire. Mme Smith n’a pas cherché activement à régler ce problème. Plus important encore, aucun document, registre, pièce justificative ou reçu de frais n’a été produit pour étayer les frais de véhicule à moteur, de carburant, de stationnement ou de bureau à domicile qui ont été déclarés. Bien qu’un employé puisse, dans certaines circonstances rares, surmonter l’absence de formulaire T-2200, cela ne peut se produire lorsque les dépenses ne sont pas quantifiables, identifiables ou imputables en fonction du revenu d’emploi tiré. Puisqu’il n’existe aucune preuve des dépenses, Mme Smith ne peut avoir gain de cause.
+IV. ANALYSE DES DONS DE BIENFAISANCE
+[11] Chaque année, certains dons de bienfaisance ont été refusés à juste titre par le ministre, à une seule exception près : un don de bienfaisance de 20 $ versé à l’hôpital Sick Kids en 2013 semble avoir été refusé. Le reçu pour don de bienfaisance a été produit en preuve par l’appelante et l’intimée. Ce don devrait être autorisé. Autrement, la méthode la plus claire pour analyser la preuve et le caractère approprié du refus est de se fonder sur le motif du refus plutôt que sur l’année d’imposition. De façon plus générale, la justification valable de ces refus se classait dans les catégories suivantes
+(i) Erreurs de calcul dans la déclaration;
+[12] Tout compte fait, il y a eu une double comptabilisation des dons pour deux années d’imposition, soit la somme de 6 150,00 $ en 2011 et 2012 pour le don versé à la Danforth Community Church. Il semble que le ministre ait autorisé ce don en 2011; comme il ne peut être autorisé deux fois, il ne peut donc être réclamé une deuxième fois en 2012. De même, un don inconnu de 400 $ en 2012 était, selon toute vraisemblance, une cotisation à un RER qui a été réclamé comme don de bienfaisance. Il ne peut s’agir d’un don de bienfaisance puisqu’il n’existe aucun reçu et qu’il n’y a eu aucune intention de bienfaisance.
+(ii) Montants de reports prospectifs erronés ou inexistants;
+[13] D’après la preuve présentée à la Cour, la déduction de 5 228,30 $ reportée à l’année d’imposition 2012 ne reposait sur aucun fondement. Le témoignage anecdotique alléguait la découverte d’un don de bienfaisance daté de 2005. Aucun élément de preuve de ce don n’existait ni n’a été présenté à la Cour. Même si c’était le cas, la Loi ne permet de déduire un don de bienfaisance que sur une période de report prospectif de 5 ans ou moins.
+[14] En 2013, il n’y a pas de registre de continuité des dons ni de reçus d’origine reflétant la somme de 7 052,00 $ reportée prospectivement comme une déduction inutilisée des années précédentes. Encore une fois, ce montant ne peut être réclamé une deuxième fois en 2014. Il s’agit de deux cas où aucun montant reporté n’est disponible et où le même montant inadmissible a été comptabilisé en double en 2013 et en 2014.
+(iii) Absence de reçus pour dons de bienfaisance;
+[15] Il n’y avait pas de reçus pour dons de bienfaisance pour les dons suivants :
+Année d’imposition
+Somme
+Motifs du refus
+2014
+20,00 $
+Dédoublement possible du reçu pour le don versé au Word of Faith International Christian Centre
+2014
+225,00 $
+Aucun reçu
+(iv) Avantage conféré au donateur;
+[16] Certains dons de bienfaisance ont conféré un avantage à Mme Smith relativement à l’éducation de ses enfants sous la forme de frais de scolarité. Par conséquent, ces montants n’étaient pas des dons : Frieburg v. HMQ, CAF, au paragraphe 4. Cette somme s’élevait à 13 120 $ et a été versée à Kingdom Covenant Ministries. Un montant d’au moins 10 480 $ se rapportait aux frais de scolarité versés à la Kingdom Covenant Academy (« KCA ») pour ses enfants en 2010. De plus, les montants reportés provenant de ce montant inadmissible n’étaient pas non plus disponibles pour les années futures à titre de déduction pour dons de bienfaisance. Pour cette raison, il s’agissait également d’un montant inadmissible reporté prospectivement.
+[17] Un montant de 44 $ versé en 2013 se rapportait aux frais de garde d’enfants et était décrit comme tel sur le reçu. Cela ne constitue pas un don de bienfaisance.
+[18] De même, les enfants de Mme Smith ont fréquenté l’école privée pendant les années d’imposition 2011 à 2015. Pour certaines années, Mme Smith soutient qu’une partie des frais de scolarité était déductible à titre de dons de bienfaisance. Elle estimait que certains montants versés aux écoles dépassaient l’avantage éducatif découlant des frais de scolarité payés. Elle fondait ce point de vue sur son examen de la jurisprudence et des conseils reçus en cours de route de diverses sources. Bien qu’on ne sache pas exactement quels montants précis ont été déduits et lesquels ne figuraient pas dans sa déclaration de revenus, la meilleure estimation des paiements déduits à titre de dons de bienfaisance est la suivante :
+Dons de bienfaisance refusés présumés être des frais de scolarité
+Année d’imposition du versement
+Destinataire
+Somme
+Année d’imposition de la déduction
+2011
+Signet Church
+1 567,20 $
+2012
+2015
+Word of Faith Christian Centre
+1 790,00 $
+2015
+2015
+Word of Faith Christian Centre
+430,00 $
+2015
+2015
+Word of Faith Christian Centre
+100,00 $
+2015
+2015
+Word of Faith Christian Centre
+5,21 $
+2015
+2015
+Cornerstone Montessori Prep School
+5 500,00 $
+2015
+[19] Ces montants ont, en toute vraisemblance, été versés au titre de frais de scolarité et de frais d’études connexes. Signet Church a reçu ces sommes en 2011, mais a soumis une réclamation en 2012. Une partie importante, si ce n’est la totalité, a été versée spécifiquement pour couvrir les frais de scolarité. De plus, outre une lettre précisant que 20 % du montant était destiné à des fins de bienfaisance, il n’y avait pas de reçu de charité ni d’indication précise dans la déclaration de revenus quant aux montants réclamés à l’égard du Word of Faith Christian Centre et de la Cornerstone Montessori Prep School; les lignes entre ces bénéficiaires sont demeurées floues tout au long de la présentation de la preuve. Les montants refusés ont été justifiés parce qu’il s’agissait clairement de frais de scolarité, comme dans le cas de la Cornerstone Montessori Prep School, ou qu’ils ont été comptabilisés en double parce que Mme Smith a utilisé des doubles de sommaires de paiements tout au long de l’année au lieu de faire référence aux reçus réels. Cela concerne les montants de 1 790 $, 430 $, 100 $ et 5,21 $, qui semblent par ailleurs avoir été inclus dans le total de fin d’année versé à World of Faith, qui était déjà autorisé. Encore une fois, ce montant ne peut être déduit deux fois.
+[20] En conclusion, pour ces motifs, outre l’unique exception de 20 $ ci-dessus, aucun des cas présentés à la Cour, où les dons de bienfaisance réclamés ont été refusés par le ministre, ne devrait être autorisé. Dans cette mesure, les appels sont rejetés.
+V. ANNÉES FRAPPÉES DE PRESCRIPTION; 2012, 2013 ET 2014
+[21] Le seuil en ce qui concerne les nouvelles cotisations par ailleurs prescrites exige une fausse déclaration attribuable à une présentation inexacte des faits attribuable à de l’insouciance, à une négligence ou à une omission volontaire. En 2014, Mme Smith a admis qu’il n’y avait aucun montant reporté à inclure. En outre, elle n’avait pas de reçus à présenter pour les dépenses d’emploi qu’elle a réclamées. De même, en 2012 et en 2013, la diligence avec laquelle elle a examiné ses déclarations, compte tenu de l’importance des dons réclamés, aurait dû révéler la comptabilisation en double, les erreurs mathématiques et l’absence de montants à reporter de l’année d’imposition 2005 présumée. Ni la question de l’intention d’induire en erreur ni la révélation ou la découverte subséquente de l’erreur par le ministre ne sont nécessaires pour établir l’existence d’une présentation inexacte des faits; une erreur commise par négligence par un comptable ou un spécialiste en déclarations au moment où la déclaration est remplie et produite suffit pour constituer une présentation inexacte des faits attribuables à la négligence : Nesbitt c. Canada, 1996 CarswellNat 1916, aux paragraphes 8 et 9. Mme Smith, en raison des erreurs commises par son mari et de son propre examen inattentif, a été négligente dans ses inclusions, ses calculs et son examen de la documentation. Sur ces bases, les cotisations des trois premières années visées par les appels doivent être établies au-delà de la période normale de nouvelle cotisation.
+VI. PÉNALITÉS PRÉVUES AU PARAGRAPHE 163(2) POUR LES DÉDUCTIONS DE BIENFAISANCE DE 2012 ET 2013 ET LES DÉPENSES D’EMPLOI DE 2014
+[22] Le ministre n’a pas invoqué sérieusement le fait d’avoir fait sciemment un faux énoncé comme motif d’imposition des pénalités prévues au paragraphe 163(2). L’avocate de l’intimée a plutôt affirmé qu’en l’absence d’un examen minutieux de la déclaration après sa préparation par son mari, Mme Smith n’a pas divulgué l’information suivante :
+(i) En 2012 et 2013, les reports injustifiés, l’inclusion de la totalité des montants versés à la KCA et la comptabilisation en double possible du don versé à la Church on the Danforth en 2011 et 2012;
+(ii) Au cours de l’année d’imposition 2014, l’inclusion de la déduction des dépenses d’emploi alors qu’il n’y avait aucun reçu et qu’aucun formulaire T-2200 n’a été obtenu.
+[23] En bref, le ministre considère que ces omissions constituent des motifs d’aveuglement volontaire. Le ministre affirme qu’il s’agit là d’un aveuglement volontaire à tel degré qu’il doit être qualifié de négligence grave ou d’un mépris cavalier de l’obligation de se conformer aux dispositions de la Loi pour vérifier l’exactitude des déclarations : Lauzon c. La Reine, 2016 CCI 71, aux paragraphes 42, 43 et 44.
+a) Analyse des pénalités pour les déductions des dons de bienfaisance pour 2012 et 2013
+[24] Les faits en l’espèce concernant les déductions pour dons de bienfaisance, dans la mesure où ils se rapportent à l’aveuglement volontaire, ont généralement trait à l’état de confusion dans lequel se trouve Mme Smith quant aux montants reportés et au fondement juridique de la déductibilité de la « partie caritative » des frais de scolarité.
+[25] Même si ces sommes étaient importantes, Mme Smith croyait clairement, quoique naïvement, qu’une partie excédentaire des montants des frais de scolarité était déductible. Elle a sincèrement exprimé ce point de vue et le fondement « éclairé » de celui-ci à la Cour. D’un point de vue juridique, elle avait tort, mais contrairement à de nombreux contribuables, elle a tenté d’apprendre la loi et de s’y conformer. Elle a été négligente, voire insouciante en ce qui concerne les dons de bienfaisance antérieurs non réclamés, mais elle n’a pas été insouciante ou indifférente à l’égard de la conformité. De plus, elle a fait des dons de charité de façon soutenue et délibérée au fil des ans. Par conséquent, la Cour n’est pas d’avis que ses erreurs peuvent être qualifiées d’aveuglement volontaire ou de faux énoncé fait sciemment.
+b) Analyse des pénalités pour les dépenses d’emploi
+[26] D’après la preuve, les circonstances factuelles particulières entourant ces dépenses réclamées ne correspondent pas non plus à un aveuglement volontaire équivalant à un non-respect de la loi. En 2014, Mme Smith a tenté, en vain, d’obtenir un formulaire T-2200. L’année suivante, elle a réussi à en obtenir un, mais n’avait aucune dépense à réclamer.
+[27] Dans le cas de Mme Smith, l’absence de reçus n’est pas suffisante pour élever ses omissions au rang de gestes délibérés. Elle a produit ses déclarations en croyant qu’elle avait le droit de déduire ces dépenses, même s’il s’agissait d’estimations. Les montants n’étaient pas extraordinaires; ils restaient simplement impossibles à prouver, et donc inexacts. Cette action n’a pas atteint le niveau d’aveuglement volontaire justifiant une conclusion de négligence grave.
+VII. SOMMAIRE ET DÉPENS
+[28] Pour ces motifs, les appels sont rejetés sans dépens, mais les pénalités sont annulées pour les années d’imposition 2012, 2013 et 2014 et l’allocation de dons de bienfaisance supplémentaires de 20 $ est autorisée pour 2013.
+Signé à Vancouver (Colombie-Britannique), ce 11e jour de décembre 2019.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2019 CCI 274
+NOS DES DOSSIERS DE LA COUR :
+2018-2275(IT)I; 2018-2276(IT)I
+INTITULÉ :
+LORRAINE SMITH c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 4 juillet 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 11 décembre 2019
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Arad Moslehi Me Jason C. Rosen
+Avocate de l’intimée :
+Me Stephanie Hodge
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[BLANK]
+Cabinet :
+[BLANK]
+Pour l’intimée :
+Me Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

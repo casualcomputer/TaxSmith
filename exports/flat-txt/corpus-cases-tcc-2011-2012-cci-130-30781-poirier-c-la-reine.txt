@@ -1,0 +1,131 @@
+Title: Poirier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30781/index.do
+Corpus path: corpus/cases/tcc/2011/2012-cci-130-30781-poirier-c-la-reine.md
+Document type: case_law
+Last modified: 2011-06-21
+
+# Poirier c. La Reine
+
+- Citation: 2012 CCI 130
+- Decision date: 2011-06-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7585, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poirier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-21
+Référence neutre
+2012 CCI 130
+Numéro de dossier
+2009-452(IT)G
+Juges et Officiers taxateurs
+Louise Rochon
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-452(IT)G
+ENTRE :
+SYLVAIN POIRIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+NANCY McCLURE,
+tierce partie.
+CERTIFICAT DE TAXATION DES DÉPENS
+JE CERTIFIE que j'ai taxé les dépens entre parties de la tierce partie dans cette instance en vertu du paragraphe 153(1) des Règles de la Cour canadienne de l'impôt (procédure générale), et J'ACCORDE LA SOMME DE 3 652,60 $.
+Signé à Ottawa (Ontario), ce 24e jour d’avril 2012.
+« Louise Rochon »
+Officier taxateur
+Référence : 2012 CCI 130
+Date : 20120424
+Dossier : 2009­452(IT)G
+ENTRE :
+SYLVAIN POIRIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+NANCY McCLURE,
+tierce partie.
+MOTIFS DE LA TAXATION DES DÉPENS
+Louise Rochon, O.T., C.C.I.
+[1] Le 21 juin 2011, l’honorable juge Jorré de la Cour a rejeté l’appel interjeté à l’égard de la cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour l’année d’imposition 2007 et ordonné que l’appelant paie les frais de l’intimée et de la tierce partie selon le Tarif B de l’Annexe II des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »).
+[2] La taxation du mémoire de frais de la tierce partie a été entendue par conférence téléphonique le mercredi 16 novembre 2011. L’appelant agissait pour lui-même et la tierce partie était représentée par Me Sylvie Leduc.
+[3] Lors de l’audition de la taxation, la procureure de la tierce partie a indiqué que les montants inscrits dans son mémoire de frais reflétaient ceux figurant aux Tarifs A et B de l’Annexe II des Règles et que tous les montants réclamés étaient justifiés et conformes à une instance de catégorie B.
+[4] Le mémoire de frais de la tierce partie est représenté ci-dessous sous forme sommaire.
+Honoraires judiciaires
+1(1)a)
+Services fournis non rémunérés
+525,00 $
+1(1)b)
+Communication de documents
+150,00 $
+1(1)g)
+Préparation de l’audience
+625,00 $
+1(1)h)
+Journée d’audience du 29 mars 2010
+1 500,00 $
+1(1)i)
+Services fournis après le prononcé du jugement
+300,00 $
+1(1)c)
+Taxation des dépens
+525,00 $
+TOTAL DES HONORAIRES
+3 625,00 $
+Déboursés
+1(2)
+Photocopies : 138 pages
+27,60 $
+TOTAL DES DÉBOURSÉS
+27,60 $
+TOTAL DES HONORAIRES ET DÉBOURSÉS
+3 652,60 $
+[5] Les montants réclamés en vertu des alinéas 1(1)a), b), c), g), h) et i) du Tarif B sont tous contestés.
+[6] L’appelant conteste particulièrement le montant réclamé à l’alinéa 1(1)a). Selon son interprétation du Tarif B, cette somme n’est pas admissible puisque d’autres sommes sont énumérées et réclamées dans le mémoire de frais. Pour l’ensemble des honoraires judiciaires réclamés, le litige porte principalement sur la catégorie d’instance qui s’applique aux fins du Tarif B dans le cadre de la préparation du mémoire de frais. La tierce partie a présenté un mémoire de frais conformément à une instance de catégorie B, s’élevant à 3 652,60 $. L’appelant soutient que son appel correspond à une instance de catégorie A. Le même mémoire de frais préparé selon une instance de catégorie A s’élèverait à 2 327,60 $.
+[7] L’appelant ne conteste pas le montant demandé en vertu du Tarif B pour les débours. Ce montant sera accordé tel que réclamé.
+Contexte - Article 174 de la Loi
+[8] Avant d’aller plus loin, je considère nécessaire à ce moment-ci de faire un bref historique des évènements afin de comprendre pourquoi il y a une tierce partie liée à l’appel.
+[9] Le 10 février 2009, l’appelant a déposé un avis d’appel à l’encontre de la cotisation établie à son égard pour l’année d’imposition 2007. Cet appel a été déposé comme une instance de catégorie A.
+[10] L’article 174 de la Loi prévoit que, lorsque le ministre du Revenu national (le « Ministre ») est d’avis qu’une même opération ou un même événement ou qu’une série d’opérations ou d’événements a donné naissance à une question de droit, de fait ou de droit et de fait qui se rapporte à des cotisations, réelles ou projetées, relatives à plusieurs contribuables, il peut demander à la Cour canadienne de l’impôt de se prononcer sur la question. La demande doit faire état de la question au sujet de laquelle le Ministre demande une décision ainsi que des noms des contribuables que le Ministre désire voir liés par la décision relative à cette question.
+[11] Le 4 juin 2009, l’intimée s’est prévalue de cette disposition et a déposé une demande de renvoi en vertu de l’article 174 de la Loi, en précisant les questions à l’égard desquelles une décision était demandée et en identifiant les contribuables qui devaient être liés par la décision prononcée par la Cour, soit Sylvain Poirier, l’appelant, et Nancy McClure, la tierce partie.
+[12] Par ordonnance datée du 17 août 2009, la Cour a joint Nancy McClure à l’appel de l’appelant en plus d’établir un échéancier des étapes préliminaires que les parties devaient compléter avant la tenue de l’audition de la demande de renvoi aux fins d’obtenir une décision sur les questions posées.
+Alinéa 1(1)a) du Tarif B – Services fournis avant interrogatoire
+[13] Selon son interprétation du Tarif B, l’appelant considère que la somme réclamée à l’alinéa 1(1)a) du Tarif B n’est pas admissible puisque d’autres sommes sont énumérées et réclamées dans le mémoire de frais aux alinéas 1(1)b), c), g), h) et i). Toutefois, l’appelant soutient que, si cette réclamation était admissible, le montant accordé devrait être de 350 $ et non de 525 $ puisqu’il s’agit d’une instance de catégorie A et non de catégorie B.
+[14] La procureure de la tierce partie soutient que cette réclamation couvre tous les services rendus avant la date prévue pour la tenue d’un interrogatoire préalable, particulièrement la préparation et le dépôt de l’exposé de la tierce partie quant à l’avis d’appel et la Réponse modifiée à l’avis d’appel. Elle affirme que, bien qu’il n’y ait pas eu lieu de tenir un interrogatoire préalable, des services ont été rendus avant cette date.
+[15] L’alinéa 1(1)a) du Tarif B des Règles prévoit qu’une somme au montant de 350 $ peut être accordée pour une instance de catégorie A, de 525 $ pour une instance de catégorie B et de 700 $ pour une instance de catégorie C pour tous les services des avocats fournis avant l’interrogatoire préalable qui ne sont pas par ailleurs énumérés aux alinéas b) à i).
+[16] À la lecture de l’exposé de la tierce partie admettant ou niant les allégations contenues dans l’avis d’appel et la Réponse modifiée à l’avis d’appel, lequel exposé a été déposé et signifié par la tierce partie le 16 septembre 2009, je considère la réclamation pour services fournis avant la date prévue pour la tenue d’un interrogatoire préalable justifiée. Il ne reste qu’à déterminer la somme qui sera accordée en tenant compte de la catégorie d’instance applicable au Tarif B.
+Instance de catégorie A ou de catégorie B
+[17] Compte tenu de la somme en litige, l’appelant soutient que son appel correspond à une instance de catégorie A et non de catégorie B, tel que prévue au Tarif A de l’Annexe II des Règles. L’appelant soutient que, pour chacune des réclamations dans le mémoire de frais, il faudrait tenir compte du fait que l’instance en est une de catégorie A. Pour cette raison, l’appelant a indiqué qu’il accepterait de payer les frais suivants : 100 $ pour la communication de documents, 350 $ pour la préparation de l’audience, 1 000 $ pour la journée d’audience, 150 $ pour les services fournis après le prononcé du jugement et 27,60 $ pour les frais de photocopies, pour un grand total de 1 627,60 $.
+[18] Quand au renvoi sous l’article 174 de la Loi, l’appelant a indiqué avoir eu des discussions avec la représentante de l’intimée quelques semaines avant le dépôt de la demande de renvoi le 4 juin 2009. Cette dernière lui aurait expliqué qu’elle devait faire intervenir la tierce partie et elle lui aurait demandé s’il s’opposait à cette demande. L’appelant affirme avoir convenu à l’époque de ne pas s’objecter à la demande de renvoi à condition que le tout se fasse sans frais. L’appelant a fait remarquer qu’il n’y a aucune conclusion quant aux dépens dans la demande de renvoi de l’intimée datée du 4 juin 2009 ni dans l’ordonnance du juge en chef Rip datée du 17 août 2009. Il soutient qu’il aurait été absurde qu’il consente à être condamné à des frais sur la base d’une requête à laquelle il aurait consenti. L’appelant indique que le procureur de l’intimée présentement au dossier aurait respecté cette entente et produit un mémoire de frais fondé sur une instance de catégorie A et non de catégorie B.
+[19] En réponse, la procureure de la tierce partie soutient que sa cliente a été amenée à intervenir dans ce débat à la suite de la demande de renvoi faite en vertu de l’article 174 de la Loi. Se référant au sous-alinéa 1.b)(iii) du Tarif A de l’Annexe II des Règles, elle a indiqué qu’une demande de renvoi faite en vertu de l’article 174 de la Loi est définie comme une instance de catégorie B. C’est pourquoi elle a appliqué au Tarif B les montants d’une instance de catégorie B pour les réclamations identifiées aux alinéas 1(1)a), b), c), g), h) et i). Elle maintient que les montants réclamés dans son mémoire de frais reflétaient ceux figurant aux Tarifs A et B de l’Annexe II des Règles et que tous les montants étaient justifiés et conformes à une instance de catégorie B.
+[20] En réponse au commentaire à l’effet qu’il y aurait eu, à l’époque, entente entre l’appelant et l’intimée sur la catégorie d’instance à appliquer suivant la demande de renvoi, la procureure de la tierce partie affirme que c’est du ouï-dire et qu’il n’y a aucune preuve de cette entente. Le fait qu’il n’y a aucune mention des frais dans la requête du 4 juin 2009 ou dans l’ordonnance du 17 août 2009 n’est aucunement une indication que la tierce partie n’a pas droit à ses frais. Elle soutient que le mémoire de frais de la tierce partie a été produit conformément au jugement du juge Jorré et que les montants réclamés sont conformes à l’Annexe II, catégorie B.
+[21] Les sections 21 à 24 des Règles sont énumérées sous l’entête ‘Introduction d’instance’. L’article 21 se lit en partie comme suit :
+21.(1) Toute instance régie par la procédure générale prévue dans la Loi (ici la Loi sur la Cour canadienne de l’impôt) s’introduit par dépôt au greffe d’un acte introductif d’instance établi selon l’une des formules suivantes :
+[ … ]
+c) formule 21(1)c) en cas de demande prévue à l’article 174 de la Loi de l’impôt sur le revenu,
+[ … ]
+[22] L’article 1 du Tarif A de l’Annexe II sert à définir les catégories d’instances introduites devant la Cour. Selon le sous‑alinéa 1.b)(iii) du Tarif A des Règles, une demande de renvoi présentée en vertu de l’article 174 de la Loi est clairement identifiée comme étant une instance distincte et cette instance est définie comme étant une instance de catégorie B.
+[23] Je crois qu’il est important de mentionner qu’une demande de renvoi est un processus qui ne vise pas uniquement à déterminer s’il y a lieu de lier à l’instance un ou plusieurs contribuables. La Cour doit également statuer sur la question posée dans la demande de renvoi.
+[24] Après examen du dossier, je constate que l’ordonnance datée du 7 décembre 2009 fixait au 29 mars 2010 l’audition de la demande aux fins d’obtenir une décision sur les questions posées par l’intimée ainsi que l’audition de l’appel. À la lecture du jugement de l’honorable juge Jorré, je constate qu’il a en premier lieu statué sur les questions à l’égard desquelles une décision était demandée par l’intimée dans la demande de renvoi pour ensuite rendre une décision à l’égard de l’appel même.
+[25] Quant à l’accord qui serait intervenu entre l’appelant et la partie intimée avant le dépôt de la demande de renvoi en juin 2009, il n’y a aucune preuve d’une entente à cet effet devant moi. Par ailleurs, même s’il y avait eu entente, elle n’a aucune incidence sur le présent litige. L’article 154 des Règles détermine les pouvoirs conférés à l’officier taxateur dans sa discrétion pour l’attribution des dépens :
+154. Lorsque les dépens entre parties doivent être taxés, l’officier taxateur taxe et détermine les montants conformément au Tarif B de l’Annexe II et tient compte :
+[…]
+e) de toute autre question qu’il doit prendre en considération conformément aux directives de la Cour.
+[26] Suivant ce cadre, l’officier taxateur ne peut, en allouant des frais ou des débours, contrevenir à une décision de la Cour ou aux Règles de la Cour canadienne de l’impôt. Bien que l’appel déposé par l’appelant correspond à une instance de catégorie A, je constate que la tierce partie a été jointe à l’instance suite à la demande de renvoi faite en vertu de l’article 174 de la Loi. Il est déjà établi qu’une demande de renvoi est une instance de catégorie B. En l’absence d’une directive de la Cour, je dois considérer cette instance comme une instance de catégorie B.
+[27] Après avoir pris connaissance du dossier de la Cour, du jugement de l’honorable juge Jorré, ainsi que des arguments des parties, je suis d’avis que les dépens réclamés dans le mémoire de frais pour les services des avocats sont ceux prévus au Tarif B et selon la catégorie d’instance appropriée. Je considère également la réclamation pour services fournis avant la date prévue pour la tenue d’un interrogatoire préalable justifiée.
+[28] Le mémoire de frais de la tierce partie est taxé et j’accorde la somme de 3 652,60 $.
+Signé à Ottawa (Ontario), ce 24e jour d’avril 2012.
+« Louise Rochon »
+Officier taxateur

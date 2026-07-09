@@ -1,0 +1,789 @@
+Title: Bombardier Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30181/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-48-30181-bombardier-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-01-28
+
+# Bombardier Inc. c. La Reine
+
+- Citation: 2011 CCI 48
+- Decision date: 2011-01-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7740, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bombardier Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-01-28
+Référence neutre
+2011 CCI 48
+Numéro de dossier
+2008-1624(IT)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1624(IT)G
+ENTRE :
+Bombardier Inc.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus les 13, 14, 15, 16 et 17 septembre 2010,
+à Montréal (Québec).
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Avocats de l'appelante :
+Me Wilfrid Lefebvre
+Me Dominic C. Belley
+Avocats de l'intimée :
+Me Pierre Cossette
+Me Annick Provencher
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies par le ministre du Revenu national (ministre) pour les années d’imposition 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000 et 2001 en vertu de la Partie I.3 de la Loi de l’impôt sur le revenu, L.R.C., c. 1 (5ième supplément) (Loi), sont accueillis avec dépens en faveur de l’appelante et les cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations sur la base que les seuls montants d’avances incluses au capital de l’appelante en vertu de l’alinéa 181.2(3)c) de la Loi sont les suivants, conformément aux motifs ci-joints :
+Année d’imposition 1990 : 73 781 000 $;
+Année d’imposition 1991 : 66 463 000 $;
+Année d’imposition 1992 : 207 820 000 $;
+Année d’imposition 1993 : 224 301 347 $;
+Année d’imposition 1994 : 423 237 117 $;
+Année d’imposition 1995 : 477 658 576 $;
+Année d’imposition 1996 : 250 700 000 $;
+Année d’imposition 1997 : 249 400 000 $;
+Année d’imposition 1998 : 332 100 000 $;
+Année d’imposition 1999 : 1 246 100 000 $;
+Année d’imposition 2000 : 1 482 400 000 $;
+Année d’imposition 2001 : 1 304 100 000 $.
+Par ailleurs, lors de l’établissement des nouvelles cotisations pour les années d’imposition 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997 et 2000, le ministre procédera aux ajustements prévus conformément au consentement à jugement daté du 13 septembre 2010 dont copie est jointe.
+Signé à Ottawa, Canada, ce 28e jour de janvier 2011.
+« Pierre Archambault »
+Juge Archambault
+Référence 2011 CCI 48:
+Date : 20110128
+Dossier : 2008-1624(IT)G
+ENTRE :
+Bombardier Inc.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] Les dispositions sur l’impôt des grandes sociétés, communément appelé la taxe sur le capital, ont été ajoutées comme partie I.3 de la Loi de l’impôt sur le revenu (Loi), à la suite du budget déposé par l’honorable Michael H. Wilson le 27 avril 1989, afin de contribuer à réduire le déficit fédéral. Cet impôt a été aboli à partir de 2006. Sauf pour les parties elles-mêmes, pour qui les sommes en jeu sont importantes, la lecture de ces motifs pourrait avoir peu d’intérêt. Toutefois, chez les lecteurs assidus de la jurisprudence fiscale, ils pourraient susciter de l’intérêt puisqu’on y verra comment un juge ayant rendu une décision favorable à l’intimée relativement à l’application de cet impôt à des avances sur contrat[1] peut maintenant rendre une décision défavorable, même s’il s’agit de faits essentiellement semblables.
+[2] Ici, Bombardier Inc. (Bombardier) interjette appel de cotisations établies par le ministre du Revenu national (ministre) à l’égard des années d’imposition 1990 à 2006. Tout d’abord, Bombardier a informé la Cour qu’elle limitait le débat aux années 1990 à 2001, puisque les parties ont convenu que de nouveaux avis d’opposition seraient produits à l’égard des années 2002 à 2006[2].
+[3] Les avis d’appel soulèvent plusieurs questions, dont certaines ont été réglées par consentement mutuel des parties. Par conséquent, les appels de Bombardier doivent être accueillis, à tout le moins pour donner effet au règlement négocié par les parties.
+[4] Essentiellement, il ne reste qu’une question de principe à régler, soit celle portant sur l’inclusion dans le capital imposable de Bombardier de certaines sommes reçues de ses clients comme avances à l’égard de contrats qui n’avaient pas encore été exécutés intégralement.
+[5] Comme Bombardier fabrique et vend des avions et du matériel de transport ferroviaire, les sommes visées par les cotisations sont importantes, comme le révèle le tableau qui suit :
+En 000 $
+Années
+Division aéronautique
+Division transport
+Montant déclaré par Bombardier
+Total des avances ajoutées
+1990
+68 866 $
+26 130 $
+94 996 $
+1991
+190 706 $
+10 428 $
+201 134 $
+1992
+167 053 $
+163 379 $
+330 432 $
+1993
+270 171 $
+172 942 $
+443 113 $
+1994
+499 576 $
+256 287 $
+60 000 $
+695 863 $
+1995
+545 126 $
+223 439 $
+60 000 $
+708 565 $
+1996
+398 471 $
+240 449 $
+187 049 $
+451 904 $[3]
+1997
+313 328 $
+209 399 $
+40 500 $
+482 734 $[4]
+1998
+1 048 220 $
+332 113 $
+79 013 $
+1 313 359 $[5]
+1999
+2 042 772 $
+598 497 $
+204 871 $
+2 440 002 $[6]
+2000
+2 351 151 $
+772 564 $
+3 123 715 $[7]
+2001
+2 117 015 $
+571 840 $
+1 304 029 $
+1 384 826 $
+[6] Voici comment les parties ont formulé la question en litige dans l’entente partielle sur les faits[8] (entente sur les faits) de laquelle sont tirés les chiffres du tableau précédent :
+93. Est-ce que les montants identifiés comme « avances » ou « avances et facturations proportionnelles », présentés dans la note sur les « stocks » aux états financiers de l’appelante, constituent des avances qui figurent au bilan de l’appelante pour chacune des années en litige, au sens du paragraphe 181(3) et de l’alinéa 181.2(3)c) de la Loi?
+94. Dans l’affirmative, est-ce que ces montants et ceux présentés au passif du bilan au poste « avances » ou « avances et facturations proportionnelles en excédent des coûts y afférents » constituent des éléments qui doivent être exclus du capital imposable en vertu de l’alinéa 181.2(3)b) de la Loi et conséquemment, qui ne peuvent être ajoutés au capital imposable en vertu de l’alinéa 181.2(3)c) de la Loi.
+Contexte contractuel
+[7] Il n’existe pas de litige entre les parties quant aux faits pertinents pour le règlement de ces appels. Non seulement les parties ont produit une entente sur les faits, mais l’intimée, en raison des admissions factuelles faites par Bombardier au cours du procès, a jugé qu’il n’était plus nécessaire de faire témoigner son vérificateur. Le conflit entre les parties résulte de l’application des dispositions de la Loi et de l’application des principes comptables pour déterminer la valeur des avances qui figure au bilan. Bombardier a fait témoigner son vice-président responsable des conventions financières, dont la tâche est de s’assurer de la conformité des états financiers aux principes comptables généralement reconnus (PCGR), et son vice-président chargé des affaires fiscales, qui a confirmé les données relatives aux montants que Bombardier avait déclarés comme revenus aux fins fiscales, notamment en vertu de l’alinéa 12(1)a) de la Loi, et relatives aux déductions que Bombardier avait faites en vertu de l’alinéa 20(1)m) de la Loi. À l’égard de l’année 2000, notamment le montant total des avances reçues par Bombardier avait été déclaré en vertu de l’alinéa 12(1)a) et déduit comme provision en vertu de l’alinéa 20(1)m) de la Loi.
+[8] Voici l’exposé factuel tiré de l’entente sur les faits :
+FAITS
+1. L’appelante exploite, inter alia, (i) une entreprise de développement, de fabrication et de vente d’avions et de pièces et composantes pour avions; et (ii) une entreprise de fabrication et de vente de matériel de transport public (wagons, etc.).[9]
+2. Son exercice financier et son année d’imposition s’étendent du 1er février au 31 janvier de chaque année.
+3. Les contrats de vente d’avions et de pièces et composantes pour avions et de matériel de transport public que l’appelante conclut avec ses clients couvrent les éléments habituels que l’on retrouve dans de telles ententes, soit : (i) la description du bien qui doit être produit et livré; (ii) le prix et ses modalités de paiement; (iii) les conditions relatives à la livraison; (iv) la responsabilité des parties; et (v) l’ensemble des autres droits et obligations de l’acheteur et du vendeur. À cet égard, les parties conviennent que les contrats se retrouvant aux onglets 69 et 70 du compendium sont des contrats-types représentatifs de l’ensemble des contrats signés par l’appelante pendant la période sous appel.
+4. Sur le plan comptable, l’appelante comptabilise ses contrats selon les principes comptables généralement reconnus au Canada (« PCGR ») relatifs aux contrats à long terme, dans la mesure où il y a une note aux états financiers qui détaille le calcul de l’inventaire.
+5. Les états financiers de l’appelante, pour les années en litige, ont été préparés conformément aux PCGR.
+Division Aéronautique (contrats de vente d’avions)
+6. Les revenus tirés des contrats de vente d’avions sont comptabilisés en fonction de l’achèvement des travaux établi d’après la date de livraison.
+7. Les contrats de vente d’avions prévoient que des montants, calculés en fonction du prix d’achat, doivent être versés par l’acheteur à des dates prédéterminées, selon un échéancier qui s’étend généralement de la signature du contrat jusqu’à la livraison.[10]
+8. Sous toutes réserves des précisions et informations additionnelles qui seront apportées par les témoins ordinaires et experts lors de leur témoignage, le cas échéant, les parties déclarent également que, dans ses états financiers, l’appelante présente ces contrats de la façon suivante :
+EXERCICES FINANCIERS 1990-1995[11]
+a) Avant la livraison, les montants reçus des clients pour l’ensemble des contrats sont portés en diminution des coûts encourus;
+b) L’excédent des coûts encourus sur les montants reçus des clients pour l’ensemble des contrats est présenté à l’actif du bilan au poste « stocks ». Les montants reçus des clients sont présentés dans la note sur les stocks aux états financiers à la ligne « avances reçues »;
+c) Lors de la livraison : (i) le produit total de la vente est constaté comme un revenu à l’état des résultats; et (ii) les coûts totaux relatifs à la fabrication sont présentés au poste « coût des ventes et frais d’exploitation » à l’état des résultats;
+EXERCICES FINANCIERS 1996-2001
+d) Avant la livraison, les montants reçus des clients pour un contrat donné sont portés en diminution des coûts encourus pour ce contrat;
+e) Pour un contrat donné, si les coûts encourus sont supérieurs aux montants reçus des clients, l’excédent est présenté à l’actif du bilan au poste « stocks ». Les montants reçus des clients sont présentés dans la note sur les stocks aux états financiers à la ligne « avances » ou « avances et facturations proportionnelles »;
+f) Si les montants reçus des clients pour un contrat donné sont supérieurs aux coûts encourus pour ce contrat, l’excédent est présenté au passif du bilan au poste « avances » ou « avances et facturations proportionnelles en excédent des coûts y afférents »; et
+g) Lors de la livraison : (i) le produit total de la vente est constaté comme un revenu à l’état des résultats; et (ii) les coûts totaux relatifs à la fabrication sont portés au poste « coûts des ventes et frais d’exploitation » à l’état des résultats.
+[...]
+Division Transport (matériel de transport public) et pièces et composantes d’avions
+10. Les revenus tirés des contrats à long terme sont comptabilisés en fonction de l’avancement des travaux établi d’après les coûts encourus.
+11. Les contrats de vente de matériel de transport public et de pièces et composantes d’avion prévoient que des montants doivent être versés par l’acheteur à des dates ou lors d’événements prédéterminés généralement appelées [sic] « milestones ».
+12. Sous toutes réserves des précisions et informations additionnelles qui seront apportées par les témoins ordinaires et experts lors de leur témoignage, le cas échéant, les parties déclarent également que, dans ses états financiers, l’appelante présente ces contrats de la façon suivante :
+EXERCICES FINANCIERS 1990-1995
+a) Avant la livraison, les montants reçus des clients pour l’ensemble des contrats sont portés en diminution des coûts encourus et du bénéfice afférent, lorsque les sommes sont reçues;
+b) L’excédent des coûts encourus et du bénéfice afférent sur les montants reçus des clients pour l’ensemble des contrats est présenté à l’actif du bilan au poste « stocks ». Les montants reçus des clients sont présentés dans la note sur les stocks aux états financiers à la ligne « avances reçues »;
+c) Les revenus sont constatés à l’état des résultats selon l’avancement des travaux établi d’après les coûts encourus. Les coûts afférents sont portés au poste « coût des ventes et frais d’exploitation » à l’état des résultats et le bénéfice afférent est enregistré à l’état des résultats, généralement au fur et à mesure que les coûts sont encourus;
+EXERCICES FINANCIERS 1996-2001
+d) Avant la livraison, les montants reçus des clients pour un contrat donné sont portés en diminution des coûts encourus et du bénéfice afférent pour ce contrat, lorsque les sommes sont reçues;
+e) Pour un contrat donné, si les coûts encourus et le bénéfice afférent sont supérieurs aux montants reçus des clients, l’excédent est présenté à l’actif du bilan au poste « stocks ». Les montants reçus des clients sont présentés dans la note sur les stocks aux états financiers à la ligne « avances » ou « avances et facturations proportionnelles »;
+f) Pour un contrat donné, si les montants reçus des clients sont supérieurs aux coûts encourus et au bénéfice afférent, l’excédent est présenté au passif du bilan au poste « avances » ou « avances et facturations proportionnelles en excédent des coûts y afférent [sic] »; et
+g) Les revenus sont constatés à l’état des résultats selon l’avancement des travaux établi d’après les coûts encourus. Les coûts afférents sont portés au poste « coût des ventes et frais d’exploitation » et le bénéfice afférent est enregistré à l’état des résultats généralement au fur et à mesure que les coûts sont encourus.
+[Je souligne.]
+[9] Le procès a duré trois jours et demi, dont deux jours ont été consacrés aux témoignages de deux éminents experts en comptabilité. Celui qui a témoigné à la demande de Bombardier est M. Nadi Chlala, fca, fcma, consultant universitaire, et celui qui a témoigné pour l’intimé est M. Daniel B. Thornton, Phd, fca, professeur de comptabilité à l’université Queen’s. Tous les deux ont des antécédents impressionnants tant au point de vue des études qu’au point de vue professionnel. Comme il fallait s’y attendre, les deux experts avaient des opinions divergentes quant au montant des avances qui devait être inclus dans le calcul du capital imposable de Bombardier. Tous les deux ont produit un rapport d’expertise. Celui de M. Chlala comporte 23 pages alors que celui de M. Thornton en comporte 57. On peut peut-être expliquer en partie les différences entre les opinions qu’ont exprimées les deux experts par la nature des questions qu’on leur a posées. Voici celles qui avaient été posées à M. Chlala[12] :
+Question 1 :
+Veuillez identifier et décrire :
+a) Les fondements conceptuels des états financiers;
+b) Les composantes des états financiers;
+c) Le rôle des notes complémentaires;
+d) Les principes relatifs à la constatation, à la mesure et à la divulgation des informations des composantes du bilan.
+Question 2 :
+Comment les éléments d’actif et de passif afférents aux contrats à long terme, (dressés conformément aux PCGR), sont-ils constatés, mesurés et présentés dans les états financiers de Bombardier Inc.?
+Question 3 :
+Quelle est la valeur comptable des avances qui ont été consenties à Bombardier Inc. à la fin de l’année et qui figurent à son bilan, dressé selon les PCGR, pour chacune des années d’imposition 1990 à 2006?
+Question 4 :
+Pour l’une ou l’autre des années d’imposition 1990 à 2006, le montant qui figure dans les notes complémentaires aux états financiers de Bombardier Inc. représente-il la valeur comptable des avances qui lui ont été consenties à la fin de l’année et qui doit figurer au passif du bilan de Bombardier Inc. dressé conformément au PCGR?
+Question 5 :
+En quoi la norme internationale IAS 11 d’avant 1995 se distingue-t-elle de la norme américaine SOP 81-1 qu’utilise Bombardier Inc. pour fins de présentation de ses bilans à la date de clôture des exercices 1990 à 2006?
+Question 6 :
+Y a-t-il un lien entre la méthode de constatation des revenus liés aux contrats à long-terme et la caractérisation des montants reçus de clients à titre d’avance?
+[Je souligne.]
+[10] En ce qui a trait à M. Thornton, voici les questions qu’on lui a posées et auxquelles il a répondu dans son rapport (pièce I-1) :
+Opinion Sought by Justice
+05. Justice has asked me for an opinion as to the nature of the Amounts[13] for accounting purposes, In particular, Justice has asked me to respond to the following four Questions:
+1. According to GAAP, what is the nature and substance of the payments made by Bombardier’s customers pursuant to the contracts?
+2. Were the Appellant’s balance sheets (and financial statements) in accordance with GAAP with respect to those payments?
+3. Are the advances, as detailed in the notes to the financial statements, "reflected" in the balance sheets of Bombardier?
+4. Are the notes to the financial statements an integral part of the balance sheets?
+[Je souligne.]
+[11] J’y reviendrai, mais en résumé, la position exprimée par chacun des témoins experts sur la question au cœur du litige, soit celle de savoir quel est le montant ou quelle est la valeur des avances qui figure au bilan de Bombardier, est différente. Selon M. Chlala, la valeur des avances est celle qui apparaît au passif dans le corps du bilan, alors que, selon M. Thornton, elle est celle qui se trouvent au compte « avances » et dont le montant figure dans les notes complémentaires.
+[12] Il est important de rappeler que, aux fins du litige, les parties ont convenu que les états financiers de Bombardier ont été préparés conformément aux PCGR. Non seulement il s’agit là d’un fait convenu dans l’entente sur les faits (pièce A‑6, par. 5), mais les deux experts ont, au cours de leur témoignage et dans leur rapport respectif, convenu de cet état de fait. M. Thornton a écrit notamment ce qui suit dans son rapport, à la page 55, lorsqu’il répondait à la question « Was the accounting for advances in accordance with GAAP? » : « Yes, at least until 2003 when the definition of GAAP changed in Canada. Even after 2003, I have no reason to assert that the financial statements did not comply with GAAP ».[14]
+[13] Lorsqu’il a adopté la partie I.3 de la Loi relativement à l’impôt sur le capital des grandes sociétés, le législateur a choisi d’utiliser les états financiers, en particulier le bilan des sociétés, pour déterminer les valeurs et les éléments qui doivent être ajoutés dans le calcul du capital d’une société[15]. Pour cette raison, il est important de bien comprendre tant l’approche comptable adoptée que les PCGR pour trancher la question qui se pose dans le litige qui oppose les parties, à savoir celle du montant des avances qui doit être ajouté dans le calcul du capital. Le rapport de M. Chlala est très éclairant quant à ces questions et je vais en citer de larges extraits :
+Réponse à la question 1 [16]:
+Les états financiers constituent le principal moyen de communication de l’information financière. Ils contiennent des informations de nature financière portant sur des opérations et des faits présents et passés. Le but principal des états financiers est de permettre à leurs utilisateurs d’évaluer, de comparer et de prédire la rentabilité, la solvabilité, et la liquidité d’une entreprise.
+Les principes comptables généralement reconnus (PCGR) sont des « principes généraux et conventions d’application générale ainsi que des règles et procédures qui déterminent quelles sont les pratiques comptables reconnues à un moment donné dans le temps ». Les PCGR sont en constante évolution. [Soulignage de M. Chlala.]
+Les PCGR canadiens sont prescrits par le Conseil des normes comptables (CNC) qui publie ses recommandations dans le Manuel de l’Institut Canadien des Comptables Agréés (Manuel de [l’]ICCA). Le CNC établit ses recommandations selon un cadre de référence (cadre conceptuel comptable). Les recommandations de CNC portent sur des règles et procédures (normes) de comptabilisation (constatation), de mesure (évaluation) et de présentation d’information (divulgation ou informations à fournir).
+Afin de préparer ses états financiers selon les PCGR, l’entreprise doit se référer au Manuel de l’ICCA. Comme ce dernier ne fournit pas une réponse à toutes les questions comptables, les normes comptables prévoient la possibilité de consulter d’autres sources de référence, notamment celles publiées par le Financial Accounting Standards Board (FASB) et l’American Institute of Certified Public Accountants (AICPA) ainsi que par l’International Accounting Standards Board (IASB).
+Les états financiers comprennent les quatre tableaux (qui constituent le « corps des états financiers »)2 suivants :
+____________
+2 Les mots « tableaux des états financiers » et « corps des états financiers » sont des synonymes.
+§ Un bilan qui est une représentation à une date donnée de la situation financière d’une entreprise sous forme d’actifs (ressources économiques), de passifs (obligations) et de capitaux propres (incluant le capital actions, le surplus d’apport, et les bénéfices non répartis).
+[...]
+Les tableaux des états financiers sont étayés par des informations explicatives et supplémentaires présentés dans des notes complémentaires afin de permettre une meilleure intelligibilité des états financiers.
+a) Les fondements conceptuels des états financiers
+Les fondements conceptuels des états financiers consistent en un cadre sur lequel sont fondées les normes comptables. Ce cadre porte sur (1) des principes comptables, (2) l’objectif des états financiers, (3) des qualités de l’information contenue dans les états financiers et (4) les composantes des états financiers.
+1. Les principes de base pour la constatation, la mesure et la présentation de l’information contenue dans les états financiers comprennent, notamment
+a. La continuité de l’exploitation qui suppose que l’entreprise poursuit normalement ses activités c’est-à-dire qu’elle n’a ni l’intention, ni l’obligation de mettre fin à ses activités ou de réduire sensiblement leur étendue. Selon cette convention, on considère que l’entreprise est en mesure de réaliser les opérations envisagées et d’honorer ses engagements[17] dans un avenir prévisible. Dans le cas contraire, les états financiers doivent être préparés sur une base différente. Ainsi, une société comptabilise, à moins de preuve du contraire, un contrat à long terme en cours d’exécution pour la fabrication et la livraison d’un bien à un client en faisant l’hypothèse qu’elle respectera ses engagements et qu’elle n’est pas en défaut au terme du contrat.
+[...]
+c. L’information complète qui requiert que les états financiers fournissent toutes les informations nécessaires sur des évènements ou des traitements comptables qui ont un impact significatif sur l’évolution des résultats futurs et la situation de l’entreprise.
+d. La prééminence du fond sur la forme est formulée parce que la substance des opérations et autres évènements n’est pas toujours cohérente avec ce qui ressort du montage juridique apparent. Pour que l’information représente d’une manière fiable les opérations et les autres événements qu’elle vise à représenter, il est nécessaire qu’ils soient comptabilisés et mesurés en accord avec leur substance et la réalité économique ou commerciale et non pas, seulement selon leur forme juridique[18]. Ceci veut dire, par exemple que l’entreprise mesure la valeur comptable de ses actifs et ses passifs au bilan en fonction de la substance commerciale de la transaction ou de l’évènement sous-jacent. Il n’existe pas, aux fins comptables, une autre substance commerciale à « découvrir » dans un supplément d’information.
+2. L’objectif des états financiers est de faciliter la prise de décision économique des investisseurs et des créanciers. Pour atteindre cet objectif, il est nécessaire que les tableaux des états financiers soient complets. Par exemple, le bilan doit présenter toutes les ressources économiques, toutes les obligations et tous les capitaux propres d’une société.
+3. De plus, pour être utile, l’information présentée dans les états financiers doit avoir certaines caractéristiques qualitatives. Par exemple, l’information présentée au bilan doit être (1) compréhensible, (2) pertinente (influer sur les décisions des utilisateurs), (3) fiable et (4) comparable. Le Manuel de l’ICCA précise le sens de la caractéristique « fiabilité » en indiquant qu’elle réfère à la présentation d’une image qui est :
+a. Fidèle : ce qui veut dire que la constatation, la mesure et la présentation (divulgation) de faits et d’évènements dans les états financiers sont en accord avec leur substance commerciale, ce qui peut nécessiter « d’examiner un ensemble d’opérations et de faits connexes pris collectivement. »
+b. Vérifiable : [...]
+c. Neutre : [...]
+d. Préparée selon des notions de prudence : ce qui veut dire que « Dans les situations d’incertitude, on procède à des estimations prudentes en vue d’éviter toute surévaluation des actifs, des produits et des gains, ou, inversement, toute sous-évaluation des passifs[19], des charges et des pertes. »
+e. En accord avec la substance et la réalité commerciale ou économique des opérations (transactions) et autres évènements et non pas seulement selon leur forme juridique (voir aussi principe comptable ci-haut).
+4. Les composantes (éléments, rubriques ou postes) à inclure dans les tableaux des états financiers sont définis dans la prochaine section. Un montant qui ne satisfait pas à la définition d’une composante ne peut être présenté dans les tableaux à ce titre (corps des états financiers) et vice versa. Par exemple un compte créditeur ne peut être inclus au bilan à titre de passif s’il ne satisfait pas à la définition d’un passif. De même, un compte créditeur qui répond à la définition d’un passif ne peut être omis du bilan[20]. Dans les deux cas, le total des passifs au bilan serait erroné et ne représenterait pas le montant total des obligations de l’entreprise à une date donnée. La simple présentation par voie de note d’un passif omis du bilan serait non conforme aux PCGR et porterait à confusion.
+b) Les composantes des états financiers
+Les composantes (ou rubriques) sont les principales catégories d’éléments (ou postes) qui sont inclus dans les quatre tableaux des états financiers. Les seules composantes du bilan sont : les actifs, les passifs et les capitaux propres. [Soulignage de M. Chlala.]
+1. Le Manuel de l’ICCA définit les trois composantes du bilan comme suit :
+a. Actifs sont les « ressources économiques sur lesquelles l’entité exerce un contrôle par suite d’opérations ou de faits passés, et qui sont susceptibles de lui procurer des avantages économiques futurs. »
+b. Passifs sont les « obligations qui incombent à l’entité par suite d’opérations ou de faits passés, et dont le règlement pourra nécessiter le transfert ou l’utilisation d’actifs, la prestation de services ou toute autre cession d’avantages économiques. »
+c. Capitaux propres représentent « le droit de propriété sur les actifs d’une entreprise à but lucratif, après déduction de ses passifs. Bien que les capitaux propres d’une entreprise à but lucratif constituent un solde résiduel, ils comportent plusieurs catégorie d’éléments bien définies, par exemple les diverses catégories de capital-actions, le surplus d’apport et les bénéfices non répartis. »
+[...]
+3. Les opérations ou les évènements qui ne répondent pas à la définition de composante sont exclus du bilan ou de l’état des résultats[21]. Ils doivent toutefois être décrits dans les notes complémentaires des états financiers lorsque cette information permet une meilleure compréhension des états financiers. Les montants qui sont ainsi présentés dans ces notes complémentaires ne constituent pas des actifs et des passifs qui ont été omis du bilan préparé selon les PCGR.
+4. Afin de présenter une composante dans les tableaux des états financiers, l’entreprise doit :
+a. Identifier les opérations ou les évènements qui satisfont à la définition d’une composante.
+b. Établir la nature et la substance économique de l’opération ou des évènements à comptabiliser et se conformer aux normes prescrites par le CNC pour de telles opérations en ce qui concerne la constatation, la mesure et la divulgation de l’information. Par exemple, les normes comptables applicables pour comptabiliser un emprunt d’une institution financière et celles applicables pour comptabiliser une avance d’un client sur un contrat à long terme ne sont pas les mêmes étant donné que la substance de ces deux opérations diffère :
+i. Un emprunt d’une institution financière est un passif financier qui doit être réglé (remboursé) par des paiements en liquidités (c’est-à-dire que le débiteur a une obligation financière).
+ii) Une avance d’un client sur un contrat à long terme est un passif non financier qui est réglé (remboursé) par la prestation de services prévus au contrat, et non par le versement d’une somme en liquidités (c’est-à-dire que le débiteur a une obligation de « performance » ou de « résultats » et non une obligation de remboursement en liquidités).
+Ainsi, les tableaux des états financiers doivent inclure l’intégralité des composantes telles que définies dans le Manuel de l’ICCA. Par exemple, le bilan doit inclure tous les actifs, tous les passifs et tous les montants de capitaux propres tels que définis dans le Manuel de l’ICCA. Le bilan doit à sa face même inclure la totalité des ressources financières de l’entreprise. [Soulignage de M. Chlala.]
+c) Le rôle des notes complémentaires
+La présentation (divulgation) d’information additionnelle par voie de notes complémentaires permet de mieux comprendre le contenu des tableaux. Par exemple, une note relative à un montant inscrit à titre de composante du bilan pourrait permettre au lecteur des états financiers de comprendre le contexte des opérations de l’entreprise, d’évaluer le risque d’exploitation de l’entreprise et d’être informé sur l’ampleur des estimations comptables et des incertitudes liées à la mesure de cette composante. C’est pour cette raison que l’on considère que les notes complémentaires font partie intégrante des états financiers.
+Les notes aux états financiers (notes complémentaires) comportent :
+§ des descriptions narratives ou des explications concernant les montants qui sont présentés dans les tableaux,
+§ des cédules qui fournissent du détail sur le calcul de la valeur comptable des composantes présentés dans les tableaux, et
+§ des informations supplémentaires incluant des montants qui ne représentent pas des composantes et qui par conséquent, sont exclus des tableaux, tels les engagements et les éventualités.
+1. Les recommandations du Manuel de l’ICCA (et des autres sources de PCGR, le cas échéant) requièrent la divulgation d’informations supplémentaires par voie de notes. Par exemple, le Manuel de l’ICCA requiert la présentation de certaines cédules par voie de notes complémentaires qui détaillent le calcul d’une composante présentée dans les tableaux. Une entreprise qui ne fournirait pas cette information complémentaire contreviendrait aux PCGR.[22]
+2. Les cédules complémentaires peuvent porter sur la mesure d’une composante spécifique (i.e. un élément d’actif, de passif ou de capitaux propres) en détaillant :
+a. Les éléments semblables qui ont été regroupés.
+i. Par exemple, une cédule peut identifier de façon distincte les montants qui entrent dans le calcul de la composante « autres passifs » présentée au bilan. Dans cette situation, chacun de ces montants à payer ou courus représente en soi un passif. Dans un tel cas, l’objet de la cédule n’est pas de présenter des passifs non comptabilisés au bilan puisque les soldes des divers montants à payer sont cumulés pour établir un montant unique sous le libellé de « autres passifs » dans le bilan, lequel est additionné aux autres postes de passif pour établir le total du passif au bilan.
+b. Les débits et les crédits qui constituent des comptes séparés dans les livres comptables qui ont été pris en compte aux fins du calcul de la valeur comptable d’un actif, d’un passif ou d’un élément de capitaux propres. Ces débits et ces crédits ne sont pas en soi des actifs, des passifs ou des éléments de capitaux propres mais ont simplement été pris en compte aux fins de déterminer la mesure de la valeur comptable d’un actif, d’un passif ou d’un élément de capitaux propres. Dans ce cas, une cédule peut expliquer la mesure de la valeur comptable d’éléments présentés au bilan en détaillant les soldes des comptes débiteurs et créditeurs. Par exemple, le solde du compte d’immobilisation au coût d’acquisition ainsi que l’amortissement cumulé doivent être divulgués, mais seul le montant net représente un actif présenté au bilan.
+3. Tel que précisé au paragraphe 1000.25 du Manuel de l’ICCA, les notes complémentaires qui « servent à clarifier ou à mieux expliquer certains postes présentés dans les tableaux, ne sont pas considérées comme une composante, bien qu’elles fassent partie intégrante des états financiers ». Le paragraphe 1000.41 énonce, à propos de la constatation : « La constatation d’un élément consiste à inclure le montant en cause dans les totaux de l’un ou l’autre des états financiers [...] ». Le paragraphe 1000.42 ajoute : « La constatation s’entend de l’inclusion d’un élément dans l’un ou plusieurs états financiers particuliers et non de sa présentation dans les notes complémentaires ». Ainsi, le Manuel de l’ICCA stipule de façon non équivoque que les notes complémentaires ne peuvent contenir un élément de passif, d’actif, ou de capitaux propres qui n’est pas constaté au bilan. [Soulignage de M. Chlala.]
+En somme :
+§ L’entreprise ne peut exclure des composantes des tableaux et se limiter à les divulguer par voie de notes. Par exemple, l’entreprise doit présenter au bilan tous les éléments qui répondent à la définition d’actifs ou de passifs. En d’autres mots, le bilan doit être complet. Le total des actifs et le total des passifs apparaissant au bilan ne peuvent être sous-évalués parce que cela donnerait une image incomplète et fausserait les ratios qu’utilisent les investisseurs et les créanciers pour évaluer la santé financière d’une entreprise.
+§ Les cédules qui expliquent la mesure de composantes selon les PCGR ne remplacent nullement ces dernières. Par exemple, si un passif présenté au bilan fait spécifiquement référence à une note qui détaille le calcul de ce passif, l’information contenue dans cette note ne fournit pas une autre mesure de la valeur comptable du passif. S’il y a un passif, il doit être présenté au bilan et non seulement être divulgué par voie de notes. La mesure de la valeur comptable de cet élément de passif doit être celle qui est incluse dans le total de la composant « passif » au bilan (total du passif au bilan). Le bilan doit fournir une information sur le total des ressources économiques et des obligations de l’entreprise et ne peut pas être « corrigé » par une note. [Soulignage de M. Chlala.]
+§ Le paragraphe 1000.42 du Manuel de l’ICCA spécifie que les notes complémentaires « ont pour objet soit de fournir des précisions sur des éléments constatés dans les états financiers, soit de fournir des informations au sujet d’éléments qui ne satisfont pas aux critères de constatation et qui, de ce fait, ne sont pas constatés dans les états financiers ». [Soulignage de M. Chlala.]
+§ Les notes ne peuvent servir à camoufler des composantes omises du bilan ou à réévaluer une composante du bilan. Les cédules et les conciliations complémentaires présentées par voie de notes ne remplacent pas les composantes présentées dans le bilan et ne donnent pas une autre mesure de ces composantes. En d’autres mots, comme le précise le paragraphe 1400.11 du Manuel de l’ICCA, les notes « fournissent des renseignements pour clarifier ou pour expliquer davantage les postes des états financiers. Ces notes ne doivent pas être utilisées en substitut du traitement comptable adéquat…et n’ont pas pour effet de rectifier les traitements comptables qui ne sont pas conformes aux PCGR. » [Soulignage de M. Chlala.]
+d) Les principes relatifs à la constatation, à la mesure et à la divulgation des informations des composantes du bilan
+La présentation des trois composantes du bilan (actifs, passifs et capitaux propres) est le résultat de l’application des PCGR portant sur la constatation et la mesure des opérations et des évènements.
+1. L’entreprise applique les procédures suivantes lorsqu’elle prépare son bilan, dans l’ordre indiqué : [...]
+2. La bonne mesure des composantes au bilan n’est pas suffisante pour évaluer la performance d’une entreprise. Les états financiers doivent aussi contenir des informations complémentaires, notamment des cédules qui présentent le détail du calcul de composantes significatives. Ceci est une exigence des règles comptables qui ont pour objet de satisfaire au critère d’information complète[.] Toutefois, la présentation de telles cédules complémentaires ne devrait pas servir de prétexte pour sous-estimer un actif ou un passif du bilan.
+Par exemple, la présentation distincte du compte débiteur « immobilisations au coût » et du compte créditeur de contrepartie « amortissement cumulé » n’a pas pour objet de corriger la mesure de la composante « immobilisations »17. Que cette divulgation se fasse par voie d’une note spécifique ou par une présentation dans le bilan du compte et de sa contrepartie côte à côte, elle ne modifie ni le montant des immobilisations, ni le montant total des actifs (soit les ressources économiques) constatés au bilan. En d’autres mots, peu importe l’endroit où cette divulgation est faite, l’entreprise doit présenter dans son bilan un actif mesuré au montant net du coût des immobilisations moins l’amortissement cumulé.
+____________
+17 En anglais, le compte de contrepartie est désigné sous le libellé « contra account » [.]
+En somme,
+§ Le paragraphe 1000.41 du Manuel de l’ICCA précise que la constatation « est le fait d’inclure un élément dans les états financiers d’une entité. La constatation d’un élément consiste à inclure le montant en cause dans les totaux de l’un ou l’autre des états financiers et à décrire l’élément au moyen d’un libellé (par exemple, stocks ») ». [Soulignage de M. Chlala.]
+§ Le paragraphe 1000.42 précise de plus que la constatation « s’entend de l’inclusion d’un élément dans un ou plusieurs états financiers particuliers et non de sa présentation dans les notes complémentaires. Ces notes ont pour objet de fournir des précisions sur des éléments constatés dans les états financiers, soit de fournir des informations au sujet d’éléments qui ne satisfont pas aux critères de constatation et qui, de ce fait, ne sont pas constatés dans les états financiers ». [Soulignage de M. Chlala.]
+§ Le paragraphe 1000.53 du Manuel de l’ICCA stipule que la mesure est « l’opération qui consiste à déterminer la valeur à laquelle un élément sera constaté dans les états financiers ». [Soulignage de M. Chlala.]
+Ainsi, le bilan doit être complet et inclure toutes les composantes telles que définies par le Manuel de l’ICCA. L’entreprise ne peut pas constater un actif ou un passif par voie de notes complémentaires. La présentation par voie de notes complémentaire [sic] fournit du détail sur la constatation et la mesure de la valeur comptable des composantes, par exemple un élément d’actif tel les stocks. [Soulignage de M. Chlala.]
+Question 2 :
+Comment les éléments d’actif et de passif afférents aux contrats à long terme, (dressés conformément aux PCGR), sont-ils constatés, mesurés et présentés dans les états financiers de Bombardier Inc.?
+Réponse à la question 2 :
+Bombardier Inc. (Bombardier) mesure l’actif ou le passif afférant [sic] aux contrats à long terme en cours d’exécution selon les PCGR canadiens en se référant aux normes comptables spécifiques du référentiel américain, parce [que] le Manuel de l’ICCA ne contient pas de recommandation précise à cet effet.
+1. Pour être conforme aux PCGR canadiens, Bombardier doit mesurer les composantes du bilan afférant [sic] aux contrats à long terme en cours d’exécution sur la base de la norme américaine SOP81-1 et en conformité avec les recommandations américaines de l’Audit and Accounting Guide : Construction Contractors de l’AICPA, de la façon suivante :
+a. l’actif, qui représente des sommes éventuellement exigibles des clients pour des travaux effectués, est mesuré au montant de « l’excédent des coûts sur la facturation »19, et
+____________
+19 La facturation est un terme général qui comprend des montants reçus du client et des montants à recevoir du client sur un contrat à long terme. On utilise quelquefois le mot avance pour signifier les montants reçus avant le début des travaux (voir réponse à la question 3).
+b. le passif, qui représente des sommes non gagnées qui nécessiteront l’engagement des coûts dans le futur, est mesuré au montant de « l’excédent de la facturation sur les coûts ». [Soulignage de M. Chlala.]
+2. Le SOP81-1 a été développé pour prendre en compte le contexte d’exploitation particulier des contrats à long-terme [sic], tels ceux réalisés par les entreprises qui oeuvrent dans le secteur de l’aéronautique. Les règles comptables spéciales ainsi développées prennent en compte la nature particulière des contrats des contrats [sic] à long terme qui peuvent s’échelonner sur plusieurs exercices et qui peuvent nécessiter l’engagement des [sic] dépenses significatives pour exécuter les travaux prévus par les contrats.
+3. Bombardier mesure la valeur comptable des actifs et des passifs afférents à chaque contrat à long terme en cours d’exécution en accord avec les règles du SOP 81-1 et divulgue en note l’information complémentaire qui détaille le calcul de ces valeurs en prenant en compte le cadre conceptuel comptable du Manuel de l’ICCA. Par exemple :
+a. Bombardier présente son bilan en conformité avec l’hypothèse de la continuité d’exploitation, qui suppose qu’elle n’a ni l’intention, ni l’obligation de mettre fin à ses contrats à long terme et qu’elle sera en mesure d’honorer ses engagements envers ses clients. Par conséquent, il est tout à fait justifié pour Bombardier, dans une situation où elle n’est pas en défaut au terme [sic] du contrat, de mesurer le passif afférent aux contrats à long terme en cours d’exécution aux seuls montants qui n’ont pas été utilisés pour la prestation de services relatifs aux contrats sous-jacents. En effet, la comptabilisation au passif des avances au montant net en vertu des PCGR repose sur le fait que les avances, des passifs au moment de leur réception, sont réglées par la prestation des services prévus au contrat.
+Si Bombardier n’avait pu faire l’hypothèse de la continuité d’exploitation, elle ne serait pas en mesure d’honorer ses engagements envers ses clients, c’est-à-dire que les sommes reçues deviendraient remboursables. Dans cette situation, elle aurait présenté :
+i. un passif financier correspondant à la totalité des montants reçus de clients qui reflèterait le fait que ces montants devraient alors leur être remboursés en liquidités, et
+ii. un actif de stocks de produits en cours qui reflèterait le fait que ces produits sont disponibles à la vente sur le marché (et non au client en question), et qui serait mesuré au montant de la totalité des coûts encourus.
+b. Bombardier présente son bilan en conformité avec le principe de la primauté de la substance sur la forme juridique.
+Ainsi, bien que d’un point de vue strictement juridique l’avance reçue pourrait être considérée comme n’étant légalement réglée qu’au moment de la livraison, le traitement comptable en vertu des PCGR qui considère l’avance comme étant réglée par la prestation des services prévus au contrat, au fur et à mesure de l’engagement des coûts reflète la substance commerciale de la transaction, établie dans le contexte de la continuité de l’exploitation.
+4. La mesure de l’actif et du passif afférant [sic] aux contrats à long terme en cours d’exécution utilisée par Bombardier est également conforme avec l’enseignement de la comptabilité. En effet, les volumes de comptabilité utilisés dans l’enseignement universitaire considèrent que les composantes du bilan pour les contrats à long terme en cours d’exécution représentent soit :
+a. un actif qui est mesuré au montant net du total des coûts encourus sur les travaux en cours (qui représente un compte et non une composante du bilan), moins le total de la facturation (qui représente un compte de contrepartie et non une composante du bilan), ou
+b. un passif qui est mesuré au montant net du total de la facturation (qui représente un compte et non une composante du bilan), moins le total des coûts encourus sur les travaux en cours (qui représente un compte de contrepartie et non une composante du bilan).
+5. Bombardier mesure les actifs et les passifs afférant [sic] aux contrats à long terme en cours d’exécution en conformité avec les pratiques comptables utilisées par les entreprises oeuvrant dans le secteur aéronautique. Ces pratiques sont principalement décrites dans les états financiers de sociétés américaines, puisque la grande majorité des entreprises oeuvrant dans l’industrie aérospatiale sont américaines.
+6. Ces pratiques comptables :
+a. sont en harmonie avec le cadre conceptuel comptable du Manuel de l’ICCA puisqu’elles donnent préséance à la substance commerciale sur la forme juridique,
+b. s’inspirent fortement du référentiel américain portant sur la constatation, la mesure et la présentation des actifs et des passifs liés aux contrats à long terme,
+c. sont fondées sur des normes qui sont bien ancrées et qui ont été formulées dans les années 1950,
+d. sont décrites de façon très détaillée dans deux documents américains publiés par l’AICPA, soit l’Audit and Accounting Guide : Construction Contractors (qui est mis à jour annuellement) qui inclut le Statement of position 81-1, Accounting for Performance of Construction-Type and Certain Production-Type Contracts (SOP 81-1),
+e. n’ont pas été remises en question lors de l’analyse par le Financial Accounting Standard [sic] Board (FASB) de la comptabilisation des contrats de vente (voir par exemple l’extrait du Accounting Research Manager présenté en annexe).
+Exemple simplifié – Comptabilisation des contrats à long terme par Bombardier
+Supposons que Bombardier, au 31 janvier 200X, a les deux contrats suivants pour la fabrication et la livraison d’un avion : un contrat avec un solde créditeur (Contrat X) et un contrat avec un solde débiteur (Contrat Y) :
+(en $)
+Coûts encourus
+Argent reçu
+Montant net débiteur (créditeur)
+Montant à l’actif du bilan
+Montant au passif du bilan
+Contrat X
+80
+100
+(20)
+0
+(20)
+Contrat Y
+80
+50
+30
+30
+0
+Total
+160
+150
+30
+(20)
+L’Audit and Accounting Guide : Construction Contractors, qui inclut la norme SOP81-1 (norme américaine), en plus d’exiger le calcul au net de la valeur comptable de l’actif et du passif indiqué ci-dessus, recommande de divulguer les chiffres qui ont été pris en compte aux fins du calcul de l’actif « stocks » qui figure au bilan. Cette note complémentaire donne l’ampleur des coûts engagés, soit 160$, et l’ampleur des montants reçus des clients, soit 130$ (20$ étant constaté au passif). Voici la NOTE complémentaire qui présente la mesure de la valeur comptable de la composante « stocks » au bilan :
+STOCKS Coûts encourus (80$ + 80$) : 160$
+Moins : Montants d’avances reçus
+(150$ - 20$ montré au passif) : 130$
+Stocks (montré à l’actif) : 30$
+Ainsi, en vertu de la norme américaine qu’utilise Bombardier, les actifs et les passifs liés à des contrats à long terme en cours d’exécution doivent être mesurés selon des règles précises qui spécifient comment calculer leur valeur comptable respective. Ainsi :
+§ Seul le montant de 20$ sur le 150$ total reçu représente la valeur comptable de l’avance qui doit figurer au passif de son bilan au 31/01/200X.
+§ Seul le montant de 30$ sur les 160$ de coûts encourus représente l’actif (poste « Stocks ») qui doit figurer à son bilan au 31/01/200X
+§ Le montant reçu de 130$ indiqué dans la note complémentaire sur les stocks n’est pas une composante du bilan et ne fait ni partie du passif, ni partie de l’actif.
+§ La mesure au net est obligatoire et a été confirmée lors de l’analyse des contrats de vente par le normalisateur américain qui a prévu une exception spécifique pour les contrats de construction à long terme.
+§ La mesure au net reflète le fait que Bombardier réalise deux contrats en cours d’exécution qui implique [sic] des droits et des obligations relatifs à la fabrication et à la livraison d’avions. Il ne s’agit pas de contrats exécutoires (ou un échange de promesses). Ainsi, selon les PCGR :
+o Pour le Contrat Y, l’avance (qui est mesurée initialement au montant d’argent reçu du client) est complètement réglée (elle est nulle) puisque Bombardier a utilisé ces fonds pour exécuter les travaux prévus selon les clauses du contrat, en engageant des coûts pour la fabrication et la livraison d’un avion qui sont supérieurs au montant de l’avance initiale reçue du client.
+o Pour le Contrat X, l’avance est partiellement réglée seulement (il reste un solde de $20 de passif non financier au bilan) puisque Bombardier n’a utilisé qu’une portion de ces fonds pour les coûts de fabrication de l’avion. [Soulignage de M. Chlala.]
+Notons que si au 31 janvier 200X, Bombardier avait été en défaut pour ces deux contrats, elle aurait présenté deux composantes au bilan : (1) un actif représentant des stocks de produits en cours (actif non financier) mesuré à la valeur minimale (le plus bas du coût de 160$ et de la valeur de réalisation) et (2) un passif représentant le montant qui serait réclamé par ses deux clients qui incluerait [sic] les sommes déjà versées de 150$ (passifs financiers) plus, le cas échéant, une pénalité. Une telle présentation donnerait une mesure très différente des ressources économiques (actif) et des obligations (passif) de Bombardier dans son bilan de 31 janvier 200X, ce qui reflèterait la substance commerciale de la situation qui est l’obligation de repayer au comptant les sommes reçues des clients (obligation qui n’existe pas dans la situation où il n’y a pas de défaut donnant lieu à un droit légal à une telle réclamation).
+Par conséquent :
+§ L’avance initiale, comptabilisée comme passif, perd son caractère et sa nature d’avance et de passif au fur et à mesure que des coûts sont encourus. Ainsi, pour le Contrat Y, il n’y a plus d’avance puisque la mesure selon les PCGR de l’obligation relative aux avances est nulle à la date du bilan.
+§ Bombardier comptabilise ses contrats à long terme en vertu des PCGR en reflétant correctement ses opérations qui requièrent non seulement la livraison d’un avion mais aussi sa fabrication pour un client identifié.
+À tire d’illustration de l’application de l’exemple ci-dessus, voici les composantes du bilan (actif, passif et avoir) de Bombardier tiré des états financiers vérifiés au 31 janvier 2000 préparés selon les PCGR (tous les chiffres sont en million[s] de dollars) :
+ACTIF
+Espèce et quasi-espèces 334,6$
+Comptes clients :
+Sociétés apparentées 365,9
+Autres 47,0
+Stocks (note) 3 492,7
+Immobilisations 789,9
+Placements 2 686,8
+Autres éléments d’actif ___157,9
+7 874,8$
+PASSIF
+Comptes fournisseurs et frais courus :
+Sociétés apparentées 289,2$
+Autres 1 896,2
+Avances et facturations progressives en
+excédant [sic] des coûts y afférents 1 482,4
+Dette à long terme 960,4
+Impôts sur le revenu reportés __502,7
+5 130,9
+Avoir des actionnaires _2 743,9
+7 874,8$
+Voici l’extrait de la note complémentaire sur les stocks :
+Matières premières et produits en cours 115,9$
+Contrats à long terme et programmes d’aéronautique 5 446,5
+Produits finis 461,0
+6 023,4
+Avances et facturations progressives (2 530,7)
+3 492,7$
+Observations concernant le bilan et la note complémentaire :
+Ni les montants reçus indiqués dans la note sur les stocks (soit 2 530,7$), ni les coûts encourus au montant brut (soit 6 023,4$) ne font partie du total du passif et de l’actif respectivement.
+Ainsi, au 31 janvier 2000 :, [sic]
+§ Le montant du passif représentant des avances est de 1 482,4$.
+§ Le cumul des montants reçus par Bombardier est de 4 013,1$ (soit 1 482,4$ qui représente le passif et 2 530,7$ qui représente un montant déduit dans le calcul de la valeur comptable des Stocks).
+§ La mesure de la composante Stocks est détaillée par voie de notes. Par conséquent, le poste Stocks de 3 492,7$ a été calculé à partir des coûts encourus sur les « contrats à long terme et programmes d’aéronautique » de 5 446,5$, moins le montant de contrepartie reçue de 2 530,7$. Il ne s’agit pas d’un regroupement de composantes (i.e. actifs ou passifs) du bilan. Ce montant de 2 530,7$ indiqué dans la note sur les stocks n’est pas un passif et ne fait pas partie du total du passif du bilan. [Soulignage de M. Chlala.]
+En somme Bombardier comptabilise ses droits et ses obligations découlant de ses contrats à long terme en constatant et en mesurant le passif ou l’actif en conformité avec les PCGR applicables aux contrats à long-terme [sic].
+En vertu de ces PCGR, le montant des avances correspond au passif qui figure au bilan et seulement à ce montant. La divulgation dans la note sur les stocks des montants reçus n’a pour objet unique que de présenter l’historique des transactions connexes, et ne peut en aucun cas représenter un passif ni recaractériser les sommes reçues des clients à titre d’avances. [Soulignage de M. Chlala.]
+Question 3 :
+Quelle est la valeur comptable des avances qui ont été consenties à Bombardier Inc. à la fin de l’année et qui figurent à son bilan, dressé selon les PCGR, pour chacune des années d’imposition 1990 à 2006 ?
+Réponse à la question 3
+Il n’existe pas de définition du mot « avance » dans le Manuel de l’ICCA dans le contexte de la comptabilisation des contrats à long terme selon les PCGR. Par conséquent, il faut consulter d’autres sources de référence pour établir le sens de ce mot dans ce contexte.
+1. Il existe des définitions du mot « avance » dans le contexte de la présentation des contrats à long terme au bilan préparé selon les PCGR. Parmi ces définitions, notons les suivantes :
+a. Paragraphe 41 de la norme internationale IAS 11 Contrats de construction qui définit le mot « avances » comme étant « les montants reçus par l’entrepreneur avant que les travaux correspondants n’aient été exécutés » (emphase [sic] ajoutée). Selon cette définition :
+i. les avances et les travaux exécutés forment un tout soit une seule composante à inclure au bilan,
+ii. si aucun travail n’a été exécuté, le coût est nul et le montant d’avance est le montant brut reçu du client,
+iii. si les « travaux correspondants » sont exécutés, il n’y a plus d’avance.
+b. Annexe 5 du Construction Industry Audit Technique Guide (ATG) publié par l’Internal Revenue Service (US) qui définit comme suit deux termes particuliers dans le contexte des contrats à long terme :
+i. “Advance Payments: Payments generally made to a prime contractor prior to the performance of any work under a contract. These payments help the contractor cover developmental and preliminary costs incurred prior to commencement of work[23].”
+ii. “Advance on Contracts: A current liability on the books of contractors where billings or contracts exceed accumulated cost”.
+Notons que les deux définitions ci-dessus reflètent la substance économique des contrats de construction à long terme selon laquelle les travaux effectués et les paiements des clients ne forment qu’une seule « unité de comptabilisation », et que par conséquent, l’avance est déterminée et mesurée en prenant en compte les travaux effectués.
+2. De plus, selon le cadre théorique et les normes comptables en vigueur (PCGR), Bombardier doit mesurer la valeur comptable des avances qui devrait figurer au bilan pour un contrat à long terme en cours d’exécution, en faisant le net des montants reçus du client et des coûts des travaux correspondants.
+3. Par conséquent, si les coûts dépassent les montants reçus sur un contrat à long terme, Bombardier n’a aucun passif. Toutefois, si les montants reçus dépassent le coût des travaux correspondants, seul l’excédent représente l’avance qui doit figurer au passif puisqu’aux fins comptables, l’exécution des travaux constitue un règlement des avances. Par conséquent, selon les PCGR, l’avance initiale perd sa nature d’avance une fois que le contrat à long terme est en cours d’exécution.
+4. Le Dictionnaire de la comptabilité de Ménard, publié par l’ICCA fournit la définition générale suivante du mot « avance », qui est formulée dans le cadre d’un contrat général de vente (en général) : « Somme à valoir sur le prix d’un contrat de services ou de biens, versée avant que le contrat ne soit exécuté, les services rendus ou les biens livrés ».
+a. La définition du Dictionnaire de la comptabilité de Ménard ne porte pas sur l’application des PCGR dans le contexte spécifique de la comptabilisation des contrats à long terme, mais dans le contexte plus général de vente de biens. Les PCGR qui s’appliquent à la mesure de l’élément de passif relatif aux avances reçues en vertu de contrats à long terme ne sont toutefois pas incohérents avec cette définition. Ainsi, en vertu des PCGR relatifs aux contrats à long-terme et tel qu’expliqué précédemment, l’avance est réglée au fur et à mesure que des travaux sont exécutés et des coûts sont engagés. Par conséquent, seul l’excédent des montants reçus sur les coûts engagés correspond à « une somme versée avant que le contrat ne soit exécuté ou les services rendus ». Sur un plan strictement juridique, le contrat pourrait ne pas être considéré avoir été entièrement exécuté avant la livraison des biens, ce qui donnerait une mesure de l’obligation (i.e. le montant au passif du bilan) relative aux avances reçues totalement différente de celle prévue par les PCGR.
+5. Bombardier aurait présenté un bilan trompeur qui ne satisferait pas aux PCGR si elle avait mesuré le passif au montant brut du cumul des encaissements obtenus des clients ou l’actif au montant brut du cumul des coûts engagés (deux chiffres présentés dans la note complémentaire sur les stocks).
+6. Bombardier présente les contrats à long terme au bilan selon des méthodes comptables qui sont comparables avec les autres entreprises qui opèrent dans le même secteur d’activité en Amérique du Nord (voir aussi point 4 de la réponse à la question 2 de la page 12 de ce rapport).
+7. Selon les états financiers vérifiés de Bombardier des exercices de 1990 à 2006, établis selon les PCGR, les montants des avances sont présentés dans le passif du bilan, préparé selon les PCGR, à la date de clôture de l’exercice en question. Par conséquent,
+a. pour les années 1990 à 1996, aucune avance ne figure au bilan de Bombardier puisque les coûts encourus sur les produits en cours dépassent le montant des avances; et
+b. pour 1997 à 2006, la valeur comptable des avances pour chacune des années est reflétée par le chiffre du passif non financier intitulé « Avances et facturations progressives en excédent des coûts y afférents » (AFPEC). Bombardier indique dans la note portant sur les principales conventions comptables concernant l’évaluation des stocks et la constatation des revenus (produits) que « les avances et les facturations progressives en excédent des coûts y afférents sont présentées à titre d’éléments de passif ».24 Selon les états financiers de Bombardier, une seule composante de passif non financier est montrée au bilan relativement aux avances et facturations progressives reçues sur ces contrats à long terme, soit les AFPEC. La composante du bilan AFPEC s’élève à :
+____________
+24 Bombardier Inc. utilise deux termes pour signifier les facturations de ses contrats à long terme : facturations proportionnelles et facturation [sic] progressives.
+Exercices financiers terminés :
+Valeur comptable de la composante AFPEC au bilan :
+31 janvier de 1990 à 199[5]
+Nil
+31 janvier 1997
+249 400 000 $
+31 janvier 1998
+332 100 000 $
+31 janvier 1999
+1 246 100 000 $
+31 janvier 2000
+1 482 400 000 $
+31 janvier 2001
+1 304 100 000 $
+31 janvier 2002
+1 067 800 000 $
+31 janvier 2003
+1 025 900 000 $
+31 janvier 2004
+883 000 000 $
+31 janvier 2005
+1 084 000 000 $
+31 janvier 2006
+832 000 000 $
+Question 4 :
+Pour l’une ou l’autre des années d’imposition 1990 à 2006, le montant qui figure dans les notes complémentaires aux états financiers de Bombardier Inc. représente-il la valeur comptable des avances qui lui ont été consenties à la fin de l’année et qui doit figurer au passif du bilan de Bombardier Inc. dressé conformément aux PCGR ?
+Réponse à la question 4 :
+Tel que mentionné précédemment, pour établir le montant du passif ou le montant de l’actif découlant de contrats à long terme de Bombardier, il faut se référer au bilan seulement et non à la note complémentaire qui donne des informations additionnelles sur la mesure de la valeur comptable des stocks qui figure à l’actif.
+1. La note complémentaire de Bombardier
+a. porte sur le détail du calcul de la valeur comptable de l’actif présenté au bilan,
+b. ne peut, selon les PCGR, avoir pour objet de présenter un passif qui n’aurait pas été comptabilisé au bilan.
+2. La note complémentaire est toutefois utile puisqu’elle permet aux utilisateurs des états financiers d’évaluer les hypothèses et les estimations de la direction qui entrent dans le calcul du montant de l’actif (stocks).
+3. La pratique en vigueur, de mesurer l’actif et le passif d’un contrat à long terme en faisant le net du cumul des avances et du cumul des coûts encourus, est conforme aux PCGR.
+Ainsi, les notes complémentaires ne fournissent pas de l’information sur des passifs omis du bilan. La valeur comptable des avances est montrée au bilan à la composante AFPEC et s’additionne aux autres passifs pour arriver au total du passif du bilan. Le cumul des avances et des facturations progressives ne représente pas la valeur comptable des avances qui lui ont été consenties à la fin de l’année et ne peut figurer à titre de passif du bilan de Bombardier. Le cumul des avances et des facturations progressives et le cumul des coûts encourus sur les contrats à long terme et les programmes d’aéronautique présentés dans la note complémentaire sur les stocks [Soulignage de M. Chlala.] :
+§ donnent une indication « historique » des montants reçus des clients et des coûts encourus par Bombardier, qui ne sont pas respectivement un passif et un actif en soi, [Soulignage de M. Chlala.]
+§ constituent une seule « unité de comptabilisation », c’est-à-dire que les deux cumuls ne peuvent être séparés et que le net est le seul passif et la seule mesure de la valeur comptable du passif relatif aux avances et facturations progressives reçues sur les contrats à long terme et devant figurer au bilan.
+Question 5 :
+En quoi la norme internationale IAS 11 d’avant 1995 se distingue-t-elle de la norme américaine SOP 81-1 qu’utilise Bombardier Inc. pour fins de présentation de ses bilans à la date de clôture des exercices 1990 à 2006 ?
+Réponse à la question 5 :
+Bombardier Inc. (Bombardier) utilise la norme du SOP 81-1 contenue dans l’Audit and Accounting Guide : Construction Contractors de l’AICPA. Cette norme diffère de l’ancienne version de l’IAS 11 Construction Contracts, mais elle est semblable à la version de l’IAS 11 présentement en vigueur en ce qui concerne la constatation et la mesure du passif et de l’actif du bilan pour des contrats à long terme.
+Voici un bref aperçu de l’évolution de la norme IAS 11 :
+1. L’IAS 11 Construction Contracts de l’International Accounting Standards Committee (IASC), maintenant International Accounting Standards Board (IASB), a été publié en décembre 1993 et est entré en vigueur pour les exercices débutant le 1er janvier 1995. Cette norme a remplacé l’IAS 11 Accounting for Construction Contracts publié en mars 1979 et qui a été en vigueur jusqu’en 1994.
+2. L’ancienne norme IAS 11 (en vigueur avant 1995) offrait le choix aux sociétés (1) de mesurer le passif au montant brut des facturations intermédiaires ou (2) de mesurer le passif en faisant le net du cumul des facturations intermédiaires et du cumul des coûts encourus sur des travaux en cours.
+3. L’IASC a décidé d’éliminer le choix de présenter les facturations intermédiaires comme un passif sans prendre en compte les coûts encourus sur un contrat. Selon mon point de vue, cette décision était fondée puisque le choix de mesurer le passif (ou obligation de résultats) au montant des facturations intermédiaires sans prendre en compte les coûts encourus était incompatible avec le cadre conceptuel de la comptabilité et venait en contradiction avec les pratiques comptables généralement reconnues.
+[...]
+Ainsi, depuis 1995, les PCGR en vigueur aux Etats-Unis et sur la scène internationale ont les mêmes recommandations quant à la mesure de l’actif et du passif découlant d’un contrat à long terme : les deux requièrent de considérer comme un tout indissociable le cumul de la facturation intermédiaire et le cumul des coûts encourus sur des travaux en cours. Il y a donc consensus qui oblige les sociétés de mesurer l’actif ou le passif découlant des contrats à long terme en faisant le net de ces deux cumuls, qui ne sont pas en soi des actifs et des passifs.
+[...]
+Question 6 :
+Y a-t-il un lien entre la méthode de constatation des revenus liés aux contrats à long-terme [sic] et la caractérisation des montants reçus de clients à titre d’avance ?
+Réponse à la question 6 :
+1. Les produits (revenus) constituent une composante de l’état des résultats, tandis que l’avance reçue pour un contrat à long terme est un montant qui entre dans le calcul d’une composante du bilan (un actif ou un passif, tel que discuté précédemment)[.]
+2. L’état des résultats et le bilan ont des objectifs différents :
+a. Le bilan est une représentation à une date donnée de la situation financière d’une entreprise sous forme de ressources économiques (actifs), d’obligations (passifs) et d’éléments de capitaux propres (avoir). Le bilan fournit une information sur le patrimoine et l’endettement de l’entreprise.
+b. L’état des résultats présente le résultat des opérations (transactions) pour une période donnée. L’état des résultats fournit une information sur la performance financière et la rentabilité de l’entreprise.
+3. Étant donné que les objectifs du bilan et de l’état des résultats diffèrent, les règles comptables pour la constatation, la mesure des composantes qui sont présentées dans ces deux tableaux peuvent aussi différer. Par exemple, les règles comptables requièrent généralement la constatation d’un passif au bilan lorsque l’entreprise contracte une obligation alors qu’un produit (revenu) est généralement constaté lorsqu’une opération (transaction) est complétée.
+4. Le SOP 81-1, qui porte sur la comptabilisation des contrats à long terme prévoit deux méthodes acceptables pour la constatation des produits (revenus) :
+a. la méthode de l’avancement des travaux (« percentage of completion method ») en vertu de laquelle les produits (revenus) sont constatés au fur et à mesure que les travaux sont exécutés, et
+b. la méthode de l’achèvement des travaux (« completed contract method ») en vertu de laquelle les produits (revenus) ne sont constatés qu’au moment où l’ensemble des travaux prévus au contrat sont complétés.
+5. L’ARB 45, sur lequel se fonde le SOP 81-1, précise que, quelque [sic] soit la méthode utilisée pour la constatation des produits (revenus)[24], le montant des avances constituant le passif doit être mesuré selon une seule méthode, soit au montant net des avances reçues en excédent des travaux exécutés sur le contrat.
+6. Ainsi, dans le cas de la constatation des produits (revenus) à l’achèvement des travaux ("completed contract method"), méthode suivie par Bombardier pour la comptabilisation des contrats liés aux programmes aéronautiques, l’ARB 45 stipule ce qui suit :
+When the completed-contract method is used, an excess of accumulated costs over related billings should be shown in the balance sheet as a current asset, and an excess of accumulated billings over related costs should be shown among the liabilities, in most cases as a current liability. If costs exceed billings on some contracts, and billings exceed costs on others, the contracts should ordinarily be segregated so that the figures on the asset side include only those contracts on which costs exceed billings, and those on the liability side include only those on which billings exceed costs … [ARB 45.12]
+[14] Il est utile aussi de reproduire certains extraits tirés du rapport de M. Thornton (pièce I-1). Bien entendu, il existe beaucoup de recoupement entre les deux opinions et je ne reproduirai que les passages contradictoires avec le rapport de M. Chala qui me semblent les plus importants. Toutefois, comme M. Thornton a fourni un résumé de son opinion, qui apparaît aux pages 4 à 8 du rapport, je le reproduirai ici. Les soulignages sont les miens, sauf lorsque le contraire est indiqué:
+Executive Summary of Opinion
+07. GAAP for long-term construction contracts has been a specialized area since 1955 and even before that. However, financial statement concepts in the CICA Handbook state that a major, general[25] objective of accounting for any phenomenon is to help investors predict the ability of a company to earn income and generate cash flows in the future in order to meet its obligations and to generate a return on its investment, by providing information about the company’s economic resources and obligations and by providing information about changes in those resources. This objective is achieved when the company accounts for transactions and events and presents them in a manner that conveys their economic substance rather than necessarily their legal or other form.
+08. In my opinion, a company’s accounting would not[26] comply with GAAP if it presented nothing but the difference between (a) inventories and (b) advances and progress billings. Paragraph 25 (page 13) illustrates why by showing financial statement excerpts of two hypothetical companies that both report $1 as inventories net of advances and progress billings. To summarize, a hypothetical Company A has work-in-process inventory of $1,000; it has advances and progress billings of $999; a hypothetical Company B has work-in-process inventory of only $2; it has advances and progress billings of only $1:
+Company A
+Company B
+Inventory
+1,000
+2
+Less Advances and Progress Billings
+999
+1
+Inventory Net of Advances and Progress Billings
+1
+1
+09. I argue that Company A is more successful in generating contract business and has less inventory-based borrowing capacity than B; these inferences would not be possible unless the companies showed the components of the net $1 amounts, either on the face of their balance sheets or in notes to their financial statements. Disclosing only the net amount could also obscure changes in success and borrowing capacity over time for the same company. Thus, to comply with the general standards of GAAP, the companies would need to disclose the component amounts (inventories; advances and billings) either on the face of their balance sheets or in the notes to the financial statements. If they did not[27] disclose the component amounts on the face of the statements, then disclosure in the notes would be required under GAAP; such financial statements would not[28] comply with GAAP if the notes were omitted. Moreover, the component amounts disclosed in the note under GAAP would have the same import as if they had been disclosed on the companies’ balance sheets directly.
+10. I next perform a more technical analysis of GAAP relating to construction accounting. During the Period North American companies often referred to US accounting literature to justify the accounting policy of netting progress billings with work-in-progress inventories. Their practice, in turn, constituted Canadian GAAP not[29] because the author of the US publication was an authoritative accounting standard setter but because, prior to 2003, a company could justify using an accounting principle that was “generally accepted by virtue of its use by a significant number of Canadian companies.” The US publication distinguished advances from progress billings, saying the advances are [sic] “generally are made to provide a revolving fund and are not usually applied as partial payment until the contract is nearly or fully completed. However, advances that are definitely regarded as payments on account of work in progress should be shown as a deduction from the related asset, and the amounts should be disclosed.” This statement suggests that it is permissible to net the Amounts with inventories, provided the company discloses them separately from progress billings; but management would need to exercise judgment in “definitely regarding” the Amounts as being akin to progress payments.
+11. After 2003, Canadian companies could no longer justify using an accounting principle just because it was “generally accepted by virtue of its use by a significant number of Canadian companies” but there was little or no authoritative specific Canadian literature on how to apply accounting principles relating to construction accounting. Henceforth, it would be preferable to refer to International Accounting Standard No. 11 Construction Contracts as a basis for complying with Canadian GAAP, because the International Accounting Standards Board was (and is) an authoritative standards setter, albeit not a Canadian one. (This will change in 2011 when Canada joins many other countries in adopting International Financial Reporting Standards as GAAP). International Accounting Standard No. 11 was much stricter in distinguishing advances from progress billings, requiring separate disclosure of advances. It said progress billings but not advances should be netted with inventories, though it did not specifically prohibit advances from being netted with inventories.
+12. The question of whether Bombardier’s financial statements complied with GAAP after 2003 then attains some saliency. I would rely on the judgment of the auditors and the company and conclude that they did, even though Bombardier’s accounting for the contracts I reviewed did not comport strictly with the textbook accounting for contracts called the “completed contract method” or the “percentage of completion method” and Bombardier continued to aggregate advances and progress billings rather than making separate disclosures of the advances. Possibly, the auditors did not see any substance to the “no-invoicing” character of advances, which is one feature that distinguishes advances from progress billings. Also, progress billings are normally made when progress is made; the advances would tend to flow to Bombardier regardless or the degree of progress on a contract. Still, I respect the judgment of the auditors on this point. I am uneasy, however, about Bombardier’s practice of aggregating progress billings with advances and not making separate disclosure of the advances.
+13. Next I consider the meaning of the term “reflected in financial statements” by performing some original research based on contexts of the 382 occurrences of the term “reflect” as a root-word in the CICA Handbook. I conclude that under GAAP the verb “reflect” generally means “represent, recognize, depict, include, convey, or incorporate.” I also argue that any amounts disclosed in financial statement notes that give details about the components of amounts shown in the financial statements are also reflected in financial statements, as elements of the statements to which they are cross-referenced.
+14. Finally, I elaborate on the role of financial statement notes. I show that the notes are integral to financial statements. The notes themselves are not “elements” of the financial statements; only items like assets, liabilities, revenues and expenses are financial statement elements. Financial statement notes, however, often provide additional information about elements, or set out the components of elements that are shown on the face of the statements. The Amounts are elements even though they do not appear on the face of the balance sheet because in the notes they are disclosed as components of an element, or components of a difference between two elements (inventories net of advances and progress billings) and hence the Amounts are reflected on the balance sheet.
+15. On page 33 (paragraph 55) I explain why I think that the Amounts are analogous to draw-downs of lending facilities, i.e., the Amounts are substitutes for debt financing to support the manufacturing of work-in-progress inventory.
+16. On page 55 I answer the four questions posed by Justice:
+1. According to GAAP, what is the nature and substance of the payments made by Bombardier’s customers pursuant to the contracts?
+The Amounts are in substance debt financing to support the manufacturing of airplanes included in work-in-progress inventory.
+2. Were the Appellant’s balance sheets (and financial statements) in accordance with GAAP with respect to those payments?
+Yes, at least until 2003 when the definition of GAAP changed in Canada. Even after 2003, I have no reason to assert that the financial statements did not comply with GAAP.
+3. Are the advances, as detailed in the notes to the financial statements, “reflected” in the balance sheets of Bombardier?
+Yes. The Amounts are reflected, incorporated, or depicted in the balance sheet by dint of the balance-sheet references to financial statement notes; the notes, in turn, give details relating to the Amounts.
+4. Are the notes to the financial statements an integral part of the balance sheets?
+Yes.
+Dispositions législatives pertinentes
+[15] Voici le texte des dispositions législatives pertinentes :
+Calcul des valeurs et montants
+181(3) Pour déterminer la valeur comptable d’un des éléments d’actif d’une société ou tout autre montant en vertu de la présente partie afférent au capital d’une société, à sa déduction pour placements, à son capital imposable et à son capital imposable utilisé au Canada pour une année d’imposition ou afférent à une société de personnes dans laquelle une société a une participation :
+a) la consolidation et la méthode de comptabilisation à la valeur de consolidation ne peuvent être utilisées;
+b) sous réserve de l’alinéa a) et sauf disposition contraire de la présente partie, les montants à utiliser sont les suivants :
+(i) soit ceux qui figurent au bilan présenté aux actionnaires de la société — s’il s’agit d’une société qui n’est ni une compagnie d’assurance à laquelle le sous-alinéa (ii) s’applique, ni une banque — ou aux associés de la société de personnes, ou, si un tel bilan n’est pas dressé conformément aux principes comptables généralement reconnus ou si aucun bilan n’est dressé, ceux qui y figureraient si un tel bilan était dressé conformément à ces principes,
+[...]
+Restriction
+(4) Sauf intention contraire évidente, aucune des dispositions de la présente partie n’a pour effet d’exiger l’inclusion ou de permettre la déduction d’une somme dans le calcul du capital d’une société, de sa déduction pour placements, de son capital imposable ou de son capital imposable utilisé au Canada pour une année d’imposition, dans la mesure où cette somme est incluse ou déduite, selon le cas, dans le calcul de ces montants en vertu, en conformité ou en application de toute autre disposition de la présente partie.
+Capital imposable
+181.2 (2) Le capital imposable d'une société, sauf une institution financière, pour une année d'imposition est égal à l'excédent éventuel de son capital pour l'année sur sa déduction pour placements pour l'année.
+(3) Le capital d’une société, sauf [...] correspond à l’excédent éventuel du total des éléments suivants :
+a) le capital-actions de la société (ou, si elle est constituée sans capital-actions, l’apport de ses membres), ses bénéfices non répartis, son surplus d’apport et tout autre surplus à la fin de l’année;
+b) ses réserves pour l’année, sauf dans la mesure où elles sont déduites dans le calcul de son revenu pour l’année en vertu de la partie I;
+[...]
+c) les prêts et les avances qui lui ont été consentis à la fin de l’année;
+[...]
+Déduction pour placements
+(4) La déduction pour placements d’une société, sauf une institution financière, pour une année d’imposition correspond au total des montants dont chacun représente la valeur comptable à la fin de l’année d’un élément d’actif de la société qui est, selon le cas :
+a) une action d’une autre société;
+b) un prêt ou une avance consenti à une autre société, sauf une institution financière;
+[...]
+[Je souligne.]
+Position de Bombardier
+[16] L’avocat de Bombardier a d'abord rappelé que l’impôt sur les grandes sociétés, annoncé dans le budget du ministre Wilson le 27 avril 1989, avait pour but de réduire le déficit fédéral. Aux pages 41 et 42 des documents budgétaires (Cahier de jurisprudence de l’intimée, onglet 1), on définit l’assiette fiscale comme comprenant notamment les prêts et avances :
+Impôt sur les sociétés non financières : Dispositions détaillées
+L’assiette de l’impôt sera déterminée à partir des comptes de la société, établis conformément aux principes comptables généralement reconnus et présentés sur une base non consolidée. On se servira des soldes à la fin de l’exercice courant.
+Cette assiette comprendra l’avoir des actionnaires de la société, les surplus et les réserves, de même que les prêts et avances à la société et certaines autres dettes.
+Les surplus comprendront les surplus gagnés et le surplus de capital, la plus-value de réévaluation et les autres surplus. Les impôts sur le revenu courant payés ou payables à toutes les autorités et les dividendes versés par la société avant la fin de l’exercice seront exclus. Cependant, les provisions pour impôt sur le revenu différé et les provisions pour éventualités, pour placements, pour stocks et autres provisions du même genre (autres que celles qui sont déduites en vertu de la partie I de la loi) seront incluses dans le calcul du capital de la société.
+Tous les prêts et avances consentis à une société, de même que les autres dettes représentées par des obligations, débentures, hypothèques ou autres titres de la société, seront inclus dans le calcul de son capital. Les autres éléments de passif de la société, y compris les comptes créditeurs, qui auront été en souffrance pendant plus de 365 jours avant la fin de l’année d’imposition de la société seront également inclus dans son capital.
+[Je souligne.]
+a) Position principale
+[17] Selon l’avocat de Bombardier, les dispositions législatives qui ont été adoptées par le Parlement canadien sont conformes à la politique fiscale annoncée par le ministre des Finances Wilson. L’avocat invoque deux arguments à l’encontre de la cotisation du ministre. Tout d’abord, comme argument principal, il convient que les sommes que les clients ont remises à Bombardier à titre d’acompte sur le prix d’achat des avions et du matériel ferroviaire que Bombardier devait livrer constituent des avances aux fins de la Loi, mais soutient que le montant de ces avances doit être celui déterminé au passif du bilan de Bombardier, à savoir les « avances et facturations progressives en excédent des coûts y afférents ». De façon subsidiaire, il soutient que les sommes reçues ont été incluses dans le revenu de Bombardier et qu’elles en ont été ensuite déduites. À l’égard de l’année d’imposition 2000 notamment, la totalité des avances des clients a été incluse dans le revenu en vertu de l’alinéa 12(1)a) de la Loi et elle a été déduite en entier en vertu de l’alinéa 20(1)m) de la Loi. Il s’agit de sommes visées par l’alinéa 181.2 (3)b) et elles sont donc exclues, en raison de l’application de cet alinéa, du calcul du capital. Étant donné ce résultat, cet alinéa devrait avoir préséance sur l’alinéa 181.2(3)c) de la Loi.
+[18] Selon l’avocat de Bombardier, un prêt constitue une obligation financière qui doit être remboursée alors que l’avance constitue une obligation non financière qui doit servir à financer les coûts de construction, soit les travaux en cours, et, en vertu des PCGR applicables aux contrats de construction de longue durée, les avances devaient être diminuées du coût des stocks parce que Bombardier a jugé que les ressources financières que représentaient les avances avaient été utilisées comme paiements pour les travaux en cours. Par conséquent, le montant de ces avances à la fin de son exercice financier n’était pas le total des sommes reçues de ses clients, mais plutôt le solde de ces avances non utilisé pour financer le coût de ses produits.
+[19] D’après l’avocat, les dispositions pertinentes de la Loi quant au calcul du capital exigent que l’on s’en remette aux PCGR non seulement pour ce qui est de la nature des éléments qui devaient être inclus dans le calcul du capital, mais aussi pour ce qui est des montants ou des valeurs qui figurent au bilan.
+[20] À l’appui de la règle selon laquelle c’est la caractérisation aux fins comptables qui doit prévaloir, l’avocat de Bombardier a cité plusieurs décisions. Notamment, il a cité la décision Crédit Ford du Canada Lée c. Canada, [2006] A.C.I. no 331 (QL), DTC 3424 (angl.), dans laquelle le juge en chef Bowman a conclu que le traitement comptable devait prévaloir sur le traitement juridique quant aux actions privilégiées de catégorie C rachetables au gré du détenteur. Dans les états financiers, ces actions avaient été présentées comme une dette de la société plutôt que comme du capital-actions. Voici ce que le juge en chef Bowman a écrit aux paragraphes 26 et 32 de sa décision :
+26 La partie I.3 ne porte pas sur le calcul du revenu, fonction que les cours protègent jalousement. Elle se rapporte à l’impôt sur le capital et à l’assiette du calcul de cet impôt. Il n’est pas surprenant que le législateur précise que nous devons tenir compte de la façon dont les comptables mesurent cette assiette. Comme le juge Archambault l’a dit dans la décision Oerlikon Aérospatiale Inc. v. The Queen, [1998] 4 C.T.C. 2821, à la p. 2838 :
+[...] je crois que les principes comptables doivent server à déterminer non seulement la valeur mais aussi la nature des éléments mentionnés au paragraphe 181.2(3) de la Loi. La valeur que l’on retrouve dans un bilan n’a un sens que lorsqu’on la rattache à un intitulé.
+[...]
+32 Ce qui se dégage de ces décisions et, en fait, du sens ordinaire du paragraphe 181(3) c’est que la qualification comptable des termes figurant au bilan doit être acceptée lorsqu’il s’agit de déterminer les éléments constitutifs du capital de la société pour l’application de la partie I.3. Lorsqu’il a expressément attribué aux principes comptables une fonction qui est quelque peu unique en matière fiscale, le législateur voulait faire en sorte que l’on fasse preuve de retenue vis-à-vis de la qualification comptable des éléments du capital figurant aux bilans de la société.
+[Je souligne.]
+[21] Cette décision a été confirmée par la Cour d’appel fédérale dans l’arrêt Crédit Ford du Canada Ltée c. Canada, [2007] A.C.F. no 826 (QL), 2007 DTC 5431 (angl.). Voici comment s’est exprimé le juge Ryer au paragraphe 27 : « le bilan […] doit être accepté pour le calcul de l’IGS payable par la société » (Je souligne.) Ici, comme il a été reconnu par les parties ainsi que par leur expert respectif que les états financiers de Bombardier avaient été préparés selon les PCGR, le montant des avances qui devrait être ajouté dans le calcul du capital de Bombardier est le montant qui apparaît au passif au poste « avances et facturations progressives en excédent des coûts y afférents ». Selon l’avocat, la haute direction de Bombardier a considéré les sommes versées par les clients de Bombardier comme des paiements à titre d’acompte relativement à des travaux en cours et par conséquent il était approprié d’appliquer la règle apparaissant dans le AICPA Audit and Accounting Guide : Construction Contractors (Guide), au paragraphe 6.19 : « […] Advances that are definitely regarded as payments on account of work in progress should be shown as a deduction from the related asset, and the amounts should be disclosed ». (Je souligne.) (Voir pièce A‑7, onglet 3, page 157.)
+[22] La démarche suivie par Bombardier est semblable à celle de la contribuable dans Terasen Gas (Vancouver Island) Inc. v. The Queen in Right of the Province of British Columbia, 2006 BCSC 1696. Dans cette affaire, la contribuable avait reçu une somme de cent millions de dollars du gouvernement fédéral pour la construction d’un gazoduc en 1991. Cette somme avait été déduite du coût du gazoduc. Voici ce que la Couronne a soutenu (au paragraphe 22) : « The Crown argues that they [les versements] were still "accounted for" in the balance sheet because they were used to net down the assets. » La réponse du juge Smith de la Cour suprême de la Colombie-Britannique a été la suivante (au paragraphe 23) [30]:
+23 In my respectful view, that submission is beside the point. The payments at issue may indeed be "accounted for" in the sense that they had to be considered in arriving at the total value of the petitioner's capital. But the resulting accounting determination was that their value as capital was nil and no amount was included for them as part of the total capital shown in the financial statements. The evidence is that this is the result GAAP mandates in these circumstances.
+[Je souligne.]
+[23] De l’avis de l’avocat de Bombardier, l’intimée et son expert ont tort de soutenir que l’on doit utiliser le montant apparaissant dans le compte « avances », et qui a été utilisé dans les notes complémentaires pour le calcul de la valeur des stocks, puisque ce montant y figure non pas pour représenter le montant de la dette ou de l’élément de passif, mais plutôt pour le calcul d’un actif. Il a rappelé les principes comptables suivants énoncés dans le manuel de l’ICCA, au chapitre 1000, qui traite des fondements conceptuels des états financiers, au paragraphe .42[31] :
+La constatation s’entend de l’inclusion d’un élément dans un ou plusieurs états financiers particuliers et non de sa présentation dans les notes complémentaires. Ces notes ont pour objet soit de fournir des précisions sur des éléments constatés dans les états financiers, soit de fournir des informations au sujet d’éléments qui ne satisfont pas aux critères de constatation et qui, de ce fait, ne sont pas constatés dans les états financiers.
+[Je souligne.]
+[24] Dans le même ordre d’idées, il a cité le chapitre 1400, « Normes générales de présentation des états financiers », au paragraphe .07, où il est écrit :
+L’entité fournit l’information d’une façon qui traduit clairement la nature et l’ampleur, de même que les modalités significatives, des opérations en cause. […] L’entité présente les montants de façon que les utilisateurs des états financiers n’aient pas à les recalculer pour déterminer les montants qui auraient dû être fournis.
+[Je souligne.]
+[25] Au paragraphe 1400.11 du même Manuel, on dit :
+Les notes et les tableaux complémentaires auxquels renvoient les états financiers fournissent souvent des renseignements essentiels pour clarifier ou pour expliquer davantage les postes des états financiers. Ces notes et tableaux ont la même importance que si l’information ou les explications qu’ils contiennent étaient présentées dans le corps même des états financiers, mais ils ne doivent pas être utilisés en substitut du traitement comptable adéquat.
+[Je souligne.]
+Donc le montant qui doit apparaître comme étant la valeur des avances est le montant qui apparaît dans le corps du bilan au passif et non pas les montants utilisés pour calculer la valeur nette des stocks dans les notes complémentaires.
+[26] Les faits dans les présents appels ressemblent beaucoup à ceux qu’on trouve dans l’affaire Oerlikon Aérospatiale Inc. (précitée, note infrapaginale 1), où j’ai confirmé la cotisation par laquelle le ministre avait ajouté dans le calcul du capital d’Oerlikon les montants des avances tel qu’ils apparaissaient dans les notes complémentaires aux fins du calcul des stocks. Avec raison, l’avocat de Bombardier a relevé que la question en litige dans Oerlikon était de savoir si la Loi s’appliquait à l’égard des avances de type acompte ou si, comme le prétendait l’avocat d’Oerlikon, son application devait se limiter aux avances de type prêt. Dans cette affaire, j’ai conclu que l’alinéa 181.2(3)c) s’appliquait tant à un type qu’à l’autre. Par contre, le débat n’avait pas porté sur le montant des avances. En effet, le témoin expert d’Oerlikon avait offert cette opinion dans son rapport[32] :
+Monsieur Blanchette confirme à la page 4 de son rapport que le bilan d'OA adopte cette présentation:
+Selon cette information toutes les sommes reçues par OA de WO et de Martin Marietta Corporation avaient été utilisées dans les travaux en cours et les autres frais relatifs aux contrats. Ces sommes, cependant, étaient toujours considérées comme avances selon les principes comptables énoncés précédemment et présentées comme telle aux états financiers.
+[Je souligne.]
+[27] Dans sa plaidoirie, l’avocat de Bombardier a aussi traité de la décision qu’a rendue la Cour du Québec dans l’affaire Bombardier c. Sous-ministre du Revenu du Québec, 2010 QCCQ 3036, où la cour a eu à trancher une question semblable à celle dans les présents appels. Il fallait, à l’égard des années 1992 à 2001, calculer le capital aux fins de la taxe sur le capital versé prévue à l’article 1131 de la Loi sur les impôts. Le juge de la Cour du Québec a conclu qu’aux fins de cette loi le montant des avances était celui que l’on trouvait dans les notes complémentaires. Voici ce qu’il a écrit au paragraphe 73 :
+73 À cet égard, le Tribunal rejoint l'opinion de l'experte Diane Paul et conclut que même si les montants ont été utilisés par Bombardier pour compenser les coûts encourus pour réaliser le contrat, ils demeurent des avances qui sont potentiellement remboursables suivant les termes du contrat.
+[Je souligne.]
+[28] Bombardier a interjeté appel devant la Cour d’appel du Québec. Elle prétend que le juge de première instance a adopté l’approche juridique relativement à la définition du terme « avance », au lieu de l’approche comptable. C’est ce qui ressort de l’analyse suivante qu’a faite ce juge aux paragraphes 37, 48, 65, 69 et 70 de sa décision :
+37 Tant que la livraison n'est pas effectuée, les montants reçus par Bombardier, conformément à ce qui est prévu au contrat, demeurent des avances et font partie du capital versé de la Société, entre autres, parce qu'elles sont remboursables. Dans l'optique des contrats de vente conclus par Bombardier, Mme Paul rejette l'idée de « progress billing ». Elle reconnaît qu'il est important de considérer la substance économique ou commerciale du contrat, mais ajoute, par ailleurs, que la substance juridique est tout aussi importante.
+[...]
+48 Compte tenu de la définition de l'expression « états financiers », qui se retrouve à l'article 1130 de la Loi sur les impôts, il est évident que les PCGR sont importants. L'expert Chlala les définit comme suit au cours de son témoignage :
+« [...] un ensemble des principes généraux et convention d'application générale ainsi que des règles et procédures qui déterminent quelles sont les pratiques comptables reconnues [...] »
+[...]
+65 Bien que Bombardier utilise ces montants pour compenser les coûts encourus, force est de constater qu'aux termes du contrat ceux-ci ne lui sont définitivement acquis que lorsque le contrat est complètement exécuté, c'est-à-dire à la livraison.
+[...]
+69 Si, comme le prévoit l'article 16.3 (c), les montants en cause peuvent être retenus et appliqués « contre » les coûts et les dépenses en cas de terminaison, conformément aux clauses 9.8, 16.1 et 16.2 du contrat, c'est dire qu'avant, même si Bombardier s'est servie de ces montants, ils ne lui étaient pas acquis.
+70 Dans l'éventualité où il n'y a pas de terminaison du contrat avant la livraison, il faut conclure que ces montants demeurent des avances jusqu'à la livraison, moment qui marquera également la terminaison du contrat, cette fois en raison de son exécution. Ce n'est qu'alors que Bombardier peut les conserver et les appliquer définitivement sur le prix de vente.
+[Je souligne.]
+[29] L’avocat soutient que, contrairement à ce qu’a écrit le juge de la Cour du Québec au paragraphe 48, les états financiers ne sont pas seulement importants, ils sont déterminants. Selon l’avocat, M. Thornton adopte une interprétation semblable à celle de la Cour du Québec en concluant que les avances demeurent des avances tant qu’il n’y a pas eu livraison des avions ou des produits.
+b) Position subsidiaire
+[30] L’avocat de Bombardier a reconnu que son argument selon lequel l’alinéa 181.2(3)b) devait avoir préséance sur l’alinéa c) ne constituait pas son meilleur argument. Toutefois, il réitérait sa position en se fondant sur la décision Pretty v. Solly citée dans Canfor Ltd. v. British Columbia (Minister of Finance), 1975 Carswell BC 253, [1976] C.T.C. 429, [1976] 3 W.W.R. 519 :
+38 These [certaines règles d’interprétation] have been considered and stated in a number of authorities. In Pretty v. Solly (1859) 26 Beav 606 ( 53 ER 1032) it is thus stated at page 610:
+The general rules which are applicable to particular and general enactments in statutes are very clear, the only difficulty is in their application. The rule is, that wherever there is a particular enactment and a general enactment in the same statute, and the latter, taken in its most comprehensive sense, would overrule the former, the particular enactment must be operative, and the general enactment must be taken to affect only the other parts of the statute to which it may properly apply.
+[Je souligne.]
+Position de l’intimée
+[31] L’intimée a produit des plaidoiries écrites, dont je citerai certains extraits (sans les notes infrapaginales) :
+10. L’intimée soutient que les sommes reçues par Bombardier ont la substance comptable d’avances et que ces montants « figurent » à son bilan (en anglais « are reflected » in the balance sheet).
+[...]
+Définition d’avances
+12. Pour déterminer la substance économique des paiements reçus par une entité, il faut se référer à l’intention qu’avaient les parties au contrat. Ici, le contrat-type en cause (Jersey, onglet 69 du Compendium) est très explicite pour permettre de conclure que les sommes reçues par Bombardier ne pouvaient être que des avances au contrat. Les dispositions du contrat sont très importantes, comme nous le verrons subséquemment.
+13. Selon le dictionnaire de la comptabilité et de la gestion financière de Louis Ménard, une avance (« advance payment ») serait une « [s]omme versée avant que les marchandises ou produits vendus n’aient été livrés ou les services fournis ».
+14. Dans Terminology for Accountants, on définit « avance » comme suit :
+1. A payment that is to be accounted for by the recipient at some later date, e.g. payment for expenses to be incurred.
+2. A payment made on account of, but before completion of a contract, or before receipt of goods or services.
+15. Ensuite, la norme internationale IAS-11, à laquelle M. Chlala réfère, fait aussi une distinction entre les avances et la facturation intermédiaire à son paragraphe 41. Elle définit ces deux concepts comme suit :
+41. Les retenues correspondent au montant des facturations intermédiaires qui ne sont pas payées tant que certaines conditions spécifiées dans le contrat n’ont pas été satisfaites ou que certains défauts n’ont pas été rectifiés. Les facturations intermédiaires sont les montants facturés pour les travaux exécutés sur un contrat, qu’elles aient ou non été réglées par le client. Les avances sont les montants reçus par l’entrepreneur avant que les travaux correspondants n’aient été exécutés.
+16. Les avances reçues par Bombardier l’ont été avant que les travaux correspondants aient été exécutés.
+17. Ces définitions ont été constamment reprises par la jurisprudence.
+18. Tout d’abord, la Cour d’appel de l’Ontario a été appelée à définir le terme « avance » dans le cadre de l’analyse de la taxe provinciale sur le capital. La définition qu’elle a utilisée est la suivante :
+« payment [made] before … the completion of an obligation for which it is to be paid » : Dictionary of Business and Finance (1957), p. 9.
+19. De même, la Cour d’appel du Québec dans Journaux Trans-Canada (1996) Inc. a appliqué la définition d’avances suivante :
+Une avance selon les paragraphes 1136(1)b) et d) est un paiement effectué en vue de l’exécution éventuelle d’une obligation réciproque.
+20. Le terme « avances » aux fins de la Partie I.3 a également été défini dans l’affaire Oerlikon.
+21. Comme dans la présente affaire, Oerlikon utilisait la méthode de l’avancement des travaux et constatait les revenus au moment de la livraison des unités. Dans cette affaire Oerlikon n’avait pas « présenté le montant total des avances de ses clients comme étant une dette portée à son passif mais elle l’a plutôt déduit de la valeur de ses travaux en cours portée à son actif ». Les avances reçues par l’appelante étaient identifiées dans la note 4 du bilan et décrites comme « Advances from Customers ».
+22. Bien que cette affaire portait sur l’application des normes internationales qui offraient aux entités un choix sur la méthode de présentation, Oerlikon a présenté les avances reçues en utilisant une méthode identique à celle proposée par le guide Accounting and Audit Guide – Construction Contract ou le SOP 81-1.
+23. Pour une des années en litige, Oerlikon avait inscrit l’excédent des avances au passif de son bilan. Toutefois, pour une autre des années d’imposition en litige, les avances ont réduit les travaux en cours. La Cour d’appel indique à ce sujet :
+Dans l’un ou l’autre des cas, cette somme ne fut pas reflétée aux revenus puisque, selon les principes comptables généralement reconnus, une avance n’est pas comptabilisée comme revenu avant que les biens ou services y afférents soient livrés ou rendus ou que la méthode de progression des travaux justifie son inclusion.
+24. La Cour d’appel a repris la définition suivante d’avances, qu’elle avait utilisée dans TransCanada Pipelines Ltd. pour conclure que les paiements :
+[…] fell within dictionary definitions of « advance » as a « payment [made] beforehand or in anticipation » and a « payment made before … the completion of an obligation for which it is to be paid » Dictionary of Business and Finance, (1957), p.9.
+25. Elle conclut par la suite que :
+L’appelante a été incapable de démontrer en quoi les avances ici en cause se distinguent des avances sur lesquelles s’est penchée la Cour d’appel de l’Ontario dans l’affaire TCPL. Dans l’un ou l’autre des cas, il s’agit de paiements effectués à l’avance, en vue de l’exécution éventuelle de l’obligation réciproque qui en découle.
+26. Finalement, la Cour d’appel indique qu’une avance est à la disposition de l’appelante et fait partie de ses ressources financières :
+Une avance soit-elle du type avance-acompte ou avance-prêt a comme effet de mettre à la disposition de celle ou celui qui en bénéficie la somme d’argent qu’elle représente. Ici, les avances faisaient partie intégrante des ressources financières à la disposition de l’appelante à la clôture de son année d’imposition 1989 selon les états financiers qu’elle a produits et rien dans le texte législatif ou dans la politique fiscale qui mena à son adoption n’indique que le législateur aurait voulu les exclure de l’impôt de la partie I.3.
+27. Ce qui ressort donc de l’ensemble des décisions mentionnées précédemment est l’accomplissement de l’obligation réciproque. Dans le cas de Bombardier, cette obligation est, selon le contrat, la livraison de l’avion. Il est impossible pour le client de Bombardier de prendre possession du bien avant qu’il ne soit complété et prêt pour la livraison. L’obligation de Bombardier est donc de livrer un bien qui répond aux spécifications du contrat.
+28. Les jugements Oerlikon Aérospatiale Inc. ont été appliqués et suivis dans les affaires Ford Credit (CAF, par. 25) et Manufacturers Life Insurance Co. (CAF).
+[...]
+31. La définition offerte par M. Thornton dans son témoignage est au même effet [que] celle contenue dans les dictionnaires comptables et dans la nouvelle norme IAS-11. Selon lui, il s’agit d’un montant reçu avant que les travaux ne soient exécutés. Dans le cas de Bombardier, M. Thornton est d’avis que l’exécution des travaux équivaut à la livraison, tel que le prévoit le contrat (Rapport de M. Thornton, par. 55). D’ailleurs, Bombardier ne constate aucun revenu avant cette étape.
+32. La position de l’appelante est que les avances perdent leur nature au fur et à mesure que les travaux sont exécutés. Pour faire cette affirmation, l’expert de Bombardier n’a pu s’appuyer sur aucune source, autre que sa vision personnelle. Or, le témoignage de M. Thornton l’a révélé, l’IAS-11 traite les avances et la facturation de façon distincte, et ne fait jamais le net des avances avec les coûts encourus, que ce soit à l’actif ou au passif.
+33. Ni le document provenant de l’IRS, ni le Accounting and Audit Guide – Construction Contract, ni le SOP 81-1 ne permet de faire le net entre les avances et les coûts. Ces deux documents ne traitent que de facturation progressive.
+34. Voici quelques définitions de « facturation progressive » :
+« An interim billing based upon partial completion of a contract[.]»
+“Mode de facturation fondé sur le degré d’avancement des travaux à exécuter. »
+« Amounts billed, in accordance with the provisions of a contract, on the basis of progress to date under the contract.”
+35. Les montants reçus par Bombardier ne correspondent pas à ces définitions de facturation progressive puisqu’en vertu du contrat, aucun travail n’a été effectué.
+36. Le seul paragraphe de l’ensemble des documents qui permet de faire le net entre des avances et les coûts encourus est la section 6.19 du Guide, qui permet de faire le net dans une situation qui ne vise pas celle des appelants.
+37. Bombardier soutient que lorsque les avances réduisent les travaux en cours, il ne peut plus s’agir d’avances. Tout d’abord, autrement qu’une convention de présentation, il n’existe aucun support dans la littérature, ni aucun concept théorique qui supporte la position que les avances doivent réduire les coûts. De plus, cette prétention est surprenante puisque Bombardier réfère, en tout temps et à tout moment, à ces montants en utilisant la terminologie « avances ».
+38. D’ailleurs, même si un suivi comptable est fait des avances et des coûts par avion, le contrat ne prévoit aucunement que les fonds doivent être utilisés pour payer les coûts de construction. Les avances sont des fonds mis à la disposition de Bombardier, qui font partie de ses ressources financières disponibles à la fin de l’année.
+39. La décision rendue dans l’affaire SNC Technologies est importante, puisque récente (août 2008), tout comme celle rendue par la Cour du Québec dans Bombardier Inc. (onglet 2 du cahier de jurisprudence de l’intimée). Dans la cause SNC Technologies, la Cour a conclu que des montants reçus à titre de « Progress payments regarded as interim payments » constituaient néanmoins des avances au sens de l’alinéa 181.2(3)c) de la Loi.
+40. Peu importe que les avances réduisent les stocks ou qu’elles soient au passif, elles constituent des « avances » sur le plan comptable. Ce n’est qu’une question de présentation (par. 77 du rapport de M. Thornton).
+Les montants reçus par Bombardier sont des avances
+41. Les montants reçus par Bombardier sont des avances :
+ Contrairement à la facturation progressive qui est chargée au client une fois les travaux accomplis, les montants reçus par Bombardier le sont avant que les travaux ne soient accomplis (ou avant que l’obligation réciproque ne soit exécutée). Ce qui correspond aux définitions d’avances fournies par les dictionnaires comptables, les tribunaux et la norme internationale IAS-11.
+ L’exécution réciproque selon le contrat est la livraison de l’avion. D’ailleurs, Bombardier reconnaît cela puisqu’elle ne constate aucun revenu avec l’accomplissement de cette étape. D’ailleurs, le chapitre 3400, plus spécifiquement aux paragraphes 3400.06 à 3400.15, établit clairement le lien entre la constatation du revenu et la performance des travaux.
+ Les comptes dans lesquels sont accumulés les montants reçus se nomment « avances » et non pas « facturations progressives ».
+ L’appelante a admis que les montants reçus étaient comptabilisés dans les comptes d’avances uniquement et non dans des comptes de contrepartie et qu’elles s’y accumulaient jusqu’au moment de la livraison. Les montants reçus de EDC et de L.R. Jet étaient également comptabilisés dans des comptes identifiés comme « avances ».
+ D’ailleurs, les documents soumis dans le cadre de l’interrogatoire de M. Pierre Lafontaine, Vice-président fiscalité chez Bombardier, qualifie les montants reçus de ses clients d’« avances comptables clients ».
+ Jusqu’en 1995, les états financiers de Bombardier référaient simplement au terme « avances » et ne mentionnaient aucunement les expressions « facturations progressives » ou « facturations proportionnelles ». M. Paré nous a indiqué dans son témoignage que la substance de ces comptes n’a pas changé après 1995, seulement la terminologie utilisée.
+ Ainsi, jusqu’en 1995, Bombardier était d’avis que les montants étaient des avances.
+ Comme dans Autobus Thomas (CAF), « rien ne permet d’ignorer l’intention des parties; rien ne permet de refuser de donner à leurs transactions le sens et la portée qu’elles entendaient leur donner, et qu’elles leur ont d’ailleurs effectivement donné en pratique en en faisant état comme telles dans leur[s] livres comptables ». D’ailleurs, dans la présente affaire, tant les vérificateurs que la haute gestion de Bombardier a [sic] accepté le terme « avances » comme caractérisation de la substance comptable de l’opération.
+ Ce fait démontre que seul M. Nadi Chlala prétend que les montants en cause ne sont pas des avances puisqu’un nombre important de comptables ont continuellement identifié ces sommes comme des avances. Si l’avance avait perdu sa qualification, ces experts auraient cessé de l’identifier comme telle.
+42. Le contrat type de la division Aéronautique de Bombardier (onglet 69 du compendium de documents) appuie cette conclusion.
+ Le contrat prévoit que l’obligation de Bombardier en vertu du contrat est de livrer un avion à son client.
+ L’article 4 du contrat prévoit le prix de vente.
+ L’article 5 prévoit le mode de paiement du prix de vente. Le paragraphe 5.1 indique qu’un acompte doit être versé sur chacun des avions. Au moment du paiement de cet acompte, aucun travail n’a été exécuté relativement à l’avion.
+ Le paragraphe 5.2 du contrat prévoit une cédule de paiements. Dans le contrat de Jersey, cet échéancier de paiement prévoit :
+It is contemplated that Buyer shall make the following payments for each Aircraft:
+(a) 5% of the estimated Purchase Price upon execution of the Purchase Agreement;
+(b) 7.5% of the estimated Purchase Price twelve (12) months prior to its Scheduled Delivery Date;
+(c) 7.5% of the estimated Purchase Price six (6) months prior to its Scheduled Delivery Date;
+(d) the balance of the Aircraft Purchase Price on or before the Delivery Date of such Aircraft.
+Payments referred to in paragraphs b. and c. above are to be made on the first day of the applicable month.
+ Selon le témoignage de M. Paré, il est possible que les pourcentages dans certains contrats soient différents. D’ailleurs, à son avis d’opposition, Bombardier parle d’un contrat type ou [sic] 10% du prix de vente serait payable à la signature, 30% du prix de vente 12 mois avant la livraison et un autre 30% du prix de vente 6 mois avant la livraison.
+ Aucun témoin n’a établi que l’échéancier de paiement est en lien avec le progrès des travaux.
+ Le contrat ne prévoit pas que Bombardier doit utiliser les avances expressément pour payer les coûts de construction de l’avion.
+ D’ailleurs, Bombardier demeure le seul propriétaire de l’avion jusqu’à ce que le client ait payé la totalité du prix de vente, c’est-à-dire jusqu’à la livraison (article 5.4 du contrat) :
+Bombardier shall remain the exclusive owner of the Aircraft, free and clear of all rights, liens, charges or encumbrances created by or through Customer or Buyer, until such time as all payments provided for under the related Purchase Agreement and any amounts then due and payable by Customer under this Agreement have been made.
+ Les titres et les risques reliés à l’avion ne sont transférés qu’au moment de la livraison :
+10.1 Following acceptance of each Aircraft by Customer and payment in full of the Aircraft Purchase Price by Buyer, Bombardier shall under the related Purchase Agreement transfer title and interest in the Aircraft to Buyer to be evidenced by instrument or by delivery (as the parties may agree).
+10.2 If, after transfer of title to Buyer on the Delivery Date, the Aircraft at Customer’s request remains in or is returned by Customer to the care, custody or control of Bombardier, Customer for itself and on behalf of its insurer(s) hereby waives and renounces to [sic], and releases Bombardier and any of Bombardier’s affiliates from any claim, whether direct, indirect or by way of subrogation, for damages to or loss of the Aircraft arising out of, or related to, or by reason of such care, custody or control.
+ L’article 13.1 du contrat prévoit les situations où un délai pardonnable peur survenir relativement à la livraison de l’avion par Bombardier. Dans l’éventualité où les délais occasionnent un retard sur la livraison de plus de 12 mois, les parties peuvent mettre fin au contrat selon 13.2. Bombardier devra alors rembourser les avances qu’elle a reçues de son client (article 13.3).
+ L’article 15 prévoit qu’en cas de dommage causé à l’avion ou de perte de l’avion par Bombardier, le client peut mettre fin au contrat relativement à cet avion ou demander, dans certaines circonstances, le remplacement de l’avion.
+ L’article 16 prévoit les conséquences de la résiliation du contrat. Si Bombardier met fin au contrat pour cause de défaut par son client, les avances subissent le traitement suivant :
+16.3(c) All amounts paid by Customer with respect to the applicable undelivered Aircraft shall be retained by Bombardier and shall be applied against the costs, expenses, losses and damages incurred by Bombardier as a result of Customer’s default and/or termination of this Agreement including without limitation (…) [Soulignage de l’intimée.]
+ Ainsi, le contrat ne prévoit pas, avant le défaut du client, que Bombardier peut appliquer les sommes reçues à l’encontre des coûts. C’est seulement lors de la fin du contrat pour cause de défaut du client que Bombardier peut le faire.
+ Les avances demeurent dues au client et ne sont acquises par Bombardier en vertu du contrat qu’au moment de la livraison. Aucune contrepartie n’est reçue par le client au moment du paiement et avant la livraison.
+43. Le témoignage de M. Thornton sur cette question est particulièrement intéressant puisque selon son interprétation du contrat, le client n’avait aucunement prévu faire des paiements progressifs, autres que d’acheter l’avion au moment de la livraison. Tout paiement « intermédiaire » ne pouvait être que du financement.
+44. Au début, sur la question de la conformité avec les PCGR, M. Thornton conclut que les états financiers ont été préparés conformément à ces principes mais uniquement en raison de la présentation, dans le corps des états financiers ou par voie de notes, des montants d’avances (par. 76 du rapport de M. Thornton).
+45. Conséquemment, il s’agit clairement de ressources financières qui sont à la disposition de Bombardier à la fin de l’année pour entreprendre la fabrication des avions.
+[...]
+49. Bombardier considère que les montants qu’elle reçoit sont des avances, comme elle le montre dans :
+- Ses registres comptables (I-2, onglets 3 et 4)
+- Tableaux préparés par M. Jean Paré (Pièces A-9 et A-10) et par M. Pierre Lafontaine (Pièce A-11)
+- États financiers (A-1, onglets 1 à 12)
+B. LES AVANCES REÇUES DE BOMBARDIER « FIGURENT AU BILAN »
+50. Les documents consultés par M. Nadi Chlala sont importants et éloquents à l’effet que les montants en cause doivent être au bilan. Voir I-7, onglet 3 aux paragraphes 6.18 et 6.20 et le SOP 81-1 aux paragraphes 27 et 30.
+51. Les avances au passif figurent au bilan. Ils [sic] y figurent parce qu’elles sont reflétées au bilan car elles apparaissent dans une note complémentaire à ce bilan. Elles y figurent aussi parce qu’elles constituent une composante du calcul des stocks et qu’elles réduisent ceux-ci au bilan.
+Les notes font partie intégrante des états financiers et l’information qui y est contenue est aussi importante que si elle se trouvait dans le corps même du bilan
+[...]
+58. De plus, les tribunaux ont reconnu à de nombreuses reprises non seulement que ce qui apparaît aux notes fait partie du bilan mais qu’aux fins de l’application de l’impôt des grandes corporations, on peut et/ou doit s’y référer :
+1) Oerlikon Aérospatiale Inc. (CCI et CAF), supra. (onglets 3 et 4 du cahier de jurisprudence de l’intimée).
+2) The Royal Trust Company (supra), par[.] 19 (onglet 8 du cahier de jurisprudence de l’intimée). Manufacturers Life Insurance Co. (supra), par. 9 (onglet 7 du cahier de jurisprudence de l’intimée) et Ford Credit Canada (CAF) (supra), par. 25 qui référent [sic] à Oerlikon Aérospatiale.
+3) SNC Technologies Inc. c. La Reine, 2008 DTC 4538 (CCI), par. 31, 39, 46 et 47 (onglet 9 du cahier de jurisprudence de l’intimée).
+4) PCL Construction Management (supra), onglet 10, aux paragraphes 24 et 25, voir également la définition du mot « avances » retenue au par. 17 (onglet 10 du cahier de jurisprudence de l’intimée).
+Les avances figurent au bilan puisqu’elles entrent dans le calcul des stocks au bilan
+59. Les avances figurent au bilan puisque les avances réduisent l’actif « stocks » au bilan de l’appelante.
+60. L’appelante soutient que les montants ne figurent pas au bilan parce qu’elles [sic] ne sont pas « constatées » ou « reconnues », qu’elles [sic] sont simplement divulguées.
+61. Dans le cadre de la partie I.3, le législateur indique que, pour déterminer la valeur comptable d’un montant en vertu de la Partie I.3 de la Loi, il faut utiliser les montants qui figurent au bilan présenté aux actionnaires de la société. Il est important de noter que le législateur n’exige pas que le « montant » soit un poste du bilan ou un élément, encore moins que ce soit un élément de passif. Le législateur n’a pas utilisé le terme « constaté » mais bien le verbe « figurer » ou en anglais « reflected » au bilan. Le sens de « figurer » et « reflected » est très large.
+62. D’ailleurs, au plan comptable, M. Thornton a fait une étude détaillée de l’utilisation du terme anglais « reflected » en matière comptable. Il conclu [sic] que « reflected » a un sens équivalent à « included, represented, recognized, or depicted in the statements » (par. 80 du rapport de M. Thornton). Ainsi, le terme « reflected » a un sens large.
+[...]
+65. Les avances reçues sont divulguées dans les notes aux états financiers. Elles réduisent les stocks d’un montant correspondant et sont ainsi reflétées.
+66. Cette divulgation est requise pour que les états financiers de l’appelante soient conformes aux PCGR (Rapport de M. Thornton, par. 76).
+67. Cette information est nécessaire au lecteur des états financiers. D’ailleurs, la divulgation est requise par le paragraphe 6.18 du Audit and Accounting Guide – Construction Contract, soit par voie de notes ou « by a short extension in the balance sheet ». Voir aussi l’article 6.20.
+68. Finalement, la décision la plus importante est celle rendue par la Cour du Québec dans l’affaire Bombardier puisque le juge Paquet a retenu la position de l’intimée relativement à l’ensemble des questions en litige qui était [sic] essentiellement les mêmes que dans la présente affaire.
+Analyse
+[32] Il est plus facile de traiter de l’argument subsidiaire de l’appelante en premier lieu puisque, comme le reconnaissait son avocat, ce n’était pas son meilleur argument. En effet, comme il l’a reconnu lui-même, la Cour d’appel fédérale a eu à traiter de cette question dans l’affaire Oerlikon (précitée, note infrapaginale 1). Voici ce qu’elle écrivait aux paragraphes 20 et 21 de sa décision :
+20 Au-delà de ce qui précède, l'avocat de l'appelante prétend que les réserves de l'ordre de 244 492 173 $ sont expressément exclues du calcul du capital de sa cliente en vertu de l'alinéa 181.2(3)b) et que ce montant ne saurait être inclus à un autre titre, notamment comme « avances » en vertu de l'alinéa 181.2(3)c). Il invoque au soutien de cet argument le principe d'interprétation voulant qu'une disposition particulière dans un texte législatif écarte l'application d'une disposition qui traite du même sujet mais qui est plus générale.
+21 Je ne crois pas que cette règle puisse soutenir la prétention de l'appelante. Tout d'abord, le paragraphe 181.2(3) traite d'une série d'éléments qui doivent tous être pris en compte dans le calcul du capital d'une corporation et qui se veulent aussi particuliers les uns que les autres. Aussi, même s'il est vrai qu'en l'instance, les alinéas 181.2(3)b) et 181.2(3)c) s'appliquent au même montant, ils le font à différents titres et engendrent des résultats qui se concilient dans le contexte législatif.
+[33] À ce motif s’ajoute l’argument invoqué par l’avocat de l’intimée selon lequel le paragraphe 181(4) de la Loi vise à éviter qu’il y ait inclusion en double d’un même élément. Donc je rejette comme mal fondé l’argument subsidiaire de Bombardier.
+[34] Par contre, j’ai été convaincu par le premier argument de l’avocat de Bombardier, tel qu’il est énoncé plus haut et j’y souscris entièrement. Le point de départ — cela va de soi — est le texte même de la disposition législative. Selon l’alinéa 181(3)b) de la Loi, les montants des avances qui devaient être ajoutés au capital sont ceux qui figurent au bilan présenté aux actionnaires ou ceux qui y figureraient si un tel bilan était dressé conformément aux PCGR. En outre, les tribunaux ont confirmé que l’article 181 est conforme à la politique annoncée par le ministre Wilson lorsqu’il avait indiqué dans ses documents budgétaires que l’assiette de l’impôt des grandes sociétés serait déterminée à partir des comptes de la société établis conformément aux PCGR à la fin de l’exercice financier. Les montants des avances qui figurent au bilan sont ceux que l’on trouve à l’élément de passif intitulé « avances et facturations progressives en excédent des coûts y afférents » dans le corps du bilan.
+[35] Il a été convenu par les parties que le bilan (comme les autres états financiers) avait été dressé conformément aux PCGR. En outre, une partie des avances reçues par Bombardier comme acompte sur les contrats avait été utilisée pour réduire l’élément d’actif intitulé « stocks ». D’après le témoignage de l’expert M. Chlala, les montants apparaissant comme éléments de passif au poste « avances et facturations progressives en excédent des coûts y afférents » représentent la valeur des « avances » au sens de l’alinéa 181.2(3)c) de la Loi. Les montants du compte d’avances qui apparaissent aux notes complémentaires ne sont là que pour permettre de calculer l’élément d’actif « stocks » et l’élément de passif « avances et facturations progressives en excédent des coûts y afférents ».
+[36] Non seulement l’intimée a reconnue que les états financiers de Bombardier avaient été préparés en conformité avec les PCGR, mais son expert, M. Thornton, l’a reconnu aussi dans son rapport et lors de son témoignage. Comme l’a déclaré le juge Ryer de la Cour d’appel fédérale dans l’arrêt Crédit Ford du Canada Ltée, précité, « le bilan […] doit être accepté pour le calcul de l’IGS payable par la société » (paragraphe 27). J’accepte l’opinion suivante exprimée par M. Chlala en réponse à la question numéro 3 (« Quelle est la valeur comptable des avances qui ont été consenties à Bombardier Inc. à la fin de l’année et qui figurent à son bilan, dressé selon les PCGR, pour chacune des années d’imposition 1990 à 2006? ») :
+3. Par conséquent, si les coûts dépassent les montants reçus sur un contrat à long terme, Bombardier n’a aucun passif. Toutefois, si les montants reçus dépassent le coût des travaux correspondants, seul l’excédent représente l’avance qui doit figurer au passif puisqu’aux fins comptables, l’exécution des travaux constitue un règlement des avances. Par conséquent, selon les PCGR, l’avance initiale perd sa nature d’avance une fois que le contrat à long terme est en cours d’exécution.
+[37] Il est possible qu’il n’y ait pas vraiment divergence entre l’opinion de M. Chlala et celle de M. Thornton puisque cette question-là n’a pas été posée directement à M. Thornton. Je rappelle que les questions s’y rapprochant le plus qui lui ont été posées sont la question numéro 1 : « According to GAAP, what is the nature and substance of the payments made by Bombardier’s customers pursuant to the contracts? », et la question numéro 3 : « Are the advances, as detailed in the notes to the financial statements, “reflected” in the balance sheets of Bombardier? ». Par conséquent, il semble que l’on n’a jamais posé à M. Thornton la bonne question, soit celle posée à M. Chlala.
+[38] Il va sans dire que l’opinion donnée par M. Chlala m’apparaît tout à fait conforme aux principes comptables et notamment aux enseignements du Manuel de l’ICCA, qui énonce que la constatation d’un élément du bilan doit se trouver « dans un ou plusieurs états financiers particuliers et non […] dans les notes complémentaires ». Voir le paragraphe .42 du chapitre 1000, reproduit plus haut. J’adopte également la position de la Cour suprême de la Colombie-Britannique dans l’affaire Terasen Gas Vancouver Island Inc., particulièrement au paragraphe 23, reproduit plus haut.
+[39] Les états financiers de Bombardier ont été préparés par le cabinet Ernst & Young. À titre d’exemple, dans son rapport pour l’année 2002, ce cabinet écrit au deuxième paragraphe que sa vérification a été effectuée conformément aux normes de vérification généralement reconnues au Canada. (Voir pièce A-1, onglet 13, page 286.) De l’avis d’Ernst & Young, « ces états financiers non consolidés donnent, à tous les égards importants, une image fidèle de la situation financière de la Société aux [sic] 31 janvier 2002 […] à l’exception du fait qu’ils sont non consolidés […] ». Au premier paragraphe, on mentionne également que la responsabilité à l’égard des états financiers en question incombe à la direction de la société. Il ressort du rapport susmentionné et des états qui l’accompagnent que Bombardier a considéré les avances comme des paiements « on account of work in progress » et, conformément aux PCGR, le cabinet comptable a dressé un bilan dans lequel il n’indique comme avances que celles qui sont en excédent des coûts des stocks.
+[40] Il est important de souligner que cette façon de procéder n’est valable, selon ce que je comprends, qu’à l’égard des contrats de fabrication ou de construction à long terme. De façon générale, les montants des avances ne seraient pas déduits dans le calcul des stocks et apparaîtraient normalement comme élément de passif au bilan.
+[41] En outre, je ne partage pas l’opinion des avocats de l’intimée, qui croient qu’il n’est pas nécessaire que le « montant […] qui figure […] au bilan » soit un « poste » ou un « élément » du bilan, « encore moins que ce soit un élément de passif », comme ils l’ont dit au paragraphe 61 de leurs plaidoiries écrites. Tout d’abord, il est clair qu’il ressort des documents budgétaires du ministre des Finances Wilson (dont un extrait est reproduit plus haut au paragraphe 16 de ces motifs) que l’intention était de définir le « capital » aux fins de l’impôt des grandes sociétés comme comprenant des « éléments de passif ». Dans ces documents budgétaires, on précise que l’assiette de l’impôt comprend « les autres éléments de passif ». Dans la version française du paragraphe 181.2(3) de la Loi, « capital » est défini comme « l’excédent éventuel du total des éléments suivants […] ». (Je souligne.) L’utilisation du terme « éléments » n’est pas due au hasard. De façon générale, on utilise dans la Loi le terme « montant » ou « somme » dans la rédaction de dispositions semblables à celle-là. (Voir notamment la définition de « fraction non amortie du coût en capital » au par. 13(21) de la Loi). Si le législateur avait pu utiliser l’expression « élément de passif », il l’aurait fait. Mais il ne le pouvait pas puisque, dans l’énumération des éléments qui suit, il y a des éléments qui ne sont pas des éléments de passif, notamment le « capital-actions », qui fait partie de la composante « capitaux propres ». Quand le législateur a pu employer ce genre d’expression, il l’a fait, comme c’est le cas dans la définition de « déduction pour placements » au paragraphe 181.2(4) de la Loi, où il emploie l’expression « élément d’actif ». Cette définition est pertinente aux fins du calcul du « capital imposable » au paragraphe 181.2(2) de la Loi. On trouve également cette expression au paragraphe 181(3) pour le calcul des valeurs et montants.
+[42] Ayant conclu que la valeur des avances est celle qui constitue la valeur d’un « élément de passif » qui doit nécessairement apparaître au bilan, il s’ensuit que la partie des avances qui diminue la valeur des stocks ne peut constituer une valeur des avances qui figure au bilan. Il est tout à fait inapproprié, selon les PCGR, de montrer un élément de passif dans les notes, et il convient encore moins de le faire dans la note qui détaille le calcul d’un élément d’actif, comme les stocks.
+[43] À mon avis les avocats de l’intimée ont également tort d’affirmer ce qui suit au paragraphe 36 de leurs plaidoiries écrites :
+36. Le seul paragraphe de l’ensemble des documents qui permet de faire le net entre des avances et les coûts encourus est la section 6.19 du Guide, qui permet de faire le net dans une situation qui ne vise pas celle des appelants.
+[Je souligne.]
+[44] Si les avocats de l’intimée avaient raison en avançant cette prétention, et ils consacrent une bonne partie de leurs arguments à l’appuyer, cela signifierait que Bombardier et ses vérificateurs externes auraient eu tort de diminuer les stocks par le montant des avances et de n’indiquer comme élément de passif que la partie en excédent des coûts des stocks. C’est seulement si la condition de la section 6.19 du Guide est remplie que l’on peut diminuer les stocks du montant des avances. Si tel n’était pas le cas, les états financiers ne seraient pas conformes aux PCGR puisque seules les avances qui peuvent être considérées comme un « payment on account of work in progress » peuvent faire l’objet d’un tel traitement. Or, l’intimée et son expert ont reconnu et admis que les états financiers de Bombardier avaient été préparés en conformité avec les PCGR. Je crois qu’il faut adopter la même démarche que celle qu’a suivie M. Thornton, qui, non seulement dans son rapport, mais aussi lors de son témoignage, a indiqué à plusieurs reprises, et notamment au paragraphe 12 du résumé de son opinion, ce qui suit : « Also, progress billings are normally made when progress is made; the advances would tend to flow to Bombardier regardless of the degree of progress on a contract. Still, I respect the judgment of the auditors on this point. » [Je souligne.]
+[45] J’ajouterais à nouveau que, si le ministre avait raison de prétendre que les montants des avances sont ceux qui apparaissent dans les notes complémentaires, les états financiers seraient trompeurs et ne seraient pas conformes aux PCGR. Comme l’a dit M. Chlala, si un montant du passif apparaissait plutôt dans les notes complémentaires, les états financiers seraient trompeurs. À mon avis, l’argument de l’intimée énoncé au paragraphe 41 de ses plaidoiries écrites, argument qui tente de distinguer entre les avances et les facturations progressives, n’est pas non plus fondé puisque la haute direction de Bombardier a considéré les avances comme des « payments on account of work in progress ». Ayant admis que les états financiers de Bombardier avaient été dressés selon les PCGR, l’intimée est mal venue d’arguer que les montants apparaissant dans le corps du bilan au passif sont erronés.
+[46] Même si la norme SOP81-1 n’est pas considérée en soi comme une norme approuvée par l’organisme officiel des États-Unis, il n’en demeure pas moins qu’en l’adoptant Bombardier était considérée comme ayant appliqué les PCGR. J’ajouterai d’ailleurs que, même si, de l’avis de M. Thornton, Bombardier n’était pas tenue de réduire ses stocks par le montant de ses avances, et ce, en raison de l’emploi du terme « should » plutôt que « shall », le traitement comptable adopté par Bombardier et ses comptables agréés externes était tout à fait conforme aux PCGR.
+[47] Dans le contexte des contrats de construction ou de fabrication à long terme, la notion habituelle d’avances, selon laquelle les avances sont définies comme étant les sommes reçues avant la livraison en exécution du contrat ou, pour utiliser les mots que l’on trouve dans « Terminology for Accountants » et reproduits au paragraphe 14 des plaidoiries écrites de l’intimée : « a payment made on account of, but before completion of a contract, or before receipt of goods or services », n’a pas d’application.
+[48] En conclusion, j’ai été convaincu par la preuve présentée par Bombardier que la valeur des avances, aux fins de la partie 1.3 de la Loi, correspond aux montants indiqués dans le corps du bilan et non pas à ceux indiqués dans les notes complémentaires.
+[49] Pour tous ces motifs, les appels de Bombardier sont accueillis et les cotisations sont renvoyées au ministre pour nouvel examen et nouvelles cotisations en tenant pour acquis que les seuls montants d’avances incluses au capital de l’appelante en vertu de l’alinéa 181.2(3)c) de la Loi sont les suivants :
+Année d’imposition 1990 : 73 781 000 $;
+Année d’imposition 1991 : 66 463 000 $;
+Année d’imposition 1992 : 207 820 000 $;
+Année d’imposition 1993 : 224 301 347 $;
+Année d’imposition 1994 : 423 237 117 $;
+Année d’imposition 1995 : 477 658 576 $;
+Année d’imposition 1996 : 250 700 000 $;
+Année d’imposition 1997 : 249 400 000 $;
+Année d’imposition 1998 : 332 100 000 $;
+Année d’imposition 1999 : 1 246 100 000 $;
+Année d’imposition 2000 : 1 482 400 000 $;
+Année d’imposition 2001 : 1 304 100 000 $.
+Par ailleurs, lors de l’établissement des nouvelles cotisations pour les années d’imposition 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997 et 2000, le Ministre procédera aux ajustements prévus conformément au consentement à jugement daté du 13 septembre 2010 dont copie est jointe.
+Signé à Ottawa, Canada, ce 28e jour de janvier 2011.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE : 2011 CCI 48
+Nº DU DOSSIER DE LA COUR : 2008-1624(IT)G
+INTITULÉ DE LA CAUSE : Bombardier Inc. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : les 13, 14, 15, 16 et 17 septembre 2010
+MOTIFS DU JUGEMENT PAR : l'honorable juge Pierre Archambault
+DATE DU JUGEMENT : le 28 janvier 2011
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Wilfrid Lefebvre
+Me Dominic C. Belley
+Avocats de l'intimée :
+Me Pierre Cossette
+Me Annick Provencher
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante:
+Nom : Me Wilfrid Lefebvre
+Dominic C. Belley
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir Oerlikon Aérospatiale Inc. c. La Reine, 97 DTC 694, décision confirmée par la Cour d’appel fédérale, 1999 CarswellNet 534, [1999] 4 C.T.C. 358 (angl.), 99 DTC 5318 (angl.).
+[2] Il faut mentionner que l'avis d'appel a été déposé avant même que la décision du ministre soit rendue puisqu'il s'était écoulé plus de 90 jours après la signification des avis d'opposition.
+[3] Aux montants des avances des divisions aéronautique et transport s’ajoute un autre montant d’avances de 33 000 $.
+[4] Comprend également des avances d'autres sources de 506 956 $.
+[5] Comprend des avances d'autres sources de 12 039 457 $.
+[6] Comprend des avances d’autres sources de 3 604 000 $.
+[7] Les montants des avances sont nets des avances aux fournisseurs.
+[8] Voir pièce A-6.
+[9] Les notes infrapaginales sont les miennes et celles de l’entente sont omises.
+[10] Selon le contrat type auquel se sont référées les parties au cours de l’audience (pièce A-1, onglet 69, article 5), les sommes suivantes devaient être versées au titre du prix d’achat de chacun des avions (au nombre de 4) stipulé au contrat, soit 50 000 $ d’acompte, 5 % lors de la signature du contrat d’achat, 7,5% douze mois avant la livraison de l’avion et 7,5 % six mois avant la livraison de l’avion.
+[11] Bombardier a admis que, pour le calcul de l’impôt sur le capital à l’égard des années 1990 à 1995, le montant de ses avances doit être calculé sur la même base que celle utilisée à l’égard des exercices financiers 1996 à 2001, à savoir que chaque avance doit être calculée avion par avion et non pas pour l’ensemble des contrats. Cela a pour conséquence d’augmenter le montant des avances qui doit être ajouté dans le calcul du capital imposable de Bombardier pour les exercices de 1990 à 1995. Voir la pièce A-5.
+[12] Voir pièce A-7.
+[13] Le mot "Amounts" est défini par M. Thornton au paragraphe 03 de son rapport. Ils représentent les sommes reçues des clients de Bombardier, c'est-à-dire les avances sur contrat.
+[14] Il faut rappeler que les années d'imposition 2002 et suivantes ne sont plus en litige devant moi.
+[15] Voir le texte législatif reproduit au paragraphe 14 ci-dessous.
+[16] De façon générale, les notes infrapaginales seront omises, sauf lorsqu’elles sont considérées comme importantes. Tous les soulignages sont les miens, sauf indication contraire.
+[17] Soulignage de M. Chlala.
+[18] Soulignage de M. Chlala.
+[19] Soulignage de M. Chlala.
+[20] Soulignage de M. Chlala.
+[21] Soulignage de M. Chlala.
+[22] Soulignage de M. Chlala.
+[23] Soulignage de M. Chlala.
+[24] Soulignage de M. Chlala.
+[25] Soulignage de M. Thornton.
+[26] Idem.
+[27] Idem.
+[28] Idem pour ce qui est du mot « not ».
+[29] Idem.
+[30] Pour un exemple d’un traitement judiciaire semblable, voir Upper Lakes Shipping Limited v. The Minister of Finance, 98 DTC 6264, une décision de la Cour d’appel de l’Ontario.
+[31] Voir onglet 1, pièce A-7.
+[32] Oerlikon Aérospatiale Inc., précitée, page 698

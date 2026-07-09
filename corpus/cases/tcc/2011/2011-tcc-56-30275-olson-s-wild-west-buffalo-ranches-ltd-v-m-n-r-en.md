@@ -1,0 +1,287 @@
+---
+title: "Olson's Wild West Buffalo Ranches Ltd. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30275/index.do"
+last_modified: "2011-01-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 56"
+citation2: ""
+neutral_citation: "2011 TCC 56"
+decision_date: "2011-01-28"
+language: "en"
+item_id: "30275"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7984
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:54:56.168000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e6fbd98ff91b19f5f5be2ef5be37497b256c0b9788fee6141db4659b2a95df03"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Olson's Wild West Buffalo Ranches Ltd. v. M.N.R.
+
+- Citation: 2011 TCC 56
+- Decision date: 2011-01-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7984, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Olson's Wild West Buffalo Ranches Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-28
+Neutral citation
+2011 TCC 56
+File numbers
+2010-1021(EI)
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010-1021(EI)
+BETWEEN:
+OLSON'S WILD WEST BUFFALO RANCHES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Olson’s Wild West Buffalo Ranches Ltd. 2010-1022(CPP)
+on January 24, 2011 and Reasons for Judgment delivered from the Bench on January 28, 2011 at Calgary, Alberta
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Virginia A. Engel, Q.C.
+Counsel for the Respondent:
+Adam Gotfried
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal is allowed, without costs, and the decision of the Minister of National Revenue dated December 22, 2009 is varied to find that Arnold Pelly was not engaged in insurable employment with Olson’s Wild West Buffalo Ranches Ltd. during the period from September 16, 2008 to February 10, 2009.
+Signed at Calgary, Alberta this 28th day of January 2011.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2010-1022(CPP)
+BETWEEN:
+OLSON'S WILD WEST BUFFALO RANCHES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Olson’s Wild West Buffalo Ranches Ltd. 2010-1021(EI)
+on January 24, 2011 and Reasons for Judgment delivered from the Bench on January 28, 2011 at Calgary, Alberta
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Virginia A. Engel, Q.C.
+Counsel for the Respondent:
+Adam Gotfried
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal is allowed, without costs, and the decision of the Minister of National Revenue dated December 22, 2009 is varied to find that Arnold Pelly was not engaged in pensionable employment with Olson’s Wild West Buffalo Ranches Ltd. during the period from September 16, 2008 to February 10, 2009.
+Signed at Calgary, Alberta this 28th day of January 2011.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2011 TCC 56
+Date: 20110128
+Dockets: 2010-1021(EI)
+2010-1022(CPP)
+BETWEEN:
+OLSON'S WILD WEST BUFFALO RANCHES LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered from the Bench on January 28, 2011 at Calgary, Alberta)
+Hershfield J.
+[1] The Appellant appeals a decision issued in accordance with subsection 27.2(3) of the Canada Pension Plan (the “Plan”) and subsection 93(3) of the Employment Insurance Act (the “EIA”) which determined that a worker, Arnold Pelly (“Mr. Pelly”), was engaged in pensionable and insurable employment on the basis that the requirements of a contract of service had been met and that an employer-employee relationship thereby existed during the period from September 16, 2008 to February 10, 2009.
+[2] It is not in dispute that the Appellant engaged Mr. Pelly’s services during the subject period.
+[3] The worker, Mr. Pelly, did not intervene in the proceedings and was not called as a witness by the Respondent. Indeed, the Respondent called no witnesses and gave no evidence and relied solely on the assumptions in the Reply to the Notice of Appeal (“Reply”).
+[4] The Appellant called Mr. Thomas Olson (“Mr. Olson”) as a witness in the appeals. Mr. Olson is a lawyer practising law in Calgary. Mr. Olson has more than one law degree and for the most part his testimony was credible, although clearly not disinterested. He is the sole shareholder, officer and director of Olson’s Wild West Buffalo Ranches Ltd. (“Buffalo Ranches”) which is located in Calgary and started operating in 2008.
+[5] The Appellant introduced two exhibits which were identified and addressed by Mr. Olson. The first is a copy of a written contract which is entitled “Ranch Hand Services Agreement”. It is between the Appellant, Buffalo Ranches, and Mr. Pelly. It was for an initial term of three months and according to the exhibit it was entered into on September 17, 2008. The contract was extended for an additional two month period.
+[6] The copy of the contract presented had been executed by the Appellant but it had not been signed by Mr. Pelly. The second exhibit was a compilation of time sheets for the period of Mr. Pelly’s engagement. It bore the heading “Employee Weekly Time Sheet”. Entries by Mr. Pelly commenced on September 16, 2008.
+[7] Dealing with the agreement, its preamble reads as follows:
+Whereas:
+A. Wild West is engaged in the business of providing staff for custom ranching and farming services; and
+B. Wild West wishes to retain the Contractor to provide various services to corporations (the “Ranch”) owned by the Olson family, including Pine River Ranches Ltd. and Sweet Grass Ranch Ltd. which carry on the ranching business in Pine Creek, Manitoba.
+[8] In his testimony, Mr. Olson mentioned another ranch that was part of the ranch owner group, Bison Conservation Ranches Ltd.. I will refer to these apparently related companies as the “ranch owners”. Buffalo Ranches was not one of those owners. Buffalo Ranches provided certain services to the ranch owners which involved amongst other things, engaging workers to work on the so-called “ranch” owned by the ranch owners. At this point I also note that Mr. Olson testified that the ranch owners had acquired the central portion of the ranch from a landowner, Kelly Schmidt (“Mr. Schmidt”) or his mother.
+[9] In his testimony Mr. Olson related the following events:
+· The operation of the ranch owners was just commencing when Mr. Pelly was retained. The ranch was to be a livestock operation consisting of raising buffalo on a 20,000 acres track of land north of Dauphin, Manitoba in the Duck Mountain area of Manitoba. The operation was undertaken with the cooperation of the Manitoba government. The idea was to create a natural ecosystem for buffalo to thrive. It would serve as a buffalo conservation area where buffalo could graze in a free range manner. It would also be a profit-seeking venture on the basis of buffalo meat having a market for consumption.
+· Initially, the operation needed fencing to contain the arrival of the buffalo. The first containment was to be a fenced area of 4 square miles. It was to be a steel fence in an area of difficult terrain. Buffalo Ranches was looking for people capable of building the required fencing. Buffalo Ranches, being centered in Calgary, was looking for people who could undertake such a project without supervision.
+· Although Mr. Olson knew Mr. Pelly was a farmer in the area, he did not know the extent of Mr. Pelly’s farming operation or activities. He knew that he had equipment such as a tractor and that he was able to handle and help maintain such heavy equipment. More importantly Mr. Pelly knew the terrain which Mr. Olson described as difficult and hostile. It had tremendous drainage from the Duck Mountains to Lake Winnipegosis which meant a lot of swampy areas, bogs and streams with few roads.
+· Mr. Olson was introduced to Mr. Pelly by Mr. Schmidt who had used Mr. Pelly to provide similar services as were going to be required at the ranch. Mr. Schmidt recommended Mr. Pelly to Mr. Olson as someone he had worked with over a 10 year period as an independent contractor and as a person who knew the terrain, new the area and was quite experienced and had the skills required to undertake or assist in locating and constructing the required fencing on such difficult terrain.
+· Mr. Olson met Mr. Pelly personally to interview him with respect to the engagement. He testified that he went over the written contract with him and that he believed Mr. Pelly understood its terms, the work being contracted and the nature of the relationship. Mr. Pelly was given a choice of working for $10.00 an hour as an employee or $12.00 an hour as an independent contractor. Mr Olson said that Mr. Pelly knowingly accepted the engagement as an independent contractor at $12.00 an hour and that he understood the implications of the nature of the relationship being established having been engaged by Mr. Schmidt in a similar capacity. Mr. Pelly confirmed what Mr. Schmidt had told him, namely that he took gross pay with no deductions and he took care of his own expenses. He said Mr. Pelly knew he was expected to sign the written contract that he went over with him and that he confirmed the nature of the relationship. Mr Olson did not know however whether Mr. Pelly had ever signed the contract. He had never seen a copy with Mr. Pelly’s signature.
+· The specific terms of a written contract provided for the following services:
+1. Care for and feed all livestock owned by the ranch;
+2. Maintain in a good state of repair and rebuild, as necessary, all fences on or surrounding the ranch;
+3. Assist in all operational and maintenance matters on the ranch including operation of ranch machinery and vehicles (the “machinery”);
+4. Ensure that all machinery, equipment and other vehicles are operating in accordance with the safety program; and
+5. Perform other services related to the operation of the ranch.
+· The contract required the worker to create a written safety program for the safe performance of the services and to follow that safety program, as well as the safety program of the ranch itself.
+· The contract also provided that the worker had to prepare daily timesheets and daily journals, although the viva voche testimony of Mr. Olson was that records were assembled less frequently.
+· The contract included obligations to provide the on-site tools needed for his services. It required compliance with legal obligations applicable to independent contractors such as workers’ compensation, income tax, CPP and employment insurance. Termination was provided for from either side on 14 days notice.
+· Mr. Pelly was one of eight workers engaged as independent contractors who were engaged from time to time under similar contracts to do similar work.
+· Buffalo were brought to the ranch in late October and brought in on a regular basis in November establishing a herd of some 2,000 head.
+· The first containment was needed to be completed in time for the arrival of the buffalo. A second phase of the fencing project was at the southern end of the ranch. It commenced construction once the first containment area was completed. Mr. Pelly would have worked on this phase, as well, and his contract was extended by two months to continue to do so. During the period following the arrival of the first buffalo, his engagement was to include care and feeding the livestock but Mr. Pelly refused such work even though at the initial interview he said he would.
+· The fencing operation required a driller and a post pounder which Mr. Pelly could operate. As well, a tractor was required to haul this equipment to the fencing locations. The Appellant owned the post pounder and driller and owned a tractor to do the hauling as well as a truck which was used to take fencing workers from ranch headquarters to the fencing locations.
+· Mr. Olson testified, however, that he relied on workers to provide a tractor and truck on occasions where the Appellant’s tractor and truck were not available due to other requirements on the ranch.
+· The fencing was comprised of steel posts and steel wire mesh and stood 6 feet high and depending on the terrain had to be sunk 6 additional feet meaning that the steel posts were 12 feet long, cut from 30 foot lengths. Mr. Pelly refused to be involved in the cutting of the steel posts. The posts were 25 feet apart and were driven into the ground by the pounder. The drill was used to drill through rocky terrain where pounding was insufficient to drive the posts to a desired depth.
+· Mr. Pelly was experienced with the equipment and provided his own hand tools such as wire cutters. At this point, I note that it must be acknowledged that, living in Alberta and not being on-site, some of Mr. Olson’s evidence might only be surmised or hearsay. However, in addition to the personal interview, he testified that he had some 10 or so personal telephone conversations with Mr. Pelly and that much of his knowledge of Mr. Pelly’s work would have come from those conversations. As well, the ranch owners or a person associated with ranch owners, as well as a manger, could check on the status of the fence. The work done confirmed that Mr. Pelly was up to the task. It was the contractors like Mr. Pelly that worked out the exact locations and dealt with obstacles like crossing rivers, going through or around bogs or trees. These were people retained to produce the desired result based on their know-how.
+· As noted, Mr. Olson testified that the tractor and truck owned by the company were not always available to use on the fencing project. The tractor for example was needed to move bales of hay for feeding the herd. As well, there were other operations although little use of the ranch’s equipment could be attributed to those operations; namely, crop growing and seeding hay. These were also undertaken by independent contractors who were paid to provide the planting and harvesting services in the case of crops and the planting, cutting and baling services in the case of hay. Local farmers provided these services as independent contractors. Mr. Pelly never provided any such contractor services. Still, there were occasions when the ranch’s tractor or truck was not available for the fencing project, and in that event workers were expected to provide same. Since the other contractors, like Mr. Pelly, seem to be farmers in the area, provision of such equipment did not appear to be a problem. In any event, Mr. Pelly provided his tractor on three occasions and received $100.00 per day for its use. His truck was provided on occasion, as well, and he was given a per kilometre reimbursement in respect of such use. These occasions and charges are shown on the time sheets.
+· Mr. Olson testified that the three times that the Appellant used Mr. Pelly’s tractor was not indicative of the number of times that it needed to use an independent contractor’s equipment. He testified that Mr. Pelly’s tractor was not reliable. Accordingly, other independent contractors’ tractors would be used.
+· Mr. Olson testified that Mr. Pelly was free to come and go in terms of start times and quitting times and even what days he would work. The timesheet records did show some variations in start time and quitting time and on a few occasions showed reasons why the worker did not work on a given day.
+· The contract also had a provision whereby the Appellant would pay Mr. Pelly a bonus or bonuses at such times and at such amounts as it may determine in its sole discretion. Mr. Olson testified that this was there to reward good work and that Mr. Pelly never earned such a bonus while other contractors like Mr. Pelly did earn such bonuses.
+· Some time after Mr. Pelly was retained, a ranch manager was retained and the ranch manager approved time sheets submitted by the worker on two occasions. Mr. Olson testified, however, that the manager was retained because of her experience and education relating to dealing and interfacing with the government and livestock physiology. She was not a field person and although she did drive workers out to the fencing sites once she was hired and when the ranch vehicle was available, she had no responsibilities in terms of supervising Mr. Pelly’s work. He was retained, like others, because he knew how to build a fence in this difficult terrain. She would have no control over when their work would start or finish or whether they would work at all on a given day.
+· Mr. Olson testified that if a worker like Mr. Pelly did not get a ride to a fencing site with the company truck, then he would drive to the site on his own and not be reimbursed for any fuel costs.
+· Mr. Olson also testified that hourly rates were subject to be negotiated by each contractor and that on occasion rates were increased when a worker negotiated such an increase. He testified that other workers did provide the other services contemplated by their written agreements which were the caring and feeding of livestock which would include moving bales of hay. However, he testified that these were farmers who did their own work first on their own farms first.
+· Mr. Olson did say that one of the ranch owners would have attended at fence building locations but that would only be to check on the status of the project.
+· Mr Olson said that Mr. Pelly was free to work the times he was able, was free to take on other work and could hire his own helpers. He testified that, in fact, Mr. Pelly proposed to hire a helper who was interested in assisting with the fencing work but the helper chose to be retained directly by the Appellant.
+· Addressing the timesheets being headed “Employee” he said that was just the form the Appellant happened to provide; it was not indicative of the relationship. An independent contractor’s invoicing record would have looked the same and the parties treated them as invoices. With the exception of the December timesheet there were no totals on the time sheets. Monthly timesheet summaries that showed total hours with calculations of amounts owed and paid were part of the timesheet exhibit but it would appear that these monthly summaries were prepared by the Appellant. The copy of the December timesheet had a photocopy overlay that appeared to be Mr. Pelly’s calculation of the amount owed to him and it included a one day tractor rental fee and subtracted out advances received and fuel taken. That can more readily be seen as a true invoice. It was approved and the summary sheet for the month showed the same calculations and same amount owing.
+[10] The Respondent, not having called a witness, relies entirely on the assumptions stated in the Reply which are as follows:[1]
+(a) the Appellant operated a bison ranch;
+(b) the Appellant provided a resident ranch manager (hereinafter “the manager”);
+(c) the Worker was hired as a labourer(sic) and his duties included fencing;
+(d) the Appellant produced an unsigned written agreement between the Worker and the Appellant (hereinafter “the Agreement”);
+(e) the Worker did not provide all of the services detailed in the Agreement;
+(f) the Worker performed his services at the Appellant’s jobsite;
+(g) during the period under review, there was no livestock at the jobsite;
+(h) the Worker earned a set wage of $12.00 per hour;
+(i) the Worker did not invoice the Appellant;
+(j) the Manager determined the Worker’s start and finish times;
+(k) the Worker normally started work between 8:00AM and 9:00AM and normally finished around 5:00PM;
+(l) the hours of work were dependent on the weather and the work to be completed;
+(m) the Worker kept a record of his hours worked and submitted timesheets to the Appellant;
+(n) the Manager instructed and directed the Worker;
+(o) the Worker reported to the Manager on a daily basis;
+(p) the Manager supervised the Worker;
+(q) the Worker normally worked as part of a crew;
+(r) the Appellant determined the safety rules;
+(s) the Worker did not develop his own safety plan;
+(t) the Manager was required to approve any leave;
+(u) the Worker did not hire his own helper or replace himself;
+(v) the Worker did not work for others while performing services for the Appellant;
+(w) the Appellant provided all of the tools and equipment required including the work location, truck, tractor, post pounder and driller;
+(x) normally the Manager would transport the crew, including the Worker, to the jobsite;
+(y) the Worker was not required to provide any tools or equipment;
+(z) the Worker provided his own truck for a short period when the Appellant’s truck broke down;
+(aa) the Appellant paid the Worker a mileage allowance for the use of his truck;
+(bb) the Worker also provided his own tractor for two days;
+(cc) the Appellant used the Worker’s tractor because it had specialized equipment;
+(dd) the Appellant paid the Worker a daily amount for the use of his tractor;
+(ee) the Worker did not incur any expenses in the performance of his duties;
+(ff) the Appellant provided all of the supplies and materials required;
+(gg) the Appellant reimbursed the Worker if he purchased any supplies;
+(hh) the Worker did not have a chance of profit or a risk of loss;
+(ii) the Worker’s intention was that he was an employee;
+(jj) the Agreement was not representative of the terms and conditions of the Worker’s employment with the Appellant;
+(kk) the Worker did not act in the manner of a person in business;
+(ll) the Worker did not keep business books and records;
+(mm) the Worker did not charge the Appellant GST, and
+(nn) the Worker was not in business for himself while performing services for the Appellant.
+[11] It is apparent that many, if not most, of the Minister of National Revenue’s (the “Minister”) assumptions were made in reliance on the unsworn assertions of persons such as Mr. Pelly who were not called as witnesses.
+Appellant’s Arguments
+[12] Appellant’s counsel referred me to the Supreme Court of Canada decision in Hickman Motors Ltd. v. Canada[2] and to the Federal Court of Appeal decision in Pollock v. R.[3] as authority for asserting that her job was to demolish the relevant assumptions of the Minister.
+[13] She argued that Mr. Olson’s testimony that the terms of the written contract accurately set out the agreement between the Appellant and Mr. Pelly, was uncontradicted and must be taken as accurately setting out the terms of the engagement regardless of whether Mr. Pelly signed it or not. She pointed out that there was no evidence to show he did not sign it, only evidence that the Appellant did not have, and had not seen, a signed copy.
+[14] She argued that any apparent control over the worker, Mr. Pelly, was simply to monitor that the result was in accordance with the requirements of the project. She relied on the Federal Court of Appeal decision in D&J Driveway Inc. v. M.N.R.[4] as authority for saying that such monitoring could not be confused with control in the context of the control test in Wiebe Door Services Ltd. v. M.N.R..[5]
+[15] She argued that the fencing project was capable as being seen as a distinct project that was not inherently part of the Appellant’s business. Such distinct projects could more readily be treated as being undertaken by an independent contractor working for his own account in a separate business. While she referred to this initially as not meeting the integration test, she urged that the argument applied equally to the question as to whether Mr. Pelly might be seen as having his own business as envisioned by the 2001 Supreme Court of Canada decision in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc..[6]
+[16] She relied on a number of cases that she argued were sufficiently similar on the facts to those in the case at bar to guide me in the application of the Wiebe Door tests and to come to a conclusion here that favoured a finding that the relationship between Mr. Pelly and the Appellant was one of independent contractor. At this point, I find no value in referring to any of those authorities. Each case must be decided on its own facts.
+[17] She argued that if it was a close call, I should find that the intention of the parties should govern the nature of the relationship. She cited the 2006 Federal Court of Appeal decisions in Royal Winnipeg Ballet v. M.N.R.[7] and City Water International Inc. v. The Queen[8] as authorities for this position. In addition to arguing, as noted above, that the written contract must be taken as accurately describing the nature of the relationship, she argued that, at least, it must be seen as evidencing the intentions of both parties. The intention of Mr. Pelly is demonstrated by his acceptance of the manner in which he was paid with no withholdings and no benefits.
+[18] Addressing the Wiebe Door tests, specifically, she made the following arguments:
+· Mr. Pelly knew the terrain and was relied on to work independently without supervision in the construction of the fence.
+· He was free to decline work. He declined to feed or care for livestock. He declined cutting steel posts.
+· He was not required to be at any particular location at any particular time. If he arrived in time to be shuttled to the fencing location he might be driven there in the Appellant’s vehicle or he might be expected to drive others if the Appellant’s vehicle was not available or he could go to the fencing site directly on his own if he chose to arrive late. He was free to start work late and end early or not work at all. There was evidence on the timesheets reflecting this freedom. There were no minimum hour impositions or minimum output requirements.
+· As to tools, there was a requirement for the provision of hand tools and an expectation for the provision of truck and tractor as needed.
+· As to chance of profit he could earn more by working more and earn a bonus if his work warranted it. He could negotiate a higher hourly rate. Others earned bonuses and negotiated a higher rate. Cases were cited where bonus provisions were found to be factors pointing to a chance of profit as were cases such as the 2010 decision of Justice Boyle of this Court in Labrash v. M.N.R.[9] where chance of profit was said to include increasing income by increasing work time. Mr. Pelly’s contract also allowed increased profit if he was willing to care for and feed the livestock. He had chances to use his tractor to earn more. He was free to pursue work elsewhere.
+· Mr. Pelly was responsible for damage to his equipment, tractor and truck, if and when he used them in the performance of his work on the ranch. He had to indemnify the Appellant for any damage to ranch property as per clause 13 of the written agreement.
+· As to the question of whether Mr. Pelly had his own business, the Appellant relies largely on Mr. Olson’s testimony that Mr. Pelly represented himself as a person in business for himself being a person experienced and knowledgeable in constructing fencing in this difficult terrain. He had worked as an independent contractor for others and promoted his services on that basis. He agreed to invoicing without GST because his income was under $30,000.
+[19] Referring to the assumptions, Appellant’s counsel went through each assumption and demonstrated how the Appellant had sufficiently answered them thereby making a prima facie case as to the nature of the relationship between the Appellant and Mr. Pelly as required by the Supreme Court of Canada in Hickman Motors.
+[20] Examples of negating assumptions include: there was no ranch manager during most of the first term of the contract and when she arrived she did not determine the worker’s start and finish times or instruct or direct him; the worker did not report to her daily or need her approval not to work; she did not supervise his work; the worker was not a mere labourer; there were livestock at the jobsite during the period under review; the worker did invoice the Appellant; the hours of work were not solely dependent on the weather; the worker did provide tools, some as required and some as expected on an increased compensation basis.
+Respondent’s Arguments
+[21] The Respondent’s counsel relies on Sagaz and argues that the totality of the evidence in this case does not demonstrate, in any way, or create, a prima facie case that the worker, Mr. Pelly, had a business that he operated for his own account. He argued that the fencing operation should not be seen as a distinct project apart from the operations of the Appellant as it was a vital part of the infrastructure of the ranch as a whole and certainly was part of the Appellant’s business which was to assist the ranch owners in these very matters.
+[22] He argued that the case of National Capital Outaouais Ski Team v. Minister of National Revenue,[10] a decision of the Federal Court of Appeal, concurred with the view that it is not the stated intention of the parties that govern the nature of the relationship but rather it is whether the facts and circumstances of the case reflect those intentions. He also cited D.W. Thomas Holdings Inc. v. Minister of National Revenue,[11] as an example of a finding that although the intention of the hiring enterprise was to hire the worker as an independent contractor, the terms of their relationship when analyzed in light of the Wiebe Door factors did not support this intention.
+[23] He argued that the contract should not be considered as descriptive of the relationship. Mutuality cannot be attested to by one side.
+[24] He argued that the assumptions must be taken as true and the burden to disprove them is on the Appellant. He argued that Mr. Olson had little exposure to the day to day functions at the ranch and could not speak authoritatively in respect of many of the assumptions that he sought to negate. He argued that the assertions of a person not personally present and without knowledge of the day to day affairs or day to day operations cannot be a sufficient basis for finding that the Appellant has made a prima facie case such as would shift the onus of proof.
+[25] He pointed to the time sheets and noted that on the vast majority of days, Mr. Pelly reported to work consistently at 8 a.m. and left at or around 5:00 p.m.. His time sheets were more like time sheets prepared by employees and less like invoices as asserted by the Appellant. He noted that timesheets were on a couple of occasions approved by the manager and that the absent days had notations entered by Mr. Pelly indicating the reason for being absent such as a doctor’s appointment and weather conditions.
+[26] He argued that the worker was a labourer and that he had none of the indices of a professional contractor who might come in with his own equipment, his own workers and quote a job at a price with a view to profit. The farmers who bid on planting and harvesting and seeding and cutting hay, were those types of independent contractors. They bid on a project, supplied the equipment and performed the work. Mr. Pelly was an hourly wage worker.
+[27] He argued that the Appellant’s position that Mr. Pelly was free to hire workers made no sense. How could Mr. Pelly hire a worker when he, himself, was only making a $12.00 hourly wage?
+[28] There is no record that Mr. Pelly kept books or records or did anything of the sort that an independent worker having his own business would do.
+Analysis
+[29] The Appellant puts emphasis on the written contract. I do not, for several reasons.
+[30] The contract is a form contract unilaterally imposed on a party who likely has little interest in the printed legalese. Its title is “Ranch Hand Services Agreement” yet Mr. Olson described Mr. Pelly as anything but a ranch hand. Mr. Olson’s testimony defies reliance on the written contract. The written contract is for fence mending and feeding livestock. That was not the essence of the work engaged according to Mr. Olson’s own testimony. The work engaged was to construct a fence in extraordinarily difficult terrain without supervision. Still, I do not put Mr. Olson’s credibility as a sworn witness in doubt as it relates to the real basis for Mr. Pelly’s retention. The inconsistency simply shows that the written contract is of no assistance in this matter. That said then, I accept that a prima facie case has been made that Mr. Pelly was not a ranch hand. He refused ranch hand work. Indeed, prima facie, the case made by Mr. Olson is that Mr. Pelly would likely never have signed a contract that said he would do such work in spite of assurances he may have given when first interviewed. Without any evidence to the contrary a prima facie case has been made that Mr. Pelly was a neighbouring farmer not a subservient ranch hand.
+[31] Referring still to the written contract, the idea of imposing an obligation on Mr. Pelly to create his own safety program and follow it is likely only in the contract so it could be used to reinforce the independent contract argument. Indeed, the entire contract, in my view, is cleverly crafted to support an argument that the nature of the relationship is one of independent contractor. It is window dressing and a distraction that could cause suspicion in respect of other matters. The same might be said for arguments that seem to rely on a fictional spin on the facts such as arguing that Mr. Pelly could hire his own co-worker when he only earned $12.00 an hour. However, as I noted above, I do not put Mr. Olson’s general and overall credibility at issue.
+[32] As argued by Respondent’s counsel, it is not, in any event, the stated terms of a contract that govern the nature of the relationship but rather it is the actual performance of the contract which may or may not reflect those stated terms that is determinative. As well, I note, as I have in other decisions, that employers are misguided to believe that they can contract out of the legislative requirements of the EIA and the Plan. Both might be described as social programs designed to protect workers from such abuse. If a worker wants to respect the terms of an agreement that impose independent contractor status the system may not be able to intervene. However, when a worker chooses to disregard the terms of such an agreement that were unilaterally imposed and accepted as the only means of obtaining the position, then the employer should have no expectation that the true nature of the relationship will not be examined.
+[33] That is to say, a contract that asserts that it is the intention of the parties to create an independent contractor relationship, is of minimal value. What is of value, in this case, however, is Mr. Olson’s personal interaction with Mr. Pelly. I cannot accept his evidence of Mr Schmidt’s view of Mr. Pelly. It was admitted on the basis that it demonstrated that Mr. Olson relied on it, but that does not address the underlying truth of what Mr. Schmidt told him. That is hearsay. However, there is a personal interview and as many as 10 telephone conversations during the term of the contract. On the basis of these interactions, Mr. Olson can speak to the issue of mutuality of intention which is borne out in any event by Mr. Pelly’s conduct. He never communicated any problem with the Appellant not withholding taxes, EI premiums or CPP contributions or not providing a T4 slip in 2009 for his earnings in 2008. Given Mr. Olson’s uncontradicted evidence, a prima facie case has been made that there was mutuality of intention as to the nature of the engagement. There is a better chance than not that Mr. Olson could accurately appreciate that there was such a mutual intention and that Mr. Pelly was no farm labourer but rather an independent person with an entrepreneurial approach to offering his services. I accept Mr. Olson’s view that Mr. Pelly promoted himself as someone who could bring added value to the construction and installation of the fence. He could assess the location, determine depths necessary to ground the posts and he could operate and assist in the maintenance of the Appellant’s equipment. The picture Mr. Olson paints, in this regard, is most credible, in my view.
+[34] As to the assumptions, I agree with the Appellant’s counsel that a prima facie case has been made that most of the assumptions that bear to the tests in Wiebe Door are wrong although one such assumption deserves comment; namely, the question of invoices.
+[35] Timesheets submitted by an independent contractor working on an hourly basis might readily be used as an invoicing system but an invoice would show total hours at the contract rate with a total amount due clearly shown. That was not done in this case except where, for example, there was an extra amount owing for the tractor rental. In that case it appears clear that an invoice including time was prepared. This may suggest that the time sheets were intended as invoices as well. Alternatively, it might suggest that the tractor rental operation was a separate business that required an invoice which his hourly rate work did not require. I would not, however, in this case, separate the services. I accept Mr. Olson’s testimony that there was mutuality to the understanding that the time sheets were invoices. However, I would place little weight on this finding in terms of it being a factor supporting the view that Mr. Pelly operated in a fashion that reflected that he had his own business.
+[36] While I agree then that a prima facie case supporting the Appellant’s position might well have been established so that the onus of proof has shifted, it is always necessary to confirm that such negation of assumptions has, prima facie, stood up to the application of the Wiebe Door tests. In this regard, the Respondent is in a very vulnerable position in this case. I know of no case similar in nature to this, where the Crown has not brought evidence. It is evident that many, if not the vast majority, of the most relevant assumptions could have been based on representations of Mr. Pelly. The reliability of the unsworn statements of an interested party who might feel somewhat injured by a termination of a relationship needs to be tested. I appreciate that there are distances here and associated costs with Mr. Pelly intervening or being subpoenaed that would also apply to any other witness that the Crown might have felt would have been helpful to call, and there was a request for a videoconference as a format for calling such evidence. Such request was refused on the basis that the finding of credibility would be essential and that the inconvenience and expense of travel was not a sufficient reason to depart from the better approach to effective cross-examination and assessment of credibility. Accordingly, the request was denied. A request for a change of venue might have been made and allowed, however, no such request was made.
+[37] In any event, Respondent’s counsel did his best in the circumstances. However, in my view, he could not overcome the hurdle of having no evidence to call.
+[38] I turn now to the Wiebe Door factors or tests.
+[39] I accept that Mr. Pelly was not in a subservient position. He did not perform a function that needed to be given direction; nor would it appear that he would be a person who needed to be given, or would take, direction. He was not told what to do or how or when to do it. This is not only a view taken from Mr. Olson’s uncontradicted assessment based on personal contact but one that is wholly consistent with an uncontested assertion, one with no contrary assumption, namely that Mr. Pelly operated his own farm in the area. It is more probable than not that such a person would put his own operation first and thereby needed to be retained, even in the winter, on a basis that he could come when he could and leave when he had to. That his hours were largely consistent with an 8:00 a.m. to 5:00 p.m. job does not suggest otherwise. It suggests that circumstances permitted it.
+[40] As well, I do not find that the notation on the timesheets of reasons for absences as being persuasive of a different view. Nor do I find the manager’s approval of timesheets to be indicative of supervision. Indeed, I accept the evidence of Mr. Olson that Mr. Pelly, with other contractors like him, constructed a fence to meet the requirements of the Appellant. They managed the project in terms of how to locate and construct the fence in this hostile terrain. There is no evidence to contradict this testimony. Any monitoring of the work would on a balance of probability be to see to the result which is not control in the Weibe Door sense of the word.
+[41] On balance, I find that the control factor favours an independent contractor relationship. At the least, the evidence of the lack of control is sufficient to shift the onus of proof on this very relevant factor in this case.
+[42] As to tools, I find this factor favours neither position. In a case like this, the question of tools is better addressed when considering whether or not Mr. Pelly has a business of his own.
+[43] As to the chance of profit and risk of loss, again I find it favours neither position. Certainly an independent contractor can be paid by the hour and that can support, and in some cases has been found to support, a finding of their being a chance for profit by working more. That may be the case here but it does not speak loudly. As to the bonus, it is so vague, in this case, that giving it weight would be to exaggerate its significance. A bonus with a prescribed benchmark would have more meaning. Indeed, the bonus provision of the contract seems to be just another trapping inserted to support a desired outcome.
+[44] The risk of loss is minimal, if there was any at all. Regardless, it is a neutral factor, in my view, in a case like this. On this basis, I would conclude that in this case, the control factor weighs the most heavily and favours a finding of a contract for services.
+[45] That said, this finding needs to be considered from the perspective of the Sagaz formulation of the question of whether Mr. Pelly can be said to have his own business. This need not be seen, of course, as a separate test but rather it can and should be seen as the lens through which the Wiebe Door tests should be viewed. A person with his own business has certain indices. There is an investment in equipment and an associated risk of loss. There is generally an office and business records, there is evidence of advertising and promotion, there is a separate bank account and other indices such as being able to refuse work and being able to hire your own workers and replacement workers for a particular job. These are examples, of course, however some entrepreneurs have little to show in respect of these types of indices. Mr. Pelly appears to be engaged in a business that would have few, if any, of these benchmarks. Arguably, his freedom to come and go required him to have his own vehicle which is consistent with having tools for his own business and arguably his tractor can be seen as a necessary tool in this freelancing type of enterprise. However, even without treating these as relevant to the issue, the absence of business indicia in general, in this case, is not fatal to a finding that he is, in fact, conducting a business for his own account. I accept that he offered and performed a service that drew, almost solely, on his knowledge and experience. I accept Mr. Olson’s testimony that he promoted himself on that basis, in an entrepreneurial fashion, and that is consistent with a finding that he entered into a contract for services. His business required few of any of the benchmarks that the Respondent asserts are relevant. They are not, in this case.
+[46] In my view then, it is reasonable to conclude in this case that Mr. Pelly was engaged in a contract for services, not a contract of service. Were the case a close one so as to require a finding of the intentions of the parties, that factor too would support a finding that the relationship here was that of an independent contractor. As noted above, I am satisfied that the evidence supports, at least on a prima facie basis, that there was mutuality of intent in this case.
+[47] Accordingly, the appeals are allowed, without costs.
+Signed at Calgary, Alberta this 28th day of January 2011.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2011 TCC 56
+COURT FILE NO.: 2010-1021(EI); 2010-1022(CPP)
+STYLE OF CAUSE: OLSON'S WILD WEST BUFFALO RANCHES LTD. AND M.N.R.
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: January 24, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT: January 28, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Virginia A. Engel, Q.C.
+Counsel for the Respondent:
+Adam Gotfried
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Virginia A. Engel, Q.C.
+Firm: Peacock Linder & Halt LLP
+Barristers and Solicitors
+Suite 850 – 607-8th Avenue SW
+Calgary, Alberta, T2P 0A7
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Only the highlighted paragraphs were read in Court as being the assumptions that the Appellant addressed.
+[2] [1997] 2 S.C.R. 336.
+[3] 94 DTC 6050 (F.C.A.).
+[4] 2003 FCA 453.
+[5] 87 DTC 5025 (F.C.A.).
+[6] [2001] 2 S.C.R. 983.
+[7] 2006 FCA 87.
+[8] 2006 FCA 350.
+[9] 2010 TCC 399.
+[10] [2008] 4 C.T.C. 273 (F.C.A.).
+[11] 2008 TCC 626.

@@ -1,0 +1,157 @@
+Title: Williams v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28470/index.do
+Corpus path: corpus/cases/tcc/2005/2004-tcc-839-28470-williams-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-01-12
+
+# Williams v. M.N.R.
+
+- Citation: 2004 TCC 839
+- Decision date: 2005-01-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1236, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Williams v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-12
+Neutral citation
+2004 TCC 839
+File numbers
+2004-881(EI), 2004-882(CPP)
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Citation 2004TCC839
+Date: 20050112
+Dockets: 2004-881(EI)
+2004-882(CPP)
+BETWEEN:
+LINDA WILLIAMS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+_______________________________________________________________
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on November 19, 2004 at Winnipeg, Manitoba)
+REASONS FOR JUDGMENT
+Campbell J.
+[1] The issue in this appeal is whether the Appellant was engaged as an employee pursuant to a contract of services with the Housing Concerns Group of Winnipeg, (the "payor") or as an independent contractor pursuant to a contract for services for the period May 7, 2002 to December 31, 2002.
+[2] The Reply to the Notice of Appeal referred to the period as January 1, 2002 through to December 31, 2002. However, the Appellant confirmed that she considered herself an employee of the payor until May 7, 2002, at which time she felt the nature of the relationship changed, and she ceased to be an employee and became an independent contractor.
+[3] The Appellant has appealed the Minister's ruling that she was employed as an employee for the entire period January 1 through to December 31, 2002; the relevant period in question now being May 7, 2002 through to December 31, 2002.
+[4] The Appellant explained the background to the establishment of the payor organization which runs neighbourhood programs, youth employment and street safety programs. During the first two years she acted as a volunteer talking to city residents and organizing a volunteer council to assist in stabilizing or reclaiming, as she called it, a particular neighbourhood in Winnipeg.
+[5] Eventually the West Broadway Neighbourhood Housing Resource Centre was established, and the Appellant was able to obtain funding from the City. Over time it was incorporated and given non-charitable status.
+[6] Further funding was received from Health Canada and eventually the United Way. At this time the Appellant started working six-hour days.
+[7] In 2000 funding increased, and she stated that as a result her salary increased to $30,000.00 yearly, which allowed her to give up her part-time work with mental health patients.
+[8] Prior to May 2002 she testified that she received a work opportunity with the City of Winnipeg, doing the same type of work as for the payor but in other neighbourhoods of the city. At the same time as this offer the payor organization was at a critical stage in obtaining further United Way funding. Consequently, she testified that the board convinced her to stay on with the payor organization on a part-time consulting basis, which allowed her to accept the City's offer to work for it on a consulting basis.
+[9] Her evidence was that she has, since that date, incorporated her own consulting company, and has her own business licence.
+[10] She stated that the payor had given her a computer to use at home, and that she still has possession of this computer. She did state that at some point in time they would deal with this computer and she would probably pay the board for it.
+[11] The assumptions of fact are stated at paragraph 8, page 3 of the Reply to the Notice of Appeal as follows:
+8. In so deciding as he did the Minister relied on the following assumptions of fact:
+(a) the Payor operated a neighbourhood resource centre which was a non-profit charity;
+(b) the Appellant was the coordinator/executive director of the Payor;
+(c) the Appellant's duties included administration, supervision, budgeting and developing and coordinating the centre;
+(d) the Appellant was required to follow the Payor's guidelines and bylaws;
+(e) the Appellant was required to report to the Payor's board of directors;
+(f) the board of directors of the Payor had the right to dismiss the Appellant from her duties;
+(g) the Payor provided a computer, office space and office equipment for the Appellant to use in the performance of her duties;
+(h) the Payor provided a computer for the Appellant to use at her residence;
+(i) prior to May 7, 2002, the Appellant was paid a yearly salary of $30,000;
+(j) subsequent to May 7, 2002, the Appellant earned $440.00 biweekly;
+(k) the board of directors of the Payor determined the amount of the Appellant's pay;
+(l) the Appellant was reimbursed by the Payor for travel expenses incurred in the performance of her duties;
+(m) the Appellant was provided vacation and sick leave by the Payor;
+(n) the Appellant had to perform the services for the Payor personally;
+(o) the Appellant had no risk of loss in the performance of her duties for the Payor; and
+(p) in performing duties for the Payor, the Appellant was not in business for herself.
+[12] The onus of course is on the Appellant to overcome or demolish those assumptions. She agreed with (a), (e), (i), (j), (n) and (o).
+[13] She agreed that (b) was correct up to May 7, 2002, but that after this date she was working in a consulting capacity, and that another individual had been hired in May as executive director of the payor's programs. She dealt primarily with funding issues for the programs and services offered by the payor.
+[14] She agreed with (c) to the extent it described her work duties prior to May 2002. After this date she stated that she performed no supervisory tasks and was engaged strictly in consulting on fundraising activities for the centre.
+[15] Her response concerning assumption (d) was not completely clear. She stated that it was certainly true up to May 2002, but only to some extent thereafter. She stated one could not really get away from the policies and the way the centre was run, and that everyone at the centre followed the policies.
+[16] In respect to assumption (f) she stated that the board had no set policies on staffing and dismissal. However she believed the board probably could officially dismiss her.
+[17] She disagreed with (g) because after May 2002 other staff was using the office space, the computer and equipment. Although she thought she could use these, she stated she did not.
+[18] She agreed that she had a computer at home supplied by the payor, as stated in (h), but that she would arrange to pay for it at some point in time.
+[19] She disagreed with (k) because she stated her pay was determined by the funding she was able to bring through the doors of the centre.
+[20] She disagreed with (l) because she never travelled for the centre.
+[21] She disagreed with (m) because after May 2002 she stated she and the board dealt with sick leave when it arose and, further, that she received vacation time only up to May 2002.
+[22] On cross-examination she stated she and the centre had no written agreement, and that she was always paid bi-weekly. She did state that the board determined her rate of pay, in consultation with her, depending on the funding. She did not invoice the centre, nor did she charge GST to the centre.
+[23] Also on cross-examination she stated that since May 2002 she consulted with staff to ensure funding was being properly spent and budgeted. She stated that she attended the centre at least once per week, sometimes more often.
+[24] She stated she rarely incurred expenses, but if she did pick up some item, for example, from Staples, she would be reimbursed by the centre.
+[25] She stated that she attended the monthly board meetings to report on funding. She confirmed that she did not carry liability insurance.
+[26] The Appellant called one additional witness, Lina Johnston, president of the board for the centre. She confirmed that the Appellant among other things was doing all of the fundraising for the centre, and that in May 2002 they did not want to lose her to the City.
+[27] She stated that she was present during the board meeting where the Appellant told them she was accepting consulting work with the City and would be unable to provide the same number of hours to the centre.
+[28] She stated that the board agreed they required her input on funding on a part-time contractual basis. She confirmed that the Appellant reports to the board at its monthly meeting on program funding, as she had done prior to May 2002.
+[29] She stated that the individual employed in May 2002 as executive director provided written reports but did not personally attend the meetings. She also stated that she thought the board would have the right to dismiss the Appellant.
+[30] She confirmed the Appellant worked primarily from her home, had no set hours, attended at the centre one to two times per week, and that she had no office space or equipment available for her use at the centre.
+ANALYSIS:
+[31] To determine the issue in this appeal one must have regard to the four-step test described in the case of Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, and earlier in the case of Montreal v. Montreal Locomotive Works Ltd. et al., [1947] 1 D.L.R. 161.
+[32] The four-steps are degree or absence of control exercised by the employer; ownership of tools; chance of profit; and risk of loss.
+[33] Subsequent case law seems to suggest that the integration of the worker into the employer's business is a test that can be used in addition to the four-step test to assist in determining the overall relationship between the parties. However, it seems to have been relegated to a far less important role than the other four factors and in the end the central question to be asked in these appeals is whether the taxpayer, who was engaged to perform the service, is performing it as an individual in business on his own account, or as an individual performing a service in the capacity of an employee. So I must make this determination by examining the facts with reference to the aforesaid tests.
+[34] In respect to the control factor, as Respondent counsel rightly pointed out, it is not the actual control, but the right to control, that is important. Respondent counsel referred me to two items which she felt placed this factor in the payor's domain, and those were that the Appellant was integral to the centre, and she had to report in person to the board, much as she had done before May 2002, unlike the individual hired as executive director to take over her responsibilities (except fundraising) in May 2002.
+[35] However, there were other factors under the control test which favoured the Appellant's position. According to the Appellant, and confirmed by Ms. Johnston, she had no set hours, and the hours she did keep were completely at her discretion. She worked sporadically one to two times per week at the centre.
+[36] There was no direct evidence, but it appeared the Appellant conducted her fundraising activities with very little, if any supervision, except for the monthly reports to the board. This likely arose because the Appellant was involved with the centre from its inception, developing the contacts respecting the funding and the grants necessary for the centre's survival.
+[37] The Appellant, in her direct evidence, stated that the ultimate responsibility of what she was doing in fundraising was left up to her because it was a volunteer board operating a centre that was controlled and motivated by its own neighbourhood residents.
+[38] She also stated that to some extent she had input into her rate of pay, because inevitably it was dependent on the funding she was able to bring to the centre.
+[39] She also felt she had ultimate control with the work hours, and she stated in cross-examination, that she did not discuss her hours with the centre after May 2002. So if she took two weeks off, she would simply advise them she would not be there for that period. However, she stated she would not request the centre for the two-week period.
+[40] She stated she would get her work done at times other than during this two‑week period.
+[41] I believe on the control issue, when we look at the whole picture, the Appellant's role clearly changed in May 2002 from that of coordinator, executive director and fundraiser, to one of fundraiser only for the programs at the centre.
+[42] She now dictated her own hours, the days and times when she would go to the centre to work; potentially had input into her rate of pay; did not have to ask for time off; did not receive vacation time after May 2002, and worked with little to no supervision.
+[43] Although there are the several factors which the Respondent referred me, which point to control with the payor, there are many more factors here which point to the Appellant having the ultimate right to control many of the conditions of her work activities for the board.
+[44] In the end, I do not consider the fact that she continued to report to the board after May 2002 by attending the meetings personally a particularly weighty factor in the control test in these circumstances. There may have been any number of reasons this occurred while her replacement was permitted to give a written report. The board may have simply continued a longstanding procedure that was comfortable to both the board and the Appellant, or they may have simply had the Appellant attend personally to respond to queries, as she was at the centre so little after May 2002, while her replacement was at the centre on a regular basis. I am speculating here in any event, but I simply do not consider this factor extremely important when viewed against the totality of the other factors.
+[45] The next factor is the ownership of tools.
+[46] The only equipment here was a computer which the centre owned and the Appellant kept at her home. She was not required to return it in May 2002. There was no indication she would return it, the Respondent argued.
+[47] I do not believe the evidence supports this statement. Both the Appellant and Ms. Johnston stated that at some point they would deal with the computer in terms of the Appellant purchasing it.
+[48] Although this computer is clearly owned by the centre, the payor, it was not clear from the evidence how central it was to the Appellant's work activities. She did testify that working with computers was not a large part of her job. I believe she concluded that statement by saying, I work with people.
+[49] The computer, as a tool, may have had some place in her activities, although the evidence was simply silent as to whether it was essential to her work in obtaining the funding and the grants, and overseeing the implementation of the resulting programs.
+[50] In addition, Ms. Johnston confirmed that the centre's office space was very small, and that the centre, after May 2002, did not offer the Appellant a personal work space with office equipment.
+[51] I would, therefore, place less importance on the tools and equipment factor than I would on some of the other factors in the test.
+[52] The third factor is chance of profit.
+[53] She received a bi-weekly salary that was not dependent on hours worked. She had no employees or assistants.
+[54] Although she stated she could provide a substitute, it does not appear this issue ever arose or was directly addressed by the board or the Appellant.
+[55] Although the Respondent argued that the Appellant could not make extra money even if she got extra funding, that was not her evidence. The Appellant stated that the board determined her pay, in consultation with the Appellant, depending on the fundraising activities. I believe this links her rate of pay directly to her success or failure in the fundraising. This implies she could negotiate a higher rate of pay if she obtained greater funding.
+[56] This factor also bears on her risk of loss, the fourth factor. If she loses the funding and the grants, this impacts directly upon her pay, so her work activities and fundraising are directly linked to her chance of profit, as well as to her potential for risk of loss.
+[57] Although she is reimbursed for any out-of-pocket expenses, that certainly may apply just as readily to an independent contractor situation as to an employee, but in any event, it appeared this occurred infrequently if at all. She also testified that she never incurred any travel expenses.
+[58] Because there is clearly a risk of loss as well as a chance of profit, these point to the Appellant being an independent contractor. This is particularly so in these circumstances because of the unique position the Appellant held in an organization which appears, from the evidence, was 100 percent funded through bodies such as the United Way or Health Canada.
+[59] Based on the application of the four-step test, I conclude that there are more factors pointing in the direction of the Appellant being an independent contractor after May 2002, and that she therefore was in business on her own account.
+[60] The appeals respecting both the insurable and the pensionable employment are therefore allowed without costs.
+Signed at Ottawa, Canada, this 12th day of January 2005.
+"Diane Campbell"
+Campbell J
+CITATION
+2004TCC839
+COURT FILES NO.:
+2004-881(EI)
+2004-882(CPP)
+STYLE OF CAUSE:
+Linda Williams and
+The Minister of National Revenue
+PLACE OF HEARING
+Winnipeg, Manitoba
+DATE OF HEARING
+November 18, 2004
+REASONS FOR JUDGMENT BY:
+the Honourable Justice Diane Campbell
+DATE OF ORAL JUDGMENT
+November 19, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Agent for the Respondent:
+Christina Cheater (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

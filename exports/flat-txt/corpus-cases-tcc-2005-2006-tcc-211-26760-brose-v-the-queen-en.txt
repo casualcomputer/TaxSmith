@@ -1,0 +1,105 @@
+Title: Brose v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26760/index.do
+Corpus path: corpus/cases/tcc/2005/2006-tcc-211-26760-brose-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-04-12
+
+# Brose v. The Queen
+
+- Citation: 2006 TCC 211
+- Decision date: 2005-04-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3506, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brose v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-12
+Neutral citation
+2006 TCC 211
+File numbers
+2005-1045(GST)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-1045(GST)I
+BETWEEN:
+HEATHER & TIMOTHY BROSE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 21, 2006, at Kitchener, Ontario
+Before: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellants:
+Timothy E. Brose
+Counsel for the Respondent:
+Marie-Eve Aubry
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated June 10, 2004 is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment that on the basis that the Appellants are entitled to input tax credits of $23,878.50 pursuant to subsections 169(1) and 171(1) on the basis that they paid goods and services tax on the acquisition of the farm.
+Signed at Ottawa, Canada, this 12th day of April, 2006.
+"C.H. McArthur"
+McArthur J.
+Citation: 2006TCC211
+Date: 20050412
+Docket: 2005-1045(GST)I
+BETWEEN:
+HEATHER & TIMOTHY BROSE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This appeal is from an assessment of the Minister of National Revenue dated June 10, 2004 with respect to goods and services tax. The issue is whether the Appellants paid GST upon their purchase of a farm property, which tax was included in the purchase price; and whether they are allowed input tax credits (ITCs) of $23,878.50 pursuant to subsections 169(1) and 171(1) of the Excise Tax Act (the Act).
+[2] The Appellant, Timothy Brose, entered into an Agreement of Purchase and Sale[1]for the purchase of 100 acres described in paragraph 8 of the Agreement as "agricultural with single family residential". After closing, it was agreed between the Respondent and the Appellants that the allocation portion of the purchase price used for the farm in commercial activities was $365,000. The amount of $95,000 was allocated to the portion of sale use for residential housing. [2]
+[3] The Agreement provided in paragraph 7 that:
+7. GST: If this transaction is subject to Goods and Services Tax (G.S.T.), then such tax shall be included in the Purchase Price. If this transaction is not subject to G.S.T., Seller agrees to certify on or before closing, that the transaction is not subject to G.S.T.
+Subsequently, the Minister determined that GST was payable on the farm lands. The problem arises because no GST was remitted to the Minister. There is no doubt that GST was included in the purchase price which is evidenced by paragraph 7 of the Agreement of Purchase and Sale and the GST Declaration and Indemnity completed by the vendor, Brenda Doreen Bell, as of January 30, 2003 which Declaration states:
+2. I shall save the Purchasers harmless from and/or against any and all Goods and Services Taxes payable under the Act; penalties, costs and/or interest which may become payable by or assessed against the Purchasers as a result of any failure by me to comply with the terms of the Declaration and Indemnity, and/or if any of the matters set forth herein are untrue, inaccurate, misstated or misrepresented in regards to this declaration.
+[4] Counsel for the Respondent suggests that I ignore the above evidence because the vendor was unaware of a GST liability up to the eve of closing until she was, as she describes it, coerced into signing the Declaration. She added that there was no allocation of the purchase price in the Agreement, making a GST calculation impossible and that, while the Appellants described themselves as partners with respect to the farming business, Mrs. Brose did not refer to the farm business in her subsequent returns.
+[5] These arguments are of little significance but I will deal with them. For obvious reasons, the Agreement and Declaration cannot be ignored. They are binding contracts. The purchasers acted in absolute good faith.[3] Mr. Brose is a successful chartered accountant. He realized the significance of paragraph 7 in the Agreement and the Declaration. He and his wife relied on them. I believe the evidence of Brenda Donovan (formerly Bell) to the effect that paragraph 7 was never explained to her, and she had no idea there was a GST concern until the eve of closing. This is unfortunate, but no reason for the Appellants to be denied ITCs on the basis that they did not pay GST.
+[6] The only allocation of the purchase price is the one taken from the Appellants' appraisal and agreed to by the Respondent's assumptions in the Reply to the Notice of Appeal and specifically subparagraph 9(e) and similarly in subparagraphs 9(c) and 9(d), the Respondent acknowledges that the farm was purchased and used for by the supplier of commercial purposes. I attach no significance to the fact that the Appellant, Heather Brose, did not refer to the farm in her returns (2003 and 2004). Mr. Brose referred to his 50% interest in his returns, a loss in the first year and a gain in the second year. He stated he was embarrassed that he omitted showing his wife's 50% interest in her returns. It would have been to her overall advantage to do so. This has no relevance to the issue.
+[7] Counsel for the Respondent abandoned the issue as stated in the Reply which read:
+The issue to be decided is whether the Appellants should self-assess on the acquisition of the Farm.
+stating that the Respondent's only issue is whether the Appellants paid GST.
+[8] In conclusion, the Appellants contracted to purchase property on the basis that if the transaction was subject to GST, then such tax shall be included in the purchase price. The Minister determined that GST was payable. The purchase is deemed to have included the tax in the amount paid to the vendor. The vendor, Ms. Donovan corroborated this when signing the Declaration
+[9] There was no reference to whether the GST was in fact payable. Ms. Donovan through her solicitors, signed a Declaration to the effect that the sale of the property in question does not constitute a taxable supply of the property to the purchasers. That issue is left perhaps to another day.
+[10] For the reasons given above, I have no difficulty finding in favour of the Appellants. The appeal is allowed and referred to the Minister on the basis that the Appellants are entitled to ITCs of $23,878.50 pursuant to subsections 169(1) and 171(1) on the basis that they paid GST on the acquisition of the farm.
+Signed at Ottawa, Canada, this 12th day of April 2006.
+"C.H. McArthur"
+McArthur J.
+CITATION: 2006TCC211
+COURT FILE NO.: 2005-1045(GST)I
+STYLE OF CAUSE: Heather & Timothy Brose and
+Her Majesty The Queen
+PLACE OF HEARING: Kitchener, Ontario
+DATE OF HEARING: February 21, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: April 12, 2006
+APPEARANCES:
+Agent for the Appellants:
+Tim Brose
+Counsel for the Respondent:
+Marie-Eve Aubry
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Included in Exhibit A-2.
+[2] The purchase price set out in the Agreement of Purchase and Saleis $465,000, however, it is $460,000 in the Statement of Adjustment which is the amount used in these Reasons.
+[3] The Agreement was signed by Tim Brose alone for convenience. Title was taken in their joint names.

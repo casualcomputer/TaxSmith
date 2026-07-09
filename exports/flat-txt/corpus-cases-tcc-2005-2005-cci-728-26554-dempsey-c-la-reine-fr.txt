@@ -1,0 +1,151 @@
+Title: Dempsey c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26554/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-728-26554-dempsey-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-11-08
+
+# Dempsey c. La Reine
+
+- Citation: 2005 CCI 728
+- Decision date: 2005-11-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3562, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dempsey c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-08
+Référence neutre
+2005 CCI 728
+Numéro de dossier
+2004-4583(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4583(IT)I
+ENTRE :
+GAYLE SHARRON DEMPSEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 12 septembre 2005, à Toronto (Ontario)
+Par : l'honorable juge A. A. Sarchuk
+Comparutions
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Eric Sherbert
+____________________________________________________________________
+JUGEMENT
+Les appels contre des cotisations d'impôt établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 sont rejetés.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2005.
+« A. A. Sarchuk »
+Le juge Sarchuk
+Traduction certifiée conforme
+ce 13e jour de décembre 2005.
+Marc Doyon, traducteur
+Référence : 2005CCI728
+Date : 20051108
+Dossier : 2004-4583(IT)I
+ENTRE :
+GAYLE SHARRON DEMPSEY,
+appelante,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+[1] Dans le calcul de son revenu pour chacune des années d'imposition 2000 et 2001, l'appelante a inclus des paiements de pension alimentaire pour conjoint de 28 900 $ et 30 000 $ respectivement. Pour ces années d'imposition, le ministre du Revenu national a établi à l'égard de l'appelante de nouvelles cotisations incluant dans le revenu des paiements de pension alimentaire supplémentaires de 2 839 $ et 6 500 $ respectivement. Ce faisant, le ministre se fondait sur les hypothèses de fait suivantes :
+[TRADUCTION]
+a) l'appelante et Wayne Dempsey vivent séparés pour cause d'échec de leur mariage depuis au moins l'année d'imposition 1998;
+b) en vertu d'une ordonnance de la Cour supérieure de justice en date du 14 septembre 1998, Wayne Dempsey était tenu de payer à l'appelante une pension alimentaire pour conjoint de 1 400 $ par mois, à partir du 15 septembre 1998, et il devait être responsable de tout l'impôt sur le revenu que l'appelante paierait par suite de la réception de ladite pension alimentaire pour conjoint;
+c) une ordonnance temporaire de la Cour supérieure de justice (Cour de la famille) en date du 20 février 2001 a modifié l'ordonnance en date du 14 septembre 1998 en exigeant que Wayne Dempsey paie à l'appelante une pension alimentaire pour conjoint de 2 500 $ par mois, à partir du 15 février 2000, et que Wayne Dempsey soit responsable de tout l'impôt sur le revenu que l'appelante paierait par suite de la réception de ladite pension alimentaire pour conjoint;
+d) l'appelante a reçu de Wayne Dempsey les paiements mensuels requis de pension alimentaire pour conjoint, c'est-à-dire 28 900 $ et 30 000 $ pour les années 2000 et 2001 respectivement, et elle a inclus ces sommes dans son revenu pour ces années respectives;
+e) Wayne Dempsey a payé à l'Agence des douanes et du revenu du Canada (ADRC) la dette d'impôt sur le revenu de l'appelante au titre de la pension alimentaire pour conjoint comme l'exigeaient les ordonnances pertinentes, soit :
+2 839 $ le 25 août 2000
+2 500 $ le 8 janvier 2001
+4 000 $ le 29 octobre 2001
+f) l'appelante a omis d'inclure les 2 839 $ [...] dans son revenu pour l'année d'imposition 2000 et a omis d'inclure les 6 500 $ [...] dans son revenu pour l'année d'imposition 2001, et c'est uniquement ces montants supplémentaires que le ministre a inclus dans le revenu de l'appelante pour les années pertinentes;
+g) en vertu d'une ordonnance définitive de la Cour supérieure de justice (Cour de la famille) en date du 24 juin 2002, l'appelante était tenue de payer divers montants en matière de pension alimentaire pour conjoint à partir du 15 juillet 2002 et elle était responsable de tout impôt sur le revenu dû en raison de la pension alimentaire à partir du 1er janvier 2002;
+h) au 8 avril 2002 et au 1er mai 2002 respectivement, les sommes dues à l'ADRC, y compris les intérêts, pour les années d'imposition 2000 et 2001 de l'appelante, à l'égard de la pension alimentaire pour conjoint étaient de 2 284,09 $ et 6 110,07 $ respectivement (soit un total de 8 394,16 $), et, si ces montants ont été payés comme l'exigeait l'ordonnance définitive en date du 24 juin 2002, ils doivent être inclus dans le revenu de l'appelante pour l'année de leur paiement.
+[2] Dans l'avis d'appel, l'avocat de l'appelante a fait référence aux paragraphes 5, 6 et 9 de l'ordonnance du juge Wood en date du 24 juin 2002[1]. Ces paragraphes prévoient ce qui suit :
+[TRADUCTION]
+5. Au 8 avril 2002, le montant total dû à l'ADRC, y compris les intérêts, relativement aux déclarations de revenu de la requérante pour l'année 2000, à l'égard de la pension alimentaire pour conjoint était de 2 284,09 $ et devra être payé conformément au paragraphe 9 de la présente ordonnance.
+6. Au 1er mai 2002, le montant total dû à l'ADRC, y compris les intérêts, relativement aux déclarations de revenu de la requérante pour 2001, à l'égard de la pension alimentaire pour conjoint était de 6 110,07 $ et devra être payé conformément au paragraphe 9 de la présente ordonnance.
+20. Vu le paiement de compensation que l'intimé doit à la requérante, l'intimé transférera immédiatement à la requérante l'intérêt qu'il détient dans le domicile conjugal portant la désignation municipale R.R. no 3, Port Carling (Ontario) P0B 1J0. L'intimé devra signer tous les documents nécessaires pour donner effet à ce transfert dès qu'il recevra ces documents de l'avocat immobilier de la requérante.
+22. La requérante sera seule responsable du paiement de la dette d'impôt foncier relative au domicile conjugal au 24 juin 2002. L'intimé paiera sa part de l'impôt foncier y afférent dans le cadre du paiement requis en vertu du paragraphe 9 de la présente ordonnance [...]
+9. L'intimé devra avoir payé à la requérante la somme totale de 20 000 $ le 15 octobre 2002 ou avant, soit : 5 000 $ le 15 juillet 2002, le 15 août 2002, le 15 septembre 2002 et le 15 octobre 2002. Il s'agit de paiements à l'égard de l'arriéré d'impôt sur le revenu de la requérante, selon les paragraphes 5 et 6 de la présente ordonnance, et à l'égard de l'arriéré d'impôt foncier relatif au domicile conjugal.
+Se fondant sur ce qui précède, l'avocat de l'appelante affirmait en outre ceci :
+[TRADUCTION]
+5) Conformément aux paragraphes susmentionnés, ledit payeur intimé a versé à la contribuable la somme de 20 000 $[2]. Sur le montant payé, 8 394,16 $ ont été payés à l'égard de la dette d'impôt sur le revenu de la contribuable concernant les paiements de pension alimentaire reçus dans les années d'imposition 2000 et 2001. Le solde de 11 605,84 $ a été payé comme part d'impôt foncier dudit intimé dû à l'égard du domicile conjugal leur appartenant conjointement, à la date du transfert dudit domicile à la contribuable.
+6) La contribuable soutient que la seule partie dudit paiement de 20 000 $ assujettie à l'impôt sur le revenu est la somme de 8 394,16 $.
+(Le caractère gras est de moi.)
+[3] La raison de l'appel exposée par l'avocat de l'appelante est que « la contribuable conteste l'inclusion de la somme de 11 605,84 $ comme revenu imposable » . Je note au départ qu'il n'y a aucune preuve que la somme de 11 605,84 $ a été incluse dans le revenu de l'appelante et que rien n'indiquait dans le témoignage et les observations de l'appelante que c'était une question à trancher dans les appels. Ce que conteste l'appelante, c'est la cotisation d'impôt établie par l'intimée à l'égard des 8 394,16 $ payés à l'appelante par son ancien conjoint relativement à sa dette fiscale pour les années d'imposition 2000 et 2001.
+[4] La thèse de l'appelante est que l'accord de séparation signé le 24 juin 2002 et l'ordonnance du juge Wood datée de ce jour-là ont modifié ce que l'appelante appelait « la responsabilité en matière d'impôt sur le revenu » et que depuis cette date-là le paiement d'impôts est devenu sa responsabilité. Elle ne conteste pas que son ancien conjoint a payé pour les années 2000 et 2001 les sommes requises à l'égard de sa dette d'impôt sur le revenu et elle disait qu'en fait les sommes avaient été calculées par son comptable. Elle reconnaît en outre que les sommes reçues de son ancien conjoint et versées à l'ARC à l'égard de l'impôt constituaient des paiements reçus d'un payeur de pension alimentaire, pour le paiement de dépenses déterminées de la bénéficiaire de la pension alimentaire. Dans ce contexte, l'appelante concède que le paragraphe 56.1(4) de la Loi de l'impôt sur le revenu dispose que les paiements de pension alimentaire sont imposables entre les mains du bénéficiaire si : les paiements sont des allocations périodiques; le bénéficiaire peut les utiliser à sa discrétion; ils sont effectués aux termes d'une ordonnance ou d'un accord. De plus, si un accord prévoit que les paragraphes 56.1(2) et 60.1(2) s'appliquent, alors le montant payé par un payeur de pension alimentaire à l'égard des dépenses engagées pour subvenir aux besoins du bénéficiaire sera réputé être une allocation périodique que le bénéficiaire peut utiliser à sa discrétion et il sera déductible pour le payeur et imposable entre les mains du bénéficiaire.
+[5] L'appelante maintient toutefois que l'accord en cause ne fait pas expressément référence aux paragraphes 56.1(2) et/ou 60.1(2). Dans ce contexte, elle a cité la décision rendue par la Cour d'appel fédérale dans l'affaire Veilleuxc. Canada[3], dans laquelle il s'agissait de savoir si, en l'absence d'une mention expresse de ces paragraphes, on pouvait conclure du libellé de l'accord que les parties entendaient que les conséquences de ces dispositions législatives s'appliquent; ainsi, comme dans l'affaire Veilleux, l'époux pourrait déduire les paiements effectués. Dans cette cause, il a en outre été déterminé qu'un accord n'avait pas à faire expressément référence aux numéros des articles de la Loi et qu'il suffisait que l'accord soit libellé de manière que l'on puisse conclure que le payeur et le bénéficiaire de la pension alimentaire comprenaient les conséquences du paiement.
+[6] La thèse de l'appelante est que l'accord qu'elle et son ancien conjoint ont conclu ne faisait pas expressément référence aux paragraphes 56.1(2) et 60.1(2). L'appelante argue donc que c'est l'inverse de ce qu'il en était dans l'affaire Veilleux et que la question est de savoir si les parties ont la possibilité de convenir d'exclure l'application de ces dispositions législatives, de sorte que « l'épouse ne paie pas d'impôt sur les paiements faits par l'époux à l'égard de son impôt sur la pension alimentaire et que l'époux ne puisse déduire ces paiements » . Elle argue également que, s'il n'y a pas de disposition expresse à cet effet dans l'accord, il est loisible à la Cour de conclure du libellé de l'accord que les parties entendaient exclure l'application des conséquences de ces dispositions législatives.
+[7] L'appelante soutient également que le paragraphe 60.1(2) de la Loi permet la déductibilité de paiements faits aux bénéficiaires ou pour eux à l'égard de dépenses, si un accord prévoit que les paragraphes 56.1(2) et 60.1(2) s'appliquent aux sommes payées. Est ainsi créée, dit-elle, une autre possibilité pour le contribuable, puisque l'accord en cause ne prévoit pas l'application de ces dispositions législatives. Si l'accord ne prévoit pas l'application de ces dispositions, alors les paiements ne sont pas déductibles pour le payeur et ne sont pas imposables pour le bénéficiaire. Se fondant sur les motifs énoncés dans l'arrêt Veilleux, l'appelante maintient que les paragraphes 56.1(2) et 60.1(2) « laissent aux parties la possibilité de déterminer qui paiera l'impôt sur les paiements relatifs à des dépenses engagées pour le bénéficiaire » .
+[8] L'appelante maintient que l'accord en cause est libellé de telle façon que les conséquences fiscales d'un paiement effectué relativement à son impôt sur le revenu sont claires pour les parties. Il a été fait référence aux paragraphes 6 à 10 inclusivement et à l'alinéa 8a), qui, de l'avis de l'appelante, indiquait que l'époux était responsable de l'impôt de l'épouse sur les paiements de pension alimentaire jusqu'au 31 décembre 2001. Le paragraphe 7(2), prenant effet le 1er janvier 2002, dit qu'à partir de ce moment-là les paiements de pension alimentaire seront déductibles pour l'époux et imposables entre les mains de l'épouse, ce qui, disait cette dernière, a été convenu et est exécuté. Sur la foi de ce qui précède et en lisant ces dispositions avec la partie de l'accord indiquant que l'ancien conjoint de l'appelante est responsable de l'ensemble de l'impôt sur le revenu de l'appelante à l'égard des paiements de pension alimentaire avant le 1er janvier 2002, « on ne peut que conclure que les parties entendaient que les paiements relatifs à l'impôt sur le revenu de l'épouse ne soient pas déductibles pour l'époux avant le 1er janvier 2002. L'épouse ne serait pas responsable de l'impôt sur le revenu à l'égard de la pension alimentaire qui lui a été payée avant janvier 2002 » . Par conséquent, argue l'appelante, l'intention des parties était d'exclure l'application des paragraphes 56.1(2) et 60.1(2), et les paiements faits par son ancien conjoint relativement à ses obligations fiscales avant le 1er janvier 2002 ne sont pas des paiements de pension alimentaire imposables entre ses mains.
+Conclusion
+[9] J'ai examiné l'accord en cause et conclu qu'aucune disposition de ce dernier n'indique que l'ancien conjoint a accepté de renoncer à son droit à la déduction des montants de l'impôt payables par lui à l'égard des paiements de pension alimentaire pour conjoint faits à l'appelante ou pour elle dans les années 2000 et 2001. Dans ce contexte, je renvoie expressément aux dispositions suivantes de l'accord :
+[TRADUCTION]
+7(2) À partir du 1er janvier 2002, l'époux pourra déduire de son revenu les paiements de pension alimentaire pour conjoint, conformément à la Loi de l'impôt sur le revenu (du Canada), et l'épouse sera responsable de tout impôt sur le revenu dû par suite de la réception de cette pension.
+7(6) En conformité avec l'ordonnance par consentement du juge Sheppard en date du 14 septembre 1998, l'époux a payé à l'épouse une pension alimentaire pour conjoint de 1 400 $ par mois du 15 septembre 1998 au 14 février 2000. Également en conformité avec cette ordonnance, l'époux était responsable de l'impôt sur le revenu de l'épouse quant à ces paiements de pension alimentaire pour conjoint.
+7(7) En conformité avec l'ordonnance par consentement du juge Eberhard en date du 20 février 2001, l'époux a payé à l'épouse une pension alimentaire pour conjoint de 2 500 $ par mois du 15 février 2001 au 31 décembre 2001. Également en conformité avec cette ordonnance, l'époux est responsable de l'impôt sur le revenu de l'épouse quant à ces paiements de pension alimentaire pour conjoint.
+7(8) Les parties reconnaissent et acceptent le fait que, en janvier 2001, l'époux a payé des impôts sur le revenu et intérêts y afférents dus par l'épouse à l'ADRC à l'égard des impôts sur le revenu net pour les années 1998 et 1999. Si un arriéré et/ou des intérêts supplémentaires sont dus par l'épouse à l'ADRC à l'égard de ses impôts sur le revenu pour 1998 et 1999, l'époux sera seul responsable du paiement de ces sommes à l'ADRC lorsque l'épouse l'en informera et lui fournira une preuve du montant dû.
+7(9) Les parties reconnaissent et acceptent le fait que, conformément aux déclarations de revenu de l'épouse pour l'année 2000 qui ont été établies, puis déposées auprès de l'ADRC, l'impôt sur le revenu de l'épouse dû relativement à la pension alimentaire pour conjoint payée par l'époux à l'épouse en l'an 2000 s'élève à 7 986,04 $. Le 8 avril 2002, le montant total dû à l'ADRC, y compris les intérêts, était de 2 284,09 $. Ce montant sera payé conformément à l'alinéa 8a) du présent document.
+7(10) Les parties reconnaissent et acceptent le fait que, conformément aux déclarations de revenu de l'épouse pour 2001 qui ont été établies, puis déposées auprès de l'ADRC, l'impôt sur le revenu de l'épouse dû relativement à la pension alimentaire pour conjoint payée par l'époux à l'épouse en 2001 s'élève à 6 110,07 $. Le 1er mai 2002, le montant total dû à l'ADRC, y compris les intérêts, pour l'année civile 2001 est de 6 110,07 $. Ce montant sera payé conformément à l'alinéa 8a) du présent document.
+8A Paiements antérieurs au 15 octobre 2002
+a) L'époux devra avoir payé à l'épouse la somme totale de 20 000 $ le 15 octobre 2002 ou avant, soit : 5 000 $ le 15 juillet 2002, le 15 août 2002, le 15 septembre 2002 et le 15 octobre 2002. Il s'agit de paiements à l'égard de l'arriéré d'impôt sur le revenu de l'épouse et de l'arriéré d'impôt foncier relatif au domicile conjugal.
+Je note aussi que, dans l'ordonnance du juge Wood, le paragraphe 2 prévoit expressément que, à partir du 1er janvier, l'époux pourra déduire de son revenu les paiements de pension alimentaire pour conjoint, conformément à la Loi de l'impôt sur le revenu (du Canada), et que l'épouse sera responsable de tout impôt sur le revenu dû par suite de la réception de cette pension alimentaire. À mon avis, les dispositions susmentionnées de l'accord et de l'ordonnance indiquent clairement que la responsabilité de l'appelante à l'égard du paiement de l'impôt sur le revenu a commencé le 1er janvier 2002 et confirment le fait que tous les paiements relatifs aux dettes fiscales impayées de l'épouse au 1er janvier 2002 seraient la responsabilité de l'ancien conjoint de l'appelante et pourraient être déduits par lui.
+[10] Par conséquent, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2005.
+« A. A. Sarchuk »
+Le juge Sarchuk
+Traduction certifiée conforme
+ce 13e jour de décembre 2005.
+Marc Doyon, traducteur
+RÉFÉRENCE :
+2005CCI728
+No DE DOSSIER DE LA COUR :
+2004-4583(IT)I
+INTITULÉ DE LA CAUSE :
+Gayle Sharron Dempsey et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 12 septembre 2005
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge A. A. Sarchuk
+DATE DU JUGEMENT :
+Le 8 novembre 2005
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Eric Sherbert
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom :
+S/O
+Étude :
+S/O
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Par inadvertance, l'ordonnance du juge Wood n'a pas été déposée comme pièce au tribunal, mais elle était annexée à l'avis d'appel, et les deux parties y ont fait référence.
+[2] La mention du payeur intimé désigne Wayne Dempsey.
+[3] [2002] A.C.F. 737.

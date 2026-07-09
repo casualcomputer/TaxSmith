@@ -1,0 +1,173 @@
+---
+title: "Muir c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/460275/index.do"
+last_modified: "2020-01-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 8"
+citation2: ""
+neutral_citation: "2020 CCI 8"
+decision_date: "2020-01-22"
+language: "fr"
+item_id: "460275"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4248
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T07:07:46.420000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f0fb08adfeae9cd8ebb1b2c888b340f1e1490be04692dc9d6a46e91ac33ffa13"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Muir c. La Reine
+
+- Citation: 2020 CCI 8
+- Decision date: 2020-01-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4248, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Muir c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-01-22
+Référence neutre
+2020 CCI 8
+Numéro de dossier
+2018-4085(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-4085(IT)I
+ENTRE :
+SHARNELL R. MUIR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 6 janvier 2020, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocat de l’appelante :
+Me Kalev A. Anniko
+Avocat de l’intimée :
+Me Keil Walker
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation portant le numéro 4099224, établie aux termes de l’article 160 de la Loi de l’impôt sur le revenu, est accueilli, et la cotisation est annulée avec dépens, selon les motifs du jugement énoncés ci-après.
+Si les parties ne parviennent pas à un accord concernant les dépens, chacune pourra soumettre des observations écrites d’au plus dix pages, dans un délai de 30 jours.
+Signé à Toronto (Ontario), ce 22e jour de janvier 2020.
+« Patrick Boyle »
+Le juge Boyle
+Référence : 2020 CCI 8
+Date : 20200122
+Dossier : 2018-4085(IT)I
+ENTRE :
+SHARNELL R. MUIR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] La Cour est saisie d’un appel soumis à la procédure informelle, interjeté par l’appelante à l’encontre d’une cotisation établie aux termes de l’article 160 relativement à un montant d’argent qui lui a été transféré par une société dont elle était l’unique actionnaire et administratrice.
+[2] Mme Muir est dentiste. Elle a exercé la dentisterie par l’intermédiaire d’une société professionnelle et d’au moins une autre société. En janvier 2013, tous les actifs de son cabinet dentaire ont été vendus à un autre dentiste avec qui Mme Muir n’avait aucun lien de dépendance.
+[3] Mme Muir a été le seul témoin. L’intimée n’a appelé aucun témoin. Mme Muir était un témoin crédible et digne de confiance.
+[4] La totalité des actifs de Dr. S. Muir Inc. (la société) ont été vendus par cette société. Le prix de vente s’élevait à 1,2 million de dollars. Lors de la conclusion de la vente, le 13 janvier, le cabinet d’avocats de la société a utilisé le montant d’argent reçu de l’acheteur, entre autres pour le remboursement anticipé du bailleur d’équipement ainsi que pour le paiement d’un prêt consenti au centre dentaire, de [traduction] « cartes de crédit professionnelles Visa » (je ne sais pas s’il s’agissait de cartes de la société, d’un autre partenariat ou d’une autre entité au sein de la pratique), de ses honoraires d’avocats, ainsi que des salaires, indemnités de vacances et indemnités de départ des employés. Ces paiements ont totalisé près de 1,1 million de dollars. Le solde, soit 124 000 $, a été versé à l’appelante. Tous ces paiements ont été faits conformément à une directive et autorisation de paiement datée du 4 janvier 2013, adressée au cabinet d’avocats du vendeur et signée par Mme Muir, la société et une autre de ses sociétés.
+[5] Selon les éléments de preuve produits par Mme Muir, le montant de 124 000 $ lui a été transféré afin qu’elle puisse répartir facilement, efficacement et à moindre coût cette somme entre les personnes et créanciers auxquels la société devait de l’argent, notamment pour rembourser les sommes qui étaient gardées en fiducie pour des patients, principalement pour la poursuite de traitements orthodontiques. Mme Muir dit avoir discuté de cette pratique avec ce même avocat, lequel était au courant de son intention et de son obligation d’utiliser l’argent à cette fin, de son engagement et consentement à le faire et des motifs y afférents. De fait, dès le lendemain de la conclusion de la vente, Mme Muir a commencé à utiliser la totalité de cette somme à cette fin. La Couronne ne conteste pas le fait que la totalité des 124 000 $ (et environ 1 000 $ de plus) ont été répartis, comme l’a décrit Mme Muir, entre d’anciens patients (environ les deux tiers) et des créanciers. En plus du remboursement des montants d’argent détenus en fiducie pour d’anciens patients, divers créanciers de la société ont aussi été remboursés, dont l’organisme responsable de la sécurité au travail, l’Agence du revenu du Canada pour la taxe de vente harmonisée (TVH) exigible et les retenues à la source, des laboratoires, Purolator et MasterCard. Aucun de ces paiements n’était destiné à des fins personnelles, et tous étaient reliés au cabinet dentaire.
+[6] Au moment où Mme Muir a réparti les 124 000 $ entre d’anciens patients et des créanciers, elle ignorait que la société avait une dette fiscale et elle n’avait aucune raison de penser qu’une telle dette pouvait exister. La société a reçu une première cotisation à l’égard de cette dette fiscale à la fin de juin de l’année suivante. La Couronne a reconnu qu’elle ne contestait pas le fait que Mme Muir ignorait l’existence d’une possible dette fiscale en 2013. À la fin de juin 2014, une nouvelle cotisation correspondant au montant d’argent donnant lieu à la dette fiscale a été établie, et la cotisation imposée à Mme Muir aux termes de l’article 160 a été rendue à la mi-novembre 2016. Je ne sais pas ce qui a donné lieu à la dette fiscale de la société.
+[7] La vente a été conclue le 13 janvier. Le 14 janvier, les 124 000 $ ont été déposés dans le compte BMO Marge de crédit (BMO MC) de Mme Muir. Le même jour, Mme Muir a transféré un montant de 100 000 $ de son compte BMO MC à un nouveau compte qu’elle avait ouvert à la Banque TD et qui devait servir, et de fait a servi uniquement, au remboursement d’anciens patients et des créanciers en question. Le 14 janvier, Mme Muir a aussi commencé à faire des chèques à d’anciens patients ou à leur nouveau dentiste (l’acheteur ou un autre dentiste). Les dossiers de la BMO et de la TD ont été déposés en preuve, et Mme Muir a été en mesure de les expliquer. À la barre des témoins, elle avait aussi en sa possession les chèques payés et elle a été en mesure d’établir une correspondance entre les chèques et les relevés. Il ne fait aucun doute que ces éléments corroborent le témoignage de Mme Muir selon lequel elle était liée à sa société pour ces paiements.
+[8] Le nombre de patients dont l’argent était détenu en fiducie, et qui ont décidé de ne pas poursuivre leur traitement avec l’acheteur et ont demandé que les sommes retenues soient versées à un autre dentiste de leur choix ou leur soient remboursées, a été plus élevé que prévu. Cela a causé quelques difficultés supplémentaires, car Mme Muir s’attendait à remettre la majeure partie de la somme à l’acheteur suivant les instructions de ses anciens clients. Dans un courriel daté du 23 janvier, l’avocat indique à Mme Muir qu’il est dans son intérêt supérieur de traiter avec chacun de ses patients traités en orthodontie et de les rembourser directement afin que chacun puisse décider de la suite de son traitement. Cet échange par courriel corrobore lui aussi le témoignage de Mme Muir, où elle déclare que l’avocat qui la représentait, elle et ses sociétés, savait lors de la conclusion de la vente que le montant de 124 000 $ serait distribué comme elle l’a décrit dans son témoignage; cela est également conforme à son explication qu’il serait plus facile et moins coûteux pour elle d’effectuer elle-même les paiements, plutôt que de payer ses avocats, comptables ou autres personnes pour le faire, ce que de toute façon ils n’auraient pu faire sans la consulter pour connaître les sommes dues aux patients et aux créanciers.
+[9] Le seul élément de preuve contesté par la Couronne est la déclaration de Mme Muir dans laquelle elle dit avoir accepté et avoir été obligée d’utiliser l’intégralité des 124 000 $, et s’y être engagée, pour rembourser ses anciens patients et des créanciers.
+[10] La Couronne qualifie cette déclaration de simple obligation morale ou de décision personnelle et soutient que Mme Muir n’a décidé d’agir ainsi qu’après avoir découvert que des patients ne poursuivraient pas leur traitement avec l’acheteur ou qu’ils auraient à payer davantage que le montant d’argent qu’elle avait initialement estimé, ce qui l’a amenée à éprouver de la compassion pour eux et à vouloir les rembourser. La deuxième partie de cette thèse n’a aucun sens et va à l’encontre de la preuve indiquant que Mme Muir a commencé à rembourser plusieurs patients dès le lendemain de la conclusion de la vente. Cela va aussi à l’encontre de la lettre que Mme Muir a envoyée à la fin de février à la British Columbia Dental Association. Cette lettre n’est pas incompatible avec son témoignage, selon lequel elle ne cherchait pas, lors de la conclusion de la vente, à protéger les sommes gardées en fiducie pour ses patients des autres créances.
+[11] La Couronne a expliqué ce qu’elle entendait par obligation morale, tout en précisant qu’elle y voyait simplement une décision discrétionnaire personnelle de la part de Mme Muir, qui a elle-même choisi de dépenser les 124 000 $ de cette manière puisque la loi ne l’y obligeait pas.
+[12] La Couronne n’a présenté aucun élément de preuve contredisant Mme Muir, et cette dernière n’a pas modifié ses réponses aux questions portant sur quelque aspect matériel des 124 000 $ durant son contre-interrogatoire.
+[13] Durant son argumentation, la Couronne a soulevé deux points qui, selon elle, mettent en doute la crédibilité de Mme Muir; ces points concernent les réponses que Mme Muir a données à des questions portant sur d’autres sujets lors contre-interrogatoire.
+[14] Le premier point concerne un appel téléphonique reçu de l’Agence à l’automne 2015, au cours duquel l’Agence a demandé à Mme Muir si elle accepterait d’acquitter volontairement la dette fiscale de la société; Mme Muir a déclaré qu’elle ne se souvenait pas de ce qu’elle avait répondu lors de cet appel, ajoutant toutefois que l’Agence aurait certainement réalisé, au fil des ans, qu’elle n’acceptait pas volontairement de payer, pas plus qu’après avoir reçu la cotisation en litige établie aux termes de l’article 160. La Couronne affirme qu’il n’était pas raisonnable de penser que Mme Muir ne pouvait pas se souvenir de ce qu’elle avait répondu lors du premier appel concernant une dette fiscale de 20 000 $ qui remontait à sept ans, et que cela mettait en doute sa crédibilité globale. Je ne suis pas d’accord. La Couronne n’a pas déposé en preuve la réponse que Mme Muir a donnée à l’époque, selon l’Agence. Cependant, quelle que soit la réponse de la contribuable lors de cet appel, cela n’influe d’aucune façon sur le bien-fondé de la question concernant la validité de la cotisation établie aux termes de l’article 160. Au cours d’une période de sept ans, bien des choses peuvent se produire dans la vie d’une personne qui peuvent amener cette personne à ne pas se souvenir de la réponse donnée à un appel reçu de l’Agence. Je ne m’attendrais pas nécessairement à ce que tous les Canadiens se souviennent de leur réponse à un tel appel, à moins que leur réponse n’ait été catégorique, par exemple s’ils avaient accepté d’emblée de payer puis, après avoir versé une partie de la somme et consulté un professionnel, avoir réalisé qu’il s’agissait en fait d’un paiement volontaire ou, à l’autre extrême, s’ils avaient répondu dans un langage coloré avant de raccrocher violemment. Qui plus est, cette question diffère clairement de la question en litige en l’espèce et de ces aspects du témoignage de Mme Muir. Même si Mme Muir s’était rappelé sa réponse, quelle que soit la réponse, je ne vois pas en quoi cela pourrait m’aider à statuer sur le bien-fondé de la présente affaire.
+[15] L’autre préoccupation exprimée par la Couronne au sujet de la crédibilité générale de Mme Muir est que celle-ci ne pouvait se rappeler pourquoi ses comptables lui avaient recommandé de se constituer en société professionnelle pour exercer la dentisterie il y a des décennies, au moment où la constitution en personnel morale a été autorisée. Mme Muir n’a pas voulu formuler d’hypothèses ni de commentaires généraux au sujet de la responsabilité limitée, de la planification successorale, de la planification de la retraite ou encore du report ou de la réduction de l’impôt ou des droits exigibles. Selon la Couronne, cela mine la crédibilité globale de Mme Muir et devrait m’amener à mettre en doute son serment de dire la vérité. Encore une fois, je ne suis pas d’accord. Même si je m’attends à ce que bon nombre de dentistes ou autres professionnels non spécialisés en droit ou en fiscalité puissent être en mesure de donner une réponse générale sur les avantages d’une société professionnelle, je doute qu’ils puissent se rappeler des détails précis qui leur ont été donnés la première fois qu’on leur a parlé de la constitution en société professionnelle. Quoi qu’il en soit, cette question de portée générale n’a pas été posée à Mme Muir. Plus important encore, j’ai eu des contacts, personnels et professionnels, avec suffisamment de dentistes, médecins, vétérinaires, agents immobiliers, etc. pour savoir qu’il serait déraisonnable de s’attendre, même de loin, à ce que tous puissent me dire quels sont les avantages d’une société professionnelle – encore moins de me les décrire de façon exacte. Durant son témoignage, Mme Muir a parlé avec franchise de ce dont elle ne pouvait se souvenir et elle a clairement exprimé sa réticence à émettre des hypothèses. Ce ne sont pas les deux seules questions dont elle ne pouvait se rappeler les réponses. Cependant, là encore, il ne s’agit pas de questions dont les réponses pourraient m’aider à juger du bien-fondé de la présente affaire. Cela ne m’amène pas à mettre en doute sa volonté de dire la vérité en réponse aux questions posées sous serment, ni à mettre en doute son témoignage expliquant les raisons pour lesquelles le montant de 124 000 $ lui a été transféré à la conclusion de la vente afin qu’elle puisse rapidement le distribuer, notamment compte tenu de la preuve corroborante présentée.
+[16] La Couronne souligne le fait que Mme Muir a déposé le montant supplémentaire de 124 000 $ reçu de la société dans son compte BMO MC, puis qu’elle a transféré 100 000 $ de cette somme dans son nouveau compte TD. Le solde de 24 000 $ laissé dans son compte BMO MC a donc brièvement réduit son découvert ou sa marge de crédit sur ce compte, ce qui lui a permis de réaliser personnellement des économies, en réduisant les intérêts qui auraient autrement été perçus sur son découvert ou sa marge de crédit. Cependant, cela ne modifie en rien le fait qu’elle a rapidement utilisé l’intégralité des 124 000 $ pour rembourser des patients et des créanciers de la société et de son cabinet dentaire, ainsi qu’il a été décrit précédemment. Cela n’a eu pratiquement aucun effet sur les patients et les créanciers. Le résultat pour eux est le même, qu’elle ait placé l’argent dans une jarre à biscuits, sous son matelas ou dans un compte-chèques ne portant pas intérêt. Je considère que cette question est accessoire et qu’elle n’est d’aucune façon liée aux questions en litige. Certes, cela soulève une question distincte sur les avantages conférés à un actionnaire, mais notre Cour n’a pas été saisie de cette question et celle-ci semble trop hors délai pour qu’elle en soit un jour saisie. Je ne vois pas non plus en quoi cela pourrait miner la crédibilité de Mme Muir au sujet des éléments de preuve qu’elle a présentés à notre Cour : de fait, les documents déposés en preuve montrent clairement la réduction du découvert ou de la marge de crédit, Mme Muir a décrit le compte comme étant son compte marge de crédit et elle a d’emblée reconnu les économies d’intérêts qu’elle a réalisés durant la période de distribution. Qui plus est, les éléments de preuve montrent que les montants d’argent qui ont été versés aux patients pour les sommes gardées en fiducie, en sus des 124 000 $ reçus de la société, provenaient également de ce compte BMO MC; cette somme excédentaire aurait donc annulé, dans la même mesure, toutes les économies d’intérêt dont elle aurait pu personnellement bénéficier, lesquelles seraient de toute façon assez modestes si l’on se fie aux déclarations produites.
+[17] Dans l’arrêt Canada c. Livingston, 2008 CAF 89, la Cour d’appel fédérale énonce les quatre principaux critères servant à déterminer si l’article 160 s’applique. Il s’agit des critères suivants :
+[17] Étant donné la signification claire des termes du paragraphe 160(1), les critères dont dépend le déclenchement de son application se révèlent évidents :
+1) L’auteur du transfert doit être tenu de payer des impôts en vertu de la Loi au moment de ce transfert.
+2) Il doit y avoir eu transfert direct ou indirect de biens au moyen d’une fiducie ou de toute autre façon.
+3) Le bénéficiaire du transfert doit être :
+i. soit l’époux ou conjoint de fait de l’auteur du transfert au moment de celui-ci, ou une personne devenue depuis son époux ou conjoint de fait;
+ii. soit une personne qui était âgée de moins de 18 ans au moment du transfert;
+iii. soit une personne avec laquelle l’auteur du transfert avait un lien de dépendance.
+4) La juste valeur marchande des biens transférés doit excéder la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert.
+[18] Les faits en l’espèce satisfont clairement aux trois premiers critères. La seule question en litige pour notre Cour concerne le quatrième critère énoncé dans l’arrêt Livingston – à savoir si la société a reçu une contrepartie totale pour le montant d’argent qui a été transféré à Mme Muir.
+[19] Je conclus que les 124 000 $ ont été transférés par la société à Mme Muir à la vente de son cabinet dentaire, sous réserve que la totalité de cette somme soit rapidement utilisée pour remettre aux patients les sommes qui avaient été placées en fiducie et rembourser les créanciers.
+[20] Cette condition avait été prévue et comprise par l’appelante et la société, et Mme Muir l’a satisfaite rapidement et intégralement pour la totalité du montant d’argent reçu. En plus de ma conclusion selon laquelle Mme Muir s’est engagée à respecter cet arrangement, je note qu’il semble que la loi aurait reconnu à ses patients et aux créanciers de la société le droit de retracer toute somme en cause, si la société lui avait transféré cette somme à toute autre fin ou si elle l’avait utilisée à toute autre fin. La décision que Mme Muir a prise, quant à la manière de dépenser à son entière discrétion la somme dont elle disposait personnellement, n’était nullement discrétionnaire, personnelle ou morale.
+[21] L’article 160 et les autres dispositions comparables d’autres lois fiscales ont été à juste titre décrits comme ayant des résultats qui semblent sévères et draconiens dans les circonstances de certains contribuables. Cela est dû à la portée et à l’étendue de ces dispositions, dont l’objectif visé par le législateur au moment de leur adoption était de protéger l’intégrité du régime fiscal canadien; ce motif ne justifie pas la non-application de l’article 160 comme il a été libellé et interprété par la Cour d’appel fédérale. Je souscris entièrement à cette vue, à la fois comme énoncé de droit et sur une base régulière dans le contexte des appels en matière fiscale interjetés devant notre Cour. Cependant, je ne connais aucune affaire où ce texte législatif a été jugé dénué de sens. J’ai tenté, dans la décision Gambino c. La Reine, 2008 CCI 601, d’établir clairement que je ne crois pas que l’interprétation faite de l’article 160 dans l’arrêt Livingston pourrait s’appliquer dans des cas donnant lieu à des résultats totalement dénués de sens :
+IV. Discussion
+[19] L’application du paragraphe 160(1) est assujettie à quatre critères. Ceux‑ci ont été énoncés dans la décision Williams v. Her Majesty the Queen, 2000 D.T.C. 2340, et approuvés par la Cour d’appel fédérale dans l’arrêt Raphael v. Her Majesty the Queen, 2002 D.T.C. 6798, lequel a confirmé la décision de la présente cour rendue par M. le juge Mogan. Il s’agit des critères suivants :
+1) il doit y avoir eu un transfert de biens;
+2) il faut que l’auteur et le bénéficiaire du transfert aient un lien de dépendance;
+3) le bénéficiaire du transfert ne doit pas avoir donné de contrepartie à l’auteur du transfert (ou doit lui avoir donné une contrepartie insuffisante);
+4) l’auteur du transfert doit payer un montant en vertu de la Loi au cours de l’année dans laquelle les biens ont été transférés ou d’une année antérieure.
+[20] Dans l’arrêt Livingston, la Cour d’appel fédérale fait état de ces quatre mêmes exigences, bien que dans un ordre et en des termes différents.
+[...]
+[23] Quant à la troisième exigence relative à la contrepartie, la contribuable fait valoir que, s’il y a eu un transfert de propriété, elle a donné une contrepartie suffisante lorsqu’elle s’est empressée de faire ce qu’on lui demandait, à savoir remettre les espèces à son fils et rembourser le prêt qu’elle lui avait consenti.
+[24] Comme il a été mentionné précédemment, la Couronne s’appuie en très grande partie sur l’arrêt Livingston de la Cour d’appel fédérale. Cependant, il importe de signaler que les faits dans cette affaire sont bien différents de ceux présentés devant moi. Dans cet arrêt, on avait élaboré un stratagème visant à cacher des actifs pour échapper à des créanciers, et les parties avaient en réalité comploté en vue de léser l’ARC. Même si ce n’est pas une condition préalable à l’application de l’article 160, la Cour d’appel a précisé qu’il s’agissait d’un fait « crucial » dans le cadre de l’appel dont elle était saisie. Or, cette connaissance et cette intention font défaut en l’espèce. Dans l’arrêt Livingston, la Cour affirme au paragraphe 19 que cette connaissance et cette intention peuvent se révéler pertinentes pour apprécier le caractère suffisant de la contrepartie donnée.
+[25] Dans l’arrêt Livingston, la bénéficiaire du transfert avait ouvert un compte bancaire dans lequel la débitrice fiscale pouvait déposer ses chèques. La bénéficiaire du transfert a remis à la débitrice fiscale la seule carte bancaire du compte ainsi que des chèques en blanc signés sur ce compte afin de lui permettre d’en effectuer des retraits et de s’en servir comme s’il s’agissait de son propre compte, ce qu’elle a fini par faire. Les relevés bancaires étaient toutefois envoyés à la débitrice fiscale.
+[26] Dans cet arrêt, au paragraphe 27, la Cour énonce de la façon suivante l’objet visé par le paragraphe 160(1) :
+Sous le régime du paragraphe 160(1), le bénéficiaire d’un transfert de biens est redevable à l’ARC dans la mesure où la juste valeur marchande de la contrepartie donnée pour ces biens est inférieure à la juste valeur marchande de ceux‑ci. L’objet même du paragraphe 160(1) est d’assurer la conservation de la valeur des biens existants dans le patrimoine du contribuable aux fins de recouvrement par l’ARC. Dans le cas où le contribuable s’est entièrement dessaisi de ces biens, le paragraphe 160(1) prévoit la possibilité pour l’ARC d’exercer ses droits sur lesdits biens contre le bénéficiaire de leur transfert. Cependant, ce paragraphe n’est pas d’application lorsque l’auteur du transfert a reçu au moment de celui‑ci une somme équivalente à la valeur des biens transférés, c’est‑à‑dire une contrepartie à la juste valeur marchande. La raison en est qu’une telle transaction ne lèse pas l’ARC en tant que créancier. Si l’on applique ces principes à la présente espèce, il apparaît clairement que la transaction opérée entre l’intimée et Mme Davies n’a apporté à celle‑ci rien d’équivalent aux biens transférés qui aurait pu être recouvré par l’ARC, de sorte qu’on ne peut absolument pas dire qu’il y ait eu contrepartie.
+[Non souligné dans l’original.]
+[27] Au paragraphe 18 de ses motifs, la Cour avait déjà renvoyé aux propos qu’elle a tenus dans l’arrêt Medland v. Her Majesty the Queen, 98 D.T.C. 6358, selon lesquels l’objet et l’esprit de ce paragraphe « consistent à empêcher un contribuable de transférer ses biens à son conjoint [ou encore à un mineur ou à une personne avec qui il a un lien de dépendance] afin de faire échec aux efforts déployés par le ministre pour percevoir l’argent qui lui est dû ».
+[22] Bien que le résumé que fait la Cour d’appel fédérale des quatre critères nécessaires à l’application de l’article 160 soit rédigé en termes généraux dans l’arrêt Livingston, ces critères ont été énoncés dans les motifs d’une manière qui montre clairement que les arrangements qui avaient été pris par le bénéficiaire du transfert dans cette affaire pour transférer l’argent avaient pour but d’aider l’auteur du transfert à soustraire cette somme à ses créanciers, y compris à l’Agence. En l’espèce, en revanche, je juge non seulement que l’objectif visé, l’accord pris et la méthode utilisée visaient à distribuer plus facilement et à moindre coût l’argent à ceux qui y avaient droit, mais également que la position de l’Agence, en ce qui concerne la dette fiscale de la société, n’aurait d’aucune façon été différente si la société n’avait pas d’abord remis l’argent à l’appelante, mais avait elle-même versé directement les mêmes sommes aux patients dont l’argent était gardé en fiducie et aux autres fournisseurs et créanciers légitimes de la société, ou même si la société avait laissé les fonds à ses avocats en leur donnant pour directives de répartir l’argent de la même façon après la conclusion de la vente. Je refuse de croire que l’intention du législateur ou de la Cour d’appel fédérale dans l’arrêt Livingston était que l’article 160 s’applique dans les cas où, non seulement l’Agence n’est pas en cause, mais également ne pourrait jamais l’être, ou ceux où l’auteur ou le bénéficiaire du transfert n’a pas tenté de placer l’Agence dans une position différente à la suite du transfert.
+[23] L’appel est accueilli et la cotisation établie aux termes de l’article 160 est annulée, le tout avec dépens. Si les parties ne parviennent pas à s’entendre sur les dépens dans un délai de 30 jours, chacune pourra présenter des observations écrites d’au plus dix pages.
+Signé à Toronto (Ontario), ce 22e jour de janvier 2020.
+« Patrick Boyle »
+Le juge Boyle
+RÉFÉRENCE :
+2020 CCI 8
+NO DU DOSSIER DE LA COUR :
+2018-4085(IT)I
+INTITULÉ :
+SHARNELL R. MUIR c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 6 janvier 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 22 janvier 2020
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Kalev A. Anniko
+Avocat de l’intimée :
+Me Keil Walker
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Kalev A. Anniko
+Cabinet :
+Gehlen Dabbs
+Vancouver (Colombie-Britannique)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

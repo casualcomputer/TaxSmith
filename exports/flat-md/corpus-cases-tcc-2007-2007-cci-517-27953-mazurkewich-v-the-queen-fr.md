@@ -1,0 +1,294 @@
+---
+title: "Mazurkewich v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27953/index.do"
+last_modified: "2007-09-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 517"
+citation2: ""
+neutral_citation: "2007 CCI 517"
+decision_date: "2007-09-04"
+language: "fr"
+item_id: "27953"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1801
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:20:44.234000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4df2150348d094473476f042b0110fa83eddb607c021db110c3aca6943995aba"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mazurkewich v. The Queen
+
+- Citation: 2007 CCI 517
+- Decision date: 2007-09-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1801, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mazurkewich v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-04
+Référence neutre
+2007 CCI 517
+Numéro de dossier
+2006-862(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-862(IT)I
+ENTRE :
+JAMES MAZURKEWICH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus avec les appels de Jeffrey K. Almen (2006‑876(IT)I)
+le 20 août 2007, à Prince Albert (Saskatchewan)
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Représentant de l’appelant : Bruce Grandfield
+Avocate de l’intimée : Me Brooke Sitter
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en application de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2001 est annulé.
+L’appel interjeté à l’encontre de la cotisation établie à l’égard de l’année d’imposition 2002 est accueilli, et la cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation à l’égard de l’appelant afin d’admettre une déduction de 547 $ au titre de frais de déménagement.
+Signé à Ottawa, Canada, ce 4e jour de septembre 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 10e jour d’octobre 2007.
+Hélène Tremblay, traductrice
+Dossier : 2006-876(IT)I
+ENTRE :
+JEFFREY K. ALMEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appels entendus avec les appels de James Mazurkewich (2006‑862(IT)I)
+le 20 août 2007, à Prince Albert (Saskatchewan)
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Représentant de l’appelant : Bruce Grandfield
+Avocate de l’intimée : Me Brooke Sitter
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en application de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2001 et 2002 sont rejetés.
+Signé à Ottawa, Canada, ce 4e jour de septembre 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 10e jour d’octobre 2007.
+Hélène Tremblay, traductrice
+Référence : 2007CCI517
+Date : 20070904
+Dossier : 2006-862(IT)I
+ENTRE :
+JAMES MAZURKEWICH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET
+Dossier : 2006-876(IT)I
+ENTRE :
+JEFFREY K. ALMEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Les présents appels, interjetés à l’encontre de cotisations établies en application de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard des années d’imposition 2001 et 2002, ont été entendus ensemble. La question qui recoupe les appels des deux appelants est la répartition des pertes de société de personnes.
+[2] Les appels de M. Mazurkewich soulèvent une toute autre question concernant des frais de déménagement. En 2000, il est parti de la Colombie‑Britannique pour s’installer à Saskatoon et y démarrer une nouvelle entreprise à titre d’associé avec M. Almen et leurs épouses respectives. La Couronne ne conteste pas le fait que les frais demandés ont été encourus et qu’il s’agissait bel et bien de frais de déménagement au sens de l’article 62 de la Loi, mais elle soutient ce qui suit à l’égard des frais :
+a) ils ne peuvent pas être déduits dans la déclaration de revenus de l’année 2001, parce que l’appelant avait un revenu égal à zéro;
+b) ils peuvent être déduits dans la déclaration de 2002, mais seulement 547 $ peuvent être déduits parce qu’il s’agit‑là du seul revenu gagné par l’appelant à son nouveau lieu de travail.
+Le paragraphe 62(1) est rédigé en ces termes :
+62. (1) Frais de déménagement – Un contribuable peut déduire dans le calcul de son revenu pour une année d'imposition les sommes qu'il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible dans la mesure où, à la fois :
+a) elles n'ont pas été payées en son nom relativement à sa charge ou à son emploi ou dans le cadre ou en raison de sa charge ou de son emploi;
+b) elles n'étaient pas déductibles par l'effet du présent article dans le calcul de son revenu pour l'année d'imposition précédente;
+c) leur total ne dépasse pas le montant applicable suivant :
+(i) dans le cas visé au sous-alinéa a)(i) de la définition de « réinstallation admissible » au paragraphe 248(1), le revenu du contribuable pour l'année tiré de son emploi au nouveau lieu de travail ou de l'exploitation de l'entreprise au nouveau lieu de travail, selon le cas,
+(ii) dans le cas visé au sous-alinéa a)(ii) de cette définition, le total des montants inclus dans le calcul du revenu du contribuable pour l'année par l'effet des alinéas 56(1)n) et o);
+d) les remboursements et allocations qu'il a reçus relativement à ces frais sont inclus dans le calcul de son revenu.
+Je souscris au point de vue de l’avocate de la Couronne sur les deux points. Par conséquent, l’appel de M. Mazurkewich pour l’année 2001 doit être annulé parce qu’il concerne une cotisation néant (Okalta Oils Ltd. v. M.N.R., 55 DTC 1176 (C.S.C.)). Un examen récent et utile de la règle se trouve dans l’arrêt de la Cour d’appel fédérale, Interior Savings Credit Union v. R., [2007] 4 C.T.C. 55.
+[3] En outre, l’appel concernant l’année 2002 est accueilli afin de permettre la déduction de 547 $ au titre de frais de déménagement. Le reste des frais de déménagement peut être reporté prospectivement aux années ultérieures et déduit dans les déclarations de ces années‑là, dans la mesure où l’appelant, M. Mazurkewich, a un revenu à son nouveau lieu de travail. Voir Moodie v. R., [2004] 4 C.T.C. 2329.
+[4] Je m’attarde maintenant à la question relativement plus importante qui se pose dans l’appel de M. Mazurkewich pour l’année 2002 et dans les appels de M. Almen pour les années 2001 et 2002. Pour ce faire, je dois examiner la question du paiement ou du paiement théorique effectué pour des services rendus à une société de personnes par un associé. J’ai été étonné d’apprendre que la question était quand même plus complexe que ce à quoi je m’attendais.
+[5] Dans un contrat de société de personnes entré en vigueur le 28 mars 2000, les appelants et leurs épouses respectives (Elizabeth Almen et Diane Mazurkewich) ont constitué une société de personnes sous la dénomination sociale Pruden’s Point Resort. L’article 1.03 du contrat prévoyait ce qui suit :
+[traduction]
+« participation dans la société de personnes » signifie la participation proportionnelle de quelque associé que ce soit dans la société de personnes à un moment donné, la participation proportionnelle initiale correspondant à ce qui est prévu à l’annexe A du présent contrat.
+L’article 2.04 est rédigé en ces termes :
+[traduction]
+Les profits nets de la société de personnes – si tant est qu’il y en ait – que les associés décident de distribuer seront répartis et distribués à chacun des associés en fonction de leur participation respective dans la société de personnes en date de la distribution. Toute perte supportée ou subie par la société de personnes devra être assumée par les associés en fonction de leur participation respective dans la société de personnes en date de la perte subie.
+[6] L’annexe A n’était pas en pièce jointe, mais les appelants et Diane Mazurkewich avaient convenu que les quatre associés détenaient une participation égale de 25 %. Les deux épouses travaillaient au centre de villégiature, et j’accepte qu’elles travaillaient fort et qu’elles faisaient tout le nécessaire pour rendre l’entreprise viable, y compris la tenue des livres, le ménage et la cuisine. Leurs époux, les appelants, avaient des emplois à l’extérieur du centre et contribuaient financièrement à la société de personnes. Il est évident que la contribution de chacun des quatre associés, que ce soit en main d’œuvre ou en argent, était essentielle à la réussite et à la viabilité de l’entreprise.
+[7] Au cours des années en cause, soit 2001 et 2002, l’entreprise de la société de personne a subi des pertes. En 2001, la perte a été déclarée dans l’état des résultats des activités de l’entreprise produit en même temps que les déclarations de revenus des associés. La perte était de 55 859,61 $ en 2001 et de 44 613,84 $ en 2002. Le calcul avait été fait ainsi :
+2001
+2002
+Ventes 150 149,02 $
+173 454,68 $
+Coût des marchandises
+vendues 68 464,75 $
+60 596,29 $
+Dépenses 137 543 $
+157 672,23 $
+Perte (55 859 $)
+(44 613,84 $)
+[8] Il s’agit de la perte de la société de personnes au sens du paragraphe 96(1) de la Loi de l’impôt sur le revenu, et la part de cette perte de chacun des associés devrait être de 25 %, soit 13 964,75 $ pour 2001 et 11 153,46 $ pour 2002. Le comptable des appelants, qui agissait à titre de représentant dans le cadre des présents appels, a rajusté la perte de la façon suivante :
+[traduction]
+Perte nette des activités 2001 (55 860) $
+Distribution
+Jeff
+Almen
+Elizabeth
+Almen
+Jim
+Mazurkewich
+Diane
+Mazurkewich
+Total
+__________
+Traitements de la société de personnes
+(7 840) $
+(21 280) $
+- $
+(29120) $
+(58 240) $
+Distribution nette
+_(28 525) $
+(28 525) $
+(28 525) $
+(28 525) $
+(114 100) $
+Perte nette des activités
+(20 685) $
+(7 245) $
+(28 525) $
+595 $
+(55 860) $
+Rajustement par associé
+(6 720) $
+6 720 $
+(14 560) $
+14 560 $
+-____$
+Perte nette des activités 2002 (44 613,84) $
+Distribution
+Jeff
+Almen
+Elizabeth
+Almen
+Jim
+Mazurkewich
+Diane
+Mazurkewich
+Total
+__________
+Crédit de travail de la société de personnes
+- $
+(29 120) $
+- $
+(29 120) $
+(58 240) $
+Distribution nette
+_(25 713,46) $
+(25 713,46) $
+(25 713,46) $
+(25 713,46) $
+(102 853,84) $
+Perte nette des activités
+(25 713,46) $
+(3 406,54) $
+(25 713,46) $
+3 406,54 $
+(44 613,84) $
+Rajustement par associé
+(14 560) $
+14 560 $
+(14 560) $
+14 560 $
+-_____$
+[9] Si on prend l’année 2001 à titre d’exemple et qu’on examine la dernière ligne ([traduction] « perte nette des activités »), il devient évident que la perte nette qui est distribuée est exacte (55 860 $), mais qu’elle n’est pas répartie en fonction de la participation de 25 % de chaque associé. Un pourcentage très important est attribué aux époux, un pourcentage moindre est attribué à Elizabeth Almen et un petit montant de revenus est attribué à Diane Mazurkewich. L’explication donnée est que les épouses, qui conviennent avoir travaillé vraiment plus fort que les appelants à l’entreprise, devraient recevoir une certaine reconnaissance pour leur temps et leurs efforts.
+[10] Force est de constater que, pour les associés, l’attribution des [traduction] « traitements de la société de personnes » est purement théorique. Ils ne recevaient pas d’argent et ils n’ont pas déclaré ces traitements théoriques dans leurs déclarations de revenus. Tout ce que cela a apporté, c’est une augmentation des pertes, qui sont passées de 55 860 $ à 114 100 $ en raison des traitements théoriques supplémentaires. Par conséquent, la perte de la société de personnes a été répartie entre les quatre associés à parts égales de la façon suivante : 37 %, 12 %, 51 % et 0 %, respectivement.
+[11] M. Grandfield a fait valoir la position des appelants avec une grande conviction et beaucoup de sincérité. La question du caractère déductible de salaires ou des traitements versés à un associé par une société de personnes semble être plus épineuse que ce à quoi je m’attendais.
+[12] Le représentant des appelants s’est fondé sur le bulletin d’interprétation IT‑138R (maintenant archivé). Ce bulletin était rédigé en ces termes :
+Traitements
+10. Les traitements qu'une société verse aux associés ne constituent pas une dépense de l'entreprise mais bien une façon de répartir les bénéfices de la société entre les membres. Il peut arriver que les bénéfices réalisés par une société pendant une année d'imposition soient inférieurs aux traitements qu'elle doit verser aux associés en vertu du contrat de société. En pareil cas, l'excédent des traitements sur les bénéfices figure comme montant à déduire dans les comptes de capital des associés. Une telle diminution du capital de chacun des associés est admise à titre de déduction dans le calcul du revenu ou de la perte de la société qui lui est attribué.
+11. À titre d'exemple, supposons que A et B soient membres de la société AB. D'après le contrat de société, A doit recevoir un traitement annuel de 2 500 $, après quoi A et B se partagent les bénéfices ou les pertes à parts égales. Les bénéfices de la société avant soustraction du traitement de 2 500 $ versé à A s'établissent à 1 000 $. La perte après soustraction du traitement se chiffre à 1 500 $ et un montant de 750 $ est imputé à chaque compte de capital. Dans ce cas, le revenu de A s'élève à 1 750 $ (2 500 $-750 $) et la perte de B se chiffre à 750 $. Le revenu de la société est donc égal au revenu de A, à savoir 1 750 $, moins la perte de B, à savoir 750 $.
+[13] Je m’abstiens de tout commentaire sur le caractère défendable du point de vue exprimé dans le bulletin IT-138R. Quoi qu’il en soit, pour diverses raisons, il n’appuie pas la position des appelants :
+a) les épouses des appelants n’ont en fait jamais reçu d’argent;
+b) ceci donne lieu à une répartition et à une perte qui ne correspondent pas à ce qui avait été convenu dans le contrat de la société de personnes;
+c) les traitements attribuables théoriquement aux épouses n’ont pas été inclus dans les revenus de celles‑ci.
+[14] En règle générale, j’aurais cru qu’il aurait été possible de remettre en question le fait de savoir si des salaires ou des traitements versés par une société de personnes à un associé peuvent être déduits par la société de personnes au titre de dépense d’entreprise. Ce point de vue correspond à celui exprimé par le juge Hamlyn dans la décision Crestglen Investments Ltd. v. M.N.R., [1993] 2 C.T.C. 3210, au paragraphe 23 :
+Par ailleurs, une société n'est pas une entité juridique distincte des associés. Un associé ne peut être à la fois l'employeur et l'employé dans une même entreprise exploitée en société. Le revenu des associés provenant de la société est traité de la même façon aux fins de l'impôt, qu'il s'agisse de sommes réparties par la société ou de sommes allouées pour les services de gestion de la société. Ainsi, un associé ne peut pas être un employé d'une société en mesure de conclure un contrat d'emploi avec la société et, par conséquent, un employé incorporé ne peut devenir un employé de la société dont il était un associé.
+[15] Cependant, la question du traitement fiscal du salaire ou des traitements versés par une société de personnes à un associé reste encore à être tranchée de façon définitive. Plus haut, j’ai cité la décision Crestglen, où le juge Hamlyn a suivi la conclusion tirée dans Re Thorne and N.B. Workmen’s Comp. Bd. (1962), 48 M.P.R. 756, 33 D.L.R. (2d) 167 (confirmée oralement par la Cour suprême du Canada, R.C.S. 1962 R.C.S. viii), à laquelle il a d’ailleurs renvoyé en note en bas de page.
+[16] Néanmoins, le point de vue contraire est aussi très bien appuyé. Dans la décision Archbold v. The Queen, [1995] 1 C.T.C. 2872, la juge Lamarre Proulx a statué qu’un contrat exprès entre les associés permettait que la société de personnes verse un salaire à un des associés et que ce montant soit une dépense déductible. Ce point de vue rejoint d’ailleurs celui exprimé par l’éminent juriste et auteur, le regretté M. Wolfe D. Goodman, c.r., dans un article publié dans Goodman on Estate Planning (2003), volume XII, n° 1, page 931.
+[17] M. Grandfield était très bien préparé et les documents qu’il ma remis m’ont grandement aidé à comprendre la complexité de la question. Les deux ouvrages suivants traitent de la question : Understanding the Taxation of Partnerships, 5e édition (2006), aux paragraphes 234 à 238, et Death of a Taxpayer, 8e édition (2005), aux pages 148 et 149. La pratique administrative de l’Agence du revenu du Canada (l’« ARC ») en ce qui a trait à cette question semble être en pleine évolution. La plus récente prise de position de l’ARC sur la question se trouve dans le document « Nouvelles techniques », n° 30, publié le 21 mai 2004. Tôt ou tard, la question devra être débattue officiellement, peut-être avec les conseils d’experts comptables.
+[18] À mon avis, il ne serait pas très utile que je tranche la question d’un côté ou de l’autre sans avoir entendu davantage de plaidoirie. Il n’est pas nécessaire que je me prononce sur cette question particulière étant donné qu’en l’espèce, rien n’a véritablement été versé aux épouses des appelants.
+[19] L’appel de James Mazurkewich à l’égard de l’année 2001 est annulé. L’appel à l’égard de l’année 2002 est accueilli afin de permettre la déduction de 547 $ au titre de frais de déménagement.
+[20] Les appels de Jeffrey Almen à l’égard des années 2001 et 2002 sont rejetés.
+Signé à Ottawa, Canada, ce 4e jour de septembre 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 10e jour d’octobre 2007.
+Hélène Tremblay, traductrice
+RÉFÉRENCE :
+2007CCI517
+Nos DES DOSSIERS :
+2006-862(IT)I
+2006-876(IT)I
+INTITULÉ :
+James Maxurkewich et
+Jeffrey K. Almen c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Prince Albert (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 20 août 2007
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge en chef D.G.H. Bowman
+DATE DU JUGEMENT :
+Le 4 septembre 2007
+COMPARUTIONS :
+Représentant des appelants :
+Bruce Grandfield
+Avocate de l’intimée :
+Me Brooke Sittler
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom :
+Bruce Grandfield & Co.
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

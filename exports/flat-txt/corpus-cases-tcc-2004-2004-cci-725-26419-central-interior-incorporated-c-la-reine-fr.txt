@@ -1,0 +1,176 @@
+Title: Central Interior Incorporated c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26419/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-725-26419-central-interior-incorporated-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-12-14
+
+# Central Interior Incorporated c. La Reine
+
+- Citation: 2004 CCI 725
+- Decision date: 2004-12-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3170, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Central Interior Incorporated c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-14
+Référence neutre
+2004 CCI 725
+Numéro de dossier
+2002-1737(IT)G
+Juges et Officiers taxateurs
+Gordon Teskey
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-1737(IT)G
+ENTRE :
+CENTRAL INTERIOR INCORPORATED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus les 18 et 19 octobre 2004 à Toronto (Ontario)
+Devant : L’honorable Gordon Teskey
+Comparutions :
+Avocat de l’appelante :
+Me John David Buote
+Avocate de l’intimée :
+Me Jenna Clark
+____________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 1994 et 1995 sont admis, et les cotisations sont renvoyées au ministre du Revenu national afin qu’il procède à un nouvel examen et qu’il établisse une nouvelle cotisation compte tenu du fait que les pénalités prévues au paragraphe 163(2) en cas de faute lourde doivent être éliminées des cotisations. Les dépens sont accordés à l’intimée sur la base des dépens entre parties.
+Signé à Calgary (Alberta), ce 14e jour de décembre 2004.
+« Gordon Teskey »
+Juge Teskey
+Traduction certifiée conforme
+ce 14e jour de juillet 2005.
+Sara Tasset
+Référence : 2004TCC725
+Date : 20041214
+Dossier : 2002-1737(IT)G
+ENTRE :
+CENTRAL INTERIOR INCORPORATED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Teskey
+[1] L’appelante interjette appel des cotisations établies à son égard relativement à l’impôt sur le revenu pour les exercices terminés le 31 août 1994 et le 31 août 1995, les deux cotisations ayant été établies en avril 2001.
+Points en litige
+[2] En premier lieu, puisque les cotisations ont été établies plus de trois ans après les avis de cotisation initiaux, l’intimée peut-elle convaincre la Cour que l’appelante a fait une présentation erronée des faits dans ses déclarations de revenus du 31 août 1994 et du 31 août 1995 par négligence, inattention ou omission volontaire, au sens du sous-alinéa 152(4)a)(i) de la Loi de l’impôt sur le revenu (la « Loi »)?
+[3] Si la Cour se prononce en faveur de l’intimée sur ce point, les appels seront réglés. Toutefois, si je conclus que l’intimée n’a pas réussi à montrer que la présentation erronée des faits est attribuable à de la négligence, à l’inattention ou à une omission volontaire, un deuxième point surgit alors au regard de l’exercice terminé le 31 août 1995 concernant une renonciation signée au moment de la dissolution de l’appelante, le 10 janvier 2000, date antérieure à la reconstitution.
+Faits
+[4] Ont témoigné pour le compte de l’appelante M. Savino Placentile, l’unique actionnaire, administrateur et dirigeant de l’appelante, M. Paul Babber, qui se dit comptable et fiscaliste, M. Paul Malik, teneur de livres, et M. Donald Scott, comptable agréé.
+[5] M. David Fisher, vérificateur à l’Agence des douanes et du revenu du Canada (ADRC), a témoigné pour le compte de l’intimée. En ce qui concerne les témoignages de MM. Placentile et M. Babber, il y a certains propos que je ne peux accepter. Par ailleurs, d’autres parties de leurs témoignages peuvent être facilement acceptées. Lorsqu’il y a conflit entre les dires de ces deux témoins, j’accorde foi à ceux de M. Babber.
+[6] J’accepte les témoignages de MM. Scott et Fisher sans hésitation.
+[7] M. Placentile, ébéniste ayant une éducation très limitée, a émigré d’Italie pour s’installer au Canada en 1968. Il a exercé divers métiers en tirant parti de ses talents et s’est ensuite lancé à son compte en 1988, d’abord avec un partenaire puis seul en 1991, lorsqu’il a constitué en société l’entreprise qui a été remplacée par l’appelante.
+[8] La charte de l’appelante a été annulée le 25 juin 1994 par la Direction des compagnies du ministère de la Consommation et du Commerce pour avoir omis de déposer un « avis spécial ».
+[9] M. Placentile a demandé la reconstitution de l’appelante, qui a eu lieu le 19 juillet 2001, parce qu’il avait été avisé que les biens de l’appelante pourraient être distribués à la province.
+[10] M. Placentile prétend ne pas avoir été au courant de la dissolution avant de recevoir une lettre du ministère des Finances de l’Ontario en janvier 2001. Toutefois, le dossier de documents de l’intimée contient une lettre de Revenu Canada à l’appelante, datée du 11 octobre 1995, et la date estampillée pour l’accusé de réception de la lettre est le 28 octobre 1995. Je ne crois pas le témoignage de M. Placentile sur ce point. Je conclus qu’il a reçu la lettre de Revenu Canada et, puisque l’appelante était inactive en septembre 1995, il a simplement mis la lettre de côté et l’a oubliée. M. Placentile n’a manifestement pas pris la peine de lire la lettre ni de demander conseil quant à sa teneur. Soulignons que l’exercice terminé le 31 août 1995 venait tout juste de prendre fin.
+[11] M. Babber s’occupait de la comptabilité de M. Placentile et de ses sociétés depuis 1988, lorsqu’il s’est lancé en affaires, et se chargeait de dresser les états financiers ainsi que les déclarations de revenus. En 1990, il a commencé à établir, ce qu’il a fait jusqu’au printemps 1995, les déclarations trimestrielles prescrites pour la TPS, documents que M. Placentile signait et postait accompagnés d’un chèque correspondant aux montants requis.
+[12] M. Placentile a affirmé qu’il remettait à M. Babber ce qu’il appelait son journal de caisse, ses relevés bancaires mensuels, son carnet de dépôts et les chèques oblitérés. Je suis d’avis que cette déclaration est fausse, pour les motifs donnés dans le paragraphe suivant.
+[13] M. Babber prétend qu’il recevait les relevés bancaires mensuels, le carnet de dépôts, les chèques oblitérés et une liste de comptes fournisseurs ainsi qu’une liste des comptes clients, et qu’il a pu voir le journal de caisse. Je tiens cette déclaration pour avérée, soit que les listes de comptes clients et fournisseurs étaient établies et remises à M. Babber. La déclaration de revenus pour l’exercice terminé le 31 août 1994, préparée par M. Babber, contient un bilan, un état des bénéfices non répartis, un état des revenus, une note afférente aux états financiers et les annexes fiscales. Le bilan montre les comptes clients et les comptes fournisseurs.
+[14] M. Placentile, qui a très peu d’éducation, a essentiellement déclaré qu’il ne connaissait rien de la tenue de livres et rien non plus de la comptabilité d’exercice, et qu’il fonctionnait selon la comptabilité de caisse. Je n’accepte pas totalement cet énoncé. M. Placentile est le propriétaire-exploitant compétent d’une entreprise florissante qui rédige ses propres soumissions et connaît les coûts de ses services. Il a également fourni une partie des documents nécessaires à M. Babber pour qu’il puisse dresser les états financiers et les annexes fiscales d’après la comptabilité d’exercice. Cependant, ni M. Placentile ni M. Babber n’ont pris en considération les travaux en cours ou constitué une provision pour créances irrécouvrables.
+[15] M. Babber a expliqué qu’il établissait tous les états financiers selon les principes de la comptabilité d’exercice. Cependant, j’accepte le témoignage de M. Scott indiquant que M. Babber croyait utiliser la méthode de la comptabilité d’exercice alors qu’il se servait en réalité d’une méthode mixte, car aucune provision n’était constituée pour les créances irrécouvrables ou les travaux en cours.
+[16] M. Scott a parcouru très rapidement une liste de comptes clients et a relevé quatre factures distinctes, toutes datées du 1er septembre 1994 (ce qui serait la première journée de l’exercice terminé le 31 août 1995) totalisant 137 211 $. J’en conclus que M. Placentile a délibérément retenu ces factures après la fin de l’exercice jusqu’au 1er septembre, car il savait qu’il avait eu une année très profitable qui venait juste de se terminer le 31 août 1994, et a décidé d’affecter le revenu à l’exercice suivant, parce qu’il croyait qu’un revenu est touché quand une facture est réglée.
+[17] M. Placentile soutient qu’il croyait qu’il n’y avait aucun lien entre le revenu imposable et le revenu aux fins de la TPS. C’est peut-être vrai, mais il y a un lien très défini entre le revenu brut tiré d’une entreprise et le revenu sur lequel un contribuable perçoit la TPS, car il s’agit des mêmes chiffres. M. Placentile, ayant signé chacune des déclarations de TPS, aurait une idée assez précise du revenu brut qu’il avait obtenu cette année-là; peut-être pas à 10 000 ou à 20 000 $ près. Je conclus qu’en jetant un coup d’œil même très rapide à la déclaration de revenus du 31 août 1994, M. Placentile aurait été en mesure de constater qu’il manquait plus ou moins 100 000 $, aux revenus déclarés, et que les dépenses étaient gonflées d’environ le même montant.
+[18] M. Placentile a constitué une autre société, « Central Interior Corporation », le 24 septembre 1994 et a commencé à l’exploiter activement en décembre 1994.
+[19] M. Placentile a déclaré qu’en août 1994 il avait été menacé de poursuites et que c’était la raison pour laquelle il avait constitué une nouvelle société.
+[20] La seule différence dans le nom de la société est que : le dernier mot de la dénomination de l’appelante est devenu « Corporation » au lieu de « Incorporated »; ce changement visait à permettre à la fois d’obtenir de nouveaux clients et de conserver toute la clientèle existante, mais il avait aussi l’avantage de ne pas être discernable pour bien des gens et avait probablement été apporté pour que la nouvelle société puisse être confondue avec l’ancienne.
+[21] L’appelante a fait l’objet d’une vérification par un tiers aux fins de l’impôt sur le revenu des sociétés ou de la TPS en 1993. M. Placentile n’a pas traité avec le vérificateur et, quand il a été informé qu’il devait apparemment 2 300 $ au fisc, il a simplement payé. À mon avis, un contribuable raisonnable normal aurait exigé de savoir d’où venait cette dette et se serait rendu chez son comptable pour savoir ce qui s’était passé et trouver comment régler le problème. Je conclus que M. Placentile ne s’en souciait tout simplement pas. Ce fait montre une attitude blasée de la part de M. Placentile et montre aussi qu’il ne se souciait pas de savoir si les livres de comptes étaient exacts. Les mathématiques sont une science exacte. La vérification de 1993 aurait dû donner l’alarme, et le fait que M. Placentile ait écarté le problème constitue de la négligence, tout comme son omission de chercher la cause du problème et de la corriger. Par conséquent, l’omission de changer de système de tenue de livres était aussi de la négligence. Selon M. Babber, la vérification avait seulement donné lieu à une correction mineure de moins de 10 000 $ à payer aux autorités fiscales.
+[22] Aux dires de M. Babber, que j’accepte, après avoir dressé les états financiers de l’exercice terminé le 31 août 1994 et la déclaration de revenus de l’appelante, il n’a rien fait pour l’appelante mais s’est chargé des mêmes tâches pour la nouvelle société à partir du 31 septembre 1995 et n’a rien fait pour l’appelante jusqu’à ce qu’on lui demande, en septembre 1996, d’établir et de produire la déclaration de revenus pour l’exercice terminé le 31 août 1995, déclaration qui aurait dû être produite dans un délai de six mois suivant la fin de l’exercice.
+[23] Je conclus que la déclaration de revenus pour l’exercice terminé le 31 août 1995 a été produite uniquement parce que l’appelante avait reçu un document en exigeant la production et que M. Placentile a informé M. Babber que l’appelante était inactive et avait subi des pertes. Sans aucun document, M. Babber a établi la déclaration de revenus à l’égard de l’exercice terminé le 31 août 1995 et inscrit qu’aucun impôt n’était exigible.
+[24] J’accepte le témoignage de M. Babber à propos de ses discussions avec M. Placentile au sujet des profits. Il a déclaré que M. Placentile savait que son entreprise était très rentable, mais qu’il demandait toujours de faire en sorte qu’elle donne l’apparence de perdre de l’argent et qu’il n’était pas vrai, comme le prétendait M. Placentile, que ce dernier ne pouvait pas comprendre pourquoi l’exercice terminé le 31 août 1994 s’était soldé par une perte. Pourtant, le journal de caisse des six premiers mois de l’exercice terminé le 31 août 1995 montre des dépôts de 1 067 713 $, et M. Scott a relevé un chiffre d’affaires de 1 093 357 $. À tout le moins, les directives données par M. Placentile à M. Babber constituent une « série négligente d’instructions » ou une « présentation erronée délibérée » d’environ un million de dollars de bénéfice brut tiré de l’entreprise.
+[25] L’ADRC a enclenché une vérification relativement à l’impôt sur le revenu et à la TPS de l’appelante parce que les déclarations de TPS de l’appelante faisaient état d’un gros volume de ventes, alors que la déclaration de revenus pour l’exercice terminé le 31 décembre 1995 ne montrait aucune vente.
+[26] Les vérificateurs ont très rapidement constaté que les problèmes étaient multiples.
+[27] L’appelante, devant cette situation, a embauché successivement deux comptables différents qui n’étaient pas à l’aise avec ses livres, de sorte qu’elle a engagé M. Scott pour faire le nécessaire afin d’aller vraiment au fond des choses. M. Scott a dressé les états financiers de l’appelante pour l’exercice terminé le 31 août 1994 et chaque exercice subséquent jusqu’au 31 août 2000.
+[28] M. Scott avait en main les journaux de caisse, les carnets de dépôts, les relevés bancaires, les listes des comptes clients et des comptes fournisseurs ainsi que les chèques oblitérés. Au cours d’une période de trois mois, il a passé quelque 75 à 80 heures à rassembler les documents.
+[29] M. Scott ne croyait pas que les états financiers de 1993 étaient fidèles à la réalité, mais puisque cette année était frappée de prescription et qu’il devait se donner un point de départ, il a fait comme si les états financiers au 31 août 1993 étaient exacts. Il a expliqué que les livres étaient dans un état lamentable et que rien n’était rattaché à rien. De ce commentaire, je conclus que les livres et registres de l’appelante n’étaient pas adéquats et étaient tenus de façon négligente.
+[30] Selon M. Scott, à long terme, il n’était pas important que l’appelante ait recours à la comptabilité de caisse au lieu de la comptabilité d’exercice. Il a également précisé que M. Babber croyait utiliser la comptabilité d’exercice alors qu’il employait en réalité la comptabilité de caisse, même s’il avait en main les listes des comptes clients et fournisseurs.
+[31] M. Scott a affirmé qu’il avait calculé les chiffres de ventes à partir des factures réelles et que ces chiffres étaient exacts, mais pour ce qui était des dépenses, il pouvait seulement parvenir à une estimation d’après la valeur nette de l’entreprise au 31 août 1993 et chaque année par la suite; ces dépenses étaient simplement des valeurs déterminées par différence. Voilà qui montre encore une fois que la tenue de livres de l’appelante était moins qu’adéquate et ne pouvait servir de fondement à quoi que ce soit.
+[32] Les chiffres de M. Scott ont été acceptés par l’appelante et transmis à l’ADRC, qui les a acceptés aussi et a établi les cotisations qui font l’objet du présent appel.
+[33] Dans les déclarations modifiées pour l’exercice terminé le 31 août 1994, les ventes ont été majorées de 114 236 $, tandis que les dépenses ont été réduites de 101 828 $, ce qui a donc transformé une perte de 56 276 $ en un bénéfice net de 187 296 $.
+[34] Dans les déclarations modifiées pour l’exercice terminé le 31 août 1995, les ventes sont inscrites à 1 053 357 $, avec un bénéfice net de 137 146 $, alors que la déclaration initiale produite le 25 septembre 1996 montrait un chiffre de ventes nul, aucun bénéfice et un report prospectif de pertes de 57 302 $.
+[35] Par conséquent, l’appelante a fait, dans ses deux déclarations initiales pour les exercices terminés le 31 août 1994 et le 31 août 1995, une présentation gravement erronée des faits.
+[36] Je crois que la nouvelle société avait un nom aussi semblable à l’ancienne en partie pour confondre l’ADRC dans l’espoir qu’elle n’ait pas connaissance des ventes de 1 053 357 $ qui se sont traduites par un bénéfice net de 137 146 $. M. Placentile savait que l’appelante poursuivait ses activités à l’automne 1994 et savait qu’il avait envoyé le 1er septembre 1995 quatre factures totalisant 137 211 $ et, le premier de ce mois également, une autre facture de 120 000 $, puis qu’au cours de la période allant du 1er septembre 1994 à la mi-décembre, l’appelante avait réalisé des ventes supérieures à un million de dollars; pourtant, il n’a pas demandé à M. Babber de dresser les états financiers ou les déclarations de revenus pour l’appelante jusqu’à ce qu’il reçoive une demande de l’ADRC. Il n’a alors pas transmis les livres à M. Babber comme d’habitude, l’avisant simplement de produire une déclaration où aucun impôt n’était payable en l’informant que l’appelante était inactive.
+[37] M. Babber a déclaré que l’appelante avait toujours eu quelqu’un pour faire sa tenue de livres. M. Placentile a expliqué que c’était sa femme qui s’en est chargée de 1990 à 1996, quand M. Malik a pris sa place. Selon M. Placentile, sa femme n’avait aucune expérience comme telle de la tenue de livres et elle s’était inscrite à un cours de comptabilité le soir, cours qu’elle n’a jamais terminé.
+[38] M. Placentile a soutenu que sa femme s’occupait des journaux de caisse et qu’il partageait avec elle la responsabilité de faire les chèques et de remplir les carnets de dépôts.
+[39] Ayant constaté le fait évident que les deux déclarations de revenus du 31 août 1994 et du 31 août 1995 contenaient une présentation clairement erronée des faits, je dois décider si cette présentation erronée des faits est attribuable à de la négligence, à l’inattention ou à une omission volontaire ou au fait que l’appelante a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la Loi, le tout au sens du sous-alinéa 152(4)a)(i) de la Loi.
+Jurisprudence
+[40] Même si l’appelante a renvoyé la Cour à plusieurs décisions portant sur le paragraphe 163(2), qui traite de la faute lourde, ces décisions ne sont d’aucune utilité en l’espèce, car les pénalités pour faute lourde ont été annulées par l’intimée avant l’audience.
+[41] Le juge Strayer, qui siégeait alors à la section de première instance de la Cour fédérale, a déclaré ce qui suit dans l’affaire Venne v. The Queen, 84 DTC 6247 (no du greffe T-815-82), qui touchait à la fois les paragraphes 152(4) et 163(2), à la page 6151 :
+Je suis convaincu qu’il suffit au Ministre, pour invoquer son pouvoir en vertu de l’alinéa 152(4)a)(i) de la Loi, de démontrer la négligence du contribuable, à l’égard d’un ou plusieurs éléments de sa déclaration de revenus au titre d’une année donnée. Cette négligence est établie s’il est démontré que le contribuable n’a pas fait preuve de diligence raisonnable. C’est sûrement là le sens des termes « présentation erronée des faits, par négligence », en particulier avec d’autres motifs comme l’inattention ou l’omission volontaire qui font référence à un degré de négligence plus élevé où à une mauvaise conduite délibérée. Sauf si ces termes étaient superflus dans cet article, hypothèse que je ne puis accepter, le terme « négligence » impose un critère moins strict de faute, semblable à celui qui est utilisé dans les autres domaines du droit, comme la responsabilité délictuelle. Voir Metal Jet Products Limited c.le ministre du Revenu national (1979) 79 DTC 624, aux pp. 636 et 637 (C.R.I.).
+et à la page 6253 :
+Il est reconnu par le demandeur (voir Pièce D-44) que des présentations erronées des faits d’ordre substantiel ont eu lieu à propos de son revenu au cours des années 1972-1975 et, en fait, par la suite en 1976 et 1977. Je suis convaincu que ces déclarations erronées étaient dues à la négligence du demandeur au sens de l’alinéa 152(4)a)(i) de la Loi de l’impôt sur le revenu parce que le demandeur ne s’est pas efforcé de mettre en doute et de vérifier des aspects de ces déclarations de revenus qu’il était tout à fait capable de contrôler. Il a fait fi des lacunes de ces déclarations dont il aurait facilement pu s’apercevoir s’il avait fait un effort sérieux pour vérifier l’exactitude de ces déclarations. Je conclus donc qu’il était loisible au Ministre, par la nouvelle cotisation du 3 septembre 1980 de faire une nouvelle cotisation du revenu du demandeur au titre des années 1972-1975.
+(Nous soulignons.)
+[42] Cette décision a été appliquée par la Cour d’appel fédérale dans l’arrêt Findlay v. The Queen, 2000 DTC 6345 (no du greffe A-424-97).
+[43] Avant l’arrêt Venne, le juge Pratte, de la section de première instance de la Cour fédérale, a dû se fonder sur une version antérieure du paragraphe 152(4) dans l’affaire M.N.R. v. Bisson, 72 DTC 6374 (no du greffe T-783-71), où il s’est exprimé comme suit à la page 6380 :
+J’en viens donc à la conclusion que, le contribuable qui, sans aucune faute de sa part, commet une erreur en déclarant son revenu, ne fait pas une présentation erronée au sens de l’article 46(4)a)(i). Lorsque le ministre veut se prévaloir de cette disposition pour procéder à une nouvelle cotisation après l’expiration de 4 ans, il doit donc établir non seulement que le contribuable a commis une erreur en déclarant son revenu, mais aussi que cette erreur est attribuable à une faute de sa part.
+[44] Le juge Muldoon, de la section de première instance de la Cour fédérale, a déclaré ce qui suit dans l’affaire Reilly Estate v. The Queen, 84 DTC 6001 (no du greffe T-5821-80), à la page 6018, au sujet du paragraphe 152(4) :
+[...] lorsque l’on dit aujourd’hui que la norme applicable est celle d’une personne sage et prudente, il faut se rappeler que la sagesse n’est pas infaillible et que la prudence n’est pas la perfection.
+[45] Plus tard, la Cour d’appel fédérale s’est prononcée comme suit, à la page 6085, dans l’arrêt Boucher c. Canada, [2004] A.C.F. no 169 (2004 DTC 6084) :
+En plus d'une présentation erronée des faits, il faut une conclusion que la présentation erronée de l'information est attribuable à de la négligence, à de l'inattention ou à une omission volontaire.
+[46] Dans la décision rendue par la section de première instance de la Cour fédérale dans l’affaire Nesbitt v. The Queen, 96 DTC 6045 (no du greffe T-2319-90), qui a été confirmée par un arrêt de la Cour d’appel fédérale, publié : 96 DTC 6589 (no du greffe A-54-96), et où une demande d’autorisation de pourvoi à la Cour suprême a été refusée, publiée : [1996]S.C.C.A. no 610, le juge Heald a déclaré ce qui suit à la page 6049 :
+À mon avis, les actes du demandeur n'établissent pas qu'il a apporté le soin voulu à la préparation de sa déclaration. Le demandeur, à l'instar de tous les autres contribuables régis par la Loi de l'impôt sur le revenu, doit signer sa déclaration de revenus après avoir attesté « [...] que les renseignements donnés dans cette déclaration et dans tous documents ci-joints sont vrais, exacts et complets sous tous les rapports et révèlent la totalité de mes revenus de toutes provenances ». Ce n'est pas une réponse pour un contribuable de rejeter la responsabilité d'un mauvais calcul ou d'une erreur sur le spécialiste qui a préparé sa déclaration de revenus. À mon avis, le présent dossier établit que le demandeur a fait preuve de négligence relativement à la préparation et à la production de sa déclaration de revenus pour 1981.
+[47] J’ai déclaré ce qui suit dans l’affaire Palardy c. Canada, [1997] A.C.I. no 111 (97 DTC 1043), à la page 1046 :
+Un contribuable doit assumer la responsabilité à l'égard de ses déclarations de revenus. Même s'il compte énormément sur la personne qui remplit pour lui sa déclaration de revenus, il lui incombe de se renseigner, de poser des questions et de revoir en détail tous les documents établis par la personne qui a rempli la déclaration pour lui.
+Analyse
+[48] L’appelante fait valoir que l’épouse de M. Placentile, qui s’occupait de la tenue de livres, n’avait pas de véritable formation, mais elle n’a pas été convoquée comme témoin et il n’y a eu aucune explication au sujet de son absence à l’audience. Pourtant, l’appelante a fait témoigner M. Malik, qui a fait la tenue de livres en 1996, en 1997 et en 1998 pour Central Interior Corporation, dont le témoignage n’a rien ajouté de pertinent à l’audience. L’avocat a demandé à la Cour de tirer une conclusion défavorable à cet égard, soit que le témoignage de l’épouse de M. Placentile aurait été défavorable à l’appel de l’appelante. Je tire une telle conclusion.
+[49] D’après les commentaires de M. Scott indiquant que les livres de l’appelante étaient dans un état lamentable et que rien n’était rattaché à rien, je conclus qu’une telle tenue de livres constituait de la négligence.
+[50] Par conséquent, la tenue et l’utilisation de ce genre de livres ont produit les erreurs mentionnées plus haut. Je conclus que le gros problème était l’omission de tenir des livres adéquats pour les dépenses de l’appelante, ce qui a induit M. Babber en erreur et a forcé M. Scott à calculer un chiffre approximatif au moyen de la valeur nette.
+[51] M. Placentile était au courant des gros dépôts effectués durant les 16 premiers jours de septembre et, lorsqu’on lui a posé la question, il s’est reporté aux mauvais livres. Le témoignage de M. Scott m’amène à croire que M. Placentile savait que l’exercice terminé le 31 août 1994 avait été une année profitable et qu’il cherchait à reporter son bénéfice jusqu’à l’exercice se terminant le 31 août 1995, et je conclus que M. Placentile a toujours donné pour directive à M. Babber d’essayer de créer une perte. Un coup d’œil rapide à ses livres montre qu’il n’y a eu aucune perte durant les exercices terminés le 31 août 1994 et le 31 août 1995.
+[52] Soulignons que M. Placentile connaissait les déclarations de revenus de ses sociétés et qu’il s’est rendu compte très rapidement que les copies figurant dans le livre de pièces A étaient incomplètes, de sorte que les déclarations de revenus réellement produites ont été présentées sous les cotes R-1 et R-2.
+[53] L’intimée ayant retiré les pénalités imposées en vertu du paragraphe 163(2) en cas de faute lourde, même si l’appelante a échoué complètement durant l’audience, l’appel est accueilli et la cotisation est renvoyée au ministre du Revenu national afin qu’il procède à un nouvel examen et qu’il établisse une nouvelle cotisation compte tenu du fait que les pénalités prévues au paragraphe 163(2) en cas de faute lourde doivent être éliminées des cotisations. Les dépens sont accordés à l’intimée sur la base des dépens entre parties.
+Signé à Calgary (Alberta), ce 14e jour de décembre 2004.
+« Gordon Teskey »
+Juge Teskey
+Traduction certifiée conforme
+ce 14 ejour de juillet 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI725
+NO DU DOSSIER DE LA COUR :
+2002-1737(IT)G
+INTITULÉ DE LA CAUSE :
+Central Interior Incorporated
+et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+18 et 19 octobre 2004
+MOTIFS DU JUGEMENT PAR :
+L’honorable Gordon Teskey
+DATE DU JUGEMENT :
+14 décembre 2004
+COMPARUTIONS :
+Avocat de l’appelante :
+Me John David Buote
+Avocate de l’intimée :
+Me Jenna Clark
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+John David Buote
+Barrister & Solicitor
+Brampton (Ontario)
+Cabinet :
+John David Buote
+Barrister & Solicitor
+Brampton (Ontario)
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

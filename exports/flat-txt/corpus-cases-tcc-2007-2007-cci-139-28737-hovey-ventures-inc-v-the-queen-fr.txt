@@ -1,0 +1,140 @@
+Title: Hovey Ventures Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28737/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-139-28737-hovey-ventures-inc-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-03-15
+
+# Hovey Ventures Inc. v. The Queen
+
+- Citation: 2007 CCI 139
+- Decision date: 2007-03-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1459, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hovey Ventures Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-15
+Référence neutre
+2007 CCI 139
+Numéro de dossier
+2006-3022(IT)G
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3022(IT)G
+ENTRE :
+HOVEY VENTURES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue le 13 février 2007 à Vancouver (Colombie‑Britannique)
+Devant : L'honorable juge G. Sheridan
+Comparutions :
+Avocat de l'appelante :
+Me Douglas H. Christie
+Avocat de l'intimée :
+Me David Everett
+________________________________________________________________
+JUGEMENT
+Vu la requête de l'intimée, qui vise à obtenir :
+a) une ordonnance radiant l'avis d'appel en vertu de l'alinéa 58(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles ») au motif que cet avis ne révèle aucun moyen raisonnable d'appel;
+b) subsidiairement, une ordonnance radiant l'avis d'appel en vertu de l'alinéa 53b) des Règles au motif que cet avis est scandaleux, frivole ou vexatoire;
+c) subsidiairement encore, une ordonnance radiant l'avis d'appel en vertu de l'alinéa 53c) des Règles au motif que cet avis constitue un recours abusif à la Cour;
+d) subsidiairement encore, en vertu de l'alinéa 44(1)b) des Règles, une ordonnance prorogeant le délai dans lequel l'intimée peut déposer une réponse à l'avis d'appel;
+e) les dépens.
+Vu les observations des avocats et les documents déposés par les parties;
+La Cour ordonne que :
+1. l'avis d'appel soit radié en vertu de l'alinéa 58(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale);
+2. l'appel soit rejeté avec dépens en faveur de l'intimée conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 15e jour de mars 2007.
+« G. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 24e jour de juin 2008.
+Yves Bellefeuille, réviseur
+Référence : 2007CCI139
+Date : 20070315
+Dossier : 2006-3022(IT)G
+ENTRE :
+HOVEY VENTURES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sheridan
+[1] La Cour est saisie d'une requête de l'intimée visant à obtenir :
+a) une ordonnance radiant l'avis d'appel en vertu de l'alinéa 58(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles ») au motif que cet avis ne révèle aucun moyen raisonnable d'appel;
+b) subsidiairement, une ordonnance radiant l'avis d'appel en vertu de l'alinéa 53b) des Règles au motif que cet avis est scandaleux, frivole ou vexatoire;
+c) subsidiairement encore, une ordonnance radiant l'avis d'appel en vertu de l'alinéa 53c) des Règles au motif que cet avis constitue un recours abusif à la Cour;
+d) subsidiairement encore, en vertu de l'alinéa 44(1)b) des Règles, une ordonnance prorogeant le délai dans lequel l'intimée peut déposer une réponse à l'avis d'appel;
+e) les dépens.
+[2] L'appelante, la société Hovey Ventures Inc., a fait l'objet d'une cotisation établie par le ministre du Revenu national (le « ministre ») concernant son omission de se conformer à une demande péremptoire de paiement qui lui a été adressée en application de l'article 224 de la Loi de l'impôt sur le revenu. Conformément à la demande péremptoire de paiement, le ministre a établi à l'égard de l'appelante une cotisation visant des sommes qu'elle devait à Witold Loykowski, le débiteur fiscal désigné dans la demande en question.
+[3] L'appelante a déposé un avis d'appel contestant la validité de la cotisation fondée sur la demande péremptoire de paiement au motif qu'elle n'était pas tenue de payer les sommes visées par celle‑ci parce que, pendant toute la période pertinente à l'appel, le débiteur fiscal agissait en sa qualité de « personne physique ». Selon l'appelante, une « personne physique » n'est pas assujettie à l'impôt en vertu de la Loi et, donc, l'Agence du revenu du Canada n'avait pas le pouvoir d'établir à l'égard de l'appelante une cotisation visant les sommes qu'elle avait payées au débiteur fiscal en contrepartie des services qu'il lui avait rendus conformément à l'accord qu'ils avaient conclu. Cette théorie a été avancée, sans succès, par des défendeurs accusés d'évasion fiscale. Dans la récente décision R. v. Sydel[1], le juge Meyers de la Cour provinciale a rejeté l'argument fondé sur la notion de « personne physique », qu'il a résumé ainsi :
+[TRADUCTION]
+[...] la preuve ne permet pas de conclure au‑delà de tout doute raisonnable que l'intention du législateur était de prélever de l'impôt à l'égard des personnes qui déclarent être des « personnes physiques »; le particulier qui gagne un revenu en sa qualité de « personne physique », plutôt qu'en sa qualité de contribuable ou de représentant juridique du contribuable, n'est pas assujetti à l'obligation de payer des impôts et des taxes ni de produire des déclarations de revenus des particuliers T1 en application de la Loi de l'impôt sur le revenu[2].
+[4] Selon l'intimée, la prémisse ayant trait à la notion de « personne physique » sur laquelle repose l'avis d'appel est tout à fait mal fondée. De plus, la Couronne fait valoir que, même si cet argument peut constituer à bon droit le fondement d'une contestation de la validité constitutionnelle des dispositions portant sur la demande péremptoire de paiement, la Cour canadienne de l'impôt ne peut être saisie d'une telle contestation puisqu'elle n'a pas compétence pour statuer sur le caractère prétendument inapproprié des actions des fonctionnaires du ministre :
+[7] [...] il est de jurisprudence constante qu'on ne peut tenir compte des actions de l'ADRC dans le cadre d'appels interjetés à l'encontre d'un avis de cotisation.
+[8] Il en est ainsi parce que l'appel interjeté sur le fondement de l'article 169 met en cause la validité de la cotisation et non du processus ayant conduit à l'établir. [...] Autrement dit, il ne s'agit pas de déterminer si les fonctionnaires de l'ADRC ont correctement exercé leurs pouvoirs, mais plutôt de déterminer si les montants pouvaient valablement être cotisés sous le régime de la Loi (Ludco Enterprises Ltd. c. R., [1996] 3 C.T.C. 74 (C.A.F.), à la page 84)[3].
+[5] L'avocat de l'intimée a ajouté que, bien que la majeure partie de l'avis d'appel porte sur l'argument fondé sur la notion de « personne physique », les quelques faits qui y sont allégués appuient la cotisation établie par le ministre : aux paragraphes 2, 4 et 5 de la section intitulée [traduction] « Partie 2 : Les faits pertinents invoqués », l'appelante allègue qu'elle a conclu avec le débiteur fiscal un accord écrit[4] prévoyant la prestation de services, lesquels ont été fournis par le débiteur fiscal, qui a été rétribué par l'appelante pendant la période pertinente[5]. De plus, l'avis d'appel ne conteste nullement la somme visée par la cotisation. Lorsqu'une cour est saisie d'une demande de radiation, les faits articulés doivent être considérés comme démontrés[6]. L'avocat de l'intimée a soutenu qu'il serait inapproprié de la part de la Cour de permettre à l'appelante de se servir d'une preuve par affidavit pour soutenir des actes de procédure qui étaient viciés au vue de leur libellé.
+[6] Pour ces raisons, la position de l'intimée est qu'en l'espèce il est « évident et manifeste »[7] que l'avis d'appel de l'appelante ne révèle aucun droit d'action valable, et qu'il doit par conséquent être radié en vertu de l'alinéa 58(1)b) des Règles ou, subsidiairement, en vertu de l'alinéa 53b) ou c) des Règles au motif qu'il est, respectivement, « scandaleux, frivole ou vexatoire », ou qu'il constitue « un recours abusif à la Cour ». L'avocat de l'intimée a soutenu qu'un avis d'appel qui ne révèle aucun droit d'action valable ou qui excède la compétence de la Cour constitue, par définition, un abus de procédure[8].
+[7] L'avocat de l'appelante a contesté la requête, faisant valoir qu'il était loin d'être « évident et manifeste » que l'appel n'avait aucune chance de succès. À son avis, la question de la légitimité de l'argument fondé sur la notion de « personne physique » n'avait toujours pas été réglée, mais il n'a invoqué aucune jurisprudence à l'appui de cette affirmation. Cependant, il a avisé la Cour qu'il avait été l'avocat de l'accusé dans l'affaire Sydel et que la décision qui avait été rendue dans cette cause était, à la date de la présente audience, contestée pour d'autres raisons. Il a fait valoir qu'une preuve par affidavit était admissible lors d'une demande de radiation et il a demandé à la Cour de tenir compte du contenu des deux affidavits suivants : celui de Troy Hovey, le président de la société Hovey Ventures Inc., et celui de Witold Loykowski, le débiteur fiscal nommé dans la demande péremptoire de paiement.
+[8] L'appelante n'avait pas déposé de demande d'autorisation de modifier son avis d'appel. Cependant, vers le milieu des plaidoiries de l'avocat de l'appelante, j'ai demandé aux avocats si cette possibilité avait été envisagée avant le dépôt de la requête de l'intimée. L'avocat de l'intimée a répondu qu'il avait soulevé la question auprès de l'avocat de l'appelante lorsque Me Christie était devenu l'avocat inscrit au dossier. La seule réponse qu'il a obtenue est la signification des affidavits – qui ne devaient servir, à ce moment‑là, qu'à faire échec à la requête en radiation. Bien qu'il n'ait pas répondu directement à ma question, l'avocat de l'appelante a exprimé son intention de solliciter l'autorisation de modifier l'avis d'appel et il a soutenu que, même si les affidavits étaient inadmissibles aux fins de la contestation de la requête de l'intimée, ils devaient être pris en considération lors de l'examen de la demande d'autorisation de modifier de l'appelante.
+[9] Il n'est pas surprenant que l'intimée se soit opposée à la demande de l'appelante, faisant valoir que l'avis d'appel était vicié au point qu'il défiait toute correction par simple réécriture, et que les affidavits, même s'ils étaient admissibles, étaient également viciés. Cependant, comme j'étais consciente des conséquences que subirait l'appelante si je rendais une ordonnance radiant son avis d'appel, je me sentais tenue d'examiner la demande d'autorisation de modifier qu'elle a présentée à la dernière minute. Je l'ai fait non sans hésitation compte tenu des circonstances dans lesquelles elle sollicitait cette autorisation. Il me semble qu'en déposant des affidavits pour contester la requête de l'intimée, l'appelante a reconnu l'existence de certaines lacunes dans l'avis d'appel, et, pourtant, elle a choisi de ne pas prendre les mesures nécessaires pour le faire modifier. Quoi qu'il en soit, pour ce qui est de la demande d'autorisation de modifier de l'appelante, dans l'arrêt Sweet c. Canada[9], le juge Décary a traité en ces termes du procédé de dosage délicat des différents aspects dont il faut tenir compte pour trancher la question de savoir s'il y a lieu de radier un appel, ou bien d'en autoriser la modification :
+[21] Un juge n'a pas pour fonction de remanier les actes de procédure. Toutefois, il lui incombe de procéder à un examen approfondi d'un acte de procédure avant de déterminer qu'il ne peut être sauvegardé par des modifications appropriées. Pour paraphraser mon confrère le juge Stone dans la décision Krause [...], un juge saisi d'une requête [visant la radiation d'actes de procédure[10]] doit décider si un document est « si vicié qu'il défie toute correction par simple modification ». Une telle décision requiert que l'on procède à un dosage délicat des différents aspects de la question, procédé qui ne répond à aucune norme définie. Chaque acte de procédure doit être évalué individuellement, compte tenu, notamment, de la situation dans laquelle se trouve la partie, des questions et des arguments soulevés, de la manière et du ton avec lesquels ils ont été soulevés, du nombre et de la proportion des allégations viciées et de la facilité avec laquelle les modifications nécessaires peuvent être apportées. Lorsque la Cour est en présence d'une partie qui se représente elle-même, elle ne doit pas trop facilement se laisser rebuter par la seule formulation d'allégations ou arguments qui ne correspond pas aux normes juridiques consacrées. [Note de bas de page ajoutée.]
+[10] Ayant examiné l'avis d'appel et les affidavits à l'appui de celui‑ci à la lumière des critères énoncés dans l'arrêt Sweet, je me rallie à la position de l'intimée selon laquelle l'avis d'appel est « si vicié qu'il défie toute correction par simple modification ». La première étape fixée dans l'arrêt Sweet est l'examen de la « situation dans laquelle se trouve l'appelante », y compris la question de savoir si l'appelante agit en personne. En l'espèce, l'avis d'appel est signé par « Troy Hovey », le président de l'appelante. Au‑dessous de sa signature figure la phrase suivante : [TRADUCTION] « Les services d'un avocat n'ont pas encore été retenus », ce qui donne à penser que l'avis d'appel a été rédigé sans l'aide d'un avocat. Lors de la requête en radiation, l'appelante était représentée par un avocat; d'ailleurs, celui‑ci s'est décrit lui‑même comme ayant une expérience considérable dans le maniement de l'argument touchant la notion de « personne physique » sur lequel est fondé l'avis d'appel. Cet argument, qui domine la section intitulée [TRADUCTION] « Partie V : Moyens invoqués par l'appelante » de l'avis d'appel, est formulé de la même manière que dans les affaires mentionnées[11] par le tribunal dans la décision Sydel. Eu égard à ces circonstances, la conclusion la plus vraisemblable est que l'appelante a intentionnellement rédigé son acte de procédure comme elle l'a fait. Les vices dont est entaché l'avis d'appel ne sont pas attribuables au fait que l'appelante n'avait pas, comme elle l'a prétendu, d'avocat au moment où elle a rédigé l'avis d'appel. Quant aux « questions et arguments soulevés » dans l'avis d'appel, encore une fois, ils reposent uniquement sur l'argument fondé sur la notion de « personne physique », et « la manière et [le] ton » avec lesquels ils ont été soulevés donnent davantage à penser qu'il s'agit d'une campagne contre l'impôt que de la contestation de la validité de la cotisation. Probablement pour les mêmes raisons, pour ce qui est « du nombre et de la proportion des allégations viciées », la presque totalité des paragraphes de l'avis d'appel repose sur l'argument ayant trait à la notion de « personne physique ».
+[11] Quant aux affidavits, bien que, contrairement à l'avis d'appel, ils remettent en question l'exactitude de la cotisation, les affirmations qu'ils contiennent sont contradictoires et ambiguës. Il suffit de comparer le paragraphe 5 de la Partie 2 de l'avis d'appel au paragraphe 4 de l'affidavit de Troy Hovey portant sur la fourniture de services et la rétribution reçue. Ce qui est encore plus accablant, c'est que le contenu des affidavits, comme celui de l'avis d'appel, est faussé par la croyance fondamentale de leurs auteurs selon laquelle, en sa qualité de « personne physique », le débiteur fiscal n'était pas assujetti à l'impôt.
+[12] Somme toute, je conviens avec l'avocat de l'intimée qu'une simple réécriture serait insuffisante pour corriger l'avis d'appel. En fait, la Cour devrait plutôt entreprendre un remaniement judiciaire qui a été expressément déconseillé dans l'arrêt Sweet. La demande d'autorisation de modifier présentée par l'appelante est donc rejetée.
+[13] En ce qui concerne la requête de l'intimée, compte tenu des observations des avocats et des documents déposés, je suis convaincue que l'intimée a démontré qu'il y avait lieu de radier l'avis d'appel en vertu de l'alinéa 58(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale), et qu'il fallait examiner l'avis d'appel tel qu'il avait été rédigé et faire abstraction des clarifications fournies ultérieurement dans les affidavits connexes[12]. L'alinéa 58(2)b) des Règles prévoit qu'« aucune preuve n'est admissible à l'égard d'une demande [...] présentée en vertu de l'alinéa (1)b) ». Cependant, même si j'avais admis les affidavits, pour les motifs énoncés ci‑dessus à l'égard de la demande d'autorisation de modifier de l'appelante, leur contenu ne m'aurait pas persuadée que l'avis d'appel révélait un droit d'action valable. À mon avis, l'argument reposant sur la notion de « personne physique » est mal fondé. De plus, la Cour canadienne de l'impôt n'a pas compétence pour examiner les questions soulevées au sujet de la justesse des actions de l'ARC relativement à l'établissement d'une cotisation à l'égard de l'appelante au titre de la demande péremptoire de paiement. Les faits sous‑jacents à l'argument fondé sur la notion de « personne physique », s'ils sont tenus pour prouvés, ne révèlent aucun fondement permettant à l'appelante de contester avec succès le bien‑fondé de la cotisation établie au titre de la demande péremptoire de paiement. L'avis d'appel
+est radié en vertu de l'alinéa 58(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale), et l'appel est rejeté avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada, ce 15e jour de mars 2007.
+« G. Sheridan »
+Le juge Sheridan
+Traduction certifiée conforme
+ce 24e jour de juin 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2007CCI139
+Nº DU DOSSIER DE LA COUR : 2006-3022(IT)G
+INTITULÉ : Hovey Ventures Inc. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Le 13 février 2007
+MOTIFS DU JUGEMENT : L'honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 15 mars 2007
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Douglas H. Christie
+Avocat de l'intimée :
+Me David Everett
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me Douglas H. Christie
+Cabinet : Douglas H. Christie
+Victoria (Colombie‑Britannique)
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2006 BCPC 346, [2006] 5 C.T.C. 88 (Cour provinciale de la Colombie‑Britannique).
+[2] Précité, au paragraphe 7. Les décisions sur lesquelles s'est fondé le juge Meyers de la Cour provinciale pour rejeter la défense reposant sur la notion de « personne physique » sont énumérées au paragraphe 8 de ses motifs.
+[3] Main Rehabilitation Co. Ltd. c. Sa Majesté la Reine, 2004 CAF 403. Voir aussi Hardtke c. Canada, 2005 CCI 263, [2005] A.C.I. nº 188 (QL).
+[4] Avis d'appel, paragraphe 4.
+[5] Avis d'appel, paragraphe 5.
+[6] Hunt c. Carey Canada Inc., [1990] 2 R.C.S. 959, au paragraphe 31.
+[7] Précité, Succession Creaghan c. Canada, [1972] C.F. 732, à la page 736 (C.F. 1re inst.).
+[8] Telus Communications (Edmonton) Inc. c. Canada, 2005 CAF 159, [2005] A.C.F. nº 775 (QL).
+[9] no A‑324‑98, 4 octobre 1999, [1999] A.C.F. nº 1539 (QL) (C.A.F.).
+[10] Au motif que l'acte de procédure était « scandaleux, frivole et vexatoire ».
+[11] R. v. Galbraith, 2001 BCSC 675, [2001] B.C.J. nº 2900 (QL), R. v. Dick, 2003 BCPC 13, [2003] B.C.J. nº 187 (QL) (Cour provinciale de la C.‑B.), R. v. Carew, greffe de Campbell River, no 17504, 21 avril 1992, [1992] B.C.J. nº 995 (QL) (Cour suprême de la C.‑B.), R. c. Sullivan, [1991] 1 R.C.S. 489, PPG Industries Canada Ltd. v. Canada, 146 D.L.R. (3d) 261, à la p. 266, [1983] B.C.J. nº 2260 (QL) (Cour suprême de la C.-B.), Kennedy v. Canada Customs and Revenue Agency, 2000 D.T.C. 6524, [2000] O.J. nº 3313 (QL) (Cour supérieure de justice de l'Ontario), R. v. Lindsay, 265 D.L.R. (4th) 193, 2006 BCCA 150, [2006] B.C.J. nº 636 (QL).
+[12] Burleigh c. Canada, no 2003‑4485(IT)G, 9 mars 2004, [2004] 2 C.T.C. 2797 (C.C.I.), au paragraphe 2, le juge en chef adjoint Bowman (maintenant juge en chef).

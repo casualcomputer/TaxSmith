@@ -1,0 +1,440 @@
+Title: Imperial Tobacco Canada Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31166/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-144-31166-imperial-tobacco-canada-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-04-15
+
+# Imperial Tobacco Canada Limited c. La Reine
+
+- Citation: 2013 CCI 144
+- Decision date: 2013-04-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4787, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Imperial Tobacco Canada Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-04-15
+Référence neutre
+2013 CCI 144
+Numéro de dossier
+2010-3940(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3940(IT)G
+ENTRE :
+IMPERIAL TOBACCO CANADA LIMITÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue les 10 et 12 octobre ainsi que le 6 novembre 2012 à Toronto (Ontario)
+Devant : L'honorable juge Steven K. D'Arcy
+Comparutions :
+Avocats de l'appelante :
+Me Al Meghji
+Me Pooja Samtani
+Avocats de l'intimée :
+Me Bobby J. Sood
+Me Ernesto Caceres
+Me Rita Araujo
+ORDONNANCE
+Après avoir entendu les parties;
+Conformément aux motifs de l'ordonnance ci‑joints :
+a) la requête de l'intimée en vue d'obtenir de la Cour une ordonnance enjoignant à l'appelante de se présenter et d'être contre‑interrogée au sujet de sa liste de documents est rejetée;
+b) conformément à l'alinéa 88b) des Règles de la Cour canadienne de l'impôt (procédure générale) :
+a. dans les 30 jours suivant la date de mon ordonnance, l'intimée fournira à l'appelante une liste des documents précis qui sont énumérés à l'annexe A de la liste de documents de l'appelante pour lesquels elle a besoin de métadonnées. Dans les 120 jours suivant la date de mon ordonnance, l'appelante modifiera sa liste de documents en vue de consigner les métadonnées requises soit à l'annexe A soit à l'annexe C;
+b. dans les 30 jours suivant la date de mon ordonnance, les parties s'entendront sur les critères de recherche précis dont l'appelante se servira pour faire des recherches dans sa base de données au sujet des documents décrits à l'annexe C de sa liste de documents comme étant des [TRADUCTION] « documents sous forme informatique qui ont été supprimés et qui n'ont pas été récupérés ou restaurés ». Dans les 120 jours suivant la date de mon ordonnance, l'appelante modifiera l'annexe A de sa liste de documents en vue d'y inclure les documents qu'elle aura récupérés au moyen des critères de recherche;
+c. dans les 120 jours suivant la date de mon ordonnance, l'appelante modifiera l'annexe A de sa liste de documents en vue d'y inclure les documents à l'égard desquels elle a invoqué à tort le secret professionnel de l'avocat, soit les documents nos 2, 3, 4 (expurgé d'une manière conforme aux motifs de l'ordonnance), 5, 9, 10, 12, 26, 27 et 34. Elle inclura aussi à l'annexe A les courriels contenus dans les documents nos 11 et 18 qui ne sont pas confidentiels;
+c) aucune ordonnance n'est rendue quant aux dépens.
+Signé à Ottawa, Canada, ce 15e jour d'avril 2013.
+« S. D'Arcy »
+Le juge D'Arcy
+Traduction certifiée conforme
+ce 16e jour d'octobre 2013.
+Yves Bellefeuille, réviseur
+Référence : 2013 CCI 144
+Date : 20130507
+Dossier : 2010-3940(IT)G
+ENTRE :
+IMPERIAL TOBACCO CANADA LIMITÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE MODIFIÉS
+Le juge D'Arcy
+[1] L'intimée a déposé une requête sollicitant :
+a) une ordonnance, en vertu du paragraphe 82(6) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »), enjoignant à l'appelante de se présenter et d'être contre‑interrogée au sujet de la liste de documents du 16 juillet 2012 (la « liste de documents »);
+b) subsidiairement, une ordonnance, en vertu de l'alinéa 88a) des Règles, enjoignant à l'appelante de se présenter et d'être contre‑interrogée au sujet de la liste de documents;
+c) subsidiairement encore, une ordonnance, en vertu de l'alinéa 88d) des Règles, enjoignant à l'appelante de produire une copie conforme des 42 documents énumérés à l'annexe B de la liste de documents de manière à ce que la Cour puisse les examiner et décider si les prétentions à la confidentialité sont fondées;
+d) une ordonnance prorogeant les délais prévus pour l'exécution des interrogatoires préalables, des engagements, etc.
+[2] Par une ordonnance du 23 octobre 2012, j'ai fait droit à la demande de l'intimée concernant la prorogation des délais relatifs à l'exécution des interrogatoires préalables et des engagements ainsi qu'aux comptes rendus à faire à la Cour. Les questions qu'il reste à trancher dans la présente requête ont trait à la liste de documents que l'appelante a produite en vertu des règles de la Cour en matière de communication intégrale[1].
+[3] Plus précisément, les questions en litige concernent les aspects suivants :
+• ce que l'on appelle des métadonnées, relativement aux documents inclus à l'annexe A de la liste de documents;
+• les documents informatiques que l'appelante décrit à l'annexe C comme étant des [TRADUCTION] « documents sous forme informatique qui ont été supprimés et qui n'ont pas été récupérés ou restaurés »;
+• les documents énumérés à l'annexe B à l'égard desquels l'appelante invoque le secret professionnel de l'avocat.
+Le contexte
+[4] British American Tobacco p.l.c. (« BAT ») est la société mère d'un certain nombre de sociétés, dont l'appelante, British American Tobacco Australia Limited (« BATA ») et BAT Italy Investments Ltd. (« BATI »). (Ces quatre sociétés sont collectivement appelées les « sociétés affiliées ».) L'appelante a acquis des actions privilégiées de BATA en 2001 pour un prix de souscription de 483 910 000 $, ainsi que des actions privilégiées de BATI en 2003 pour un prix de souscription de 879 535 000 $. Le ministre a refusé une somme d'environ 600 millions de dollars que l'appelante avait déduite à l'égard de dividendes reçus de BATA et de BATI.
+[5] La question en litige dans le présent appel consiste à savoir si les dispositions de l'alinéa 95(6)b) de la Loi de l'impôt sur le revenu (la « Loi ») s'appliquent aux opérations pertinentes. Le texte de cet alinéa est, en partie, le suivant :
+Pour l'application de la présente sous‑section, sauf l'article 90 :
+[...]
+b) dans le cas où une personne [...] acquiert des actions du capital‑actions d'une société [...] ou en dispose, directement ou indirectement et où il est raisonnable de considérer que la principale raison de l'acquisition ou de la disposition est de permettre à une personne d'éviter, de réduire ou de reporter le paiement d'un impôt ou d'un autre montant qui serait payable par ailleurs en vertu de la présente loi, les actions [...] sont réputées ne pas avoir été acquises ou ne pas avoir fait l'objet d'une disposition et, dans le cas où elles n'avaient pas été émises par la société [...] immédiatement avant l'acquisition, ne pas avoir été émises.
+[6] Il ne s'agit pas de la première requête de l'intimée. Le 19 mars 2012, celle‑ci a déposé une requête sollicitant :
+a) une ordonnance radiant l'avis d'appel au motif qu'il ne révèle aucun moyen raisonnable d'appel;
+b) une ordonnance enjoignant à l'appelante de déposer et de signifier une liste de tous les documents, ainsi que le prévoit l'article 82 des Règles;
+c) une ordonnance enjoignant à l'appelante de faire comparaître un administrateur — actuel ou ancien — bien informé de l'appelante en vue de l'interroger au préalable, ainsi que le prévoit le paragraphe 93(2) des Règles;
+d) une ordonnance enjoignant à l'appelante de répondre à certaines questions posées lors de l'interrogatoire préalable et à certaines questions complémentaires, ainsi que de produire certains documents.
+[7] Le 1er mai 2012, le juge Webb a rendu une ordonnance rejetant la demande de l'intimée en radiation de l'avis d'appel et reportant la décision de la Cour au sujet des questions restées sans réponse et des documents non produits. Cependant, il a ordonné à chaque partie, en application de l'article 82 des Règles, de « déposer et signifier à l'autre partie une liste de tous les documents qui sont ou ont été en sa possession, sous son contrôle ou sous sa garde et qui sont pertinents à toute question en litige entre les parties à l'appel ». C'est ce que l'on appelle habituellement la communication intégrale de documents.
+[8] Le juge Webb a également ordonné à l'appelante de [TRADUCTION] « choisir l'une des deux personnes restantes qui étaient administrateurs à l'époque de l'acquisition des actions privilégiées afin qu'elle soit interrogée en son nom ». L'appelante a désigné M. Luc Jobin.
+[9] L'appelante et l'intimée ont chacune déposé auprès de la Cour une liste de documents (communication intégrale). L'annexe A jointe à la liste de l'appelante fait état de 249 documents qui se trouvent en sa possession, sous son contrôle ou sous sa garde. L'annexe B de cette liste fait état, conformément à l'alinéa 82(2)b) des Règles, de 42 documents à l'égard desquels l'appelante invoque le secret professionnel de l'avocat.
+[10] L'annexe C de la liste de documents de l'appelante fait référence aux deux séries suivantes de documents qui se sont déjà trouvés en sa possession, sous son contrôle ou sous sa garde, mais qui ne le sont plus :
+[traduction]
+1. le cas échéant, la copie originale de documents énumérés aux annexes A et B que l'appelante a envoyée ou livrée à la personne à laquelle elle était adressée;
+2. des documents sous forme informatique qui ont été supprimés et qui n'ont pas été récupérés ou restaurés.
+[11] L'intimée a déposé par la suite la présente requête.
+[12] Au début de l'audience, j'ai informé les parties que j'entendrais en premier les plaidoiries relatives au contre‑interrogatoire portant sur la liste de documents de l'appelante et que je déciderais ensuite si la Cour avait besoin de plaidoiries au sujet du redressement subsidiaire que sollicitait l'intimée, à savoir la production des documents énumérés à l'annexe B afin que la Cour puisse les examiner et décider si les revendications du secret professionnel de l'avocat sont fondées.
+[13] Les 10 et 12 octobre 2012, j'ai entendu les plaidoiries des parties au sujet de la question du contre‑interrogatoire. Lors de sa plaidoirie du 10 octobre 2012, l'avocat de l'appelante a informé la Cour que sa cliente était [TRADUCTION] « heureuse » de lui fournir pour examen une copie des documents énumérés à l'annexe B (le « recueil de documents confidentiels »).
+[14] Avant d'accepter le recueil de documents confidentiels, j'ai demandé à l'avocat de l'intimée quelle était la position de sa cliente à cet égard et il a déclaré que l'intimée ne s'opposait pas à ce que je reçoive ce recueil. L'avocat de l'appelante a ensuite remis à la Cour le recueil en question.
+[15] Le 12 octobre 2012, après que les parties eurent terminé leurs plaidoiries sur la question du contre‑interrogatoire, je les ai informées que je remettais à plus tard ma décision sur ce point jusqu'à ce qu'elles m'aient fait part de leurs commentaires sur la question du secret professionnel de l'avocat. Le 6 novembre 2012, j'ai entendu les plaidoiries des parties à propos de la question de savoir si les documents énumérés à l'annexe B de la liste de documents de l'appelante étaient bel et bien soumis au secret professionnel de l'avocat.
+[16] Je traiterai en premier lieu de la demande de l'intimée en vue de procéder à un contre‑interrogatoire au sujet de la liste de documents.
+Le contre‑interrogatoire au sujet de la liste de documents
+[17] L'avocat de l'intimée a déclaré que sa cliente allait se servir de la manière suivante du contre‑interrogatoire de M. Edgard Goharghi, l'employé de l'appelante qui a signé la liste de documents :
+a. en ce qui concerne l'annexe A de la liste de documents de l'appelante, l'intimée se servirait du contre‑interrogatoire pour circonscrire le nombre des documents pour lesquels des métadonnées seront demandées;
+b. en ce qui concerne l'annexe B de la liste de documents de l'appelante, l'intimée se servirait du contre‑interrogatoire pour obtenir des renseignements additionnels qui l'aideraient à décider si l'appelante a invoqué à juste titre le secret professionnel à l'égard des documents (l'intimée a fait valoir que la description des documents dans la liste de documents de l'appelante ne fournit pas assez de renseignements pour pouvoir décider si l'appelante a invoqué à juste titre le secret à l'égard des documents en question);
+c. en ce qui concerne l'annexe C de la liste de documents de l'appelante, l'intimée se servirait du contre‑interrogatoire pour décider si des documents informatiques pertinents ont été omis de la liste de documents de l'appelante.
+[18] L'intimée invoque les dispositions suivantes des Règles :
+82(1) Les parties peuvent convenir ou, en l'absence d'entente, demander à la Cour d'émettre une ordonnance obligeant chaque partie à déposer et à signifier à l'autre partie une liste de tous les documents qui sont ou ont été en la possession, sous le contrôle ou sous la garde de cette partie et qui sont pertinents à toute question en litige entre les parties à l'appel.
+(2) La liste de documents produite conformément au présent article doit décrire, dans des annexes distinctes, tous les documents pertinents à une question en litige dans l'appel et qui :
+a) se trouvent en la possession, sous le contrôle ou sous la garde de la partie déposante et à la production desquels elle ne s'oppose pas;
+b) se trouvent ou se sont trouvés en la possession, sous le contrôle ou sous la garde de la partie déposante et à l'égard desquels elle invoque un privilège, avec les moyens qui fondent sa prétention;
+c) se sont déjà trouvés en la possession, sous le contrôle ou sous la garde de la partie déposante, mais ne le sont plus, qu'elle invoque ou non un privilège, avec une déclaration exposant depuis quand et pour quelle raison ils ne se trouvent plus en sa possession, sous son contrôle ou sous sa garde, ainsi que l'endroit où ils se trouvent.
+(3) La liste de documents produite en vertu du présent article doit être établie selon la formule 82(3).
+(4) Une liste de documents produite sous le régime du présent article doit être attestée par une déclaration sous serment (formules 82(4)A et 82(4)B)
+[...]
+b) si cette partie est une personne morale ou un corps ou un autre groupe de personnes autorisé à ester en justice, soit en son propre nom, soit au nom d'un dirigeant ou d'une autre personne, faite par tout membre ou tout dirigeant de la personne morale, du corps ou du groupe;
+c) si la partie est la Couronne [...]
+(5) La partie affirme de plus dans la déclaration sous serment qu'elle n'a jamais eu en sa possession, sous son contrôle ou sous sa garde un document pertinent à la question en litige dans l'instance qui n'est pas énuméré dans la liste.
+(6) La Cour peut ordonner à une partie de se présenter et d'être contre‑interrogée sur une déclaration sous serment produite sous le régime du présent article.
+[...]
+88 Si elle est convaincue qu'une partie n'a pas mentionné dans sa déclaration sous serment un document pertinent qui se trouve en sa possession, sous son contrôle ou sous sa garde ou que la prétention au privilège n'est pas fondée, la Cour peut :
+a) ordonner qu'il y ait contre‑interrogatoire sur la déclaration sous serment de documents;
+b) ordonner la signification d'une autre déclaration sous serment de documents plus complète;
+c) ordonner la divulgation ou la production, à des fins d'examen, du document, en tout ou en partie, si celui‑ci n'est pas privilégié;
+d) examiner le document afin d'établir sa pertinence ou de décider si la prétention au privilège est fondée.
+[19] J'ai entendu les plaidoiries des parties au sujet de l'application du paragraphe 82(6) et de l'article 88 des Règles.
+[20] L'avocat de l'intimée a commencé sa plaidoirie en faisant référence à l'alinéa 95(1)c) des Règles, lequel dispose que, lors de l'interrogatoire préalable d'une personne, celle‑ci ne peut refuser de répondre au motif que la question constitue un contre‑interrogatoire sur la déclaration sous serment de documents déposée par la partie interrogée. Il a fait valoir qu'aux termes de cette disposition, il pouvait contre‑interroger M. Luc Jobin au sujet de la liste de documents de l'appelante pendant son interrogatoire préalable[2]. M. Jobin est l'ancien administrateur de l'appelante que cette dernière a désigné pour être interrogé au préalable en vue de se conformer à l'ordonnance du juge Webb du 19 mars 2012[3].
+[21] L'avocat de l'intimée croit qu'il peut contre‑interroger M. Jobin, mais il doute que ce dernier ait une connaissance personnelle de la liste de documents de l'appelante. J'ai une préoccupation beaucoup plus grave.
+[22] Voici ce qu'indique l'ordonnance du juge Webb :
+[traduction]
+L'appelante devra choisir l'une des deux personnes restantes qui étaient administrateurs à l'époque de l'acquisition des actions privilégiées afin qu'elle soit interrogée en son nom. Cet interrogatoire n'inclura aucune question pour laquelle une réponse satisfaisante a été donnée par le représentant antérieurement choisi par l'appelante lors de son interrogatoire préalable ou à la suite de toute question complémentaire pour laquelle une réponse a été donnée. L'interrogatoire de cette personne se limitera aux questions qui ont été contrecarrées par le refus du représentant de l'appelante de répondre à des questions liées aux éléments dont le conseil d'administration a tenu compte au moment de décider d'approuver l'acquisition des actions privilégiées qui sont en cause dans le présent appel ou de solliciter d'autres renseignements auprès des anciens membres du conseil d'administration à cet égard.
+[Non souligné dans l'original.]
+[23] L'avocat de l'intimée semble laisser entendre que sa cliente peut faire abstraction de la partie de l'ordonnance de la Cour du 19 mai 2012 qui restreint l'interrogatoire de M. Jobin à des questions liées aux éléments dont le conseil d'administration a tenu compte au moment de décider d'approuver l'acquisition des actions privilégiées qui sont en cause dans le présent appel. L'argument de l'avocat de l'intimée me surprend beaucoup. Je n'ai pas l'intention d'examiner un argument qui repose sur le fait qu'une partie fasse abstraction d'une ordonnance de la Cour.
+[24] Pour ce qui est des dispositions pertinentes, l'avocat de l'intimée a fait valoir que le paragraphe 82(6) ne comporte aucune exigence préliminaire. Cette disposition indique simplement que la Cour peut ordonner à une partie de se présenter et d'être contre‑interrogée sur une déclaration sous serment de documents qui a été produite sous le régime de l'article 82. L'avocat de l'intimée a fait valoir que cette disposition n'oblige pas la partie qui procède à l'interrogatoire à justifier le contre‑interrogatoire ou à indiquer les objectifs qu'elle souhaite atteindre. L'avocat de l'intimée a de plus allégué que la seule raison pour laquelle le paragraphe 82(6) oblige à demander une autorisation est que le contre‑interrogatoire a lieu à un moment autre que celui de l'interrogatoire préalable.
+[25] L'avocat de l'intimée a reconnu que l'article 88 contient une exigence préliminaire et qu'une fois que cette exigence est remplie, la Cour peut appliquer n'importe quel des quatre redressements qui y sont indiqués. L'un de ces redressements est un contre‑interrogatoire sur la déclaration sous serment de documents. L'avocat a ajouté que ce qui explique la présence de l'exigence préliminaire à l'article 88 est l'inclusion, dans cet article, des trois redressements auxquels ne donne pas accès le paragraphe 82(6).
+[26] L'avocat de l'intimée a également fait valoir que le fait d'autoriser la tenue d'un contre‑interrogatoire au sujet de la liste de documents est la première étape que la Cour doit franchir avant de prendre en considération les autres redressements que prévoit l'article 88. À l'appui de sa thèse, l'intimée invoque les décisions suivantes de la Cour : Heinig c. La Reine[4] et 9005‑6342 Québec Inc. c. La Reine[5]. Selon moi, ni l'une ni l'autre de ces décisions ne sont particulièrement utiles. Dans la décision Heinig, le juge Webb a décidé que, dans la situation de fait dont il était saisi, le redressement approprié que prévoyait l'article 88 était un contre‑interrogatoire sur la liste de documents. Cependant, il n'a pas dit, ni même sous‑entendu, que la Cour devrait recourir à ce redressement‑là avant de prendre en considération les autres redressements que prévoit l'article 88.
+[27] Dans la décision 9005‑6342 Québec Inc., mon collègue le juge Hogan ne traite tout simplement pas de la question de savoir quand il convient de donner l'autorisation demandée au titre du paragraphe 82(6) ou de l'article 88 des Règles, sauf pour renvoyer à la décision Heinig du juge Webb.
+[28] L'avocat de l'appelante a fait valoir qu'il y a lieu de lire ensemble le paragraphe 82(6) et l'article 88. Il a ajouté que le paragraphe 82(6) retire le droit automatique de procéder à un contre‑interrogatoire au sujet d'une déclaration sous serment. L'appelante est d'avis que le paragraphe 82(6) dispose qu'une partie doit obtenir une autorisation et que l'article 88 énonce en détail ce que la partie doit démontrer à cette fin. L'avocat de l'appelante a fait valoir que la liste de documents doit être erronée à première vue avant que la Cour permette le contre‑interrogatoire.
+[29] Je suis d'accord, en partie, avec l'avocat de l'appelante. Le paragraphe 82(6) supprime le droit automatique de procéder à un contre‑interrogatoire au sujet d'une déclaration sous serment. Pour qu'il ait un certain sens, il doit y avoir un seuil à franchir avant que l'on puisse autoriser un contre‑interrogatoire.
+[30] Aux termes du paragraphe 82(1) des Règles, la Cour peut rendre « une ordonnance obligeant chaque partie à déposer et à signifier à l'autre partie une liste de tous les documents qui sont ou ont été en la possession, sous le contrôle ou sous la garde de cette partie et qui sont pertinents à toute question en litige entre les parties à l'appel » [non souligné dans l'original].
+[31] Le juge Webb a ordonné à chaque partie de fournir une telle liste de documents.
+[32] Je suis d'avis que la Cour devrait envisager d'accorder l'autorisation de procéder à un contre‑interrogatoire si elle a un doute quelconque que la liste de documents ne répond pas aux exigences de l'article 82 des Règles et, notamment, que cette liste n'énumère pas tous les documents pertinents qui sont en la possession, sous le contrôle ou sous la garde de la partie concernée.
+[33] Cependant, la Cour doit également prendre en considération l'article 88 des Règles. Si elle conclut que l'on a rempli l'exigence préliminaire que contient cet article, il lui faut alors prendre en compte la totalité des redressements qui y figurent avant de rendre son ordonnance. Je n'admets pas que la Cour doive ordonner la tenue d'un contre‑interrogatoire avant de prendre en compte les autres redressements qu'offre l'article 88. Si la Cour est d'avis que l'un des autres redressements convient mieux, il lui faut dans ce cas ordonner l'application de ce redressement. Comme nous le verrons sous peu, bien que je croie qu'il y a des lacunes dans la liste de documents de l'appelante, je suis d'avis que l'alinéa 88b) des Règles comporte le redressement approprié, c'est‑à‑dire la signification d'une autre déclaration sous serment de documents plus complète.
+[34] Il est important que les parties soient conscientes que mon ordonnance n'empêche pas l'intimée de solliciter la tenue d'un contre‑interrogatoire au sujet de la version modifiée de la déclaration sous serment de documents ou la tenue d'un interrogatoire additionnel du représentant de l'appelante (c.‑à‑d. la personne que l'appelante a désignée antérieurement en vue de l'interrogatoire préalable).
+[35] J'examinerai maintenant les questions précises que l'intimée a soulevées.
+Les métadonnées
+[36] Lorsqu'elles font référence aux métadonnées, les parties parlent des données informatiques qui se rapportent à des documents précis énumérés à l'annexe A de la liste de documents de l'appelante. Ces données informatiques fournissent des renseignements sur un document particulier, par exemple l'auteur ou les auteurs du document, la date à laquelle le document a été créé, ainsi que l'historique des modifications qui y ont été apportées.
+[37] Pendant les plaidoiries, l'avocat de l'appelante a informé la Cour qu'au moment où les parties ont dressé leurs listes de documents respectives, elles ont convenu de traiter de la question des métadonnées de la manière suivante :
+- premièrement, elles établiraient leurs listes de documents en en énumérant les copies papier;
+- deuxièmement, après l'échange de ces listes, l'avocat de l'intimée indiquerait les documents particuliers pour lesquels sa cliente aurait besoin de métadonnées;
+- enfin, l'avocat de l'appelante déterminerait ensuite si les métadonnées demandées existent dans le système informatique de sa cliente.
+[38] L'avocat de l'intimée se préoccupe des mesures que sa cliente pourrait prendre si elle n'accepte pas la réponse de l'appelante à la demande de métadonnées.
+[39] Je suis d'avis que les métadonnées sont des renseignements qui devraient être énumérés dans la liste de documents comme document distinct de la copie papier du document en question.
+[40] Cependant, j'ai aussi l'intention de me conformer à l'entente que les avocats ont conclue, car celle‑ci vise manifestement à réduire les frais qu'entraîne la fourniture des renseignements. L'avocat de l'intimée aura 30 jours à compter de la date de la présente ordonnance pour désigner les documents particuliers pour lesquels l'intimée a besoin de métadonnées. L'appelante aura 120 jours à compter de la date de la présente ordonnance pour modifier sa liste de documents et consigner les métadonnées demandées soit à l'annexe A soit à l'annexe C.
+Les documents supprimés
+[41] Comme je l'ai mentionné plus tôt, l'annexe C de la liste de documents de l'appelante renvoie aux [TRADUCTION] « documents sous forme informatique qui ont été supprimés et qui n'ont pas été récupérés ou restaurés ».
+[42] L'appelante ne dit pas qu'elle n'est pas en mesure de récupérer les documents; elle dit simplement qu'ils ne l'ont pas été.
+[43] L'avocat de l'intimée a fait valoir qu'il a besoin d'un contre‑interrogatoire pour pouvoir déterminer ce qui a été supprimé, ainsi que les mesures prises par l'appelante pour récupérer les documents supprimés.
+[44] L'avocat de l'appelante a fait remarquer que, dans d'autres appels, les parties ont convenu d'utiliser des critères de recherche particuliers pour faire des recherches dans la base de données d'une partie et déterminer ainsi quels documents supprimés pouvaient être récupérés. Il a ajouté que les parties n'ont pas discuté de cette question dans le présent appel.
+[45] Je crois qu'il est maintenant temps de le faire. Les parties auront 30 jours à compter de la date de mon ordonnance pour s'entendre sur les critères de recherche particuliers que l'appelante utilisera en vue de faire des recherches dans la base de données. L'appelante aura 120 jours à compter de la date de la présente ordonnance pour modifier l'annexe A de sa liste de documents en vue d'inclure les documents qu'elle récupérera au moyen des critères de recherche.
+Les documents pour lesquels l'appelante invoque le secret professionnel
+[46] Comme je l'ai mentionné plus tôt, le 10 octobre 2012, l'appelante m'a remis une copie des documents à l'égard desquels elle revendiquait le secret professionnel. La Cour a lu chacun des documents, entendu les arguments des parties et est arrivée à sa décision à propos de la question de savoir si l'appelante avait invoqué le secret à bon droit. Il n'est donc pas nécessaire de rendre une ordonnance au titre du paragraphe 82(6) ou de l'alinéa 88a) des Règles en vue d'autoriser la tenue d'un contre‑interrogatoire au sujet de l'annexe B de la liste de documents de l'appelante, ni de rendre une ordonnance au titre de l'alinéa 88d) des Règles en vue d'enjoindre à l'appelante de produire les documents pour examen. L'appelante a produit les documents en question.
+La conclusion sur la requête visant à obtenir un contre‑interrogatoire
+[47] Pour les motifs qui précèdent, la requête de l'intimée en vue d'obtenir, en vertu du paragraphe 82(6) ou de l'alinéa 88a) des Règles, une ordonnance enjoignant à l'appelante de se présenter et d'être contre‑interrogée au sujet de sa liste de documents est rejetée au motif qu'il n'est pas nécessaire à ce stade‑ci de rendre une telle ordonnance. L'appelante sera plutôt tenue, aux termes de l'alinéa 88b) des Règles, de signifier une autre déclaration sous serment de documents plus complète, conformément aux commentaires que j'ai faits plus tôt au sujet des métadonnées et des documents informatiques supprimés, ainsi qu'aux commentaires que je formule ci‑après au sujet des documents pour lesquels l'appelante invoque le secret professionnel de l'avocat.
+Le secret professionnel de l'avocat
+[48] L'avocat de l'intimée, et les documents eux‑mêmes, soulèvent un certain nombre de questions quant à la question de savoir si les documents énumérés à l'annexe B sont soumis au secret professionnel de l'avocat :
+• si certaines communications internes entre des employés de l'appelante étaient confidentielles;
+• si l'on a renoncé au secret au moment où des communications confidentielles entre avocat et client ont été échangées par des employés de BAT, de BATA et de BATI ou des avocats de l'une quelconque de ces sociétés;
+• si l'on a renoncé au secret (ou si ce dernier existait) au moment où des communications confidentielles entre avocat et client ont été envoyées à un cabinet comptable;
+• s'il y a eu renonciation implicite, par l'appelante, du secret professionnel de l'avocat à l'égard des conseils juridiques qu'elle a reçus de son avocat;
+• si les communications entre l'appelante et son avocat étaient des conseils juridiques confidentiels ou des conseils commerciaux non confidentiels.
+Un aperçu du droit applicable
+[49] Les tribunaux canadiens protègent solidement le secret professionnel de l'avocat. Comme l'a déclaré la Cour suprême du Canada dans l'arrêt Blank c. Canada (Ministre de la Justice)[6], au paragraphe 26 :
+[...] [Le] secret professionnel de l'avocat [est] fermement établi depuis des siècles. Il reconnaît que la force du système de justice dépend d'une communication complète, libre et franche entre ceux qui ont besoin de conseils juridiques et ceux qui sont les plus aptes à les fournir. La société a confié aux avocats la tâche de défendre les intérêts de leurs clients avec la compétence et l'expertise propres à ceux qui ont une formation en droit. Ils sont les seuls à pouvoir s'acquitter efficacement de cette tâche, mais seulement dans la mesure où ceux qui comptent sur leurs conseils ont la possibilité de les consulter en toute confiance. Le rapport de confiance qui s'établit alors entre l'avocat et son client est une condition nécessaire et essentielle à l'administration efficace de la justice.
+[50] Le secret professionnel de l'avocat est à la fois une règle de preuve et une règle de fond[7]. Dans l'arrêt Solosky c. La Reine[8], le juge Dickson a résumé ainsi les critères auxquels il convient de satisfaire avant de pouvoir invoquer le secret :
+[...] le privilège ne peut être invoqué que pour chaque document pris individuellement, et chacun doit répondre aux critères du privilège : (i) une communication entre un avocat et son client; (ii) qui comporte une consultation ou un avis juridiques; et (iii) que les parties considèrent de nature confidentielle. Le juge doit lire les lettres afin de décider si le privilège s'y rattache, ce qui exige, à tout le moins, qu'elles relèvent de la juridiction d'un tribunal. [...]
+[51] Le secret professionnel de l'avocat est permanent. Il appartient au client, et lui seul peut y renoncer[9]. Le client peut renoncer expressément à la protection que confère le secret, ou cette renonciation peut être implicite.
+[52] L'appelante a décidé de ne pas fournir de preuve par affidavit ou de vive voix à l'appui de sa revendication de confidentialité. Il incombe à la personne qui invoque le secret professionnel de l'avocat d'établir, selon la prépondérance des probabilités, que le document en question est confidentiel[10]. Je n'ai tiré aucune inférence défavorable de la décision prise par l'appelante de ne pas fournir de preuve par affidavit ou de vive voix. Cependant, dans les cas où la partie qui invoque le secret ne produit pas de tels éléments de preuve, mais remet à la Cour une copie des documents pertinents en vue de leur examen, la Cour doit rendre sa décision en se fondant uniquement sur les documents en question. Si, au vu des documents, il semble n'y avoir aucun secret, il s'ensuit que ces documents ne sont pas confidentiels.
+[53] L'annexe B dresse une liste de lettres que se sont échangées divers conseillers juridiques et employés de l'appelante, de BAT et de BATA. Les lettres proprement dites révèlent l'existence des relations avocat‑client suivantes :
+• Osler, Hoskin & Harcourt s.r.l. (« Osler ») représentait l'appelante et BAT;
+• Ogilvy Renault représentait l'appelante;
+• Mallesons Stephen Jaques, un cabinet d'avocats australien, représentait l'appelante;
+• Allen & Overy, un cabinet d'avocats britannique, représentait BAT relativement à BATI;
+• Blake Dawson Waldron, un cabinet d'avocats australien, représentait BATA, BAT et l'appelante.
+[54] Après avoir lu le recueil de documents confidentiels, je suis arrivé à la conclusion que les documents qui suivent constituent une communication confidentielle soit entre Osler et ses clientes (l'appelante et BAT), soit entre Ogilvy Renault et sa cliente (l'appelante) :
+Numéro du document[11]
+Description du document
+Date du document
+1
+Note de service de Mario Tombari (appelante) à Patrick Marley (Osler)
+5 avril 2001
+7
+Courriel de Patrick Marley (Osler) à Steve Dale (BAT), avec copie conforme à Firoz Ahmed (Osler), à Mario Tombari (appelante) et à Mark Dunkley (BAT)
+6 août 2001
+13
+Courriel de Sunil Panray (appelante) à Firoz Ahmed (Osler), avec copie conforme à Patrick Marley (Osler) et à Mario Tombari (appelante)
+13 août 2001
+16
+Courriel de Patrick Marley (Osler) à Steve Dale (BAT), avec copie conforme à Mario Tombari (appelante), à Philip Andrew (BAT) et à David Leach (BAT)
+20 août 2001
+20
+Courriel de Patrick Marley (Osler) à Steve Dale (BAT) et à Mark Dunkley (BAT), avec copie conforme à Mario Tombari (appelante)
+30 août 2001
+21
+Ébauche de note de service de Patrick Marley et Firoz Ahmed (Osler) à Steve Dale (BAT) et Mario Tombari (appelante)
+5 septembre 2001
+22
+Ébauche de note de service de Lyndon Barnes et Shelley Obal (Osler) à Don McCarty et Sunil Panray (appelante)
+5 septembre 2001
+29
+Note de service de Patrick Marley et de Firoz Ahmed (Osler) à Steve Dale (BAT) et à Mario Tombari (appelante)
+8 novembre 2001
+36
+Note de service de Renaud Coulombe et de Robert Borduas (Ogilvy Renault) à Sunil Panray et à Pierre Leclerc (appelante)
+7 octobre 2003
+42
+Note de service de Patrick Marley, de Firoz Ahmed et de Drew Morier (Osler) à Mario Tombari (appelante)
+11 décembre 2003
+La question des communications internes
+[55] L'une des questions que soulève l'intimée, et les documents eux‑mêmes, est celle de savoir si certaines communications internes entre des employés de l'appelante sont confidentielles.
+[56] Est confidentielle une communication entre des employés d'une société qui diffuse ou analyse des conseils juridiques provenant de l'avocat de cette société. Comme l'a déclaré le juge Bowie dans la décision Global Cash Access (Canada) Inc. c. La Reine[12] au sujet de conseils juridiques que le ministère de la Justice avait fournis à l'Agence du revenu du Canada :
+[TRADUCTION]
+[...] Les conseils ont été donnés à l'Agence sous la protection du secret professionnel de l'avocat, et ils ne perdent pas cette protection lorsqu'ils sont transmis d'un fonctionnaire de l'Agence à un autre. Si cette affirmation doit être justifiée autrement que par le bon sens, alors on peut se référer au jugement du juge Halvorson dans la décision International Minerals & Chemical Corp. (Canada) v. Commonwealth Insurance Co. [[1990] S.J. no 615 (QL); 89 Sask. R. 1 (B.R. Sask.)].
+[57] Cependant, une communication interne qui ne consiste pas en la transmission de conseils juridiques confidentiels ou qui ne concerne pas directement l'obtention de conseils de cette nature n'est pas confidentielle. Par ailleurs, un tel document ne devient pas confidentiel uniquement parce qu'une copie a été envoyée à un avocat. Par contre, si ce dernier marque le document ou y inscrit une note, ce document devient alors un document de travail de l'avocat et la copie marquée ou annotée est confidentielle[13].
+[58] Les documents énumérés ci‑après sont des courriels qui ne font que retransmettre des conseils juridiques qu'un avocat a donnés à l'appelante; les conseils écrits étaient confidentiels quand ils ont été fournis à la cliente (l'appelante) et ils n'ont pas perdu ce caractère uniquement parce qu'ils ont été retransmis par un employé de l'appelante à un autre employé.
+Numéro du document[14]
+Description du document
+Date du document
+6
+Courriel de Mario Tombari à Luc Jobin et à Sunil Panray (tous employés de l'appelante), retransmettant un courriel de Firoz Ahmed (Osler) à l'appelante.
+1er août 2001
+23
+Courriel de Harry Steinbrenner à Sunil Panray, à Caroline Ferland et à Pierre Leclerc (tous employés de l'appelante), retransmettant un courriel de Barbara Lynn Joss (Ogilvy Renault)
+6 septembre 2001
+24
+Courriel de Donald McCarty à Luc Jobin et à Pierre Leclerc (tous employés de l'appelante), retransmettant un courriel de Ben Luscombe (Mallesons Stephen Jaques).
+26 septembre 2001
+[59] Les documents énumérés ci‑après sont des documents internes qui, à première vue, ne comportent aucun conseil juridique ou n'en retransmettent aucun. Ces documents ne sont pas confidentiels et doivent être consignés à l'annexe A de la liste de documents de l'appelante :
+1) Le document no 2 de l'annexe B, du 5 avril 2001, qui est désigné à l'annexe B comme une note de service de Mario Tombari (appelante) à Fergus Heaton et à Steve Dale (BAT), avec copies à Luc Jobin (appelante) et à Patrick Marley (Osler). Il s'agit d'un document de trois pages. M. Tombari indique sur la première page : [TRADUCTION] « Vous trouverez ci‑joints mes commentaires préliminaires sur [...] » [non souligné dans l'original]. L'avocat de l'appelante a fait valoir que ce document représente la retransmission, par un employé de l'appelante, de conseils juridiques obtenus d'Osler. Aucune preuve ne m'a été soumise à l'appui d'une telle conclusion. Le document semble seulement contenir l'opinion de M. Tombari sur l'opération proposée et expose d'éventuels problèmes qu'il a relevés. La note de service ne fait aucune mention de conseils juridiques obtenus du conseiller juridique de l'appelante. Le simple fait qu'une copie du document non annoté est transmise à Osler n'est pas suffisant, en soi, pour que je conclue qu'il est lié à la fourniture de conseils juridiques. L'avocat de l'appelante a fait remarquer que le document no 2 est semblable au document no 1 que M. Tombari a envoyé à Osler le 5 avril 2001. Certes, mais dans le document no 1, M. Tombari demande expressément à Osler de lui faire part de ses commentaires. L'appelante n'a soumis à la Cour aucune preuve que le document no 1 a été envoyé avant le document no 2, qu'Osler a donné des conseils au sujet du document no 1 ou que ces conseils, s'il y en a eu, ont été intégrés au document no 2. Ma décision doit être fondée sur les éléments de preuve qui m'ont été soumis.
+2) Le document no 3 de l'annexe B, du 5 avril 2001, qui est désigné à l'annexe B comme une note de service de Mario Tombari (appelante) à Fergus Heaton et à Steve Dale (BAT), avec copies à Luc Jobin (appelante) et à Patrick Marley (Osler). Ce document est identique au document no 2, sauf qu'il contient des notes manuscrites, dont on ne connaît pas clairement l'auteur. Ma décision quant au document no 3 est la même que pour le document no 2 : je n'ai en main aucune preuve que ce document a trait à la fourniture de conseils juridiques et il n'est pas confidentiel.
+3) Le document no 5 de l'annexe B, du 26 juillet 2001, qui est désigné à l'annexe B comme une note de service de Mario Tombari (appelante) à Steve Dale (BAT), avec copies à Luc Jobin et à Sunil Panray (appelante) ainsi qu'à Patrick Marley (Osler). Il s'agit d'un document de deux pages. Il ressort clairement de ce document que M. Tombari répond à des questions que M. Dale a posées dans un courriel du 25 juillet 2001. Le document ne comporte aucune mention que des conseils juridiques ont été reçus de l'avocat de l'appelante. Je n'ai en main aucune preuve qui étaye une conclusion de fait selon laquelle le document représente la retransmission, par M. Tombari, de conseils juridiques provenant d'Osler.
+4) Le document no 26 de l'annexe B, du 18 octobre 2001, qui est désigné à l'annexe B comme une télécopie de Mario Tombari (appelante) à Steve Dale (BAT), avec copies à Luc Jobin, à Sunil Panray, à Harry Steinbrenner et à Pierre Leclerc (appelante) ainsi qu'à Patrick Marley (Osler). Le document comporte deux pages; la page d'accompagnement traite d'un communiqué récent de l'Agence des douanes et du revenu du Canada, et le texte proprement dit du communiqué est la seconde page de la télécopie. Le document ne comporte aucune mention de conseils juridiques obtenus de l'avocat de l'appelante. Je n'ai en main aucune preuve qui étaye une conclusion de fait selon laquelle le document représente la retransmission, par M. Tombari, de conseils juridiques provenant d'Osler.
+5) Le document no 27 de l'annexe B, du 18 octobre 2001, qui est désigné à l'annexe B comme une note de service de Mario Tombari (appelante) à Richard Williams (BAT), avec copies à sept employés de BAT, à quatre employés de l'appelante, ainsi qu'à Patrick Marley (Osler). Le document indique qu'il présente les commentaires de l'appelante sur les actions privilégiées de BATA. Le document ne comporte aucune mention de conseils juridiques obtenus de l'avocat de l'appelante. Je n'ai en main aucune preuve qui étaye une conclusion de fait selon laquelle le document représente la retransmission, par M. Tombari, de conseils juridiques provenant d'Osler.
+6) Le document no 34 de l'annexe B, du 27 août 2003, qui est désigné à l'annexe B comme un courriel de Mario Tombari à Sunil Panray. Cependant, le courriel vient en fait de Fergus Heaton (BAT) et il est adressé à Sunil Panray (appelante), avec copies à Justin Smith, à Steve Burton et à Neil Wadey (BAT), à Harry Steinbrenner et à Mario Tombari (appelante), ainsi qu'à Patrick Marley (Osler). Le courriel présente les commentaires de M. Heaton sur un problème de retenue d'impôt. Le document ne comporte aucune mention de conseils juridiques obtenus d'un conseiller juridique. Je n'ai en main aucune preuve qui étaye une conclusion de fait selon laquelle le document représente la retransmission, par M. Heaton, de conseils juridiques provenant d'Osler ou d'un autre cabinet d'avocats.
+7) Une partie du document no 4 de l'annexe B n'est pas confidentielle. Le document, daté du 24 juillet 2001, est désigné à l'annexe B comme une note au dossier de Mario Tombari (appelante), avec copies à Luc Jobin et à Sunil Panray (appelante) ainsi qu'à Patrick Marley (Osler). Le document, d'une longueur de deux pages, semble répondre à sept questions. Cependant, l'identité de l'auteur de ces questions n'est pas claire. Le document n'est adressé à personne en particulier. Les réponses données aux six premières questions semblent présenter le point de vue de M. Tombari à propos de certains problèmes d'impôt sur le revenu. Il ne comporte aucune mention de conseils juridiques obtenus du conseiller juridique de l'appelante. La réponse à la septième question a trait à la question de savoir si Osler est en mesure de fournir un avis juridique. Il s'agit là de la seule partie du document qui a trait à la fourniture de conseils juridiques, et l'appelante l'expurgera. Le reste de la note au dossier, qui contient les réponses aux six premières questions posées ainsi que les commentaires figurant à la page 2, n'est pas confidentiel. Le document expurgé doit être inscrit à l'annexe A de la liste de documents de l'appelante.
+La question de la confidentialité
+[60] De toute évidence, la confidentialité est l'une des principales conditions qui doivent être remplies avant qu'un tribunal conclue qu'une communication bénéficie du secret professionnel de l'avocat. Comme l'a fait remarquer la Cour d'appel de l'Ontario dans l'arrêt R. c. Dunbar[15], au paragraphe 53 (QL) :
+[TRADUCTION]
+Une condition essentielle du secret professionnel de l'avocat est que la communication à l'égard de laquelle on invoque ce secret a été faite dans des circonstances qui dénotent un objectif de confidentialité. En général, s'il est prévu que la communication sera révélée à un tiers, l'élément de confidentialité sera absent. De même, la présence d'un tiers au moment où la communication a été faite dénote en général que cette communication n'était pas destinée à être confidentielle. Il se peut toutefois que la présence d'un tiers n'ait pas cet effet‑là; ce sera le cas, par exemple, si cette mesure est raisonnablement nécessaire pour protéger l'intérêt du client. Voir Wigmore on Evidence (McNaughton Rev.), vol. a, pp. 599 à 603; McCormick on Evidence, 2e éd., pp. 187 à 189; Cross on Evidence, 5e éd. (1979), p. 289.
+[61] L'annexe B de la liste de documents indique que les communications juridiques ont été révélées à des tiers.
+Les communications avocat‑client divulguées à des employés des sociétés affiliées
+[62] En premier lieu, certaines communications entre l'appelante et son avocat ont été divulguées à des employés de BAT et de BATA. De même, certaines communications juridiques entre BAT et BATA et leurs conseillers juridiques respectifs ont été divulguées à des employés de l'appelante. Cette divulgation annulera le secret professionnel de l'avocat, sauf si BAT et BATA avaient un intérêt commun avec l'appelante.
+[63] Le secret professionnel de l'avocat peut être maintenu lorsqu'une partie à une opération commerciale fournit des documents confidentiels à une autre partie à cette opération. Cela peut être le cas lorsque la partie fournit les documents en vue de favoriser l'intérêt commun que représente la conclusion de l'opération et que les parties n'ont pas l'intention de renoncer au secret qui se rattache aux documents[16]. C'est ce que l'on appelle le secret d'intérêt commun.
+[64] Dans la décision Fraser Milner Casgrain LLP c. M.R.N., la Cour suprême de la Colombie‑Britannique a expliqué en ces termes la raison du secret d'intérêt commun[17] :
+[TRADUCTION]
+[...] Selon moi, les valeurs économiques et sociales qui sont inhérentes au fait de favoriser la conclusion d'une opération commerciale méritent que l'on reconnaisse un secret auquel il n'est pas renoncé lorsque des documents établis par des conseillers professionnels, dans le but de fournir des conseils juridiques, sont échangés au cours de négociations. Les personnes qui réalisent des opérations commerciales doivent pouvoir échanger des renseignements confidentiels sans craindre de mettre en péril la confidentialité qui est indispensable pour obtenir des conseils juridiques.
+[65] Il est possible que le secret d'intérêt commun ne s'applique pas si les parties ont des intérêts opposés, ce qui n'est pas le cas en l'espèce. L'appelante, BATA et BATI sont toutes des filiales de BAT; elles visaient toutes les mêmes objectifs de nature économique et commerciale.
+[66] Chacune des parties faisait affaire dans un ressort juridique différent, ce qui fait qu'elles avaient besoin des services d'avocats compétents en droit canadien, australien et italien. Il semble que, dans certains cas, chacune des parties a engagé ses propres conseillers juridiques et que, dans d'autres, deux parties ou plus se sont partagé les services d'un même conseiller juridique. Indépendamment de la question de savoir qui a engagé les services de quel cabinet d'avocats, les conseils juridiques provenant des divers cabinets d'avocats ont été partagés entre toutes les parties à l'opération ainsi qu'avec la société mère, BAT. Il ressort clairement d'une lecture des documents pour lesquels le secret est invoqué que les conseils juridiques que tous les cabinets d'avocats ont fournis ont été obtenus par les parties en vue de faciliter l'exécution des opérations et que ces conseils ont été donnés dans l'intérêt de toutes les parties, y compris la société mère, BAT.
+[67] Après avoir lu la totalité des documents, je suis arrivé à la conclusion que, lorsqu'une partie a fait part de conseils juridiques provenant de son conseiller juridique à l'une des autres parties aux opérations ou à la société mère, soit BAT, cette partie n'avait pas l'intention de renoncer au secret qui se rattachait à ce document. De plus, ce dernier était toujours confidentiel selon le principe du secret d'intérêt commun.
+[68] Plus précisément, j'ai conclu que les documents suivants représentent des communications confidentielles entre un conseiller juridique et son client parce qu'elles ont eu lieu soit pendant que le client cherchait à obtenir des conseils juridiques, soit pendant que le conseiller juridique donnait des conseils juridiques, et que le secret n'a pas été perdu ou que l'on n'y a pas renoncé quand la communication a été partagée par des employés des sociétés affiliées :
+Numéro du document[18]
+Description du document
+Date du document
+8
+Trois courriels : un courriel de Mario Tombari à Luc Jobin et à Sunil Panray (tous employés de l'appelante), retransmettant un courriel de Steve Dale (BAT) à Patrick Marley (Osler), qui contient et analyse des conseils juridiques fournis par Blake Dawson Waldron dans un courriel qui y est joint et qui a été envoyé à plusieurs employés de BAT et de BATA.
+6 et 8 août 2001
+14
+Deux courriels : un courriel de Mario Tombari à Luc Jobin et à Sunil Panray (tous employés de l'appelante), retransmettant un courriel de Steven Dale (BAT) à Patrick Marley (Osler), dans lequel il est question de conseils juridiques; un second courriel est envoyé en copie conforme à un employé de l'appelante et à deux employés de BAT.
+15 et 16 août 2001
+15
+Cinq courriels : un courriel de Mario Tombari à Luc Jobin et à Sunil Panray (tous employés de l'appelante), retransmettant quatre courriels entre Steven Dale (BAT) et Patrick Marley (Osler); les quatre courriels traitent tous de conseils juridiques et ont été envoyés en copie conforme à plusieurs employés de l'appelante et de BAT.
+15 au 17 août 2001
+17
+Cinq courriels : un courriel de Sunil Panray à Luc Jobin et à Harry Steinbrenner, avec copie conforme à Christine Benoit et à Mario Tombari (tous employés de l'appelante), retransmettant un courriel de Philip Andrew (BAT) à M. Panray, qui contient et analyse divers courriels échangés entre Patrick Marley (Osler) et plusieurs employés de BAT et de l'appelante; tous les courriels concernent des conseils qu'Osler a fournis ou demandent à Osler des conseils juridiques additionnels.
+17 au 20 août 2001
+19
+Deux courriels : un premier courriel de Steve Dale (BAT) à Patrick Marley (Osler), avec copie conforme à Mario Tombari (appelante), dans lequel M. Dale demande à Osler de fournir des conseils juridiques au sujet du second courriel.
+24 et 29 août 2001
+25
+Un courriel de Philip Andrew à divers employés de l'appelante, retransmettant un courriel contenant des conseils juridiques que Blake Dawson Waldron a fournis à BAT.
+12 octobre 2001
+28
+Trois courriels : un courriel de Sunil Panray (appelante) à Richard Williams (BAT), avec copie conforme à deux employés de l'appelante; le courriel de M. Panray répond à un courriel antérieur de M. Williams qui retransmettait des conseils juridiques que Blake Dawson Waldron avait fournis à BAT.
+26 octobre 2001
+30
+Trois courriels : un premier courriel de Sunil Panray à Luc Jobin et à Harry Steinbrenner (tous employés de l'appelante), retransmettant un courriel de Fergus Heaton (BAT) à M. Panray et à un certain nombre d'employés de BAT et de l'appelante qui analyse des conseils juridiques contenus dans un courriel de Patrick Marley (Osler) qui y est joint.
+12 août 2003
+31
+Deux courriels : un courriel de Fergus Heaton (BAT) à Sunil Panray et à un certain nombre d'employés de BAT et de l'appelante, qui analyse des conseils juridiques contenus dans un courriel de Patrick Marley (Osler) qui y est joint.
+12 août 2003
+32
+Quatre courriels : un premier courriel de Sunil Panray à Luc Jobin (tous deux employés de l'appelante), retransmettant un courriel de M. Panray à Fergus Heaton (BAT), qui répond au courriel de M. Heaton mentionné dans la description relative à l'onglet no 30.
+12 et 13 août 2003
+33
+Deux courriels : un courriel de Mario Tombari à Harry Steinbrenner et à Sunil Panray (tous employés de l'appelante), retransmettant un courriel de Patrick Marley (Osler) à Fergus Heaton (BAT) et à M. Tombari, qui contient des conseils juridiques.
+22 et 30 août 2003
+35
+Six courriels : un courriel de Mario Tombari à Sunil Panray (tous deux employés de l'appelante), avec copie conforme à divers employés de BAT et de l'appelante, qui analyse diverses questions soulevées dans les cinq courriels qui y sont joints, le plus ancien étant un courriel de Patrick Marley (Osler) à Fergus Heaton (BAT), avec copie conforme à M. Tombari; tous les courriels ont trait à des conseils qu'Osler a fournis ou demandent à Osler des conseils juridiques additionnels.
+6 au 27 août 2003
+37
+Trois courriels : le premier courriel est de Mario Tombari à Luc Jobin et à Sunil Panray (tous employés de l'appelante), et retransmet un courriel de Fergus Heaton (BAT) à M. Tombari et à divers employés de BAT, qui contient et analyse un courriel d'Allen & Overy destiné à divers employés de BAT et contenant des conseils juridiques.
+3 et 8 septembre et
+9 octobre 2003
+38
+Trois courriels : un premier courriel de Mario Tombari à Luc Jobin, à Pierre Leclerc et à Sunil Panray (tous employés de l'appelante), retransmettant un courriel de M. Tombari à Blake Dawson Waldron, avec copie conforme à deux employés de BAT, qui répond à un courriel de Blake Dawson Waldron à M. Tombari et à un employé de BAT et qui contient des conseils juridiques.
+9 décembre 2003
+39
+Deux courriels : un premier courriel de Mario Tombari à Luc Jobin, à Pierre Leclerc et à Sunil Panray (tous employés de l'appelante), retransmettant un courriel de Blake Dawson Waldron à M. Tombari et à divers employés de BAT qui contient des conseils juridiques.
+9 décembre 2003
+40
+Deux courriels : un premier courriel de Mario Tombari à Luc Jobin, à Pierre Leclerc et à Sunil Panray (tous employés de l'appelante), retransmettant un courriel de Blake Dawson Waldron à M. Tombari et à divers employés de BAT qui contient des conseils juridiques.
+9 décembre 2003
+41
+Quatre courriels : un premier courriel de Mario Tombari à Luc Jobin et à Sunil Panray (tous employés de l'appelante), retransmettant un courriel de M. Tombari à deux employés de BAT en réponse à un courriel d'un employé de BAT contenant un courriel de Blake Dawson Waldron à un employé de BAT; tous les courriels concernent des conseils juridiques que Blake Dawson Waldron a fournis ou demandent à Blake Dawson Waldron de fournir des conseils juridiques additionnels.
+5 et 9 décembre 2003
+Les documents soumis au secret professionnel de l'avocat qui ont été divulgués à un comptable
+[69] En second lieu, l'appelante, son avocat, BAT et BATA ont divulgué des communications juridiques à un cabinet comptable australien, PriceWaterhouseCoopers (« PWC Australie »). Il semble que ce soit BATA qui ait engagé les services de ce cabinet.
+[70] Les tribunaux n'étendent pas le secret aux comptables. Cependant, il existe, pour certaines communications, une exception à la règle selon laquelle le secret professionnel de l'avocat est perdu lorsqu'une communication entre un avocat et son client est divulguée à un tiers, comme un comptable.
+[71] Dans la décision Susan Hosiery Limited v. M.N.R., la Cour de l'Échiquier a résumé les principes qui s'appliquent aux divulgations qui sont faites aux comptables :
+[TRADUCTION]
+Si j'applique ces principes, tels que je les conçois, aux documents qu'établissent les comptables, il me semble, de façon générale :
+a) que nulle communication, état ou autre pièce établi ou préparé par un comptable à ce titre pour un homme d'affaires ne peut bénéficier du secret, à moins qu'il n'ait été préparé par le comptable à la suite d'une demande de l'avocat de l'homme d'affaires pour être utilisé dans un procès, réel ou éventuel;
+b) que lorsqu'un comptable est engagé comme représentant, ou comme membre d'un groupe de représentants, pour expliquer un ensemble de faits ou un problème à un avocat en vue d'obtenir une consultation juridique ou un service juridique, le fait qu'il soit comptable ou qu'il utilise ses connaissances et ses compétences de comptable dans l'exécution de cette tâche n'empêche pas que les communications qu'il fait ou qu'il contribue à faire en tant que représentant soient des communications du mandant, c'est‑à‑dire du client, à l'avocat; de la même façon, les communications faites à ce représentant par l'avocat dont les conseils ont été ainsi sollicités n'en sont pas moins des communications de l'avocat au client[19].
+[72] L'avocate de l'appelante a fait valoir que le secret professionnel de l'avocat englobait les communications avec PWC Australie parce que la contribution de ce cabinet était nécessaire à la fourniture, par un avocat, de conseils juridiques. Elle a fait remarquer que PWC Australie entretenait une relation avec BATA plutôt qu'avec ses avocats.
+[73] Dans la décision General Accident Assurance Company v. Chrusz[20], le juge Doherty (dissident en partie) a fait remarquer que l'applicabilité du secret professionnel de l'avocat aux communications avec un tiers dépend de la nature véritable de la fonction que ce tiers doit exécuter pour le client.
+[TRADUCTION]
+[...] Si le tiers a été engagé pour assurer un service essentiel à l'existence ou au bon fonctionnement de la relation entre le client et l'avocat, le secret devrait protéger toutes les communications intervenues dans l'exercice de cette fonction qui répondent aux critères du secret professionnel de l'avocat[21].
+[74] L'appelante s'est fondée sur la décision qu'a rendue la Haute Cour de justice de l'Ontario dans l'affaire The Mutual Life Assurance Company of Canada v. The Deputy Attorney General of Canada[22], où cette cour était appelée à traiter d'une lettre que le cabinet d'avocats Lang Michener avait envoyée à un employé de sa cliente, Mutual Life. Était jointe à cette lettre une note de service décrite comme une communication professionnelle entre Lang Michener et un cabinet de comptables agréés. En concluant que la note de service était confidentielle, la Cour a fait remarquer que Lang Michener [TRADUCTION] « en envoyant la note de service avec la lettre d'accompagnement a assumé la responsabilité de la très grande quantité de conseils juridiques qu'elle contenait »[23]. La Cour a conclu que Lang Michener était responsable du document tout entier.
+[75] Il ne s'agit pas là de la situation de fait qui m'est soumise en l'espèce.
+[76] L'appelante a décidé de ne pas fournir à la Cour une déclaration sous serment ou un autre élément de preuve quelconque pour expliquer la relation existant entre soit PWC Australie et BATA, soit PWC Australie et l'une quelconque des sociétés affiliées. Ce que l'avocat de l'appelante m'a fourni, c'est un mémoire confidentiel, qui contenait des extraits d'un certain nombre des documents pour lesquels l'appelante invoque le secret.
+[77] Selon moi, ces extraits n'établissent pas que le rôle de PWC Australie, quel qu'il fût, s'étendait à une fonction quelconque qui aurait fait partie intégrante de la relation avocat‑client.
+[78] Aucun des documents ne décrit de quelque manière la relation qu'il y avait entre PWC Australie et BATA; ils ne font pas référence à PWC Australie (hormis deux brèves mentions dont je traiterai sous peu), et ils ne décrivent aucune information comptable qui n'aurait pu provenir que de PWC Australie. En fait, un certain nombre des documents auxquels on m'a renvoyé montrent que les sociétés affiliées comptaient des employés qui étaient très compétents en matière comptable. Par exemple, l'avocat de l'appelante m'a renvoyé au document joint à l'onglet 19, qui semble avoir été établi par des employés des sociétés affiliées. Il contient une analyse très détaillée de questions comptables.
+[79] L'avocat m'a signalé, dans son mémoire confidentiel, deux documents dans lesquels on mentionne PWC Australie. Le premier est un échange de courriels entre Osler, l'appelante et BAT (il est joint à l'onglet 12). L'auteur de l'un des courriels est un employé de BAT. Ce courriel a été envoyé à Osler et des copies ont été transmises à des employés de l'appelante, de BAT, de BATA et de PWC Australie. À un certain point dans le courriel, l'auteur demande à deux personnes de donner leur avis sur les commentaires qu'il fait au sujet d'une question de droit ou d'impôt sur le revenu. Les deux personnes ne sont identifiées que par leur prénom; cependant, compte tenu des destinataires des courriels, il semble que l'une des personnes soit un employé de BAT et l'autre un employé de PWC Australie. Même si j'accepte que l'une des deux personnes était au service de PWC, ce commentaire prouve seulement que BATA a obtenu quelques conseils fiscaux de PWC Australie.
+[80] De même, la seconde mention qui est faite de PWC Australie concerne aussi des conseils en matière d'impôt sur le revenu. L'avocat de l'appelante m'a renvoyé à un document figurant à l'onglet 19 qui contient des conseils juridiques que Blake Dawson Waldron a fournis à BATA. Ce document contient une référence d'une seule ligne à des conseils fiscaux provenant de PWC Australie.
+[81] Le peu d'éléments de preuve que l'appelante a fournis au sujet du rôle de PWC Australie n'établit pas, selon moi, que ce rôle s'étendait à une fonction quelconque dont on pourrait dire qu'elle fait partie intégrante de la relation avocat‑client. Il ressort clairement des documents que l'appelante et les sociétés qui lui sont affiliées sont des entreprises de grande taille, bien averties, ayant un grand nombre d'employés. Aucune référence n'est faite dans l'un quelconque des documents à PWC Australie, à la relation que ce cabinet entretient avec BATA, au motif de sa participation à l'affaire ou à la raison pour laquelle il a fallu faire appel à lui pour fournir des conseils juridiques.
+[82] Compte tenu des éléments de preuve qui m'ont été soumis, j'ai conclu que la divulgation de documents à PWC Australie constituait une divulgation à un tiers. De plus, il ressort clairement des documents que les clients (BATA et BAT) étaient au courant de la divulgation et que celle‑ci n'a pas été faite par inadvertance. De ce fait, les courriels suivants (et tous ceux qui y sont joints) ne sont pas confidentiels :
+1) Le document no 9 de l'annexe B — Le second courriel du 8 août 2001, que Steve Dale de BAT a envoyé à Patrick Marley d'Osler et qui a également été envoyé à Mario Tombari de l'appelante, à plusieurs employés de BAT, à deux avocats du cabinet Blake Dawson Waldron ainsi qu'à un certain Michael Frazer au cabinet comptable PWC Australie, n'est pas confidentiel. Le premier courriel ne fait que retransmettre le second.
+2) Le document no 10 de l'annexe B — Le second courriel du 8 août 2001, que Mark Dunkley de BAT a envoyé à Patrick Marley d'Osler et qui a également été envoyé à Mario Tombari de l'appelante, à un certain nombre d'employés de BAT, à deux avocats du cabinet Blake Dawson Waldron ainsi qu'à Michael Frazer et à Neil Wilson au cabinet comptable PWC Australie, n'est pas confidentiel. Le premier courriel ne fait que retransmettre le second.
+3) Une partie du document no 11 de l'annexe B — Le deuxième courriel du 8 août 2001, que Steven Dale de BAT a envoyé à Patrick Marley d'Osler, avec copies à des employés de BAT et de l'appelante, a trait à des conseils juridiques qu'Osler a fournis et n'a pas été divulgué à un tiers. Il est confidentiel. Cependant, le troisième courriel du 8 août 2001 (et celui qui y est joint) n'est pas confidentiel. Ce troisième courriel a été envoyé par Patrick Marley d'Osler à Steve Dale de BAT, ainsi qu'à Mario Tombari et à Sunil Panray de l'appelante, à un certain nombre d'employés de BAT, à deux avocats du cabinet Blake Dawson Waldron ainsi qu'à Michael Frazer au cabinet comptable PWC Australie.
+4) Le document no 12 de l'annexe B — Le second courriel du 13 août 2001, que Steve Dale de BAT a envoyé à Patrick Marley d'Osler et qui a également été envoyé à Mario Tombari et à Sunil Panray de l'appelante, à deux employés de BAT, à un employé de BATA ainsi qu'à Michael Frazer et à Neil Wilson au cabinet comptable PWC Australie n'est pas confidentiel. Le premier courriel retransmet simplement le second.
+5) Une partie du document no 18 de l'annexe B — Le deuxième courriel, du 29 août 2001, a été envoyé par Steve Dale de BAT à Mark Dunkley de BAT, avec copies à Patrick Marley d'Osler et à Mario Tombari de l'appelante. Il y est question de conseils juridiques qu'Osler a fournis et il n'a pas été envoyé à un tiers. Il est confidentiel. Cependant, le troisième courriel, qui est daté du 8 août 2001 (ainsi que celui qui y est joint), n'est pas confidentiel. Ce troisième courriel (qui fait également partie du document no 11) a été envoyé par Patrick Marley d'Osler à Steve Dale de BAT, ainsi qu'à Mario Tombari et à Sunil Panray de l'appelante, à un certain nombre d'employés de BAT, à deux avocats du cabinet Blake Dawson Waldron ainsi qu'à Michael Frazer au cabinet comptable PWC Australie.
+La renonciation implicite
+[83] L'intimée a également soulevé la question de la renonciation implicite, par l'appelante, au secret professionnel de l'avocat. L'avocat de l'intimée a résumé ainsi la position de sa cliente : [TRADUCTION] « L'appelante ayant nié que l'évitement fiscal était le principal objet de ses placements, l'équité exige qu'on ne l'autorise pas à protéger des documents qui indiquent peut‑être le contraire. Lorsqu'une partie met son état d'esprit en cause et qu'elle a reçu des conseils juridiques pour l'aider à former cet état d'esprit, il est réputé y avoir renonciation au secret à l'égard de ces conseils juridiques[24]. »
+[84] Je ne souscris pas aux arguments qu'invoque l'intimée sur la question.
+[85] La renonciation fondée sur l'état d'esprit se produit lorsqu'une partie se fonde, dans une action ou une défense, sur des conseils juridiques qu'elle a reçus, dans les cas où cette action ou cette défense est fondée, en partie du moins, sur son état d'esprit. Cette renonciation prend naissance implicitement.
+[86] Le concept de la renonciation implicite a été expliqué par la juge McLachlin (siégeant à l'époque à la Cour suprême de la Colombie‑Britannique) dans la décision S. & K. Processors Ltd. v. Campbell Ave. Herring Producers Ltd.[25] :
+[TRADUCTION]
+La renonciation au secret est normalement établie lorsqu'on a prouvé que le détenteur de celui‑ci : 1) connaît l'existence du secret, 2) indique délibérément son intention d'y renoncer. Cependant, on peut aussi conclure à la renonciation en l'absence de l'intention de renoncer, dans les cas où l'équité et la cohérence l'exigent. Ainsi, la renonciation au secret à l'égard d'une partie d'une communication sera considérée comme une renonciation applicable à l'ensemble de cette communication. De même, la partie qui invoque des conseils juridiques dans son action ou sa défense ne peut plus se prévaloir du secret qui s'appliquerait sans cela à ces conseils. [...]
+[...] Comme l'explique un passage (pages 635 et 636) du volume 8 de Wigmore on Evidence, McNaughton Rev., 1961, passage sur lequel s'appuie le juge Meredith dans Rogers c. Hunter, précité, toute renonciation suppose la présence de deux éléments : l'intention tacite, d'une part, et l'équité et la cohérence, d'autre part. Dans tous les cas où l'on a statué que l'équité exigeait la constatation d'une renonciation tacite, il y avait manifestation de l'intention délibérée de renoncer au secret au moins dans une mesure limitée. Selon le droit, l'équité et la cohérence exigent alors que l'on conclue à une renonciation entière. [...]
+[87] Dans le présent appel, l'appelante n'a pas mis en cause son état d'esprit. Si l'état d'esprit de l'appelante a été mis en cause, c'est l'intimée, et non l'appelante, qui l'a fait.
+[88] En se fondant sur l'alinéa 95(6)b) de la Loi, l'intimée a soulevé la question de l'objet que visait l'appelante au moment d'effectuer les opérations pertinentes. Par exemple, au paragraphe 6.44 de la réponse, l'intimée indique qu'au moment de déterminer l'obligation fiscale de l'appelante pour les années d'imposition 2002 à 2005, le ministre a émis l'hypothèse de fait suivante : [TRADUCTION] « On peut raisonnablement considérer que la principale raison de l'acquisition, par ITCAN, des actions privilégiées de BATII était de permettre à ITCAN [l'appelante] d'éviter, de réduire ou de reporter le paiement d'un d'impôt qui serait payable par ailleurs. »
+[89] L'appelante a exprimé l'avis que l'alinéa 95(6)b) de la Loi ne s'applique pas aux opérations. Cependant, ses actes de procédure ne font aucunement référence à des conseils juridiques qui ont été obtenus antérieurement.
+[90] En fait, dans sa première requête, l'intimée demandait que l'avis d'appel de l'appelante soit radié en totalité parce que cette dernière n'y indiquait pas la raison pour laquelle elle avait acquis certaines actions privilégiées. Il m'est difficile de comprendre comment l'intimée peut tout d'abord faire valoir que l'appelante n'a plaidé aucune intention et alléguer maintenant que l'appelante a mis en cause son état d'esprit.
+[91] Quoi qu'il en soit, un contribuable ne met pas son état d'esprit en cause simplement parce qu'il s'oppose à une cotisation fondée sur une disposition de la Loi qui contient un critère d'intention ou d'objet. Il n'est tout simplement pas équitable ou raisonnable de mettre un contribuable dans une situation où il doit accepter une cotisation ou renoncer au secret.
+[92] De plus, pour qu'il y ait renonciation implicite fondée sur l'état d'esprit, il ne suffit pas que la raison pour laquelle un appelant a conclu certaines opérations soit en litige dans un appel. La renonciation implicite exige que l'appelant prenne la mesure concrète qui consiste à se fonder, dans ses actes de procédure ou pendant l'instruction, sur des conseils juridiques qu'il a antérieurement obtenus de son avocat[26]. Dans le présent appel, l'appelante n'a rien fait de tel.
+[93] L'avocat de l'intimée a également fait valoir que, pour décider s'il faut considérer qu'il y a eu renonciation implicite au secret, la Cour doit mettre en balance l'intérêt d'une divulgation complète pour les besoins d'un procès équitable avec la préservation du secret professionnel de l'avocat. Je ne suis pas d'accord.
+[94] Les tribunaux signalent que le secret doit être aussi absolu que possible pour assurer la confiance du public et demeurer pertinent[27]. Comme l'a fait remarquer la Cour suprême du Canada dans l'arrêt Goodis c. Ontario (Ministère des Services correctionnels)[28], la question de la divulgation des communications confidentielles entre un avocat et son client ne nécessite pas une évaluation des intérêts au cas par cas.
+[95] Si l'existence du secret a été établie et si le client n'y a pas renoncé, soit expressément soit implicitement, il s'ensuit que les tribunaux ne porteront pas atteinte à la confidentialité des communications, à moins qu'il soit absolument nécessaire de le faire. « L'absolue nécessité est le critère le plus restrictif qui puisse être formulé en deçà d'une interdiction absolue dans tous les cas[29]. »
+[96] La question de savoir si l'appelante a renoncé au secret professionnel de l'avocat n'oblige pas à mettre en balance un intérêt avec un autre. La question à laquelle il faut répondre consiste à savoir si, dans les faits, l'appelante a implicitement renoncé au secret professionnel de l'avocat. Je n'ai en main aucune preuve qui étaye la conclusion selon laquelle l'appelante y a renoncé.
+Les conseils juridiques par opposition aux conseils commerciaux
+[97] L'intimée se demande si les conseils que les conseillers juridiques ont fournis à une ou plusieurs des sociétés affiliées étaient des conseils de nature juridique ou des conseils concernant des questions de nature purement commerciale.
+[98] Une communication entre un avocat et son client n'est confidentielle que si cette communication est faite par l'avocat lors de l'exercice du droit. Le secret ne se rattache pas aux conseils qu'un avocat fournit sur des questions de nature purement commerciale.
+[99] Cette question ne se pose pas dans le présent appel. Tous les documents qui, à mon avis, sont confidentiels ont trait à des conseils juridiques que des conseillers juridiques ont fournis lors de l'exercice du droit.
+Conclusion
+[100] Pour les motifs qui précèdent :
+a) la requête de l'intimée en vue d'obtenir de la Cour une ordonnance enjoignant à l'appelante de se présenter et d'être contre‑interrogée au sujet de sa liste de documents est rejetée;
+b) conformément à l'alinéa 88b) des Règles :
+a. dans les 30 jours suivant la date de mon ordonnance, l'avocat de l'intimée fournira à l'appelante une liste des documents précis qui sont énumérés à l'annexe A de la liste de documents de l'appelante pour lesquels l'intimée a besoin de métadonnées. Dans les 120 jours suivant la date de mon ordonnance, l'appelante modifiera sa liste de documents en vue de consigner les métadonnées requises soit à l'annexe A soit à l'annexe C;
+b. dans les 30 jours suivant la date de mon ordonnance, les parties s'entendront sur les critères de recherche précis dont l'appelante se servira pour faire des recherches dans sa base de données au sujet des documents décrits à l'annexe C de sa liste de documents comme étant des [TRADUCTION] « documents sous forme informatique qui ont été supprimés et qui n'ont pas été récupérés ou restaurés ». Dans les 120 jours suivant la date de mon ordonnance, l'appelante modifiera l'annexe A de sa liste de documents en vue d'y inclure les documents qu'elle aura récupérés au moyen des critères de recherche;
+c. dans les 120 jours suivant la date de mon ordonnance, l'appelante modifiera l'annexe A de sa liste de documents en vue d'y inclure les documents à l'égard desquels elle a invoqué à tort le secret professionnel de l'avocat, soit les documents nos 2, 3, 4 (expurgé d'une manière conforme aux motifs de l'ordonnance), 5, 9, 10, 12, 26, 27 et 34. Elle inclura aussi à l'annexe A les courriels contenus dans les documents nos 11 et 18 qui ne sont pas confidentiels.
+[101] Compte tenu du résultat partagé, aucune ordonnance n'est rendue quant aux dépens.
+Les présents motifs de l'ordonnance modifiés remplacent les motifs de l'ordonnance du 15 avril 2013.
+Signé à Ottawa, Canada, ce 6e jour de mai 2013.
+« S. D'Arcy »
+Le juge D'Arcy
+Traduction certifiée conforme
+ce 16e jour d'octobre 2013.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2013 CCI 144
+No DU DOSSIER DE LA COUR : 2010-3940(IT)G
+INTITULÉ : Imperial Tobacco Canada limitée c. La Reine
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Les 10 et 12 octobre ainsi que le 6 novembre 2012
+MOTIFS DE L'ORDONNANCE : L'honorable juge Steven K. D'Arcy
+DATE DES MOTIFS : Le 7 mai 2013
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Al Meghji
+Me Pooja Samtani
+Avocats de l'intimée :
+Me Bobby J. Sood
+Me Ernesto Caceres
+Me Rita Araujo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Al Meghji
+Cabinet : Osler, Hoskin & Harcourt, S.E.N.C.R.L./s.r.l.
+Toronto (Ontario)
+Pour l'intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Article 82 des Règles.
+[2] Transcription, 10 octobre 2012, p. 24.
+[3] Ibidem, pp. 21 et 22.
+[4] 2009 CCI 47 (« Heinig »).
+[5] 2010 CCI 463 (« 9005‑6342 Québec Inc. »).
+[6] 2006 CSC 39, [2006] 2 R.C.S. 319, [2006] A.C.S. no 39 (QL) (« Blank »).
+[7] Voir les arrêts Descôteaux et autre c. Mierzwinski, [1982] 1 R.C.S. 860 (« Descôteaux »), et Blank.
+[8] [1980] 1 R.C.S. 821, à la p. 837.
+[9] Voir l'arrêt Lavallee, Rackel & Heintz c. Canada (Procureur général), 2002 CSC 61, [2002] 3 R.C.S. 209, au par. 39, et l'arrêt Descôteaux, aux pp. 872 et 873.
+[10] Alan W. Bryant, Sidney N. Lederman et Michelle K. Fuerst, The Law of Evidence in Canada, 3e éd., Markham (Ontario), LexisNexis, 2009, au par. 14.43.
+[11] Le numéro du document est tiré de l'annexe B de la liste de documents de l'appelante.
+[12] 2010 TCC 493, au par. 5.
+[13] Voir la décision Mutual Life Assurance Co. of Canada c. The Deputy Attorney General of Canada, [1988] O.J. no 1090 (QL), 88 D.T.C. 6511 (C.S. Ont.), à la p. 6513.
+[14] Le numéro du document est tiré de l'annexe B de la liste de documents de l'appelante.
+[15] [1982] O.J. no 581 (QL), 68 C.C.C. (2d) 13.
+[16] Voir la décision Archean Energy Limited et al. v. M.N.R., 98 D.T.C. 6456 (B.R. Alb.).
+[17] 2002 BCSC 1344, 2003 D.T.C. 5048, au par. 14. Voir aussi la décision Pitney Bowes of Canada Ltd. c. La Reine, 2003 CFPI 214.
+[18] Le numéro du document est tiré de l'annexe B de la liste de documents de l'appelante.
+[19] [1969] 2 R.C.É. 27, pp. 35 et 36, 69 D.T.C. 5278, au par. 11, p. 5283.
+[20] (1999), 45 O.R. (3d) 321, [1999] O.J. no 3291 (QL).
+[21] Ibidem, à la p. 356 (O.R.), au par. 120 (QL).
+[22] 84 D.T.C. 6177.
+[23] Ibidem, à la p. 6180.
+[24] Transcription, 6 novembre 2012, à la p. 98.
+[25] [1983] 4 W.W.R. 762, [1983] B.C.J. no 1499 (QL), 35 C.P.C. 146 (C.S. C.‑B.), aux pp. 764 à 766 (W.W.R.), aux par. 6 et 10 (QL).
+[26] Voir la décision Toronto‑Dominion Bank v. Leigh Instruments Ltd., 1997 CanLII 12113, 32 O.R. (3d) 575, au par. 61 (CanLII).
+[27] R. c. McClure, 2001 CSC 14, [2001] 1 R.C.S. 445, au par. 35.
+[28] 2006 CSC 31, [2006] 2 R.C.S. 32, au par. 17.
+[29] Ibidem, au par. 20.

@@ -1,0 +1,146 @@
+Title: Best For Less Painting and Decorating Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25429/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-239-25429-best-for-less-painting-and-decorating-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-06-03
+
+# Best For Less Painting and Decorating Ltd. c. La Reine
+
+- Citation: 2005 CCI 239
+- Decision date: 2005-06-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2381, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Best For Less Painting and Decorating Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-03
+Référence neutre
+2005 CCI 239
+Numéro de dossier
+2004-3847(GST)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-3847(GST)I
+ENTRE :
+BEST FOR LESS PAINTING AND DECORATING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu le 25 février 2005, à Calgary (Alberta).
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Représentant de l’appelante :
+Boris Isakovich
+Avocate de l’intimée :
+Me Lesley Akst
+__________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise pour la période de déclaration allant du 1er août 2002 au 31 juillet 2003 est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation au motif que la société Best For Less Painting and Decorating Ltd. n’était pas un « constructeur » au sens de la Loi conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour de juin 2005.
+« G. Sheridan »
+La juge Sheridan
+Traduction certifiée conforme
+ce 5e jour d’avril 2006.
+Nathalie Boudreau, traductrice
+Référence : 2005CCI239
+Date : 20050603
+Dossier : 2004-3847(GST)I
+ENTRE :
+BEST FOR LESS PAINTING AND DECORATING LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, la société Best For Less Painting and Decorating Ltd. (la « société Best For Less »), interjette appel de l’avis de décision du ministre du Revenu national (le « ministre ») qui ratifie la cotisation établie par le ministre en vertu de la Loi sur la taxe d’accise (la « Loi ») pour un montant de taxe nette de 30 092,35 $[1] pour la période de déclaration allant du 1er août 2002 au 31 juillet 2003. La question à trancher est de savoir si la société Best For Less est réputée en vertu du paragraphe 191(1) de la Loi être responsable du versement de la taxe perçue ou percevable relativement à une maison nouvellement construite enregistrée au nom de la compagnie.
+[2] La société Best For Less s’est inscrite aux fins de la TPS en 1992, et la date de production de ses déclarations annuelles est le 31 juillet. La compagnie, par l’intermédiaire de son directeur, Boris Isakovich, exploitait une entreprise de peinture de maisons. M. Isakovich et sa famille vivent dans le même quartier de Calgary depuis bien des années, et, depuis son arrivée dans le quartier, M. Isakovich avait en vue un terrain vague avoisinant sur lequel il souhaitait construire une nouvelle maison pour sa famille. Le terrain avait été vague pendant quelque 17 années quand, en 2001, M. Isakovich et sa femme ont finalement décidé de faire une offre d’achat. M. Isakovich a acheté le terrain au nom de sa compagnie en espérant bénéficier des rabais que les gens de métier et les fournisseurs accordent habituellement aux entreprises. M. et Mme Isakovich ont déposé leurs économies d’environ 265 000 $ dans le compte bancaire de la société[2] pour payer le prix d’achat du terrain de 115 000 $ et les frais de construction ultérieurs. La construction a commencé en mai 2001. M. Isakovich a fait tous les travaux qu’il pouvait faire, mais, comme il n’avait pas tout le matériel et les compétences nécessaires, il a dû embaucher des entrepreneurs pour, par exemple, jeter les fondations, construire la charpente, faire la toiture, installer l’équipement de chauffage et de plomberie et poser les cloisons sèches. Comme le directeur de la société Best For Less passait tout son temps à travailler à la maison, la société Best For Less était incapable d’exploiter son entreprise de peinture et, par conséquent, n’a gagné aucun revenu pendant la période où la construction était en cours. Dans ses déclarations annuelles de TPS pour 2002 et 2003, la société Best For Less a demandé les crédits de taxe sur les intrants (« CTI ») suivants relativement aux factures pour les travaux de construction :
+Année
+Taxe percevable
+Crédits de taxe sur les intrants
+Taxe nette
+2002
+0 $
+15 810,86 $
+(15 810,86 $)
+2003
+0 $
+2 107,65 $
+(2 107,65 $)
+Cette situation a attiré l’attention du ministre. Le dossier de la société Best For Less a été attribué à Helen Mah, vérificatrice dans le domaine de la TPS, dont l’enquête a révélé que la société Best For Less était le propriétaire inscrit de la maison dans laquelle vivaient les Isakovich. Mme Mah a aussi confirmé que des CTI relativement aux frais de construction de la maison avaient été demandés dans les déclarations annuelles de TPS de la compagnie, mais que [TRADUCTION] « aucune autocotisation de la TPS n’a[vait] eu lieu ». Mme Mah et M. Isakovich se sont rencontrés pour examiner les livres et registres de la compagnie, lesquels Mme Mah a décrits comme [TRADUCTION] « principalement des factures d’achat ». Elle a dit à M. Isakovich que ces livres et registres étaient [TRADUCTION] « insuffisants » pour ses besoins et elle lui a demandé de lui fournir une évaluation de la juste valeur marchande de la maison et une copie de la police d’assurance habitation. M. Isakovich a refusé de produire les documents demandés. Mme Mah lui a dit qu’à son avis, la société Best For Less était responsable du versement de la TPS en vertu de l’article 191, et une cotisation à l’égard de la compagnie a été établie en conséquence.
+[3] La société Best For Less a interjeté appel de la cotisation sous le régime de la procédure informelle. La société était représentée par M. Isakovich, qui a témoigné en son nom. L’anglais n’est pas la langue maternelle de M. Isakovich. En outre, M. Isakovich était gêné par les séquelles d’un accident d’automobile, qui semble l’avoir laissé dans un état où il se fatigue facilement. De plus, au fur et à mesure de l’audience, j’ai pu constater chez lui un ralentissement de la parole et de la pensée. Malgré ces difficultés et la complexité des dispositions législatives pertinentes, M. Isakovich a témoigné de façon claire et crédible. Le comptable de la compagnie, M. Darcy Walls, C.A., a aussi témoigné, et a produit un témoignage franc et direct.
+[4] La société Best For Less a fait valoir que c’était M. Isakovich lui‑même qui avait construit la maison. La société Best For Less avait joué un rôle minime dans cette affaire en n’agissant qu’à titre d’intermédiaire pour les factures entre M. Isakovich et les gens de métier pour que M. Isakovich puisse obtenir un meilleur prix pour les fournitures et les services utilisés.
+[5] Selon la Couronne, en vertu du paragraphe 191(1) de la Loi, la société Best For Less était réputée avoir perçu au titre de la TPS un montant égal à 7 % de la juste valeur marchande[3] de la maison. L’argument de la Couronne était fondé sur la conclusion erronée selon laquelle le simple fait d’avoir la preuve que l’appelant avait demandé des CTI suffisait pour établir la responsabilité aux termes du paragraphe 191(1). Comme la vérificatrice n’a pas tardé à demander les documents pour établir la juste valeur marchande du bien et que la Couronne a axé sa plaidoirie sur l’évaluation faite par le témoin expert, il est évident que le ministre a calculé l’obligation de la compagnie sans déterminer au préalable le fondement important de la responsabilité aux termes du paragraphe 191(1), lequel est libellé comme suit :
+191.(1) Fourniture à soi-même d’un immeuble d’habitation à logement unique ou d’un logement en copropriété [lorsque le constructeur vit dans l’immeuble ou le loue] – Pour l’application de la présente partie, lorsque les conditions suivantes sont réunies :
+a) la construction ou les rénovations majeures d’un immeuble d’habitation – immeuble d’habitation à logement unique ou logement en copropriété – sont achevées en grande partie,
+b) le constructeur de l’immeuble :
+(i) soit en transfère la possession à une personne aux termes d’un bail, d’une licence ou d’un accord semblable (sauf un accord qui est connexe à un contrat de vente visant l’immeuble et qui porte sur la possession ou l’occupation de l’immeuble jusqu’au transfert de sa propriété à l’acheteur aux termes du contrat) conclu en vue de l’occupation de l’immeuble à titre résidentiel,
+(ii) soit en transfère la possession à une personne aux termes d’une convention, sauf une convention portant sur la fourniture d’une maison mobile et d’un emplacement pour celle-ci dans un parc à roulottes résidentiel, portant sur l’une des fournitures suivantes :
+(A) la fourniture par vente de tout ou partie du bâtiment dans lequel est située l’habitation faisant partie de l’immeuble,
+(B) la fourniture par bail du fonds faisant partie de l’immeuble ou la fourniture d’un tel bail par cession,
+(iii) soit, s’il est un particulier, occupe lui-même l’immeuble à titre résidentiel,
+c) le constructeur, la personne ou le particulier locataire de celle-ci ou titulaire d’un permis de celle-ci est le premier à occuper l’immeuble à titre résidentiel après que les travaux sont achevés en grande partie,
+le constructeur est réputé :
+d) avoir effectué et reçu, par vente, la fourniture taxable de l’immeuble au dernier en date du jour où les travaux sont achevés en grande partie et du jour où la possession de l’immeuble est transférée à la personne ou l’immeuble est occupé par lui;
+e) avoir payé à titre d’acquéreur et perçu à titre de fournisseur, au dernier en date de ces jours, la taxe relative à la fourniture, calculée sur la juste valeur marchande de l’immeuble ce jour-là.
+[6] Le paragraphe 191(1) ne s’applique qu’à la personne qui est « constructeur »; la définition de ce terme se trouve au paragraphe 123(1) :
+123(1) Définitions — Les définitions qui suivent s’appliquent à l’article 121, à la présente partie et aux annexes V à X.
+[…]
+« constructeur » Est constructeur d’un immeuble d’habitation ou d’une adjonction à un immeuble d’habitation à logements multiples la personne qui, selon le cas :
+a) réalise, elle-même ou par un intermédiaire, à un moment où elle a un droit sur l’immeuble sur lequel l’immeuble d’habitation est situé :
+[…]
+(iii) dans les autres cas, la construction ou des rénovations majeures de l’immeuble d’habitation;
+[…]
+N’est pas un constructeur :
+f) le particulier visé aux alinéas a), b) ou d) qui, en dehors du cadre d’une entreprise, d’un projet à risques ou d’une affaire de caractère commercial,
+(i) soit construit ou fait construire l’immeuble d’habitation ou l’adjonction, ou y fait faire des rénovations majeures;
+(ii) soit acquiert l’immeuble ou un droit afférent;
+[...]
+[7] Seules les personnes visées par la définition de « constructeur » sont réputées avoir effectué et reçu la fourniture taxable du bien en vertu de la règle appelée « règle de la fourniture à soi-même » que renferme le paragraphe 191(1). La société Best For Less était-elle un « constructeur »? La société Best For Less, à titre de propriétaire inscrit de la maison, avait « un droit sur » la maison, laquelle était un « immeuble d’habitation ». La compagnie a-t-elle « réalisé lui-même » ou « par un intermédiaire » la construction de la maison? Dans l’affaire qui nous occupe, où la compagnie et son directeur sont, à toutes fins pratiques, la même personne, la difficulté qui se pose est de savoir en laquelle des trois qualités suivantes M. Isakovich a agi lorsqu’il a construit la maison : Boris Isakovich, le particulier, pour son propre compte; Boris Isakovich, l’alter ego de la société Best For Less, au nom de la compagnie; Boris Isakovich comme autre personne embauchée par la société Best For Less pour le compte de la compagnie?
+[8] J’accepte le témoignage de M. Isakovich selon lequel son intention avait toujours été de construire la maison lui-même pour l’usage personnel de sa famille. Il n’a pas été contesté que la seule activité commerciale de la compagnie était celle de peindre des maisons[4]. Rien ne permet de penser que M. Isakovich lui-même, ou la compagnie, avait une « intention cachée » de vendre la maison ni qu’il s’était déjà livré à ce genre de pratique par le passé. Cela n’a rien d’étonnant puisque le directeur de la compagnie, M. Isakovich, n’avait pas le matériel ni les compétences nécessaires pour réaliser ce genre de projet. Selon les états financiers de la société[5], aucun revenu n’a été gagné pendant la période de la construction de la maison, car M. Isakovich était complètement pris à construire la maison et que, par conséquent, personne ne pouvait exercer les activités de la compagnie, c’est-à-dire peindre des maisons. La maison et le terrain ne figuraient pas dans la liste des stocks de la société. Le comptable de la compagnie a témoigné que, même si la propriété figurait dans les états financiers comme un « élément d’actif », la valeur de la propriété correspondait au montant indiqué comme étant dû à ses actionnaires, c’est‑à-dire M. et Mme Isakovich, par suite du dépôt dans le compte bancaire de la société de leurs économies pour financer la construction. Enfin, il a été montré que la présomption du ministre selon laquelle la société Best for Less avait [TRADUCTION] « […] déduit les frais de construction dans le calcul de son revenu pour les besoins de l’impôt sur le revenu[6] » était inexacte. Il est contraire au bon sens de conclure qu’une compagnie de peinture de maisons qui n’a jamais œuvré dans le monde de la construction entreprendrait, par l’intermédiaire de son directeur, la construction d’une maison qu’elle ne pouvait pas occuper elle-même et qu’elle n’avait pas l’intention de revendre, surtout que cela la priverait de son seul moyen d’exercer ses propres activités commerciales. Rien ne permet de penser qu’un contrat exprès ou tacite a été conclu entre la société Best For Less et M. Isakovich en vertu duquel ce dernier construirait la maison pour la compagnie ou se ferait rémunérer pour son travail, deux caractéristiques typiquement réunies lorsqu’une partie fait appel à une autre partie pour réaliser un projet de construction de cette ampleur. Il aurait été utile pour la Cour de connaître les circonstances dans lesquelles les CTI ont été demandés, mais on n’a pas questionné M. Isakovich à ce sujet ni en interrogatoire principal, ni en contre-interrogatoire. De toute manière, l’ensemble de la preuve permet de conclure que c’est M. Isakovich, en sa qualité de particulier, qui a « réalisé » la construction de la maison.
+[9] Pour tous ces motifs, je suis incapable de conclure que la société Best For Less avait « réalisé elle-même ou par un intermédiaire » la construction de la maison. Selon la prépondérance des probabilités, je ne suis pas convaincue que la société Best For Less était un « constructeur » aux termes de la Loi; par conséquent, l’appel est accueilli, et la cotisation est renvoyée au ministre pour nouvel examen et nouvelle cotisation.
+Signé à Ottawa, Canada, ce 3e jour de juin 2005.
+« G. Sheridan »
+La juge Sheridan
+Traduction certifiée conforme
+ce 5e jour d’avril 2006.
+Nathalie Boudreau, traductrice
+RÉFÉRENCE : 2005CCI239
+NO DU DOSSIER DE LA COUR : 2004-3847(GST)I
+INTITULÉ DE LA CAUSE : Best For Less Painting and Decorating Ltd. c. S.M.R.
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 25 février 2005
+MOTIFS DU JUGEMENT PAR : L’honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 3 juin 2005
+COMPARUTIONS :
+Représentant de l’appelante :
+Boris Isakovich
+Avocate de l’intimée :
+Me Lesley Akst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Étude :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Paragraphe 9 de la réponse à l’avis d’appel. La cotisation établie par le ministre se rapportait à un montant de taxe nette de 30 092,35 $, soit le solde dû après déduction des CTI de 2 107,65 $ du total de la TPS perçue ou percevable.
+[2] États financiers de la société Best For Less, pièces A-7 et A-8.
+[3] La Couronne a appelé à témoigner M. David Y.T. Shum, AACI, P.App, de la Section des services d’évaluation de l’ARC à titre de témoin expert pour témoigner que la juste valeur marchande du bien était de 460 000 $.
+[4] Alinéa 8i) de la réponse à l’avis d’appel : [TRADUCTION] « pendant toute la période en question, l’appelante avait comme activité commerciale de peindre l’intérieur et l’extérieur de maisons; »
+[5] Pièces A-7 et A-8.
+[6] Sous-alinéa 8ff) de la réponse à l’avis d’appel.

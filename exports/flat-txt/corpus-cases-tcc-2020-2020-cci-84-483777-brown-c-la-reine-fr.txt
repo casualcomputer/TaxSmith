@@ -1,0 +1,150 @@
+Title: Brown c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/483777/index.do
+Corpus path: corpus/cases/tcc/2020/2020-cci-84-483777-brown-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2020-08-12
+
+# Brown c. La Reine
+
+- Citation: 2020 CCI 84
+- Decision date: 2020-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4548, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brown c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-08-12
+Référence neutre
+2020 CCI 84
+Numéro de dossier
+2018-4004(IT)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-4004(IT)I
+ENTRE :
+WESLEY BROWN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 5 novembre 2019, à Calgary (Alberta)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Représentante de l’appelant :
+Me Lisa Rumsey
+Avocat de l’intimée :
+Me Adam Pasichnyk
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en application de la Loi de l’impôt sur le revenu pour les années d’imposition 2013, 2014, 2015 et 2016 est accueilli, sans dépens, pour les motifs suivants :
+a) l’appelant a droit à des déductions au titre de frais d’intérêt de 17 715 $, 18 416 $ et 17 192 $ pour les années d’imposition 2013, 2014 et 2015, respectivement;
+b) l’appel interjeté à l’égard de l’année d’imposition 2016 est annulé.
+Signé à Ottawa, Canada, ce 12e jour d’août 2020.
+« Susan Wong »
+La juge Wong
+Référence : 2020 CCI 84
+Date : 20200812
+Dossier : 2018-4004(IT)I
+ENTRE :
+WESLEY BROWN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+Aperçu
+[1] Wesley Brown exploite deux propriétés commerciales en Alberta dont il est propriétaire. Il les a achetées en 2003 et en 2008 avec des plans précis en tête pour chacune d’elles. Toutefois, les choses ne se sont pas déroulées comme prévu. Son plan en vue de vendre l’une des propriétés est tombé à l’eau lorsque l’acheteur potentiel a causé des dommages importants à cette dernière. Son proche ami et partenaire commercial de l’autre propriété est subitement décédé peu de temps après que M. Brown eut fait l’acquisition de la propriété, et ils avaient un locataire qui attendait d’occuper un immeuble qui n’avait pas encore été construit. M. Brown a donc été forcé de se retourner rapidement, afin de réduire au minimum ses pertes et d’honorer ses engagements.
+[2] Il a utilisé ses économies personnelles, vendu ses actions et encaissé ses régimes d’épargne-retraite, en plus d’emprunter de l’argent sans intérêt auprès de membres de sa famille et d’amis. Il a investi l’argent provenant des prêts sans intérêt afin de rénover et de transformer la première propriété en un espace à plusieurs unités pour des locataires de l’industrie légère. Il a ensuite obtenu plusieurs lignes de crédit personnelles, certaines sans garantie, et certaines garanties avec sa résidence personnelle. Il a utilisé ces lignes de crédit pour rembourser les membres de sa famille et ses amis, de même que pour couvrir les coûts des projets de rénovation et de construction.
+[3] La principale question en l’espèce est de savoir si M. Brown peut déduire les frais d’intérêt découlant de trois lignes de crédit en 2013, 2014 et 2015. La réponse à cette question dépend de la question de savoir s’il a utilisé les prêts privés et les lignes de crédit pour tirer un revenu d’une entreprise ou d’un bien durant ces années.
+Questions préliminaires
+[4] Au début de l’audience, notre Cour a accueilli la requête présentée par l’intimée en vue de faire annuler l’appel intenté par M. Brown à l’égard de l’année d’imposition 2016, au motif qu’aucun avis d’opposition n’avait été déposé. La représentante de M. Brown a convenu qu’aucun avis d’opposition n’avait été déposé, et indiqué qu’elle entendait plutôt demander un allègement fiscal aux termes du paragraphe 152(4.2) de la Loi de l’impôt sur le revenu.
+[5] La réponse à l’avis d’appel soulevait également la question d’honoraires de conseiller en placement de 1 050 $ qui avaient été refusés pour 2013, même si l’avis d’appel n’en faisait pas mention. La représentante de M. Brown n’a déposé aucun élément de preuve concernant ces honoraires et a retiré cette question lors de l’audience.
+Cadre législatif
+[6] La Cour suprême du Canada a affirmé qu’il fallait satisfaire à quatre conditions pour pouvoir déduire des frais d’intérêt aux termes du sous-alinéa 20(1)c)(i) de la Loi : 1) la somme doit être payée au cours de l’année ou être payable pour l’année au cours de laquelle le contribuable cherche à la déduire; 2) elle doit l’être en exécution d’une obligation légale de verser des intérêts sur l’argent emprunté; 3) celui‑ci doit être utilisé en vue de tirer un revenu non exonéré d’une entreprise ou d’un bien; et 4) la somme doit être raisonnable compte tenu des trois premiers critères [1] . Seule la troisième condition est en litige dans le présent appel.
+[7] Pour les fins de l’alinéa 20(1)c), si un contribuable utilise de l’argent emprunté pour rembourser un emprunt antérieur, l’argent emprunté est réputé être utilisé aux fins auxquelles la dette antérieure a été utilisée : voir paragraphe 20(3).
+[8] De plus, la confusion des fonds empruntés avec des fonds affectés à d’autres fins n’est pas nécessairement déterminante dans la mesure où les fonds empruntés peuvent dans les faits être rattachés à une utilisation admissible actuelle [2] .
+Contexte factuel
+[9] M. Brown est l’unique actionnaire de deux sociétés, 1049304 Alberta Inc. (1049304) et 1364383 Alberta Inc. (1364383). 1049304 est maintenant une propriété commerciale de 15 000 pieds carrés destinée à l’industrie légère dont il a fait l’acquisition en 2003 et qui est située à Edmonton. Elle est subdivisée en six zones, dont quatre sont occupées par des locataires. En 2008, il a fait l’acquisition de 1364383, qui est maintenant un bâtiment en acier préfabriqué de 3 750 pieds carrés érigé sur un terrain d’un acre à Barrhead. Il est actuellement vide parce que son locataire a fait faillite.
+[10] M. Brown a affirmé lors de son témoignage qu’il a dépensé plus de 1,4 million de dollars pour rénover 1049304 après que la vente prévue de la propriété eut avorté en 2008 et que l’acheteur potentiel eut causé d’importants dommages au bâtiment. Les problèmes avec l’acheteur potentiel de 1049304 ont commencé à l’automne 2007 et M. Brown a pu l’évincer des lieux au printemps 2008.
+[11] Il a affirmé que des courtiers immobiliers lui avaient conseillé de sauver le bâtiment et d’améliorer son potentiel commercial en le rénovant et en le subdivisant en condominiums. Les améliorations ont été achevées vers le printemps 2009 et ont permis de rendre la propriété conforme aux codes du bâtiment actuels. Les travaux ont inclus la reconstruction de sections du bâtiment, la mise à jour du système d’alimentation en gaz et en électricité, et l’installation de compteurs distincts pour chacune des nouvelles zones crées par la subdivision du bâtiment. Les rénovations ont permis de faire passer le tarif de location d’environ 8 $ à 15 $ le pied carré. M. Brown estime qu’il lui a fallu de six à neuf mois avant de pouvoir déloger l’acheteur potentiel et modifier le plan d’affaires pour 1049304, sans qu’aucun revenu ne soit tiré de cette propriété.
+[12] Au moment où ses plans pour 1049304 ont soudainement changé, M. Brown venait de faire l’acquisition de 1364383 au printemps 2008 et de commencer la construction du bâtiment en acier. 1364383 devait être un partenariat avec un proche ami; toutefois, son ami est subitement décédé et M. Brown a dû continuer seul. Au moment de son décès, l’ami de M. Brown n’avait pas encore contribué au financement de 1364383. Une entreprise pétrolière et gazière avait déjà signé un bail pour 1364383 et M. Brown se devait de terminer les travaux de construction à temps.
+[13] Il a déclaré que pour aider à financer la rénovation imprévue de 1049304, il a utilisé ses économies personnelles, vendu toutes ses actions et encaissé ses régimes d’épargne-retraite, en plus d’emprunter environ 120 000 $ auprès de membres de sa famille et d’amis. Les prêts consentis par des membres de sa famille et des amis étaient sans intérêt, et n’ont pas été consignés par écrit. Il a ensuite obtenu des lignes de crédit personnelles et a utilisé l’argent pour rembourser les membres de sa famille et ses amis, en plus de financer la rénovation de 1049304 et la construction de 1364383. Il a affirmé dans son témoignage qu’il avait procédé de cette façon parce qu’il ne voulait pas retarder les projets de rénovation et de construction; de plus, 1049304 était vide et pas en état d’être louée et n’avait donc pas une valeur suffisante pour être utilisée en garantie d’un prêt d’une banque. Il a affirmé qu’une fois 1049304 rénovée et louée, il a été en mesure de refinancer son hypothèque pour une somme d’environ 1,6 million de dollars en 2010.
+[14] Le bilan non vérifié pour 1049304 indique que l’entreprise devait à M. Brown, à titre d’actionnaire, des sommes de 513 401 $, 503 106 $ et 495 565 $ en 2013, 2014 et 2015, respectivement. Il n’existe aucune entente de prêt écrite entre lui et les deux sociétés, et il a affirmé qu’il n’a jamais reçu de dividendes de ces sociétés.
+[15] À l’époque où se sont déroulés ces événements concernant 1049304 et 1364383, M. Brown était propriétaire de deux maisons. L’une d’elles était à Calgary et il l’avait achetée en 1996 avec l’aide d’un membre de la famille, qui était cosignataire; M. Brown a refinancé la maison et en a fait l’acquisition pleine et entière en 2003. L’autre est située sur un terrain à Spruce Grove; il l’a achetée à peu près en 2006 et il y vit toujours. Il a vendu la maison de Calgary au début de 2010 et a utilisé le produit de la vente pour rembourser plusieurs de ses six lignes de crédit.
+Lignes de crédit
+[16] Trois lignes de crédit personnelles donnent lieu aux intérêts en litige :
+a) compte à la Banque Scotia se terminant par -144, doté d’une limite de crédit non garantie de 68 800 $ obtenue le 28 mai 2004 [3] ;
+b) compte à la Banque Scotia se terminant par -609 doté d’une limite de crédit de 262 500 $ obtenue le 8 août 2006 et garantie par le terrain de Spruce Grove [4] ;
+c) compte à la Banque Scotia se terminant par -673 doté d’une limite de crédit de 128 500 $ obtenue le 4 janvier 2010, même si les relevés mensuels montrent que la limite de crédit était de 67 000 $ durant les années faisant l’objet du présent appel [5] . Cette ligne de crédit est également garantie par le terrain de Spruce Grove [6] .
+[17] Les relevés mensuels pour ces trois comptes, pour la période comprise entre 2013 et 2015, indiquent ce qui suit : 1) la somme empruntée est demeurée à la limite maximale; 2) la seule activité régulière a consisté en une prime d’assurance-vie imputée à chaque ligne de crédit; et 3) le paiement mensuel minimal s’accompagnait d’un retrait équivalant en avances de fonds [7] . M. Brown a expliqué que durant ces années, il faisait un paiement sur une ligne de crédit et retirait ensuite l’argent pour payer d’autres factures. Il a affirmé qu’il avait à un certain moment six lignes de crédit, et qu’il a depuis remboursé plusieurs d’entre elles.
+[18] Il y a également des intérêts de 673 $ provenant d’une quatrième ligne de crédit se terminant par -012 qui ont été déduits pour 2013 [8] . M. Brown a expliqué qu’il s’agit d’une carte de crédit rattachée au compte -144 et dotée d’une limite de crédit de 6 200 $. Les relevés de compte incluent des frais d’adhésion à un centre de conditionnement physique, et des frais pour des sorties au restaurant, du stationnement et un téléphone cellulaire [9] . M. Brown a affirmé dans son témoignage que dans la mesure où des dépenses personnelles ont été imputées à sa carte de crédit, il a uniquement demandé une déduction pour les intérêts liés à des dépenses commerciales. Toutefois, le relevé mensuel pour janvier/février 2014 montre que le total des intérêts pour 2013 s’élevait à 672,17 $ [10] .
+Discussion
+Les intérêts provenant des comptes -144, -609 et -673 sont déductibles pour 2013, 2014 et 2015
+[19] J’ai trouvé M. Brown très crédible et j’accepte ses explications selon lesquelles l’argent emprunté provenant des comptes -144, -609 et -673 a aidé à défrayer le coût des travaux de rénovation pour 1049304 et de construction pour 1364383. J’accepte également son explication selon laquelle il a utilisé ces lignes de crédit pour rembourser les membres de sa famille et ses amis à qui il avait emprunté de l’argent de toute urgence pour financer la rénovation de 1049304. Le fait que les fonds des lignes de crédit ont été utilisés pour rembourser les prêts privés, pour le projet de rénovation et pour le projet de construction a peu d’importance, parce que ce sont tous là des usages admissibles dans les circonstances. Les écarts dans les éléments de preuve documentaires attribuables au fait que ses dossiers étaient incomplets ou que certains relevés bancaires n’étaient plus disponibles ont été justifiés par son témoignage de vive voix. Son compte rendu des détails et événements pertinents avait l’écho de vérité qui est présent lorsque l’on a personnellement vécu une situation.
+[20] Même si la tenue de livres n’était pas parfaite, j’ai été en mesure d’examiner des copies des ententes de crédit personnelles originales pour les comptes -144, -609 et -673 [11] et les relevés mensuels pour les trois années faisant l’objet du présent appel [12] . Le témoignage de M. Brown est appuyé par l’absence d’activité dans les comptes, le fait que les trois comptes sont demeurés à la limite de crédit maximale, et le fait que les bilans montraient que les sommes que lui devait 1049304 à elle seule dépassaient les sommes totales empruntées à partir de ces trois lignes de crédit entre 2013 et 2015.
+[21] Les bilans font état d’une tendance générale à la baisse en ce qui concerne les sommes qui lui étaient dues à titre d’actionnaire, ce qui est conforme à son témoignage selon lequel il a remboursé les sommes empruntées pour couvrir les coûts de rénovation et de construction. Même si je n’ai pas eu la possibilité d’examiner l’ensemble des états financiers, les bilans appuient le témoignage de M. Brown selon lequel il n’a reçu aucun dividende de l’une ou l’autre de ses sociétés. Selon la prépondérance des probabilités, je ne crois pas que l’une ou l’autre des sociétés aurait pu satisfaire au critère de la solvabilité prévu par la loi pour le versement de dividendes [13] .
+[22] Dans la mesure où les lignes de crédit ont été utilisées pour rembourser les prêts consentis par des membres de la famille et des amis, et compte tenu de ma conclusion concernant l’objet commercial de ces prêts, le paragraphe 20(3) s’applique de sorte que les lignes de crédit (c.-à-d. les sommes empruntées) sont réputées avoir été utilisées dans le même but que les prêts d’origine (c.-à-d. l’argent emprunté précédemment).
+Les intérêts provenant du compte -012 ne sont pas déductibles pour 2013
+[23] En ce qui concerne les intérêts de 673 $ provenant du compte -012 déduits pour l’année d’imposition 2013, la plupart des transactions sur ce compte semblent avoir été de nature personnelle. Comme la somme de 672,17 $ représentait le montant total des intérêts payés pour cette ligne de crédit en 2013, rien ne permettait de distinguer les dépenses commerciales des dépenses personnelles. Par conséquent, ces intérêts ne peuvent être déduits.
+Conclusion
+[24] L’appel est accueilli sans adjudication de dépens pour les motifs suivants :
+a) l’appelant a droit à des déductions au titre de frais d’intérêt de 17 715 $, 18 416 $ et 17 192 $ pour les années d’imposition 2013, 2014 et 2015, respectivement [14] ;
+b) l’appel interjeté à l’égard de l’année d’imposition 2016 est annulé.
+Signé à Ottawa, Canada, ce 12e jour d’août 2020.
+« Susan Wong »
+La juge Wong
+RÉFÉRENCE :
+2020 CCI 84
+NO DU DOSSIER DE LA COUR :
+2018-4004(IT)I
+INTITULÉ :
+WESLEY BROWN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 5 novembre 2019
+MOTIFS DU JUGEMENT
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 12 août 2020
+COMPARUTIONS :
+Représentante de l’appelant :
+Me Lisa Rumsey
+Avocat de l’intimée :
+Me Adam Pasichnyk
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Shell Canada Ltée c. Canada, [1999] 3 RCS 622, 1999 CanLII 647, au paragraphe 28.
+[2] Shell Canada Ltée, au paragraphe 31.
+[3] Pièce A-1, onglet intitulé « April ».
+[4] Pièce A-1, onglet intitulé « April ».
+[5] Pièce A-1, onglet intitulé « March ».
+[6] Pièce A-1, onglet intitulé « April ».
+[7] Pièce A-1, onglet intitulé « March ».
+[8] Réponse à l’avis d’appel, paragraphes 9(e) et (h); pièce R-5, deuxième page.
+[9] Pièce A-1, onglet intitulé « March ».
+[10] Pièce A-1, onglet intitulé « March ».
+[11] Pièce A-1, onglets intitulés « March » et « April ».
+[12] Pièce A-1, onglet intitulé « March ».
+[13] Alberta Business Corporations Act, R.S.A. 2000, c. B-9, art. 43.
+[14] Sommes fondées sur la réponse à l’avis d’appel, paragraphe 9(h).

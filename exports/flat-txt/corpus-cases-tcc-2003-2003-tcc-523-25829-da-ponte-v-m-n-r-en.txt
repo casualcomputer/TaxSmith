@@ -1,0 +1,149 @@
+Title: Da Ponte v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25829/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-523-25829-da-ponte-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-08-12
+
+# Da Ponte v. M.N.R.
+
+- Citation: 2003 TCC 523
+- Decision date: 2003-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3900, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Da Ponte v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-12
+Neutral citation
+2003 TCC 523
+File numbers
+2002-4757(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4757(EI)
+BETWEEN:
+JOE DA PONTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Joe Da Ponte (2002-4758(CPP)) on May 26, 2003 at London, Ontario
+Before: The Honourable J.F. Somers, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stephen Leckie
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of August 2003.
+"J.F. Somers"
+Somers, D.J.
+Citation: 2003TCC523
+Date: 20030812
+Docket: 2002-4757(EI)
+2002-4758(CPP)
+BETWEEN:
+JOE DA PONTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Somers, D.J.
+[1] These appeals were heard on common evidence in London, Ontario on May 26, 2003.
+[2] The Appellant is appealing from a decision made by the Minister of National Revenue (the "Minister") that the employment of Michael Lloyd the Worker, held with the Appellant during the period at issue from July 13 to August 31, 2001 was insurable and pensionable pursuant to paragraphs 5(1)(a) of the Employment Insurance Act (the "Act") and 6(1)(a) of the Canada Pension Plan (the "Plan") respectively.
+[3] Paragraph 5(1)(a) of the Act reads as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+...
+The wording of paragraph 6(1)(a) of the Plan is to the same effect as that of paragraph 5(1)(a) of the Act above.
+[4] The burden of proof is on the Appellant. He must show on a balance of probabilities that the Minister erred in fact and in law in his decision. Each case stands on its own merits.
+[5] In making his decision the Minister relied on the following assumptions of facts which were admitted and denied by the Appellant:
+(a) the Payer operates a drywall business; (admitted)
+(b) the Worker was hired as "Drywall installer" under a verbal agreement; (admitted)
+(c) the Worker's duties were to install drywall including measuring, cutting and nailing; (admitted)
+(d) the Worker performed his duties at various job sites; (admitted)
+(e) the Worker was paid between $8.25 and $9.00 per hour by the Appellant; (denied)
+(f) the Worker was paid by cheque, on a weekly basis by the Appellant; (admitted)
+(g) the Worker was supervised by the Appellant; (admitted)
+(h) the Appellant provided all the material and the equipment while the Worker provided only his own small tools; (denied)
+(i) the Worker worked, in general, 8 hours a day, 5 days a week; (denied)
+(j) the Worker's hours of work were determined by the Appellant since they were travelling together; (admitted)
+(k) the Worker received some training from the Appellant; (admitted)
+(l) the Appellant obtained the contracts; (admitted)
+(m) the Appellant guaranteed the work; (denied)
+(n) the Appellant was responsible to resolve customers' complaints; (denied)
+(o) the Appellant had the right to terminate the Worker's services; (admitted)
+(p) the Worker had to perform his services personally; (denied)
+(q) the Worker's services were integral to the Appellant's operations. (denied)
+[6] The Payer operates a drywall business. The Worker was hired as a drywall installer under a verbal agreement after the Payer placed an ad searching for a worker.
+[7] On receiving the Worker's resume, the Appellant contacted him to set up an interview. As stated in his letter dated May 25, 2003 addressed to this Court, the Appellant explained to the Worker the terms of the working agreement by which he was to be a subcontractor and thus not eligible for unemployment or CPP benefits (Exhibit A-1).
+[8] The Worker's duties were to install drywall including measuring, cutting and nailing. The Appellant was a subcontractor at various job sites.
+[9] According to the Appellant, the Worker was paid 10 cents per square foot which would average to about $9.00 per hour. The Appellant paid the Worker by cheque on a weekly basis as it appears on the duplicates of cheques filed as Exhibit A-2.
+[10] The Appellant admitted that he supervised the Worker during the performance of his duties.
+[11] The general contractor supplied the materials but according to the Appellant, the Worker had some small tools such as a tape, a small nail pouch and other small tools.
+[12] The hours of work varied depending on the work at various job sites.
+[13] The general contractor attended to the clients' complaints.
+[14] The hours were determined by the Appellant since the Worker travelled with him.
+[15] The Appellant admitted that the Worker received some training from him. He also admitted that the Worker performed his work at various job sites. He recognized that the Worker did not have much experience and was unreliable.
+[16] The Worker testified that he was not a contractor or subcontractor. He stated that he had filled out about 50 job applications as a general labourer. He noticed a job ad at the employment office, applied for it and was contacted by the Appellant.
+[17] The Worker stated he was paid $10 per hour and not by the piece. The Worker added the only tools he had were safety boots, a tool belt and maybe a tape, but he did not supply a hammer, screw gun, chalk line or a knife.
+[18] The Worker stated he did not guarantee the work and did not have to respond to clients' complaints.
+[19] A contract of service necessarily implies that the employee works for the profit of the employer. The essential characteristics of a contract of service include features involving the nature of the services to be provided; the fixed periodic wage; the pre-arranged working hours and specific directions as to the work to be done.
+[20] In determining whether the parties have established an employer/employee relationship, the total relationship of the parties must be considered. The test to be used to distinguish a contract of service from a contract for services is a four-in-one test with emphasis on the combined force of the whole scheme of operations.
+[21] Case law consistently admits four basic factors in distinguishing a contract of service from a contract for services. In the case of Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, the Federal Court of Appeal enumerated the four basic tests:
+1. The degree of control.
+2. Ownership of tools.
+3. Chance of profit and risk of loss.
+4. Integration.
+[22] Control: Control is always a factor to be considered in determining if the worker is an employee or an independent contractor. In the case at hand, the Payer supervised the Worker as both of them worked together at all times and even travelled together to go to the various job sites. The Payer had the right to terminate the Worker's services. There was complete control over the Worker's performance. Considering this factor the Worker was under a contract of service.
+[23] Tools: The general contractor supplied the materials. The Worker had only small tools, not enough to perform the duties associated with the installation of drywall. On this criteria there was a contract of service between the Worker and the Appellant.
+[24] Chance of profit and loss: There was conflicting evidence as to the remuneration established between the Payer and the Worker. The Payer stated the Worker was paid by the piece while the latter stated he was paid $10.00 an hour. The Worker stated that he did not own a business of his own. He was looking for a job as a general labourer. He submitted approximately 50 applications for work. He noticed the Payer's advertisement and applied for the job. The Payer admitted that the Worker was not experienced. The Worker could not be considered as a contractor as he did not own a vehicle. The Worker was paid on a weekly basis. There was no evidence that he made a profit or suffered a loss. By this criteria, the Worker should be considered as an employee.
+[25] Integration: It was the Payer's business and not that of the Worker. The relationship between the clients and the contractor or subcontractor was the Payer. The general contractor or the Payer responded to the clients' complaints. The Worker performed the services himself. The evidence has shown that the Worker's performance was integrated into the Payer's business.
+[26] In applying all the criteria as enumerated in the Wiebe Door (supra) case, there existed a contract of service between the Worker and the Appellant.
+[27] The Worker was engaged by the Appellant in insurable and pensionable employment within the meaning of paragraphs 5(1)(a) of the Act and 6(1)(a) of the Plan for the period in question as there was a contract of service between them.
+[28] The appeals are dismissed and the decision of the Minister is confirmed.
+Signed at Ottawa, Canada, this 12th day of August 2003.
+"J.F. Somers"
+Somers, D.J.
+CITATION:
+2003TCC523
+COURT FILE NO.:
+2002-4757(EI) and 2002-4758(CPP)
+STYLE OF CAUSE:
+Joe Da Ponte and M.N.R.
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+May 26, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable J.F. Somers
+Deputy Judge
+DATE OF JUDGMENT:
+August 12, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stephen Leckie
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

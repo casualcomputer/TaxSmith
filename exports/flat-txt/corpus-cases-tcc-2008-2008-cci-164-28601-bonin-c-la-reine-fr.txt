@@ -1,0 +1,160 @@
+Title: Bonin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28601/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-164-28601-bonin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-04-14
+
+# Bonin c. La Reine
+
+- Citation: 2008 CCI 164
+- Decision date: 2008-04-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1068, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bonin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-14
+Référence neutre
+2008 CCI 164
+Numéro de dossier
+2007-3176(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3176(IT)I
+ENTRE :
+DENISE BONIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 15 janvier 2008, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Bertrand Forget
+Avocat de l'intimée :
+Me Alain Gareau
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005 est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 14e jour d’avril 2008.
+« Paul Bédard »
+Juge Bédard
+Référence : 2008CCI164
+Date : 20080414
+Dossier : 2007-3176(IT)I
+ENTRE :
+DENISE BONIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le ministre du Revenu national (le « ministre ») a ajouté au revenu de l’appelante, pour les années d’imposition 2003, 2004 et 2005, les sommes de 3 460 $, de 3 900 $ et de 2 775 $ respectivement à titre de revenu de pension alimentaire en vertu de l’alinéa 56(1)b) de la Loi de l’impôt sur le revenu (la « Loi »). L’appelante conteste cette décision en alléguant qu’à compter de l’année 1998, son ex-époux et elle avaient convenu verbalement de défiscaliser la pension alimentaire.
+[2] À l’audience, toutes les hypothèses de fait sur lesquelles le ministre s’est appuyé pour établir les cotisations visées par l’appel ont été admises. Elles étaient rédigées comme suit :
+[…]
+a) l’appelante et monsieur Claude Ouellette se sont épousés le 21 juin 1986;
+b) de l’union de l’appelante et de monsieur Claude Ouellette, est née Marie-Ève le 4 mai 1987;
+c) le 28 mars 1991, un jugement de divorce a été prononcé entre l’appelante et monsieur Claude Ouellette et a pris effet le trente et unième jour suivant la date du présent jugement;
+d) suite au jugement de divorce entre l’appelante et monsieur Claude Ouellette de la Cour supérieure du Québec daté du 28 mars 1991, et prononcé par l’honorable juge Nicole Moreau, cette dernière a condamné, entre autres, monsieur Ouellette a verser à l’appelante une pension alimentaire de 100 $ par semaine pour l’enfant Marie-Ève;
+e) lors d’un jugement sur requête d’annulation des arrérages de pension alimentaire payables pour l’enfant Marie-Ève, rendu le 12 janvier 2007 par l’honorable juge Marie-Christine Laberge de la Cour supérieure du Québec, le Tribunal a reconnu, en se fondant sur les témoignages des parties, qu’aux termes d’une entente mutuelle et verbale ayant apparemment eu lieu en 1998, les dites parties avaient exprimé leur volonté de voir s’appliquer les nouvelles règles fiscales à l’égard de la pension alimentaire;
+f) lors d’un jugement sur requête d’annulation des arrérages de pension alimentaire payables pour l’enfant Marie-Ève rendu, le 12 janvier 2007 par l’honorable juge Marie-Christine Laberge de la Cour supérieure du Québec, cette dernière a calculé que monsieur Ouellette avait versé à l’appelante pour l’enfant Marie-Ève les sommes respectives de 3 640 $, de 3 900 $ et de 2 775 $, à l’égard des années d’imposition 2003, 2004 et 2005;
+g) l’appelante et monsieur Claude Ouellette n’ont pas exercé le choix, en produisant le formulaire T1157, afin de défiscaliser la pension alimentaire découlant du jugement de divorce daté du 28 mars 1991;
+h) l’appelante et monsieur Claude Ouellette n’ont soumis aucun accord écrit au ministre afin de que la pension alimentaire soit ni imposable ni déductible à partir d’une date d’exécution.
+[3] À l’audience, aucun témoin n’a été entendu, et seule une copie du jugement de la Cour supérieure du Québec daté du 12 janvier 2007 et de la transcription du jugement rendu séance tenante ont été produites en preuve sous la cote A-1 (le « jugement »).
+Position de l’appelante
+[4] La position de l’appelante, selon les représentations écrites de son procureur, est la suivante :
+1. Un premier jugement a été rendu dans la présente affaire lors du prononcé du jugement de divorce au cours de l’année 1991 par lequel monsieur Claude Ouellette, débiteur alimentaire a été condamné à verser, pour l’entretien de son enfant Marie-Ève, une pension alimentaire de 100,00 $ par semaine;
+2. Selon les règles de l’époque, cette pension était fiscalisée et conséquemment elle pouvait être déduite par le payeur et devait être déclarée à titre de revenu par la créancière de la pension alimentaire, soit l’appelante;
+3. Après la mise en vigueur de la nouvelle législation défiscalisant la pension alimentaire pour enfants, soit en mai 1997, l’appelante ainsi que son époux, monsieur Claude Ouellette, ont convenu ensemble qu’à partir de l’année 1998, la pension alimentaire payable par monsieur Claude Ouellette pour son enfant Marie-Ève serait réduite à un montant de 50,00 $ par semaine et se faisant, les parties convenaient d’un commun accord de défiscaliser le paiement de cette pension alimentaire;
+4. Il est évident qu’à cette époque, les parties n’ont pas produit un constat de leur accord au Ministère du Revenu ni obtenu une ordonnance à cette époque venant attester cette défiscalisation;
+5. Cependant, l’appelante, par l’entremise de son procureur, a produite lors de l’audience les transcriptions du jugement rendu en date du 12 janvier 2007 par l’Honorable Juge Marie-Christine Laberge, J.C.S. et dans lequel, en son paragraphe 10, la Cour Supérieure donne acte de l’entente des parties à compter de 1998 à l’effet de défiscaliser ladite pension alimentaire payable par monsieur Claude Ouellette à l’appelante pour l’entretien de Marie-Ève;
+6. L’Honorable Juge Laberge, J.C.S., a également noté au paragraphe 11 de ce jugement que « le Tribunal considère aussi qu’en matière de pension alimentaire pour enfants, les parents ne peuvent renoncer à la pension alimentaire puisqu’il s’agit des droits des enfants »;
+7. Conséquemment, l’Honorable Juge Laberge a considéré avoir pleine juridiction pour fixer rétroactivement le montant de pension alimentaire défiscalisée qui devait être payable par le payeur de pension alimentaire, monsieur Claude Ouellette à compter de l’année 1998;
+8. Pouvons-nous donc considérer que cette ordonnance de la Cour Supérieure liait le Ministère du Revenu à cette entente de défiscalisation;
+9. Nous soumettons bien respectueusement que la réponse à cette question nous est donné par les articles suivants de la loi soit la définition de « date d’exécution quant à un accord ou une ordonnance prévue à la Loi » au sous paragraphe b) (ii) qui se lit comme suit :
+(ii) si l’accord ou l’ordonnance fait l’objet d’une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+10. Or, il est reconnu dans l’ordonnance de l’Honorable Juge Laberge que les montants modifiés ont été versés pour la première fois au début de l’année 1998 et ainsi de suite jusqu’au moment où l’Honorable Juge Laberge annule ladite pension alimentaire payable pour l’enfant Marie-Ève considérant que celle-ci avait atteint son autonomie;
+11. De plus, au sous‑paragraphe (3) b) de l’article 56, la loi crée des présomptions relativement à ce qu’on doit considérer avoir été payé et reçu au titre de l’accord et de l’ordonnance de la façon suivante :
+b) l’accord ou l’ordonnance est réputé, sauf pour l’application du présent paragraphe, avoir été établi le jour où tel montant est reçu pour la première fois. Toutefois, lorsque l’accord ou l’ordonnance est établi après avril 1997 et modifie un montant de pension alimentaire pour enfants payable au bénéficiaire par rapport au dernier semblable montant qu’il a reçu avant mai 1997, chaque montant modifié de pension alimentaire pour enfants reçu aux termes de l’accord ou de l’ordonnance est réputé avoir été à recevoir aux termes d’un accord ou d’une ordonnance dont la date d’exécution correspond au jour où le montant modifié est à verser pour la première fois.
+12. Pour toutes ces raisons, nous considérons que l’appel de l’appelante doit être accueilli en conformité avec l’ordonnance de la cour supérieure rendu le 22 janvier 2007 par l’Honorable Juge Marie-Christine Laberge, J.C.S.;
+13. S’il en était autrement, on obligerait l’appelante de retourner devant la cour supérieure pour faire refixer le montant de la pension alimentaire pour enfants de façon à ce que ladite pension alimentaire modifiée au montant convenu entre les parties soit défiscalisée rétroactivement depuis 1998;
+[…]
+[5] Les dispositions pertinentes relatives à l’inclusion dans le revenu d’une année des sommes reçues à titre de pension sont les suivantes :
+Article 56
+Sommes à inclure dans le revenu de l’année
+56(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+Pension alimentaire
+56(1)b) le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l'année d'une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a reçue de la personne donnée après 1996 et qu'il a incluse dans son revenu pour une année d'imposition antérieure;
+Article 56.1
+[…]
+Définitions
+56.1(4) Les définitions qui suivent s'appliquent au présent article et à l'article 56.
+« date d'exécution »
+« date d'exécution » Quant à un accord ou une ordonnance :
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+« pension alimentaire »
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est légalement le père ou la mère d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+« pension alimentaire pour enfants »
+« pension alimentaire pour enfants » Pension alimentaire qui, d'après l'accord ou l'ordonnance aux termes duquel elle est à recevoir, n'est pas destinée uniquement à subvenir aux besoins d'un bénéficiaire qui est soit l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur, soit le parent, père ou mère, d'un enfant dont le payeur est légalement l'autre parent.
+(Je souligne.)
+[6] Il ressort clairement des dispositions législatives pertinentes qu’une pension alimentaire ne peut exister au sens de la Loi en l’absence d’une entente écrite ou d’une ordonnance d’un tribunal compétent. En l’espèce, l’obligation alimentaire imposée à monsieur Ouellette pour subvenir aux besoins de Marie-Ève a été créée par un jugement de divorce prononcé en 1991. L’entente ultérieure entre les parties, s’il en est, est verbale et ainsi ne peut mener à l’application du régime fiscal alimentaire institué en 1997, qui porte qu’il n’y a ni inclusion ni déduction des paiements de pension alimentaire pour enfants.
+[7] En ce qui a trait au jugement, puisqu’il a été rendu après avril 1997, nous devons examiner la question de savoir s’il crée une date d’exécution au sens de l’alinéa 56(1)b) de la Loi, et plus particulièrement en vertu des sous-alinéas ii) et iii), qui sont les seuls, à mon avis, susceptibles de créer un problème d’interprétation.
+[8] Une analyse des sous-alinéas 56.1(4)b)ii) et iii) de la Loi m’amène à conclure qu’il est nécessaire que l’appelante établisse que le jugement a eu pour effet 1) soit de modifier le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, 2) soit de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire. Rappelons que le jugement a été rendu suivant la présentation d’une requête en annulation de la pension alimentaire pour enfants et non en modification de celle-ci. Or, les alinéas ii) et iii) ne peuvent trouver application, puisqu’il n’y a pas, en l’espèce, d’ordonnance qui modifie ou change le montant de la pension alimentaire pour enfants accordée en vertu du jugement. Même si l’on voulait considérer les termes annulation et modification comme étant synonymes, il y aurait, à mon avis, toujours absence de date d’exécution car, par effet du jugement, il n’y a plus de montant modifié à verser ou payable au bénéficiaire. En effet, l’utilisation des termes « montant modifié […] à verser » et « total des montants […] payables » dans la définition de l’expression « date d’exécution » implique que l’obligation alimentaire doit nécessairement exister au-delà du prononcé du jugement (qui, je le rappelle, est daté du 12 janvier 2007) pour qu’une date d’exécution puisse lui être attribuée. En l’espèce, puisque l’obligation faite à monsieur Ouellette de verser une quelconque somme à titre de pension alimentaire pour enfants est désormais éteinte, le jugement n’a pas, à mon avis, de « date d’exécution » au sens de la Loi.
+[9] J’ajouterai que les prétentions de l’appelante ne peuvent être retenues pour les motifs qui suivent :
+1) contrairement à ce qu’affirme le procureur de l’appelante au paragraphe 3 de ses représentations écrites, je suis d’avis que l’on n’a pas prouvé qu’il existait une pension alimentaire de 50 $ par semaine. En effet, la transcription du jugement est silencieuse à ce sujet. Cette transcription indique plutôt qu’il y a contestation et contradiction dans les témoignages à cet égard. Enfin, l’appelante a reçu au cours des années en litige, à titre de pension alimentaire, les sommes de 3 640 $, de 3 900 $ et de 2 775 $ (pour 6 mois), soit plus de 50 $ par semaine;
+2) contrairement, à ce que prétend le procureur de l’appelante, la Cour supérieure, à mon avis, n’a pas fixé rétroactivement le montant de la pension alimentaire à compter de 1998, et ce, pour les motifs suivants :
+i) le dispositif du jugement est silencieux à cet égard;
+ii) les montants considérés par la Cour supérieure comme étant payables, après rajustements, varient de 3 650 $ à 5 179 $ par année; si cette cour avait effectivement fixé rétroactivement à 50 $ par semaine le montant de la pension alimentaire, le montant payable par monsieur Ouellette aurait donc été de 2 600 $ par année;
+iii) si la fixation du montant de la pension alimentaire était rétroactive à 1998, il n’y aurait pas eu lieu pour la Cour supérieure de calculer des arriérés;
+iv) au paragraphe [3] de la transcription du jugement, la Cour supérieure, ayant reconnu que monsieur Ouellette avait fait défaut de verser la pension alimentaire de 100 $ par semaine prévue par le jugement de divorce de 1991, précise :
+« Il n’est pas utile de revenir sur cette période qui est maintenant prescrite ».
+3) enfin, je suis d’avis que l’alinéa 56.1(3)b) de la Loi ne peut recevoir d’application puisqu’il y a absence, en l’espèce, d’une « ordonnance d’un tribunal compétent, établi[e] à un moment d’une année d’imposition, [qui] prévoit qu’un montant reçu avant ce moment et au cours de l’année ou de l’année d’imposition précédente est considéré comme payé et reçu au titre de […] l’ordonnance », tel que l’exige le paragraphe 56.1(3) de la Loi.
+[10] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 14e jour d’avril 2008.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2008CCI164
+Nº DU DOSSIER DE LA COUR : 2007-3176(IT)I
+INTITULÉ DE LA CAUSE : DENISE BONIN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 15 janvier 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 14 avril 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Bertrand Forget
+Avocat de l'intimée :
+Me Alain Gareau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Bertrand Forget
+Cabinet : Forget, Tremblay
+St-Eustache, Québec
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

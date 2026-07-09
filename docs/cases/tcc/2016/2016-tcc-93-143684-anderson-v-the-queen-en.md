@@ -1,0 +1,258 @@
+---
+title: "Anderson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/143684/index.do"
+last_modified: "2016-03-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 93"
+citation2: ""
+neutral_citation: "2016 TCC 93"
+decision_date: "2016-03-04"
+language: "en"
+item_id: "143684"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3121
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:57:08.309000+00:00"
+cases_cited_count: 18
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "298200648e205a7e5fc24738a2c36162a363dd5ccbd5bc493b4d675e3cfb5ff2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Anderson v. The Queen
+
+- Citation: 2016 TCC 93
+- Decision date: 2016-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3121, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anderson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-03-04
+Neutral citation
+2016 TCC 93
+File numbers
+2013-691(IT)G
+Judges and Taxing Officers
+Dwayne W. Rowe
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-691(IT)G
+BETWEEN:
+GEORGE ANDERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on March 3, 2016, and reasons delivered orally from the Bench on March 4, 2016, at Toronto, Ontario
+Before: The Honourable D.W. Rowe, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Duane R. Milot
+Counsel for the Respondent:
+Alisa Apostle (on March 3, 2016 only) and Peter Swanstrom (on March 4, 2016 only)
+JUDGMENT
+The appeal from the reassessment made pursuant to the Income Tax Act (the “Act”) for the 2008 taxation year is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the penalty assessed pursuant to subsection 163(2) of the Act is deleted.
+The appeals from the reassessments made pursuant to the Act for the 2005 and 2007 taxation years are dismissed.
+Signed at Sidney, British Columbia, this 14th day of April 2016.
+“D.W. Rowe”
+Rowe D.J.
+Citation: 2016 TCC 93
+Date: 20160414
+Docket: 2013-691(IT)G
+BETWEEN:
+GEORGE ANDERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Reasons delivered orally from the Bench on
+March 4, 2016 at Toronto, Ontario)
+Rowe D.J.
+[1] Initially, the Appellant’s appeal was with respect to the 2005, 2007 and 2008 taxation years. At the outset, counsel for the Appellant advised that the appeal was only with respect to the 2008 taxation year and the sole issue was whether the imposition of the penalty pursuant to subsection 163(2) of the Income Tax Act (the “Act”) is justified.
+[2] In determining the Appellant’s tax liability for the 2008 taxation year, the Minister of National Revenue (the “Minister”) made the following assumptions of fact as set forth in paragraph 19 of the Reply to the Notice of Appeal, subparagraphs a) to j) inclusive:
+a) the appellant’s total income for the 2008 taxation year was $92,637.01 consisting of employment income from Canadian Pacific;
+b) in filing his 2008 tax return, the appellant claimed a business loss in the amount of $340,882.38 (the previously defined “Claimed Agent Loss”);
+c) the Claimed Agent Loss resulted in a refund of all taxes withheld at source for the 2008 taxation year;
+d) the appellant claimed in his income tax return for the 2008 taxation year that the business was as an “Agent”;
+e) the Claimed Agent Loss in the amount of $340,882.38 was not in respect of any business activity by the appellant;
+f) the appellant used $88,882.38 of the Claimed Agent Loss against his income in the 2008 taxation year and requested that the unused balance of $252,000 be carried back and applied to his 2005, 2006 and 2007 taxation years in the amounts of $84,500, $84,000 and $83,500, respectively;
+g) the appellant claimed in his 2008 tax return that the income from his “business” (detailed in paragraph 9 above) was $92,637.01 (described as “Total money collected as Agent for Principal and reported by third parties”) and $7,040.41 (described as “Additional money collected as agent for principal and NOT reported by third parties”);
+h) the appellant claimed in his 2008 tax return that his expenses, which were described as “Amount to principal in exchange for labour”, were $248,245.37 (the “Disallowed Expenses”);
+i) the appellant signed his income tax return for the 2008 taxation year “per: G. Anderson”;
+j) the appellant signed his form T1AE – Request for Loss Carryback for the 2008 taxation year as “per: George Anderson”; …
+[3] The balance of the assumptions relate to the Minister’s belief that the appellant knowingly participated in a de-tax group in order to avoid paying tax and that he knew or ought to have known that the claimed agent loss was in fact fictitious.
+[4] Counsel agreed the Appellant’s Book of Documents could be filed as Exhibits A-1 and A-2 and the Respondent’s Book of Documents as Exhibit R-1.
+[5] George Anderson (“Anderson”) testified. He was born in 1955, is not married and has no children. He went to school Grades 1 to 6 elementary, then Grades 7 and 8 at public school and started Grade 9 where he found that he was having difficulty with the subjects, particularly hard math, and wasn’t very interested and I suspect did not attend very often, and as a consequence, he failed that grade.
+[6] He was fifteen when he left school and he found that reading was somewhat difficult. He wasn’t able to relate to subjects that were perhaps described as soft subjects such as drama. He had no further education after he left school. He worked at auto body shops doing menial tasks, then at Eatons, polishing the brass rails at Yonge Street and then at a plant making cartons where he was sealing and stacking boxes and later at a company that had vending machines and various metal fixtures where he repaired damage and dents. Then, he got a job with Canadian Pacific Railway (“CPR”). He started there in September of 1974. He was there for 36 years. He started out as a labourer in the diesel shop cleaning locomotives and whatever else had to be done. Then he was a labourer in the car shop where the box cars are, and there is nothing but motors there, and he did the same duties for six months, until he was promoted to carman’s helper, brought parts and supplies to the tool room, and then he was a carman trainee and worked with the carman involved in the process of doing repairs for four years. That concerned changing of wheels, brake shoes, straightening doors and changing floorboards in the cars and so on.
+[7] The appellant became a carman with fundamentally the same duties but now worked on his own doing inspections in the yard looking for broken items such as brakes and did visual checks for two or three years.
+[8] He was promoted to a supervisor, which is equivalent to a foreman and he was in charge of up to eight workers at a time and assigned people to perform specific tasks. He did that job for 25 years until his retirement in the year 2010.
+[9] Anderson stated that he had no training in tax law or accounting or tax calculations or in business, and in everyday life, he could read with comprehension, provided the subject matters were something of which he was reasonably familiar. He had filed an income tax return every year since the age of 16 back in 1971 or 1972.
+[10] He never prepared a tax return himself. His mother prepared it for him until her death in the mid-1980s. Then he went to a tax preparer named Brian Bower and saw him more than once. For the years 2003, 2004 and 2005, he utilized the services of Lisa’s Tax Service and does not recall the fee that he paid. In 2007, a co-worker named Ed Hale did Anderson’s return using software he had. Mr. Hale was a safety supervisor at CPR.
+[11] In 2008, the return was prepared by a fellow called Muntaz Rasool. In November 2006, the appellant met Muntaz Rasool (“Rasool”) referred to often in the testimony of witnesses, sometimes as Muntaz and other times as Rasool. A co‑worker of the appellant, Chris Bartley (“Bartley”), was a Process Manager at CPR and invited the appellant to a meeting at his home where about eight other people had gathered to listen to a business proposal presented by Rasool where he spoke about the opportunity to invest in an entity called StockLogics which purported to be a joint venture business operation.
+[12] Rasool handed out promotional material in the form of leaflets which Anderson read but said he did not understand, but others in the group – including Bartley – asked Rasool questions and he responded immediately in a confident and professional manner.
+[13] The appellant stated he understood that as a partner in the StockLogics joint venture, he would be able to deduct his share of any business losses against his employment income from CPR. He identified his signature on a six-page document – Exhibit R-2 – entitled StockLogics Waiver and agreed to commit $10,000 as a participant or joint venture partner.
+[14] Before agreeing to participate in the StockLogics promotion, Anderson inquired of Bartley about the qualifications of Rasool and was told that Rasool was an experienced person in tax matters and a certified tax consultant with many years of experience and that others at CPR had dealt with him and had not encountered any problems.
+[15] Bartley invested in the program as did another co-worker, Ed Hale, the man who had prepared Anderson’s 2007 tax return. Anderson had spoken with Bartley about Rasool and was informed that he had invested in what he believed was a legitimate charity – Destiny – linked to Global Medic and that an investment of $10,100 had generated a tax refund of over $20,000.
+[16] Bartley also informed Anderson that Rasool was a tax consultant and accountant to another worker at CPR who also exercised a management or supervisory function and operated one or more businesses in addition to his full‑time employment. This individual had never encountered any problem with the Canada Revenue Agency (“CRA”) as a result of Rasool having prepared his income tax returns.
+[17] Anderson wrote a cheque, dated November 25, 2006, in the sum of $10,000 payable to StockLogics, a copy of which is attached to the last page of Exhibit R-2.
+[18] Participation in the StockLogics program produced a refund for Anderson’s 2007 taxation year but Bartley did not participate again in 2008 as he had received enough benefits from the refunds flowing from previous involvement with Rasool’s programs and had used the funds to renovate his house and that had eliminated the need to obtain funds through a line of credit.
+[19] Rasool never prepared any of his tax returns and they continued to be prepared - as earlier - by Lisa from Lisa’s Tax Service.
+[20] In 2008 late fall, the appellant attended a meeting where Rasool spoke about the special method that he – as an expert – could utilize to file returns that would produce significant refunds for his clients. He assured people that it was legitimate and that it had been approved by CRA.
+[21] At one point, Rasool showed Anderson the relevant page of the tax return of some people known to the appellant - either from working at CPR or their relatives - who had received large refunds and this satisfied him that the methodology of Rasool was legitimate. Anderson testified he did not particularly like Rasool but decided to use his services because others trusted him and had not encountered any difficulty with CRA as a result.
+[22] Anderson testified he did not understand the concept explained by Rasool but knew it involved an obscure but legal method whereby certain persons could exercise their right to – in effect – buy their legal name back from the Crown that had assigned it at birth or thereafter – and that this would entitle an individual to claim greater expenses as a deduction against other income such as employment.
+[23] Rasool provided Anderson with the address of a website which he visited. He read the contents but did not understand it any better than when Rasool had talked about it but it was consistent with Rasool’s explanation.
+[24] Anderson did not re-invest in the StockLogics venture but as a result of his investment in the 2007 taxation year, received a substantial refund based on a net business loss claimed in the amount of $35,000.
+[25] When Anderson decided to retain the services of Rasool to prepare his tax return for the 2008 taxation year, he met with him at a Tim Hortons restaurant where Rasool provided him with his return of income which is an exhibit at Tab 3 of Exhibit A-1.
+[26] Anderson testified that he looked at the first page and that Rasool was flipping pages until arriving at the signature page which Anderson signed but had not added the word “Per” in front of his signature. The word “Per” was not there at that time.
+[27] He noticed the large amount of the refund in the area above the signature line and inquired of Rasool why it was that large. He received an explanation that it was because of the special knowledge that Rasool had of the Act and the system of filing which had been approved by CRA and which he had used in respect of other persons known to Anderson and that refunds had been paid.
+[28] Anderson testified that the Statement of Agent Activities was not in the return when it was presented to him. His name was printed at the bottom but he does not think it was printed by him. His signature does appear on the next page but – again – he did not add the word “Per” nor was it there when he looked at that page.
+[29] When he signed his return at the Tim Hortons, he noticed that the box required to be completed by the tax preparer was blank, so he took his pen and wrote in the name of Muntaz Rasool in black ink. Anderson could tell by his body language and demeanour that Rasool was not pleased. The appellant did not insert the name of Rasool’s business or address as they were unknown to him and he knew Rasool had many clients in the Oshawa area and met them in a restaurant or other location.
+[30] Anderson testified he did not see any figures on the page of the return where his income was shown at the top, nor the large number – $340,882.38 - in brackets - further down that purports to be in regard to business income and expenses resulting in a large loss.
+[31] Anderson has been an employee all his working life and has never operated a business and stated he would have known that was not correct had he seen it and taken note of that number. He was certain that this page was either not in the return or was not shown to him by Rasool.
+[32] Anderson is also confident that the document – marked page 23 in his return at Tab 3 of Exhibit A-1 – entitled Statement of Agent Activities - was not in the return when he signed it. His name is printed at the bottom but he had not seen that document until it was presented to him by his counsel.
+[33] At page 20 of Exhibit A-1, Tab 3, there is a document - entitled Request for Loss Carryback – and Anderson identified his signature on the next page – 21 – but again stated he did not add the word “Per” in front of his signature. Anderson stated that he never saw that document at page 21.
+[34] On page 25, Anderson noticed the amount of the refund entered at box 484 and again at box 466. He had never intended to claim a business loss in his 2008 taxation year and knew it was not like his investment in StockLogics where he was a participant in a joint venture and able to utilize his share of any business losses to deduct against income from CPR.
+[35] He had noticed the large amount of the claimed refund - $25,179.34 – and had inquired about it and received an explanation from Rasool that he found satisfactory and consistent with Rasool’s earlier advice and explanation provided at a meeting and at subsequent meetings with Rasool.
+[36] The appellant received a refund in the sum of $25,179.34 in respect of his 2008 taxation year and after Rasool had telephoned on several occasions to inquire whether the refund had been received by way of direct deposit to Anderson’s bank, Rasool then demanded upon confirmation of said deposit that a certain fee be paid to him which Anderson refused to pay but did pay a lower amount of $11,000 from the proceeds of that refund.
+[37] After signing the return in places where indicated, Rasool took it and told Anderson he would file it with CRA. Anderson asked for a copy but was told that Rasool had brought only the original but would provide one later. Despite later requests, no other copy was ever provided to him.
+[38] There is an unsigned 2008 T1 General return in the name of the appellant that has the word “COPY” written underneath that title and the numbers pertaining to employment income and business income and expenses and resulting loss and the amount of the claimed refund are the same as in the return referred to earlier at Tab 3 of Exhibit A-1.
+[39] The origin of this document remains a mystery but it was included in the Appellant’s Book of Documents and provided to the respondent.
+[40] It may have come from the appellant’s subsequent tax preparer Ed Gilmore but that is merely speculation on my part.
+[41] Anderson received a letter from CRA enclosing a Business Questionnaire and requesting other information about the alleged business that had produced the loss. He read the first part of the letter but was on his way to work so left it in an envelope on the coffee table in his friend’s house where he lived and that address was the one stated on his tax return.
+[42] At work, he spoke to a co-worker about the letter and was informed that the man’s daughter had received a similar letter and that it was causing the family concern. After work, Anderson went home only to discover that his friend thought the envelope was waste paper and threw it in the fireplace where it was burned.
+[43] Anderson phoned CRA to speak to someone about what had happened and whoever was on the other end of the line said, “So, your dog ate your homework.” and promptly hung up. Anderson was put off by this response and stated this prevented him from attempting further contact with CRA so he contacted Rasool who informed him that his business entity had access to lawyers who would look after the matter and that he had nothing to worry about.
+[44] CRA sent further letters and these were provided to Rasool, but at some point in 2010, Rasool disappeared and none of the individuals who had dealings with him could find him. Anderson contacted Ed Gilmore who filed a Notice of Objection on his behalf, albeit it was only one line and offered no real explanation for the objection except that the Minister had erred in his assessment of business expenses.
+[45] The Minister issued a Notice of Confirmation with respect to the various years at issue at that time as a result of the Request for Loss Carryback filed with Anderson’s return. Anderson testified that page one of that document was not in the return when he signed page two and the word “Per” was not there at that time.
+[46] Anderson said he was well aware that he had never operated a business and had been an employee throughout his working life for nearly 40 years.
+[47] Was there a false statement in the return? Yes, because Anderson had not operated a business in 2008. How did that information get there? It may have been on the page where employment income was entered at the top but Anderson was certain he had not seen that page and would have noticed the large number of an alleged business loss. He is certain that page one of the Statement of Agent Activities was not there and would have questioned its purpose. He knew what his income was in 2008 and agreed the number used by the Minister is correct.
+[48] I am satisfied on the evidence that Rasool took away the return after it had been signed by Anderson and that he inserted material such as page one of the Statement of Agent Activities and page one of the Request for Loss Carryback so that it would appear as though Anderson had been aware of the entire contents of those documents and was intending to rely on them.
+[49] I do not know how Rasool eliminated the entry by Anderson – in black ink – of his name in the box for professional tax preparers but I am satisfied that Anderson made that entry and in doing so encountered the obvious displeasure of Rasool.
+[50] These methods are consistent with the practice of Rasool who is well known to CRA and the Tax Court of Canada as the perpetrator of frauds and scams of various sorts, either alone or in a conspiracy with other individuals, who have tricked many people into embracing their bizarre theories to become part of that group commonly referred to as de-taxers.
+[51] I doubt it would have been difficult for him to utilize modern software to blank out the insertion of his name in the tax preparer box and to scan a copy and reprint that page.
+[52] I find the evidence of Anderson to be credible and the unscrupulous methods utilized by Rasool in this instance and in other reported cases permits the inference to be drawn that he is prepared to utilize sleight-of-hand when showing people where to sign a return and to insert material in a return for filing with CRA that was not there when his client signed it.
+[53] Subsection 163(2) of the Act reads as follows:
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty . . .
+[54] Pursuant to subsection 163(3), the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[55] There are two elements that must be established to justify the imposition of those penalties:
+1. a false statement in a return; and
+2. knowledge or gross negligence in the making of, assenting to or acquiescing in the making of that false statement.
+[56] I am satisfied on the evidence that Anderson did not knowingly make that false statement nor did he assent to or acquiesce in the making of that false statement concerning the claim of a business loss. The question now becomes whether the penalty is justified because Anderson’s conduct can be characterized according to the Crown as wilful blindness, which, according to recent decisions of the Federal Court of Appeal, constitutes gross negligence for the purpose of that subsection. There is also substantial jurisprudence emanating from the Tax Court of Canada.
+[57] What basically got the ball really rolling was the judgment of Mr. Justice Campbell Miller in Torres v Canada, 2013 TCC 380, 2014 DTC 1028 [Torres]. Justice Miller heard the appeal of six taxpayers who had fictitious business losses that were claimed on the advice and instructions provided by representatives of a group called Fiscal Arbitrators who have become notorious in this Court.
+[58] Justice Miller reviewed the relevant jurisprudence including recent decisions from the Federal Court of Appeal and referred to his earlier decision in Bhatti v Canada, 2013 TCC 143, 2013 DTC 1129 [Bhatti], which also involved participation in a scheme promoted by Fiscal Arbitrators.
+[59] In Torres, based on that jurisprudence and the evidence heard in the six appeals before him, at paragraphs 65 and 66, he stated as follows:
+[65] Based on this jurisprudence and the evidence that I have heard in the six Appeals before me, I draw the following principles:
+a) Knowledge of a false statement can be imputed by wilful blindness.
+b) The concept of wilful blindness can be applied to gross negligence penalties pursuant to subsection 163(2) of the Act and it is appropriate to do so in the cases before me.
+c) In determining wilful blindness, consideration must be given to the education and experience of the taxpayer.
+d) To find wilful blindness there must be a need or a suspicion for an inquiry.
+e) Circumstances that would indicate a need for an inquiry prior to filing, or flashing red lights as I called it in the Bhatti decision, include the following:
+i) the magnitude of the advantage or omission;
+ii) the blatantness of the false statement and how readily detectable it is;
+iii) the lack of acknowledgment by the tax preparer who prepared the return in the return itself;
+iv) unusual requests made by the tax preparer;
+v) the tax preparer being previously unknown to the taxpayer;
+vi) incomprehensible explanations by the tax preparer;
+vii) whether others engaged the tax preparer or warned against doing so, or the taxpayer himself or herself expresses concern about telling others.
+f) The final requirement for wilful blindness is that the taxpayer makes no inquiry of the tax preparer to understand the return, nor makes any inquiry of a third party, nor the CRA itself.
+[66] Did the Appellants act with wilful blindness?
+[60] I will consider the factors that were identified by Justice Miller in the analysis in Torres as they pertain to the appellant in appeal. I have already spoken about the education of Anderson and his working experience, which was involved with mechanical things and was often highly repetitive, and in the early years, certainly was relatively menial in nature. However, his last years at CPR involved a serious, responsible job where he oversaw a group of people and he ensured that when the rail cars started to roll again, they were safe and would not cause harm. But he was not an individual who had any academic bent. As he said, he had difficulty with what he called hard mathematics.
+[61] What was the suspicion or need to make an inquiry? Well, what he did was that he relied on the advice he received from his friend who he had known for 25 to 30 years at CPR and who basically worked with him at the shop where he was employed. Bartley advised that there was legally no particular difficulty with Rasool and that all had gone okay and that he had received a refund on his income tax and that the program that Rasool was promoting, whether it was StockLogics that Anderson also participated in or the medical donation program, were in fact legitimate.
+[62] Anderson was present at a meeting and Bartley was there and also his friend, Ed Hale, and those people both invested along with him in the StockLogics program.
+[63] With respect to the fee structure, for the first many, many years, Anderson’s mother did the return, and thereafter, he had another tax preparer, and then Lisa from Lisa’s Tax Services. He cannot recall what he paid but it was not a substantial amount. It was a modest amount. The money that he paid on the StockLogics program was an investment and he received a return that was based on a business loss.
+[64] Another factor to be considered is the anonymity of a tax preparer and a lack of acknowledgment in preparing returns. Well, there was no anonymity here. Rasool was the man up-front who had prepared the returns for other individuals that worked at CPR and had been recommended and, in effect, warrantied or certified to be a legitimate professional with certain qualifications. In total, he probably met Rasool five or six times.
+[65] Anderson noticed that when the return was handed to him at the Tim Hortons, the tax preparer box was not filled out and he grabbed his pen with black ink and he wrote in the name of Muntaz Rasool.
+[66] One of the factors is: was there a blatantly false statement and was it readily detectable? Well, certainly, the monstrous loss that was claimed in the return that arrived at CRA was clearly false and would have been readily detectable had it and other material been in that return at the time when Anderson signed it. I doubt very much whether even the page with his employment numbers and the business loss were in that return at that particular time.
+[67] A factor that was present in Torres and many of these cases is whether the tax preparer makes unusual requests. In this particular instance, it was not Anderson who added the word “Per” before his signature. Anderson went on a website that was provided to him by Rasool and he did not really understand it but it seemed to be about the same as the explanations he had received earlier.
+[68] There is a reference to the appellant’s trust in the tax preparer and any cohort that he may have had in the business. But in this particular instance and perhaps it is fortunate, Rasool disappeared before the typical kind of nonsense responses could be submitted to CRA.
+[69] It is significant to remember again that upon receiving that first letter, even though he was on the way to work, he discussed this with a co-worker and when he came home, he attempted to call CRA and received the response that I have already related.
+[70] As a consequence, he contacted Rasool but at that point in time was only told that Rasool’s organization had retained counsel and that they would deal with CRA and that he was not to worry about it. That basically was the last contact he ever had with Rasool.
+[71] The judgment of Justice Miller in Torres was appealed to the Federal Court of Appeal in a decision reported as Torres v Canada [appeal by Strachan], 2015 FCA 60, 2015 DTC 5044 (FCA). Justice Dawson delivered the oral judgment of the court and, at paragraph 4, stated as follows:
+4. First, as conceded in oral argument by counsel for the appellant, the Judge made no error in articulating the applicable legal test. Gross negligence may be established where a taxpayer is willfully blind to the relevant facts in circumstances where the taxpayer becomes aware of the need for some inquiry but declines to make the inquiry because the taxpayer does not want to know the truth …
+[72] There are the decisions in Canada (Attorney General) v Villeneuve, 2004 FCA 20, 58 DTC 6576 (FCA) and Panini v Canada, 2006 FCA 224, [2006] 5 CTC 12 on that particular point. There are other decisions, including those of my colleague Deputy Judge Masse in the cases of Chartrand v Canada, 2015 TCC 298 and Spurvey v Canada, 2015 TCC 300, in which the same topic was discussed with reference to other cases including Gingras v Canada, 2000 TCJ No. 541 (QL), in which Justice Tardif said:
+19. Relying on an expert or on someone who presents himself as such in no way absolves from responsibility those who certify by their signature that their returns are truthful.
+…
+30. It is the person signing a return of income who is accountable for false information provided in that return, not the agent who completed it, regardless of the agent’s skills or qualifications.
+[73] In the case of DeCosta v Canada, 2005 TCC 545, 2005 DTC 1436, Chief Justice Bowman (as he then was) noted that a person can’t turn a blind eye to the omission of an amount that is twice as much as what was declared and then referred to an attitude that is cavalier and goes beyond simple carelessness. That term basically was used again in other cases along with the language that an individual had recklessly abandoned his responsibilities, duties and obligations under the Act, which is what Justice Bédard referred to in the case of Laplante v Canada, 2008 TCC 335, [2008] TCJ No. 262.
+[74] In Brochu v The Queen, 2011 TCC 75, [2011] 4 CTC 2001, gross negligence penalties were upheld in the case where the taxpayer simply trusted her accountant and stated that everything was fine. She quickly flipped through her return and claimed she did not understand the words “business income” and “credit”, but yet had not asked her accountant or anyone else any questions in order to ensure that her income and expenses were properly accounted for. Justice Favreau of this Court was of the view that the fact that the taxpayer did not think it necessary to become informed amounted to carelessness which constituted gross negligence.
+[75] In the case of Bhatti referred to earlier, Justice Miller pointed out that it is insufficient merely to say that a person didn’t review their returns and blindly trusted affairs to another without even a minimal amount of verifying the correctness of the return goes beyond carelessness.
+[76] Justice Valerie Miller in Janovsky v Canada, 2013 TCC 140, 2013 DTC 1127, dealt with the situation where the appellant did not adequately review his return before he signed it and did not ask any questions. In that case, there was also an examination and analysis of the appellant’s education and magnitude of the false statement.
+[77] Another example is in the case of Atutornu v Canada, 2014 TCC 174, 2014 DTC 1150, where the taxpayer simply blindly relied on the advice of the tax preparer without reading or reviewing the returns or without making effort whatsoever to verify the accuracy of the return.
+[78] Counsel for the respondent stressed the point that Canada utilizes what is commonly referred to as a self-assessing system. That is correct but it is not tantamount to a requirement that there must be perfect or near-perfect compliance with every aspect of the return where there is no intention to cheat or defraud the government or any reasonable capacity to perceive that is taking place. People are human and modern tax systems applicable to three levels of government are complex and changing almost on a yearly basis.
+[79] We are concerned only with federal income tax but the Act becomes more complex each year as new provisions are added to satisfy some special interest group or geographical sector or business activity and there is often the opportunity for certain deductions under particular conditions which are often complex and difficult to comprehend even by professionals working in the tax field.
+[80] Some people purchase software to assist them in preparing a correct return, and not long ago, there were glitches in some of those programs that permitted other income – for example – to be unintentionally omitted.
+[81] Those of us who deal regularly with income tax or business services tax or other forms of taxation must be wary of applying our special knowledge to a situation and to use that as a yardstick by which to judge the conduct of ordinary people who have little or no understanding of the federal income tax system. As a result, they retain the services of tax preparers for reporting income from employment or a small business or accountants with a professional designation for more complex tax returns.
+[82] The overwhelming majority of these individuals provide competent, honest service at a modest fee. But, the complexity of the tax system and the levels of taxation are fodder for the bandits and scam artists to develop a variety of phoney programs and schemes that appear attractive to many people.
+[83] An old case from England reminded the officials of Inland Revenue Service that it was completely permissible to avoid tax but not to evade it. The legitimate tax shelters and other programs assist people to minimize tax in certain years under certain conditions and there are different levels of tax credits depending on the recipient of the donation. It is tempting to want to berate an innocent, unsophisticated taxpayer who was duped by clever, experienced crooks into participating in some scheme that we – as professionals in the field – can identify as nonsense often at first glance.
+[84] Making a mistake and being victimized without knowingly participating or by not acting in a manner where they are content to allow the wool to remain pulled over their eyes permits – in my view – an individual to be regarded as careless, naïve, neglectful or overly-trusting without crossing the line and being assigned to the category of gross negligence due to wilful blindness.
+[85] The duty of a taxpayer is to attempt honestly to provide accurate information to the government about their affairs so that a fair assessment can be issued. But, that duty is not absolute nor does it attract strict liability. There are other penalties that are often imposed pursuant to other provisions of the Act but subsection 163(2) is – for good reason – a different beast and the consequences are harsh if the imposition of that penalty is justified.
+[86] Counsel stressed the need for a taxpayer to do a thorough review of the return prior to signing it even when relying on an expert or purported expert who prepared the return. But, there are numerous parts of a return that have no application to an individual taxpayer.
+[87] In the within appeal, page 11 dealing with an Ontario Foreign Tax Credit and the Ontario Health Premium Chart was of no interest to Anderson nor was the page dealing with Ontario Credits and Senior Homeowner’s Property Tax Grant. He does not own a home. He lives in a house with his friend, the one who inadvertently burned the envelope and contents sent to the appellant by CRA.
+[88] It is not abnormal for any taxpayer to pay attention only to those matters that are relevant to his or her situation in accordance with the information provided to the preparer and the advice and instructions subsequently provided at the time the return is signed.
+[89] That modern philosopher – the late George Carlin – reminded us that one‑half of the world has less than average intelligence.
+[90] These penalty cases are often fact-driven to a large extent and there is a growing body of jurisprudence in this area due in large part to the rise of the various de-tax movements and other assaults on the systems of government by a disorganized group who adhere to a set of bizarre and outlandish nonsense which is rooted in an anti-government posture and a burning desire to rebel against authority.
+[91] These penalty cases are not unlike those involving directors’ liability or unemployment insurance appeals where the judge must decide whether the working relationship was one of contract of service or a contract for service, in other words, employment or independent contractor. Despite elaborate expositions by learned judges of Appellate Divisions of various courts in different countries, it has often been pointed out that there is no escape for the trial judge who must hear the evidence in each instance and apply the jurisprudence accordingly based on findings of fact and assessments of credibility of witnesses.
+[92] In the within appeal, I find the evidence of the appellant to be credible. I also find the testimony of Chris Bartley to be credible concerning his relationship with Rasool and the appellant and it provided an insight into the modus operandi of Rasool who went so far as to produce a business card identifying him as a Certified General Accountant and a Tax Consultant.
+[93] There were no flashing lights or red flags flying in the course of Bartley’s relationship with Rasool and the programs promoted appeared to be reasonable and proper and had produced tax refunds. Rasool had produced glowing letters of reference from prominent Ontario politicians holding high office in relation to the Global Medic Program which was supposedly linked to the one known as Destiny Health and Wellness Foundation that was promoted by Rasool and had registered charitable status.
+[94] The onus is on the Crown to justify the imposition of the penalty pursuant to subsection 163(2) of the Act. Counsel has attempted to discharge that onus, particularly in the course of her vigorous and rational submissions.
+[95] My duty is to make a decision based on my findings based on the facts and to ensure that this conclusion is in harmony with the jurisprudence. I have done the analysis as required by the Torres decision of Mr. Justice Miller.
+[96] That analysis does not lead me to conclude that in this particular instance the conduct of Anderson constituted wilful blindness.
+[97] I have taken all of the evidence into account and I have had the opportunity to review the relevant jurisprudence and conclude the Crown has not discharged its onus, and therefore, the penalty imposed with respect to the appellant’s 2008 taxation year is not justified.
+[98] The appeal is allowed with costs and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the penalty previously imposed under subsection 163(2) of the Act in respect of the appellant’s 2008 taxation year be deleted.
+[99] The appeals for the 2005 and 2007 taxation years are dismissed.
+Signed at Sidney, British Columbia, this 14th day of April 2016.
+“D.W. Rowe”
+Rowe D.J.
+CITATION:
+2016 TCC 93
+COURT FILE NO.:
+2013-691(IT)G
+STYLE OF CAUSE:
+GEORGE ANDERSON and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 3 and 4, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable D.W. Rowe, Deputy Judge
+DATE OF JUDGMENT:
+April 14, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Duane R. Milot
+Counsel for the Respondent:
+Alisa Apostle and Peter Swanstrom
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Duane R. Milot
+Firm:
+Milot Law
+Toronto, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

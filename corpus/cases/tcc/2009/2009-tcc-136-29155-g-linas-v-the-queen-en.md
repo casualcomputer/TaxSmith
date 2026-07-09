@@ -1,0 +1,194 @@
+---
+title: "Gélinas v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29155/index.do"
+last_modified: "2009-03-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 136"
+citation2: ""
+neutral_citation: "2009 TCC 136"
+decision_date: "2009-03-23"
+language: "en"
+item_id: "29155"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6715
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:25:51.156000+00:00"
+cases_cited_count: 2
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c648ebda0dab06a3798c1b74a080e6c9ca00b4ddabdf6d09cbf8232508cc104f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gélinas v. The Queen
+
+- Citation: 2009 TCC 136
+- Decision date: 2009-03-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6715, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gélinas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-23
+Neutral citation
+2009 TCC 136
+File numbers
+2008-1263(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1263(IT)I
+BETWEEN:
+MARCEL GÉLINAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 2, 2009, in Ottawa, Ontario
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Louis Leclair
+Counsel for the Respondent:
+Sara Chaudhary
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made pursuant to the Income Tax Act for the 2002, 2003 and 2004 taxation years is allowed, but only with respect to the scope of the agreement between the parties regarding business expenses, and the assessments are referred back to the Minister of Nation Revenue for reconsideration and reassessment, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of March 2009.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 11th day of May 2009.
+Bella Lewkowicz, Translator
+Citation: 2009 TCC 136
+Date: 20090323
+Docket: 2008-1263(IT)I
+BETWEEN:
+MARCEL GÉLINAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal under the informal procedure from reassessments made by the Minister of National Revenue (the Minister) with respect to the Appellant for the 2002, 2003 and 2004 taxation years. With respect to the reassessment for the 2002 taxation year, the Minister added $24,025 to the Appellant’s income. For this taxation year, the Minister added $22,415 to the Appellant’s income as unreported income pursuant to subsection 9(1) of the Income Tax Act (the Act). In addition, the Minister disallowed $1,610 for the 2002 taxation year, declared by the Appellant as business expenses. The Minister also penalized the Appellant pursuant to section 163(2) of the Act for unreported income of $22,415 for the 2002 taxation year. Specifically, the Minister imposed a penalty of $34.21 for the 2002 taxation year for late filing pursuant to section 163(2) of the Act. In the 2003 reassessment, the Minister added $10,989 to the Appellant’s income. The Minister added $834 to the Appellant’s income for the 2003 taxation year in unreported income pursuant to subsection 9(1) of the Act. In addition, the Minister disallowed $10,155 declared by the Appellant for the 2003 taxation year as business expenses. With respect to the 2004 reassessment, the Minister added $10,204 to the Appellant’s income for the 2004 taxation year. Specifically, the Minster added $7,319 as unreported income to the Appellant’s income for the 2004 taxation year pursuant to subsection 9(1) of the Act. The Minister also penalized the Appellant pursuant to subsection 163(2) of the Act for the $7,319 in unreported income. Finally, the Minister disallowed $2,885 declared by the Appellant as business expenses for the 2004 taxation year.
+[2] I would like to immediately highlight that the parties came to an agreement, during the hearing, with respect to the business expenses declared by the Appellant for the taxation years at issue. The parties agreed that the supplementary expenses of $942, $1,051 and $1,273 were incurred by the Appellant for the purpose of gaining business income for the 2002, 2003 and 2004 taxation years respectively. I would like to also note that the Appellant admitted during the hearing that the Minister was justified in imposing a penalty of $34.21 for the 2002 taxation year for late filing, pursuant to subsection 162(1) of the Act and added to his income the amounts of $22,415, $834 and $7,319 as business income for the 2002, 2003 and 2004 taxation years respectively. As a result, the only question at issue is as follows: was the Minister justified in imposing a penalty on the Appellant pursuant to subsection 163(2) of the Act for unreported income in the amount of $22,415 and $7,319 for the 2002 and 2004 taxation years respectively?
+[3] In making and confirming the assessments for the 2002, 2003 and 2004 taxation years, the Minister relied on the following assumptions of fact which were neither admitted nor denied:
+a) During the taxation years at issue, the Appellant was a financial security advisor (insurance broker) (hereafter the Company);
+b) The Appellant’s Company was established in 1987;
+c) During the years in question, the Appellant was the sole proprietor of his Company;
+d) The Appellant earned commission from various companies that he dealt with;
+e) The Appellant dealt with a general agent (Groupe Langevin) with respect to the administrative tasks for the insurance business;
+f) The Appellant also taught French as a “second language” to public servants;
+g) The accounting and bookkeeping was done by the Appellant;
+h) During the audit, the Appellant said the following:
+i) He reconciled his income and expenses monthly and annually;
+ii) His method for declaring his income consisted of adding the sums on the monthly and annual statements received from third parties and by reconciling the deposits already included in his bank account, as some commissions were directly deposited by debit transactions;
+iii) He was also responsible for depositing the money from his sales;
+iv) He calculated his income and expenses before submitting these totals to his accountant;
+v) The accountant prepared the Appellant’s income tax returns using the totals submitted;
+vi) The accountant did not audit or adjust the numbers submitted by the Appellant;
+i) An audit of the Appellant’s Company was carried out by an auditor for the Minister (the auditor) for the 2002, 2003 and 2004 taxation years;
+j) The auditor audited:
+i) The summaries of expenditures;
+ii) The bank statements and the monthly credit card statements;
+iii) The tax accounts and receipts;
+iv) The sales invoices from the teaching income;
+v) Documentary evidence for the Appellant’s business expenses;
+vi) The monthly and annual statements from third party commission, provided by the Appellant;
+k) The auditor analyzed the bank deposits;
+Unreported income
+l) Following the audit, the auditor determined the Appellant did not declare the following amounts: $22,415, $834 and $7,319 for the 2002, 2003 and 2004 taxation years;
+m) These totals represent commission from insurance companies paid to the Appellant;
+Disallowed business expenses
+n) Within his Company (sales commission) the Appellant rarely met his clients in his home—he met them at his general agent’s office or another office in Hull;
+o) During her audit, the auditor concluded that the amounts of $1,610, $10,155 and $2,885 for the 2002, 2003 and 2004 taxation years (see the details in Annexes I, II and III), were:
+i) The Appellant’s personal expenses;
+ii) Inadmissible expenses;
+iii) Expenses for other taxation years that are not at issue;
+iv) Expenses unsupported by documentary evidence;
+v) Expenses claimed twice;
+vi) Expenses claimed as incorrect expenditure items;
+p) During her audit, the auditor also determined the Appellant had no balance to bring forward for expenses with respect to the part of the personal residence used for business purposes at the end of the 2004 taxation year, (see Annex IV);
+Penalties for late filing
+2002
+q) The Appellant should have filed his income tax return for the 2002 taxation year on or before June 15, 2003;
+r) The Appellant filed his income tax return for the 2002 taxation year on July 3, 2003;
+s) For the late filing of his income tax return for the 2002 taxation year, the Minister penalized the Appellant for late filing pursuant to 162(1) of the Act, in the amount of $34.21.
+Appellant’s testimony
+[4] The Appellant testified that his accountant, Mr. Paquin, prepared his income tax returns for the taxation years at issue. The Appellant explained that Paquin established his gross business income for each of the taxation years (which appear at line 132 of the income tax return) and that, according to the documentation that was submitted to him, the documentation included the monthly statements from insurances companies and his bank statements. I would like to emphasize that, during the initial interview on January 20, 2006, the Appellant declared to Estelle Lavigne (the auditor in charge of the Appellant’s file) that [TRANSLATION]
+“Mr. Paquin did the taxes based on the totals that he was provided and that Paquin did not do any auditing”. The Appellant explained that he checked his income tax return for the 2002 taxation year before signing it. However, the Appellant testified that he did not examine his income tax return for the 2004 taxation year, declaring Paquin submitted it electronically. The Appellant said that, when looking over his income statement for the 2002 taxation year, he noticed his gross business income was not very high. The Appellant explained that he did not really look into the reasons for which his gross income was low because he was sure the amount was accurate because it was calculated by Paquin, an individual who has more expertise than him in financial matters and that he had full confidence in him. By and large, the Appellant tried to absolve himself of his responsibility by pointing the finger at his accountant who allegedly failed to properly add up his business income, even though he had all the required documentation to do the job properly.
+Analysis and conclusion
+[5] Subsection 163(2) of the Act imposes a penalty on all individuals who, knowingly or under circumstances amounting to gross negligence, make a false statement or omission in a return for a taxation year or participate in, assent to or acquiesce to such actions. More specifically, the part of subsection 163(2) of the Act that precedes the manner in which penalties are calculated reads as follows:
+163(2) False statements or omissions
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of: . . .
+Pursuant to subsection 163(3) of the Act, the burden of establishing the facts justifying the imposition of the penalty rests with the Minister and not on the taxpayer. Subsection 163(3) of the Act reads as follows:
+163(3) Burden of proof in respect of penalties
+Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[6] As Justice Dussault said in Prud’homme v. Canada, 2005 TCC 423, at paragraph 47:
+...the facts on which the imposition of a penalty for gross negligence under subsection 163(2) of the Act is based must be analysed having regard to their particular context, which means that drawing a comparison with the facts of another situation would be a purely random exercise, if not patently dangerous.
+[7] The notion of gross negligence that is accepted in case law is the one defined by Justice Strayer in Venne v. Canada (Minister of National Revenue – M.N.R.) (F.C. T.D.), [1984] 4 F.C.J. No. 314:
+…“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. ...
+[8] In DeCosta v. Canada, [2005] T.C.J. No. 396 (T.C.C. Informal Procedure), Chief Justice Bowman made reference to Undell v. M.N.R., [1969] C.T.C. 704, 70 DTC 6019 (Ex. Ct.), and two decisions by Judge Rip (as he was then known) and made the following comments:
+9 I have no difficulty in reconciling the decision of Cattanach J. with those of Rip J. They each depend on a finding of fact by the court with respect to the degree of involvement of the taxpayers. The question in every case is, leaving aside the question of wilfulness, which is not suggested here,
+a) "was the taxpayer negligent in making a misstatement or omission in the return?" and
+b) "was the negligence so great as to justify the use of the somewhat pejorative epithet 'gross'?"
+This is, I believe, consistent with the principle enunciated by Strayer J. in Venne v. The Queen, 84 DTC 6247.
+...
+11 In drawing the line between "ordinary" negligence or neglect and "gross" negligence a number of factors have to be considered. One of course is the magnitude of the omission in relation to the income declared. Another is the opportunity the taxpayer had to detect the error. Another is the taxpayer's education and apparent intelligence. No single factor predominates. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence.
+12 What do we have here? A highly intelligent man who declares $30,000.00 in employment income and fails to declare gross sales of about $134,000.00 and net profits of $54,000.00. While of course his accountant must bear some responsibility I do not think it can be said that the appellant can nonchalantly sign his return and turn a blind eye to the omission of an amount that is almost twice as much as that which he declared. So cavalier an attitude goes beyond simple carelessness.
+[9] The Federal Court of Appeal further specified in Villeneuve v. Canada, 2004 DTC 6077, that the expression “gross negligence” could encompass willful blindness in addition to the intentional action and wrongful intent. In this decision, Justice Létourneau expressed himself in this regard at paragraph 6:
+With respect, I think the judge failed to consider the concept of gross negligence that may result from the wrongdoer's willful blindness. Even a wrongful intent, which often takes the form of knowledge of one or more of the ingredients of the alleged act, may be established through proof of willful blindness. In such cases the wrongdoer, while he may not have actual knowledge of the alleged ingredient, will be deemed to have that knowledge.
+[10] In my opinion, the Appellant committed gross negligence in 2002, regardless of whether or not his accountant omitted or did not account for all his business income for the 2002 taxation year. In my opinion, the Appellant knowingly omitted to declare all his business income in 2002. When the Appellant looked at his income tax return for the 2002 taxation year as prepared by his accountant, he knew, in my opinion, that this statement contained an error, at the very least, with respect to the corporation’s gross income. I do not see how it could be otherwise. The unreported gross business income (of $22,414) was significant (776%) compared to the gross business income declared ($2,887). Moreover, the Appellant was able to recognize his income as he personally went over the income and received the monthly and annual statements, which clearly indicated the commissions that were paid to him. I would like to highlight in this regard that the majority of the unreported income was from commissions paid by insurance companies. The Appellant knew his accounts and registers enough to be able to recognize at a glance that his income tax return for the 2002 taxation year prepared by his accountant contained a significant error with respect to his gross business income. I also recall that the Appellant has been running his insurance company since 1987 and that he took an accounting course. So, who is the Appellant? He a very bright man (who does his own accounting) who declares a gross business income of $2,887 and omits to declare a gross business income of $22,414. Even though his accountant must assume part of the responsibility, I do not think that we can say the Appellant could just sign his return nonchalantly and overlook an amount representing 776% of the amount he declared. So cavalier an attitude goes beyond simple carelessness.
+[11] In my opinion, the Appellant also committed gross negligence in 2004. I am of the opinion that the Appellant’s negligence (based on the fact that he did not check his entire return before his accountant sent it to the Canada Customs and Revenue Agency) was serious enough to justify using the somewhat pejorative epithet “gross”. The Appellant’s attitude was so cavalier that it translates to a complete indifference in terms of respecting the Act. If the Appellant had examined his income tax return for the 2004 taxation year, he would likely have discovered the false statement contained within (a statement which apparently was made by his accountant) in terms of the size of the amounts of unreported income and other factors analyzed above. The Appellant cannot absolve himself of his responsibility by pointing the finger at his accountant. By attempting to absolve himself of all responsibility with respect to his income tax returns, the Appellant is being negligent by ignoring the responsibilities, duties and obligations imposed by the Act. Also, the Act imposes a minimum obligation to the Appellant to check his income tax return for the 2004 taxation year before his accountant sends it in; in addition, a more than cursory glance would have permitted him, in my opinion to find the false statement that his accountant had made.
+[12] For these reasons, the appeal is allowed but only with respect to the scope of the agreement made by the parties with respect to the business expenses.
+Signed at Ottawa, Canada, this 23rd day of March 2009.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 11th day of May 2009.
+Bella Lewkowicz, Translator
+CITATION: 2009 TCC 136
+COURT DOCKET NO.: 2008-1263(IT)I
+STYLE OF CAUSE: MARCEL GÉLINAS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: March 2, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: March 23, 2009
+APPEARANCES:
+Agent for the Appellant:
+Louis Leclair
+Counsel for the Respondent:
+Sara Chaudhary
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

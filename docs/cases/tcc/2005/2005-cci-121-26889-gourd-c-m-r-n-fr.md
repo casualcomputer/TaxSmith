@@ -1,0 +1,252 @@
+---
+title: "Gourd c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26889/index.do"
+last_modified: "2005-02-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 121"
+citation2: ""
+neutral_citation: "2005 CCI 121"
+decision_date: "2005-02-16"
+language: "fr"
+item_id: "26889"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 761
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:14:22.349000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d5a621d169892c94b1bc8105cc7f38237378a52000b7c7ef6205983c5c1e1108"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gourd c. M.R.N.
+
+- Citation: 2005 CCI 121
+- Decision date: 2005-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 761, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gourd c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-16
+Référence neutre
+2005 CCI 121
+Numéro de dossier
+2004-2227(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-2227(EI)
+ENTRE :
+DANIEL GOURD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de Jimmy Morin (2004-2228(EI)), Éric Morin (2004-2230(EI)), Guy Lemay (2004-2232(EI)), Michel Gadoury (2004-2233(EI)), Sylvie Gourd (2004-2236(EI)), Jean-Guy Carrier (2004-2237(EI)) et Patrick Ducharme (2004-2238(EI)),
+le 15 décembre 2004 à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté, la décision rendue par le Ministre et les cotisations sont confirmées selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 16e jour de février 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2005CCI121
+Date : 20050216
+Dossier : 2004-2227(EI)
+ENTRE :
+DANIEL GOURD,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier: 2004-2228(EI)
+JIMMY MORIN
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2004-2230(EI)
+ÉRIC MORIN,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2004-2232(EI)
+GUY LEMAY
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2004-2233(EI)
+MICHEL GADOURY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2004-2236(EI)
+SYLVIE GOURD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2004-2237(EI)
+JEAN-GUY CARRIER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+ET
+Dossier : 2004-2238(EI)
+PATRICK DUCHARME,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Ces appels ont été entendus sur preuve commune à Montréal (Québec), le 15 décembre 2004.
+[2] Il s'agit d'appels portant sur l'assurabilité des emplois de Jimmy Morin, Éric Morin, Guy Lemay, Michael Gadoury, Sylvie Gourd, Jean-Guy Carrier et Patrick Ducharme, les travailleurs, lorsqu'au service de l'appelant Daniel Gourd pendant les années 2002 et 2003.
+[3] Par avis de cotisations datés du 21 mai 2003, le ministre du Revenu national (le « Ministre » ) a cotisé Daniel Gourd, ci-après appelé l'appelant, relativement aux années 2002 et 2003 pour des cotisations impayées d'assurance-emploi, à l'égard, inter alia, des travailleurs ci-haut identifiés.
+[4] Le 3 juin 2003, le payeur a demandé au Ministre de reconsidérer les cotisations imposées dans son avis du 21 mai 2003, mais le Ministre a maintenu ces cotisations.
+[5] En rendant sa décision, le Ministre a déterminé que les travailleurs exerçaient un emploi assurable et que les cotisations d'assurance-emploi étaient payables, et s'est appuyé sur les présomptions de fait suivantes :
+a) l'appelant exploitait une entreprise de signalisation routière sous la raison sociale de Agence de signalisation Lanaudière; (admis)
+b) l'entreprise était exploitée à l'année longue; (à parfaire)
+c) les principaux clients de l'appelant étaient Hydro Québec et Puits Lanaudière; (à parfaire)
+d) l'entreprise employait environ 18 travailleurs; (admis)
+e) les travailleurs assuraient la circulation sur des chantiers affectant des voies de circulation; (admis)
+f) ils travaillaient en équipe de 2 ou 4 travailleurs par chantier; (admis)
+g) les travailleurs étaient équipés de walkies-talkies et ils faisaient circuler les automobiles à tour de rôle; (admis)
+h) les horaires de travail étaient établis par les clients de l'appelant; (admis)
+i) les clients de l'appelant contrôlaient les entrées et les sorties des travailleurs; (admis)
+j) l'appelant fournissait aux travailleurs les walkies-talkies, des vestes de sécurité et des drapeaux; (admis avec précisions)
+k) l'appelant rémunérait les travailleurs à 10,00 $ de l'heure; (admis)
+l) les tâches des travailleurs étaient intégrées à l'entreprise de l'appelant. (admis)
+[6] Il convient de noter, au départ, que l'appelant n'a nié aucune des présomptions de fait du Ministre.
+[7] L'appelant a admis que l'entreprise était exploitée à l'année, en principe, mais non pas à temps plein; tout dépendait des contrats avec les clients. Selon lui, il pouvait se passer plusieurs mois sans qu'il ne reçoive un contrat. L'appelant a reconnu que ses principaux clients étaient Hydro Québec et Puits Lanaudière, mais a précisé que l'entreprise en avait d'autres.
+[8] Il a été établi que parmi les travailleurs, certains d'entre eux, dont Jean-Guy Carrier, possédaient leurs équipements, leurs « walkies-talkies » , leurs vestes de sécurité, etc. Quant aux autres travailleurs, l'appelant leur fournissait le nécessaire.
+[9] La preuve a révélé que l'appelant, voulant travailler comme entrepreneur indépendant et sur l'avis de son comptable, a obtenu du Registraire des entreprises son immatriculation d'entreprise individuelle opérant sous le nom de Agence de signalisation Lanaudière, le 13 mars 2002 (pièce I-1).
+[10] Ainsi immatriculé, l'appelant a offert les services de son entreprise à des sociétés pouvant être intéressées, dont Hydro Québec. Pour l'aider dans ce travail, lorsqu'il obtenait des contrats de certains clients, il recrutait des travailleurs. Ces derniers étaient recrutés à partir de son réseau d'amis et de connaissances et il les embauchait à 10 $ l'heure. L'appelant facturait le client selon un taux horaire et y ajoutait de 5 $ à 6 $ de plus.
+[11] L'appelant a donné une formation de base à ses travailleurs. Le travail n'était pas difficile mais, selon le travailleur Jean-Guy Carrier, il « fallait faire preuve de bon jugement et de courtoisie » . Les travailleurs devaient placer des pancartes le long de la route pour avertir les automobilistes et diriger la circulation routière selon les directives des clients. Les pancartes étaient fournies par le client. Le travail des travailleurs était exécuté sous la surveillance d'un inspecteur du client concerné.
+[12] Les travailleurs étaient payés chaque semaine par l'appelant qui ne prélevait aucune déduction à la source.
+[13] Aux termes de son enquête, le Ministre a déterminé que les travailleurs exerçaient un emploi assurable.
+[14] À l'appui de ses prétentions, l'avocat du Ministre a cité plusieurs arrêts connus. Ceux-ci doivent servir à éclairer cette Cour sur les principes à suivre dans la démarche qui consiste à faire la révision de la décision du Ministre, prise à l'endroit du payeur portant sur l'assurabilité des emplois des travailleurs.
+[15] La Cour Suprême du Canada dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc. [2001] 2 R.C.S. 983 a statué que :
+Aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Il faut toujours déterminer quelle relation globale les parties entretiennent entre elles. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+CONTRÔLE
+[16] Il a été établi que l'appelant a recruté ses travailleurs dans son réseau d'amis et de connaissances et leur a fourni une formation de base. Le travail à exécuter n'était pas difficile et n'exigeait pas une longue période de formation, mais, selon le travailleur Jean-Guy Carrier, il fallait posséder un bon jugement et faire preuve de courtoisie. Puisque le travail n'était pas compliqué, il n'exigeait pas une surveillance étroite. Cependant, les travailleurs étaient supervisés par l'inspecteur du client. C'est le client qui décidait des détails du travail à exécuter. Il donnait ses directives à l'appelant qui, lui, les transmettait aux travailleurs. C'est l'appelant qui embauchait les travailleurs et c'est lui qui les payait.
+PROPRIÉTÉ DES OUTILS
+[17] Certains travailleurs avaient leurs « walkies-talkies » et leurs vestes de sécurité. Quant aux autres travailleurs, le nécessaire leur était fourni par l'appelant ou le client, telles les pancartes.
+CHANCES DE PROFIT ET RISQUES DE PERTE
+[18] L'appelant était responsable pour les travaux. C'est lui qui assurait la gestion, il embauchait et payait les travailleurs et envoyait les factures aux clients. C'était lui le gagnant ou le perdant.
+[19] Les travailleurs n'avaient aucune chance de profit et n'encouraient aucun risque de perte.
+INTÉGRATION
+[20] La preuve a établi que le travail des travailleurs était intégré à l'entreprise de l'appelant. C'est lui, l'appelant, qui est allé chercher son immatriculation et a sollicité des clients. C'est aussi lui qui embauchait et dirigeait les travailleurs. Les travailleurs accomplissaient leurs tâches selon les besoins de l'entreprise de l'appelant. Ils ne travaillaient pas à la pige pour d'autres entreprises. Les travailleurs ne possédaient pas leur propre entreprise.
+[21] L'analyse des faits, en l'espèce, me paraît supporter la notion qu'il existait entre les travailleurs et le payeur un lien de subordination, caractéristique essentielle d'un contrat de louage de services mais la Cour d'appel fédérale, dans l'arrêt Charbonneau c. Canada (ministre du Revenu national - M.R.N.), [1996] A.C.F. no 1337 a mis en garde les tribunaux contre une utilisation mécanique des critères établis comme d'une formule magique. Le juge Décary s'exprimait en ces termes :
+Les critères énoncés par cette Cour dans Wiebe Door Services Ltd. c. M.R.N. [[1986] 3 C.F. 553 (C.A.F.)], à savoir d'une part le degré de contrôle, la propriété des instruments de travail, les chances de bénéfice et les risques de perte et d'autre part l'intégration, ne sont pas les recettes d'une formule magique. Ce sont des points de repère qu'il sera généralement utiles de considérer, mais pas au point de mettre en péril l'objectif ultime de l'exercice qui est de rechercher la relation globale que les parties entretiennent entre elles. Ce qu'il s'agit, toujours, de déterminer, une fois acquise l'existence d'un véritable contrat, c'est s'il y a, entre les parties, un lien de subordination tel qu'il s'agisse d'un contrat de travail (art. 2085 du Code civil du Québec) ou s'il n'y a pas, plutôt, un degré d'autonomie tel qu'il s'agisse d'un contrat d'entreprise ou de service (art. 2098 dudit Code)...
+[22] Quant à l'analyse des données sous le critère du contrôle, la Cour d'appel fédérale a encore une fois voulu mettre en garde contre une utilisation trop libérale. Le juge Pratte a statué ce qui suit, dans l'arrêt Gallant c. M.R.N. (C.A.F.), [1986] A.C.F. no 330 :
+[...] Quant au premier motif, il nous semble basé sur l'idée fausse qu'il ne peut y avoir de contrat de louage de services à moins que l'employeur n'exerce en fait un contrôle étroit sur la façon dont l'employé exécute son travail. Ce qui est la marque du louage de services, ce n'est pas le contrôle que l'employeur exerce effectivement sur son employé, c'est plutôt le pouvoir que possède l'employeur de contrôler la façon dont l'employé exécute ses fonctions...
+[23] Cette Cour reconnaît que plusieurs initiatives déployées par l'appelant, avec l'assentiment des travailleurs, visaient à établir une relation d'affaire entre les parties selon laquelle les travailleurs auraient exercé leur travail comme entrepreneurs ou travailleurs autonomes. Ceci a amené la Cour d'appel fédérale à statuer cette mise en garde sous la plume du juge Stone dans l'arrêt Standing c. Canada (ministre du Revenu national - M.R.N.), [1992] A.C.F. no 890 qui écrivait ce qui suit :
+[...] Peu importe l'appréciation, par la Cour de l'impôt, du critère énoncé dans l'arrêt Wiebe Door, l'essentiel, tout compte fait, c'est que les parties elles-mêmes ont ensuite qualifié leur relation d'employeur-employé. Rien dans la jurisprudence ne permet d'avancer l'existence d'une telle relation du simple fait que les parties ont choisi de la définir ainsi sans égards aux circonstances entourantes appréciées en fonction du critère de l'arrêt Wiebe Door.
+[24] À l'audition, l'avocat du Ministre a porté à l'attention de cette Cour qu'aucune des présomptions du Ministre n'a été niée par l'appelant ou par les travailleurs.
+[25] À ce propos, il convient de rappeler la consigne établie par la Cour d'appel fédérale dans l'arrêt Elia c. Canada (ministre du Revenu national - M.R.N.), [1998] A.C.F. no 316 où le juge Pratte s'exprimait ainsi :
+Le juge, contrairement à ce qu'il a cru, aurait donc pu intervenir et aurait dû intervenir si, comme il l'a affirmé, la preuve révélait que la décision du Ministre était déraisonnable. Mais cette affirmation du juge nous paraît, elle aussi, inexacte et fondée sur une erreur de droit puisque le juge n'a pas tenu compte de la règle bien établie selon laquelle les allégations de la réponse à l'avis d'appel, où le Ministre énonce les faits sur lesquels il a fondé sa décision, doivent être tenus pour avérés aussi longtemps que l'appelant n'en a pas prouvé la fausseté.
+[26] Les faits, en l'espèce, analysés à la lumière de la jurisprudence précitée, appuient la notion que les travailleurs occupaient un emploi assurable puisqu'ils exerçaient un emploi en vertu d'un contrat de louage de services.
+[27] Il convient maintenant d'examiner la façon dont cette situation a été traitée par le législateur. Voici les extraits pertinents :
+EMPLOI ASSURABLE
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière.
+CHAPITRE SEPTIÈME
+DU CONTRAT DE TRAVAIL
+Art. 2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+Art. 2087. L'employeur, outre qu'il est tenu de permettre l'exécution de la prestation de travail convenue et de payer la rémunération fixée, doit prendre les mesures appropriées à la nature du travail, en vue de protéger la santé, la sécurité et la dignité du salarié.
+CHAPITRE HUITIÈME
+DU CONTRAT D'ENTREPRISE OU
+DE SERVICE
+Art. 2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+Art. 2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+LOI SUR L'ASSURANCE-EMPLOI
+Paiement des cotisations
+82.(1) L'employeur qui paie une rétribution à une personne exerçant à son service un emploi assurable est tenu de retenir sur cette rétribution, au titre de la cotisation ouvrière payable par cet assuré en vertu de l'article 67 pour toute période à l'égard de laquelle cette rétribution est payée, un montant déterminé conformément à une mesure d'ordre réglementaire et de le verser au receveur général avec la cotisation patronale correspondante payable en vertu de l'article 68, au moment et de la manière prévus par règlement.
+LOI SUR L'ASSURANCE-EMPLOI
+Versements excédentaires et remboursements
+95. La retenue faite, au cours d'une année, au titre de la cotisation ouvrière d'une personne sur la partie de sa rémunération assurable qui excède le maximum de la rémunération annuelle assurable constitue pour elle un versement excédentaire.
+96. (2) Lorsque la totalité ou une partie d'une cotisation a été retenue sur la rétribution d'une personne au cours d'une année ou versée par un employeur pour une personne exerçant un emploi à son service au cours d'une année et que, par décision rendue au titre de l'article 91, 92, ou 103, il est statué que la somme ainsi retenue ou versée dépasse celle à retenir ou à verser -- ou n'aurait pas dû être retenue ou versée --, le ministre doit, si cette personne ou l'employeur le lui demande par écrit au plus tard trente jours après avoir reçu communication de la décision, rembourser l'excédent - ou la somme - ainsi retenu ou versé.
+96. (4) Lorsque la rémunération assurable d'un assuré ne dépasse pas 2 000 $ au cours d'une année, l'ensemble de toutes les retenues faites par un ou plusieurs employeurs sur cette rémunération au titre des cotisations ouvrières de l'année doivent lui être remboursées par le ministre.
+[28] La lecture de ces textes législatifs sert à supporter la conclusion du Ministre que les emplois des travailleurs étaient assurables.
+[29] Pour tous ces motifs, les appels sont rejetés et les décisions et les cotisations du Ministre sont confirmées.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 16e jour de février 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI121
+No DU DOSSIER DE LA COUR :
+2004-2227(EI), 2004-2228(EI), 2004-2230(EI), 2004-2232(EI), 2004-2233(EI), 2004-2236(EI), 2004-2237(EI) et 2004-2238(EI)
+INTITULÉ DE LA CAUSE :
+Daniel Gourd et M.R.N.
+Jimmy Morin et M.R.N.
+Éric Morin et M.R.N.
+Guy Lemay et M.R.N.
+Michel Gadoury et M.R.N.
+Sylvie Gourd et M.R.N.
+Jean-Guy Carrier et M.R.N.
+Patrick Ducharme et M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 15 décembre 2005
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie, juge suppléant
+DATE DU JUGEMENT :
+Le 16 février 2005
+COMPARUTIONS :
+Pour les appelants Daniel Gourd, Jean-Guy Carrier et Patrick Ducharme :
+Les appelants eux-mêmes
+Pour les appelants Jimmy Morin, Éric Morin, Guy Lemay, Michel Gadoury, Sylvie Gourd
+Personne n'a comparu
+Pour l'intimé :
+Me Simon Petit
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour les appelants :
+Nom :
+Étude :
+Pour l'intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

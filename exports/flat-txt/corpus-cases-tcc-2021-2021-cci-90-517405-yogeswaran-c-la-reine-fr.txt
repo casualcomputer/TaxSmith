@@ -1,0 +1,151 @@
+Title: Yogeswaran c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/517405/index.do
+Corpus path: corpus/cases/tcc/2021/2021-cci-90-517405-yogeswaran-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2021-12-07
+
+# Yogeswaran c. La Reine
+
+- Citation: 2021 CCI 90
+- Decision date: 2021-12-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4425, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yogeswaran c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-12-07
+Référence neutre
+2021 CCI 90
+Numéro de dossier
+2017-630(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-630(IT)I
+ENTRE :
+GOWRY YOGESWARAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 septembre 2021 à Toronto (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocats de l’intimée :
+Me Desmond Jung
+Me Tony C. Cheung
+JUGEMENT
+Conformément aux motifs de jugement joints, l’appel interjeté par l’appelante sera accueilli, sans dépens, et la nouvelle cotisation portée en appel pour son année d’imposition 2011 sera renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, au motif que 50 % des frais de téléphone cellulaire totalisant 760,39 $ et que 50 % des frais d’Internet totalisant 421,43 $ doivent être acceptés comme dépenses d’entreprises admissibles.
+Signé à Halifax, Nouvelle-Écosse, ce 7e jour de décembre 2021.
+« B. Russell »
+Le juge Russell
+Référence : 2021 CCI 90
+Date : 20211207
+Dossier : 2017-630(IT)I
+ENTRE :
+GOWRY YOGESWARAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+I. Introduction :
+[1] L’appelante, Mme Gowry Yogeswaran (GY), interjette appel de la nouvelle cotisation établie à son égard par le ministre du Revenu national (le ministre) le 21 juillet 2014, pour l’année d’imposition 2011, aux termes de la Loi de l’impôt sur le revenu fédérale (la Loi). Son appel porte sur le rejet par le ministre des dépenses d’entreprise déclarées.
+[2] La nouvelle cotisation établie le 21 juillet 2014 et portée en appel indique un revenu d’entreprise brut de 62 075 $ et des dépenses d’entreprise admises de 11 021 $, par rapport aux dépenses d’entreprise déclarées de 60 509 $. GY considère que des dépenses d’entreprise déductibles supplémentaires auraient dû lui être accordées, d’où le présent appel.
+II. Question en litige
+[3] La question est de savoir si pour son année d’imposition 2011, GY avait le droit de déduire des dépenses d’entreprises supplémentaires.
+III. Éléments de preuve/Analyse
+[4] À l’audience, seule GY a témoigné. Elle a affirmé qu’en 2011, elle a ouvert une entreprise vendant des produits d’assurance, en plus d’occuper un poste à temps plein dans une société d’assurances. Elle n’a pas fourni de détails concernant l’exploitation de sa nouvelle entreprise. Elle a embauché un préparateur de déclarations de revenus pour préparer sa déclaration 2011. GY a affirmé qu’en 2011, la première année d’exploitation de son entreprise, elle avait peu d’expérience sur la manière de demander la déduction de dépenses d’entreprise.
+[5] GY, qui se représentait elle-même à l’audience, a présenté peu de nouveaux éléments de preuve qui n’avaient pas été déjà présentés au ministre. Elle a généralement parlé dans son témoignage de plusieurs catégories de dépenses d’entreprise que le ministre avait refusées. Elle a principalement affirmé qu’elle n’aurait pas pu gagner un revenu d’entreprise brut aussi substantiel sans engager des dépenses d’entreprise plus élevées que celles acceptées par le ministre.
+[6] Pour trancher le présent appel, il convient de garder à l’esprit un principe de base des différends en matière de fiscalité : chacune des hypothèses de fait invoquées dans la réponse de l’intimée est réputée vraie, sauf si l’appelant établit au moins une preuve prima facie réfutant cette hypothèse.
+A. Frais de repas et de divertissement
+[7] En ce qui concerne la catégorie des [traduction] « frais de repas et de divertissement » de GY, l’intimée a produit ce que GY avait précédemment présenté au ministre, soit environ 104 reçus pour 2011 pour un total de 3 170 $, provenant principalement de commerces de restauration rapide et de cafés-restaurants situés à l’intérieur de la région géographique de GY, en plus de cinq reçus pour un total de 372 $ pour du divertissement. Toutefois, rien n’avait été écrit ou autrement ajouté sur ces reçus, à l’époque ou non, pour indiquer pour chaque reçu qui avait consommé la nourriture ou la boisson achetée et dans quel but commercial. GY n’a pas non plus été en mesure de produire un agenda quotidien ou hebdomadaire ou une liste de clients qui aurait pu aider à établir ces renseignements. Aujourd’hui, en 2021, c’est sans surprise que GY ne peut fournir de détails précis sur ces reçus, pour indiquer qui a consommé la nourriture ou la boisson achetée et dans quel but commercial.
+[8] GY a affirmé qu’elle sait aujourd’hui que ces reçus sont liés à ses activités commerciales de 2011, principalement parce qu’en 2011 elle a conservé ensemble tous ces reçus pour les besoins de sa déclaration fiscale.
+[9] L’avocat de l’intimée a renvoyé à la décision Ng v. Her Majesty, 99 DTC 208 (CCI), par. 12, où le juge Mogan a reproché au contribuable en l’espèce de ne pas avoir écrit sur chaque reçu de dépense les détails commerciaux pertinents de la transaction visée. La déduction de ces dépenses a donc été refusée. J’établis une distinction avec cette décision, au motif que le juge Mogan a conclu que ce contribuable était un [traduction] « homme d’affaires averti ». Ce n’est pas le cas de GY, pour qui 2011 a constitué sa première année d’exploitation d’une nouvelle entreprise.
+[10] Dans sa réponse, l’intimée a avancé à titre d’hypothèses (par. 12(i), (j) et (k)) que GY avait uniquement engagé des frais de repas et de divertissement de 81,71 $, et que si l’appelante a engagé les autres dépenses de repas et de divertissement déclarées de 4 698,29 $, ces dépenses étaient personnelles (et non commerciales).
+[11] Je conclus à contrecœur que GY n’a pas présenté une preuve prima facie réfutant l’une ou l’autre des hypothèses du ministre concernant la catégorie de dépenses « frais de repas et de divertissement ». Elle a été incapable de donner des détails précis concernant ces reçus, ou de démontrer dans une certaine mesure un objet commercial à ces dépenses déclarées, à part répéter simplement les mêmes arguments. GY n’a présenté aucun élément de preuve – de vive voix ou par écrit – permettant de déterminer le lien entre l’un ou l’autre de ces reçus et l’entreprise. Je doute un peu que certains si ce n’est un bon nombre de ces reçus attestent de dépenses d’entreprise déductibles, mais malheureusement, on ne m’a pas présenté suffisamment d’éléments de preuve pour les reconnaître.
+B. Dépenses de fournitures
+[12] GY a réclamé des dépenses d’entreprise de 4 600 $ pour la catégorie de dépenses [traduction] « fournitures », pour lesquelles le ministre n’a admis qu’une somme de 41,52 $. GY a reconnu que cette somme était « un arrondi » et que son préparateur de déclarations de revenus avait peut-être ajouté quelque chose au montant de la dépense réelle, elle ne savait pas. Elle a aussi affirmé que certains reçus avaient été perdus et que d’autres fournitures avaient été payées en espèces sans qu’un reçu ne soit produit. Des dépenses de 475 $ pour un ordinateur portable et de 186 $ pour un téléphone cellulaire ont été incluses dans cette catégorie. Ces deux dépenses ont été refusées, au motif qu’il s’agissait d’immobilisations. Aucune déduction pour amortissement n’a été demandée. Concernant trois achats supposés totalisant 1 451 $, GY n’a pu déterminer ce qui avait été acheté. GY ne disposait d’aucun élément de preuve précis appuyant toute autre dépense de fournitures que n’avait pas déjà acceptée le ministre.
+[13] Les hypothèses du ministre applicables ont été présentées aux par. 12 (q), (r), (s) et (t) de sa réponse, et indiquaient que GY n’avait pas acheté les fournitures dans un but commercial, sauf celles de 41,52 $ déjà reconnues par le ministre.
+[14] Je ne peux conclure que GY a présenté une quelconque preuve prima facie réfutant l’une ou l’autre des hypothèses du ministre. Aucun élément de preuve précis n’a été déposé indiquant que le ministre a fait une erreur dans son évaluation.
+C. Dépenses de salaires et avantages sociaux
+[15] GY a également déclaré une dépense d’entreprise pour [traduction] « salaire ou traitement » de 5 800 $, salaire qui selon ses affirmations a été versé à sa fille adolescente au fil du temps, pour son assistance avec les [traduction] « appels de sollicitation à froid » et l’organisation du travail de bureau. GY a affirmé qu’elle versait de 150 $ à 200 $ à sa fille toutes les deux semaines. (Je souligne qu’un salaire de 200 $ toutes les deux semaines équivaudrait à un salaire de 5 200 $ par année – soit une somme très inférieure à la somme demandée de 5 800 $.) Elle a affirmé dans son témoignage que les sommes étaient versées en espèces, et sans reçus. Sa fille fréquentait l’école, et son travail était principalement effectué durant les fins de semaine. Aucun compte n’a été fait du nombre d’heures qu’elle a travaillées. La jeune fille n’a pas été appelée à témoigner. GY a fait référence à son [traduction] « gars des impôts » pour justifier le montant des dépenses réclamées. On peut se demander dans quelle mesure des appels de sollicitation à froid faits durant les fins de semaine seraient bien reçus, et à quel point la jeune fille aurait pu être qualifiée pour faire un argumentaire de vente d’assurances lors d’un appel de sollicitation fait durant la fin de semaine.
+[16] De plus, les hypothèses du ministre (réponse, par. 12(v) à (z)) comprenaient plus précisément deux énoncés, soit que l’appelante avait délivré un feuillet T5018 (État des paiements contractuels) pour un salaire de 5 800 $ supposément versé à sa fille en 2011, et que l’Agence du revenu du Canada n’avait jamais reçu ce feuillet T5018. On a également émis l’hypothèse que la jeune fille n’avait pas produit de déclaration de revenus en 2011, et que cette somme de 5 800 $ n’avait pas été versée à la jeune fille. L’avocat de l’intimée a affirmé que ces versements, s’ils ont été faits, représentaient des versements d’une allocation d’un parent à un enfant adolescent.
+[17] GY n’a présenté aucun élément de preuve convaincant pouvant réfuter les hypothèses du ministre. Si GY avait tenu un registre des paiements faits, ou des heures travaillées par sa fille, et si sa fille avait témoigné, GY aurait vraisemblablement aidé sa cause. Mais rien de cela n’a été fait en l’espèce. En l’espèce, les éléments de preuve se résumaient à des affirmations faites par GY selon lesquelles des versements (elle n’était pas certaine du montant de ces versements) avaient été faits, sans document écrit ou témoignage corroborant appuyant ces versements.
+[18] Étant donné les circonstances, la déduction demandée pour des dépenses de salaire et traitement est refusée.
+D. Frais de téléphone et de services publics
+[19] La déduction de dépenses d’entreprises pour [traduction] « téléphone et services publics » a également été demandée. La pièce R-4 indique une déduction totale de 4 228 $ pour le service de câblodistribution (3 046,14 $), le téléphone (760,39 $) et l’Internet (421,23 $). GY a rapidement reconnu qu’il n’y avait aucun fondement commercial justifiant la déduction de dépenses de câblodistribution, et elle a affirmé qu’elle ne savait pas pourquoi son préparateur de déclarations de revenus avait inclus cette dépense dans sa déclaration de revenus de 2011.
+[20] Le téléphone en question était le téléphone cellulaire de GY. Elle a affirmé qu’environ la moitié de l’usage du téléphone cellulaire était à des fins commerciales. Elle a indiqué qu’au cours des dernières années, le ministre avait accepté une répartition 50/50 entre l’usage de son téléphone cellulaire à des fins personnels et l’usage à des fins professionnelles.
+[21] La déduction pour service public concernait son service Internet. GY a affirmé dans son témoignage que l’utilisation des logiciels des sociétés d’assurance nécessitait un service Internet. Une fois encore, aucune ventilation ne permettait de déterminer le montant réel du service Internet sur la facture mensuelle. GY a affirmé qu’une répartition de 50 % constituerait une répartition juste concernant l’usage du service Internet et de son téléphone cellulaire à des fins commerciales. Elle a affirmé qu’elle possédait un registre téléphonique, mais qu’elle ne l’avait pas apporté.
+[22] Cette déduction a été étayée par les relevés bancaires mensuels de GY pour 2011, montrant divers paiements pour des factures de « téléphone », et corroborée par diverses factures de Bell Mobility, incluses dans la pièce R-4. Tous les paiements inclus dans la somme réclamée de 760,39 $ pour le téléphone et de 421,43 $ pour le service Internet figuraient sur les factures de Bell Mobility fournies par GY. Seuls les paiements pour le téléphone et Internet figuraient sur ces factures de Bell Mobility; les paiements pour le service de câblodistribution n’y figuraient pas. Il est donc possible d’établir une distinction entre les paiements pour le service de câblodistribution et les paiements des factures de « téléphone » (téléphone cellulaire et Internet) figurant sur les relevés bancaires.
+[23] Les hypothèses du ministre, présentées au par. 12(dd) et (ee) de la réponse, indiquent que la dépense de 2 880 $ n’a pas été engagée pour le téléphone et les services publics, et que les frais mensuels de base pour cette catégorie de dépenses étaient des frais personnels plutôt que commerciaux.
+[24] À mon avis, GY a établi une preuve prima facie lui donnant droit à une déduction de 50 % du total des frais pour le téléphone cellulaire, qui s’élèvent à 760,39 $ et de 50 % du total des frais pour le service Internet, qui s’élèvent à 421,43 $. J’accepte le témoignage de GY selon lequel l’usage qu’elle a fait de chacun des services à des fins commerciales représente environ 50 % de l’usage total. Aucun élément de preuve n’a été déposé pour réfuter le témoignage de GY mentionné ci-dessus. (Je souligne que ce témoignage ne précise pas le bien-fondé de la dépense de 2 880 $ à laquelle renvoient les hypothèses du ministre.)
+E. Frais de véhicule à moteur
+[25] Au départ, GY avait réclamé 27 213 $ pour la catégorie de dépenses [traduction] « frais de véhicule à moteur », pour lesquels le ministre n’a admis que 1 869 $. Le ministre a conclu que son utilisation d’un véhicule à des fins commerciales s’élevait à 25 % de l’usage total. GY avait un registre (pièce A-2, [traduction] « Détails des déplacements à des fins commerciales pour 2011 ») concernant les déplacements à des fins commerciales indiquant les dates de déplacement pour 2011, les kilomètres par déplacement (s’élevant au total à 10 225 pour l’année), les destinations et l’objet commercial.
+[26] Elle n’avait pas de reçus pour la plupart des dépenses déclarées de 7 880 $ pour des [traduction] « frais de réparation et d’entretien », incluses dans la dépense totale concernant l’usage d’un véhicule à moteur. Elle a affirmé que certains travaux de réparation et d’entretien avaient été payés en espèces et qu’aucun reçu n’avait été délivré.
+[27] Elle a par la suite présenté au ministre une demande révisée pour des frais de réparation et d’entretien de 3 236 $ (soit moins de la moitié des dépenses de 7 880 $ réclamées à l’origine).
+[28] Cette somme réduite inclut la somme arrondie de 1 500 $, décrite comme un paiement à Costco pour des pneus d’hiver pour sa Toyota Venza, avec le commentaire suivant : [traduction] « Pas de reçu, perdu quelque part ». (Pièce R-5). Elle n’a fourni aucune explication quant au fait qu’un reçu de remplacement n’avait pas été demandé.
+[29] Quelques-uns des reçus pour d’autres frais en lien avec la déduction réduite posaient également problème. Un reçu de 39,55 $ datait de 2010. Un autre de 51,36 $ datait de 2013. Un autre de 39,55 $ (une fois encore) datait du 18 octobre 2012. Une autre facture, de 61,23 $, est datée du 5 avril 2012. Il y a également deux reçus génériques (le nom du garage n’est pas indiqué, les signatures sont indéchiffrables et les reçus ont vraisemblablement été écrits de la même main), l’un affichant la somme arrondie de 420 $ censée représenter l’achat de [traduction] « pneus d’hiver (payés en espèces) » est daté du 16 novembre 2011, alors que l’autre où figure une somme de 316 $ pour des [traduction] « freins (payés en espèces) » est daté du 20 avril 2011.
+[30] Une déduction pour une dépense d’assurance pour un véhicule a été refusée, en raison de l’absence de tout document à l’appui délivré par une société d’assurance.
+[31] GY a affirmé que l’usage à des fins commerciales des deux véhicules en cause représentait 90 % de l’usage total. Cet estimé est le sien, et il n’est corroboré par aucune explication ni aucun calcul.
+[32] Le ministre a calculé que selon les frais de carburant déduits, s’élevant à 3 673 $, le nombre total de kilomètres parcourus pour l’année 2011 serait d’environ 39 809. Ce nombre est environ quatre fois supérieur à la distance totale de déplacement à des fins commerciales de 10 225 kilomètres indiquée dans le registre mentionné ci-dessus. Par conséquent, le ministre a conclu que la distance parcourue à des fins commerciales représentait 25 % de la distance totale parcourue.
+[33] L’intimée n’a appelé aucun témoin pour expliquer davantage son hypothèse. Toutefois, GY n’a pas non plus réussi à établir une preuve prima facie réfutant cette hypothèse. Même si elle a affirmé qu’en général, plus de 25 % de la distance parcourue l’avait été à des fins commerciales, le ministre a utilisé les éléments de preuve qu’elle a produits (registre de la distance parcourue à des fins commerciales et total des frais de carburant) pour conclure que la distance parcourue à des fins commerciales représentait 25 % de la distance totale parcourue.
+[34] Des [traduction] « paiements de location » d’une voiture totalisant 5 750 $ ont été déduits pour l’un des deux véhicules en cause. Toutefois, GY a reconnu qu’elle n’avait pas loué le véhicule en question; il a plutôt été acheté. La déduction demandée était basée sur deux [traduction] « acomptes » totalisant 3 700 $, plus quatre paiements mensuels de 554 $ chacun (pièce R‑7), pour un total de 5 916 $, soit une somme légèrement supérieure à la déduction demandée. Ces paiements mensuels étaient uniquement corroborés par des relevés bancaires, qui n’indiquaient pas le nom du destinataire réel. La totalité de la déduction de 5 750 $ a été refusée. GY n’a fourni aucune ventilation détaillant les intérêts versés par rapport au capital.
+[35] Je conclus que GY n’a pas réussi à établir une preuve prima facie réfutant les hypothèses du ministre (réponse, par. 12(hh) à (rr)) concernant la nouvelle cotisation établie pour cette catégorie de dépenses.
+F. Droits de péage pour l’autoroute 407
+[36] La déduction de droits de péage pour l’autoroute 407, totalisant 2 800 $ (une autre « somme arrondie »), a été demandée. GY a affirmé dans son témoignage qu’elle avait payé ces droits pour elle-même et pour son mari. Mais les déplacements de son mari à des fins professionnelles n’avaient rien à voir avec son entreprise. GY ne pouvait fournir un état détaillé des paiements faits pour son mari et pour elle. Le ministre a accepté une déduction de 637 $, fondée sur le total des reçus fournis. Le reste de la déduction demandée (2 163 $) a été refusée.
+[37] Je souligne que l’hypothèse pertinente du ministre, au par. 12(oo) de la réponse, est ainsi libellée : [traduction] « les droits de péage pour l’autoroute 407 versés pour le conjoint, de 636,77 $, ne constituaient pas des dépenses commerciales pour l’appelante pour l’année d’imposition 2011 ». Cette hypothèse contredit ce que le ministre a fait en réalité, en portant la déduction de 637,77 $ au crédit de GY, et non de son conjoint. Cet écart apparent n’a pas été souligné à l’audience. J’ai conclu qu’en raison de l’absence d’éléments de preuve appuyant toute autre solution, je laisse telle quelle la déduction indiquée dans la cotisation. Porter au crédit du conjoint la déduction de 636,77 $, conformément à l’hypothèse, ne rend pas impossible – si ce n’est improbable – que GY ait le droit à la même déduction des frais de péage pour l’autoroute 407 à titre de dépense commerciale déductible.
+G. Frais d’utilisation de la résidence à des fins commerciales
+[38] GY a également demandé la déduction des frais d’utilisation de la résidence à des fins commerciales, totalisant 11 965 $. Le ministre a admis une somme de 1 873 $. Le ministre a refusé en entier la portion du principal de 18 000 $ des frais d’hypothèque déduits, alors qu’il a admis les frais d’intérêt sur l’hypothèque de 9 660 $. La déduction demandée par GY de 11 200 $ pour l’entretien de la résidence (rénovation du sous-sol ainsi que des armoires et du comptoir de la cuisine), sans reçus justifiant la dépense, a été entièrement refusée. De tels travaux ne pourraient avoir un lien avec le bureau à domicile lui-même (une chambre d’amis).
+[39] Le ministre a évalué que l’usage des lieux à des fins personnelles s’élevait à 90 % de l’usage total, et non à 71,5 % selon la déduction demandée. GY n’a pas fourni d’éléments de preuve, ni avant ni pendant l’audience, quant à la mesure de la superficie totale des lieux et de la superficie totale de la chambre d’amis à l’étage, qui selon ce qu’elle a affirmé dans son témoignage, avait été exclusivement utilisée pour l’entreprise. En outre, aucun élément de preuve n’a été produit pour appuyer les dépenses réclamées, y compris le chauffage des lieux (une somme 7 660 $ a été demandée, alors que seule la somme de 3 732 $ a été admise). Il convient également de souligner qu’une déduction de 540 $ a été demandée pour les frais d’assurance, alors qu’une déduction plus élevée, de 784 $, a été admise. La presque totalité de la déduction demandée de 4 650 $ pour l’impôt foncier a été admise. Le pourcentage admis de 10 % concernant l’utilisation de la résidence à des fins commerciales a été appliqué à ces dépenses admissibles.
+[40] Je ne vois aucune raison de conclure que l’une ou l’autre des hypothèses sous-jacentes du ministre, présentées aux par. 12(xx) à (ccc) de la réponse, ont été réfutées par une preuve prima facie présentée par GY. Aucune preuve de ce genre n’a été produite.
+IV. Conclusion
+[41] Le présent appel sera donc accueilli, sans dépens, et la nouvelle cotisation portée en appel sera renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, au motif que 50 % des frais de téléphone cellulaire totalisant 760,39 $ et que 50 % des frais d’Internet totalisant 421,43 $ doivent être acceptés comme dépenses d’entreprises admissibles.
+[42] Enfin, j’encourage en tout respect le ministre à accueillir favorablement toute demande que GY (qui se représente elle-même dans le présent appel entendu selon la procédure informelle) pourrait présenter ou a déjà présentée aux termes du paragraphe 220(3.1) de la Loi pour obtenir l’annulation en tout ou en partie des intérêts payables relativement à son année d’imposition 2011. Toute demande de GY en vue d’obtenir l’annulation des intérêts doit être présentée avant le 31 décembre 2021, conformément au paragraphe 220(3.1), soit 10 ans après la fin de l’année d’imposition 2011.
+Signé à Halifax, Nouvelle-Écosse, ce 7e jour de décembre 2021.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2021 CCI 90
+NO DU DOSSIER DE LA COUR :
+2017-630(IT)I
+INTITULÉ :
+GOWRY YOGESWARAN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 14 septembre 2021
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 7 décembre 2021
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocats de l’intimée :
+Me Desmond Jung
+Me Tony C. Cheung
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Me François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada

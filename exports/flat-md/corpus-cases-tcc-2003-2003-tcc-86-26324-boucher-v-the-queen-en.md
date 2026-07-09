@@ -1,0 +1,169 @@
+---
+title: "Boucher v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26324/index.do"
+last_modified: "2003-02-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 86"
+citation2: ""
+neutral_citation: "2003 TCC 86"
+decision_date: "2003-02-27"
+language: "en"
+item_id: "26324"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3271
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:29:42.089000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fd14062070275c547a883c9d483b4d325e5177a2ee4bfedeecd22b0e664a9558"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boucher v. The Queen
+
+- Citation: 2003 TCC 86
+- Decision date: 2003-02-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3271, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boucher v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-27
+Neutral citation
+2003 TCC 86
+File numbers
+2000-4106(IT)G
+Judges and Taxing Officers
+Gordon Teskey
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-4106(IT)G
+BETWEEN:
+MARIE-CLAUDE BOUCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 23, 2002 at Victoria, British Columbia
+Before: The Honourable Judge Gordon Teskey
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+David Chodikoff
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1990 taxation year is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 27th day of February 2003.
+"Gordon Teskey"
+J.T.C.C.
+Citation: 2003TCC86
+Date: 20030227
+Docket: 2000-4106(IT)G
+BETWEEN:
+MARIE-CLAUDE BOUCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Teskey, J.
+[1] The Appellant appeals her 1990 assessment of income tax.
+Issue
+[2] The only issue is whether the usual source deductions were withheld by W.C.I. Wood Conversion Inc. ("Wood") from sums of money paid to the Appellant totalling $213,022.
+Facts
+[3] During the period January 1, 1990 to December 18, 1990, the Appellant was the manager of Wood and she was in charge of payroll deductions.
+[4] Wood at the time had 11 employees that were paid on an hourly basis and three senior personnel, one being the Appellant, who were paid on the basis of bonuses based on profitability.
+[5] The Appellant alleged that "she made the source deductions for all employees and remitted the deductions for the hourly paid employees, but did not remit for the three bonus employees because this was the first year and the bonuses would have to be readjusted at the end of the year" when the profit was determined.
+[6] The Appellant filed her T1 tax return for 1990 in April of 1991, together with a letter addressed to Revenue Canada.
+[7] The T1 tax return claims that the Appellant received in 1990 dividends from a Canadian corporation of $266,340 on line 120, and interest on line 121 of $3,586.84 and she claimed a $40,010.45 refund.
+[8] The letter alleges that the Appellant was an employee and a 50 percent shareholder of Wood and since her former partner failed to close on a buy/sell agreement she had left the company.
+[9] She further claimed that she received a T4 in the amount of $7,721.28 relating to personal use of a company car, which should not be taxable in her hands.
+[10] She also notes that the company issued a T4A for $213,072. She claims this amount represents "my share of the profits taken during the year". Then, she states that it should have been reported on a T5 as dividend income and she has included this $213,072 as dividend income on Schedule 5.
+[11] The Appellant entered as an exhibit Reasons for Judgement of Ferrier J. of the Ontario Superior Court in an action by the Appellant as plaintiff against John Kennedy and Wood as defendants who both counterclaimed against the Appellant and a company that she incorporated.
+[12] The trial lasted some 12 days.
+[13] Under the heading "Background", Ferrier J. states that Kennedy is married to the Appellant's sister, Lisette, thus making the Appellant Kennedy's sister-in-law.
+[14] Ferrier J. found that the Appellant, a lawyer, was a stockbroker having worked for Burns Fry in Toronto since 1984 and she left under a severe cloud. He found that in the period of October 1987 to April 1988, the Appellant had made numerous unauthorized trades, signed client signatures to documents and falsified account slips. She also attempted to falsify her identify to Richard Pyne and participated in a tax fraud, allocating a fictional loss to the account of a client who had not in fact suffered a loss.
+[15] Ferrier J. summarized her background on page 7 of his Reasons as follows:
+Following her call to the bar in Manitoba in 1973, Boucher practised for one year in a commercial practice and then spent about four years working for the Federal Government, working on commercial matters. Over the next few years she worked as a consultant for the Magna Corporation, assisted Richard Pyne from time to time and continued to act as a consultant for Magna while she was a broker with Burns Fry.
+[16] What Ferrier J. omitted therefrom or was not advised of, was the fact that during the first two years after graduation, the Appellant was working for the Department of National Revenue, her time was spent drafting income tax legislation.
+[17] Under the heading "WHETHER AND TO WHAT EXTENT BOUCHER WAS A SHAREHOLDING OR OTHER INTEREST IN WOOD", Ferrier J. found that there was no shareholder's agreement but an oral understanding that the Appellant would be a 49 percent shareholder with Kennedy who had 51 percent. The Appellant was to put in part of a $40,000 tax refund as part of the purchase price.
+[18] Ferrier J. found that the $40,000 contribution by the Appellant was a requirement of her becoming a shareholder, as had been agreed upon in May of 1989 and that it was never paid and that the Appellant never became a shareholder. Ferrier J. did not accept the Appellant's testimony or her allegation that she was entitled to a $40,000 tax refund.
+[19] Ferrier J. also found that by October 1990, the relationship between Kennedy and the Appellant had deteriorated to the point where Kennedy wanted the Appellant disassociated with Wood.
+[20] Ferrier J, said on pages 15 and 16 of his Reasons:
+Further, Boucher abused her signing authority in her capacity as plant manager by paying the down payment on a personal automobile with company funds and purchasing a sailboat with company funds, without approval or prior consultation with Kennedy. Further, in order to avoid the $5,000 limit on her signing authority, she wrote two cheques for the sailboat, totalling $7,500. This latter incident is but one of several examples of Boucher ignoring rules or obligations to do what pleases her. Despite her responsibility to manage the company, she deliberately failed to make remittances to the Department of National Revenue for taxes withheld at source. She breached labour regulations by failing to pay employees for overtime wages and when she ultimately did so late in her life with the company, she attempted to extract and in at least one case did extract a return payment from the employees of 50% of their overtime wage.
+In addition, she ran an unacceptably large petty cash account and used it frequently for personal purchases.
+[21] Under the heading "CONTEMPT", Ferrier J. found that the Appellant knowingly and repeatedly did not comply with a Court injunction over a two-year period and fined her $30,000 for contempt.
+[22] Under the heading "QUANTUM MERUIT", Ferrier J. found that the Appellant did have a quantum meruit claim and went on to say:
+As to the amount to which Boucher might be entitled, Boucher's counsel argues that she should receive 50 percent of the profit above what Boucher and Kennedy withdrew, with a reduction of $20,000 to reflect the month of December, 1990, at which point Boucher was no longer involved in the company. The amount submitted by Boucher's counsel is the sum of $150,000.
+That approach in quantifying the amount is not unreasonable but it fails to take account of three elements. The first is that Kennedy had spent a significant amount of time developing the project in its conceptual stages and in laying the groundwork through contact with various agencies including the Municipality of Peel. In short, Boucher should not share equally, or even close to equally, to take account of her involvement during the period June of 1988 to November of 1990. Secondly, the action of Boucher in causing the cancellation of the NRC grant, thereby depriving the company of $92,000, must be accounted for in any quantum meruit claim. Thirdly, she has already received for her efforts, approximately $220,000.
+I am satisfied that Boucher has already been amply compensated for her contributions. Accordingly, the claim on the basis of quantum meruit is dismissed.
+[23] Thus, Ferrier J. determined that the $220,000 was the total compensation for the year 1990 that the Appellant was entitled to receive. The Appellant stated that the source deduction money was being withheld but not remitted and she said by way of explanation:
+Because in the first year we weren't sure whether or not - because it was the first year of the company we didn't know what the profitability would be, and these bonuses, these draws, were being based on the profitability of the company.
+[24] In re-direct, the Appellant consulted a ledger and said:
+... My partner and I, Mr. Kennedy, took draws regularly from a period starting - I'll just make sure here. From a period beginning July 24, 1989, to October 3, 1990. And the draws were in the form of 5,000, 5,000, 5,000, 18,000, 6,200, 5,000, 5,000, 34,000. So, up until - I had drawn by the time I left - the ledger shows that I had drawn $250,659. And his ledger shows he had draw $261,723. And the ...
+Analysis
+[25] I find that the Appellant will say under oath whatever she believes will help her appeal. She swore that she filed her T1 tax return according to the T4A that she had. Obviously, this is wrong. This amount is not shown in her T1 tax return for 1990 and in fact her letter to Revenue Canada filed with the return specifically claims that it should be a T5 as divided income. She took her drawings of $213,072 and grossed it up by 25 percent, namely $53,268, making a total of $266,340, which is what was declared in her T1 tax return for 1990.
+[26] Although Ferrier J. said:
+Despite her responsibility to manage the Company, she deliberately failed to make remittances to the deposits for National Revenue for taxes withheld at source.
+[27] The Appellant uses this sentence to substantiate her statement that she withheld the source deductions. I cannot accept this position. I believe Ferrier J.was referring to the hourly paid employees. Also, when the Appellant referred to a ledger which was not entered as an exhibit, she was able to recite all the draws. The journal would have shown the source deductions if the income tax had been deducted. Furthermore, Ferrier J. when dealing with the Appellant's quantum meruit claim, stated that she had received approximately $220,000 and found that was ample compensation for her contribution. If the corporate books had shown source deductions having been deducted, he would have had to deal with a much larger figure. Thus Ferrier J. determined that the Appellant's total compensation for the year 1990 was the draws that she had received and nothing more. Therefore, the Appellant's total income from Woods for 1990 was $213,072 and nothing more.
+[28] I am satisfied that both Kennedy and the Appellant were taking these draws and at the year end were going to sit down and decide how the corporation would characterize these payments. This procedure is normal practice in a small closely held corporation. Unfortunately the Appellant parted company with Wood and Kennedy before the year-end.
+[29] I find that no money was set aside as source deductions for the Appellant's draws, as at that time the Appellant was claiming they were dividends, and I reject the Appellant's statement that there was. When she filed her T1 tax return for 1990, she showed the draws as dividends and, in a written submission to Revenue Canada, she stated that she should have received a T5 dividend statement for the $213,072.
+[30] Normally this would conclude my reasons and the appeal would be dismissed, with costs. However, the Appellant asks the Court to raise the assessment to $414,617, which increases the appealed assessment by $201,545 and that I should direct the Minister of National Revenue to provide to the Appellant a credit of $201,545.
+[31] When I questioned the Appellant on the basis that if I should decide that a direction by me to the Minister to give the Appellant the claimed credit was beyond the Court's jurisdiction, the Appellant stated she wanted the assessment raised in any event.
+[32] I then asked for written argument to be submitted as to whether the Court could raise an assessment on request, and if so, was there jurisdiction to direct the Minister to issue a credit for source deductions found to have been or should have been withheld. I have now received the written submissions of both parties.
+[34] In view of my above findings, these issues addressed in the written arguments are moot and, therefore, I will not comment on them.
+[35] The appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 28th day of February 2003.
+"Gordon Teskey"
+J.T.C.C.
+CITATION:
+2003TCC86
+COURT FILE NO.:
+2000-4106(IT)G
+STYLE OF CAUSE:
+Marie-Claude Boucher and The Queen
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+September 22, 2002
+REASONS FOR JUDGMENT BY:
+The Hon. Judge Gordon Teskey
+DATE OF JUDGMENT:
+February 28, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+David Chodikoff
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

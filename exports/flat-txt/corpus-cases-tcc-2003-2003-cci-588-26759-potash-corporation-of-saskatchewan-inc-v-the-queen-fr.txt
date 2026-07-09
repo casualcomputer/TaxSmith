@@ -1,0 +1,260 @@
+Title: Potash Corporation of Saskatchewan Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26759/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-588-26759-potash-corporation-of-saskatchewan-inc-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-08-26
+
+# Potash Corporation of Saskatchewan Inc. v. The Queen
+
+- Citation: 2003 CCI 588
+- Decision date: 2003-08-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3505, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Potash Corporation of Saskatchewan Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-26
+Référence neutre
+2003 CCI 588
+Numéro de dossier
+1999-5096(IT)G
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 1999-5096(IT)G
+ENTRE :
+POTASH CORPORATION OF SASKATCHEWAN INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 24 février 2003 à Ottawa (Ontario),
+Par : L'honorable juge M. A. Mogan
+Comparutions
+Avocats de l'appelante :
+Me Guy Du Pont et
+Me Hugo Gravel
+Avocats de l'intimée :
+Me Wendy Burnham et Me Ifeanyi Nwachukwu
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l'appelante pour jugement en vertu de l'article 170.1 des Règles de la Cour canadienne de l'impôt (procédure générale) portant sur la question découlant de l'alinéa 12(1)x);
+Après avoir pris connaissance de la déclaration sous serment de Hugo Gravel, des parties de la transcription de l'interrogatoire préalable de Janet Catherine Reinhart effectué par l'appelante et des actes de procédures déposés;
+Après avoir entendu les avocats des parties;
+La Cour ordonne que la requête pour jugement en vertu de l'article 170.1 des Règles soit rejetée et que les dépens soient payables sans délai à l'intimée, quelle que soit l'issue de la cause.
+Signé à Charlottetown (Île-du-Prince-Édouard), ce 26e jour d'août 2003.
+« M. A. Mogan »
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Crystal Lefebvre, traductrice
+Dossier : 2000-1280(IT)G
+ENTRE :
+SASKTERRA FERTILIZERS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 24 février 2003 à Ottawa (Ontario)
+Par : L'honorable juge M. A. Mogan
+Comparutions
+Avocats de l'appelante :
+Me Guy Du Pont et
+Me Hugo Gravel
+Avocats de l'intimée :
+Me Wendy Burnham et Me Ifeanyi Nwachukwu
+___________________________________________________________________
+ORDONNANCE
+Vu la requête de l'appelante pour jugement en vertu de l'article 170.1 des Règles de la Cour canadienne de l'impôt (procédure générale) portant sur la question découlant de l'alinéa 12(1)x);
+Après avoir pris connaissance de la déclaration sous serment de Hugo Gravel, des parties de la transcription de l'interrogatoire préalable de Janet Catherine Reinhart effectué par l'appelante et des actes de procédures déposés;
+Après avoir entendu les avocats des parties;
+La Cour ordonne que la requête pour jugement en vertu de l'article 170.1 des Règles soit rejetée.
+Signé à Charlottetown (Île-du-Prince-Édouard), ce 26e jour d'août 2003.
+« M. A. Mogan »
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Crystal Lefebvre, traductrice
+Référence : 2003CCI588
+Date : 20030826
+Dossier : 1999-5096(IT)G
+ENTRE :
+POTASH CORPORATION OF SASKATCHEWAN INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2000-1280(IT)G
+ET ENTRE :
+SASKTERRA FERTILIZERS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Mogan
+[1] Les appelantes dans les intitulés de la cause sont liées entre elles de la façon suivante. Pendant toutes les périodes pertinentes, avant le 31 août 1995, les actions émises de Saskterra Fertilizers Ltd. ( « Saskterra » ) étaient détenues par Potash Corporation of Saskatchewan Inc. ( « PCS » ). Le 31 août 1995, Saskterra a été intégrée par liquidation à sa corporation mère, PCS. Après que certaines cotisations ont été établies par le ministre du Revenu national agissant par l'intermédiaire de l'Agence des douanes et du revenu du Canada ( « ADRC » , anciennement appelée « Revenu Canada » ), Saskterra a été reconstituée en société le 16 novembre 1999 ou vers cette date.
+[2] Pendant toutes les périodes pertinentes, tant Saskterra que PCS possédaient et exploitaient des biens visant la production de potasse (notamment des mines et des usines de concentration) dans la province de la Saskatchewan. La loi The Mineral Taxation Act,(loi portant sur l'imposition sur les minéraux), 1983, S.S. 1983-1984, c. M-17.1 et le Regulation 6 (règlement 6) de l'annexe intitulée « The Potash Production Tax Schedule » (annexe portant sur la taxe à la production de potasse), R.R.S. c. M-17.1 (le « Règlement » ) prévoient l'imposition sur les ventes de potasse sous deux volets : un paiement de base et un impôt sur bénéfices. Compte tenu de certaines déductions demandées par Saskterra et PCS en vertu de la MTA et du Règlement dans le calcul du revenu de Saskterra et de PCS, l'ADRC a inclus certains montants qu'elle croit devoir être inclus selon l'alinéa 12(1)x) de la Loi de l'impôt sur le revenu.
+[3] La Cour a été saisie d'une requête commune qu'ont présentée Saskterra et PCS et qui est résumée de façon excellente dans un extrait de l'Avis de requête lui-même :
+[TRADUCTION]
+AVIS DE REQUÊTE POUR JUGEMENT FONDÉ SUR UN AVEU EN VERTU DE
+L'ARTICLE 170.1 DES
+RÈGLES DE LA COUR CANADIENNE DE L'IMPÔT,
+DORS/90-688, MODIFIÉES
+SACHEZ QUE Potash Corporation of Saskatchewan Inc ( « PCS » ) et Saskterra Fertilizers Ltd. ( « Saskterra » ) (collectivement les « appelantes » ) présenteront une requête à la Cour le 24 février 2003 à 9 h 30, ou dès que de telles requêtes pourront être entendues par la suite, à Ottawa.
+LA REQUÊTE VISE :
+a) à obtenir un jugement qui, fondé sur les aveux découverts pendant l'interrogatoire préalable de Janet Catherine Reinhard ( « JCR » ), une représentante de l'intimée, admet en partie les appels interjetés, par les appelantes, à l'encontre des nouvelles cotisations établies par l'Agence des douanes et du revenu du Canada ( « ADRC » ) à l'égard de PCS pour les années d'imposition de 1993 à 1996 et à l'égard de Saskterra pour l'année d'imposition 1995 et à l'encontre de la détermination de pertes constatées par l'ADRC relativement à Saskterra pour l'année d'imposition 1993, au motif qu'aucun des montants déduits dans le calcul des bénéfices ou de l'impôt sur les bénéfices des appelantes, en vertu de la loi The Mineral Taxation Act, 1983, ch. M-17.1, S. Sask., 1983-1984, modifiée (la « M.T.A. » ) ne doivent être inclus dans leurs revenus pour l'une ou l'autre des années d'imposition pertinentes en vertu de l'alinéa 12(1)x) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), modifiée (la « L.I.R. » ).
+b) [...]
+c) toute autre ordonnance que la Cour peut, compte tenu des circonstances, juger être juste et équitable d'ordonner;
+d) les dépens de ces requêtes selon une échelle que la Cour estime juste mais, qui se limiterait à une seule adjudication des dépens.
+LES MOTIFS À L'APPUI DE LA REQUÊTE SONT LES SUIVANTS :
+a) la seule applicabilité de l'alinéa 12(1)x) est indiquée dans le texte d'introduction du paragraphe 12(1) de la L.I.R., qui prévoit que sont à inclure dans le calcul du revenu tiré par un contribuable d'une entreprise celles des sommes suivantes (lesquelles comprennent l'alinéa x)) qui sont applicables. L'alinéa 12(1)x) n'autorise donc pas l'établissement d'une cotisation relative à un montant qui n'est autrement pas taxable, à moins que ce montant ne soit décrit à l'alinéa 12(1)x);
+b) comme cela a été révélé par l'interrogatoire préalable de l'intimée effectué par les appelantes, il n'existe pas de preuve prima facie pour appuyer les nouvelles cotisations, lesquelles sont censément établies en vertu de l'alinéa 12(1)x), parce que les montants faisant l'objet de ces nouvelles cotisations ne sont pas visés par l'alinéa 12(1)x);
+c) en outre, les appelantes n'ont pas réussi à découvrir et l'intimée ne leur a pas révélé sur quelles conclusions de fait et quelle décision portant sur un point de droit elle s'est fondée pour décider que l'alinéa 12(1)x) justifiait les nouvelles cotisations en litige lorsque ce dernier n'avait pas cet effet par l'application directe de son libellé. Puisque les renseignements ne sont pas communiqués, les appelantes ne sont pas en mesure de déterminer quelle position elles devraient adopter;
+d) par conséquent, les appelantes ont droit à un jugement qui admet cette partie des appels.
+[4] Le redressement demandé par les appelantes est basé sur l'article 170.1 des Règles de la Cour canadienne de l'impôt (procédure générale) :
+170.1 Une partie peut, à tout stade d'une procédure, et ce, sans attendre qu'il soit statué sur tout autre point litigieux entre les parties, demander :
+a) qu'il soit rendu jugement sur toute question, par suite d'un aveu fait dans les actes de procédure ou d'autres documents déposés à la Cour, ou fait au cours de l'interrogatoire d'une autre partie;
+b) qu'il soit rendu jugement sur toute question à l'égard de laquelle la preuve n'a été faite qu'au moyen de documents et des déclarations sous serment qui sont nécessaires pour prouver la signature ou l'authenticité de ces documents.
+L'avocat des appelantes a déclaré clairement, dans sa plaidoirie, qu'il se fondait uniquement sur l'alinéa a) de l'article 170.1 et principalement sur les aveux obtenus lors de l'interrogatoire préalable de Janet Catherine Reinhart, une représentante de l'intimée.
+[5] Il est nécessaire de connaître de quelle façon, en partie, la province de la Saskatchewan établit les impôts à l'égard des sociétés qui exploitent l'entreprise d'exploitation minière de potasse afin de comprendre les aveux présentés par Mme Reinhart dans le cadre des questions soulevées dans les actes de procédure. Je me fonderai sur les notes aux fins de la plaidoirie de l'avocat des appelantes (Me Du Pont) afin de résumer ce qu'il présente comme les dispositions pertinentes (des parties des articles 4, 6, 7, 19 et 20) de l'annexe intitulée « The Potash Production Tax Schedule » laquelle constitue la troisième annexe de la loi The Mineral Taxation Act. Ces parties des articles 4, 6, 7, 19 et 20 sont importantes pour la requête des appelantes.
+A. Résumé de certaines dispositions législatives de la Saskatchewan portant sur l'imposition des minéraux sur lesquelles les appelantes se sont fondées
+[TRADUCTION]
+4. Les taxes à la production de minéraux imposées sur les ventes ou d'autres actes d'aliénation de potasse par la présente Loi consistent en :
+a) un paiement de base calculé conformément à l'article 5;
+b) un impôt sur les bénéfices calculé conformément à l'article 6.
+À l'article 4, le [TRADUCTION] « paiement de base » de l'alinéa a) est semblable à un impôt minimum parce qu'il ne se détermine pas en fonction d'un profit. L' « impôt sur les bénéfices » de l'alinéa b) est semblable à un impôt sur le revenu parce qu'il se détermine, d'une part, en fonction d'un taux d'imposition appliqué aux bénéfices d'une année, tel que cela est énoncé à l'article 6.
+[Traduction]
+6(1) L'impôt sur les bénéfices pour une année représente le montant égal à la différence entre :
+a) le total des produits :
+(i) des bénéfices de l'année, déterminés conformément aux règlements dans chacun des créneaux de profits qui sont :
+(A) prescrits par l'alinéa 11c),
+(B) exprimés en dollars par tonne de potasse vendue ou autrement aliénée;
+(ii) le taux d'imposition prévu pour chacun des créneaux de profits;
+et
+b) le total de toute déduction, toute indemnité et tout crédit pertinent qui est :
+(i) prescrit;
+(ii) ou prévu par la présente annexe.
+Dans la plupart des lois fiscales, on détermine la responsabilité fiscale en appliquant simplement un taux ou un pourcentage à un montant qui pourrait représenter les bénéfices, les ventes, les frais ou un revenu personnel. Selon mon expérience, le paragraphe 6(1) est inhabituel parce qu'il détermine la responsabilité fiscale, d'abord, selon l'alinéa a), en appliquant un certain taux d'imposition à chacun des créneaux de profits et, par la suite, selon l'alinéa b), en soustrayant le total des indemnités, des déductions et des crédits prescrits. En d'autres termes, la taxe nette du paragraphe 6(1) n'est pas déterminée en appliquant simplement un taux ou un pourcentage à un montant particulier. Dans le calcul de l'impôt, ce sont des montants réels qui sont déduits.
+[Traduction]
+7(2) Sous réserve du paragraphe (3), en déterminant les bénéfices conformément au paragraphe (1), les indemnités, les dépenses et les déductions suivantes peuvent être prises en considération :
+a) [...]
+m) les frais de commercialisation autorisés et engagés par le producteur pour l'année;
+n) [...]
+o) les frais de recherche et de développement autorisés donnant droit à un crédit et engagés par le producteur pour l'année;
+Les alinéas 7(2)m) et o) constituent des dépenses et des frais législatifs que l'on s'attendrait à pouvoir déduire dans le calcul des bénéfices.
+[Traduction]
+19(1) Aux fins de l'alinéa 6(1)b) de l'annexe, en calculant l'impôt sur les bénéfices d'une année, il est permis de déduire les montants suivants :
+a) [...]
+b) un montant ne dépassant pas 40 p. 100 des frais de commercialisation autorisés qui;
+(i) sont engagés durant l'année par le producteur,
+(ii) n'ont pas été déduits par le producteur lors de la détermination de ses bénéfices de l'année,
+c) un montant ne dépassant pas 40 p. 100 des frais de recherche et de développement autorisés qui;
+(i) sont engagés durant l'année par le producteur,
+(ii) n'ont pas été déduits par le producteur lors de la détermination de ses bénéfices de l'année,
+d) [...]
+Il convient de noter que les montants indiqués aux alinéas 7(2)m) et o) sont principalement déductibles lors de la détermination des bénéfices mais, selon le paragraphe 19(1), jusqu'à 40 p. 100 de ces mêmes montants (non déduits lors de la détermination des bénéfices) sont déductibles dans le calcul de l'impôt sur les bénéfices conformément à l'article 6. Si je comprends bien l'application de ces articles, lors de la détermination des bénéfices de l'année I, si la société a engagé durant l'année I des frais énoncés à l'alinéa 7(2)m) d'un montant de 1 000 000 $, cette dernière pourrait, en vertu des paragraphes 7(1) et 7(2), déduire 700 000 $ de ces frais et elle pourrait également, en vertu des alinéas 19(1)b) et 6(1)b), déduire 40 p. 100 du 300 000 $ qui reste dans le calcul de l'impôt sur les bénéfices pour l'année I.
+[Traduction]
+20(1) Si le total des déductions d'un producteur selon les alinéas 19(1)b) et c) pour toute année dépasse le montant calculé conformément à l'alinéa 6(1)a) de l'annexe de l'année, l'excédant peut être reporté et déduit, par le producteur, du montant, le cas échéant, du paiement de base qui serait autrement payable par ce dernier dans les mois suivant la réception par le ministre de la déclaration mentionnée à l'article 25.
+Cela semble être une formule de report prospectif qui prévoit que, si les montants déductibles en vertu des alinéas 19(1)b) et c) dépassent l'élément positif du calcul de l'impôt sur les bénéfices de l'alinéa 6(1)a), l'excédant peut être reporté et déduit du [TRADUCTION] « paiement de base » qui serait autrement payable à une période future. Les appelantes soutiennent que, puisqu'il est déduit du paiement de base « qui serait autrement payable » , cela constitue un véritable crédit d'impôt (distinct du montant déductible dans le calcul de l'impôt).
+B. Les actes de procédure et l'alinéa 12(1)x)
+[6] En pratique, les actes de procédure de l'appel interjeté par Potash Corporation of Saskatchewan Inc., ( « PCS » ) sont les mêmes que ceux de l'appel interjeté par Saskterra Fertilizers Ltd., ( « Saskterra » ). Le paragraphe 7 de l'Avis d'appel correspond essentiellement au paragraphe 6 de l'Avis d'appel modifié de PCS. Dans ces paragraphes, les appelantes présentent deux allégations fondamentales : en premier lieu, l'ADRC a inclus, aux fins de l'impôt fédéral sur le revenu, dans un revenu de société, certains montants que les deux sociétés respectives avaient déduits, conformément à la loi « The Mineral Taxation Act » de la Saskatchewan, dans le calcul des bénéfices, de l'impôt sur les bénéfices ou des paiements de base, le cas échéant. En deuxième lieu, l'ADRC a inclus les mêmes montants dans le revenu de société, conformément à l'alinéa 12(1)x) de la Loi de l'impôt sur le revenu. Dans la réponse à chaque Avis d'appel, l'intimée admet ou confirme les déductions résumées ci-dessus.
+[7] Les montants ne sont pas en litige. Selon les actes de procédure, l'ADRC s'est servie de l'alinéa 12(1)x) de la Loi de l'impôt sur le revenu pour inclure les montants suivants dans le calcul du revenu pour les années énoncées ci-dessous (il existait une détermination d'une perte pour Saskterra pour l'année 1993) :
+PCS
+1993
+821 094 $
+1994
+674 816 $
+1995
+1 221 846 $
+1996
+1 085 267 $
+Saskterra
+1993
+194 913 $
+1995
+404 710 $
+[8] L'alinéa 12(1)x) de la Loi de l'impôt sur le revenu est important parce que l'ADRC soutient que les montants indiqués au paragraphe 7 ci-dessus représentent des montants visés par certains termes contenus dans l'alinéa 12(1)x). Les parties pertinentes de l'alinéa 12(1)x) sont reproduites ci-dessous :
+12(1) Sont à inclure dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien, au cours d'une année d'imposition, celles des sommes suivantes qui sont applicables :
+a) [...]
+x) un montant (à l'exclusion d'un montant prescrit) reçu par le contribuable au cours de l'année pendant qu'il tirait un revenu d'une entreprise ou d'un bien :
+(i) soit d'une personne ou d'une société de personnes (appelée « débiteur » au présent alinéa) qui paie le montant, selon le cas :
+(A) en vue de tirer un revenu d'une entreprise ou d'un bien,
+(B) en vue d'obtenir un avantage pour elle-même ou pour des personnes avec qui elle a un lien de dépendance,
+(C) dans des circonstances où il est raisonnable de conclure qu'elle n'aurait pas payé le montant si elle n'avait pas reçu des montants d'un débiteur, d'un gouvernement, d'une municipalité ou d'une autre administration visés au présent sous-alinéa ou au sous-alinéa (ii),
+(ii) soit d'un gouvernement, d'une municipalité ou d'une autre administration,
+s'il est raisonnable de considérer le montant comme reçu :
+(iii) soit à titre de paiement incitatif, sous forme de prime, de subvention, de prêt à remboursement conditionnel, de déduction de l'impôt ou d'indemnité, ou sous toute autre forme,
+(iv) soit à titre de remboursement, de contribution ou d'indemnité ou à titre d'aide, sous forme de prime, de subvention, de prêt à remboursement conditionnel, de déduction de l'impôt ou d'indemnité, ou sous toute autre forme, à l'égard, selon le cas :
+(A) d'une somme incluse dans le coût d'un bien ou déduite au titre de ce coût,
+(B) d'une dépense engagée ou effectuée,
+dans la mesure où le montant, selon le cas :
+(v) [...]
+[9] Dans la réponse de l'intimée à l'Avis d'appel de Saskterra, on y trouve les énoncés suivants :
+[Traduction]
+7e) Les montants au titre desquels l'impôt est dû en vertu de la MTA ont été réduits et constituent des montants reçus à titre de paiement indicatif, de remboursement, de contribution ou d'indemnité ou à titre d'aide, sous forme de prime, de subvention, de prêt à remboursement conditionnel, de déduction de l'impôt ou d'indemnité, ou sous toute autre forme;
+10. [...] dans la détermination de l'impôt en vertu de la MTA pour l'année pertinente, le ministre a convenablement inclus les réductions déduites par les appelantes dans leur revenu pour chacune des années en litige, [...] Il a indiqué que lesdites réductions constituent des montants reçus par l'appelante en vue de tirer un revenu d'une entreprise ou d'un bien provenant du gouvernement à titre d'un paiement indicatif, de remboursement, de contribution ou d'indemnité ou à titre d'aide, sous forme de prime, de subvention, de prêt à remboursement conditionnel, de déduction de l'impôt ou d'indemnité, ou sous toute autre forme au sens de l'alinéa 12(1)x) de la Loi.
+Les mêmes énoncés se trouvent dans la Réponse à l'avis d'appel modifié de PCS. On peut facilement identifier certains termes utilisés dans chacun des paragraphes de la réponse qui ont été tirés directement des sous-alinéas 12(1)x)(iii) et (iv).
+C. Analyse
+[10] Dans le reste des motifs, je vais examiner la requête présentée par Saskterra (numéro du greffe 2000-1280(IT)G), comme si Saskterra était la seule requérante de la présente requête, mais toutes mes conclusions s'appliqueront également à PCS (numéro du greffe 1999-5096(IT)G) en tant qu'autre requérante de la présente requête.
+[11] Bien que l'article 170.1 des Règles soit reproduit au paragraphe 4 ci-dessus, pour raison de commodité, je répèterai les passages pertinents :
+170.1 Une partie peut, à tout stade d'une procédure, et ce, sans attendre qu'il soit statué sur tout autre point litigieux entre les parties, demander :
+a) qu'il soit rendu jugement sur toute question, par suite d'un aveu fait dans les actes de procédure ou d'autres documents déposés à la Cour, ou fait au cours de l'interrogatoire d'une autre partie;
+b) ...
+La présente requête vise un jugement portant sur la question de savoir si le ministre du Revenu national peut se servir de l'alinéa 12(1)x) de la Loi de l'impôt sur le revenu pour inclure certains montants dans le calcul du revenu de Saskterra, lesquels ont été déduits par cette dernière dans de divers calculs effectués selon la Mineral Taxation Legislation de la Saskatchewan. La présente requête vise un jugement fondé sur les aveux présentés dans le cadre des actes de procédure et de l'interrogatoire préalable de Janet Catherine Reinhart, une représentante autorisée de l'intimée. L'avocat de l'appelante, lors de sa plaidoirie, s'est fondé sur quatre aveux précis de l'intimée. J'examinerai ces aveux dans le même ordre qu'ils se trouvent dans les notes aux fins de la plaidoirie.
+[12] Premier aveu. Les montants ne sont pas en litige. Cela a été confirmé par les avocats de l'intimée à la question 9 de l'interrogatoire préalable de Mme Reinhart. De même, le paragraphe 7 de l'Avis d'appel de Saskterra établit les montants ajoutés au revenu en vertu de l'alinéa 12(1)x) et le paragraphe 7 est admis dans la réponse.
+[13] Deuxième aveu. La Réponse à l'avis d'appel énonce les [TRADUCTION] « faits sur lesquels elle se fonde pour appuyer les cotisations visées par l'appel » . L'appelante se fonde sur le premier engagement de l'intimée relatif au présent aveu, mais l'engagement énonce que [TRADUCTION] « la Réponse à l'avis d'appel reflète convenablement la position du ministre » . Il existe une différence entre l'aveu que l'appelante croit avoir obtenu et la déclaration présentée en vue de satisfaire au premier engagement de l'intimée.
+[14] Troisième aveu. PCS avait le choix de déduire les « coûts d'approbation » à titre d'une déduction dans le calcul soit des bénéfices, soit de l'impôt sur les bénéfices. À l'appui du présent aveu, l'appelante se fonde sur la question 145 posée lors de l'interrogatoire préalable de Mme Reinhart. Afin de comprendre le contexte de la question 145, je reproduirai les questions 142 à 146 inclusivement :
+[TRADUCTION]
+142 Q. Mme Reinhart, connaissez-vous bien la façon dont l'impôt sur les minéraux de la Saskatchewan s'applique?
+R. Oui, un peu.
+143 Q. Vous avez étudié la façon dont les formulaires et la Loi s'appliquent?
+R. Oui, j'ai examiné le formulaire.
+144 Q. Pourriez-vous me dire de façon générale ce que vous comprenez?
+R. En ce qui concerne ce litige?
+145 Q. Oui, évidemment ce litige.
+R. Je crois comprendre que le contribuable peut choisir, à l'égard de ces coûts de marketing et des dépenses de R-D, ces types précis d'articles qui sont admissibles, et prendre soit un crédit d'impôt de 40 p. 100 sur les impôts dus à titre de taxe à la production de potasse, soit une déduction dans le calcul des bénéfices qui sont assujettis à l'impôt, taux de l'impôt sur les bénéfices.
+146 Q. Bien. Revenons d'abord à l'essentiel. Tout d'abord, je crois comprendre que nous devons établir des bénéfices relativement à cet impôt, à ce système d'imposition, ce régime fiscal?
+Me BURNHAM : Me Du Pont, je ne suis pas certaine que cela constitue des questions pertinentes : vous lui demandez son opinion. La Loi est là, elle établit la procédure, vous pourriez peut-être expliquer pourquoi vous croyez que cela est pertinent à -
+Me DU PONT : Comme toujours, vous avez raison Me Burnham, permettez-moi de cesser de tourner autour du pot. Ma position est très simple [...]
+À la question 146, Me Du Pont continue de faire état de sa compréhension relativement au fonctionnement du régime fiscal des minéraux. Les questions 143 à 145 relatives à la compréhension de Mme Reinhart de l'application de la Mineral Taxation Act peuvent constituer des questions de fait à l'égard de sa compréhension, mais l'applicabilité même de la présente loi fiscale provinciale constitue une question de droit. Ce que l'appelante avance à titre de troisième aveu constitue une conclusion de droit et non un aveu d'un fait pertinent.
+[15] Quatrième aveu. Les « coûts d'approbation » qui ont effectivement été déduits l'ont été (i) dans le calcul des bénéfices selon la Mineral Taxation Act ou (ii) dans le calcul de l'impôt sur les bénéfices selon la Mineral Taxation Act ou (iii) dans le calcul des bénéfices selon la Mineral Taxation Act et reportés pour les impôts d'une année d'imposition subséquente. À l'appui du présent aveu, l'appelante se fonde sur les questions suivantes, soit les questions 164 à 167 et 174, les questions 147 à 150 et les questions 218 à 237, 238 à 246 et 247 à 252. J'ai lu les questions et les réponses (sauf les questions 218 à 232 lesquelles ont été omises du Dossier de requête).
+(i) Les déductions dans le calcul des bénéfices selon la Mineral Taxation Act. Les questions 164 à 167 et 174 font partie d'une série de questions commençant à la question 156 qui essaye d'expliquer certains montants inscrits dans un document intitulé « Potash Production Tax Annual Base payment return for Allan Mine for 1996 » ( « Déclaration de paiement de base annuel de la taxe à la production de potasse de la mine Allan de 1996 » ) (pièce A-5 de l'interrogatoire préalable de Mme Reinhart). La pièce A-5 est une déclaration complexe de 15 pages pour la mine Allan qui doit être produite en vertu de la Mineral Taxation Act de la Saskatchewan. Me Du Pont a reconnu, à la question 157, que M. Arnason (un représentant de l'appelante, présent à l'interrogatoire préalable de Mme Reinhart) [TRADUCTION] « sera beaucoup plus habile que moi à expliquer cela » . Je présume que M. Arnason est un employé ayant de l'ancienneté ou un cadre supérieur de PCS responsable de la rédaction de la pièce A-5. Si Mme Reinhart se fait interroger sur le document même de l'appelante (c.-à-d., une déclaration de revenus de la Saskatchewan pour la mine Allan), elle pourra déclarer sa compréhension relativement à la signification du document ou relativement à ce que l'appelante a fait en la remplissant, mais sa déclaration (ou « aveu » relatif à l'article 170.1 des Règles) constitue un aveu de sa compréhension. La déclaration de Mme Reinhart ne constitue pas la meilleure preuve de ce qu'a fait l'appelante en remplissant sa déclaration de revenus. La meilleure preuve à cet égard proviendrait de l'appelante. De plus, Mme Reinhart ne serait pas en mesure de déclarer si la déclaration de revenus pour la mine Allan (pièce A-5 de l'interrogatoire préalable) a été produite auprès de l'administration fiscale de la Saskatchewan dans le même formulaire que celui de la pièce A-5 ou si elle a été acceptée sans contestation de la part de l'administration fiscale de la Saskatchewan. J'accorde peu d'importance aux réponses de Mme Reinhart aux questions 164 à 167 et 174, puisque ces réponses représentent uniquement sa compréhension du document même de l'appelante (déclaration de revenus pour la mine Allan).
+(ii) Les déductions dans le calcul de l'impôt sur les bénéfices selon la Mineral Taxation Act. Aux questions 147 à 150, on demande à Mme Reinhart de confirmer les montants figurant au tableau qui fait partie du paragraphe 6 de l'Avis d'appel modifié de PCS, mais ce tableau et l'essentiel du paragraphe 6 sont déjà admis au paragraphe 5 de la réponse de l'intimée à l'Avis d'appel modifié de PCS.
+(iii) Les déductions dans le calcul des bénéfices selon la Mineral Taxation Act et reportées pour impôts d'une année d'imposition subséquente. Les questions 218 à 252 semblent faire partie d'une série de questions visant à expliquer certains montants inscrits dans un document intitulé « Potash Production Tax Annual Base payment return for Cory Mine for 1996 » ( « Déclaration de paiement de base annuel de la taxe à la production de potasse de la mine Cory de 1996 » ) (pièce A-7 de l'interrogatoire préalable de Mme Reinhart). La pièce A-7 est une déclaration complexe de 15 pages pour la mine Cory semblable à la pièce A-5 pour la mine Allan décrite ci-dessus. L'avocate de l'intimée (Me Burnham) a fait les remarques suivantes à la question 237 :
+[Traduction]
+Me Du Pont, je crois que cela est un peu injuste. Ces documents sont ceux qui appartiennent à votre cliente, et ce que nous disons ici, est que selon vos propres documents, votre cliente a obtenu un crédit d'impôt de 94 473 $ en ce qui concerne Cory et, tout ce que nous disons maintenant, c'est qu'étant donné que votre document indique cela, nous l'avons inclus à titre de mesure incitative, selon l'alinéa 12(1)x).
+[16] Les quatre aveux précis sur lesquels se fonde l'appelante sont décrits aux paragraphes 12, 13, 14 et 15 ci-dessus. En ce qui concerne le premier aveu, je suis convaincu que les montants que le ministre a inclus à titre de revenu en vertu de l'alinéa 12(1)x) ne sont pas en litige. Le deuxième aveu n'est pas établi par les termes adoptés par l'appelante et le premier engagement de l'intimée se passe d'explications tel que cela est décrit au paragraphe 13 ci-dessus. Pour le motif indiqué au paragraphe 14 ci-dessus, le troisième aveu allégué ne constitue pas du tout un aveu de fait mais une conclusion de droit.
+[17] Je considère troublant ce que l'appelante soutient constituer un quatrième aveu relativement aux montants effectivement déduits dans le calcul des bénéfices ou de l'impôt sur les bénéfices au titre de la Mineral Taxation Legislation de la Saskatchewan. La plupart des questions posées à Mme Reinhart en ce qui concerne ce quatrième aveu étaient fondées sur sa compréhension de ce que l'appelante avait fait lorsque cette dernière a rempli la déclaration de revenus complexe de 15 pages exigée par la Mineral Taxation Act de la Saskatchewan. Ces dernières constituaient les pièces A-5, A-6 et A-7 de l'interrogatoire préalable, à savoir les déclarations des mines Allan, Esterhazy et Cory, respectivement. Ces déclarations ont en fait été remplies par l'appelante. En d'autres termes, l'appelante devrait plus connaître ces déclarations de revenus minéraux provinciales que tout employé de Revenu Canada qui a la principale responsabilité d'exécuter et d'appliquer la Loi de l'impôt sur le revenu fédérale.
+[18] Les réponses obtenues de Mme Reinhart par l'appelante relativement au quatrième aveu constituent uniquement sa compréhension des montants que l'appelante a déduits dans un calcul particulier lorsque cette dernière remplissait ses déclarations de revenus, à savoir les pièces A-5, A-6 et A-7. Mme Reinhart a souvent nuancé ses réponses en ajoutant [TRADUCTION] « pour cette mine, pour cette année » . La meilleure preuve des montants que l'appelante a déduits dans un calcul particulier proviendrait d'un employé ayant de l'ancienneté ou d'un cadre supérieur de l'appelante qui était responsable de remplir les déclarations de revenus comme les pièces A-5, A-6 et A-7 exigées par la Mineral Taxation Act de la Saskatchewan.
+[19] Tout juge qui tente de rendre le jugement demandé par l'appelante par la présente requête voudrait entendre la meilleure preuve, de préférence de vive voix, par un témoin averti de l'appelante qui décrit les différents calculs (dans lesquels les montants pertinents ont été déduits) dans les déclarations de revenus que l'appelante a produites auprès de la province de la Saskatchewan afin de se conformer à la Mineral Taxation Act. Notamment, le juge voudrait entendre le témoignage portant sur chacun des montants que le ministre du Revenu national a inclus dans le revenu en vertu de l'alinéa 12(1)x) concernant la question de savoir si les montants ont été déduits (aux fins de l'impôt minéral de la Saskatchewan) dans le calcul des bénéfices, de l'impôt ou de l'impôt autrement payable. Le juge voudrait également savoir si les différentes déclarations de revenus étaient acceptées sans modifications ou ont été contestées par l'administration fiscale de la Saskatchewan. Après avoir entendu de tels témoignages, le juge voudrait entendre les arguments des avocats des deux parties relativement à l'application de la Mineral Taxation Act. Dès lors, le juge serait mieux placé pour entendre d'autres arguments portant sur l'interprétation et l'application de l'alinéa 12(1)x).
+[20] Dans le cadre de la présente requête, l'appelante est loin d'avoir obtenu un aveu qui permettrait de rendre un jugement sur la question portant sur l'alinéa 12(1)x). La requête doit être rejetée.
+[21] Les avocats de l'intimée se sont fondés sur la décision Treats Inc. v.Richter, Usher et al, [2001] O.J. no 1188, de la Cour supérieure de justice de l'Ontario, dans laquelle la juge Kiteley a examiné un article semblable à notre article 170.1 des Règles. La juge Kiteley a fait référence à deux décisions antérieures (Sigroum, 1985 et Plainsman Developments, 1982) comme établissant sept principes qui s'appliquent à une requête pour jugement fondé sur des aveux. Les sept principes sont résumés par la juge Kiteley de la manière suivante :
+[TRADUCTION]
+1. l'aveu doit être clair et précis (Landergan v. Feast (1886) 55 L.T. Ch. 505);
+2. l'aveu doit porter sur des faits qui indiquent que la partie a évidemment droit à l'ordonnance demandée (Gilbert v. Smith (1876), 2 Ch. D.686);
+3. l'article ne s'applique pas s'il existe une question de droit sérieuse qui doit être débattue (Adcock v. Algoma Steel Corporation, [1968] 2 O.R. 647);
+4. l'article ne s'applique pas s'il existe une question de fait sérieuse (Ellis v. McQueen, [1967] 2 O.R. 399);
+5. la requête est fondée sur des aveux et la preuve de faits n'est pas permise (Toronto v. Schein (1980), 19 C.P.C. 195);
+6. la requête devrait être accueillie uniquement s'il existe un cas clair, et il faut se garder de ne pas supprimer le droit à un procès sur le fondement du témoignage de vive voix (Cook v. Lemieu (1885) 10 P.R. 577);
+7. pour avoir gain de cause dans la présente demande, le requérant doit démontrer l'existence d'un aveu clair au vu duquel il est impossible pour les défendeurs d'avoir gain de cause.
+Me Burnham s'est fondée notamment sur les principes numéros 1 et 3. Ce sont les deux principes qui m'auraient été les plus troublants si l'appelante avait par ailleurs établi les nombreux aveux de faits nécessaires pour une telle requête. Tel que cela est mentionné ci-dessus, les aveux nécessaires n'ont pas été obtenus.
+[22] Il existe de nombreuses questions de droit complexes portant sur l'interprétation et l'application tant de la Mineral Taxation Act de la Saskatchewan que de l'alinéa 12(1)x) de la Loi de l'impôt sur le revenu fédérale qui ne justifient pas de demander un jugement en vertu de l'article 170.1 des Règles. Il me semble qu'il serait mieux de réserver l'article 170.1 des Règles pour une affaire dans laquelle il existe une (ou plusieurs) simple question de fait qui pourrait être répondue par des aveux dans les actes de procédure ou lors du contre-interrogatoire préalable qui, à son tour, permettrait de rendre une décision définitive par l'entremise de plaidoyers relatifs à la loi applicable.
+[23] En ce qui concerne la complexité de la Mineral Tax Act de la Saskatchewan, compte tenu de la difficulté d'obtenir des aveux de la part de l'intimée lors de l'interrogatoire préalable portant sur les déductions faites dans les calculs par les sociétés appelantes en vertu de la présente Loi et, compte tenu de la quasi-impossibilité d'obtenir des aveux de la part de l'intimée lors de l'interrogatoire préalable portant sur la question de savoir si les présentes déductions faites par les sociétés appelantes ont été acceptées ou contestées par l'administration fiscale de la Saskatchewan, à mon avis, il n'était vraiment pas raisonnable pour les sociétés appelantes de demander un jugement sur la question découlant de l'alinéa 12(1)x) en vertu de l'article 170.1 des Règles. Les requêtes sont rejetées et les dépens adjugés pour un seul mémoire de frais et payables sans délai à l'intimée, quelle que soit l'issue de la cause.
+Signé à Charlottetown (Île-du-Prince-Édouard), ce 26e jour d'août 2003.
+« M. A. Mogan »
+Traduction certifiée conforme
+ce 23e jour de février 2004.
+Crystal Lefebvre, traductrice

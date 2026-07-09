@@ -1,0 +1,192 @@
+---
+title: "Plamondon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30176/index.do"
+last_modified: "2011-01-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 47"
+citation2: ""
+neutral_citation: "2011 TCC 47"
+decision_date: "2011-01-26"
+language: "en"
+item_id: "30176"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7777
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:55:30.194000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "37225b642b683966970199af14e597a41290645eed1bc73b0aae39723bbd5e90"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Plamondon v. The Queen
+
+- Citation: 2011 TCC 47
+- Decision date: 2011-01-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7777, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Plamondon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-01-26
+Neutral citation
+2011 TCC 47
+File numbers
+2010-1612(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1612(IT)I
+BETWEEN:
+DANIELLE PLAMONDON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on September 17 and December 10, 2010,
+at Québec, Quebec
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Marie-France Dompierre
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2005 taxation year is allowed, without costs, and the reassessment is vacated, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of January 2011.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 23rd day of March 2011
+Margarita Gorbounova, Translator
+Citation: 2011 TCC 47
+Date: 20110126
+Docket: 2010-1612(IT)I
+BETWEEN:
+DANIELLE PLAMONDON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+[1] This appeal is from a reassessment made under the Income Tax Act (ITA) for the appellant's 2005 taxation year.
+[2] The appellant collected insects for several years. In 2005, the appellant donated part of that collection to the faculty of forestry, geography and geomatics of Université Laval.
+[3] The respondent does not deny that the appellant made a charitable donation valued at $25,419.75. The respondent's position is that the appellant had disposed of “personal-use property” (PUP) as defined in the ITA and thus realized a capital gain of $24,419. For the purposes of calculating that gain, the Minister of National Revenue (the Minister) determined that the adjusted cost base of the donated property was $1,000.
+[4] The appellant testified that she and her spouse were amateur entomologists. They collected specimens all over the world. For the last several years, the appellant has been regularly donating scientific material in the form of collections of dead insects to various non‑profit organizations such as the Montréal Insectarium and the faculty of forestry, geography and geomatics of Université Laval. The donated insects are used for research or to renew university or museum collections.
+[5] Dominic‑Jean Gagnon, the Canada Revenue Agency (CRA) auditor who had prepared the assessment, testified that he had concluded that the insect collection was PUP because collecting insects was a leisure activity that gave the appellant a lot of pleasure. However, in cross-examination, Mr. Gagnon admitted that he did not know what the appellant used her insect collection for. For her part, the appellant testified that she kept the insects in closed boxes in her spouse's storage shed until she donated them to a charity. Questioned by the Court, the appellant described the insects that she had donated as follows:
+[Translation]
+Q. But could you have used those insects to make a display for yourself or at exhibitions or such things? Because insects are interchangeable property, I would imagine we don't know. . . If we don’t identify them: this is the mother, this is the father and this is the cousin – they all look pretty much the same.
+A. Absolutely. Well, the insects that we donate are not very nice-looking insects; they are not insects that would be useful for if, say, someone wanted to sell them or make ornaments out of them or something. They are . . . a budworm is not very aesthetically pleasing. And we have donated large quantities of budworms to Université Laval.
+So these insects are not for admiring, one could say. They could possibly be made into collections to be donated to, oh I don't know, schools to teach them what are the different varieties of insects but they are not necessarily nice-looking insects. Some of them are exotic because they may come from abroad.
+For example, in the case of some pest beetles from Asia, I think that Université Laval did a study at one point, so either my husband or I (I can't remember) donated some of those beetles to them. But those beetles are not necessarily pretty to look at. They are beautiful to an entomologist who is passionate about this, but even us, we don't have any insects displayed in the house. Because we are always there, because I have no need to see any on my walls, because. . .
+Position of the parties
+[6] The appellant's position is that the insects are not PUP and that she derived no enjoyment from them. She enjoys the activity of collecting them, but does not make use of the insects, which she keeps in boxes.
+[7] The CRA's position is that the insects are PUP and that donating them creates a capital gain under subsection 46(1) and section 54 of the ITA.
+Analysis
+[8] The relevant sections of the ITA read as follows:
+46. (1) Where a taxpayer has disposed of a personal-use property (other than an excluded property disposed of in circumstances to which subsection 110.1(1), or the definition “total charitable gifts”, “total cultural gifts” or “total ecological gifts” in subsection 118.1(1), applies) of the taxpayer, for the purposes of this subdivision
+(a) the adjusted cost base to the taxpayer of the property immediately before the disposition shall be deemed to be the greater of $1,000 and the amount otherwise determined to be its adjusted cost base to the taxpayer at that time; and
+(b) the taxpayer’s proceeds of disposition of the property shall be deemed to be the greater of $1,000 and the taxpayer’s proceeds of disposition of the property otherwise determined.
+. . .
+54. In this subdivision,
+. . .
+“personal-use property” of a taxpayer includes
+(a) property owned by the taxpayer that is used primarily for the personal use or enjoyment of the taxpayer or for the personal use or enjoyment of one or more individuals each of whom is
+(i) the taxpayer,
+(ii) a person related to the taxpayer, or
+(iii) where the taxpayer is a trust, a beneficiary under the trust or any person related to the beneficiary,
+(b) any debt owing to the taxpayer in respect of the disposition of property that was the taxpayer’s personal-use property, and
+(c) any property of the taxpayer that is an option to acquire property that would, if the taxpayer acquired it, be personal-use property of the taxpayer,.
+and “personal-use property” of a partnership includes any partnership property that is used primarily for the personal use or enjoyment of any member of the partnership or for the personal use or enjoyment of one or more individuals each of whom is a member of the partnership or a person related to such a member;.
+. . .
+248(1) In this Act,
+. . .
+“property” means property of any kind whatever whether real or personal or corporeal or incorporeal and, without restricting the generality of the foregoing, includes
+(a) a right of any kind whatever, a share or a chose in action,
+(b) unless a contrary intention is evident, money,
+(c) a timber resource property, and
+(d) the work in progress of a business that is a profession;.
+“personal-use property” has the meaning assigned by section 54;.
+[9] The respondent stated that the Court must follow the decision of Associate Chief Justice Bowman, as he then was, in Klotz v. The Queen.[1] That case deals with the appeal of a taxpayer who bought prints to donate to various universities. The appellant testified that the prints were PUP and admitted that his goal was to take advantage of paragraph 46(1)(a) of the ITA. That provision states that the adjusted cost base of a PUP is equal to the greater of $1,000 or the property's actual cost. The appellant had paid less than $1,000 for each print, which explains his interest in taking advantage of the deemed adjusted cost base of $1,000 provided for in paragraph 46(1)(a) of the ITA.
+[10] According to the appellant in Klotz, PUP includes all property except any property used or held for an income-earning purpose, whether it be from property, business or employment (income property). In the absence of evidence that the prints were being held by the appellant in order to earn income, the appellant invited the Court to find that the prints were PUP.
+[11] The respondent claimed that there were three categories of property, namely, property used or held primarily for the personal use and enjoyment of the taxpayer, income property and all other property. According to the respondent in Klotz, only the property in the first category is PUP. In Klotz, Associate Chief Justice Bowman stated that the term PUP is not exhaustively defined in the ITA. According to him, the definition of PUP suggests a broadened meaning because of the use of the word "includes". In addition, according to him, PUP is based entirely on what is personal and what is related to a business or commercial activity. Accordingly, any property should be PUP unless the evidence shows that it is income property.
+[12] At the 2005 convention of the Association de planification fiscale et financière, CRA was asked whether it had reviewed its position on the meaning of PUP in light of Klotz.[2] The CRA was still of the opinion that the way the property is used should be examined before making a determination. The document indicates that the CRA’s position remained unchanged, but that it was waiting for the Federal Court of Appeal decision in Canada v. Nash.[3] Since the Federal Court of Appeal did not discuss the definition of PUP, we can assume that the CRA’s position has not changed.
+[13] I am of the opinion that there are several words that are significant to determining the scope of the definition of PUP. The first word of interest is "includes". As the Associate Chief Justice Bowman said in Klotz, this word is not exhaustive. It is true that in some cases it makes it possible to broaden the definition. However, as stated by Justice Lamarre in Fortino v. Canada,[4] a legislative provision should be given a strict or liberal interpretation depending on the purpose underlying it, and that purpose must be identified in light of the context of the statute, its objective and the legislative intent. Based on the principles established by the Supreme Court of Canada in Québec (Communauté urbaine) v. Corp. Notre‑Dame de Bon-Secours,[5] the word "includes" must be interpreted based on context. Despite my opinion on the contrary position, I do not believe that all other words in the definition can be disregarded in the analysis of the word "includes".
+[14] Continuing with the analysis of the definition of PUP, the words to be dissected are “primarily” [principalement], “for. . .use” [à usage] and “enjoyment” [agrément]. These words are found in paragraph (a) of the definition of PUP in section 54. That rule was introduced to make it possible to classify property that fits into two categories at once.
+[15] Let us start with “principalement”, which is at the heart of the rule classifying properties that fit into two categories. In Le Nouveau Petit Robert, 2008, “principalement” is defined as follows: “avant les autres choses, par-dessus tout”. The definition of “principal” is similar: “qui est le plus important, le premier parmi plusieurs” [Emphasis added]. In English, the ITA uses the word “primarily”. The Oxford English Dictionary, third edition, defines “primarily” as follows: “to a great or the greatest degree; for the most part, mainly”. Thus, the property must unequivocally be for the use and enjoyment of the taxpayer. If Parliament had wanted there to be only two types of property, it could have defined PUP as all property that is not income property, as stated by Associate Chief Justice Bowman in Klotz. However, that was not what Parliament did. It chose to use the adverb “primarily” (“principalement” in French). Parliament thus chose to make it possible to examine the use of property before it is determined whether it is PUP.
+[16] Secondly, the presence of the words “à usage”, found at the beginning of the definition as well as in paragraph (a) helps us determine the category of property described in the definition, which reads as follows: “. . . affectés principalement à l’usage ou à l’agrément personnels du . . .” [. . . used primarily for the personal use or enjoyment of . . .]. Le Nouveau Petit Robert, 2008, defines this word as follows: “destiné à être utilisé (de telle ou telle façon)”. From this we can deduce that it is similar to “utiliser” [to use]. In English, Parliament used the word “use”. The decision of Judge Bowman, as he then was, in Glaxo Wellcome Inc. v. Canada[6] dealt with the meaning of the word “use” in the definition of “former business property”. That decision provides an overview of how to interpret tax-related statutory provisions. Judge Bowman states the following relative to the use of the word “use”:
+14 The entitlement of the appellant to the deferral contemplated by section 44 depends on the meaning to be ascribed to one word - used - (utilisé).
+15 Why is this so difficult a question? The word "use" is one of the commonest and most frequently used in the English language, as is "utiliser" in French. Indeed, the definition of the verb "use" in the New Shorter Oxford Dictionary of the English Language is "make use of (a thing) esp. for a particular end or purpose; utilize, turn to account...; work, till, occupy, (land, ground etc)". The noun "use" is defined as "act of using, fact of being used". After this exercise in circularity we are no wiser than before (or, for that matter, any better informed). Similarly, "utiliser" is defined in Le Petit Robert 1 dictionnaire de la langue française as "rendre utile, faire servir à une fin précise... employer". I should not have thought that the resolution of this apparently (but deceptively) simple question would force me to bring to bear the vast array of principles of statutory interpretation that are regularly enunciated by our courts.
+[17] After analyzing the principles of interpretation, he adds his comments on the word “use” (utilisé):
+20 . . . Unless some principle of interpretation compels me to ascribe a broader meaning to the word, “use” connotes actual utilization for some purpose, not holding for future use. “Used primarily for the purpose of gaining or producing income from a business” would, prima facie, imply that the land be put to some productive use in the business.[7]
+[Emphasis added.]
+[18] The last word that should be examined is “agrément”, which is found in paragraph (a) of the definition. In the English version, Parliament used the word "enjoyment". In Le Nouveau Petit Robert, 2008, the word “agrément” is defined as “qualité d’une chose, d’un être, qui les rend agréables” while in the Oxford English Dictionary, second edition, the word “enjoyment” is defined as “the action or state of deriving gratification from an object. Also, in weaker sense, the possession and use of something which affords pleasure or advantage”. In my opinion, the combination of the words “primarily” and “use” should tell us to interpret the expression as denoting a primary use for a specific purpose. It must be a real and dominant use.
+[19] In this case, the appellant stated that she put the insects in bulk into storage boxes. She prepared them only for donation. There was no real use. The respondent did not contradict that evidence. Mr. Gagnon admitted that he did not know what the appellant used the insects for. He seems to have confused the appellant's activities with the use she could have made of the insects. Could it be said, after the appellant’s and Mr. Gagnon’s testimony, that the appellant had enjoyment of the insects? According to the English version, something must be owned and used.
+[20] In any case, I do not have to decide on that issue to determine whether the appeal should be allowed. If I agree that the insects are PUP as alleged by the respondent, I would still have to allow the appellant’s appeal. Under paragraph 46(1)(a) of the ITA, if the adjusted cost base of PUP is less than $1,000, the adjusted cost base is deemed to be $1,000. If the proceeds of disposition of PUP are less than $1,000, they are deemed to be $1,000. Under those two rules, there can be a capital gain only if the proceeds from the disposition are more than $1,000 and the adjusted cost base of the property is limited to $1,000. How should these provisions apply to the insect specimens donated by the appellant to Université Laval? The answer can be found in subsection 46(3). That provision applies when a number of PUP that would ordinarily be disposed of in one disposition as a set were disposed of in more than one disposition to the same person and had a total fair market value of more than $1,000. In that case, the properties would be deemed to be a single PUP and the deemed cost of $1,000 would be applicable to the set of properties and not each of its parts. In French, the ITA states “biens qui feraient normalement l’objet d’une seule disposition”. The English version of the provision uses the word “set” instead of the expression "biens qui feraient normalement l’objet d’une seule disposition". In the Dictionary of Canadian Law, the word “set” is defined as follows: “A number of articles of the same general character ordinarily on sale together or intended to be used together. . .”. According to that definition, a pair of earrings or a pair of shoes would be a single property. A set of dishes would be treated as a single PUP.
+[21] The respondent claims that the subject of the donations must be considered to be a single PUP because the appellant and Université Laval chose to define the donations as a [Translation] “collection of insects” on the charitable donation receipt issued to the appellant. The meaning of the word “collection” should not be confused with that of the word “set”. The editor of the Canada Tax Service[8] wrote the following note on this subject:
+Properties Comprising a Set
+. . .
+Whether a number of personal-use properties would have ordinarily been disposed of in one disposition as a set is a question of fact. A set is generally composed of two or more articles having something in common and having a value as a set which is greater than the sum total of the values of the individual pieces making up the set. In some cases, the pieces making up a set match or are identical, eg a set of vases or of dining-room chairs. In other cases, the pieces making up a set are not identical, but are complementary, eg a rare chess set. The words “set” and “collection” are clearly not synonymous: accordingly, a collection of paintings or of stamps would not normally constitute a set of paintings or of stamps.
+[Emphasis added.]
+[22] In this case, the evidence shows that the 2,158 insects donated to the faculty of forestry, geography and geomatics of Université Laval were appraised individually. The appraisal grid used by the appraiser took into account the preparation, humidification, display, pinning and identification to attribute a value to each specimen. The evidence also showed that the 2,158 insects donated came from 46 different counties and at least 268 different species. According to the appellant's testimony, the insects have at least six or seven different uses. The donated insects are thus considered to be distinct properties and are treated as such. They are not linked to one another. They do not form an unbreakable set. The appraisal grid shows that none of the insects had a value higher than $1,000. Consequently, the appellant would not have realized a capital gain from the disposition of PUP if I accept the interpretation supported by the respondent in this case.
+[23] For all of these reasons, the appeal is dismissed and the reassessment is vacated.
+Signed at Ottawa, Canada, this 26th day of January 2011.
+“Robert J. Hogan”
+Hogan J.
+Translation certified true
+on this 23rd day of March 2011
+Margarita Gorbounova, Translator
+CITATION: 2011 TCC 47
+COURT FILE NO.: 2010-1612(IT)I
+STYLE OF CAUSE: DANIELLE PLAMONDON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: September 17 and December 10, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: January 26, 2011
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Marie-France Dompierre
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2004 TCC 147, affd. by 2005 FCA 158.
+[2] See the APFF's 2005 convention, conference No. 2005-0141261C6: [Translation] meaning of the words "personal-use property" and impact of Klotz.
+[3] 2005 FCA 386.
+[4] [1996] T.C.J. no. 1457 (QL), affd. by [1999] F.C.J. no. 1964 (QL).
+[5] [1994] 3 S.C.R. 3.
+[6] [1996] T.C.J. No. 6 (QL).
+[7] Ibid.
+[8] Canada Tax Service – McCarthy Tétrault Analysis, 46 – Personal-Use Property (TaxnetPRO).

@@ -1,0 +1,312 @@
+---
+title: "Canadian Imperial Bank of Commerce v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/351974/index.do"
+last_modified: "2019-11-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 248"
+citation2: ""
+neutral_citation: "2018 TCC 248"
+decision_date: "2019-11-26"
+language: "en"
+item_id: "351974"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4980
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:58:34.921000+00:00"
+cases_cited_count: 17
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "860035b169aa05b33a568d70fe0bb07e7d084a4ddaa662fa2e5191dcfd8c9517"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Canadian Imperial Bank of Commerce v. The Queen
+
+- Citation: 2018 TCC 248
+- Decision date: 2019-11-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4980, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canadian Imperial Bank of Commerce v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-11-26
+Neutral citation
+2018 TCC 248
+File numbers
+2010-1413(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2010-1413(IT)G
+2010-1414(IT)G
+2010-2864(IT)G
+2013-4005(IT)G
+BETWEEN:
+CANADIAN IMPERIAL BANK OF COMMERCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on December 3, 2018 at Toronto, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Laura Fric
+Peter Macdonald
+Counsel for the Respondent:
+Elizabeth Chasson
+Darren Prevost
+ORDER
+The Appellant’s motion pursuant to subsection 145(4) of the Tax Court of Canada Rules (General Procedure) to call more than five expert witnesses at trial is denied.
+On or before December 12, 2018, the Appellant shall advise the Respondent which five of its seven expert witnesses it intends to call at trial.
+To the extent that the parties need to amend their rebuttal and surrebuttal expert reports to remove references to the opinions of the two expert witnesses that the Appellant will not be calling at trial, the parties shall have until January 4, 2019 to serve such amended rebuttal expert reports and until January 18, 2019 to serve such amended surrebuttal expert reports.
+Costs are awarded to the Respondent in an amount to be determined when costs are established for the entire trial.
+Signed at Ottawa, Canada, this 7th day of December 2018.
+“David E. Graham”
+Graham J.
+Citation: 2018 TCC 248
+Date: 20181207
+Dockets: 2010-1413(IT)G
+2010-1414(IT)G
+2010-2864(IT)G
+2013-4005(IT)G
+BETWEEN:
+CANADIAN IMPERIAL BANK OF COMMERCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] Subsection 145(4) of the Tax Court of Canada Rules (General Procedure) [1] (the “Rules”) states that a party intending to call more than five expert witnesses at a hearing shall seek leave of the Court under section 7 of the Canada Evidence Act. [2] The Canadian Imperial Bank of Commerce (“CIBC”) has brought a motion seeking leave to call seven expert witnesses at trial. The Respondent opposes CIBC’s request. For the reasons set out below, CIBC’s motion is denied.
+A. Factors
+[2] Subsection 145(5) of the Rules states that, in deciding a motion under subsection 145(4), the Court shall consider all relevant matters. Subsection 145(5) goes on to specifically require that the Court consider:
+(a) the nature of the proceeding, its public significance and any need to clarify the law;
+(b) the number, complexity and technical nature of the issues in dispute; and
+(c) the likely expense involved in calling the expert witnesses in relation to the amounts in issue.
+[3] I am only aware of two Tax Court of Canada decisions on this issue: the 2009 decision of Justice Hogan in General Electric Capital Canada Inc. v. The Queen [3] and an unreported 2016 decision of Justice Owen in Cameco Corporation v. The Queen. [4]
+[4] Section 52.4 of the Federal Court Rules, [5] contains provisions that are identical to subsections 145(4) and (5). While subsections 145(4) and (5) have only existed in their present form since 2014, the provisions of section 52.4 were introduced in 2010. As a result, the bulk of the case law on the limits that these provisions place on calling expert witnesses comes from the Federal Court rather than the Tax Court.
+[5] The burden on a party seeking to call additional witnesses is described by the Federal Court in Apotex Inc. v. Sanofi-Aventis as “considerable as the factors … impose a high threshold. In other words, leave … shall not be granted by this Court lightly”. [6]
+[6] Keeping this high standard in mind and also keeping in mind that requests for leave under subsection 145(4) must be considered on a case-by-case basis, I will examine each of the factors identified in subsection 145(5) and then move on to examine other relevant factors.
+Nature of the proceeding, public significance and any need to clarify the law:
+[7] The first factor identified by subsection 145(5) is the nature of the proceeding, its public significance and any need to clarify the law. This factor gives slight support to CIBC’s position. I will consider each of the three components of this factor separately.
+[8] Neither party argued that the nature of the proceeding was a relevant consideration.
+[9] CIBC argues that the issues involved in the appeals are of public significance. For the reasons set out below, I disagree.
+[10] In its recent decision in Canadian Council for Refugees v. Canada (Citizenship and Immigration), [7] the Federal Court considered the question of public interest. The issues before the Court involved the Canadian Charter of Rights and Freedoms. The Court distinguished between civil disputes such as intellectual property cases that do not broadly engage the public interest and a case, such as the one before it, that is “uniquely broad in its impact” and “will affect many individuals beyond those named as parties to [the] proceedings”. [8]
+[11] By their nature, appeals in Tax Court involve private disputes between a given taxpayer and the government. Such disputes will not normally have public significance.
+[12] CIBC argues that the appeals are significant because they involve a lot of money. While the amount in issue no doubt makes the appeals significant to CIBC and its shareholders, it does not make them significant to the public. The proper place to consider the amount in issue is in the third subsection 145(5) factor.
+[13] In my view, for a tax appeal to have public significance, it would need to address an issue that affects a significant number of taxpayers or engages the interests of society as a whole. CIBC’s appeals do neither of these things. As a result, I find that the appeals have no public significance.
+[14] CIBC also submits that the appeals will help to clarify the law. It says that this is “the first transfer pricing dispute in Canada to consider the application of the transfer pricing rules to settlement payments made to resolve litigation” [9] and that the appeals will “shed light on the relevance of accounting treatment to the deductibility of expenditures within a corporate group”. [10]
+[15] Every case involving a somewhat novel issue has the potential to expand the law and thus bring a greater level of clarity. However, subsection 145(5) refers to a “need to clarify the law”. In my view, the word “need” refers to something more than the need of the parties to have the Court determine an issue of law. If that were the case, then any dispute involving a question of law would qualify. The phrase “need to clarify the law” follows the phrase “public significance”. This suggests that the “need” in question should involve a desire for clarity that extends beyond the parties themselves.
+[16] I accept that the issues that CIBC submits will be clarified are issues that may extend beyond the parties themselves. However, I am not convinced that the issues are of broad application or that the need for them to be resolved is particularly pressing. In particular, with respect to the transfer pricing issue, I question how much clarification these appeals will provide. Transfer pricing cases are highly fact-specific. In the trial decision in General Electric, Justice Hogan warned that “differences in facts or circumstances or in the economically relevant characteristics of a transaction can lead to a very different result”. [11]
+[17] As a result of all of the foregoing, I give little weight to the need to clarify the law when considering this factor.
+Number, complexity and technical nature of the issues in dispute:
+[18] The second factor identified by subsection 145(5) is the number, complexity and technical nature of the issues in dispute. There are numerous issues in the appeals but not all of those issues require expert evidence. The expert evidence is largely focused on an accounting issue and the transfer pricing issue. Those issues are both complex and technical in nature. I accept that expert evidence will be important in both of those areas. That said, it would be contrary to the purpose of the restriction if it was presumed that more than five expert witnesses would be needed in every case that is complex and technical or that a given area of law, such as transfer pricing, always requires additional expert witnesses (Apotex [12] ).
+[19] Both parties intend to call one expert witness on US securities law and one expert witness on the regulatory requirements of broker-dealers in the US. The Respondent intends to call two accounting experts. CIBC intends to call one. The Respondent intends to call one transfer pricing expert. For the reasons set out below, I find that CIBC intends to call four transfer pricing experts.
+[20] CIBC takes the position that it intends to call only three transfer pricing experts. It characterizes the evidence of a fourth expert witness, Christopher James, as being that of a banking industry expert who will explain “how banks are structured, including how they allocate capital and manage risk”. [13] However, my understanding is that Mr. James analyzes the respective roles of CIBC and its subsidiaries, compares those roles to others in the industry and concludes that the relevant costs should have been borne entirely by CIBC. In other words, he performs a functional analysis leading to a transfer pricing conclusion. The parties will soon be conducting a pre-trial expert conference in front of a different judge in which the expert witnesses will be hot-tubbed. Different panels of experts will address different issues. The parties advise me that Mr. James has been placed on the transfer pricing expert panel for these purposes. This suggests that both parties view his evidence as being focused on transfer pricing. Based on all of the foregoing, I find that CIBC is proposing to call Mr. James as a transfer pricing expert.
+[21] Transfer pricing cases typically involve a number of expert witnesses. While no two transfer pricing cases are the same, it is useful to note that there has never been a transfer pricing case where a party has called more than three transfer pricing experts. The norm is to call one or two transfer pricing experts. Although transfer pricing cases often require experts on issues other than transfer pricing, General Electric is the only transfer pricing case where more than five expert witnesses (both transfer pricing experts and other experts) testified at trial. A chart setting out the total number of expert witnesses and transfer pricing experts in each of these transfer pricing cases is attached as Appendix “A”.
+[22] There is nothing that indicates to me that CIBC’s appeals differ so significantly from the norm that CIBC would require seven expert witnesses, four of whom are transfer pricing experts.
+[23] Based on all of the foregoing, I find that this factor argues against allowing the motion.
+Expense of calling the expert witnesses in relation to the amounts in issue:
+[24] The third factor identified by subsection 145(5) is the expense of calling the expert witnesses in relation to the amounts in issue. In essence, this is a test of proportionality.
+[25] The parties agree that this factor strongly supports allowing CIBC to call more than five expert witnesses. The assessments in dispute involve the deduction of approximately $3,000,000,000. The costs relating to calling an additional two expert witnesses clearly pale in comparison to that amount.
+Duplication
+[26] CIBC submits that the potential duplication of expert witness testimony is not a factor that I am permitted to consider under subsection 145(5). I disagree.
+[27] General Electric, [14] Cameco, [15] and Canadian Counsel for Refugees [16] all state that the admissibility of expert evidence is to be determined when the expert witness is actually called to testify and should not be considered when considering whether to grant leave to call more than five expert witnesses. All of these cases refer to the test for admitting expert evidence set out by the Supreme Court of Canada in R. v. Mohan: the evidence must be relevant, it must be necessary to assist the trier of fact, there must be no exclusionary rule preventing its introduction and there must be a properly qualified expert. [17]
+[28] CIBC submits that concerns regarding potential duplication go to the Mohan test of necessity and thus may not be considered under subsection 145(5). I do not accept this characterization.
+[29] The Supreme Court used several phrases to describe the necessity test. The Court stated that the information provided by the expert witness must be “likely to be outside the experience and knowledge of a judge”, “necessary to enable the trier of fact to appreciate the matters in issue due to their technical nature” and “such that ordinary people are unlikely to form a correct judgment about it, if unassisted by persons with special knowledge”. [18] None of these descriptions is concerned with the duplication of the expert testimony. They are focused on the knowledge and experience of the trier of fact and the nature of the evidence.
+[30] The Supreme Court of Canada clarified the test for admitting expert evidence in its decision in White Burgess Langille Inman v. Abbott and Haliburton Co. [19] The Court stated that the first step is to consider whether the evidence is admissible pursuant to the traditional Mohan tests. “At the second discretionary gatekeeping step, the judge balances the potential risks and benefits of admitting the evidence in order to decide whether the potential benefits justify the risks”. [20] The trial judge is to consider whether the prejudicial effect of admitting the evidence outweighs its probative value. It is at this second step that the trial judge considers, among other things, the potential waste of time and court resources that would arise from admitting expert evidence. In discussing this second step, the Court specifically refers to the “consumption of time” and the “potential harm to the trial process”. [21] This reflects another commonly cited concern regarding expert witnesses from the Supreme Court of Canada. In R. v. D.D. the Court stated that “expert evidence is time-consuming and expensive” and that the “significance of the costs to the parties and the resulting strain upon judicial resources cannot be overstated”. [22]
+[31] While decided before White Burgess, the Masterpiece Inc. v. Alavida Lifestyles Inc. decision of the Supreme Court of Canada is also helpful. The Court stated that judges “must fulfil their gatekeeper role to ensure that unnecessary, irrelevant and potentially distracting expert … evidence is not allowed to extend and complicate court proceedings.” [23] The Court went on to suggest that “proposed expert … evidence be a matter for consideration at the case management stage of proceedings so that if such evidence would not be admissible at trial, much of the costs of engaging experts … may be avoided.” [24]
+[32] From a policy point of view, it is hard to imagine why the potential duplication of expert witnesses would not be a factor to be considered under subsection 145(5). If such considerations were not permitted, a party who otherwise satisfied the subsection 145(5) factors could obtain leave to serve hundreds of nearly identical expert witness reports on the other side, forcing the other side to prepare and serve rebuttals to each one. This would entirely defeat the purpose of subsection 145(4).
+[33] The purpose of subsection 145(4) is the same as the purpose of section 7 of the Canada Evidence Act. That purpose was described as follows by a prothonotary of the Federal Court in Altana Pharma Inc. v. Novopharm. The description specifically included the goal of preventing duplicative expert testimony: [25]
+The purpose of section 7 is to limit the number of experts that may be called by the parties to what is considered a reasonable number, beyond which prior leave of the Court must be obtained by demonstrating that a greater number of experts is necessary for the determination of the issues, that there are no unnecessary duplications in the evidence, and that the additional strain on the time and resources of the Court and the parties is justified (see: Gorman v. Powell, [2006] O.J. No. 4233 (S.C.J.), Burgess v. Wu, [2005] O.J. No. 929 (S.C.J.) and Sopinka, John et al., The Law of Evidence in Canada, 2nd ed., 1999, at pp. 664-666).
+[Emphasis of word “prior” in original. Other emphasis added]
+[34] Altana was cited with approval by the Federal Court in Eli Lilly and Co. v. Apotex Inc. [26] That case was, in turn, cited with approval in Apotex [27] and Airbus Helicopters v. Bell Helicopter Textron Canada Limitée [28] where the Court went further and concluded that the factors described in Altana had been codified in section 52.4.
+[35] I am not aware of any case that says that I cannot consider the White Burgess gatekeeping step when considering whether to grant leave to call additional expert witnesses. It would be odd if, in exercising a gatekeeping function under subsection 145(4), I was prevented from relying on the gatekeeping test from White Burgess.
+[36] While not explicitly saying so, the Federal Court appears to have followed the gatekeeper approach. In Canadian Council for Refugees, the Court both considered the potential that the expert evidence would be duplicative and specifically stated that it was not considering the Mohan requirement of necessity. [29]
+[37] CIBC relies on a passage from General Electric (cited with approval in Cameco) for the proposition that the potential for duplication should not be considered as a factor under subsection 145(5). I do not read General Electric that way. The relevant paragraphs read:
+11. Counsel for the Appellant provided during the hearing an undertaking that the evidence that will be led by the additional expert witnesses will not be duplicative. He has promised to abide by that undertaking at trial and I will hold the Appellant thereto so as not to waste the Court's time. I expect that the Respondent's counsel will also be vigilant in this regard.
+…
+15. If the expert evidence adduced by the Appellant is duplicative, counsel for the Respondent will be entitled to object to the hearing of the witnesses' evidence. Finally, if the evidence is redundant and the trial is needlessly prolonged by it, this is a relevant factor that counsel for the Respondent can present at the hearing regarding costs at the end of the trial.
+[38] Nowhere in the foregoing paragraphs does Justice Hogan say that the potential of the expert testimony to be duplicative was irrelevant to his determinations. He simply accepts assurances from counsel for the taxpayer that the expert evidence to be presented at trial will not be duplicative, promises to hold counsel to that undertaking and points out that there could be cost consequences if he has been misled. A paragraph between the above quoted paragraphs contains a lengthy quotation from a decision of the Canadian Human Rights Tribunal. [30] Neither the quotation nor any other part of that decision discusses the duplication of expert testimony.
+[39] Based on all of the foregoing, I find that the potential duplication of expert evidence is an appropriate factor for me to consider under subsection 145(5).
+[40] Turning then to CIBC’s proposed expert witnesses. There is no potential for duplication among the testimony of CIBC’s proposed accounting expert, US securities law expert and expert on the regulatory requirements for broker-dealers in the US as these areas are distinct. The same is not true for CIBC’s proposed transfer pricing experts.
+[41] As set out above, the Respondent only proposes to call one transfer pricing expert whereas CIBC proposes to call four. In the transfer pricing cases set out in Appendix “A”, both sides called similar numbers of transfer pricing experts. The difference between the number of transfer pricing witnesses for each side was never more than one.
+[42] CIBC argues that its appeals are different than ordinary transfer pricing appeals because the subject of the transfer pricing inquiry is neither a good nor a service and is not traded in a market. As a result, CIBC submits that traditional transaction-based transfer pricing methods cannot be applied and more transfer pricing experts are needed. I accept this position but I note that the Respondent believes that she can approach this non-traditional valuation using only one transfer pricing expert.
+[43] While CIBC should not necessarily be limited by the Respondent’s approach to the appeals, the difference in the number of expert witnesses that each side intends to call is a relevant factor (Airbus [31] ). The disparity between the number of transfer pricing experts that each party intends to call suggests that CIBC is attempting to win through sheer numbers.
+[44] Al Meghji is the lead counsel for CIBC. CIBC filed an affidavit from Mr. Meghji in which he stated that the evidence of the seven expert witnesses is not duplicative. [32] Mr. Meghji was not cross-examined on his affidavit. CIBC submits that I must therefore draw the conclusion that the evidence will not be duplicative. I disagree. Mr. Meghji’s own affidavit undermines his statement. He describes Mr. James’ evidence as a functional analysis of CIBC and its subsidiaries. [33] Yet Mr. Meghji’s descriptions of the evidence of Dr. Michael I. Cragg indicates that Dr. Cragg will also be presenting a functional analysis of CIBC and its subsidiaries. [34] Mr. Meghji also indicates that one of its proposed expert witnesses, an economist named Dr. T. Scott Newlon, will both be expressing his own expert opinion and providing an expert report rebutting the testimony of the Respondent’s transfer pricing expert, Dr. Sanjay Unni. [35] However, Mr. Meghji also indicates that CIBC intends to call another economist named Dr. Brian Becker for the sole purpose of rebutting Dr. Unni’s report. [36] This strikes me as being what is colloquially referred to as “piling on”.
+[45] Based on all of the foregoing, CIBC has not convinced me that the evidence of its transfer pricing experts will not be duplicative. Therefore, this factor argues against allowing the motion.
+Timeliness of the motion
+[46] The Respondent did not argue that the timeliness of CIBC’s motion was a relevant factor for me to consider. As a result, I will not give any weight to this factor. That said, I think that it is important for the development of the law in this area in the Tax Court that I explain the importance of this factor.
+[47] This factor was considered in General Electric. Three weeks prior to trial, the taxpayer brought a motion to be allowed to call eight expert witnesses. At the time, subsections 145(4) and (5) had not yet been introduced into the Rules. Justice Hogan relied on a draft version of section 52.4 of the Federal Court Rules. He stated that “the best practice with regard to seeking leave to produce additional expert witnesses is to present the motion prior to the setting of the trial date. At the very least, counsel intending to bring such a motion should advise his confrère of this possibility well in advance of setting the trial date”. [37]
+[48] The issue of timeliness was not raised by the Respondent in Cameco and was thus not addressed by Justice Owen.
+[49] The issue of the timeliness was, however, addressed in detail by the Federal Court in Apotex and Airbus. The following principles may be drawn from those cases:
+a) the limitation applies once a party has an intention to call more than five expert witnesses;
+b) a party manifests its intention to call an expert witness when it serves an expert report of that witness on the other side;
+c) if a party serves an expert report of an expert witness and later chooses not to call that witness, that witness nonetheless counts towards the party’s total number of permitted expert witnesses;
+d) if a trial is bifurcated, the five witness limit applies to the entire trial; and
+e) failure to bring a motion for additional expert witnesses in a timely manner is not fatal but is a significant factor to be considered on such a motion. [38]
+[50] I adopt these principles. Absent mitigating circumstances, a party that intends to serve reports from more than five expert witnesses should seek leave before doing so. It is neither reasonable nor acceptable for a party to serve reports from more than five expert witnesses on the basis that it will decide later whether to bring a motion under subsection 145(4) or to only rely on five of those witnesses at trial. Allowing this to occur defeats the purpose of subsection 145(4). It permits a party to bury the other side in expert witnesses while maintaining control over which expert witnesses it will ultimately rely upon.
+[51] It is important to emphasize that the restriction is on the number of expert witnesses, not the number of expert reports. If the test were based on the number of reports, a party would need to seek leave under subsection 145(4) if it simply intended to call two expert witnesses, both of whom needed to prepare expert reports, rebuttal expert reports and surrebuttal expert reports.
+[52] Had the Respondent argued that I should consider the timeliness of CIBC’s motion, I would have given this factor very significant weight. Counsel for CIBC has clearly been aware for many months of the need to bring this motion but waited until less than two months before trial to do so. As a result, CIBC gained an inappropriate tactical advantage by leaving the Respondent uncertain of what expert witnesses she would face at trial.
+Prejudice to the other side
+[53] CIBC argues that the Respondent will not face any additional costs if I allow the motion. CIBC submits that the Respondent has already incurred the expense of reviewing and responding to the reports of the two additional expert witnesses.
+[54] With respect, CIBC is looking at the issue backwards. Had it brought its motion in a timely manner, the decision on the motion would have been made at a time when the Respondent had not yet incurred those expenses and the potential for those expenses would have been a relevant factor arguing against granting the motion. CIBC is trying to use its own failure as a shield.
+[55] While, the Respondent argues that she has been prejudiced, she accepts that that prejudice is a neutral factor. Presumably the Respondent takes this position because the costs she has incurred are minor compared to the amount in issue.
+[56] Based on the Respondent’s concession, I give no weight to this factor. I would not otherwise have done so.
+B. Decision
+[57] In summary, the only factor that supports CIBC’s motion is that the additional costs associated with calling two additional expert witnesses are small compared to the amount in dispute. All of the other factors weigh against allowing the motion. The mere fact that there is a lot of money at stake is an insufficient reason to allow the motion. Accordingly, the motion is denied.
+C. Selecting the Experts
+[58] At the hearing of the motion, I asked counsel for the Respondent what should happen if I denied the motion. Counsel advised me that the Respondent was prepared to allow CIBC to select which five of its seven expert witnesses it wanted to call at trial. Counsel indicated that the Respondent would like CIBC to make its selection as soon as possible and preferably prior to the upcoming pre-trial expert witness hot-tubbing.
+[59] CIBC takes the position that it should not have to tell the Respondent which expert witnesses it will be relying upon until it is time to call those witnesses. I disagree. If I were to allow CIBC to do so, I would amplify the prejudice already suffered by the Respondent and defeat the purpose of subsection 145(4). CIBC would continue to keep the Respondent guessing until the last minute what witnesses she would face.
+[60] Based on the foregoing, on or before December 12, 2018, CIBC shall advise the Respondent which five of its seven expert witnesses it intends to call at trial.
+D. Ordering Principles
+[61] I have reached the above decision on the selection of the five expert witnesses based on the generous position taken by the Respondent at the hearing. I think, that it is worthwhile to clarify that, in my view, the application of the principles set out in Apotex and Airbus may have led to a different result.
+[62] Had I applied those principles, CIBC would have been allowed to rely on the reports of the five expert witnesses whose reports were served first and prevented from relying on the reports of the final two expert witnesses. In applying the test under subsection 145(5), I would have focused not on the importance of the final two expert witnesses, but rather on the request to rely on a total of seven expert witnesses. To do otherwise would encourage parties to serve the reports of their weakest expert witnesses first.
+[63] Based on the foregoing, I would caution parties that, if they anticipate calling more than five expert witnesses, they should consider bringing a motion under subsection 145(4) before serving any expert reports. Serving some or all of a party’s expert reports prior to bringing the motion may leave the party wishing it had made better choices on its first five experts.
+[64] I would also caution parties that attempting to get around the ordering principle by serving the reports of multiple expert witnesses at the same time may be viewed as an abuse of process.
+E. Amending Reports
+[65] Once CIBC selects the two expert witnesses that it is not going to rely upon, the parties may need to amend their rebuttal and surrebuttal expert reports to remove references to the opinions of those expert witnesses. The parties shall have until January 4, 2019 to serve such amended rebuttal expert reports and until January 18, 2019 to serve such amended surrebuttal expert reports.
+[66] For greater certainty, neither party shall amend any of its expert reports other than in accordance with the above. Without limiting the generality of the foregoing, CIBC shall not amend any of its expert reports to incorporate the opinions expressed by the two expert witnesses who will no longer be testifying.
+F. Costs
+[67] Costs of the motion are awarded to the Respondent in an amount to be determined when costs are established for the entire trial.
+[68] While I have not considered the timeliness of CIBC’s motion in deciding this issue, I will consider that factor when determining the amount of costs. As set out above, the Respondent suffered prejudice as a result of CIBC’s failure to bring the motion in a timely manner. While that prejudice may not have been material in comparison to the amount in issue, it is still something that the Respondent should be entitled to recover through costs.
+Signed at Ottawa, Canada, this 7th day of December 2018.
+“David E. Graham”
+Graham J.
+Appendix “A”
+Appeal
+Total Expert Witnesses Called
+Transfer Pricing Expert Witnesses Called
+Appellant
+Respondent
+Appellant
+Respondent
+Cameco Corp. v. The Queen [39]
+5
+3
+2
+2
+Marzen Artistic Aluminum Ltd. v. The Queen [40]
+1
+1
+1
+1
+McKesson Canada Corp. v. The Queen [41]
+2
+3
+2
+3
+Alberta Printed Circuits Ltd. v. The Queen [42]
+1
+1
+1
+1
+General Electric Canada Co. v. The Queen [43]
+7
+5
+2
+2
+GlaxoSmithKline Inc. v. The Queen [44]
+4
+5
+2
+1
+CITATION:
+2018 TCC 248
+COURT FILE NOS.:
+2010-1413(IT)G 2010-1414(IT)G 2010-2864(IT)G 2013-4005(IT)G
+STYLE OF CAUSE:
+CANADIAN IMPERIAL BANK OF COMMERCE v. THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 3, 2018
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+December 7, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Laura Fric
+Peter Macdonald
+Counsel for the Respondent:
+Elizabeth Chasson Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Al Meghji Carrie D’Elia Carly Fidler
+Laura Fric
+David Morritt
+Firm:
+Osler, Hoskin & Harcourt LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] SOR/98-106.
+[2] RSC 1985, c C-5. Section 7 states: “Where, in any trial or other proceeding, criminal or civil, it is intended by the prosecution or the defence, or by any party, to examine as witnesses professional or other experts entitled according to the law or practice to give opinion evidence, not more than five of such witnesses may be called on either side without the leave of the court or judge or person presiding.”
+[3] 2009 TCC 246.
+[4] Oral decision rendered September 20, 2016 in appeals 2009-2430(IT)G, 2015-1307(IT)G and 2014-3075(IT)G.
+[5] SOR/98-106.
+[6] 2010 FC 1282, at para. 20. Cited with approval in Airbus Helicopters v. Bell Helicopter Textron Canada Limitée, 2016 FC 590, at para. 64.
+[7] 2018 FC 829.
+[8] Canadian Council for Refugees v. Canada (Citizenship and Immigration) at para. 16.
+[9] CIBC's Written Representations, at para. 37.
+[10] CIBC's Written Submissions, at para. 38.
+[11] General Electric Capital Canada Inc. v. The Queen, 2009 TCC 563, at para. 273; aff’d 2010 FCA 344.
+[12] At para 24.
+[13] CIBC's Written Representations, at para. 13.
+[14] 2009 TCC 246, at para. 9.
+[15] Transcript of Oral Reasons, at pg. 10, ln 8 to 14.
+[16] At paras. 30 to 33.
+[17] [1994] 2 SCR 9, at 20.
+[18] Mohan, at 23.
+[19] 2015 SCC 23.
+[20] At para. 24.
+[21] At para. 24.
+[22] 2000 SCC 43, at para. 56.
+[23] 2011 SCC 27, at para. 76.
+[24] At para. 77.
+[25] 2007 FC 637, at para. 37. The decision was overturned on different grounds (2007 FC 1095).
+[26] 2007 FC 1041, at para 29.
+[27] At paras. 18 and 20.
+[28] 2016 FC 590, at para. 52.
+[29] At paras. 27 to 31.
+[30] Public Service Alliance of Canada v. Northwest Territories (Minister of Personnel), (2001), 41 C.H.R.R. D/177 (Can. Human Rights Trib.).
+[31] At para. 67.
+[32] Affidavit of Al Meghji dated November 20, 2018, at para. 27.
+[33] Affidavit of Al Meghji dated November 20, 2018, at para. 12.
+[34] Affidavit of Al Meghji dated November 20, 2018, at para. 16(b).
+[35] Affidavit of Al Meghji dated November 20, 2018, at para. 16(a).
+[36] Affidavit of Al Meghji dated November 20, 2018, at para. 16(c).
+[37] General Electric Capital Canada Inc. v. The Queen, 2009 TCC 246 at para. 13.
+[38] Seeking leave six months and one month before trial was considered improper in Apotex and Airbus respectively.
+[39] 2018 TCC 195. Note that the taxpayer obtained leave to call more than five expert witnesses but ultimately only called five.
+[40] 2014 TCC 194.
+[41] 2013 TCC 404. It appears that additional expert reports were served but that the experts were not called as witnesses. The decision does not specify the number or nature of such reports. Justice Boyle gave them little weight. I have not included them in the above figures.
+[42] 2011 TCC 232.
+[43] 2009 TCC 563.
+[44] 2008 TCC 324.

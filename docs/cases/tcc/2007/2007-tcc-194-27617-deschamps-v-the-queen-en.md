@@ -1,0 +1,185 @@
+---
+title: "Deschamps v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27617/index.do"
+last_modified: "2007-04-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 194"
+citation2: ""
+neutral_citation: "2007 TCC 194"
+decision_date: "2007-04-02"
+language: "en"
+item_id: "27617"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 438
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:15:26.700000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "20bcee4a7bb3d9966f1115986cf4db3b74a56b4c29adc8362bf36ebfa6db27f9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Deschamps v. The Queen
+
+- Citation: 2007 TCC 194
+- Decision date: 2007-04-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 438, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deschamps v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-02
+Neutral citation
+2007 TCC 194
+File numbers
+2006-1941(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1941(IT)I
+BETWEEN:
+EDWARD PATRICK DESCHAMPS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 27, 2007, at Sudbury, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of April 2007.
+"B. Paris"
+Paris J.
+Citation: 2007TCC194
+Date: 20070402
+Docket: 2006-1941(IT)I
+BETWEEN:
+EDWARD PATRICK DESCHAMPS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris, J.
+[1] This is an appeal from a reassessment of the Appellant's 1999 taxation year whereby the Minister of National Revenue (the "Minister") added $53,300 to the Appellant's income pursuant to subsection 146(10) of the Income Tax Act.
+[2] The Minister determined that this was the fair market value of the non-qualified investments acquired by the Appellant in 1999 using funds held in his self-directed RRSP account.
+[3] The Appellant contends that he did not authorize anyone to use the funds from his RRSP to acquire non-qualified investments and that he simply intended to borrow money using his RRSP as collateral. He said that he was the victim of a scheme by which he was defrauded out of his RRSP funds, and that he should not be required to include any amount in his income under subsection 146(10), or pay any tax on the money that was stolen from him.
+[4] The facts relied upon by the Minister in reassessing the Appellant are set out in paragraph 9 of the Reply to the Notice of Appeal. Those assumptions read as follows:
+a) in early 1999, the appellant was the annuitant of a self-directed registered retirement savings plan ("RRSP") and the value of the said RRSP was approximately $53,300;
+b) under Ontario law, the funds in the RRSP were "locked-in", in that the Appellant could not withdraw them;
+c) the Appellant transferred his RRSP funds from the Laurentian Bank to B"B Trust, a subsidiary of Laurentian Bank (self-directed RRSP number B124933);
+d) on or around January 20, 1999, at the direction of the Appellant, B2B Trust purchased 1,160 class B shares of 3563545 Canada Inc. ("3563545"), at $25.00 per share and 972 class B shares of 9073-5309 Quebec Inc. ("9073-5309"), at $25.00 per share, from funds invested in the Appellant's self-directed RRSP;
+e) throughout the relevant period, the fair market value of the 1,160 shares of 3563545 and the 972 shares of 9073-5309 purchased by B2B Trust was $53,300;
+f) throughout the 1999 taxation year, 3563545 and 9073-5309 had no income and were not carrying on business;
+g) the only activity of 3563545 and 9073-5309 was to receive funds to buy shares in La Financière Telco Inc.;
+h) La Financière Telco Inc.'s only activity was the lending of money; and
+i) the scheme described above was designed to allow the Appellant to access the funds in his locked-in RRSP without paying any tax.
+[5] The evidence showed that in early 1999 the Appellant was unemployed and in financial difficulty. He said he needed money for a leg operation, and was approached by someone who offered to loan him money against his locked-in RRSP funds. The Appellant was not able to recall the names of the person or people with whom he dealt but evidence gathered by the Canada Revenue Agency ("CRA") show that the scheme was operated by a Mr. Jean Tremblay and a number of associates. In order to obtain the loan, the Appellant was required to transfer the proceeds of his RRSP account into a self-directed RRSP account at Laurentian Bank. He was also required to sign certain documents including four form letters addressed to Laurentian Bank.
+[6] Those letters authorized the Bank to use money from the Appellant's self-directed RRSP to purchase shares in 3563545 Canada Inc. and 9073-5309 Quebec Inc. The names of the companies, the number of shares and the price to be paid for the shares were entered into blanks in the letters. The Appellant said the letters relating to 3563545 had been filled in when he signed them, but that he believed the information relating to the shares in 9073-5309 was filled in after he signed the letters. In any event, he said he paid little attention to these documents because he understood that any of the shares that were purchased in his RRSP would be bought back from him by the lender once the Appellant repaid the loan.
+[7] A representative of 3563545 and 9073-5309 then wrote to Laurentian Bank regarding the share purchases and directed the Bank to make payment to their office in Laval, Quebec. The price for the 3563545 shares was $29,000 and the price for the 9073-5309 shares was $24,300. Each company also provided a report prepared by a chartered accountant certifying that the shares were qualified investments under the Income Tax Act and Regulations.
+[8] The Appellant said he had never seen the share certificates that were issued by 3563545 and 9073-5309, copies of which were obtained by the CRA in the course of the subsequent audit. Those certificates showed that Laurentian Bank was issued 1,160 class B shares of 3563545 on January 20, 1999 and 972 class B shares of 9073-5309 on May 20, 1999 in trust for the Appellant. Copies of the shareholder registers of the two companies also showed that the Appellant was a shareholder of each of them.
+[9] The Respondent's witness, Mr. Jefferey Zucker, a group head in the Tax Avoidance Section at the Canada Revenue Agency oversaw the audit work done by CRA in relation to numerous RRSP schemes promoted by Mr. Tremblay. He said that the schemes targeted people in need and offered them the possibility of accessing funds in their RRSPs without incurring income tax. Individuals were offered loans equal to 60 to 70 % of their RRSP balances if they invested their RRSP funds in certain qualified companies controlled by Mr. Tremblay, such as 3563545 and 9073-5309. Mr. Zucker said that those companies had no business operations and were all used to funnel money via share purchases into another related company called La Financière Telco. Telco, in turn, used this money to pay expenses incurred by another corporation controlled by Mr. Tremblay, Les Immeubles Tremesco Inc. Tremesco operated a retirement home in Rigaud, Quebec.
+[10] The financial statements and income tax returns of 3563545 and 9073-5309 for the relevant period show that neither of those corporations was carrying on any active business.
+[11] Mr. Zucker reviewed accounting records obtained from Telco to demonstrate that Telco was not carrying on an active business. Amounts receivable from Tremesco were misrepresented on Telco's financial statements as revenues in order to create the impression that Telco was carrying on an active business, but once the false entries were removed, Telco was left with only a minor amount of interest income apparently from loans made to "investors" such as the Appellant.
+[12] In this case the Appellant stated that he received a loan of $18,000, using his RRSP as collateral, and that he made certain monthly payments on the loan. He said that some payments were later returned to him, but he did not provide any further details of this.
+Analysis
+[13] The following legislative provisions are relied on by the Respondent:
+Income Tax Act
+146(1) "non-qualified investment", in relation to a trust governed by a registered retirement savings plan, means property acquired by the trust after 1971 that is not a qualified investment for the trust;
+. . .
+146(10) Where at any time in a taxation year a trust governed by a registered retirement savings plan
+(a) acquires a non-qualified investment, or
+(b) uses or permits to be used any property of the trust as security for a loan,
+the fair market value of
+(c) the non-qualified investment at the time it was acquired by the trust, or
+(d) the property used as security at the time it commenced to be so used,
+as the case may be, shall be included in computing the income for the year of the taxpayer who is the annuitant under the plan at that time.
+Income Tax Regulations
+4900(6) Subject to subsections (8) and (9), for the purposes of paragraph (d) of the definition "qualified investment" in subsection 146(1) of the Act, paragraph (e) of the definition "qualified investment" in subsection 146.1(1) of the Act and paragraph (c) of the definition "qualified investment" in subsection 146.3(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered retirement savings plan, a registered education savings plan and a registered retirement income fund at any time if at that time the property is
+(a) a share of the capital stock of an eligible corporation (within the meaning assigned by subsection 5100(1)), unless a person who is an annuitant, a beneficiary or a subscriber under the plan or fund is a designated shareholder of the corporation;
+(b) an interest of a limited partner in a small business investment limited partnership; or
+(c) an interest in a small business investment trust.
+. . .
+(12) For the purposes of paragraph (d) of the definition "qualified investment" in subsection 146(1) of the Act, paragraph (e) of the definition "qualified investment" in subsection 146.1(1) of the Act and paragraph (c) of the definition "qualified investment" in subsection 146.3(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registerd retirement savings plan, a registered education savings plan or a registered retirement income fund at any time if, at the time the property was acquired by the trust,
+(a) the property was a share of the capital stock of a corporation (other than a cooperative corporation) that would, at that time or at the end of the last taxation year of the corporation ending before that time, be a small business corporation if the expression "Canadian-controlled private corporation" in the definition "small business corporation" in subsection 248(1) of the Act were read as "Canadian corporation (other than a corporation controlled at that time, directly or indirectly in any manner whatever, by one or more non-resident persons)",
+(b) the property was a share of the capital stock of a venture capital corporation described in any of sections 6700, 6700.1 or 6700.0, or
+(c) the property was a qualifying share in respect of a specified cooperative corporation and the plan or fund
+and, immediately after the time the property was acquired by the trust, each person who is an annuitant, a beneficiary or a subscriber under the plan or fund at that time was not a connected shareholder of the corporation.
+5100(1) . . .
+"eligible corporation", at any time, means
+(a) a particular corporation that is a taxable Canadian corporation all or substantially all of the property of which is at that time
+(i) used in a qualifying active business carried on by the particular corporation or by a corporation controlled by it,
+(ii) shares of the capital stock of one or more eligible corporations that are related to the particular corporation, or debt obligations issued by those eligible corporations, or
+(iii) any combination of the properties described in subparagraph (i) and (ii),
+. . .
+"qualifying active business", at any time, means any business carried on primarily in Canada by a corporation, but does not include
+(a) a business (other than a business of leasing property other than real property) the principal purpose of which is to derive income from property (including interest, dividends, rent and royalties), or
+. . .
+[14] Although the Appellant argues that he did not authorize Laurentian Bank to acquire non-qualified investments from his RRSP funds, the evidence is clearly to the contrary. The Appellant admitted signing the authorization letters and instructions to Laurentian Bank to purchase the shares in 3563545 and 9073-5309, which were acted upon by the bank.
+[15] The Appellant may have failed to exercise care in signing these documents but that does not relieve him of the consequences. I am satisfied that he understood that the share purchases were required in order to obtain a loan from the Tremblay group. It is difficult, however, not to be sympathetic to the Appellant's situation. He is unsophisticated in business matters and was preyed upon by unscrupulous individuals at a time when he was in financial difficulty. However, this cannot have a bearing on the tax consequences that flow from the transactions in issue. The facts in this case are almost identical to those before the Court in Nunn v. The Queen 2006 FCA 403, where the taxpayer also used RRSP funds to purchase shares in companies controlled by Mr. Tremblay. In that case the Court said:
+By purchasing the shares in a non-qualified investment, subsection 146(1) was automatically triggered. Undoubtedly, this result is harsh but it would be unfair to exempt a taxpayer from his or her tax obligation on the basis of mistake or fraud: Vankerk v. R., [2006] F.C.J. No. 371 (F.C.A.) at paragraph 3. Put simply, other Canadian taxpayers should not have to bear the financial burden which arises from unfortunate circumstances such as those that exist here.
+[16] The evidence shows that 3563545 and 9073-5309 were not eligible corporations within the meaning of Regulation 5100(1) of the Income Tax Regulations. From the financial statements filed by each corporation, it is apparent that neither was carrying on a business and that both were only set up to hold shares of Telco. Therefore, substantially all of their property was not used in a qualifying business carried on by them, nor was it made up of shares of the capital stock of an eligible corporation. Telco was not an "eligible corporation" because its principal purpose was to earn interest income from loans, presumably made to the participants in the scheme.
+[17] Furthermore, I find that neither 3563545 nor 9073-5309 was a "small business corporation"within the meaning of subsection 248(1) of the Act and Regulation 4900(12) of the Income Tax Regulations and because neither carried on an "active business" as defined in subsection 125(7) of the Act.
+[18] For these reasons, I am satisfied that the shares in 3563545 and 9073-5309 were not qualified investments under subsection 4900(6) or 4900(12) of the Income Tax Regulations, and were non-qualified investments within the meaning of that term in subsection 146(1) of the Act.
+[19] Given that the shares acquired on the Appellant's behalf with his RRSP funds were not qualified investments, he is required by subsection 146(10) of the Act to include in his income the fair market value of those shares at the time of acquisition.
+[20] According to the Reply to the Notice of Appeal, the Minister assumed that the fair market value of the shares in 3563545 and 9073-5309 was $53,300 at the relevant time. It appears obvious to me that the shares in question had no value when they were acquired. They were part of a scheme to defraud the Appellant of his RRSP funds, and no informed person would have purchased them.
+[21] This is not the end of the matter, however. Under paragraph 146(9)(b) the Appellant is required to include in his income the difference between the consideration paid for the shares and the fair market value of the shares at that time. Paragraph 146(9)(b) reads:
+(9) Where in a taxation year a trust governed by a registered retirement savings plan
+. . .
+(b) acquires property for a consideration greater than the fair market value of the property at the time of the acquisition
+the difference between the fair market value and the consideration, if any, shall be included in computing the income for the taxation year of the annuitant under the plan.
+[22] Having found the fair market value of the shares to be nil at the relevant time the consideration given for the shares exceeded their fair market value by $53,300 and, the Appellant is required to include this amount in his income pursuant to paragraph 146(9)(b).
+[23] Given this conclusion, it is not necessary to deal with the Respondent's further alternative argument that the income inclusion was also mandated by paragraphs 146(10)(b) and (d), on the basis that the Appellant had used his RRSP as collateral for a loan.
+[24] For all of these reasons the appeal is dismissed.
+Signed at Ottawa, Canada, this 2nd day of April 2007.
+"B. Paris"
+Paris J.
+CITATION: 2007TCC194
+COURT FILE NO.: 2006-1941(IT)I
+STYLE OF CAUSE: EDWARD PATRICK DESCHAMPS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sudbury, Ontario
+DATE OF HEARING: March 27, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice B. Paris
+DATE OF JUDGMENT: April 2nd, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

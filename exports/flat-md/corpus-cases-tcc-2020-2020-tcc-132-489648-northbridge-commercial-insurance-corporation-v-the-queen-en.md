@@ -1,0 +1,271 @@
+---
+title: "Northbridge Commercial Insurance Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/489648/index.do"
+last_modified: "2020-12-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 132"
+citation2: ""
+neutral_citation: "2020 TCC 132"
+decision_date: "2020-12-04"
+language: "en"
+item_id: "489648"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4653
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T05:59:59.030000+00:00"
+cases_cited_count: 5
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "685311f44b8c31932f4f2c355596cce7820998a8494b7da940d651ccd8129cb2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Northbridge Commercial Insurance Corporation v. The Queen
+
+- Citation: 2020 TCC 132
+- Decision date: 2020-12-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4653, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Northbridge Commercial Insurance Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-12-04
+Neutral citation
+2020 TCC 132
+File numbers
+2017-1289(GST)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-1289(GST)G
+BETWEEN:
+NORTHBRIDGE COMMERCIAL INSURANCE COPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 28 and 29, 2020, at Toronto, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Marie-Claude Marcil David Douglas Robertson Jasmine Jolin
+Counsel for the Respondent:
+Dan Daniels Tanis Halpape
+JUDGMENT
+The appeals of the reassessments of the Appellant’s reporting periods from January 1, 2007 to December 31, 2016 are dismissed.
+The parties shall have 30 days from the date hereof to reach an agreement on costs, failing which the parties shall have a further 30 days to serve and file written submissions on costs and the parties shall have yet a further 10 days to serve and file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, the parties shall bear their own costs.
+Signed at Ottawa, Canada, this 4th day of December 2020.
+“David E. Graham”
+Graham J.
+Citation: 2020 TCC 132
+Date: 20201204
+Docket: 2017-1289(GST)G
+BETWEEN:
+NORTHBRIDGE COMMERCIAL INSURANCE COPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] The Appellant issues fleet insurance policies to trucking companies. Those companies operate their vehicles in both Canada and the United States of America. In its returns for its reporting periods ending between January 1, 2007 and December 31, 2016, the Appellant claimed input tax credits (“ITCs”) in respect of its activities. The Appellant made these claims on the basis that portions of its supplies were zero-rated. The Minister of National Revenue denied those ITCs on the basis that all of the Appellant’s supplies were exempt supplies. The Appellant has appealed that denial. [1]
+[2] For the most part, the appeal turns on an issue of statutory interpretation. There is little dispute over the key facts. The parties filed a detailed Partial Agreed Statement of Facts. A copy of that agreement is attached as Schedule “A”. [2] The Appellant called three of its employees as witnesses. [3] I found all of them to be credible. The Respondent did not call any witnesses.
+A. Issues
+[3] The issues in this appeal are:
+(a) Was the Appellant entitled to claim ITCs in the reporting periods in issue?
+(b) If so, was the method used by the Appellant to calculate its ITCs appropriate?
+B. Entitlement to Input Tax Credits
+[4] The Appellant submits that it was entitled to claim ITCs in the reporting periods in issue because it made both zero-rated supplies and exempt supplies. The Respondent submits that the Appellant made only exempt supplies and therefore was not entitled to claim any ITCs.
+[5] The difference between the parties’ positions turns on the interpretation of the exported financial services provisions in Schedule VI, Part IX, section 2 of the Excise Tax Act (the “ETA”). Before turning to those provisions, it is important to lay some statutory groundwork.
+(i) The Appellant provides “financial services”
+[6] The parties agree that the Appellant provides “financial services”. The Appellant is an “insurer” that issues “insurance policies” (s. 123(1)). An insurance policy is a “financial instrument” (s. 123(1)). The issuing of a financial instrument and the payment of an amount in satisfaction of a claim arising under an insurance policy are both “financial services” (s. 123(1)). Therefore, the Appellant provides financial services.
+(ii) The Appellant is a “financial institution”
+[7] The parties also agree that the Appellant is a financial institution. An insurer whose principal business is providing insurance under insurance policies is a “financial institution” (s. 149(1)).
+(iii) ITCs may be claimed in respect of zero-rated supplies
+[8] The Appellant is registered for GST. Subsection 169(1) sets out the ITCs that a registrant may claim. Paragraph (c) of element B of the formula in subsection 169(1) states that the Appellant may claim ITCs based on the extent (expressed as a percentage) to which the Appellant acquired a given property or service for consumption, use or supply in the course of the Appellant’s commercial activities.
+[9] “Commercial activities” include a business except to the extent to which the business involves the making of exempt supplies (s. 123(1)). Therefore, if the Appellant only made exempt supplies, it would not have been engaged in commercial activities and would not be entitled to claim ITCs.
+[10] “Exempt supplies” are supplies described in Schedule V of the ETA. Pursuant to Schedule V, Part VII, section 1, the supply of a financial service is an exempt supply unless the supply is a zero-rated supply included in Schedule VI, Part IX.
+[11] If the Appellant made supplies described in Schedule VI, Part IX, it would have been engaged in commercial activities and would have been entitled to claim ITCs to the extent that it acquired a given property or service for consumption, use or supply in the course of the commercial activities. The question is therefore whether the Appellant was making zero-rated supplies under Schedule VI, Part IX. This is a question of statutory interpretation.
+(iv) Zero-rated supplies of insurance
+[12] Section 2 of Schedule VI, Part IX deals with zero-rated supplies of insurance. The paragraph applicable to this appeal is paragraph 2(d). Section 2 reads:
+2. A supply made by a financial institution of a financial service that relates to an insurance policy issued by the institution (other than a service that relates to investments made by the institution), to the extent that
+(a) where the policy is a life or accident and sickness insurance policy (other than a group policy), it is issued in respect of an individual who at the time the policy becomes effective, is a non-resident individual;
+(b) where the policy is a group life or accident and sickness insurance policy, it relates to non-resident individuals who are insured under the policy;
+(c) where the policy is a policy in respect of real property, it relates to property situated outside Canada; and
+(d) where the policy is a policy of any other kind, it relates to risks that are ordinarily situated outside Canada.
+[Emphasis added.]
+[13] Since the Appellant is a financial institution and it is supplying a financial service that relates to insurance policies issued by it, it is making zero-rated supplies to the extent that its policies relate to “risks that are ordinarily situated outside Canada.”
+(v) A single supply that is both zero-rated and exempt
+[14] Section 2 is an unusual provision. Normally, supplies are either zero-rated supplies or exempt supplies. They are not partially one and partially the other. Section 2 is an exception to this rule. It contemplates that a supply of an insurance policy that would otherwise be an exempt supply may be classified as a zero-rated supply “to the extent that” one of the four conditions in paragraphs 2(a) to (d) are met. This means that “to the extent that” the policy does not meet those conditions, it remains an exempt supply. Thus, a supply of a single insurance policy could, for example, be 45% zero-rated and 55% exempt.
+[15] Because section 2 is so unusual, I think that it is important to highlight two things that it does not do:
+(a) Deemed Separate Supplies: Some sections of the ETA deem a given single supply to be two or more separate supplies. [4] This is not what section 2 does. Under section 2, there is still only one supply.
+(b) Single vs. Multiple Supplies: Sometimes registrants make a bundled supply of more than one service and the Court is asked to determine whether the supply was a single supply of a bundle of services or multiple individual supplies of those services. [5] If the Court finds that there were multiple individual supplies, then each of those supplies is separately classified as taxable, exempt or zero-rated. This is not what section 2 does. Each policy is a single supply. The classification occurs within that single supply.
+[16] Because exempt supplies do not attract GST and zero-rated supplies attract GST at a rate of zero percent (s. 165(3)), the classification of a supply under section 2 as being both exempt and zero-rated has no impact on the collection of GST. It does, however, have important implications for the claiming of ITCs.
+[17] If a financial institution pays GST on property or services acquired in the course of making a supply of an insurance policy, subsection 169(1) allows it to claim an ITC to the extent that it acquired the property or services for consumption, use or supply in the course of its commercial activities. It is important to note that the “extent” referred to in subsection 169(1) is not necessarily the same as the “extent” referred to in section 2. The word “extent” in section 2 refers to the degree to which a given supply is zero-rated. As long as this “extent” is greater than zero, the registrant is able to claim ITCs in respect of the supply. The word “extent” in subsection 169(1) refers to the degree to which a given property or service was acquired for consumption, use or supply in the course of that commercial activity. That “extent” determines what percentage of the GST paid to acquire a given property or service may be claimed as an ITC. In the above example, while 45% of the supply was zero-rated, a given property or service may have been acquired 100%, 60% or 25% or even 0% for consumption, use or supply in the course of making the zero-rated portion of the supply.
+[18] In the Appellant’s appeal, to the extent that an insurance policy relates to risks that are ordinarily situated outside Canada, that part of the supply will be considered to be zero-rated and the Appellant will be entitled to claim ITCs in respect of it. It is only if the Appellant passes this first hurdle that I will need to consider to what extent subsection 169(1) allows the Appellant to claim those ITCs.
+(vi) Statutory interpretation
+[19] The question of whether a portion of the Appellant’s supplies are zero-rated turns on the meaning of the phrase “relates to risks that are ordinarily situated outside Canada” in paragraph 2(d). The parties have very different views of the meaning of this phrase. A textual, contextual and purposive analysis of its meaning is required.
+(vii) Textual analysis
+[20] There are two key components to the textual analysis. The first is the word “risks”. The second is the phrase “ordinarily situated”. Neither of these terms is defined in the ETA.
+Risks
+[21] Insurance has two components: the object of the insurance and the peril which that object is insured against. If an insurer issues a policy insuring against the theft of a painting, the peril is theft and the object of the insurance is the painting. If an insurer issues a life insurance policy, the peril is death and the object of the insurance is the person whose life is insured. Sometimes, an insurance policy may have more than one object and may cover more than one peril. If, like the Appellant, an insurer issues automobile insurance, “the insured objects include the owner, driver, and occupants of the motor vehicle, as well as the automobile itself and its contents, whereas the insured perils include accidental loss, damage, injury, or death; legal liability; theft; vandalism; and fire.” [6]
+[22] In the insurance context, the word “risk” is capable of three different meanings:
+(a) Object: “Risk” can refer to the object of the insurance. Merriam-Webster defines “risk” as “a person or thing that is a specified hazard to an insurer”. [7] Black’s Law Dictionary describes it as “someone or something that might be covered by an insurance policy”. [8]
+(b) Peril: “Risk” can also refer to the peril insured against. Merriam-Webster defines “risk” as “an insurance hazard from a specified cause or source” [9] and Black’s Law Dictionary describes it as “a hazard from a specified source”. [10]
+(c) Chance of peril occurring to object: Finally, “risk” can refer to the chance that the peril will occur in respect of the object of the insurance. Merriam-Webster defines “risk” as “the chance of loss or the perils to the subject matter of an insurance contract” [11] and Black’s Law Dictionary describes it as “[t]he chance or degree of probability of loss to the subject matter of an insurance policy”. [12]
+[23] The Appellant provided me with an extract from an insurance law text that uses the word “risk” in this third sense. It describes risk as a combination of the peril insured against and the object of the insurance: [13]
+In insurance parlance, risks involve two distinct variables: the object of the insurance and the insured peril. The magnitude of the risk transferred to the insurer depends on the relationship between these two variables. The insured object is the person or thing that is covered by the contract — that is, the individual or property that must suffer a loss or damage in order for the insurer to pay. The insured peril is the fortuitous occurrence that causes losses or damages to the insured object — that is the danger that must materialize in order for the insurer to pay.
+[Emphasis added.]
+[24] By contrast, in its definition of “insurance”, the Insurance Act (Ontario) uses the word “risk” in the sense of a peril: [14]
+“insurance” means the undertaking by one person to indemnify another person against loss or liability for loss in respect of a certain risk or peril to which the object of the insurance may be exposed, or to pay a sum of money or other thing of value upon the happening of a certain event, and includes life insurance;
+[Emphasis added.]
+[25] Insurance legislation in British Columbia, Alberta, Saskatchewan, Manitoba, Newfoundland and Labrador, Nova Scotia and Prince Edward Island uses similar definitions. [15]
+[26] If all three meanings of the word “risks” are acceptable in the insurance context, then which meaning did Parliament use in paragraph 2(d)? The Respondent submits that, in that paragraph, “risks” means the objects of the insurance. The Appellant submits that it means the perils insured against. I find that, from a textual point of view, it means either the objects of the insurance or the chance of a peril occurring in respect of the objects of the insurance. It does not mean the perils insured against.
+[27] When the word “risks” is viewed within the phrase “risks that are ordinarily situated outside Canada”, it becomes clear that “risks” cannot mean the perils insured against. How does one possibly determine where the perils insured against are ordinarily situated other than by reference to the object of the insurance? Say an insurance company insures a painting against theft. If “risk” simply means the peril of theft, then how does one determine whether theft is ordinarily situated outside Canada? Theft is unfortunately universal. It is not situated anywhere.
+[28] The other two meanings of “risk” are both compatible with the phrase “risks that are ordinarily situated outside Canada”. One could easily determine whether a policy relates to objects that are ordinarily situated outside Canada. In the above example, the risk of theft is everywhere, but the painting itself is ordinarily situated somewhere.
+[29] Similarly, one could determine whether a policy relates to the chance of a peril occurring in respect of the objects of the insurance that is ordinarily situated outside Canada. While it may be more difficult to determine where a chance was ordinarily situated, one could make that determination. The chance of theft of a painting that is always in Egypt is clearly ordinarily situated outside Canada.
+[30] The Appellant argues that one can determine whether a peril is located outside Canada by looking at the insurer’s historical claims and seeing where they occurred. The Appellant argues that, if 25% of an insurer’s historical claims occurred outside Canada, then 25% of the perils are ordinarily situated outside Canada and 75% of the perils are ordinarily situated in Canada. This interpretation has two flaws.
+[31] The first flaw is that the interpretation effectively reads out the word “ordinarily”. The word “ordinarily” requires some sort of comparison. Whether “ordinarily” means normally, usually or customarily, the word requires one to compare at least two states to determine which one normally, usually or customarily exists. The Appellant’s interpretation removes that comparison and simply asks where the perils are situated. The Appellant wants me to conclude that all perils found outside Canada are situated outside Canada and all perils found in Canada are situated in Canada. This conclusion involves no comparison. It is simply a statement of fact. Interpreting the word “risk” in this manner would render the word “ordinarily” redundant. Parliament does not speak in vain. The word “ordinarily” is there for a reason and must be given meaning. [16]
+[32] The second flaw with the Appellant’s interpretation is that it ignores the requirement that each individual supply of an insurance policy be classified as either exempt, zero-rated or partially exempt and partially zero-rated. This classification is based on the characteristics of the individual supply, not the historical characteristics of the insurer’s supplies as a whole. If an insurance company has a historical record of significant theft claims in New Zealand, what possible relevance would that have to determining the nature of the supply of a policy insuring a sculpture that rests in a garden in Canada? There is no risk that the sculpture will be stolen in New Zealand if the sculpture is never in New Zealand. The risk of theft is entirely situated in Canada because the sculpture is always situated in Canada.
+[33] The Appellant also argues that the phrase “to the extent that” in the preamble of section 2 supports its interpretation of the word “risks”. The Appellant says that the phrase requires an apportionment to occur and that, in order to give meaning to that phrase, one must apportion perils into those occurring outside Canada and those occurring in Canada. I disagree. There is no need to use the Appellant’s interpretation to give this phrase meaning. The phrase already has a clear and logical meaning under the other two interpretations of “risk”.
+[34] The other two interpretations clearly call for an apportionment. Under both interpretations, the apportionment of a given supply between exempt and zero-rated is done on an object-by-object basis. Say a single insurance policy insures eleven different paintings against theft. If “risks” means the objects of the insurance, then one looks at where each painting is ordinarily situated. If two of the paintings are ordinarily situated outside Canada and nine of the paintings are ordinarily situated in Canada, the insurer treats the supply of the policy as zero-rated “to the extent that” the supply covers the two paintings and exempt “to the extent that” the supply covers the nine paintings.
+[35] Similarly, if “risks” means the chance of a peril occurring in respect of the object of the insurance, then one looks at where the risk of theft of each painting is ordinarily situated. If the risk is ordinarily situated outside Canada for three of the paintings and in Canada for the other six paintings, then the insurer treats the supply of the policy as zero-rated “to the extent that” the supply covers the three paintings and exempt “to the extent that” the supply covers the six paintings.
+Ordinarily situated
+[36] As set out above, the Appellant’s interpretation of “risks” would require me to read out the word “ordinarily” from the phrase “ordinarily situated”. As I am unwilling to do so, I need to determine what the phrase means.
+[37] The Respondent submits that the phrase “ordinarily situated” means usually, commonly or customarily situated. I agree. That said, the text itself does not tell me how I am to determine where the risk is usually, commonly or customarily situated.
+Textual conclusion
+[38] In light of all of the foregoing, I find that the text of paragraph 2(d) is ambiguous. The word “risks” could either mean the objects of the insurance or the chance of a peril occurring in respect of the objects of the insurance. It does not, however, mean the perils insured against.
+[39] The phrase “ordinarily situated” means usually, commonly or customarily situated but it is unclear how I am to determine where the risk is usually, commonly or customarily situated.
+(viii) Contextual analysis
+[40] I will now turn to the contextual analysis. I will look first at the other paragraphs in section 2 and then consider how the phrase “ordinarily situated” is used elsewhere in the ETA.
+[41] The primary context of paragraph 2(d) is section 2 itself. As set out above, paragraph 2(d) is a catch-all provision that covers insurance policies not described in paragraphs 2(a) to (c).
+[42] Paragraph 2(a) covers life or accident and sickness policies other than group policies. The supply of these types of policies is zero-rated to the extent that they are issued in respect of an individual who is a non-resident at the time the policy becomes effective.
+[43] Paragraph 2(b) covers group life or accident and sickness insurance. The supply of these types of policies is zero-rated to the extent that they relate to non-resident individuals who are insured under the policy.
+[44] Paragraph 2(c) covers policies in respect of real property. The supply of these types of policies is zero-rated to the extent that they relate to real property situated outside Canada.
+“Risks” are the objects
+[45] Paragraphs 2(a) to (c) provide much needed clarity on the textual ambiguity of the word “risks”. They strongly support the Respondent’s argument that “risks” means the objects of the insurance. All three paragraphs are focused on the objects of the insurance. None of the paragraphs refers to the perils insured against.
+[46] Paragraph 2(c) focuses entirely on the real property being insured. Paragraphs 2(a) and (b) both focus on the individual being insured. There is no reference to the chances of perils occurring. Under paragraph 2(a), if an individual is a resident when he or she applies for life insurance, the supply of the policy to him or her will be an exempt supply. This is true regardless of whether the individual’s greatest risk of death is outside Canada.
+Historical claims are irrelevant
+[47] Paragraphs 2(a) to (c) all determine whether a given insurance policy is exempt or zero-rated based on the characteristics of the object of the insurance at the time of the supply. None of these paragraphs requires me to consider whether the insurer has a history of claims outside Canada.
+[48] The locations in which other individuals insured by the same company have historically died are irrelevant to the classification of policies under paragraphs 2(a) and (b). Similarly, the locations in which other individuals or even the individuals being insured have historically become sick or suffered accidents are irrelevant to the classification of policies under those paragraphs.
+[49] Similarly, under paragraph 2(c), the fact that the insurer has had significant fire insurance claims against houses in California has no bearing on the status of the fire insurance it issues on a house in the Yukon. All that matters is where the house is located.
+[50] The fact that none of these paragraphs considers the insurer’s history of claims reinforces my conclusion that the Appellant’s interpretation is incorrect.
+Multi-factor test
+[51] The fact that paragraphs 2(a) and (b) use the individual’s residence as the determining factor in the classification of the policy is revealing. Asking whether someone is a resident of Canada or not is another way of asking where he or she is ordinarily situated. An individual’s residence is not determined simply by his or her primarily physical location. A multi-factor test is employed to examine all of the individual’s connections to a country. Because of this multi-factor test, an individual who is absent from Canada for the entire year may nonetheless continue to be a Canadian resident.
+[52] The use of a multi-factor test in paragraphs 2(a) and (b) strongly suggests that, in determining whether the objects of an insurance policy are ordinarily situated outside Canada, I should examine a number of different factors to see how the objects are connected to Canada.
+Object-by-object allocation
+[53] Paragraphs 2(a) to (c) all support the idea that the supply of an insurance policy is to be divided into exempt and zero-rated portions on an object-by-object basis. If a joint, first-to-die life insurance policy is issued to two siblings, one of whom is a resident and the other of whom is a non-resident, paragraph 2(a) treats the supply of the policy as exempt to the extent that it relates to the resident sibling (one object of the insurance) and zero-rated to the extent that it relates to the non-resident sibling (the other object of the insurance). If a company with employees both inside and outside Canada has a group accident and sickness policy, paragraph 2(b) treats the supply of the policy as exempt to the extent that it relates to resident employees (certain objects of the insurance) and zero-rated to the extent that it relates to non-resident employees (other objects of the insurance). Finally, if an individual owns houses in both Canada and India and insures those houses under a single house insurance policy, paragraph 2(c) treats the supply of the policy as exempt to the extent that it relates to the home in Canada (one object of the insurance) and zero-rated to the extent that it relates to the home in India (the other object of the insurance).
+[54] The fact that paragraphs 2(a) to (c) make an apportionment between exempt and zero-rated on an object-by-object basis strongly supports that idea that a similar allocation is to be made under paragraph 2(d).
+Ordinarily situated vs. situated
+[55] Paragraph 2(c) uses the word “situated” rather than “ordinarily situated”. Since real property cannot move, the absence of the word “ordinarily” in paragraph 2(c) is hardly surprising. Nonetheless, the absence of the word in paragraph 2(c) indicates that its inclusion in paragraph 2(d) was intentional and must be given meaning.
+Ordinarily situated
+[56] The phrase “ordinarily situated” is used five other times in the ETA. [17] Each time it is used, it refers to tangible personal property. The Appellant submits that if Parliament had wanted “risks” to mean the objects insured, it would have set out a separate paragraph for tangible personal property making that clear. I disagree.
+[57] If “risks” means the objects of an insurance policy, then it means all such objects, not just tangible personal property. It means the objects of insurance policies covering intangibles, directors’ liability, general liability, business interruption, et cetera. There would have been no need for Parliament to have inserted a separate paragraph for tangible personal property when such property was already completely covered by the general provisions of paragraph 2(d).
+Contextual conclusion
+[58] In summary, I find that the contextual analysis confirms that the Appellant’s interpretation is incorrect. More importantly, it resolves the textual ambiguity of the word “risks”. It clarifies that “risks” means the objects of the insurance. It also affirms that any apportionment of a supply between exempt and zero-rated portions should occur on an object-by-object basis. Finally, it suggests that a multi-factor approach should be taken when examining where those objects are ordinarily situated.
+(ix) Purposive analysis
+[59] The Appellant relies on the August 1989 Goods & Services Tax Technical Paper and the Department of Finance’s Goods & Services Tax – Summary & Technical Notes released on December 19, 1989 to argue that Parliament intended the word “risks” to mean perils. With respect, these documents do not provide any clarity on this issue. They simply speak of the location of the risk. While this may suggest that “situated” means located, it does nothing to clarify what “risks” means.
+[60] The Appellant submits that the purpose of zero-rating supplies of certain financial services is to ensure that Canadian financial institutions are not placed at a disadvantage when competing against non-Canadian financial institutions to make those supplies. Canadian financial institutions pay GST on many of their inputs. That increases those financial institutions’ costs of doing business which, in turn, may make them less competitive in the international marketplace. Treating financial services that relate to matters outside Canada as zero-rated supplies allows the financial institutions to recoup some of those costs and therefore to be more internationally competitive. I agree that this is one of the primary purposes of zero-rating supplies of financial services. [18] The Appellant submits that the Respondent’s interpretation defeats this purpose. I disagree.
+[61] Say a Canadian insurer issues a policy insuring eight rare coins. If two of the coins are ordinarily situated outside Canada and the other six are ordinarily situated in Canada, the supply will be zero-rated as it relates to the two coins and exempt as it relates to the remaining six coins. The Canadian insurer will be able to claim ITCs to the extent that it acquired property or services for consumption or use in the course of supplying the insurance for those two coins. Its costs of doing business will accordingly be decreased. The goal of ensuring that the Canadian insurer can compete on a level playing field with non-Canadian insurers trying to insure those same two coins will have been fulfilled by these allocations.
+[62] The Appellant does not suggest that paragraphs 2(a) to (c) defeat the purpose of zero-rating exported financial services. Yet these paragraphs function in exactly the same manner as paragraph 2(d). A Canadian insurer competing to provide life insurance to a non-resident has the benefit of that supply being zero-rated and its costs being correspondingly decreased. The same is true of a Canadian insurer competing to provide group accident insurance to non-residents or house insurance to the owner of a property situated outside Canada.
+[63] In fact, the Appellant’s interpretation could result in an abuse of the very purpose that the Appellant claims to want to protect. Say two different Canadian insurers are competing to insure a stamp collection owned by a Canadian museum. The stamps never leave Canada. The first insurer has a long history of claims for thefts made outside Canada. Historically, 70% of its payouts have been in respect of such claims. The second insurer has never made a payout in respect of a theft that occurred outside Canada. If “risks” means the objects of the insurance, then both insurers would be making an exempt supply as the stamps are ordinarily situated in Canada. Neither insurer would be entitled to ITCs in respect of any property or services acquired for consumption or use in the course of making the supply. They would be competing on an even playing field. By contrast, under the Appellant’s interpretation, because the first insurer had a history of losses outside Canada, 70% of its supply would be zero-rated. However, since the second insurer had a different history, its entire supply would be exempt. The first insurer would be at a competitive advantage because it could claim ITCs on the property and services it acquired to make 70% of the supply in question. It would be able to claim these ITCs on the basis that it was exporting financial services even though the supply was a supply by a Canadian insurer to a Canadian customer covering property located exclusively in Canada. The purpose of zero-rating exported financial services would have been abused.
+[64] The Appellant also argues that it would be administratively burdensome to require an insurer to determine the status of each of its policies on an object-by-object basis and that Parliament cannot have intended to impose such a burden. I disagree.
+[65] There is nothing unusual about the administrative burden that section 2 places on financial institutions. It is the exact same burden that the ETA places on every registrant. Registrants cannot simply charge GST based on historical averages. They must classify each good or service that they sell as either taxable or exempt.
+[66] In any event, an object-by-object determination is actually a very practical approach. Say an individual wants to insure seven diamond necklaces, six in Canada and one in Peru. If section 2 were drafted in a manner that punished the insurer for insuring them all under the same policy, the insurer would simply write two separate policies, one for the necklaces in Canada and one for the necklace in Peru. The insurer would classify the first policy as an exempt supply and the second policy as a zero-rated supply. The object-by-object determination in section 2 makes it easy for the insurer by making sure that the location of the six necklaces does not taint the zero-rated status of the coverage of the seventh necklace. The insurer goes through the same classification process but avoids the hassle of having to issue a second policy.
+[67] Furthermore, if a policy argument is to be made for interpreting section 2 in a manner that makes it workable for insurers, that argument would favour the interpretation of “risks” as the objects of the insurance. It is impossible to determine where a peril is ordinarily situated. It may be difficult to determine where the chance of that peril occurring in respect of the object of the insurance is ordinarily situated. It should generally be easy to determine where the objects of the insurance are ordinarily situated.
+[68] In summary, the purposive analysis does not reveal any underlying ambiguity in the text of paragraph 2(d). On the contrary, the purposive analysis shows that the Respondent’s textual and contextual interpretation of paragraph 2(d) supports the purpose of that provision.
+(x) Meaning of “relates to risks that are ordinarily situated outside Canada”
+[69] Based on the foregoing textual, contextual and purposive analysis, I conclude that “risks” means the objects of an insurance policy. Paragraph 2(d) treats the supply of an insurance policy as zero-rated to the extent that those objects are ordinarily situated outside Canada. A multi-factor approach should be taken when examining where the objects are ordinarily situated. If a policy insures more than one object, any apportionment of the supply of that policy into exempt and zero-rated parts should occur on an object-by-object basis.
+(xi) Application of that meaning to the Appellant’s supplies
+[70] The Appellant offers fleet insurance to trucking companies. The insured vehicles travel in both Canada and the United States.
+[71] The Appellant performed a historical analysis of the payouts on its insurance policies and concluded that 33.3% of those payouts were in respect of perils that arose in the United States. Based on its interpretation of section 2 and this historical analysis, the Appellant claimed that 33.3% of its supplies were zero-rated.
+[72] The Appellant’s approach was incorrect. The Appellant’s apportionment between exempt and zero-rated was done on a global basis. As set out above, section 2 is a very unique section under which an apportionment happens within a given supply on an object-by-object basis. The Appellant should have made a separate apportionment for each policy on a vehicle-by-vehicle basis for the vehicles covered by that policy.
+[73] All of the evidence presented at trial was global evidence. I do not have any specific evidence regarding the individual policies in issue, let alone evidence regarding the vehicles covered by those policies. Without this evidence, it is impossible for me to determine whether the supply of any given policy was partly zero-rated. This lack of evidence is a sufficient basis for me to dismiss the appeals and I do so on that basis.
+[74] That said, the parties went to a great deal of effort to set out the factual foundation of this appeal and to apply their understandings of the law to those facts. The Appellant continues to operate the same business and would undoubtedly like to have a better understanding of its tax position going forward. In the circumstances, I feel that it is appropriate to provide some guidance as to how I would have applied section 2 had the appropriate evidence been before me.
+[75] Assuming that the evidence before me is representative of what the evidence would have been in respect of each of the individual policies, I would have found that those policies related to risks that were ordinarily situated in Canada, that the supply of each policy was entirely an exempt supply and that the appeals should therefore be dismissed.
+[76] I would have started my analysis by looking at the objects of the insurance (i.e. the vehicles). I would have focused on both the number of days that each vehicle spent outside Canada and the percentage of the overall kilometers travelled by each vehicle that occurred outside Canada.
+[77] I would have found the fact that the vehicles were all insured using the standard insurance terms for Ontario vehicles to be a relevant factor. However, I would not have considered the fact that the Appellant is a Canadian insurer to be relevant.
+[78] There was little evidence on the following points but, had such evidence been provided, I would have considered it relevant: the jurisdiction in which the owners of the fleets were based; the location where regular maintenance on the vehicles was conducted; the jurisdiction in which the drivers were licensed; and the location where the vehicles were kept when not in use.
+[79] I may also have considered the reason why the vehicles left Canada. For example, it seems to me that a vehicle that leaves Canada to pick up a load in Detroit and deliver it to Seattle has a different type of connection to the United States than one that picks up a load in Toronto for delivery to Calgary but passes through the United States during part of the journey in order to avoid the long drive around the northern side of Lake Superior.
+[80] The parties had very different views on whether I should consider the jurisdiction where the vehicles were registered. I would have given some weight to that factor. I accept that vehicles registered in one jurisdiction may operate anywhere in Canada or the United States. I also accept that the International Registration Plan [19] causes registration fees to be shared among any province or state in which the vehicles operate and that this sharing occurs regardless of where the vehicles are registered. None of these things alters the fact that the owner of the vehicles made a choice to register the vehicles in a certain jurisdiction. This choice creates some level of nexus between the vehicle and that jurisdiction. While that registration is by no means determinative of the question of whether the risk is ordinarily situated outside Canada, it is a factor that I would have considered.
+[81] There was extensive evidence regarding how the Appellant priced its insurance policies. That methodology would have been very relevant had I concluded that “risks” meant the chance of a claim in respect of a given vehicle. However, since I have concluded that “risks” means the vehicles themselves, I would not have considered it.
+[82] Similarly, the Appellant’s historical data showing that 33.3% of the Appellant’s insurance payouts were in respect of perils that occurred in the United States would not have been relevant. That information may have been relevant had I found that “risks” meant the chance of a claim in respect of a given vehicle. However, it would have seriously harmed the Appellant’s position as it clearly indicated that the chances of a claim in respect of a given vehicle were ordinarily situated in Canada, not the United States.
+C. Calculation of Input Tax Credits
+[83] Having found that the Appellant was only making exempt supplies, there is no need for me to consider whether the Appellant correctly claimed ITCs. Part of the ITC issue involves section 141.02. To my knowledge, that section has not previously been considered by this Court. It is better to leave that task for another day.
+D. Disposition and Costs
+[84] Based on all of the foregoing, the appeals are dismissed.
+[85] The parties shall have 30 days from the date hereof to reach an agreement on costs, failing which the parties shall have a further 30 days to serve and file written submissions on costs and the parties shall have yet a further 10 days to serve and file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, the parties shall bear their own costs.
+Signed at Ottawa, Canada, this 4th day of December 2020.
+“David E. Graham”
+Graham J.
+Schedule “A”
+CITATION:
+2020 TCC 132
+COURT FILE NO.:
+2017-1289(GST)G
+STYLE OF CAUSE:
+NORTHBRIDGE COMMERCIAL INSURANCE COPORATION AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 28 and 29, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+December 4, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Marie-Claude Marcil David Douglas Robertson Jasmine Jolin
+Counsel for the Respondent:
+Dan Daniels Tanis Halpape
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Marie-Claude Marcil David Douglas Robertson Jasmine Jolin
+Firm:
+EY Law LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Appellant also appealed the imposition of late filing penalties but conceded that issue at trial.
+[2] Appendix “A” to the Partial Agreed Statement of Facts is not attached. It contains proprietary information and has been sealed.
+[3] Ken Yong-Ping (an executive underwriter with the Appellant), Charles Paré (the Appellant’s Senior Vice President of Actuarial Pricing) and Steven Donohoe (The Appellant’s Vice President of Taxation).
+[4] See, for example, sections 136, 136.2 and 136.3.
+[5] See, for example, O.A. Brown Ltd. v. The Queen, 1995 CarswellNat 37, [1995] GSTC 40 (TCC); Oxford Frozen Foods Ltd. v. The Queen, 1996 CarswellNat 2076, [1996] GSTC 76 (TCC), Club Med Sales Inc. v. The Queen, 1997 CarswellNat 416, [1997] GSTC 28 (TCC); Hidden Valley Golf Resort Assn. v. The Queen, 2000 CarswellNat 1162, [2000] GSTC 42; Global Cash Access (Canada) Inc. v. The Queen, 2013 FCA 269; Great-West Life Assurance Company v. The Queen, 2016 FCA 316; and SLFI Group v. The Queen, 2019 FCA 217.
+[6] Boivin, Denis, Insurance Law, 2nd ed. (Toronto: Irwin Law, 2015) at page 29.
+[7] Merriam-Webster’s Collegiate Dictionary, 11th ed., (Springfield, Mass.: Merriam-Webster Inc. 2003) at page 1076, definition 3b.
+[8] Black’s Law Dictionary, 9th ed., by Bryan A. Garner, Editor in Chief (St. Paul, Minn: West Publishing Co., 2009), at page 1442, definition 5.
+[9] At page 1076, definition 3c.
+[10] At page 1442, definition 6.
+[11] At page 1076, definition 3a.
+[12] At page 1442, definition 3.
+[13] Boivin, Denis, Insurance Law, 2nd ed. (Toronto: Irwin Law, 2015) at page 28.
+[14] R.S.O. 1990, c. I.8, section 1.
+[15] Insurance Act (BC), RSBC 2012, c. 1, section 1; Insurance Act (Alberta), RSA 2000, c. I-3, section 1(aa); The Insurance Act (Saskatchewan), SS 2015, c.I-9.11, section 1-2; The Insurance Act (Manitoba), RSM 1987, c. I40, section 1; Insurance Companies Act (Newfoundland and Labrador), RSN 1990, c. I-10, section 2(x); Insurance Act (Nova Scotia), RSNS 1989, c. 231, section 3(k); and Insurance Act (Prince Edward Island), RSPEI 1988, c. I-4, section 1(j).
+[16] Bell ExpressVu Limited Partnership v. Rex, 2002 SCC 42, at para. 37.
+[17] Subsections 142(1), 142(2) and 240(3) and Schedule VI, Part V, sections 4 and 10.1.
+[18] CIBC World Markets Inc. v. The Queen, 2019 FCA 147, at paras. 37 and 55.
+[19] Adopted September 1973 (as amended), Joint Book of Documents, Tab 17.

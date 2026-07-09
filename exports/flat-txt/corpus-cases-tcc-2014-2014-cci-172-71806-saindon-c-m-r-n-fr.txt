@@ -1,0 +1,128 @@
+Title: Saindon c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71806/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-172-71806-saindon-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2014-05-23
+
+# Saindon c. M.R.N.
+
+- Citation: 2014 CCI 172
+- Decision date: 2014-05-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5379, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saindon c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-23
+Référence neutre
+2014 CCI 172
+Numéro de dossier
+2013-2464(CPP)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2013-2464(CPP)
+2013-2465(EI)
+ENTRE :
+RENALD L. SAINDON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 26 février 2014, à Winnipeg (Manitoba).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Neil Goodridge
+JUGEMENT
+Les appels interjetés à l’encontre de décisions rendues par le ministre du Revenu national selon lesquelles, pour l’application de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada, Leo Giesbrecht occupait un emploi assurable et ouvrant droit à pension auprès de l’appelant au cours de la période allant du 7 février 2011 au 5 mai 2012, sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 23e jour de mai 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 25e jour de juin 2013.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2014 CCI 172
+Date : 20140523
+Dossiers : 2013-2464(CPP)
+2013-2465(EI)
+ENTRE :
+RENALD L. SAINDON,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Introduction [1] Les présents appels sont interjetés à l’encontre de décisions rendues par le ministre du Revenu national (le « ministre ») selon lesquels Leo Giesbrecht (le « travailleur ») était un employé de Renald L. Saindon (l’« appelant ») au cours de la période allant du 7 février 2011 au 5 mai 2012.
+[2] L’appelant soutient que le travailleur était un entrepreneur indépendant qui lui fournissait des services dans le cadre d’une entreprise exploitée par le travailleur pour son propre compte.
+II. Résumé des faits [3] L’appelant exploitait une entreprise de camionnage et utilisait pour ce faire deux camions dont il était propriétaire.
+[4] L’entreprise était exploitée en tant qu’entreprise à propriétaire unique toute l’année durant.
+[5] Il ressort de la preuve que l’appelant avait conclu des ententes avec les sociétés Flying Eagle Transport (« Flying ») et Day & Ross Transport pour la fourniture d’un camion et des services d’un chauffeur.
+[6] Le travailleur a été embauché pour travailler en tant que chauffeur du camion que l’appelant fournissait à Flying.
+[7] Le travailleur recevait ses instructions des répartiteurs de Flying.
+[8] Les éléments de preuve établissent que le travailleur ne pouvait pas embaucher d’aide ni de chauffeur remplaçant.
+[9] L’appelant payait tous les coûts associés à l’exploitation du camion par le travailleur, à l’exception des contraventions pour des infractions aux règles de la sécurité routière commises par le travailleur.
+[10] Parfois, lorsqu’il n’y avait pas de livraisons ni de ramassages à faire avec le camion de l’appelant selon le contrat conclu avec la société Flying, celle‑ci attribuait au travailleur des tâches à faire dans l’entrepôt.
+[11] Le travailleur gagnait un salaire fixe de 17 $ l’heure. L’appelant facturait à Flying 48 $ l’heure pour les services de camionnage et rémunérait le travailleur à son taux horaire. Flying payait 17 $ l’heure à l’appelant pour les tâches exécutées à l’entrepôt par le travailleur et l’appelant rémunérait à son tour le travailleur.
+III. Analyse [12] La jurisprudence est claire en ce qui concerne le critère juridique applicable pour trancher la question de savoir si une personne est un employé ou un travailleur indépendant.
+[13] La décision de principe sur cette question est l’arrêt Wiebe Door Services Ltd. v. M. N. R.[1], qui a été confirmé par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[2] La question centrale est de savoir si, oui ou non, le travailleur « fournit [les services] en tant que personne travaillant à son compte[3] ». L’arrêt Sagaz résume ainsi le critère énoncé dans l’arrêt Wiebe Door ainsi que les facteurs à prendre en considération pour connaître le type de relation auquel on a affaire :
+47 [...] Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire[4].
+[Non souligné dans l’original.]
+[14] Outre ces facteurs, il faut aussi considérer l’intention subjective des parties. S’il est possible de déceler l’existence d’une intention commune des parties à propos du genre de relation qu’elles entendaient établir, cette intention doit être examinée par la Cour dans son analyse des facteurs susmentionnés.
+[15] Il importe de garder à l’esprit toutefois que l’intention des parties n’est pertinente que si les faits de l’espèce permettent de la discerner. L’intention subjective des parties n’est pas en tant que telle déterminante. Le juge Mainville, de la Cour d’appel fédérale, a fait la mise au point suivante[5] :
+37 [...] La situation juridique d’entrepreneur indépendant ou d’employé ne se détermine [donc] pas seulement sur la base de l’intention déclarée des parties. Cette détermination doit aussi se fonder sur une réalité objective et vérifiable.
+[16] Il ressort aussi de l’arrêt Connor Homes que l’analyse requiert un processus en deux étapes. D’abord, il faut savoir quelle était l’intention des parties pour être en mesure de dire quel type de relation elles souhaitaient établir. Puis, compte tenu de cette intention, il faut analyser les faits pour savoir si elle est bien reflétée dans la réalité objective. À cette deuxième étape, la Cour doit appliquer les quatre critères de l’arrêt Wiebe Door, c’est-à-dire (i) le contrôle, (ii) la propriété des instruments de travail, (iii) les chances de bénéfice et (iv) les risques de perte, pour savoir si la réalité des faits traduit l’intention subjective des parties. Ces critères ne sont pas exhaustifs. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[17] Il ressort clairement de la preuve que l’appelant souhaitait employer le travailleur en tant qu’entrepreneur indépendant. Le travailleur ne semble pas avoir accepté ce statut. En tout état de cause, l’intention des parties n’est pas déterminante pour trancher la question. L’intention des parties doit également être compatible avec la réalité objective de leur relation, qui est déterminée au moyen de l’appréciation des facteurs énoncés au paragraphe 16 des présents motifs.
+Le contrôle [18] La preuve établit que le travailleur recevait des instructions des répartiteurs de Flying en ce qui concerne les marchandises qui devaient être transportées au moyen du camion de l’appelant. À mon avis, cela constitue un contrôle exercé par Flying en vertu d’une délégation de pouvoir que l’appelant avait donnée à Flying. Je déduis de la preuve dans son ensemble que Flying, la cliente de l’appelant, pouvait porter plainte auprès de l’appelant si le travailleur n’exécutait pas ses fonctions comme il fallait. L’appelant pouvait prendre des mesures disciplinaires à l’égard du travailleur en lui interdisant simplement de conduire le camion pour Flying. Il est de jurisprudence constante que la question de savoir si le contrôle a effectivement été exercé importe peu. Ce qui importe, c’est que l’appelant aurait pu exercer le contrôle. Je suppose qu’il aurait fallu que le travailleur obéisse à l’appelant, à défaut de quoi son droit de conduire le camion aurait pu être suspendu. Le facteur du contrôle milite en faveur d’une conclusion selon laquelle il existait une relation employé‑employeur.
+La propriété des instruments de travail [19] Le camion de l’appelant était essentiel à l’exécution des fonctions du travailleur. Aucun autre instrument de travail n’était vraiment nécessaire. Lorsque l’appelant a décidé de vendre son camion, le travailleur s’est retrouvé sans emploi.
+Les possibilités de profit [20] Le travailleur recevait un traitement horaire fixe pour ses services. L’appelant facturait à Flying un montant supérieur à ce traitement pour la fourniture d’un chauffeur et d’un camion. La possibilité de profit était limitée par le nombre d’heures travaillées par le travailleur. Bien que Flying ait confié directement au travailleur certaines tâches à faire à l’entrepôt, la rémunération pour l’exercice de ces tâches était versée par Flying à l’appelant, qui avait détaché le travailleur auprès de Flying pour la fourniture des services à l’entrepôt. Les tâches à faire à l’entrepôt étaient également rémunérées à l’heure, au même taux de 17 $ fixé par l’appelant pour les services de chauffeur de camion fournis par le travailleur.
+Les risques de perte [21] Le travailleur ne payait pas de frais d’exploitation. Il n’assumait que la responsabilité des contraventions qu’il recevait pour des infractions aux règles de la sécurité routière. Il n’avait aucun capital investi dans une entreprise. Ce facteur milite en faveur de l’existence d’une relation employé‑employeur.
+[22] Tout compte fait, l’application des facteurs énoncés dans l’arrêt Wiebe Door milite en faveur d’une conclusion selon laquelle le travailleur était un employé. Le travailleur n’exploitait pas d’entreprise pour son propre compte.
+IV. Conclusion [23] Pour les motifs exposés ci‑dessus, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 23e jour de mai 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 25e jour de juin 2013.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2014 CCI 172
+Nos DES DOSSIERS DE LA COUR : 2013-2464(CPP)
+2013-2465(EI)
+INTITULÉ : RENALD L. SAINDON c.
+M.R.N.
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 26 février 2014
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 23 mai 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Neil Goodridge
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1986] 3 F.C. 553, 1986 CarswellNat, à la page 366.
+[2] [2001] 2 R.C.S. 983, 2001 CSC 59.
+[3] Ibid., au paragraphe 47.
+[4] Ibid.
+[5] 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu national), 2013 CFA 85.

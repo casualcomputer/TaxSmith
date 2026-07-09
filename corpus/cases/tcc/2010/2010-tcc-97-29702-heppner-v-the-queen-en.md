@@ -1,0 +1,101 @@
+---
+title: "Heppner v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29702/index.do"
+last_modified: "2010-02-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 97"
+citation2: ""
+neutral_citation: "2010 TCC 97"
+decision_date: "2010-02-17"
+language: "en"
+item_id: "29702"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6220
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:38:33.006000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "271c63efd9e582764f3a401760bdfe8049d42ed7009df49d1061f3733676adc3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Heppner v. The Queen
+
+- Citation: 2010 TCC 97
+- Decision date: 2010-02-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6220, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Heppner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-17
+Neutral citation
+2010 TCC 97
+File numbers
+2003-4552(IT)G
+Judges and Taxing Officers
+Bruce Preston
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4552(IT)G
+BETWEEN:
+DWAYNE HEPPNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Respondent in this proceeding under the authority of subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM of $3,884.84.
+Signed at Toronto, Ontario, this 17th day of February 2010.
+“Bruce Preston”
+Taxing Officer
+Citation: 2010 TCC 97
+Date: 20100217
+Docket: 2003-4552(IT)G
+BETWEEN:
+DWAYNE HEPPNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR TAXATION
+Bruce Preston, T.O., T.C.C.
+[1] This matter came on for hearing by way of a telephone conference call on Thursday, February 11, 2010. It follows a Judgment of the Honourable Madam Justice Woods of this Court issued on November 2, 2007, dismissing the appeal, with costs to the Respondent.
+[2] The Appellant was self-represented, and the Respondent was represented by Mr. Brent E. Cuddy.
+[3] At the outset of the hearing counsel for the Respondent conceded that Item 1(1)(b) for discovery of documents or inspection of property was claimed in error and was to be removed from the Bill of Costs.
+[4] At the hearing the Appellant took no issue with the Respondent’s disbursements claimed. Disbursements are therefore allowed as claimed in the Bill of Costs.
+[5] The Appellant questioned Items 1(1)(d) and 1(1)(g), indicating that the dates were the same. He had concern that they were two claims for the same service.
+[6] Counsel for the Respondent submitted that the date for Item 1(1)(g) was incorrect. The date of the hearing was May 11, 2007, not April 21, 2007.
+[7] The Appellant accepted the explanation and did not contest the amounts claimed.
+[8] The only item in dispute between the parties was Item 1(1)(h), services of counsel for the conduct of the hearing for each day or part thereof. The Appellant submitted that although the hearing did take place over two days (May 11 and September 24, 2007), the total duration of the hearing was the equivalent of one day. Mr. Heppner submitted that the first day the hearing was adjourned at noon and the second day the hearing lasted only a short time.
+[9] In rebuttal counsel for the Respondent submitted that the adjournment of the first day was occasioned by the fact the Appellant required additional documents. The documents were necessary under the circumstances of this particular case and an adjournment was granted so the Appellant could provide the Court with the documents. Counsel submitted that the hearing did continue on the second day and counsel did attend. It is only fair in the circumstances that conduct of the hearing for the second day be allowed.
+[10] Concerning Item 1(1)(h), I am in agreement with the Respondent. In Linus Gosse v. Her Majesty the Queen 95 DTC 88, it was held:
+The respondent in the appeal asserts that the Taxing Officer erred in law in decreasing the costs by not allowing the requested tariff item for two days of hearing. Counsel for the appellant in the appeal submits that the Court should not interfere with the decision of the Taxing Officer unless there has been an error in principle and with that submission I agree. He submits further that the word "may" in the opening portion of the tariff item is intended to confer a discretion on the Taxing Officer and again I agree. However, in my view, the Taxing Officer has erred in principle. As I see it, in the absence of a clear reason it is appropriate to award compensation at the rate of $1,000 for each day or part thereof. That is what is called for by the tariff and that general rule applies except where special circumstances justify a departure from it. The word "day" is to be given its ordinary meaning, that is to say a 24-hour period commencing at midnight. Here part of the hearing took place on one day and the remainder of the hearing took place on the next day. The fact that the total hearing time could have been fitted into one normal sitting day is beside the point.
+[11] In keeping with the above decision, Item 1(1)(h) is allowed as claimed at $2,000.00.
+[12] As there was no challenge to the other Items claimed, they will be allowed as submitted.
+[13] The Bill of Costs is taxed, and I allow the sum of $3,884.84.
+Signed at Toronto, Ontario, this 17th day of February 2010.
+“Bruce Preston”
+Taxing Officer

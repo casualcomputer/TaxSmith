@@ -1,0 +1,101 @@
+Title: Landry v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29583/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-49-29583-landry-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-03-17
+
+# Landry v. The Queen
+
+- Citation: 2009 TCC 49
+- Decision date: 2009-03-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6337, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-17
+Neutral citation
+2009 TCC 49
+File numbers
+2006-500(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket No. 2006-500(GST)I
+CITATION: 2009 TCC 49
+TAX COURT OF CANADA
+BETWEEN:
+CHRISTIAN-DANIEL LANDRY,
+Appellant,
+- and -
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Delivered orally from the bench on October 23, 2007, at 200 Kent Street,
+Ottawa, Ontario
+APPEARANCES:
+Christian-Daniel Landry The Appellant himself
+Denis Emond For the Respondent
+A.S.A.P. Reporting Services Inc. © 2007
+200 Elgin Street, Suite 1004 130 King Street West, Suite 1800
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on October 23, 2007, at Ottawa, Ontario, and amended for greater clarity and precision)
+PARIS J.: This is an appeal from a reassessment made by the Minister of Revenue of Quebec under the Excise Tax Act for the period from July 13, 2002, to September 6, 2003.
+The Minister asserts that the Appellant failed to collect and remit GST in the amount of $5,105.17 on taxable supplies of $72,231 that he made during the period in issue. The reassessment also includes $270 in interest and a $645 penalty under section 280 of the Act.
+The Appellant submits that he was unable to collect the GST in question because agents of the Ministère du Revenu du Québec refused to issue him a GST registration number.
+In the alternative, the Appellant submits that he was a "small supplier" in accordance with subsection 148(2) of the Act and that his services were zero-rated until the consideration received for his services exceeded $30,000.
+If the Court decides that the Appellant was required to collect and remit the GST, the Appellant is seeking input tax credits for the period in issue. Lastly, the Appellant contests the penalty.
+The evidence discloses that the Appellant, a lawyer, went bankrupt on July 12, 2002, following his convalescence. He was able to continue practising law, but on a limited basis. He placed his affairs in the hands of his trustee and accountant, Mr. Godin.
+For the period from July 12 to September 30, 2002, Mr. Godin filed a GST return on behalf of the Appellant using the Appellant's pre‑bankruptcy GST registration number. Revenu Québec did not process the return, citing the invalidity of the number following the bankruptcy.
+The Appellant then applied to Revenu Québec for a new registration, but the application was rejected on the basis that the Appellant was an undischarged bankrupt.
+The Appellant and Mr. Godin filed two more applications for a new GST registration number, and these were allegedly rejected.
+Finally, after the Appellant was discharged from his bankruptcy, Revenu Québec issued him a GST number. Since that time, the Appellant has filed all GST returns required by the Act.
+However, the Appellant says that, before receiving the new registration number, he did not believe that he had the right to charge GST to clients, because he was not a registrant.
+The Appellant also says that he would not have been able to collect GST from his clients without a registration number because he clients would not have been entitled to input tax credits for the tax paid.
+Counsel for the Respondent chose not to cross-examine the Appellant or Mr. Godin. He did not contest the facts that they placed in evidence.
+The Act clearly states that every person who makes taxable supplies in the course of a commercial activity is required to be registered for the purposes of Part IX of the Excise Tax Act, unless the person is excluded by virtue of the exceptions set out in subsection 240(1) of the Act, one of which pertains to small suppliers.
+The definition of the term "registrant" can be found in subsection 123(1) of the Act, and reads as follows:
+"registrant" means a person who is registered, or who is required to be registered, under Subdivision d of Division V;
+Thus, any provision in Part IX of the Act that applies to a registrant also applies to every person required to be a registrant, even if that person is not a registrant. Consequently, the obligation to collect GST on taxable supplies and remit it to the government under sections 165 and 228 of the Act also apply to every person required to be a registrant.
+In the case at bar, there is no doubt that the Appellant made taxable supplies in the course of a commercial activity during the period in issue, and unless he comes under one of the exceptions in subsection 240(1), he was required to be a registrant.
+I am of the opinion that the Appellant was a small supplier under subsection 240(1) until April 30, 2003. The value of the consideration that became due to the Appellant in the course of each of the four calendar quarters following his bankruptcy is set out in Schedule 1 of the Amended Reply to the Notice of Appeal.
+Since the total value of the taxable supplies made by the Appellant during the three quarters that include March 31, 2003, exceeds the $30,000 threshold, the Appellant ceased to be a small supplier after March 31, 2003.
+Although the Appellant did not specify the portion of his income that he earned between April 1 and April 30, 2003, I am willing to accept that a third of the supplies made during the second quarter of 2003, that is to say, $6,570, were made in April.
+Thus, during the period in issue, the Appellant was a small supplier until April 30, 2003, and the amount of his taxable supplies from July 12, 2002, to April 30, 2003, was $45,063.77.
+The Appellant was still required to collect and remit the GST on $27,867.23 in taxable supplies made between May 1 and September 6, 2003.
+I cannot agree with the Appellant that the Revenu Québec agents’ refusal to register him had the effect of exempting him from his obligations under the Act. The refusals appear to have been without legal merit based on paragraph 265(1)(f) of the Act, which reads as follows:
+265. (1) For the purposes of this Part, where on a particular day a person becomes a bankrupt,
+. . .
+(f) where, on or after the particular day the person begins to engage in particular activities to which the bankruptcy does not relate, the particular activities shall be deemed to be separate from the activities of the person to which the bankruptcy relates as though the particular activities were activities of a separate person, and the person may
+(i) apply for, and be granted, registration under Subdivision d of Division V, and
+(ii) establish fiscal periods and establish and make elections respecting reporting periods,
+in relation to the particular activities as though they were the only activities of the person;
+[Emphasis added.]
+Counsel for the Respondent has not claimed that the Appellant's post-bankruptcy activities were activities to which the bankruptcy related, and I do not see any reason to consider them to be so.
+There is no explanation as to why the agents rejected the Appellant's applications. However, as the Federal Court of Appeal held in Main Rehabilitation Co. v. Canada, 2004 FCA 403, what is in issue in an appeal before this Court is the validity of the assessment and not the process by which it is established.
+Thus, it is not for me to determine whether the MRQ agents correctly exercised their power, but, rather, whether the amounts could validly be assessed under the Act.
+Therefore, the refusal of the Minister's agents to provide the Appellant with a registration number does not justify a variance of the amount of the GST assessed for the period from May 1 to September 6, 2003.
+The Appellant asks, in the alternative, that the Court permit him to adduce evidence of the amount of input tax credits to which he is entitled for the period from May 1 to September 6, 2003, and which the Minister did not allow.
+It is unclear to me why the Minister did not acknowledge that the Appellant would have been entitled to input tax credits for the period assessed. In any event, nothing in the evidence indicates that the Appellant does not meet the requirements of subsection 169(1) of the Act, which establishes entitlement to input tax credits. This provision applies to all registrants, including, as I have stated, every person who is a registrant or is required to be a registrant under Subdivision d of Division V of the Act. Since it has already been decided that the Appellant was required to be a registrant because he made taxable supplies in the course of a commercial activity, the Appellant would be entitled to input tax credits in relation to that activity.
+Under the circumstances, I am of the opinion that it would be fair to grant the parties 60 days to settle the matter of these credits for the relevant period.
+If the parties are unable to come to an agreement with respect to the amount of these credits, the Court will reopen the evidence to enable the Appellant to adduce additional evidence in this regard.
+The Appellant also asks that the penalty imposed under section 280 of the Act be cancelled. He submits that he exercised due diligence in relation to his obligation to register under the Act and that his failure to comply with this obligation to collect and remit GST on his taxable supplies were, in view of the circumstances, beyond his control.
+The Respondent has asserted no arguments against the Appellant's position with respect to the penalty.
+The case law confirms that the Court can order the Minister to cancel a penalty under subsection 280(1) of the Act in circumstances where the taxpayer has shown due diligence in his attempts to comply with the requirements of the Act. I refer to the decision of the Federal Court in Canadian Consolidated Contractors Ltd. v. The Queen, [1999] G.S.T.C. 91.
+Upon the evidence, I am satisfied that the Appellant demonstrated due diligence in the case at bar. He tried to do what he was supposed to do in order to comply with the obligations imposed by Part IX of the Act, first by trying to file a quarterly return on September 30, 2002, and then by trying three times to obtain his registration number. The erroneous measures taken by the Revenu Québec agents are what led to the problems that the Appellant is facing, and his conduct was not wrongful. The penalty will be cancelled.
+For all these reasons, the appeal will be allowed in part, and the issuance of the judgment will be suspended in order to enable the Appellant to prove the amount of the credits to which he is entitled.
+Translation certified true
+on this 16th day of April 2009.
+Susan Deichert, Reviser

@@ -1,0 +1,214 @@
+---
+title: "9081-2769 Québec inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/361425/index.do"
+last_modified: "2019-01-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 14"
+citation2: ""
+neutral_citation: "2019 CCI 14"
+decision_date: "2019-01-17"
+language: "fr"
+item_id: "361425"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4335
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:27:30.389000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "51bc6abf06b3543320db8b2bb1596ff7c66477509bfe7743680040875cf5e4b9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 9081-2769 Québec inc. c. La Reine
+
+- Citation: 2019 CCI 14
+- Decision date: 2019-01-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4335, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9081-2769 Québec inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-17
+Référence neutre
+2019 CCI 14
+Numéro de dossier
+2016-3142(IT)I
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3142(IT)I
+ENTRE :
+9081-2769 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 5 décembre 2018, à Québec (Québec)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Représentant de l’appelante :
+Claude Dubé
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition se terminant le 28 février 2010 (exercice du 1er mars 2009 au 28 février 2010) et le 28 février 2011 (exercice du 1er mars 2010 au 28 février 2011) est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2019.
+« Dominique Lafleur »
+La juge Lafleur
+Référence : 2019 CCI 14
+Date : 20190117
+Dossier : 2016-3142(IT)I
+ENTRE :
+9081-2769 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lafleur
+I. CONTEXTE
+[1] 9081-2769 Québec inc. en appelle de nouvelles cotisations pour les années d’imposition se terminant le 28 février 2010 (exercice du 1er mars 2009 au 28 février 2010) et le 28 février 2011 (exercice du 1er mars 2010 au 28 février 2011) établies par le ministre du Revenu national (le « ministre ») après la période normale de nouvelle cotisation en vertu de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] En vertu de ces nouvelles cotisations, des montants de 15 227 $ et de 18 115 $ (« les montants en litige ») ont été ajoutés au revenu tiré de l’entreprise de l’appelante selon le paragraphe 9(1) de la Loi et des pénalités lui ont été imposées en vertu du paragraphe 163(2) de la Loi.
+[3] L’appelante a exploité pendant plus de 20 ans, et ce, jusqu’en 2015, un salon de bronzage au sous-sol de la résidence personnelle de son actionnaire et administrateur située à Saint-Étienne-de-Lauzon, dans la province de Québec. En plus du bronzage, d’autres services esthétiques étaient offerts et certains produits, tels des produits de bronzage et des bijoux à petit prix, étaient vendus.
+[4] Selon le ministre, les montants en litige, équivalant au total des montants des dépôts non expliqués au compte bancaire de madame Lise Sanschagrin pendant la période du 1er mars 2009 au 28 février 2011, représentent des ventes de l’appelante non déclarées par celle-ci. Madame Sanschagrin est la conjointe de monsieur Claude Dubé, unique actionnaire et administrateur de l’appelante.
+[5] Selon l’appelante, qui était représentée à l’audience par Claude Dubé, les sommes ainsi déposées au compte de madame Sanschagrin provenaient de monsieur Dubé et auraient été prêtées par monsieur Dubé à madame Sanschagrin. Selon l’appelante, les montants en litige ne sont pas le produit de ventes de l’appelante et ne devraient pas être ajoutés dans le calcul de son revenu. De plus, aucune pénalité ne devrait lui être imposée.
+[6] À l’audience, qui s’est tenue selon la procédure informelle, monsieur Dubé et madame Sanschagrin ont témoigné, de même que le vérificateur de l’Agence du revenu du Canada (l’« ARC ») qui a procédé à la vérification, monsieur Éric Aubin. L’appelante n’a déposé aucun document en preuve; l’intimée a déposé la pièce I-1 contenant plusieurs documents.
+[7] Dans les présents motifs, toute référence à une disposition législative est une référence à une disposition de la Loi.
+II. QUESTIONS EN LITIGE
+a) Le ministre était-il justifié d’ajouter aux revenus de l’appelante les montants en litige en vertu du paragraphe 9(1) pour les années en litige?
+b) Le ministre était-il autorisé à établir des nouvelles cotisations après la période normale de nouvelle cotisation?
+c) Le ministre était-il justifié d’appliquer la pénalité prévue au paragraphe 163(2) aux montants en litige?
+III. DISPOSITIONS LÉGISLATIVES
+[8] Les dispositions législatives applicables en l’espèce sont les suivantes :
+9(1) Revenu — Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+[…]
+152(4) Cotisation et nouvelle cotisation [délai de prescription] — Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[…]
+152(7) Cotisation indépendante de la déclaration ou des renseignements fournis — Le ministre n'est pas lié par les déclarations ou renseignements fournis par un contribuable ou de sa part et, lors de l'établissement d'une cotisation, il peut, indépendamment de la déclaration ou des renseignements ainsi fournis ou de l'absence de déclaration, fixer l'impôt à payer en vertu de la présente partie.
+152(8) Présomption de validité de la cotisation — Sous réserve des modifications qui peuvent y être apportées ou de son annulation lors d'une opposition ou d'un appel fait en vertu de la présente partie et sous réserve d'une nouvelle cotisation, une cotisation est réputée être valide et exécutoire malgré toute erreur, tout vice de forme ou toute omission dans cette cotisation ou dans toute procédure s'y rattachant en vertu de la présente loi.
+[…]
+163(2) Faux énoncés ou omissions — Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[…]
+9(1) Income — Subject to this Part, a taxpayer’s income for a taxation year from a business or property is the taxpayer’s profit from that business or property for the year.
+. . .
+152(4) Assessment and reassessment [limitation period] — The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+. . .
+152(7) Assessment not dependent on return or information — The Minister is not bound by a return or information supplied by or on behalf of a taxpayer and, in making an assessment, may, notwithstanding a return or information so supplied or if no return has been filed, assess the tax payable under this Part.
+152(8) Assessment deemed valid and binding — An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto.
+. . .
+163(2) False statements or omissions — Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+[Non souligné dans l’original]
+IV. LES TÉMOIGNAGES ET LA PREUVE
+A. Madame Sanschagrin
+[9] Selon la preuve, madame Sanschagrin s’occupait de la gestion quotidienne du salon de bronzage, faisait les dépôts bancaires, répondait au téléphone, tenait le livre de rendez-vous et recevait les clients. Elle n’occupait que cet emploi au cours des années en cause.
+[10] Madame Sanschagrin a témoigné que l’appelante n’établissait pas de factures pour les services rendus ou les ventes de produits, puisqu’elle générait des revenus inférieurs à 30 000 $ annuellement et n’avait donc pas à être inscrite aux fichiers des taxes. Selon madame Sanschagrin, son comptable lui a dit qu’aucune facture n’avait à être établie dans ce cas.
+[11] Madame Sanschagrin a témoigné que les dépôts au comptant dans son compte bancaire provenaient de sa mère ainsi que de monsieur Dubé et que cela lui permettait de payer ses factures, vu que le salaire versé par l’appelante n’était pas suffisant à cette fin.
+B. Monsieur Dubé
+[12] Monsieur Dubé a témoigné qu’il a exploité une entreprise pendant plus de 35 ans. Selon son témoignage, les montants en litige représentent des sommes qu’il a prêtées à madame Sanschagrin au cours des années en cause, puisque l’appelante ne générait pas de revenus.
+[13] La preuve a démontré que monsieur Dubé était également actionnaire de six autres sociétés (certaines desquelles n’étaient pas vraiment actives), dont une société qui exploitait un garage (9047-5922 Québec inc. : ci-après le « garage »).
+C. La vérification
+[14] La vérification de l’appelante a eu lieu à la suite de la vérification du garage et de monsieur Dubé. Monsieur Dubé et ses sociétés ont été vérifiés, compte tenu du faible revenu net déclaré par ceux-ci. Selon les déclarations de revenus produites, les revenus de la famille étaient de 15 000 $ en 2009, de 23 750 $ en 2010 et de 23 183 $ en 2011, et toutes les sociétés étaient exploitées à perte.
+[15] Monsieur Aubin a témoigné qu’il avait tenté dans un premier temps de procéder par la méthode de l’avoir net. Toutefois, vu l’absence de coopération de la part de monsieur Dubé, qui ne lui a pas fourni des documents et un bilan, et vu que certaines sociétés avaient plus ou moins d’activités, monsieur Aubin n’a pu procéder par la méthode de l’avoir net. Ainsi, monsieur Aubin a plutôt procédé par l’analyse des dépôts pour faire sa vérification. Il a relevé des dépôts non expliqués dans le compte bancaire du garage, de monsieur Dubé et de madame Sanschagrin.
+[16] La vérification du garage a entraîné une nouvelle cotisation en vertu de laquelle une somme d’environ 1,5 million de dollars a été ajoutée aux revenus de monsieur Dubé et du garage pour les années 2008 (monsieur Dubé seulement), 2009, 2010 et 2011. Plus précisément, des montants de 467 438 $, de 256 897 $ et de 95 893 $ ont été ajoutés aux revenus de monsieur Dubé en 2009, en 2010 et en 2011 (janvier et février 2011 seulement) à titre de dépôts inexpliqués. Cette Cour a rejeté les appels interjetés par monsieur Dubé et le garage à la suite d’une audience sur l’état de l’instance au cours de laquelle l’intimée a présenté une requête en rejet d’appel, à laquelle les appelants ne se sont pas opposés.
+[17] En ce qui concerne l’appelante, de 2006 à 2011, elle déclarait soit un revenu minime, soit une perte nette. Pour les années d’imposition se terminant le 28 février 2010 et le 28 février 2011, l’appelante a déclaré des ventes de 35 305 $ et de 29 825 $ respectivement. L’appelante n’a toutefois pas conservé les livres de rendez-vous, qui auraient permis de retracer les ventes.
+[18] Monsieur Aubin a donc analysé les dépôts apparaissant au compte bancaire de madame Sanschagrin, parmi lesquels figuraient des dépôts inexpliqués, et a procédé également à l’analyse du compte bancaire de l’appelante.
+[19] L’analyse du compte bancaire de l’appelante pour la période du 1er mars 2008 au 31 décembre 2011 ne montre que des dépôts par carte de débit ou par carte de crédit, sauf i) un dépôt de 200 $ en juillet 2009 pour l’exercice terminé le 28 février 2010; ii) un dépôt de 150 $ en avril 2010 pour l’exercice terminé le 28 février 2011, qui aurait été fait au comptant ou par chèque; iii) un dépôt de 2 130 $ en mars 2009 considéré comme une avance de l’administrateur; et iv) un dépôt de 3 151 $ en avril 2009 considéré comme une avance également.
+[20] L’analyse du compte bancaire de madame Sanschagrin relève plusieurs dépôts dont la source n’a pu être précisée par madame Sanschagrin ni par le comptable, monsieur Szabo. Pour la période du 1er mars 2009 au 28 février 2010, des dépôts inexpliqués d’un montant total de 15 227 $, et pour la période du 1er mars 2010 au 28 février 2011, des dépôts inexpliqués d’un montant total de 18 115 $ ont été constatés. L’institution financière a confirmé que des liasses de billets de banque étaient déposées au compte bancaire de l’appelante.
+[21] De plus, selon monsieur Aubin, madame Sanschagrin aurait dans un premier temps affirmé que les dépôts inexpliqués provenaient de monsieur Dubé et du garage, et par la suite, elle lui aurait dit que les sommes provenaient de sa mère. À cet égard, monsieur Aubin a pu retracer des fonds provenant de la mère de madame Sanschagrin, mais ces fonds ont été versés par chèque et, conséquemment, ces dépôts n’ont pas été ajoutés aux dépôts inexpliqués. De plus, monsieur Szabo a indiqué dans une lettre adressée à monsieur Aubin que les fonds ne provenaient pas de la mère de madame Sanschagrin, mais plutôt de monsieur Dubé, qui remettait l’argent comptant à madame Sanschagrin afin qu’elle puisse subvenir à ses besoins; ainsi, aucune pièce justificative ne pouvait être fournie à monsieur Aubin.
+[22] Monsieur Aubin a également tenté de trouver une correspondance entre les dépôts inexpliqués au compte de madame Sanschagrin et les retraits du compte bancaire du garage, mais sans succès.
+[23] Au cours de la vérification, monsieur Szabo a indiqué à monsieur Aubin que les ventes étaient inscrites en fonction des dépôts au compte bancaire de l’appelante et qu’il n’a jamais vu de factures.
+V. ANALYSE
+A. Les montants en litige
+[24] La Loi permet au ministre d’utiliser une méthode de vérification alternative (paragraphe 152(7)). De plus, le paragraphe 230(1) prévoit que quiconque exploite une entreprise au Canada « doit tenir des registres et des livres de comptes […] dans la forme et renfermant les renseignements qui permettent d’établir le montant des impôts payables en vertu de la présente loi […] ».
+[25] En l’espèce, je suis d’avis que le ministre était fondé à utiliser une méthode de vérification alternative pour établir les nouvelles cotisations de l’appelante, vu l’absence de registres et de livres de rendez-vous et vu la comptabilité sommaire effectuée par le comptable, qui ne peut être fiable. En effet, le comptable a indiqué au vérificateur que la comptabilité était effectuée en fonction des relevés bancaires, sans consultation de factures ou d’autres pièces pertinentes.
+[26] La méthode utilisée, soit celle de l’analyse des dépôts, est toutefois moins fiable que la méthode de l’avoir net. Cependant, dans le cadre de cet appel, vu l’absence de collaboration de la part de monsieur Dubé au cours de la vérification, je suis d’avis que le vérificateur n’avait pas d’autre choix que de procéder de la sorte et que, vu les circonstances, cette méthode a été appliquée correctement et a donné un résultat fiable.
+[27] Monsieur Dubé pour sa part a plaidé que le ministre s’est plutôt fondé sur des suppositions et que les cotisations ne devraient pas être maintenues. Toutefois, je suis d’avis que la preuve soumise à l’audience indique, selon la prépondérance des probabilités, que le vérificateur a fait un travail minutieux et que les montants en litige représentent des ventes de l’appelante qui doivent être ajoutées dans le calcul du revenu de l’appelante selon le paragraphe 9(1) pour les années en litige.
+[28] Dans Nichols c. La Reine, 2009 CCI 334, la juge Miller a fait un résumé des éléments qui peuvent être pris en compte pour apprécier la preuve présentée dans le cadre d’un appel à notre Cour :
+[22] […] Au moment d’apprécier la preuve produite, il m’est loisible d’ajouter foi à tout ou partie d’un témoignage ou à aucune portion de celui-ci, ou encore d’accepter certaines parties du témoignage et d’en rejeter d’autres.
+[23] En matière de crédibilité, je peux tenir compte des incohérences ou des faiblesses que comporte le témoignage des témoins, y compris les incohérences internes (si le témoignage change pendant que le témoin est à la barre ou s'il diverge du témoignage rendu à l’interrogatoire préalable), les déclarations antérieures contradictoires et les incohérences externes (soit lorsque le témoignage est incompatible avec des éléments de preuve indépendants que j’ai acceptés). Il m’est ensuite loisible d’apprécier l’attitude et le comportement du témoin. Troisièmement, je peux rechercher si le témoin a des raisons de rendre un faux témoignage ou d’induire la Cour en erreur. Enfin, je peux prendre en compte la teneur générale de la preuve. C’est-à-dire que j’ai toute latitude pour rechercher si l’examen du témoignage à la lumière du sens commun donne à penser que les faits exposés sont impossibles ou hautement improbables.
+[29] Au cours de l’audience, le témoignage de madame Sanschagrin a été évasif. En contre-interrogatoire, madame Sanschagrin n’a pu répondre à la question de savoir quel était le nombre de transactions effectué par l’appelante par semaine ou par mois; madame Sanschagrin a témoigné qu’elle ne pouvait s’en souvenir. Également, elle n’a pu répondre à la question de savoir quel était le nombre de transactions par semaine ou par mois effectué par l’appelante en argent comptant; madame Sanschagrin a témoigné qu’elle ne pouvait s’en souvenir. Toutefois, au cours de la vérification, elle avait affirmé au vérificateur que la totalité des ventes se faisait par carte de débit ou par carte de crédit et que personne ne payait comptant. Elle ne se souvenait pas des deux seules transactions au comptant apparaissant au compte bancaire de l’appelante et effectuées au cours des années en litige, soit un dépôt de 200 $ en juillet 2009 et un dépôt de 150 $ en avril 2010 (mis à part les deux dépôts considérés comme des avances de l’administrateur). Étant donné qu’elle était la personne qui effectuait les dépôts et s’occupait de la gestion quotidienne de l’entreprise, il est plus qu’improbable qu’elle ne puisse fournir la réponse à ces questions. Ces questions sont essentielles à la résolution du litige, et le fait que madame Sanschagrin ne puisse se souvenir de faits si importants et que sa version des faits donnée à l’audience soit différente de celle donnée au vérificateur, m’amène à conclure que le témoignage de madame Sanschagrin n’est pas fiable et n’est pas crédible.
+[30] De plus, madame Sanschagrin a témoigné que, devant la porte du salon de bronzage, il y avait une affiche mentionnant que l’entreprise n’acceptait que les paiements par carte de crédit ou carte de débit. À mon avis, cela ne démontre nullement qu’aucune vente n’était effectuée au comptant. Madame Sanschagrin a témoigné que l’appelante vendait également des bijoux à petit prix et des crèmes de bronzage. Je suis d’avis qu’il est hautement improbable qu’une entreprise de services, tel un salon de bronzage et d’esthétique, ne fasse que deux ventes où l’on payait en argent comptant (ou par chèque) sur une telle période (mis à part les deux dépôts considérés comme des avances de l’administrateur).
+[31] Le témoignage de madame Sanschagrin a été également évasif en ce qui concerne les dépôts d’argent comptant dans son compte bancaire. Au cours de la vérification, elle a dit que les sommes provenaient du garage ou de monsieur Dubé ou encore de sa mère; au cours de son témoignage devant notre Cour, elle a dit que les sommes provenaient de sa mère ou de monsieur Dubé, qui lui a prêté des fonds. De plus, elle a témoigné qu’elle ne se souvenait pas d’où venaient les liasses de billets déposées dans son compte bancaire, puisque cela faisait trop longtemps (par exemple, dépôt de trois billets de 100 $, de 57 billets de 20 $, d’un billet de 50 $ et d’un billet de 10 $ ou encore dépôt de deux billets de 50 $ et de 46 billets de 20 $ : pièce I-1, onglet 35, pages 4 et 3).
+[32] Le vérificateur a également vérifié les explications données par madame Sanschagrin quant au transfert d’argent comptant qui aurait été fait en sa faveur par le garage ou monsieur Dubé, mais il n’a pu établir de correspondance entre les sorties de fonds du compte du garage et les dépôts inexpliqués au compte de madame Sanschagrin. De plus, je suis d’avis qu’il est hautement improbable qu’avec un revenu net déclaré de 14 431 $, de 10 000 $ et de 23 183 $ en 2009, en 2010 et en 2011 respectivement monsieur Dubé ait pu prêter à madame Sanschagrin des sommes de 15 227 $ et de 18 115 $ en 2009, en 2010 et en 2011. Le témoignage de monsieur Dubé allant dans le même sens que celui de madame Sanschagrin ne peut être retenu non plus, et ce, pour les mêmes raisons.
+[33] De plus, l’absence de pièces justificatives est également un élément qui m’a amenée à conclure que les témoignages offerts à la Cour par monsieur Dubé et madame Sanschagrin concernant la provenance des dépôts inexpliqués ne peuvent être retenus.
+B. Le paragraphe 152(4)
+[34] Puisque les nouvelles cotisations ont été établies après l’expiration de la période normale de nouvelle cotisation, l’intimée doit faire la preuve que l’appelante a fait une présentation erronée des faits par négligence, inattention ou omission volontaire, ou a commis quelque fraude, en produisant ses déclarations de revenus pour les années d’imposition se terminant le 28 février 2010 et le 28 février 2011 (Minister of National Revenue v. Taylor, [1961] Ex. C.R. 318, à la page 320, 1961 CarswellNat 299, au paragraphe 4).
+[35] L’intimée s’acquitte de ce fardeau s’il est démontré qu’un revenu n’a pas été déclaré par le contribuable et si aucune explication crédible n’est fournie par celui-ci (Lacroix c. La Reine, 2008 CAF 241, au paragraphe 32 [Lacroix]).
+[36] Je suis d’avis que, selon la prépondérance des probabilités, l’intimée s’est acquittée de son fardeau de démontrer que l’appelante a fait une présentation erronée des faits par négligence ou omission volontaire en produisant ses déclarations de revenus pour les années en litige. L’examen de la preuve indique que les ventes de l’appelante n’ont pas toutes été déclarées.
+[37] En l’espèce, comme il est indiqué ci-dessus, je n’ai trouvé ni fiables ni crédibles les témoignages de monsieur Dubé et de madame Sanschagrin voulant que les dépôts inexpliqués représentent des sommes prêtées par monsieur Dubé.
+[38] Pour conclure ainsi, j’ai également pris en compte les facteurs suivants : i) les montants en litige représentent 43 % et 60 % respectivement des revenus déclarés pour les années en cause par l’appelante, ce qui est important; ii) la tenue des livres était déficiente et la comptabilité n’était pas fiable; et iii) monsieur Dubé est un homme d’affaires ayant de l’expérience et il aurait dû savoir que les revenus de l’appelante étaient sous-estimés.
+C. Les pénalités prévues au paragraphe 163(2)
+[39] Le paragraphe 163(2) impose une pénalité à toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse, ou y participe, y consent ou y acquiesce.
+[40] Le fardeau d’établir les faits qui justifient l’imposition de la pénalité repose sur le ministre et non sur l’appelante (paragraphe 163(3)).
+[41] Selon le libellé du paragraphe 163(2), deux éléments doivent être réunis pour que soit applicable la pénalité prévue par ce paragraphe : (1) un élément mental : « sciemment ou dans des circonstances équivalant à faute lourde »; (2) un élément matériel : « fait un faux énoncé ou une omission ».
+[42] Il a été établi que l’appelante a produit ses déclarations de revenus pour les années d’imposition se terminant le 28 février 2010 et le 28 février 2011; ainsi, l’élément matériel est présent en l’espèce (D’Andrea c. La Reine, 2011 CCI 298, [2011] A.C.I no 243 (QL), au paragraphe 35). Mais qu’en est-il de l’élément mental? Est-ce que l’appelante a sciemment fait un faux énoncé ou une omission ou a-t-elle fait un faux énoncé ou une omission dans des circonstances équivalant à faute lourde?
+[43] La notion de « faute lourde » a été définie par le juge Strayer dans la décision Venne c. La Reine, [1984] A.C.F no 314 (Q.L.) (C.F. 1re inst.) [Venne] :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi. […]
+[Non souligné dans l’original]
+[44] Dans DeCosta c. La Reine, 2005 CCI 545, [2005] A.C.I no 396 (QL) (procédure informelle), le juge en chef Bowman a indiqué ce qui suit :
+[11] Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l’importance de l’omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l’erreur, ainsi que le niveau d’instruction du contribuable et son intelligence apparente. Il n’existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu’il convient dans le contexte de l’ensemble de la preuve.
+[45] Je suis d’avis que monsieur Dubé et madame Sanschagrin ont montré par rapport au respect de la Loi une insouciance équivalant à faute lourde, comme c’est décrit dans la décision Venne, précité. Ils ont montré un degré important de négligence en ne déclarant pas tous les revenus générés par l’entreprise de l’appelante.
+[46] La Cour ayant conclu que l’argument voulant que les montants en litige représentent des sommes prêtées par monsieur Dubé à madame Sanschagrin ne peut être retenu, puisque le témoignage de ces derniers n’était pas fiable et crédible, la seule conséquence raisonnable à tirer est que l’appelante a fait un faux énoncé ou une omission dans des circonstances équivalant à faute lourde (Lacroix, précité, aux paragraphes 29 et 30).
+[47] En effet, il ressort des preuves que madame Sanschagrin s’occupait de toutes les tâches quotidiennes à accomplir dans le cadre de l’exploitation de l’entreprise de l’appelante, faisait les dépôts bancaires et tenait le livre de rendez‑vous. De même, monsieur Dubé s’occupait de signer les déclarations de revenus. Les informations données au comptable, soit par madame Sanschagrin ou par monsieur Dubé, pour la préparation des écritures comptables et des déclarations de revenus étaient plutôt sommaires, puisque le comptable ne consultait que les relevés bancaires, sans jamais vérifier les factures. Monsieur Dubé est un homme d’affaires comptant plus de 35 années d’expérience; madame Sanschagrin exploitait le salon de bronzage depuis plus de 20 ans. Ainsi, bien que monsieur Dubé et madame Sanschagrin ne semblent pas connaître les dispositions des lois fiscales, je suis d’avis qu’ils devaient savoir que tous les revenus générés par l’appelante dans le cadre de l’exploitation de son entreprise devaient être déclarés.
+[48] Finalement, comme il est indiqué ci-dessus, les montants en litige représentent respectivement 43 % et 60 % des revenus déclarés par l’appelante pour les années en question, ce qui est important.
+[49] Ainsi, les pénalités prévues par le paragraphe 163(2) sont justifiées dans les circonstances.
+VI. CONCLUSION
+[50] Pour toutes ces raisons, l’appel est rejeté, sans dépens.
+Signé à Ottawa, Canada, ce 17e jour de janvier 2019.
+« Dominique Lafleur »
+La juge Lafleur
+RÉFÉRENCE :
+2019 CCI 14
+NO DU DOSSIER DE LA COUR :
+2016-3142(IT)I
+INTITULÉ :
+9081-2769 QUÉBEC INC. C. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Le 5 décembre 2018
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 17 janvier 2019
+COMPARUTIONS :
+Représentant de l’appelante :
+Claude Dubé
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

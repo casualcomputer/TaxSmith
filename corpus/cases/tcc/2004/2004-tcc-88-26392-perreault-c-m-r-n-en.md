@@ -1,0 +1,200 @@
+---
+title: "Perreault c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26392/index.do"
+last_modified: "2004-02-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 88"
+citation2: ""
+neutral_citation: "2004 TCC 88"
+decision_date: "2004-02-23"
+language: "en"
+item_id: "26392"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3339
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:45:56.489000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "078b64212a506c2f572057eaf094409e3e92b10404e4ba1a159aba150b17ba19"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Perreault c. M.R.N.
+
+- Citation: 2004 TCC 88
+- Decision date: 2004-02-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3339, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perreault c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-23
+Neutral citation
+2004 TCC 88
+File numbers
+2002-4826(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4826(EI)
+BETWEEN:
+ANNE PERREAULT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 7, 2003 at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Robert Cardinal
+Counsel for the Respondent:
+Anne Poirier
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeal is allowed and the decision rendered by the Minister is vacated based on the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of February 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 23rd day of December 2004 .
+Julie Oliveira , Translator
+Citation: 2004TCC88
+Date: 20040223
+Docket: 2002-4826(EI)
+BETWEEN:
+ANNE PERREAULT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+BédardJ.
+[1] This appeal was heard in Québec, Quebec, on October 7, 2003.
+[2] In 2001, the Appellant, Anne Perreault, ran a business called Centre de Parrainage Scolaire (the "Centre"). The Centre provided a personalized academic assistance service and a homework assistance service to children with learning problems.
+[3] Ms. Perreault first identified the child's learning difficulty and then with the parents, determined the objectives to be attained for the child. She drew up an action plan that she later implemented by assigning the appropriate resource person to carry it out. This resource person was chosen by Ms. Perreault from her central database, which contained a list of approximately 100 resource persons who were mostly teachers.
+[4] The Minister of National Revenue (the "Minister") claimed that the work done in 2001 by the 25 resource persons (whose names appear in Appendix A of the Reply to the Notice of Appeal) recruited by Ms. Perreault was insurable employment for the purposes of the Employment Insurance Act (the "Act") and its Regulations.
+[5] To have the Minister's decision vacated, Ms. Perreault had the onus of demonstrating that:
+(i) either the business she ran was not a placement agency;
+(ii) the individuals she recruited did not provide their services under the direction or control of the children's parents; or
+(iii) she herself did not pay the recruited individuals.
+[6] In rendering his decision, the Minister primarily made the following assumptions of fact listed in paragraph 8 of the Reply to the Notice of Appeal:
+[Translation]
+(a) The Appellant runs a personalized academic assistance and homework assistance service for primary, secondary and college students. (admitted)
+(b) The Appellant runs her business under the name of Centre de parrainage scolaire. (admitted)
+(c) During the period in question, the Appellant was the sole proprietor of the business. (admitted)
+(d) The Appellant recruits her clients (parents of the children) through newspaper advertisements and in public and private schools in the Québec region. Moreover, doctors and psychologists refer parents of children with academic problems to the Appellant. (denied)
+(e) The Appellant runs her business all year and her business hours are generally from 9 a.m.-5 p.m., Monday-Friday. (admitted)
+(f) The Appellant recruits tutors through advertisements in the newspaper, Le Soleil, and through Laval University's placement office. Most are university graduates. (admitted)
+(g) The Appellant meets the potential tutors to ensure that they possess the required skills and that they will adhere to their contract. If the Appellant is satisfied, they are entered into her database of candidates. (admitted)
+(h) When a tutor's application is added to the Appellant's candidate database, a contract called Conditions d'inscription des enseignants au fichier des fournisseurs [conditions for tutors to register on the supplier's list] is signed by the parties and stipulates the following: (denied)
+(i) When a tutor accepts a contract, he or she agrees to provide instruction and the necessary guidance as contracted with the Appellant's client to meet the specific needs expressed by the student or parents in the agreement provided for in the educational file.
+(ii) The tutor shall determine the educational tools, teaching method and content of intervention for the student and shall adapt them over the course of the mandate in order to meet the objectives set by the parents or student.
+(iii) The tutor must report on how the arrangement is progressing by regularly providing the Appellant with progress reports for their contract with the invoices which can also be used for payments under the contract.
+(iv) The tutor agrees to respect the schedule as determined with the student's parents.
+(i) The Appellant signs a Contratde service pédagogique [educational service contract] with each of its clients. It contains the following: (denied)
+(i) The place where the student's private classes will be held, which is normally at the client's home.
+(ii) The requirement to have another adult present as a guardian and to supervise the student during the private classes.
+(iii) The client can terminate the contract with notice and the Appellant agrees to reimburse the client for the classes that have been paid for but not given except for the $25 non-refundable administration fee to open the file.
+(iv) The Appellant agrees to inform the parent about the student's learning progress during the term of the contract.
+(v) The Appellant shall inform the client that the Appellant's tutors are bound by a non-competition clause for a period of one year after officially leaving the Appellant's business.
+(j) For each mandate, a contract called Contrat spécifique avec l'enseignant [specific contract with tutor] is signed by the Appellant and tutor. (admitted)
+(k) This contract sets out the contact information for the student's parents, the tutor's name, the number of hours per week and the number of weeks, the total hours, start and end dates of the course, and the hourly rate. (denied)
+(l) Each of these contracts contains the following clauses: (denied)
+(i) The tutor is not authorized to exceed the hours set out in the contract and is not authorized to discuss the hourly rates with the Appellant's client.
+(ii) In respect of the Consumer Protection Act, the Appellant can, at any time, terminate the contract without any penalties whatsoever.
+(iii) If the client complains, whether justified or not, the Appellant can also terminate the contract without any penalties.
+(iv) The tutor does not have the right to change the number of hours per week that is indicated in the contract. The Appellant must agree to any changes made in this regard.
+(m) The tutors provided educational material and they had a library and photocopies made available to them at the Appellant's office. (admitted)
+(n) The tutors assumed transportation costs from their homes to the class location. (admitted)
+(o) At the beginning of 2000, the Appellant opened a trust account for which she is the sole trustee and signing authority for cheques, into which she deposited all amounts received from her clients. (admitted)
+(p) The Appellant pays the tutors' salaries from this account. (denied)
+(q) The Appellant determined the hourly rate paid to the tutors. It was $12, or, based on skills, a little higher after negotiating done by the tutor. (denied)
+(r) The tutors received their pay from the Appellant by direct deposit upon presentation of their time sheets every 15 days. (denied)
+(s) The tutors generally faxed their invoices or time sheets to the Appellant or dropped them off at her office. (admitted)
+(t) The Appellant called the tutors to provide services to her clients. (denied)
+(u) The tutors provided professional services under the control and direction of the Appellant's clients. (denied)
+(v) The Appellant, and never the Appellant's clients, directly paid the tutors. (denied)
+Preliminary remarks
+[7] At the hearing, the Respondent's counsel admitted that if paragraph 6(g) of the Regulations did not apply, the 25 resource persons recruited by Ms. Perreault (the "tutors") would not have been considered to be holding insurable employment at the Centre because they worked as independent consultants.
+[8] It should also be pointed out that no parent, child or teacher testified at the hearing.
+Analysis
+[9] The relevant part of paragraph 6(g) of the Regulations, which sets out the three conditions that have to be met for an employment to be insurable, is as follows:
+6. Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+...
+(g) employment of a person who is placed in that employment by a placement or employment agency to perform services for and under the direction and control of a client of the agency, where that person is remunerated by the agency for the performance of those services.
+A. First condition: Was the Centre a placement agency?
+[10] I must first determine whether the Centre was a "placement agency."
+[11] It is not really important to ask whether the Centre acted as a placement agency or an intermediary, but, rather, to determine whether placement or intermediary activities were its primary purpose. In fact, Ms. Perreault's counsel did not deny that the Centre was acting as a placement agency or intermediary. He argued instead that this was not a determining or essential characteristic.
+[12] In other words, what should be asked is whether the parents contacted the Centre so that it would recruit a tutor to solve their child's learning problems or if they used the Centre's services so that it would take responsibility for their child's learning problems. To answer this, the type of services provided by the Centre must be reviewed.
+[13] Ms. Perreault's non-contradicted and credible testimony revealed that the parents met her or called her to discuss their children's learning problems. She determined the problem and reviewed the documents sent by the parents, especially report cards and homework. She tried to know what the home environment was like, which, in her opinion, was often the cause of learning problems. She thus drew up an intervention plan to attain the parents' objectives. Last, she implemented the intervention plan by choosing the most appropriate resource person to meet the child's needs.
+[14] For those children who had more severe and complex problems, Ms. Perreault used the services of Ms. De Koninck (with a Ph. D. in Educational Science and a degree in Remedial Education). She sometimes helped Ms. Perreault develop the intervention plan and ensure that it was carried out.
+Ms. De Koninck's convincing testimony corroborated Ms. Perreault's in this regard.
+[15] Furthermore, Ms. Perreault agreed by contract to inform the parents about the student's learning development during the term of the contract.
+[16] To support her representation that the Centre was not a placement agency, Ms. Perreault submitted a letter from the Ministère du Revenu du Québec (Exhibit A-4), designating the Centre as a recognized teaching establishment and giving it a certification number which allows individuals who are 16 years of age or older to claim the Centre's course fees as long as the courses they take are only used to acquire or improve the required skills for a job. She also submitted a document from the CSST, Exhibit A-5, which classified her business as one providing teaching services.
+[17] In light of the evidence provided, I find that the Centre was not a placement agency, even though it carried out placement agency and intermediary activities. Ms. Perreault convinced me that the Centre's primary activity was to offer personalized academic and homework assistance service to children with learning problems. In fact, she was able to show that the parents mainly used her services so that she could deal with their children's learning problems and not to recruit a tutor.
+B. Second condition: Did Ms. Perreault's clients control or direct the tutors?
+[18] The next issue I must examine is whether the tutors provided services under the direction or control of Ms. Perreault's clients.
+[19] In Wiebe Door Services Ltd. v. M.N.R.., [1986] 3 F.C. 553, MacGuigan J.A. of the Federal Court of Appeal went on at great length about the criterion of the control test and recognized that the right to specify how the work had to be carried out and giving instructions to the employee on how to do the work is a fundamental element in exercising control over the employee's work.
+[20] However, MacGuigan J.A. also recognized that the criterion of the control test was not easily applicable in the case of highly skilled and professional workers who possess skills far beyond the ability of their employers to direct.
+[21] In Vulcain Alarme Inc. v. Canada (Minister of National Revenue - M.N.R..), [1999] F.C.A. No. 749, Létourneau J.A. of the Federal Court of Appeal again set out the principle by which control is based on giving instructions on the way the employee's work is to be done.
+[22] To demonstrate that the tutors were under the direction or control of Ms. Perreault's clients, the Respondent's counsel referred to paragraphs 2, 3 and 6 of the contract, Conditions d'inscription des enseignant(e)s au fichier des fournisseurs [conditions for tutors to register on the supplier's list] (Exhibit A-1), which are as follows:
+[Translation]
+2. Every time a contract is accepted by a tutor, he or she agrees to teach and provide the required coaching as contracted with the client to meet the specific needs determined by the student or parents under the agreement provided in the educational file. A specific agreement must be reached by the parties in order to determine the salary, duration and other specific obligations, if applicable. If for any reason you have to interrupt this agreement, you must find a replacement who must accept the conditions of this agreement;
+3. The tutor will determine the educational tools, intervention method and content for the student and adapt them during the mandate in order to attain the objectives set by the parents or student;
+6. The tutor agrees to follow the schedule in the contract as determined with the student's parents. For any modifications, the tutor will make arrangements with the parents directly.
+[23] I really do not see how the Respondent's counsel could refer to paragraphs 2 and 3 and say that the tutor was under the client's control or direction. Control over the results and the setting of objectives must not be confused with control over the tutor. In fact, paragraph 3 clearly demonstrates that it was the tutor who determined the intervention method and content to attain the objectives set by the clients.
+[24] As for the argument based on the fact that the tutor agreed to follow the schedule made by the clients, which the Respondent's counsel referred to in order to demonstrate that the client had control over the tutor, it appears neutral and inconclusive in itself. Control cannot automatically be inferred because the client determines the times when the services are rendered. The idea of control is not necessarily excluded in business contracts. It is generally included, albeit somewhat like in work contracts, to various degrees, which, nevertheless, can be surprising with regard to scope and the nature of the business agreement is still unaltered. It is sufficient to point out how subcontractors are supervised at a construction site.
+[25] To show that the tutors provided services under the clients' control and direction, the Respondent's counsel referred to a clause in the Contrat de service pédagogique [educational service contract] (Exhibit A-2), which mostly stipulates that instruction must be given in the presence of another adult who cares for and supervises the child. Again, I do not see how control over the teacher can be inferred because an adult has to be present to supervise the child while the services are rendered. There is certainly a slight difference between ensuring the child's supervision and care and directing or controlling the tutor. Is protecting the child not the only purpose of this contractual clause?
+[26] The Respondent's counsel referred to two cases heard by the Court concerning the Centre's employees. I must point out that each case is a particular one and that I must render a decision based on the evidence submitted at this hearing. For example, from what I understand, the testimony of the tutor, Ms. Bussière, in which the client had some control over her, was a determining factor in the decision1 of Somers J. of March 1, 2000. It should also be pointed out that in that case, the testimony of the student, who was an adult, was also probably vital to the decision. In this case, no tutor, student or parent testified. However, Ms. Perreault's credible and non-contradicted testimony clearly demonstrated that the tutors did not provide services under the clients' control or direction.
+[27] As for the other case2 referred to by the Respondent's counsel, I simply do not see the relevance in it because the deputy judge, A. J. Lesage, came to the conclusion that the Appellant and employee were linked by a contract of employment within the meaning of paragraph 5(1)(a) of the Act.
+[28] On these grounds, I believe that the tutors in the case were not under the control or direction of Ms. Perreault's clients.
+C. Third condition: Did Ms. Perreault pay the tutors?
+[29] Ms. Perreault's counsel argued that in each case, the parents paid the tutor. He maintained her representation on the following contractual clause of Exhibit A-2:
+[Translation]
+I order Anne Perreault to make periodic payments to the tutors on my behalf, as well as the payment that was made in trust to that effect, and based on the hours worked by them and confirmed with a time sheet. I also authorize the business to withdraw its fees from this same account.
+[30] It was admitted that the client probably did not know the percentage of the amount that he deposited into this account that went to the tutor. Ms. Perreault testified that she withdrew her fees from the money deposited into the account and that it represented about 50% of the funds.
+[31] The client and Ms. Perreault were the sole parties to the contract. It was an executory contract of tutoring that Ms. Perreault executed through self-employed workers who, most of the time, were teachers. As payment for services rendered by Ms. Perreault, the client paid her a sum of money. The tutor was not a party to the contract at all. Within the terms of the contract, the client therefore had no obligation to the tutor. The parents were only contractually bound to Ms. Perreault.
+[32] The mandate actually consists of one person providing another with the power to represent him or her in carrying out a legal transaction. In this case, Ms. Perreault claimed to be mandated by the client to pay the tutor. However, the client owed the tutor nothing and did not even know how the tutor was paid. The contract linked the client and Ms. Perreault. In my opinion, the mandate was invalid.
+[33] The mandate clause was merely a simulation put in place by Ms. Perreault to avoid the application of paragraph 6(g) of the Regulations. In addition, the Appellant's counsel admitted the following at the hearing, which I quote:
+[Translation]
+Payment. I admit that in this regard, there is a grey zone Your Honour. But, if you find that payment was intentionally made, in spite of the system that is implemented, and which, Your Honour, is done so that the payment is made directly by the parents to the tutor through a trust account. Ms. Perreault has expert accountants who . . . .
+[34] I therefore believe that the mandate was invalid. The mandate clause was merely a simulation and, in reality, Ms. Perreault, and not the parents, paid the tutor.
+[35] The employment held in 2001 by the 25 resource persons (whose names appear in Appendix A of the Reply to the Notice of Appeal), was not insurable employment for the purposes of the Act and its Regulations because two of the three conditions listed in paragraph 6(g) of the Regulations were not satisfied. In fact, I believe that the business run by Ms. Perreault was not a placement agency and that the resource persons she recruited did not provide their services under the direction or control of Ms. Perreault's clients.
+[36] Consequently, the appeal is allowed and the Minister's decision is vacated.
+Signed at Ottawa, Canada, this 23rd day of February 2004.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 23rd day of December 2004 .
+Julie Oliveira, Translator
+1
+Perreaultc. Canada, [1999] A.C.I. no 212
+2
+Perreaultc. Canada, [1999] A.C.I. no 364

@@ -1,0 +1,253 @@
+---
+title: "Miller v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27267/index.do"
+last_modified: "2007-04-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 207"
+citation2: ""
+neutral_citation: "2007 TCC 207"
+decision_date: "2007-04-10"
+language: "en"
+item_id: "27267"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 808
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:13:17.332000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "54befa3dbafbfd5f2ffd55845ea3ddafb104ddf3fbc7f27eb4900ceed94fbcdd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Miller v. The Queen
+
+- Citation: 2007 TCC 207
+- Decision date: 2007-04-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 808, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Miller v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-10
+Neutral citation
+2007 TCC 207
+File numbers
+2006-2189(IT)G
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2189(IT)G
+BETWEEN:
+RONALD JAMES MILLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motion of
+R. J. Miller & Associates (1986) Ltd. (2006-2190(IT)G)
+on March 9, 2007, at Vancouver, British Columbia.
+Before: The Honourable Justice Theodore E. Margeson
+Appearances:
+Counsel for the Appellant:
+Howard F. Peet
+Counsel for the Respondent:
+Linda Bell
+____________________________________________________________________
+ORDER
+Upon motion by the Respondent for an Order of this Court to strike out the Appellant's Notice of Appeal or alternatively, for an Order granting the Respondent 30 days from the date of the Order to file the Respondent's Reply to Notice of Appeal;
+Upon reading the Affidavit of Susan Wong, filed;
+The motion is allowed, with costs, and the Notice of Appeal is expunged in its entirety.
+Signed at New Glasgow, Nova Scotia, this 10th day of April 2007.
+"T. E. Margeson"
+Margeson J.
+Docket: 2006-2190(IT)G
+BETWEEN:
+R. J. MILLER & ASSOCIATES (1986) LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on common evidence with the motion of
+Ronald James Miller (2006-2189(IT)G)
+on March 9, 2007, at Vancouver, British Columbia.
+Before: The Honourable Justice Theodore E. Margeson
+Appearances:
+Counsel for the Appellant:
+Howard F. Peet
+Counsel for the Respondent:
+Linda Bell
+____________________________________________________________________
+ORDER
+Upon motion by the Respondent for an Order of this Court to strike out the Appellant's Notice of Appeal or alternatively, for an Order granting the Respondent 30 days from the date of the Order to file the Respondent's Reply to Notice of Appeal;
+Upon reading the Affidavit of Susan Wong, filed;
+The motion is allowed, with costs, and the Notice of Appeal is expunged in its entirety.
+Signed at New Glasgow, Nova Scotia, this 10th day of April 2007.
+"T. E. Margeson"
+Margeson J.
+Citation: 2007TCC207
+Date: 20070410
+Docket: 2006-2189(IT)G
+BETWEEN:
+RONALD JAMES MILLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2006-2190(IT)G
+AND BETWEEN:
+R. J. MILLER & ASSOCIATES (1986) LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Margeson J.
+[1] This is a Motion by the Respondent for an Order pursuant to subsections 53(b) and (c) of the Tax Court of Canada Rules (General Procedure) ("Rules") to strike out the Appellant's Notice of Appeal or alternatively for an Order pursuant to section 12 of the Rules granting the Respondent 30 days from the date of the Order to file the Respondent's Reply to Notice of Appeal.
+[2] The grounds for the Motion are that the Appellant's pleading is scandalous, frivolous or vexatious or is an abuse of the process of the Court. Alternatively, it would be just and equitable in the circumstances to grant the Respondent a time extension of 30 days from the date of the Order to file the Reply to Notice of Appeal.
+[3] The Appellant appealed to the Tax Court of Canada in respect of assessments of his 1992, 1993 and 1994 taxation years. The Appellant's appeal for 1992 was dismissed. The appeals for 1993 and 1994 were allowed in accordance with the Judgment and Reasons for Judgment of the Tax Court of Canada dated January 2, 2001 signed by C. H. McArthur J.T.C.C.
+[4] The Appellant appealed the decision of the Tax Court of Canada to the Federal Court of Appeal, but only with respect to the issue of capital cost allowance for R. J. Miller & Associates (1986) Ltd. ("Corporation") law and costs. The appeal was dismissed March 1, 2002. The Judgment was dated March 1, 2002 and Reasons for the Order in respect of the Appellant's appeal to the Federal Court of Appeal were given.
+[5] In summary, the appeals of Ronald James Miller ("Miller") from reassessments of tax for the 1992, 1993 and 1994 taxation years were allowed on the basis that in computing income, Miller was entitled to deduct those business expenses set out under the firearms conclusion. The appeal of the corporation from the reassessment for the year ending February 29, 1992 was dismissed because no issue was brought forward with respect to 1992 and the appeal of the corporation from the reassessment for the year ending February 28, 1993 and 1994 was allowed and the reassessment was referred back to the Minister of National Revenue ("Minister") for reconsideration and reassessment in accordance with the foregoing reasons. The learned trial Judge stated as follows:
+In light of the manner in which the amounts were presented, I will not begin to get into the accounting in this case. I rely on both parties to work out the amounts based on my reasons and if the parties cannot come to an agreement, the parties may make submissions for my determination.
+[6] By letter dated May 8, 2002, the Respondent proposed figures to be reassessed in accordance with the Reasons for Judgment of Justice McArthur.
+[7] By letter dated June 27, 2002, the Appellant responded with his proposed figures.
+[8] By letter dated October 20, 2003, the Respondent responded to the Appellant's proposal of June 27, 2002 and indicated that the Respondent substantially agreed with the Appellant's figures with few noted exceptions and advised the Appellant of the anticipated revised taxable income.
+[9] By letter dated December 11, 2003, the Appellant raised issues with respect to the application of SR & ED credits from taxation years other than those subject to the tax appeal heard by Justice McArthur.
+[10] By letter dated January 30, 2004, the Respondent replied to the Appellant's letter dated December 11, 2003 and addressed the Appellant's concerns and requested the Appellant's written concurrence with respect to the amounts in issue in this appeal.
+[11] By letter dated February 26, 2004, the Appellant reiterated his position and again sought to have the Minister agree to assessing amounts for years other than those under appeal.
+[12] By letter dated March 9, 2004, the Respondent advised the Appellant that the Respondent had accepted the Appellant's figures for the amounts under appeal. The Respondent also advised that the Appellant's letter of June 27, 2002 and the Respondent's letter of October 20, 2003 were considered in constituting the agreement between the parties as directed by the Tax Court of Canada in the Reasons for Judgment.
+[13] By letter dated March 10, 2004, the Appellant responded to the Respondent's letter of March 9, 2004 and, among other things, demanded pre-assessment statements and stated that it did not agree to assessments being issued on the basis of the preliminary letter dated June 27, 2002 and the Respondent's letter dated October 20, 2003.
+[14] By letters dated March 18, 22 and April 5, 2004, the Appellant set out his concerns concerning the application of SR & ED tax credits from years not under appeal, the calculation of interest on the unpaid balance of tax and provided its estimate of the tax balance in its letter of April 5, 2004.
+[15] By letter dated May 27, 2004, the Respondent advised the Appellant that the Minister agreed with the amounts to be adjusted with respect to the taxation years under appeal as set out in the Appellant's schedules attached to its letter dated April 5, 2004. The Respondent further advised the Appellant that reassessments would be issued to reflect those figures.
+[16] The Appellant responded by two letters dated May 27, 2004 and stated his position at paragraph 5 of the first letter:
+5. ... The order has ramifications that impacted subsequent years and accordingly the results of applying the terms of the Order to those years, dictates that they form an integral part of what must be agreed on for purposes of settlement of that Order.
+[17] By letters dated July 23 and 28, 2004, the Appellant provided revised schedules showing its calculation of the balances owing.
+[18] By letter dated July 29, 2004, the Respondent provided the Appellant with pro forma reassessments showing the calculation of net taxes payable after application of the agreed amounts in respect of the years under appeal.
+[19] By letter dated July 29, 2004, the Appellant responded to the Respondent's letter of the same date and stated at the fifth paragraph that:
+This Tax Court Order has not and will not be settled, until the CCRA provides us with transparent statements of account for both taxpayers for the tax years 1992 through current years respectively, showing what is currently in their records (prior to any re-assessments), along with the agreed Proformas in the form and in the periods requested prior. Until such time as the Order is settled, the re-assessments can not proceed. It is as simple as that.
+[20] The Appellant also advised in the second last paragraph of his letter that he had dismissed his counsel.
+[21] The Minister reassessed the Appellant for its 1993 and 1994 taxation years by Notices of Reassessment dated August 27, 2004.
+[22] From these assessments the Appellants' appeal to the Tax Court of Canada.
+[23] The Notices of Appeal to the Tax Court of Canada were filed on July 25, 2006.
+[24] Counsel for the Respondent submitted that the Ronald James Miller appeal is vexatious or an abuse of process because:
+(a) the Court does not have jurisdiction over the issues raised in paragraphs 2, 3, 4, 6 and 11 of the Notice of Appeal;
+(b) paragraphs 2, 3 and 4 of the Notice of Appeal do not state the material facts upon which the cause of action is based;
+(c) the Appellant's claim in paragraph 5 is an abuse of process since he could have sought relief before the Court before the reassessments were issued.
+[25] Further, the corporation's appeal is vexatious or an abuse of process because;
+(a) the Court has no jurisdiction in respect of loss carry-backs in paragraphs 1 through 7, 16, 17 and 23 of the Notice of Appeal;
+(b) no material facts are pled in respect of paragraphs 8 to 11 and 18 of the Notice of Appeal;
+(c) the Court has no jurisdiction in respect of accounting issues raised in paragraphs 12 through 14, 19 and 24 of the Notice of Appeal; and
+(d) the Appellant's claim in paragraph 15 and 20 of the Notice of Appeal is an abuse of process as it could have sought relief before the Court before the reassessments were issued.
+[26] Counsel referred to section 53 of the Rules which provides:
+53. The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+[27] Counsel for the Respondent submitted that the proper application of section 53 of the Rules is that a pleading will be struck if it is plain and obvious that it will not succeed. The power to strike must be exercised with great care. This was confirmed in Gauthier v. R, 2006 CarswellNat 1460 (T.C.C.).
+[28] She further submitted that it is not the duty of the judge to redraft pleadings. However, the Court must examine a proceeding closely before determining that it cannot be saved through proper amendments. It must decide whether a document is so defective that it cannot be cured by simple amendments. See Nelson v. Canada, (Custom Revenue Agency) 2001 CarswellNat 2270 (F.C.T.D.). Bearing this in mind she submitted that the Miller's tax appeal is vexatious or an abuse of process because the issues raised in paragraphs 2, 3, 4, 6 and 11 of the Notice of Appeal, are issues over which the Court has no jurisdiction. It does not have power to grant the relief sought. Therefore, these paragraphs should be struck pursuant to section 53 of the Rules as they are either vexatious or an abuse of process.
+[29] Counsel relied on Hardtke v. R., 2005 CarswellNat 1065 (T.C.C.). This case held that the Income Tax Act ("Act") does not give the Court jurisdiction to examine the methods used by the Minister in raising assessments. That is what is being sought in the paragraphs sought to be expunged.
+[30] A statement of account is not an assessment. Neither is the "balance unpaid" that may be included on the Notice of Assessment. The "balance unpaid" is the result of the assessment but not a component of the assessment of tax, interest and penalties. She referred to Ruffolo v. R., 2000 CarswellNat 881 (F.C.A.). Further, counsel opined that a challenge to the assessment of interest assessed under subsection 161(1) of the Act is restricted as to whether or not there was a mistake in the mathematical calculation or was computed by reference to erroneous principles. See J. Cloud v. Canada, 1994 CarswellNat 1277 (T.C.C.). Consequently paragraphs 2, 3, 4, 6 and 11 of the Notice of Appeal should set out the facts, issues raised and relief sought with respect to the question of interest.
+[31] In paragraph 2 of the Notice of Appeal, the Appellant does not allege that interest assessed in the Notice of Reassessment contained any errors. Rather, he states that the statements of account prepared from the Notice of Reassessment were inaccurate and contained errors in the calculation of interest. Thus it is not the Reassessments that he is attempting to appeal but the statements of account. There is no right of appeal from a statement of account.
+[32] In paragraph 3 of the Notice of Appeal, the Appellant refers to the resulting balance. This is presumably in respect of the statement of account. However, even it if were in respect of the balance set out in the Notice of Reassessment, it is not a matter that is subject to appeal under provisions of the Act.
+[33] With respect to paragraph 4 of the Notice of Appeal, the fact that the Appellant has not been able to verify the calculations of Canada Revenue Agency as to interest or application of old payments, does not, in and of itself, form the basis for attacking the validity of the Reassessment.
+[34] The relief that the Appellant seeks in paragraph 11 of the Notice of Appeal is to order the accounting of the debt owed and not a determination of the liability giving rise to the debt. An action for determination of a debt owed to the Crown is within the jurisdiction of the Federal Court and is not within the jurisdiction of the Tax Court. Section 222 of the Act is authority for such proposition. Finally, counsel argues that the Appellant's appeal is not an appeal from an assessment of interest in respect of his 1992, 1993 or 1994 taxation years, but is an attempt to compel the Minister to give an accounting of the debt owed. The Court has no jurisdiction over the issues raised by the Appellant in paragraphs 2, 3, 4, 6 and 11 of the Notice of Appeal; therefore they should be struck on the basis that they are vexatious.
+[35] The Appellant has not pled material facts upon which he relies in respect of the interest assessed in respect of the 1992, 1993 and 1994 taxation years. They are therefore vexatious and should be struck.
+[36] The appeal is an abuse of process. In paragraph 5 of the Notice of Appeal, the Appellant asserted that he did not consent to the reassessments that were directed by the Tax Court in his appeal of his 1992, 1993 and 1994 taxation years and sets out the issues in respect of this at paragraphs 7 and 8.
+[37] The basis upon which the Appellant did not agree or consent to the reassessments was not on the basis that the parties had not agreed on the figures to be assessed, as it has been agreed upon, but on the basis that the parties could not agree that a liability for taxation years subsequent to the tax years that are under appeal are relevant to the reassessments that were to be issued in accordance with the decision.
+[38] Counsel took the position that the correspondence clearly indicated that the parties had agreed upon the calculation for the benefits conferred. Further, if the Appellant did not agree with the proposed adjustments to the net taxable income, he could have brought a motion to the Tax Court to have Justice McArthur decide the issue, that outlet is provided in the decision itself. He failed to do so and now seeks to enforce his claims under the guise of an appeal from the reassessments issued following the decision of the Tax Court. This is an abuse of the Court's process.
+[39] All of these clauses should be expunged.
+[40] With respect to the R. J. Miller & Associates (1986) Ltd. appeal, this appeal is vexatious or an abuse of process because;
+(a) the Court has no jurisdiction in respect of loss carry-backs in paragraphs 1 through 7, 16, 17 and 23 of the Notice of Appeal;
+(b) no material facts are pled in respect of paragraphs 8 to 11 and 18 of the Notice of Appeal;
+(c) the Court has no jurisdiction in respect of accounting issues raised in paragraphs 12 through 14, 19 and 24 of the Notice of Appeal; and
+(d) the Appellant's claim in paragraphs 15 and 20 of the Notice of Appeal is an abuse of process since it could have sought relief before the Court before the assessments were issued.
+[41] Again, counsel relied upon Hardtke v. R., supra, in support of her claim that the Tax Court does not have jurisdiction over the issues raised in the appeal with respect to loss carry-backs. The pleading can be stuck under section 53 of the Rules as either vexatious or an abuse of process or because the pleading is so futile that it does not have the slightest chance of success. Therefore, it is frivolous or vexatious.
+[42] The Tax Court's jurisdiction is described by section 12 of the Tax Court of Canada Act and section 171 of the Income Tax Act. The Court has jurisdiction to hear appeals from assessments or reassessments to which a taxpayer has filed a Notice of Objection. The Appellant's appeal of his 1993 and 1994 taxation years is subject to restrictions in subsection 169(2) since this is an appeal from a reassessment issued in accordance with an Order of the Court referring this assessment back to the Minister for reassessment and reconsideration.
+[43] Case law determines that the restriction in subsection 169(2) precludes a taxpayer from raising issues in respect of a taxation year that should have been raised in the original appeal before the Court. The principal of res judicata applies. See Armstrong v. R., 2006 DTC 6310, 2006 FCA 119.
+[44] It is clear in this case that the Appellant did not raise the issue of loss carry-backs in its 1993 and 1994 taxation years because, according to paragraphs 1 and 3 of the Notice of Appeal, it decided not to claim the losses in subsequent years until after the Tax Court decision in 2001. The issue of loss carry-backs could have been dealt with by the Tax Court if the Appellant had chosen to file its return in a consistent fashion and if it claimed loss carry-backs. The Appellant cannot now introduce the issue of loss carry-backs from subsequent taxation years to 1993 and 1994 under an appeal that is subject to the restrictions set out in subsection 169(2).
+[45] However, even if loss carry-backs from 1995 through 1998 are an issue that can be raised in this appeal, the Court does not have jurisdiction to Order the Minister to reassess the Appellant's 1995 through 1998 taxation years to give effect to the filed amended tax returns.
+[46] The alleged losses arise as a consequence of amended tax returns filed by the Appellant. The Minister has not reassessed the Appellant subsequent to the filing of the amended tax returns and he cannot be forced to do so.
+[47] An amended tax return for a year that has already been the subject of a Notice of Assessment does not trigger the Minister's obligation to assess, nor does it start anew any of the statutory limitation periods that commence when income tax returns for a particular year are filed and then assessed. An amended tax return simply requests that the Minister reassess for that year. See Armstrong, supra.
+[48] This Court does not have the power to order the Minister to assess or make a lost determination in respect of the amended returns filed for the Appellant in respect of its 1995 through 1998 taxation years. That authority rests with the Federal Court under its power of judicial review. If the taxpayer requests a loss determination, that taxpayer may apply to the Federal Court for judicial review if the Minister refuses or fails to make a determination. However, such an application cannot succeed if the statutory conditions for loss determination are not met. Again see Armstrong, supra.
+[49] Therefore, the Court has no jurisdiction and cannot grant the Appellant the relief it seeks. Those paragraphs should be struck from the Notice of Appeal.
+[50] The Appellant's position is that paragraphs 8 through 11 and paragraph 18 of the corporation's Notice of Appeal referred to SR & ED. However, they do not state any material facts upon which a cause of action that is within the jurisdiction of the Tax Court can be brought. Therefore, all four paragraphs should be struck on the basis that they are vexatious. See O'Neill v. M.N.R., 1994 CarswellNat 825 (F.C.T.D.), 95 DTC 5060 and Gauthier, supra.
+[51] Counsel took the position that a challenge to the assessment of interest under subsection 161(1) of the Act is restricted to whether there was a mistake in the mathematical calculation or was computed by reference to erroneous principles. See J. Cloud v .Canada, supra.
+[52] Paragraphs 12 to 14 and paragraphs 19 and 24 of the Notice of Appeal relate to accounting issues. The Appellant is not challenging the validity of the reassessment, nor is it asserting a specific mathematical error in the calculation of the interest. In these paragraphs the Appellant is raising issues with respect to calculation of its debt, which is within the exclusive jurisdiction of the Federal Court or other court of competent jurisdiction and is not within the jurisdiction of the Tax Court. See section 222 of the Income Tax Act.
+[53] Therefore, paragraphs 12 through 14 and paragraphs 19 and 24 of the Notice of Appeal should be struck on the grounds that they are vexatious.
+[54] With respect to paragraph 15 of the Notice of Appeal, counsel took the position that the Respondent accepted the figure submitted by the Appellant in respect of deductible expenses for the Appellant's firearms division, and the Respondent reassessed the Appellant on that basis in accordance with the Reasons for Judgment of Justice McArthur. Accordingly, there was an agreement between the parties as to the amounts to be reassessed and the Respondent has complied with the judgment of Justice McArthur.
+[55] In any event, if the Appellant did not truly agree with the proposed adjustments, which the Respondent says he did, they have the option of bringing a motion to the Tax Court to have Justice McArthur decide the issue. The Appellant failed to do so and now seeks to enforce its claim under the guise of an appeal from the reassessments issued following the decision of the Tax Court. Clearly this is an abuse of the Court's process and paragraph 15 of the Notice of Appeal should be struck out.
+[56] Counsel addressed the issue as to whether or not it was entitled to a time extension to file a Reply to the Notice of Appeal in the event the Court refused this motion. However, counsel for the Appellant did not dispute this matter and so no further argument was made in that regard by counsel for the Respondent.
+[57] In the end result, counsel opined that all motions should be granted and the Notices of Appeal should be expunged in their entirety.
+[58] In argument, counsel for the Appellant did not contest the position that the amounts that were to be assessed had been agreed upon. However, he said that the Appellant has strong views that his taxes as assessed be correct. The issue to him was how he went about assuring that. Further, counsel said there was no issue as to the test to be applied. If there is no chance of success, the matter should not proceed subject to his position that it may be a case for allowing an amendment so that the matter could proceed.
+[59] The Appellant could not reconcile the accounts. He said that paragraph 4 in the Appellant's argument was the hub of his position. That paragraph stated that Mr. Low's calculation showed that $75,872.55 was payable by the Appellant, a variance totalling $23,226.28 in the Appellant's favour from the CRA statement as provided, reflecting a balance payable by the Appellant in the amount of $99,098.83.
+[60] Counsel disagreed with the argument put forward by counsel for the Respondent that it is an accounting matter and the Court has no jurisdiction in that matter. He referred to J. Cloud v. Canada, supra, as authority for that proposition. His position was that if there was an error it can be dealt with by this Court. That case, when considered in light of the case of George Pothitos v. M.N.R., 60 DTC 6376, is authority for that proposition. In that case it was a technical matter and the Board held that it did not lack jurisdiction to deal with that issue on the appeal because there was no other way that a reassessment that displeases the taxpayer could be reviewed. The taxpayer would be without a remedy if the reassessment was not made strictly in accordance with the terms of the judgment directing it. Even if it is not a calculation then this Court is capable of dealing with it and having it rectified.
+[61] Counsel said that the Appellant agreed with the numbers and disagreed on the process. He believed that the Minister should have gone back to the Tax Court and the Minister said no. He agreed that the issue with respect to the interest arose only after the numbers were agreed upon.
+[62] Counsel opined that if this Court cannot continue the matter and deal with it where does the Appellant go? He may be out of time for judicial review.
+[63] The onus is on the Respondent to take the matter back to the Tax Court.
+[64] With respect to the personal appeal of Ronald James Miller counsel did not have a disagreement with respect to the numbers. He still believed that he had the write to have the Minister take him back to the Tax Court. Consequently, he did accede to the Order proposed by the Respondent. The issue of accounting is still open.
+[65] With respect to the matter of interest, he did agree that it is the Minister's decision to forgive interest or not. Counsel asked the Court to grant time for the Appellant to put his own calculations before the Court for review.
+[66] With respect to the corporate appeal, the taxpayer said that there were two agreements with CRA, the Suleman Agreement and the Thong Agreement and these can be looked and should not be struck out. He said that the Minister had agreed to allow the expenses to be listed and not claimed on the returns, so that they can now be looked at even though no objection was filed with respect thereto. He referred to Entrac Property Corporation v. The Queen, 95 DTC 391, in support of this position.
+[67] Further, on the issue of the accounting, counsel argued that there are issues that are covered in the expert's report and this should be considered by the Court. The accounting issue can go forward to verify the accuracy of the interest calculations.
+[68] This submission was made even though counsel agreed that he could not show where the calculations were wrong.
+[69] In general, the Appellant did not agree with the reassessment. He thinks that they should have brought him back to the Court. If this Court decides that if there is a matter to go ahead, then the Appellant should be allowed to amend his pleadings.
+[70] In reply the Respondent took the position that it is the taxpayer who has a right to appeal to the Tax Court. The Minister has no duty to take the matter back before the Tax Court. In any event the only matter left after the judge's decision was the benefits to be assessed to the taxpayer.
+[71] There was no issue as to interest at the time that the agreement was made. Further, other issues such as expenses in other years are not before the Court.
+Decision on Motion
+[72] The Court is satisfied that this Motion must succeed.
+[73] As counsel for the Appellant indicated in argument, the Appellant has strong views with respect to his taxes being correctly assessed and some issue as to how he can assure that that happens. He agreed that there was no issue of the test to be applied in determining whether or not the Notice of Appeal should be expunged. He agreed that if there was no chance of success, it should not proceed in the absence of the Court permitting the Appellants to amend their Notices of Appeal.
+[74] In essence the Appellant was dissatisfied because after he had made the agreement with the Minister regarding the amounts to be included in the assessment, he could not reconcile the outstanding amount alleged by the Minister with the amount that his expert had concluded would be owing. The figures set out at Tab D were looked upon by the Appellant merely as a running account.
+[75] The hub of the Appellant's argument was this very point that Mr. Lowe's calculations showed a difference of some $23,226.28 between his calculations and those of the Minister. The Appellant wants these calculations to be taken into account and wants to go back before the Tax Court to do this. However, the Court is satisfied it has no jurisdiction in that regard as it is a matter of a calculation and that is for the Federal Court.
+[76] The Court is satisfied that the arguments made by counsel for the Respondent are well-taken. Counsel for the Appellant stated in his argument that the Appellants are more concerned with the form than the substance. Unfortunately, this is not something that this Court can address.
+[77] The Court is satisfied with respect to the Ronald James Miller appeal, that the Notice of Appeal should be expunged in its entirety. The Court does not have jurisdiction over the issues raised in paragraphs 2, 3, 4, 6 and 11 of the Notice of Appeal and no material facts were stated upon which the cause of action is based.
+[78] The claim in paragraph 5 of the Notice of Appeal is an abuse of the Court's process since the Appellant could have sought relief before the Court before the reassessments were made. In any event, the Court is satisfied that the Appellant agreed with the amounts upon which the assessments were to be based in accordance with the judge's order, though he did not consent to CRA proceeding with the unilateral implementation of its accounting pursuant to the judgment.
+[79] The Court is satisfied that even though the Appellant did not consent to the reassessments, it was not on the basis that the parties did not agree on the figures to be assessed in accordance with the Reasons for Judgment but rather on the basis that the parties could not agree on tax liability for taxation years subsequent to those under appeal as being relevant. It was not a proper basis for refusing consent to the reassessments and the Minister was entitled to proceed.
+[80] The Court is satisfied that it is no argument for the Appellant to say that the Minister had the duty of proceeding back to Court to have Justice McArthur pass judgment upon the matter. He cannot now seek to enforce his claim by filing an appeal.
+[81] With respect to the R. J. Miller & Associate (1986) Ltd. appeal. The Court is in complete agreement with the position of counsel for the Respondent and is satisfied that this appeal is vexatious or an abuse of process. The Court is satisfied that it has no jurisdiction in respect of loss carry-backs referred to in paragraphs 1 through 7, 16, 17 and 23 of the Notice of Appeal. Again, the Court is satisfied that no material facts are pled in respect of paragraphs 8 to 11 and 18 of the Notice of Appeal.
+[82] The Court is satisfied that it has no jurisdiction in respect of accounting issues raised in paragraphs 12 through 14, 19 and 24 of the Notice of Appeal. It does not accept the argument of counsel for the Appellant in that regard. The Court is satisfied that the Appellant's claims in paragraphs 15 and 20 of the Notice of Appeal are an abuse of process. The Appellant had the right to proceed to seek relief before the Court made the judgment prior to the reassessments being issued.
+[83] In the end result, the motion is allowed, with costs, and the Notices of Appeal are expunged in their entirety.
+Signed at New Glasgow, Nova Scotia, this 10th day of April 2007.
+"T. E. Margeson"
+Margeson J.
+CITATION: 2007TCC207
+COURT FILE NO.: 2006-2189(IT)G, 2006-2190(IT)G
+STYLE OF CAUSE: RONALD JAMES MILLER AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: March 9, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice T.E. Margeson
+DATE OF JUDGMENT: April 10, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Howard F. Peet
+Counsel for the Respondent:
+Linda Bell
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Howard F. Peet
+Firm: Bishop & Company
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

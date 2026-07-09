@@ -1,0 +1,161 @@
+Title: Zheng c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/233059/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-132-233059-zheng-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-07-13
+
+# Zheng c. La Reine
+
+- Citation: 2017 CCI 132
+- Decision date: 2017-07-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2107, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zheng c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-07-13
+Référence neutre
+2017 CCI 132
+Numéro de dossier
+2016-1443(GST)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-1443(GST)I
+ENTRE :
+QUN Y. ZHENG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 24 janvier 2017 à Toronto (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Représentant de l’appelante :
+M. Dennis Chow
+Avocate de l’intimée :
+Me Alisa Apostle
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie le 19 février 2012 au titre de la Loi sur la taxe d’accise (Canada) pour la période allant du 1er décembre 2012 au 31 décembre 2012 est accueilli, sans frais, et la cotisation par laquelle on a refusé le remboursement pour habitation neuve est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation, en tenant compte du fait que la demande de remboursement pour habitation neuve, faite par l’appelante en sa qualité de représentante de son mandant, Kwong Wing Cheung, devrait être acceptée.
+Signé à Ottawa, Canada, ce 13e jour de juillet 2017.
+« B. Russell »
+Juge Russell
+Référence : 2017 CCI 132
+Date : 20170713
+Dossier : 2016-1443(GST)I
+ENTRE :
+QUN Y. ZHENG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+[1] La Cour est saisie d’un appel interjeté sous le régime de la procédure informelle, à l’encontre d’une cotisation établie le 19 février 2014 par le ministre du Revenu national de l’intimée (le « ministre ») et confirmée par ce dernier le 2 février 2016. La cotisation rejetait la demande de remboursement de la TPS/TVH pour habitation neuve (le « remboursement ») présentée par l’appelante. Un avis d’opposition a par la suite été signifié et, le 2 février 2016, le ministre a décidé de confirmer la cotisation en question. L’appelante interjette appel à l’encontre de la décision par laquelle le remboursement a été refusé.
+[2] Étant donné que le bien en cause ayant fait l’objet d’une demande de remboursement est situé en Ontario, le remboursement serait autorisé au titre du paragraphe 41(2) du Règlement no 2 sur le nouveau régime de la taxe à valeur ajoutée harmonisée (Canada), qui est ainsi libellé :
+41(2) Remboursement en Ontario – Dans le cas où un particulier a droit au remboursement prévu au paragraphe 254(2) de la Loi au titre d’un immeuble d’habitation qui est un immeuble d’habitation à logement unique ou un logement en copropriété acquis en vue de servir en Ontario de résidence habituelle du particulier ou de son proche ou aurait droit à ce remboursement si la contrepartie totale, au sens de l’alinéa 254(2)c) de la Loi, relative à l’immeuble était inférieure à 450 000 $, pour l’application du paragraphe 256.21(1) de la Loi, le particulier est une personne visée et le montant du remboursement versé au titre de l’immeuble selon ce paragraphe est égal au montant obtenu par la formule suivante, jusqu’à concurrence de 24 000 $ :
+A x B
+où
+A représente 75 %;
+B le total de la taxe payée en vertu du paragraphe 165(2) de la Loi relativement à la fourniture de l’immeuble au profit du particulier ou relativement à toute autre fourniture, effectuée au profit de celui-ci, d’un droit sur l’immeuble.
+[3] Comme le précise la disposition susmentionnée, pour avoir droit au remboursement, le paragraphe 254(2) de la Loi sur la taxe d’accise (Canada) (la « Loi ») doit aussi être respecté. Voici la teneur de cette disposition :
+(2) Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+a) le constructeur d’un immeuble d’habitation à logement unique ou d’un logement en copropriété en effectue, par vente, la fourniture taxable au profit du particulier;
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui-ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche; [non souligné dans l’original]
+c) le total des montants — appelé « contrepartie totale » au présent paragraphe — dont chacun représente la contrepartie payable pour la fourniture de l’immeuble ou du logement et pour toute autre fourniture taxable, effectuée au profit du particulier, d’un droit sur l’immeuble ou le logement est inférieur à 450 000 $;
+d) le particulier a payé la totalité de la taxe prévue à la section II relativement à la fourniture et à toute autre fourniture, effectuée à son profit, d’un droit sur l’immeuble ou le logement (le total de cette taxe prévue au paragraphe 165(1) étant appelé « total de la taxe payée par le particulier » au présent paragraphe);
+e) la propriété de l’immeuble ou du logement est transférée au particulier une fois la construction ou les rénovations majeures de ceux‑ci achevées en grande partie;
+f) entre le moment où les travaux sont achevés en grande partie et celui où la possession de l’immeuble ou du logement est transférée au particulier en vertu du contrat de vente :
+(i) l’immeuble n’a pas été occupé à titre résidentiel ou d’hébergement,
+(ii) le logement n’a pas été occupé à titre résidentiel ou d’hébergement, sauf s’il a été occupé à titre résidentiel par le particulier, ou son proche, qui était alors l’acheteur du logement aux termes d’un contrat de vente;
+g) selon le cas :
+(i) le premier particulier à occuper l’immeuble ou le logement à titre résidentiel, à un moment après que les travaux sont achevés en grande partie, est :
+(A) dans le cas de l’immeuble, le particulier ou son proche,
+(B) dans le cas du logement, le particulier, ou son proche, qui, à ce moment, en était l’acheteur aux termes d’un contrat de vente,
+(ii) le particulier effectue par vente une fourniture exonérée de l’immeuble ou du logement, et la propriété de l’un ou l’autre est transférée à l’acquéreur de cette fourniture avant que l’immeuble ou le logement n’ait été occupé à titre résidentiel ou d’hébergement.
+Le remboursement est égal au montant suivant : […]
+[4] En l’espèce, la Cour est saisie de la question de savoir si la demande de remboursement de l’appelante a été présentée par un « particulier » au sens de l’alinéa 254(2)b). Il ressort de la réponse de l’intimée que le ministre a refusé le remboursement en supposant que l’appelante, ou un proche admissible de l’appelante, n’avait pas l’intention d’utiliser le bien visé par le remboursement à titre de lieu de résidence habituelle. L’existence d’une telle intention est requise par l’alinéa 254(2)b).
+[5] Le représentant de l’appelante n’était pas avocat. Les témoins appelés pour le compte de l’appelante étaient au nombre de cinq : l’appelante elle‑même, Qun Y. Zheng, sa sœur aînée, Yu‑Lian Zheng, l’ex‑époux de cette dernière, Kwong Wing Cheung, la fille de ces derniers, Lucy Cheung (« Lucy »), et une agente immobilière, Millie Chung (« Millie »). L’intimée a demandé et obtenu une ordonnance d’exclusion pour ces témoins, mais elle n’a pas appelé de témoins pour son compte. À mon avis, chaque personne a témoigné d’une manière entièrement crédible.
+[6] Les paragraphes qui suivent résument leur témoignage. Au printemps 2011, l’appelante, Qun Y. Zheng (« Qun »), de Richmond Hill, en Ontario, s’est vue demander par sa sœur aînée, Mme Yu‑Lian Zheng (« Yu-Lian »), et l’ex‑époux de cette dernière, Kwong Wing Cheung (« Kwong »), tous deux de la région de Vancouver, de chercher une maison dans la région de Toronto qu’ils pourraient acheter pour leur fille, Lucy, qui résidait également dans la région de Vancouver. Lucy s’était inscrite à l’Université de Toronto pour suivre des études menant à l’obtention d’un grade, à compter de l’automne 2012, et devait donc vivre dans la région de Toronto pour pouvoir assister aux cours. Qun était la seule personne proche que ces Vancouvérois connaissaient à Toronto, et ils lui ont donc demandé de les aider à ce sujet.
+[7] Avec l’aide de Millie, l’agente immobilière, Qun a effectué une recherche de biens immobiliers disponibles et a fini par en trouver un qui pouvait éventuellement convenir dans les environs de Markham. Le bien était une maison sur plans, dont l’achèvement des travaux de construction était prévu à la fin octobre 2012. Le bien était situé près de la maison même de Qun et était suffisamment grand pour accueillir les parents de Lucy lors de leurs séjours. Le prix d’achat était de 509 900 $. Le prix a été un facteur dans la décision de ne pas acheter un bien situé près du campus du centre‑ville de l’Université de Toronto. Qun a avisé sa sœur et l’ex‑époux de celle‑ci au sujet du bien, et leur a recommandé de l’acheter pour l’usage de Lucy.
+[8] Le 26 juillet 2011, à la demande de Yu‑Lian et de Kwong, Qun a entrepris les démarches pour l’achat de ce bien de Markham, en signant un contrat de vente avec le promoteur afin d’acheter ce bien qui comprendrait la maison à construire (pièce A‑1, contrat de vente, 26 juillet 2011). Il était entendu que c’était l’ancien beau‑frère de Qun, Kwong, qui figurerait comme acheteur sur le titre. Toutefois, Kwong était en Chine à ce moment précis et, apparemment, il était temporairement impossible d’obtenir une pièce d’identité avec photo portant son nom au complet, qui devait être produite pour que son nom apparaisse sur le contrat de vente en tant qu’acheteur. Le dépôt de 40 000 $ effectué relativement au contrat de vente a été fourni à Qun à partir d’un compte bancaire que Yu‑Lian et Kwong avaient ouvert à cette fin (pièce A‑2, la mise de fonds).
+[9] Deux semaines plus tard, Kwong était disponible et il a rapidement fait en sorte que son nom soit ajouté comme acheteur sur le contrat de vente (pièce A‑3, modification au contrat de vente, datée du 9 août 2011). La politique du vendeur/promoteur ne permettait pas la suppression de noms d’acheteurs d’un contrat de vente. C’est ainsi que le nom de Qun en tant qu’acheteuse n’a pas été supprimé du contrat de vente modifié, au même moment où le nom de Kwong a été ajouté par cette modification.
+[10] Par la suite, Kwong a signé une convention hypothécaire avec la Banque de Montréal à l’égard du bien de Markham, et son ex‑épouse, Yu‑Lian, a signé en tant que garante. Qun n’avait aucunement pris part à la convention hypothécaire (pièce A‑2, charge/hypothèque) ni au financement relatif au bien de Markham.
+[11] Après plusieurs retards dans la construction, l’opération de vente relative au bien de Markham a été effectuée le 20 décembre 2012. Le titre de propriété a été établi uniquement au nom de Kwong. Qun ne figurait pas sur le titre (pièce A‑6, directives concernant le titre). La sœur aînée, Yu‑Lian, n’a pas cherché à figurer sur le titre. Kwong a justifié cette situation par le fait que son [traduction] « travail était plus sûr que le leur ».
+[12] Entre‑temps, Lucy avait commencé à suivre ses cours à l’Université de Toronto en septembre 2012 et vivait avec sa tante, Qun, en attendant que les travaux de construction du bien de Markham, qui étaient en retard, soient terminés. Dès la fin des travaux de construction et après l’opération de clôture du 20 décembre 2012 qui a été en conséquence décalée, Lucy a commencé à vivre dans le bien de Markham qui était, à présent, la propriété de son père, Kwong, et qui était une maison assez grande.
+[13] Lors de l’opération de clôture du 20 décembre 2012, Kwong, en tant qu’acheteur, a payé le prix d’achat net au vendeur/promoteur, et celui‑ci a porté le remboursement de la TVH de 24 000 $ au crédit du compte de Kwong (pièce A‑7, état des rajustements). Le vendeur/promoteur avait auparavant présenté une demande de remboursement qu’il avait préparée au nom de Qun et qui portait la signature de celle‑ci, et ni Qun ni Millie n’avaient à ce moment‑là remis en question cette demande quant à ses effets juridiques (ni l’une ni l’autre n’avaient de formation juridique). Le vendeur/promoteur avait par la suite reçu le remboursement de 24 000 $ et, en sa qualité de vendeur, il l’avait porté au crédit du compte de Kwong, en sa qualité d’acheteur, au moment de l’opération de clôture.
+[14] Kwong est venu à Toronto pour l’opération de clôture et il y est demeuré quelques jours par la suite pour apporter des améliorations physiques au bien de Markham nouvellement construit, dont il était alors devenu propriétaire. Il avait une expérience de travail à Vancouver dans le domaine de la construction.
+[15] Quatre jours après la clôture, au moyen d’un document intitulé [traduction] « Procuration perpétuelle relative aux biens », préparé par un avocat, Kwong a nommé Qun sa mandataire pour [traduction] « […] agir uniquement [pour lui et en son nom] à l’égard de toutes les questions relatives à la vente et/ou à la gestion [souligné dans l’original] d’un bien immobilier dont l’adresse municipale est 10357 Woodbine Avenue By‑Pass, Markham (ON) […] » (pièce A‑9, Procuration perpétuelle relative aux biens, datée du 24 décembre 2012). Il s’agissait du bien de Markham que Kwong venait d’acheter.
+[16] À peu près au même moment, Lucy avait appris qu’elle ne pourrait probablement pas obtenir une inscription à l’Université de Toronto pour la prochaine année universitaire. Elle a donc décidé de continuer ses études à l’Université de la Colombie‑Britannique pour l’année universitaire à venir. Entre‑temps, elle a continué à vivre dans le bien de Markham.
+[17] En ce qui concerne la procuration susmentionnée, Qun a estimé qu’elle n’avait pas le temps, compte tenu de ses autres responsabilités professionnelles, de gérer le bien de Markham, par exemple en le mettant en location, étant donné que Lucy ne prévoyait pas continuer de fréquenter l’Université de Toronto. Elle a donc recommandé à Kwong de mettre le bien de Markham en vente. Selon les instructions de Kwong, Qun a fait mettre le bien en vente. Celui‑ci a été vendu avec bénéfice le 30 avril 2013. Le produit net de la vente a été versé entièrement à Kwong qui aurait par la suite versé le montant à son ex‑épouse, Yu‑Lian. Qun n’a reçu aucun produit de la vente. Avant la clôture, Lucy a déménagé du bien de Markham et est retournée vivre avec sa tante, Qun, pour le reste de son année universitaire à l’Université de Toronto.
+[18] Dans son témoignage, Kwong a déclaré qu’il avait été occupé par son propre travail à Vancouver et qu’il n’avait abordé la question de la procuration que lorsqu’il était à Toronto pour l’opération de clôture du 20 décembre 2012. En contre‑interrogatoire, il a précisé qu’il avait participé dès le départ aux activités de recherche et d’acquisition d’un bien qui devait servir à sa fille, même s’il n’était pas personnellement présent (dans la région de Toronto). Lui et son ex‑épouse, Yu‑Lian, ainsi que la famille avaient décidé d’acheter une maison pour l’usage de leur fille Lucy pendant qu’elle suivrait ses études à l’Université de Toronto. Le groupe familial qui avait pris cette décision comprenait Kwong, son ex‑épouse, Yu‑Lian, leur fille, Lucy, la fille aînée de Kwong ainsi que son fils.
+[19] Yu-Lian a déclaré dans son témoignage qu’elle et son ex‑époux, Kwong, voulaient acheter une maison à Toronto dans laquelle leur fille habiterait pendant qu’elle poursuivrait ses études à l’Université de Toronto. Ils ont tous les deux fourni les fonds pour l’achat de la maison. En contre‑interrogatoire, elle a précisé qu’elle s’en était en grande partie occupée, avec sa sœur Qun, en soulignant que Kwong avait été en Chine pendant quelque temps en 2011.
+[20] Millie, l’agente immobilière qui était intervenue pour l’achat par Kwong du bien de Markham, a déclaré dans son témoignage qu’elle savait que Qun agissait pour le compte de son ancien beau‑frère Kwong. Elle a précisé que Qun était chargée d’aider Kwong à acheter le bien. Millie savait que Kwong était le véritable acheteur. Le vendeur/promoteur n’avait pas permis à Qun de supprimer son nom en tant qu’acheteuse lorsque le contrat de vente avait été modifié pour que le nom de Kwong y soit ajouté deux semaines après la signature initiale du contrat. Selon la déclaration de Millie, le vendeur/promoteur n’avait pas non plus permis à Qun d’être désignée comme une acheteuse [traduction] « en fiducie » pour Kwong.
+[21] Au départ, Millie n’avait pas de pièce d’identité avec photo comportant le nom légal complet de Kwong et elle n’a ajouté son nom sur le contrat de vente que peu de temps après. Kwong était à l’étranger pour un certain temps, et elle devait attendre pour obtenir sa pièce d’identité. Son entreprise de courtage immobilier offrait ses services au vendeur/promoteur. Ce dernier s’était occupé de la demande de remboursement de TPS/TVH pour habitation neuve.
+[22] Le dernier témoin était Lucy. Son témoignage était compatible avec celui de ses parents et de sa tante. Elle a vécu dans le bien de Markham pendant quatre mois. Celui‑ci était censé être prêt en octobre 2012, mais il ne l’avait été qu’en décembre de cette année‑là. En contre‑interrogatoire, elle a déclaré qu’elle n’était pas une étudiante invitée, mais qu’elle était une étudiante à temps plein à l’Université de Toronto. Toutefois, en décembre 2012 ou en janvier 2013, elle s’était rendu compte du fait que ses notes n’étaient pas suffisantes pour lui permettre de rester à l’Université de Toronto l’année suivante, et elle avait donc décidé que, l’année suivante, elle continuerait ses études à l’Université de la Colombie‑Britannique, à Vancouver.
+[23] Au cours des plaidoiries, l’intimée a fait valoir que l’appelante, Qun, avait à juste titre fait l’objet d’une cotisation, étant donné qu’aucune cession n’avait eu lieu en faveur de son ancien beau‑frère, Kwong. Elle n’avait pas effectué l’achat pour son propre compte ni pour le compte d’une personne liée, étant donné que sa nièce n’était pas incluse dans la définition de l’expression « personnes liées » au sens du paragraphe 126(2) de la Loi. L’intimée a également soutenu qu’il n’y avait pas de fiducie, puisqu’il n’y avait aucun bien qui constituait la fiducie. En outre, l’intimée a affirmé que la procuration du 24 décembre 2012 avait été signée trop tard, c’est‑à‑dire après l’opération de clôture du 20 décembre. Le promoteur/vendeur avait préparé la demande de remboursement pour qu’elle soit signée par Qun et l’avait présentée avant la date de clôture. L’intimée a avancé aussi que le fait de considérer la situation comme une fiducie ou un mandat consistait à requalifier les rapports juridiques, et elle a cité en particulier la décision Al‑Hussain c SMR, 2014 CCI 379, au paragraphe 23.
+[24] Comme je l’ai déjà mentionné, j’ai conclu que les déclarations de tous les témoins en l’espèce étaient entièrement crédibles. À mon avis, il ressort clairement de la preuve que l’appelante agissait pour le compte de son ancien beau‑frère, Kwong, et de sa sœur aînée, Yu‑Lian, les parents de Lucy. Je considère que, plus précisément, l’appelante, Qun, agissait comme mandataire de Kwong, et aussi de Yu‑Lian, puisqu’elle était l’unique personne à Toronto avec laquelle ces deux parents établis à Vancouver avaient un lien de parenté et vers laquelle ils pouvaient se tourner pour trouver un logement adéquat pour leur fille, Lucy, qui était aussi établie à Vancouver, relativement à son séjour imminent à Toronto comme étudiante. Le fait que Qun ait signé le contrat de vente n’a pas fait d’elle une acheteuse, car, à mon avis, elle a signé pour le compte de Kwong, à titre de mandataire. Son nom aurait dû être supprimé du contrat lorsque le nom de Kwong a été subséquemment ajouté comme acheteur au moyen d’une modification, sauf que le vendeur/promoteur a par la suite refusé de retirer le nom de Qun.
+[25] Qun n’avait aucun intérêt pécuniaire dans le bien de Markham. La preuve non contredite a démontré que Qun avait effectué tous les paiements relatifs à l’achat au moyen de fonds que Yu‑Lian et Kwong avaient fournis. De la même manière, tous les produits provenant de la vente subséquente du bien de Markham ont été versés à Kwong et à Yu‑Lian, et non à Qun. Tous ces faits ont été bien documentés par des pièces relatives aux comptes bancaires et des relevés de rajustement concernant l’opération de clôture.
+[26] Le critère permettant de conclure à l’existence d’un mandat implicite a été récemment réexaminé par la Cour dans la décision GEM Health Care Group Limited v Her Majesty, 2017 TCC 13 (« GEM »), rendue par mon collègue, le juge Sommerfeldt. Le jugement et les motifs du jugement ont initialement été rendus dans l’affaire GEM le 25 janvier 2017, soit une journée après la tenue de l’audience en l’espèce (et modifiés le 26 février 2017 sur un aspect non pertinent au point en litige en l’espèce). Les motifs du jugement rendus dans GEM sont soulignés dans les présents motifs en raison de la jurisprudence qui existait alors et qui est citée dans cette décision en ce qui a trait au mandat implicite.
+[27] Au paragraphe 26 des motifs de la décision GEM, la Cour a cité le passage suivant tiré de l’ouvrage de G.H.L. Fridman, Canadian Agency Law, 2e éd., aux pages 40 et 41 :
+[traduction]
+De la même façon qu’avec les autres types de contrats, le mandat peut résulter implicitement de la conduite des parties, sans que ces dernières se soient expressément entendues sur les conditions d’emploi, sur la rémunération, et ainsi de suite. […] L’assentiment du mandataire peut s’entendre du fait que celui‑ci a agi intentionnellement pour le compte d’une autre personne. Toutefois, en général, c’est l’assentiment implicite du mandant auquel il sera probablement conclu. […] Un tel assentiment peut être implicite lorsque les circonstances indiquent de façon claire qu’un mandataire a donné l’autorité à une autre personne d’agir en son nom, ce qui peut être le cas même si le mandataire ne connaissait pas véritablement la situation. Le simple silence n’est pas suffisant. Il doit exister une ligne de conduite indiquant l’acceptation du mandat. Une telle implication a pour effet de mettre les parties dans la même situation que celle qui existerait si le mandat avait été expressément créé.
+[Renvois omis.]
+[28] Dans la décision GEM, aux paragraphes 27 et 28, la Cour a également cité l’arrêt Kinguk Trawl Inc c La Reine, 2003 CAF 85, rendu par la Cour d’appel fédérale. Cette affaire, qui portait bien entendu sur des faits différents, a été considérée comme illustrant le fait,
+[traduction]
+[…] que la conclusion quant à l’existence d’un mandat, selon les circonstances (y compris toute convention pertinente), peut être tirée dans une situation où les deux parties ne décrivent pas réellement leur relation comme un mandat et où il n’y a pas de désignation expresse d’une personne à titre de mandataire de l’autre.
+[29] En outre, le paragraphe 29 des motifs de la décision GEM renvoie à la décision Fourney c La Reine, 2011 CCI 520, rendue par mon collègue, le juge Hogan. Quatre principes portant sur le mandat tacite, tels qu’ils ont été relevés dans la décision Fourney, ont été paraphrasés dans la décision GEM de la manière suivante :
+[traduction]
+a) En l’absence d’une convention de mandat écrite, la Cour doit examiner minutieusement la conduite des parties afin de savoir s’il existait une intention implicite de créer un mandat.
+b) Lorsqu’il s’agit d’examiner la conduite du mandant prétendu et du mandataire prétendu, une considération cruciale consiste à établir le degré de contrôle que le premier exerçait sur le deuxième.
+c) Il est possible que le contrôle des actes du mandataire prétendu par le mandant prétendu se manifeste dans l’autorisation donnée par ce dernier au mandataire. En d’autres termes, les notions d’autorisation et de contrôle se recoupent souvent.
+d) Lorsqu’il est allégué qu’une société agit à titre de mandataire de ses actionnaires, un niveau élevé de preuve est nécessaire.
+[30] Je suis d’avis que la description et les critères relatifs à un mandat tacite susmentionnés ont été entièrement respectés en l’espèce. Selon la preuve non contredite, l’appelante, Qun, agissait suivant les instructions et dans l’intérêt de son ancien beau‑frère et de l’ex‑épouse de celui‑ci, à savoir la sœur aînée de l’appelante, pour pouvoir trouver un logement convenable à Toronto pour la fille de ces deux ex‑époux, qui devait aller à l’université. L’appelante a reçu l’autorisation de son ancien beau‑frère, Kwong, et de sa sœur, Yu-Lian, de conclure le contrat de vente pour le bien de Markham en leurs deux noms, ce qui a été démontré et confirmé par les témoignages de Qun, de Kwong, de Yu‑Lian et de Millie. Au regard de la décision Fourney, le contrôle exercé sur Qun se « manifeste dans l’autorisation » que Kwong et Yu‑Lian lui ont donné d’acheter et de finalement vendre le bien de Markham pour eux.
+[31] L’intimée a simplement soutenu la thèse selon laquelle la procuration avait été signée trop tard (c’est‑à‑dire qu’elle a été signée quatre jours après l’opération de clôture du 20 décembre 2012). Cela révèle qu’une attention exagérée est simplement portée sur le moment où un document écrit explicite a été créé. Cette position ne tient pas compte de la notion de mandat tacite. De plus, en tout état de cause, les modalités de la procuration perpétuelle, qui mettaient l’accent sur la [traduction] « vente et la gestion », ne s’appliqueraient pas, strictement parlant, à l’achat du bien de Markham.
+[32] Un mandat implicite rend simplement compte de l’existence d’un mandat en l’absence d’un document officiel ou explicite établissant l’existence de ce mandat. De même, la question de savoir si un mandat existe est généralement déterminée en fonction des faits réels propres à la situation, non en fonction de la question de savoir si la relation a été officialisée par écrit. L’existence d’une convention de mandat écrite est habituellement une simple preuve supplémentaire étayant l’existence d’un mandat; elle n’est pas, en général, déterminante quant à l’existence réelle d’un mandat. Cela veut dire qu’une convention de mandat pourrait exister sur papier, mais si la conduite des parties ne traduit pas l’existence d’une relation mandant‑mandataire, il sera alors vraisemblablement conclu, en fait et en droit, que le mandat n’existait pas. C’est la conduite réelle, plutôt que l’existence d’une convention de mandat formelle, qui s’applique normalement. À cet égard, je ne souscris pas aux observations de l’intimée selon lesquelles la conclusion quant à l’existence d’un mandat en l’espèce constitue une requalification de la situation réelle. À mon avis, il s’agit d’une qualification exacte des circonstances de l’espèce.
+[33] De même, je tiens à souligner que je ne tente pas d’accorder un redressement en equity. Au contraire, je détermine la situation juridique réelle qui s’applique en l’espèce, dans le but de décider s’il faut rejeter ou accueillir le présent appel quant au bien‑fondé de la cotisation relative à la TPS établie le 19 février 2014.
+[34] Compte tenu de ce qui précède, je conclus que l’appelante a agi comme mandataire du père de Lucy Cheung, Kwong Wing Cheung, et de la mère, Yu‑Lian Zheng, au regard de tous les actes qu’elle a posés relativement au bien de Markham, y compris la signature du contrat de vente en tant qu’acheteuse et la signature de la demande de remboursement de la TVH pour habitation neuve préparée par le promoteur. C’est Kwong qui a bénéficié du remboursement, comme cela est démontré par les états de rajustements relatifs à l’opération de clôture au moment où il a acheté le bien visé par ce remboursement. Certes, l’appelante n’était pas elle‑même un « particulier » au sens de l’alinéa 254(2)b) de la Loi, parce qu’elle n’avait pas l’intention, et aucun proche admissible de l’appelante n’avait l’intention (à noter qu’une nièce n’est pas un proche admissible), d’acquérir le bien concerné par le remboursement pour qu’il lui serve de lieu de résidence habituelle. Toutefois, son mandant, Kwong Wing Cheung, pour qui l’appelante a agi à titre de mandataire, comme je l’ai conclu, était un « particulier ». Il avait effectivement un proche admissible, à savoir sa fille Lucy, qui avait l’intention d’utiliser le bien de Markham comme lieu de résidence habituelle, et qui a réellement utilisé le bien à ce titre pendant quatre mois.
+[35] Par conséquent, je conclus que le présent appel devrait être accueilli, sans frais, et que la nouvelle cotisation par laquelle la demande de remboursement a été refusée devrait être renvoyée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en se fondant sur les présents motifs, afin que le remboursement soit accordé. La demande de remboursement n’a pas été présentée par Qun Y. Zheung pour son propre compte, mais plutôt en sa qualité de mandataire du père de Lucy, Kwong Wing Cheung, qui était le propriétaire titulaire du bien de Markham entre le 20 décembre 2012 et le 30 avril 2013.
+Signé à Ottawa, Canada, ce 13e jour de juillet 2017.
+« B. Russell »
+Juge Russell
+RÉFÉRENCE :
+2017 CCI 132
+NO DU DOSSIER DE LA COUR :
+2016‑1443(GST)I
+INTITULÉ :
+QUN Y. ZHENG ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 24 janvier 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 13 juillet 2017
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Dennis Chow
+Avocate de l’intimée :
+Me Alisa Apostle
+AVOCATS INSCRITS AU DOSSIER :
+Représentant de l’appelante :
+Nom :
+[BLANK / EN BLANC]
+Cabinet :
+[BLANK / EN BLANC]
+Avocate de l’intimée :
+Nathalie G. Drouin
+Sous‑procureure générale du Canada
+Ottawa, Canada

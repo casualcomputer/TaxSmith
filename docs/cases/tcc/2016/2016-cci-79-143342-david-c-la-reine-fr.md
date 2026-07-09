@@ -1,0 +1,227 @@
+---
+title: "David c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/143342/index.do"
+last_modified: "2016-04-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 79"
+citation2: ""
+neutral_citation: "2016 CCI 79"
+decision_date: "2016-04-05"
+language: "fr"
+item_id: "143342"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3112
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:06:35.072000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e733ea923f5760d9d4180fc76082903b6ef77d107e7a7ceea18eaf5406dcae6f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# David c. La Reine
+
+- Citation: 2016 CCI 79
+- Decision date: 2016-04-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3112, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+David c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-04-05
+Référence neutre
+2016 CCI 79
+Numéro de dossier
+2014-3376(IT)I
+Juges et Officiers taxateurs
+Henry A. Visser
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3376(IT)I
+ENTRE :
+JOHN DAVID,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 6 octobre 2015, à Miramichi (Nouveau-Brunswick).
+Devant : L’honorable juge Henry A. Visser
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Martin Hickey
+JUGEMENT
+L’appel interjeté en vertu de la Loi de l’impôt sur le revenu, concernant la nouvelle cotisation de l’appelant pour l’année d’imposition 2004 est accueilli, sans dépens, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 5e jour d’avril 2016.
+« Henry A. Visser »
+Le juge Visser
+Référence : 2016 CCI 79
+Date : 20160405
+Dossier : 2014-3376(IT)I
+ENTRE :
+JOHN DAVID,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Visser
+I. APERÇU [1] John David est un homme d’affaires retraité vivant à Bathurst au Nouveau-Brunswick, et fait partie des quelque 19 000 individus et sociétés au Canada qui ont été entraînés à devenir distributeurs dans un stratagème pyramidal appelé Treasure Traders International (« TTI »). Le ministre du Revenu national (le « ministre ») allègue que M. David a tiré des revenus de commission de 21 000 $ de sa participation à titre de distributeur dans TTI, qu’il n’a pas déclarés dans l’année d’imposition 2004, et a établi une nouvelle cotisation pour ce montant, avec des pénalités pour faute lourde. M. David prétend avoir reçu beaucoup moins que cette somme et qu’il a en fait encouru une perte du fait de sa participation à TTI, lorsque ses dépenses sont prises en compte. Il fait également valoir qu’il n’exerçait pas ses activités dans TTI à titre personnel, mais par l’entremise de sa société, M.S.J. Services Ltd. (« MSJ »). M. David a porté la nouvelle cotisation du ministre[1] en appel devant la Cour.
+II. QUESTIONS EN LITIGE [2] Dans cet appel, la Cour doit statuer sur les questions suivantes :
+(a) L’appelant a-t-il fait défaut de déclarer les revenus de commissions découlant de ses activités dans TTI pour l’année d’imposition 2004?
+(b) Si l’appelant a fait défaut de déclarer les revenus de commissions découlant de ses activités dans TTI pour l’année d’imposition 2004,
+(i) quel en était le montant?
+(ii) quelles dépenses l’appelant a-t-il le droit de déduire à l’encontre de ces revenus?
+(iii) l’appelant est-il passible de la pénalité pour « faute lourde » au sens du paragraphe 163(2) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) [la « Loi »] pour avoir fait défaut de le faire?
+(iv) le ministre pouvait-il présenter une nouvelle cotisation à l’appelant à l’égard de son année d’imposition 2004 après l’expiration de la période normale de cotisation prévue au paragraphe 152(4) de la Loi?
+III. EXPOSÉ DES FAITS [3] L’intimée a appelé John Glatt, vérificateur au bureau de London (Ontario) de l’Agence du revenu du Canada (l’« ARC »), afin qu’il témoigne sur le fonctionnement de TTI et sur la vérification qu’il a effectuée, ainsi que sur les aspects spécifiques de la vérification du ministre et de la nouvelle cotisation de l’appelant en l’espèce. J’ai conclu qu’il était un témoin crédible.
+[4] M. Glatt a témoigné qu’il avait participé à la vérification de Treasure Traders International Corporation (« TTIC ») et de certains de ses initiés, comme Alan Kippax et certains autres employés de haut niveau ou dirigeants de TTIC. Il a également participé à la vérification de plusieurs distributeurs indépendants de TTIC. Dans son témoignage, il a examiné une partie de la documentation utilisée par TTIC dans la commercialisation et l’exploitation du programme TTI, et il a corroboré l’aperçu de TTI présenté aux alinéas 7a) à k) de la réponse de l’intimée, dont je reproduis des extraits à l’annexe A des présentes. Comme il est indiqué plus bas, l’appelant conteste certaines de ces hypothèses de faits.
+[5] À la base, TTI était un programme de commercialisation à plusieurs niveaux, souvent appelé système pyramidal, qui a été en exploitation d’octobre 2003 à janvier 2006[2]. TTI a été promulgué par TTIC et Alan Kippax, son président et chef de la direction. TTIC était basée à Mississauga (Ontario)[3], et avait aussi des bureaux à Londres, en Angleterre. La principale activité commerciale de TTIC était supposément la vente de pierres semi-précieuses de couleur, comme des rubis, des saphirs et des émeraudes (principalement des émeraudes). Le programme TTI s’articulait autour d’un jeu de société sur le thème des pirates, appelé « Treasure Island Adventure Sales Team Game Board » (le “tableau de jeu »)[4]. Les postes du jeu de société comprenaient un Capitaine, deux Premiers maîtres, quatre Voyageurs et huit Membres d’équipage.
+[6] Même si le programme TTI était complexe et comprenait de nombreux frais potentiellement payables à TTIC tant par les clients au détail que par les distributeurs indépendants, un élément clé du programme était la vente de places sur le tableau de jeu par les distributeurs indépendants, comme l’appelant. TTIC et ses distributeurs organisaient fréquemment des réunions de vente afin de vendre des ensembles Gem Value Packs (« GVP »), qui donnaient à l’acheteur un droit d’accès au tableau de jeu. Un distributeur, à titre d’agent de TTIP, pouvait vendre un GVP à un acheteur pour une somme pouvant aller jusqu’à 1 200 $. Le GVP représentait un dépôt (comme en faisait foi le certificat « Purchase Order Deposit Receipt Certificate ») sur l’achat d’une « Gem-Cache »[5], une pierre précieuse montée dans un bloc stratifié d’une valeur supposée de 5 000 $. Un acheteur devait également verser à TTIC une somme additionnelle de 600 $, pour un total de 1 800 $, afin d’obtenir la Gem-Cache. Chaque fois que les huit postes du tableau de jeu étaient comblés (par la vente des huit GVP), le tableau de jeu était fractionné et tous les participants montaient d’un niveau.
+[7] Si un distributeur occupant le poste de Capitaine sur le tableau de jeu réussissait (avec les autres membres de l’équipe) à vendre les huit GVP pour la somme de 1 200 $ chacun, le Capitaine générait des recettes de 9 600 $, dont 2 600 $ devaient être remis à TTIC, le solde de 7 000 $ représentant la commission du Capitaine[6].
+[8] M. Glatt a témoigné que le ministre, parmi les 19 000 distributeurs indépendants de TTI, avait choisi de ne cotiser que ceux dont le ministre estimait qu’ils avaient gagné un revenu de commissions d’au moins 20 000 $[7]. Le ministre a donc choisi de cotiser environ 260 distributeurs de TTI, dont l’appelant. Pour la vérification de l’appelant, M. Glatt était assisté de Peter S. Nicotera, un vérificateur de l’ARC aussi basé au bureau des services fiscaux de London (Ontario). M. Nicotera n’a pas témoigné à l’audience.
+IV. DROIT ET ANALYSE [9] Il est incontestable que M. David était, d’une façon ou d’une autre, engagé auprès de TTI à titre de distributeur. La principale question factuelle dans cet appel consiste à déterminer si M. David exerçait ses activités au sein de TTI à titre personnel ou par l’entremise de sa société, MSJ. Si je conclus qu’elles étaient exercées par MSJ, comme le prétend l’appelant, les autres questions soulevées dans cet appel deviennent caduques.
+[10] L’intimée a fait valoir que M. David exerçait ses activités commerciales de TTI à titre personnel. Comme M. David n’a fourni aucune documentation à l’ARC quand celle-ci lui en a fait la demande[8], l’ARC a émis une nouvelle cotisation à M. David à partir des renseignements limités qu’elle avait obtenus à partir de sa vérification de TTIC et auprès de ses informateurs internes. À partir du témoignage de M. Glatt et de la preuve déposée par l’intimée, je note ce qui suit à propos de la preuve du ministre dans cette affaire :
+(a) TTIC n’a pas collaboré avec le ministre et ne s’est pas conformée aux demandes de renseignements et de documents du ministre.
+(b) M. Glatt a obtenu deux disques audionumériques contenant l’information financière de TTIC de l’ancien directeur financier de TTIC, de même que certains documents imprimés. Le directeur financier n’a pas été appelé à témoigner dans cette affaire.
+(c) Les renseignements financiers de TTIC obtenus du directeur financier contenaient également des renseignements sur les distributeurs indépendants de TTIC, incluant un certain nombre de feuilles de calcul, ainsi que des exemplaires de matériel promotionnel. L’une des feuilles de calcul remises au ministre par le directeur financier était intitulée « TTI Main distributor lookup.xls » et contenait une liste des noms et des coordonnées de 19 469 distributeurs de TTI. Une deuxième feuille de calcul remise au ministre par le directeur financier était intitulée « Captains Paid File-Master­07-28-05.xls »[9] et contenait de l’information sur la date et le montant des commissions (« Captain’s Fees ») gagnées par les distributeurs. Ni les disques audionumériques ni les feuilles de calcul n’ont été déposés en preuve dans cette affaire.
+(d) Outre l’information financière présentée dans les disques audionumériques, le ministre n’a obtenu aucune preuve directe pouvant indiquer qui de l’appelant ou de MSJ agissait comme distributeur pour TTI, et en particulier le ministre n’avait pas la Convention de distributeur de l’appelant.
+(e) À l’exception limitée d’un extrait de feuille de calcul traitant de la participation de l’appelant dans la franchise de Moncton Fleet Port, qui sera traitée de façon plus approfondie plus loin, l’intimée n’a déposé aucune preuve financière de la participation de l’appelant dans TTI, ne fournissant plutôt que des sommaires limités provenant des documents de travail de vérification de l’ARC[10].
+(f) Les documents de travail de vérification de l’ARC indiquent que M. David était associé à TTI ID 35725, qu’il était le Capitaine dans trois tableaux de jeu de TTI complétés en octobre, novembre et décembre 2004 et qu’il devrait par conséquent avoir encaissé des revenus de commission de TTI de 21 000 $[11].
+(g) Le ministre n’a pas effectué de vérification des dossiers bancaires ou autres de l’appelant ou de MSJ, et la lettre de proposition de 30 jours de l’ARC envoyée à l’appelant était substantiellement fondée sur les renseignements limités que le ministre avait obtenus du directeur financier concernant TTI et ses distributeurs.
+[11] M. Glatt a également témoigné au sujet du système « Fleet Port » de TTIC, qui est constitué de bureaux régionaux constitués en franchises, dont l’une est établie à Moncton (Nouveau-Brunswick). Un résumé comptable déposé en preuve par l’intimée[12] indique que « John David » a effectué, à titre de « Founder », des « dépôts » de 500 $ et de 6 500 $ à la franchise Fleet Port de Moncton de TTI, le 28 octobre 2004. Bien que ceci constitue une preuve de l’engagement supposé de l’appelant dans la franchise de Moncton de TTI, cela ne constitue pas à mon avis une preuve directe établissant qui, de l’appelant ou de MSJ, était un distributeur pour TTI. C’est toutefois cohérent avec la position de l’intimée à l’effet que l’appelant était personnellement un distributeur de TTI[13].
+[12] M. David a témoigné à l’audience et présenté une preuve sur cette question. Il n’a pas appelé d’autres témoins. J’ai conclu qu’il était un témoin crédible. Bien qu’il admette avoir participé à TTI à titre de distributeur, il prétend l’avoir fait par l’entremise de MSJ et que de toute façon, il a subi une perte sur ses activités au sein de TTI, et qu’il n’était donc pas personnellement tenu de déclarer des revenus de commission de TTI pour son année d’imposition 2004. À partir du témoignage de M. David et de la preuve qu’il a déposée, je note ce qui suit à propos de la preuve de l’appelant dans cette affaire :
+(a) M. David était actionnaire unique et président de MSJ, et a lancé six entreprises différentes par l’entremise de MSJ au cours d’une période d’environ 25 ans. En 2004, MSJ comptait environ 38 employés et exerçait des activités d’entrepreneur général contractuel.
+(b) En 2004, MSJ fonctionnait à perte, sa banque avait diminué sa marge de crédit de moitié et menaçait de la réduire encore davantage. MSJ a été invitée à adhérer à TTI par un ami de M. David; après que M. David eut assisté à quelques présentations de vente de TTI par Alan Kippax, il a été convaincu que TTI offrait des perspectives de bénéfices à long terme pour MSJ (tout comme des milliers d’autres Canadiens ont aussi été convaincus de la même chose). En plus de devenir distributeur de TTI, MSJ s’est jointe à un groupe de gens d’affaires et a investi dans la franchise Fleet Port de Moncton à hauteur de 7 000 $. TTI a émis un reçu à MSJ pour ce paiement[14].
+(c) MSJ a embauché de nouveaux employés et les a formés pour exploiter la nouvelle activité commerciale de distributeur de TTI, et a obtenu des fonds à cette fin du bureau de Développement des ressources humaines Canada (« DRHC ») de Bathurst (Nouveau-Brunswick). MSJ a également loué et rénové des bureaux additionnels à Bathurst pour l’exploitation de TTI. L’appelant avait également prévu de constituer une nouvelle société (appelée KIS dans la preuve) si les activités commerciales de TTI de MSJ avaient été fructueuses, avec l’intention de transférer les activités de TTI de MSJ à cette nouvelle entreprise au moment opportun. Bien que l’appelant ait entrepris le processus, le transfert n’a jamais été effectué puisque TTI a commencé à s’effondrer avant qu’il puisse avoir lieu.
+(d) Après environ un mois de formation et de développement des affaires en novembre 2004, MSJ et les autres ont commencé à avoir des problèmes avec TTIC. TTIC ne payait pas les sommes dues, a fait changer les serrures des bureaux de la franchise Fleet Port de Moncton et a saisi la totalité des actifs et des registres de la franchise Fleet Port de Moncton.
+(e) Lorsqu’il est devenu évident, à la fin de décembre 2004, que l’appelant et MSJ avaient été victimes d’une manœuvre frauduleuse de TTIC et que MSJ allait perdre les sommes investies, MSJ a mis fin à toutes les activités de TTI et mis fin à l’emploi des deux employés embauchés pour assurer les activités de TTI.
+(f) En 2005, MSJ a perdu la plus grande partie de sa marge de crédit et, en raison entre autres de l’embarras causé par son échec avec TTI et de la maladie de l’appelant, ce dernier a été forcé de mettre un terme aux activités de MSJ. En fermant MSJ, l’appelant a été en mesure de s’assurer que l’ensemble du passif de MSJ, incluant les obligations envers les sous-traitants, les fournisseurs, les employés et les impôts, était intégralement payé.
+(g) Bien que TTI ait établi des règles et des procédures complexes, elle ne les a pas respectées et les a fréquemment modifiées en réaction à des problèmes soulevés par ses distributeurs et ses clients. TTI a notamment modifié ses règles de vente et vendu des certificats en gros à ses distributeurs pour 325 $, parce que les distributeurs ne faisaient pas confiance à TTI pour le versement des commissions si le montant total des ventes devait être versé à TTIC.
+(h) Dans une lettre datée du 12 décembre 2004, l’appelant a posé les questions suivantes à Alan Kippax de TTIC : [traduction]
+J’ai appris que les certificats achetés par MSJ continuent d’être enregistrés à mon nom personnellement. J’ai appelé à vos bureaux plus tôt, sans résultat. Pouvez-vous apporter les changements et m’informer lorsque ce sera fait?[15]
+(i) L’appelant et son comptable n’ont pas reçu la lettre de proposition de 30 jours de l’ARC, datée du 21 janvier 2009[16], et n’ont pris connaissance de la situation qu’au moment où l’appelant a fait l’objet d’une nouvelle cotisation par le ministre, en mars 2009.[17]
+(j) Dans une lettre datée du 7 juin 2010 et adressée au chef des appels, le comptable de M. David fait valoir au ministre que : [traduction]
+...
+M. John David détenait 100 % des actions ordinaires de M.S.J. Services Ltd. (MSJ), numéro d’impôt de société.... L’année d’imposition de la société en question couvrait du 1er mai 2004 au 30 avril 2005...
+...
+Des certificats ont été achetés par M.S.J. Services, afin d’être offerts en cadeaux à ses employés clés et à d’autres personnes qui ont contribué à soutenir la société alors qu’elle traversait une de ses périodes les plus difficiles.... Nous avions une telle confiance dans ce projet que trois nouveaux postes ont été créés au sein de MSJ et que des employés ont été embauchés dans le cadre d’un programme subventionné par l’entremise de Mme Anita Boudreau du bureau de DRHC à Bathurst, au Nouveau-Brunswick. Ces employés étaient formés spécifiquement dans le but de développer notre intérêt dans TTI.... Des bureaux supplémentaires ont été loués et rénovés à Bathurst uniquement pour ce projet.
+...
+C’est MSJ qui était l’intervenant pour TTI, et non John David. MSJ a engagé des dépenses de 16 333,57 $... incluant le paiement de 6 500 $... fait à TTI pour les redevances de franchisage le 25 octobre 2004....
+...
+En résumé, MSJ n’a pas reçu 21 000 $ comme l’indique l’avis de cotisation. MSJ a payé la somme de 325 $ au nom de ses employés et n’a pas inscrit la somme de 1 200 $ ou demandé à ses employés de payer ce montant. M.S.J. Services Ltd était l’intervenant auprès de TTI, et non John David.[18]
+(k) Les documents à l’appui suivants étaient joints à la soumission du comptable :
+(i) les états financiers de MSJ pour l’exercice terminé le 30 avril 2005, qui ont été préparés par Allen, Paquet & Arseneau LLP, comptables agréés. M. David a indiqué que les dépenses de bureau (« Office ») de 19 309 $ apparaissant à la page 3 des états financiers comprennent différents frais engagés par MSJ à l’égard du programme TTI.
+(ii) Des extraits de la balance de vérification et du grand livre général de MSJ appuyant les dépenses de bureau de 19 309 $ mentionnées ci-dessus et faisant notamment mention de différentes dépenses et autre entrées et sorties de fonds ayant trait à TTI, comme l’achat de trousses de distributeur pour 450 $, des paiements de 500 $ et 6 500 $ pour la franchise Fleet Port de Moncton (dont il est question plus haut), les frais d’entrée de TTI, un remboursement de 1 200 $ à Denis Roy (l’un des acheteurs d’un certificat de TTI) ainsi que des paiements pour différents éléments reliés à TTI. Ces documents reflètent également les salaires versés aux employés embauchés pour assurer les activités TTI de MSJ, de même que les remboursements de salaire versés par DRHC.
+(iii) Un chèque de 1 200 $ fait par MSJ à l’ordre de Denis Roy en date du 27 décembre 2004, en remboursement de la somme versée pour l’achat d’un certificat de TTI.
+(iv) Un reçu de 7 000 $ daté du 18 novembre 2004, émis par TTI à MSJ, pour le paiement des redevances pour la franchise Port Fleet de Moncton.
+(v) Un accord de distributeur vierge, qui en établit les différentes conditions, incluant la section 2.3, qui donne à TTI le droit de modifier le prix des certificats TTI.
+(vi) Un sommaire des certificats de TTI traités par MSJ, affichant un prix d’achat de 450 $ pour la plupart des certificats. Le document indique également que TTI a réduit le prix des certificats à 325 $ avant de s’effondrer, et donc que certains certificats ont été achetés à TTI au prix de 325 $. L’appelant a témoigné que MSJ avait remis deux certificats, à titre d’outils de formation, à deux employés (Ginette Aubie et Trevis Branch) embauchés pour travailler au projet TTI. MSJ a également donné un certificat TTI à Claude David, frère de l’appelant, qui fournissait régulièrement du financement à MSJ et à l’appelant. Un certificat a été donné à l’appelant par le bureau Fleet Port de Moncton de TTI, dans le but de l’inciter à s’engager dans cette franchise. Deux certificats ont été donnés à Doug et David Sheppard (les fils de l’appelant), qui travaillaient pour MSJ. Un certificat a été donné à Iris Sheppard, conjointe de l’appelant, et des certificats ont été donnés à Gino Degrace, à Dickie Lavigne et à Jean-Marc Lavigne, les trois contremaîtres de MSJ. Un certificat invendu a également été donné à la firme comptable de MSJ. Aucun de ces récipiendaires n’a été facturé pour ces certificats. Par ailleurs, quatre certificats ont été vendus à différentes personnes pour la somme de 1 200 $ chacun, mais celui vendu à Denis Roy a fait l’objet d’un remboursement complet, alors que pour celui vendu à Gilles Caron, MSJ n’a reçu que la commission de 875 $ sur la vente. Au total, MSJ a versé 5 675 $ à TTI pour la vente de ces certificats et tiré des recettes nettes de 3 275 $ de leur vente[19]. M. David a également témoigné qu’il lui restait un certain nombre de certificats TTI inutilisés, mais que puisque TTI n’existait plus, il ne pouvait les vendre puisqu’ils étaient sans valeur et qu’il avait le sentiment qu’il serait illégal de le faire.
+(vii) Une brochure « Captain for Life », qui indique qu’un Capitaine peut se fournir un certificat sans frais afin de s’assurer de se trouver sur chacun des tableaux de jeu lorsqu’il y a un fractionnement.
+(viii) Une copie du certificat non vendu détenu par le comptable de MSJ.
+(ix) Des déclarations signées par Claude David, Iris Sheppard, Doug Sheppard, David Sheppard, Dickie Lavigne, Gino Degrace et Jean-Marc Lavigne, confirmant qu’ils n’ont pas payé leurs certificats TTI, que le paiement des certificats a été fait par MSJ à TTI, et que les certificats n’avaient aucune valeur.
+(x) Des déclarations non signées de Ginette Aubie et Trevis Branch, auxquelles je n’ai accordé aucune valeur.
+[13] Les déclarations signées présentent toutes une forme similaire et semblent avoir été préparées par l’appelant ou par MSJ. Je constate que le montant de 325 $ mentionné dans toutes les déclarations sauf une comme étant le montant payé pour chacun de ces certificats diffère du montant de 450 $ indiqué dans le sommaire des certificats TTI traités par MSJ. Je constate également que les états financiers de MSJ et les extraits de la balance de vérification et du grand livre général déposés en preuve ne montrent pas directement les revenus de TTI de 3 275 $ censément gagnés par MSJ. L’appelant a témoigné que ces ventes ont toutes été faites en espèces, que le produit de ces ventes aurait été utilisé pour payer des montants dus à TTIC ou d’autres à l’égard des achats et des ventes de certificats, et qu’il n’y avait par conséquent aucun produit net à déposer dans les comptes de MSJ.
+[14] M. David a fait valoir que MSJ était en situation déficitaire grave en 2004, comme le montre l’état des résultats de la société, et qu’il avait donc un incitatif pour effectuer les opérations de TTI dans MSJ, puisqu’il espérait que ces activités génèrent des bénéfices et permettent donc d’améliorer la rentabilité de MSJ. Ceci était important, puisqu’il rencontrait des difficultés avec son institution financière concernant le financement de la société, et qu’une amélioration de la rentabilité aurait pu aider à sauver son entreprise. Il a également fait valoir que du point de vue fiscal, MSJ n’avait aucune raison de ne pas déclarer les bénéfices, le cas échéant, des activités de TTI, puisque les pertes préexistantes de MSJ auraient contrebalancé de telles recettes.
+[15] Le ministre s’est appuyé de façon substantielle sur l’information obtenue du directeur financier de TTI dans la préparation de la nouvelle cotisation de l’appelant. Le directeur financier avait pris ces dossiers chez TTIC peu de temps avant que l’entreprise ne mette fin à ses activités, en janvier 2006 environ. L’appelant a cependant fait valoir que TTIC était une organisation corrompue exploitant un système de vente pyramidale illégal et qu’on ne devrait donc pas se fier à ses dossiers. À l’appui de sa position, l’appelant a déposé des éléments de preuve relatifs à TTIC, Alan Kippax et BIM, un système de ventes pyramidales similaire aussi exploité par Alan Kippax à peu près en même temps que TTI[20]. Cette preuve contenait une copie de l’énoncé de position de l’ARC sur les revenus reliés à TTI, que l’appelant a obtenue en juillet 2014[21]. Ce document indique que l’ARC [traduction] « ... a décidé d’entreprendre une vérification de cette organisation en février 2006 en raison de l’existence de plusieurs facteurs de risque, incluant le non-respect des obligations relatives au dépôt des déclarations de TPS et d’impôt (T2) ». L’appelant fait donc valoir que les dossiers de TTIC, obtenus d’un tiers après que TTIC eut cessé ses activités, ne devraient pas être considérés fiables et note en fait que l’ARC elle-même souligne les nombreux facteurs de risque associés à TTIC.
+[16] Dans mon examen de la preuve présentée par les deux parties, je note que l’intimée s’appuie sur les mentions de « John David » dans les feuilles de calcul obtenues du directeur financier et traitant des ventes de certificats et de la franchise Fleet Port de Moncton. Comme ni les originaux ni des copies de ces documents n’ont été déposés en preuve devant la Cour, et que le directeur financier n’a pas témoigné, l’appelant n’a pas eu l’occasion d’examiner ces documents ou d’en contester directement l’exactitude. L’appelant fait valoir que les dossiers commerciaux de TTIC, obtenus d’un tiers, ne devraient pas être considérés fiables compte tenu de la nature des activités présumément illégales de TTIC et des allégations et accusations graves portées contre TTIC et Alan Kippax, tel qu’énoncées dans la preuve qu’il a soumise. Je note que l’ARC, dans son énoncé de position, reconnaît les facteurs de risque importants associés à TTI. Je note également que la preuve présentée par l’appelant appuie sa position à l’effet que les activités de TTI étaient assurées par MSJ. Par exemple, la lettre envoyée à TTI le 12 décembre 2004 demandant que TTI corrige ses dossiers afin d’indiquer correctement MSJ sur les certificats corrobore son témoignage et indique que les dossiers de TTI étaient erronés lorsqu’ils indiquaient que les ventes étaient faites par « John David ». De plus, le reçu émis par TTI à MSJ le 18 novembre 2004 pour les droits de franchise de 7 000 $ corrobore le témoignage de l’appelant et contredit clairement la preuve de l’intimée sur cette question. Je note également que le témoignage de l’appelant, les dossiers comptables de MSJ et les autres documents financiers présentés par l’appelant établissent clairement l’intention de l’appelant de confier les activités de TTI à MSJ, et qu’elles ont véritablement été exercées par MSJ.
+V. CONCLUSION [17] De façon générale, après avoir examiné l’ensemble de la preuve, je suis convaincu que l’appelant a clairement établi :
+(a) qu’il a assuré les activités de TTI par l’entremise de MSJ et qu’il n’a pas gagné de revenu de commission de TTI personnellement en 2004, et qu’il n’était donc pas tenu de déclarer personnellement un revenu ou une perte sur les activités de TTI dans son année d’imposition 2004;
+(b) que MSJ a généré des revenus de TTI de 3 275 $ et engagé des dépenses dépassant ce montant de façon substantielle à l’égard de ses activités de TTI[22].
+(c) MSJ a inclus les activités liées à TTI dans son exercice financier terminé le 30 avril 2005.
+[18] Comme j’ai déterminé que l’appelant n’avait pas personnellement tiré des revenus de commission de TTI en 2004 et qu’il n’a donc pas fait défaut de déclarer un tel revenu de commission, les autres questions soulevées dans cet appel sont caduques.
+[19] À la lumière de ce qui précède, l’appel est accueilli intégralement, sans dépens.
+Signé à Ottawa, Canada, ce 5e jour d’avril 2016.
+« Henry A. Visser »
+Le juge Visser
+ANNEXE « A »
+[traduction] Extrait de la réponse de l’intimée
+7. Pour déterminer l’obligation fiscale de l’appelant pour l’année d’imposition 2004, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+Treasure Traders International Corporation (« TTI »)
+a) TTI exploitait un programme de commercialisation à paliers multiples (système de ventes pyramidales) et son but principal était la vente et la commercialisation de pierres précieuses;
+b) pour devenir distributeur indépendant (« Distributeur ») de TTI, il fallait signer une convention de distributeur;
+c) les participants pouvaient gagner un revenu de TTI des différentes façons suivantes :
+i) par l’achat et la vente de pierres précieuses à titre de distributeur;
+ii) en devenant un « Capitaine » et en recevant des Honoraires de capitaine ou des bonis gagnés en vendant ce qui était appelé un ensemble Gem Value Pack (« GVP ») et en étant inscrit à un tableau de jeu TTI Adventure (c’est-à-dire la pyramide). Le distributeur progressait sur le tableau de jeu/la pyramide et devenait capitaine à son tour en atteignant le sommet, ce qui permettait au distributeur de recevoir le boni;
+iii) en devenant un « Amiral » en étant capitaine sur plusieurs tableaux de jeu à la fois.
+d) Chaque distributeur recevait un numéro d’identification utilisé pour le suivi de ses transactions avec TTI;
+e) pour être admissible à devenir capitaine, le distributeur devait être personnellement responsable de la signature d’au moins deux nouveaux distributeurs ayant chacun vendu un GVP;
+f) les GVP sont des certificats de reçu de dépôt de bons de commande (« Certificats PODR ») représentant un dépôt sur l’achat potentiel de pierres précieuses de TTI. Ils peuvent aussi être utilisés pour acquérir des « gem cash »;
+g) les « gem cash » étaient des pierres précieuses montées dans un bloc stratifié, dont il était indiqué qu’elles avaient une valeur de 5 000 $;
+h) pendant la période en question, les GVP étaient vendus au prix de 1 200 $;
+i) TTI traitait les achats de GVP par les distributeurs comme des achats au détail;
+j) le capitaine de chaque tableau de jeu avait la responsabilité de collecter les revenus des ventes de GVP aux distributeurs de son tableau, pour un total de 9 600 $;
+k) une fois le tableau rempli, le capitaine devait envoyer à TTI sa part des revenus, un montant de 2 600 $, le solde de 7 000 $ constituant la commission ou la prime du Capitaine.
+RÉFÉRENCE :
+2016 CCI 79
+No DU DOSSIER DE LA COUR :
+2014-3376(IT)I
+INTITULÉ :
+JOHN DAVID c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Miramichi (Nouveau-Brunswick)
+DATE DE L’AUDIENCE :
+Le 6 octobre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Henry A. Visser
+DATE DU JUGEMENT :
+Le 5 avril 2016
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Martin Hickey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir la pièce A-2, onglet 18. L’Avis de nouvelle cotisation émis par le ministre le 23 mars 2009, en vertu de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) augmentait le revenu imposable de l’appelant pour l’année d’imposition 2004 de 21 000 $ et imposait des pénalités pour faute lourde et des frais d’intérêt.
+[2] M. David a témoigné que TTI avait commencé à se désagréger à la fin de 2004, peu de temps après qu’il ait commencé à s’y intéresser.
+[3] Le siège social de TTIC était appelé « Emerald City ».
+[4] Voir la pièce R-2, onglet 1.
+[5] « Gem-Cache » était aussi appelé « Gem-Cash » dans la documentation du programme TTI déposée en preuve.
+[6] Comme on le verra plus loin, l’appelant a témoigné que TTIC avait modifié ses politiques de vente et donc que le programme TTI ne fonctionnait pas toujours de cette façon. En pratique, plusieurs GVP étaient vendus au rabais ou donnés gratuitement par les Capitaines dans un effet de progresser plus rapidement dans le programme TTI.
+[7] Dans l’exposé de position de l’ARC sur le programme TTI, déposé comme pièce R-1, le seuil de nouvelle cotisation de l’ARC était fixé à 21 000 $, ce qui représentait le revenu de commission potentiel pour un distributeur agissant comme Capitaine sur trois tableaux de jeu (3 x 7 000 $ par tableau de jeu). Dans son témoignage, M. Glatt a indiqué que le seuil de nouvelle cotisation était de 20 000 $. Cet écart n’était pas déterminant pour l’issue de l’affaire.
+[8] Voir la pièce R-3, onglet 2, lettre de proposition de 30 jours datée du 21 janvier 2009, envoyée par John Glatt à l’appelant. L’appelant a témoigné qu’il n’avait pas reçu cette lettre et qu’en lien avec son objection, il avait fourni à l’ARC des documents par l’entremise de la réponse de son comptable, le 7 juin 2010 (pièce A-1). Voir également la deuxième réponse du comptable datée du 22 juillet 2014 (pièce A-2, onglet 23).
+[9] M. Glatt a témoigné que les feuilles de calcul obtenues du directeur financier n’étaient probablement pas les versions finales des feuilles de calcul préparées par TTI.
+[10] Voir la pièce R-3, onglet 1.
+[11] Idem
+[12] Voir la pièce R-4, onglet 5. M. Glatt a témoigné que le sommaire était un extrait d’un fichier Excel tenu par le siège social de TTI responsable de la comptabilité des différents bureaux Fleet Port.
+[13] Voir la pièce R-4. Bien que l’intimée ait déposé en preuve des modèles de différents documents de franchise Port Fleet, comme un Accord de licence Port Fleet et une Convention de société en commandite, l’intimée n’a déposé aucun accord rempli ayant trait à l’investissement de l’appelant dans la franchise Fleet Port de Moncton. Une sortie imprimée d’Industrie Canada pour 6255779 Canada Inc., censé être le commandité dans la société en commandite créée pour assurer l’exploitation de la franchise Fleet Port de Moncton, ne mentionne pas que l’appelant est l’un de ses administrateurs. Comme il est indiqué plus loin, voir la pièce A-1, qui comprend un reçu de TTI pour les frais de franchise Fleet Port de 7 000 $ remis à MSJ, un fait qui entre en contradiction directe avec la position de l’intimée et la preuve sur cette question.
+[14] Pièce A-1.
+[15] Pièce A-2, onglet 27.
+[16] Pièce R-3, onglet 2.
+[17] Pièce R-3, onglet 3, et pièce A-2, onglet 18.
+[18] Pièce A-1.
+[19] Bien que le sommaire des ventes de certificats de MSJ inclus à la pièce A-1 indique que quatre certificats ont été vendus pour une somme totale de 4 800 $, l’appelant a témoigné que le certificat vendu à Gilles Caron n’avait pas été vendu par MSJ mais avait été inclus dans les ventes de la société afin de cacher l’identité du véritable vendeur, et donc que MSJ n’a reçu que la portion représentant la commission sur la vente de 1 200 $, présumément 875 $ (1 200 $ - 325 $). De plus, une somme de 1 200 $ a été remboursée à Denis Roy. Les revenus nets de MSJ étaient donc probablement de 3 275 $.
+[20] Pièce A-2, onglets 2-14. Les articles et les cas soumis soulèvent de sérieuses allégations contre les trois, y compris des accusations criminelles et des accusations d’évasion fiscale criminelle. Ils font également mention de poursuites en recours collectif. Après une ou plusieurs périodes d’incarcération, il semble qu’Alan Kippax ait été déporté du Canada en février 2015 environ (pièce A-2, onglet 14).
+[21] Pièce A-2, onglet 13.
+[22] Voir la pièce A-1. Le comptable de MSJ a indiqué que les dépenses de MSJ à l’égard des activités de TTI ayant échoué ont totalisé 16 333,57 $ (incluant le paiement lié à la franchise de Moncton). L’appelant a indiqué dans son témoignage que les dépenses de MSJ liées à TTI étaient plus élevées, mais qu’il avait cessé de les inscrire parce qu’elles exacerbaient les pertes financières de MSJ et menaçaient donc le financement bancaire de la société.

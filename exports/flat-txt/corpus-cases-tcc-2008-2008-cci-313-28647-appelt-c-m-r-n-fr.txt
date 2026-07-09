@@ -1,0 +1,93 @@
+Title: Appelt c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28647/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-313-28647-appelt-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-05-22
+
+# Appelt c. M.R.N.
+
+- Citation: 2008 CCI 313
+- Decision date: 2008-05-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1111, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Appelt c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-22
+Référence neutre
+2008 CCI 313
+Numéro de dossier
+2007-3539(EI)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Référence : 2008CCI313
+Date : 20080522
+Dossiers : 2007-3539(EI)
+2007-3540(CPP)
+ENTRE :
+CHRISTOPH APPELT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience à Vancouver (Colombie‑Britannique),
+le 8 mai 2008.)
+Le juge Boyle
+[1] La seule question en litige dans l’appel relatif à l’assurance‑emploi et dans l’appel relatif au Régime de pensions du Canada est la question de savoir si M. Appelt était un employé de Fred’s Painting durant la période en cause. L’une des hypothèses de la Couronne veut que M. Appelt n’ait pas du tout travaillé pour Fred’s Painting. Malgré la faiblesse des preuves présentées, sujet auquel je reviendrai plus loin, ces preuves m’ont convaincu que M. Appelt a peut‑être travaillé pour Fred’s Painting durant la période en cause.
+[2] Cependant, les preuves présentées m’ont convaincu qu’il n’existait pas de relation d’emploi entre M. Appelt et M. Polidano, le propriétaire de Fred’s Painting. M. Polidano, qui a été appelé à témoigner par l’appelant, a affirmé avoir engagé M. Appelt en vertu d’une entente verbale, selon laquelle ce dernier devait faire du travail de sous‑traitance en échange d’un salaire horaire qui lui serait payé comptant et sur lequel aucune retenue ne serait faite. Lorsque M. Fawaz, le comptable de M. Appelt, a dit à M. Polidano que M. Appelt devrait être un employé aux fins de l’assurance-emploi, M. Polidano a seulement fourni un chiffre au comptable, ce chiffre devant représenter des retenues d’assurance‑emploi. Cela n’a été fait qu’à la fin de la période d’emploi. M. Polidano a dit qu’il ne comprenait pas bien ces questions et qu’il s’était contenté de faire ce qu’on lui avait demandé.
+[3] Les deux autres témoins de l’appelant, M. Juric et M. Rossitto, n’ont fourni aucune information pertinente quant à la relation d’emploi. Ils ont seulement dit que M. Appelt travaillait pour M. Polidano, ou avec M. Polidano.
+[4] Quoique M. Appelt et M. Fawaz aient tous deux affirmé être convaincus qu’il existait une relation d’emploi, aucune preuve corroborante n’a été présentée. Les feuillets T4, les déclarations de revenus, les chèques de versement, les chèques de paie et les relevés bancaires qui ont prétendument été déposés en preuve n’ont en fait jamais été présentés par les témoins. Je conclus qu’aucun feuillet T4 n’a été rempli, qu’aucun versement de retenues n’a été fait et qu’aucune autre déclaration fiscale n’a été produite. Ces sommes n’ont jamais été incluses dans le calcul des revenus de M. Appelt dans les déclarations de revenus préparées par M. Fawaz et par son cabinet. M. Appelt avait demandé des remboursements d’impôt dans ses déclarations de revenus.
+[5] De toute manière, même si les témoignages de M. Appelt et de M. Fawaz avaient été crédibles, M. Appelt a dit qu’il ne se souvenait pas du salaire qu’il recevait; il n’a même pas su fournir un taux horaire approximatif.
+[6] Pour ce qui est de la crédibilité des témoins de l’appelant, aucun d’entre eux ne m’a semblé avoir répondu franchement aux questions leur ayant été posées. Ils m’ont tous donné l’impression d’être prêts à m’induire en erreur dans la mesure où ils pouvaient s’en tirer. Dans le cas particulier de M. Fawaz, qui a dit avoir rempli le feuillet T4, qui a préparé les déclarations de revenus de M. Appelt et qui a représenté ce dernier lors du procès, je suis d’avis que l’ensemble de son témoignage n’est pas assez véridique pour que l’on puisse y prêter foi. Il est évident que M. Fawaz et son cabinet ont échafaudé le stratagème avec l’aide de M. Appelt et pour permettre à celui‑ci de demander des prestations d’assurance‑emploi auxquelles il n’avait manifestement aucunement droit. Le stratagème était bien mal ficelé, car M. Fawaz n’avait même pas indiqué les sommes inscrites sur le feuillet T4 dans les déclarations de revenus de M. Appelt qu’il avait remplies.
+[7] Les explications de M. Fawaz quant à la saisie de ses documents comptables par le propriétaire des locaux de son cabinet en 2002 ne justifient pas l’absence de copies des déclarations de revenus de M. Appelt qui n’avaient pas été produites avant 2004, ni l’absence de documents provenant de banques ou d’autres tiers.
+[8] Je comprends que l’anglais n’est pas la langue maternelle de M. Appelt, et que l’idée de comparaître à un procès le rende mal à l’aise, mais j’ai néanmoins trouvé qu’il a répondu aux questions de façon évasive, trompeuse et ergoteuse. Le témoignage de M. Appelt était différent, sur plusieurs points importants, des réponses qu’il avait indiquées sur le questionnaire du travailleur provenant de l’ARC; il en était de même avec M. Polidano, dont le témoignage divergeait de manière semblable d’avec les réponses qu’il avait indiquées sur le questionnaire du payeur. Lors de son contre‑interrogatoire, M. Appelt a souvent dit ne se souvenir d’aucun détail.
+[9] L’assurance‑emploi, le Régime de pensions du Canada et les autres programmes sociaux représentent des avantages sociaux importants et estimés dans la société canadienne. Ces programmes sont coûteux et doivent être financés. Il faut aussi mériter d’en bénéficier. Dans le cas de l’assurance‑emploi et du Régime de pensions du Canada, les prestations sont méritées grâce à un emploi ou à du travail indépendant, et, dans une conception économique plus large, grâce aux Canadiens qui paient leurs cotisations et leurs impôts. Si de tels avantages avaient été mérités par M. Appelt, ils n’avaient certainement pas fait l’objet du financement connexe nécessaire. Cependant, je conclus que M. Appelt n’avait aucunement mérité ces avantages.
+[10] Le présent appel représente un gaspillage honteux des ressources de la Cour. M. Appelt n’a jamais eu de motif raisonnable de demander des prestations d’assurance‑emploi. Je le répète, il ne s’agit que d’un stratagème échafaudé par M. Appelt, M. Fawaz et le cabinet de ce dernier.
+[11] Les deux appels sont rejetés.
+Signé à Ottawa, Canada, ce 22e jour de mai 2008.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 16e jour de juillet 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008CCI313
+Nº DU DOSSIER DE LA COUR :
+2007-3539(EI), 2007-3540(CPP)
+INTITULÉ :
+Christoph Appelt et
+le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 8 mai 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 22 mai 2008
+COMPARUTIONS :
+Représentant de l’appelant :
+Sam Fawaz
+Avocate de l’intimé :
+Me Selena Sit
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

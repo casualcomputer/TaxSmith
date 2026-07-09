@@ -1,0 +1,241 @@
+---
+title: "Aessie v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26423/index.do"
+last_modified: "2004-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 421"
+citation2: ""
+neutral_citation: "2004 TCC 421"
+decision_date: "2004-06-14"
+language: "en"
+item_id: "26423"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3174
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:20:25.779000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1745f2196e8850c9d20d2fb37ff644b678103b6251a39309ee3acda63c26065b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aessie v. The Queen
+
+- Citation: 2004 TCC 421
+- Decision date: 2004-06-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3174, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aessie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-14
+Neutral citation
+2004 TCC 421
+File numbers
+2003-4482(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4482(IT)I
+BETWEEN:
+ALBERT J. AESSIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 4, 2004 at Saskatoon, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne Jinnouchi
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999 and 2000 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+The Appellant is awarded the sum of $100 on account of his out-of-pocket disbursements incurred in prosecuting the appeal.
+Signed at Calgary, Alberta, this 14th day of June 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC421
+Date: 20040614
+Docket: 2003-4482(IT)I
+BETWEEN:
+ALBERT J. AESSIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Saskatoon, Saskatchewan, on June 4, 2004. The Appellant was the only witness.
+[2] Paragraphs 1 to 11 and the introduction outline the matter in dispute. They read:
+In reply to the Notice of Appeal for the 1999 and 2000 Taxation Years, the Deputy Attorney General of Canada says:
+A. STATEMENT OF FACTS
+1. In respect of the Notice of Appeal, he admits:
+(a) that the Appellant is a self employed chartered accountant providing public accounting services;
+(b) that the Appellant provides his services from his residence;
+(c) that the Appellant's spouse provides assistance in the Appellant's account business and states that her assistance is in the form of administrative duties;
+(d) that the Appellant deducted fees in respect of services provided by his spouse in the amount of $34,500 and $38,000 for the 1999 and 2000 Taxation Years, respectively;
+(e) that the Appellant claimed expenses related to the business use of his residence in the amount of $7,651.83 and 8,224.36 for the 1999 and 2000 Taxation Years, respectively; and
+(f) that the Canada Customs and Revenue Agency (the "CCRA") disallowed the Appellant's claim for business use of residence expenses of $5,654 in 1999 and $6,057 in 2000 relying on paragraph 18(1)(a) of the Income Tax Act (the "Act").
+2. In respect of the Notice of Appeal, he denies:
+(a) that the Appellant provides services on a regular and continuous full-time basis; and
+(b) that CCRA disallowed all management fees paid in excess of $8,850 in each of the 1999 and 2000 Taxation Years.
+3. The remainder of the Notice of Appeal contains reasons and arguments for the appeal and does not contain any other relevant fact to admit or deny. Insofar as there may be relevant facts, the same are denied.
+4. The income tax returns for the 1999 and 2000 Taxation Years were initially assessed on June 8, 2000 and June 25, 2001, respectively.
+5. In computing income for the 1999 and 2000 Taxation Years, the Appellant claimed business expenses of $54,629 and 58,047 respectively, which included the following:
+1999
+2000
+Management and Administration Fees
+$34,500
+$38,000
+Home Office Expenses
+$ 7,651
+$ 8,224
+6. By means of Notices of Reassessment dated August 9, 2002, the Minister of National Revenue (the "Minister") disallowed business expenses of $35,706 and $38,567 respectively in the 1999 and 2000 Taxation Years. Included in the business expenses disallowed were Management and Administration Fees and Home Office Business Expenses, as detailed in Schedule A, attached to and forming part of the Reply to the Notice of Appeal, (hereinafter "Schedule A") as follows:
+1999
+2000
+Management and Administration Fees
+$25,650
+$29,150
+Home Office Expenses
+$ 5,654
+$ 6,057
+The Minister considered that the disallowed management and administration fees were not reasonable in the circumstances within the meaning of section 67 of the Income Tax Act (the "Act") and home office expenses were not made or incurred for the purpose of gaining or producing income from a business or property within the meaning of paragraph 18(1)(a) of the Act but were personal or living expenses of the Appellant pursuant to paragraph 18(1)(h) of the Act.
+7. The Appellant filed a Notice of Objection to the reassessments, received October 1, 2002.
+8. The Minister confirmed the reassessments by means of a Notification of Confirmation dated September 17, 2003.
+9. In reassessing the Appellant for the 1999 and 2000 Taxation Years and in confirming those reassessments, the Minister assumed the same facts as follows:
+(a) the Appellant is a chartered accountant operating an accounting practice (the "Accounting Business");
+(b) the Accounting Business was operated as a sole proprietorship;
+(c) the Accounting Business prepared year end tax returns for 20 - 30 business clients and the remaining clients were individuals;
+Office in Home
+(d) the Appellant claimed home office expenses from the Accounting Business in the 1999 and 2000 Taxation Years as follows:
+1999
+2000
+Home Office Expenses (Schedule A)
+$ 7,651
+$ 8,224
+(e) the Accounting Business operated from the Appellant's principal residence located at 133 Columbia Drive in Saskatoon, Saskatchewan:
+(f) a farm partnership and at least one corporation also operated out of the Appellant's residence;
+(g) the Appellant occasionally used his living room to entertain clients;
+(h) some of the Appellant's clients are also his personal friends;
+(i) the majority of the Appellant's entertaining was done in restaurants;
+(j) no more than 50% of the Appellant's home telephone expenses were incurred by the Appellant for the purpose of gaining or producing income from the Accounting Business in the 1999 and 2000 Taxation Years;
+(k) cable expenses and expenses relating to the Appellant's cabin at McPhee Lake are personal or living expenses of the Appellant;
+(l) no more than $1,997 and $2,167 of home office expenses were incurred by the Appellant for the purpose of gaining or producing income from the Accounting Business in the 1999 and 2000 Taxation Years respectively, as detailed in Schedule A; and
+(m) not more than 17% of the square footage of the Appellant's residence is related to the operation of the Accounting Business, as detailed in Schedule B, attached to and forming part of the Reply to the Notice of Appeal (hereinafter "Schedule B");
+Management and Administration Fees
+(n) the Appellant reported gross income from the Accounting Business as follows:
+1999
+2000
+Gross Revenue
+$55,320
+$57,825
+(o) the Appellant claimed management and administration fees from the Accounting Business in the 1999 and 2000 Taxation Years as follows:
+1999
+2000
+Management and Administration Fees
+$34,500
+$38,000
+(p) the Appellant paid management and administration fees to Mayday Management Incorporated (hereinafter "Mayday");
+(q) the Appellant's wife, Wendy, and her sister are equal shareholders of Mayday;
+(r) Wendy provided the administrative services on behalf of Mayday;
+(s) the management and administration fees paid to Mayday by the Appellant were based on available cash flow and tax planning of the Appellant;
+(t) administrative services provided by Wendy in respect of the Accounting Business were as follows:
+Reception - answering telephone, greeting clients;
+Typing;
+Tax return assembly, proofing, mailing;
+Records - photocopying, filing, faxing, organizing;
+Mail - income and outgoing;
+Cash receipts including bank deposits;
+Supplies - purchase and stocking of office supplies;
+Public relations;
+Consultation; and
+Other administrative activities.
+(u) administration services were not required by the Accounting Business on a full-time basis;
+(v) bank deposits for the Accounting Business were made only twice a week;
+(w) telephone answering services were provided by the Appellant, Wendy or the answering machine;
+(x) Wendy has no formal accounting education;
+(y) Mayday does not provide accounting services;
+(z) the amounts reported by the Appellant for providing accounting services in respect of the Accounting Business are as follows:
+1999
+2000
+Gross Profit
+($ 1,522)
+$677
+(aa) not more than $8,850 of management and administration fees in the 1999 and 2000 Taxation Years were reasonable in the circumstances.
+B. ISSUES TO BE DECIDED
+10. The issues are:
+(a) whether the Home Office Expenses in excess of the amount allowed by the Minister were incurred by the Appellant for the purpose of gaining or producing income from a business or property; and
+(b) whether Management and Administration Expenses in excess of the amounts allowed by the Minister were reasonable in the circumstances.
+C. STATUTORY PROVISIONS RELIED ON AND RELEIF SOUGHT
+11. He relies on sections 3, 9 and 67, subsections 18(12) and 248(1) and paragraphs 18(1)(a) and 18(1)(h) of the Act as amended for the 1999 and 2000 Taxation Years.
+[3] Of the assumptions in paragraph 9 (a), (b), (d), (e), (g), (h), (i), (j), (k), (m), (n), (o), (p), (q), (r), (t), (v), (w), (x), (y) and (z) were not refuted. As to the rest,
+(c)
+The Appellant advised and prepared income tax returns for 32 business clients and 284 and 285 individuals in each of 1999 and 2000, respectively. He also managed his farm and a separate property and business for a separate corporation "Loumar" in those years.
+(f), (l) and (m) Two separate corporations, the Appellant's (and his wife's) farm, his chartered accounting business and his residence were situated at 133 Columbia Drive. The Appellant detailed his accounting use of the premises, but he did not detail the other uses of the premises. On an average basis, at best, the accounting business used the premises for only 1/5 of its usage. Without clear substantiated evidence as to the other four usages of 133 Columbia Drive, the evidence before the Court does not refute assumptions (l) and (m). For this reason, the assessment of home office expenses is accepted as valid and this portion of the appeal is dismissed.
+(s) The Appellant testified that part of the management and administration was based on tax planning. There is no evidence relating to the "cash flow" concept.
+(u) The accounting business was not full-time. Mayday did not operate a computer; rather Wendy, as an employee of Mayday, typed the tax returns and financial statements on an IBM electric typewriter.
+(aa) Constitutes the remaining subject of the dispute.
+[4] Mayday's directors are unknown, but its sole shareholders are the Appellant's wife and her sister. Thus, the Appellant and Mayday are related within the meaning of paragraph 251(2)(b). They are deemed not to deal with each other at arm's length by paragraph 251(1)(a). Wendy is the only person on behalf of Mayday who does anything for the Appellant's accounting practice.
+[5] Having stated that, the amount paid to Mayday in each for these services is, more or less, $3,000 per month for services that are there for the Appellant's clients, whether he is there or not. There are no other payments required of the Appellant, such as employer's Canada Pension Plan, Employment Insurance, or Worker's Compensation levies. Nor does he have to pay for statutory sick leave or holidays. All of these are substantial financial burdens to a businessman and the Appellant has economized on them by his contract with Mayday.
+[6] Moreover, someone has to be there for clients when the Appellant is attending to his other business.
+[7] Finally, it should be pointed out that many professionals and businessmen make less money from their businesses than their secretaries do. Often that occurs occasionally. Sometimes it occurs frequently.
+[8] The deal with Mayday is a common and reasonable business deal that is not unusual or untoward in the business world. It is not appropriate for the Court to interfere in such a transaction. Therefore the appeal respecting this matter is allowed.
+[9] This matter is referred to the Minister of National Revenue for reconsideration and reassessment in accordance with these Reasons. The Appellant is awarded the sum of $100 on account of his out-of-pocket disbursements incurred in prosecuting the appeal.
+Signed at Calgary, Alberta, this 14th day of June 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC421
+COURT FILE NO.:
+2003-4482(IT)I
+STYLE OF CAUSE:
+Albert J. Aessie v. The Queen
+PLACE OF HEARING:
+Saskatoon, Saskatchewan
+DATE OF HEARING:
+June 4, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT:
+June 14, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Anne Jinnouchi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

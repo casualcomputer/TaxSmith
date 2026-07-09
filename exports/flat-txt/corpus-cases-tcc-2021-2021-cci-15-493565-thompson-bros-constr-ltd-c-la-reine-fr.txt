@@ -1,0 +1,216 @@
+Title: Thompson Bros. (Constr.) Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/493565/index.do
+Corpus path: corpus/cases/tcc/2021/2021-cci-15-493565-thompson-bros-constr-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2021-02-26
+
+# Thompson Bros. (Constr.) Ltd. c. La Reine
+
+- Citation: 2021 CCI 15
+- Decision date: 2021-02-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4612, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Thompson Bros. (Constr.) Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-02-26
+Référence neutre
+2021 CCI 15
+Numéro de dossier
+2014-2393(IT)G, 2014-2395(IT)G, 2014-2398(IT)G, 2014-2399(IT)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Notes
+Contenu de la décision
+Dossiers : 2014-2393(IT)G,
+2014-2395(IT)G
+ENTRE :
+THOMPSON BROS. (CONSTR.) LTD.,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+Dossiers : 2014-2398(IT)G,
+2014-2399(IT)G
+ET ENTRE :
+LARRY THOMPSON,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par conférence téléphonique visant à contraindre la défenderesse à répondre à certaines questions
+Le 10 septembre 2020, à Ottawa (Ontario)
+Devant : L’honorable juge B. Russell
+Participants :
+Avocats des demandeurs :
+Me Robert Neilson et Me Jeremy Comeau
+Avocats de la défenderesse :
+Me Ron Wilhem, Me Shannon Fenrich,
+Me Eric Brown et Me Jamie Hansen
+ORDONNANCE
+La défenderesse doit répondre aux questions 1 à 7 et n’est pas tenue de répondre à la question 8 des motifs de l’ordonnance. Les dépens seront adjugés en faveur des demandeurs et sont fixés à 1 000 $, payables dans des délais raisonnables.
+Signé à Halifax, Nouvelle-Écosse, ce 26e jour de février 2021.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 17e jour de mai 2021.
+François Brunet, réviseur
+Référence : 2021 CCI 15
+Date : 20210226
+Dossiers : 2014-2393(IT)G,
+2014-2395(IT)G
+ENTRE :
+THOMPSON BROS. (CONSTR.) LTD.,
+demanderesse,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+Dossiers : 2014-2398(IT)G,
+2014-2399(IT)G
+ET ENTRE :
+LARRY THOMPSON,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Russell
+[1] Les demandeurs ont sollicité une ordonnance afin que la Couronne défenderesse réponde à certaines questions de l’interrogatoire préalable auxquelles elle a refusé de répondre. L’interrogatoire préalable de la défenderesse est une étape préliminaire dans le cadre des quatre présents appels que les demandeurs, à titre d’appelants, ont présentés concernant certaines nouvelles cotisations établies aux termes de la Loi de l’impôt sur le revenu.
+[2] Pour situer l'affaire dans son contexte, je remarque que, dans l’avis de requête des demandeurs, les nombreux faits suivants sont énoncés : Ils étaient associés d’une société en nom collectif connue sous le nom de LTI Partnership (LTI); une société en nom collectif connue sous le nom de CTR Partnership (CTR), établie par LTI et deux autres entités; pendant une période pertinente, CTR et LTI ont pris part à des contrats à terme en devises étrangères avec ODL Securities Ltd. (ODL), une société de courtage établie à Londres, au Royaume-Uni, au sein de laquelle Tim Hodgins était courtier.
+[3] L’un des motifs de l’établissement des nouvelles cotisations portées en appel est l’affirmation de la défenderesse selon laquelle les contrats à terme en devises étrangères conclus par CTR et LTI étaient des ententes fictives.
+[4] De concert avec la vérification ayant résulté en de nouvelles cotisations, portées en appel, l’Agence du revenu du Canada (ARC) se livrait à l’examen des activités d’ODL, y compris à des interrogatoires des représentants d’ODL, dans ses bureaux du Royaume-Uni.
+[5] Les principes régissant les questions posées au cours de l’interrogatoire préalable sont exposés dans l'abondante jurisprudence de notre Cour et d’autres juridictions. J’ai pris note de toute la jurisprudence citée par les parties. Selon le principe « général », les questions posées au cours de l’interrogatoire préalable doivent porter sur les questions soulevées dans les actes de procédure de l’une ou l’autre des parties. À l’étape de l’interrogatoire préalable, la pertinence [traduction] « devrait recevoir une interprétation large et libérale » et son seuil « est moins élevé [.. .] que celui qui s’applique au procès » (Ahamed c. Canada, 2020 CAF 213, par. 19).
+[6] Dans la décision Paletta c. La Reine, 2017 CCI 233, mon collègue, le juge D’Arcy, s’est prononcé sur une requête afin de contraindre à répondre à certaines questions, et les faits étaient étonnamment similaires à la présente affaire. Je reprends ici les paragraphes 11, 12 et 13 de la décision Paletta, en résumant les principes juridiques applicables :
+11. Le droit concernant les principes s’appliquant aux interrogatoires préalables est bien établi. Ma collègue la juge Campbell a fourni le résumé suivant des principaux principes relatifs aux interrogatoires préalables dans ses motifs, dans la décision Burlington Resources Finance Company c. La Reine [2015 CCI 71, au paragraphe 11] :
+[11] La jurisprudence est claire et abondante. L’essence des principes de l’interrogatoire préalable est que sa portée devrait être large, la pertinence interprétée de façon généreuse sans toutefois lui permettre de devenir une expédition de pêche. Ces principes de base sont essentiels parce que l’interrogatoire a pour objet de permettre aux parties de connaître les moyens qui leur seront opposés au procès, de connaître les moyens de fait que la partie adverse invoquera, de circonscrire les questions ou d’en éliminer, d’obtenir des aveux qui faciliteront l’administration des preuves relativement aux questions en litige et, finalement, d’éviter toute surprise au procès (General Electric Capital Canada Inc v The Queen, 2008 TCC 668, 2009 DTC 1186, au paragraphe 14). Tout cela vise à simplifier l’audition de l’appel et de veiller à ce que les parties se concentrent sur les questions pertinentes.
+12. Après avoir examiné la décision de la juge Campbell ainsi que les nombreuses autres décisions de la Cour et de la Cour d’appel fédérale, le juge en chef Rossiter, dans la décision Banque canadienne impériale de commerce c. La Reine 2015 CCI 280, au paragraphe 18, a donné le résumé suivant des points énoncés dans les nombreuses décisions :
+18. Il ressort de l’examen des principes de l’interrogatoire préalable exposés précédemment les points saillants suivants :
+– La pertinence est extrêmement large et doit être interprétée de façon libérale. Le seuil de la pertinence à l’étape de l’interrogatoire préalable, quoique peu élevé, ne permet pas une pure « recherche à l’aveuglette », les questions abusives, les stratégies de temporisation, ni les questions dénuées de toute pertinence;
+– Tout ce qui peut aider directement ou indirectement la partie interrogatrice à prouver ses moyens ou à réfuter ceux de son adversaire est pertinent. Si les questions se rattachent de façon générale aux points soulevés, elles doivent recevoir réponse;
+– Les actes de procédure définissent dans une certaine mesure les limites de l’interrogatoire préalable;
+– La partie qui interroge se livre à l’interrogatoire dans le but de prouver ses propres moyens, d’obtenir des aveux, d’attaquer les moyens de la partie adverse, de limiter la portée des questions en litige et de découvrir les moyens qu’elle doit réfuter lors du procès et les faits sur lesquels la partie adverse se fonde.
+13. Un principe qui a été énoncé par la Cour à de nombreuses occasions est qu’il faut toujours se rappeler qu’un juge saisi d’une requête est dans une position très différente de celle du juge du procès qui entend toute l’affaire et qui est mieux placé pour décider si un élément est pertinent ou non.
+[7] La question 1 à laquelle la défenderesse a refusé de répondre, qui a été posée comme question de suivi est la suivante :
+[traduction] Les fonctionnaires de l’Administration centrale de l’ARC ou le bureau du commissaire ont-ils conservé un ou plusieurs dossiers concernant les vérifications de ces contrats [à terme en devises étrangères]? Si les fonctionnaires de l’Administration centrale de l’ARC ou le bureau du commissaire ont conservé un ou plusieurs dossiers concernant la série de vérifications des contrats [à terme en devises étrangères] mettant en cause [ODL], Tim Hodgins ou John Hodgins, dont la vérification des appelants n’en était qu’un des éléments, veuillez produire tous les dossiers.
+[8] Le 31 janvier 2018, la défenderesse a répondu de la façon suivante :
+[traduction] Nous avons déjà répondu à cette question. Veuillez consulter notre réponse aux questions de suivi concernant l’engagement no18(2). Rien n’indique que les documents demandés ont été examinés par quiconque ayant pris part à la vérification des appelants. Nous n’avons rien à ajouter.
+Réponse à l’engagement no 18(2):
+[traduction] Il n’y a aucun dossier commun ni base de données commune sur ODL [.. .] Tim et John Hodgins ou sur la négociation [des contrats à terme en devises étrangères]. Il y a un « disque partagé » qui contient des documents (comme des exposés de position, des lettres de proposition) provenant des vérifications des contribuables impliqués dans des dossiers qui se chevauchent. Il n’y a cependant eu aucune compilation de renseignements provenant des diverses vérifications dans une base de données contenant des renseignements sur ODL [.. .] ou les Hodgins, par exemple. Dans la mesure où le vérificateur en cause a examiné ou invoqué des documents se trouvant dans le « disque partagé », on pourrait s’attendre à ce que des copies se retrouvent dans le dossier de vérification. Comme je l’ai mentionné, il semble qu’aucun document de cette nature ne se trouve dans le dossier de vérification en cause.
+[9] Les « arguments supplémentaires » de la défenderesse en date du 21 février 2020 sont les suivants :
+[traduction] Le vérificateur n’avait pas accès au disque partagé dont il est fait référence dans la réponse du 31 janvier 2018. Cette question vise à obtenir des renseignements autres que ceux sur lesquels s’est appuyé le vérificateur. Cette question n’est pas pertinente et constitue une question de suivi inappropriée. La demande de renseignements sur laquelle ne s’est pas fondé le vérificateur dépasse le cadre de la demande initiale, laquelle portait sur des documents sur lesquels s’est fondé le vérificateur. La demande de communication de tous les documents concernant ODL, John Hodgins ou Tim Hodgins a également une portée trop large et y répondre serait une tâche difficile.
+[10] Une abondante jurisprudence de notre Cour cite une jurisprudence relative à ce qui est juridiquement acceptable dans le cadre des questions d’interrogatoire préalable. Ce qui est très clair est que la pertinence à l’égard des questions en litige entre les parties est un critère essentiel. Ce critère est passablement plus large que le fait de simplement demander si le vérificateur de l’ARC a examiné un document donné. Sa Majesté la Reine (du chef du Canada) est la défenderesse; le vérificateur de l’ARC n’est pas le défendeur. Ce qui est pertinent est ce qui se trouve en la possession, sous l’autorité ou le contrôle de Sa Majesté – qui concerne les questions en litige – et non du vérificateur. De plus, à cette étape de la requête, bien avant l’étape de l’audition des présents appels, la pertinence doit recevoir une interprétation particulièrement large.
+[11] Pour déterminer si la question 1 est une question de suivi appropriée, je constate, dans la pièce « E » de l’affidavit de Doreen Prasad assermentée le 13 janvier 2020, que l’engagement no 12 qui a marqué le début de cette série d’engagements était l’engagement de la défenderesse [traduction] « de produire tout travail ou document de vérification antérieur sur lequel [le vérificateur] M. Lila s’est fondé pour déterminer que les transactions étaient un trompe‑l’œil ». Par la suite, la première question de suivi a été précédée par l’observation suivante : [traduction] « La réponse à l’engagement no 12 ne semble pas tenir compte pleinement de la question posée. En résumé, l’avocat a demandé des travaux ou des documents de vérification effectués ou recueillis à ce sujet ou d’autres dossiers mettant en cause ODL Securities Ltd. [.. .] dans la mesure où le vérificateur a examiné les mêmes travaux ou documents ou s’est fondé sur ces derniers dans le cadre de cette vérification ».
+[12] Cette description de l’engagement no 12 comme incluant des dossiers mettant en cause ODL, sans doute en raison de la référence au mot « trompe‑l’œil » dans l’engagement, n’a soulevé aucune critique ni aucune objection de la part de la défenderesse lors de l’examen de la première question de suivi, soit la question « 1 ». [traduction] Le vérificateur a-t-il examiné d’autres documents à partir des vérifications ou des travaux de vérification menés sur des dossiers mettant en cause ODL? Dans l’affirmative, veuillez produire tous ces documents. » À cette question, la défenderesse a simplement répondu : [traduction] « Le dossier de vérification ne contient aucun document mettant en cause ODL ». Par conséquent, je considère que cette question de suivi, soit la question 1, découle logiquement des questions précédentes dans la mesure où elle est la suite des questions sur la production des documents connexes d’OPD en possession de l’ARC, voire du vérificateur lui-même.
+[13] Enfin, en ce qui concerne la question 1, la défenderesse a affirmé que cette question a une [traduction] « portée trop large et qu’y répondre serait une tâche difficile ». Aucun détail n’a été produit à l'appui de ces affirmations. Il ne ressort pas de la question 1 à elle seule que tel devrait être le cas. Je suis d’avis que les questions posées lors de l’interrogatoire préalable qui seraient par ailleurs acceptables doivent recevoir une réponse à moins qu’il ne ressorte clairement des éléments de preuve que la tâche effectuée pour produire la réponse serait manifestement excessive.
+[14] En conclusion, en ce qui concerne la question 1, la défenderesse est tenue de produire une réponse complète.
+[15] La question 2 à laquelle la défenderesse a refusé de répondre est la suivante :
+[traduction] De façon générale, nous notons que le dossier de vérification produit semble incomplet. Veuillez confirmer que vous nous avez produit le dossier de vérification complet relatif aux appelants, y compris le volet électronique du dossier ou des communications et, si vous ne l’avez pas fait, veuillez nous faire parvenir ces documents.
+[16] La réponse de la défenderesse en date du 31 janvier 2018 est la suivante :
+[traduction] À notre connaissance, nous avons produit un dossier de vérification complet. Nous n’avons rien d’autre à ajouter, attendez-vous à demander exactement ce qui mènerait à conclure que le dossier de vérification semble incomplet.
+[17] Les « arguments supplémentaires » de la défenderesse en date du 21 février 2020 sont les suivants :
+[traduction] Les appelants n’ont donné aucune indication quant à savoir pourquoi, selon eux, le dossier de vérification est incomplet. L’intimée a produit tous les documents invoqués par le vérificateur.
+[18] En réponse, j’ordonne à la défenderesse de prendre toutes les mesures raisonnables pour s’assurer qu’une copie du dossier de vérification remise aux demandeurs est la plus complète possible. À cet égard, je comprends que la défenderesse a remis aux demandeurs un CD qui renferme le contenu intégral du dossier de vérification.
+[19] Cependant, je comprends également du paragraphe 26(c) des observations en réponse des demandeurs que [traduction] « l’ARC a supprimé tous les courriels de M. Lila [le vérificateur] concernant cette vérification ». Le dossier de vérification tel que produit est donc incomplet en ce qui concerne cet aspect important.
+[20] Par conséquent, j’ordonne en outre que la question 2 reçoive une réponse de la façon suivante, si ce n’est pas déjà fait. La défenderesse doit déployer tous les efforts raisonnables pour repérer les courriels supprimés et en faire des copies, puis remettre ces dernières aux demandeurs, comme étant la copie du dossier de vérification qu’ils ont demandé ». Ces efforts raisonnables comprendront, sans nécessairement les limiter, la recherche des serveurs pertinents de l’ARC afin de faire des copies de ces courriels et de les remettre aux demandeurs. De même, les destinataires et les expéditeurs probables des courriels pertinents de l’ARC envoyés au vérificateur et reçus du vérificateur, y compris les chefs d’équipe et le personnel de l’Administration centrale de l’ARC, doivent être identifiés et contactés afin de s’assurer qu’ils ont en leur possession des copies des courriels pertinents (et dans l’affirmative, qu’ils les ont remis aux demandeurs). Je suppose, sans en être certain, à ce qu’au moins, certains de ces efforts raisonnables ont déjà été déployés.
+[21] La question 3 à examiner et à laquelle la défenderesse a refusé de répondre est la suivante :
+[traduction] Veuillez nous remettre la copie des documents conservés sur le disque partagé.
+[22] À cela, la réponse de la défenderesse en date du 31 janvier 2018 est la suivante :
+[traduction] Voir notre réponse précédente. Nous n’avons rien d’autre à ajouter. Il s’agit là d’une recherche à l’aveuglette. Rien n’indique que les documents demandés ont été examinés par quiconque ayant pris part à la vérification des appelants.
+[23] Les « arguments supplémentaires » de la défenderesse en date du 21 février 2020 sont les suivants :
+[traduction] Le vérificateur n’avait pas accès au disque partagé dont il est fait référence dans la réponse du 31 janvier 2018. Cette question vise à obtenir des renseignements autres que ceux sur lesquels s’est appuyé le vérificateur. Cette question n’est pas pertinente et constitue une question de suivi inappropriée. La demande de renseignements sur laquelle ne s’est pas fondé le vérificateur dépasse le cadre de la demande initiale, laquelle portait sur une copie du rapport de RSD.
+[24] Je conclus que la défenderesse doit répondre à la question 3. Le contenu du disque partagé qui porte sur les questions en litige, y compris, mais sans s’y limiter, tout ce qui fait référence à ODL ou aux Hodgins ou qui concerne ces derniers, doit être communiqué aux demandeurs. Voir les commentaires ci-dessus sur la pertinence la question 1, qui s’appliquent également ici.
+[25] En outre, comme je l’ai déjà signalé, ce que le vérificateur a examiné ou non n’est pas déterminant quant à la question de pertinence. Comme l’a bien exprimé notre Cour dans la décision Paletta, précitée, par. 22, le vérificateur de l’ARC n’est pas « le cerbère » des documents qui doivent être produits. À cet égard, j’ajoute que, de façon générale, ce n’est pas le vérificateur qui décide du pouvoir de vérification. Habituellement, le pouvoir de vérification recommandé par le vérificateur est renvoyé à son chef de l’équipe d’audit aux fins d’approbation – surtout lorsque, comme en l’espèce, la question fiscale en litige n’est pas courante. Et qui sait quels sont les autres agents de l’ARC, le cas échéant, que le chef d’équipe peut consulter pour décider s’il y a lieu d’approuver. De plus, lorsqu’il est fait suite à un avis d’opposition, ce sont les agents d’appel de l’ARC qui examinent le pouvoir de vérification. Puis, généralement, cet agent envoie sa recommandation à son chef d’équipe des appels. Et je le répète, qui sait quels sont les autres agents de l’ARC, le cas échéant, que le chef d’équipe peut consulter pour décider s’il y a lieu d’approuver. Ainsi, l’idée selon laquelle la communication peut commencer et se terminer avec le travail du vérificateur n’est pas fondée tant sur le plan juridique que sur celui du bon sens.
+[26] La question 4 à laquelle la défenderesse a refusé de répondre est la suivante :
+[traduction] En préparant son exposé de position sur les appelants, le vérificateur a-t-il eu accès à une directive sur les exposés de position préparée par David LeBlanc du BSF d’Edmonton, aux documents de travail ou aux exposés de position préparés par les vérificateurs chargés d’autres dossiers mettant en cause ODL ou Tim et John Hodgins, ou à un exposé de position exhaustif sur les devises étrangères préparé par le BSF de Vancouver? Veuillez produire ces documents s’ils ne sont pas sur le disque partagé.
+[27] À cela, la réponse que la défenderesse a donnée le 31 janvier 2018 est la suivante :
+[traduction] Nous imaginons que le vérificateur aurait pu avoir accès aux exposés de position de ses collègues; cependant, rien n’indique qu’il a eu bel et bien accès à l’un ou l’autre de ces exposés ou qu’il les a examinés, encore moins qu'il s'est fondé sur eux. Rien n’indique que les documents demandés ont été examinés par quiconque ayant pris part à la vérification des appelants.
+[28] Les « arguments supplémentaires » de la défenderesse en date du 21 février 2020 sont les suivants :
+[traduction] L’intimée a produit tous les documents examinés ou invoqués par le vérificateur. Plus précisément, le vérificateur n’a pas eu accès à l’exposé de position préparé par David LeBlanc. La demande visant la communication de tous les documents d’ODL, de John Hodgins ou de Tim Hodgins a également une portée trop large et y répondre serait une tâche difficile.
+[29] La défenderesse doit répondre à la question 4 en remettant aux demandeurs une copie de l’exposé de position préparé par David LeBlanc. Les observations que j’ai formulées relativement aux questions 1 et 3 s’appliquent également ici.
+[30] La question 5 à laquelle la défenderesse a refusé de répondre est la suivante :
+[traduction] En ce qui concerne les réponses que vous avez données aux questions 5(a)(ii), 5(b)(ii), 5(c)(ii) et 5(d)(ii), les questions posées sont pertinentes et le rapport de RSD a été clairement invoqué par l’ARC et le vérificateur au moment d’établir les nouvelles cotisations en cause dans les présents appels. Ce qui n’est pas pertinent est la question de savoir si l’intimée entend maintenant invoquer le rapport de RSD. Veuillez répondre aux questions qui vous ont été posées.
+Question 5(a)(ii) L’intimée est-elle en désaccord avec la réponse de RSD? Dans l’affirmative, veuillez donner toutes les raisons pour lesquelles l’intimée n’est pas d’accord.
+Question 5(b)(ii) L’intimée est-elle d’accord avec la réponse de RSD selon laquelle ODL était en mesure d’intervenir à titre de courtier et de contrepartiste dans le cadre des contrats [à terme en devises étrangères] examinés dans le rapport? Sinon, veuillez donner toutes les raisons pour lesquelles l’intimée n’est pas d’accord.
+Question 5(c)(ii) L’intimée est-elle d’accord avec la réponse de RSD? Sinon, veuillez donner toutes les raisons pour lesquelles l’intimée n’est pas d’accord.
+Question 5(d)(ii) L’intimée est-elle en désaccord avec la réponse de RSD? Dans l’affirmative, veuillez donner toutes les raisons pour lesquelles l’intimée n’est pas d’accord
+[31] La réponse de la défenderesse à chacune des questions 5(a)(ii), 5(b)(ii), 5(c)(ii) et 5(d)(ii) est la suivante :
+[traduction] L’intimée n’entend pas invoquer le rapport de RSD. De plus, ce rapport ne porte sur les transactions en cause dans les présents appels. La question de savoir si l’intimée est d’accord avec les conclusions du rapport n’est donc pas pertinente. La thèse de l’intimée sur les transactions en cause dans les présents appels est exposée dans la réponse aux avis d’appel, et a été révélée à l’étape de l’interrogatoire préalable.
+[32] Les « arguments supplémentaires » de la défenderesse en date du 21 février 2020 sont les suivants :
+[traduction] RSD Solutions Inc. a préparé le rapport dans le cadre d’autres transactions et d’autres contribuables. Les questions de suivi posées au sujet du rapport sont inappropriées.
+[33] Dans leurs observations en réponse, au par. 22, les demandeurs indiquent que le vérificateur, M. Lila, lors du contre-interrogatoire sur son affidavit, a déclaré qu’il avait inclus, dans son exposé de position, des extraits du rapport de RSD qui corroboraient ses arguments. Il a également convenu que le rapport [traduction] « portait sur des transactions semblables à celles qu’il instruisait dans sa vérification ». Il a également indiqué que le rapport [traduction] « portait sur [...] ODL et les Hodgins ou les deux, c’est exact? »
+[34] Ces réponses du vérificateur M. Lila démontrent très bien la pertinence du rapport de RSD et des questions s’y rapportant (5(a)(ii) à 5(d)(ii) ci-dessus) que les demandeurs ont posées. La défenderesse est tenue de répondre à ces quatre questions de suivi, y compris la question 5.
+[35] La question 6 à laquelle la défenderesse a refusé de répondre est l’engagement no 18(3) :
+[traduction] Mis à part les renseignements ou les documents déjà produits, veuillez produire les renseignements ou les documents reçus par l’ARC relativement à cette vérification ou aux vérifications connexes des contrats [à terme en devises étrangères] en ce qui concerne la question de savoir si les activités commerciales d’ODL, de Tim Hodgins ou de John Hodgins étaient fictives ou si les contrats [à terme en devises étrangères] étaient juridiquement valides.
+[36] La réponse donnée par la défenderesse le 31 janvier 2018 est la suivante :
+[traduction] Tous les documents reçus par l’ARC relativement à cette vérification ont, à notre connaissance, été produits. Il s’agit là d’une recherche à l’aveuglette. Il n’y a rien dans le dossier dont il ressort que le vérificateur a examiné une autre vérification, les questions relatives à ODL, à Tim ou à John Hodgins ou tout autre dossier concernant la question de savoir si les contrats [à terme en devises étrangères] étaient juridiquement valides.
+[37] Les « arguments supplémentaires » de la défenderesse en date du 21 février 2020 sont les suivants :
+[traduction] Le vérificateur ne s’est fondé sur aucun document à part ceux qui ont déjà été produits. Cette question vise à obtenir des renseignements autres que ceux sur lesquels s’est appuyé le vérificateur. Cette question n’est pas pertinente et constitue une question de suivi inappropriée. Une demande de renseignements sur laquelle ne s’est pas fondé le vérificateur se situe hors du cadre de la demande initiale, laquelle portait sur une copie du rapport. La demande de communication de tous les documents concernant ODL, John Hodgins ou Tim Hodgins a également une portée trop large et y répondre serait une tâche difficile.
+[38] Au paragraphe 15 de leurs observations en réponse, les demandeurs font valoir ce qui suit :
+[traduction] Les renseignements et les documents demandés par les [appelants] mettent en cause ODL et la négociation des contrats à terme en devises étrangères, tous deux étaient en cause dans la décision Paletta [c. Canada, 2017 CCI 233]. La pertinence, et rien d'autre, est le facteur déterminant en matière de communication, et il n’y a aucune différence importante entre les faits des présents appels et ceux de la décision Paletta. Il s’ensuit qu’il y a lieu d’ordonner à l’intimée de produire les renseignements et les documents demandés par les [appelants], conformément à ce que la Cour a ordonné à l’intimée de faire dans la décision Paletta.
+[39] La défenderesse soutient que le vérificateur de l’ARC n’a jamais examiné les documents demandés, de sorte que ces documents ne sont pas susceptibles d’être produits. Je rejette l'argument portant que si le vérificateur ne s'est pas fondé sur les documents demandés, il n’est pas nécessaire de les communiquer. La pertinence est le facteur déterminant, et la jurisprudence enseigne que la pertinence doit recevoir une interprétation large, surtout à ce stade interlocutoire des appels au fond. La défenderesse ne semble pas soutenir que les documents demandés ne sont pas pertinents. Quoi qu’il en soit, je conclus que ces documents sont pertinents, au moins dans le cadre de cet interrogatoire préalable.
+[40] De même, comme je l’ai signalé plus haut, les courriels du vérificateur dans le cadre de la présente vérification ont été « supprimés » par l’ARC, éliminant un principal indicateur permettant d’établir la nature des renseignements, y compris ceux dont le vérificateur a pu examiner dans le cadre de son travail de vérification.
+[41] En ce qui a trait à la question 6, je conclus que les documents demandés doivent être produits dans la mesure où ils n’ont pas déjà été produits conformément aux directives de production susmentionnées.
+[42] La question 7 à laquelle la défenderesse a refusé de répondre est l’engagement no 21(1)(b) :
+[traduction] Veuillez fournir les documents ou les renseignements en possession de l’intimée, provenant d’ODL, de John ou de Tim Hodgins concernant les vérifications, par l’ARC, des contrats à terme en devises étrangères négociés, autres que les relevés de transaction ou les relevés d’ouverture de comptes.
+[43] La réponse donnée par la défenderesse le 31 janvier 2018 est la suivante :
+Il s’agit là d’une recherche à l’aveuglette. Si les documents ou renseignements que vous demandez existent, ils n’auraient pas été préparés dans le cadre de la vérification des appelants, et rien n’indique que le vérificateur les a examinés selon ce qui est exposé. Rien n’indique que les documents demandés ont été examinés par quiconque ayant pris part à la vérification des appelants.
+[44] Les « arguments supplémentaires » de la défenderesse en date du 21 février 2020 sont les suivants :
+[traduction] Le vérificateur ne s’est fondé sur aucun document à part ceux qui ont déjà été produits. Cette question vise à obtenir des renseignements autres que ceux sur lesquels s’est appuyé le vérificateur. Cette question n’est pas pertinente et constitue une question de suivi inappropriée. La demande de renseignements sur laquelle ne s’est pas fondé le vérificateur se situe hors du cadre de la demande initiale, laquelle portait sur des documents relatifs à une entrevue avec ODL. La demande de communication de tous les documents concernant ODL, John Hodgins ou Tim Hodgins a également une portée trop large et y répondre serait une tâche difficile.
+[45] Comme je l’ai signalé et réaffirmé plus haut, le critère est celui de la pertinence, et non ce que le vérificateur a ou n’a peut-être pas examiné. Dans la mesure où les documents demandés se trouvent en la possession, sous l’autorité ou le contrôle de Sa Majesté est très pertinent, surtout à cette étape, pourvu que les demandeurs soient au courant de ce que la défenderesse connaît d’ODL et des Hodgins, qui ont joué un rôle central dans la supercherie invoquée par la défenderesse à l’encontre des demandeurs. Il n’y a pas de raison évidente justifiant que le fait de répondre à cette question, qui met l’accent sur ODL et al, serait une opération beaucoup trop exigeante.
+[46] Par conséquent, j’ordonne à la défenderesse de répondre à la question 7.
+[47] La question 8 à laquelle la défenderesse a refusé de répondre est l’engagement no 21(1)(c) :
+[traduction] Veuillez produire les exposés de position ou les lettres de proposition relativement aux vérifications portant sur les contrats à terme en devises étrangères transigés dans les comptes d’ODL, de John ou de Tim Hodgins.
+[48] La réponse donnée par la défenderesse le 31 janvier 2018 est la suivante :
+Il s’agit là d’une recherche à l’aveuglette. Si les documents ou renseignements que vous demandez existent, ils n’auraient pas été préparés dans le cadre de la vérification des appelants, et rien n’indique que le vérificateur les a examinés selon ce qui est décrit. Rien n’indique que les documents demandés ont été examinés par quiconque ayant pris part à la vérification des appelants.
+[49] Les « arguments supplémentaires » de la défenderesse en date du 21 février 2020 sont les suivants :
+[traduction] Le vérificateur ne s’est fondé sur aucun document à part ceux qui ont déjà été produits. Cette question vise à obtenir des renseignements autres que ceux sur lesquels s’est appuyé le vérificateur. Cette question n’est pas pertinente et constitue une question de suivi inappropriée. La demande de renseignements sur laquelle ne s’est pas fondé le vérificateur se situe hors du cadre de la demande initiale, laquelle portait sur des documents relatifs à une entrevue avec ODL. La demande de communication de tous les documents concernant ODL, John Hodgins ou Tim Hodgins a également une portée trop large et y répondre serait une tâche difficile.
+[50] Je ne suis pas disposé à convenir que la question 8 est inappropriée. Ce qui aurait pu être proposé à d’autres contribuables en ce qui concerne ODL, les transactions connexes seraient tout au plus peu pertinentes pour les demandeurs. Bien que, juridiquement, le ministre du Revenu national est tenu de traiter de façon égale des situations égales, il est également clair selon la jurisprudence que la façon dont une cotisation a été établie à l’égard d’un contribuable n’est pas pertinente aux fins de la contestation d’une cotisation par un autre contribuable, fondée sur le même contexte factuel ou un contexte factuel semblable. La défenderesse n'est donc pas tenue de répondre à la question 8.
+[51] Signé à Halifax, Nouvelle-Écosse, ce 26e jour de février 2021.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 17e jour de mai 2021.
+François Brunet, réviseur
+RÉFÉRENCE :
+2021 CCI 15
+NOS DES DOSSIERS DE LA COUR :
+2014-2393(IT)G, 2014-2395(IT)G,
+2014-2398(IT)G et 2014-2399(IT)G
+INTITULÉS :
+THOMPSON BROS. (CONSTR.) LTD. c. LA REINE
+LARRY THOMPSON c. LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 10 septembre 2020
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DE L’ORDONNANCE :
+Le 26 février 2021
+COMPARUTIONS :
+Avocats des demandeurs :
+Me Robert Neilson et Me Jeremy Comeau
+Avocats de la défenderesse :
+Me Ron Wilhem, Shannon Fenrich, Me Eric Brown et Jamie Hansen
+AVOCATS INSCRITS AU DOSSIER :
+Pour les demandeurs :
+Nom :
+Me Robert Neilson
+Cabinet :
+Felesky Flynn LLP
+Edmonton (Alberta)
+Pour la défenderesse :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

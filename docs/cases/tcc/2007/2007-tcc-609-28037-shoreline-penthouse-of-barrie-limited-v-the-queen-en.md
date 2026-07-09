@@ -1,0 +1,136 @@
+---
+title: "Shoreline Penthouse of Barrie Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28037/index.do"
+last_modified: "2007-10-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 609"
+citation2: ""
+neutral_citation: "2007 TCC 609"
+decision_date: "2007-10-04"
+language: "en"
+item_id: "28037"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1623
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:39:32.785000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0a09e50be85fac218c65b38ce02a3535e82bea64a193139839d84a419128d455"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shoreline Penthouse of Barrie Limited v. The Queen
+
+- Citation: 2007 TCC 609
+- Decision date: 2007-10-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1623, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shoreline Penthouse of Barrie Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-04
+Neutral citation
+2007 TCC 609
+File numbers
+2007-784(GST)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-784(GST)G
+BETWEEN:
+SHORELINE PENTHOUSE OF BARRIE LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on October 4, 2007 at Toronto, Ontario
+Before: The Honourable Justice Valerie A. Miller
+Appearances:
+Counsel for the Appellant:
+Sarah E. Mott-Trille
+Counsel for the Respondent:
+Marie-Thérèse Boris and Louis L'Heureux
+____________________________________________________________________
+JUDGMENT
+The motion is granted and the appeal is dismissed in accordance with the attached Reasons for Judgment.
+The Respondent is awarded costs.
+Signed at Halifax, Nova Scotia this 12th day of October, 2007.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2007TCC609
+Date: 20071012
+Docket: 2007-784(GST)G
+BETWEEN:
+SHORELINE PENTHOUSE OF BARRIE LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The Respondent has brought this motion to strike the Notice of Appeal on the basis that it discloses no reasonable grounds for appeal. The motion is pursuant to paragraph 58(1)(b) of the Tax Court of Canada Rules (General Procedure).
+[2] The Appellant has relied on equity maxims and stated that if these maxims are followed the Goods and Services Taxes (“GST”) assessed should be reduced. In other words, it did not question the assessments for 1996 to 2003. I agree with the Respondent that the Notice of Appeal should be struck.
+[3] The material facts relied on in the Notice of Appeal include the following:
+a) the history of the ownership of shares of the Appellant from 1967 to 1994;
+b) in 1994 all shares in the Appellant were transferred to a trust and Frank Kisluk, a Chartered Accountant and Trustee in Bankruptcy, was the trustee;
+c) in 1995 Frank Mott-Trille made a proposal in bankruptcy;
+d) numerous complaints about Frank Kisluk;
+e) that tax returns for the Appellant for the period 1995 to 2003 were submitted in August 2004 pursuant to the voluntary disclosure program;
+f) complaints about the Minister of National Revenue and complaints about the Ontario Ministry of Finance.
+[4] The issues raised in the Notice of Appeal are as follows:
+a) Res judicata. (This issue relates to the bankruptcy of Frank Mott-Trille.)
+b) Bankruptcy. (This issue as well relates to the bankruptcy of Frank Mott-Trille.)
+c) Equity Maxims.
+d) GST. (Counsel for the Appellant explained that if the Canada Revenue Agency (“CRA”) applied the equity maxims the amount of taxes should be reduced.)
+[5] In the Notice of Appeal, the Appellant and Frank Mott-Trille are not treated as separate entities. The bankruptcy of Frank Mott-Trille is treated as the bankruptcy of the Appellant. The disputes that Frank Mott-Trille may have with the former trustee are now transferred to the CRA. Nowhere in the Notice of Appeal does the Appellant mention an issue or fact that relates to the computation of the taxes assessed or its liability for taxes. The Appellant does not dispute that it collected GST which it is required to remit.
+[6] Pursuant to section 306 of the Excise Tax Act this Court has jurisdiction to vacate or vary an assessment if it is found that the amounts assessed are not properly owing under the Act (Ludco Enterprises Ltd. v. R., [1996] 3 C.T.C. 74 (FCA)). This Court does not have the jurisdiction to grant a remedy based only on the application of equity maxims. As stated by Justice Bowie in Hamilton v. The Queen, [2007] 1 C.T.C. 2504 at paragraph 8:
+8 There are two obvious reasons that this argument must fail. The first is that I have no jurisdiction to grant a remedy based only on equitable principles, and this argument is, as Mr. Easton candidly admitted, simply an appeal to equity. My jurisdiction is limited to applying the provisions of the Act to the facts of the case and determining whether the Minister's assessment is correct. I have no jurisdiction in equity.3 …
+[7] The test that is applied for striking out pleadings is whether assuming the facts stated in the pleadings are true, is it “plain and obvious” that the appeal cannot succeed? (Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959) Only if the appeal is certain to fail should the Notice of Appeal be struck. (Main Rehabilitation Co. v. The Queen, 2004 FCA 403 at paragraph 3).
+[8] The Notice of Appeal does not challenge the assessments. The quantum and calculation of the tax is never questioned. Applying the test stated above and assuming that all the facts plead in the Notice of Appeal are true, it is “plain and obvious” that the appeal cannot succeed. This Court does not have the jurisdiction to grant the remedy requested in the Notice of Appeal.
+[9] The motion is granted and the appeal is dismissed. The Respondent is awarded costs.
+Signed at Halifax, Nova Scotia this 12th day of October, 2007.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2007TCC609
+COURT FILE NO.: 2007-784(GST)G
+STYLE OF CAUSE: Shoreline Penthouse of Barrie Limited v. The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 4, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: October 12, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Sarah E. Mott-Trille
+Counsel for the Respondent:
+Marie-Thérèse Boris and Louis L'Heureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Sarah E. Mott-Trille
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

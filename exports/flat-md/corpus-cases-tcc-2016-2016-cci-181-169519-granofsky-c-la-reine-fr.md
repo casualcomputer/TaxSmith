@@ -1,0 +1,212 @@
+---
+title: "Granofsky c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/169519/index.do"
+last_modified: "2016-08-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 181"
+citation2: ""
+neutral_citation: "2016 CCI 181"
+decision_date: "2016-08-17"
+language: "fr"
+item_id: "169519"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2903
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:56:02.294000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fa5b184c2b469582f3eba5b7ccc1594f4833f13e8289c8a6810b2fffbe539a70"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Granofsky c. La Reine
+
+- Citation: 2016 CCI 181
+- Decision date: 2016-08-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2903, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Granofsky c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-08-17
+Référence neutre
+2016 CCI 181
+Numéro de dossier
+2013-2117(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2117(IT)G
+ENTRE :
+MICHAEL J. GRANOFSKY,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requêtes entendues le 30 mai 2016, à Montréal (Québec).
+Devant : L'honorable juge Johanne D'Auray
+Comparutions :
+Avocat du requérant :
+Me François Asselin
+Avocat de l'intimée :
+Me Claude Lamoureux
+ORDONNANCE
+VU la requête de l'avocat du requérant afin d'obtenir une ordonnance déclarant invalides le présumé règlement conclu entre le requérant et l'intimée et les nouvelles cotisations;
+VU la requête de l'avocat de l'intimée afin d'obtenir une ordonnance en exécution du règlement;
+VU les affidavits déposés et les plaidoiries des parties;
+La requête du requérant est rejetée. La requête de l'intimée est accueillie; l'appel est donc annulé, avec dépens, conformément aux motifs de l'ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 17e jour d'août 2016.
+« Johanne D'Auray »
+La juge D'Auray
+Référence : 2016 CCI 181
+Date : 20160817
+Dossier : 2013-2117(IT)G
+ENTRE :
+MICHAEL J. GRANOFSKY,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+La juge D'Auray
+Aperçu [1] Le requérant a déposé une requête visant à faire annuler et à faire déclarer invalide un présumé règlement extrajudiciaire conclu entre les parties conformément au paragraphe 169(3) de la Loi de l'impôt sur le revenu[1] (la Loi).
+[2] Le requérant affirme que, le 3 septembre 2015, l'avocate qui le représentait alors dans la présente affaire, Me Julie Tremblay, et l'avocate de l'intimée, Me Cristina Ham, ont fourni à la Cour des renseignements inexacts selon lesquels son appel avait été réglé, car le requérant n'avait ni autorisé son avocate à régler l'appel ni personnellement signé l'entente de règlement extrajudiciaire.
+[3] L'intimée a présenté une requête visant l'exécution de la présumée entente conclue conformément au paragraphe 169(3) de la Loi. L'intimée affirme que Me Tremblay était autorisée à agir au nom du requérant dans la présente affaire et que celui‑ci l'avait autorisée à régler son appel.
+Les faits [4] Le 8 octobre 2010, le ministre du Revenu national (le ministre) a établi de nouvelles cotisations pour les années d'imposition 2005, 2006, 2007 et 2008 du requérant, car il n'avait pas déclaré des revenus d'un montant total de 3 128 324 $[2]. Le requérant s'est opposé à ces nouvelles cotisations, qui, pour les années 2005, 2006 et 2007, ont été ratifiées par le ministre le 13 mars 2013. Le requérant a ensuite interjeté appel des nouvelles cotisations devant la Cour dans un avis d'appel déposé le 5 juin 2013[3].
+[5] Maître Tremblay, qui était l'avocate inscrite au dossier dans le présent appel, a témoigné avoir agi pour le requérant à l'égard de son appel fiscal jusqu'à peu de temps après qu'il a exigé qu'elle mette fin au désistement et qu'il a nié l'avoir autorisée à régler l'appel. À ce moment‑là, elle a informé le requérant qu'elle ne pouvait plus agir pour lui.
+[6] Maître Tremblay déclare avoir rencontré le requérant en juillet 2015, après la conclusion de l'examen préalable écrit. Le comptable du requérant était également présent. À ce moment‑là, l'objectif de l'appelant était de régler l'appel ou de reporter son audition. Me Tremblay a déclaré qu'il était important pour le requérant que la pression liée au recouvrement d'une éventuelle dette fiscale soit levée. Après en avoir discuté, le requérant a souscrit à la proposition de Me Tremblay de régler son appel.
+[7] Par conséquent, Me Tremblay a envoyé une offre de règlement à Me Ham, qui représentait l'intimée. Me Ham a refusé l'offre présentée par Me Tremblay, mais elle a fait une contre‑offre en août 2015.
+[8] Maître Tremblay a présenté la contre‑offre au requérant. Suivant les conseils de son avocate, il a décidé de poursuivre son appel. Me Tremblay a expliqué que la contre‑offre n'était pas une offre acceptable, selon elle. Étant donné que l'audience était fixée au 8 septembre 2015[4], Me Tremblay a commencé à se préparer à l'audience.
+[9] À la fin du mois d'août 2015, Me Tremblay a rencontré le requérant et son comptable en vue de la préparation de l'audience. Elle a témoigné que, lors de cette réunion, le requérant l'avait informée qu'il souhaitait abandonner son appel[5]. Me Tremblay lui a suggéré qu'elle tente d'avoir une meilleure offre de règlement que celle déjà proposée par l'intimée. Elle estimait qu'il vaudrait mieux pour le requérant que l'appel soit réglé plutôt qu'abandonné.
+[10] Maître Tremblay a déclaré qu'elle avait, avec l'autorisation du requérant, présenté une autre offre de règlement à Me Ham. Afin d'obtenir une meilleure offre, elle a présenté de nouveaux arguments. Bien que Me Ham ait décliné l'offre, elle a fait une contre‑offre.
+[11] Maître Tremblay a déclaré qu'avant d'accepter la contre‑offre de Me Ham, elle a communiqué avec le requérant et l'a informé des modifications à ses nouvelles cotisations énoncées dans la contre‑offre de l'intimée. Selon Me Tremblay, le requérant l'avait autorisée à accepter l'offre, puisqu'il lui avait dit [TRADUCTION] d'« aller de l'avant » avec l'entente au cours de cet appel. Elle l'a ensuite informé qu'elle lui enverrait les détails de la contre‑offre par courriel.
+[12] Maître Tremblay a envoyé au requérant le courriel suivant le 3 septembre 2015 à 11 h 26 :
+[TRADUCTION]
+[Objet : Entente de règlement extrajudiciaire avec l'ARC]
+Monsieur,
+Comme nous en avons discuté et suivant votre autorisation, une entente de règlement extrajudiciaire a été négociée avec Revenu Canada. Selon cette entente, les « revenus additionnels » seront réduits de la façon suivante :
+[Me Tremblay énumère les réductions au revenu du requérant pour les années d'imposition 2005, 2006, 2007 et 2008.]
+L'entente sera signée sans aucune admission quant à nos observations.
+Veuillez confirmer par courriel que vous acceptez l'entente susmentionnée et que vous m'autorisez à la signer.
+Recevez, Monsieur, mes salutations distinguées.
+Julie Tremblay, avocate
+Starnino Mostovac
+[Non souligné dans l'original.]
+[13] Le requérant a répondu à Me Tremblay par courriel le même jour, à 23 h 42, en écrivant [TRADUCTION] « accepté OK »[6].
+[14] Après que Me Ham a été avisée que le requérant avait accepté l'entente, il a été décidé que l'avocate de l'intimée le rédigerait.
+[15] Maître Tremblay, au nom du requérant, et Me Ham, au nom de l'intimée, ont signé l'entente de règlement extrajudiciaire le 3 septembre 2015.
+[16] Dans le même document, le requérant s'est engagé à fournir un avis de désistement dûment signé à l'avocate de l'intimée. Me Tremblay a signé cet avis de désistement pour le compte du requérant le 9 septembre 2015. Selon les modalités de l'entente de règlement extrajudiciaire, l'avis de désistement devait être [TRADUCTION] « détenu en fiducie » par l'avocate de l'intimée jusqu'à ce que le ministre établisse, en vertu du paragraphe 169(3) de la Loi, de nouvelles cotisations faisant état de l'entente conclue par les parties.
+[17] Les nouvelles cotisations ont été établies, conformément au paragraphe 169(3) de la Loi, au début de novembre 2015. Me Tremblay a déclaré qu'après avoir reçu les nouvelles cotisations, elle s'était assurée qu'elles reflétaient avec exactitude les modalités du règlement extrajudiciaire. Par la suite, elle a envoyé un courriel au requérant le 10 novembre 2015 pour l'informer que les nouvelles cotisations reflétaient bien le règlement extrajudiciaire et pour indiquer qu'elle allait déposer l'avis de désistement auprès de la Cour le lendemain à moins d'indications contraires.
+[18] Le requérant a répondu le 11 novembre 2015, en demandant à Me Tremblay de ne pas aller de l'avant pour l'instant, car il avait besoin de [TRADUCTION] « temps pour réfléchir », et en l'informant qu'il [TRADUCTION] « tenterait de communiquer avec elle le plus tôt possible ». Me Tremblay lui a répondu qu'elle n'irait pas de l'avant pour l'instant, mais que l'avis de désistement était détenu par l'ARC et devait être déposé à la Cour au plus tard à la fin de la semaine. Elle lui a également affirmé que les nouvelles cotisations reflétaient l'entente [TRADUCTION] « à laquelle vous avez consenti »[7].
+[19] Le 25 novembre 2015, Me Tremblay a envoyé un courriel au requérant pour lui fournir des renseignements qu'il avait demandés, soit le relevé de compte indiquant les montants réclamés par l'ARC et par Revenu Québec. Elle a ensuite indiqué qu'elle croyait comprendre que [TRADUCTION] « votre intention est de déclarer faillite ou de demander à votre syndic de négocier une entente avec les fiscs. Par conséquent, nous avons négocié un règlement extrajudiciaire, que vous avez accepté, en vue de faciliter les négociations avec les fiscs ». Elle a ajouté que, comme les nouvelles cotisations étaient conformes aux termes de l'entente, [TRADUCTION] « l'avis de désistement sera déposé »[8].
+[20] Le requérant a envoyé un courriel le 1er décembre 2015 afin de répondre à Me Tremblay qu'elle ne pouvait déposer l'avis de désistement parce qu'il ne l'avait jamais autorisée à régler l'appel et qu'il voulait encore poursuivre son appel. À ce moment‑là, Me Tremblay a avisé le requérant de retenir les services d'un autre avocat, car elle ne pouvait plus agir en son nom.
+[21] Maître Tremblay a confirmé qu'elle n'avait jamais envoyé au requérant une copie de [TRADUCTION] « l'entente de règlement extrajudiciaire » qu'elle et l'avocate de l'intimée avaient signée[9].
+[22] L'avocat du requérant à l'audience a informé la Cour que son client avait des trous de mémoire et qu'il pourrait donc ne pas être un témoin fiable. À cet égard, il a déposé en preuve une lettre d'un certain Dr David Goltzman[10].
+[23] Le requérant a invoqué en preuve l'affidavit de M. Granofsky, déposé avec son avis de requête. L'intimée n'a pas contre‑interrogé le requérant au sujet de son affidavit.
+[24] L'affidavit de M. Granofsky indique que le requérant avait rencontré Me Tremblay environ trois ans avant de signer l'affidavit afin qu'elle l'aide à résoudre ses problèmes fiscaux, surtout en faisant en sorte que toutes les nouvelles cotisations à son égard soient annulées. Dans son affidavit, le requérant affirme qu'à l'automne 2015, il était devenu [TRADUCTION] « physiquement et financièrement faible en raison des efforts soutenus de recouvrement des fiscs ». Il déclare en outre qu'il avait expliqué à Me Tremblay qu'il serait au bord de la faillite si elle ne réussissait pas à enlever provisoirement les pressions financières causées par les activités de recouvrement de l'ARC. L'affidavit précise que Me Tremblay devait chercher à négocier un redressement[11].
+[25] De plus, l'affidavit de M. Granofsky indique que le requérant a reçu un courriel de Me Tremblay vers le 3 septembre 2015, dans lequel [TRADUCTION] « elle a mentionné avoir négocié quelque chose afin de réduire légèrement les montants dus et je lui ai dit que j'acceptais ». L'affidavit précise qu'aucune réunion n'avait eu lieu entre Me Tremblay et le requérant, que ce dernier n'avait jamais signé de document et qu'il n'avait reçu aucune lettre officielle de Me Tremblay. Selon l'affidavit, le requérant croyait que Me Tremblay [TRADUCTION] « avait allégé les pressions des services de recouvrement afin que je puisse provisoirement éviter la faillite »[12].
+Les questions en litige [26] Les questions en litige dans le présent appel sont les suivantes :
+a. Est‑ce que Me Tremblay avait l'autorisation de régler l'appel du requérant?
+b. Est‑ce qu'un consentement écrit au règlement signé par l'avocat du contribuable constitue un consentement valide au sens du paragraphe 169(3) de la Loi?
+Les thèses des parties Le requérant [27] L'avocat du requérant soutient qu'il y a eu un malentendu entre le requérant et Me Tremblay. Le requérant ne voulait pas que Me Tremblay règle son appel.
+[28] En outre, l'avocat du requérant soutient que l'intimée ne s'est pas acquittée du fardeau de la preuve qui lui incombait de montrer que le requérant avait consenti par écrit, comme le prévoit le paragraphe 169(3) de la Loi.
+[29] Le requérant soutient qu'en vertu du paragraphe 169(3) de la Loi, le contribuable lui‑même doit consentir par écrit pour que l'entente de règlement et les nouvelles cotisations soient valables. Le requérant affirme qu'étant donné qu'il n'avait pas lui‑même consenti par écrit, les nouvelles cotisations ne sont pas valables.
+[30] En outre, le requérant soutient que l'entente de règlement extrajudiciaire signée par Mes Ham et Tremblay n'a pas été valablement conclue selon son propre libellé, puisqu'il ne l'a pas signée lui‑même. L'avocat du requérant fait valoir qu'en vertu de la clause 3 de l'entente de règlement extrajudiciaire, la seule personne autorisée à la signer était le requérant. La clause 3 stipule que :
+[TRADUCTION]
+Après la signature de la présente entente, Michael J. Granofsky fournira à l'avocat du ministre du Revenu national un avis de désistement dûment signé.
+[31] De plus, l'avocat du requérant affirme qu'en vertu du droit privé des obligations contractuelles, une clause ambiguë doit être interprétée contre la partie qui a rédigé l'entente (en l'espèce, l'intimée)[13]. Selon l'avocat, la clause 3 est ambiguë puisqu'il n'est pas clair si Me Tremblay était en droit de signer l'entente pour le compte du requérant.
+[32] Le requérant soutient que tout doute concernant le sens de la clause 3 donne lieu à une présomption que l'interprétation doit être contre l'intimée. En d'autres termes, je dois interpréter l'entente de règlement extrajudiciaire en favorisant le requérant puisque les ententes doivent être interprétées contre celui qui les a rédigées, à savoir l'intimée en l'espèce. Le requérant soutient qu'en vertu de la clause 3 de l'entente de règlement extrajudiciaire, il devait lui-même signer une telle entente.
+L'intimée [33] Selon l'intimée, le témoignage de Me Tremblay n'est pas contesté et démontre qu'elle avait l'autorisation de régler l'affaire et qu'elle a réglé l'appel conformément à son autorisation.
+[34] En outre, l'intimée soutient que Me Tremblay était en droit de signer au nom du requérant, car elle était son mandataire au moment de la signature.
+Analyse [35] Je suis d'avis que Me Tremblay s'était vu confier le mandat de régler l'appel. Le courriel envoyé le 3 septembre 2015, dans lequel elle a demandé au requérant de confirmer qu'il était d'accord avec les modalités de l'entente et qu'elle pouvait signer l'entente, témoigne de son mandat. La réponse écrite du requérant au courriel de Me Tremblay, soit [TRADUCTION] « accepté OK », était claire.
+[36] De plus, j'accepte le témoignage de Me Tremblay, selon lequel le requérant lui avait fait savoir qu'il souhaitait simplement abandonner son appel, et ce, peu de temps avant la date de la signature de l'entente de règlement extrajudiciaire. Elle a clairement déclaré que, lors de la réunion avec le requérant qui visait à préparer l'audience, il lui a initialement demandé de déposer un avis de désistement. Me Tremblay l'a informé qu'il serait préférable de régler l'appel plutôt que de l'abandonner. À ce moment‑là, le requérant lui a dit d'aller de l'avant et de faire ce qu'elle pouvait[14].
+[37] Vu ces faits non contestés, il est difficile pour le requérant d'affirmer qu'il n'a pas autorisé Me Tremblay à régler son appel et qu'il souhaitait seulement qu'elle trouve un moyen d'alléger les pressions découlant des mesures de recouvrement prises par l'ARC.
+[38] En outre, je ne comprends pas pourquoi le requérant n'a pas communiqué avec Me Tremblay s'il croyait que son appel n'était pas réglé, puisqu'il savait que son appel devait être entendu le 8 septembre 2015. Le 10 novembre 2015, Me Tremblay a informé le requérant que l'avis de désistement devait être déposé. Le requérant n'a informé Me Tremblay qu'il souhaitait poursuivre son appel que le 1er décembre 2015, après avoir reçu des documents de l'ARC, y compris le relevé de compte.
+[39] Comme l'a reconnu à juste titre l'avocat du requérant, sa thèse sur l'interprétation du paragraphe 169(3) de la Loi dépend en grande partie de la question de savoir si la décision que j'ai rendue dans Softsim Technologies[15] et si celle rendue par le juge Bocock dans Davies[16] sont exactes dans leur interprétation des exigences du paragraphe 169(3) de la Loi.
+[40] Le paragraphe 169(3) de la Loi prévoit ce qui suit :
+169(3) Règlement d'un appel après consentement — Malgré l'article 152, en vue de régler un appel interjeté en application d'une disposition de la présente loi, le ministre peut établir à tout moment, avec le consentement écrit du contribuable, une nouvelle cotisation concernant l'impôt, les intérêts, les pénalités ou d'autres montants payables par le contribuable en vertu de la présente loi.
+[41] Il est clair que Me Tremblay était l'avocate inscrite au dossier pour le requérant au sens de l'article 31 des Règles de la Cour canadienne de l'impôt (procédure générale)[17].
+[42] Comme je l'ai mentionné plus tôt, Me Tremblay a été autorisée à signer le règlement extrajudiciaire pour le compte de son client. Me Tremblay, à titre de mandataire du requérant et conformément à son autorisation de régler l'affaire, était en droit de signer l'entente de règlement. Les avocats sont tenus d'agir pour le compte de leur client dans le cadre du mandat que le client leur donne. La signature de l'entente de règlement extrajudiciaire faisait partie du mandat de Me Tremblay, qui agissait à titre de mandataire du requérant. À mon avis, lorsqu'un contribuable est représenté par un avocat, ce dernier peut, en vue de régler un appel, consentir par écrit, au nom de son client, à ce que le ministre établisse une nouvelle cotisation.
+[43] Bien que la clause 3 de l'entente extrajudiciaire prévoie [TRADUCTION] qu'« après la signature de la présente entente, Michael J. Granofsky fournira à l'avocat du ministre du Revenu national un avis de désistement dûment signé », cela n'empêche pas la mandataire de lier son mandant. Comme je l'ai dit plus tôt dans mes motifs concernant le paragraphe 169(3) de la Loi, à titre de mandataire et d'avocate inscrite au dossier pour le requérant, Me Tremblay a agi dans le cadre de son mandat lorsqu'elle a signé l'entente de règlement au nom de son client. L'argument selon lequel les modalités de l'entente soit sont clairement en faveur du requérant, soit soulèvent un doute au sujet de l'interprétation de l'entente, ne peut tenir que si on ne tient pas compte du droit du mandat en droit civil québécois[18]. À mon avis, il est clair que les modalités de l'entente ne soulèvent pas un doute quant à savoir si la mandataire avait le droit de signer l'entente de règlement extrajudiciaire au nom du requérant si elle le faisait dans le cadre de son mandat. Par conséquent, le requérant a valablement conclu l'entente de règlement extrajudiciaire.
+[44] Quoi qu'il en soit, on pourrait dire que le requérant a consenti par écrit au règlement lorsqu'il a répondu au courriel de Me Tremblay du 3 septembre 2015, à 11 h 26, en lui disant qu'il acceptait l'entente. Le paragraphe 169(3) de la Loi n'exige pas qu'un règlement extrajudiciaire soit signé par les deux parties. Le paragraphe 169(3) de la Loi prévoit ce qui suit : « [...] le ministre peut établir à tout moment, avec le consentement écrit du contribuable, une nouvelle cotisation [...] ». La procédure prévue au paragraphe 169(3) est différente de celle du consentement à jugement prévu à l'article 170 des Règles de la Cour canadienne de l'impôt (procédure générale), où les deux parties doivent fournir un consentement écrit.
+[45] En outre, je note qu'au cours de l'audience, on n'a pas affirmé que le requérant n'avait pas la capacité mentale nécessaire pour donner le mandat de régler l'affaire. Bien que l'affidavit de M. Granofsky soulève des allégations selon lesquelles le requérant souffrait de problèmes de santé à l'automne 2015, prises au pied de la lettre, ces allégations ne suffisent toujours pas pour démontrer que le requérant n'avait pas une capacité mentale suffisante le 3 septembre 2015.
+[46] À la lumière de ce qui précède, je rejette la requête du requérant et j'accueille la requête de l'intimée, rendant ainsi exécutoire le règlement conclu dans la présente affaire. Compte tenu de la preuve et des arguments dont je suis saisie, les nouvelles cotisations semblent avoir été valablement établies conformément au paragraphe 169(3) de la Loi.
+[47] Mon ordonnance sera la même que celle rendue par le juge Bowie de notre Cour dans l'affaire 1390758 Ontario[19], dans laquelle il a déclaré ce qui suit :
+Si le ministre n'avait pas déjà établi une nouvelle cotisation à l'égard de l'appelante en conformité avec le procès‑verbal de transaction, j'aurais accueilli les appels et déféré les nouvelles cotisations faisant l'objet d'un appel au ministre pour nouvel examen et nouvelles cotisations, en conformité avec le procès‑verbal de transaction. Comme il a déjà établi les nouvelles cotisations, la mesure de redressement appropriée est une ordonnance annulant les appels.
+[48] Étant donné que le ministre a établi les nouvelles cotisations, l'appel est annulé. L'intimée a droit à ses dépens.
+Signé à Ottawa, Canada, ce 17e jour d'août 2016.
+« Johanne D'Auray »
+La juge D'Auray
+RÉFÉRENCE :
+2016 CCI 181
+NO DU DOSSIER DE LA COUR :
+2013-2117(IT)G
+INTITULÉ :
+MICHAEL J. GRANOFSKY c. LA REINE
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 30 mai 2016
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge Johanne D'Auray
+DATE DE L'ORDONNANCE :
+Le 17 août 2016
+COMPARUTIONS :
+Avocat du requérant :
+Me François Asselin
+Avocat de l'intimée :
+Me Claude Lamoureux
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+Me François Asselin
+Cabinet :
+Litige fiscal / Tax Litigation
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. 1 (5e suppl.).
+[2] Réponse à l'avis d'appel modifié du 30 septembre 2013, au paragraphe 3.
+[3] Le requérant a déposé un avis d'appel modifié le 21 août 2013, avec le consentement de l'intimée. L'intimée a déposé sa réponse à l'avis d'appel modifié le 30 septembre 2013.
+[4] Voir l'ordonnance rendue le 8 décembre 2014 par Nadine Labrecque, administratrice judiciaire, pour la date exacte. Il y avait de la confusion dans le témoignage de Me Tremblay au sujet de la date exacte.
+[5] Transcription de l'audience du 30 mai 2016, aux pages 22 et 23.
+[6] Les deux courriels se trouvent à la page 12 des documents joints à l'affidavit de Michael J. Granofsky du 22 décembre 2015 (l'affidavit de M. Granofsky). Ils ont également été déposés en preuve par l'intimée en tant que pièce R‑1.
+[7] Documents joints à l'affidavit de M. Granofsky, aux pages 7 à 9.
+[8] Documents joints à l'affidavit de M. Granofsky, aux pages 4 à 6.
+[9] Transcription, à la page 27.
+[10] Lettre du Dr David Goltzman du 27 mai 2016, pièce A‑1.
+[11] Affidavit de M. Granofsky, aux paragraphes 6 et 11 à 13.
+[12] Affidavit de M. Granofsky, aux paragraphes 14 à 16.
+[13] Même si cela n'a pas été expressément déclaré lors de l'audience, je suppose que l'avocat du requérant fait référence aux principes d'interprétation contractuelle découlant de l'article 1432 du Code civil du Québec, L.Q. 1991, ch. 64 (le C.c.Q.).
+[14] Transcription, à la page 23.
+[15] Softsim Technologies Inc. c. La Reine, 2012 CCI 181, aux paragraphes 70 à 82 (Softsim Technologies).
+[16] Davies c. La Reine, 2016 CCI 104 (en appel à la Cour d'appel fédérale).
+[17] DORS/90‑688a.
+[18] Articles 2130 à 2185 du C.c.Q.
+[19] 1390758 Ontario Corporation c. La Reine, 2010 CCI 572, au paragraphe 43 (1390758 Ontario).

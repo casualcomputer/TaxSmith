@@ -1,0 +1,313 @@
+---
+title: "Bishop v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29313/index.do"
+last_modified: "2009-07-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 323"
+citation2: ""
+neutral_citation: "2009 TCC 323"
+decision_date: "2009-07-15"
+language: "en"
+item_id: "29313"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7052
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:07:37.870000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8571cb840c401eae946fcbbb93d28ff20da8a537eac7b474a6c3cda90375c556"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bishop v. The Queen
+
+- Citation: 2009 TCC 323
+- Decision date: 2009-07-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7052, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bishop v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-15
+Neutral citation
+2009 TCC 323
+File numbers
+2009-141(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-141(IT)I
+BETWEEN:
+DARREN BISHOP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 2, 2009, at Moncton, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the Appellant:
+Sue Brown
+Counsel for the Respondent:
+Jill Chisholm
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act in respect of the 2004, 2005 and 2006 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, New Brunswick, this 15th day of July 2009.
+"François Angers"
+Angers J.
+Citation: 2009 TCC 323
+Date: 20090715
+Docket: 2009-141(IT)I
+BETWEEN:
+DARREN BISHOP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] In calculating his income tax liability for the 2004, 2005 and 2006 taxation years, the appellant deducted rental expenses of $24,862, $37,616 and $41,141 respectively. By Notices of Reassessment dated March 3, 2008, the Minister informed the appellant that amounts of $20,124, $32,730 and $35,192 had been disallowed as rental expenses for the respective taxation years. The appellant filed a Notice of Objection but the reassessments were later confirmed.
+[2] In 2001, the appellant purchased a house in Amherst, Nova Scotia, which consisted of two residential units, one of which was occupied by the appellant at the time of purchase. After purchasing the house, the appellant continued to reside in the lower unit that he occupied and he rented out the upper unit. From January to June 2006, the appellant did not live in the house, but the upper unit continued to be occupied by the tenants. The rent payments from the upper unit totalled $5,700, $4,750 and $5,850 in the 2004, 2005 and 2006 taxation years respectively. It is admitted that during the 2004, 2005 and 2006 taxation years only 50% of the house was used as a rental unit.
+[3] A breakdown of the claimed and the disallowed expenses for the three taxation years in question is reproduced below. At the hearing of the appeal, the appellant's representative informed the Court that the only issue before the Court was with respect to amounts under the maintenance and repair item for the three taxation years that were disallowed as current expenses by the Minister pursuant to paragraph 18(1)(a) of the Income Tax Act (the "Act").
+2004
+Claimed
+$
+Revised
+$
+Adjusted
+$
+Expenses
+Insurance
+Interest
+Maintenance and repair
+Motor vehicle
+Legal, accounting
+Property taxes
+Utilities
+Other
+Adjustment to agree
+777.00
+2,413.00
+28,872.00
+146.00
+265.00
+1,278.00
+2,931.00
+107.00
+2.36
+777.00
+1,888.44
+2,101.71
+146.00
+265.00
+1,278.92
+3,020.04
+0.00
+0.00
+0.00
+524.11
+26,770.29
+0.00
+0.00
+0.00
+-89.04
+107.00
+2.36
+Total expenses
+36,792.28
+9,477.56
+27,314.72
+Less: Personal portion (orig claimed 25%)
+11,930.28
+4,738.78
+7,191.22
+24,862.28
+4,738.78
+20,123.50
+2005
+Claimed
+$
+Revised
+$
+Adjusted
+$
+Expenses
+Insurance
+Interest
+Maintenance and repair
+Motor vehicle
+Legal, accounting
+Property taxes
+Salaries, wages
+Utilities
+Other
+Adjustment to agree
+799.00
+2,812.00
+41,755.00
+50.00
+366.00
+1,319.00
+238.00
+2,795.00
+440.00
+2.00
+799.00
+1,868.44
+2,160.79
+50.00
+366.00
+1,319.00
+0.00
+3,208.03
+0.00
+0.00
+0.00
+943.56
+39,594.21
+0.00
+0.00
+0.00
+238.00
+-413.03
+440.00
+2.00
+Total expenses
+50,576.00
+9,771.26
+40,804.74
+Less: Personal portion (orig claimed 25%)
+12,960.00
+4,885.63
+8,074.37
+37,616.00
+4,885.63
+32,730.37
+2006
+Claimed
+$
+Revised
+$
+Adjusted
+$
+Expenses
+Insurance
+Interest
+Maintenance and repair
+Motor vehicle
+Legal, accounting
+Property taxes
+Utilities
+Other
+Adjustment to agree
+1,060.00
+6,249.00
+48,613.00
+188.04
+70.00
+1,202.40
+3,793.00
+227.00
+1.56
+1,060.00
+3,861.97
+2,638.44
+188.04
+70.00
+1,202.40
+2,876.55
+0.00
+0.00
+0.00
+2,387.03
+45,974.56
+0.00
+0.00
+0.00
+916.45
+227.00
+1.56
+Total expenses
+61,404.00
+11,897.40
+49,506.60
+Less: Personal portion (orig claimed 33%)
+20,263.00
+5,948.70
+14,314.30
+41,141.00
+5,948.70
+35,192.30
+[4] The house in question was built toward the end of the second decade of the twentieth century and, at the time of its purchase by the appellant, needed to be updated and renovated, particularly in order to make each unit separate and self-contained. The appellant described the property as worn out. It had a cracked toilet and a slope in the ceiling; there were either no closets or no closet doors or the closet doors would not shut; steps had no railings; there was no escape route; there was a rusted tub, a rusted medicine cabinet, old electrical wiring and so on. The house had only one furnace with one thermostat for both units. There were no front steps, no back steps, old windows and plastered walls. In fact, the insurance coverage was going to be cancelled if changes were not made to the house. The insurance company wanted changes made to the furnace as it was too close to the flue; it wanted the windows changed, an entranceway built, new electrical wiring, new plumbing and a new oil tank put in, exterior repairs done, and so forth. In the appellant's words, the whole house was uninsurable.
+[5] The appellant began repairing the house in 2004, spending $26,770 that year. No invoice, contract or receipt was introduced in evidence, but from memory the appellant testified having spent $8,500 for new siding, $4,600 for windows, $5,500 to remove urea-formadelhyde foam insulation, approximately $500 to insulate and $3,300 in labour costs. The upstairs apartment had some of its windows replaced; some doors were repaired and some were replaced, closets were built, a new bathroom vanity was put in, floors were repaired, the plaster ceiling was replaced, the flue was repaired, and so on.
+[6] In 2005, more windows were changed in the upstairs apartment, more insulation was added and work was done in the basement. The furnace was replaced and the appellant had to install water heaters so that each unit was independent. He also updated the wiring and bought fixtures. The breakdown of costs from the appellant's recollection is $7,200 for the above work, to which amount he added $6,200 for repairing the basement floor, $5,500 more for windows, $1,200 to $1,400 for electrical work and $2,600 for separating the flue from the furnace and replacing part of the chimney.
+[7] In the fall of 2005, major flooding occurred in the upstairs apartment, which caused substantial damage to the entire house. It brought down the ceiling, buckled the floors and damaged kitchen cupboards and the electrical wiring. The plastered walls had to be changed; insulation and mould became an issue. The breakdown of the costs for repairing the flood damage was not given and no copies of invoices, contracts or receipts were introduced in evidence for the 2006 taxation year. In addition, the appellant is now involved in legal action regarding electrical work that was done and that cannot be certified.
+[8] The issue before this Court is whether the Minister properly classified the maintenance and repair expenses of the appellant for the three taxation years as capital expenditures.
+[9] Justice Lucie Lamarre in Brunet v. R., [2003] 2 C.T.C. 2020 summarizes and reviews as follows, in paragraph 13, 14, 15 and 16, the state of the law with regard to the determination of whether an expenditure is capital or current in nature:
+As stated by the Federal Court of Appeal in Donohue Normick Inc. c. R.,, 96 D.T.C. 6061 (Fed. C.A.), referred to by counsel for the respondent, each case is sui generis and no test is decisive in all cases when it comes to determining whether an expenditure is capital or current in nature. It is a question of fact and often a question of degree. The Federal Court of Appeal referred in Donohue to another Federal Court of Appeal case, Shabro Investment Limited v. R. (1979), 79 D.T.C. 5104 (Fed. C.A.). In that case Urie J. stated the following at page 5109:
+Perhaps the starting point in the determination of whether an expenditure is a capital one or an income one is the expression used by the Lord President in the case of Valambrosa Rubber Company, Limited v. Farmer, 5 TC 536 where he said:
+Now I don't say that this consideration is absolutely final or determinative, but in a rough way I think it is not a bad criterion of what is capital expenditure — as against what is income expenditure — to say that capital expenditure is a thing that is going to be spent once and for all, and income expenditure is a thing that is going to recur every year.
+As observed by Rowlatt, J. in Dunsworth v. Vickers, Limited (1915) 3 KB 267 no stress is placed on the words "every year". Rather "the real test is between an expenditure which is made to meet a continuous demand for expenditure, as opposed to an expenditure which is made once for all, to put it shortly". Thus it is a question of fact in each case and often a question of degree. It is the latter question which causes difficulty in characterization, i.e. frequently from one point of view the expenditure is simply one made to repair an existing asset not to renew, replace or improve it. All repairs involve to some degree, renewal and replacement of parts of the subject matter of the repair and, therefore, of necessity an improvement to the repaired structure, machine or whatever the subject matter is. That alone, it appears from the jurisprudence, is not sufficient to convert an expenditure for repairs to an income producing property from an income expenditure to a capital expenditure. The crucial question it appears [is] was the outlay such as to bring into existence a capital asset different from that which it replaced?
+In Canada Steamship Lines Ltd. v. Minister of National Revenue (1966), 66 D.T.C. 5205 (Ex. Ct.), President Jackett said the following at page 5207:
+Things used in a business to earn the income — land, buildings, plant, machinery, motor vehicles, ships — are capital assets. Money laid out to acquire such assets constitutes an outlay of capital. By the same token, money laid out to upgrade such an asset — to make it something different in kind from what it was — is an outlay of capital. On the other hand, an expenditure for the purpose of repairing the physical effects of use of such an asset in the business — whether resulting from wear and tear or accident — is not an outlay of capital. It is a current expense.
+In Marklib Investments II-A Ltd. v. R., [1999] T.C.J. No. 716 (T.C.C. [General Procedure]), Judge Brulé of this Court referred to the decision of the Quebec Court of Appeal in Québec (Sous-ministre du Revenu) c. Goyer, [1987] A.Q. No. 644, 1987 CarswellQue 122 (Que. C.A.) Judge Brulé states at paragraph 26:
+. . . in Le Sous-Ministre du Revenu du Québec c. Denise Goyer, [1987] A.Q. no 644, 1987 CarswellQue 122 [hereinafter Goyer], the Quebec Court of Appeal found that the replacement of decrepit balconies, plumbing, windows and doors did not constitute capital property but was rather components to capital property which only required repair, not replacement. Emphasis was placed on whether a new capital asset had been created. Justice Vallerand stated at paragraph 19:
+. . . as long as one is not creating new capital property, or causing the normal value of the property to be inflated, or replacing a property that has disappeared, then the work done will amount to repairs and maintenance in efforts to restore the property to its normal value.
+This principle is stated in Interpretation Bulletin IT-128R at paragraph 4, which reads as follows:
+4. The following guidelines may be used in determining whether an expenditure is capital in nature because depreciable property was acquired or improved, or whether it is currently deductible because it is in respect of the maintenance or repair of a property:
+(a) Enduring Benefit — Decisions of the courts indicate that when an expenditure on a tangible depreciable property is made "with a view to bringing into existence an asset or advantage for the enduring benefit of a trade", then that expenditure normally is looked upon as being of a capital nature. Where, however, it is likely that there will be recurring expenditures for replacement or renewal of a specific item because its useful life will not exceed a relatively short time, this fact is one indication that the expenditures are of a current nature.
+(b) Maintenance or Betterment — Where an expenditure made in respect of a property serves only to restore it to its original condition, that fact is one indication that the expenditure is of a current nature. This is often the case where a floor or a roof is replaced. Where, however, the result of the expenditure is to materially improve the property beyond its original condition, such as when a new floor or a new roof clearly is of better quality and greater durability than the replaced one, then the expenditure is regarded as capital in nature. Whether or not the market value of the property is increased as a result of the expenditure is not a major factor in reaching a decision. In the event that the expenditure includes both current and capital elements and these can be identified, an appropriate allocation of the expenditure is necessary. Where only a minor part of the expenditure is of a capital nature, the Department is prepared to treat the whole as being of a current nature.
+(c) Integral Part or Separate Asset — Another point that may have to be considered is whether the expenditure is to repair a part of a property or whether it is to acquire a property that is itself a separate asset. In the former case the expenditure is likely to be a current expense and in the latter case it is likely to be a capital outlay. For example, the cost of replacing the rudder or propeller of a ship is regarded as a current expense because it is an integral part of the ship and there is no betterment; but the cost of replacing a lathe in a factory is regarded as a capital expenditure because the lathe is not an integral part of the factory but is a separate marketable asset. Between such clear-cut cases there are others where a replaced item may be an essential part of a whole property yet not an integral part of it. Where this is so, other factors such as relative values must be taken into account.
+(d) Relative Value — The amount of the expenditure in relation to the value of the whole property or in relation to previous average maintenance and repair costs often may have to be weighed. This is particularly so when the replacement itself could be regarded as a separate, marketable asset. While a spark plug in an engine may be such an asset, one would never regard the cost of replacing it as anything but an expense; but where the engine itself is replaced, the expenditure not only is for a separate marketable asset but also is apt to be very substantial in relation to the total value of the property of which the engine forms a part, and, if so, the expenditure likely would be regarded as capital in nature. On the other hand, the relationship of the amount of the expenditure to the value of the whole property is not, in itself, necessarily decisive in other circumstances, particularly where a major repair job is done which is an accumulation of lesser jobs that would have been classified as current expense if each had been done at the time the need for it first arose; the fact that they were not done earlier does not change the nature of the work when it is done, regardless of its total cost.
+(e) Acquisition of Used Property — Where used property is acquired by a taxpayer and at the time of acquisition it requires repairs or replacements to put it in suitable condition for use, the cost of such work is regarded as capital in nature even though, in other circumstances, it would be treated as current expense.
+(f) Anticipation of Sale - Repairs made in anticipation of the sale of a property or as a condition of the sale are regarded as capital in nature. On the other hand, where the repairs would have been made in any event and the sale was negotiated during the course of the repairs, or after their completion, the cost should be classified as though no sale was contemplated.
+[10] The evidence as presented at trial leads me to the conclusion that the repairs and improvements that were made to the house during the three taxation years at issue were made to materially improve the house beyond its original condition. In fact, the repairs made to the house were substantial enough for one to say that, once they were completed, a totally different house was created that now could satisfy the requirements of the insurer, a house that, according to the evidence, was more secure and habitable. The expenditures made by the appellant were with a view to securing an enduring benefit (see Montreal Light, Heat and Power Consolidated v. M.N.R., [1942] S.C.R. 89). These expenditures brought into existence a capital asset different from that which it replaced. In fact, the appellant invested almost twice the amount paid for the house.
+[11] The evidence presented by the appellant is clearly insufficient to allow this Court to establish the exact amounts of the expenses incurred by the appellant for the work done on the house. The evidence presented also makes it impossible for the Court to determine whether any of these expenses may be categorized as current expenses. As argued by the counsel for the respondent, the only evidence indicating an outlay or expense of a current nature is the appellant's testimony that he had the upstairs carpet cleaned. No evidence as to the actual amount of that outlay was produced.
+[12] The appeals are therefore dismissed.
+Signed at Edmundston, New Brunswick, this 15th day of July 2009.
+"François Angers"
+Angers J.
+CITATION: 2009 CCI 323
+COURT FILE NO.: 2009-141(IT)I
+STYLE OF CAUSE: Darren Bishop v. Her Majesty the Queen
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: June 2, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: July 15, 2009
+APPEARANCES:
+Agent for the Appellant:
+Sue Brown
+Counsel for the Respondent:
+Jill Chisholm
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

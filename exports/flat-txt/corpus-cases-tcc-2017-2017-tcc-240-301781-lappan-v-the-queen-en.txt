@@ -1,0 +1,144 @@
+Title: Lappan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/301781/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-240-301781-lappan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-11-30
+
+# Lappan v. The Queen
+
+- Citation: 2017 TCC 240
+- Decision date: 2017-11-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7743, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lappan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-11-30
+Neutral citation
+2017 TCC 240
+File numbers
+2015-1890(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-1890(IT)I
+BETWEEN:
+WILLIAM LAPPAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 26, 2017, at Windsor, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+Agent for the Appellant:
+Dianne Lappan
+Counsel for the Respondent:
+April Tate
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act (Canada) for the Appellant’s 2009 and 2010 taxation years is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 30th day of November 2017.
+“B. Russell”
+Russell J.
+Citation: 2017TCC240
+Date: 20171130
+Docket: 2015-1890(IT)I
+BETWEEN:
+WILLIAM LAPPAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+[1] These are reasons for judgment in the informal procedure appeal of the Appellant, William Lappan, from reassessments raised April 16, 2012 by the Minister of National Revenue (Minister) of the Appellant’s 2009 and 2010 taxation years’ liabilities under the Income Tax Act (Canada) (Act). These reassessments disallowed donation tax credits per section 118.1 of the Act that he had claimed in the respective amounts of $19,340 and $15,252 for those two taxation years. He objected to these reassessments, which subsequently on April 16, 2012 the Minister confirmed.
+[2] The donation tax credits were denied on the Minister’s assumptions that the property ostensibly donated (corporate shares) was worthless despite the Appellant’s filing with the Minister of a charitable gift receipt stating that this property had a value of $35,000. The Minister also considered that in ostensibly donating the corporate shares, the Appellant had no “donative interest”. As well the Minister considered that in “donating” these corporate shares which the Minister considered as having no value, the Appellant had participated in a tax shelter scheme and had not reported prescribed information accordingly, including a tax shelter identification number.
+[3] More particularly, in this regard, in the Amended Reply at paragraphs 9(a) to (d) and 9(g) to (s) the Respondent pleaded assumptions made by the Minister, as follows:
+a) in 2009, the appellant earned income of $47,201, which was comprised of employment income of $27,378.30, employment insurance benefits of $4,848.00 and taxable capital gains of $14,975;
+b) in the ten years prior to the 2009 taxation year, the appellant’s total charitable donations was $0;
+Congregation of the Sisters of Merciful Jesus (the “Charity”)
+c) the Charity is a charitable organization in Hobbema, Albert;
+d) the Charity is based in Poland and the nuns are not elders of the Samson Indian band, nor any other Indian band;
+…
+Strategic Gifting Group
+g) Strategic Gifting Group (“Strategic”) was a sole proprietorship owned by Abraham Herbert Grossman (aka Al Grossman);
+h) between October, 2009 and February, 2011, Strategic ran an arrangement that was promoted to allow a participant to claim in his or her tax return, a charitable donation of four to twelve dollars for every dollar that he or she contributed (the “Strategic Scheme”);
+i) Strategic and/or its promoters promoted that a participant who was an Ontario resident would receive a return of approximately 46.41%;
+j) the Minister did not issue a tax shelter identification number in respect of Strategic;
+k) the appellant did not provide a tax shelter identification number with respect to the amounts claimed from as a result of his participation in the Strategic Scheme and he did not file a form T5004;
+l) the Strategic Scheme operated as follows:
+i. a participating taxpayer would make a cash donation to a participating charity;
+ii. a fictitious non-resident philanthropist would match the taxpayer’s donation and donate shares in Dixon Perrot & Champion Inc. (Dixon) to the taxpayer;
+iii. during the material time, Dixon was a Canadian corporation incorporated in Ontario and listed on the Open Market of the Frankfurt Stock Exchange;
+iv. the taxpayer donated the shares of Dixon to the charity to which he or she made the cash donation;
+v. the stated fair market value of the Dixon shares would be four to twelve times the value of the taxpayer’s cash donation;
+vi. if the taxpayer chose not to donate the Dixon shares to a participating charity, the shares would be subject to a compulsory hold period of five years;
+vii. the charity issued the taxpayer a donation receipt for the cash donation and for the predetermined, false value of the Dixon shares;
+viii. the charity returned 90% of the taxpayer’s cash donation to Strategic;
+ix. participating taxpayers who did not make a cash donation to the participating charity instead paid a fee to DSC Lifestyle Services;
+m) Dixon had negative retained earnings in the years ended October 31, 2007, 2008, 2009 and 2010;
+n) Dixon made its first public share offering on the Open market of the Frankfurt Stock Exchange on May 20, 2008;
+o) the Open Market of the Frankfurt Stock Exchange is not as a designated stock exchange;
+p) there was no market for the Dixon shares and they had no value;
+q) Strategic received $332,620 from the Strategic Scheme;
+The appellant’s participation in the Strategic Scheme
+r) the appellant entered into the following predetermined series of transactions in the 2009 taxation year:
+i. the appellant did not make a cash donation to the Charity;
+ii. the appellant paid a fee of $5,000 to DSC Lifestyle Services in exchange for being issued 11,041 common shares in Dixon;
+iii. on December 17, 2009, the appellant purported to donate the 11,041 Dixon shares to the Charity;
+iv. on January 12, 2010, the Charity issued the appellant a donation receipt in the amount of $35,000 for the 2009 taxation year, which represented the purported fair market value of the Dixon shares;
+v. from the $35,000 donation receipt issued, the appellant claimed $19,340 as a charitable gift to the Charity in the 2009 taxation year and claimed $15,252 as a charitable gift in the 2010 taxation year;
+s) on December 17, 2009, the Dixon shares that the appellant purported to donate to the Charity had no value;
+[4] To summarize the foregoing pleaded assumptions, it was the Minister’s view in raising the appealed reassessments that the Appellant had been approached by a representative of DSC Lifestyle Services (DSC) and encouraged to pay $5,000 to DSC, in return for which the Appellant would receive corporate shares which in due course when the DSC representative said so, the Appellant could “donate” to a particular charity identified by the DSC representative, and receive in return a charitable donation receipt stating a value four to twelve times the value of the originating $5,000 payment. The Minister’s view was that in fact the shares were of nil value.
+[5] In the evidence given by the Appellant and Mrs. Lappan respectively, none of the foregoing assumptions was effectively refuted. The Appellant did testify that he had had no expectation as to the amount that would be provided on the anticipated donation receipt from the charity that the DSC representative would designate. However in these circumstances I do doubt that the DSC representative to whom the Appellant had paid his $5,000 had not advised the Appellant that the tax credit value of the gifting donation receipt he ultimately would receive would well exceed the value of his initiating $5,000 payment. I believe otherwise he would not have made this $5,000 payment, noting also that that payment was not itself made to the Charity, but rather, directly to DSC. My view in this regard is based on objective reality. Also, the Appellant’s evidence was that the DSC representative gave him no choice as to which charity to eventually donate his shares, and he was not to donate until the DSC representative told him to. The Appellant testified also, in cross-examination, that he had taken no steps to confirm the $35,000 valuation shown on the Charity’s donation receipt.
+[6] The Respondent called as a witness Gary Huenemader, who was the Canada Revenue Agency (CRA) team leader in charge of the charity audit involving activities of Strategic Gifting, leading the Minister to conclude this was a non-registered tax shelter. His evidence in general substantiated the Minister’s assumptions. Also, the Respondent filed affidavits with which the Appellant was familiar from pre-trial case management conferences and in respect of which the Appellant had had opportunity to cross-examine if and as wished. These affidavits included those of Bette Anne Spears and James Moon. The Spears affidavit (Ex. R-9) was sworn March 30, 2016 by Ms. Bette Anne Spears, a chartered business valuator employed as a business valuator with CRA. Attached as an exhibit to her affidavit was her Estimate Valuation Report dated March 19, 2016. It reflected the conclusion that on December 31, 2009 the fair market value of shares of Dixon, Perot & Champion Inc. was $0.01 per share.
+[7] The Moon affidavit (Ex. R-10) was that of Mr. James Moon sworn April 8, 2016, he as president and chief executive officer of All Group Financial Services Inc. in Toronto, Ontario (All Group). All Group was described as an independent investment dealer serving both retail and institutional clients. Its business includes equity sales, trading in securities and investment banking. At paragraph 10 of the affidavit it is stated that: “In contemplation of recording an opening value for such shares [of Dixon, Perot & Champion Inc.] in the Charity’s account, we made a determination that the Dixon shares had a value of NIL” The affidavit elaborates as to how All Good reached that view.
+[8] The issues presented were:
+a) what was the fair market value of the so-called Dixon shares at December 17, 2009;
+b) did the Appellant have donative intent;
+c) was the Strategic Gifting plan a tax shelter and if so did the Appellant breach subsection 237.1(6) of the Act in failing to report any tax shelter identification number.
+[9] Turning to the first issue - whether the fair market value of the aforementioned shares on date of transfer was $35,000 as reported to the Minister by the Appellant - the Minister made the above-noted assumption (paragraph 9(s) of the Amended Reply) that:
+…on December 17, 2009, the Dixon shares that the appellant purported to donate to the Charity had no value;
+[10] It is well established that the onus is on the taxpayer to rebut assumptions of the Minister (other than where the assumption is within the particular knowledge of the Minister, or the particular assessment is of a penalty, or relates to a “statute-barred year”) with the underlying factual issues ultimately to be determined on the basis of a balance of probabilities. This is because it is presumed that a taxpayer has greater knowledge of his/her/its tax relevant factual circumstances than does the Minister. In the hearing of this appeal the Appellant brought no evidence to displace the Minister’s assumption that the fair market value of the corporate shares the Appellant claimed as having been donated to the Charity on December 17, 2009 was nil; as opposed to the $35,000 value shown on Mr. Lappan’s donation receipt, or any lesser value exceeding nil. Although not necessary, I note also in respect of this conclusion the Respondent’s evidence in the form of the Spears and Moon affidavits referred to above. Also I note the Appellant’s testimony, referred to above, that he had done nothing to confirm the purported $35,000 value of these shares that he ostensibly had donated to the Charity.
+[11] Accordingly on this issue the Respondent is successful - the Minister’s assumption that the “donated” corporate shares generating the $35,000 gift donation receipt in fact had a fair market value of nil has not been rebutted. Thus it stands. There was no gift valued at $35,000 or any lesser sum exceeding a fair market value of nil. The available tax credit for purposes of section 118.1 of the Act is determined on the basis of the fair market value of the donated property, which here is nil. The Appellant’s appeal therefore fails on this point alone.
+[12] In light of this conclusion, that the “donated” property had no value, in the circumstances of this informal appeal I do not consider it necessary to also address the remaining two argued issues – whether there was “donative intent” and whether the herein circumstances denote a tax shelter in respect of which the Appellant provided no tax shelter information number, as required by subsection 237.1(6) of the Act.
+[13] On the basis of Mr. Lappan’s failure on the basic issue of the fair market value of the property he purported to donate (that value being nil), this appeal is dismissed. The dismissal is without costs, as this is an informal procedure appeal and I am not prepared to conclude per subsection 10(2) of the Tax Court of Canada Rules (Informal Procedure) that in pursuing this appeal the Appellant delayed its prompt and effective resolution.
+Signed at Ottawa, Canada, this 30th day of November 2017.
+“B. Russell”
+Russell J.
+CITATION:
+2017TCC240
+COURT FILE NO.:
+2015-1890(IT)I
+STYLE OF CAUSE:
+WILLIAM LAPPAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+June 26, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+November 30, 2017
+APPEARANCES:
+Agent for the Appellant:
+Dianne Lappan
+Counsel for the Respondent:
+April Tate
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

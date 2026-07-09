@@ -1,0 +1,150 @@
+---
+title: "Caouette c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27977/index.do"
+last_modified: "2007-07-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 497"
+citation2: ""
+neutral_citation: "2007 TCC 497"
+decision_date: "2007-07-13"
+language: "en"
+item_id: "27977"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1824
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:55:32.041000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "502f905aa24dce0497aa1d442fa6ba312d2a361d4f7455fd0541bdfc2a75d104"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Caouette c. La Reine
+
+- Citation: 2007 TCC 497
+- Decision date: 2007-07-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1824, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Caouette c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-13
+Neutral citation
+2007 TCC 497
+File numbers
+2007-1344(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1344(IT)I
+BETWEEN:
+FRANCINE CAOUETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 13, 2007, at Trois-Rivières, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2004 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of September 2007.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 11th day of October 2007.
+Daniela Possamai, Translator
+Citation: 2007TCC497
+Date: 20070910
+Docket: 2007-1344(IT)I
+BETWEEN:
+FRANCINE CAOUETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal, filed under the informal procedure, from an assessment made by the Minister of National Revenue (the Minister) under the Income Tax Act (the Act) for the Appellant’s 2004 taxation year. By notice of reassessment dated September 25, 2006, the Minister disallowed the Appellant’s deduction of employment expenses related to a car. The Appellant duly objected to the reassessment on October 23, 2006 and, on February 8, 2007, the Minister confirmed the reassessment.
+[2] During the relevant period, the Appellant worked for the Canada Post Corporation (the employer) as a letter carrier. The Appellant had to use her car in the performance of the duties of the employment. Therefore, to deliver the mail, the Appellant had to travel about 47 kilometres a day with her car, a route that required 340 stops. The Appellant was also required, under her contract of employment, to incur the expenses related to the use of her car in the performance of the duties of the employment. In 2004, the Appellant received an allowance of $4,380 from her employer as compensation for the expenses she incurred for the use of her car. The allowance is paid at a rate of 42¢ for the first 5,000 kilometres and 36¢ for the subsequent 6,335 kilometres travelled. That allowance was not included in computing the Appellant’s income for the 2004 taxation year as income from employment.
+[3] The Appellant testified that the expense of $2,352 she claimed in computing her income for the 2004 taxation year as income from employment represented expenses related to the use of her car which were not reimbursed by her employer. The Appellant explained that she set expenses related to the use of her car to deliver the mail at $6,683 in 2004 by simply multiplying the total amount of expenses related to her car for 2004 by the percentage of the use of the car in 2004 to deliver the mail. The Appellant also explained that she recently carried out a more detailed analysis of the expenses related to the use of her car to deliver the mail. Owing to that analysis, she came to the conclusion that the method she used in 2004 to determine the costs related to the use of her car to deliver the mail was unfavourable to her in that the cost per kilometre for the use of her car to deliver the mail was much higher in 2004 than the cost per kilometre for personal use because of the 30 stops and departures per kilometre she had to make to deliver the mail, stops and departures that also led to a very high fuel consumption and premature wear and tear on her car. The Appellant claimed that the actual costs for the use of her car in the performance of the duties of the employment in 2004 were $9,266 rather than $6,683. In that regard, the Appellant submitted some receipts (Exhibit A‑5) to support her claim. I can understand that the cost per kilometre for the use of the car to deliver the mail can be higher than the cost per kilometre for personal use. However, the Appellant did not convince me of the actual cost of the expenses related to the use of her car to deliver the mail. In fact, the Appellant’s evidence in that respect was scanty at best.
+[4] The Appellant submits that the allowance paid by her employer in 2004 was clearly insufficient and therefore unreasonable in that it did not even cover half of the total expenses related to the use of her car in the performance of the duties of the employmentand that, thus, she was entitled to claim, in computing the income for the 2004 taxation year as income from employment an expense of $2,352 which represents a portion of the expenses not reimbursed by her employer.
+[5] The Respondent essentially submits that the Appellant could not, under paragraph 8(1)(h.1) of the Act, deduct the expense of $2,352 in computing the income for the 2004 taxation year as income from employment, as in 2004 she received an allowance for motor vehicle travel expenses which was not included in computing her income for that taxation year.
+[6] The relevant provisions of the Act read as follows:
+6(1) Amounts to be included as income from office or employment — There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable
+. . .
+(b) Personal or living expenses — all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except
+. . .
+(vii.1) reasonable allowances for the use of a motor vehicle received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling in the performance of the duties of the office or employment,
+8(1) Deductions allowed — In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+. . .
+(h.1) Motor vehicle travel expenses — where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from
+the employer's place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred
+in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+[Emphasis added.]
+[7] It is plain from paragraph 8(1)(h.1) of the Act that a taxpayer may deduct, in computing his or her income for a taxation year from employment, vehicle expenses incurred for travelling if the following conditions are met:
+(i) the taxpayer is ordinarily required to carry on the duties of the office or employment away from the employer's place of business or in different places;
+(ii) the taxpayer was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the employment;
+(iii) the taxpayer must have incurred the travel expenses deducted in the course of the employment.
+In the case at bar, all the expenses incurred by the Appellant meet those three conditions.
+[8] However, paragraph 8(1)(h.1) of the Act provides that such a deduction cannot be claimed by the taxpayer if he or she received an allowance that was, because of paragraph 6(1)(b), not included in computing the taxpayer's income for the year. Subparagraph 6(1)(b)(vii.1) of the Act provides that there shall not be included in computing the income of a taxpayer for a taxation year as income from employment, reasonable allowances for the use of a motor vehicle received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling in the performance of the duties of the employment.
+[9] In my opinion, the provisions of the Act demonstrate that a taxpayer cannot deduct expenses related to the use of his or her car in the performance of the duties of the employment if he or she received an allowance covering the travel expenses, unless that allowance is unreasonable and included in computing the taxpayer's income for the year. That position seems to be consistent with that set out in Brunet v. Canada, 2003 TCC 642. However, one must not automatically conclude that when an employee receives a reasonable allowance that is not included in computing his or her income, that employee cannot deduct expenses related to the use of his or her car in the performance of the duties of the employment. In fact, I am of the opinion that an employee may deduct expenses vehicle travel expenses not covered by the allowance paid by his or her employer, but nevertheless incurred in the performance of the duties of the employment, even if he or she receives a reasonable allowance covering a portion of his or her travel expenses that is not included in computing the taxpayer's income as income from employment. For instance, an employee who is required, as part of his or her job, to travel 40,000 kilometres in a given year with his or her car and to whom, for whatever reason, the employer pays a reasonable allowance covering only 10,000 of the 40,000 kilometres travelled reserves, in my opinion, the right to deduct vehicle travel expenses in respect of the 30,000 kilometres for which he or she does not receive any allowance from the employer, even if the reasonable allowance he or she receives from the employer for the 10,000 kilometres is not included in computing his or her income. That position seems consistent with that set out in Evans v. Canada, T.C.C., No. 97‑2588(IT)I, November 23, 1998, [1998] T.C.J. No. 1055 (QL), and is not necessarily contrary to that set out in Brunet, supra.
+[10] In this case, the evidence revealed that, in 2004, the Appellant received an allowance covering all her travel expenses and that she did not include that allowance in computing her income for that year. Accordingly, she could not deduct the expense of $2,352 she claimed in computing her income for the 2004 taxation year as income from employment. In fact, I am of the opinion that when a taxpayer receives a reasonable allowance covering all his or her travel expenses, under no circumstances can he or she deduct, under subsection 8(1)(h.1) and paragraph 6(1)(b)(vii.1) of the Act, expenses not covered by that allowance. Conversely, to the extent that the taxpayer were to demonstrate that the allowance is unreasonable, he or she could deduct all his or her travel expenses, provided that he or she includes the allowance received from the employer in computing his or her income for that given year as income from employment. In other words, the Appellant could have deducted all expenses related to the use of her car in the performance of the duties of the employment had she demonstrated that the allowance paid by her employer was unreasonable and had she included that allowance in computing her income for the 2004 taxation year as income from employment. Again, the Appellant would have had to demonstrate both the actual cost of the expenses related to the use of her car to deliver the mail and that the allowance received by the employer was unreasonable, which she did not do in this case.
+[11] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 10th day of September 2007.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 11th day of October 2007.
+Daniela Possamai, Translator
+CITATION: 2007TCC497
+COURT FILE NO.: 2007-1344(IT)I
+STYLE OF CAUSE: Francine Caouette and Her Majesty the Queen
+PLACE OF HEARING: Trois-Rivières, Quebec
+DATE OF HEARING: July 13, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: September 10, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,72 @@
+Title: Karlsson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25164/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-629-25164-karlsson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-11-20
+
+# Karlsson v. The Queen
+
+- Citation: 2006 TCC 629
+- Decision date: 2006-11-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2577, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Karlsson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-20
+Neutral citation
+2006 TCC 629
+File numbers
+2005-1958(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC629
+Date: 20061120
+Docket: 2005-1958(IT)I
+BETWEEN:
+RAIJA ANITA KARLSSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+For the Appellant: No one appeared
+Counsel for the Respondent: Shawna Cruz
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on
+September 15, 2006, at Vancouver, British Columbia.)
+Miller J.
+[1] Normally I am very hesitant in granting such applications to deny a taxpayer their day in Court, but under these circumstances, with two prior adjournments, with the matter being set down on a peremptory basis I am prepared to grant your application and I will dismiss this case. Ms. Karlsson will be advised that she does have an opportunity to appeal my decision. That will be her call, whether she wants to continue this litigation.
+[2] I grant you your request, and the appeal is dismissed. Thank you.
+Signed at Ottawa, Canada, this 20th day of November 2006.
+"Campbell J. Miller"
+Miller J.
+CITATION: 2006TCC629
+COURT FILE NO.: 2005-1958(IT)I
+STYLE OF CAUSE: Raija Anita Karlsson and
+Her Majesty The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 15, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: September 20, 2006
+APPEARANCES:
+For the Appellant:
+No one appeared
+Counsel for the Respondent:
+Shawna Cruz
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

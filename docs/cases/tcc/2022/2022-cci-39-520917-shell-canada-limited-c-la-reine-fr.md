@@ -1,0 +1,440 @@
+---
+title: "Shell Canada Limited  c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520917/index.do"
+last_modified: "2022-03-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 39"
+citation2: ""
+neutral_citation: "2022 CCI 39"
+decision_date: "2022-03-31"
+language: "fr"
+item_id: "520917"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4483
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:08:28.359000+00:00"
+cases_cited_count: 13
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ed74f99db276369d6faccf583ef70186758688b4a46b87777b4a7bc0129ca96d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shell Canada Limited  c. La Reine
+
+- Citation: 2022 CCI 39
+- Decision date: 2022-03-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4483, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shell Canada Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-03-31
+Référence neutre
+2022 CCI 39
+Numéro de dossier
+2019-3605(IT)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+2019-3605(IT)G
+ENTRE :
+SHELL CANADA LIMITÉE
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 22 septembre 2021, à Calgary (Alberta)
+Observations écrites reçues le 1er octobre 2021.
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocats de l’appelante :
+Me Peter Rubin
+Me Robert Kopstein
+Avocate de l’intimée :
+Me Carla Lamash
+ORDONNANCE
+Voici le préambule joint à la présente ordonnance :
+L’appelante a déposé la présente requête en confidentialité, en application de l’article 16.1 des Règles de la Cour canadienne de l’impôt (procédure générale), à l’égard :
+(i)de 58 documents (les « documents en cause ») qui sont décrits dans la liste de documents de l’appelante ainsi que dans l’annexe jointe;
+(ii)de l’affidavit (l’« affidavit ») souscrit par Stefan Vos de Wael le 11 mars 2021 et déposé auprès de notre Cour le 30 mars 2021;
+(iii)des observations écrites de l’appelante (les « observations ») datées du 22 septembre 2021 et déposées la même date.
+L’intimée ne s’est pas opposée à la présente requête, mais elle n’y a pas non plus consenti, dans la mesure où elle se rapporte aux documents en cause. Cependant, l’intimée soutient que l’ordonnance de confidentialité ne devrait pas viser l’affidavit ou les observations.
+Dans sa lettre datée du 1er octobre 2021, l’appelante a retiré sa demande visant à obtenir une ordonnance de confidentialité concernant l’affidavit et les observations.
+Comme cela est expliqué dans les motifs ci-joints, l’appelante a satisfait aux critères d’octroi d’une ordonnance de confidentialité à l’égard des documents en cause.
+LA COUR ORDONNE :
+La requête est accueillie, en partie, et la présente ordonnance est rendue concernant les documents en cause (mais pas concernant l’affidavit ou les observations), sous réserve des modalités et conditions énoncées dans les paragraphes qui suivent.
+Chacun des documents en cause (et ses copies) doit être scellé et considéré comme confidentiel, qu’il soit en la possession de l’intimée, du greffe de notre Cour ou du personnel de notre Cour. Plus précisément, chacun de ces documents est gardé sous scellé dans le dossier de la Cour, est accompagné d’une copie de la présente ordonnance et n’est rendu accessible qu’à notre Cour et à son personnel.
+Aucune partie ne doit déposer auprès de notre Cour une copie d’un document en cause ou une partie de celui-ci, sauf si la copie de ce document ou une partie de celui-ci est déposée :
+(a)sous scellé;
+(b)d’une manière qui indique au greffe de notre Cour que la copie du document en cause, ou une partie de celui-ci est déposée aux termes de la présente ordonnance.
+Sans limiter la portée générale du paragraphe 241(1) de la Loi de l’impôt sur le revenu, il est entendu que l’intimée ne doit pas transmettre les documents en cause (y compris leurs copies) ou les utiliser en dehors du cadre du présent appel.
+Dès que le présent appel (y compris les appels interjetés à l’encontre de la décision ultime rendue par notre Cour à l’égard du présent appel) est tranché, l’avocate de l’intimée devra détruire toutes les copies et tous les extraits des documents en cause qui sont en la possession de l’intimée et elle devra ensuite en informer rapidement notre Cour et l’appelante.
+Il est entendu que notre ordonnance n’exclut pas le public de la salle d’audience lors de l’instruction du présent appel ou de toute requête connexe, et qu’elle n’impose pas une interdiction de publication concernant l’instruction du présent appel ou l’audition de toute requête connexe.
+La présente ordonnance n’est pas opposable au juge qui entendra le procès, qui restera libre dans la prise en charge ou la gestion des documents en cause et qui pourra, le cas échéant, rendre une ordonnance contraire à la présente ordonnance.
+Aucuns dépens ne sont adjugés pour la requête en l’espèce.
+Signé à Ottawa, Canada, ce 30e jour de mars 2022.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 4e jour de juillet 2022.
+François Brunet, réviseur
+ANNEXE
+Les 58 documents en cause sont regroupés et énumérés ci-dessous. Les groupes et leurs intitulés sont expliqués dans les motifs ci-joints. Le numéro attribué à chaque document en cause est celui attribué à ce document dans la liste de documents de l’appelante.
+Groupe A : Documents exclusifs sur l’évaluation des risques
+16.
+Proposition d’investissement du groupe
+117.
+Portefeuille de la division Upstream Americas Onshore, proposition d’investissement du groupe
+135.
+Proposition de cession
+Groupe B : Renseignements exclusifs sur les projets en cours
+57.
+Présentation : Recommandations
+58.
+Présentation : Mise à jour sur le captage du carbone pour l’Est du Canada
+59.
+Présentation : Projet de captage de carbone
+60.
+Présentation : Possibilités de captage de carbone de la phase 2
+61.
+Courriel : TR : Dernier avis de changement de la procédure de transformation en gaz naturel liquéfié (GNL), avec pièce jointe 61.1
+62.
+Courriel : Suivi : Exportation de GNL dans l’Ouest canadien et location/vente du 16 décembre avec la pièce jointe 62.1
+63.
+Courriel : GNL dans l’Ouest canadien, avec les pièces jointes 63.1, 63.2, 63.3, 63.4
+64.
+Présentation : Aperçu
+67.
+Courriel : Offre d’actifs de PetroChina International, avec pièce jointe 67.1
+71.
+Mise à jour après la réunion du 12 mars 2010
+72.
+Projet Index, Conseil d’examen des décisions
+74.
+Proposition du groupe pour entamer des négociations (Projet Index – Dilution dans l’Ouest canadien)
+76.
+Mémoire : Statut du projet Index et plan prévisionnel
+80.
+Présentation : Projet de captage de carbone, mandat
+81.
+Courriel : Dossier de projets Index pour le Conseil d’examen des décisions du 9 juin, avec pièce jointe 81.1
+90.
+Présentation : Possibilités d’exploitation gazière dans l’Ouest canadien
+93.
+Présentation : Projet Index : Évaluation des soumissions
+94.
+Présentation : Lancement du projet INDEX II
+96.
+Présentation : Mise à jour du projet Index
+98.
+Courriel : Avis de changement de la procédure de transformation concernant le projet Index 2, avec pièce jointe 98.1
+99.
+Présentation : Index – Évaluation de l’offre
+100.
+Courriel : Mise à jour du projet Index
+101.
+Présentation : Projet Index : Conseil d’examen des décisions no 3
+102.
+Présentation : Conseil d’examen des décisions concernant le projet Fulcrum
+106.
+Présentation : Vente de Shell dans l’Ouest canadien
+108.
+Index – Réflexions sur la structure de l’entente tenant compte de la capacité de gain
+111.
+Présentation : Planification prévisionnelle
+112.
+Structure des opérations relatives aux projets Index et Fulcrum
+114.
+Note d’information sur la réunion
+115.
+Présentation : Conseil d’administration du projet Groundbirch concernant la dilution
+116.
+Procès-verbal d’une réunion du conseil d’administration
+118.
+Proposition de cession du groupe (projet Rabbit)
+119.
+Coopération canadienne – projets Fulcrum, Charlie, Index, Groundbirch Opportunity et LNG en C.-B.
+Groupe C : Ententes et correspondance avec des tiers – LNG
+65.
+Entente sur des études conjointes
+66.
+Entente de confidentialité
+68.
+Lettre concernant un partenariat stratégique
+69.
+Entente concernant les paramètres économiques utilisés dans l’étude du projet LNG dans l’Ouest canadien
+73.
+Lettre : Description des biens à vendre et propositions de procédures
+77.
+Lettre : Ébauche d’une entente concernant la vente de participations
+78.
+Lettre : Déclaration d’intérêt à l’égard de la formation Montney
+79.
+Lettre : Lettre d’intention de participation dans des actifs provenant de la formation Montney
+84.
+Modification du 18 janvier 2010 de l’entente sur des études conjointes
+91.
+Entente de confidentialité
+97.
+Nouvelle entente avec les principales parties
+Groupe D : Ententes et correspondance avec des tiers – Coentreprise Groundbirch
+105.
+Protocole d’entente
+107.
+Protocole d’entente intégré et alliance stratégique dans l’Ouest canadien – Pétrole et gaz
+109.
+Lettre d’intention concernant la zone d’aménagement à Groundbirch et ses environs
+110.
+Lettre d’intention concernant l’échange d’actifs canadiens de sables bitumineux
+121.
+Entente sur la gestion de la production de systèmes de collecte à Groundbirch entre Shell Canada Energy et Shell Canada Amont
+123.
+Entente d’exploitation conjointe à Groundbirch entre Shell Canada Energy et Shell Canada Amont
+125.
+Entente sur la vente de participations
+127.
+Lettre : Entente concernant la vente de participations
+129.
+Système de collecte à Groundbirch, entente modifiée et reformulée sur la gestion de la production
+130.
+Entente modifiée et reformulée d’exploitation conjointe à Groundbirch
+134.
+Entente sur une alliance internationale
+Référence : 2022 CCI 39
+Date : Le 31 mars 2022
+Dossier : 2019-3605(IT)G
+ENTRE :
+SHELL CANADA LIMITÉE
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Sommerfeldt
+I. INTRODUCTION [1] Les présents motifs concernent la requête (la « requête ») déposée par Shell Canada Limitée (« Shell ») en confidentialité, en application de l’article 16.1 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »). Bien qu’en majeure partie, la Couronne ne se soit pas opposée à la requête de Shell, elle n’y a pas consenti.
+[2] Les seuls éléments de preuve présentés lors de l’audition de cette requête étaient l’affidavit (l’« affidavit ») de Stefan Vos de Wael, qui est le directeur général commercial de la division Gaz intégré de Shell Canada[1]. Il est employé par l’organisation Shell (comme l’a expliqué M. Vos de Wael dans l’affidavit) depuis 24 ans. L’avocate de la Couronne n’a pas contre-interrogé M. Vos de Wael concernant l’affidavit. Je n’ai aucune raison de douter de la véracité des déclarations faites par M. Vos de Wael dans l’affidavit[2].
+II. CONTEXTE FACTUEL [3] Shell et les membres de son groupe (collectivement, le « groupe Shell ») ont noué des relations d’affaires avec d’autres grandes entreprises énergétiques. En 2012, un ou plusieurs membres du groupe Shell ont établi deux coentreprises (les « coentreprises ») avec plusieurs autres participantes, afin de produire du gaz naturel liquéfié (« GNL »)[3]. L’une de ces coentreprises, appelée « projet LNG Canada », concerne la construction d’une installation de liquéfaction de gaz naturel sur la côte de la Colombie-Britannique, pour faciliter l’exportation de GNL[4], en particulier vers les pays d’Asie.
+[4] Comme le marché cible était l’Asie, Shell a choisi de favoriser des liens avec des entités qui participent aux marchés gaziers en Asie et qui offrent un accès à ceux-ci, qui possèdent une expertise mondiale dans le domaine du GNL, ainsi que du pétrole et du gaz et qui ont des ressources financières importantes[5].
+[5] Les participations respectives des participantes au projet LNG Canada sont :
+a)une participation de 40 % appartenant à Shell Canada Energy, une société canadienne dont les participations ou les parts appartiennent exclusivement à des entités du groupe Shell[6];
+b)une participation de 25 % appartenant à une ou plusieurs filiales canadiennes de Petroliam Nasional Berhad (« Petronas »), qui est une société malaisienne que l’État malais possède et contrôle[7];
+c)une participation de 15 % appartenant à une ou plusieurs filiales canadiennes de PetroChina Company Limited (« PetroChina »), qui est une société publique chinoise dont l’actionnaire contrôlant est China National Petroleum Corporation, une entreprise d’État de la République populaire de Chine[8];
+d)une participation de 15 % appartenant à une ou plusieurs filiales canadiennes de Mitsubishi Corporation (« Mitsubishi »), qui est une société publique japonaise[9];
+e)une participation de 5 % appartenant à une ou plusieurs filiales canadiennes de Korea Gas Corporation (« Kogas »), qui est une société coréenne que le gouvernement de la République de Corée possède et contrôle[10].
+[6] Le projet LNG Canada consiste à [traduction] « fournir son propre combustible », ce qui signifie que chaque participant est lui-même responsable de l’approvisionnement en gaz naturel aux fins de traitement dans l’installation de GNL[11]. La nécessité de fournir son propre gaz naturel a incité Shell et PetroChina à constituer une deuxième coentreprise.
+[7] La deuxième coentreprise, appelée la « coentreprise de Groundbirch », qui est formée par Shell et PetroChina (ou les membres de leur groupe ou filiales), se rapporte à l’aménagement de certains biens comportant du gaz naturel (les « biens de Groundbirch ») en Colombie-Britannique qui serviront de charge d’alimentation en gaz naturel pour satisfaire aux obligations de Shell et de PetroChina relativement au projet LNG Canada[12]. Pour acquérir sa participation dans la coentreprise de Groundbirch, en janvier 2012, PetroChina a planifié l’achat par ses filiales canadiennes en propriété exclusive de la participation de Shell dans une société du nom de Shell Canada Amont (« SCA »)[13].
+[8] Les cinq participantes au projet LNG Canada étant non seulement des mandataires communs à l’égard de ce projet, mais aussi des concurrentes à d’autres égards, elles sont chacune désireuses de garder confidentiels leurs renseignements. Plus précisément, Shell et PetroChina refusent que Petronas, Mitsubishi ou Kogas connaissent les détails concernant la coentreprise de Groundbirch[14]. Afin de favoriser la protection de la confidentialité, les participantes aux coentreprises ont conclu plusieurs ententes de confidentialité et ont inclus des clauses ou conditions de confidentialité dans d’autres ententes relatives aux opérations[15]. En outre, Shell s’attend à ce que ses employés, administrateurs et dirigeants maintiennent la confidentialité de ses secrets commerciaux et d’autres renseignements confidentiels et elle l’exige[16].
+III. CONTEXTE PROCÉDURAL [9] Du fait de la vente à PetroChina de sa participation dans la société SCA au cours de l’année d’imposition se terminant le 31 décembre 2012, Shell a réalisé une perte en capital (la « perte en capital ») que Shell a reportée à son année d’imposition se terminant le 29 décembre 2009. En s’appuyant sur la règle générale anti-évitement prévue par l’article 245 de la Loi de l’impôt sur le revenu (la « LIR »),[17] le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de Shell pour refuser la perte en capital et le report de la perte en capital nette connexe[18]. La nouvelle cotisation (la « nouvelle cotisation ») qui fait l’objet du présent appel se rapporte à l’année d’imposition 2009[19].
+[10] Pour s’acquitter du fardeau de prouver que la réalisation de la perte en capital n’était pas une opération d’évitement et attaquer l’argument du ministre selon lequel la vente de la participation dans SCA et les opérations connexes constituaient un abus de la LIR ou entraînaient directement ou indirectement un abus, Shell a établi qu’elle devra communiquer des documents confidentiels[20]. Pour veiller à ce que Shell ne manque pas à ses obligations de confidentialité envers les autres membres des coentreprises et pour s’assurer que des renseignements confidentiels ne soient pas communiqués aux concurrentes de Shell et des autres participantes aux coentreprises, Shell a déposé la présente requête en confidentialité aux termes de l’article 16.1 des Règles.
+[11] La présente requête vise l’obtention d’une ordonnance exigeant que les 58 documents (les « documents en cause ») énumérés à l’annexe A de l’affidavit soient considérés comme des documents confidentiels et qu’ils le demeurent. Les documents en cause ont été inclus dans la liste de documents de Shell et ont été communiqués à la Couronne par Shell, dans le cadre du processus de l’interrogatoire préalable[21]. Shell ne cherche ni à empêcher la Couronne d’accéder aux documents en cause[22] ni à limiter l’utilisation de ceux-ci lors de l’instruction du présent appel. En revanche, Shell veut s’assurer qu’un concurrent ne peut pas accéder aux documents en cause en effectuant une recherche au greffe de notre Cour.
+[12] L’annexe A de l’affidavit divise les documents en cause en quatre groupes de la manière suivante :
+(a)Le groupe A, qui contient trois des documents en cause, est intitulé [traduction] « Documents exclusifs sur l’évaluation des risques ». Les documents de ce groupe sont exclusifs et sont désignés à l’interne [traduction] « comme les ‘propositions d’investissement du groupe’ et les ‘propositions de cession du groupe’ qui sont destinées à officialiser le processus de gouvernance interne du groupe Shell relativement à la gestion des risques et à la prise de décisions ». Ces documents exposent les mesures d’évaluation des projets du groupe Shell [traduction] « utilisées pour examiner, évaluer les risques, classer, évaluer et rejeter ou recommander des occasions d’affaires auprès de la haute direction et du conseil d’administration aux fins de décisions portant sur l’approbation du capital, du fonctionnement et du financement »[23].
+(b)Le groupe B, qui contient 33 des documents en cause, est intitulé [traduction] « Renseignements exclusifs sur les projets en cours ». Les documents de ce groupe contiennent des renseignements financiers et commerciaux et relatifs à l’organisation, qui concernent les autres participantes aux coentreprises ainsi que les ententes commerciales entre le groupe Shell et ces autres participants, notamment les efforts de commercialisation déployés par le groupe Shell et sa vision stratégique à l’égard de ces participantes. Certains des documents de ce groupe révèlent les conditions économiques ou les clauses contractuelles que les parties ont incluses ou qu’elles ont expressément refusé d’inclure dans leurs ententes entre elles. Si ces documents devenaient accessibles aux concurrentes du groupe Shell ou des autres participantes aux coentreprises, le groupe Shell ou ces participantes seraient désavantagés[24].
+(c)Le groupe C, qui contient 11 des documents en cause, est intitulé [traduction] « Ententes et correspondance avec des tiers – LNG Canada ». Les documents de ce groupe portent sur les relations entre le groupe Shell et les participantes au projet LNG Canada et concernent non seulement cette coentreprise, mais aussi d’autres ententes contractuelles conclues avec ces parties. Les documents de ce groupe révèlent la façon dont les parties ont négocié diverses questions économiques et commerciales. Si ces documents étaient accessibles aux concurrentes, cela aurait une incidence défavorable sur la position de Shell ou d’autres participantes aux coentreprises lors de futures négociations avec elles ou d’autres concurrentes[25].
+(d)Le groupe D, qui contient 11 des documents en cause, est intitulé [traduction] « Ententes et correspondance avec des tiers – coentreprise Groundbirch ». Les documents de ce groupe se rapportent à des ententes et à de la correspondance commerciales sensibles, confidentielles et privées entre le groupe Shell et PetroChina relativement à l’aménagement de biens de Groundbirch. Compte tenu de la composition et de la nature des deux coentreprises, il est essentiel pour le groupe Shell et PetroChina de ne pas communiquer aux trois autres participantes au projet LNG Canada les tarifs des services ainsi que d’autres renseignements portant sur la charge d’alimentation en gaz naturel provenant des biens de Groundbirch[26].
+[13] Par l’avis de requête déposé par Shell, elle sollicitait une ordonnance de confidentialité concernant les documents en cause, l’affidavit et les observations écrites de la demanderesse datés du 22 septembre 2021 et déposés à la même date (« observations écrites de Shell »). Bien que la Couronne ne prenne pas position relativement à la demande par Shell d’une ordonnance de confidentialité visant les documents en cause eux-mêmes, elle ne va pas jusqu’à consentir à la requête[27]. En outre, la Couronne est d’avis que ni l’affidavit ni les observations de Shell ne doivent demeurer confidentiels[28]. Dans une lettre datée du 1er octobre 2021 adressée à la Cour par les avocats de Shell, cette dernière a retiré sa demande d’ordonnance de confidentialité concernant l’affidavit et les observations de Shell.
+IV. QUESTION EN LITIGE [14] La question en litige qui se pose relativement à la présente requête est de savoir si Shell a satisfait aux principes qui encadrent l’ordonnance de confidentialité à l’égard des documents en cause.
+V. DISCUSSION A. Cadre jurisprudentiel
+[15] Au Canada, le principe de la publicité des débats en matière judiciaire est lié à la liberté d’expression garantie par l’alinéa 2b) de la Charte canadienne des droits et libertés[29]. Non seulement la liberté d’expression vise la liberté d’exprimer des idées ou des opinions concernant les débats judiciaires, mais elle concerne également le droit du public à obtenir de l’information au sujet de ceux-ci[30].
+[16] L’une des décisions de principe qui portaient sur les principes pertinents en matière d’ordonnances de confidentialité est l’arrêt Sierra Club rendu par la Cour suprême du Canada en 2002, qui consacrait une analyse ou un critère en deux étapes[31]. Dans l’arrêt Sherman (Succession), la Cour suprême a reformulé le critère en deux étapes consacré par l’arrêt Sierra Club, sans en modifier l’essence; il comporte dorénavant trois étapes, de la manière suivante :
+Pour obtenir gain de cause, la personne qui demande au tribunal d’exercer son pouvoir discrétionnaire de façon à limiter la présomption de publicité doit établir que :
+1) la publicité des débats judiciaires pose un risque sérieux pour un intérêt public important;
+2) l’ordonnance sollicitée est nécessaire pour écarter ce risque sérieux pour l’intérêt mis en évidence, car d’autres mesures raisonnables ne permettront pas d’écarter ce risque; et
+3) du point de vue de la proportionnalité, les avantages de l’ordonnance l’emportent sur ses effets négatifs[32].
+Ces trois étapes sont discutées ci-dessous.
+B. Risque sérieux pour un intérêt public important
+[17] La jurisprudence Canadienne a reconnu plusieurs intérêts publics dans la cadre d’activités commerciales ou entrepreneuriales. La discussion suivante relève cinq intérêts publics pertinents. Il existe des similitudes ou un chevauchement entre certains de ces intérêts. Malgré cela, j’ai organisé la discussion en établissant cinq catégories, car c’est de cette façon que les avocats de Shell ont organisé les observations de l’appelante et cette méthode suit la terminologie utilisée à l’occasion de plusieurs affaires pour décrire les intérêts publics.
+1. Intérêt commercial général dans la protection des renseignements confidentiels [18] La confidentialité simpliciter (surtout si l’intérêt à la confidentialité se rapporte précisément à la partie qui demande l’ordonnance de confidentialité ou s’il est lié à la communication d’un contrat qui est conclu par une société privée et s’il se rapporte précisément aux intérêts commerciaux de celle-ci) ne constitue probablement pas un intérêt commercial important. Si toutefois la divulgation de renseignements confidentiels doit résulter en un manquement à une entente de non-divulgation, il y a un intérêt commercial général dans la protection des renseignements confidentiels[33]. Comme cela a été exprimé ailleurs, il y a « un intérêt public à la confidentialité »[34].
+[19] Bien que l’existence, la composition et les objectifs des deux coentreprises soient des renseignements de notoriété publique[35], l’attente de confidentialité entre les participantes aux coentreprises est importante, compte tenu notamment de ce que trois des participantes au projet LNG Canada ne sont pas participantes à la coentreprise de Groundbirch[36]. En outre, selon M. Vos de Wael, l’industrie pétrolière et gazière en général, ainsi que le marché du GNL en particulier, sont très concurrentiels[37].
+[20] Compte tenu de la forte attente de confidentialité parmi les participantes aux coentreprises, celles-ci ont conclu plusieurs ententes de confidentialité et ont introduit des clauses de confidentialité dans d’autres ententes relatives aux coentreprises[38]. En outre, les membres du groupe Shell ont établi un code de conduite interne qui assujettit leurs employés, administrateurs et dirigeants à une obligation de confidentialité. Ces ententes, clauses et mesures internes de confidentialité ont été mises en œuvre non seulement au profit du groupe Shell, mais aussi au profit des autres participantes aux coentreprises et de leurs clients et fournisseurs[39].
+[21] Si Shell communiquait les documents en cause, elle manquerait à ses obligations aux termes des ententes de confidentialité qu’elle a conclues, ainsi qu’aux termes des clauses de confidentialité d’autres ententes qu’elle a également conclues et les participantes aux coentreprises seraient exposées à des préjudices. L’ordonnance de confidentialité demandée favorisera l’intérêt du maintien de relations commerciales et contractuelles[40].
+2. Poursuite d’un contentieux commercial sans exposition à des préjudices [22] Si l’ordonnance de confidentialité n’est pas accordée, Shell, en interjetant appel à l’encontre de la nouvelle cotisation, fera face à un dilemme, à savoir soit communiquer les documents en cause, et donc manquer à ses obligations aux termes des ententes et clauses de confidentialité, soit se conformer aux ententes et clauses de confidentialité, ce qui l’obligerait à renoncer à défendre au mieux sa cause lors de l’appel. D’après la jurisprudence Sierra Club, la dernière solution porterait atteinte au droit de Shell à un procès équitable[41]. Non seulement ce droit intéresse directement Shell, mais « le public a aussi un intérêt général à la protection du droit à un procès équitable »[42].
+[23] Dans l’arrêt RJG Construction, la Cour d’appel de Terre-Neuve-et-Labrador a examiné une demande d’ordonnance de confidentialité. Cette Cour a fait remarquer que ne pas accorder l’ordonnance de confidentialité avantagerait les concurrentes de la demanderesse qui auraient accès à des renseignements commerciaux et financiers sensibles concernant la demanderesse qu’elles pourraient utiliser à leur profit et au détriment de la demanderesse. La Cour a fait observer que le [traduction] « principe de publicité des débats judiciaires ne peut pas ignorer cette réalité et [...] ne peut pas être autorisé pour exposer la vulnérabilité d’un plaideur en l’absence d’une raison valable »[43]. En accordant l’ordonnance de confidentialité, la Cour a noté que [traduction] « l’intérêt public en jeu dans ce type d’affaires est la capacité des plaideurs commerciaux à faire valoir leurs droits, sans qu’ils ne s’exposent eux-mêmes au risque réel de préjudice »[44].
+[24] Dans l’esprit du principe exposé ci-dessus, je suis d’avis que Shell doit être en mesure de communiquer les documents en cause dans le cadre du processus judiciaire se rapportant au présent appel, sans être exposée à un risque de préjudice, en particulier un préjudice relationnel qui, par ailleurs, surviendrait si Shell manquait à ses obligations aux termes des ententes et des clauses de confidentialité et un préjudice financier qui se produirait si les renseignements communiqués étaient utilisés par les concurrentes de Shell au détriment de celle-ci.
+3. Protection de la confidentialité pendant le processus de l’interrogatoire préalable [25] À l’occasion de l’affaire MediaTube, le juge Locke de la Cour fédérale a relevé un intérêt public qui, à mon avis, est étroitement lié à l’intérêt public à la protection du droit à un procès équitable cité précédemment ou qui est peut-être un sous-ensemble de cet intérêt. Le juge Locke a observé que « lorsqu’une partie se trouve impliquée dans un litige [...] et qu’elle est tenue, par les règles de l’interrogatoire préalable, de divulguer des renseignements de nature délicate et confidentielle, il est clairement dans l’intérêt public que cette partie puisse maintenir la confidentialité de ces renseignements »[45]. Je retiens la thèse portant que les documents en cause contiennent des renseignements de nature délicate et confidentielle[46].
+[26] Les articles 80 à 85 des Règles contiennent un ensemble détaillé de dispositions (notamment des dispositions concernant l’identification, la description, l’inspection et la production) qui se rapportent à la communication de documents qu’une partie prévoit utiliser au procès (dans le cas d’une communication partielle) ou que la partie possède ou contrôle et qui sont pertinents à toute question en litige dans le présent appel (dans le cas d’une communication intégrale). D’après le principe consacré par la décision MediaTube, il est clairement dans l’intérêt public que Shell communique les documents visés par les Règles mentionnées ci-dessus, tout en maintenant la confidentialité des renseignements contenus dans ces documents.
+4. Nécessité de certitude commerciale et de protection des renseignements exclusifs [27] Dans la décision Medicine Shoppe, la Cour du Banc de la Reine de l’Alberta a observé que lorsque des documents [traduction] « contiennent des secrets commerciaux confidentiels qui, s’ils sont rendus publics, porteraient gravement préjudice au » propriétaire de ces secrets, il y a [traduction] « à la fois des intérêts publics et privés en jeu [,] compte tenu de la nécessité d’une certitude commerciale et d’une protection des renseignements exclusifs »[47].
+[28] Comme cela a été noté précédemment, certains des documents en cause contiennent des renseignements exclusifs confidentiels, de sorte que si ces documents étaient rendus publics, les propriétaires de ces renseignements subiraient des préjudices graves (que ce soit Shell ou les autres participantes aux coentreprises).
+5. Protection de la concurrence loyale [29] Dans l’arrêt Resolve Business Outsourcing, la Cour d’appel de la Nouvelle-Écosse a reconnu qu’il y a un intérêt public à la concurrence loyale[48]. La Cour a fait aussi observer que l’existence [traduction] d’« un intérêt privé particulier n’exclut pas l’existence d’un intérêt public concomitant »[49]. Ces deux intérêts ne sont pas mutuellement exclusifs.
+[30] Dans l’arrêt PearTree Securities, la Cour supérieure de justice de l’Ontario a formulé cet intérêt particulier qu’elle a qualifié d’intérêt public important, comme [traduction] « la protection de la concurrence loyale fondée sur une égalité de traitement en ce qui concerne les obligations de divulgation »[50].
+[31] À l’occasion de l’affaire RBC, la Cour suprême de la Colombie-Britannique a reconnu que le maintien de la confidentialité des règles et politiques d’une banque implique l’intérêt public (ainsi que l’intérêt de la banque), étant donné que [traduction] « [l]e public a un intérêt au maintien de la concurrence au sein de l’industrie bancaire, à la bonne réputation de ses institutions financières et à la confiance du public dans celles-ci »[51]. Dans la même ligne de pensée, compte tenu de l’importance actuelle du secteur de l’énergie au Canada, je suis d’avis qu’il existe un intérêt public à l’égard du maintien de la concurrence au sein de l’industrie énergétique, de la bonne réputation des intervenants de ce secteur et de la confiance du public dans ceux-ci[52]. Cet intérêt public s’étend aux documents en cause énumérés dans le groupe A dans l’affidavit.
+6. Résumé [32] Je conclus que Shell a établi que si l’ordonnance de confidentialité n’est pas accordée, il y aura un risque sérieux pour un ou plusieurs des intérêts publics importants suivants :
+a)l’intérêt commercial général dans la protection des renseignements confidentiels[53];
+b)l’intérêt public général dans la protection du droit à un procès équitable[54], également décrit comme l’intérêt public de permettre aux [traduction] « plaideurs commerciaux de faire valoir leurs droits, sans qu’ils s’exposent eux-mêmes au risque réel de préjudice »[55];
+c)l’intérêt public qu’un plaideur, lorsqu’il est « tenu, par les règles de l’interrogatoire préalable, de divulguer des renseignements de nature délicate et confidentielle [...] puisse maintenir la confidentialité de ces renseignements »[56];
+d)l’intérêt public à la promotion de la certitude commerciale et à la protection des renseignements exclusifs[57];
+e)l’intérêt public dans la protection de la concurrence loyale[58].
+Nécessité
+[33] Comme cela a été noté dans l’arrêt Sherman (Succession), une fois qu’une partie qui demande une ordonnance de confidentialité a établi que la publicité des débats judiciaires pose un risque sérieux pour un intérêt public important, la partie demanderesse doit démontrer que l’ordonnance est nécessaire pour exclure ce risque, car d’autres mesures raisonnables ne l’excluront pas[59]. Les autres mesures raisonnables que la Couronne n’a pas proposées sont notamment le caviardage et l’interdiction de publication. En fait, les observations de la Couronne ne proposent pas d’autres mesures subsidiaires à l’ordonnance de confidentialité demandée par Shell.
+[34] Compte tenu de la nature des documents en cause, je crois comprendre que le caviardage des renseignements confidentiels qu’ils contiennent ne serait pas utile, car les parties caviardées des documents seraient plus nombreuses que les parties non caviardées, ce qui compliquerait la lecture ou la compréhension des parties restantes des documents[60]. La Cour fédérale a reconnu qu’un caviardage exhaustif pourrait résulter en un document caviardé qui est « une coquille vide et incompréhensible »[61]. Une autre difficulté liée au caviardage réside dans le fait que le document caviardé ne pourrait pas être utilisé par la Couronne lors du contre-interrogatoire des témoins de Shell[62]. La jurisprudence reconnaît que, dans certaines circonstances, le caviardage ou l’épuration peuvent être difficilement réalisables ou déraisonnables[63].
+[35] Alors que la Cour suprême du Canada a fait remarquer que l’interdiction de publication est moins contraignante à l’égard de la publicité des débats que l’ordonnance de mise sous scellés (c.-à-d. l’ordonnance de confidentialité)[64], Shell n’est pas aussi préoccupée par une information rapportée dans les journaux ou en ligne que par la perspective de voir un concurrent ou l’une des autres participantes aux coentreprises, plus précisément le projet LNG Canada, compulser un dossier de la Cour concernant le présent appel, obtenir les copies d’un ou de plusieurs des documents en cause, puis utiliser les renseignements qu’ils contiennent au détriment de Shell ou d’une autre participante à l’une des coentreprises, d’un point de vue commercial ou économique.
+[36] À ce stade de la discussion, il s’agit de « savoir s’il y a d’autres options raisonnables et non d’adopter l’option qui soit absolument la moins restrictive »[65]. J’ai conclu qu’outre une ordonnance de confidentialité, il n’existe pas d’autres mesures raisonnables qui excluraient un risque sérieux pour les intérêts publics mentionnés précédemment.
+C. Proportionnalité
+[37] Dans l’arrêt Sherman (Succession), la Cour suprême du Canada a réitéré que, du point de vue de la proportionnalité, les avantages de l’ordonnance de confidentialité souhaitée doivent l’emporter sur ses effets défavorables[66].
+[38] Dans l’arrêt Sierra Club, la Cour suprême a fait remarquer que l’ordonnance de confidentialité demandée avait trait à la distribution publique des documents particuliers et qu’elle n’empêcherait pas le tribunal et les parties d’avoir accès aux documents confidentiels et n’entraverait pas non plus l’accès du public aux procédures. Par conséquent, l’ordonnance souhaitée représentait « une atteinte relativement minime à la règle de la publicité des débats judiciaires et elle n’aurait donc pas d’effets préjudiciables importants sur ce principe »[67]. Les circonstances sont similaires en l’espèce.
+[39] Comme cela a été indiqué précédemment, Shell ne cherche pas à empêcher la Couronne d’accéder aux documents en cause. En fait, Shell a déjà fourni à la Couronne des copies de ces documents. Shell ne tente pas d’exclure le public de la salle d’audience lors de l’instruction du présent appel (ou d’une requête interlocutoire à cet égard)[68].
+[40] En demandant l’ordonnance de confidentialité, Shell ne cherche pas à imposer une interdiction de publication concernant l’audition du présent appel[69]. Il s’agit également d’un critère qui pourra être pris en considération lors de l’analyse de la proportionnalité[70].
+[41] La liste de documents déposés par Shell recense au moins 176 documents[71]. Parmi ces 176 documents, seuls 58 sont visés par l’ordonnance de confidentialité demandée par Shell[72]. Bien qu’un grand nombre des documents décrits dans la liste de documents soit confidentiel[73], Shell n’a pas demandé l’ordonnance de confidentialité à l’égard de tous ces documents. Elle demande plutôt une ordonnance de confidentialité à l’égard de seulement 58 de ces documents. En déterminant les documents qui doivent être visés par l’ordonnance de confidentialité souhaitée, Shell a entrepris les actions suivantes :
+a)examens détaillés des documents non publics décrits dans la liste de documents;
+b)examens et discussions détaillés pour tenir compte de divers critères, notamment :
+le niveau de confidentialité relatif à chaque document;
+la nature délicate ou le caractère exclusif concurrentiels du contenu de chaque document;
+le caractère pertinent ou actuel permanent des renseignements contenus dans chaque document;
+le préjudice ou le risque de préjudice qui résulterait ou pourrait résulter de la communication de chaque document[74].
+[42] Je conclus que Shell a soigneusement déterminé les documents qui doivent être protégés par une ordonnance de confidentialité. C’est pourquoi il ne semble pas que l’ordonnance de confidentialité souhaitée portera sérieusement atteinte au principe de la publicité des débats en allant trop loin. Shell a en outre restreint la portée de l’ordonnance de confidentialité souhaitée en retirant sa demande visant à obtenir une ordonnance de confidentialité protégeant l’affidavit et ses observations.
+[43] Shell tient avant tout à s’assurer que tous les documents en cause qui pourraient être déposés au greffe (par exemple, en pièces jointes à un affidavit afin d’étayer une future requête interlocutoire) ne seront pas accessibles à une concurrente de Shell ou aux autres participantes aux coentreprises et qu’ils ne le seront pas d’une manière susceptible de causer préjudice à Shell, Petronas, PetroChina, Mitsubishi ou Kogas.
+[44] Un autre élément à prendre en considération est que Shell ne cherche pas à entraver l’action du juge de première instance, dans la mesure où l’utilisation des documents en cause lors de l’instruction du présent appel pourrait être visée. Cela est conforme au principe consacré par la décision MediaTube, selon laquelle les questions touchant la confidentialité des documents au procès devraient être laissées au juge qui préside[75].
+[45] Toute ordonnance de confidentialité aura probablement un effet sur le principe de publicité des débats judiciaires[76]. Cependant, dans cette situation, compte tenu des circonstances décrites ci-dessus, l’effet préjudiciable de l’ordonnance de confidentialité demandée par Shell est relativement faible.
+[46] Si l’ordonnance de confidentialité souhaitée n’est pas accordée, Shell fera face au dilemme suivant :
+(a)afin de se présenter sous son meilleur jour dans le présent appel, Shell devra refuser de respecter les ententes et les clauses de confidentialité qu’elle a conclues et les employés de Shell, qui sont responsables du maintien de la confidentialité des documents en cause, devront contrevenir aux politiques et protocoles de Shell leur enjoignant de préserver la confidentialité de ses secrets commerciaux et d’autres renseignements confidentiels;
+(b)si Shell et ses employés choisissent de respecter les ententes, clauses, politiques et protocoles de confidentialité, Shell pourrait ne pas être en mesure de présenter au procès des éléments de preuve qui, par ailleurs, l’aideraient à defendre ses arguments.
+En outre, si l’ordonnance de confidentialité n’est pas accordée, tous les documents en cause qui pourraient être déposés (par exemple une pièce jointe à un affidavit) auprès du greffe avant le procès risqueraient d’être accessibles aux concurrentes de Shell ou aux autres participantes aux coentreprises, ce qui pourrait avoir des conséquences néfastes importantes, comme cela a été résumé plus haut.
+[47] À mon avis, les avantages de l’ordonnance de confidentialité souhaitée l’emportent grandement sur les effets défavorables liés à l’octroi de l’ordonnance.
+VI. CONCLUSION [48] La requête est accueillie, dans la mesure où elle porte sur les documents en cause. En conséquence, une ordonnance de confidentialité sera rendue, en application de l’article 16.1 des Règles, concernant les documents en cause (mais il est entendu qu’elle ne concernera pas l’affidavit ou les observations de Shell).
+[49] Aucuns dépens ne sont adjugés à l’égard de la présente requête (bien que la question des dépens puisse être réexaminée par le juge qui préside).
+Signé à Ottawa, Canada, ce 30e jour de mars 2022.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 4e jour de juillet 2022.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022 CCI 39
+NO DU DOSSIER DE LA COUR :
+2019-3605(IT)G
+INTITULÉ :
+SHELL CANADA LIMITÉE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+DATE DE DÉPÔT DES OBSERVATIONS :
+Le 22 septembre 2021
+Le 1er octobre 2021
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Don R. Sommerfeldt
+DATE DE L’ORDONNANCE :
+Le 31 mars 2022
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Peter Rubin
+Me Robert Kopstein
+Avocate de l’intimée :
+Me Carla Lamash
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Peter Rubin
+Cabinet :
+Nom :
+Cabinet :
+Blake, Cassels & Graydon S.E.N.C.R.L./s.r.l.
+Vancouver (Colombie-Britannique)
+Me Robert Kopstein[77]
+McCarthy Tétrault S.E.N.C.R.L., s.r.l.
+Calgary (Alberta)
+Pour l’intimée :
+A. François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’affidavit a été souscrit le 11 mars 2021 et déposé le 30 mars 2021.
+[2] Voir Drouin c. La Reine, 2011 CCI 425, par. 11.
+[3] Affidavit, par. 26.
+[4] Affidavit, par. 3.
+[5] Affidavit, par. 26.
+[6] Affidavit, par. 22.
+[7] Affidavit, par. 23(a).
+[8] Affidavit, par. 23(b).
+[9] Affidavit, par. 23(c).
+[10] Affidavit, par. 23(d).
+[11] Affidavit, par. 28(b) et note de bas de page 11.
+[12] Affidavit, par. 9.
+[13] Affidavit, par. 8 à 9.
+[14] Affidavit, par. 17 et 24 à 28.
+[15] Affidavit, par. 6.
+[16] Affidavit, par. 6 et 33 à 37.
+[17] Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e supplément), en sa version modifiée.
+[18] Affidavit, par. 9 et 10. Voir aussi l’avis d’appel de Shell et la réponse de la Couronne.
+[19] Bien que le présent appel se rapporte à l’année d’imposition 2009, le refus de la perte en capital au cours de l’année d’imposition 2012 fait l’objet d’un autre appel.
+[20] Affidavit, par. 11.
+[21] Bien que cela n’ait pas été discuté lors de l’audition de la présente requête, je présume qu’en communiquant à la Couronne les documents en cause dans le cadre du processus de l’interrogatoire préalable, Shell s’est appuyée sur les obligations de la Couronne et du ministre aux termes de l’article 241 de la LIR.
+[22] Comme cela a été indiqué, Shell a déjà fourni à la Couronne des copies de tous ses documents pertinents; voir l’avis de requête de Shell, daté et déposé le 30 mars 2021, par. 5.
+[23] Affidavit, par. 21(b) et affidavit, annexe A, par. 1.
+[24] Affidavit, par. 21(a)(iii) et affidavit, annexe A, par. 9 à 12.
+[25] Affidavit, par. 21(a)(i) et affidavit, annexe A, par. 18 à 20.
+[26] Affidavit, par. 21(a)(ii) et affidavit, annexe A, par. 25 à 27.
+[27] Observations de l’intimée datées du 22 septembre 2021 et déposées à la même date (les « observations de la Couronne »), par. 3.
+[28] Observations de la Couronne, par. 4 et observations verbales formulées lors de l’audition de la présente requête.
+[29] Sierra Club du Canada c. Canada (Ministre des Finances), [2002] 2 RCS 522, 2002 CSC 41, par. 36.
+[30] Société Radio-Canada c. Nouveau-Brunswick (Procureur général), [1996] 3 RCS 480, par. 23.
+[31] Sierra Club, précité, note 29, par. 53.
+[32] Sherman (Succession) c. Donovan, 2021 CSC 25, par. 38. Il convient de noter qu’à la deuxième étape énoncée dans la version anglaise de la décision Sherman (Succession) (ainsi que l’expression correspondante se rapportant à la première étape énoncée dans l’arrêt Sierra Club) l’expression reasonably alternative measures est utilisée au lieu de l’expression reasonable alternative measures (autres mesures raisonnables). Du point de vue de la grammaire, l’expression reasonable alternative measures indique que les autres mesures doivent être raisonnables et l’expression reasonably alternative measures signifie que la subsidiarité (c.-à-d. la nature ou qualité subsidiaire) des mesures doit être raisonnable. Au paragraphe 57 de l’arrêt Sierra Club, la Cour suprême a observé que l’expression autres options raisonnables « oblige le juge non seulement à se demander s’il existe des mesures raisonnables autres que l’ordonnance de confidentialité, mais aussi à restreindre l’ordonnance autant qu’il est raisonnablement possible de le faire tout en préservant l’intérêt commercial en question ».
+[33] Sierra Club, précité, note 29, par. 55 et Sherman (Succession), précitée, note 32, par. 41.
+[34] Resolve Business Outsourcing Income Fund c. Canadian Financial Wellness Group Inc., 2014 NSCA 98, par. 36. Bien que la version électronique de cette décision dans CanLII utilise la référence précédente, l’intitulé de la cause indique que l’intimée est « The Canadian Financial Wellness Group Limited ».
+[35] Affidavit, par. 3 et 4. Voir aussi le communiqué de presse daté du 2 octobre 2018 cité dans la note de bas de page 1 de l’affidavit.
+[36] Affidavit, par. 5 et 9.
+[37] Affidavit, par. 14.
+[38] Affidavit, par. 6.
+[39] Affidavit, par. 6.
+[40] Sierra Club, précité, note 29, par. 51.
+[41] Ibid, par. 50 et 51.
+[42] Ibid, par. 50.
+[43] RJG Construction Limited c. Marine Atlantic Inc., 2018 NLCA 25, par. 27.
+[44] Ibid.
+[45] Mediatube Corp. c. Bell Canada, 2018 CF 355, par. 22.
+[46] Affidavit, par. 21.
+[47] Medicine Shoppe Canada Inc. c. Devchand, 2012 ABQB 375, par. 36.
+[48] Resolve Business Outsourcing, précité, note 34, par. 31.
+[49] Ibid, par. 30.
+[50] PearTree Securities Inc. c. NDB Group Syndications Inc., 2018 ONSC 7447, 2018 CarswellOnt 23455, par. 12.
+[51] Royal Bank of Canada c. Westech Appraisal Services Ltd., 2017 BCSC 773, par. 12.
+[52] Je reconnais que les Canadiens ne considèrent pas tous l’industrie énergétique, en particulier le secteur pétrolier et gazier, de la même manière. Les présents motifs ne doivent pas être considérés comme une prise de position, favorable ou défavorable, à l’égard d’un secteur de l’industrie énergétique. La formulation du commentaire précédent ne vise qu’à reconnaître qu’à l’heure actuelle, le secteur pétrolier et gazier joue un rôle important pour répondre aux besoins du Canada en combustible, chauffage et électricité et qu’il a une incidence important sur l’économie canadienne, même si le besoin en combustibles fossiles pourrait ou devrait diminuer à l’avenir.
+[53] Sierra Club, précité, note 29, par. 55 et Resolve Business Outsourcing, précité, note 34, par. 36.
+[54] Sierra Club, précité, note 29, par. 50.
+[55] RJG Construction, précité, note 43, par. 27.
+[56] MediaTube, précitée, note 45, par. 22.
+[57] Medicine Shoppe, précitée, note 47, par. 36.
+[58] PearTree Securities, précité, note 50, par. 12; Resolve Business Outsourcing, précité, note 34, par. 31 et RBC, précité, note 51, par. 12.
+[59] Sherman (Succession), précité, note 32, par. 38 1) à 2).
+[60] Affidavit, annexe A, par. 8, 17, 24 et 33.
+[61] Bah c. Canada (Citoyenneté et Immigration), 2014 CF 693, par. 27.
+[62] Sierra Club, précité, note 29, par. 64.
+[63] Osif c. College of Physicians and Surgeons of Nova Scotia, 2008 NSCA 113, par. 27 à 29 et Patient X c. College of Physicians and Surgeons of Nova Scotia, 2013 NSSC 32, par. 46 et 47.
+[64] Sherman (Succession), précité, note 32, par. 105.
+[65] Sierra Club, précité, note 29, par. 66 (en italique dans l’original).
+[66] Sherman (Succession), précité, note 32, par. 38 c).
+[67] Sierra Club, précité, note 29, par. 79. Voir aussi Resolve Business Outsourcing, précité, note 34, par. 39 et Drouin, précitée, note 2, par. 15.
+[68] Observations de Shell, par. 2 et 71 à 73. Voir Drouin, précitée, note 2, par. 15.
+[69] L’avis de requête de Shell, précité, note 22, ne mentionne ni ne demande une interdiction de publication.
+[70] Voir RBC, précité, note 51, par. 14.
+[71] Dans la liste de documents de Shell, un numéro est attribué à chacun des documents énumérés. Le dernier document de la liste porte le numéro 155. Cependant, pour certains des documents, plus précisément les courriels et les lettres, il est précisé [traduction] « avec pièce jointe » ou quelque chose de similaire. Dans un grand nombre de ces situations, la ou les pièces jointes au courriel ou à la lettre en particulier sont énumérées sous ce courriel ou cette lettre et sont ainsi numérotées : 2.1, 2.2, 10.1, 10.2, etc. Treize pièces jointes sont énumérées de cette manière. Les documents 48 et 50 se rapportent aux documents connexes en pièces jointes, mais celles-ci ne sont pas énumérées séparément. En outre, les documents 148, 149 et 150 sont décrits comme correspondant à un courriel et à deux lettres, respectivement, chacun « avec pièces jointes », mais celles-ci ne sont pas énumérées. Puisqu’il semble que les documents 48 et 50 étaient chacun accompagnés d’une pièce jointe et en supposant que les documents 148, 149 et 150 étaient chacun accompagnés d’au moins deux pièces jointes, il semble qu’au moins huit pièces jointes ne sont pas précisément décrites dans la liste de documents. Selon cette hypothèse, le nombre total de documents est d’au moins 176 (c.-à-d. 155 + 13 + 8), mais ce chiffre pourrait être plus élevé si plus de deux documents étaient joints au courriel ou aux deux lettres pour lesquels l’expression « avec pièces jointes » était utilisée.
+[72] Ces 58 documents sont visés par la présente requête et les présents motifs.
+[73] Affidavit, par. 20.
+[74] Affidavit, par. 19.
+[75] MediaTube, précitée, note 45, par. 20.
+[76] Sierra Club, précité, note 29, par. 74.
+[77] L’avocate de la Couronne n’ayant soulevé aucune réserve quant au fait que Shell a deux avocats inscrits au dossier, je n’ai pas examiné minutieusement les questions soulevées dans la décision Farmobile LLC c. Farmers Edge Inc., 2021 CF 1200 ou l’application de cette affaire au présent appel.

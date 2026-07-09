@@ -1,0 +1,209 @@
+---
+title: "Fraser v. the Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28028/index.do"
+last_modified: "2006-07-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 427"
+citation2: ""
+neutral_citation: "2006 TCC 427"
+decision_date: "2006-07-27"
+language: "en"
+item_id: "28028"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1614
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:52:41.248000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2f313fe42372f1991b07e41612fddf524f90ab19205f05cee2fb735be50b0d72"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fraser v. the Queen
+
+- Citation: 2006 TCC 427
+- Decision date: 2006-07-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1614, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fraser v. the Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-07-27
+Neutral citation
+2006 TCC 427
+File numbers
+2005-3990(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3990(IT)I
+BETWEEN:
+EARL FRASER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard with the related appeal of Darla Fraser (2005‑3972(IT)I)
+on June 9, 2006 at Kelowna, British Columbia
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Agent for the Appellant:
+G.A. Maile
+Counsel for the Respondent:
+Sara Fairbridge
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2001, 2002 and 2003 taxation years are allowed on the following basis:
+1. The deduction by the Appellant in the 2001 taxation year of investment carrying charges in the amount of $2,012 is disallowed;
+2. The amount of Capital Cost Allowance (“CCA”) to be disallowed in respect of the Computer (Class 10) shall be $599.06 in 2002 and $419.34 in 2003;
+3. The amounts of CCA to be allowed in respect of trailer(s) shall be $906.28 in 2002 and $1,790.03 in 2003;
+4. The amount of CCA claimed by the Appellant in 2002 in respect of the 2002 Truck shall be recalculated by increasing the base amount for CCA by $1,435.37 and shall be allowed on the basis claimed by the Appellant, in particular on the basis that the 2002 Truck was a Class 10 asset;
+5. In the 2002 year there shall be no CCA recapture of the amount of $3,902.99;
+6. The meals and entertainment expenses to be disallowed shall be $200.50 in 2002 and $291.50 in 2003;
+7. The $1,435.32 of claimed motor vehicle expenses in 2002 were capital expenditures and are disallowed as expenses;
+8. The final disallowed amounts of motor vehicle expenses shall be $1,999 in 2002 and $451.17 in 2003;
+9. The $2,580 claimed for "travel" expense in 2002 is disallowed;
+10. The "legal and accounting" expense to be disallowed in 2003 shall be $287.88;
+and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment, the whole in accordance with the attached Reasons for Judgment. Costs, if any, are awarded to the Appellant.
+Signed at Ottawa, Canada, this 27th day of July, 2006.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2006TCC427
+Date:20060727
+Docket: 2005-3990(IT)I
+BETWEEN:
+EARL FRASER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] This appeal raised several issues with respect to the Appellant's taxation years 2001, 2002 and 2003.
+2001
+[2] The only issue in the 2001 taxation year related to the Minister's disallowance of the Appellant's deduction of investment carrying charges of $2,012. At the hearing counsel for the Respondent and the agent for the Appellant agreed that the disallowance was correct and was to stand. Therefore the deduction by the Appellant in the 2001 taxation year of investment carrying charges in the amount of $2,012 is disallowed.
+2002 and 2003
+[3] In the years 2002 and 2003 the Appellant, as a proprietorship, carried on a drywall business. His home and base of operations was Westbank, British Columbia. His job sites in 2002 and 2003 were in the Westbank area and in various other communities in western and northern Canada including Aldergrove, Big White, Vancouver and Yellowknife.
+[4] Before discussing the various expenses disallowed by the Minister, the Reply states, inter alia, in section 10 that the Minister in the 2003 taxation year included interest income of $924.41 earned but not reported and in subsection 13(g) of the Reply that the Appellant did not incur the disallowed purchases of $1,950 in 2003. These assertions were not contested but no evidence was adduced by either the Appellant nor the Respondent. Consequently I express no conclusion on these issues.
+[5] The expense issues in 2002 and 2003 relate to the disallowance of various claimed business expenses of the Appellant. An overview and summary of business income and expenses declared and expenses disallowed is contained in the following paragraphs of the Minister's Reply.
+5. In computing income for the 2002 taxation year, the Appellant reported gross business income of $52,359.00 with a net business income of $26,872.10, as detailed in the attached Schedule "A".
+6. In computing income for the 2003 taxation year, the Appellant reported gross business income of $56,423.18 with a net business income of $29,078.05, as detailed in the attached Schedule "B".
+...
+9. By Notice dated December 29, 2004, the Minister reassessed the Appellant's 2002 taxation year to disallow business expenses and CCA of $17,633.44, thereby increasing the net business income to $44,505.54, as detailed in the attached Schedule "A".
+10. By Notice dated December 29, 2004, the Minister reassessed the Appellant's 2003 taxation year to disallow business expenses and CCA of $13,890.63, thereby increasing the net business income to $42,968.68, as detailed in the attached Schedule "B". ...
+[6] The principal issue relates to the disallowance of Capital Cost Allowance ("CCA") and will be addressed first. The other expenses disallowed are relatively minor when compared to the CCA issue and will be addressed later.
+[7] Certain CCA claimed expenses in 2002 and 2003 were disallowed. The calculations involve five assets: (1) a computer ("Computer"), (2) a 2002 Chevrolet K2500 4wd pick up truck ("2002 Truck") acquired August 19, 2002 at a cost of $49,600, set up on the Appellant's books at $53,464 apparently to take into account taxes and other minor items (3) a 2001 Gulfstream Trailer acquired August 14, 2003 ("Gulfstream Trailer"), (4) a 1991 Dutchman Trailer ("Dutchman Trailer ") and (5) a 1996 pick-up truck ("1996 Truck").
+[8] The details of CCA claimed and CCA disallowed are set forth in schedules "C" and "D" to the Reply.
+[9] On Schedules "C" and "D", the Computer is shown as a Class 10 asset with an undepreciated capital cost ("UCC") of $2,218.75 in 2002 and $1,553.12 in 2003. This was apparently claimed on a 100% UCC basis at a rate of 30% thus producing CCA of $665.63 in 2002 and $465.94 in 2003. The Minister disallowed all of this CCA on the basis of 100% personal use. From the evidence the computer was used only 10% for business purposes and 90% for personal purposes. Therefore, the amount of CCA to be disallowed in respect of the computer shall be 90% of the amounts claimed, 90% of $665.63 being $599.06 in 2002 and 90% of $465.94, being $419.34 in 2003.
+[10] In 2002 the Dutchman Trailer was claimed by the Appellant as a Class 8 asset with a UCC of $9,062.85 and CCA was claimed in an amount of $1,812.57. The Minister disallowed this alleging 100% personal use of the Dutchman Trailer.
+[11] On Schedule "D" for 2003 regarding both trailers (class 8) the only change by the reassessment was to consider both trailers as 83.33% personal use and to reduce the CCA claimed (and allowed) of $3,580.06 by 83.33% for personal use. Thus the CCA claimed on both trailers was reduced by $2,983.38.
+[12] In my opinion, based on all the evidence, especially the use of both trailers at out of town job sites as a substitute for motel costs, the personal use reduction should only be 50% in 2002 and 2003 on both trailers. Thus the amount of CCA to be allowed shall be:
+a) For the Dutchman Trailer in 2002 – 50% of $1,812.57 or $906.28;
+b) For both Trailers in 2003 – 50% of $3,580.06 or $1,790.03.
+[13] On Schedule "C" for 2002 the figure $8,697.01 for the first Class 10 asset represents the 1996 Truck which the Appellant traded in at a value of $12,600 when he purchased the 2002 Truck. The cost of additions claimed is $53,464 representing the full cost of the 2002 Truck shown as a Class 10 asset. After adjustments apparently related to pro-rations regarding year of acquisition for the 2002 Truck and disposal of the 1996 Truck, the base amount for CCA claimed becomes $29,129.01 with total CCA for 2002 claimed at the rate of 30% being $8,738.70.
+[14] The reassessment for 2002 as shown in Schedule "C" puts the 2002 Truck in Class 10.1 with a cost limitation of $30,000 plus PST and GST resulting in the cost of the 2002 Truck being shown at $32,250, which after application of the 1/2 year rule becomes $16,125 resulting in CCA at 30% of $4,838. The reassessment also attributes 25% personal use for the 2002 Truck and reduces the $4,838 further to $3,628.30. The reassessment, having considered the 2002 Truck as a Class 10.1 asset removes it from class 10 resulting in the disposition of the 1996 Truck producing a negative amount of $3,902.99 and therefore recapture of that amount into income.
+[15] On Schedule "D" for 2003 the Appellant continues to claim the 2002 Truck as a Class 10 asset with CCA being claimed at $12,246.69. The reassessment continues to treat it as class 10.1 asset thus reducing the CCA to $8,224.
+[16] As to the 2002 Truck the Minister contends that it represents a class 10.1 asset with the result that the cost which must be established for purposes of taking CCA is limited to an amount of $30,000 plus applicable taxes, notwithstanding that the 2002 Truck had a total cost, including taxes of $53,464, which was the capital cost figure relied upon for the claim of CCA taken by the Appellant. The further consequence, if the 2002 Truck is a class 10.1 asset, is that there must be included in the Appellant's income for 2002 an amount of $3,902.99 by way of recapture of CCA on the disposal by way of trade-in of the 1996 Truck as mentioned above. The 1996 Truck was a class 10 asset. If the 2002 Truck was also a class 10 asset there is no recapture. If however the 2002 Truck is a class 10.1 asset there is recapture. Further, if the 2002 Truck is a class 10 asset rather than a class 10.1 asset, the $30,000 plus taxes cost limitation does not apply and the cost of the running board and hitch in 2002 ($1,435.32) is to be added to the capital cost of the 2002 Truck for purposes of CCA. As mentioned that amount was capital in nature and therefore was improperly claimed as an expense. But if the $30,000 plus taxes limitation does not apply the $1,435.32 should be added to the capital cost of the 2002 Truck.
+[17] The issue, therefore is whether the 2002 Truck is a class 10 asset or a class 10.1 asset. An analysis of the applicable provisions of the Income Tax Act ("Act") is necessary.
+Analysis
+[18] Was the 2002 Truck an automobile and a passenger vehicle as defined in section 248 of the Act and therefore an asset in class 10.1 of schedule II to the Income Tax Regulations or is it "automotive equipment" within class 10? If it is in class 10.1 the deduction rate is 30% but the maximum cost that can be claimed is limited to $30,000 plus GST and PST. If it is in class 10 the deduction rate is also 30% but there is no limitation.
+[19] Class 10.1 relates to "property that would otherwise be included in class 10 that is a passenger vehicle the cost of which to the taxpayer exceeds $30,000 [the amount prescribed by regulation] plus GST and PST.
+[20] Thus it becomes necessary to determine whether the 2002 Truck is a passenger vehicle. The terms "automobile" and "passenger vehicle" are defined in section 248 of the Act:
+"automobile" means
+(a) a motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and 8 passengers but does not include:
+...
+(e) a motor vehicle
+(i) of a type commonly called a van or pick-up truck, or a similar vehicle, that has a seating capacity for not more than the driver and two passengers and that, in the taxation year in which it is acquired or leased, is used primarily for the transportation of goods or equipment in the course of gaining or producing income,
+(ii) of a type commonly called a van or pick-up truck, or a similar vehicle, the use of which, in the taxation year in which it is acquired or leased, is all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income.
+"Passenger vehicle" means an automobile acquired after June 17, 1987. ...
+The 2002 Truck has a greater seating capacity than that contemplated in subparagraph (e)(i), even though the seat in the back is closed. Therefore the apparently easier qualification of "used primarily" (generally considered to mean more than 50 %) is not applicable. The qualification that must be met is that the "use .. is all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income".
+[21] In Pronovost v. The Queen, [1998] DTC 720, Bowman, A.C.J. stated as follows:
+[16] The appellant's truck has an extended cab, that is to say, it has a second row of seats which would allow five or six people to be seated in the truck. Therefore if it is to be excluded from the definition of automobile it must fall within the exception in subparagraph (e)(ii). It is certainly a pick-up truck or a similar vehicle. It does not meet the criterion in subparagraph (i) because of its seating capacity for more than the driver and two passengers.
+[17] Therefore if it is to fall under subparagraph (ii) its use must be, in 1999, 'all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income'.
+[18] Certainly in the course of the appellant's work the truck was used for the transportation of goods, equipment or passengers in the course of gaining or producing income. The question is whether that use was 'all or substantially all'of its use.
+[19] In Ruhl (W.) v. Canada, [1998] G.S.T.C. 4, and in Lim (J.H.) v. Canada, [2000] G.S.T.C. 1, the meaning of 'substantial' or 'substantially all' was considered. In Ruhl it was observed that they are terms of some elasticity and that 'an unsatisfactory medium for carrying the idea of some ascertainable proportion of the whole. They do not require a strictly proportional or quantitative determination'.
+[20] The 90% rule used by the CCRA has no statutory basis although it may be necessary that some sort of rigid criterion be applied administratively. That does not mean that the court must follow it. The 90% rule, even if it had some basis in law, is itself defective because it leaves unanswered the question '90% of what? time? mileage? number or weight of passengers or goods carried?'
+[21] Here I have no hesitation in finding that the truck was used 'substantially for the transportation of goods, equipment or passengers in the course of earning income'. The equipment was kept in the truck at all times even when the appellant was going to and from work. The evidence is clear that during the period from the spring of 1999 to August of 2000 the truck was used, for almost nothing else but the appellant's work. The personal use was minimal. The appellant and his wife used the van for that purpose.
+[22] I adopt the reasoning and conclusions set forth in Pronovost. However, the evidence in this appeal of the amount of personal use (i.e. not for gaining or producing income) is confusing. At one point the Appellant indicates personal use was only 5% yet upon cross examination he suggested it could be as high as 20 to 25%. I have considered the evidence of the various business trips taken, of the use by the Appellant and his wife of her personal car for personal matters, the credibility of the Appellant and nature of the work performed by him, the need for the 2002 Truck to do the Appellant's work of installing dry wall, not only near home but also frequently away from home, the need of the 2002 Truck for tool security purposes, for hauling heavy dry wall and other material, the fact that the Appellant really needed the 2002 Truck to do his job and earn a living. I have also considered that the 2002 Truck could hardly qualify as a "Luxury Automobile", the evil at which the cost limitations are aimed. Moreover the legal authorities actually required the Appellant to acquire a vehicle with a larger weight carrying capacity than the 1996 Truck. He had no choice. I have further considered that the numerous trips for business purposes to Aldergrove, Big White, Vancouver, Yellowknife, plus use of the 2002 Truck in and around Westport over a considerable number of days, certainly indicates that there was a strong business use for 2002 Truck. The 2002 Truck was also used to tow the trailer to the various out of town job sites.
+[23] On the whole without definitely attributing a mileage use or a time use in the analysis and trying to arrive at a percentage I am satisfied, on the basis of all the evidence, that the use of the 2002 Truck in 2002 and 2003 was "all or substantially all for the transportation of goods or equipment in the course of gaining or producing income". The percentage of such use I find to be 90%. Consequently, the Minister's submission on this issue fails and the CCA claimed by the Appellant in respect of the 2002 Truck in the 2002 and 2003 taxation years is allowed. Further, since the 2002 Truck was a class 10 asset there shall be no inclusion in the 2002 taxation year of the $3,902.99 of recapture related to the disposition of the 1996 Truck. Further, the amount of the CCA to be allowed in the 2002 and 2003 taxation years in respect of the 2002 Truck should be recalculated on the basis that the capital cost is to include the $1,435.32 for the runner and hitch acquired by the Appellant in 2002.
+[24] The following paragraphs describe the various other expenses disallowed by the Minister.
+[25] The first category disallowed was meals and entertainment of $401 in 2002 and $583.20 in 2003. These expenses related to expenses incurred on job sites away from the Appellant's home and were disallowed mainly on the basis that there were no adequate books and records nor receipts plus the fact that certain minor expense items on the receipts submitted were not for food and that some expenses were for meals shared with the Appellant's wife and thus were personal. The Appellant did submit certain receipts related to these expenses but these clearly do not add up to the amounts claimed and were offered as examples. The Appellant also freely admitted that some meals were shared with his wife. There is no doubt that on the job sites away from home and going to and returning therefrom, certain meal and entertainment expenses were incurred. I note from the evidence that the Minister has apparently allowed the usual 50% of meal expenses. On balance a further reasonable amount should be allowed and in my opinion the correct amounts to be disallowed shall be $200.50 in 2002 and $291.50 in 2003.
+[26] The second category disallowed was motor vehicle expenses of $3,161.04 in 2002 and $1,128.04 in 2003. The total amount claimed in 2002 was $7,072 and the Minister allowed $3,910.96 thus producing the disallowed amount of $3,161.04. In 2003 the total amount claimed was $4,512.17 and the Minister allowed $3,384.13 thus producing the disallowed amount of $1,128.04. Counsel for the Respondent explained of the total amount claimed in 2002 ($7,072) the Minister first reduced it by an amount of $1,435.32 representing the cost of the running board and hitch because these were capital items. In my opinion the Minister was correct. The said amount is capital and consequently is disallowed as an expense. CCA in respect of said amount was discussed above. Consequently, the motor vehicle expenses claimed in 2002 are firstly to be reduced by the capital expenditures of $1,435.32. In arriving at the amounts to be allowed the Minister determined that the vehicle or vehicles concerned were only 75% used for business purposes. For the reasons set forth above I have determined that the correct figure is 90% business purposes. Consequently the amounts of motor vehicle expenses to be allowed are $5,073 for 2002 ($7,072 ‑$1,435.32 x 90%) and $4,061 for 2003 ($4,512.17 x 90%). Therefore the amounts disallowed shall be $1,999 in 2002 ($7,072 – $5,073) and $451.17 in 2003 ($4,512.17 ‑ $4,061).
+[27] The third category disallowed in 2002 was "Travel" in the amount of $2,580. With respect to the said amount of $2,580 it will be helpful to quote certain extracts from the transcript where counsel for the Respondent questioned the Appellant:
+...
+Q Moving on to travel expenses. You claimed $ 2,580 in respect of travel expenses in 2002?
+A Yeah.
+Q Can you tell me what those amounts were for?
+A Those would be Aldergrove, travelling from Westbank to Aldergrove, and also for my trip from Westbank to Yellowknife.
+Q And do you have any documents to support that claim?
+A Yes. Well, I have my billing receipts from Yellowknife, I guess. All I have here is my trip home, coming back from – coming back from Yellowknife.
+[Reference is made to certain trips].
+…
+Q So is it possible that some of these, some of the travel expenses that are claimed in 2002, were for personal trips or stay-overs by you and your wife?
+[Reference is made to further trips involving a personal element].
+Q And do you have – gas receipts, I assume, would be what you would have for your travel from Westbank to Aldergrove and Aldergrove to Yellowknife?
+A Yes, we have all those receipts, yes.
+Q And do you have those receipts?
+A No, not – well, they would be on file. I don't have them with me, no.
+...
+and further counsel submitted:
+In 2002 the appellant claimed, 2,580 in travel expenses. The entire amount was disallowed. When I look at some of the invoices and receipts from A-8 through A-14, there are charges for Fantasyland Hotel, a two-night stay for Earl and Darla Fraser, another night's stay at the Radisson Hotel in Calgary, and there's no evidence that Mr. Fraser was working in these locations.
+The evidence seems to be that his wife drove up to Yellowknife and that they then drove back together and the respondent submits that that is in the nature of a personal trip, especially when they're spending two nights in a city and at the Fantasyland Hotel. This isn't like a quick stop in a motel.
+As far as what travel expenses are legitimate, the respondent submits that the appellant has not met his burden by producing receipts that relate to legitimate travel expenses for the 2002 year.
+...
+[28] In my opinion the submissions of counsel for the Respondent are sound. The burden of proof is on the Appellant and on this issue that burden has not been discharged. I note also that in the 2002 year a large amount (increased by this judgment) has been allowed for "Motor Vehicle Expenses", which may well have included some items claimed for travel. I note also that no expenses for "travel" are claimed in 2003. I have concluded that the amount claimed of $2,580 in 2002 for travel expenses is to be disallowed.
+[29] The fourth category disallowed in 2003 was $701.38 for legal and accounting expenses. The amount claimed was $1,115.99 and the Minister allowed $414.61 leaving an amount disallowed of $701.38. Note that in 2002 the amount claimed of $250 for legal and accounting was allowed in full.
+[30] What this refers to is impossible to discern from the exhibits submitted, from the verbal testimony and the submissions. It became clear however that the amount certainly did not relate to legal and accounting expenses. The agent for the Appellant concedes that $160.50 was properly disallowed and that the balance should have been reclassified as other expenses and allowed. Counsel for the Respondent says as follows:
+...
+In 2003, the appellant claimed $701 in legal and accounting expenses. These expenses were for the Symantec Anti-Virus software, and Mr. Fraser has testified that there was a personal use component to the computer. He estimated that perhaps 10 to 15 percent of the use of the computer was related to business. So Symantec is an expense with respect to the computer the respondent submits that should only be allowed to the extent that the computer was used – in the same proportion that the computer was used for business use, and whether that's 10 percent or 15 percent, from Mr. Fraser's testimony, it's apparent that the primary use of the computer was personal.
+The other amounts were the OnStar receipt and the BCAA receipt. Again, these expenses, it's not clear what they relate to, whether it's the truck or the trailer and, in any event, these expenses should only be allowed to the extent that the underlying asset was used for business purposes.
+...
+[31] The Symantec amount (Exhibit A-17) is U.S. $ 28.57 or $35 Canadian. Computer business use was only 10%. Therefore $3.50 is to be allowed. The On Star amount (Exhibit A-18) is $331, the BCAA amount is $124. These amounts total $455 and relate to a type of insurance on the 2002 pick up truck and / or trailers. I believe 90% of that amount (i.e. $410 should be allowed). Thus the total deductible amount is $3.50 + $410 = $413.50 and therefore the proper amount to be disallowed is $287.88 ($701.38 - $413.50).
+[32] Therefore for the above reasons the appeal is allowed on the foregoing basis and the matter is referred back to the Minister for reconsideration and reassessment on that basis. Costs, if any, are awarded to the Appellant
+Signed at Ottawa, Canada, this 27th day of July, 2006.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2006TCC427
+COURT FILE NOS.: 2005-3972(IT)I and 2005-3990(IT)I
+STYLE OF CAUSE: Darla Fraser v. H.M.Q. and
+Earl Fraser v. H.M.Q.
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: June 9, 2006
+REASONS FOR JUDGEMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: July 27, 2006
+APPEARANCES:
+Agent for the Appellants:
+G.A. Maile
+Counsel for the Respondent:
+Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,329 @@
+---
+title: "McClarty Family Trust v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30858/index.do"
+last_modified: "2012-03-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 80"
+citation2: ""
+neutral_citation: "2012 TCC 80"
+decision_date: "2012-03-21"
+language: "en"
+item_id: "30858"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7355
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:31:28.032000+00:00"
+cases_cited_count: 5
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f9f60b26971d1a2973d75d27f521c2bac8051215a074e07430dd98cbf460b9ef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McClarty Family Trust v. The Queen
+
+- Citation: 2012 TCC 80
+- Decision date: 2012-03-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7355, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McClarty Family Trust v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-03-21
+Neutral citation
+2012 TCC 80
+File numbers
+2008-2139(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2139(IT)G
+BETWEEN:
+McCLARTY FAMILY TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Joel McClarty (2008-2129(IT)G), Brayden McClarty (2008-2118(IT)G)
+and Devon McClarty (2008-2121(IT)G)
+on June 6, 2011, at Saskatoon, Saskatchewan.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Kurt G. Wintermute
+Counsel for the Respondent:
+Brooke Sittler
+Karen Janke-Curliss
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2003 and 2004 taxation years are allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of March 2012.
+"François Angers"
+Angers J.
+Docket: 2008-2129(IT)G
+BETWEEN:
+JOEL McCLARTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+McClarty Family Trust (2008-2139(IT)G), Brayden McClarty (2008-2118(IT)G)
+and Devon McClarty (2008-2121(IT)G)
+on June 6, 2011, at Saskatoon, Saskatchewan.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Kurt G. Wintermute
+Counsel for the Respondent:
+Brooke Sittler
+Karen Janke-Curliss
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2003 and 2004 taxation years are allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of March 2012.
+"François Angers"
+Angers J.
+Docket: 2008-2118(IT)G
+BETWEEN:
+BRAYDEN McCLARTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+McClarty Family Trust (2008-2139(IT)G), Joel McClarty (2008-2129(IT)G),
+and Devon McClarty (2008-2121(IT)G)
+on June 6, 2011, at Saskatoon, Saskatchewan.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Kurt G. Wintermute
+Counsel for the Respondent:
+Brooke Sittler
+Karen Janke-Curliss
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2003 and 2004 taxation years are allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of March 2012.
+"François Angers"
+Angers J.
+Docket: 2008-2121(IT)G
+BETWEEN:
+DEVON McCLARTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+McClarty Family Trust (2008-2139(IT)G), Joel McClarty (2008-2129(IT)G),
+and Brayden McClarty (2008-2118(IT)G)
+on June 6, 2011, at Saskatoon, Saskatchewan.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Kurt G. Wintermute
+Counsel for the Respondent:
+Brooke Sittler
+Karen Janke-Curliss
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2003 and 2004 taxation years are allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 21st day of March 2012.
+"François Angers"
+Angers J.
+Citation: 2012 TCC 80
+Date: 20120321
+Dockets: 2008-2139(IT)G, 2008-2129(IT)G,
+2008-2118(IT)G, 2008-2121(IT)G
+BETWEEN:
+McCLARTY FAMILY TRUST,
+JOEL McCLARTY,
+BRAYDEN McCLARTY,
+DEVON McLARTY,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] The above appeals were heard on common evidence. The Minister of National Revenue (the Minister) reassessed the appellant McClarty Family Trust (MFT) for its taxation years ending December 31, 2003 and December 31, 2004 on May 30, 2007. The Minister applied section 245 of the Income Tax Act (ITA), called the general anti-avoidance rule (GAAR), to certain transactions that are before this Court and disallowed the capital gains reported by MFT, treating as dividends in the amount of $47,999 for each of those taxation years the amounts so reported.
+[2] The Minister reassessed the other three appellants' 2003 and 2004 taxation years on April 17, 2007 by also applying the GAAR to the same transactions. The tax consequences are that the Minister included in each appellant's income for each taxation year under appeal the amount of $16,000 as other income or as dividends instead of as a capital gain.
+[3] The issues are whether section 245 of the Act applies to the transactions such that the capital gains that were reported by MFT on the disposition of the 2003 and 2004 stock dividend shares it received should be disallowed, whether the dispositions should be treated as giving rise to dividends totalling $47,999 in each of MFT's taxation years in question and whether the amount of $16,000 should be included in the income of each of the three other appellants as other income or dividends for each of the taxation years under appeal. In other words, the Respondent is taking issue with the result that Darrell McClarty was able to split his income with his children despite the Act’s attempt to prevent this through the “Kiddie Tax” of section 120.4. The relevant portions of section 120.4 read:
+120.4(1) The definitions in this subsection apply in this section.
+"specified individual", in relation to a taxation year, means an individual who
+(a) had not attained the age of 17 years before the year;
+(b) at no time in the year was non-resident; and
+(c) has a parent who is resident in Canada at any time in the year.
+"split income", of a specified individual for a taxation year, means the total of all amounts (other than excluded amounts) each of which is
+(a) an amount required to be included in computing the individual’s income for the year
+(i) in respect of taxable dividends received by the individual in respect of shares of the capital stock of a corporation (other than shares of a class listed on a designated stock exchange or shares of the capital stock of a mutual fund corporation), or
+(b) [income received from partnership]
+(c) a portion of an amount included because of the application of subsection 104(13) or 105(2) in respect of a trust (other than a mutual fund trust) in computing the individual’s income for the year, to the extent that the portion
+(i) is not included in an amount described in paragraph (a), and
+(ii) can reasonably be considered
+(A) to be in respect of taxable dividends received in respect of shares of the capital stock of a corporation (other than shares of a class listed on a designated stock exchange or shares of the capital stock of a mutual fund corporation),
+(B) [shareholder benefit]
+(C) to be income derived from the provision of goods or services by a partnership or trust to or in support of a business carried on by
+(I) a person who is related to the individual at any time in the year,
+(II) a corporation of which a person who is related to the individual is a specified shareholder at any time in the year, or
+(III) a professional corporation of which a person related to the individual is a shareholder at any time in the year.
+(2) There shall be added to a specified individual’s tax payable under this Part for a taxation year 29% of the individual’s split income for the year.
+[4] In the alternative, the respondent is asking the Court to determine whether MFT is deemed to have received a dividend pursuant to subsection 84(3) of the Act in each of its taxation years such that the amounts of $16,000 were properly included as dividends in the income of each of the three individual appellants for each of the taxation years under appeal.
+[5] The facts that led to the transactions referred to above involve Mr. Darrell McClarty, who is the central figure in these appeals. Although he is not the appellant, he is the father of the three minor appellants as well as one of the trustees of MFT.
+[6] Darrell McClarty is a professional engineer who specialized in geotechnical engineering, and later, in information technology. Prior to the summer of 2001, he was employed with Clifton Associates Ltd. in their information technology division known as Envista. While there, he designed and marketed the Envista software called the "accounting system for the environment".
+[7] He became unhappy, though, with the existing operations at Clifton and sought to purchase the Envista division from Clifton in a management buyout. The discussions with Clifton did not go very far and, as a result, he resigned his position with Clifton on June 15, 2001. His departure made many ripples. A few days after his departure, Derin Hildebrandt, another Clifton employee also resigned. That led to a meeting with the president of Clifton to discuss the situation and particularly the need for Mr. McClarty to return and stabilize Clifton's operations. It was at that meeting that Darrell McClarty was shown a draft statement of claim for an action by Clifton against McClarty and told that this is what would happen if he did not return to Clifton.
+[8] Shortly thereafter, two other Clifton employees left, namely, Colin Denison and Catherine Marisi. The four of them got in contact with Cameco Corporation (Cameco) and were invited to bid on the development of a system to monitor employees' exposure to radiation at its mines. Projectline Solutions Inc. (PSI) was therefore incorporated on August 24, 2001 under the laws of Saskatchewan for the purpose of submitting the bid. Darrell McClarty held 31 common shares and the other three held 23 common shares each.
+[9] PSI did develop products for Cameco in the fall of 2001 and won a further contract in August 2002 despite competition from Clifton's Envista division. PSI's success was, according to Mr. McClarty, due to the fact that it proposed developing new software from the ground up for Cameco's purposes while Envista's proposal was to simply deploy the Envista software then operating at Cameco's MacArthur River site across Cameco's entire operation. During all that time, letters were being exchanged by Clifton's and PSI's lawyers with respect to various disputes.
+[10] It was in August or early September 2002 that Darrell McClarty met with his accountant to discuss incorporating a holding company. He was referred to Evan Shoforost. They discussed the best method for structuring PSI. They needed basic accounting services for PSI and protection from creditors as Mr. McClarty was still concerned about potential legal actions by Clifton and also concerned about potential liability related to the systems they created, as errors could occur. It was agreed that the existing structure — with the four shareholders holding shares personally — should be replaced with holding and management companies as well as family trusts. As a result, McClarty Professional Services Inc. (MPSI) was incorporated under the laws of Saskatchewan on October 7, 2002.
+[11] Darrell McClarty held 100% of the Class A voting shares of MPSI while MFT held 100% of the Class B non-voting shares. MPSI then subscribed for 31 Class A shares in PSI.
+[12] The other shareholders replaced their Class A shares with their own class of voting shares in the same proportion as their original shareholdings, namely, 23 Class B shares, 23 Class C shares and 23 Class D shares. When Catherine Marisi left PSI in 2009, her shares were redeemed by PSI and the shareholdings were a 31-23-23.
+[13] MFT was settled by Vaughan McClarty, Darrell McClarty's father, on September 27, 2002 with a gold coin. Darrell McClarty and his wife, Karen, were the trustees. The beneficiaries were Darrell McClarty, Karen McClarty and their children Devon, Joel and Brayden, the other three appellants. All three were minors at the time.
+[14] Finally, 101051392 Saskatchewan Ltd. (101 SK) was incorporated on December 17, 2003, with Darrell McClarty as sole shareholder and director. According to Darrell McClarty, the purpose of 101 SK was to capture future investments and facilitate the creditor protection scheme.
+[15] The transactions at issue began on September 30, 2003 when MPSI declared a stock dividend on its Class B common shares held by MFT (stock dividend shares). The stock dividend consisted of 48,000 Class E non-voting preferred shares of MPSI with a paid-up capital and an adjusted cost base of $1 and a redemption price of $1 per share. MFT then sold the stock dividend shares (Class E) to Darrell McClarty on the same day for $48,000 payable by means of a demand promissory note at a 0% rate of interest, but which was to become 10% once payment was demanded.
+[16] That transaction resulted in a capital gain for MFT of $47,999. MFT distributed this capital gain to the three minor beneficiaries, $15,999 each payable by issuing to each a demand promissory note with the same interest terms as Darrell McClarty's promissory note. That resulted in a taxable capital gain of $7,999 for each minor beneficiary, which was declared in their respective tax returns.
+[17] On the same day, namely, September 30, 2003, Darrell McClarty paid $48,000 to MPSI in repayment of previous shareholder loans and advances. MPSI then paid $48,000 to MFT as a shareholder loan. MFT in turn made a loan to Darrell McClarty, which is called the trustee loan. Darrell McClarty then paid a second sum of $48,000 to MPSI in repayment of other shareholder loans.
+[18] On December 31, 2003, Darrell McClarty sold the Class E shares he held in MPSI to 101 SK in return for a $48,000 promissory note without interest. On the same day, MPSI redeemed the stock dividend (Class E) shares at a redemption price of $1 per share, or $48,000. 101 SK received a deemed dividend as a result of the redemption, however, there was no tax payable on the transaction since the deemed dividend was received from a taxable Canadian corporation (see section 112 of the ITA).
+[19] Still on the same day, 101 SK paid $48,000 to Darrell McClarty. There is a dispute here between the parties as to what Darrell McClarty actually repaid with the $48,000 he received from 101 SK. The respondent alleges that he repaid the promissory note issued to MFT with respect to the stock dividend share sale that I referred to earlier as the trustee loan while the appellant contends that the payment at that stage represented the repayment of a separate trustee loan. In any event, both parties are in agreement that on December 31, 2004, Darrell McClarty had $104,400.37 in outstanding promissory notes owed to the MFT and that the MFT had outstanding promissory notes in the amount of $96,000 owed to the minor beneficiaries.
+[20] To complete the December 31, 2003 transactions, MFT paid $48,000 to MPSI in satisfaction of the shareholder loan it had received from MPSI on September 30, 2003, and MPSI paid $48,000 to Darrell McClarty as repayment of another shareholder loan.
+[21] The 2004 transactions proceeded in much the same way as the 2003 transactions except for certain differences. On September 30, 2004, MPSI issued to MFT a stock dividend on the Class B non-voting shares consisting of 48,000 Class E shares with a paid-up capital, an adjusted cost base and a redemption price of $1 per share. This resulted in a deemed dividend of $1 to MFT. MFT then sold the Class E shares to Darrell McClarty for $48,000 and Darrel McClarty issued to MFT a promissory note for that amount. MFT again distributed the capital gain equally among each of the three minor beneficiaries, who received an amount of $15,999 each, resulting in a taxable gain of $7,999 each. They declared this amount in their tax returns.
+[22] Unlike what had occurred in 2003, on September 30, 2004, MFT then paid $36,500 to MPSI in repayment of a shareholder loan and $11,500 to Darrell McClarty as a trustee loan. Darrell McClarty then paid the $11,500 to MPSI in repayment of a shareholder loan.
+[23] On December 31, 2004, Darrell McClarty issued a promissory note to MFT in the amount of $56,400, indicating this represented the total net cash advances in 2004. On that same day, Darrell McClarty sold the Class E shares to 101 SK for $48,000. 101 SK again received a deemed dividend of $47,999 and claimed the corresponding dividend deduction.
+[24] Also on that date, 101 SK transferred the sum of $48,000 to Darrell McClarty in satisfaction of its promissory note with respect to the purchase of Class E shares. Darrell McClarty then transferred that amount to MFT as partial payment of its promissory note of $56,000. The last step on December 31, 2004 was for MPSI to repay PSI the amount of $48,000.
+[25] As a result of these transactions and as said earlier, MFT had outstanding promissory notes owing to the three minor beneficiaries of $32,000 each. Darrell McClarty had outstanding promissory notes owing to MFT of $104,400.37 ($48,000 for 2003 + $48,000 for 2004 + $8,400 in cash advances). The accounts of the remaining companies offset each other.
+The GAAR Analysis
+[26] I will deal first with whether the GAAR can be used to recharacterize the capital gain received by MFT. There is no dispute between the parties that the framework laid down by the Supreme Court of Canada in Canada Trustco Mortgage Co. v. The Queen, 2005 SCC 54, is to be used. That case predates the Supreme Court's decision in Copthorne Holdings Ltd. v. The Queen, 2011 SCC 63. The guidelines set forth at paragraph 66 of Canada Trustco, supra, are as follows:
+The approach to s. 245 of the Income Tax Act may be summarized as follows.
+1. Three requirements must be established to permit application of the GAAR:
+(1) A tax benefit resulting from a transaction or part of a series of transactions (s. 245(1) and (2));
+(2) that the transaction is an avoidance transaction in the sense that it cannot be said to have been reasonably undertaken or arranged primarily for a bona fide purpose other than to obtain a tax benefit; and
+(3) that there was abusive tax avoidance in the sense that it cannot be reasonably concluded that a tax benefit would be consistent with the object, spirit or purpose of the provisions relied upon by the taxpayer.
+2. The burden is on the taxpayer to refute (1) and (2), and on the Minister to establish (3).
+3. If the existence of abusive tax avoidance is unclear, the benefit of the doubt goes to the taxpayer.
+4. The courts proceed by conducting a unified textual, contextual and purposive analysis of the provisions giving rise to the tax benefit in order to determine why they were put in place and why the benefit was conferred. The goal is to arrive at a purposive interpretation that is harmonious with the provisions of the Act that confer the tax benefit, read in the context of the whole Act.
+5. Whether the transactions were motivated by any economic, commercial, family or other non-tax purpose may form part of the factual context that the courts may consider in the analysis of abusive tax avoidance allegations under s. 245(4). However, any finding in this respect would form only one part of the underlying facts of a case, and would be insufficient by itself to establish abusive tax avoidance. The central issue is the proper interpretation of the relevant provisions in light of their context and purpose.
+6. Abusive tax avoidance may be found where the relationships and transactions as expressed in the relevant documentation lack a proper basis relative to the object, spirit or purpose of the provisions that are purported to confer the tax benefit, or where they are wholly dissimilar to the relationships or transactions that are contemplated by the provisions.
+7. Where the Tax Court judge has proceeded on a proper construction of the provisions of the Income Tax Act and on findings supported by the evidence, appellate tribunals should not interfere, absent a palpable and overriding error.
+Tax Benefit
+[27] The first requirement that must be met in order to recharacterize the transaction under the GAAR has been conceded by the appellants in that there is a tax benefit resulting from the transactions.
+Is the transaction an avoidance transaction?
+[28] With regard to the second requirement, the appellants argue that the transactions at issue were undertaken primarily to place Darrell McClarty beyond the reach of creditors by putting demand promissory notes in the hands of MFT. The respondent counters with the argument that the alleged bona fide purpose is not supported by a reasonable assessment of the facts and circumstances of the transactions in that the creditor-proofing was ineffective, the documentation reveals a circular flow to the transactions, and the transactions were in fact an off-the-shelf tax plan.
+[29] In Canada Trustco, supra, at paragraph 29, the Supreme Court of Canada has provided guidance for examining whether there was a bona fide purpose:
+. . . this is a factual inquiry. The taxpayer cannot avoid the application of the GAAR by merely stating that the transaction was undertaken or arranged primarily for a non-tax purpose. The Tax Court judge must weigh the evidence to determine whether it is reasonable to conclude that the transaction was not undertaken or arranged primarily for a non-tax purpose. The determination invokes reasonableness, suggesting that the possibility of different interpretations of the events must be objectively considered.
+[30] In other words, there must be "an objective assessment of the relative importance of the driving forces of the transaction" (see paragraph 28 of Canada Trustco). Rothstein J.A., as he then was, in OSFC Holdings Ltd. v. The Queen, 2001 FCA 260, at paragraph 46, stated that the time to be considered in making that assessment is the time the transaction was undertaken and not some later time with the benefit of hindsight.
+[31] A large part of Darrell McClarty's testimony was centred on his fears after leaving Clifton and his position with Envista. Shortly after he left, others began to leave Envista as well and became his associates. He met with Wayne Clifton, the president of Clifton, who stressed the importance of his returning to Envista and clearly indicated that there could be significant legal consequences if he did not. Darrell McClarty was shown a draft statement of claim alleging that he had conspired to directly damage Envista's business and had stolen Envista's intellectual property. That statement of claim was not issued but it was used as a threat.
+[32] The statement of claim was not put in evidence at trial, but there were other documents which corroborated its existence, in addition to Darrell McClarty's testimony and that of his lawyer at the time, Bill Warren. There is a letter from Bill Warren as solicitor for Darrell McClarty stating that he was in possession of the draft statement of claim and warning of its potentially libellous nature. Another letter, in response, from Cory J. Furman of the firm Furman & Kallio, solicitors for Clifton Associates Ltd, confirms that the draft statement of claim had not been issued or distributed. There is also an e-mail from Paulette Popadynec of the Saskatchewan Labour Board to Darrell McClarty indicating that there would be no payment of remaining holiday pay since Clifton was commencing legal action.
+[33] In addition, Clifton through its solicitors, MacPherson Leslie & Tyerman, sent letters to the Comision Interinstitucional de la Cuenca Hidrografica del Canal de Panama and the Canadian International Development Agency to alert those agencies to the fact that Darrell McClarty and Derin Hildebrandt, through a company named Can Global, were "holding themselves out as having the authority to license, sell, use, apply or otherwise market the Envista software and that they are representatives of Envista".
+[34] These documents and the evidence of Darrell McClarty clearly indicate that Darrell McClarty was under threat of legal action upon leaving Clifton in 2001. The threat of legal action remained as Envista and Clifton continued thereafter to be competitors of PSI until Envista ceased operations around 2005-2006. During that time of direct competition with Envista and Clifton, the situation, as summarized by Darrell McClarty in his testimony, was that they were concerned that entering into contracts for developing systems where they had done so before could be grounds for lawsuits and could give rise to continuing legal problems with Clifton.
+[35] The respondent's position is mainly centred on the argument that the creditor-proofing was ineffective. The respondent argues that, regardless of what was done, Darrell McClarty would be personally liable as a director of MPSI for issuing dividends which rendered MPSI insolvent. They cited Evan Shoforost's statement in his paper given at the 2002 Prairie Provinces Tax Conference (Canadian Tax Foundation), at page 7, where he stated that professionals cannot shield themselves from liability for professional negligence but can do so with respect to liability in other contexts, such as employer liability. The Crown relies on section 40 and subsection 113(2) of the Saskatchewan's The Business Corporations Act (SBCA), which reads follows:
+40 A corporation shall not declare or pay a dividend if there are reasonable grounds for believing that:
+(a) the corporation is, or would after the payment be, unable to pay its liabilities as they become due; or
+(b) the realizable value of the corporation's assets would thereby be less than the aggregate of its liabilities and stated capital of all classes.
+113(2) Directors of a corporation who vote for or consent to a resolution authorizing:
+. . .
+(c) a payment of a dividend contrary to section 40;
+. . .
+are jointly and severally liable to restore to the corporation any amounts so distributed or paid and not otherwise recovered by the corporation.
+[36] The respondent did not state how this would nullify the plan for providing protection from creditors in this case. Given the fact that most of the evidence regarding the creditor-proofing is centred on the fear of a lawsuit by Clifton and Associates, it raises the question whether paragraph 40(a) of the SBCA would apply in a situation involving future creditors who will only establish the existence of a debt when a judgment is issued. Paragraph 40(a) of the SBCA applies where a corporation is unable to pay its liabilities as they become due. It is not entirely clear whether contingent creditors can rely upon paragraph 40(a) of the SBCA. In Devry v. Atwood's Furniture Showrooms Ltd., [2000] O.J. 4283 (QL), at paragraphs 26 and 27, the Ontario Superior Court of Justice held that contingent judgment creditors could not rely upon the equivalent provision of Ontario's Business Corporations Act (OBCA).
+[37] The respondent also cited Justice Archambault of this Court, who held in Gestion Yvan Drouin Inc. v. Canada, [2000] T.C.J. No. 872 (QL), 2001 DTC 72, at paragraph 71:
+. . . according to legislation governing corporations . . . the directors of a corporation cannot declare dividends that would cause the corporation to be unable to meet its debts. If the directors declared and paid a dividend in violation of the corporation's obligation toward its creditors, they would be held liable for the amounts owed to those creditors. Remedies could also be had against the shareholders for reimbursement of the dividends. . . .
+[38] That case revolved around subsection 160(1) of the ITA and its application and not the Canada Business Corporations Act. His statement prior to ruling that the subsection 160(1) assessment could not be upheld was obiter dictum. In addition, the statement was made in the context of a tax debt, which becomes due on the balance due date and is not contingent upon first obtaining judgment.
+[39] I do not believe that section 40 of the SBCA applies here. The desire to creditor-proof is based on Darrell McClarty's fear of potential legal action by Clifton. MPSI, as far as the evidence shows, did not issue dividends greater than its retained earnings. Since Clifton was at best a contingent judgment creditor, that contingent debt would not be required to be on MPSI's balance sheet for the purposes of conducting the insolvency test prior to issuing the dividends. The situation could have been different, though, if there had been ongoing litigation, but there was none here.
+[40] Regarding the argument that the documentation reveals an entirely circular flow to the transactions, the respondent put a lot of emphasis on the determination whether the payments of $48,000 from Darrell McClarty to MFT represented the repayment of the promissory note with respect to the stock dividend share sale or of the outstanding trustee loan. The appellants argued that the trustee loans were repaid pointing to two separate promissory notes issued in 2003 and 2004 and to a memo prepared by one Michelle Mack, who worked for MPSI's accounting firm in which she sets out the plan for the transactions and refers to the repayment of the $48,000 that was loaned to Darrell McClarty by MFT.
+[41] The respondent countered by referring to two other memos prepared by Michelle Mack explaining all the steps in the transactions, particularly step 6, where it says that Darrell McClarty repaid MFT's promissory note with $48,000 cash, and she refers to step 2 which describes to the sale of the stock dividend shares. The appellants answered by stating that Michelle Mack had mistakenly left that out of the instructions given to Bill Warren, Darrell McClarty's solicitor.
+[42] Other documents, such as MFT's general ledger, were referred to in trying to determine whether it was the promissory notes relating to the sale of shares that were repaid or those relating to the trustee loan. I do not believe that it is necessary for me to make a finding as to which promissory note the $48,000 actually repaid. The money received by Darrell McClarty on the share redemption was used to repay an outstanding debt owed to MFT. Both parties have agreed that Darrell McClarty had outstanding promissory notes of approximately $104,000 at the end of 2004.
+[43] The last submission by the respondent in support of the position that there was no bona fide purpose is that the overall plan was put in place by Evan Shoforost, who created the off-the-shelf plan. On cross-examination, he acknowledged that every tax plan starts out as generic, and then one would look at the fact situation to see if there are bona fide business reasons for utilizing some of the generic plan's content. I believe that there were bona fide business reasons in this case. It is clear from the evidence that Darrell McClarty was under the threat of legal action upon leaving Clifton and beginning to compete directly with that corporation. There was a bona fide non-tax purpose for undertaking the transactions in question.
+[44] The respondent submitted that at least one of the transactions in the series was not undertaken for a bona fide non-tax purpose. In oral submissions, the respondent referred to the declaration of stock dividends in both years at issue and the sale of those shares to Darrell McClarty as supporting that point of view.
+[45] The appellants submitted that the transfer of wealth in order to provide protection from creditors without attracting the significant tax costs that would have been incurred by the payment of a dividend to MFT is a valid, bona fide non-tax purpose under the ITA.
+[46] The stock dividend declared in both years at issue resulted in a shift of the value of assets from MPSI to MFT. This is consistent with the creditor-proofing strategy. Darrell McClarty's assets in MPSI were partially reduced for the benefit of MFT and, once redeemed, the assets will be entirely out of the hands of MPSI and Darrell McClarty. I do not find that transaction to be an avoidance transaction. As argued by the appellants, if MPSI had paid a dividend to MFT, allocated the income to the minor beneficiaries by way of a promissory note, and loaned the funds to Darrell McClarty, some creditor protection could have been achieved but it would have been less effective because of the higher tax rate on the dividend to the minor beneficiaries, and it would have resulted in less funds being available to establish the debt between MFT and the minor beneficiaries.
+[47] In Canada Trustco, supra, the Supreme Court of Canada stated, at paragraph 30:
+. . . It is useful to consider what will not suffice to establish an avoidance transaction under s. 245(3). The Explanatory Notes state, at p. 464:
+Subsection 245(3) does not permit the "recharacterization" of a transaction for the purposes of determining whether or not it is an avoidance transaction. In other words, it does not permit a transaction to be considered to be an avoidance transaction because some alternative transaction that might have achieved an equivalent result would have resulted in higher taxes.
+[48] According to the Explanatory Notes referred to in the above excerpt, Parliament recognized the Duke of Westminster principle that tax planning with the objective of attracting the least possible tax is a legitimate and accepted part of Canadian tax law.
+[49] The other transaction referred to by the respondent is the sale of the 48,000 class "E" shares to Darrell McClarty by MFT. The appellants argued that the purpose of that transaction was to create the debt between Darrell McClarty and MFT in order to protect some of the equity of MPSI and PSI should trouble arise, while allowing Darrell McClarty to use the funds personally to continue to grow the business.
+[50] The circumstances surrounding the transactions at issue involve the threat of legal action that Darrell McClarty was faced with upon leaving Clifton in 2001. What triggered the entire series of transactions was the desire to protect the assets of MPSI in anticipation of that threat. When the stock dividend was issued, an asset was transferred from MPSI to MFT such that Darrell McClarty’s assets in MPSI were partially eroded to the benefit of MFT.
+[51] It could be argued that the sales of the shares by MFT to Darrell McClarty followed by the subsequent sales to 101 SK were done basically to lessen the tax consequences of the creditor-proofing plan, but those transactions would never have occurred in the absence of the need to protect MPSI’s assets. They were an integral part of the strategy to protect those assets. As stated in Canada Trustco, supra, if there are both tax and non‑tax purposes to a transaction, it must be determined whether it was reasonable to conclude that the non‑tax purpose was primary. If so, the GAAR cannot be applied to deny the tax benefit.
+[52] To hold that the sale of the shares should be considered an avoidance transaction because some alternative transaction may have achieved a similar result but with higher taxes would, in my opinion, be inconsistent with the Supreme Court’s comments in Canada Trustco and the Explanatory notes relating to section 245 of the ITA.
+[53] It is my opinion that every single transaction constituting the series was made with a bona fide purpose other than to obtain the tax benefit. The intention of protecting the assets was the primary motivating element behind each transaction. As for Darrell McClarty personally, he is going to be taxed the same way when the funds are be extracted from 101 SK as he would be if the money was taken out of MPSI.
+[54] Having concluded that we do not have here an avoidance transaction arising from the series of transactions, there is no need to continue the analysis and determine whether there was an abusive tax avoidance.
+[55] There is a definite gap that was left by Parliament in enacting section 120.4 of the ITA. I subscribe to my colleague Justice Paris' statement in Landrus v. The Queen, 2008 TCC 274, that, as noted by former Chief Justice Bowman, it is inappropriate for the Minister to use the GAAR to fill the gaps left by Parliament. Justice Paris said the following at paragraph 124:
+The Minister is therefore using the GAAR in this case to fill in the gaps left by Parliament in subsection 85(5.1). This is an inappropriate use of the GAAR, as noted by Bowman A.C.J. in Geransky v. The Queen:
+. . . The Income Tax Act is a statute that is remarkable for its specificity and replete with anti-avoidance provisions designed to counteract specific perceived abuses. Where a taxpayer applies those provisions and manages to avoid the pitfalls the Minister cannot say "Because you have avoided the shoals and traps of the Act and have not carried out your commercial transaction in a manner that maximizes your tax, I will use GAAR to fill in any gaps not covered by the multitude of specific anti-avoidance provisions".
+Does subsection 84(3) apply to the circumstances of this case?
+[56] The other issue is whether the appellants MFT is deemed to have received a dividend from MPSI pursuant to subsection 84(3) of the Act in each of its taxation years ending December 31, 2003 and December 31, 2004 notwithstanding the fact that 101 SK held the shares. If that is the case, the amounts of $16,000 were properly included as dividends in the income of each of the minor beneficiaries of the trust for each of their 2003 and 2004 taxation years.
+[57] The respondent relies on the decision of this Court in RMM Canadian Enterprises Inc. v. R., [1998] 1 C.T.C. 2300, for the proposition that the wording “in any manner whatever” found in subsections 84(2) and 84(3) is to be interpreted broadly such that a person who did not hold shares immediately prior to the redemption falls within the scope of the words “each person” in subsection 84(3). In other words, a redemption in any manner whatever is not an instantaneous event but can be extended to include multi-step redemptions.
+[58] The appellants, on the other hand, submit that all the transactions at issue clearly demonstrate that each and every one was real and legally effective and had economic substance. MFT did not own the 2003 stock dividend shares and the 2004 stock dividend shares at the time of the redemption of those shares by MPSI. It was 101 SK that owned them pursuant to a legally effective share purchase agreement between 101 SK and Darrell McClarty. The appellants submit that subsection 84(3) operated as intended with regard to legally effective transactions when MPSI redeemed the 2003 and 2004 stock dividend shares.
+[59] The purpose of section 84 of the ITA, in general terms, is to deem certain events that are not payments of dividends in corporate law to be payments of dividends for tax purposes. Under subsection 84(3), all amounts paid by a corporation resident in Canada on a redemption of any class of shares that exceeds the paid‑up capital of those shares are taxed as dividends. Such a redemption of its own shares “in any manner whatever” by a corporation resident in Canada results in the corporation being deemed to have paid, and the shareholders being deemed to have received, a dividend.
+[60] The respondent’s argument is based on a decision interpreting the wording of subsection 84(2) of the Act. I reproduce below for comparison both subsections 84(3).
+84(3) Where at any time after December 31, 1977 a corporation resident in Canada has redeemed, acquired or cancelled in any manner whatever (otherwise than by way of a transaction described in subsection 84(2)) any of the shares of any class of its capital stock,
+(a) the corporation shall be deemed to have paid at that time a dividend on a separate class of shares comprising the shares so redeemed, acquired or cancelled equal to the amount, if any, by which the amount paid by the corporation on the redemption, acquisition or cancellation, as the case may be, of those shares exceeds the paid-up capital in respect of those shares immediately before that time; and
+(b) a dividend shall be deemed to have been received at that time by each person who held any of the shares of that separate class at that time equal to that portion of the amount of the excess determined under paragraph 84(3)(a) that the number of those shares held by the person immediately before that time is of the total number of shares of that separate class that the corporation has redeemed, acquired or cancelled, at that time.
+84(2) Where funds or property of a corporation resident in Canada have at any time after March 31, 1977 been distributed or otherwise appropriated in any manner whatever to or for the benefit of the shareholders of any class of shares in its capital stock, on the winding-up, discontinuance or reorganization of its business, the corporation shall be deemed to have paid at that time a dividend on the shares of that class equal to the amount, if any, by which
+(a) the amount or value of the funds or property distributed or appropriated, as the case may be,
+exceeds
+(b) the amount, if any, by which the paid-up capital in respect of the shares of that class is reduced on the distribution or appropriation, as the case may be,
+and a dividend shall be deemed to have been received at that time by each person who held any of the issued shares at that time equal to that proportion of the amount of the excess that the number of the shares of that class held by the person immediately before that time is of the number of the issued shares of that class outstanding immediately before that time.
+[61] RMM (supra) stands for the proposition that the expression “in any manner whatever” is to be interpreted broadly. In applying subsection 84(2) to the facts of that case Judge Bowman (as he then was) focused on the wording of the subsection and specifically said at paragraph 22:
+The words “distributed or otherwise appropriated in any manner whatever on the winding-up, discontinuance or reorganization of its business” are words of the widest import, and cover a large variety of ways in which corporate funds can end up in a shareholder’s hands. See Minister of National Revenue (supra); Smythe v. Minister of National Revenue (1969), 69 D.T.C. 5361 (S.C.C.). They were unquestionably received on the winding-up or discontinuance of EL’s business and it is impossible to say that the funds that found their way into EC’s hands were not on any realistic view of the matter EL’s funds, notwithstanding the brief intervention of the bank and RMM [footnote omitted].
+[62] The issue in RMM was centred on the determination of how and why the funds in question found their way into EC’s hands when in reality they were the funds of EL. That determination requires, with regard to the appropriation, an analysis as to how those funds found their way into the shareholder’s hands, and the phrase "in any manner whatever" covers many situations that give rise to the application of that subsection.
+[63] Subsection 84(3), on the other hand, refers to a corporation that has acquired, cancelled or redeemed some of its shares in any manner whatever. That wording would warrant an analysis of how the shares in question were actually redeemed, acquired or cancelled in that the method of redemption, acquisition or cancellation could have an impact on who the actual persons are who hold the shares. The manner in which each person who holds the redeemed, acquired or cancelled shares came to be in possession of the shares is not what needs to be determined under subsection 84(3).
+[64] This is particularly so in this present fact situation where none of the transactions are fictitious or lacking in economic substance. I agree with the appellants that each and every transaction at issue was legally effective and that subsection 84(3) operated as intended when MPSI redeemed the 2003 and 2004 stock dividend shares. The share redemptions in this case is the result of a single event.
+[65] Even if I were to look into the method by which the shares were redeemed, I would need to view the transactions as many steps in the process of redemption, acquisition or cancellation, which I do not believe to be the case here. The steps in this case were undertaken for a bona fide reason and I do not believe that, in these circumstances, subsection 84(3) can be applied so as to have MFT declared the recipient of a deemed dividend on the redemption of the 2003 and 2004 stock dividend shares.
+[66] The Supreme Court of Canada has made it clear in many decisions that, absent a specific provision to the contrary, it is not the Court’s role to prevent taxpayers from relying on the sophisticated structure of their transactions, arranged in such a way that the requirements of the particular provisions of the ITA are met, on the basis that to allow it would be inequitable for those taxpayers who have chosen not to structure their transactions that way (Shell Canada Ltd. v. R., [1999] 4 C.T.C. 313; Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536; Singleton v. R., [2002] 1 C.T.C. 121.
+[67] Except in the GAAR context, the guidelines provided by the above decisions are still valid.
+[68] The appeals are allowed with one set of costs.
+Signed at Ottawa, Canada, this 21st day of March 2012.
+"François Angers"
+Angers J.
+CITATION: 2012 TCC 80
+COURT FILE NOS.: 2008-2139(IT)G, 2008-2129(IT)G,
+2008-2118(IT)G, 2008-2121(IT)G
+STYLES OF CAUSE: McClarty Family Trust v. HMTQ,
+Joel McClarty v. HMTQ,
+Brayden McClarty v. HMTQ,
+Devon McClarty v. HMTQ
+PLACE OF HEARING: Saskatoon, Saskatchewan
+DATE OF HEARING: June 6, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: March 21, 2012
+APPEARANCES:
+Counsel for the Appellants:
+Kurt G. Wintermute
+Counsel for the Respondent:
+Brooke Sittler
+Karen Janke-Curliss
+COUNSEL OF RECORD:
+For the Appellants:
+Name: Kurt G. Wintermute
+Firm: MacPherson Leslie & Tyerman LLP
+Saskatoon, Saskatchewan
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

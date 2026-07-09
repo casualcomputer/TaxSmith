@@ -1,0 +1,295 @@
+Title: Anderson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/143952/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-106-143952-anderson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-04-29
+
+# Anderson v. The Queen
+
+- Citation: 2016 TCC 106
+- Decision date: 2016-04-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3100, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Anderson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-04-29
+Neutral citation
+2016 TCC 106
+File numbers
+2015-1031(IT)I
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-1031(IT)I
+BETWEEN:
+Jonathan Anderson,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 19, 2015, at Montreal, Quebec.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Emmanuel Jilwan
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2011 taxation year is allowed without costs and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was entitled to a deduction for the following business expenses for the 2011 taxation year:
+Business Expenses allowed
+2011
+Advertising expenses
+$2,244
+Meals and entertainment
+$5,000
+Motor Vehicle Expenses
+$9,641
+Travel Expenses
+$30,418
+Telephone and Utilities
+$523
+Other Expenses
+$16,316
+Capital Cost allowance
+$2,339
+Total business expenses
+$64,142
+Signed at Ottawa, Canada, this 29th day of April 2016.
+“Guy Smith”
+Smith J.
+Citation: 2016 TCC 106
+Date: 20160429
+Docket: 2015-1031(IT)I
+BETWEEN:
+Jonathan Anderson,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Smith J.
+[1] Jonathan Anderson (the “Appellant”) appeals from a Notice of Reassessment dated November 7, 2013 for the 2011 taxation year, as confirmed by the Minister of National Revenue (the “Minister”) on December 10, 2014.
+[2] The Appellant declared employment income of $116,849 and later requested an amendment to claim a business loss and medical expenses.
+[3] This appeal involves only the business loss and the issue is whether the Appellant was entitled to deduct, in whole or in part, certain expenses incurred by him for that year under the Income Tax Act (the “Act”).
+[4] For the reasons set out below, the appeal should be granted.
+I. Introduction
+[5] The Minister disallowed business expenses of $31,854 and the further sum of $15,000 US dollars, also claimed as a business expense, on that basis that:
+a) The expenses claimed were not incurred to earn income from a business in accordance with paragraph 18(1)(a) of the Act;
+b) The expenses claimed were personal or living expenses of the Appellant, in accordance with paragraph 18(1)(h) of the Act; and,
+c) The amount of the expenses claimed was not reasonable in the circumstances, pursuant to section 67 of the Act (and subsection 67.1(1) in relation to claimed meals and entertainment expenses).
+[6] The Minister allowed business expenses as described in the following table:
+Gross Business Income
+Declared
+Allowed
+Difference
+Sales, commissions or fees
+21,505
+21,505
+0
+Minus: Cost of goods sold
+9,359
+9,359
+0
+Gross profit
+12,146
+12,146
+0
+Business Expenses
+Declared
+Allowed
+Difference
+Advertising expenses
+1,754
+2,244
+-490
+Meals and entertainment (50%)
+7,717
+2,000
+5,717
+Motor Vehicle expenses
+13,813
+9,641
+4,172
+Travel expenses
+30,418
+10,000
+20,418
+Telephone and utilities
+523
+523
+0
+Other expenses
+18,353
+16,316
+2,037
+Capital cost allowance
+2,339
+2,339
+0
+Total business expenses
+74,917
+43,063
+31,854
+Net income (loss)
+-62,771
+-30,917
+-31,854
+[7] It should be noted that the table does not include the additional business loss of $15,000 US dollars, for reasons that will be explained below.
+II. Factual Background [8] The Appellant described himself as an IT Consultant and entrepreneur with experience in recruiting and building sales teams. He completed a course in computer network engineering at Heritage College in 1998.
+[9] He testified that he derived his income from a combination of teaching and consulting, reporting both employment and business income.
+[10] In terms of his business experience prior to the taxation year in question, the Appellant reported business income for almost every year from 1995 to 2008 (including modest losses in each of 1995, 1998 and 1999).
+[11] In 2011, he was employed on a full-time basis by an early stage company involved in mobile technology. His role was both product and business development.
+[12] Seeking to diversity his sources of income, he became involved in solar panels. Dealing with a company based in Windsor, Ontario, he directed a team of door to door sales persons. For every sale, he was paid a commission which he shared with his agents. This venture became less profitable with time and the Appellant ceased his involvement.
+[13] He also became involved with Organo Gold, a company based in Richmond, BC, that sold a proprietary brand of coffee. As an independent distributor, he would be compensated for products sold by him or his sub-agents.
+[14] He acknowledged that Organo Gold was a multi-level marketing enterprise and described his activities as follows (transcript, pages 19-20):
+So as far as the revenue source, that was why I explained that and as far as the way you generate revenue for the company, you either sell directly to your own customers. So there was always inventorial product that you would keep but the leverage of the business -- because I didn't have a warehouse or retail location or anything like that, the leverage of the business, the true residual side is recruiting other sales agents that would sell as well.
+So that's where the majority of my time that I spent was meeting what we call superstars in the industry. That's why I printed that list of top income earners because these are the hit list, if you want to call it, or the recruiting list that I went after or I went and tried to approach in order to get into my business.
+That was one -- that's the strategy that I was taught by one of my mentors that was showing me the business. I was new to the business. I was told that if you want to make it big, you need to go after people with experience. And so that's why I was meeting these individuals and they were located in different cities and I flew there.
+I flew some of them to meet the owners of the company at their head offices out in Vancouver, Richmond to be more specific, and also Los Vegas. It was their U.S. office. They had two or three different events and conventions that we attended and I wanted them to see with their own eyes what the company was doing.
+So I incurred the expenses of travel to pay for their airfare and their hotels and meals in order to be able to show them the opportunity.
+So this is the common practice by individuals that I was told. If you wanted to build a big business, then you need to go after what they call the generals. And the generals are the leaders in the industry that are known and those are the ones that if you convince them to work with you and come with the company, they would bring a very large network of sales teams with them.
+[15] It was obvious from the Appellant’s testimony that he sincerely believed that his strategy of targeting established sales people was the best way of leveraging his efforts, generating sales and, eventually, substantial profits for himself.
+[16] He recognized that he would have to invest a significant amount of time, energy and money, and that he would not likely realize any real profit for at least 18-24 months. At least initially, he was comfortable with this notion.
+[17] Ultimately, having suffered the losses that are the subject of this appeal, he terminated his relationship with Organo Gold sometime in 2012.
+III. The Law [18] Subsection 9(1) of the Act provides that “a taxpayer’s income from a business or property is the taxpayer’s profit from that business or property for the year” but where the taxpayer claims a business loss, subsection 9(2) of the Act provides as follows:
+9(2) - Subject to section 31, a taxpayer’s loss for a taxation year from a business or property is the amount of the taxpayer’s loss, if any, for the taxation year from that source computed by applying the provisions of this Act respecting computation of income from that source with such modifications as the circumstances require.
+[19] While the Minister disallowed certain expenses relying on paragraph 18(1)(a) (that the expenses were not incurred for the purpose of gaining or producing income from the business) and paragraph 18(1)(h) (that the expenses were personal or living expenses), as indicated above, her main argument was that the expenses were not reasonable within the meaning of section 67 of the Act:
+67 - General limitation re expenses - In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+[20] A number of cases have interpreted this provision including the Supreme Court of Canada. In Stewart v The Queen, [2002] 2 SCR 645, the Court made the following comment:
+57. It is clear from these provisions that the deductibility of expenses presupposes the existence of a source of income, and thus should not be confused with the preliminary source inquiry. If the deductibility of a particular expense is in question, then it is not the existence of a source of income which ought to be questioned, but the relationship between that expense and the source to which it is purported to relate. The fact that an expense is found to be a personal or living expense does not affect the characterization of the source of income to which the taxpayer attempts to allocate the expense, it simply means that the expense cannot be attributed to the source of income in question. As well, if, in the circumstances, the expense is unreasonable in relation to the source of income, then s. 67 of the Act provides a mechanism to reduce or eliminate the . . . amount of the expense. Again, however, excessive or unreasonable expenses have no bearing on the characterization of a particular activity as a source of income.
+[My emphasis.]
+[21] In Hammill v The Queen, 2005 FCA 252, [2005] 4 C.T. C. 29, 2005 DTC 5397, Noël JA (as he then was) for the Federal Court of Appeal stated (in obiter):
+48 Although it is not necessary to deal with the alternative ground on which the Tax Court Judge rejected the appeal, I believe it useful to say a few words about the scope of section 67 and its application in this case.
+49 The appellant points out that this provision contemplates an outlay or expense that has been incurred for the purpose of earning income within the meaning of paragraph 18(1)(a), and allows the Minister to disallow that part of the expenditure which can be shown to be unreasonable. In other words, the provision does not allow for a qualitative review of the expenditure since the expenditure must have been made to earn income to begin with. What is contemplated is a quantitative review of the expenditure.
+50 Indeed, the judicial pronouncements on section 67 to date have treated the issue arising under that provision as one of magnitude or quantum (see Mohamad, supra; Garbco Ltd. v. M.N.R., 68 DTC 5210). The appellant submits that the following passage from Vern Krishna, The Fundamentals of Canadian Income Tax, 3rd edition, properly illustrates the scope and purpose of section 67 (page 312):
+- The word "reasonable" [in section 67] would appear to relate primarily to the size or the amount of the deductions claimed or quantified and not to the type of the expense. "The purpose of the rule is to prevent taxpayers from artificially reducing income by deducting inordinately high expenses", . . .
+51 I agree that this statement accurately reflects how section 67 has been applied by the courts to date. However, the Supreme Court in Stewart, supra, commented on the application of section 67 and signalled that it could have a broader application. It will be recalled that in Stewart, the Supreme Court dealt away with the "reasonable expectation of profit" test as a means of ascertaining the existence of a source of income. The Court recognized that this test had been devised to counter abuses, but held that it had no statutory foundation and created more problems than it resolved.
+52 In devising the "recommended approach", the Supreme Court identified section 67 as the statutory means of controlling excessive or unwarranted expenditures once a source of income is found to exist.
+. . .
+53. The choice of words (reduce or eliminate) is not accidental. The Supreme Court was setting-up section 67 as the proper means of testing the reasonableness of an expense once a business has been found to exist. It was doing so after having explained that at the first level of inquiry (i.e. the existence of a source of income and the relationship between an expense and that source) courts ought not to second guess the business judgment of the taxpayer (Stewart, supra, paragraphs 55, 56 and 57). Section 67 was identified as the statutory authority pursuant to which an inquiry could be made as to the reasonableness of an expense. In my view, the Supreme Court in Stewart acknowledged that there is no inherent limit to the application of section 67, and that in the appropriate circumstances, it can be used to deny the whole of an expense, if it is shown to be unreasonable.
+[My emphasis.]
+[22] And a few years later, in Raghavan v The Queen, 2007 FCA 27, [2007] 2 C.T.C. 232, 2007 DTC 5214, the Federal Court of Appeal held that:
+9. Second, having found a source of income, a court must determine if the expenses claimed by the taxpayer may be deducted pursuant to subsection 18(1) from the income earned from the business. If they can, the expenses will be allowed, but only to the extent that they are "reasonable" under section 67: at para. 57. The Court emphasized (at para. 60):
+- Whether or not a business exists is a separate question from the deductibility of expenses.
+See also Hammill v. Canada, [2005] F.C.J. No. 1197, 2005 FCA 252 paras. 51-53, on the approach to be taken to the application of section 67 in light of the decision in Stewart.
+[My emphasis.]
+[23] A number of cases have also dealt with section 67 in the context of multi‑level marketing enterprises, including Ankrah v The Queen, [2003] 4 CTC 2851, where the Appellant was involved in an Amway distributorship and had reported business losses for ten consecutive years. Justice Woods stated as follows:
+32. The Crown submits that it was unreasonable for Mr. Ankrah to incur large expenditures after the business had incurred losses for several years. It was suggested that instead of spending large sums of money on recruits, the same result could have been achieved by personal training.
+33. The difficulty with the Crown's position is that [sic] supplants the business judgment of the taxpayer. Mr. Justice Rothstein commented on this in another Amway case, Keeping v. R., [2001] 3 C.T.C. 120 (F.C.A.), at paragraph 5:
+- With respect, I am of the opinion that the analysis conducted by the Tax Court Judge, [1999] T.C.J. No. 277, amounted to second-guessing the business acumen of the appellant which is not the place of the Courts. As stated in Mastri v. R., (1997), [1998] 1 F.C. 66 (Fed. C.A.), at paragraph 12:
+▪ In summary, the decision of this Court in Tonn does not purport to alter the law as stated in Moldowan. Tonn simply affirms the common-sense understanding that it is not the place of the courts to second-guess the business acumen of a taxpayer whose commercial venture turns out to be less profitable than anticipated.
+- In basing his decision on profit margins, potential market opportunities and costs, as well as the appellant's approach to operating his distributorship, the Tax Court Judge was second-guessing the business acumen of the appellant. In doing so, the Tax Court Judge erred in law.
+This comment was made in the context of the REOP doctrine but I see no reason why it should not also apply in the context of section 67.
+34. The phrase in section 67 "reasonable in the circumstances" is broad but I do not believe that it should apply to reduce expenses based on poor business judgment. Section 67 is commonly applied to reduce the quantum of expenses in cases where the taxpayer is motivated partly by something other than business reasons, such as a payment of salaries to family members. This was described by Mr. Justice Cattanach in the case of Gabco Limited v. M.N.R., 68 D.T.C. 5210 (Ex. Ct.) at page 5216 as follows:
+- It is not a question of the Minister or this Court substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the Court coming to the conclusion that no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind.
+[My emphasis.]
+[24] The decision of Ankrah, supra, is to be contrasted with the earlier decision of Rowe v The Queen, [2000] 1 CTC 3022 that was cited by counsel for the Respondent and identified in the Auditor’s report on the issue of multi-level marketing enterprises. It dealt with a husband and wife with little if any business experience who were “hypnotized” by the potential profits to be derived from this type of activity. They incurred business losses over three years. Justice Mogan denied the expenses on the basis that there was “no reasonable expectation of profit in this enterprise”, an approach that, with respect, seems to have been overtaken by the Supreme Court of Canada decision in Stewart, supra. It is more likely that a court hearing the matter today, would find that there was no source of income.
+[25] The more recent case of Olver v The Queen, 2008 TCC 352, involved a husband and wife who spent a lot of time on the Internet attempting to take advantage of various schemes to make money. They too were mesmerized by the money that they thought so many other people were making from the Internet but were unable to articulate a coherent description of their commercial activities. Justice Bowie denied their expenses concluding that they did not have a source of income:
+[26] I conclude my review of authorities dealing with section 67, with the more recent decision of Williams v The Queen, 2009 TCC 93, where Webb J (as he then was), commented as follows:
+15. As noted by Justice Cattanach in Gabco Limited, if the court reaches a “conclusion that no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind” then the provisions of section 67 of the Act would apply. It seems to me that this is consistent with the statement of the Supreme Court of Canada in Stewart that section 67 will apply “if, in the circumstances, the expense is unreasonable in relation to the source of income”. If an expense is unreasonable in relation to the source of income then “no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind”.
+[My emphasis.]
+IV. Summary of the Law [27] Assuming that a source of income has been ascertained, an initial qualitative review is to be carried out to determine whether there is a reasonable connection between the expense claimed and the source of income. This is done “by applying the provisions of this Act respecting computation of income from that source with such modifications as the circumstances require”, as set out in subsection 9(2).
+[28] The main line of enquiry will be whether the expense has been incurred for the purpose of gaining or producing income from the business, as contemplated by paragraph 18(1)(a) of the Act.
+[29] At this first stage of the analysis, it would be relevant to consider whether there is a personal element to the expense claimed (such as a payment to related parties), or evidence to suggest that the expense relates to goods or services that are subject to personal consumption by the taxpayer or related parties. Any suggestion that the expense was incurred primarily in the pursuit of a hobby or other personal endeavour would also be a relevant consideration.
+[30] In all such cases, the expense will be tainted. It will not survive the initial qualitative review and will not be deductible, as it cannot properly be “attributed to the source of income in question”; Stewart, supra, paragraph 57.
+[31] In this particular instance, the Minister has also relied on paragraph 18(1)(h) to assert that some expenses were actually “personal or living expenses” and as such were not deductible. In my view, this simply brings specificity to the analysis and reinforces the notion more broadly expressed in paragraph 18(1)(a).
+[32] At the second stage of the analysis, the concern is the size or amount of the expense claimed. Is it excessive? Is there an issue of magnitude or quantum?
+[33] For example, do the expenditures relate to “excessively luxurious facilities”[1] or accommodations, “expensive cars”[2] or “extravagant entertainment expenses”[3] or extravagant “traveling expenses.”[4]
+[34] As stated in Stewart, supra (at paragraph 57), section 67 provides “a statutory means of controlling excessive or unwarranted expenditures” or “a mechanism to reduce or eliminate the amount of the expense.” It involves a quantitative review of the expenditures found to be deductible by virtue of paragraph 18(1)(a) to determine if they are “reasonable in the circumstances”.
+[35] If the Minister concludes that they are unreasonable in the sense that “no reasonable business man would have contracted to pay that amount” (Gabco, supra), then, notwithstanding the business acumen of the business owner, the expenditures may be denied in whole or in part relying on section 67.
+[36] The case law also illustrates that it is not the role of the Minister (or of the Court), with the benefit of hindsight, to second-guess the business acumen of a taxpayer who incurs expenses in the context of a business venture, particularly where it is not as successful as was initially anticipated.
+[37] I would qualify the above by adding that the presumed existence of business acumen should not be treated as absolute, irrefutable or sacrosanct. This is particularly so in a tax system (based on self-reporting and self-assessment) where business losses can be used to artificially reduce taxable income from other sources, notably employment income.
+[38] In this particular instance, the expenditures claimed by the Appellant (and reduced or disallowed by the Minister) include meals & entertainment expenses, travel expenses, motor vehicle expenses and various consulting expenses.
+V. Meal & entertainment expenses [39] The Appellant claimed meals and entertainment expenses of $7,717 (50% of a total of $15,434). As indicated above, the Minister relied on paragraph 67.1(1)(b) of the Act to allow only $2,000 (50% of $4,000):
+67.1 (1) – Expenses for food, etc. - Subject to subsection (1.1), for the purposes of this Act, other than sections 62, 63, 118.01 and 118.2, an amount paid or payable in respect of the human consumption of food or beverages or the enjoyment of entertainment is deemed to be 50 per cent of the lesser of
+(a) the amount actually paid or payable in respect thereof, and
+(b) an amount in respect thereof that would be reasonable in the circumstances.
+[40] The Minister’s position was not that receipts had not been provided but that they were delivered in bulk without any notation as to who accompanied the taxpayer or the purpose of the meal. According to the auditor, some of the receipts were illegible. Some were for meals taken by one person late at night. Some of the expenses seemed to be a personal nature. A mileage log or register was not provided.
+[41] The CRA auditor who testified at the hearing reviewed the Auditor’s Report and noted that they had initially calculated 11 trips for 3 days for 2 people at $100 per day for a total of $6,600 but only allowed $4,000 (50% of $8,000) given the absence of a log and the personal nature of some of the expenses.
+[42] The Appellant argued that the meal and entertainment expenses had actually been incurred and that, in view of the nature of his business and the need to meet prospects and recruit sales agents, the expenses were justified.
+[43] The Appellant’s testimony on this issue was largely self-serving and uncorroborated and the question for the Court is whether he has rebutted the Minister’s assumption that the expenses were not incurred for the purposes of gaining or producing income from a business or that they were personal or living expenses.
+[44] Even if I accept that the Appellant has rebutted the assumption noted above, the second question is whether the expenses were “reasonable in the circumstances.”
+[45] On balance, I find that a certain portion of the subject expenses were incurred for the purpose of earning income from a business and conclude that the sum of $5,000 (50% of $10,000) would be “reasonable in the circumstances”.
+[46] I reach this conclusion noting that, while a mileage log or register was not kept, the Appellant has at least provided receipts and the name of some of the individuals who travelled with him abroad to the destinations provided. Moreover, I do so noting that the statutory provision in question already reduces the total claim for meals and entertainment expenses by 50% to reflect personal consumption.
+VI. Travel Expenses [47] The Appellant claimed total travel expenses of $30,418 (including air fare and lodging) to account for 11 trips to meet prospective sales agents and attend sales conferences. As noted above, he was often accompanied by different sales agents.
+[48] The Minister disallowed $20,418. Her position was not that receipts had not been provided to substantiate the amount claimed, but that they had difficulty identifying who had accompanied him, their relationship with the Appellant and the purpose of the trip. A trip to Orlando raised concerns that it was a personal expense. Apart from the receipts, there were no business records.
+[49] It is important to note that a list of the destinations and individuals targeted was later provided to the CRA Auditor. One trip was to the head office of Organo Gold in Richmond BC while another was to the US headquarters situated in Las Vegas, Nevada. Several other trips were made to other US destinations to meet potential prospects.
+[50] The Appellant explained that the trip to Orlando was to attend a sales conference and that there was no personal component. I accept his testimony on this point.
+[51] On the basis of the Appellant’s testimony, the nature of his enterprise and the authorities cited above, I am not prepared to second guess his decision to incur those expenses. There is an obvious connection to the source of income, and while the amount is substantial, I am unable to conclude that it was unreasonable in the circumstances for the purposes of section 67 of the Act.
+[52] As a result, I would allow the travel expenses as claimed.
+VII. Motor Vehicle Expenses [53] The Appellant claimed motor vehicle expenses of $13,813. He claimed that the ratio of kilometres driven for business purposes was 17,250 / 23,000 or 75%.
+[54] The Minister took the position the Appellant had only provided receipts to support total expenses $12,854 and allowed 75% of that amount or $9,641.
+[55] I will make the observation that the ratio of kilometres driven seems excessive in view of the fact that the Appellant was also employed on a full-time basis in 2011. Also, the Appellant failed to provide a travel log to support his position.
+[56] All things considered, I find that the Appellant has not demolished the Minister’s assumption on this point and I decline to disturb the conclusion reached.
+VIII. Other Expenses (Consulting) [57] The Appellant claimed “other expenses” of $18,353 which the Minister reduced to $16,316 on the basis of the receipts provided. He disallowed the difference.
+[58] During the audit stage, the Appellant produced an additional invoice for $15,000 US dollars paid to a certain Jesus Soriano Consulting. He explained that Mr. Soriano was a celebrity figure in the multi-level marketing world, that he had achieved gross sales of “over $50 million with 10,000 sub-agents” (according to his Notice of Appeal) and that he wanted to recruit him as one of his sub-agents. He paid his travel expenses to the head office of Organo Gold in Richmond, BC to introduce him to the business organization and later met him in Chicago, Illinois.
+[59] The Appellant explained that the monies paid to Mr. Soriano were intended to entice him into joining his sales team and as an advance on his future commissions. He disputed the Minister’s position that it was a loan or that it was unreasonable.
+[60] The Appellant acknowledged that his relationship with Mr. Soriano did not bear fruit. With hindsight, he regretted having incurred the expense but felt strongly that it was justified at the time. As far as he was concerned, it was the cost of doing business and a small price to pay in relation to the sales that Mr. Soriano was anticipated to generate.
+[61] There is an issue with the supporting documentation, which I will address below, but from a purely qualitative point of view, I find there is a clear nexus between the expense and the source of income and that it meets the test set out in paragraph 18(1)(a) of the Act. There is no reason to disallow it from that point of view.
+[62] However, the Minister has taken the position that the amount was unreasonable in relation to the source of income relying on section 67. Despite the Appellant’s explanation as to why the expense was incurred, I agree with the Minister’s assessment and, relying on the authorities, I find that “no reasonable business man would have contracted to pay that amount” (Gabco, supra), certainly not without a more detailed business agreement. There was no evidence of such an agreement.
+[63] I will also add that there were a number of other concerns including possible duplication for consulting services in that the Appellant had already claimed and been granted $16,316 for consulting services. The absence of books and records means that the Court is unable to make a proper assessment.
+[64] Secondly, the evidence tendered at the hearing to confirm payment was actually a wire transfer form for $6,000 US dollars and the payer was a numbered company (3918149 Canada Inc.) and not the Appellant. No explanation was provided.
+[65] On the basis of the above, I conclude that the Appellant has not provided prima facie evidence of the payment. Even if the amount had been paid in full, I would reject the claim for the additional consulting expenses of $15,000 US dollars for reasons noted above. I therefore confirm the Minister’s decision on this issue.
+IX. Conclusion [66] As a result of the above, the Appeal is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was entitled to a deduction for the following business expenses for the 2011 taxation year:
+Business Expenses allowed
+2011
+Advertising expenses
+$2,244
+Meals and entertainment
+$5,000
+Motor Vehicle Expenses
+$9,641
+Travel Expenses
+$30,418
+Telephone and Utilities
+$523
+Other Expenses
+$16,316
+Capital Cost allowance
+$2,339
+Total business expenses
+$64,142
+Signed at Ottawa, Canada, this 29th day of April 2016.
+“Guy Smith”
+Smith J.
+CITATION:
+2016 TCC 106
+COURT FILE NO.:
+2015-1031(IT)I
+STYLE OF CAUSE:
+Jonathan Anderson v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+November 19, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+April 29, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Peter Hogg, Joanne Magee and Jinyon Li, Principles of Canadian Income Tax Law, 8th ed. (Toronto: Carswell, 2013, at page 230).
+[2] E.g., Kent and Co v. M.N.R., [1971] Tax A.B.C. 1158 (T.A.B.).
+[3] E.g., Chabot v. M.N.R. (1961), 61 D.T.C. 193, 26 Tax A.B.C. 204 (T.A.B.).
+[4] E.g., No. 589 v. M.N.R. (1958), 59 D.T.C. 41, 21 Tax A.B.C. 153 (T.A.B.).

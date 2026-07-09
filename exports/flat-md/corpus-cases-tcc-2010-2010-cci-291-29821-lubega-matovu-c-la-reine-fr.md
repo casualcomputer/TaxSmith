@@ -1,0 +1,144 @@
+---
+title: "Lubega-Matovu c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29821/index.do"
+last_modified: "2010-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 291"
+citation2: ""
+neutral_citation: "2010 CCI 291"
+decision_date: "2010-04-30"
+language: "fr"
+item_id: "29821"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6564
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:03:23.232000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a6f1b55f3870225a907b7a51193f5637f45c5e82d3c85132eecb6aaa1de4de5c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lubega-Matovu c. La Reine
+
+- Citation: 2010 CCI 291
+- Decision date: 2010-04-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6564, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lubega-Matovu c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-04-30
+Référence neutre
+2010 CCI 291
+Numéro de dossier
+2009-3942(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2010 CCI 291
+Date : 20100531
+Dossier : 2009-3942(IT)I
+ENTRE :
+PAUL LUBEGA-MATOVU,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Révisés à partir de la transcription des motifs du jugement rendus oralement le 30 avril 2010, à Toronto (Ontario))
+La juge Campbell
+[1] Les présents appels portent sur les années d’imposition 2004 et 2005 de l’appelant. Dans le calcul de son revenu pour ces années, l’appelant a déduit des frais de location et des dépenses d’entreprise. Les frais de location ont été déduits à l’égard d’une propriété située au 3909 Rippleton Lane, à Mississauga, qu’il a achetée en 1999. Il habitait dans cette résidence avec une dénommée Rose et le jeune fils de celle‑ci.
+[2] Selon l’appelant, Rose l’aidait dans ses activités commerciales, vu qu’elle était par ailleurs sans emploi. Il a affirmé qu’elle louait une pièce de la propriété moyennant un loyer mensuel de 350 $ et que, plus tard, le fils de Rose a aussi eu une petite pièce dans la propriété pour laquelle l’appelant demandait à Rose un loyer mensuel supplémentaire de 100 $.
+[3] Selon l’appelant, certains mois, il a permis à Rose de déduire de son loyer les heures de travail qu’elle effectuait pour ses entreprises, bien que, comme pour la majeure partie de sa preuve, on ne sait pas très bien comment il comptabilisait les heures de travail qu’elle effectuait. Rose n’a pas été appelée à témoigner.
+[4] En ce qui concerne les activités commerciales de l’appelant, bien qu’il n’ait pas constitué de société, il exploitait cinq différentes entreprises pour lesquelles il a déduit des dépenses d’entreprise.
+[5] En ce qui concerne la première entreprise, Panelform Technology, en 2004, l’appelant est allé en Ouganda avec Rose et son fils pour lancer l’entreprise, qui visait à obtenir des contrats auprès de gouvernements et de constructeurs dans diverses régions de l’Afrique en vue de la vente de panneaux pour la construction de maisons. Cette entreprise a commencé en 2003, et, jusqu’à maintenant, l’appelant n’en a tiré aucun revenu.
+[6] Encore une fois, le témoignage de l’appelant a été vague au sujet de son recours aux services d’un ou plusieurs représentants en Afrique. En fin de compte, on ne sait pas très bien combien de personnes l’appelant a employées dans les faits, ni comment celles‑ci étaient payées, ou comment il assurait le suivi de leurs activités. Il a laissé entendre qu’il recevait des rapports par Internet, mais il n’a fait aucun effort pour montrer comment il faisait le suivi de ces rapports, ce qu’ils renfermaient, de qui ils provenaient, ni quelle rémunération serait payée, le cas échéant, par suite de tels rapports.
+[7] Pour ce qui est de la deuxième entreprise, l’appelant a essayé de vendre des générateurs en Ouganda pour fournir de l’électricité. Selon l’appelant, il est allé en Ouganda à la demande de la société qui fournissait ces générateurs. Selon ses dires, il s’est rendu en Ouganda en 2003 et en 2004 afin de trouver un représentant qui pourrait vendre les générateurs pour son compte.
+[8] Encore une fois, la preuve n’était pas claire, mais, en ce qui concerne l’une de ces entreprises ou les deux, soit Panelform Technology et l’entreprise de vente de générateurs, l’appelant a déclaré qu’il avait refinancé sa maison et l’avait grevée d’une seconde hypothèque. Il n’y avait toutefois aucun document ni élément de preuve étayant les fonds provenant de ce prêt hypothécaire ou établissant un lien entre ces fonds et l’une ou l’autre de ces entreprises.
+[9] La troisième entreprise avait trait à la vente de produits vitaminiques et de produits minéraux sous forme liquide. Ces produits étaient fournis par une société appelée Market America. L’appelant a produit un dossier comportant diverses communications et factures ainsi que différents bordereaux d’expédition échangés entre Market America et lui-même en 2004 et en 2005. Cependant, aucun de ces documents ne comportait de factures, de bordereaux d’expédition ou d’autres documents étayant que ces produits avaient en fait été vendus à des clients par l’appelant. Bien que la vérificatrice ait demandé à l’appelant de lui fournir une liste de clients, celui-ci n’a jamais acquiescé à sa demande. Il n’a pas non plus produit une telle liste à l’audience du présent appel.
+[10] La quatrième entreprise, Midtown Market, concernait la vente de vêtements hip-hop. Selon l’appelant, il a loué un emplacement dans un marché aux puces, mais il n’a pas réussi à vendre de vêtements, que ce soit dans le marché aux puces ou à des magasins de détail. Selon la vérificatrice, le seul élément de preuve relatif à la vente de vêtements est un reçu de 30 $, et, compte tenu de cet unique reçu, l’appelant aurait commandé un deuxième chargement de vêtements.
+[11] La dernière entreprise que l’appelant a exploitée au cours des années en cause avait trait à la vente d’assurances en tant qu’agent pour une société appelée Primerica. Encore une fois, il m’a été difficile de reconstituer toute l’histoire en fonction de ce que l’appelant m’a dit. En ce qui concerne les dépenses déduites relativement à cette entreprise, en contre‑interrogatoire, l’appelant a témoigné qu’il conservait tous les documents ayant trait aux dépenses dans une boîte à chaussures et qu’il ne répartissait pas en bonne et due forme les dépenses entre les diverses entreprises. Il a aussi déduit environ 17 000 $ au titre de pertes relatives à des commissions en 2004, mais il a déclaré que ces pertes ne se rapportaient pas nécessairement à Primerica et à la vente d’assurances, parce qu’il avait l’habitude de simplement répartir entre les diverses entreprises, selon toute vraisemblance au hasard, les dépenses correspondant aux documents placés dans la boîte à chaussures.
+[12] Il a déduit des sommes importantes au titre de frais afférents à un véhicule à l’égard de ces entreprises. Il a calculé un pourcentage de 70 % pour 2004 et d’environ 66 % pour 2005 pour ce qui est de l’utilisation de la Camry à des fins commerciales. Si je comprends bien son témoignage, il a fait le total de tous les reçus pour l’essence et il a appliqué ces pourcentages à l’ensemble des frais d’essence et des autres frais afférents à un véhicule. Il a fourni des pièces justificatives montrant qu’il avait supporté ces dépenses, mais il n’a pas essayé de montrer que son utilisation du véhicule à des fins commerciales se situait entre 66 % et 70 % pour ces années-là. Il n’y avait pas de liste des clients, que ce soit pour la vente d’assurances ou pour l’achat de produits vitaminiques. Il n’y avait pas non plus d’endroits et de dates quant aux déplacements faits pour rencontrer des clients ou assister à des réunions; il n’y avait que certains sommaires reconstitués. Sans ces pièces du casse-tête, je ne peux même pas tirer de conclusion à l’égard du caractère raisonnable des pourcentages qu’il a choisis pour ce qui est de l’utilisation de son véhicule à des fins commerciales.
+[13] La vérificatrice, Nellie Cheng, a témoigné que, lorsqu’elle a effectué la vérification, elle n’a pas contesté le fait que l’appelant avait dépensé les sommes déduites, ni le nombre de kilomètres parcourus déclarés. Cependant, elle a été incapable de déterminer les sommes exactes qui seraient liées aux activités commerciales. Bien que l’Agence du revenu du Canada (l’« ARC ») ait présenté des demandes, l’appelant n’a jamais fourni de liste de clients pour appuyer ses allégations selon lesquelles il rencontrait ses clients.
+[14] De plus, bien qu’il ait fourni des comptes ou des factures, il n’a pas fourni de preuves de paiement. Il a plutôt donné à la vérificatrice des explications ou un récit à propos des dépenses, mais rien de plus à l’appui de son récit selon lequel les dépenses étaient liées à une activité commerciale.
+[15] Par exemple, en ce qui concerne l’entreprise de vente de vêtements hip-hop, l’appelant n’a pas fourni de preuve de paiement des chargements de vêtements. En fait, le nom de l’appelant ne figurait pas sur les documents fournis relativement aux chargements.
+[16] En outre, l’appelant n’a jamais fourni de renseignements précis concernant l’emplacement qu’il aurait loué au marché aux puces. Comme il a semblé avoir tendance à le faire dans une bonne partie de sa preuve, il a plutôt fourni des renseignements promotionnels généraux concernant le coût de location d’un emplacement.
+[17] Les questions en litige en l’espèce sont généralement simples; il ne s’agit certainement pas de questions de droit complexes. Dans de tels appels, un contribuable fournit généralement les documents qu’il a en sa possession à l’appui des dépenses dont il demande la déduction. Lorsque certains éléments sont absents de la documentation, le contribuable peut témoigner de vive voix pour justifier les déductions demandées.
+[18] La présente audience a duré une journée complète et je dois avouer qu’à la fin de celle‑ci, j’avais le sentiment de n’avoir eu que des vérités partielles et des éléments de preuve contradictoires, sans que jamais l’appelant ait présenté l’ombre d’une preuve pour corroborer le fait que ces dépenses étaient réellement liées à ses activités commerciales.
+[19] En contre-interrogatoire, l’appelant a eu tendance à fournir de longues réponses lorsqu’on lui posait une question à laquelle il aurait pu répondre beaucoup plus simplement, voire par oui ou non. Plus le nombre de questions posées à l’appelant était grand, plus la probabilité que la réponse diffère d’une réponse donnée précédemment était grande. Les tentatives de l’appelant pour étayer ses dépenses consistaient principalement en la présentation de matériel promotionnel très général, de communications et de preuves de paiement de diverses dépenses. Il n’a toutefois pas présenté d’éléments de preuve permettant d’établir quelle partie des dépenses constituait des dépenses d’entreprise, et non des dépenses personnelles, et à laquelle des cinq entreprises ces dépenses étaient liées dans les faits.
+[20] En outre, l’appelant n’avait que très peu, voire pas du tout, de connaissances précises concernant la façon dont les dépenses auraient été supportées pour les activités commerciales. L’appelant tenait littéralement ses documents dans une boîte à chaussures. Il a lui-même admis qu’il était paresseux lorsqu’il était question de la tenue de ses documents. Il essayait de lancer cinq entreprises différentes en même temps, mais il n’a même pas utilisé cinq boîtes à chaussures différentes. Il a plutôt jugé qu’il était suffisant de mettre tout ce qu’il avait dans une boîte et de la remettre à l’ARC. La vérificatrice a appelé le contenu cette boîte un [traduction] « fouillis de documents ». Lorsqu’on lui a demandé comment il assurait le suivi de ses activités commerciales, il a répondu que [traduction] « tout était dans sa tête ».
+[21] S’il y avait un quelconque plan ou une quelconque structure dans toute cette affaire, cela n’est pas vraiment ressorti de la preuve qu’il a fournie, laquelle, au lieu de clarifier certaines des dépenses, a simplement brouillé les cartes un peu plus.
+[22] L’appelant m’a dit qu’il n’avait pas les moyens d’avoir un système comptable coûteux pour assurer le suivi de ses activités commerciales. Cependant, un simple journal aurait suffi pour chacune des entreprises : il aurait pu y inscrire le nom de ses clients, les dates de ses réunions, ses ventes, les kilomètres parcourus, etc. Au lieu de cela, l’appelant n’a pas tenu de documents et n’a pas été en mesure de fournir un témoignage digne de foi à l’égard de tous ces éléments lorsqu’il s’est présenté devant la Cour.
+[23] L’absence de documents, conjuguée à l’attitude désinvolte de l’appelant à l’égard de ses activités, est plus que consternante, mais la situation est encore plus désolante lorsque je tiens compte de sa formation universitaire et de sa carrière à temps plein. Non seulement l’appelant a suivi une formation supérieure en comptabilité et exerce la profession de comptable depuis de nombreuses années, mais il travaille comme vérificateur auprès de l’ARC depuis 25 ans. Comme l’avocat de l’intimée l’a souligné, l’appelant travaille pour l’entité gouvernementale même à qui l’on a confié le mandat d’assurer la bonne administration de la Loi de l’impôt sur le revenu.
+[24] Il est difficile de croire qu’un vérificateur aborderait ses propres activités commerciales d’une telle façon, alors que les renseignements mêmes auxquels je m’attends de sa part sont ceux qu’il cherche à obtenir lorsqu’il procède à une vérification à l’égard d’autres contribuables faisant des affaires au Canada.
+[25] Il a bien déclaré, et je cite : « Nous ne faisons pas des affaires comme vous », en faisant référence, je crois, aux activités exercées en Afrique. Je n’ai même pas la prétention de comprendre cette affirmation, surtout lorsque l’appelant devrait avoir une connaissance directe des exigences précises de la Loi. Il réside au Canada, il faisait des affaires à partir d’ici et il essayait de déduire des dépenses au titre de la Loi de l’impôt sur le revenu au Canada. Je ne vois pas comment il peut s’attendre à avoir droit à une quelconque déduction en faisant une déclaration aussi absurde.
+[26] L’intimée m’a renvoyée à de nombreuses décisions, dont l’arrêt de principe Stewart v. Canada, 2002 D.T.C. 6979, rendu par la Cour suprême du Canada, qui a écarté le critère de l’expectative raisonnable de profit et l’a remplacé par un examen à multiples volets. L’arrêt Stewart fait référence à l’utilisation des facteurs objectifs énumérés par le juge Dickson dans l’arrêt Moldowan, soit :
+1) l’état des profits et pertes pour les années antérieures;
+2) la formation du contribuable;
+3) la voie sur laquelle il entend s’engager;
+4) la capacité de l’entreprise de réaliser un profit.
+[27] Au paragraphe 54 de l’arrêt Stewart, la Cour suprême du Canada fait quand même référence à l’intention subjective de réaliser un profit, à laquelle s’ajoutent ces facteurs objectifs. Autrement dit, si un contribuable a l’intention subjective de tirer un profit d’une activité, il doit y avoir des éléments de preuve étayant l’intention subjective du contribuable, compte tenu des facteurs objectifs énoncés dans l’arrêt Moldowan.
+[28] Il ne fait aucun doute que l’appelant a l’intention de tirer profit de ces activités et que c’est ce qu’il veut, mais il n’a pas satisfait aux critères objectifs parce que la preuve ne démontre pas qu’il a exercé ses activités comme le ferait un homme d’affaires sérieux, suivant ce que le juge Bowman a appelé les « normes courantes de gestion d’entreprise » dans la décision Kaye.
+[29] J’ai été saisie d’éléments de preuve, d’explications et de récits qui sont en grande partie contradictoires et qui ne sont pas suffisamment cohérents pour que je puisse tirer des conclusions; il est question de cinq entreprises entremêlées; je dois composer avec l’absence de documents pertinents ainsi qu’avec l’absence générale d’un témoignage franc, cohérent et honnête, et rien de tout cela ne me permet de conclure que l’appelant exerçait ses activités commerciales comme le ferait un homme d’affaires sérieux.
+[30] En ce qui concerne les frais de location, le témoignage possiblement corroborant de Rose aurait pu aider l’appelant. Sans un tel témoignage, je ne peux me fonder que sur l’absence de caractère commercial de cette prétendue [traduction] « entente » conclue entre Rose et l’appelant.
+[31] Suivant les facteurs établis dans les arrêts Stewart et Moldowan, la preuve ne permet pas de conclure que l’appelant avait l’intention de tirer un profit du loyer qu’il demandait à Rose. En fait, certains mois, lorsqu’elle ne pouvait pas payer le loyer, elle compensait en aidant l’appelant dans ses activités commerciales.
+[32] Enfin, en ce qui concerne les pénalités, je crois que l’intimée s’est acquittée du fardeau qui incombe au ministre selon le paragraphe 163(2) de la Loi, soit celui d’établir qu’il y a eu faute lourde, par opposition à faute ordinaire. L’imposition des pénalités est étayée par ce qui suit :
+1) l’importance de l’omission de l’appelant;
+2) sa formation;
+3) le fait qu’il était au courant de l’importance de bien tenir ses documents, parce que, en tant que vérificateur, il applique lui‑même exactement les mêmes principes aux autres contribuables;
+4) fort de ces connaissances, il aurait dû être conscient des problèmes que l’absence d’une telle tenue de documents pourrait poser pour lui.
+[33] Pour résumer, nous vivons dans un régime d’autocotisation et d’auto‑contrôle dans lequel chaque contribuable a l’obligation de rendre compte de ses dépenses s’il prévoit en demander la déduction. Un contribuable ne peut pas s’attendre à avoir gain de cause s’il présente à la Cour des documents incomplets et désorganisés et témoigne de façon vague et non convaincante au sujet des particularités des dépenses déclarées.
+[34] De plus, la formation de l’appelant en comptabilité et son travail de vérificateur à l’ARC sont des facteurs très importants lorsque l’on examine la méthode qu’il a employée pour la tenue de ses propres documents.
+[35] Pour tous ces motifs, les appels sont rejetés sans frais.
+Signé à Ottawa, Canada, ce 31e jour de mai 2010.
+« Diane Campbell »
+Juge Campbell
+Traduction certifiée conforme
+ce 28e jour de janvier 2014.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2010 CCI 291
+NO DU DOSSIER DE LA COUR : 2009-3942(IT)I
+INTITULÉ : Paul Lubega-Matovu
+c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 30 avril 2010
+MOTIFS DU JUGEMENT : L’honorable juge Diane Campbell
+DATE DU JUGEMENT
+RENDU ORALEMENT : Le 30 avril 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Khashayar Haghgouyan
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

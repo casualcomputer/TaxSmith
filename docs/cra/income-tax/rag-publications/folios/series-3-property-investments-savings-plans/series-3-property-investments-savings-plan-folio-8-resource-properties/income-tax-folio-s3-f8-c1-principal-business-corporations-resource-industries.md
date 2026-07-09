@@ -1,0 +1,248 @@
+---
+title: "Income Tax Folio S3-F8-C1, Principal-business Corporations in the Resource Industries"
+source: https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-8-resource-properties/income-tax-folio-s3-f8-c1-principal-business-corporations-resource-industries.html
+last_modified: 2024-12-23
+---
+# Income Tax Folio S3-F8-C1, Principal-business Corporations in the Resource Industries
+
+**Series 3: Property, Investments and Savings Plans**
+
+**Folio 8: Resource Properties**
+
+**Chapter 1: Principal-business Corporations in the Resource Industries**
+
+## Summary
+
+The Act provides various incentives for principal-business corporations operating in resource industries. This Chapter discusses the criteria for determining whether a corporation qualifies as a **principal-business corporation (PBC)** as that term is defined in subsection 66(15). In general, a PBC is a corporation whose principal business includes one or a combination of the qualifying business activities described in paragraphs (a) to (i) in the definition.
+
+The Chapter also outlines the significance of PBC status for income tax purposes and discusses some general information that could be useful to a corporation when determining this status.
+
+The Canada Revenue Agency (CRA) issues income tax folios to provide a summary of technical interpretations and positions regarding certain provisions contained in income tax law. Due to their technical nature, folios are used primarily by tax specialists and other individuals who have an interest in tax matters. While each paragraph in a chapter of a folio may relate to provisions of the law in force at the time it was written (see the [Application](#toc5) section), the information provided is not a substitute for the law. The reader should, therefore, consider the Chapter’s information in light of the relevant provisions of the law in force for the particular tax year being considered.
+
+The CRA may have published additional guidance and detailed filing instructions on matters discussed in this Chapter. See the CRA's [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html) web page for this information and other topics that may be of interest.
+
+## Table of contents
+
+- [Discussion and interpretation](#toc0)
+
+    - [Abbreviations used](#toc1)
+
+    - [Criteria to qualify as a PBC](#toc2)
+
+    - [Additional comments on PBC criteria](#toc3)
+
+    - [Significance of PBC status](#toc4)
+
+- [Application](#toc5)
+
+- [Reference](#toc6)
+
+- [History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-8-resource-properties/income-tax-folio-s3-f8-c1-principal-business-corporations-resource-industries/chapter-history-s3-f8-c1-principal-business-corporations-resource-industries.html)
+
+## Discussion and interpretation
+
+### Abbreviations used
+
+**1.1** The following abbreviations are used in this Chapter and, where indicated, have the meaning contained in the Act:
+
+**CCA**– capital cost allowance.
+
+**CDE** – **Canadian development expense** as defined in subsection 66.2(5).
+
+**CEE** – **Canadian exploration expense** as defined in subsection 66.1(6).
+
+**CRCE** - **Canadian renewable and conservation expense** as defined in subsection 66.1(6) of the Act and section 1219 of the Regulations.
+
+**FTS** – **flow-through share** as defined in subsection 66(15).
+
+**PBC** – **principal-business corporation**as defined in subsection 66(15).
+
+### Criteria to qualify as a PBC
+
+**1.2** Subsection 66(15) defines a PBC to be a corporation:
+
+- whose principal business consists of one or a combination of the listed operations or activities, as described in ¶1.3, or
+
+- all or substantially all of the assets of which are shares of the capital stock or indebtedness of one or more PBCs that are related to the corporation, otherwise than by reason of a right referred to in paragraph 251(5)(b).
+
+#### Qualifying business operations
+
+**1.3** The qualifying business operations or activities described in paragraphs (a) to (i) of the PBC definition in subsection 66(15) are:
+
+(a) the production, refining or marketing of petroleum, petroleum products or natural gas,
+
+(a.1) exploring or drilling for petroleum or natural gas,
+
+(b) mining or exploring for minerals,
+
+(c) the processing of mineral ores for the purpose of recovering metals or minerals from the ores,
+
+(d) the processing or marketing of metals or minerals that were recovered from mineral ores and that include metals or minerals recovered from mineral ores processed by the corporation,
+
+(e) the fabrication of metals,
+
+(f) the operation of a pipeline for the transmission of oil or gas,
+
+(f.1) the production or marketing of calcium chloride, gypsum, kaolin, lithium, sodium chloride or potash,
+
+(g) the manufacturing of products, where the manufacturing involves the processing of calcium chloride, gypsum, kaolin, lithium, sodium chloride or potash,
+
+(h) the generation or distribution of energy, or the production of fuel, using property described inClass 43.1 or 43.2 of Schedule II to the Regulations, and
+
+(i) the development of projects for which it is reasonable to expect that at least 50% of the capital cost of the depreciable property to be used in each project would be the capital cost of property described in Class 43.1 or 43.2 of Schedule II to the Regulations.
+
+Some of the qualifying business operations and activities included in the PBC definition are discussed in ¶1.4 to 1.10.
+
+#### Production, refining or marketing of petroleum, petroleum products, or natural gas
+
+**1.4** In reference to petroleum products, this phrase, in paragraph (a) of the PBC definition, includes all steps up to the production and sale of a petroleum product as a raw material, except the fabrication of articles from such raw material. For example, the fabrication of toys from plastic is not a qualifying operation.
+
+#### Exploring or drilling for petroleum or natural gas
+
+**1.5** Paragraph (a.1) of the PBC definition includes all activities of a taxpayer in the course of exploring and developing petroleum or natural gas producing properties, including all drilling operations even if such operations do not result in producing wells. For example:
+
+- drilling an oil or gas well, building a temporary access road to the well, or preparing the site in respect of the well;
+
+- drilling or converting a well for disposal of waste liquids from a petroleum or natural gas well;
+
+- drilling for water or gas for injection into a petroleum or natural gas formation; and
+
+- drilling or converting a well for the injection of water or gas to assist in the recovery of petroleum or natural gas from another well.
+
+#### Mining or exploring for minerals
+
+**1.6** Paragraph (b) of the PBC definition includes all activities necessary in the search for, and examination of, prospective minerals, the development of minerals for mining and the production of ore or minerals from the earth, such as:
+
+- prospecting;
+
+- carrying out geological, geophysical, or geochemical surveys;
+
+- drilling by rotary, diamond, percussion or other methods;
+
+- trenching, digging test pits, and preliminary sampling; and
+
+- clearing, removing overburden, and stripping.
+
+#### Fabrication of metals
+
+**1.7** Paragraph (e) of the PBC definition includes operations such as the manufacture of alloys (for example, brass, solder, and stainless steel) and the intermediate or final stages of manufacturing metals such as stamping, forming, machining, welding, cutting, or casting. It does not include the buying and assembling of parts that have already been fabricated.
+
+#### Generation or distribution of energy, or the production of fuel
+
+**1.8** The phrase, **generation of energy**, in paragraph (h) of the PBC definition, includes operations such as the generation of electrical energy:
+
+- from solar energy by using fixed location photovoltaic equipment that is described in subparagraph (d)(vi) of CCA Class 43.1; or
+
+- by using a fixed location wind energy conversion system that is described in subparagraph (d)(v) of CCA Class 43.1.
+
+**1.9** Class 43.1 and Class 43.2 of Schedule II to the Regulations provide an accelerated CCA for investments in certain clean energy generation and energy conservation equipment situated in Canada. Class 43.1 has a 30% CCA rate on a declining balance basis and Class 43.2 has a 50% CCA rate on a declining balance basis. For more information relating to Class 43.1, Class 43.2 and other tax incentives available for clean energy equipment, refer to [Income Tax Folio S3-F8-C2, Tax Incentives for Clean Energy Equipment](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-8-resource-properties/income-tax-folio-s3-f8-c2-tax-incentives-clean-energy-equipment.html).
+
+#### Development of projects
+
+**1.10** Paragraph (i) of the PBC definition refers to the development of clean energy generation and energy conservation projects that primarily use depreciable property eligible for Class 43.1 or 43.2. Certain expenditures for such projects may be described in the definition of CRCE in section 1219 of the Regulations. Paragraph (g.1) of the definition of CEE in subsection 66.1(6) includes CRCE.
+
+Technical information on the equipment and expenses that can qualify for Class 43.1, Class 43.2 or CRCE is available on the Natural Resources Canada web page entitled [Tax Savings for Industry](https://natural-resources.canada.ca/science-and-data/funding-partnerships/opportunities/grants-incentives/tax-savings-industry/5147).
+
+### Additional comments on PBC criteria
+
+**1.11** A corporation might be engaged in activities listed in ¶[1.3](#para1.3) as well as other business operations. In the CRA’s view, such a corporation will generally qualify as a PBC if the corporation’s activities of the kind described in ¶1.3 represent a larger or more important business operation than all other activities of the corporation combined. This determination requires an examination and comparison of all the facts concerning each of the business operations in which the corporation is engaged.
+
+**1.12** The following are important criteria for making the determination described in ¶1.11:
+
+- the amount of income derived from each business operation;
+
+- the amount of gross revenue attributable to each business operation;
+
+- the operating costs and expenses of each business operation;
+
+- the capital employed in each business operation; and
+
+- the time and effort expended by the employees on each business operation.
+
+**1.13** The question of whether the principal business operations of a corporation are of the kinds specified in ¶1.3 is one of fact that must be determined after a consideration of all of the surrounding circumstances and a review of all activities carried on by the corporation. No single criterion in ¶1.12 will necessarily be decisive, and the significance of a particular criterion depends on the facts of the case.
+
+**1.14** In determining whether a corporation qualifies as a PBC, its activities for the full tax year must be considered. Also, the business operations of the company as a whole should be considered, not only the company’s operations in Canada.
+
+**1.15** In general, in determining a corporation’s principal business for a particular tax year, only the business operations in that year should be considered. However, in some cases it may be necessary to review the operations of the company over a longer period of time. For example, a mining corporation which has qualified as a PBC for many years might suffer a temporary decline in its mining activity in a particular year due to various problems, such as adverse economic conditions, labour problems, or other short-term difficulties. In such circumstances, it may be appropriate to continue to regard the company as a PBC for that year even though it might not have qualified as a PBC on the basis of its operations for that year only. However, in determining whether a corporation qualifies as a PBC for a particular year, regard may be had to a future plan of the corporation to the extent that it is implemented in the year.
+
+**1.16** The management and administrative functions which are necessary to the conduct of the business operations referred to in ¶1.3 are considered to be an integral part of those operations.
+
+**1.17**For a corporation to qualify as a PBC, it is not necessary that the corporation perform the qualifying activities described in ¶1.3 on its own property.
+
+**1.18** A corporation might be a member of a partnership, joint venture, syndicate or similar association. In such cases, in determining whether the corporation qualifies as a PBC, the business operations carried on by such organizations are regarded as being carried on by the corporation directly, to the extent of the corporation’s interest in such organizations.
+
+**1.19** As the PBC definition only refers to a corporation, not a taxable Canadian corporation, a non-resident corporation can qualify as a PBC provided that it meets all applicable criteria.
+
+### Significance of PBC status
+
+**1.20** There are various provisions of the Act that may apply to a taxpayer that qualifies as a PBC, some of which are discussed below.
+
+#### Deduction for certain PBCs in respect of cumulative CEE
+
+**1.21** Subsection 66.1(2) provides a special rule for computing the amount deductible by certain PBCs for a tax year in respect of their cumulative CEE (defined in subsection 66.1(6)). This rule generally limits a PBC’s deduction of its CEE for a tax year to the amount of its net income for the year, thus preventing the PBC from creating or increasing a non-capital loss. Subsection 66.1(2) excludes from its application certain PBCs involved with clean energy generation and energy conservation projects which qualify under paragraphs (h) or (i) of the definition of PBC. Subsection 66.1(3) allows these excluded PBCs to deduct their full CEE balances and create or increase non-capital losses. This is relevant because these excluded PBCs would generally not own Canadian resource property as defined under subsection 66(15). Therefore, after an acquisition of control, the excluded PBCs would not be able to use their cumulative CEE balances. Under subsection 66.1(3), excluded PBCs may create non-capital losses and, after an acquisition of control, will be able to use these losses subject to the restrictions contained in subsection 111(5) and related rules. For more information, refer to paragraphs 13 to 15 of [Interpretation Bulletin IT-302R3, Losses of a Corporation - The Effect that Acquisitions of Control, Amalgamations, and Windings-up have on Their Deductibility - After January 15, 1987](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it302r3.html).
+
+#### Deduction for certain PBCs that engage in trading in resource properties
+
+**1.22** Subsection 66(5) provides that sections 59, 66.1, 66.2, 66.21, 66.4 and 66.7 and subsections 66(3) and (4) do not apply to taxpayers whose business includes trading in resource properties unless that taxpayer is a PBC.
+
+#### Exemption from certain provisions dealing with loss restriction events (change of control, etc.)
+
+**1.23** Subsection 66(11.4) is a deeming rule which applies if:
+
+- a taxpayer is subject to a loss restriction event as defined in subsection 251.2(2);
+
+- the taxpayer, a partnership of which the taxpayer is a majority-interest partner or, after September 12, 2013, a trust of which the taxpayer is a majority-interest beneficiary (as defined in subsection 251.1(3)), has acquired certain Canadian resource property or foreign resource property; and
+
+- the property was acquired within the 12-month period that ended immediately before the loss restriction event.
+
+In such circumstances, subsection 66(11.4) deems the property to have been acquired at the time of the loss restriction event for the purpose of calculating the taxpayer’s relevant resource pools other than for the purpose of applying section 66.7. However, this provision would not apply where the taxpayer was a PBC, or would have been a PBC if it were a corporation, immediately before the 12-month period preceding the loss restriction event.
+
+#### Flow-through shares
+
+**1.24** In general, subsection 66(15) defines a **FTS** as either:
+
+- a share of the capital stock of a PBC (other than a prescribed share under section 6202.1 of the Regulations); or
+
+- a right to acquire a share of the capital stock of a PBC (other than a prescribed right under section 6202.1 of the Regulations).
+
+This share or right must be issued to a person under an agreement in writing in which the PBC agrees to incur CEE or CDE in an amount not less than the share or right consideration. The PBC must also agree to renounce the CEE or CDE to that person within the applicable time period, pursuant to the provisions in the definition and subsections 66(12.6), 66(12.62) and 66(12.66). Pursuant to paragraphs 66(12.6)(b.2) and 66(12.62)(b.2), CEE and CDE as it relates to oil, gas, and coal activities can no longer be renounced to a FTS shareholder under FTS agreements made after March 2023.
+
+**1.25** [Guide T100 – Instructions for the Flow-Through Share Program](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t100.html), provides information on reporting procedures regarding the flow-through share program.
+
+#### Investment tax credits for certain expenditures of PBCs
+
+**1.26** Subsections 127(5) and (9) allow specific investment tax credits for flow-through mining expenditures and flow-through critical mineral mining expenditures of certain PBCs.
+
+**1.27** This paragraph has been deleted. (see the [History entry](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-8-resource-properties/income-tax-folio-s3-f8-c1-principal-business-corporations-resource-industries/chapter-history-s3-f8-c1-principal-business-corporations-resource-industries.html))
+
+**1.28** This paragraph has been deleted. (see the [History entry](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-8-resource-properties/income-tax-folio-s3-f8-c1-principal-business-corporations-resource-industries/chapter-history-s3-f8-c1-principal-business-corporations-resource-industries.html))
+
+**1.29** This paragraph has been deleted. (see the [History entry](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-8-resource-properties/income-tax-folio-s3-f8-c1-principal-business-corporations-resource-industries/chapter-history-s3-f8-c1-principal-business-corporations-resource-industries.html))
+
+**1.30** Individuals (other than trusts) that are flow-through shareholders of a PBC may be entitled to claim a 15% investment tax credit for flow-through mining expenditures renounced to them. **Flow-through mining expenditure**is defined in subsection 127(9) as CEE incurred by a PBC in conducting **certain**mining exploration activities and renounced to the taxpayer under a FTS agreement. These mining exploration activities must be conducted from or above the surface of the earth for the purpose of determining the existence, location, extent or quality of a **mineral resource** as described in paragraph (a) or (d) of the definition of **mineral resource**in subsection 248(1). The definition of flow-through mining expenditure applies to expenses incurred after March 2024 and before 2026 and renounced under a FTS agreement entered into after March 2024 and before April 2025.
+
+**1.31** Individuals (other than trusts) that are flow-through shareholders of a PBC may be entitled to claim a 30% investment tax credit for flow-through critical mineral mining expenditures renounced to them. The term **flow-through critical mineral mining expenditure** is defined in subsection 127(9) as CEE incurred by a PBC in conducting mining exploration activity from or above the surface of the earth primarily targeting critical minerals and renounced to the taxpayer under a FTS agreement. **Critical mineral** is defined in subsection 127(9) and means copper, nickel, lithium, cobalt, graphite, a rare earth element, scandium, titanium, gallium, vanadium, tellurium, magnesium, zinc, a platinum group metal, or uranium. The definition of flow-through critical mineral mining expenditure applies to expenses incurred after April 7, 2022 and renounced under a FTS agreement entered into after April 7, 2022 and before April 1, 2027.
+
+**1.32** In order to claim the 30% investment tax credit for flow-through critical mineral mining expenditures, a **qualified professional engineer or professional geoscientist** (defined in subsection 127(9)) must certify, in prescribed form and manner ([T100A-CERT Certificate of Qualified Engineer or Geoscientist](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t100a-cert.html)), that the expense will be incurred in accordance with an exploration plan that primarily targets critical minerals. The certification must be made within the 12 month period immediately preceding the time the FTS agreement is entered into.
+
+**1.33** Effective April 7, 2022, a taxpayer is not able to claim an investment tax credit for a flow-through mining expenditure (described in ¶1.30) and a flow-through critical mineral mining expenditure (described in ¶1.31) in respect of the same expense. Once a taxpayer claims an investment tax credit for an expenditure as either a flow-through mining expenditure or a flow-through critical mineral mining expenditure, the taxpayer is not able to subsequently amend their claim in order to change the type of investment tax credit claimed for that expenditure.
+
+**1.34** Effective March 28, 2023, lithium is added to the list of minerals included in subparagraph (d)(ii) of the definition of **mineral resource** in subsection 248(1). Consequently, expenditures related to the exploration of lithium brine deposits may qualify for an investment tax credit as a flow-through mining expenditure or flow-through critical mineral mining expenditure for expenditures incurred after March 27, 2023.
+
+## Application
+
+This updated Chapter, which may be referenced as S3-F8-C1, is effective December 23, 2024.
+
+When it was first published on April 3, 2015, this Chapter replaced and cancelled *Interpretation Bulletin IT-400, Exploration and Development Expenses - Meaning of Principal-Business Corporation*, and its special release,*IT-400SR, Exploration and Development Expenses - Meaning of Principal-Business Corporation*.
+
+The history of updates to this Chapter as well as any technical updates from the cancelled interpretation bulletin can be viewed in the [Chapter History](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-8-resource-properties/income-tax-folio-s3-f8-c1-principal-business-corporations-resource-industries/chapter-history-s3-f8-c1-principal-business-corporations-resource-industries.html) page.
+
+Except as otherwise noted, all statutory references herein are references to the provisions of the *Income Tax Act*, R.S.C., 1985, c.1 (5th Supp.), as amended and all references to a Regulation are to the *Income Tax Regulations*, C.R.C., c. 945, as amended.
+
+Links to jurisprudence are provided through CanLII.
+
+Income tax folios are available in electronic format only.
+
+## Reference
+
+Subsection 66(15) (also subsections 66(5), (11.4), (12.6), (12.62), (12.66) and (21); subsections 66.1(2), (3) and (6); subsection 66.2(5); subsections 127(5) and (9); subsection 248(1) and paragraph 251(5)(b) of the Act, and sections 1219 and 6202.1 of the Regulations)

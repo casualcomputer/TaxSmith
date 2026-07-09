@@ -1,0 +1,771 @@
+---
+title: "Husky Oil Operations Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/417425/index.do"
+last_modified: "2019-06-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 136"
+citation2: ""
+neutral_citation: "2019 CCI 136"
+decision_date: "2019-06-18"
+language: "fr"
+item_id: "417425"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4389
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:15:14.561000+00:00"
+cases_cited_count: 34
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ca33c20ec383d35c1c47c4bcf3dd3c8e051d5a841aaf79f354c98efc8c2c1a0b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Husky Oil Operations Limited c. La Reine
+
+- Citation: 2019 CCI 136
+- Decision date: 2019-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4389, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Husky Oil Operations Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-06-18
+Référence neutre
+2019 CCI 136
+Numéro de dossier
+2017-3308(IT)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3308(IT)G
+ENTRE :
+HUSKY OIL OPERATIONS LIMITED
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue les 11 et 12 juin 2018 à Vancouver
+(Colombie-Britannique)
+Devant : L’honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocats de l’appelante :
+Me David Jacyk, Me Edward Rowe
+Avocate de l’intimée :
+Me Carla Lamash
+ORDONNANCE
+Conformément aux motifs de l’ordonnance ci-jointe, les éléments suivants de la réponse modifiée (déposée le 26 janvier 2018) sont radiés :
+a) paragraphe 5 et alinéas 8a), 9a), 9b), 10a), 10c), 13b), 13c), 13c.1), 13d), 13f), 13g), 18a), 18b) et 18c), avec autorisation de les modifier; et
+b) alinéas 7b), 9c), 12c) et 15c) et 26d), sans autorisation de les modifier.
+Outre les modifications prévues à l’alinéa a), ci-dessus, l’intimée est également autorisée, si elle le désire :
+c) à modifier le paragraphe 26 de la réponse modifiée pour ajouter une disposition visant à abandonner l’hypothèse de fait au sous-alinéa 25ww) de la réponse modifiée;
+d) à supprimer l’alinéa 26e) de la réponse modifiée; et
+e) à apporter les modifications accessoires ou supplémentaires jugées nécessaires pour :
+(i) s’assurer que le document contenant les modifications prévues dans la réponse modifiée se lise bien après la suppression des dispositions qui ont été radiées, et
+(ii) répondre à toute autre préoccupation ou suggestion notée dans les motifs qui n’ont pas fait l’objet d’une radiation.
+Si l’intimée désire modifier la réponse modifiée, le document contenant ces modifications sera produit au greffe et remis à l’appelante au plus tard 60 jours après la date de la présente ordonnance.
+Les dépens afférents à la présente requête suivent l’issue de la cause.
+Signé à Ottawa, Canada, ce 18e jour de juin 2019.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 26e jour de mai 2020.
+François Brunet, réviseur
+Référence : 2019 CCI 136
+Date : 20190618
+Dossier : 2017-3308(IT)G
+ENTRE :
+HUSKY OIL OPERATIONS LIMITED
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs concernent la requête présentée par Husky Oil Operations Limited (HOOL) en radiation à l’égard de certains paragraphes de la réponse modifiée déposée par la Couronne le 26 janvier 2018.
+II. LES FAITS
+[2] HOOL est une filiale en propriété exclusive de Husky Energy Inc. (HEI), une société cotée en bourse et la société mère d’un groupe de sociétés menant des activités intégrées dans le secteur de l’énergie. Selon les faits avancés par HOOL dans son avis d’appel, les activités extractives de HOOL sont effectuées dans le cadre d’un partenariat, Husky Oil Limited Partnership (HOLP), dans lequel HOOL détenait une participation de 99 % en 2004 et, selon la réponse modifiée de la Couronne, dans lequel HOI Resources Co. (HOIRC), une filiale en propriété exclusive de HOOL, détenait une participation de 1 % en 2004.
+[3] En 2004, HOOL a conclu un certain nombre de transactions (les « transactions ») [1] avec diverses institutions financières dans le but de couvrir le risque de fluctuations futures du cours du pétrole brut ou du gaz naturel. Les avocats de HOOL ont qualifié ces transactions d'opérations de swap, alors que l’avocate de la Couronne a qualifié ces transactions d'opérations de couverture. Aux fins des présents motifs, je ne me prononcerai pas sur la question de savoir si ces transactions constituaient des opérations de swap ou de couverture.
+[4] Les transactions ont été réglées en espèces (aucune livraison physique de pétrole brut ou de gaz naturel n’a eu lieu) en 2004. HOOL a déclaré des pertes (les « pertes ») résultant des transactions (déductions faites des gains et pertes de change nets associés) et s’élevant à un montant total de 561 295 272 $.
+[5] Soutenant que HOOL ne participait pas aux activités de production de pétrole et de gaz, HOOL n’a pas inclus les pertes dans le calcul de la déduction relative à des ressources en application de l’alinéa 20(1)v.1) de la Loi de l’impôt sur le revenu (la LIR). L’Agence du revenu du Canada (l’Agence), au nom du ministre du Revenu national (le ministre), a conclu que les pertes devaient être prises en compte dans le calcul de la déduction relative à des ressources à laquelle HOOL avait droit et, par conséquent, a réduit la déduction en application de l’alinéa 20(1)v.1) de 105 242 864 $ pour 2004, comme l’indique l’avis de nouvelle cotisation daté du 16 mai 2017 (l’avis de nouvelle cotisation).
+[6] Le 7 août 2014 ou aux alentours de cette date, HOOL a déposé un avis d’opposition (l’avis d’opposition) relativement à la nouvelle cotisation (la nouvelle cotisation) qui faisait l’objet de l’avis de nouvelle cotisation. Dans le contexte des transactions et de la déduction relative à des ressources, HOOL a exposé les facteurs pertinents :
+4. HOOL est une société canadienne imposable qui, entre autres choses, détient une participation générale de 99 % dans Husky Oil Limited Partnership (HOLP).
+5. HOLP est un partenariat de personnes constitué en application des lois albertaines, dont l’année d’imposition prend fin le 31 janvier. HOLP possède et exploite l’ensemble des avoirs miniers des sociétés du groupe Husky dans l’Ouest canadien.
+6. HOOL n’a pas effectué de production directe de pétrole brut ou de gaz naturel au cours de son année d’imposition prenant fin le 31 décembre 2004. Seule HOLP a mené des activités de production.
+7. En 2003, HOOL, en son propre nom et non en sa qualité de partenaire général de HOLP, a conclu cinquante-deux opérations de swap (collectivement, désignées ci-après comme les « swaps ») auprès de huit institutions financières. Les swaps sont entrés en vigueur au cours de l’année 2004. HOLP n’a pas conclu de swaps ou d’autres contrats similaires.
+8. Dans le cadre des swaps, HOOL avait droit d’obtenir un prix fixe sur un volume nominal de pétrole brut ou de gaz naturel et devait payer à la contrepartie le prix variable sur le même volume nominal de pétrole brut ou de gaz naturel établi par les indices du marché.
+9. Les swaps ont été réglés en espèces et aucune livraison matérielle de pétrole brut ou de gaz naturel n’a été exigée ou envisagée par HOOL ou les contreparties.
+10. Les montants dus en application des swaps ont été calculés quotidiennement en fonction des volumes nominaux et étaient exigibles mensuellement auprès des parties contractantes, en espèces, jusqu’à concurrence du paiement net dû à l’autre partie pour un mois donné.
+11. En tout, les prix indiciels du pétrole brut et du gaz naturel ont dépassé les prix fixes en 2004, donnant lieu au versement par HOOL de règlements totalisant 561 295 272 $ à différentes contreparties en application des swaps.
+12. Ces paiements ont été déclarés dans les états financiers et les déclarations de revenus de HOOL, en date du 31 décembre 2004, comme des pertes découlant d’activités autres que les activités extractives.
+13. La nouvelle cotisation intègre les ajustements prévus dans une nouvelle cotisation antérieure établie par le ministre le 5 novembre 2009 afin d’inclure les pertes résultant du règlement des swaps dans le calcul des bénéfices bruts relatifs à des ressources, des bénéfices relatifs à des ressources et des bénéfices relatifs à des ressources ajustés de HOOL, réduisant ainsi la déduction relative à des ressources de HOOL de 105 242 864 $.
+14. La nouvelle cotisation intègre également les ajustements prévus dans la nouvelle cotisation du 5 novembre 2009, qui utilisait les comptes fiscaux totalisant 105 242 864 $ que HOOL pouvait utiliser pour compenser l’augmentation des bénéfices imposables découlant de la réduction de la déduction relative à des ressources [2] .
+[7] Après la confirmation de la nouvelle cotisation par le ministre, HOOL a déposé un avis d’appel le 10 août 2017. Le 21 décembre 2017, le Procureur général du Canada (le PGC) a déposé une réponse. Par la suite, le 26 janvier 2018, le PGC a déposé une réponse modifiée, qui fait l’objet de la présente requête.
+III. ANALYSE
+A. Le droit
+1) Règles
+[8] Le paragraphe 49(1) des Règles de la Cour canadienne de l’impôt (procédure générale) (les Règles) expose les exigences à satisfaire en matière de demande relativement aux faits invoqués dans un avis d’appel, aux faits présumés par le ministre et aux autres faits matériels. Les alinéas 49(1)a) à e) des Règles prescrivent ce qui suit :
+49(1) Sous réserve du paragraphe (1.1) [qui n’est pas pertinent en l’espèce], la réponse indique :
+a) les faits admis;
+b) les faits niés;
+c) les faits que l’intimée ne connaît pas et qu’elle n’admet pas;
+d) les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation;
+e) tout autre fait pertinent [...]
+Pour mettre les dispositions précédentes en contexte, l’article précédent (l'article 48) dispose que chaque avis d’appel doit se conformer à l’une des quatre formules. Dans le cas d’un avis d’appel régi par la procédure générale, il s’agit de la formule 21(1)a). L’élément c) de l’exemple d’avis d’appel fourni dans la formule 21(1)a) indique que l’intimé doit exposer les faits pertinents qui constituent le fondement de l’appel. Bien que les alinéas 49(1)a), b) et c) des Règles n’indiquent pas expressément la source des faits admis, niés ou mis en cause (parce que l’intimée n’a pas connaissance de ces faits), il ressort clairement du contexte que les alinéas 49(1)a), b) et c) font référence aux faits exposés dans l’avis d’appel particulier. Il s’ensuit que lorsque le PGC admet des faits, nie des faits ou déclare qu’il n’a pas connaissance de ces faits, l’admission, la dénégation ou l'observation, selon le cas, doit se limiter aux faits exposés dans l’avis d’appel.
+[9] La requête de HOOL a été déposée en application du paragraphe 53(1) des Règles, qui se lit ainsi :
+53(1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour ou
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+2) Jurisprudence
+[10] Je commencerai en examinant la jurisprudence pertinente afin d’en dégager les principes de droit pertinents, puis j’appliquerai ces principes aux questions soulevées relativement à chacun des paragraphes de la réponse modifiée qui fait l’objet de la présente requête.
+a) Acte de procédure
+[11] Le principe de base qui joue en matière d'actes de procédure, exposé par Holmested and Watson et qui a été appliqué par notre Cour, est le suivant :
+Il s’agit de la grande règle en matière d’actes de procédure; toutes les autres règles sont essentiellement des règles accessoires ou des réserves à cette règle de base selon laquelle le plaideur doit exposer les faits pertinents sur lesquels il fonde sa demande ou sa défense. La règle comporte quatre composantes distinctes : 1) chaque acte de procédure doit exposer des faits et non pas simplement des conclusions de droit; 2) il doit exposer les faits pertinents et ne pas contenir de faits dénués de pertinence; 3) il doit exposer des faits, non les éléments de preuve qui serviront à étayer ces faits; 4) il doit exposer les faits avec concision [3] .
+[12] Lorsqu’elle avance des hypothèses de fait à l'appui d'une cotisation, la Couronne :
+a) doit éviter la pratique qui consiste à plaider non seulement les faits matériels qui ont justifié la cotisation, mais également les éléments de preuve qui ont mené le vérificateur ou l’officier taxateur à formuler ces hypothèses, souvent accompagnées d’hypothèses de droit ou mélangées de fait et de droit;
+b) doit plaider seulement les faits pertinents de l’espèce, c’est-à-dire les faits qui, s’ils sont véridiques, justifient la cotisation établie par le ministre d’après son interprétation de la loi [4] .
+b) Requête en radiation
+[13] Les principes qui doivent être appliqués par la Cour lors de l’audition d’une requête en radiation d’un acte de procédure, en application de l’article 53 des Règles, ont été résumés par l’ancien juge en chef Bowman, comme suit :
+a) Les faits allégués dans l’acte de procédure contesté doivent être considérés comme exacts sous réserve des limites énoncées dans l’arrêt Operation Dismantle Inc. c. Canada, [1985] 1 R.C.S. 441, à la page 455. Il n’est pas loisible à la partie qui attaque un acte de procédure en application de l’article 53 des Règles de contester des assertions de fait.
+b) Pour qu’un acte de procédure soit radié, en tout ou en partie, en application de l’article 53 des Règles, il doit être évident et manifeste que la position qui est prise n’a aucune chance de succès. Il s’agit d’un critère rigoureux, et il faut faire preuve d’énormément de prudence en exerçant le pouvoir conféré en matière de radiation d’un acte de procédure.
+c) Le juge des requêtes doit éviter d’usurper les fonctions du juge du procès en tirant des conclusions de fait ou en se prononçant sur la pertinence. Il faut laisser de telles questions à l’appréciation du juge qui entend la preuve. [5]
+Bien que l'observation précédente ait été faite dans le contexte d’une requête visant à radier des parties d’un avis d’appel, le même principe s’applique à une requête pour faire radier des parties d’une réponse [6] .
+[14] Concernant le critère du « caractère manifeste et évident » à appliquer lors de l’examen d’une requête en radiation, les observations suivantes s’appliquent :
+17. [...] l’action ne sera rejetée que s’il est évident et manifeste, dans l’hypothèse où les faits allégués seraient avérés, que la déclaration ne révèle aucune cause d’action raisonnable [...] Autrement dit, la demande doit n’avoir aucune possibilité raisonnable d’être accueillie [...]
+25. [...] Il s’agit de savoir si, dans le contexte du droit et du processus judiciaire, la demande n’a aucune possibilité raisonnable d’être accueillie [7] . [Souligné dans l’original]
+[15] Concernant le critère applicable, le juge en chef adjoint Rossiter (tel était alors son titre) a observé :
+[traduction] [...] Ce n’est que si la position prise dans la réponse est vouée à l’échec parce qu’elle contient un vice fondamental que les parties pertinentes de la réponse du demandeur doivent être radiées [8] .
+[16] Concernant le fardeau de la preuve dans le cadre de l’alinéa 53(1)b) ou c) des Règles dans une requête en radiation, la juge D’Auray a déclaré ce qui suit :
+[traduction] [...] dans une requête en vue d’obtenir une radiation, le fardeau incombe à la partie qui attaque l’acte de procédure ou des parties de celles-ci de démontrer qu’il est clair et évident que l’acte de procédure est scandaleux, frivole ou vexatoire ou qu’il constitue autrement un abus de procédure de la Cour [9] .
+[17] Il faut également souligner l'observation suivante du juge en chef Bowman :
+[...] Malgré le nombre de décisions portant sur les mots « scandaleux, frivole ou vexatoire ou un recours abusif à la Cour », ces mots ont néanmoins un sens fort, péjoratif, faisant appel aux émotions, et dénotent un acte de procédure qui est manifestement dénué de fondement. L’application de ces mots devrait être réservée aux assertions clairement et manifestement insensées [...] [10]
+[18] La jurisprudence citée plus haut enseigne clairement que le critère du « caractère manifeste et évident », qui est un critère rigoureux, constitue un seuil très élevé à atteindre pour qu’un acte de procédure (ou des parties de celui-ci) soit radié.
+c) Admissions surabondantes
+[19] HOOL a soutenu que certains des faits admis par le Procureur général du Canada (PGC) dans la réponse modifiée ont pour objet d’admettre des faits qui n’ont pas été invoqués par HOOL dans l’avis d’appel. Les avocats de HOOL ont qualifié ces faits admis d'« admissions fictives »; dans les présents motifs, j’utiliserai l’expression « admissions surabondantes ».
+[20] Dans la décision Strother, l’ancien juge en chef Rip a observé :
+[traduction] Il est anormal et inapproprié pour un plaideur d’admettre ou de nier un fait dans un acte de procédure et de joindre à cette admission ou à ce déni une conclusion de droit ou des commentaires sans pertinence qui n’ajoutent rien au processus [11] .
+[21] Dans la décision Xu, le juge Mogan a indiqué qu’il est inapproprié, dans une réponse, de viser à admettre certains faits alors que ces faits ne sont pas allégués dans l’avis d’appel. Même si l’avis d’appel emploie un mot imprécis, il n’est pas permis, dans la réponse, afin d'admettre le fait particulier, d’interpréter ce mot en le remplaçant par un autre [12] . Le juge Mogan a observé :
+Dans un litige civil, le défendeur est uniquement autorisé à admettre les faits allégués par le demandeur. L’aveu devrait porter sur un événement « autonome », non embrouillé par les propres allégations du défendeur portant sur le point visé par l’aveu [13] .
+Même si cette observation vise littéralement les contentieux civils (on parle de demandeur et de défendeur), il est clair que, dans l'esprit du juge Mogan, ce principe visait les contentieux de nature fiscale, dans les cas où le PGC ou la Couronne, dans une réponse, cherche à admettre des faits qui ne sont pas invoqués par le contribuable dans l’avis d’appel.
+d) Dénégations
+[22] Certains des éléments dans la réponse modifiée que HOOL cherchait à faire radier niaient certains faits invoqués dans l’avis d’appel. Bien que les procédures interlocutoires visant des dénégations aient été moins nombreuses que celles visant des admissions, la jurisprudence a consacré plusieurs principes. Le mot « nier » est maintenant considéré comme synonyme de « ne pas admettre » [14] . En d’autres termes, un fait soulevé dans un avis d’appel et nié dans une réponse doit être démontré par l’intimée. L’alinéa 49(1)b) des Règles n’oblige pas la Couronne à expliquer le fondement de la dénégation d’un fait soulevé dans un avis d’appel [15] . La Couronne est libre de nier ce qui est évident, même si la dénégation est absurde [16] .
+e) Plaidoyer d’absence de connaissances
+[23] HOOL a soutenu que, dans certains cas, la réponse modifiée indique que le PGC n’avait aucune connaissance d’un fait particulier évoqué dans l’avis d’appel, bien que le fait invoqué dans l’avis d’appel corresponde très étroitement à un fait supposé par le ministre au moment d’établir la nouvelle cotisation.
+[24] Dans la décision LBL Holdings, le juge Graham a observé qu’il n’est pas approprié pour le ministre de soutenir ne pas connaître des faits qui sont entièrement connus de lui. De même, le juge Graham a affirmé que le ministre ne peut pas soutenir qu’il n’a aucune connaissance de ce qu’il connaît [17] .
+[25] Il semble que le ministre et le PGC sont maintenant d’avis que certains des faits présumés par le ministre au moment d’établir la nouvelle cotisation de HOOL étaient en fait incorrects. Les avocats de HOOL sont d’avis que le PGC plaide « l’absence de connaissance » comme moyen indirect et inapproprié d’abandonner ces faits présumés. Ce sujet sera discuté plus en détail un peu plus loin.
+f) Hypothèses de fait et non de droit
+[26] Le droit est bien fixé : la partie d’une réponse qui expose les hypothèses formulées par le ministre doit être fondée sur des faits et non sur le droit, comme l'enseigne la Cour d’appel fédérale dans l'arrêt Anchor Pointe :
+25. J’estime également que les déclarations ou conclusions juridiques n’ont pas leur place dans l’énoncé des hypothèses de fait du ministre [...]
+26. [...] Le ministre peut présumer les éléments de fait d’une conclusion mixte de fait et de droit. S’il souhaite le faire, toutefois, il devra extraire les éléments de fait présumés, de façon à ce que le contribuable sache exactement quelles hypothèses de fait il doit réfuter pour avoir gain de cause. Il ne convient pas que les faits présumés soient enfouis dans une conclusion mixte de fait et de droit [18] .
+g) Abandon d’hypothèses
+[27] Les hypothèses de fait du ministre sont exposées au paragraphe 25 de la réponse modifiée. HOOL ne cherche pas à faire radier ces faits présumés de la réponse modifiée. Toutefois, HOOL a soulevé des préoccupations selon lesquelles, dans d’autres parties de la réponse modifiée, le PGC a admis, réinterprété ou qualifié autrement certaines des hypothèses de manière à constituer une renonciation inappropriée à ces hypothèses. La jurisprudence enseigne que le Procureur général n’est pas lié par les hypothèses retenues par le ministre. Toutefois, pour revenir sur une hypothèse ou y renoncer, une position subsidiaire doit être avancée, comme l’explique la Cour d’appel fédérale dans l'arrêt Aventis Pharma :
+3. Il est acquis de part et d’autre que ces questions [que le PCG espérait poser à la poursuite de l’interrogatoire préalable du contribuable] portent sur une série de faits sur lesquels le ministre du Revenu national... s’est fondé et a tenu pour avérer lors de l’émission des cotisations sous appel mais qui ont tout de même été niés ou ignorés par la Couronne dans sa réponse à l’avis d’appel Chose importante, aucune position subsidiaire n’est avancée par la Couronne pour justifier les cotisations dans sa réponse à l’avis d’appel.
+7. Selon l’avocate, le Procureur général n’est pas lié par les hypothèses de fait retenues par le ministre pour émettre ses cotisations. Autant le Procureur général a l’obligation de refléter fidèlement dans ses procédures les faits, retenus par le ministre, au soutien de ses cotisations (puisque seuls ces faits bénéficient de la présomption légale qui opère en faveur du ministre), autant il lui est loisible de remettre en question ces mêmes faits s’il n’est pas convaincu de leur exactitude...
+9. [...] Il est vrai que ce dernier n’est pas lié par les présomptions retenues par le ministre pour émettre ses cotisations et qu’il lui est loisible de défendre une cotisation sur une ou plusieurs bases alternatives à celles retenues par le ministre.
+10. Cependant, tel que mentionné précédemment, aucune position alternative n’est avancée par le Procureur général dans le cas qui nous occupe. L’idée de remettre en question les faits présumés par le ministre sans offrir une position alternative si l’on devait s’arrêter là, mène à un non-sens dans la perspective du Procureur général [...] [19]
+Ainsi, dans la mesure où le PGC désire revenir sur une des hypothèses formulées par le ministre ou y renoncer, le PGC doit pouvoir le faire, à condition qu’il avance une position subsidiaire pour justifier la nouvelle cotisation.
+[28] Lorsqu'est avancée une position subsidiaire, le besoin de clarté sans dissimulation a été expliqué par le juge Archambault, comme suit :
+Si l’intimée décide de défendre une cotisation sur une base différente de celle qui a été utilisée lors de la cotisation, elle devrait le reconnaître franchement et sans dissimulation. Les contribuables ont le droit de savoir clairement avant l’audition de leur appel à qui incombe la charge de la preuve [20] .
+[29] Alors qu’il se prononçait sur une requête relativement à l'affaire Loewen susmentionnée, le juge en chef adjoint Bowman (tel était alors son titre) a déclaré ce qui suit :
+La Couronne peut-elle plaider un fait qui est diamétralement opposé à ce que le ministre a présumé en établissant la cotisation? Je le crois, mais elle devra en faire la preuve et elle devra aller plus loin et répudier précisément l’hypothèse du ministre [...] Il importe de souligner ici la nécessité que le ministre plaide honnêtement toutes les hypothèses sur lesquelles il s’est fondé pour établir la cotisation, notamment celles qui aident le contribuable [21] . [Souligné dans l’original]
+Bien que la Cour d’appel fédérale ait annulé l’ordonnance rendue par le juge en chef adjoint Bowman, la Cour d’appel fédérale n’a pas exprimé un désaccord avec son observation selon laquelle la Couronne peut plaider un fait qui est diamétralement opposé à ce que le ministre a présumé en établissant la cotisation, mais que pour se faire, elle doit répudier spécifiquement l’hypothèse du ministre; elle n'en a par ailleurs pas fait mention.
+h) Omission volontaire d’hypothèses
+[30] Lorsqu’il invoque les faits présumés sur lesquels le ministre a fondé une cotisation particulière, le PGC a l’obligation de plaider la totalité de ces faits, [22] intégralement et avec exactitude, [23] même si un ou plusieurs de ces faits pourraient, aux yeux du PGC, être considérés comme non pertinents, [24] ne pas soutenir la cotisation [25] ou aider l’appelant [26] . Ces principes ont été résumés par l’ancien juge en chef adjoint Bowman (tel était alors son titre) dans la décision Mungovan, comme suit :
+L’intimée possède une obligation de divulguer tous les faits sur lesquels la cotisation est fondée. Il est concevable que certains des faits présumés soient erronés ou non pertinents. Ils devraient néanmoins être divulgués. Je ne souhaiterais pas décourager la divulgation complète des faits. Le simple fait que l’avocat rédigeant la réponse puisse avoir pensé qu’une hypothèse était erronée, non pertinente ou embarrassante pour la cause de la Couronne n’est pas une raison pour ne pas la divulguer. En effet, dans Bowens v The Queen, 94 DTC 1853, confirmé dans 96 DTC 6128, on a abordé les conséquences d’omettre de plaider des hypothèses cruciales à une cotisation. La Cour d’appel fédérale, à la page 6129, a suggéré que la réponse de la Couronne aurait pu être radiée au motif qu’elle a omis d’évoquer un fait sur lequel la cotisation était fondée [27] .
+Il est inapproprié pour la Couronne de ne pas invoquer un fait présumé dont dépend la validité d’une nouvelle cotisation particulière [28] .
+i) Répétitions et redondances
+[31] Dans la décision Strother, lors de l'examen d'une requête en radiation de parties répétitives et redondantes dans une réponse, l’ancien juge en chef Rip a cité l'observation suivante, faite par Maître Haberman de la Cour supérieure de justice de l’Ontario dans la décision Mudrick :
+[traduction] Il faut éviter de se répéter. Les détails superflus doivent être éliminés. Les commentaires interprétés doivent être supprimés [...] Il ne s’agit pas de la « dernière chance » pour exposer l’ensemble des faits; il s’agit uniquement d’un aperçu de ce dont traite l’affaire [...] [29]
+L’ancien juge en chef Rip a ensuite cité le passage de la décision Holmested et Watson, qui est reproduit au paragraphe 11 ci-dessus, avant de discuter la quatrième exigence dans cette citation, à savoir qu’un acte de procédure doit exposer les faits avec concision, après quoi il a ajouté :
+[traduction] Le quatrième élément est particulièrement pertinent dans le cadre du présent appel. Un acte de procédure répétitif n’est pas concis. Il n’aide pas à comprendre les questions en litige [30] .
+L’ancien juge en chef Rip a ensuite cité deux autres décisions, où il était observé que [traduction] « des actes de procédure inutilement verbeux et répétitifs créent une incertitude » et que les dispositions d’un acte de procédure peuvent être radiées [traduction] « aux motifs qu’ils sont… tautologiques, redondants [ou] répétitifs », avant de conclure, relativement à ce sujet particulier, que [traduction] « des répétitions excessives dans [un acte de procédure] sont superflues et portent atteinte aux objectifs de concision et de certitude », si bien que les [traduction] « parties répétitives [d’un acte de procédure] doivent être radiés » [31] .
+j) Prolixité
+Comme je l’ai signalé précédemment, un acte de procédure doit exposer les faits avec concision [32] . Toutefois, bien que la concision soit encouragée, la prolixité (en elle-même, et à condition qu’il n’y ait pas de répétitions ou de redondance) n’est pas nécessairement un motif de radiation d'un acte de procédure, comme l’observe la Cour d’appel fédérale :
+82. La réponse [de Sa Majesté] est d’une longueur inusitée [...]
+83. Un acte de procédure n’est pas nécessairement critiquable en raison de sa longueur. En l’espèce, le juge a toutefois observé à juste titre que la réponse contenait des détails inutiles et répétitifs et qu’elle reprenait de larges extraits de la preuve [33] .
+k) Incohérence
+[32] Le paragraphe 51(2) des Règles confirme que des allégations contradictoires peuvent être présentées dans un acte de procédure :
+51(2) L’acte de procédure peut présenter des allégations contradictoires s’il ressort clairement du texte que certaines d’entre elles sont faites à titre subsidiaire.
+L’acte de procédure peut donc présenter des allégations contradictoires, mais il doit ressortir clairement du texte qu'elles sont subsidiaires.
+[33] Dans l’arrêt Loewen, la Cour d’appel fédérale a observé :
+Les contraintes imposées au ministre lorsqu’il invoque des hypothèses n’empêchent cependant pas Sa Majesté de soulever, ailleurs dans la réponse, des allégations de fait et des moyens de droit qui sont étrangers au fondement de la cotisation. Si Sa Majesté allègue un fait qui ne fait pas partie des faits présumés par le ministre, la charge de la preuve repose sur elle [34] .
+[34] Dans la décision 1072174 Ontario, l’ancien juge en chef Bowman a formulé les observations suivantes sur les actes de procédure contradictoires :
+16. Je conviens… que les hypothèses avancées par la Couronne comportent des contradictions... Il s’agit là d’assertions contradictoires. Je suppose qu’il peut arriver, en théorie, que l’auteur d’une cotisation énonce des hypothèses contradictoires. Cette situation pourrait bien permettre à l’appelante de se soustraire du fardeau qui devrait normalement lui incomber. La Couronne peut alléguer des faits qui contredisent des hypothèses si elle est disposée à accepter le fardeau qui en découle.
+19. … Je conviens que la réponse comporte des incohérences, mais la thèse même de la Couronne paraît se fonder sur le prétendu manque de cohérence de l’appelante. Les tentatives faites par cette dernière pour tirer profit de ce qu’elle qualifie de contradictions formulées par la Couronne donnent naissance à une anomalie de procédure qui, à mon avis, sera le mieux résolue par le juge présidant l’instruction, lequel entendra l’ensemble de la preuve... Je ne vois pas comment le contribuable peut être libéré de l’obligation de prouver ses allégations ou peut obtenir l’annulation de la cotisation simplement parce que le ministre a émis dans sa réponse quelques nouvelles idées qui pourraient être incompatibles avec le fondement qui étaye la cotisation. La question de savoir si le manque de cohérence entraîne l’inversion du fardeau de la preuve... ne peut être tranchée dans le cadre d’une requête en radiation. Cet examen nécessite la tenue d’une instruction. En effet, je ne crois pas qu’une requête en radiation permette de résoudre ces difficultés [35] .
+Ainsi, bien que certaines préoccupations ou lacunes discutées dans les parties c), e), f), g) et i) ci-dessus puissent justifier la radiation d’un acte de procédure, en partie ou en totalité, il semble que, dans le cas d’actes de procédure contradictoires, lorsqu’il est clair que les contradictions sont invoquées subsidiairement, dans un grand nombre de cas, le plan d’action privilégié, particulièrement en ce qui concerne le fardeau de la preuve, pourrait être de renvoyer l’affaire au juge de première instance.
+B. Paragraphes controversés
+[35] Dans son avis de requête modifié, HOOL recherche la radiation des paragraphes 5, 7 à 15, 18 à 20, 26 et alinéa 26d) de la réponse modifiée. J’examinerai chacun de ces paragraphes séparément.
+1) Paragraphe 5 de la réponse modifiée
+[36] Le paragraphe 5 de la réponse modifiée se rapporte au paragraphe 7 de l’avis d’appel de HOOL, qui est rédigé ainsi :
+[TRADUCTION] 7. Les activités extractives de HOOL sont menées dans le cadre d’un partenariat, Husky Oil Limited Partnership (« HOLP »).
+Le paragraphe 5 de la réponse modifiée est rédigé ainsi
+[TRADUCTION] :
+5. En ce qui concerne le paragraphe 7 de l’avis d’appel, le PGC [Procureur général du Canada] :
+a) admet seulement que Husky Oil Operations Ltd. (ci-après « HOOL » ou l’appelante, selon le contexte) détenait une participation de 99 % dans Husky Oil Limited Partnership (HOLP);
+b) admet que la participation de 1 % restante dans HOLP était détenue par HOI Resources Co. (HOIRC), qui est une filiale en propriété exclusive de HOOL;
+c) nie qu’au cours de l’année d’imposition 2004, des activités d’exploration et d’aménagement ont été exécutées par l’intermédiaire de HOLP;
+d) ne sait pas ce qu’englobe l’utilisation par l’appelante des mots « activités extractives »; et
+e) par conséquent, le PGC ne connaît pas et n’admet pas les autres allégations de faits dans ce paragraphe [36] .
+[37] Pour faciliter l’analyse du paragraphe 5 de la réponse modifiée, il est utile de comparer ce paragraphe avec certaines des hypothèses formulées par le ministre, qui sont exposées au paragraphe 25 de la réponse modifiée, comme suit :
+[traduction]
+25. Pour déterminer l’obligation fiscale de l’appelante pour l’année d’imposition 2004, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+j) HOOL détient une participation de 99 % dans HOLP.
+k) La participation de 1 % restante dans HOLP était détenue par HOIRC, qui est une filiale en propriété exclusive de HOOL [...]
+p) Les activités extractives de HOOL relativement à certains avoirs miniers sont effectuées par l’intermédiaire de HOLP.
+[38] Les alinéas 5a) et b) de la réponse modifiée ont pour objet d’admettre des faits qui vont au-delà de ceux invoqués au paragraphe 7 de l’avis d’appel, ce qui signifie qu’ils contreviennent aux principes consacrés par les décisions Xu et Strother [37] . En d’autres termes, ces alinéas visent à admettre des faits qui n’ont pas été allégués par HOOL au paragraphe 7 de l’avis d’appel. Sous réserve du paragraphe suivant, il est certainement acceptable pour le PGC de plaider que HOOL détenait une participation de 99 % dans HOLP et que HOIRC détenait la participation de 1 % restante dans HOLP, mais le PGC ne devrait pas le faire sous le couvert de l’admission de certains ou de l’ensemble des faits plaidés au paragraphe 7 de l’avis d’appel, puisque ce paragraphe indique simplement que « [l]es activités extractives de HOOL sont menées dans le cadre d’un partenariat, [...] HOLP [...] ».
+[39] Comme je l’ai signalé précédemment, les alinéas 5a) et b) de la réponse modifiée exposent simplement la compréhension du PGC de la participation de HOOL et de HOIRC dans HOLP (99 % et 1 %, respectivement). Ces allégations sont répétitives ou redondantes, puisque les mêmes allégations figurent aux alinéas 25j) et k) de la réponse modifiée [38] . Puisque le paragraphe 7 de l’avis d’appel ne fait nulle part mention des participations respectives dans HOLP, il n’est pas nécessaire d’inclure dans les alinéas 5a) et b) de la réponse modifiée, sous la forme d’une admission surabondante, les mêmes allégations de fait formulées aux alinéas 25j) et k).
+[40] À l’alinéa 5c) de la réponse modifiée, le PGC nie qu’en 2004, les « activités d’exploration et d’aménagement » de HOOL ont été effectuées par l’intermédiaire de HOLP, mais le paragraphe 7 l’avis d’appel indique effectivement que les « activités extractives » de HOOL sont effectuées par l’intermédiaire de HOLP. Il semble, bien que cela ne soit pas tout à fait clair, que le PGC soutient que les mots « ressources extractives » ont un sens plus large que les mots « activités d’exploration et d’aménagement » et que seuls ceux-ci font l’objet de cette dénégation.
+[41] Comme il a été indiqué à l’alinéa 5c) de la réponse modifiée : [traduction] « Le PGC... nie qu’au cours de l’année d’imposition 2004, des activités d’exploration et d’aménagement de HOOL ont été effectuées par l’intermédiaire de HOLP ». Cette dénégation doit être comparée à l’hypothèse formulée par le ministre pour établir l’obligation fiscale de HOOL au cours de l’année d’imposition 2004, comme l'expose l’alinéa 25p) de la réponse modifiée :
+[TRADUCTION] Les activités extractives de HOOL relativement à certains avoirs miniers sont menées par l’intermédiaire de HOLP.
+Si les mots « activités d’exploration et d’aménagement » sont englobés par les mots « activités extractives », la dénégation à l’alinéa 5c) semble être incompatible avec l’hypothèse formulée à l’alinéa 25p). Cela est inacceptable, étant donné que la réponse modifiée n’établit pas clairement que les alinéas 5c) et 25p) sont invoqués subsidiairement [39] .
+[42] À l’alinéa 5d) de la réponse modifiée, le PGC soutient qu’il ne savait aucunement ce qu’englobait l’utilisation par HOOL de l'expression « activités extractives »; [40] toutefois, le PGC utilise cette même expression, « activités extractives », à l’alinéa 25p) de la réponse modifiée, précitée. Je reconnais qu’il est possible que le PGC croie que le ministre et HOOL attribuent chacun un sens différent au terme « activités extractives »; toutefois, j’estime que l’incompatibilité possible entre les alinéas 5d) et 25p) de la réponse modifiée porte à confusion, puisque la réponse modifiée n’indique pas clairement que ces alinéas sont invoqués subsidiairement.
+[43] Il reste donc l’alinéa 5e) de la réponse modifiée, dans lequel le PGC soutient qu’il « ne connaît pas et n’admet pas les autres allégations de fait dans » le paragraphe 7 de l’avis d’appel. Collectivement, les alinéas 5a), b), c) et d) de la réponse modifiée visent spécifiquement chacune des allégations de fait du paragraphe 7 de l’avis d’appel (et, dans certains cas, vont au-delà de ces allégations). Par conséquent, l’alinéa 5e) de la réponse modifiée est redondant.
+[44] En résumé, le paragraphe 5 de la réponse modifiée doit être radié, avec autorisation de le modifier.
+2) Paragraphe 7 de la réponse modifiée
+[45] Le paragraphe 7 de la réponse modifiée se rapporte au paragraphe 10 de l’avis d’appel, qui est rédigé ainsi :
+[traduction]
+10. Bien que HOOL acquiert des « avoirs miniers canadiens » (tel que défini au paragraphe 66(15) de la Loi) et mène des activités d’exploration et d’aménagement relativement à ces avoirs, HOOL transfère les avoirs à HOLP avant le début de toute production qui en découle.
+Le paragraphe 7 de la réponse modifiée est rédigé ainsi :
+[TRADUCTION]
+7. En ce qui concerne le paragraphe 10 de l’avis d’appel, le PGC :
+a) admet qu’au cours de l’année d’imposition 2004, HOOL a mené des activités d’exploration et d’aménagement relativement à des biens miniers qui correspondent à la définition d’« avoirs miniers canadiens » (selon la définition de ce terme au paragraphe 66(15) de la Loi);
+b) admet que le 1er février 2003, conformément à un programme que l’appelante a nommé « SWIFT », HOLP a transféré à HOOL (dans le cadre d’une entente de renonciation et de cession) des avoirs et des baux miniers non exploités;
+c) soutient que le reste des allégations dans ce paragraphe sont vagues et incertaines, puisque l’appelante n’établit pas la période à laquelle HOOL a acquis les « avoirs miniers canadiens » ou les a transférés et que, par conséquent, le PGC ne connaît pas et n’admet pas les autres allégations de fait; et
+d) à cette fin, le PGC ne connaît pas et n’admet pas non plus quels étaient les avoirs miniers ou ensembles de droits de propriété qui ont été transférés, à quel moment des droits de propriété ont été transférés, comment ils ont été transférés à HOLP et tous les autres détails de ces transferts.
+[46] Pour comprendre les préoccupations soulevées par HOOL, il est utile d’exposer quelques autres allégations de la réponse modifiée. Selon HOOL, le paragraphe 10 de l’avis d’appel visait à reformuler certaines hypothèses de fait du ministre qui, selon HOOL, figuraient à l’origine aux pages 2 et 3 du rapport sur une opposition [41] . Certains de ces faits présumés ont été ensuite exposés aux alinéas 25l), m) et n) de la réponse modifiée, comme suit :
+[traduction]
+25. Pour déterminer l’obligation fiscale de l’appelante pour l’année d’imposition 2004, le ministre s’est appuyé sur les hypothèses de fait suivantes : […]
+l) HOOL a acquis des biens qui correspondaient à la définition des « biens miniers canadiens » consacrée par la Loi (les « biens »).
+m) HOOL mène des activités d’exploration et d’aménagement relativement à ces avoirs.
+n) Chaque fois qu’un puits est foré avec succès, HOOL transfère ce bien à HOLP afin que HOOL puisse avoir accès aux frais d’exploration au Canada et aux frais d’aménagement au Canada (selon la signification de ces mots consacrée par la Loi) pendant l’année en cours, tout en reportant la reconnaissance du revenu pendant un an.
+Lorsque la réponse originale a été modifiée, l'allégation suivante a été insérée à l’alinéa 26b), sous l'intitulé « Autres faits matériels [42] » :
+[traduction]
+26b. Le 1er février 2003, conformément à un programme que l’appelante a nommé « SWIFT », HOLP a transféré à HOOL (dans le cadre d’une entente de renonciation et de cession) des avoirs et des baux miniers non exploités.
+[47] En ce qui concerne l’analyse du paragraphe 7 de la réponse modifiée, l’alinéa 7a) admet essentiellement la première disposition du paragraphe 10 de l’avis d’appel. L’alinéa 7a) de la réponse modifiée ne me semble pas problématique; par conséquent, rien ne justifie la radiation de cet alinéa.
+[48] En ce qui concerne l’alinéa suivant du paragraphe 7 de la réponse modifiée, il semble qu’il y ait une erreur typographique dans l’alinéa 7b), car je crois comprendre (à la lumière du paragraphe 10 de l’avis d’appel) qu’une fois les activités d’exploration et d’aménagement terminées, les biens ont été transférés par HOOL à HOLP, et non par HOLP à HOOL, comme l’indique l’alinéa 7b) de la réponse modifiée. Toutefois, il est possible que le PGC fasse en fait référence aux biens qui étaient détenus par HOLP et ont été transférés à HOOL; toutefois, si tel est le cas, cela signifie que ces biens ne sont pas les biens invoqués au paragraphe 10 de l’avis d’appel et que, par conséquent, ils ne devraient pas être discutés au paragraphe 7 de la réponse modifiée, puisque le paragraphe 7 de la réponse modifiée répond au paragraphe 10 de l’avis d’appel.
+[49] Lors de l’audition de la présente requête, l’avocate de la Couronne a indiqué qu’elle remplacera le mot « admet », qui est le premier mot de l’alinéa 7b) de la réponse modifiée, par le mot « soutient ». Sans ce changement, l’alinéa 7b) serait une admission surabodante. Toutefois, pour le motif indiqué au prochain paragraphe des présents motifs, ce changement ne sera pas nécessaire.
+[50] Le principal problème relativement à l’alinéa 7b) de la réponse modifiée est son caractère répétitif. Après les deux premiers mots, l’alinéa 7b) et l’alinéa 26b) de la réponse modifiée sont semblables en tous points, y compris la qualification de HOLP de transférant et de HOOL de bénéficiaire du transfert des avoirs et des baux miniers non exploités. Il y a donc clairement une redondance. Puisque l’alinéa 7b) se trouve sous le sous-titre « Faits admis, niés ou non connus » et que l’alinéa 26b) figure sous l'intitulé « Autres faits matériels », qui est la section appropriée, l’alinéa 7b) doit être radié.
+[51] HOOL est d'avis que les alinéas 7c) et d) de la réponse modifiée constituent une tentative par la Couronne de revenir sur l’hypothèse formulée à l’alinéa 25n) de la réponse modifiée, dans lequel le ministre a présumé que « [c]haque fois qu’un puits est foré avec succès, HOOL transfère ce bien à HOLP [...] » Je n’interprète pas les alinéas 7c) et d) de la manière avancée par HOOL; je considère plutôt que ces alinéas font simplement référence aux détails du transfert dont le PGC n’a aucune connaissance.
+[52] En résumé, l’alinéa 7b) de la réponse modifiée doit être radié, sans autorisation de le modifier, compte tenu de ce que des allégations pratiquement identiques figurent à l’alinéa 26b) de la réponse modifiée. Les alinéas 7a), c) et d) de la réponse modifiée ne doivent pas être radiés.
+3) Paragraphe 8 de la réponse modifiée
+[53] Le paragraphe 8 de la réponse modifiée se rapporte au paragraphe 11 de l’avis d’appel, qui est rédigé ainsi :
+[traduction]
+11. HOLP possède et exploite l’ensemble des avoirs miniers des sociétés du groupe Husky dans l’Ouest canadien.
+Le paragraphe 8 de la réponse modifiée est rédigé ainsi :
+[traduction]
+8. En ce qui concerne le paragraphe 11 de l’avis d’appel, le PGC :
+a) admet que le partenaire général de HOLP exploite un bien de société de personnes [43] ;
+b) la question à savoir si un partenaire ou un partenariat détient les biens transférés à un partenariat est une question de droit;
+c) les autres allégations sont vagues et incertaines puisque l’appelante n’a pas précisé quelles entités constituaient les « sociétés du groupe Husky » ou quels avoirs miniers dans l’Ouest canadien étaient détenus par les « sociétés du groupe Husky »; et
+d) par conséquent, le PGC ne connaît pas et n’admet pas les autres allégations de faits dans ce paragraphe.
+[54] Comme le paragraphe 11 de l’avis d’appel n’allègue pas que le partenaire général de HOLP exploite un bien de société de personnes, le PGC formule une admission surabondante, dans sa réponse à ce paragraphe de l’avis d’appel, en admettant à l’alinéa 8a) de la réponse modifiée que le partenaire général de HOLP exploite un bien de société de personnes.
+[55] En ce qui concerne l’alinéa 8b) de la réponse modifiée, l’affirmation du PGC que la question de savoir si un partenaire ou un partenariat détient les biens transférés à un partenariat est une question de droit n’est ni une admission ni une dénégation du fait plaidé au paragraphe 11 de l’avis d’appel. Toutefois, il n’est pas manifeste et évident que l’alinéa 8b) de la réponse modifiée correspond aux critères consacrés par les alinéas 53a) à d) des Règles.
+[56] En ce qui concerne les deux derniers alinéas du paragraphe 8 de la réponse modifiée, je ne pense pas qu’il soit inapproprié pour le PGC de préciser que l’expression « sociétés du groupe Husky » n’est pas définie dans l’avis d’appel. Par conséquent, je ne suis pas préoccupé par les alinéas 8c) ou d) de la réponse modifiée.
+[57] En résumé, l’alinéa 8a) de la réponse modifiée doit être radié, avec autorisation de le modifier. Les alinéas 8b), c) et d) de la réponse modifiée ne doivent pas être radiés.
+4) Paragraphe 9 de la réponse modifiée
+[58] Le paragraphe 9 de la réponse modifiée se rapporte au paragraphe 12 de l’avis d’appel, qui est rédigé ainsi :
+[traduction]
+12. Au cours de l’année 2004, HOOL n’a pas effectué de production directe de pétrole brut ou de gaz naturel et la seule production à partir des avoirs des sociétés du groupe Husky ont eu lieu par l’intermédiaire de HOLP.
+Le paragraphe 9 de la réponse modifiée est rédigé ainsi :
+[traduction]
+9. En ce qui concerne le paragraphe 12 de l’avis d’appel, le PGC :
+a) affirme que cette allégation est vague, contradictoire et incertaine puisque l’appelante n’a pas défini ce que signifie l’expression « production directe de pétrole brut ou de gaz naturel », elle n’a pas défini quels biens sont « détenus par les sociétés du groupe Husky », elle n’a pas défini quelles entités constituaient les « sociétés du groupe Husky » et elle n’explique pas comment la production qui, selon l’appelante, se fait « à partir des avoirs des sociétés du groupe Husky », n’appartient pas à ces sociétés;
+b) par conséquent, le PGC ne connaît pas et n’admet pas les allégations de faits dans ce paragraphe.
+c) toutefois, par souci de clarté, le PGC indique que HOOL, en tant que membre de HOLP, a calculé son revenu aux fins du calcul de l’impôt pour ses années d’imposition conformément au paragraphe 96(1) et a inclus sa part de revenu en application de l’alinéa 12(1)l) de la Loi.
+[59] Pour situer l’affaire dans son contexte, les alinéas 25p) et q) de la réponse modifiée indiquent ce qui suit :
+25. Pour déterminer l’obligation fiscale de l’appelante pour l’année d’imposition 2004, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+p) Les activités extractives de HOOL relativement à certains avoirs miniers sont menées par l’intermédiaire de HOLP.
+q) Par conséquent, HOOL n’a pas effectué de production directe de pétrole brut ou de gaz naturel au cours de son année d’imposition prenant fin le 31 décembre 2004.
+Ainsi, l’alinéa 25q) de la réponse modifiée, qui fait état de l’un des faits présumés par le ministre, est essentiellement identique à la première partie du paragraphe 12 de l’avis d’appel.
+[60] Pour situer l’affaire dans son contexte, l’alinéa 26c) de la réponse modifiée indique ce qui suit :
+[traduction]
+26. Le PGC affirme que les hypothèses aux alinéas 25l), n), q), et aux sous-alinéas kk)[,] xx), yy), zz), aa) [sic], [44] ccc), uuu) et vvv) ne sont pas exposées avec exactitude ou sont incomplètes, ou que ces hypothèses doivent être lues au regard du contexte, comme suit : [...]
+c) En ce qui concerne l’hypothèse de l’alinéa 25q), le PGC affirme que cette hypothèse ne doit pas être interprétée autrement que comme un énoncé précisant que HOOL, en tant que membre de HOLP, a calculé son revenu aux fins du calcul de l’impôt pour ses années d’imposition conformément au paragraphe 96(1) et [sic] a inclus sa part de revenu en application de l’alinéa 12(1)l) de la Loi.
+[61] En ce qui concerne l’alinéa 9a) de la réponse modifiée, il est étrange que le PGC signale que HOOL ne définit pas la signification de l’expression « production directe de pétrole brut ou de gaz naturel » alors que la même expression est utilisée par le PGC à l’alinéa 25q) de la réponse modifiée, dans l’énumération des hypothèses de fait formulées par le ministre. Toutefois, je ne suis pas convaincu que cette particularité est, en soi, un motif suffisant de radiation de l’alinéa 9a) de la réponse modifiée. Toutefois, il est plus préoccupant que l’alinéa 9a) ne comporte pas d’admission, de dénégation ou d’allégation d’absence de connaissance relativement à un fait plaidé au paragraphe 12 de l’avis d’appel. Par conséquent, en raison de sa teneur, l’alinéa 9a) serait mieux présenté sous l'intitulé « Moyens invoqués et mesure de redressement recherchée ».
+[62] En ce qui concerne l’alinéa 9b) de la réponse modifiée, je me demande comment le PGC peut affirmer qu’il n’a aucune connaissance des allégations de fait au paragraphe 12 de l’avis d’appel, compte tenu de ce que l’alinéa 25q) de la réponse modifiée est essentiellement identique à la première clause (c.-à-d., la partie avant le mot « et ») du paragraphe 12 de l’avis d’appel.
+[63] L’alinéa 9a) de la réponse modifiée ne comporte pas d’admission, de dénégation ou d’allégation d’absence de connaissance relativement aux faits plaidés au paragraphe 12 de l’avis d’appel; par conséquent (sous réserve de la partie restant du paragraphe), il serait préférable qu’il figure sous l'intitulé « Autres faits matériels ». Je suis davantage préoccupé par le fait que, à partir des mots « que HOOL, en tant que membre de HOLP », l’alinéa 9c) de la réponse modifiée est essentiellement identique aux trois dernières lignes et demie de l’alinéa 26c) du même document. Ces allégations sont clairement répétitives et redondantes.
+[64] Par conséquent, en ce qui concerne les alinéas 9a) et b), le paragraphe 9 de la réponse modifiée est radié, avec autorisation de la modifier.
+5) Paragraphe 10 de la réponse modifiée
+[65] Le paragraphe 10 de la réponse modifiée se rapporte au paragraphe 13 de l’avis d’appel, qui est rédigé ainsi : [traduction]
+13. En 2003, HOOL a conclu cinquante-deux opérations de swap (collectivement, désignées ci-après comme les « swaps ») auprès de huit institutions financières.
+Le paragraphe 10 de la réponse modifiée est rédigé ainsi : [traduction]
+10. En ce qui concerne le paragraphe 13 de l’avis d’appel, le PGC :
+a) admet uniquement qu’en 2003, HOOL avait en vigueur un contrat-cadre avec la CIBC et que HOOL a conclu diverses confirmations de transactions pour couvrir la production de pétrole et de gaz naturel (les « confirmations de transaction de produits de base avec la CIBC »);
+b) ne connaît pas et n’admet pas l’utilisation par l’appelante de l'expression « transactions de swap » ou l’utilisation du mot « swaps »; et
+c) ne connaît pas et n’admet pas les autres allégations de faits dans ce paragraphe.
+[66] Le paragraphe 10 de la réponse modifiée doit être lu de concert avec le sous-alinéa 25kk) de la réponse modifiée, qui expose les faits suivants présumés par le ministre :
+25. Pour déterminer l’obligation fiscale de l’appelante pour l’année d’imposition 2004, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+kk) En 2003, HOOL a conclu entre cinquante-deux et cinquante-quatre opérations dérivées auprès de huit institutions financières pour couvrir la production de pétrole et de gaz naturel; (désignées collectivement comme les « transactions de couverture ».
+[67] L’alinéa 10a) de la réponse modifiée comporte une admission surabondante, compte tenu que le paragraphe 13 de l’avis d’appel ne fait aucunement mention d’un contrat-cadre entre HOOL et la Banque canadienne impériale de commerce (la CIBC) et ne fait aucunement référence à des confirmations d’opération ou à la couverture de la production de pétrole ou de gaz naturel. Bien que ces allégations de fait du PGC pourraient être correctes, il est inapproprié d’utiliser une admission, faisant prétendument référence au paragraphe 13 de l’avis d’appel, pour plaider ces faits. Ils doivent être plaidés ailleurs dans la réponse modifiée.
+[68] Comme je l’ai signalé précédemment, il est devenu évident, lors de l’audition de la présente requête, que HOOL et la Couronne (les parties) ont utilisé des formulations différentes pour décrire les 52 à 54 transactions, HOOL les désignant comme des transactions de swap, alors que la Couronne les désignait comme des transactions dérivées ou des transactions de couverture. En ce qui concerne l’alinéa 10b) de la réponse modifiée, je ne suis pas préoccupé par l'observation du PGC portant qu’il ne connaissait pas l’utilisation faite par HOOL des termes de référence.
+[69] Toutefois, peu importe la différence sur le plan de la terminologie utilisée par les parties, je ne suis pas convaincu qu’il était approprié pour le PGC d’affirmer, à l’alinéa 10c) de la réponse modifiée, qu’il ne connaissait pas les autres faits présumés par HOOL au paragraphe 13 de l’avis d’appel. Bien qu’il soit possible que le PGC ne connaisse pas tous les détails des transactions, il semble, à la lecture du sous-alinéa 25kk) de la réponse modifiée, qu’il était au courant dans une certaine mesure des 52 à 54 transactions dérivées qui (sans égard à la terminologie), semblent être les mêmes transactions que celles auxquelles HOOL fait référence au paragraphe 13 de l’avis d’appel.
+[70] Par conséquent, les alinéas 10a) et c) de la réponse modifiée sont radiés, avec autorisation de les modifier. L’alinéa 10b) de la réponse modifiée ne doit pas être radié.
+6) Paragraphe 11 de la réponse modifiée
+[71] Le paragraphe 11 de la réponse modifiée se rapporte au paragraphe 14 de l’avis d’appel, qui est rédigé ainsi :
+[traduction]
+14. Les swaps sont entrés en vigueur et ont été réglés au cours de l’année 2004.
+Le paragraphe 11 de la réponse modifiée est rédigé ainsi :
+[traduction]
+En ce qui concerne le paragraphe 14 de l’avis d’appel, le PGC admet seulement que certaines confirmations de transactions de produits de base avec la CIBC ont été réglées au cours de l’année d’imposition 2004 et que le PGC ne connaît pas et n’admet pas les autres allégations de fait dans ce paragraphe.
+[72] Les hypothèses de fait suivantes formulées par le ministre, qui sont exposées au sous-alinéa 25aaa) de la réponse modifiée, ainsi que les déclarations faites par le PGC à l’alinéa 26e) et à l’alinéa 26d) de la réponse modifiée, sont pertinentes dans le cadre de l’analyse du paragraphe 11 de la réponse modifiée. Ces dispositions sont ainsi rédigées :
+25. Pour déterminer l’obligation fiscale de l’appelante pour l’année d’imposition 2004, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+aaa) Les transactions de couverture sont entrées en vigueur et ont été réglées en 2004 [...]
+26. Le PGC affirme que les hypothèses aux alinéas 25l), n), q), et aux sous-alinéas kk)[,] xx), yy), zz), aa), ccc), uuu) et vvv) ne sont pas exposées avec exactitude ou sont incomplètes, ou que ces hypothèses doivent être lues dans leur contexte, comme suit : [...]
+e) En ce qui concerne l’hypothèse (sous-alinéa 25aaa), le PGC affirme que l’hypothèse est inexacte ou incomplète puisque certaines confirmations de transaction mettant en cause la CIBC indiquent qu’elles devaient être réglées en 2005 [...]
+26d) Certaines confirmations de transaction mettant en cause la CIBC indiquent qu’elles devaient être réglées en 2005.
+Il convient de noter que le sous-alinéa 25aaa) de la réponse modifiée et le paragraphe 14 de l’avis d’appel sont assez semblables (à l’exception des termes utilisés pour décrire les transactions), et que la conclusion de l’alinéa 26e) de la réponse modifiée est essentiellement identique à l’alinéa 26d) de la réponse modifiée.
+[73] En formulant le paragraphe 11 de la réponse modifiée comme une admission, le PGC semble reconnaître que les « confirmations de transaction de produits de base » avec la CIBC visées dans ce paragraphe représentaient certaines des transactions [45] mentionnées par HOOL au paragraphe 14 de l’avis d’appel.
+[74] HOOL est d’avis qu’au paragraphe 11 de la réponse modifiée, le PGC tente de rejeter une partie importante des faits présumés exposés au sous-alinéa 25aaa) de la réponse modifiée, sans l’affirmer explicitement [46] . À la lecture du paragraphe 11 de la réponse modifiée de concert avec l’alinéa 26e) et l’alinéa 26d) de la réponse modifiée, je ne partage pas la préoccupation de HOOL. Je suis d’avis que le PGC a été très explicite à l’alinéa 26e) et à l’alinéa 26d) en désavouant et en renonçant à une partie de l’hypothèse formulée au sous-alinéa 25aaa). Toutefois, puisque la substance de l’alinéa 26d) se retrouve également dans l’alinéa 26e), je suis d’avis que l’alinéa 26d) est répétitif et redondant. Je reviendrai sur cette question plus loin.
+[75] Je suis préoccupé par l'observation du PGC, au paragraphe 11 de la réponse modifiée, selon laquelle il n’a aucune connaissance des autres allégations de fait au paragraphe 14 de l’avis d’appel. Il ressort de la lecture du sous-alinéa 25aaa) et des alinéas 26e) et 26d) de la réponse modifiée que le PGC connaissait, dans une certaine mesure, les dates date d’entrée en vigueur et les dates de règlement des transactions, puisqu’il a déclaré que le ministre a présumé que les transactions sont entrées en vigueur et ont été réglées en 2004, en plus de préciser que certaines des confirmations de transaction avec la CIBC devaient être réglées en 2005. Toutefois, il est également possible d’interpréter le paragraphe 11 de la réponse modifiée comme une indication que le PGC n’avait aucune connaissance des transactions avec des institutions financières, à l’exception de la CIBC. Compte tenu du seuil élevé imposé par le critère du « caractère manifeste et évident », je suis disposé à laisser le bénéfice du doute à la Couronne et à retenir cette deuxième interprétation du paragraphe 11, que je considère comme un acte de procédure acceptable.
+[76] En résumé, je ne crois pas que le paragraphe 11 de la réponse modifiée corresponde aux exigences prévues par les alinéas 53a) à d) des Règles; par conséquent, il ne doit pas être radié.
+7) Paragraphe 12 de la réponse modifiée
+[77] Le paragraphe 12 de la réponse modifiée se rapporte au paragraphe 15 de l’avis d’appel, qui est rédigé ainsi : [traduction]
+15. HOLP n’a pas conclu de swaps ou de contrats similaires et aucun swap n’a été conclu au nom de HOLP.
+Le paragraphe 12 de la réponse modifiée est rédigé ainsi : [traduction]
+12. En ce qui concerne le paragraphe 15 de l’avis d’appel, le PGC :
+a) admet seulement que HOLP n’a pas conclu de confirmation de transaction de produits de base avec la CIBC puisque HOLP n’a pas la capacité juridique nécessaire pour conclure ce type de contrat de couverture;
+b) le PGC ne connaît pas et n’admet pas les autres allégations de faits;
+c) toutefois, le PGC souligne que des pertes nettes liées aux produits de base ont été consignées aux fins de comptabilité dans la détermination des revenus de production et du revenu de HOLP pour les exercices financiers prenant fin le 31 janvier 2004 et le 31 janvier 2005.
+[78] Pour fournir plus de contexte, les dispositions suivantes de la réponse modifiée sont pertinentes quant à l’analyse du paragraphe 12 de la réponse modifiée :
+[TRADUCTION]
+25. Pour déterminer l’obligation fiscale de l’appelante pour l’année d’imposition 2004, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+ww) HOLP n’a pas conclu de contrats de couverture ou d’autres contrats similaires [...]
+ccc) Ces pertes liées à des transactions de couverture, déduction faite des gains ou pertes sur change associés, ont été déclarées dans les états financiers et aux fins du calcul de l’impôt comme pertes découlant d’activités autres que des activités extractives [...]
+26. Le PGC affirme que les hypothèses aux alinéas 25l), n), q), et aux sous-alinéas kk)[,] xx), yy), zz), aa), ccc), uuu) et vvv) ne sont pas exposées avec exactitude ou sont incomplètes, ou que ces hypothèses doivent être lues dans leur contexte, comme suit : [...]
+f) En ce qui concerne l’hypothèse (sous-alinéa 25ccc)), le PGC affirme que l’hypothèse est inexacte ou incomplète puisque le PGC observe que des pertes nettes liées aux produits de base ont été consignées aux fins de comptabilité dans la détermination des revenus de production et du revenu de HOLP pour les exercices financiers prenant fin le 31 janvier 2004 et le 31 janvier 2005.
+[79] L’admission à l’alinéa 12a) de la réponse modifiée n’est pas aussi large que l’hypothèse de fait au sous-alinéa 25ww) de la réponse modifiée. Les avocats de HOOL ont soutenu qu’au paragraphe 12 de la réponse modifiée, le PGC tente, sans le faire explicitement, de rejeter une partie de l’hypothèse de fait exposée au sous-alinéa 25ww) [47] . Aucun élément du paragraphe 26 de la réponse modifiée n’indique expressément que l’hypothèse au sous-alinéa 25ww) est inexacte, incomplète ou hors contexte. Comme le ministre a présumé, au sous-alinéa 25ww), que HOLP n’avait pas conclu de contrat de couverture ou de contrats similaires sans énoncer d’admissions relativement à cette hypothèse, pour que le PGC abandonne cette hypothèse, il doit la répudier et indiquer clairement la position subsidiaire qu’il soutient [48] . Toutefois, je ne crois pas que cette préoccupation ait un effet défavorable sur l’acceptabilité des alinéas 12a) et b) de la réponse modifiée. La méthode à privilégier pour répondre à cette préoccupation serait plutôt de modifier le paragraphe 26 de façon à ajouter une allégation qui répudie et restreint explicitement l’hypothèse de fait au sous-alinéa 25ww) de la réponse modifiée ou permet de toute autre façon de revenir sur cette hypothèse de fait.
+[80] La partie matérielle de l’alinéa 12c) de la réponse modifiée (c.-à-d. la clause commençant par l’expression « le PGC souligne que des pertes nettes liées aux produits de base [...] ») est identique à la partie correspondant à l’alinéa 26f) de la réponse modifiée. Comme l’alinéa 26f) figure dans la partie de la réponse modifiée qui revient sur certains des faits présumés par le ministre, je suis d’avis qu’il s’agit de l'allégation qui doit être conservée et que l’alinéa 12c) doit être radié, puisqu’il est répétitif et redondant.
+[81] En résumé, l’alinéa 12c) de la réponse modifiée est radié, sans autorisation de le modifier. Les alinéas 12a) et b) ne doivent pas être radiés. Si la Couronne le désire, elle peut modifier le paragraphe 26 de la réponse modifiée pour ajouter une allégation revenant sur l’hypothèse de fait au sous-alinéa 25ww) de la réponse modifiée.
+8) Paragraphe 13 de la réponse modifiée
+[82] Le paragraphe 13 de la réponse modifiée se rapporte aux paragraphes 16, 18 et 19 de l’avis d’appel, qui sont rédigés ainsi :
+[traduction]
+16. Dans le cadre des swaps, HOOL avait le droit d’obtenir un prix fixe sur un volume nominal de pétrole brut ou de gaz naturel et devait payer à la contrepartie le prix variable sur le même volume nominal de pétrole brut ou de gaz naturel établi par les indices du marché.
+18. Les montants dus en application des swaps ont été calculés quotidiennement en fonction des volumes nominaux et étaient exigibles mensuellement auprès des parties contractantes, en espèces, jusqu’à concurrence du paiement net dû à l’autre partie pour un mois donné.
+19. En tout, les prix indiciels du pétrole brut et du gaz naturel ont dépassé les prix fixes en 2004, donnant lieu au versement par HOOL de règlements nets à différentes contreparties en application des swaps.
+Le paragraphe 13 de la réponse modifiée est rédigé ainsi :
+[traduction]
+13. En ce qui concerne les paragraphes 16, 18 et 19 de l’avis d’appel, le PGC indique que ces allégations cherchent à interpréter un contrat[,] ce qui est une question de droit et non de fait; quoi qu’il en soit, s’il y a des allégations de fait et non de droit, le PGC :
+a) nie toute connotation juridique dans l’utilisation du mot « swaps »;
+b) nie l’utilisation du mot « nominal », puisque les confirmations de transactions de produits de base avec la CIBC étaient des opérations de couverture de la production anticipée de HOOL, ne devant pas excéder 50 % de la production de HOOL;
+c) ne connaît pas et n’admet pas la signification de l'expression « HOOL avait droit d’obtenir un prix fixe »;
+c.1) ne sait pas et n’admet pas que HOOL a reçu ou non un « prix fixe »;
+d) ne sait pas et n’admet pas comment HOOL a effectué des règlements à la CIBC; à cette fin, il ne connaît pas les détails du règlement, c’est-à-dire si HOOL a versé des paiements à la CIBC chaque mois ou si la CIBC à versé des paiements à HOOL au cours de certains mois et à quel moment les paiements effectués par une partie ont été versés;
+e) admet, par ailleurs, que les confirmations de transaction de produits de base avec la CIBC ont été conclues avec la CIBC de la manière décrite;
+f) ne connaît pas et n’admet pas les opérations de couverture de produits de base qui ont été réalisées avec des contreparties autres que la CIBC; et
+g) ne connaît pas et n’admet pas les autres allégations de faits dans ce paragraphe.
+[83] La comparaison des paragraphes 16, 18 et 19 de l’avis d’appel avec les hypothèses du ministre établies aux sous-alinéas 25xx), zz) et bbb) de la réponse modifiée s’avère révélatrice :
+[traduction]
+25. Pour déterminer l’obligation fiscale de l’appelante pour l’année d’imposition 2004, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+xx) Dans le cadre des transactions de couverture, HOOL avait le droit d’obtenir un prix fixe sur un volume nominal de pétrole brut ou de gaz naturel et devait payer à la contrepartie le prix variable sur le même volume nominal de pétrole brut ou de gaz naturel établi par les indices du marché [...]
+zz) Les montants dus en application des transactions de couverture ont été calculés quotidiennement en fonction des volumes nominaux et étaient exigibles mensuellement auprès des parties contractantes, en espèces, jusqu’à concurrence du paiement net dû à l’autre partie pour un mois donné [...]
+bbb) En tout, les prix indiciels du pétrole brut et du gaz naturel ont dépassé les prix fixes en 2004, donnant lieu au versement par HOOL de règlements totalisant 561 295 272 $ à différentes contreparties en application des transactions de couverture.
+Outre la différence sur le plan de la terminologie (« swaps » dans l’avis d’appel et « transactions de couverture » dans la réponse modifiée), les paragraphes 16 et 18 de l’avis d’appel sont identiques aux sous-alinéas 25xx) et zz) de la réponse modifiée, alors que le paragraphe 19 de l’avis d’appel est très semblable au sous-alinéa 25bbb) de la réponse modifiée, les seules différences étant l’insertion d’une virgule après « 2004 » dans l’avis d’appel, l’omission du mot « net » dans la réponse modifiée, l’insertion du montant total des règlements dans la réponse modifiée et l’omission du mot « diverses » dans la réponse modifiée.
+[84] Puisque les faits présumés par le ministre aux sous-alinéas 25xx), zz) et bbb) de la réponse modifiée sont essentiellement identiques aux faits plaidés par HOOL aux paragraphes 16, 18 et 19 de l’avis d’appel, il est malhonnête de la part du PGC :
+a) à l’alinéa 13b) de la réponse modifiée, de nier l’utilisation du mot « nominal », puisque le PGC utilise le même mot au sous-alinéa 25xx) de la réponse modifiée;
+b) à l’alinéa 13c) de la réponse modifiée, d’affirmer qu’il ne connaissait pas la signification de l’expression « HOOL avait le droit d’obtenir un prix fixe », puisque le PGC a utilisé la même expression au sous-alinéa 25xx) de la réponse modifiée;
+c) à l’alinéa 13c.1) de la réponse modifiée, d’affirmer qu’il ne connaissait pas la signification de l’expression « que HOOL a reçu ou non un « prix fixe », puisque le PGC a utilisé l’expression « prix fixe » au sous-alinéa 25xx) de la réponse modifiée;
+d) à l’alinéa 13f) de la réponse modifiée, d’affirmer qu’il ne connaît pas les « opérations de couverture de produits de base qui ont été réalisées avec des contreparties autres que la CIBC », puisque le PGC a affirmé au sous-alinéa 25bbb) de la réponse modifiée que HOOL a versé des « règlements totalisant 561 295 272 $ à différentes contreparties » (comme le terme est au pluriel, il ne se limite pas à la CIBC); et
+e) à l’alinéa 13g) de la réponse modifiée, d’affirmer qu’il ne connaissait pas les autres allégations de fait dans « ce paragraphe ». La réponse modifiée n’indique pas si l’expression « ce paragraphe » désigne le paragraphe 16, 18 ou 19 de l’avis d’appel, mais cela est sans importance, compte tenu du fait que les sous-alinéas 25xx), zz) et bbb) de la réponse modifiée sont essentiellement identiques aux paragraphes 16, 18 et 19 de l’avis d’appel. Par conséquent, sans égard au paragraphe auquel l’expression lequel « ce paragraphe » fait référence, il est inapproprié pour le PGC d’affirmer qu’il ne connaissait pas les faits que le ministre présumait vrais.
+[85] Dans la partie introductive du paragraphe 13 de la réponse modifiée, le PGC affirme que les paragraphes 16, 18 et 19 de l’avis d’appel soulèvent une question de droit et non de fait. Il s’agit d’une position particulière à faire valoir pour le PGC, compte tenu du fait qu’il a affirmé essentiellement la même chose aux sous-alinéas 25xx), zz) et bbb) de la réponse modifiée, au moment d’exposer les faits présumés par le ministre. Il est bien établi que les conclusions de droit n’ont pas leur place dans l’énoncé des hypothèses de fait du ministre [49] . Si le PGC est d’avis que les paragraphes 16, 18 et 19 de l’avis d’appel constituent des conclusions de droit, ces mêmes conclusions de droit n’auraient pas dû être exposées dans les hypothèses de fait du ministre aux sous-alinéas 25xx), zz) et bbb) de la réponse modifiée. Cela dit, je remarque qu’à l’alinéa 26d) de la réponse modifiée, le PGC a indiqué que les hypothèses formulées aux sous-alinéas 25xx) et zz), mais pas au sous-alinéa bbb), constituent des hypothèses de droit et non de fait.
+[86] À l’alinéa 13d) de la réponse modifiée, le PGC indique qu’il ne sait pas comment HOOL a effectué des paiements à la CIBC. Toutefois, au sous-alinéa 25zz) de la réponse modifiée, le PGC indique que le ministre a présumé que les paiements étaient effectués en espèces; par conséquent, il est inapproprié et incorrect d’affirmer que le PGC n’était pas au courant de ces faits.
+[87] Poursuivant son analyse de l’alinéa 13d) de la réponse modifiée, le PGC indique en outre qu’il n’a aucune connaissance d’un certain nombre de faits concernant le moment et la fréquence des règlements. Toutefois, au sous-alinéa 25zz) de la réponse modifiée, le PGC indique que le ministre a présumé que les montants étaient exigibles mensuellement. Ainsi, l’alinéa 13d) de la réponse modifiée indique indûment que le PGC n’a aucune connaissance d’un certain nombre de faits qui ont été réellement présumés par le ministre.
+[88] La dénégation de l’alinéa 13a) de la réponse modifiée [50] et l’admission de l’alinéa 13e) de la réponse modifiée ne sont pas problématiques.
+[89] En résumé, les alinéas 13b), c), c.1), d), f) et g) de la réponse modifiée sont radiés, avec autorisation de les modifier. Les alinéas 13a) et e) de la réponse modifiée ne doivent pas être radiés.
+9) Paragraphe 14 de la réponse modifiée
+[90] Le paragraphe 14 de la réponse modifiée se rapporte au paragraphe 17 de l’avis d’appel, qui est rédigé ainsi :
+[TRADUCTION]
+17. Les swaps ont été réglés en espèces et aucune livraison physique de pétrole brut ou de gaz naturel n’a été exigée ou envisagée aux présentes par HOOL ou les contreparties.
+Le paragraphe 14 de la réponse modifiée est rédigé ainsi :
+[TRADUCTION]
+14. En ce qui concerne le paragraphe 17 de l’avis d’appel, le PGC :
+a) nie toute connotation juridique dans l’utilisation du terme « swaps »;
+b) ne connaît pas et n’admet pas les activités envisagées par HOOL ou les contreparties;
+c) admet les autres allégations de fait dans ce paragraphe relativement aux transactions de couverture des produits de base avec la CIBC; et
+d) ne connaît pas et n’admet pas les opérations de couverture de produits de base qui ont été réalisées avec des contreparties autres que la CIBC.
+[91] Pour faciliter l’analyse du paragraphe 14 de la réponse modifiée, il est utile d’examiner l’hypothèse de fait du ministre exposée au sous-alinéa 25yy) de la réponse modifiée, comme suit :
+25. Pour déterminer l’obligation fiscale de l’appelante pour l’année d’imposition 2004, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+yy) Les transactions de couverture ont été réglées en espèces et aucune livraison matérielle de pétrole brut ou de gaz naturel n’a été exigée par HOOL ou les contreparties.
+[92] Il est également utile d’examiner l’alinéa 26d) de la réponse modifiée, qui est rédigé ainsi :
+[traduction]
+26. Le PGC affirme que les hypothèses aux alinéas 25l), n), q), et aux sous-alinéas kk)[,] xx), yy), zz), aa), ccc), uuu) et vvv) ne sont pas exposées avec exactitude ou sont incomplètes, ou que ces hypothèses doivent être lues au regard du contexte, comme suit : [...]
+d) En ce qui concerne les hypothèses des sous-alinéas kk), xx), yy) et zz), le PGC affirme que ces hypothèses se rapportent uniquement aux confirmations de transaction qui ont été conclues en application du contrat-cadre avec la CIBC et non aux opérations de couvertures qui ont été conclues avec les contreparties, et les autres hypothèses des sous-alinéas xx), yy) et zz) représentent des hypothèses de droits et non de fait [...]
+[93] Outre la différence sur le plan du terme utilisé pour désigner les transactions, le paragraphe 17 de l’avis d’appel et le sous-alinéa 25yy) de la réponse modifiée sont pratiquement identiques, la seule différence étant que le paragraphe 17 de l’avis d’appel ajoute l’expression « ou envisagée aux présentes » après le mot « exigée ». Par conséquent, à première vue, il semble bizarre pour le PGC d’affirmer, à l’alinéa 14d) de la réponse modifiée, qu’il n’était pas au courant que des opérations de couverture de produits de base étaient conclues avec des contreparties autres que la CIBC. Toutefois, à l’alinéa 26d) de la réponse modifiée, le PGC désavoue et caractérise l’hypothèse formulée au sous-alinéa 25yy) de la réponse modifiée d’une manière compatible avec le paragraphe 14 de la réponse modifiée.
+[94] Il n’est pas manifeste et évident que le paragraphe 14 de la réponse modifiée correspond aux critères consacrés par les alinéas 53(1)a) à d) des Règles. Par conséquent, le paragraphe 14 de la réponse modifiée ne doit pas être radié [51] .
+10) Paragraphe 15 de la réponse modifiée
+[95] Le paragraphe 15 de la réponse modifiée se rapporte au paragraphe 20 de l’avis d’appel, qui est rédigé ainsi :
+[TRADUCTION]
+20. HOOL a déclaré des pertes résultant des swaps (déduction faite des gains ou pertes sur change associés) et s’élevant à un montant total de 561 295 272 $ (les « pertes résultant des swaps ») dans ses états financiers et aux fins du calcul de l’impôt comme des pertes découlant d’activités autres que des activités extractives.
+Le paragraphe 15 de la réponse modifiée est ainsi rédigé :
+[TRADUCTION]
+15. En ce qui concerne le paragraphe 20 de l’avis d’appel, le PGC :
+a) admet que HOOL a déclaré, dans sa déclaration de revenus pour l’année d’imposition 2004, des pertes totalisant 561 295 272 $ relativement à certains contrats de couverture (les « pertes découlant des contrats de couverture ») et que HOOL a déclaré ces pertes comme des pertes découlant d’activités autres que des activités extractives;
+b) ne connaît pas et n’admet pas les autres allégations de faits dans ce paragraphe;
+c) toutefois, le PGC affirme également que les pertes découlant des opérations de couverture ont été consignées dans la détermination des revenus de production de HOLP, puis transférées à HOOL, et plus précisément :
+i) HOLP et un partenaire de Husky Terra Nova Partnership (HTNP);
+ii) les pertes découlant des opérations de couverture de produits de base pour l’année civile 2004 en lien avec le revenu de production de HOLP et de HTNP s’élevaient à 562 966 922 $, alors que le gain sur change associé était de 1 673 372 $, entraînant une perte nette de 561 293 551 $;
+iii) les pertes découlant des opérations de couverture de produits de base pour le mois de janvier 2005 en lien avec le revenu de production de HOLP s’élevaient à 951 746 $, alors que la perte sur change associée était de 117 430 $, entraînant une perte nette de 1 069 176 $;
+iv) les pertes nettes liées aux produits de base de 561 293 272 $ ont été consignées aux fins de comptabilité dans la détermination des revenus de production et du revenu de HOLP pour les exercices financiers respectifs prenant fin le 31 janvier 2004 et le 31 janvier 2005 [52] ;
+v) pour calculer le revenu aux fins du calcul de l’impôt pour l’année d’imposition 2004, HOOL a déduit ces pertes nettes liées aux produits de base qui ont été consignées comme des pertes liées au revenu de production de HOLP; et
+vi) par conséquent, pour déterminer le revenu aux fins du calcul de l’impôt, le revenu et les bénéfices relatifs à des ressources de HOLP ont été augmentés de 449 684 500 $ pendant l’exercice financier allant du 1er février 2004 au 31 janvier 2005; de même, pour déterminer le revenu de HTNP aux fins du calcul de l’impôt, son revenu de production et ses bénéfices relatifs à des ressources ont été augmentés de 92 351 538 $.
+[96] Les hypothèses de fait formulées par le ministre et exposées aux sous-alinéas 25ccc) et eee) de la réponse modifiée sont pertinentes :
+25. Pour déterminer l’obligation fiscale de l’appelante pour l’année d’imposition 2004, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+ccc) Ces pertes liées à des transactions de couverture, déduction faite des gains ou pertes sur change associés, ont été déclarées dans les états financiers et aux fins du calcul de l’impôt comme des pertes découlant d’activités autres que des activités extractives [...]
+eee) Les pertes liées aux opérations de couverture de 561 295 272 $ ont été déduites par HOOL en application de la partie 1 [sic] de la Loi.
+[97] Les alinéas 15a) et b) de la réponse modifiée ne sont pas problématiques du point de vue des actes de procédure. Toutefois, l’alinéa 15c) de la réponse modifiée fait état d'un nombre important de renseignements qui ne sont pas requis pour que le PGC admette ou rejette le paragraphe 20 de l’avis d’appel. Comme l'enseigne la jurisprudence Strother, il est inapproprié d’admettre ou de nier un fait dans un acte de procédure et de joindre « à cette admission ou à ce déni... des commentaires étrangers qui n’ajoutent rien au processus [53] . »
+[98] En outre, l’alinéa 15c) de la réponse modifiée est essentiellement identique à l’alinéa 26g) de la réponse modifiée, qui est établi à l’Annexe A. La seule différence se trouve dans les deux premières lignes des sous-alinéas respectifs, dans la clause (i) des deux dispositions (le sous-alinéa 15c)(i) indique le nom complet Husky Terra Nova Partnership ainsi que l’abréviation définie, alors que l’alinéa 26g) n’utilise que la définition abrégée), et dans la partie centrale de l’alinéa (vi) des deux dispositions (le sous-alinéa 26g)(vi) fournit plus de renseignements que le sous-alinéa 15c)(vi)). Par conséquent, l’alinéa 15c) est répétitif et redondant.
+[99] De même, l’alinéa 15c) de la réponse modifiée est essentiellement identique à l’alinéa 26e) de la réponse modifiée, qui est également exposé à l’Annexe A. L’alinéa 26g) et l’alinéa 26e) sont identique, à l’exception de l’introduction à l’alinéa 26g) et de la mise en forme de la conclusion de l’alinéa 26e). Par conséquent, ces dispositions de la réponse modifiée (alinéas 15c) et 26g) et alinéa 26e) font état essentiellement de la même chose. Il serait suffisant de l’exprimer une seule fois. HOOL n’a pas demandé la radiation de l’alinéa 26e) de la réponse modifiée; par conséquent, je ne l’ordonnerai pas. Toutefois, j’autorise la Couronne, si elle le désire, à supprimer l’alinéa 26e) qui, à mon avis, est répétitif et redondant.
+[100] En résumé, l’alinéa 15c) de la réponse modifiée est radié, sans autorisation de le modifier. Les alinéas 15a) et e) de la réponse modifiée ne doivent pas être radiés.
+11) Paragraphe 18 de la réponse modifiée
+[101] Le paragraphe 18 de la réponse modifiée se rapporte au paragraphe 23 de l’avis d’appel, qui est rédigé ainsi :
+[TRADUCTION]
+23. En établissant la nouvelle déclaration, le ministre a présumé et soutenu chacun des faits décrits aux paragraphes 5 à 20 du présent avis d’appel.
+Le paragraphe 18 de la réponse modifiée est rédigé ainsi :
+[TRADUCTION]
+18. En ce qui concerne le paragraphe 23 de l’avis d’appel, le PGC nie l’allégation de fait exposée dans ce paragraphe et, par souci de clarté, déclare ce qui suit :
+a) le PGC admet que l’appelante, dans son avis d’opposition à la nouvelle cotisation du ministre datée du 26 mai 2014, a produit un exposé des faits qui contenait des allégations de fait similaires aux faits allégués exposés aux paragraphes 5 à 20 de l’avis d’appel (les faits de l’avis d’opposition);
+b) le PGC admet que l’agent des appels de ministère qui a examiné l’objection de l’appelante n’a pas remis en question la plupart des faits de l’avis d’opposition dans la mesure où ces allégations étaient des faits plutôt que des conclusions de droit; et
+c) cependant, dans la mesure où des énoncés dans les faits de l’avis d’opposition contiennent des conclusions de droit, le PGC affirme que l’acceptation de ces énoncés par l’agent des appels ne signifie pas qu’il accepte ces conclusions de droit.
+[102] Les deux premières lignes du paragraphe 18 de la réponse modifiée contiennent une dénégation claire des faits allégués au paragraphe 23 de l’avis d’appel. Bien qu’il y a des similitudes entre les paragraphes 5 à 20 de l’avis d’appel et un grand nombre des sous-alinéas du paragraphe 25 de la réponse modifiée, qui expose les hypothèses de fait du ministre, on observe également de nombreuses différences importantes, ce qui signifie que la dénégation du PGC dans les deux premières lignes du paragraphe 18 de la réponse modifiée est appropriée.
+[103] Toutefois, au paragraphe 18 de la réponse modifiée, des clarifications sont ensuite ajoutées aux alinéas 18a), b) et c), dont certaines sont formulées comme des admissions de fait qui ne sont pas réellement invoqués au paragraphe 23 de l’avis d’appel. Plus particulièrement, les alinéas 18a) et b) contiennent des admissions surabondantes. À mon avis, les alinéas 18a) et b), ainsi que l’alinéa 18c), seraient mieux présentés sous l'intitulé « Autres faits matériels ». Par conséquent, ces trois alinéas sont radiés du paragraphe 18 de la réponse modifiée, avec autorisation de la modifier, de sorte que le contenu de ces trois alinéas soit soulevé comme d’autres faits matériels.
+12) Paragraphe 19 de la réponse modifiée
+[104] Le paragraphe 19 de la réponse modifiée se rapporte au paragraphe 25 de l’avis d’appel, qui est rédigé ainsi :
+[TRADUCTION]
+25. Dans une lettre datée du 25 avril 2017, la section d’appel a produit le résumé suivant du fondement du ministre pour réduire la déduction relative à des ressources de l’appelante :
+[traduction] La position de l’appel est que le programme de couverture de HOOL faisait partie de sa stratégie globale de gestion du risque et était, par conséquent, directement lié aux activités d’exploration, d’aménagement et de production de pétrole et de gaz naturel de HOOL.
+Par conséquent, en ce qui concerne la définition plus restreinte de l’expression « revenu de production » sur lequel est fondé le calcul de la déduction relative à des ressources, les pertes de HOOL découlant des opérations de couvertures correspondent à la définition de l’« activité extractive » en application du règlement 1206(g) puisque les volumes nominaux des contrats peuvent être liés aux volumes de production pétrolière et gazière de HOOL et, par conséquent, sont « sont accessoires [à la production] ou à l’appui de [celle-ci] ».
+En outre, les activités de couverture de HOOL ne sont pas exclues du calcul des bénéfices relatifs aux ressources en application du règlement 1204(1.1) puisque le montant exclu (pertes découlant des opérations de couverture) ne correspond pas aux critères décrits dans les règlements 1204(1.1)(v)(A) et (B) [54] .
+Le paragraphe 19 de la réponse modifiée est rédigé ainsi :
+[TRADUCTION]
+19. En ce qui concerne le paragraphe 25 de l’avis d’appel, il affirme que l’appelante allègue des éléments de preuve, et la lettre datée du 24 avril 2017 parle d’elle-même.
+Le paragraphe 19 de la réponse modifiée indique une date incorrecte pour la lettre de la section d’appel; [55] cependant, cette raison n’est pas suffisante pour radier le paragraphe 19.
+[105] Je retiens la thèse du PGC portant que, au paragraphe 25 de l’avis d’appel, HOOL soulève des éléments de preuve. Par conséquent, je ne vois aucune raison pour radier le paragraphe 19 de la réponse modifiée.
+13) Paragraphe 20 de la réponse modifiée
+[106] Le paragraphe 20 de la réponse modifiée est rédigé ainsi :
+[TRADUCTION]
+20. Le PGC soutient que toutes les allégations de fait restantes dans l’avis d’appel sont de nature administrative ou argumentaire et ne comportent aucun fait matériel à invoquer; dans la mesure où il reste des allégations de fait, celles-ci sont rejetées.
+[107] Le paragraphe 20 de la réponse modifiée est le dernier paragraphe sous l'intitulé « Faits admis, niés ou non connus ». Il s’agit d’une dénégation résiduelle fourre-tout, qui semble courante dans les réponses. Je ne vois rien d’inadmissible au paragraphe 20 de la réponse modifiée, qui a prétendument été incluse dans la réponse modifiée pour plus de sûreté, compte tenu de ce que le paragraphe 49(2) des Règles dispose :
+Les faits allégués que l’intimée ne nie pas dans sa réponse à l’avis d’appel sont réputés admis, sauf le cas où elle affirme ne pas en avoir connaissance.
+14) Paragraphe 26 de la réponse modifiée
+[108] Les paragraphes 25 et 26 de la réponse modifiée se trouvent sous l'intitulé « Hypothèse ». Il est devenu apparent, à la lumière des motifs qui précèdent, que le paragraphe 25 comporte des hypothèses de fait formulées par le ministre pour déterminer l’obligation fiscale de HOOL pour l’année d’imposition 2004. À un moment donné, après l’émission de l’avis de nouvelle cotisation, le PGC a conclu que certaines hypothèses du ministre étaient inexactes ou incomplètes ou nécessitaient une clarification contextuelle. Je présume que c’est pour cette raison que le paragraphe 26 a été inclus dans la réponse originale et dans la réponse modifiée (bien que dans la réponse originale, le paragraphe 26 figurait sous l'intitulé « Autres faits matériels »).
+[109] Le paragraphe 26 est rédigé ainsi :
+[traduction]
+26. Le PGC affirme que les hypothèses au paragraphe 25(1), aux alinéas n), q), aux sous-alinéas kk), xx), yy), zz), aa) [sic], ccc), uuu) et vv) ne sont pas exposées avec exactitude ou sont incomplètes, ou que ces hypothèses doivent être lues au regard de leur contexte, comme suit : [...]
+a) En ce qui concerne l’hypothèse à l’alinéa l), le PGC soutient que l’hypothèse doit être lue au regard du fait que le 1er février 2003, conformément à un programme que l’appelante a nommé « SWIFT », HOLP a transféré à HOOL (dans le cadre d’une entente de renonciation et de cession) des avoirs et des baux miniers non exploités.
+b) En ce qui concerne l’hypothèse à l’alinéa n), le PGC affirme que l’hypothèse ne doit pas être considérée comme une admission de droit à la question à savoir si un partenaire ou un partenariat détient les biens transférés à un partenariat.
+c) En ce qui concerne l’hypothèse à l’alinéa q), le PGC affirme que cette hypothèse ne doit pas être interprétée autrement que comme une allégation précisant que HOOL, en tant que membre de HOLP, a calculé son revenu aux fins du calcul de l’impôt pour ses années d’imposition conformément au paragraphe 96(1) et a inclus sa part de revenu en application de l’alinéa 12(1)l) de la Loi.
+d) En ce qui concerne les hypothèses aux sous-alinéas kk), xx), yy) et zz), le PGC affirme que ces hypothèses se rapportent uniquement aux confirmations de transaction qui ont été conclues en application du contrat-cadre avec la CIBC et non aux opérations de couvertures qui ont été conclues avec les contreparties, et les autres hypothèses aux sous-alinéas xx), yy) et zz) représentent des hypothèses de droit et non de fait;
+e) En ce qui concerne l’hypothèse au sous-alinéa aaa), le PGC affirme que l’hypothèse est inexacte ou incomplète puisque certaines confirmations de transaction mettant en cause la CIBC indiquent qu’elles devaient être réglées en 2005.
+f) En ce qui concerne l’hypothèse (sous-alinéa 25ccc)), le PGC affirme que l’hypothèse est inexacte ou incomplète puisque le PGC souligne que des pertes nettes liées aux produits de base ont été consignées aux fins de comptabilité dans la détermination des revenus de production et du revenu de HOLP pour les exercices financiers prenant fin le 31 janvier 2004 et le 31 janvier 2005.
+g) En ce qui concerne les hypothèses aux sous-alinéas uuu) et vvv), ces hypothèses sont incomplètes puisque le PGC déclare que des pertes découlant des opérations de couvertures ont été consignées dans HOLP pour déterminer les revenus de production, puis ont été transférés à HOOL, plus spécifiquement :
+i) HOLP est un partenaire de HTNP;
+ii) les pertes découlant des opérations de couverture de produits de base pour l’année civile 2004 en lien avec le revenu de production de HOLP et de HTNP s’élevaient à 562 966 922 $, alors que le gain sur change associé était de 1 673 372 $, entraînant une perte nette de 561 293 551 $;
+iii) les pertes découlant des opérations de couverture de produits de base pour le mois de janvier 2005 en lien avec le revenu de production de HOLP s’élevaient à 951 746 $, alors que la perte sur change associée était de 117 430 $, entraînant une perte nette de 1 069 176 $;
+iv) les pertes nettes liées aux produits de base de 561 293 272 $ ont été consignées aux fins de comptabilité dans la détermination des revenus de production et du revenu de HOLP pour les exercices financiers respectifs prenant fin le 31 janvier 2004 et le 31 janvier 2005;
+v) pour calculer le revenu aux fins du calcul de l’impôt pour l’année d’imposition 2004, HOOL a déduit ces pertes nettes liées aux produits de base qui ont été consignées comme des pertes liées au revenu de production de HOLP; et
+vi) par conséquent, pour déterminer le revenu aux fins du calcul de l’impôt sur le revenu, le revenu et les bénéfices relatifs à des ressources de HOLP ont été augmentés de 449 684 500 $ pendant l’exercice financier allant du 1er février 2004 au 31 janvier 2005 pour supprimer les pertes découlant des opérations de couverture consignées antérieurement comme une réduction des revenus de production; de même, pour déterminer le revenu de HTNP aux fins du calcul de l’impôt, son revenu de production et ses bénéfices relatifs à des ressources ont été augmentés de 92 351 538 $.
+[110] Comme je l’ai expliqué précédemment, le PGC n’est pas lié par les hypothèses retenues par le ministre et peut revenir sur ces hypothèses ou y renoncer, à condition qu’il avance une position subsidiaire [56] . À mon avis, le paragraphe 26 de la réponse modifiée est la partie de l’acte de procédure dans laquelle le PGC précise quelles hypothèses formulées par le ministre sont fausses ou incomplètes ou appellent une clarification contextuelle. Je suis également d’avis que le paragraphe 26 désavoue spécifiquement les hypothèses citées, de façon à satisfaire l’exigence consacrée par le juge en chef adjoint Bowman (tel était alors son titre) dans le jugement Loewen [57] .
+[111] Il n’est pas manifeste et évident que le paragraphe 26 de la réponse modifiée répond aux critères de l’article 53 applicables pour radier un acte de procédure. En fait, le paragraphe 26 pourrait appeler l’ajout de dispositions supplémentaires afin de pouvoir présenter la position subsidiaire du PGC dans son intégralité. Plus précisément, comme je l’ai mentionné précédemment [58] , le PGC peut modifier le paragraphe 26 de la réponse modifiée pour ajouter une disposition permettant de revenir sur l’hypothèse de fait au sous-alinéa 25ww) de la réponse modifiée et de la désavouer spécifiquement.
+15) Alinéa 26d) de la réponse modifiée
+[112] L’alinéa 26d), qui figure dans la partie de la réponse modifiée intitulée « Autres faits matériels », est rédigé ainsi : [traduction]
+26d) Certaines confirmations de transaction mettant en cause la CIBC indiquent qu’elles devaient être réglées en 2005.
+[113] Comme je l’ai mentionné précédemment, l’alinéa 26d) de la réponse modifiée est très semblable à l’alinéa 26e) de la réponse modifiée [59] . L’alinéa 26d) est répétitif et redondant; par conséquent, il est radié, sans autorisation de le modifier.
+16) Alinéa 26e) de la réponse modifiée
+[114] Comme je l’ai mentionné précédemment, l’alinéa 26e) de la réponse modifiée est très semblable à l’alinéa 26g) de la réponse modifiée [60] . L’alinéa 26e) est répétitif et redondant. Toutefois, puisque HOOL n’a pas demandé, dans son avis de requête, la radiation de l’alinéa 26e), je ne l’ordonnerai pas, mais j’autoriserai la Couronne à radier cet alinéa, dans l’espoir qu’elle le fasse.
+C. Hypothèse manquante
+[115] L’un des griefs de HOOL est qu’au moment où l’Agence a procédé à une vérification et où les agents des appels ont examiné la nouvelle cotisation et l’avis d’opposition, les vérificateurs et/ou les agents des appels (en tant que représentants du ministre) ont présumé divers faits, qui n’ont pas tous été invoqués par la Couronne dans la réponse modifiée. HOOL a pour thèse qu’au moment d’invoquer les hypothèses de fait sur lesquelles la nouvelle cotisation s’est fondée, la Couronne a manqué à son obligation d’énoncer l’ensemble des hypothèses formulées par le ministre. HOOL allègue, plus précisément, qu’une hypothèse cruciale formulée par l’Agence aux étapes de vérification, d’établissement de la nouvelle cotisation et d’appel a été délibérément omise par la Couronne dans sa réponse, et ultérieurement dans sa réponse modifiée.
+[116] En guise de contexte, avant l’audience de la présente requête, HOOL a déposé l’affidavit de Reinard Jiloca, dont la pièce « B » est la copie du rapport sur une opposition préparé en avril 2007 par les agents des appels ou les agents qui ont examiné l’avis d’opposition de HOOL. À la page 2 du rapport sur une opposition, la série suivante de cinq intitulés et de sous- intitulés est présentée :
+[traduction]
+2) EXAMEN DE CHAQUE QUESTION VALIDE CONTESTÉE
+Question 1 – Pertes découlant de la négociation de produits dérivés dans le calcul des bénéfices relatifs aux ressources
+l) FONDEMENT DE LA (NOUVELLE) COTISATION (position du vérificateur)
+a) Faits :
+RÉSUMÉ DES FAITS
+[117] Sous l'intitulé (ou sous-titre) « CONTEXTE », l’agent des appels a établi 12 paragraphes numérotés, les dix premiers étant reproduits dans la colonne de gauche de l’Annexe B [61] . Dans le contexte de cette requête, l’énoncé d’importance est la dernière phrase du paragraphe 5, qui est rédigé ainsi : « Seule HOLP a mené des activités de production. »
+[118] HOOL soutient que les dix premiers paragraphes sous l'intitulé « CONTEXTE » dans le rapport sur une opposition formaient une partie des hypothèses formulées par le ministre pour émettre (ou peut-être confirmer) la nouvelle cotisation [62] . Par conséquent, selon HOOL, la dernière phrase du paragraphe 5, précité, aurait dû être invoquée au paragraphe 25 de la réponse modifiée (qui est le paragraphe exposant les hypothèses de fait du ministre), mais ne l’a pas été. Pour analyser la plainte de HOOL, j’ai également reproduit, dans la colonne de droite de l’Annexe B, les extraits correspondants du paragraphe 25 dans la réponse modifiée.
+[119] Comme de l’ai discuté précédemment, [63] la Couronne a l’obligation de communiquer tous les faits sur lesquels une évaluation particulière est fondée, même si ces faits sont erronés, non pertinents ou embarrassants pour la cause de la Couronne ou pourraient aider la cause du contribuable. La difficulté en l’espèce tient au fait que le rapport sur une opposition ne précise pas que les paragraphes qui figurent sous l'intitulé « CONTEXTE » constituaient en fait les hypothèses de fait du ministre sur lesquels la nouvelle cotisation était fondée.
+[120] Bien qu’il y ait certaines similitudes entre les paragraphes 1 à 9 sous l'intitulé « CONTEXTE » du rapport sur une opposition et les alinéas et les sous-alinéas du paragraphe 25 de la réponse modifiée qui sont reproduits dans l’Annexe A, la similitude n’est pas suffisante pour me permettre de tirer la conclusion que le rapport sur une opposition a réellement reproduit les hypothèses de fait formulées par le ministre. En fait, la Couronne a soutenu que les paragraphes 1 à 9 sous l'intitulé « CONTEXTE » dans le rapport sur une opposition ont été copiés par les agents des appels à partir des faits exposés par HOOL dans son avis d’opposition [64] .
+[121] Puisque je ne dispose d’aucun élément de preuve dont il ressort clairement que l’énoncé en question (« Seule HOLP a mené des activités de production. ») était réellement un des faits présumés par le ministre, je ne peux exiger que cette allégation soit invoquée par la Couronne comme un fait présumé La présente conclusion est tirés sans préjudice au droit de HOOL (en supposant que les interrogatoires préalables n’ont pas encore été conclus) de soumettre un agent de l’Agence à un interrogatoire préalable, dans le but de déterminer l’étendue des hypothèses formulées par le ministre au moment d’émettre ou de confirmer la nouvelle cotisation.
+IV. CONCLUSION
+[122] Comme je l’ai indiqué précédemment, les parties suivantes de la réponse modifiée sont radiées :
+a) paragraphe 5 et alinéas 8a), 9a), 9b), 10a), 10c), 13b), 13c), 13c.1), 13d), 13f), 13g), 18a), 18b) et 18c), avec autorisation de les modifier; et
+b) alinéas 7b), 9c), 12c) et 15c) et 26d), sans autorisation de les modifier.
+Outre les modifications prévues à l’alinéa 122a), ci-dessus, la Couronne est également autorisée, si elle le désire :
+c) à modifier le paragraphe 26 de la réponse modifiée pour ajouter une disposition visant à abandonner l’hypothèse de fait au sous-alinéa 25ww) de la réponse modifiée;
+d) à supprimer l’alinéa 26e) de la réponse modifiée; et
+e) à apporter les modifications accessoires ou supplémentaires jugées nécessaires pour :
+(i) s’assurer que le document contenant les modifications prévues dans la réponse modifiée se lise bien après la suppression des dispositions qui ont été radiées, et
+(ii) répondre à toute autre préoccupation ou suggestion notée ci-dessus qui n’ont pas fait l’objet d’une radiation.
+[123] Si la Couronne désire apporter les modifications prévues par les alinéas 122a), c), d) et e) ci-dessus, le document contenant ces modifications apportées à la réponse modifiée sera produit au greffe et signifié à HOOL au plus tard 60 jours après la date de l’ordonnance qui accompagne les présents motifs.
+[124] Les dépens afférents à la présente requête suivent l’issue de la cause.
+Signé à Ottawa, Canada, ce 18e jour de juin 2019.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Traduction certifiée conforme
+ce 26e jour de mai 2020.
+François Brunet, réviseur
+ANNEXE A
+L’alinéa 26g) de la réponse modifiée est rédigé ainsi :
+[traduction] 26. Le PGC affirme que les hypothèses aux alinéas 25l), n), q), et aux sous-alinéas kk)[,] xx), yy), zz), aa), ccc), uuu) et vvv) ne sont pas exposées avec exactitude ou sont incomplètes, ou que ces hypothèses doivent être lues dans leur contexte, comme suit : [...]
+g) En ce qui concerne les hypothèses aux sous-alinéas uuu) et vvv), ces hypothèses sont incomplètes puisque le PGC souligne que des pertes découlant des opérations de couvertures ont été consignées dans HOLP pour déterminer les revenus de production, puis ont été transférés à HOOL, plus spécifiquement.
+i) HOLP est un partenaire de HTNP;
+ii) les pertes découlant des opérations de couverture de produits de base pour l’année civile 2004 en lien avec le revenu de production de HOLP et de HTNP s’élevaient à 562 966 922 $, alors que le gain sur change associé était de 1 673 372 $, entraînant une perte nette de 561 293 551 $;
+iii) les pertes découlant des opérations de couverture de produits de base pour le mois de janvier 2005 en lien avec le revenu de production de HOLP s’élevaient à 951 746 $, alors que la perte sur change associée était de 117 430 $, entraînant une perte nette de 1 069 176 $;
+iv) les pertes nettes liées aux produits de base de 561 293 272 $ ont été consignées aux fins de comptabilité dans la détermination des revenus de production et du revenu de HOLP pour les exercices financiers respectifs prenant fin le 31 janvier 2004 et le 31 janvier 2005;
+v) pour calculer le revenu aux fins du calcul de l’impôt pour l’année d’imposition 2004, HOOL a déduit ces pertes nettes liées aux produits de base qui ont été consignées comme des pertes liées au revenu de production de HOLP; et
+vi) par conséquent, pour déterminer le revenu aux fins du calcul de l’impôt sur le revenu, le revenu et les bénéfices relatifs à des ressources de HOLP ont été augmentés de 449 684 500 $ pendant l’exercice financier allant du 1er février 2004 au 31 janvier 2005 pour supprimer les pertes découlant des opérations de couverture consignées antérieurement comme une réduction des revenus de production; de même, pour déterminer le revenu de HTNP aux fins du calcul de l’impôt, son revenu de production et ses bénéfices relatifs à des ressources ont été augmentés de 92 351 538 $.
+L’alinéa 26e) de la réponse modifiée est rédigée ainsi : [traduction]
+26e) Les pertes découlant des opérations de couverture ont été consignées dans la détermination des revenus de production de HOLP, puis transférées à HOOL, et plus précisément :
+i) HOLP est un partenaire de HTNP;
+ii) les pertes découlant des opérations de couverture de produits de base pour l’année civile 2004 en lien avec le revenu de production de HOLP et de HTNP s’élevaient à 562 966 922 $, alors que le gain sur change associé était de 1 673 372 $, entraînant une perte nette de 561 293 551 $;
+iii) les pertes découlant des opérations de couverture de produits de base pour le mois de janvier 2005 en lien avec le revenu de production de HOLP s’élevaient à 951 746 $, alors que la perte sur change associée était de 117 430 $, entraînant une perte nette de 1 069 176 $;
+iv) les pertes nettes liées aux produits de base de 561 293 272 $ ont été consignées aux fins de comptabilité dans la détermination des revenus de production et du revenu de HOLP pour les exercices financiers respectifs prenant fin le 31 janvier 2004 et le 31 janvier 2005;
+v) pour calculer le revenu aux fins du calcul de l’impôt pour l’année d’imposition 2004, HOOL a déduit ces pertes nettes liées aux produits de base qui ont été consignées comme des pertes liées au revenu de production de HOLP; et
+par conséquent, pour déterminer le revenu aux fins du calcul de l’impôt sur le revenu, le revenu et les bénéfices relatifs à des ressources de HOLP ont été augmentés de 449 684 500 $ pendant l’exercice financier allant du 1er février 2004 au 31 janvier 2005 pour supprimer les pertes découlant des opérations de couverture consignées antérieurement comme une réduction des revenus de production; de même, pour déterminer le revenu de HTNP aux fins du calcul de l’impôt, son revenu de production et ses bénéfices relatifs à des ressources ont été augmentés de 92 351 538 $. ANNEXE B
+L’objet de cette annexe est de comparer les énoncés contextuels établis par l’Agence aux paragraphes 1 à 9 des pages 2 et 3 du rapport sur une opposition avec les hypothèses correspondantes établies par la Couronne au paragraphe 25 de la réponse modifiée. La phrase en italique au paragraphe 5 dans la colonne de gauche indique que l’énoncé a été établi dans le rapport sur une opposition et non dans la réponse modifiée.
+Les hypothèses établies dans la réponse modifiée ne figurent pas toutes dans la colonne de droite ci-dessous. Les hypothèses de la réponse modifiée qui ne présentent pas d’équivalent dans les paragraphes 1 à 9 des pages 2 et 3 du rapport sur une opposition ne sont pas indiquées ci-dessous.
+Extrait du rapport sur une opposition
+Extrait de la réponse modifiée
+Faits :
+Paragraphe 25 – Hypothèses
+1. Husky Energy Inc. (HEI) est une société cotée en bourse et la société mère d’un groupe de sociétés énergétiques intégrées menant des activités d’exploration et de mise en valeur de pétrole brut et de gaz naturel en amont, des activités de mise en valeur, de transport et de commercialisation du pétrole et du gaz naturel dans le secteur intermédiaire et des opérations de commercialisation des produits raffinés et de détail en aval.
+c) HOOL est une filiale en propriété exclusive de HEI, une société publique canadienne.
+d) HEI est une société de portefeuille et ne mène aucune activité d’exploration, de mise en valeur ou de production de pétrole ou de gaz naturel pour son propre compte.
+2. Husky Oil Operations Limited (HOOL) est une filiale en propriété exclusive canadienne de HEI, qui produit du pétrole brut et du gaz naturel en Amérique du Nord. Les activités extractives de HOOL sont menées dans le cadre d’un partenariat, Husky Oil Limited Partnership (HOLP). HOOL détient une participation de 99 % dans le partenariat et agit à titre d’associé commandité. La participation de 1 % restante est détenue par HOI Resources Co., qui est également membre du groupe de sociétés Husky.
+b) HOOL est une société canadienne imposable dont l’année fiscale prend fin le 31 décembre.
+e) HOOL mène ses activités d’exploration, de mise en valeur et de production de pétrole brut principalement au Canada.
+g) La production de pétrole brut et de gaz naturel de HOOL se fait principalement au Canada.
+h) HOOL exécute certains aspects de ses activités en commun avec HOIRC, par l’intermédiaire de HOLP.
+Les activités extractives de HOOL relativement à certains avoirs miniers sont menées par l’intermédiaire de HOLP.
+j) HOOL détient une participation de 99 % dans HOLP.
+k) La participation de 1 % restante dans HOLP est détenue par HOIRC, qui est une filiale en propriété exclusive de HOOL.
+3. HOOL acquiert des « avoirs miniers canadiens » et mène des activités d’exploration et d’aménagement relativement à ces avoirs. Chaque fois qu’un puits est foré avec succès, HOOL transfère ce bien à HOLP avant le début de la production. L’objectif de ce mécanisme est de permettre à HOOL d’avoir droit aux frais d’exploration au Canada et aux frais d’aménagement au Canada pendant l’année en cours, tout en reportant la reconnaissance du revenu pendant un an.
+l) HOOL a acquis des biens qui correspondaient à la définition de « biens miniers canadiens » énoncée dans la Loi (les biens).
+m) HOOL mène des activités d’exploration et d’aménagement relativement à ces avoirs.
+n) Chaque fois qu’un puits est foré avec succès, HOOL transfère ce bien à HOLP afin que HOOL puisse avoir accès aux frais d’exploration au Canada et aux frais d’aménagement au Canada (puisque ces termes sont utilisés dans la Loi) pendant l’année en cours, tout en reportant la reconnaissance du revenu pendant un an.
+4. HOLP est constitué en application des lois de l’Alberta et son année d’imposition prend fin le 31 janvier. HOLP possède et exploite l’ensemble des avoirs miniers des sociétés du groupe Husky dans l’Ouest canadien.
+i) HOLP est constitué en application des lois de l’Alberta et son exercice financier prend fin le 31 janvier.
+f) les opérations de production de pétrole et de gaz naturel de HOOL se déroulent principalement dans l’Ouest canadien et au large de Terre-Neuve.
+5. Par conséquent, HOOL n’a pas effectué de production directe de pétrole brut ou de gaz naturel au cours de son année d’imposition prenant fin le 31 décembre 2004. Seule HOLP a mené des activités de production [65] .
+q) Par conséquent, HOOL n’a pas effectué de production directe de pétrole brut ou de gaz naturel au cours de son année d’imposition prenant fin le 31 décembre 2004.
+6. En 2003, HOOL a conclu cinquante-deux opérations de swap (collectivement, désignées ci-après comme les « swaps ») auprès de huit institutions financières. Les swaps sont entrés en vigueur au cours de l’année 2004. HOLP n’a pas conclu de swaps ou d’autres contrats similaires. HOOL soutient que les swaps ont été conclus en son propre nom et non en sa qualité de partenaire général de HOLP [66] .
+kk) En 2003, HOOL a conclu entre cinquante-deux et cinquante-quatre opérations dérivées auprès de huit institutions financières pour couvrir la production de pétrole et de gaz naturel; (désignées collectivement comme les « transactions de couverture ».
+ww) HOLP n’a pas conclu de contrats de couverture ou d’autres contrats similaires.
+aaa) Les transactions de couverture sont entrées en vigueur et ont été réglées en 2004.
+6. [67] Dans le cadre des swaps, HOOL avait droit d’obtenir un prix fixe sur un volume nominal de pétrole brut ou de gaz naturel et devait payer à la contrepartie le prix variable sur le même volume nominal de pétrole brut ou de gaz naturel établi par les indices du marché.
+xx) Dans le cadre des transactions de couverture, HOOL avait droit d’obtenir un prix fixe sur un volume nominal de pétrole brut ou de gaz naturel et devait payer à la contrepartie le prix variable sur le même volume nominal de pétrole brut ou de gaz naturel établi par les indices du marché.
+7. Les swaps ont été réglées en espèces et aucune livraison physique de pétrole brut ou de gaz naturel n’a été exigée par HOOL ou les contreparties.
+yy) Les transactions de couverture ont été réglées en espèces et aucune livraison physique de pétrole brut ou de gaz naturel n’a été exigée par HOOL ou les contreparties.
+8. Les montants dus en application des swaps ont été calculés quotidiennement en fonction des volumes nominaux et étaient exigibles mensuellement auprès des parties contractantes, en espèces, jusqu’à concurrence du paiement net dû à l’autre partie pour un mois donné.
+zz) Les montants dus en application des transactions de couverture ont été calculés quotidiennement en fonction des volumes nominaux et étaient exigibles mensuellement auprès des parties contractantes, en espèces, jusqu’à concurrence du paiement net dû à l’autre partie pour un mois donné.
+9. En tout, les prix indiciels du pétrole brut et du gaz naturel ont dépassé les prix fixes en 2004, donnant lieu au versement par HOOL de règlements totalisant 561 295 272 $ à différentes contreparties en application des swaps. Ces pertes liées à des transactions de couverture de produits de base, déduction faite des gains ou pertes sur change associés, ont été déclarées dans les états financiers et aux fins du calcul de l’impôt comme des pertes découlant d’activités autres que des activités extractives. La ventilation de ces pertes dans le grand livre général de HOOL se décrit comme suit :
+GL34003
+Couverture de produits de base – Pétrole léger
+173 993 489 $
+GL34005
+Couverture de change – Pétrole léger
+(386 634)
+GL34025
+Couverture de produits de base – Pétrole lourd
+385 538 547
+GL34032
+Couverture de change – Pétrole lourd
+(366 383)
+GL34053
+Couverture produits de base – Gaz naturel
+3 436 607
+GL34054
+Couverture de change – Gaz naturel
+(920 354)
+Pertes nettes totales liées à la couverture de produits de base de production
+561 295 272 $
+bbb) En tout, les prix indiciels du pétrole brut et du gaz naturel ont dépassé les prix fixes en 2004, donnant lieu au versement par HOOL de règlements totalisant 561 295 272 $ à différentes contreparties en application des transactions de couverture.
+ccc) Ces pertes liées à des transactions de couverture, déduction faite des gains ou pertes sur change associés, ont été déclarées dans les états financiers et aux fins du calcul de l’impôt comme des pertes découlant d’activités autres que des activités extractives.
+ddd) La ventilation de ces pertes dans le grand livre général de HOOL et leur attribution dans les comptes de revenus en amont se décrivent comme suit :
+Numéro de compte du GL
+Produit de base
+Montant
+34003
+Couverture de produits de base – Pétrole léger
+173 993 489 $
+34005
+Couverture de change – Pétrole léger
+(386 634)
+34025
+Couverture de produits de base – Pétrole lourd
+385 538 547
+34032
+Couverture de change – Pétrole lourd
+(366 383)
+34053
+Couverture de produits de base – Gaz naturel
+3 436 607
+34054
+Couverture de change – Gaz naturel
+(920 354)
+Pertes nettes totales liées à la couverture de produits de base de production
+561 295 272 $
+GL34003
+Couverture de produits de base – Pétrole léger
+173 993 489 $
+GL34005
+Couverture de change – Pétrole léger
+(386 634)
+GL34025
+Couverture de produits de base – Pétrole lourd
+385 538 547
+GL34032
+Couverture de change – Pétrole lourd
+(366 383)
+GL34053
+Couverture produits de base – Gaz naturel
+3 436 607
+GL34054
+Couverture de change – Gaz naturel
+(920 354)
+Pertes nettes totales liées à la couverture de produits de base de production
+561 295 272 $
+Numéro de compte du GL
+Produit de base
+Montant
+34003
+Couverture de produits de base – Pétrole léger
+173 993 489 $
+34005
+Couverture de change – Pétrole léger
+(386 634)
+34025
+Couverture de produits de base – Pétrole lourd
+385 538 547
+34032
+Couverture de change – Pétrole lourd
+(366 383)
+34053
+Couverture de produits de base – Gaz naturel
+3 436 607
+34054
+Couverture de change – Gaz naturel
+(920 354)
+Pertes nettes totales liées à la couverture de produits de base de production
+561 295 272 $
+RÉFÉRENCE :
+2019 CCI 136
+NO DU DOSSIER DE LA COUR :
+2017-3308(IT)G
+INTITULÉ :
+HUSKY OIL OPERATIONS LIMITED ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Les 11 et 12 juin 2018
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Don R. Sommerfeldt
+DATE DE L’ORDONNANCE :
+Le 18 juin 2019
+COMPARUTIONS :
+Avocats de l’appelant :
+Me David Jacyk, Me Edward Rowe
+Avocate de l’intimée :
+Me Carla Lamash
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me David Jacyk, Me Edward Rowe
+Cabinet :
+Osler, Hoskin & Harcourt S.E.N.C.R.L., s.r.l.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Il y a eu probablement 52 ou 54 transactions.
+[2] Lors de l’audition de la présente requête, l’avocate de la Couronne a indiqué que l’agent des appels de l’Agence, lors de la préparation du rapport sur une opposition T401 (le « rapport sur une opposition »), a abondamment cité les faits exposés dans l’avis d’opposition, reproduit plus haut. Voir aussi l’alinéa 18b) de la réponse modifiée et les paragraphes 20 et 21 des observations écrites de l’intimée.
+[3] Garry D. Watson, Holmested et Watson: Ontario Civil Procedure, vol. 3, pages 25-20 et 25-21; ainsi que cité dans l’arrêt Zelinski c. La Reine, [2002] 1 CTC 2422, 2002 DTC 1204, au paragraphe 5; conf. par 2002 CAF 330. Voir aussi Globtek Inc. c. La Reine, 2005 CCI 727, aux paragraphes 4 et 5; Foss c. La Reine, 2007 CCI 201, au paragraphe 6; et Mastronardi v The Queen, 2010 TCC 57, au paragraphe 11.
+[4] Foss, précité, note 3, aux paragraphes 8 et 9.
+[5] Sentinel Hill Productions (1999) Corporation c. La Reine, 2007 CCI 742, au paragraphe 4.
+[6] Gramiak c. La Reine, 2013 CCI 383, au paragraphe 30; et Heron v The Queen, 2017 TCC 71, au paragraphe 10; précité, 2017 CAF 229.
+[7] R. c. Imperial Tobacco Canada Ltée, 2011 CSC 42, aux paragraphes 17 et 25 (aussi intitulé Knight c. Imperial Tobacco Canada Ltée.). Voir aussi Gramiak, précité, note 6, au paragraphe 31; et Heron (TCC), précité, note 6, au paragraphe 10.
+[8] Canadian Imperial Bank of Commerce v The Queen, 2011 TCC 568, au paragraphe 19; confirmé en partie et infirmé en partie, 2013 CAF 122. Voir aussi Gramiak, précité, note 6, au paragraphe 32.
+[9] Heron (CCI), précité, note 6, au paragraphe 11.
+[10] Sentinel Hill, précité, note 5, au paragraphe 11. Voir aussi CIBC, précité, note 8, aux paragraphes 15 et 19.
+[11] Strother v The Queen, 2011 TCC 251, au paragraphe 16.
+[12] Xu c. La Reine, 2006 CCI 695, aux paragraphes 4 à 7.
+[13] Ibid., au paragraphe 5.
+[14] Warner v Sampson, [1959] 1 QB 297, aux paragraphes 319 et 324 (Eng. CA).
+[15] Duquette v The Queen, [1993] 1 CTC 2701, au paragraphe 2710, 93 DTC 841, au paragraphe 848 (DTC).
+[16] Loewen c. La Reine, 2003 CCI 101, au paragraphe 67; infirmé pour d'autres motifs, 2004 CAF 146.
+[17] LBL Holdings Limited c. La Reine, 2015 CCI 115, aux alinéas 18c) et 21b). Voir aussi LBL Holdings Limited c. Canada, 2016 CAF 17, dans lequel la Cour d’appel fédérale a rejeté l’appel de l’appelant inscrit aux fins de la TPS du refus du juge Graham de radier d’autres parties de la réponse de la Couronne.
+[18] Canada c. Anchor Pointe Energy Ltée, 2003 CAF 294, aux paragraphes 25 et 26. Voir aussi CIBC (CAF), précité, note 8, au paragraphe 92, où la Cour d’appel fédérale a observé : « Il est bien établi que les conclusions de droit n’ont pas leur place dans l’énoncé des hypothèses de fait... et que lorsque la cotisation faisant l’objet de l’appel est fondée sur une conclusion mélangée de fait et de droit, le ministre doit extraire les éléments de fait présumés et les énoncer en tant qu’hypothèses de fait [...] »
+[19] Canada c. Aventis Pharma Inc., 2008 CAF 316, aux paragraphes 3, 7, 9 et 10.
+[20] 9000-6560 Québec Inc. c. La Reine, [2001] GSTC 31, note 18 en fin de texte.
+[21] Loewen, supra note 16, au paragraphe 69; infirmé pour d'autres motifs, 2004 CAF 146. L'observation signalée du juge en chef adjoint Bowman citée plus haut a été faite dans le cadre de la requête d’un contribuable en vue d’obtenir la radiation d’une défense d’absence de lien de dépendance soulevée par la Couronne dans sa réponse. Le juge en chef adjoint Bowman a rejeté cette partie de la requête du contribuable et la Cour d’appel fédérale a rejeté l’appel incident du contribuable relativement à cette question. Voir aussi Massicotte c. La Reine, 2004 CCI 558, au paragraphe 14, qui cite le paragraphe 69 des motifs du juge en chef adjoint Bowman dans la décision Loewen.
+[22] Jolly Farmer Products Inc. c La Reine, 2008 CCI 124, au paragraphe 9; et Payette v The Queen, [2002] 4 CTC 2255, au paragraphe 9.
+[23] Morrison et al. v The Queen, 2018 TCC 220, au paragraphe 90; et Canada c. Anchor Pointe Energy ltd., 2007 CAF 188, au paragraphe 29.
+[24] Jolly Farmer Products, précité, note 22, au paragraphe 9.
+[25] Shaughnessy v The Queen, [2002] 2 CTC 2035, 2002 DTC 1272, au paragraphe 13 (CCI).
+[26] Anchor Pointe Energy Ltd. c. Sa Majesté la Reine, 2006 CCI 424, au paragraphe 21; infirmé pour des motifs autres, 2007 CAF 188.
+[27] Mungovan v The Queen, [2001] 3 CTC 2779, 2001 DTC 691, au paragraphe 15 (CCI). Voir aussi la décision Holm v The Queen, [2003] 2 CTC 2041, à la page 2054, 2003 DTC 755 à la page 761 (CCI), dans laquelle l’ancien juge en chef adjoint Bowman (tel était alors son titre) a observé : « Je trouve toutefois déplorable la pratique consistant à faire une sélection entre les hypothèses que l’on invoquera et les hypothèses que l’on s’abstiendra d’invoquer parce qu’elles en contredisent d’autres, qu’elles sont gênantes ou qu’elles étayent la cause de la partie appelante. Si les hypothèses ont un rôle à jouer dans les appels en matière d’impôt sur le revenu, il est essentiel qu’elles soient invoquées intégralement et honnêtement, et ce, qu’elles appuient la thèse de la Couronne ou celle de la partie appelante. »
+[28] The Queen v Bowens, [1996] 2 CTC 120 à la page 122, 96 DTC 6128 à la page 6129 (CAF). Voir aussi Grant c. Canada, 2003 CAF 77, au paragraphe 18.
+[29] Strother, précité, note 11, au paragraphe 39, citant Mudrick v Mississauga Oakville Veterinary Emergency Professional Corporation, [2008] O.J. no 4512 (QL).
+[30] Strother, précité, note 11, au paragraphe 40.
+[31] Ibid, aux paragraphes 41 à 43, citant Duffett v Canada (AG), 2004 NLSCTD 58, auj paragraphe 23, 235 Nfld & P.E.I.R. 321; et Robinson v Medtronic Inc., 2010 ONSC 1739, au paragraphe 19.
+[32] Holmested et Watson, précité, note 3, volume 3, p. 25 à 21.
+[33] CIBC (CAF), précité, note 8, aux paragraphes 82 et 83.
+[34] Loewen (CAF), précité, note 16, au paragraphe 11. Voir aussi Shindle c. La Reine, 2009 CCI 133, au paragraphe 20.
+[35] 1072174 Ontario Ltd c. La Reine, 2008 CCI 129, aux paragraphes 16 et 19; confirmé par 2008 CAF 407.
+[36] Dans la réponse modifiée, les alinéas ou les sous-alinéas sont désignés par des lettres minuscules, avec une parenthèse fermante après une lettre, mais pas de parenthèse ouvrante avant la lettre. Toutefois, dans les références croisées de la réponse modifiée, les parenthèses fermantes sont utilisées. Par exemple, se reporter aux nombreuses références croisées à la section 26 de la réponse modifiée. Dans les observations écrites de HOOL et les observations écrites de la Couronne, les parenthèses fermantes sont utilisées dans les alinéas et les sous-alinéas désignés. Par conséquent, j’utiliserai les parenthèses fermantes dans ces motifs pour désigner les alinéas ou les sous-alinéas de la réponse modifiée, même dans les cas où je cite directement la réponse modifiée.
+[37] Xu, précité, note 12, aux paragraphes 4 et 5; et Strother, précité, note 11, au paragraphe 16.
+[38] Voir aussi le paragraphe 6 de la réponse modifiée, qui indique que « la participation de 1 % restante dans HOLP est détenue par HOIRC ».
+[39] Voir le paragraphe 51(2) des Règles.
+[40] Dans la réponse modifiée, le pronom masculin est utilisé pour désigner le PGC. Pour demeurer cohérent avec la terminologie, j’utiliserai également le pronom masculin dans les présents motifs pour désigner le PGC, même si, au moment du dépôt de la réponse modifiée, le PGC était l’honorable Jody Wilson-Raybould. Il est pris acte, au moment de publier les présents motifs, de ce que le PGC était l’honorable David T. Lametti.
+[41] Voir les notes en bas de page 2, ci-dessus, et 64, ci-dessous, ainsi que le paragraphe 120, ci-dessous.
+[42] La réponse modifiée contient cinq paragraphes qui ne figuraient pas dans la réponse et ont été insérés immédiatement après le paragraphe 26. Les cinq nouveaux alinéas ont été désignés comme suit : 26a), 26b), 26c), 26d) et 26e). Cela porte à confusion, puisque le paragraphe 26 de la réponse modifiée contient sept alinéas, dont les cinq premiers sont 26.a), 26.b), 26.c), 26.d) et 26.e). Je suggère que, si la réponse modifiée est modifiée de nouveau, les cinq paragraphes qui suivent le paragraphe 26 soient remplacés par 26.1, 26.2, 26.3, 26.4 et 26.5, ou peut-être 26A, 26B, 26C, 26D et 26E (sous réserve de ma décision et de l’ordonnance jointe que l’alinéa 26d) existant soit radié et de la suggestion que l’alinéa 26e) soit supprimé).
+[43] Pour se conformer au paragraphe 55(2) des Règles, certaines des dispositions de la réponse présentent des parties soulignées, ainsi que du texte barré par une ligne. En reproduisant certaines de ces dispositions dans les présents motifs, j’ai omis le soulignement et le texte barré.
+[44] Je crois que la référence au sous-alinéa 25aa) doit être une référence au sous-alinéa 25aaa).
+[45] Au paragraphe 14 de l’avis d’appel, on utilise le terme « swaps ».
+[46] Observations écrites de HOOL, p. 30, aux paragraphes 87 et 88.
+[47] Observations écrites de HOOL, p. 31, aux paragraphes 89 à 90.
+[48] Loewen (CCI), précité, note 16, au paragraphe 69; et Aventis Pharma, précité, note 19, au paragraphe 10. Voir les paragraphes 27 à 29, ci-dessus.
+[49] CIBC (CAF), précité note 8, au paragraphe 92; et Anchor Pointe, précité, note 18, au paragraphe 25.
+[50] Voir le paragraphe 22 ci-dessus.
+[51] Les deux premiers mots (le PGC) de l’alinéa 14d) de la réponse modifiée ne sont pas nécessaires, puisque les mêmes mots apparaissent immédiatement avant les deux-points à la fin de la première ligne du paragraphe 14. Toutefois, ce n’est pas un motif suffisant pour radier cet alinéa.
+[52] Le paragraphe 15 de la réponse modifiée indique trois montants rapprochés, mais non identiques. L’alinéa 15a) indique que les pertes totales déclarées par HOOL en 2004 s’élevaient à 561 295 272 $. La disposition 15c)(ii) indique que la perte nette pour 2004 était de 561 293 551 $. La disposition 15c)(iv) indique que la perte nette liées aux produits de base était de 561 293 272 $. Aux fins des présents motifs, j’ai présumé que ces trois dispositions de la réponse modifiée renvoient à trois différentes catégories de perte, ce qui signifie qu’il n’est pas prévu que ces montants soient identiques.
+[53] Strother, précité, note 11, paragraphe 16.
+[54] Le paragraphe 25 de l’avis d’appel semble dire que l’extrait de la lettre datée du 25 avril 2017 envoyée par la section d’appel a été exposé dans trois paragraphes. En réalité, les trois phrases précitées font toutes partie du paragraphe 1) de la page 1 de la lettre. Voir la pièce B de l’affidavit de Maureen Laidlaw, déposé le 7 février 2018.
+[55] La bonne date est le 25 avril 2017.
+[56] Aventis Pharma, précité, note 19, aux paragraphes 3, 7, 9 et 10. Voir le paragraphe 27 ci-dessus.
+[57] Loewen (CCI), précité note 16, au paragraphe 69. Voir le paragraphe 29 ci-dessus.
+[58] Voir les paragraphes 79 et 81 ci-dessus.
+[59] Voir le paragraphe 72 ci-dessus.
+[60] Voir les paragraphes 98 et 99 ci-dessus.
+[61] Le rapport sur une opposition contient deux paragraphes, chacun identifié par le chiffre 6. Aux fins des présents motifs, j’utiliserai les mêmes numéros de paragraphe établis dans le rapport sur une opposition, y compris le chiffre « 6 » pour désigner les paragraphes 6 et 7 de ce document.
+[62] Le dernier des paragraphes reproduits dans la colonne de gauche de l’Annexe A est désigné comme le paragraphe 9, mais il y a en fait dix paragraphes puisque, comme je l’ai indiqué précédemment, deux paragraphes du rapport sur l’opposition portaient le numéro 6.
+[63] Voir le paragraphe 30 ci-dessus.
+[64] Alinéa 18b) de la réponse modifiée et paragraphes 20 et 21 des observations écrites de l’intimée. Voir également la note de bas de page 2 ci-dessus.
+[65] La phrase en italique dans l’Annexe B, ci-dessus, n’était pas en italique dans le rapport sur une opposition.
+[66] Dans le rapport sur une opposition, on remarque un numéro de note de bas de page après le mot « transactions » sur la deuxième ligne du premier paragraphe 6 ci-dessus. Ce numéro de note de bas de page a été omis dans la citation du paragraphe.
+[67] Comme je l’ai indiqué précédemment, le rapport sur une opposition comporte deux paragraphes identifiés par le chiffre 6.

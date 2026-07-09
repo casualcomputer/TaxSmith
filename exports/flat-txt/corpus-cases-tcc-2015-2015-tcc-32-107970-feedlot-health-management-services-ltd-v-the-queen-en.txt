@@ -1,0 +1,262 @@
+Title: Feedlot Health Management Services Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/107970/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-32-107970-feedlot-health-management-services-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-02-06
+
+# Feedlot Health Management Services Ltd. v. The Queen
+
+- Citation: 2015 TCC 32
+- Decision date: 2015-02-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2745, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Feedlot Health Management Services Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-02-06
+Neutral citation
+2015 TCC 32
+File numbers
+2012-1292(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1292(IT)G
+BETWEEN:
+FEEDLOT HEALTH MANAGEMENT SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 18 and November 10, 2014
+at Calgary, Alberta
+Before: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Robert D. McCue
+Erica Hennessey (Student‑at‑Law)
+Counsel for the Respondent:
+Connie L. Mah
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2010 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that disputed amounts paid to GK Jim Farms in the aggregate amount of $1,649,537 are expenditures described in clause 37(8)(a)(ii)(B) of the Act. The appellant is entitled to costs in accordance with the Tariff.
+Signed at Toronto, Ontario this 6th day of February 2015.
+“J.M. Woods”
+Woods J.
+Citation: 2015 TCC 32
+Date: 20150206
+Docket: 2012-1292(IT)G
+BETWEEN:
+FEEDLOT HEALTH MANAGEMENT SERVICES LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+I. Introduction
+[1] In the 2010 taxation year, Feedlot Health Management Services Ltd. (“FHMS”) undertook four research projects to test innovative diets, supplements and vaccines on cattle. The issue is whether certain expenditures in relation to these projects qualify for deduction pursuant to clause 37(8)(a)(ii)(B) of the Income Tax Act.
+[2] Clause 37(8)(a)(ii)(B) is part of the so-called proxy method of reporting research and development expenses which enables taxpayers to elect a simplified method of computation. If the disputed expenditures qualify for deduction under this provision, the expenditures also qualify for the investment tax credit (ITC) pursuant to section 127 of the Act.
+[3] The expenditures at issue total $1,649,537.
+II. Background facts
+[4] Many of the factual findings below are based on a comprehensive Partial Agreed Statement of Facts.
+[5] FHMS is an Alberta corporation which is in the business of providing veterinary-related consulting services. The shares of FHMS are indirectly owned by four individuals who are veterinarians. The largest shareholder, with 42.5 percent of the shares, is a corporation that is wholly-owned by Dr. Gung Kee Jim.
+[6] As part of its business, FHMS undertakes research projects, either for specific clients or on its own account. FHMS undertook approximately 40 research projects in the taxation year at issue.
+[7] This appeal relates to four research projects (the “Projects”) involving the study of special diets, supplements and vaccines on cattle which were undertaken for sponsors. The Projects were designed to test the relationship between new diets and additives to the health and performance of cattle.
+[8] Approximately 7,000 cattle owned by third parties were studied for purposes of the Projects. The cattle were maintained in commercial feedlots and were raised for commercial production on behalf of their owners. The commercial production used standard methods, subject to the protocols of the Projects.
+[9] The cattle were given particular diets, supplements or vaccines by the feedlots for several months as required by the Projects until the cattle were sent to packing plants. Measurements of the cattle were taken by the feedlots throughout the process and the data was transmitted to FHMS for analysis.
+[10] FHMS entered into agreements with the feedlots, called Cooperator Agreements, to conduct work in relation to the Projects, including data collection.
+[11] FHMS also entered into agreements with GK Jim Farms (“Jim Farms”) for the supply of a large percentage of the cattle to be used in the Projects.
+[12] Jim Farms is a sole proprietorship owned by Dr. Jim which operates a large cattle investment business. The cattle acquired for the Projects were raised and processed in the same manner as Jim Farms’ other cattle, subject to modifications agreed with FHMS to conduct its research.
+[13] The disputed amounts totaling $1,649,537 represent the amounts invoiced and paid by FHMS to Jim Farms with respect to the supply of cattle for purposes of the Projects. The agreements governing this arrangement are described below.
+[14] In assessing FHMS in relation to the Projects, the Minister of National Revenue (the “Minister”):
+(i) accepted that the Projects involved scientific research and experimental development (SRED) as defined in the Act,
+(ii) accepted that work performed by the feedlots pursuant to the Cooperator Agreements was SRED, and
+(iii) disputed that any work performed by Jim Farms qualified as SRED and disputed that amounts paid to Jim Farms were deductible under the proxy method that FHMS had elected.
+III. Agreements between FHMS and Jim Farms
+[15] FHMS entered into a separate agreement with Jim Farms for each Project titled “Research Study Agreement” (RSA). The RSAs are similar, and the terms of a representative agreement are reproduced below.
+Whereas FHMS requires access to approximately 3,930 head of cattle having certain health and breed characteristics (“the study cattle”) for use in a research study to evaluate wheat and corn based dry distiller’s grains plus soluble (DDGS) in the finishing diet of the study cattle (“FHMS 0803”) and Jim Farms has agreed to acquire the study cattle for that use, the parties hereby agree to the following:
+1. Jim Farms will acquire, at its expense 3,930 cattle between September 24 and December 1, 2009 that have the following characteristics;
+a. Acquired from an auction market
+b. Exotic crossbred steers.
+2. Jim Farms will request that the cattle be processed to FHMS specification based on the requirements of research study FHMS 0803
+3. Jim Farms will pay all costs associated with acquiring the cattle, transportation to the feedlot(s) participating in research study FHMS 0803
+4. Jim Farms will pay all feeding costs for such period of time as to allow FHMS will evaluate the cattle to ensure they meet the requirement of research study FHMS 0803.
+5. Upon acceptance into the study, FHMS agrees to pay all feeding and health costs associated with the study cattle.
+6. Jim Farms agrees to allow FHMS access to all health and carcass data of the study animals.
+7. Jim Farms agrees that all health, feeding and marketing decisions for the study animals will be made by FHMS.
+[16] The RSAs provide that FHMS will pay all feeding and health costs relating to the cattle being tested. As described below, this is not what actually happened.
+[17] In the Crown’s pleaded assumptions, it was assumed that FHMS paid all the feed costs for three of the Projects and only one-half the feed costs for the other Project (Reply, para. 20(r)).
+[18] Dr. Jim addressed this assumption in his testimony. He stated that there was only one Project in which all of the feed costs were paid by FHMS. He described that FHMS and Jim Farms had negotiated fees equal to a fixed price per head of cattle, which were sufficient to compensate Jim Farms for the risks that it took with respect to the RSAs. He testified that in three of the four Projects the amounts actually paid were significantly less than the entire feeding costs.
+[19] According to Dr. Jim’s testimony, the negotiated price was not reflected in the RSAs because tax advice was given that the consideration should be linked to feed consumed. The suggestion was that expenditures be claimed as materials consumed which are eligible for deduction under the proxy method. This is how the tax returns were prepared, but FHMS did not attempt to justify the tax return filing in this appeal.
+[20] I find Dr. Jim’s testimony on this point to be troublesome. On its face, it suggests that he and FHMS may have intentionally not reflected the true arrangement in the RSAs. Dr. Jim suggested that this error was inadvertent but this testimony is self-interested.
+[21] In light of this, I have viewed the testimony of Dr. Jim with particular caution.
+[22] I would comment, however, that many parts of Dr. Jim’s testimony, including the testimony about negotiated fees, were not controversial and were not challenged by the Crown. I accept that the actual payments made by FHMS were significantly less than the consideration stated in the RSAs in three of the Projects as Dr. Jim had testified.
+IV. Applicable legislation
+[23] The scheme of the Act in relation to scientific research expenditures is tortuously complex. The legislation is divided into three parts:
+(i) section 248(1) provides a definition of activities that qualify as SRED,
+(ii) section 37 describes SRED-related expenditures that are deductible when incurred and can be carried forward to a subsequent year, and
+(iii) section 127 describes SRED-related expenditures that qualify for ITCs.
+[24] Each of these parts has its own criteria to be satisfied. To further complicate matters, a taxpayer has a choice to determine qualifying expenditures under either of the so-called traditional or proxy methods.
+[25] The proxy method is a simplified way to determine SRED deductions and related ITCs. It was added to the Act in 1994. Unlike the traditional method, the proxy method only permits taxpayers to claim listed types of SRED‑related expenditures. The legislative intent is to exclude certain expenditures such as overhead and in their place to allow a percentage of SRED-related salaries and wages for ITC purposes.
+[26] For the 2010 taxation year, there were four general types of SRED-related expenditures that were allowed under the proxy method - expenditures for facilities or equipment, or leases of same; salaries and wages; expenditures relating to work done on behalf of the taxpayer; and the cost of materials consumed.
+[27] The relevant parts of the legislation in force for the relevant year are set out below. Since the ITC provisions are not at issue, they have not been reproduced.
+248(1)
+[…]
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+(a) basic research, namely, work undertaken for the advancement of scientific knowledge without a specific practical application in view,
+(b) applied research, namely, work undertaken for the advancement of scientific knowledge with a specific practical application in view, or
+(c) experimental development, namely, work undertaken for the purpose of achieving technological advancement for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements thereto,
+and, in applying this definition in respect of a taxpayer, includes
+(d) work undertaken by or on behalf of the taxpayer with respect to engineering, design, operations research, mathematical analysis, computer programming, data collection, testing or psychological research, where the work is commensurate with the needs, and directly in support, of work described in paragraph (a), (b), or (c) that is undertaken in Canada by or on behalf of the taxpayer,
+but does not include work with respect to
+(e) market research or sales promotion,
+(f) quality control or routine testing of materials, devices, products or processes,
+(g) research in the social sciences or the humanities,
+(h) prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas,
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+(j) style changes, or
+(k) routine data collection;
+37(1) Scientific research and experimental development – Where a taxpayer carried on a business in Canada in a taxation year, there may be deducted in computing the taxpayer’s income from the business for the year such amount as the taxpayer claims not exceeding the amount, if any, by which the total of
+(a) the total of all amounts each of which is an expenditure of a current nature made by the taxpayer in the year or in a preceding taxation year ending after 1973
+(i) on scientific research and experimental development carried on in Canada, directly undertaken by or on behalf of the taxpayer, and related to a business of the taxpayer,
+[…]
+37(8) Interpretation – In this section
+(a) references to expenditures on or in respect of scientific research and experimental development
+[…]
+(ii) where the references occur other than in subsection (2), include only
+(A) expenditures incurred by a taxpayer in a taxation year (other than a taxation year for which the taxpayer has elected under clause (B)), each of which is
+(I) an expenditure of a current nature all or substantially all of which was attributable to the prosecution, or to the provision of premises, facilities or equipment for the prosecution, of scientific research and experimental development in Canada,
+(II) an expenditure of a current nature directly attributable, as determined by regulation, to the prosecution, or to the provision of premises, facilities or equipment for the prosecution, of scientific research and experimental development in Canada, or
+(III) an expenditure of a capital nature that at the time it was incurred was for the provision of premises, facilities or equipment, where at that time it was intended
+1. that it would be used during all or substantially all of its operating time in its expected useful life for, or
+2. that all or substantially all of its value would be consumed in,
+the prosecution of scientific research and experimental development in Canada, and
+(B) where a taxpayer has elected in prescribed form and in accordance with subsection (10) for a taxation year, expenditures incurred by the taxpayer in the year each of which is
+(I) an expenditure of a current nature for, and all or substantially all of which was attributable to, the lease of premises, facilities or equipment for the prosecution of scientific research and experimental development in Canada, other than an expenditure in respect of general purpose office equipment or furniture,
+(II) an expenditure in respect of the prosecution of scientific research and experimental development in Canada directly undertaken on behalf of the taxpayer,
+(III) an expenditure described in subclause (A)(III), other than an expenditure in respect of general purpose office equipment or furniture,
+(IV) that portion of an expenditure made in respect of an expense incurred in the year for salary or wages of an employee who is directly engaged in scientific research and experimental development in Canada that can reasonably be considered to relate to such work having regard to the time spent by the employee thereon, and, for this purpose, where that portion is all or substantially all of the expenditure, that portion shall be deemed to be the amount of the expenditure,
+(V) the cost of materials consumed or transformed in the prosecution of scientific research and experimental development in Canada, or
+(VI) ½ of any other expenditure of a current nature in respect of the lease of premises, facilities or equipment used primarily for the prosecution of scientific research and experimental development in Canada, other than an expenditure in respect of general purpose office equipment or furniture;
+[…]
+V. Analysis
+A. Introduction
+[28] The issue is whether the disputed expenditures qualify for deduction under the proxy method in s. 37(8)(a)(ii)(B) of the Act. FHMS is required to use this method as a result of an irrevocable election made with respect to the 2010 taxation year.
+[29] As mentioned earlier, only listed types of expenditures qualify under the proxy method. They are set out in clauses (I) through (VI) of s. 37(8)(a)(ii)(B).
+[30] In its notice of appeal, FHMS submitted that the disputed expenditures qualify under the proxy method either because they are for a lease of equipment (i.e., cattle) (clauses (I) or (VI)) or because the expenditures are in respect of SRED undertaken on its behalf (clause II). FHMS chose not to pursue clause (II) during argument, but the Crown did address it in its submissions.
+[31] Despite the abandonment of the clause (II) argument by FHMS, after the hearing I concluded that this provision should be considered and invited the parties to make further submissions. The relevant principles for a Court to raise an issue of its own motion were recently described in R. v Mian, 2014 SCC 54. I am satisfied that it is important to consider clause (II) in the context of this appeal and that neither party is prejudiced by my raising it.
+[32] Both parties responded to my request with detailed and helpful submissions. Not surprisingly, FHMS took the position that clause (II) applied and the Crown took the opposite view.
+[33] Clause (II) will be discussed later in these reasons. I begin with the lease issue.
+B. Are disputed expenditures for lease of equipment?
+[34] FHMS submits that the disputed expenditures are for leases of equipment, namely leases of cattle, within clauses (I) and (VI) of s. 37(8)(a)(ii)(B).
+[35] It is only necessary to focus on clause (I) which is reproduced below.
+(I) an expenditure of a current nature for, and all or substantially all of which was attributable to, the lease of premises, facilities or equipment for the prosecution of scientific research and experimental development in Canada, other than an expenditure in respect of general purpose office equipment or furniture,
+[Emphasis added]
+[36] Counsel for FHMS submits that the terms “lease” and “equipment” have broad meanings and that a purposive interpretation would include access to cattle that is provided under the RSAs.
+[37] The Crown, on the other hand, submits that the RSAs are not “leases” and that cattle are not “equipment” within the ordinary meaning of these terms.
+[38] I have concluded that clause (I), and its companion clause (VI), do not apply because the RSAs are not leases.
+[39] The term “lease,” when used as a noun, is defined in the Canadian Oxford Dictionary (2nd ed.):
+lease 1 an agreement by which the owner of a building, apartment, vehicle, piece of land, etc. allows another to use it for a specified time in return for payment. […]
+[40] In my view, the rights of FHMS under the RSAs fall short of being leases.
+[41] The RSAs impose an obligation on Jim Farms to acquire certain types of cattle, transport them to specific feedlots, allow FHMS to make health, feeding and marketing decisions, and give FHMS the right to access data. I understand that FHMS’ right to make marketing decisions generally means that the cattle will be processed at specific times to accommodate the Projects.
+[42] Coincident with the RSAs, the cattle were also acquired, raised and processed for Jim Farms’ benefit in a manner identical to its regular business, except to the extent necessary to accommodate the Projects.
+[43] A lease implies exclusive possession: Johnson v British Canadian Insurance Company, [1932] SCR 680, at 685.
+[44] I find that FHMS did not have exclusive possession of the cattle during the period of the RSAs, and that it only had limited rights with respect to the cattle.
+[45] I refer below to parts of Dr. Jim’s testimony regarding the management of the cattle. The testimony suggests that Jim Farms retained some rights with respect to the cattle throughout the period of the RSAs.
+(i) Dr. Jim stated that Jim Farms gave up “several important things with respect to the cattle. […] feeding protocols, the health protocols and the marketing protocols […]” (Transcript, p. 42).
+(ii) Dr. Jim described the invoices issued by the commercial feedlots to Jim Farms as being “for all of the collective feed and other things that were required to get the feedlot cattle through the feedlot phase of production.” (Transcript, p. 51).
+(iii) In cross-examination, Dr. Jim confirmed that the invoices refer to “expense items for feed, yardage, bedding, health and rendering […]” (Transcript, p. 66).
+[46] I conclude that the RSAs do not provide for exclusive possession of the cattle and are not leases.
+[47] Counsel for FHMS submits that a broad interpretation should be given to the term “lease” in order for section 37 to achieve its purpose. In my view, it would be stretching the meaning of “lease” beyond a reasonable interpretation if it encompassed the limited rights that FHMS acquired under the RSAs.
+[48] I would conclude, therefore, that the disputed expenditures are not within clauses (I) or (VI) of s. 37(8)(a)(ii)(B).
+C. Are disputed expenditures in respect of SRED undertaken on behalf of FHMS?
+(1) Introduction
+[49] In its supplemental submissions, FHMS submits that the disputed expenditures qualify for deduction under clause (II) of s. 37(8)(a)(ii)(B). The provision reads:
+(II) an expenditure in respect of the prosecution of scientific research and experimental development in Canada directly undertaken on behalf of the taxpayer,
+[50] The question is whether the disputed expenditures are in respect of the prosecution of SRED directly undertaken on behalf of FHMS.
+[51] The Crown submits that clause (II) does not apply because the work performed by Jim Farms under the RSAs is not SRED, as that term is defined in s. 248(1) of the Act.
+[52] FHMS submits that Jim Farms did perform SRED, and that in any event it is not necessary that Jim Farms perform SRED because expenditures qualify if they are “in respect of” SRED.
+[53] If the work performed by Jim Farms is SRED, it is clear that the disputed expenditures qualify for deduction under clause (II). It is less clear that they qualify if the work is not SRED.
+[54] For the reasons below, I have concluded that the work performed by Jim Farms is not SRED because of the commercial exclusion in paragraph (i) of the definition. However, in my view the disputed expenditures qualify for deduction under clause (II) as being “in respect of” SRED undertaken by a third party.
+[55] There are two questions: is the work SRED, and are the expenditures within clause (II). Logically, the analysis should begin with whether the work is SRED. However, since I have concluded that the work does not necessarily have to be SRED, I will begin with clause (II). The SRED analysis will follow.
+(2) Clause (II) of s. 37(8)(a)(ii)(B)
+[56] The disputed expenditures will qualify for deduction under clause (II) if they are in respect of the prosecution of SRED directly undertaken on behalf of FHMS. It is useful to reproduce clause (II) again.
+(II) an expenditure in respect of the prosecution of scientific research and experimental development in Canada directly undertaken on behalf of the taxpayer,
+[57] I have concluded that clause (II) applies because the disputed expenditures are in respect of SRED performed by the feedlots on behalf of the taxpayer.
+[58] The sole purpose of the disputed expenditures was to facilitate the Projects by arranging for cattle to be delivered to specific feedlots so that the feedlots could administer the tests and collect relevant data to be analysed by FHMS. In essence, the disputed expenditures were incurred to provide subjects for scientific research. As such, the disputed expenditures are in respect of SRED undertaken by FHMS, and they are also in respect of SRED undertaken by the feedlots on behalf of FHMS, namely data collection. Expenditures in respect of SRED undertaken by the feedlots qualify under clause (II).
+[59] I now turn to some of the submissions of the parties.
+[60] The Crown suggests that clause (II) does not apply because the work performed by Jim Farms is not SRED.
+[61] The difficulty with this submission is that it does not give sufficient weight to the phrase “in respect of.” Clause (II) does not simply apply to expenditures “for” SRED but also expenditures “in respect of” SRED. This phrase, in my view, extends the qualifying expenditures under clause (II) to include expenditures that relate to SRED.
+[62] It is well understood that the phrase “in respect of” generally has a very wide scope in the Act. For example, in The Queen v Savage, [1983] 2 SCR 428, at para. 23, the Supreme Court of Canada referenced the following passage from Nowegijick v The Queen, 83 DTC 5041:
+The words “in respect of” are, in my opinion, words of the widest possible scope. They import such meanings as “in relation to”, “with reference to” or “in connection with”. The phrase “in respect of” is probably the widest of any expression intended to convey some connection between two related subject matters.
+[63] Accordingly, qualifying expenditures for purposes of clause (II) do not have to be incurred for SRED per se.
+[64] The Crown also submits that some of the disputed expenditures do not relate to SRED because the quantum of the expenditures was excessive in relation to the work undertaken by Jim Farms for the Projects. This submission challenges the reasonableness of the disputed expenditures.
+[65] Although the evidence appears to provide some support for this position, I have concluded that it is not appropriate to consider it because it was not raised as an issue in the Reply.
+[66] By way of background, it is clear from the pleadings that the Crown chose not to challenge the reasonableness of the disputed expenditures. FHMS raised it head-on as an issue in the Notice of Appeal and the Crown chose not refer to it in the Reply. FHMS was correct to conclude that reasonableness was not an issue. Accordingly, I have assumed for purposes of this decision that the quantum of the disputed expenditures was reasonable in relation to the work performed for FHMS.
+[67] I would also comment concerning a submission made by FHMS. As I understand it, FHMS suggests that clause (II) applies because the disputed expenditures are for work performed by Jim Farms on behalf of the taxpayer and the disputed expenditures relate to SRED performed by FHMS.
+[68] Accordingly, FHMS suggests that clause (II) will apply even if there is no contract for third party SRED. This submission gives an overly broad interpretation of this provision. In my view, Parliament likely intended that clause (II) apply only to expenditures in respect of SRED where the SRED is undertaken by a third party. This interpretation is in accordance with the text of the legislation, and it also makes sense within the scheme of the proxy method which is intended to limit the types of expenditures that qualify.
+[69] However, for the reasons above I conclude that the disputed expenditures qualify for deduction pursuant to clause (II) of s. 37(8)(a)(ii)(B).
+(3) Is the work performed by Jim Farms SRED?
+[70] In light of the conclusion above, it is not necessary to consider whether the work undertaken by Jim Farms pursuant to the RSAs is actually SRED. However, I received extensive submissions on this issue and will comment briefly.
+[71] The Crown submits that the work undertaken by Jim Farms is not SRED as it is not described in paragraphs (a), (b), (c), or (d) of the SRED definition. The Crown also submits that the work is excluded under paragraph (i).
+[72] I will focus on the paragraph (i) exclusion because it seems clear to me that the work undertaken by Jim Farms is otherwise SRED since it is with respect to testing and data collection which qualifies under paragraph (d). The position of the Crown that the work performed by Jim Farms does not fit within paragraph (d) appears to ignore the phrase “with respect to.”
+[73] Paragraph (i) of the SRED definition reads:
+“scientific research and experimental development” means systematic investigation or search that is carried out in a field of science or technology by means of experiment or analysis and that is
+[…]
+but does not include work with respect to
+[…]
+(i) the commercial production of a new or improved material, device or product or the commercial use of a new or improved process,
+[74] The Crown’s position with respect to this provision is summarized in the Reply as follows:
+The Payments for feed for – and raising of – the feedlot cattle in the 4 Projects were attributable to the commercial production of improved Farms’ feedlot cattle or the commercial use of an improved process for raising Farms’ feedlot cattle at the commercial feedlots.
+[75] I would make a few preliminary comments about the Crown’s position.
+[76] First, the above statement focuses on “Payments.” However, the commercial use exclusion relates to the work performed and not the consideration paid. The payments under the RSAs are not relevant to this inquiry.
+[77] Second, the Reply refers to commercial production and use that is “improved.” The term “improved” implies that the research has already been proven, which is not the case here. However, nothing turns on this because the legislation also refers to “new” products and processes. In this case, there was use of “new” feeding and health protocols.
+[78] I turn then to the main question, which is whether the work performed by Jim Farms under the RSAs is in respect of the commercial use of new processes.
+[79] What is the work undertaken by Jim Farms under the RSAs? The work includes the acquisition of cattle and permitting FHMS to determine feed and supplement protocols. These activities are for the benefit of FHMS, but they are also exploited by Jim Farms in its ordinary business of raising cattle. Other activities, such as allowing FHMS access to data, do not relate to Jim Farms’ regular business.
+[80] In my view, a sufficient number of activities under the RSAs are connected with Jim Farms’ regular business that the work under the RSAs is generally “with respect to” Jim Farms’ commercial use of new processes. I note that the exclusion applies not only to commercial use by a taxpayer, but also to commercial use by a third party, provided that the work performed is in respect of commercial use. This appears to be Parliament’s intent.
+[81] Counsel for FHMS submits that this interpretation unduly restricts expenditures that should be allowed under the SRED regime. I would comment that each case depends on its own particular facts. In this case, the work performed by Jim Farms under the RSAs is subject to the commercial exclusion because of its integration with Jim Farms’ own commercial activity.
+VI. Disposition
+[82] In the result, the appeal will be allowed with costs to the appellant.
+Signed at Toronto, Ontario this 6th day of February 2015.
+“J.M. Woods”
+Woods J.
+CITATION:
+2015 TCC 32
+COURT FILE NO.:
+2012-1292(IT)G
+STYLE OF CAUSE:
+FEEDLOT HEALTH MANAGEMENT SERVICES LTD. and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+September 18 and November 10, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+February 6, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Robert D. McCue
+Erica Hennessey (Student-at-Law)
+Counsel for the Respondent:
+Connie L. Mah
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert D. McCue
+Firm:
+Bennett Jones LLP
+Calgary, Alberta
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

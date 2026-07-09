@@ -1,0 +1,520 @@
+Title: Poulin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/145451/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-154-145451-poulin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-06-14
+
+# Poulin c. La Reine
+
+- Citation: 2016 CCI 154
+- Decision date: 2016-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2968, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poulin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-06-14
+Référence neutre
+2016 CCI 154
+Numéro de dossier
+2013-2554(IT)G, 2013-2555(IT)G
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2554(IT)G
+ENTRE :
+GHISLAIN POULIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de Herman Turgeon, 2013-2555(IT)G, les 28, 29 et 30 septembre 2015, à Montréal (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocates de l’appelant :
+Me Geneviève Léveillé
+Me Laurie Beausoleil
+Avocate de l’intimée :
+Me Natalie Goulard
+Marissa Figlarz, stagiaire en droit
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est accueilli, sans frais, et ladite cotisation est annulée, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de juin 2016.
+« Johanne D’Auray »
+Juge D’Auray
+Dossier : 2013-2555(IT)G
+ENTRE :
+HERMAN TURGEON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu sur preuve commune avec l’appel de Ghislain Poulin, 2013-2554(IT)G, les 28, 29 et 30 septembre 2015, à Montréal (Québec).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocates de l’appelant :
+Me Geneviève Léveillé
+Me Laurie Beausoleil
+Avocate de l’intimée :
+Me Natalie Goulard
+Marissa Figlarz, stagiaire en droit
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, sans frais, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de juin 2016.
+« Johanne D’Auray »
+Juge D’Auray
+Référence : 2016 CCI 154
+Date : 20160614
+Dossier : 2013-2554(IT)G
+ENTRE :
+GHISLAIN POULIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2013-2555(IT)G
+ENTRE :
+HERMAN TURGEON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge D’Auray
+CONTEXTE
+[1] Les présents appels visent de nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « LIR ») relativement à l’année d’imposition 2007, au cours de laquelle les appelants ont disposé des actions de gel qu’ils détenaient dans la société Les Constructions de l’Amiante inc. (l’« Amiante »).
+[2] Ces ventes s’inscrivent dans un contexte de réorganisation de la structure corporative de l’Amiante qui avait pour objectif de mettre en place les modalités du départ progressif de M. Ghislain Poulin (« M. Poulin ») et d’intégrer M. David Hélie (« M. Hélie ») dans la société.
+[3] Les ventes faisant l’objet des présents appels sont les suivantes :
+A. La vente par M. Poulin de 450 004 actions privilégiées de catégorie F de l’Amiante à la société 6847161 Canada inc. (« Gestion Turgeon ») pour la somme de 450 004 $;
+B. La vente par M. Herman Turgeon (« M. Turgeon ») de 388 861 actions privilégiées de catégorie D de l’Amiante à la société Gestion David Hélie inc. (« Gestion Hélie ») pour la somme de 388 861 $.
+[4] À la suite de ces dispositions, lors du calcul de leurs revenus pour l’année d’imposition 2007, les appelants ont déclaré un gain en capital imposable pour lequel ils ont chacun réclamé une déduction pour gains en capital à l’égard d’actions admissibles de petite entreprise conformément au paragraphe 110.6(2.1) de la LIR.
+[5] Le ministre du Revenu national (le « ministre ») a refusé la déduction pour gains en capital réclamée par M. Poulin. Selon le ministre, M. Poulin, M. Turgeon et Gestion Turgeon ont agi de concert, sans intérêts distincts. Ils sont donc réputés avoir eu un lien de dépendance selon l’alinéa 251(1)c) de la LIR. En conséquence, les dispositions de l’article 84.1 de la LIR s’appliquent et M. Poulin est réputé avoir reçu un dividende de 449 911 $ lors de la disposition des actions de catégorie F de l’Amiante en 2007.
+[6] Le ministre a également refusé la déduction pour gains en capital réclamée par M. Turgeon. Selon le ministre, M. Turgeon, M. Hélie et Gestion Hélie ont agi de concert, sans intérêt distinct. Ils sont donc réputés avoir agi entre eux sans lien de dépendance selon l’alinéa 251(1)c) de la LIR. Conséquemment, les dispositions de l’article 84.1 s’appliquent et M. Turgeon est réputé avoir reçu un dividende de 388 861 $ lors de la disposition des actions de catégorie D de l’Amiante en 2007.
+FAITS I. L’Entente partielle sur les faits [7] Le 25 septembre 2015, les parties ont déposé une entente partielle sur les faits que je reproduis ci-après :
+ENTENTE PARTIELLE SUR LES FAITS
+1. La société « Les Constructions de l’Amiante inc. » (« l’Amiante »), effectue principalement de la construction de routes, de systèmes d’aqueduc et autres travaux connexes.
+2. L’Amiante est issue de fusions en vertu de la Loi canadienne sur les sociétés par actions : la première, le 1er avril 1999, avec la société 3458130 Canada Inc.1; et, la deuxième, le 1er novembre 2007, avec la société Ghilin inc. (« Ghilin »)2.
+3. Les Statuts de l’Amiante ont aussi été modifiés le 20 mai 2005 et le 26 septembre 2007.3
+4. Ghilin a été constituée par Ghislain Poulin le 26 mai 2005 en vertu de la Loi canadienne sur les sociétés par actions.
+5. La société les Entreprises G.H.T. inc. (« G.H.T. ») a été constituée par Herman Turgeon le 25 avril 1997 en vertu de la partie IA de la Loi sur les compagnies du Québec.
+6. La société 6847200 Canada inc. (« Gestion Poulin ») a été constituée le 26 septembre 2007 par Ghislain Poulin en vertu de la Loi canadienne sur les sociétés par actions.
+7. La société 6847161 Canada inc. (« Gestion Turgeon ») a été constituée le 26 septembre 2007 par Herman Turgeon en vertu de la Loi canadienne sur les sociétés par actions.
+8. La société Gestion David Hélie inc. (« Gestion Hélie ») a été constituée le 7 novembre 2007 par David Hélie en vertu de la Loi canadienne sur les sociétés par actions.
+9. Au 19 septembre 2005, Ghislain Poulin et Herman Turgeon étaient actionnaires à parts égales de l’Amiante.
+10. À tous moments pertinents, et jusqu’en 2012, Ghislain Poulin et Herman Turgeon faisaient partie du conseil d’administration de l’Amiante.
+Réorganisation corporative – septembre 2005
+11. Au 31 mars 2005, les actionnaires et les caractéristiques des actions détenues dans l’Amiante étaient les suivants :
+Actionnaires
+Nombre
+d’actions
+Catégorie
+CV
+PBR
+JVM
+G. Poulin
+16 949
+A
+200 $
+200 $
+1 325 000 $
+10
+E
+10 $
+10 $
+10 $
+H. Turgeon
+16 949
+A
+200 $
+200 $
+1 325 000 $
+10
+E
+10 $
+10 $
+10 $
+12. En septembre 2005, l’Amiante a fait l’objet d’une réorganisation corporative ayant comme objectifs, entre autres, d’accueillir Bernard Bilodeau, un employé clé de l’Amiante, à titre d’actionnaire (la « Réorganisation de 2005 »).4
+13. Entre autres, dans le cadre de la Réorganisation de 2005, 11 512 actions de catégorie A (5 756 par actionnaire) de l’Amiante ont été converties en actions de catégorie B.
+14. Suite à la Réorganisation de 2005, les actionnaires et les caractéristiques des actions détenues dans l’Amiante étaient les suivants :
+Actionnaires
+Nombre d’actions
+Catégorie
+CV
+PBR
+Valeur de rachat
+Nombre de votes
+G. Poulin
+5 756
+B
+68 $
+68 $
+450 004 $
+5 756
+Ghilin
+10 000
+A
+100 $
+100 $
+100 $
+10 000
+11 193
+C
+132 $
+132 $
+874 996 $
+10
+E
+10 $
+10 $
+10 $
+H. Turgeon
+5 756
+B
+68 $
+68 $
+450 004 $
+5 756
+G.H.T.
+10 000
+A
+100 $
+100 $
+100 $
+10 000
+11 193
+C
+132 $
+132 $
+874 996 $
+10
+E
+10 $
+10 $
+10 $
+B. Bilodeau
+10 000
+A
+100 $
+100 $
+100 $
+10 000
+10
+E
+10 $
+10 $
+10 $
+15. Une convention entre les actionnaires de l’Amiante est intervenue en date du 4 octobre 2005.5 Cette convention remplaçait celle conclue le 12 mars 1991.
+16. Le 30 novembre 2005, l’Amiante et ses actionnaires ont signé entre eux une Convention de rachat d’actions qui prenait effet le 4 octobre 2005.6
+17. Entre le mois de septembre 2005 et le mois d’avril 2007, l’Amiante a procédé au rachat d’une partie de ses actions de catégorie C.7
+Réorganisation corporative – 2007
+18. Raymond Chabot Grant Thornton a établi les états financiers de l’Amiante au 31 mars 2007.8
+19. Du 1er avril au 7 novembre 2007, plusieurs transactions9 ont été effectuées dans la structure corporative de l’Amiante afin, entre autres, de racheter les actions de Bernard Bilodeau; introduire David Hélie, un employé clé de l’Amiante, à titre d’actionnaire; modifier la répartition de la participation des actionnaires dans le capital-actions de l’Amiante; prévoir la retraite éventuelle de Ghislain Poulin; et modifier le partage des rôles et des responsabilités au sein de l’entreprise.10
+20. Entre autres, les opérations suivantes ont eu lieu :
+a. Le 26 septembre 2007, l’Amiante a procédé à une modification de son capital-actions.11
+b. Dans le cadre de la modification de son capital-actions, l’Amiante a procédé à l’échange de certaines de ses actions, incluant l’échange de chaque action de catégorie B de l’ancien capital-actions de l’Amiante en actions de catégorie D du nouveau capital-actions, à raison d’environ 78,17 actions de catégorie D pour chaque action de catégorie B. Les 5 756 actions de catégorie B détenues par Ghislain Poulin et Herman Turgeon respectivement ont donc été échangées pour 450 004 actions de catégorie D. Contrairement aux actions de catégorie B, les actions de catégorie D ne comportaient pas de droit de vote.12
+c. Le 1er novembre 2007, l’Amiante a fusionné avec la société Ghilin.13 Chaque action de catégorie D détenue par Ghislain Poulin et Herman Turgeon dans le capital-actions de « l’ancienne » Amiante a été convertie en une action de catégorie D du capital-actions de l’Amiante issue de la fusion.14
+d. Le 1er novembre 2007, les 450 004 actions de catégorie D de l’Amiante détenues par Ghislain Poulin ont été échangées pour 450 004 actions de catégorie F de l’Amiante.15
+e. Le 1er novembre 2007, Ghislain Poulin a disposé des 450 004 actions de catégorie F de l’Amiante en faveur de Gestion Turgeon en contrepartie de 450 004 $.16
+f. Le 7 novembre 2007, Herman Turgeon a disposé des 388 861 actions de catégorie D de l’Amiante en faveur de Gestion Hélie en contrepartie de 388 861 $.17
+21. Deloitte a établi les états financiers de l’Amiante au 31 octobre 2007.18
+22. Le 8 janvier 2008, les nouveaux actionnaires de l’Amiante ont conclu un addenda à la convention d’actionnaires intervenue le 4 octobre 2005.19
+Ghislain Poulin dispose de 450 004 actions de catégorie F de l’Amiante
+23. La convention de vente d’actions20 intervenue le 1er novembre 2007 entre Ghislain Poulin, Gestion Turgeon et l’Amiante prévoyait que le prix de vente des 450 004 actions de catégorie F serait payable, entre autres, selon les modalités suivantes :
+a. la somme de 45 000 $ était payable à Ghislain Poulin le 21 décembre 2007;
+b. le solde de prix de vente, soit 405 004 $, portait intérêt au taux de 5 % l’an à compter du 1er novembre 2007;
+c. le solde de prix de vente était payable au moyen de 5 versements annuels et consécutifs de capital au montant correspondant au plus élevé de :
+i. 81 000,80 $ ou;
+ii. 90 % des sommes reçues par Gestion Turgeon de l’Amiante; et
+d. l’Amiante s’engageait à remettre annuellement à ses actionnaires, aux fins du paiement du solde du prix de vente, au moins 80 % de ses bénéfices nets annuels, sous forme de dividendes ou autrement, dans la mesure toutefois où toutes les prescriptions de la Loi canadienne sur les sociétés par actions sont rencontrées, incluant notamment celles relatives aux tests comptables et de solvabilité.
+24. Le 18 juillet 2008, l’Amiante a procédé au rachat de 243 408 de ses actions de catégorie F détenues par Gestion Turgeon pour un montant de 243 408 $, De ce montant, 143 083 $ ont été versés par Gestion Turgeon à Ghislain Poulin en remboursement du solde du prix de vente.
+25. Le 6 février 2009, l’Amiante a procédé au rachat de 151 666 de ses actions de catégorie F détenues par Gestion Turgeon pour un montant de 151 666 $. De ce montant, 131 139 $ ont été versés par Gestion Turgeon à Ghislain Poulin en remboursement du solde du prix de vente.
+26. Le 6 février 2010, l’Amiante a procédé au rachat de 54 930 de ses actions de catégorie F détenues par Gestion Turgeon pour un montant de 54 930 $.
+27. Le solde du prix de vente et les intérêts y afférents ont été complètement payés en 2010.
+Herman Turgeon dispose de 388 861 actions de catégorie D de l’Amiante
+28. La convention de vente d’actions21 intervenue le 7 novembre 2007 entre Herman Turgeon, Gestion Hélie et l’Amiante prévoyait que le prix de vente des 388 861 actions de catégorie D serait payable, entre autres, selon les modalités suivantes :
+a. le solde de prix de vente, soit 388 861 $, porte intérêt au taux de 4 % l’an à compter du 1er novembre 2007;
+b. le solde de prix de vente est payable suivant les liquidités générées par l’Amiante, qui s’est engagée, aux fins du paiement du solde du prix de vente, à remettre annuellement à ses actionnaires au moins 80 % de ses bénéfices nets annuels, sous forme de dividendes ou autrement, dans la mesure toutefois où toutes les prescriptions de la Loi canadienne sur les sociétés par actions sont rencontrées, incluant notamment celles relatives aux tests comptables et de solvabilité; et
+c. Gestion Hélie s’est engagée à utiliser 90 % des sommes reçues de l’Amiante pour payer la somme due à Herman Turgeon.
+29. Le 18 juillet 2008, l’Amiante a procédé au rachat de 44 444 de ses actions de catégorie D détenues par Gestion Hélie pour un montant de 44 444 $.22 De ce montant, 40 000 $ ont été versés par Gestion Hélie à Herman Turgeon en remboursement du solde du prix de vente.
+30. Le 6 février 2009, l’Amiante a procédé au rachat de 27 690 de ses actions de catégorie D détenues par Gestion Hélie pour un montant de 27 690 $. De ce montant, 24 922 $ ont été versés par Gestion Hélie à Herman Turgeon en remboursement du solde du prix de vente.
+31. Le 6 février 2010, l’Amiante a procédé au rachat de 42 000 de ses actions de catégorie D détenues par Gestion Hélie pour un montant de 42 000 $.
+32. Le 6 février 2011, l’Amiante a procédé au rachat de 42 000 de ses actions de catégorie D détenues par Gestion Hélie pour un montant de 42 000 $.
+33. Le 31 mars 2012, l’Amiante a procédé au rachat de 31 500 actions de catégorie D détenues par Gestion Hélie pour un montant de 31 500 $.
+34. Le 28 décembre 2012, l’Amiante a procédé au rachat de 72 438 actions de catégorie D détenues par Gestion Hélie pour un montant de 72 438 $.
+Départ de Ghislain Poulin
+35. Le 30 mars 2012, Ghislain Poulin a vendu le reste de sa participation dans l’Amiante à Gestion Turgeon pour un montant total de 1 370 000 $.23
+36. C’est à ce moment, à la fin mars 2012, que Ghislain Poulin a définitivement quitté l’Amiante.
+Cotisation de Ghislain Poulin
+37. Ghislain Poulin a déclaré un gain en capital imposable de 224 968 $ résultant de la disposition des 450 004 actions de catégorie F de l’Amiante. Il a demandé une déduction équivalente en vertu du paragraphe 110.6(2.1) de la Loi de l’impôt sur le revenu (la « Loi »).24
+38. Le Ministre a pris la position que la disposition par Ghislain Poulin de 450 004 actions de catégorie « F » de l’Amiante à Gestion Turgeon donnait lieu à l’application de l’alinéa 84.1(1)(b) de la Loi et engendrait ainsi un dividende réputé au montant de 449 911 $.
+39. Par avis de nouvelle cotisation daté du 31 octobre 2011, le Ministre a donc augmenté le revenu imposable de Ghislain Poulin d’un montant de 562 389 $ pour l’année d’imposition 2007. Le Ministre a également annulé le gain en capital imposable initialement déclaré et la déduction pour gain en capital réclamée par Ghislain Poulin dans sa déclaration de revenus produite pour l’année d’imposition 2007.25
+40. Par avis d’opposition daté du 21 novembre 2011, Ghislain Poulin s’est dûment opposé à la nouvelle cotisation du 31 octobre 2011.26
+41. Un rapport sur opposition a été préparé par le Ministre.27
+42. Par avis de confirmation daté du 27 mars 2013, le Ministre a confirmé la nouvelle cotisation du 31 octobre 2011.28
+Cotisation d’Herman Turgeon
+43. Herman Turgeon a déclaré un gain en capital imposable de 194 402 $ résultant de la disposition des 388 861 actions de catégorie D de l’Amiante. Il a demandé une déduction équivalente en vertu du paragraphe 110.6(2.1) de la Loi.29
+44. Le Ministre a pris la position que la disposition des 388 861 actions de catégorie « D » de l’Amiante à Gestion Hélie donnait lieu à l’application de l’alinéa 84.1(1)(b) de la Loi et engendrait ainsi un dividende réputé au montant de 388 802 $.
+45. Par avis de nouvelle cotisation daté du 31 octobre 2011, le Ministre a augmenté le revenu imposable d’Herman Turgeon pour l’année d’imposition 2007 d’un montant de 486 003 $. Le Ministre a également annulé le gain en capital imposable initialement déclaré et la déduction pour gain en capital réclamée par Herman Turgeon dans sa déclaration de revenus produite pour l’année d’imposition 2007.30
+46. Par avis d’opposition daté du 21 novembre 2011, Herman Turgeon s’est dûment opposé à la nouvelle cotisation du 31 octobre 2011.31
+47. Un rapport sur une opposition a été préparé par le Ministre.32
+48. Par avis de confirmation daté du 27 mars 2013, le Ministre a confirmé la nouvelle cotisation du 31 octobre 2011.33
+La vérification
+49. Dans le cadre de la vérification, le vérificateur pour l’Agence du revenu du Canada (« ARC »), Benoit Couillard, et des représentants de l’administration centrale de l’ARC ont échangé diverses correspondances relatives aux cotisations en litige.34
+[Les notes de bas de page sont reproduites à l’annexe 1.]
+II. Faits additionnels [8] Il convient également d’ajouter certains faits qui ont ressorti lors de l’audience.
+[9] M. Poulin s’est joint à titre d’employé de l’Amiante en 1981 et s’occupait de l’aspect administratif de celle-ci.
+[10] Quant à M. Turgeon, il a commencé à travailler pour l’Amiante en 1985. À titre de contremaître, il était responsable des chantiers de construction et il y passait la grande majorité de son temps.
+[11] À cette époque, les actionnaires de l’Amiante étaient M. Poulin, Étienne Lacasse, Réal Lessard et Armand Lapointe.
+[12] En 1997, à la suite de nombreuses réorganisations de la structure corporative de l’Amiante, M. Turgeon est devenu actionnaire de l’Amiante, rejoignant ainsi M. Poulin et Étienne Lacasse; chacun détenait 33 1/3 % des actions ordinaires.
+[13] Étienne Lacasse a, par la suite, pris sa retraite et s’est retiré de l’Amiante, laissant M. Poulin et M. Turgeon actionnaires à 50 % de la société.
+[14] Plusieurs conflits sont survenus entre M. Poulin et M. Turgeon. Ils ne s’entendaient pas sur la stratégie à adopter quant à l’avenir de la société. M. Turgeon souhaitait intégrer de nouveaux actionnaires afin de prendre de l’expansion et élargir la part de marché de l’Amiante, alors que M. Poulin préférait le statu quo. Les divergences se sont accentuées à un point tel qu’en 2004, M. Turgeon pensait quitter l’Amiante et vendre ses actions à M. Poulin. De son côté, M. Poulin préparait également des scénarios de sortie, dans lesquels il quittait l’Amiante et vendait ses actions à M. Turgeon.
+[15] Cela étant dit, malgré leurs divergences, en 2005, M. Poulin et M. Turgeon ont décidé d’intégrer M. Bernard Bilodeau (« M. Bilodeau ») à titre d’actionnaire de l’Amiante.
+[16] Pour y parvenir, l’Amiante a procédé en 2005 au remaniement de son capital-actions et les appelants ont effectué un gel de leurs actions ordinaires, en convertissant la valeur de leurs actions ordinaires en actions privilégiées. Une partie des actions ordinaires ont été converties en actions privilégiées de catégorie B. M. Poulin et M. Turgeon détenaient chacun 5 756 de ces actions privilégiées de catégorie B ayant une valeur de rachat de 450 004 $. Cette valeur pour les actions de catégorie B correspondait au montant dont M. Poulin et M. Turgeon avaient besoin pour réclamer la déduction pour gains en capital. Le reste des actions ordinaires ont été converties en actions privilégiées de catégorie C. MM. Poulin et Turgeon détenaient chacun 11 193 actions privilégiées de catégorie C ayant une valeur de rachat de 874 996 $.
+[17] Afin de compléter la réorganisation de l’Amiante, MM. Poulin, Turgeon et Bilodeau ont chacun souscrit à 10 000 actions ordinaires avec droit de vote, pour 100 $ chacun. Ainsi, après cette réorganisation, chacun des trois actionnaires détenait 33 1/3 % des nouvelles actions ordinaires avec droit de vote de l’Amiante.
+[18] L’intégration de M. Bilodeau à titre d’actionnaire et d’administrateur n’a pas apaisé pas les conflits entre les actionnaires. M. Poulin a présenté à MM. Turgeon et Bilodeau une lettre d’intention, en date du 22 décembre 2006, dans laquelle il indiquait son désir de quitter l’Amiante progressivement.
+[19] Cette lettre d’intention marque le point de départ des négociations qui ont mené à la réorganisation de l’Amiante en 2007. MM. Poulin et Turgeon ont chacun consulté des professionnels afin de bénéficier de la réorganisation de l’Amiante en tenant compte du départ progressif de M. Poulin. Il est à noter qu’une fois le processus enclenché, les appelants n’ont retenu que les services du cabinet Deloitte pour procéder à la réorganisation en raison des coûts engendrés.
+[20] Le 1er avril 2007, les actionnaires de l’Amiante se sont entendus sur la nouvelle répartition du capital-actions de la société. Ainsi, M. Turgeon est devenu actionnaire majoritaire de l’Amiante avec 51 % des actions ordinaires, M. Poulin a réduit sa part des actions ordinaires à 25 %, et M. Bilodeau, à 24 %. L’entente prévoyait également que M. Poulin vendrait immédiatement ses actions privilégiées de catégorie B à Gestion Turgeon en contrepartie d’un billet payable dans un délai maximal de cinq ans et que le rachat total de sa participation surviendrait le 31 mars 2010, date à laquelle il quitterait définitivement l’Amiante.
+[21] Avant de conclure l’entente du 1er avril 2007 régissant le départ de M. Poulin, notamment la vente par M. Poulin de ses actions privilégiées de catégorie B à Gestion Turgeon, les actionnaires ont décidé d’attendre la préparation des états financiers de l’Amiante.
+[22] Cependant, avant que les états financiers soient préparés, un conflit majeur est survenu en septembre 2007 entre MM. Poulin et Bilodeau. M. Bilodeau a quitté l’Amiante sur-le-champ et a exigé le rachat total de sa participation. En conséquence, l’entente négociée entre les parties quant au départ de M. Poulin a avorté.
+[23] À la lumière du départ imprévu de M. Bilodeau, M. Turgeon a décidé d’intéresser M. Hélie à devenir actionnaire de l’Amiante et M. Poulin a accepté de retarder de deux ans la date de son départ, soit en 2012.
+[24] M. Hélie était au service de l’Amiante à titre de contrôleur depuis le 1er juin 2004. L’intégration de M. Hélie avait pour but de faire en sorte qu’il puisse prendre la relève du travail effectué par M. Poulin.
+[25] Une entente faisant état de la réorganisation de l’Amiante et l’intégration de M. Hélie a été conclue le 20 septembre 2007[1].
+[26] Lors de la réorganisation de 2007, M. Poulin a constitué Gestion Poulin le 26 septembre 2007[2], M. Turgeon a constitué Gestion Turgeon[3] le 26 septembre 2007, et M. Hélie a constitué la société Gestion Hélie le 7 novembre 2007.
+[27] Le 1er novembre 2007, M. Poulin a vendu à Gestion Turgeon 450 004 actions privilégiées de catégorie F pour 450 004 $. Ces actions étaient les actions privilégiées de catégorie B qui ont été converties en 2007 en actions privilégiées de catégorie D et échangées le 1er novembre 2007 pour des actions de catégorie F. Les modalités de l’achat sont décrites aux paragraphes 23, 24 et 25 de l’entente partielle sur les faits.
+[28] Le 7 novembre 2007, Gestion Poulin a vendu à Gestion Hélie 10,5% des actions ordinaires de l’Amiante pour un montant de 1,90 $.
+[29] Toujours le 7 novembre 2007, M. Turgeon a vendu à Gestion Hélie 388 861 actions privilégiées de catégorie D pour 388 861 $. Ces actions de catégorie D étaient les actions privilégiées de gel de catégorie B qui ont été converties en 2007 en actions de catégorie D. M. Turgeon a financé l’achat de ces actions par Gestion Hélie.
+[30] Après certaines négociations quant au taux d’intérêt, Gestion Hélie, en contrepartie des 388 861 actions privilégiées de catégorie D, a émis à M. Turgeon un billet de 388 861 $ portant intérêt à un taux de 4 %. Ce billet était payable selon les conditions énoncées aux paragraphes 28 à 34 de l’entente partielle sur les faits, soit à même les rachats d’actions effectués par l’Amiante.
+[31] Après la réorganisation de septembre 2007, M. Turgeon détenait 57,5 %, M. Poulin 32 % et M. Hélie 10,5 % des actions ordinaires de l’Amiante.
+[32] En vertu d’un ajout à la convention des actionnaires, le 20 décembre 2007, il a été convenu que M. Poulin devait se départir de la totalité des actions de l’Amiante qu’il détenait toujours au plus tard le 31 décembre 2012, lors de son départ prévu de l’Amiante. M. Poulin a d’ailleurs quitté l’Amiante le 30 mars 2012, date à laquelle ses actions furent rachetées.
+[33] Comme le prévoyaient les conventions d’achat d’actions, l’Amiante a racheté les actions privilégiées de catégorie F détenues par Gestion Turgeon. Cette dernière avait remboursé en totalité le billet qu’elle avait émis à M. Poulin grâce aux montants obtenus des rachats de ses actions par l’Amiante.
+[34] L’Amiante a aussi racheté la majorité des actions privilégiées de catégorie D détenues par Gestion Hélie pour 259 982 $. Gestion Hélie a donc versé ce montant à M. Turgeon à titre de remboursement du prix de vente des actions privilégiées[4]. Lors de l’audience, M. Hélie a indiqué qu’il restait un montant à payer relativement au billet émis par Gestion Hélie à M. Turgeon.
+[35] Le 27 janvier 2014, les 128 789 actions restantes de catégorie D de Gestion Hélie ont été transférées au Groupe Profectus inc.
+[36] Le Groupe Profectus inc. était, en 2014, la société mère de l’Amiante ainsi que d’autres sociétés contrôlées par M. Turgeon. La propriété des actions du Groupe Profectus inc. était calquée sur celle de l’Amiante lors de sa constitution et l’objectif poursuivi était de constituer une société de gestion et de protection d’actifs. Par ailleurs, le président du Groupe Profectus inc. était M. Turgeon.
+[37] Lors de l’audience, ni M. Hélie, ni M. Turgeon, ni les comptables de l’Amiante n’ont été en mesure d’indiquer si Gestion Hélie avait reçu une contrepartie en échange du transfert au Groupe Profectus des actions privilégiées de catégorie D qu’elle détenait dans l’Amiante.
+QUESTIONS EN LITIGE [38] Afin de déterminer si le ministre a correctement appliqué l’article 84.1 de la LIR aux deux dispositions d’actions en cause, les questions qui doivent être tranchées par la Cour sont les suivantes :
+A. Existait-il, en 2007, lors de la vente des 450 004 actions de catégorie F de l’Amiante, un lien de dépendance entre M. Poulin et Gestion Turgeon?
+B. Existait-il, en 2007, lors de la vente des 388 861 actions de catégorie D de l’Amiante, un lien de dépendance entre M. Turgeon et Gestion Hélie?
+THÈSES DES APPELANTS I. Ghislain Poulin [39] M. Poulin prétend avoir correctement déclaré le gain en capital imposable qui a résulté de la disposition des 450 004 actions de catégorie F de l’Amiante.
+[40] Selon M. Poulin, lors des négociations ayant mené à la vente des actions de catégorie F de l’Amiante, ni lui ni M. Turgeon ou Gestion Turgeon n’agissaient de concert, sans intérêts distincts.
+[41] En effet, M. Poulin négociait depuis la fin de l’année 2006 son retrait progressif de l’Amiante. Il voulait donc profiter de sa participation et ne voulait pas céder le contrôle de l’Amiante à M. Turgeon sans que les conditions relatives à son départ soient remplies. C’est pour cette raison qu’a été conclue l’entente initiale du 1er avril 2007 qui, compte tenu des évènements, a été adaptée pour devenir l’entente finale du 20 septembre 2007.
+[42] C’est l’entente du 1er avril 2007 qui a mené à la vente des actions du 1er novembre 2007 et qui a permis à M. Poulin d’exiger des conditions quant à la vente de ses actions et à M. Turgeon de prendre le contrôle de l’Amiante.
+[43] Par conséquent, M. Poulin et M. Turgeon soutiennent que, lors de la vente des 450 004 actions privilégiées de catégorie F à Gestion Turgeon, les parties agissaient dans leurs propres intérêts et qu’il n’existait entre eux aucun lien de dépendance de fait. Par conséquent, les dispositions de l’article 84.1 de la LIR ne s’appliquaient pas à M. Poulin.
+II. Herman Turgeon [44] M. Turgeon prétend avoir correctement déclaré le gain en capital imposable qui a résulté de la disposition des 388 861 actions privilégiées de catégorie D de l’Amiante à Gestion Hélie.
+[45] Ce faisant, c’est à bon droit que celui-ci a réclamé, dans le calcul de son revenu pour l’année d’imposition 2007, la déduction pour gains en capital selon l’article 110.6 de la LIR.
+[46] En effet, M. Turgeon soutient qu’il n’existait entre lui, Gestion Hélie et M. Hélie aucun lien de dépendance puisqu’ils n’étaient pas des personnes liées au sens du paragraphe 251(2) de la LIR et qu’ils n’avaient, entre eux, aucun lien de dépendance de fait.
+[47] Aucune des parties à la transaction n’agissait de concert avec une autre et les négociations se sont déroulées de manière à protéger leurs intérêts respectifs.
+[48] D’une part, M. Turgeon souhaitait intégrer M. Hélie à l’Amiante afin de profiter de son expertise administrative et financière. D’autre part, M. Hélie, par la voie de Gestion Hélie, désirait devenir actionnaire de l’amiante.
+[49] Par conséquent, le montant de 388 861 $ reçu par M. Turgeon en contrepartie des 388 861 actions de catégorie D de l’Amiante ne devrait pas être un dividende réputé en vertu des dispositions de l’article 84.1 de la LIR.
+THÈSES DE L’INTIMÉE I. Ghislain Poulin [50] L’intimée fait valoir que M. Poulin, M. Turgeon ainsi que Gestion Turgeon ont agi de concert, sans intérêts distincts, à l’égard de la vente des 450 004 actions de catégorie F de l’Amiante.
+[51] Le solde du prix de vente des actions fut payé entièrement avec les fonds provenant de leur rachat par l’Amiante. Ainsi, Gestion Turgeon ne faisait qu’agir à titre de conduit pour l’argent provenant de la société. Gestion Turgeon n’avait aucun intérêt à acheter des actions de gel dont la valeur était gelée et, au surplus, à payer des intérêts de 5 % sur ce montant. Selon l’intimée, cette transaction ne traduit pas des relations commerciales ordinaires entre des parties agissant dans leurs propres intérêts. Gestion Turgeon ne faisait qu’aider M. Poulin à réclamer une déduction pour gains en capital.
+[52] Par conséquent, l’intimée fait valoir que M. Poulin ainsi que Gestion Turgeon sont réputés avoir eu un lien de dépendance en vertu de l’alinéa 251(1)c) de la LIR, rendant ainsi applicables les dispositions de l’alinéa 84.1(1)b) de la LIR. M. Poulin est donc réputé avoir reçu un dividende de 450 004 $ lors de la disposition des 450 004 actions de catégorie F de l’Amiante en 2007.
+II. Herman Turgeon [53] L’intimée fait valoir que M. Turgeon, M. Hélie et Gestion Hélie ont agi de concert, sans intérêts distincts, à l’égard de la vente des 388 861 actions de catégorie D de l’Amiante.
+[54] Pour les mêmes motifs que ceux exposés relativement à la transaction intervenue entre M. Poulin et Gestion Turgeon, M. Turgeon serait réputé avoir reçu un dividende de 388 802 $ lors de la disposition des 388 861 actions de catégorie D de l’Amiante en 2007.
+[55] Selon l’intimée, Gestion Hélie ne faisait qu’agir à titre d’accommodatrice pour M. Turgeon, lui permettant ainsi de dépouiller l’Amiante de ses surplus afin de profiter de la déduction pour gains en capital.
+[56] L’intimée fait également valoir que Gestion Hélie n’avait aucun intérêt à acquérir des actions dont la valeur n’est pas appelée à croître, pour lesquelles aucun dividende n’a été versé et dont le paiement est assujetti à un taux d’intérêt de 4 %. Selon l’intimée, l’objectif recherché lors de cette transaction était que M. Turgeon puisse bénéficier de la déduction pour gains en capital.
+ANALYSE [57] Les dispositions de la LIR pertinentes aux présents litiges sont les suivantes :
+Vente d’actions en cas de lien de dépendance
+84.1 (1) Lorsque, après le 22 mai 1985, un contribuable qui réside au Canada (à l’exclusion d’une société) dispose d’actions qui sont des immobilisations du contribuable — appelées « actions concernées » au présent article — d’une catégorie du capital-actions d’une société qui réside au Canada — appelée « la société en cause » au présent article — en faveur d’une autre société — appelée « acheteur » au présent article — avec laquelle le contribuable a un lien de dépendance et que, immédiatement après la disposition, la société en cause serait rattachée à l’acheteur, au sens du paragraphe 186(4) si les mentions « société payante » et « société donnée » y étaient respectivement remplacées par « la société en cause » et « acheteur » :
+a) dans le cas où les actions de l’acheteur — appelées « nouvelles actions » au présent article — ont été émises en contrepartie des actions concernées, le montant calculé selon la formule suivante est déduit dans le calcul du capital versé, à un moment postérieur à l’émission des nouvelles actions, au titre d’une catégorie donnée d’actions du capital-actions de l’acheteur :
+(A - B) × C/A
+où :
+A représente le montant correspondant à l’augmentation — conséquence de l’émission des nouvelles actions — du capital versé au titre de toutes les actions du capital-actions de l’acheteur, calculée sans que le présent article soit appliqué à l’acquisition des actions concernées,
+B l’excédent éventuel du plus élevé des montants suivants :
+(i) le capital versé au titre des actions concernées immédiatement avant la disposition,
+(ii) le prix de base rajusté des actions concernées pour le contribuable immédiatement avant la disposition, sous réserve des alinéas (2)a) et a.1),
+sur la juste valeur marchande, immédiatement après la disposition, de tout contrepartie, à l’exclusion des nouvelles actions, reçue de l’acheteur par le contribuable pour les actions concernées,
+C le montant correspondant à l’augmentation — conséquence de l’émission des nouvelles actions — du capital versé au titre de la catégorie donnée d’actions, calculée sans que le présent article soit appliqué à l’acquisition des actions concernées;
+b) pour l’application de la présente loi, un dividende, calculé selon la formule suivante, est réputé avoir été versé par l’acheteur au contribuable et reçu par celui-ci au moment de la disposition :
+(A + D) - (E + F)
+où :
+A représente le montant correspondant à l’augmentation — conséquence de l’émission des nouvelles actions — du capital versé au titre de toutes les actions du capital-actions de l’acheteur, calculée sans que le présent article soit appliqué à l’acquisition des actions concernées,
+D la juste valeur marchande, immédiatement après la disposition, de toute contrepartie, à l’exclusion des nouvelles actions, reçue de l’acheteur par le contribuable pour les actions concernées,
+E le plus élevé des montants suivants :
+(i) le capital versé au titre des actions concernées immédiatement avant la disposition,
+(ii) le prix de base rajusté des actions concernées pour le contribuable immédiatement avant la disposition, sous réserve des alinéas (2)a) et a.1),
+F le total des montants dont chacun représente un montant que l’acheteur doit déduire selon l’alinéa a) dans le calcul du capital versé au titre d’une catégorie d’actions de son capital-actions à cause de l’acquisition des actions concernées.
+Lien de dépendance
+251 (1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+b) un contribuable et une fiducie personnelle (sauf une fiducie visée à l’un des alinéas a) à e.1) de la définition de « fiducie » au paragraphe 108(1)) sont réputés avoir entre eux un lien de dépendance dans le cas où le contribuable, ou une personne avec laquelle il a un tel lien, aurait un droit de bénéficiaire dans la fiducie si le paragraphe 248(25) s’appliquait compte non tenu de ses subdivisions b)(iii)(A)(II) à (IV);
+c) dans les autres cas, la question de savoir si des personnes non liées entre elles n’ont aucun lien de dépendance à un moment donné est une question de fait.
+[Je souligne.]
+[58] Comme les parties l’ont expliqué lors de l’audience, la question essentielle des présents appels consiste à déterminer s’il existait un lien de dépendance d’une part entre M. Poulin et Gestion Turgeon, et d’autre part, entre M. Turgeon et Gestion Hélie, auquel cas les appels devront être rejetés.
+[59] En effet, les parties ont reconnu que, sauf pour la question du lien de dépendance, les conditions prescrites par l’alinéa 84.1(1)b) de la LIR étaient par ailleurs satisfaites dans le cas des deux dispositions en cause.
+[60] Je vais donc analyser si les parties en cause avaient entre elles un lien de dépendance de fait[5].
+[61] À ce sujet, le juge Hogan, dans la décision Descarries c. La Reine[6], rappelait que :
+[…] les règles précises démontrent que l’objet et l’esprit de l’article 84.1 de la Loi sont d’empêcher que les contribuables mettent en place des transactions dont l’objectif est de dépouiller une société de ses surplus en franchise d’impôt grâce à l’utilisation de la marge libre d’impôt ou de l’exonération des gains en capital[7].
+[62] Cette affirmation est conforme à l’analyse qu’en a faite le juge Archambault dans la décision Desmarais c. La Reine[8], où le juge expliquait :
+Il découle de l’analyse textuelle et contextuelle de l’article 84.1 que – et cela est conforme aux notes techniques du ministre des Finances – l’intention du législateur est d’empêcher le dépouillement des surplus d’une société en exploitation lorsqu’on utilise pour ce dépouillement un mécanisme semblable à celui utilisé ici par monsieur Desmarais. Ce mécanisme est celui au moyen duquel ce dernier a pu recevoir sans impôt des surplus d’une société en exploitation à la suite d’un transfert des actions de cette société à une société de portefeuille et à la suite du rachat, à même les surplus reçus de la société en exploitation, des actions émises en contrepartie des actions de la société en exploitation[9].
+[63] Or, la notion de lien de dépendance de fait, d’abord définie dans l’arrêt Peter Cundill & Associates Ltd. c. La Reine[10], fut examinée par la Cour suprême du Canada dans l’arrêt R. c. McLarty[11], où le juge Rothstein a écrit :
+[62] Le bulletin d’interprétation IT‑419R2 de l’Agence du revenu du Canada intitulé « Sens de l’expression “sans lien de dépendance” » (8 juin 2004) énonce une méthode pour déterminer s’il existe ou non un lien de dépendance entre les parties à une opération. La réponse dépendra des faits de chaque affaire. Les tribunaux ont toutefois élaboré et accepté des critères utiles : voir par exemple Peter Cundill & Associates Ltd. c. Canada, [1991] A.C.F. no 21 (QL) (1re inst.), conf. par [1991] A.C.F. no 1008 (QL) (C.A.). Le bulletin indique ce qui suit :
+22. . . . En proposant des critères généraux pour déterminer si, pour une opération donnée, des personnes non liées ont entre elles un lien de dépendance ou non, il faut tenir compte du fait qu’il est impossible d’élaborer des lignes directrices prévoyant toutes les situations. Chaque transaction ou série de transactions donnée doit être examinée individuellement. Vous trouverez ci‑après les lignes directrices générales de l’ARC ainsi que des commentaires particuliers à propos de certaines relations.
+23. Les tribunaux ont, de manière générale, appliqué les critères suivants pour déterminer si une transaction avait été réalisée entre des personnes « sans lien de dépendance » :
+• un seul cerveau dirige les négociations pour les deux parties à une transaction;
+• les parties à une transaction agissent de concert sans intérêts distincts;
+• il y a exercice effectif (de fait) par une partie sur l’autre (contrôle d’une partie sur l’autre)[12].
+[Je souligne.]
+[64] C’est selon ce second critère, soit celui des parties agissant de concert sans intérêts distincts, que l’intimée fait valoir qu’il y avait un lien de dépendance entre M. Poulin et Gestion Turgeon et entre M. Turgeon et Gestion Hélie lors des ventes respectives de leurs actions privilégiées.
+[65] Dans l’affaire Petro-Canada c. La Reine[13], la juge Sharlow de la Cour d’appel fédérale, après avoir fait référence à la décision Peter Cundill, indiquait au paragraphe 55 de ses motifs que si les « termes des opérations ne traduisaient pas des relations commerciales ordinaires entre fournisseurs et acheteurs agissant dans leurs propres intérêts », on doit conclure à l’existence d’un lien de dépendance entre les parties.
+[66] Dans la décision Gestion Yvan Drouin[14], le juge Archambault écrivait, au paragraphe 75 de ses motifs, que pour déterminer si des parties agissent ou non de concert sans intérêts distincts, on doit examiner si elles agissent pour leur propre bénéfice ou pour le bénéfice de quelqu’un d’autre :
+[…] une personne ne fait que participer à une opération, non pour son propre bénéfice, mais pour celui de quelqu’un d’autre ou, même s’il agit pour son propre bénéfice, s’il agit aussi pour quelqu’un d’autre dans un contexte de réciprocité. On agit ainsi sans intérêt distinct, et non de façon indépendante pour son propre intérêt[15].
+[67] Quant à savoir quelles transactions devront être examinées, la Cour suprême du Canada, dans l’arrêt McLarty, a indiqué que la relation entre les parties à une transaction devrait être examinée à la lumière de tous les faits pertinents. Le juge Rothstein énonçait ce qui suit au paragraphe 65 :
+Selon le ministre, [TRADUCTION] « [c]’est la relation entre le vendeur et l’acquéreur au moment de l’acquisition qui doit être examinée, et non la relation à quelque autre moment ou en ce qui a trait à quelque autre opération » (mémoire du ministre relatif au pourvoi incident, par. 26). Je suis incapable d’adhérer à une approche aussi limitative. Lorsque l’acquisition est effectuée par un mandataire de l’acquéreur, l’examen de la relation entre l’acquéreur et l’opération d’acquisition, ainsi que l’examen de la question relative à l’existence d’un lien de dépendance entre le vendeur et l’acquéreur, supposeront nécessairement la prise en considération de la convention entre le mandataire et l’acquéreur. Cette convention sera normalement antérieure à la convention d’acquisition (en l’espèce, tous les documents ont été signés le 31 décembre 1992)[16].
+[68] Qui plus est, le juge Bowman, dans RMM Canadian Enterprises Inc. c. La Reine[17], a élargi l’éventail des faits qu’il faut analyser afin de conclure à l’existence d’un lien de dépendance de fait en vertu de l’alinéa 251(1)c) de la LIR. En effet, dans cette affaire, la Cour a conclu que bien que les négociations ayant mené à la transaction aient eu lieu sans lien de dépendance, la conduite des parties après cette transaction démontrait que la partie qui aidait l’autre n’avait en fait aucune fonction indépendante :
+Qu’en est-il donc du cas qui nous occupe? Nous avons une corporation qui utilise une autre corporation pour participer à ce qui est essentiellement un projet visant à en arriver à un résultat fiscal particulier. La participation elle-même a-t-elle pour effet de faire de la relation une relation dans laquelle il y a un lien de dépendance? À vrai dire, il y a clairement eu négociation sans lien de dépendance au sujet du revenu que RMM réaliserait par suite de l’opération. Pendant ces négociations, il n’y avait pas d’élément de contrôle entre EC et RMM, et RMM était conseillée d’une façon indépendante. À ce moment-là, EC et RMM n’avaient pas entre elles de lien de dépendance. Toutefois, une fois l’affaire réglée, et au fur et à mesure qu’elle a abouti à la vente, au paiement des fonds, au paiement anticipé du montant garanti, à l’endossement par RMM des chèques de remboursement en faveur d’EC et à la quasi-disparition de RMM une fois le but atteint, il est devenu clair que RMM n’avait aucune fonction indépendante. […] On obtient le même résultat en appliquant la théorie des personnes qui « agissent de concert ». À mon avis, RMM et EC avaient entre elles un lien de dépendance en effectuant l’opération, y compris la vente[18].
+[Je souligne.]
+[69] Lors de l’audience, les appelants ont insisté sur le fait qu’il y avait un conflit majeur entre M. Poulin et M. Turgeon. Il était dans l’intérêt de l’Amiante qu’une des deux parties quitte la société. Selon les appelants, les parties sont arrivées à une entente après des négociations ardues. Les parties ont fait appel à plusieurs professionnels indépendants afin de mieux représenter leurs intérêts respectifs. Selon les appelants, cela démontre que les parties agissaient de manière indépendante avec des intérêts distincts.
+[70] Premièrement, cet argument ne s’applique pas à la transaction entre M. Turgeon et Gestion Hélie. Il n’y a jamais eu de conflits entre M. Turgeon et M. Hélie. De plus, ce n’est pas parce qu’il y a des conflits entre des actionnaires-administrateurs d’une société que ces derniers agissent nécessairement de manière indépendante avec des intérêts distincts. Dans certaines transactions, des actionnaires peuvent agir de manière indépendante avec des intérêts distincts et dans d’autres transactions, ils peuvent agir de concert sans intérêts distincts, et cela malgré des relations houleuses. Dans chaque cas, ce sera une question de fait.
+[71] J’adopte à cet égard les propos tenus par le juge Pizzitelli dans la décision Alberta Printed Circuits Inc. c. La Reine[19]. Il a écrit ce qui suit au paragraphe 79 de sa décision :
+[79] Bien que je ne doute pas qu’il y ait eu de nombreuses négociations entre M. McMuldroch et les Bamber, des négociations menant à la planification, à la mise en œuvre et à la gestion d’un intérêt commun ne se transforment pas magiquement en une preuve indiquant que les parties n’agissaient pas de concert dans un intérêt commun ou n’appellent pas nécessairement la conclusion selon laquelle les parties doivent logiquement avoir eu des intérêts distincts[20].
+[Je souligne.]
+[72] Il n’est pas non plus déterminant que des parties aient utilisé les services d’un même cabinet ou d’un même professionnel lorsqu’on décide si les parties agissaient de concert sans intérêts distincts.
+[73] La juge Lamarre Proulx, dans la décision Brouillette c. La Reine[21], a affirmé ce qui suit, et je souscris à son raisonnement :
+[51] Les conseillers financiers ne sont pas les âmes dirigeantes des sociétés qu’ils conseillent. Ils conseillent. Ils ne prennent pas les décisions. Ce n’est pas parce que des parties utilisent les mêmes conseillers financiers que l’on peut déterminer qu’ils agissent de concert. Il faut analyser les intérêts de chacune des parties à une entente pour déterminer si elles agissent de concert ou non[22].
+[74] C’est donc à la lumière de ce qui précède que je déterminerai si, en l’espèce, les parties aux transactions agissaient de concert sans intérêts distincts au moment de la vente des actions privilégiées.
+I. La vente de 450 004 actions de catégorie F de l’Amiante par M. Poulin à Gestion Turgeon [75] En ce qui a trait à la vente des actions détenues par M. Poulin, je suis d’avis que celui-ci et Gestion Turgeon n’agissaient pas de concert sans intérêts distincts.
+[76] En effet, il ressort de l’ensemble de la preuve que tout au long des négociations précédant ladite vente, l’intention de M. Poulin était de quitter la société si M. Turgeon obtempérait à ses conditions. Or, l’une de ces conditions pour son départ était qu’il puisse bénéficier de sa déduction pour gains en capital. Cela avait pour effet d’augmenter le prix de vente de ses actions.
+[77] Tout comme dans l’affaire Brouillette, M. Poulin voulait vendre sa participation dans l’Amiante au meilleur prix et aux meilleures conditions possibles. Quant à M. Turgeon, il voulait acquérir le contrôle de l’Amiante grâce au départ de M. Poulin. À ce sujet, la juge Lamarre-Proulx écrit ce qui suit dans ses motifs :
+[50] Je suis d’avis que la preuve a révélé sans aucun doute que les intérêts de messieurs Chagnon et Brunet étaient totalement distincts de ceux de monsieur Brouillette. Monsieur Brouillette a tenté de vendre au meilleur prix possible. Messieurs Chagnon et Brunet ont tenté d’acquérir au meilleur prix les actions d’une entreprise qu’ils souhaitaient acquérir et diriger[23].
+[Je souligne.]
+[78] Le report du départ de M. Poulin, initialement prévu le 31 mars 2010, puis repoussé au 31 décembre 2012, est, selon moi, compréhensible compte tenu des circonstances. À l’époque où M. Turgeon est devenu actionnaire majoritaire, soit le 1er avril 2007, il était clair que M. Poulin quitterait l’Amiante et que cette dernière continuerait ses activités avec M. Turgeon et M. Bilodeau. Le départ imprévu de M. Bilodeau a fait en sorte que l’Amiante a dû se réorganiser et procéder au rachat de la participation de M. Bilodeau et à l’intégration d’un nouvel actionnaire, M. Hélie.
+[79] Cela étant dit, il ressort de la preuve que tout au long des négociations, M. Poulin avait, depuis 2006, l’intention de quitter l’Amiante et le départ de M. Bilodeau, jumelé à l’intégration de M. Hélie, n’a eu que pour effet de retarder son départ de la société.
+[80] Ainsi, je ne vois que très peu de distinctions entre la transaction intervenue entre M. Poulin et Gestion Turgeon et celle dont il était question dans l’affaire Brouillette, sauf qu’en l’espèce, des circonstances imprévues ont entravé le bon déroulement de la réorganisation, dont les modalités étaient d’abord établies le 1er avril 2007 et ont ensuite mené à l’entente du 20 septembre 2007, et que l’acheteur était déjà actionnaire de l’Amiante. Cela étant dit, les deux affaires portaient sur l’application de la technique de « leveraged buy-out ». Ces différences ne sont pas assez importantes, selon moi, pour justifier un résultat différent.
+[81] Le fait que M. Poulin et M. Turgeon aient organisé la transaction de manière à ce que M. Poulin puisse bénéficier de sa déduction pour gains en capital ne fait pas en sorte que les parties agissaient de concert sans intérêts distincts.
+[82] À ce sujet, le juge Bonner, dans la décision McNichol c. La Reine[24], a établi une distinction entre le fait que l’acheteur et le vendeur cherchent à conclure une transaction avantageuse pour les deux parties et le fait d’agir de concert sans intérêts distincts :
+En l’espèce, la preuve montre que, lorsqu’il s’est agi de vendre les actions de Bec, la négociation a eu lieu entre des parties sans lien de dépendance. En ce qui concerne le prix d’achat, les intérêts des vendeurs et ceux de l’acheteur n’étaient pas les mêmes. Les appelants étaient clairement sensibles au prix puisqu’ils ont mis fin aux discussions qui avaient lieu au sujet de la vente des actions à un acheteur éventuel, Malcolm Dunfield, lorsqu’ils ont appris que M. Forestell paierait un prix plus élevé. […] Même si l’épargne fiscale que les appelants pouvaient réaliser par suite de la vente constituait non seulement le motif de la vente, mais aussi les limites dans lesquelles le prix de vente pouvait être négocié, cela ne veut pas pour autant dire que les appelants et M. Forestell ont agi de concert. L’acheteur et le vendeur n’agissent pas de concert simplement parce que l’entente qu’ils cherchent à conclure peut être avantageuse pour les deux parties. Par conséquent, l’article 84.1 ne s’applique pas[25].
+[Je souligne.]
+[83] Je suis d’avis que la vente d’actions par M. Poulin à Gestion Turgeon reflète des relations commerciales ordinaires entre des parties agissant dans leurs propres intérêts, chaque partie étant guidée par ses propres objectifs et bénéfices. M. Poulin cherchait à obtenir le meilleur prix possible pour ses actions, tenant compte de la déduction des gains capital, et assujettissait son départ à des conditions qui le favorisaient. M. Turgeon voulait le contrôle de l’Amiante.
+[84] Par conséquent, il n’existait pas, lors de la vente des 450 004 actions de catégorie D de l’Amiante par M. Poulin à Gestion Turgeon, un lien de dépendance entre les parties. Les dispositions de l’article 84.1 de la LIR ne s’appliquent pas à cette transaction.
+II. La vente de 388 861 actions de catégorie D de l’Amiante par M. Turgeon à Gestion Hélie [85] Quant à la transaction entre Gestion Hélie et M. Turgeon, je suis d’avis que les parties agissaient de concert sans intérêts distincts.
+[86] Cette vente avait pour objectif d’aider M. Turgeon à réclamer sa déduction pour gains en capital.
+[87] Il ressort de la documentation relative à chacune des réorganisations – celle de 2005 et celle de 2007 –, ainsi que de l’ensemble de la preuve, que M. Turgeon souhaitait bénéficier de sa déduction pour gains en capital.
+[88] Lors de son témoignage, M. Turgeon n’a cessé d’affirmer qu’il n’avait aucune idée des raisons des diverses transactions et opérations fiscales intervenues relativement à la structure de l’Amiante. Il a, à maintes reprises, indiqué qu’il faisait confiance à ses conseillers fiscaux et qu’il n’avait aucune connaissance particulière de ce qu’était la déduction pour gains en capital.
+[89] Je n’accepte pas cette prétention de M. Turgeon. Je suis d’avis qu’il était bien au fait de la possibilité de bénéficier de la déduction pour gains en capital s’il disposait des actions qu’il détenait personnellement. La documentation soumise au procès indique clairement qu’avant même l’intégration de M. Bilodeau dans l’Amiante, M. Turgeon voulait obtenir cet allègement, et c’est exactement ce qu’il a fait en vendant ses 388 861 actions de catégorie D à Gestion Hélie.
+[90] Cela étant dit, s’il est tout à fait acceptable qu’un entrepreneur veuille bénéficier des allègements fiscaux qui lui sont disponibles, il faut cependant s’assurer que le moyen qu’il utilise lui permette de le faire. C’est ce qui a fait défaut en l’espèce.
+[91] M. Hélie lors de son témoignage, a souvent répété qu’il avait acheté « votes et valeur » dans l’Amiante.
+[92] La preuve a révélé que par l’entremise de Gestion Hélie, M. Hélie avait acheté, de M. Poulin (Gestion Poulin), 10,5 % des actions ordinaires de l’Amiante. Toujours par l’entremise de Gestion Hélie, M. Hélie a aussi acheté de M. Turgeon 388 861 actions privilégiées de catégorie D de l’Amiante, soit les actions de gel, pour 388 861 $.
+[93] À cette fin, M. Hélie, pour Gestion Hélie, a émis un billet à M. Turgeon pour un montant de 388 861 $, portant intérêt à 4 % par année à compter du 1er novembre 2007.
+[94] La convention de vente d’actions du 7 novembre 2007 entre Gestion Hélie et M. Turgeon prévoyait que l’Amiante devait remettre au moins 80 % de ses bénéfices annuels nets à ses actionnaires sous forme de dividendes ou autrement – notamment par voie de rachat d’actions. Cette convention prévoyait également que 90 % des sommes reçues par Gestion Hélie devaient être remises à M. Turgeon en règlement du solde du prix de vente des actions.
+[95] Les actions de catégorie D, tout comme les actions de catégorie F, étaient des actions de gel et ne pouvaient augmenter de valeur. Elles ne comportaient pas le droit de recevoir une convocation pour les assemblées des actionnaires, d’y assister ou d’y voter. Le dividende était non cumulatif, variait de 0,3 % à 1,25 % par mois selon le prix de rachat des actions. Aucun dividende n’a été déclaré pour ces actions. Les actions étaient, cependant, rachetables au gré du détenteur pour le montant payé pour ces actions. Elles comportaient aussi un droit de recevoir, en priorité, le versement du prix de rachat des actions en cas de liquidation ou de dissolution.
+[96] Par conséquent, il n’y avait pas, pour M. Hélie, de risques à participer à cette transaction. C’est avec le rachat des actions par l’Amiante que Gestion Hélie remboursait sa dette envers M. Turgeon. Gestion Hélie pouvait forcer l’Amiante à racheter toutes ses actions à son gré. De plus, il n’y avait pas de période établie pour rembourser le billet émis par Gestion Hélie à M. Turgeon. À la date de l’audience, soit neuf ans après la transaction, il restait toujours un solde à payer sur le billet.
+[97] Je suis d’avis qu’il n’y avait aucun bénéfice pour Gestion Hélie d’acheter de telles actions et, au surplus, de payer de l’intérêt sur des actions dont la valeur était gelée. En l’absence d’un quelconque contrôle de fait par Gestion Hélie de la société, il n’y a que peu de situations où une personne serait intéressée à obtenir pareilles actions de gel. Le coût de ces actions, pour Gestion Hélie, dépassait d’autant plus leur rendement réel puisqu’il n’a pas été établi qu’un dividende quelconque ait été versé relativement à celles-ci pendant que Gestion Hélie les détenait.
+[98] Je suis d’avis qu’en achetant les actions de catégorie D de M. Turgeon, Gestion Hélie n’avait aucun intérêt autre que de permettre à M. Turgeon de réaliser un gain en capital afin qu’il réclame la déduction pour gains en capital.
+[99] De plus, la preuve a révélé que le 27 janvier 2014, Gestion Hélie a transféré au Groupe Profectus inc., dont M. Turgeon est le président, le reste des actions qui n’avaient toujours pas été rachetées par l’Amiante.
+[100] Bien que cette transaction ait eu lieu sept ans après l’achat par Gestion Hélie des actions privilégiées de M. Turgeon, cela démontre que, tout comme dans RMM Canadian Enterprises, Gestion Hélie n’avait, à l’égard des actions de catégorie D de l’Amiante, aucune fonction indépendante de M. Turgeon. M. Hélie a répété à maintes reprises qu’il avait toujours voulu acheter « votes et valeur » de l’Amiante, sauf qu’il ne pouvait dire ce qu’il avait reçu en contrepartie lors du transfert de ses actions dans Profectus.
+[101] Pour reprendre les propos du juge Archambault dans Gestion Yvan Drouin, je suis convaincue que Gestion Hélie ne faisait que participer à l’opération au bénéfice de M. Turgeon, lui permettant ainsi de dépouiller l’Amiante de ses surplus en franchise d’impôt grâce à l’utilisation de sa déduction pour gains en capital.
+[102] En terminant, il est important de noter que malgré la ressemblance entre les deux transactions de vente d’actions privilégiées de gel, soit la vente des actions de catégorie F entre M. Poulin et Gestion Turgeon et la vente des actions de catégorie D entre M. Turgeon et Gestion Hélie, il y a des distinctions évidentes qui commandent un résultat distinct, soit :
+− l’objectif de M. Turgeon était d’obtenir le contrôle de l’Amiante; cela passait par le départ de M. Poulin et l’achat de ses actions. M. Poulin pour sa part, avait comme objectif d’obtenir les meilleures conditions possibles pour son départ de l’Amiante. Les deux parties à la transaction avaient leurs propres intérêts et bénéfices, ce qui n’était pas le cas de la vente d’actions par M. Turgeon à Gestion Hélie.
+− contrairement à la transaction intervenue entre M. Poulin et Gestion Turgeon, la convention de vente d’actions entre M. Turgeon et Gestion Hélie ne prévoyait pas de modalités de remboursement quant au billet émis à M. Turgeon. Comme je l’ai déjà indiqué, il reste encore, neuf ans après la transaction, un solde du prix de vente.
+− M. Poulin a quitté l’Amiante comme prévu. M. Turgeon est toujours au service de l’Amiante et, à titre d’actionnaire majoritaire et d’administrateur, il contrôle la société.
+[103] Pour l’ensemble de ces raisons, je suis d’avis que Gestion Hélie et M. Turgeon agissaient de concert, sans intérêts distincts, lors de la vente des 388 861 actions de catégorie D de l’Amiante, créant ainsi un lien de dépendance entre les parties relativement à cette transaction. Je suis d’avis que les conditions de l’opération conclue entre eux ne traduisaient pas des relations commerciales ordinaires entre des parties agissant dans leurs propres intérêts.
+[104] Ainsi, le ministre était fondé de refuser la déduction pour gains en capital réclamée par M. Turgeon et d’appliquer les dispositions de l’article 84.1 de la LIR, c’est‑à‑dire que M. Turgeon est réputé avoir reçu un dividende au cours de l’année d’imposition 2007.
+CONCLUSION [105] L’appel de M. Poulin est accueilli, sans frais.
+[106] L’appel de M. Turgeon est rejeté, sans frais.
+Signé à Ottawa, Canada, ce 14e jour de juin 2016.
+« Johanne D’Auray »
+Juge D’Auray
+ANNEXE 1
+1 Certificat et Statuts de fusion, Annexe 1.
+2 Certificat et Statuts de fusion, Annexe 2.
+3 Certificat de modification et Clauses modificatrices du 20 mai 2005, Annexe 3; Certificat et clauses modificatrices du 26 septembre 2007, Annexe 4.
+4 Note de Rénald Grondin, c.a., Raymond Chabot Grant Thornton, à Ghislain Poulin, Herman Turgeon et Les Constructions de l’Amiante Inc., datée du 16 décembre 2004, Annexe 5; lettre de Rénald Grondin à Me Michel Demers, avec pièces jointes, datée du 31 mars 2005, Annexe 6.
+5 Convention du 4 octobre 2005 entre les actionnaires d’Amiante; Annexe 7.
+6 Convention de rachat d’actions du 4 octobre 2005; Annexe 8.
+7 Note de Rénald Grondin aux actionnaires de Les Constructions de l’Amiante Inc., datée du 7 septembre 2006, Annexe 9; note de Rénald Grondin à Ghislain Poulin, Herman Turgeon et Bernard Bilodeau, datée du 25 juin 2007, Annexe 10; note de Rénald Grondin aux actionnaires de Les Constructions de l’Amiante Inc., datée du 25 juin 2007, Annexe 11; lettre de Rénald Grondin à Les Entreprises G.H.T. Inc., avec pièces jointes, datée du 25 juin 2007, Annexe 12; lettre de Rénald Grondin à Ghilin Inc., avec pièces jointes, datée du 25 juin 2007, Annexe 13.
+8 États financiers de l’Amiante au 31 mars 2007, Annexe 14.
+9 Lettre de Deloitte à Me Christian Dumoulin, datée le 20 septembre 2007; Annexe 15; lettre de Deloitte à Me Christian Dumoulin, datée le 20 septembre 2007 (modifiée le 19 décembre 2007), Annexe 16; organigramme des transactions préparé par l’ARC; Annexe 17.
+10 Lettre d’intention entre les actionnaires de l’Amiante, datée du 22 décembre 2006; Annexe 18; note re : la rencontre du 22 février 2007, Annexe 19; lettre de Gilles Hébert à Ghislain Poulin, datée du 1er mars 2007, Annexe 20; mémo interne de Mario Désilets à Nelson Lamontagne, daté du 15 mars 2007, Annexe 21; lettre de Deloitte à Ghislain Poulin, datée du 12 avril 2007, Annexe 22; lettre de Deloitte à Ghislain Poulin, datée du 12 avril 2007/24 avril 2007 (révisé), Annexe 23; projet de lettre de Deloitte, datée le 15 juin 2007, Annexe 24.
+11 Certificat et Clauses modificatrices du 26 septembre 2007, Annexe 4.
+12 Résolutions spéciales des actionnaires et Résolutions du conseil d’administration de l’Amiante, adoptées le 26 septembre 2007; Annexe 25.
+13 Certificat et Statuts de fusion, Annexe 2.
+14 Convention de fusion intervenue le 31 octobre 2007, Annexe 26.
+15 Résolutions du Conseil d’administration de l’Amiante, Annexe 27.
+16 Convention de vente d’actions intervenue le 1er novembre 2007, Annexe 28.
+17 Convention de vente d’actions intervenue le 7 novembre 2007, Annexe 29.
+18 États financiers de l’Amiante au 31 octobre 2007, Annexe 30.
+19 Addenda à une convention entre les actionnaires de l’Amiante, Annexe 31.
+20 Convention de vente d’actions intervenue le 1er novembre 2007, Annexe 28.
+21 Convention de vente d’actions intervenue le 7 novembre 2007, Annexe 29.
+22 Registre des valeurs mobilières de Gestion David Hélie Inc., Annexe 32.
+23 Contrat de vente d’actions et autres ententes, en date du 30 mars 2012, Annexe 33.
+24 Déclaration de revenus pour l’année 2007 de Ghislain Poulin, Annexe 34.
+25 Avis de nouvelle cotisation, Annexe 35.
+26 Avis d’opposition, Annexe 36.
+27 Rapport sur une opposition, nom de l’opposant, Ghislain Poulin, Annexe 37.
+28 Avis de confirmation, Annexe 38.
+29 Déclaration de revenus pour l’année 2007 d’Herman Turgeon, Annexe 39.
+30 Avis de nouvelle cotisation, Annexe 40.
+31 Avis d’opposition, Annexe 41.
+32 Rapport sur une opposition, nom de l’opposant, Herman Turgeon, Annexe 42.
+33 Avis de confirmation, Annexe 43.
+34 Lettre de Benoit Couillard à Suzanne Saydeh datée le 28 octobre 2010 (sans les pièces jointes), Annexe 44; Note de service de Dan Rivet à Benoit Couillard datée le 18 mars 2011, Annexe 45; Lettre de Benoit Couillard à Djelloul Omari datée le 20 septembre 2011 (sans les pièces jointes) Annexe 46.
+RÉFÉRENCE :
+2016 CCI 154
+Nos DES DOSSIERS DE LA COUR :
+2013-2554(IT)G
+2013-2555(IT)G
+INTITULÉS :
+GHISLAIN POULIN c SA MAJESTÉ LA REINE
+HERMAN TURGEON c SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Les 28, 29 et 30 septembre 2015
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 14 juin 2016
+COMPARUTIONS :
+Avocates des appelants :
+Me Geneviève Léveillé
+Me Laurie Beausoleil
+Avocate de l’intimée :
+Me Natalie Goulard
+Marissa Figlarz, stagiaire en droit
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Geneviève Léveillé
+Me Laurie Beausoleil
+Cabinet :
+PwC Cabinet d’avocats
+s.e.n.c.r.l./s.r.l.
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’entente du 20 septembre 2007, modifiée le 19 décembre 2007.
+[2] La société qui a été constituée par M. Poulin est la société 6847200 Canada inc. Elle est dénommée Gestion Poulin.
+[3] La société qui a été constituée par M. Turgeon est la société 6847161 Canada inc. Elle est dénommée Gestion Turgeon.
+[4] Voir les paragraphes 28 à 34 de l’entente partielle sur les faits.
+[5] Voir Gestion Yvan Drouin c. La Reine, 2001 D.T.C. 72, au par. 39 (CCI) [Gestion Yvan Drouin].
+[6] 2014 CCI 75.
+[7] Ibid, au par. 53.
+[8] 2006 CCI 44.
+[9] Ibid au par. 32.
+[10] [1991] ACF no 1008 (CAF).
+[11] 2008 CSC 26 [McLarty].
+[12] Ibid., au par. 62.
+[13] 2004 CAF 158.
+[14] Précitée, note 5.
+[15] Ibid., au par. 75.
+[16] McLarty, précité (note 11), au par. 65.
+[17] [1997] ACI no 302 (CCI) [RMM Canadian Enterprises].
+[18] Ibid., au par. 39.
+[19] 2011 CCI 232.
+[20] Ibid., au par. 79.
+[21] 2005 CCI 203 [Brouillette].
+[22] Ibid., au par. 51.
+[23] Brouillette, précité (note 20), au par. 50.
+[24] [1997] ACI no 5 (CCI).
+[25] Ibid., au par. 17.

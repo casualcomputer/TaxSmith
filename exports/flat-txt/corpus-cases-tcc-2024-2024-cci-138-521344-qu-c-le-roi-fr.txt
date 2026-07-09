@@ -1,0 +1,123 @@
+Title: Qu c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521344/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-138-521344-qu-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-10-23
+
+# Qu c. Le Roi
+
+- Citation: 2024 CCI 138
+- Decision date: 2024-10-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6050, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Qu c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-10-23
+Référence neutre
+2024 CCI 138
+Numéro de dossier
+2023-812(IT)I
+Juges et Officiers taxateurs
+David E. Spiro
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2023-812(IT)I
+ENTRE :
+BAODONG QU,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 13 mars 2024, à Toronto (Ontario), avec observations écrites reçues des parties les 24 juin 2024, 19 juillet 2024 et 25 juillet 2024
+Devant : l’honorable juge David E. Spiro
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimé :
+Me Mélia Muboyayi et Me Christian Cheong
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2021 de l’appelant est rejeté sans dépens.
+Signé à Toronto (Ontario), ce 23e jour d’octobre 2024.
+« David E. Spiro »
+Le juge Spiro
+Référence : 2024 CCI 138
+Date : 20241023
+Dossier : 2023-812(IT)I
+ENTRE :
+BAODONG QU,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Spiro
+[1] L’appelant, M. Baodong Qu, interjette appel de la cotisation établie par le ministre du Revenu national (le « ministre ») rejetant la déduction liée aux 25 362 $ qu’il a versés dans son régime enregistré d’épargne-retraite (« REER ») pour l’année d’imposition 2021. Le ministre a accordé une déduction de 12 175 $.
+[2] La Couronne soutient que M. Qu avait le droit de déduire 12 175 $ à titre de cotisation à son REER pour 2021. M. Qu fait valoir qu’il avait le droit de déduire 25 362 $.
+[3] Tout au long de son année d’imposition 2020, M. Qu a travaillé pour TSX Inc. Il travaillait pour cet employeur depuis 2001 et participait à son régime de pension agréé (le « RPA de la TSX »). Le RPA de la TSX était un régime à cotisations définies, aussi appelé régime de retraite à cotisations déterminées.
+[4] Le 12 mars 2021, M. Qu a arrêté de travailler pour la TSX. Il a mis fin à sa participation au RPA de la TSX à ce moment-là.
+Régimes de pension agréés et régimes enregistrés d’épargne-retraite
+[5] La Loi de l’impôt sur le revenu (la « Loi ») encourage les Canadiens à épargner en vue de leur retraite en participant à un ou plusieurs régimes d’épargne-retraite donnant droit à une aide fiscale. En général, les cotisations déductibles sont assujetties à une limite globale de 18 % du revenu gagné d’une personne, jusqu’à concurrence d’un montant établi. Cette limite globale s’applique à l’épargne-retraite totale, que ce soit dans le cadre d’un REER, d’un RPA ou d’une combinaison des deux.
+[6] Le juge Bowie a décrit le but du REER dans la décision Braun c. La Reine, 2011 CCI 536 :
+[25] Compte tenu du contexte de la loi, il est bien établi que les dispositions de la Loi en matière de REER ont pour objet d’inciter les Canadiens à faire des économies en vue de leur retraite. À cette fin, il leur est permis d’accumuler des économies sur une base déductible d’impôt. Ni les montants versés dans le fonds ni les gains accumulés dans ce dernier ne sont assujettis à l’impôt avant d’en être retirés d’une manière quelconque.
+[7] Le RPA vise pour sa part à permettre à un employeur d’effectuer des paiements périodiques aux personnes qui prennent leur retraite pour leurs services rendus en tant qu’employés. En termes simples, un régime de retraite à cotisations déterminées comme le RPA de la TSX est un régime dans lequel les cotisations versées par l’employeur sont portées au crédit de chaque participant.
+Facteur d’équivalence
+[8] Les participants à un RPA reçoivent un crédit de pension qui est déclaré chaque année. Ce crédit est la prestation que les participants ont accumulée dans le cadre de leur RPA au cours de l’année civile. Le facteur d’équivalence (le « FE ») d’un participant est le total de ses crédits de pension accumulés dans un RPA auquel il a participé pendant l’année[1]. Le FE réduit le plafond de cotisation du participant au REER durant l’année suivante[2].
+[9] Les crédits de pension que M. Qu a accumulés pour 2020 dans le cadre du RPA de la TSX s’élevaient à 16 692 $. Ce montant a été inscrit sur son T4 pour l’année d’imposition 2020 en tant que FE de 2020.
+[10] Les crédits de pension que M. Qu a accumulés pour 2021 dans le cadre du RPA de la TSX s’élevaient à 3 505 $. Ce montant a été inscrit sur son T4 pour l’année d’imposition 2021 en tant que FE de 2021.
+Facteur d’équivalence rectifié
+[11] Dans certaines circonstances, le plafond de cotisation à un REER d’une personne est rétabli après avoir été réduit par un FE antérieur qui avait abaissé le plafond de déduction en raison de crédits de pension qui ont par la suite été retirés.
+[12] Dans le contexte d’un RPA à cotisations définies comme le RPA de la TSX, le facteur d’équivalence rectifié (le « FER ») est un montant ajouté aux droits de cotisation à un REER d’une personne lorsque celle-ci cesse de participer à un RPA[3]. Dans le contexte de ce type de RPA, le FER se limite au montant des cotisations patronales auquel la personne n’a pas droit lorsqu’elle cesse de participer au RPA. Autrement dit, le FER est le montant des cotisations patronales non acquises lorsqu’une personne cesse de participer au RPA[4].
+[13] Au moment où M. Qu a cessé de participer au RPA de la TSX, aucun montant auquel il n’avait pas droit en date de sa cessation d’emploi n’avait été inclus dans ses droits à pension. Lorsque M. Qu a arrêté de participer au RPA de la TSX le 12 mars 2021, ses droits lui étaient intégralement acquis[5].
+Position de M. Qu
+[14] Dans ses arguments, M. Qu s’est appuyé sur un nouveau concept, qu’il a appelé le FE [traduction] « prévu » ou anticipé. Il s’agit d’une notion qui n’existe pas en vertu de la Loi ou du Règlement.
+[15] Selon la théorie de M. Qu, le montant qu’il pouvait initialement déduire à titre de cotisation à un REER pour 2021 était le montant du plafond de cotisation à un REER pour 2021 de 12 175 $, mais il fallait y ajouter la différence entre son FE « prévu » ou anticipé de 16 692 $ et son FE réel de 3 505 $ pour 2021.
+Analyse et conclusion
+[16] La théorie proposée par M. Qu est remarquablement créative, mais elle n’a aucun fondement dans la Loi ni dans le Règlement. La notion qui s’en rapproche le plus serait la notion de FER, mais les crédits obtenus par M. Qu lui étaient intégralement acquis lorsqu’il a cessé de participer au RPA de la TSX le 12 mars 2021. Comme les crédits obtenus par M. Qu lui étaient intégralement acquis à ce moment-là, il n’avait droit à aucun FER lorsqu’il a cessé de participer au RPA de la TSX.
+[17] Comme l’a établi le ministre, M. Qu pouvait déduire 12 175 $ à titre de cotisation à son REER pour 2021. Son appel sera donc rejeté sans dépens.
+Signé à Toronto (Ontario), ce 23e jour d’octobre 2024.
+« David E. Spiro »
+Le juge Spiro
+RÉFÉRENCE :
+2024 CCI 138
+NO DE DOSSIER DE LA COUR :
+2023-812(IT)I
+INTITULÉ :
+BAODONG QU c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE
+Le 13 mars 2024 – observations écrites reçues des parties les 24 juin 2024, 19 juillet 2024 et 25 juillet 2024
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Spiro
+DATE DU JUGEMENT :
+Le 23 octobre 2024
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimé :
+Me Mélia Muboyayi et Me Christian Cheong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S/O
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Paragraphe 8301(1) du Règlement de l’impôt sur le revenu, C.R.C., ch. 945 (le « Règlement »).
+[2] Paragraphe 146(1) de la Loi de l’impôt sur le revenu.
+[3] Paragraphe 8304.1(14) du Règlement.
+[4] Paragraphe 8304.1(4) du Règlement.
+[5] Transcription, p. 25, lignes 24-28.

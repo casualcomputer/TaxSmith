@@ -1,0 +1,192 @@
+Title: Labbé v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26738/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-286-26738-labb-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-06-09
+
+# Labbé v. The Queen
+
+- Citation: 2006 TCC 286
+- Decision date: 2006-06-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3419, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Labbé v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-09
+Neutral citation
+2006 TCC 286
+File numbers
+2004-3849(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3849(IT)G
+BETWEEN:
+LUC LABBÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+__________________________________________________________________
+Appeal heard on May 12, 2006, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bruno Levasseur
+__________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 1999, 2000, and 2001 taxation years is dismissed, with costs to the Respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of June 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 19th day of February 2008.
+Brian McCordick, Translator
+Citation: 2006TCC286
+Date: 20060609
+Dockets: 2004-3849(IT)G
+BETWEEN:
+LUC LABBÉ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This appeal pertains to the 1999, 2000 and 2001 taxation years.
+[2] Essentially, the question to be decided is whether the Respondent properly imposed a penalty on income from payments under a contract between the Appellant and Itochu International ("Itochu") for the 1999, 2000 and 2001 taxation years, and on a total of $828 in personal expenses of the Appellant paid by Aalexx International, a corporation controlled by the Appellant, in the course of the 2001 taxation year.
+[3] In establishing and confirming the penalties concerning the 1999, 2000 and 2001 taxation years on December 15, 2003, the Minister of National Revenue ("the Minister") relied on the following assumptions of fact:
+[TRANSLATION]
+10 (a) The Appellant is a businessman and has a degree in agronomy. He specializes in the marketing of soybeans. (admitted)
+(b) The Appellant is the sole shareholder of Aalexx International Inc. ("Aalexx"). (admitted)
+(c) On February 17, 2003, the Appellant was notified that Aalexx would be audited. (admitted)
+(d) At the time of the audit, Guy Morin, the auditor, asked the Appellant, by letter dated February 17, 2003, to make available to him a list of books and records concerning Aalexx, along with the Appellant's personal banking records. (admitted)
+(e) A part of the Appellant's personal banking records were missing from the documents submitted to the auditor. (denied)
+(f) The missing banking records included amounts received from Itochu International Inc. ("Itochu") between June 1, 1999, and December 31, 2002. (denied)
+(g) In 1999, the Appellant entered into a agri-food consulting services contract with Itochu. (admitted)
+(h) Itochu's head office is in New York, USA. (denied)
+(i) Pursuant to the contract between Itochu and the Appellant, the Appellant was to perform research and inform Itochu of developments in the North American soy-based product market. (admitted)
+(j) The contract between Itochu and the Appellant was renewed until December 31, 2002. (admitted)
+(k) Itochu paid the Appellant monthly, in U.S. currency, by bank transfer or wire. (denied)
+(l) Solely in the expectation of receiving bank transfers or wires from Itochu, the Appellant opened personal bank account No. 450‑6192 at the Royal Bank of Canada. (denied because of the word "solely")
+(m) The Appellant received the following amounts from Itochu:
+1999
+2000
+2001
+C$32,643
+C$38,022
+C$18,671
+(admitted)
+(n) During the years in issue, the Appellant had his tax returns prepared by an accounting firm. (admitted)
+(o) The Appellant failed to include, in his income, the amounts received from Itochu during the 1999, 2000 and 2001 taxation years. (denied)
+(p) In addition, Aalexx paid various personal expenses of the Appellant totalling $1080 during the year 2001. (no knowledge)
+11 In confirming the reassessment in respect of the 2000 taxation year, and making a reassessment on July 29, 2004 in respect of the 2001 taxation year, the Minister of National Revenue made the following factual assumptions:
+(a) The facts set out in subparagraphs 10(a) through (p) above. (admitted)
+(b) The Appellant's personal expenses paid by Aalexx during the 2001 taxation year total $828, which is $252 less than the amount assumed in making the reassessment of December 15, 2003. (admitted)
+12 In making a reassessment concerning the 1999 taxation year on December 15, 2003, outside the normal assessment period, and in confirming it, the Minister of National Revenue considered the following facts:
+(a) The facts set out in subparagraphs 10(a) through (o) above. (admitted)
+(b) Following his university studies in agronomy and a one-year internship, the Appellant found employment as a broker for Maple Leaf Canada in Toronto, where he acquired expertise in global soybean marketing. (admitted)
+(c) The Appellant held this job as broker at Maple Leaf Canada for eight years. (admitted)
+(d) In order to do this brokerage work in the area of international trade, the Appellant had to know the rules that pertain to export, customs formalities in importing countries, and obtaining the necessary certificates and authorizations. (denied)
+(e) In order to complete the documents required by governments, the Appellant had to be familiar with the statutory provisions applicable to international trade activities, including tax provisions. (denied)
+(f) In May 1995, the Appellant decided to settle in Quebec and establish Aalexx in order to pursue his activities in the same field of expertise and offer agri-food consulting services. (admitted)
+(g) For the purposes of his work for Aalexx, the Appellant had to have the up‑to‑date legal knowledge required to do business in the field of international trade. (denied)
+(h) The amount of income that the Appellant failed to report for the years in issue is significant. (no knowledge)
+(i) The Appellant never intended to report the income from his contract with Itochu, even after the termination of his contract in December 2002. (denied)
+(j) The existence of the contract between Itochu and the Appellant was revealed by the Appellant's representative after the tax audit was undertaken in February 2003. (denied)
+[4] The Appellant admitted certain facts, including the facts set out in subparagraphs 10(a), (b), (c), (d), (g), (i), (j), (m) and (n), subparagraphs 11(a) and 11(b), and subparagraphs 12(a), (b), (c) and (f).
+[5] Since the appeal is essentially about whether penalties could lawfully be imposed in respect of the years in issue, the Respondent, through auditor Guy Morin, adduced evidence that she thought was relevant to justify the penalties under appeal.
+[6] For his part, the Appellant represented himself; the purpose of his testimony was to show that the penalties were neither warranted nor appropriate.
+[7] The facts are relatively straightforward.
+[8] On February 17, 2003, the Respondent sent a letter to Aalexx International, a corporation held solely by the Appellant, clearly setting out all the documents and information that the Appellant was to assemble so that the audit, which began with a visit to the Appellant's place of business, could proceed. The request in question, produced as Exhibit I-2, is worth reproducing:
+[TRANSLATION]
+February 17, 2003
+AALEXX INTERNATIONAL
+. . .
+Attention: Mr. Luc Labbé
+Re: 2001 and 2002 income tax returns
+Further to our telephone conversation of February 17, I hereby confirm that I will be visiting your place of business on February 24, 2003.
+The purpose of the visit is to examine your accounting books and records and obtain any other relevant information on your income tax returns. In this regard, please make all the applicable records for the 2000 and 2001 years available to me, including:
+· Trial balance, adjusting entries and spreadsheet
+· Minute books of all the corporations in the group
+· Revenue journal, expense journal and general ledger
+· List of accounts receivable and accounts payable
+· Cancelled cheques along with the bank statements
+· Sales and purchase invoices
+· Shareholders' personal bank accounts
+· Organization chart of the group's corporations
+The duration of the audit will depend on the state of your books, the size and complexity of your business and your cooperation. I will keep you informed of the progress of the audit throughout.
+If appropriate, I will provide you with any audit adjustment proposal, in which case you will have 30 days to make representations, and I will be pleased to discuss any areas of disagreement.
+Enclosed is a leaflet entitled "What You Should Know About Audits". I encourage you to read it so that we can discuss it when I visit. Also enclosed is Information Circular 78-10R3, Books and Records Retention/Destruction.
+If you have any questions in preparation for this visit, please contact me at (418) 649-4993.
+. . .
+[9] During the audit, the Appellant gave the auditor information about two accounts with the Royal Bank of Canada.
+[10] Guy Morin began the audit forthwith. On March 5, 2003, Mr. Morin got a call from Mr. Dagenais, the tax lawyer who represented the Appellant. He asked to meet with Mr. Morin, and an appointment was set up for March 6, 2003.
+[11] New facts were brought to the auditor's attention at that appointment, including a contract with Itochu International and a third bank account at the Royal Bank of Canada.
+[12] Following these revelations, auditor Guy Morin met with the Appellant again, at his office, on March 13. There, the Appellant confirmed the information imparted by his representative Mr. Dagenais, the tax lawyer.
+[13] Surprised by these new facts, the auditor decided to research more thoroughly; he noticed that the information that was provided did not cover the 1999 taxation year, so he immediately obtained all the information from the Royal Bank of Canada that was connected with the information supplied by Mr. Dagenais.
+[14] The auditor also says that he noticed that the corporation had paid a substantial amount of personal expenses.
+[15] These included expenses related to landscaping, trips abroad, and meals. The Appellant did not deny these facts.
+[16] In short, the auditor submitted that the penalties were justified and appropriate having regard to the Appellant's considerable knowledge, his experience with transactions, his studies, his expertise and his skills as a businessman with broad knowledge and understanding. In other words, the auditor submitted that by reason of the facts, circumstances and context, and in view of the Appellant's experience, skills and knowledge, he had concluded that the conditions for the imposition of the penalties had been fulfilled.
+[17] At one point, the Appellant, a high-level employee of Maple Leaf Canada in Toronto, Ontario for almost ten years, decided to go his own way in the soybean business. He left Ontario and settled in Quebec, where he started up and developed a business that would enable him to profit from his knowledge and experience in the local and international soybean trade.
+[18] Over the years that he worked for Maple Leaf Canada, the Appellant built a relationship of trust with Itochu's management, and, when he decided to leave Maple Leaf, he entered into a contract with Itochu under which he agreed to be a consultant or resource person who would keep his Japanese clients informed about the state of the North American soybean market.
+[19] The Appellant claimed that his clients were particularly concerned about the debate regarding GMOs (genetically modified organisms). Since the Japanese are huge consumers of soybeans and Japan is a major market for producer nations such as Canada, Itochu could look to the Appellant, a specialist on the spot, to keep them informed about the various developments in this area.
+[20] The Appellant explained that he understood that the contract essentially provided for advances paid for information that he was to transfer to the other party's satisfaction.
+[21] According to the Appellant, he risked having to reimburse all the money he obtained if the recipients of the information expressed their dissatisfaction.
+[22] This rather unusual understanding and interpretation of the terms of the contract supposedly led him to open a dedicated U.S.‑dollar account that would enable him to maintain a parallel accounting, separate from his regular operations, purportedly in case he would later have to reimburse the amounts he received.
+[23] When asked to explain this interpretation of the terms of the contract, which were actually quite clear — terms whose wording and meaning is not open to such a conclusion or interpretation — the visibly uncomfortable Appellant tried to make arguments in support of his assessment. Among other things, he referred to professional misconduct, trickery, negligence, and all kinds of grievances and shortcomings that had absolutely nothing to do with the terms of the contract, but rather were in the nature of breaches of his legal obligation which did not intrinsically have anything to do with the terms of the contract. If such an approach were accepted, it would have the effect of suspending the taxation of income from professional fees until the expiry of the limitation period of an action in negligence or otherwise. This is thoroughly preposterous and completely unreasonable, not to mention an implausible explanation or excuse.
+[24] In fact, the contract was automatically renewed a few times, and the Appellant said that his contractual relationship with Itochu International stemmed from the bond of trust that he built with the management of that company while employed by Maple Leaf Canada, a contention that tends to contradict the logic of his arguments.
+[25] Describing himself as someone who had developed exceptional expertise on soybeans, the Appellant said that he was fundamentally honest and in good faith, and had very little if any knowledge of tax law, which required him to retain the services of people who could counsel him on the subject.
+[26] A dynamic and prosperous businessman and an excellent father, the Appellant argued that he had been careless, clumsy, and clearly somewhat negligent. He claimed that he never intended to hide a thing, and that, throughout his life, he had a social conscience, was a good corporate and individual citizen, and honoured all his tax obligations.
+[27] His explanations about the way in which his file had been handled were nebulous to say the least: he said that he gave the accountants the contractual documents, which he had apparently never spoken about before since the contract had ended some months earlier.
+[28] I, however, believe that the Appellant quickly understood the gravity of his situation and sought counsel forthwith on how to proceed. His advisors clearly chose a pre-emptive strategy aimed at softening the blow from the eventual discovery of the secret account.
+[29] This was clearly sound advice, because the deadline for filing the tax return for the 2003 taxation year had not yet passed. Thus, the Appellant thought that he could probably avoid the imposition of penalties for the 2000 and 2001 taxation years and the lack of an assessment for 1999.
+[30] The explanations provided by the Appellant, namely that the U.S.‑dollar account was not secret and was not referred to in the request of February 17, 2003, are neither credible nor plausible, especially since it was an active account on which transactions involving relatively large amounts were made.
+[31] Moreover, if the Appellant had been so convinced that his arguments regarding the interpretation of the contract were sound, the natural thing for him to do would have been to disclose the account in question at the same time as the other two accounts, and thereupon provide his interpretation of the account. This would have been a prudent, wise and entirely reasonable approach for someone with the Appellant's capacities to adopt. Instead, the representations were made by the Appellant's legal representative and accountant several weeks later, after the auditor’s visit and analysis of the records.
+[32] At the time that the contract was signed, the Appellant had nine years of business dealings with Itochu behind him as an employee of Maple Leaf Canada. Japan is an extremely important market for soy — so important, in fact, that the Appellant said it represented 70% of the market for that product.
+[33] The facts, the explanations and the overall context support only one conclusion: the Appellant obtained a special contract under which he was essentially paid for his experience, expertise and knowledge.
+[34] Given this special characteristic, I believe that the Appellant knew very well that this was a contract of limited duration, and that the monetary consideration would probably never show up anywhere, given where the other party to the contract was based.
+[35] Indeed, how could an informed, prosperous, dynamic businessman, with highly developed knowledge in a rather specific economic field, claim that his fees could be the subject of a claim for reimbursement? Such an interpretation is neither reasonable nor supported by anything in the contract. In fact, such an explanation is totally irreconcilable with the Appellant's knowledge and experience. Whether an excuse is accepted will depend on its reasonableness, and the tests of reasonableness can vary depending on the status and knowledge of the person making the excuse.
+[36] The excuse given by the Appellant in the case at bar is simply ludicrous and has no basis in fact or in the terms of the contract.
+[37] A very careful businessman, he simply decided to try his luck and refrain from reporting the income from this private contract with a foreign company. He was caught, and that made it imperative for him to find reasons and justifications for something that would initially seem almost impossible to explain.
+[38] The Appellant undoubtedly assumed that the Respondent's burden of proof was similar to the burden applicable to criminal cases, namely proof beyond a doubt, and tried to depict himself as a rather naïve and negligent man, hastening to specify that this was not gross negligence, but at most a minor breach or a wholly involuntary mistake or negligence. And this, it was submitted, was a sufficient basis to conclude that the Respondent did not prove her case beyond a doubt.
+[39] First of all, that is not the nature of the burden of proof in the instant case, and secondly, the Respondent showed persuasively that the Appellant acted in such a way that the requirements of subsection 163(2) of the Act were met and that the penalties were fully warranted under the circumstances; this is the case for the 1999 taxation year, in respect of which, once again, the Respondent discharged the burden of proof by showing unequivocally, and above all on a strong preponderance of the evidence, that the Appellant had clearly and intentionally planned to conceal his income from the Japanese company.
+[40] I do not accept the Appellant's explanation that he might ultimately have to reimburse the amounts received. I reject his arguments because of his own explanations regarding the creation of the account, the use of its contents, and the failure to declare it despite the formal demand sent to him, and because of his experience and knowledge, the way in which everything was disclosed, and the fact that his interpretation of the contract that he signed with the company is completely unsustainable.
+[41] For all these reasons, the appeal is dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 9th day of June 2006.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 19th day of February 2008.
+Brian McCordick, Translator
+CITATION: 2006TCC286
+COURT FILE NO.: 2004-3849(IT)G
+STYLE OF CAUSE: Luc Labbé and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: May 12, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: June 9, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Bruno Levasseur
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

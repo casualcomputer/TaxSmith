@@ -1,0 +1,313 @@
+Title: 2741-2568 Quebec Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/180616/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-207-180616-2741-2568-quebec-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-09-22
+
+# 2741-2568 Quebec Inc. v. The Queen
+
+- Citation: 2016 TCC 207
+- Decision date: 2016-09-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2893, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2741-2568 Quebec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-09-22
+Neutral citation
+2016 CCI 207
+File numbers
+2011-3640(GST)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-3640(GST)G
+BETWEEN:
+2741-2568 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[ENGLISH TRANSLATION]
+Appeal heard on January 26 and 27, 2015
+and continued on December 3, 2015, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Benoît Aubertin
+Counsel for the Respondent:
+Christian Boutin
+JUDGMENT
+The appeal from the reassessment by the Quebec Minister of Revenue as an agent of the Minister of National Revenue, under Part IX of the Excise Tax Act, notice of which is dated October 18, 2011, bearing no distinctive number, for the period from March 1, 2006, to February 28, 2009, is allowed with costs and the reassessment is vacated, the whole in accordance with the attached reasons for judgment.
+The parties will have until October 24, 2016, to make their submissions to the Court regarding costs, unless they succeed in resolving the issue themselves by then.
+Signed at Ottawa, Canada, this 22nd day of September 2016.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 18th day of January 2017.
+François Brunet, Revisor
+Citation: 2016 TCC 207
+Date: 20160922
+Docket: 2011-3640(GST)G
+BETWEEN:
+2741-2568 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a reassessment issued by the Quebec Minister of Revenue as an agent of the Minister of National Revenue (the Minister) under Part IX of the Excise Tax Act, R.S.C., 1985, c. E15, as amended (the ETA), notice of which is dated October 18, 2011, bearing no distinctive number, for the period from March 1, 2006, to February 28, 2009 (the relevant period).
+[2] The amounts assessed under the reassessment of October 18, 2011, are as follows:
+Adjustments to calculation of the reported net tax
+$16,882.82
+Late remittance penalty
+$134.23
+Arrears interest
+$5,467.91
+Total amount due
+$40,791.59
+[3] In determining the appellant’s assessment at issue, the Minister relied on, among other things, the following conclusions and assumptions of fact, set out in paragraph 27 of the Reply to Notice of Appeal:
+a) the facts admitted above;
+b) the appellant was a "registrant" for the purposes of Part IX of the ETA;
+c) the appellant operates a restaurant licensed to serve alcohol, with a seating capacity of 60 in the dining room and 66 on the patio, under the business name "RESTOPUB LA BAVIÈRE," in St-Simon-de-Bagot, Quebec;
+d) as part of its business operations, the appellant also provides breakfast that includes table service;
+e) the appellant’s financial year begins on March 1 of a given year and ends on February 28 or 29 of the following year;
+f) all of the supplies made by the appellant in the operation of the restaurant, a commercial activity, during the relevant period constitute taxable supplies for which a tax, namely GST, at a rate of 7% [prior to July 1, 2006], and 6% [after June 30, 2006] or 5% [beginning January 1, 2008] on the value of the consideration for the supply, was payable by the appellant’s recipients, and the appellant had to collect this tax;
+g) the appellant’s books and records submitted to the Minister when required to do so, at the time of the audit, were incomplete and inaccurate in that numerous discrepancies were identified when the Minister reconstructed the total amount of the supplies made by the appellant through several indirect audit methods for the relevant period;
+h) an analysis of various elements supplied by the appellant or its suppliers, such as bank deposits, confirmed and claimed purchases, hours worked, placemats used, are all elements for which a significant discrepancy was detected in relation to the sales reported in the appellant’s books and records;
+i) the Minister considered the sales of 3,228 meal bills on 50 randomly targeted days, over a period of 166 days;
+j) the total recorded sales for the 3,228 meal bills amount to $32,655.79;
+k) ten (10) items on these meal bills were selected: breakfast sausages, bagels, beer, wine by the glass or bottle, hamburger buns, paninis, pizza dough balls, cheese sticks and chicken wings (the targeted foods);
+l) the audit revealed that 1,676 of the targeted foods had been sold on the 3,228 recorded meal bills, generating a ratio of [$]19.48 [$32,655.79/1,676];
+m) however, there is an imbalance between the quantities of the targeted foods purchased by the appellant and the quantities of these same targeted foods for which the appellant made the supply, namely:
+3,228 meal bills
+quantities of
+targeted foods purchased
+8,856.90
+quantities purchased available
+for resale
+targeted foods
+2007
+2008
+2009
+breakfast sausages
+(divided by 2)
+7,713.64
+6,706.43
+7,820.80
+bagels
+1,365.12
+1,054.08
+1,146.24
+beers
+3,849.12
+4,858.92
+3,884.76
+wine (glass) in ml
+1,322.22
+1,907.78
+1,095.56
+wine (bottle)
+571.23
+445.50
+462.33
+hamburger buns
+1,178.52
+913.17
+843.63
+paninis
+1,176.00
+1,234.80
+1,352.40
+pizza dough balls
+862.40
+2,175.60
+2,410.80
+cheese sticks
+(divided by 6)
+143.73
+169.87
+130.67
+chicken wings
+(divided by 8)
+79.20
+129.60
+100.80
+total units
+[57,104.91]
+18,261.19
+19,595.74
+19,247.98
+n) the Minister multiplied the total quantities of the targeted foods purchased by the appellant mentioned in the previous paragraph, for which it made the supply in one way or another, by the $19.48 ratio indicated in paragraph l) above for each of the three (3) financial years ending on the last day of February of 2007, 2008 and 2009, to obtain the amount of reconstructed taxable supplies made;
+o) the total amount of taxable supplies made by the appellant and reconstructed by the Minister for the relevant period is $1,112,403.69, i.e. $355,727.89 for the fiscal year ending on February 28, 2007 [18,261.19 units x $19.48], $381,725.10 for the fiscal year ending on February 29, 2008 [19,595.74 units x $19.48], and $374,950.69 for the fiscal year ending on February 28, 2009 [19,247.98 units x $19.48];
+p) the Minister applied a 5.7% reduction to the total amount of the taxable supplies made by the appellant and reconstructed by the Minister for the fiscal years ending on February 28, 2007, and February 29, 2008, and a 2.85% reduction to the fiscal year ending on February 28, 2009, in light of price changes that occurred in December 2008, thereby reducing the reconstructed taxable supplies to a total amount of $1,059,682.77 as follows:
+Fiscal year-end
+Reconstructed sales (before price changes)
+Price
+changes
+Reconstructed sales (after price changes)
+02-2007
+$355,727.89
+94.30%
+$335,451.40
+02-2008
+$381,725.10
+94.30%
+$359,966.77
+02-2009
+$371,950.69
+97.15%
+$364,264.60
+Total
+$1,112,403.69
+$1,059,682.77
+q) for the period at issue, the appellant indicated in its financial statements, or entered in its books and records, sales in the amount of $768,239.80, a difference of $291,442.97, i.e. $83,110.44 for the fiscal year ending on February 28, 2007 [$335,451.40 — $252,341.00], $114,165.53 for the fiscal year ending on February 29, 2008 [$359,966.77 — $245,801.20] and $94,167.00 for the fiscal year ending on February 28, 2009 [$364,264.60 — $270,097.60];
+r) the appellant filed its net tax returns with the Minister, in which, for the period at issue, it reported an overall amount of GST collected or collectible of $43,989.81 in its net tax calculation;
+s) consequently, when computing its net tax for the relevant period, the appellant did not report an amount of $16,882.82 as GST collected or collectible, nor did it indicate in its financial statements or record in its books and records, additional sales in the amount of $291,442.97;
+t) the appellant therefore owes the Minister the amount of the adjustments made to its net tax reported for the period at issue, plus interest and penalties.
+[4] This case raises the following issues:
+a) did the appellant failed to include in its net tax calculations that it reported to the Minister for the period at issue the goods and services tax (GST) that it collected or was required to collect in the amount of $16,882.82?
+b) was the Agence du revenu du Québec (ARQ) justified in using an estimate method when auditing the appellant’s business?
+c) is the alternative method used by the ARQ to audit the appellant’s business reliable and representative?
+d) did the ARQ make errors in determining that the appellant had not reported all of its sales during the period at issue.
+Was the use of the alternative method justified? [5] According to the ARQ auditor, the appellant’s accounting documents were in good order, but an analysis of the indices used in the audit supported the finding that there were discrepancies between the reconstructed sales and the reported sales.
+[6] In particular, the indices consisted of the following:
+— a comparison of the purchases recorded in the books with the purchases confirmed by suppliers;
+— a computation of the reconstructed sales based on the meal bills; and
+— a computation of the reconstructed sales based on the employee hours worked.
+[7] Initially, the auditor noted discrepancies of around 43% between the reported sales and the purchases made from suppliers. In terms of objections, the purchases confirmed with the suppliers and those recorded in the books were reversed by the appellant’s representatives through lists of invoices confirmed by each of the suppliers and by the production of the missing invoices recorded in the books. As a result, all of the purchase invoices were provided and accepted by the auditor so that the purchases recorded in the books equal the purchases confirmed with the suppliers.
+[8] However, the audit revealed that vegetable purchases represented only 3.3% of the total purchases and that they had been paid in cash, whereas the industry rate for vegetable purchases is usually between 8% and 9%. The appellant’s representatives claimed that no fruit and vegetable invoices were missing and that all of the fruit and vegetables had been purchased at Dessaules IGA and a few other grocery stores. The appellant’s representatives also indicated that the purchases made at Dessaules IGA were all combined with no specific breakdown of fruit and vegetables.
+[9] The auditor analyzed the meal bills to determine whether there was a discrepancy between the revenue reported and the revenue based on the sales ratio by meal bill. The sample selected by the auditor was comprised of 50 days between September 14, 2008, and February 28, 2009, inclusively, i.e. over a period of 166 days corresponding to the final days of the appellant’s 2009 fiscal year. That period was selected because the daily menus had not been saved prior to September 14, 2008.
+[10] As part of that exercise, the auditor analyzed 3,328 bills for 4,325 customers, which totaled $32,655 in sales. Since the analysis demonstrated that 1,676 targeted items had been sold on the 3,328 recorded meal bills, a sales ratio of $19.48 per item was established. The auditor also noted that the appellant had purchased too many invoice booklets based on the number of invoices issued.
+[11] The index based on the reconstructed sales according to the employee hours worked showed a significant discrepancy between the reported sales and the reconstructed sales. The number of hours worked was determined on the basis on information provided by Ms. Bernier, the appellant’s sole shareholder, in response to two questionnaires presented by the auditor in June 2009. According to the questionnaires, the reconstructed sales in relation to the hours worked by the employees and by the shareholder would have been $546,974 for June 2009, and $446,863 for October 2009, on the reported sales of $270,090 in 2009. On the basis of the hours worked according to the pays, the reconstructed sales would have exceeded the reported sales by $90,687. However, since Ms. Bernier was the cook at the restaurant and did not draw a salary, the difference of $90,687 would have been reduced to only $3,757 had the ARQ taken this fact into account. Indeed, the ARQ believed that Ms. Bernier had been paid for her hours worked at the restaurant.
+[12] The appellant’s representatives tried to reverse the indices used by the auditor to show that the appellant had no unreported income. They specifically suggested using the placemat calculation to confirm the reported sales. The appellant’s representatives claimed that the appellant had purchased approximately 110,000 placemats from two suppliers during 2007, 2008 and 2009. At the outset of the hearing, counsel for the respondent acknowledged that the appellant had purchased 110,000 placemats. On the basis of calculations by the appellant’s representatives, 102,600 placemats out of the 110,000 placemats purchased by the appellant had apparently been used by the appellant’s customers, assuming a ratio of one placemat per customer. The appellant’s representatives claimed that all of the appellant’s sales had been reported, which means that the placemats used based on sales are relatively equal to the number of placemats based on the appellant’s purchases, assuming an inventory of 2,000 placemats and an approximate placemat loss percentage of 5%.
+[13] Even though, at first glance, the placemat calculation is logical when used conservatively, the auditor did not accept that method to confirm the reported sales because it was not reliable enough in this case. The unreliability of that method arises from the fact that the appellant did not use placemats on the restaurant’s outdoor patio, for which the appellant had a permit for a seating capacity of 66. According to Ms. Bernier, the restaurant only used 35 seats on the patio in question, from the beginning of May to the end of September. However, Ms. Bernier confirmed that she used plastic sheets on the tables on the patio instead of placemats.
+[14] Even though the difference between the bank deposits and the sales transactions did not justify reassessments against the appellant, the auditor nevertheless decided to use an alternative method to reconstruct the appellant’s sales, in view of the discrepancies identified using the above-mentioned indices.
+Alternative method used [15] The alternative method used by the auditor is based on a statistical sampling, which consists of establishing a sales ratio (in $) per unit selected that is applied to the total purchases (quantities) of the selected items. The ratio multiplied by the quantities of the selected items available for resale produce the reconstructed sales.
+[16] Instead of conducting a survey over three years, the auditor conducted a survey over 166 days, from Sunday, September 14, 2008, to February 28, 2009, in order to identify the daily specials. The computer program randomly selected 50 days during the 166-day period. All of the meal bills for those 50 days were analyzed.
+[17] The total sales were constructed from the Monday to Friday breakfasts (63%), the daily specials at lunch, and evening meals from the main menu.
+[18] The following 10 items were selected for the survey: hamburger buns, paninis, chicken wings, breakfast sausages, bagels, pizza dough balls, cheese sticks, bottles of beer, and wine. The breakfast sausages were the highest-selling item, while beer and wine represented 15 to 17% of the sales.
+[19] For her analysis, the auditor used the list of confirmed purchases for each of the selected products, as well as the quantities purchased, and she calculated the losses reported by Ms. Bernier in two questionnaires, which included consumption by the owner and her spouse and employees, in addition to losses of use, mainly attributable to the preparation of daily menus in advance.
+[20] According to the statistical sampling over 50 days, 3,228 meal bills were counted, which generated sales of $32,655.79. These meal bills included 1,458,583 units of the 10 selected items, and each unit sold generated sales of $22.3887, i.e. the sales divided by the quantities sold. The purchases for the period surveyed were $191,089 (8,856.9 units x $22.3887).
+[21] Since meal prices changed at the beginning of September 2008, and the survey was carried out on the basis of the new prices, a price increase percentage had to be applied to each of the years. The auditor therefore applied an increase percentage of 5.7% per year for 2007 and 2008, and 5.7% to the six months in 2009.
+[22] According to the auditor’s analysis, the differences between the reported sales and the reconstructed sales for each of the years are as follows:
+2009:
+$165,506.46
+2008:
+$182,012.80
+2007:
+$141,112.41
+Total:
+$488,631.67
+At the objection stage [23] At the objection stage, the appellant’s representatives claimed that the auditor had made errors in calculating the quantities of the items selected, purchased and sold. The objections officer agreed to make corrections to the auditor’s calculations providing that the errors were supported by documentary evidence. The loss percentages per selected item were not increased due to a lack of evidence and a lack of a record of losses.
+[24] In view of the submissions of the appellant in terms of an objection, the total quantity of the selected items sold during the period surveyed changed from 1,458.583 to 1,676, which lowered the per-item sales ratio from $22.3887 to $19.48.
+[25] On the basis of the revised results, the differences between the reported sales and the reconstructed sales dropped by 40%, resulting in the following amounts for each of the years:
+2009:
+$94,167.00
+2008:
+$114,165.53
+2007:
+$83,110.44
+Total:
+$291,442.97
+[26] In addition, the penalties imposed for gross negligence were cancelled on the following grounds:
+— the appellant’s accounting books were found to be in good order and reliable;
+— the auditor’s work contained errors;
+— the appellant and its representatives were very cooperative; and
+— the appellant’s tax returns were filed within the required timeframes, with no missing information.
+Expert opinions [27] Mr. David Haziza, an Associate Professor with the Université de Montréal Mathematics and Statistics Department, prepared an expert report and testified at the hearing on behalf of the appellant. Professor Haziza is a sampling specialist who has served as an expert on restaurant consumption tax cases about ten times.
+[28] First, Professor Haziza explained the nature of the so-called ratio method, used by the ARQ to estimate the appellant’s total sales. The ARQ drew a sample of 50 days over a 166-day period, and selected 10 items for which the number of items purchased was known.
+[29] According to Professor Haziza, the ratio estimator is appropriate when:
+a) the relationship between the interest variable (here, the sales) and the auxiliary variable (here, the number of items) is linear;
+b) the above relationship passes through the origin (that is, through point 0.0); and
+c) the correlation between the two variables is high.
+[30] If the above-mentioned characteristics are not met, the ratio estimator may be affected by bias and/or considerable variation. In such a case, the conclusions from the statistical analysis are at high risk of being erroneous.
+[31] Professor Haziza also reiterated that the correlation between two variables is a measurement whose values lie between zero and one. A correlation equal to one indicates that the relationship between the two variables is perfect, while a correlation near zero is an indication that there is no relationship between the two variables.
+[32] According to Professor Haziza’s analysis, the estimation procedure used by the ARQ might lead to bias because the underlying characteristics of a ratio estimation procedure are not met in this case, on the following grounds:
+a) the relationship between the two variables does not pass through the origin (that is, through point (0.0));
+b) zero items are sold in a vast majority of the meal bills sampled (3,228 meal bills in total). In fact, 70.63% of the meal bills do not include any of the selected items;
+c) in 91.85% of the meal bills sampled, the number of selected items is equal to zero or one.
+[33] According to Professor Haziza, corrections should have been made to the estimation method used by the ARQ, such as stratification, or the ARQ should have even used another alternative method, such as regression.
+[34] Professor Haziza also analyzed the estimation method proposed by the appellant’s representatives, which consisted of using the number of placemats as the selected item, instead of the 10 items chosen by the ARQ.
+[35] According to him, the number of placemats is a more suitable variable than the number of items selected by the ARQ in the context of estimating with a ratio method, because it does not depend on the days of the week chosen. In this case, the relationship between sales and the number of placemats seems to indicate that the relationship passes through the origin and the correlation between the sales and number of placemats variables is approximately 59.2%, whereas it was only 50.5% between the sales and the number of items variables used by the ARQ.
+[36] According to the ARQ sampling, the total sales amounted to $32,655, for a total number of 4,325 placemats (between February 2007 and February 2009, 110,000 placemats were purchased by the appellant). On that basis, the sales ratio would have been $7.55 per placemat. From that ratio, the total reconstructed sales would have amounted to around $830,500 for the period from February 2007 to February 2009, while the reported sales for that period are $768,239.80. Applying a loss allocation of 8%, the reconstructed sales would amount to around $764,060, more or less the same as the reported sales.
+[37] Mr. Sylvain Lamy, a statistician at the ARQ, prepared a second assessment report and testified at the hearing on behalf of the respondent. He said that he conducts statistical analyses of files involving restaurants approximately once a year.
+[38] Mr. Lamy agreed with Professor Haziza’s analysis in that the relationship between the sales and the number of items, although it appears somewhat linear, does not pass through the origin and that the correlation is relatively low (50.6%). To resolve this problem, the regression method, as opposed to the quotient method, would have allowed this particularity to be taken into account.
+[39] Although the method used by the ARQ is not perfect, the reconstructed sales of $198,295 used for the 166-day period from September 14, 2008, to February 28, 2009, represents an acceptable order of magnitude for the reconstructed sales. In his view, the results of the 50 days over the 166-day period are very reliable for that period, but arbitrary when applied to previous periods.
+[40] Mr. Lamy also explained that he would not have conducted the assessment through the ARQ’s method. Rather than adding the sales of the 10 selected items, he would have made 10 separate estimates and would have calculated a weighted average based on the purchases or on the significance of the item in the sales. Additional calculations of margins of error would have been required to justify the reliability of the estimate.
+[41] Mr. Lamy also commented on the use of the alternative method based on the placemats proposed by the appellant’s representatives. According to him, it would not be appropriate to rely on invoices from the sample to estimate the amount of sales made per placemat given that, in this particular case, the estimated reporting rates on actual sales vary between 25% and 61.5% depending on the item, which supports the hypothesis that there is underreporting.
+[42] Following Mr. Lamy’s testimony, Professor Haziza returned to the stand to clarify certain points. In his opinion, the reporting rates are low because the sampling included too many Mondays and Tuesdays, namely, a total of 19 instead of 14. According to Professor Haziza, the alternative method used by the ARQ is questionable and debatable on the fact that the sampling is problematic, which increases the instability risk of the ratio. Applying the ratio to previous periods is legitimate insofar as the ratio is stable.
+Analysis
+[43] Counsel for the appellant argued that an alternative audit method could not be used in this case because the appellant’s accounting documents were in good order. The objections officer described the appellant’s accounting, during a discussion with her team leader on January 6, 2011, as follows:
+[translation]
+. . . the books were in due and proper form, we were thinking of deassessing . . .
+[44] Moreover, in her objection report, the officer specifically invoked the following consideration to cancel the penalties imposed for gross negligence:
+[translation]
+Considering the reliable records confirmed through the audit, . . .
+[45] In this context, it is particularly difficult to understand why the alternative audit method was justified.
+[46] According to the objections officer, the alternative audit method was justified due to the discrepancies in the reconstructed sales, according to the indices based on the meal bills and on the employee hours worked. With respect to the discrepancies between the confirmed purchases and the recorded purchases, the audit revealed that the purchases of fruit and vegetables represented only 3.3% of the sales for 2009, whereas the standard industry rate is around 8% to 9%.
+[47] Despite the keeping of the alternative audit method, the amounts assessed were reduced by 40%, thereby demonstrating that blatant errors had been committed during the audit. The penalties for gross negligence were also cancelled, and the ARQ did not issue an assessment for appropriation of funds against Ms. Bernier. However, the loss percentages of 6% for the sausages, and of 4% for the chicken wings, were not increased to 10% for sausages and 5% for chicken wings as claimed by the appellant’s representatives due to a lack of evidence.
+[48] Even though the use of the alternative audit method is debatable in this case, there were still grounds to analyze it.
+[49] Among the 50 days selected, 19 days fell on a Monday or Tuesday, that is, 12 Mondays and 7 Tuesdays. Moreover, only 4 Thursdays were selected.
+[50] On Mondays and Tuesdays, only 2 meals are served because the restaurant is closed for dinner. On Mondays and Tuesdays, practically no alcohol is consumed, whereas a considerable amount of alcohol is consumed on Thursdays. However, 3 of the 10 items selected by the auditor are alcoholic beverages. In addition, 63% of the meal bills analyzed related to breakfast meals served, while only 2 of the 10 items selected are consumed at breakfast, i.e. sausages and bagels.
+[51] In his expert report, Mr. Haziza came to the conclusion that the estimation procedure used by the ARQ might lead to bias and instability since the underlying assumptions of a ratio estimation procedure are not met (see paragraph 32, above).
+[52] In his second assessment report, Mr. Lamy acknowledged that the estimation method used by the ARQ is clearly not perfect and that it would have been preferable to carry out 10 separate estimates to create a weighted average; the estimate would have then been more representative.
+[53] The two experts stated that the estimation method used by the ARQ is flawed, given the overrepresentation of Mondays and Tuesdays, days on which only two meals are served as opposed to three.
+[54] The two experts affirmed that a post-stratification would have been necessary to obtain more reliable results. Using such a post-stratification would have reduced the number of Mondays and Tuesdays selected and increased the number of the other weekdays selected.
+[55] Both experts agreed that the sampling of 50 days is representative for the period of 166 preselected days, but that it cannot be representative of the previous two and a half years.
+[56] The two experts stated that the regression method would have been more suitable. It must be specified at this point that the regression estimate is appropriate when:
+- the relationship between the sales and the number of items is linear; and
+- the correlation between the two variables is strong.
+[57] According to the two experts, the two above-mentioned criteria are met in this case.
+[58] An assessment can be made based on a sampling, such as the one used in this case, but it will be accepted only if it is based on objective, relevant data and if it relies on a representative sampling (see Compagnie de tabac Dynasty Inc. v. L’Agence du revenu du Québec, 2013 QCCQ 12995, at paragraph 45). In this case, the two experts said that they would not have conducted the estimate with the method used by the ARQ.
+[59] Moreover, before resorting to an indirect audit method, the tax authorities first had to have concluded, on reasonable grounds, that the company’s books, records and supporting documentation were unreliable or contained significant inaccuracies or flaws (see Compagnie de tabac Dynasty Inc., cited above, at paragraph 46). However, as we have already seen, the audit confirmed for the objections officer that the appellant’s records were reliable.
+[60] On the basis of the foregoing, I have concluded that not only was the indirect audit method not justified in these circumstances, but the estimation method used by the ARQ was highly questionable.
+[61] For all of these reasons, the appeal is allowed with costs and the reassessment is quashed.
+[62] The parties will have until October 24, 2016, to make their submissions to the Court regarding costs, unless they reach an agreement.
+Signed at Ottawa, Canada, this 22nd day of September 2016.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 18th day of January 2017.
+Certified true translation
+François Brunet, Revisor
+CITATION:
+2016 TCC 207
+COURT FILE NO.:
+2011-3640(GST)G
+STYLE OF CAUSE:
+2741-2568 Québec Inc. and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATES OF HEARINGS:
+January 26 and 27, 2015, and continued on December 3, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+September 22, 2016
+APPEARANCES:
+Counsel for the Appellant:
+Benoît Aubertin
+Counsel for the Respondent:
+Christian Boutin
+SOLICITORS OF RECORD:
+For the Appellant:
+Name:
+Benoît Aubertin
+Firm:
+De Chantal, D’Amour, Fortier, LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

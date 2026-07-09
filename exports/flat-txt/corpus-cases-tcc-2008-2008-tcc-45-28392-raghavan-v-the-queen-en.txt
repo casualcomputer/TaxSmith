@@ -1,0 +1,141 @@
+Title: Raghavan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28392/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-45-28392-raghavan-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-01-18
+
+# Raghavan v. The Queen
+
+- Citation: 2008 TCC 45
+- Decision date: 2008-01-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1911, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raghavan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-01-18
+Neutral citation
+2008 TCC 45
+File numbers
+2004-3716(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2004-3716(IT)I
+2007-933(IT)I
+BETWEEN:
+VASUNDARA RAGHAVAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 3, 4 and 5, 2007 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Gopalachari Raghavan
+Counsel for the Respondent:
+Craig Maw
+Kate Leslie
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of assessments made under the Income Tax Act for the 2001 and 2002 taxation years is dismissed.
+The appeal in respect of an assessment made under the Act for the 2003 taxation year is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to an additional deduction of $2,000.
+Each party shall bear their own costs.
+Signed at Toronto, Ontario this 18th day of January, 2008.
+"J. Woods"
+Woods J.
+Citation: 2008TCC45
+Date: 20080118
+Dockets: 2004-3716(IT)I
+2007-933(IT)I
+BETWEEN:
+VASUNDARA RAGHAVAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal by Vasundara Raghavan concerns the deductibility of amounts claimed as business expenses for the 2001, 2002 and 2003 taxation years.
+[2] In the three assessments that are under appeal, the Minister of National Revenue disallowed all business expenses claimed by the appellant in excess of revenues reported, with the total amounts disallowed being $19,406.79, $26,046.94 and $19,940.00, for each taxation year respectively.
+[3] The respondent submits that the appellant was not engaged in a bona fide business in the relevant years, and that any activity of a commercial nature that might have been conducted was undertaken simply to manufacture tax deductions.
+[4] The appellant, a long-time employee of Bell Canada, seeks to deduct losses in relation to two computer-related businesses that were allegedly operated for her by her husband, Gopalachari (Gary) Raghavan. She testified that she was not personally involved in the ventures except to provide the necessary funding. The appellant’s husband worked in the businesses on a full-time basis without pay during the relevant period, it is alleged.
+[5] The expenses that were purportedly incurred can be divided into four groups: (1) hourly fees paid to the couple’s three children and their former babysitter, (2) computer-related costs and office supplies, (3) expenses to maintain the home, and (4) miscellaneous expenses such as life insurance and professional engineering dues. The fees to the children and babysitter constitute the majority of the expenses claimed.
+Issues
+[6] There is no dispute about the issues to be decided. They are:
+- Were the disallowed expenses made or incurred?
+- If yes, were they made or incurred for the purpose of earning income from a business?
+- If yes, were they reasonable in the circumstances?
+Procedural history
+[7] The appeal comes before me as a re-hearing with respect to the 2001 and 2002 taxation years. The appellant was unsuccessful at the first trial ([2006] 1 C.T.C. 2210), but the decision was reversed on appeal (2007 D.T.C. 5214) and a new trial was ordered.
+[8] At the initial hearing, Little J. focused on the rather startling disproportion between expenses and revenues that were reported over a long period of time and he concluded that the activities did not constitute a business. The decision refers to aggregate net business losses of $164,087 and aggregate revenues of $4,037 reported over the period from 1988 to 2003. I would note, parenthetically, that from a family perspective the reported loss situation may be worse than this because Mr. Raghavan also reported business losses in some of his tax returns.
+[9] In the appeal court decision, Evans J.A. noted that jurisprudence as to what constitutes a business has evolved over time. As a result, a long period of losses is no longer a sufficient reason by itself to conclude that there is no business: Stewart v. The Queen, 2002 D.T.C. 6969 (S.C.C.).
+[10] The new hearing came before me on December 3, 2007, and a similar appeal for the 2003 taxation year was heard at the same time. The hearing lasted three days.
+Background
+[11] The appellant testified that she owned two businesses during the taxation years at issue.
+[12] The first was described as a website consulting business, which involved providing assistance to persons setting up their own websites. It is alleged that the business commenced around 2000 and was wound down after a couple of years when it did not produce sufficient revenue.
+[13] The second business was described as developing an internet-based interactive educational program to be used by children and parents. It was stated that the business is still in the development stage and that it is expected at some point to generate revenues in the form of subscriptions.
+[14] Allegedly, these businesses were operated by Mr. Raghavan out of the basement of the family home.
+[15] The appellant’s three children, who were of high school and university age during the relevant period, purportedly were hired on an hourly basis to assist the businesses by providing specific computer-related services assigned by their father.
+[16] It was also stated that the family’s former babysitter, Sudha Kothandaraman, was also engaged to provide services, which were primarily e-mail marketing services, with fees also paid on an hourly basis.
+[17] The children and the babysitter were purportedly paid in cash on an irregular basis in amounts totaling over $61,000 during the taxation years at issue.
+[18] In addition to these fees, modest amounts were claimed for the cost of computers and supplies, and in the 2003 taxation year 30 percent of home-related expenses were claimed as office expenses. Life insurance premiums and Mr. Raghavan’s professional engineering dues were also deducted in the 2003 taxation year.
+[19] On the revenue side, the appellant reported earnings from three customers of the website consulting business during this period, with gross revenues of $3,300.55. The educational program did not have any customers because it was, and still is, in the development stage.
+Discussion
+[20] The appellant introduced a significant amount of evidence over the course of three days. Additional material that was in boxes in the courtroom was referred to but not introduced. Viva voce evidence was provided by the appellant and her husband, the CRA auditor and appeals officer who handled the assessments, and a professor at Seneca College in Toronto who was asked to give expert testimony regarding internet-based businesses.
+[21] The respondent did not call any witnesses.
+[22] I will start with the testimony of the appellant and her husband. Overall I found their testimony not comprehensive or cogent enough to be convincing. It was vague and confusing, and at times implausible.
+[23] None of the Raghavan children testified before me, but the appellant entered into evidence a transcript of the testimony of two of the children that was given at the prior hearing. I also found this testimony to be too vague to be convincing.
+[24] It is noteworthy that the testimony of the Raghavan family was vague not just in certain respects, but in most of the salient details, namely, the nature of the businesses, a description of the work done by the husband, the children and the babysitter, the relationship between the Raghavans and the babysitter, and a description of the services provided for customers.
+[25] The testimony regarding the customers provides an illustration. Mr. Raghavan suggested that the website consulting business had three customers from the United States who were obtained through the e-mail marketing efforts of the former babysitter. No detailed description of the services was provided. As for fees paid by the customers, Mr. Raghavan testified that two of the customers paid cash by coming to his home in Mississauga. No satisfactory explanation was provided for that unusual circumstance. The payment by the purported third customer was also irregular. This was by cheque, but the cheque contained a notation in different handwriting to the effect that the amount was to be deposited in the payee’s bank account. This was also not satisfactorily explained. I did not find any of this testimony to be convincing.
+[26] Another illustration concerns the alleged cash payments to the children and babysitter. No banking records were provided in support of these payments. The appellant testified that she kept some cash in a safe deposit box so that she would not spend the money, but she was vague as to the details. Mr. Raghavan testified that his wife kept some money at home so that banking charges could be minimized. The entire testimony surrounding the alleged payments to the children and former babysitter was far too vague to be believable.
+[27] The appellant tried to diminish the significance of the losses reported in earlier years by suggesting that they related to other businesses. The appellant testified that her husband started the website business around 2000 after he took a course on website design at Seneca College. However, this appears to be inconsistent with Mr. Raghavan’s 1997 income tax return in which he represented that his business activity for that year was “consulting to business on web services.” I was not persuaded by any of this testimony.
+[28] Overall I find the testimony of the appellant and her husband not to be reliable and the testimony of the children to be too vague to be of assistance.
+[29] I now turn to the documentary evidence.
+[30] The appellant provided copies of contracts and invoices as support for the fees allegedly paid to the children and the babysitter. She also provided receipts purportedly issued to the three customers. My impression of all of this documentation is that it easily could have been fabricated. I do not find any of it to be persuasive.
+[31] The appellant also introduced receipts for most of the other expenses, photographs of the basement, and a large number of other documents. As a whole, this evidence tends to suggest that considerable time was spent on computer-related activity, but it is not clear from the documents what the nature of the activity was, when it was undertaken, and who carried it out. Many of the expenses incurred, such as for computers and internet connections, are consistent with either business or personal use.
+[32] What are the conclusions that should be drawn from this? Based on the evidence as a whole, I conclude that the appellant has not established that any fees were incurred, or paid, to her children or the former babysitter. It is possible that the children provided some computer assistance to their father, but if they did I am not satisfied that they were paid for it. None of the fees purportedly paid to the children or the former babysitter will be allowed.
+[33] This deals with the majority of the expenses claimed. As for the others, there are receipts for most of these, and the expenses would be deductible if they relate to a bona fide commercial activity and are reasonable. I would note that counsel for the respondent referred in argument to a statutory prohibition against the deduction of home office expenses, but he withdrew the argument after I suggested that it had not been sufficiently raised in the pleadings.
+[34] It is necessary, then, to consider whether the evidence as a whole is sufficient to establish that bona fide commercial activities were undertaken during the relevant period.
+[35] As for the purported website consulting business, the evidence does not come close to satisfying me that the appellant carried on any such activity in any of the relevant taxation years, or at all. None of the relevant viva voce evidence was convincing, and there was not sufficient reliable documentation in support.
+[36] More documentary evidence was provided with respect to the educational program. The appellant submitted a binder of over 200 pages which, for the most part, appears to list a large number of computer files (Ex. A-28). It is difficult to reach any conclusion with respect to this material because I have not been provided with a cogent description of what is in the files. It simply is not clear whether the appellant has undertaken a bona fide effort to develop an income-producing educational program.
+[37] The appellant did offer to make other information available in the form of a CD disk and an internet presentation. In addition, page 195 of Ex. A-28 also refers to disks. I do not recall if they were mentioned during the hearing. I note that the internet presentation was first raised on the third day of the hearing, after all the evidence in chief had been led. A viewing of this material would have prolonged this hearing, which as it was lasted three full days. In my view, it would not be an appropriate use of Court time to extend this hearing beyond the three days. It is inexplicable to me why the appellant could not have provided evidence in written form that clearly explained the educational program in sufficient detail to determine whether it constituted a bona fide commercial activity.
+[38] Where does that leave us? The appellant has introduced evidence that suggests that a significant amount of computer-related activity has been undertaken. The evidence that this activity relates to a bona fide commercial operation is very weak, but, on the other hand, the expenses that are at issue are quite small. In these circumstances, I am prepared to give the benefit of the doubt to the appellant and find that she did carry on a business of developing an educational software program. This finding should not be viewed as precedential for subsequent taxation years. In my view, the appellant should have been able to provide much better written evidence that a bona fide commercial operation was being carried on.
+[39] As for the period during which this business was carried on, since I do not accept the credibility of the Raghavans, I will rely on a statement in the appellant’s 2003 income tax return which suggests that this activity commenced in 2003.
+[40] The expenses that have been claimed with respect to the 2003 taxation year are listed in the respondent’s reply. Some of the expenses have not been established as incurred (fees to children and babysitter; PEO licensing fees). Other expenses have not been established as relating to this business (key man insurance; PEO licensing fees). The remaining expenses claimed relate to computer costs, supplies, and home office expenses totaling less than $4,000. This figure is probably excessive because many of the expenses likely have a substantial personal element. I have concluded that a further deduction of $2,000 is the best that can be done, and is generous in the circumstances.
+[41] Accordingly, for the reasons above I conclude as follows:
+(1) the appeal for the 2001 and 2002 taxation years will be dismissed;
+(2) the appeal for the 2003 taxation year will be allowed, and the assessment will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to a further deduction of $2,000; and
+(3) each party shall bear their own costs.
+Signed at Toronto, Ontario this 18th day of January, 2008.
+"J. Woods"
+Woods J.
+CITATION: 2008TCC45
+COURT FILE NO.: 2004-3716(IT)I; 2007-933(IT)I
+STYLE OF CAUSE: VASUNDARA RAGHAVAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 3, 4 and 5, 2007
+REASONS FOR JUDGMENT BY: THE HONOURABLE JUSTICE WOODS
+DATE OF JUDGMENT: January 18, 2008
+APPEARANCES:
+Agent for the Appellant:
+Gopalachari Raghavan
+Counsel for the Respondent:
+Craig Maw
+Kate Leslie
+COUNSEL OF RECORD:
+For the Appellant: n/a
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

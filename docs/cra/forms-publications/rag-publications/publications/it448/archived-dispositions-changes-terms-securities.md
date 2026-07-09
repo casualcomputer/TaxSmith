@@ -1,0 +1,100 @@
+---
+title: "ARCHIVED - Dispositions - Changes in Terms of Securities"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it448/archived-dispositions-changes-terms-securities.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Dispositions - Changes in Terms of Securities
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO: **IT-448**
+
+DATE: June 6, 1980
+
+SUBJECT: INCOME TAX ACT**Dispositions - Changes in Terms of Securities**
+
+REFERENCE: Paragraph 54(c)
+
+1. Alterations made in the rights, preferences, terms, conditions, restrictions or limitations attaching to shares, bonds, debentures, notes, certificates, mortgages, hypothecs, agreements of sale or similar obligations (hereinafter referred to as "changes in securities") frequently do not fall clearly within the lists of inclusions in, or exclusions from, the meaning of the term "disposition" contained in paragraph 54(c). The purpose of this bulletin is to discuss the factors that the Department considers in determining whether or not a disposition has taken place in such circumstances. However, the Department will not require that a disposition be reported by a holder of an altered security if there are no resultant tax consequences. Additionally, if such a holder fails to recognize a disposition in a situation described in this bulletin and the Department does not assess or reassess to give effect to the disposition within the statutory time limit, the tax consequences of a disposition occurring subsequent to the expiration of this time will be computed as though the prior disposition had not taken place.
+
+2. By virtue of clause 54(c)(ii)(A), any transaction or event that involves the redemption in whole or in part or the cancellation of a security necessarily results in its disposition in the hands of the holder, even though the result achieved could have been accomplished by a change in terms. For example, a change in a right attaching to a security can be effected by an amendment to its original terms or by the cancellation of the original security and its replacement by another security identical in all respects except that the changed right is now incorporated. In the latter case a disposition necessarily takes place, while in the former case the significance of the change is the determining factor.
+
+3. As a general rule, and subject to the first sentence in 2 above, the Department examines the effect achieved by a particular set of changes, rather than the method adopted to accomplish it. For example, the replacement of old share certificates with new certificates when there has been no change in terms does not mean that a disposition has occurred, nor is it to be assumed that no disposition is involved when a change in terms is not accompanied by the issuance of a new certificate.
+
+4. In considering a particular fact situation, the Department endeavours to establish whether or not it is reasonable to regard the amended security being the same property as that which underwent the change. In evaluations of this nature it is obvious that no "hard and fast" rules of universal application can be formulated. The comments that follow must therefore be regarded as guidelines only and may not apply in a particular set of circumstances.
+
+5. The addition of an optional conversion feature to a particular class of security does not generally involve a disposition.
+
+Changes in Terms of Debt Obligations
+
+6. A change in the underlying security supporting a debt obligation is not usually regarded as a disposition of the obligation itself because in the normal situation, the holder's claim on the underlying security is only a contingent one.
+
+7. The following changes in respect of the debt obligation itself (unless carried out pursuant to an authorizing provision in its original terms) are considered to be so fundamental to the holder's economic interest in the property that they almost invariably precipitate a disposition:
+
+(a) a change from interest-bearing to interest-free or vice versa,
+
+(b) a change in repayment schedule or maturity date,
+
+(c) an increase or decrease in the principal amount,
+
+(d) the addition, alteration or elimination of a premium payable upon retirement,
+
+(e) a change in the debtor, and
+
+(f) the conversion of a fixed interest bond to a bond in respect of which interest is payable only to the extent that the debtor has made profit, or vice versa.
+
+8. Exceptions to the general rule set out in 7(b) above are made when the degree of change is minimal and of little relative importance in the circumstances. The general rule stated in 7(e) above is subject to a rollover at an amount equal to the adjusted cost base when a debt obligation of an amalgamating corporation becomes the obligation of an amalgamating entity on identical terms, and will not apply when a third party undertakes with a debtor to discharge the debtor's responsibilities under an obligation, while the debtor's liability to the holders is unaffected.
+
+Changes in the Terms of Shares
+
+9. A shareholder's interest in a corporation consists of a bundle of rights and privileges attached to the shares by the articles of incorporation or the directors in accordance with the corporate law of the particular jurisdiction. Any changes in the basic relationships between one class of shareholder and another, and one class of shareholder and the corporation, usually necessitate amendments to the articles of incorporation. If amendments are made with respect to authorized but unissued capital stock, actual shareholder relationships are not involved and dispositions cannot arise.
+
+10. Where there is only one class of share issued or where the holdings of each shareholders in each class are in the same proportion, any change in the rights attaching to a class does not alter their relative interests in the corporation. Thus, no disposition is considered to arise except in circumstances described in 2 above.
+
+11. In some instances, the terms and conditions of an issue of shares will provide for an amendment to its own terms within limits. Where such a power is exercised (whether its authorization can be effected by the Board of Directors acting alone or whether approval of the particular class of shareholders is required), no disposition is involved, because the possibility of such a change was always inherent in its bundle of rights.
+
+12. A shareholder frequently (but not necessarily) disposes of a share in a corporation when the corporation reduces the paid-up capital in respect of that share. A reduction in paid-up capital that involves the redemption (see 2 above) or cancellation of a share necessarily gives rise to a disposition in the hands of the holder by virtue of clause 54(c)(ii)(A). In other cases it is necessary to examine the holder's economic interest in the corporation before and after the reduction in order to establish whether or not a disposition has occurred.
+
+13. In the case of a reduction in paid-up capital related to a preferred share (as defined in subsection 248(1)), the holder's defined entitlement on dissolution of the corporation is normally reduced. Where this occurs, this change in the holder's economic interest in the corporation is usually considered to give rise to a disposition of one property and the acquisition of another. In the case of a common share (as defined in subsection 248(1)), the holder's entitlement on dissolution, being a proportionate participation in the residual assets of the corporation, is unchanged. Thus, a common shareholder's economic interest in the corporation is usually not altered by a reduction in the paid-up capital attributed to common shares and no disposition occurs.
+
+14. Following are examples of changes that are normally considered to be of sufficient substance to be regarded as dispositions:
+
+(a) a change in voting rights attached to shares that effects a change in the voting control of the corporation;
+
+(b) a change in a defined entitlement (e.g. a change in par value) to share in the assets of a corporation upon dissolution (preferred shares only);
+
+(c) the giving up or the addition of a priority right to share in the distribution of assets of the corporation upon dissolution;
+
+(d) the addition or deletion of a right attaching to a class of share that provides for participation in dividend entitlements beyond a fixed preferential rate or amount;
+
+(e) a change from a cumulative to a non-cumulative right to dividends or vice versa.
+
+15. Following are examples of changes that taken singly are not considered to be dispositions:
+
+(a) the addition of the right to elect a majority of the directors of the corporation if, at that time, the shareholders of that class are already in a position to control the election of directors;
+
+(b) a change in the number of votes per share if the ability of any one shareholder to influence the day-to-day affairs of the corporation is neither enhanced nor impaired thereby;
+
+(c) the giving up of contingent voting rights which, in the event they were exercised, would not be of sufficient number to control the affairs of the corporation;
+
+(d) restrictions added or removed concerning transfer of shares;
+
+(e) the addition of a right of redemption in favour of the corporation;
+
+(f) stocks splits or consolidations (see IT-65);
+
+(g) a change of shares with par value to shares without par value or vice versa, provided that there is no change in any pre-set entitlements to dividends and/or distribution of assets upon dissolution;
+
+(h) a change in ranking concerning preference features, (e.g. 1st preference to 2nd preference);
+
+(i) an increase or decrease in the amount or rate of a fixed dividend entitlement.
+
+16. A combination of changes described in 15 above, whether occurring simultaneously or in a series, may, in appropriate circumstances, give rise to a disposition.

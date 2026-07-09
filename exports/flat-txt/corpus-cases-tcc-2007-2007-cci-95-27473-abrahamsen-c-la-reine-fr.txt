@@ -1,0 +1,185 @@
+Title: Abrahamsen c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27473/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-95-27473-abrahamsen-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-02-16
+
+# Abrahamsen c. La Reine
+
+- Citation: 2007 CCI 95
+- Decision date: 2007-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 35, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abrahamsen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-16
+Référence neutre
+2007 CCI 95
+Numéro de dossier
+2006-120(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-120(IT)I
+ENTRE :
+ROALD K. ABRAHAMSEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 15 janvier 2007, à Toronto (Ontario).
+Devant : L’honorable juge M.A. Mogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Laurent Bartleman
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2002 est accueilli en partie et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que, dans le calcul du revenu, l’appelant est autorisé à déduire des frais de déménagement additionnels de 20 557,58 $ englobant les sommes finales suivantes :
+Logement – alinéa 62(3)a)
+96,00 $
+Commissions immobilières – alinéa 62(3)e)
+16 200,00 $
+Services juridiques (Nouvelle-Écosse) – alinéa 62(3)e)
+451,40 $
+Services juridiques (Ontario) – alinéa 62(3)f)
+1 275,82 $
+Droits de cession immobilière (Ontario) – alinéa 62(3)f)
+2 534,36 $
+Total
+20 557,58 $
+Signé à Ottawa, Canada, ce 16e jour de février 2007.
+« M.A. Mogan »
+M.A. Mogan, juge suppléant
+Traduction certifiée conforme
+ce 29 jour de février 2008.
+D. Laberge, LL.L.
+Référence : 2007CCI95
+Date : 20070216
+Dossier : 2006-120(IT)I
+ENTRE :
+ROALD K. ABRAHAMSEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Mogan
+[1] L’article 62 de la Loi de l’impôt sur le revenu (la « Loi ») autorise le contribuable à déduire, dans le calcul du revenu, dans certaines circonstances particulières, les sommes payées au titre de « frais de déménagement ». L’appelant et sa femme ont résidé en Nouvelle‑Écosse de l’année 1994 jusqu’à l’an 2000. Au mois de septembre 2000, ils se sont installés en Ontario, mais ils n’ont trouvé des emplois à plein temps en Ontario qu’au mois de janvier 2002. Lorsqu’il a produit sa déclaration de revenus pour l’année 2002, l’appelant a déduit diverses sommes qui, selon lui, étaient des frais de déménagement se rattachant à son déménagement de la Nouvelle‑Écosse en Ontario.
+[2] Par un avis de nouvelle cotisation daté du 21 octobre 2003, le ministre du Revenu national (le « ministre ») a refusé, dans une proportion d’environ 80 p. 100, la déduction des sommes que l’appelant avait demandées au titre des frais de déménagement. L’appelant a interjeté appel de cette nouvelle cotisation, sous le régime de la procédure informelle. Il s’agit uniquement de savoir quelles sont les sommes dont la déduction a été refusée par le ministre qui peuvent être déduites, le cas échéant, en vertu de l’article 62 de la Loi.
+[3] Entre l’année 1994 et l’an 2000, l’appelant n’avait travaillé qu’à l’occasion en Nouvelle‑Écosse. En 1997, il s’est rendu en Ontario pour travailler pendant trois mois dans un camp de chasse. Le 10 août 1997, l’appelant et sa femme ont mis leur maison en vente en Nouvelle‑Écosse. Voir la pièce R‑1, onglet 1. La maison a été vendue le 1er septembre 2000 seulement. Voir la pièce R‑1, onglet 2. Après avoir vendu leur maison, l’appelant et sa femme ont entreposé leurs meubles en Nouvelle‑Écosse et ils sont restés brièvement chez des amis, à Bridgewater. Ils se sont ensuite rendus en voiture à Toronto (Ontario), où ils voulaient établir une résidence permanente.
+[4] Entre la fin du mois de septembre 2000 et le 30 avril 2001, l’appelant et sa femme étaient en vacances en Floride, aux États‑Unis, dans un logement loué. Ils sont retournés en Ontario et, du 15 mai au 15 décembre 2001, ils ont habité une maison, chemin Oriole, à Toronto. La maison appartenait à un membre de la famille d’un ami et, après le décès de ce parent, ils ont habité la maison sans payer de loyer pendant que la maison était en vente. La maison ayant été vendue à la mi‑décembre 2001, l’appelant et sa femme ont vécu brièvement chez un ami et ils se sont ensuite installés dans un appartement loué, au coin d’Avenue Road et de l’avenue St. Clair, à Toronto, pendant trois mois (du mois de janvier au mois de mars); le loyer mensuel était de 1 500 $.
+[5] À son retour à Toronto après son séjour en Floride, au mois de mai 2001, l’appelant s’est mis à la recherche d’un emploi à plein temps. Le 9 juin 2001, sa femme et lui ont signé un contrat en vue d’acheter une nouvelle maison qui était en voie de construction, au 949, Best Circle, à Newmarket, à une trentaine de milles au nord de Toronto. Une fois les travaux achevés, à la fin du mois de mars 2002 (voir la pièce R‑1, onglets 3 et 4), l’appelant et sa femme ont emménagé dans la maison et ont fait en sorte que les meubles entreposés en Nouvelle‑Écosse soient expédiés à leur nouvelle maison, en Ontario.
+[6] L’appelant a cherché un emploi à plein temps au cours des six derniers mois de l’année 2001, mais il n’était pas désespéré, parce qu’il touchait une pension. À l’automne 2001, on lui a offert un emploi qui devait commencer au mois de janvier 2002, dans le cadre de l’organisation de la Journée mondiale de la jeunesse. L’appelant a accepté l’offre et il a commencé à travailler à plein temps pour la Journée mondiale de la jeunesse au mois de janvier 2002. Je suis convaincu que l’appelant n’avait pas d’emploi en Ontario lorsque sa femme et lui ont quitté la Nouvelle‑Écosse, au mois de septembre 2000, pour s’installer en Ontario.
+[7] Une modification importante a été apportée à l’article 62 de la Loi, laquelle est entrée en vigueur après l’année 1997. Les dispositions législatives qui existaient avant 1998 et les affaires qui ont été tranchées en vertu de ces dispositions ne s’appliquent peut‑être pas au présent appel pour ce qui est de l’année d’imposition 2002. Toutefois, il est utile de comparer ces dispositions avec les dispositions actuelles de la Loi.
+Disposition existant avant 1998
+62(1) Lorsqu’un contribuable a, à un moment donné, commencé :
+a) à exploiter une entreprise ou à être employé dans un lieu au Canada (appelé son « nouveau lieu de travail » au présent paragraphe);
+b) […]
+et a, de ce fait, déménagé d’une résidence située au Canada où, avant le déménagement, il résidait habituellement (appelée son « ancienne résidence » au présent article) [...]
+Dans un certain nombre de décisions, les mots « et a, de ce fait, déménagé » ont été interprétés comme signifiant que le contribuable doit avoir un emploi au nouvel endroit avant de s’y installer. Dans la décision Pelchat v. M.N.R., 84 DTC 1865, le juge Tremblay a dit ce qui suit au paragraphe 25 :
+La Cour croit cependant que l’interprétation à donner est que lorsque le contribuable déménage en fait, il doit avoir déjà trouvé un emploi dans le nouvel endroit pour pouvoir bénéficier de la déduction prévue à la disposition 62.
+La décision Pelchat a été suivie par le juge Beaubier dans la décision Ball v. The Queen, [1996] 3 C.T.C. 2178, et par le juge Hamlyn dans la décision Hippola v. The Queen, [2002] 1 C.T.C. 2156.
+[8] Le libellé de l’article 62, tel qu’il existe à l’heure actuelle, est passablement différent de celui de l’ancienne disposition :
+Dispositions existant après 1997
+62(1) Un contribuable peut déduire dans le calcul de son revenu pour une année d’imposition les sommes qu’il a payées au titre des frais de déménagement engagés relativement à une réinstallation admissible [...]
+a) [...]
+248(1) Les définitions qui suivent s’appliquent à la présente loi.
+[...]
+« réinstallation admissible » Réinstallation d’un contribuable relativement à laquelle les conditions suivantes sont réunies :
+a) elle est effectuée afin de permettre au contribuable :
+(i) soit d’exploiter une entreprise ou d’occuper un emploi à un endroit au Canada (appelé « nouveau lieu de travail » à l’article 62 et au présent paragraphe),
+(ii) [...]
+b) la résidence que le contribuable habitait ordinairement avant la réinstallation (appelée « ancienne résidence » à l’article 62 et au présent paragraphe) et celle qu’il habitait ordinairement après la réinstallation (appelée « nouvelle résidence » à l’article 62 et au présent paragraphe) sont toutes deux situées au Canada,
+c) la distance entre l’ancienne résidence et le nouveau lieu de travail est supérieure d’au moins 40 kilomètres à la distance entre la nouvelle résidence et le nouveau lieu de travail.
+[…]
+[9] En ce qui concerne la définition de l’expression « réinstallation admissible », je n’interpréterais pas les mots figurant à l’alinéa a) « afin de permettre au contribuable [...] d’occuper un emploi [...] » comme exigeant que le contribuable ait un emploi au nouvel endroit avant de s’y installer. À mon avis, les dispositions législatives actuelles donnent au contribuable plus de latitude que celles qui existaient avant l’année 1998.
+[10] Selon les dispositions législatives qui existaient avant l’année 1998, les frais de déménagement étaient déductibles uniquement pour l’année d’imposition au cours de laquelle le contribuable avait déménagé ou pour « l’année d’imposition suivante ». En vertu des dispositions législatives actuelles (postérieures à l’année 1997), les frais de déménagement sont déductibles, dans la mesure où ils n’étaient pas déductibles « par l’effet du présent article [...] pour l’année d’imposition précédente ». De plus, en vertu de l’alinéa 62(1)c), les frais de déménagement peuvent être déduits uniquement du revenu que le contribuable tire de son emploi au nouveau lieu de travail. En l’espèce, si l’appelant n’avait pas de revenu d’emploi en Ontario en 2001 ou au cours des quatre derniers mois de l’an 2000, l’année d’imposition 2002 serait la première année d’imposition pour laquelle ses frais de déménagement seraient déductibles.
+[11] L’appelant n’était pas représenté par un avocat; il agissait pour son propre compte. L’appelant n’a pas soutenu qu’il avait besoin d’un revenu d’emploi pour maintenir son mode de vie, mais je conclus qu’il avait de fait besoin d’un tel revenu, et ce, pour les raisons suivantes : (i) entre l’année 1994 et l’an 2000, il était allé en Ontario plus d’une fois pour y chercher un emploi à plein temps; (ii) au mois de juin 2001, lorsqu’il est retourné à Toronto avec sa femme après avoir passé l’hiver en Floride, l’appelant s’est mis à la recherche d’un emploi à plein temps; (iii) lorsque l’appelant et sa femme ont conclu l’achat de la nouvelle maison, à Newmarket, au mois de mars 2002, la maison était grevée d’une hypothèque de premier rang d’un montant élevé (pièce R‑1, onglet 4); (iv) lorsqu’il a témoigné à l’audition du présent appel, l’appelant a déclaré être employé.
+[12] Je conclus également que l’appelant a trouvé un emploi en Ontario dans un délai raisonnable après le déménagement du mois de septembre 2000, lorsqu’il a commencé à travailler pour la Journée mondiale de la jeunesse, au mois de janvier 2002. Par conséquent, selon mon interprétation du libellé actuel (postérieur à l’année 1997) de l’article 62, l’appelant peut déduire ses « frais de déménagement », dans le calcul de son revenu pour l’année 2002, dans les limites permises à l’article 62.
+[13] Pour l’année 2002, l’appelant a déduit des frais de déménagement s’élevant en tout à 25 075,36 $, comprenant les huit éléments suivants :
+[traduction]
+1. Transport et entreposage des meubles (Nouvelle‑Écosse)
+4 400,00 $
+Frais de déplacement de l’ancienne à la nouvelle résidence :
+2. Frais de déplacement autres que le logement et les repas.
+350,00 $
+3. Logement
+96,00 $
+4. Repas
+50,00 $
+Coûts associés à la vente de l’ancienne résidence :
+5. Commissions immobilières
+16 200,00 $
+6. Honoraires d’avocat ou de notaire
+750,00 $
+Coûts associés à l’achat de la nouvelle résidence :
+7. Honoraires d’avocat ou de notaire
+695,00 $
+8. Droits de cession immobilière
+2 534,36 $
+Total
+25 075,36 $
+[14] Dans la nouvelle cotisation visée par le présent appel, l’appelant a été autorisé à déduire les sommes suivantes, correspondant aux éléments numérotés, au paragraphe 13 ci‑dessus :
+[traduction]
+1. Entreposage et transport des meubles
+3 500,00 $
+2. Frais de déplacement
+350,00 $
+4. Repas
+50,00 $
+Étant donné que l’appelant n’a pas produit de reçus à l’audition de son appel, je n’augmenterai par les sommes admises par le ministre pour les éléments 1, 2 et 4. En me fondant sur la définition des « frais de déménagement » figurant au paragraphe 62(3) de la Loi, j’autoriserai l’appelant à déduire les sommes additionnelles suivantes :
+3. Logement – alinéa 62(3)a)
+96,00 $
+5. Commissions immobilières – alinéa 62(3)e)
+16 200,00 $
+6. Services juridiques (Nouvelle-Écosse) – alinéa 62(3)e); pièce R‑1, onglet 2
+451,40 $
+7. Services juridiques (Ontario) – alinéa 62(3)f); pièce R‑1, onglet 4
+1 275,82 $
+8. Droits de cession immobilière (Ontario) – alinéa 62(3)f); pièce R‑1, onglet 4
+2 534,36 $
+Total
+20 557,58 $
+[15] L’appel est accueilli en partie et la cotisation est renvoyée au ministre pour nouvel examen et nouvelle cotisation compte tenu du fait que, dans le calcul du revenu, l’appelant est autorisé à déduire des frais de déménagement additionnels de 20 557,58 $, comme ils sont énumérés au paragraphe 14.
+Signé à Ottawa, Canada, ce 16e jour de février 2007.
+« M.A. Mogan »
+M.A. Mogan, juge suppléant
+Traduction certifiée conforme
+ce 29 jour de février 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI95
+No DU DOSSIER DE LA COUR : 2006-120(IT)I
+INTITULÉ : ROALD K. ABRAHAMSEN
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 15 janvier 2007
+MOTIFS DU JUGEMENT : L’honorable juge M.A. Mogan
+DATE DU JUGEMENT : Le 16 février 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

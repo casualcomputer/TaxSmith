@@ -1,0 +1,162 @@
+---
+title: "Morgan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29499/index.do"
+last_modified: "2009-10-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 552"
+citation2: ""
+neutral_citation: "2009 TCC 552"
+decision_date: "2009-10-28"
+language: "en"
+item_id: "29499"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6256
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:48:09.075000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f5dcbbf0f663800e4fbb51cd0cc2234b9c0db882c4842674bada64c9d7a7b65a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morgan v. The Queen
+
+- Citation: 2009 TCC 552
+- Decision date: 2009-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6256, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morgan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-28
+Neutral citation
+2009 TCC 552
+File numbers
+2008-550(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-550(IT)I
+BETWEEN:
+FRANK MORGAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 9, 2009, at Hamilton, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rishma Bhimji
+____________________________________________________________________
+AMENDED JUDGMENT
+This Judgment is issued in substitution for the Judgment dated
+October 28, 2009.
+The appeal from the reassessment made under the Income Tax Act for the 2003 and 2004 taxation years is dismissed.
+Signed at Ottawa, Canada, this 9th day of November 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC552
+Date: 20091109
+Docket: 2008-550(IT)I
+BETWEEN:
+FRANK MORGAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The Appellant has appealed the reassessment of his 2003 and 2004 taxation years wherein the Minister of National Revenue (the “Minister”) disallowed the deduction of losses in the amounts of $2,010.33 and $1,072.50 respectively. The issue in this appeal is whether the Appellant had a source of income from the operation of a daycare.
+[2] It was the Appellant’s evidence that he and his spouse, Fiona Morgan, were partners in a daycare business called Morgan’s Day Care (the “Day Care”). The business was operated from their home. He stated that from 1999 until 2004 his spouse ran the Day Care in the afternoons only as she worked with United Parcel Service Canada Ltd. in the mornings.
+[3] The Appellant testified that the Day Care was used by parents who could not pick up their children after school. He and his spouse did not advertise the Day Care but it became known by “word of mouth”. The children did not register for the Day Care and the number of children which attended at the Appellant’s home varied. It was the Appellant’s evidence that the children were teenagers or younger and it was fair to assume that his spouse did not have the same child each and every day.
+[4] The Appellant did not know how much his spouse charged for the Day Care services. He stated that fifty percent of their clientele were unwed mothers and his spouse altered the fee charged according to the circumstances of the parents.
+[5] The Appellant did not know the names of any of the families who used his Day Care; he did not know the number of children who used the Day Care; and, he did not know the fees charged for the Day Care services. He stated that his spouse knew the answers to these questions; but, unfortunately, she did not attend the hearing.
+[6] It was the Appellant’s evidence that he and his spouse terminated the Day Care services at the end of 2004 as they found that the attendance at the Day Care decreased.
+[7] The only documents the Appellant tendered were a police report, the mortgage loan agreement and the plot plan for his home at 11 GrayRocks Avenue in Hamilton, Ontario. It was his evidence that he no longer had any receipts to substantiate the amount spent for the food used in the Day Care nor did he have copies of the receipts to show the amount of income earned by the Day Care. The Appellant stated that his spouse kept these items in a file folder which was stolen when they moved from Hamilton to Caledonia.
+[8] The Appellant and his spouse first operated the Day Care from their home at 11 GrayRocks Avenue in Hamilton, Ontario. According to the police report, the Appellant moved to Caledonia on January 28, 2004. On February 28, 2004, he reported to the Hamilton Police that several boxes were missing as result of the move.
+Source of Income
+[9] In Stewart v. The Queen[1], the Supreme Court of Canada gave the following test with respect to source of income:
+5 It is undisputed that the concept of a “source of income” is fundamental to the Canadian tax system; however, any test which assesses the existence of a source must be firmly based on the words and scheme of the Act. As such, in order to determine whether a particular activity constitutes a source of income, the taxpayer must show that he or she intends to carry on that activity in pursuit of profit and support that intention with evidence. The purpose of this test is to distinguish between commercial and personal activities, and where there is no personal or hobby element to a venture undertaken with a view to a profit, the activity is commercial, and the taxpayer's pursuit of profit is established. However, where there is a suspicion that the taxpayer's activity is a hobby or personal endeavour rather than a business, the taxpayer's so-called reasonable expectation of profit is a factor, among others, which can be examined to ascertain whether the taxpayer has a commercial intent.
+…
+50 It is clear that in order to apply s. 9, the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, a commercial activity which falls short of being a business, may nevertheless be a source of property income. As well, it is clear that some taxpayer endeavours are neither businesses, nor sources of property income, but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?
+The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property.
+51 Equating “source of income” with an activity undertaken “in pursuit of profit” accords with the traditional common law definition of “business”, i.e., “anything which occupies the time and attention and labour of a man for the purpose of profit”: Smith, supra, at p. 258; Terminal Dock, supra. As well, business income is generally distinguished from property income on the basis that a business requires an additional level of taxpayer activity: see Krishna, supra, at p. 240. As such, it is logical to conclude that an activity undertaken in pursuit of profit, regardless of the level of taxpayer activity, will be either a business or property source of income.
+52 The purpose of this first stage of the test is simply to distinguish between commercial and personal activities, and, as discussed above, it has been pointed out that this may well have been the original intention of Dickson J.’s reference to “reasonable expectation of profit” in Moldowan. Viewed in this light, the criteria listed by Dickson J. are an attempt to provide an objective list of factors for determining whether the activity in question is of a commercial or personal nature. These factors are what Bowman J.T.C.C. has referred to as “indicia of commerciality” or “badges of trade”: Nichol, supra, at p. 1218. Thus, where the nature of a taxpayer’s venture contains elements which suggest that it could be considered a hobby or other personal pursuit, but the venture is undertaken in a sufficiently commercial manner, the venture will be considered a source of income for the purposes of the Act.
+53 We emphasize that this “pursuit of profit” source test will only require analysis in situations where there is some personal or hobby element to the activity in question. With respect, in our view, courts have erred in the past in applying the REOP test to activities such as law practices and restaurants where there exists no such personal element: see, for example, Landry, supra; Sirois, supra; Engler v. The Queen, 94 D.T.C. 6280 (F.C.T.D.). Where the nature of an activity is clearly commercial, there is no need to analyze the taxpayer’s business decisions. Such endeavours necessarily involve the pursuit of profit. As such, a source of income by definition exists, and there is no need to take the inquiry any further.
+54 It should also be noted that the source of income assessment is not a purely subjective inquiry. Although in order for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit, in addition, as stated in Moldowan, this determination should be made by looking at a variety of objective factors. Thus, in expanded form, the first stage of the above test can be restated as follows: “Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?” This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+55 The objective factors listed by Dickson J. in Moldowan, at p. 486, were: (1) the profit and loss experience in past years; (2) the taxpayer’s training; (3) the taxpayer’s intended course of action; and (4) the capability of the venture to show a profit. As we conclude below, it is not necessary for the purposes of this appeal to expand on this list of factors. As such, we decline to do so; however, we would reiterate Dickson J.’s caution that this list is not intended to be exhaustive, and that the factors will differ with the nature and extent of the undertaking. We would also emphasize that although the reasonable expectation of profit is a factor to be considered at this stage, it is not the only factor, nor is it conclusive. The overall assessment to be made is whether or not the taxpayer is carrying on the activity in a commercial manner. However, this assessment should not be used to second-guess the business judgment of the taxpayer. It is the commercial nature of the taxpayer’s activity which must be evaluated, not his or her business acumen.
+[10] In cross-examination the Appellant stated that he and his spouse did not undertake the Day Care activity to make a profit. On further questioning, he said that they did not intend to make a profit nor did they want to make a loss.
+[11] When I review all of the evidence, it is my opinion that the Appellant’s Day Care activity was not a source of income. He did not have the subjective intent to make a profit and the Day Care activity was not carried out in a commercial manner.
+[12] The activity was not advertised. The fee charged for the Day Care varied according to the amount the parents could pay for the services. The Appellant did not keep books for the Day Care activity and I am left in doubt whether any records were actually kept for the activity. The Appellant stated that he kept records for the Day Care activity; he gave them to his accountant who prepared his tax returns for 2003 and 2004; but, the records were stolen when he and his spouse moved. The evidence showed that the Appellant moved on January 28, 2004 and he filed his 2003 and 2004 tax returns on March 19, 2004 and March 14, 2005, respectively. If he had records, they could not have been stolen on January 28, 2004 because he allegedly used them to complete his tax returns.
+[13] In this case, the Day Care activity could be a personal endeavour. According to the Appellant, his spouse volunteered at the school library. She noticed that there were many single parent families who didn’t have anyone to take care of their children after school hours while the parents were still at work. Mrs. Morgan saw there were parents in need and she assisted them by allowing the children to come to her home. She is to be applauded. However, it is my opinion that the provision of Day Care services was not a source of income,
+[14] The profit and loss experience of the Day Care activity and the Appellant’s 50% share were as follows:
+Year
+Day Care Loss
+Appellant’s Loss
+1999
+$6,824
+$3,412
+2000
+$6,652
+$3,326
+2001
+$4,234
+$2,117
+2002
+$4,884
+$2,442
+[15] There was no evidence that the Appellant or his spouse had training in the daycare business. There was no evidence of the Appellant’s intended course of action to try to make the activity profitable.
+[16] The Appellant’s subjective intention and an analysis of the objective factors in this case lead me to the conclusion that the Day Care activity was not a source of income. The appeal is dismissed.
+Signed at Ottawa, Canada this 9th day of November 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC552
+COURT FILE NO.: 2008-550(IT)I
+STYLE OF CAUSE: FRANK MORGAN AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: October 9, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: November 9, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rishma Bhimji
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [2002] 2 S.C.R. 645

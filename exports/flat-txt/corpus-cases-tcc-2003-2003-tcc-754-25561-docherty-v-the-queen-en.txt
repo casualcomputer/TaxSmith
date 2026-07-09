@@ -1,0 +1,461 @@
+Title: Docherty v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25561/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-754-25561-docherty-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-12-18
+
+# Docherty v. The Queen
+
+- Citation: 2003 TCC 754
+- Decision date: 2003-12-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2460, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Docherty v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-18
+Neutral citation
+2003 TCC 754
+File numbers
+1999-3141(IT)G
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 1999-3141(IT)G
+BETWEEN:
+WILLIAM DOCHERTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeals of Ronald J. Hakem (1999-3168(IT)G)
+on October 7, 8 and 9, 2003, at Windsor, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Arthur M. Barat, Q.C. and Avril Farlam
+Counsel for the Respondent:
+Richard Gobeil and Ronald MacPhee
+____________________________________________________________________
+JUDGMENT
+Whereas at the commencement of the hearing, counsel for the Appellant informed the Court that the Appellant was withdrawing his appeals for the 1992, 1994 and 1995 taxation years because they were from nil assessments.
+The appeals from assessments of tax made under the Income Tax Act for the 1992, 1993, 1994 and 1995 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 18th day of December, 2003.
+"Campbell J. Miller"
+Miller J.
+Docket: 1999-3168(IT)G
+BETWEEN:
+RONALD HAKEM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard together with the appeal of William Docherty (1999-3141(IT)G)
+on October 7, 8 and 9, 2003, at Windsor, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Arthur M. Barat, Q.C. and Avril Farlam
+Counsel for the Respondent:
+Richard Gobeil and Ronald MacPhee
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments of tax made under the Income Tax Act for the 1990, 1991, 1992, 1993, 1994, 1995 and 1996 taxation years are dismissed, with costs.
+Signed at Ottawa, Canada, this 18th day of December, 2003.
+"Campbell J. Miller"
+Miller J.
+Citation: 2003TCC754
+Date: 20031218
+Docket: 1999-3141(IT)G
+BETWEEN:
+WILLIAM DOCHERTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 1999-3168(IT)G
+AND BETWEEN:
+RONALD J. HAKEM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] The Appellant, Mr. Docherty, has for 48 years been in the property development business in the City of Windsor, primarily through the auspices of R.C. Pruefer Co. Limited (Pruefer), a company controlled by him. Pruefer was responsible for the development of the Windsor City Centre project in the late 1970s and early 1980s. In 1990, it successfully bid on the development of the City of Windsor Multi-Use Facility Project. The organization of such a project was through a partnership. Mr. Docherty and Mr. Hakem, the second Appellant, whose appeals were heard on common evidence, were partners in the Windsor Multi-Use Facility Project Partnership (the "Partnership"). From 1990 to 1995, the Partnership recorded expenses in connection with the project being fees billed by Pruefer in excess of $11 million (the "Expenses"). The project has yet to be developed. The substance of this case is the partner's ability to deduct such expenses; in Mr. Hakem's case, from 1990 to 1996; and in Mr. Docherty's case for 1993 only, as it was conceded by Mr. Docherty that no appeal was available against the nil assessments of 1992, 1994 and 1995.
+[2] The issues in these appeals are:
+(a) Were Mr. Docherty and Mr. Hakem limited partners in the Partnership in the years at issue, and, therefore, subject to the at-risk rules set out in section 96 of the Income Tax Act (the Act) limiting the deductibility of losses?
+(b) Were the Expenses reasonable?
+(c) Were the Expenses contingent and, therefore, not deductible in accordance with paragraph 18(1)(e) of the Act?
+(d) Were the Expenses incurred for the purposes of gaining or producing income and, therefore, deductible in accordance with paragraph 18(1)(a) of the Act?
+[3] I find that Mr. Docherty and Mr. Hakem were limited partners for the pertinent years. While that conclusion is a complete answer in dismissing the Appellants' appeals, in the event I am wrong in that conclusion, I will comment upon the reasonableness of the Expenses. It will be unnecessary to address the other issues.
+Facts
+[4] I will first review the facts surrounding the Partnership arrangements and then turn to the circumstances of the Windsor Multi-Use Facility Project.
+Partnership arrangement
+[5] By agreement dated June 14, 1989, [1] Pruefer entered into a Partnership Agreement with Mr. Docherty, to carry on business under the name of the Windsor Multi-Use Facility. According to the Agreement, the Partnership was to be converted to a limited partnership sometime in the future. On the same day, the Partnership entered into an agreement with Pruefer pursuant to which Pruefer was to develop, negotiate and represent all things necessary to enable the Partnership to develop a multi-purpose facility in the City of Windsor. This Agreement stated that the management fees were to be calculated as follows:
+As at the fiscal year end of the partnership, the partners will review the performance of R.C. Pruefer Co. Limited and determine a reasonable management fee for the above noted services based on R.C. Pruefer's performance.
+[6] A document entitled "Founders Limited Partnership", dated December 4, 1990, was issued by Mr. Docherty to attract investors for the multi-use facility undertaking. Investors were offered the opportunity to buy an investment unit for $400,000 with $100,000 cash down and the balance to be paid in $15,000 instalments over a number of years, according to the terms as set out in the limited partnership agreement.
+[7] On December 3, 1990, a Limited Partnership Agreement[2] was entered into between Mr. Docherty, as the Initial Limited Partner and Windsor Multi-Use Facility General Partner Inc. ("General Partner"), all the shares of which were owned by Mr. Docherty. The Agreement stated that the Partnership was constituted as a limited partnership pursuant to the Limited Partnerships Act (Ontario) to carry on business under the name Windsor Multi-Use Facility. The Partnership was to issue units to investors for the purpose of raising capital of the Partnership to be invested in the business of the Windsor Multi-Use Facility. The business of the Partnership was defined to be the development and operation of the multi-use facility. Mr. Docherty was issued an initial limited partnership unit which was redeemable at any time for one dollar.
+[8] The sale of the Partnership units was to be through an Offering Memorandum. The funds realized through the sale of units were to be used to repay costs incurred to date in the development of the multi-use facility and to further the development of the Facility. The Agreement authorized the issuance of up to 15 units. At all relevant times, Mr. Docherty was director, president and secretary of the General Partner.
+[9] On December 4, 1990, in a Confidential Private Placement Offering Memorandum,[3] the Limited Partnership of December 3, 1990 was stated to be formed for the purpose of taking on an assignment of the rights of Pruefer under its proposal with the City of Windsor for a multi-use facility, earning income from the operation thereof and maintaining limited liability. A minimum of eight and a maximum number of 15 limited partnership units were to be sold for $400,000 each. The limited partnership units were payable as follows: (i) an initial deposit of $100,000 upon subscription; (ii) the balance of $300,000 payable by execution of a subscription balance note with $15,000 payments on December 31, 1991 and on December 31 of each year to and including December 31, 2000; and the final $150,000 payable in $15,000 (plus interest) payments paid out of the partners' shares of net income for each fiscal year; if their shares of net income was less than $15,000, the shortfall would accumulate and payment would be deferred until the next fiscal year.
+[10] The Offering Memorandum provided that the aggregate subscription proceeds were to be used to pay: $855,000 for costs for site investigations, marketing surveys, feasibility studies, and representations to the City of Windsor; $312,000 for professional fees and $175,000 for a management fee to Pruefer for a total amount of $1,342,000. The Offering Memorandum also provided that the Limited Partnership would enter into a management agreement with Pruefer for the management of the Facility throughout the term of the sublease. The Partnership was to review and determine the acceptability of the fee charged by Pruefer. Mr. Menzies, Pruefer's accountant, indicated that he inserted this requirement as he saw 'lawsuit' written all over, as he put it, and wanted to ensure that the partners had a say.
+[11] On December 13, 1990, and December 18, 1990, Michael Ziter and Ronald Hakem, respectively, each acquired one limited partnership unit. They each paid the initial cash contribution of $100,000. Mr. Hakem testified that he invested out of a sense of civic pride, as well as what he perceived to be a reasonable rate of return and an opportunity to take advantage of a tax shelter in the early stages. He believed the projections were achievable. He also indicated there were no freebies in the deal for investors, no free tickets, no guarantees or warranties.
+[12] The Limited Partnership Agreement of December 3, 1990, was amended as of December 28, 1990. The Agreement now provided for "General Partners" Class A, B and C. Mr. Docherty offered little explanation for the change, indicating only that it was done in consultation with Mr. Menzies, who drafted the amended agreement. Mr. Hakem stated that the change was made upon advice from his lawyer and tax accountant. He recognized the risk of liability in becoming a general partner, but felt he could rely on Mr. Docherty's track record. Under this amending agreement, initial cash contributions of $100,000 remained the same for a Class B or C unit holder. However, the balance of the subscription price was now to be payable together with interest out of the unit holders share of net income for each year when net income had been calculated by the General Partner. Mr. Menzies explained the general partner units were identical, and only distinguished by letter to know in which year units were acquired; that is, a different class for each different year. An identical provision was inserted for each of the Class A, B and C, General Partners as follows:[4]
+7.1 Rights, Power and Authority
+The General Partners Class A shall have only the rights expressly stated in this Agreement to affect the Partnership's structure and its affairs. The General Partners Class A shall have no right, power or authority to act for or on behalf of the Partnership or to bind the Partnership and, except for the exercise of the voting and approval rights expressly granted to the General Partners Class A under this Agreement, shall not interfere or take part in the conduct or control of the Partnership's business. The General Partners Class A shall be personally liable and bound by any debt, liability or obligation of the Partnership. The General Partners Class A may advance or lend money to the Partnership or transact other business with the Partnership. The rights and liabilities of the General Partner Class A transacting business with the Partnership shall be as provided in the Partnership Act (Ontario).
+[13] The Amending Agreement of December 28, 1990, also contained a new provision with respect to the cash required to finance the operations of the Windsor Multi-Use Facility. Specifically, to the extent that the cash required was not available out of revenues, cash contributions were to be raised from the General Partners Classes A, B and C except for the first 15 years where Pruefer would advance on behalf of the General Partners Classes B and C the amounts they would otherwise be obligated to make. Pruefer would only be entitled to recover the amounts out of any monies to which the General Partners Classes A and B would otherwise be entitled from the business operations without interest. After the 15 years, Pruefer's right to recover any amounts advanced would expire. Given the significance of this provision it is worthwhile repeating it in its entirety:[5]
+3.13 Cash Required
+The cash required to finance the operations of the Windsor Multi-Use Facility to the extent that it is not available out of revenues shall be raised by cash contributions from the General Partners Class A, General Partners Class B and General Partners Class C in proportion to their respective interests as General Partners Class A, General Partners Class B and General Partners Class C except during the period expiring fifteen (15) years from the date of closing, R.C. Pruefer Co. Limited shall advance on behalf of the General Partners Class B and General Partners Class C the cash contributions which the General Partners Class B and General Partners Class C would otherwise be obligated to make and R.C. Pruefer Co. Limited thereafter be entitled to recover the amounts out of any monies to which the General Partners Class B and General Partner Class C would otherwise be entitled from the business operations without interest. After the said fifteen (15) year period R.C. Pruefer's right to recover any amounts advanced by it on behalf of the General Partners Class B and General Partners Class C shall expire and thereafter the General Partners Class B and General Partners Class C shall be liable to pay for their share of all cash deficiencies, R.C. Pruefer Co. Limited shall no longer have any right to recover the amounts previously advanced from the General Partners Class B and General Partners Class C. Subject to the aforesaid, each General Partner Class B's and General Partners Class C's share of any deficiency shall be due and payable thirty (30) days after demand therefore by the manager acting as agent for all Partners.
+Mr. Menzies explained this was inserted to ensure the Partners were liable for operational losses.
+[14] A further provision was inserted requiring that the General Partner could be removed, if in default, by a special resolution of the Partnership but only if all amounts owing by the Partnership to the former General Partner had been paid in full.
+[15] By Agreement dated December 28, 1990, Mr. Hakem disposed of the limited partnership unit acquired by him on December 18, 1990, in consideration of the issuance to him of a Class B unit with the same capital value as the limited partnership unit. Mr. Ziter did likewise. Mr. Docherty retained his initial limited partnership unit. The Partnership records were somewhat confusing as to Mr. Hakem's unit holdings, at one point indicating that he held three units. Mr. Hakem, however, was adamant that he ultimately only held one and one-half units; the unit acquired in December 1990, and a one-half interest in a unit the following year.
+[16] The Partnership Agreement of late December 1990 was further amended November 28, 1991 again signed solely by Mr. Docherty on behalf of all parties. Mr. Docherty could not recall the reason for this amendment. Paragraph 3.13 was amended to do away with the expiration of the General Partners Class B and Class C obligation to cover operational losses after 15 years. In its stead the provision now provided that the General Partners would remain liable. The amended portion read as follows:[6]
+... After the said fifteen (15) year period, the General Partners Class B and General Partners Class C shall be liable to pay for their share of all accumulated net losses and each General Partner Class B's and General Partners Class C's share of any subsequent net loss shall be due and payable one hundred and twenty (120) days after demand by the General Partner acting as agent for all Partners and R.C. Pruefer Co. Limited shall have the right to recover all amounts advanced, prior to and subsequent to the said fifteen (15) year period, from the General Partners Class B and General Partners Class C pursuant to 3.7 above from the business operations with simple interest at prime charged by the Main Branch of the Canadian Imperial Bank of Commerce.
+[17] In 1991, four and a quarter more units were sold in the Partnership. The Ronald Hakem Trust, in which Mr. Hakem was a 50 per cent beneficiary, acquired one unit. The Michael Ziter Trust, in which Michael Ziter was a 50 per cent beneficiary, also acquired one unit. All the units acquired in 1991 were registered as Class C units. The face value of the units totalled $1.7 million. The cash contributed in respect thereto in 1991 was $170,000.
+[18] On October 1, 1992, the Limited Partnership Agreement was further amended and restated, though no signed copy was produced at trial. It provided:
+(i) Pruefer was now named as a party to the Agreement together with the General Partner, Mr. Docherty as the initial limited party, any existing limited partners and those partners holding Classes B and C units. Pruefer was to be issued a Class A Partnership interest in consideration of certain capital contributions;
+(ii) the parties agreed to carry on a limited partnership, the business of the Partnership being the development and operation of the Multi-Use Facility;
+(iii) the funds realized through the sale of the units were to be used to repay costs incurred in the development of the Facility and to further the development of the Facility;
+(iv) net losses of the Partnership were to be determined by the General Partner and allocated to each partner on the basis of his contributions provided that in the first fiscal year in which a Class C unit has been issued, for the purpose of allocating the loss, the capital contribution of such a partner was to be multiplied by a factor of 2.7 - that is the loss otherwise to be allocated would be increased by a factor of 2.7;
+(v) the Agreement also contained the same provision relating to the cash requirements of the Class B and Class C unit holders to finance the operations of the Facility and the liability of Pruefer in respect thereto as was in the December 28, 1990 version of the Partnership Agreement; that is, the Classes B and C unit holders' obligation in that regard expires after 15 years; and
+(v) the Classes B and C unit holders were not to interfere or take part in the conduct or control of the Partnership's business.
+[19] An Offering Memorandum was also issued on October 1, 1992. The Memorandum provided for a maximum of five limited partnership units and also for a maximum aggregate of 20 Classes A, B and C Partnership units for a subscription price of $400,000 for each limited partnership unit and for each Class C unit, with payment terms almost identical to those set out in paragraph 9 hereof for limited partnership units. The price per unit for each Class A and B Partnership unit was to now be determined by the General Partner and was to be payable in accordance with the terms of a subscription balance note. The note provided that the amount determined by the General Partner and set out in the note, together with interest thereon, was to be paid out of the partner's share of net income. If the partner's share of net income was less than the amount determined by the General Partner plus accrued interest, then payment would be deferred until the next fiscal year and so on from time to time for each fiscal year.
+[20] The Offering Memorandum of October 1992 also provided that the aggregate subscription proceeds were to be used to pay the administration and development costs incurred by the Partnership for site investigations, marketing surveys, feasibility studies, and representations to the City of Windsor and the Province of Ontario, professional fees and management fees incurred to date and to further the purposes of the Partnership. It also provided that the Limited Partnership would enter into a management agreement with Pruefer for the management of the Facility throughout the term of the sublease. The Offering Memorandum highlighted that pursuant to a Lease Agreement with the City, Pruefer had been granted until January 31, 1993 to satisfy the City of Windsor with respect to the raising of the necessary financing for the project.
+[21] In 1992, the financial statements of the Partnership disclosed that 13 more Class C units were sold, with a total face value of $5,200,000. Cash contributions in the year were approximately $1,750,000.
+[22] In summary, the history of the Class B and Class C units acquired in the Partnership is as follows:
+Tax Year
+1990
+1991
+1992
+1995
+No. of Units Acquired
+2
+4.25
+13.25
+Cumulative total
+2
+6.25
+19.5
+19.5
+Subscription price (cumulative total)
+800,000
+2,500,000
+7,700,000
+7,7000,00
+Cash Paid
+(cumulative total)
+200,000
+370,000
+2,329,000
+2,600,00 (approx.)
+Amount outstanding
+600,000
+2,130,000
+5,371,000
+5,772,112 (including interest)
+[23] Mr. Hakem paid the following to the Partnership:[7]
+Year
+Cash Paid
+Loss Claimed
+1990
+100,000
+250,000
+1991
+65,000
+215,000
+1992
+22,500
+138,885
+1993
+22,500
+135,724
+1994
+22,500
+92,249
+1995
+5,625
+62,461
+$238,125
+$894,319
+[24] Mr. Docherty paid the following to the Partnership:
+Year
+Amount Paid
+Loss Claimed
+1992
+80,000
+203,513
+1993
+74,457
+1994
+49,200
+1995
+12,000
+33,313
+1996
+24,000
+116,000
+354,179
+[25] On February 6, 1996, the Limited Partnership Agreement was further amended by replacing paragraph 3.13 with the following provision:[8]
+e) Paragraph 3.13 of the Limited Partnership Agreement is amended by deleting the same and substituting the following:
+"Cash Required"
+The cash required to finance the operations of the Partnership to the extent that it is not available out of revenues shall be raised by cash contributions from the General Partners Class A, General Partners Class B and General Partners Class C in proportion to their respective interests as General Partners Class A, General Partners Class B and General Partners Class C except during the period expiring fifteen (15) years from the date of closing, R.C. Pruefer Co. Limited shall advance on behalf of the General Partners Class B and General Partners Class B and General Partners Class C would otherwise be obligated to make and R.C. Pruefer thereafter be entitled to recover the amounts of such advances out of any monies to which the General Partners Class B and General partner Class C would otherwise be entitled from the business operations without interest.
+[26] I shall now turn to the activities in which the Partnership and more specifically, Mr. Docherty, through the auspices of Pruefer, were engaged in developing the Multi-Use Facility Project.
+Development of the Multi-Use Facility Project
+[27] Mr. Docherty controls Pruefer. In 1979, Pruefer successfully bid on a project in Windsor known as the City Centre Project. This project consisted of the riverfront development of three hotels, a commercial podium and a nine-floor parking garage. The project extended back three blocks from the riverfront. Bridges connected the hotels to the parking. Mr. Docherty was able to attract The Hilton as one of the hotels.
+[28] In the late 1980s, Mr. Docherty was approached by the City of Windsor City Manager for assistance in acquiring downtown property for further redevelopment, specifically the development of a multi-use facility. Pruefer was able to acquire the land and pass it on to the City. The City acquired the bulk of the land for redevelopment by expropriation at a cost of approximately $8 million. The City sought proposals for the Multi-Use Facility Project in late 1989. Pruefer submitted a proposal hoping to tie in with the existing City Centre Project.
+[29] The City ultimately decided to pursue that proposal with Pruefer. During the 1990s, serious negotiations were ongoing between Pruefer and Windsor to develop a mutually agreeable proposal. On November 20, 1990, City Council enacted a Resolution approving the Pruefer proposal. In the fall of 1990, Mr. Docherty had submitted a draft Memorandum of Agreement in Principle to the City which was approved on December 21, 1990. The Agreement covered the following:
+i. Pruefer would construct the Multi-Use Facility with no cost to the City and would obtain a 30-year lease on the building with a rent of $1.00 per year;
+ii. the City would be required to go to the Ontario legislature for a special Private Act to provide a land tax exemption for the property as well as permission for the less than market value rent proposal;
+iii. after 30 years the ownership of the Multiplex would revert back to the city but in the interim a trust fund would be created to ensure the proper maintenance of the complex;
+iv. Pruefer would be able to encumber its leasehold interest up to $25 million with the added right to encumber chattels and equipment up to $2.5 million;
+v. a ticket surcharge for facility events would fund ongoing upkeep of the facility (the "enhancement fund"); and
+vi. Agreements with the City, including a commercial ground lease, were to follow. The implementation of the Memorandum and its major components was to be in 3 phases, namely (a) the Conditions Precedent Phase, (b) the Construction Phase, and (c) the Lease Phase.
+[30] Over the next two years, Pruefer proceeded to obtain the necessary legislative amendment from the Ontario government. Pruefer also conducted its own market surveys and feasibility studies to determine the economic viability of the project. Cash flow and revenue projections were based on the venue accommodating hockey, boxing, concerts, bingos, conventions and trade shows, estimating annual revenues of approximately $59.5 million with net profit of $6.5 million. Critical to the success of the project was the ability to lease property at a nominal amount, to exempt the property from certain municipal taxes and to maintain an enhancement fund from revenues of the project to keep the facility in constant repair. Mr. Docherty's efforts through Pruefer accomplished all of these objectives.
+[31] By 1992, Mr. Docherty realized the project required greater economic strength, and he hatched the idea of including a casino in the project. The casino was to be owned and operated by the Province of Ontario. On March 24, 1992, City Council passed Resolution 282/92, which endorsed the concept of a casino and supported Pruefer's petition to the Province of Ontario to secure approval for the location of a casino in the City of Windsor on the Multi-Use site.
+[32] Mr. Docherty spoke to Bitove, an organization which provided food services to the SkyDome in Toronto and obtained a commitment of financial support from them. Mr. Hawkins, who was with Bitove at the time, testified that the project had appeal, that the projections he saw from Mr. Docherty were conservative, and that the nominal rent and tax abatement were critical to the viability of the project. He acknowledged that the tax and rent concession might be valued at approximately $20 million. Discussions between Mr. Docherty and Bitove culminated in a Memorandum of Understanding dated December 16, 1992 setting out the arrangements by which Bitove would lease and operate the premises. This Memorandum of Understanding constituted a form of agreement of cooperation. As the facility did not proceed, there was no further involvement by Bitove.
+[33] Mr. Docherty had a study done by academics endorsing the casino project, which appears to have satisfied the City of the merits. A casino committee was established with some high profile respectable community members from labour, business, university and the City. The Government of Ontario did approve downtown Windsor as the site of a pilot casino plan in October 1992, though not specifically the Multi-Use site proposed by Pruefer. The City then proceeded to rescind Resolution 282/92 in October 1992.
+[34] On September 21, 1992, Pruefer and the City of Windsor entered a "Ground Lease Agreement"[9] in which certain conditions precedent were to be met prior to January 31, 1993, failing which the lease would be void ab initio. Two of the conditions were:[10]
+(i) The Landlord shall have validly and finally passed a by-law or by-laws pursuant to the City of Windsor Act, 1991, S.O. 1991, chap. Pr28
+(a) authorizing the entering into of the lease of the Site herein at less than fair market value as contemplated by Section 1(a) of said Act;
+(b) exempting the Site from all taxes for municipal or school purposes as contemplated by Section 1(b) of said Act; and
+(c) authorizing establishment of the Enhancement Fund as contemplated by Section 2 of said Act;
+(ii) The Tenant shall have provided full disclosure to the Landlord of the firm financing commitments and arrangements procured by the Tenant relative to the construction of the Facility and associated improvement of the Site, and all such financing commitments and arrangements with respect to the Project shall have been approved by the Landlord, which approval may be withheld by the Landlord in its absolute and unfettered discretion;
+[35] Mr. Docherty assisted the City in finalizing the use of the existing Art Gallery as a temporary site for a casino from June 1994 for a four-year period. In July 1993, the City of Windsor granted an extension to Pruefer to meet the conditions set out in the 30-year lease. The extension was until 30 days after cessation of use of the Art Gallery as an interim casino. The Gallery was used for over four years as a casino. The City later rescinded this extension on August 3, 1993, shortly after the commencement of a lawsuit in which Pruefer and the Partnership brought action against the City of Windsor for specific performance of the lease or, in the alternative, damages of $100 million. Pruefer and the Partnership ultimately were not successful with this lawsuit, judgment being rendered in January 1996.
+[36] As well as securing the nominal rent, the tax exemption and the go-ahead for a Windsor casino, Mr. Docherty was also active in assisting the City of Windsor obtain all the necessary real estate for the Project. This involved acting as intermediary for the City in acquiring the McLean property as well as some Holiday Inn property. He also attempted to obtain certain Canadian Tire property though that property deal never concluded.
+[37] Apart from pursuing the lawsuit from 1993 to 1996, there was little evidence of other activity in connection with the Multi-Use Facility Project until 1997. Minutes of a Partnership meeting dated April 7, 1994, indicated an interest in pursuing positions in other projects adjacent to the multi-use site though no other evidence was presented suggesting this was pursued further.
+[38] In late 1996 or early 1997, Mr. Docherty was in contact with JEBB Corporation (JEBB), an organization seeking to become an integral part of the Western Super Anchor proposal. This was the name given to the successor to the multi-use facility proposal. Mr. Docherty provided JEBB with significant assistance in the form of their previous proposal on the multi-use facility, including the basic proposal documents, projections, development of the lease and hotel development. Mr. Docherty also introduced JEBB to Pruefer's former architects, Rosetti Associates. A comparison of the original Windsor Multi-Use Facility proposal put forth by Mr. Docherty's group, and the JEBB proposal ultimately submitted in February 1998 shows some similarities. JEBB indicated in a letter to Mr. Docherty on October 6, 1997, that:[11]
+... in consideration of your group's assistance, JEBB will make available to your group a small percentage of the equity investment in the project. The specific terms have not yet been reached. We would expect that the equity investment of your group to be in the range of 5%, ...
+Mr. David Batten, from JEBB, testified that he understood the Partnership would receive a five per cent equity interest if the project proceeded. Mr. Batten also highlighted the importance of the low rent and tax-exempt status for the project. To date the JEBB proposal has not proceeded.
+[39] On January 9, 1997, a Partnership meeting was held during which it was resolved that the Multi-Use site be re-conveyed to the City of Windsor.
+[40] The fees billed by Pruefer to the Partnership from 1990 to 1995 inclusive are summarized as follows:[12]
+EXPENSE
+1990
+1991
+1992
+1993
+1994
+1995
+Multi-Use Facility Commencement
+855,000
+1,500,000
+1,600,000
+1,053,713
+661,693
+785,120
+Professional fees
+312,000
+650,000
+270,000
+16,464
+Casino Commencement
+1,875,305
+810,000
+522,172
+Management fees
+175,000
+________
+_________
+________
+________
+_______
+Total fees
+1,342,000
+1,500,000
+4,125,312
+2,133,826
+1,183,865
+801,584
+Owing to Pruefer at Year End
+1,142,000
+2,472,000
+5,247,989
+7,365,958
+7,158,663
+8,239,633
+[41] Mr. Docherty described commencement costs as hard items such as those reflected in a 1990 Pruefer invoice identifying site investigation, market surveys, feasibility studies, management meetings, meetings with Windsor Utilities, lease negotiations and preparation of revenue statements. These expenses were incurred primarily in-house at Pruefer; there was no evidence of these expenses being incurred by anyone other than Pruefer. In an internal summary of the 1990 expenses, the $855,000 commencement costs for 1990 were simply described as general overhead. On a December 7, 1990, invoice, the fee of $175,000, which Mr. Docherty referred to as a management fee, was called administrative overhead costs and further outlined financing inquiries, meetings with architects, employees, surveyors and booking agents, preparing bid, visits to other arenas and primary negotiations with the Province of Ontario. On the accountants' internal summary of expenses this $175,000 was referred to as "markup".
+[42] The 1991 fee of $1.5 million was invoiced by Pruefer to the Partnership simply as management fees, as was the 1992 invoice, though the parties agreed this was broken down into commencement costs, professional fees and casino commencement costs as set forth above.
+[43] Mr. Docherty explained that the appropriate fees were determined by himself and his accountant, Mr. Alexander Menzies, once per year, primarily based on time spent on a project. Mr. Menzies described this more as a matter of Mr. Docherty setting the fee, and then Mr. Menzies determining from an accountant perspective whether the fee was plausible.
+[44] This requires further explanation, and I will use the 1993 fee of $2,133,826 as an example. For 1993, Mr. Menzies went over an internal working paper, which illustrated the process he used in determining reasonableness. It was clear that Mr. Docherty told him he wished to bill $1.8 million. To be consistent with prior years, Mr. Menzies simply apportioned the $1.8 million amongst Multi-Use commencement costs (40 per cent - $720,000), casino commencement costs (45 per cent - $810,000) and professional marketing costs (15 per cent - $270,000). To justify the $1.8 million, Mr. Menzies started by determining all of Pruefer's real costs for the calendar year. As Pruefer worked on a March 31 year-end, this required some pro-rating from one year to the next. Mr. Menzies relied on three major heads of expenses in Pruefer: apartment managers, general and administrative, and interest. Pruefer did carry on some other ongoing business such as property management for 1993. Mr. Menzies arrived at a total of expenses for Pruefer of $1.277 million. He then allocated that amount amongst Pruefer various activities, alloting a 46 per cent share to the Multi-Use Project. This allotment appears to have been done on a time spent basis. The 46 per cent of Pruefer's $1.277 million costs attributable to Multi-Use was $581,000. Then, the final step was to markup that $581,000 to reflect what Mr. Menzies believed, based on a course taken some years earlier, would be a reasonable profit margin of 50 to 60 per cent. To be clear, this meant that if a 50 per cent profit margin was sought, the cost would be doubled. In 1993, to achieve the $1.8 million fee desired by Mr. Docherty, the $581,000 was marked up by a factor of 3 to 1 (i.e. tripled), a profit margin of approximately 68 per cent. In reviewing the 1993 unaudited financial statements for the Partnership, the $810,000 casino commencement cost and the $270,000 professional and marketing costs appear on the statement, but the $720,000 multiple use commencement costs is shown as $1,053,713. Mr. Menzies could not account for the additional $333,713. He confirmed that he would have gone though a similar process for the other years in issue in establishing the appropriate fee. With respect to the 1994 fees, Mr. Menzies indicated they would have related primarily to the lawsuit.
+[45] Mr. Docherty testified that in the years in question all of his time was spent on the Multi-Use Facility Project. He also indicated that in the later years of the project, he received input from a couple of other Pruefer employees in the determination, with Mr. Menzies, of an appropriate fee. The annual fee was to be approved by the Partnership, though the December 31, 1990 approval was contained in minutes of a meeting in which only Mr. Docherty was present, acting on behalf of the General Partner, the Limited Partners and the holders of Class A and Class B general partner units. Indeed, all minutes tendered as evidence up to September 1991 were signed solely by Mr. Docherty.
+[46] While there was no documented evidence of specific Partnership approval of Expenses for 1992, 1993, 1994 and 1995, Mr. Hakem testified that the partners would review and approve financial statements, which contained Pruefer's fee, as it was indeed the only Partnership expense. Minutes of the meeting of the Partnership of April 7, 1994, signed by Mr. Docherty as chairman, evidence the approval of the 1992 and 1993 financial statements. Unsigned minutes of a February 7, 1996, Partnership meeting indicate approval of the 1995 financial statements.
+[47] From its perspective, Pruefer reported the amounts billed by it to the Partnership in its own financial statements for the relevant period but also:
+- as a Class A partner in the Partnership, had losses allocated to it from the Partnership (occasioned by its own billings to the Partnership) in 1990 and 1991 (approximately $791,100 and $410,000 respectively);
+- claimed doubtful or bad debts ($1,220,000 and $3,839,941) with respect to its billings to the Partnership for its 1992 and 1993 taxation years yet continued to bill substantial amounts in subsequent years;
+- reflected in its GST recordings, a write-off of its billings to the Partnership for 1992 and 1993; and
+- made negative adjustments in its accounts with respect to subsequent billings to the Partnership.
+[48] In a Notice of Objection dated June 1996, filed by Pruefer concerning a GST assessment in regards to the Windsor Multi-Use Facility, Pruefer stated:
+In respect of each of the projects the taxpayer has made a taxable supply for consideration to a person with whom the taxpayer was dealing at arm's length and in each case the taxpayer has determined that the indebtedness of that party was not collectible and was a bad debt.
+[49] Pruefer made no efforts to collect from the Partnership or the Partners any debt outstanding. Mr. Hakem did confirm that he considered the debt to Pruefer still outstanding. Mr. Docherty suggested he would have talked to the partners but they must not have had the money to pay Pruefer.
+Analysis
+(a) Were Mr. Docherty and Mr. Hakem limited partners in the Partnership in the years at issue and, therefore, subject to the at-risk rule set out in section 96 of the Act, limiting the deductibility of losses?
+[50] The relevant legislation is as follows:
+96(2.1) Notwithstanding subsection (1), where a taxpayer is, at any time in a taxation year, a limited partner of a partnership, the amount, if any, by which
+(a) the total of all amounts each of which is the taxpayer's share of the amount of any loss of the partnership, determined in accordance with subsection (1), for a fiscal period of the partnership ending in the taxation year from a business (other than a farming business) or from property
+exceeds
+(b) the amount, if any, by which
+(i) the taxpayer's at-risk amount in respect of the partnership at the end of the fiscal period
+exceeds the total of
+...
+shall
+(c) not be deducted in computing the taxpayer's income for the year,
+(d) not be included in computing the taxpayer's non-capital loss for the year, and
+(e) be deemed to be the taxpayer's limited partnership loss in respect of the partnership for the year.
+96(2.2) For the purposes of this section and sections 111 and 127, the at-risk amount of a taxpayer, in respect of a partnership of which the taxpayer is a limited partner, at any particular time is the amount, if any, by which the total of
+(a) the adjusted cost base to the taxpayer of the taxpayer's partnership interest at that time, computed in accordance with subsection (2.3) where applicable,
+(b) where the particular time is the end of the fiscal period of the partnership, the taxpayer's share of the income of the partnership from a source for that fiscal period computed under the method described in subparagraph 53(1)(e)(i), and
+(b.1) where the particular time is the end of the fiscal period of the partnership, the amount referred to in subparagraph 53(1)(e)(viii) in respect of the taxpayer for that fiscal period
+exceeds the total of
+(c) all amounts each of which is an amount owing at that time to the partnership, or to a person or partnership not dealing at arm's length with the partnership, by the taxpayer or by a person or partnership not dealing at arm's length with the taxpayer, other than any amount deducted under subparagraph 53(2)(c)(i.3) in computing the adjusted cost base, or under section 143.2 in computing the cost, to the taxpayer of the taxpayer's partnership interest at that time, and
+(d) any amount or benefit that the taxpayer or a person not dealing at arm's length with the taxpayer is entitled, either immediately or in the future and either absolutely or contingently, to receive or to obtain, whether by way of reimbursement, compensation, revenue guarantee, proceeds of disposition, loan or any other form of indebtedness or in any other form or manner whatever, granted or to be granted for the purpose of reducing the impact, in whole or in part, of any loss that the taxpayer may sustain because the taxpayer is a member of the partnership or holds or disposes of an interest in the partnership, ...
+96(2.4) For the purposes of this section and sections 111 and 127, a taxpayer who is a member of a partnership at a particular time is a limited partner of the partnership at that time if the member's partnership interest is not an exempt interest (within the meaning assigned by subsection (2.5)) at that time and if, at that time or within 3 years after that time,
+(a) by operation of any law governing the partnership arrangement, the liability of the member as a member of the partnership is limited (except by operation of a provision of a statute of Canada or a province that limits the member's liability only for debts, obligations and liabilities of the partnership, or any member of the partnership, arising from negligent acts or omissions or misconduct that another member of the partnership or an employee, agent or representative of the partnership commits in the course of the partnership business while the partnership is a limited liability partnership);
+(b) the member or a person not dealing at arm's length with the member is entitled, either immediately or in the future and either absolutely or contingently, to receive an amount or to obtain a benefit that would be described in paragraph (2.2)(d) if that paragraph were read without reference to subparagraphs (ii) and (vi);
+(c) one of the reasons for the existence of the member who owns the interest
+(i) can reasonably be considered to be to limit the liability of any person with respect to that interest, and
+(ii) cannot reasonably be considered to be to permit any person who has an interest in the member to carry on that person's business (other than an investment business) in the most effective manner; or
+(d) there is an agreement or other arrangement for the disposition of an interest in the partnership and one of the main reasons for the agreement or arrangement can reasonably be considered to be to attempt to avoid the application of this subsection to the member.
+[51] With respect to Mr. Docherty the only year in issue is 1993. In that year, he wore hats of both a limited partner, as he still retained the status of the initial limited partner, and a general Class C partner, having acquired a general Partnership Class C interest with an $80,000 payment in 1992. The losses he claimed for 1993 can only arise pursuant to his Class C holding, as his limited partnership unit was a one dollar unit only, which is clearly caught by the at-risk rules set forth above.
+[52] Mr. Hakem acquired a limited partnership unit in early December 1990, but by the end of the month, the Partnership Agreement had been amended to provide for three classes of general partnership units, and Mr. Hakem exchanged his limited partnership unit for a general partnership unit.
+[53] Mr. Gobeil for the Respondent argued that pursuant to subsection 96(2.1), if a partner is a limited partner at any time in the year then the at-risk rules apply. I prefer to approach this issue firstly by establishing whether both Mr. Hakem and Docherty are deemed to be limited partners, in Mr. Docherty's case throughout 1993, and in Mr. Hakem's case from 1990 to 1996. Only if I find they were limited partners for just part of a year, will it be necessary to consider the implications of the words "at any time in the year" in subsection 96(2.1).
+[54] As set out in paragraph 96(2.4)(b), partners will be limited partners if the partner is entitled immediately or in the future and absolutely or contingently to obtain a benefit. For this purpose, 'benefit' can be in any form, if for the purpose of reducing the impact of any loss the partner may sustain because he or she is a member of the Partnership.
+[55] Mr. Gobeil identified a few possible benefits. I find it necessary to only review one; that is, the possible benefit arising from paragraph 3.13 (see paragraph 12 of these Reasons). Paragraph 3.13 took on some reincarnations over the several Partnership Agreement amendments. For Mr. Docherty's 1993 taxation year, the operative agreement was the October 1, 1992 document. Pursuant to paragraph 3.13 of that particular Agreement, for 15 years from the closing of the offering of units, Pruefer is obliged to cover the General Partners' obligation to contribute cash to finance the operation of the business, if there is a shortfall of revenues. Pruefer can recover from the General Partners but only from revenues due to the General Partners. This right of Pruefer to collect from the General Partners expires after the 15-year period.
+[56] Mr. Barat argues that there is no entitlement to a benefit, because the provision is never engaged. It is never engaged, he suggests, because the facility was never built. There was therefore never any requirement to finance the operations of the facility. I do not accept Mr. Barat's premise. It hinges on the interpretation of the term "to finance the operations of the Windsor Multi-Use Facility". The very first preamble to the Partnership Agreement states that the partners wish to enter the agreement for the purpose of constituting a limited partnership to carry on business under the firm name and style of "Windsor Multi-Use Facility". This is repeated in paragraph 2.2 - the Partnership shall carry on business under the name of Windsor Multi-Use Facility. Paragraph 3.13 is not limited to financing operations of an up and running facility. I interpret it to mean cash required to finance the business. The business does not start just when the facility is up and running. Mr. Barat's interpretation would imply that all steps prior to a fully operational facility are not part of the operations of the business. This is too narrow a reading. The business operations are all activities, developmental or otherwise.
+[57] Interpreting this provision in this manner clarifies some of Mr. Docherty's behaviour. When asked why he did not pursue collection of Pruefer's fees from the Partners, his response was vague, finally suggesting that the Partners may not have had the money. That answer was not credible. The Agreement itself I suggest is the answer. Until there were revenues, the Partners were not obliged to pay Pruefer's bills. Further, after 15 years, the Partners' obligation to repay Pruefer expired altogether.
+[58] Is this a benefit to the Partners? Certainly. On this interpretation of paragraph 3.13 there was a real and immediate benefit. The Partners did not have to suffer the losses arising from the developmental costs of the Project.
+[59] If I am wrong in my interpretation of paragraph 3.13 and it is only intended to click in once the Project is fully operational, that is, the facility is built, does there still exist an entitlement to a benefit in any form, immediate or in the future, absolute or contingent? I believe there does. Interpreted even as Mr. Barat suggests, if revenues from operations of the Facility were less than expenses, thereby creating a loss, Pruefer, not the Partners, would be required to cover the excess costs. In other words, this contractual arrangement does not just reduce the impact of any loss to the Partners, it eliminates the loss altogether to the Partners, potentially forever in the case of losses accumulated during the 15-year period.
+[60] Mr. Barat argues that this is not the type of benefit contemplated by section 96, referring to benefits of a different nature in both the McKeown v. The Queen[13] and Brown v. The Queen[14] cases. Neither of those cases limit the nature of a benefit, the subject of subsection 96(2.2). The wording of the section is cast broadly - entitlement immediate or in the future, absolutely or contingently, in any form or manner. I find that not having to pay any operational expenses over revenues for a 15-year period, with no obligation after the 15 years for such accumulated costs, is a benefit captured by subsection 96(2.2). Consequently, Mr. Docherty was a limited partner in 1993 based on the benefit entitlement found in paragraph 3.13 of the October 1992 Agreement.
+[61] With respect to Mr. Hakem, different agreements covered different periods of his holding of a Partnership interest. The form of paragraph 3.13 I have just reviewed was found in the Agreements of December 28, 1990, and October 1, 1992, and, therefore, was operative for the periods December 28, 1990, to November 28, 1991, and from October 1, 1992, to February 6, 1996, and I therefore find for those periods Mr. Hakem was likewise deemed to be a limited partner due to the benefit arising from paragraph 3.13.
+[62] For the periods governed by the November 28, 1991 and February 6, 1996 Agreements, paragraph 3.13 reads as set forth in paragraphs 16 and 24, respectively, of these Reasons; that is, Pruefer's rights to collect from the Partners did not expire after 15 years. However, under those Agreements, Pruefer, after the 15-year period, was limited to recover the losses it had covered for the Partners only from the profits of the Partnership. For those periods were the Partners entitled to any benefit as contemplated by subsection 96(2.2)? Again, I believe they were.
+[63] Firstly, on the interpretation I give to the meaning of "cash required to finance the operations", as including the developmental costs of the business, it would have been clear to Mr. Hakem at the time of the November 1991 Agreement, and again at the time of the February 1996 Agreement, that, as there was no likelihood of a facility for some considerable period of time, if at all, any expenses were covered by Pruefer. Apart from his obligation to continue his requisite annual payments towards the subscription price, paragraph 3.13 freed him from any other obligation to cover the Project's losses in 1991-1992 or after 1996. That was an immediate, absolute benefit which reduced the impact of the loss in those years. There was a strong possibility there would never be revenues from this facility which would require Mr. Hakem to repay Pruefer. That was a contingent benefit.
+[64] Even if I accept Mr. Barat's interpretation that paragraph 3.13 was never engaged, as there never were any operations from a facility, does the second form of paragraph 3.13 constitute an entitlement in the future, contingently to obtain a benefit? Again, the answer is yes. While the possibility of Pruefer's right to collect accumulated losses from the Partners did not expire under the second form of paragraph 3.13, the Partners' obligation was limited to revenues. In effect, they were never responsible for losses from their own resources. They only ever had to pay present or past Expenses out of profits from the Project. That is the raison d'être of paragraph 3.13 in either form.
+[65] In that light, this is the very type of benefit that logically and reasonably should trigger a characterization of partners as limited partners. Their liability is contractually limited. I find both Mr. Hakem and Mr. Docherty during the relevant periods were limited partners.
+[66] Applying the at-risk rules first to Mr. Docherty for 1993, his claimed loss was $71,666, his adjusted cost base of his Partnership unit was $240,000 and he owed $240,000. His at-risk amount was therefore zero, and he is entitled to no deduction for any losses in 1993.
+[67] Applying the at-risk rules to Mr. Hakem, I find that the amounts at-risk were as follows:
+Tax Year
+1990
+1991
+1992
+1993
+1994
+1995
+Loss Claimed
+$250,000
+$215,000
+$138,085
+$135,724
+$92,248
+$62,461
+Capital Cost of unit acquired
+$400,000
+0
+$500,000
+$435,000
+$412,500
+$390,000
+$367,500
+Less: amount owing to Partnership (s.96(2.2)©)
+$300,000
+0
+$435,000
+$412,500
+$390,000
+$367,500
+$361,875
+At Risk Amount
+$100,000
+$65,000
+$22,500
+$22,500
+$22,500
+$5,625
+Loss Allowed by M.N.R.
+$100,000
+$65,000
+$22,500
+$22,500
+$22,500
+$5,625
+(b) Were the Expenses reasonable?
+[68] The reasons thus far are sufficient to dispose of these appeals. However, if I am wrong in finding Mr. Hakem and Mr. Docherty were limited partners, I wish to address the issue of the reasonableness of the Partnership Expenses.
+[69] The Expenses of the Partnership for the period 1990 to 1996 were just over $11 million. All of those expenses came from Pruefer's fees. The amounts billed by Pruefer to the Partnership were determined by Mr. Docherty and then reviewed by his accountant, Mr. Menzies. Mr. Menzies went through his methodology as explained in paragraph 44 of these Reasons.
+[70] In reviewing the reasonableness of Pruefer's fees, I find it helpful to refer to the succinct summary of Bowman A.C.J. in Safety Boss Ltd. v. Canada:[15]
+"Reasonable" in section 67 is a somewhat open-ended concept requiring the judgement and common sense of an objective and knowledgeable observer.
+It is also useful to consider the approach of Robertson J. in Mohammad v. The Queen:[16]
+... Nevetheless, section 67 must be applied in a reasoned manner and as objectively as possible ... Correlatively, whether or not an otherwise deductible expense is reasonable in the circumstances is not to be assessed by reference to whether any one expense, or the collective expenses, are considered to be disproportionate to revenues.
+[71] The first point which causes me some concern about the reasonableness of the fees is the very approach described by Mr. Docherty and Mr. Menzies. It was Mr. Docherty who set the fee for Pruefer to charge the Partnership. There is no question he is a man of some considerable experience in the property development business, but he was also effectively dealing with himself on these matters. He was the moving force behind Pruefer, the General Partner and the Partnership, as well as himself being a partner who would benefit from the ability to deduct higher expenses, though with no obligation as a partner to pay such expenses in the year incurred. Further, Pruefer itself claimed the 1992 and 1993 billings as bad debts. It was all somewhat close.
+[72] There is no doubt that in 1991 and 1992 Pruefer, through the efforts of Mr. Docherty, achieved some important objectives of the Project: a low rent long-term lease, casino approval and tax exempt status. As was clear from Mr. Hawkins, the concessions obtained by Mr. Docherty were valuable to ensure the future profitability of the Project. He acknowledged the tax saving was worth $11 million to $14 million and with the lease concession, it meant the Project did not have to carry an additional $20 million in costs. But the Project never went ahead, and the deal with the Partners was that they did not have to pay unless there were profits from the Project. So, once Mr. Docherty realized the Project was not proceeding, he could have upcharged Pruefer's costs to whatever he wanted, written them off in Pruefer and provided a deductible loss to the Partners. This arrangement demands close scrutiny as to its reasonableness.
+[73] Mr. Docherty says the Partners still owe Pruefer, notwithstanding Pruefer had written off parts of its fees and that Pruefer has taken no collection steps. Mr. Hakem stated that he felt he still owed them money. I did not take his testimony as meaning that he would pay Pruefer tomorrow, if asked; at best, I would interpret his testimony to mean that if the Partnership ever earns sufficient profits, he would be in a position to pay Pruefer. I do not find as credible any other explanation.
+[74] Mr. Hakem also testified that he approved financial statements annually, notwithstanding a lack of complete minutes in that regard. It is not surprising that Mr. Hakem would agree with statements provided by Mr. Docherty and Mr. Menzies. Mr. Docherty was the moving force. He had had prior dealings with Mr. Hakem. Mr. Hakem trusted Mr. Docherty and for good reasons. He had a proven track record. But it also made sense that if the Partnership Agreement did not require Mr. Hakem to pay until there were profits, he would have no reason not to approve the statements, however high the Expenses might have been, especially as it would give him some considerable deductible losses.
+[75] With that backdrop of the arrangement, I return to Mr. Menzies' verification of what he referred to as the plausibility of the fees. In 1993, he estimated Pruefer's actual time spent on the Windsor Multi-Use Facility Project equated to real costs in Pruefer of $581,000. Based on a reference to a course taken some years earlier he tripled this, and then an additional unexplained $330,000 was added. What would the objective, knowledgeable observer applying common sense, say about such a mark-up in an arm's length relationship, let alone a non-arm's length situation? Unfortunately, no comparative evidence was introduced as to what was acceptable in the property development industry. What makes sense in these surrounding circumstances? A mark-up from $581,000 to over $2 million for accomplishments which never ultimately achieved the end result, is not commercially reasonable, especially in light of the arrangement between Pruefer and the Partnership. This is not a matter of the Court second-guessing the business acumen of Mr. Docherty and his accountant. It is a matter of an objective assessment of the fees under the particular circumstances.
+[76] What then is reasonable? The Respondent argues that what the Partners actually paid is reasonable. That is the only hard evidence of what a reasonable business person would pay - what was actually paid. Given the contractual arrangement at issue here, I agree. Mr. Barat argues that it would be unreasonable to expect a lawyer to bill an hour at an hourly rate of $250, for a one hour telephone call if the result of that one call saved the client millions. No one can dispute that, but the lawyer's bill is clearly based on success. Similarly here, payment of Pruefer's account was based on future profits, future success - a success that was never achieved. Payment was not based on the success of any intermediary steps.
+[77] The amount of approximately $2.6 million Mr. Hakem, Mr. Docherty and the other Partners actually paid for their partnership interest went towards the Pruefer accounts. Although this is somewhat shy of what Mr. Menzies' rough estimate might have been of Pruefer's hard costs over the years, I am satisfied it truly represents what reasonable businessmen - the Partners - were indeed prepared to pay. I have not been convinced that the determination of hard costs attributable to the Partnership by Mr. Menzies is completely reliable given the method of determination. His calculation of time spent by Mr. Docherty on the Partnership seems arbitrary as was his allocation amongst different facets of the Partnership and his considerable mark-up.
+[78] In summary, I apply section 67 in finding the Expenses of the Partnership resulting from Pruefer fees in excess of what the Partnership actually paid were unreasonable in the circumstances, the circumstances being:
+(i) the non-arm's length relationship between the entity billing, Pruefer, and the recipient of the bill, the Partnership;
+(ii) the ability of Mr. Docherty, the moving force behind the Pruefer bills, as a Partner to deduct losses created by the bills;
+(iii) a contract in which Pruefer agreed to cover costs until there was profits;
+(iv) the writing-off by Pruefer of the bills to the Partnership as bad debts with no effort to collect;
+(v) the lack of success of the Project;
+(vi) the arbitrariness of the determination of the fees;
+(vii) the fact the Partnership made no contribution to the fees, other than from their contractual obligation to pay for their Partnership interest.
+[79] This conclusion leads to the same result as the initial finding that, as Limited Partners, Mr. Docherty's and Mr. Hakem's losses are limited to their at-risk amount.
+[80] The appeals are dismissed, with one set of costs to the Respondent.
+Signed at Ottawa, Canada, this 18th day of December, 2003.
+"Campbell J. Miller"
+J.T.C.C.
+CITATION:
+2003TCC754
+COURT FILE NO.:
+1999-3141(IT)G and 1999-3168(IT)G
+STYLE OF CAUSE:
+William Docherty and Ronald Hakem and Her Majesty the Queen
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+October 7, 8 and 9, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+December 18, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Arthur M. Barat, Q.C. and Avril Farlam
+Counsel for the Respondent:
+Richard Gobeil and Ronald MacPhee
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Arthur M. Barat, Q.C.
+Firm:
+Barat Farlam Millson
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Joint Book of Documents Vol. 4, Tab 44.
+[2] Joint Book of Documents, Vol. 4 Tab 46.
+[3] Joint Book of Documents, Vol. 4 Tab 53.
+[4] Joint Book of Documents, Vol. 4 Tab 48 page 14.
+[5] Joint Book of Documents, Vol. 4 Tab. 48, page 10,
+[6] Joint Book of Documents, Vol. 4 Tab 49, page 304.
+[7]
+Statement of Agreed Facts.
+[8] Joint Book of Documents, Vol. 4 Tab 51, page 4.
+[9] Joint Books of Documents, Tab 80, page 8496.
+[10] Joint Book of Documents, Tab 80, page 8508.
+[11] Joint Supplementary Book of Documents, Tab 149.
+[12] Statement of Agreed Facts, page 12.
+[13] [2001] 4 C.T.C. 2197.
+[14] 2003 FCA 192.
+[15] [2000] T.C.J. No. 18.
+[16] [2002] T.C.J. No. 201.

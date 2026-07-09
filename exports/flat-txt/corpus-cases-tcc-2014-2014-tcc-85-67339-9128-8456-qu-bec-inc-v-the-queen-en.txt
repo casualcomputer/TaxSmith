@@ -1,0 +1,173 @@
+Title: 9128-8456 Québec Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/67339/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-85-67339-9128-8456-qu-bec-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-03-18
+
+# 9128-8456 Québec Inc. v. The Queen
+
+- Citation: 2014 TCC 85
+- Decision date: 2014-03-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5316, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9128-8456 Québec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-03-18
+Neutral citation
+2014 TCC 85
+File numbers
+2012-794(GST)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-794(GST)G
+BETWEEN:
+9128-8456 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Costs regarding the hearing held on January 28, 2014
+at Montreal, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Former Counsel of Record
+for the Appellant:
+Me Guy Matte
+Counsel for the Respondent:
+Me Danny Galarneau
+____________________________________________________________________
+ORDER
+Upon receiving written submissions on the subject of costs in this matter;
+IT IS ORDERED AND DIRECTED THAT:
+The Court fixes costs, as detailed in the attached Reasons for Order, payable by the Appellant’s former counsel of record, Me Guy Matte, to the Appellant as follows:
+(a) Two-thirds of the award of costs in favour of the Respondent and payable by the Appellant, being $5,000, are to be reimbursed promptly by Me Matte to the Appellant pursuant to the Tax Court of Canada Rules (General Procedure), paragraph 152(1)(b).
+(b) Me Matte is to indicate by letter to this Court when this has been done.
+(c) The Appellant’s new counsel of record is directed to promptly send a copy of this Order and the Reasons for Order to the Appellant.
+Signed at Ottawa, Canada this 18th day of March 2014.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 16th day of September 2014.
+Erich Klein, Revisor
+Citation: 2014 TCC 85
+Date: 20140318
+Docket: 2012-794(GST)G
+BETWEEN:
+9128-8456 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+Boyle J.
+[1] These are my reasons on whether the Appellant should be indemnified by its counsel under section 152 of the Tax Court of Canada Rules (General Procedure) in respect of costs awarded against it. The Appellant operates a busy and successful landscaping business and has sales of $2,000,000. The hearing of the substantive issue, being that of alleged accommodation invoices, has yet to take place. The costs award at issue arose out of the hearings with respect to the motions described below.
+[2] The Notice of Appeal was filed by the Appellant in February 2012. The Appellant was represented throughout the relevant period by Me Guy Matte of Montreal. Me Matte is a lawyer and chartered accountant who has a master’s degree in taxation. He practices law through Me Fiscalex Inc. and his practice focuses on tax matters. The hearing of the appeal was set down by order of this Court in February 2013 for Tuesday, January 28, 2014; it was to be a one-day hearing. On November 28, 2013, Me Matte confirmed to the Court in writing that the Appellant was ready to proceed with the January 28, 2014 hearing of the appeal. The Respondent’s counsel similarly confirmed a few days later that the Respondent was ready to proceed.
+[3] On January 23, 2014, that being the Thursday before the Tuesday of the hearing, the Appellant’s counsel wrote to the Court to advise that more than one day would be required for the hearing and to ask for an additional hearing date. The Court advised Me Matte the next day, Friday, January 24, that the matter would proceed on Tuesday and that the assigned trial judge, being me, would see where things got to and could then address the question of an additional hearing date, if needed, to conclude the hearing, but indicated that the judge’s remaining sittings that week in Montreal were taken up with other parties’ hearings.
+[4] The Respondent’s counsel asked the Court for a case management conference to be held on the afternoon of Friday, January 24, in order to address the question of whether it would be necessary for him to have his several witnesses attend the Tuesday hearing in Montreal on the chance that the Appellant’s evidence would be completed more quickly than anticipated under Me Matte’s revised expectations.
+[5] A short case management conference at which I presided was held by telephone at 4 p.m. and lasted ten minutes. It was decided that the trial would begin on Tuesday as scheduled and that the Respondent’s witnesses would not be required to attend that day. The possibility of a second sitting day that week was also discussed in the event that in an unrelated matter, for which a three-day trial before me to begin on the Wednesday had been scheduled, there was a settlement or an adjournment, or the trial ended more quickly than expected. Me Matte indicated that he and his client would be available any of those three days to continue the hearing. The Respondent’s counsel indicated that he had to appear in another Court on the Wednesday but that the Respondent could resume on the Thursday or Friday should those days become available.
+[6] As is my custom, I ended the case management conference by asking the parties if there was anything else of a preliminary or a preparatory nature we should discuss or that I could help with. Nothing was raised.
+[7] Nevertheless, a half hour later, Me Matte faxed to the Respondent’s counsel an Amended List of Documents. Since it was sent by Me Matte after 4:30 p.m. that Friday afternoon, that is, after the close of business of the Respondent’s counsel’s office (and of the Court Registry for that matter), it was only received by the Respondent’s counsel on the Monday morning before the trial. Just as Me Matte had not raised the matter of the amended list of documents during the case management conference, he did not phone or otherwise try to contact the Respondent’s counsel to alert him to the fact that it was being sent. Me Matte electronically filed his Amended List of Documents and Proof of Service with the Court shortly before 5 p.m. that Friday afternoon.
+[8] On Monday the 27th, the Respondent’s counsel contacted the Court to ask for an adjournment based upon the need for time to review the documents added to the Appellant’s List of Documents and to consider whether the Respondent’s Reply needed to be amended as a result and whether additional evidence would need to be called in response. The Respondent’s counsel sought to have the adjournment granted on the Monday to obviate the need to travel from Quebec City to Montreal in a severe blizzard. I decided that this request should also be addressed at the start of the hearing the next day.
+[9] At the start of the hearing on the Tuesday, the Appellant’s request concerning its Amended List of Documents and the Respondent’s request for an adjournment to review the additional documents and perhaps to file an amended reply were heard first. The Respondent’s counsel advised that the additional documents on the Appellant’s list appeared to broaden the issues to be determined beyond the alleged accommodation invoices issue to other items in the assessment. He also advised that there was a considerable number of added documents. During the course of the hearing on the aforementioned requests, the Appellant’s counsel advised the Court that he was also seeking leave to file an amended notice of appeal.
+[10] After hearing at length from both parties, it was decided that the hearing would be adjourned sine die to allow the Appellant to file an amended notice of appeal and to allow the Respondent to file an amended reply within specified time frames. In the circumstances discussed, including the extreme lateness of the Appellant’s request for an additional hearing date, its even greater lateness in seeking to file an amended list of documents, the Appellant’s clear non-compliance with section 87 of the Rules, which requires that a list of documents be amended immediately upon becoming aware that it is incomplete or inexact, the Appellant’s continuing to ignore section 87 of the Rules during the Court’s case management conference, and the Appellant’s seeking to amend its Notice of Appeal on the hearing date itself, the Court fixed costs against the Appellant of $7,500. (While not specified in the Order, the Court expects these costs to be paid promptly).
+[11] During the hearing, the Court advised Me Matte that it was considering whether an order should be made under section 152 of the Rules requiring him to indemnify his client for all or part of the costs award and invited written submissions from him on that issue. The Court was quite clear that it was very concerned by his failure to comply with section 87 of the Rules in that he had not updated his list of documents until just before trial, and that it was much more gravely concerned by the fact that he had not raised this at the Friday afternoon case management conference when specifically asked by me if there was anything else that needed to be addressed, and yet he sent an amended list to the Respondent within thirty minutes and then filed it with the Court.
+[12] At the hearing, Me Matte confirmed that his recollection of the case management conference call was the same as mine. His explanation was that, while he could see how it would be very difficult for me to believe, he did not do this to trip up the Respondent or to mislead the Court; it just slipped his mind. Me Matte is correct that the Court finds this difficult to believe. The Court does not accept or believe the explanation he gave at the hearing.
+[13] The Court has received Me Matte’s written submissions, followed by the Respondent’s counsel’s written submissions, followed by Me Matte’s written response thereto.
+The Law
+[14] Section 87 of the Rules:
+List Incomplete
+87. Where, after the list of documents has been served under either section 81 or section 82, it comes to the attention of the party serving it that the list has for any reason become inaccurate or incomplete, that party shall serve forthwith a supplementary list specifying the inaccuracy or describing the document.
+Section 152 of the Rules:
+Liability of Counsel for Costs
+152.(1) Where a counsel for a party has caused costs to be incurred improperly or without reasonable cause or to be wasted by undue delay, misconduct or other default, the Court may make a direction,
+(a) disallowing some or all of the costs as between the counsel and the client,
+(b) directing the counsel to reimburse the client for any costs that the client has been ordered to pay to any other party, and
+(c) requiring the counsel to indemnify any other party against costs payable by that party.
+(2) A direction under subsection (1) may be made by the Court on its own initiative or on the motion of any party to the proceeding, but no such direction shall be made unless the counsel is given a reasonable opportunity to make representations to the Court.
+(3) The Court may direct that notice of a direction against a counsel under subsection (1) be given to the client in the manner specified in the direction.
+[15] I have previously summarized the circumstances in which this Court can order that costs be payable by a party’s counsel personally under Section 152 of the Rules and under the Court’s inherent jurisdiction to control abuse of process and contempt of court. In Dacosta v. The Queen, 2008 TCC 136, I wrote:
+[20] An award of costs payable by counsel personally is permitted both as part of the Court’s inherent jurisdiction as well as under the statutory jurisdiction of Rule 152. Such awards are, in either event, extraordinary.
+[21] Chief Justice McLachlin writing for the majority of the Supreme Court of Canada on this point wrote in Young v. Young (1993), 108 D.L.R. (4th) 46:
+It is as clear that the courts possess that jurisdiction to make such an award, often under statute and, in any event, as part of their inherent jurisdiction to control abuse of process and contempt of court…
+[22] An order that counsel pay costs personally can be made as part of the inherent jurisdiction of a superior court to control abuse of process, contempt of court and the conduct of its own officers. In contrast, Rule 152 clearly increases the circumstances permitting of such orders if counsel has caused costs to be incurred without reasonable cause or to be wasted by undue delay, misconduct or other default.
+. . . [Rule 152 omitted.]
+[23] The common law inherent jurisdiction requirement that there be a finding of bad faith clearly does not constitute a prerequisite under Rule 152. The words of Rule 152 should be given their ordinary meaning. There is no requirement that the lawyer’s conduct be abusive, negligent or in bad faith. See, for example, the recent Ontario decisions in Walsh v. 1124660 Ontario Ltd. et al., [2007] O.J. No. 639 and Standard Life Assurance Co. v. Elliott et al., [2007] O.J. No. 2031.
+[24] In Standard Life, Justice Molloy writes at paragraph 25:
+However, just because the actions of a solicitor may fall within the defined circumstances in which costs may be awarded against him personally, does not mean that the court’s discretion ought to be exercised in that manner. On the contrary, the discretion ought to be exercised sparingly and only in exceptional circumstances.
+Justice Molloy then quotes approvingly from paragraph 115 of Justice Granger’s decision in Marchand (Litigation Guardian of) v. Public General Hospital Society of Chatham, [1998] O.J. No. 527 (O.C.J.Gen.Div.) as follows:
+Applying the ordinary meaning to the words found in Rule 57.07, costs incurred without reasonable cause, or by reason of undue delay, negligence or other default can be charged back to the solicitor who is responsible for such costs being incurred.
+And later:
+Although “bad faith” is not a requirement to invoking the costs sanctions of Rule 57.07 against a solicitor, such an order should only be made in rare circumstances and such orders should not discourage lawyers from pursuing unpopular or difficult cases. It is only when a lawyer pursues a goal which is clearly unattainable or is clearly derelict in his or her duties as an officer of the court that resort should be had to R. 57.07.
+[25] Although this Court’s Rule 152 differs in some respect from Ontario’s Rule 57.07, notably our rule does not refer to negligence but to misconduct, the words of Molloy J. and Granger J. are equally applicable to a consideration of our Rule 152.
+[26] Most of the cases dealing with awarding costs personally against a solicitor are concerned that lawyers not be deterred from pursuing unpopular causes or taking positions that are novel and untested. Those considerations do not apply here. We simply have a counsel whose behaviour towards this Court and whose failure to comply with a court order is inexcusable. Justice Lane’s Reasons in Walsh quoted at paragraph 17 from the Reasons of Justice Quinn in Belanger v. McGrade Estate, [2003] O.J. No. 2853 (S.C.J.):
+[Counsel] caused costs to be incurred without reasonable cause and to be wasted, by his failure to provide the necessary material to the applicant’s counsel in the time frame set out in the order of Marshall J. This has nothing to do with the fearless representation of a client.
+The discretion available under subrule 57.07(1) should be exercised with the utmost care and only in the clearest of cases. Any doubt should be resolved in favour of the solicitor. Nevertheless, even with those cautions, I think that what occurred in this case is precisely the kind of scenario intended to be caught by the rule.
+[27] I could not word it better than that in this case.
+[28] This is not a case such as Jurchison, 2000 DTC 1660 where, to paraphrase Justice Bowie, counsel’s behaviour merely did not rise to the level of civility which at one time did, and still should, characterize the way in which members of the bar conduct their dealings with one another. In this case Appellant’s counsel disregarded a Court order and did not communicate with the Court regarding the failure. This case is more similar to this Court’s decision in Whiteway v. Canada, (1998 TCC 91158, [1998] T.C.J. No. 84, [1998] 2 C.T.C. 3254) as well as the decision of this Court in Anctil v. Canada, 97 DTC 1462.
+[16] Me Matte’s submissions are as follows:
+(i) His silence on the above-mentioned points in the case management conference was due simply to inattention.
+(ii) He was only able to prepare with his client in January.
+(iii) His heavy workload affected his judgment.
+(iv) His omission occurred during a period of stress with an accompanying faulty perception of things, and was not intended to deceive or mislead.
+(v) An order of the Court requiring him to indemnify his client for the costs awarded against it would significantly harm the solicitor-client relationship.[1]
+(vi) He suffers from sleep apnea, which leads to diminished energy and adrenaline levels. This had formerly made file management difficult for him, however things have improved in that regard. The accompanying doctor’s letter confirms the sleep apnea diagnosis and describes the associated physical and medical risks and the need for treatment with a medical device.
+[17] The Respondent in her submissions states the following:
+(i) She believes that it was the Appellant’s lawyer and not the Appellant who was responsible for having to adjourn the hearing at the last minute, almost a full year after the trial date had been fixed.
+(ii) She believes that the Appellant’s counsel did not comply with the Court’s rules and procedures earlier in the proceedings. The agreed and Court-ordered timetable for completing pre-trial steps required discoveries to be completed by November 30, 2012. Me Matte contacted the Respondent’s counsel on November 14 with a view to scheduling discovery of the Respondent. He was advised the following day that the Respondent’s counsel was unavailable before November 30. However, Me Matte did not seek an amended timetable from the Court until January 31, 2013;
+(iii) The Respondent’s counsel communicated with Me Matte on January 7 with a view to discussing the file and the Appellant’s intentions with respect to the January 28 hearing. Me Matte did not respond and the Respondent’s counsel followed up with him on January 23. At that time Me Matte confirmed that the only issue was the input tax credits with respect to the alleged accommodation invoices. There was no mention by him of new documents.
+Analysis and Conclusion
+[18] I do not accept that Me Matte was innocently inattentive regarding the Rules of this Court relating to updating lists of documents, regarding the clear question asked by me at the case management conference, or regarding his obligations and role as an officer of the Court. It appears very clear that he chose to play a strategic game of being rather less than frank and candid with the Court, and being misleading and deceptive with the Court as well as the Respondent and the Respondent’s counsel. This intentional conduct on his part led directly and somewhat predictably to the hearing not being able to proceed on the day fixed long before, which in turn led to the award of costs against his client.
+[19] I see in the material filed by Me Matte no causal relationship between his actions and his sleep apnea. While sleep apnea can be a very serious medical condition, there is no suggestion in his submissions, in the doctor’s letter, or in the appended magazine article that sleep apnea may cause a person to mislead or deceive, or to forget a discussion just engaged in by the person. I would also note that he did not raise sleep apnea in his first and primary written submissions, but only in his response to the submissions of the Respondent.
+[20] An order by a Court compelling a lawyer to indemnify his or her client for all or part of a costs award will invariably have an impact on the lawyer-client relationship. This impact will probably only be incidental to the impact on the lawyer-client relationship of the lawyer’s actions giving rise to the order.
+[21] In these circumstances, I am entirely satisfied that the requirements of section 152 of the Rules are met as are the preconditions under the Court’s inherent powers, and that this is clearly an exceptional case in which it is appropriate to order that an award of costs be paid by counsel personally. While good faith is to be presumed under the Civil Code, I am satisfied that Me Matte was not acting in good faith on the afternoon of January 24. His course of conduct was deliberately and intentionally deceptive and misleading, and was non-compliant with the Rules and with his obligations to the Court. All of this is wholly inexcusable. What I wrote in paragraphs 26 through 28 of Dacosta quoted above applies equally to Me Matte’s behaviour in this case.
+[22] Me Matte’s behaviour led to the outcome of the hearing on January 28, including the award of costs against his client. The amount of costs, fixed at $7,500, was not set at a punitive level, but, in light of the parties’ submissions, at a level appropriately reflecting the costs wasted as a result of last-minute strategic posturing as a result of which the Respondent had to prepare for a hearing that could not proceed and then to consider and respond to newly disclosed evidence and an amended notice of appeal. The award of costs also appropriately reflected the associated waste of public resources beyond the waste of the time of the Respondent’s counsel and the witnesses from the Ministère du Revenu du Québec and the waste of the Court’s resources.
+[23] This Court will order and direct that two-thirds of the costs award in favour of the Respondent and payable by the Appellant, being $5,000, is to be reimbursed promptly by the Appellant’s former counsel, Me Matte, to the Appellant pursuant to paragraph 152(1)(b) of the Rules. Me Matte is to indicate by letter to this Court when this has been done.
+[24] In the circumstances, the Court will send a copy of this Order and Reasons for Order to Me Matte and to the Appellant’s new counsel of record. The Appellant’s new counsel of record is directed to promptly send a copy of the Order and the Reasons for Order to the Appellant.
+Signed at Ottawa, Canada this 18th day of March 2014.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 16th day of September 2014.
+Erich Klein, Revisor
+CITATION: 2014 TCC 85
+COURT FILE NO.: 2012-794(GST)G
+STYLE OF CAUSE: 9128-8456 QUÉBEC INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: January 28, 2014
+REASONS FOR ORDER BY: The Honourable Justice Patrick Boyle
+DATE OF ORDER: March 18, 2014
+APPEARANCES:
+Former Counsel of Record for the Appellant:
+Me Guy Matte
+Counsel for the Respondent:
+Me Danny Galarneau
+FORMER COUNSEL OF RECORD:
+For the Appellant:
+Name: Me Guy Matte
+Firm: Me Fiscalex Inc.
+500 Place d’Armes, Suite 2400
+Montreal, Quebec H2Y 2W2
+NEW COUNSEL OF RECORD:
+For the Appellant:
+Name: Me Caroline Desrosiers
+Firm: CD Legal Inc.
+4455 Autoroute 440 Ouest, Suite 205
+Laval, Quebec H7P 4W6
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Since the filing of these submissions the Appellant has filed a notice of change of counsel. The Appellant’s new counsel has in turn filed an Amended Notice of Appeal, which is limited to the issue of input tax credits with respect to the alleged accommodation invoices.

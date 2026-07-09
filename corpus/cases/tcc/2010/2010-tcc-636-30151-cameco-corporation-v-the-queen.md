@@ -1,0 +1,312 @@
+---
+title: "Cameco Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30151/index.do"
+last_modified: "2010-12-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 636"
+citation2: ""
+neutral_citation: "2010 TCC 636"
+decision_date: "2010-12-30"
+language: "en"
+item_id: "30151"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7835
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:43:50.439000+00:00"
+cases_cited_count: 9
+cases_citing_count: 7
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b0c8eddf62ef9d63f07d67e76509445b83142af350f7fb333cc471c1199ae5fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cameco Corporation v. The Queen
+
+- Citation: 2010 TCC 636
+- Decision date: 2010-12-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7835, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cameco Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-30
+Neutral citation
+2010 TCC 636
+File numbers
+2009-2430(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2010 TCC 636
+Date: 20110112
+Docket: 2009-2430(IT)G
+BETWEEN:
+CAMECO CORPORATION,
+Appellant
+(applicant)
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR ORDER
+Rip, C.J.
+[1] Cameco Corporation ("Cameco"), the appellant in an appeal to the Court from an assessment of income tax for its 2003 taxation year, has moved for an order in accordance with section 53 of the Tax Court of Canada Rules (General Procedure) ("Rules") striking out the following portions of the reply to the notice of appeal filed by the respondent or such other relief as this Court deems just:
+(i) subparagraphs 14(q), (v), (bbb), (ddd)(ii), (fff), (ggg), (jjjj), (kkkk), (tttt) and paragraphs 15, 16, 17, 18, 19, 24, 25, 26 and 28 (collectively, the "Subject Paragraphs")[1].
+[2] Cameco's grounds for its motion ("Cameco Motion") are that the respondent failed to provide particulars in respect of which a demand was served on the respondent on or about January 25, 2010 pursuant to section 52 of the Rules and therefore the Subject Paragraphs:
+(i) constitute an abuse of the process of the Court within the meaning of paragraph 53(c) of the Rules;
+(ii) may prejudice or delay the fair hearing of the action within the meaning of paragraph 53(a) of the Rules; and
+(iii) fail to conform to the requirements of subsection 49(1) of the Rules.
+[3] The appellant's notice of motion to strike was supported by the affidavit of Helen Ferrigan, sworn on April 21, 2010, who was subsequently examined on her affidavit. Ms. Ferrigan is a lawyer with Cameco's firm of solicitors, Osler, Hoskin & Harcourt ("Osler") in Toronto. Ms. Ferrigan is an associate in the firm's tax section but, at the time of taking the affidavit, had not worked on the Cameco file.
+[4] The respondent was not satisfied with the answers or lack of answers given by Ms. Ferrigan on her cross‑examination and therefore moved for an order striking out her affidavit ("Crown Motion"). The ground for the motion was that Cameco failed to permit effective cross‑examination of Ms. Ferrigan contrary to section 74 of the Rules and, in particular:
+a) failed to provide the file(s) referred to in Helen Ferrigan's affidavit in a timely manner despite request for same, but provided redacted versions only after the conclusion of cross‑examination;
+b) wrongfully claimed privilege over documents in the file(s);
+c) put forth an affidavit from an affiant who did not have adequate knowledge of the matters in her affidavit and failed to take adequate steps to inform herself of the matters deposed to in the affidavit; and
+d) provided no explanation as to the necessity of having Ms. Ferrigan swear an affidavit when she had no personal knowledge, as opposed to having those individuals who did have personal knowledge and were available, to swear an affidavit.
+[5] The two motions were heard on the same day, the Crown Motion being heard first.
+[6] The subject matter of the appeal by Cameco is what is generally referred to as "transfer price" transactions between a Canadian taxpayer and a non‑resident person who do not deal at arm's length. The issue in appeal is the interpretation and application of subsection 247(2) of the Income Tax Act ("Act"). Appellant's counsel declared that this is one of the first appeals to consider the interpretation and application of the "re‑characterization" rule in paragraphs 247(2)(b) and (d) of the Act and only the second one dealing with transfer pricing provisions set out in paragraphs 247(a) and (c).
+[7] Sometime after its Notice of Appeal and the Reply to the Notice of Appeal ("Reply") had been filed, but before the Motion for Particulars was served, the appellant had indicated to the respondent that it planned to file an answer to the reply. The respondent had granted the appellant several delays to file its answer but an answer has never been served. The parties had also agreed to exchange documents in accordance with section 82 of the Rules but, again, no documents have been exchanged between the parties.
+[8] I will consider first the Crown's motion to strike the affidavit of Ms. Ferrigan.
+[9] A copy of Ms. Ferrigan's affidavit, but not including exhibits attached thereto, is attached as Appendix "B".
+[10] One of the Crown's arguments is that the affidavit consists of hearsay evidence. The Crown acknowledges that hearsay evidence may be permitted in an affidavit but only if it is reliable and necessary[2]. In the present case, counsel submitted, neither reliability nor necessity exists.
+[11] Reliability does not exist according to the Crown because Ms. Ferrigan did not have personal knowledge of the facts deposed and she did not properly inform herself. The affidavit also contained omissions, according to the Crown.
+[12] The transcript of the cross‑examination of Ms. Ferrigan was produced. Counsel for the respondent reviewed the transcript citing examples of what she considered the deponent's unreliability. Much of the information contained in her affidavit was based on information Ms. Ferrigan received from another lawyer at Osler, Mr. MacDonald. The main thrust of the respondent's argument that Ms. Ferrigan's affidavit be struck is that she failed to take reasonable steps to inform herself about the accuracy of her affidavit and its omissions. The Crown also claims that the affidavit fails to provide materials referenced or reviewed in a "timely and accurate manner". In the respondent's view a more knowledgeable person ought to have taken the affidavit. Thus, the Crown's counsel concluded, the appellant did not want to permit cross‑examination of a knowledgeable person and, as a result, the respondent was unfairly denied its opportunity to test the accuracy of the evidence before the Court.
+[13] In paragraph 1 of the affidavit, Ms. Ferrigan deposes that "… based on my review of correspondence in the file …" she had personal knowledge of the matters described in the affidavit. However, according to her cross‑examination she was unaware of a letter dated May 3, 2010 from the Crown counsel, Ms. Naomi Goldstein, to appellant's counsel requesting "copies of correspondence in the file, references or other relevant files reviewed by Ms. Ferrigan, including electronic information …" or of the reply by her firm to Crown counsel the same day. In the reply Cameco's counsel stated that before signing her affidavit "Ms. Ferrigan had access to only the hard copy of the Crown and Court correspondence folders maintained by Osler...". Ms. Ferrigan advised us that she did not look at any documents in those folders, except documents appended as exhibits to her [draft] affidavit". Appellant's counsel, Ms. Alexandra Brown, a partner at Osler, offered to provide copies to the respondent of "everything Ms. Ferrigan reviewed before swearing her affidavit", including the relevant file with privileged material redacted. Since Ms. Ferrigan did not review any other material relied on for her affidavit, appellant's counsel refused to provide copies of other material requested by the respondent.
+[14] It appears that some of the Osler correspondence folders in this appeal contain all hard copies of correspondence and copies of some emails. According to Ms. Ferrigan, Osler has no set policy as to what emails are to be printed and placed on file and which emails remain electronically stored; it is at the discretion of the lawyer. Ms. Ferrigan did not review emails electronically stored nor did she ask her colleagues if there were any such emails that could affect her affidavit. And nobody at the firm suggested that there were relevant emails.
+[15] Ms. Ferrigan read the "specific exhibits" to her affidavit, but not all correspondence on the files. She did review certain emails as well as pleadings, the notice of motion and a letter from the tax authority to the appellant dated January 10, 2007.
+[16] Ms. Goldstein, respondent's counsel, complained that material offered by the appellant was not sufficient since without the electronic information she could not properly conduct a cross‑examination as to what statements in the affidavit are true or not. One example of electronic information Ms. Goldstein would have expected to receive, she said, would be information Mr. MacDonald sent by email to his colleagues regarding the demand for particulars. Ms. Brown stated that this information would be privileged.
+[17] Respondent's counsel questioned Ms. Ferrigan with respect to paragraph 8 of her affidavit, that is, what did she know of the indefinite extension granted by the respondent to the appellant to file an answer to the reply, subject to the extension being revoked on 30 days notice to the appellant. Ms. Ferrigan's source of information of the extension was contained in a letter from both counsel to the Court on February 24, 2010. However, Ms. Ferrigan was not aware of the origin of the request for the extension nor its date. Respondent's counsel referred her to an email dated December 1, 2009 from counsel to Ms. Brown in which counsel confirms that the Crown consents to the extension "for at least 30 days".
+[18] At request of appellant's counsel, the period for filing an answer was later extended but would be revocable on 30 days' notice to the appellant. On February 10, 2010, according to respondent's counsel, appellant's counsel asked that the extension be due 15 days after the Crown responded to the Demand for Particulars. Ms. Ferrigan was unaware of this information at the time she swore her affidavit. She was also unaware that the Crown granted the original extension to file an answer prior to the appellant serving a Demand for Particulars. When Ms. Ferrigan was asked again if she "looked" through all the Cameco files referred to on cross‑examination, she answered "Yes I flipped through all four of the files" but did not read every document. The file folders contained copies of correspondence between Osler lawyers and Crown lawyers. Indeed, the cross‑examination of Ms. Ferrigan attempted to suggest that there were other lawyers at Osler who, because of their work on the file, could have been better candidates to make the affidavit.
+[19] In re‑examination by Ms. Brown, Ms. Ferrigan confirmed that the demand for particulars and the notice of appeal as well as the reply were in files she reviewed. She described the four correspondence files in Cameco's appeal maintained by Osler were in Ms. Brown's two yellow folders of correspondence with the Tax Court of Canada and the Crown respectively, and two manilla folders containing, respectively, Mr. Meghi's files of correspondence with the Court and Crown. In some files Ms. Ferrigan reviewed there were notes that said: "redacted for solicitor‑client privilege". Except for such notes, there was no difference in the files Ms. Ferrigan reviewed. All correspondence to the Court by Osler was copied to the Department of Justice except when there was possible misfiling.
+[20] Ms. Goldstein objected to the limited production of the files arguing that the Crown was entitled to "full copies of the Osler files, including electronic documents that are relevant to this process", and that the appellant failed to comply with the Crown's request for the files Ms. Ferrigan reviewed. Notwithstanding able argument by Ms. Goldstein I cannot agree with her that the appellant waived privilege as to permit the Crown to access these files. The fact that the appellant was prepared to provide certain documents in the files to the Crown is not a waiver of privilege.
+[21] Ms. Ferrigan was also questioned on her statement in paragraph 15 of her affidavit that the audit of Cameco's international transactions by the Canada Revenue Agency ("CRA") for 2003 began about January 10, 2007. She appears to have relied on a letter, dated January 10, 2007 from the CRA to Mr. R. Belosowsky, assistant treasurer of Cameco, informing the taxpayer that the writer had been assigned to audit the international transactions of Cameco. However, lawyers from Osler had attended at interviews with CRA and Cameco executives before January 10. Ms. Ferrigan learned about these meetings only when she read the affidavit of Barry McKenzie, an official of the CRA, in opposition to the Cameco Motion.
+[22] Respondent's counsel argued that Ms. Ferrigan was not the person to take the affidavit since, among other things, she had no involvement with the file before mid‑April 2010 and had no knowledge of the litigation except what she was informed or read in documents attached to the draft affidavit. While Mr. MacDonald informed her of the appeal — which she refers to in paragraphs 4, 6 and 7 of her affidavit — Ms. Ferrigan did not seek confirmation of Mr. MacDonald's advice or information to her; she did ask for a "little bit" of elaboration only.
+[23] As will be apparent from these reasons, notwithstanding certain omissions in the affidavit of Ms. Ferrigan, the affidavit is not critical to my findings and will not be struck. The Subject Paragraphs that I strike are defective on their face without the need to refer to Ms. Ferrigan's affidavit. The matters she deposed to, and the matters that her cross‑examination reveal, is that she was ignorant of negotiations and purported agreements and correspondence between counsel concerning delays for filing an answer, for example, but, at the end of the day, the omissions in her affidavit or that some other lawyer may have been a better choice to take the affidavit do not make defective pleadings good so that they are immune from being struck.
+[24] As previously stated, the reasons for the Cameco Motion is that the respondent failed to provide particulars demanded by Cameco.
+[25] The Crown's answer to the appellant's Demand for Particulars was that in its view "most of the particulars cannot be known to the respondent until the conclusion of discoveries and/or the exchange of expert reports". To which appellant's counsel replied that "it is difficult, for example, to understand how the Crown can be unaware of the material facts in relation to positions that underlie the reassessment. We understand you to say that the Crown is not aware of particulars with respect to the alternative positions pleaded but it is difficult to appreciate how this can be the case with respect to the assumptions in reassessing." Appellant's counsel then advised the respondent's counsel that it was considering filing a motion to strike.
+[26] In the view of the appellant, the absence of particulars demanded requires that the Subject Paragraphs be struck on the grounds that they may prejudice or delay the fair hearing of the appeal, are an abuse of the process of the Court, and do not conform to the requirements of Rule 49(1). It may well be, for reasons mentioned later, that both applications before me are abuses of the process of the Court.
+[27] The fact that a party refuses to supply particulars of an allegation in its pleadings is not necessarily an abuse of the process of the Court within the meaning of Rule 53(c). The Demand for Particulars itself may sometimes be an abuse of the Court process and may itself prejudice or delay the fair hearing of the action since there may be a good reason for a refusal to supply a particular.
+[28] Where a party fails to supply the particulars of an allegation in a pleading to the other party within 30 days, Rule 53 permits the party who demanded the particulars to apply to the Court for an order that the particulars be delivered within a specified time. This should be the normal course selected by the demanding party. During a hearing of the application, the motion judge will consider the bona fides of the demand for particulars.
+[29] A motion to strike out or expunge all or part of a pleading for failure to provide particulars generally should be taken only as matter of last resort, when a party has failed to comply with an order made pursuant to Rule 52, for example striking out a pleading or a portion thereof can be fatal to a party. Only in exceptional circumstances should a party first apply to strike out or expunge all or part of a pleading.
+[30] In the matter before me the appellant has not led satisfactory evidence of abuse of process. There is nothing suggesting abuse of process in Ms. Ferrigan's affidavit. However, a reading of the Subject Paragraphs does cause me some concern because of the Crown's reply to the demand, that is, "most particulars cannot be known until the conclusion of discoveries …". The Crown has an obligation to provide the appellant with material facts it applied in making the assessment. Indeed, the Crown's failure to plead material facts assumed in assessing may weaken the Crown's defence of an assessment.
+[31] The Minister of National Revenue ("Minister") audited Cameco and reassessed Cameco, according to its counsel, pursuant to paragraphs 247(a) and (c). The Minister's assumptions on assessing are set out in paragraph 14 of the reply and reiterated in paragraphs 24 and 25. Appellant argues that in these Subject Paragraphs the respondent failed to plead in precise terms or to particularize and pleaded as assumptions of fact conclusions of mixed fact and law.
+[32] During the course of the audit, counsel informs me, the Minister considered but decided against reassessing pursuant to paragraphs 247(2)(b) and (d). Counsel refers to the latter provisions as the "re‑characterization theory". In its reply the Crown has pleaded paragraphs 247(2)(b) and (d) but, states counsel, "even though, by its own admission, it is unable to particularize any of the material facts" relating to the re‑characterization theory before discovery or exchange of experts' reports. The re‑characterization theory is found in paragraphs 15 and 26 of the reply.
+[33] Paragraphs 15 and 26, according to appellant's counsel, are pled vaguely to justify a fishing expedition and discovery. The Crown has simply recited the text of the relevant statutory provisions without any elements attaching to the statutory provisions, counsel declared. Also, there are failings to plead material facts, the essential factual elements of paragraphs 247(2)(b) and (d), and to plead as assumptions the facts that led the Minister to conclude that paragraphs 247(2)(b) and (d) did not apply. In pleading assumptions of fact in assessing, the Minister need not list facts it assumed in not assessing.
+[34] The Crown also alleged in its reply that subsection 56(2) of the Act and the doctrine of sham may apply, allegations that were not considered during the assessing process. Counsel refers to this as "new theories" and he says are set forth in paragraphs 16, 17, 18, 19 and 28 of the reply and these paragraphs, like others, are pled vaguely to justify a fishing expedition on discovery and do not plead material facts.
+[35] As mentioned earlier it was because particulars were refused that the appellant made this application to strike certain portions of the Crown's reply. I note the principles to be applied on a motion to strike under Rule 53 are set out by Bowman C.J. in Sentinel Hill Productions (1999) Corporation et al. v. The Queen:[3]
+(a) The facts as alleged in the impugned pleading must be taken as true subject to the limitations stated in Operation Dismantle Inc. v. Canada, [1985] 1 S.C.R. 441 at 455. It is not open to a party attacking a pleading under Rule 53 to challenge assertions of fact.
+(b) To strike out a pleading or part of a pleading under Rule 53 it must be plain and obvious that the position has no hope of succeeding. The test is a stringent one and the power to strike out a pleading must be exercised with great care.
+(c) A motions judge should avoid usurping the function of the trial judge in making determinations of fact or relevancy. Such matters should be left to the judge who hears the evidence.
+(d) Rule 53 and not Rule 58, is the appropriate rule on a motion to strike.
+[36] In the application at bar the appellant submits that the Subject Paragraphs are incomplete in that they lack particulars explaining the allegations of facts, that they are mixed fact and law or that the allegations of fact without any particulars are simply a fishing expedition by the Crown. And it is not plain and obvious that the Crown has no hope of succeeding in defence of its assessment.
+[37] Neither counsel, it seems to me, has displayed any great effort to grease the wheel that operates the appeal process. The respondent's reply contains assumptions that lack many material facts. Respondent counsel's reply that one would have to await discovery for answers was glib, inviting action from the other side. On the other hand, the appellant had indicated it would prepare an answer to the reply and the respondent granted extensions to the appellant to file an answer. That the appellant's counsel informed opposing counsel that it was anticipating filing an answer to the reply would suggest to most reasonable people that the appellant was not planning to attack any provision of the reply notwithstanding that there may be irregularities in the reply[4]. The parties had also agreed to exchange documents in accordance with section 82 of the Rules. In the meantime counsel for the appellant, keeping things close to their vests and not informing colleagues on the other side, were preparing to serve a demand for particulars which, as respondent's counsel stated, if the information were not provided, would be met with a motion to strike portions of the reply.
+[38] My impression from hearing these applications is that both parties are using tactics that will end up in some sort of skirmishing that, as Bowman C.J. observed in Sackman v. The Queen[5] and Satin Finish Hardwood Flooring (Ontario) Limited v. The Queen[6] would see this Court turned into a forum for procedural manoeuvring and lawyer upmanship. Appeals are taking longer and longer and counsel have a responsibility to not only use but also exploit their skills and talent to ensure that procedures leading to the hearing of the appeal, as well as the hearing itself, are done efficiently and with mutual respect of counsel.
+[39] Respondent's counsel cited Vogo Inc. v. Acme Window Hardware Ltd. [7] and Kossow v. R. [8] as authorities to support its allegation that the appellant made a "fresh step" when it agreed to exchange documents after service of the reply and then attacked the respondent's pleading seeking particulars. In Kossow the trial judge held that the appellant pleaded over the reply and implicitly accepted the irregularities. The appellant did not bring a motion to strike until two and a half years after learning of irregularities. The Federal Court of appeal agreed with the Tax Court.
+[40] This is not the case here; appellant's counsel had only agreed to proceed according to section 82 of the Rules. I cannot conclude that this constitutes pleading over the Crown's reply. Counsel did not provide with any case to support her position that the appellant made a fresh step in these circumstances[9].
+[41] A step should not be considered a "fresh step" for purposes of section 8 of the Rules, in my view, if the primary reason for agreeing to a step is to expedite the appeal process. For example, even before a reply is filed, the parties may agree to a schedule of procedures, including when documents will be exchanged under section 82 of the Rules.
+[42] With all this said, there are Subject Paragraphs I shall leave as is and other that I will order to be struck.
+[43] The appellant states that the assumptions of fact in Subject Paragraphs 14(q), (v), (bbb), (ddd)(ii), (fff), (ggg), (jjjj), (kkkk) and (tttt) of the reply and the related submissions in paragraph 24 and 25 are "deliberately vague" and contain conclusions of mixed fact and law and ought to be struck with leave to amend.
+[44] Subject Paragraphs 14(ddd)(ii), (kkkk) and (tttt) do allege material facts, perhaps not all the material facts. This is not fatal. As my colleague Bowie J. explained in Teelucksingh v. The Queen[10] "assertions as to value, that parties do not act at arm's length, that they did not carry on a business, that expenses were not incurred, or were not incurred for a particular purpose are assertions of fact. Certainly those facts have legal implications, and some of them are words that are used in the Act, but they are nevertheless factual assumptions." The specifics of the material facts in these Subject Paragraphs may be obtained on discovery of a representative of the Crown.
+[45] Subject Paragraph 14(q) alleges that the appellant restructured its business in order to obtain tax benefits[11]. Whether or not a tax benefit existed is a question of fact[12]; the taxpayer is entitled to know what story the fisc is making against it. A bald assertion that the Minister assumed a tax benefit is inappropriate. There are many tax benefits, as appellant's counsel explains in his submissions, and the taxpayer is entitled to know in the Crown's reply what benefit precisely the Crown is assuming[13]. As its counsel stated, the appellant may be prepared to admit to certain tax benefits.
+[46] Subject Paragraph 14(q) will therefore be struck with leave to amend setting out the alleged tax benefits.
+[47] The word "substantive" in Subject Paragraph 14(v) is too subjective a word to be preceded by the word "all" and is thus open ended. The appellant ought to know what substantive functions the Crown is alluding to. The Subject Paragraph 14(v) will be struck with leave to amend.
+[48] Subject Paragraph 14(bbb) is another key allegation in this appeal alleging that the transfer prices on the sales and purchases in issue were not consistent with an arm's length price. The appellant is entitled to know what prices are consistent with an arm's length prices to the extent that such prices cannot be determined by reference to the amount of tax assessed. This paragraph will be struck with leave to amend.
+[49] Subject Paragraphs 14(fff), (ggg) and (jjjj) will be struck with leave to amend. The contents of these paragraphs are mixed fact and conclusions of law, in particular a paraphrase of paragraph 247(2)(a) of the Act.
+[50] Subject Paragraphs 15, 16, 17, 18, 19, 24, 25, 26 and 28 are contained in that part of the reply which subsections 49(g), (h) and (i) of the Rules describe as "statutory provisions relied on, the reasons the respondent intends to rely on and the relief sought". They provide arguments to support the party's position.
+[51] Subject Paragraph 24 describes a number of facts and the trial judge will be in a better position than a motion judge to rule if this paragraph ought to be struck. Subject Paragraph 25, on the other hand, leaves me, let alone the appellant, wondering how persons dealing at arm's length would have structured these transactions. Subject Paragraph 25 will be struck with leave to amend.
+[52] Appellant states that paragraphs 15 and 26 of the reply should be struck on the grounds that they are an abuse of the process of the Court. The Crown is invoking the re-characterization theory, appellant counsel argues, not because it has a factual and legal basis to do so, but hopes to find such a basis on a fishing expedition on discovery.
+[53] Paragraphs 15 and 26 of the reply are new arguments in support of the assessment; this is in accordance with subsection 152(9) of the Act. Notwithstanding that at time of assessment the Minister may have considered the application of paragraphs 247(2)(b) and (d) of the Act and rejected it, once an appeal is filed, the litigation is regulated and controlled by the Attorney General[14] and alternative arguments in support of the assessment may be pleaded. Appellant's counsel accused the Crown of failing "to plead (in the assumptions paragraphs) the facts that led the Minister to decide against invoking these provisions." As previously mentioned, the assumptions paragraphs set out the assumptions of fact the Minister made in assessing a taxpayer, not facts the Minister considered in not assessing in a certain way.
+[54] Paragraphs 15 and 26 of the reply contain mixed fact and law but they are not assumptions of fact relied on by the Minister in assessing. The trial judge will be in a better position than me to determine whether or not the relevance of these paragraphs of the reply, in particular paragraph 15, affect the principal basis of the assessment, i.e. paragraphs 247(2)(a) and (c), or only the alternate submissions.
+[55] Finally, appellant states that paragraphs 16, 17, 18, 19 and 28 of the reply should be struck on the grounds they are an abuse of the Court since they advance new theories and in so doing, enable the Crown to engage in a fishing operation on discovery. The Crown is entitled to advance alternative arguments and examine the appellant on discovery. But discovery should not be open-ended. In order to avoid delaying further this appeal any longer and in an attempt to demarcate the scope of the discovery with respect to these paragraphs I will order the parties to prepare and file a plan of discovery for matters related to paragraphs 16, 17, 18, 19 and 28 of the reply at least 30 days before the date agreed to for discovery[15]. The plan will be in writing and include the intended scope of the discovery limited to the specific facts described in paragraphs 16, 17, 18, 19 and 28. Failure of the parties to agree may affect costs. This, hopefully, will permit the parties to properly prepare for discovery without any further skirmishing.
+[56] The trial judge will best appreciate the importance of these motions to the appeal itself. Costs of the motions will therefore be at the discretion of the trial judge.
+[57] These amended reasons for order are issued in substitution of the reasons for order issued on December 30, 2010.
+Signed at Ottawa, Canada, this 12th day of January 2011.
+"Gerald J. Rip"
+Rip C.J.
+SCHEDULE A
+Extract of the Reply filed by the Respondent on November 27, 2009
+Relevant extract of the Demand for Particulars served by the Applicant on January 25, 2010.
+1.
+14. In so reassessing the Appellant, the Minister made, inter alia, the following assumption: …
+(q) Canco restructured its business in order to obtain tax benefits;
+With respect to paragraph 14 which sets out the assumptions allegedly made by the Minister, particulars of: …
+(b) with respect to (q), the tax benefits to be obtained by Canco.
+2.
+14. In so reassessing the Appellant, the Minister made, inter alia, the following assumption: …
+(v) all substantive functions relating to Swissco's alleged business were performed by Canco pursuant to a Services Agreement or otherwise;
+With respect to paragraph 14 which sets out the assumptions allegedly made by the Minister, particulars of: …
+(a) with respect to (v), all of the "substantive functions" being referred to in this subparagraph.
+3.
+14. In so reassessing the Appellant, the Minister made, inter alia, the following assumption: …
+(bbb) the transfer prices for uranium on the sales by Canco to Swissco and the purchases by Canco from Swissco were not consistent with an arm's length price;
+With respect to paragraph 14 which sets out the assumptions allegedly made by the Minister, particulars of: …
+(d) with respect to (bbb),
+(i) for each of the relevant sales by Canco to Swissco, the arm's length price (in dollars) that the Minister considered that Swissco should have paid to Canco for the uranium sold to it; and
+(ii) for each of the relevant purchases by Canco from Swissco, the arm's length price (in dollars) that the Minister considered that Canco should have paid to Swissco for the uranium sold to it.
+4.
+14. In so reassessing the Appellant, the Minister made, inter alia, the following assumption: …
+(ddd) the Minister did not accept that the CUP method proposed by the Appellant was an accurate method for determining an arm's length transfer price for the following reasons
+(ii) there are unquantifiable differences between the transactions provided by the appellant as CUPs and the transactions between Canco and Swissco;
+With respect to paragraph 14 which sets out the assumptions allegedly made by the Minister, particulars of: …
+(e) with respect to (ddd)(ii), the differences between the transactions provided by the Appellant as CUPs and the transactions between Canco and Swissco, that are unquantifiable.
+5.
+14. In so reassessing the Appellant, the Minister made, inter alia, the following assumption: …
+(fff) the terms and conditions made or imposed in respect of the sale and purchase of uranium between Canco and Swissco differ from those that would have been made between persons dealing at arm's length;
+With respect to paragraph 14 which sets out the assumptions allegedly made by the Minister, particulars of: …
+(f) with respect to (fff),
+(i) how the terms and conditions made or imposed in respect of the sale and purchase of uranium between Canco and Swissco differ from those that would have been made between persons dealing at arm's length; and
+(ii) the quantum of the amount that would have been determined and included in the Appellant's income as described in paragraph 13 if the terms and conditions made or imposed in respect of the sale and purchase uranium between Canco and Swissco were those that would have been made by persons dealing at arm's length.
+6.
+14. In so reassessing the Appellant, the Minister made, inter alia, the following assumption: …
+(ggg) the terms and conditions made or imposed in respect of the services provided by Canco to Luxco and Swissco differ from those that would have been made between persons dealing at arm's length;
+With respect to paragraph 14 which sets out the assumptions allegedly made by the Minister, particulars of: …
+(g) with respect to (ggg),
+(i) how the terms and conditions made or imposed in respect of the services provided by Canco to Luxco and Swissco differ from those that would have been made between persons dealing at arm's length; and
+(ii) the quantum of the amount that would have been determined and included in the Appellant's income as described in paragraph 13 if the terms and conditions made or imposed in respect of the services provided by Canco to Luxco and Swissco were those that would have been made by persons dealing at arm's length.
+7.
+14. In so reassessing the Appellant, the Minister made, inter alia, the following assumption: …
+(jjjj) Canco provided services to Luxco (later Swissco) in relation to the transactions with Tenex, Urenco Limited and other third parties, the terms and conditions of which differed from those that would have been made between persons dealing at arm's length;
+With respect to paragraph 14 which sets out the assumptions allegedly made by the Minister, particulars of: …
+(h) with respect to (jjjj),
+(i) how the terms and conditions of the services provided by Canco to Luxco (later Swissco) in relation to the transactions with Tenex, Urenco Limited and other third parties differ from those that would have been made between persons dealing at arm's length; and
+(ii) the quantum of the amount that would have been determined and included in the Appellant's income as described in paragraph 13 if the terms and conditions referred to in (i) above were those that would have been made by persons dealing at arm's length.
+8.
+14. In so reassessing the Appellant, the Minister made, inter alia, the following assumption: …
+(kkkk) the revenue realized under the agreement with Tenex belonged to Canco based on the functions it performed and the risks it undertook;
+With respect to paragraph 14 which sets out the assumptions allegedly made by the Minister, particulars of: …
+(i) with respect to (kkkk),
+(i) the functions performed by Canco with respect to the Tenex Agreement; and
+(ii) the risks undertaken by Canco with respect to the Tenex Agreement.
+9.
+14. In so reassessing the Appellant, the Minister made, inter alia, the following assumption: …
+(tttt) the revenue realized under the agreement with Urenco belonged to Canco based on the functions it performed and the risks it undertook;
+With respect to paragraph 14 which sets out the assumptions allegedly made by the Minister, particulars of: …
+(i) with respect to (tttt),
+(i) the functions performed by Canco with respect to the Urenco Agreement; and
+(ii) the risks undertaken by Canco with respect to the Urenco Agreement.
+10.
+15. Canco and Luxco (and later Swissco) were participants in a transaction or series of transactions or arrangements involving Canco, Luxco, Swissco, Tenex, Urencco, Barbco and USco relating to the purchase and sale of uranium. The transactions or series of transactions or arrangements among Canco, Luxco, Swissco, Tenex, Urenco, Barbco and USco:
+(a) would not have been entered into between persons dealing at arm's length and
+(b) were not entered into primarily for a bona fide business purpose other than to obtain a tax benefit.
+With respect to the section entitled "Further Facts", particulars of:
+(a) with respect to paragraph 15,
+(i) the "transaction" and the transactions or arrangements in the "series of transactions or arrangements" being referred to;
+(ii) why the transaction or series of transactions or arrangements would not have been entered into between persons dealing at arm's length;
+(iii) the transaction or series of transaction or arrangements that would have been entered into between persons dealing at arm's length;
+(iv) why the transaction or series of transactions or arrangements can be considered not to have been entered into primarily for a bone fide purpose other than to obtain a tax benefit;
+(v) the facts indicating that the transaction or series of transactions or arrangements was entered into primarily for the purpose of obtaining a tax benefit;
+(vi) the tax benefit to be received by the Appellant as a consequence of this transaction or series of transactions or arrangements;
+(vii) whether the tax benefit arises from a transaction, or a series of transactions or a series of arrangements; and
+(viii) the quantum of the amount that would have been determined and included in the Appellant's income as described in paragraph 13 if the transaction or series of transactions or arrangements referred to in paragraph 15 had been entered into between persons dealing at arm's length.
+11.
+16. The terms or conditions made or imposed in respect of the Services Agreement between Canco and first, Luxco and then Swissco differ from those that would have been made between persons dealing at arm's length.
+With respect to the section entitled "Further Facts", particulars of:
+(b) with respect to paragraph 16,
+(i) how the terms and conditions made or imposed in respect of the Services Agreement between Canco and first Luxco and then Swissco differ from those that would have been made between persons dealing at arm's length; and
+(ii) the quantum of the amount that would have been determined and included in the Appellant's income as described in paragraph 13 if the terms and conditions made or imposed in respect of the Services Agreement were those that would have been made by persons dealing at arm's length.
+12.
+17. Swissco had neither the resources nor the expertise to carry out the contracts with Tenex or with Urenco.
+With respect to the section entitled "Further Facts", particulars of:
+(c) with respect to paragraph 17, the resources and expertise necessary to carry out the contracts with Tenex and Urenco that Swissco lacked.
+13.
+18. The agreements with Tenex and Urenco were transferred pursuant to the direction of Canco to Luxco and ultimately to Swissco for the benefit of Canco or as a benefit that Canco desired to have conferred on its subsidiaries Luxco and Swissco.
+With respect to the section entitled "Further Facts", particulars of:
+(d) with respect to paragraph 18,
+(i) the agreements which were transferred from Canco to Luxco (and ultimately to Swissco);
+(ii) whether the agreements referred to were transferred "pursuant to the direction of Canco" or transferred as a benefit that Canco desired to have conferred on its subsidiaries Luxco and Swissco, and how this transfer was achieved;
+(iii) when the benefit was conferred on Luxco and Swissco by this transfer; and
+(iv) the quantum of the benefit that was conferred on Luxco and Swissco by this transfer.
+14.
+19. The series of transactions directed by Canco amount to a sham designed to deceive the Minister into concluding that Swissco, not Canco, was undertaking a business and incurring real risks. Canco was performing all the business functions relating to the Tenex and Urenco agreements, Canco was ultimately liable for all of Swissco's financial and performance obligations under the guarantees it was required to provide to Tenex and Urenco, Canco was performing all functions under the Services Agreement between it and Luxco, and later Swissco and Luxco and Swissco had neither the financial nor human resources to undertake its contractual obligations.
+With respect to the section entitled "Further Facts", particulars of:
+(e) with respect to paragraph 19,
+(i) the transactions that comprise the series of transactions that constitute a sham;
+(ii) all the business functions relating to the Tenex and Urenco Agreements performed by Canco; and
+(iii) the financial and human resources necessary for Luxco and Swissco to undertake its contractual obligations.
+15.
+24. He submits that Canco was a participant in a transaction or series of transactions with Luxco and later with Swissco, the terms or conditions of which differed from those that would have been made between persons dealing at arm's length within the meaning of paragraph 247(2)(a) of the Income Tax Act. The series of transactions was as follows: (i) Canco negotiated the agreements with Tenex and Urenco; (ii) Canco incorporated a subsidiary in Luxembourg and directed Luxco to form a branch in Switzerland; (iii) Canco directed Luxco to apply for a tax ruling from the Internal Revenue Service; (iv) Canco caused Luxco to execute agreements with Tenex, Urenco and other third parties; (v) Canco provided a guarantee to Tenex and Urenco guaranteeing the performance by Luxco and later Swissco; (vi) Luxco and later Swissco subcontracted back to Canco for Canco to perform contract administration, inventory management, market analysis service and administrative services under the Services Agreement; and (vii) Canco directed all aspects of the agreements with Tenex, Urenco and other third parties.
+With respect to the section entitled "Statutory Provisions, Grounds Relied on, and Relief Sought", particulars of:
+(a) with respect to paragraph 24,
+(i) for each of (i) to (vii) referred to,
+(A) the transaction being referred to; and
+(B) how the terms and conditions of that transaction differ from those that would have been made between persons dealing at arm's length.
+16.
+25. He submits that the terms or conditions made or imposed in respect of the series of transactions among Canco, Luxco and later Swissco, Tenex and Urenco differed from those that would have been made between persons dealing at arm's length within the meaning of paragraph 247(2)(a) of the Income Tax Act.
+With respect to the section entitled "Statutory Provisions, Grounds Relied on, and Relief Sought", particulars of:
+(b) with respect to paragraph 25,
+(i) the series of transactions being referred to and the transactions that constitute the series;
+(ii) how the terms and conditions of those transactions differ from those that would have been made between persons dealing at arm's length; and
+(iii) whether Canco deals not at arm's length with each of Tenex and Urenco.
+17.
+26. He further submits that the arrangements or events whereby Canco, after lengthy negotiations with Tenex and Urenco for the purchase of uranium, placed the contracts in the name of Luxco and later Swissco would not have been carried out by persons dealing at arm's length and can reasonably be considered not to have been entered into primarily for bona fide purposes other than to obtain tax benefits within the meaning of subsection 247(1) and paragraph 247(2)(b) of the Income Tax Act.
+With respect to the section entitled "Statutory Provisions, Grounds Relied on, and Relief Sought", particulars of:
+(c) with respect to paragraph 26, the arrangements or events being referred to.
+18.
+28. He further submits that the agreements with Tenex and Urenco being placed in the name of Luxco and ultimately in the name of Swissco was a sham designed to deceive the Minister into believing that the income and profit from those agreements did not belong to Canco despite Canco being ultimately responsible for the performance of those agreements and undertaking all functions in respect of those agreements other than signing the contracts thereunder.
+With respect to the section entitled "Statutory Provisions, Grounds Relied on, and Relief Sought", particulars of:
+(d) with respect to paragraph 28,
+(i) the agreements that constitute the sham; and
+(ii) the functions undertaken by Canco in respect of the agreements with Tenex and Urenco.
+SCHEDULE B
+CITATION: 2010 TCC 636
+COURT FILE NO.: 2009-2430(IT)G
+STYLE OF CAUSE: CAMECO CORPORATION v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 17, 2010
+AMENDED REASONS
+FOR ORDER BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF AMENDED
+REASONS FOR ORDER: January 12, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji
+Pooja Samtani
+Counsel for the Respondent:
+Elizabeth Chasson
+Naomi Goldstein
+Justine Malone
+Amit Ummat
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Al Meghji
+Firm: Osler, Hoskin & Harcourt LLP
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Subject Paragraphs are contained in Schedule A to these reasons. Schedule A also contains extracts of the Demand for Particulars served by the appellant on the respondent giving rise to the motion for an order to strike.
+[2] R. v. Khelawon, 2006 SCC 57, [2006] 2 S.C.R. 787, at paras 2 and 3.
+[3] 2008 DTC 2544 at p. 2545, par. 4.
+[4] Although not on point, see Sandia Mountain Holdings Inc. v. The Queen, 2005 DTC 382, par. 18.
+[5] 2007 TCC 455, 2007 DTC 1346, par. 25.
+[6] 96 DTC 1402, 1405.
+[7] [2004] F.C.J. No. 1042 (QL), para. 60, where O'Keefe J. explained the purpose of the "fresh step" rule.
+[8] 2009 FCA 83, 2009 DTC 5799 (FCA), paras. 16 and 17, 2008 DTC 4408.
+[9] Note that section 8 of the Rules provides that a motion to attack a step should not be made if the moving party has taken any further step in the proceeding after obtaining knowledge of the irregularity.
+[10] 2010 TCC 94, at par. 11.
+[11] The allegation of fact in Subject Paragraph 14(q) has caused me more than usual concern. That the business was restructured for a tax benefit may also be relevant to the Crown's alternate argument that paragraphs 247(2)(b) and (d) of the Act apply. In fact, whether a transaction or series of transactions would have been entered into to obtain a tax benefit is key to the "recharacterization theory". One may question whether the Crown's advantage that the facts it assumes in making an assessment are deemed to be true are being "transferred" as truth of the same facts in its alternative argument. For example, in the appeal at bar, a tax benefit is assumed for the assessment under paragraphs 247(2)(a) and (c). Would the Court be thus compelled to find that the same tax benefit existed for paragraphs 247(2)(b) and (d) as well? This may be sufficient reason for Subject Paragraph 14(q) to be struck. Counsel did not argue this point and is something best left to the trial judge in any event.
+[12] Canada Trustco Mortgage Co. v. R., [2005] 2 S.C.R. 601 at para. 19.
+[13] See comments of Bowman J. (as he then was) in Ver v. Canada, [1995] T.C.J. 593 (QL), para. 13(f).
+[14] Department of Justice Act, R.S.C. 1985, c. J-2, s.s. 5(d).
+[15] The parties may seek guidance under Rule 29.1.03 of the Ontario Rules of Civil Procedure: RR0 1990, Reg. 194.

@@ -1,0 +1,132 @@
+Title: Mallon v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66400/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-14-66400-mallon-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2014-01-14
+
+# Mallon v. M.N.R.
+
+- Citation: 2014 TCC 14
+- Decision date: 2014-01-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5989, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mallon v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-01-14
+Neutral citation
+2014 TCC 14
+File numbers
+2013-2863(CPP)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2013-2864(EI)
+2013-2863(CPP)
+BETWEEN:
+PAUL E. MALLON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 8, 2014, at Toronto, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alisa Apostle
+____________________________________________________________________
+JUDGMENT
+The Appeals pursuant to subsection 103(1) of the Employment Insurance Act and section 28 of the Canada Pension Plan are dismissed.
+Signed at Ottawa, Canada, this 14th day of January 2014.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2014 TCC 14
+Date: 20140114
+Docket: 2013-2864(EI),
+2013-2863(CPP)
+BETWEEN:
+PAUL E. MALLON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+C. Miller J.
+[1] Mr. Mallon has worked for Honeycomb Worldwide Inc. ("Honeycomb") since July 2011 as what I would describe as a commissioned salesperson, with the title of Director or Vice-President of Business Development. The Government maintains that from July 5, 2011 to October 3, 2012, Mr. Mallon was an employee of Honeycomb and thus in insurable and pensionable employment for purposes of the Employment Insurance Act (the "EIA") and Canada Pension Plan (the "CPP"). Mr. Mallon maintains he was an independent contractor: the age old issue – which is it?
+[2] I heard two witnesses: Mr. Mallon and the CEO of Honeycomb, Mr. John Hughes. Unlike many cases dealing with this issue, here, Mr. Hughes, representing the Payor and Mr. Mallon, the independent contractor or employee, told the same story. Their description of the work, of the arrangement and the contract was identical. This was indeed refreshing.
+[3] Honeycomb is in the digital media events business. It provides internet seminars or webinars in the biotech industry. To be successful the business needs both an audience and sponsors. It was Mr. Mallon’s job to find sponsors, who would pay Honeycomb to sponsor a webinar and thus get its business in front of potential biotech customers.
+[4] Mr. Mallon, prior to joining Honeycomb, was employed at the Toronto Board of Trade, but as his arrangement was coming to an end, he responded to a Craig’s List advertisement regarding a position with Honeycomb. Honeycomb needed someone to create new business, and after some meetings between Mr. Hughes and Mr. Mallon, in which Mr. Mallon expressed a desire to be an independent contractor, an agreement, the Contracting Services Agreement, was reached. According to Mr. Mallon, he used the Board of Trade’s contract, with some minor modifications, in his new position.
+[5] Mr. Mallon’s job was to sell sponsorships. In 2011, only he and Mr. Hughes were handling that aspect of the business. Since then, others have been hired who also do sales, all but one of whom is in an employment arrangement. The other individual who started as an independent contractor changed to employee status when this became an issue with the Government. Only Mr. Mallon has pursued this issue.
+[6] All sales people were compensated in a similar fashion; that is, a base salary, in Mr. Mallon’s case of $2,000 per month, plus commissions as set out in Schedule A to the Contracting Services Agreement. Schedule A stipulates:
+Effective July 5, 2011, commissions will be paid by Honeycomb to the contractor on all sponsorship sales obtained by the contractor as follows:
+· From July 5 to September 6, 2011 at a rate of 20% of the price of the sponsorship.
+· Thereafter the commissions will be at a rate of 10% on the initial $15,000.00 in total sales for a month and 15% on sales over $15,000.00 for a month.
+Commissions will be paid on the last day of the month, only upon monies received in each month.
+[7] When Mr. Mallon first started, Mr. Hughes spent a couple of hours filling him in on Honeycomb’s business, but felt that Mr. Mallon was experienced enough in sales that little further training was required. Mr. Mallon conducted the work from Honeycomb’s office relying on computers and phone provided by Honeycomb. Most customers were in Europe or the United States so there were no in-person sales pitches. The office had normal business hours of 8:30 a.m. to 5:30 p.m. and Mr. Mallon adhered mainly to those hours though would often work on Saturdays.
+[8] Mr. Mallon testified there were no formal performance reviews nor formal vacation times, and as a courtesy he would advise Mr. Hughes if he was going to be away for a few days. Mr. Mallon would consult with Mr. Hughes when negotiating rates with customers. Mr. Mallon provided no invoices to Honeycomb nor did he charge Goods and Services Tax ("GST"). He never hired anyone to replace him. If there was a concern with a potential client he would deal with it, though if there was a concern with an existing client Mr. Hughes might get involved. Mr. Mallon acknowledged that Mr. Hughes was ultimately the face of Honeycomb.
+[9] Mr. Mallon stated he had no business expenses and the reason he wanted independent contractor status was simply to be independent with the ability to terminate the arrangement on short notice.
+[10] Mr. Hughes described the industry as competitive, and that it was common to have sales people in independent contractor arrangements, so he thought he would do the same when Mr. Mallon asked, though the rest of the sales force at Honeycomb were employees. Mr. Hughes questioned how the Toronto Board of Trade might be able enter such arrangement, yet he, as a small business, was being challenged.
+[11] This case highlights what is often at the root of these employee versus independent contractor cases, and that is that the involved parties believe they can choose to opt in or out of Employment Insurance ("EI"). If a worker wants independent contractor status, then with a stroke of a pen the worker has it, notwithstanding all other workers in similar positions are treated as employees, and notwithstanding the true nature of the working arrangement. This is not a criticism, as oftimes the working arrangement is sufficiently informal that the line between employment and independent contractor is fuzzy, and it might indeed require little tweaking to fall off either side of the fence.
+[12] This case also highlights the danger in placing too much reliance on intention in determining the appropriate relationship. The recent Federal Court of Appeal case of 1392644 Ontario Inc. (c.o.b. Connor Homes) v Canada[1] has attempted to place the factor of intention in the appropriate determinative hierarchy. The court stated:
+37. … the determination of whether a particular relationship is one of employee or of independent contractor cannot simply be left to be decided at the sole subjective discretion of the parties. Consequently, the legal status of independent contractor or of employee is not determined solely on the basis of the parties declaration as to their intent. That determination must also be grounded in a verifiable objective reality.
+…
+39. Under the first step, the subjective intent of each party to the relationship must be ascertained. This can be determined either by the written contractual relationship the parties have entered into or by the actual behaviour of each party, such as invoices for services rendered, registration for GST purposes and income tax filings as an independent contractor.
+40. The second step is to ascertain whether an objective reality sustains the subjective intent of the parties. As noted by Sharlow J.A. in TBT Personnel Services Inc. v. Canada, 2011 FCA 256 (CanLII), 2011 FCA 256, 422 N.R. 366 at para. 9, “it is also necessary to consider the Wiebe Door factors to determine whether the facts are consistent with the parties’ expressed intention.” In other words, the subjective intent of the parties cannot trump the reality of the relationship as ascertained through objective facts. In this second step, the parties intent as well as the terms of the contract may also be taken into account since they colors the relationship. As noted in Royal Winnipeg Ballet at para. 64, the relevant factors must be considered “in the light of” the parties’ intent. However, that being stated, the second step is an analysis of the pertinent facts for the purpose of determining whether the test set out in Wiebe Door and Sagaz has been in fact met, i.e whether the legal effect of the relationship the parties have established is one of independent contractor or of employer-employee.
+41. The central question at issue remains whether the person who has been engaged to perform the services is, in actual fact, performing them as a person in business on his own account. As stated in both Wiebe Door and Sagaz, in making this determination no particular factor is dominant and there is no set formula. The factors to consider will thus vary with the circumstances. Nevertheless, the specific factors discussed in Wiebe Door and Sagaz will usually be relevant, such as the level of control over the worker’s activities, whether the worker provides his own equipment, hires his helpers, manages and assumes financial risks, and has an opportunity of profit in the performance of his tasks.
+[13] I read these guidelines in conjunction with the following comments from the Federal Court of Appeal in the Royal Winnipeg Ballet v Canada[2] case:
+I emphasize again, that his does not mean that the parties’ declaration as to the legal character of their contract is determinative. Nor does it mean that the parties’ statements as to what they intended to do must result in a finding that their intention has been realized. To paraphrase Desjardins J.A. (from paragraph 71 of the lead judgment in Wolf), if it is established that the terms of the contract, considered in the appropriate factual context, do not reflect the legal relationship that the parties profess to have intended, then their stated intention will be disregarded. (emphasis added).
+[14] So, stated intention can be "disregarded": "legal status of independent contractor or of employee is not determined solely on the basis of the parties declaration as to their intent". With respect, turning what was, prior to the Royal Winnipeg Ballet case, a one-step approach into a two-step approach, requiring the second step to be an analysis through the "prism" of intention appears to place too great an emphasis on the factor of intention, that can so readily be manipulated with no regard for the true status of the working relationship, but more to the effect of avoiding source deductions. I am bound to follow the Federal Court of Appeal’s approach, and I will, as clearly in this case the actions of Mr. Mallon (no invoices, no business expenses, no GST) and the actions of Honeycomb (treating all other workers in similar positions as employees) do not support an intention expressed by words only in the Contracting Services Agreement that an independent contractor relationship was intended. It is unnecessary therefore to enter the second step of the analysis suggested by the Federal Court of Appeal through an independent contractor prism. What is necessary is to review those traditional factors to answer the simple question – whose business is it?
+[15] I would suggest, with respect, the two step approach is backwards. First, determine the true nature of the working arrangement, through the traditional analysis, and as Justice Noel acknowledged in Wolf v The Queen,[3] if the answer is not definitive, consider the mutual intention. Or perhaps look to intention as just one of the traditional factors such as control, ownership of tools, chance of profit and risk of loss, limiting the analysis to one step. It has always troubled me that this factor received no mention in the Supreme Court of Canada leading case on this issue (1671122 Ontario Ltd. v Sagaz Industries Canada Inc.,[4]) yet we now must analyze through the intention prism. As judges we attempt to set tests not just to provide useful guidance for our own analysis, but to provide a helpful roadmap to taxpayers or, in this case, employers and workers. When determining the status of a working arrangement the message must be that the courts will look foremost to the actions and behaviour that define the relationship and determine whose business it is. Indeed, action and behaviour will determine intention, not the other way round. Mr. Mallon’s intention to be an independent contractor meant, to him, an ability to terminate the contract with little notice. Clearly this is not a differentiating factor in the analysis and weakens any value to be put on stated intention. I proceed with caution when factoring intention into the analysis.
+[16] I find in this case there is only one business and that is the business of Honeycomb. Mr. Mallon is not in business on his own account. I will review the relevant factors in leading me to that conclusion.
+i) Control
+[17] It is always difficult in informal arrangements to identify elements that suggest control or lack thereof. Mr. Mallon worked in the same office as Mr. Hughes, to the point Mr. Hughes suggested Mr. Mallon might learn the business by osmosis. Certainly there was no formal performance review, but equally certain was Mr. Hughes’ constant presence. Mr. Mallon abided by Honeycomb’s office hours. He agreed only he could provide the services – no replacements. The agreement itself indicated the working arrangement was for an "unfixed term", during which Mr. Mallon was "free to provide services to other organizations", while also agreeing to exercise "his full attention in performing the services" listed in the agreement. He could not provide services elsewhere if it interfered with his work for Honeycomb.
+[18] The clients Mr. Mallon approached were Honeycomb clients, ultimate control of contracts and managing such clients resting with Mr. Hughes.
+[19] Neither was this a completely hands off arrangement nor an overbearing management control arrangement. Mr. Mallon worked closely with Mr. Hughes in a small office, an office for which Mr. Hughes was in charge. I find the control factor does not point determinatively one way or the other.
+ii) Ownership of equipment
+[20] All equipment, and given the nature of the business, this means office equipment, was supplied by Honeycomb to Mr. Mallon: this is an indication of employment.
+iii) Chance of profit
+[21] Mr. Mallon was not paid on a full commission basis. He had a guaranteed $2,000 a month with commissions owing at certain sales targets. He was not the only worker at Honeycomb with such an arrangement. All others had employment status. A commission does suggest the harder and more successfully one works at sales, the greater the income. Being paid only on a commission basis would argue more in favour of an independent contractor arrangement; the guaranteed monthly income, however, mitigates against such a finding. Further, the sale of sponsorships would be limited by a factor outside Mr. Mallon’s control, being the capability of Honeycomb to provide the webinars. What this suggests is that Mr. Mallon, unlike an independent contractor, may not have had sky’s the limit possibilities for earning profit. This points out to me that there was really just the one business, and that was the one being carried on by Honeycomb. This factor favours a finding of employment.
+iv) Risk of loss
+[22] Simply put, there was none for Mr. Mallon. He acknowledged he had no business expenses. He incurred no costs for insurance, interest on loans, travel expenses. Honeycomb bore all expenses. Mr. Mallon had a guaranteed monthly income. This all suggests to me Mr. Mallon faced no risk and was in an employment arrangement.
+v) Any other relevant factors
+[23] Mr. Mallon had no capital investment as such in his own business.
+[24] On balance, the traditional tests point to an employment arrangement between Mr. Mallon and Honeycomb. Mr. Hughes asked why can the Toronto Board of Trade get away with independent contractor arrangements. Unfortunately, I do not have all the circumstances of the arrangements between the Board of Trade and its workers to answer that question. These are very fact specific determinations not susceptible to making broad generalizations that might address his concerns.
+[25] The Appeals are dismissed.
+Signed at Ottawa, Canada, this 14th day of January 2014.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2014 TCC 14
+COURT FILE NO.: 2013-2864(EI), 2013-2863(CPP)
+STYLE OF CAUSE: PAUL E. MALLON AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 8, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: January 14, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alisa Apostle
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2013 FCA 85.
+[2] 2006 FCA 87.
+[3] 2002 D.T.C. 6853 (F.C.A.).
+[4] 2001 SCC 59.

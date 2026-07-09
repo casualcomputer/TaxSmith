@@ -1,0 +1,237 @@
+---
+title: "General Electric Capital Canada Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30022/index.do"
+last_modified: "2010-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 490"
+citation2: ""
+neutral_citation: "2010 TCC 490"
+decision_date: "2010-10-15"
+language: "en"
+item_id: "30022"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7664
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:57:07.336000+00:00"
+cases_cited_count: 12
+cases_citing_count: 27
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "535c7595a76ffa19d495a667f1dd58d9554b7d284d21b188e67c282bb38e5fa8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# General Electric Capital Canada Inc. v. The Queen
+
+- Citation: 2010 TCC 490
+- Decision date: 2010-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7664, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+General Electric Capital Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-15
+Neutral citation
+2010 TCC 490
+File numbers
+2006-1385(IT)G, 2006-1386(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2006-1385(IT)G
+2006-1386(IT)G
+BETWEEN:
+GENERAL ELECTRIC CAPITAL CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Hearing on costs held on May 31, 2010, at Toronto, Ontario.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Joseph Steiner
+Neil Paris
+Counsel for the Respondent:
+Justin Kutyan
+ORDER
+The Appellant is awarded costs as set out in the attached Reasons for Order.
+Signed at Ottawa, Canada, this 15th day of October 2010.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2010 TCC 490
+Date: 20101015
+Dockets: 2006-1385(IT)G
+2006-1386(IT)G
+BETWEEN:
+GENERAL ELECTRIC CAPITAL CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hogan J.
+[1] At trial, I invited the parties to provide me with representations on costs. Both parties filed lengthy written submissions, followed by oral argument at a hearing in Toronto, and I am now prepared to dispose of this matter.
+Positions of the Parties
+Appellant
+[2] Counsel for the Appellant notes that the Appellant was successful in its recent appeal to the Tax Court of Canada in General Electric Capital Canada Inc. v. The Queen, 2009 TCC 563, and therefore is entitled to be awarded costs.[1]
+[3] The Appellant submits that it is appropriate for this Court to award costs in excess of the amounts set out in Schedule II, Tariff B (the “Tariff”) of the Tax Court of Canada Rules (General Procedure), SOR/90‑688a (the “Rules”), due to the complexity and importance of the issues in the appeals, the amount at stake, and the failure of the Minister of National Revenue (the “Minister”) to conduct a reasonable inquiry into the Appellant’s final credit rating prior to trial. The Appellant is asking for a party and party costs award, to be determined on a lump sum basis, in the amount of $1.5 million, and approximately $3.5 million for disbursements. The Appellant states that the costs sought are less than the $2.7 million in costs that would be payable if costs on a partial indemnity basis were awarded, and the $7.5 million in costs that would be payable if they were awarded on the basis of the solicitor‑client fees incurred by the Appellant.
+[4] The Appellant relies on the Court’s discretion to award costs in excess of the Tariff amounts found in subsection 147(3) of the Rules. More specifically, several of the factors listed in subsection 147(3) are noted by the Appellant.
+[5] First, the Appellant states that it obtained all of the relief that it sought, which is true, as the appeals were allowed. The Appellant also counters an argument raised by the Respondent that the costs should be discounted because the Appellant did not succeed on its alternative arguments. Second, the Appellant notes that the amount of tax in issue was substantial — approximately $47 million. Third, the Appellant states that this case was the Tax Court’s first chance to interpret section 247 of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) (the “ITA”). The Appellant argues that the Court’s decision will likely assist with resolving similar disputes and will also likely affect the Minister’s position in respect of unrelated taxpayers, including those with litigation pending. Fourth, the Appellant notes that the issues raised were very complex and that the Court required the assistance of 12 experts from various fields. Fifth, the Appellant claims the volume of work was large, as it spent over 14,000 hours preparing its case.
+[6] Additionally, the Appellant claims that there was an undue lengthening of the proceedings by the Minister. The Appellant states that a draft credit rating prepared by the Dominion Bond Rating Service was submitted to the Canada Revenue Agency (the “CRA”) during the audit stage of the process. This draft credit rating assigned a stand-alone rating of B and a subsidiary rating of BBB to the Appellant. The Appellant argues that the trial could have been avoided altogether if the CRA and the Minister had conducted a reasonable investigation into the merit of the draft rating. This argument appears to be a gross overstatement by the Appellant; as the credit rating of the Appellant without the guarantee was one of the main issues in dispute, it is unlikely that the Minister would have ever conceded on this issue. The Appellant also relies on my decision in the case of Landry v. The Queen, 2009 TCC 399, which was recently overturned by the Federal Court of Appeal, 2010 FCA 135.
+Respondent
+[7] Counsel for the Respondent concedes that an award of costs in favour of the Appellant is appropriate. The Minister asks that the amount of costs be reduced, however, as the Appellant was not successful on several legal issues of precedential significance. In the case cited in support, GlaxoSmithKline Inc. v. Pharmascience Inc., 2008 FC 849, Barnes J. did take into account the fact that Pharmascience, while not ultimately successful, was successful on several key validity issues, and thus he awarded costs in the middle of Column III rather than within Column IV.[2] This approach does not generally appear to have support in the case law.
+[8] The Respondent argues that the Appellant’s seven expert witnesses were unnecessary and the costs of the motion seeking to produce eight experts should be borne by the Appellant. The Respondent also asks that some of the costs for the Appellant’s experts be borne by the Appellant, as well as some of the costs incurred by the Respondent in rebutting the Appellant’s numerous expert reports. In addition, the Respondent asserts that the trial took longer than 15 days because of the Appellant’s numerous experts. The Respondent notes that, in the reasons for the Order dated May 7, 2009, it was stated that if the evidence turned out to be redundant and the trial was needlessly prolonged, then the Respondent could present this factor when costs were considered. The Respondent further asks that the reasonableness of the Appellant’s expert witness claims be dealt with on taxation.
+[9] The Respondent asserts that the discovery conducted on May 5, 2009 was necessitated by the Appellant’s late disclosure of documents and asks that costs not be awarded to the Appellant for that day.
+[10] The Respondent argues that its costs in relation to its two transfer pricing experts should be covered, as the Court found their testimony helpful in resolving the issues before it. No case was cited in support of this claim and there does not appear to be any case in which an unsuccessful party was compensated in such a manner for reasons similar to those put forward by the Respondent.
+[11] Counsel asks that costs not be awarded in relation to Jack Mintz, an expert of the Appellant who did not testify, Mr. Scilipoti, whose testimony is not mentioned by the Court in the judgment, and several others whose testimony the Court did not accept. Counsel for the Appellant points out, correctly, that no costs were requested in respect of the work of Jack Mintz.
+Analysis
+[12] According to the Federal Court of Appeal in The Queen v. Finch, 2003 FCA 267, it is “incumbent upon the Tax Court Judge to give the parties an opportunity to be heard on the issue of costs before making the award”.[3] In the instant case both parties were heard by way of written submissions and orally.
+[13] Sections 147 through 152.1 of the Rules govern the award of costs in this appeal. According to the text The Law of Costs,[4] a trial judge has absolute and unfettered discretion to award or withhold costs subject only to the applicable rules on costs.
+[14] In exercising its discretion pursuant to subsection 147(3) of the Rules the Court may consider a number of factors.
+147(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceeding was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake, or excessive caution,
+(j) any other matter relevant to the question of costs.
+[15] In Lau v. Canada, 2004 FCA 10, the Federal Court of Appeal noted that the “awarding of costs under rule 147 is highly discretionary although, of course, that discretion must be exercised on a principled basis”.[5]
+[16] It is a basic tenet of the common law that costs “follow the event”.[6] According to Federal Income Tax Litigation in Canada, costs generally do follow the event in most income tax appeals.[7] At common law, costs are premised on the object of indemnification, which means that if costs have been incurred in litigating the dispute and are reasonable, then they generally ought to be recoverable by the successful party.[8]
+[17] Generally, as stated by the Federal Court of Canada in Apotex Inc. v. Wellcome Foundation Ltd. (1998), 84 C.P.R. (3d) 303, affirmed by the Federal Court of Appeal (2001), 199 F.T.R. 320, the following principle is to be noted when awarding costs:
+7 . . . costs should neither be punitive nor extravagant and . . . [a]n important principle underlying costs is that an award of costs represents a compromise between compensating a successful party and not unduly burdening an unsuccessful party.
+[18] The Court is empowered to make a lump sum costs award under subsection 147(4) of the Rules.
+147(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+[19] In awarding lump sum costs, Rothstein J. — speaking for the majority of the Federal Court of Appeal — noted the following in Consorzio Del Prosciutto Di Parma v. Maple Leaf Meats Inc., 2002 FCA 417:
+10 The Court, therefore, does have discretion to depart from the Tariff, especially where it considers an award of costs according to the Tariff to be unsatisfactory. . . .
+. . .
+12 One advantage of a lump sum award of costs is the saving in costs to the parties that would otherwise be incurred in the assessment process. However, a lump sum award of costs may not be appropriate in all cases. . . .
+[20] Bowman J., as he then was, observed the following in Continental Bank of Canada v. Canada, [1994] T.C.J. No. 863 (QL):
+9 It is obvious that the amounts provided in the tariff were never intended to compensate a litigant fully for the legal expenses incurred in prosecuting an appeal. The fact that the amounts set out in the tariff appear to be inordinately low in relation to a party's actual costs is not a reason for increasing the costs awarded beyond those provided in the tariff. I do not think it is appropriate that every time a large and complex tax case comes before this court we should exercise our discretion to increase the costs awarded to an amount that is more commensurate with what the taxpayers’ lawyers are likely to charge. It must have been obvious to the members of the Rules Committee who prepared the tariff that the party and party costs recoverable are small in relation to a litigant's actual costs. Many cases that come before this court are large and complex. Tax litigation is a complex and specialized area of the law and the drafters of our Rules must be taken to have known that.
+10 In the normal course the tariff is to be respected unless exceptional circumstances dictate a departure from it. Such circumstances could be misconduct by one of the parties, undue delay, inappropriate prolongation of the proceedings, unnecessary procedural wrangling, to mention only a few. None of these elements exists here.
+[21] Lump sum costs were awarded by Bowman A.C.J., as he then was, in Lau v. The Queen, 2003 TCC 74, which was affirmed by the Federal Court of Appeal, 2004 FCA 10. In that case the appeals were “bumped up” from the informal procedure to the general procedure, thus causing the appellants to incur a substantial increase in costs. Further, the case against one of the appellants should not have proceeded to Court, as that appellant was not a director and the issue was director’s liability. In addition, there was a settlement offer made to the Minister which Bowman A.C.J. felt should have been accepted.
+[22] It is interesting to note that in Stevens v. Canada (AG), 2007 FC 716, O’Keefe J. awarded costs in accordance with the Tariff as well as lump sum costs in the amount of $20,000. Lump sum costs were awarded because the case was lengthy, a large quantity of work was done, there were issues that related to the conduct of a public inquiry that needed to be determined, and the error that caused the case to arise was not of the plaintiff’s making.
+[23] Counsel for the Respondent argued strenuously that I should adhere to the principle enunciated previously in some of the judgments of my current and former colleagues, namely that this Court should respect the principle that there should be no departure from the tariff, absent special circumstances justifying solicitor-client costs relating to the conduct of the parties or their counsel during the litigation.[9] As stated by Bowman J., as he then was, in McGorman et al. v. The Queen, 99 DTC 591 (TCC):
+13 I shall endeavour to set out briefly my views on how the costs should be awarded in these cases. Obviously, the court has a fairly broad discretion with respect to costs, but that discretion must be exercised on proper principles and not capriciously. For example, the mere fact that a case is novel, unique, complex or difficult, or that it involves a great deal of money is not a reason for departing from the tariff, which, generally speaking, should be respected in the absence of exceptional circumstances. I shall not repeat what I said about awarding solicitor and client costs in Continental Bank of Canada et al. v. The Queen, 94 DTC 1858 at page 1874.
+14 Do exceptional circumstances exist here that would justify an award of solicitor and client costs? It is true the cases were important and difficult and they raised a wide variety of legal and ecclesiastical questions requiring the assistance of experts. This in itself does not warrant solicitor and client costs.
+[24] First, I note that the former Chief Justice is specifically referring to an award of solicitor-client costs. The principle referred to by Bowman J. is based on the Supreme Court of Canada’s decision in Young v. Young, [1993] 4 S.C.R. 3, where McLachlin J., as she then was, held that there must be evidence of reprehensible, scandalous or outrageous conduct before an award of costs can be made on a solicitor‑client basis. In the instant case, the Appellant does not seek an award on a solicitor-client basis — which would be the case if it was claiming $7.5 million. While the Appellant is seeking to depart from the Tariff, it is claiming party and party costs, not solicitor-client costs; the two are different cost awards, to which different considerations apply. In fact, the Appellant is claiming a lump sum of $1.5 million, which represents approximately 20% of the solicitor-client fees it incurred and approximately 55% of the $2.7 million of costs that would be payable if costs on a partial indemnity basis were awarded by a superior court. I agree with counsel for the Appellant that the argument made by the Respondent in this case would, for all intents and purposes, read subsections 147(3) and (4) out of the Rules.
+[25] It is clear from the transcript of the oral submissions presented at the hearing on costs that the central argument made by counsel for the Respondent is that there must be malfeasance or misconduct before I should exercise my discretion to move away from the Tariff. This is indicated by the following excerpt from the transcript of the oral submissions:
+MR. KUTYAN: . . . Your Honour, our position is not that the Court does not have discretion with respect to awarding costs. That is obvious. The only issue that we have, your Honour, is that the exercise in that discretion should [not] be taken lightly and on a principle fashion. When we review a bunch of the case law, what comes to mind would be the former Chief Justice’s comment about cost, and saying essentially that in the normal course, the tariff should be respected, unless there are exceptional circumstances that gives right to depart from that. The onus is really on the Appellant to demonstrate these exceptional circumstances. It is a fairly high standard. What are the exceptional circumstances? Generally it flows from the conduct of the parties during the trial. We looked at Rule 147 and the jurisprudence to find that. I appreciate that my friend this morning indicated that they are not seeking solicitor client costs, but at the same time, your Honour, the only way for them to be successful in awarding an amount over and above the tariff amount is if they can demonstrate some sort of misconduct during the trial or from the Minister’s end.
+If we take a look at all the factors, at the end of the day, that is the only one that is probably going to stick out the most if they can succeed on that. The mere fact that the issue was novel, complex, or a lot of money was at stake is not sufficient to defer itself from the tariff.
+JUSTICE HOGAN: On what basis do you say that? Is it simply because the Chief Justice of this Court might have said that in the judgment?
+[Emphasis added.]
+[26] With respect for the contrary view, I believe that the Rules Committee was well aware of the fact that there are numerous factors which can warrant a move away from the Tariff towards a different basis for an award of party and party costs, including lump sum awards. Subsection 147(3) of the Rules confirms this by listing specific factors and adding the catch-all paragraph (j), which refers to “any other matter relevant to the question of costs”. If misconduct or malfeasance was the only case in which the Court could move away from the Tariff, subsection 147(3) would be redundant. Words found in legislation are not generally considered redundant. As stated by the Supreme Court in Hills v. Canada (AG), [1988] 1 S.C.R. 513:
+106 . . . In reading a statute it must be “assumed that each term, each sentence and each paragraph have been deliberately drafted with a specific result in mind. Parliament chooses its words carefully: it does not speak gratuitously” (P.-A. Côté, The Interpretation of Legislation in Canada, (1984), at p. 210).[10]
+[27] It has been repeatedly affirmed that McLachlin J.’s comment requiring misconduct or malfeasance in Young v. Young, above, was specifically and only made in reference to the availability of solicitor-client costs. It is true that “[t]he general rule is that a successful litigant is entitled to party and party costs,” in accordance with the Tariff.[11] It is also true that a measure of reprehensibility is required for either party to be ordered to pay costs to the other party on a solicitor‑client basis. The two rules must not be conflated, as to do so would remove all middle ground.
+[28] The Interpretation Act applies to the ITA and to this Court’s Rules.[12] Section 12 of the Interpretation Act provides that every enactment “is deemed remedial, and shall be given such fair, large and liberal construction and interpretation as best ensures the attainment of its objects”. It is reasonable to conclude that the purpose of section 147 of the Rules was to give a judge the discretion to move away from the Tariff in order to provide fair and reasonable relief in the circumstances — with or without reference to Schedule II, Tariff B. A restrictive interpretation of that section that would require a taxpayer to meet the same burden in order to move from the Tariff to any level of partial indemnity or to a lump sum award in lieu of or in addition to any costs as it would have to meet to obtain solicitor-client costs would defeat at least one of the purposes of the section.
+[29] The principal policy argument reiterated by counsel for the Respondent for basing the costs award on the Tariff is the spectre that if the courts were to grant considerable lump sum awards it might dissuade parties from exercising their statutory right of appeal. This may be true in some cases, but it does not appear to have played a role in the case at bar. Both parties had experienced senior counsel representing them and assumed the considerable costs of hiring experts. One policy argument cannot be made to fit all cases, particularly those in a complex field such as transfer pricing in the context of pricing financial services, including guarantees.
+[30] I note that only three of the factors listed in subsection 147(3) of the Rules deal with the conduct of the parties;[13] the other six factors deal specifically with the circumstances of the case. Five out of those six factors apply to the instant case, namely: the result of the proceeding, the amount at issues, the importance of the issue, the volume of work, and the complexity of the issues.
+[31] With respect to the result of the proceeding, the Appellant obtained all that it sought in the case. There is a strong tendency in the case law to accept the principle that costs awards should not be distributive, with the amounts being based on the outcome of particular arguments.[14] As noted by Bowman J., as he then was, in RMM Canadian Enterprises Inc. v. The Queen:
+5 . . . It frequently happens in litigation that arguments are advanced in support of positions that, with the benefit of hindsight, turn out to have been unnecessary. Unless such arguments are plainly frivolous or untenable, I do not think that a litigant should be penalized in costs simply because its counsel decides to pull out all the stops, nor do I think that it is my place to second guess counsel’s judgment, after the event, and say, in effect, “If you had had the prescience to realize how I was going to decide we could have saved a lot of time by confining the case to one issue.” Moreover, one of counsel’s responsibilities is to build a record which will enable an appellate court to consider all of the issues.
+[Emphasis added.]
+[32] The amount of tax at issue, without considering interest and penalties, exceeded $47 million. With respect to the importance of the issue, this case is the first application of the transfer pricing rule found in section 247 of the ITA. Since the decision in the case has been issued, numerous articles and commentaries have been published in Canada,[15] and the case has been the object of commentary in the United Kingdom,[16] the United States,[17] and Sweden,[18] to name of few of the foreign jurisdictions where it has been considered. This high level of foreign interest is likely tied to the fact that, as I understand, this is the first transfer pricing case on guarantee fees in the world, and the rules in many foreign jurisdictions are similar to those found in Canada.
+[33] I expect that when this case (which is under appeal) is finally determined, important legal principles underlying the application of section 247 to financial services will be settled.
+[34] On the subject of the complexity of the issues, this appeal raised numerous and extremely complex issues that required the Court to consider the evidence of experts in different specialized fields, including experts in credit default swaps — a form of guarantee available to public bond holders — insurance, credit rating methodologies, and bond pricing analysis, as well as economists specialized in transfer pricing. The experts’ reports in chief and rebuttals were voluminous and, in many cases, were based on complex financial and economic methodologies. The Respondent incurred approximately $3,361,688 in costs for its experts. There were many legal issues on which there is no precedent in the case law and that were instead addressed by the combined work of counsel and the experts. In particular, the parties presented lengthy argument on whether section 247 required the Court to situate the parties opposite each other. The Appellant argued that only those economic characteristics of the transaction which were not distorted by the related party dealings needed to be considered. If the Court had accepted this approach it would not have had to deal with the impact of implicit support in its analysis of the arm’s length price for the guarantee arrangement. Obviously, the parties had no way of knowing how this issue would be finally dealt with.
+[35] In the end, I decided that the rules do not require the Court to situate the parties opposite each other. I decided that what must be done is to price the transaction entered into by the parties in the way that it would have been priced by arm’s length parties, taking care to consider all of the relevant economic characteristics of the transaction in order to ensure comparability. Because the outcome on this issue was uncertain at the time of the hearing, the parties were left to prepare on the basis that implicit support might or might not be considered. As a result, many of the experts were required to conduct a dual analysis.
+[36] The lengthy submissions, expert reports, transcripts, and judgment are available to the public, which means that future litigants in this field will have a much simpler time dealing with this issue. I do not believe that the high level of complexity that characterized this case will be found in many of the cases that will be considered by this Court in the future, and, from a strict policy perspective, this case will be of limited precedential value to those who invoke deterrence as an argument against departure from the Tariff.
+[37] After careful consideration, all of the above factors lead me to believe that the Appellant is entitled to a lump sum cost award with respect to counsel fees. However, I do not believe it is entitled to the full amount of $1.5 million that it has claimed. The literature on the billing practices of law firms rightfully points out that billing on a purely hourly basis does not always provide proper incentive to lawyers to act efficiently and productively in their performance of a mandate. If anything, the model can encourage the opposite behaviour, as an increase in the total number of hours spent on a file leads to an increase in revenue. Perversely, efficiency is rewarded by lower gross billings. There is much talk in the literature about the need for lawyers and their clients to agree on billing structures that align billing with the value to, or the results for, the client, but few are able to agree on a definition of value.
+[38] One issue that has been specifically noted is the concern that clients are asked to pay for law firms’ duplication of efforts. While much of the debate surrounding billing models remains academic, the courts have accepted the anti-duplication principle and have acted to limit costs where duplication is present. For example, see Wotherspoon v. Canadian Pacific Ltd.[19]
+[39] At trial I emphasized how well counsel for both parties presented their case at the hearing. However, on the basis of the supporting calculations provided by the Appellant in justifying its claim of $1.5 million, I note that 77 lawyers working for the Appellant spent time on the file. In many cases, it was only a few hours. I cannot help but believe that there may have been some duplication, at least in explaining the facts of the case to each lawyer that was called upon to provide some work or insight. The billing rates on which the claim for a partial indemnity are based are high, which would signify that the work was performed by the senior members of the teams, who should have been able to deal with most issues quickly; that is generally why they charge higher rates. In light of these facts, I have determined a lump sum amount of $1,130,593. I arrived at that figure by taking into account only the hours of those who spent a meaningful amount of time working on the file. I have eliminated the time of all lawyers who spent less than 1,000 hours working on the file. This eliminates approximately 4,000 hours from a total of approximately 14,000. My detailed calculations are set out in Annex A2.
+Disbursements – Experts
+[40] Subsection 1(2) of the Tariff provides for the reimbursement of “all disbursements made under Tariff A of this Schedule and all other disbursements essential for the conduct of the proceeding”.
+[41] It is generally accepted that expert fees are to be reimbursed as a disbursement, with certain notable exceptions. Expert fees can be reduced where an expert does not testify.[20] Further, expert fees can be reduced where they are not reasonable.
+[42] In Federal Income Tax Litigation in Canada, the following is stated with respect to expert fees as disbursements:
+13.82 . . . Expert fees may be recovered as a disbursement where the expert opinion is determined to be reasonable and necessary for the conduct of the appeal and is relied upon by the decision of the Court.[21]
+[Emphasis added.]
+[43] In order to determine what amount is reasonable with respect to expert fees, the Court is entitled to look at the preparation time required and the relationship between the opinion of the expert and the ultimate award.[22]
+[44] In Stribbell v. Bhalla, [1990] O.J. No. 999 (QL), the trial judge reduced the amount of the costs awarded for an expert report where the report was so “structurally and conceptually flawed and so unnecessarily lengthy that a substantial reduction [was] necessary”.[23]
+[45] Hughes J.’s comments in Eli Lilly Canada Inc. v. Novopharm Ltd., 2007 FC 708, with regard to disbursements for expert fees, are worth repeating:
+10 As to fees charged by such experts they should be reasonable and be the lesser of actual fees charged or the rate that was charged by [the litigant’s] senior counsel for services for the same period of time as spent by the experts. Expert rates should not get out of hand. Disbursements must be reasonable and not extravagant.
+[46] This view, that experts’ rates should not exceed those of senior counsel, was reiterated by Barnes J. in GlaxoSmithKline, above; however, he went further, stating that any time spent by experts in “preparing [the client’s] counsel to examine [the other side’s] expert witnesses or in attending the examination of any other witness shall not be recoverable”.[24]
+[47] Counsel for the Respondent argues that all disbursements for experts should be dealt with by me on the basis of principles only; by doing so, the Respondent is left with the right to question the disbursements when the bill is presented for consideration by the taxing officer in the context of the principles or guidelines that I will have set out for him. I do not share the Respondent’s view with respect to the work of Cole and Partners and CRA International. I will outline specific principles to be applied to the costs of those experts because I view their bills to be extremely high in the context of both the case as a whole and the work performed by the other experts.
+[48] In the case of CRA International, the costs submitted for taxation totalled approximately $2,088,351. The work lasted from May 2008 to June 2009, as shown in Annex B1, and at least 36 individuals worked on the file at various times, ranging from vice-presidents to senior principals to associates to analysts. Mark Fidelman, the person accepted as a witness, charged US$655 per hour, a very high rate for his services, and billed a total of 678.25 hours. An expert’s billing rate should be reflective of his experience and his ability to complete his assignment efficiently. I believe there was a lot of learning going on at CRA International — on the part of Mr. Fidelman and his colleagues — in developing and applying the methodology outlined in their report. I cannot help but believe that the Appellant was being charged for their “education”. William Chambers, the expert on the Standard & Poor’s rating methodology, tendered a bill that appears small in comparison to that of CRA International. His task was, in my opinion, equally complex. I believe the difference is that he was a true expert at the beginning of the process, whereas the personnel of CRA International appear to have honed their qualifications throughout the duration of their assignment. Learning the field should not be charged to the client. With this in mind, as a guideline specific to the cost of CRA International’s services, the amount allowed on taxation shall be equal to the cumulative time of Mr. Fidelman, the time of the associate with the greatest involvement in the case in a given period, and the time of an analyst. This works out to an amount of $788,993.04 as a recoverable disbursement for the costs in respect of time only incurred by the Appellant for the work of CRA International, all as calculated in Annex B2 to this Order. Disbursements will be subject to assessment by the taxing officer.
+[49] The same comments can be made in respect of the work of Cole and Partners, with the caveat that the work they did was of significantly lesser complexity than that of CRA International. For a large part, the Cole and Partners report relies on the work of the other experts for building a price grid reflective of arm’s length negotiations. The concept of “arm’s length” bargaining is well known to the courts. Once again, I note from the billing that 13 individuals worked on the file, with many of their time entries being for research, preparation, internal meetings, or the review of the other experts’ reports. For this reason, the Appellant should be able to recover only the charge for the time of Stephen Cole, identified by the initials SRC, which works out to $344,900 in respect of time charges only, all as shown in Annex C2 to this Order.[25] Disbursements shall be subject to assessment by the taxing officer.
+[50] The Respondent argues that it should be entitled to recover the disbursements incurred with respect to two of its transfer pricing experts because their testimony helped me to arrive at my decision. Additionally, the Respondent submits that the Appellant should not be allowed to recover its disbursements with respect to those experts whose advice was not followed by me or mentioned in my reasons for judgment. As noted earlier, costs and disbursements should not be distributive, with amounts being determined on the basis of results achieved with respect to specific arguments. Moreover, while I did find the testimony and reports of certain of the Appellant’s experts to be more useful than others, I cannot conclude that the work product (for which disbursements are claimed) of any of the Appellant’s other experts was duplicative or redundant. In the absence of precedent, the Appellant had no way of knowing in advance how the legal issues in dispute in this case would be resolved. It had to be prepared to deal with all possible outcomes.
+[51] There is no justification for excluding from the taxation process the disbursements claimed for the Appellant’s other experts. The taxing officer will retain his complete discretion over the taxation of all disbursements, except with regard to matters specifically dealt with herein.
+Signed at Ottawa, Canada, this 15th day of October 2010.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2010 TCC 490
+COURT FILE NOS.: 2006-1385(IT)G, 2006-1386(IT)G
+STYLE OF CAUSE: GENERAL ELECTRIC CAPITAL CANADA INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: May 31, 2010
+REASONS FOR ORDER BY: The Honourable Justice Robert J. Hogan
+DATE OF ORDER: October 15, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Joseph Steiner
+Neil Paris
+Counsel for the Respondent:
+Justin Kutyan
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Joseph Steiner
+Neil Paris
+Firm: Osler, Hoskin & Harcourt LLP
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See para. 7 of the Appellant’s Submissions on Costs. There is no detailed breakdown of the $2,775,740 which counsel claims would be payable on a partial indemnity basis, save for the categorization of the total hours spent on general stages of the litigation. My understanding is that the amount was determined using the standard applied by superior courts in Ontario when awarding costs on a partial indemnity basis.
+[2] At para. 4.
+[3] At para. 6.
+[4] Mark M. Orkin, The Law of Costs, 2nd ed., loose-leaf (Aurora: Canada Law Book Inc., 1987) at p. 2-10 (“Orkin”) (consulted in August 2010).
+[5] At para. 5.
+[6] G.D. Watson et al., Civil Litigation: Cases and Materials, 4th ed. (Toronto: Edmond Montgomery Publications, 1991) at p. 419.
+[7] A. Christina Tari, Federal Income Tax Litigation in Canada, loose-leaf (Markham: Butterworths, 1997), at para. 13.3 (“Tari”) (consulted in August 2010).
+[8] Ibid., at paras. 13.4-13.5.
+[9] Landry, FCA, above, at para. 24.
+[10] P.-A. Côté’s text has been cited by the Supreme Court alone nearly a hundred times.
+[11] Merchant v. Canada, [1998] 3 C.T.C. 2505 (TCC), at para. 58, Bowman J., as he then was; see also Zeller Estate v. The Queen, 2009 TCC 135, at paras. 7-12.
+[12] R.S.C. 1985, c. I-21, s. 3.
+[13] Those are 147(3)(g), (h) and (j).
+[14] RMM Canadian Enterprises Inc. v. The Queen, [1997] T.C.J. No. 445 (QL), 97 DTC 420 (TCC); Armak Chemicals Ltd. v. Canadian National Railway Co., [1991] O.J. No. 1535 (QL), (1991), 5 O.R. (3d) 1 at paras. 17-19 (CA); Pearson v. Inco Ltd. (2006), 79 O.R. (3d) 427 at para. 5 (CA), where Rosenberg J.A. stated, “this court has made it clear that distributive costs awards are to be avoided”; Shelanu Inc. v. Print Three Franchising Corporation (2006), 269 D.L.R. (4th) 152 at para. 6 (Ont. CA), citing Armak and Pearson for the principle that “a distributive costs award is to be avoided”; Greater Moncton International Airport Authority v. Public Service Alliance of Canada, 2009 FCA 72 at para. 7, where Stinson, Assessment Officer, stated “[a]n award of costs is not distributive”; AlliedSignal Inc. v. DuPont Canada Inc. (1998), 81 C.P.R. (3d) 110 (FCTD).
+[15] Murray Clayson, “GE Verdict Will Set International Precedent”, online: (February 2010) Int’l. Tax Rev. http://www.freshfields.com/publications/pdfs/2010/Feb10/MJC_ITR_article.pdf.
+[16] Kim Brooks, “General Electric Capital Canada Inc. v. The Queen: even straightforward facts confound transfer pricing law”, Case Comment on 2009 TCC 563, [2010] Brit. Tax Rev., No. 2, p. 132.
+[17] Georges Hirsch, Transfer Pricing Meeting Minutes, “ABA Section of Taxation, May Meeting in Washington, D.C., May 6-8, 2010” (May 7, 2010, 15:30-17:30) online:
+http://meetings.abanet.org/webupload/commupload/TX357000/sitesofinterest_files/2010_May_Session_D.C._Mintes_TP_Session.pdf.
+[18] BNA Tax and Accounting Center, ABA Panelist Debate, 90 DTR G-9, “Best Approach For Implicit Support in Pricing Guarantee” (May 12, 2010).
+[19] [1988] O.J. No. 1827 (QL):
+. . . Obviously, when more than one solicitor is involved in preparation, there is bound to be some element of duplication which should be disallowed, but the extent of such disallowance will depend on the individual circumstances of every case.
+See also McMillan Binch v. 1009768 Ontario Ltd., [1995] O.J. No. 4868 (QL):
+8 There is no doubt from the evidence that the solicitor dealt with the issues in a responsible manner but at excessive costs to the client. After reviewing all the evidence in this matter, it is my view that too many people worked on this file with an excessive amount of time spent internally resulting in very little independent action on the part of the individual professionals.
+[Emphasis added.]
+[20] Orkin, note 4 above, at §1109.8. See also Tari, note 7 above, at para. 13.82.
+[21] Tari, note 7 above.
+[22] Ibid., at para. 13.83.
+[23] At para. 5.
+[24] At para. 6.
+[25] When organized by activity pursued, the subtotals for each individual’s time entries are telling. For example, Stephen Cole spent almost the same amount of time reading or studying other experts’ reports as he did writing his own, billing a total of 76.00 and 85.50 hours respectively for the two. It should be kept in mind that neither of those totals includes the time Mr. Cole spent planning (49.50 hours), summarizing (16.00 hours), and reviewing (30.00 hours) Cole and Partners reports. Moreover, of the approximately 450 hours billed by Mr. Cole, more than 100 were spent in meetings, with approximately half of those meetings being internal.

@@ -1,0 +1,291 @@
+---
+title: "Brackstone v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29318/index.do"
+last_modified: "2009-07-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 361"
+citation2: ""
+neutral_citation: "2009 TCC 361"
+decision_date: "2009-07-10"
+language: "en"
+item_id: "29318"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7057
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:07:59.146000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3f31545e4484c0df0e85bd0daaadbbd1f5f387597f5472af55f2009728be5f79"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brackstone v. The Queen
+
+- Citation: 2009 TCC 361
+- Decision date: 2009-07-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7057, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brackstone v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-10
+Neutral citation
+2009 TCC 361
+File numbers
+2008-1006(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1006(IT)I
+BETWEEN:
+CHRISTOPHER BRACKSTONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 7, 2009, at London, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Joanna Hill
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant did incur an expense for fuel in the amount of $700.
+The appeals from the reassessments for the 2003 and 2004 taxation years are dismissed.
+It is further ordered that the filing fee of $100 be refunded to the Appellant.
+Signed at Ottawa, Canada, this 10th day of July 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC361
+Date: 20090710
+Docket: 2008-1006(IT)I
+BETWEEN:
+CHRISTOPHER BRACKSTONE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The Appellant appeals the reassessment of his 2002, 2003 and 2004 taxation years in which the Minister of National Revenue (the “Minister”) disallowed the deduction of various amounts as expenses as follows:
+Schedule “A”
+2002
+As filed
+Allowed
+In dispute
+Advertising
+1,000
+--
+1,000
+Fuel
+2,000
+136
+1,864
+Interest
+278
+145
+133
+Motor vehicle
+15,751
+776
+14,975
+Legal and accounting
+1,600
+--
+1,600
+Telephone and utilities
+75
+--
+75
+Start Up costs
+10,323
+1,034
+9,289
+Balancing amount
+200
+--
+--
+Capital cost allowance
+--
+245
+--
+Expenses
+31,227
+2,336
+28,936
+2003
+As filed
+Allowed
+In dispute
+Advertising
+350
+--
+350
+Business tax, fees and dues
+60
+--
+60
+Fuel
+1,909
+364
+1,545
+Insurance
+1,316
+--
+1,316
+Interest
+807
+807
+--
+Maintenance and repairs
+1,443
+--
+1,443
+Management and administration fees
+1,636
+--
+1,636
+Motor vehicle
+15,751
+747
+15,004
+Race at Lake Elliot
+325
+--
+325
+Cell phone
+1,416
+231
+1,185
+Other expenses
+3,374
+365
+3,009
+Capital cost allowance
+--
+441
+--
+Expenses
+28,387
+2,955
+25,873
+2004
+As filed
+Allowed
+In dispute
+Business tax, fees and dues
+148
+88
+60
+Fuel
+374
+374
+--
+Delivery and freight
+111
+111
+--
+Interest
+543
+543
+--
+Supplies
+13,289
+--
+13,289
+Terminal loss
+31,200
+31,427
+--
+Expenses
+45,665
+32,543
+13,349
+[2] In 2002, 2003 and 2004 the Appellant was employed on a full time basis with Ford Motor Company of Canada Limited. During this period, he also operated “Chris Brackstone Race Cars” as a sole proprietorship (“the Business”). The Business of the proprietorship was to build race cars and to sell various automobile products. The Appellant operated this business from a shop located at his family residence.
+[3] It was the Appellant’s evidence that he raced cars for the past 13 years. According to exhibit R-1, the Appellant had prior experience in building a racing car as he had built one in 1995 as a hobby. The Appellant thought that a lot of people would like to race; but, they did not know how to build a car. In other words, the Appellant thought there was a demand for race cars but there were very few suppliers, so he started the Business in 2002. It was his intention that if he was successful, he would operate the Business on a full time basis.
+[4] The Appellant stated that his speciality was to build the chassis, motor and driveline. He engaged others to build other parts of the race car. The car was completed in the spring of 2003. However, on its first trip around the racetrack, there was mechanical failure that caused the car to crash and its body and chassis were destroyed.
+[5] I note that exhibit R-1, which included the auditor’s report, stated that the race car was completed in the spring of 2004 and that it was destroyed by a crash in July 2004. However, at the hearing the Appellant stated that the race car was completed in 2003 and that the crash occurred in July 2003.
+[6] In 2004, the Appellant made the decision to shut the Business down and to claim a terminal loss.
+[7] The Appellant kept no books for his Business. He kept some of the invoices to substantiate his purchases but these records were kept in an envelope in no particular order with the receipts for the goods that he sold.
+[8] At the hearing of this appeal, the Appellant addressed some of the categories of expenses that were disallowed as follows:
+a) Advertising
+He stated that he advertised to get business. He had business cards printed; he advertised in the classified section of racing magazines; and, he produced flyers to pass out at car shows. At the hearing, he presented no documentation or invoices to substantiate the amounts claimed for advertising.
+b) Fuel
+The Appellant stated that he drove to Florida in March, 2002 to purchase the body of a 1967 Corvette Coupe (the “Corvette”) which he hauled back to Ontario using his father’s pick-up truck. He stated that it would have cost $2,000 to have the Corvette shipped to Canada whereas it only cost him approximately $700 for the fuel for the pick-up truck. He did not claim the costs incurred for meals.
+It was also the Appellant’s evidence that, in 2002, he drove to St. Louis to pick up parts for the chassis for his car and that he made numerous trips to Port Huron, Michigan to pick up parts.
+He kept no logs of his trips but he did keep some of the invoices for the fuel; however, none were tendered as exhibits at the hearing.
+c) Interest
+In 2002, the Appellant obtained a small business loan from The Toronto-Dominion Bank in the amount of $25,000. He submitted an exhibit which showed the amount of interest that he paid for the 2003 taxation year. This amount had been allowed in full by the auditor.
+d) Motor Vehicles
+In April 2002, the Appellant purchased a pick-up truck, a F150. He found that it was not heavy enough to haul the race car and in September 2002, he traded it in for a F250. He was able to get a discount on each of these vehicles as he worked at the Ford Company. By June 2003, the Appellant found that he could not afford the F250 and he traded it for a Ford Escape. In cross examination, the Appellant admitted that the Ford Escape was his spouse’s vehicle.
+e) Legal and Accounting - 2002
+Management and Administration Fees - 2003
+The Appellant stated that he had no idea how these amounts were calculated. I gather from his response and the state of his records that these amounts were fictional and were not incurred.
+f) Telephone and Utilities – 2002
+Cell phone – 2003
+The Appellant had no documentation to support the amounts that were disallowed.
+g)Start-Up Costs
+The Appellant stated that the amount of $9,289 which was disallowed included the costs of various tools and parts which he had purchased.
+h) Maintenance and Repairs – 2003
+The Appellant assumed that the amount of $1443 related to oil changes and the replacement of tools. However, he really had no idea how this amount was calculated or what it was for.
+i) Race at Lake Elliott – 2003
+It was the Appellant’s evidence that he took part in this race to promote his business. The amount of $325 covered the cost of the motel, food and the entrance fee for the race. He had intended to use the Business race car, but the week prior to the race he experienced problems with the race car and he had to use his personal car.
+j) Other Expenses – 2003
+The Appellant had no idea how the amount of $3009 was calculated or what had been purchased that totalled this amount.
+k) Supplies – 2004
+The Appellant stated that after the race car crashed, he tried to salvage parts of it to build another car. However, it was not financially feasible and he closed the Business.
+I note that the amount of $13,289 was spent on supplies after the Business had ceased to operate.
+[9] Kim Donald, an auditor with the Canada Revenue Agency, testified on behalf of the Respondent. She stated that the Appellant determined some of his expenses by adding the invoices, but he did not maintain them in groups. Other expenses claimed by the Appellant were estimates and no calculations were done. She stated that the amounts disallowed for advertising, interest, legal and accounting, telephone, insurance, and other expenses were not supported by documentation.
+[10] She explained that the Appellant had claimed an expense for the amounts he spent on tools and parts. For instance, she stated that the amount of $10,323 claimed as “Start-up Costs” related, for the most part, to the purchase of car parts. She examined all of the invoices and determined that the total purchases in 2002 were actually $21,092. She added this amount to the closing inventory for the 2002 taxation year. It was her evidence that the amount of $1,034 which was allowed as Start-up costs was supported by invoices and related to customs, food, hotels, chassis certification, advertising, tolls, and postage.
+[11] When he filed his income tax returns for 2002 and 2003, the Appellant claimed that the F250 pick-up truck was used 100% for business. Ms. Donald stated that she tested this claim by using the available documentation. From this documentation she determined the number of trips to Port Huron; she calculated the number of kilometres driven for each trip and multiplied it by the number of trips; and, she compared the total kilometres driven on the truck for the period of ownership as indicated on the trade in documentation. According to her calculations, Ms. Donald estimated the business use of the F250 to be 15%.
+[12] The evidence presented by the Appellant at the hearing did not persuade me that his use of the F250 exceeded that allowed by the auditor. The Appellant’s oral evidence was that this truck was used either 100% or 70% for business; he presented absolutely no records to substantiate his use of the F250. His testimony concerning his use of the truck was not specific enough to allow me to vary the percentage of use assessed. If the Appellant wants to claim expenses for the use of a vehicle, he must be diligent in accounting for those expenses.
+[13] On review of all the evidence, I have concluded that, in 2002, the Appellant did incur an expense in the amount of $700 for the cost of fuel on his trip to Florida. I have also concluded that other than this amount, the Appellant has not established that he incurred any of the other disallowed amounts.
+[14] The appeal for the 2002 taxation year is allowed. The appeals for the 2003 and 2004 taxation years are dismissed.
+Signed at Ottawa, Canada, this 10th day of July 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC361
+COURT FILE NO.: 2008-1006(IT)I
+STYLE OF CAUSE: CHRISTOPHER BRACKSTONE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: July 7, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: July 10, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Joanna Hill
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

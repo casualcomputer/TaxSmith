@@ -1,0 +1,110 @@
+---
+title: "Shearman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26894/index.do"
+last_modified: "2006-03-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 143"
+citation2: ""
+neutral_citation: "2006 TCC 143"
+decision_date: "2006-03-08"
+language: "en"
+item_id: "26894"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 766
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:17:43.883000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "65af7aaa792c0ccbdd9b16645e117ca9f6ae2d22dd6c50572b5c240d2833d2ce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shearman v. The Queen
+
+- Citation: 2006 TCC 143
+- Decision date: 2006-03-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 766, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shearman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-08
+Neutral citation
+2006 TCC 143
+File numbers
+2005-2031(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC143
+Date: 20060308
+Docket: 2005-2031(IT)I
+BETWEEN:
+KATHERINE SHEARMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(delivered orally from the Bench on February 24, 2006
+at Vancouver, British Columbia)
+Woods J.
+[1] These are reasons in the matter of Katherine Shearman and Her Majesty the Queen.
+[2] The appeal relates to the disallowance by the Minister of National Revenue of a deduction claimed by Ms. Shearman in her tax return for the 2003 taxation year. The deduction was for an amount of $800.70 paid to the Canadian Physiotherapy Association.
+[3] Ms. Shearman has been a physiotherapist since 1998, is registered with the College of Physical Therapists of British Columbia and is employed by CBI Health, which used to be known as the Canadian Back Institute.
+[4] The College is the governing body respecting physiotherapists and it requires as a condition of registration that persons have malpractice insurance. CBI Health, Ms. Shearman's employer, also requires her to have insurance. Ms. Shearman obtained professional liability insurance through the Canadian Physiotherapy Association of which she is a member.
+[5] In 2003, Ms. Shearman paid registration fees of $200 to the College of Physical Therapists of British Columbia, and fees of $800.70 to the Canadian Physiotherapy Association, or CPA. The Minister allowed a deduction for the fees paid to the College and disallowed a deduction for the $800 paid to the CPA.
+[6] Ms. Shearman seeks a deduction for the amount paid to the CPA as professional membership dues under s. 8(1)(i)(i) of the Income Tax Act. This section provides a deduction for "annual professional membership dues the payment of which was necessary to maintain a professional status recognized by statute."
+[7] The first question to be addressed is whether the $800 paid to the CPA constitutes professional membership dues. Ms. Shearman entered into evidence the CPA Membership Guide for 2005-2006 and a receipt for the fee paid to the CPA. According to these documents, Ms. Shearman paid association fees of $547.38 and insurance fees of $215.
+[8] I will consider first the amount of $215 paid as an insurance fee. The insurance purchased by Ms. Shearman is offered through the CPA and it is something that members may take advantage of if they wish. Insurance is available through other sources as well.
+[9] According to the CPA Membership Guide, the membership dues are separate from fees paid for insurance. Based on the material before me, I cannot conclude that the insurance fees are part of the membership dues of the CPA.
+[10] I now turn to whether the insurance fees are part of the membership dues of the College. As I indicated earlier, the College requires members to have malpractice insurance. The insurance fees paid by Ms. Shearman are a cost incurred in order to become registered with the College but they cannot be described as membership dues of the College.
+[11] For this reason, I conclude that the insurance fees cannot be deducted under s. 8(1)(i)(i). This may seem like a harsh result but it is something that Parliament is entitled to do.
+[12] I now turn to the CPA membership dues in the amount of $547.38 plus GST. These fees clearly are professional membership dues. In order for the dues to be deductible, however, they must be necessary to maintain a professional status recognized by a statute.
+[13] Based on Ms. Shearman's clear and forthright testimony, I find that CPA membership enhanced her professional status but that it is not required for any professional status recognized by statute.
+[14] For these reasons, I conclude that none of the amounts paid to the CPA qualify for deduction under s. 8(1)(i)(i).
+[15] Finally, I would also comment on an argument that Ms. Shearman made that the tax assessment is unfair because many other professionals have claimed deductions in similar circumstances and the deductions have not been challenged by the Canada Revenue Agency. The issue of unequal treatment of taxpayers very often comes before this Court and it is not something that the Court can remedy. The only authority that the Court has been given is to apply the words of the statute to the particular circumstances of the taxpayer. I sincerely sympathize with Ms. Shearman's feeling that the situation is unfair, however.
+[16] For the above reasons, the appeal will have to be dismissed.
+Signed at Toronto, Ontario, this 8th day of March, 2006.
+"J. Woods"
+Woods J.
+CITATION: 2006TCC143
+COURT FILE NO.: 2005-2031(IT)I
+STYLE OF CAUSE: Katherine Shearman and Her Majesty the Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: February 23, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: February 24, 2006
+APPEARANCES:
+For the Appellant: The Appellant herself
+Counsel for the Respondent: Sara Fairbridge
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

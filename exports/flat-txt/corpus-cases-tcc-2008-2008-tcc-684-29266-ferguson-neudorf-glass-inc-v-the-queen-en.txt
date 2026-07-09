@@ -1,0 +1,119 @@
+Title: Ferguson-Neudorf Glass Inc v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29266/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-684-29266-ferguson-neudorf-glass-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-12-19
+
+# Ferguson-Neudorf Glass Inc v. The Queen
+
+- Citation: 2008 TCC 684
+- Decision date: 2008-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7006, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ferguson-Neudorf Glass Inc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-19
+Neutral citation
+2008 TCC 684
+File numbers
+2007-114(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-114(IT)G
+BETWEEN:
+FERGUSON-NEUDORF GLASS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 18, 2008 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Jeffrey L. Goldman
+Counsel for the Respondent:
+Brandon Siegal
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the taxation year ended July 31, 2002 is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the following basis:
+1. the appellant is entitled to the relief in the Partial Consent to Judgment filed; and
+2. the appellant is entitled to a deduction in computing income for a fine incurred in the amount of $212,500.
+The appellant is entitled to its costs.
+Signed at Toronto, Ontario this 19th day of December 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC684
+Date: 20081219
+Docket: 2007-114(IT)G
+BETWEEN:
+FERGUSON-NEUDORF GLASS INC.
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Ferguson-Neudorf Glass Inc. appeals an assessment for the taxation year ended July 31, 2002.
+[2] Some of the items in dispute were resolved by the parties prior to the hearing and the resolution of these is reflected in a partial consent to judgment filed with the Court.
+[3] The only remaining issue is the deductibility of a fine that was imposed as a result of a workplace accident.
+[4] The appellant is in the business of manufacturing and installing glass for commercial projects. Because of nature of the business, the work is inherently dangerous, and this is reflected in the workers’ compensation premiums payable by companies in this industry.
+[5] In the fall of 2000, an employee of the appellant was tragically killed by a forklift truck while he was working at a construction site in downtown Toronto.
+[6] The Ontario Department of Labour investigated the accident and charged the appellant with an offence under the Occupational Health and Safety Act (Ontario).
+[7] At a hearing on October 18, 2002 before a judge of the Ontario Court of Justice, the appellant pled guilty to an offence of failing to “provide information, instruction and supervision to a worker.” A fine of $170,000 was imposed.
+[8] Subsequent to the hearing, a victim surcharge of 25 percent was added to the fine which resulted in the total fine being $212,500. It is this amount for which a deduction is being sought.
+[9] The respondent takes the position that the fine in these circumstances does not satisfy the income-earning purpose requirement of paragraph 18(1)(a) of the Act.
+[10] Paragraph 18(1)(a) provides:
+18(1) General limitations. In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) General limitation - an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+[11] In support of its position, the respondent relies on comment from a Supreme Court of Canada decision which suggests that paragraph 18(1)(a) may be applied where the circumstances are “egregious.” In that case, 65302 British Columbia Ltd. v. The Queen, 99 DTC 5799, [1999] 3 SCR 804, the deduction claimed related to a levy under an egg marketing scheme.
+[12] It is useful to reproduce the relevant parts of the decision in the egg marketing case. At para. 69, Iacobucci J. writing for the majority states:
+Finally, at para. 17, my colleague states that penal fines are not, in the legal sense, incurred for the purpose of gaining income. It is true that s. 18(1)(a) expressly authorizes the deduction of expenses incurred for the purpose of gaining or producing income from that business. But it is equally true that if the taxpayer cannot establish that the fine was in fact incurred for the purpose of gaining or producing income, then the fine or penalty cannot be deducted and the analysis stops here. It is conceivable that a breach could be so egregious or repulsive that the fine subsequently imposed could not be justified as being incurred for the purpose of producing income. However, such a situation would likely be rare and requires no further consideration in the context of this case, especially given that Parliament itself may choose to delineate such fines and penalties, as it has with fines imposed by the Income Tax Act. To repeat, Parliament may well be motivated to respond promptly and comprehensively to prohibit clearly and directly the deduction of all such fines and penalties, if Parliament so chooses.
+[Emphasis added.]
+[13] The above comment is in response to a comment in paragraph 17 by Bastarache J., writing for the minority. The relevant passage reads:
+I agree with my colleague, Iacobucci J., that public policy determinations are best left to Parliament. However, I am not suggesting that the deduction of penal fines be disallowed for public policy reasons, but instead because their deduction, not specifically authorized by the Act, would frustrate the expressed intentions of Parliament in other statutes if they were held to come under s. 18(1)(a) of the Act. In my view, penal fines are not expenditures incurred for the purpose of gaining or producing income in the legal sense. This concern is not so much one of public policy, morality or legitimacy, but one consistent with a realistic understanding of the accretion of wealth concept and the court’s duty to uphold the integrity of the legal system in interpreting the Income Tax Act. As explained by McLachlin J. in Hall v. Hebert, 1993 CanLII 141 (S.C.C.), [1993] 2 S.C.R. 159, at p. 169, in finding that a court could bar recovery in tort on the ground of the plaintiff’s immoral or illegal conduct:
+The basis of this power, as I see it, lies in duty of the courts to preserve the integrity of the legal system, and is exercisable only where this concern is in issue. This concern is in issue where a damage award in a civil suit would, in effect, allow a person to profit from illegal or wrongful conduct, or would permit an evasion or rebate of a penalty prescribed by the criminal law. The idea common to these instances is that the law refuses to give by its right hand what it takes away by its left hand.
+[Emphasis added.]
+[14] The question to be decided in this appeal is whether the fine imposed as a result of the workplace accident was incurred for the purpose of earning income from the appellant’s business.
+[15] Previous judicial decisions have held that fines arising from activities in the normal course of business generally satisfy the income-earning purpose test. The activity which led to the tragedy here satisfies this test. The only issue is whether the appellant’s conduct was so reprehensible that the activity cannot be said to have an income-earning purpose.
+[16] Neither counsel was aware of any circumstance in which a court has disallowed a deduction for a fine or penalty on the basis of the Supreme Court’s comment at paragraph 69. If it were to be applied here, it would be a first.
+[17] The respondent suggests that, if the actions, or inaction, of an employer are such as to endanger workers’ lives by reason of inadequate training at a dangerous work site, this is the type of circumstance that is envisaged by the egregious conduct comment of Iacobucci J.
+[18] Unfortunately, the Supreme Court did not elaborate on the type of conduct that could give rise to such a finding, but they did say that it likely would be rare.
+[19] It is not necessary that I attempt to define the type of conduct which would engage the Supreme Court’s obiter. It is sufficient to conclude that it most certainly does not include the circumstances that led to the imposition of the fine that is at issue here.
+[20] I would note the following comment from the justice of the peace who imposed the fine (Ex. R-2, at p. 24):
+There is no evidence that there’s been some blatant inaction or problems with this particular defendant before or even at the time of -- in conjunction with this tragic incident. It appears to be an isolated incident. The workers got involved in moving something. It’s been acknowledged that training and supervision could have been better and has, it’s been acknowledged it has been addressed and will be addressed.
+[21] This appeal will be allowed, with costs.
+Signed at Toronto, Ontario this 19th day of December 2008.
+“J. Woods”
+Woods J.
+CITATION: 2008TCC684
+COURT FILE NO.: 2007-114(IT)G
+STYLE OF CAUSE: FERGUSON-NEUDORF GLASS INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: December 18, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice J. Woods
+DATE OF JUDGMENT: December 19, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Jeffrey L. Goldman
+Counsel for the Respondent:
+Brandon Siegal
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jeffrey L. Goldman
+Firm: Jeffrey L. Goldman
+Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

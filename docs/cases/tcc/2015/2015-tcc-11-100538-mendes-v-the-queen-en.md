@@ -1,0 +1,170 @@
+---
+title: "Mendes v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/100538/index.do"
+last_modified: "2015-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 11"
+citation2: ""
+neutral_citation: "2015 TCC 11"
+decision_date: "2015-01-16"
+language: "en"
+item_id: "100538"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2792
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:33:02.462000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "17341f46a38318d3c31968a2465c9d9ad7a5c3e5ddc5b49c6295ef2b345cbf78"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mendes v. The Queen
+
+- Citation: 2015 TCC 11
+- Decision date: 2015-01-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2792, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mendes v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-01-16
+Neutral citation
+2015 TCC 11
+File numbers
+2014-1543(GST)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-1543(GST)I
+BETWEEN:
+NANCY MENDES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 8, 2015 at Toronto, Ontario
+Before: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Mario Giovane
+Counsel for the Respondent:
+Rishma Bhimji
+JUDGMENT
+The appeal with respect to an assessment, made under the Excise Tax Act by notice of reassessment dated September 3, 2013, is dismissed. Each party shall bear their own costs.
+Signed at Toronto, Ontario this 16th day of January 2015
+“J.M. Woods”
+Woods J.
+Citation: 2015 TCC 11
+Date: 20150116
+Docket: 2014-1543(GST)I
+BETWEEN:
+NANCY MENDES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal concerns an application by Nancy Mendes for the GST/HST new housing rebate under the Excise Tax Act.
+[2] The Crown submits that the rebate should be disallowed because the requirement in paragraph 254(2)(b) of the Act has not been satisfied.
+[3] The provision is reproduced below.
+254.(2) Where
+[…]
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+[…]
+[4] The issue to be decided is whether, at the time the agreement of purchase and sale was entered into, Ms. Mendes intended to acquire the property for use as a primary residence. Ms. Mendes has the burden to establish the relevant facts on a prima facie basis.
+Legislative background
+[5] The parties agree that there is a narrow issue to be decided and they provided very little background regarding the broader legislative scheme. I have restricted my analysis to this issue. However, for completeness it is useful to comment on what I presume to be the applicable legislation.
+[6] According to Ms. Mendes’ rebate application, a rebate amount of $24,000 was claimed under box D, which is described as “Provincial new housing rebate amount.” There was no amount claimed under box C, which is described as “GST/HST new housing rebate amount.”
+[7] According to the Reply, the rebate is properly disallowed pursuant to subsections 254(2) and 256(2.1) of the Act and subsection 41(2) of the New Harmonized Value-Added Tax System Regulations No. 2. Since subsection 254(2) provides for a federal rebate, I have assumed that the provincial rebate amount of $24,000 is claimed pursuant to subsection 256(2.1) of the Act.
+[8] I would also mention that Ms. Mendes assigned the rebate to the builder. As far as I can tell, the Minister paid the rebate to the builder and now seeks a return of the rebate from Ms. Mendes who was credited with this amount by the builder.
+Factual background
+[9] In 2011, Ms. Mendes and her spouse acquired two newly-built residential properties near each other in Brampton, Ontario. One of the properties is the subject matter of this appeal. The other was the subject of a similar new housing rebate that was granted to Ms. Mendes’ spouse.
+[10] Both of these transactions are relevant and are described below.
+[11] On October 16, 2009, Ms. Mendes signed an agreement of purchase and sale in respect of a house to be built at 52 Balin Crescent, Brampton, Ontario (the “Balin Property”).
+[12] On April 15, 2010, Ms. Mendes and her spouse, Maxim Mendes, signed an agreement of purchase and sale in respect of a house to be built at 32 Legendary Circle, Brampton, Ontario (the “Legendary Property”).
+[13] On or around August 30, 2011, Mr. and Ms. Mendes took ownership of the Balin Property and moved in with their two children and Ms. Mendes’ parents.
+[14] On November 2, 2011, the Balin Property was listed for lease.
+[15] On or around December 13, 2011, Mr. Mendes, either alone or together with Ms. Mendes, took ownership of the Legendary Property and the family moved there from the Balin Property. One exhibit suggests that Mr. Mendes was the sole owner (Ex. A-2) and another suggests that they were co-owners (Ex. R‑4, Tab A). Nothing turns on this in this appeal.
+[16] On December 19, 2011, the Balin Property was listed for sale.
+[17] On January 16, 2012, a one year lease was entered into with respect to the Balin Property to commence March, 2012.
+[18] On February 2, 2012, the Balin Property was sold.
+[19] The Mendes family still resides at the Legendary Property.
+[20] Ms. Mendes applied for the new housing rebate with respect to the Balin Property as her primary residence and Mr. Mendes applied for the same rebate with respect to the Legendary Property.
+[21] In addition to these properties, it appears that Mr. and Ms. Mendes also owned other residential properties for purposes of leasing. During the period from 2010 to 2013, Ms. Mendes and/or her spouse claimed new housing rebates as landlords in respect to three other properties.
+[22] During the relevant period, Mr. Mendes was a real estate agent. Ms. Mendes is also now a real estate agent.
+Discussion
+[23] The question is whether, at the time of signing the agreement of purchase and sale for the Balin Property, Ms. Mendes intended to use the property as her primary residence.
+[24] Ms. Mendes testified that when she signed the agreement of purchase and sale for the Balin Property, she intended that it would be the family home.
+[25] She also testified that the intention with respect to the Legendary Property when that agreement and purchase and sale was entered into was for this property to be a source of rental income for her spouse.
+[26] Ms. Mendes further testified that these intentions changed around the fall of 2011 when she received the results from a medical test that indicated a risk of cancer. She testified that the Legendary Property was more suitable to accommodate her health problem. She stated that it was closer to a hospital and that it had a main floor bedroom with ensuite bathroom. In light of this, she stated that the family moved from the Balin Property to the Legendary Property when the latter property was acquired.
+[27] I was not convinced by this testimony. It was self-interested, and it does not seem to be plausible.
+[28] I observe that the Legendary Property was significantly more expensive than the Balin Property and the main floor sleeping accommodations at the Legendary Property were likely more suitable for Ms. Mendes’ parents. This is the bedroom that the parents currently occupy.
+[29] In addition, the objective evidence suggests that the concern about cancer was at a very early stage.
+[30] It is possible that Ms. Mendes’s testimony regarding the reason for the move to the Legendary Property was true, but it seems unlikely that this is the case.
+[31] The evidence as a whole suggests that it is more likely that when the agreement of purchase and sale was signed for the Legendary Property, Ms. Mendes’ intention was to use this property as their primary residence rather than it being a rental for Mr. Mendes.
+[32] This is more consistent with the agreement of purchase and sale for the Legendary Property which was entered into by both Mr. and Ms. Mendes. It is also more consistent with Mr. Mendes obtaining a new housing rebate on the Legendary Property on the basis that it was intended as the primary residence (Affidavit of Teresa D’Sa, Tab A).
+[33] It is not clear from the evidence why the family moved to the Balin Property before moving to the Legendary Property a few months later. It may have been for tax reasons, including the exemption from income tax available on the sale of a principal residence. The profit from the sale of the Balin Property was approximately $193,000. This would provide an explanation for the attention to detail when the family moved into the Balin Property, such as providing change of address notifications.
+[34] To a great extent, Ms. Mendes has attempted to establish her intention at the time of entering into the agreement of purchase and sale for the Balin Property by evidence that she actually moved into the Balin Property and had an unexpected reason to move shortly thereafter.
+[35] I did not find this testimony to be convincing but this is not the end of the matter. Intention is to be determined at the time the agreement of purchase and sale was entered into. This was October 16, 2009.
+[36] This date is approximately six months before the agreement was signed with respect to the Legendary Property. Accordingly, the requirement in s. 254(2)(b) would be satisfied if Ms. Mendes first had an intention to use the Balin Property as a primary residence and then changed this intention six months later when the agreement was signed with respect to the Legendary Property.
+[37] Although this possibility is plausible, the evidence was not sufficiently reliable or detailed for me to be satisfied as to Ms. Mendes’ intention when the agreement was signed for the Balin Property.
+[38] Ms. Mendes simply made brief statements as to her intention on the dates that the agreements of purchase and sale were signed for the Balin Property and Legendary Property. The evidence was simply not detailed enough to be convincing.
+[39] For these reasons, I have concluded that the requirement in s. 254(2)(b) is not satisfied. The appeal will be dismissed.
+Signed at Toronto, Ontario this 16th day of January 2015.
+“J.M. Woods”
+Woods J.
+CITATION:
+2015 TCC 11
+COURT FILE NO.:
+2014-1543(GST)I
+STYLE OF CAUSE:
+NANCY MENDES and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 8, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+January 16, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Mario Giovane
+Counsel for the Respondent:
+Rishma Bhimji
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Mario Giovane
+Firm:
+Ayoub A. Ali Professional Corporation
+Mississauga, Ontario
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

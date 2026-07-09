@@ -1,0 +1,226 @@
+---
+title: "Portes et fenêtres Abritek Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29243/index.do"
+last_modified: "2009-05-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 285"
+citation2: ""
+neutral_citation: "2009 TCC 285"
+decision_date: "2009-05-27"
+language: "en"
+item_id: "29243"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7016
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:15:27.047000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5cf7635b973154e0f20767fb1fbb838a6d788feee3e29edd1eae33014d0d9d42"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Portes et fenêtres Abritek Inc. v. M.N.R.
+
+- Citation: 2009 TCC 285
+- Decision date: 2009-05-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7016, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Portes et fenêtres Abritek Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-27
+Neutral citation
+2009 TCC 285
+File numbers
+2008-1289(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-1289(EI)
+BETWEEN:
+PORTES ET FENÊTRES ABRITEK INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 16, 2009, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+APPEARANCES:
+Counsel for the appellant:
+Jérôme Carrier
+Counsel for the respondent:
+Antonia Paraherakis
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed on the ground that the work performed for the appellant by the workers, Bianca Dupuis for the period from January 1, 2007, to September 10, 2007, and Jonathan Dupuis for the period from January 1, 2007, to September 7, 2007, was insurable under the Act in accordance with the attached reasons.
+Signed at Ottawa, Canada, this 27th day of May 2009.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 9th day of July 2009
+Margarita Gorbounova, Translator
+Citation: 2009 TCC 285
+Date: 20090527
+Docket: 2008-1289(EI)
+BETWEEN:
+PORTES ET FENÊTRES ABRITEK INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal concerning the insurability of the work performed. The respondent determined that the work performed for the appellant, Portes et Fenêtres Abritek inc. (the appellant), by Bianca Dupuis from January 1, 2007, to September 10, 2007, and by her brother Jonathan from January 1, 2007, to September 7, 2007, was insurable.
+[2] The legal basis for the decision is paragraph 5(2)(i) of the Employment Insurance Act (the Act). Under this provision, work carried out by a person who has a non-arm's length relationship with the employer within the meaning of the Income Tax Act is not insurable.
+[3] However, Parliament provided an exception under which the work is insurable if it was performed in a manner similar and under terms and conditions comparable to those that would have existed if the parties had had an arm's length relationship. This exception reads as follows:
+5(3)(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[4] Thus, if there is no arm's length relationship, the Minister must analyze the file in more detail than a simple verification for the presence of the classic conditions, which are remuneration, the prestation of work and the relationship of subordination.
+[5] He must decide whether the non-arm's length relationship influenced the performance of work. In other words, the analysis must consider whether the work in question was carried out in a manner similar and under conditions comparable to those that would have existed if the employee and employer had an arm's length relationship.
+[6] This is particular in another respect. Case law has established that the Tax Court of Canada does not have jurisdiction to review such a decision when the discretionary power was exercised correctly and lawfully.
+[7] In other words, when the discretionary power is exercised responsibly and judiciously, all the relevant facts were taken into consideration and the conclusion is reasonable, the Tax Court of Canada cannot amend the decision, even if the Court does not necessarily agree with it.
+[8] The appellant is challenging the decision that the work was carried out under an insurable contract of service. Based on the exception provided for in paragraph 5(2)(i) of the Act, the respondent had found that the work in question was not excluded from insurable employment.
+[9] In order to make and confirm the decision under appeal, the respondent relied on the following facts:
+[Translation]
+5. . . .
+(a) The appellant was incorporated on January 8, 1987. (admitted)
+(b) The appellant operated a business that manufactured doors and windows. (admitted)
+(c) The appellant operated year-round. (admitted)
+(d) The appellant’s gross annual revenue totalled approximately $12 million. (admitted)
+(e) The appellant employed about 70 people. (admitted)
+(f) The workers had been employed by the appellant since 1999. (admitted)
+(g) The female worker was hired as a receptionist, and later on she was put in charge of the after-sales service. (admitted)
+(h) For the last three years, the female worker had been the purchasing manager for the appellant. (admitted)
+(i) The female worker’s tasks consisted of ordering materials, following up on new products, meeting with suppliers, negotiating prices, creating a price list, and preparing research and development grant applications. (admitted)
+(j) The female worker also supervised the employee responsible for the appellant’s after-sales service. (admitted)
+(k) The male worker was hired as a foreman. (admitted)
+(l) The male worker’s task was to ensure that the production line for PVC products ran smoothly. There were 20 to 30 employees working on the line. The male worker also supervised the paint room and was in charge of the building’s maintenance. (admitted)
+(m) The workers accomplished most of their tasks at the appellant’s place of business. (admitted)
+(n) The workers used the appellant’s materials and equipment to accomplish their tasks. (denied)
+(o) The female worker’s schedule corresponded to the appellant’s hours of operation, which were from Monday to Friday, 8 a.m. to 5 p.m. (denied)
+(p) The female worker kept track of her overtime hours when the task required more than 30 minutes to accomplish. (denied)
+(q) The male worker’s schedule was from Monday to Thursday, 6:45 a.m. to 5:15 p.m. On Fridays he worked only until noon. (denied)
+(r) On January 17, 2008, the male worker told the respondent’s representative that occasionally he provided services to the appellant outside of his working hours for 45 to 60 minutes per week. (denied)
+(s) The workers took 45 minutes for lunch. (denied)
+(t) The workers worked about 40 hours per week. (denied)
+(u) The appellant kept track of the workers’ hours in the exact same way as it did for its other employees. (denied)
+(v) The female worker was supervised by Christian Dupuis. (denied)
+(w) On January 17, 2008, the male worker told the respondent’s representative that he was supervised by Jacques Dupuis. (denied)
+(x) The workers asked for the appellant’s approval in the performance of their tasks. (denied)
+(y) If Christian Dupuis was absent, the female worker contacted him by e-mail or telephone. (admitted)
+(z) The female worker earned $16.25 per hour, and after April 2007, $17 per hour. (admitted)
+(aa) The male worker earned $15.50 per hour, and after April 2007, $16.25 per hour. (admitted)
+(bb) The appellant had a salary chart for various trade workers, day labourers, operators, the team leader and foreman. (denied)
+(cc) The salary was regularly deposited directly in the workers’ accounts every week. (admitted)
+(dd) If they had to travel, the workers used the appellant’s car. (denied)
+(ee) The appellant reimbursed the workers $0.45 per kilometre if they used their own vehicles. (denied)
+(ff) The workers and all the other employees had group insurance. (denied)
+(gg) The workers and all the other employees had two weeks’ vacation during the business’s closure over the Christmas holidays and two more weeks during its closure in the summer, as well as one more week. (denied)
+(hh) The appellant financially compensated the employees who did not take that additional week of vacation. (denied)
+(ii) On January 17, 2008, the male worker told the respondent’s representative that he had not taken the additional week and that he had been paid accordingly. (denied)
+(jj) The appellant had a right of control over the workers and it exercised it. (denied)
+6. . . .
+(a) The appellant’s sole shareholder is Christian Dupuis. (admitted)
+(b) Christian Dupuis is the workers’ father. (admitted)
+(c) The workers are blood relatives of a person who controls the appellant. (admitted)
+7. . . .
+(a) The workers’ salaries were decided and governed by the appellant. (admitted)
+(b) The labour market information provided by Emploi Québec indicated that in the lower pay bracket, the hourly pay of $18 to $19.99 is appropriate for a purchasing manager with a bachelor’s degree or college diploma in the Chaudières-Appalaches region. (admitted)
+(c) The female worker had a secondary school diploma. (admitted)
+(d) The female worker had been trained on the job. (admitted)
+(e) The female worker’s pay of $17 per hour was reasonable for her education level. (denied)
+(f) The labour market information provided by Emploi Québec indicated an annual salary of $40,000 for a foreman with a secondary school diploma in the Chaudières-Appalaches region. (admitted)
+(g) The male worker had no secondary school diploma. (admitted)
+(h) The male worker’s pay of $16.25 per hour was reasonable for his education level. (denied)
+(i) The female worker’s annual pay of $34,758 placed her among the highest paid employees of the appellant. (denied)
+(j) The male worker’s annual pay of $34,875 placed him among the highest paid employees of the appellant. (denied)
+(k) The workers had been working for the appellant for several years. (admitted)
+(l) The workers worked for the appellant all year-round. (admitted)
+(m) The duration of the workers’ work was reasonable. (denied)
+(n) The workers had the same work conditions as the rest of the appellant’s employees. (denied)
+(o) The workers’ work was essential and important for the smooth operation of the appellant’s business. (admitted)
+(p) On January 16, 2008, the female worker told the respondent’s representative that if she had to leave the company, she would have to be replaced. (denied)
+(q) The terms and conditions, the nature and the importance of the workers’ work were reasonable. (denied)
+[10] Several of the facts were admitted, while some were denied. This was indicated by the words in bold at the end of each statement.
+[11] Josée Bilodeau, the spouse of the sole shareholder, Christian Dupuis, and Bianca and Jonathan’s mother, described the business. She explained that her spouse was diagnosed with a very serious degenerative illness in 2006. This illness was gradually reducing his mobility and physical autonomy, to the point of making him unable to leave his home.
+[12] At the time of the interviews on which the decision was based, Christian Dupuis was convalescing. His health had deteriorated so much that his spouse and their children, Bianca and Jonathan, had to split up all the numerous and important tasks that he had performed before the terrible diagnosis.
+[13] Ms. Bilodeau described the work performed by Bianca and Jonathan and explained how their workloads gradually expanded as more tasks were added.
+[14] Both workers began their employment with the company at a very young age. They learned very quickly and became accustomed to the necessity of accepting numerous important tasks. As a result, they are now in charge of their respective sectors.
+[15] Very motivated and enthusiastic, they showed a great deal of interest and determination in learning their trade despite their young age.
+[16] As for compensation, Ms. Bilodeau explained that her children were paid on an hourly basis. The salary issue was the most significant and detailed component of the evidence. In fact, it was undoubtedly the most important aspect of the appeal.
+[17] The evidence showed some discrepancies between the facts noted at the time of the telephone conversation held during the investigation and Ms. Bilodeau's and Bianca's testimonies.
+[18] Ms. Bilodeau, who was very much involved in managing the company in which her spouse owned all the shares, provided a number of details in order to explain Bianca and Jonathan's exceptional contribution.
+[19] She also explained that their business experienced very significant growth every year and that Bianca and Jonathan played an important role in this growth.
+[20] As for each worker's tasks, she stated that each was in charge of his or her sector, namely, production in Jonathan's case and after-sales service and purchasing in Bianca's. In regard to wages, a scale indicating the salaries in the field was filed in evidence.
+[21] It was explained that Jonathan's and Bianca's wages were generally sufficiently consistent with the scales, but also similar to the wages of those who held or had held comparable positions.
+[22] Ms. Munger, who was responsible for the file on behalf of the respondent, also testified. She explained how the telephone conversation had unfolded and noted the various facts collected. Her testimony brought to light two particular elements.
+[23] First, she did not ask any questions about the convalescence. Second, the information obtained during the investigation indicated that much fewer hours had been worked outside regular working hours than was claimed at the hearing.
+[24] As for the wages, the data was the same, except that Ms. Munger made some comparisons with the available scales indicating salaries based on education and experience.
+[25] Is there an untrue version that the Court must discard? I do not believe so, because these are not contradictions. Rather, it is a question of time and context, resulting from reflection and practical preparation for the hearing. It is important to note that the telephone conversation took place in January 2008, while the hearing was held on April 16, 2009.
+[26] Young Bianca is an enthusiastic, intelligent, mature and very responsible young woman. She quickly understood the gravity of the situation that her parents had found themselves in after the terrible diagnosis.
+[27] The evidence demonstrated that Bianca was dynamic and that she had understood that her future lay with the company her father had established. Conscious of the situation, she did not want to burn any bridges and was ready to fully dedicate herself to the development of the business, which was clearly well managed.
+[28] The evidence showed that those responsible for the file conducted a serious and responsible investigation and analysis. The relevant facts were considered, and the conclusion was reasonable.
+[29] The case seemed special to me because of its context. The terrible illness of the appellant's sole shareholder evidently upset not only the daily life but also the entire existence of this young family.
+[30] At the time of the interview, Ms. Munger did not ask Christian Dupuis's spouse about the cause and the duration of his convalescence or about the consequences of the illness.
+[31] For her part, Ms. Bilodeau did not seem to insist on that situation. I think it important at this point to hazard an explanation. Mr. Dupuis had known for only a short time about the seriousness of the state of his health, and his physical capacity was evidently better than it was in April 2009.
+[32] More restricted physically, but able to supervise the management of his business, he realized that his spouse and children would have to play an increasingly important role following the gradual deterioration of his physical capacity.
+[33] In addition, discussions, conversations and the various changes that would eventually have to be put in place were brought up. This would result in several changes of various kinds, and Bianca and Jonathan would be called upon to meet greater challenges.
+[34] The appellant's counsel clearly wanted to emphasize that particular aspect. I have no doubt that the family situation has had an effect on Bianca's and Jonathan's contracts of employment, but the evidence demonstrated no significant changes to the three essential elements of their contracts of employment for the periods in question.
+[35] The differences between what was said during the investigation and during the hearing were due to the passage of time. It is evident that during the hearing Ms. Bilodeau and Bianca were thinking of today's situation and not the one that they had been in during the periods in question. This is easily explained and justified without undermining their credibility by Mr. Dupuis's illness, which is becoming increasingly restrictive.
+[36] The workload and pay, two very important elements, do not support the appellant's position. Admittedly, the workers had a very heavy workload for their age and experience, but the wages they received corresponded to the market standards according to the scales, and also to the salary paid at one point to an uncle and to another brother of their father.
+[37] In fact, if we take into account the age, education, seniority, and the wages suggested by the scale as well as the wages paid to an executive with an arm's length relationship to the company, Bianca and Jonathan's salaries were not so unreasonable as to make the decision under appeal absolutely inappropriate or unreasonable.
+[38] The appellant stressed the very particular context resulting from the illness of the father, whose health is predicted to continue deteriorating. Evidently, the situation will change, and one day, Bianca and Jonathan's contracts of employment may be significantly altered. However, during the period at issue, that situation had not developed to the extent that it rendered unreasonable the finding under appeal.
+[39] The evidence on the record disclosed two components: the contract of employment and the family situation. Of course, it is difficult to isolate the two components, especially during such a difficult time.
+[40] However, in relation to the contract of employment, the finding made was reasonable on the balance of probabilities, at least for the periods at issue. The decision deals with that period, and I do not doubt that one day the situation may need to be reassessed.
+[41] In this case, the decision concerns the periods at issue, and in regard to that, it has been shown on the balance of probabilities that the assessment was made correctly and in accordance with accepted practices. The conclusion that was based on it is entirely reasonable in the circumstances of the period in question.
+[42] The appeal is dismissed.
+Signed at Ottawa, Canada, this 27th day of May 2009.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 9th day of July 2009
+Margarita Gorbounova, Translator
+CITATION: 2009 TCC 285
+COURT FILE NO.: 2008-1289(EI)
+STYLE OF CAUSE: PORTES ET FENËTRES ABRITEK INC. v. M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: April 16, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: May 27, 2009
+APPEARANCES:
+Counsel for the appellant:
+Jérôme Carrier
+Counsel for the respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the appellant:
+Name: Jérôme Carrier
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

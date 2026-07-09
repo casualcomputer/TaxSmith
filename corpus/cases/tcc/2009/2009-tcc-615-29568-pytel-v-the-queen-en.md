@@ -1,0 +1,220 @@
+---
+title: "Pytel v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29568/index.do"
+last_modified: "2009-12-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 615"
+citation2: ""
+neutral_citation: "2009 TCC 615"
+decision_date: "2009-12-11"
+language: "en"
+item_id: "29568"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6325
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:42:13.897000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "012c82afe1ef9431960294592739838e198bd9dd154b66297183c08c7c4db27e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pytel v. The Queen
+
+- Citation: 2009 TCC 615
+- Decision date: 2009-12-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6325, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pytel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-12-11
+Neutral citation
+2009 TCC 615
+File numbers
+2008-3908(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3908(IT)I
+BETWEEN:
+EDWARD PYTEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 12, 2009, at Edmonton, Alberta.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gregory Perlinski
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2005 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to the deduction of expenses incurred in earning business income during the 2005 taxation year.
+Signed at Ottawa, Canada, this 11th day of December 2009.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2009 TCC 615
+Date: 20091211
+Docket: 2008-3908(IT)I
+BETWEEN:
+EDWARD PYTEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, C.J.
+[1] Edward Pytel has appealed his 2005 income tax assessment on the basis that he is entitled to deductions of expenses incurred in earning business income.
+[2] Mr. Pytel described himself a "taper" working as an independent contractor. He has had no business training. He has a grade 10 education and has attended trade school.
+[3] Ed Tel Taping Ltd. ("Ed Tel") is a corporation in which Mr. Pytel is the sole shareholder, director and officer. Mr. Pytel's evidence is that Ed Tel subcontracts its business to him.
+[4] For the years prior to 2008, Mr. Pytel had engaged Big Red Income Tax Accounting ("Big Red") to prepare Ed Tel's financial statements and income tax returns. Big Red also prepared Mr. Pytel's personal tax return for 2005 and earlier taxation years.
+[5] Mr. Pytel's personal tax return for 2005 was dated October 17, 2006 and was stamped "Received" by the Canada Revenue Agency ("CRA") on November 21, 2006. Mr. Pytel reported rental income of $6,961 and net business income of $30,790; reported gross business income was $78,264. The business income was from business carried on under the firm name Ed's Handyman Services ("Ed's Handyman"), a sole proprietorship owned by Mr. Pytel. Ed Tel reported business income of $4,331 for 2005.
+[6] A "T1 Adjustment Request", dated October 27, 2006, (and stamped November 5, 2007 by the CRA Winnipeg Tax Centre) and purportedly signed by Mr. Pytel requested that his net business income for 2005 be increased to $78,600 from $30,790.
+[7] A Statement of Business Activities of Ed's Handyman was attached to Mr. Pytel's Adjustment Request. Mr. Pytel reported gross income of $78,600; there was no cost of goods sold. Gross profit was $78,600. No expenses were claimed since "all expenses have been paid by my corporation." Thus his requested net business income for 2005 was $78,600, according to the Adjustment Request. This is in contrast to the Statement of Business Activities for 2005 included as part of his 2005 tax return where he reported gross income of $77,264, cost of goods sold of $24,346.31 for a gross profit of $53,917.69. Expenses were $21,210.71. The net income of $32,706.98 was reduced by $1,917.39 for business use of home expenses. Mr. Pytel's net income from business was $30,790, according to his tax return for 2005.
+[8] Also attached to the Adjustment Request under the heading "Ed Tel Taping Ltd., Subcontract (Edward Pytel) January through December 2005", are two lists of subcontracts to Ed's Handyman. One list, which I assume was originally prepared for Ed Tel, reflects the following:
+Income
+174,895.97
+Cost of Goods Sold
+Subcontractors
+122,008.77
+Supplies & Materials
+26,955.88
+Total COGS
+148,964.65
+Gross Profit
+25,931.32
+Various Expenses
+21,600.39
+4,330.93
+[9] The second list, noted as a Revised List, provides as follows:
+Income
+174,895.97
+Cost of Goods Sold
+Subcontractors
+43,408.77
+Supplies & Materials
+26,955.88
+Total COGS
+70,364.65
+Gross Profit
+104,531.22
+Expenses
+Subcontractor Ed's Handyman
+78,600.00
+Other expenses
+21,600.39
+100,200.39
+Net Income
+4,330.93
+[10] The Adjustment Request sought to increase Mr. Pytel's income by $336 (to $78,600) and delete all the business expenses claimed in Mr. Pytel's Statement of Business Activities filed with his 2005 tax return. (These expenses ought to have been added to the expenses of Ed Tel but were not.)
+[11] The CRA reassessed Mr. Pytel for 2005 in accordance with the information contained in the Adjustment Request. As stated above, no mirror reassessment was issued to Ed Tel.
+[12] Mr. Pytel testified that he did not authorize the Adjustment Request and that he did not know about the existence of the Request until 2007. He said he signed whatever his accountant put in front of him. However, his evidence is that the signature on the Adjustment Request "is not mine". I note that there is a significant difference in the purported signature of Mr. Pytel certifying the information in his 2005 tax return and that on the Adjustment Request.
+[13] Ed's Handyman "looks after" rental property owned by Mr. Pytel. Most of the money Mr. Pytel lives on comes from rental property. The relationship between Ed Tel and Ed's Handyman is blurred. At one point Mr. Pytel seemed to suggest that Ed's Handyman pays all expenses incurred by Ed Tel. Later on, in cross‑examination, Mr. Pytel explained that money from the corporation "goes into" Ed's Handyman and, from this money, Ed's Handyman pays all the expenses, including the expenses for Ed Tel. After Ed Tel pays all the bills, any money left over is loaned to Mr. Pytel. Ed Tel and Mr. Pytel have separate bank accounts.
+[14] Mr. Pytel stated that he relied on his accountant in filing his personal tax return and the corporate tax return for 2005.
+[15] No records are kept by Mr. Pytel. He issues bills and receives receipts. It appears that the bills and receipts are put on files, one monthly file for each of Ed Tel, Ed's Handyman and Mr. Pytel personally. The files are put in a box and at the end of the year are given to the accountant to sort out.
+[16] Crown counsel asked Mr. Pytel that if Ed Tel incurred expenses, would it be for taping or Handyman services? Mr. Pytel answered that he had no idea. He assumed the accountant knew what belonged where.
+[17] "Big Red Income Tax Accounting" is the trade name of an Alberta numbered company, the shares of which are owned by David Patterson. Mr. Patterson has worked as a bookkeeper and accountant since the 1980s. He has no accounting designation. He prepared the 2005 tax returns for Mr. Pytel and Ed Tel. Mr. Patterson keeps copies of tax returns but no other documents.
+[18] Mr. Patterson explained that he prepared the Adjustment Request because he thought it would be better if the expenses originally claimed by Mr. Pytel be placed in the corporation's return. He said he did all the writing on the Request. It is not clear if this included the purported signature of Mr. Pytel. However, while he prepared the adjustment request for Mr. Pytel, he did not prepare the corporate return to reflect the adjustment that was requested to Mr. Pytel's return.
+[19] The tax return for Mr. Pytel was dated October 17, 2006. The corporate tax return was prepared on October 16. The Adjustment Request was made on October 27.
+[20] Big Red invoiced Mr. Pytel for preparation of the tax returns on October 17, 2006. The invoiced amounts were $1,249.95 for the corporation and $298.90 for Mr. Pytel. Mr. Pytel attended the office on October 27 to pay and left a cheque for $1,000, which was accepted as payment in full. The Adjustment Request is dated the same day Mr. Pytel settled the account.
+[21] Mr. Patterson now admits that the Adjustment Request was sent in error. He says the expenses should have remained with the proprietorship, Ed's Handyman. Mr. Patterson could not recall the reason for the request; it may have been sent in error.
+[22] Wendy Stasiuk, an appeals officer with the CRA, testified that notwithstanding requests to Mr. Pytel and his agent, Mr. Kwok, for documents to establish that the expenses were incurred by Ed's Handyman, that is, Mr. Pytel personally, nothing was received. She was instructed by the Winnipeg Office of the CRA "to take the expenses out as per request for revision".
+[23] Mr. Pytel appears to be an excitable individual. The courtroom is not familiar territory to Mr. Pytel and he was no doubt nervous in that setting. He resented being questioned on cross‑examination. He was wary of the questions asked him. He was explained that cross‑examination is a normal step in the trial process. He continued to be suspicious of the process in which he found himself an unwilling participant. He did nothing wrong — he relied on an accountant — and was in a battle he had difficulty comprehending.
+[24] The issue before me is not whether Mr. Pytel authorized or was even aware of the Adjustment Request. The appeal does not rise or follow from this matter. What I must decide is whether the assessment before me is a good assessment. In assessing in the manner he did, was the Minister correct in not allowing any deductions to Mr. Pytel in determining his business income? The issue before me, then, is who incurred the cost of goods sold of $24,346 and the expenses of $21,211 in the course of carrying on a business originally claimed by Mr. Pytel in his 2005 tax return, he or Ed Tel?
+[25] It is obvious that had the Adjustment Request not been filed with the CRA, it is very unlikely the reassessment subject in this appeal would exist. The CRA would have been content with Mr. Pytel's tax return for 2005, as filed. The filing of the Adjustment Request opened up a can of worms insofar as Mr. Pytel is concerned. When the CRA received the Adjustment Request, it apparently considered it as legitimate and assessed accordingly. After Mr. Pytel filed an objection, the CRA asked for evidence supporting Mr. Pytel's position. Since neither he nor his former accountant retained any records of business activity in 2005, CRA confirmed the assessment. The Adjustment Request and documentation attached to it are relevant because the Minister reassessed Mr. Pytel based on the information contained in that material.
+[26] Now my job is to determine if the assessment is proper.
+[27] If Mr. Pytel was a subcontractor, would it be reasonable for him to carry on business without any expenses? The CRA obviously believes this can be so. However, the CRA was simply acting on the Adjustment Request and could not secure any documentation from the appellant to prove one way or another who incurred the expenses.
+[28] The problem officials of the CRA may have had, as I had, is that Mr. Pytel could not separate himself from Ed Tel, a corporate entity. This complicated even the simplest question. In his view there is no difference between Ed Tel and him. He stated that his accountant told him " … well, there's money in this pocket … who does it belong to? They're both your pockets is the way he explained it to me."
+[29] Again, for example, when I asked Mr. Pytel who was carrying on the taping business, he or Ed Tel, he replied it made no difference but thought it was his own personal business.
+[30] Mr. Pytel's personality combined with him finding himself in unknown surroundings contributed to him leaving the trial during respondent counsel's argument. I had directed respondent's counsel to proceed first in argument to afford Mr. Pytel an opportunity to hear the Crown's position so that he could comment fully on the Crown's case in his submissions. He appeared reluctant to make any submissions. In the course of respondent's counsel's argument Mr. Pytel objected strenuously to counsel's suggestion that he was not a subcontractor and after a second interruption left the courtroom:[1]
+JUSTICE RIP: So if Ed's Handyman is carrying on business itself and you would have been allowed the expenses, would you not?
+MR. PERLINSKI: If it was carrying on business itself, it would be entitled to those expenses, yes.
+JUSTICE RIP: And here there's documents showing that he was a subcontractor.
+MR. PERLINSKI: He's also stated today that he wasn't a subcontractor, that it was just his business through and through.
+JUSTICE RIP: Yes. Well, that's what I'm saying. What I'm saying is I could go either way.
+MR. PERLINSKI: I'm aware of that, sir.
+MR. PYTEL: If I'm not a subcontractor, what the hell am I?
+JUSTICE RIP: Mr. Pytel. Mr. Pytel, you don't say anything at this point. This is not an argument, this is representation. Each party shows a courtesy to the other party. I'll ask all questions, but not to you at this point; do you understand, Mr. Pytel?
+MR. PYTEL: Well, if I'm going to hear something like, well, Mr. Pytel is not a subcontractor --
+JUSTICE RIP: Listen, this is their position, okay. This is their position, and each party is permitted or has to give what its position is without any argument from the other until you are called upon. When you are called upon, you could give me your position. Go ahead.
+MR. PERLINSKI: Sorry.
+JUSTICE RIP: Do you understand what I'm saying?
+MR. PERLINSKI: I do understand that, sir, and it's you do have to understand my position though, is put the Minister's best foot forward in argument.
+JUSTICE RIP: I realize that. I realize that.
+MR. PERLINSKI: And I realize –
+MR. PYTEL: Yes. And you have --
+JUSTICE RIP: Okay. Mr. Pytel, one more word out of you and you're going to have to leave the room. I'm not asking you to leave the room, but you have to listen courteously. Show to the record that Mr. Pytel has left the court.
+(MR. PYTEL EXITS THE COURTROOM)
+MR. PERLINSKI: I would still ask that it not work against him, if the Court still feels it's in his favour then to --
+JUSTICE RIP: Well, I'm asking you questions, and I don't know, the door is open. I don't know if Mr. Pytel is listening or not. I think the whole thing is Mr. Pytel is a very excitable person, I got that impression.
+MR. PERLINSKI: Antagonistic is the word that I thought was well-chosen by his accountant.
+JUSTICE RIP: And the problem is, I don't know what's happening here. I know what your position is, I know what his position is.
+MR. PERLINSKI: Well, the problem today, sir, and it's -- it really comes down to a horrendous lack of evidence. A horrendous lack of explanations.
+JUSTICE RIP: On both sides.
+MR. PERLINSKI: On both sides. …
+[31] I instructed the Registrar of the Court to send a copy of the transcript of Crown counsel's argument to Mr. Pytel and inform him that if he wished to make any representation or comments to me to do so by November 22, 2009. This was done on October 22, 2009. Mr. Pytel has not contacted the Court. Nevertheless, he had testified before his exit from the courtroom and did produce documentary evidence in the form of his 2005 tax return.
+[32] Mr. Pytel is an unsophisticated appellant who is unfamiliar with the Court process. However, he ought to realize that if he leaves a courtroom during proceedings and does not return, he is jeopardizing his case. While Mr. Pytel may not have had anything to say at the start of argument, he may have heard something in the Crown's argument that, given an opportunity to respond, may have helped him.
+[33] This is an appeal launched by Mr. Pytel. He chose to leave the courtroom prematurely. He has not acknowledged the attempt by the Court to give him an opportunity to respond to Crown's argument. It may be argued, and it was not, that he has abandoned his appeal. Such an argument may find support in Brassington v. Brassington, [1961] 3 All E.R. 988, discussed in R. v. Swartz, [1977] M.J. No. 28 (QL), [1977] 2 W.W.R. 751, 34 C.C.C. (2d) 477, that only in exceptional circumstances should relief be open to litigants who voluntarily leave the field before the battle is over. Based on Mr. Pytel's background and lack of experience, however, I would not accept this argument.
+[34] Mr. Pytel is asking that he be assessed according to the information contained in his tax return for 2005, that he carried on business and incurred the expenses disallowed by the CRA. On the other hand, the CRA reassessed Mr. Pytel based on information contained in the Adjustment Request. Neither party offered any corroborative evidence. However, because he has the onus of proof, this was Mr. Pytel's job. In any event, as respondent's counsel stated, there was a "horrendous lack of evidence … on both sides".
+[35] At the end of the day there are only two documents on which I can rely, the 2005 income tax return and attachments and the Adjustment Request and attachments. The testimony of Mr. Pytel basically was that he collected his invoices and receipts and gave them to his accountant to prepare the 2005 tax return, he relied on his accountant and signed whatever his accountant put before him, including the 2005 tax return. The Crown's reason for reassessing in the manner it did is that it received no proof the information in the Adjustment Request was wrong. It can also be said that the Crown received no proof that the information in the tax return was wrong. Very simply, the CRA received nothing from the taxpayer or his representative notwithstanding the CRA's request. The reason, as Mr. Patterson indicated, was that he retained only income tax returns and no additional information existed.
+[36] In such circumstances, the CRA could have relied on the assessment, which was based on the information in the tax return, which served as the basis of the original assessment, as much as on the information in the Adjustment Request. It relied on the latter; the CRA may have been influenced by the fact that the latter increased Mr. Pytel's tax for 2005.
+[37] I prefer to rely on the information contained in the tax return. This was a document actually signed by Mr. Pytel. The information on the statement of Business Activities included with the 2005 tax return coupled with Mr. Pytel's evidence that he personally carried on a taping business, suggests that he indeed carried on a business. The relationship between him and Ed Tel is confused and blurred, if not mysterious.
+[38] There was no evidence or suggestion on the part of the Crown that Mr. Pytel was an employee of Ed Tel and that could be a reason Ed Tel absorbed all the expenses. If Mr. Pytel carried on business, as I mentioned earlier, then he reasonably could be expected to have incurred expenses, expenses listed in the Statement of Business Activities attached to his 2005 tax return.
+[39] On the balance of probabilities, Mr. Pytel was a subcontractor to Ed Tel and, as such, carried on business on his own account and the expenses purportedly "transferred" to Ed Tel in the Adjustment Request should remain with Mr. Pytel.
+[40] The appeal will be allowed accordingly.
+[41] I wish to add several words to these reasons.
+[42] The vast majority of informal appellants in this Court act for themselves or are represented by persons without any legal background. This, the Tax Court has in common with all other Canadian courts. Employees of the Tax Court try to assist the appellants and prospective appellants in getting their appeal to trial. The Court has produced a video describing the conduct of an appeal. Judges try to help the taxpayers subject to their limits of judicial impartiality. Nevertheless taxpayers and their lay representatives are often intimidated by the process and are unable to fully prosecute the appeals. This is what happened here.
+[43] I am informed that the Legal Aid programs of the provinces do not provide assistance to taxpayers who cannot afford legal representation in income tax appeals. The rationale, I could only guess, is that if a person has a tax problem, the person must have money. There are appeals before the Court that are family related matters, such as Canada Child Tax benefits, and if disputed before a Family Court judge, may entitle the parties to legal aid. There are also appeals claiming medical expenses, Unemployment Income benefits, Canada Pension Plan benefits, among others, that impact upon low income persons.
+[44] A need for taxpayers to be better prepared for their appeals before this Court is obvious. Legal Aid programs must consider extending their assistance to taxpayers, notwithstanding current budgeting issues. Dealing with a government bureaucracy, the CRA, for example, and then with a court is very stressful even on the most experienced persons. Unjust tax assessments may cause strain on the family relationship and ought to be challenged with public support when appropriate. Law firms and law schools also have the capacity to help.
+[45] Law firms could contribute in solving this problem by having its lawyers assist low income taxpayers "pro bono". Law schools may encourage students interested in tax and in litigation to have programs offering assistance to taxpayers contesting an assessment. This would sensitize potential tax lawyers to the fact that there are low income taxpayers with real tax problems and these taxpayers require legal assistance, notwithstanding the amount of tax or that their problem is not one of sophisticated tax planning. The Court would be happy to co‑operate with firms and law schools interested in assisting low income tax appellants.
+Signed at Ottawa, Canada, this 11th day of December 2009.
+"Gerald J. Rip"
+Rip C.J.
+CITATION: 2009 TCC 615
+COURT FILE NO.: 2008-3908(IT)I
+STYLE OF CAUSE: EDWARD PYTEL v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: August 12, 2009
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: December 11, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Gregory Perlinski
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Pages 6 to 9 of the Transcript.

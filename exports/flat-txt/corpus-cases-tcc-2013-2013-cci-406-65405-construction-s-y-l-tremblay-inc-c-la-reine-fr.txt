@@ -1,0 +1,262 @@
+Title: Construction S.Y.L. Tremblay inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/65405/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-406-65405-construction-s-y-l-tremblay-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-12-17
+
+# Construction S.Y.L. Tremblay inc. c. La Reine
+
+- Citation: 2013 CCI 406
+- Decision date: 2013-12-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5913, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Construction S.Y.L. Tremblay inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-12-17
+Référence neutre
+2013 CCI 406
+Numéro de dossier
+2011-839(GST)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-839(GST)I
+ENTRE :
+CONSTRUCTION S.Y.L. TREMBLAY INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 19 juillet 2013, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Stéphane Rivard
+Avocat de l'intimée :
+Me Daniel Cantin
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie relativement à la taxe sur les produits et services en vertu de la partie IX de la Loi sur la taxe d’accise, pour la période allant du 1er janvier 2000 au 30 juin 2008, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour de décembre 2013.
+« Paul Bédard »
+Juge Bédard
+Référence : 2013 CCI 406
+Date : 20131217
+Dossier : 2011-839(GST)I
+ENTRE :
+CONSTRUCTION S.Y.L. TREMBLAY INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le ministre du Revenu national (le « ministre ») a établi un avis de cotisation en vertu de la partie IX de la Loi sur la taxe d’accise (la « LTA ») pour la période allant du 1er janvier 2000 au 30 juin 2008 (la « période visée »), lequel reflétait les corrections suivantes :
+TPS
+TVQ
+Lois
+Taxes perçues non remises
+16 332,42
+21 151,10
+228 LTA
+437 LTVQ
+Avantages – auto
+2 591,46
+3 241,74
+173 LTA
+290, 292 LTVQ
+Total de taxes exigibles
+18 913,88
+24 392,84
+Intrants non réclamés
+(conciliation)
+(9 650,59)
+(12 011,92)
+169 LTA
+201 LTVQ
+Intrants refusés
+Factures non conformes
+1 821,24
+2 163,14
+169 LTA
+201 LTVQ
+Factures de complaisance
+33 179,09
+38 037,45
+169 LTA
+201 LTVQ
+Pénalité
+9 372,22
+9 627,99
+285 LTA
+59.3 LMR
+L’appelante interjette appel de cette cotisation.
+[2] Je note que la contestation de l’appelante ne porte que sur les crédits de taxe sur les intrants (« CTI ») liés à des fournitures de biens et de services qu’elle aurait acquis des six fournisseurs nommés au paragraphe 14 de la Réponse à l’avis d’appel (les « fournisseurs douteux »).
+[3] En établissant la cotisation, le ministre s’est fondé, entre autres, sur les conclusions et les hypothèses de faits énumérées aux paragraphes 12 à 17 de la Réponse à l’avis d’appel qui se lisent comme suit :
+12. L’Appelante exploite une entreprise de réparations en cas de sinistre et fait affaire avec des compagnies d’assurances;
+13. Les sous‑traitants avec lesquels l’Appelante a fait affaire sont des fournisseurs de factures de complaisance;
+14. La liste des sous‑traitants accommodateurs s’établit comme suit :
+• Les entreprises Pro-Plus inc.
+Les CTI refusés représentent 9 902 $. Cette entreprise a participé, de janvier 2004 à décembre 2004, à un stratagème de facturation d’accommodation en tant qu’accommodateur mixte, c’est‑à‑dire que les transactions entre l’Appelante et Pro‑Plus ne représentent pas réellement des transactions entre les deux parties puisqu’il n’y a pas de fourniture et que certaines factures sont non conformes;
+• Constructions 3 Étoiles inc.
+Les CTI refusés représentent 17 894,88 $. Cette entreprise a également participé, de mars 2001 à août 2002, à un stratagème de facturation d’accommodation mixte. Il n’y a aucune fourniture et facture valide;
+• Yvon Dubé
+Les CTI refusés représentent 1 470 $. Monsieur Dubé n’exerce pas d’activités commerciales. Il effectue des services financiers et ses revenus sont exonérés en TPS.
+• Entrepreneur D.F. inc.
+Les CTI refusés représentent 299,25 $. (Période janvier 2006). Les registres de cette société ne mentionnent pas l’Appelante.
+• Les constructions Boutin inc.
+Les CTI refusés représentent 861 $. (Période avril 2004). Les registres de cette société ne mentionnent pas l’existence de l’Appelante.
+• Julie Séguin (Gestion Jacoby)
+Les CTI refusés représentent 2 751,96 $. (Période avril 2004 à août 2004). Cette entreprise n’exploite aucune activité commerciale.
+15. Il est clair à la lumière des faits disponibles au dossier que les travaux n’ont pas été exécutés par les sous‑traitants visés;
+16. Il ne fait aucun doute que l’Appelante n’a pas agi de bonne foi et a été partie à un stratagème de fausses factures;
+17. L’Appelante a fait sciemment ou dans des circonstances équivalant à une faute lourde de faux énoncés ou des omissions dans ses déclarations quant au calcul de la taxe nette qu’elle a déclarée pendant la période visée;
+[4] La première question à trancher à l’égard de cet appel est de savoir si l’appelante a droit à un CTI de 33 179,09 $ dans le calcul de sa taxe nette pour la période visée. À titre de questions sous‑jacentes, la Cour devra déterminer :
+i) si l’appelante a véritablement acquis des six fournisseurs douteux les fournitures pour lesquelles elle a demandé un CTI de 33 179,09 $ dans le calcul de sa taxe nette;
+ii) si les factures prétendument établies par les fournisseurs douteux de l’appelante répondent aux exigences prescrites par la LTA et le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (le « Règlement »).
+La seconde question à trancher dans cet appel est de savoir si le ministre était fondé à imposer la pénalité prévue à l’article 285 de la LTA.
+Témoignage de monsieur Sylvain Tremblay
+[5] Monsieur Tremblay a essentiellement fait état des éléments suivants :
+i) il était pendant la période visée le seul dirigeant et administrateur de l’appelante qui a toujours exploité une entreprise dans le domaine de la construction;
+ii) pendant la période visée, l’appelante réparait principalement des résidences unifamiliales ayant subies des dommages à la suite à d’un incendie ou d’une inondation. Les services de l’appelante étaient retenus principalement par diverses compagnies d’assurance. Monsieur Tremblay a décrit ainsi les différentes étapes qui menaient à la conclusion d’un contrat avec une compagnie d’assurance à l’occasion d’un sinistre : la compagnie d’assurance envoyait un expert en sinistres sur les lieux du sinistre. L’expert en sinistres retenait les services d’un estimateur qui établissait un devis, c’est‑à‑dire un état détaillé des travaux à effectuer avec estimation des prix. Monsieur Tremblay faisait sa propre estimation des prix. Par la suite, monsieur Tremblay et l’expert en sinistres négociaient en détail le prix des travaux à effectuer, et ce, à partir du devis établi par l’estimateur. À mon avis, le devis constituait (une fois l’entente conclue sur les prix) le contrat écrit intervenu entre l’appelante et la compagnie d’assurance. Une fois l’entente conclue, l’appelante pouvait commencer à exécuter les travaux selon le devis;
+iii) pendant la période visée, l’appelante n’avait pas d’employés. Elle confiait à forfait l’exécution de tous les travaux qu’elle s’était engagée à exécuter à des sous‑traitants;
+iv) pendant la période visée, monsieur Tremblay visitait régulièrement les chantiers de l’appelante pour discuter avec les sous‑traitants (et parfois avec les experts en sinistres et les sinistrés) des travaux à effectuer et de leur progrès;
+v) dans le cadre des contrats qui lui avaient été octroyés par les compagnies d’assurance, l’appelante et monsieur Tremblay n’ont jamais reçu de commission ou de « pot‑de‑vin ». Monsieur Tremblay a ajouté que l’appelante a toujours payé ses sous‑traitants par chèques;
+vi) un estimé préparé par l’appelante (qui décrivait en détail les travaux à exécuter et chiffrait la contrepartie à être versée au sous‑traitant) était initialé par le sous‑traitant dont les services étaient retenus. À mon avis, cet estimé constituait le contrat écrit intervenu entre l’appelante et le sous‑traitant concerné (voir Transcription, pp. 76-78);
+vii) monsieur Tremblay n’a fait aucune vérification (que ce soit auprès de la CSST, de la CCQ, de la Régie du bâtiment du Québec ou encore auprès du Registraire des entreprises) à l’égard des sous‑traitants douteux avant de leur octroyer des contrats. Il ne vérifiait même pas si le numéro d’inscription qui leur était attribué conformément au paragraphe 241(1) de la LTA était valide;
+viii) monsieur Tremblay ne vérifiait jamais où avaient été encaissés les chèques tirés sur le compte bancaire de l’appelante payables aux fournisseurs douteux. Lorsqu’il recevait un appel d’un bureau de change qui voulait faire certaines vérifications d’usage à l’égard d’un fournisseur douteux (il n’a pas précisé quels fournisseurs douteux avaient fait l’objet de tels appels), il cessait immédiatement de faire affaires avec ce sous‑traitant. Il a ajouté qu’il n'avait jamais été avisé que Les Entreprises Pro‑Plus inc. (« Pro‑Plus »), Les Constructions Boutin inc. (« Boutin inc. ») et Constructions 3 Étoiles (« Trois Étoiles ») encaissaient des chèques tirés à leur ordre sur le compte bancaire de l’appelante dans des bureaux de change (voir Transcription, p. 174).
+[6] Par ailleurs, monsieur Tremblay a fait état des éléments suivants à l’égard de l’entreprise Trois Étoiles :
+i) les contrats octroyés par l’appelante à Trois Étoiles étaient liés à la pose de céramique, de gypse, d’armoires et d’escaliers;
+ii) son seul interlocuteur auprès de Trois Étoiles avait été monsieur Gaétan Lefebvre qui lui avait été présenté par son beau‑frère. Monsieur Tremblay a expliqué qu’il avait cru que Trois Étoiles était la propriété de deux personnes, dont monsieur Lefebvre (voir Transcription, p. 87, lignes 27 et 28);
+iii) tous les chèques tirés à l’ordre de Trois Étoiles sur le compte bancaire de l’appelante étaient remis en mains propres à monsieur Lefebvre;
+iv) monsieur Tremblay avait établi lui‑même certaines factures de Trois Étoiles, et ce, à la demande de monsieur Lefebvre lorsque ce dernier était trop occupé par ailleurs pour le faire;
+v) les travaux liés aux contrats octroyés à Trois Étoiles par l’appelante avaient été exécutés par monsieur Lefebvre et d’autres employés de Trois Étoiles, employés qui avaient été toujours supervisés par ce dernier;
+vi) l’appelante était souvent payée par l’assureur un ou six mois après la fin des travaux. Parfois, il y avait un déboursé progressif de l’assureur. C’est l’appelante qui finançait ses sous-traitants comme Trois Étoiles (voir Transcription, p. 100). Il est d’ailleurs arrivé que monsieur Lefebvre ait demandé une avance de fonds à monsieur Tremblay (voir Transcription, pp. 32, 99);
+vii) monsieur Tremblay a appris récemment que monsieur Lefebvre faisait l’objet d’une vérification fiscale et qu’il avait fait faillite. Il a ajouté qu’il ignorait que Trois Étoiles avait été radiée du registre des entreprises et que son numéro d’inscription (attribué conformément au paragraphe 241(1) de la LTA) n’était plus valide (voir Transcription, pp. 102‑103);
+[7] Par ailleurs, monsieur Tremblay a fait état des éléments suivants à l’égard de Pro‑Plus :
+i) les contrats octroyés par l’appelante à Pro‑Plus étaient liés surtout à la pose de gypse et au remplissage de joints;
+ii) le seul interlocuteur de monsieur Tremblay auprès de Pro‑Plus avait été monsieur Morin. Monsieur Tremblay a ajouté que monsieur Morin lui avait déclaré que Pro‑Plus « était sa société ». L’appelante a octroyé quatre ou cinq contrats à Pro‑Plus sur une période de quatre ou cinq ans;
+iii) monsieur Tremblay ne savait pas si les travaux liés aux contrats octroyés à Pro‑Plus avaient été exécutés par des employés de Pro‑Plus ou par des sous‑traitants de cette dernière;
+iv) monsieur Tremblay avait lui‑même établi une facture de Pro‑Plus. Il a expliqué qu’il lui arrivait régulièrement d’établir les factures de fournisseurs lorsque les employés de ceux‑ci étaient analphabètes. Je note que monsieur Tremblay n’a pas identifié ces employés analphabètes;
+v) l’appelante n’a plus octroyé de contrats à Pro‑Plus à partir du moment où elle a reçu une lettre l’informant que Pro‑Plus devait plus de 1,5 million de dollars en taxes sur les produits et services.
+[8] Par ailleurs, il ressort essentiellement du témoignage de monsieur Tremblay à l’égard de Entrepreneur D.F. inc. (« DF ») qu’il ne se « rappelait pas de cette société ». Selon lui, il s’agissait probablement d’une société qui avait offert ses services et qu’il avait décidé de mettre à l’essai. Monsieur Tremblay a ajouté que la qualité de l’exécution des travaux effectués par DF ne lui avait pas convenue puisque l'appelante ne lui avait octroyé qu’un seul contrat.
+[9] Enfin, monsieur Tremblay a fait état des éléments suivants à l’égard de monsieur Yvon Dubé :
+i) monsieur Dubé était un intermédiaire dont le rôle était de persuader les propriétaires de résidences endommagées à la suite d’un sinistre d’octroyer à l’appelante un contrat de réparation. Monsieur Tremblay a expliqué que monsieur Dubé aurait ainsi déniché pour l’appelante environ cinq contrats de cette nature au cours de la période visée. Monsieur Tremblay a aussi expliqué que l’appelante avait versé à monsieur Dubé une commission (payable à la fin des travaux) pour chacun des contrats de réparation que l’appelante avait obtenu grâce à ce dernier. Monsieur Tremblay a ajouté que les sinistrés concernés exigeaient que monsieur Dubé s’assure que les travaux de réparation soient bien exécutés par l’appelante;
+ii) monsieur Tremblay connaissait monsieur Dubé depuis le début des années 2000. Monsieur Dubé lui avait été présenté par monsieur Gérard Gingras, un ancien partenaire d’affaires. Monsieur Tremblay a ajouté qu’il n’avait plus de « nouvelles de monsieur Dubé » et qu’il ne savait pas où il réside.
+[10] Il ressort du témoignage de monsieur Tremblay à l’égard de Les Constructions Boutin inc. (« Constructions Boutin ») que son interlocuteur auprès de cette dernière avait été monsieur Gilles Séguin. Monsieur Tremblay a expliqué que ses efforts pour localiser monsieur Boutin et sa fille, dans le but de les assigner comme témoins, avaient été infructueux.
+Témoignage de monsieur Lefebvre
+[11] Monsieur Lefebvre a corroboré le témoignage de monsieur Tremblay à l’égard de Trois Étoiles et à son égard. Par ailleurs, il a ajouté que :
+i) il est un « menuisier contremaître »;
+ii) il avait été un employé de Trois Étoiles « avec commission sur profit net » (voir Transcription, p. 142) pendant 4 à 5 ans;
+iii) le dirigeant de Trois Étoiles avec qui il avait interagi pendant la période visée était « un dénommé Jacques… oh boy! Jacques… pas Riendeau. En tout cas, le siège social c’était sur montée St‑Hubert ». Il y avait aussi un autre dirigeant, un dénommé « Joe » (voir Transcription, p. 143);
+iv) monsieur Lefebvre ne pouvait conclure de contrat au nom de Trois Étoiles sans avoir obtenu l’accord du « dénommé Jacques »;
+v) compte tenu que, vers la fin de sa relation avec son employeur, monsieur Lefebvre craignait ne pas être payé, il avait exigé de l’appelante qu’elle acquitte les factures de son employeur en tirant des chèques à l’ordre conjoint de son employeur et de lui‑même. Il a expliqué qu’il ne remettait le chèque à son employeur (et ce, après l’avoir endossé) qu’après avoir été payé par ce dernier. Je souligne immédiatement que monsieur Lefebvre n’a pas été en mesure d’expliquer pourquoi l’appelante avait tiré des chèques à l’ordre conjoint de Trois Étoiles et de lui‑même, et ce, dès le début de sa relation avec son employeur (en l’espèce en 1999 et 2000) (voir Transcription, p. 148). J’ajouterai que la preuve a révélé que presque tous les chèques tirés sur le compte bancaire de l’appelante pour acquitter les factures de Trois Étoiles avaient été tirés à l’ordre conjoint de ces personnes;
+vi) monsieur Lefebvre avait « changé peut‑être un ou deux chèques au début » dans des bureaux de change (voir Transcription, p. 154). Je souligne que monsieur Lefebvre avait auparavant affirmé ne pas s’être présenté dans des « centres d’encaissement » (voir Transcription, p. 145);
+vii) il avait mis fin à sa relation avec Trois Étoiles, car « ça ne marchait plus à son goût » et « c’était beaucoup de déplacements pour se rendre sur les chantiers » (voir Transcription, pp. 145‑150);
+viii) monsieur Lefebvre connaissait monsieur Dubé et la nature de son travail. Il connaissait aussi Pro‑Plus en ce que son fils et son meilleur ami avaient été des employés de cette entreprise.
+Témoignages de monsieur Fugère et de madame Roy
+[12] Il ressort de leurs témoignages que :
+i) les fournisseurs douteux étaient tous, pendant tout au moins une partie de la période visée, en défaut à l’égard d’au moins une loi fiscale;
+ii) les fournitures énumérées dans les factures déposées en preuve par l’appelante ne sont pas décrites de façon suffisamment détaillée;
+iii) certaines des pièces justificatives (à l’appui des CTI demandés) par un fournisseur donné n’ont pas de suite numérique;
+iv) plusieurs chèques tirés par l’appelante et payables à l’ordre de ces fournisseurs douteux avaient été encaissés dans un bureau de change.
+Analyse et conclusion
+[13] L’arrêt Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, nous enseigne que le ministre se fonde sur des hypothèses pour établir une cotisation et que la charge initiale de démolir les hypothèses formulées par le ministre repose sur le contribuable. Ce dernier s’acquitte du fardeau initial s’il présente au moins une preuve prima facie démolissant l’exactitude des hypothèses formulées par le ministre. Enfin, lorsque le contribuable s’est acquitté de son fardeau initial, le fardeau de la preuve passe au ministre, qui doit alors réfuter la preuve prima facie faite par le contribuable et prouver les hypothèses. Règle générale, une preuve prima facie est une preuve suffisante pour établir un fait jusqu’à preuve du contraire. Dans la décision Stewart c. M.R.N., [2000] A.C.I. no 53 (QL), le juge Cain enseigne qu’« [u]ne preuve prima facie est celle qui est étayée par des éléments de preuve qui créent un tel degré de probabilité en sa faveur que la cour doit l’accepter si elle y ajoute foi, à moins qu’elle ne soit contredite ou que le contraire ne soit prouvé ». Par ailleurs, la Cour d’appel fédérale est venue préciser à cet égard, dans l’arrêt Les Voitures Orly inc. c. Canada, 2005 CAF 425, au paragraphe 20, que « le fardeau de la preuve imposé au contribuable ne doit pas être renversé à la légère ou arbitrairement », puisqu’« il s’agit de l’entreprise du contribuable ». La Cour d’appel fédérale a aussi précisé dans cet arrêt que c’est le contribuable « qui sait comment et pourquoi son entreprise fonctionne comme elle le fait et pas autrement. [...] Il possède des renseignements qui sont à sa portée et sur lesquels il exerce un contrôle. » Par conséquent, l’appelante en l’espèce devait démontrer au moyen d’une preuve prima facie qu’elle avait réellement acheté les fournitures des fournisseurs douteux. […] Enfin, l’appelante devait aussi démontrer que les factures prétendument établies par ces fournisseurs douteux répondent aux exigences de la LTA et du Règlement.
+[14] La question qui se pose maintenant est la suivante : est‑ce que la preuve présentée par l’appelante constitue une preuve suffisante pour démolir les hypothèses de fait du ministre? Puisque la preuve présentée par l’appelante reposait essentiellement sur les témoignages de messieurs Tremblay et Lefebvre, nous analyserons leur valeur probante.
+[15] Dans l’appréciation des éléments de preuve produits par l’appelante, il est nécessaire de faire des observations sur l’omission de citer à témoigner certaines personnes (dont les dirigeants des sous‑traitants douteux pendant la période visée, les experts en sinistres concernés, les estimateurs concernés et les propriétaires des résidences unifamiliales concernés) et de produire des éléments de preuve documentaire (tels les devis des travaux à exécuter et les estimés paraphés par l’appelante et les sous‑traitants douteux) à l’appui des déclarations de monsieur Tremblay. Dans les cas où l’appelante a soutenu que ses démarches pour citer à témoigner certaines personnes avaient été infructueuses, elle se devait tout au moins d’expliquer la nature de ses démarches. Dans la décision Huneault c. La Reine, 98 DTC 1488, ma collègue la juge Lamarre rappelle, au paragraphe 25, certaines observations de Sopinka et Lederman dans leur traité « The Law of Evidence in Civil Cases » et qui sont citées par le juge Sarchuk de notre Cour dans la décision Enns c. M.R.N., no APP-192(IT), 17 février 1987, 87 DTC 208, à la page 210 :
+[TRADUCTION]
+Dans l’ouvrage de Sopinka et Lederman, The Law of Evidence in Civil Cases, les auteurs font remarquer ce qui suit au sujet des conséquences de l’omission de faire comparaître un témoin, je cite :
+Dans l’affaire Blatch v. Archer, (1774), 1 Cowp. 63, p. 65, Lord Mansfield a déclaré :
+Il existe certainement un principe voulant que tous les faits soient appréciés à la lumière de la preuve que l’une des parties était en mesure de produire et que l’autre partie était en mesure de réfuter.
+L’appréciation de ce principe a conduit à établir une règle bien connue selon laquelle l’omission d’une partie ou d’un témoin de produire une preuve que la partie ou le témoin était en mesure de produire et qui aurait peut-être permis d’élucider les faits, fonde la Cour à déduire que la preuve de la partie ou du témoin en question aurait été défavorable à la partie à laquelle l’omission a été attribuée.
+Dans le cas d’un demandeur auquel il incombe d’établir un point, l’effet de cette déduction peut être que la preuve produite sera insuffisante pour s’acquitter du fardeau de la preuve. (Lévesque et al. c. Comeau et al., [1970] R.C.S. 1010, (1971), 16 D.L.R. (3e) 425).
+[16] Nous examinerons maintenant la valeur probante des témoignages des personnes qui sont venues appuyer la position de l’appelante. Monsieur Lefebvre a témoigné qu’il avait exécuté (parfois seul ou avec d’autres employés de Trois Étoiles) pour son employeur tous les contrats qui avaient été octroyés à ce dernier par l’appelante. Il m’est difficile d’accorder quelque valeur probante au témoignage de monsieur Lefebvre, puisque son témoignage à l’égard de la nature des travaux réalisés pour l’appelante et à l’égard des autres employés de son prétendu employeur qu’il aurait supervisés sur les chantiers de l’appelante était volontairement vague et imprécis et ainsi invérifiable. De plus, le fait qu’il ait été incapable de nommer quelque dirigeant de son employeur, et ce, bien qu’il ait prétendu avoir été surintendant pour ce dernier pendant quatre ans (en l’espèce de 2000 à 2004) n’a fait qu’alimenter mes doutes quant à sa crédibilité. De plus, son témoignage à l’effet que ce n’est que vers la fin de sa relation avec son employeur qu’il avait demandé à l’appelante d’acquitter les factures de son employeur en tirant des chèques à son ordre et à celui de son employeur fut contredit en ce que la preuve a révélé que cette façon de faire avait débuté en l’an 2000 et continué jusqu’à la fin de cette relation. Le fait que monsieur Lefebvre et son employeur aient encaissé des sommes substantielles dans des bureaux de change et que ce dernier n’était pas en conformité avec plusieurs lois fiscales (je rappelle que le numéro de taxe TPS TVQ de Trois Étoiles a été radié en août 2002) est en soi assez révélateur. Ce n’est certes pas en présentant un tel témoin que l’appelante pouvait espérer me convaincre que des services avaient été réellement rendus par Trois Étoiles.
+[17] Le témoignage de monsieur Tremblay ne m’a guère paru plus probant et crédible compte tenu des éléments suivants :
+i) son témoignage était volontairement vague et imprécis et était invérifiable à l’égard des éléments suivants :
+1. la nature exacte des travaux accomplis par les fournisseurs douteux. À cet égard, l’appelante aurait pu déposer en preuve les estimés qui, selon le témoignage (voir par. 5)ii) de monsieur Tremblay, étaient signés par l’appelante et le sous‑traitant concerné, estimés qui plus est décrivaient la nature détaillée des travaux à effectuer par le sous‑traitant concerné et la contrepartie qu’il était en droit de recevoir pour les travaux effectués. L’estimé constituait, à mon avis, le contrat intervenu entre les parties, contrat très détaillé à tous égards. Le dépôt en preuve de ces estimés était, à mon avis, essentiel dans les circonstances. L’appelante n’a pas jugé nécessaire de les présenter en preuve alors qu’elle était en mesure de le faire. J’en infère que cette preuve lui aurait été défavorable;
+2. monsieur Tremblay a témoigné qu’il cessait d’avoir recours aux services d’un fournisseur douteux lorsqu’un bureau de change l’appelait pour faire certaines vérifications d’usage. Encore une fois, monsieur Tremblay n’a pas cru bon préciser quels fournisseurs douteux avaient fait l’objet de tels appels et quand ces appels avaient eu lieu;
+ii) les contradictions entre le témoignage de monsieur Tremblay et les déclarations faites à madame Roy (consignées à la pièce I‑2, 3.15 et 3.16 déposée en preuve) (voir page 232 des notes sténographiques);
+iii) le fait de ne jamais vérifier où avaient été encaissés les chèques tirés sur le compte bancaire de l’appelante payables aux fournisseurs douteux (dont il ignorait à peu près tout), et ce, après avoir reçu des appels de bureaux de change qui voulaient faire certaines vérifications d’usage. Ces appels auraient dû éveiller des soupçons et amener l’appelante, dès le premier appel d’un bureau de change, à vérifier de temps à autre où les autres fournisseurs, dont il ignorait tout, encaissaient les chèques faits par l’appelante compte tenu que monsieur Tremblay a admis savoir qu’un fournisseur qui encaisse ainsi des chèques n’est probablement pas probe. En définitive, l’appelante ne peut invoquer la bonne foi à cet égard, et ce, même pour le tout premier appel provenant d’un bureau de change.
+iv) le fait de ne pas vérifier auprès de la CCQ et de la CSST les heures de travail des employés des fournisseurs douteux. Je peux comprendre la pratique des donneurs d’ouvrage de ne pas faire de telles vérifications à l’égard des fournisseurs qu’ils utilisent régulièrement et dont ils connaissent la probité et la solidité financière. Toutefois, le fait de ne pas faire de telles vérifications à l’égard des fournisseurs dont ils ignorent à peu près tout m’apparaît difficilement explicable compte tenu des lourdes conséquences financières qui pourraient en résulter pour les donneurs d’ouvrage. En effet, les donneurs d’ouvrage qui ne demandent pas de lettres d’état à la CCQ et à la CSST pourraient être tenus solidairement responsables avec leurs sous‑traitants des cotisations qui auraient dû être versées par leurs sous‑traitants;
+v) le fait que l’appelante se soit conformée aux directives de paiement de monsieur Lefebvre sans se poser de questions. En effet, l’appelante, à la demande de monsieur Tremblay, avait tiré des chèques à l’ordre conjoint de Trois Étoiles et de monsieur Lefebvre parce que ce dernier voulait s’assurer d’être payé par Trois Étoiles. Un entrepreneur normalement avisé n’aurait pas accepté une telle directive, compte tenu qu’il a témoigné qu’il savait que monsieur Lefebvre avait un associé en Trois Étoiles.
+[18] Il convient maintenant de répondre à la question suivante : est‑ce que les factures établies par les fournisseurs douteux répondent aux exigences prescrites par la LTA et le Règlement?
+[19] Il convient, avant cela, de se poser les deux questions suivantes :
+a. Quel est le but visé par le Règlement?
+b. Est-ce que les exigences du Règlement sont obligatoires et doivent‑elles être appliquées rigoureusement?
+[20] À cet égard, je suis d’accord avec le juge Bowie lorsqu’il affirme ce qui suit dans la décision Key Property Management Corp. c. La Reine, 2004 CCI 210 :
+Le but même de l’alinéa 169(4)a) et du Règlement est de protéger le Trésor contre les violations tant frauduleuses qu’innocentes. Ce but ne peut être atteint que si les exigences sont considérées comme étant obligatoires et sont rigoureusement appliquées. Le fait de les envisager simplement comme une indication ne serait pas seulement malencontreux, mais serait une grave violation de l’intégrité du texte législatif.
+[21] À cet égard, je suis également d’accord avec la juge Campbell lorsqu’elle affirme ce qui suit dans la décision Davis c. La Reine, 2004 CCI 662 :
+Je ne pense pas qu’il est possible de contourner ces dispositions, étant donné que leur libellé est très précis. Elles sont manifestement obligatoires, et l’appelant n’a tout simplement pas respecté les exigences techniques que la Loi et le Règlement lui imposent à titre de participant à un régime d’autocotisation.
+Il convient de souligner que la Cour d’appel fédérale a confirmé, dans l’arrêt Systematix Technology Consultants Inc. c. Canada, 2007 CAF 226, la position des juges Bowie et Campbell à cet égard.
+[22] Le paragraphe 3 du Règlement se lit comme suit :
+3. Les renseignements visés à l’alinéa 169(4)a) de la Loi, sont les suivants :
+a) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de moins de 30 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire,
+(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+(iii) si aucune facture n’a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celles-ci,
+(iv) le montant total payé ou payable pour la ou les fournitures;
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire et le numéro d’inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur ou à l’intermédiaire, selon le cas,
+(ii) les renseignements visés aux sous-alinéas a)(ii) à (iv),
+(iii) dans le cas où la taxe payée ou payable n’est pas comprise dans le montant payé ou payable pour la ou les fournitures :
+(A) ou bien, la taxe payée ou payable pour toutes les fournitures ou pour chacune d’elles,
+(B) ou bien, si une taxe de vente provinciale est payable pour chaque fourniture taxable qui n’est pas une fourniture détaxée, mais ne l’est pas pour une fourniture exonérée ou une fourniture détaxée :
+(I) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour chaque fourniture taxable, ainsi qu’une déclaration portant que le total pour chaque fourniture taxable comprend la taxe payée ou payable selon cette section,
+(II) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour toutes les fournitures taxables, ainsi qu’une déclaration portant que ce total comprend la taxe payée ou payable selon cette section,
+(iv) dans le cas où la taxe payée ou payable est comprise dans le montant payé ou payable pour la ou les fournitures et que l’une ou plusieurs de celles-ci sont des fournitures taxables qui ne sont pas des fournitures détaxées :
+(A) une déclaration portant que la taxe est comprise dans le montant payé ou payable pour chaque fourniture taxable,
+(B) le total (appelé « taux de taxe total » au présent alinéa) des taux auxquels la taxe a été payée ou était payable relativement à chacune des fournitures taxables qui n’est pas une fourniture détaxée,
+(C) le montant payé ou payable pour chacune de ces fournitures ou le montant total payé ou payable pour l’ensemble de ces fournitures auxquelles s’applique le même taux de taxe total,
+(v) dans le cas où deux fournitures ou plus appartiennent à différentes catégories, une mention de la catégorie de chaque fourniture taxable qui n’est pas une fourniture détaxée;
+c) lorsque le montant total payé ou payable, selon la pièce justifiable à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[Non souligné dans l’original]
+[23] En l’espèce, la preuve a révélé que le montant payé à l’égard de chacune des fournitures par les sous‑traitants douteux est de 150 $ ou plus. Par conséquent, chacune des factures déposées en preuve par l’appelante devrait notamment contenir une description suffisante pour identifier chaque fourniture. Puisque le but visé par l’alinéa 169(4)a) de la LTA et par le Règlement est de protéger le Trésor contre les violations tant frauduleuses qu’innocentes, je suis d’avis qu’une description est suffisante si elle permet à l’Agence d’identifier les travaux effectués par les fournisseurs. À mon avis, les factures déposées en preuve par l’appelante ne peuvent respecter la condition prévue au sous‑alinéa 3c)(iv) du Règlement que si elles comprennent au moins les renseignements suivants :
+i) le lieu précis où le fournisseur en cause avait rendu les services. Par lieu précis, j’entends l’adresse municipale où les travaux avaient été réalisés;
+ii) la nature exacte de la fourniture. En l’espèce, les factures auraient pu référer aux estimés qui, je le rappelle, décrivaient la nature exacte des travaux à réaliser et les modalités de paiement.
+[24] Mon examen (voir les annexes jointes) de toutes les factures mises en preuve m’amène à conclure qu’aucune d’elles n’est conforme à l’article 169 de la LTA et au Règlement puisque dans chacune d’elles, il manque au moins un renseignement obligatoire. Par conséquent, l’appelante ne peut demander des CTI liés à ces factures.
+[25] Il convient maintenant de répondre à la question suivante : est‑ce que le ministre s’est acquitté du fardeau qui repose sur lui en vertu de l’article 285 de la LTA? Puisque je suis persuadé que l’appelante n’a pas véritablement acquis les fournitures pour lesquelles elle a demandé des CTI dans le calcul de sa taxe nette, le ministre s’est acquitté du fardeau de la preuve qui reposait sur lui aux termes de l’article 285 de la LTA. Je souligne que l’appelante n’a fait aucune observation à cet égard.
+[26] Pour tous ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 17e jour de décembre 2013.
+« Paul Bédard »
+Juge Bédard
+ANNEXE A
+ANNEXE B
+ANNEXE C
+ANNEXE D
+ANNEXE E
+ANNEXE F
+RÉFÉRENCE : 2013 CCI 406
+Nº DU DOSSIER DE LA COUR : 2011-839(GST)I
+INTITULÉ DE LA CAUSE : CONSTRUCTION S.Y.L. TREMBLAY INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 19 juillet 2013
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 17 décembre 2013
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Stéphane Rivard
+Avocat de l'intimée :
+Me Daniel Cantin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom : Me Stéphane Rivard
+Cabinet : Rivard & Associés
+Montréal (Québec)
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

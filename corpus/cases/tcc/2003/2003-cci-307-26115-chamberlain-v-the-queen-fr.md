@@ -1,0 +1,128 @@
+---
+title: "Chamberlain v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26115/index.do"
+last_modified: "2003-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 307"
+citation2: ""
+neutral_citation: "2003 CCI 307"
+decision_date: "2003-05-02"
+language: "fr"
+item_id: "26115"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4146
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:14:21.094000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3be99903154a49152fd9668952817452a9f3124fb3a564d40929ce75c6e7dbfe"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chamberlain v. The Queen
+
+- Citation: 2003 CCI 307
+- Decision date: 2003-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4146, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chamberlain v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-02
+Référence neutre
+2003 CCI 307
+Numéro de dossier
+2002-1682(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-1682(IT)I
+ENTRE :
+DEBORAH CHAMBERLAIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 17 avril 2003, à Kitchener (Ontario).
+Devant : L'honorable juge en chef adjoint D. G. H. Bowman
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+MeSteve Leckie
+____________________________________________________________________
+JUGEMENT
+La Cour ordonne que l'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 soit rejeté.
+Signé à Toronto, Canada, ce 2e jour de mai 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 2e jour de mars 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI307
+Date : 20030502
+Dossier : 2002-1682(IT)I
+ENTRE :
+DEBORAH CHAMBERLAIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman, C.C.I.
+[1] Il s'agit d'un appel d'une cotisation pour l'année d'imposition 2000 de l'appelante en vertu de laquelle le ministre du Revenu national a refusé un crédit pour frais médicaux de 28 574 $ réclamé par l'appelante relativement à la rénovation d'une maison qu'elle a achetée.
+[2] Le paragraphe 118.2(1) de la Loi de l'impôt sur le revenu permet de déduire un crédit d'impôt équivalant à un pourcentage des frais médicaux du particulier.
+[3] Le paragraphe 118.2(2) de la Loi de l'impôt sur le revenu se lit en partie comme suit :
+118.2(2) Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés :
+[...]
+l.2) pour les frais raisonnables afférents à des rénovations ou transformations apportées à l'habitation du particulier, de son époux ou conjoint de fait ou d'une personne à charge visée à l'alinéa a) - ne jouissant pas d'un développement physique normal ou ayant un handicap moteur grave et prolongé - pour lui permettre d'avoir accès à son habitation, de s'y déplacer ou d'y accomplir les tâches de la vie quotidienne;
+l.21) pour les frais raisonnables afférents à la construction du lieu principal de résidence du particulier, de son époux ou conjoint de fait ou d'une personne à charge visée à l'alinéa a) - ne jouissant pas d'un développement physique normal ou ayant un handicap moteur grave et prolongé - qu'il est raisonnable de considérer comme des frais supplémentaires engagés afin de lui permettre d'avoir accès à son lieu principal de résidence, de s'y déplacer ou d'y accomplir les tâches de la vie quotidienne;
+[4] L'alinéa 118.4(1)a) se lit comme suit :
+118.4(1) Pour l'application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d'affilée ou s'il est raisonnable de s'attendre à ce qu'elle dure au moins 12 mois d'affilée;
+[5] La Couronne ne conteste pas que les sommes ont été dépensées, mais elle conteste que l'appelante ait souffert d'un handicap moteur grave et prolongé et que les rénovations importantes puissent raisonnablement être considérées comme nécessaires pour lui permettre d'avoir accès à son lieu principal de résidence, de s'y déplacer ou d'y accomplir les tâches de la vie quotidienne.
+[6] L'appelante souffre d'arthrite dans les deux genoux et de sinusite chronique. Elle a également subi une fracture de la hanche dans un accident de voiture en 1996. Cette fracture lui occasionne également des douleurs et fait qu'il lui est quelque peu plus difficile de marcher. Toutefois, l'appelante travaille et est capable de marcher sans l'aide d'une béquille, d'une canne ou d'un autre dispositif.
+[7] Elle a acheté la maison de la Banque Laurentienne en 1999 en vertu d'un pouvoir de vente et l'a payé 67 000 $. La maison était annoncée comme une aubaine pour rénovateur. Bien que l'appelante se soit enquise de l'état de la maison, elle n'a pas fait faire d'inspection professionnelle. Après avoir acheté la maison, elle s'est aperçue que les fondations étaient pourries, que la toiture devait être remplacée, qu'une nouvelle fournaise devait être installée, que deux des murs étaient pourris et devaient être refaits et que la maison devait être rehaussée de 48 pouces. Les réparations importantes à la structure rendues nécessaires par l'état de la maison justifiaient les frais importants engagés en l'espèce.
+[8] Quant à l'état de santé de l'appelante, je reconnais que ses problèmes médicaux sont prolongés. Ils ont duré plus de douze mois. La question de savoir s'ils sont graves ou non est, jusqu'à un certain point, une question d'appréciation. La Cour dispose de peu de preuve, mis à part le témoignage de l'appelante elle-même. La seule preuve médicale dont la Cour dispose est une déclaration du médecin de l'appelante qui fait partie d'une demande au surintendant pour obtenir l'autorisation de retirer des fonds d'un compte immobilisé. Ce document est intitulé « Déclaration d'un médecin à propos de rénovations en raison d'une maladie ou d'une incapacité » . La déclaration du médecin indique ce qui suit :
+[TRADUCTION]
+réparation de la fondation
+réparation de la toiture / avant-toit / gouttières
+système de chauffage
+la patiente m'informe que son arthrite / sinusite récurrente / douleurs à la hanche gauche suite à la fracture de 1996 sont exacerbées par la présente d'eau dans la résidence
+[9] Cette déclaration est probablement exacte pour ce qu'elle couvre. Je ne crois pas toutefois qu'elle me permette de traiter le coût des rénovations considérables effectuées comme des frais médicaux aux fins du crédit d'impôt. Selon moi, la preuve n'établit pas que l'arthrite et la fracture de la hanche constituent un handicap moteur grave. Il peut y avoir un handicap moteur grave quand une personne est en fauteuil roulant ou a besoin d'un cadre de marche.
+[10] Même s'il était possible de dire que l'arthrite de l'appelante et sa fracture de la hanche constituent un handicap moteur grave, je ne crois pas que l'on puisse considérer que les rénovations majeures de la maison de l'appelante, du genre de celles en l'espèce, constituent des « frais raisonnables » pour permettre à l'appelante d'avoir accès à sa résidence, de s'y déplacer ou d'y accomplir les tâches de la vie quotidienne. Les travaux ont été entrepris pour rendre l'immeuble habitable. De toute évidence, les réparations auraient été nécessaires même si l'appelante n'avait pas eu de problèmes de santé.
+[11] L'appelante m'a renvoyé à un certain nombre de jugements de notre cour : Williams c. Canada, C.C.I., no 97-445(IT)I, 22 décembre 1997, [1997] A.C.I. no 1346, et McGaugh c. Canada, C.C.I., no 98-1217(IT)I, 12 mars 1999, [1999] A.C.I. no 954. Ces deux jugements concernaient le coût d'un plancher de bois franc pour une personne qui souffrait de problèmes respiratoires graves résultant d'une exposition à des contaminants chimiques diffusés par le système de ventilation d'un hôpital. Il suffit de lire les deux jugements pour se convaincre qu'il s'agissait là d'un accident tragique, que le handicap de l'appelante était très grave et que l'installation d'un plancher de bois franc était nécessaire. Les faits de l'espèce ne sont aucunement assimilables à ceux des affaires Williams et McGaugh.
+[12] La Cour a de la compassion pour l'appelante et son état de santé et est sensible au fait que l'appelante a acheté une maison en très mauvais état en se fiant à de mauvais conseils. Toutefois, je ne crois pas que les frais de réparation de la maison puissent entrer dans la définition de frais médicaux à l'alinéa 118.2(2)(l.2) de la Loi.
+[13] En conséquence, l'appel est rejeté.
+Signé à Toronto, Canada, ce 2e jour de mai 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 2e jour de mars 2005.
+Yves Bellefeuille, réviseur

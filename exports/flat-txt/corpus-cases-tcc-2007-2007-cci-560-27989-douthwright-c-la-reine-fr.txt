@@ -1,0 +1,162 @@
+Title: Douthwright c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27989/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-560-27989-douthwright-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-09-13
+
+# Douthwright c. La Reine
+
+- Citation: 2007 CCI 560
+- Decision date: 2007-09-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1771, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Douthwright c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-13
+Référence neutre
+2007 CCI 560
+Numéro de dossier
+2006-2408(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2408(IT)I
+ENTRE :
+KEVIN DOUTHWRIGHT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 13 septembre 2007, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelant :
+M. E.C. DeFreitas
+Avocat de l’intimée :
+Me Laurent Bartleman
+JUGEMENT
+L’appel de la nouvelle cotisation relative à l’année d’imposition 2003 de l’appelant, par laquelle des dépenses de 14 976,02 $ déduites par l’appelant ont été refusées, est accueilli au complet, avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant a le droit de déduire, dans le calcul de son revenu pour l’année d’imposition 2003, la somme de 14 976,02 $ qu’il a dépensée au titre d’honoraires d’avocat et au titre du règlement du litige qui l’opposait à BMO Nesbitt Burns.
+Signé à Halifax (Nouvelle-Écosse), ce 20e jour de septembre 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 13e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI560
+Date : 20070920
+Dossier : 2006-2408(IT)I
+ENTRE :
+KEVIN DOUTHWRIGHT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Il s’agit en l’espèce de savoir si l’appelant a le droit de déduire, en vertu de l’alinéa 8(1)f) de la Loi de l’impôt sur le revenu (la « Loi »), un montant de 3 851,02 $ au titre d’honoraires d’avocat et un montant de 11 125 $ au titre de frais de règlement dans le calcul de son revenu pour l’année 2003.
+[2] L’appelant travaillait en tant que conseiller en placement pour BMO Nesbitt Burns au cours de la période allant de février 2001 à juin 2002. Le 5 février 2001, l’appelant a conclu avec BMO Nesbitt Burns une entente relative à un stage de conseiller en placement (l’« entente »). Cette entente prévoyait notamment ce qui suit :
+[traduction]
+ATTENDUS :
+1. BMO Nesbitt a offert une formation professionnelle au stagiaire et fournira au stagiaire un cours de formation spécialisée (le « cours ») pendant une durée d’environ 18 mois. Pendant le cours, le stagiaire aura accès à des renseignements confidentiels concernant l’entreprise de BMO Nesbitt et bénéficiera également, à son usage exclusif, d’un enseignement, de documents écrits, de cours et de séminaires mis au point par BMO Nesbitt en vue d’aider le stagiaire à acquérir les connaissances et compétences nécessaires en matière de valeurs mobilières. BMO Nesbitt s’attend de son côté à ce que le stagiaire mette à profit les renseignements confidentiels obtenus et la formation personnelle reçue uniquement au service des clients de BMO Nesbitt.
+[3] Après les attendus, l’entente prévoyait notamment ce qui suit :
+[traduction]
+COMPTE TENU du fait que BMO Nesbitt permet au stagiaire de suivre le cours, de la rémunération que BMO Nesbitt versera au stagiaire pendant le cours, du paiement de 10 $ que BMO Nesbitt fera en faveur du stagiaire et de toute autre contrepartie de valeur, dont la réception et la suffisance sont par les présentes reconnues par le stagiaire, BMO Nesbitt et le stagiaire conviennent de ce qui suit :
+[...]
+2.3 Le stagiaire reconnaît que le cours offert par BMO Nesbitt constitue une dépense importante de la part de BMO Nesbitt pour le compte du stagiaire. Le coût pour BMO Nesbitt de la fourniture du cours comprend le coût du matériel, des manuels et autres documents imprimés de formation, des séminaires, des instructeurs et formateurs salariés ainsi que des conseillers et conférenciers de l’extérieur dont les services sont retenus par BMO Nesbitt pour assurer la formation, des salles de classe, des chambres d’hôtel, des repas, du transport ainsi que les autres dépenses raisonnables engagées par BMO Nesbitt à l’égard du cours, d’un montant approximatif d’au moins 25 000 $ par stagiaire. Le stagiaire reconnaît que cette dépense est engagée par BMO Nesbitt en prévision du fait que le stagiaire continuera à travailler pour BMO Nesbitt afin de servir ses clients et que BMO Nesbitt et ses clients bénéficieront ainsi des services d’employés qui auront suivi le cours. Le stagiaire reconnaît en outre que s’il met fin à son emploi dans les trois années suivant la date des présentes ou si BMO Nesbitt procède à un licenciement motivé du stagiaire dans ce délai de trois ans, et si le stagiaire se livre à un acte de concurrence ou viole les obligations qui lui incombent en vertu de l’article 4.1 de la présente entente quant à la non‑sollicitation, BMO Nesbitt perdra les avantages prévus liés aux dépenses engagées pour le compte du stagiaire pendant le cours. Le stagiaire s’engage, s’il se livre à un acte de concurrence ou s’il enfreint l’article 4.1 après la cessation de son emploi, à payer sur demande à BMO Nesbitt :
+a) la somme de 25 000 $ si l’emploi du stagiaire prend fin dans les deux années qui suivent la date de la présente entente. [...]
+[4] L’expression [traduction] « acte de concurrence » et le mot [traduction] « période » sont définis comme suit au paragraphe 2.1 de l’entente :
+[traduction]
+2.1 « Acte de concurrence », selon l’utilisation de cette expression à l’article 2 de la présente entente, s’entend directement ou indirectement du fait de s’occuper de la vente ou de la fourniture d’une valeur mobilière, d’un produit ou d’un service qui est identique ou qui fait concurrence à une valeur mobilière, à un produit ou à un service vendu ou fourni par BMO Nesbitt au moment de la cessation d’emploi du stagiaire, ou du fait de participer à une telle vente ou à une telle fourniture, ou encore du fait d’aider de quelque manière que ce soit une personne dans l’une des activités suivantes, au cours de la période prévue ci‑dessous à l’article 2.2, dans la province où le stagiaire a été affecté à une succursale de BMO Nesbitt pendant le cours ou dans la province où le stagiaire devient conseiller en placement inscrit.
+2.2 « Période », selon l’utilisation de ce mot à l’article 2 de la présente entente, dépend du moment où il est mis fin à l’emploi du stagiaire et signifie :
+[...]
+b) la période de neuf mois qui suit la date de la cessation d’emploi, si cette cessation d’emploi a lieu au moins 12 mois, mais au plus une année et demie après la date des présentes;
+[5] L’appelant a cessé de travailler chez BMO Nesbitt Burns au mois de juin 2002; il a ensuite commencé à travailler chez TD Waterhouse à titre de conseiller en placement. Par conséquent, son emploi a pris fin au cours de la période visée à l’alinéa b) de la définition de la période susmentionnée. Étant donné qu’il avait commencé à travailler pour une maison rivale à titre de conseiller en placement, BMO Nesbitt Burns a intenté contre l’appelant, au mois d’octobre 2002, une action dans laquelle elle demandait des dommages‑intérêts de 25 000 $ pour rupture de contrat, pour violation d’une obligation fiduciaire et pour abus de confiance, ainsi que les intérêts avant et après jugement et les dépens. Le conseiller juridique interne de BMO Nesbitt Burns avait envoyé à l’appelant trois lettres portant une date antérieure à celle de l’introduction des poursuites judiciaires. Dans la première lettre datée du 6 juin 2002, l’avocat de BMO Nesbitt Burns fait savoir à l’appelant que celui‑ci est tenu de verser à BMO Nesbitt Burns la somme de 25 000 $ afin de dédommager celle‑ci des frais de formation, comme le prévoit l’article 2.3 précité de l’entente; il est également fait mention d’autres obligations incombant à l’appelant aux termes de cette entente. Le dernier paragraphe de cette lettre est libellé comme suit :
+[traduction]
+Nous espérons que vous vous conformerez aux conditions de l’entente et que nous n’aurons pas à prendre de mesures en vue d’en assurer l’application. Veuillez communiquer avec moi dans les sept jours qui suivront la date de la présente lettre en vue de prendre des dispositions aux fins du paiement des 25 000 $.
+[6] La somme de 25 000 $ mentionnée dans ce dernier paragraphe est la somme prévue à l’article 2.3 de l’entente, visant à dédommager BMO Nesbitt Burns des frais de formation.
+[7] Dans la lettre datée du 18 juin 2002, l’avocat interne de BMO Nesbitt Burns déclare notamment ce qui suit :
+[traduction]
+La présente fait suite à la lettre que nous vous avons envoyée le 6 juin 2002.
+Depuis que cette lettre a été rédigée, nous avons appris que vous sollicitez activement les anciens clients que vous aviez chez BMO Nesbitt Burns. Comme vous le savez, cela va à l’encontre des conditions de l’entente que vous avez conclue avec BMO Nesbitt Burns le 5 février 2001 (l’« entente »). Les obligations continues qui vous incombent aux termes de cette entente vous ont été signalées dans notre lettre antérieure.
+Nous vous demandons de cesser immédiatement de violer les conditions de l’entente que vous avez conclue. À défaut de ce faire, nous engagerons des poursuites judiciaires contre vous par suite de la violation de cette entente, et nous demanderons notamment une injonction en vue de vous empêcher de continuer à violer l’entente. Étant donné que vous n’avez pas communiqué avec moi afin de prendre des dispositions aux fins du paiement des 25 000 $, l’action qui sera intentée visera également à obtenir le paiement de cette somme.
+[8] La lettre datée du 9 août 2002 est brève; elle dit ce qui suit :
+[traduction]
+Vous n’avez pas répondu à notre lettre du 6 juin 2002 dans laquelle nous demandions le paiement d’une somme de 25 000 $ conformément à l’entente relative au stage de conseiller en placement que vous avez conclue avec BMO Nesbitt Burns. De plus, il semble que vous ayez sollicité des clients de BMO Nesbitt Burns, en violation de l’article 4.2 de cette entente.
+Par conséquent, nous sommes en train de rédiger une déclaration qui vous sera signifiée en temps et lieu.
+[9] La déclaration est celle dont il a ci‑dessus été fait mention. Les parties sont arrivées à un règlement au moyen d’un procès‑verbal de transaction daté du 25 août 2003. Le procès‑verbal de transaction indique que le litige a été réglé par suite du paiement par l’appelant, en faveur de Nesbitt Burns, d’une somme de 11 125 $, au moyen de cinq versements de 2 225 $ chacun. Le premier versement était payable le 26 août 2003, et le dernier versement était payable le 26 décembre 2003.
+[10] Le procès‑verbal de transaction n’indique pas la répartition de la somme que devait payer l’appelant. L’appelant croit comprendre que la somme globale payable aux termes du procès‑verbal de transaction se rapportait au remboursement des frais de formation. De plus, étant donné que la somme dont il a finalement été convenu dans le procès‑verbal de transaction est inférieure à la somme globale demandée aux fins du remboursement des frais de formation énoncée dans l’entente et puisque, dans les lettres de l’avocat interne de BMO Nesbitt Burns, il est constamment fait mention de la somme de 25 000 $ que l’appelant devait payer aux fins du remboursement des frais de formation, je conclus que la somme payée par l’appelant dans le cadre de la transaction relative à la poursuite dont celui‑ci faisait l’objet doit être considérée comme se rapportant au paiement de l’obligation incombant à celui‑ci en vertu du paragraphe 2.3 de l’entente, et qu’il s’agit donc du remboursement des frais de formation.
+[11] L’alinéa 8(1)f) de la Loi de l’impôt sur le revenu prévoit ce qui suit :
+8(1) Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[...]
+f) lorsque le contribuable a été, au cours de l’année, employé pour remplir des fonctions liées à la vente de biens ou à la négociation de contrats pour son employeur, et lorsque, à la fois:
+(i) il était tenu, en vertu de son contrat, d’acquitter ses propres dépenses,
+(ii) il était habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur,
+(iii) sa rémunération consistait en tout ou en partie en commissions ou autres rétributions semblables fixées par rapport au volume des ventes effectuées ou aux contrats négociés,
+(iv) il ne recevait pas, relativement à l’année d’imposition, une allocation pour frais de déplacement qui, en vertu du sous‑alinéa 6(1)b)(v), n’était pas incluse dans le calcul de son revenu,
+les sommes qu’il a dépensées au cours de l’année pour gagner le revenu provenant de son emploi (jusqu’à concurrence des commissions ou autres rétributions semblables fixées de la manière prévue au sous‑alinéa (iii) et reçues par lui au cours de l’année) dans la mesure où ces sommes n’étaient pas:
+(v) des dépenses, des pertes ou des remplacements de capital ou des paiements au titre du capital, exception faite du cas prévu à l’alinéa j),
+(vi) des dépenses qui ne seraient pas, en vertu de l’alinéa 18(1)l), déductibles dans le calcul du revenu du contribuable pour l’année, si son emploi relevait d’une entreprise exploitée par lui;
+(vii) des montants dont le paiement a entraîné la réduction du montant qui serait inclus par ailleurs dans le calcul du revenu du contribuable pour l’année en application de l’alinéa 6(1)e);
+[12] L’intimée ne conteste pas la question de savoir si les conditions énoncées aux sous‑alinéas (i) à (iv) sont remplies; elle soulève uniquement deux questions, à savoir si la somme qui a été versée constituait un paiement au titre du capital et, dans la négative, si la somme a été versée afin de permettre à l’appelant de gagner un revenu d’emploi chez BMO Nesbitt Burns ou chez TD Waterhouse. Il importe également de noter que l’appelant avait le droit de déduire certaines sommes pour d’autres dépenses en vertu de l’alinéa 8(1)f) de la Loi; l’intimée doit donc avoir reconnu que les conditions énoncées aux sous‑alinéas (i) à (iv) étaient remplies.
+[13] Dans la décision Setchell c. la Reine, 2006 CCI 37, [2006] 2 C.T.C. 2259, 2006 DTC 2279, la juge Woods a fait les remarques suivantes au sujet de la question de savoir si les frais de scolarité constituent des dépenses en capital :
+[21] Les faits de l’affaire Cormier sont très différents de ceux de l’espèce. Les principes généraux qu’il faut appliquer lorsqu’on cherche à savoir si des frais de scolarité sont des dépenses en capital ou non sont décrits dans le bulletin d’interprétation IT-357R2, qui traite des frais de formation. Toutes les décisions judiciaires que j’ai étudiées, y compris le jugement Cormier, adoptent ces principes.
+[22] Les frais de formation sont généralement déductibles comme frais courants s’ils ont été engagés pour conserver, mettre à jour ou améliorer une compétence ou un titre existant. [...]
+[14] Les paragraphes de synthèse du bulletin d’interprétation IT‑357R2 sont en partie rédigés comme suit :
+Les frais de formation ne sont pas déductibles comme frais courants s’ils constituent des dépenses en capital. On considère qu’il s’agit de dépenses en capital lorsque la formation procure un avantage durable pour le contribuable, c’est-à-dire lorsqu’une nouvelle compétence ou un nouveau titre est acquis. Par contre, on ne considère pas que les frais de formation sont des dépenses en immobilisations lorsqu’ils n’ont été engagés que pour conserver, mettre à jour ou améliorer une compétence ou un titre existant.
+[15] Par conséquent, certains frais de formation sont clairement déductibles au titre de frais courants, alors que d’autres sont considérés comme étant imputables au capital. En l’espèce, les frais de formation que l’appelant était tenu de rembourser à BMO Nesbitt Burns comprendraient des dépenses qui auraient été engagées afin de permettre à l’appelant de conserver, de mettre à jour ou d’améliorer une compétence ou un titre existant puisque la formation reçue comprenait une formation sur les logiciels de BMO Nesbitt Burns, une formation relative aux produits de placement offerts et une formation concernant les portefeuilles et les techniques de gestion. Par conséquent, la formation que l’appelant a reçue de BMO Nesbitt Burns comprendrait une formation dont le coût aurait été déductible au titre de frais courants. La formation comprenait peut‑être également une formation qui pourrait être considérée comme une dépense en capital. Toutefois, la somme que l’appelant a payée afin de régler la poursuite judiciaire que BMO Nesbitt Burns avait engagée contre lui n’a pas été répartie entre les montants dépensés en vue de rembourser BMO Nesbitt Burns des frais de formation qui constitueraient des dépenses en capital et ceux qui n’en constitueraient pas.
+[16] Dans la réponse qu’elle a déposée, l’intimée ne disait pas que la déduction de la somme en question avait été refusée pour le motif que cette somme était imputable au capital. Aucune hypothèse de fait n’a été émise sur ce point. Il n’était pas supposé que cette somme avait été versée au titre du capital. Par conséquent, la charge de la preuve sur ce point incombe à l’intimée.
+[17] Dans l’arrêt Pollock v. R., (1993), [1994] 1 C.T.C. 3, 94 DTC 6050 (C.A.F.), le juge Hugessen, au nom de la Cour d’appel fédérale, a fait les remarques suivantes :
+Cependant, lorsque le ministre n’a plaidé aucune supposition ou lorsque les suppositions qu’il a plaidées ont été en tout ou en partie démolies, il reste la possibilité au ministre, en tant que défendeur, de prouver, s’il le peut, le bien‑fondé de la cotisation qu’il a établie. À cette fin, il doit supporter le fardeau de preuve qui incombe ordinairement à toute partie à un procès, soit celui de prouver les faits qui étayent sa prétention à moins que ceux‑ci n’aient déjà été introduits en preuve par son adversaire. C’est une question de droit qui a fait l’objet d’une jurisprudence constante.
+[18] Dans l’arrêt Loewen c. R., 2004 CAF 146 (C.A.F.), la juge Sharlow, au nom de la Cour d’appel fédérale, a fait les remarques suivantes :
+Les contraintes imposées au ministre lorsqu=il invoque des hypothèses n=empêchent cependant pas Sa Majesté de soulever, ailleurs dans la réponse, des allégations de fait et des moyens de droit qui sont étrangers au fondement de la cotisation. Si Sa Majesté allègue un fait qui ne fait pas partie des faits présumés par le ministre, la charge de la preuve repose sur elle. Ce principe est bien expliqué dans la décision Schultz c. Canada, [1996] 1 C.F. 423, [1996] 2 C.T.C. 127, 95 D.T.C. 5657 (C.A.F.) (autorisation d=appel refusée [1996] A.C.S.C. no 4).
+[Je souligne.]
+[19] L’autorisation de porter en appel devant la Cour suprême du Canada la décision rendue par la Cour d’appel fédérale a été refusée (Loewen v. R., 338 N.R. 1985 (note) (C.S.C.)).
+[20] Étant donné qu’aucune hypothèse de fait n’a été émise au sujet de la question de savoir si les paiements étaient imputables au capital, la charge de prouver que ces paiements étaient imputables au capital reposait sur l’intimée. Or, étant donné qu’aucune preuve n’a été soumise au sujet de la répartition de la somme versée par l’appelant entre les montants dépensés à l’égard de frais de formation qui constitueraient des frais courants et les montants qui constitueraient des dépenses en capital, l’intimée n’a pas satisfait à l’obligation qui lui incombait sur le plan de la preuve, et la déduction des montants ne peut pas être refusée sur cette base.
+[21] Il s’agit ensuite de savoir si l’appelant a dépensé les montants en question afin de gagner un revenu chez BMO Nesbitt Burns ou chez TD Waterhouse. Puisqu’ils ont été dépensés après que l’appelant eut cessé de travailler chez BMO Nesbitt Burns, ces montants n’ont pas été dépensés afin de permettre à l’appelant de gagner un revenu chez BMO Nesbitt Burns.
+[22] Toutefois, étant donné qu’il avait conclu une entente préexistante avec BMO Nesbitt Burns, l’appelant devait, afin de gagner un revenu de commissions chez TD Waterhouse, se conformer à l’entente préexistante conclue avec BMO Nesbitt Burns; les montants versés aux termes de l’entente étaient donc des montants que l’appelant était tenu de verser afin d’être en mesure de gagner un revenu de commissions chez TD Waterhouse. L’appelant ne pouvait gagner un revenu de commissions chez TD Waterhouse que s’il avait cessé de travailler pour BMO Nesbitt Burns et, puisque le fait de cesser de travailler chez BMO Nesbitt Burns donnait lieu à l’obligation de rembourser BMO Nesbitt Burns des frais de formation aux termes de l’entente, les montants versés en vertu de l’entente l’ont été afin de permettre à l’appelant de gagner un revenu de commissions chez TD Waterhouse. Les honoraires d’avocat qui ont été payés se rattachaient directement à cette dépense et ont probablement été payés afin de réduire la somme que l’appelant devait verser aux termes de l’entente; ils ont donc également été versés afin de permettre à l’appelant de gagner un revenu de commissions chez TD Waterhouse.
+[23] Dans l’arrêt McNeill v. The Queen, 2000 DTC 6211, [2000] 2 C.T.C. 304, la Cour d’appel fédérale a conclu que les montants payés au titre de dommages‑intérêts aux termes d’une entente de non‑concurrence étaient déductibles, étant donné qu’ils avaient été payés afin de permettre à l’appelant de gagner un revenu. Dans cette affaire‑là, le contribuable était comptable agréé; il avait vendu son entreprise à un autre cabinet. Dans le cadre du contrat qui avait été conclu, le contribuable avait convenu de fournir aux acquéreurs des services de consultation et de comptabilité. De plus, au cours de la période de trois ans suivant la date de la vente, le contribuable devait agir avec une bonne foi absolue de manière à présenter les représentants des acquéreurs aux clients de son cabinet. En outre, le contribuable avait convenu de ne pas offrir de services comptables professionnels au public dans une zone géographique donnée pendant les cinq années suivant cette période initiale.
+[24] Dans l’affaire McNeill, les acquéreurs avaient résilié le contrat presque trois ans après que le contribuable eut vendu son cabinet, et ce, parce que le contribuable n’avait pas fourni les services prévus au contrat. Le contribuable avait alors ouvert un cabinet à l’extérieur de la zone géographique en question, mais il fournissait ses services à des clients résidant dans la zone en question.
+[25] Dans l’affaire McNeill, les acquéreurs s’étaient vu attribuer une somme élevée au titre des dommages‑intérêts et des dépens. Le contribuable avait été autorisé à déduire ces montants étant donné que la cour avait conclu que ces montants avaient été payés afin de permettre au contribuable de gagner un revenu, et que l’acte fautif n’était pas flagrant ou répugnant au point d’empêcher la déduction des dépenses. Le juge Rothstein (tel était alors son titre) a dit ce qui suit :
+Il est concevable que, dans le cas d’une condamnation civile à des dommages-intérêts, l’acte fautif soit à ce point flagrant ou répugnant que les dommages-intérêts auxquels le contribuable a été condamné ne puissent se justifier comme dépenses engagées en vue de tirer un revenu. Dans ces rares cas, c’est à juste titre que leur déduction serait refusée. Bien qu’en l’espèce, le juge de la Cour de l’impôt ait qualifié les agissements de l’appelant de répréhensibles, il a également conclu qu’ils visaient à conserver ses clients et son chiffre d’affaires. Nous sommes convaincus que les dommages-intérêts payés l’ont été en vue de tirer un revenu.
+[26] Dans l’arrêt McNeill, la Cour d’appel fédérale a également conclu que les montants étaient déductibles au cours de l’année où la décision avait été rendue par la cour qui avait accordé les dommages‑intérêts aux acquéreurs.
+[27] En l’espèce, les montants que l’appelant devait verser à BMO Nesbitt Burns ne découlaient pas d’un acte répugnant ou flagrant étant donné qu’ils avaient simplement été payés parce que l’appelant avait décidé de travailler pour une maison différente. L’entente n’interdisait pas à l’appelant de travailler pour une maison rivale, mais elle énonçait simplement les conséquences si l’appelant décidait de le faire.
+[28] Par conséquent, les montants que l’appelant a versés pour régler le litige qui l’opposait à BMO Nesbitt Burns ainsi que les frais juridiques connexes étaient déductibles dans le calcul du revenu de l’appelant pour l’année 2003. L’appel est donc accueilli avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant avait le droit de déduire, dans le calcul de son revenu pour l’année d’imposition 2003, la somme de 14 976,02 $ qu’il avait dépensée au titre d’honoraires d’avocat et au titre du règlement du litige qui l’opposait à BMO Nesbitt Burns.
+Signé à Halifax (Nouvelle-Écosse), ce 20e jour de septembre 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 13e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI560
+No DU DOSSIER DE LA COUR : 2006-2408(IT)I
+INTITULÉ : KEVIN DOUTHWRIGHT
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 13 septembre 2007
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 20 septembre 2007
+COMPARUTIONS :
+Représentant de l’appelant :
+M. E.C. DeFreitas
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

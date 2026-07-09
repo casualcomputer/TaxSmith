@@ -1,0 +1,327 @@
+---
+title: "Fournier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26040/index.do"
+last_modified: "2004-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 786"
+citation2: ""
+neutral_citation: "2004 CCI 786"
+decision_date: "2004-12-01"
+language: "fr"
+item_id: "26040"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4100
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:47:44.867000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a5f046bfb98f2993f98019ac759396d0e0432151821b6a959a882510a701cc2f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fournier c. La Reine
+
+- Citation: 2004 CCI 786
+- Decision date: 2004-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4100, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fournier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-12-01
+Référence neutre
+2004 CCI 786
+Numéro de dossier
+2003-4152(GST)I
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-4152(GST)I
+ENTRE :
+DOMINIQUE FOURNIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus les 19 et 20 août 2004 à Sherbrooke (Québec)
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Ginette Breton
+____________________________________________________________________
+JUGEMENT
+Les appels à l'égard des cotisations établies en vertu de la Loi sur la taxe d'accise (Loi), dont les avis sont en date du 5 juin 2003, sont accueillis, sans frais, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant pour acquis les éléments suivants : (i) que l'appelant a droit aux crédits de taxe sur les intrants (CTI) relativement aux biens ou services décrits aux rubriques 1 (Van GMC Savannah 1998 (2 317,00 $)) et 2 (VTT 4 roues) du mémoire sur opposition apparaissant à la pièce I-1, onglet « opposition » ; (ii) quant aux autres CTI, selon les concessions effectuées par l'une et l'autre partie, l'appelant a droit aux CTI décrits aux rubriques 16 (deuxième paragraphe), 23, 25, 27 (premier paragraphe), 34, 50, 53, 59, 60, 69, 86, 102 (jusqu'à concurrence de 68 $), 121, 122, 123, 125, 129, 135 (jusqu'à concurrence de 15,87 $) et 139 et à la moitié de ceux décrits aux rubriques 112, 113 et 114 du même mémoire; et, (iii) que la pénalité en vertu de l'article 285 de la Loi doit être annulée.
+Le tout selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 1er jour de décembre, 2004.
+« Pierre Archambault »
+Juge Archambault
+Référence : 2004CCI786
+Date : 20041201
+Dossier : 2003-4152(GST)I
+ENTRE :
+DOMINIQUE FOURNIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] Monsieur Dominique Fournier souffre de procédurite aiguë frisant le harcèlement. Tout d'abord, il a interjeté, le 29 juillet 2003, des appels selon la procédure informelle à l'encontre de cotisations établies en vertu de la Loi sur la taxe d'accise (Loi). Malheureusement, l'avis d'appel ne précise pas la période visée. Par contre, dans la réponse à l'avis d'appel de l'intimée, on indique les périodes suivantes : (1) du 1er avril 1996 au 30 juin 2000; (2) du 1er octobre 2000 au 31 décembre 2000; (3) du 1er avril 2001 au 30 juin 2001; (4) du 1er juillet 2001 au 30 septembre 2001 (périodes pertinentes).
+[2] Comme cela se produit souvent lorsque les contribuables se représentent eux-mêmes, l'avis d'appel déposé à l'encontre des cotisations établies par le ministre du Revenu national (ministre) est peu informatif quant aux questions en litige. Si monsieur Fournier s'en était tenu à cet avis d'appel, la situation n'aurait certainement pas été inhabituelle. Cependant, il a jugé bon de produire, le 7 juillet 2004, une « requête amendé [sic] » [1] dans laquelle il demande, en plus, que soient annulés les pénalités et les intérêts pour la période du 1er janvier 1996 au 30 septembre 2001, qu'on lui accorde tous les crédits de taxe sur les intrants (CTI) que le ministre lui avait refusés et que l'intimée soit condamnée à verser une somme de 32 624 276,62 $ ainsi qu'une somme de 100 000 $ en « dommages exemplaires » pour menace de mort, pour harcèlement et pour la constitution d'une hypothèque légale qui aurait détruit son entreprise[2]. La somme de 32 624 276,62 $ se ventille de la façon suivante[3] : demande de remboursement d'une somme de 90 $ versée en trop; « demande reconventionnelle » (cause 450-73-000208-11) de 31 474 172 $; « perte du travail Famille d'accueil » (cause 450-05-005168-022) 778 258,04 $; « demande crédit intrant perte dommages intérêts » (cause 450-17-000650-029) 33 463,20 $; « Salaire bill 22601 » (cause 450-05-005094-020) 348 293,38 $[4].
+[3] Il est important de mentionner que la demande de salaire a été déposée au greffe de la Cour supérieure du Québec le 23 septembre 2002. Monsieur Fournier réclamait à l'intimée des « honoraires tout à fait justifier [sic], pour la perception des taxes, 600.00$ par semaine » et pour « la gérance, les calculs, la comptabilité, les recherches, pour la perception des TPS et TVQ » . Le 14 février 2003, le juge Fournier de la Cour supérieure accueillait une requête en irrecevabilité au motif que la demande n'était pas fondée en droit, « supposé même que les faits allégués soient vrais » [5]. La somme de 778 258 $ était réclamée dans le cadre d'une poursuite à l'encontre de Centre Notre-Dame de l'Enfant Sherbrooke inc., Centre Jeunesse de l'Estrie et le procureur général du Québec. Elle représente des dommages-intérêts notamment pour la prétendue rupture du contrat en vertu duquel monsieur Fournier fournissait des services de « famille d'accueil » et pour atteinte à la réputation. En ce qui a trait à la réclamation de 31 474 172 $, elle a été faite dans une autre poursuite pour dommages et intérêts pour « perte de sa propriété » , et « pour avoir fait dévier la justice » dans les poursuites engagées contre l'Hôpital de Sept-Îles, et pour « perte de contestation forcée avec la C.S.S.T. » [6], etc.
+[4] Après la production de la réponse modifiée de l'intimée à l'avis d'appel, la Cour a envoyé le 3 juin 2004 un avis d'audition prévoyant une journée d'audience soit le 19 août 2004. Par la suite, monsieur Fournier a informé le greffe que l'audition pourrait durer une dizaine de jours parce qu'il voulait présenter une douzaine de témoins. Lors d'une conférence téléphonique tenue le 14 juillet 2004[7] qui a duré plus de deux heures, j'ai expliqué à monsieur Fournier que cette Cour n'avait pas compétence pour entendre des demandes de dommages-intérêts présentées contre le procureur général du Canada, encore moins de telles demandes présentées contre le procureur général du Québec et d'autres organismes administratifs.
+[5] En ce qui concerne plus précisément la question de son droit aux CTI, monsieur Fournier avait indiqué qu'il aurait à présenter 4 950 factures. Comme ce n'est pas au cours d'une audience devant la Cour qu'il convient d'effectuer une vérification, parce que ce travail doit avoir été fait avant de se présenter en cour et que les parties doivent, avant de s'y présenter, avoir déterminé quelles factures posent problème, j'ai encouragé fortement les parties à se rencontrer dans le but de soit régler à l'amiable leurs différends, soit, à tout le moins, de bien définir les questions en litige. Par exemple, les parties auraient pu regrouper les factures en fonction des problèmes cernées par elles.
+[6] Même si la procureure de l'intimée était réticente à être présente à cette rencontre, notamment parce que monsieur Fournier n'était pas représenté par un avocat, j'ai insisté pour qu'elle y participe, croyant que les parties auraient ainsi de meilleures chances d'atteindre les objectifs que je leur avais fixés. Malheureusement, cet espoir allait être déçu par l'attitude tatillonne et procédurière de monsieur Fournier. En effet, avant que la rencontre n'ait lieu, monsieur Fournier avait insisté pour que l'intimée lui fournisse des renseignements sur son relevé de compte afin qu'il sache quelles étaient les sommes que le ministère du Revenu du Québec (MRQ), comme mandataire du ministre, avait retenues en compensation des sommes que devait monsieur Fournier.
+[7] Comme la lettre de la procureure de l'intimée répondant en partie à sa demande ne lui aurait pas été envoyée dans le délai qu'il avait lui-même fixé, monsieur Fournier a refusé de participer à une rencontre avec cette procureure. Par conséquent, rien ou presque rien n'a été accompli avant l'audition de l'appel de monsieur Fournier.
+[8] Non seulement monsieur Fournier s'est-il présenté en cour sans avoir accompli les tâches que la Cour lui avait décrites, mais il a jugé bon de présenter une requête en irrecevabilité[8] datée du 2 août 2004. Au paragraphe 2 de cette requête, monsieur Fournier affirme que « les avis de cotisation du Sous procureur du Canada représentée [sic] par Maître Ginette Breton sont mal fondés en faits et en droit supposés [sic] même que les faits allégés [sic] soient vrais » . Voici les passages pertinents de cette requête :
+3.- On réclame à Monsieur le montant de $ 28 148.90 dans un relevé des arriérés[9] datés[10] du 13 juillet 2004,
+voir sous la cote P1
+4.- Dans le relevé en P1 daté du 7 juin 2004, le Sous Procureur du Canada réclame des pénalités et des intérêts inconcevable et irrecevable, regardé ce qui est souligné, $3 632.66 + $5 089.23 = $8 721.89 de pénalités et intérêts pour $1698.52 de taxe soit plus de 800% de plus, cela est frauduleux et irrecevable
+5.- De plus dans ses relevés le Sous Procureur du Canada, ne tient pas compte des montants retenus de force des intrants accordé, depuis 4 ans, il manque une rangée dans lequel on devrait voir, les montants retenus, indispensable en comptabilité, tout les citoyens Canadiens ont le droit de savoir tout les montants retenu de force, information tout à fait pertinente, pour que l'on face preuve d'honnêteté, et de transparence, du fait que l'on cache ses montants cela devient irrecevable VOIR EN P - 1 -
+(( 2 ))
+6.- Dans les faits si on regarde en P 1 daté du 7 juin 2004 on y voit un montant total pour toutes les périodes vis à vis taxe $ 14 580 04
+Celui daté du 13 juillet 2004 3 semaines plus tard $ 21 602,83 Question pourquoi ce montant a-t-il été changez cela est frauduleux et irrecevable
+7.- On retient des intérêts et des pénalités astronomique depuis plus de 4 ans mais chargez sur plus de 9 ans, et l'ordinateur du Sous Procureur ne va que 7 ans en arrière et on niasse la famille Fournier depuis 4 ans, c'est la guerre des nerfs, guerre d'usure et on contrevient ainsi à la charte Canadienne des droits et libertés ARTICLE 11-B- (tout inculpé à droit d'être jugé dans un délai raisonnable)
+4 ans cela des déraisonnable donc
+irrecevable
+8.- Dans les faits de droits juridique L'ARTICLE 11 - G - je cite ( tout inculpé à le droit de ne pas être coupable en raison d'une action ou d'une omission qui, au moment ou elle est survenue, ne constituait pas une infraction d'après le droit interne du Canada ou le droit international et n'avait pas de caractère criminel d'après les principes généraux de droit reconnus par l'ensemble des nations.) Le Sous Procureur du Canada cri à qui veut l'entendre que le travail effectué par Monsieur est tout à fait gratuit, du bénévolat de force, pourtant on ne donne aucune formation à notre travailleur, et quand on vérifie ses papiers on laisse à peu près tout passé ou presque, et quand on revient 2 ans après, on réclame pour les 4 ans passés, pénalités et intérêts, c'est complètement injuste et irrecevable
+[...]
+11.- En conférence téléphonique devant l'Honorable juge Pierre Archambeault, Juge pour la cour Canadienne de l'impôt, les partis le Sous Procureur Général du Canada représenté à la fois par Me Ginette Breton et Madame France Brazeau vérificatrice, ont convenu de fournir à Monsieur Dominique Fournier tous les montants concernant les crédits sur les intrants retenu depuis les 4 ans passé, et cela dans le plus bref délai, et il ont menti encore une fois, il n'ont rien fourni, irrecevable.
+[9] Cette requête en irrecevabilité devait être présentée le 19 août 2004, soit le jour prévu pour l'audition des appels de monsieur Fournier. Après avoir entendu les arguments présentés par monsieur Fournier au début de l'audience, je l'ai rejetée parce qu'elle me paraissait mal fondée et prématurée.
+[10] Tout d'abord, il faut rappeler que l'appel de monsieur Fournier est régi par la procédure informelle. Les principes sous-jacents à cette procédure veulent que de tels appels doivent être entendus de façon expéditive et avec le moins de procédure possible : notamment, aucune liste des pièces n'a à être produite, aucun interrogatoire préalable n'a à être tenu. Pour cette raison, il est rarement approprié de présenter des requêtes du genre de celle qu'a présentée monsieur Fournier et elles doivent être découragées[11]. De toute façon, même à supposer qu'il ait été approprié de l'entendre, il aurait fallu que j'entende toute la preuve pour que je puisse déterminer si les avis de cotisation établissant le montant des taxes nettes, des intérêts et des pénalités devaient être annulés.
+[11] Après que j'eus rendu ma décision, monsieur Fournier m'a informé qu'il désirait interjeter appel et que l'on ne pouvait pas commencer l'audition de ses appels. Je l'ai alors informé qu'il pourrait porter en appel ma décision sur la requête en irrecevabilité, mais une fois l'audition de ses appels terminée.[12] Comme monsieur Fournier m'avait indiqué son désir de quitter la salle d'audience, je l'ai prévenu que, s'il le faisait, il courait le risque que la procureure de l'intimée demande le rejet de son appel en raison de son absence. Je lui ai accordé cinq minutes de réflexion pour qu'il prenne une décision. Lorsque je suis revenu, monsieur Fournier s'est dit prêt à procéder à l'audition de ses appels.
+Les faits
+[12] En établissant la cotisation à l'égard de monsieur Fournier, le sous-ministre s'est notamment fondé sur les conclusions et les hypothèses de fait suivantes :
+a) l'appelant est un inscrit aux fins de l'application de la TPS; (admis)
+b) l'appelant exploite une entreprise sous le nom de « Tracto Diesel enr. » dans le domaine de la vente, l'échange et la réparation de machineries lourdes; (admis)
+c) au cours de la période du 1er avril 1996 au 30 septembre 2001, l'appelant était un mandataire du Sous-ministre pour les fins de la perception et de la remise de la TPS; (admis)
+d) bien que la vérification ait débuté le 1er avril 1996[13], les représentants du sous-ministre du Revenu ont tout de même analysé une facture antérieure à la période de vérification, considérant qu'elle avait été soumise par l'appelant, pour constater qu'elle n'était pas conforme sur plusieurs points, soit :
+- il s'agissait d'un achat en Ontario, le vendeur étant un particulier;
+- la facture d'achat a été préparée par l'acheteur, en l'occurrence l'appelant;
+- la facture ne porte aucune inscription de l'identification du vendeur comme inscrit;
+- aucune taxe n'a été facturée;
+(admis, sauf pour les passages soulignés)
+e) lors de l'achat du véhicule automobile (Van GMC Savana) Chevrolet Chevy Van 1998 intervenu en 1998, l'appelant a alors réclamé un CTI total qui fut annulé par le Sous-ministre du fait qu'il n'était pas utilisé, selon l'aveu même de l'appelant, à 90% pour les fins de son entreprise; (nié)
+f) suite aux représentations faites par l'appelant que l'information donnée à l'origine au vérificateur du Sous-ministre était erronée et que dans les faits le véhicule automobile était utilisé à 95% pour fins d'affaires, la Direction des oppositions annulait la cotisation aux fins d'accorder ledit CTI tout en précisant que le Sous-ministre se réservait le droit de cotiser à nouveau ce montant advenant qu'une éventuelle vérification révélait que les faits sur lesquels repose cette décision ne soient pas exacts; (admis)
+g) dans le cadre de la vérification faite pour la période du 1er avril 1996 au 30 juin 2000, l'appelant n'a pu justifier par des pièces documentaires que le véhicule automobile était exclusivement utilisé dans le cadre de ses activités commerciales; (nié)
+h) par décision sur opposition, le Sous-ministre maintint l'avis de cotisation tel qu'émis; (admis)
+j)[sic] le 13 septembre 2000, deux représentants du Sous-ministre se rendent à la place d'affaires de l'appelant, sise au 172, route 112, Bishopton, afin de débuter la vérification; (admis)
+k) la vérification permet de constater que la comptabilité de l'appelant est inadéquate, notamment en ce qui concerne sa tenue de livres et registres; (nié)
+l) le 18 septembre 2000, deux représentants du Sous-ministre se rendent à nouveau à la place d'affaires de l'appelant pour compléter leur vérification, mais l'appelant les informe qu'il ne leur permet plus de poursuivre leur vérification; (nié)
+m) le ou vers le 20 novembre 2000, le Sous-ministre expédie par huissier une demande péremptoire enjoignant l'appelant, dans un délai de quinze (15) jours de produire auprès du ministère du Revenu du Québec certains renseignements et documents; (ignoré)
+n) l'appelant n'a pas donné suite à la demande péremptoire; (ignoré)
+o) suite au défaut de l'appelant de donner suite à la demande péremptoire, celui-ci était condamné, en vertu de l'article 326(1) de la Loi sur la taxe d'accise (L.R.C., 1985, ch. E-15) (ci-après appelée la « Loi » ), à une amende de 1 000,00 $ dans le dossier portant le numéro 450-73-000208-011; (admis)
+p) faute par l'appelant de fournir les renseignements et documents exigés, le Sous-ministre a cotisé l'appelant en refusant la totalité des crédits de taxes sur les intrants que l'appelant avait réclamé [sic]; (ignoré)
+q) ce n'est qu'une fois cotisé que l'appelant a fourni les documents et renseignements aux représentants du Sous-ministre; (ignoré)
+r) l'analyse faite par les représentants du sous-ministre a permis d'établir des écarts de conciliation entre les montants admissibles selon les factures fournies et les montants réclamés; (ignoré)
+s) suite à l'analyse des documents et des renseignements transmis, les représentants du Sous-ministre constatent que la majorité des documents ou renseignements sont soient [sic] illisibles, altérés, incomplets, non conformes, ne se rapportent pas à l'activité commerciale de l'appelant ou sont de nature personnelle; (ignoré)
+t) l'appelant a réclamé des crédits de taxe sur les intrants relativement à des dépenses personnelles; (ignoré)
+u) l'appelant a réclamé des crédits de taxe sur les intrants relativement à des dépenses n'ayant aucun lien avec son activité commerciale, dont à titre d'exemple :
+u.1) l'appelant a réclamé des crédits de taxe sur les intrants aux fins de se faire payer une rémunération de 132 508,00 $ pour le travail relié à la perception de la TPS et de la taxe de vente du Québec (TVQ) au cours de la période du 1er janvier 1996 au 30 décembre 2000 à laquelle celui-ci ajoutait des intérêts de 2% capitalisés mensuellement; (ignoré)
+u.2) l'appelant a réclamé en trop, pour la période du 1er octobre 2000 au 31 décembre 2000, des crédits de taxe sur les intrants équivalant à (un CTI retenu par le Sous-ministre avec intérêt de 2% capitalisé mensuellement) 2% capitalisé mensuellement sur des crédits de taxe sur les intrants retenus par le sous-ministre et ce, bien que ladite retenue se justifiait par l'absence de collaboration de l'appelant à fournir ses pièces justificatives lors de la vérification effectuée; (ignoré)
+v) l'appelant a réclamé des crédits de taxe sur les intrants relativement à des dépenses auxquelles les pièces justificatives sont non conformes; (ignoré)
+[13] Il est important de décrire les événements qui sont survenus au cours de deux vérifications distinctes du ministre. Tout d'abord, le ministre a procédé en 1998 à une première vérification sommaire de la période du 1er avril 1998 au 30 juin 1998. Au service des soldes créditeurs, on avait remarqué une augmentation importante des CTI réclamés par monsieur Fournier et on lui a donc demandé des renseignements supplémentaires. Un des achats qui a retenu l'attention de la vérificatrice était l'achat d'une fourgonnette (fourgonnette) dont l'utilisation pour les affaires avait été décrite comme étant de 70 % à 90 %, selon les périodes de l'année. Le 18 septembre 1998, on informait monsieur Fournier qu'on lui refusait des CTI de 2 317 $ relativement à l'acquisition de ce véhicule. Selon le témoignage de la vérificatrice, aucun examen exhaustif n'a été fait des autres CTI réclamés par monsieur Fournier.
+[14] Lorsque la vérificatrice a été contre-interrogée par monsieur Fournier, il est devenu apparent qu'elle avait dans son dossier plusieurs factures, environ une quinzaine, relatives à plusieurs des achats à l'égard desquels monsieur Fournier réclamait des CTI. Certaines de ces factures avaient été établies par des fournisseurs de monsieur Fournier et contenaient tous les renseignements prescrits par la Loi. D'autres, par contre, avaient été dressées par monsieur Fournier lui-même en utilisant ses propres formulaires. D'autres pièces justificatives fournies par monsieur Fournier étaient plutôt des états de compte. Selon le témoignage de la vérificatrice, peu d'attention a été accordée à ces documents.
+[15] Monsieur Fournier a interjeté appel à l'encontre de la cotisation de 1998, alléguant qu'il s'était trompé lorsqu'il avait répondu qu'il utilisait la fourgonnette à des fins d'affaires 70 % à 90 % du temps. Dans les faits, selon lui, sa fourgonnette était utilisée à 93 % ou 95 % pour les affaires. Au stade des oppositions, on lui a donné le bénéfice du doute et a annulé la cotisation exigeant le remboursement d'une somme de 1 633,31 $ en lui disant que le ministre pourrait à nouveau changer d'idée si « une éventuelle vérification révèle que les faits sur lesquels reposent [sic] la présente décision n'étaient pas exacts » (pièce I-1, onglet Van 98, lettre du 22 juillet 1999).
+[16] La deuxième vérification a débuté chez monsieur Fournier le 13 septembre 2000 lorsque madame France Brazeau, du service de la vérification externe, s'est présentée au lieu d'affaires de monsieur Fournier. Elle a alors constaté que la tenue des livres de monsieur Fournier était déficiente. Cela l'a obligée à dresser une liste d'environ 5 000 pièces pour lui permettre de déterminer dans quelle mesure monsieur Fournier avait remis les montants de TPS qui étaient percevables et dans quelle mesure il avait droit aux CTI. L'écart entre le montant dû selon ses calculs et celui que monsieur Fournier avait déclaré comme taxes à percevoir s'élevait à 1 400 $. Monsieur Fournier a été incapable de justifier cet écart. En ce qui a trait aux CTI réclamés par monsieur Fournier, un bon nombre de factures ne réunissaient pas toutes les conditions exigées par la Loi pour y avoir droit. En particulier, les factures ne contenaient pas toutes les informations prescrites par règlement.
+[17] Lorsque la vérificatrice est retournée quelques jours plus tard pour terminer son travail de vérification, monsieur Fournier a refusé de lui donner accès aux documents de son entreprise. Même une demande péremptoire envoyée par le MRQ n'a pas changé la situation. Il n'est donc pas surprenant que monsieur Fournier a été reconnu coupable par la Cour du Québec et condamné à verser une somme de 1 000 $ par suite de son refus de répondre à la demande péremptoire[14].
+[18] Par conséquent, madame Brazeau a refusé les CTI pour les dépenses à l'égard desquelles elle n'avait pas obtenu les documents contenant les informations prescrites. Au stade des oppositions, monsieur Fournier a changé d'attitude. Il a fourni à l'agent des appels un dossier minutieusement préparé de pièces justificatives à l'appui de sa demande de CTI. Malheureusement pour monsieur Fournier, les factures qu'il a fournies représentaient en bonne partie des factures de fournisseurs qu'il avait lui-même dressées sur ses propres formulaires de facture et ces factures ne fournissaient pas, elles non plus - en tout cas pas celles qui ont été refusées par l'agent des appels - les renseignements prescrits par la Loi.
+[19] En ce qui a trait aux CTI, il est clair, que pour y avoir droit, monsieur Fournier devait fournir des pièces justificatives contenant les renseignements prescrits. Voici les dispositions législatives pertinentes :
+169(4) Documents - L'inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+b) dans le cas où le crédit se rapporte à un bien ou un service qui lui est fourni dans des circonstances où il est tenu d'indiquer la taxe payable relativement à la fourniture dans une déclaration présentée au ministre aux termes de la présente partie, il indique la taxe dans une déclaration produite aux termes de la présente partie.
+[Je souligne.]
+[20] C'est le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH), à son article 3, qui décrit les renseignements prescrits à fournir :
+3. Renseignements - Les renseignements visés à l'alinéa 169(4)a) de la Loi, sont les suivants :
+a) lorsque le montant total payé ou payable, selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures est de moins de 30 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l'intermédiaire,
+(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+(iii) si aucune facture n'a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celles-ci,
+(iv) le montant total payé ou payable pour la ou les fournitures;
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l'intermédiaire et le numéro d'inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur ou à l'intermédiaire, selon le cas,
+(ii) les renseignements visés aux sous-alinéas a)(ii) à (iv),
+(iii) dans le cas où la taxe payée ou payable n'est pas comprise dans le montant payé ou payable pour la ou les fournitures :
+(A) ou bien, la taxe payée ou payable pour toutes les fournitures ou pour chacune d'elles,
+(B) ou bien, si une taxe de vente provinciale est payable pour chaque fourniture taxable qui n'est pas une fourniture détaxée, mais ne l'est pas pour une fourniture exonérée ou une fourniture détaxée :
+(I) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour chaque fourniture taxable, ainsi qu'une déclaration portant que le total pour chaque fourniture taxable comprend la taxe payée ou payable selon cette section,
+(II) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour toutes les fournitures taxables, ainsi qu'une déclaration portant que ce total comprend la taxe payée ou payable selon cette section,
+(iv) dans le cas où la taxe payée ou payable est comprise dans le montant payé ou payable pour la ou les fournitures et que l'une ou plusieurs de celles-ci sont des fournitures taxables qui ne sont pas des fournitures détaxées :
+(A) une déclaration portant que la taxe est comprise dans le montant payé ou payable pour chaque fourniture taxable,
+(B) le total (appelé « taux de taxe total » au présent alinéa) des taux auxquels la taxe a été payée ou était payable relativement à chacune des fournitures taxables qui n'est pas une fourniture détaxée,
+(C) le montant payé ou payable pour chacune de ces fournitures ou le montant total payé ou payable pour l'ensemble de ces fournitures auxquelles s'applique le même taux de taxe total,
+(v) dans le cas où deux fournitures ou plus appartiennent à différentes catégories, une mention de la catégorie de chaque fourniture taxable qui n'est pas une fourniture détaxée;
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l'acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[Je souligne.]
+[21] Au cours de la première journée d'audition, j'ai rappelé à monsieur Fournier que le rôle de la Cour est d'appliquer la Loi et que la Cour ne serait pas en mesure de lui accorder des CTI, à moins que toutes les conditions édictées par la Loi soient réunies. Je lui ai fait valoir que des négociations pourraient peut-être lui permettre d'obtenir davantage que ce que la Cour pourrait elle-même lui accorder. Étant donné les relations difficiles que monsieur Fournier entretenait avec les représentantes de l'intimée, j'ai proposé que l'on passe rapidement en revue ensemble le mémoire de l'agent des appels afin de déterminer quelles dépenses pourraient faire vraiment l'objet d'un débat devant la Cour. Ce mémoire contient environ 40 pages d'éléments à l'égard desquels des CTI avaient été soit accordés ou refusés par l'agent des appels, et nous avons examiné chacun des éléments l'un après l'autre. À l'égard de plusieurs d'entre eux, monsieur Fournier s'est montré surpris de voir que l'agent des appels avait déjà accordé les CTI qu'il réclamait. Par la suite, monsieur Fournier s'est montré disposé à concéder que dans le cas de certains des CTI il n'avait pas réuni toutes les conditions nécessaires pour y avoir droit. Il a donc annoncé qu'il était prêt à renoncer à de nombreux CTI mentionnés dans le mémoire[15]. La procureure de l'intimée et sa représentante ont également reconnu le droit de monsieur Fournier à certains de ses CTI[16]. Cet examen a duré une bonne partie de la soirée, puisque la première journée d'audience s'est prolongée jusqu'à 21 h 30. L'examen en question, qui aurait dû avoir lieu avant l'audience, comme cela avait été suggéré, a permis à tout le monde de s'entendre sur les points qui devaient être débattus le lendemain, à savoir : (i) le droit de monsieur Fournier de réclamer des CTI à l'égard de la fourgonnette; (ii) son droit d'en réclamer à l'égard d'un véhicule tout terrain (VTT).
+[22] La deuxième journée de l'audience, monsieur Fournier a présenté sa version des faits relativement à l'acquisition de la fourgonnette et du VTT. La fourgonnette en question avait été acquise le 27 mai 1998 d'un concessionnaire GM au coût de 33 100 $ et devait en remplacer une autre. Selon monsieur Fournier, la fourgonnette a été utilisée à plus de 90% dans son entreprise d'achat et d'échange de machinerie lourde. Par contre, il a reconnu qu'elle avait été adaptée pour le transport de personnes handicapées et qu'il avait reçu une subvention dans le cadre d'un programme d'aide à la mobilité des personnes handicapées. Selon lui, la fourgonnette avait été utilisée à des fins personnelles durant la période de quatre ans allant de 1998 à 2002 pour un total de 6 512 kilomètres. Comme le kilométrage au compteur indiquait 96 549 kilomètres, 93,26 % du kilométrage avait été fait selon lui, à des fins commerciales. Il a aussi indiqué que son épouse, et cela est corroboré par le témoignage de cette dernière, avait une voiture (une Cavalier) qui était utilisée pour répondre aux besoins de la famille et que sa fille handicapée « ne sortait pas » souvent. De plus, comme les autres camions que monsieur Fournier utilisait dans son entreprise étaient des camions plus lourds pour le transport de la machinerie lourde, il utilisait principalement sa fourgonnette lorsqu'il se rendait aux encans pour faire l'achat de telle machinerie. Les coûts de transport pour se rendre aux encans étaient moins élevés avec la fourgonnette.
+[23] Dans son témoignage, la vérificatrice a indiqué qu'en raison des faits suivants elle avait conclu que la fourgonnette n'avait pas été utilisée exclusivement ou presque dans une activité commerciale. Tout d'abord, elle était équipée pour recevoir deux chaises roulantes et elle servait au transport de personnes handicapées. Il faut ajouter que monsieur Fournier a eu la garde d'autres personnes handicapées qu'il recevait chez lui en famille d'accueil. De plus, monsieur Fournier avait été incapable de fournir à la vérificatrice la preuve que la fourgonnette avait été assurée comme un véhicule utilisé à des fins commerciales. Les vérifications qu'elle avait faites auprès de la Société de l'assurance automobile du Québec lui avait permis d'apprendre que la fourgonnette était immatriculée comme simple voiture de promenade. Elle avait constaté également que monsieur Fournier avait un autre véhicule, qu'elle a décrit comme un « pick-up » et qui était utilisé dans son entreprise commerciale. En outre, on ne lui avait pas fourni de registre de kilométrage pour établir l'utilisation à des fins d'affaires. Selon elle, 1 000 kilomètres pouvaient faire la différence entre l'utilisation à 89 % et l'utilisation à 93 % : 89 % ne donnait pas droit aux CTI.
+[24] En ce qui a trait au VTT, monsieur Fournier a indiqué qu'il l'avait acquis pour l'aider à transporter certaines pièces nécessaires pour la réparation de sa machinerie lourde. Par suite des difficultés qu'il a éprouvées à obtenir les CTI pour ce véhicule, monsieur Fournier aurait décidé de le vendre et d'utiliser à sa place, à cette fin, un tracteur qui servait à la tonte du gazon de sa résidence.
+[25] En plus de la pénalité prévue à l'article 280 de la Loi, le ministre a établi une pénalité d'environ 325 $ en vertu de l'article 285 à l'égard du 2 % d'intérêt que réclamait monsieur Fournier au ministre pour le retard à lui remettre les CTI qu'il avait demandés mais qui avaient été gardés par le ministre en compensation des sommes dues par monsieur Fournier.
+Analyse
+[26] Tel qu'il a été mentionné précédemment, monsieur Fournier souffre de procédurite aigüe. D'ailleurs, il s'est décrit lui-même comme Me Dominique Fournier dans ses propres actes de procédures alors qu'il n'est ni avocat ni notaire! Autre fait surprenant, monsieur Fournier avait demandé un CTI pour l'achat d'une toge qu'un juge de la Cour du Québec lui aurait suggéré de porter lorsqu'il se présentait devant cette cour-là. Bien évidemment, monsieur Fournier n'a pas droit à ce CTI.
+[27] Monsieur Fournier prétend être harcelé par le MRQ et croit fermement, pour toutes sortes de motifs, avoir droit à des dommages et intérêts. Quels que puissent être ces motifs et leur bien-fondé, j'ai tenté à plusieurs reprises de lui expliquer que la Cour canadienne de l'impôt n'était pas le tribunal approprié pour exercer des recours en dommages-intérêts. De plus, la preuve a révélé que la tentative d'obtenir en Cour supérieure une somme de 258 672 $ comme honoraires pour la perception de la TPS avait été rejetée comme manifestement mal fondée au stade de la requête en irrecevabilité. Nonobstant cette décision de la Cour supérieure du Québec, monsieur Fournier s'entête à demander cette rémunération tout comme il persiste à demander des dommages et intérêts pour des dommages qu'il aurait subis.
+[28] Même si j'ai passé plus de deux heures à essayer de lui expliquer que cette Cour n'était pas le bon tribunal pour ces recours en dommages-intérêts, même si l'agent des appels l'avait informé à l'époque du dépôt de sa requête modifiant l'avis d'appel qu'il ne pouvait réclamer de tels dommages-intérêts, même après que monsieur Fournier eut informé les représentantes de l'intimée qu'il cesserait de harceler le ministère en réclamant de telles sommes, monsieur Fournier a réitéré, à la fin de sa plaidoirie sa demande de dommages-intérêts. La ténacité peut certainement être une bonne qualité, mais l'entêtement outrancier et abusif de monsieur Fournier constitue une conduite vexatoire qui a fait perdre beaucoup de temps à la Cour. L'audience, qui n'aurait pas dû durer plus d'une journée a nécessité deux journées complètes de 11 heures chacune. S'il ne s'était pas agi d'une procédure informelle, j'aurais condamné monsieur Fournier à des dépens pour avoir allongé inutilement l'audition de son appel. Je déplore que la Loi sur la Cour canadienne de l'impôt n'accorde pas à cette Cour le pouvoir de condamner un contribuable à payer des dépens dans de telles circonstances.
+[29] Relativement au bien-fondé de la cotisation, je suis prêt à accorder à monsieur Fournier le bénéfice du doute quant aux fins pour lesquelles la fourgonnette et le VTT ont été acquis. La disposition législative invoquée par l'intimée est le paragraphe 202(4) de la Loi.[17] Mais avant de déterminer si ce paragraphe est applicable « malgré les paragraphes (2) et (3), pour le calcul [du] crédit de taxe sur les intrants » de monsieur Fournier, il faut décider si le paragraphe 202(2) s'applique. Voici ce qu'il édicte :
+202(2) La taxe, sauf celle réputée payable par le paragraphe (4), payable par l'inscrit - particulier ou société de personnes - relativement à l'acquisition, à l'importation ou au transfert dans une province participante d'une voiture de tourisme ou d'un aéronef, qu'il acquiert, importe ou transfère ainsi pour utilisation comme immobilisation, n'est incluse dans le calcul de son crédit de taxe sur les intrants que s'il a acquis ou importé la voiture ou l'aéronef, ou l'a transféré dans la province, selon le cas, pour utilisation exclusive dans le cadre de ses activités commerciales.
+[Je souligne.]
+[30] Le mot « exclusif » est défini au paragraphe 123(1) de la Loi comme suit :
+« exclusif » S'entend, dans le cas des personnes autres que les institutions financières, de la totalité, ou presque, de la consommation, de l'utilisation ou de la fourniture d'un bien ou d'un service et, dans le cas des institutions financières, de la totalité de pareille consommation, utilisation ou fourniture.
+[31] La question qu'il aurait fallu trancher ici est celle de savoir si la fourgonnette constitue une voiture de tourisme. Selon le paragraphe 123(1), « voiture de tourisme » s'entend au sens du paragraphe 248(1) de la Loi de l'impôt sur le revenu (Loi de l'impôt). Ce paragraphe définit une telle voiture ainsi :
+248(1) « voiture de tourisme » Automobile acquise après le 17 juin 1987 - à l'exclusion d'une automobile acquise après cette date conformément à une obligation écrite contractée avant le 18 juin 1987 - ou automobile louée par contrat de location conclu, prolongé ou renouvelé après le 17 juin 1987.
+[32] Et le même paragraphe de la Loi de l'impôt définissait « automobile » ainsi en 1998 :
+248(1) « automobile » Véhicule à moteur principalement conçu ou aménagé pour transporter des particuliers sur les routes et dans les rues et comptant au maximum neuf places assises, y compris celle du conducteur, à l'exclusion des véhicules suivants :
+a) les ambulances;
+a.1) b) les véhicules à moteur acquis principalement pour servir de taxi, les autobus utilisés dans une entreprise consistant à transporter des passagers et les fourgons funéraires utilisés dans une entreprise consistant à organiser des funérailles;
+c) c) sauf pour l'application de l'article 6, les véhicules à moteur acquis pour être vendus ou loués dans le cadre de l'exploitation d'une entreprise de vente ou de location de véhicules à moteur et les véhicules à moteur utilisés pour le transport de passagers dans le cadre de l'exploitation d'une entreprise consistant à organiser des funérailles;
+d) d) les véhicules à moteur de type pick-up ou fourgonnette ou d'un type analogue :
+(i) comptant au maximum trois places assises, y compris celle du conducteur, et qui, au cours de l'année d'imposition où ils sont acquis, servent principalement au transport de marchandises ou de matériel en vue de gagner un revenu,
+(ii) dont la totalité, ou presque, de l'utilisation au cours de l'année d'imposition où ils sont acquis est pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu.
+248(1) "automobile" means
+(a) a motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and 8 passengers,
+but does not include
+(b) an ambulance,
+(c) a motor vehicle acquired primarily for use as a taxi, a bus used in a business of transporting passengers or a hearse used in the course of a business of arranging or managing funerals,
+(d) except for the purposes of section 6, a motor vehicle acquired to be sold, rented or leased in the course of carrying on a business of selling, renting or leasing motor vehicles or a motor vehicle used for the purpose of transporting passengers in the course of carrying on a business of arranging or managing funerals, and
+(e) a motor vehicle of a type commonly called a van or pick-up truck or a similar vehicle
+(i) that has a seating capacity for not more than the driver and 2 passengers and that, in the taxation year in which it is acquired, is used primarily for the transportation of goods or equipment in the course of gaining or producing income, or
+(ii) the use of which, in the taxation year in which it is acquired, is all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income;
+[Je souligne.]
+[33] Toutefois, la seule question soulevée à l'audience et à laquelle il faut répondre ici est la suivante : est-ce que la fourgonnette de monsieur Fournier a été acquise en 1998 pour utilisation en totalité, ou presque, dans le cadre de ses activités commerciales[18]? J'en viens à la conclusion que la fourgonnette a été acquise à de telles fins, puisque j'accepte le témoignage de monsieur Fournier à cet égard. Le fait qu'elle a été utilisée à 93 % à des fins d'affaires de 1998 à 2002 appuie l'affirmation de monsieur Fournier quant à son intention lors de l'acquisition en 1998.
+[34] Il est important de souligner que la Loi ne mentionne pas que la « totalité ou presque » correspond au chiffre de 90 %. L'interprétation administrative établissant ce chiffre ne lie pas les tribunaux, qui ont mentionné à plusieurs reprises qu'il n'y a pas de chiffre magique. Voici notamment ce qu'écrivait le regretté juge Taylor de cette Cour dans Wood v. M.N.R., [1987] 1 C.T.C. 2391, 2393, 87 DTC 312, 313 :
+The Minister's rule (from I.T.-171 (supra)) is that the Canadian income should be at least 90% of total income - the "90% rule". Obviously that is just a departmental assessing policy, and while arbitrary is undoubtedly a useful and functional mechanism in dealing with a difficult section of the Act, I would think the Minister might be hard-pressed to refuse a claim where the percentage was 89%, may be even 85% or 80% or lower - and that brings up this taxpayer's position which ends up to be about 70%. ($30,000 out of $42,500). [FOOTNOTE: Assumes that the $12,500 U.S. income has been "converted" into Canadian funds.] Clearly the term "substantially all"[19] does not lend itself to a simple mathematical formula. Further it would seem to me that any particular definition of "substantially" would be only valid with reference to the specific context in which it is found. [...]
+[Je souligne.]
+[35] À mon avis, le VTT n'est pas une voiture de tourisme parce qu'il n'est pas une « automobile » , à savoir un véhicule principalement conçu pour transporter des particuliers sur les routes ou dans les rues. Selon moi, il a été conçu pour transporter des particuliers en dehors des routes ou des rues[20]. Il faut alors appliquer la règle générale édictée au paragraphe 199(2), qui se lit comme suit :
+199(2) Acquisition d'immobilisations - Les règles suivantes s'appliquent à l'inscrit qui acquiert, importe ou transfère dans une province participante un bien meuble à utiliser comme immobilisation :
+a) la taxe payable par lui relativement à l'acquisition, à l'importation ou au transfert du bien n'est incluse dans le calcul de son crédit de taxe sur les intrants pour une période de déclaration que si le bien est acquis, importé ou transféré, selon le cas, en vue d'être utilisé principalement dans le cadre de ses activités commerciales;
+b) pour l'application de la présente partie, il est réputé avoir acquis, importé ou transféré le bien pour l'utiliser exclusivement dans le cadre de ses activités commerciales s'il l'a acquis, importé ou transféré, selon le cas, pour l'utiliser principalement dans ce cadre.
+[Je souligne.]
+[36] Ici la question est de savoir si le VTT avait été acquis « en vue d'être utilisé principalement dans le cadre des activités commerciales » de monsieur Fournier. À mon avis, le bénéfice du doute peut être accordé à monsieur Fournier à cet égard, comme cela a été indiqué précédemment. Il affirme avoir fait l'achat du VTT pour transporter des pièces sur son terrain pour la réparation de sa machinerie lourde. Par conséquent, il a droit à son CTI relativement à l'achat du VTT.
+[37] Au cours de la plaidoirie de la procureure de l'intimée, je lui avais indiqué que je croyais qu'une partie de la cotisation de monsieur Fournier devrait être annulée parce que, en ce qui concerne cette partie, la cotisation avait été établie en dehors de la période normale de cotisation spécifiée au paragraphe 298(1)[21] de la Loi; c'était le cas en particulier à l'égard de la période allant du mois d'avril 1996 au 30 juin 1997. Après réflexion, je ne crois pas que je puisse en arriver à une telle conclusion, et cela, pour deux raisons.
+[38] Tout d'abord, la preuve n'est pas suffisamment claire sur cette question. En effet, le ministre peut établir une nouvelle cotisation, sans avoir à prouver notamment que le contribuable a fait une présentation erronée des faits par négligence ou inattention ou en commettant une fraude[22], dans les quatre ans suivant « le dernier en date du jour où la personne [en l'occurence, monsieur Fournier] était tenue par l'article 238 de produire une déclaration pour la période et du jour de la production » des déclarations. Or, la preuve n'a pas révélé quand monsieur Fournier a produit ses déclarations de TPS pour les périodes en question. Il n'est donc pas possible de se baser uniquement sur la première des dates prévues dans la Loi, comme je l'ai fait lors de l'audience. On doit connaître les deux dates pertinentes pour pouvoir conclure à la prescription. De plus, comme cette question n'avait été soulevée ni par monsieur Fournier dans ses actes de procédure ni par moi au début de l'audience, l'intimée ne savait pas qu'elle devait présenter une preuve quant aux circonstances qui auraient pu justifier une cotisation en dehors de la période normale de cotisation. Invoquer la prescription pour annuler une partie de la cotisation dans ces circonstances constituerait donc une violation du principe d'équité procédurale.
+[39] En ce qui a trait à l'imposition de la pénalité en vertu de l'article 280 de la Loi, la jurisprudence a reconnu que l'on doit, pour qu'une telle pénalité soit annulée, démontrer qu'on a agi avec diligence dans le respect de ses obligations en vertu de la Loi. Tel qu'il a été reconnu dans l'affaire Corporation de l'École Polytechnique c. La Reine, 2004 CAF 127, [2004] A.C.F. no. 563 (Q.L.), il est clair que « l'ignorance de la loi ne constitue pas une excuse » [23] justifiant l'absence des renseignements prescrits. De plus, le fait que le ministre a pu, dans le passé, procéder à une vérification et qu'il n'a pas mentionné alors à monsieur Fournier qu'il n'avait pas droit aux CTI en raison du manque de pièces justificatives requises ne constitue pas non plus un moyen de défense pour monsieur Fournier. Nous sommes très loin du moyen de défense de l'erreur de droit provoquée par une personne ayant autorité. Dans Corporation de l'École Polytechnique, les juges Décary et Létourneau se sont référés aux propos qu'a tenus le juge en chef Lamer dans R. c. Jorgensen, [1995] 4 R.C.S. 55, et les ont résumés ainsi :
+[44] Enfin, le juge en chef conclut que, pour bénéficier de la défense d'erreur de droit provoquée par une personne en autorité, l'accusé doit établir « qu'il a commis une erreur de droit, qu'il a examiné sa position à l'égard de la loi, a consulté une personne en autorité compétente en la matière, a obtenu un avis raisonnable et s'est fondé sur cet avis pour accomplir ses actes » : ibidem, au paragraphe 36.
+[Je souligne.]
+[40] Monsieur Fournier a reconnu à plusieurs reprises que sa comptabilité était déficiente et il n'a pas non plus indiqué qu'il avait fait quelque démarche que ce soit auprès du MRQ pour s'enquérir de ses obligations en ce qui concerne la perception de la TPS et des conditions qu'il devait réunir pour avoir droit à des CTI. Des documents du ministre étaient disponibles à l'époque pour le renseigner, notamment le Mémorandum sur la TPS 400-1-2 du 8 novembre 1990, intitulé « Documents requis » , qui décrit les renseignements que doivent contenir les factures pour ouvrir droit aux CTI. Par conséquent, je n'ai aucune hésitation à conclure que c'est par indifférence que monsieur Fournier n'a pas pris les mesures nécessaires pour obtenir les renseignements qu'il fallait pour demander des CTI. La pénalité imposée en vertu de l'article 280 est bien fondée. Par contre, je ne suis pas prêt à conclure que monsieur Fournier a agi dans des circonstances équivalant à faute lourde en réclamant les CTI. Par conséquent, j'annule la pénalité imposée en vertu de l'article 285 de la Loi[24]. Toutefois, cette conclusion ne doit pas être interprétée par monsieur Fournier comme une autorisation à continuer à réclamer des CTI équivalant à « 2% capitalisé mensuellement sur des crédits de taxe sur les intrants retenus par le sous-ministre » , alors qu'il n'y a pas droit. S'il réclamait dans l'avenir de tels CTI, il pourrait ne pas avoir droit à autant de clémence de la part de cette Cour.
+[41] Pour tous ces motifs, les appels de monsieur Fournier sont accueillis et les cotisations sont déférées au ministre pour nouvel examen et nouvelles cotisations en tenant pour acquis les éléments suivants : (i) que l'appelant a droit aux CTI relativement aux biens ou services décrits aux rubriques 1 (Van GMC Savannah 1998 (2 317,00 $)) et 2 (VTT 4 roues) du mémoire sur opposition apparaissant à la pièce I-1, onglet « opposition » ; (ii) quant aux autres CTI, selon les concessions effectuées par l'une et l'autre partie, l'appelant a droit aux CTI décrits aux rubriques 16 (deuxième paragraphe), 23, 25, 27 (premier paragraphe), 34, 50, 53, 59, 60, 69, 86, 102 (jusqu'à concurrence de 68 $), 121, 122, 123, 125, 129, 135 (jusqu'à concurrence de 15,87 $) et 139 et à la moitié de ceux décrits aux rubriques 112, 113 et 114 du même mémoire; et, (iii) que la pénalité en vertu de l'article 285 de la Loi doit être annulée.
+Signé à Ottawa, Canada, ce 1er jour de décembre, 2004.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE :
+2004CCI786
+No DU DOSSIER DE LA COUR :
+2003-4152(GST)I
+INTITULÉ DE LA CAUSE :
+Dominique Fournier et La Reine
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+les 19 et 20 août 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Pierre Archambault
+DATE DU JUGEMENT :
+le 1er décembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimée :
+Me Ginette Breton
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il s'agit en fait d'un avis d'appel modifié, mais adressée à la fois à l'un des juges de la Cour du Québec, chambre civile, et à la Cour canadienne de l'impôt. Comme entête, on trouve les mentions suivantes : Canada, Cour du Québec, district de Saint-François, numéro 450-80-000171-032, Cour canadienne de l'impôt, 2003-4152(GST).
+[2] Quand une agente du greffe a tenté d'informer monsieur Fournier que cette Cour n'avait pas compétence pour entendre une telle demande, ce dernier a insisté pour que celle-ci soit versée au dossier.
+[3]
+Paragraphes 14 à 18 de la requête amendée.
+[4] Le montant mentionné dans la décision du juge Fournier dont il est fait état au paragraphe suivant était de 248 672,32 $.
+[5]
+Même si cette décision constituait chose jugée, cela n'a pas empêché monsieur Fournier de réitérer devant cette Cour sa demande de rémunération jugée sans fondement par la Cour supérieure du Québec.
+[6] Voir pièce A-2, onglet D-3, p. 4.
+[7] Il faut mentionner qu'au début de cette conférence téléphonique monsieur Fournier avait exigé que la vérificatrice de l'intimée soit absente du bureau de la procureure. Pour favoriser un meilleur échange, j'avais demandé que cette personne quitte ce bureau.
+[8] Cette requête en irrecevabilité, tout comme la requête amendée, fait référence à la Cour du Québec, dossier 450-80-000171-032, ainsi qu'à la Cour canadienne de l'impôt, dossier 2003-4152(GST).
+[9]
+Monsieur Fournier s'est plaint de l'utilisation du mot « arriéré » pour décrire les montants en souffrance qu'il devait à l'intimée. Selon lui, ce mot le faisait passer pour une personne de peu d'intelligence.
+[10] Le texte reproduit ici représente fidèlement le libellé de la requête.
+[11] Si une requête en irrecevabilité avait pu être présentée ici, c'est l'intimée qui aurait eu des motifs valables de le faire pour obtenir la radiation de tous les paragraphes de la requête amendée qui ont rapport avec les demandes de dommages-intérêts.
+[12] Les motifs de cette décision sont les suivants. Il n'est pas possible d'interjeter appel d'une décision interlocutoire dans un appel régi par la procédure informelle. Il ne peut être interjeté appel que d'un jugement définitif. Or, l'appel de monsieur Fournier, comme il a déjà été mentionné, est régi par la procédure informelle (l'article 18.3001 de la Loi sur la Cour canadienne de l'impôt). Ma conclusion repose sur les paragraphes 27(1.1) et (1.2) de la Loi sur les Cours fédérales, qui disposent comme suit :
+27(1.1) Sauf s'il s'agit d'une décision portant sur un appel visé aux articles 18, 18.29, 18.3 ou 18.3001 de la Loi sur la Cour canadienne de l'impôt, il peut être interjeté appel, devant la Cour d'appel fédérale, des décisions suivantes de la Cour canadienne de l'impôt :
+a) jugement définitif;
+b) jugement sur une question de droit rendu avant l'instruction;
+c) jugement ou ordonnance interlocutoire.
+27(1.2) Il peut être interjeté appel, devant la Cour d'appel fédérale, d'un jugement définitif de la Cour canadienne de l'impôt portant sur un appel visé aux articles 18, 18.29, 18.3 ou 18.3001 de la Loi sur la Cour canadienne de l'impôt.
+[Je souligne.]
+[13] La vérification aurait eu lieu en 1998.
+[14] Lors de son témoignage, monsieur Fournier a tenté de justifier sa conduite par le fait qu'il vivait à cette époque des moments difficiles, en particulier en raison des problèmes de santé de l'une de ses filles, qui souffre de paralysie cérébrale. Toutefois, il n'est nullement en preuve qu'il ait demandé au MRQ qu'on lui accorde plus de temps pour lui permettre de répondre à la demande péremptoire.
+[15] Il est à noter que beaucoup des CTI réclamés qui ont été soit acceptés ou refusés par le ministre représentaient des montants inférieurs à 20 $.
+[16] Ils sont décrits dans ma conclusion finale.
+[17] Voici ce qu'il dispose :
+202(4) Utilisation non exclusive d'une voiture de tourisme ou d'un aéronef - Malgré les paragraphes (2) et (3), pour le calcul de son crédit de taxe sur les intrants, l'inscrit - particulier ou société de personnes - qui, à un moment donné, acquiert ou importe une voiture de tourisme ou un aéronef, ou le transfère dans une province participante, pour utilisation comme immobilisation mais non exclusivement dans le cadre de ses activités commerciales et qui est tenu de payer une taxe relative à l'acquisition, à l'importation ou au transfert est réputé :
+a) avoir acquis la voiture ou l'aéronef le dernier jour de chacune de ses années d'imposition se terminant après le moment donné;
+b) avoir payé, ce jour-là et relativement à l'acquisition de la voiture ou de l'aéronef, une taxe égale au résultat du calcul suivant :
+A x B
+[...]
+[Je souligne.]
+[18] Lors de l'audition, le débat n'a jamais porté sur la question de savoir si la fourgonnette constituait une « voiture de tourisme » . Dans sa réponse, le ministre n'a pas invoqué comme fait à l'appui de sa cotisation que la fourgonnette comptait plus de trois places assises et n'avait pas été utilisée, en 1998, principalement au transport de marchandises ou de matériel « en vue de gagner un revenu » ou qu'elle n'avait pas été utilisée en 1998 en totalité ou presque pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu. Ici, il est possible que la fourgonnette ait été exclue de la définition de voiture de tourisme (notamment en vertu du sous-alinéa d)(ii) de la définition d'automobile). Il est donc possible que l'acquisition de la fourgonnette ne soit assujettie à la règle énoncée au paragraphe 202(2) de la Loi mais plutôt à celle du paragraphe 199(2) de la Loi. Toutefois, comme le débat n'a pas porté précisément sur cette question à l'audience et que la preuve n'est pas aussi claire qu'elle aurait dû l'être, je continuerai mon analyse en tenant pour acquis que la fourgonnette était une voiture de tourisme, comme les parties l'ont fait à l'audience. De toute façon, cela ne changera pas la portée de ma décision.
+[19] En français, on utilise l'expression « totalité, ou presque » dans la disposition pertinente (alinéa 115(1)f)) de la Loi de l'impôt.
+[20] Cette question n'a pas été débattue lors de l'audience. Toutefois, même si le VTT avait été une voiture de tourisme, j'aurais conclu qu'il avait été acquis pour être utilisé en totalité, ou presque, dans le cadre de l'entreprise commerciale de monsieur Fournier.
+[21] Cet article dispose :
+298(1) Période de cotisation - Sous réserve des paragraphes (3) à (6.1), une cotisation ne peut être établie à l'égard d'une personne en application de l'article 296 après l'expiration des délais suivants :
+a) s'agissant d'une cotisation visant l'un des montants suivants, quatre ans après le dernier en date du jour où la personne était tenue par l'article 238 de produire une déclaration pour la période et du jour de la production de la déclaration :
+(i) la taxe nette de la personne pour sa période de déclaration,
+(ii) un montant payable en vertu de l'article 230.1 relativement à un montant payé à la personne, ou déduit d'une somme dont elle est redevable, au titre du montant d'un remboursement prévu à la section V pour sa période de déclaration,
+(iii) un montant payable en vertu de l'article 230.1 relativement à un montant payé à la personne, ou déduit d'une somme dont elle est redevable, au titre des intérêts prévus à la section V applicables à un montant payé ou déduit au titre du montant d'un remboursement pour sa période de déclaration;
+[...]
+c) s'agissant d'une cotisation visant la taxe payable par la personne en application de la section II, sauf la taxe visée à l'alinéa b), quatre ans après le jour où la taxe est devenue payable;
+[...]
+e) s'agissant d'une pénalité payable par la personne, sauf la pénalité prévue à l'article 280, 285 ou 285.1, quatre ans après que la personne en est devenue redevable;
+[...]
+[22] 298(4) Exception en cas de négligence, fraude ou renonciation - Une cotisation peut être établie à tout moment si la personne visée a :
+a) fait une présentation erronée des faits, par négligence, inattention ou omission volontaire;
+b) commis quelque fraude en faisant ou en produisant une déclaration selon la présente partie ou une demande de remboursement selon la section VI ou en donnant, ou en ne donnant pas, quelque renseignement selon la présente partie;
+c) produit une renonciation en application du paragraphe (7) qui est en vigueur au moment de l'établissement de la cotisation.
+[Je souligne.]
+[23] À moins qu'il s'agisse d'une erreur de droit invincible tenant, par exemple, au fait que la loi n'a pas été publiée d'une manière satisfaisante. Voir par. 32 et 38 à 40 de cette décision.
+[24] Voici ce qu'édicte cette disposition :
+285 Faux énoncés ou omissions - Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse - appelés « déclaration » au présent article - établi pour une période de déclaration ou une opération, ou y participe, y consent ou y acquiesce, est passible d'une pénalité de 250 $ ou, s'il est plus élevé, d'un montant égal à 25 % de la somme des montants suivants :
+a) si le faux énoncé ou l'omission a trait au calcul de la taxe nette de la personne pour une période de déclaration, le montant obtenu par la formule suivante :
+A - B
+où :
+A représente la taxe nette de la personne pour la période,
+B le montant qui correspondrait à la taxe nette de la personne pour la période si elle était déterminée d'après les renseignements indiqués dans la déclaration;
+b) si le faux énoncé ou l'omission a trait au calcul de la taxe payable par la personne, l'excédent éventuel de cette taxe sur le montant qui correspondrait à cette taxe si elle était déterminée d'après les renseignements indiqués dans la déclaration;
+c) si le faux énoncé ou l'omission a trait au calcul d'un remboursement prévu par la présente partie, l'excédent éventuel du remboursement qui serait payable à la personne s'il était déterminé d'après les renseignements indiqués dans la déclaration sur le remboursement payable à la personne.

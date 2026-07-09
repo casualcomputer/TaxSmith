@@ -1,0 +1,156 @@
+---
+title: "ARCHIVED - Inter-Vivos Gifts of Capital Property to Individuals Directly or Through Trusts"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it209rsr/archived-inter-vivos-gifts-capital-property-individuals-directly-through-trusts.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Inter-Vivos Gifts of Capital Property to Individuals Directly or Through Trusts
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+SUBJECT: INCOME TAX ACT Inter-Vivos Gifts of Capital Property to Individuals Directly or Through Trusts
+
+NO. IT-209R
+
+DATE: February 12, 1996
+
+REFERENCE: SPECIAL RELEASE
+
+APPLICATION
+
+This Special Release revises Interpretation Bulletin IT-209R dated May 18, 1983.
+
+BULLETIN REVISIONS
+
+1. Paragraph 4 of the bulletin is revised for clarification and to take into consideration the amendment to the preamble of subsection 107(2) enacted under S.C. 1988, c.55 (formerly Bill C-139) applicable to distributions after 1987. Paragraph 4 of the bulletin now reads as follows:
+
+4. The examples are based on the following principles and assumptions:
+
+(a) The Department considers that a settlor and the trust created by the settlor, and a trust and its beneficiaries, operate at non-arm's length unless the facts of a particular situation indicate otherwise. The examples involving trusts assume that the parties involved are not dealing at arm's length. Those not involving trusts also assume that the donor and donee are not dealing at arm's length.
+
+(b) The capital beneficiary (i.e., a beneficiary that has a capital interest in a trust) did not purchase an interest in the personal trust.
+
+(c) No one has made an election to use Valuation Day values pursuant to subsection 26(7) of the ITAR.
+
+(d) Where depreciable property is being transferred, it is the only property in the class.
+
+(e) The provisions of subsections 107(4.1) and (5) do not apply.
+
+2. Paragraph 5 of the bulletin is revised to take into consideration the amendment to the definition of "cost amount" in subsection 248(1) enacted under S.C. 1994, c.7 (formerly Bill C-15) applicable after May 22, 1985. It also reflects the amendment to the preamble of subsection 107(2) enacted under S.C. 1988, c.55 (formerly Bill C-139) generally applicable to distributions after 1987. The discussion of "spouse trust" is changed to clarify that for purposes of subsection 73(1) it is the taxpayer and spouse trust that must be resident in Canada at the time a capital property is transferred by the taxpayer to the spouse trust. Finally, a reference on the extended meaning of "spouse," applicable after 1992, is added as a result of the introduction of subsection 252(4) by S.C. 1994, c.7. Paragraph 5 of the bulletin now reads as follows:
+
+5. The terms "cost amount," "spouse trust" and "spouse" are explained as follows:
+
+(a) Cost amount. Pursuant to paragraphs 107(2)(a) and (b), a personal trust or prescribed trust distributes property to a capital beneficiary for proceeds of disposition equal to its cost amount to the trust, and the capital beneficiary acquires the property at a cost equal to the trust's cost amount plus an additional amount in certain cases. "Cost amount" is stated in subsection 248(1) to be the adjusted cost base for a capital property other than depreciable property, and the undepreciated capital cost (UCC) for a particular depreciable property determined by multiplying the UCC of the class by the proportion that the capital cost of the particular property is of the capital cost of all properties of the class not previously disposed of. For purposes of the above calculation, the UCC of the class and the capital cost of each particular property of the class not previously disposed of will need to be restated, pursuant to paragraph (a) of the definition "cost amount" in subsection 248(1), where paragraph 13(7)(b) or (e) or subparagraph 13(7)(d)(i) applied in determining the capital cost of a particular property in the class.
+
+(b) Spouse Trust. A taxpayer creates a spouse trust for the benefit of the taxpayer's spouse (subsection 73(1)) where the spouse is entitled to receive all income of the trust that arises before the spouse's death, and only the spouse (prior to death) may receive or otherwise obtain the use of any of the income or capital of the trust. Both the taxpayer and the spouse trust must be resident in Canada at the time the property is transferred by the taxpayer to the spouse trust. In the examples where a spouse trust distributes property to the capital beneficiary, the assumption is that it is a distribution prior to the death of the spouse who is, therefore, the capital beneficiary.
+
+page 2
+
+(c) Spouse. Common-law couples that come within the "extended meaning of spouse" rules in subsection 252(4) are treated as spouses for purposes of the provisions discussed in this bulletin.
+
+As a result of the above, subsections 13(7) and 252(4) are added to the "REFERENCE" area on page 1 of the bulletin.
+
+3. In order to reflect paragraph 13(7)(e) enacted by S.C. 1986, c.6 (formerly Bill C-84) generally applicable with respect to property acquired after May 22, 1985, example (2) is modified by replacing the title with "A gift of depreciable property prior to May 23, 1985" and by adding example (2a):
+
+(2a)
+
+Reference
+
+A gift of depreciable property in 1995
+
+ASSUMPTIONS
+
+| CAPITAL cost of depreciable property to donor | $100.00 |
+
+| --- | --- |
+
+| UCC on date of gift | 75 |
+
+| FMV on date of gift | 110 |
+
+The capital gains deduction provisions in section 110.6 were not used in respect of the property by the donor.
+
+Results
+
+69(1)(b)
+
+The donor has deemed proceeds of disposition of $110 and therefore is subject to tax on a capital gain of $10 and recapture of CCA of $25.
+
+13(7)(e)
+
+For the purposes of paragraphs 8(1)(j) and (p), sections 13 and 20 and any regulations made for the purpose of paragraph 20(1)(a), the donee's capital cost will be $107.50 determined as follows:
+
+| Capital cost to donor immediately before the transfer |  | $100.00 |
+
+| --- | --- | --- |
+
+| Plus: 3/4 of the donor's proceeds of disposition | $110 |  |
+
+| less the donor's capital cost immediately before the transfer | 100 3/4 x 10 | 7.50 |
+
+| Donee's capital cost |  | $107.50 |
+
+69(1)(c) For all other purposes of the Act, the donee acquires the property at a deemed capital cost of $110.
+
+4. In order to illustrate the change to paragraph 20(1)(b) of the ITAR enacted by S.C. 1995, c.3 (formerly Bill C-59) applicable to acquisitions of property after May 22, 1985, example (7) is modified by replacing the title with "A gift of depreciable property prior to May 23, 1985 where the donor or someone not at arm's length with the donor had acquired the property prior to 1972" and by adding example (7b):
+
+| (7b) |  |  |  |
+
+| --- | --- | --- | --- |
+
+| Reference | A gift of depreciable property in January 1994 where the donor or someone not at arm's length with the donor had acquired the property prior to 1972. ASSUMPTIONS Capital cost of depreciable property to donor $100 FMV on Valuation Day 105 UCC on date of gift 75 FMV on date of gift 115 The donor is an individual (other than a trust) resident in Canada. In computing taxable income, the donor claims a capital gains deduction of $6, in respect of the disposition, pursuant to subsection 110.6(3). RESULTS |  |  |
+
+| Capital cost of depreciable property to donor | $100 |  |  |
+
+| FMV on Valuation Day | 105 |  |  |
+
+| UCC on date of gift | 75 |  |  |
+
+| FMV on date of gift | 115 |  |  |
+
+| 69(1)(B) | Under paragraph 69(1)(b) the donor has deemed proceeds of disposition of $115, which is called "proceeds of disposition thereof otherwise determined" in subsection 20(1) of the ITAR. The deemed proceeds of disposition under paragraph 20(1)(a) are then calculated as follows: |  |  |
+
+| 20(1) | Capital cost $100 |  |  |
+
+| Capital cost | $100 |  |  |
+
+| (ITAR) | Proceeds of disposition as otherwise determined $115 less: FMV on Valuation Day 105 10 Deemed proceeds $110 less: Capital cost 100 Capital gain $ 10 The donor therefore is subject to tax on the recapture of CCA of $25 and on $1.50 (the taxable capital gain of $7.50 less the $6 capital gains deduction). |  |  |
+
+| Proceeds of disposition as otherwise determined | $115 |  |  |
+
+| less: FMV on Valuation Day | 105 | 10 |  |
+
+| Deemed proceeds |  | $110 |  |
+
+| less: Capital cost |  | 100 |  |
+
+| Capital gain |  | $ 10 |  |
+
+| 20(1)(b)(i) (ITAR) | The donee is deemed to acquire the depreciable property at a capital cost of $110 for all purposes of the Act except where paragraph 13(7)(e) applies. |  |  |
+
+| 13(7)(e)(i) | In such a case the donee's capital cost for purposes of paragraphs 8(1)(j) and (p), sections 13 and 20 and any regulations made for the purpose of paragraph 20(1)(a), will be $101.50 determined as follows Capital cost to donor immediately before the transfer $100.00 Plus: 3/4 of the donor's proceeds of disposition $110 less: - the donor's capital cost immediately before the transfer $100 - 4/3 of the donor's capital gains deduction (4/3 x $6) 8 3/4 x 2 108 1.50 Donee's capital cost $101.50 |  |  |
+
+| Capital cost to donor immediately before the transfer |  |  | $100.00 |
+
+| Plus: 3/4 of the donor's proceeds of disposition | $110 |  |  |
+
+| less: - the donor's capital cost immediately before the transfer | $100 |  |  |
+
+| - 4/3 of the donor's capital gains deduction (4/3 x $6) | 8 3/4 x 2 | 108 1.50 |  |
+
+| Donee's capital cost |  |  | $101.50 |
+
+|  |  |  |  |
+
+5. The margin references to "107(2)(b)" in examples (4), (12) and (16) of the bulletin are changed to "107(2)(d)."
+
+If you have any comments regarding the matters discussed in this special release, please send them to:
+
+Director, Technical Publications Division Policy and Legislation Branch Revenue Canada 875 Heron Road Ottawa ON K1A 0L8

@@ -1,0 +1,204 @@
+Title: Burnett c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520962/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-99-520962-burnett-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2022-08-31
+
+# Burnett c. Le Roi
+
+- Citation: 2022 CCI 99
+- Decision date: 2022-08-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4488, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burnett c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-08-31
+Référence neutre
+2022 CCI 99
+Numéro de dossier
+2018-2752(IT)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-2752(IT)G
+ENTRE :
+GREGORY CLIFFORD BURNETT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 24 et 25 novembre 2021 à Vancouver (Colombie-Britannique)
+Devant : l’honorable juge Bruce Russell
+Comparutions :
+Avocat de l’appelant :
+Me John Drove
+Avocat de l’intimée :
+Me Mark Shearer
+JUGEMENT
+L’appel de l’appelant interjeté à l’égard des deux cotisations établies le 19 janvier 2017 pour ses obligations aux termes de l’article 227.1 de la Loi de l’impôt sur le revenu est rejeté, avec dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 31e jour d’août 2022.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 10e jour de juillet 2023.
+Elisabeth Ross, jurilinguiste
+Référence : 2022 CCI 99
+Date : Le 31 août 2022
+Dossier : 2018-2752(IT)G
+ENTRE :
+GREGORY CLIFFORD BURNETT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+I. Contexte
+[1] L’appelant, Gregory Clifford Burnett, interjette appel de deux cotisations établies le 19 janvier 2017 pour sa responsabilité au titre de l’article 227.1 de la Loi de l’impôt sur le revenu. Le paragraphe 227.1(1) établit la responsabilité des administrateurs de la société à l’égard des retenues à la source non versées par la société dont ils sont administrateurs.
+[2] Canadian Noble Cut Diamonds Ltd. (« CNCD ») est une société constituée en vertu des lois de la Colombie-Britannique.
+[3] Les deux cotisations faisant l’objet du présent appel sont respectivement de 36 028,49 $ et de 42 092,80 $ et elles portent sur des retenues à la source non versées par CNCD pendant les périodes mensuelles de janvier 2011 à avril 2012 inclusivement. Durant ces périodes, M. Burnett était un administrateur de CNCD.
+[4] Ensemble, les deux sommes établies dans les cotisations sont constituées de l’impôt fédéral et provincial sur le revenu, des cotisations au Régime de pensions du Canada ainsi que des cotisations d’assurance-emploi, étant donné qu’il s’agit de retenues à la source sur les salaires, qui n’ont pas été versés par CNCD pendant ces périodes mensuelles. Les sommes comprenaient également les pénalités et les intérêts connexes.
+II. Question en litige
+[5] La question en litige est de savoir si M. Burnett peut invoquer la défense de la diligence raisonnable prévue au paragraphe 227.1(3) de la Loi. Cette défense exonère de la responsabilité issue du paragraphe 227.1(1) l’administrateur qui « a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement [de verser des sommes] qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables. »
+III. Preuve
+[6] M. Burnett a témoigné. En résumé, son témoignage est qu’il est un conseiller en marchés financiers se concentrant sur les opérations de financement et de structuration pour l’inscription en bourse d’entreprises émergentes. Il a été administrateur de nombreuses sociétés privées et publiques durant ses trente années de carrière dans ce domaine.
+[7] Il a été présenté à CNCD en 2010 et y a fait un placement en titres de capitaux propres de 100 000 $. Il a affirmé qu’il avait récolté un million de dollars en financement pour CNCD. En août 2010, il a été nommé administrateur de CNCD et a également été nommé secrétaire et trésorier de CNCD.
+[8] CNCD exploitait une entreprise de taille de diamants, située dans un lieu sûr à Vancouver. Un stock important de diamants bruts, semi-finis et finis était conservé dans ces locaux.
+[9] Le conseil d’administration de CNCD formé de trois personnes se rencontrait de façon informelle à peu près mensuellement. Les deux autres membres du conseil d’administration étaient MM. S. Ben-Oliel et R. Fraser. Le premier était président de CNCD et connaissait l’industrie du diamant. Il dirigeait les opérations quotidiennes de CNCD. Le second était un partenaire d’affaire de M. Burnett dont les services avaient été retenus par CNCD en tant que conseiller. Ils ne dressaient pas de procès-verbaux des réunions. Il a affirmé que chaque membre du conseil prenait des notes aux réunions, bien qu’aucun exemplaire de ces notes n’ait été présenté à titre d’éléments de preuve.
+[10] M. Burnett a affirmé qu’à chaque réunion du conseil, il demandait à M. Ben-Oliel si les versements des retenues à la source étaient à jour. La réponse était toujours que tout était à jour et qu’il n’y avait aucun problème. M. Burnett acceptait ces déclarations orales. Il a qualifié cette question de type [traduction] « cocher la case » en ce qui concerne les obligations mensuelles de CNCD relatives aux salaires.
+[11] M. Burnett a dit :
+[traduction]
+Je posais toujours les questions, toujours, vous savez, je cochais la case avec la personne chargée des comptes, car la personne déclarante, M. Ben-Oliel, me disait qu’il n’y avait pas de problème, c’est à jour, mais je ne me suis jamais senti obligé d’aller vérifier de façon indépendante. Je n’avais jamais eu à le faire par le passé, et je n’ai juste jamais entendu qu’il s’agissait de quelque chose dont on s’attendrait d’un administrateur indépendant. (Transcription, p. 44.)
+[12] M. Burnett ne faisait rien dans le cadre de ses fonctions de secrétaire et de trésorier de CNCD. Il n’avait pas accès au compte bancaire de CNCD et n’était pas signataire autorisé. Il se considérait comme un administrateur externe, et il n’était pas impliqué dans l’exploitation de l’entreprise de CNCD.
+[13] Il a dit que CNCD avait seulement trois ou quatre employés, y compris M. Ben-Oliel, un agent administratif et un tailleur de diamants. Il pensait que les versements des retenues à la source n’auraient pas été élevés – de l’ordre de 3 000 $ à 4 000 $. Il a souligné que ces versements étaient des sommes beaucoup plus petites que le million de dollars qu’il avait recueilli pour CNCD.
+[14] M. Burnett a dit : [traduction] « Je crois qu’il est important de souligner, pour que tout le monde ait une idée, que le nombre d’employés de cette société et la masse salariale étaient très peu élevés par rapport à la valeur de deux millions de dollars de la société et le million de dollars que nous avons injecté dans la société. » (Transcription, p. 23.)
+[15] Pour M. Burnett, la priorité était de faire préparer des états financiers vérifiés de CNCD. Ils étaient nécessaires si CNCD devait être acceptée à titre de société cotée en bourse. Un cabinet comptable a été embauché peu après qu’il s’est joint au conseil, pour vérifier les états financiers de fin d’exercice de CNCD pour l’exercice se terminant le 31 août 2010.
+[16] Pour M. Burnett, cela s’est avéré un processus frustrant et fastidieux, qui s’est prolongé jusqu’en 2011.
+[17] Le cabinet comptable embauché en 2010 n’a pas réussi à produire des états financiers vérifiables. L’incapacité à produire des registres fiables qui pouvaient être vérifiés était un signe de problèmes chez CNCD. En avril 2011, les services de M. William Grossholz, un ancien comptable de l’Agence du revenu du Canada (l’« ARC »), ont été retenus pour tenter de venir à bout des comptes de CNCD.
+[18] Parallèlement, des problèmes relatifs aux capacités et aux intentions de M. Ben-Oliel en tant de superviseur de la société ont fait surface.
+[19] M. Grossholz n’a pas non plus été capable d’obtenir les renseignements organisationnels requis pour produire des registres fiables pour CNCD.
+[20] Quoi qu’il en soit, en 2011, M. Burnett ne s’est pas inquiété des versements des retenues à la source.
+[21] On lui a demandé en contre-interrogatoire s’il avait donné moins d’importance au compte de retenues sur la paie qu’aux autres choses qui se passaient, notamment la préparation du bilan, la recherche de financement supplémentaire et l’accroissement de la valeur de la société. Il a répondu :
+[traduction]
+Oui, c’était une chose d’importance relative. Et, encore, il est facile de jeter un regard en arrière et de dire, ma foi, vous savez, cela représentait vraiment 50 000 ou 60 000 dollars. C’était une chose d’importance relative qu’il y avait des choses plus importantes, selon mon évaluation, sur lesquelles se concentrer avec l’étendue de ces réunions. Et, encore, je ne dis pas que la question n’a pas été soulevée, qu’elle n’a pas été abordée. Simplement que ce n’était pas une préoccupation, pas une préoccupation de haut niveau pour moi, puisque la taille de la masse salariale, je – encore, je savais, je sais que j’ai témoigné à ce sujet, il n’y avait que deux ou trois ou quatre employés. Je savais que la masse salariale était un très petit montant par rapport aux flux de trésorerie de la société, aux biens de la société. Alors, cela ne faisait pas partie de mes préoccupations comme une chose à risque élevé à laquelle j’aurais dû accorder une plus grande attention avec le recul, compte tenu, vous savez, que nous sommes ici aujourd’hui. (Transcription, p. 57 et 58; non souligné dans l’original.)
+[22] La situation était telle qu’en avril 2012, les administrateurs Burnett et Fraser ont fait cesser l’entreprise de CNCD, car CNCD était toujours incapable de produire des états financiers vérifiés ou des renseignements financiers fiables. De même, en juillet 2012, ils avaient obtenu la démission de M. Ben-Oliel à titre de président et administrateur de CNCD. Les services d’un comptable, M. L. Andrews, ont été retenus pour récupérer les éléments d’actifs de CNCD pour les vendre afin d’indemniser les investisseurs de CNCD.
+[23] M. Burnett a témoigné que, pour lui, le premier signe de problèmes concernant les versements des retenues à la source est apparu en octobre 2012 lorsqu’il a reçu une lettre de l’ARC qui lui était adressée, datée du 4 octobre 2012, et qu’on lui avait envoyé en sa qualité d’administrateur de CNCD. Elle donnait avis du manquement de CNCD de verser les retenues à la source et de la responsabilité potentielle de M. Burnett en sa qualité d’administrateur à la hauteur de 63 140,80 $.
+[24] En contre-interrogatoire, on a demandé à M. Burnett si [traduction] « l’incapacité de maîtriser les affaires financières [...] avait eu une incidence sur le versement d’impôt? » Il a répondu ceci :
+[traduction]
+Je n’ai pas fait de lien entre cela et les minuscules versements des retenues à la source qui étaient faits chaque mois, prétendument, et qui selon M. Ben-Oliel avaient été faits chaque mois. Cela [c.-à-d. l’incapacité de maîtriser les affaires financières] était un problème beaucoup plus large à mon avis... [c]ela touchait à la viabilité même de la société. (Transcription, p. 47.)
+[25] Lors de son contre-interrogatoire, M. Burnett a été renvoyé à son avis d’appel, où il soutenait (par. 9c)) que lui et son collègue administrateur M. Fraser avaient demandé à leur collègue administrateur M. Ben-Oliel à intervalles mensuels réguliers de produire la comptabilité et les registres financiers de CNCD, [traduction] « y compris les registres concernant les comptes de retenues sur la paie et de la TPS et la preuve que ces versements avaient été faits », sans que de tels registres ne soient produits.s
+[26] M. Burnett a répondu que c’était [traduction] « fondamentalement correct ». Il n’avait pas dit cela dans son témoignage direct. La raison pour laquelle il a répondu que l’acte de procédure était correct, [traduction] « fondamentalement », n’a pas été précisée.
+[27] On lui a également demandé pourquoi, alors qu’aucune preuve de versement n’avait été fournie, il n’avait pas communiqué avec l’ARC. Il a répondu ceci :
+[traduction]
+Je n’ai jamais fait cela, monsieur, en 30 ans, sortir de la structure hiérarchique d’une société qui est établie et convenue. Ce que nous avons toujours fait, dans chaque société avec laquelle j’ai travaillé, il y a une personne responsable, un dirigeant de haut niveau, il s’agirait du directeur financier ou d’un cadre supérieur, qui prenait la responsabilité de rendre compte au conseil sur ces sujets. Et j’ai toujours cru que je pouvais raisonnablement me fier aux déclarations de cette personne. Et comme je l’ai dit plus tôt, je n’ai jamais eu l’occasion en 30 ans de passer par en arrière et de vérifier les choses de façon indépendante avec l’ARC à titre d’administrateur externe. Et je n’ai même jamais entendu, comme je l’ai mentionné à la Cour plus tôt, je n’ai même jamais entendu qu’un indépendant [sic] ait jamais fait cela. Alors, ce n’est simplement pas quelque chose qui me venait à l’esprit comme étant une chose à même envisager de faire. (Transcription, p. 58; non souligné dans l’original.)
+[28] On l’a interrogé à propos du compte de retenues sur la paie à l’été 2012, après que les activités de CNCD avaient pris fin en raison de préoccupations à l’égard d’un manque de probité de la haute direction. Est-il possible qu’il y ait eu un manque de probité à l’égard du compte de retenues sur la paie? Sa réponse, en partie, a été la suivante :
+[traduction]
+[...] les choses sont tellement claires avec du recul, d’accord? Je ne me préoccupais pas qu’il puisse y avoir une dette importante avec l’ARC compte tenu de la taille minuscule de la masse salariale et du nombre d’employés. Je n’ai jamais pensé que cela pourrait causer indirectement un passif important pour la société alors qu’il y avait un nombre plus grand de choses qui se passaient, des choses de l’ordre des six chiffres, à tenter de comprendre, vous savez, pourquoi cette pièce d’équipement a été achetée sans nous en parler et où ce transfert de 90 000 $ est passé. (Transcription, p. 63; non souligné dans l’original.)
+[29] On a demandé à M. Burnett pourquoi il n’y avait eu aucune communication avec l’ARC avant la réception de la lettre de l’ARC du 4 octobre 2012, pour déterminer si tout était en ordre de ce côté. Il a répondu ce qui suit :
+[traduction]
+Encore, monsieur, je suis un administrateur indépendant ici. Je n’exploite pas cette entreprise. Je ne gère pas la société. Je ne suis pas – je suis externe – je n’ai pas – mon rôle dans cette société est de faire affaire avec le conseil d’administration. (Transcription, p. 64.)
+[30] Après avoir reçu la lettre de l’ARC, l’attention et les actions de M. Burnett sont restées concentrées à tenter de saisir des biens pour repayer les investisseurs; mais maintenant également pour rembourser l’ARC à l’égard des retenues non versées. Les efforts de M. Andrews, dont il a été question plus haut, dont les services avaient été retenus pour localiser des biens qui pouvaient être saisis, ont été vains. La principale difficulté était le manque de documentation confirmant le droit de propriété de CNCD à l’égard de certains biens.
+[31] Également, M. Burnett et d’autres investisseurs ont intenté une action en justice contre M. Ben-Oliel et CNCD pour recouvrer des biens. Toutefois, elle n’est pas allée de l’avant après qu’on a ordonné aux demandeurs de consigner d’abord 50 000 $ au tribunal pour les dépens.
+[32] L’autre témoin appelé à la barre par l’appelant était l’ancien comptable de l’ARC, mentionné plus haut, M. Grossholz. Celui-ci était un comptable respecté, et ses services ont été retenus en avril 2011 par l’administrateur M. Fraser pour aider à produire des états financiers de CNCD, y compris pour l’exercice s’étant terminé le 31 août 2011. Il a affirmé avoir trouvé que CNCD avait des problèmes du fait du manque de rapprochement des comptes bancaires et de suivi des stocks, aggravés par le fait que trois sociétés exploitées par M. Ben-Oliel (l’une d’entre elles étant CNCD) se partageaient le même lieu de travail.
+[33] M. Grossholz a également témoigné que ses questions aux membres du personnel administratif chargés de la tenue de livres de CNCD ne recevaient pas de réponses. Il a dit qu’il avait trouvé une dette fiscale de CNCD d’environ 30 000 $. Il croyait que CNCD n’avait pas versé les retenues à la source, faute d’argent. Après presque un an, il n’était pas en mesure de fournir des états financiers comme on le lui avait demandé.
+[34] Lors de son contre-interrogatoire, M. Grossholz a témoigné que la direction de CNCD, qui selon lui était constituée de MM. Fraser et Ben-Oliel, était déjà au courant de la [traduction] « dette de retenues salariales ». On a questionné M. Burnett à ce sujet et il a dit que M. Grossholz relevait directement de l’administrateur M. Fraser, que M. Burnett disait faisait partie de la direction, car CNCD avait retenu ses services à titre de conseiller indépendant.
+[35] L’intimée, la Couronne, a appelé le dernier témoin à la barre, M. Brent Barr, un agent principal des recouvrements de l’ARC. Son témoignage a mis en lumière les différentes mesures de recouvrement habituellement prises, y compris dans la présente affaire. Ces mesures comprenaient communiquer avec CNCD et ses administrateurs pour tenter d’organiser ou de négocier l’acquittement des versements dus. Cela comprenait la lettre du 4 octobre 2012 envoyée à M. Burnett, laquelle, selon ce dernier, a été le premier signe lui indiquant qu’il existait un problème concernant les versements des retenues à la source.
+[36] D’autres mesures de recouvrement comprenaient la remise d’une exigence de paiement à l’institution financière concernée, mais en l’espèce le compte de CNCD avait été fermé en avril 2012 lorsque la société avait cessé d’exploiter son entreprise. L’ARC s’est ensuite tournée vers la saisie des biens de la société. La dernière mesure, comme en l’espèce, est d’établir une cotisation à l’égard des administrateurs.
+[37] M. Burnett dit qu’il a communiqué avec l’ARC en novembre 2012, pour indiquer des biens qui, selon lui, pouvaient être saisis. Il s’agissait des mêmes biens que M. Burnett et ses associés tentaient de recouvrer, sans succès.
+[38] Conformément au paragraphe 227.1(1) de la Loi, un certificat établissant la responsabilité de CNCD a été enregistré à la Cour fédérale le 20 décembre 2013.
+[39] Le 22 septembre 2016, M. Burnett a écrit à l’ARC sur du papier portant l’en-tête de CNCD pour donner des renseignements sur les biens de CNCD qui pouvaient être recherchés aux fins de recouvrement. Il s’agissait des mêmes biens que M. Burnett et les autres avaient déjà tenté de récupérer, par l’intermédiaire de M. Andrews, et aussi de M. D. Martin qui était l’investisseur principal dans CNCD, ainsi que par les poursuites judiciaires dont il est fait mention plus haut.
+[40] L’ARC a également été incapable de localiser des biens précis de CNCD qui pouvaient être saisis et vendus. Son bref de saisie-exécution a été renvoyé le 16 décembre 2016, portant le timbre [traduction] « incapable de trouver les biens à saisir ».
+IV. Les thèses des parties
+[41] L’avocat de l’appelant a soutenu que M. Burnett avait établi qu’il pouvait plaider la défense de la diligence raisonnable, parce qu’il avait demandé à chaque réunion du conseil si les versements fiscaux étaient à jour. M. Burnett était également un administrateur externe ne jouant aucun rôle dans l’exploitation de l’entreprise de CNCD. Il a également soutenu que les efforts faits pour remédier aux manquements, plutôt que ceux visant simplement à prévenir ces manquements en premier lieu, étaient importants dans l’application de la défense.
+[42] De plus, même si la thèse n’a pas été plaidée, M. Burnett invoque le délai entre la fin 2012, lorsqu’il a informé pour la première fois l’ARC que des biens pouvaient être récupérés, et la fin 2016, lorsque le bref de saisie-exécution établi par l’ARC à la fin 2013 a été retourné sans avoir été exécuté.
+[43] L’avocat de l’intimée a fait valoir que l’appelant n’avait pas établi le droit d’invoquer la défense de la diligence raisonnable. L’appelant n’avait pas véritablement montré d’intérêt ni donné la priorité à s’assurer que les versements étaient faits à temps ni même s’ils étaient faits tout simplement. La question de type [traduction] « cocher la case » que posait l’appelant à chaque réunion du conseil était insuffisante pour permettre l’application de la défense.
+V. Discussion et décision
+[44] Je me penche d’abord sur l’affirmation de l’appelant selon laquelle le bref de saisie-exécution de l’ARC n’avait pas été envoyé pour exécution rapidement. Cette affirmation n’a pas fait l’objet d’observations. De plus, notre Cour n’a pas compétence sur les mesures de recouvrement ou sur l’absence de celles-ci. Quoiqu’il en soit, les mesures de recouvrement ou l’absence de celles-ci n’auraient pas de poids juridique sur la validité des cotisations portées en appel.
+[45] Notons entre parenthèses que les biens que M. Burnett avait énumérés comme pouvant faire l’objet d’un recouvrement étaient les mêmes biens que M. Burnett et les autres avaient eux-mêmes tenté en vain de saisir pendant environ la même période. De plus, M. Barr a témoigné sur les différentes mesures que les agents de recouvrement prennent habituellement avant de se tourner vers la saisie d’actifs.
+[46] Pour de ce que la Cour doit trancher, laquelle est de savoir si l’appelant, M. Burnett, peut invoquer la défense de la diligence raisonnable, la question est de savoir s’il avait « exercé le degré de soin, de diligence et de compétence pour prévenir le manquement [de faire les versements] que l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances. »
+[47] M. Burnett a clairement dit qu’il se considérait comme un administrateur externe, et qu’à ce titre il n’était pas responsable de la gestion de CNCD, et par conséquent n’était pas responsable des retenues à la source non versées. Il affirme que, dans son cas, pour qu’il puisse se prévaloir de la défense de la diligence raisonnable, il était suffisant qu’il ait [traduction] « coché la case » à chaque réunion des administrateurs, en s’enquérant de l’état des versements des retenues à la source et en obtenant la réponse orale de M. Ben-Oliel, un collègue administrateur et le président de CNCD, selon laquelle les versements des retenues à la source étaient à jour.
+[48] Par ailleurs, il considérait que toute question relative aux versements des retenues à la source était [traduction] « minuscule » comparativement à la protection de l’investissement de un million de dollars dans CNCD qu’il avait attiré (vraisemblablement aussi son placement de 100 000 $ dans le capital-actions de la société). Il a dit que la raison pour laquelle son attention était entièrement concentrée sur les registres comptables requis pour introduire CNCD en bourse, plutôt que de vérifier si l’ARC avait reçu les versements requis au-delà de vérifications à peu près mensuelles de type [traduction] « cocher la case », était une question [traduction] « d’importance relative ».
+[49] Presque dès le début de son mandat d’administrateur en août 2010, M. Burnett était au courant des difficultés à obtenir des états financiers fiables de la part de CNCD. Au moment de sa nomination ou vers cette date, un cabinet comptable a été nommé pour qu’il aide à produire les états financiers désirés. M. Burnett a témoigné que [traduction] « c’était une chose très importante pour [lui] » :
+[traduction]
+Il s’agit d’une obligation pour les sociétés privées qui veulent s’inscrire en bourse de produire des états financiers vérifiés [...] [a]lors, il s’agissait d’une chose très importante pour moi, et nous avons consacré beaucoup de temps et d’efforts à tenter de faire vérifier les livres et registres de la société. (Transcription, p. 24; non souligné dans l’original.)
+[50] Même alors que la situation financière de CNCD s’assombrissait au fil des mois qui ont suivis en raison de l’absence continue de registres financiers fiables, M. Burnett était sincère en affirmant que, parce c’était plus important, il s’était concentré uniquement sur la position financière de CNCD plutôt que, ou en plus, de vérifier la question de savoir si les versements des retenues à la source étaient à jour.
+[51] Comme il est indiqué plus haut, M. Burnett a dit que [traduction] « cela ne faisait pas partie de mes préoccupations comme une chose à risque élevé à laquelle j’aurais dû accorder une plus grande attention avec le recul ».
+[52] M. Burnett a dit que, étant donné qu’il se considérant comme étant un administrateur externe, il n’avait aucunement la responsabilité de communiquer avec l’ARC pour confirmer si les versements exigés par la loi étaient à jour. Il ne pouvait envisager de communiquer un jour avec l’ARC, même après avoir échoué à obtenir la preuve demandée que ces versements avaient été faits. Communiquer avec l’ARC serait la tâche d’autrui.
+[53] L’arrêt de la Cour d’appel fédérale Canada c. Buckingham, 2011 CAF 142, établit les principes clés concernant la défense de diligence raisonnable prévue au paragraphe 227.1(3). Les paragraphes 37 à 40, 52 et 58 de l’arrêt Buckingham sont rédigés ainsi :
+37. Par conséquent, je conclus que la norme de soin, de diligence et d’habileté exigée au paragraphe 227.1(3) de la Loi de l’impôt sur le revenu et au paragraphe 323(3) de la Loi sur la taxe d’accise est une norme objective comme l’a énoncé la Cour suprême du Canada dans Magasins à rayons Peoples.
+38. Cette norme objective écarte le principe de common law selon lequel la gestion d’une société par un administrateur doit être jugée suivant les compétences, les connaissances et les aptitudes personnelles de celui-ci : Magasins à rayons Peoples, aux paragraphes 59 à 62. Si l’on qualifie cette norme d’objective, il devient évident que ce sont les éléments factuels du contexte dans lequel agissent l’administrateur qui sont importants, plutôt que les motifs subjectifs de ce dernier : Magasins à rayons, au paragraphe 63. L’apparition de normes plus strictes force les sociétés à améliorer la qualité des décisions des conseils d’administration au moyen de l’établissement de bonnes règles de régie d’entreprise : Magasins à rayons Peoples, au paragraphe 64. Des normes plus strictes empêchent aussi la nomination d’administrateurs inactifs choisis pour l’apparence ou qui ne remplissent pas leurs obligations d’administrateurs en laissant aux administrateurs actifs le soin de prendre les décisions. Par conséquent, une personne nommée administrateur doit activement s’acquitter des devoirs qui s’attachent à sa fonction et il ne lui sera pas permis de se défendre contre une allégation de malfaisance dans l’exécution de ses obligations en invoquant son inaction : Kevin P. McGuinness, Canadian Business Corporations Law, 2e édition.
+39. Une norme objective ne signifie toutefois pas qu’il ne doit pas être tenu compte des circonstances propres à un administrateur. Ces circonstances doivent être prises en compte, mais elles doivent être considérées au regard de la norme objective d’une « personne raisonnablement prudente ». […]
+40. L’objectif de l’examen prévu aux paragraphes 227.1(3) de la Loi de l’impôt sur le revenu et 323(3) de la Loi sur la taxe d’accise différera toutefois de celui qu’exige l’alinéa 122(1)b) de la LCSA, car les premières dispositions requièrent que l’administrateur s’acquitte de son obligation de soin, de diligence et d’habileté de manière à prévenir les défauts de versement. Pour invoquer ces moyens de défense, l’administrateur doit par conséquent démontrer qu’il s’est préoccupé des versements requis et qu’il s’est acquitté de son obligation de soin, de diligence et d’habileté afin de prévenir le défaut de la société de verser les montants visés.
+[…]
+52. Le Parlement n’a pas requis des administrateurs qu’ils soient assujettis à une responsabilité absolue relativement aux versements de leurs sociétés. En conséquence, le Parlement accepte qu’une société puisse, dans certaines circonstances, ne pas effectuer des versements sans que la responsabilité de ses administrateurs ne soit engagée. Ce qui est requis des administrateurs, c’est qu’ils démontrent qu’ils se sont effectivement préoccupés des versements fiscaux et qu’ils se sont acquittés de leur obligation de soin, de diligence et d’habileté afin de prévenir le défaut de la société de verser les montants visés.
+[…]
+58. Le juge de première instance a en conséquence eu raison de conclure qu’un moyen de défense fondé sur le paragraphe 323(3) de la Loi sur la taxe d’accise ne pouvait être invoqué après le mois de février 2003, compte tenu de sa conclusion voulant que l’objectif de l’intimé n’était plus d’éviter les défauts de versement des taxes dues. […]
+[Non souligné dans l’original.]
+[54] En ce qui concerne le paragraphe 227.3(3), je conclus que M. Burnett essentiellement a fait preuve d’un degré nul de soin, de diligence et d’habileté pour prévenir les manquements de CNCD de faire les versements. La question posée à chaque réunion sur les versements des retenues à la source était simplement pour lui, dans ses propres mots, un exercice de type [traduction] « cocher la case ».
+[55] Il a également témoigné que l’observation dans son avis d’appel selon laquelle il demandait également sur une base mensuelle la production de registres financiers, y compris en ce qui concerne l’état et la preuve de paiement relatifs au compte de retenues sur la paie (ce qu’il n’a pas dit dans son interrogatoire principal), était [traduction] « fondamentalement correcte ».
+[56] Mais à aucun moment M. Burnett n’a pris le téléphone pour contacter l’ARC afin de confirmer si les versements des retenues à la source étaient à jour, pas même devant le signal d’alarme que constituait l’incapacité à obtenir des états financiers valides de la part de CNCD. Il était d’avis qu’il s’agissait de la tâche d’autrui, et non pas de la sienne puisqu’il était un administrateur externe. Il n’y avait même aucun élément de preuve montrant que M. Burnett ait demandé à quelqu’un d’autre de faire le suivi auprès de l’ARC.
+[57] On peut dire, comme, je crois, y a fait allusion l’avocat de l’intimée, que simplement poser une question du type [traduction] « cocher la case » ne constituait pas en soi un effort pour prévenir le manquement à l’obligation de faire les versements des retenues à la source en temps opportun. Au contraire, c’est se limiter à demander si un tel manquement s’est produit ou non.
+[58] L’omission d’exercer un degré considérable de soin et d’habileté est directement contraire aux enseignements de l’arrêt Buckingham, dans lequel la Cour d’appel fédérale (CAF) précise, au paragraphe 52, que, pour que la défense de la diligence raisonnable s’applique, les administrateurs doivent « démontre[r] qu’ils se sont effectivement préoccupés des versements fiscaux et qu’ils se sont acquittés de leur obligation de soin, de diligence et d’habileté afin de prévenir le défaut de la société de verser les montants visés » [non souligné dans l’original].
+[59] Cela ne s’est pas produit avec M. Burnett. Il a plutôt précisé que, pour des raisons [traduction] « d’importance relative », il avait mis l’accent sur le fait d’introduire CNCD en bourse, ensuite, de tenter de sauver par la saisie-exécution de biens le million de dollars en investissement qu’il avait obtenu pour CNCD. Il n’a démontré aucunement qu’il s’était préoccupé sérieusement des versements des retenues à la source.
+[60] Ce n’est pas ce qu’une « personne raisonnablement prudente » aurait fait. Dès janvier 2011, une personne raisonnablement prudente dans des circonstances analogues (c’est-à-dire étant administratrice depuis au moins quatre mois et s’inquiétant de plus en plus de l’incapacité continue de CNCD à produire des états financiers vérifiables) serait allée au-delà de l’étape [traduction] « cocher la case » et aurait demandé une preuve documentaire faisant état des versements des retenues à la source et, faute de cette preuve, cette même personne aurait rapidement contacté (ou fait en sorte que soit contactée) l’ARC pour savoir si les versements des retenues à la source étaient à jour.
+[61] Toutefois, en l’espèce, ce n’est que presque deux ans plus tard, en octobre 2012, que M. Burnett a appris qu’il y avait d’importants manquements dans les versements et, même à ce moment-là, il l’a appris parce que l’ARC avait communiqué avec lui précisément, et non vice versa.
+[62] Le fait que M. Burnett puisse avoir été un administrateur externe ne l’aide pas. L’arrêt Buckingham établit clairement que la « norme objective » du critère à utiliser pour juger de la conduite des administrateurs exige que les administrateurs en général portent une attention importante à la question. Il est écrit au paragraphe 38 :
+Par conséquent, une personne nommée administrateur doit activement s’acquitter des devoirs qui s’attachent à sa fonction, et il ne lui sera pas permis de se défendre contre une allégation de malfaisance dans l’exécution de ses obligations en invoquant son inaction. [Non souligné dans l’original.]
+[63] En outre, on pourrait se questionner sur l’ampleur de la non-participation de M. Burnett à l’exploitation de l’entreprise de CNCD. Premièrement, CNCD était une petite société en démarrage qui n’avait pas la structure interne officialisée de grandes sociétés. Deuxièmement, il était aussi, après tout, le secrétaire et trésorier de CNCD. Troisièmement, il s’inquiétait de l’absence de registres financiers vérifiables, ce qui est une préoccupation tournée vers l’intérieur de l’entreprise. Quatrièmement, il s’occupait, avec son collègue administrateur M. Fraser, de poser des questions à M. Andrews et M. Grossholz quant à leurs mandats respectifs à l’égard de CNCD. De plus, lui et son collègue administrateur M. Fraser se sont mis en ensemble pour payer les honoraires de M. Andrews. Enfin, ladite lettre du 22 septembre 2016 à l’ARC vient précisément de CNCD, M. Burnett ayant signé pour le compte de CNCD.
+[64] L’avocat de l’appelant renvoie à l’arrêt Balthazard, 2011 CAF 331, en faisant valoir que l’attention que M. Burnett a mise à remédier aux défauts de versement (par des efforts en vue de saisir et de vendre les actifs de la société) est pertinente (en plus des efforts à prévenir de ces défauts) pour établir l’application pour son client de la défense de diligence raisonnable prévue par la loi.
+[65] Dans l’affaire Balthazard, pour une période de déclaration de la TPS, l’administrateur concerné s’était intéressé de près aux versements dus au titre de la TPS et avait négocié avec l’ARC une entente de paiement échelonné pour des versements tardifs, mais certains de ces paiements avaient été faits en retard. Toutefois, comme l’a fait observer la CAF au paragraphe 42 de l’arrêt Balthazard, lorsque les montants en litige sont versés « même tardivement » par la société, « la responsabilité de l’administrateur cesse à l’égard de ces montants ».
+[66] L’avocat de l’appelant invoque le paragraphe 56 de l’arrêt Balthazard, qui est rédigé ainsi :
+56. Ainsi, plusieurs faits militent en faveur du succès d’une telle défense dans ce cas-ci. Je souligne en particulier la préoccupation constante de l’appelant au sujet des versements fiscaux de sa société, les nombreux efforts de l’appelant pour assurer le versement de la taxe nette depuis le début des difficultés financières de GCI, ses nombreux apports additionnels de fonds pour soutenir la société durant toute la période de ses difficultés financières, le fait que la taxe nette a été entièrement versée pour la période s’étendant au 30 juin 2006, etc.
+[67] Je ne vois rien dans ces observations générales qui soit d’une aide quelconque à la thèse de l’appelant à l’égard de la pertinence des mesures vaines qui ont été prises pour remédier aux non-versements.
+[68] Quoi qu’il en soit, les principes de l’arrêt Buckingham sont réitérés au paragraphe 32 de l’arrêt Balthazar, y compris au paragraphe 52 dont il est fait mention plus haut, lequel confirme précisément que la défense de la diligence raisonnable porte sur les efforts faits pour ne pas manquer à l’obligation d’effectuer les versements en temps opportun.
+[69] Aussi, la décision Qian c. La Reine, 2013 CCI 386, a été invoquée comme étant un exemple de situation où l’administrateur n’avait pas la capacité d’exiger que la société verse l’impôt dû, et par conséquent l’appel de l’administratrice visant la cotisation établissant sa responsabilité à ce titre avait été accueilli. Les faits de cette affaire sont véritablement différents. L’administratrice appelante était une employée stagiaire qui avait été nommée administratrice, nomination qu’elle avait acceptée par crainte de perdre son emploi si elle la refusait. Le conseil qu’elle avait donné à la direction de diminuer le salaire des employés pour financer les versements des retenues à la source n’avait pas été pris en compte, alors elle a plus tard donné sa démission. Ce qui importe ici est qu’elle avait fait tout ce qu’elle pouvait raisonnablement faire pour encourager le paiement des versements.
+[70] Contrairement à l’affaire Qian, M. Burnett n’avait pas le statut de « stagiaire », il a volontairement accepté le poste d’administrateur auprès de CNCD et il a reconnu avoir démontré pendant la période pertinente peu d’intérêt, voire aucun, envers les versements en temps opportun des retenues à la source. Il s’agit du point essentiel. Pour faire jouer la défense de la diligence raisonnable, il n’est pas nécessaire que la personne ait l’autorité d’exiger que les versements soient faits. Le critère repose plutôt sur la question de savoir si l’administrateur « a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement [à faire les versements] qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables ».
+[71] Enfin, l’appelant invoque la décision Roitelman c. La Reine, 2014 CCI 139. Il s’agit également d’une affaire concernant un administrateur engagé pour veiller à ce que les versements soient faits lorsqu’ils étaient dus. Il avait formé une subordonnée pour le faire pendant une période lors de laquelle il serait absent pour des raisons professionnelles connexes. La subordonnée n’avait pas exécuté cette tâche, même si elle avait dit qu’elle l’avait fait. L’administrateur a été déchargé de responsabilité grâce à ses efforts pour préparer la subordonnée à faire les versements à temps pendant qu’il était absent. On a conclu qu’il avait pris des mesures proactives qu’une personne raisonnablement prudente aurait exercées dans des circonstances comparables.
+[72] À l’inverse, M. Burnett, comme il le concède au fond, s’est préoccupé presque uniquement de préparer l’entrée en bourse de CNCD et aussi de protéger les investissements de un million de dollars qu’il avait recueillis. Pour lui, c’était une question [traduction] « d’importance relative », et non une question de prendre du temps, à part poser chaque mois sa question qu’il qualifiait lui-même de type [traduction] « cocher la case », pour s’efforcer que les [traduction] « minuscules » retenues à la source soient versées en temps opportun.
+VI. Conclusion
+[73] Je conclus que M. Burnett n’a pas exercé le degré de soin, de diligence et de compétence pour prévenir le manquement de CNCD de faire les versements qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables. Par conséquent, il n’a pas satisfait aux exigences de la défense de la diligence raisonnable prévue au paragraphe 227.1(3). L’appel sera rejeté avec dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 31e jour d’août 2022.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 10e jour de juillet 2023.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2022 CCI 99
+NO DU DOSSIER DE LA COUR :
+2018-2752(IT)G
+INTITULÉ :
+GREGORY CLIFFORD BURNETT c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Les 24 et 25 novembre 2021
+MOTIFS DU JUGEMENT :
+L’honorable juge Bruce S. Russell
+DATE DU JUGEMENT :
+Le 31 août 2022
+COMPARUTIONS :
+Avocats de l’appelante :
+Me John Drove
+Avocat de l’intimée :
+Me Mark Shearer
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me John Drove
+Cabinet :
+John Drove Law Corporation
+Pour l’intimée :
+François Daigle Sous-procureur général du Canada Ottawa, Canada

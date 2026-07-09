@@ -1,0 +1,165 @@
+---
+title: "Mastracci v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28407/index.do"
+last_modified: "2006-11-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 594"
+citation2: ""
+neutral_citation: "2006 CCI 594"
+decision_date: "2006-11-06"
+language: "fr"
+item_id: "28407"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1206
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:35:26.743000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4e3277e5b74c75c715e72989217d4018e63d05b0d28236eb014d0e441b96cddc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mastracci v. The Queen
+
+- Citation: 2006 CCI 594
+- Decision date: 2006-11-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1206, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mastracci v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-06
+Référence neutre
+2006 CCI 594
+Numéro de dossier
+2006-442(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-442(IT)I
+ENTRE :
+ADRIAN MASTRACCI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 3 octobre 2006 à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Christa Akey
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 sont accueillis, et les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations conformément aux motifs du jugement ci‑joints en tenant pour acquis que :
+1. les paiements faits par KCM Wealth Management Inc. à HSBC ou à l’appelant à titre personnel totalisant 19 624,09 $ en 2002 et 28 029,01 $ en 2003 ont été effectués en règlement de dépenses engagées par l’appelant pour le compte de KCM Wealth Management Inc. ou en remboursement d’avances que l’appelant a consenties à KCM en guise de prêt d’actionnaire;
+2. les paiements qu’a effectués KCM Wealth Management Inc. pour acquitter les primes d’assurance médicale de l’appelant totalisant 1 188 $ en 2002 et 972 $ en 2003 ont été inclus à juste titre dans le calcul du revenu de celui‑ci pour ces années‑là en tant qu’avantages imposables;
+3. les paiements qu’a effectués KCM Wealth Management Inc. pour acquitter les frais de stationnement mensuels de l’appelant totalisant 2 052 $ en 2002 et 2 052 $ en 2003 ont été inclus à juste titre dans le calcul du revenu de celui‑ci pour ces années‑là en tant qu’avantages imposables.
+Signé à Ottawa, Canada, ce 6e jour de novembre 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 3e jour d’août 2007.
+Jean David Robert, traducteur
+Référence : 2006CCI594
+Date : 20061106
+Dossier : 2006-442(IT)I
+ENTRE :
+ADRIAN MASTRACCI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelant, Adrian Mastracci, interjette appel des nouvelles cotisations établies à son égard par le ministre du Revenu national (le « ministre ») pour ses années d’imposition 2002 et 2003. L’appelant s’est représenté lui‑même et il était le seul témoin à comparaître à l’instruction des présents appels, laquelle est régie par la procédure informelle.
+[2] En réévaluant l’impôt à payer par l’appelant, le ministre a inclus dans le revenu de celui‑ci des montants correspondant à des revenus d’emploi et à des avantages imposables non déclarés. Je traite de chacune de ces questions sous les rubriques suivantes.
+Revenus d’emploi non déclarés
+[3] Depuis 1973, l’appelant travaille comme conseiller financier en placements. En 2000, il a fondé la société KCM Wealth Management Inc. (ci‑après « KCM »), qui offre des services d’experts‑conseils en matière de planification financière. Pour pouvoir fournir ces services, KCM est tenue d’être inscrite auprès de la Commission des valeurs mobilières de la Colombie‑Britannique (la « Commission ») et de lui fournir ses états financiers. L’appelant est l’unique administrateur et actionnaire de KCM.
+[4] L’appelant est aussi un administrateur et un actionnaire de sa société de portefeuille, Spectrum Financial Inc. (ci‑après « Spectrum »). En 2002 et en 2003, l’appelant a déclaré un revenu[1] gagné à titre d’employé de Spectrum. Joints aux déclarations de revenus de l’appelant se trouvaient des relevés T‑4 produits par son employeur dans lesquels était indiqué un revenu d’emploi de 17 000 $ pour 2002 et de 19 500 $ pour 2003. La question de savoir pourquoi l’appelant avait reçu un salaire de Spectrum n’était pas en litige à l’audience.
+[5] L’appelant n’a pas déclaré de revenu d’emploi provenant de KCM pour les années d’imposition 2002 et 2003. De même, cette société n’a déduit aucune dépense d’entreprise correspondant à des salaires qu’elle aurait payés à des employés dans ses déclarations T2 pour ces années‑là ni dans les annexes à celles‑ci[2].
+[6] En juin 2004, à la suite d’un examen des fiducies, on a demandé à l’appelant de fournir à un fonctionnaire de l’Agence du revenu du Canada (l’« ARC ») les relevés bancaires[3] de KCM et les chèques payés établis par celle‑ci pour les années 2002 et 2003. Cela a été fait. Rien d’autre n’a été demandé à l’appelant, et, quelque temps après, il a été informé qu’il pouvait passer prendre ces documents.
+[7] L’appelant n’a pas eu de nouvelles de l’ARC jusqu’au 25 février 2005, date à laquelle il a reçu des avis de nouvelle cotisation concernant notamment un revenu non déclaré qu’il aurait reçu de KCM et dont le montant s’élevait à 19 624 $[4] pour 2002 et à 28 029 $[5] pour 2003. Ces sommes représentent les totaux des montants des chèques établis par KCM à l’ordre de HSBC ou de l’appelant personnellement.
+[8] Tout d’abord, pour ce qui est des sommes à payer à HSBC, il y a lieu de mentionner que la société KCM possède un compte d’affaires à cette banque. KCM n’a pas et n’a jamais eu sa propre carte de crédit d’affaires. L’appelant possède, à titre personnel, une carte de crédit Mastercard HSBC.
+[9] L’appelant a produit en preuve ses relevés de carte de crédit Mastercard HSBC[6] pour les années 2002 et 2003 sur lesquels figure le numéro du compte de carte de crédit qui est inscrit sur la ligne réservée aux notes explicatives de la plupart des chèques établis par KCM à l’ordre de HSBC. Ces chèques sont, à leur tour, consignés sous leurs numéros respectifs sur les relevés bancaires de KCM. Les chèques correspondent dans le temps aux sommes indiquées comme étant dues (moyennant les rajustements nécessaires pour qu’il soit tenu compte de la TPS) dans les relevés mensuels de carte de crédit Mastercard HSBC de l’appelant.
+[10] Quant aux chèques établis à l’ordre de « Adrian Mastracci » à titre personnel, il y en a eu trois : en 2002 ont été établis un chèque de 3 000 $ et de 4 000 $, et en 2003, un autre de 11 616,37 $. Il n’y a aucune inscription sur la ligne réservée aux notes explicatives de ces chèques.
+[11] La position du ministre, comme le montre l’hypothèse formulée à l’alinéa 8f) de la réponse à l’avis d’appel, est que [traduction] « au cours des années d’imposition 2002 et 2003, les paiements reçus par l’appelant de KCM n’ont pas été effectués en remboursement du prêt que l’appelant a consenti à KCM en sa qualité d’actionnaire ni en règlement des dépenses qu’il avait engagées pour le compte de KCM ».
+[12] L’appelant a le fardeau de réfuter cette hypothèse. Selon son témoignage, les paiements faits par KCM à HSBC ont été effectués en remboursement de dépenses d’entreprise qu’il avait engagées pour des achats effectués au moyen de sa carte de crédit Mastercard HSBC personnelle. KCM lui a remboursé les sommes qu’elle lui devait à titre personnel en payant directement HSBC, comme le prouvent les relevés de carte de crédit Mastercard HSBC. À l’appui de son allégation, l’appelant souligne la concordance existant entre les sommes dues et les paiements effectués : les chèques ont été établis par KCM à l’ordre de HSBC dans les délais indiqués sur les relevés mensuels de carte de crédit Mastercard HSBC et leurs montants correspondent à ceux des sommes dues. Dans son témoignage, l’appelant a examiné un échantillon des relevés mensuels et a expliqué la nature des achats, qui peuvent généralement être classés dans les catégories suivantes : frais de bureau, frais d’ordinateur, livres et publications, repas et représentation, voyages, marketing, etc. J’ajoute foi au témoignage de l’appelant selon lequel ces achats ont été dûment enregistrés dans les catégories appropriées du journal comptable[7] de KCM. Un examen des pièces versées au dossier permet d’établir une correspondance entre les achats énumérés et les chèques, les écritures de journal et les dépenses d’entreprise déduites dans les déclarations T2 de KCM. Sauf peut‑être pour un achat de 25,33 $ fait auprès d’un marchand faisant affaire sous le nom de « A‑Wear »[8] (qui, selon l’avocate de l’intimée, est un magasin d’habillement situé à Vancouver), les livres comptables de l’appelant appuient la conclusion selon laquelle il s’agit de dépenses courantes typiquement associées à l’exploitation d’un bureau d’affaires et à la prestation de services à la clientèle.
+[13] L’avocate de l’intimée a soutenu que le témoignage de l’appelant était affaibli par le fait qu’il n’avait pas de reçus pour toutes les dépenses indiquées dans les relevés de carte de crédit Mastercard HSBC. Compte tenu de tous les autres éléments de preuve crédibles et du fait que l’appelant est obligé en vertu de la Loi de l’impôt sur le revenu (la « Loi ») de tenir des registres et des livres de compte non pas parfaits mais adéquats, je ne suis pas persuadée que cette lacune permet de réfuter la prétention de l’appelant.
+[14] Sans doute l’appelant aurait‑il pu s’éviter des ennuis s’il n’avait pas utilisé sa carte de crédit personnelle pour payer les achats de KCM. Il a expliqué qu’au moment où KCM avait été fondée une carte de crédit d’affaires n’était pas une option viable. Quoi qu’il en soit, j’ai peine à comprendre comment les fonctionnaires de l’ARC qui ont examiné les documents de l’appelant ont pu considérer les montants en cause comme un « revenu d’emploi ». J’aurais peut‑être mieux compris l’analyse de l’agent des appels si celui‑ci avait témoigné. À la suite du témoignage de l’appelant, l’avocate de l’intimée a avisé la Cour que l’agent des appels était tombé malade à la dernière minute et qu’il ne pouvait pas comparaître. L’intimée n’a pas sollicité d’ajournement pour permettre à l’agent des appels de témoigner à une date ultérieure. Par conséquent, si cette question ne se résume pas à ce qui a été dit ci‑dessus, la preuve portée à ma connaissance ne me permet pas d’en savoir davantage. Il me semble cependant que la question en litige aurait pu être tranchée beaucoup plus tôt si l’examinateur des fiducies avait demandé à l’appelant non seulement de fournir les relevés bancaires mais aussi d’expliquer et de documenter chacun des achats, son objet et son montant.
+[15] Quant aux paiements faits à l’appelant à titre personnel, je retiens le témoignage de celui‑ci selon lequel ils ont été effectués en remboursement du prêt de 100 000 $ qu’il a consenti à la société en sa qualité d’actionnaire. Entre 2000 et 2002, l’appelant a avancé à KCM quelque 100 000 $ (sans intérêts) en guise de fonds de démarrage. De temps à autre, au cours de ces années‑là, lorsque les rentrées de fonds de KCM le permettaient, cette société effectuait des paiements forfaitaires à l’appelant à titre de remboursement. L’existence d’un prêt d’actionnaire contracté par KCM auprès de l’appelant fait partie de l’hypothèse formulée à l’alinéa 8f). Lors du contre‑interrogatoire, l’avocate de l’intimée a examiné avec l’appelant les déclarations T2 produites par KCM et elle lui a demandé pourquoi, si KCM lui devait quelque 100 000 $, le montant indiqué comme étant des « Sommes dues à un (des) actionnaire(s) »[9] était de 118 $ en 2002 et de 572 $ en 2003. J’accepte l’explication de l’appelant selon laquelle le prêt d’actionnaire était en réalité indiqué sous le numéro de poste 3460 comme étant une « dette de second rang » de 91 223 $ en 2002 et de 100 000 $ en 2003. À l’appui de son allégation, l’appelant a produit en preuve une photocopie d’une page des notes complémentaires aux états financiers de KCM établies le 31 mai 2003[10] dans laquelle l’explication suivante figure sous la rubrique [traduction] « Dette à long terme » :
+[traduction]
+L’avance de fonds non productive d’intérêts de 100 000 $ consentie par l’actionnaire fait l’objet d’un accord de subordination établissant que cette somme ne sera pas remboursée sans l’autorisation de la Commission des valeurs mobilières de la C.‑B. Par conséquent, cette somme a été présentée comme une dette à long terme dans les présents états financiers.
+Il aurait certainement été préférable d’avoir l’original du document complet, mais je suis consciente du fait que les présents appels ont été interjetés sous le régime de la procédure informelle, et que l’appelant n’avait pas de représentant juridique. De plus, rien n’indique que l’appelant ait créé de toutes pièces ce document ou tout autre document produit en preuve.
+[16] Étant donné que KCM était en activité depuis seulement deux ans en 2002 et vu le montant du prêt d’actionnaire, je ne trouve rien de contestable dans le montant des sommes remboursées de 3 000 $ et de 4 000 $ en 2002 et d’environ 11 000 $ en 2003. Il n’est pas non plus inhabituel pour une petite société à propriétaire unique d’effectuer de tels remboursements de temps à autre en fonction de sa santé financière. Pour tous ces motifs, je suis convaincue que ces sommes ne représentaient pas un revenu d’emploi provenant de KCM mais plutôt des paiements effectués en remboursement du prêt d’actionnaire.
+Avantages imposables non déclarés
+[17] Le ministre s’est fondé sur l’hypothèse non contestée par l’appelant selon laquelle, en 2002 et en 2003, KCM avait payé les primes d’assurance médicale de l’appelant de 1 188 $ et de 972 $ respectivement. Le ministre a tenu pour acquis que l’appelant était un « employé » de KCM[11]. Bien que je ne sois pas totalement convaincue que c’est le cas, cette hypothèse n’a pas été contestée par l’appelant. Ainsi, si l’on tient pour acquis qu’il était un employé en 2002 et en 2003, le paiement de ses primes d’assurance médicale par KCM est manifestement visé par l’alinéa 6(1)a) de la Loi de par la portée générale de l’expression « autres avantages quelconques »[12]. Par conséquent, je conclus que les sommes payées par KCM pour les primes d’assurance médicale de l’appelant ont été incluses à juste titre dans le revenu de ce dernier en tant qu’avantages imposables pour les années 2002 et 2003.
+[18] La même logique s’applique au paiement par KCM pour le compte de l’appelant des frais de stationnement qu’il a payés pour se garer près de son bureau. Même si la voiture de l’appelant a été utilisée principalement dans le cadre des fonctions qu’il exerçait pour le compte de KCM, il reste que c’était la voiture de l’appelant, non pas celle de la société. Par conséquent, l’appelant bénéficiait d’une place de stationnement gratuite au centre‑ville de Vancouver. La valeur de cet avantage social a été incluse à juste titre par le ministre dans le revenu de l’appelant en tant qu’avantage imposable pour les années 2002 et 2003.
+[19] Les appels sont accueillis, et, conformément aux motifs du jugement ci‑joints, les nouvelles cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant pour acquis que :
+1. les paiements faits par KCM Wealth Management Inc. à HSBC ou à l’appelant à titre personnel totalisant 19 624,09 $ en 2002 et 28 029,01 $ en 2003 ont été effectués en règlement de dépenses que l’appelant a engagées pour le compte de KCM Wealth Management Inc. ou en remboursement d’avances qu’il a consenties à KCM en guise de prêt d’actionnaire;
+2. les paiements qu’a effectués KCM Wealth Management Inc. pour acquitter les primes d’assurance médicale de l’appelant totalisant 1 188 $ en 2002 et 972 $ en 2003 ont été inclus à juste titre dans le calcul du revenu de celui‑ci pour ces années‑là en tant qu’avantages imposables;
+3. les paiements qu’a effectués KCM Wealth Management Inc. pour acquitter les frais de stationnement mensuels de l’appelant totalisant 2 052 $ en 2002 et 2 052 $ en 2003 ont été inclus à juste titre dans le calcul du revenu de celui‑ci pour ces années‑là en tant qu’avantages imposables.
+Signé à Ottawa, Canada, ce 6e jour de novembre 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 3e jour d’août 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI594
+Nº DU DOSSIER DE LA COUR : 2006-442(IT)I
+INTITULÉ : Adrian Mastracci et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 3 octobre 2006
+MOTIFS DU JUGEMENT : L’honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 6 novembre 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Christa Akey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Pièces R-1 et R-2 respectivement.
+[2] Pièces R-5 et R-6 respectivement.
+[3] Pièce R-3.
+[4] Réponse à l’avis d’appel, annexe « A ».
+[5] Réponse à l’avis d’appel, annexe « B ».
+[6] Pièce A-4.
+[7] Pièce A-3.
+[8] Pièce A-4, 3 février 2003.
+[9] Poste 2780 selon le Guide de l’index général des renseignements financiers (IGRF) pour les sociétés de l’ARC, soumis à titre d’information seulement par l’avocate de l’intimée.
+[10] Pièce A-2.
+[11] Alinéa 8b) de la réponse à l’avis d’appel.
+[12] La Reine c. Savage, [1983] 2 R.C.S. 428 (C.S.C.).

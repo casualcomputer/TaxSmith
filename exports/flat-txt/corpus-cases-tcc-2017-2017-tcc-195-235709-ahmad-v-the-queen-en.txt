@@ -1,0 +1,162 @@
+Title: Ahmad v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/235709/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-195-235709-ahmad-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-09-29
+
+# Ahmad v. The Queen
+
+- Citation: 2017 TCC 195
+- Decision date: 2017-09-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2215, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ahmad v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-09-29
+Neutral citation
+2017 TCC 195
+File numbers
+2016-2394(GST)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-2394(GST)I
+BETWEEN:
+AZFAR AHMAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 28, 2017, at Edmonton, Alberta
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Peter Basta
+JUDGMENT
+The appeal from the assessment dated February 20, 2014 made under Part IX of the Excise Tax Act is allowed, without costs, for the purpose of referring the appealed February 20, 2014 assessment back to the Minister for reconsideration and reassessment, whereby in so reconsidering the Minister “determines” per subsection 296(2.1) of the Act whether for the Appellant the GST/HST New Residential Rental Property Rebate is an “allowable rebate”, and as such is payable to the Appellant per that statutory provision.
+Signed at Prince George, British Columbia, this 29th day of September 2017.
+“B. Russell”
+Russell J.
+Citation: 2017TCC195
+Date: 20170929
+Docket: 2016-2394(GST)I
+BETWEEN:
+AZFAR AHMAD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+[1] The following constitutes my reasons for judgment in the appeal brought by Mr. Azfar Ahmad in respect of the assessment raised against him February 20, 2014 by the Minister of National Revenue (Minister) under the federal Excise Tax Act (Act). That assessment is evidenced by a notice of (re)assessment showing date of February 20, 2014.
+[2] A copy of this notice of (re)assessment is attached to the notice of appeal as filed. The assessment denied the Appellant’s application for a Goods and Services Tax/Harmonized Sales Tax (GST/HST) New Housing Rebate (NHR) of $26,883, showing the assessed amount of $28,329 as owing. Also, seemingly appealed is an assessment dated April 27, 2016 raised by the Minister under the Act, denying a March 8, 2016 application by the Appellant for a GST/HST New Residential Rental Property Rebate (NRRPR). The notice of (re)assessment, also attached to the notice of appeal, showing that date indicates an assessed balance owing (described as “prior balance”) of $28,221.
+[3] Also in the first paragraph of the notice of appeal is stated, seemingly as an alternative ground of appeal, that the appeal is:
+...or from the suspension, pursuant to subsection 188.2(2) of the Income Tax Act, of its authority to issue an official receipt referred to in Part XXXV of the Income Tax Regulations.
+[4] At paragraph 12 of the notice of appeal the Appellant cites subsection 296(2.1) of the Act as a further argument supporting his appeal.
+[5] Mr. Ahmad (Appellant) represented himself in this informal procedure matter.
+[6] With respect to the first stated issue, being appeal of the denial of the NHR by way of the February 20, 2014 assessment, the Appellant on May 1, 2015 filed a notice of objection in respect thereof, which was accepted as timely filed. On March 17, 2016 the Minister confirmed the objected-to assessment. Then on June 13, 2016 the notice of appeal commencing the herein appeal was filed.
+[7] However, also the Appellant on March 8, 2016 filed an application for a NRRPR in respect of the same property. The Minister denied the application per assessment raised April 27, 2016. No notice of objection has been filed in respect of this assessment. It appears by virtue of the notice of appeal that the Appellant wishes to appeal this assessment as well.
+[8] The notice of appeal indicates that the Appellant considers the subject property should be entitled to one or the other of these two rebates. In this regard the notice of appeal states:
+This case is about assigning the file to the most appropriate GST rebate allowance as per the rule of law. The amount outstanding needs to be set-off either by allowing the new residential rebate or the new rental rebate.
+[9] The basic underlying facts of the matter are as follow. In February 2011 the Appellant and his brother entered into an agreement to purchase a residential property in Mississauga, a condominium to be constructed. Their intention at that time was that each would live in this property. About two years later construction of the condominium property was finalized and the brothers’ purchase/sale transaction respecting the property closed February 21, 2013. But in the very latter portion of this two year interim period following their February 2011 agreement to purchase the property the two brothers, both young men, each had had his life turn in a different direction. The Appellant now was moving to Saskatoon for employment there. The brother now was headed to Pakistan for schooling. No longer would either of them be remaining in the Toronto area so as to live in the new property in Mississauga.
+[10] With this late development in or about early 2013, the brothers decided to try to sell the property. This effort initially was unsuccessful, due at least in part to oversupply of condominium units in the market. So the brothers chose to try to rent the property, while continuing to seek to sell it. The property accordingly was rented promptly upon completion of construction, firstly to an individual not related to either of the brothers. Eventually, more than three years later, the condominium finally was sold.
+[11] The builder/seller of the property submitted on behalf of the Appellant the NHR application, received by the Minister on March 28, 2013. The Appellant’s signature is on this document. As stated, this application was denied by assessment raised February 20, 2014. Per the Respondent’s Reply, the application was denied on the basis that neither the Appellant nor his brother nor any qualifying relation of either was the first to occupy the property following substantial completion of its construction, nor was it sold without any individual having resided in the property in the interim.
+[12] The February 20, 2014 assessment was shortly preceded by a letter dated February 14, 2014 to the Appellant from the relevant Canada Revenue Agency (CRA) auditor Stanley Wells, advising that the February 20, 2014 notice of (re)assessment denying the NHR application would shortly follow.
+[13] The letter also stated:
+As discussed, information is available on our website regarding the GST/HST New Residential Rental Property Rebate. The applicable publication and form numbers are RC4231 and GST524.
+[14] Furthermore, the notice of (re)assessment itself, dated February 20, 2014, stated in part:
+...- your claim relates to a rental property. You may be eligible for a New Residential Rental Property rebate. File your claim for this type of rebate on Form GST524.
+[15] The Minister thus had determined that the NHR application did not abide by the above-noted paragraph 254(2)(g) of the Act, which requires either that the individual being the claimant or a relation must be the first person to occupy the property as a place of residence; or that the individual made an exempt supply of the property by way of sale, with ownership transferred without in the interim any individual having resided in the property.
+[16] The Appellant filed a notice of objection to the February 20, 2014 assessment more than a year later - May 1, 2015. But he did not then, despite the cues in the February 14, 2014 letter from the auditor and also in the February 20, 2014 notice of (re)assessment, apply for a NRRPR.
+[17] The objected-to assessment re the denied NHR was confirmed March 17, 2016.
+[18] Several days prior to this, the Appellant then had proceeded to submit a NRRPR application regarding the Mississauga property. Just over a month later, the Minister denied that application; this conveyed by a notice of (re)assessment dated April 27, 2016 which included the statement that the NRRPR had been denied because:
+… we did not receive the application within two years of the date tax became payable on purchase…as set out in the [Act].
+[19] At no time did the Appellant file a notice of objection to that April 27, 2016 assessment, or file an application to extend time to file a notice of objection to that assessment. Rather, as recounted above, on June 13, 2016 the Appellant proceeded with filing in this Court the notice of appeal commencing the herein appeal.
+[20] The Appellant states that he was delayed in pursuing matters at the pre-notice of appeal stage by what the Appellant considers were irrelevant matters raised by Mr. Wells, the CRA auditor.
+[21] The parties’ respective positions have been set out above. The Appellant states that it is entitled to one or other of the two specified types of GST/HST rebates. The Respondent says that the Appellant is entitled to neither rebate - the NHR does not apply per paragraphs 254(2)(b) and (g) noted above, and the NRRPR does not apply as the Appellant transgressed paragraph 256.2(7)(a) of the Act in not having applied for that rebate within two years following when first the tax sought to be rebated became payable.
+[22] The issue is whether the Appellant has qualified for either of these two rebates.
+[23] On the evidence I accept the Appellant’s testimony that when he and his brother in February 2011 signed the agreement to purchase the Mississauga property, they both had the bona fide intention of residing in that condominium property upon construction completion. Accordingly I reject the Respondent’s claim that the Appellant does not meet the requirement per paragraph 254(2)(b) of the Act which in the context of this case requires that the property have been acquired for the purpose of using it as the primary place of residence of the Appellant and/or his brother.
+[24] As noted, paragraph 254(2)(g) requires that the Appellant or a relation have been the first to occupy the new premises as a residence, upon construction completion. It is clear that that did not occur here. The brothers both had altered their career plans during the almost two year period prior to completion of construction of the condominium property in Mississauga they had agreed to buy. Neither after-all was going to remain in the Toronto area so as to be able to reside in the property upon construction completion. The evidence is straightforward and un-equivocating on this point.
+[25] On this basis I find that the Minister was correct in denying the Applicant’s application, received March 28, 2013, for the NHR.
+[26] In connection at least with the NHR, the Respondent presented at the hearing a further argument that there was no amending agreement to move the brothers’ father off the purchase and sale agreement and the two brothers on. The Respondent cited section 67 of the Financial Administration Act (Canada) and Assignment of Crown Debt Regulations (Canada), section 13 submit the right to the NHR could not be transferred from father to sons absent the amending agreement. The Appellant asserted that there had been an amending agreement to deal with that.
+[27] In any event this legal argument raised by the Respondent does not at all appear in the Respondent’s Reply in this informal proceeding, nor is there any reference to the above two legislative provisions in the Reply. Therefore, in fairness to the self-represented Appellant who had no notice of this argument from the Respondent’s pleadings, I decline to entertain the submission.
+[28] Regarding the NRRPR, as noted above this was denied by the Minister’s assessment raised April 27, 2016 on the basis the application had been submitted beyond the legislated two year window for same. Thereafter, the Appellant simply commenced this appeal in this Court, without at all having filed a notice of objection pertaining to the NRRPR denial.
+[29] The upshot of this is that the herein appeal of the April 27, 2016 assessment must be denied. It is basic that a person cannot proceed to appeal an assessment in this Court absent a notice of objection to that assessment previously having been filed - see subsections 301(1.1) and 303(1) of the Act, as pleaded in the Respondent’s Reply.
+[30] The Appellant pleads that he should be entitled to one at least of these two rebates. Leaving aside for the moment the matter of subsection 296(2.1), discussed below, there are legislated conditions precedent for each of these two rebates that have to be met before a rebate application can be granted by the Minister. The Minister has no discretion in this regard. If the legislated pre-conditions are met the rebate must be allowed. If not all of the legislated pre-conditions are met then the Minister must deny the application. The same is true of this Court, and is fundamental to this Court’s responsibility to interpret and apply the law, whether on an appeal that leads to this Court agreeing with or over-ruling the Minister’s decision-making on the point(s) appealed.
+[31] Also, the Appellant as noted above seemingly has pleaded that alternatively he is appealing:
+... from the suspension, pursuant to subsection 188.2(2) of the Income Tax Act, of its authority to issue an official receipt referred to in Part XXXV of the Income Tax Regulations.
+[32] With respect, this provision addresses charitable gift receipts, and thus has no connection or relevance to the case at bar.
+[33] I turn now to subsection 296(2.1) of the Act, pleaded by the Appellant. Subsection 296(2.1) provides:
+(2.1) Where, in assessing the net tax of a person for a reporting period of the person or an amount (in this subsection referred to as the “overdue amount”) that became payable by a person under this Part, the Minister determines that
+(a) an amount (in this subsection referred to as the “allowable rebate”) would have been payable to the person as a rebate if it had been claimed in an application under this Part filed on the particular day that is
+(i) if the assessment is in respect of net tax for the reporting period, the day on or before which the return under Division V for the period was required to be filed, or
+(ii) if the assessment is in respect of an overdue amount, the day on which the overdue amount became payable by the person,
+and, where the rebate is in respect of an amount that is being assessed, if the person had paid or remitted that amount,
+(b) the allowable rebate was not claimed by the person in an application filed before the day notice of the assessment is sent to the person, and
+(c) the allowable rebate would be payable to the person if it were claimed in an application under this Part filed on the day notice of the assessment is sent to the person or would be disallowed if it were claimed in that application only because the period for claiming the allowable rebate expired before that day,
+the Minister shall apply all or part of the allowable rebate against that net tax or overdue amount as if the person had, on the particular day, paid or remitted the amount so applied on account of that net tax or overdue amount.
+[34] The Appellant submits that this provision allows the granting to him of the NRRPR notwithstanding he had subsequently late filed an application for same.
+[35] Subsection 296(2.1) is legislatively headed “Allowance of unclaimed rebate”. My colleague, Paris, J. has succinctly described this provision in paragraph 10 of his reasons for judgment in A OK Payday Loans Inc v Her Majesty, 2010 TCC 469, as follows:
+Subsection 296(2.1) requires that the Minister, when assessing net tax for a reporting period or assessing for an amount due under Part IX of the Act, to take into account a rebate to which a person is entitled under Part IX but which has not yet been claimed by the person, and to apply the amount of the rebate against net tax or against the amount owing. Paragraph 296(2.1)(c) provides that the Minister shall apply the amount of the rebate against the net tax or amount owing even if the period for applying the rebate has expired.
+[36] More specifically, subsection 296(2.1) requires, to be applicable in the Appellant’s context:
+A.that the Minister have assessed an amount, referred to as the “overdue amount” that became payable under Part IX of the Act;
+B. that in so doing the Minister determines that an amount, referred to as the “allowable rebate” would have been payable to the person as a rebate if it had been claimed in an application under Part IX, and that application had been filed on the day the overdue amount became payable by the person;
+C.where the rebate is in respect of an amount being assessed, if the person had paid or remitted that amount, the allowable rebate was not claimed by the person in an application filed before the day the notice of assessment is sent; and
+D.the allowable rebate would have been payable to the person if claimed in an application under Part IX on the day the notice of assessment is sent to that person or it would have been disallowed only for the reason that the period for claiming the allowable rebate had already expired.
+[37] In respect of the foregoing statutory criteria, in my view the Minister did raise an assessment for an overdue amount payable under Part IX, being an amount of unpaid GST/HST due upon the February 2013 substantial completion of the new residential premises. The assessment is the February 20, 2014 assessment which denied the NHR and as well assessed the amount of GST/HST overdue in respect of the subject residential premises, being the amount that would have been lessened had the NHR been assessed as applicable.
+[38] I do not think that in assessing on February 20, 2014 the Minister did determine, per subsection 296(2.1), as to whether an allowable rebate - in particular the NRRPR which had not at that time been applied for - would have been payable to the Appellant as a rebate under Part IX if it had been applied for. There is specific suggestion, however, that the Minister did have in mind that the Appellant could qualify for the (at that time) unapplied-for NRRPR. I refer to the above-cited references appearing in the February 20, 2014 notice of (re)assessment itself and in the slightly earlier February 14, 2014 letter from the CRA auditor, which references suggest to the Appellant that he submit an application for the NRRPR. At that time the filing of a NRRPR application by the Appellant would not have been beyond the legislated two year deadline for so doing, counting from February 2013 when the residential had been substantially completed.
+[39] I consider it possible if not likely that the Minister at the time of the February 20, 2014 assessment and during the audit leading up to that assessment considered that the Appellant could well qualify for the NRRPR and sought relevant information, such as would be included in an application for a NRRPR, to confirm whether he did so qualify.
+[40] However, despite the Minister’s suggestions in the February 14, 2014 letter and the February 20, 2014 notice of (re)assessment itself that an NRRPR application be submitted, the Appellant did not then do so.
+[41] When, two years later, the Appellant did file an NRRPR application (shortly prior to confirmation by the Minister of the February 20, 2014 assessment herein appealed), that application was rejected for having been filed beyond the two year legislated deadline for so doing.
+[42] The matter of whether the Appellant would qualify for an NRRPR was not argued before me and accordingly I am unable to express any finding on this point. But I do consider that that question is, per subsection 296(2.1), a matter for the Minister to “determine” as part of the assessment of February 20, 2014, which assessment is under appeal herein. The Minister would have at hand information from the auditor’s February 2014 and earlier discussions with the Appellant and now also as set out in the 2016 NRRPR application, to consider in so determining. Certainly the Minister had encouraged the Appellant in February 2014 when the NPR application was denied to submit a NRRPR application; signalling that the Minister considered that the Appellant might well qualify for that rebate.
+[43] In my view having the Minister now make a subsection 296(2.1) determination as to “allowable rebate” would be in the nature of redressing the February 20, 2014 assessment, which is the assessment currently before this Court. The opening words of subsection 296(2.1) refer to the Minister determining (“determines”), “[w]here, in assessing…an amount that became payable by a person under this Part…” Note that the determining to be done by the Minister is statutorily expressed as being an element of the assessment itself.
+[44] Also, in my view having the Minister now “determine” is consistent with the several requirements of subsection 296(2.1), noting that the actual NRRPR application was filed well after when the subject tax became due and overdue in February 2013, and well after the raising of the pertinent assessment, being the February 20, 2014 assessment.
+[45] In the Appellant’s notice of appeal subsection 296(2.1) was prominently pleaded and set out in full in paragraph 12 and referenced also in paragraphs A and 21 thereof.
+[46] However, the Respondent’s Reply there was scan response – simply an identical generic statement in each of subparagraphs 9(h) and 9(n) that the Appellant’s pleadings that referenced and set out subsection 296(2.1),
+… consist of argument and matters of an administrative nature, and that there are no further facts to admit, deny or state no knowledge of, but to the extent that there are any such facts, they are denied.
+[47] In short, little of a coherent response re this provision was pleaded by the Respondent, leaving the Appellant without notice as to the Respondent’s position, if one.
+[48] The Respondent cited Napoli v Her Majesty, 2013 TCC 307, which had a certain factual similarity to the case at bar. However, subsection 296(2.1) was not even mentioned in the reasons for judgment, let alone discussed or applied.
+[49] The Respondent also cited A OK Payday Loans Inc (supra). In that case however the appellant was seeking rebate of mistakenly remitted GST for services that were exempt from GST. This Court, per Paris J., found that subsection 296(2.1) could not apply as the pertinent assessment in that case was not, as subsection 296(2.1) requires, either in respect of net tax owed for a reporting period or for an amount payable under the Act. Since no tax was owing to begin with, the assessment did not reflect any amount payable under the Act. Rather, it simply dealt with denial of the claim for rebate on the basis it was out of time. In the case at bar however there is an amount of HST/GST payable, assessed February 20, 2014 as overdue.
+[50] In conclusion I will allow this informal procedure appeal, for the purpose of referring the appealed February 20, 2014 assessment back to the Minister for reconsideration and reassessment, whereby in so reconsidering the Minister “determines” per subsection 296(2.1) of the Act whether for the Appellant the GST/HST New Residential Rental Property Rebate is an “allowable rebate”, and as such is payable to the Appellant per that statutory provision.
+Signed at Prince George, British Columbia, this 29th day of September 2017.
+“B. Russell”
+Russell J.
+CITATION:
+2017TCC195
+COURT FILE NO.:
+2016-2394(GST)I
+STYLE OF CAUSE:
+AZFAR AHMAD AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+March 28, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+September 29, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Peter Basta
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

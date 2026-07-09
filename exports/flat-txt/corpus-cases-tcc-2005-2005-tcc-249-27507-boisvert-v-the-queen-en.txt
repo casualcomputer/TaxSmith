@@ -1,0 +1,109 @@
+Title: Boisvert v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27507/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-249-27507-boisvert-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-05-02
+
+# Boisvert v. The Queen
+
+- Citation: 2005 TCC 249
+- Decision date: 2005-05-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boisvert v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-05-02
+Neutral citation
+2005 TCC 249
+File numbers
+2004-2302(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2005TCC249
+Date: 20050502
+Docket: 2004-2302(IT)I
+BETWEEN:
+FRANCINE BOISVERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on January 27, 2005, at Montréal, Quebec,
+and revised at Edmundston, New Brunswick, on May 2, 2005.)
+Angers J.
+[1] This is an appeal by Francine Boisvert from an assessment for 2002. Having filed her return of income for the 2002 taxation year, Ms. Boisvert subsequently wrote to the Minister to request an adjustment to enable her to claim a tax credit for severe and prolonged mental or physical impairment for that taxation year. The claim was accompanied by the prescribed form T2201.
+[2] The Minister disallowed the claim on the ground that the Appellant's impairment was not such that her ability to perform a basic activity of daily living was markedly restricted. A notice of objection was filed, then this appeal was instituted.
+[3] The evidence that we heard at the hearing was essentially similar to what I found in the pleadings, including Dr. Tremblay's report and the form T2201, which explain the sleep apnea syndrome from which Ms. Boisvert suffers. No restriction on the activities that Ms. Boisvert can perform in a day is indicated on her form. In fact, the answers to the questions asked, that is whether she can see, walk, speak, hear, think, dress herself, feed herself and perform all the other basic activities of daily living were all affirmative. Ms. Boisvert even testified that she was able to do her work, except that her ability to concentrate and to think are diminished, unless she uses her device. And even if she does use it, she has difficulties in that regard. However, that does not prevent her from doing her job. She claims and takes very few days of sick leave, and evaluations by her employer show that she is still able to perform her job.
+[4] Subsection 118.3(1) of the Income Tax Act (the "Act") reads in part as follows:
+(1) Where
+(a) an individual has a severe and prolonged mental or physical impairment,
+(a.1) the effects of the impairment are such that the individual's ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy that
+(i) is essential to sustain a vital function of the individual,
+(ii) is required to be administered at least three times each week for a total duration averaging not less than 14 hours a week,
+[...]
+[5] Subsection 118.4(1) reads in part as follows:
+(1) For the purposes of subsection 6(16), sections 118.2 and 118.3 and this subsection,
+(a) an impairment is prolonged where it has lasted, or can reasonably be expected to last, for a continuous period of at least 12 months;
+(b) an individual's ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, even with therapy and the use of appropriate devices and medication, the individual is blind or is unable (or requires an inordinate amount of time) to perform a basic activity of daily living;
+(c) a basic activity of daily living in relation to an individual means
+(i) perceiving, thinking and remembering,
+[...]
+(d) for greater certainty, no other activity, including working, housekeeping or a social or recreational activity, shall be considered as a basic activity of daily living.
+[6] Lamarre Proulx J.'s decision in Biron v. Canada, [2004] T.C.J. No. 88 (Q.L.), is based on virtually the same tests as those that should be applied in the instant case and concerns the same syndrome as that suffered by the Appellant. Lamarre Proulx J. wrote as follows at paragraph 40:
+The evidence concerning activities of daily living described in subsection 118.4(1) of the Act did not disclose that the Appellant was unable, or required an inordinate amount of time, to perform these activities all or substantially all of the time.
+[7] The situation is somewhat the same here. Although the Appellant has slightly more difficulty concentrating, I have no evidence that this is directly related to the fact that she suffers from sleep apnea syndrome. We all have these problems to a minor degree as we age. In the Appellant's case, is that due to this syndrome or not? I do not know because the evidence did not show it. But one thing is certain: as a result of the Appellant's work performance, and the fact that she is able to go to work, perform her job all day and meet the requirements of that job, it is hard to say whether her ability to perform the basic activities of daily living is markedly restricted or that she takes an inordinate amount of time to do them.
+[8] Lamarre Proulx J. further stated in the same paragraph:
+[...]
+The breathing mask can help him, but that does not mean that the Appellant's ability to perform one of these activities is markedly restricted within the meaning of that provision of the Act. Indeed, if, thanks to the therapy and the appropriate devices and medication, the person does not require an inordinate amount of time to perform a basic activity, then, within the meaning of the provision, the individual's ability to perform an activity of daily living is not markedly restricted.
+[9] In Biron, the attending physician certified that sleep apnea imperils the breathing function. Breathing is a vital function. Parliament has legislated with regard to vital functions by amending paragraph 118.3(1)(a.1) of the Act; this amendment came into force in 2000, and is thus applicable in the instant case. An individual is entitled to the credit for mental or physical impairment if the individual's ability to perform a basic activity of daily living is markedly restricted or would be markedly restricted but for therapy that is both essential to sustain a vital function of the individual and must be administered at least three times a week for a total duration averaging at least 14 hours a week.
+[10] In paragraph 45, Lamarre Proulx J. continued:
+Parliament has used the term "essential." In its legal meaning, "essential" refers to something on which the existence of a juridical act depends. Based on this reasoning, I find that an essential therapy is one which, if the patient ceased to tolerate it, would result fairly promptly in his death. Whether and for how many nights a breathing mask is worn are matters over which the patient has some degree of discretion. The patient's life is not in immediate or proximate danger if he does not wear it. Over the long term, sleep apnea can cause damage if the person does not take the applicable precautions: breathing mask, medication, physical exercise and diet. Those are not therapies essential to sustain a vital function within the meaning of paragraph 118.3(1)(a.1) of the Act.
+[11] I concur in Lamarre Proulx J.'s conclusion. For these reasons, I dismiss the appeal.
+Signed at Edmundston, New Brunswick, this 2nd day of May 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 3rd day of January 2006.
+Garth McLeod, Translator
+CITATION:
+2005TCC249
+COURT FILE NO.:
+2004-2302(IT)I
+STYLE OF CAUSE:
+Francine Boisvert v. The Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 27, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Judge François Angers
+DECISION DELIVERED ORALLY:
+January 27, 2005
+REVISED REASONS FOR JUDGMENT:
+May 2, 2005
+APPEARANCE:
+For the Appellant:
+The Appellant herself
+For the Respondent:
+Soleil Tremblay
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

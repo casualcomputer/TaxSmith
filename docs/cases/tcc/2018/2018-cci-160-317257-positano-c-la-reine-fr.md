@@ -1,0 +1,153 @@
+---
+title: "Positano c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/317257/index.do"
+last_modified: "2018-07-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 160"
+citation2: ""
+neutral_citation: "2018 CCI 160"
+decision_date: "2018-07-31"
+language: "fr"
+item_id: "317257"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4940
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:48:32.730000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "badaefe6e72d02bd9dbc016ef13e9acc32391b734c9e1a6206813f604159cd17"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Positano c. La Reine
+
+- Citation: 2018 CCI 160
+- Decision date: 2018-07-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4940, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Positano c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-07-31
+Référence neutre
+2018 CCI 160
+Numéro de dossier
+2016-3612(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-3612(IT)I
+ENTRE :
+ALBERT J. POSITANO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 30 mai 2018, à Toronto (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Représentante de l’appelant :
+Tina M. Positano
+Avocate de l’intimée :
+Me Rini Rashid
+JUGEMENT
+L’appel interjeté à l’encontre de deux nouvelles cotisations établies le 27 octobre 2014 aux termes de la Loi de l’impôt sur le revenu (Canada) pour les années d’imposition 2012 et 2013 de l’appelant est rejeté sans dépens.
+Signé à Summerville Centre (Nouvelle-Écosse), ce 31e jour de juillet 2018.
+« B. Russell »
+Le juge Russell
+Référence : 2018 CCI 160
+Date : 20180827
+Dossier : 2016-3612(IT)I
+ENTRE :
+ALBERT J. POSITANO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS MODIFIÉS DU JUGEMENT
+Les présents motifs modifiés du jugement remplacent les motifs du jugement signés le 31 juillet 2018. Ils comportent plusieurs modifications mineures, qui sont indiquées en caractères gras.
+Le juge Russell
+Introduction :
+[1] L’appelant, M. Positano, a interjeté cet appel selon la procédure informelle pour contester deux nouvelles cotisations établies par le ministre du Revenu national (le ministre) le 27 octobre 2014 aux termes de la Loi de l’impôt sur le revenu (Canada) pour les années d’imposition 2012 et 2013 de l’appelant. Chacune des deux nouvelles cotisations reflète le refus du ministre de reconnaître les 9 100 dollars réclamés à titre d’allocations pour frais afférents à un véhicule versées à l’appelant à titre d’employé.
+La preuve :
+[2] Il n’y a pas de différend important quant aux faits essentiels, qui ont été exposés lors du témoignage de M. Positano et de sa sœur Tina Positano (qui était également sa représentante) à l’audition de la présente affaire. Le frère et la sœur Positano, ainsi qu’un autre frère, sont (et étaient au cours de la période pertinente) des employés de 1017867 Ontario Ltd., faisant affaire sous la dénomination sociale Positano Paving (employeur), basée à Barrie, en Ontario. Au cours des périodes annuelles de novembre à avril, y compris pendant chacune des deux années d’imposition en cause, l’employeur a entrepris des travaux de déneigement et de déglaçage à Barrie et dans ses environs; cette ville est située dans une « ceinture de neige », c’est-à-dire une région qui reçoit annuellement une quantité importante de neige. Mme Positano est la directrice commerciale de l’employeur et les deux frères Positano, y compris l’appelant, font également partie de la direction.
+[3] L’employeur a conclu un certain nombre de contrats de déneigement et de déglaçage avec des établissements de Barrie tels que l’hôtel de ville, le service de police et les services d’incendie, les écoles, les églises et divers autres lieux municipaux et commerciaux. Les contrats comprennent des clauses par lesquelles l’employeur s’engage à parcourir chaque jour et chaque nuit des [traduction] « tournées » pour surveiller la zone et déterminer où le déneigement et le déglaçage sont requis. Apparemment, il est possible qu’à un moment donné, une extrémité de la zone ne reçoive pas de neige tandis que l’autre en reçoit beaucoup. Lors d’une tournée, l’un ou l’autre des deux frères Positano parcourait le secteur selon un itinéraire essentiellement fixe pour se rendre à chacun des emplacements des clients de l’employeur afin de vérifier visuellement s’il fallait déblayer la neige et la glace, déblayer davantage, épandre du sel, etc.
+[4] L’itinéraire fixe de la tournée dans la région faisait entre 90 et 100 kilomètres (on a aussi parlé d’environ 92 kilomètres). Si, lors d’une tournée, on déterminait qu’une zone avait besoin d’être déblayée davantage, une équipe de déneigement et de déglaçage de l’employeur était appelée pour faire le travail ou, si le travail requis ne nécessitait pas plus de 10 minutes, le frère Positano revenait après la tournée avec un véhicule de déneigement et de déglaçage approprié appartenant à l’employeur, et faisait lui-même le travail nécessaire. Ce travail pouvait se faire le jour ou la nuit; l’employeur offre un service 24 heures sur 24 et, bien entendu, la neige peut tomber et la glace peut se former à tout moment.
+[5] Il n’y a pas d’engagement contractuel quant au nombre de tournées à effectuer pendant une période donnée. Pour chaque contrat, la clause indiquait que l’entreprise vérifierait si l’emplacement du client avait besoin d’être déblayé. Le concept de tournée lui-même était celui de l’employeur qui, compte tenu des nombreux clients qui exigeaient ces contrôles de leurs emplacements respectifs, effectuait de tels contrôles en faisant une tournée qui passait devant l’emplacement de chacun de ses clients.
+[6] Les tournées avaient lieu autant de fois que l’employeur le jugeait nécessaire : jusqu’à trois fois par nuit et selon ce qui était jugé nécessaire pendant la journée. Il est intéressant de noter que ni l’employeur ni aucune autre personne n’a consigné le nombre de tournées effectuées au cours d’une période de 12 ou de 24 heures ou d’une autre période donnée. On n’a pas non plus noté quel frère avait effectué une tournée donnée. Généralement, un frère s’occupait des tournées de nuit tandis que l’autre s’occupait des tournées de jour, et les deux frères alternaient les « quarts de travail » de jour et de nuit.
+[7] En outre, les frères Positano effectuaient les tournées à bord de leurs véhicules personnels. Ils ont expliqué procéder ainsi parce que les véhicules de l’employeur disponibles pour les tournées étaient des camions relativement gros, et l’utilisation de ces véhicules lourds pour les tournées augmentait le kilométrage, la consommation de carburant et l’usure de ces véhicules. En contrepartie de l’utilisation de leurs véhicules personnels, les frères recevaient des allocations pour frais afférents à un véhicule déductibles aux termes de la Loi. Ces allocations fixes s’élevaient à 9 100 dollars par an pour chaque frère. Cette allocation était payée en versements de 350 $ toutes les deux semaines de l’année. On a expliqué que c’était pour les besoins de trésorerie de l’employeur que les paiements étaient répartis sur l’ensemble de l’année au lieu d’être versés pendant la saison hivernale de novembre à avril. Les versements avaient lieu toutes les deux semaines, sans tenir compte du nombre de tournées effectuées par le frère au cours de ladite période de deux semaines. Et évidemment, aucune tournée n’était effectuée pendant les mois d’été, au cours desquels les paiements se poursuivaient. Même en hiver, si l’un des frères était absent, en vacances par exemple, il recevait toujours son versement de 350 dollars toutes les deux semaines. En ce qui concerne la manière dont le chiffre de 9 100 $ a été déterminé, d’après ce que j’ai compris du témoignage, c’est le comptable de l’employeur qui l’avait recommandé en s’appuyant sur certains calculs de moyenne concernant le nombre probable de tournées effectuées au cours d’une année donnée.
+[8] L’appelant n’a pas déclaré les 9 100 $ versés annuellement, car il pensait que ce montant était entièrement déductible de toute façon. Le ministre a ajouté les 9 100 $ aux revenus pour chacune des deux années d’imposition en cause. La position du ministre reposait sur le fait que cette allocation pour frais afférents à un véhicule n’était pas [traduction] « raisonnable », car elle ne reposait pas sur le nombre de kilomètres parcourus. Le ministère a plutôt constaté que l’allocation était basée sur un taux forfaitaire, sans rapport avec le nombre de kilomètres parcourus.
+[9] L’intimée a maintenu cette position lors de l’audience. L’appelant a affirmé qu’il ne savait pas qu’il devait tenir un registre ou un dossier similaire pour les tournées. Il a aussi soutenu que le paiement devrait être considéré comme étant [traduction] « raisonnable », car il connaissait la distance précise de chaque tournée, soit environ 92 kilomètres, et le paiement total était basé sur le nombre moyen de tournées effectuées.
+Analyse juridique et décision :
+[10] La question en litige dans cette affaire est claire : le paiement annuel de 9 100 $ à titre d’allocation pour frais afférents à un véhicule était-il [traduction] « raisonnable » conformément aux sous-alinéas 6(1)b)(vii.1) et 6(1)b)(x) de la Loi et, par conséquent, reconnu comme ne devant pas être inclus dans le revenu?
+[11] Ces deux alinéas disposent ce qui suit :
+6(1)b)(vii.1) les allocations raisonnables pour l’usage d’un véhicule à moteur qu’un employé – dont l’emploi n’est pas lié à la vente de biens ou à la négociation de contrats pour son employeur – a reçues de son employeur pour voyager, dans l’accomplissement des fonctions de sa charge ou de son emploi,
+[...]
+6(1)b)(x) l’usage du véhicule n’est pas, pour la fixation de l’allocation, uniquement évalué en fonction du nombre de kilomètres parcourus par celui-ci dans l’accomplissement des fonctions de la charge ou de l’emploi,
+[12] Ces dispositions précisent que les allocations pour l’usage d’un véhicule ne peuvent être exclues du revenu, sauf si le montant de l’allocation est « uniquement évalué en fonction du nombre de kilomètres parcourus dans l’accomplissement [...] de l’emploi. »
+[13] En l’espèce, cependant, 9 100 $ ont été calculés en fonction d’un nombre moyen total de tournées, réparti également entre les deux frères. La distance de chaque tournée était connue. Cependant, le nombre de tournées réelles parcourues, et ce par chaque frère, n’était pas connu, mais a plutôt fait l’objet d’une estimation. Ainsi, le nombre réel de kilomètres précisément parcourus par l’appelant, l’un des deux frères, n’était pas connu, mais a seulement fait l’objet d’une estimation.
+[14] Dans l’arrêt Beauport (Ville De) c. Canada (Ministre du Revenu national), 2001 CAF 198, aux paragraphes 14 à 19, la Cour d’appel fédérale (CAF) a précisé, en se référant aux deux dispositions susmentionnées de l’article 6, qu’une estimation n’était pas suffisante pour constituer une allocation d’automobile raisonnable. Le montant de l’allocation devait « tenir compte de ce facteur sur une base factuelle plutôt qu’estimative ».
+[15] La CAF a ajouté, au paragraphe 17 :
+Or, le système mis en place par la demanderesse ne tient pas compte des kilomètres parcourus par les employés pendant la période pour laquelle les allocations sont versées, mais se fonde sur un estimé basé sur l’expérience de la période précédente. Il s’agit là précisément du type de calcul que le législateur a écarté en adoptant le sous-alinéa 6(1)b)(x)[...].
+[16] Cette décision a été suivie par la Cour dans la décision I-D Foods Corporation c. La Reine, 2013 CCI 15. D’autres décisions de la Cour que l’intimée a également citées, reconnaissent uniformément qu’une allocation d’automobile doit uniquement tenir compte du nombre de kilomètres réels parcourus pour ne pas être incluse dans le revenu. Celles-ci comprennent les décisions Melville Motors Ltd. v. The Queen, 2003 CCI 444; Paré c. La Reine, 2011 CCI 510; Tozer c. La Reine, 2004 CCI 411 et Tri-Bec c. Canada, [2002] GSTC 27.
+[17] À mon avis, l’effet de la législation et de la jurisprudence connexe est clair; l’allocation d’automobile versée par l’employeur à l’appelant n’est pas considérée comme étant « raisonnable » et par conséquent exemptée de l’inclusion du revenu, car les montants payés n’ont pas été déterminés uniquement en fonction des kilomètres réels parcourus.
+[18] Par conséquent, je n’ai d’autre choix que de rejeter cet appel. Toutefois, aucuns dépens ne sont adjugés.
+Signé à Halifax (Nouvelle-Écosse), ce 27e jour d’août 2018.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2018 CCI 160
+No DU DOSSIER DE LA COUR :
+2016-3612(IT)I
+INTITULÉ :
+ALBERT J. POSITANO c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 30 mai 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russel
+DATE DU JUGEMENT :
+Le 31 juillet 2018
+DATE DES SMOTIFS MODIFIÉS DU JUGEMENT :
+Le 27 août 2018
+COMPARUTIONS :
+Représentante de l’appelant :
+Tina M. Positano
+Avocate de l’intimée :
+Me Rini Rashid
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

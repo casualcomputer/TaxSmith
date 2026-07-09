@@ -1,0 +1,209 @@
+---
+title: "Plus Que Noel Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28176/index.do"
+last_modified: "2007-11-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 602"
+citation2: ""
+neutral_citation: "2007 TCC 602"
+decision_date: "2007-11-26"
+language: "en"
+item_id: "28176"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1988
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:31:27.838000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "40d571a19ed2c7b77d10279de464a9833f79a614b8d166c157a40a42081d3bb7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Plus Que Noel Inc. v. M.N.R.
+
+- Citation: 2007 TCC 602
+- Decision date: 2007-11-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1988, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Plus Que Noel Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-26
+Neutral citation
+2007 TCC 602
+File numbers
+2006-3644(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-3644(EI)
+BETWEEN:
+PLUS QUE NOËL INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 14, 2007, at Montréal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Éric Beaulieu
+Counsel for the Respondent:
+Nadia Golmier
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of November 2007.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 9th day of January 2008.
+Brian McCordick, Translator
+Citation: 2007TCC602
+Date: 20071126
+Docket: 2006-3644(EI)
+BETWEEN:
+PLUS QUE NOËL INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant specializes in the design, manufacturing and installation of Christmas decorations generally found in public places such as Place Ville‑Marie. The Christmas decoration manufacturing and installation activities mainly take place during a roughly six‑week period in the fall. Consequently, every fall, in order to meet its customers' seasonal needs, the Appellant hires the services of several workers, who generally stay on only for the period during which the Christmas decorations are made and installed. This is the context in which Véronique Dufour ("the Worker") worked for the Appellant from October 24 to December 5, 2005 ("the relevant period"). The issue for determination in the instant case is whether the work done by the Worker for the Appellant meets the requirements of a contract of service under paragraph 5(1)(a) of the Employment Insurance Act ("the Act").
+[2] In making his decision, the Minister of National Revenue ("the Minister") relied on the following assumptions of fact set out in paragraph 10 of the Reply to the Notice of Appeal. As stated in parentheses, the Appellant admitted, denied, or claimed to have no knowledge of these assumptions.
+[TRANSLATION]
+(a) The Appellant incorporated on November 20, 2001. (admitted)
+(b) The Appellant specialized in the manufacture and installation of Christmas decorations. (admitted)
+(c) The Appellant hired five year-long regular employees, and several casual workers during the holiday period at the end of each year. (denied)
+(d) The Worker is a student. (no knowledge)
+(e) The Worker responded to an advertisement in the Voir newspaper for part-time or full-time freelance decoration installers at a rate of $8 per hour. (no knowledge)
+(f) On October 24, 2005, the Worker signed a contract drawn up by the Appellant. (admitted)
+(g) On August 2, 2006, the Worker told a representative of the Respondent that she was not concerned about her status as a worker and that she just wanted to make a little money. (no knowledge)
+(h) The Worker had no experience with Christmas decoration. (no knowledge)
+(i) The first work that the Appellant did was to prepare decorations at the Appellant's warehouse. Later, she installed decorations on the premises of businesses that were customers of the Appellant's (Place Ville‑Marie and Domtar). (admitted)
+(j) The Worker received her instructions from the Appellant. (denied)
+(k) In the performance of her duties, the Worker followed the instructions of one of the Appellant's supervisors at the warehouse and on the installation sites. (denied)
+(l) The Worker worked for the Appellant three days a week, and took courses on the other two days. (no knowledge)
+(m) The Worker's work day schedule at the Appellant's warehouse was 8:30 a.m. to 5 p.m. (denied)
+(n) For the decoration installation work, the Appellant reported to the place and at the time designated by the Appellant. (denied)
+(o) The Worker had a 15‑minute break in the morning and a 30‑minute meal break; both were paid by the Appellant. (denied)
+(p) The Worker did not negotiate her salary; she received $8 an hour in remuneration, determined by the Appellant. (no knowledge)
+(q) Every week, the supervisor had the Worker sign a time sheet setting out the hours that she had worked. (admitted)
+(r) The Worker had to issue an invoice to the Appellant stating the same number of hours in order to receive her remuneration. (admitted)
+(s) The Worker received a cheque the following week. (no knowledge)
+(t) All the supplies and equipment that the Worker needed in the performance of her duties, except for her boots and gloves, were provided by the Appellant. (admitted)
+Preliminary remarks
+[3] Paul‑André Fortin, an eligibility officer with the Canada Customs and Revenue Agency, was the Respondent's sole witness. The Appellant's witnesses were the Worker, Yves Guilbeault and Karine‑Ève Crochetière.
+[4] The parties provided the Court with certain decisions, including Landry v. Canada (Minister of National Revenue), [2004] T.C.J. No. 86, Lacroix v. Canada (Minister of National Revenue), [2007] T.C.J. No. 87, Dynamex Canada Inc. v. Mamona, 2003 FCA 248, Le Livreur Plus Inc. v. Canada (Minister of National Revenue), 2004 FCA 68, D & J Driveway Inc. v. Canada (Minister of National Revenue), 2003 CarswellNat 3785, 2003 FCA 453, 322 N.R. 381, and Canada (Attorney General) v. Les Productions Bibi et Zoé Inc. (Federal Court of Appeal, 2004‑02‑04), 2004 FCA 54.
+Analysis
+The law
+[5] When the courts must define concepts from Quebec private law to apply federal legislation such as the Employment Insurance Act, they must follow the rule of interpretation set out in section 8.1 of the Interpretation Act. To determine the nature of a Quebec employment contract and distinguish it from a contract for services, one must apply the relevant rules of the Civil Code of Québec (the "Civil Code"), at least since June 1, 2001. These rules are not consistent with the rules stated in decisions such as 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.R. 983 and Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553. In Quebec, contrary to the situation in the common law provinces, the constituent elements of a contract of employment have been codified, and, since the coming into force of articles 2085 and 2099 of the Civil Code on January 1, 1994, the courts no longer have the same latitude as the common law provinces to define what constitutes an employment contract. If it is necessary to rely on previous court decisions to determine whether there was a contract of employment, one must choose decisions with an approach that conforms to civil law principles.
+[6] The Civil Code contains distinct chapters governing the "contract of employment" (articles 2085 to 2097) and the "contract of enterprise or for services" (articles 2098 to 2129).
+[7] Article 2085 states that a contract of employment
+. . . is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[8] Article 2098 states that a contract of enterprise
+. . . is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+[9] Article 2099 follows, and states:
+The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[10] It can be said that the fundamental distinction between a contract for services and a contract of employment is the absence, in the former case, of a relationship of subordination between the provider of services and the client, and the presence, in the latter case, of the right of the employer to direct and control the employee. Thus, it must be determined whether there was a relationship of subordination between the Appellant and the Worker in the case at bar.
+[11] The Appellant has the burden of proving, on a balance of probabilities, that the facts in issue establish its right to have the Minister's decision vacated. It must demonstrate the contract entered into by the parties and establish their common intention with respect to its nature. If there is no direct evidence of that intention, the Appellant may turn to indicia from the contract and the Civil Code provisions that govern it. In the case at bar, if the Appellant wishes to show that the parties did not enter into an employment contract, it will have to demolish the Minister's argument that there was a relationship of subordination. In order to do so, it may, if necessary, prove the existence of indicia of independence such as those stated in Wiebe Door, supra, namely the ownership of tools, the risk of loss and the chance of profit. However, in my opinion, contrary to the common law approach, once a judge is satisfied that there was no relationship of subordination, that is the end of the judge's analysis of whether a contract for services existed. It is unnecessary, in such a case, to consider the relevance of the ownership of tools or the risk of loss or chance of profit, since, under the Civil Code, the absence of a relationship of subordination is the only essential element of a contract for services that distinguishes it from a contract of employment. Elements such as the ownership of tools, the risk of loss or the chance of profit are not essential elements of a contract for services. However, the absence of a relationship of subordination is an essential element. For both types of contract, one must decide whether or not a relationship of subordination exists. Obviously, the fact that the Worker behaved like a contractor could be an indication that there was no relationship of subordination.
+[12] Ultimately, courts should usually make a decision based on the facts shown by the evidence regarding the performance of the contract, even if the intention expressed by the parties suggests the contrary. If the evidence regarding the performance of the contract is not conclusive, the Court can still make a decision based on the parties' intention and their description of the contract, provided the evidence concerning those questions is probative. If that evidence is not conclusive either, the appeal will be dismissed on the basis that there is insufficient evidence.
+Relationship of subordination
+[13] Was the Worker working under the Appellant's control or direction? Did the Appellant direct or control the Worker, or have the right to do so?
+[14] It is clear that the work agreement (Exhibit A‑2) between the Appellant and the Worker stated that the Worker's services were being retained as those of an independent contractor. But even though the parties clearly expressed their intention in their written contract, this does not mean that I must consider that intention probative. The contract also needs to have been performed in accordance with its provisions. Just because the parties stipulated that the work would be performed by an independent contractor does not mean that there was no employer-employee relationship. In my view, it is essential to verify this, because it is all too often in the parties' interest to conceal the true nature of a contract. Indeed, too frequently, employers who wish to reduce the tax and benefit burdens associated with salaries decide to treat their employees like self-employed workers. Often, employees do not negotiate their contracts on an equal basis; I would describe most of their contracts as contracts of adhesion. In the case at bar, the very credible testimony given by the Worker, who was a student during the relevant period, showed very clearly that she urgently needed to work, and that she signed the contract, as submitted by the Appellant, without the slightest negotiation. In fact, the Worker did not even understand what she had signed. In short, the Worker was prepared to sign anything in order to work. In cases such as this, one must carefully verify whether the contractual stipulation is consistent with reality.
+[15] I feel it important to note that if this Appellant wishes to show that there was no employment contract, it must rebut, on a balance of probabilities, the Minister's argument that there was a relationship of subordination. I also feel it important to note that if the evidence discloses indicia of both independence and subordination, the Court must find that an employment contract existed, because there can be no relationship of subordination in the performance of a contract for services. That is what Picard J. decided in Commission des normes du travail c. 9002‑8515 Québec Inc., REJB 2000‑18725, para. 15(5e) (Que. S.C.), where it is stated:
+[TRANSLATION]
+15. In order for a contract of enterprise to exist, there must be no relationship of subordination. In the case at bar, there is a sufficient number of indicia of a relationship of authority.
+[16] Was the Worker free to choose the conditions under which the work assigned to her was performed (where, what, when and how)? The principal facts with respect to these conditions, set out in the Reply to the Notice of Appeal and relied upon by the Respondent in determining that the Worker was employed in insurable employment under a contract of employment, are as follows:
+[TRANSLATION]
+. . .
+(h) The Worker had no experience with Christmas decoration.
+(i) The first work that the Appellant did was to prepare decorations at the Appellant's warehouse. Later, she installed decorations on the premises of businesses that were customers of the Appellant's (Place Ville Marie and Domtar).
+(j) The Worker received her instructions from the Appellant.
+(k) In the performance of her duties, the Worker followed the instructions of one of the Appellant's supervisors at the warehouse and on the installation sites.
+(l) The Worker worked for the Appellant three days a week, and took courses on the other two days.
+(m) The Worker's work day schedule at the Appellant's warehouse was 8:30 a.m. to 5 p.m.
+(n) For the decoration installation work, the Appellant reported to the place and at the time designated by the Appellant.
+(o) The Worker had a 15‑minute break in the morning and a 30‑minute meal break; both were paid by the Appellant.
+. . .
+(q) Every week, the supervisor had the Worker sign a time sheet setting out the hours that she had worked.
+. . .
+(t) All the supplies and equipment that the Worker needed in the performance of her duties, except for her boots and gloves, were provided by the Appellant.
+[17] The Appellant needed to show, on a balance of probabilities, that these facts were inaccurate. The Appellant's evidence in this regard essentially depended on the testimony of its president Mr. Guilbeault, and on that of Ms. Crochetière, who corroborated Mr. Guilbeault's testimony on these facts. It should be noted that Ms. Crochetière was previously a freelancer and then a team leader with the Appellant. I would also note that Ms. Crochetière now operates a marketing business and that she receives marketing mandates from the Appellant.
+[18] Mr. Guilbeault's testimony can be summarized as follows:
+(i) The freelancers, including the Worker, had to do their Christmas decoration manufacturing and assembly work (e.g. making wreaths, vines and garlands, decorating Christmas trees, etc.) at the Appellant's warehouse, and then install and set up these elements on the Appellant's customers' premises.
+(ii) No work schedule was imposed on the Appellant's freelancers. They were free to work on the days and hours that suited them.
+(iii) Like most freelancers whose services had been retained, the Worker had no experience making, assembling, installing and setting up Christmas decorations. The workers were given a day of training before starting their work.
+(iv) All the equipment and supplies (such as pliers, platforms, tinsel, tape, Christmas trees, pine branches, sewing machines, etc.) that these workers needed was supplied by the Appellant, with the exception of boots and gloves.
+(v) The workers had two paid 15‑minute breaks per work day. They could take these breaks when it suited them. In addition, they could take a 15‑60 minute meal break when they wished.
+(vi) The freelancers were totally free to accept or decline a work assignment. When they reported to the work sites, the Appellant's supervisor offered them various tasks to choose from. They could then accept or turn down the tasks thereby offered. Generally, the workers chose the tasks that suited their skills and personal preferences. Once their tasks were completed, the workers could stop working. If they wanted to keep working, the Appellant generally offered them other tasks, which they could either accept or decline.
+vii) The supervisor or team leader's role included the assignment of work to the freelancers. Mr. Guilbeault's testimony in this regard is worth quoting:[1]
+[TRANSLATION]
+Q. ... bearing in mind what work the freelancers do, and, later, we will look at what work the employees, the shop forepersons, did as well?
+A. So my job is to meet the team leaders/supervisors, and we determine... we say what the game plan is, and they ensure that the job is assigned to the freelancers who report in the morning... We have certain specific things to do, and each of the freelancers will take one of those jobs so that we can achieve our goals by the end of the day, because time is always short and we have targets to meet.
+Q. So, in the mornings, at the workshop, there was work to get done...
+A. Yes.
+Q. ... could you explain to us how this goes, what the supervisor does in the workshop?
+A. The people arrive. The person who is in charge – the team leader – is there. Once the people have arrived, we say, "OK. Today, we will be working on Place Ville‑Marie, on 1250 or 1100 René-Lévesque Boulevard, where we have garlands, wreaths, and Christmas trees to do. We have vines, various pine branches, so who is doing what? We make the offers to the people, and they gravitate toward what they like to do most.
+(viii) The role of the supervisor or team leader also included motivating the freelancers, supervising them, and coordinating their work so that the deadlines were met and the quality of the finished product was commensurate with the Appellant's reputation.[2] Mr. Guilbeault's testimony with respect to the need for team leaders to monitor the freelancers' work is also worth quoting:
+[TRANSLATION]
+The supervisor will be there to look, because ... let me give you a specific example. We have two people who work on sections of a wreath, such as the Domtar wreath, which is a 32‑foot wreath. If one of them works one way, and the other works another way, the lighting intensity and patterns don't make sense when the two sections are joined together, hence the need to monitor. The team leader controls the quality of the product per se and sees to the dispatching when they are finished... and offers something else: do you want to go do "X"? Do you want to go do "Y"? And this is how we work all day.[3]
+[19] I found Mr. Guilbeault and Ms. Crochetière's testimony implausible. In addition, Ms. Crochetière did not appear to be an independent witness. If one is to believe these two witnesses, the Appellant's workplaces were anarchic. The witnesses claimed that there was no direction or control over the freelancers' terms and conditions of employment. Essentially, they said that the freelancers, including the Worker, could work when they wanted and accumulate the number of hours that they wanted. They were totally free to accept or decline a work assignment. In a sense, they determined what work they were willing to do. The role of the team leaders was essentially to motivate the freelancers, offer them tasks, and control the quality of the finished product. In my opinion, the Appellant's control over the place where the work was to be performed was clear. The freelancers were not free to do their work anywhere other than the warehouse or the Appellant's customers' premises. In my opinion, the Appellant's control over the schedule and the nature of the freelancers' work was indirect and subtle, if not insidious. The Worker needed to work. She also knew that she had to work a certain number of hours during the periods of availability that she had told the Appellant about, and that she had to perform the tasks assigned to her. She knew that if she did not comply with the Appellant's demands, she would be fired. As Ms. Crochetière so aptly put it: [TRANSLATION] "If the work ... if, once the work is explained, the person does not manage to produce it as we showed it, or there is someone who never wants to do anything proposed to them, we will simply not call them back, and we will get someone else."[4] I understand that the Appellant had to be flexible with respect to the freelancers' schedules and the nature of their work in view of the seasonal nature of the work and the minimal remuneration paid for it, but to try to get me to believe that there were no directives concerning the work schedule or the nature of the work, that is going too far. Indeed, based on the particular facts of the instant case, the Court does not believe the Appellant's allegations that the Worker was totally free to choose when she worked and to do the work that she saw fit to select. If the Appellant's two witnesses are to be believed, the Worker got no instructions from the team leaders with respect to the work to be performed, and was subject to no supervision by the team leaders. If the two witnesses are to be believed, the team leaders' role was solely to motivate the workers, offer them work, and verify the quality of the finished products. This seems implausible to me in light of the Worker's lack of experience. Doesn't the example of the 32‑foot Domtar wreath show that the team leaders gave precise instructions concerning the way in which the wreath was to be made? I do not see how a worker as inexperienced as the Appellant could have done the final setup of the Christmas decorations on the Appellant's customers' premises without precise instructions from the team leaders.
+[20] I would add that the Worker was reimbursed for certain expenses, that she had two paid 15‑minute breaks each work day, that she was paid for her training time, and that the Appellant provided her with all the equipment and supplies that she needed to perform her duties. All these facts are indicia of a relationship of subordination and a lack of independence.
+[21] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 26th day of November 2007.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 9th day of January 2008.
+Brian McCordick, Translator
+CITATION: 2007TCC602
+COURT FILE NO.: 2006-3644(EI)
+STYLE OF CAUSE: PLUS QUE NOËL INC. and M.N.R.
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: August 14, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: November 26, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Éric Beaulieu
+Counsel for the Respondent:
+Nadia Golmier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Éric Beaulieu
+City: Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See paragraphs 173-175 of the transcript.
+[2] See paragraph 213 of the transcript.
+[3] See paragraph 185 of the transcript.
+[4] See paragraph 328 of the transcript.

@@ -1,0 +1,377 @@
+---
+title: "Haley v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27624/index.do"
+last_modified: "2006-09-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 464"
+citation2: ""
+neutral_citation: "2006 TCC 464"
+decision_date: "2006-09-19"
+language: "en"
+item_id: "27624"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 445
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:44:58.546000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "360296238a2a01f84f86b43bf7ce0c8401031ac87152fab665c9b97c84f32524"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Haley v. The Queen
+
+- Citation: 2006 TCC 464
+- Decision date: 2006-09-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 445, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Haley v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-19
+Neutral citation
+2006 TCC 464
+File numbers
+2006-10(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-10(IT)I
+BETWEEN:
+PETER HALEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 6, 2006, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Frédéric Morand
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001, 2002 and 2003 taxation years are dismissed.
+Signed at Ottawa, Canada, this 19th day of September 2006.
+"Lucie Lamarre"
+Lamarre J.
+Citation: 2006TCC464
+Date: 20060919
+Docket: 2006-10(IT)I
+BETWEEN:
+PETER HALEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] In computing his taxable income for the 2001, 2002 and 2003 taxation years, the appellant included amounts of $6,632, $6,831 and $6,490 respectively, which he received out of or under a retirement compensation arrangement ("RCA") after taking advantage of an early retirement incentive program offered by his employer, the Department of Indian Affairs and Northern Development of the Government of Canada. These amounts were reported on T4A-RCA slips as "distributions from a retirement compensation arrangement" and were included in income pursuant to paragraph 56(1)(x) of the Income Tax Act ("ITA"). In so computing his taxable income for the above-mentioned years, the appellant claimed an offsetting deduction of the same amounts pursuant to paragraph 60(t) of the ITA. He made this claim on the basis that he had contributed, along with his employer, to the RCA under which he was entitled to early retirement benefits.
+[2] Paragraphs 56(1)(x) and 60(t) of the ITA read as follows:
+SECTION 56: Amounts to be included in income for year.
+(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+. . .
+(x) Retirement compensation arrangement -
+any amount, including a return of contributions, received in the year by the taxpayer or another person, other than an amount required to be included in that other person's income for a taxation year under paragraph 12(1)(n.3), out of or under a retirement compensation arrangement that can reasonably be considered to have been received in respect of an office or employment of the taxpayer;
+. . .
+SECTION 60: Other deductions.
+There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+. . .
+(t) RCA distributions - where an amount in respect of a particular retirement compensation arrangement is required by paragraph 56(1)(x) or (z) or subsection 70(2) to be included in computing the taxpayer's income for the year, an amount equal to the lesser of
+(i) the total of all amounts in respect of the particular arrangement so required to be included in computing the taxpayer's income for the year, and
+(ii) the amount, if any, by which the total of all amounts each of which is
+(A) an amount (other than an amount deductible under paragraph 8(1)(m.2) or transferred to the particular arrangement under circumstances in which subsection 207.6(7) applies) contributed under the particular arrangement by the taxpayer while it was a retirement compensation arrangement and before the end of the year,
+(A.1) an amount transferred in respect of the taxpayer before the end of the year to the particular arrangement from another retirement compensation arrangement under circumstances in which subsection 207.6(7) applies, to the extent that the amount would have been deductible under this paragraph in respect of the other arrangement in computing the taxpayer's income if it had been received by the taxpayer out of the other arrangement,
+(B) an amount paid by the taxpayer before the end of the year and at a time when the taxpayer was resident in Canada to acquire an interest in the particular arrangement, or
+(C) an amount that was received or became receivable by the taxpayer before the end of the year and at a time when the taxpayer was resident in Canada as proceeds from the disposition of an interest in the particular arrangement,
+exceeds the total of all amounts each of which is
+(D) an amount deducted under this paragraph or paragraph (u) in respect of the particular arrangement in computing the taxpayer's income for a preceding taxation year, or
+(E) an amount transferred in respect of the taxpayer before the end of the year from the particular arrangement to another retirement compensation arrangement under circumstances in which subsection 207.6(7) applies, to the extent that the amount would have been deductible under this paragraph in respect of the particular arrangement in computing the taxpayer's income if it had been received by the taxpayer out of the particular arrangement.
+[3] An RCA is defined in part as follows in subsection 248(1):
+"retirement compensation arrangement" - "retirement compensation arrangement" means a plan or arrangement under which contributions (other than payments made to acquire an interest in a life insurance policy) are made by an employer or former employer of a taxpayer, or by a person with whom the employer or former employer does not deal at arm's length, to another person or partnership (in this definition and in Part XI.3 referred to as the "custodian") in connection with benefits that are to be or may be received or enjoyed by any person on, after or in contemplation of any substantial change in the services rendered by the taxpayer, the retirement of the taxpayer or the loss of an office or employment of the taxpayer . . .
+[4] The appellant submits that he contributed to the RCA through his superannuation contributions under the Public Service Superannuation Act, R.S., c. P-36 ("PSSA") and accordingly is entitled to a deduction pursuant to paragraph 60(t) of the ITA.
+[5] It is admitted by the appellant that in the past, he had already deducted from his income the contributions he made under the PSSA. He is now claiming an offsetting deduction against his income received under the RCA, the basis of the claim being that he has contributed to that arrangement through his contributions under the PSSA. The Minister of National Revenue disputes this claim for an offsetting deduction.
+[6] The appellant retired in 1998 at 50 years of age. He was part of a group that was eligible for an RCA that was established for employees between the ages of 50 and 54 who left the public service and were entitled to benefits under the Early Retirement Incentive Program ("ERI Program"). The ERI Program was introduced for a three-year period, effective April 1, 1995, and provided for the waiver of the normal early retirement pension reduction for employees of government departments and certain agencies who were declared surplus. For eligible employees in this category, benefits equal to the pension reduction that normally would have been applied were funded through, and paid out of, the RCA account (see Exhibit A-1, page A-19). The RCA, referred to as RCA No. 2, was established pursuant to sections 3 and 4 of the Retirement Compensation Arrangements Regulations, No. 2, SOR/95-169, made under section 10 of the Special Retirement Arrangements Act, S.C. 1992, c. 46, Sch. 1 ("SRAA").
+[7] Section 10 of the SRAA state the following:
+Arrangements may be established
+10. The Governor in Council may, on the recommendation of the Minister, by order,
+(a) establish or authorize the establishment of a plan or an arrangement for the payment of benefits, of a kind referred to in the definition "retirement compensation arrangement" in subsection 248(1) of the Income Tax Act, to or in respect of any person
+(i) who is required to contribute to the Superannuation Account referred to in section 4 of the Public Service Superannuation Act or to the Public Service Pension Fund as defined in subsection 3(1) of that Act . . . .
+[Emphasis added.]
+[8] Sections 3 and 4 of the Retirement Compensation Arrangements Regulations, No. 2 state the following:
+SPECIAL RETIREMENT ARRANGEMENTS ACT
+Retirement Compensation Arrangements Regulations, No. 2
+P.C. 1995-545 31 March, 1995
+His Excellency the Governor General in Council, on the recommendation of the President of the Treasury Board, pursuant to section 10 and subsection 28(1) of the Special Retirement Arrangements Act*, is pleased hereby to make the annexed Regulations establishing the Public Service early retirement compensation arrangement, effective April 1, 1995.
+* S.C. 1992, c. 46, Sch. 1
+REGULATIONS ESTABLISHING THE PUBLIC SERVICE EARLY RETIREMENT COMPENSATION ARRANGEMENT
+. . .
+ESTABLISHMENT OF ARRANGEMENT
+3. There is hereby established a retirement compensation arrangement for the payment of benefits to or in respect of any surplus employee or Governor in Council appointee who
+(a) on April 1, 1995, was employed in a portion of the Public Service referred to in Part I of the schedule and was
+(i) required to contribute to the Superannuation Account pursuant to subsection 5(1) of the Public Service Superannuation Act,
+(ii) contributing to the Superannuation Account pursuant to an election made under section 5.2 of that Act, or
+(iii) on leave of absence without pay and could make or had made an election under subsection 5.3(1) of that Act; or
+(b) was employed in a portion of the Public Service referred to in Part II of the schedule on the day on which that portion was added to Part II of the schedule and, on that day, was
+(i) required to contribute to the Superannuation Account pursuant to subsection 5(1) of the Public Service Superannuation Act,
+(ii) contributing to the Superannuation Account pursuant to an election made under section 5.2 of that Act, or
+(iii) on leave of absence without pay and could make or had made an election under subsection 5.3(1) of that Act. SOR/95-289, s.2.
+[Emphasis added.]
+BENEFIT ENTITLEMENT
+4. (1) A surplus employee referred to in paragraph 3(a) is entitled to an annual benefit calculated in accordance with subsection 7(1) on condition that the employee
+(a) elects, not later than 60 days after the date of the first notice of surplus status given to the employee after April 1, 1995, to receive that annual benefit;
+(b) ceases to be employed within a period of six months after the date of the first notice of surplus status given to the employee after April 1, 1995 or not later than the end of such longer period, determined by the deputy head, as is required in order to meet operational requirements;
+(c) has not, before ceasing to be employed, received
+(i) in the case of an employee who is subject to the Work Force Adjustment Directive, a reasonable job offer within the meaning of that Directive, or
+(ii) in the case of an employee who is subject to the Executive Employment Transition Policy, an offer of alternative employment in a portion of the Public Service referred to in Part I of the schedule;
+(d) where the employee's services are no longer required by reason of the transfer of work or a function to an employer outside the Public Service, has not received an offer of contiguous employment from that employer as a consequence of the transfer;
+(e) has not elected to receive
+(i) in the case of an employee referred to in subparagraph (c)(i), a payment under a program respecting early departure incentives arising from the budget tabled in Parliament on February 27, 1995, or a payment under the Civilian Reduction Program arising from the budget tabled in Parliament on February 22, 1994, and
+(ii) in the case of an employee referred to in subparagraph (c)(ii), a negotiated settlement under the Executive Employment Transition Policy; and
+(f) at the time the employee ceases to be employed,
+(i) has been employed in the Public Service, within the meaning of subsection 3(1) of the Public Service Superannuation Act, on a full-time basis as described in clause 13(1)(c)(ii)(C) of that Act for a period of or for periods totalling at least 10 years,
+(ii) has reached the age of 50 years but has not reached the age of 55 years, and
+(iii) has exercised the option to receive an annual allowance in accordance with clause 13(1)(c)(ii)(B) or (D) of the Public Service Superannuation Act.
+(2) For greater certainty, subsection (1) applies in respect of a surplus employee referred to in paragraph 3(a) whose surplus status ceases but who, during the period beginning on April 1, 1995 and ending on March 31, 1998, receives another notice of surplus status and, for the purposes of paragraph (1)(b), the period of six months referred to in that paragraph shall be calculated from the date of the subsequent notice.
+(3) A surplus employee referred to in paragraph 3(b) is entitled to an annual benefit calculated in accordance with subsection 7(1) on condition that the employee
+(a) elects, not later than 60 days after the date of the first notice of surplus status given to the employee after the applicable day referred to in paragraph 3(b), to receive that annual benefit;
+(b) ceases to be employed within a period of six months after the date of the first notice of surplus status given to the employee after the applicable day referred to in paragraph 3(b) or not later than the end of such longer period, determined by the deputy head, as is required in order to meet operational requirements;
+(c) does not, before ceasing to be employed, receive an offer of alternative employment in the portion of the Public Service in which the employee is employed; and
+(d) meets the conditions set out in paragraphs (1)(d) and (f).
+(4) For greater certainty, subsection (3) applies in respect of a surplus employee referred to in paragraph 3(b) whose surplus status ceases but who, during the period beginning on the applicable day referred to in that paragraph and ending on March 31, 1998, receives another notice of surplus status and, for the purposes of paragraph (3)(b), the period of six months referred to in that paragraph shall be calculated from the date of the subsequent notice.
+[Emphasis added.]
+[9] Subsections 4(1), 5(1) and 5(1.1) of the PSSA, state the following for the relevant years:
+SUPERANNUATION
+Scope of Part I
+4. (1) Subject to this Part, an annuity or other benefit specified in this Part shall be paid to or in respect of every person who, being required to contribute to the Superannuation Account or the Public Service Pension Fund in accordance with this Part, dies or ceases to be employed in the Public Service, which annuity or other benefit shall, subject to this Part, be based on the number of years of pensionable service to the credit of that person.
+. . .
+Persons required to contribute
+5. (1) Subsections (1.1) to (1.4) apply to persons employed in the public service . . .
+Contribution rates before 2004
+(1.1) A person is required to contribute, in respect of every year in the period beginning on January 1, 2000 and ending on December 31, 2003, by reservation from salary or otherwise,
+(a) four per cent of the portion of his or her salary that is less than or equal to the Year's Maximum Pensionable Earnings, as that term is defined in subsection 11(3); and
+(b) seven and one-half per cent of the portion of his or her salary that is greater than the Year's Maximum Pensionable Earnings.
+[10] The appellant states that one prerequisite for eligibility for an RCA was that he have contributed to the RCA account through his contributions under the PSSA. He therefore considers that, having contributed to the RCA account, he is eligible for a deduction under paragraph 60(t) of the ITA.
+[11] The respondent, relying on the legislative framework establishing a person's entitlement to receive benefits under an RCA, alleges that the appellant never contributed to RCA No. 2. The respondent argues that the SRAA originally provided the authority for the establishment of two funding vehicles referred to as RCA No. 1 and RCA No. 2.
+[12] Paragraph 10(a) of the SRAA referred to above, is discretionary in nature and it is the statutory provision that governs the appellant's situation. By contrast, paragraph 11(1)(a) of the SRAA is a mandatory provision and applies to individuals who receive a salary in excess of a specified annual threshold, which was not the appellant's situation. Paragraph 11(1)(a) reads as follows:
+ARRANGEMENTS SHALL BE ESTABLISHED
+11. (1) The Governor in Council shall, on the recommendation of the Minister, by order, as soon as is practicable after the day on which this subsection comes into force, establish or authorize the establishment of a plan or an arrangement for the payment of benefits, of a kind referred to in the definition "retirement compensation arrangement" in subsection 248(1) of the Income Tax Act, to or in respect of any person
+(a) who, on or after that day, is required to contribute to the Superannuation Account referred to in section 4 of the Public Service Superannuation Act or to the Public Service Pension Fund as defined in subsection 3(1) of that Act and whose annual rate of salary is greater than the annual rate of salary that is fixed by any regulations made under paragraph 42.1(1)(a) of that Act or is greater than the annual rate that may be determined in the manner prescribed by those regulations.
+[Emphasis added.]
+[13] Benefit entitlement with respect to RCA No. 1 is governed by section 4 of the Retirement Compensation Arrangements Regulations, No. 1, SOR/94-785. In accordance with section 15 of the SRAA, sections 8 and 9 of the Retirement Compensation Arrangements Regulations, No. 1, set out the manner and the circumstances in which beneficiaries under RCA No. 1 must contribute to the RCA account.
+[14] Section 15 of the SRAA states the following:
+CONTRIBUTIONS
+Persons required to contribute
+15. Every person who is subject to a retirement compensation arrangement that is designated by the regulations is required to contribute to the Retirement Compensation Arrangements Account, by reservation from the person's salary or otherwise, in the manner and under the circumstances prescribed in respect of that arrangement, at the rate or rates established by the regulations in respect of that arrangement.
+Sections 4, 8 and 9 of the Retirement Compensation Arrangements Regulations, No. 1, read as follows:
+ESTABLISHMENT OF ARRANGEMENT
+4. There is hereby established a retirement compensation arrangement for the payment of benefits to or in respect of any person who
+(a) on or after December 15, 1994 is required to contribute to the Superannuation Account or Public Service Pension Fund;
+(b) on or after December 15, 1994 is required to contribute to the Canadian Forces Superannuation Account or the Canadian Forces Pension Fund;
+(c) on or after December 15, 1994 is required to contribute to the Royal Canadian Mounted Police Superannuation Account or the Royal Canadian Mounted Police Pension Fund;
+(d) is or has been a deputy head, has to the person's credit under the Public Service Superannuation Act not less than ten years of pensionable service and elects, in accordance with section 7, before the person ceases to be employed in the Public Service, to become subject to the retirement compensation arrangement, other than a person whose employment terminates or terminated by reason of misconduct; or
+(e) immediately before December 15, 1994 was deemed by section 14 of the Public Service Superannuation Act, as that section read at that time, to be employed in the Public Service. SOR/97-520, s. 1; SOR/2002-73, ss. 2,33.
+[Emphasis added.]
+CONTRIBUTIONS AND BENEFITS
+. . .
+8.(1) Subject to subsection (2), a participant referred to in paragraph 4(d) shall contribute to the Retirement Compensation Arrangements Account at a rate equal to twice the applicable rate set out in section 5 of the Public Service Superannuation Act, read without reference to paragraph 5(6)(b) of that Act.
+(2) If the aggregate of the period of pensionable service of a participant - consisting of pensionable service under the Public Service Superannuation Act, other pensionable service as determined under subsection 5(5) of that Act and the period specified by the participant in an election under paragraph 11(1)(d) of the Act - exceeds 35 years, the participant shall contribute to the Retirement Compensation Arrangements Account, in respect of the portion of the aggregate period that exceeds 35 years, at a rate equal to twice the rate set out in subsection 5(3), (3.1) or (4) of the Public Service Superannuation Act, as the case may be, read without reference to paragraph 5(6)(b) of that Act.
+(3) Contributions under subsections (1) and (2) shall be based on the salary that the participant was receiving on the day that the participant was last employed as a deputy head, adjusted from time to time in accordance with any revisions to the participant's salary range.
+. . .
+9. (1) Subject to subsection (2), every participant referred to in paragraph 4(e) shall contribute to the Retirement Compensation Arrangements Account at the rate, and in respect of the salary, established in respect of the participant under section 14 of the Public Service Superannuation Act as that section read immediately before December 15, 1994.
+(2) If the aggregate of the period of pensionable service of a participant - consisting of pensionable service under the Public Service Superannuation Act, other pensionable service as determined under subsection 5(5) of that Act and the period specified by the participant in an election under section 14 of that Act as that section read immediately before December 15, 1994 - exceeds 35 years, the participant shall contribute to the Retirement Compensation Arrangements Account, in respect of the portion of the aggregate period that exceeds 35 years, at a rate equal to the rate established in respect of the participant under that section as it read immediately before that date. SOR/2002-73, s. 5.
+[Emphasis added.]
+[15] The appellant has acknowledged that he was not eligible to receive benefits under RCANo. 1. Rather, he qualified for benefits under RCA No. 2 because he was considered a "surplus employee", which in turn allowed him to receive benefits by virtue of sections 3 and 4 of the Retirement Compensation Arrangements Regulations, No. 2 referred to above. Indeed, the appellant admits to being a beneficiary under RCA No. 2.
+[16] According to the respondent, although Retirement Compensation Arrangements Regulations, No. 1 provide that beneficiaries under RCA No. 1 must contribute to the RCA account, there is no similar provision for beneficiaries under RCA No. 2. Hence, it is the respondent's submission that this absence of a requirement to make contributions confirms that the appellant did not contribute. The respondent also relies on the Report on the Actuarial Review as at 31 December, 1998 of the Retirement Compensation Arrangements Account, submitted to the President of the Treasury Board, which specifically states, at page 5, that RCA No. 2 is entirely funded by the government:
+The Retirement Compensation Arrangements (RCA) Account is the funding vehicle for RCA No. 1 and RCA No. 2. Effective 15 December 1994, RCA No. 1 was established pursuant to the Special Retirement Arrangements Act (SRAA) to provide all pension benefits in excess of those that may, in accordance with the Income Tax Act restrictions on registered pension plans, be paid from the pension plans established under the Public Service Superannuation Act, the Canadian Forces Superannuation Act and the Royal Canadian Mounted Police Superannuation Act.
+Effective 1 April 1995, RCA No. 2 was established by the RCA regulations as a program for certain Public Service employees declared surplus before 1 April 1998 as part of the Government's downsizing initiative. Participation was limited to individuals between ages 50 and 54 who met the conditions specified in the regulations. RCA No. 2 pays the difference between a pension unreduced for early retirement and the reduced pension payable from the Public Service Superannuation Account. It is funded entirely by the Government.
+[Emphasis added.]
+[17] The respondent also submits that this is corroborated by two financial statements contained in the Report on the Administration of the Public Service Superannuation Act for the Fiscal Year Ended March 31, 2000. The financial statements for RCA No. 1 show contributions from the employees while the financial statements for RCA No. 2 show contributions from the government only.
+[18] Those financial statements were reproduced as Appendix F to the respondent's written submissions, as follows:
+APPENDIX F
+Financial statements contained in the Report on the Administration of the Public Service Superannuation Act for the Fiscal Year Ended March 31, 2000 showing the transactions recorded in the public service portion of the RCA No. 1 and RCA No. 2 accounts:
+Retirement Compensation Arrangements (RCA) No. 1
+(Public Service Portion)
+For the year ended March 31, 2000
+(with comparative figures for the year ended March 31, 1999)
+1999 - 2000
+1998-99
+(in dollars)
+Opening Balance
+73,395,108
+47,410,159
+Receipts and Other Credits
+Contributions
+- Government employees
+2,958,527
+2,721,303
+- Retired employees
+0
+0
+- Public Service corporation employees
+1,689,695
+994,943
+Employer contributions
+- Government
+28,288,306
+29,872,255
+- Public service corporations
+16,666,498
+12,193,086
+Interest
+8,403,386
+6,107,386
+Actuarial liability adjustments
+0
+0
+Total
+58,006,412
+51,888,973
+Payments and Other Charges
+Annuities
+548,733
+352,222
+Pension divisions
+412,270
+768,116
+Transfer value and interest
+94,785
+115,247
+Returns of contributions
+- Government employees
+1,936
+3,213
+- Public service corporation employees
+16,167
+57,389
+Refundable tax
+27,638,297
+24,607,837
+Total
+28,712,188
+25,904,024
+Increase
+29,294,224
+25,984,949
+Closing Balance
+102,689,332
+73,395,108
+Retirement Compensation Arrangements (RCA) No. 2
+For the year ended March 31, 2000
+(with comparative figures for the year ended March 31, 1999)
+1999 - 2000
+1998-99
+(in dollars)
+Opening Balance
+703,395,255
+626,216,766
+Receipts and Other Credits
+Government contributions and interest
+- Contributions
+254,402,208
+244,437,024
+- Interest
+62,933,681
+70,875,310
+- Refundable tax
+1,010,953
+Total
+318,346,842
+312,312,334
+Payments and Other Charges
+Annuities
+69,523,015
+67,808,864
+Refundable tax
+167,324,981
+Total
+69,523,015
+235,133,845
+Increase
+248,823,827
+77,178,489
+Closing Balance
+952,219,082
+703,395,255
+[19] I agree with the respondent's submissions. The legislative framework, combined with the report to the Treasury Board and the financial statements, tend to show that beneficiaries under RCA No. 2 did not have to contribute and did not contribute to the RCA account. To be eligible for a deduction under paragraph 60(t) of the ITA, the appellant had to demonstrate that he contributed to the RCA account. He does not appear to have made any such contribution. Furthermore, the fact that he contributed under the PSSA does not help him either, as there is no evidence that such contributions were funnelled through the RCA account. As a matter of fact, it is noteworthy that it was a requisite for the establishment of both RCA No. 1 and RCA No. 2 that the beneficiaries contribute to either the superannuation account or the Public Service Pension Fund. The obligation to contribute to the RCA, however, exists only for beneficiaries of RCA No. 1. It is also worth mentioning that the appellant had already deducted his contributions under the PSSA from his income in the past.
+[20] I therefore find that it was not open to the appellant to offset the amounts received under the RCA. Accordingly, the appellant is not entitled to a deduction under paragraph 60(t) of the ITA.
+[21] Alternatively, the appellant argues that it was stated on the back of the T4A-RCA slips that if the employer contributed to the RCA, the taxpayer could transfer the eligible portion of the amount received that qualified as a retiring allowance from the RCA to his registered retirement savings plan ("RRSP"). He therefore requests that that amount be transferred to his RRSP.
+[22] The respondent does not dispute that the payments received by the appellant from RCA No. 2 qualify as a "retiring allowance". However, the respondent does dispute the availability of a deduction under paragraph 60(j.1) of the ITA, which reads as follows:
+60. There may be deducted in computing a taxpayer's income for a taxation year such of the following amounts as are applicable:
+. . .
+(j.1) such part of the total of all amounts each of which is an amount paid to the taxpayer by an employer, or under a retirement compensation arrangement to which the employer has contributed, as a retiring allowance and included in computing the taxpayer's income for the year by virtue of subparagraph 56(1)(a)(ii) or paragraph 56(1)(x) as
+(i) is designated by the taxpayer in the taxpayer's return of income under this Part for the year,
+(ii) does not exceed the amount, if any, by which the total of
+(A) $2,000 multiplied by the number of years before 1996 during which the employee or former employee in respect of whom the payment was made (in this paragraph referred to as the "retiree") was employed by the employer or a person related to the employer, and
+(B) $1,500 multiplied by the number by which the number of years before 1989 described in clause (A) exceeds the number that can reasonably be regarded as the equivalent number of years before 1989 in respect of which employer contributions under either a pension plan or a deferred profit sharing plan of the employer or a person related to the employer had vested in the retiree at the time of the payment
+exceeds the total of
+(C) all amounts deducted under this paragraph in respect of amounts paid before the year in respect of the retiree
+(I) by the employer or a person related to the employer, or
+(II) under a retirement compensation arrangement to which the employer or a person related to the employer has contributed,
+(C.1) all other amounts deducted under this paragraph for the year in respect of amounts paid in the year in respect of the retiree
+(I) by a person related to the employer, or
+(II) under a retirement compensation arrangement to which a person related to the employer has contributed, and
+(D) all amounts deducted under paragraph (t) in computing the retiree's income for the year in respect of a retirement compensation arrangement to which the employer or a person related to the employer has contributed, and
+(iii) does not exceed the total of all amounts each of which is an amount paid by the taxpayer in the year or within 60 days after the end of the year in respect of the amount so designated
+(A) as a contribution to or under a registered pension plan, other than the portion thereof deductible under paragraph (j) or 8(1)(m) in computing the taxpayer's income for the year, or
+(B) as a premium (within the meaning assigned by section 146) under a registered retirement savings plan under which the taxpayer is the annuitant (within the meaning assigned by section 146), other than the portion thereof that has been designated for the purposes of paragraph (j) or (l),
+to the extent that it was not deducted in computing the taxpayer's income for a preceding taxation year
+and for the purposes of this paragraph, "person related to the employer" includes
+(iv) any person whose business was acquired or continued by the employer, and
+(v) a previous employer of the retiree whose service therewith is recognized in determining the retiree's pension benefits.
+[Emphasis added.]
+[23] As argued by the respondent, in order for one to benefit from a deduction under paragraph 60(j.1) of the ITA, the amounts included in income for a year as a retiring allowance under paragraph 56(1)(x) must be contributed to the RRSP in that year or within 60 days after the year, the deduction being subject to certain limitations. The appellant did not transfer the eligible portion of his "retiring allowance" to his RRSP in the years or within 60 days after the end of the years in which he received the benefit payments under RCA No. 2 (2001, 2002 and 2003).
+[24] Instead, he erroneously opted to claim a deduction under paragraph 60(t) of the ITA. It is not only a question of reporting the amount received in a certain box on the tax return; the ITA also clearly requires that within a certain time frame the taxpayer designate as a premium with respect to an RRSP under which the taxpayer is an annuitant the amount received under the RCA. The fact that the appellant was not aware that such a designation could have been made or that he was not given clear information is not a valid ground for an appeal before this Court. This Court must take the statute as it finds it and it is not open to the Court to make exceptions to statutory provisions on the grounds of fairness or, to use the appellant's terms, lack of clarity (see Chaya v. R., 2004 FCA 327).
+[25] The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 19th day of September 2006.
+"Lucie Lamarre"
+Lamarre J.
+CITATION: 2006TCC464
+COURT FILE NO.: 2006-10(IT)I
+STYLE OF CAUSE: PETER HALEY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: June 6, 2006
+RESPONDENT'S WRITTEN
+SUBMISSIONS: June 19, 2006
+APPELLANT'S REPLY TO THE
+RESPONDENT'S WRITTEN
+SUBMISSIONS: June 26, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: September 19, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Frédéric Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

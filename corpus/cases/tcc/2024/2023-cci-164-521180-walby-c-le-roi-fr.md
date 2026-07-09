@@ -1,0 +1,1516 @@
+---
+title: "Walby c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521180/index.do"
+last_modified: "2024-01-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 CCI 164"
+citation2: ""
+neutral_citation: "2023 CCI 164"
+decision_date: "2024-01-18"
+language: "fr"
+item_id: "521180"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5700
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:19:26.922000+00:00"
+cases_cited_count: 11
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ed0a5095fad26e84b4b2bbe43c2bd965ab1e326a090c8ad4cb502e76fd0be07c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Walby c. Le Roi
+
+- Citation: 2023 CCI 164
+- Decision date: 2024-01-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5700, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walby c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-12-13
+Référence neutre
+2023 CCI 164
+Numéro de dossier
+2021-1544(IT)G, 2021-1574(IT)G
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-1544(IT)G
+ENTRE :
+CHRIS WALBY,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Joel De Las Alas (2021-1574(IT)G), du 5 au 7 septembre 2003, à Winnipeg (Manitoba).
+Devant : l’honorable juge Ronald MacPhee.
+Comparutions :
+Avocats de l’appelant :
+Me Jeff Pniowsky
+Me Matthew Dalloo
+Avocats de l’intimé :
+Me David Silver
+Me Allanah Smith
+Me Erin Wolfe
+JUGEMENT MODIFIÉ
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005, 2006, 2007, 2008, 2009, 2010 et 2011 de l’appelant sont rejetés.
+Un seul mémoire de dépens est accordé relativement aux dépens payables par les appelants à l’intimé. Les parties ont 30 jours à compter de la date du présent jugement pour présenter des observations sur les dépens si elles ne parviennent pas à s’entendre sur un montant.
+Le présent jugement modifié remplace le jugement du 7 décembre 2023 afin d’inclure les années soulignées au paragraphe 1 ci-dessus.
+Signé à Ottawa, Canada, ce 13e jour de décembre 2023.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+ce 22e jour d’avril 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+Dossier : 2021-1574(IT)G
+ENTRE :
+JOEL DE LAS ALAS,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Chris Walby (2021-1544(IT)G), du 5 au 7 septembre 2023, à Winnipeg (Manitoba).
+Devant : l’honorable juge Ronald MacPhee.
+Comparutions :
+Avocats de l’appelant :
+Me Jeff Pniowsky
+Me Matthew Dalloo
+Avocats de l’intimé :
+Me David Silver
+Me Allanah Smith
+Me Erin Wolfe
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 de l’appelant est rejeté.
+Un seul mémoire de dépens est accordé relativement aux dépens payables par les appelants à l’intimé. Les parties ont 30 jours à compter de la date du présent jugement pour présenter des observations sur les dépens si elles ne parviennent pas à s’entendre sur un montant.
+Signé à Ottawa, Canada, ce 7e jour de décembre 2023.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+ce 22e jour d’avril 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+Référence : 2023 CCI 164
+Date : 20231207
+Dossier : 2021-1544(IT)G
+ENTRE :
+CHRIS WALBY,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+Intimé;
+Dossier : 2021-1574(IT)G
+ET ENTRE :
+JOEL DE LAS ALAS,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge MacPhee
+APERÇU [1] Les présents appels ont été entendus en même temps et sur preuve commune, à l’exception du témoignage des appelants.
+[2] Chris Walby et Joel De Las Alas (les « appelants ») ont interjeté appel des nouvelles cotisations par lesquelles le ministre du Revenu national (le « ministre ») a refusé des crédits d’impôt pour dons de bienfaisance réclamés au titre de l’article 118.1 de la Loi de l’impôt sur le revenu (la « Loi »). En ce qui concerne M. Walby, l’appel vise les années d’imposition 2005 à 2011. Pour ce qui est de M. De Las Alas, l’appel vise l’année d’imposition 2006. Dans les deux cas, les appels découlent de leur participation au programme Global Learning Gifting Initiative (le « programme GLGI »).
+[3] En tant que participants au programme GLGI, les appelants ont chacun obtenu deux reçus pour dons de bienfaisance : l’un pour leurs contributions en espèces et l’autre pour les licences visant les didacticiels (les « licences »), qui auraient été acquises dans le cadre du programme GLGI auprès d’une entité étrangère, à savoir Phoenix Learning Corporation. Ces licences auraient été données en leur nom à un organisme de bienfaisance enregistré.
+[4] Dans le cadre des présents appels, les appelants font uniquement valoir que les dons en espèces qu’ils ont versés au programme GLGI constituent des dons de bienfaisance valides au sens de l’article 118.1 de la Loi à l’égard desquels ils devraient avoir droit à des crédits d’impôt pour dons de bienfaisance.
+[5] Le programme GLGI était en cause dans la décision Mariano c. La Reine[1] rendue par la Cour canadienne de l’impôt en 2015. Dans cette décision, la Cour canadienne de l’impôt a confirmé la décision du ministre de refuser d’accorder aux appelants des crédits d’impôt pour les dons en espèces et les dons en nature de licences. En l’espèce, l’avocat des appelants reconnaît que le ministre a refusé à juste titre les crédits d’impôt demandés pour les dons en nature, mais il affirme que ses clients devraient avoir le droit de demander des crédits d’impôt pour leurs contributions en espèces.
+[6] Dans les présentes affaires, un exposé conjoint partiel des faits a été déposé et figure à l’annexe A de la présente décision. Les parties s’entendent pour dire que le programme GLGI a été conçu pour abuser du système canadien de crédit d’impôt pour dons de bienfaisance. Le programme GLGI fonctionnait de manière à enrichir les promoteurs et administrateurs du programme ainsi que les participants, comme les appelants[2].
+QUESTION EN LITIGE [7] La Cour est appelée à trancher la question de savoir si les contributions en espèces versées par les appelants constituent des dons au sens de l’article 118.1 de la Loi. Les parties ont demandé à la Cour, pour trancher les présents appels, de déterminer si les paragraphes 248(30) à (32) de la Loi s’appliquent à ces opérations et, le cas échéant, de les appliquer.
+[8] Pour répondre à cette question, je me penche sur les questions suivantes :
+(1) Les dons de bienfaisance que les appelants ont déclarés dans leurs déclarations de revenus découlent-ils de deux opérations distinctes ou d’une seule opération interdépendante?
+(2) Des documents constituant un trompe-l’œil, dénués d’effet et censés fournir un avantage au donateur peuvent-ils avoir une incidence sur l’intention libérale?
+(3) Un reçu fiscal préparé conformément à l’une des étapes prévues dans l’arrangement du programme GLGI et représentant fidèlement la contribution en espèces versée à un organisme de bienfaisance enregistré suffit-il à lui seul à donner droit à des crédits d’impôt pour dons de bienfaisance?
+(4) Les paragraphes 248(30) à (32) de la Loi écartent-ils l’exigence d’une intention libérale pour qu’un don soit jugé valide?
+(5) Si les paragraphes 248(30) à (32) s’appliquent, quel était le montant de l’avantage au titre du don en espèces?
+FAITS [9] L’appelant, M. Walby, a participé au programme GLGI au cours des années d’imposition 2005 à 2011. Il a demandé les crédits d’impôt pour dons de bienfaisance suivants du fait de sa participation :
+2005
+2006
+2007
+2008
+Reports des années antérieures
+0 $
+0 $
+0 $
+15 080 $
+Dons en espèces
+15 000 $
+15 000 $
+15 000 $
+15 000 $
+Dons en nature
+75 010 $
+60 077 $
+75 006 $
+75 043 $
+Autres dons (non litigieux)
+25 $
+20 $
+80 $
+0 $
+Total des dons de bienfaisance
+90 035 $
+75 097 $
+90 086 $
+105 123 $
+Total des dons de bienfaisance déclarés
+90 035 $
+75 077 $
+75 080 $
+75 123 $
+Montants pouvant être transférés ou reportés
+0 $
+20 $
+15 006 $
+30 000 $
+Reports des années antérieures
+0 $
+6 643 $
+0 $
+Dons en espèces
+15 000 $
+10 000 $
+10 000 $
+Dons en nature
+50 021 $
+50 000 $
+Autres dons (non litigieux)
+95 $
+90 $
+100 $
+2009
+2010
+2011
+2009
+2010
+2011
+Montants pouvant être transférés ou reportés
+3 322 $
+0 $
+0 $
+[10] L’appelant, M. De Las Alas, a participé au programme GLGI pendant l’année d’imposition 2006. Au cours de cette année-là, il a versé une contribution en espèces de 13 600 $ au programme GLGI. Par application du programme, dont les divers mécanismes sont décrits ci-après, il a déclaré deux dons dans sa déclaration de revenus de 2006, soit un don en espèces de 13 600 $ et un don en nature de 54 447 $ visant les licences.
+[11] Les deux appelants ont affirmé avoir droit aux crédits d’impôt pour la totalité des dons de bienfaisance (contributions en espèces et dons en nature) qu’ils ont déclarés dans leurs déclarations de revenus et qu’ils ont présentés dans les documents déposés à l’étape de l’opposition.
+[12] Le fait que les deux appelants ont versé les contributions en espèces présentées plus haut n’est pas contesté. Les deux appelants ont obtenu des reçus pour dons de bienfaisance de la part d’un organisme de bienfaisance canadien enregistré par suite de leurs contributions en espèces.
+[13] M. Walby et M. De Las Alas ont livré un témoignage honnête au procès. Ils ont fait part de leurs connaissances sur le fonctionnement du programme GLGI et ont reconnu, dans certains cas, les diverses faiblesses factuelles dans leur dossier. Compte tenu du temps écoulé et du fait qu’une grande partie du programme GLGI était un trompe-l’œil, les appelants ont eu du mal à expliquer certains détails ou en quoi le programme leur avait permis de s’enrichir.
+[14] Les appelants (surtout en contre-interrogatoire) ont expliqué avoir participé au programme et avoir signé les divers documents fournis dans le cadre du programme GLGI. Ils ont également admis que, du fait de leur participation au programme GLGI, ils s’attendaient à recevoir en retour plus que leurs contributions en espèces. Les deux appelants s’attendaient à s’enrichir grâce à leur participation.
+[15] Pendant le contre-interrogatoire de M. Walby, l’échange suivant a eu lieu :
+[traduction]
+Q. Et vous compreniez que la promotion de l’arrangement de placement ou de don était fondée sur le fait que vous auriez des pertes, des déductions ou des crédits équivalents ou supérieurs au coût net d’investissement initial, ce qui signifie que vous obtiendriez plus que ce que vous aviez investi.
+R. Oui.
+Q. Donc, vous aviez compris qu’il s’agissait d’un investissement?
+R. J’avais compris de quoi il s’agissait. Je ne -- je veux dire, je ne devrais pas dire que j’avais compris de quoi il s’agissait, mais j’avais compris qu’il y avait un investissement, oui, pour répondre à votre question.
+[16] Lors du contre-interrogatoire de M. De Las Alas, l’échange suivant a eu lieu :
+[traduction]
+ME WOLFE : D’accord, désolée, je reviens aux questions. Vous avez donc reconnu que Jim vous avait dit que vous pourriez demander des crédits d’impôt du fait de votre participation au programme GLGI?
+R. Oui.
+Q. Et vous aviez compris que ces crédits d’impôt seraient supérieurs à votre contribution en espèces?
+R. Oui.
+Q. On vous avait donc dit que le montant de votre remboursement d’impôt serait supérieur à votre contribution en espèces?
+R. Oui, c’est ce qu’il m’avait dit.
+Q. D’accord. Vous aviez donc compris que vous tireriez profit de votre participation.
+R. Oui.
+[17] L’enrichissement des appelants devait découler du fait que leurs contributions en espèces équivaudraient au tiers, au plus, et au sixième, au moins, de la prétendue juste valeur marchande des licences dont ils deviendraient propriétaires dans le cadre du programme GLGI. Bien que les appelants ne s’en souvenaient que très peu, au vu de la preuve présentée au procès, je conclus qu’ils ont établi la valeur totale des biens demandés dans la demande en fonction du ratio des dons en espèces et avec l’aide du promoteur et de ses agents de vente. Les flux de trésorerie positifs découlaient de la différence entre les fonds versés par les appelants et les crédits d’impôt provincial et fédéral qu’ils demanderaient pour leurs contributions en espèces et leurs prétendus dons en nature.
+[18] M. Walby et M. De Las Alas n’avaient jamais déclaré de don de bienfaisance aussi important que ceux qu’ils avaient déclaré avoir faits au programme GLGI. L’historique de leurs dons de 1987 à 2022 (exclusivement) a été présenté à la Cour. Avant de participer au programme GLGI, aucun des appelants n’avait fait de don de plus de 700 $ au cours d’une année. Habituellement, leurs dons annuels étaient inférieurs à 100 $. Après 2003, ils n’ont pas non plus fait de don de bienfaisance aussi important que ceux dont il est question en l’espèce.
+[19] Les appelants reconnaissent avoir chacun obtenu deux reçus pour chaque année de participation : l’un pour leur don en espèces et l’autre pour les licences dont ils auraient fait don dans le cadre du programme GLGI. Ils ont déclaré les deux types de dons dans leurs déclarations de revenus pour les diverses années en cause.
+[20] Au procès, principalement dans ses observations, mais également dans l’exposé conjoint partiel des faits, l’avocat des demandeurs a reconnu qu’une grande partie du programme GLGI était un trompe-l’œil visant la création de faux reçus. Il qualifie de « licorne » les diverses composantes du programme, lesquelles ont donné lieu au deuxième reçu.
+Fonctionnement du programme GLGI [21] Je n’explique pas en détail les mécanismes du programme GLGI, puisque l’exposé conjoint partiel des faits, joint à l’annexe A, décrit en détail le fonctionnement du programme. Les termes clés qui ne sont pas définis dans les présents motifs ont le sens qui leur est donné dans l’exposé conjoint partiel des faits.
+[22] Un bref examen de certaines étapes du programme est présenté afin de démontrer que les appelants ont participé activement au programme en signant divers documents exigés par les promoteurs du programme GLGI. Cet examen m’amène également à conclure que la participation des appelants faisait partie d’une série d’opérations interdépendantes (d’autres motifs à l’appui de cette conclusion sont exposés plus bas dans la présente décision).
+[23] Les participants, y compris les appelants, examinaient et signaient divers documents (les « documents transactionnels »), dont les suivants :
+a)une « fiche de renseignements » contenant des renseignements sur le participant, y compris son nom, son adresse, son numéro d’assurance sociale, son adresse de courrier électronique, le montant de la contribution en espèces qui serait versé à l’un des organismes de bienfaisance, la valeur des didacticiels demandés (généralement de trois à cinq fois le montant de la contribution en espèces), l’historique des dons et les détails concernant l’agent de vente;
+b)un « acte de donation » adressé à l’un des organismes de bienfaisance;
+c)un « acte de donation de biens » adressé à l’un des organismes de bienfaisance attestant que les appelants sont les propriétaires en droit et propriétaires bénéficiaires en possession et en contrôle des didacticiels précisés à l’annexe A (appelée « section A » à partir de 2008) de l’acte;
+d)une « demande de prise en considération à titre de bénéficiaire du capital de Global Learning Trust (2004) » (la « demande ») pour faire approuver le participant à titre de bénéficiaire du capital de la fiducie et, s’il était approuvé, lui distribuer des biens sous forme de didacticiels d’une valeur pécuniaire précise;
+e)une « première directive » autorisant Escrowagent à transmettre la demande à la fiduciaire de la fiducie et à prendre les dispositions nécessaires pour transmettre l’acte de donation de biens, à dater certains documents ou à en modifier la date et à prendre les dispositions nécessaires pour transmettre les reçus pour dons de bienfaisance;
+f)une « deuxième directive »autorisant Escrowagent à prendre les dispositions nécessaires pour transmettre l’acte de donation en espèces ainsi que le chèque, à dater certains documents ou à en modifier la date et à prendre les dispositions nécessaires pour transmettre les reçus pour dons de bienfaisance;
+g)un chèque libellé à l’ordre de Escrowagent;
+h)un chèque à un organisme de bienfaisance, qui était postdaté de quatre jours après la date de sa demande (« contribution en espèces »);
+i)un reçu fiscal de don antérieur;
+j)pour les années postérieures à 2007, une renonciation ainsi qu’un accusé de réception du donateur.
+[24] Les particuliers ayant rempli les documents transactionnels et ayant versé la contribution en espèces requise à Escrowagent et à l’organisme de bienfaisance désigné étaient assurément approuvés à titre de bénéficiaires du capital de la fiducie. La fiducie transférait les licences visant les didacticiels aux participants après leur approbation à titre de bénéficiaires du capital. Après le traitement des documents transactionnels des participants, un courriel leur était envoyé pour les informer qu’ils avaient été approuvés à titre de bénéficiaires du capital de la fiducie et les inviter à consulter une copie de leurs documents, y compris la cession de licences, à l’adresse du site Web du programme GLGI.
+[25] La première et la deuxième directives visaient à permettre aux participants de révoquer leur don de licences ou leur contribution en espèces en donnant un avis dans les 48 ou 72 heures, respectivement, après avoir été informés que leur demande avait été approuvée et qu’ils recevraient des biens de la fiducie dans le cadre d’une distribution.
+[26] Par conséquent, les participants au programme GLGI savaient qu’aucun don (la contribution en espèces ou les licences) n’était valide avant que leur demande ait été approuvée et qu’ils en aient été avisés[3]. Dans la décision Mariano, la Cour a conclu que la période de 72 heures servait de garantie aux participants pour s’assurer qu’ils avaient reçu l’avantage des licences avant que leurs chèques ne soient encaissés. Je souscris à cette conclusion.
+[27] Chaque semaine, les sociétés qui participaient au programme GLGI traitaient un lot de documents transactionnels d’un groupe de participants et généraient des documents en appliquant un algorithme aux renseignements contenus dans une base de données créée à cette fin. Ces mêmes sociétés produisaient des reçus pour dons au nom des organismes de bienfaisance.
+[28] En fin de compte, une fois qu’un contribuable avait décidé de participer au programme GLGI, toutes les opérations subséquentes suivaient un ordre prédéterminé. Tant que leurs documents transactionnels étaient complets, les participants pouvaient participer au programme GLGI et leur demande de prise en considération à titre de bénéficiaire du capital de la fiducie était approuvée.
+ANALYSE (1) La participation au programme GLGI constitue un seul arrangement interdépendant [29] La question ultime dont je suis saisi est celle de savoir si les appelants ont fait un don au sens de l’article 118.1 de la Loi. Dans cette analyse, je détermine d’abord si les deux types de dons de bienfaisance que les appelants ont déclarés dans leurs déclarations de revenus découlent de deux opérations distinctes ou d’une seule opération interdépendante.
+[30] Il est bien établi que, lorsqu’il n’y a qu’un seul arrangement interdépendant, il ne convient pas que la Cour examine les opérations séparément. Dans la décision Maréchaux[4] (confirmée en appel), la Cour canadienne de l’impôt s’est penchée sur la question de savoir si l’appelant avait fait un don fractionné. Elle a ainsi résumé ce principe dans la décision Herring[5] :
+124 La juge Woods s’est ensuite penchée sur la question de savoir si l’appelant avait le droit d’effectuer un don partiel en « déboursant, de l’argent » de sa propre poche en faisant remarquer que « [d]ans certaines conditions, il peut être approprié de partager une opération en deux parties, de sorte qu’il y a d’une part un don et d’autre part quelque chose d’autre » (par. 48).
+125 Cependant, elle a conclu, « [e]u égard aux faits particuliers » de l’appel, qu’il n’était « pas approprié de partager ainsi l’opération », car il n’y avait « qu’un seul arrangement interdépendant » et « aucune partie de cet arrangement ne peut être considérée comme un don que l’appelant a effectué sans s’attendre à quoi que ce soit en échange » (par. 49).
+[31] Aucune partie d’un tel arrangement interdépendant ne sera considérée comme un don lorsque le participant s’attend à en tirer un profit.
+[32] Le programme GLGI entre clairement dans le champ d’application de la décision Maréchaux. La participation au programme GLGI constitue un seul arrangement interdépendant, ce qu’étayent les faits suivants énoncés aux paragraphes 250 à 256 de l’exposé conjoint partiel des faits :
+a)Toutes les étapes du programme GLGI étaient prédéterminées.
+b)Une fois qu’un contribuable décidait de participer au programme GLGI, toutes les opérations subséquentes suivaient un ordre prédéterminé.
+c)Bien que les documents transactionnels et le matériel de promotion donnaient l’impression que les participants pouvaient conserver les licences visant les didacticiels au lieu d’en faire don, cette option était si limitée qu’elle n’en était pas vraiment une, parce qu’il fallait avoir un CD-ROM ou une autre façon d’accéder aux didacticiels via le portail en ligne pour pouvoir utiliser les licences.
+d)Les appelants ne pouvaient pas utiliser les didacticiels, car ils n’avaient jamais obtenu l’accès à ceux-ci ni reçu de directives sur la façon d’obtenir cet accès.
+e)Dans les faits, la seule option qui s’offrait aux appelants était de faire don des licences, de la façon prédéterminée par le programme GLGI.
+f)Les organismes de bienfaisance étaient de simples intermédiaires dans l’acheminement des fonds provenant du programme GLGI et servaient à générer les crédits d’impôt pour dons de bienfaisance et à enrichir les participants et le promoteur.
+g)Le programme GLGI et l’ensemble de ses opérations visaient à amener le ministre à accorder aux participants des crédits d’impôt pour dons de bienfaisance supérieurs aux dons réellement effectués.
+[33] Les participants au programme GLGI n’avaient pas vraiment d’autre choix que de suivre toutes les étapes du programme. Par suite d’un don en espèces, les participants devaient recevoir des licences visant les didacticiels, qui leur étaient distribuées à titre de bénéficiaires du capital de la fiducie.
+[34] Dans la décision Mariano, la Cour canadienne de l’impôt est parvenue à la même conclusion suivante :
+[I]l est évident qu’ils ont pris part à un stratagème de dons avec effet de levier qui était interconnecté et que les opérations ou la série d’opérations en faisaient partie, qu’il s’agissait du même programme, si l’on veut, qui était manifestement mis en marché auprès d’eux dans le but de leur offrir — et duquel ils s’attendaient à recevoir, en contrepartie de leur don en espèces — un certain nombre de licences dont la valeur prévue était de trois à huit fois celle du don en espèces et qui étaient à remettre sous forme de dons à un autre organisme de bienfaisance […][6].
+[35] Aucun membre du public ne participant pas au programme GLGI n’aurait été au courant de la possibilité de devenir un bénéficiaire du capital de la fiducie sans faire un don en espèces[7]. Comme l’indique la Cour canadienne de l’impôt dans la décision Mariano, « [u]n don en espèces a toujours été mentionné et intégré dans tous les calculs de l’avantage en espèces net ou des contributions totales[8] ». Il en ressort que le don en espèces était un élément nécessaire de la contrepartie pour que le participant reçoive de la fiducie des licences visant les didacticiels dans le cadre d’une distribution, ce qui mènerait finalement, par application des documents transactionnels, à la délivrance d’un reçu pour don en nature faisant état d’un montant gonflé.
+[36] En l’absence de dons en espèces, les transferts de licences de la fiducie n’auraient pas été possibles. La Cour canadienne de l’impôt l’a ainsi résumé dans la décision Mariano :
+Il est évident que ni le promoteur, ni aucun des administrateurs en cause, embauchés et rémunérés par le promoteur, les organismes de bienfaisance ou l’entiercé, comme IDI et JDS, ne pouvait être payé en vertu du programme sans dons en espèces. Il est évident que le promoteur n’a été rémunéré qu’en espèces, conformément aux ententes conclues avec Millenium et CCA, lorsque les paiements ont été faits par les participants à Millenium, et une autre fois lorsque Millenium a remis 80 % des espèces reçues à CCA, laquelle a payé au promoteur, sur les espèces reçues, un montant additionnel équivalant à 20 % de la valeur des espèces faisant ainsi l’objet d’un second don, ainsi que de la valeur des licences dont les participants faisaient don à CCA, en fonction de l’évaluation d’EMC. IDI a été payée en espèces suivant la directive donnée par le promoteur à Millenium, soit de payer des fonds à IDI, à partir des montants qui lui étaient dus, en fonction là aussi d’un pourcentage des dons en espèces. Sans espèces, il aurait été impossible de payer le promoteur et les autres participants situés le long de la chaîne, et il n’y aurait donc aucune activité que le promoteur ou d’autres auraient pu exécuter. Le bon sens et le modèle d’entreprise clairement identifié pour le programme confirment qu’il fallait qu’il y ait des contributions en espèces pour que le programme puisse fonctionner[9].
+[37] Par conséquent, je conclus que la participation au programme GLGI constituait une série d’opérations interdépendantes. Je dois examiner les opérations ensemble et je ne peux pas déterminer si une opération, indépendamment des autres, donne droit à des crédits d’impôt pour dons de bienfaisance. Aucune partie d’un tel arrangement interdépendant ne sera considérée comme un don lorsque le participant s’attend à en tirer un profit.
+Les documents constituant un trompe-l’œil et dénués d’effet ont tout de même une incidence sur l’intention libérale d’une personne [38] L’avocat des appelants soutient que, puisque les documents qui devaient donner lieu à un don en nature valide étaient des documents constituant un trompe-l’œil, dénués d’effet réel et ne fournissant aucun avantage réel, ils ne devraient avoir aucune incidence sur l’intention libérale des appelants de faire un don en espèces.
+[39] Dans l’arrêt Berg[10], qui portait sur un ensemble de faits semblables, la Cour d’appel fédérale a examiné l’argument des appelants à cet égard. Dans cet arrêt, les simulacres de reçus, qui prévoyaient le transfert de biens importants aux participants (qui devaient ensuite les donner à un organisme de bienfaisance), constituaient en fait un trompe-l’œil. La Cour d’appel fédérale a conclu que les simulacres de reçus « avaient de la valeur lorsqu’ils ont été remis » au contribuable, de sorte que l’affaire « ne se dinstingu[ait] pas de l’affaire Maréchaux[11] ». Dans une remarque incidente, elle a ajouté que le contribuable n’avait pas « l’intention requise de faire un don », car « il avait l’intention de s’enrichir en invoquant la valeur faussement gonflée dont faisaient état les reçus pour don de bienfaisance pour tirer avantage des demandes de crédits d’impôt exagérées[12] ».
+[40] L’intention libérale doit être évaluée au moment où le contribuable fait le don. Dans la décision Herring, la Cour canadienne de l’impôt a déclaré que « le moment pertinent où le montant de tout avantage a été calculé correspond au moment où les dons présumés ont été faits[13] ». Dans la décision Crane, la Cour canadienne de l’impôt a affirmé que « les attentes [d’]avantages financiers ont vicié l’intention libérale au moment de son prétendu don[14] ».
+[41] Compte tenu de ce qui précède, dans mon évaluation de l’intention libérale des appelants, je tiens compte des divers documents constituant un trompe-l’œil que les appelants croyaient légitimes au moment de leurs contributions en espèces. Bien que les appelants ne comprenaient manifestement pas tous les mécanismes du programme GLGI, ils comprenaient qu’en fin de compte, ils deviendraient propriétaires des licences visant les didacticiels, qui seraient ensuite données en leur nom. Ultimement, cet arrangement aurait pour effet général de les enrichir.
+[42] L’intention libérale est souvent évaluée selon le principe d’« “animus donandi ou l’intention libérale”, ce qui signifie que le donateur “doit être prêt à s’appauvrir dans l’intérêt du bénéficiaire du don sans recevoir aucune contrepartie”[15] ». Dans l’évaluation de l’intention libérale, la cour examinera « comment l’objet se manifeste objectivement, et l’objet est en définitive une question de fait à trancher en tenant compte de toutes les circonstances[16] ».
+[43] En l’espèce, les contribuables avaient clairement l’intention de réaliser un profit lorsqu’ils ont fait leur don. Ils avaient l’intention de faire le don en espèces, de sorte que des licences visant les didacticiels apparemment de grande valeur leur seraient transférées. Ces licences feraient ensuite l’objet d’un don, pour lequel les contribuables obtiendraient des crédits d’impôt importants dont le montant excéderait celui du don en espèces initial. Il importe peu que les contribuables se rendent compte après coup qu’ils n’avaient pas réalisé le profit prévu. Tout ce qui compte, c’est qu’ils avaient l’intention d’en réaliser un au moment où ils ont fait le don en espèces. Les appelants se sont servis de documents censés avoir pour effet de leur procurer un rendement positif. Ils les ont signés et ont tenté d’en tirer profit.
+[44] Cela m’amène à conclure que les appelants n’avaient aucune intention libérale au moment de faire leur contribution en espèces au programme GLGI. Les contributions en espèces qu’ils ont versées ne peuvent être dissociées des autres opérations et faisaient partie d’une série d’opérations interdépendantes destinées à enrichir les appelants. Par conséquent, les appelants n’ont fait aucun don dans le cadre de leur participation au programme GLGI. Les appels seront rejetés pour ce motif. Bien que ce soit ma conclusion définitive en l’espèce, j’examine chacun des arguments supplémentaires présentés par les appelants.
+Le droit régissant les dons s’applique pour déterminer si un transfert de biens donne droit à des crédits d’impôt pour dons de bienfaisance [45] Selon les appelants, pour obtenir les crédits d’impôt pour leur don en espèces, ils n’ont qu’à prouver l’existence d’un reçu fiscal dûment rempli indiquant avec exactitude le don en espèces fait à un organisme de bienfaisance enregistré. Ils font valoir que les documents constituant un trompe-l’œil relatifs au don en nature ne peuvent avoir pour effet d’annuler la véritable opération, à savoir le transfert d’espèces, qui était représentée avec exactitude sur un reçu fiscal.
+[46] Accepter cet argument reviendrait à ne pas tenir compte de l’interdépendance entre le don en espèces et les autres opérations du programme GLGI.
+[47] Selon le droit régissant les dons, pour donner droit à des crédits d’impôt pour dons de bienfaisance, un don en espèces doit être valide. Comme je l’indique plus haut, l’intention libérale est considérée comme l’élément nécessaire pour que le don soit jugé valide, ce qui comprend l’intention de s’appauvrir[17].
+[48] Comme je le conclus plus haut, les appelants n’avaient aucune intention libérale relativement au don en espèces. Les dons en espèces faisaient partie d’une série d’opérations à laquelle les appelants ont participé et qui leur permettrait de s’enrichir. Par conséquent, le don en espèces n’était pas un don et ne peut donner droit aux crédits d’impôt pour dons de bienfaisance au titre de l’article 118.1 de la Loi.
+Les paragraphes 248(30) à (32) de la Loi écartent-ils l’exigence d’une intention libérale pour qu’un don soit jugé valide? [49] La Loi a été modifiée en 2013 par l’ajout du paragraphe 248(30), qui est entré en vigueur le 21 décembre 2002[18].
+[50] Le paragraphe 248(30) est ainsi libellé :
+Intention de faire un don
+(30) Le fait qu’un transfert de bien donne lieu à un montant d’un avantage ne suffit en soi à rendre le transfert inadmissible à titre de don à un donataire reconnu si, selon le cas :
+a) le montant de l’avantage n’excède pas 80 % de la juste valeur marchande du bien transféré;
+b) le cédant établit à la satisfaction du ministre que le transfert a été effectué dans l’intention de faire un don.
+[51] Les paragraphes 248(30) à (41) sont interreliés et fournissent un cadre pour traiter les dons comportant un avantage.
+[52] Les appelants soutiennent que le paragraphe 248(30) autorise les dons fractionnés lorsque le montant de l’avantage n’excède pas 80 %. Par conséquent, l’intention libérale ne devrait pas être nécessaire pour qu’un don soit jugé valide, pourvu que l’avantage n’excède pas 80 %. Au procès, l’appelant n’a pas plaidé davantage cette question et a jugé évident que le paragraphe 248(30) s’appliquait ainsi.
+[53] L’intimé soutient que le paragraphe 248(30) ne s’applique qu’aux dons valides, c'est-à-dire lorsqu’il y a intention libérale, et qu’il ne prévoit aucun allègement pour les dons invalides, c’est-à-dire lorsqu’il n’y a aucune intention libérale. Il explique que ce même paragraphe a pour objet de concilier le concept de don en common law et le concept de don en droit civil québécois. Tant en common law qu’en droit civil, une intention libérale est requise. Toutefois, en common law, tout avantage vicie un don. En droit civil, un don moins le montant d’un avantage demeure un don valide, à condition qu’il y ait intention libérale. Par conséquent, le paragraphe 248(30) permet de déclarer le montant net d’un don par ailleurs valide, comme il est permis en droit civil, ce qui modifie la règle de common law selon laquelle tout avantage vicie un don plutôt que d’écarter complètement l’exigence d’une intention libérale.
+[54] L’intimé fait valoir ce point en déclarant ce qui suit dans ses observations écrites : [traduction] « Si le législateur avait l’intention d’écarter l’exigence d’une intention libérale, il l’aurait déclaré explicitement. […] Cette conclusion est étayée par l’économie de cette disposition ainsi que par son objet, qui était de modifier la loi en ce qui concerne les contributions comportant un avantage. En fait, les dons qui pourraient par ailleurs être complètement viciés en common law en raison de l’existence d’un avantage, malgré l’intention de faire un don correspondant au montant de la contribution qui excède l’avantage, ne seraient plus viciés. […] Le contribuable échappe ainsi à la règle de common law lui interdisant de tirer un avantage d’un don de bienfaisance. »
+[55] Dans la présente analyse, je souscris entièrement aux observations présentées par l’intimé.
+[56] L’interprétation qu’il convient de donner au paragraphe 248(30) est qu’un avantage ne rend pas nécessairement un don inadmissible, pourvu que l’intention libérale soit toujours présente. Par conséquent, je conclus que, lorsqu’il n’y a pas d’intention libérale, il n’y a pas de don. Dans un tel cas, les paragraphes 248(30) à (32) ne s’appliquent pas.
+Si le paragraphe 248(30) s’applique, quel est le montant de l’avantage au titre du don en espèces? [57] Si j’ai tort de conclure que le paragraphe 248(30) ne s’applique pas en l’espèce, j’examine, à titre subsidiaire, comment il s’appliquerait. Si les paragraphes 248(30) à (32) s’appliquent, suivant le paragraphe 248(31), le montant admissible du don correspond au montant du don moins le montant de l’avantage. Par conséquent, j’examine, à titre subsidiaire, quel serait le montant de l’avantage aux fins de l’application du paragraphe 248(31).
+Position des parties [58] Sur cette question, les appelants soutiennent que, comme il est établi dans la jurisprudence, un reçu pour don de bienfaisance faisant état d’un montant gonflé ne peut être considéré comme un avantage. Un tel reçu n’a aucune juste valeur marchande (renvoyant à Canada c. Castro, 2015 CAF 225).
+[59] Les appelants soutiennent également que le paragraphe 248(30) ne devrait pas s’appliquer à ce qui est « prévu » ou « tenté » et que seule la véritable contrepartie devrait être considérée comme un avantage. La Cour canadienne de l’impôt devrait tenir compte de ce qui s’est réellement passé plutôt que de ce que les appelants voulaient qu’il se passe (c.-à-d. que les appelants n’ont tiré aucun avantage réel de l’obtention des licences visant les didacticiels ou des reçus fiscaux connexes).
+[60] Par conséquent, les appelants font valoir que l’avantage est nul et que le montant du don en espèces ne devrait pas du tout être réduit suivant le paragraphe 248(31).
+[61] Dans ses observations écrites, l’intimé soutient que [traduction] « la valeur des reçus pour dons de bienfaisance faisant état d’un montant gonflé et des cessions de licences effectuées en faveur des appelants devrait être établie en fonction de la valeur des crédits d’impôt pour dons de bienfaisance gonflés que les appelants se seraient attendus à obtenir. Par conséquent, la valeur de l’avantage obtenu par les appelants dans le cadre du programme GLGI peut être calculée en déterminant le total des crédits d’impôt provincial et fédéral non remboursables attribuables à la prétendue contribution en nature versée dans une année d’imposition donnée, en supposant que tous les crédits d’impôt ont pu être demandés dans l’année du prétendu don. » Le recours à un crédit d’impôt gonflé pour inciter à faire un don est un avantage ou une contrepartie qui n’est pas visé par la Loi. « Il existe une nette différence entre les contribuables qui versent des contributions en espèces dans le but d’obtenir des reçus fiscaux pour dons contenant de faux renseignements afin de demander des crédits d’impôt pour des montants largement supérieurs à leurs contributions en espèces ainsi que les contribuables qui reçoivent des reçus fiscaux pour dons qui reflètent fidèlement la juste valeur marchande de leurs dons. » Un reçu fiscal faisant état d’un montant gonflé devrait donc constituer un avantage aux termes du paragraphe 248(32).
+[62] À titre subsidiaire, l’intimé soutient que la valeur des reçus fiscaux faisant état d’un montant gonflé et de la cession de licences devrait correspondre au montant du don en espèces, puisqu’il s’agit du montant que les appelants étaient prêts à payer pour acquérir les reçus fiscaux faisant état d’un montant gonflé.
+[63] Subsidiairement encore, l’intimé soutient que la valeur prévue des didacticiels est le montant de l’avantage, ce qui correspondrait à une valeur de trois à cinq fois plus élevée que la contribution en espèces.
+[64] L’intimé étaye ces positions en affirmant dans ses observations écrites que [traduction] « le “montant d’un avantage” est défini de façon très générale au paragraphe 248(32) de la Loi et comprend la valeur de tout avantage que le cédant “a reçu ou obtenu, ou a le droit, immédiat ou futur et absolu ou conditionnel, de recevoir ou d’obtenir”, ou dont le cédant “a joui ou a le droit, immédiat ou futur et absolu ou conditionnel, de jouir”, et qui, selon le cas i) est accordé en contrepartie du don; ii) est accordé en reconnaissance du don; iii) se rapporte de toute autre façon au don ».
+[65] Par conséquent, l’intimé soutient que, peu importe la méthode d’évaluation utilisée, le montant de l’avantage excéderait 80 %, de sorte que le don en espèces est inadmissible au titre de l’alinéa 248(30)a). Il ne serait pas non plus admissible au titre de l’alinéa 248(30)b), puisque les appelants n’ont pas établi, à la satisfaction du ministre, qu’ils avaient l’intention libérale de faire le don en espèces.
+Si le paragraphe 248(30) s’applique, comment l’appliquer? [66] Pour appliquer le paragraphe 248(3), il faut d’abord déterminer l’avantage du cédant.
+[67] Dans la décision Herring, la Cour canadienne de l’impôt a déterminé que le montant de l’avantage correspondait au montant total d’un prêt à recours limité, ce qui dépassait le seuil de 80 %[19]. Le fait que le produit du prêt n’a jamais été réellement versé à l’organisme de bienfaisance bénéficiaire des fonds était sans importance[20].
+[68] Le moment où le montant d’un avantage doit être calculé correspond au moment où le prétendu don a été fait[21].
+[69] Il est important de reconnaître que c’est le « montant » de l’avantage qui ne doit pas dépasser le seuil de 80 %, et non la « juste valeur marchande » de l’avantage. Le « montant » de l’avantage est un concept flou[22].
+[70] Parmi les avantages qui ont été considérés comme tels par les tribunaux, mentionnons les prêts ne portant pas intérêt ou ceux portant intérêt à des taux inférieurs à ceux du marché[23], l’option de vente intégrée[24], les fonds déposés dans le portefeuille de placements d’un contribuable[25] et les services d’un gestionnaire de portefeuille avec mandat de gestion totale[26].
+[71] Quant à la question de savoir si des simulacres de documents peuvent constituer un avantage lorsqu’ils sont dénués d’effet réel, dans la décision Castro, la Cour d’appel fédérale a examiné la valeur de tels documents en appliquant l’arrêt Berg de la Cour d’appel fédérale et a déclaré ce qui suit :
+42 Le juge de la Cour de l’impôt a conclu que les documents remis à M. Berg n’avaient aucune valeur, car ils étaient faux et ne pouvaient donc pas constituer un avantage. En appel, la Cour a infirmé cette conclusion. Les documents émis avaient une valeur puisque M. Berg s’en était servi pour demander un crédit d’impôt supérieur à celui auquel il avait réellement droit. Notre Cour a en outre conclu que, vu les faits, il ne revenait pas au juge de conclure que M. Berg avait l’intention requise de faire un don. M. Berg n’avait pas l’intention de s’appauvrir en transférant les parts de temps partagé à l’organisme de bienfaisance enregistré; bien au contraire, il avait l’intention de s’enrichir en se servant des reçus pour don de bienfaisance gonflés. En somme, M. Berg n’avait pas l’intention requise de faire un don au sens de l’article 118.1 de la Loi[27].
+[72] L’avantage associé à un prétendu don peut découler d’un arrangement interdépendant et peut également être fourni par un tiers plutôt que par le bénéficiaire du don[28].
+Si le paragraphe 248(30) s’applique : les didacticiels constituent l’avantage [73] Suivant la présente analyse, le montant prévu en dollars des licences que les appelants s’attendaient à recevoir constitue manifestement l’un des avantages.
+[74] Le montant de l’avantage lié aux didacticiels correspond à la valeur à laquelle les appelants s’attendaient (et non à leur juste valeur marchande réelle). Étant donné que la valeur prévue des didacticiels était nettement supérieure au don en espèces fait par les appelants, l’alinéa 248(30)a) n’empêche pas le don d’être jugé inadmissible, puisque l’avantage dépasse de loin la totalité du don en espèces. Ainsi, l’application des paragraphes 248(30) à (32) entraînerait une fois de plus le rejet des appels.
+Si le paragraphe 248(30) s’applique : les crédits d’impôts constituent l’avantage [75] Les crédits d’impôt reçus par les appelants en échange du prétendu don en nature constituent un autre avantage possible.
+[76] Bien qu’un avantage fiscal obtenu par suite d’un don ne soit habituellement pas considéré comme un avantage invalidant un don ou annulant l’intention libérale[29], dans un arrangement comme celui prévu par le programme GLGI, les crédits d’impôt gonflés découlant des diverses opérations trompe-l’œil constituent un avantage aux fins de l’application du paragraphe 248(30)[30].
+[77] Étant donné que l’avantage au titre des crédits d’impôt pour le don en nature dépasse les dons en espèces, encore là, le paragraphe 248(30) ne rendrait pas le don de bienfaisance admissible.
+Si le paragraphe 248(30) s’applique : les simulacres de documents constituent l’avantage [78] Dans d’autres affaires, il a été établi que les simulacres de documents eux-mêmes avaient de la valeur pour le contribuable au moment où ce dernier les avait acquis et s’en était servi pour atteindre le résultat prévu[31].
+[79] Je tire également une telle conclusion en l’espèce. Très simplement, j’établirais la valeur des simulacres de documents au montant du don en espèces (ce montant correspond à la valeur que les appelants étaient disposés à payer pour ces documents). Encore là, le paragraphe 248(30) ne rendrait pas le don de bienfaisance admissible.
+CONCLUSION [80] Les paragraphes 248(30) à (32) n’écartent pas l’exigence en common law de l’intention libérale de faire un don valide. Ces dispositions ne rendent admissibles que les dons par ailleurs valides dans les cas où il existe un avantage technique qui invaliderait un don et où il y a, par ailleurs, une intention libérale.
+[81] Étant donné que ni l’un ni l’autre des appelants n’avait l’intention libérale de faire un don lorsqu’ils ont fait leurs contributions en espèces, mais qu’ils ont plutôt participé à une série d’opérations interdépendantes visant à les enrichir, les appels seront rejetés.
+[82] Les dépens devront être payés par les appelants.
+Signé à Ottawa, Canada, ce 13e jour de décembre 2023.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+ce 22e jour d’avril 2025.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+Annexe A
+2021-2120(IT)G
+COUR CANADIENNE DE L’IMPÔT
+E N T R E :
+DONNA COLLINS,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé;
+2021-1574(IT)G
+COUR CANADIENNE DE L’IMPÔT
+E N T R E :
+JOEL DE LAS ALAS,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé;
+2021-1544(IT)G
+COUR CANADIENNE DE L’IMPÔT
+E N T R E :
+CHRIS WALBY,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+Les parties, par l’intermédiaire de leurs avocats respectifs, conviennent des faits qui suivent et les admettent pour les besoins des présents appels. Elles conviennent en outre que le présent exposé des faits et les admissions qu’il contient ne signifient pas, sauf indication contraire, que les appelants étaient au courant de tous les faits admis au moment où ils ont décidé de participer au programme Global Learning Gifting Initiative (le « programme GLGI »).
+Par ailleurs, pour ce qui est des faits mentionnés au paragraphe 11 et de tous les faits mentionnés par la suite, les appelants ne reconnaissent ni leur pertinence ni leur admissibilité. De plus, le présent exposé des faits est « partiel » en ce sens que les parties pourront mettre en preuve d’autres faits et qu’il ne constitue pas forcément le canevas des faits sur lesquels les appelants fonderont leur argumentation.
+1.L’appelant, Chris Walby, a participé au programme GLGI durant les années d’imposition 2005, 2006, 2007, 2008, 2009, 2010 et 2011.
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+Montants reportés des années antérieures
+0 $
+0 $
+0 $
+15 080 $
+0 $
+6 643 $
+0 $
+Dons en espèces
+15 000 $
+15 000 $
+15 000 $
+15 000 $
+15 000 $
+10 000 $
+10 000 $
+Dons en nature
+75 010 $
+60 077 $
+75 006 $
+75 043 $
+60 010 $
+50 021 $
+50 000 $
+Autres dons
+(non litigieux)
+25 $
+20 $
+80 $
+0 $
+95 $
+90 $
+100 $
+Total des dons de bienfaisance
+90 035 $
+75 097 $
+90 086 $
+105 123 $
+75 105 $
+66 754 $
+60 100 $
+Total des dons de bienfaisance déclarés
+90 035 $
+75 077 $
+75 080 $
+75 123 $
+71 783 $
+66 754 $
+60 100 $
+Montants pouvant être transférés ou reportés
+0 $
+20 $
+15 006 $
+30 000 $
+3 322 $
+0 $
+0 $
+2.M. Walby a déclaré les montants suivants au titre des dons de bienfaisance découlant de sa participation au programme GLGI :
+3.Les dons en espèces ont été versés par M. Walby sous forme de chèques des montants susmentionnés, libellés à l’ordre des organismes de bienfaisance respectifs, lesquels étaient, au moment des dons, des organismes de bienfaisance enregistrés au sens de la Loi de l’impôt sur le revenu.
+4.Pour l’année d’imposition 2008, M. Walby a erronément déclaré un montant de 15 080 $, reporté de l’année d’imposition 2007. Le montant qu’il aurait pu reporter de l’année d’imposition 2007, s’il est conclu que les montants déclarés sont des dons de bienfaisance, était de 15 006 $, comme l’indique le tableau au paragraphe 2.
+5.L’appelante, Donna Collins, a participé au programme GLGI durant les années d’imposition 2005, 2006, 2007 et 2008.
+6.Mme Collins a déclaré les montants suivants au titre des dons de bienfaisance découlant de sa participation au programme GLGI :
+2005
+2006
+2007
+2008
+Montants reportés des années antérieures
+-
+-
+42 356 $
+4 936 $
+Dons en espèces
+20 000 $
+15 000 $
+-
+-
+Dons en nature
+100 046 $
+75 100 $
+Autres dons (non litigieux)
+410 $
+-
+-
+3 153 $
+Total des dons de bienfaisance
+120 456 $
+90 100 $
+42 356 $
+8 089 $
+Total des dons de bienfaisance déclarés
+120 456 $
+47 744 $
+37 420 $
+8 089 $
+Montants pouvant être transférés ou reportés
+-
+42 356 $
+4 936 $
+-
+7.Les dons en espèces ont été versés par Mme Collins sous forme de chèques des montants susmentionnés, libellés à l’ordre des organismes de bienfaisance respectifs, lesquels étaient, au moment des dons, des organismes de bienfaisance enregistrés au sens de la Loi de l’impôt sur le revenu.
+8.L’appelant, Joel De Las Alas, a participé au programme GLGI en 2006.
+9.M. De Las Alas a déclaré les montants suivants au titre des dons de bienfaisance découlant de sa participation au programme GLGI :
+2006
+Don en espèces
+13 600 $
+Don en nature
+54 447 $
+Autre don (non litigieux)
+23 $
+Total des dons de bienfaisance déclarés
+68 070 $
+10.Le don en espèces a été versé par l’appelant sous forme de chèque du montant susmentionné, libellé à l’ordre de l’organisme de bienfaisance, lequel était, au moment du don, un organisme de bienfaisance enregistré au sens de la Loi de l’impôt sur le revenu.
+Global Learning Group Inc.
+11.Robert Lewis est l’unique actionnaire et administrateur de Global Learning Group Inc. (« GLGInc. » ou le « promoteur »).
+Programme Global Learning Gifting Initiative (2004)
+12.Le programme GLGI a été créé le 18 octobre 2004 et enregistré à titre d’abri fiscal ayant pour objectif déclaré d’amasser des fonds au nom de deux organismes canadiens de bienfaisance alors enregistrés : Canadian Charity Association (« CCA »), qui est devenu plus tard International Charity Association Network (« ICAN »), et Millennium Charitable Foundation (« Millennium »).
+13.C’est le promoteur, entre autres, qui faisait la promotion du programme GLGI.
+14.Durant la période visée, la promotion du programme GLGI a été faite auprès des contribuables canadiens dans la perspective que les participants reçoivent des crédits d’impôt nettement supérieurs aux dons réellement versés, selon les reçus pour dons obtenus d’organismes de bienfaisance précis, et obtiennent ainsi un rendement positif variant de 56 % à 112 %, selon les taux d’imposition applicables dans la province de résidence des participants et l’année de participation.
+15.Le programme GLGI a fonctionné de 2004 à 2014. Le tableau qui suit en résume les détails :
+Année
+Nombre de participants
+Dons en espèces
+Valeur des dons en nature
+Total des dons
+Ratio moyen dons en espèces/ dons en nature
+2004
+2 180
+9 603 304 $
+31 213 414 $
+40 816 718 $
+1/3
+2005
+12 177
+50 665 207 $
+246 986 504 $
+297 651 711 $
+1/5
+2006
+22 674
+88 807 306 $
+464 065 759 $
+552 873 065 $
+1/5
+2007
+14 455
+56 038 363 $
+325 970 847 $
+382 009 210 $
+1/6
+2008
+4 292
+19 192 750 $
+99 947 893 $
+119 140 643 $
+1/5
+2009
+3 478
+16 800 838 $
+88 564 244 $
+105 365 082 $
+1/5
+2010
+2 902
+14 934 241 $
+79 895 074 $
+94 829 315 $
+1/5
+2011
+3 028
+16 625 591 $
+95 345 974 $
+111 971 565 $
+1/6
+Total
+65 186
+272 667 600 $
+1 431 989 709 $
+1 704 657 309 $
+1/5
+Canadian International Technology Training Inc.
+16.Canadian International Technology Training Inc. (« CITTI ») est l’entité de gestion du promoteur.
+17.Robert Lewis était, durant toute la période visée, le mandant de CITTI.
+IDI Strategies Inc.
+18.IDI Strategies Inc. (« IDI ») agissait à titre de consultant du promoteur chargé d’aider au fonctionnement du programme GLGI.
+19.Les mandants et propriétaires indirects d’IDI sont Richard Glatt, James Penturn et Jack Keslassy, selon la structure de propriété suivante :
+a.IDI appartient à 45 % à Amber Financial, à 45 % à Jodrick Investments et à 10 % à 1444610 Ontario Ltd.;
+i.Amber Financial appartient à 100 % à CS Skyld Holdings, dont l’actionnaire est John Penturn and Son Ltd., et Edith Penturn est propriétaire à 100 % de John Penturn and Son Ltd.;
+ii.Jodrick Investments appartient à 100 % à Richard Glatt;
+iii.1444610 Ontario Ltd. appartient à 100 % à Jack Keslassy, qui est président d’IDI.
+20.GLGInc. et IDI ont conclu une entente confiant à IDI la charge de fournir les services d’administration générale, de tenue de livres et de soutien nécessaires au traitement des demandes de participants au programme GLGI, comme l’indique le paragraphe 64.
+21.IDI a eu des liens avec le programme GLGI jusqu’en avril 2011.
+JDS Corporation Inc.
+22.JDS Corporation (« JDS ») était le fournisseur de services pour le programme GLGI depuis sa création en 2004 jusqu’au 9 mai 2011.
+23.Denis Jobin était l’unique actionnaire, dirigeant, administrateur et employé de JDS durant toute la période visée.
+24.JDS a créé une base de données pour les besoins du programme GLGI afin de garder à jour l’information sur les participants, notamment leur nom, adresse, numéro d’assurance sociale, numéro de téléphone et adresse de courrier électronique.
+25.La base de données créée par JDS aidait le promoteur à contrôler et à faire fonctionner le programme GLGI.
+Phoenix Learning Corporation
+26.Phoenix Learning Corporation (« Phoenix ») est une société des Bahamas.
+27.Michael Morris, résident des Bahamas, était le président de Phoenix durant toute la période visée.
+Global Learning Trust
+28.Global Learning Trust (2004) (la « fiducie ») aurait été créée par Michael Morris conformément à un acte de constitution daté du 19 novembre 2004, en Ontario.
+29.La fiducie a été constituée avec 100 $ US en espèces.
+30.La fiducie a été créée pour faciliter le fonctionnement du programme GLGI.
+Global Learning Trust Services Inc.
+31.Global Learning Trust Services Inc. (la « fiduciaire ») est une société ontarienne qui agissait comme fiduciaire de la fiducie durant la période visée.
+32.Ronald Knechtel, résident de l’Ontario, était l’unique actionnaire de la fiduciaire.
+33.Ronald Knechtel est décédé le 6 janvier 2014.
+Bénéficiaires de la fiducie
+34.CCA était la seule bénéficiaire du revenu de la fiducie.
+35.L’expression « bénéficiaire du capital de la fiducie » était définie comme étant tout particulier :
+a.qui a fait un ou plusieurs dons de bienfaisance à un ou plusieurs organismes de bienfaisance enregistrés dans l’année civile au cours de laquelle ce particulier a présenté une demande de prise en considération à titre de bénéficiaire du capital, ou dans l’année civile précédente;
+b.qui a obtenu de chacun de ces organismes de bienfaisance un reçu en la forme prescrite par la Loi de l'impôt sur le revenu;
+c.qui a présenté à la fiduciaire une demande écrite de prise en considération en vue de son admission à titre de bénéficiaire du capital;
+d.dont la demande de prise en considération a été approuvée par la fiduciaire.
+Escrowagent
+36.Escrowagent Inc. (« Escrowagent ») était une société qui a été constituée dans la province de l’Ontario, le 4 novembre 2004.
+37.Allen Beach, alors avocat chez Fasken Martineau, était l’unique administrateur d’Escrowagent du 4 novembre 2004 au 1er avril 2011.
+38.Graham Turner, avocat, a été nommé à titre d’unique administrateur, président et secrétaire d’Escrowagent le 1er avril 2011.
+39.Le rôle déclaré d’Escrowagent dans le programme GLGI était de transmettre aux organismes de bienfaisance enregistrés en question les documents reçus des participants, de dater certains documents ou d’en modifier la date, de transmettre les reçus pour dons des organismes de bienfaisance aux participants et de traiter les cas où le participant souhaite se retirer du programme GLGI.
+40.Malgré le rôle déclaré d’Escrowagent, bon nombre des fonctions de cette dernière étaient exécutées par IDI ou d’autres parties prenantes du programme GLGI jusqu’au début de 2011.
+41.En 2011, Escrowagent, alors sous le contrôle de Graham Turner, a repris de nombreuses fonctions jusqu’alors exécutées par IDI et JDS.
+42.Escrowagent recevait de chacun des participants au programme GLGI les honoraires suivants (TPS comprise) :
+a.10,70 $ en 2004, 2005 et 2006;
+b.de 10,60 $ à 10,70 $ en 2007;
+c.25,50 $ en 2008;
+d.40,50 $ en 2009;
+e.41,30 $ en 2010 et 2011.
+InfoSource, Inc.
+43.InfoSource, Inc. (« InfoSource ») est une société de la Floride qui possède tous les droits de licence sur certains logiciels d’apprentissage et d’évaluation (les « didacticiels »).
+Évolution du programme GLGI depuis un précédent arrangement d’abri fiscal
+44.Le programme GLGI a fait suite à un précédent arrangement d’abri fiscal appelé Global Learning Systems (« GLS »).
+45.En 2002 et 2003, Robert Lewis et CITTI faisaient la promotion du programme GLS, qui comportait l’achat en espèces de biens en nature et le don subséquent de ces biens à un organisme de bienfaisance canadien enregistré à une valeur gonflée.
+46.Le programme GLS permettait aux participants d’acheter des didacticiels d’InfoSource pour en faire don à un certain nombre d’organismes de bienfaisance, notamment CCA.
+47.CITTI obtenait les didacticiels dont les participants faisaient don dans le cadre du programme GLS en vertu d’un accord de licence avec InfoSource.
+48.Vers la fin de 2003, le Canada a annoncé des modifications à la Loi de l’impôt sur le revenu, qui ont eu pour effet de grandement restreindre le programme puisque, pour les dons en nature, elles limitaient à leur coût le montant admissible d’un don de bienfaisance pouvant être déclaré par les participants. Le programme de dons GLS allait donc devenir beaucoup moins intéressant pour les participants et beaucoup moins profitable pour le promoteur.
+49.Vu les modifications proposées, CITTI a décidé de mettre fin à son accord de licence avec InfoSource, et le programme GLS a été abandonné.
+50.En 2004, GLGInc. et Robert Lewis ont créé le programme GLGI, qui était semblable au programme GLS, mais qui faisait intervenir une fiducie pour empêcher l’application des modifications proposées de la Loi de l’impôt sur le revenu.
+Organismes de bienfaisance de 2004 à 2011
+51.CCA et Millennium étaient les premiers organismes de bienfaisance impliqués dans le programme GLGI.
+52.Outre Millennium et CCA, un certain nombre d’autres organismes de bienfaisance ont pris part au programme GLGI entre 2004 et 2011, comme le montre le tableau ci‑dessous :
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+Rôle dans le programme GLGI
+Millennium
+X
+X
+X
+X
+Recevait des dons en espèces et délivrait des reçus.
+CCA/ICAN
+X
+X
+X
+X
+Recevait des dons de biens et délivrait des reçus.
+York Region Education Industry Foundation and Career Centre (« Career Foundation »)
+X
+Recevait des dons en espèces et des dons de biens et délivrait des reçus.
+Glooscap Heritage Society (« Glooscap »)
+X
+X
+X
+X
+Recevait des dons en espèces et des dons de biens et délivrait des reçus.
+Malvern Rouge Valley Youth Services
+(« Malvern »)
+X
+X
+X
+Recevait des dons en espèces et des dons de biens et délivrait des reçus.
+Judaic Proselyte Church
+of Christ (« Judaic »)
+X
+Recevait des dons en espèces et des dons de biens et délivrait des reçus.
+ResQ Youth International (« ResQ »)
+X
+Recevait des dons en espèces et des dons de biens et délivrait des reçus.
+Eskasoni First Nation (« Eskasoni »)
+X
+Recevait des dons en espèces et des dons de biens et délivrait des reçus.
+Trinity Global Support Foundation (« Trinity »)
+X
+Recevait des dons en espèces et des dons de biens et délivrait des reçus.
+(collectivement appelés les « organismes de bienfaisance »).
+53.Millennium était un organisme de bienfaisance canadien enregistré jusqu’à la révocation de son statut le 9 août 2008.
+54.CCA (ICAN) était un organisme de bienfaisance canadien enregistré jusqu’à la révocation de son statut le 10 janvier 2009.
+55.Career Foundation est devenu un organisme de bienfaisance canadien enregistré le 31 août 1988.
+56.Malvern est devenu un organisme de bienfaisance enregistré le 26 février 2007; son statut a été révoqué le 12 novembre 2011.
+57.Glooscap est devenu un organisme de bienfaisance canadien enregistré le 12 mai 2005; son statut a été révoqué le 20 octobre 2011.
+58.Judaic était un organisme de bienfaisance canadien enregistré jusqu’à la révocation de son statut le 22 octobre 2011.
+59.ResQ est devenu un organisme de bienfaisance canadien enregistré le 1er août 2003.
+60.Eskasoni, une communauté des Premières Nations, est définie comme une municipalité selon les articles 81 et 83 de la Loi sur les Indiens et est un « donataire reconnu » enregistré à ce titre par le ministre au sens du paragraphe 149.1(1) de la Loi de l’impôt sur le revenu.
+61.Trinity était un organisme de bienfaisance canadien enregistré jusqu’à la révocation de son statut le 4 mai 2013.
+Création du programme GLGI à la fin de 2004
+62.Le 18 octobre 2004, GLGInc. a demandé l’enregistrement du programme GLGI à titre d’abri fiscal.
+63.Avant de remplir leur rôle au sein du programme GLGI, les deux organismes de bienfaisance initiaux, Millennium et CCA, ont chacun dû conclure avec GLGInc. un contrat de collecte de fonds :
+a.Le 19 octobre 2004, Millennium a conclu avec GLGInc. un contrat de collecte de fonds en vertu duquel :
+i.Millennium s’engageait à verser à GLGInc. des frais de collecte de fonds équivalant à 20 % du montant brut des dons en espèces reçus par GLGInc.;
+ii.Millennium s’engageait à verser à IDI un montant de 100 000 $ sur les premiers dons en espèces reçus ainsi que des frais variables équivalant à 7,2 % de la première tranche de 5 000 000 $ collectés et à 15,7 % du reliquat;
+iii.Millennium était autorisé à prélever les frais à verser à IDI sur les montants par ailleurs payables à GLGInc.
+b.Le 19 novembre 2004, CCA a conclu avec GLGInc. un accord en vertu duquel CCA s’engageait à verser des frais de collecte de fonds équivalant à 18 % du montant brut des dons en espèces et de la juste valeur marchande des dons en nature faits à CCA;
+c.Dans une modification apportée à une date inconnue à leur accord du 19 novembre 2004, CCA a convenu de verser à GLGInc. des frais de collecte de fonds équivalant à 17,8 % du montant brut des dons en espèces et de la juste valeur marchande des dons en nature faits à CCA, à condition que ces frais n’excèdent en aucun cas 88 % des montants traités dans le cadre du programme GLGI.
+64.Le 28 octobre 2004, GLGInc. et IDI ont conclu un accord en vertu duquel IDI s’engageait à fournir les services d’administration générale, de tenue de livres et de soutien nécessaires au traitement des demandes de contribuables voulant participer au programme GLGI ainsi qu’à créer et à tenir à jour une base de données électroniques pour y conserver les dossiers du programme GLGI et les autres communications.
+65.Selon cet accord de services avec GLGInc., IDI devait recevoir une somme forfaitaire de 100 000 $ et des frais variables équivalant à 7,2 % de la première tranche de 5 000 000 $ collectés par le programme GLGI et à 15,7 % du reliquat de toutes les contributions en espèces versées par les participants.
+66.Le 10 novembre 2004, le cabinet d’avocats Cassels Brock & Blackwell LLP a présenté son avis juridique sur le programme GLGI aux frais de GLGInc.
+67.À la fin de novembre 2004, InfoSource et Phoenix ont signé un accord de licence daté du 20 octobre 2004 (le « premier accord-cadre ») en vertu duquel InfoSource accordait à Phoenix un maximum de 250 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques pour chacun des six didacticiels décrits dans l’accord, soit un total de 1,5 million de licences, en contrepartie de 400 000 $ US.
+68.Six didacticiels étaient visés par l’accord-cadre : « Office 2000 Seminar-on-a-Disk » (Cours d’Office 2000 sur CD), « How-to-Master Office XP » (Maîtriser Office XP), « How-to-Master Office 2003 » (Maîtriser Office 2003), « IC3 », « A+2003 » et « MCSE 2000 » (Ingénieur de systèmes Windows 2000 agréé par Microsoft).
+69.Le premier accord-cadre stipulait que, pour chaque licence, Phoenix était autorisée à faire une copie sur CD-ROM de chacun des didacticiels.
+70.Les frais de 400 000 $ US prévus dans le premier accord-cadre étaient un prix négocié correspondant à la juste valeur marchande des licences accordées en vertu de cet accord-cadre.
+71.Les fonds utilisés par Phoenix pour payer les frais de 400 000 $ US à InfoSource provenaient de GLGInc. : ils avaient été prélevés sur les montants en espèces versés par les participants au programme GLS dans l’année d’imposition 2003 et sur les sommes collectées par le programme GLGI en 2004 et 2005.
+72.Le 19 novembre 2004, Michael Morris a fondé la fiducie, comme l’indique le paragraphe 28.
+73.Le 19 novembre 2004 également, Phoenix a fait don à la fiducie de 200 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques pour chacun des six didacticiels (l’« accord de cession de licences »), soit un total de 1,2 million de licences du maximum des 1,5 million de licences visées par le premier accord-cadre.
+74.L’accord de cession de licences stipulait qu’un numéro de série, allant de 100 000 001 à 100 200 000, devait être attribué à chaque licence.
+75.Les numéros de série conçus par M. Jobin, de JDS, étaient simplement des numéros séquentiels, sans signification en soi.
+76.Les numéros de série n’avaient aucune signification pour InfoSource.
+77.Le 19 novembre 2004, à la demande du promoteur, EMC Partners a fourni une estimation des licences données à la fiducie (l’« avis d’EMC »).
+78.Dans son avis, EMC déclarait que, selon les prix de vente au détail facturés par InfoSource aux acheteurs de licences sur CD-ROM destinées à des utilisateurs uniques, les 1,2 million de licences cédées en vertu de l’accord de cession de licences valaient 184 598 000 $ US.
+79.Le 27 décembre 2004, à la demande du promoteur, Wise, Blackman LLP a présenté un rapport examinant et confirmant l’avis d’EMC.
+80.Dans son avis, EMC avait gonflé la valeur de chaque licence.
+81.La véritable juste valeur marchande de chaque licence cédée en vertu de l’accord de cession de licences était minime.
+Devenir participant au programme de dons
+82.GLGInc. et IDI (jusqu’en 2011) faisaient activement la promotion du programme GLGI auprès d’éventuels participants, y compris les appelants, directement ou par l’intermédiaire de mandataires et de sous-mandataires.
+83.Les mandataires et sous-mandataires recevaient une commission correspondant à un pourcentage des sommes collectées auprès des participants au programme GLGI.
+Documents transactionnels
+84.Après avoir décidé de participer au programme GLGI, les appelants devaient remplir une série de documents (les « documents transactionnels »), notamment :
+a.une fiche de renseignements contenant des renseignements sur le participant, y compris son nom, son adresse, son numéro d’assurance sociale, son adresse de courrier électronique, le montant de la contribution en espèces qui serait versée à l’un des organismes de bienfaisance, la valeur des didacticiels demandés (généralement de trois à cinq fois le montant de la contribution en espèces), l’historique des dons et les détails concernant l’agent de vente;
+b.un « acte de donation » adressé à l’un des organismes de bienfaisance approuvés par le promoteur ainsi qu’un chèque du montant prévu;
+c.un « acte de donation de biens » adressé à l’un des organismes de bienfaisance approuvés par le promoteur attestant que les appelants sont les propriétaires en droit et propriétaires bénéficiaires en possession et en contrôle des didacticiels précisés à l’annexe A (appelée « section A » à partir de 2008) de l’acte;
+d.une « demande de prise en considération à titre de bénéficiaire du capital de Global Learning Trust (2004) » (la « demande ») pour faire approuver le participant à titre de bénéficiaire du capital de la fiducie et, s’il était approuvé, lui distribuer des biens sous forme de didacticiels d’une valeur pécuniaire précise;
+e.une « première directive » autorisant Escrowagent à transmettre la demande à la fiduciaire de la fiducie et à prendre les dispositions nécessaires pour transmettre l’acte de donation de biens, à dater certains documents ou à en modifier la date et à prendre les dispositions nécessaires pour transmettre les reçus pour dons de bienfaisance;
+f.une « deuxième directive » autorisant Escrowagent à prendre les dispositions nécessaires pour transmettre l’acte de donation en espèces ainsi que le chèque, à dater certains documents ou à en modifier la date et à prendre les dispositions nécessaires pour transmettre les reçus pour dons de bienfaisance;
+g.un chèque libellé à l’ordre de Escrowagent;
+h.un reçu fiscal de don antérieur;
+i.dans certains cas, une renonciation ainsi qu’un accusé de réception du donateur.
+85.Pour prendre part au programme GLGI, les participants étaient censés faire un don en espèces équivalant au tiers, au plus, et au sixième, au moins, de la juste valeur marchande des biens qu’ils recevraient à titre de bénéficiaires du capital de la fiducie (le « ratio des dons en espèces »), comme le résume le tableau au paragraphe 15.
+86.Les participants avaient pour consigne de dater leur chèque du quatrième jour suivant la date de leur demande.
+87.Les participants n’étaient ni en possession ni en contrôle des didacticiels, des licences ou d’autres biens similaires et n’avaient à leur égard aucun intérêt en droit ni aucun intérêt bénéficiaire au moment de signer l’acte de donation de biens.
+88.Bien que l’acte de donation de biens renvoie aux « didacticiels précisés à l’annexe A » (ou « section A », durant certaines années de l’existence du programme GLGI) de l’acte, aucun document intitulé « Annexe A » ou « Section A » n’a jamais été produit pour un quelconque participant.
+89.C’est le participant, et non la fiduciaire, qui établissait la valeur totale des biens demandés dans la demande en fonction du ratio des dons en espèces et avec l’aide du promoteur et de ses agents de vente.
+90.La première et la deuxième directives visaient à permettre aux participants de révoquer le don de biens ou le don en espèces en donnant un avis dans les 48 ou 72 heures, après avoir été informés que leur demande avait été approuvée et qu’ils recevraient des biens de la fiducie dans le cadre d’une distribution.
+91.Grâce aux options de révocation prévues dans la première et la deuxième directives, les participants étaient informés de l’approbation de leur demande avant qu’il ne soit trop tard pour révoquer leur don en espèces.
+92.Aucun don ne devenait valide avant que la demande ait été approuvée et que le participant en ait été avisé.
+93.Tant que leurs documents transactionnels étaient complets, les participants pouvaient participer au programme GLGI et leur demande était approuvée.
+Administration du programme GLGI
+94.IDI et JDS ont aidé le promoteur à administrer et à gérer le programme GLGI depuis sa création en 2004 jusqu’au début de 2011.
+95.JDS tenait à jour la base de données du programme GLGI, qui contenait les renseignements tirés des documents transactionnels des participants.
+96.JDS a conçu et utilisé un logiciel qui déterminait le nombre de licences à attribuer à chacun des participants grâce à un algorithme qui mettait en correspondance le nombre voulu de licences visant les divers didacticiels avec leur valeur établie pour approximer la valeur des licences demandées par chaque participant dans sa demande.
+97.À la fin de chaque semaine, JDS traitait un lot de documents transactionnels d’un groupe de participants et générait les documents suivants, en appliquant l’algorithme aux renseignements contenus dans la base de données :
+a.l’annexe A, qui dressait la liste des participants du lot et les numéros de série des licences qui leur avaient été attribuées;
+b.la « résolution de l’unique fiduciaire de Global Learning Trust (2004) », destinée à approuver les participants énumérés à l’annexe A à titre de bénéficiaires du capital de la fiducie et à leur céder les licences précisées à l’annexe A en guise de règlement de leur participation au capital de la fiducie;
+c.l’« avis de cession de licences » adressé à Phoenix visant à informer ce dernier de la cession par la fiducie aux bénéficiaires de tous les droits, titres et intérêts sur les licences précisées à l’annexe A.
+98.JDS rédigeait la résolution et l’avis de cession de licences en utilisant un gabarit non daté qui soit avait été préalablement signé par M. Knechtel, soit portait une copie électronique de la signature de M. Knechtel.
+99.JDS rédigeait également les documents suivants pour chacun des participants du lot :
+a.la « cession de licences », qui était adressée au participant pour l’informer que la fiducie lui avait cédé les licences destinées à des utilisateurs uniques visant les didacticiels et portant les numéros de série inscrits à la pièce A, chaque licence faisant partie des licences qui paraissent à la pièce B;
+b.la « pièce A », qui dressait la liste des didacticiels et des numéros de série des licences cédées au participant.
+100.La « pièce B », à laquelle renvoyait la « cession de licences » et qui était une copie de l’accord de cession de licences entre Phoenix et la fiducie, n’était ni jointe ni fournie au participant.
+101.JDS rédigeait la « cession de licences » à partir d’un gabarit en utilisant une copie de la signature de M. Knechtel.
+102.Ni M. Knechtel ni la fiducie ne prenaient part au traitement par lots qui avait lieu à la fin de chaque semaine, à l’approbation des bénéficiaires, à la cession de licences aux participants ou à la rédaction de la « résolution », de l’« avis de cession de licences » ou de la « cession de licences ».
+103.Après le traitement du lot et la génération des documents, chaque participant recevait un courriel l’informant qu’il avait été accepté comme bénéficiaire du capital de la fiducie et l’invitant à aller consulter ses documents, à savoir la « cession de licences » et la pièce A, sur le site Web du programme de dons.
+104.C’est M. Jobin qui envoyait les courriels au nom d’Escrowagent.
+105.L’approbation des participants à titre de bénéficiaires de la fiducie et l’attribution de numéros de série aux licences étaient des étapes automatisées dans le fonctionnement du programme GLGI.
+106.Aucun chèque n’était encaissé avant que les participants aient été informés de leur approbation à titre de bénéficiaires du capital de la fiducie.
+107.Les participants au programme GLGI savaient que leur chèque, qui représentait leur contribution en espèces, ne serait pas encaissé tant qu’ils n’avaient pas été informés de leur approbation à titre de bénéficiaires du capital de la fiducie et qu’ils obtiendraient l’avantage provenant de la distribution de licences dont ils pourraient faire don par la suite.
+108.Les participants n’ont jamais été informés de la conversion des didacticiels au format CD‑ROM pour leur propre usage ni du coût réel d’une telle conversion.
+109.JDS créait aussi les reçus pour dons au nom des organismes de bienfaisance.
+Changements apportés au programme GLGI après sa création
+110.Entre 2004 et 2011, l’administration, la structure et la promotion du programme GLGI sont restées telles quelles, sauf que de nouveaux organismes de bienfaisance ont été intégrés pour recevoir les dons et que des licences ont dû être ajoutées pour faciliter les dons en nature.
+111.Les principaux changements apportés au programme GLGI après 2004 sont résumés dans les paragraphes qui suivent.
+Changements apportés en 2005
+112.Bon nombre des licences visées par l’accord de cession de licences auraient été distribuées aux participants en 2004 et au début de 2005, de sorte qu’il fallait renouveler le stock de licences pour assurer la poursuite des activités du programme GLGI.
+113.Le 14 septembre 2005, InfoSource a annexé au premier accord-cadre la « pièce B », qui autorisait Phoenix à reproduire, à ses frais, 250 000 copies additionnelles sur CD-ROM de chacun des six didacticiels précisés dans l’accord, en contrepartie de 200 000 $ US.
+114.Le 22 décembre 2005, Phoenix a fait don à la fiducie d’un maximum de 200 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques visant les six didacticiels précisés dans l’accord, soit éventuellement 1,2 million de licences. Or, les numéros de série des licences visées par l’accord de cession de licences de 2005 montrent qu’en réalité, seulement 510 000 licences ont été attribuées.
+115.En 2005, la fiducie aurait distribué 1 326 993 licences visant les didacticiels, dont 858 105 licences avaient été acquises le 19 novembre 2004 et 297 267 licences avaient été acquises le 22 décembre 2005.
+Changements apportés en 2006
+116.En vertu d’un accord de licence conclu le 12 avril 2006 (l’accord-cadre de 2006), InfoSource a accordé à Phoenix un maximum de 250 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques pour chacun des sept didacticiels précisés dans l’accord, soit un total de 1,75 million de licences, en contrepartie de 550 000 $ US.
+117.Les sept logiciels précisés dans l’accord-cadre de 2006 étaient les suivants : « Microsoft Office 2000 Seminar-on-a-Disk », « How-to-Master Office XP », « How-to-Master Office 2003 », « IC 2005 Training » (formation sur la certification IC 2005), « A+ 2003 Training » (formation sur la certification A+ de 2003), « Lotus Notes 5.0 Training » (formation sur Lotus Notes 5.0) et « Soft Skills Training Library » (répertoire de cours sur le savoir-être).
+118.Le 18 avril 2006, Phoenix a fait don à la fiducie de 800 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques visant quatre didacticiels.
+119.Le 26 septembre 2006, Phoenix a fait don à la fiducie de 470 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques visant deux didacticiels.
+120.Le 2 octobre 2006, Phoenix a fait don à la fiducie de 1,24 million de licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques visant quatre didacticiels.
+121.Le 7 novembre 2006, InfoSource a annexé à l’accord-cadre de 2006 l’« annexe B », qui prolongeait la période de validité de l’accord jusqu’au 31 mars 2007 et autorisait Phoenix à accorder 250 000 licences additionnelles pour chacun des neuf didacticiels précisés à l’annexe B, soit un total de 2,25 millions de licences additionnelles, en contrepartie de 200 000 $ US.
+122.Les neuf didacticiels précisés à l’annexe B qui a été ajoutée à l’accord-cadre de 2006 le 7 novembre 2006 étaient les suivants : « Microsoft Office 2000 Seminar-on-a-Disk », « How-to-Master Office XP », « How-to-Master Office 2003 », « IC 2005 Training », « A+ 2003 Training », « Lotus Notes 5.0 Training », « Soft Skills Training Library », « Integrating Technology in the Classroom » (cours sur l’intégration de la technologie en salle de classe) (offert uniquement en ligne) et une formation en ligne sur Office 2007 et Windows Vista (dès qu’elle serait disponible).
+123.Le 27 décembre 2006, Phoenix a fait don à la fiducie de 250 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques visant cinq didacticiels.
+124.En 2006, la fiducie aurait distribué 2 893 909 licences visant les didacticiels, soit 212 733 licences acquises le 22 décembre 2005, 800 000 licences acquises le 18 avril 2006, 470 000 licences acquises le 26 septembre 2006, 1 240 000 licences acquises le 2 octobre 2006 et 171 176 licences acquises le 27 décembre 2006.
+Changements apportés en 2007
+125.Le 14 mars 2007, Phoenix a fait don à la fiducie de 250 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques visant cinq didacticiels.
+126.En vertu d’un accord de licence conclu le 1er avril 2007 (l’accord-cadre de 2007), InfoSource a accordé à Phoenix un maximum de 500 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques pour chacun des dix didacticiels précisés dans l’accord, soit un total de 5 millions de licences, en contrepartie de 750 000 $ US.
+127.Les dix didacticiels précisés dans l’accord-cadre de 2007 étaient les suivants : « Microsoft Office 2000 », « Microsoft Office XP », « Microsoft Office 2003 », « Microsoft Office 2007 », « Microsoft Windows Vista », « IC 2005 Training », « A+ 2003 Training », « Lotus Notes 5.0 Training », « Soft Skills Training Library » et « Integrating Technology in the Classroom ».
+128.Bien que l’accord-cadre de 2007 stipulait que, pour chaque licence, Phoenix était autorisée à faire une copie sur CD-ROM de chacun des didacticiels,la pièce A de l’accord disposait que les didacticiels pouvaient être fournis par Internet, via un système de gestion de l’apprentissage (« SGA ») hébergé fourni par InfoSource.
+129.Cinq des didacticiels précisés à l’annexe A de l’accord-cadre de 2007 ne pouvaient être fournis que par Internet.
+130.Le 23 avril 2007, Phoenix a fait don à la fiducie de 250 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques visant cinq didacticiels.
+131.Le 8 juin 2007, Phoenix a fait don à la fiducie de 250 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques visant cinq didacticiels.
+132.Le 18 juin 2007, Phoenix a fait don à la fiducie de 2 000 000 de licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques visant dix didacticiels.
+133.Le 6 juillet 2007, Phoenix a fait don à la fiducie de 500 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques visant cinq didacticiels.
+134.Le 8 octobre 2007, Phoenix a fait don à la fiducie de 4 250 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques visant 170 didacticiels.
+135.À la fin de 2007, Career Foundation est devenu un organisme de bienfaisance participant au programme GLGI. Il recevait des dons en espèces et des dons de biens et délivrait des reçus pour ces dons.
+136.Le 17 décembre 2007, Career Foundation et le promoteur ont conclu un contrat de collecte de fonds autorisant le promoteur à percevoir des frais de collecte de fonds de base équivalant à 16,62 % (plus la TPS) de la juste valeur marchande brute des dons en espèces et des dons en nature reçus par le promoteur et versés à Career Foundation, à condition que ces frais n’excèdent en aucun cas 88 % (TPS comprise) des dons en espèces reçus par le promoteur et que Career Foundation puisse ainsi conserver 12 % des dons en espèces.
+137.Le 21 décembre 2007, Career Foundation a remis au promoteur un avis de 30 jours visant la résiliation du contrat conclu le 17 décembre 2007.
+138.En 2007, la fiducie aurait distribué 1 854 485 licences visant les didacticiels, soit 78 824 licences acquises le 27 décembre 2006, 250 000 licences acquises le 14 mars 2007, 250 000 licences acquises le 23 avril 2007, 878 749 licences acquises le 18 juin 2007 et 396 912 licences acquises le 6 juillet 2007.
+Changements apportés en 2008
+Nouveaux accords de licence
+139.En vertu d’un accord de licence conclu le 31 janvier 2008 (l’accord-cadre de 2008), InfoSource a autorisé Phoenix à accorder à des personnes résidant habituellement au Canada des licences libres de redevances et destinées à des utilisateurs uniques visant treize didacticiels précisés dans l’accord, en contrepartie de 100 000 $ US.
+140.Les treize didacticiels précisés dans l’accord-cadre de 2008 étaient les suivants : des didacticiels sur Office 2000, 2002 (XP), 2003 et 2007 de Microsoft, des didacticiels sur Windows 98, 2000, XP et Vista de Microsoft, « IC 2005 », « Soft Skills for Education Administrators » (le savoir-être pour les administrateurs de l’enseignement), « A+ 2003 Training », « Lotus Notes 5.0 Training » et « Integrating Technology in the Classroom ».
+141.Contrairement aux accords-cadres des années précédentes, qui permettaient à Phoenix d’accorder des licences perpétuelles, l’accord-cadre de 2008 stipulait que les licences accordées étaient valides pour une période de douze mois à compter de leur délivrance aux utilisateurs finaux.
+142.Contrairement aux accords-cadres des années précédentes, en vertu desquels les licences étaient distribuées sur CD-ROM, l’accord-cadre de 2008 exigeait que les licences accordées par Phoenix et devant être enregistrées auprès d’un organisme de bienfaisance soient enregistrées et administrées par l’intermédiaire d’un nouveau SGA fourni par InfoSource sous une marque distincte.
+143.Par conséquent, les licences accordées en vertu de l’accord-cadre de 2008 devaient être exploitées par Internet via le SGA d’InfoSource.
+144.L’accord-cadre de 2008 ne précisait pas le nombre de licences destinées à des utilisateurs uniques accordées. Il stipulait plutôt que les parties devaient fixer ce nombre d’un commun accord et que, au-delà de ce nombre, des frais additionnels s’appliqueraient selon la formule suivante :
+De 0 à 50 000 utilisateurs finaux
+200 000 $ US
+De 50 001 à 250 000 utilisateurs finaux
+400 000 $ US
+De 250 001 à 500 000 utilisateurs finaux
+750 000 $ US
+De 500 001 utilisateurs finaux à 1 000 000 d’utilisateurs finaux
+900 000 $ US
+145.Phoenix n’a versé aucuns frais additionnels à InfoSource suivant cette formule.
+Changements liés aux organismes de bienfaisance participants
+146.Career Foundation a délivré un petit nombre de reçus pour dons en 2008 en lien avec sa participation au programme GLGI en 2007.
+147.En 2008, Malvern et Glooscap sont devenus des organismes de bienfaisance participant au programme GLGI.
+148.En 2008, Malvern et Glooscap ont reçu des dons en espèces et ont délivré des reçus pour ces dons.
+149.En 2008, Malvern a aussi reçu des dons de biens et a délivré des reçus pour ces dons.
+150.Le 2 avril 2008, le promoteur et Malvern ont conclu un contrat de collecte de fonds en vertu duquel Malvern s’engageait à verser au promoteur des frais de collecte de fonds de base équivalant à 16,62 % (plus la TPS) de la juste valeur marchande brute des dons en espèces et des dons en nature reçus et versés par le promoteur, à condition que ces frais n’excèdent en aucun cas 88 % (plus la TPS) des dons en espèces reçus par l’intermédiaire du promoteur ou du fait de ses efforts.
+151.Le promoteur et Malvern ont conclu un autre contrat le 1er décembre 2008 en vertu duquel le promoteur devait recevoir des frais de collecte de fonds équivalant à 19,5 % (plus la TPS de 5 %) du montant brut des dons reçus par le promoteur.
+152.En vertu du contrat conclu par le promoteur et Malvern le 1er décembre 2008, Malvern avait l’autorisation et était tenu de verser à JDS, à titre irrévocable, 13,7 % de tous les dons en espèces reçus par JDS.
+153.Le 2 avril 2008, le promoteur et Glooscap ont conclu un contrat de collecte de fonds en vertu duquel Glooscap s’engageait à verser au promoteur des frais de collecte de fonds équivalant à 19,5 % (plus la TPS de 5 %) du montant brut des dons reçus par le promoteur.
+154.En vertu du contrat conclu par le promoteur et Glooscap le 2 avril 2008, Glooscap avait l’autorisation et était tenu de verser à JDS, à titre irrévocable :
+a.des frais fixes de 200 000 $ sur les premiers dons de bienfaisance en espèces reçus au cours d’une année civile donnée;
+b.des frais variables équivalant à 7,2 % de la première tranche de 5 000 000 $ et à 13,75 % du reliquat de tous les dons en espèces pour chaque année.
+155.Bien qu’aucune entente expresse à cet égard n’ait été conclue entre Malvern et Glooscap, M. Keslassy, d’IDI, a donné pour instruction à Glooscap d’attribuer et de transférer des fonds à Malvern.
+156.Glooscap s’est retiré du programme GLGI le 5 novembre 2008.
+157.Glooscap s’est retiré du programme GLGI après avoir reçu des conseils de ses avocats concernant les paiements à Malvern.
+Portail en ligne
+158.En 2008, InfoSource a commencé à fournir les didacticiels visés par le programme GLGI via un portail sur le Web (le « portail ») et un SGA, ce qui lui permettait d’autoriser, de gérer et de suivre l’accès à certains didacticiels utilisés par des utilisateurs finaux au sein des organismes de bienfaisance participant au programme GLGI.
+159.Les utilisateurs finaux recevaient un nom d’utilisateur et un mot de passe leur permettant d’accéder au portail.
+160.En 2008, le portail donnait accès à plus de 170 didacticiels.
+161.InfoSource exigeait que tous les organismes de bienfaisance participants concluent un contrat d’accès au portail en vertu duquel ils devaient payer des frais annuels (les « frais d’accès au portail »).
+162.Les organismes de bienfaisance devaient conclure un contrat d’accès au portail pour avoir accès aux didacticiels d’InfoSource via le SGA et utiliser les licences dont les participants au programme GLGI auraient fait don.
+163.Il n’y avait aucun lien entre les licences qui auraient été distribuées aux participants (portant un numéro de série) et les didacticiels accessibles sur le portail.
+164.Les numéros de série des licences qui auraient fait l’objet d’un don à un organisme de bienfaisance n’étaient pas attribués aux particuliers qui accédaient aux didacticiels via le portail.
+165.InfoSource et Career Foundation ont conclu un contrat en vertu duquel Career Foundation pouvait accéder au portail du SGA en contrepartie de 232 000 $ CA. Ce contrat était en vigueur du 3 décembre 2008 au 31 mars 2009.
+Nouveaux accords de licence liés au portail
+166.L’accord-cadre de 2008 a été remplacé par un accord de licence conclu le 19 septembre 2008 (le « deuxième accord-cadre de 2008 »).
+167.En vertu du deuxième accord-cadre de 2008, InfoSource a autorisé Phoenix à accorder à des personnes résidant habituellement au Canada 25 000 licences libres de redevances et destinées à des utilisateurs uniques pour chacun des 69 didacticiels précisés dans l’accord, en contrepartie de 1 $ US.
+168.Les 69 didacticiels précisés dans le deuxième accord-cadre de 2008 comprenaient les suivants : des didacticiels sur Office 2000, 2002 (XP), 2003 et 2007 de Microsoft, des didacticiels sur Windows 98, 2000, XP et Vista de Microsoft, « IC 2005 », « Soft Skills for Education Administrators », « A+ 2003 Training », « Lotus Notes 5.0 Training » et « Integrating Technology in the Classroom ».
+169.Les frais prévus dans le deuxième accord-cadre de 2008 étaient minimes, parce qu’InfoSource avait pris la décision de conclure des contrats d’accès au portail et d’imposer aux organismes de bienfaisance participants des frais d’accès au portail.
+170.Le 8 octobre 2008, Phoenix a fait don à la fiducie de 25 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques visant 171 didacticiels.
+171.Les licences visées par le don du 8 octobre 2008 devaient être distribuées sur CD‑ROM, mais pouvaient, au besoin, être exploitées par Internet, via le SGA d’InfoSource, sous réserve de la disponibilité des didacticiels.
+172.En 2008, la fiducie aurait distribué 665 898 licences visant les didacticiels.
+173.Les 665 898 licences avaient été acquises le 8 octobre 2008.
+Changements apportés en 2009
+174.Malvern a continué de participer au programme GLGI en 2009.
+175.Le 1er février 2009, Malvern et le promoteur ont conclu un contrat de collecte de fonds en vertu duquel Malvern s’engageait à verser au promoteur des frais de collecte de fonds de base équivalant à 13,75 % (TPS comprise) de la juste valeur marchande brute des dons en espèces et des dons en nature reçus et versés par le promoteur, à condition que ces frais n’excèdent en aucun cas 89,5 % des dons en espèces reçus par l’intermédiaire du promoteur ou du fait de ses efforts.
+176.En 2009, ResQ et Judaic sont devenus des organismes de bienfaisance participant au programme GLGI. Ils recevaient des dons en espèces et des dons de biens et délivraient des reçus pour ces dons.
+177.Le 24 août 2009, ResQ et le promoteur ont conclu un contrat de collecte de fonds en vertu duquel ResQ s’engageait à verser au promoteur des frais de collecte de fonds de base équivalant à 13,75 % (TPS comprise) de la juste valeur marchande brute des dons en espèces et des dons en nature reçus et versés par le promoteur, à condition que ces frais n’excèdent en aucun cas 89,5 % des dons en espèces reçus par l’intermédiaire du promoteur ou du fait de ses efforts.
+178.Le 27 août 2009, InfoSource et Malvern ont conclu un contrat d’accès au portail d’une durée d’un an prévoyant des frais d’accès au portail de 300 000 $ US.
+179.À la fin de 2009, Glooscap a renégocié sa participation au programme GLGI. Elle recevait des dons en espèces et des dons de biens et délivrait des reçus pour ces dons.
+180.Le 5 octobre 2009, Glooscap et le promoteur ont conclu un contrat de collecte de fonds en vertu duquel Glooscap s’engageait à verser au promoteur des frais de collecte de fonds de base équivalant à 15 % (TPS comprise) de la juste valeur marchande brute des dons en espèces et des dons en nature reçus et versés par le promoteur, à condition que ces frais n’excèdent en aucun cas 89,5 % des dons en espèces reçus par l’intermédiaire du promoteur ou du fait de ses efforts.
+181.Le 7 octobre 2009, Judaic et le promoteur ont conclu un contrat de collecte de fonds en vertu duquel Judaic s’engageait à verser au promoteur des frais de collecte de fonds de base équivalant à 15 % (TPS comprise) de la juste valeur marchande brute des dons en espèces et des dons en nature reçus et versés par le promoteur, à condition que ces frais n’excèdent en aucun cas 89,5 % des dons en espèces reçus par l’intermédiaire du promoteur ou du fait de ses efforts.
+182.En 2009, la fiducie aurait distribué 2 052 050 licences visant les didacticiels.
+183.Parmi les licences distribuées en 2009, 2 951 licences avaient été acquises le 6 juillet 2007 et 2 049 099 licences avaient été acquises le 8 octobre 2009.
+Changements apportés en 2010
+Organismes de bienfaisance participants en 2010
+184.Malvern et Glooscap ont continué de participer au programme GLGI en 2010.
+185.En 2010, Eskasoni est devenue une donataire reconnue du programme GLGI. Elle recevait des dons en espèces et des dons de biens et délivrait des reçus pour ces dons.
+186.Le 20 octobre 2009, Eskasoni et le promoteur ont conclu un contrat de collecte de fonds en vertu duquel Eskasoni s’engageait à verser au promoteur des frais de collecte de fonds équivalant à 15 % (TPS comprise) de la juste valeur marchande brute des dons en espèces et des dons en nature reçus et versés par le promoteur, à condition que ces frais n’excèdent en aucun cas 89,5 % des dons en espèces reçus par l’intermédiaire du promoteur ou du fait de ses efforts.
+187.Malgré la signature du contrat de collecte de fonds à la fin de 2009, Eskasoni a reporté le début de sa participation au programme GLGI afin d’obtenir un avis juridique.
+188.Malvern, Glooscap et Eskasoni devaient tous conclure un contrat d’accès au portail avec InfoSource.
+189.Le 15 mars 2010, InfoSource et Glooscap ont conclu un contrat d’accès au portail d’une durée d’un an prévoyant des frais d’accès au portail de 300 000 $ US.
+190.Le 27 août 2010, InfoSource et Malvern ont conclu un contrat d’accès au portail d’une durée d’un an prévoyant des frais d’accès au portail de 60 000 $ US.
+191.Même si le promoteur avait garanti qu’il lui rembourserait les frais d’accès au portail, Eskasoni a refusé de signer le contrat d’accès au portail et de payer les frais d’accès au portail de 150 000 $ US qui y étaient prévus.
+192.Le promoteur a convenu de compenser InfoSource :
+a.en majorant de 50 000 $ US les frais d’accès au portail de Glooscap;
+b.en concluant un accord de consultation avec InfoSource et en lui versant 100 000 $ US.
+193.Le 20 décembre 2010, InfoSource et Glooscap ont modifié le contrat d’accès au portail du 15 mars 2010 pour porter les frais d’accès au portail à 350 000 $ US.
+194.InfoSource n’a fourni aucun service de consultation au promoteur en vertu de l’accord visé au point 192.b du présent exposé conjoint des faits.
+195.Le promoteur a remboursé à Malvern et à Glooscap les frais d’accès au portail qu’elles avaient versés à InfoSource.
+Nouveaux accords de licence
+196.En vertu d’un accord de licence conclu le 1er novembre 2010, InfoSource a autorisé Phoenix à accorder à des personnes résidant habituellement au Canada 45 000 licences libres de redevances et destinées à des utilisateurs uniques visant 78 des didacticiels précisés dans l’accord (l’accord-cadre de 2010), en contrepartie de 1 $ US.
+197.L’accord-cadre de 2010 stipulait que Phoenix devait activer toutes les licences visant les didacticiels via le portail d’InfoSource.
+198.Le 1er décembre 2010, Phoenix a fait don à la fiducie de 45 000 licences perpétuelles, libres de redevances et destinées à des utilisateurs uniques visant 78 didacticiels.
+199.En 2010, la fiducie aurait distribué 1 557 491 licences visant les didacticiels.
+200.Parmi les licences distribuées en 2010, 901 553 licences avaient été acquises le 8 octobre 2008 et 655 960 licences avaient été acquises le 1er décembre 2010.
+Changements apportés en 2011
+201.En vertu d’un accord de licence conclu le 31 mars 2011, InfoSource a autorisé Phoenix à accorder 25 000 licences libres de redevances et destinées à des utilisateurs uniques visant un produit appelé « A Learning Community Network » (réseau de la communauté d’apprentissage), parfois appelé le « Aboriginal Learning Community Network » (réseau de la communauté d’apprentissage autochtone) (« ALCN ») (l’accord-cadre de 2011), en contrepartie de 1 $ US.
+202.ALCN était une plateforme communautaire et interactive sur le Web qui donnait accès à 212 didacticiels précisés dans une annexe à l’accord.
+203.Toutes les licences accordées en vertu de l’accord-cadre de 2011 devaient être activées par les utilisateurs finaux via le SGA d’InfoSource, et les organismes de bienfaisance devaient signer un contrat directement avec InfoSource et lui verser les frais requis.
+204.L’accord-cadre de 2011 stipulait que les licences accordées étaient valides pour une période de douze mois à compter de leur délivrance aux utilisateurs finaux.
+205.L’accord-cadre de 2011 stipulait que les licences accordées étaient valides au plus tard jusqu’au 31 décembre 2014.
+206.Le 1er avril 2011, Phoenix a fait don à la fiducie de licences destinées à des utilisateurs uniques visant ALCN (visées par l’accord-cadre de 2011). Elle n’a pas précisé le nombre de licences accordées.
+207.Le don du 1er avril 2011 visait des licences perpétuelles, malgré le fait que les licences accordées à Phoenix en vertu de l’accord-cadre de 2011 avaient une durée limitée.
+208.La valeur de chaque licence visant ALCN était de 4 500 $ US.
+209.Il s’agissait d’une valeur gonflée.
+210.Les licences visant ALCN n’avaient aucune valeur économique sans le SGA.
+Changements liés à l’administration du programme GLGI
+211.En 2011, Escrowagent a été chargée des fonctions jusqu’alors exécutées par IDI et JDS.
+212.Escrowagent a délégué bon nombre de ces fonctions au promoteur, notamment pour ce qui est :
+a.d’assurer la maintenance des bases de données pour le compte de la fiducie et d’Escrowagent;
+b.de transmettre les documents reçus des participants aux organismes de bienfaisance;
+c.de transférer les dons en espèces reçus des participants aux organismes de bienfaisance;
+d.de dater certains documents ou d’en modifier la date;
+e.de faciliter le transfert des licences de la fiducie aux bénéficiaires du capital de la fiducie;
+f.de prendre les dispositions nécessaires pour transmettre les reçus pour dons aux participants.
+213.Lars Kensit, chargé des TI et rattaché à GLGInc., était responsable de produire les documents liés à l’annexe A énonçant les biens qui étaient distribués aux bénéficiaires du capital de la fiducie.
+214.En 2011, le promoteur a donné à M. Kensit la directive de fractionner chaque licence visant ALCN en 30 sous-licences, dont chacune aurait une valeur de 150 $ US.
+215.Un numéro, s’apparentant à un numéro de série, a été attribué à chaque sous-licence visant ALCN.
+216.Au moyen d’un algorithme, M. Kensit a attribué aux bénéficiaires du capital de la fiducie un certain nombre de sous-licences visant ALCN, chacune représentée par un numéro, en fonction de la valeur pécuniaire indiquée dans la demande du participant.
+217.Les sous-licences visant ALCN et les numéros de ces licences n’avaient aucun lien avec l’accord-cadre de 2011.
+218.InfoSource n’a pas autorisé le fractionnement des licences visant ALCN en sous-licences.
+219.Les sous-licences visant ALCN n’avaient aucune valeur économique.
+220.Les sous-licences visant ALCN et les numéros de ces licences n’avaient aucun lien avec les 25 000 mots de passe attribués par la suite par les organismes de bienfaisance participants ayant obtenu l’accès à ALCN.
+Organismes de bienfaisance participants en 2011
+221.Glooscap a continué de participer au programme GLGI en 2011.
+222.En 2011, Trinity est devenu un organisme de bienfaisance participant au programme GLGI. Il recevait des dons en espèces et des dons de biens et délivrait des reçus pour ces dons.
+223.Le 15 mars 2011, Glooscap et InfoSource ont conclu un contrat d’accès au portail prévoyant des frais de 375 000 $ US.
+224.Le promoteur a remboursé à Glooscap les frais d’accès au portail en l’autorisant à retenir 324 439 $ CA de ses frais de collecte de fonds pour 2011.
+225.Le 19 octobre 2011, Trinity et GLGInc. ont conclu un contrat en vertu duquel Trinity s’engageait à verser des frais de collecte de fonds établis en fonction du montant total des dons en espèces et de la juste valeur marchande des licences annuelles visant ALCN qu’il avait reçues dans le cadre du programme GLGI.
+226.Les frais de collecte de fonds ne devaient pas excéder 79,203 % du total des contributions en espèces, plus la TPS/TVH.
+227.Trinity a aussi conclu un contrat d’administration et de maintenance avec InfoSource relativement à l’accès au portail.
+228.Le 21 mars 2012, Trinity et InfoSource ont conclu un contrat d’accès au portail d’une durée d’un an, en vertu duquel un maximum de 30 000 utilisateurs distincts pouvait accéder au portail en ligne d’InfoSource, en contrepartie de 500 000 $ US.
+Flux de trésorerie
+229.Les dons en espèces faits aux organismes de bienfaisance par les participants, les frais de collecte de fonds payés par les organismes de bienfaisance et les sommes en espèces conservées par les organismes de bienfaisance sont énoncés aux annexes A à H du présent exposé conjoint des faits.
+230.Le programme GLGI reposait sur le mouvement circulaire du flux de trésorerie, qui était réglé d’avance et dont le résultat visé était que les organismes de bienfaisance ne bénéficiaient jamais d’un usage inconditionnel des dons en espèces faits par les participants.
+231.En moyenne, plus de 90 % des sommes en espèces finissaient entre les mains du promoteur.
+232.En moyenne, les organismes de bienfaisance conservaient moins de 10 % des dons en espèces faits dans le cadre du programme GLGI.
+Certains initiés n’étaient pas obligés de faire un don en espèces
+233.Chaque année, certaines personnes ne faisaient que des dons de biens, et non des dons en espèces comme l’exigeait le programme.
+234.Il s’agissait entre autres du promoteur, des employés ou des sous-mandataires du promoteur, ou d’autres initiés du programme GLGI que le promoteur voulait avantager en leur permettant de profiter de la distribution des biens de la fiducie sans les obliger à faire un don en espèces.
+235.Toutes ces personnes avaient un lien quelconque avec le programme GLGI et le promoteur leur permettant de participer au programme GLGI sans faire de don en espèces.
+Irrégularités de la fiducie
+Les bénéficiaires de la fiducie n’étaient pas clairement définis
+236.Il était impossible d’identifier les bénéficiaires du capital de la fiducie au moment de la signature de l’acte de constitution de la fiducie.
+237.Les personnes qui avaient rempli les documents transactionnels et qui avaient versé les sommes requises à Escrowagent et à l’un des organismes de bienfaisance approuvés par le promoteur devenaient automatiquement des bénéficiaires du capital de la fiducie.
+238.À aucun moment la fiduciaire ne savait qui faisait partie ou non des bénéficiaires du capital de la fiducie.
+239.L’approbation des demandes des appelants était assurée dans le cadre de leur participation au programme GLGI.
+Les biens de la fiducie n’étaient pas clairement définis
+240.La fiducie n’a jamais été propriétaire des licences visant les didacticiels qui faisaient partie des biens de la fiducie et n’en a jamais eu la possession ou le contrôle.
+241.Les appelants n’ont acquis aucun intérêt en vertu des licences et n’ont jamais été propriétaires des didacticiels dont ils auraient fait don.
+242.Les appelants n’ont pris possession ni des licences ni des didacticiels.
+243.Aucun des didacticiels dont les licences ont été accordées par la fiducie n’a été converti au format CD‑ROM.
+244.Ni les licences ni les didacticiels ne faisaient partie du capital de la fiducie.
+La fiduciaire ne s’est pas acquittée des fonctions qui lui incombaient
+245.Il appartenait à la fiduciaire d’identifier les bénéficiaires du capital de la fiducie.
+246.La fiduciaire n’a pas identifié les bénéficiaires du capital de la fiducie et n’a mené aucun processus de sélection pour déterminer quels demandeurs deviendraient des bénéficiaires du capital de la fiducie.
+247.Les fonctions qui incombaient à la fiduciaire, notamment en ce qui a trait à l’identification des bénéficiaires du capital de la fiducie, ne pouvaient être déléguées à quiconque.
+248.Il était entendu que la fiducie accepterait les demandes des demandeurs pour que ceux-ci puissent participer au programme GLGI.
+La fiducie était illusoire
+249.La fiducie aurait été établie dans le but de recueillir des fonds pour Millennium et CCA, mais en réalité elle servait à recueillir des fonds pour le promoteur et à inciter les contribuables canadiens à investir des sommes modestes en échange de généreux avantages fiscaux.
+La structure du programme GLGI était un trompe-l’œil
+250.Toutes les étapes du programme GLGI étaient prédéterminées.
+251.Une fois qu’un contribuable décidait de participer au programme GLGI, toutes les opérations subséquentes suivaient un ordre prédéterminé.
+252.Bien que les documents transactionnels et le matériel de promotion donnaient l’impression que les participants pouvaient conserver les licences visant les didacticiels au lieu d’en faire don, cette option était si limitée qu’elle n’en était pas vraiment une, parce qu’il fallait avoir un CD-ROM ou une autre façon d’accéder aux didacticiels via le portail en ligne pour pouvoir utiliser les licences.
+253.Les appelants ne pouvaient pas utiliser les didacticiels, car ils n’avaient jamais obtenu l’accès à ceux-ci ni reçu de directives sur la façon d’obtenir cet accès.
+254.Dans les faits, la seule option qui s’offrait aux appelants était de faire don des licences, de la façon prédéterminée par le programme GLGI.
+255.Les organismes de bienfaisance étaient de simples intermédiaires dans l’acheminement des fonds provenant du programme GLGI et servaient à générer les crédits d’impôt pour dons de bienfaisance et à enrichir les participants et le promoteur.
+256.Le programme GLGI et l’ensemble de ses opérations visaient à amener le ministre à accorder aux participants des crédits d’impôt pour dons de bienfaisance supérieurs aux dons réellement effectués.
+257.Aux fins du programme GLGI, le promoteur faisait préparer des rapports d’évaluation dans lesquels la valeur des dons en nature était gonflée.
+258.Entre 2004 et 2011, InfoSource a reçu en tout environ 3 890 000 $ US de Phoenix (2 100 000 $ US), des organismes de bienfaisance (1 690 000 $ US) et de GLGInc. (100 000 $ US).
+259.La participation d’InfoSource au programme GLGI était motivée par le profit et non par la philanthropie.
+Juste valeur marchande des licences
+260.Selon la fiduciaire, la valeur des licences était nulle.
+261.À moins d’être converties au format CD-ROM ou exploitées via le SGA, les licences étaient inutiles.
+262.La juste valeur marchande de chaque licence (ou de chaque sous-licence visant ALCN en 2011) distribuée n’était pas supérieure aux valeurs suivantes :
+2004 0,30 $
+2005 0,32 $
+2006 0,30 $
+2007 0,16 $
+2008 valeur symbolique
+2009 valeur symbolique
+2010 valeur symbolique
+2011 valeur symbolique
+263.Dans l’ensemble, les opérations qui, selon le promoteur, permettaient d’obtenir des reçus pour dons de bienfaisance supérieurs aux dons en espèces effectués étaient un trompe-l’œil (perpétré par le promoteur, les employés ou les sous-mandataires du promoteur et d’autres initiés du programme GLGI contre l’intimé directement et contre les appelants indirectement) ou étaient par ailleurs dénuées de tout effet juridique, de telle sorte que les dons en nature n’avaient aucune valeur.
+27 octobre
+SIGNÉ à Winnipeg, au Manitoba, le 2022.
+Jeff Pniowsky, avocat des appelants
+28 octobre
+SIGNÉ à Winnipeg, au Manitoba, le 2022.
+David Silver, avocat de l’intimé
+Annexe A
+Sommes en espèces conservées par les organismes de bienfaisance et le promoteur – 2004
+Participants
+Organismes de bienfaisance
+Millenium
+Canadian Charity Association (ICAN)
+Total reçu par les organismes de bienfaisance
+% des espèces
+Dons provenant des participants
+-9 604 034 $
+9 604 034 $
+9 604 034 $
+Transferts de Millenium à ICAN
+-7 489 146 $
+7 489 146 $
+$
+-9 604 034 $
+2 114 888 $
+7 489 146 $
+9 604 034 $
+A
+100 %
+Frais de collecte de fonds
+$
+versés à GLGI
+-833 137 $
+-6 775 016 $
+-7 608 153 $
+B
+-79 %
+versés à IDI
+-1 273 372 $
+-1 273 372 $
+C
+-13 %
+Total des frais de collecte de fonds
+-2 106 509 $
+-6 775 016 $
+-8 881 525 $
+D
+-92 %
+Sommes conservées par les organismes de bienfaisance
+8 379 $
+714 130 $
+722 509 $
+E
+8 %
+Répartition des frais de collecte de fonds
+GLGI
+IDI Strategies Inc.
+Total
+% des espèces
+Total des dons en espèces (case A)
+9 604 034 $
+100 %
+Frais de collecte de fonds versés par les organismes de bienfaisance participants (cases B et C)
+7 608 153 $
+1 273 372 $
+8 881 525 $
+92 %
+Transferts à IDI
+-797 692 $
+797 692 $
+Sommes nettes reçues par GLGI et IDI
+6 810 461 $
+2 071 064 $
+8 881 525 $
+$
+Annexe B
+Sommes en espèces conservées par les organismes de bienfaisance et le promoteur – 2005
+Participants
+Organismes de bienfaisance
+Millenium
+Canadian Charity Association (ICAN)
+Total reçu par les organismes de bienfaisance
+% des espèces
+Dons provenant des participants
+-50 665 208 $
+50 665 208 $
+50 665 208 $
+Transferts de Millenium à ICAN
+-39 168 846 $
+39 168 846 $
+$
+-50 665 208 $
+11 496 362 $
+39 168 846 $
+50 665 208 $
+A
+100 %
+Frais de collecte de fonds
+$
+versés à GLGI
+-2 385 700 $
+-35 425 418 $
+-37 811 118 $
+B
+-75 %
+versés à IDI
+-8 210 885 $
+-8 210 885 $
+C
+-16 %
+Total des frais de collecte de fonds
+-10 596 585 $
+-35 425 418 $
+-46 022 003 $
+D
+-91 %
+Sommes conservées par les organismes de bienfaisance
+899 777 $
+3 743 428 $
+4 643 205 $
+E
+9 %
+Répartition des frais de collecte de fonds
+GLGI
+IDI Strategies Inc.
+Total
+% des espèces
+Total des dons en espèces (case A)
+50 665 208 $
+100 %
+Frais de collecte de fonds versés par les organismes de bienfaisance participants (cases B et C)
+37 811 118 $
+8 210 885 $
+46 022 003 $
+92 %
+Transferts à IDI
+$
+$
+$
+Sommes nettes reçues par GLGI et IDI
+37 811 118 $
+8 210 885 $
+46 022 003 $
+Annexe C
+Sommes en espèces conservées par les organismes de bienfaisance et le promoteur – 2006
+Participants
+Organismes de bienfaisance
+Millenium
+Canadian Charity Association (ICAN)
+Total reçu par les organismes de bienfaisance
+% des espèces
+Dons provenant des participants
+-88 807 306 $
+88 807 306 $
+88 807 306 $
+Transferts de Millenium à ICAN
+-70 053 429 $
+70 053 429 $
+$
+-88 807 306 $
+18 753 877 $
+70 053 429 $
+88 807 306 $
+100 %
+Frais de collecte de fonds
+$
+versés à GLGI
+-18 894 844 $
+-61 625 536 $
+-80 520 380 $
+-91 %
+versés à IDI
+$
+0 %
+Total des frais de collecte de fonds
+-18 894 844 $
+-61 625 536 $
+-80 520 380 $
+-91 %
+Sommes conservées par les organismes de bienfaisance
+-140 967 $
+8 427 893 $
+8 286 926 $
+9 %
+Répartition des frais de collecte de fonds
+GLGI
+IDI Strategies Inc.
+Total
+% des espèces
+Total des dons en espèces (case A)
+88 807 306 $
+100 %
+Frais de collecte de fonds versés par les organismes de bienfaisance participants (case B)
+80 520 380 $
+80 520 380 $
+91 %
+Transferts à IDI
+-12 811 176 $
+12 811 176 $
+$
+Sommes nettes reçues par GLGI et IDI
+67 709 204 $
+12 811 176 $
+80 520 380 $
+Annexe D
+Sommes en espèces conservées par les organismes de bienfaisance et le promoteur – 2007
+Participants
+Organismes de bienfaisance
+Millenium
+Canadian Charity Association (ICAN)
+York Region Education Industry Foundation
+Total reçu par les organismes de bienfaisance
+% des espèces
+Dons provenant des participants
+-56 038 363 $
+56 038 363 $
+56 038 363 $
+Transferts de Millenium
+-44 909 961 $
+33 949 577 $
+10 960 384 $
+$
+-56 038 363 $
+11 128 402 $
+33 949 577 $
+10 960 384 $
+56 038 363 $
+100 %
+Frais de collecte de fonds
+versés à GLGI
+-10 390 890 $
+-29 843 955 $
+-9 645 138 $
+-49 879 983 $
+-89 %
+versés à IDI
+$
+0 %
+Total des frais de collecte de fonds
+-10 390 890 $
+-29 843 955 $
+-9 645 138 $
+-49 879 983 $
+-89 %
+Sommes conservées par les organismes de bienfaisance
+737 512 $
+4 105 622 $
+1 315 246 $
+6 158 380 $
+11 %
+Répartition des frais de collecte de fonds
+GLGI
+IDI Strategies Inc.
+Total
+% des espèces
+Total des dons en espèces (case A)
+56 038 363 $
+100 %
+Frais de collecte de fonds versés par les organismes de bienfaisance participants (case B)
+49 879 983 $
+49 879 983 $
+89 %
+Transferts à IDI
+-7 668 658 $
+7 668 658 $
+$
+Sommes nettes reçues par GLGI et IDI
+42 211 325 $
+7 668 658 $
+49 879 983 $
+$
+Annexe E
+Sommes en espèces conservées par les organismes de bienfaisance et le promoteur – 2008
+Participants
+Organismes de bienfaisance
+Glooscap
+Malvern
+Total reçu par les organismes de bienfaisance
+% des espèces
+Dons provenant des participants
+-19 192 850 $
+11 590 374 $
+7 602 476 $
+19 192 850 $
+Transferts de Glooscap
+-8 761 716 $
+8 761 716 $
+$
+-19 192 850 $
+2 828 658 $
+16 364 192 $
+19 192 850 $
+A
+100 %
+Frais de collecte de fonds
+versés à GLGI
+-2 130 623 $
+-14 786 485 $
+-16 917 108 $
+B
+-88 %
+Total des frais de collecte de fonds
+-2 130 623 $
+-14 786 485 $
+-16 917 108 $
+C
+-88 %
+Sommes conservées par les organismes de bienfaisance
+698 035 $
+1 577 707 $
+2 275 742 $
+D
+12 %
+Répartition des frais de collecte de fonds
+GLGI
+IDI Strategies Inc.
+Total
+% des espèces
+Total des dons en espèces (case A)
+19 192 850 $
+100 %
+Frais de collecte de fonds versés par les organismes de bienfaisance participants (case B)
+16 917 108 $
+16 917 108 $
+-88 %
+Transferts à IDI
+-2 665 239 $
+2 665 239 $
+$
+Sommes nettes reçues par GLGI et IDI
+14 251 869 $
+2 665 239 $
+16 917 108 $
+Annexe F
+Sommes en espèces conservées par les organismes de bienfaisance et le promoteur – 2009
+Participants
+Organismes de bienfaisance
+Glooscap
+Malvern
+Judaic
+ResQ
+Total reçu par les organismes de bienfaisance
+% des espèces
+Dons provenant des participants
+-16 800 838 $
+1 842 457 $
+14 431 501 $
+139 700 $
+387 180
+16 800 838 $
+A
+100 %
+Frais de collecte de fonds
+versés à GLGI
+-1 628 011 $
+-11 686 778 $
+-118 814 $
+-320 365 $
+-13 753 968 $
+B
+-82 %
+Total des frais de collecte de fonds
+-1 628 011 $
+-11 686 778 $
+-118 814 $
+-320 365 $
+-13 753 968 $
+C
+-82 %
+Sommes conservées par les organismes de bienfaisance
+214 446 $
+2 744 723 $
+20 886 $
+66 815 $
+3 046 870 $
+D
+18 %
+Répartition des frais de collecte de fonds
+GLGI
+IDI Strategies Inc.
+Total
+% des espèces
+Total des dons en espèces (case A)
+16 800 838 $
+100 %
+Frais de collecte de fonds versés par les organismes de bienfaisance (case B)
+13 753 968 $
+13 753 968 $
+82 %
+Transferts à IDI
+-1 691 597 $
+1 691 597 $
+$
+Sommes nettes reçues par GLGI et IDI
+12 062 371 $
+1 691 597 $
+13 753 968 $
+$
+Annexe G
+Sommes en espèces conservées par les organismes de bienfaisance et le promoteur – 2010
+Participants
+Organismes de bienfaisance
+Glooscap
+Malvern
+Eskasoni
+Total reçu par les organismes de bienfaisance
+% des espèces
+Dons provenant des participants
+-14 871 806 $
+5 843 911 $
+97 500 $
+8 930 395 $
+14 871 806 $
+A
+100 %
+Frais de collecte de fonds
+versés à GLGI
+-5 192 265 $
+-87 262 $
+-7 852 147 $
+-13 131 674 $
+B
+-88 %
+Total des frais de collecte de fonds
+-5 192 265 $
+-87 262 $
+-7 852 147 $
+-13 131 674 $
+C
+-88 %
+Sommes conservées par les organismes de bienfaisance
+651 646 $
+10 238 $
+1 078 248
+1 740 132 $
+D
+12 %
+Répartition des frais de collecte de fonds
+GLGI
+IDI Strategies Inc.
+Total
+% des espèces
+Total des dons en espèces (case A)
+14 871 806 $
+100 %
+Frais de collecte de fonds versés par les organismes de bienfaisance participants (case B)
+13 131 674 $
+13 131 674 $
+88 %
+Transferts à IDI
+-2 073 266 $
+2 073 266 $
+$
+Sommes nettes reçues par GLGI et IDI
+11 058 408 $
+2 073 266 $
+13 131 674 $
+Annexe H
+Sommes en espèces conservées par les organismes de bienfaisance et le promoteur – 2011
+Participants
+Organismes de bienfaisance
+Glooscap
+Trinity Global Support Foundation
+Total reçu par les organismes de bienfaisance
+% des espèces
+Dons provenant des participants
+-16 577 703 $
+8 291 512 $
+8 286 191 $
+16 577 703 $
+A
+100 %
+Frais de collecte de fonds
+versés à GLGI
+-7 420 893 $
+-7 430 177 $
+-14 851 070 $
+B
+-90 %
+Total des frais de collecte de fonds
+-7 420 893 $
+-7 430 177 $
+-14 851 070 $
+C
+-90 %
+$
+Sommes conservées par les organismes de bienfaisance
+870 619 $
+856 014 $
+1 726 633 $
+D
+10 %
+Répartition des frais de collecte de fonds
+GLGI
+IDI Strategies Inc.
+Total
+% des espèces
+Total des dons en espèces (case A)
+16 577 703 $
+100 %
+Frais de collecte de fonds versés par les organismes de bienfaisance participants (case B)
+14 851 070 $
+14 851 070 $
+Transferts à IDI
+-872 194 $
+872 194 $
+Sommes nettes reçues par GLGI et IDI
+13 978 876 $
+872 194 $
+14 851 070 $
+RÉFÉRENCE :
+2023 CCI 164
+NO DU DOSSIER DE LA COUR :
+2021-1574(IT)G
+2021-1544(IT)G
+INTITULÉ :
+JOEL DE LAS ALAS c. SA MAJESTÉ LE ROI
+CHRIS WALBY c. SA MAJESTÉ LE ROI
+MOTIFS DU JUGEMENT MODIFIÉS :
+L’honorable juge Ronald MacPhee
+DATE DES MOTIFS DU JUGEMENT MODIFIÉS :
+Le 13 décembre 2023
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Jeff Pniowsky
+Me Matthew Dalloo
+Avocats de l’intimé :
+Me David Silver
+Me Allanah Smith
+Me Erin Wolfe
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Jeff Pniowsky
+Me Matthew Dalloo
+Cabinet :
+Thompson Dorfman Sweatman LLP
+Winnipeg (Manitoba)
+Pour l’intimé :
+Me Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Mariano c. La Reine, 2015 CCI 244 [Mariano].
+[2] Exposé conjoint partiel des faits, par. 64, 65, 82, 83, 161, 231, 232, 255 et 256.
+[3] Mariano, précitée, note 1, par. 36 à 38.
+[4] Maréchaux c. La Reine, 2009 CCI 587 [Maréchaux].
+[5] Herring c. La Reine, 2022 CCI 41, par. 124 et 125 [Herring].
+[6] Mariano, précitée, note 1, par. 48.
+[7] Ibid., par. 41.
+[8] Ibid., par. 41.
+[9] Mariano, précitée, note 1, par. 45.
+[10] Canada c. Berg, 2014 CAF 25 [Berg].
+[11] Berg, par. 28.
+[12] Ibid., par. 29.
+[13] Herring, précitée, note 5, par. 234.
+[14] Crane c. Le Roi, 2022 CCI 115, par. 39 [Crane].
+[15] Herring, précitée, note 5, par. 117, renvoyant à Mariano, précitée, note 1, par. 18.
+[16] Symes c. Canada, [1993] 4 R.C.S. 695, par. 74.
+[17] Herring, précitée, note 5, par. 117.
+[18] Van Der Steen c. La Reine, 2019 CCI 23, par. 55 [Van Der Steen].
+[19] Herring, précitée, note 5, par. 229.
+[20] Ibid., par. 233.
+[21] Herring, précitée, note 5, par. 234.
+[22] Cassan c. La Reine, 2017 CCI 174, par. 332.
+[23] Ibid., par. 316 et 317; Maréchaux, précitée, note 4, par. 9; Markou c. La Reine, 2018 CCI 66, conf. par 2019 CAF 299, par. 77.
+[24] Maréchaux, précitée, note 4, par. 11.
+[25] Crane, précitée, note 14, par. 30.
+[26] Ibid., par. 30.
+[27] Canada c. Castro, 2015 CAF 225, par. 42.
+[28] Jensen c. La Reine, 2018 CCI 60, par. 48.
+[29] Markou c. Canada, 2019 CAF 299, par. 60.
+[30] Crane, précitée, note 14, par. 24, 25, 30, 44; Berg, précité, note 10, par. 28 et 29.
+[31] Berg, précité, note 10, par. 28.

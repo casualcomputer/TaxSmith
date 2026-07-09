@@ -1,0 +1,632 @@
+---
+title: "Aquilini Estate v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/417187/index.do"
+last_modified: "2019-06-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 132"
+citation2: ""
+neutral_citation: "2019 TCC 132"
+decision_date: "2019-06-12"
+language: "en"
+item_id: "417187"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4374
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:10:13.957000+00:00"
+cases_cited_count: 13
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6baea200d3213804dfbdc41230e61feffefe82b19590b28affed14a84d98a672"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aquilini Estate v. The Queen
+
+- Citation: 2019 TCC 132
+- Decision date: 2019-06-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4374, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aquilini Estate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-06-12
+Neutral citation
+2019 TCC 132
+File numbers
+2015-129(IT)G
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-129(IT)G
+BETWEEN:
+ESTATE OF ELISA AQUILINI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Francesco Aquilini (2015-131(IT)G), Paolo Aquilini (2015-132(IT)G), Roberto Aquilini (2015-133(IT)G) and Atrium Investment Trust (2015-134(IT)G) on December 3, 4, 5, 6, 7, 10 and 11, 2018 and May 6, 7 and 8, 2019 at Vancouver, British Columbia
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+Thomas M. Boddez
+Robert Carvalho Florence Sauve
+Counsel for the Respondent:
+Jasmine Sidhu
+Perry Derksen Kiel Walker Peter Campbell
+JUDGMENT
+The appeal for the 2007 taxation year is dismissed. For the purpose of determining the Appellants’ losses from the AIGLP Partnership, the Minister is directed to allocate losses amongst the Appellants based on their initial capital contributions, but shall not disallow the portion of such losses utilized in 2003 since that year is not under appeal. To the extent any unused losses based on the aforesaid proper determination still then exist, the Appellants may apply their share as herein established to the 2007 year. Costs shall be awarded to the Respondent, provided that if any of the parties disagree with this cost award, they shall have 30 days from the date of this decision to submit their submissions on costs, failing which they shall be deemed to accept ordinary costs as the basis for the cost award.
+Signed at Ottawa, Canada, this 12th day of June 2019.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Docket: 2015-131(IT)G
+BETWEEN:
+FRANCESCO AQUILINI
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Estate of Elisa Aquilini (2015-129(IT)G), Paolo Aquilini (2015‑132(IT)G), Roberto Aquilini (2015-133(IT)G) and Atrium Investment Trust (2015-134(IT)G) on December 3, 4, 5, 6, 7, 10 and 11, 2018 and May 6, 7 and 8, 2019 at Vancouver, British Columbia
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+Thomas M. Boddez
+Robert Carvalho Florence Sauve
+Counsel for the Respondent:
+Jasmine Sidhu
+Perry Derksen Kiel Walker Peter Campbell
+JUDGMENT
+The appeal for the 2007 taxation year is dismissed. For the purpose of determining the Appellants’ losses from the AIGLP Partnership, the Minister is directed to allocate losses amongst the Appellants based on their initial capital contributions, but shall not disallow the portion of such losses utilized in 2003 since that year is not under appeal. To the extent any unused losses based on the aforesaid proper determination still then exist, the Appellants may apply their share as herein established to the 2007 year. Costs shall be awarded to the Respondent, provided that if any of the parties disagree with this cost award, they shall have 30 days from the date of this decision to submit their submissions on costs, failing which they shall be deemed to accept ordinary costs as the basis for the cost award.
+Signed at Ottawa, Canada, this 12th day of June 2019.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Docket: 2015-132(IT)G
+BETWEEN:
+PAOLO AQUILINI
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Estate of Elisa Aquilini (2015-129(IT)G), Francesco Aquilini (2015‑131(IT)G), Roberto Aquilini (2015-133(IT)G) and Atrium Investment Trust (2015-134(IT)G) on December 3, 4, 5, 6, 7, 10 and 11, 2018 and May 6, 7 and 8, 2019 at Vancouver, British Columbia
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+Thomas M. Boddez
+Robert Carvalho Florence Sauve
+Counsel for the Respondent:
+Jasmine Sidhu
+Perry Derksen Kiel Walker Peter Campbell
+JUDGMENT
+The appeal for the 2007 taxation year is dismissed. For the purpose of determining the Appellants’ losses from the AIGLP Partnership, the Minister is directed to allocate losses amongst the Appellants based on their initial capital contributions, but shall not disallow the portion of such losses utilized in 2003 since that year is not under appeal. To the extent any unused losses based on the aforesaid proper determination still then exist, the Appellants may apply their share as herein established to the 2007 year. Costs shall be awarded to the Respondent, provided that if any of the parties disagree with this cost award, they shall have 30 days from the date of this decision to submit their submissions on costs, failing which they shall be deemed to accept ordinary costs as the basis for the cost award.
+Signed at Ottawa, Canada, this 12th day of June 2019.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Docket: 2015-133(IT)G
+BETWEEN:
+ROBERTO AQUILINI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Estate of Elisa Aquilini (2015-129(IT)G), Francesco Aquilini (2015‑131(IT)G), Paolo Aquilini (2015-132(IT)G) and Atrium Investment Trust (2015-134(IT)G) on December 3, 4, 5, 6, 7, 10 and 11, 2018 and May 6, 7 and 8, 2019 at Vancouver, British Columbia
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+Thomas M. Boddez
+Robert Carvalho Florence Sauve
+Counsel for the Respondent:
+Jasmine Sidhu
+Perry Derksen Kiel Walker Peter Campbell
+JUDGMENT
+The appeal for the 2007 taxation year is dismissed. For the purpose of determining the Appellants’ losses from the AIGLP Partnership, the Minister is directed to allocate losses amongst the Appellants based on their initial capital contributions, but shall not disallow the portion of such losses utilized in 2003 since that year is not under appeal. To the extent any unused losses based on the aforesaid proper determination still then exist, the Appellants may apply their share as herein established to the 2007 year. Costs shall be awarded to the Respondent, provided that if any of the parties disagree with this cost award, they shall have 30 days from the date of this decision to submit their submissions on costs, failing which they shall be deemed to accept ordinary costs as the basis for the cost award.
+Signed at Ottawa, Canada, this 12th day of June 2019.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Docket: 2015-134(IT)G
+BETWEEN:
+ATRIUM INVESTMENT TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of
+Estate of Elisa Aquilini (2015-129(IT)G), Francesco Aquilini (2015‑131(IT)G), Paolo Aquilini (2015-132(IT)G) and Roberto Aquilini (2015-133(IT)G) on December 3, 4, 5, 6, 7, 10 and 11, 2018 and May 6, 7 and 8, 2019 at Vancouver, British Columbia
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+Thomas M. Boddez
+Robert Carvalho Florence Sauve
+Counsel for the Respondent:
+Jasmine Sidhu
+Perry Derksen Kiel Walker Peter Campbell
+JUDGMENT
+The appeal for the 2007 taxation year is dismissed. For the purpose of determining the Appellants’ losses from the AIGLP Partnership, the Minister is directed to allocate losses amongst the Appellants based on their initial capital contributions, but shall not disallow the portion of such losses utilized in 2003 since that year is not under appeal. To the extent any unused losses based on the aforesaid proper determination still then exist, the Appellants may apply their share as herein established to the 2007 year. Costs shall be awarded to the Respondent, provided that if any of the parties disagree with this cost award, they shall have 30 days from the date of this decision to submit their submissions on costs, failing which they shall be deemed to accept ordinary costs as the basis for the cost award.
+Signed at Ottawa, Canada, this 12th day of June 2019.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2019 TCC 132
+Date: 20190612
+Dockets: 2015-129(IT)G
+BETWEEN:
+ESTATE OF ELISA AQUILINI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2015-131(IT)G
+AND BETWEEN:
+FRANCESCO AQUILINI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2015-132(IT)G
+AND BETWEEN:
+PAOLO AQUILINI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2015-133(IT)G
+AND BETWEEN:
+ROBERTO AQUILINI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2015-134(IT)G
+AND BETWEEN:
+ATRIUM INVESTMENT TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Pizzitelli J.
+1. These matters were heard at the same time and on common evidence.
+2. The Appellants are appealing the reassessments by the Minister that increased their share of partnership income in 2007 from The Aquilini Investment Group Limited Partnership (“AIGLP”) and, in the case of the Appellants, Roberto Aquilini (“Roberto”), Francesco Aquilini (“Francesco”) and Paolo Aquilini (“Paolo”) decreased their share of partnership losses from The Geri Limited Partnership (“GERI”) pursuant to subsection 103(1.1) of the Income Tax Act or in the alternative pursuant to subsection 103(1) with respect to AIGLP Partnership income only, provisions that allow the Minister to reallocate partnership income or losses amongst related parties and non-related respectively, on a reasonable basis in accordance therewith. Essentially, the Minister took the position that the allocation of Net Income and Net Losses in both the AIGLP and GERI Partnerships was not reasonable in the circumstances and reassessed on the basis of allocating same based on the initial capital contributions of all the partners therein to the said partnerships; all of which will be discussed in more detail later.
+3. Most of the facts are not in dispute between the parties and the parties filed a Partial Agreed Statement of Facts (“PASF”), a copy of which is attached as Schedule I hereto for ease of reference.
+4. While the PASF sets out the context of this appeal in some detail, I will provide a brief summary of the underlying historical and factual context adduced from such agreed facts and the evidence from the trial that is necessary to understand the reassessments and issues raised thereunder.
+5. Luigi Aquilini and his wife Elisa, who regrettably passed away in 2015, arrived in Canada during the mid-1950’s and founded what is no doubt now one of Canada’s most iconic business families having operations in Canada and internationally. Luigi’s business philosophy was to acquire undervalued real estate properties on a buy and hold basis, renovating or building on them and earning rental income or sales from development as well as farming; selling income earning properties only if such were a means to finance a better business opportunity.
+6. Luigi and Elisa had three children, Francesco, Roberto and Paolo, all of whom were born in Canada and all of whom were deeply involved in the business from a young age, even working in the family business while attending university; such that Roberto took 6 years to complete a Bachelor of Commerce degree as a result of his large involvement in the family business. The evidence is that Francesco was involved in “hunting” or acquiring the investments and development of them to income earning status, Roberto was the office manager and financial administrator and Paolo was a designer and developer/builder; such that their skills and roles complemented each other for the benefit of the business while they all oversaw the management of the businesses following Luigi’s illness.
+7. In 1989 Luigi was diagnosed with cancer with ongoing recurrences; leading to a multitude of medical procedures and treatments over the next several years and being told he would not live. His medical condition required the remaining family members to take a greater role in the business and the uncertainty of whether he would survive led to actions being taken to divest himself of his interests in the business in favour of his wife and children and to avoid taking on new interests, both to minimize taxes from deemed dispositions of his capital properties on death and to start planning for leaving a legacy for the benefit of his family and their descendants. It should be noted that Elisa and the three sons did indeed have some direct interests in the family business before Luigi became ill, owning shares in 1984 of Golden Eagle Ranch Inc., a corporation that owned farm lands and that amalgamated into Golden Coin Inc. The three sons also acquired their one third interest in the WEV Partnership around 1994, which owned the very substantial West Edmonton Village rental properties. By 2001 however, all the interests in the family business entities were owned, directly or indirectly, by Elisa and/or her three sons which I will sometimes refer to as the “brothers” herein.
+8. After experiencing claims against the family business assets by an ex-spouse as a result of one of the son’s divorces in 1989, Luigi testified he became concerned with creditor proofing the family business assets from personal creditors, including ex-spouses, and settled 4 family trusts on May 1995, about 5 years later, described as EAFT, FAFT, RAFT and PAFT in the PASF, one for each of his wife and sons, under which the respective wife or son was the trustee and protector and under which they individually and their individual descendants were the beneficiaries. Spouses were not included as beneficiaries in the family trusts.
+9. Although having only a partial elementary school education and not being able to read English, Luigi testified he understood that property held in the trusts was not the personal property of the sons and hence would be creditor proofed from the personal creditors of the sons, including their spouses. He testified that he left the structural decisions to his son, Roberto and advisors.
+10. After the establishment of the family trusts, most but not all of the new acquisitions of property were made by partnerships in which the 4 family trusts had equal 25% interests; namely the H&A Partnership, the Atlantic Partnership and the Saint-Laurent Partnership. The St. Jacques Partnership was formed to acquire property in Montreal in 1999 but its partners were Francesco, Roberto and Paolo in equal shares. The only explanation given as to why this partnership was not owned by the family trusts having regard to the creditor proofing goals earlier enunciated was that there were other partners initially. There were also two other partnerships established before the trusts were settled, namely the WEV Partnership that owned the West Edmonton Village and the Garden Partnership, that too were owned by the sons in equal shares, as well as a trust known as the Atrium Investment Trust settled in 1994 (the “Old Atrium Investment Trust”) for the benefit of a corporation incorporated in Gibraltar that owned the original homes and business headquarters property of the family then used as rental properties.
+11. A snap shot of the entities that owned the family business prior to a 2001 reorganization - then consisting chiefly of rental income properties including hotels, development properties and farming and golf course properties and assets, would show that 5 corporations, 6 partnerships (above described) and a trust, the Old Atrium Investment Trust, owned these assets. There is no disagreement that the benefit of these entities at the time would legally flow to the respective shareholders, partners and beneficiaries thereof. It should be noted that the partnership agreements for each of the 6 partnerships above, owned in equal shares by either the 3 sons or the 4 family trusts, provided that residual net income and losses would be allocated in accordance with the said partnership interests; an allocation method not unlike that utilized by the Minister in these reassessments.
+12. Each of Luigi and Roberto testified that the then structure was complex, confusing and inefficient, either making it difficult to obtain bank financing for the acquisition of properties due to the myriad of structures and financial statements or not maximizing the loans obtainable on property equity and was tax inefficient in that it locked losses into corporations that could not be used by other group entities. They also testified that some of the entities, such as the corporations and a few partnerships, were still owned by Elisa and/or the three sons rather than the family trusts and thus Luigi’s goals of creditor proofing their personal assets against personal creditors and ex-spouses and passing on growth to the trusts so as to build the legacy mentioned was still not reached in full. Roberto also testified that the existing structure, still effectively controlled by a father who had no legal interest but to whom the sons deferred, made it difficult to know what his ownership interest effectively was and so there was desire to consolidate their ownership share. Accordingly, the Appellants’ testimony is that in order to meet or better meet the aforesaid business, tax, creditor proofing and personal objectives, a major reorganization of the family business occurred in late December, 2001 and early January of 2002 the result of which was to bring the family business assets from the earlier mentioned entities under one umbrella known as AIGLP (earlier defined in the PASF). The Respondent disagrees that the goals of the reorganization were those stated by the Appellants and places the primary focus of the reorganization on tax purposes, to divert the future income and growth to the trusts and avoid taxes individually or due to the deemed disposition on death that would occur pursuant to subsection 70(5) of the Act.
+13. AIGLP was established on December 27, 2001 by a Limited Partnership Agreement made between 638769 B.C. Ltd (“638769”) as the Initial General Partner and the 4 family trusts, EAFT, FAFT, RAFT and PAFT as Initial Limited Partners. The said partnership agreement initially provided for 5 classes of partnership units all of which had a subscription, redemption and retraction price of $10 per unit. Classes A, B, C & D were General Partnership Units while Class E was the only Limited Partnership class of units. The Class A units had voting rights attached to them of ten million votes per Class A unit, while all other Classes had one vote per unit. Accordingly, when 638769 subscribed for 10 Class A units on December 27, 2001 for a total of $100, it effectively gained unchallengeable control of the partnership where majority vote governed day to day operations. 638769 was owned by The Aquilini Family Trust, established around the same time, of which the 4 family trusts above mentioned were the beneficiaries and the directors were generally the family members.
+14. The 4 family trusts each initially subscribed for 1 Class E unit on December 27, 2001 at $10 per unit for a total capital contribution of $40, although a few days later, on December 29, 2001 the Class E units held by EAFT, FAFT and PAFT were redeemed so that only RAFT remained a limited partner. The redemption was explained as a convenience move since Roberto, as trustee of RAFT, was a party always in the office and could more conveniently sign documents on behalf of the limited partnership. Roberto was also initially the only director of 638769 as well.
+15. It should be noted that before being amended a few days later, the initial allocation mechanism for the allocation of Net Income and Net Loss, found in sections 11.01 and 11.02 respectively of the said Agreement, effectively provided that, after nominal allocation of one hundredth of one percent to a maximum of $100 of net income or loss to each of the Class A and Class E unit holders, pro rata, the residual net income would be allocated to the holders of the Class B, C and D unit holder pro rata, while the residual Net Losses would be allocated only to the Class C unit holders. Similarly, on any dissolution of the partnership, section 16.07 provides that after return of the nominal partnership capital of the Class A and Class E unit holders, the remaining assets would be distributed to the holders of the remaining Unit Classes, pro rata, based on the Capital Account balances of each of the Units.
+16. Roberto testified that the aforesaid initial provisions of the partnership agreement dealing with Allocation of Net Income and Losses and Distribution on Dissolution did not reflect the agreement of the family members and specifically did not comply with the goals, initially established by Luigi, to creditor proof and build a legacy for the benefit of the sons and their descendants, by passing growth to the 4 family trusts, and so they executed a first Amendment to the Agreement dated December 29, 2001 amending those sections to provide for new allocations that the Minister reassessed as unreasonable.
+17. It is not clear to me from the evidence as to whether the family members had come to an agreement on the amendments stated to be “effective” as of December 29, 2001 by such date and the evidence is that the amendment was either signed on that date or afterwards, but there is no dispute between the parties that the amendments were agreed to and relied upon, so nothing herein turns on that issue.
+18. It should also be noted, that the first amendment of December 29, 2001, while changing the Allocation of Net Income in section 11.01 substantially, did not effectively change the allocation of Net Losses since Net Losses would still be allocated to Class C unit holders. The only change was to add the words “or as otherwise determined by the partnership in writing” effectively giving the Appellants further flexibility in the allocation of losses. The explanation of the Appellants for the difference in treatment between Net Income and Net Losses was that it was Luigi’s wish that Elisa’s interest not be devalued; that she not take the risk of any losses which should be allocated only to the boys who, as the active members, managed the business, while she, due to her advanced age had limited her participation in the business to about half a day a week. It becomes clear then, that the difference in treatment because of such stated goals, was to be effected by the issuance of a different class of units to Elisa and the sons, which is in fact what occurred.
+19. The first December 29, 2001 amendment also created 1 million Class F and 1 million Class G units for issuance at $10 per unit, consistent with the subscription for all other classes of units. In addition, pursuant to paragraph 3 of such Amending Agreement, section 11.01 Allocation of Net Income was replaced in its entirety with the following:
+11.01 Allocation of Net Income. Net Income for any Fiscal Period will be allocated and credited among the Partners as at the end of the period as follows or as otherwise determined by the Partnership in writing:
+(a) firstly, the greater of 0.01% of the Net Income and $100 shall be allocated and credited to the Holders of the Class A Units and Holders of the Class E units, pro rata based on the number of Class A Units and Class E Units held by them;
+(b) secondly, 40% of the residual Net Income, to a maximum of $200,000 shall be allocated and credited to the Holders of Class B units pro rata based on the number of Class B Units held by them and 60% of the residual Net Income, to a maximum of $300,000 shall be allocated and credited to the Holders of the Class C Units, pro rata based on the number of Class C Units held by them;
+(c) thirdly, 30% of residual Net Income, to a maximum of $150,000, shall be allocated and credited to Holders of Class B Units pro rata based on the number of Class B Units held by them and 70% of the residual Net Income, to a maximum of $350,000 shall be allocated and credited to the Holders of the Class D Units, pro rata based on the number of Class D Units held by them;
+(d) fourthly, residual Net Income shall be allocated and credited to the Holders of the Class F Units pro rata based on the number of Class F Units held by them to a maximum of 7% of the aggregate balance in the Class F Units Capital Accounts;
+(e) fifthly, residual Net Income shall be allocated and credited to the Holders of the Class G Units pro rata based on the number of Class G Units held by them; and
+(f) sixthly, residual Net Income shall be allocated and credited to the Holders of Class A Units, pro rata based on the number of Class A Units held by them.
+20. As can be seen from this Net Income allocation mechanism, having regard to paragraphs (b) and (c) above, the Class B unit holders would receive up to $350,000, the Class C unit holders up to $300,000 and the Class D unit holders up to $350,000 of the first $1,000,000 of Net Income with the Class G unit holders entitled to the rest, assuming no Class F units were issued under paragraph (e). The Class C unit holders would be allocated essentially all the Net Losses.
+21. Section 16.07 dealing with distribution on dissolution of the partnership, mentioned above, was also amended to effectively provide that on dissolution, the Class B and C units would first be paid, followed in priority by the Class D units and then the Class F and G units, all pro rata per such class based on the balances in their respective Capital Accounts. The only difference from the old draft is that the new draft established an order of payout priority whereas the original draft lumped classes together.
+22. It should be noted that there was a second amendment of December 29, 2001 that increased the number of Class B, C and D units to 10,000 each to facilitate the reorganization which otherwise has no further import in the resolution of this matter.
+23. The Minister contends that in the circumstances the mechanism of allocation of profits and losses in amended Sections 11.01 and 11.02 are unreasonable and reassessed on the basis of allocating Net Income and Losses based on the partners’ initial capital contribution for their units following the reorganization in 2001. In order to understand the Minister’s position, we must now turn to the effects of the reorganization in order to see who acquired what partnership units in AIGLP. It should also be noted that the provisions of the GERI Limited Partnership are also relevant to the Minister’s reallocation which I will discuss after reviewing the effects of the reorganization.
+24. As mentioned earlier, the effect of the 2001 reorganization was to bring all the family businesses under the umbrella of AIGLP and the steps that accomplished this are set out in paragraphs 37 to 40 of the PASF’s, details of which are found in Schedule B thereto.
+25. As such details demonstrate, on December 29, 2001 each of the 4 family trusts subscribed for a total of 100 Class G units of AIGLP for a cash contribution of $1000. EAFT was issued 40 units and each of the sons’ trusts, FAFT, RAFT & PAFT were issued 20 units. Between December 31, 2001 and January 31, 2002, Elisa, Francesco, Roberto & Paolo transferred various shares they owned in the 5 aforementioned corporations; and the 6 partnerships and Old Atrium Trust transferred their various property holdings and assets - all to AIGLP, having a total net fair market value (net of assumed liabilities) of over $150.5 million in return for various classes of AIGLP Partnership units, each unit issued at $10.00 as per the AIGLP Partnership agreement above described. These were transfers on a rollover basis pursuant to subsection 97(2) of the Income Tax Act.
+26. The following is a summary of the partnership units acquired, either through cash subscriptions or transfer of properties, their net value and the % of their net value rounded to the nearest tenth thousands (1/10000) of the said total of over $150.5 million contributed to AIGLP, which holdings continued to the 2007 year in issue:
+Unit Holder
+Class and Number of Partnership Units
+Value of Contribution
+% of Total Value
+638769
+10 Class A
+$100
+0.001
+Elisa
+1,331,026 Class B
+$ 13,310,260
+8.8406
+Francesco
+1,872,906 Class C
+$ 18,729,060
+12.4397
+Roberto
+1,872,906 Class C
+$ 18,729,060
+12.4397
+Paolo
+1,872,906 Class C
+$ 18,729,060
+12.4397
+Garden Partnership
+1 Class D
+$ 10
+0.0000
+Wevco Partnership
+3,669,181 Class D
+$ 36,691,810
+24.3704
+St. Jacques Partnership
+1,431,733 Class D
+$ 14,317,330
+9.5094
+Atlantic Partnership
+1,072,585 Class D
+$ 10,725,850
+7.1240
+St Laurent Partnership
+1 Class D
+$ 10
+0.0000
+H&A Partnership
+1,217,116 Class D
+$ 12,171,440
+8.0840
+Old Atrium Trust
+715,444 Class D
+$ 12,171,440
+4.7519%
+EAFT
+40 Class G
+$ 400
+0.0003
+FAFT
+20 Class G
+$ 200
+0.0001
+RAFT
+20 Class G
+$ 200
+0.0001
+1 Class E
+$ 10
+0.0001
+PAFT
+20 Class G
+$ 200
+0.0001
+Totals
+15,055,916 Units
+$150,559,160
+100.0000
+27. It is evident from analysing the above unit holdings and the Net Income and Net Loss allocation mechanisms earlier described that on the first $1,000,000 of income the Appellants would be entitled to the following distribution of income:
+1. Elisa would be entitled to a maximum Net Income allocation of $350,000 for each fiscal year based on a contribution of $13,310,260.
+2. Each of Francesco, Roberto and Paolo would be entitled to a maximum direct allocation on their Class C units of $100,000 [$300,000 X 1,872,906/5,618,718 per section 11.01(b)] plus a maximum indirect contribution on Class D units, from the flow through from their 1/3 ownership of the Garden, Wevco and St. Jacques Partnerships, of $73,415 [1/3 ($350,000 X 5,100,915 /8,106,061) per section 11.01(c)], for a total $173,415.
+3. Each of the 4 family trusts would be entitled to a maximum indirect contribution on their Class D units, through the ownership of equal 25% interests in the Atlantic, St. Laurent and H&A Partnerships of $24,716 [¼ ($350,000 X 2,289,702/8,106,061 per section 11.01(c)]; and
+4. Old Atrium Trust [whose Class D units were distributed to a new Atrium trust in 2004], would be entitled to a direct allocation on its Class D shares of $ 30,891 - ($350,000 X 715,444/8106,061 per section 11.01(c)].
+28. Based on the above allocation, Elisa who initially contributed 8.8406% of the partnerships’ capital would be entitled to 35% of the distributions up to $1,000,000 and each of Francesco, Roberto and Paolo who contributed, directly and indirectly, 23.7330% would be so entitled to 17.34% of distributions up to $1,000,000. Each of the trusts would be entitled to 2.4716% of the said distribution on contribution representing approximately 3.8% of the total capital contributions.
+29. Any residue over $1 million however would be allocated to the Class G units pursuant to section 11.01(e), namely to the 4 family trusts; of which 40% thereof would go the EAFT and 20% to each of FAFT, RAFT and PAFT, notwithstanding negligible contribution to the total capital contribution of the AIGLP of 0.0003% and 0.0001% respectively.
+30. Obviously there is no correlation between contributions to capital by the partners and entitlement to distribution of income.
+31. As per section 11.02 of the partnership agreement however, any losses were allocated only to the three brothers as holders of the Class C units whose capital contribution was 12.4397% each or 37.3191% in total. Obviously no holders of other classes of partnership units share the risk of any loss.
+32. It is also clear from the evidence, confirmed by Luigi and Roberto, that Elisa and the three brothers did not rely on any net income allocations for their living expenses but were able to each draw whatever amount they needed to live. This discretionary ability to take draws from AIGLP was consensual amongst all the family members and they understood that the taking of any such draws would reduce their partnership capital accounts without any immediate tax consequences. For the years 2002 to 2007, substantial draws were taken, not in equal amounts, by the three brothers in particular, sometimes in large amounts. For instance, Elisa took over $400,000 in total throughout those years, while Francesco, Roberto and Paolo took a total of $9.4 million in unequal amounts, all without any immediate tax consequences and with no obligation to pay interest to the AIGLP Partnership pursuant to its terms. Such draws grind the adjusted cost base of their respective partnership units and to the extent of negative adjusted cost base, which existed as a result of such draws, a capital gain would result on the ultimate disposition or deemed disposition on death of such units.
+33. As a result of the allocation of Net Income and Net Losses pursuant to the agreement and the discretionary withdrawal of advances, the adjusted cost base of the partnership capital accounts of Elisa, and of the three brothers were by 2007 in deep negative territory.
+34. The second part of the reorganization involved the transfer of properties from AIGLP, or corporations it owned as a result of the earlier part of the reorganization to second tier partnerships to segregate the different businesses of the group; namely the rental income properties, the development properties and the farming and golf properties into separate units, all held under the AIGLP umbrella.
+35. In similar fashion to the creation of the AIGLP Partnership, three additional partnerships were set up under the umbrella organizations, all of which are described in paragraphs 47 to 70 of the PASF.
+36. The Aquilini Group Developments Limited Partnership (“AGDLP”), later renamed the Aquilini Developments Limited Partnership (“ADLP”) was initially created on December 27, 2001 and pursuant to subsection 97(2) of the Act, AIGLP and the corporations owned by it transferred development properties to it in exchange for different classes of partnership units. Specifically, the different transferors were allocated different classes for tracking purposes which will be made clearer shortly.
+37. Likewise, the Aquilini Group Properties Limited Partnership (AGPLP), later renamed Aquilini Properties Limited Partnership (APLP) was initially created on December 27, 2001 and AIGLP and two different corporations owned by AIGLP transferred various income properties to it in exchange for different classes of partnership units. The transfer by AIGLP included the West Edmonton Village property initially transferred to AIGLP from Wevco earlier mentioned and for which APLP issued Class C units.
+38. Finally, the GERI Partnership was formed on December 30, 2001 to be the farming and golf course business of the group. On said date Elisa subscribed for 20 Class A units and each of the sons subscribed for 10 Class B units of GERI for $10 per unit. Thereafter, corporations owned by AIGLP or other corporations owned by the Aquilini family, predominantly Golden Eagle Ranch Inc., transferred farm properties and equipment to GERI pursuant to subsection 97(2) of the Act or made cash subscriptions in return for Class D partnership units, all as described in paragraphs 53 to 69 of the PASF and Schedule B thereof, page 4.
+39. The group structure following the reorganization steps above can be seen in the diagram attached as Schedule A to the PASF, ignoring the Vancouver Canucks business division which was not yet in existence.
+40. Each of the lower tier partnership agreements contained an allocation mechanism that attributed any gains from the disposition of a property to the initial transferor of that property to the lower tier partner. Accordingly, when the West Edmonton Village property was sold in 2007, the capital gains resulting from such sale were attributed to AIGLP which had initially transferred the property to AGLP in return for Class C units.
+41. The definition of “Attributable Gains” found in section 1.01 of each of the APLP, ADLP and GERI Partnership agreements reads as follows:
+Attributable Gains of a Class of Units for a Fiscal Period means all gains realized by the Partnership in that Fiscal Period on the disposition of property acquired on the issuance of Units of that Class.
+42. Each of the three lower tier partnership agreements includes a section 11.01 that distributes Attributable Gains to the Class of unit holders who transferred such property as mentioned, before distributing residual gains to the holders of essentially all the issued classes, other than the nominal initial general partner and limited partner units.
+43. Each of the said three partnership agreements includes a section 11.02 dealing with the Allocation of Net Losses. In the ADLP and APLP agreements, Net Losses are essentially only allocated to Units owned by AIGLP, which of course would be thrown into the mix of Net Income and Net Losses of AIGLP and allocated in accordance with the AIGLP mechanism earlier described.
+44. With respect to the GERI Partnership, a total of $23,223,360 was received by it as a net contribution resulting from the transfer of properties by 4 corporations initially, that later reorganized into Global and CPI, and the cash contributions of Elisa and the three brothers. Global and CPI (including through their predecessors), contributed properties having a net value of $19,117,090 and $4,105,770 respectively, for a total of $23,222,860, amounting to 99.99785% of the total contribution in return for Class D units; while Elisa, through her subscription for 20 Class A units at $10 per unit contributed cash of $200, amounting to 0.00086% of the total contribution and each of Francesco, Roberto and Paolo, through their individual subscription for 10 Class B units at $10 per unit contributed cash of $100 each, amounting to 0.00043% of the total contribution. Notwithstanding the minimal contribution by Francesco, Roberto and Paolo, the Class B units issued to them would entitle them to claim all the Net Losses of GERI for each fiscal year.
+Subsequent events
+45. Following the 2001 reorganization and prior to 2007 the following relevant events occurred:
+1. Net Income and Net Losses were distributed in accordance with the AIGLP and GERI Partnership agreements, although AIGLP never had net income above the $1 million threshold for preferred allocations described in sections 11:01 (b) and (c) above until 2007.
+2. A new trust, The Atrium Investment Trust (“Atrium”) was settled on January 1, 2004 with 638769 as trustee and the four family trusts as beneficiaries. Atrium was made a beneficiary of Old Atrium, earlier discussed, and Old Atrium made a capital distribution of its 715,444 Class D units in AIGLP to Atrium, such that the new Atrium stepped into the shoes of Old Atrium and thus took the benefit of the 4.7519% initial contribution made to AIGLP by Old Atrium.
+3. In May of 2004, each of the partnership agreements of AIGLP and GERI were amended to provide in section 5.04 thereof that no partnership unit thereof could be redeemed or retracted without the unanimous consent of Luigi, Elisa, Francesco, Roberto and Paolo. There was no change to the retraction or redemption value of $10 per unit of all classes.
+4. In 2005, AIGLP purchased a 50% interest in the Vancouver Canucks business comprised of the hockey team and the arena, each of which were held in new lower tier limited partnerships owned by AIGLP. The evidence is that such interest was acquired by use of existing equity and third party financing, including a vendor take back loan secured, at least in part, by the West Edmonton Village property as well as personal guarantees of Francesco. Roberto testified that there was agreement amongst the brothers that they would indemnify each other with respect to any such guarantees.
+5. In 2006 Francesco started negotiations for the purchase of the remaining 50% interest in the Vancouver Canucks business.
+2007 Events
+46. AIGLP agreed to acquire the remaining 50% interest in the Vancouver Canucks which required it to raise a substantial amount of capital, obtained in part from the sale of other capital assets, including the West Edmonton Village property then owned by AGLP, a bottom tier partnership earlier described. The West Edmonton Village property was sold to an arm’s length purchaser on March 20, 2007 for a purchase price of $143.5 million, on which a capital gain of $92,790,268 and thus a taxable gain of $46,395.134 flowed up to AIGLP as a result of the Net Income Allocation of Attributable Gains in the AGLP partnership agreement earlier discussed, and which would eventually flow up to the 4 family trusts as a result of holding the Class G units that gave them allocation of all Net Income above $1 million. The sale of a second property in 2007 known as the Fernie property raised the total taxable capital gain to $47,337,314 from the sale of both properties.
+47. Roberto testified that although the proceeds of sale would be sufficient to pay for the balance of the Vancouver Canucks business and still allow the trusts to pay the taxes from such disposition, they sought the advice of their tax lawyer and other advisors to investigate reducing the tax burden so, as Roberto and Francesco testified, more could be applied to pay down the debt acquired on the first portion of the acquisition.
+48. The first option explored to reduce the tax bill was to export the family trusts from BC jurisdiction to Alberta which had lower tax rates. In fact, each of Elisa and the sons resigned as trustees of their respective family trust in mid 2007 and appointed an Alberta corporation in their place so as to make the trusts for tax purposes resident in Alberta, based on the residence of the trustees.
+49. After receiving the advice of their tax lawyer and others, the above initial plan was abandoned in favour of a new plan, the sole purpose of which is conceded to have been to reduce or avoid paying taxes on the taxable capital gains that would flow to the 4 family trusts. Roberto testified that there was no business purpose to this plan.
+50. The new plan put into effect saw the group essentially purchasing an interest in an insolvent corporation, JPY Holdings Ltd. (“JPY”) which had on its books substantial capital losses of about $121.2 million to access some of those losses and offset the Net Income to be distributed to the 4 trusts under the allocation mechanism of AIGLP. The existing shares of JPY were reclassified to be redeemable or retractable at $01 to $.03 per share, and new common shares were acquired by 080626 which gave it a 19.5% or 2 million common shares for $20,000, a structure which counsel for the Appellants in argument admitted gave the Aquilini family control. Two employees of the Aquilini group were appointed to 2 of the 3 directors’ positions as well.
+51. On December 28, 2007, JPY was appointed as an additional beneficiary of each of the 4 family trusts pursuant to a provision therein that allowed for the appointment of additional beneficiaries. Using the allocation mechanism earlier described in section 11.01 of the AIGLP Partnership agreement, the unit holders were allocated the total Net Taxable Net Income for 2007 of $48,461,704 as shown in paragraph 94 of the PASF. Elisa and each of the three boys were allocated $176,196 and $50,572 respectively on their Class B and C units, Wevco and St. Jacques Partnership were allocated a total of $110,876 on their Class D units which flowed up to the three sons in equal amounts ($36,959) and the partnerships owned by the 4 trusts equally were allocated a total of $49,770 of which 25% or $12,443 flowed to each of the 4 family trusts. Atrium, as successor to Old Atrium was allocated $15,550 on its Class D units and, aside from minor allocations to the initial general and limited partners who held Class A and E units, the bulk of the Net Income allocation went to the family trusts directly by virtue of their exclusive claim to all the Net Income of AIGLP in excess of $1 million as sole holders of the Class G units, as below:
+EAFT- $19,179.438
+RAFT- $ 9,589,714
+FAFT- $ 9,589,714
+PAFT- $ 9,589,714
+52. Each of the family trusts in turn, elected to pay JPY, as beneficiary pursuant to a subsection 104(6) election, the full amount of the capital gain sums allocated to such trust as a result of the said Net Income allocation mechanism, totalling about $48 million, by the issuance of promissory notes dated December 31, 2007 without interest and thus took a deduction for such amounts so as to pay nil taxes thereon.
+53. JPY then included in its total income the approximately $48 million it received as beneficiary of the 4 trusts above for the year, against which it offset a like amount of its available net capital losses, such that it paid nil taxes.
+54. It should be noted that 2007 was the first year in which more than $1 million of net income was earned by AIGLP, and, as the Appellants have pointed out, all but approximately $600,000 of that $48 million came from the disposition of the West Edmonton Village and Fernie properties.
+Reassessments
+55. In 2011 the Minister reassessed the Appellants so as to allocate the taxable net income from AIGLP for 2007 and to allocate the Net losses from the GERI Partnership amongst the partnership unit holders of each respective partnership, pro rata in accordance with their initial capital contribution at the time of the December 2001 reorganization which remained substantially unchanged as at December 31, 2007 and in the case of the 5 Appellants herein as follows:
+AIGLP Net Income GERI Net Losses
+As Filed
+As Reassessed
+As Filed
+As Reassessed
+Elisa(estate)
+$176,196
+$ 4,284,282
+$0
+($59)
+Francesco
+$ 50,572
+$ 11,501,384
+($2,271,486)
+($29)
+Roberto
+$ 50,572
+$ 11,501,384
+($2,271,486)
+($29)
+Paolo
+$ 50,572
+$ 11,501,384
+($2,271,486)
+($29)
+AIT
+$ 15,550
+$ 2,303,392
+56. After accounting for other miscellaneous items, Elisa was reassessed total taxable income of $4,325,728, Francesco $11,589,670, Roberto $11,590,457, Paolo $11,562,384 and AIT $2,303,392.
+57. In addition, each of the four family trusts, was reassessed to reduce their total direct and indirect share of AIGLP’s net income to $1,842,641 for EAFT, $1,842,579 for FAFT, and $1,842,576 for each of FAFT and PAFT, but each were allowed deductions for like amounts treated as payable to JPY as beneficiary under subsection 104(6) of the Act and so their net income was nil.
+58. Likewise, JPY was reassessed to reduce the annual allocated income by the four family trusts to it as the total of the aforesaid amounts allocated to the 4 trusts, totalling $7,376,654, and allowed offset of its existing capital losses to reduce its income to NIL as well. The promissory notes to reflect the allocation were adjusted accordingly.
+59. It should be noted that the Appellant, AIT concedes that it did not distribute any of its income to any beneficiaries of such trust.
+60. It should also be noted that for the 2003 taxation years, the losses allocated to Roberto, Francesco and Paolo were partially utilized in subsequent years which are not under appeal. Accordingly, the Court is being asked to determine whether those losses were reasonable under subsection 103(1.1) for the purpose of determining whether there is any further ability to carry any portion forward. In other words, if the losses are determined to exceed those already used, any excess can be carried forward, but if the losses do not exceed those already utilized, there will be no further ability to carry losses forward but those already utilized will not be reversed since they were used in years not reassessed.
+61. I intend to address the main issue first; namely whether the allocation of AIGLP income in accordance with the partnership agreement, as amended, was not reasonable and whether the Minister’s reallocation was reasonable pursuant to subsection 103(1.1), and also address in the same analysis the loss allocation issue in AIGLP as it involves a similar analysis. Next I will address whether the allocation of losses under the GERI Partnership agreement was not reasonable pursuant to subsection 103(1.1) and finally the alternative argument of the Respondent, as to whether the allocation of income, and losses for that matter, for AIGLP was not reasonable pursuant to subsection 103(1).
+A. Allocation of income and losses pursuant to the AIGLP Partnership agreement under subsection 103(1.1)
+The Law
+62. Subsection 103(1.1) reads as follows:
+(1.1) Agreement to share income etc.in unreasonable proportions -
+Where two or more members of a partnership who are not dealing with each other at arm’s length agree to share any income or loss of the partnership or any other amount in respect of any activity of the partnership that is relevant to the computation of the income or taxable income of those members and the share of any such member of that income, loss or other amount is not reasonable in the circumstances having regard to the capital invested in or work performed for the partnership by the members thereof or such other factors as may be relevant, that share shall, notwithstanding any agreement, be deemed to be the amount that is reasonable in the circumstances.
+63. As the wording of subsection 103(1), the Respondent’s alternate argument, is contextually relevant to the meaning of subsection 103(1.1), it should be set out herein at the start as well and reads as follows:
+(1) Agreement to share income, etc., so as to reduce or postpone tax otherwise payable-
+Where the members of a partnership have agreed to share, in a specified proportion, any income or loss of the partnership from any source or from sources in a particular place, as the case may be, or any other amount in respect of any activity of the partnership that is relevant to the computation of the income or taxable income of any of the members thereof, and the principal reason for the agreement may reasonably be considered to be the reduction or postponement of the tax that might otherwise have been or become payable under this Act, the share of each member of the partnership in the income or loss, as the case may be, or in that other amount, is the amount that is reasonable having regard to all the circumstances including the proportions in which the members have agreed to share profits and losses of the partnership from other sources or from sources in other places.
+64. Before proceeding to analyse the specific requirements of the section I would like to address the argument of the Appellants that subsection 103(1.1) is an anti-avoidance provision and must be applied as such so that if there is no tax avoidance or motivation, it has no applicability. The Appellants argue that even though the provision does not have the purpose test of subsection 103(1), that requires the principal reason for the allocation agreement to be reasonably considered to be the reduction or postponement of tax, as an anti-avoidance provision, it has only been used to date in cases where income splitting or tax avoidance were present. Accordingly argue the Appellants, since the 4 family trusts who received the $98 million capital gain allocation ($48 million taxable capital gain) in 2007 were entities taxable at the highest marginal rate, there was no element of tax motivation in the allocation and so subsection 103(1.1) would not properly apply.
+65. Subsection 103(1.1) does not have a tax reduction or postponement purpose found in subsection 103(1) above. Thus, on a reading of the plain words or textually and contextually having regard to the differences from subsection 103(1), it is safe to say such specific requirements were not intended. I agree that subsection 103(1.1) is an anti-avoidance provision but do not agree with the restrictive meaning given to that term by the Appellants. Moreover, as there is nothing in the provision limiting its application to instances of “tax avoidance”, one should not simply read such a restriction into the provision unless the provision, through a textual, contextual and purposive approach enunciated by Canada Trustco Mortgage Company v. Canada, 2005 SCC 54 at paragraph 10 justifies same:
+It has long been established as a matter of statutory interpretation that “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament”: see 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, at para.50. The interpretation of a statutory provision must be made according to a textual, contextual and purposive analysis to find a meaning that is harmonious with the Act as a whole. When the words of a provision are precise and unequivocal, the ordinary meaning of the words play a dominant role in the interpretive process...
+66. The provision, with precise and unequivocal wording, is clearly occupied with reallocating unreasonably allocated partnership income and losses to a reasonable allocation thereof i.e.: in more modern parlance, addressing profit and loss shifting between related parties. There are no words that require that there be a reduction in taxes paid or a postponement thereof as found in subsection 103(1). It is enough that it is done. That is in and of itself the mischief sought to be remedied and this is confirmed by the Notice of Ways and Means Motion found in the December 11, 1979 budget introducing subsection 103(1.1) at paragraph 42:
+(42) That for fiscal periods of partnerships commencing after December 11, 1979, rules be introduced to ensure the reasonable allocation of income, losses and other amounts between non-arm’s length partners.
+67. I am in full agreement with the Respondent that the object and spirit of subsection 103(1.1) derives from the Act’s foundational principle that a taxpayer should be taxed on its own income. In Canada v. 594710 British Columbia Ltd., 2018 FCA 166, Woods J.A., in discussing the legislative history of subsection 96(1) of the Act that required partners to include their share of partnership income, whether withdrawn or not, stated at paragraph 54:
+This view reflects the foundational principle of the Act that taxpayers are to be taxed on their own earnings, and not the earnings of someone else.
+68. While the Appellants in argument suggested that since this principle was only discussed in that part of the Federal Court of Appeal’s decision dealing with the purpose of section 96 and not during its discussion of the purpose of subsection 103(1) that it was not intended to be imported into subsection 103(1). I can only remind the Appellants that Woods J.A. referred to it as a foundational principle of the Act (emphasis mine), not just section 96.
+69. Moreover, as the Respondent has argued, the foundational principle is reflected in sections 3 and 4 of the Income Tax Act, the initial charging sections of the Act that speaks to the income or loss of the taxpayer from various sources confirmed by the Supreme Court of Canada.
+70. The Supreme Court of Canada in Richardson Terminals Limited v. Minister of National Revenue, 1972 CarswellNat 160 disallowed the transfer of income from a profitable grain elevator business to a then impoverished pipeline and dredging company with losses to offset same on the basis of such foundational principle at paragraph 91, quoting Jackett, J in Eugene Lagace and Georges Lagace v. Minister of National Revenue, [1968] CTC 98 at page 107:
+… for the purposes of Part I of the Income Tax Act, profits from a business are income of the person who carries on the business and are not, as such, income of a third person into whose hands they may come. This to me is the obvious import of Sections 3 and 4 of the Income Tax Act and is in accord with my understanding of the relevant judicial decisions.
+71. It should be noted that other provisions of the Income Tax Act, such as the spousal attribution rules of subsections 74.1(1) and 74.2(1) which attribute income back to the transferring spouse and subsection 56(2) which taxes payments in the hands of the party that bestowed a benefit on a third party reflect this principle and do not look to the tax situation of the transferee spouses or third parties.
+72. It is now important to identify and address the requirements of subsection 103(1.1).
+1. Related persons
+73. As is evident, subsection 103(1.1) only applies when the members of the partnership are “related persons”. The parties hereto have agreed that at all material times the members of AIGLP and GERI were not dealing with each other at arm’s length by operation of the deeming rules in paragraphs 251(1) (a) and (b) of the Act and thus are deemed to be related (see paragraph 106 of the PASF).
+2. Identifying the Members of the Partnership
+74. There is obviously no dispute that there are two or more members of the partnerships as required by the subsection, however there is dispute amongst the parties as to who the members are for the purposes of the subsection which requires that it be determined whether “the share of any such member of that income, loss or other amounts is not reasonable…” (emphasis mine). The Appellant takes the view that there are only 4 relevant members, namely Elisa, Francesco, Roberto and Paolo, that are to be tested on the basis that they all directly own partnership units and also either indirectly own partnership units through their interest in 3 of the partnerships; namely from the brothers’ 1/3 ownership of the Garden, Wevco and St. Jacques Partnerships; or, as trustees and protectors of the 4 family trusts that own equal interests in the H&A Partnership, the Atlantic Partnership and the Saint-Laurent Partnership. The Respondent takes the position that for the purposes of the subsection each of the above referenced 6 partnerships and four family trusts are members to be tested as well, in addition to AIT and 638769.
+75. Although I do not believe the results of my analysis would be any different from testing just the four individuals in their capacities as direct partnership unit holders that makes them members, I agree with the Respondent’s interpretation that all the aforementioned entities are members of the partnership that are also to be tested as the provision requires for the following reasons stated in paragraphs (a) to (f) below:
+a) Subsection 102(2) of the Act defines a member of a partnership as follows:
+In this subdivision [which includes subsection 103(1.1)], a reference to a person or a taxpayer who is a member of a particular partnership shall include a reference to another partnership that is a member of the particular partnership. [comments mine]
+Accordingly, since the 6 aforementioned partnerships own partnership units of AIGLP, they are clearly considered members of AIGLP per the above subsection.
+b) the assumptions found in subsection 96(1) are imported into both subsections 103(1.1) and 103(1) for that matter as a result of subsection 96(2), a rule of construction that reads as follows:
+(2) the provisions of this subdivision shall be read and construed as if each of the assumptions in paragraphs(1)(a) to (g) were made.
+Paragraphs 96(1)includes the following paragraphs:
+(a) the partnership were a separate person resident in Canada.
+(c) each partnership activity (including the ownership of property) were carried on by the partnership as a separate person…
+As well as (f) and (g) which preserve the character of sources of income or losses.
+It is clear from the wording of paragraphs 96(1) (a) and (b), imported into subsections 103(1.1) and 103(1) via subsection 96(2) that a partnership would be a separate person owning the partnership units of AIGLP and hence clearly a member as well.
+It should be noted that the Appellants argue that based on the decision of Canada v. Green, 2017 FCA 107 and in particular referenced the dictum at paragraph 29 thereof:
+29. Since the computation of income for a partnership that is a member of another partnership will cause problems when the top–tier partnership attempts to allocate its income on a source by source basis to its partners, in my view, Parliament did not intend for a partnership that is a member of another partnership to compute income. Rather, Parliament intended for the sources of income (or loss) to be kept separate and retain their identity as income (or loss) from a particular source as they are allocated from one partnership to another partnership and then to partners of that second partnership (and so on as the case may be). This would mean that losses from a business incurred by a particular PSLP would still be losses from a business in MLP and then allocated by MLP to its partners as losses from that business.
+The Appellants rely on this paragraph to suggest the case stands for the proposition that partnerships are not persons at law but rather relationships and hence implies they cannot be members of a partnership as they are flow through entities to its ultimate partners and not taxpayers themselves.
+With respect to the Appellants, their conclusion and submission ignores the context of the issues in Green. In such case, the Court had to decide whether limited partnership losses subject to the at risk rules would lose their character as business losses for the purpose of section 111 loss carry-forwards when they flow through to the higher tier limited partnership as a result of such limited partnership not being considered a person for the purposes of section 111, a provision that falls outside subdivision J of the Act which includes sections 96-103. The Court held that paragraphs 96(1) (f) and (g) protect the source of income character as they flow between partnerships and accordingly did not lose their character as business losses for the purposes of s.111.
+Moreover, Webb J. specifically acknowledged the effect of subsection 102(2) at paragraph 6:
+Any doubt about whether a partnership, which is not a person, would be recognized as a partner of another partnership for the purposes of the ITA has been removed as a result of the provision of subsection 102(2) of the ITA:
+It should also be noted as the Respondent has argued, that Green did not even consider the impact of subsection 96(2) rule of construction which also applies here, presumably because it has limited scope to subdivision J. provisions so didn’t have to.
+Likewise, the Appellants’ reliance on Wildenburg Holdings Ltd. v. Ontario (Minister of Revenue), 1998 Carswell 226 in arguing a partnership is a relationship that cannot be a taxpayer is of no assistance to the Appellants as it did not consider either the rule of construction in subsection 96(2) nor subsection 102(2) at all, let alone having nothing to do with the issues in this case.
+c) Subsection 104(2) deems a trust to be an individual for the purposes of the Act and the relevant portion reads as follows:
+(2) a trust shall, for the purposes of this Act, and without affecting the liability of the trustee or legal representative for that person’s own income tax, be deemed to be in respect of the trust property, an individual…
+Additionally, subsection 248(1) defines an individual to mean a person other than a corporation and “taxpayer” is defined to include any person.
+Accordingly, the 4 family trusts are deemed to be individuals in respect of the partnership units owned by such trust and hence can be members of the trust and own partnership units.
+The Appellants suggest, relying on cases such as, Garron Family Trust (Trustee of) v. Canada, 2012 SCC 14 and Olympia Trust Co. v. Canada, 2015 DTC 5134 (FCA) that subsection 104(2) merely creates a notional taxpayer since the trust cannot undertake any actions otherwise than through its trustee. The issue in Garron was determining the residency of the trusts and is of little assistance to the Appellant. In fact the Respondent’s position is supported by Woods J., as she then was, after considering the deeming provisions of subsection 104(2) at paragraph 10:
+…We agree with the Minister that the fact that at common law a trust does not have an independent legal existence is irrelevant for the purposes of the Act.
+Woods J. also confirmed the trust was the entity carrying on the business.
+Olympia Trust was a decision that held the trustee of the trust liable as the purchaser responsible for paying the withholding taxes of a third party, and not the trust, for failure to conduct its due diligence in not investigating the non-residency of the Vendor on the basis only a trustee can undertake those actions on behalf of the trust. The decision does not impact the deeming result of subsection 104(2) as it was not a case that concerned itself with the tax liability of the trust quo trust property as the case at hand does.
+d) I am in agreement that a trustee does not own the trust assets, such as the partnership units, for his or her own benefit, but in trust for the benefit of the stated beneficiaries. I also agree with the Respondent, that as the 4 trusts in issue were discretionary trusts, no beneficiary can be said to claim entitlement to the partnership units held by the trust, so the position of the individual Appellants that they had indirect ownership of the units through the trust is not legally valid.
+e) the fact the AIGLP Partnership agreement as well as the Resolutions of Partners Meetings tendered into evidence identified the individual Appellants, the 6 above mentioned partnerships, the 4 family trusts, AIT and the 638769 as the partners for signatory purposes after allocation of their respective partnership units indicates the Appellants’ own acceptance of this approach prior to this dispute.
+Unfortunately, the Appellants seem to conflate the actions such as signing documents in their capacities as individual partners of the member partnerships or as trustees of the family trusts or AIT with the actual or deemed legal existence of such entities and their ability to own assets.
+f) As will be discussed shortly, the test to be employed as to reasonableness is an objective test between arm’s length parties. To conceptualize such a test as including a non-arm’s length relationship is the antithesis of the said test and would distort its application and result. The Appellants cannot simultaneously purport to wear 3 hats and apply an objective test in a way that takes into account the non-arm’s length relationship between them.
+3. Reasonableness Test
+76. Subsection 103(1.1) requires a determination of whether “the share of any such member of that income, loss or other amount is not reasonable (emphasis mine) in the circumstances having regard to the capital invested in or work performed for the partnership by the members thereof or such other factors as may be relevant”.
+77. There is no dispute that the share of income and loss in question is the allocation of income and losses pursuant to sections 11.01 and 11.02 of the AIGLP Partnership agreement as amended by the December 29, 2001 amendments earlier described in detail that essentially distributes the first $1,000,000 of income to the Class B, C and D unit holders and any balance to the Class G unit holders being the 4 family trusts with all losses allocated to the Class C unit holders being the 3 brothers only.
+78. There is also no dispute that the term “reasonable” is not defined and should therefore be given its ordinary meaning for which reference may be had to dictionaries. Black’s Law Dictionary, relied upon by both parties, defines “reasonableness” as follows:
+Reasonable. Fair, proper, just, moderate, suitable under the circumstances. Fit and appropriate to the end in view. Having the faculty of reason; rational; agreeable to reason. Thinking, speaking or acting according to dictates of reason. Not immoderate or excessive, being synonymous with rational, honest, equitable, fair, suitable, moderate, tolerable…
+79. While Canadian Oxford Dictionary adds “in accordance with reason, not absurd”.
+80. There is no dispute that the leading authority or starting point for determining reasonableness in the tax context is Gabco Ltd. v. Minister of National Revenue, 68 DTC 5210 (Ex. Ct.), a case that dealt with determining whether expenses were reasonable pursuant to the predecessor provision to section 67 of the Act. The test to determine reasonableness is found in paragraph 52:
+52. It is not a question of the Minister or this Court substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the Court coming to the conclusion that no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind….
+81. This is unfortunately where the parties’ agreement ends. The parties disagree as to the meaning of the test in the context of this case, with the disagreement centered on what circumstances should be taken into account in applying the test. The Appellants in essence, based on their arguments found in paragraphs 148 to 173 of the Appellant’s Argument, say that the reasonable person substituted for Elisa should be in her shoes entirely, as the wife of the founder like Luigi, who became concerned with creditor proofing after his son had marital problems and the group was forced to sell off assets to deal with it, who initiated creditor proofing goals through the use of family trusts as well as undertaking a complex reorganization that simplified the organizational structure under one umbrella for bank financing purposes as well as to protect the interest of Elisa against any downside reduction in her capital account due to losses and preserved the involvement of all family members with a view to passing on future growth for the benefit of his lineal descendants. The Appellants also ask us to place a reasonable person in the shoes of each of the brothers, who are in agreement with their father’s goals as to creditor proofing and passing on future growth to the lineal descendants. They insist the reasonable person should have the multiple roles as direct and indirect owner of units with a fiduciary role as trustee as well.
+82. Such position is summarized in paragraph 129 of the Appellants’ Argument:
+It follows that the only logical starting point for applying the reasonable person test, considering all of the real world circumstances in which the AIGLP Agreement was actually made, is to replace each of Elisa, Francesco, Roberto, and Paolo at the top of the structure with a reasonable person who stands entirely in their shoes in all respects.
+83. The Respondent says the circumstances the Appellants are asking the Court to consider are personal or non-business factors and, unless they have an effect on the business interests of the reasonable business person, would not be relevant to an arm’s length reasonable person having regard to their own interests. The Respondent argues that to consider such circumstances or factors would be contrary to both established case law and would distort the test by including special relationships or personal elements that would essentially change an objective test to a subjective one.
+84. The Appellants argue those considerations are not personal but business considerations as well and argue that the case law requires that all (emphasis mine) circumstances be considered, including those such as creditor proofing and passing on future growth for the benefit of lineal descendants, goals that were achieved through the allocation provisions in issue.
+85. A proper starting point to analyse the parties’ disagreement is to determine the meaning of the words used in subsection 103(1.1) that are in issue; namely whether “the share of any such member of that income, loss or other amount is not reasonable in the circumstances having regard to the capital invested in or work performed for the partnership by the members thereof or such other factors as may be relevant”.
+86. Unlike Section 67 that uses the words “reasonable in the circumstances” or former subsection 69(2) that used the words “reasonable in the circumstances if the non-resident person and taxpayer had been dealing at arm’s length” or the current subsection 247(2) that simply requires that the terms and conditions reflect those made by “an arm’s length party”; the provisions of subsection 103(1.1) require that in determining reasonableness in the circumstances, regard must be had to capital invested in or work performed In the partnership, two mandatory factors to consider, or other relevant factors. It does not use the broadest of all possible formulations being “all circumstances”.
+87. In my opinion, the words of subsection 103(1.1) are far more restrictive and detailed than those found in sections 67, former subsection 69(2) or present section 247 dealing with transfer pricing, yet the case law with respect to those broader provisions, relied upon by the Appellants themselves, in my view make it clear that a reasonable business person would only consider factors pertaining to their own business considerations, such that even they do not consider “all circumstances”.
+88. In Transalta Corporation v. The Queen, 2012 DTC 5041 at paragraph 75, a case relied upon by the Appellants, the Court, after adopting the reasonableness test in Gabco above, stated at paragraph 78:
+…As I have already noted, that test is whether a reasonable business person, with business considerations in mind, would have made the allocation...
+89. In GlaxoSmithKline v. Minister of National Revenue, 2010 DTC 5124, affirmed by the Supreme Court of Canada in 2012 DTC 5147(SCC), the Federal Court of Appeal, in considering what was reasonable in the circumstances, dealing with the old transfer pricing rule in former 69(2), stated at par 73 and 74:
+73. In my view, the test set out in Gabco, supra, requires an inquiry into those circumstances which an arm’s length purchaser, standing in the shoes of the appellant, would consider relevant in deciding whether it should pay the price paid by the appellant…
+74. Consequently, it is my view that the Judge was bound to consider those circumstances which an arm’s length purchaser would necessarily have had to consider. In other words, the test mandated by subsection 69(2) does not operate regardless of the real business world in which the parties to the transaction participate.
+90. Business considerations are first and foremost the circumstances to consider and these from the perspective of the arm’s length reasonable business person having regard to only their own business interests. There is simply no merit to the Appellant’s interpretation of these cases as supporting the contention that all circumstances, including personal family circumstances and personal estate planning goals must be considered.
+91. Even the Appellants’ reliance on Alberta Printed Circuits v. The Queen, 2011 DTC 1177 (TCC), a decision of mine, has been misconstrued to suggest that all circumstances must be considered without qualification. In commenting on the Glaxo decision I had stated at paragraph 160 and paragraph 163:
+160. It is important to note that factors or circumstances that exist solely because of the non-arm’s length relationship of the parties should not be ignored, otherwise the reasonable businessman would not be standing entirely in the Appellant’s shoes. This was demonstrated in Glaxo above.
+163. In short, all circumstances means “all” the circumstances an appellant finds himself in before a reasonable businessman steps into his shoes.
+92. However, in paragraphs 158 and 159 I referenced the test in Gabco and the fact “the test requires a consideration of all relevant factors that a reasonable business person in the Appellants’ shoes would consider” and in paragraph 161, which was omitted by the Appellants in their analysis, made it clear relevant comparability factors was the subject and context of those statements:
+161.The OECD terms these relevant factors the “Comparability Factors” in its Guidelines and included the following categories of factors to consider:
+1. the characteristics of property or services being purchased or sold-differences may account for differences in value;
+2. the functions defined by the parties to the transactions - i.e. who does what, taking into account assets used and risks assumed;
+3. contractual terms between the parties;
+4. the economic circumstances of the parties-what markets do they operate in and what are the differences?
+5. the business strategies pursued by the parties.
+93. In paragraph 162 I made reference to the fact the Tax Court had to consider a Licence Agreement in Glaxo and implicit guarantee in General Electric as factors, all business factors.
+94. Accordingly, these cases stand for the proposition that the reasonable business person would only consider factors relevant to their own business considerations having regard to their own business interest. He or she decides on what is objectively best for him or her and arrives at a business decision.
+95. The Appellant argues that Paajanen v. The Queen, 2011 DTC 1229 (TCC), a decision of Woods J., as she then was, stands for the proposition that personal factors or elements can be considered. In that case two sisters allocated partnership income based on draws instead of capital contributions for the personal reasons that one sister wanted to help the other who had limited resources after her husband’s death and was not motivated by tax, thus Woods J. found subsection 103(1.1) did not apply. Notwithstanding Woods J.’s analysis and statements that the words “relevant factor” do not limit the types of factors that can be taken into account, I am not prepared to give such case any weight as it is an informal procedure decision that has no precedential value and frankly, I disagree with the technical result though understand it involved a very small amount of tax in dispute and no tax motivation which formed the context in which the case was decided. In brief, Woods J.’s reliance on the fact subsection 103(1.1) is an anti-avoidance provision and should be interpreted as such and if a taxpayer has no tax motivation it should not be employed does not change the fact that subsection 103(1.1) specifically deals with shifting of partnership income and does not contain a purpose test that requires a tax reduction or postponement as earlier discussed.
+96. Moreover, such a position ignores the fact that subsection 103(1.1) deals with relevant factors that would be considered by an arm’s length reasonable person having regard to their own business interests. In this regard, helping a sister through hard times, while commendable, would not impact the business interest of the arm’s length person. That is not to say that some factors that may be considered personal to one of the related parties might be a relevant business factor to an arm’s length party and so should be considered. An example proffered by the Respondent is where a partnership member has special skills or attributes that impact directly on the earning of profits or losses such that it would be in the business interests of an arm’s length party to allocate income to keep such person in the partnership.
+97. Additionally, in interpreting what “other relevant factors” are contemplated by the provision, I am in agreement with the Respondent’s reliance on the ejusdem generis rule of statutory interpretation that states that the scope of the later general term may be limited to any genus or class to which the earlier specific items belong. In short, “other relevant factors” are limited to the class of factors to which the specific capital invested in or work performed for the partnership belong; namely factors relevant to the carrying on of business that bear a relationship to the income or loss thereof. This makes perfect sense when one remembers that the meaning of partnership is two or more members carrying on business in common with a view to profit.
+98. Finally, in a contextual analysis, the relevant factors must relate to the interests of an arm’s length person in order to be considered as part of an objective test. To apply all personal factors or attributes of related parties would be to effectively neutralize that objective test. What the Appellants are saying is that we must effectively insert clones of the Aquilini family as the arm’s length parties and they would come to the same allocation agreement. That approach subverts the reasonableness standard and so is an absurd approach that would render an absurd result and render the plain words and meaning of subsection 103(1.1) and its intended effect meaningless.
+99. I would thus agree with the Respondent that the proper approach must exclude factors that relate to the personal or non-arm’s length relationship between family members or estate planning elements that are irrelevant and thus inconsistent with the objective reasonable standard. As the Respondent has set out in its argument at paragraph 461 of the Respondent’s Argument:
+Such factors do not reflect contributions to the carrying on of a partnership business. They bear no relationship to the capital invested in or work performed for a partnership. And they are not factors that have a relationship to partnership income or loss.
+4. Application of Subsection 103(1.1)
+100. I will now consider the specific and other relevant factors required by subsection 103(1.1) to determine the reasonableness of the AIGLP income and loss allocation.
+101. I agree that the time for consideration of the above factors is at the time when the relevant income was allocated, namely December 31, 2007 being the year reassessed with respect to AIGLP income allocation. However, I agree with the Respondent that even if we considered the relevant time to be in 2001 upon execution of the partnership agreement as amended, there would be no substantive difference in the result.
+a) Capital Invested
+102. As identified in the facts recited above, the members of the partnership contributed a total of $150.5 million to AIGLP and received Class B, C and D partnership units. The Appellants made the following contributions for their partnership units representing the portion of the above total contribution as follows:
+Elisa
+1,331,026 Class B
+$13,310,260
+8.8406%
+Francesco
+1,872,906 Class C
+$18,729,060
+12.4397%
+Roberto
+1,872,906 Class C
+$18,729,060
+12.4397%
+Paolo
+1,872,906 Class C
+$18,729,060
+12.4397%
+AIT
+715,444 Class D
+$ 7,154,440
+4.7519%
+103. On the first $1 million dollar allocation of income under the AIGLP allocation formula, Elisa would receive $350,000 or 35% of such allocation notwithstanding an 8.8406% contribution to capital invested. Each of Francesco, Roberto and Paolo would directly receive $100,000 or 10% of such allocation each in return for an even higher contribution of 12.4397% of total capital contribution. AIT would receive $30,891 or 0.03% of such allocation based on its initial contribution of 4.75195 of the total capital contribution. Moreover, the remaining members, being the 6 partnerships and 4 family trusts would also receive disproportionate returns. The Wevco Partnership in particular would, on its 3,669,181 Class D units for which it contributed $36,691,810 representing 24.3704% of initial capital invested, receive only $158,453 or 15.85 % of such preferred allocation.
+104. No reasonable business person standing in any of the shoes of the members of the partnerships, excluding the one standing in for Elisa who no doubt would welcome the windfall, considering their capital invested in the partnership would accept such a distorted return on the preferred income allocation of $1 million let alone permit Elisa, who contributed less in capital than any of the brothers or Wevco, to receive 35% of such allocation barring consideration of further factors justifying same. As will be seen later, there are none.
+105. The entire remaining allocation of about $47 million in capital gains was allocated to the 4 family trusts who in total held 100 Class G units whose combined total contribution to capital invested amounted to a nominal $1000, representing a combined 0.0006% of the total capital invested by the members of the partnership for a return in excess of 4.7 million % on such Class G. shares.
+106. I share the views of McArthur J. in Krauss v. The Queen, 2009 TCC 597 at paragraph 57 stated:
+… The Class C units were issued in exchange for $100, or 0.000034% of the capital of the Krauss Partnership. Further there was no evidence that the Krauss Family Trust performed any work for the Krauss Partnership. In 1994, the Class C units were allocated $126,721. This represents 126,721% annual return on an investment for the 1994 taxation year. Additionally as noted above, the Class C units had complete downside protection. Quite simply, an investment in real estate with no risk of loss that yields a 126,721% return is beyond unreasonable. It is delusive to the point of absurdity, and betrays something more than aggressive tax planning…
+107. Likewise, in the very similar case at hand where no losses under the allocation agreement would be allocated to the Class G units, the holders of Class G units enjoy a risk free investment for which they received a 4.7 million% return in 2007. This is patently unreasonable, especially considering the 4 family trusts performed no work for the partnership as will be discussed shortly and so no reasonable person standing in any of the members’ shoes, save the 4 family trusts who gain a large windfall, would agree to such residual allocation. Let me add that I found Appellants’ counsel’s reasons for suggesting the circumstances in Krauss were distinguishable unconvincing.
+108. Based on the foregoing the capital invested factor very strongly supports a finding that the allocation to the partners were extremely unreasonable, whether it be the allocation of the first $1 million of the formula or the balance.
+109. Even Francesco and Roberto testified that it would be silly and acknowledged it would not make sense if a stranger was given those Class G units instead of a family trust of which they and their lineal descendants were beneficiaries and of which they were the trustees and protectors, exercising control over them. The suggestion that they felt it was silly and could never happen was because they interpreted the tested parties as themselves, playing multiple roles as direct owner of partnership units, indirect owner of partnership units and trustees, protector and part beneficiaries of the trusts. The allocation was only acceptable to them as long as the existing non-arm’s length arrangement was in place.
+b) Work performed for the partnership
+110. The evidence is clear that Francesco, Roberto and Paolo when not ill, performed most of the work for the AIGLP Partnership, as well as the GERI Partnership for that matter and for their predecessors prior to the reorganization. Elisa had a very limited role due to her advanced age and the only evidence is she might have worked one half of one day assisting the brothers in the GERI Partnership. There is no evidence the 6 upper tier partnerships, the 4 family trusts, or AIT contributed any work to the partnerships.
+111. The Appellants argue that if we take into account the simultaneous, multi-dimensional roles of the 3 brothers, representing themselves as direct Class C unit holders, as partners to 3 of the upper tier partnerships and trustees to the 4 family trusts that owned the other 3 partnerships, that they can be said to have contributed work to the partnership on behalf of all entities. There is however no evidence that any of their work was specifically performed qua the upper tier partnerships or the trusts. In fact, there is no evidence their roles changed at all after the trusts were even formed or after the reorganization.
+112. The Appellants also argue that as fictitious people, neither the trusts nor the 6 partnerships can perform work thus it must be performed through the partners or trustee. Simply put, I see no reason why such entities could not have hired people to perform work on their behalf. There is no evidence of that either. It is worth noting as well, that in mid-2007, Elisa and the 3 brothers resigned as trustees in favour of an Alberta trustee and there is no evidence such new trustee performed any work either.
+113. Even if I accept the argument that notional persons are not capable of working, then I would be forced to accept at best that the work performed criteria is neutral.
+114. If I treat the brothers as separate individuals objectively, then it is clear that the three did, as they testified, all the work of the AIGLP Partnership and GERI’s as well, yet were not granted any greater income allocation under the allocation of income formula to recognize such work as a reasonable business person having regard to their own interests would expect. In this regard, the work performed criterion would also suggest the allocation of income was unreasonable in respect of the 3 brothers.
+115. In considering the loss allocation formula, all losses were allocated to the Class C units owned by the 3 brothers who performed all the work. Not only are they not allocated more income for such efforts, they are actually allocated all the losses. No reasonable businessperson would accept such an outcome. A reasonable business person would expect, absent any other relevant factors impacting same, that they would share in both the upside and downside of income and loss in an arm’s length business arrangement [See Signum Communications Inc. v. The Queen, 1988 CarswellNat 380 at paragraph 22] and if someone performed more work, that that person would be either compensated for same from salary or wages or be allocated a greater distribution of profit, not losses.
+116. The reason given for the loss allocation formula as earlier alluded to was to avoid allocation of losses to Elisa to avoid reduction of her capital account and to allocate the loss to the brothers, who as the active members, should bear the risk of their decisions. While I will discuss the risk factor in more detail later on, this rationale offered by the Appellants serves to emphasize that only because of the familial relationship between the parties and their personal planning goals were losses allocated in this manner.
+c) Other relevant factors
+117. Having discussed the meaning of the factors above in detail and my conclusion that reasonable arm’s length business people acting in their own interests as owners of such partnership units would not consider as relevant the personal creditor proofing or estate planning goals of the Appellants; including the preferred allocation $350,000 of the first $1 million in income to Elisa to recognize founder contributions and the goal of passing on future growth to their lineal descendants via the disproportionate allocation of income amongst different classes of unit holders, particularly the allocation of all income over $1 million to the 4 family trusts, as well as the allocation of all losses to the 3 brothers. The only other relevant factor that emerges from the evidence is the risk factor.
+118. The evidence is that Francesco executed a guarantee in favour of the vendor in connection with the acquisition of the Vancouver Canucks’ operations and there is further evidence that as between the brothers, any guarantees given by any brother would be the responsibility of all three. There was also oral evidence that at least Roberto executed a guarantee in favour of a third party, although no documentary evidence with respect to either of them was put in evidence.
+119. The allocation formula in the partnership agreement does not allocate any additional income to these risk takers which strikes me as prima facie unreasonable. One would expect that amongst arm’s length members of a partnership that, absent evidence of other consideration flowing for undertaking such additional risk on behalf of the partnership, that such partners who bore greater risk would be entitled to greater income on the principle that they bear greater risk of loss.
+120. What is telling, however, is that the Appellants conceded they would not be seeking any greater allocation of losses due to the risk posed by signing the guarantees. It is illogical by any measure to expect a risk taker’s reward would be to guarantee him greater losses. The position of the Appellants can only be rationalized in the context of the familial relationships between the parties and the personal elements at play, succinctly posited by Roberto in his testimony that he didn’t care whether money came into his left pocket or right pocket as he assumed the allocation flowing to his family trust under the partnership agreement was really his own.
+121. There was no other argument or evidence of other relevant factors to consider.
+5.Conclusion on allocation of profits and losses in the AIGLP agreement.
+122. Considering the above, I find the allocation of both income and losses in the AIGLP Partnership agreement to be unreasonable and would not be acceptable to arm’s length business people standing in the shoes of the members of that partnership having regard to their own business interests as discussed; and thus was properly subject to reallocation by the Minister.
+6. Was the Minister’s allocation of income and losses reasonable?
+123. As noted earlier in this decision the Minister reassessed the Appellants, indeed all the members of the AIGLP Partnership, on the basis that income and losses should be allocated according to their share of initial capital contribution. Having regard to the analysis above, I find that having regard to the criteria of capital invested, work performed and other relevant factors that the Minister’s allocation was reasonable and should not be disturbed. In coming to this conclusion I have also considered the following:
+a) The Appellants argued for the allocation as per the agreement and did not argue for any other allocation in the alternative, including any range of allocations they might have suggested in the alternative should be applied.
+b) While there may have been justification for the Minister allocating a greater portion of the income, and no losses to Francesco, Roberto and Paolo to a lesser extent, due to work performed and risk factors, this would have the effect of increasing their income assessed and the Court cannot increase the Minister’s assessment.
+c) The Minister was not given sufficient detail as to the work performed factor prior to reassessing and so reasonably considered it a neutral factor. Having regard to my comments above, it is either a neutral factor or one that might have been more detrimental to the individual Appellants.
+d) The Appellants’ argued that since the partnership capital accounts of Elisa, Francesco, Roberto and Paolo changed over the years due to the allocation of income and losses and the draws taken by them that it would be unreasonable for the Minister to allocate based on original capital contribution. For the following reasons, I am not persuaded by that argument:
+i. the allocation formula allocates income based on partnership units held not capital account balances. The partnership units were issued based on the initial capital contributions of the partners. Each partnership unit was issued for $10 and that is the stated redemption amount for same. Accordingly, fluctuations in capital account do not impact the formula for distribution of income and losses.
+ii. there was no change in the partnership capital account of the Class G units until the allocation of significant income challenged in the 2007 assessment and so practically, the largest shift of unreasonable income occurred with respect to these units.
+iii. most of the changes in capital account of the partners, particularly those of the individual Appellants, was the result of the unreasonable allocation of income and losses from the time the partnership agreement was entered into until the 2007 taxation year, so the impact of such income and losses on partnership capital can be largely ignored. The only item impacting capital accounts other than unreasonably allocated income and losses were draws that totalled $9.8 million in those years and of which about $9.4 million was allocated amongst the brothers unequally according to the summaries attached by the Appellants to their Argument as Schedule “G”. In the meantime, losses of $27.1 million were allocated unreasonably as was income of $96.3 million. When one considers there was justification for allocating greater income to the brothers due to work performed and risk taken, one can almost disregard the practical impact of the draw allocation on whether the Minister’s allocation was reasonable. In any event, the Appellants argued no alternative allocation, as mentioned.
+iv. in Signum above, at paragraph 20, the Court found an allocation method based on capital contributions was a normal and usual method of allocating profits and losses. I am in agreement.
+B. Allocation of income and losses pursuant to the GERI Partnership agreement under subsection 103(1.1)
+124. The facts pertaining to the reasonableness of the GERI Partnership allocations bear repeating. A total of $23,223,360 was received by it as a net contribution resulting from the transfer of properties by 4 corporations initially that reorganized into Global and CPI and the cash contributions of Elisa and the three brothers. Global and CPI (including through their predecessors), contributed properties having a net value of $19,117,090 and $4,105,770 respectively, for a total of $23,222,860, amounting to 99.99785% of the total contribution in return for Class D units; while Elisa, through her subscription for 20 Class A units at $10 per unit contributed cash of $200, amounting to 0.00086% of the total contribution and each of Francesco, Roberto and Paolo, through their individual subscription for 10 Class B units at $10 per unit contributed cash of $100 each, amounting to 0.00043% each of the total contribution. Notwithstanding the minimal contribution by Francesco, Roberto and Paolo, the Class B units issued to them would entitle them to claim all the Net Losses of GERI for each fiscal year. For the 2007 year in question, each of Francesco, Roberto and Paolo were allocated $2,271,486 in losses.
+125. Is should be noted that while losses were only allocated to the Class B units held by the three brothers, the income allocation formula for GERI essentially attributed any capital gains to Global and CPI as the initial contributors of that property, which of course were owned by AIGLP. The parties testified they never expected operational gains from day to day business, only losses, hence the reason operational profits if any, were essentially divided equally amongst the holders of Class A and B units, namely Elisa and the three brothers.
+126. The issue the Court is asked to determine is whether the allocation of losses by the GERI Partnership is unreasonable. The same analysis, discussed in detail above, is adopted here as well.
+127. Based on the capital invested factor I find that it was unreasonable to allocate 100% of the losses to the three brothers who contributed in aggregate about one thousandth of one % of the total capital invested in the partnership while the contributors of almost 100% of capital invested were allocated no losses absent other relevant factors. In Signum above, the Court suggested it would be prima facie unreasonable that a partner who contributed about 13% of the capital invested in the partnership should be allocated 100% of the losses. In our case, the brothers made only nominal contributions yet were allocated 100% of the losses, leaving Global and CPI, who contributed a total of over $23 million with no downside risk to their investment. Again, a reasonable business person with only their interests in mind would not assume the risk of such losses, especially in the context where they were performing some work for the partnership.
+128. The evidence not in dispute is that the Aquilini brothers managed the GERI Partnership and thus performed some work for it, yet notwithstanding such contribution were rewarded with losses instead of income, something a reasonable business person would not accept. Based on the work performed factor I find the allocation to be unreasonable.
+129. Accordingly, since no other relevant factors were brought into evidence having regard to the fact I found the special relationship and personal elements not relevant to the analysis of other relevant factors as earlier mentioned, I find that the allocation of losses to only the Class B unit holders, the 3 brothers, was unreasonable.
+130. Likewise for the reasons given above, I find the Minister’s allocation of losses based on initial capital contributions to be reasonable particularly as no reasonable alternatives were suggested by the Appellants.
+C. Alternative Argument - allocation of income of AIGLP Partnership under subsection 103(1)
+131. The provisions of subsection 103(1) set out earlier are substantively different from subsection 103(1.1) in two respects; firstly they do not require that the members of the partnership be related and secondly they contain a purpose test. Subsection 103(1) requires that the principal reason for the allocation agreement to be reasonably considered to be the reduction or postponement of tax.
+132. The Appellants are correct in arguing that since the Minister did not assume that the Appellants had such principal purpose, but only pleaded same as an additional fact, that the onus is on the Respondent to establish that fact on the balance of probabilities.
+133. The Appellants, in numerous paragraphs throughout their argument, including paragraphs 28, 30, 45, 307 & 308, take the position that the 2001 reorganization and the AIGLP and GERI Partnership agreements contain no tax motives [emphasis mine]. This is patently incorrect since in the Appellant’s own argument, at paragraph 19 of its Argument, where the goals of the reorganization which included the partnership agreements in issue are summarized, the goals and objectives contain at least two tax motivated goals found in paragraph (h):
+(h) satisfy the tax objectives of preventing trapped losses and reducing capital tax.
+134. Subsection 103(1) however requires that the “principal purpose” of the allocation be reasonably considered to be to reduce or postpone tax.
+135. The term “principal” is also not defined but there was no argument against the Canadian Oxford Dictionary definition of “1….first in rank or importance, chief 2. main, leading”.
+136. Bowman J. in XCO Investments Ltd. v The Queen, 2005 TCC 655 at paragraph 31 employed the word “predominant”.
+137. It is interesting that the stated objectives of the Appellants in paragraph 19 above say nothing about transferring future growth in income to lineal descendants while the allocation methods achieve just that and there was no dispute during the trial that in 2007 that is exactly what happened as was intended when most of the proceeds from the sale of the Wevco Partnership property described as the West Edmonton Village property were allocated to the Class G partnership units owned by the 4 family trusts. There appear to be some verbal gymnastics involved, as the Respondents have suggested, when the Appellants spoke of preserving assets for the benefit of future generations as they do in paragraph 21 of the Argument, while avoiding the language of passing on income to future generations, nuanced only in the suggestion the protection of assets was “for the benefit of future generations”. I mention this now to demonstrate my concerns about the manner in which the Appellants have presented their arguments, characterizing circumstances or facts in a manner not always reflective of reality.
+138. With respect to the transfer of income to the family trusts, the Appellants’ position is that since the family trusts are taxable entities and were taxable at the highest marginal tax rates, that there was no tax avoidance in transferring future growth to them. Subsection 103(1) does not require that there be an overall tax reduction or postponement or that it accrue to the benefit of any particular member. As the Respondent points out, the section instead refers to “the reduction or postponement of the tax that might otherwise have been or become payable under the Act”. [emphasis mine].
+139. In Penn West Petroleum Ltd. v. The Queen, 2007 TCC 190, then Chief Justice Bowman addressed this argument specifically at paragraph 45:
+45. There are three other arguments that should be mentioned briefly. The first is that there was no reduction of tax because the tax consequences merely got moved to Phillips. Certainly the purpose of the arrangement was to reduce the appellant's tax. I have no idea what Phillips' tax situation might have been at the time but if the intent is to reduce one taxpayer's tax this is in my view sufficient to invoke subsection 103(1).
+140. Clearly, the intent here was to transfer growth to future generations thus reducing the tax liability of the existing partnership members, predominantly the Appellants, and to have the income taxed in the trusts. The Appellants’ argument cannot stand. The wording of the allocation provisions of the partnership agreement and the oral evidence of the Appellants themselves confirm same. The Respondent has met its obligation to prove such fact.
+141. It is in my view equally applicable in the context of allocating losses to the three brothers instead of to all the partners so as to allow the brothers to reduce their tax that would otherwise be payable, however I am not asked to determine that specific issue since losses are not in play for AIGLP in 2007.
+142. Having regard to the scope of income transferred to the family trusts, I am content to adopt the views of McArthur J. in Krauss above, that “it is delusive to the point of absurdity, and betrays something more than aggressive tax planning”.
+143. While I agree with the Appellants that the scheme of the Act would allow parties to effect estate freezes that would allow the transfer of future growth, the members of the partnership effected no estate freezes here. Effect must be given to the legal relationships of the parties and the relationships here are that the members of the partnership owned their respective partnership units and the benefits and rights that flow from them; including the enjoyment of future income and cannot retain all those rights legally while at the same time transferring them to related parties.
+144. In my view, the transfer of almost all future income to the trusts, irrespective of other partners’ significant capital contributions, was the objective behind the allocation agreement. The allocation provisions of the AIGLP Partnership agreement make this abundantly clear.
+145. Consequently, although I do not disagree with the Respondent that one can look to the purposes for which the allocation agreement was utilized to determine whether the principal purpose of the allocation method was to reduce or postpone taxes otherwise payable, as per the dictum of Bowman C.J. in Penn West above at paragraph 46; which in the case at hand permitted the transfer of income to the family trusts who later appointed a new beneficiary having large accrued losses to which it essentially effected a transfer of the income pursuant to subsection 104(6) of the Act to reduce tax payable to nil; I simply do not feel it necessary to rely on that analysis since I have found the allocation method, in and of itself, results in the reduction of taxes otherwise payable by the remaining members save the family trusts. Moreover, I agree with the Appellants, that if the Minister did not challenge those transactions involving JPY earlier described, but in essence gave tacit approval to them by allowing the preferred beneficiary election to stand with respect to the reassessed income of the trusts on the Class G units, the Minister cannot now seek to taint such transactions as inappropriate tax reduction. I do however acknowledge that the fact the Appellants went back to their advisors to seek a method to reduce taxes at the trust level as soon as the need arose and the fact the trust agreements allowed for a third party to be appointed a beneficiary, which on its face seems contrary to the stated goals of passing future growth to lineal descendants, demonstrates to me that the actions of the Appellants were motivated primarily by tax concerns.
+146. I note that since I found the predominant or principal purpose of the allocation agreement to be a reduction in tax, the Appellants’ arguments that I should distinguish the cases the Respondent relied upon in connection with subsection 103(1), including XCO above and Penn West above on the basis tax was the sole motivation to the ephemeral participation of a new partner and involved amendments to the allocation agreement to affect same are not convincing. Again, in the case at hand, the initial allocation agreement is enough to bring subsection 103(1) into play and tax considerations were the predominant driver of the allocation arrangement.
+147. Moreover, I cannot accept in these circumstances that general creditor proofing and preservation of assets were the driving forces or purposes of the allocation for the following reasons:
+The evidence is that the family trusts were created in 1995 in response to Luigi’s concerns over Francesco’s former spouse’s claim to group assets as a result of the latter’s divorce. While spousal claims are a legitimate concern, the fact is the trusts did not come into existence until over 5 years later so it does not seem to have been as serious a concern as was portrayed. At trial, for the first time evidently, it was disclosed the spouses of the brothers were required to have pre-nuptial agreements so I fail to see why protection against spouses was an overriding concern in light of what I am assuming were effective marriage agreements. Moreover, as the Respondent has pointed out, there was no indication Luigi and Elisa had any concerns between themselves so why would there be a need to have the EAFT created?
+Although general creditor proofing is not an uncommon goal of business owners, the evidence is that the Appellants had no other sources of income other than from the partnerships in issue. This begs the question as to why they would have been concerned about outside creditors when there weren’t any to speak of.
+There were no other steps taken to insulate the value of the $130.8 million capital contributions made by Elisa and the brothers that they held directly or indirectly as partners of the 3 partnerships not owned by the 4 family trusts. Of the total initial capital contribution made to the AIGLP Partnership, the partnerships owned by the said trusts accounted for only $19.3 million of the $150.5 million total. It is clear that from inception and to this day the vast majority of capital contributing is still at risk to any creditors of the Appellants and will only cease being so as the assets of AIGLP are sold and the proceeds flow through primarily to the family trusts. The only logical reason to leave these interests exposed would be that there really was no concern for creditor proofing; certainly not as a primary concern.
+The only evidence outside the transaction documents outlining the purpose of the reorganization and allocation was a letter by the Appellants’ counsel to counsel for their bankers that described the reorganization as creating a tax efficient structure. While not decisive, it is telling that there was no evidence led by the Appellants through their tax advisors as to the primary purposes when they are alleging it was not tax driven.
+148. On the whole of the evidence and adopting the same analysis of factors as were discussed in subsection 103(1.1), being capital invested, work performed for the partnership and risk, since they appear to be the only circumstances a reasonable arm’s length business person having regard to their own business interests would need to consider in light of all the evidence, I arrive at the same conclusion that the allocation of income and losses to the Appellants was not reasonable. The Minister’s reassessment should stand.
+D. Summary of decision
+149. The appeals are dismissed for the 2007 taxation year. For the purpose of determining the Appellants’ losses from the AIGLP Partnership, the Minister is directed to allocate losses amongst the Appellants based on their initial capital contributions, but shall not disallow the portion of such losses utilized in 2003 since that year is not under appeal. To the extent any unused losses based on the aforesaid proper determination still then exist, the Appellants may apply their share as herein established to the 2007 year. Costs shall be awarded to the Respondent, provided that if any of the parties disagree with this cost award, they shall have 30 days from the date of this decision to submit their submissions on costs, failing which they shall be deemed to accept ordinary costs as the basis for the cost award.
+Signed at Ottawa, Canada, this 12th day of June 2019.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Schedule I
+CITATION:
+2019 TCC 132
+COURT FILE NOS.:
+2015-129(IT)G
+2015-131(IT)G
+2015-132(IT)G
+2015-133(IT)G
+2015-134(IT)G
+STYLES OF CAUSE:
+Estate of Elisa Aquilini v. Her Majesty the Queen
+Francesco Aquilini v. Her Majesty the Queen
+Paolo Aquilini v. Her Majesty the Queen
+Roberto Aquilini v. Her Majesty the Queen
+Atrium Investment Trust v. Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 3, 4, 5, 6, 7, 10 and 11, 2018 and May 6, 7 and 8, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice F.J. Pizzitelli
+DATE OF JUDGMENT:
+June 12, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Thomas M. Boddez
+Robert Carvalho Florence Sauve
+Counsel for the Respondent:
+Jasmine Sidhu
+Perry Derksen Kiel Walker Peter Campbell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert Carvalho
+Firm:
+Thorsteinssons LLP
+Vancouver, British Columbia
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,150 @@
+Title: St-Georges c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25993/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-688-25993-st-georges-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-11-23
+
+# St-Georges c. La Reine
+
+- Citation: 2004 CCI 688
+- Decision date: 2004-11-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3726, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Georges c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-23
+Référence neutre
+2004 CCI 688
+Numéro de dossier
+2000-5020(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-5020(IT)G
+ENTRE :
+JEAN-GUY ST-GEORGES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 7 mai 2004, à Montréal (Québec).
+Devant : L'honorable juge B. Paris
+Comparutions :
+Avocat de l'appelant :
+Me Christopher R. Mostovac
+Avocat de l'intimée :
+Me Mounes Ayadi
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1994 est rejeté avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 23e jour de novembre 2004.
+« B. Paris »
+Juge Paris
+Référence : 2004CCI688
+Date : 20041123
+Dossier : 2000-5020(IT)G
+ENTRE :
+JEAN-GUY ST-GEORGES,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] L'appelant est comptable agréé et syndic de faillite. En 1988, il a accepté d'agir à titre d'administrateur d'une société appartenant à un client de son cabinet. À cause de certains gestes qu'il a posés en sa qualité d'administrateur, il a été poursuivi et condamné à payer des dommages-intérêts. L'appelant réclame dans le calcul de son revenu pour l'année 1994 la déduction d'une perte de 187 467 $. Soit le montant qu'il a payé par suite de cette condamnation plus les frais juridiques, moins certains montants reçus pour des services rendus au cours de la poursuite. Le ministre du Revenu national (le « ministre » ) a refusé la déduction de la perte et l'appelant en appelle de cette décision.
+[2] Le montant de la perte subie par l'appelant n'est pas contesté par les parties. La seule question en litige est celle de savoir si les sommes nettes qu'il a payées au titre des frais et des dommages-intérêts auxquels il a été condamné peuvent être déduites comme dépenses d'entreprise.
+[3] L'appelant allègue que les sommes en litige ont été payées dans le cadre de son entreprise de comptabilité parce qu'il avait accepté d'agir comme administrateur à la demande d'un des clients de son entreprise.
+[4] L'intimée soutient, quant à elle que les dommages-intérêts accordés par la cour et les frais juridiques sont des dépenses qui n'ont pas été encourues par l'appelant pour tirer un revenu d'une entreprise, mais qui ont plutôt été encourues par lui en sa qualité d'administrateur, et que ces sommes ne peuvent donc pas être déduites dans le calcul de son revenu d'entreprise.
+Preuve
+[5] À l'audience, les parties ont produit une entente sur les faits dans laquelle les faits suivants ont été admis :
+1. L'Appelant est un comptable agréé et un syndic de faillite.
+2. Au cours de l'année 1994, l'Appelant exerçait sa profession de comptable par l'entremise d'un bureau de comptables dont il est propriétaire.
+3. L'Appelant est également l'unique actionnaire de la compagnie St-Georges Hébert Inc. qui était utilisée par l'Appelant à titre de véhicule pour comptabiliser et déclarer l'ensemble des revenus générés par son bureau de comptables ainsi que par les activités de syndic.
+4. Dans sa déclaration de revenus pour l'année d'imposition 1994, l'Appelant a déclaré à la ligne 130 (autres revenus) la somme de 94 579,00 $ représentant les montants qu'il a retirés de la société St-Georges Hébert Inc., somme qui, selon lui, représentait ses revenus nets de comptabilité et d'activités de syndic.
+5. L'Appelant a déclaré à la ligne 232 de sa déclaration de revenus pour l'année d'imposition 1994 une somme de 187 467,00 $, à titre de « autres déductions » .
+6. La somme de 187 467,00 $ mentionnée au paragraphe précédent représente une perte nette déclarée par l'Appelant eu égard au règlement d'une somme à laquelle il a été condamné suite à un jugement de la Cour supérieure du Québec en date du 23 (sic) décembre 1993, dans l'affaire de Standal's Patents Ltd (ci-après « Standal » ).
+7. Par son jugement, la Cour supérieure du Québec a condamné l'Appelant en sa qualité d'administrateur, solidairement avec les autres administrateurs de la société 160088 Canada inc. (anciennement Sweecan), à rembourser à la société Standal la somme de 1.9 million qui correspond à des dividendes déclarés illégalement.
+8. Bien que l'Appelant ait porté le jugement précité en appel devant la Cour d'Appel du Québec, cet appel a fait l'objet d'un abandon/rejet éventuel, et pour les fins du présent dossier devant la Cour canadienne de l'impôt, l'Appelant accepte les conclusions du tribunal et ne compte pas contredire les informations qui y sont contenues.
+[...].[1]
+10. En contrepartie des services rendus pour la préparation, l'implication et l'assistance reliées au procès tenu dans l'affaire Standal, l'Appelant aurait reçu une rémunération/compensation de l'ordre de 100 000,00 $ U.S. de M. Pinat.
+11. Quant à la transaction pour laquelle l'Appelant a été condamné solidairement avec les autres administrateurs, l'Appelant avait été nommé administrateur pour faciliter la transaction et n'eût été de sa relation professionnelle de comptable dans les circonstances, il n'aurait jamais accepté d'agir à titre d'administrateur.
+12. Suite à sa condamnation en décembre 1993 par la Cour supérieure, l'Appelant avait négocié un règlement avec les avocats de Standal, règlement qui s'est soldé par l'émission d'une quittance en contrepartie d'un paiement de 250 000,00 $ par l'Appelant.
+[6] L'appelant était le seul témoin à l'audience. Il a expliqué à la Cour que Gaston Pinat, l'unique actionnaire, par l'entremise d'une société de portefeuille (151095 Canada Inc.), de la société 160088 Canada Inc. ( « 160088 » ), était un client de son cabinet d'expertise comptable depuis 1960 et que, vers 1986 ou 1987, monsieur Pinat lui a fait part de son intention de vendre ses entreprises. Monsieur Pinat avait alors demandé à l'appelant de fournir des services de comptabilité relativement à cette vente.
+[7] Après avoir rencontré plusieurs acheteurs éventuels, monsieur Pinat a accepté une offre d'achat portant sur les éléments d'actif de la société 160088. Au moment de clore la vente, les avocats agissant pour le compte des acheteurs ont remarqué que 160088 ne comptait qu'un seul administrateur tandis que ses statuts constitutifs prévoyaient qu'il devait y avoir trois administrateurs. À leur demande, et pour faciliter la vente, l'appelant a accepté d'agir comme un des trois administrateurs de 160088. Il a affirmé qu'on lui avait demandé, et qu'on avait demandé également à l'avocat de la société, maître Moe Ackman, d'agir à titre d'administrateur uniquement pour parfaire la transaction. Il a réitéré qu'il n'aurait pas accepté d'agir à titre d'administrateur n'eût été sa relation de comptable avec monsieur Pinat.
+[8] Le cabinet de l'appelant a reçu des honoraires de 75 000 $ pour le travail relatif à la vente des actifs, c'est-à-dire pour environ 500 heures de travail au cours d'une période d'un an. Aucune rémunération n'a été versée à l'appelant pour avoir rempli son rôle d'administrateur de 160088.
+[9] La preuve révèle aussi qu'après la vente des actifs de 160088, l'appelant a participé à titre d'administrateur à la déclaration d'un dividende de 1 900 000 $ par 160088 en faveur de son actionnaire 151095 Canada Inc., dont monsieur Pinat détient toutes les actions.
+[10] Par la suite, monsieur Pinat a fait transférer cet argent à d'autres compagnies sous son contrôle et finalement à un compte en banque aux îles Caïmans.
+[11] Au moment de la déclaration du dividende, Standal Patents Ltd. poursuivait 160088 en Cour fédérale pour contrefaçon d'un brevet d'invention. Cette affaire, qui datait de 1980, a été décidée en faveur de Standal le 20 juillet 1989, et la Cour fédérale a condamné 160088 à payer à Standal la somme de 760 000 $ avec intérêts. Cette décision a été confirmée par la Cour d'appel fédérale le 12 avril 1992.
+[12] Pourtant, Standal était incapable de faire exécuter son jugement puisque 160088 ne possédait pas d'actifs. Standal a alors poursuivi 160088, son actionnaire et ses administrateurs devant la Cour supérieure du Québec et a demandé à celle-ci d'ordonner l'annulation du dividende déclaré par 160088 et de condamner les administrateurs et l'actionnaire à rembourser à 160088 la somme de 1 900 000 $.
+[13] La Cour supérieure du Québec a rendu un jugement le 22 décembre 1993, condamnant l'appelant en sa qualité d'administrateur, solidairement avec les autres administrateurs, à rembourser à Standal la somme de 1,900,000 $ tel que demandé.
+[14] La décision de la Cour supérieure du Québec a fait l'objet d'un appel, mais la Cour d'appel a exigé que les appelants déposent 2 000 000 $ à la cour avant de poursuivre l'appel. Comme les appelants n'étaient pas en mesure de fournir un dépôt à la satisfaction de la cour, leur appel a été rejeté.
+[15] À la suite du rejet de l'appel, l'appelant a conclu avec Standal une entente en vertu de laquelle il lui a payé 250 000 $ en quittance du montant qu'il avait été condamné à payer par la Cour supérieure du Québec.
+Débat
+[16] L'avocat de l'appelant a déclaré que la relation unissant ce dernier à 160088 était celle de comptable agissant dans le cadre de la vente des éléments d'actif de cette société, et que c'était dans ce contexte qu'on lui avait demandé d'agir comme administrateur pour signer un document permettant de parfaire la vente. Selon l'avocat, il ressort de la preuve que l'appelant n'aurait pas consenti à agir comme administrateur de 160088 n'eût été le fait qu'il fournissait des services de comptabilité à cette société et à son actionnaire. Pour cette raison, il est impossible de dissocier son rôle d'administrateur de 160088 de ses fonctions de comptable de cette même société et de monsieur Pinat.
+[17] Selon l'avocat de l'appelant, ce dernier poursuivait, globalement, une fin commerciale lorsqu'il travaillait pour 160088. Consentir à agir comme administrateur et signer le document de vente en cette qualité faisaient partie intégrante de son rôle de comptable et relevaient des tâches qui lui étaient confiées comme comptable. Par conséquent, toute responsabilité lui incombant en raison de ses actes accomplis comme administrateur devait nécessairement procéder des activités commerciales par lesquelles il gagnait un revenu d'entreprise.
+[18] L'avocat de l'appelant a également soutenu que le seul revenu que ce dernier a tiré de 160088 consistait en des honoraires de comptable, et qu'il n'était pas payé pour agir comme administrateur. En conséquence, la seule source de revenu à laquelle les dépenses pouvaient se rapporter était l'entreprise de comptabilité de l'appelant. Même si la Loi de l'impôt sur le revenu prévoit qu'une charge constitue une source de revenu distincte de celle qui est l'entreprise, l'avocat a fait valoir que les fonctions d'administrateur de 160088 confiées à l'appelant ne constituaient pas une « charge » au sens de la définition de ce terme, puisque l'appelant n'était pas payé pour agir en cette qualité. Le paragraphe 248(1) de la Loi définit le terme « charge » et les parties pertinentes de cette définition se lisent de la façon suivante :
+« charge » - Poste qu'occupe un particulier et qui lui donne droit à un traitement ou à une rémunération fixes ou vérifiables, [...] et comprend aussi le poste d'administrateur de société; [...]
+[19] De plus, selon l'avocat, les actes accomplis par l'appelant à titre d'administrateur de 160088 doivent être examinés dans le contexte des services de comptabilité qu'on lui a demandé de rendre, à savoir aider dans la vente des éléments d'actif de la société. À son avis, ces actes ne relevaient pas des fonctions habituelles d'un comptable, mais ont néanmoins été accomplis par l'appelant pour parfaire la transaction à la réalisation de laquelle il travaillait et pour aider son client.
+Analyse
+[20] Pour obtenir gain de cause dans le présent appel, l'appelant est tenu d'établir que les sommes en litige ne constituaient pas des dépenses liées à une charge qu'il occupait, et qu'il s'agissait plutôt de dépenses engagées par lui dans le cadre de l'exploitation d'une entreprise. De façon générale, les dommages-intérêts sont déductibles comme dépense d'entreprise lorsque la conduite en raison de laquelle la cour les a accordés fait partie des activités commerciales du contribuable[2].
+[21] Si le fait, pour l'appelant, de remplir les fonctions d'administrateur de 160088 constituait une charge au sens de la définition de ce terme donnée au paragraphe 248(1) de la Loi, il s'ensuivrait que les activités qu'il a exercées en tant qu'administrateur constitueraient pour lui une source distincte de revenu suivant la Loi. Les articles 5 à 8 de la Loi régissent le calcul du revenu tiré d'une charge et ne prévoient que des déductions bien précises. Or, les pertes liées à la responsabilité engagée dans l'exercice d'une charge ne font pas partie des déductions permises.
+[22] Cependant, je conviens avec l'avocat de l'appelantqu'un administrateur d'une société qui n'a droit à aucune rémunération pour agir en cette qualité n'occupe pas une charge au sens de la Loi. La définition que donne la Loi du terme « charge » comporte la condition suivante : le poste qu'on tente d'assimiler à une charge doit donner à son titulaire droit « à un traitement ou à une rémunération fixes ou vérifiables » . Cette condition est obligatoire[3]. Il n'est pas contesté que l'appelant n'avait pas droit à une rémunération pour agir comme administrateur; par conséquent, ses fonctions d'administrateur chez 160088 ne constituaient pas une charge au sens que la Loi donne à ce terme.
+[23] La prochaine question en litige qu'il m'appartient de trancher est donc celle de savoir si les actes que l'appelant a accomplis à titre d'administrateur de 160088 et qui ont donné lieu aux dommages-intérêts ont été accomplis dans le cadre d'une entreprise qu'il exploitait. Il s'agit d'une question à deux volets : l'appelant exploitait-il une entreprise et, dans l'affirmative, la dépense dont il a demandé la déduction a-t-elle été engagée en vue de tirer un revenu de cette entreprise?
+[24] Malheureusement, j'estime que l'appelant n'a pas réussi à établir un lien entre la déclaration du dividende par lui et les autres administrateurs de 160088 et une entreprise quelconque qu'il aurait exploitée à titre personnel. Il appert que les services comptables reliés à la vente des éléments d'actif ont été fournis à monsieur Pinat et à 160088 par l'entremise d'une société appartenant à l'appelant St-Georges Hébert Inc. et non pas par l'appelant personnellement.
+[25] Dans son témoignage, l'appelant a précisé que monsieur Pinat était client de son cabinet d'expertise comptable depuis 1960 environ et que son cabinet avait reçu 75 000 $ pour le travail lié à la vente des éléments d'actif. Selon l'hypothèse du ministre formulée à l'alinéa 20c) de la réponse à l'avis d'appel modifié, les revenus du cabinet étaient déclarés comme les revenus de St-Georges Hébert Inc. Cela signifie que les honoraires qui ont été versés par monsieur Pinat au cabinet d'expertise comptable pour les services relatifs à la vente des éléments d'actif de 160088 étaient déclarés à titre de revenus de St-Georges Hébert Inc. gagnés dans le cadre de l'entreprise exploitée par celle-ci et non dans le cadre d'une entreprise exploitée par l'appelant.
+[26] Le point de vue suivant lequel l'appelant est devenu administrateur de 160088 dans le contexte de la fourniture de services comptables à monsieur Pinat par le truchement du cabinet d'expertise comptable de l'appelant, et donc par le truchement de St-Georges Hébert Inc., est étayé par la preuve : l'appelant a affirmé que sa nomination comme administrateur de 160088 visait uniquement à faire en sorte que la vente des éléments d'actif ait lieu sans délai. Rien n'indique que l'appelant exploitait une entreprise d'expertise comptable à titre personnel parallèlement à celle qu'il dirigeait par le truchement de son cabinet et de la société St-Georges Hébert Inc., ni qu'il recevait, à titre personnel, un revenu d'entreprise de monsieur Pinat ou de 160088 à ce moment-là.
+[27] Je suis conscient du fait que l'appelant a reçu 100 000 $US de monsieur Pinat pour des services qu'il a rendus relativement à la poursuite intentée par Standal, et qu'il a déclaré cette somme dans sa propre déclaration de revenus de 1994 en la déduisant dumontant des dommages-intérêts qu'il a versés à Standal, mais ce seul facteur ne suffit pas à prouver qu'il exploitait une entreprise à titre personnel au moment où il a participé à la déclaration d'un dividende en 1988. La preuve ne permet nullement de croire que ce paiement a été reçu dans le cadre d'une activité continue englobant la déclaration du dividende.
+[28] En outre, et même si ce fait n'est pas déterminant, il n'en demeure pas moins que l'appelant, dans sa déclaration de revenus, a inscrit sa perte nette résultant des dommages-intérêts accordés par la cour, après avoir tenu compte du paiement reçu de monsieur Pinat, sous la rubrique « autres déductions » plutôt qu'à titre de perte d'entreprise ou de perte ou découlant de l'exercice d'une profession.
+[29] Comme il n'a pas été montré qu'au moment de la déclaration du dividende l'appelant exploitait une entreprise à titre personnel, on ne peut prétendre que les dommages-intérêts et frais connexes payés par lui l'ont été en vue de tirer un revenu d'une entreprise. Ces sommes ne sont donc pas déductibles dans le calcul de son revenu.
+[30] Même si j'étais arrivé à la conclusion que l'appelant a fourni des services de comptabilité à monsieur Pinat et à 160088 pour son propre compte plutôt que pour le compte de son entreprise, il ne se serait pas ensuivi qu'il aurait pu déduire les sommes en litige. Il appartient à l'appelant de prouver que la déclaration du dividende à l'égard de laquelle il a ensuite été tenu responsable constituait un acte accompli dans le cadre de l'exploitation d'une entreprise pour son compte. Or, je ne suis pas convaincu que l'appelant s'est acquitté de cette obligation.
+[31] Manifestement, la vente des éléments d'actif de 160088 et la déclaration du dividende constituaient des opérations distinctes qui ont eu lieu à plusieurs mois d'intervalle. Même si on a affirmé que le dividende avait été déclaré le 1er février 1988, la Cour supérieure du Québec a dit :
+Au mieux, la déclaration de dividende de 1,900,000.00$ a pu être faite en septembre 1988, tous les documents de la compagnie 160088 datés du 1er février 1988 ont été faits bien après cette date [...][4].
+[32] Aucune preuve n'a été présentée quant aux raisons qui ont incité l'appelant à continuer d'agir comme administrateur de la société 160088 une fois les éléments d'actif vendus et à participer à la déclaration du dividende. Le seul élément de preuve dont je dispose est l'assertion de l'appelant qu'il est devenu administrateur pour parfaire la vente des éléments d'actif. Cette fin ne peut être liée à la déclaration du dividende et, en l'absence d'une preuve touchant la façon dont cette déclaration du dividende se rapporte à l'entreprise censément exploitée par l'appelant, rien ne m'autorise à lui permettre de déduire la somme en litige.
+[33] Il est difficile d'imaginer dans quelles circonstances un administrateur pourrait déclarer un dividende en vue de tirer un revenu d'une entreprise distincte et non reliée qu'il exploite. En l'espèce, aucune circonstance de cette nature n'a été mise en preuve.
+[34] Pour toutes ces raisons, l'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 23e jour de novembre 2004.
+« B. Paris »
+Juge Paris
+RÉFÉRENCE :
+2004CCI688
+No DU DOSSIER DE LA COUR :
+2000-5020(IT)G
+INTITULÉ DE LA CAUSE :
+Jean-Guy St-Georges et S.M.R.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 7 mai 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+le 23 novembre 2004
+COMPARUTIONS :
+Pour l'appelant(e) :
+Me Christopher R. Mostovac
+Pour l'intimé(e) :
+Me Mounes Ayadi
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Me Christopher R. Mostovac
+Étude :
+Ravinsky Ryan
+Montréal (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pour faciliter la compréhension des faits, j'ai omis ici le paragraphe 9 de l'entente sur les faits, qui dit : En contrepartie des services comptables rendus à l'égard de la vente des actifs de la société Sweecan, l'Appelant aurait facturé 75 000,00 $ à M. Pinat et/ou à une des ses sociétés.
+[2] 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804, Imperial Oil Ltd. v. M.N.R., [1947] C.T.C. 353, McNeill c. Canada, [2000] 4 C.F. 132
+[3] Merchant c. La Reine, [1984] 2 C.F. 197, aux pages 201 et 202.
+[4] Pièce I-1, onglet 5: motifs du jugement dans l'affaire de Standal's Patents Ltd. c. 160088 Canada Inc. et autres, aux pages 48 et 49.

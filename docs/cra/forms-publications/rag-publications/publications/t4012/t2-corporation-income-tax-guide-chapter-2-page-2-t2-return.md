@@ -1,0 +1,566 @@
+---
+title: "T2 Corporation – Income Tax Guide – Chapter 2: Page 2 of the T2 return"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-2-page-2-t2-return.html
+last_modified: 2026-05-28
+---
+# T2 Corporation – Income Tax Guide – Chapter 2: Page 2 of the T2 return
+
+## Attachments
+
+Schedules can be organized into two categories:
+
+- **information schedules**, including general information schedules and those relating to transactions with non-residents
+
+- **calculation schedules**, including schedules used to calculate net income, taxable income, deductions, taxes, and credits
+
+You will find a complete list of the schedules at the end of this guide. The schedules are available at [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html). You can also get them by [contacting the CRA](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html). To file the schedules the CRA does not publish, such as Schedule 92, gather the requested information and label it with the schedule number in the top right-hand corner of each page.
+
+On pages 2 and 3 of the return, you will find a list of the most common schedules you may have to attach to your return. If you respond **yes** to any of the questions on these pages, attach to your T2 return the schedule that applies, unless otherwise instructed.
+
+### Financial statements or General Index of Financial Information (GIFI)
+
+Each corporation should include complete financial statement information for the tax year of the return using the [General Index of Financial Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4088.html).
+
+You do NOT have to file paper financial statements or notes to financial statements if you file that year's T2 return electronically.
+
+Certain non-resident corporations do not have to file using GIFI. For more information, see [Guide RC4088, General Index of Financial Information (GIFI)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4088.html).
+
+GIFI schedules include:
+
+- [Schedule 100, Balance Sheet Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch100.html)
+
+- [Schedule 125, Income Statement Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch125.html), and, if necessary, Schedule 140, Summary Income Statement (You will find Schedule 140 at the end of Schedule 125.)
+
+- [Schedule 141, General Index of Financial Information (GIFI) – Additional Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch141.html). Schedule 141 is a set of questions designed to determine who prepared the financial statements and the extent of their involvement, and to identify the type of information contained in the notes to the financial statements
+
+Include any notes to the financial statements and the auditor or accountant's report, if they were prepared. You should include this information even if you are filing your return using tax preparation software. You can include any notes to the financial statements and auditor or accountant's report on the GIFI when transmitting your return electronically. For more information, see [Using tax preparation software](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html).
+
+When preparing the first return for a new corporation, attach all of the following documents:
+
+- [Schedule 101, Opening Balance Sheet Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch101.html)
+
+- copies of all relevant agreements or the full details on shares issued for anything other than cash consideration, if they apply
+
+- if it applies, the closing balance sheet of the proprietorship, partnership, or corporation if the new corporation acquired the assets or business, or assumed the liabilities of a former proprietorship, partnership, or corporation
+
+Corporations that are inactive throughout the tax year and that do not have balance sheet or income statement information to report do not have to attach schedules [100](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch100.html), [125](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch125.html), and [141](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch141.html) to their T2 return. However, they will be accepted if filed.
+
+The GIFI schedules are to be completed with information from the corporation's financial statements. These schedules are laid out with a "column A" where the appropriate GIFI code is entered, and a "column B" where the corresponding dollar amount is entered.
+
+The GIFI is included in all tax preparation software packages certified by the CRA and in most accounting software.
+
+For more information on the GIFI, see [Guide RC4088, General Index of Financial Information (GIFI)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4088.html).
+
+## Information schedules and forms
+
+The following section describes the various general information schedules and forms you may have to complete.
+
+### Schedule 9, Related and Associated Corporations
+
+Complete [Schedule 9](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch9.html) if the corporation is related to or associated with at least one other corporation.
+
+**Reference** Sections 251 and 256
+
+#### When is a corporation associated?
+
+Association is based on control. Control can be exerted either **directly or indirectly in any way**. A person or a group of persons can control a corporation. Keep in mind that, in this context, a **person** can be either an individual or a corporation.
+
+Control includes both de jure control and de facto control. **De jure control** is the right of control that depends on a person owning enough shares of a corporation to give that person a majority of the voting power. **De facto control**, or factual control, occurs when a corporation is subject to any direct or indirect influencing that, if exercised, would result in actual control being exerted.
+
+When determining whether a taxpayer has any direct or indirect influence that, if exercised, would result in factual control of the corporation, one must:
+
+- take into consideration all factors that are relevant in the circumstances
+
+- not be limited to whether the taxpayer has a legally enforceable right or ability to make a change in the board of directors of the corporation, or the board's power, or to exercise influence over the shareholder(s) who have that right or ability. The previous factors are not mandatory in determining factual control
+
+In general, a corporation is associated with another corporation if it meets **one** of the following six conditions at any time in the tax year. Remember that **controlled** means directly or indirectly in any way.
+
+##### Condition 1
+
+The corporations are associated if one corporation controls the other.
+
+Corp X owns 100% of the voting shares of Corp Y, which in turn owns 51% of the voting shares of Corp Z.
+
+Corp X is associated with Corp Y because it exerts direct control over it.
+
+Corp X is associated with Corp Z because it exerts indirect control over it.
+
+##### Condition 2
+
+The corporations are associated if both corporations are controlled by the same person or group of persons.
+
+Corporations may be associated because the same group of persons controls both corporations, but the members of this group do not act together and have no other connection to each other.
+
+CCPCs that are associated only because of this definition of a group will NOT be considered associated when:
+
+- calculating the refundable investment tax credit on qualified SR&ED expenditures
+
+- calculating the expenditure limit
+
+- allocating the expenditure limit
+
+For this exception to apply, one of the corporations must have at least one shareholder who is not common to both corporations.
+
+The corporations will continue to be associated for all other purposes of the [Income Tax Act](http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html).
+
+Bob owns 40% of the voting shares of Corp ABC and 30% of the voting shares of Corp XYZ. Ike owns 20% of the voting shares of Corp ABC and 40% of the voting shares of Corp XYZ.
+
+As a group, Bob and Ike control both companies. Corps ABCand XYZ are associated.
+
+##### Condition 3
+
+The corporations are associated if all of the following apply:
+
+- each corporation is controlled by one person
+
+- that person is related to the person controlling the other corporation
+
+- one of those persons owns at least 25% of the issued shares of any class, other than shares of a specified class, of the capital stock of each corporation
+
+Billy owns 100% of the issued share capital of Corp AB. He also owns 25% of the class A shares (other than shares of a specified class) of Corp CD, whose controlling shareholder is Billy's brother.
+
+Corps AB and CD are associated.
+
+##### Condition 4
+
+The corporations are associated if all of the following apply:
+
+- one corporation is controlled by one person
+
+- that person is related to each member of a group of persons who controls the other corporation
+
+- that person owns at least 25% of the issued shares of any class, other than shares of a specified class, of the capital stock of the other corporation
+
+Buddy controls Corp AY. His two daughters control Corp AZ. Buddy also owns 50% of the class A preferred shares of Corp AZ.
+
+Corps AY and AZ are associated.
+
+##### Condition 5
+
+The corporations are associated if all of the following apply:
+
+- each corporation is controlled by a related group
+
+- each of the members of one of the related groups is related to all members of the other related group
+
+- one or more persons who are members of both related groups, either alone or together, own at least 25% of the issued shares of any class, other than shares of a specified class, of the capital stock of each corporation
+
+Anne and her two daughters control Corp One. Anne and her two sons control Corp Two. Anne owns 33% of the common shares in each corporation.
+
+Corps Oneand Two are associated.
+
+##### Condition 6
+
+Under subsection 256(2), two corporations that are not associated with each other will be considered associated if they are associated with the same corporation (the third corporation). Special rules apply for determining the small business deduction. See [Schedule 28, Election not to be Associated Through a Third Corporation](#P1031_87947) for details.
+
+Corp AB owns 100% of the issued share capital of Corp CD. It also owns 25% of the class A shares (other than shares of a specified class) of Corp XY, whose controlling shareholder is Billy. Billy's brother controls Corp AB.
+
+Corps AB, CD, and XY are associated.
+
+**References** Section 251 Subsections 256(1), (1.1), (1.2), (2), and (5.1)[Interpretation Bulletin IT-64, Corporations: Association and Control](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it64r4-consolid.html)[Income Tax Folio S1-F5-C1, Related Persons and Dealing at Arm's Length](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-1-individuals/folio-5-transfer-income-property-rights-third-parties/income-tax-folio-s1-f5-c1-related-persons-dealing-arms-length.html)
+
+### Schedule 23, Agreement Among Associated Canadian-Controlled Private Corporations to Allocate the Business Limit
+
+All **CCPCs** that are associated have to file [Schedule 23](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch23.html).
+
+This schedule is used to:
+
+- identify all the corporations to establish:
+
+    - the date the balance of tax is due (see [Balance-due day](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-before-you-start.html))
+
+    - the calculation of the reduction to the business limit
+
+- allocate a percentage of the business limit to each associated corporation. The total of all percentages cannot be more than 100%. The maximum business limit is provided at [Line 410 – Business limit](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-4-page-4-t2-return.html).
+
+Only one of the associated or related corporations needs to file Schedule 23 for a calendar year. However, if Schedule 23 is not already on file when the CRA assesses any of the returns for a tax year ending in the calendar year of the agreement, it will ask for one.
+
+If the corporation's tax year is shorter than 51 weeks, prorate the business limit allocated in column 400 of Schedule 23 based on the number of days in the tax year divided by 365.
+
+#### Associated corporations with more than one tax year in a calendar year
+
+Special rules apply to determine the business limit for associated corporations that have more than one tax year ending in the same calendar year.
+
+For the second or later tax years that end in the same calendar year, the business limit is whichever of the following amounts is less:
+
+- the amount allocated to the corporation for the first tax year
+
+- the amount allocated to the corporation for the later tax year in question
+
+Make sure the total of the business limits of all associated corporations for any tax years that end in the same calendar year is not more than the maximum allowable business limit for that calendar year.
+
+If the corporation's tax year is shorter than 51 weeks, prorate the business limit as determined above, based on the number of days in the tax year divided by 365.
+
+Corp A and Corp B are associated in 2025.
+
+Corp A's tax year runs from January 1, 2025, to June 30, 2025.
+
+The business limit allocated to Corp A for its June 30, 2025, tax year is $100,000.
+
+On November 1, 2025, Corp C becomes associated with Corp A and Corp B. The tax year-end for Corp C is December 31, 2025. Corp A and Corp B change their year-ends to match Corp C's year-end.
+
+The corporations decide to allocate a $300,000 business limit to Corp C for the December 31, 2025, year-end. Because the total of their business limits cannot be more than $500,000, the corporations allocate $90,000 to Corp A and $110,000 to Corp B.
+
+**Question** What is Corp A's business limit for each of the two tax years ending in the 2025 calendar year?
+
+**Answer Tax year ending June 30, 2025:**
+
+Because the tax year is shorter than 51 weeks, Corp A prorates the business limit for the number of days in the tax year as follows:
+
+$100,000 × (181 days ÷ 365 days) = $49,589
+
+365 is not adjusted for a leap year.
+
+**Tax year ending December 31, 2025:**
+
+Because the tax year is shorter than 51 weeks, Corp A prorates the business limit for the number of days in the tax year. Corp A uses the $90,000 business limit allocated in this tax year, because it is less than the $100,000 business limit allocated in its first tax year ending in 2025.
+
+Corp A prorates the business limit as follows:
+
+$90,000 × (184 days ÷ 365 days) = $45,370
+
+365 is not adjusted for a leap year.
+
+**Reference** Subsection 125(5)
+
+### Schedule 49, Agreement Among Associated Canadian-Controlled Private Corporations to Allocate the Expenditure Limit
+
+All **CCPCs** that are associated and have scientific research and experimental development (SR&ED) expenditures have to file [Schedule 49](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch49.html). These corporations use this form to:
+
+- identify all the associated corporations
+
+- allocate the expenditure limit for the 35% ITC rate on qualifying SR&ED expenditures
+
+For more details about the ITC, see [Lines 652 and 780](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-7-page-8-t2-return.html).
+
+Only one of the associated or related corporations needs to file Schedule 49 for a calendar year. However, if Schedule 49 is not already on file when the CRA assesses any of the returns for a tax year ending in the calendar year of the agreement, it will ask for one.
+
+#### Associated corporations with more than one tax year in a calendar year
+
+Special rules apply to determine the expenditure limit for associated corporations that have more than one tax year ending in the same calendar year. Prorate the expenditure limit for each tax year ending in the calendar year based on the number of days in the tax year divided by 365.
+
+Be sure that the amount you prorate for each of the tax years is equal to the amount allocated to the corporation for the first tax year ending in the calendar year.
+
+**References** Subsections 127(10.3) and 127(10.6)
+
+### Schedule 28, Election not to be Associated Through a Third Corporation
+
+File [Schedule 28](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch28.html) if a CCPC that is associated with two other corporations elects under subsection 256(2) for the two other corporations **not** to be associated with each other for the purposes of the small business deduction.
+
+Two corporations (Corps A and B) that are not associated with each other are considered associated under subsection 256(2) if they are associated with the same corporation (the third corporation).
+
+When the CCPC (the third corporation) makes this election, its business limit for the small business deduction is considered to be zero.
+
+Investment income received from either of the two other corporations' active business will be ineligible for the small business deduction as it will not be treated as active business income.
+
+Corps A and B remain associated with the CCPC. They must include the taxable capital limit of the CCPC when calculating the small business deduction.
+
+The CCPC has to file a new election for each applicable tax year.
+
+**Reference** Subsection 256(2)
+
+### Schedule 19, Non-Resident Shareholder Information
+
+Complete [Schedule 19](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch19.html) if a non-resident shareholder owned a voting share of any class of the corporation's capital stock at any time during the tax year. Do not include non-voting shares.
+
+### Schedule 11, Transactions with Shareholders, Officers, or Employees
+
+Complete [Schedule 11](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch11.html) if the corporation had transactions with shareholders, officers, or employees.
+
+Do not include transactions the corporation carried out in the ordinary course of business, or any transactions listed on [Form T106, Information Return of Non-Arm's Length Transactions with Non-Residents](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t106.html). See [Form T106](#P1109_94857) for details.
+
+If the corporation is involved in a transfer of property under section 85, make sure to file either [Form T2057, Election on Disposition of Property by a Taxpayer to a Taxable Canadian Corporation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2057.html), or [Form T2058, Election on Disposition of Property by a Partnership to a Taxable Canadian Corporation](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2058.html). File Form T2058 when property is transferred from a partnership. File Form T2057 in all other cases.
+
+Since February 2024, forms T2057 and T2058 can be e-filed.
+
+### Schedule 44, Non-Arm's Length Transactions
+
+Complete [Schedule 44](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch44.html) if **all or substantially all** of the assets of a non-arm's length corporation are transferred to or received by you in the tax year and subsections 85(1), 85(2) or 142.7(3) applied to any of the transactions.
+
+Generally, the CRA considers **all or substantially all** to be at least 90%. You have to evaluate all assets at cost or fair market value.
+
+When this kind of non-arm's length transaction takes place, the instalment requirements of the transferee corporation have to take into account those of the transferor corporation.
+
+**Reference** Regulation 5301(8)
+
+### Schedule 14, Miscellaneous Payments to Residents
+
+Complete [Schedule 14](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch14.html) if you made any of the following payments to residents of Canada:
+
+- royalties for which you have not filed a T5 slip, Statement of Investment Income
+
+- research and development fees
+
+- management fees
+
+- technical assistance fees[Footnote1](#fn1)
+
+- similar payments
+
+List only the payments that were more than $100.
+
+### Schedule 15, Deferred Income Plans
+
+Complete [Schedule 15](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch15.html) if you deducted from your income payments you made to deferred income plans, such as:
+
+- a registered pension plan
+
+- a pooled registered pension plan (see limits and conditions in [Information Circular IC13-1](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic13-1.html))
+
+- a registered supplementary unemployment benefit plan
+
+- a deferred profit sharing plan
+
+- an employees profit sharing plan
+
+**References** Subsections 146(1) and 147.5(10) Paragraphs 20(1)(q) and 147.5(3)(b)[Information Circular IC13-1, Pooled registered pension plans (PRPP)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic13-1.html)
+
+### Form T5004, Claim for Tax Shelter Loss or Deduction
+
+If you are claiming a loss or deduction from an interest in a tax shelter, file [Form T5004](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5004.html) with your return.
+
+The promoter has to prepare [Form T5003, Statement of Tax Shelter Information](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5003.html), and send copies to each investor. Attach copy 2 of Form T5003 to your return.
+
+Use the following guidelines to complete your T2 return and schedules:
+
+- for a gift, use line 311, 313, or 314 of the return, whichever applies
+
+- for a limited partnership loss (see [Part 7 – Limited partnership losses](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)), use lines 600 to 620 of Schedule 4, and line 222 of Schedule 1
+
+- for a business investment loss, use lines 900 to 950 of Schedule 6
+
+- for any other losses or deductions, use lines 395, 396 and 705 of Schedule 1
+
+**Reference**[Information Circular IC89-4, Tax Shelter Reporting](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/ic89-4.html)
+
+### Information slip T5013, Statement of Partnership Income
+
+If you are a member of a partnership, attach to your return a list of all the partnership account numbers assigned to the partnerships of which you are a member.
+
+Corporate partners that receive a T5013 information slip do not have to file it with their return. They should keep it in case the CRA asks for it later.
+
+Each partnership has to file a [T5013 FIN, Partnership Financial Return](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013fin.html) and [T5013 SUM, Information Slips Summary](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t5013sum.html), for each fiscal period. However, some partnerships are exempt from this requirement. For more information, see [Guide T4068, Guide for the Partnership Information Return (T5013 Forms)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4068.html).
+
+Except where an election is filed under subsection 249.1(4), for the tax year that includes the first day of the first fiscal period of a business, partnerships with at least one member who is an individual, a professional corporation, or another affected partnership have to have a December 31 fiscal period end.
+
+Certain partnerships in a multi-tier partnership structure also have to have a December 31 fiscal period end unless a valid multi-tier alignment election was made to align to a common fiscal period. The eligible period to make this one‑time election has ended.
+
+### Schedule 22, Non-Resident Discretionary Trust
+
+Complete [Schedule 22](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch22.html) if the corporation, a foreign affiliate the corporation controls, or any other corporation or trust that did not deal at arm's length with the corporation, had a beneficial interest in a non-resident discretionary trust anytime during the tax year (without reference to section 94).
+
+### Schedule 25, Investment in Foreign Affiliates
+
+Complete [Schedule 25](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch25.html) if the corporation is resident in Canada and holds shares in one or more foreign affiliates, as defined in subsection 95(1).
+
+### Schedule 29, Payments to Non-Residents
+
+Complete [Schedule 29](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch29.html) if the corporation paid or credited any of the following amounts to non-residents:
+
+1. royalties
+
+2. rents
+
+3. management fees/commissions
+
+4. technical assistance fees[Footnote2](#fn2)
+
+5. research and development fees
+
+6. interest
+
+7. dividends
+
+8. film acting payments:
+
+    - for a motion picture film
+
+    - for a film or videotape for use in connection with television
+
+9. other services
+
+If the total amount paid or credited to a payee is less than $100, you do not have to complete this schedule with the information for that payee.
+
+A corporation that makes payments or credits amounts to non-residents under [Regulations 202(1) and/ or 105(1)](https://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._945/index.html) has to file the applicable information return.
+
+**Thin capitalization rules: Disallowed interest treated as a dividend**– Interest disallowed as a deduction under the thin capitalization rules (including amounts paid, credited, or payable to a non resident by the corporation or by a partnership that the corporation is directly or indirectly a member of) will be deemed to be a dividend paid to the non-resident. As a result, the corporation has to remit Part XIII tax using the rate that applies to dividend payments.
+
+The corporation **may designate**, on or before its filing due date for the tax year, which amounts paid or credited in the tax year as interest to a particular specified non-resident are to be deemed dividends. The designation may be included with the notes to the financial statements.
+
+**References**Subsections 18(4), 214(16) and 214(17)Regulations 105(1) and 202(1)
+
+### Form T106, Information Return of Non-Arm's Length Transactions With Non-Residents
+
+Form T106 is an annual information return on which you report the corporation's activities with certain non-resident persons under section 233.1.
+
+File [Form T106](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t106.html) if all of the following apply:
+
+- at any time in the tax year, you were either a resident in Canada or a non-resident that carried on business (other than as a member of a partnership) in Canada
+
+- you entered into reportable transactions with a non-resident person with whom you were not dealing at arm's length at any time in the year and partnerships of which the non-resident person is a member
+
+- the total reportable transactions are more than CAN $1,000,000
+
+Form T106 consists of the T106 Summary and the T106 slips. File a separate T106 slip for each non-resident.
+
+On Form T106, report all transactions between you and the non-resident, including those transactions concerning:
+
+- tangible property
+
+- rents
+
+- royalties and intangible property
+
+- services
+
+- advances, loans, or other accounts receivable or payable, to or from a non-resident (beginning and ending balances including gross increases and decreases)
+
+File Form T106 **within six months of the end of the reporting corporation's tax year**. Send it to the following address:
+
+Winnipeg Tax Centre Data Assessment and Evaluation Programs Validation and Verification Section Foreign Reporting Returns 66 Stapon Road Winnipeg MB R3C 3M2
+
+If you file Form T106 late, the corporation will be subject to penalties. When the due date falls on a Saturday, Sunday, or public holiday recognized by the CRA, your return is considered on time if the CRA receives it or if it is postmarked on or before the next business day. Several provinces and territories have their own unique holidays. Therefore, due dates may be affected depending on where you reside. See the details on [Public holidays](https://www.canada.ca/en/revenue-agency/services/tax/public-holidays.html).
+
+**References** Sections 233.1 and 251 Subsections 162(7) and 162(10)
+
+### Foreign property
+
+#### Foreign affiliates
+
+The foreign affiliate dumping rules are intended to prevent surplus from being stripped out of Canada without tax. These rules, applicable to corporations resident in Canada controlled by a non-resident corporation, also apply to corporations resident in Canada that are controlled by a non-resident individual, non-resident trust or group made up of any combination of non-resident corporations, non-resident individuals and non-resident trusts that do not deal with each other at arm's length.
+
+A corporation resident in Canada, of which a non-resident corporation is a foreign affiliate at any time in the year, must file [Form T1134, Information Return Relating to Controlled and Not-Controlled Foreign Affiliates](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1134.html). A separate supplement has to be filed for each foreign affiliate.
+
+The corporation has to file Form T1134:
+
+- within 15 months after the end of its tax year for tax years starting (TYS) before 2020
+
+- within 12 months after the end of its tax year for TYS in 2020
+
+- within 10 months after the end of its tax year for TYS after 2020
+
+You can EFILE Form T1134. For more information about filing, see that form.
+
+#### Beneficiaries of non-resident trusts
+
+A corporation may have received, in the year, funds or property from, or been indebted to, a non-resident trust in which it had a beneficial interest. If so, you have to complete and file [Form T1142, Information Return in Respect of Distributions From and Indebtedness to a Non-Resident Trust.](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1142.html)
+
+A separate form has to be filed for each non-resident trust. Form T1142 contains more information about filing.
+
+#### Transfers to non-resident trusts
+
+A corporation may have transferred or loaned funds or property to a non-resident trust. If so, you may have to complete and file [Form T1141, Information Return in Respect of Contributions to Non-Resident Trusts, Arrangements or Entities](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1141.html).
+
+A separate form has to be filed for each non-resident trust. Form T1141 contains more information about filing.
+
+#### Ownership of foreign property
+
+If, at any time in the year, the corporation owned or held specified foreign property where the total cost of all such property was more than CAN$100,000, you have to complete and file [Form T1135, Foreign Income Verification Statement](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1135.html).
+
+If the total cost of all such property is less than CAN$250,000 throughout the year, the corporation may use the simplified reporting method included in Form T1135.
+
+Specified foreign property does **not** include, for example:
+
+- foreign investments held in Canadian mutual funds
+
+- property you used or held exclusively in the course of carrying on your active business
+
+- a share of the capital stock or indebtedness of a foreign affiliate
+
+For more information on the property you are required to report, see [Form T1135](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1135.html) or go to [Foreign Income Verification Statement](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/foreign-reporting/foreign-income-verification-statement.html).
+
+You can EFILE Form T1135. For more information about filing, see that form.
+
+#### Non-resident trusts (NRTs) and offshore investment fund property (OIFP)
+
+NRTs with a resident contributor or a resident beneficiary are deemed to be resident in Canada throughout the year for many purposes under the Act including determining the liability of the trust for tax under Part I. As deemed resident trusts, they will also have the obligation to withhold and remit Part XIII tax on amounts paid to non-residents. However, the deemed resident trusts themselves will not be liable under Part XIII.
+
+Also, the resident contributor and/or resident beneficiary are deemed to be jointly, severally, and solidarily liable for the trust's Canadian tax liability and reporting obligations. This means that a corporation that is a resident contributor or resident beneficiary to a trust is jointly, severally and solidarily liable for the Canadian tax liability and reporting obligation of that trust.
+
+Corporations with an interest in an OIFP may have to include an amount in their income as determined under the Act.
+
+For more information about NRTs and OIFP, including the specific definitions of **resident contributor, resident beneficiary**, and **offshore investment fund property**, [contact the CRA](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+**References** Section 94.1 Subsections 94(3) and 94(4)
+
+#### Penalties
+
+There are substantial penalties for not completing and filing Forms T1134, T1135, T1141, and T1142 by the due date, and for knowingly or under circumstances amounting to gross negligence making false statements or omissions in any of the information returns.
+
+**References** Sections 233.1 to 233.6 Subsections 162(7), 162(10), 162(10.1), and 163(2.4)
+
+### Schedule 50, Shareholder Information
+
+Complete [Schedule 50](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch50.html) if you are a private corporation and if any shareholder holds 10% or more of your common and/or preferred shares. Give a maximum of the 10 top shareholders and the requested information.
+
+Generally, each share in the corporation entitles the shareholder to one vote. Lines 400 and 500 of Schedule 50 do refer to percentage of votes.
+
+### Line 172 – Has the corporation made payments to, or received amounts from, a retirement compensation arrangement in the year?
+
+To answer this question, tick the **yes** or **no** box. No schedule or form is required.
+
+### Schedule 88, Internet Business Activities
+
+Complete [Schedule 88](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch88.html) if your corporation earns income from one or more web pages or websites. See the schedule for more information.
+
+### Schedule 130, Excessive interest and financing expenses limitation
+
+The Excessive interest and financing expenses limitation (EIFEL) rules limit the net amount of interest and financing expenses (interest and financing expenses minus interest and financing revenues) that can be deducted. For tax years starting on or after January 1, 2024, the limit is generally equal to 30% of adjusted taxable income. As a transition measure, a ratio of 40% applies to tax years starting on or after October 1, 2023, and before January 1, 2024.
+
+Subsection 18.2(18) requires a corporation that is subject to the EIFEL rules to file Schedule 130 to determine the deductibility of its interest and financing expenses (IFE) and to determine its exempt IFE. The CRA has waived, under subsection 220(2.1), this requirement for corporations that meet both of the following conditions:
+
+1. The corporation is one of the following:
+
+- exempt from tax under section 149
+
+- an excluded entity as defined in subsection 18.2(1)
+
+- a financial institution group entity as defined in subsection 18.2(1) that has determined its proportion under subsection 18.2(2) to be nil
+
+- a financial holding corporation as defined in subsection 18.2(2) that has determined its proportion under subsection 18.2(2) to be nil
+
+- a general partner that:
+
+    - a. holds less than a 1% share in a limited partnership
+
+    - b. holds no other property than its share in that limited partnership, and
+
+    - c. carries on no other business than that of the limited partnership
+
+- a non-resident exempt from Part I tax because of a tax treaty
+
+**and**
+
+2. The corporation is not a party to an election under the rules
+
+If a corporation meets these conditions and is not filing [Schedule 130](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2sch130.html), question 278 on the T2 return should be left blank. The corporation must keep records supporting that it meets the conditions and provide Schedule 130 at the minister's request.
+
+If a corporation does not file the Schedule 130, or files the schedule without including all the information required, paragraph 152(4)(b.8) allows the minister to reassess the return outside of the normal reassessment period.
+
+Thee EIFEL rules contain several elective provisions that may, under certain circumstances, provide alternative tax treatment under the rules:
+
+- [Form T2224, Transitional Election Under the](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2224.html)Excessive Interest and Financing Expenses Limitation Rules
+
+- [Form T2225, Group Ratio Rules Election under subsection 18.21(2) and Fair Value Adjustments Election under subsection 18.21(4)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2225.html)
+
+- [Form T2226, Election to Transfer Cumulative Unused Excess Capacity under subsection 18.2(4)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2226.html)
+
+- [Form T2227, Excluded Interest Election Under subsection 18.2(1)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2227.html)
+
+- [Form T2228, Specified Pre-regime Loss Election under subsection 18.2(1)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2228.html)
+
+- [Form T2229, Election to forgo a foreign accrual property loss under clause 95(2)(f.11)(ii)(E)](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2229.html)
+
+For more information on the EIFEL elections and Schedule 130, go to [Excessive interest and financing expenses limitation rules](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance/excessive-interest-financing-expenses-limitation-rules.html).
+
+**References**Sections 18.2 and 18.21
+
+## Calculation schedules
+
+You may also have to use various calculation schedules to complete the rest of your return. You will find a list of these schedules on page 2 of the return and details about each of these schedules in the following chapters.
+
+- [Previous page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-1-page-1-t2-return.html)
+
+- [Table of contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide.html)
+
+- [Next page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4012/t2-corporation-income-tax-guide-chapter-3-page-3-t2-return.html)

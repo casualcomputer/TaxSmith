@@ -1,0 +1,138 @@
+Title: Tavares v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521609/index.do
+Corpus path: corpus/cases/tcc/2026/2026-tcc-58-521609-tavares-v-the-king.md
+Document type: case_law
+Last modified: 2026-03-27
+
+# Tavares v. The King
+
+- Citation: 2026 TCC 58
+- Decision date: 2026-03-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5530, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tavares v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-03-27
+Neutral citation
+2026 TCC 58
+File numbers
+2024-212(IT)G
+Judges and Taxing Officers
+Ted Cook
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-212(IT)G
+BETWEEN:
+JOHN TAVARES,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion decided based on the parties’ written submissions.
+Before: The Honourable Justice Edward (Ted) Cook
+Participants:
+Counsel for the Appellant:
+Justin Kutyan
+Kristen Duerhammer
+Shara Sullivan
+Counsel for the Respondent:
+Lynn Gillis
+Devon Peavoy
+Tanner McInnis
+ORDER
+In accordance with the attached reasons, the Respondent’s motion under section 99 of the Tax Court of Canada Rules (General Procedure) to examine a representative of Maple Leafs Sports & Entertainment Partnership Ltd. is dismissed. The Appellant is awarded costs for this motion in any event of the cause.
+Signed on this 27th day of March 2026.
+“Ted Cook”
+Cook J.
+Citation: 2026 TCC 58
+Date: 20260327
+Docket: 2024-212(IT)G
+BETWEEN:
+JOHN TAVARES,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Cook J.
+Introduction [1] This is an appeal from the reassessment of the 2018 taxation year of Mr. Tavares, a well-known NHL hockey player. The appeal largely relates to the “signing bonus” agreed to with the Toronto Maple Leafs as part of his contract with the team. At issue is the characterization – for purposes of Article XVI(4) of the Canada-United States Convention with Respect to Taxes on Income and on Capital – of the amount paid for the signing bonus, and in particular whether it was paid “as an inducement to sign an agreement relating to the performance of the services of an athlete”.
+[2] The Respondent has brought a motion under section 99 of the Tax Court of Canada Rules (General Procedure) (“Rules”). The motion asks the Court to grant leave to examine for discovery a knowledgeable representative from Maple Leaf Sports & Entertainment Partnership Ltd. (“MLSE”). Mr. Tavares opposes the motion. The motion proceeded by way of written submissions under subsection 69(1) of the Rules.
+[3] MLSE was served the Respondent’s motion record pursuant to subsection 67(1) of the Rules. MLSE did not make any submissions for this motion.
+[4] It is the Respondent’s view that MLSE has information relevant to the material issues in the appeal as stated in the Notice of Appeal at the following paragraphs:
+24. The Toronto Maple Leafs designed their offer to include salary and, to entice Tavares to sign with them, to include a signing bonus.
+…
+30. MLSE considered the signing bonus to be one of the key factors in getting Tavares to agree to play for the Toronto Maple Leafs.
+31. Signing the long-term Contract with the star player Tavares benefited MLSE and the Toronto Maple Leafs with positive publicity.
+[5] The focus of the proposed examination would be on MLSE’s intentions and motivations in negotiating and entering into the contract with Mr. Tavares, and more particularly in respect of the signing bonus and the pleadings in paragraphs 24, 30 and 31. The Respondent submits this is central to determining whether the amount at issue constitutes an “inducement”.
+[6] Subsection 99(1) of the Rules gives the Court discretion to grant leave to examine for discovery any person if there is reason to believe that person has information relevant to a material issue in the appeal, subject to an exception relating to experts. The Court must be satisfied that the conditions set out in subsection 99(2) of the Rules have been met before it can exercise its discretion.
+[7] In Teelucksingh v The Queen, 2007 TCC 125 at para 2, Bowie J. stated, “Rule 99 provides an extraordinary remedy that ought to be applied sparingly and only where there is demonstrably strict compliance with subsection (2) of the Rule.” Subsection 99(2) provides:
+(2) Leave under subsection (1) shall not be granted unless the Court is satisfied that,
+(a) the moving party has been unable to obtain the information from other persons whom the moving party is entitled to examine for discovery, or from the person sought to be examined,
+(b) it would be unfair to require the moving party to proceed to hearing without having the opportunity of examining the person, and
+(c) the examination will not,
+(i) unduly delay the commencement of the hearing of the proceeding,
+(ii) entail unreasonable expense for other parties, or
+(iii) result in unfairness to the person the moving party seeks to examine.
+Issues [8] In deciding this motion, it is sufficient to consider paragraph 99(2)(a) of the Rules. The “or” in the paragraph is to be read conjunctively; meaning that both conditions in the paragraph must be met (Barker v The Queen, 2012 TCC 64 at para 13). Therefore, the paragraph requires that the Court must be satisfied that the Respondent has been unable to obtain the information sought from both:
+(i)the person examined (i.e., Mr. Tavares); and
+(ii)the person sought to be examined (i.e., a knowledgeable representative from MLSE).
+Analysis [9] The Court is not satisfied that either of the two conditions in paragraph 99(2)(a) have been met. The reasons are set out below. As that conclusion is sufficient basis for dismissing the motion, no comment is made whether the other mandatory conditions in subsections 99(1) and (2) have been met.
+Person Examined [10] Paragraph 99(2)(a) requires that the moving party, i.e., the Respondent, has been unable to obtain the information sought from persons whom the moving party is entitled to examine for discovery.
+[11] The Respondent examined the Appellant, Mr. Tavares, on November 4, 2024. Undertakings were given at the examination and Mr. Tavares provided answers for those undertakings. The Respondent served follow-up questions and Mr. Tavares provided answers to the follow-up questions. It was not a case of the Respondent being unable to obtain the information sought from Mr. Tavares. Instead, the Respondent did not seek the information from him during examination for discovery or in follow‑up questions.
+[12] In examination for discovery, paragraph 24 of the Notice of Appeal was put to Mr. Tavares and he was asked what facts and documents he was relying on in support of the paragraph. Mr. Tavares’ counsel answered that Mr. Tavares would rely on documents already produced (or that would be produced as an undertaking) and viva voce testimony by an individual from the Toronto Maple Leafs or MLSE.[1] No further questions were asked about paragraph 24.
+[13] Similarly, the Respondent asked Mr. Tavares what facts and documents he intended to rely upon to support the statement in paragraph 30 of the Notice of Appeal. Mr. Tavares’ counsel answered that Mr. Tavares would rely on documents already produced (or that would be produced as an undertaking) and viva voce testimony by an individual from the Toronto Maple Leafs or MLSE.[2] No further questions were asked about paragraph 30.
+[14] The Respondent did not ask Mr. Tavares any questions about paragraph 31 of the Notice of Appeal at examination for discovery.
+[15] The Respondent submits the answers given failed to provide any substantive information that would have allowed the Respondent to ask meaningful follow-up questions. As a result, the Respondent was effectively precluded from further enquiry. I do not see how the answers precluded the Respondent from asking further questions as they might relate to MLSE’s intentions and motivations. For example, the Respondent could have asked how MLSE designed its offer, why MLSE thought its offer would entice Mr. Tavares and what factors were considered by MLSE.
+[16] As well, the letter of April 30, 2021 (“MLSE Letter”) sent by MLSE to the Canada Revenue Agency was put to Mr. Tavares. In that letter, MLSE referred to its use of the signing bonus to induce Mr. Tavares to sign the contract. Mr. Tavares was asked which allegations of fact it related to and its relevance to the appeal.[3] The Respondent did not ask any specific questions about the statements in the MLSE Letter concerning the use of the signing bonus to induce Mr. Tavares to agree to the contract.
+[17] Mr. Tavares gave, and fulfilled, undertakings requiring him to obtain information from MLSE. When the Respondent sought information that was within MLSE’s knowledge, Mr. Tavares contacted MLSE and MLSE provided responsive information and documents. For example, see the updated answers to undertakings #5 (escrow), #8 (duty days) and #18 (T4A-NR). Mr. Tavares was not asked to obtain any information from MLSE regarding its use of the signing bonus to induce Mr. Tavares to sign the contract.
+[18] The Respondent’s lack of information about MLSE’s intentions and motivations is a result of the decision to not further pursue that line of questioning in discovery rather than an inability to obtain it from the Mr. Tavares. In Labow v The Queen, 2008 TCC 511, leave to examine was denied because the moving party could have obtained the information sought through the discovery process.
+[19] Consequently, the Court is not satisfied that the Respondent was unable to obtain the information sought from the person the Respondent was entitled to examine.
+Person Sought to be Examined [20] Paragraph 99(2)(a) also requires that the moving party has been unable to obtain the information from the person sought to be examined: a knowledgeable representative from MLSE.
+[21] In July 2025, Respondent’s counsel raised the possibility of seeking leave to discover a representative of MLSE. Mr. Tavares’ counsel suggested the Respondent’s interest in discovering MLSE might be satisfied informally (e.g., by way of a meeting or a written list of questions). Mr. Tavares’ counsel offered to reach out to MLSE to help facilitate an informal meeting. In October 2025, Mr. Tavares’ counsel advised that he had reached out to MLSE but had not heard back.
+[22] The Respondent did not contact MLSE directly to request the information sought. The Respondent only reached out indirectly through Mr. Tavares’ counsel. The Respondent submits that reasonable efforts were made to contact MLSE. Any delay was minimal and justified by the Respondent’s reliance on Mr. Tavares’ cooperation in facilitating contact with MLSE. MLSE has not responded to the request for an informal meeting.
+[23] I accept that delays or non-response by the non-party could constitute a refusal to provide information (see Labow at para 17). The Court is not satisfied, however, that in the circumstances at hand the Respondent has demonstrated that the information sought could not be obtained from MLSE. In this regard, I am mindful of the comments by Bowie J. in Teelucksingh quoted above.
+[24] The Respondent submits the fact inquiries were not made directly to MLSE should not be fatal. The Respondent argues that in Sim v The King, 2025 TCC 22 at para 21, the Court recognized that, although inquiries could have been made directly through counsel, it was not prepared to question the professional judgment of the respondent in choosing not to do so.
+[25] The circumstances in Sim were different than those in the case at hand. In Sim, there were undertakings to make inquiries of Mr. Sim regarding certain issues. Those inquiries were made and the responses to the undertakings were generally that Mr. Sim did not have the requested information. Consequently, the Court held that the respondent was unable to obtain information from Mr. Sim. As explained above, Mr. Tavares was not asked to make any inquires of MLSE relating to the subject matter of the proposed third-party examination.
+[26] In this instance, there was no direct request from the Respondent to MLSE (or attempt to use written questions) and no explicit refusal by MLSE to provide information. Instead, the Respondent has anticipated he would not be able to obtain the information sought. In McBane Estate v The Queen, 2005 TCC 264 at paras 9 and 10, the Court found it is not sufficient to anticipate not being able to obtain the information from the person sought to be examined.
+Conclusion [27] The Respondent’s motion is dismissed because the conditions in paragraph 99(2)(a) have not been met. The Appellant is awarded costs for this motion in any event of the cause.
+Signed on this 27th day of March 2026.
+“Ted Cook”
+Cook J.
+CITATION:
+2026 TCC 58
+COURT FILE NO.:
+2024-212(IT)G
+STYLE OF CAUSE:
+JOHN TAVARES AND HIS MAJESTY THE KING
+REASONS FOR ORDER BY:
+The Honourable Justice Edward (Ted) Cook
+DATE OF ORDER:
+March 27, 2026
+PARTICIPANTS:
+Counsel for the Appellant:
+Justin Kutyan
+Kristen Duerhammer
+Shara Sullivan
+Counsel for the Respondent:
+Lynn Gillis
+Devon Peavoy
+Tanner McInnis
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+KPMG Law LLP
+Toronto, Ontario
+Marie-Josée Hogue
+Deputy Attorney General of Canada Ottawa, Ontario
+[1] Tavares Discovery Transcript, page 34, line 16 to page 35, line 14.
+[2] Tavares Discovery Transcript, page 60, line 21 to page 61, line 24.
+[3] Tavares Discovery Transcript, page 109, line 9 to page 110, line 23.

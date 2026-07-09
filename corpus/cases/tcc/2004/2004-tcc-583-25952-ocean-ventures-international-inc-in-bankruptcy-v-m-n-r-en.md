@@ -1,0 +1,134 @@
+---
+title: "Ocean Ventures International Inc., in Bankruptcy v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25952/index.do"
+last_modified: "2004-09-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 583"
+citation2: ""
+neutral_citation: "2004 TCC 583"
+decision_date: "2004-09-30"
+language: "en"
+item_id: "25952"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3718
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:58:08.285000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "408324668bf2b8dae6bf7cfa6e1cfc5b2debda6e32100c022df8518d30ac9f1f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ocean Ventures International Inc., in Bankruptcy v. M.N.R.
+
+- Citation: 2004 TCC 583
+- Decision date: 2004-09-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3718, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ocean Ventures International Inc., in Bankruptcy v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-30
+Neutral citation
+2004 TCC 583
+File numbers
+2003-2576(EI)
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2004TCC583
+Date: 20040930
+Docket: 2003-2576(EI)
+2003-2577(CPP)
+BETWEEN:
+OCEAN VENTURES INTERNATIONAL INC., IN BANKRUPTCY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and,
+ROBIN UPSHON,
+Intervenor.
+____________________________________________________________________
+Agent for the Appellant: Judi Charlton
+Counsel for the Respondent: Maria Vujnovic
+For the Intervenor: The Intervenor himself
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Toronto, Ontario, on June 7, 2004)
+Sarchuk J.
+[1] This is the appeal of Ocean Ventures International Inc., in bankruptcy, from a ruling by the Minister of National Revenue that the Intervenor, Upshon, was employed in insurable employment while engaged by the Appellant from June 12, 2000 to September 5, 2002 within the meaning of the Employment Insurance Act.
+[2] I do not propose to embark on a detailed review of the facts other than to list certain salient points that are not in issue or dispute. The Appellant company was incorporated on January 14, 2000, with the purpose of manufacturing luxury yachts of a particular type, I believe they were referred to as steel-hull boats. At all material times, there were a number of shareholders, the principal one being David Milgram who, if my calculation is correct, owned well over 50% of the shares. Upshon and his wife were also shareholders. At all relevant times, Milgram was the Chairman, Upshon was the President and his wife the Secretary of the Appellant. It is fair to say that almost all of the financing for the Appellant's business other than what was provided by some shareholders, came from Milgram.
+[3] Upshon was specifically hired as manager to oversee the construction of the first "demonstration" yacht and the subsequent production of other yachts because of his expertise in that particular field. In that capacity, he was responsible for the supervision of development and construction, as well as the hiring and dismissal of employees and all other matters that go hand in hand with his responsibilities as general manager. Upshon was paid a specific salary and was reimbursed for expenses incurred in the performance of his duties. He was not required to provide any material or equipment or tools or anything of that nature. All of the facilities were provided by the Appellant. And based on the evidence before the Court, he was required to provide regular progress reports specifically to Milgram.
+[4] I have concluded that the evidence clearly supports the Intervenor's and Minister's positions that Upshon was at all relevant times an employee of Ocean Ventures. Given the nature of the Intervenor's involvement, I would refer to what has been on occasion described as the organization or integration test. In Stevenson Jordan and Harrison, Ltd. v. Macdonald,[1] the Court said:
+One feature which seems to run through the instances is that, under a contract of service, a man is employed as part of the business, and his work is done as an integral part of the business; whereas, under a contract for services, his work, although done for the business, is not integrated into it but is only accessory to it.
+In my view, this aptly describes the situation here, and that is in good measure why I have concluded as I indicated earlier that Upshon was employed as part of the business.
+[5] I feel obliged to note that in more recent cases such as Wiebe Door Services Ltd. v. M.N.R.,[2] the Courts have stated that the organization test has "less vogue in other common-law jurisdictions", and indicated that it is a difficult test to apply. As MacGuigan J.A. noted in Wiebe Door:
+... if the main test is to demonstrate that, without the work of the alleged employees the employer would be out of business, a factual relationship of mutual dependency would always meet the organization test of an employee even though this criterion may not accurately reflect the parties' intrinsic relationship.
+Now, in our particular case, no business would have been carried on by the Appellant if Upshon had not been hired as an employee to carry out his particular, which was the designing, developing and supervising the construction of the boat.
+[6] MacGuigan J.A. described the organization test as:
+... the organization test of Lord Denning and others produces entirely acceptable results when properly applied, that is, when the question of organization or integration is approached from the persona of the 'employee' and not from that of the 'employer,' because it is always too easy from the superior perspective of the larger enterprise to assume that every contributing cause is so arranged purely for the convenience of the larger entity. We must keep in mind that it was with respect to the business of the employee that Lord Wright addressed the question 'Whose business is it?'
+In this particular appeal, I am satisfied that it was Ocean Ventures' business and not Upshon's. I will refer to one further decision, that of Cook J. in Market Investigations Ltd. v. Minister of Social Security.[3]He stated:
+The observations of Lord Wright, of Denning L.J., and of the judges of the Supreme Court in the U.S.A. suggest that the fundamental test to be applied is this: 'Is the person who has engaged himself to perform these services performing them as a person in business on his own account?'. If the answer to that question is 'yes', then the contract is a contract for services. If the answer is 'no' then the contract is a contract of service.
+The answer in the present appeal is that Upshon's contract was one of service and, therefore, the Appellant's case is untenable. The Minister's determination was correct, the Intervenor's position is upheld and the appeal is dismissed.
+Signed at Ottawa, Canada, this 30th day of September, 2004.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2004TCC583
+COURT FILE NO.:
+2003-2576(EI) and 2003-2577(CPP)
+STYLE OF CAUSE:
+Ocean Ventures International Inc., in bankruptcy, and the Minister of National Revenue and Robin Upshon
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 7, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+June 16, 2004
+APPEARANCES:
+Agent for the Appellant:
+Judi Charlton
+Counsel for the Respondent:
+For the Intervenor:
+Maria Vujnovic
+The Intervenor himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1952] 1 The Times L.R. 101.
+[2] [1986] 3 F.C. 553.
+[3] [1968] 3 All E.R. 732.

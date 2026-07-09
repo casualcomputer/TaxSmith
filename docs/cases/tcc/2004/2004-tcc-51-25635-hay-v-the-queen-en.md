@@ -1,0 +1,261 @@
+---
+title: "Hay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25635/index.do"
+last_modified: "2004-01-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 51"
+citation2: ""
+neutral_citation: "2004 TCC 51"
+decision_date: "2004-01-13"
+language: "en"
+item_id: "25635"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2441
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:55:09.921000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b0de6e33b87fa61e742c5fd8d466b609d5d0ab9b9ece447cd871b80bd8acf0d9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hay v. The Queen
+
+- Citation: 2004 TCC 51
+- Decision date: 2004-01-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2441, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-13
+Neutral citation
+2004 TCC 51
+File numbers
+2003-726(GST)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-726(GST)I
+BETWEEN:
+GORDON HAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 21 and 22, 2003, at Montreal, Quebec
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Michael Worsoff
+Counsel for the Respondent:
+Alain-François Meunier
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act for the period from August 1, 1996 to December 31, 1998, the notice of which is dated November 27, 2001, and bears number PM-10304, is allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 13th day of January 2004.
+"Pierre Archambault"
+Archambault, J.
+Citation: 2004TCC51
+Date: 20040113
+Docket: 2003-726(GST)I
+BETWEEN:
+GORDON HAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Archambault, J.
+[1] Mr. Gordon Hay is appealing an assessment dated November 27, 2001 issued by the Ministère du Revenu du Québec (Ministère) pursuant to section 323 of the Excise Tax Act (Act). By that assessment, the Ministère is holding Mr. Hay, in his capacity as director of Distribution Canada Disc DCD Inc. (DCD), liable with respect to that corporation's GST owing of $15,386.95. The Ministère claims that DCD owed this net tax under the Act for the period starting August 1, 1996 and ending December 31, 1998 (relevant period). The amount can be broken down as follows over the periods indicated:
+1996[1]
+1997
+1998
+TOTAL
+Amount of net tax declared by DCD
+$2,370.10
+($1,295.59)
+N/A
+$1,074.51
+Adjustments by the Ministère:
+i) Increased tax
+10,040.48
+8,825.87
+4,830.28
+23,696.63
+ii) Input Tax Credit
+(4,656.68)
+551.88
+(5,279.39)
+(9,384.19)
+Total net tax (Refund)
+7,753.90[2]
+8,082.162
+(449.11)
+15,386.95
+[2] In the Notice of Assessment issued under paragraph 323(1) of the Act, the amount of duties shown owing by Mr. Hay is $15,836.06 and not $15,386.95. According to the Ministère's collection agent, the negative net tax of $449.11 for 1998 would normally be applied against the aggregate net tax that the registrant owes to the Ministère. He disagreed with the respondent's counsel's assertion that the refund of $449.11 for 1998 would normally be deducted from the amount of interest and penalty owing by the registrant. As I believe it is more appropriate that the refund for 1998 be deducted from the aggregate amount of net tax owing by DCD for 1996 and 1997, the assessment for Mr. Hay, if confirmed, should at least be amended to decrease the amount of duties owed by him from $15,836.06 to $15,386.95, and the Ministère should be required to recalculate the interest and penalties in accordance with the provisions of the Act.
+[3] In issuing the assessment, the Ministère took for granted that Mr. Hay had been a de jure director of DCD since its date of incorporation in 1994. In contesting the assessment, Mr. Hay claims that for the following reasons he is not liable for any taxes owing by DCD. First, he was never a director of DCD since he never agreed to act in that capacity. Second, if he was a director of DCD, he ceased to be such on February 28, 1999, when he left DCD to take new employment with an unrelated corporation. Given that the Ministère issued its assessment on November 27, 2001, more than two years had elapsed since he ceased to be a director and the Ministère's assessment under paragraph 323(1) of the Act was statute-barred. Finally, even if the assessment was not statute-barred, Mr. Hay exercised the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances to prevent the failure that gave rise to the assessment. Alternatively, should it be found that he did not exercise that degree of care, diligence and skill, the amount of taxes owing by DCD should be reduced by the following three amounts aggregating $6,450.37: first, a reduction of GST of $1,737.25 in respect of a bad debt of $24,817.86 relating to 1996, secondly a similar reduction of $4,054.68 in respect of a bad debt of $57,924 relating to 1997, and thirdly, an input tax credit (ITC) of $658.44 for additional purchases from Hydro ($4,370) and Blanca Canada ($5,036.30).
+Facts
+[4] Mr. Hay described himself as a person having some marketing experience. He graduated from high school and undertook some studies at McGill University in the continuing education program. However, he did not complete those studies. In early 1994, he was hired by Mr. Jacques Cohen as president of DCD at an annual salary of $50,000. That company was described as belonging to Mr. Cohen, an entrepreneur and promoter involved in several corporations, some of which operated in the technology sector. In fact, DCD was incorporated on April 20, 1994 pursuant to the Canada Business Corporations Act (CBCA) for the purpose of manufacturing computer diskettes.
+[5] Mr. Hay is shown as the only director on Form 6, Notice of Directors, dated April 20, 1994 and signed by an unidentified person. This form is inserted in DCD's minute book and, presumably, was sent to Consumer and Corporate Affairs Canada. Mr. Hay testified that he was never made aware before 1997 or 1998 that he was shown as a director of DCD and, according to him, he was never asked to become a director nor did he authorize anyone to show him as such. A review of the minute book does not reveal that Mr. Hay was replaced by another director. When he became aware of the existence of the minute book in 1997 or 1998, Mr. Hay said, he showed his displeasure to Mr. Cohen. According to Mr. Hay, Mr. Cohen told him that he could not use his own name because of prior legal problems. On cross-examination, Mr. Hay explained that he did not take any steps to have his name removed from the minute book because Mr. Cohen had given him to understand that he was not to do so. However, a review of the minute book reveals that Messrs. Hay and Cohen were elected directors of DCD pursuant to an unsigned resolution of the two shareholders dated April 20, 1994. Also found in the minute book are two unsigned agreements by Messrs. Hay and Cohen to act as directors.
+[6] There is also an unsigned subscription for 100 Class A shares by each of Messrs. Cohen and Hay. The share certificates are still attached to the minute book and are also unsigned. Another unsigned resolution names Mr. Hay as president and secretary of DCD and Mr. Cohen as vice-president. In fact, the entire minute book is unsigned. In his testimony, Mr. Hay also stated that he never signed any resolution of DCD or any of its annual returns, tax returns or financial statements, with the exception of two GST returns.
+[7] Mr. Hay accompanied Mr. Cohen to a branch of the Bank of Montreal to open a bank account for DCD. On the bank signature card dated January 27, 1995, both Mr. Hay's and Mr. Cohen's names appear. Mr. Hay is shown as president and Mr. Cohen as vice-president. It was the bank's representative who insisted that two signatures be required to sign DCD's cheques. On the same date, Mr. Hay also signed as an authorized officer a certificate (on a Bank of Montreal form) with respect to the borrowing by-law of DCD. On an unsigned document attached to this certificate, which appears to be the agreement with the Bank of Montreal respecting banking services, Messrs. Gordon Hay and Jacky Cohen are shown as (i) "administrateur(s)" and (ii) "membre(s) de la direction", Mr. Hay being indicated as president and Jacky Cohen as vice-president. When shown this document at the hearing, Mr. Hay indicated that he understood the French word "administrateur" to mean a manager and not a director.[3]
+[8] Notwithstanding the initial plan, it appears that DCD never was in a position to start its manufacturing activities. Its only activities seem to have been limited to having leased, on October 13, 1994, 8,615 square feet of commercial space situated at 359 Ste-Croix Boulevard, St-Laurent, Quebec. The lease, for a five-year term, was to commence on January 1, 1995 and terminate on December 31, 1999. It was Mr. Cohen who negotiated the terms of this lease and who signed it on behalf of DCD. Mr. Hay only appears therein as a witness. It was also Mr. Cohen who certified the copy of the resolution of DCD's board of directors authorizing Mr. Cohen to sign on behalf of the corporation. It appears that the aforementionned commercial space was subleased by DCD to several of Mr. Cohen's corporations, including TAD Digital Advanced Technologies International Inc. (TAD)[4] and Les Technologies Vectron Paramètre 618 Inc. (Vectron). On June 16, 1995, DCD obtained additional commercial space from its landlord. The letter confirming this agreement was addressed to DCD for the attention of Jacques Cohen, and it was accepted by him.
+[9] A series of cheques and invoices covering the relevant period was introduced as evidence. As is to be expected, the signature of Mr. Hay appears with that of Mr. Cohen on the cheques. Mr. Hay described the purposes for which these cheques were issued. Some of them were for renovation work done on Mr. Cohen's personal home, for alimony payable to his former mistress, who was the mother of his child, for payments to his current girlfriend, for salary in cash owing to a bookkeeper for TAD, and for payments for the benefit of Mr. Cohen's friends. Mr. Hay indicated that all these cheques were signed by him at the specific request of Mr. Cohen. For all his work performed for Mr. Cohen from 1994 to February 1999 as an employee of DCD, Mr. Hay only received $28,000. Given that DCD did not have sufficient funds to pay all of its liabilities, Mr. Hay said, he often complained to Mr. Cohen that friends of Mr. Cohen's were being paid before the payment of his own salary and of money owing to the government in respect of GST. Mr. Cohen indicated that the GST would be taken care of at a later time. Mr. Hay stated that he had no authority to force Mr. Cohen to issue cheques in favour of those payees.
+[10] Two witnesses who worked for Mr. Cohen's corporations testified that they were not aware that Mr. Hay was a director of DCD. The first of these witnesses, Mr. Van Den Berghe, acted as a consultant for Mr. Cohen, starting in 1994, to help him raise funds for his new ventures. He was employed by Vectron in January 1996 to implement a marketing plan. Mr. Van Den Berghe described Mr. Hay as a kind of manager for the premises leased by DCD. Mr. Hay was involved in repairing equipment that did not work properly, such as the air conditioning and telephone systems. He also testified that Mr. Hay took his orders from Mr. Cohen. He described Mr. Cohen as the orchestrator, the person making all the decisions. Mr. Van Den Berghe stated that Mr. Hay vehemently refused to accept being elected as a director of Vectron.
+[11] The other witness was Mr. David Amsel, who was hired as a consultant by Mr. Cohen to work for Vectron. Starting early in 1996 and for a year and a half thereafter, he spent most of his working hours with that corporation. His office was located next to Mr. Hay's. He described Mr. Hay as an employee of Mr. Cohen, responsible for the day-to-day operation of TAD and DCD. He described Mr. Hay as a "man Friday". Mr. Hay would not make any significant decision without first talking to Mr. Cohen. Mr. Amsel also stated that he did not receive all the money that he was promised by Mr. Cohen either.
+[12] It was Mr. Hay who, on September 6, 1996, applied to register DCD as a registrant for GST purposes. In the application, Mr. Hay is described as the president of DCD. Mr. Hay signed and filed (although it was not he who had prepared it) on July 13, 1998 an annual GST return for the period from August 1 to December 31, 1996. On this return, an amount of $2,370.10 is shown as the net tax payable to the Ministère. On the same date, he also filed a GST return for the 1997 calendar year (the calendar year being also DCD's fiscal period) and a negative net tax of $1,295.59 is shown.
+[13] Tired of too many unfulfilled promises by Mr. Cohen with respect to his remuneration and his participation in Mr. Cohen's different ventures, Mr. Hay left DCD at the end of February 1999 to take up new employment with a completely unrelated corporation of Mr. Cohen's. He earned a salary of $58,427 with his new employer in 1999 and $63,763 in 2000.[5] It should also be added that Mr. Hay was made aware by Equifax Canada Inc. early in 1999 that the Ministère had enquired about his creditworthiness in connection with "its effort to apply fiscal laws". Mr. Hay wrote to the Ministère on February 3, 1999 to obtain information as to the purpose of its enquiry.
+[14] Mr. Hay indicated that someone from the Ministère called him at home and informed him that it wanted to carry out a GST/QST audit of DCD. Although no longer an employee of DCD, Mr. Hay agreed to meet the GST auditor as Mr. Cohen did not want to do so because he had enough problems of his own. Given that DCD had no books of account and had never prepared any financial statements, Mr. Hay had to use the bank deposits to prepare invoices that he could submit to the Ministère. He said he did all this work with Mr. Cohen's knowledge.
+[15] To issue her assessment for DCD, the auditor prepared worksheets listing all the invoices submitted by Mr. Hay. These worksheets basically indicated the rent charged by DCD to its sublessees for the period from January 1995 to December 1998, when, according to the information provided by Mr. Hay to the auditor, the lease between DCD and its landlord was terminated. She also prepared worksheets describing the expenses incurred by DCD. Essentially, all of this information was provided by Mr. Hay. The auditor prepared a statement of adjustments to be used for her proposed reassessment and she presented it to Mr. Hay on February 21, 2000 for his comments. However, he provided no comments and the auditor issued an assessment on March 17, 2000. The assessment was sent to Mr. Hay's personal address, which is the address shown on the application for GST registration filed by Mr. Hay. Under cross-examination, the tax auditor acknowledged that all the data she used to prepare the assessment were supplied by DCD and that she accepted DCD's statement that its lease was terminated in December 1998. She also acknowledged that there were no invoices after December 1998. Mr. Hay indicated that DCD was dissolved on March 10, 2000.
+[16] After he left DCD, Mr. Hay's involvement with that corporation was limited to dealing with the Ministère's audit. It was Mr. Hay who hired the law firm Sweibel Novek to file a notice of objection on or about August 2, 2000. On June 21, 2000, Mr. Hay and DCD gave this firm authority "to obtain information from Revenue Canada and Revenue Quebec concerning GST and QST matters". He also issued to the tax auditor, in August 2000, the authorization to borrow the sales and purchase invoices in addition to the banking documents.
+[17] Mr. Salomon Amar testified that he was hired early in 2001 by Mr. Hay to review the assessment made by the Ministère. He confirmed that DCD did not have any books of account and had never prepared any financial statements, and that no income tax return had ever been filed by DCD. Mr. Hay asked Mr. Amar to prepare financial statements and tax returns but apparently Mr. Cohen refused to sign them. At that time, Mr. Cohen owed the tax authorities more than 1.6 million dollars. For the review of the Ministère's assessment, Mr. Hay only gave Mr Amar two boxes of documents. It was Mr. Amar's review of these documents that generated the three adjustments that Mr. Hay requested for the purpose of the determination of the actual net tax owing by DCD to the Ministère.
+[18] According to Mr. Amar, some of the rental amounts included in the Ministère's assessment were never paid by the sublessees. He prepared in 2001 some "Écritures de journal" for the 1996, 1997 and 1998 fiscal periods. For 1996, he shows a reduction of rent of $24,817.86, giving rise to a reduction of $1,737.25 in the GST. For the 1997 taxation year, Mr. Amar wrote off an amount of $57,924 in rent owing by TAD, resulting in a decrease in GST of $4,054.68. For 1998, he reduced the amount for purchases by $5,036.30 in respect of supplies from Blanca Canada and by $4,370 in respect of supplies from Hydro Québec, which resulted in an increase in ITC of $658.44.
+[19] The collection agent issued the November 27, 2001 assessment under subsection 323(1) of the Act after the Ministère's failure to get payment from DCD of that corporation's GST liability. He stated that he obtained the information that Mr. Hay was a director of DCD from Industry Canada. He also testified that he assessed Mr. Hay because, in his view, Mr. Hay acted as a director when he signed the certificate in respect of the borrowing by-law, signed cheques for DCD, filed the application for registration with respect to the GST, and filed the GST returns in July 1998. Furthermore, Mr. Hay is also described as a director in the document given to the Bank of Montreal in conjunction with the borrowing by-law. The collection agent acknowledged that no corporate tax returns (C-17) had been filed by DCD pursuant to the Quebec Taxation Act. Finally, the collection agent also acknowledged that he never met with Mr. Hay.
+Analysis
+[20] The relevant provision for resolving the issue in this appeal is subsection 323(1) of the Act, which provides as follows:[6]
+323(1) Liability of directors - Where a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3), the directors of the corporation at the time the corporation was required to remit the amount are jointly and severally liable,together with the corporation, to pay that amount and any interest thereon or penalties relating thereto.
+[Emphasis added.]
+[21] The first condition to be met in order for subsection 323(1) of the Act to apply is that Mr. Hay must have been a director of the corporation at the time the corporation was required to remit the GST. Although the Ministère assessed Mr. Hay on the basis that he was a de jure director, the respondent takes the view that de facto directors are as liable as de jure directors for the purposes of section 323 of the Act and section 227.1 ITA. Like section 227.1 ITA with respect to deductions at source, subsection 323(1) of the Act holds directors liable for their corporation's failure to remit GST under the Act. However, neither provision specifies whether the term "directors" includes de facto directors.
+[22] In Canada v. Corsano, [1999] F.C.J. No. 401 (QL), 99 DTC 5658[7], the Federal Court of Appeal held that both de jure and de facto directors could be liable for their corporation's failure to deduct tax under section 227.1 ITA. In his reasons, Justice Noël drew attention to section 97 of the Nova Scotia Companies Act,[8] a provision similar to section 116 CBCA,[9] which "recognizes that persons will act as directors without being qualified to do so, and that the legislator has, despite this absence of qualification, chosen to validate those acts in the circumstances that we have seen."[10] Therefore, Justice Noël concluded that de facto directors should not be allowed "to assert their lack of qualification to escape the liability cast upon directors by virtue of section 227.1 of the ITA.[11]
+Is the appellant a de jure director?
+[23] According to Black's Law Dictionary, a director (or de jure director) can be described as "a person appointed or elected to sit on a board that manages the affairs of a corporation or company by electing and exercising control over its officers".[12]
+[24] The notion of "director" has to be distinguished from that of "officer", which refers in corporate law "to a person elected or appointed by the board of directors to manage the daily operations of a corporation, such as a CEO, president, secretary, or treasurer".[13] In fact, directors of a corporation delegate certain of their responsibilities to officers of the corporation.[14] The terms of "officer" and "director" are defined in subsection 2(1) CBCA:
+"director" means a person occupying the position of director by whatever name called and "directors" and "board of directors" includes a single director;
+"officer" means an individual appointed as an officer under section 121, the chairperson of the board of directors, the president, a vice-president, the secretary, the treasurer, the comptroller, the general counsel, the general manager, a managing director, of a corporation, or any other individual who performs functions for a corporation similar to those normally performed by an individual occupying any of those offices;
+[25] The characterization of a person as a director or an officer is a crucial issue, because only officers (in the broad sense) who are directors can be held liable under subsection 323(1) of the Act and section 227.1 ITA. In Mosier v. R., [2001] G.S.T.C. 124 (TCC), a president and CEO who ran a company but never held himself out as a director thereof was found not to have been a de facto director and therefore held not liable for the company's failure to remit taxes under the Act.
+[26] Here, Mr. Hay was named as the director of DCD in Form 6, which was sent with the articles of incorporation. Pursuant to subsection 106(2) CBCA, this designation by the incorporator had the effect of appointing[15] Mr. Hay as provisional director until the first meeting of shareholders. It appears, however, that no such meeting was ever held, given that the whole minute book, including the share certificates, was never signed. In other words, DCD was never properly organized and therefore no regular directors were ever elected.
+[27] The issue is whether Mr. Hay can be considered a director when not only did he never authorize[16] the incorporator to designate him as the provisional director but he was only made aware of his having been so designated more than three or four years later. The most relevant provision dealing with the issue of consent is subsection 106(9) CBCA, which sets out the conditions under which a person will be recognized as a director. It reads thus:
+106. (9) An individual who is elected or appointed to hold office as a director is not a director and is deemed not to have been elected or appointed to hold office as a director unless
+(a) he or she was present at the meeting when the election or appointment took place and he or she did not refuse to hold office as a director; or
+(b) he or she was not present at the meeting when the election or appointment took place and
+(i) he or she consented to hold office as a director in writing before the election or appointment or within ten days after it, or
+(ii) he or she has acted as a director pursuant to the election or appointment.
+[Emphasis added.]
+[28] The scope of statutory provisions similar to subsection 106(9) CBCA was considered in De Witt v. M.N.R., [1990] 1 C.T.C. 2098. In that case, Judge Kempo of this Court dealt with the application of subsections 100(5) and (6)[17] of the Alberta Business Corporations Act (ABCA), S.A. 1981, c. B-15. A Notice of Directors or Notice of Change of Directors filed along with articles of continuance showed two individuals and the appellants as directors. However, those appellants were without any knowledge of the requirements concerning the continuance and had not authorized or signed any documents related thereto.
+[29] Judge Kempo first cited the following comments by the Alberta Institute of Law Research and Reform, at page 2106:
+We do not think that a person should, without his consent, be placed in a position in which he may be subjected to the liabilities of a director or compelled to take proceedings to demonstrate that he is not. S. 100(5) would at least put on the corporation the burden of proof of an allegation that a person has consented to be a director and, by so doing, might prevent the allegation being made. There is no similar provision in the CBCA.
+[Emphasis added.]
+[30] She then went on to add at page 2107:
+This requirement has been recognized in jurisprudential authority, see: West Leechburg Steel Co. v. Smitton, 280 Mich 180; 273 NW 439 (Mich S.C.). The Alberta wording has legislatively incorporated the philosophy of requiring the express or implied consent of a person before he or she becomes a director. I agree with the submissions of counsel for the appellants that following the January 31, 1984 issuance of the continuance certificate there had been no meetings at which directors had been elected, that no consent to act had been obtained or tendered, and that no documentary evidence subsisted thereafter to establish express or implied consent by deeds or actions on the part of the three appellants.
+[Emphasis added.]
+[31] Judge Kempo concluded that the appellants did not become directors of the new continued corporation for the following reason, at page 2108:
+The unrefuted evidence was that the three appellants were without any knowledge of the matters and requirements concerning the Calmax continuance, that no discussions or meetings were held, and that no documents were authorized, prepared and/or signed by them for that purpose. Paragraph 105(a) has been met because there were no meetings. Subparagraphs 105(b)(i) and (ii) have been met because neither of the three appellants had consented in writing or had acted as a director pursuant to anything.
+[Emphasis added.]
+[32] Although I agree entirely with the conclusion reached in De Witt by Judge Kempo, I cannot agree with some of her reasons, and more particularly with the following at pages 2107 and 2108:
+. . . However, the exculpatory provisions relied upon by counsel under subsections 100(5) and 100(6) are of general purport, and they therefore apply as equally to a continued corporation as to a newly incorporated one. Its impact and effect is the same as upon a new incorporator under subsection 7(1) of the A.B.C.A. which specifically encompasses subsection 101(2), supra, wherein the directors named in the notice of directors filed with the articles of incorporation are to hold office until the first meeting of the shareholders. No discernible reason has been provided as to why provisional directors and incumbent directors were meant to be, or should be, treated differently under the new legislative régime.
+[Emphasis added.]
+[33] In my view, subsection 106(9) CBCA, like subsections 100(5) and (6) ABCA, does not apply to provisional directors because their appointment does not take place "at [a] meeting". I believe that subsection 106(9) only envisages directors elected or appointed at such a meeting. The appointment of provisional directors results from the designation made by the incorporator in Form 6 when it is filed with the Director. No meeting is required in that process. Indeed, the CBCA contemplates that the first meeting will occur after the certificate of incorporation has been issued by the Director. Under subsection 106(2) CBCA, the provisional director "holds office from the issue of the certificate of incorporation until the first meeting of shareholders". Directors can be elected at that meeting pursuant to subsection 106(3) CBCA or appointed at a meeting of directors pursuant to subsection 106(8) CBCA.
+[34] However, it cannot be inferred from the wording of subsection 106(9) CBCA that the legislator intended provisional directors to be appointed directors without their consent.[18] In the common law, it has been recognized that a director must consent either explicitly or implicitly in order to be considered a director. In West Leechburg Steel Co. (referred to in De Witt)[19], the Supreme Court of Michigan cited with approval the following statements, at pages 183 and 184:
+"The person who never accepted the office of director, but was simply held out as such by others without his knowledge, cannot be held liable for any failure on the part of the board to comply with the statute." 2 Thompson on Corporations (3d Ed.), p. 1010, § 1450.[20]
+. . .
+"To make one an officer of a corporation, his consent, as well as an appointment or election is necessary. A person who is elected without his knowledge, and who does not accept the office, or act as an officer, is not an officer, although he may have received stock after his election. . . ." 2 Fletcher Cyclopedia Corporations (Perm. Ed.), p. 71, § 314.
+[35] The same approach was followed by the Circuit Court of Fairfax County, Virginia, in Williams et al. v. Chamer et al., 32 Va. Cir. 12, 19, 1993 Va. Cir. Lexis 775:
+Acceptance by a designated officer or director of his or her position is generally necessary for a person to become an officer or director of a corporation. Am. Jur. 2d, Corporations, § 1364 at 272 (1985). Christ v. Lake Erie Distributors, Inc., 51 Misc. 2d 811, 273 N.Y.S.2d 878, 883 (1966) (citing Cameron v. Seaman, 69 N.Y. 396, 398).
+[36] Short of a clear contrary intention expressed by Parliament in the CBCA, this common law principle should apply to provisional directors. I do not see any valid reason why consent (either expressed or implied) should only be required for the election or appointment of regular directors. It would moreover be repugnant to impose onerous obligations on a person who never agreed to act as a director and whose name was improperly put on Form 6 without his knowledge.
+[37] Given that Mr. Hay's designation as a director by the incorporator was done without his consent, it is not a valid designation and, pursuant to subsection 106(2) CBCA, Mr. Hay cannot be considered a de jure director.
+Is the appellant a de facto director?
+[38] In the alternative, the respondent submits that, if Mr. Hay is not a de jure director, he can be considered a de facto director. Although directors are usually appointed as de jure directors, "[f]rom the earliest days of corporate law, it must have been apparent that from time to time persons would act in the capacity of directors even though (a) they lacked some qualification for that office; or (b) they were not validly elected or appointed".[21] Professor McGuinness defined simply a de facto director as being:
+No more than a person who is not a director (or has ceased to be a director) but who nevertheless purports to act in the capacity of a director.[22]
+[39] Therefore, de facto directors can be classified in two distinct classes:
+. . .
+One class comprises former directors whose term of office has expired but who have continued to act as directors of the corporation after the expiration of their term of office. . . . The second class of de facto directors are those who take upon themselves the office of director without proper appointment.[23]
+[40] In Perricelli v. R., 2002 CarswellNat 1346, 2002 G.T.C. 244, Judge Miller (TCC) noted that a determining factor in concluding that a person could not be considered a de facto director was that the person "did not believe he was director and he never thought he had any authority to advise, influence or control the management or direction of the Company".
+[41] In the present case, Mr. Hay did not qualify for inclusion in either class of de facto directors. He did not fall within the first class because he was never appointed in the first place, so he cannot be considered to have acted as a director after the expiration of his term of office. He did not fall within the second either, because he did not take upon himself the office of director. As mentioned above, according to Black's Law Dictionary[24] and in Canadian corporate law, acting as a director means "sit[ting] on a board that manages the affairs of a corporation or company by electing and exercising control over its officers" (emphasis added).
+[42] Not only did Mr. Hay not consider himself a director of DCD, but he never acted as such, even after learning that he had been designated as the provisional director. He never signed documents as a director and never sat at a board of directors meeting. The only DCD document that the respondent could rely on as showing Mr. Hay to be a director was the agreement with the Bank of Montreal respecting banking services. Messrs. Gordon Hay and Jacky Cohen are shown therein as "administrateurs". However, given that Mr. Hay (an English-speaking person) indicated that he understood the French word "administrateur" to mean a manager - as did the auditor herself (a French-speaking person) - and not a director, I cannot take that document as evidencing Mr. Hay's intention to act as a director.
+[43] Mr. Hay worked only as an officer and employee of DCD. When he signed the GST application, he did so as president, that is, as an officer of DCD. When he signed the GST returns, he did not state in what capacity he did so. Any employee of a supplier (as defined under the Act) could sign such returns, so no inference that Mr. Hay was acting as a director can be drawn from his having signed them. Steps taken to satisfy the requirements of the Act, including preparing invoices, meeting with the Ministère's auditor and hiring a lawyer, are not in themselves necessarily acts of a director. The same can be said for signing cheques.
+[44] Nor is there any evidence that he exercised control over DCD's officers. On the contrary, the person who seems to have exercised such control is Mr. Cohen. According to the two independent witnesses, Mr. Hay was not the person making decisions. He was getting his instructions from Mr. Cohen, although the latter is described as a vice-president and Mr. Hay as the president. Mr. Hay was referred to by Mr. Amsel as a "man Friday". So Mr. Hay's conduct cannot be described as that of a de facto director. He was just a puppet in Mr. Cohen's hands.
+[45] In the end, he was not even paid all the salary to which he was entitled. Mr. Cohen's friends took precedence over him as well as over the Ministère. Mr. Cohen's conduct appears to correspond to that of a de facto director. It was his corporation; he was making all the important decisions and negotiating and signing major contracts. He even certified a directors' resolution designating himself as a person having signing authority for DCD.
+[46] In conclusion, Mr. Hay was not a director of DCD and therefore one of the conditions required for the application of subsection 323(1) is not met. Given this conclusion, it will not be necessary to deal with the other arguments raised by Mr. Hay. Accordingly, the assessment must be vacated and Mr. Hay is entitled to costs, in accordance with the rules of this Court.
+Signed at Montréal, Quebec, this 13th day of January 2004.
+"Pierre Archambault"
+Archambault, J.
+CITATION:
+2004TCC51
+COURT FILE NO.:
+2003-726(GST)I
+STYLE OF CAUSE:
+Gordon Hay and Her Majesty the Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+August 21 and 22, 2003
+REASONS FOR JUDGMENT BY:
+The Hon. Justice Pierre Archambault
+DATE OF JUDGMENT:
+January 13, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Michael Worsoff
+Counsel for the Respondent:
+Alain-François Meunier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Michael Worsoff
+Firm:
+Gross Pinsky
+Montreal, Quebec
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This is for the period from August 1, 1996 to December 31, 1996.
+[2] The aggregate of these two amounts is $15,836.06.
+[3] It should be stated that the tax auditor who issued the GST assessment for DCD also understood the word "administrateur" to mean a manager!
+[4]
+Mr. Hay signed on August 15, 1995 a "Déclaration d'immatriculation" sent to the Inspecteur général des institutions financières, in which he is shown as "président" and "secrétaire"; the only director shown is Mr. Cohen.
+[5] At the hearing, Mr. Hay described himself as unemployed.
+[6]
+Subsection 323(1) of the Act is similar to section 227.1 of the Income Tax Act (ITA).
+[7] Sub nom. Wheeliker v. R., [1999] 2 C.T.C. 395.
+[8]
+Companies Act, R.S.N.S. 1989, c. 81, s. 97, which provides: " The acts of a director or manager shall be valid notwithstanding any defect that is afterwards discovered in his appointment or qualification."
+[9] That section provides as follows:
+116. An act of a director or officer is valid notwithstanding an irregularity in their election or appointment or a defect in their qualification.
+[10] Corsano (supra) par. 58 QL, page 5662 DTC.
+[11] Ibid., at par. 61 QL, page 5662 DTC. The Supreme Court of Canada dismissed an application for leave to appeal the decision of the Federal Court of Appeal in Corsano(Canada v. Corsano, [1999] S.C.C.A. No. 260 (QL)).
+[12] Bryan A. GARNER, Black's Law Dictionary, 7th ed. (St. Paul: West Group, 1999), at pp. 472-73.
+[13] Ibid., at p. 1113. Here, the notion of officer is a narrow one. In a broader sense, it applies to any person who holds an office of trust, authority, or command. In that sense, a director could be regarded as an officer. Indeed, in American jurisprudence, a director has been considered as an officer. See for instance the case law cited in William Meade Fletcher, Cyclopedia of the Law of Private Corporations, vol. III, Chicago: Callaghan and Company, 1917), at page 2950.
+[14] Kevin Patrick McGuinness, The Law and Practice of Canadian Business Corporations (Toronto: Butterworths, 1999), at p. 798.
+[15] In Black's Law Dictionary (supra), "appointment" is defined as the "act of designating a person, such as a nonelected public official, for a job or duty".
+[16] It is unfortunate that the CBCA, unlike subsection 5(2) of the Ontario Business Corporations Act, R.S.O. c. B.16 (OBCA), does not expressly require that consent be given.
+[17] Those provisions read as follows:
+100(5) A person who is elected or appointed a director is not a director unless
+(a) he was present at the meeting when he was elected or appointed and did not refuse to act as a director, or
+(b) if he was not present at the meeting when he was elected or appointed,
+(i) he consented to act as a director in writing before his election or appointment . . . or
+(ii) he has acted as a director pursuant to the election or appointment.
+100(6) For the purpose of subsection (5), a person who is elected or appointed as a director and refuses under subsection 5(a) or fails to consent or act under subsection 5(b) shall be deemed not to have been elected or appointed as a director.
+[18] Even if the CBCA does not have a provision similar to subsection 5(2) OBCA.
+[19] I also referred to this case in Simon v. The Queen, 2002 DTC 1795, 1808.
+[20] Thompson cited Hume v. Commercial Bank, 9 Lea (Tenn.) 728 in support of his statement.
+[21] McGuiness, supra, p. 660.
+[22]
+Ibid.
+[23] Ibid, pp. 660-61
+[24] Supra, pp. 472-73.

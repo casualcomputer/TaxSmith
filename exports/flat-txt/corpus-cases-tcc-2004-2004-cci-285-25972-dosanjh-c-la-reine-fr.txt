@@ -1,0 +1,247 @@
+Title: Dosanjh c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25972/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-285-25972-dosanjh-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-04-07
+
+# Dosanjh c. La Reine
+
+- Citation: 2004 CCI 285
+- Decision date: 2004-04-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3770, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dosanjh c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-07
+Référence neutre
+2004 CCI 285
+Numéro de dossier
+2003-2990(GST)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-2990(GST)I
+ENTRE :
+HARBHAJAN SINGH DOSANJH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 31 mars 2004 à Toronto (Ontario)
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me P. Michael Appavoo
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la cotisation de la taxe sur les produits et services établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 12 juin 2003 et porte le numéro 08BP-119060093 pour la période allant du 1er juillet 1997 au 31 décembre 2001, est accueilli sans dépens et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelant doit payer un montant de TPS s'élevant à 3 859 $. Les pénalités et les intérêts seront rajustés en conséquence.
+Signé à Ottawa, Canada, ce 7e jour d'avril 2004.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 22e jour de juillet 2004.
+Sylvie Sabourin, traductrice
+Référence : 2004CCI285
+Date : 20040407
+Dossier : 2003-2990(GST)I
+ENTRE :
+HARBHAJAN SINGH DOSANJH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] M. Dosanjh est chauffeur de taxi. Il pensait, à tort, qu'il pouvait se prévaloir du statut de « petit fournisseur » aux fins de la Loi sur la taxe d'accise (la « Loi » ) pour les années en litige. Il a fait erreur. Le ministre du Revenu national (le « ministre » ) a établi une cotisation à son égard pour la période allant du 1er juillet 1997 au 31 décembre 2001 (la « période » ) en ce qui concerne la taxe sur les produits et services (la « TPS » ) pour la somme de 7 144,41 $ et lui a refusé le montant de 628,04 $ au titre des crédits de taxe sur les intrants (les « CTI » ). Le ministre a fondé son évaluation de la TPS sur les revenus indiqués par M. Dosanjh dans ses déclarations de revenus pour les années 1997 à 2001. Sauf pour 2001, le ministre n'a pas accordé de CTI à M. Dosanjh au motif que ce dernier ne les avait pas demandés et qu'il n'avait déposé aucun document approprié dans la forme prescrite lui donnant le droit de demander des CTI. Je souhaite tout d'abord mentionner mon inquiétude quant à l'approche qui consiste à se fonder sur les revenus déclarés par le contribuable pour évaluer la TPS tout en faisant complètement fi des dépenses que celui-ci a déclarées pour fixer des CTI raisonnables. Le résultat est lourd de conséquences. Je ne suggère aucunement que les contribuables puissent ignorer ouvertement les règles, il est manifeste que ce n'est pas le cas. Cependant, je dis qu'ils pourraient s'attendre à ce que leurs objections soient traitées raisonnablement, étant donné, en particulier, que la notion de « raisonnabilité » est un concept qui à été introduit libéralement dans toutes les facettes de notre législation fiscale.
+Faits
+[2] En 1996, M. Dosanjh a été informé par son comptable qu'il était un petit fournisseur aux fins de la Loi. Il a alors révoqué l'inscription de son entreprise de taxi aux fins de la Loi à partir du 31 décembre 1996. Ce n'est qu'à la fin de 2001 que M. Dosanjh a réalisé son erreur et qu'il a inscrit de nouveau son entreprise à partir du 1er novembre 2001. Il a déclaré une TPS facturée au taux de sept pour cent de son revenu déclaré annuellement s'élevant à 34 964 $. Cette somme représentait la totalité de son revenu d'entreprise pour l'année comme l'indique le relevé de compte commercial qu'il a produit avec sa déclaration de revenus pour 2001, d'où son estimation de la TPS à 2 447,48 $. Il a également demandé des CTI s'élevant à 3 022,63 $. Le ministre a accordé des CTI s'élevant à 2 394,59 $, sans pourtant donner d'explication lors de l'audience à propos de la méthode de calcul utilisée pour accorder les CTI. M. Dosanjh a déclaré des dépenses de 27 118 $ aux fins de l'impôt sur le revenu pour 2001.
+[3] Les déclarations de revenus que M. Dosanjh a produites pour la période allant de 1997 à 2001 ont été déposées en preuve. Elles indiquaient ce qui suit :
+1997
+1998
+1999
+2000
+2001
+Revenu généré par le taxi
+3 298 $
+29 985 $
+34 520 $
+34 260 $
+34 964 $
+Dépenses d'entreprise
+Taxe professionnelle, frais, licence
+9 680 $
+96 $
+82 $
+5 400 $
+Carburant
+2 940 $
+4 680 $
+5 862 $
+3 956 $
+Assurance
+4 000 $
+3 400 $
+3 400 $
+3 421 $
+Intérêts
+90 $
+84 $
+60 $
+Réparations
+364 $
+3 284 $
+842 $
+Repas
+1 430 $
+2 860 $
+1 200 $
+Frais professionnels
+150 $
+150 $
+Services, plus
+720 $
+542 $
+Répartiteur radio
+5 400 $
+5 400 $
+5 400 $
+Location de l'immatriculation
+9 600 $
+9 600 $
+8 971 $
+Fournitures
+784 $
+DPA
+5 368 $
+Total
+__________
+0
+_________
+24 774 $
+_________
+29 404 $
+_________
+27 972 $
+_________
+27 118 $
+[4] J'accepte la preuve de M. Dosanjh selon laquelle ces dépenses d'entreprise étaient légitimes. Les déclarations de revenus semblent avoir été établies telles qu'elles ont été produites. M. Dosanjh n'a présenté aucune documentation à l'appui desdites dépenses à l'exception d'une note dactylographiée provenant d'un certain M. Anwar Warwar, qui a confirmé que M. Dosanjh avait versé des frais mensuels de 800 $, y compris la TPS, au [traduction] « propriétaire de la plaque d'immatriculation du taxi » pour la période allant du 1er janvier 2000 au 31 décembre 2000. M. Dosanjh avait demandé ces renseignements à M. Warwar en vue du présent procès. Il n'est pas contesté que M. Dosanjh exploitait une entreprise de taxi pendant la période en litige et qu'il a effectué les dépenses susmentionnées et gagné le revenu présenté ci-dessus.
+[5] La Couronne n'a cité à comparaître aucun agent de l'Agence des douanes et du revenu du Canada ( « ADRC » ) mais l'avocat m'a informé que la cotisation de TPS établie pour M. Dosanjh avait été déterminée au moyen d'une simple multiplication du revenu déclaré sur ses déclarations de revenus par sept pour cent. Ce calcul a produit les résultats suivants :
+1997
+1998
+1999
+2000
+2001
+Total
+Revenu
+3 298 $
+29 985 $
+34 520 $
+34 260 $
+34 964 $
+TPS à 7 %
+230 $
+2 098 $
+2 416 $
+2 398 $
+2 447 $
+9 589 $
+CTI
+0
+0
+0
+0
+2 394 $
+Dette fiscale
+7 195 $
+[6] Il existe un léger écart entre la dette fiscale s'élevant à 7 195 $ que l'intimée à admise comme hypothèse dans sa Réponse à l'avis d'appel, et le montant de 7 144 $ qui a été établi pour la cotisation de TPS.
+Analyse
+[7] La première question en litige est l'exactitude de la cotisation de TPS du ministre pour les années allant de 1997 à 2001. Le paragraphe 240(1.1) de la Loi exige de tout petit fournisseur qui exploite une entreprise de taxis qu'il inscrive celle-ci. M. Dosanjh exploitait une entreprise de taxis. Il aurait dû l'inscrire. Il aurait dû facturer et verser la TPS. Il n'était pas admissible au statut de petit fournisseur qui lui aurait permis de ne pas facturer la TPS et, donc, de ne pas la remettre. Il incombe à M. Dosanjh de déterminer qui est responsable des pertes qu'il aura subies en raison de cette erreur d'appréciation.
+[8] Quelles sont les sommes que M. Dosanjh aurait dû facturer et verser? La Couronne suggère sept pour cent du revenu déclaré par l'appelant aux fins de l'impôt sur le revenu. D'ailleurs, lorsqu'il a calculé la TPS qu'il devait pour l'année 2001, M. Dosanjh a suivi la même approche. S'il n'avait pas facturé la TPS sur ce revenu et qu'on lui demande maintenant de la verser comme s'il l'avait facturée, je dirais que la somme remise devrait être basée sur le revenu incluant la TPS. Ainsi, si M. Dosanjh avait effectué une course de 30 $, il aurait dû percevoir 32,10 $, ce qu'il n'a pas fait. Il n'a demandé à son client que 30 $. Comment peut-on présumer qu'il détient en fiducie pour le gouvernement des sommes qu'il n'a jamais reçues? Ces 30 $ devraient être répartis en deux fractions, soit le prix de la course s'élevant à 28,04 $ et la TPS théorique de 1,98 $ qui a été chargée et facturée mais non pas versée. Si on fait le calcul plutôt que d'imposer une TPS de 9 589 $, la TPS aurait dû être calculée sur la base du fait qu'elle était comprise dans les prix des courses demandés aux clients. Dans ce cas, le montant de TPS s'élève à 8 962 $.
+[9] Vient ensuite la détermination des CTI. Me Appavoo, au nom de l'intimée, m'a renvoyé au paragraphe 169(4) de la Loi et à l'article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (le « Règlement » ) qui prévoient ce qui suit :
+169(4) L'inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+b) dans le cas où le crédit se rapporte à un bien ou un service qui lui est fourni dans des circonstances où il est tenu d'indiquer la taxe payable relativement à la fourniture dans une déclaration présentée au ministre aux termes de la présente partie, il indique la taxe dans une déclaration produite aux termes de la présente partie.
+Article 3. Les renseignements visés à l'alinéa 169(4)a) de la Loi, sont les suivants :
+a) lorsque le montant total payé ou payable, selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures est de moins de 30 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l'intermédiaire,
+(ii) si une facture a été remise pour la ou les fournitures, la date de cette facture,
+(iii) si aucune facture n'a été remise pour la ou les fournitures, la date à laquelle il y a un montant de taxe payée ou payable sur celles-ci,
+(iv) le montant total payé ou payable pour la ou les fournitures;
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l'intermédiaire et le numéro d'inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur ou à l'intermédiaire, selon le cas,
+(ii) les renseignements visés aux sous-alinéas a)(ii) à (iv),
+(iii) dans le cas où la taxe payée ou payable n'est pas comprise dans le montant payé ou payable pour la ou les fournitures :
+(A) ou bien, la taxe payée ou payable pour toutes les fournitures ou pour chacune d'elles,
+(B) ou bien, si une taxe de vente provinciale est payable pour chaque fourniture taxable qui n'est pas une fourniture détaxée, mais ne l'est pas pour une fourniture exonérée ou une fourniture détaxée :
+(I) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour chaque fourniture taxable, ainsi qu'une déclaration portant que le total pour chaque fourniture taxable comprend la taxe payée ou payable selon cette section,
+(II) soit le total de la taxe payée ou payable selon la section II de la partie IX de la Loi et de la taxe de vente provinciale payée ou payable pour toutes les fournitures taxables, ainsi qu'une déclaration portant que ce total comprend la taxe payée ou payable selon cette section,
+(iv) dans le cas où la taxe payée ou payable est comprise dans le montant payé ou payable pour la ou les fournitures et que l'une ou plusieurs de celles-ci sont des fournitures taxables qui ne sont pas des fournitures détaxées :
+(A) une déclaration portant que la taxe est comprise dans le montant payé ou payable pour chaque fourniture taxable,
+(B) le total (appelé « taux de taxe total » au présent alinéa) des taux auxquels la taxe a été payée ou était payable relativement à chacune des fournitures taxables qui n'est pas une fourniture détaxée,
+(C) le montant payé ou payable pour chacune de ces fournitures ou le montant total payé ou payable pour l'ensemble de ces fournitures auxquelles s'applique le même taux de taxe total,
+(v) dans le cas où deux fournitures ou plus appartiennent à différentes catégories, une mention de la catégorie de chaque fourniture taxable qui n'est pas une fourniture détaxée;
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l'égard d'une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l'acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[10] Me Appavoo s'est également fondé sur l'extrait suivant de la décision rendue par le juge en chef adjoint Bowman dans l'affaire Helsi Construction Management Inc. c. La Reine, [2001] A.C.I. no 149 (Q.L.), au paragraphe 13 :
+Nous avons affaire à l'une des conditions techniques prévues par une loi qui est quelque peu unique par sa particularisation. En outre, il s'agit là du fondement d'un régime d'autocotisation visant le monde du commerce. Aussi malheureux que cela puisse paraître pour l'appelante, les règles sont les règles [...].
+[11] On peut penser que cette citation visait à justifier une approche rigoureuse des obligations techniques qui atteint un résultat complètement décalé par rapport à la réalité commerciale et, d'ailleurs, ne correspond pas à l'un des objectifs du système de TPS. Bien sûr, les règles sont les règles et les obligations techniques sont nécessaires pour garantir le fractionnement correct du processus de collecte de la TPS. Pourtant, ces règles ne visent pas à garantir des gains énormes à l'État. Le bon sens doit encadrer leur application. En l'espèce, M. Dosanjh a été conseillé par son comptable qui lui a dit qu'il était un petit fournisseur et qu'il n'avait donc pas besoin de s'inscrire. L'appelant ne connaissait pas l'existence du paragraphe 240(1.1), qui exige une inscription. Pendant les années en litige, il a exploité son entreprise en fonction de son appréciation erronée et n'a, ni facturé, ni versé la TPS. Cependant, il a continué à effectuer des dépenses que l'ADRC a jugées acceptables pour déterminer le revenu imposable de M. Dosanjh. Cependant, parce que M. Dosanjh ne peut produire maintenant de reçus comportant les renseignements prescrits, ces dépenses n'ont aucun effet sur le calcul de la somme qu'il devrait verser. Comme je l'ai déclaré au départ, c'est un résultat lourd de conséquences. Cependant, ce qui est intrigant, c'est que l'intimée a accordé des CTI s'élevant à 2 394 $ pour 2001 sans me fournir de preuve de la méthode de calcul qu'elle a utilisée pour ce faire.
+[12] Je n'interprète pas le paragraphe 169(4) comme une obligation faite au contribuable de produire les renseignements prescrits devant l'ADRC. Cette disposition exige seulement que l'inscrit « obtien[ne] les renseignements suffisants [...] » . M. Dosanjh doit donc posséder, à un moment précédant sa demande de CTI, la preuve nécessaire. L'ADRC n'a rien trouvé à redire à propos des dépenses déclarées aux fins de l'impôt sur le revenu et j'accepte la preuve de M. Dosanjh indiquant qu'il a bel et bien effectué lesdites dépenses. Il n'est pas question ici de chiffres, mais seulement de savoir si M. Dosanjh s'est acquitté de son obligation d'obtenir les renseignements prescrits et nécessaires. Malheureusement, nous ne disposons que de peu de preuves à l'égard des renseignements obtenus par M. Dosanjh pour juger si ces renseignements satisfont aux obligations imposées par le Règlement. Selon le Règlement, il est manifeste que les renseignements suivants sont nécessaires en ce qui concerne les dépenses inférieures à 30 $ :
+- nom du fournisseur;
+- date;
+- montant payé.
+Pour les dépenses entre 30 $ et 150 $, les renseignements supplémentaires suivants sont nécessaires :
+- numéro d'inscription;
+- montant de la taxe, s'il n'est pas inclus dans le montant payé.
+Pour les dépenses excédant 150 $, les renseignements supplémentaires suivants sont nécessaires :
+- nom du bénéficiaire;
+- modalités de paiement;
+- description de la fourniture.
+[13] Après avoir examiné les dépenses réelles durant la période qui ont été acceptées, avec une généreuse dose de bons sens pour juger si M. Dosanjh avait obtenu ces renseignements, je conclus ce qui suit :
+1. Carburant Faire le plein dans n'importe quelle station service produira les renseignements nécessaires concernant les paiements inférieurs à 150 $. M. Dosanjh a satisfait les obligations en ce qui concerne cette dépense qui s'élève à 17 438 $ au cours de la période.
+2. Assurance Je suis prêt à prendre connaissance d'office du fait que les compagnies d'assurance ne facturent pas sans indiquer les renseignements exigés par le Règlement. M. Dosanjh a satisfait cette obligation pour les dépenses d'assurance qui s'élèvent à 14 221 $.
+3. Téléphone et frais professionnels
+De même, les comptes des sociétés de services publics et des professionnels contiendraient naturellement les renseignements appropriés. Ces montants s'élèvent à 1 562 $.
+4. Réparations Sans savoir où M. Dosanjh a fait effectuer ses réparations, il est impossible de tirer des conclusions quant aux renseignements, s'il en est, obtenus par M. Dosanjh. Ainsi, il se pourrait qu'il n'ait fait affaire qu'avec des petits fournisseurs qui ne facturaient pas la TPS. Je ne peux conclure qu'il a été satisfait aux obligations en ce qui concerne les réparations.
+5. Repas On ne m'a fourni aucun détail quant à cette dépense, bien que les restaurants - et même les chaînes de restauration rapide - offrent des preuves de la fourniture et au minimum leur nom, la date et le montant. Ce sont là les seuls renseignements exigés pour les dépenses inférieures à 30 $. Je ne puis imaginer quelles dépenses supérieures à 30 $ M. Dosanjh aurait pu faire. J'accepte également que très peu de restaurants, sinon aucun, seraient des petits fournisseurs. Je conclus que M. Dosanjh a satisfait aux exigences en s'étant procuré les renseignements nécessaires concernant ses dépenses de repas qui s'élèvent à 5 490 $.
+6. Répartiteur radio (21 600 $) et location des plaques (37 771 $)
+Il s'agit de deux postes de dépenses majeures essentielles pour l'exploitation d'une entreprise de taxis. Malheureusement pour M. Dosanjh, ce sont également deux articles dont je ne connais pas de façon générale la méthode de facturation. La seule preuve dont je dispose est la note de M. Warwar, qui n'est pas une facture mais une simple confirmation de la somme payée. Il n'y avait pas de date ou de numéro d'inscription. Sa valeur probante était faible, sinon pour permettre d'en inférer qu'il n'existait aucune facture, qu'il aurait produite sans cela. Alors que j'ai conclu en faveur de M. Dosanjh pour les dépenses ordinaires et pour lesquelles le bon sens veut d'ailleurs qu'il ait obtenu les renseignements nécessaires, je ne sais pas comment un répartiteur radio ou un propriétaire de plaques d'immatriculation facturent un chauffeur de taxi. M. Dosanjh n'a été d'aucun secours à cet égard. Il serait incorrect de se fonder sur la seule spéculation pour conclure que M. Dosanjh avait obtenu les renseignements exigés pour justifier ces dépenses. Je n'en sais tout simplement rien.
+[14] Mes conclusions n'ont pas pour objet d'encourager les contribuables à jeter leurs pièces justificatives, bien au contraire, M. Dosanjh aurait obtenu des résultats bien meilleurs s'il avait conservé des justificatifs complets et précis. Il existait des circonstances, en l'espèce, qui m'ont amené à donner gain de cause à M. Dosanjh à propos de certaines dépenses malgré le fait qu'il n'a produit aucun document lors du procès. Ce sont :
+1. la crédibilité de M. Dosanjh comme témoin;
+2. l'acceptation par l'ADRC des dépenses aux fins de l'impôt sur le revenu, et par conséquent l'absence de contestation du montant;
+3. l'acceptation par l'ADRC en 2001 des dépenses de M. Dosanjh pour lui accorder un certain montant de CTI;
+4. l'exploitation par M. Dosanjh de son entreprise en se fondant sur une appréciation erronée basée sur des conseils professionnels;
+5. si le montant n'est pas en litige, le caractère manifeste du fait que les justificatifs appropriés concernant les dépenses en question auraient été obtenus.
+[15] Je conclus que M. Dosanjh doit 8 962 $ au titre de la TPS, mais qu'il a droit aux CTI à un taux de sept pour cent de 38 711 $ (soit le total des dépenses pour lesquelles il a obtenu les renseignements prescrits suffisants) ou 2 709 $, ce qui laisse un montant à verser de 3 859 $. En bref, l'appel est accueilli et la TPS à verser est calculée comme suit :
+TPS de
+8 962 $
+moins CTI accordés
+par l'ADRC 2 394 $
+moins CTI accordés
+par le tribunal 2 709 $
+Dette fiscale 3 859 $
+Aucun dépens ne sera adjugé.
+Les pénalités et les intérêts seront rajustés en conséquence.
+Signé à Ottawa, Canada, ce 7e jour d'avril 2004.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 22e jour de juillet 2004.
+Sylvie Sabourin, traductrice

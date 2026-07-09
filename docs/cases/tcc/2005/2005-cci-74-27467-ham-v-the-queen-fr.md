@@ -1,0 +1,213 @@
+---
+title: "Ham v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27467/index.do"
+last_modified: "2005-02-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 74"
+citation2: ""
+neutral_citation: "2005 CCI 74"
+decision_date: "2005-02-11"
+language: "fr"
+item_id: "27467"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 128
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:15:29.113000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8aad41541d9cf16ba81df7e2df28b6b08d6c54939a6b826c51ed0ae7b26888b4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ham v. The Queen
+
+- Citation: 2005 CCI 74
+- Decision date: 2005-02-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 128, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ham v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-11
+Référence neutre
+2005 CCI 74
+Numéro de dossier
+2004-1200(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1200(IT)I
+ENTRE :
+SAM JIN HAM,
+appelant,
+Et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus à Toronto (Ontario), le 13 janvier 2005
+Devant : L'honorable juge T. O'Connor
+Comparutions :
+Avocat de l'appelant :
+Me Thomas McRae
+Avocat de l'intimée :
+Me Craig Maw
+JUGEMENT
+Les appels des nouvelles cotisations établies en application de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1999 et 2000 sont admis, dans la mesure où ils permettent à l'appelant de déduire des primes d'assurance médicale de 115 $ pour 1999 et de 1 380 $ pour 2000, et où ils admettent la déduction d'au plus la moitié des salaires des cinq enfants de l'appelant relativement à son entreprise d'assurances, soit un total de 3 800 $ pour 1999 et de 17 400 $ pour 2000, le tout conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de février 2005.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 22e jour d'août 2005.
+Hélène Tremblay, traductrice
+Référence : 2005CCI74
+Date : 20050211
+Dossier : 2004-1200(IT)I
+ENTRE :
+SAM JIN HAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] La question en litige dans les présents appels est celle de savoir si l'appelant a le droit de déduire certaines dépenses pour les années d'imposition 1999 et 2000.
+[2] À la suite des nouvelles cotisations, datées du 20 mai 2003 et du 31 décembre 2003, le ministre du Revenu national (le « ministre » ) a refusé les dépenses salariales mentionnées ci-dessous qui auraient censément été payées à certains des enfants de l'appelant relativement à son entreprise d'assurances, à savoir :
+1999
+2000
+Jeehon, fille
+2 400 $
+Jeehon, fille
+8 400 $
+Jeeho, fils
+5 200 $
+Jeeho, fils
+8 400 $
+Jihae, fille
+9 600 $
+Edwin, fils
+4 200 $
+Edward, fils
+4 200 $
+Total
+7 600 $
+Total
+34 800 $
+[3] Dès le départ, les parties ont convenu que certaines des autres dépenses qui, semble-t-il, avaient été refusées devaient être admises, à savoir les montants de primes d'assurance médicale de 115 $ pour 1999 et de 1 380 $ pour 2000. De plus, les parties ont convenu que la seule question à trancher concernait le refus des salaires susmentionnés et que les salaires versés à l'épouse de l'appelant et aux enfants de l'appelant relativement à l'entreprise de magasin populaire ne faisaient plus l'objet d'un litige.
+[4] Les motifs du refus du ministre sont essentiellement fondés sur les hypothèses de fait suivantes qui se trouvent au paragraphe 8 de la réponse :
+[TRADUCTION]
+d) pour ses années d'imposition 1999 et 2000, l'appelant n'a pas versé à ses enfants les montants respectifs de 7 600 $ et de 34 800 $ qu'il a déduits comme des dépenses de salaire et de traitement relativement à son entreprise d'assurances;
+[...]
+h) pendant l'année d'imposition 1999, ses enfants, Jeehon, Jeeho, Jihae, Edwin et Edward, étaient âgés de 21, 20, 18, 16 et 16 ans;
+[...]
+k) au cours des années d'imposition 1999 et 2000, l'entreprise d'assurances n'avait pas d'employés;
+[...]
+m) si elles ont été faites ou engagées, les dépenses de salaire et de traitement qui ont été refusées n'ont pas été faites ou engagées dans le but de tirer des revenus de commissions [...], elles étaient plutôt des dépenses personnelles ou des frais de subsistance pour l'appelant;
+n) les dépenses de salaire et de traitement refusées par le ministre n'étaient pas raisonnables dans les circonstances.
+[5] La réponse soutient également ce qui suit :
+[TRADUCTION]
+[...] les dépenses de salaire et de traitement refusées par le ministre n'étaient pas des dépenses engagées ou effectuées dans le but de tirer des revenus de commissions, qu'elles étaient plutôt des dépenses personnelles ou des frais de subsistance pour l'appelant et qu'on avait correctement établi les nouvelles cotisations de l'appelant à l'égard des années d'imposition 1999 et 2000, conformément aux alinéas 18(1)a), 18(1)h) et 118.2(2)q) de la Loi.
+[...] les dépenses refusées concernant la déduction de salaires et de traitements ne sont pas raisonnables dans les circonstances et elles ne sont pas déductibles aux termes de l'article 67 de la Loi.
+[6] D'autres faits qui ont conduit le ministre à refuser les salaires présumés concernent la façon dont ils étaient versés. Le détail du versement est mentionné dans l'extrait suivant de l'avis d'appel à l'égard de l'année 1999 :
+[TRADUCTION]
+La famille Ham a un compte bancaire unique pour toute la famille. Les revenus tirés de l'entreprise d'assurances sont versés dans ce compte. Les enfants reçoivent leurs traitements en argent ou par des avantages directs tenant lieu d'argent pour des dépenses personnelles, ce qui comprend la nourriture, les vêtements, le divertissement, leur partie des coûts de la maison, les frais de scolarité, le transport, les vacances et d'autres dépenses. Il en est ainsi à la demande des enfants. La famille Ham a un revenu limité et les enfants comprennent que toute la famille doit travailler pour réussir. Même si l'Agence du revenu du Canada préfère les chèques comme confirmation de paiement, la méthode de la famille Ham n'en est pas moins valide. [...]
+[7] On retrouve ce même paragraphe dans l'avis d'appel pour l'année d'imposition 2000.
+[8] L'appelant soutient qu'en 1999, le travail de Jeehon et de Jeeho était de faire du classement, de faire des appels de prospection, de télémarketing et de recouvrement, de faire des transactions bancaires, de participer à des activités culturelles coréennes pour trouver des possibilités d'affaires, et de faire de la saisie de données.
+[9] L'appelant soutient également qu'en 2000, le travail effectué par Jeehon, Edwin, Jihae et Jeeho était de faire du classement, de la prospection et du télémarketing, des appels de recouvrement ainsi que des transactions bancaires, de participer à des activités culturelles coréennes pour trouver des possibilités d'affaires et de faire de la saisie de données. Pour cette même année, le travail d'Edward était de faire du classement, de la prospection et des appels de télémarketing et de recouvrement.
+[10] Dans la pièce A-1, l'appelant a inclus des lettres non signées qui se lisent comme suit :
+[TRADUCTION]
+Madame, Monsieur,
+Au cours des années d'imposition 1999 et 2000, Sam Ham m'a versé des traitements de 5 200 $ et de 8 400 $ pour avoir effectué mes tâches liées à son entreprise d'assurances. On m'a payé en argent ou en s'acquittant, pour mon compte, de dépenses personnelles comme la nourriture, les vêtements, le divertissement, les cigarettes, ma partie des coûts de la maison, les frais de scolarité (actuels ou passés), le transport, les vacances, des cadeaux de fête ou de Noël, ainsi que d'autres dépenses diverses.
+Veuillez agréer, Madame, Monsieur, mes salutations distinguées.
+Jeeho Ham
+Madame, Monsieur,
+Au cours des années d'imposition 1999 et 2000, Sam Ham m'a versé des traitements de 2 400 $ et de 8 400 $ pour avoir effectué mes tâches liées à son entreprise d'assurances. On m'a payé en argent ou en s'acquittant, pour mon compte, de dépenses personnelles comme la nourriture, les vêtements, le divertissement, ma partie des coûts de la maison, les frais de scolarité (actuels ou passés), le transport, les vacances, des cadeaux de fête ou de Noël, ainsi que d'autres dépenses diverses.
+Veuillez agréer, Madame, Monsieur, mes salutations distinguées.
+Jeehon Ham
+Madame, Monsieur,
+Au cours de l'année d'imposition 2000, Sam Ham m'a versé des traitements de 4 200 $ pour avoir effectué mes tâches liées à son entreprise d'assurances. On m'a payé en argent ou en s'acquittant, pour mon compte, de dépenses personnelles comme la nourriture, les vêtements, le divertissement, les cigarettes, ma partie des coûts de la maison, les frais de scolarité (actuels ou passés), le transport, les vacances, des cadeaux de fête ou de Noël, ainsi que d'autres dépenses diverses.
+Veuillez agréer, Madame, Monsieur, mes salutations distinguées.
+Edward Ham
+Madame, Monsieur,
+Au cours de l'année d'imposition 2000, Sam Ham m'a versé des traitements de 4 200 $ pour avoir effectué mes tâches liées à son entreprise d'assurances. On m'a payé en argent ou en s'acquittant, pour mon compte, de dépenses personnelles comme la nourriture, les vêtements, le divertissement, les cigarettes, ma partie des coûts de la maison, les frais de scolarité (actuels ou passés), le transport, les vacances, des cadeaux de fête ou de Noël, ainsi que d'autres dépenses diverses.
+Veuillez agréer, Madame, Monsieur, mes salutations distinguées
+Edwin Ham
+Madame, Monsieur,
+Au cours de l'année d'imposition 2000, Sam Ham m'a versé des traitements de 9 600 $ pour avoir effectué mes tâches liées à son entreprise d'assurances. On m'a payé en argent ou en s'acquittant, pour mon compte, de dépenses personnelles comme la nourriture, les vêtements, le divertissement, ma partie des coûts de la maison, les frais de scolarité (actuels ou passés), le transport, les vacances, des cadeaux de fête ou de Noël, ainsi que d'autres dépenses diverses.
+Veuillez agréer, Madame, Monsieur, mes salutations distinguées
+Jihae Ham
+[11] De plus, l'appelant a présenté un résumé écrit des heures et des taux de salaire.
+Jeehon - 1999 - 160 heures à 15 $ - total 2 400 $
+Jeehon - 2000 - 560 heures à 15 $ - total 8 400 $
+Jeeho - 1999 - 347 heures à 15 $ - total 5 200 $
+Jeeho - 2000 - 560 heures à 15 $ - total 8 400 $
+Jihae - 2000 - 960 heures à 10 $ - total 9 600 $
+Edward - 2000 - 420 heures à 10 $ - total 4 200 $
+Edwin - 2000 - 420 heures à 10 $ - total 4 200 $
+[12] L'appelant et ses trois fils, Jeeho, Edwin et Edward, ont témoigné. Même si la réponse à l'avis d'appel mentionne l'absence de feuillets T4 et des déclarations de revenus des enfants pour ce qui est des salaires en cause, la transcription des témoignages indique qu'il s'agit de questions qui, en fin de compte, ont été réglées.
+Analyse et conclusion
+[13] À mon avis, les éléments suivants sont des considérations essentielles.
+1. Il incombe à l'appelant de prouver que les nouvelles cotisations sont erronées et de détruire les hypothèses de fait contenues dans la réponse, ou de prouver qu'elles sont erronées.
+2. Personne n'a expliqué pourquoi les lettres des enfants mentionnées ci-dessus n'étaient pas signées, mais les trois enfants qui ont témoigné ont confirmé avoir travaillé les heures évaluées. Toutefois, il est difficile de comprendre pourquoi il était nécessaire d'avoir tant d'employés pour faire le même travail et pourquoi tant d'heures avaient été nécessaires. Les deux enfants qui n'ont pas témoigné n'étaient pas en ville et ne pouvaient pas se présenter à l'audience.
+3. La mise en commun de l'argent que représentaient les salaires présumés et leur application, comme on l'a expliqué ci-dessus, laisse planer le doute quant à savoir si les montants complets ont véritablement été versés et reçus.
+4. L'appelant et ses enfants avaient un lien de dépendance et les registres ainsi que la tenue de livres de l'appelant laissaient à désirer.
+5. Malgré ce qui précède, les témoignages non contredits démontrent que les enfants ont bel et bien travaillé et reçu certains paiements. Cependant, étant donné les circonstances, je ne considère pas que les paiements déduits correspondent entièrement à ce qui est prévu à l'alinéa 18(1)a) de la Loi de l'impôt sur le revenu et même qu'ils soient raisonnables. Par conséquent, j'ai décidé que les appels doivent être admis dans la mesure où ils permettent à l'appelant de déduire des primes d'assurance médicale de 115 $ pour 1999 et de 1 380 $ pour 2000, et où ils admettent la déduction d'au plus la moitié des salaires des cinq enfants de l'appelant relativement à son entreprise d'assurances, soit un total de 3 800 $ pour 1999 et de 17 400 $ pour 2000.
+Signé à Ottawa, Canada, ce 11e jour de février 2005.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+ce 22e jour d'août 2005.
+Hélène Tremblay, traductrice
+RÉFÉRENCE :
+2005CCI74
+DOSSIER DE LA COUR :
+2004-1200(IT)I
+INTITULÉ :
+Sam Jin Ham c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 13 janvier 2005
+MOTIFS DU JUGEMENT :
+L'honorable juge T. O'Connor
+DATE DU JUGEMENT :
+Le 11 février 2005
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Thomas McRae
+Avocat de l'intimée :
+Me Craig Maw
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me Thomas McRae
+Cabinet :
+Shibley Righton, LLP
+Toronto (Ontario)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

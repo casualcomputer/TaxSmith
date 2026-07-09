@@ -1,0 +1,285 @@
+---
+title: "Portes & Fenêtres Abritek Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/405374/index.do"
+last_modified: "2019-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 96"
+citation2: ""
+neutral_citation: "2019 TCC 96"
+decision_date: "2019-04-30"
+language: "en"
+item_id: "405374"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4402
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:14:52.835000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "05b6e0674e4e414cddd719e83772e39e2a2ff3fa6935b152f9f1d730e538d0c9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Portes & Fenêtres Abritek Inc. v. M.N.R.
+
+- Citation: 2019 TCC 96
+- Decision date: 2019-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4402, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Portes & Fenêtres Abritek Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-04-30
+Neutral citation
+2019 TCC 96
+File numbers
+2017-4148(EI)
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2017-4148(EI)
+BETWEEN:
+PORTES & FENÊTRES ABRITEK INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+BIANCA DUPUIS,
+Intervener,
+and
+CATHERINE DUPUIS,
+Intervener,
+and
+JONATHAN DUPUIS,
+Intervener,
+and
+SAMUEL DUPUIS,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 19, 2018, at Québec, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the appellant:
+Alain Savoie
+Counsel for the respondent:
+Julien Dubé-Sénécal
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act (the “Act”) is dismissed, and the Minister of National Revenue’s decision is affirmed: the interveners were employed in insurable employment, when in the appellant’s service, for the period from January 1, 2016, to December 8, 2016, in accordance with paragraphs 5(2)(i) and 5(3)(b) of the Act.
+Signed at Ottawa, Canada, this 30th day of April 2019.
+“Réal Favreau”
+Favreau J.
+Citation: 2019 TCC 96
+Date: 20190430
+Docket: 2017-4148(EI)
+BETWEEN:
+PORTES & FENÊTRES ABRITEK INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+BIANCA DUPUIS,
+Intervener,
+and
+CATHERINE DUPUIS,
+Intervener,
+and
+JONATHAN DUPUIS,
+Intervener,
+and
+SAMUEL DUPUIS,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] The appellant is appealing the Minister of National Revenue’s (the “Minister”) decisions dated July 21, 2017, that Bianca, Catherine, Jonathan and Samuel Dupuis (the “workers”) were all employed in insurable employment while working for Portes & Fenêtres Abritek Inc. (the “appellant” or the “payer”) during the period from January 1, 2016, to December 8, 2016 (the “period at issue”).
+[2] Pursuant to the above-mentioned decisions, the Minister found that each worker was employed under a contract of service under paragraph 5(1)(a) of the Employment Insurance Act, S.C. 1996, c. 23, as amended (the “Act”). The Minister then determined that the appellant and each worker were related persons within the meaning of the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.), as amended (the “ITA”) and were deemed not to deal with each other at arm’s length. Finally, the Minister was satisfied that, under the circumstances, it was reasonable to conclude that the payer and each worker would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length. As a result, the employment of each worker was insurable employment for the purposes of the Act.
+[3] In making his decisions, the Minister considered the following facts in paragraph 16 of the Reply to the Notice of Appeal:
+(a) the appellant is an incorporated entity;
+(b) the appellant operates a PVC window and door sale and manufacturing business;
+(c) during the period at issue, 9073-3965 Québec Inc. held and controlled all of the appellant’s voting shares;
+(d) during the period at issue, Josée Bilodeau held and controlled all the voting shares of 9073‑3965 Québec Inc.;
+(e) Josée Bilodeau is the mother of the workers;
+(f) the appellant had six directors responsible for:
+(i) Sales;
+(ii) Field sales;
+(iii) The two factories;
+(iv) Purchasing;
+(v) Shipping; and
+(vi) Human Resources;
+(g) Bianca Dupuis was the Purchasing Director;
+(h) Bianca Dupuis looked after:
+(i) sales customer service;
+(ii) price changes;
+(iii) marketing brochures; and
+(iv) the computer system;
+(i) Catherine Dupuis was Director of Human Resources;
+(j) Catherine Dupuis looked after:
+(i) hiring and terminations;
+(ii) employee complaints;
+(iii) training;
+(iv) health and safety; and
+(v) social events;
+(k) Jonathan Dupuis was the Director of the appellants’ two factories;
+(l) Jonathan Dupuis looked after:
+(i) purchasing machinery and trucks;
+(ii) product research and development;
+(iii) supervising team leaders; and
+(iv) replacing missing staff;
+(m) Samuel Dupuis was:
+(i) a day labourer until August 2016; then
+(ii) replacement team leader since August 2016;
+(n) As a day labourer, Samuel Dupuis worked on the door and window assembly line;
+(o) As a replacement team leader, Samuel Dupuis supervised 10 to 15 employees working in one of the appellant’s two factories;
+(p) the appellant remunerated the workers by direct deposit for services rendered;
+(q) the appellant made deductions at source from the workers’ pay;
+(r) the workers met regularly with Josée Bilodeau to discuss work;
+(s) the appellant retained her right of supervision;
+(t) the appellant issued T4 slips to the workers;
+(u) the workers were paid at different hourly rates depending on their position and seniority;
+(v) workers were paid overtime when they worked more than 40 hours a week;
+(w) during part of the period at issue, Jonathan Dupuis was paid a fixed weekly salary;
+(x) while Jonathan Dupuis was paid a fixed weekly salary, the additional hours he worked were banked and converted to leave;
+(y) the appellant paid the workers annual bonuses because they performed additional duties;
+(z) with the bonuses they received, the workers’ salaries were in line with the market average;
+(aa) the workers had not completed post-secondary studies;
+(bb) the workers gained experience over the years, working for the appellant;
+(cc) the workers completed timesheets, as did the other employees working for the appellant;
+(dd) the workers were covered by the appellant’s group insurance, as were the other employees working for the appellant;
+(ee) the workers accrued vacation days based on their seniority;
+(ff) the workers worked for the appellant full-time for several years;
+(gg) as experienced, reliable and responsible workers, they had a somewhat flexible work schedule;
+(hh) as persons working in management positions, the workers worked a few hours without asking for remuneration;
+(ii) the workers mostly worked in the appellant’s place of business;
+(jj) as workers in management positions and/or workers who did not have to use heavy equipment, they worked a little from home;
+(kk) the appellant paid for certain expenses when the workers worked outside the area;
+(ll) the appellant operated year‑round;
+(mm) the workers were hired year‑round;
+(nn) the duties performed by the workers were essential to the appellant’s activities; and
+(oo) none of the workers received extravagant or overly generous terms of employment, based on their position in the company.
+[4] At the hearing, the agent for the appellant admitted that a contract of service existed between the appellant and each worker. As a result, the only issue is whether it was reasonable for the Minister to find that, for each worker, a similar employment contract would have been entered into if they had been dealing with each other at arm’s length, taking into account the remuneration paid, the terms and conditions of employment and the duration, nature and importance of the work, and consequently, the worker is deemed to be dealing at arm’s length with the payer under the Act.
+[5] Although the decision in this case is not related to a previous period of employment, it should be noted that the Tax Court of Canada has already ruled that Bianca and Jonathan Dupuis’s jobs were insurable when they were working for the appellant from January 1, 2007, to September 7, 2007 (2009 TCC 285 (Tardif J.)).
+Testimonies
+[6] Josée Bilodeau, Bianca Dupuis, Catherine Dupuis and Jonathan Dupuis testified at the hearing on behalf of the appellant. Samuel Dupuis did not testify because he had to manage the appellant’s operations on the day of the hearing.
+[7] Josée Bilodeau is the spouse of the late Christian Dupuis, who died in 2014, and is the mother of Bianca, Catherine, Jonathan and Samuel Dupuis.
+[8] Ms. Bilodeau is the appellant’s president and owns all of the appellant’s voting shares through a management company, 9073-3965 Québec Inc., of which she is the sole shareholder. Ms. Bilodeau is on the appellant’s Board of Directors along with her four children and two other unidentified individuals.
+[9] Ms. Bilodeau explained that the appellant is a family business. In 2016, it had a staff of about 100 employees at two factories in Saint-Georges de Beauce, Quebec. The appellant’s administrative offices are located in one of the two factories and Ms. Bilodeau is usually present. She is in charge of accounting with an on-site assistant and remits payroll deductions and taxes to governments. She signs all cheques, but Bianca has a power of attorney authorizing her to sign cheques if necessary (e.g. prolonged absence).
+[10] Ms. Bilodeau explained that the appellant had five directors at that time, three of whom were her children.
+[11] Bianca was the Purchasing Director and was responsible for advertising, public relations, large sales projects and the computer system.
+[12] Jonathan was the Director of the two factories and was responsible for production, materials, machinery and truck purchases, research and development of new products, and supervision of team leaders.
+[13] Catherine was Director of Human Resources and was responsible for staffing (hiring, terminations, employee complaints, training, health and safety) and social events.
+[14] The other two director positions, the Sales Director and the Field Sales Director, were held by long-time employees who were not family members.
+[15] Samuel was a production day labourer until August 2016 and later became a replacement team leader. In this capacity, he supervised 10 to 15 employees working in one of the appellant’s two factories.
+[16] Ms. Bilodeau explained that her children all started working in the company at a very young age, often before having completed their college education. They had no training and no real work experience. According to her, her children behave like future owners of the company. They hold key positions in the company, and this is why the appellant purchased $1‑million life insurance policies for each of them. They had a great deal of independence in performing their duties and have no fixed working hours. They do not have to ask anyone for permission to be absent from work for any reason (family, vacation, illness). Their remuneration is not based on any particular salary scale, and each person is entitled to a $15,000 gross annual bonus ($7,000 net) that does not depend on the company’s performance, or the quantity and quality of services they provide.
+[17] In 2016, the salaries earned by each worker were as follows (based on the salaries reported in the T4 slips):
+[BLANK]
+2016 Salaries
+Variance from 2015
+Bianca
+$71,639
+$5,371 increase
+Catherine
+$43,315
+$3,687 increase
+Jonathan
+$62,443
+$1,932 decrease
+Samuel
+$58,874
+$3,927 increase
+[18] Ms. Bilodeau also explained that the time cards completed by the workers were not actually used. The workers completed them to set an example for the other employees. Most of the time, the administrative assistant responsible for the payroll called them to ask how many hours they had worked in the week that had just ended. According to Ms. Bilodeau, there was no control over timesheets, and the workers could indicate the number of hours they wanted to be paid for, according to their personal needs.
+[19] Catherine, Bianca and Jonathan Dupuis testified at the hearing and essentially confirmed their mother’s testimony. Catherine said her salary was based on her specific needs after having discussed the matter with her mother, and that her mother added substantial amounts to her salary by giving her personal cheques as gifts. She indicated that she was paid for about 40 hours a week and that the overtime hours she worked in the evening at the factory or at home were not counted. She did not get a bonus in 2016 because she received a car worth $30,000.
+[20] Bianca explained that she had to work a lot of overtime in 2016 and 2017 after a new computer system was installed and that these overtime hours were not all counted. She also indicated that she received a bonus in 2016 and gifts from her mother in the amounts of $25,000 and $50,000. She takes few vacations and always stays in touch with the company’s executives.
+[21] Jonathan indicated that he did not have a regular work schedule and that he had a great deal of independence in performing his duties. In 2016, he supervised three independent production teams with a total of 75 employees and was responsible for factory management plans and purchasing and robotizing production equipment. He also looked after maintaining the family estate and operating the maple grove with 20,000 to 25,000 taps. He admitted that he had a high standard of living and that if he needed money, he would report more hours worked. He did not receive a bonus in 2016 because of his spousal separation.
+Analysis
+[22] The relevant provisions in this case are paragraphs 5(1)(a), 5(2)(i) and 5(3)(b) of the Act, which read as follows:
+Types of insurable employment
+5(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+…
+Excluded employment
+(2) Insurable employment does not include
+…
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+Arm’s length dealing
+(3) For the purposes of paragraph 2(i):
+…
+(b) if the employer is, within the meaning of the Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[23] Under the provisions of the ITA, the four workers are related to their mother, who controls the appellant through 9073-3965 Québec Inc. Consequently, the workers are related to the appellant, and there is a non-arm’s length relationship between them and the appellant.
+[24] Under paragraph 5(2)(i) of the Act, insurable employment does not include employment where the employer and the workers are not dealing with each other at arm’s length, except if the Minister is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that the employer and the workers would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[25] If the Minister comes to this conclusion in a reasonable manner, the employer and the workers are deemed to be dealing with each other at arm’s length and their employment becomes insurable employment.
+[26] The role vested in this Court when the Minister has exercised his discretion has been the subject of several judicial decisions, including the judgment rendered by the Federal Court of Appeal in Canada (Attorney General) v. Jencan Ltd. (C.A.), [1997] FCJ 876 [1998] 1 FC 187. The following excerpts from Jencan provide a good summary of this Court’s role:
+. . . “Because it is a decision made pursuant to a discretionary power, as opposed to a quasi-judicial decision, it follows that the Tax Court must show judicial deference to the Minister’s determination when he exercises that power.” . . .
+. . . “On the basis of the foregoing, the Deputy Tax Court Judge was justified in interfering with the Minister’s determination under subparagraph 3(2)(c)(ii) only if it was established that the Minister exercised his discretion in a manner that was contrary to law.” . . . “The Tax Court is justified in interfering with the Minister’s determination under subparagraph 3(2)(c)(ii) “by proceeding to review the merits of the Minister’s determination” where it is established that the Minister: (i) acted in bad faith or for an improper purpose or motive; (ii) failed to take into account all of the relevant circumstances, as expressly required by paragraph 3(2)(c)(ii); or (iii) took into account an irrelevant factor . . .”
+[27] In this case, the question to be asked is whether the Minister has considered all the relevant circumstances as required under paragraph 5(3)(b) of the Act and whether the Minister’s decision was reasonable under the circumstances.
+[28] In his argument, the agent for the appellant cited the following criteria that exclude the workers’ jobs from insurable employment:
+- the workers’ salaries were not based on the hours actually worked, but on the personal needs of each worker;
+- bonuses paid to the workers were not tied to performance;
+- absence of fixed hours of work; the workers worked 30 to 82 hours a week, evenings, nights or weekends. These hours were not all reported or remunerated;
+- the workers decided on the time and duration of their vacations and their days of absence without asking anyone for permission; the work/family balance was very important here;
+- the workers had wide latitude in performing their duties and worked without any supervision or reporting obligations;
+- the workers performed tasks that the other employees would not be willing to perform (e.g. washing the toilets, removing snow from the roofs, opening the factory early in the morning);
+- the workers had their mother’s complete trust, and their status was comparable to the status they would have had if they had been co-owners of the company.
+[29] Counsel for the respondent made the following comments with respect to the four criteria listed in paragraph 5(3)(b) of the Act.
+[30] The remuneration paid to the workers is based on an hourly rate for the number of hours reported by each worker to Alexandre Labbé, an independent person who closely monitors the hours worked by company employees. Overtime reported by the workers is recorded and remunerated at a rate of time and a half by the appellant. There are no apparent differences in the way hours worked by workers are processed compared to the way hours worked by other employees are processed.
+[31] Salaries paid to workers are in the top third of the salaries paid to the appellant’s employees and in the average range of salaries paid in the industry for similar positions. The increase in salaries paid to the workers is reasonable under the circumstances.
+[32] The appellant implemented a bonus policy for some of its employees, i.e. the sales director, Alain Breton, and the workers. The $9,920 bonus paid to Mr. Breton in 2016 was based on a performance criterion, whereas the $7,000 net bonuses paid to the workers in 2016 (except Jonathan and Catherine, who did not receive a bonus) were not related to the company’s performance and seemed to be based on each individual’s personal needs.
+[33] The workers’ terms and conditions of employment are similar to the terms and conditions of employment of non-shareholders who act as co-owners in training. Under the circumstances, it is logical that they perform additional tasks considering their economic interests in the company. The workers can go on vacation without asking anyone for permission but, according to the payroll, they take two to four weeks of vacation every year. These vacations are reasonable considering the duties performed by the workers. The workers are covered by the appellant’s group insurance plan, as are the other employees.
+[34] The duration of the workers’ employment is not a relevant factor here. Because the appellant operated year-round, it goes without saying that workers had to be hired throughout the year.
+[35] Regarding the nature and importance of the work performed by the workers, there is no doubt that the tasks performed by the workers were essential and important to the appellant’s operations. According to the respondent, the appellant could have hired unrelated persons to perform work similar to the work performed by each worker.
+[36] In light of the foregoing and the facts noted in the appeals officer’s report filed as Exhibit I-1, tab 9, I consider that the appellant and the workers have failed to discharge their burden of proof, which was to demonstrate that the Minister did not consider all the relevant circumstances in making his decision and that the Minister’s decision was not reasonable under the circumstances.
+[37] In my view, this is a case in which the Court must not intervene to substitute its opinion for that of the Minister because the appellant could have entered into a substantially similar contract of employment with each worker if they had been dealing with each other at arm’s length. In assessing whether the workers’ contract of employment would have been substantially similar, notwithstanding the non-arm’s length relationship, we need to consider the special situation of the workers who are both employees and future company co-owners in training. Under such circumstances, workers often adopt behaviours that differ from those of simple employees, e.g. working outside normal business hours, performing tasks unrelated to their usual work or engaging in personal activities during working hours.
+[38] For these reasons, the appellant’s appeal is dismissed.
+Signed at Ottawa, Canada, this 30th day of April 2019.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2019 TCC 96
+DOCKET:
+2017-4148(EI)
+STYLE OF CAUSE:
+PORTES & FENÊTRES ABRITEK INC. AND THE MINISTER OF NATIONAL REVENUE AND BIANCA DUPUIS AND CATHERINE DUPUIS AND JONATHAN DUPUIS AND SAMUEL DUPUIS
+PLACE OF HEARING:
+Québec, Quebec
+DATE OF HEARING:
+October 19, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+April 30, 2019
+APPEARANCES:
+Agent for the appellant:
+Alain Savoie
+Counsel for the respondent:
+Julien Dubé-Sénécal
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

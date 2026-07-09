@@ -1,0 +1,223 @@
+---
+title: "Henriques c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28191/index.do"
+last_modified: "2006-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 506"
+citation2: ""
+neutral_citation: "2006 CCI 506"
+decision_date: "2006-09-14"
+language: "fr"
+item_id: "28191"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1973
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:44:51.169000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c700ef6f80d536f0dede81715e792beab2db95706da57823a09f4ab6e09de5a6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Henriques c. M.R.N.
+
+- Citation: 2006 CCI 506
+- Decision date: 2006-09-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1973, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Henriques c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-14
+Référence neutre
+2006 CCI 506
+Numéro de dossier
+2005-3955(OAS)
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2005-3955(OAS)
+ENTRE :
+NIGEL HENRIQUES,
+appelant,
+et
+LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 16 mai 2006, à Vancouver (Colombie‑Britannique)
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Julie Rogers-Glabush
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la décision du ministre du Développement des ressources humaines rendue en application de la Loi sur la sécurité de la vieillesse est accueilli au motif que l’appelant peut calculer son supplément de revenu garanti pour l’année 2005 en fonction de son revenu estimatif pour l’année civile 2005.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 1er jour de décembre 2006.
+Hélène Tremblay, traductrice
+Référence : 2006CCI506
+Date : 20060914
+Dossier : 2005-3955(OAS)
+ENTRE :
+NIGEL HENRIQUES,
+appelant,
+et
+LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] La présente affaire a été renvoyée devant moi le 28 novembre 2005 par le Bureau du Commissaire des tribunaux de révision, Régime de pensions du Canada / Sécurité de la vieillesse, en application du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse[1] (la « Loi »). L’appelant interjette appel de la décision du ministre du Développement des ressources humaines (le « ministre »), rendue le 16 août 2005, concernant le calcul de son admissibilité au supplément de revenu garanti (le « SRG ») conformément à la Loi pour la période de juillet 2005 à juin 2006 (la « période de paiement »).
+[2] L’appelant se présente comme une personne âgée très pauvre qui reçoit, avec son épouse, un total de 17 000 $ en pensions combinées par année. Il indique que son épouse et lui ont survécu à la dernière année grâce à un prêt qu’ils ont contracté moyennant une deuxième hypothèque sur leur maison.
+[3] M. Henriques a été un employé de Westroc Industries Limited de novembre 1978 à janvier 1984, moment où il a été mis à pied en raison d’une réorganisation de l’entreprise. Il a ensuite travaillé pour Beaver Lumber. Il a pris sa retraite en 1995 et a commencé à recevoir une petite pension de Westroc.
+[4] Inopinément, il a reçu un paiement forfaitaire unique (le « paiement forfaitaire ») de 30 093 $, en raison d’un surplus de la caisse de retraite du régime de Westroc. Il semble que l’argent de la caisse de retraite de Westroc avait été extrêmement bien investi. Le paiement forfaitaire n’était pas du tout attendu. Du montant reçu, 9 028 $ a été payé en impôt, et l’appelant a conservé 21 065 $. Mme Henriques a expliqué que l’argent est fortuitement arrivé à un moment où ils avaient plusieurs dettes liées à des frais médicaux et à d’autres dépenses.
+[5] Les faits ci-dessous, tirés en grande partie des hypothèses du ministre énoncées dans sa réponse à l’avis d’appel, ne sont pas contestés :
+[TRADUCTION]
+a) Le revenu réel de l’appelant pour l’année 2004 était de 38 463,24 $, ce qui comprend le paiement forfaitaire de 30 093 $;
+b) Le revenu réel de l’épouse de l’appelante pour l’année 2004 était de 8 406,84 $;
+c) En fonction du revenu réel de l’appelant, qui est de 38 463,24 $, et du revenu de son épouse, qui est de 8 406,84 $, l’intimé a conclu que l’appelant n’était pas admissible au SRG[2] pour la période de paiement en cause (comme l’indique le tableau ci‑dessous) :
+Supplément maximal
+Pension mensuelle (B)
+Total
+(A)
+Facteur d’admissibilité
+Revenu annuel
+Revenu mensuel de base
+D/2
+Montant du supplément
+Mars 2005
+560,69 $
+471,76 $
+1 032,45 $
+1
+32 212,53 $
+552 $
+553 $
+7,69 $
+Juillet 2005
+566,87 $
+476,97 $
+1 043,84 $
+1
+46 870,08 $
+1 712,92 $
+856 $
+0 $
+Janvier 2006
+593,97 $
+484,63 $
+1 078,60 $
+1
+46 870,08 $
+1 712,92 $
+856 $
+0 $
+La formulation du ministre qui comprend le passage : [traduction] « l’appelant n’était pas admissible au SRG » représente une conclusion de droit qui fait l’objet du litige que je dois trancher en l’espèce. Les autres faits sont les suivants :
+[TRADUCTION]
+d) Le paiement forfaitaire était un paiement de pension supplémentaire lié à un surplus de la caisse de retraite, versé en répartition de l’argent accumulé dans le régime de revenu de retraite pour les salariés de Westroc Inc.;
+e) Le paiement forfaitaire s’ajoutait aux prestations de retraite que l’appelant recevait déjà;
+f) Le paiement forfaitaire n’était pas un arriéré de prestations se rapportant à des mois précédents;
+g) Le paiement forfaitaire n’a pas été versé en remplacement des prestations hebdomadaires, bimensuelles ou mensuelles qui auraient pu être poursuivies.
+[6] La chronologie des événements, telle qu’établie par le ministre dans sa réponse, est la suivante :
+[TRADUCTION]
+6. L’appelant a présenté une demande de renouvellement du supplément de revenu garanti pour la période de paiement en cause le 29 mars 2005 (la « demande »).
+7. Dans la demande, l’appelant a déclaré son revenu réel pour l’année 2004 comme suit :
+Appelant
+Épouse
+Prestations du RPC/RRQ
+3 883,44
+8 406,84
+Autre revenu de pension
+4 486,80
+Pension supplémentaire de Westroc
+30 093,00
+Total
+38 463,24
+8 406,84
+[7] Le ministre a rejeté la demande de l’appelant qui voulait que son revenu, pour ce qui est du calcul de son admissibilité au SRG pour la période de paiement, soit établi en fonction de son revenu estimatif pour l’année civile 2005 plutôt qu’en fonction de son revenu réel et déclaré pour l’année d’imposition 2004. Autrement dit, l’appelant voulait que le paiement forfaitaire soit exclu du calcul de son admissibilité au SRG.
+[8] La question ici est de savoir si le ministre a eu raison de conclure que l’appelant ne pouvait pas établir son admissibilité au SRG pour la période de paiement en fonction de son revenu estimatif pour l’année civile 2005.
+[9] Les paragraphes 14(4) et 14(6) de la Loi invoqués par l’appelant sont rédigés en ces termes :
+14(4) Le demandeur – ou son époux ou conjoint de fait, dans le cas où celui‑ci produit la déclaration visée à l’alinéa 15(2)a) – peut aussi produire une seconde déclaration lorsqu’il subit une perte de revenu par suite de la suppression ou de la réduction du revenu perçu au titre de son régime de pension, […]. La seconde déclaration porte alors sur son revenu estimatif de l’année civile au cours de laquelle il a subi cette perte, compte non tenu de revenu perçu au titre du régime de pension pour les mois précédant celui où il a subi la perte. Son revenu pour l’année de référence correspond alors au total des éléments suivants :
+a) son revenu pour cette année civile, compte non tenu du revenu perçu au cours de celle-ci au titre du régime de pension;
+b) le produit du revenu perçu au titre du régime de pension au cours de la partie de l’année civile qui suit le mois précédant le mois au cours duquel il a subi cette perte et de la fraction dont le numérateur est douze et le dénominateur le nombre de mois compris dans cette partie d’année.
+14(6) Si la cessation d’activité a eu lieu dans les cas visés aux alinéas a) ou b), le demandeur – ou son époux ou conjoint de fait, dans le cas où celui‑ci produit la déclaration visée à l’alinéa 15(2)a) – peut, lorsqu’il subit une perte de revenu par suite de la suppression ou de la réduction du revenu perçu au titre de son régime de pension, produire […] une seconde déclaration où figure :
+a) si la perte est subie au cours de l’année civile précédant la période de paiement, son revenu estimatif pour l’année civile se terminant pendant la période de paiement en cours, son revenu de cette année civile étant alors réputé constituer son revenu pour l’année de référence;
+b) si la perte est subie au cours d’un mois antérieur à la période de paiement et postérieur à l’année civile précédant cette année, son revenu estimatif pour l’année civile se terminant pendant la période de paiement en cours, avec indication du revenu réellement perçu au cours de la partie de l’année civile qui précède le mois au cours duquel il a subi cette perte au titre du régime de pension, son revenu pour l’année de référence correspondant alors au total des éléments suivants :
+(i) son revenu pour cette année civile, compte non tenu du revenu perçu au cours de celle‑ci au titre du régime de pension,
+(ii) le produit du revenu perçu au titre du régime de pension au cours de la partie de l’année civile qui suit le mois précédant le mois au cours duquel il a subi cette perte et de la fraction dont le numérateur est douze et le dénominateur le nombre de mois compris dans cette partie d’année.
+[C’est moi qui souligne]
+[10] De plus, l’article 14 du Règlement sur la sécurité de la vieillesse (le « Règlement ») pris en application de la Loi définit le « revenu provenant d’un régime de pension » en ces termes :
+14. Pour l’application de l’article 14 de la Loi, le revenu provenant d’un régime de pension est le total des montants perçus au titre :
+a) […]
+f) de pensions ou de pensions de retraite, autres que les prestations reçues au termes de la Loi et tout versement semblable reçu en vertu d’une loi provinciale;
+[…]
+[11] À première vue, il n’est que trop évident que n’importe qui pourrait être déconcerté par le processus d’établissement de l’admissibilité au SRG. En plus d’être complexe, la Loi est mal rédigée. Par le passé, mes collègues ont souligné le problème dans l’espoir qu’on y remédie. Mais le problème existe toujours, alors je peux simplement me permettre de réitérer leurs préoccupations.
+[12] L’article 2 de la Loi énonce, sous réserve de quelques exceptions qui ne s’appliquent pas au présent appel, que le revenu d’une personne pour une année civile doit être son revenu calculé conformément à la Loi de l’impôt sur le revenu[3]. Normalement, en application du paragraphe 14(1) de la Loi, les prestations pour la période qui se termine en juin sont établies en fonction du revenu pour l’année civile précédente. Par exemple, on utiliserait le revenu de l’appelant pour l’année 2004 pour calculer ses prestations de sécurité de la vieillesse pour l’exercice de juillet 2005 à juin 2006. Actuellement, l’appelant ne serait tout simplement pas admissible au SRG en fonction de son niveau de revenu pour l’année 2004, vu que le paiement forfaitaire y est inclus.
+[13] Toutefois, le ministre peut calculer l’admissibilité au SRG en fonction du revenu estimatif de l’appelant pour l’année civile 2005 plutôt qu’en fonction de son revenu réel pour 2004.
+[14] Le ministre a rejeté l’utilisation du revenu estimatif. Il soutient qu’on peut l’utiliser seulement si l’appelant a pris sa retraite, si ses revenus ont diminué ou cessé, ou si le paiement forfaitaire se voulait une substitution de prestations hebdomadaires, bimensuelles ou mensuelles. Il soutient également qu’aucune de ces trois conditions n’a été remplie en l’espèce et que l’appelant ne peut pas recourir à l’option prévue dans la Loi.
+[15] Comme en témoigne la décision Mattina v. Canada (Minister of Human Resources Development Canada), 2006CCI324, il est évident qu’un particulier peut se prévaloir de l’option s’il subit une réduction de son revenu de pension pendant la période de paiement courante. En l’espèce, le paiement forfaitaire reçu l’année précédente entraîne nécessairement une réduction du revenu provenant d’un régime de pension pour l’année courante. Mon interprétation du libellé explicite de la Loi doit se limiter à ceci.
+[16] Le particulier peut se prévaloir de l’option prévue dans la Loi si le paiement forfaitaire correspond à la définition de « revenu provenant d’un régime de pension » de l’article 14 du Règlement. La définition de « revenu provenant d’un régime de pension » du Règlement est restrictive plutôt qu’inclusive étant donné que le mot « est » (« means » dans la version anglaise) se trouve dans le préambule de la définition. L’appelant doit donc démontrer que le paiement forfaitaire appartient à une des catégories existantes présentées dans les alinéas de la définition. À mon avis, le paiement forfaitaire provenant du régime de pension reçu par l’appelant représente une pension de retraite visée par l’alinéa 14f) du Règlement et peut être considéré comme une pension de retraite. Il n’est pas nécessaire de restreindre davantage la portée de la définition du revenu provenant d’un régime de pension vu qu’une telle restriction figure déjà dans le préambule de la définition. L’article 14 du Règlement est rédigé en ces termes :
+14 Pour l’application de l’article 14 de la Loi, le revenu provenant d’un régime de pension est le total des montants perçus au titre :
+[…]
+f) de pensions ou de pensions de retraite, autres que […]
+(Les exceptions ne s’appliquent pas ici.)
+[17] En résumé, le paiement forfaitaire relève de la définition de « revenu provenant d’un régime de pension » parce qu’il constitue une pension de retraite. Étant donné que le paiement a été fait en 2004, le revenu de pension de l’appelant aurait nécessairement subi une réduction pour ce qui est de l’année civile 2005. La situation de l’appelant satisfait donc aux conditions qui doivent être réunies pour qu’il puisse se prévaloir de l’option prévue dans la Loi et il peut donc établir son admissibilité au SRG en fonction de son revenu estimatif pour l’année civile 2005.
+[18] L’appel est accueilli. L’appelant peut calculer son admissibilité au SRG pour 2005 en fonction de son revenu estimatif pour l’année civile 2005.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2006.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 1er jour de décembre 2006.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2006CCI506
+N° DU DOSSIER : 2005-3955(OAS)
+INTITULÉ : Nigel Henriques et
+Le ministre du Développement des ressources humaines
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 16 mai 2006
+MOTIFS DU JUGEMENT PAR : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 14 septembre 2006
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Julie Rogers-Glabush
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom : S.O.
+Cabinet : S.O.
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. O-9, modifiée.
+[2] J’ai remplacé la formulation du ministre : [traduction] « l’appelant n’était pas admissible au SRG » par la formulation : « l’intimé a conclu que l’appelant n’était pas admissible au SRG ».
+[3] L.R.C. (1985), (5e suppl.), ch. 1, modifiée.

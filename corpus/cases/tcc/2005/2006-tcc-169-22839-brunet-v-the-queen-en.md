@@ -1,0 +1,175 @@
+---
+title: "Brunet v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22839/index.do"
+last_modified: "2005-11-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 169"
+citation2: ""
+neutral_citation: "2006 TCC 169"
+decision_date: "2005-11-23"
+language: "en"
+item_id: "22839"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2343
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:05:21.633000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0ef41770de447fc7591d2fa3d55845b3a70abca0d307c84c7d560ac88dfec404"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Brunet v. The Queen
+
+- Citation: 2006 TCC 169
+- Decision date: 2005-11-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2343, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brunet v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-11-23
+Neutral citation
+2006 TCC 169
+File numbers
+2005-312(IT)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC169
+Date: 20060616
+Docket: 2005-312(IT)I
+BETWEEN:
+MICHELINE BRUNET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Delivered orally from the bench at the hearing of November 23, 2005, at Montréal, Quebec, and amended for greater clarity and precision.)
+Archambault J.
+[1] Micheline Brunet is appealing from an assessment made by the Minister of National Revenue ("the Minister") in respect of the taxation years 1993 to 2002. In a preliminary objection, the Respondent submitted that the Court did not have jurisdiction to hear the appeals concerning the years 1993 through 2000 because Ms. Brunet had not filed any notices of objection. The evidence did indeed disclose that Ms. Brunet filed no notice of objection with respect to this first period, as there have been no reassessments for the years 1993 to 2000. Instead, she tried to obtain an adjustment for those years by requesting that the Minister deduct, in computing her income, certain expenses that she allegedly incurred as part of a business project ("the project").
+[2] In order for her to bring an appeal before this Court with respect to the years 1993 to 2000, it is clear that Ms. Brunet would have had to file a notice of objection first, as required by section 169 of the Income Tax Act ("the Act"). Since she did not do so, the Court does not have jurisdiction to alter the assessments with respect to that period.
+[3] Based on a questionnaire filled out by Ms. Brunet, the Minister realized that the business losses in respect of which he had granted a deduction for the years 2001 and 2002 were not, in fact, deductible. The Court's jurisdiction with respect to these two taxation years is not in issue because notices of objection were filed. The issue is whether the Minister properly refused to allow the deduction of the expenses that Ms. Brunet incurred in connection with the project.
+[4] In assessing the Appellant, the Minister relied on the following factual assumptions, which are set out in paragraph 9 of the Reply to the Notice of Appeal.
+[TRANSLATION]
+(a) During the taxation years in issue, the Appellant was employed by Goodyear Canada where she worked forty (40) hours per week. [admitted]
+(b) The Appellant reported gross yearly remuneration of $35,000 for each of the taxation years in issue, whereas, since 1987, her spouse has never reported more than $5,000 in employment income. [admitted]
+(c) During the taxation years in issue, the Appellant reported no gross income from economic activities in the tourism or real‑estate fields. [admitted]
+(d) Once the Appellant responded to the questionnaire that the Minister sent her on July 21, 2003, it became clear that no business had commenced [denied] because
+(i) no organizational structure had been established to make essential preliminary activities possible, [denied]
+(ii) the type of activity to be carried out was not clearly established, [denied]
+(iii) no transaction involving a commercial risk was carried out, [denied]
+(iv) no evidence was submitted tending to show that expert opinions had been sought, studies had been done or negotiations had been undertaken, [denied] and
+(v) the Appellant responded that her immediate project was to acquire a large hotel with 360 rooms and roughly 40 halls. [admitted]
+[5] Ms. Brunet did not attend the hearing. Only her husband, Gaétan Brunet, testified. The evidence disclosed that Mr. Brunet, a customs officer from 1957 to 1971, operated recreational vehicle sales, repair and rental businesses during two distinct periods through two business corporations. During the first period, from 1967 to 1978, the vehicles involved were essentially trailers or tent‑trailers. This first business closed down for reasons that were not stated at the hearing. The vehicles involved in the second business, which was operated in Laval and Mirabel from 1979 to 1986, were motor homes. That business allegedly sold 100 to 150 vehicles.
+[6] Mr. Brunet appears to have been the primary proponent of the project, which was concocted between 1990 and 1993. From 1993 to 2002, Ms. Brunet worked full-time for a different company. My understanding is that the purpose of the project was to establish a permanent tourist centre that would help Quebec tourists, and tourists from outside Quebec, to better plan their vacations. Here, in fact, is the description that can be found at the beginning of a project summary (Exhibit A‑1, Plan A, page 1 of the project summary):
+[TRANSLATION]
+The Cité Internationale du Tourisme is a one-of-a-kind project to build the world's only permanent tourism-related point of interest. CITE, a multi-site project, will generate gigantic spinoffs. You will see from this brief summary, which gives you all the essentials, that this project has enormous economic development potential.
+[7] The project is very ambitious indeed. In addition to pavilions where foreign governments and travel wholesalers seeking to promote tourism in their respective countries would be invited, the project contemplates the construction of approximately 20,000 condos intended for short-term rental, approximately 5,000 condos intended for medium- and long-term rental (three to eight months) and ten luxury hotels with a total of 5,000 rooms (Exhibit A‑1, Plan A, Partial list of future buildings). Another plan, involving the acquisition of the 360-room, 40‑hall Château Mirabel hotel, was developed along the way. Mr. Brunet stated that the project cannot begin until the necessary financing is secured. Mr. and Ms. Brunet do not personally have sufficient resources to carry out the project. According to Mr. Brunet, the project would require government funding.
+[8] Mr. Brunet's efforts were essentially limited to establishing contacts with different governments at the municipal, regional and provincial levels. The aim was to interest those governments in the project.
+[9] In response to the question [TRANSLATION] "Are you the sole owner of your business?" which is contained in the questionnaire that the Minister sent to her, Ms. Brunet wrote a letter stating that she and her husband were the owners. In his examination in chief, Mr. Brunet acknowledged that he was the one who wrote Ms. Brunet's answers. When asked to specify how the profits and losses were to be shared, Mr. Brunet was unable to say. He felt it sufficient to assert that each was entitled to 100%. Based on this, I find that Mr. and Ms. Brunet were equal partners in this activity. However, Ms. Brunet was clearly the only person who claimed a deduction for the expenses related to the project, quite possibly because she was the only person who had enough income from other sources to be able to deduct them.
+[10] The losses that Ms. Brunet deducted can largely be characterized as personal expenses. Upon analysis, it can be seen that 25% of the rent paid for the Brunets' single-family home was deducted as an expense. Mr. Brunet submitted that this percentage was reasonable given the space devoted to the project.
+[11] In addition to the rental expense, there are electricity, heating, telephone and automobile expenses. The same percentage was applied to all these expenses. The amount claimed as automobile expenses in respect of the year 2001 was $1,825, and the amount claimed on that account in respect of the year 2002 was $2,364. Mr. Brunet was unable to establish the number of kilometres driven in order to launch the project. However, 25% of the total seemed reasonable to him.
+[12] As for the expenses that do not necessarily appear to be personal expenses, there are $200 in office expenses and $120 in entertainment expenses for 2001. The amounts claimed for these expenses in 2002 were $457 and $436 respectively.
+[13] Given all the efforts that Mr. Brunet made, and the amounts claimed as deductions, I cannot help noticing that the amount allocated to entertainment expenses seems paltry for a project of this scope. However, it should be mentioned that Mr. Brunet's efforts to move his project forward were limited to various governments.
+[14] In 2005, when the appeals were heard, it struck me that the project was not much farther along than it had been during the entire period from 1993 to 2001. Mr. Brunet said that he still hoped to meet people who would enable him to meet the Minister of Tourism and the Minister of Municipal Affairs. After all those years — roughly a dozen — it is still not known whether subsidies can be obtained in order to move the project forward. However, it should be mentioned that Mr. Brunet tried to obtain subsidies to finance the purchase of his motor homes in connection with his previous business, but, unfortunately for him, those efforts were unsuccessful: he was never granted such a subsidy.
+[15] While he is very sincere in the belief that this project will succeed, Mr. Brunet acknowledges that this business has not yet commenced. This observation is based on an answer that he gave at the hearing: he said that once this business was established, he and Ms. Brunet would hold an interest of between 2% and 10%, and the remainder of the business would be held by investors.
+Analysis
+[16] The relevant provisions to resolve the issues raised by these appeals are paragraphs 18(1)(a), (b) and (h) and section 67 of the Act:
+18(1) General limitations — In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) General limitation — an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+(b) Capital outlay or loss — an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+. . .
+(h) Personal and living expenses — personal or living expenses of the taxpayer, other than travel expenses incurred by the taxpayer while away from home in the course of carrying on the taxpayer's business;
+. . .
+67. General limitation re expenses — In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+[Emphasis added.]
+[17] The Brunets' project is a lovely dream, but the issue that this Court must decide is this: Was there a source of income from which the expenses in question could be deducted? Had the business that they were planning commenced?
+[18] In order for there to be a source of income, it is essential that the business that Mr. and Ms. Brunet sought to establish have commenced. The Court adopts the reasoning of counsel for the Respondent, but will reproduce only the following passages from the decision of Judge Dussault of this Court in Samson et Frères Ltée v. Canada, [1995] T.C.J. No. 1385 (QL):
+20 In my view, the evidence has shown that the appellant ceased all activity shortly after the fire at its processing plant in Charette in September 1983. Mr. Samson's testimony indicated that he had never really intended to rebuild the destroyed plant and to resume the operation of the existing business, but rather to start up a similar business on a larger scale so as to compete more effectively. Applications for grants were made for this purpose and it seems clear to me that obtaining such grants constituted an essential precondition to any firm decision to resume a business. I find that all the steps taken to purchase lands, buildings and equipment in various locations were merely preliminary and intended to bring together the basic elements or structure of the new business, which structure moreover was never concretely put into place and always remained at the planning stage, the materialization of that plan being contingent upon obtaining outside financing. To the extent that the very structure of the business the appellant wished to operate was never put into place, it is hard to see how the expenses relating to preliminary efforts to establish a business that does not exist — which efforts did not go beyond the planning stage — can be claimed to be deductible.
+. . .
+22 It seems clear to me from that decision that, for a business to exist and to have commenced, one must have gone beyond the stage of merely intending to commence it. A plan to do so, even a clearly-stated one, is in my view merely the expression of that intention and must be taken further. The essential elements relating to the very structure of the business, that is the necessary financing, assets and labour, must have been sought out and brought together before it can be stated that the business exists and that it has commenced. I will add that the decision to commence the business, as it may be detected from "significant" or "essential" steps taken by the taxpayer with a view to operating the business, is an important indicator that the business has commenced. That, in my view, is the meaning of the decision by Judge Bowman of this Court in Gartry, supra. It is indeed fairly difficult to conceive that a business has commenced before a firm decision has been made to that effect and before the essential elements relating to the very structure of such a business have been brought together.
+[Emphasis added.]
+[19] In my opinion, these passages are entirely apt descriptions of Mr. and Ms. Brunet's situation. The expenses involved in the instant case were essentially "made in an attempt to bring together the essential elements of the structure of the new business" and "one realizes . . . that [the measures] were not taken further since the key factor of outside financing was lacking." (Samson, supra, at paragraph 26).
+[20] The evidence discloses that no income was ever derived from the project during the 12 or 15 years (depending on whether the project began in 1990 or 1993) in which Mr. Brunet purportedly made efforts in furtherance of the project. There was no infrastructure with which such income could be earned.
+[21] To the argument made by counsel for the Respondent, I would add the argument that I put to counsel for Ms. Brunet: even if it could be concluded that the business had commenced — and in my opinion it had not — this does not mean that all the expenses incurred to earn income could be deducted. Even if it is assumed that the business exists, that the expenses are not personal expenses, and that they are reasonable and can be considered to have been incurred in order to earn income from a business, the prohibition set out in paragraph 18(1)(b) of the Act with respect to capital expenses must be applied.
+[22] In my opinion, all the expenses that were incurred by Ms. Brunet, up to and including her share of those expenses (which was not established), and for which she is claiming a deduction, are capital expenses because they are primarily intended to start up the business, notably by obtaining financing, a condition precedent to the existence of the business.
+[23] In addition, the expenses incurred for the purpose of obtaining financing are deductible only to the extent permitted by paragraph 20(1)(e) of the Act, which states:
+20(1) Deductions permitted in computing income from business or property— Notwithstanding paragraphs 18(1)(a), 18(1)(b) and 18(1)(h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+. . .
+(e) Expenses re financing — such part of an amount (other than an excluded amount) that is not otherwise deductible in computing the income of the taxpayer and that is an expense incurred in the year or a preceding taxation
+(i) in the course of an issuance or sale of units of the taxpayer where the taxpayer is a unit trust, of interests in a partnership or syndicate by the partnership or syndicate, as the case may be, or of shares of the capital stock of the taxpayer,
+(ii) in the course of a borrowing of money used by the taxpayer for the purpose of earning income from a business or property (other than money used by the taxpayer for the purpose of acquiring property the income from which would be exempt),
+(ii.1) in the course of incurring indebtedness that is an amount payable for property acquired for the purpose of gaining or producing income therefrom or for the purpose of gaining or producing income from a business (other than property the income from which would be exempt or property that is an interest in a life insurance policy),
+. . .
+(iii) that proportion of 20% of the expense that the number of days in the year is of 365,
+(iv) the amount, if any, by which the expense exceeds the total of all amounts deductible by the taxpayer in respect of the expense in computing the taxpayer's income for a preceding taxation year,
+and for the purposes of this paragraph:
+. . .
+[24] Thus, even if there had been a business, only a very small fraction of the expenses claimed could have been deducted in computing Ms. Brunet's income. Certain capital expenses could have been deducted as eligible capital assets. However, once again, only a minimal fraction of such expenses would have been deductible in the instant case.
+[25] In sum, I find that the evidence has not established that a business existed and had commenced. Even if the business had existed, the expenses would have been capital expenses.
+[26] For all these reasons, Ms. Brunet's appeals for the years 1993 to 2002 are dismissed.
+Signed at Ottawa, Canada, this 16th day of June 2006.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 20th day of February 2008.
+Brian McCordick, Translator
+CITATION:
+2006TCC169
+COURT FILE NO.:
+2005-312(IT)I
+STYLE OF CAUSE:
+MICHELINE BRUNET v. THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+November 23, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT:
+December 1, 2005
+DECISION DELIVERED ORALLY:
+November 23, 2005
+REASONS FOR JUDGMENT:
+June 16, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Isabel Brault
+Counsel for the Respondent:
+Bruno Levasseur
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Isabel Brault
+Firm:
+Montréal, Quebec
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,239 @@
+Title: Margetts c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29482/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-526-29482-margetts-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-10-19
+
+# Margetts c. La Reine
+
+- Citation: 2009 CCI 526
+- Decision date: 2009-10-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6300, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Margetts c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-19
+Référence neutre
+2009 CCI 526
+Numéro de dossier
+2006-2851(IT)G
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-2851(IT)G
+ENTRE :
+CHRISTOPHER MICHAEL MARGETTS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels dans le dossier2006‑3521(GST)G,
+le 4 mai 2009, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Avocat de l’appelant :
+Me Andrew Sandilands
+Avocate de l’intimée :
+Me Johanna Russell
+____________________________________________________________________
+JUGEMENT
+L’appel des cotisations établies en vertu du paragraphe 160(1) de la Loi de l’impôt sur le revenu, dont les avis sont datés du 12 septembre 2005 et portent les numéros 26011 et 26013, sont accueillis en partie, et la cotisation 26011 est renvoyée au ministre pour nouvel examen et nouvelle cotisation en tenant compte du fait que le montant de la cotisation doit être réduit à 17 672,47 $.
+Signé à Ottawa, Canada, ce 19e jour d’octobre 2009.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 23e jour de décembre 2009.
+Erich Klein, réviseur
+Dossier : 2006-3521(GST)G
+ENTRE :
+CHRISTOPHER MICHAEL MARGETTS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels dans le dossier 2006‑2851(IT)G, le 4 mai 2009, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Avocat de l’appelant :
+Me Andrew Sandilands
+Avocate de l’intimée :
+Me Johanna Russell
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel de la cotisation établie en vertu du paragraphe 325(1) de la Loi sur la taxe d’accise, dont l’avis est daté du 12 septembre 2005 et porte le numéro A106731, est rejeté.
+L’appel de la cotisation établie en vertu du paragraphe 325(1) de la Loi sur la taxe d’accise, dont l’avis est daté du 12 septembre 2005 et porte le numéro A106732, est accueilli, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que le montant doit être réduit de 17 085,02 $.
+Signé à Ottawa, Canada, ce 3e jour de novembre 2009.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 23e jour de décembre 2009.
+Erich Klein, réviseur
+Référence : 2009 CCI 526
+Date : 20091103
+Dossiers : 2006-2851(IT)G
+2006-3521(GST)G
+ENTRE :
+CHRISTOPHER MICHAEL MARGETTS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Paris
+[1] L’appelant conteste quatre cotisations s’élevant en tout à 187 757,49 $ qui ont été établies par le ministre du Revenu national (le « ministre »), deux de ces cotisations ayant été établies en vertu du paragraphe 160(1) de la Loi de l’impôt sur le revenu (la « LIR »), et les deux autres, en vertu du paragraphe 325(1) de la Loi sur la taxe d’accise (la « LTA »).
+[2] L’appelant a fait l’objet des cotisations compte tenu du fait que son père, Bruce Margetts, lui avait transféré un droit pour un tiers sur un bien situé à Halfmoon Bay (Colombie‑Britannique) (le « bien ») sans aucune contrepartie, à un moment où il avait une dette impayée de 53 700,62 $ au titre de l’impôt sur le revenu et une dette impayée de 134 056,87 $ au titre de la TPS.
+[3] Selon la position prise par l’appelant, Bruce Margetts détenait en fiducie le droit pour un tiers sur le bien et ne lui avait donc transféré qu'un droit en common law. L’appelant affirme que ce transfert n’était pas suffisant pour déclencher l’application du paragraphe 160(1) de la LIR et du paragraphe 325(1) de la LTA.
+[4] Subsidiairement, l’appelant soutient que, même si Bruce Margetts détenait un droit à titre bénéficiaire sur le bien, il (l’appelant) a reçu ce droit en sa qualité de fiduciaire de la fiducie familiale Bruce Margetts, et que le transfert n’était pas visé par les paragraphes 160(1) et 325(1).
+[5] Également à titre subsidiaire, l’appelant prétend que, si le droit qu’il a reçu de Bruce Margetts était un droit à titre bénéficiaire sur le bien, la juste valeur marchande de ce droit doit être réduite du montant non remboursé des deux hypothèques grevant le bien lors du transfert.
+Les faits
+[6] À un moment donné au début ou au milieu des années 1980, le grand‑père de l’appelant, Ronald Margetts, a acheté un terrain vague à Halfmoon Bay (Colombie‑Britannique) pour que sa famille l’utilise à des fins récréatives. Une maison a été installée sur le terrain et, avec le temps, des améliorations ont été apportées au terrain et à la maison. Selon la preuve, Mabel (la femme de Ronald) et Leigh, Catherine et Bruce (les enfants de Ronald) ont exécuté une partie des travaux. Le bien était utilisé par toute la famille, et par la suite, par les familles de Leigh, de Catherine et de Bruce.
+[7] En 1989, Ronald est décédé et Mabel a hérité du bien. Le bien était grevé d’une hypothèque et faisait à ce moment‑là l’objet d’un jugement, et Mabel ne pouvait pas effectuer les versements hypothécaires. Après de longues discussions entre Mabel et ses enfants, il a été décidé que Bruce et Leigh paieraient chacun la moitié des versements hypothécaires et des frais d’entretien. Catherine n’était pas obligée de contribuer aux paiements parce qu’elle n’avait pas les moyens de le faire. Il a également été convenu que Mabel vendrait le bien à Bruce, à Leigh et à Catherine moyennant un prix d’achat de 200 000 $, moins le montant des hypothèques non remboursées grevant le bien. La vente était également soumise à certaines conditions, dont il sera question ci‑dessous.
+[8] Un accord écrit à l’égard de la vente du bien n'a été dressé qu’au bout de plusieurs années, peut‑être en 1997 seulement, lorsque les parties ont signé deux accords, qui étaient tous deux datés [traduction] « au 20 novembre 1989 ». Dans le premier accord, intitulé [traduction] « Transfert du droit à titre bénéficiaire et déclaration de fiducie » (l’« accord de transfert »), les parties reconnaissaient que Mabel s'était engagée à vendre le bien à Bruce, à Leigh et à Cathy, que ceux‑ci étaient convenus avec elle de l’acheter au prix de 200 000 $ et qu’ils avaient remis à Mabel un billet à demande de 200 000 $. De plus, Mabel a convenu qu'elle détenait le titre de propriété à titre de mandataire de Bruce, de Leigh et de Catherine et en fiducie pour ceux‑ci, tant qu’ils n’auraient pas fait enregistrer le transfert. Les paragraphes 5 et 6 de l’accord de transfert prévoyaient ce qui suit :
+[traduction]
+5 La cédante accorde, cède, transfère et transmet aux cessionnaires son domaine bénéficiaire, et ses droits, titres, intérêts, legs, fiducies, profits, réclamations et demandes à l’égard du bien-fonds et de chaque partie de celui-ci ainsi que toutes les dépendances, qu’elle s’est engagée à accorder, à céder, à transférer et à transmettre en 1989 et qu'elle a eu l'intention d'accorder, de céder, de transférer et de transmettre en 1989.
+6 La cédante convient et déclare qu'elle détient le bien-fonds à titre de mandataire des cessionnaires et en fiducie pour ceux-ci.
+Aux termes de l’alinéa 10b) de l’accord de transfert, Mabel était autorisée à utiliser le bien de son vivant, en échange du paiement de l'impôt foncier et des frais de services publics :
+[traduction]
+10 Le transfert visé par le présent accord est expressément soumis aux conditions suivantes :
+b) Les cessionnaires conviennent que la cédante aura de son vivant l’usage, l’occupation et la jouissance du bien-fonds sans avoir à verser de loyer, et ils lui accordent cet usage, cette occupation et cette jouissance; toutefois, la cédante paiera de sa poche les impôts et les primes d’assurance ainsi que les frais de services publics se rattachant au bien-fonds.
+Aux termes de l’alinéa 10e) de l’accord, Bruce, Leigh et Catherine s’engageaient à conclure un autre accord :
+[traduction]
+e) La cession du bien-fonds aux cessionnaires est soumise à la condition qu’ils concluent un accord selon la forme de l’ébauche qui se trouve à l’annexe B ci-jointe, et les cessionnaires s’engagent à conclure cet accord et acceptent d'être liés par cet accord; chacun d’eux reconnaît que la contrepartie donnée à la cédante comprend en partie la signature de pareil accord par les cessionnaires.
+[9] La préambule de l’accord (le « second accord ») mentionné à l’alinéa 10e) de l’accord de transfert disait que l'objet du second accord était de régler les questions touchant [traduction] « les droits et les obligations [des parties] se rattachant au bien-fonds, ainsi que la gestion et la disposition de ce bien-fonds avant et après le décès de Mabel Margetts ». Le préambule prévoyait notamment que Bruce, Leigh et Catherine contribueraient en parts égales à l’entretien du bien, que Bruce et Leigh effectueraient les versements hypothécaires et que, sous réserve du droit d’occupation de Mabel, Bruce, Leigh et Catherine auraient un droit égal à l’utilisation du bien. Le second accord disait également, au paragraphe 7, que Mabel voulait que le bien demeure un [traduction] « actif familial » :
+[traduction]
+7. Chacune des parties reconnaît et convient que l'intention de Mabel Margetts, la bénéficiaire de l’engagement, et des parties est que le bien‑fonds devienne et demeure un actif familial dont les enfants issus du mariage de Ronald et de Mabel Margetts auront la jouissance, et que, à cette fin, ils déploieront tous leurs efforts afin de conserver et de préserver le bien-fonds, de façon que les enfants issus du mariage de Ronald et de Mabel Margetts puissent l'utiliser et en jouir conformément à l’intention de Mabel Margetts.
+[10] Au mois de mars 2002, un transfert du bien de Mabel en faveur de Bruce, de Leigh et de Catherine, en tant que propriétaires conjoints, a été enregistré au bureau d’enregistrement des titres fonciers. La preuve n'a pas révélé pourquoi le titre avait été transféré à ce moment‑là, mais il était peut‑être nécessaire de le faire afin de grever le bien d'une hypothèque additionnelle, comme on l’a fait peu de temps après. L'acte relatif à la nouvelle hypothèque, de 188 000 $, était signé par Bruce, par Leigh et par Catherine. Sur le produit de l’hypothèque, un montant de 28 000 $ a servi à réparer la maison et un montant de 160 000 $ a été remis à Leigh, pour qu’il l’utilise dans son entreprise. Leigh effectuait les versements à l’égard du montant qu’il avait reçu, et Leigh et Bruce effectuaient chacun la moitié des versements à l’égard des 28 000 $ utilisés pour les réparations. Bruce et Leigh ont continué à partager les versements relatifs à l’hypothèque préexistante.
+[11] Au mois d’avril 2004, deux sociétés dont Bruce était l’unique administrateur (Crane Force Ltd. et Crane Master Sales Ltd.) ont fait faillite. Les dettes des sociétés comprenaient des retenues à la source non versées au titre de l’impôt sur le revenu et comprenaient aussi de la TPS non versée.
+[12] Bruce a témoigné que sa mère craignait que, par suite de la faillite des sociétés, il ne soit pas [traduction] « en mesure de s’acquitter des obligations qui lui incombaient » aux termes des accords de 1989 concernant le bien, et qu'elle lui a envoyé une lettre datée du 23 avril 2004[1], qui était libellée ainsi :
+[traduction]
+Le 23 avril 2004
+2187, avenue McMullen
+Vancouver (Colombie-Britannique) V6L 3B3
+Bruce,
+Eu égard aux circonstances, je ne crois pas que tu puisses t’acquitter des obligations qui t’incombent selon l’accord conclu avec Ronald et Mabel Margetts.
+J’aimerais qu’il soit remédié à la situation.
+Cordialement,
+Mabel Margetts
+[13] Le 10 octobre 2004, Mabel a exigé que Bruce lui rende le droit qu’il détenait sur le bien compte tenu du fait qu’elle lui avait demandé de rembourser sa part du billet de 200 000 $ qui avait été émis en paiement du bien et qu’il ne s’était pas conformé à la demande. Elle a en outre exigé que Bruce transfère à l’appelant le droit qu’il détenait sur le bien afin de satisfaire à sa demande de lui rendre le droit que Bruce détenait sur le bien. Ces instructions figuraient dans un document que Mabel a remis à Bruce lors d’une réunion familiale.
+[14] Le même jour, Mabel a censément constitué la fiducie familiale Bruce Margetts (la « fiducie familiale ») au profit [traduction] « de Bruce Margetts, de son épouse légitime, de ses enfants et de ses petits‑enfants ainsi que de toute autre personne qui pourra éventuellement être ajoutée ». Selon les documents de fiducie, ce qui faisait l’objet de la fiducie, c'était un droit indivis, pour un tiers, sur le bien. L’appelant était désigné à titre de fiduciaire de la fiducie familiale.
+[15] Le 10 octobre 2004 également, Mabel, Bruce, Leigh, Catherine et l’appelant ont signé un accord intitulé [traduction] « Transfert du droit en common law et cession de contrats en date du 30 novembre 1989 » par lequel Bruce s’engageait à transférer à l’appelant le droit qu’il détenait sur le bien, ainsi que tous ses droits et toutes ses obligations prévus dans les deux accords de 1989. L’appelant s’engageait à s’acquitter de toutes les obligations incombant à Bruce Margetts en vertu des accords de 1989.
+[16] Le 26 octobre 2004, le transfert en faveur de l’appelant du droit que Bruce détenait sur le bien a été enregistré au bureau d’enregistrement des titres fonciers.
+[17] Le 4 novembre 2006, Bruce a fait l’objet de cotisations établies par le ministre en vertu des dispositions de la LIR et de la LTA concernant la responsabilité de l’administrateur; ces cotisations demandaient le paiement de montants d’impôt sur le revenu retenus à la source et de montants de TPS que les deux sociétés de Bruce avaient omis de verser, ainsi que les intérêts courus. Le 12 septembre 2005, l’appelant a fait l’objet d’une cotisation en vertu du paragraphe 160(1) de la LIR et du paragraphe 325(1) de la LTA par suite du transfert du bien en sa faveur. Quatre avis de cotisation ont été établis, à savoir :
+[traduction]
+- la cotisation 26011, de 25 446,10 $, à l’égard de la responsabilité incombant à Bruce, en sa qualité d’administrateur, relativement la dette de Crane Master Sales Ltd. résultant de l'omission de verser des montants d’impôt sur le revenu;
+- la cotisation 26013, de 28 254,52 $, à l’égard de la responsabilité incombant à Bruce, en sa qualité d’administrateur, relativement à la dette de Crane Force Ltd. résultant de l'omission de verser des montants d’impôt sur le revenu;
+- la cotisation A106731, de 14 005,87 $, à l’égard de la responsabilité incombant à Bruce, en sa qualité d’administrateur, relativement à la dette de Crane Master Sales Ltd. au titre de la TPS;
+- la cotisation A106732, de 120 054,87 $, à l’égard de la responsabilité incombant à Bruce, en sa qualité d’administrateur, relativement à la dette de Crane Force Ltd. au titre de la TPS.
+Lors de l’audition des appels, l’avocate de l’intimée a reconnu que le montant de la cotisation 26011 dont l’appelant avait fait l’objet en vertu du paragraphe 160(1) devait être réduit à 17 672,47 $.
+La position prise par l’appelant
+[18] L’appelant a soutenu qu’en vertu des accords de 1989, Bruce détenait en fiducie un droit pour un tiers sur le bien et ne pouvait donc lui transférer qu'un droit en common law. L’appelant affirme que le paragraphe 160(1) de la LIR et le paragraphe 325(1) de la LTA ne s’appliquent donc pas étant donné qu’il n’y a pas eu de transfert d'un bien.
+[19] L’appelant affirme également que, même si, par suite des accords de 1989, Bruce a obtenu un droit à titre bénéficiaire sur le bien, Mabel avait droit à ce que ce droit lui soit rendu par suite de l’omission de Bruce de se conformer à la demande qu’elle lui avait faite de payer le billet. Par conséquent, à ce moment‑là, Mabel a acquis de Bruce un droit à titre bénéficiaire sur le bien. Bruce ne détenait donc pas de droit à titre bénéficiaire sur le bien au moment où il a transféré le bien à l’appelant. En d’autres termes, les instructions que Mabel avait données à Bruce de transférer le bien à l’appelant équivalaient à un transfert du droit à titre bénéficiaire en faveur de l’appelant effectué par elle plutôt que par Bruce.
+[20] Quoi qu’il en soit, l’appelant a soutenu que, indépendamment de la question de savoir qui détenait le droit à titre bénéficiaire sur le bien avant le transfert, il a reçu, au profit des bénéficiaires de la fiducie, le titre en common law afférent au bien, et que les paragraphes 160(1) et 325(1) ne s’appliquent pas.
+[21] Enfin, l’appelant a soutenu que, s’il a reçu un droit à titre bénéficiaire sur le bien, la juste valeur marchande de ce droit était inférieure à ce que le ministre a supposé parce que le ministre n’a pas tenu compte des charges grevant le bien, lesquelles s’élevaient à au moins 285 000 $ au moment du transfert.
+Les dispositions législatives
+[22] Le paragraphe 160(1) de la LIR est libellé ainsi :
+160(1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l’auteur du transfert doit payer en vertu de la présente loi au cours de l’année d’imposition dans laquelle les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n’est toutefois réputée limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[23] Le paragraphe 325(1) de la LTA est libellé ainsi :
+325(1) La personne qui transfère un bien, directement ou indirectement, par le biais d’une fiducie ou par tout autre moyen, à son époux ou conjoint de fait, ou à un particulier qui l’est devenu depuis, à un particulier de moins de 18 ans ou à une personne avec laquelle elle a un lien de dépendance, est solidairement tenue, avec le cessionnaire, de payer en application de la présente partie le moins élevé des montants suivants :
+a) le résultat du calcul suivant :
+A - B
+où :
+A représente l’excédent éventuel de la juste valeur marchande du bien au moment du transfert sur la juste valeur marchande, à ce moment, de la contrepartie payée par le cessionnaire pour le transfert du bien,
+B l’excédent éventuel du montant de la cotisation établie à l’égard du cessionnaire en application du paragraphe 160(2) de la Loi de l’impôt sur le revenu relativement au bien sur la somme payée par le cédant relativement à ce montant;
+b) le total des montants représentant chacun :
+(i) le montant dont le cédant est redevable en vertu de la présente partie pour sa période de déclaration qui comprend le moment du transfert ou pour ses périodes de déclaration antérieures,
+(ii) les intérêts ou les pénalités dont le cédant est redevable à ce moment.
+Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédant découlant d’une autre disposition de la présente partie.
+[24] Quatre conditions doivent être réunies pour que le paragraphe 160(1) de la LIR et le paragraphe 325(1) de la LTA s’appliquent[2] :
+(i) il doit y avoir eu un transfert de biens;
+(ii) il faut que l’auteur et le bénéficiaire du transfert aient un lien de dépendance;
+(iii) le bénéficiaire du transfert ne doit pas avoir donné de contrepartie à l’auteur du transfert (ou doit lui avoir donné une contrepartie insuffisante);
+(iv) l’auteur du transfert doit payer un montant en vertu de la LIR ou de la LTA (selon le cas) au cours de l’année dans laquelle les biens ont été transférés ou d’une année antérieure ou pour une de ces années.
+Seules les première et troisième conditions sont ici en litige.
+[25] Il faut d’abord répondre à la question de savoir si Bruce a reçu un droit à titre bénéficiaire sur le bien en vertu des accords de 1989. La réponse dépendra de l’interprétation à donner à ces accords.
+[26] L’appelant soutient que ces accords créaient une fiducie à l’égard du bien. Son avocat a affirmé que les trois « certitudes » nécessaires aux fins de la création d’une fiducie – la certitude d’intention, la certitude de matière et la certitude d’objet – étaient présentes dans ces accords. Il a soutenu que l’intention de Mabel d’établir à l’égard du bien une fiducie au profit de ses enfants était clairement exprimée. Mabel voulait que ses enfants détiennent le bien et le préservent pour qu’elle et la famille étendue puissent l’utiliser.
+[27] Je ne puis interpréter les accords de 1989 comme créant une fiducie à l’égard du bien. Je conclus que les termes utilisés dans les accords ainsi que les actions des intéressés ne montrent pas que Mabel avait l'intention de créer une fiducie. Dans l’ouvrage intitulé The Law of Trusts[3], les commentaires suivants sont faits au sujet de la certitude d’intention en matière de fiducie :
+[traduction]
+Pour satisfaire à l'exigence de la certitude quant à l’intention, la Cour doit conclure à l’existence d’une intention d'imposer au fiduciaire une obligation absolue de détenir un bien en fiducie au bénéfice d’une autre personne. La certitude quant à l’intention est une question d’interprétation; l’intention est inférée de la nature de la disposition prise dans son ensemble et de la manière dont elle a été effectuée. Les termes utilisés doivent exprimer plus qu’une obligation morale ou qu’un simple souhait quant à ce qu'on doit faire du bien en question. Il n’est pas nécessaire d’utiliser des termes techniques, pourvu qu’il soit possible de déterminer ou d’inférer avec certitude l’intention de créer une fiducie. Il faut examiner les termes utilisés dans la demande ainsi que l’ensemble du document pour déterminer si l’intention existe.
+[28] Le libellé des accords de 1989 est davantage conforme à l’intention de conclure une opération d’achat et de vente du bien qu'à celle de créer une fiducie. Je me reporte en particulier aux paragraphes 1, 2 et 5 de l’accord de transfert, qui sont reproduits ci‑dessous par souci de commodité :
+[traduction]
+1 Les cessionnaires se sont engagés à acheter, en 1989, et la cédante s’est engagée à vendre, le droit qu’elle possède sur le bien-fonds à un prix correspondant à la juste valeur marchande de 200 000 $ (le « prix d’achat ») telle qu’elle a été déterminée au moyen d’une évaluation effectuée par Sechelt Real Estate Appaisal Services Inc. et datée du 28 avril 1989, laquelle se trouve jointe au présent accord, à titre d’information, à l'annexe A, aux conditions ci‑après énoncées.
+2 Les cessionnaires ont versé le prix d’achat à la cédante en émettant, en signant et en remettant à la cédante un billet à demande (le « billet ») dont le principal s’élève à 200 000 $. Ce billet ne porte pas intérêt et pourra faire l’objet de rajustements quant au solde de l’hypothèque grevant le bien‑fonds que les cessionnaires ont prise en charge.
+5 La cédante accorde, cède, transfère et transmet aux cessionnaires son domaine bénéficiaire, et ses droits, titres, intérêts, legs, fiducies, profits, réclamations et demandes à l’égard du bien-fonds et de chaque partie de celui-ci ainsi que toutes les dépendances, qu’elle s’est engagée à accorder, à céder, à transférer et à transmettre en 1989 et qu'elle a eu l'intention d'accorder, de céder, de transférer et de transmettre en 1989.
+[29] Bien qu'il ne soit pas nécessaire d’utiliser des termes particuliers afin de créer une fiducie, je constate que les seules mentions de fiducie se trouvent dans le titre de l’accord ([traduction] « Transfert du droit à titre bénéficiaire et déclaration de fiducie ») et au paragraphe 6 de cet accord :
+[traduction]
+6 La cédante convient et déclare qu'elle détient le bien-fonds à titre de mandataire des cessionnaires et en fiducie pour ceux-ci.
+Dans les deux cas, il s'agit manifestement de Mabel qui détenait le bien en fiducie pour les trois enfants tant que le titre afférent au bien ne serait pas transféré, et non des enfants qui détenaient le bien en fiducie.
+[30] La caractérisation de l’opération comme étant une opération d’achat et de vente plutôt que la création d’une fiducie est également étayée par le libellé de l’accord intitulé [traduction] « Transfert du droit en common law et cession de contrats en date du 30 novembre 1989 », conclu par les intéressés le 10 octobre 2004. Dans cet accord, il est fait mention de la vente du bien à Bruce, à Leigh et à Catherine aux termes des accords de 1989.
+[31] La preuve que Leigh Margetts a présentée en contre‑interrogatoire est également compatible avec le point de vue selon lequel, en 1989, Mabel n'avait pas l'intention de constituer une fiducie à l’égard du bien. Leigh a déclaré n’avoir jamais cru qu’il détenait à titre de fiduciaire son droit pour un tiers sur le bien et a dit qu’il se considérait comme le titulaire de ce droit. Vu que Leigh était partie aux discussions qui ont eu lieu avec Mabel, Bruce et Catherine, lesquelles ont abouti à la conclusion des accords de 1989, je conclus que si Mabel avait eu l'intention de créer une fiducie, Bruce aurait été au courant de cette intention.
+[32] Les facteurs qui, selon l’appelant, indiquent une intention de créer une fiducie ne démontrent pas une certitude d’intention. La mesure dans laquelle les enfants étaient autorisés à effectuer des opérations à l’égard du bien pendant que Mabel vivait était certes limitée par le second accord (ainsi, Bruce, Leigh et Catherine n’avaient pas le droit de contracter un emprunt en donnant le bien en garantie ou de vendre le bien sans que tous les intéressés y consentent), mais ils avaient le droit de disposer de leurs droits sur le bien après le décès de Mabel. Or, ils n’auraient pas pu le faire s’ils avaient détenu leurs droits en fiducie. Enfin, la reconnaissance, au paragraphe 7 du second accord, de l’intention de Mabel que le bien [traduction] « demeure un actif familial » crée, au mieux, une obligation morale pour Bruce, Leigh et Catherine de conserver le bien pour que la famille puisse l’utiliser. Le paragraphe 7 dit uniquement qu’ils s’engagent à [traduction] « déplo[yer] tous leurs efforts » afin de conserver et de préserver le bien pour un tel usage.
+[33] Quoique l’avocat de l’appelant ait également soutenu que les actions des intéressés, après la signature des accords de 1989, n’étaient pas incompatibles avec l’existence d’une fiducie, il me semble que la constitution d’une hypothèque en 2002 afin de financer l’entreprise de Leigh serait inconciliable avec la prétendue fiducie créée en faveur de tous les enfants de Mabel. Je fais remarquer également que Leigh a témoigné avoir dit à la banque, lorsqu’il avait demandé l’hypothèque, qu’il était propriétaire du bien pour un tiers.
+[34] Pour ces motifs, je conclus que Bruce Margetts a acquis un droit pour un tiers, tant en common law qu'à titre bénéficiaire, sur le bien par suite des accords de 1989.
+[35] La deuxième question en litige est de savoir si Bruce a transféré directement à l’appelant son droit à titre bénéficiaire sur le bien ou si, comme le prétend l’appelant, ce droit est d’abord passé à Mabel quand Bruce n'a pas payé sa part du billet.
+[36] Le billet n’a pas été produit à l’audience, mais, dans l’accord de transfert de 1989, il est décrit comme un [traduction] « billet à demande » et j'admets que Mabel avait le droit d’exiger le paiement à n’importe quel moment. Toutefois, la preuve n’établit pas que Mabel avait le droit d’exiger le paiement de Bruce seulement sans l’exiger en même temps de Leigh et de Catherine, et de toute façon, elle n’établit pas non plus que Mabel a fait une telle demande. La mention, dans les instructions données à Bruce au mois d’octobre 2004, du fait qu’une demande de paiement avait été faite ne constitue pas une demande de paiement, et eu égard aux circonstances relatives au transfert du bien à la fiducie familiale, je ne suis pas prêt à conclure qu’une telle demande a réellement été faite. Il n’a pas été contesté que le transfert a été effectué parce que Mabel craignait que le bien soit en péril à cause de la faillite des sociétés de Bruce, et j'infère qu'il a été fait afin de mettre le bien hors de la portée des créanciers de Bruce plutôt que pour satisfaire à quelque obligation de Bruce envers Mabel.
+[37] De plus, il n’existait aucun élément de preuve établissant que les conditions du billet donnaient à Mabel droit à la restitution du droit que Bruce détenait si celui‑ci ne payait pas le montant qui était dû. Normalement, on ne s’attendrait pas à ce qu’un billet comporte une telle condition. En outre, il n’y avait rien dans les accords de 1989 qui conférait à Mabel le droit de se faire restituer le droit que Bruce détenait dans le cas où le billet n’était pas payé. Par conséquent, l’appelant n’a pas démontré l’existence d’un fondement juridique justifiant le transfert du droit de Bruce en faveur de Mabel, et il n’a pas prouvé que le droit à titre bénéficiaire sur le bien était passé à Mabel avant que le bien lui soit transféré.
+[38] L’appelant a soutenu que, même si Bruce lui avait transféré le droit à titre bénéficiaire sur le bien, il avait reçu ce transfert en sa qualité de fiduciaire de la fiducie familiale Bruce Margetts, et qu’il n’avait pas reçu de droit à titre bénéficiaire en son nom personnel. Par conséquent, la juste valeur marchande du droit qu’il a reçu était nulle et les cotisations doivent être annulées.
+[39] Selon l’intimée, la fiducie familiale n’a jamais existé parce qu’elle n’a pas été constituée d’une façon régulière. L’avocate a affirmé que Mabel n’était pas propriétaire du bien qui était censément utilisé pour constituer la fiducie, ce qui a causé l’échec de la fiducie, et que, par conséquent, l’appelant a reçu le titre en common law ainsi qu'un droit à titre bénéficiaire sur le bien.
+[40] Je retiens l’argument de l’intimée sur ce point. Afin de constituer une fiducie d’une façon régulière, le constituant doit transférer à la fiducie un bien qui lui appartient, ou faire en sorte qu'un bien qui lui appartient soit transféré à la fiducie. Un constituant ne peut pas créer une fiducie au moyen de biens qui ne lui appartiennent pas. Pour créer une fiducie valable, il doit y avoir certitude d’intention, ce qui comprend la certitude quant au transfert en faveur de la fiducie des biens faisant l'objet de la fiducie. À mon avis, une personne ne peut pas avoir l’intention requise de transférer un bien qui ne lui appartient pas.
+[41] Il reste enfin à décider si la juste valeur marchande du droit que Bruce a transféré à l’appelant est inférieure à ce que le ministre a supposé, compte tenu des hypothèques non remboursées qui grevaient le bien lors du transfert. Pour déterminer la juste valeur marchande du droit, la totalité des charges grevant le bien lors du transfert doivent être prises en compte.
+[42] Je retiens le témoignage de Leigh Margetts selon lequel le solde non remboursé des hypothèques qui grevaient l’ensemble du bien à Halfmoon Bay était d’au moins 285 000 $ lors du transfert. Leigh Margetts était, selon moi, un témoin crédible et son témoignage est compatible avec celui que Bruce Margetts a présenté au sujet des montants initiaux des emprunts hypothécaires qui ont été contractés. L’existence des hypothèques est également confirmée par les certificats de titre qui ont été produits à l’audience. Même si Leigh a reçu davantage sur le produit de l’hypothèque de 2002, toutes les hypothèques grevaient les droits de chacun des trois propriétaires. Par conséquent, la juste valeur marchande du droit pour un tiers sur le bien que Bruce a transféré à l’appelant, qui était de 248 000 $, selon ce que le ministre a supposé, doit être réduite d’un montant de 95 000 $, qui représente le tiers du solde non remboursé des hypothèques. La juste valeur marchande qui en résulte est de 153 000 $.
+[43] Le montant total des quatre cotisations en litige (compte tenu de la concession que l’intimée a faite au sujet de la cotisation 26011) est de 170 085,02 $. Ce montant est supérieur de 17 085,02 $ à la juste valeur marchande du bien. Les parties n’ont pas fait d'observations concernant la façon dont une réduction de la juste valeur marchande devrait être appliquée à une ou à plusieurs des quatre cotisations en litige, et il me semble qu’il importe peu que j’ordonne que la réduction soit appliquée à l’une ou à l’autre cotisation. Par conséquent, j’ordonnerai que la réduction soit effectuée relativement à la cotisation A106732 et, cela étant, l'appel dans le dossier 2006‑3521(GST)G concernant cette cotisation est accueilli. Les appels dans le dossier 2006‑2851(IT)G seront accueillis dans la mesure de la concession qu'a faite l’intimée. Étant donné que le succès est partagé, aucuns dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 3e jour de novembre 2009.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 23e jour de décembre 2009.
+Erich Klein, réviseur
+RÉFÉRENCE : 2009 CCI 526
+Nos DES DOSSIERS DE LA COUR : 2006-2851(IT)G et 2008-3521(GST)G
+INTITULÉ DE LA CAUSE : CHRISTOPHER MICHAEL MARGETTS
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 4 mai 2009
+MOTIFS DU JUGEMENT PAR : L’honorable juge B. Paris
+DATE DU JUGEMENT POUR
+2006-2851(IT)G : Le 19 octobre 2009
+DATE DU JUGEMENT MODIFIÉ
+POUR 2006-3521(GST)G : Le 3 novembre 2009
+MOTIFS DU JUGEMENT
+MODIFIÉS : Le 3 novembre 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Andrew Sandilands
+Avocate de l’intimée :
+Me Johanna Russell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Andrew Sandilands
+Cabinet : DeMoulin & Boskovich
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1, onglet 11.
+[2] Voir Williams c. Canada, [2000] A.C.I. no 459.
+[3] Eileen E. Gillese et Martha Milezynski, The Law of Trusts, 2e éd., Irwin Law, 2005, page 39.

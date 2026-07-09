@@ -1,0 +1,263 @@
+---
+title: "Aeronautic Development Corporation c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/228611/index.do"
+last_modified: "2017-03-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 39"
+citation2: ""
+neutral_citation: "2017 CCI 39"
+decision_date: "2017-03-13"
+language: "fr"
+item_id: "228611"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2314
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:35:10.368000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "88ad83ac83df02509944d26b725c5cb12048058d598a218f1de6d9e34941cc24"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aeronautic Development Corporation c. La Reine
+
+- Citation: 2017 CCI 39
+- Decision date: 2017-03-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2314, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aeronautic Development Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-03-13
+Référence neutre
+2017 CCI 39
+Numéro de dossier
+2014-4207(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-4207(IT)G
+ENTRE :
+AERONAUTIC DEVELOPMENT CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 25 et 26 janvier 2017, à Montréal (Québec).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocat de l’appelante :
+Me Dominic C. Belley
+Avocat de l’intimée :
+Me Benoit Mandeville
+JUGEMENT
+L’appel interjeté des cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2009, 2010 et 2011 de l’appelante est rejeté avec dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 13e jour de mars 2017.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 5e jour de septembre 2018.
+François Brunet, réviseur
+Référence : 2017 CCI 39
+Date : 20170313
+Dossier : 2014-4207(IT)G
+ENTRE :
+AERONAUTIC DEVELOPMENT CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Introduction
+[1] L’appelante, Aeronautic Development Corporation (l’« ADC »), a demandé un crédit d’impôt remboursable pour des activités de recherche scientifique et de développement expérimental au taux de 35 % (les « CTI remboursables ») pour des dépenses qu’elle avait engagées dans ses années d’imposition 2009, 2010 et 2011 relativement au prototypage et à la certification d’un aéronef amphibie appelé Seawind.
+[2] Le ministre du Revenu national (le « ministre ») a refusé les CTI remboursables au motif que l’appelante n’était pas une « société privée sous contrôle canadien » (la « SPCC ») au sens de la Loi de l’impôt sur le revenu (Canada) (la « Loi ») au cours de ses années d’imposition 2009, 2010 et 2011.
+[3] L’intimée soutient que l’appelante ne répondait pas aux critères nécessaires pour qu'elle soit considérée comme une SPCC relativement aux années d’imposition pertinentes, car, du 17 août 2009 au 31 décembre 2011, un actionnaire non‑résident (l’« entité dominante ») exerçait le contrôle de fait (le « contrôle de fait ») sur l’appelante au sens du paragraphe 256(5.1) de la Loi. Il n’est pas controversé entre les parties qu’avant le 17 août 2009, un actionnaire non‑résident exerçait un contrôle de droit sur l’appelante (le « contrôle de droit ») en étant propriétaire de l’ensemble de ses actions émises et en circulation. L’appelante n’était donc pas une SPCC avant cette date.
+[4] L’intimée a tardivement informé l’appelante, deux semaines à peine avant l’audience, qu’elle allait soulever à l’audience un nouvel argument (le « nouvel argument »), qui n’était pas exposé dans ses actes de procédures. L’avocat de l’intimée soutient maintenant que le détenteur de 44 % des actions ordinaires de l’appelante ne pouvait pas exercer les droits de vote rattachés à ces actions avant le 9 mars 2012, parce qu’il ne les avait pas payées entièrement avant cette date. Par conséquent, la majorité des droits de vote rattachés aux actions ordinaires de l’appelante pouvaient être exercés par Seawind Development Corporation (la société « Seawind Corp. »), une société que contrôlait M. Richard Silva, qui est un non‑résident du Canada. C’est donc dire que l’appelante était soumise au contrôle, tant de droit que de fait, d’un non‑résident pendant toute la période pertinente.
+[5] L’appelante conteste ce nouvel argument. Elle soutient que l’intimée a admis dans sa réponse que la totalité des actions ordinaires étaient des actions avec droit de vote pendant la période allant du 17 août 2009 au 31 décembre 2011. Elle fait également remarquer que l’Agence du revenu du Canada (l’« ARC ») savait, avant l’établissement de la cotisation qui est en cause en l’espèce, que le prix de souscription de certaines actions ordinaires n’avait pas été payé avant le 9 mars 2012. La question avait fait l’objet d’une discussion avec le vérificateur de l’ARC qui était chargé de la vérification de l’appelante. L’intimée a néanmoins décidé de plaider la question du contrôle de droit uniquement pour la période se terminant le 16 août 2009. Enfin, elle n’a pas modifié sa réponse pour plaider les faits sur lesquels repose le nouvel argument. Dans ce contexte, l’appelante allègue que l’examen du nouvel argument, à cette date tardive, constituerait un manquement aux règles d’équité procédurale.
+[6] Pour ce qui est du contrôle de fait, l’appelante soutient que le paragraphe 256(5.1) de la Loi ne joue pas dans les circonstances, car un non‑résident n’avait pas d’influence directe ou indirecte dont l’exercice aurait résulté en contrôle de fait de l’appelante.
+II. Contexte factuel
+[7] Il ressort des preuves que M. Silva, citoyen et résident des États‑Unis, est à la fois ingénieur et architecte. Il compte également une vaste expérience dans le domaine de l’aéronautique. M. Silva est aussi pilote et a enregistré de nombreuses heures de vol.
+[8] M. Silva a investi tôt dans une société canadienne qui espérait mettre au point, commercialiser et vendre un petit aéronef amphibie appelé Seawind sous forme de kit. Cette société n’a pas réussi et M. Silva a acquis la totalité des droits de propriété intellectuelle sur le Seawind.
+[9] M. Silva a terminé la mise au point du Seawind, ce qui en a permis la production sous forme de kit. Cet appareil a eu fort peu de succès sur le plan commercial, parce qu’il ne s’agissait pas d’un aéronef doté d’un certificat dit de « type ». Je crois comprendre qu’un certificat de « type » est délivré par un organisme de réglementation après que des tests rigoureux ont confirmé la navigabilité du modèle d’aéronef. Une fois que l’aéronef est certifié, sa conception ou son processus de fabrication ne peut être modifié sans qu’un processus de certification supplémentaire soit effectué.
+[10] M. Silva a entrepris les démarches pour la certification du Seawind à la fin des années 1990. Il croyait que la certification permettrait de mieux faire accepter la conception unique du Seawind, et d’améliorer ainsi ses chances de succès commercial. Pour être admissible à la certification, M. Silva a dû renoncer à la vente du Seawind sous forme de kit.
+[11] Selon M. Silva, Investissement Québec et Industrie Canada ont communiqué avec lui afin de lui demander de procéder à la certification et à la fabrication ultérieure du Seawind certifié au Québec. M. Silva soutient que les deux organismes l’ont informé qu’il pouvait être admissible à des CTI remboursables si le travail de mise au point était fait au Canada par une SPCC.
+[12] M. Silva a déclaré dans son témoignage qu’il avait retenu les services d’un grand cabinet comptable canadien pour le conseiller quant à la manière d’établir une structure qui lui permettrait d’obtenir des CTI remboursables. Une première structure organisationnelle a été établie à cette fin par M. Silva et ses associés canadiens [1] . La société canadienne, Flight Dynamics Corporation (la « FDC »), qui s’était chargée au départ du travail de certification au Canada, a eu des difficultés financières après l’écrasement du prototype du Seawind lors d’un vol d’essai.
+[13] En 2009, après la faillite de la FDC, M. Silva a fait l’acquisition des éléments d’actif de cette société, y compris la base de données techniques concernant le travail de certification qu’elle avait effectué. M. Silva l’a fait dans le but de relancer le programme de certification au Canada.
+[14] M. Silva a pris les dispositions nécessaires pour que l’appelante soit constituée en société à responsabilité illimitée de la Nouvelle‑Écosse en avril 2009. Seawind Corp., une société américaine contrôlée par M. Silva, est devenue l’unique actionnaire de l’appelante.
+[15] Peu de temps après, pendant que l’appelante était détenue à part entière par Seawind Corp., l’appelante a conclu une entente avec cette dernière (l’« entente de mise au point ») en vue de la prestation de services qui étaient nécessaires pour effectuer le prototypage et la certification du Seawind à prix coûtant majoré. Tous les droits de propriété intellectuelle découlant des travaux effectués par l’appelante sont devenus la propriété de M. Silva et de Seawind Corp.
+[16] L’entente de mise au point prévoyait que les dépenses de prototypage et de certification de l’appelante (moins les CTI remboursables effectivement reçus par elle) (les « dépenses de certification ») seraient remboursées par Seawind Corp. L’appelante était tenue de verser à Seawind Corp. le montant éventuel des CTI remboursables qu’elle recevrait. L’appelante avait le droit de recevoir un montant supplémentaire égal à 5 % de ses dépenses de certification (la « marge bénéficiaire »). Il ressort de la preuve que la marge bénéficiaire n’a jamais été payée. Cependant, si elle l’avait été, l’appelante aurait été tenue de s’en servir pour financer ses dépenses de certification. L’appelante reconnaît qu’elle n’avait pas la possibilité d’utiliser ces fonds pour verser des dividendes à ses actionnaires ou pour financer d’autres projets.
+[17] L’appelante a consigné le montant total de sa demande de CTI remboursables dans son bilan concernant l’exercice 2011. Cependant, elle n’a pas démontré son obligation compensatoire envers Seawind Corp. Le montant de la demande de remboursement de l’appelante s’élevait à 1 295 969 $. Il était supérieur au montant des bénéfices non répartis que l’appelante avait accumulés pour la période. Les états financiers de l’appelante pour les années 2009 et 2010 ont été établis sur un fondement semblable. Par conséquent, comme l’intimée l’a souligné, les activités de l’appelante généraient des déficits.
+[18] Le matériel, l’équipement et les outils acquis par l’appelante et financés par Seawind Corp. devaient devenir la propriété de cette dernière une fois les travaux de certification terminés.
+[19] Seawind Corp. a été la seule cliente de l’appelante pendant toute la période. Lorsque Seawind Corp. s’est trouvée dans l’impossibilité de financer les activités de l’appelante, celle‑ci a suspendu ses activités.
+[20] L’appelante a reconnu que Sea Air Composites (la société « Sea Air »), une société canadienne contrôlée par M. Silva, devait fabriquer le Seawind au cas où Transports Canada certifierait l’aéronef.
+[21] Sea Air était aussi propriétaire du hangar situé à Richelieu (Québec), dans lequel l’appelante exploitait ses activités. Cette dernière a reconnu que les parties n’avaient pas conclu de bail pour l’utilisation des locaux.
+[22] Il ressort des preuves que M. Silva se rendait régulièrement au lieu de travail de l’appelante. Lors de ses visites, il supervisait les travaux que cette dernière effectuait.
+[23] Le 17 août 2009, près de quatre mois après la signature de l’entente de mise au point, l’appelante a émis des actions ordinaires supplémentaires de sorte que, à compter de cette date, une majorité de ses actions ordinaires étaient détenues directement ou indirectement par des personnes résidant au Canada. L’intimée a reconnu ce changement à l’alinéa j) de sa réponse de la manière suivante :
+[traduction] j) Entre le 17 août 2009 et le 31 décembre 2011, les actions du capital‑actions de l’appelante étaient détenues comme suit :
+Actionnaire
+% des actions et droits de vote
+Capital déclaré
+Seawind Corp.
+46 %
+1 150 $
+7163860
+44 %
+1 100 $
+Mano[u] Inc.
+5 %
+125 $
+Patrick [Desautels]
+5 %
+125 $
+[24] Aéro Manou Inc. (la société « Manou Inc. ») est une société canadienne, contrôlée par Manou Dessertine, une employée de l’appelante et une résidente du Canada. La société à numéro 7163860 Canada Inc. est une société canadienne dont les actions étaient détenues en parts égales par Patrick Desautels et Jean‑François Bolduc, qui résidaient tous deux au Canada. Desautels et Bolduc étaient eux aussi des employés de l’appelante. Manou Inc., Patrick Desautels et 716380 Canada Inc. sont appelés ci‑après les « actionnaires résidents canadiens ».
+III. Analyse
+A. Question préliminaire : Notre Cour peut‑elle entendre le nouveau moyen?
+[25] L’intimée soutient que le ministre peut avancer en tout temps un nouveau moyen de droit subsidiaire à l’appui d’une cotisation. C’est ce que dispose le paragraphe 152(9) de la Loi, sous réserve des restrictions prévues aux alinéas 152(9)a) et b) de la Loi.
+[26] L’appelante soutient qu’elle serait privée de son droit à l’équité procédurale si, à ce stade tardif, j’entendais le nouveau moyen soulevé par l’intimée. En tout état de cause, elle soutient que l’intimée ne peut pas soulever le nouveau moyen, parce qu’il est contredit par des admissions de fait que l’intimée expose dans sa réponse.
+[27] Je conviens avec l’intimée que le paragraphe 152(9) de la Loi autorise la présentation de nouveaux moyens de droit. Toutefois, cela doit se faire dans le respect des règles de l’équité procédurale. Je tiens à faire observer que les garanties procédurales dépendent du contexte. Il est nécessaire de prendre en compte à cet égard l’objet des actes de procédure et des mesures prises par l’intimée en l’espèce.
+[28] Il est bien établi que les actes de procédure servent à définir les questions en litige. Les actes de procédure bien établis facilitent les étapes de production et de communication. Les règles de procédure régissent la manière dont il est possible de modifier les actes de procédure de manière à éviter toute surprise à l’instruction.
+[29] Comme je l’ai déjà relevé plus tôt, l’intimée a tenu pour acquis les faits suivants au sujet des actionnaires de l’appelante pour la période commençant le 17 août 2009 :
+[traduction] j) Entre le 17 août 2009 et le 31 décembre 2011, les actions du capital-actions de l’appelante étaient détenues comme suit :
+Actionnaire
+% des actions et droits de vote
+Capital déclaré
+Seawind Corp.
+46 %
+1 150 $
+7163860
+44 %
+1 100 $
+Mano[u] Inc.
+5 %
+125 $
+Patrick [Desautels]
+5 %
+125 $
+[Non souligné dans l’original.]
+[30] L’appelante a admis que l’hypothèse est véridique. Le nouveau moyen est donc contredit par des faits qui ont été plaidés par l’intimée et admis par l’appelante, et qui, par conséquent, n’étaient pas controversés entre les parties.
+[31] L’intimée a soutenu, de manière conforme avec cette hypothèse de fait, que Seawind Corp. avait exercé le contrôle de droit sur l’appelante pendant une partie seulement de son année d’imposition 2009. La seule question que les actes de procédure laissent sans réponse est de savoir si M. Silva ou Seawind Corp. avaient exercé le contrôle de fait sur l’appelante, comme le précise l’intimée au paragraphe 13 de la réponse.
+[32] Nos règles de procédure générale énoncent la manière dont les actes de procédure doivent être modifiés en l’absence de consentement de l’autre partie. L’intimée a omis de modifier sa réponse d’une manière conforme à ces règles. Par conséquent, si j’examinais le nouveau moyen à ce stade tardif, il y aurait manquement évident à l’équité procédurale.
+[33] Quoi qu’il en soit, si je fais erreur sur ce premier point, j’observe que l’intimée n’a pas établi que certaines actions ordinaires de l’appelante étaient des actions sans droit de vote pendant les années d’imposition pertinentes.
+[34] L’intimée affirme que les droits de vote rattachés aux 44 actions ordinaires que détenait 716380 Canada Inc. ne pouvaient être exercés qu’après paiement complet des actions le 9 mars 2012, conformément à une résolution adoptée à cette date‑là.
+[35] Je ne puis retenir l’appréciation de la preuve de l’intimée sur ce point. Les statuts constitutifs de l’appelante stipulent : [traduction] « [a]ucun actionnaire n’a le droit de voter sur une question quelconque pendant que tout montant relatif à un appel ou toute autre somme est dû et payable à la société à l’égard des actions de cet actionnaire ». L’article 21 des statuts stipule que le prix de souscription des actions peut être payé par versements ou sur appel. Si les administrateurs font un appel, le montant devient dans ce cas dû et payable. Au regard des statuts, je crois que les mots « dû et payable » ont pour but de préciser que le montant est immédiatement exigible. La résolution des administrateurs où était enregistré le paiement des actions stipulait :
+[traduction] les 44 actions ordinaires ont été émises à 7163860 Canada Inc. en contrepartie de la somme de 1 100 $ qui, en raison d’une erreur administrative, n’a été payée qu’aujourd’hui et n’a pas été enregistrée dans les livres et registres de la société à ce jour.
+La résolution prévoyait en outre que l’appelante considérait que les actions avaient été payées pendant toutes les périodes pertinentes. La conduite de l’appelante ne va donc pas dans le sens de l’affirmation selon laquelle le prix de souscription des actions a été considéré comme étant immédiatement exigible avant l’adoption de la résolution. La conduite de l’appelante concorde aussi avec la conclusion selon laquelle le prix de souscription était payable sur appel et n’est devenu « dû et payable » ou exigible qu’au moment où les administrateurs ont adopté la résolution. L’intimée n’a pas démontré le contraire [2] .
+B. Contrôle de fait
+[36] Selon le paragraphe 248(1) de la Loi, la SPCC s’entend au sens du paragraphe 125(7) de la Loi, dont le passage pertinent est ainsi libellé :
+société privée sous contrôle canadien Société privée qui est une société canadienne, à l’exception des sociétés suivantes :
+a) la société contrôlée, directement ou indirectement, de quelque manière que ce soit, par une ou plusieurs personnes non-résidentes, par une ou plusieurs sociétés publiques (sauf une société à capital de risque visée par règlement), par une ou plusieurs sociétés visées à l’alinéa c) ou par une combinaison de ces personnes ou sociétés;
+[Non souligné dans l’original.]
+[37] Le paragraphe 256(5.1) définit la manière dont les mots « contrôlée, directement ou indirectement, de quelque manière que ce soit » doivent être interprétés au regard d’une analyse du contrôle de fait :
+(5.1) Pour l’application de la présente loi, lorsque l’expression « contrôlée, directement ou indirectement, de quelque manière que ce soit, » est utilisée, une société est considérée comme ainsi contrôlée par une autre société, une personne ou un groupe de personnes — appelé « entité dominante » au présent paragraphe [3] — à un moment donné si, à ce moment, l’entité dominante a une influence directe ou indirecte dont l’exercice entraînerait le contrôle de fait de la société. Toutefois, si cette influence découle d’un contrat de concession, d’une licence, d’un bail, d’un contrat de commercialisation, d’approvisionnement ou de gestion ou d’une convention semblable — la société et l’entité dominante n’ayant entre elles aucun lien de dépendance — dont l’objet principal consiste à déterminer les liens qui unissent la société et l’entité dominante en ce qui concerne la façon de mener une entreprise exploitée par la société, celle‑ci n’est pas considérée comme contrôlée, directement ou indirectement, de quelque manière que ce soit, par l’entité dominante du seul fait qu’une telle convention existe.
+[38] La jurisprudence la plus récente qui porte sur la notion du contrôle de fait est l’arrêt McGillivray [4] . Elle rejette ce qui semblait être auparavant une conception plus large du critère applicable, qui englobait la notion du contrôle de l’exploitation. Cette jurisprudence confirme de nouveau le critère étroit consacré par l’arrêt Silicon Graphics :
+[35] Dans l’arrêt Silicon Graphics, le juge Sexton a formulé le critère en ces termes :
+[67] Par conséquent, je suis d’avis que pour que l’on puisse conclure à un contrôle de fait, une personne ou un groupe de personnes doivent avoir le droit et la capacité manifestes de procéder à une modification importante du conseil d’administration ou des pouvoirs du conseil ou d’influencer d’une façon très directe les actionnaires qui auraient autrement la capacité de choisir le conseil d’administration.
+[36] Ce critère a été confirmé dans l’arrêt 9044‑2807 Québec inc. c. La Reine, 2004 CAF 23 (Transport Couture), où le juge Noël (tel était alors son titre) a affirmé ce qui suit :
+[24] Il n’est pas possible d’énumérer tous les facteurs qui peuvent être utiles afin de déterminer si une société est ou non assujettie à un contrôle de fait (Duha Printers, [1998] 1 R.C.S. 795, paragraphe [38]). Cependant, quels que soient les facteurs retenus, ils doivent démontrer qu’une personne ou un groupe de personnes possède la capacité manifeste de modifier le Conseil d’administration de la société visée ou d’influencer de façon très directe les actionnaires qui auraient autrement la capacité de choisir le Conseil d’administration (Silicon Graphics, 2002 CAF 260, paragraphe [67]). En d’autres mots, la preuve doit démontrer que le pouvoir décisionnel de la société visée réside dans les faits ailleurs qu’entre les mains de ceux qui possèdent le contrôle de jure. [Non souligné dans l’original.]
+[37] La description du juge Noël du critère juridique qui s’applique au contrôle de fait est essentiellement une reformulation du critère énoncé par le juge Sexton dans l’arrêt Silicon Graphics. Rien dans l’extrait des motifs du juge Noël ne suggère une intention de sa part de s’écarter de la formulation du critère du contrôle de fait énoncé dans l’arrêt Silicon Graphics.
+[45] Par conséquent, je confirme que le critère étroit énoncé au paragraphe 67 de l’arrêt Silicon Graphics est correct et qu’il n’a pas été infirmé par la Cour [5] .
+[39] L’intimée affirme que M. Silva a exercé directement, et par l’entremise de Seawind Corp. et de Sea Air, le contrôle de fait sur l’appelante au moyen d’une influence économique découlant de droits contenus dans l’entente de mise au point ainsi qu’au moyen des autres ententes et arrangements de nature commerciale intervenus entre les parties. L’influence économique constituait une sorte d’épée de Damoclès suspendue sur les actionnaires résidents canadiens de l’appelante, et elle était capable d’influencer l’exercice de leurs droits de vote pour déterminer la composition ou la modification du conseil d’administration.
+[40] L’appelante semble admettre que l’influence économique pourrait encore être pertinente; toutefois, elle soutient qu’une telle influence économique doit être fondée sur des droits qui font plus que régir les relations commerciales ordinaires des parties. Cette influence doit aussi découler d’ententes que le paragraphe 256(5.1) n’exclut pas par ailleurs, en raison du texte suivant :
+Toutefois, si cette influence découle d’un contrat de concession, d’une licence, d’un bail, d’un contrat de commercialisation, d’approvisionnement ou de gestion ou d’une convention semblable — la société et l’entité dominante n’ayant entre elles aucun lien de dépendance — dont l’objet principal consiste à déterminer les liens qui unissent la société et l’entité dominante en ce qui concerne la façon de mener une entreprise exploitée par la société, celle‑ci n’est pas considérée comme contrôlée, directement ou indirectement, de quelque manière que ce soit, par l’entité dominante du seul fait qu’une telle convention existe.
+[Non souligné dans l’original]
+[41] L’intimée soutient que l’appelante pouvait agir et a effectivement agi de manière indépendante par rapport à l’entité dominante qui aurait exercé le contrôle de fait. L’entente de mise au point contenait les modalités nécessaires pour garantir que le travail serait exécuté à la satisfaction de Seawind Corp. Enfin, les arrangements commerciaux des parties sont exclus des critères consacrés par la jurisprudence Silicon Graphics par les conditions d’exclusion énoncées au paragraphe 256(5.1), cité ci‑dessus (l’« exclusion »).
+[42] L’« influence économique » constitue‑elle un facteur dont il faut tenir compte dans l’analyse du contrôle de fait, à la lumière des principes qui ont été réaffirmés par l’arrêt McGillivray? Dans l’affirmative, comment faut‑il l’appliquer?
+[43] À l’occasion de l’affaire McGillivray, la Cour a expressément confirmé que « la liste des facteurs qui peuvent être pris en considération au moment d’appliquer le critère de l’arrêt Silicon Graphics est non limitative ». Une mise en garde a été ajoutée, précisant qu’un « facteur qui ne comprend pas un droit et une capacité ayant force exécutoire de procéder à une modification du conseil d’administration ou de ses pouvoirs, ou d’influencer les actionnaires qui ont ce droit et cette capacité, ne devrait pas être considéré comme étant susceptible d’établir un contrôle de fait ».
+[44] Il ressort clairement du paragraphe 256(5.1) de la Loi que le contrôle de fait repose sur la capacité d’exercer une influence directe ou indirecte. La jurisprudence McGillivray confirme que l’influence doit pouvoir être exercée, directement ou indirectement, à l’encontre des actionnaires de la société qui détiennent un droit de vote.
+[45] Les ententes et les arrangements de nature commerciale de la société peuvent‑ils être la source de cette influence? Il ressort du libellé de l’exclusion que le législateur a envisagé que tel pourrait être le cas, sinon ce libellé est redondant. Selon un principe bien établi, le législateur ne parle pas pour rien dire. En conséquence, par déduction nécessaire, les ententes et les arrangements de nature commerciale, s’ils n’entrent pas dans le champ restreint de l’exclusion, doivent être pris en compte dans l’analyse du contrôle de fait.
+[46] Pour que le juge puisse conclure que l’entité dominante exerce le contrôle de fait, je crois qu’il doit ressortir des preuves que cette entité a la capacité d’influencer l’intérêt économique des actionnaires ayant un droit de vote, et ce, d’une manière qui lui permet de leur imposer sa volonté, si elle décide de le faire. Les preuves doivent mettre le juge en mesure de déterminer s’il serait peu vraisemblable que les actionnaires exercent leurs droits de vote indépendamment des souhaits de l’entité dominante.
+[47] J’examinerai maintenant les circonstances entourant les rapports que les parties entretenaient dans le présent contexte.
+[48] L’appelante affirme qu’elle n’était pas économiquement dépendante, directement ou indirectement, de M. Silva ou de Seawind Corp. Je ne puis retenir cette thèse. Il ressort des preuves le contraire.
+[49] Premièrement, l’appelante avait un capital‑actions symbolique qui dépendait entièrement des liquidités que lui procurait Seawind Corp. selon l’entente de mise au point pour financer les dépenses de certification. Seawind Corp. est demeurée sa seule cliente.
+[50] Les conditions de l’entente de mise au point étaient dictées par M. Silva qui contrôlait les deux parties au moment de la conclusion de l’entente. Les conditions de l’entente de mise au point me paraissent inégales. Par exemple, l’entente stipulait que l’appelante pouvait utiliser la « marge bénéficiaire », sa seule source possible de profit, uniquement pour financer les dépenses de certification. Il ressort des preuves également que Seawind Corp. a refusé de payer la marge bénéficiaire à l’appelante à la suite d’instructions données par M. Silva. Il s’agissait là d’une mesure unilatérale que l’appelante n’a pas contestée.
+[51] Il ressort des preuves que l’appelante a accusé un déficit pendant toute la période pertinente. En 2011, lorsqu’il n’était plus possible d’obtenir un financement de Seawind Corp., l’appelante a suspendu ses activités. La totalité de l’équipement de l’appelante appartenait à Seawind Corp. aux termes des conditions de l’entente de mise au point. L’appelante ne détenait pas de droits de propriété intellectuelle découlant de son travail de mise au point et de certification. Le Seawind devait être fabriqué et vendu par Sea Air Composites, une entreprise que contrôlait M. Silva.
+[52] Compte tenu de la dépendance économique de l’appelante de Seawind Corp. et de M. Silva, il n’est pas surprenant que l’appelante n’ait pas été capable d’obtenir un financement pour ses activités auprès de tiers.
+[53] L’appelante souligne que Manou Dessertine, employée et actionnaire de l’appelante, lui a accordé un financement de 75 000 $ au moyen d’un placement qu’elle a fait dans Sea Air. Selon l’appelante ce placement reflète la viabilité de ses activités commerciales. En fait, le placement de Manou Dessertine dans Sea Air démontre qu’un placement direct dans l’appelante aurait été un geste téméraire. L’appelante n’offrait aucun potentiel de croissance quant aux revenus, qui justifierait que l’on investisse directement dans son entreprise. Elle possédait des immobilisations corporelles symboliques. Elle n’était pas propriétaire du hangar du quel elle menait ses activités. Tous les droits de propriété intellectuelle sur le Seawind appartenaient à M. Silva ou à Seawind Corp.
+[54] L’appelante soutient qu’elle pouvait trouver d’autres clients. Elle avait mis sur pied un effectif de travailleurs qualifiés qui étaient capables d’exécuter d’autres projets. Pourtant, lorsque Seawind Corp. a commencé à avoir des difficultés à réunir des capitaux pour financer les dépenses de certification, l’appelante a suspendu ses activités. Nul élément de preuve n’a été produit dont il ressort que l’appelante avait trouvé – ou pouvait trouver, d’ailleurs – du travail de certification et de prototypage auprès d’autres concepteurs d’aéronefs. Je ne suis pas persuadé que les travailleurs de l’appelante auraient été prêts à attendre que l’appelante trouve d’autres clients.
+[55] Les états financiers de 2009 et de 2010 de l’appelante font ressortir le fait qu’elle dépendait économiquement de Seawind Corp. Dans les notes accompagnant ces états financiers, sous la rubrique intitulée [traduction] « dépendance économique », la direction a révélé que l’entente de mise au point était la seule source de revenus de l’appelante. Nulle note semblable n’a été ajoutée aux états financiers de l’appelante pour l’année 2011. Je constate que ces états financiers ont été établis après que les travaux de vérification de l’appelante avaient commencé. Je suppose que l’on a laissé tomber cette note parce que l’ARC avait déjà soulevé la question de l’influence économique.
+[56] Vu ce contexte, il est difficile de concevoir que les actionnaires résidents canadiens auraient exercé leurs droits de vote indépendamment de la volonté de M. Silva. Le fait que les actionnaires résidents canadiens étaient soit des employés de l’appelante soit des entités appartenant entièrement à des employés de l’appelante renforce cette conclusion.
+[57] L’appelante soutient qu’il ressort des preuves que Mme Dessertine a contribué à la gestion des activités de l’appelante, ce qui prouve qu’elle était capable d’agir de façon indépendante à l’égard de M. Silva.
+J’admets que Mme Dessertine comptait une expérience utile dans l’assemblage d’aéronefs tels que le Seawind. Elle était une pilote accomplie, qui exploitait sa propre entreprise, à savoir une école de pilotage. Je ne doute pas qu’elle était une gestionnaire compétente. Cependant, comme il a été décidé par l’arrêt McGillivray, le contrôle sur l’exploitation ou la gestion n’est pas pertinent aux fins du critère consacré par l’arrêt Silicon Graphics.
+[58] Enfin, Mme Dessertine était employée par la société. La continuation de son emploi dépendait de la viabilité financière de l’appelante. À cet égard, il ressort des preuves que M. Silva et Seawind Corp. avaient pour ainsi dire la mainmise sur la santé financière de l’appelante. Je n’ai aucune difficulté à imaginer que M. Silva, s’il l’avait voulu, aurait pu influencer la manière dont Manou Inc. exerçait ses droits de vote.
+[59] Les parties ont produit, sur consentement, des bulletins rédigés par M. Silva et adressés aux investisseurs qui participaient au projet Seawind. M. Silva se sert du pronom « nous » pour exposer les diverses activités menées relativement à la mise au point et à la certification du Seawind. Cela laisse au lecteur l’impression que toutes les activités, y compris celles menées par l’appelante, étaient exécutées par une organisation intégrée détenue en propriété exclusive. Par exemple, les nouveaux membres du personnel de l’appelante sont appelés des employés du groupe.
+[60] Avec ce contexte à l’esprit, je n’ai aucune difficulté à imaginer que M. Silva, s’il l’avait voulu, aurait pu imposer sa volonté aux actionnaires résidents canadiens de l’appelante en ce qui a trait à la composition et à la modification du conseil d’administration de cette dernière.
+[61] Comme dernier moyen de défense, l’appelante soutient que l’entente de mise au point, la principale source de la dépendance économique alléguée que l’intimée a relevée, ne peut pas être prise en considération selon le critère consacré par l’arrêt Silicon Graphics en raison des conditions d’exclusion énoncées au paragraphe 256(5.1).
+[62] Comme l’a fait remarquer l’intimée, une entente commerciale n’est exclue au paragraphe 256(5.1) de la Loi que si : (i) pendant la période en cause la société et l’entité dominante n’ont entre elles aucun lien de dépendance [6] et (ii) l’objet principal de l’entente consiste à déterminer les liens qui unissent la société et l’entité dominante en ce qui concerne la façon de mener l’entreprise exploitée par la société.
+[63] Compte tenu des preuves dans leur ensemble, je conclus que M. Silva, Seawind Corp. et l’appelante avaient un lien de dépendance entre eux dans chacune des années d’imposition pertinentes. L’exclusion ne s’applique donc pas.
+[64] Premièrement, lorsque Seawind Corp. a conclu l’entente de mise au point, M. Silva, indirectement, et Seawind Corp., directement, contrôlaient l’appelante. Les deux sociétés étaient des personnes liées selon l’alinéa 251(2)b) de la Loi et, par conséquent, elles étaient réputées avoir un lien de dépendance selon l’alinéa 251(5)a) de la Loi.
+[65] Il ressort des preuves que M. Silva était l’unique personne à définir les modalités de l’entente de mise au point. La durée initiale de l’entente était de quinze mois. À l’échéance du terme, l’appelante n’a pas cherché à renégocier les modalités de l’entente de mise au point, même si, à ce moment‑là, elle accusait un déficit.
+[66] Non seulement M. Silva a fixé les modalités de l’entente entre les parties, mais il ressort des preuves qu’il a unilatéralement décidé que la marge bénéficiaire ne devait pas être payée. L’appelante ne s’y est pas opposée et n’a pas exercé son droit au paiement de cette marge.
+[67] D’autres éléments militent en faveur de l’existence de liens de dépendance. L’appelante exerçait ses activités dans un hangar appartenant à Sea Air. Aucun élément de preuve ne donnait à penser que l’appelante payait un loyer pour pouvoir utiliser les lieux. J’ai le sentiment que M. Silva n’a pas exigé que l’appelante conclue un contrat de bail proprement dit, parce que l’appelante dépendait économiquement de Seawind Corp., une société en propriété exclusive de M. Silva. Il aurait fallu que Seawind Corp. finance les paiements de location conformément aux modalités de l’entente de mise au point, ce qui aurait été l’équivalent d’une situation où M. Silva payait le loyer à lui‑même.
+[68] Il ressort cependant de l’absence d’un contrat de bail, que les parties envisageaient que l’appelante n’exercerait pas ses activités indépendamment de Seawind Corp. et de M. Silva. Si l’appelante s’attendait à conclure un contrat de bail, elle aurait insisté pour l’obtenir afin d’éviter qu’elle soit expulsée de son lieu d’affaires si on lui confiait d’autres activités. J’ai le sentiment que M. Silva aurait également insisté pour que le contrat soit fondé sur des conditions commerciales ordinaires. Autrement, les actionnaires résidents canadiens auraient bénéficié de l’entente de location gratuite si l’appelante trouvait de nouveaux clients. L’absence d’un contrat de bail donne à penser que les parties avaient un lien de dépendance.
+[69] Compte tenu de tout ce qui précède, je conclus que la condition relative à l’absence de lien de dépendance n’est pas remplie.
+[70] Pour les motifs qui précèdent, l’appel est rejeté.
+[71] L’appelante sollicite les dépens, quelle que soit l’issue de la cause. Elle soutient que l’intimée a manqué aux règles de l’équité procédurale en invoquant tardivement le nouveau moyen. L’appelante affirme que la conduite de l’intimée était abusive.
+[72] Avec égard, je rejette l’appréciation de la situation que fait l’appelante. L’avocat de l’intimée avait une obligation envers sa cliente de soulever le nouveau moyen. Lorsqu’il a découvert le paiement tardif du prix de souscription des actions, il a immédiatement avisé l’appelante qu’il allait faire valoir que M. Silva et Seawind Corp. avaient exercé un contrôle de droit sur elle pendant toute la période pertinente. Bien que l’appelante ait eu raison d’affirmer que je ne devais pas examiner le nouveau moyen pour des motifs d’équité procédurale, cela n’a pas retardé l’audience. En conséquence, comme c’est la pratique lorsqu’un appel est rejeté, les dépens sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 13e jour de mars 2017.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 5e jour de septembre 2018.
+François Brunet, réviseur
+RÉFÉRENCE :
+2017 CCI 39
+No DU DOSSIER DE LA COUR :
+2014-4207(IT)G
+INTITULÉ :
+AERONAUTIC DEVELOPMENT CORPORATION ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Les 25 et 26 janvier 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 13 mars 2017
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Dominic C. Belley
+Avocat de l’intimée :
+Me Benoit Mandeville
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Dominic C. Belley
+Cabinet :
+Norton Rose Fulbright Canada, s.r.l.
+1, Place Ville Marie, bureau 2500 Montréal (Québec) H3B 1R1
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Cette structure est exposée dans le document figurant à l’onglet 1 de la pièce A‑1.
+[2] L’intimée n’a pas contre‑interrogé M. Silva et Mme Dessertine sur cette question. Ils sont deux des trois administrateurs de l’appelante qui ont signé la résolution.
+[3] Dans les présentes, les mots « entité dominante » ont le même sens que celui qui est susmentionné.
+[4] McGillivray Restaurant Ltd. c. Canada, 2016 CAF 99 [McGillivray].
+[5] McGillivray, précité à la note 4, aux paragraphes 35 à 37 et 45.
+[6] Pour un examen des règles de droit qui s’appliquent à la détermination de l’existence ou non d’une relation sans lien de dépendance, voir Peter Cundill & Associates Ltd. v. R., [1991] 1 C.T.C. 197 (CF 1re inst.).

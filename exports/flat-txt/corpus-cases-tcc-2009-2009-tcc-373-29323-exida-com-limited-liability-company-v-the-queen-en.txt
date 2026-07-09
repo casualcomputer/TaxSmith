@@ -1,0 +1,238 @@
+Title: Exida.Com Limited Liability Company v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29323/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-373-29323-exida-com-limited-liability-company-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-07-21
+
+# Exida.Com Limited Liability Company v. The Queen
+
+- Citation: 2009 TCC 373
+- Decision date: 2009-07-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7062, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Exida.Com Limited Liability Company v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-21
+Neutral citation
+2009 TCC 373
+File numbers
+2007-4892(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4892(IT)I
+BETWEEN:
+EXIDA.COM LIMITED LIABILITY COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of
+Tonoga Inc. (2007-4976(IT)I)
+on June 26, 2009 at Hamilton, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+S. David Bazar
+Counsel for the Respondent:
+Amit Ummat
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2003, 2004 and 2005 taxation years is dismissed. Each party shall bear their own costs.
+Signed at Ottawa, Canada this 21st day of July 2009.
+“J. M. Woods”
+Woods J.
+Docket: 2007-4976(IT)I
+BETWEEN:
+TONOGA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together with the appeal of
+Exida.com Limited Liability Company (2007-4892(IT)I)
+on June 26, 2009 at Hamilton, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+S. David Bazar
+Counsel for the Respondent:
+Amit Ummat
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2004 taxation year is dismissed. Each party shall bear their own costs.
+Signed at Ottawa, Canada this 21st day of July 2009.
+“J. M. Woods”
+Woods J.
+Citation: 2009 TCC 373
+Date: 20090721
+Dockets: 2007-4892(IT)I
+2007-4976(IT)I
+BETWEEN:
+EXIDA.COM LIMITED LIABILITY COMPANY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+TONOGA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The issue in these informal procedure appeals is this. Is a non-resident corporation that carries on business in Canada required to pay a penalty for failure to file income tax returns on time in circumstances where the corporation has no unpaid tax?
+[2] For each taxation year at issue, the appellants were assessed a penalty in the amount of $2,500 pursuant to subsection 162(2.1) of the Income Tax Act.
+[3] The taxation years at issue for Exida.com Limited Liability Company are 2003, 2004 and 2005. The only relevant taxation year for Tonoga Inc. is 2004.
+[4] To my knowledge, there is no relationship between the two appellants. The appeals were heard together as the issue is the same and the appellants were represented by the same agent.
+[5] By way of background, the application of s. 162(2.1) in circumstances similar to this was recently considered in another appeal that was also heard under the informal procedure. In Goar, Allison & Associates Inc. v. The Queen, 2009 TCC 174, 2009 DTC 1125, C. Miller J. concluded that this penalty provision did not apply unless there was some unpaid tax at the filing deadline. The representatives before me also appeared in Goar.
+[6] Despite the Minister’s loss in Goar, which was not appealed, counsel requests that the conclusion be revisited in these appeals.
+[7] In addition to this issue, counsel has raised an alternative argument that was not made in Goar. It focuses on the penalty in subsection 162(7), which is equivalent in amount to the penalty in s. 162(2.1).
+[8] I was informed by the representative for the appellants that the issue in these appeals is relevant to a large number of non-resident corporations that carry on business in Canada.
+Relevant legislative scheme
+[9] Section 162 contains a number of penalty provisions that generally apply if there has been a failure to comply with informational requirements of the Act. It is useful to have regard to some of these provisions.
+[10] Subsection 162(1) of the Act is a general provision that applies where an income tax return has not been filed on time. It provides for a penalty based on a formula, which takes into account the amount of unpaid tax at the time of the filing deadline. If there is no unpaid tax, there is no penalty.
+[11] Subsection 162(1) provides:
+162(1) Every person who fails to file a return of income for a taxation year as and when required by subsection 150(1) is liable to a penalty equal to the total of
+(a) an amount equal to 5% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(b) the product obtained when 1% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 12, from the date on which the return was required to be filed to the date on which the return was filed.
+[12] Subsection 162(1) does not apply in circumstances where subsection 162(2.1) of the Act applies. The latter provision is a more specific provision that applies to non-resident corporations.
+[13] Subsection 162(2.1) provides:
+162(2.1) Notwithstanding subsections (1) and (2), if a non-resident corporation is liable to a penalty under subsection (1) or (2) for failure to file a return of income for a taxation year, the amount of the penalty is the greater of
+(a) the amount computed under subsection (1) or (2), as the case may be, and
+(b) an an amount equal to the greater of
+(i) $100, and
+(ii) $25 times the number of days, not exceeding 100, from the day on which the return was required to be filed to the day on which the return is filed.
+[Emphasis added]
+[14] It is useful to consider the history of this provision. It was enacted for taxation years commencing after 1998 and was introduced in conjunction with changes to the income tax return filing requirements applicable to non-resident corporations.
+[15] Prior to these amendments, all corporations were required to file income tax returns in Canada, regardless of whether they were resident in Canada or had any connection to Canada. The penalty for failure to comply was set out in s. 162(1), with the result that no penalty was payable unless there was an amount of unpaid tax at the filing deadline.
+[16] Commencing for taxation years after 1998, the filing requirements in paragraph 150(1)(a) of the Act were amended. As a consequence, non-resident corporations are not required to file returns unless they have some connection to Canada. At the same time, s. 162(2.1) was introduced to provide for a different penalty for non-resident corporations.
+[17] Paragraph 150(1)(a), as it read during the relevant period, provided:
+150(1) Subject to subsection (1.1), a return of income that is in prescribed form and that contains prescribed information shall be filed with the Minister, without notice or demand for the return, for each taxation year of a taxpayer,
+(a) in the case of a corporation, by or on behalf of the corporation within six months after the end of the year if
+(i) at any time in the year the corporation
+(A) is resident in Canada,
+(B) carries on business in Canada, unless the corporation's only revenue from carrying on business in Canada in the year consists of amounts in respect of which tax was payable by the corporation under subsection 212(5.1),
+(C) has a taxable capital gain, or
+(D) disposes of a taxable Canadian property, or
+(ii) tax under this Part is, or but for a tax treaty would be, payable by the corporation for the year;
+[18] It is also useful to mention the specific penalty that applies for repeated late filing of returns. This provision, subsection 162(2), increases the amount of the penalty if the taxpayer was penalized for the same type of failure in a previous year.
+[19] Subsection 162(2) provides:
+162(2) Every person
+(a) who fails to file a return of income for a taxation year as and when required by subsection 150(1),
+(b) on whom a demand for a return for the year has been served under subsection 150(2), and
+(c) by whom, before the time of failure, a penalty was payable under this subsection or subsection (1) in respect of a return of income for any of the 3 preceding taxation years
+is liable to a penalty equal to the total of
+(d) an amount equal to 10% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(e) the product obtained when 2% of the tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 20, from the date on which the return was required to be filed to the date on which the return was filed.
+[Emphasis added]
+[20] In addition to these provisions which are specific to the circumstances of a failure to file income tax returns on time, a more general penalty is provided for in subsection 162(7) of the Act. It was described by counsel as a “catch-all” provision that applies if there has been a breach of an obligation under the Act for which no other penalty is provided for.
+[21] Subsection 162(7) provides:
+162(7) Every person (other than a registered charity) or partnership who fails
+(a) to file an information return as and when required by this Act or the regulations, or
+(b) to comply with a duty or obligation imposed by this Act or the regulations
+is liable in respect of each such failure, except where another provision of this Act (other than subsection (10) or (10.1) or 163(2.22)) sets out a penalty for the failure, to a penalty equal to the greater of $100 and the product obtained when $25 is multiplied by the number of days, not exceeding 100, during which the failure continues.
+[Emphasis added]
+Facts
+[22] None of the parties led evidence at the hearing. An agreed statement of facts was filed in respect of each appellant, and these are reproduced in Schedule A.
+[23] The essential relevant facts are the same for both appellants. Each is a corporation resident in the United States that carries on business in Canada. Each was required to file an annual return of income in Canada and such returns were late-filed for the relevant years. Neither corporation had tax payable under the Act in Canada for any of the relevant years.
+[24] I would briefly mention that at the opening of the hearing the representative of Tonoga Inc. informed me that he wished to provide additional facts. In particular, the representative indicated that Tonoga Inc. was a resident of Canada and that its income tax return for the relevant year had been filed on time. These purported facts were either not in the agreed statement or were contrary to it.
+[25] No evidence was led to establish these purported facts, and the representative accordingly indicated that he would proceed with Tonoga’s appeal on the basis that the corporation was only a resident of the United States and that the relevant income tax return was filed late. The appeal proceeded on this basis.
+[26] I would also mention that some of the agreed facts and some of the assumptions made by the Minister of National Revenue as stated in the replies appear to be statements of law or statements of mixed fact and law. Neither representative mentioned this at the hearing, and I do not think that anything turns on it in these particular appeals.
+Analysis
+Does subsection 162(7) apply?
+[27] I will first consider the Minister’s alternative argument. The question that is raised is this. If subsection 162(2.1) does not apply, does the equivalent penalty in subsection 162(7) apply?
+[28] The conclusion that I have reached is that subsection 162(7) has no application in these circumstances.
+[29] Subsection 162(7) applies in a wide variety of circumstances, including where there has been a failure to comply with any obligation imposed by the Act. It specifically excludes from its ambit situations in which another provision of the Act “sets out” a penalty. The question is whether the present circumstances are covered by this exclusion.
+[30] The threshold question, therefore, is whether another provision sets out a penalty for the appellants’ failure to file income tax returns on time.
+[31] Since this is an alternative argument, I will assume for purposes of this analysis that s. 162(2.1) does not set out a penalty. That is not the end of the inquiry, however, as it remains to be considered whether another provision sets out a penalty. In my view, subsection 162(1) is such a provision.
+[32] Subsection 162(7) refers to a failure to comply with an obligation imposed by the Act. In this case, the obligation that was not complied with was the obligation to file income tax returns by a specified deadline. A penalty for such circumstances is set out in s. 162(1). In my view, it is not relevant that the penalty could be nil. A penalty for the failure to file returns on a timely basis is nevertheless set out in s. 162(1).
+[33] If there is any doubt about this interpretation, the doubt can be resolved by a contextual and purposive interpretation of the relevant provisions.
+[34] If the Minister’s interpretation of s. 162(7) is correct, then any person who fails to file an income tax return on time would have to pay a penalty under s. 162(7).
+[35] As correctly pointed out by the representative for the appellants, this interpretation appears to frustrate the clear intent of subsection 162(1) which is to impose a penalty for late-filing of an income tax return only if there is tax unpaid at the filing deadline. If Parliament had intended to impose a penalty regardless of whether there is unpaid tax, it is likely that the formula in subsection 162(1) would have provided for this.
+[36] For these reasons, I reject the alternative submission of the Minister that the penalty imposed on the appellants is properly imposed under subsection 162(7).
+Does subsection 162(2.1) apply?
+[37] I now turn to the Minister’s main argument. The question to be decided is whether the penalty provided for in subsection 162(2.1) applies if a non-resident corporation has no unpaid tax at the filing deadline.
+[38] As mentioned above, the recent Goar decision decided this issue in the negative. C. Miller J. concluded that s. 162(2.1) is not engaged unless there is unpaid tax.
+[39] This issue turns on the proper interpretation of the following phrase in s. 162(2.1): “[…] if a non-resident corporation is liable to a penalty under subsection (1) or (2) for failure to file a return of income for a taxation year […].”
+[40] In Goar, it was concluded that a non-resident corporation is not liable for a penalty under s. 162(1) unless there is some unpaid tax because the formula produces a penalty of nil unless there is unpaid tax. If there is no unpaid tax, there is no penalty.
+[41] Counsel for the Minister invites me to come to a different conclusion. He suggests that a taxpayer is liable to a penalty under s. 162(1) at any time that an income tax return has not been filed on time. It is irrelevant, it is argued, that the formula in s. 162(1) may produce a penalty of nil in the particular circumstances.
+[42] Counsel repeated the same arguments that he had unsuccessfully made in Goar, which are discussed in the reasons of that decision. I will not repeat them here.
+[43] With respect to counsel, I believe that his arguments fail to fully consider the meaning of the relevant provision from a textual, contextual and purposive perspective.
+[44] The textual, contextual and purposive approach to statutory interpretation was recently succinctly described by Sharlow J.A. involving an appeal under the Excise Tax Act. In North Shore Health Region v. The Queen, 2008 FCA 2; [2008] GSTC 1, the following was stated:
+[39] Subparagraph 191(3)(b)(i) must be read in its entire context and in its grammatical and ordinary sense harmoniously with the scheme of the statute, the object of the statute, and the intention of Parliament. See, for example, AstraZeneca Canada Inc. v. Canada (Minister of Health), [2006] 2 S.C.R. 560 at paragraph 26; Canada Trustco Mortgage Co. v. Canada, [2005] 2 S.C.R. 601 at paragraph 10; Driedger, Elmer A., Construction of Statutes (2nd ed., Toronto: Butterworths, 1983) at page 87. In this case, the object of subparagraph 191(3)(b)(i), and the intention of Parliament in enacting it, must be discerned from the words of the statute and the relevant portions of the statutory scheme in which they are found, as summarized above. There is no guiding jurisprudence.
+[45] To a great extent, the issue turns on the proper meaning of the word “liable” as it is used in s. 162(2.1).
+[46] It appears that the ordinary meaning of the word is quite broad.
+[47] According to The Oxford English Dictionary, 2nd ed., the primary meaning of “liable” is:
+Bound or obliged by law or equity, or in accordance with a rule or convention; answerable; legally subject or amenable to.
+[48] Similarly, the Federal Court of Appeal adopted a broad meaning of “liable” in a legal context in The Queen v. National Trust Company, 98 DTC 6409, at para. 46:
+The ordinary meaning of the word “liable” in a legal context is to denote the fact that a person is responsible at law.
+[49] Since the general meaning of the word “liable” is broad, it is useful to consider the relevant context in these appeals.
+[50] I would first compare the use of the term “liable” in s. 162(2.1) with the use of the term “payable” in the repeated failure provision in s. 162(2). In paragraph 162(2)(c), the term “payable” is used to make it clear that the more onerous penalty for a repeated failure does not apply unless there was actually a penalty owing for a prior year.
+[51] The interpretation of s. 162(2.1) suggested by the appellants essentially equates the terms “liable” and “payable.” The use of different terminology in the relevant subsections, however, seems to suggest that a different meaning was contemplated.
+[52] It is also useful to have regard to the purpose of introducing a separate penalty for non-resident corporations.
+[53] As mentioned above, subsection 162(2.1) came into force for taxation years after 1998 in conjunction with the narrowing of the tax return filing requirements for non-resident corporations in paragraph 150(1)(a).
+[54] The intent of the change to para. 150(1)(a) is clear. It is to restrict the circumstances in which a non-resident corporation must file an income tax return in Canada to circumstances where the corporation has some connection with Canada.
+[55] As for the purpose of enacting subsection 162(2.1) in conjunction with the amendment to para. 150(1)(a), it is useful to compare the result that would follow if the appellants’ or the respondent’s position were accepted.
+[56] If the appellants’ interpretation is correct, the effect of s. 162(2.1) would be quite limited. It would provide for a small increase in the minimum penalty imposed on non-resident corporations that have some unpaid tax at the filing deadline. The penalty would no longer be based entirely on the amount of unpaid tax. It would be subject to a minimum penalty of between $100 and $2,500.
+[57] If the Minister’s interpretation is correct, the effect of subsection 162(2.1) would be to impose a minimum penalty whenever a non-resident corporation fails to file an income tax return on time, regardless of whether there is any unpaid tax.
+[58] In my view, it is unlikely that Parliament enacted s. 162(2.1) for the modest objective that is inherent in the appellants’ position. It is more likely that the objective was to put teeth into the more restrictive filing requirements for non-resident corporations in para. 150(1)(a). Further, as noted in Goar, this objective is reflected in the technical notes published by the Department of Finance at the time that the legislation was introduced.
+[59] For these reasons, I would conclude that the phrase “liable to a penalty under subsection 162(1) or (2) for failure to file a return of income for a taxation year” should encompass the circumstances in these appeals. In other words, it should apply if the non-resident corporation is potentially subject to a penalty under s. 162(1) because it failed to file a tax return on time.
+[60] Before concluding, I would briefly mention I have taken into account a recent decision of the Federal Court of Appeal which considered the meaning of the term “liable” in a different context.
+[61] In Perry v. The Minister of National Revenue, 2008 FCA 260, 2008 DTC 6623, the Court had to consider the meaning of the phrase “liable to tax” in the context of determining residence for purposes of the Canada-United States Income Tax Convention. In obiter, Noel J.A. appears to give a restrictive meaning to the phrase “liable to tax,” at para. 19:
+[19] As there is no existing liability to tax under current section 94, the appellant Trust is not a resident of Canada pursuant to Article IV(I) and therefore not a dual resident under Article IV(4) of the Convention. It follows that no dual residency issue arises under Article IV(4) of the Convention with respect to the current section 94.
+[62] If the word “liable” in s. 162(2.1) were to be given the same meaning as in Perry, it would support the appellants’ position. In my view, however, this is not the preferred interpretation of the word as used in subsection 162(2.1) having regard to its context and the legislative scheme.
+[63] The appeals will be dismissed.
+Signed at Ottawa, Canada this 21st day of July 2009.
+“J. M. Woods”
+Woods J.
+SCHEDULE A
+AGREED STATEMENT OF FACTS - EXIDA
+1. Exida ("Corporation") is a resident of Pennsylvania, USA.
+2. The Corporation carried on business in Canada during the 2003, 2004 and 2005 taxation years.
+3. The Corporation had Part I tax deducted at source by clients.
+4. The Corporation was required to file a T2 income tax return by June 30, 2004, 2005 and 2006 for the 2003, 2004 and 2005 taxation years respectively.
+5. The Appellant’s fiscal year end is December 31.
+6. The returns were all filed late.
+7. There was no tax owing on the due date.
+8. The Corporation was assessed a late-filing penalty of $2,500 for each of the 2003, 2004, and 2005 taxation years on June 28, 2007 pursuant to subsection 162(2.1) of the Income Tax Act RSC 1985 c.1 (5th Suppl.) ("Act").
+AGREED STATEMENT OF FACTS - TONOGA
+1. Tonoga ("Corporation") is a resident of Delaware, USA.
+2. The Corporation carried on business in Canada during the 2004 taxation year.
+3. The Corporation was required to file a T2 income tax return by June 30, 2005 for the 2004 taxation year.
+4. The Appellant’s fiscal year end is December 31.
+5. That return was not filed until October 18, 2006. The return was late.
+6. There was no tax owing on the due date.
+7. The Corporation was assessed a late-filing penalty of $2,500 on April 17, 2007 pursuant to subsection 162(2.1) of the Income Tax Act RSC 1985 c.1 (5th Suppl.) ("Act").
+CITATION: 2009 TCC 373
+COURT FILE NO.: 2007-4892(IT)I and 2007-4976(IT)I
+STYLES OF CAUSE: Exida.com Limited Liability Company v. Her Majesty The Queen and Tonoga Inc. v. Her Majesty The Queen
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: June 26, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENTS: July 21, 2009
+APPEARANCES:
+Agent for the Appellants:
+S. David Bazar
+Counsel for the Respondent:
+Amit Ummat
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

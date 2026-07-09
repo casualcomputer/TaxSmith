@@ -1,0 +1,333 @@
+Title: Crown Forest Industries Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27185/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-47-27185-crown-forest-industries-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-02-08
+
+# Crown Forest Industries Ltd. v. The Queen
+
+- Citation: 2006 TCC 47
+- Decision date: 2006-02-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 988, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Crown Forest Industries Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-02-08
+Neutral citation
+2006 TCC 47
+File numbers
+2002-4796(IT)G
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-4796(IT)G
+BETWEEN:
+CROWN FOREST INDUSTRIES LIMITED
+In Respect of FLETCHER CHALLENGE
+HOLDINGS (CANADA) LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeal of Crown Forest Industries Limited (2003-364(IT)G) on September 21, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Neil H. Harris, Glenn Ernst
+Counsel for the Respondent:
+Margaret Clare
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1983, 1984, 1985, 1986 and 1987 taxation years are allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of February 2006.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2003-364(IT)G
+BETWEEN:
+CROWN FOREST INDUSTRIES LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Crown Forest Industries Limited in Respect of Fletcher Challenge Holdings (Canada) Ltd. (2002-4796(IT)G) on September 21, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Neil H. Harris, Glenn Ernst
+Counsel for the Respondent:
+Margaret Clare
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1988 taxation year is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 8th day of February 2006.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2006TCC47
+Date: 20060208
+Dockets: 2002-4796(IT)G
+2003-364(IT)G
+BETWEEN:
+CROWN FOREST INDUSTRIES LIMITED,
+In Respect of FLETCHER CHALLENGE HOLDINGS (CANADA) LTD.,
+CROWN FOREST INDUSTRIES LIMITED,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+[1] The Appellant is appealing determinations and a redetermination of losses issued by the Minister of National Revenue (the "Minister") in respect of the taxation years of Fletcher Challenge Holdings (Canada) Ltd. ("Holdings") ending June 30, 1983, 1984, 1985, 1986 and June 9, 1987. Throughout those years Holdings was owned by the Appellant but was wound up into the Appellant on June 9, 1987. The Appellant is also appealing a reassessment by the Minister with respect to the Appellant's taxation year ending October 31, 1988.
+[2] Holdings was incorporated in December 1982, in British Columbia, for the sole purpose of acquiring shares in the Appellant. In March 1983, it acquired some 83% of the outstanding shares of the Appellant, also a British Columbia company, from an arm's length Delaware corporation and then increased its holdings to 96% within a few months of that acquisition. The initial acquisition was funded in part by a loan from a Netherlands corporation. Both Holdings and the Netherlands corporation were indirectly owned by a large public New Zealand corporation. The loan bore interest which Holdings deducted on the cash basis. There were other interest bearing loans from unrelated third parties in respect of which interest deductions were also claimed on a similar basis. Such deductions in respect of the aggregate of the loans contributed to the losses in question. Such deductions were denied. Losses were re-determined by allowing interest deductions on the accrual basis. It is the deductibility of the interest expense that is the sole issue in these appeals.
+[3] A Statement of Agreed Facts was tendered by the parties and a copy of same is appended to these Reasons. It is not necessary for me to review these facts which are set out in considerable detail. All that is required of me is to acknowledge what the parties acknowledged at the commencement of the hearing. Both Holdings and the Appellant, whom I will simply refer to together as the Appellant, from inception of the loans and throughout the relevant period, consistently accounted for interest in respect of the aggregate of all loans on the cash basis for income tax purposes. For financial statement purposes however, it consistently accounted for such interest on the accrual basis. The tax consequences of using the cash method were more favourable to the Appellant.[1] The Minister took the position that the Appellant was required to deduct interest for tax purposes on an accrual basis.
+[4] The issue turns on the interpretation of paragraph 20(1)(c) of the Act which provides as follows:
+20. (1) Notwithstanding paragraphs 18(1)(a), (b) and (h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+...
+(c) an amount paid in the year or payable in respect of the year (depending on the method regularly followed by the taxpayer in computing his income), pursuant to a legal obligation to pay interest on ...
+In particular, the issue is whether this statutory language allows for a taxpayer to elect, for tax purposes, to consistently use one method (cash) while, for financial statement purposes, consistently using another method (accrual). The Respondent says "no", the Appellant says "yes".
+Summary of the Respondent's Argument
+[5] The Respondent's argument is that income for income tax purposes (profit under section 9) is determined in accordance with ordinary commercial business practices and that such determination is properly reflected in this case by the method regularly followed by the Appellant in its financial statements which reported interest expense on the accrual basis.
+[6] The Respondent has relied heavily on the decision in M.N.R. v. Terra Mining & Exploration Limited,[2] a decision of the Trial Division of the Federal Court, in which Madam Justice Reed interpreted the words "method regularly followed" not to be elective. She held that the subject provision provided an instruction for taxpayers who use the cash basis of accounting to deduct interest when paid; and, for taxpayers using the accrual method of accounting to deduct interest on an accrual basis. Following ordinary commercial practices and generally accepted accounting principles, Madam Justice Reed found that Terra Mining was required to compute income as per its financial statements on an accrual basis, notwithstanding that it had consistently used the cash basis for income tax purposes.
+[7] Applying Terra to the case at bar, the Minister has argued that since the Appellant has consistently prepared its financial statements on an accrual basis, interest deductions must be taken on an accrual basis as well. Respondent's counsel submits that there is no reason to depart from this precedent. Accordingly the appeals should be dismissed.
+Summary of the Appellant's Argument
+[8] The Appellant's principle argument is that the clear and unambiguous words of the subject provision allows taxpayers the choice between the paid and accrual methods for deducting interest expenses for tax purposes, so long as the taxpayer regularly follows that method. The Appellant had consistently chosen to use the "paid" method from its inception throughout the taxation years under appeal. There is no requirement in the provision for conformity between the method used to deduct interest for the purposes of the Act and the method used to deduct interest for financial statement purposes. According to the clear and unambiguous words of the provision, the appeals should therefore be granted.
+[9] The Appellant argues that the Respondent's position is inherently based on the improper application of an unexpressed legislative intention to require conformity between reporting income for tax purposes and computing income for financial statement purposes. Reading in such a requirement for conformity is contrary to mandated rules of statutory interpretation. The Appellant cited the Supreme Court of Canada decision in Shell Canada Limited v. The Queen[3], in which Madam Justice McLachlin (as she then was) stated: "Where the provision at issue is clear and unambiguous, its terms must simply be applied ... courts must therefore be cautious before finding within the clear provisions of the Act an unexpressed legislative intention." It was submitted that "simply applying" the words of the subject provision would permit taxpayers to choose their preferred method for deducting interest. No further enquiry into the meaning of the provision is necessary. The words speak for themselves and admit of no meaning other than permitting a choice of methods used in accounting for interest expenses, provided the method chosen is used consistently. Requiring conformity between reporting income for tax purposes and computing income for financial statement purposes would improperly invoke an unexpressed legislative intent.
+[10] The Appellant's argument then turned to the modern rule of statutory interpretation, as expressed by E.A. Driedger in Construction of Statutes, and accepted by the Supreme Court of Canada in Ludco Enterprsies Ltd. et. al. v. The Queen:[4]
+[36] The modern rule of statutory interpretation was put succinctly by E.A. Driedger in Construction of Statutes (2nd ed., 1983), at p. 87:
+Today there is only one principle or approach, namely, the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament ...
+[37] This passage from Driedger "best encapsulates" the preferred approach to statutory interpretation: Rizzo & Rizzo Shoes (Re), [1998] 1 S.C.R. 27, at paras. 21 and 23. This is the case for the interpretation of any statute, and it is noteworthy that Driedger's famous passage has been cited with approval by our Court on numerous occasions both in the non-tax and in the tax context.[5]
+[11] Reading the subject provision in the context and scheme of the Act, the Appellant argues, requires a finding that the deduction of interest cannot be governed by generally accepted accounting principles (GAAP), which must be applied for financial statement purposes.
+[12] The scheme of the Act for computing income begins with subsection 9(1) which defines income from a business or property to be the taxpayer's profit (a "net" income concept which includes income or revenue net of expenses incurred to earn such income). The Appellant argues that net income or profit under the Act requires netting only those expenses allowed under the Act (whether allowed under GAAP or not). Certain expenses are disallowed under the Act as seen in section 18 and more particularly in paragraph 18(1)(b) which disallows capital payments.[6] Section 20 overrides this paragraph and allows what the Act otherwise expressly prohibits, namely the deduction of interest as provided for in paragraph 20(1)(c). This structure underlines that the income being computed pursuant to these provisions is income determined "for the purposes of the Act". Computations "for the purposes of the Act" in respect of interest deductions are self-contained within the Act and must be carried out in accordance with those provisions - that is, without regard to GAAP. If interest deductions under the Act are not governed or dictated by GAAP, it would be improper to read in a requirement under paragraph 20(1)(c) that the method of expensing interest must be the same for tax purposes as for financial statement purposes. Such an interpretation of the language of the provision does not only not accord with the clear elective language of the provision but does not accord with the structure of the Act.
+[13] The Appellant put considerable emphasis in its written submission on its position that the subject provision, and in particular the preamble to section 20, must be read as referring only to a taxpayer's income "for tax purposes". That notion underlines the separation of income for tax purposes and income for financial statement purposes. Authority was cited in Ludco, where Mr. Justice Iaccobucci found at page 5515 that "'income' in s. 20(1)(c)(i) refers to income generally, that is an amount that would come into income for taxation purposes, not net income." Further support was given by a lengthy quotation from the decision of the Supreme Court in Canderel Limited v. The Queen, 98 DTC 6100. There Justice Iaccobucci made it clear that profit under section 9 was a concept that was assessed for income tax purposes - the determination of which was founded within the provisions of the Act. He found that GAAP was merely an "interpretive aid, and no more" for the calculation of profit:
+... in Symes, supra, at pp. 722-23, the majority made the following observations about the computation of profit:
+... the "profit" concept in s. 9(1) is inherently a net concept which presupposes business expense deductions. It is now generally accepted that it is s. 9(1) which authorizes the deduction of business expenses; the provisions of s. 18(1) are limiting provisions only. ...
+Thus, in a deductibility analysis, one's first recourse is to s. 9(1), a section which embodies, as the trial judge suggested, a form of "business test" for taxable profit.
+This is a test which has been variously phrased. As the trial judge rightly noted, the determination of profit under s. 9(1) is a question of law: Neonex International Ltd. v. The Queen. ... Perhaps for this reason, and as Neonex itself impliedly suggests, courts have been reluctant to posit a s. 9(1) test based upon "generally accepted accounting principles" (G.A.A.P.). ... Any reference to G.A.A.P. connotes a degree of control by professional accountants which is inconsistent with a legal test for "profit" under s. 9(1). ...
+The great difficulty which seems to have plagued the courts in the assessment of profit for income tax purposes bespeaks the need for as much clarity as possible in formulating a legal test therefor. The starting proposition, of course, must be that the determination of profit under s. 9(1) is a question of law, not of fact. Its legal determinants are two in number: first, any express provision of the Income Tax Act which dictates some specific treatment to be given to particular types of expenditures or receipts, including the general limitation expressed in s. 18(1)(a), and second, established rules of law resulting from judicial interpretation over the years of these various provisions.
+Beyond these parameters, any further tools of analysis which may provide assistance in reaching a determination of profit are just that: interpretive aids, and no more. Into this category fall the "well-accepted principles of business (or accounting) practice" which were mentioned in Symes, also referred to as "ordinary commercial principles" or "well-accepted principles of commercial trading", among other terms. A formal codification of these principles is to be found in the "generally accepted accounting principles" ("G.A.A.P.") developed by the accounting profession for use in the preparation of financial statements. These principles are accepted by the accounting profession as yielding accurate financial information about the subject of the statements, and become "generally accepted" either by actually being followed in a number of cases, by finding support in pronouncements of professional bodies, by finding support in the writings of academics and others, or by more than one of these methods: see Peter W. Hogg and Joanne E. Magee, Principles of Canadian Income Tax Law (2nd ed. 1997), at pp. 180-81. What must be remembered, however, is that these are non-legal tools and as such are external to the legal determination of profit, whereas the provisions of the Act and other established rules of law form its very foundation.
+Relying on this passage, the Appellant argues that the determination of income must similarly defer to the provisions of the Act and that the Judge in Terra erred in finding that the subject provision required compliance with GAAP.
+[14] The Appellant examined over a dozen paragraphs of subsection 20(1) each of which referred, in one manner or another, to "computing income", which could only be meant as references to "income for tax purposes". For example, paragraph 20(1)(p), which allows for a bad debt which has been included in income, must mean "income for tax purposes" since a deduction could not be permitted if the bad debt amount had been included under GAAP but not under the Act for tax purposes.
+[15] As well, the Appellant argued that the Respondent's construction of the subject provision leaves the provision without meaning where an individual borrows money and does not, and is not required to, have financial statements. Would this construction of the Act then impose GAAP only for corporations? Further, if GAAP were meant to apply then why not expressly refer to it as done, for example, in other paragraphs of subsection 20(1)?[7]
+[16] The Appellant relied on two cases in their submissions, Plawiuk v. The Queen[8] and Dansereau v. The Queen[9]. In Plawiuk, the taxpayer took a loan in order to acquire shares and then deducted the accrued interest on the loan. Upon redemption of those shares several years later, the taxpayer repaid the loan and the outstanding interest. The Minister disallowed the loan, insisting that the taxpayer instead deduct interest using the paid method. In allowing the appeal, Justice Sobier noted "the plain language in paragraph 20(1)(c) which allows the taxpayer to choose a method so long as he uses that method regularly". The taxpayer chose the accrual method, regularly used that method in computing income and, accordingly, was allowed to claim a deduction against income for interest accrued on money borrowed to acquire the shares.
+[17] In Dansereau, a decision of Justice Beaubier under the informal procedure, Plawiuk was cited favourably as authority to allow a taxpayer the choice of using the paid or accrual method for deducting interest. The plain language of the section was found to provide a taxpayer the choice between the methods of accounting, so long as the taxpayer used it regularly. Notwithstanding this favourable finding, Mr. Dansereau sought judicial review on another aspect of the decision which was decided against him. In their review, the Federal Court of Appeal[10] did not examine the interpretation of the subject provision, or the ability of taxpayers to choose their preferred method for claiming a deduction against income for interest expenses. The Appellant submits that the silence on the issue suggests the Federal Court of Appeal's acceptance of the reasoning of the trial judge.
+[18] Finally, the Appellant attempted to dismiss the Terra decision as no longer being valid. It was argued that Justice Reed based her interpretation on the view that the scheme of the Act requires conformity with GAAP; thereby reading into the subject provision a requirement that deductions under paragraph 20(1)(c) must be made in accordance with GAAP. It was submitted that this view was inconsistent with the later findings of the Supreme Court. Following Shell, it was argued that it would be improper for a Court to find an unexpressed legislative intention for conformity with GAAP when the words in the legislation are clear and unambiguous. Further, it was argued that following Canderel, prescribing the use of GAAP as merely an interpretive aid, eliminated any reason to interpret any provision of the Act as requiring conformity with GAAP, unless explicitly stated.
+Analysis
+[19] As St-Onge T.C.J. said in the Terra case when it was before him:[11]
+... The Court is impressed by the argument of counsel for the appellant. ...
+Since the appellant regularly computed its interest expense for tax purposes on a cash basis and since there is no Section in the Act to allow the Minister to change this "method regularly followed" by the appellant to compute its income, the Court does not see why this method should be disturbed by the Minister.
+[20] While I am loathe to cast aside a precedent as long-standing as the Federal Court, Trial Division's decision in Terra,[12] it is necessary to consider the issue at hand now, some 20 years later, in the light of more recent jurisprudence. While I would not advocate reconstructing the meaning of a statutory provision as and when the judicial thinking of the day changes, in this case, the express language of the Act was not, in my view, given effect in Terra. As well, neither the basis of that decision nor the premises upon which it was founded accord with the scheme of the Act. In such circumstances, it is appropriate to apply the provisions of the Act as they read in light of current jurisprudence.
+[21] The first step is to consider the Terra decision in light of the express language of the Act. Whether an amount is deductible in a year by a taxpayer on the cash or accrual basis depends on "the method regularly followed by the taxpayer in computing his income". The analysis in Terra found that the literal meaning of these words required compliance with generally accepted accounting principles where, as in that case (and in the case at bar), there was no doubt that such principles would dictate that the interest expenses be accounted for on the accrual basis. This presumes GAAP is "the" method of determining income for all purposes including tax purposes or, at least, this puts inordinate emphasis on the relevance of a methodology such as GAAP as being "the" measure of income for tax purposes. If you cannot say that GAAP, as a complete methodology for calculating income, is "the" method regularly followed in computing income under the Act, then how can you say that GAAP is the methodology that is being referred to in paragraph 20(1)(c)? Only then could it be said that the subject words require compliance with GAAP. In my view this would contort the plain meaning of the words of the subject provision. The only requirement to be taken from the plain meaning of the words of the provision is that interest be accounted for on a consistent basis: either cash or accrual. This is a requirement for consistency in the manner of dealing with interest expenses for the purposes of the Act. Further, interest deductions allowed under GAAP in determining income are disallowed under the Act by paragraph 18(1)(b). The Act only allows for an interest deduction under section 20 which is to divorce the computation of interest from GAAP.
+[22] As well I note that in Terra, the case of Industrial Mortgage[13] was distinguished on the basis that in that case there was a valid commercial reason founded in ordinary commercial practice and generally accepted accounting principles for allowing the reporting methodology used and that no such reason or justification existed in Terra. This appears to be a business purpose test - a test that has since been found to have no application in the construction of the Act in the absence of express anti-avoidance language.[14] While this case deals with the avoidance of a deduction restriction found in subsection 18(4), paragraph 20(1)(c) cannot be said to be an express anti-avoidance provision in this context.
+[23] For these reasons, and adopting the Appellant's arguments as persuasive, the appeals are allowed with costs.
+Signed at Ottawa, Canada, this 8th day of February 2006.
+"J.E. Hershfield"
+Hershfield J.
+CITATION:
+2006TCC47
+COURT FILE NO.:
+2002-4796((IT)G
+STYLE OF CAUSE:
+Crown Forest Industries Limited
+in Respect of Fletcher Challenge Holdings (Canada) Ltd. and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 21, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+February 8, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Neil H. Harris, Glenn Ernst
+Counsel for the Respondent:
+Margaret Clare
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Neil H. Harris, David R. Poore
+Firm:
+Goodmans, Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+CITATION:
+2006TCC47
+COURT FILE NO.:
+2003-364(IT)G
+STYLE OF CAUSE:
+Crown Forest Industries Limited and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 21, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+February 8, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Neil H. Harris, David R. Poore
+Counsel for the Respondent:
+Margaret Clare
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Neil H. Harris, Glenn Ernst
+Firm:
+Goodmans, Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+Appendix A
+STATEMENT OF AGREED FACTS
+For the purposes of the hearing of these appeals only, the Appellant and the Respondent agree to the following facts and the documents contained in the Joint Book of Documents may be admitted without formal proof thereof. Unless otherwise indicted, (sic) all dollar values stated herein are in Canadian dollars.
+1. The Appellant's address is 16th Floor, 250 Howe Street, Vancouver, British Columbia, V6C 3R8.
+2. The Appellant is appealing from determinations/redeterminations of losses issued by the Minister of National Revenue (the "Minister") in respect of the taxation years of Fletcher Challenge Holdings (Canada) Ltd. ("Holdings") ended June 30, 1983, 1984, 1985, 1986 and June 9, 1987 (collectively, the "Taxation Years"). With respect to the 1983, 1984, 1986 and 1987 Taxation Years of Holdings, the appeal is from Notices of Determination of Loss dated June 25, 1995. With respect to the 1985 Taxation Year of Holdings, the original Notice of Determination was dated June 25, 1995 but the Minister issued a Notice of Redetermination of Loss dated November 21, 2002.
+3. The Appellant is also appealing from a reassessment by the Minister with respect to the Appellant's taxation year ended October 31, 1988 (the "1988 Taxation Year"), notice of which reassessment was dated October 31, 2002 (the "Second 1988 Reassessment").
+4. Holdings was a corporation incorporated under the laws of British Columbia on December 13, 1982 for the sole purpose of purchasing Ordinary Shares and Class A Shares (collectively the "Shares") of Crown Zellerbach Canada Limited (now, Crown Forest Industries Limited, the Appellant) from an arm's length vendor.
+5. All of the common shares of Holdings were owned by Fletcher Challenge Investments (Canada) Limited ("Investments Canada"), a corporation incorporated under the laws of British Columbia. Investments Canada was an indirect wholly-owned subsidiary of Fletcher Challenge Limited ("FCL").
+6. FCL was a large public New Zealand corporation which carried on resources-based businesses throughout the Pacific Rim.
+7. Bardon Investments B.V. ("Bardon"), a Netherlands corporation, was also an indirect wholly-owned subsidiary of FCL and operated as the international finance entity for the FCL world-wide group of corporations.
+8. In 1983, the Appellant was a public British Columbia corporation which operated mills in British Columbia producing pulp, newsprint and uncoated ground wood papers.
+9. On March 30, 1983, Holdings completed its purchase of 83.7% of the outstanding Shares of the Appellant from Crown Zellerbach International Inc., a Delaware corporation (the "Vendor"). On July 13, 1983, Holdings purchased an additional 12.3% of the outstanding Shares of the Appellant on the open market. Accordingly, as at July 13, 1983, Holdings owned 96% of the outstanding Shares of the Appellant.
+10. The aggregate purchase price of the Shares purchased by Holdings from the Vendor on March 30, 1983 was US$229,343,770 (approximately $282,000,000). The purchase price was paid and satisfied by a cash payment of US$154,343,770 ($183,826,081) and by the issuance of a promissory note to the Vendor in the amount of US$75,000,000, with a 5-year term and interest payable semi-annually in arrears at a rate of 14% per annum (the "Note").
+11. In order to fund part of the cash portion of the purchase price for the Shares, Holdings borrowed the amount of $128,585,058 from Bardon (the "Bardon Loan"). The Bardon Loan bore interest at a rate of 12.5% per annum and was repayable on demand.
+12. The Bardon Loan increased during the 1984 to 1986 Taxation Years of Holdings and was repaid in the 1987 Taxation Year of Holdings. The primary cause of the increase in the Bardon Loan was the borrowing of an additional US$75,000,000 in the 1984 Taxation Year of Holdings which was used to repay the Note on August 15, 1985.
+13. Bardon was a "specified non-resident shareholder" with respect to Holdings and the Bardon Loan was an "outstanding debt to a specified non-resident" as defined in subsection 18(5) of the Income Tax Act (Canada) the "Act").
+14. In computing its income for the Taxation Years, Holdings included:
+(a) Stock Dividends:
+36,637 Class A Shares of the Appellant received in December, 1985
+Holdings also received stock dividends from the Appellant in December, 1984 in the amount of 590,442 Ordinary Shares and 86,715 Class A Shares; but such dividends were not required by the Act (as then drafted) to be included in its income.
+(b) Interest:
+TAXATION YEAR
+AMOUNT
+1983
+$138,194
+1984
+$3,731,779
+1985
+$15,278,295
+1986
+$1,859,921
+1987
+$76,368
+(c) Foreign Exchange Gains:
+TAXATION YEAR
+AMOUNT
+1983
+$694,835
+1987
+$11,017,033
+15. In computing its income in respect of each of the Taxation Years, Holdings consistently deducted all interest expense resulting from the Bardon Loan and the interest expense resulting from third-party borrowings (collectively, the "Aggregate Indebtedness") in the Taxation Year in which such interest was paid.
+16. The amount of interest expense paid by Holdings and deducted by Holdings in computing its income for each of the Taxation Years was:
+TAXATION YEAR
+INTEREST DEDUCTED
+1983
+Nil
+1984
+$6,888,206
+1985
+$10,097,768
+1986
+$12,006,044
+1987
+$41,188,080
+17. The financial statements (the "Financial Statements") of Holdings for all of its fiscal periods, June 30, 1983, 1984, 1985, 1986 and June 9, 1987 (collectively, the "Fiscal Periods") were prepared using the accrual basis of accounting.
+18. The amount of the accrued interest in respect of the Aggregate Indebtedness deducted by the Holdings in computing its income for its 1983 Fiscal Period was $6,888,206 of which accrued interest in the amount of $3,666,544 related to the Bardon Loan.
+19. Holdings determined that it had incurred a non-capital loss in each of the Taxation Years, other than the 1983 Taxation Year. The amount of the non-capital loss determined by Holdings for each of the Taxation Years was:
+TAXATION YEAR
+NON-CAPITAL LOSS
+1983
+Nil
+1984
+$24,806,294
+1985
+$28,642,130
+1986
+$3,518,194
+1987
+$71,513,021
+Total
+$128,479,639
+20. Holdings carried back and deducted in computing its taxable income for its 1983 Taxation Year a non-capital loss of $337,176 from its 1984 Taxation Year.
+21. On June 9, 1987, after an internal reorganization involving the Appellant and Holdings, the shares of Holdings were transferred to the Appellant and, subsequently, Holdings was wound up into the Appellant.
+22. As a result of the winding up of Holdings into the Appellant, pursuant to subsection 88(1.1) of the Act the non-capital losses of Holdings were deemed to be the non-capital losses of the Appellant.
+23. On June 25, 1995, pursuant to the request of Holdings in accordance with subsection 152(1.1) of the Act, the Minister issued Notices of Determination of Loss in respect of each of the 1983 to 1987 Taxation Years of Holdings (the "Determinations").
+24. In issuing the Determinations, the Minister took the position that, for the purposes of computing Holdings' income in each of the Taxation Years, Holdings was required to deduct interest expenses in respect of the Aggregate Indebtedness on an accrual basis rather than a cash basis. Accordingly, the Minister adjusted the taxable income or non-capital losses reported by Holdings in the Taxation Years by computing Holdings' interest expense deductions on an accrual basis. The Minister permitted the deduction of the amount of interest expense that accrued on the Aggregate Indebtedness in each of the Taxation Years and disallowed the deduction of interest expense actually paid by Holdings on the Aggregate Indebtedness in each of the Taxation Years.
+25. The Minister also took the position that the interest expense in the amount of $3,666,544 that accrued on the Bardon Loan in the 1983 Taxation Year of Holdings was not deductible by Holdings in computing its income for that taxation year pursuant to subsection 18(4) of the Act. Accordingly, in computing the income of Holdings for the 1983 Taxation Year, the Minister disallowed, pursuant to subsection 18(4) of the Act, the deduction of $3,666,544 of the aggregate interest expense in the amount of $6,888,206 that accrued on the Aggregate Indebtedness in that Taxation Year.
+26. The Minister did not disallow any deduction of interest expense pursuant to subsection 18(4) of the Act, other than in respect of the 1983 Taxation Year of Holdings.
+27. The amount of interest expense deducted by Holdings in computing its income and the amount of the interest expense deductions permitted by the Minister in each of the Taxation Year are summarized in the following chart:
+Taxation
+Year
+Interest Deducted By
+Holdings
+Interest Deductions
+Permitted By The Minister
+1983
+-
+$3,221,662
+1984
+$6,888,206
+$10,097,768
+1985
+$10,097,768
+$12,006,044
+1986
+$12,006,044
+$41,188,080
+1987
+$41,188,080
+-
+28. Consequently, as a result of deducting interest expense on an accrual basis and disallowing a portion of the interest expense payable on the Aggregate Indebtedness in respect of the 1983 Taxation Year, the Minister determined the non-capital losses of Holdings to be:
+TAXATION YEAR
+NON-CAPITAL LOSS
+1983
+$2,884,486
+1984
+$28,015,856
+1985
+$30,490,494
+1986
+$32,700,230
+1987
+$30,324,941
+Total
+$124,416,007
+29. Holdings objected to the Determinations by Notices of Objection dated December 21, 1995.
+30. The Minister confirmed the Determinations for each of the Taxation Years of Holdings, other than the 1985 Taxation Year, by Notices of Confirmation dated September 18, 2002 (the "Confirmations").
+31. With respect to 1985 Taxation Year of Holdings, the Minister issued a Redetermination of Loss (the "Redetermination") on November 21, 2002. In issuing the Redetermination, the Minister increased the amount of Holdings' non-capital loss for its 1985 Taxation Year by $59,912 to the amount of $30,550,406 in respect of a matter unrelated to the issues in this appeal.
+32. As a result of the Determinations and the Redetermination, the Minister determined that the aggregate non-capital losses of Holdings for the Taxation Years was $124,475,919.
+33. The Appellant, as successor to Holdings, appealed the Determinations and the Redetermination by Notice of Appeal filed with this Honourable Court on December 13, 2002 (Court file number 2002-4796(IT)G).
+34. In computing its taxable income for its 1988 Taxation Year, the Appellant deducted non-capital losses in the amount of $127,780,627. The Minister reassessed the Appellant in respect of its 1988 Taxation Year by issuing the Second 1988 Reassessment and reduced the amount of its non-capital losses as a result of the redetermination of the non-capital losses of Holdings as set out above.
+35. The Appellant appealed the Second 1988 Reassessment by Notice of Appeal filed with this Honourable Court on January 28, 2003 (Court File Number 2003-364(IT)G).
+36. The Appellant and Respondent agree that the result of the appeals by the Appellant in respect of its 1984 to 1988 Taxation Years should be governed by the decision of this Honourable Court in respect of the appeal by the Appellant in respect of its 1983 Taxation Year.
+[1] The benefit to the Appellant of the cash method of accounting derives largely from the avoidance of subsection 18(4) of theAct in 1983 in respect of the loan from the related Netherlands company. By expensing interest when first paid in 1984, this provision was avoided. If, as determined by the Minister, interest was calculated on the accrual basis in 1983, $3,666,544.00 in accrued 1983 interest would be permanently disallowed under this provision which restricts interest deductions in the case of thinly capitalized resident Canadian corporations that have borrowed money from a specified non-resident. That is, by electing to expense interest for income tax purposes on the cash basis, a deduction for interest, which accrued in respect of the 1983 year when the thin cap rule applied, was claimed in 1984 when the interest was paid and the thin cap rule did not apply. The method chosen, if allowed to stand, would thus permit an interest deduction of $3,666,544.00 that would otherwise be disallowed.
+[2] 84 DTC 6185.
+[3] 1999 DTC 5669 (S.C.C.) at 5676.
+[4] 2001 DTC 5505 (S.C.C.).
+[5] The Appellant's written submission cites nine other S.C.C. authorities citing this passage with approval. See Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536 at p. 578; Symes v. Canada, [1993] 4 S.C.R. 695 at 744, 806; Canada v. Antosko, [1994] 2 S.C.R. 312 at p. 326; Québec (Communauté urbaine) v. Corp. Notre-Dame de Bon-Secours, [1994] 3 S.C.R. 3 at p. 7; Friesen v. Canada, [1995] 3 S.C.R. 103 at para. 10; Schwartz v. Canada, [1996] 1 S.C.R. 254 at para. 56; Alberta (Treasury Branches) v. M.N.R., [1996] 1 S.C.R. 609; Toronto-Dominion Bank v. M.N.R., [1996] 1 S.C.R. 963 at para 14; 65302 British Columbia Ltd. v. Canada, [1993] 3 S.C.R. 804 at para. 5; and Will-Kare Paving & Contracting Ltd. v. Canada, [2001] 1 S.C.R. 915 at para. 32.
+[6] It is well established that interest is treated for tax purposes as paid on capital account and thereby, pursuant to paragraph 18(1)(b), not deductible under the Act except as permitted under paragraph 20(1)(c). See Gifford v. The Queen, [2004] 1 S.C.R. 411; Shell Canadav. The Queen, [1996] 1 S.C.R. 305 and Tennant v. The Queen, [1999] 3 S.C.R. 622.
+[7] The Appellant's written submission included an appendix of provisions in the Act that expressly referred to "generally accepted accounting principles"; for example subparagraph 13(27)(f)(iii), subclause 20(1)(l)(ii)(D)(II), subparagraph 20(1)(l.l)(ii), subsections 20(30), 20.2(1) "branch financial statements", subsection 44.1(1) "carrying value", paragraph 61.3(1)(b), paragraph 149(12)(b), subparagraph 181(3)(b)(i) and subsection 204.8(1) "eligible investment".
+[8] 94 DTC 1050.
+[9] 2000 DTC 1559.
+[10] 2001 DTC 5642.
+[11] 83 DTC 499.
+[12] While this is a long-standing precedent often thought of as a guiding principle in the application of paragraph 20(1)(c), see Arnold & Edgar, "Deductibility of Interest Expense" (1995) 43 C.T.J. 1216; it has not been applied in any cases cited by the parties. Indeed I have found reference to Terra in only two cases, neither of which are directly on point. Freeway Properties v. M.N.R., 85 DTC 5183 and 170635 CanadaLtée. v. M.N.R., 93 DTC 1129. Further, these cases all pre-date recent Supreme Court decisions such as Ludco that clearly put less reliance on GAAP than was the case in Terra.
+[13] Industrial Mortgage and Trust Company v. M.N.R., 58 DTC 1060 (Ex. Ct.).
+[14] Canada Trustco Mortgage Co. v. Canada, 2005 S.C.C. 54; Shell Canada v. Canada, [1999] 3 S.C.R. 622; Commissioners of Inland Revenue v. Duke of Westminster, [1936] A.C. 1 (H.L.).

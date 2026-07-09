@@ -1,0 +1,255 @@
+---
+title: "Les Consultants C.L.I.C. Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26368/index.do"
+last_modified: "2004-01-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 54"
+citation2: ""
+neutral_citation: "2004 TCC 54"
+decision_date: "2004-01-14"
+language: "en"
+item_id: "26368"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3381
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:54:57.342000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d0ca176cd04af2d40d5b497fdcb44bc280839ca00c05cf8a25276266e77d1e47"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Les Consultants C.L.I.C. Inc. c. M.R.N.
+
+- Citation: 2004 TCC 54
+- Decision date: 2004-01-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3381, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Les Consultants C.L.I.C. Inc. c. M.R.N.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-14
+Neutral citation
+2004 TCC 54
+File numbers
+2002-1538(EI), 2003-2338(EI)
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Dockets: 2002-1538(EI) and 2003-2338(EI)
+BETWEEN:
+LES CONSULTANTS CLIC INC.
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+Johanne Lelièvre,
+Intervener.
+____________________________________________________________________
+Appeals heard on common evidence with the appeal of Le Réseau CLIC Inc. (2003-2336(EI)) on October 8, 2003, at Sherbrooke, Quebec
+Before: The Honourable Judge Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Charles Ouellet
+assisted by Richard Généreux
+Counsel for the Respondent:
+Alain Gareau
+For the Intervener:
+The Intervener herself
+____________________________________________________________________
+JUDGMENT
+The appeals under sub-section 103(1) of the Employment Insurance Act regarding the decisions of the Minister of National Revenue dated January 25, 2002, and March 27, 2003, are allowed and the assessments are vacated, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of January, 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Certified true translation
+Colette Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2003-2336(EI)
+BETWEEN:
+LE RÉSEAU CLIC INC.
+Appellant,
+And
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Les Consultants CLIC Inc. (2002-1538(EI) and 2003-2338(EI)) on October 8, 2003 at Sherbrooke, Quebec
+Before: The Honourable Judge Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Charles Ouellet
+assisted by Richard Généreux
+Counsel for the Respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeal under sub-section 103(1) of the Employment Insurance Act regarding the decision of the Minister of National Revenue dated March 27, 2003 is allowed and the assessment is vacated, except with respect to Alain Gamache, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of January, 2004.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Certified true translation
+Colette Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2004TCC54
+Date: 20040114
+Dockets: 2002-1538(EI)
+2003-2338(EI)
+BETWEEN:
+LES CONSULTANTS CLIC INC.
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JOHANNE LELIÈVRE,
+Intervener.
+Docket: 2003-2336(EI)
+BETWEEN:
+LE RÉSEAU CLIC INC.
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+The Honourable Judge Lamarre Proulx,
+[1] These appeals were heard on common evidence. The appeal numbered 2002-1538(EI) concerns the decision of the Minister of National Revenue (the "Minister") dated January 25, 2002. The worker in question is Ms. Cara Webb, the period at issue is from January 1, 2000 to July 26, 2001, and the appellant party is Les Consultants CLIC Inc.
+[2] With regard to the docket bearing the number 2003-2336(EI), the appellant is Le Réseau CLIC Inc. and the decision of the Minister is dated March 27, 2003. It concerns the employment insurance assessment dated July 4, 2002, in respect of the workers whose names are shown in the annex to the Reply to the Notice of Appeal (the "Reply"). The years at issue are 2000 to 2002.
+[3] The appeal numbered 2003-2338(EI) concerns Les Consultants CLIC Inc. and the decision of the Minister is dated March 27, 2003. It concerns the employment insurance assessment in respect of workers for the years 2000 to 2002 the list of whom is attached to the Reply. This list of workers includes Ms. Johanne Lelièvre, who is an intervener in this appeal.
+[4] Hereinafter, the appellant parties will be collectively called the appellants. In the course of the hearing, the witnesses will frequently refer to the appellants using the term CLIC.
+[5] Counsel for the appellants informed the Court that in docket 2003-2336(EI), on the list attached to the Reply, the name of Mr. Alain Gamache appears. The insurability of the employment of this person is no longer questioned by the appellants.
+[6] Counsel also explained that all the persons concerned by the assessments are teachers in the Montreal region or in other regions where there are no CLIC schools. The Head Office of the appellants is in Sherbrooke.
+[7] The intervener, Ms. Johanne Lelièvre, was the first to testify. She is now working as a financial consultant.
+[8] In 2001, the intervener was a teacher for one of the appellants. She said that she had answered an advertisement in the newspaper looking for English teachers. She received one day of training and evaluation and was subsequently informed that she met the evaluation criteria. A few weeks later, the appellant contacted her and offered her a job in the Boucherville region. The intervener telephoned the client and they agreed on the hours and days. She gave approximately 80 hours of lessons.
+[9] She explained that the remuneration was based on the number of hours spent with the students. In each contract, there was a set number of hours. It was up to her to define with the client the frequency with which she was to meet with him. This client was the client of CLIC.
+[10] Initially, she did not ask for payment for her car expenses. She subsequently asked for $10 per client per week.
+[11] She was responsible for assessing the students' level of knowledge. She was supposed to create the course content based on her own evaluation. CLIC provided the textbooks, but these required a great deal of modification. Once the session was over, she would evaluate the level that the students had attained and inform CLIC.
+[12] She used three methods. The book provided by the appellant for some exercises, together with the pictures and videos she had assembled. She prepared her presentations in her home office. At no time did CLIC ask to see the lesson plan, or to check or approve it. At no time was she supervised in her classroom by anyone from CLIC.
+[13] She did, however, have instructions or guidelines provided by the appellant. The appellant normally conducted the first interview with the client, discussed with them about what they wanted and informed the intervener accordingly.
+[14] The service agreement between the intervener and Les Consultants CLIC will be found at Tab 7 of exhibit A-1. The fee was $16 an hour. She did not bill GST or TVQ, although she was registered for them, because she had been told that she could wait until she was making $30,000 a year before billing the tax.
+[15] She was able to turn down contracts. She was not entitled to have another teacher replace her without permission from CLIC.
+[16] She was working at the same time for other companies as a consultant in a variety of fields.
+[17] The appellants' first witness was Ms. Mignon-Martel, who is a secondary and elementary school English teacher in Baie Trinité in Godbout. She has been teaching English for 40 years.
+[18] One of her friends gave her name to CLIC, which needed English teachers in Baie Comeau. The appellant has no office in Baie Comeau. The appellant assigned her a government employee who wanted to obtain his bilingual status. CLIC sent books to her, including the student's book and the teacher's book, and told her that she was to start teaching on Monday morning.
+[19] The first day, the lesson was given at her home because she had no office. Subsequently, the lessons were given at the Fisheries Canada office in Baie Comeau.
+[20] She received no training from CLIC. She only very rarely used their books. She designed a course for her student using her computer and audio cassettes. She was not paid for lesson preparation. No one from CLIC visited her lessons.
+[21] She was paid $15 an hour. The bills showed the hours of work and the students signed them. She sent her bill by fax every two weeks.
+[22] When cross-questioned, she admitted that one person had come to administer a test to a student during the contract. That was the only time that she had seen anyone from CLIC.
+[23] She regarded herself as self-employed. She was the one who decided what she would teach. She taught 37.5 hours a week for 10 weeks, 375 hours, and she taught 16 hours to another person. That year, she did all her teaching for CLIC, but the following year it was 21 hours for three days.
+[24] The next witness was Mr. Brian Colwell. He has a Master's degree in French Language and Literature and an education diploma in teaching French as a second language. He has been working for CLIC for almost four years. It will be four years in February 2004.
+[25] There is no guaranteed number of contracts. The courses are given in companies where the students are working. He also uses CLIC manuals as the basic material, but these books need enrichment. He also has his own computer. No one has ever visited his courses to check on his work. He was the one who decided in what way, when and how he would use the material.
+[26] At the start, there was an initial schedule, but changes could occur depending on the students' constraints. The billing was done in the same way as described previously.
+[27] In response to a question from the Court as to whether he had other occupations in addition to those of teaching for CLIC, he replied that for almost 13 months he had been doing some French to English translation in the evenings and on weekends. Apart from that, he was kept fully occupied by CLIC. He was available to give lessons from 7.30 am to 6 pm. He could work between four hours one day and eight hours another.
+[28] When he was sent his schedule, CLIC checked on his availability in advance. He had no business card identifying himself as a language teacher. He did not attempt to recruit customers, neither did he attempt to do so for his translation activities, although the work came to him.
+[29] The next witness was Mr. Martin Chênevert, a French teacher. He has a masters degree in French literature with a specialization in linguistics. He explained that he had had a contract with the appellant to teach French. He put his program together on his computer. These programs differed depending on the students' work environment.
+[30] The description of his working conditions was essentially similar to that of the previous witnesses. He received no training from CLIC. He regarded himself as an self-employed worker. He had no company name in 2001.
+[31] Ms. Michèle Leduc is Vice President, Credit, National Bank. She has been employed in this position since 1989. Her employer encouraged her to take English language training. The company that her employer selected was CLIC. In Jonquière and Sherbrooke, the students take their lessons in the CLIC premises. In Montreal, the lessons are given in the students' offices. In Sherbrooke, the lessons closely follow the CLIC books.
+[32] On several occasions, either Ms. Morrissette or Ms. Charpentier came on courtesy or inspection visits while she was taking the lessons. This never happened in Montreal. In Montreal, the CLIC book was used as an aid.
+[33] Ms. Line Charpentier is the President of the appellant companies. She began by describing the history of the appellants' activities in the metropolitan Montreal region. Until 1987, the appellants had premises on Maisonneuve Boulevard West. This was a fine school with an educational director, but the classes were not given on the school premises. The clients would ask to have their lessons on their own premises. The rental cost was very high, $75,000 for rent and $25,000 in business taxes. This school closed in 1987, but the business continued teaching with employees.
+[34] However, according to her, it was not possible to check on employees in premises which were not their own.
+[35] She explained that CLIC operated either with franchises, or with its own schools or on contract. There are franchises in Hull, Saint-Jean-sur-le-Richelieu, Granby, Trois-Rivières, Drummondville, Rimouski and Rivière-du-Loup. These are all locations where the teachers are treated as salaried employees.
+[36] The survival of the company required a different structure, namely as consultants, self-employed workers. The employees are paid by the hour, they are assigned classes, they receive initial and ongoing training. They are recruited and trained and their performance is validated through meetings with the clients.
+[37] The appellant began using the agreement produced at Tab 7 of exhibit A-1 beginning in 1999. She recruited her teachers from Montreal universities.
+[38] The document that was prepared by Ms. Cara Webb will be found at Tab 1 of exhibit A-1. This was sent by fax to Ms. Charpentier. She wanted to sell this document, to which she had retained the rights. She was teaching in Montreal. It was a document that was intended for teachers in Montreal. Its aim was to explain how self-employed workers should organize themselves. She had not bought the document because the Montreal consultants knew how to organize themselves. During the first interview with them, everything they needed to do was explained to them, and it was not necessary to purchase the document.
+[39] Ms. Charpentier told how she had lost 81 out of 91 consultants when their status had been changed from self-employed to employee. There was a natural turnover of approximately 25 to 30% per year, but 81 out of 91 had seriously jeopardized the Montreal business.
+[40] The Montreal consultants would notify the company of their availability and the company would give them contracts. These people came first to Sherbrooke for the interviews. Their skills had to be validated, together with their knowledge of the language and their ability to write. She taught all modern languages, German, Russian, Spanish, Portuguese and Japanese. Each teacher put together their own program. Material was available especially for English, but also for French and a little for Spanish, but there was nothing for the other languages.
+[41] A decision dated October 15, 2001, will be found at Tab 10. It concerns a CLIC consultant in whose case the Minister decided that this was not insurable employment.
+Arguments
+[42] Counsel for the appellants stated that no control was exercised over the consultants in Montreal, in contrast to what happened in Sherbrooke.
+[43] He referred to the Operations Manual (Tab 9), which states that beginning teachers will be assisted by a senior teacher. He stated that these procedures are implemented in the schools owned by the appellants or in those of franchise operators. This is not the case in Montreal. While the teachers in Montreal can use the appellant's material, they normally use their own. The teachers are responsible for their own transportation costs. They sometimes ask the appellant for a contribution towards these travel costs. This does not prevent the teachers from being responsible for their travel costs. If teachers do not give their lessons, they are not paid. The student is the one who evaluates the teacher.
+[44] Counsel for the appellants referred to the decision of the Federal Court of Appeal in Charbonneau v. Canada (Minister of National Revenue), [1996] F.C.J. No. 1337 (Q.L.), and specifically at paragraph 10:
+Supervising the work every two days and measuring the volume every 15 days does not in this case create a subordinate relationship and is entirely compatible with the requirements of a contract for services. It is a rare contractor who does not check that the work is performed in accordance with their requirements and at the agreed locations. Controlling the results must not be confused with controlling the worker.
+[45] He also refers to the decision of the Federal Court of Appeal in Vulcain Alarme Inc. v. Canada (Minister of National Revenue), [1999] F.C.J. No. 749 (Q.L.) and specifically at paragraphs 4, 5 and 7:
+4 In our opinion, all these points of fact are also consistent with a contract of enterprise. A contractor who, for example, works on site on a sub-contract does not serve his customers but those of the payer. That is the general contractor who has retained his services. The fact that Mr. Blouin had to report to the plaintiff's premises once a month to get his service sheets and so to learn the list of customers requiring service, and consequently the places where his services would be provided, does not make him an employee. A contractor performing work for a business has to know the places where services are required and their frequency just as an employee does under a contract of employment. Priority and performance of the work required of a worker is not the apanage of a contract of employment. Contractors or sub-contractors are also often approached by various influential customers who force them to set priorities in providing their services or to comply with the customers' requirements.
+5 As regards remuneration and the billing system, it is worth repeating the comments of my brother Hugessen, J.A. in Canada (Attorney General) v. Rousselle et al. [(1990) 124 N.R. 339 page 344.] where he concluded that the Judge had clearly not understood the meaning of the word "control":
+Fixing the amount of remuneration or defining the purpose of the exercise is not controlling work. These aspects exist in a contract for services as much as in a contract of service. It is still more the case that control does not lie in the act of payment, whether by cheque or otherwise.
+...
+7 In the case at bar the evidence did not disclose that the plaintiff controlled Mr. Blouin by giving orders and instructions in the way his work was to be done. On the contrary, the latter was complete master of the way in which he provided his services, except that they had to be done within 30 days. No one imposed any control on him or exercised any supervision over his provision of the services, and Mr. Blouin set his own schedule. We will also return to this concept of control in the following analysis of the concept of ownership of tools.
+[46] Counsel asserted that the situation was the same with regard to the Montreal teachers. The teachers retained control of the way in which they provided their services. He also asserted that, if one looked at the list of teachers who had been declared employees by the Minister, one could see in the case of several teachers that the amounts over the course of a year were small indeed. This shows that it was the teachers who determined the use of their time.
+[47] The intervener referred to Le Collège d'Extension Cartier Ltée v. Canada (Minister of National Revenue - M.N.R.), [2003] T.C.J. No. 71 (Q.L.). In this case, the workers recruited to give the training sessions were considered by a Deputy Tax Court Judge as self-employed workers and not employees.
+[48] Counsel for the respondent referred to the decision of the Federal Court of Appeal in Wiebe Door Services Ltd. v. M.N.R., and asked the question, was this the business of the teachers or of the appellants? He asserted that the evidence clearly shows that the students are the clients of CLIC, that the advertising is produced by CLIC, that the clients are recruited by CLIC, and that even one of the professors had ordered business cards in CLIC's rather than his own name.
+[49] Counsel refers to the decision by Tardif, J. in Centre de Langues de Trois-Rivières Inc. v. Canada (Minister of National Revenue), [2003] T.C.J. No. 191 (Q.L.). In this case, the lessons could be given either at the school or outside, at the option of the customer of the language school. The teachers were regarded as employees. Counsel referred specifically to paragraphs 9, 10, 15, 22 and 25:
+9 The rule was to the effect that everyone benefitted from it in that nothing was imposed and everyone contributed; this was true in light of the availability, preferences and affinities of the teachers. The teachers could display their constraints and reservations with regard to the choice of the students whom they wanted to teach.
+10 This freedom and considerable latitude was also apparent in terms of the location where the private lessons were given and also with regard to the necessary tools. The teachers could use their own material or take that which was available from and offered by the appellant. The teachers could also reach an agreement with their students, in the case of private lessons, on where they would meet.
+...
+15 In this case, the appellant company practised a policy of respect, cooperation and concertation. On the other hand, none of the proof, the burden of which was on the appellant, has established that it had no power of control or that it had renounced this power over the persons whom it remunerated.
+...
+22 Overall, there is no doubt that the appellant controlled the planning and development of the business. The teachers were closely associated with its progress, but they did not constitute an independent link.
+...
+25 The travel costs were also reimbursed, depending on the locations where the lessons were given.
+[50] He also refers to the decision of Somers, J. in Centre du Clavier Allard Inc. v. Canada (Minister of National Revenue), [2001] T.C.J. No. 144 (Q.L.), who decided that the workers were employees. In this case, the appellant provided the premises for giving the music lessons. Counsel referred to paragraph 20:
+a) the degree of control
+20 The appellant hired the teachers subject to certain constraints: they had to give the lessons on the appellant's premises and indicate the times they were available and abide by those times. However, there was some flexibility, allowing teachers to alter the schedule on occasion, but any changes had to be made with the consent of the customer and the appellant. It was the appellant who ultimately determined the class schedule. The fact that the teachers had some discretion over the method they would use had no effect on the appellant's control over the teachers. It is the right to exercise to exercise control and not the actual exercise of control that is relevant. Based on the evidence as a whole, there was a contract of service according to this criteria.
+Conclusion
+[51] In my view, the evidence has revealed quite clearly that this is a case in which the workers are self-employed and not employees. The recent decisions of the Federal Court of Appeal show us the path we should follow in cases where the usual criteria of the case law do not clearly reveal a situation of employment or enterprise. The intention of the parties thus becomes the determining factor.
+[52] I refer to the decision of the Federal Court of Appeal in Wolf v. Canada, [2002] F.C.J. No. 375 (Q.L.), paragraphs 64, 67, 94 120 and 124:
+64 The appellant submits that he belongs to a category of temporary workers, a breed which is on the rise in Canada and in the world, which includes workers hired for short-term appointments through temporary help agencies and "own-account" self-employment such as consultants, freelancers and independent contractors. This type of work is sometimes referred to as non-standard or temporary employment ...
+67 The appellant submits that absent a scam, window-dressing or other vitiating circumstances, none of which are alleged in this case, his status is governed by his contract, which describes as a consultant and independent contractor.
+120 In our day and age, when a worker decides to keep his freedom to come in and out of a contract almost at will, when the hiring person wants to have no liability towards a worker other than the price of work and when the terms of the contract and its performance reflect those intentions, the contract should generally be characterized as a contract for services. If specific factors have to be identified, I would name lack of job security, disregard for employee-type benefits, freedom of choice and mobility concerns.
+...
+124 This is not a case where the parties labelled their relationship in a certain way with a view of achieving a tax benefit. No sham or window dressing of any sort is suggested. It follows that the manner in which the parties viewed their agreement must prevail unless they can be shown to have been mistaken as to the true nature of their relationship. In this respect, the evidence, when assessed in the light of the relevant legal tests is at best neutral. As the parties considered that they were engaged in an independent contractor relationship and as they acted in a manner that was consistent with this relationship, I do not believe that it was open to the Tax Court Judge to disregard their understanding...
+[53] I refer to another decision of the Federal Court of Appeal in D & J Driveway Inc. v. The Minister of National Revenue, 2003 FCA 453, and specifically to paragraphs 7, 9, 10, 11, 12 and 15:
+7 The drivers have no facilities at the applicant's premises. Their services are retained and provided on call. They are entirely free to refuse the offer made to them to drive a truck, for example, to Halifax, Quebec or Montreal. Deliveries are made from Saint-Jacques in New Brunswick. The drivers receive a fixed amount which is determined in accordance with the distance to be travelled.
+...
+9 A contract of employment requires the existence of a relationship of subordination between the payer and the employees. The concept of control is the key test used in measuring the extent of the relationship. However, as our brother Décary, J.A. said in Charbonneau v. Canada (Minister of National Revenue - M.N.R.), [1996] F.C.J. No. 1337, (1996), 207 N.R. 299, followed in Jaillet v. Canada (Minister of National Revenue - M.N.R.), [2002] F.C.J. No 1454, 2002 F.C.A. 394, control of the result and control of the worker should not be confused. At paragraph 10 of the decision, he wrote:
+It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker.
+10 There is no question that the applicant controlled the results in the case at bar. It ensured that the trucks were delivered to the correct recipients at a convenient or agreed upon time, but that is where its control stopped.
+11 In fact, drivers could agree or refuse to make a delivery when called by the applicant, which certainly is not characteristic of a person bound by a contract of employment. They had no premises at the applicant's place of business and were not required to be available there. They only went there to take possession of the truck they had agreed to deliver.
+...
+15 We feel it is legally incorrect to conclude that a relationship of subordination existed, and that there was consequently a contract of employment, when the relationship between the parties involved sporadic calls for the services of persons who were not in any way bound to provide them and could refuse them as they saw fit....
+[54] I also refer to another decision of the Federal Court of Appeal, Poulin v. Canada, [2003] F.C.J. No. 141 (Q.L.), where this Court reversed my decision in Poulin v. Canada [2001] T.C.J. No 546. In this case, I had ruled in favour of the respondent having found that a personal care attendant working year-round, five days a week for a total of 40 hours a week, for a paraplegic, in accordance with the schedule determined by the latter and to whom vacation was granted, was an employee. The handicapped person received all the money to pay the workers from the Société d'Assurance Automobile du Québec.
+[55] The Federal Court of Appeal decided that this person was self-employed on the grounds that the services rendered to the handicapped person and the conditions in which they were rendered revealed a supply of services that is as compatible with one resulting from a contract for services or of enterprise as it is with one emanating from a contract of employment. The Court concluded that in cases where the criteria used to analyze a contract of employment versus a contract of enterprise reveal a neutral picture, it is necessary to examine the intention of the parties.
+[56] I quote paragraphs 27 to 29:
+27 In conclusion, the tests developed by the Courts to differentiate a contract of employment from a contract of services prove to be of little use in the particular context of this case. The services rendered to the applicant during 1999 and the conditions in which they were rendered reveal a supply of services that is as compatible with one resulting from a contract for services or of enterprise as it is with one emanating from a contract of employment. That being said, as our colleague Mr. Justice Décary noted in Wolf, supra, at paragraph 117, these tests are simply factors to be considered in the determination of what "is the essence of a contractual relationship, i.e., the intention of the parties". And as he also says, "one ends up in the final analysis, in civil law as well as in common law, looking into the terms of the relevant agreements and circumstances to find the true contractual reality of the parties": ibid., at para. 113.
+28 This leads me to examine the intention of the parties in order to determine the overall relationship that they wished to maintain between themselves.
+d) Intention of the parties
+29 There is not, in this case, as is often the case in similar matters, any written agreement; this obviously makes the search for intention more difficult but not necessarily impossible.
+[57] At paragraph 11 of this decision, the Federal Court of Appeal indicated that it was not necessary to conclude the quasi-automatic existence of a relationship of subordination or control from the fact that a person is recruited to perform certain duties according to a given schedule and compensation.
+[58] I quote part of paragraph 11, as well as paragraphs 13, 14, 15 and 16 of this decision:
+...
+The Tax Court of Canada also cited the notion of control and justified its conclusion by referring with approval to the facts relied on by the Minister. It concluded as well that there was a quasi-automatic relationship of subordination between a person with disabilities and the person recruited to perform certain duties, owing to the fact that these duties are carried out according to a given schedule and compensation....
+...
+a) Existence of control and a relationship of subordination.
+13 The issue under this test is whether, based on the evidence as a whole, there is control on the one hand, i.e. the applicant, and subordination on the other, the workers: Wolf v. Her Majesty the Queen, A-563-00, Neutral Citation 2002 F.C.A. 96, March 15, 2002, para. 117 (per) Décary J.A. Technically, the two notions define an important element in the contract of employment, as opposed to the contract for services. Article 2085 of the Civil Code of Quebec, which determines the applicable law in this case since the contract must be interpreted in accordance with the laws of the province of Quebec (see Federal Law - Civil Law Harmonization Act, No. 1, S.C. 2001, c. 4), states:
+Art. 2085
+A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+14 Conversely, the contract for services or of enterprise does not involve any relationship of subordination in respect of performance and the provider of services is free to choose the means of performing the contract: Article 2099 of the Civil Code of Quebec. The provider who operates a business or simply provides some services does so on his own account.
+15 What must be retained from these definitions of the two contracts is that the notion of control is important to the legal determination of the nature of the relationship between the parties. However, this notion of control is not always conclusive in itself, notwithstanding the importance it must be given. As our colleague, Madame Justice Desjardins, said in Wolf, supra, at paragraph 72, "while the control test is the traditional civil law criterion of employment, it is often inadequate because of the increased specialization of the work force": see also Wiebe Door Services Ltd., supra, at pages 558-559, where our colleague, Mr. Justice MacGuigan, states that the test has broken down completely in relation to highly skilled and professional workers, who possess skills far beyond the ability of their employers to direct.
+16 Furthermore, the notion of control is not necessarily lacking in the contract for service. It is generally apparent, albeit to varying degrees, as it is somewhat in the contract of employment, and sometimes to a surprising extent without necessarily distorting its nature as a contract of enterprise. For example, control in regard to the premises in general and the specific places in which the work is to be performed is exercised over general contractors and their sub-contractors. The latter are also given specific instructions as to the materials and the drawings and specifications with which they must comply. Often the times and work schedules of some in relation to others are also controlled and determined to ensure the effective and harmonious operation of the construction site. The work performed by contract for services is also subject to some performance, productivity and quality controls.
+[59] I have cited extensively from this decision in order to show that it is necessary to be very prudent when modifying the agreement freely concluded by the parties to a contract of employment or enterprise, in circumstances which may likely arise out of the nature of one of these contracts.
+[60] Here, like the workers in J & D Driveway, supra, the workers had no hearth or home with the appellants. The workers could accept or refuse to undertake a teaching session. They informed the appellants of their availability and they offered them contracts. It was overall a matter of sporadic contractual relationships.
+[61] The teachers assembled the lessons in large measure on their own. The supervision of the teachers by the appellants was nonexistent. The quality control of the service occurred by means of the students' evaluation. This type of control is consistent with an enterprise contract.
+[62] In fact, in this case, the analytical criteria related to contracts of employment and of enterprise barely reveal a neutral picture. These are circumstances that are far more indicative of a contract of enterprise than those of a contract of employment.
+[63] Let us nonetheless look at the intention of the parties. According to the testimony, the intention of the parties was not to establish a contract of employment between themselves, but a contract of enterprise. As far as the enterprise is concerned, the choice of proceeding by means of a contract of enterprise was made as a result of the economic and organizational requirements in connection with its operation in the Montreal region. As far as the workers are concerned, the only worker who asked for the status of employee and with regard to whom a decision has been handed down did not see fit to come here to testify. It makes me think that her testimony would not have been different from that of the other teachers we have heard, who wanted flexibility with regard to the acceptance of contracts and their independence as teachers.
+[64] It is true that, generally speaking, these were young recruits and that in such cases, their margin for manoeuvre in signing employment or enterprise agreements is more restricted. It can at times be a question of consent that is basically vitiated. In order to obtain paid employment, the young worker will agree to the conditions set by the company. But it can also happen that the young professional sincerely wishes to have the status of a self-employed worker because of the independence that that gives him or because he freely accepts such contracts of enterprise while awaiting a contract of employment.
+[65] In this case, there are no elements that lead me to believe that there was any window dressing of the true intentions of the parties regarding the nature of the contract of enterprise.
+[66] Consequently, with the exception of the worker mentioned at paragraph 5 of these Reasons, the assessments are vacated. The appeals are allowed.
+Signed at Ottawa, Canada, this 14th day of January, 2004
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Certified true translation
+Colette Beaulne

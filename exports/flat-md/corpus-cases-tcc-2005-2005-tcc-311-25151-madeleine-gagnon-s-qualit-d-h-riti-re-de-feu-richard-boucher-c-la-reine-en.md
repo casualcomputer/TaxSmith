@@ -1,0 +1,149 @@
+---
+title: "Madeleine Gagnon ès-qualité d'héritière de feu Richard Boucher c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25151/index.do"
+last_modified: "2005-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 311"
+citation2: ""
+neutral_citation: "2005 TCC 311"
+decision_date: "2005-06-14"
+language: "en"
+item_id: "25151"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2597
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:38:46.430000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "11847b149fed9ed5baef12fdb7911a449a56ef29627c9c24e0788d7737d506ce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Madeleine Gagnon ès-qualité d'héritière de feu Richard Boucher c. La Reine
+
+- Citation: 2005 TCC 311
+- Decision date: 2005-06-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2597, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Madeleine Gagnon ès-qualité d'héritière de feu Richard Boucher c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-14
+Neutral citation
+2005 TCC 311
+File numbers
+2001-1027(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-1027(IT)G
+BETWEEN:
+MADELEINE GAGNON,
+In her capacity as heir of the late Richard Boucher,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on March 15, 2005, at Chicoutimi, Quebec
+Before: The Honourable Judge Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Éric Le Bel
+Counsel for the Respondent:
+Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1988, 1989, 1990, 1991, 1992 and 1993 taxation years are allowed, with costs, and the penalties are set aside, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of June 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 3rd day of January 2006.
+Garth McLeod, Translator
+Citation: 2005TCC311
+Date: 20050614
+Docket: 2001-1027(IT)G
+BETWEEN:
+MADELEINE GAGNON,
+In her capacity as heir of the late Richard Boucher,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] In these appeals instituted under the general procedure, the point for determination is whether the penalty assessed on the Appellant under subsection 163(2) of the Income Tax Act (the "Act") in respect of the tax credit for mental or physical impairment for the 1988, 1989, 1990, 1991, 1992 and 1993 taxation years was warranted.
+[2] The facts on which the Minister of National Revenue (the "Minister") relied in making the assessments for the years in issue are stated in paragraph 8 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+a. the case originated in an internal investigation of certain employees of the Jonquière Tax Centre who had set up a scheme to enable certain persons to receive fraudulent tax refunds in consideration of a commission based on a percentage of the said refunds;
+b. Richard Boucher is the father of Mario Boucher, who has been employed by the Canada Customs and Revenue Agency for approximately 15 years;
+c. with the aid of Mario Boucher, Richard Boucher received tax refunds to which he would not normally have been entitled;
+d. on June 16, 1994, Richard Boucher received a total tax refund of $3,773.29 for the 1988, 1989, 1990, 1991, 1992 and 1993 taxation years, pursuant to notices of reassessment dated June 16, 1994;
+e. by those notices, Richard Boucher was granted a tax credit for mental or physical impairment;
+f. in support of the tax credit claimed, Richard Boucher provided a Disability Tax Credit Certificate dated March 22, 1994, completed by Dr. André Couture;
+g. according to the certificate, the impairment from which Richard Boucher suffered began on February 22, 1988;
+h. the certificate was falsified after it was issued by the physician, and the impairment instead apparently began on February 22, 1993;
+i. in support of the reassessments dated September 25, 2000, the Respondent contends that, with respect to the 1988, 1989, 1990, 1991, 1992 and 1993 taxation years, Richard Boucher made a misrepresentation that is attributable to neglect, carelessness or wilful default in supplying any information under the Income Tax Act;
+j. the disability tax credit claim for the 1988, 1989, 1990, 1991, 1992 and 1993 taxation years leads the Minister to believe that Richard Boucher knowingly, or under circumstances amounting to gross negligence, participated in, assented to or acquiesced in the making of, a false statement or omission in the returns of income filed for the 1988, 1989, 1990, 1991, 1992 and 1993 taxation years, as a result of which the tax that he would have been required to pay, based on the information provided in the returns of income filed for those years, was less than the amount of tax payable for those years.
+[3] Roland Pelletier, a special investigations officer with the Canada Customs and Revenue Agency (the "Agency"), testified that, in 1998, an employee of the Agency realized that the department had made tax refunds to taxpayers without there being any supporting documentation in their files. Mr. Pelletier explained that, together with other persons, he had conducted an investigation into the matter. That investigation led to the laying of charges against, and the conviction of, two Agency employees, one of whom was Mario Boucher, the Appellant's son. According to Mr. Pelletier, the investigation revealed that some 45 taxpayers had been contacted by those two employees or by other persons and that the latter had received 50 percent to 66.66 percent of the tax refunds received by the taxpayers. Mario Boucher's name was associated with a number of cases, including that of his father, the late Richard Boucher, who died in 2000. Mr. Pelletier added that he had telephoned the late Richard Boucher on May 2, 2000. In that telephone conversation, Mr. Pelletier learned from the Appellant that the late Richard Boucher was gravely ill with cancer. He then decided on compassionate grounds not to meet the late Mr. Boucher.
+[4] It should be pointed out that counsel for the Appellant admitted that the form T2201, entitled "Disability Tax Credit Certificate", had been falsified. The date on which the impairment began, February 22, 1993, in this case, had been falsified to read February 22, 1988.
+[5] The Appellant testified, with considerable emotion, that her spouse, the late Richard Boucher, was an extremely honest man and that he absolutely had not suspected that his son had acted in a fraudulent manner. She added that it was her son Mario who had usually prepared the late Mr. Boucher's returns of income. Lastly, the Appellant described her spouse's health starting in 1993, when he had been stricken with a heart attack. In 1994, the Appellant stated, the late Mr. Boucher's respiratory problems were such that he constantly needed oxygen in order to survive. Shortly thereafter, the late Mr. Boucher learned that he had lung cancer.
+[6] Lastly, the evidence showed that the late Richard Boucher had deposited only a portion, $3,000, of the tax refund cheque of $3,700.
+[7] Counsel for the Respondent essentially contended that the late Richard Boucher had shown wilful blindness. Counsel for the Respondent claimed that he could not imagine that the late Mr. Boucher had not been aware, when he received the refund cheque, that he was not entitled to a refund of that size, particularly since he had not received such a refund from the provincial tax authorities. Counsel for the Respondent contended that it was highly unlikely that the refund cheque was not accompanied by a notice of reassessment, which usually states the nature of the changes resulting in the tax refund. He therefore claimed that one could legitimately believe that the late Mr. Boucher had therefore questioned his right to receive such a refund. Lastly, counsel for the Respondent claimed that I should infer from the lack of testimony by Mario Boucher (who could have corroborated the fact that he had arranged the tax refund without his father's knowledge) that that evidence would have been unfavourable to the Appellant.
+[8] In light of the evidence, I find it more likely than unlikely that the late Richard Boucher did not realize that he was not entitled to such a refund.
+[9] First, the tax refund cheque was not for such a large amount that the late Mr. Boucher himself should have become suspicious, particularly since he was in fact entitled to a tax credit for the 1993 and following years. It is also quite plausible, in my view, that a taxpayer who, it should be recalled, was seriously ill in 1994 might not have read or understood the notices of reassessment. A concern for survival in such circumstances necessarily prevails over any concern to understand the nature of a notice of reassessment prepared by a computer in often barely comprehensible terms. Furthermore, the late Richard Boucher was entitled to believe in this case that he was entitled to such a refund since it was his son, an employee of the Agency, who had prepared his returns of income. He had no reason to believe at the time that his son was dishonest.
+[10] Counsel for the Respondent claimed that I should infer from the lack of testimony by the son (who could have testified that the scheme had been set up without his father's knowledge) that that evidence would have been unfavourable to the Appellant. I find the claim of counsel for the Respondent legitimate in itself. However, I am convinced that, if Mario Boucher had testified to that effect, counsel for the Respondent would have been the first to claim that he was not an independent and credible witness. Lastly, I wish to emphasize that the evidence absolutely did not reveal that the late Richard Boucher paid a kickback or made any withdrawals, after the refund cheque was cashed, in amounts corresponding to the other kickbacks paid to those who had devised the scheme.
+[11] For these reasons, I find that the Respondent in this case did not satisfy me on a balance of probabilities that the late Richard Boucher showed wilful blindness or that he knowingly made a false statement or omission in his returns of income in issue, or that he took part in, consented to or acquiesced in the making of a false statement or omission.
+[12] I conclude that the appeals must be allowed, with costs.
+Signed at Ottawa, Canada, this 14th day of June 2005.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 3rd day of January 2006.
+Garth McLeod, Translator
+CITATION: 2005TCC311
+COURT FILE NO.: 2001-1027(IT)G
+STYLE OF CAUSE: Madeleine Gagnon, In her capacity as heir of the late Richard Boucher and Her Majesty the Queen
+PLACE OF HEARING: Chicoutimi, Quebec
+DATE OF HEARING: March 15, 2005
+REASONS FOR JUDGMENT BY: The Honourable Judge Paul Bédard
+DATE OF JUDGMENT: June 14, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Éric Le Bel
+Counsel for the Respondent:
+Martin Gentile
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Éric Le Bel
+Firm: Fradette, Gagnon, Têtu, Le Bel, Ste-Marie
+Chicoutimi, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

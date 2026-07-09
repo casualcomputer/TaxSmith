@@ -1,0 +1,163 @@
+Title: Mccullock-Finney (Succession) c . La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/233236/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-103-233236-mccullock-finney-succession-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-06-09
+
+# Mccullock-Finney (Succession) c . La Reine
+
+- Citation: 2017 CCI 103
+- Decision date: 2017-06-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2113, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mccullock-Finney (Succession) c . La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-06-09
+Référence neutre
+2017 CCI 103
+Numéro de dossier
+2015-5636(IT)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-5636(IT)I
+ENTRE :
+SUCCESSION DE FEU CHRISTINA McCULLOCK-FINNEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 31 mars 2017, à Montréal (Québec)
+Devant : L’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Représentant de l’appelante :
+Jason Finney
+Avocat de l’intimée :
+Me Gabriel Girouard
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 est rejeté, conformément aux motifs de jugement ci-joints.
+Signé à Kingston (Ontario), ce 9e jour de juin 2017.
+« Rommel G. Masse »
+Le juge suppléant Masse
+Référence : 2017 CCI 103
+Date : 20170609
+Dossier : 2015-5636(IT)I
+ENTRE :
+SUCCESSION DE FEU CHRISTINA McCULLOCK-FINNEY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] Le présent appel porte sur un avis de nouvelle cotisation daté du 8 mai 2015 et établi en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée (la « Loi »), pour l’année d’imposition 2010 à l’encontre de l’appelante, qui est maintenant représentée par sa succession. Le litige porte sur le rejet d’une demande de déduction pour gains en capital de 43 727 $ à la suite de la disposition de deux propriétés qui appartenaient à l’appelante depuis 1979 et qui ont été vendues en 2010.
+Contexte factuel
+[2] Christina McCullock-Finney est née le 10 octobre 1942. Elle est décédée le 20 juin 2016, à l’âge de 73 ans. En conséquence, la conduite du présent appel relève désormais de sa succession. Dans les présents motifs, lorsque je parle de l’appelante, je réfère de façon interchangeable à Christina McCullock-Finney ou à sa succession.
+[3] Le présent appel porte sur la disposition, en 2010, de deux propriétés locatives appartenant à l’appelante et situées à Lachine, au Québec. Ces propriétés se trouvent au 82-86, 11e Avenue, à Lachine (Québec), et au 1091-1099, rue Saint-Louis, également à Lachine (Québec) [les « propriétés »]. Elle possédait ces propriétés depuis déjà un bon moment, en fait depuis 1979. Elle possédait aussi d’autres biens immobiliers locatifs qui ne sont pas inclus dans le présent appel.
+[4] L’appelante s’est départie de ces propriétés en 2010.
+[5] Dans sa déclaration de revenus pour l’année d’imposition 2010, elle a déclaré un gain en capital imposable de 36 942 $ provenant de la vente de ces propriétés. Elle a par la suite déposé une demande de redressement de T1 pour l’année d’imposition 2010, dans laquelle elle réclamait une déduction pour gain en capital de 43 727 $.
+[6] Dans une nouvelle cotisation datée du 8 mai 2015, le ministre a rejeté le montant de 43 727 $ réclamé par l’appelante au titre de déduction pour gain en capital au motif que l’appelante n’avait jamais déposé de formulaire T664 « Choix de déclarer un gain en capital sur un bien possédé en fin de journée le 22 février 1994 » conformément au paragraphe 110.6(19) de la Loi, ni de formulaire T657A « Calcul de la déduction pour gains en capital pour 1994 pour autres immobilisations », lorsqu’elle a produit sa déclaration de revenus personnelle pour 1994. En outre, l’intimée soutient que, dans sa déclaration de revenus de 1994, l’appelante n’a pas déclaré de gain en capital et n’a pas non plus réclamé de déduction pour gain en capital résultant d’un choix en vertu de l’alinéa 110.6. Le 4 août 2015, l’appelante a signifié un avis d’opposition concernant la nouvelle cotisation datée du 8 mai 2015. Par voie d’avis de confirmation daté du 13 octobre 2015, le ministre a confirmé la nouvelle cotisation. D’où l’appel interjeté devant la Cour.
+[7] Le point en litige est de savoir si le ministre a eu raison de rejeter la déduction pour gain en capital de 43 727 $ réclamée par l’appelante.
+[8] Christiansen Lebrun est comptable professionnel agréé. Il était le comptable de Christina McCullock-Finney avant son décès. Il a fait sa connaissance en 2012. À ce moment, elle faisait l’objet d’une vérification de l’Agence du revenu du Canada pour les années 2009 et 2010. Il a préparé un avis d’opposition en son nom et a constitué un dossier à l’intention de l’ARC. Ce dossier a été transmis à l’ARC, mais il a apparemment été égaré. En conséquence, il a dû recréer et soumettre à nouveau le dossier à l’ARC, ce qu’il a effectué en octobre 2014 et qui lui a demandé des efforts considérables. M. Lebrun est hors de tout doute un professionnel dévoué qui est fier de la qualité des services qu’il fournit à ses clients. Il n’a pas déçu sa cliente. Grâce à ses efforts, à l’exception de la question des gains en capital, toutes les questions en litige entre Mme McCullock-Finney et l’ARC ont été résolues de façon satisfaisante.
+[9] M. Lebrun explique que l’impôt sur les gains en capital a changé depuis le 22 février 1994. Avant cette date, le taux d’inclusion des gains en capital dans le revenu imposable s’établissait à 25 % du gain en capital. Le 22 février 1994, ce taux est passé à 50 %. Le ministre a décidé de permettre aux contribuables admissibles de choisir de déclarer la disposition du bien immobilier à sa juste valeur marchande à ce moment, puis de demander une déduction compensatoire des gains en capital de manière à profiter de l’exemption existante relativement aux gains en capital. À cette fin, un contribuable devait remplir le formulaire T664 « Choix de déclarer un gain en capital sur un bien possédé en fin de journée le 22 février 1994 ». Dans ce formulaire, le contribuable devait préciser les propriétés qui étaient incluses dans son choix. M. Lebrun a en sa possession les documents de travail de l’appelante pour 1994 et il a présenté à la Cour une copie du formulaire T664 dûment rempli et signé par l’appelante, en date du 21 avril 1994 (lequel fait partie de la pièce A-2). Dans ce formulaire T664, l’appelante a désigné les deux propriétés. Elle a également établi la juste valeur marchande de ces deux propriétés, en a défalqué le prix de base rajusté, a déterminé que les gains en capital choisis étaient de 65 888 $ et a obtenu un gain en capital imposable choisi de 49 416 $. C’est ce gain en capital qu’elle a inscrit sur sa déclaration de revenus personnelle T1. M. Lebrun a également produit une copie signée du formulaire T657A « Calcul de la déduction pour gains en capital pour 1994 pour autres immobilisations » (également daté du 21 avril 1994 et qui fait également partie de la pièce A-2), qu’il a extraite des documents de travail de l’appelante. Sur ce formulaire, l’appelante a calculé que le montant de l’exemption pour gain en capital s’élevait à 49 416 $. Pour éviter de payer de l’impôt sur le gain en capital imposable choisi, l’appelante devait également réclamer ce montant sur sa déclaration de revenus personnelle T1. À condition de remplir ces deux formulaires et de déclarer correctement le gain en capital imposable choisi et la déduction pour gain en capital réclamée dans sa déclaration de revenus personnelle T1, un contribuable ne sera pas imposé sur la portion exemptée lors de la vente de la propriété des années plus tard. Si le contribuable n’effectue pas le choix requis et déclare la disposition réputée dans sa déclaration de revenus, tous les gains futurs seront imposés aux taux en vigueur, lesquels seront plus élevés qu’ils ne l’étaient avant le 22 février 1994.
+[10] M. Lebrun est d’avis que l’appelante avait la ferme intention de profiter de l’exemption des gains en capital. Il est convaincu que l’appelante a fait les choix nécessaires sur les formulaires T664 et T657A et il conclut qu’elle a dû les envoyer à l’ARC lorsqu’elle a produit sa déclaration de revenus personnelle pour 1994. Sinon, pourquoi aurait-elle pris la peine de remplir ces formulaires et d’en conserver des copies dans ses dossiers personnels? M. Lebrun a déclaré qu’il avait en sa possession une copie de la déclaration de revenus personnelle de l’appelante pour 1994. Il admet sans détour qu’elle n’a pas rempli l’Annexe 3, « Gains (ou pertes) en capital en 1994 » et qu’elle ne l’a évidemment pas jointe à sa déclaration de revenus personnelle pour 1994 comme elle était tenue de le faire. Il reconnaît qu’elle n’a pas indiqué son gain en capital imposable choisi à la ligne 127 de sa déclaration de revenus personnelle pour 1994 comme elle était tenue de le faire. Enfin, il concède également qu’elle n’a pas réclamé la déduction pour gain en capital à la ligne 254 de sa déclaration de revenus personnelle pour 1994 comme elle était tenue de le faire.
+[11] En contre-interrogatoire, M. Lebrun a convenu que l’appelante avait sans doute également rempli et signé un second formulaire T664 (voir la pièce R-1). Toutefois, ce formulaire T664 ne contient pas la même information que le premier T664; il ne porte que sur l’une des propriétés, celle de la rue Saint-Louis. Il n’y a aucune mention de la propriété située sur la 11e Avenue. En outre, les chiffres sur les deux formulaires T664 diffèrent. Il semble que l’appelante ait également rempli un autre formulaire T657A (voir la pièce R-2). L’information contenue dans ce second formulaire T657A diffère de celle qui figure sur le premier formulaire T657A. M. Lebrun n’a pu expliquer pourquoi l’appelante aurait rempli deux versions différentes des formulaires T664 et T657A. Il ne peut pas non plus dire lequel de ces deux jeux de formulaires elle envisageait de produire, ni lequel a en fait été produit, si elle en a produit un. Il peut seulement conclure qu’elle avait l’intention de produire les formulaires de choix et il croit qu’elle l’a fait. Il admet que les montants établis sur les formulaires doivent être reportés sur l’Annexe 3 de la déclaration de revenus et que cette annexe doit être jointe à la déclaration de revenus. Le montant du gain en capital choisi devait être consigné à la ligne 127 de la déclaration de revenus. Le montant de la déduction pour gain en capital établi sur le formulaire T657A devait être consigné à la ligne 254 de la déclaration de revenus. M. Lebrun n’est pas en mesure d’expliquer pourquoi l’appelante n’a pas inclus cette information dans sa déclaration de revenus personnelle pour 1994. Il reconnaît que cette information doit figurer sur la déclaration de revenus et qu’elle n’y est pas. Il est d’avis que l’appelante ignorait qu’elle devait remplir l’Annexe 3 ou remplir les lignes 127 et 254 de sa déclaration de revenus. Il pense qu’elle a cru qu’à eux seuls, les formulaires T664 et T657A étaient suffisants. Il croit que l’appelante devrait être autorisée à réclamer la déduction pour gain en capital que le ministre lui a refusée. Elle s’est donné du mal pour se procurer les formulaires T664 et T657A requis et elle les a remplis et signés. Elle avait la ferme intention de les produire et il conclut qu’elle l’a sans doute fait, puisqu’elle en a conservé des copies dans ses dossiers personnels. Elle a tout fait au meilleur de sa connaissance et de ses capacités pour se conformer aux exigences de la Loi.
+[12] Catalina Sylvia Tempea est agente des litiges au bureau des services fiscaux de Montréal de l’ARC. Elle a examiné tous les documents électroniques que l’ARC détenait concernant les déclarations de revenus personnelles de l’appelante pour 1994. Elle a présenté à la Cour une version imprimée du document électronique appelé « imprimé de l’option "C" » (voir la pièce R-5). Cet imprimé renferme l’information sur les revenus et les déductions inscrits sur la déclaration de revenus personnelle de l’appelante pour 1994. Il confirme les montants inscrits sur les lignes correspondantes de la déclaration de revenus personnelle. Elle déclare que si tous les formulaires requis pour faire un choix en application du paragraphe 110.6(19) de la Loi avaient été remplis correctement et produits, l’imprimé de l’option C l’indiquerait. L’imprimé de l’option C montrerait que l’Annexe 3 et les formulaires T664 et T657A ont été produits. Ce n’est pas le cas. L’imprimé de l’option C devrait montrer un gain en capital imposable de 43 747 $ confirmé à la ligne 127, mais ce n’est pas le cas. Il devrait également montrer une exemption pour gain en capital pour ce même montant, confirmé à la ligne 254 de la déclaration de revenus, mais ce n’est également pas le cas. Il n’y avait aucun renvoi à la ligne 127, à la ligne 254 et à l’Annexe 3. À son avis, il n’y a aucun renseignement concernant un gain en capital ou une exemption pour gain en capital dans l’imprimé de l’option C pour l’année d’imposition 1994. Ce témoignage est conforme à la preuve offerte par M. Lebrun voulant que l’Annexe 3 et les lignes 127 et 254 de la déclaration de revenus de l’appelante n’aient pas été remplies.
+[13] Selon Mme Tempea, cela signifie que le gain en capital n’a pas été déclaré et que l’exemption pour gain en capital correspondante n’a pas été réclamée. Elle a ajouté que le fait que le dossier correspondant aux années d’imposition 2009 et 2010 puisse avoir été égaré n’a aucune incidence sur l’année d’imposition 1994.
+[14] Dans son témoignage, elle a précisé que le choix dont il est question en l’espèce ne se limite pas à remplir et à produire les formulaires T664 et T657A. Le contribuable doit faire un choix, puis déclarer le gain en capital et réclamer l’exemption pour gain en capital dans sa déclaration de revenus. En l’espèce, la contribuable devait indiquer un choix comme il se doit et réclamer une déduction pour gain en capital dans sa déclaration de revenus pour 1994. Cela ne pouvait pas être fait ultérieurement au moment de la vente de la propriété. Même si l’appelante avait joint les formulaires T664 et T657A à sa déclaration de revenus personnelle pour 1994, l’information ne figurait pas sur la déclaration. Il ne s’agit pas en l’occurrence d’avoir démontré son d’intention ou sa bonne foi, mais plutôt d’avoir déclaré correctement une disposition réputée en tant que gain, puis d’avoir réclamé une exemption. Mme Tempea est d’avis que le choix n’a pas été indiqué correctement.
+Thèses des parties
+[15] Le représentant et comptable de l’appelante admet franchement et honnêtement que le gain en capital imposable choisi n’a pas été calculé à l’Annexe 3 ni déclaré à la ligne 127 de sa déclaration de revenus pour 1994. Il reconnaît aussi qu’elle n’a pas réclamé la déduction pour gain en capital qui aurait dû apparaître à la ligne 254 de sa déclaration de revenus. Par contre, elle savait qu’il était important de faire ce choix au cours de l’année d’imposition 1994. Elle a accompli ce qu’elle croyait être nécessaire et le fait que les formulaires se trouvaient dans son dossier personnel indique qu’elle les a sans doute produits. Le représentant de l’appelante soutient que l’intimée a perdu les renseignements fiscaux concernant l’appelante ou a fait en sorte qu’ils ne soient pas accessibles pour en permettre la vérification requise. Malheureusement, il n’y a plus de trace de ces formulaires. Il soutient que cela ne prouve pas que l’appelante ne les ait pas produits. L’intimée a simplement omis de consigner correctement le choix de l’appelante. Il fait valoir que l’appelante avait droit à l’exemption pour gain en capital relativement aux propriétés qu’elle possédait le 22 février 1994 et qu’elle a accompli tout ce qu’elle croyait être nécessaire pour effectuer un choix et réclamer cette exemption. Elle ne connaissait peut-être pas la complexité de la Loi, mais elle savait qu’elle devait faire un choix et elle a toujours eu l’intention de respecter la Loi. Elle croyait qu’il suffisait de remplir les formulaires. Le représentant de l’appelante soutient qu’elle avait droit à la déduction pour gain en capital. Il prie donc la Cour d’accueillir son appel, de manière à lui permettre d’obtenir la déduction pour gain en capital s’élevant à 43 727,16 $.
+[16] Pour sa part, l’intimée soutient qu’il n’existe aucune preuve que les formulaires T664 ou T657A ont été produits et ajoute que, s’ils l’avaient été, l’imprimé de l’option C le montrerait. L’intimée prétend également que, même si les formulaires avaient été produits, cela n’aurait pas été suffisant, car l’appelante devait remplir l’Annexe 3 et la joindre à sa déclaration de revenus personnelle. Elle devait également déclarer le gain en capital à ligne 127 de sa déclaration de revenus personnelle, puis consigner la déduction pour gain en capital à la ligne 254 de sa déclaration de revenus personnelle pour l’année d’imposition 1994. Elle ne l’a pas fait. Par conséquent, aucun gain en capital choisi n’a été déclaré et aucune déduction pour gain en capital n’a été réclamée. Le défaut de déclarer le gain en capital et de réclamer la déduction pour gain en capital entraîne le rejet de son appel. L’intimée demande donc le rejet du présent appel.
+Dispositions législatives
+[17] Le paragraphe 110.6 de la Loi est libellé en partie comme suit :
+Choix concernant les biens appartenant à un contribuable le 22 février 1994
+110.6(19) Sous réserve du paragraphe (20), dans le cas où un particulier (sauf une fiducie) ou une fiducie personnelle (appelés chacun « auteur du choix » au présent paragraphe et aux paragraphes (20) à (29)) fait un choix, sur formulaire prescrit, pour que les dispositions du présent paragraphe s’appliquent à l’un des biens ou entreprises suivants, les présomptions suivantes s’appliquent
+(a) s’il s’agit d’une immobilisation [...] dont l’auteur du choix est propriétaire à la fin du 22 février 1994 [...] l’immobilisation est réputée [...] :
+(i) d’une part, avoir fait l’objet d’une disposition par l’auteur du choix à ce moment pour un produit de disposition égal au plus élevé des montants suivants :
+(A) le résultat du calcul suivant :
+A - B
+où :
+A représente le montant indiqué au titre de l’immobilisation dans le formulaire concernant le choix,
+B le montant qui serait inclus, en application des articles 7 ou 35, dans le calcul du revenu de l’auteur du choix par suite de la disposition, s’il s’agissait d’une disposition visée à ces articles,
+(B) le prix de base rajusté de l’immobilisation pour l’auteur du choix immédiatement avant la disposition,
+(ii) d’autre part, avoir été acquise de nouveau par l’auteur du choix immédiatement après ce moment à un coût égal à l’un des montants suivants :
+[…]
+(C) dans les autres cas, le moins élevé des montants suivants :
+(I) le montant indiqué dans le formulaire concernant le choix,
+[…]
+110.6(24) Présentation du choix. Le formulaire concernant le choix prévu au paragraphe (19) doit être présenté au ministre dans les délais suivants :
+a) l’auteur du choix étant un particulier, sauf une fiducie :
+(i) si le choix vise une entreprise de l’auteur du choix, au plus tard à la date d’échéance de production applicable au particulier pour l’année d’imposition dans laquelle se termine l’exercice de l’entreprise qui comprend le 22 février 1994,
+(ii) dans les autres cas, au plus tard à la date d’exigibilité du solde applicable au particulier pour l’année d’imposition 1994,
+[…]
+110.6(25) Révocation du choix. Sous réserve du paragraphe (28), l’auteur du choix peut révoquer le choix fait en application du paragraphe (19) en présentant au ministre un avis écrit à cet effet avant 1998.
+110.6(26) Choix produit en retard. S’il est présenté au ministre après le jour (appelé « date du choix » au présent paragraphe et aux paragraphes (27) et (29)) où il doit être produit selon le paragraphe (24), mais au plus tard deux ans suivant ce jour, le formulaire concernant le choix fait en application du paragraphe (19) est réputé, pour l’application du présent article, à l’exception du paragraphe (29), avoir été produit à la date du choix si un montant estimatif de la pénalité relative au choix est payé par l’auteur du choix au moment de la présentation du formulaire au ministre.
+110.6(27) Modification du choix. Sous réserve du paragraphe (28), le choix fait en application du paragraphe (19) relativement à un bien ou à une entreprise est réputé être modifié et, pour l’application du présent article, sauf le paragraphe (29), produit, dans sa version modifiée, à la date du choix, si les conditions suivantes sont réunies :
+a) un formulaire prescrit concernant le choix modifié relatif au bien ou à l’entreprise est présenté au ministre avant 1998;
+b) un montant estimatif de la pénalité relative au choix modifié est payé par l’auteur du choix au moment où le formulaire concernant ce choix est présenté au ministre.
+110.6(28) Interdiction de révocation ou de modification. […]
+110.6(29) Pénalité. La pénalité relative à un choix auquel les paragraphes (26) ou (27) s’appliquent correspond au résultat du calcul suivant : [...]
+Analyse
+[18] Comme je l’ai mentionné dans Sicurella c. La Reine, [2013] A.C.I. no 67, les dispositions législatives qui s’appliquent à l’exemption pour gains en capital sont très complexes. En ce qui concerne l’exemption pour gains en capital, de la manière prévue au paragraphe 110.6 de la Loi, il convient de revenir sur l’historique de l’imposition des gains en capital au Canada. La juge Lamarre-Proulx nous en donne un aperçu dans ses motifs dans Foisy c. La Reine, 2000 CanLII 431 (CCI), aux paragraphes 16 et suivants :
+[16] Un rappel sommaire de l’historique de la taxation des gains en capital me paraît utile à faire dans le présent litige. J’ai tiré l’information plus particulièrement des ouvrages suivants : Les principes de l’imposition au Canada, Lord Sasseville et Bruneau, 1993, 10e éd.; chapitres II et VII; et Principles of Canadian Income Tax Law, Hogg et Magee, 1995, chapitres 3 et 15.
+[17] Avant 1972, les gains en capital n’étaient pas sujets à l’impôt sur le revenu. En 1967, le rapport de la Commission royale d’enquête sur la fiscalité, connue sous le nom de Commission Carter, a recommandé l’assujettissement de ces gains au même titre que les gains d’entreprise. En 1969, le Livre blanc sur la fiscalité a recommandé l’imposition entière du gain en capital, à l’exception de celui sur les actions des sociétés canadiennes publiques qui devrait l’être à 50 p. 100. La Loi de l’impôt sur le revenu, entrée en vigueur le 1er janvier 1972, prévoyait l’imposition à 50 p. 100 des gains en capital.
+[18] En 1985, la Loi a été modifiée pour prévoir en faveur des particuliers une exonération cumulative qui pouvait atteindre progressivement le montant de 500 000 $ pour les gains en capital. Cette exonération augmentait progressivement : ainsi en 1985, le plafond était de 20 000 $, en 1986 de 50 000 $, et en 1987 de 100 000 $. Par la suite d’année en année l’augmentation devait être de 100 000 $ pour atteindre un plafond final de 500 000 $ en 1990.
+[19] L’exonération est dite cumulative à cause du fait qu’il est nécessaire de cumuler les exonérations prises tout au long de la vie d’un particulier. Tout montant d’exonération utilisé dans une année antérieure réduit le plafond d’exonération disponible.
+[20] L’augmentation du plafond de l’exonération s’est arrêtée à 100 000 $ en 1987, lors de la réforme fiscale de 1987. Cette même réforme fiscale prévoyait qu’en 1988, la portion du gain en capital imposable serait augmentée à 66 2/3 p. 100 et à 75 p. 100 à compter de 1990. L’exonération de 100 000 $ a pris fin en 1994. (Au budget fédéral du 28 février 2000, il y a une proposition de ramener à 2/3 le taux d’inclusion des gains en capital réalisés après le 27 février 2000.)
+[21] L’arrêt de l’accroissement du plafond de l’exonération fiscale qui a eu lieu en 1988 ne s’est pas appliqué aux biens agricoles admissibles ni aux actions admissibles d’une petite entreprise. À leur égard, l’exonération a atteint son plafond final en 1990 et n’a pas pris fin en 1994.
+[22] Lors de l’abrogation de l’exonération de 100 000 $ en 1994, le paragraphe 110.6(19) de la Loi a permis aux particuliers de faire un choix qui avait pour objet une disposition présumée du bien en capital le 22 février 1994 et un rachat à sa juste valeur marchande ou à une valeur inférieure. La valeur choisie devient le coût de base rajusté de la propriété. Ce choix devait être fait dans le délai prévu au paragraphe 110.6(24) de la Loi.
+[19] Je note au paragraphe 16 de Sicurella que le paragraphe 110.6(19) de la Loi permet au contribuable de choisir d’utiliser tout montant restant de l’exonération cumulative des gains en capital pour qu’elle ne soit pas pour toujours perdue. Le contribuable, par moyen du choix T664, désigne une immobilisation et choisit une valeur pour cette immobilisation. Selon les dispositions législatives, le contribuable est réputé avoir disposé de l’immobilisation désignée et l’avoir acquise de nouveau pour la valeur choisie. Tout gain résultant de cette disposition réputée donnera lieu à un gain en capital imposable qui peut être compensé par le montant qui reste au contribuable à titre de l’exonération cumulative. À l’avenir, lorsqu’il y aura une disposition ou une vente du bien, il y aura compensation entre le gain réalisé à ce moment-là et le montant choisi, plutôt qu’entre le coût initial et le gain futur. Ceci entraînera une réduction de l’impôt payable lors de la vente éventuelle du bien. Au paragraphe 18 de Sicurella, je mentionne que le montant désigné par le contribuable comme produit de disposition (et donc le nouveau coût d’acquisition du bien) dans le choix T664 est très important lors du calcul du gain en capital quand le bien est vendu à une date ultérieure. Cependant, le choix, la déclaration du gain en capital et la demande d’exemption pour gain en capital devaient tous être faits dans la déclaration de revenus personnelle pour 1994 ou dans le délai prescrit au paragraphe 110.6(26) de la Loi. Sinon, l’exemption pour gain en capital est perdue à jamais.
+[20] Que devait faire un contribuable pour mettre au point son choix et donc tirer le maximum de l’exemption pour gain en capital? Au risque de me répéter, le contribuable devait suivre la procédure ci-après.
+[21] Le contribuable devait avoir rempli le formulaire T664 « Choix de déclarer un gain en capital sur un bien possédé en fin de journée le 11 février 1994 ». Dans ce formulaire, le contribuable précisait les biens immobiliers sélectionnés auxquels son choix devait s’appliquer. Il devait ensuite fixer le montant du produit de la disposition des biens immobiliers désignés, lequel ne devait pas dépasser la juste valeur marchande (ou le montant de l’exemption pour gain en capital disponible) pour ces biens avant le 22 février 1994. Puis, il devait calculer le montant du gain en capital choisi pour les biens immobiliers désignés. Enfin, il devait déterminer les gains en capital imposables choisis en s’appuyant sur le taux d’inclusion en vigueur. Ce montant devait être inscrit à la ligne 546, « Gains (ou pertes) en capital en 1994 », de l’Annexe 3. Le montant total des gains en capital imposables devait être inscrit à la ligne 127 de la déclaration générale T1 pour 1994. L’Annexe 3 dûment remplie devait être jointe à la déclaration. Ainsi, les gains en capital imposables choisis étaient inclus dans le revenu total. Si aucune autre mesure n’était prise, le contribuable était imposé sur les gains en capital imposables choisis. Le contribuable pouvait éviter d’être imposé sur les gains en capital imposables choisis en remplissant le formulaire T657A « Calcul de la déduction pour gains en capital pour 1994 pour autres immobilisations ». Il fallait ensuite transcrire le montant de la déduction pour gains en capital établi au moyen de ce formulaire sur la ligne 254 de la déclaration générale T1, puis le soustraire du revenu total pour éviter de payer de l’impôt sur les grains en capital choisis. Toute cette procédure s’appliquait à la déclaration de revenus de 1994 du contribuable. Aux termes du paragraphe 110.6(24), ce choix devait être effectué au plus tard le 30 avril 1995, qui était la date limite pour la production de la déclaration de revenus personnelle pour 1994. Le paragraphe 110.6(26) permettait de reporter ce choix, mais la prolongation du délai était de deux ans et donnait lieu à des pénalités.
+[22] En l’espèce, je conclus que l’appelante était une personne honnête qui avait bel et bien l’intention de se conformer aux exigences de la Loi. Cependant, plusieurs difficultés se posent quant à cet appel :
+a. Le représentant de l’appelante et le comptable de l’appelante à l’époque où cette dernière était en vie soutiennent que les formulaires T664 et T657A ont été produits parce qu’elle a pris la peine de les remplir et d’en conserver des copies dans ses dossiers personnels. L’intimée soutient que les formulaires n’ont pas été produits parce que, s’ils l’avaient été, l’imprimé de l’option C le montrerait. Compte tenu de la preuve qui m’a été présentée, je conclus que l’appelante avait bel et bien l’intention de produire les formulaires et de faire le choix requis. Toutefois, toujours selon la preuve qui m’a été présentée, il existe deux jeux de formulaires différents contenant de l’information différente. Ils ne peuvent pas tous deux avoir été produits. Je ne suis pas en mesure de déterminer si les formulaires ont réellement été produits avec sa déclaration de revenus pour l’année 1994 et, le cas échéant, quels formulaires l’ont été. Il est acquis en matière jurisprudentielle que dans les affaires fiscales, le fardeau de la preuve incombe à l’appelant : voir Hickman Motors Ltd. c. Canada, [1997] 2 RCS 336, aux paragraphes 91 à 98. Le fardeau de la preuve ne m’influence pas dans un sens ou dans l’autre.
+b. Même si les formulaires en question ont été produits, il n’est pas contesté que l’appelante n’a pas rempli l’Annexe 3 et qu’elle ne l’a pas jointe à sa déclaration de revenus pour 1994.
+c. En outre, même si les formulaires ont été produits, il est admis que l’appelante n’a pas déclaré à la ligne 127 de sa déclaration de revenus pour 1994 qu’elle avait choisi un gain en capital imposable.
+d. Par ailleurs, même si les formulaires ont été produits, il est admis que l’appelante n’a pas réclamé à la ligne 254 de sa déclaration de revenus pour 1994 une déduction pour gains en capital.
+[23] Même si l’appelante avait l’intention de faire un choix en vertu du paragraphe 110.6(19) et a effectivement produit des documents de travail attestant de son intention, elle n’a pas donné suite à ce choix. Compte tenu du fait incontestable que l’appelante n’a pas rempli et joint l’Annexe 3 à sa déclaration de revenus pour 1994, qu’elle n’a pas déclaré de gain en capital imposable et qu’elle n’a pas réclamé de déduction pour gain en capital dans ladite déclaration, je conclus que le ministre a rejeté à juste titre la déduction pour gain en capital qui était réclamée.
+Conclusion
+[24] L’appel est rejeté pour l’ensemble des motifs qui précèdent.
+Signé à Kingston, Canada, ce 9e jour de juin 2017.
+« Rommel G. Masse »
+Le juge suppléant Masse
+RÉFÉRENCE :
+2017 CCI 103
+No DU DOSSIER DE LA COUR :
+2015-5636(IT)I
+INTITULÉ :
+Succession de feu Christina McCullock-Finney c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 31 mars 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT :
+Le 9 juin 2017
+COMPARUTIONS :
+Représentant de l’appelante :
+Jason Finney
+Avocat de l’intimée :
+Me Gabriel Girouard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[Blank/En blanc]
+Cabinet :
+[Blank/En blanc]
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

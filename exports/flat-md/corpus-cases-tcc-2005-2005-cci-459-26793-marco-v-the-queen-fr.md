@@ -1,0 +1,97 @@
+---
+title: "Marco v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26793/index.do"
+last_modified: "2005-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 459"
+citation2: ""
+neutral_citation: "2005 CCI 459"
+decision_date: "2005-07-22"
+language: "fr"
+item_id: "26793"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3473
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:44:43.205000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "09f600fd900c74962418677aafc0bc27ac5e708585c9a464800c369487984d3f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Marco v. The Queen
+
+- Citation: 2005 CCI 459
+- Decision date: 2005-07-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3473, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Marco v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-07-22
+Référence neutre
+2005 CCI 459
+Numéro de dossier
+96-4031(IT)G
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 96-4031(IT)G
+Référence : 2005CCI459
+Date : 20050722
+ENTRE :
+ADEL MARCO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue par conférence téléphonique le 19 juillet 2005.
+Devant : L'honorable juge D. W. Beaubier
+Comparutions :
+Avocat de l'appelant :
+Me George E. H. Cadman, c.r.
+Avocats de l'intimée :
+Me S. Patricia Lee, Me Eric Noble,
+Me Robert Carvalho et Me Gavin Laird
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE ET ORDONNANCE
+[1] Vu les documents déposés, le dossier et les allégations des avocats :
+[2] Il s'agit d'une requête pour que la Cour ordonne à l'appelant de chercher les copies de ses déclarations de revenus pour les années d'imposition 1985, 1986 et 1987 et de les produire comme le lui ont demandé les avocats de l'intimée au cours de l'interrogatoire préalable.
+[3] L'intimée ne les a pas.
+[4] Selon l'interrogatoire préalable, ces documents sont demandés dans le but d'établir si le revenu ou les profits de l'appelant au cours de ces années étaient tels que la perte fiscale découlant de son investissement dans Claridge aurait pu constituer un facteur de motivation ou une intention lorsqu'il a acquis auprès de CMF Enterprises Ltd., le 30 mars 1987, l'option d'acheter une participation dans la société de personnes Claridge, laquelle était propriétaire d'un bien-fonds au Texas.
+[5] L'avocat de l'appelant soulève une objection au motif que la demande n'est pas raisonnable, surtout si l'on considère le temps écoulé depuis ces années.
+[6] La présente requête est raisonnable, si de fait il s'agit d'un critère dans l'interrogatoire d'une partie à l'action.
+[7] La requête porte sur l'intention même de l'appelant lorsqu'il s'est joint à la société de personnes, c'est-à-dire si c'était dans le but de réaliser des profits ou non.
+[8] Il est ordonné à l'appelant de répondre aux questions et de fournir les renseignements ou les déclarations de revenus tel qu'il le lui a été demandé.
+[9] Il est ordonné que l'interrogatoire préalable soit repris aux frais de l'appelant.
+[10] La Cour fixe les frais et dépens relatifs à la présente requête à 800 $, que devra payer sans délai l'appelant à l'intimée.
+Signé à Saskatoon (Saskatchewan), ce 22e jour de juillet 2005.
+« D. W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 22e jour de mai 2006.
+Yves Bellefeuille, réviseur

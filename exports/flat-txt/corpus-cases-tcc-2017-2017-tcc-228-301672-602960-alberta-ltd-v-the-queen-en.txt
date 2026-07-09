@@ -1,0 +1,143 @@
+Title: 602960 Alberta Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/301672/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-228-301672-602960-alberta-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-11-24
+
+# 602960 Alberta Ltd. v. The Queen
+
+- Citation: 2017 TCC 228
+- Decision date: 2017-11-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7820, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+602960 Alberta Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-11-24
+Neutral citation
+2017 TCC 228
+File numbers
+2016-1777(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1777(IT)I
+BETWEEN:
+602960 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard and decision rendered orally from the bench on October 16, 2017, at Lethbridge, Alberta.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Darrell Torris
+Counsel for the Respondent:
+Aminollah Sabzevari
+JUDGMENT
+The appeal from the assessment dated April 9, 2014 against the appellant, for failure to comply with a requirement to pay an amount of $26,932.61 pursuant to subsection 224(4) of the Income Tax Act, is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 24th day of November 2017.
+“Réal Favreau”
+Favreau J.
+Citation: 2017 TCC 228
+Date: 20171124
+Docket: 2016-1777(IT)I
+BETWEEN:
+602960 ALBERTA LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the assessment dated April 9, 2014 made by the Minister of National Revenue (the “Minister”) against the appellant, for failure to comply with a requirement to pay an amount of $26,932.61 pursuant to subsection 224(4) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “Act”).
+[2] In order to establish and maintain the assessment, the Minister relied on the following assumptions of fact:
+a) 600717 Alberta Ltd operating as DT Contracting Service (hereinafter”the tax debtor”) had a corporate income tax debt related to the tax years ending September 30, 2009 and September 30, 2012;
+b) The tax debtor operated a bulk tank truck service;
+c) Dwayne Torris owned 100% of the tax debtor’s shares;
+d) The tax debtor was incorporated in Alberta in 1996 and struck from the registry in 2014;
+e) The Appellant, incorporated in Alberta in 1994, also operates a bulk contract tank truck service under the name of Dash Contracting Services;
+f) Darrell Torris owns 100% of the Appellant’s shares;
+g) Dwayne Torris and Darrell Torris are brothers;
+h) The tax debtor provided services to the appellant as a subcontractor;
+i) As of November 23, 2012, the tax debtor had a corporate income tax debt amounted to $38,595.30;
+j) As of November 23, 2012, the appellant was liable to make payments to the tax debtor;
+k) On November 23, 2012, a requirement to pay under subsection 224(1) of the Act was sent to the Appellant for an amount not exceeding $38,595.30;
+l) On or about January 15, 2013, the appellant responded that the parties were working on terms of settlement with regards to an amount of $26,932.61 it owed to the tax debtor;
+m) The amount of $26,932.61 consists in funds that were advanced from the tax debtor to the appellant in February and August 2010 with no repayment terms and not contingent on the profitability issue;
+n) As of April 9, 2014, the tax debtor had a corporate tax debt that amounted to $46,439.37.
+[3] Mr. Darrell Torris testified at trial. He stated that he is the sole owner of the Appellant which operates a bulk contract tank truck service under the name of Dash Contracting Services. His brother, Dwayne Torris, owns 100% of the shares of 600717 Alberta Ltd. which also operated a bulk contract tank truck service under the name of DT Contracting Service.
+[4] Mr. Darrell Torris explained that in January 2010, the Appellant purchased a used truck at a cost of $260,000 which was supposedly financed through its revolving line of credit and various bank loans although no banking documents were filed as exhibits to confirm this assertion. The witness asserted that the truck purchase was accomplished without any financial assistance from his brother, Dwayne, or from his company.
+[5] Mr. Darrell Torris also explained that he had matrimonial problems in January 2010 which forced him to stay at home for a while and for this reason, he subcontracted the contract he had with Mag Division Ltd. in Grande Prairie, Alberta (the “Grande Prairie Operations”) to 600717 Alberta Ltd. From January to April 2010, the Appellant through its subcontractor, rendered services in the amount of $210,000 to Mag Division Ltd. but Mag Division Ltd. paid the Appellant only $70,000 on an undetermined date. The Appellant’s practice was to pay 600717 Alberta Ltd. for the services it rendered to Grande Prairie operations and to deduct the amount paid as an expense in computing its net income.
+[6] In February and August 2010, 600717 Alberta Ltd. advanced funds in the amount of $26,932.61 to the Appellant. According to Mr. Darrell Torris, the funds advanced did not go towards the down payment on the truck purchased but were rather an investment to help 600717 Alberta Ltd. expand its operations in the region and secure work from a customer, Mag Division Ltd. After the Grande Prairie operations ended in 2010, 600717 Alberta Ltd. continued to work for the Appellant as a subcontractor for the next couple of years and on October 2, 2012, the Appellant made its final payment to 600717 Alberta Ltd. for services rendered.
+[7] Mr. Darrell Torris further explained that for the taxation year ended September 30, 2010, the Appellant had reported a bad debt of $143,489.91 from Mag Division Ltd. Efforts to collect this money continued until November 2011, when it was decided there was no legal recourse left as the company had no assets. Both parties then agreed to write off the debt from their books and the debt was effectively written off the books of both companies as of September 30, 2012. The reason for the delay in formalizing the write-off was, according to Mr. Darrell Torris, due to the fact that both companies were behind in the preparation of their books.
+[8] During cross-examination, Mr. Darrell Torris confirmed that the Appellant received from the Canada Revenue Agency (“CRA”), a requirement to pay to the Receiver General of Canada dated November 23, 2012, all amounts payable to 600717 Alberta Ltd. up to but not exceeding $38,595. At the time of issuance of the requirement to pay, the outstanding balance of 600717 Alberta Ltd.’s loan was $26,933.61.
+[9] On January 15, 2013, Mr. Darrell Torris replied to the requirement to pay on behalf of the Appellant by indicating, among other things, that there was $26,932.61 in disputed or contingent amounts owing to 600717 Alberta Ltd. as of that date and that the parties were working on the terms of settlement. Mr. Darrell Torris’ reply shows that the liability of the Appellant towards 600717 Alberta Ltd. was still outstanding on November 23, 2012 when the requirement to pay was sent to the Appellant. Mr. Darrell Torris alleged that the reference to the terms of settlement was recommended by his accountant and that he should have inserted “zero” as the amount in dispute or contingent which was then outstanding with 600717 Alberta Ltd.
+Position of the Appellant
+[10] The agent for the Appellant alleges that there was no outstanding liability to 600717 Alberta Ltd. on November 23, 2012 when the requirement to pay was issued. Therefore, the Appellant was not required to pay any amounts under subsection 224(1) of the Act and as a result, is not liable for amounts not paid.
+[11] The Appellant’s agent further alleges that, even if the liability was not written off in the Appellant’s accounting records, there was nonetheless no outstanding liability because the terms of the verbal agreement in November 2011 were such that 600717 Alberta Ltd. incurred a share of the losses from the Grande Prairie operations. Since the job was not profitable, 600717 Alberta Ltd. was not entitled to repayment from the Appellant.
+Position of the Respondent
+[12] The Respondent submits that, as of November 23, 2012, 600717 Alberta Ltd. had a corporate income tax debt amounting to $38,595.30 and that the Appellant was liable to make payments to 600717 Alberta Ltd. in the amount of $26,932.61 consisting of funds that were advanced from 600717 Alberta Ltd. to the Appellant in February and August 2010 with no repayment terms and not contingent on the profitability of the Grande Prairie operations.
+[13] With regards to the argument that 600717 Alberta Ltd. incurred a share of the losses of the Grande Prairie operations, the Respondent submits that this does not correspond to the original terms of the loan and that the terms of the loan were renegotiated after January 15, 2013, subsequent to the issuance of the requirement to pay. The Respondent also submits that, if that was the case, 600717 Alberta Ltd. would have written off entirely the bad debt from the Grande Prairie operations. If the repayment to 600717 Alberta Ltd. was contingent on the profitability of that job, the receivables would have been written off sooner, at the same time as the Appellant.
+Legislation
+[14] The following provisions of the Act are relevant for the purpose of this appeal:
+224(1) Garnishment
+Where the Minister has knowledge or suspects that a person is, or will be within one year, liable to make a payment to another person who is liable to make a payment under this Act (in this subsection and subsections (1.1) and (3) referred to as the “tax debtor”), the Minister may in writing require the person to pay forthwith, where the moneys are immediately payable, and in any other case as and when the moneys become payable, the moneys otherwise payable to the tax debtor in whole or in part to the Receiver General on account of the tax debtor's liability under this Act.
+. . .
+224(4) Failure to comply with subsec. (1), (1.2) or (3) requirement
+Every person who fails to comply with a requirement under subsection (1), (1.2) or (3) is liable to pay to Her Majesty an amount equal to the amount that the person was required under subsection (1), (1.2) or (3), as the case may be, to pay to the Receiver General.
+227(10) Assessment
+The Minister may at any time assess any amount payable under
+(a) subsection (8), (8.1), (8.2), (8.3) or (8.4) or 224(4) or (4.1) or section 227.1 or 235 by a person
+(b) subsection 237.1(7.4) or (7.5) or 237.3(8) by a person or partnership,
+(c) subsection (10.2) by a person as a consequence of a failure of a non-resident person to deduct or withhold any amount, or
+(d) Part XIII by a person resident in Canada,
+and where the Minister sends a notice of assessment to that person or partnership, Divisions I and J of Part I apply with any modifications that the circumstances require.
+Analysis and Conclusion
+[15] At all material times, there was no written agreement between the Appellant and 600717 Alberta Ltd. concerning the funds that were advanced to the Appellant in February and August 2010 and the use of these funds by the Appellant. The terms and conditions under which the funds were advanced are not known such as the purpose and use of the funds, the interest rate and the repayment terms, etc.
+[16] The evidence and the conduct of the parties lead me to believe that the funds were advanced by way of loans. Mr. Darrell Torris did not provide any information concerning the real use of the funds advanced by 600717 Alberta Ltd. He alleged that the funds were not applied towards the downpayment of the truck purchased in 2010 but did not explain how the funds invested by 600717 Alberta Ltd. helped 600717 Alberta Ltd. expand its operations in the region and secure work from Mag Division Ltd.
+[17] Mr. Darrell Torris also alleged that the Appellant and 600717 Alberta Ltd. agreed in November 2011 to write off the receivable from Mag Division Ltd., from their books. Mr. Darrell Torris did not provide any evidence of this allegation and the Appellant did not call Mr. Dwayne Torris as a witness either. I draw an adverse inference from the Appellant’s failure to call Mr. Dwayne Torris as a witness to confirm the purpose and use of the funds advanced and the terms of the verbal settlement that supposedly occurred between the parties in November 2011.
+[18] Based on the evidence, I also came to the conclusion that the Appellant still owed $26,932.61 to 600717 Alberta Ltd. on November 23, 2012 when the requirement to pay was sent to the Appellant.
+[19] 600717 Alberta Ltd. wrote off the liability to the Appellant on September 30, 2012 but reported the disposition of an investment loan with a cost base of $26,933 for no proceeds on its tax return for the taxation year ended September 30, 2012 filed on March 5, 2013 which was subsequent to the issuance of the requirement to pay.
+[20] On January 15, 2013, Mr. Darrell Torris replied to the requirement to pay sent to the Appellant. He indicated that there was $26,932.61 in disputed or contingent amount owing to 600717 Alberta Ltd. as of that date, and that the parties were working on the terms of settlement. This shows that the liability was settled by agreement between the two parties sometime between January 15, and March 5, 2013. Therefore, the liability was still outstanding on November 23, 2012, when the requirement to pay was sent.
+[21] For these reasons, the Appellant cannot succeed in its appeal because it has not met its burden of proof showing that it was not liable to 600717 Alberta Ltd. for the amount of $26,932.61, as assumed by the Minister. Accordingly, the appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of November 2017.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2017 TCC 228
+COURT FILE NO.:
+2016-1777(IT)I
+STYLE OF CAUSE:
+602960 Alberta Ltd. And Her Majesty the Queen
+PLACE OF HEARING:
+Lethbridge, Alberta
+DATE OF HEARING:
+October 16, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+November 24, 2017
+APPEARANCES:
+Agent for the Appellant:
+Darrell Torris
+Counsel for the Respondent:
+Aminollah Sabzevari
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

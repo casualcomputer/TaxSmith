@@ -1,0 +1,470 @@
+---
+title: "Farming Income and the AgriStability and AgriInvest Programs Harmonized Guide – Chapter 2 – Your AgriStability and AgriInvest programs"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-04.html
+last_modified: 2026-04-17
+---
+# Farming Income and the AgriStability and AgriInvest Programs Harmonized Guide – Chapter 2 – Your AgriStability and AgriInvest programs
+
+## On this page…
+
+- [Participating in the programs](#ch2p10)
+
+- [Form T1273, Statement A – Harmonized AgriStability and AgriInvest Programs Information and Statement of Farming Activities for Individuals](#ch2p20)
+
+- [Form T1274, Statement B – Harmonized AgriStability and AgriInvest Programs Information and Statement of Farming Activities for Additional Farming Operations](#ch2p30)
+
+- [Completing the forms](#ch2p40)
+
+- [Participant information](#ch2p50)
+
+- [Other farming information](#ch2p60)
+
+- [Identification](#ch2p70)
+
+## Participating in the programs
+
+You can choose to participate in AgriStability only, AgriInvest only, or both programs together, depending on the business risk management needs of your farm.
+
+As a program participant, you are responsible for knowing program deadlines and understanding program policies. For more information, see the program handbooks or visit the [program websites](https://agriculture.canada.ca/en/programs).
+
+### AgriStability
+
+AgriStability is a margin-based program that provides support when you experience larger income losses.
+
+#### Find out if you are eligible
+
+To participate in AgriStability for the 2025 program year, you must:
+
+- file a [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html)
+
+- file a 2025 Canadian income tax return reporting eligible farming business income (loss) by the final filing deadline (except individuals registered under the *Indian Act* farming on a reserve in Canada who are exempt from filing an income tax return)
+
+- meet all program requirements by the deadlines
+
+In addition, you must have:
+
+- enrolled in the program and paid your fee by the deadline shown on your Enrolment Notice
+
+- completed a minimum of six consecutive months of farming activity
+
+- completed a production cycle (for example, growing and harvesting a crop or rearing livestock)
+
+We may waive the requirements to complete six consecutive months of farming activity and a production cycle if you experienced a disaster.
+
+If you are an individual registered under the *Indian Act* farming on a reserve in Canada and you are not required to file an income tax return, contact your [administration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-02.html) for a copy of the form you need to complete and the related guide.
+
+For more information on eligibility, see your program handbook or visit the [program websites](https://agriculture.canada.ca/en/programs).
+
+#### How to participate
+
+Complete and send pages 1 to 7 of your [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) by the deadline. For information on program deadlines, see [Dates to remember](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-03.html).
+
+#### AgriStability benefit calculations
+
+AgriStability is based on margins.
+
+**Program****margin** – your allowable income minus your allowable expenses in the current year adjusted for changes in purchased inputs, receivables, payables, and inventory.
+
+**Reference****margin** – an average of your program margins for the past five years with adjustments made to reflect significant changes to the size or structure of your farm. We drop the highest and lowest years and average the remaining years.
+
+Generally, you will receive an AgriStability payment when your program margin in the current year falls more than 30% below your reference margin. For the 2025 program year only, the compensation rate has increased from 80% to 90%. In 2025, AgriStability covers 90% of your decline that is beyond the 30%.
+
+**Reference margins will be calculated for 2025 as follows:**
+
+- If you participated in the program in any of the past four years, we will calculate your reference margin using the program margins for the previous five years. The highest and lowest program margins are dropped and the remaining three are averaged. This is called an Olympic average.
+
+- If you did not participate in the program in the past four years, we will calculate your reference margin using an average of the three previous program margins. We will continue to calculate your reference margin using three previous program margins until you have five years of historical information on file.
+
+- If you did not have farming activity in one or more of the five previous years, your reference margin will be calculated using an average of the three previous years. If you did not have farming activity in any of thethree previous years, we will create margins for any missing years using industry averages.
+
+For more information on margins and how we calculate AgriStability payments, see your program handbook or visit the program website.
+
+We will send you a calculation of program benefits notice after we process your form, to show you how we calculated your benefit.
+
+#### AgriStability program fee
+
+You must pay an annual fee to participate in AgriStability. The fee is $3.15 for every $1,000 of contribution reference margin protected (based oncoverage of 70% of your margin). The minimum fee is $45.
+
+For more information on program fees and participation rules, see your Enrolment Notice or your program handbook.
+
+#### AgriStability administrative cost share (ACS)
+
+You must pay $55 each year for administration costs.
+
+To participate in AgriStability, you must pay your fee and ACS by the deadline. You can:
+
+- pay electronically through your financial institution (contact them to see if they offer this service)
+
+- send your cheque direct to your administration
+
+For more information, contact your administration.
+
+The electronic payment is not available for producers in British Columbia.
+
+Do not send payments for the AgriStability or AgriInvest programs with your income tax return. The CRA will credit any payments you include with your income tax return to your income tax account.
+
+### AgriInvest
+
+AgriInvest is a self-managed producer-government savings account designed to help you manage small income declines and make investments to manage risk and improve market income.
+
+Each year you can deposit money into an AgriInvest account and receive matching government contributions. You can withdraw the money when you need it.
+
+#### Find out if you are eligible
+
+To participate in AgriInvest for the 2025 program year, you must:
+
+- file a [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html)
+
+- file a 2025 Canadian income tax return reporting eligible farming business income (loss) by September 30, 2026
+
+- meet all program requirements by the deadlines
+
+If you are an individual registered under the *Indian Act* farming on a reserve in Canada and you are not required to file an income tax return, contact your [administration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-02.html) for a copy of the form you need to complete and the related guide.
+
+For more information on eligibility, see the AgriInvest Program Handbook or go to [AgriInvest – Step 1. What this program offers](https://agriculture.canada.ca/en/programs/agriinvest).
+
+#### How to participate
+
+Complete and send pages 1 to 5 of your [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) by the deadline. For information on program deadlines, see [Dates to remember](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-03.html).
+
+#### AgriInvest benefit calculations
+
+AgriInvest deposits are based on a percentage of your allowable net sales. Allowable net sales are your total allowable commodity sales and program payments minus your total allowable commodity purchases and repayment of program benefits.
+
+Once we process your form, we will send you a Deposit Notice showing your deposit options.
+
+## Form T1273, Statement A – Harmonized AgriStability and AgriInvest Programs Information and Statement of Farming Activities for Individuals
+
+As a self-employed farmer, you have to give us a statement that accurately shows your farming activities for the year. Use [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) to report your income and expenses for income tax purposes and to report your farming information for AgriStability and AgriInvest. To get this form, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### Deceased participant
+
+If a deceased individual had farming income or losses, complete[Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) in the name of the deceased individual. Print "Estate" in the name area. Use the income and expenses that you are reporting on the individual's final income tax return for 2025.
+
+Send copies of the individual's death certificate and the probated will (or letters of administration) to the CRA with the final income tax return and to your AgriStability and AgriInvest [Administration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-02.html).
+
+If you also file an optional return for the year of death, such as a return of rights and things, contact your [administration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-02.html) to get the correct form to provide this information to your administration.
+
+Prepare an additional Form T1273 in the name of the surviving spouse or common-law partner if a beneficiary continues the farming business. Contact your administration to get the correct form if a trust has been established for the surviving spouse or common-law partner. Use the income and expenses from the surviving spouses or common-law partner's 2025 income tax return. For more information about applying as a trust, contact your [administration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-02.html).
+
+## Form T1274, Statement B – Harmonized AgriStability and AgriInvest Programs Information and Statement of Farming Activities for Additional Farming Operations
+
+You may have more than one farming operation. For example, you could have a sole proprietorship and be a member of a partnership. If you have more than one farming operation, complete[Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) for one operation and a separate [Form T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html) for each additional operation. To get these forms, go to [Forms and publications](https://www.canada.ca/en/revenue-agency/services/forms-publications.html).
+
+### Additional expenses (partnerships)
+
+Complete [Form T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html) if you have reported a partnership operation on [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) and you want to deduct additional expenses for which the partnership did not reimburse you. For example, you may want to deduct the farming business part of allowable motor vehicle expenses or business-use-of-home expenses.
+
+If you are using Form T1274 to deduct business-use-of-home expenses, follow these steps:
+
+- leave the income areas of page 1 blank
+
+- report your expenses on the appropriate lines of page 2
+
+- enter the total expense from page 2 to line 9968 of page 3
+
+- do not fill in the "Partnership information" area of page 3
+
+- do not make an entry on "Line 9934 – Adjustment to business-use-of-home expenses"
+
+- complete [Form T1175, Farming – Calculation of Capital Cost Allowance (CCA) and Business-use-of-home Expenses](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1175.html)
+
+The amount you claim reduces your net income from farming on line 14100 of your income tax return. However, you cannot use business-use-of-home expenses to create or increase a loss from farming.
+
+The instructions in the note in the "Business-use-of-home expenses" section of [Form T1175](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1175.html) do not apply if you are only claiming business-use-of-home expenses.
+
+## Completing the forms
+
+By completing [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) and [Form T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html), you authorize:
+
+- the CRA to share information from your income tax return with Agriculture and Agri-Food Canada (AAFC)
+
+- AAFC to share the information from your form and any additional information that you provide with:
+
+    - provincial and territorial ministers of agriculture
+
+    - administrators of other federal or provincial farm programs
+
+The information is used for:
+
+- audit
+
+- analysis
+
+- evaluation
+
+- special assistance payments
+
+For more information, see "Confidential information and participant consent" on page 2 of [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html).
+
+The [Privacy Act](https://laws-lois.justice.gc.ca/eng/acts/P-21/index.html) gives you the right to access your personal information held by the Government of Canada and make any corrections to your information.
+
+If you want to access or correct your personal information, contact the access to information and privacy coordinator at:
+
+Access to Information and Privacy Office Agriculture and Agri-Food Canada Tower 7, 10th Floor, Room 130 1341 Baseline Road Ottawa ON K1A 0C5 Email: [aafc.atip-aiprp.aac@agr.gc.ca](mailto:aafc.atip-aiprp.aac@agr.gc.ca) Web page: [Access to information and protection of privacy — Agriculture and Agri-Food Canada](https://agriculture.canada.ca/en/department/transparency/access-information-protection-privacy)
+
+For general inquiries on privacy of personal information, or to make a complaint under the [Privacy Act](https://laws-lois.justice.gc.ca/eng/acts/P-21/index.html), contact the Office of the Privacy Commissioner at:
+
+Office of the Privacy Commissioner of Canada 30 Victoria Street Gatineau QC K1A 1H3 Toll-free telephone: **1-800-282-1376** Telephone: **819-994-5444** Teletypewriter: 819-994-6591 Website: [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/en/)
+
+### Adjustments
+
+Use [Form T1275](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1275.html) to either:
+
+- send additional information about your farm to your administration
+
+- adjust your AgriStability and AgriInvest form information
+
+If you farm in Manitoba, Newfoundland and Labrador, Nova Scotia, New Brunswick, Northwest Territories, or the Yukon, send this form and any attachments to the [federal Administration](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-02.html).
+
+If you farm in British Columbia, send this form and any attachments to either:
+
+- both the federal Administration and your provincial Administration for information affecting AgriInvest(pages 1 to 5 of [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html) and pages 1 to 5 of [Form T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html))
+
+- your provincial Administration only for information affecting AgriStability (page 7 of Form T1273 and page 5 of Form T1274)
+
+For adjustments that affect your net income, send [Form T1-ADJ, T1 Adjustment Request](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1-adj.html), to the CRA.
+
+The following text explains how to complete [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html).
+
+## Participant information
+
+### Participant identification
+
+Enter your first and last name.
+
+Enter your participant identification number (PIN). You can find your PIN on either your:
+
+- AgriStability Enrolment Notice
+
+- AgriInvest Deposit Notice
+
+If you cannot find your PIN, contact your administration.
+
+Enter your social insurance number (SIN).
+
+Enter your business number (BN). If you cannot find your BN, [contact the CRA](https://www.canada.ca/en/revenue-agency/corporate/contact-information.html).
+
+Enter your telephone, cellphone and fax numbers (if applicable).
+
+Enter your email address.
+
+### Farming information
+
+#### Province/Territory of main farmstead
+
+Enter the province or territory where you earned most or all of your gross farming income over the previous five years.
+
+For more information on province of main farmstead and multi-jurisdiction farms, contact your administration or visit the [program websites](https://agriculture.canada.ca/en/programs).
+
+#### Number of years you have farmed
+
+Enter the number of years you have farmed.
+
+#### Final year of farming
+
+Answer "Yes" if 2025 was your final year of farming.
+
+#### Industry code
+
+Enter the **industry code** that best describes your activity.
+
+If more than 50% of your business involves one specific activity, choose the code that identifies that main activity. However, if your business is involved in more than one type of economic activity, and none of the codes make up more than 50% of your business, choose the appropriate level of code from the list. Codes with more than one zero are more general and are at a higher level.
+
+When you are filing your return electronically, you have to use the industry codes available from your tax preparation software.
+
+If you are filing your income tax return on paper, enter the six digit industry code that corresponds to your business listed in the latest version of the North American Industry Classification System (NAICS). To get the full list of NAICS codes and their descriptions, go to [North American Industry Classification System (NAICS)](https://www.statcan.gc.ca/en/subjects/standard/naics/2022/v1/index).
+
+There are thousands of NAICS codes. The following are examples of codes for farming operations.
+
+##### Livestock farm
+
+- 112110 Beef cattle ranching and farming, including feedlots
+
+- 112120 Dairy cattle and milk production
+
+- 112210 Hog and pig farming
+
+- 112310 Chicken egg production
+
+- 112320 Broiler and other meat type chicken production
+
+- 112330 Turkey production
+
+- 112340 Poultry hatcheries
+
+- 112391 Combination poultry and egg production
+
+- 112399 All other poultry production
+
+- 112410 Sheep farming
+
+- 112420 Goat farming
+
+- 112510 Aquaculture
+
+- 112991 Animal combination farming
+
+- 115210 Support activities for animal production
+
+##### Other animal specialties farm
+
+- 112910 Apiculture
+
+- 112920 Horse and other equine production
+
+- 112930 Fur-bearing animal and rabbit production
+
+- 112999 All other miscellaneous animal production
+
+##### Field-crop farm
+
+- 111110 Soybean farming
+
+- 111120 Oilseed (except soybean) farming
+
+- 111130 Dry pea and bean farming
+
+- 111140 Wheat farming
+
+- 111150 Corn farming
+
+- 111190 Other grain farming
+
+- 111211 Potato farming
+
+- 111219 Other vegetable (except potato) and melon farming
+
+- 111330 Non-citrus fruit and tree nut farming
+
+- 111411 Mushroom production
+
+- 111419 Other food crops grown under cover
+
+- 111421 Nursery and tree production
+
+- 111422 Floriculture production
+
+- 111910 Tobacco farming
+
+- 111940 Hay farming
+
+- 111993 Fruit and vegetable combination farming
+
+- 111994 Maple syrup and products production
+
+- 111999 All other miscellaneous crop farming
+
+- 115110 Support activities for crop production
+
+#### Production cycle
+
+Answer "Yes" or "No" to show if you have completed a production cycle on at least one of the commodities you produced.
+
+You must have completed a production cycle to be eligible for AgriStability. We may waive this condition if you experienced a disaster.
+
+A production cycle includes at least one of the following:
+
+- growing and harvesting a crop
+
+- rearing livestock
+
+- buying and selling livestock in a fiscal year for feeding or finishing enterprises
+
+You do not need to complete a production cycle to be eligible for AgriInvest.
+
+### Contact person information
+
+Fill in this area if you give permission to someone else (such as your spouse, common-law partner, or accountant) to provide or ask for more information about your AgriStability and AgriInvest form. We will call your contact person if we have a question. We will send correspondence to both you and your contact person.
+
+Your contact person can:
+
+- ask us questions about your account
+
+- send us information or request adjustments to your information
+
+- ask for copies of letters or statements we sent to you
+
+Your contact person cannot:
+
+- change your address
+
+- change your direct deposit information for AgriStability
+
+- ask for an account transfer form for AgriInvest
+
+Tick the box if you have a contact person.
+
+Enter the first and last name of your contact person, their business name (if applicable), address, and telephone, cellphone, and fax numbers.
+
+Answer "Yes" if you want a copy of your Calculation of Program Benefits mailed to your contact person.
+
+If you leave this area blank, we will contact you directly if we have a question.
+
+### Federal public office holder or employee of Agriculture and Agri-Food Canada (AAFC)
+
+If you or anyone involved in completing this form is a current or former federal public office holder or employee of AAFC, answer "Yes" to this question. If you are a member of a partnership and at least one of your partners is a current or former federal public office holder or employee of AAFC, answer "Yes."
+
+## Other farming information
+
+### Location of main farmstead
+
+See the list of provincial and territorial jurisdictions (for example, rural municipalities, counties, districts) in the [Regional code list](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-15.html).
+
+You do not have to fill in this section if you farm in Newfoundland and Labrador or Northwest Territories.
+
+### Combined operations
+
+AgriStability is a whole farm program. That means we may combine your farm with another farm even if the operations report separately for income tax.
+
+Combining ensures that AgriStability benefits are paid to farms that had decreases in income for reasons beyond their control, not because of business or tax planning decisions.
+
+Generally, you should answer "Yes" to this question if one of the following applies:
+
+- your farm is legally, financially, or operationally dependent on another farming operation
+
+- all or some of the transactions between the farms are not at fair market value
+
+- the farms share the same land or equipment
+
+Individuals in a partnership do not need to be combined.
+
+If your farm has a change in combined operations, enter the operation PIN and tick "Add" or "Remove."
+
+For more information on combining, see your program handbook or visit the program website.
+
+We need the information from all the combined farms before we can process your form.
+
+## Identification
+
+In the following sections of the form, only provide information about your main farming operation (Operation #1). Complete [Form T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html) for each additional farming operation you have. Number each operation in the box at the top right-hand corner of each page.
+
+Tick the "Sole proprietorship" or "Partnership" box.
+
+### Fiscal period
+
+Enter the fiscal period for your operation. Report the beginning and end of the farm's business year by the year, month, and day. Your farm's 2025 fiscal period must end in the 2025 tax year.
+
+### Method of accounting
+
+Use the same method of reporting (cash or accrual) for program purposes as you use for income tax. Enter either:
+
+- code 1 for accrual method
+
+- code 2 for cash method
+
+### Was your farm involved in any of the following
+
+Tick the applicable box(es) if your farm was:
+
+- a member of a feeder association
+
+- in a crop share arrangement as either a landlord or a tenant
+
+For your main farming operation (Operation #1), enter this information on [Form T1273](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1273.html). For your other operations, enter this information on [Form T1274](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1274.html).
+
+- [Previous page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-03.html)
+
+- [Table of contents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-01.html)
+
+- [Next page](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4408/rc4408-05.html)

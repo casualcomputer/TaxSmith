@@ -1,0 +1,170 @@
+---
+title: "Nottawasaga Inn Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64955/index.do"
+last_modified: "2013-11-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 377"
+citation2: ""
+neutral_citation: "2013 TCC 377"
+decision_date: "2013-11-27"
+language: "en"
+item_id: "64955"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5895
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:43:59.767000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "77957a5f5a30b5becb2339b9d01275cd61b2d1ff3cd39da2bc8889b83042917e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nottawasaga Inn Ltd. v. The Queen
+
+- Citation: 2013 TCC 377
+- Decision date: 2013-11-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5895, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nottawasaga Inn Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-11-27
+Neutral citation
+2013 TCC 377
+File numbers
+2012-4461(IT)I
+Judges and Taxing Officers
+Frank J. Pizzitelli
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4461(IT)I
+BETWEEN:
+NOTTAWASAGA INN LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 18, 2013, at Toronto, Ontario
+Before: The Honourable Justice F.J. Pizzitelli
+Appearances:
+Counsel for the Appellant:
+Martha MacDonald
+Geoffrey Hunniset
+Counsel for the Respondent:
+Rita Araujo
+____________________________________________________________________
+JUDGMENT
+This Court has no jurisdiction to hear a challenge to an assessment of interest on the basis of challenging the underlying tax assessment when there exists a nil assessment of taxes.
+The appeal of the reassessment of arrears interest for the Appellant’s 2007 taxation year is dismissed.
+Signed at Ottawa, Canada, this 27th day of November 2013.
+“F.J. Pizzitelli”
+Pizzitelli J.
+Citation: 2013TCC377
+Date: 20131127
+Docket: 2012-4461(IT)I
+BETWEEN:
+NOTTAWASAGA INN LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Pizzitelli J.
+[1] The Appellant appeals a reassessment of arrears interest of $6,027 for the 2007 taxation year on the basis the Minister erred in denying the Appellant the full amount of capital cost allowance claimed in its initial tax filing due to the Ministers reclassification of part of its capital costs added in 2007 from Class 13 to Classes 1 and 8, thereby reducing its capital cost allowance by an amount resulting in taxable income of $144,166 on which such interest was calculated. It should be noted that this appeal is in the context of the Minister’s subsequent reassessment having resulted in nil taxes payable as a result of the Appellant’s request to the Minister to apply non-capital losses to the extent of $144,166 to its 2007 taxation year following the initial reassessment.
+[2] Rather than proceed with the hearing the parties agreed that the Court should consider the jurisdictional issue raised by the Respondent, namely, whether the Appellant can challenge the arrears of interest by asserting that the underlying tax amount was incorrectly calculated by the Minister in a nil tax assessment situation.
+Background Facts
+[3] By way of background, the Appellant is generally in the business of operating hotel and recreational facilities, including twin ice-rinks, in Alliston, Ontario, in effect leasing the buildings from which it operates from a sister corporation having the same parent corporation. The Appellant added the sum of $1,609,215 to its Class 13 pool of assets in respect of which it claimed $160,922 in capital cost allowance in 2007. The Appellant also claimed other expenses and in aggregate the Appellant reported nil income for the 2007 taxation year.
+[4] The Minister initially assessed the Appellant as filed for the 2007 taxation year and issued a Notice dated February 19,2008 that no tax was payable. The Minister reassessed the Appellant on February 14, 2011 to deny various other expenses totalling $77,028.33 as well as reduced its capital cost allowance by $67,138 due to the aforementioned reclassification of capital assets into different classes that had a lower rate of depreciation. The net result of this reassessment was to increase the Appellant’s taxable income by $144,166 and require payment of arrears interest of $6,027.
+[5] On April 20, 2011 the Appellant filed a request that a loss carry-back of $144,166 from the 2010 taxation year be applied against its 2007 taxation year reducing the taxable income to nil.
+[6] On May, 2011 the Appellant filed a Notice of Objection in respect of its 2007 taxation year, obviously in reference to the Reassessment of February 14, 2011 before the Minister had responded to its request to amend its 2007 taxation year by applying the non-capital loss carry-back. By letter dated August 8, 2012, the Minister advised the Appellant that she would uphold the income inclusion of $144,166 but give effect to the Appellant’s request to apply the offsetting non-capital loss in order to reduce tax payable for 2007 to $nil and advised a reassessment would follow. Such reassessment was issued on September 26, 2012 showing nil taxes payable but making no adjustment to the arrears interest of $6,027 earlier reassessed. On November 8, 2012 the Appellant filed a Notice of Appeal as amended on March 11, 2013 pursuant to which the Appellant appeals the arrears interest only but on the basis the Minister erred in reclassifying the class of capital assets from Class 13 to Class 1 or 8.
+[7] I take note of the fact that there was no need on the Appellant’s part to file a specific notice of objection to the second reassessment dated September 16, 2012 as pursuant to paragraph 165(7) of the Income Tax Act (the “Act”) the Appellant can file an appeal directly in these circumstances without filing another objection. It should also be noted that the Appellant amended its initial Notice of Appeal to change the relief requested from allowing it to appeal the reclassification of capital assets, thus challenging the taxes assessed, as well as to appeal arrears interest to simply challenging the arrears interest, but on the basis the Minister erred in her reclassification thus in effect setting the wrong tax amount on which arrears interest was calculated.
+Position of the Parties
+[8] The Respondent takes the position that, although the Appellant has the right to challenge the calculation of arrears interest, it cannot challenge the underlying tax amount on which arrears interest is based as the Minister issued a nil assessment in regards to taxes payable. In effect, says the Respondent, the Appellant cannot challenge indirectly the tax amount reassessed on a nil assessment in order to reduce its arrears interest because it could not challenge its tax amount directly due to the nil assessment of taxes nor because it otherwise has no right of appeal against such tax amount which it does not directly challenge.
+[9] The Appellant takes the position that a taxpayer can challenge taxes, interest or penalties and, since the result of the Second reassessment was to uphold arrears interest, it can challenge arrears interest notwithstanding that there may have been a nil assessment as regards taxes owing. It follows, says the Appellant, that since any assessment of interest is still an assessment under the Act that enables the taxpayer to object to and appeal by challenging the underlying tax assessment on which interest is calculated.
+[10] It should be noted that the Appellant conceded that notwithstanding the arrears interest reassessed of $6,027, it is only that portion of such amount applicable to the reclassification of the capital assets that the Appellant challenges, thereby agreeing that any such interest applicable to the taxable income resulting from the Ministers disallowance of those other expenses totalling $70,028.33 are valid. The Appellant estimates that about one half of the above interest amount is in issue.
+[11] In effect what the Court is being asked to decide is whether a taxpayer who is assessed as owing nil taxes but owing arrears interest can challenge the underlying basis of the tax amount owing which in turn forms the basis for the calculation of arrears interest. It should be noted here that although the Taxpayer was found to owe nil taxes, the result of nil taxes was entirely due to the carry-back of non-capital losses requested by the Appellant and permitted by the Minister, and accordingly under Subsection 161(7) of the Income Tax Act the tax amount for the calculation of such interest under Subparagraph 161(7)(a)(iv) does not net out loss carry-backs. In essence, the arrears interest is calculated on the taxes reassessed as owing before any credit for loss carry-back which the Appellant says was as a result of the Minister’s error in reclassification of the capital assets.
+The Law
+[12] The Appellant relies on the wording of Subsections 152(1) and (4) of the Act in support of its position that an assessment or reassessment can be for any or all of taxes payable, interest or penalties.
+[13] Subsection 152(1) requires the Minister to examine a taxpayer’s return of income for a taxation year and “assess the tax for the year, the interest and penalties if any”.
+[14] Subsection 152(4) effectively allows the Minster to assess, reassess or make additional assessments “of tax for a taxation year, interest or penalties”.
+[15] Accordingly, argues the Appellant, an assessment or reassessment may be for taxes payable, interest or penalties or a combination of them and the right of a taxpayer to object to an “assessment” or “reassessment” under section 165 or appeal same under Section 169, means that such rights apply to any taxes payable, interest or penalties or combination of both. Thus, argues the Appellant, a nil assessment of taxes payable does not preclude an objection or appeal to any interest assessed or reassessed, nor to challenging the underlying tax amount from which the interest calculation flows.
+[16] The Respondent does not disagree that a nil assessment of taxes does not preclude the Appellant from objecting or appealing an assessment or reassessment of interest, but that any such appeal is limited to challenging the correctness of the calculation of interest by the Minister as required under the Act, namely pursuant to Section 161 of the Act herein, and not in challenging the underlying taxable income resulting from a nil assessment in accordance with the Act. As mentioned earlier, while the Reassessment following the Appellant’s request to apply loss carry-backs of $144,166 resulted in no taxes payable or a nil assessment of taxes, the tax amount for the purposes of calculating interest pursuant to subparagraph 161(7)(a)(iv) of the Act was still $144,166 and not nil. Such subparagraph reads as follows:
+Subsection 161(7) For the purposes of computing interest under subsection 161(1) or (2) on tax or a part of an instalment of tax for a taxation year…..
+(a) the tax payable under this Part….by the taxpayer for the year is deemed to be the amount that it would be if the consequences of the deduction, reduction or exclusion of the following amounts were not taken into consideration:
+(iv) any amount deducted … under section 111 in respect of a loss for a subsequent taxation year,
+[17] The Appellant argues that the fact an assessment would include an assessment of interest as well as nil assessment for taxes payable would still entitle it to challenge the underlying basis of the tax amount determined under subsection 161(7), namely on the basis the Minister erred by reclassifying the capital assets into categories resulting in less depreciation for the year.
+Analysis
+[18] It would be useful to clarify what is meant by a “nil assessment” and consequently by an “assessment” as there appears to be inconsistent usage of these terms.
+[19] A nil assessment does not in my mind describe circumstances where no total taxes, interest and penalties are assessed. It more properly describes the situation where no taxes are claimed. As stated by Noel J.A. of the Federal Court of Appeal in Interior Savings Credit Union v R, 2007 FCA 151 at paragraphs 16 and 17:
+16…. The expression nil assessment does not appear anywhere in the Act. When dealing with a situation where a person owes no taxes, the Act authorizes the Minister to issue a notice “that no tax is payable”. (subsection 152(4)).
+17. Nonetheless, the term nil assessment is often used in the case law to identify an assessment which cannot be appealed. There are two reasons why a so-called nil assessment cannot be appealed. First, an appeal must be directed against an assessment and an assessment which assessed no tax is not an assessment (see Okalta Oils Ltd. v. Minister of Nation Revenue (1955), 55 DTC 1176 (SCC) at p. 1178: “Under these provisions, there is no assessment if there was not tax claimed”). Second there is no right of appeal from a nil assessment since: “Any other objection but one related to an amount claimed [as taxes] was lacking in the object giving rise to the right of appeal…” (Okalta Oils, supra, at p. 1178).
+[20] It is clear from both the Statutory wording of subsection 152(4) and the Supreme Court of Canada’s decision that a nil assessment refers to either the notice that no taxes are payable issued by the Minister or in case law to an assessment which cannot be appealed because no taxes are claimed. In Okalta Oils there was no assessment of interest or penalties in issue. Also, in Faucher c R 94 DTC 1575, also referred to in Interior Savings Credit Union (supra), Lamarre Proulx. J. stated at page 1579 that “there is no appeal from an assessment of a nil amount, or from an assessment of which a reduction is not requested, a case also involving only the computation of no income tax.
+[21] It is also clear that where there are no assessments of tax, interest or penalty, as was the case in Interior Savings, supra, that no grounds exist for an appeal at all, let alone as a result of the nil assessment of taxes, for, as Noel J. A. stated in paragraph 15:
+… It follows that unless the taxpayer challenges the taxes interest or penalties assessed for the year, there is nothing to appeal and indeed no relief which the Tax Court can provide (Chagnon v. Norman, (1989)16 SCR 661 at 662).
+[22] However, it appears to be technically incorrect to call such scenario where there are no grounds for appeal whatsoever as a nil assessment, as nil assessment appears to only refer to the tax assessment portion. The Courts have after all recognized that an assessment for taxes is distinct from an assessment of interest or penalties as well. As Rip C. J. stated in McFadyen v R 2008 DTC 4513, at par 19:
+Subsection 152(1) of the Act provides for the Minister to assess tax for the year as well as interest and penalties. An assessment of interest is distinct from an assessment of tax, it is the result of a tax assessment.
+[23] This is consistent with the language of subsections 152(1) and (4) of the Act that speaks of the obligation or authority of the Minister to assess or reassess taxes, interest or penalties as the Appellant pointed out above.
+[24] It follows then that this Court has jurisdiction to entertain an appeal from an assessment of interest even where there has been a nil assessment for taxes payable which is not in dispute.
+[25] As the Respondent has argued however, this Court has limited jurisdiction in dealing with appeals to interest assessments. In Moledina c R 2008 CTC 2139, Bowman C.J. confirmed the limits of this Court’s jurisdiction in appeals of interest assessments at paragraph 5:
+… It is appropriate however, that at this point I deal briefly with the matter of this Court’s jurisdiction in respect of interest. It is sometimes said, inaccurately in my view, that we have no jurisdiction when a taxpayer objects to the imposition of interest on income taxes. This statement is too broad. If the issue in an appeal is whether the interest was properly calculated, or whether it was imposed in accordance with the provisions of the Act, patently the Tax Court has jurisdiction to hear such an appeal….
+[26] These limitations on the Court’s jurisdiction regarding interest assessments was echoed in J Cloud v Canada 95 DTC 547 where Garon C.J. found the interest assessed was upheld because “the appellant was not able to establish that the interest levied by the reassessment of January 2, 1990, was wrongly calculated mathematically speaking or computed by reference to erroneous principles.”
+[27] Such a limit on jurisdiction clearly suggests that the Court has no jurisdiction to hear a challenge to the underlying taxable income calculated by the Minister on which interest is calculated in accordance with the Act when there is no appeal against taxes assessed or a nil assessments of tax.
+[28] There has been no claim by the Appellant that the Minister calculated the interest in dispute incorrectly based on the deemed taxable amount of income of $144,166 pursuant to subparagraph 161(7)(a)(iv) above discussed. The Appellant’s only claim is that the taxable amount of income was in error due to the Minister’s error in reclassifying capital assets of the Appellant.
+[29] Moreover, I cannot accept the Appellant’s position for two additional reasons which support the prohibition against challenging an underlying tax assessment in a nil assessment scenario.
+[30] Firstly, the Appellant was reassessed so as to have his taxable income increased to $144,166 as a result of the Minister’s reclassification of capital property. The Appellant could have chosen to challenge such taxable amounts by not having asked the Minister to allow it to carry-back non-capital losses but did not. Instead, it asked the Minister to apply non-capital loss carry-backs of like amount to extinguish the results of such reassessment resulting in a nil balance of taxes claimed or nil assessment of taxes. The Minister obliged the Appellant’s request and issued a new reassessment to that affect. The law, as expressed above, is clear that the Appellant cannot appeal a nil assessment of taxes and the Appellant only appeals the distinct interest assessment but on the basis the Minister erred in arriving at the tax assessment.
+[31] In Faucher, supra, however Lamarre Proulx J. stated at par 28 and 29:
+28…it has long been established that in tax law there is no right of appeal from an assessment unless a reduction in the amount of the assessment is in dispute.
+29. There is no right of appeal from presumed or alleged errors on the part of the Minister in computing income tax due unless the result of that computation is in question. The right of appeal exists in respect of the result of the calculation of income tax due, not the manner in which the calculation is made.
+[32] Here, the Appellant did not choose to continue an appeal for a reduction in the amount of taxes due after the first reassessment. By requesting the loss carry-back to reduce its income tax burden to nil, it chose not to pursue a reduction in such taxable amount. I do not agree with the Appellant’s position that pursuing a reduction in its interest assessed is the same as pursuing a reduction of taxes, a distinct assessment.
+[33] Secondly, by requesting the loss carry-back leading to the second reassessment which was a nil assessment of taxes, the Appellant did not have the benefit of the capital cost allowances it initially claimed. While the Respondent has acknowledged that the Appellant would not be prohibited from appealing the Minister’s reclassification of capital property in future years when it had a positive taxable amount, the fact is at present there is no such deduction claimed or utilized by the taxpayer. The result of the loss carry-back and the reassessment issued from it is that there were no taxes to pay and no deductions given for the portion of the Class 13 capital assets initially filed for. The deduction does not exist as this point in time. How then can the Appellant ask that such deduction be treated at existing for the purpose of reducing its interest when it does not exist for the purpose of reducing its income? It cannot. That would give a taxpayer the right to appeal “from presumed or alleged errors on the part of the Minister in computing income tax due”, as Lamarre Proulx J. stated in Faucher above, when the result of the tax computation is not in question. Frankly, there is not even any guarantee the Appellant will ever claim or be able to utilize such deduction in the future at this point.
+[34] The other result of the reassessment resulting from the loss carry-back utilization is that the taxable amount of income for purposes of interest calculation pursuant to subparagraph 161(7)(a)(iv) above would exclude the amount of such loss carry-back and so it is clear the Minister calculated interest in accordance with the Act.
+[35] The Appellant has argued in effect that even if its is successful in challenging the reclassification in the future, that it will be penalized due to the fact it has no remedy to obtain a refund of the arrears interest assessed that is in issue here. This may well be true and it is unfortunate for the Appellant that the Act gives no relief in the event of future success, but the Appellant was the one who chose to pursue the path of requesting the application of loss carry-backs to his 2007 taxation years, presumably to eliminate payment of taxes or reduce interest on outstanding balances at such time, rather than pursue the appeal on that issue at this time so must accept the consequences of its decision.
+[36] I find that the Court has no jurisdiction to hear a challenge to an assessment of interest on the basis of challenging the underlying tax assessment when there exists a nil assessment of taxes. Accordingly, I have no choice but to dismiss this appeal as there was no other basis given in the Notice of Appeal for challenging the calculation of interest.
+Signed at Ottawa, Canada, this 27th day of November 2013.
+“F.J. Pizzitelli”
+Pizzitelli J.
+CITATION: 2013TCC377
+COURT FILE NO.: 2012-4461(IT)I
+STYLE OF CAUSE: NOTTAWASAGA INN LTD. AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 18, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice F.J. Pizzitelli
+DATE OF JUDGMENT: November 27, 2013
+APPEARANCES:
+Counsel for the Appellant:
+Martha MacDonald
+Geoffrey Hunnisett
+Counsel for the Respondent:
+Rita Araujo
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Martha MacDonald
+Geoffrey Hunnisett
+Firm: Osler, Hoskin & Harcourt LLP
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

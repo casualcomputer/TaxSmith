@@ -1,0 +1,183 @@
+---
+title: "Manufax Holdings Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27048/index.do"
+last_modified: "2005-10-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 645"
+citation2: ""
+neutral_citation: "2005 TCC 645"
+decision_date: "2005-10-03"
+language: "en"
+item_id: "27048"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 593
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:16:44.698000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6db42c6f427864d91343eda2d8b1529531f188fb848d6075f7b422dcd7f3dd89"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Manufax Holdings Inc. v. The Queen
+
+- Citation: 2005 TCC 645
+- Decision date: 2005-10-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 593, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Manufax Holdings Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-03
+Neutral citation
+2005 TCC 645
+File numbers
+2004-4547(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4547(IT)I
+BETWEEN:
+MANUFAX HOLDINGS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+N. A. Johnson Ltd. (2004-4548(IT)I) on September 7, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Agent for the Appellant:
+N. A. Johnson
+Counsel for the Respondent:
+Fiona Mendoza
+____________________________________________________________________
+JUDGMENT
+The appeal from the notice of assessment dated May 10, 2004 made under the Income Tax Act is dismissed.
+Signed at Ottawa, Canada this 3rd day of October 2005.
+"Gerald J. Rip"
+Rip J.
+Docket: 2004-4548(IT)I
+BETWEEN:
+N. A. JOHNSON LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+ManufaxHoldings Inc. (2004-4547(IT)I) on September 7, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Agent for the Appellant:
+N. A. Johnson
+Counsel for the Respondent:
+Fiona Mendoza
+____________________________________________________________________
+JUDGMENT
+The appeal from the notice of assessment issued on May 10, 2004 made under the Income Tax Act is dismissed.
+Signed at Ottawa, Canada this 3rd day of October 2005.
+"Gerald J. Rip"
+Rip J.
+Citation: 2005TCC645
+Date: 20051003
+Docket: 2004-4547(IT)I
+BETWEEN:
+MANUFAX HOLDINGS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2004-4548(IT)I
+AND BETWEEN:
+N. A. JOHNSON LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip J.
+[1] Manufax Holdings Inc. ("Manufax") and N. A. Johnson Ltd. have appealed assessments for penalties issued pursuant to subsection 227(9) of the Income Tax Act ("Act") for failure to remit on time to the Receiver General for Canada amounts withheld pursuant to subsection 153(1) of the Act.[1]
+[2] On April 30, 2004 each of Manufax and N. A. Johnson Ltd. made payments of salary, in fact, bonuses, to members of the Johnson family. In accordance with subsection 153(1), Manufax withheld $111,113 and N. A. Johnson Ltd. withheld $50,000 from the salaries and on the same day, April 30, 2004, each appellant mailed the appropriate cheque and relevant remittance form to the Canada Customs and Revenue Agency, Technology Centre, 875 Heron Road, Ottawa, Ontario, K1A 1B1, as printed on CCRA's address form.
+[3] The time within which the appellants were to remit the amounts withheld to the Receiver General is set out in subsection 108(1.1) of the Income Tax Regulations ("Regulations"). In the case at bar, the date is on or before the third day, not including a Saturday or holiday, after April 30, 2004.[2]
+[4] The appeals were heard on common evidence. The witness for the appellants was Mr. N. A. Johnson who is president of both corporations. N. A. Johnson Ltd. is a subsidiary of Manufax. Both appellants are associated with another corporation, Johnson Industries Ltd.
+[5] Mr. Johnson testified that his wife deposited two envelopes containing the source deduction remittances, one for each appellant, in a mailbox on April 30, 2004. Nothing more was heard from the CCRA until Mr. Johnson or his representative received a telephone call that the remittances arrived late. Mr. Johnson stated that the remittances were enclosed in envelopes provided by the tax authorities. The envelopes also included the address forms provided to each appellant by the CCRA which was similar to previous years. The method of remitting the source deductions, that is, by mail sent on the day of the payment of the salaries, was consistent with the practice used by each of the appellants in previous years. Mr. Johnson stated that he was told by an official of the CCRA that the remittances should have been in the hands of the CCRA on May 3, 2004.
+[6] Apparently, according to the affidavits of Dianne Martineau, a litigation officer with the CCRA in Vancouver, the remittances were received by the CCRA on May 7, 2004. According to Ms. Martineau the due date for the remittances of each appellant was May 3, 2004.
+[7] In the Minister's view each of the appellants was a "prescribed person", as defined by subsection 110 of the Regulations. Subsection 110(1) of the Regulations describes who are "prescribed persons" for the purposes of subsection 153(1) of the Act:
+(a) an employer who is required, under subsection 153(1) of the Act and in accordance with paragraph 108(1.1)(b), to remit amounts deducted or withheld; and
+(b) a person or partnership who, acting on behalf of one or more employers, remits the following amounts in a particular calendar year and whose average monthly remittance, in respect of those amounts, for the second calendar year preceding the particular calendar year, is equal to or greater than $50,000,
+(i) amounts required to be remitted under subsection 153(1) of the Act and a similar provision of a law of a province that imposes a tax on the income of individuals, where the province has entered into an agreement with the Minister of Finance for the collection of taxes payable to the province, in respect of payments described in the definition "remuneration" in subsection 100(1),
+(ii) amounts required to be remitted under subsection 21(1) of the Canada Pension Plan, and
+(iii) amounts required to be remitted under subsection 82(1) of the Employment Insurance Act or subsection 53(1) of the Unemployment Insurance Act.
+[8] Where a "prescribed person" makes a remittance under Part I of the Act, subsection 153(1) provides that "the remittance shall be made to the account of the Receiver General at a designated financial institution", that is, a bank or similar institution.
+[9] Mr. Johnson testified that he was never advised that the appellants had to make accelerated remittances, that is, within three days of the end of a period in paragraph 108(1.1)(b) of the Regulations, as prescribed persons and therefore remitted the source deductions on the same basis as it had in previous years.
+[10]Mr. Johnson believes that in 2002 N. A. Johnson Ltd. made a source deduction remittance of $50,000 and Manufax "probably" made a source deduction payment of $100,000 to the CCRA.
+[11]In general source deductions are to be remitted to the Receiver General on or before the 15th day of the month following the month the payment was withheld: subsection 108(1) of the Regulations. However, paragraph 108(1.1)(b) of the Regulations provides that where the average monthly withholding amount of an employer for the second calendar year preceding a particular calendar year is:
+(b) equal to or greater than $50,000, all amounts deducted or withheld from payments described in the definition "remuneration" in subsection 100(1) that are made in a month in the particular calendar year by the employer shall be remitted to the Receiver General on or before the third day, not including a Saturday or holiday, after the end of the following periods in which the payments were made, ...
+(iv) the period beginning on the 22nd day and ending on the last day of the month.
+[12]When mailing the remittances by regular mail, Mr. Johnson thought the remittances would be received by the CCRA on the 3rd or 4th of May. He knew that the remittances could be made at a financial institution but considered payment to a financial institution as costly and unnecessary. Since the CCRA mailed the appellants the remittance and address forms and return envelopes he simply followed the instructions received in the mail from the CCRA and mailed the remittances to the CCRA. "Why give us an envelope if we should pay at a financial institution?", he asked.
+[13]Mr. Johnson interprets the provision in subsection 108(1.1) of the Regulations that the source deductions be remitted "on or before the third day, not including a Saturday or holiday" to mean that one does not include Saturday, Sunday or holidays in the computation of the three days, that is, the three days mean three business days. I note that even if I accept Mr. Johnson's argument with respect to this issue, the remittances would still have been received by the CCRA more than three days; May 7, 2004 is more than three business days after April 30, 2004. In any event, a reading of subsection 108(1.1) indicates that only if the third day is a Saturday or holiday will it not be counted. Mr. Johnson's interpretation is wrong.
+[14]Mr. Azmina Hirji, a litigation officer with the CCRA, worked on the Manufax file and drafted the reply to Manufax's notice of appeal. Mr. Hirji testified that he reviewed the computer printout of the relevant records of the CCRA and determined that the remittance from Manufax was received by the CCRA on May 7, 2004.
+[15]Mr. Hirji produced a batch of documents that included copies of the remittance cheque and the remittance form sent by Manufax to the CCRA as well as the stamps of the CCRA indicating receipt on May 7, 2004. Attached to Ms. Martineau's affidavit with respect to N. A. Johnson Ltd. was similar documentation that N. A. Johnson Ltd.'s remittance was received on May 7, 2004.
+[16]Mr. Johnson questioned that there was no way for him to know when the remittances were actually received. To be quite frank, Mr. Johnson does not accept the word of Ms. Martineau or the method of recording receipt of mail by the CCRA. However, Mr. Johnson offered no evidence to dispute Ms. Martineau's statements or Mr. Hirji's testimony that the remittances were received by the CCRA on May 7, 2004.
+[17]Paragraph 248(7)(b) of the Act provides that a remittance or payment of an amount under the Act that is payable by a corporation is deemed to have been made on the day on which the payment is received by the Receiver General. I accept the affidavit evidence of Ms. Martineau and the testimony of Mr. Hirji that the remittances were received on May 7, 2004. Thus, the remittances were made on May 7, 2004.
+[18]Mr. Johnson argued that the average monthly source deductions for Manufax were $9,259 and for N. A. Johnson Ltd. was $4,067. He is of the view that the average monthly withholding amount is to be averaged over twelve months and thus the average monthly amounts withheld by the appellants were less than $10,000. This is not an unreasonable assumption. If Mr. Johnson is correct, he
+said, then the appellants had until May 10 to remit. However, counsel for the respondent referred to paragraph 108(1.2)(b) of the Regulations which provides as follows:
+For the purposes of this section, average monthly withholding amount, in respect of an employer for a particular calendar year, is the quotient obtained when ...
+is divided by
+(b) the number of months in the particular year, not exceeding twelve, for which such amounts were required to be remitted by the employer and, where the employer is a corporation, by each corporation associated with it in a taxation year of the employer in the second calendar year following the particular year.
+In counsel's view since the quotient in both appeals at bar is one, that is the number of months a payment was made, the average monthly withholding amount is based on the one month the payments were made. I agree.
+[19]There was also evidence, namely a letter from the CCRA to Johnson Industries Ltd., dated November 17, 2003, that the CCRA had determined that Johnson Industries Ltd. will become a threshold employer for remitting amounts withheld at source in 2004 and that beginning January 1, 2004 when a payday occurs the CCRA must receive the remittances within three days after the last day of the period set out in paragraph 108(1.1)(b) to the Regulations. The CCRA also advised that such employers must make the remittances at a financial institution and not at CCRA offices. Mr. Johnson was unable to provide evidence of the amounts of source deductions remitted to the Receiver General by Johnson Industries Ltd., a corporation associated with the appellants, and how this may impact on the formula in paragraph 108(1.2)(b) insofar as the appellants are concerned.
+[20]Mr. Johnson suggested that the appellants were induced to mail the remittances rather than make payment at a financial institution since the CCRA mailed remittance forms and envelopes to the appellants. By providing the documents to the appellants the CCRA induced them to mail the remittances.
+[21]I cannot agree with this submission. Mr. Johnson is a sophisticated person; he is a professional engineer. He was aware that a financial institution's services could be used to make the remittances. He controlled the appellants. Other corporations he owned did make remittances at financial institutions. The CCRA did not induce the appellants to make a mistake of law nor was the mistake impossible for the appellants to avoid.[3]
+[22]The appeals are dismissed.
+Signed at Ottawa, Canada this 3rd day of October 2005.
+"Gerald J. Rip"
+Rip J.
+CITATION: 2005TCC645
+COURT FILE NOS.: 2004-4547(IT)I and 2004-4548(IT)I
+STYLE OF CAUSE: MANUFAX HOLDINGS INC. AND HER MAJESTY THE QUEEN and
+N. A. JOHNSON LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 7, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT: October 3, 2005
+APPEARANCES:
+Agent for the Appellant:
+N. A. Johnson
+Counsel for the Respondent:
+Fiona Mendoza
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] See following paragraph. Subsection 227(9) imposes a penalty of 10% of the amount not paid on time. The penalties assessed were $3,318.39 to Manufax and $1,518.19 to N. A. Johnson. However, a CCRA press release of June 20, 2003 states that the 10% penalty would be replaced with a graduated penalty so that penalties of 3% would be applied to remittances that are late 3 days or less, 5% for remittances that are 4 or 5 days late, 7% for remittances that are 6 or 7 days late, and 10% for remittances that are 8 or more days late. Apparently the CCRA has implemented the proposed change in assessing the appellants by applying subsection 230(3.1) of the Act, the so-called Fairness Provision.
+[2] "Holiday" is defined in subsection 35(1) of the Interpretation Act (R.S., c. I-23) to include a Sunday.
+[3] See Corp. de l'École Polytechnique v. Canada, 2004 FCA 127 at paragraph 38.

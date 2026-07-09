@@ -1,0 +1,181 @@
+---
+title: "Chandler v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26109/index.do"
+last_modified: "2003-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 34"
+citation2: ""
+neutral_citation: "2003 TCC 34"
+decision_date: "2003-05-13"
+language: "en"
+item_id: "26109"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4170
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:10:25.424000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d1bcf7ceb095d84423b7ebd657d0fc8dd1fbe545b91ac829a8ce20ed419c3ced"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chandler v. The Queen
+
+- Citation: 2003 TCC 34
+- Decision date: 2003-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4170, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chandler v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-13
+Neutral citation
+2003 TCC 34
+File numbers
+2002-2078(IT)I
+Judges and Taxing Officers
+Michael J. Bonner
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2078(IT)I
+BETWEEN:
+PAUL CHANDLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 15, 2003, at Victoria, British Columbia,
+Before: The Honourable Judge Michael J. Bonner
+Appearances:
+Counsel for the Appellant:
+D. Laurence Armstrong
+Counsel for the Respondent:
+Victor Caux
+____________________________________________________________________
+JUDGMENT
+The appeal from an assessment of income tax for the 1999 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reassessment to delete the amount in issue.
+Signed at Toronto, Ontario, this 13th day of May 2003.
+"Michael J. Bonner"
+T.C.J.
+Citation: 2003TCC34
+Date: 20030513
+Docket: 2002-2078(IT)I
+BETWEEN:
+PAUL CHANDLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bonner, T.C.J.
+[1] This is an appeal from an assessment of income tax for the Appellant's 1999 taxation year. The assessment was made on the basis that during the year a benefit was conferred on the Appellant by Charter Telecom Inc. (Charter). The Appellant owned 60% of the shares of Charter. It was the position of the Minister of National Revenue (the "Minister") that the value of the benefit was to be included in the Appellant's income pursuant to subsection 15(1) of the Income Tax Act (the "Act"). The benefit is said to have been conferred when Charter erected a building at its own expense on land which belonged to the Appellant. The cost to Charter of the building was $31,707.
+[2] In 1999, the Appellant was beneficial owner of a 56-acre parcel of land (the Impala property) located about 15 miles outside the City of Victoria. The Appellant resided in a house located on that property.
+[3] Charter was formed in April 1997 to carry on the business of designing and selling computer networks. Charter required an office for use in carrying on its business. The space was required for general corporate purposes including meeting with clients and for the assembly and temporary storage of network components. For such purposes, Charter used a barn located on the Impala property but space in the barn was rather primitive and access to the structure was poor.
+[4] Charter therefore hired a builder to design and build a suitable structure on the Impala property. Work commenced on the new building which was intended to consist of two stories with a garage at ground level and office space above. Construction work stopped before the drywall and insulation were installed. The work, as far as it went, was carried out at Charter's expense.
+[5] The Respondent pleaded in the Reply to the Notice of Appeal that in assessing the Appellant the Minister relied upon assumptions of fact which included the following:
+b) in 1999, the Appellant was shareholder and director of Charter;
+c) in 1999, Charter's business was located at 3786 Belgrave Road, Victoria;
+d) the Appellant's principal residence is the Residential Property;
+e) Charter paid for the construction of a detached two storey double car garage (the "Garage") built on the Residential Property;
+f) in 1999, the Company paid $31,707 towards the cost of the construction of the Garage;
+g) the Appellant hired a contractor to build the Garage;
+h) the Appellant instructed Charter to pay for the construction of the Garage;
+i) in 1999, the Garage was insured by the Appellant under his homeowner's insurance policy;
+j) in 1999, the Appellant used the Garage to park his personal vehicles;
+k) the Garage is owned by the Appellant;
+l) in 1999, Charter did not have a leasehold interest in the Garage;
+m) in 1999, Charter had not entered into a lease agreement with the Appellant for the lease of the Garage; and
+n) the Appellant did not report the Benefit in computing his income for the 1999 taxation year.
+[6] The pleaded assumptions suggest that the assessor had an incomplete and somewhat inaccurate grasp of the facts. The evidence adduced at the hearing of the appeal, in particular the Appellant's testimony, supports the following comments on those assumptions:
+Assumption
+Comment
+b)
+The Appellant held only 60% of the equity; the rest was held by an unrelated person
+c)
+3786 Belgrave was a mailing address only; Charter's business was not carried on there
+e)
+The word 'garage' is an incomplete and therefore rather misleading description of the intended structure
+e), g), h)
+The Appellant as officer of Charter took the steps described in order to address a genuine corporate need for space for use in the conduct of Charter's business
+j)
+Incorrect
+l), m)
+Charter was sloppy in failing to properly document the intended arrangement
+h)
+The question is whether a benefit within the meaning of s. 15 was conferred; if one was, then, of course, the value should have been reported
+[7] The Minister seems to have assumed that the value of the benefit was the amount spent by Charter. The parties did not address the question by how much, if at all, the value of the Appellant's interest in the Impala property was increased by the expenditure.
+[8] Paragraph 15(1)(a) of the Act reads:
+(1) Where at any time in a taxation year a benefit is conferred on a shareholder, or on a person in contemplation of the person becoming a shareholder, by a corporation otherwise than by
+(a) the reduction of the paid-up capital, the redemption, cancellation or acquisition by the corporation of shares of its capital stock or on the winding-up, discontinuance or reorganization of its business, or otherwise by way of a transaction to which section 88 applies,
+...
+the amount or value thereof shall, except to the extent that it is deemed by section 84 to be a dividend, be included in computing the income of the shareholder for the year.
+...
+This provision is a successor to section 8 of the pre-1972 Act. Its place in the Act was considered in M.N.R. v. Pillsbury Holdings Ltd., 64 DTC 5184. At page 5186 Cattanach, J. stated:
+The normal payments and distributions by a corporation to a shareholder qua shareholder are
+(a) dividends during the lifetime of the corporation,
+(b) payments and distributions in respect of reductions in capital during the lifetime of the corporation, and
+(c) payments and distributions on the occasion of the winding-up of the corporation.
+Provision in the Income Tax Act, other than section 8, govern the taxability of such payments and distributions when made in the orthodox way. In the remainder of this judgment, when referring to dividends, I intend to refer to any of these payments or distributions referred to in this paragraph.
+Subsection (1) of section 8 is aimed at payments, distributions, benefits and advantages flowing from a corporation to a shareholder other than those referred to in the immediately preceding paragraph. While the subsection does not say so explicitly, it is fair to infer that Parliament intended, by section 8, to sweep in payments, distributions, benefits and advantages that flow from a corporation to a shareholder by some route other than the dividend route and that might be expected to reach the shareholder by the more orthodox dividend route if the corporation and the shareholder were dealing at arm's length. This is true of paragraph (a) of subsection (1). A corporation normally makes payments to its shareholders as dividends unless the payment is pursuant to a bona fide business transaction, in which event it is not a payment accruing to the shareholder qua shareholder...
+On the other hand, there are transactions between closely held corporations and their shareholders that are devices or arrangements for conferring benefits or advantages on shareholders qua shareholders and paragraph (c) clearly applies to such transactions. (Compare Robson v. M.N.R., [1952] 2 S.C.R. 223 [52 DTC 1088].) It is a question of fact whether a transaction that purports, on its face, to be an ordinary business transaction is such a device or arrangement...
+[9] Construction operations commenced in 1998 and were substantially completed, as far as they went, sometime in the fall of the year when the payment to the contractor was made. The cost of the building was recorded in Charter's financial statements as a leasehold improvement. The building was insured with loss payable to Charter. The new structure was not used by either the Appellant or Charter during 1999.
+[10] A written lease dated January 1st, 2002 was entered into between the Appellant as landlord and Charter as tenant. The property leased was "that portion of 1979 Impala Road, Victoria, B.C. described as being approximately 28 feet by 28 feet for the purpose of constructing an office building". The term was ten years commencing January 1st, 2002. The rent was $1,200 per annum payable $100 a month.
+[11] A later amendment to the lease adds a provision permitting the tenant to construct a structure and provides further that the structure was to be and remain the sole property of the tenant. The tenant was permitted to remove the structure upon termination of the lease.
+[12] A lease formed in 2002 cannot, of course, retroactively eradicate the benefit if one was conferred in 1999. However, as I see it, the 2002 documents simply formalized an arrangement of the sort intended from the outset. The failure to properly record the arrangement in writing was the result of oversight, nothing more. The evidence of the Appellant, which I accept, indicates that the erection of the building at Charter's expense was a response to a need for space required for the conduct of Charter's business. It was not a device conceived with a view to conferring a benefit on the Appellant as shareholder. I note that the Respondent did not plead that the Minister assumed otherwise. It follows that no benefit within the meaning of s. 15 was conferred. The appeal will therefore be allowed and the assessment referred back to the Minister of National Revenue for reassessment to delete the amount in issue.
+Signed at Toronto, Ontario, this 13th day of May 2003.
+"Michael J. Bonner"
+T.C.J.
+CITATION:
+2003TCC34
+COURT FILE NO.:
+2002-2078(IT)I
+STYLE OF CAUSE:
+Paul Chandler and H.M.Q.
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+January 15, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge
+Michael J. Bonner
+DATE OF JUDGMENT:
+May 13, 2003
+APPEARANCES:
+Counsel for the Appellant:
+D. Laurence Armstrong
+Counsel for the Respondent:
+Victor Caux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+D. Laurence Armstrong
+Firm:
+Armstrong Nikolich
+Victoria, British Columbia
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

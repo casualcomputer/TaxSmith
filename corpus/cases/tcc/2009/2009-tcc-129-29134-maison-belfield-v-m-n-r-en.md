@@ -1,0 +1,224 @@
+---
+title: "Maison Belfield v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29134/index.do"
+last_modified: "2009-03-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 129"
+citation2: ""
+neutral_citation: "2009 TCC 129"
+decision_date: "2009-03-11"
+language: "en"
+item_id: "29134"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6647
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:28:40.789000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a5b65eca583d5073b95888d68a3fe3e6e86c0d4b555b3ad5ef8c7d10d059d412"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Maison Belfield v. M.N.R.
+
+- Citation: 2009 TCC 129
+- Decision date: 2009-03-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6647, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maison Belfield v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-11
+Neutral citation
+2009 TCC 129
+File numbers
+2008-2295(EI)
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-2295(EI)
+BETWEEN:
+MAISON BELFIELD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SAMUEL ESPIEDRA,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Samuel Espiedra (2008-2562(EI)) February 16, 2009, at Montreal, Quebec
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Jean Dagenais
+Counsel for the Respondent:
+Sarom Bahk
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue dated May 12, 2008, for the period from January 2, 2006 to August 26, 2007 is confirmed.
+Signed at Ottawa, Canada, this 11th day of March 2009.
+"Gerald J. Rip"
+Rip C.J.
+Docket: 2008-2562(EI)
+BETWEEN:
+SAMUEL ESPIEDRA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MAISON BELFIELD,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Maison Belfield (2008-2295(EI)) February 16, 2009, at Montreal, Quebec
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sarom Bahk
+Counsel for the Intervenor:
+Jean Dagenais
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is quashed and the decision of the Minister of National Revenue dated May 12, 2008, for the period from January 2, 2006 to August 26, 2007 is confirmed.
+Signed at Ottawa, Canada, this 11th day of March 2009.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2009 TCC 129
+Date: 20090311
+Docket: 2008-2295(EI)
+BETWEEN:
+MAISON BELFIELD,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SAMUEL ESPIEDRA,
+Intervenor,
+and
+Docket: 2008-2562(EI)
+BETWEEN:
+SAMUEL ESPIEDRA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MAISON BELFIELD,
+Intervenor.
+REASONS FOR JUDGMENT
+Rip C.J.
+[1] Maison Belfield appeals from a decision of the Minister of National Revenue ("Minister") under paragraph 5(1)(a) of the Employment Insurance Act, notice of which is dated May 12, 2008, that Samuel Espiedra was engaged in insurable employment by Maison Belfield during the period from January 2, 2006 to August 26, 2007, since he was employed under a contract of service.
+[2] Mr. Espiedra intervened in Maison Belfield's appeal on the basis only that the weekly salary paid to him was "$700.00 NET (after taxes) NOT GROSS" but otherwise agrees with the decision of the Minister. Mr. Espiedra worked as a psychotherapist at Maison Belfield at all relevant times. He also appealed from the decision affecting him, also dated May 12, 2008, on the basis that his net salary was $700 per week. The appeal was filed on August 11, 2008, 91 days after the date of the decision appealed from.
+[3] The issues before me are:
+a) whether Mr. Espiedra was an employee of Maison Belfield during the relevant time or an independent contractor, and
+b) if Mr. Espiedra's appeal was filed within time, whether the salary he received was gross salary, or net, after source deductions, if any.
+[4] Maison Belfield is maintained in Montreal by the Chabad Lubavitch, a Jewish charitable and religious organization, for the housing in a Jewish atmosphere of recently released prison inmates, alcoholics and drug addicts, among others. Maison Belfield has seven beds available. Patients entered Maison Belfield by choice and could leave whenever they wished. Rabbi Joël Zushe Silberstein, the head of Maison Belfield, was and is responsible for the funding of Maison Belfield and for its operation.
+[5] Rabbi Silberstein had 30 years of experience working with prisoners and persons recently released from incarceration. He still visits prisons on a regular basis.
+[6] Mr. Espiedra had worked at Maison Belfield in 2003 and 2004. After meeting Rabbi Silberstein and having an interview with Rabbi Silberstein's son, Mr. Espiedra returned to work at Maison Belfield in late 2005. According to Rabbi Silberstein, Mr. Espiedra was engaged as a professional psychotherapist to assist in the work of the home.
+[7] The policy of Maison Belfield was to admit persons who were not dangerous to others and Rabbi Silberstein said he relied on a professional such as Mr. Espiedra to evaluate persons for admission. However, the evidence is that any admission was a joint decision of both Rabbi Silberstein and Mr. Espiedra.
+[8] The role of Mr. Espiedra, according to Rabbi Silberstein, was to consider personal problems and to change a person's life through therapy or other means. Mr. Espiedra had an undergraduate degree and took additional diploma courses at the University of Sherbrooke in Longueil. Rabbi Silberstein said he had total confidence in Mr. Espiedra.
+[9] Mr. Espiedra submitted a document purporting to describe his responsibilities and the goals of Maison Belfield. This document was given to him when he started work in 2005. The document is rather cryptic:
+Bs''d
+Six Months trial;
+To accomplish
+Complete structure and order in all matters:
+In house
+In Files
+In follow up
+Establish Job placing contacts
+Establish Training opportunities
+Available courses
+List of volunteering possibilities
+Clinics
+Doctors
+Labs
+PR
+All related institutions should know about us
+Prisons
+Federal and provincial
+Half way Houses
+Social centers
+Rehab places
+Detox places
+Invite individual parole probation officers
+Develop proper website
+Work to be recognized by governments
+Establish complete list of former residents and program special programs for/with them
+[10] Mr. Espiedra usually worked weekdays from 2:30 p.m. to 10:30 p.m., "the time most useful for treatment" according to Rabbi Silberstein. These were the hours, in particular after dinner, when Mr. Espiedra's services were required. On weekends, including Friday nights and Saturday, patients were most susceptible and time was less structured, said Rabbi Silberstein. During the Sabbath, as I understand it, Mr. Espiedra would have discussions with the patients with a view to transmit their feelings of Jewishness.
+[11] Usually there were three or four patients at a time at Maison Belfield, although there could be as many as seven. Mr. Espiedra would have to call police or Urgence Santé if any patient had a violent reaction from drugs, for example. Often he was called in the early morning to attend at Maison Belfield. He estimated he worked 65 hours a week.
+[12] Mr. Espiedra treated patients individually and in group sessions. He had a journal reporting on the progress of each individual. Patients were treated weekly, semi-weekly or more or less frequently depending on circumstances. He was the only staff person at meals with the residents and it was he who, at these times, would give the pre-meal blessings.
+[13] Mr. Espiedra was more than a psychotherapist at Maison Belfield. He shopped for food for Maison Belfield and on Thursday nights he cooked and prepared meals for patients for the Friday evening dinner and Saturday. In his view, he was responsible for all patient activity at Maison Belfield. He did not get extra pay for these extra services.
+[14] Mr. Espiedra acknowledged that he had clients other than those at Maison Belfield. These clients were referred to him by Rabbi Silberstein and he did not receive any payment for the services provided to them. He considered that he treated these people as part of his work for which he was getting paid by Maison Belfield.
+[15] Mr. Espiedra stated that he could not make decisions on his own and made daily reports on each patient which he submitted to Rabbi Silberstein. In fact, he said, he would be in contact with Rabbi Silberstein three or four times a day.
+[16] Also produced by Mr. Espiedra was a document entitled "Maison Belfield Budget 2006". The first entry is "Salaries" for "2 Full Time – 3 Part Time 125,000". Rabbi Silberstein declared the entry is not correct as it includes Mr. Espiedra as well. When I asked him whether Mr. Espiedra was included as "Full Time" or "Part Time" Rabbi Silberstein refused to state whether Mr. Espiedra had been included in these descriptions. He insisted Mr. Espiedra was an independent contractor. His testimony in this regard was confusing and not credible.
+[17] I note that Rabbi Silberstein's son, the person who interviewed Mr. Espiedra for the position at Maison Belfield, did not appear as a witness. I would have appreciated learning his recollection of the conditions he and Mr. Espiedra may have agreed to during the interview. Mr. Espiedra's predecessor was an employee.
+[18] Article 2085 of the Civil Code of Québec defines a contract of employment:
+Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[19] There is no doubt that Mr. Espiedra's labour was carried out according to the instructions of Rabbi Silberstein and under his direction and control. Mr. Espiedra was not free to choose the means of performing his work and was clearly subordinate to Rabbi Silberstein and subject to the policies and requirements of Maison Belfield.[1]
+[20] Mr. Espiedra did perform professional services. Based on my observations of Mr. Espiedra as he testified, I concluded that he is an upright individual who may be naïve. I believe Rabbi Silberstein may have taken advantage of Mr. Espiedra's naïveté and had him performing services such as shopping for food, eating with patients, among other things, chores that an independent contractor, in such circumstances would not perform with regularity. Clearly Mr. Espiedra was under the influence and direction of a superior.
+[21] Counsel cited several cases in support of the respective positions. Maison Belfield's counsel submitted that the following cases support his client: Smith Estate v. M.N.R., [1986] T.C.J. No. 902 (QL), Martel et Société pour la prevention de la cruauté envers les animaux, 2008 QCCRT 0045, Breton et Géo Tours inc., 2005 QCCRT 0080, 671122 Ontario Ltd. v. Sagaz Industries, [2001] 2 S.C.R. 983, Royal Winnipeg Ballet v. M.N.R., 2006 FCA 87. Crown's counsel relied on 9041‑6868 Québec Inc. v. Canada, [2005] F.C.J. No. 1720 (QL), Rhéaume v. Canada, [2007] T.C.J. No. 453 (QL), and Lévesque v. Canada, [2005] T.C.J. No. 183 (QL). I have reviewed these authorities. In Quebec Law there are three essential characteristics of a contract of employment: provision of labour, remuneration for the labour paid by the employer and a relationship of subordination. This is explained by Robert P. Gagnon,[2] cited in 9041-6868 Québec inc., supra, at paragraph 11, and Rhéaume, supra, at paragraph 25.
+[22] Mr. Espiedra's appeal was filed late by one day and on that basis, his appeal will be quashed. However, even if his appeal were a valid appeal, I would have to dismiss it. The only evidence before me was that Maison Belfield was to pay Mr. Espiedra $700 per week. If this amount is not "gross", there is no amount before me to indicate what is the "gross" amount. As stated earlier in these reasons, Mr. Espiedra had his initial interview for employment at Maison Belfield with Rabbi Silberstein's son. There is no evidence before me as to the exact salary discussed or agreed to. Negotiations and discussions between Mr. Espiedra and Rabbi Silberstein for salary were in hundred dollar amounts, namely $600 per week and an additional $100 for weekend days. Mr. Espiedra reported his income as "net" in his request for record of employment ("ROE") and in interviews with CRA officials. The request for the ROE was made after he ceased employment with Maison Belfield. His income tax returns, which may have reflected a more reliable gross amount of income, were not filed as evidence. There is reasonable doubt as to whether the agreement was for a "gross" or "net" amount and, in the circumstances I would have had to dismiss Mr. Espiedra's appeal.
+[23] I am satisfied that, among other things mentioned earlier in these reasons, Mr. Espiedra was subordinate to Rabbi Silberstein in performing his services and was therefore engaged by Maison Belfield in insurable employment.
+[24] The appeal of Maison Belfield is dismissed. Mr. Espiedra's appeal is quashed.
+Signed at Ottawa, Canada, this 11th day of March 2009.
+"Gerald J. Rip"
+Rip C.J.
+CITATION: 2009 TCC 129
+COURT FILE NOS.: 2008-2295(EI) and 2008-2562(EI)
+STYLE OF CAUSE: MAISON BELFIELD v. M.N.R. and SAMUEL ESPIEDRA
+SAMUEL ESPIEDRA v. M.N.R. and
+MAISON BELFIELD
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: February 16, 2009
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: March 11, 2009
+APPEARANCES:
+Counsel for the Appellant Maison Belfield:
+For the Appellant Samuel Espiedra:
+Jean Dagenais
+The Appellant himself
+Counsel for the Respondent:
+Sarom Bahk
+For the Intervenor Samuel Espiedra:
+Counsel for the Intervenor Maison Belfield:
+The Intervenor himself
+Jean Dagenais
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jean Dagenais
+Firm: Orenstein & Associés
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Article 2099 of the Civil Code of Québec.
+[2] Le droit du travail du Québec, Éditions Yvon Blais, 2003, 5th edition, pages 66 and 67.

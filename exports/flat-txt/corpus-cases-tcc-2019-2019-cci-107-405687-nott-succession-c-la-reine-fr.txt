@@ -1,0 +1,129 @@
+Title: Nott (Succession) c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/405687/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-107-405687-nott-succession-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-05-07
+
+# Nott (Succession) c. La Reine
+
+- Citation: 2019 CCI 107
+- Decision date: 2019-05-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4406, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nott (Succession) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-05-07
+Référence neutre
+2019 CCI 107
+Numéro de dossier
+2016-517(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-517(IT)G
+ENTRE :
+SUCCESSION DE GLEN NOTT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 25 février 2019, à Calgary (Alberta).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelante :
+Personne n’a comparu
+Avocat de l’intimée :
+Me Peter Basta
+ORDONNANCE
+Pour les motifs prononcés à l’audience, l’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté, sans dépens, pour défaut de comparaître.
+Signé à Ottawa, Canada, ce 7e jour de mai 2019.
+« Patrick Boyle »
+Juge Boyle
+Dossier : 2016-517(IT)G
+ENTRE :
+SUCCESSION DE GLEN NOTT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS D’ORDONNANCE PRONONCÉS DE VIVE VOIX
+Je requiers que soit déposée la transcription révisée ci-jointe des motifs de l’ordonnance prononcés de vive voix à l’audience le 25 février 2019, à Calgary (Alberta). J’ai révisé la transcription (certifiée par le sténographe judiciaire) sur le plan du style et de la clarté et n’y ai apporté que des corrections mineures. Je n’ai fait aucune modification quant au fond.
+Signé à Ottawa, Canada, ce 7e jour de mai 2019.
+« Patrick Boyle »
+Juge Boyle
+Référence : 2019 CCI 107
+Date : 20190507
+Dossier : 2016-517(IT)G
+ENTRE :
+SUCCESSION DE GLEN NOTT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+(Cause appelée et ordonnance rendue de vive voix à l’audience le
+25 février 2019 à Calgary (Alberta))
+Le juge Boyle
+[1] Il est question en l’espèce de la succession de Glen Nott et de l’audience de justification inscrite au rôle pour ce matin. Personne n’a comparu pour la succession de Glen Nott ni n’a revendiqué un droit dans la succession.
+[2] L’avis d’appel a été déposé au début de l’année 2016 et concerne les déclarations modifiées déposées par DeMara Consulting Inc. au nom de M. Nott. La réponse de la Couronne a été déposée en juin 2016.
+[3] En novembre 2016, l’intimée a présenté une requête en radiation de certaines parties de l’avis d’appel. À la suite d’une audience sur l’état de l’instance tenue en octobre 2016, j’ai rendu, le 8 décembre 2016, une ordonnance établissant un échéancier.
+[4] En janvier 2017, l’appelante a tenté de déposer, sans consentement, un avis d’appel modifié. En février 2017, j’ai donc rendu une ordonnance qui radiait certaines parties de l’avis d’appel, comme l’avait demandé l’intimée dans sa requête, et rejetait l’avis d’appel modifié de janvier 2017 du fait que ce n’était pas un document valable et qu’il n’avait pas été valablement déposé.
+[5] L’ordonnance de février 2017 enjoignait à l’appelante notamment de déposer dans un délai de 60 jours un nouvel avis d’appel modifié qui préciserait la réparation demandée, information manquante dans l’avis d’appel.
+[6] En avril 2017, il y a eu tentative de déposer deux avis d’appel modifiés, mais ni l’un ni l’autre n’était conforme à mon ordonnance de février 2017. Cela a donné lieu à mon ordonnance de juillet 2017 accordant à l’appelante un délai supplémentaire de 60 jours pour déposer un avis d’appel modifié et précisant qu’autrement l’appel serait rejeté.
+[7] En novembre 2017, avant la signature d’un jugement rejetant l’appel, l’appelant M. Nott a malheureusement été victime d’une crise cardiaque et est décédé à la fin du mois. En janvier 2018, Gail Nott, l’épouse de M. Nott, a informé la Cour par lettre que son époux était décédé le 30 novembre. Dans cette lettre, Mme Nott a mentionné qu’elle était l’exécutrice testamentaire.
+[8] En février 2018, une conférence téléphonique de gestion de l’instance a été tenue sur la façon de procéder, et un délai de 30 jours a été accordé aux parties pour indiquer si une conférence de règlement pourrait être utile.
+[9] En mai 2018, alors qu’on essayait d’organiser une conférence de règlement, Mme Gail Nott a fait déposer par son avocat une renonciation à l’homologation et elle a indiqué qu’elle n’assisterait pas et ne participerait plus.
+[10] En septembre 2018, Mme Gail Nott et M. Jason Nott, le fils adulte de feu M. Nott et de Gail Nott, ont informé le greffe qu’ils n’étaient pas exécuteurs ou administrateurs de la succession et qu’ils ne prendraient pas part à la conférence de règlement.
+[11] Par l’ordonnance que j’ai rendue en octobre 2018, la tenue d’une audience de justification a été fixée pour aujourd’hui en raison de l’omission de déposer l’avis d’appel modifié conformément à mes ordonnances de février et de juillet 2017.
+[12] Le 15 février, la Cour a envoyé un courriel à la succession de Glen Nott, aux soins de Gail Nott, assurant celle-ci qu’elle n’était pas obligée d’assister à l’audience de justification prévue pour aujourd’hui puisqu’elle n’était plus exécutrice ou administratrice de la succession, mais lui faisant savoir qu’elle ou toute personne intéressée ou tout bénéficiaire pouvait y assister pour soulever leurs préoccupations, le cas échéant.
+[13] Or, personne n’a comparu aujourd’hui. Par conséquent, je rejette l’appel pour défaut de comparaître afin d’expliquer les omissions de se conformer à mes ordonnances précédentes, dont l’une avait déjà, avant le décès de M. Nott, envisagé le rejet de l’appel.
+Signé à Ottawa, Canada, ce 7e jour de mai 2019.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 4e jour de décembre 2020.
+Erich Klein
+RÉFÉRENCE :
+2019 CCI 107
+Nº DU DOSSIER DE LA COUR :
+2016-517(IT)G
+INTITULÉ :
+SUCCESSION DE GLEN NOTT c. LA REINE
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 25 février 2019
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 7 mai 2019
+COMPARUTIONS :
+[EN BLANC]
+Pour l’appelante :
+Personne n’a comparu
+Avocat de l’intimée :
+Me Peter Basta
+AVOCATS INSCRITS AU DOSSIER :
+[EN BLANC]
+Pour l’appelante :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

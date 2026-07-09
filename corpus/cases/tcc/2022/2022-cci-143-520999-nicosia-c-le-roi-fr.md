@@ -1,0 +1,279 @@
+---
+title: "Nicosia c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520999/index.do"
+last_modified: "2022-11-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 143"
+citation2: ""
+neutral_citation: "2022 CCI 143"
+decision_date: "2022-11-30"
+language: "fr"
+item_id: "520999"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5801
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:31:40.257000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5ff1bf01d908b3f46a85f22a90b82356375005adfbd1bb8473a3dbc83a511a43"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nicosia c. Le Roi
+
+- Citation: 2022 CCI 143
+- Decision date: 2022-11-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5801, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nicosia c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-11-30
+Référence neutre
+2022 CCI 143
+Numéro de dossier
+2019-3133(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-3133(IT)G
+ENTRE :
+GRACE NICOSIA,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 12 septembre 2022, à Toronto (Ontario)
+Devant : l'honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l'appelante :
+Me Dale Barrett
+Avocat de l'intimé :
+Me Kanga Kalisa
+JUGEMENT
+ATTENDU QUE la Cour a, en ce jour, rendu les motifs de son jugement dans le présent appel;
+LA COUR ORDONNE :
+1. L'appel concernant les années d'imposition 2011, 2015 et 2016 est accueilli pour les motifs suivants :
+a) le bien immeuble situé au 154, boulevard Cortleigh, à Toronto (Ontario), a été acquis en tant qu'immobilisation, et sa disposition ultérieure, en 2011, est imputable au capital;
+b) des frais de disposition supplémentaires ne dépassant pas 20 000 $ ont été engagés à titre de frais de courtage durant l'année d'imposition 2015 pour chacun des biens immeubles situés au 16 et au 18, allée Linda, à Wasaga Beach (Ontario);
+c) le bien immeuble situé au 109, avenue Lio, à Vaughan (Ontario), était, de fait, la résidence principale de l'appelante durant les années d'imposition 2015 et 2016;
+d) les pénalités prévues au paragraphe 163(2) et imposées pour l'année d'imposition 2011 sont annulées.
+2. L'affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles cotisations.
+3. Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2022.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2022 CCI 143
+Date : 20221130
+Dossier : 2019-3133(IT)G
+ENTRE :
+GRACE NICOSIA,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Bocock
+I. NATURE DE L'APPEL
+[1] Le présent appel concerne quatre biens immeubles que l'appelante, Mme Nicosia, a possédés à différents moments. L'appel concerne trois années d'imposition, soit 2011, 2015 et 2016. La période normale de nouvelle cotisation était expirée pour l'année d'imposition 2011, et le ministre a imposé les pénalités prévues au paragraphe 163(2) pour cette année.
+II. LES FAITS
+[2] De 2010 à 2014, la relation que Mme Nicosia entretenait avec celui qui est maintenant son ex‑mari a été tumultueuse. L'appelante affirme que cette relation a été parsemée de périodes de cohabitation intermittente avant qu'elle et son ex-mari ne se séparent définitivement et divorcent en 2015. La Cour retient ce témoignage; il est fait mention des difficultés conjugales dans les notes au dossier de l'Agence du revenu du Canada (« ARC ») et les représentants du ministre reconnaissent également l'existence de ces difficultés.
+[3] Le tableau récapitulatif suivant est fondé sur la preuve dont la Cour dispose. Il énumère l'information suivante pour chacun des immeubles : le ou les propriétaires, la date d'acquisition, les améliorations, la date de disposition ainsi que les périodes d'occupation. La première colonne présente les quatre immeubles situés en Ontario, en ordre chronologique de leur acquisition :
+i) 154, boulevard Cortleigh, Toronto;
+ii) 16, allée Linda, Wasaga Beach;
+iii) 18, allée Linda, Wasaga Beach;
+iv) 109, avenue Lio, Vaughan.
+Immeuble
+Propriétaire ou propriétaires
+Date d'acquisition
+Améliorations, s'il y a lieu
+Date de disposition
+Périodes d'occupation : selon le ministre / selon l'appelante
+154, boul. Cortleigh, Toronto
+Appelante
+Octobre 2007
+Immeuble appartenant exclusivement à Mme Nicosia; démoli en 2008 et rebâti au début de 2009
+Novembre 2011
+Aucune occupation / Occupation fréquente en tant que refuge de 2008 à 2011
+16, allée Linda, Wasaga Beach
+Appelante
+Juin 2007
+Immeubles appartenant exclusivement à Mme Nicosia; achat d'un terrain unique ensuite loti pour commencer la construction de deux habitations identiques au début de 2008
+Juin 2015
+Occupation sporadique
+18, allée Linda, Wasaga Beach
+109, avenue Lio, Vaughan
+Appelante et ex-mari
+Novembre 2012
+Immeuble appartenant conjointement à l'appelante et à son ex-mari
+Février 2016
+Ne servait pas de résidence principale / Résidence principale après 2015
+[4] Le tableau récapitulatif suivant illustre, pour chacun des immeubles, les différences entre les thèses des parties quant à la nature du bien, aux coûts et au produit de disposition :
+Immeuble
+Coûts : selon le ministre /
+selon l'appelante
+Produit de disposition : selon le ministre /
+selon l'appelante
+Nature du bien : selon le ministre / selon l'appelante
+154, boul. Cortleigh, Toronto
+Coût d'acquisition : 1 205 000 $
+Coût de reconstruction : aucune preuve
+Produit brut : 2 900 000 $ Produit net : 726 365 $
+Opération commerciale / Exemption pour résidence principale
+16, allée Linda, Wasaga Beach
+Prix de base rajusté : 557 420 $
+Gain en capital : 16 025 $ (après dépenses)
+Produit brut : 575 000 $ – non contesté
+L'appelante ne conteste que l'exclusion des frais de courtage
+Immobilisation
+18, allée Linda, Wasaga Beach
+Prix de base rajusté : 557 420 $
+Gain en capital : 16 386 $ (après dépenses)
+Produit brut : 575 000 $ – non contesté
+L'appelante ne conteste que l'exclusion des frais de courtage
+Immobilisation
+109, avenue Lio, Vaughan
+Prix d'acquisition de la moitié de l'immeuble : 554 000 $
+Produit brut : 880 000 $
+Produit net pour l'appelante : 41 314 $
+Immobilisation / Exemption pour résidence principale
+Autres éléments relatifs aux immeubles
+[5] Il n'a été fourni à la Cour aucun autre document relatif aux immeubles et aux dépenses connexes, aux améliorations, à la construction ou aux évaluations. Les valeurs présentées sont celles indiquées dans les hypothèses du ministre. Sauf pour ce qui est des déductions, la Cour retient les hypothèses du ministre quant au prix d'acquisition des immeubles et au produit brut de leur vente.
+154, boul. Cortleigh
+[6] Mme Nicosia affirme qu'en 2010 et 2011, elle se réfugiait fréquemment au 154, boul. Cortleigh en raison de la relation acrimonieuse de maltraitance qu'elle entretenait avec son mari de l'époque. Le coût de reconstruction est plus élevé que celui que le ministre a reconnu. Elle n'a présenté aucun élément de preuve à cet égard. Cependant, son argument prédominant est que le 154, boul. Cortleigh était sa résidence principale et n'était pas soumis à l'impôt sur les gains en capital.
+[7] Le ministre considère que l'absence d'éléments de preuve permet d'écarter la conclusion qu'il y a eu des coûts supplémentaires ou que l'usage de l'immeuble fait que l'exemption pour résidence principale s'applique.
+[8] Ce qui importe davantage, c'est que le ministre a conclu que l'achat et la disposition de l'immeuble s'inscrivaient dans une affaire de caractère commercial, et qu'il est donc question d'un revenu tiré d'une entreprise. Mme Nicosia n'a jamais changé son adresse principale, l'adresse pour les feuillets T4 de son employeur ou toute autre adresse postale pour la remplacer par l'adresse de cet immeuble. Le ministre soutient qu'elle a procédé à la revente rapide de l'immeuble relativement peu de temps après l'avoir entièrement reconstruit, et qu'elle en a tiré un important profit.
+16 et 18, allée Linda
+[9] En ce qui concerne les immeubles situés aux 16 et 18, allée Linda, les parties reconnaissent que le produit de leur vente constitue un gain en capital imposable. Selon le rapport du vérificateur, le ministre n'a accordé aucun crédit concernant les frais de courtage associés à la vente de ces immeubles. Si de tels frais avaient été payés et additionnés aux dépenses, il n'y aurait pas eu de gain en capital imposable. Mme Nicosia soutient qu'elle devrait avoir droit à un crédit parce qu'il n'était pas possible de vendre les immeubles sans l'aide d'un agent immobilier, et qu'elle a fait appel à un agent. Elle n'a pas de copie d'une facture à ce sujet.
+[10] Mme Nicosia fait simplement valoir qu'elle a dû avoir recours aux services d'un agent immobilier pour la vente des immeubles situés aux 16 et 18, allée Linda et qu'elle devrait avoir droit à un crédit concernant les frais de courtage.
+109, avenue Lio
+[11] Pour terminer, la principale raison pour laquelle l'immeuble situé au 109, avenue Lio ne peut être visé par l'exemption pour résidence principale est que Mme Nicosia n'a pas produit le formulaire T2091 pour désigner sa résidence principale en 2016, au moment où elle a disposé de cet immeuble. Même si elle n'a pas produit le formulaire, Mme Nicosia affirme que l'immeuble situé au 109, avenue Lio est devenu sa résidence principale après la vente du 154, boul. Cortleigh. L'intimé affirme que le fait que l'appelante n'a produit aucun formulaire T2091 aux fins de la désignation de sa résidence principale doit être retenu contre elle. L'ex-mari de Mme Nicosia a pour sa part produit ce formulaire pour désigner sa résidence de 2012 à 2014. Le ministre l'a reconnu et considère, particulièrement en l'absence d'une entente de séparation signée, que la famille avait choisi l'autre immeuble.
+III. QUESTIONS EN LITIGE
+[12] Ce qui suit est un résumé des questions en litige portant sur chacun des immeubles.
+a) 154, boul. Cortleigh
+1. Le 154, boul. Cortleigh constituait-il une affaire de caractère commercial (un « revenu tiré d'une entreprise », selon les notes de l'ARC) ou une immobilisation?
+2. Si l'immeuble était une immobilisation, constituait-il une résidence principale?
+3. La déclaration de revenus pour l'année d'imposition 2011 contenait-elle une présentation erronée des faits autorisant le ministre à établir une nouvelle cotisation pour l'année d'imposition en question?
+4. Mme Nicosia a-t-elle, en produisant sa déclaration de revenus pour l'année d'imposition 2011, commis une faute lourde aux termes du paragraphe 163(2)?
+b) 16 et 18, allée Linda
+[13] Mme Nicosia a-t-elle payé des frais de courtage qui augmentent le prix de base rajusté, réduisant ainsi le gain en capital imposable?
+c) 109, avenue Lio
+[14] L'immeuble situé au 109, avenue Lio était-il la résidence principale de Mme Nicosia et, par conséquent, était-il exonéré complètement ou partiellement de l'impôt sur les gains en capital?
+IV. ANALYSE
+[15] Procédant en ordre chronologique inverse, la Cour examine le cas de chacun des immeubles.
+a) 109, avenue Lio
+[16] Les représentants du ministre ont plus ou moins reconnu que cet immeuble fût la résidence principale de Mme Nicosia, plus particulièrement après sa séparation définitive et son divorce. À vrai dire, ils se sont demandé pourquoi elle n'avait pas produit un formulaire T2091 concernant la disposition de l'immeuble en 2016. Il ne manquerait au ministre que le formulaire T2091. Cela est‑il déterminant pour l'année d'imposition 2016?
+Une seule résidence principale en certains cas
+[17] Selon la définition du terme « résidence principale » à l'article 54 de la Loi, il est interdit au contribuable et à certaines personnes qui lui sont liées de désigner plus d'un immeuble comme étant la résidence principale du contribuable « pour l'année ». Plus précisément, l'interdiction prévue au sous-alinéa 54c)(ii) concerne les personnes suivantes : le contribuable, l'époux ou le conjoint de fait du contribuable, les enfants du contribuable âgés de moins de 18 ans et, si le contribuable n'est pas marié, la mère, le père, le frère et la sœur du contribuable.
+[18] En l'espèce, on ne peut désigner l'immeuble situé au 109, avenue Lio comme résidence principale de Mme Nicosia que pendant certaines années où cet immeuble lui a appartenu, pourvu qu'elle y résidât habituellement. En 2012 et 2013, l'ex-mari de Mme Nicosia avait déjà désigné un autre immeuble, alors que le couple n'était ni séparé ni divorcé. Après la disposition de l'immeuble en 2016, Mme Nicosia aurait dû remplir le formulaire T2091 et l'annexe 3 de la déclaration de revenus et de prestations T1 pour l'année d'imposition 2016.
+[19] Pour l'application de la règle, au cours d'une année, deux immeubles ne peuvent être désignés en tant que résidence principale de l'appelante ou d'un membre de sa famille. Reste donc à déterminer qui faisait partie de la famille de Mme Nicosia pendant la période pertinente.
+Effet du divorce
+[20] Dans la décision Balanko (Succession) c. La Reine[1], la Cour de l'impôt a conclu que la définition du terme « résidence principale » à l'alinéa 54c) de la Loi était la suivante :
+[...] si un contribuable est encore marié, seulement une personne, soit le contribuable ou l'époux, peut désigner un bien comme étant sa résidence principale, sauf si le contribuable et l'époux sont séparés en vertu d'un accord écrit de séparation. Le fait que le Dr Balanko ait informé John qu'il [traduction] « s'en était occupé » pour ce qui est de l'accord écrit de séparation qui aurait été rédigé peut donner à penser que Mme Balanko et lui ont peut-être réglé leurs affaires d'une autre façon. Encore une fois, on ne m'a pas présenté d'accord écrit de séparation[2].
+[21] Dans la décision Balanko, qui fait référence à l'arrêt Hickman Motors Ltd. c. Canada[3] de la Cour suprême du Canada, la Cour de l'impôt a conclu que la Loi exige qu'il y ait un accord écrit de séparation et que l'absence de cet accord « est une omission plus grave que l'absence de reçus pour prouver une dépense »[4].
+[22] Mme Nicosia a divorcé de son mari en décembre 2014, et le ministre reconnaît ce fait. Par conséquent, il n'y a pas de désignation contradictoire pour les années d'imposition 2015 et 2016 concernant l'immeuble situé au 109, avenue Lio. Après le divorce, chacun des ex-époux pouvait désigner un immeuble différent à titre de résidence principale, et ce, dès la première année d'imposition pendant laquelle la séparation judiciaire ou l'accord écrit était en vigueur, soit 2014 en l'espèce[5]. Le divorce est l'ultime étape d'une séparation judiciaire.
+Possibilité d'une production tardive
+[23] Étant donné que l'immeuble situé au 109, avenue Lio n'a pas été désigné à titre de résidence principale durant toutes les années où l'appelante en a été propriétaire (et il ne lui était pas possible de faire cette désignation avant 2015), Mme Nicosia aurait dû remplir le formulaire T2091 et désigner cet immeuble à titre de résidence principale dans sa déclaration de revenus de 2016.
+[24] L'ARC a déclaré par le passé qu'elle n'accepterait pas les désignations de résidence principale produites en retard[6]. Cependant, l'organisme a revu sa position et le ministre du Revenu national peut, dans certaines circonstances, accepter une désignation de résidence principale produite en retard.
+[25] Généralement, le ministre ne peut exercer le pouvoir discrétionnaire prévu au paragraphe 220(3.2) de la Loi qu'à l'égard de certains choix et non à l'égard des désignations, sauf dans le cas d'une désignation réputée constituer un choix au sens du paragraphe 220(3.21) de la Loi.
+[26] Selon l'alinéa 220(3.21)a.1) de la Loi, la désignation d'une résidence principale au moyen du formulaire T2091 pour satisfaire à l'alinéa c) de la définition du terme « résidence principale » à l'article 54 de la Loi est réputée constituer un choix. Ainsi, le paragraphe 220(3.2) s'applique à une désignation de résidence principale produite en retard. Il est important de souligner que l'alinéa 220(3.21)a.1) de la Loi a été ajouté en 2017 et qu'il s'applique aux années d'imposition qui se terminent après le 2 octobre 2016. Il est désormais possible de produire une désignation de résidence principale en retard, et la pénalité applicable est prévue au paragraphe 220(3.5) de la Loi.
+[27] Que Mme Nicosia ait eu la mémoire courte ou ait été dans l'ignorance importe peu puisque le ministre peut accepter une production tardive dans certaines circonstances et imposer la pénalité prévue. Dans les faits, en 2015 et en 2016, l'immeuble situé au 109, avenue Lio était bel et bien la résidence principale de Mme Nicosia. Il me semble qu'il suffirait de produire une déclaration modifiée[7]. C'est au ministre qu'il revient d'écrire la suite de l'histoire.
+b) 16 et 18, allée Linda
+[28] Les chiffres que le ministre a présentés dans la réponse et la lettre de proposition ainsi que lors de l'imposition des pénalités sont clairs. Le représentant du ministre a calculé correctement les produits et les dépenses pour en arriver aux résultats suivants :
+Pour chacun des immeubles situés au 16 et 18, allée Linda
+Produit de disposition (identique)
+575 000 $
+Prix de base rajusté (identique)
+(557 420 $)
+Frais juridiques et dépenses
+(1 193 $ pour le 18, allée Linda)
+(1 554 $ pour le 16, allée Linda)
+(1 193 $)
+Gain en capital, le plus élevé des deux
+16 386 $
+[29] Le problème réside dans l'omission d'une dépense essentielle. Aucuns frais de courtage ne sont indiqués. Mme Nicosia est enseignante. Elle n'a pas vendu l'immeuble elle-même. Elle affirme avoir fait appel à un agent immobilier et a constamment exigé qu'on corrige cette omission. Qui plus est, le ministre a fait les calculs. Le ministre a présumé que le transfert avait eu lieu sans lien de dépendance. Il ne fait aucun doute que l'appelante a versé des frais de courtage totalisant plus de 20 000 $, TVH en sus. La Cour a par ailleurs souscrit aux hypothèses du ministre telles quelles; or, il est essentiel de tenir compte de ces omissions flagrantes. Même en l'absence de factures, un crédit doit être accordé relativement aux frais de courtage, à tout le moins jusqu'à concurrence du gain en capital établi par le ministre.
+c) 154, boul. Cortleigh
+Était-ce une affaire de caractère commercial?
+[30] La thèse du ministre concernant l'immeuble situé au 154, boul. Cortleigh diffère de celles concernant les trois autres immeubles. La Cour a mentionné à l'avocat de l'intimé que, pour les trois autres immeubles (qu'ils aient été une résidence principale ou non), les cotisations portaient sur des immobilisations et non du revenu. En dépit de ce fait, dans le seul cas de cet immeuble, qu'on possédait déjà, il s'agissait plutôt d'un « revenu tiré d'une entreprise ». Pourquoi alors supposer que l'entreprise s'est terminée après 2012? Il y a également des éléments de preuve contradictoires au dossier de l'ARC quant à savoir si Mme Nicosia avait en fait déjà habité au 154, boul. Cortleigh. Il ne fait aucun doute pour la Cour que l'appelante a habité de temps à autre au 154, boul. Cortleigh, où elle s'est réfugiée en 2011 et auparavant en 2007 et en 2008. L'usage mixte de l'immeuble fait qu'on peut difficilement conclure à l'acquisition, l'amélioration et la vente délibérées qui indiqueraient l'existence d'une opération commerciale.
+[31] De plus, Mme Nicosia n'a vraiment pas le profil habituel des personnes qui achètent un immeuble en vue d'une vente rapide qui se présentent devant la Cour. Elle était enseignante et non agente immobilière. Elle a invoqué des circonstances pour expliquer la durée de possession écourtée; elle était dans une relation instable de maltraitance. Elle a tenté à plusieurs reprises de mettre fin à cette relation, tant physiquement que juridiquement. Il ne s'agit pas d'un rebondissement inattendu. Ce fait est ressorti clairement des notes au dossier et de la vérification de l'ARC et il explique les va-et-vient de l'appelante. De plus, Mme Nicosia a fourni des explications plausibles pour indiquer pourquoi elle voulait cette maison grande et nouvelle pour y fonder une famille et y faire sa vie.
+[32] Les critères servant à déterminer s'il s'agit d'une affaire de caractère commercial peuvent mener à différentes conclusions au vu des faits du présent appel. Les raisons pour lesquelles Mme Nicosia a vendu chacun des immeubles sont objectivement liées à des bouleversements familiaux et à une rupture. Il s'agit du premier immeuble qui a été vendu et c'est de loin celui qui s'apparente le plus à une maison familiale. Rien ne permet de penser que les améliorations (la reconstruction) n'ont pas été apportées pour que Mme Nicosia et la famille qu'elle souhaitait former puissent en bénéficier. La raison pour laquelle elle a fait l'acquisition de l'immeuble est tout aussi claire : elle avait l'intention d'y fonder une famille pour ainsi réaliser ce rêve ancré en elle[8]. Le renoncement à ce rêve par la vente de l'immeuble ne traduit pas l'intention de l'appelante d'amorcer une nouvelle carrière dans l'immobilier; il est plus probable d'y voir l'échec regrettable de son mariage. La nature du bien, la durée de sa possession, la fréquence des projets immobiliers jusqu'à ce point, les travaux effectués, les motivations et, surtout, les circonstances qui ont rendu la vente nécessaire amènent la Cour à conclure que l'appelante a acquis l'immeuble à titre d'immobilisation plutôt qu'à titre d'opération commerciale planifiée.
+[33] La vente d'immeubles résidentiels en tant qu'affaire de caractère commercial est un acte délibéré. Le comportement de Mme Nicosia était l'antithèse même d'un acte planifié : cet acte n'a pas été fignolé ni exécuté avec précision. Les observations de l'ARC ainsi que le témoignage de l'appelante et sa carrière d'enseignante donnent à la Cour l'impression d'une vie chaotique et peu agréable durant ces années. Il ne faudrait pas confondre ce comportement et une opération commerciale ou une affaire planifiée et délibérée, quelle que soit la qualité de l'exécution. La disposition de l'immeuble situé au 154, boul. Cortleigh est imputable au capital.
+S'il s'agissait d'une immobilisation, était-ce la résidence principale?
+[34] Bien qu'étant imputable au capital, l'immeuble n'était pas la résidence principale de l'appelante, mais un lieu de refuge nécessaire où elle a résidé de façon intermittente. Mme Nicosia n'y a jamais habité de façon continue. Même dans son esprit, elle ne considérait pas l'immeuble comme étant sa résidence principale et elle ne l'occupait pas habituellement[9]. Fait tout aussi important, elle n'a pas fait de démarches pour que l'immeuble situé au 154, boul. Cortleigh devienne véritablement sa résidence principale ou quelque chose qui se rapprocherait de sa « maison », comme elle l'appelait. Aucun élément n'indiquait un usage quotidien correspondant à celui d'une résidence principale : on ne voit aucun changement d'adresse, aucune marque permanente, aucune touche personnelle, ni aucune dépense domestique, mis à part les dépenses associées aux services publics obligatoires. Même si, en rétrospective, l'appelante estime que l'immeuble situé au 154, boul. Cortleigh était sa résidence permanente, cela ne permet pas à la Cour d'écarter les hypothèses du ministre sans d'autres éléments de preuve à l'appui.
+La déclaration de revenus pour l'année d'imposition 2011 contenait-elle une présentation erronée des faits par négligence, inattention ou omission volontaire concernant l'immeuble situé au 154, boul. Cortleigh?
+[35] Selon les conclusions de notre Cour, l'élément de la déclaration de Mme Nicosia dont découle une obligation fiscale supplémentaire est l'exemption refusée pour résidence principale. La Cour estime qu'il s'agissait d'une immobilisation, mais pas d'une résidence principale. S'il s'était agi d'une résidence principale, Mme Nicosia n'aurait pas été tenue d'en mentionner la disposition en 2011.
+[36] Le fait de réclamer l'exemption pour résidence principale au moment de produire la déclaration n'est pas le résultat d'un examen réfléchi et attentif de la situation qui mène à la production d'une déclaration de bonne foi[10].
+[37] Au cœur de l'examen de la question de la négligence ou de l'inattention se trouve le manque de documents ou d'éléments de preuve, même après une décennie, pour étayer une thèse raisonnée et réfléchie quant à la résidence principale. Le problème ne réside pas dans le fait que la thèse de Mme Nicosia est maintenant erronée, mais plutôt dans le fait qu'il lui manque des détails et de la documentation pour montrer raisonnablement qu'elle a peut-être eu raison. La Cour prend soin de ne pas donner au ministre un passe-droit sur ce point. Mme Nicosia savait que le ministre affirmait qu'elle n'avait jamais résidé dans l'immeuble. Elle avait besoin d'une explication raisonnable pour montrer qu'elle y a résidé. Elle a une telle explication, mais guère plus. C'est à bon droit que le ministre a établi de nouvelles cotisations pour les années d'imposition frappées de prescription.
+Mme Nicosia a-t-elle commis une faute lourde?
+[38] Une faute lourde, c'est autre chose. La pénalité que le ministre a imposée découle directement de la conclusion d'une affaire de caractère commercial, de l'allégation selon laquelle Mme Nicosia n'a jamais habité dans cet immeuble et de l'importance du montant qui n'aurait pas été déclaré comme revenu tiré d'une entreprise. Ces trois affirmations sont erronées. L'immeuble était imputable au capital. Mme Nicosia a effectivement habité dans l'immeuble, mais pas comme s'il s'était agi de sa résidence principale. Le fait que le revenu soit imputable au capital en réduit l'ampleur de moitié. De plus, la thèse sur laquelle se fonde les cotisations est à présent la même pour toutes les années d'imposition visées en l'espèce; les immeubles avaient un caractère de capital. La thèse de l'appelante selon laquelle l'immeuble situé au 154, boul. Cortleigh était sa résidence principale est erronée, mais la thèse du ministre voulant qu'il y ait eu une affaire de caractère commercial est également erronée.
+[39] Mme Nicosia est une personne instruite, certes, mais il est manifeste que le monde des affaires et de l'impôt ne lui est pas familier. Elle a cru à tort pouvoir s'y retrouver dans les lois fiscales parce qu'il était question d'un immeuble dont elle était propriétaire. Cependant, au vu de tous les faits, on ne saurait conclure à une action délibérée, une indifférence au respect de la loi[11]. Par conséquent, les pénalités sont annulées.
+V. DÉPENS
+[40] Puisque l'appelante et l'intimé ont chacun eu en partie gain de cause pour à peu près toutes les années d'imposition ainsi que les diverses questions en litige, et compte tenu des lacunes dans la tenue des dossiers entraînant un effort supplémentaire pour tous, aucuns dépens ne seront adjugés.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement du 10 novembre 2022 pour corriger des incohérences et inversions de chiffres faites par inadvertance aux paragraphes 11 et 16 concernant le formulaire T2091 de l'ARC, ainsi que pour corriger une erreur typographique au paragraphe 32. Les corrections sont toutes soulignées et en caractères gras pour les repérer facilement.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2022.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2022 CCI 143
+NO DU DOSSIER DE LA COUR :
+2019-3133(IT)G
+INTITULÉ :
+GRACE NICOSIA ET SA MAJESTÉ LE ROI
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 12 septembre 2022
+MOTIFS DU JUGEMENT :
+L'honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 10 novembre 2022
+DATE DES MOTIFS DU JUGEMENT MODIFIÉS :
+Le 30 novembre 2022
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Dale Barrett
+Avocat de l'intimé :
+Me Kanga Kalisa
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+En blanc
+Pour l'intimé :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] Balanko (Succession) c. La Reine, 2015 CCI 66.
+[2] Ibid., par. 20.
+[3] Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, par. 87.
+[4] Décision Balanko, précitée (note 1), par. 21.
+[5] Agence du revenu du Canada, Interprétation technique no 2011-0408461E5, Principal residence after marriage breakdown (Résidence principale après l'échec du mariage) (25 octobre 2011), p. 3.
+[6] Agence du revenu du Canada, Interprétation technique no 2012-0448391I7, Validity of late‑filed election and designation (Validité d'un choix et d'une désignation produits en retard) (13 février 2013).
+[7] Agence du revenu du Canada, Congrès de l'APFF 2018, 2018‑0761571C6, Table ronde sur la fiscalité des stratégies financières et des instruments financiers : Informations manquantes à l'égard de la disposition d'une résidence principale (5 octobre 2018).
+[8] Dans Happy Valley Farms Ltd. c. La Reine, 1986 CanLII 7434, p. 266 et 267, on décrit une opération commerciale qui est complètement à l'opposé de la situation de l'appelante.
+[9] Sidhu c. La Reine, 2004 CCI 174, par. 21.
+[10] Regina Shoppers Mall Limited v. The Queen, 1990 CanLII 13603 (C.F. 1re inst.).
+[11] Venne c. La Reine, [1984] A.C.F. no 314 (QL), 1984 CanLII 5717 (C.F. 1re inst.).

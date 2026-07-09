@@ -1,0 +1,179 @@
+Title: Syspro Software Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27822/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-498-27822-syspro-software-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-07-15
+
+# Syspro Software Ltd. v. The Queen
+
+- Citation: 2003 TCC 498
+- Decision date: 2003-07-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 362, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Syspro Software Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-15
+Neutral citation
+2003 TCC 498
+File numbers
+2002-3112(IT)G
+Judges and Taxing Officers
+Alban Garon
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3112(IT)G
+BETWEEN:
+SYSPRO SOFTWARE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Reference heard on January 13, 2003, at Vancouver, British Columbia.
+Before: The Honourable Chief Justice Alban Garon
+Appearances:
+Counsel for the Appellant:
+Thomas M. Boddez
+Counsel for the Respondent:
+Margaret E.T. Clare
+____________________________________________________________________
+DETERMINATION OF A QUESTION
+IN THE MATTER of an Agreement that a question of law should be determined by this Court pursuant to section 173 of the Income Tax Act ("Act").
+The question of law for determination as framed in the Reference is the following:
+Are royalties paid by the Appellant to Encore in accordance with the Agreement royalties or similar payments in respect of a copyright in respect of the reproduction of a literary work within the meaning of paragraph 212(1)(d)(vi) of the Act?
+And upon hearing the submissions of counsel;
+Pursuant to section 173 of the Act I determine that the royalties paid by the Appellant to Encore Software Systems Limited in accordance with the Agreement entered into on June 1, 1966, between a predecessor of the Appellant and the above-mentioned corporation were in respect of a copyright in respect of the reproduction of a literary work, and as such they are exempt from tax pursuant to subparagraph 212(1)(d)(vi) of the Act.
+Signed at Ottawa, Canada, this 15th day of July 2003.
+"Alban Garon"
+Garon, C.J.
+Citation: 2003TCC498
+Date: 20030715
+Docket: 2002-3112(IT)G
+BETWEEN:
+SYSPRO SOFTWARE LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR DETERMINATION OF A QUESTION
+GARON, C.J.
+[1] This is a case where the Appellant and the Minister of National Revenue have agreed in writing that a question of law in respect of proposed reassessments for the 1996, 1997, 1998, 1999 and 2000 taxation years should be determined by this Court in accordance with the provisions of section 173 of the Income Tax Act (the "Act"). The proposed reassessments involve the application of Part XIII of the Act, which levies a 25% withholding tax on certain payments made by Canadian residents to non-residents. In the present case, the payments were made by the Appellant to a non-resident corporation in the name of Encore Software Systems Limited ("Encore") in respect of a certain computer software known as "Impact Encore". The question of law for determination is framed in the Reference in the following terms:
+Are royalties paid by the Appellant to Encore in accordance with the Agreement royalties or similar payments in respect of a copyright in respect of the reproduction of a literary work within the meaning of [sub]paragraph 212(1)(d)(vi) of the Act?
+[2] The material facts are outlined in the Reference:
+MATERIAL FACTS AGREED TO BY THE PARTIES
+3. Encore Software Systems Limited ("Encore") is a corporation not resident in Canada and the owner of the copyright in certain computer software known as "IMPACT Encore".
+4. The IMPACT Encore software (the "Software") is a literary work as that term is used in subparagraph 212(1)(d)(vi) of the Act.
+5. On June 1, 1996 a predecessor of the Appellant and Encore entered into an agreement relating to the exploitation of the Software (the "Agreement").
+6. The relevant terms of the Agreement for the purposes of this reference are as follows:
+(a) Encore granted to the Appellant a license to reproduce and distribute the Software in accordance with the terms and conditions set out in the Agreement (clause 4.1);
+(b) the Appellant agreed not to deliver possession of any copies of the Software to any third party unless that person first executed a software license agreement (clause 4.4);
+(c) Encore agreed to cause to be provided to the Appellant a master copy of the Software suitable for reproduction of multiple copies by the Appellant (clause 4.5);
+(d) the Appellant agreed to reproduce the Software only in the same form as the master copies provided and only to make such number of copies as necessary to satisfy the Appellant's obligations (and a reasonable number of copies for demonstration, support and training purposes) (clause 4.6);
+(e) Encore granted to the Appellant the right to use Encore's trade marks and trade names in connection with the distribution and sub-licensing of the Software, such use to cease upon termination of the Agreement (clauses 8.1.14, 18.1.2 and 18.1.6);
+(f) Encore agreed not to approach the Appellant's licensees, potential licensees or sub-distributors without first consulting the Appellant, and agreed not to grant to any other person, entity or distributor the right to trade or install the Software in the territory assigned to the Appellant in the Agreement (clauses 9.11 and 9.12); and
+(g) The Appellant agreed to pay Encore royalties in respect of each software license agreement entered into by the Appellant or its sub-distributors. The royalty is calculated as 17.5% of the sale price (less any discounts and upgrade trade-ins), increased to 20% from January 1, 1998 forward. The percentage is renegotiable at two year intervals, but is not to exceed 20%. In addition, an annual license fee is payable by the Appellant to Encore (clauses 11.2, 11.3 and 11.4).
+7. The Respondent conducted a review of the Appellant's 1996 to 2000 taxation years and proposes to reassess on the basis that the royalties paid by the Appellant to Encore under the Agreement were taxable under Part XIII of the Act, and the Appellant failed to deduct and remit in the following amounts.
+TAX YEAR
+PART XIII TAX
+1996
+$ 6,197.00
+1997
+109,960.00
+1998
+106,714.00
+1999
+177,182.00
+2000
+$ 184,821.00
+Appellant's Argument
+[3] The Appellant's position is that subparagraph 212(1)(d)(vi) of the Act exempts from tax royalties paid under the Agreement because the royalties relate to and are connected with the reproduction of the Software.
+[4] The Appellant contends that the right to reproduce includes the attendant right to distribute. He asserted that no business would pay for the right to reproduce without the right to distribute or for the right to distribute without the ability to access copies.
+[5] In the Appellant's written argument, it was contended that royalties are payable on each sub-license entered into by the Appellant and that for each sub‑license, the Appellant is authorized to reproduce for distribution one copy of the Software. In these circumstances, the royalties clearly relate to and are connected with the right to reproduce the Software, such that the exemption in subparagraph 212(1)(d)(vi) of the Act is applicable.
+[6] It was also submitted by the Appellant, that the exemption set out in subparagraph 212(1)(d)(vi) of the Act applies here by virtue of the relationship or connection between the royalties and the right to make copies of the software. In support of this conclusion, the Appellant relied on the decision of the Supreme Court of Canada in Nowegijick v. The Queen et al., 83 DTC 5041, which considered the meaning of the words "in respect of", which are found in the exemption in subparagraph 212(1)(d)(vi).
+[7] Counsel for the Appellant also referred to the decision of Bowman, A.C.J. of this Court in Angoss International Limited v. The Queen, 99 DTC 567, where the taxpayer had paid $150,000 (U.S.) to a non-resident under a source code license agreement. He pointed out in that case that the learned judge concluded that the exemption applied to the full amount of a royalty even though it was related to or in connection with both the right to use and the right to reproduce software.
+The Respondent's argument
+[8] The Respondent submits that a broad reading of the revised exemption from Part XIII tax would be contrary to the expressed intention of Parliament to restrict the ambit of the exemption set out in subparagraph 212(1)(d)(vi) of the Act. In support of this proposition, counsel for the Respondent relied on an excerpt from the book of Ruth Sullivan, Driedger on the Construction of Statutes, Third Edition, page 369, which reads as follows:
+In keeping with the current emphasis on purposive analysis, modern courts are particularly concerned that exceptions and exemptions be interpreted in light of their underlying rationale and not be used to undermine the broad purpose of the legislation.
+[9] The Respondent submits that when the Appellant paid the royalties in respect of each software license entered into by the Appellant, the royalties are paid in respect of the use of the Software and not royalties in respect of the reproduction of the Software.
+[10] The Respondent further suggests that the royalties that were paid by the Appellant was not based on either the right to reproduce the Software or on the number of reproductions made or used by the Appellant.
+[11] The Respondent went on to propound that the broad scope of the phrase "in respect of" only extends to expanding what constitutes a "production or reproduction" as these are the words which the phrase modifies. In the Respondent's view, it does not encompass payment for the use and distribution of the Software.
+Analysis
+[12] Since it is agreed by the parties that the Software 'Impact Encore' is a literary work, the precise question in issue is whether the royalty payments made by the Appellant to Encore during the years in question are in respect of a copyright in respect of the reproduction of a literary work.
+[13] Part XIII of the Act imposes a tax of 25% on a wide range of payments made by Canadian residents to non-residents. In the long list of classes of payments set out in subsection 212(1) of the Act, royalties are included. There is, however, an exemption from that tax for a royalty paid to a non-resident in circumstances specified in subparagraph 212(1)(d)(vi). The relevant portion of subsection 212(1) reads:
+(1) Tax. Every non-resident person shall pay an income tax of 25% on every amount that a person resident in Canada pays or credits, or is deemed by Part I to pay or credit, to the non-resident person as, on account or in lieu of payment of, or in satisfaction of,
+. . .
+(d) Rents, royalties, etc. – rent, royalty or similar payment, including, but not so as to restrict the generality of the foregoing, any payment
+. . .
+but not including
+(vi) a royalty or similar payment on or in respect of a copyright in respect of the production or reproduction of any literary, dramatic, musical or artistic work,
+[14] It is therefore necessary to ascertain the nature of the rights and obligations set out in the Agreement between a predecessor of the Appellant and Encore. These rights and obligations referred to in paragraph 6 of the Reference are in broad outline as follows:
+a) The Appellant was granted a license to reproduce and distribute the Software in accordance with the terms and conditions specified in the Agreement.
+b) The Appellant was entitled to be provided by Encore a master copy of the Software suitable for reproduction of multiple copies.
+c) The Appellant agreed not to deliver possession of any copies of the Software to any third party unless that person first executed a Software License Agreement.
+d) The Appellant also agreed to reproduce the Software only in the same form as the master copies provided and only to make such number of copies as detailed in the Agreement.
+e) Finally, the Appellant agreed to pay Encore, as appears from paragraph 6(g) of the Reference, royalties calculated on the basis of specified percentages of the sale price in respect of each Software License Agreement entered into by the Appellant or its sub‑distributors.
+[15] From the above clauses of the Agreement, it is apparent that the Appellant is given the right to reproduce the Software and make copies thereof subject to certain limitations set out therein. The Appellant is also given the right to distribute the Software. Royalties are paid by the Appellant in respect of each Software license Agreement.
+[16] In my view, the fundamental feature of the Agreement is that the royalties are paid for every Software License Agreement entered into by the Appellant or its sub-distributors. Execution of such an Agreement is a condition precedent to the acquisition of a copy of the software. It is the Software License Agreement that permits the Appellant to reproduce the Software. I do not agree with the Respondent that the royalties are not based on the number of reproductions made by the Appellant. Quite the contrary, each time there is a Software License Agreement, there is a reproduction of the Software and a royalty is paid.
+[17] In my view, the language used in subparagraph 212(1)(d)(vi) clearly comprehends or includes the right to reproduce the software that was granted to the Appellant by the Agreement binding the Appellant and Encore. It is precisely for this right that royalties were paid by the Appellant to Encore. I am referring more particularly to the following portion of this enactment "a royalty in respect of a copyright in respect of the . . . or reproduction of any literary . . . work".
+[18] It may not be amiss to refer to the historical background regarding subparagraph 212(1)(d)(vi) of the Act. Prior to its repeal by section 92 of c.1 of the Statutes of Canada, 1977-78, this subparagraph simply read:
+(vi) a royalty or similar payment on or in respect of a copyright,
+The present wording of subparagraph 212(1)(d)(vi) was substituted therefor, which I reproduce again for sake of convenience:
+(vi) a royalty or similar payment on or in respect of a copyright in respect of the production or reproduction of any literary, dramatic, musical or artistic work.
+[19] Despite the provisions of subsection 45(2) of the Interpretation Act which lays down that an amendment of an enactment does not necessarily imply a change in the law, it would appear that Parliament intended by the amendment introduced in 1977 to narrow the ambit of this exemption.
+[20] In my view, prior to 1977 royalties in respect of a copyright were completely exempt from Part XIII tax while since 1977, not only has the exemption been restricted to literary, dramatic, musical and artistic works, but also to the right to produce or reproduce such works.
+[21] What is the ambit of the present exemption?
+[22] The import of the phrase "in respect of" used twice in the present enactment has been explained in the case of Nowegijic v. The Queen, [1983] 1 S.C.R. 29, by the Supreme Court of Canada as it appears from the following passage at page 39:
+The words "in respect of" are, in my opinion, words of the widest possible scope. They import such meanings as "in relation to", "with reference to" or "in connection with". The phrase "in respect of" is probably the widest of any expression intended to convey some connection between two related subject matters.
+[23] The words "a copyright in respect of the production or reproduction of any . . . work" must therefore be given a broad meaning and would, in my view, encompass any other right connected with the right to produce or reproduce the work, including the right to distribute the work. The broad scope of the phrase "in respect of" expands what constitutes a "production or reproduction".
+[24] Also, from section 3 of the Copyright Act, it appears that the major right granted by a copyright is the right to produce or reproduce a work. That right is formulated thus in the opening portion of subsection 3(1) of the that Act:
+For the purposes of this Act, "copyright" in relation to a work, means the sole right to produce or reproduce the work or any substantial part thereof in any material form whatever . . .
+There is no reference in this subsection to the right to distribute copies of a work. This right to distribute may be viewed as a component of the right to reproduce or is ancillary to such a right.
+[25] This conclusion seems to be in accord with the views expressed by Associate Chief Justice Bowman, in the case of Angoss International Limited, supra.
+[26] In that case, the parties had two separate agreements, a Source Code License Agreement and a Value Added Reseller License Agreement. The Agreements were to allow the taxpayer to examine the source code of SmartWare for 60 days. One purpose of the Agreement, if it decided to pay $150,000 (U.S.), was to grant it the use of the source code in the manufacture of Software, which it intended to sell. One of the issues that the Court had to determine in that case was whether the payment was exempt under subparagraph 212(1)(d)(vi) of the Act. Associate Chief Justice Bowman made the following observations:
+It follows therefore that a computer source code is a literary work in respect of which copyright subsists. It is equally clear that the payment was for the right to use or reproduce the source code and was therefore "on or in respect of a copyright in respect of the production or reproduction of any literary . . . work."
+[27] In that case, the Court therefore exempted the whole $150,000 (U.S.) without any regard to the fact that a portion thereof was for the right to distribute copies of a work.
+[28] The matter could be viewed from another angle. In effect, it could be said that subparagraph 212(1)(d)(vi) of the Act exempts from Part XIII tax payments relating to the right to produce or reproduce among other matters, a literary work but it does not embrace the right "to use" for instance, the literary work by the payer for its own internal purposes and not with a view of selling the Software to third parties. In this connection, it is of interest to contrast the wording of subparagraph 212(1)(d)(vi) with subparagraphs 212(1)(d)(i) and 212(1)(d)(vii) of the Act where the right "to use" property described in these respective subparagraphs is clearly spelled out. To put it in another way, if the Appellant had used the literary work in the course of its own in-house operations, it would most probably be taxable pursuant to subparagraph 212(1)(d)(i) of the Act which provides clearly that the "use" or the right "to use" any property is subject to Part XIII tax. Although in some sense "use" takes place in the production or reproduction of any work, to give meaning to subparagraph 212(1)(d)(vi) of the Act requires that the exemption provision prevail over for instance subparagraph 212(1)(d)(i) or else the exemption would never apply.
+[29] In view of the above observations, I am of the opinion that the subject royalties paid to Encore by the Appellant are exempt from Part XIII of the Act.
+[30] For these reasons, I determine that the royalties paid by the Appellant to Encore are royalties or similar payments in respect of the reproduction of a literary work within the meaning of subparagraph 212(1)(d)(vi) of the Act and as such they are exempt from tax pursuant to this subparagraph.
+Signed at Ottawa, Canada, this 15th day of July 2003.
+"Alban Garon"
+Garon, C.J.
+CITATION:
+2003TCC498
+COURT FILE NO.:
+2002-3112(IT)G
+STYLE OF CAUSE:
+Syspro Software Ltd. v. The Queen
+PLACE OF HEARING
+Vancouver, British Columbia
+DATE OF HEARING
+January 13, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Chief Justice
+Alban Garon
+DATE OF JUDGMENT
+July 15, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Thomas M. Boddez
+Counsel for the Respondent:
+Margaret E.T. Clare
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Thomas M. Boddez
+Firm:
+Thorsteinssons
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

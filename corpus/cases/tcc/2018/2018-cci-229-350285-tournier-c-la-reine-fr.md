@@ -1,0 +1,145 @@
+---
+title: "Tournier c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/350285/index.do"
+last_modified: "2018-11-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 229"
+citation2: ""
+neutral_citation: "2018 CCI 229"
+decision_date: "2018-11-16"
+language: "fr"
+item_id: "350285"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5025
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:41:48.620000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "066409fd43e92388d1c5fba88b41eff500d7fcb963816c09670c8543d1194071"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tournier c. La Reine
+
+- Citation: 2018 CCI 229
+- Decision date: 2018-11-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5025, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tournier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-11-16
+Référence neutre
+2018 CCI 229
+Numéro de dossier
+2017-4483(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-4483(IT)I
+ENTRE :
+JOHANNE L. TOURNIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 5 octobre 2018, à Halifax (Nouvelle-Écosse), et sous réserve des observations écrites subséquentes des deux parties
+Devant : L’honorable juge Randall S. Bocock
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimé :
+Meaghan Mahadeo
+JUGEMENT
+CONFORMÉMENT aux motifs de jugement ci-joints, il est fait droit à l’appel pour l’année d’imposition 2015 et l’appelante a le droit de déduire des dépenses de 1 200 $ à titre de frais d’entreposage des dossiers liés à son obligation de tenir certains dossiers de clients attribuables à son exercice antérieur du droit.
+Signé à Ottawa (Canada), ce 1er jour de novembre 2018.
+« R. S. Bocock »
+Le juge Bocock
+Référence : 2018 CCI 229
+Date : 20181116
+Dossier : 2017-4483(IT)I
+ENTRE :
+JOHANNE L. TOURNIER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+[1] L’appelante (« Mme Tournier ») est membre à la retraite du Barreau de la Nouvelle-Écosse (le « Barreau »). Elle a déduit des cotisations professionnelles de 57 $ (« cotisations annuelles ») et certains frais d’entreposage de 1 200 $ (« frais d’entreposage ») à titre de dépenses au cours de l’année d’imposition 2015. Le ministre du Revenu national (le « ministre ») a autorisé la cotisation annuelle, mais a refusé les frais d’entreposage des dossiers. Le ministre affirme que Mme Tournier n’a pas tiré de revenus de la prestation de services juridiques et qu’elle n’a pas exploité d’entreprise au cours de l’année d’imposition 2015. Mme Tournier interjette appel de cette décision.
+[2] À l’origine, l’appel devait être entendu à Halifax, le 5 octobre 2018. Cependant, à cette date, Mme Tournier ne s’est pas présentée. Elle a plutôt signé un exposé conjoint des faits, puis a demandé à la Cour de rendre sa décision après avoir entendu les observations orales de l’intimée. De plus, l’appelant avait présenté des observations écrites ce jour-là. L’avocate de l’intimée a demandé un délai supplémentaire afin de répondre à ces observations. Pour cette raison, la Cour a donné l’occasion à l’intimée de présenter des observations écrites, et à l’appelante de présenter des observations de réponse. Ce processus est maintenant terminé et la Cour va rendre sa décision.
+[3] D’autres faits sont utiles. C'est en exerçant le droit pendant 27 ans que Mme Tournier a acquis les dossiers qui ont donné lieu aux frais d’entreposage de dossiers. Elle est devenue membre « à la retraite » du Barreau en 2013, cessant de fournir des services juridiques actifs cette année‑là. Un an plus tôt, après avoir cessé d’exploiter son bureau traditionnel, Mme Tournier a déménagé les dossiers des clients dans un entrepôt, puis a brièvement fourni des services juridiques à partir de son domicile.
+[4] Les membres du Barreau sont assurés contre les risques de responsabilité professionnelle par l’entremise de la Lawyers Insurance Association of Nova Scotia (« LIANS »). La LIANS recommande que les dossiers des clients soient conservés, selon le type, pendant 3 à 25 ans. De plus, il existe des directives détaillées et précises pour les dossiers, qu’il est possible de numériser, de détruire et de conserver indéfiniment. Voici la meilleure caractérisation pour résumer l’obligation relative à la conservation des dossiers : les dossiers devraient être facilement accessibles au besoin et lorsque cela est nécessaire pour atténuer la responsabilité juridique découlant de la destruction prématurée, en tenant compte des délais de prescription pertinents. La contrainte d’entreposage des dossiers de Mme Tournier est temporaire pour la profession juridique actuelle; les nouveaux dossiers sont maintenant numérisés au fur et à mesure qu’ils sont créés, puis stockés facilement et efficacement en format électronique.
+[5] La question dont la Cour est saisie est simple. Mme Tournier, en tant que membre « à la retraite » du Barreau sans revenu d’entreprise actuel, peut-elle déduire les frais d’entreposage de dossiers à titre de dépense liée aux dossiers de clients créés au cours des années d’imposition précédentes lorsqu’elle avait un revenu d’entreprise et réalisait un profit d’entreprise?
+[6] En refusant de déduire les frais d’entreposage de dossiers, le ministre a tiré les hypothèses ci-dessous à partir des faits, de la loi et des observations écrites.
+Dispositions législatives
+L’alinéa 18(1)a) de la Loi prévoit une limite générale aux déductions permises pour les entreprises. L’alinéa 18(1)a) est ainsi rédigé :
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+(a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien [...]
+Résumé des observations de l’intimée
+[7] Compte tenu du libellé, l’avocat de l’intimée présente l’argument suivant : Ce ne sont pas toutes les dépenses qui sont déductibles; seules celles engagées pour gagner un revenu le sont : Poulin c HMQ, 96 DTC 6477 (CAF), infirmé par Poulin c HMQ, 94 DTC 1667 (CCI). D’autres jugements appuient cette proposition. Un cabinet d’avocats ayant cessé d'exercer ses activités en 1988 n’a pas obtenu la déduction demandée pour les trois années d’imposition subséquentes visées par l’assurance : Pearlman c HMQ, [1999] 1 CTC 96 (CCI), confirmé par [1996] 2 CTC 2721 (CAF). Cependant, une interruption temporaire de l’exercice du droit avec l’intention de reprendre ce même exercice plus tard et d’en tirer un profit est une preuve suffisante qu’il n’y a pas de cessation permanente des activités : Churchman c HMQ, 2004 CCI 191. En conciliant ces deux contextes conflictuels, la Cour de l’impôt a conclu que « le fait d’être avocat ne constitue pas en soi une entreprise » et, par conséquent, les dépenses engagées par un avocat qui n’exerce pas le droit en pratique privée, mais plutôt en tant qu’avocat dans une entreprise, ne sont pas des dépenses d’entreprise déductibles : Jamieson c HMQ, 2013 CCI 52.
+[8] L’intimée a toutefois admis que certaines administrations ont permis de déduire des dépenses après la cessation des activités d’une entreprise active. D’après les décisions de première instance et d’appel dans l’affaire Poulin ci-dessus, la Cour d’appel fédérale a déclaré, bien qu’il s’agisse d’une remarque incidente, que les activités entreprises après la cessation des activités étaient identiques aux activités entreprises pendant l’exploitation, alors la poursuite de ces activités constituait une preuve de poursuite partielle des activités commerciales. De même, l’achèvement des étapes nécessaires à la liquidation d’une entreprise après la cessation peut être la preuve d’une phase de fermeture progressive de l’entreprise, même si aucun revenu n’est recherché, acquis ou gagné.
+Observations de Mme Tournier en bref
+[9] En guise de réponse, Mme Tournier a présenté deux arguments qu’il est possible de résumer brièvement. Dans l’examen des principes de l’arrêt Poulin, la tenue ou l’entreposage des dossiers [traduction] « constitue un risque inhérent de la profession » et un risque nécessaire à la pratique du droit. Le défaut de le faire aurait donné lieu à des sanctions progressives pouvant aller jusqu’à la radiation professionnelle. Deuxièmement, l’obligation de tenir à jour les dossiers fermés est nécessaire pour se conformer aux lignes directrices et aux « pratiques de fonctionnement normalisées et acceptables » établies par la LIANS et le Barreau. Certaines administrations ont autorisé des dépenses déductibles après la cessation des activités, mais des coûts raisonnables ou inévitables ont été engagés après la cessation des activités en raison de contraintes de temps et d’obstacles opérationnels. L’un de ces coûts concernait des dépenses de réparation d’un immeuble locatif avant la réinstallation du propriétaire : Raegele c HMQ, [2002] 2 CTC 2955. Le second concernait les frais de liquidation pour la vente d’équipement de production laitière à une entreprise laitière inactive : Langille c HMQ, 2009 CCI 398.
+Analyse et décision
+[10] Les faits suivants, fondés sur la réalité de la liquidation et de la cessation de la prestation de services professionnels, sont déterminants pour l’issue du présent appel. Au cours des années où elle a fourni des services juridiques à des clients, Mme Tournier s’acquittait chaque année de responsabilités liées à la conservation des dossiers, à l’accessibilité et, ultimement, aux obligations futures en matière d’entreposage. À l’heure actuelle, les professionnels utilisent de nouvelles méthodes de stockage électronique, dont il est question dans la réglementation mise à jour concernant la conservation des dossiers numériques. Pendant les 15 années où Mme Tournier a fourni des services juridiques, de telles options efficaces n’étaient pas accessibles. À ce titre, afin de gagner un revenu courant, elle a dû consacrer des sommes d'argent en vue de l’entreposage futur.
+[11] De plus, Mme Tournier assumait des responsabilités professionnelles et des risques futurs en tant que professionnelle exerçant seule, ce qui était pertinent par rapport à la nature, au caractère et à la structure des affaires qu’elle avait choisies. Pourquoi est-ce ainsi? C’est principalement en raison de sa responsabilité professionnelle. Il y a une responsabilité délictuelle sous-jacente en cas de négligence, qui découle d’abord des services de conseils juridiques donnés, mais aussi de l’obligation de conserver et d’avoir accès à la preuve de ces conseils afin d’éviter les réclamations futures en responsabilité pour la destruction de dossiers de clients ne respectant pas les normes. De telles normes ou pratiques exemplaires sont prescrites par la Barreau. Toutefois, l’assurance de la LIANS procure une protection contre les risques (accord d’indemnisation). Cette protection comporte des dispositions, des exigences et des normes qui traitent notamment de l’entreposage et de la tenue des dossiers.
+[12] L’accumulation passée de futurs services de tenue de dossiers, l’entreposage des dossiers et la nécessité de maintenir actuellement sa protection d’assurance pour les services juridiques passés représentent tous la prestation permanente et courante de services juridiques (les « services continus ») au-delà de la période temporelle au cours de laquelle le revenu a été reçu, c’est-à-dire l’année au cours de laquelle il a été gagné et comptabilisé. Autrement dit, les services continus fournis par Mme Tournier en 2015 étaient attribuables et liés au revenu gagné au cours des années précédentes. Cela concorde avec la notion de dépenses inévitables engagées dans les années à venir qui se réfèrent au revenu antérieur mentionné dans le cas des décisions Poulin, Raegele et Langille.
+[13] L’intimée n’a pas soulevé la question du caractère raisonnable dans sa réponse. La Cour fait remarquer que de telles dépenses existent à l’heure actuelle, seulement trois ans après la cessation de la prestation de services juridiques « actifs ». Cependant, compte tenu des progrès technologiques, la réduction des coûts annuels d’entreposage de Mme Tournier est possible grâce à la numérisation et à la destruction planifiée. Un argument de caractère déraisonnable peut être invoqué si ces pratiques exemplaires ne sont pas adoptées à l’avenir, mais ce n’est pas le cas actuellement.
+[14] L’appel est accueilli, sans frais.
+Signé à Ottawa (Canada), ce 16e jour de novembre 2018.
+« R. S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2018 CCI 229
+No DU DOSSIER DE LA COUR :
+2017-4483(IT)I
+INTITULÉ :
+JOHANNE L. TOURNIER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle-Écosse)
+Date de l’audience :
+Le 5 octobre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 16 novembre 2018
+COMPARUTIONS :
+Avocat de l’appelante :
+[EN BLANC]
+Avocate de l’intimée :
+Meaghan Mahadeo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

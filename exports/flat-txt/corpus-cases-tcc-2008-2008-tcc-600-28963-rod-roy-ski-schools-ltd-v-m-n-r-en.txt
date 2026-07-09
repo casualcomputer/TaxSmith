@@ -1,0 +1,300 @@
+Title: ROD ROY SKI SCHOOLS LTD v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28963/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-600-28963-rod-roy-ski-schools-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-11-14
+
+# ROD ROY SKI SCHOOLS LTD v. M.N.R.
+
+- Citation: 2008 TCC 600
+- Decision date: 2008-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6773, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+ROD ROY SKI SCHOOLS LTD v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-11-14
+Neutral citation
+2008 TCC 600
+File numbers
+2007-2603(EI)
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-2603(EI)
+BETWEEN:
+ROD ROY SKI SCHOOLS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 16, 2008, at Montréal, Québec
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Agent for the Appellant:
+Douglas Roy
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue on the appeal made to him under section 91 of the Act is vacated.
+Signed at Ottawa, Canada, this 14th day of November, 2008.
+“C.H. McArthur”
+McArthur J.
+Citation: 2008 TCC 600
+Date: 20081114
+Docket: 2007-2603(EI)
+BETWEEN:
+ROD ROY SKI SCHOOLS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] This appeal is from a decision of the Minister of National Revenue that 10 individual workers were employed by the Appellant in insurable employment, for various periods from January 1, 2004 to December 31, 2005. An officer of the Appellant, Douglas Roy,[1] as well as four others testified for the Appellant, and the auditor, Jean-Pierre Houle, along with two others testified for the Respondent. Including the 10 individuals referred to in this appeal, I believe that approximately 100 workers are affected by the Minister’s decision. The workers are described as instructors (monitors), supervisors, directors or chauffeurs, and this judgment applies to them equally without regard to their designation. Further, the hearing in this appeal was bilingual.
+[2] Douglas Roy, an impressive witness, was the agent for the Appellant. His father, Rod Roy, commenced a novel ski school in Québec some 25 years ago. At that time, Rod Roy was a school teacher in Montréal or area and organized some of his fellow teachers, college students and others, who were enthusiastic skiers, to teach novists, particularly children. It was a business for Rod Roy and his corporation. Also, the workers acknowledge that they were volunteers, being paid at least for part of their expenses. I believe the Appellant made money primarily on the bus and other travel arrangements. Over the years, it worked very well for all concerned.
+[3] In 2006, the Appellant filed an application with the Minister for a determination whether various workers held insurable employment while working with the Appellant, and in March 2007, the Minister provided its decision to the effect that the workers did hold insurable employment during the disputed periods. The Appellant appealed from that decision and both parties view the issue as being whether the workers were employees or volunteers.
+[4] The Appellant’s business offered travel and ski lessons at different ski centers in the Province of Québec and in the State of Vermont. The workers included six ski instructors, also referred to as monitors, and four supervisors or directors. It operated primarily on weekends and Tuesdays during the winter months. The workers taught, for the most part, school children recruited by the Appellant. The students were bused to the ski hills as arranged by the Appellant. The workers decided when and where they would teach or supervise within the Appellant’s needs. They were all highly qualified and needed very little direction although the Appellant’s supervisors oversaw the entire operations, both on and off the ski hills. Without exception, the Appellant’s witnesses stated that they had a passion for skiing and were involved with the Appellant’s programs because they enjoyed it. They took advantage of free skiing and the Appellant’s payments to them would offset at least some of their skiing expenses. They did not consider themselves employees.
+[5] The Appellant’s position, taken from the Notice of Appeal, includes the following:
+The Appellant determines work schedules and instructors decide their own schedule choosing to give professional instruction for a maximum of four hours a day on Saturdays, Sundays or Tuesdays.
+The on-hill staff are not paid a salary. An expense allowance is granted for the following reasonable expenses:
+· Travel to ski resorts
+· Meals
+· Ski or snowboard equipment depreciation
+· Equipment maintenance
+· Ski clothing & accessories (helmet, goggles, gloves, etc.)
+· CSIA or CASI professional dues
+The Appellant organized the students and provided busing to any one of a number of locations known to skiers in Eastern Canada. These included Gray Rocks, Morin Heights, Mont Gabriel, Mont Blanc, Tremblant, Saint‑Sauveur, Sainte‑Anne, Jay Peak, Sutton, Sugar Bush and others. The instructors would be assigned a class at the hill and would, by and large, be on their own with their ski students.
+[6] In arriving at a decision, the Minister relied on the assumptions of fact contained in the Reply to the Notice of Appeal, which assumptions are set out in the attached Schedule “A”. Its position is that the workers were working under a contract of service within paragraph 5(1)(a) of the Employment Insurance Act and that their employment was insurable, relying primarily on Article 2085 of the Civil Code of Québec.
+[7] Each instructor agreed to abide by a Statement of Position for Instructors prepared by the Appellant. It included the following headings:
+INTRODUCTION
+RULES AND REGULATIONS
+Preparation
+Participation
+Punctuality
+Pre-teaching responsibilities
+Teaching
+Attendance
+Report Cards
+Patrol Duties
+Afternoon Classes: (Ski Junior)
+Accident Policy
+Chain of Communication
+Expense Allowance
+Policy on Transportation
+Dress
+Tow Line Cutting
+Deportment
+[8] Exhibit R-1 is a list of individuals and periods worked with the Appellant. Also, the Appellant referred to the payments made to the workers as Expense Allowances, as set out in Exhibit R-3 as follows:
+RR PLUS, RR MAX & SKI BOOMERS
+4 hours of instruction per day plus attendance at mini clinics plus paperwork such as attendance and report cards
+Experience
+Daily expense allowance
+Assistant Instructor
+$20
+No Experience
+$40
+1 Year Experience
+$45
+2 Years Experience
+$52
+3 Years Experience
+$55
+CSIA – CASI Level II
+$63
+CSIA – CASI Level III
+$65
+SKI JUNIOR
+Class of 3-1/2 hours, plus attendance at mini clinics plus paperwork such as attendance and report cards
+Experience
+Daily expense allowance
+Assistant Instructor
+$20
+No Experience
+$40
+1 Year Experience
+$44
+2 Years Experience
+$50
+CSIA – CASI Level II
+$60
+[9] It is important to look beyond the paperwork to understand the reality of the situation. A short summary of the evidence given by witnesses on behalf of both the Appellant and the Respondent follows.
+Appellant’s witnesses
+[10]Douglas Roy is a principal of the Appellant corporation. He stated that payments from the Appellant to the workers were a partial repayment of expenses they incurred, and not salaries. The workers were closer to being volunteers than employees. All workers held other fulltime employment or were fulltime university students. The workers’ endeavours were motivated foremost by their passion for skiing and not by money. Most, if not all, lost money in that their reasonable expenses exceeded their remuneration from the Appellant. Many of the workers were school teachers and were skilled at communicating with their ski class.
+[11]Stephen Southern was a supervisor for the Appellant. Over a period of 20 years, he had been a student of the Appellant, an instructor and supervisor. He testified that he became involved with the Appellant because he had a “huge passion for skiing – and enjoyed working with kids …”. He spoke of having free ski runs[2] before and after classes. He replied to a question as follows:
+Q. Do you consider the money that you receive from Rod Roy to be a salary or a reimbursement of the expenses, for some of your expenses, that you incurred?
+A. Okay. So, when I look at the overall expense of my Saturday, you know, at the end of the day, it’s a wash by the time that I fill up the car with gas and I pay for lunch or a coffee in the morning and a little bit of après-ski or dinner on the way home, it’s a wash for me, I don’t, personally, I don’t ski or teach to make money, I ski because…I do it because I have a passion for the sport and I really enjoy it. So, I don’t really consider it a salary.
+…
+A. I certainly wouldn’t consider it a job.
+(Transcript, pages 56 and 57)
+[12]David Superstein, who is a retired high school principal, was a standby chauffeur. He described his position:
+As the accident chauffeur, I have to be at the hill before the buses get there. If there is an accident and the injured person is transportable by car, I would drive them to the nearest hospital and stay with them.
+(Transcript, page 61)
+He added that the money he received from the Appellant was to compensate him for expenses he had to pay for gas and food.
+[13]Glen Prunier was a former school teacher and director of the Appellant. He explained that he and Douglas Roy’s father were friends and high school teachers in the early 1980s. He continued:
+A. … My children were five and three and I saw this as an opportunity to get them involved in a sport which otherwise would be very expensive for us and we wouldn’t be able to participate in. So, I sort of saw myself back then as giving a little bit of time on week-ends in order for my kids and my family to be able to go skiing and we enjoyed it so much that I kept on my association with the Ski School doing many different tasks in the Ski School sometimes an instructor, sometimes a supervisor, a section director. Latterly, we would take charge of some trips sometimes, week‑end trips, what have you, and we just kept on doing it for our love of skiing and I think I retired in 2005 maybe, I’m not sure, 2006 so, we had a lengthy association, it was a lot of fun.
+…
+A. On the trips, basically, I was the person who coordinated the work of the other people at the ski hill and in between trips, I would be the person responsible for filling in a report about what had happened and make contact with staff and also the parents of the kids who were the customers, write up a few memos to sort of make sure the day went properly when we got to the ski hill, coordinate the bussing, trying to make sure that we had enough instructors or bus supervisors available on any particular day. (Transcript, pages 69 & 70)
+He also added:
+A. I never thought of this as a job so, the money never looked to me as income. Each time that I performed the different functions in the Ski School, I did receive increasing amounts of money from the Ski School but it was only because I was doing more things. So, if I didn’t, you know, the way I saw it was that I had bought the computer, for example, and I had bought the cell phone and I was paying for the monthly telephone bill and if the Ski School was going to compensate me for its use, that to me, seemed fair and it was part of the way I looked at it as a kind of a trade, my time and my equipment in exchange for some functions that I agreed to do and as I said, it was never a job to me, I did this, I never did this for money, that wasn’t the purpose because I think it costs me more money than I received in … the things I had to pay for, actually, cost more than what I received from you so I wasn’t, no, it was not a salary.
+…
+A. …I did this voluntarily, I did this for fun, like I said, it was not a job so I don’t see how I could be seen as an employee,…
+(Transcript, pages 74 and 75)
+[14]Edward Janiszewski was the accountant for the Appellant for many years. Presently, he is the Mayor of Dollard des Ormeaux. He testified that most of the Appellant’s profit comes from being a type of travel agent and discounting tickets. He added that those people who helped with “the kids” did so:
+…basically for a partial recovery of expenses because we always looked at them, had these expense sheets filled out and I always found them to be much less than many of my corporate clients were paying to their employees. They were totally, in my opinion, the expenses were totally reasonable and in terms what was calculated and the reimbursement was totally less than what the expenses could have been. We had been verified previously by Revenue Canada people who found them to be reasonable.
+…
+I have friends whose children were involved with the Ski School and it was more of a basis to go skiing rather than to make any money and it helped pay for some of their expenses and they had a good time with kids and they were able to ski a bit on their own so, that seems to be the motivation for this friend of mine’s daughter and it always was the Ski School that operated that way and very successfully.
+…
+…they were always justified by a reimbursement of partial expenses, at least, they were considered to be a portion of the expenses but not the total amount but they there were reimbursed a certain amount that could easily be justified.
+(Transcript, pages 79 and 80)
+Respondent’s witnesses:
+[15]Robert Kunanec testified that he had been associated with the Appellant from 1998 to 2004 inclusive, as a ski instructor. He testified that each year, returning staff completed forms and paid $40 to $60 to the Appellant for training sessions. Further, he paid the approximately $100 membership fee to the Canadian Ski Instructors’ Alliance. He paid $500, I believe, for a five-day course and a level 2 certificate. He paid his own transportation to and from the ski hill and also paid $300 for a ski suit displaying the Appellant’s logo. He described a typical day:
+A. A typical daily routine would be to arrive at the hill, typically before eight thirty (8:30) in the morning, attend a session, a training session in the morning followed by either or followed by approximately four hours of teaching. After that, very minor paperwork and then the rest of the day was yours to ski as long as the mountain remained opened.
+…
+A. Depending if the mountain was equipped for night skiing, we could typically stay about three hours maybe four hours longer and if it only had day skiing, we typically had about an hour and a half at the end.
+…
+A. The Ski School would pay for the daily ski pass.
+(Transcript, page 92)
+[16]In 2004, he was paid approximately $65 to $70 per day. He gave the opinion that he was an employee because he received money in exchange for services. He added that the payment he received covered expenses:
+“…but not by much. You were not in it to make money, you were in it for the passion of skiing”.
+[17] Daniel Couture of the Audit Division of the Canada Revenue Agency testified in French. Regarding Mr. Roy, he stated that he was very good and that he had had no problem with him, and added the following:
+[TRANSLATION]
+A. He told us that, in fact, apprentice instructors receive a reimbursement of expenses of $20 per day and that instructors without experience receive $40; with one year of experience instructors receive $45; two years’ experience, $52; three years’ experience, $55; Level 2 instructors, $63; and Level 3 instructors, $65; and there may even be a difference if instructors work only with children….
+(Transcript, page 114)
+He stated that he spent at least two weeks with the Appellant. As a result of his audit, he came to the conclusion that the amounts paid to the workers did not represent a reimbursement of expenses but rather, a salary, and the employees could deduct certain amounts by completing and submitting form T2200[3] with their income tax returns.
+[18] Jean‑Pierre Houle was an appeals officer with CRA. In arriving at the decision that the workers were in insurance employment, Mr. Houle took into account the three criteria under the Civil Code of Québec. First, the Code requires that there be a presentation of work. Mr. Houle found that these persons had carried out work. Second, there must have been remuneration. The monitors confirmed that they had received remuneration, and not merely a reimbursement of their expenses. Mr. Houle continued with the third criterion, which he considered the most important, namely, the relationship of subordination. He concluded that there was a relationship of subordination. He found that Exhibit R-2, entitled “Statement of Position for Instructors”, prepared by the Appellant, was very important because the Appellant’s expectations were clearly set out in this document. It was the code of conduct that the Appellant asked the monitors to follow. He made the same decision with respect to the supervisors and the directors, who are monitors but with more experience and additional tasks.
+Analysis
+[19] Counsel for the Respondent, I believe correctly, narrows the issue to whether the workers involved with the Ski School were volunteers or employees. He relied primarily on the decisions in 9041-6868 Québec Inc. v. Canada,[4] D & J Driveway Inc. v. Canada[5] and Comité des personnes assistées sociales de Pointe St‑Charles v. Canada.[6] He cited the first two cases for the principle that the test to be applied to determine if an endeavour in Québec is a contract of service or for service are the tests contained in the Civil Code, stating that it is the Civil Code of Québec that determines what rules to apply to a contract entered into in Québec.
+[20]Further Article 2085 of the Civil Code reads as follows:
+2085 A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+Mr. Houle applied the underlying criteria in this Article to the present facts concluding the individuals worked (a) for remuneration; (b) according to instructions; and (c) under control of another person.
+[21]In D & J Driveway Inc., Letourneau J. stated:
+9 A contract of employment requires the existence of a relationship of subordination between the payer and the employees. The concept of control is the key test used in measuring the extent of the relationship.
+[22]The question of insurability of employment has been litigated extensively. With respect to employment in Québec, some decisions are guided only by Article 2085 of the Civil Code of Québec. Others use a combination of the common law and civil law, while yet others refer only to the tests set out in Wiebe Door Services Ltd. v. M.N.R.[7] and 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[8] To be safe, a trial judge must touch all bases,[9] although even with a finding that workers met the Civil Code and Wiebe Door tests, this is negated by a finding that the workers were volunteers. I find no need to apply the tests for the following reasons.
+[23]Counsel for the Respondent very fairly, referred to the decision in Comité. The facts in that case are somewhat similar to this case and the decision of Justice Lamarre Proulx applies equally to this appeal. The Appellant offered work to people on social assistance and paid compensation, which was considered to be reimbursement for meals, bus tickets and clothing. In her decision, Justice Lamarre Proulx stated:
+21 The conditions of volunteer work are known by those who accept to be volunteers. Normally, volunteer working conditions, including its supervision, are not the same as those of a paid employee. Nevertheless, volunteers must accept the specific conditions of the organization they offer to help. Volunteers must be reliable and do the work they offered to do; otherwise, they are not useful to the organization they are volunteering with. At times, volunteers may put more energy into their work than paid employees.
+22 To understand the true nature of an agreement, it is important to refer to the common intent. Here it is not clear at first glance. Mr. Tourigny made the deduction required by law on the $50 payments he received each week, as if it were wages. This indicates that he wanted to be considered an employee. Moreover, the Chair of the Appellant mentioned that she was not aware of these deductions and that she had not authorized them, as the Appellant never intended to create an employment contract.
+23 … He knew that the Appellant operated with the help of volunteers and that these agreements set out a description of duties, hours and a small compensation for the costs incurred by someone working outside the home.
+24 I am of the opinion that, under the circumstances of the instant case, the Intervener knew that the agreement between him and the Appellant involved the work of a volunteer and not a paid employee and that the common intent of the parties was to establish a volunteer agreement and not an employment contract.
+[24]In this appeal, most of the workers clearly considered themselves volunteers and not employees, and worked for the pleasure of doing so, without remuneration for their labour, except for being compensated for at least some of their expenses. The fact situation is stronger in favour of the workers being volunteers than the facts Justice Lamarre Proulx was faced with, where the only worker to testify considered himself to be an employee.
+[25]Considering the evidence as a whole, I find that the workers were more volunteers than employees. Mr. Houle applied the criteria in Article 2085 of the Code, concluding that the workers were employees. While they may appear to be employees using the legal tests in the Code and Wiebe Door, I have no difficulty concluding they were volunteers. Their situation was not unlike institutional volunteer workers who are told when to arrive and leave, and have expenses such as parking and meals paid for.
+[26]The Respondent’s position is based primarily on the conclusion that the workers were paid for their services. This conclusion fails by my finding of fact that the workers were not paid for their services, but reimbursed for their out‑of‑pocket expenses only. As in Comité, the workers followed specific conditions of the organization. An institution that relies on volunteers, such as a hospital, requires a structure to be followed and the workers are no less volunteers if their parking, meals and other expenses are paid for. The fact that Comité was a non-profit organization does not distinguish that case from this one, as submitted by counsel for the Respondent. It is the nature of the relationship of the two parties that must be determined. Whether the organization is non-profit or for profit has nothing to do with the issue before me.
+[27]As most volunteers, they found their work satisfying and emotionally rewarding. They enjoyed teaching skiers, young and old, although most students were, predominantly, children. The only Respondent witness who perhaps did not consider himself a volunteer was Robert Kunanec, although he was not adamant one way or the other. In answer to the Respondent’s question, were you a volunteer or independent contractor with Rod Roy School, he replied:
+I think I was an employee because I received money in exchange for services rendered although I can say that in the beginning, when I started I would be more typical, I would consider that more a volunteer status.
+He added that he believed the amounts paid to him covered expenses but stated:
+I believe they did but not by much. You were not in it to make money, you were in it for the passion of skiing.
+In any event, the conclusion as to his status is that of the trial judge.
+[28]The Canadian Oxford Dictionary (1998 ed.) defines volunteer as:
+a person who voluntarily takes part in an enterprise or offers to undertake a task;
+a person who works for an organization voluntarily and without pay. …
+This definition applies to this appeal since the workers volunteered to take part in the Appellant’s enterprise, without pay, except for expenses.
+[29]The parties agree that all workers be considered in the same manner without respect to their title such as monitor, chauffeur, director or supervisor. The Respondent attached significant weight to the fact that the Appellant “had annual business revenue of approximately $600,000 to $700,000”. I do not see how this makes any difference. In any event, the amount is very misleading in that it is gross revenue. We do not know if the Appellant made a profit or suffered a loss, although it is of no consequence.
+[30]Counsel for the Respondent stated that no workers involved in this appeal were called by the Appellant as witnesses. I accept Mr. Roy’s explanation as follows:
+… we took people at random who had received T4s because I don’t think there is a big distinction between one of those ten (10) people or the other ninety (90) people that received the T4s, in our opinion, they were all the same and maybe we were wrong in that assumption but if the Court would like, we can submit the T4s that were issued to people, you’ll find the names of the ten (10) people who were on R‑1 but you’ll also find the names of the people who were witnesses who testified today. And so that, as far as we were concerned, they’re just as involved as those other ten (10) people so that’s why we call those particular people.
+(Transcript, pages 166 and 171)
+Conclusion
+[31]In conclusion, I find that the Appellant did not make the deductions common to an employer/employee relationship since it was the common intent of both the Appellant and the workers that their relationships were as volunteers and organizers. Also, the parties had a completed volunteer agreement and not a contract of employment. The money paid to the workers was for their out‑of‑pocket expenses only, and the workers gave of their time freely. The relationship between the parties has worked for all concerned for over 25 years.
+[32]The appeal is allowed and the Minister’s decision is vacated on the basis that the workers were volunteers, and not engaged in insurable employment pursuant to paragraph 5(1)(a) of the Act.
+Signed at Ottawa, Canada, this 14th day of November, 2008.
+“C.H. McArthur”
+McArthur J.
+SCHEDULE “A”
+Assumptions from the Reply to the Notice of Appeal
+5. …
+a) the Appellant was incorporated on June 10, 1969;
+b) the Appellant was offering travel and ski lessons to different ski centres in Québec to his clients;
+c) the trips to ski centres could last from 1 to 8 days;
+d) the Appellant had an annual business revenue of approximately $600,000 to $700,000;
+e) the Appellant hired monitors, supervisors and directors for the ski season;
+f) the monitors had to sign an “Instructor’s agreement” with the Appellant at the beginning of the season;
+g) the monitors were responsible to give ski lessons to the Appellant’s clients;
+h) the monitors had to teach the specific ski technique of the Appellant;
+i) the monitors gave courses of 2 hours in the morning and 2 hours in the afternoon;
+j) the monitors had to follow the directives of the supervisors and the directors of the Appellant;
+k) the monitors received directives from the Appellant as to which Ski centre they had to work;
+l) the monitors received written guidelines (“Statement of Position for Instructors”) from the Appellant concerning the ski courses, reports and accident policy;
+m) all monitors received a fixed salary of $65 per day indicated as “Expense allowance” in the “Instructor’s agreement”;
+n) the monitors received a fixed amount from the Appellant regardless of their real expenses;
+o) the Appellant paid the ski-lift fees for the monitors;
+p) the monitors had to inform the Appellant in case of absence;
+q) the Appellant had an insurance policy covering legal liability of the monitors;
+r) the monitors were supervised by the Appellant’s supervisors;
+s) the monitors had to wear the Appellant’s ski suit;
+t) the monitors worked with the Appellant’s client;
+u) the Appellant had a dismissal power over the monitors according to the “Instructor’s agreement”;
+v) the monitors thought that they were employees of the Appellant;
+Robert Sénécal and Jesse Rubenovitch (the supervisors)
+w) the supervisors had to sign an “Instructor’s agreement” with the Appellant at the beginning of the season;
+x) the supervisors were responsible to organise the ski course, to classify students in the right course, to give daily clinics to monitors, to evaluate monitors and to replace an absent monitor;
+y) the supervisors had to teach the specific ski technique of the Appellant;
+z) the supervisors were in daily contact with the Appellant or the directors of the Appellant;
+aa) the supervisors had to follow the directives of the directors of the Appellant;
+bb) the supervisors received directives from the Appellant as to which Ski centre they had to work;
+cc) the supervisors received written guidelines (“Statement of Position for Instructors”) from the Appellant concerning the ski courses, reports and accident policy;
+dd) all supervisors received a fixed salary of $105 per day indicated as “Expense allowance” in the “Instructor’s agreement”;
+ee) the supervisors received a fixed amount from the Appellant regardless of their real expenses;
+ff) the Appellant paid the ski-lift fees for the supervisors;
+gg) the supervisors had to inform the Appellant in case of absence;
+hh) the Appellant had an insurance policy covering legal liability of the supervisors;
+ii) the supervisors were supervised by the Appellant’s directors;
+jj) the supervisors had to wear the Appellant’s ski suit;
+kk) the supervisors worked with the Appellant’s client;
+ll) the Appellant had a dismissal power over the supervisors following the “Instructor’s agreement”;
+mm) the supervisors had no knowledge whether or not they were employees of the Appellant;
+Don Hirsch and Marie Rennie (the directors)
+nn) the directors had a verbal agreement with the Appellant;
+oo) the directors received written guidelines (“Critical Path for Section Directors”) from the Appellant;
+pp) the directors were hired in September;
+qq) the directors had regular contact with the Appellant from September through April;
+rr) the directors received directives from the Appellant as to which Ski centre they had to work;
+ss) the directors supervised the supervisors and the monitors at the ski centre;
+tt) the directors had to follow the directives of the Appellant;
+uu) the Appellant paid the ski-lift fees for the directors;
+vv) the directors received at the end of the season an amount described as travel allowance, bus driver tips, meal allowance, telephone, cell phone, office supplies, computer, internet, printer cartridges, meeting allowance, uniform, equipment, entertainment and miscellaneous expenses;
+ww) Don Hirsch received $3,078.00 from the Appellant during the disputed period;
+xx) Marie Rennie received $4,284.00 from the Appellant during the disputed period;
+yy) the directors had to inform the Appellant in case of absence;
+zz) the Appellant had an insurance policy covering legal liability of the directors;
+aaa) the directors had to wear the Appellant’s ski suit;
+bbb) the directors worked with the Appellant’s client; and
+ccc) the directors thought that they were not employees of the Appellant.
+CITATION: 2008 TCC 600
+COURT FILE NO.: 2007-2603(EI)
+STYLE OF CAUSE: ROD ROY SKI SCHOOLS LTD. and
+MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Montréal, Québec
+DATE OF HEARING: May 16, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: November 14, 2008
+APPEARANCES:
+Agent for the Appellant:
+Douglas Roy
+Counsel for the Respondent:
+Simon-Nicolas Crepin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Douglas Roy is one of three family members who are the principals of the Appellant.
+[2] His tow lift pass was provided, gratuitously, by the Appellant.
+[3] Exhibit R-7 - a completed and signed Form T2200 by the Appellant.
+[4] 2005 FCA 334.
+[5] 2003 FCA 453.
+[6] 2004 CCI 55.
+[7] 87 DTC 5025 (F.C.A.).
+[8] [2001] 4 C.T.C. 139 (S.C.C.).
+[9] Combined Insurance Co. of America v. Canada, 2007 FCA 60.

@@ -1,0 +1,198 @@
+---
+title: "P.R. Investments Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27366/index.do"
+last_modified: "2006-12-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 686"
+citation2: ""
+neutral_citation: "2006 TCC 686"
+decision_date: "2006-12-18"
+language: "en"
+item_id: "27366"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 188
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:27:37.198000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f74deae88e43ff64b5b6303eca7d1b86f923c4948692450fb23faf01b1256b7e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# P.R. Investments Inc. v. The Queen
+
+- Citation: 2006 TCC 686
+- Decision date: 2006-12-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 188, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+P.R. Investments Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-18
+Neutral citation
+2006 TCC 686
+File numbers
+2006-1650(GST)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-1650(GST)I
+BETWEEN:
+P.R. INVESTMENTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 11, 2006, at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Gregory A. Swanson
+Counsel for the Respondent:
+Penny L. Piper
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated May 26, 2006, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Yorkton, Saskatchewan, this 18th day of December, 2006.
+"D.W. Beaubier"
+Beaubier J.
+Citation: 2006TCC686
+Date: 20061218
+Docket: 2006-1650(GST)I
+BETWEEN:
+P.R. INVESTMENTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at ReginaSaskatchewan, on December 11, 2006. The Appellant called Wade Probe, a director of the Appellant, and its chartered accountant, Nigel Crook. The Respondent called the appeals officer on the file, Trevor Schneider, C.G.A..
+[2] The subject of the appeal is outlined in paragraphs 11 to 21 of the Reply to the Notice of Appeal. They read:
+11. In assessing the net tax of the Appellant for the Relevant Period, the Minister assessed for unreported tax collectible on management fees that the Appellant received, more fully described as follows:
+Reporting
+Period
+Management
+Fees
+Tax
+Collectible
+2000-12-31
+43,000.00
+3,010.00
+2001-12-31
+53,000.00
+3,710.00
+2002-12-31
+24,050.00
+1,683.50
+120,050.00
+8,403.50
+12. The Appellant objected to the Assessment by a Notice of Objection, dated December 15, 2004, objecting to the assessment of unreported tax collectible on management fees received/receivable during the Relevant Period.
+13. The Minister confirmed the Assessment by a Notice of Decision dated February 27, 2006.
+14. The Appellant filed an appeal to the Tax Court on May 26, 2006, that was served on the Minister on June 21, 2006, appealing the assessment of unreported tax collectible on the management fees described in paragraph 11 above.
+15. In assessing the Appellant for unreported tax collectible on management fees and confirming the Assessment, the Minister relied on the following assumptions of fact:
+(a) the Appellant is a corporation incorporated pursuant to the laws of Saskatchewan;
+(b) during the Relevant Period 50% of the shares of the Appellant were owned by Wade Probe ("Wade") and the other 50% were owned by Tim Probe ("Tim");
+(c) Wade, Tim and Barrie Probe ("Barrie") are brothers;
+(d) at all relevant times the Appellant owned buildings that contained commercial space and residential suites;
+(e) during the Relevant Period the Appellant rented commercial real property, provided property management services and construction services;
+(f) the supplies mentioned in the previous subparagraph were taxable at 7%;
+(g) during the Relevant Period the Appellant also rented residential suites in the buildings it owned;
+(h) the Appellant was registered under the Excise Tax Act (the "Act");
+(i) during the Relevant Period the Appellant provided property management services to related persons (the "Related Group") described as follows:
+(i) Probe Investments, a partnership of Tim, Barrie and Wade;
+(ii) Tim, as a sole proprietor;
+(iii) Innsbrook Apartments Inc., of which Wade is the sole shareholder;
+(iv) Pro-Braun Enterprises Ltd., of which Wade is the sole shareholder;
+(v) St. Joe's Holding Ltd. (Barrie and Bonnie Probe (Barrie's spouse) are stated as being the shareholders and directors of St. Joe's Holding's Ltd. in the Notice of Appeal):
+(j) the Related Group and the Appellant owned residential rental units in at least 14 residential rental complexes in the Provinceof Saskatchewan;
+(k) in providing property management services to the Related Group the Appellant
+(i) rented the individual residential suites in the residential complexes;
+(ii) managed the repair and maintenance of the residential complexes and individual suites in those complexes;
+(iii) collected rents from tenants of the residential complexes;
+(iv) paid expenses related to the residential complexes such as building repairs and maintenance, utilities, property taxes, licenses, insurance, capital improvements and wages;
+(v) prepared statements accounting for the revenues and expenses for the residential complexes owned by members of the Related Group;
+(l) the property management services supplied by the Appellant to the Related Group are taxable supplies subject to tax at 7%;
+(m) no members of the Related Group were registered for GST purposes;
+(n) the members of the Related Group were not entitled to claim input tax credits in respect of the tax payable associated with the property management services supplied by the Appellant;
+(o) the Appellant recorded in its books and records the consideration, described as management fees, for the management services it provided on which tax was collectible as follows:
+reporting
+period
+management
+fees
+tax
+collectible
+2000-12-31
+43,000.00
+3,010.00
+2001-12-31
+53,000.00
+3,710.00
+2002-12-31
+24,050.00
+1,683.50
+120,050.00
+8,403.50
+(p) the Appellant was required to collect and account for tax of at least $8,403.50 in respect of the management services provided to the Related Group;
+(q) the Appellant was required to file its returns on a quarterly basis, with a year end of December 31,; and
+(r) the Appellant failed to report and account for tax collectible on the property management services it provided to the Related Group in the amount of $8,403.50 for the Relevant Period.
+B. ISSUE TO BE DECIDED
+16. The issue to be decided in this appeal is whether the Minister, in assessing the Appellant's net tax for the Relevant Period, properly assessed the Appellant for failure to report tax collectible of $8,403.50 on the management services it provided.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+17. He relies on subsections 123(1), 221(1) and 225(1) and sections 126, 152, 155, 165, 168, 169, 228, 238, 280, 281.1 and 296 of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the "Act"); SOR/91-45 Input Tax Credit Information Regulations thereunder; section 18.3009 of the Tax Court of Canada Act;
+18. It is submitted that the Appellant made taxable supplies of property management services to the Related Group for consideration equal to the amount of management fees it received and recorded in its books and records as described in paragraph 11 of this Reply.
+19. It is further submitted that the management services supplied to the Related Group were taxable at 7% and the Appellant was required to collect and report tax collectible of $8,403.50 for the Relevant Period as described in paragraph 11 of this reply.
+20. Accordingly, it is submitted that the Minister properly assessed the Appellant for unreported tax collectible, pursuant to sections 165, 168, 221(1), 225(1), 228 and 296 of the Act.
+21. Additionally, if the Appellant is arguing that no consideration was received in respect of the management services, which is not admitted but denied, it is submitted that the Appellant supplied the management services to related persons. The related persons were not registered for GST and were not entitled to claim input tax credits. Pursuant to sections 126 and 155 of the Act the Appellant is deemed to have received consideration equal to fair market value of the management services. It is submitted that the fair market value of the management services is equal to at least the management fees recorded by the Appellant on which tax is collectible as described in paragraph 11 of this Reply.
+[3] Assumptions 15 (a) to (j), inclusive, and (l) to (r), inclusive, were not refuted or were confirmed by the evidence. Respecting assumption (k), subparagraphs (i) and (ii) were true respecting the Appellant's own suites and complexes; (iii) is true but the caretaker of two apartments in Moose Jaw collected from the tenants and then remitted those rents to P.R.; (iv) and (v) are correct.
+[4] The Appellant's financial statements recorded the "management fees" assessed as "management fee revenue". All of the rents for all of the variously owned rental units were paid to the Appellant. Wade Probe testified that the "management fee revenue" was paid to the other firms on account of various unrecorded out of pocket expenses for repairs, insurance and the like. However:
+1. Both repairs and insurance have headings in the financial statements before the Court which were confirmed as substantially similar to those prepared by Wade in both Wade's and Nigel's testimony.
+2. The Appellant did not provide receipts or invoices or the other parties' cheques or charge records for their alleged out of pocket spendings.
+3. The Appellant and these various other firms were incorporated or consisted of other legal entities created for business or tax purposes. As such, they bear the responsibility to provide proper records. Their business entities were to their benefit and they must carry out corresponding business responsibilities, including providing proper receipts and records as set forth in section 286 of the Excise Tax Act.
+[5] As a result, the appeal is dismissed since the assessment corresponds to the Appellant's own records and the Appellant did not refute those records with receipts and documents which indicated anything contrary to their own documented records which were relied upon for the assessment. Without them, in a case such as this, the testimony of a witness is not acceptable by itself. The Appellant has failed to meet the onus on it to refute the assumptions.
+Signed at Yorkton, Saskatchewan, this 18th day of December, 2006.
+"D.W. Beaubier"
+Beaubier J.
+CITATION: 2006TCC686
+COURT FILE NO.: 2006-1650(GST)I
+STYLE OF CAUSE: P.R. Investments Inc. v. The Queen
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: December 11, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: December 18, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Gregory A. Swanson
+Counsel for the Respondent:
+Penny L. Piper
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gregory A. Swanson
+Firm: Robertson Stromberg Pedersen LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

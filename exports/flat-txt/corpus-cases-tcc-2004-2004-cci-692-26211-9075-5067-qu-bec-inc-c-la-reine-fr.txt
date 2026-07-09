@@ -1,0 +1,293 @@
+Title: 9075-5067 Québec Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26211/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-692-26211-9075-5067-qu-bec-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-10-14
+
+# 9075-5067 Québec Inc. c. La Reine
+
+- Citation: 2004 CCI 692
+- Decision date: 2004-10-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3942, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9075-5067 Québec Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-14
+Référence neutre
+2004 CCI 692
+Numéro de dossier
+2001-2889(IT)G
+Juges et Officiers taxateurs
+Alban Garon
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-2889(IT)G
+ENTRE :
+9075-5067 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus les 29 et 30 mars 2004 à Montréal (Québec).
+Devant : L'honorable Alban Garon, juge en chef
+Comparutions :
+Avocat de l'appelante :
+Me Jacques Sylvestre Jr
+Avocate de l'intimée :
+Me Valérie Tardif
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1997 et 1998 sont accueillis avec dépens et les cotisations sont déférées au ministre du Revenu national pour nouvel
+examen et nouvelles cotisations sur la base que le prix lors de la transaction du 29 décembre 1993 doit être réparti de la façon suivante à l'égard des catégories d'actif ci-après énumérées :
+Bâtisses
+6 051 500 $
+Équipements et mobilier
+2 593 500 $
+Terrain
+1 000 000 $
+Aménagement - terrain de golf
+350 000 $
+Stationnement - réseau téléphonique
+200 000 $
+Roulant
+155 000 $
+TOTAL
+10 350 000 $
+Signé à Ottawa, Canada, ce 14e jour d'octobre 2004.
+« Alban Garon »
+Juge en chef Garon
+Référence : 2004CCI692
+Date : 20041014
+Dossier : 2001-2889(IT)G
+ENTRE :
+9075-5067 QUÉBEC INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef Garon
+[1] Il s'agit d'appels de cotisations d'impôt sur le revenu pour les années d'imposition 1997 et 1998. Par ces cotisations, le ministre du Revenu national a réduit la déduction pour amortissement réclamée par l'appelante à l'égard de certaines catégories de biens possédées par elle des sommes de 333 508 $ et de 270 439 $ pour les années d'imposition 1997 et 1998 respectivement.
+[2] Le litige porte sur la répartition d'un prix de vente entre les différents biens d'un complexe hôtelier qui furent l'objet d'une seule et même transaction.
+[3] La transaction dont il est question a été conclue le 29 décembre 1993 entre la Fédération des caisses populaires Desjardins de Québec et la société par actions 2970-8963 Québec inc. En 1994, cette société est devenue Manoir Richelieu Inc., par suite d'une modification de son nom. Il y a eu un second changement de nom en juin 1998 alors que le nom de la présente appelante fut substitué à la désignation Manoir Richelieu Inc. Cette vente comprenait tous les terrains, bâtisses, équipements, mobilier et roulant, y compris le terrain de golf. Le prix de vente de l'ensemble de cette propriété fut établi à 10 350 000 $. Ce prix de vente ne fut ventilé que partiellement à l'égard de ses différentes catégories de biens. Au surplus, il est admis que pour le vendeur, la Fédération des caisses populaires Desjardins de Québec, il s'agissait d'un bien en inventaire qui avait été acquis peu de temps auparavant de monsieur Raymond Malenfant et certaines autres personnes, « groupe Malenfant » , à la suite d'un jugement.
+[4] Cette propriété, connue sous le nom de Manoir Richelieu, était située à l'époque de la transaction sous étude, en partie dans le village de Pointe-au-Pic et en partie dans la ville de La Malbaie. Ces deux municipalités ont fusionné le 15 février 1995. De cette fusion, fut créée la nouvelle ville de La Malbaie-Pointe-au-Pic. Cette ville, située sur la rive Nord du fleuve St-Laurent, est à quelque 150 kilomètres à l'est de la ville de Québec. En 1993, les deux municipalités comptaient une population d'environ 5 000 personnes.
+[5] Pour les fins de ce litige, les parties ont reconnu que le prix de vente de 10 350 000 $ comprenait les six catégories de biens suivantes :
+Terrain
+Aménagement - terrain de golf
+Bâtisses
+Stationnement - réseau téléphonique
+Équipements et mobilier
+Roulant
+[6] De plus, au cours de l'audition, l'appelante et l'intimée en sont venues à un accord sur la portion du prix de vente de 10 350 000 $ attribuable à l'égard de trois catégories de biens, soit :
+Aménagement - Terrain de golf 350 000 $
+Stationnement - réseau téléphonique 200 000 $
+Roulant 155 000 $
+TOTAL 705 000 $
+[7] Il reste donc à répartir le solde du prix de vente, 9 645 000 $ (soit 10 350 000 $ - 705 000 $) entre les trois autres catégories de biens suivants : le terrain, les bâtisses et les équipements et le mobilier, les équipements et le mobilier ne formant qu'une seule catégorie.
+[8] Les parties ont en quelque sorte convenu qu'il fallait en premier lieu déterminer la valeur du terrain et que le solde, après avoir soustrait la valeur attribuée au terrain et celle attribuée aux trois catégories de biens mentionnées au paragraphe 6 de ces motifs, serait partagé entre les deux autres catégories d'actif, soit les bâtisses et les équipements et le mobilier.
+[9] De loin, la majeure partie de la preuve a porté sur la valeur du terrain de l'ensemble du complexe du Manoir Richelieu au 29 décembre 1993. Le terrain sous étude a une superficie de 169,12 hectares. La topographie est à la fois plane et accidentée. Il n'a pas été contesté que l'immense superficie de ce terrain est répartie, pour fins de zonage municipal, en cinq parcelles mentionnées ci-après avec la description de l'usage permis en marge de chacune des ces parcelles :
+parcelle 1
+09-C
+11,3 hectares
+usage commercial
+parcelle 2
+08-H
+11,6 hectares
+usage résidentiel
+parcelle 3
+16-H
+1,3 hectares
+usage résidentiel
+parcelle 4
+04-F
+80,99 hectares
+usage forestier
+parcelle 5
+03-REC
+63,93 hectares
+usage récréatif
+[10] Chaque partie a produit un témoin expert. Monsieur Claude Vanasse a témoigné pour l'appelante et monsieur Gaston Laberge a déposé pour l'intimée. Tous deux sont des évaluateurs agréés de longue expérience.
+[11] Monsieur Claude Vanasse a d'abord expliqué pourquoi la position de l'appelante sur la valeur du terrain du Manoir Richelieu a été modifiée au cours de l'instance, passant de 74 300 $ à 581 800 $. Le montant de 74 300 $ représentait l'évaluation municipale du terrain du Manoir Richelieu en 1995. Comme il a été noté antérieurement avant la fusion de février 1995, les terrains du Manoir Richelieu étaient situés dans deux municipalités. Selon monsieur Vanasse, une erreur du système informatique de la nouvelle municipalité s'est produite. En effet, le système informatique de cette municipalité a indiqué par erreur que la valeur des terrains du Manoir Richelieu s'établissait à 74 300 $ alors qu'il aurait plutôt dû indiquer 677 300 $ pour l'année 1995, soit 102 300 $ pour les terrains situés dans l'ancienne municipalité de La Malbaie et 575 000 $ pour les terrains situés dans l'ancienne municipalité de Pointe-au-Pic.
+[12] Monsieur Vanasse exprime l'option que l'évaluation de l'ensemble du fonds de terre du Manoir Richelieu doit être effectuée de façon globale et non par zone comme le suggère l'expert de l'intimée. Monsieur Vanasse estime qu'il faut toujours chercher « le meilleur rendement possible du terrain tout en étant réaliste et raisonnable » .[1] Il ne croit pas qu'il soit réaliste de construire des résidences sur les lots 08-H, 03-REC et 16-H.
+[13] Monsieur Vanasse énumère certains facteurs qui peuvent influencer l'évaluation d'un terrain : l'accès à la voie publique, le mode d'utilisation du terrain, les « nuisances du voisinage » , les services disponibles et l'accès à l'environnement. Il fait aussi état des facteurs de superficie, de configuration, de voirie, de viabilité, de la nature du sol et du sous-sol. Il affirme que 20% du fonds de terre du Manoir Richelieu est inutilisable parce qu'il s'agit d'une partie inaccessible et trop escarpée.
+[14] Le même témoin expert rappelle également que les propriétaires précédents et subséquents n'ont jamais tenté de maximiser leur investissement en procédant à la mise en valeur d'un complexe résidentiel pour les parcelles de terrain dont le zonage était compatible avec cet usage.
+[15] Même en supposant l'exploitation des parcelles de terrain actuellement vagues, il ne croit pas que la valeur de l'ensemble des terrains du Manoir Richelieu serait pour autant augmentée en raison du principe des vases communicants. Selon lui, une augmentation de la valeur de la portion résidentielle du fonds de terre du complexe du Manoir Richelieu entraînerait inévitablement une diminution correspondante de la valeur de la portion commerciale du même fonds, notamment en raison de la circulation supplémentaire occasionnée par un nouvel ensemble résidentiel.
+[16] Somme toute, monsieur Vanasse est d'avis que l'exploitation des terrains dont l'usage permis est de nature résidentielle n'est pas une hypothèse réaliste et ne doit pas influencer l'évaluation du terrain du Manoir Richelieu. Même si le zonage de ces parcelles prévoit un usage résidentiel, monsieur Vanasse ajoute que la mise en valeur de ces parcelles était quand même conditionnelle à l'approbation de la municipalité concernée à l'époque pertinente.
+[17] C'est aussi sa conviction que l'ouverture du Casino de Charlevoix, qui a eu lieu le 24 juin 1994, n'a pas eu d'impact sur la valeur des terrains du Manoir Richelieu à l'époque pertinente.
+[18] Pour établir la valeur marchande du fonds de terre du complexe hôtelier en question, l'évaluateur de l'appelante a répertorié 11 transactions portant sur des terrains vagues dans le secteur avoisinant. Ces transactions ont été conclues durant une période s'échelonnant de 1986 à 1993. À l'examen de ces ventes, il a constaté que le taux unitaire variait beaucoup en fonction de la superficie du terrain concerné. Il retient la transaction numéro 9 comme étant la meilleure vente comparable. Il en arrive à un taux de 4 300 $ l'hectare, donc à une valeur de 581 800 $ pour l'ensemble des terrains du Manoir Richelieu.
+[19] Du témoignage de monsieur Michel Côté, le président de l'appelante au moment de la transaction du 29 décembre 1993, la Cour a appris que cette dernière a pris possession du complexe du Manoir Richelieu le 31 janvier 1994 et que la réouverture de ce complexe a eu lieu en mai 1994. Il mentionne notamment que le taux d'occupation du Manoir Richelieu était de 17% en 1993, alors qu'il était de 30% en 1990.
+[20] Même si la pièce A-2 indique à la page 2 que le Manoir Richelieu comprenait 391 chambres au 29 décembre 1993, monsieur Côté affirme catégoriquement que ce n'était pas le cas et qu'il y avait alors 373 chambres dans ce complexe hôtelier. Il y avait en plus cinq chalets qui n'ont jamais été loués par l'appelante.
+[21] Lors de son témoignage, monsieur Côté affirme que l'appelante n'entendait pas procéder à la mise en valeur d'un ensemble résidentiel sur des parcelles de terrain qui avaient un zonage compatible. Il précise que le Manoir Richelieu est un centre de villégiature, et que l'appelante n'avait pas l'intention de modifier sa vocation en y incorporant un ensemble résidentiel. Lors de l'implantation du Casino de Charlevoix, le comité d'urbanisme de la municipalité a accepté avec réticence de rendre le chemin des Falaises à sens unique. Avec une telle réaction, monsieur Côté ne « peut même pas envisager » qu'il soit possible de mettre sur pied un projet d'un ensemble résidentiel sur les terrains du Manoir Richelieu.
+[22] Monsieur Côté précise aussi que le Manoir Richelieu n'était pas rattaché aux systèmes d'égouts et d'aqueduc de la municipalité; il n'y fut rattaché qu'à partir de 1997.
+[23] Dans le cadre de sa déposition, monsieur Côté déclare qu'il n'avait aucune certitude que Loto-Québec allait procéder à l'implantation d'un casino sur la propriété du Manoir Richelieu au moment de la transaction du 29 décembre 1993. La Fédération des Caisses Populaires Desjardins de Québec avait d'ailleurs rejeté une première offre d'achat de l'appelante, offre qui était conditionnelle à l'établissement d'un casino au Manoir Richelieu. Monsieur Côté fait valoir qu'aucune décision finale n'avait encore été prise le 1er mars 1994. Le Casino de Charlevoix a finalement ouvert ses portes le 24 juin 1994. Monsieur Côté indique toutefois que l'appelante comptait sur l'arrivée d'un casino pour obtenir un achalandage supplémentaire au Manoir Richelieu. Il admet que l'achat du Manoir Richelieu sans l'implantation d'un casino aurait été une « catastrophe » .
+[24] En ce qui concerne la topographie du terrain, monsieur Côté souligne qu'il s'agissait d'un « grand, immense terrain enclavé » . Il précise son point de vue à ce sujet de la façon suivante :
+Il y a une toute petite pointe qui se rend à la rue des Falaises et toute la circulation doit passer par là pour se rendre n'importe où sur le terrain.
+[Transcription du procès, 29 mars 2004, p. 168, lignes 18 à 21.]
+Il ajoute ce qui suit :
+C'est à ce point préoccupant que la Ville nous a même écrit d'expliquer combien de gens on s'attendait d'avoir sur le terrain quand on a ajouté le casino; ils avaient peur pour les citoyens.
+[Transcription du procès, 29 mars 2004, p. 168, lignes 21 à 24.]
+[25] Monsieur Côté explique comment il a procédé à la ventilation du prix de vente du complexe hôtelier lors de la transaction du 29 décembre 1993. Il estime à 4 132 000 $ la valeur de l'équipement, comme le fait voir la pièce A-3. Ce dernier calcul comprend cependant certaines catégories d'actif qui, à la suite de l'accord des parties, sont inclus sous d'autres rubriques, comme le roulant et le stationnement - réseau téléphonique. Il fournit également des explications sur le poste de la pièce A-3 « chambres 373 x 9 000 = 3 357 000 $ » et au mode de calcul qui y est relié pour établir la valeur du mobilier.
+[26] Il y a lieu maintenant de se reporter au témoignage de l'évaluateur de l'intimée, monsieur Gaston Laberge.
+[27] Monsieur Laberge croit que l'évaluation du terrain doit se faire en tenant compte de l'utilisation et du zonage des différentes parcelles de terrain. Selon cette approche, l'évaluation des terrains du Manoir Richelieu équivaut à la somme de la valeur des différentes parcelles du terrain du Manoir Richelieu, pourvu qu'il s'avère réaliste de morceler l'ensemble.
+[28] Monsieur Laberge a ainsi utilisé la technique de la parité afin de procéder à l'évaluation des différentes parcelles du fonds de terre de ce complexe hôtelier. La technique de la parité consiste à évaluer la valeur d'un terrain à l'aide de ventes comparables. À titre de comparaison, monsieur Laberge a utilisé le prix de vente de 60 terrains vendus entre 1984 et 1998. Ces terrains étaient situés dans les anciennes municipalités de La Malbaie et de Pointe-au-Pic. Les transactions portant les numéros 1 à 34 dans le tableau faisant partie de son rapport représentent des ventes de terrains avec un zonage résidentiel, tandis que les ventes numéros 35 à 60 concernent des ventes de terrains avec un zonage commercial.
+[29] Aux fins d'évaluer la parcelle 1 du fonds de terre du Manoir Richelieu, l'évaluateur de l'intimée a eu recours à deux approches.
+[30] Dans le cadre de la première approche, l'évaluateur de l'intimée après avoir noté que le prix médian des terrains commerciaux, ventes numéros 35 à 60, est de 23,00 $ le mètre carré, a choisi de retenir les ventes numéros 52 à 55 - les seules ventes transigées entre novembre 1990 et janvier 1993 - ce qui donne un prix médian de 28,00 $ le mètre carré. Ce prix médian a été réduit de 65% en raison de la superficie énorme du fonds de terre du Manoir Richelieu comparativement aux terrains utilisés comme comparables. Selon cette première approche, il en arrive à une évaluation de 1 107 400 $ pour l'évaluation de la parcelle 1.
+[31] Monsieur Laberge a également considéré une autre approche et il s'exprime ainsi à la page 31 de son rapport :
+Une autre approche est à considérer à partir de la vente no 55, ce terrain est situé près du sujet avec une superficie de 4179 m.c. Il a été acquis pour la construction d'un hôtel de 76 chambres au prix de 175 000 $. D'où, on observe un prix à la chambre de 2 300 $ la chambre.
+Si l'on considère que le manoir Richelieu compte 405 chambres, des salles, un service de restauration, tennis, piscine, sentier et autres aménagements, nous estimons qu'il serait logique et raisonnable de retenir (2 300 $ majoré de l'ordre de +20%), soit un prix de 2 800 $ la chambre.
+[32] Selon cette deuxième approche, l'évaluateur de l'intimée a établi la valeur de la parcelle 1 à 1 134 000 $. C'est cette dernière approche qu'il a retenue dans son rapport.
+[33] Les parcelles 2 et 3 sont des terrains vagues avec zonage résidentiel mais sans services municipaux. Monsieur Laberge a utilisé les ventes numéros 1 à 23 à titre de comparaison puisqu'elles ont été effectuées avant décembre 1993. L'analyse de ces ventes indique que les terrains avec zonage résidentiel et avec services ont une valeur qui se situe entre 8,00 $ et 13,00 $ le mètre carré, alors que les terrains sans services ont une valeur variant entre 2,56 $ et 3,89 $ le mètre carré. Comme la transaction numéro 19[2] est la vente la plus comparable aux parcelles 2 et 3 et que le prix fut de 2,56 $ le mètre carré, monsieur Laberge a estimé la valeur des parcelles 2 et 3 à 2,56 $ le mètre pour un total de 322 500 $.
+[34] Selon monsieur Laberge, la parcelle 4 est un terrain avec zonage forestier qui comprend « quelques pavillons et chalet d'été » . La parcelle 5 comprend un terrain de golf et un espace excédentaire pour expansion. La meilleure comparaison pour l'évaluation des parcelles 4 et 5 est la vente numéro 34, un terrain dont le zonage est agricole. Le taux unitaire est de 0,40 $ le mètre carré. Selon l'intimée, la valeur des parcelles 4 et 5 est de 579 680 $.
+[35] L'évaluateur de l'intimée a donc établi la valeur des parcelles 1, 2, 3, 4 et 5 du fonds de terre du Manoir Richelieu, à la page 32 de son rapport, comme suit :
+Parcelle 1 1 134 000 $
+Parcelle 2 et 3 322 500 $
+Parcelle 4 et 5 579 680 $
+__________
+Total 2 036 180 $
+Arrondi : 2 036 000 $
+[36] Monsieur Pierre Bouffard, vérificateur de l'Agence des douanes et du revenu du Canada, a aussi témoigné pour le compte de l'intimée.
+[37] Selon monsieur Bouffard, monsieur Côté aurait affirmé au cours d'une rencontre qu'il a eue avec lui le 3 septembre 1999, que la valeur de la bâtisse était supérieure à 10 000 000 $ et que monsieur Côté aurait aimé établir la valeur de l'équipement à plus de 4 000 000 $ ce qu'il n'a pas fait à la suite des conseils de spécialistes de la firme Samson & Bélair.
+Analyse
+[38] Il n'est pas contesté qu'en égard aux circonstances de la présente cause il faut procéder à la ventilation du prix de vente du complexe hôtelier en question à l'égard de six catégories d'actif. Voir l'arrêt de la Cour suprême du Canada dans l'affaire La Reine c. Golden, [1986] 1 R.C.S. 209, concernant l'application de l'article 68 de la Loi de l'impôt sur le revenu.
+[39] Comme il a été indiqué auparavant, le prix de vente de l'ensemble de la propriété lors de la transaction du 29 décembre 1993 fut de 10 350 000 $ et il y a eu accord des parties au cours de l'audience sur la valeur ci-après indiquée de chacune des catégories d'actif suivantes :
+Aménagement - terrain de golf
+350 000 $
+Roulant
+155 000 $
+Stationnement - réseau téléphonique
+200 000 $
+TOTAL
+705 000 $
+[40] Il convient donc en premier lieu de procéder à l'analyse de la preuve concernant l'évaluation de l'ensemble des terrains qui ont été l'objet de la vente du 29 décembre 1993.
+[41] L'intimée prétend que l'utilisation optimale des terrains du Manoir Richelieu passe par la vente de lots résidentiels situés dans les parcelles 2 et 3. Dans son rapport à la page 31, l'évaluateur de l'intimée traite de ces parcelles en mentionnant que cette partie du terrain « offre un potentiel de développement à court terme » . Je ne suis pas de cet avis. La mise en valeur d'un ensemble résidentiel de lots situés dans les parcelles 2 et 3 n'est pas une option réaliste. Le Manoir Richelieu est un centre de villégiature dont une bonne partie de la valeur dépend justement de ses grands espaces. L'existence d'un ensemble résidentiel à l'intérieur de la propriété actuelle du Manoir Richelieu lui ferait perdre jusqu'à un certain point sa vocation de centre de villégiature et réduirait d'autant la valeur du fonds de terre. L'hypothèse de la mise en valeur d'un ensemble résidentiel est difficilement réaliste compte tenu du fait qu'aucune parcelle de terrain n'a été vendue au cours des 60 ans qui ont précédé la transaction du 29 décembre 1993. En outre, depuis cette dernière date, aucune parcelle de terrain n'a été vendue jusqu'au moment de l'audition de ces appels. Il s'est ainsi écoulé plus de dix ans depuis la transaction du 29 décembre 1993. En effet, ni l'appelante qui a été propriétaire jusqu'au 3 juin 1998 ni l'acquéreur subséquent n'ont vendu des parcelles de cet immense complexe hôtelier. On doit aussi se rappeler que ce complexe se situe dans une région où le bassin de la population avoisinante est particulièrement faible. L'accès à la voie publique est limité, comme la preuve l'a démontré.
+[42] Nonobstant les observations qui précèdent, il me paraît utile d'examiner certains éléments de la preuve de l'intimée sur la valeur du fonds de terre sous étude.
+[43] En ce qui a trait à la parcelle 1 de ce fonds de terre, l'intimée a utilisé deux méthodes d'évaluation, comme on l'a vu précédemment. Suivant la première méthode, l'évaluateur de l'intimée a d'abord évalué la partie du fonds de terre en question à laquelle s'appliquait le zonage commercial à l'aide de quatre ventes comparables : les ventes des terrains numéros 52 à 55. Il s'agit de terrains dont le zonage est commercial et ils furent vendus entre 1990 et 1993. Les terrains dont les transactions portent les numéros 52, 53 et 54 furent vendus en 1990 à des prix variant de 26,49 $ à 28,46 $ le mètre carré. Dans le cas de la transaction numéro 55, le terrain a été vendu en 1993 au prix de 41,87 $ le mètre carré pour un prix total de 175 000 $. Étant donné la superficie beaucoup plus grande du fonds de terre du Manoir Richelieu par rapport aux ventes considérées comme comparables qui portent les numéros 52 à 55 et la question de l'accès à la voie publique, l'intimée a estimé que la valeur de la parcelle 1 du complexe en question devait être l'objet d'un rajustement en moins de 65% et a retenu la valeur de 28,00 $ par mètre carré pour une valeur totale de 1 107 400 $. À cet égard, le rajustement fait par l'évaluateur de l'intimée est tellement important qu'on peut se demander si les ventes dont il vient d'être question peuvent être considérées comme des ventes comparables à la parcelle 1. En outre, les explications fournies à l'appui de ce rajustement fort substantiel sont tellement générales qu'on peut se poser la question suivante : pourquoi pas un rajustement de 80%, par exemple?
+[44] L'intimée a ensuite proposé comme une autre approche l'évaluation de la parcelle 1 à l'aide d'un seul terrain comparable, soit la vente numéro 55. Ce terrain a été vendu en 1993 en prévision de la construction d'un hôtel.[3] La valeur dudit terrain a été établie par l'évaluateur de l'intimée à raison de 2 300 $ la chambre. L'intimée a suggéré de hausser cette valeur de 20% comme il a été expliqué auparavant.
+[45] Comme la preuve a établi que le Manoir Richelieu avait 373 chambres et non pas 405 chambres au 29 décembre 1993, il s'ensuit que, selon cette deuxième méthode d'évaluation, l'évaluateur de l'intimée aurait établi la valeur de la parcelle 1 à 373 x 2 800 $, soit 1 044 400$, montant qui est assez près de la valeur de la parcelle retenue selon la première méthode, valeur qui a été établie à 1 107 400 $.
+[46] Même si je ne suis pas persuadé de la justesse du raisonnement adopté par l'évaluateur de l'intimée dans son rapport lorsqu'il en arrive à un calcul de la valeur du terrain en fonction d'un prix par chambre, il n'en reste pas moins que j'attache une certaine importance à la vente portant le numéro 55. En effet, il s'agit d'une vente effectuée le 25 janvier 1993 d'un terrain située sur la rue des Falaises à Pointe-au-Pic. Ce terrain était acquis pour la construction d'un hôtel. La vente a été conclue pour un prix de 175 000 $. Ce terrain n'est que de 4 179,14 mètres carrés alors que la parcelle 1 du complexe en question a une superficie de 113 000 mètres carrés et est donc plusieurs fois plus grande même si l'on soustrait de cette dernière superficie la portion inutilisable d'environ 20% de cette parcelle 1. Même si un rajustement en moins est indiqué pour tenir compte de la très grande superficie de la parcelle 1, il me paraît évident que la valeur de la parcelle 1 est au moins six fois plus élevée que celle du terrain dont il est question dans la transaction portant le numéro 55. Dans l'optique que je propose où la meilleure utilisation du terrain du Manoir Richelieu n'implique pas de morcellement, il faudrait aussi ajouter à la valeur de la parcelle 1 un montant représentant la valeur des parcelles 2, 3, 4 et 5 pour déterminer la valeur de l'ensemble des terrains du Manoir Richelieu. En d'autres mots, dans l'hypothèse où avant le 29 décembre 1993 l'appelante n'aurait possédé que la parcelle 1 du fonds de terre en litige, l'appelante aurait dû payer une certaine somme pour acquérir les parcelles 2, 3, 4 et 5 dans le but d'accroître l'aspect villégiature de son complexe hôtelier. À cet égard, je ne discuterai pas des valeurs attribuées par l'intimée aux parcelles 2, 3, 4 et 5 qui se totalisent à environ 900 000 $, comme je suis d'avis que l'utilisation optimale de l'ensemble des terrains en question du Manoir Richelieu en décembre 1993 ne doit pas comporter de fractionnement.
+[47] En ce qui a trait à la preuve de l'appelante, il me paraît intéressant de considérer la transaction numéro 9 dont il est question dans le rapport d'évaluation de monsieur Vanasse. Ce terrain a une superficie de 34 872 hectares. Comme il a été souligné par ce dernier, cette propriété possède des caractéristiques similaires au fonds de terre du Manoir Richelieu en ce qui concerne particulièrement la vue sur le fleuve et sa proximité. La vente s'est effectuée le 5 mars 1992, donc près de deux ans avant la vente du 29 décembre 1993. Le prix de la transaction numéro 9 a été de 147 000 $, dont 140 000 $ pour le terrain. Le zonage de ce terrain était agricole. Dans le cas de la transaction numéro 9 comme dans celui des autres transactions mentionnées dans le rapport de monsieur Vanasse, l'autorisation de la Commission de la Protection du Territoire Agricole permettait à l'époque pertinente de faire une utilisation autre que celle de l'agriculture. Ce terrain est situé près du terrain de golf. Ce terrain est presque cinq fois plus petit que le terrain sous étude. En procédant à l'estimation de la valeur du fonds de terre du complexe hôtelier, l'évaluateur de l'appelante a réduit de 20% la superficie de ce fonds de terre pour tenir compte de sa partie inutilisable. Si on fait abstraction de cette partie inutilisable, le fonds de terre du Manoir Richelieu est environ quatre fois plus grand que la transaction numéro 9. L'évaluateur de l'appelante n'a pas tenu compte toutefois que le zonage établi par la municipalité concernant le terrain dont il est question dans la vente numéro 9 demeurait un zonage agricole même si du point de vue de la Commission mentionnée ci-dessus, l'utilisation de ce fonds à une fin autre que celle de l'agriculture ne posait pas de problème. Aux fins d'établir la valeur de tout le fonds de terre du Manoir Richelieu, il faut tout de même établir un facteur de rajustement à la hausse pour tenir compte du fait que le zonage du terrain qui est l'objet de la transaction numéro 9 n'était pas commercial et de l'élément factuel additionnel que cette dernière transaction a eu lieu à peu près 22 mois avant la vente du 29 décembre 1993.
+[48] Pour établir la valeur de tout le fonds de terre du Manoir Richelieu, j'ai donc à l'esprit les éléments suivants :
+1. mes observations sur la vente numéro 55 figurant dans le tableau de l'évaluateur de l'intimée par rapport à la valeur de la parcelle 1 auquel je dois ajouter dans l'optique où la meilleure utilisation de l'ensemble du fonds de terre n'implique pas de fractionnement du terrain un certain pourcentage d'environ 15% pour tenir compte de la valeur des parcelles 2, 3, 4 et 5. D'après ces observations, j'en arriverais à une somme d'environ 1 200 000 $;
+2. les commentaires formulés à l'égard de la transaction numéro 9 mentionnée dans le rapport de l'évaluateur de l'appelante, en tenant compte particulièrement des rajustements à la hausse que j'établirais à 30%. Dans cette optique, la valeur qu'il faudrait retenir pour l'ensemble des terrains du Manoir Richelieu serait d'un peu plus de 700 000 $.
+[49] Tout compte fait, j'établis la valeur du fonds de terre de l'ensemble de la propriété sous étude à 1 000 000 $.
+[50] Du prix de vente de 10 350 000 $ pour l'ensemble du complexe hôtelier, il faut soustraire les valeurs attribuées par les parties aux catégories d'actif ci-après mentionnées ainsi que celle que je viens de déterminer pour le fonds de terre de la propriété en question :
+10 350 000 $
+Aménagement - terrain de golf
+350 000 $
+Réseau téléphonique - stationnement
+200 000 $
+Roulant
+155 000 $
+Fonds de terre
+1 000 000 $
+soit la somme de - 1 705 000 $
+8 645 000 $
+Le montant de 8 645 000 $ doit donc être réparti entre les deux catégories ci-après mentionnées :
+Bâtisses Équipements et mobilier
+[51] L'appelante a proposé de retenir les pourcentages de 60% pour les bâtisses et 40% pour les équipements et mobilier à l'égard de la partie du prix de vente qui reste à être attribuée aux deux catégories d'actif qui viennent d'être mentionnées. Ces pourcentages représentent, d'après l'appelante, ceux qui avaient été utilisés par les parties lors de la vente du 29 décembre 1993. À cet égard, je me réfère à la clause du contrat de vente relative à la ventilation du prix de vente, qui se lit ainsi :
+VENTILATION DU
+PRIX DE VENTE
+Terrains : 74 300,00 $
+Droits aux nom et raison sociale,
+achalandage et numéros de téléphone
+1,00 $
+Équipements et ameublements :
+4 000 000,00 $
+Bâtiments 6 275 699,00 $
+Total 10 350 000,00 $
+[52] Pour sa part, l'intimée a avancé la proposition selon laquelle les pourcentages pour ces deux catégories d'actif devaient être basés sur la fraction non amortie des biens de chacune de ces catégories établie à la fin de l'année 1992 par l'ancien propriétaire du complexe hôtelier, le groupe Malenfant. D'après le tableau I-3, les montants de la fraction non amortie de la catégorie « bâtisse » et de la catégorie équipements et mobilier » représentaient 75% et 20% respectivement par rapport au total des montants des fractions non amorties des biens des quatre catégories de biens mentionnées dans ce tableau. Un extrait de la pièce I-3 est reproduit ci-après :
+Proportion :
+Bâtisses 0,75 5 813 250 $
+Mobiliers-équipements 0,20 1 550 200 $
+Roulant 0,02 155 020 $
+Stationnement et réseaux télépl 0,03 232 530 $
+7 751 000 $
+[53] Après avoir analysé l'ensemble de la preuve et, de façon particulière, le témoignage de monsieur Côté sur l'état des équipements et mobilier et sur cette question des pourcentages à être attribués à ces deux catégories d'actif sur la partie du prix de vente qui n'a pas été assigné aux quatre catégories d'actif mentionnées au paragraphe 50 de ces motifs et ayant à l'esprit les observations des avocats des parties, j'en suis venu à la conclusion que les pourcentages de 70% pour les bâtisses et 30% pour les équipements et mobilier constitueraient une répartition équitable entre ces deux catégories d'actif de la partie du prix disponible de 8 645 000 $ de la vente du 29 décembre 1993.
+[54] Vu ce qui précède, j'en viens donc à la conclusion que le prix de vente de 10 350 000 $ doit être réparti de la façon suivante entre les différentes catégories d'actif de ce complexe hôtelier. J'indique vis-à-vis de chaque catégorie d'actif la catégorie pertinente de l'Annexe B du Règlement de l'impôt sur le revenu ainsi que le taux d'amortissement applicable prévu par ce même règlement :
+Catégorie Taux
+Bâtisses
+6 051 500 $
+3
+5%
+Équipements et mobilier
+2 593 500 $
+8
+20%
+Terrain
+1 000 000 $
+Aménagement - terrain de golf
+350 000 $
+17
+8%
+Stationnement - réseau téléphonique
+200 000 $
+17
+8%
+Roulant
+155 000 $
+10
+30%
+TOTAL
+10 350 000 $
+[55] Les appels des cotisations du ministre du Revenu pour les années d'imposition 1997 et 1998 sont accueillis avec dépens et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations sur la base que le prix lors de la transaction du 29 décembre 1993 doit être réparti de la façon suivante à l'égard des catégories d'actif ci-après énumérées :
+Bâtisses
+6 051 500 $
+Équipements et mobilier
+2 593 500 $
+Terrain
+1 000 000 $
+Aménagement - terrain de golf
+350 000 $
+Stationnement - réseau téléphonique
+200 000 $
+Roulant
+155 000 $
+TOTAL
+10 350 000 $
+Signé à Ottawa, Canada, ce 14e jour d'octobre 2004.
+« Alban Garon »
+Juge en chef Garon
+RÉFÉRENCE :
+2004CCI692
+No DU DOSSIER DE LA COUR :
+2001-2889(IT)G
+INTITULÉ DE LA CAUSE :
+9075-5067 QUÉBEC INC.
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+les 29 et 30 mars 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable Alban Garon
+Juge en chef
+DATE DU JUGEMENT :
+14 octobre 2004
+COMPARUTIONS :
+Pour l'appelant(e) :
+Me Jacques Sylvestre Jr
+Pour l'intimé(e) :
+Me Valérie Tardif
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Sylvestre & Associés
+Étude :
+Saint-Hyacinthe (Québec)
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Transcription du procès, 29 mars 2004, p. 44, lignes 14 et 15.
+[2] L'évaluateur dans son rapport se réfère à la vente 18 alors qu'en réalité il traite de la vente 19.
+[3] D'après monsieur Côté, ce terrain avait été acquis pour construire un immeuble en copropriété mais par la suite, pour utiliser son expression, « ils l'ont tourné en hôtel » .

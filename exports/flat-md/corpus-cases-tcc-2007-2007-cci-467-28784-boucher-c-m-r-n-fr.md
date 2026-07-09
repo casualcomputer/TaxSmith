@@ -1,0 +1,185 @@
+---
+title: "Boucher c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28784/index.do"
+last_modified: "2007-08-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 467"
+citation2: ""
+neutral_citation: "2007 CCI 467"
+decision_date: "2007-08-22"
+language: "fr"
+item_id: "28784"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1505
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:22:51.269000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7ac0f48ec43a40015cf27d26ceef1720659abc08b60e00317c9114d2e36d9066"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Boucher c. M.R.N.
+
+- Citation: 2007 CCI 467
+- Decision date: 2007-08-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1505, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boucher c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-22
+Référence neutre
+2007 CCI 467
+Numéro de dossier
+2006-1654(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2006-1654(EI)
+ENTRE :
+FERNAND BOUCHER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LES CONCIERGERIES DANIEL ENR.,
+intervenant.
+____________________________________________________________________
+Appel entendu le 11 juin 2007, à Beresford (Nouveau-Brunswick)
+Devant : L’honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l’appelant :
+l’appelant lui-même
+Avocate de l’intimé :
+Me Stéphanie Côté
+Représentant pour l’intervenant :
+Daniel Boucher
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 4e jour de septembre 2007.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2007CCI467
+Date : 20070904
+Dossier : 2006-1654(EI)
+ENTRE :
+FERNAND BOUCHER,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+LES CONCIERGERIES DANIEL ENR.,
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Beresford (Nouveau-Brunswick) le 11 juin 2007.
+[2] Il s’agit de l’appel de la décision du ministre du Revenu national (le « ministre ») selon laquelle il a été déterminé que l’emploi de l’appelant auprès de Daniel Boucher (le « payeur »), pendant la période allant du 11 septembre au 3 décembre 2005 (la « période en litige »), n’était pas assurable. Après l’étude du dossier de l’appelant, le ministre a décidé que l’emploi était exclu des emplois assurables, s’appuyant sur les alinéas 5(2)i) et 5(3)b) de la Loi sur l’assurance-emploi (la « Loi ») et sur l’article 251 de la Loi de l’impôt sur le revenu.
+[3] En rendant sa décision, le ministre s’est basé sur les faits présumés suivants :
+a) le payeur était le propriétaire unique de l’entreprise Les Conciergeries Daniel Enrg. (« l’entreprise ») et il exploitait son commerce depuis le mois de mars 1996; (admis)
+b) l’entreprise du payeur était située à Edmundston, Nouveau Brunswick et offrait un service de conciergerie dans diverse [sic] entreprises dans cette région; (admis)
+c) l’entreprise offrait aussi un service de transport public et avait un contrat avec le district scolaire pour le transport d’écolier; (admis)
+d) la [sic] payeur exploitait son entreprise à l’année, bien que les périodes les plus occupées étaient au printemps et à l’automne; (admis)
+e) le payeur engageait environ huit employés durant les périodes les plus occupées; (admis)
+f) le payeur et sa conjointe contrôlaient les opérations quotidiennes de l’entreprise; (admis)
+g) l’appelant est le père du payeur; (admis)
+h) les tâches de l’appelant étaient l’entretien de bâtiments commerciaux, ce qui comprenait : décaper et cirer les planchers, laver les tapis, faire les gros ménages des fenêtres et des murs, et faire des réparations et des entretiens divers au besoins [sic]; (admis)
+i) en plus des tâches énumérées au sous-paragraphe (h), à quelques occasions, l’appelant devait remplacer le payeur, pour transporter des écoliers; (admis)
+j) le taux horaire de l’appelant était 13,00 $ l’heure, y compris son indemnité de congés payés; (admis)
+k) le taux horaire de tous les autres employés du payeur était, en moyenne, 8,00 $ l’heure ; (admis)
+l) l’appelant avait été engagé pour remplacer un autre employé; (nié)
+m) l’employé que l’appelant remplaçait, était payé un taux horaire de 8,00 $ l’heure et cet employé avait les mêmes tâches que l’appelant sauf le transport écoliers; (nié)
+n) l’appelant était le seul employé payé en argent comptant; (admis)
+o) tous les autres employés étaient payés par chèque; (admis)
+p) l’appelant et les autres employés étaient inscrits au journal de paie du payeur; (admis)
+q) la paie de tous les autres employés du payeur était inscrite au journal de décaissement du payeur; (nié)
+r) la paie de l’appelant n’était pas inscrite au journal de décaissement du payeur; et (nié)
+s) à chaque jour de paye, la paie de l’appelant était créditée au journal du compte de capital du payeur. (nié)
+[4] L’appelant a été rémunéré à 12,48 $ de l’heure avec le 4 pour cent de paie de vacances.
+[5] Il a été prouvé que l’appelant a été embauché pour remplacer Carl Lavoie qui avait subi une blessure. Ce dernier était rémunéré à 8,00 $ de l’heure pour faire à peu près les mêmes tâches. Il est vrai que l’appelant avait des tâches supplémentaires à celle de son prédécesseur mais, selon la preuve, pas suffisamment pour justifier une aussi importante différence de salaire. Par ailleurs, il a été révélé que le payeur aurait rapporté à l’agent de l’assurabilité qu’il versait ce salaire élevé à son père pour que celui-ci « ait de plus gros timbres ».
+[6] À l’audition, le payeur a nié les faits présumés du ministre énoncés aux alinéas q), r) et s). Cependant, son témoignage sur ce point s’est limité à affirmer qu’il ne connaissait pas les termes utilisés par le ministre, qu’il s’en remettait à son comptable, madame Cosgrove et que celle-ci recevait ses instructions de madame Annick Boucher, sa conjointe. Il eut été utile d’entendre la version de celles-ci à l’audition, mais elles étaient toutes deux absentes.
+[7] La preuve a établi que le ministre a fait une étude approfondie des documents que lui a fourni le payeur. Parmi ces documents figurent plusieurs comptes du payeur qui viennent contredire le relevé d’emploi de l’appelant en ce qui touche sa rémunération. Ainsi, la preuve a été faite que l’appelant a réinvesti dans l’entreprise du payeur tout le salaire qu’il a reçu de celui-ci au cours de la période en litige. En d’autres termes, il a été démontré clairement, documents à l’appui, que l’appelant a effectivement acheté ses heures, son salaire et qu’en réalité il a travaillé gratuitement pour le payeur. Aucune preuve n’a été produite par l’appelant pour réfuter ces faits qui l’accablent, produits par l’agente des appels Manon McGraw dans son témoignage et son rapport ainsi que les autres pièces produites à l’audition, dont ceux reçus par le ministre, du payeur.
+[8] Au terme de son analyse, le ministre a circonscrit le débat en ces termes, dans son rapport sur un appel, CPT110 :
+« Pour déterminer si le travailleur est employé en vertu d’un contrat de louage de service, la relation globale entre le travailleur et le payeur doit faire l’objet d’un examen. Pour déterminer la nature de la relation de travail, la question centrale que l’on doit se poser et à laquelle on doit répondre est de savoir si la personne qui a été embauchée pour fournir ces services les fournit en tant que personne travaillant à son compte. La jurisprudence a établi une liste d’éléments visant à aider à répondre à cette question centrale. La relation entre le travailleur et le payeur sera analysée en examinant ces éléments. »
+[9] La question étant ainsi posée, l’agente des appels a mené son analyse des faits selon les critères établis dans l’arrêt Wiebe Door Services Ltd c. Canada (ministre du Revenu national - M.N.R.) (C.A.F), [1986] 3 C.F. 553 où la Cour d’appel fédérale a retenu les éléments suivants formulés dans l’arrêt Montreal v. Montreal Locomotive Works Ltd et al, [1947] 1 D.L.R. 161 (P.C.), c’est-à-dire 1) le contrôle, 2) la propriété des instruments de travail, 3) la possibilité de profit ou le risque de perte et 4) l’intégration. Tel est l’exercice auquel on se prêtait autrefois pour déterminer s’il existait entre les parties une relation de travail telle que l’on puisse conclure à l’existence d’un contrat de louage de service au sens de la Loi sur l’assurance-emploi. Cette analyse ainsi faite, l’agente des appels a conclu à l’existence d’un contrat de louage de service.
+[10] Ensuite, elle a fait son analyse pour déterminer, en raison du lien de dépendance entre les parties, si l’emploi de l’appelant devait être exclu selon la Loi de l’impôt sur le revenu et les alinéas 5(2)i) et 5(3)b) de la Loi. Au terme de cet exercice, l’emploi de l’appelant, selon le ministre, devait être exclu.
+[11] J’ai choisi de procéder à cette analyse d’une autre façon.
+[12] Cette Cour doit déterminer si l’appelant occupait un emploi assurable aux fins de la Loi sur l’assurance-emploi (la « Loi »). La disposition pertinente est énoncée à l’alinéa 5(1)a) de la Loi, comme suit :
+5(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[Je souligne.]
+[13] L’article précité contient la définition du contrat assurable. C’est celui que l’on occupe en vertu d'un contrat de louage de services, c’est-à-dire, un contrat de travail. Cependant, la Loi ne définit pas ce qui constitue un tel contrat.
+[14] Le contrat de louage de services est une notion de droit civil que l’on trouve dans le Code civil du Québec (le « Code civil »). C’est donc en vertu des dispositions pertinentes du Code civil qu’il faudra déterminer la nature de ce contrat.
+[15] Dans une publication intitulée « contrat de travail » : « Pourquoi Wiebe Door Services Ltd ne s’applique pas au Québec et par quoi on doit le remplacer? », publiée par l’Association de planification fiscale et financière (APFF) et le ministère fédéral de la Justice dans le Second recueil d'études en fiscalité de la collection l’Harmonisation de la législation fédérale avec le droit civil québécois et le bijuridisme canadien, le juge Pierre Archambault de cette Cour décrit, à l’égard de toute période d’emploi postérieure au 30 mai 2001, la démarche que doivent faire les tribunaux, depuis l’entrée en vigueur le 1er juin 2001 de l’article 8.1 de la Loi d’interprétation, L.R.C. (1985), Ch. 1-21, modifié, lorsque confrontés à un litige comme celui sous étude. Voici ce que le législateur a édicté dans cet article :
+Propriété et droits civils
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[Je souligne]
+[16] Il convient de reproduire les dispositions pertinentes du Code civil qui serviront à déterminer l’existence d’un contrat de travail au Québec pour le distinguer du contrat d’entreprise :
+Contrat de travail
+2085 Le contrat de travail est celui par lequel une personne, le salarié, s’oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d’une autre personne, l’employeur.
+2086 Le contrat de travail est à durée déterminée ou indéterminée.
+Contrat d’entreprise ou de service
+2098 Le contrat d’entreprise ou de service est celui par lequel une personne, selon le cas l’entrepreneur ou le prestataire de services, s’engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s’oblige à lui payer.
+2099 L’entrepreneur ou le prestataire de services a le libre choix des moyens d’exécution du contrat et il n’existe entre lui et le client aucun lien de subordination quant à son exécution.
+[Je souligne.]
+[17] Les dispositions du Code civil reproduites ci-dessus établissent trois conditions essentielles à l’existence d’un contrat de travail :
+1) la prestation sous forme de travail fournie par le salarié; 2) la rémunération de ce travail par l’employeur; et 3) le lien de subordination. Ce qui distingue de façon significative un contrat de service d’un contrat de travail, c’est l’existence du lien de subordination, c’est-à-dire le fait pour l’employeur d’avoir un pouvoir de direction ou de contrôle sur le travailleur.
+[18] L’appelant demande à cette Cour de renverser la décision du ministre, mais l’analyse de la preuve recueillie, à la lumière des critères établis, ne justifie pas l’intervention de celle-ci.
+[19] L’appelant avait le fardeau de prouver, selon la prépondérance de la preuve, que les faits retenus par le ministre étaient faux. Dans le dossier sous étude, il ne s’est pas acquitté de cette tâche.
+[20] Dans ces circonstances, il convient de citer le passage du juge Pratte dans l’arrêt Elia c. Canada (ministre du Revenu national - M.R.N.), [1998] A.C.F. nº 316, qui statuait ce qui suit :
+« Le juge, contrairement à ce qu’il a cru, aurait donc pu intervenir et aurait dû intervenir si, comme il l’a affirmé, la preuve révélait que la décision du Ministre était déraisonnable. Mais cette affirmation du juge nous paraît, elle aussi, inexacte et fondée sur une erreur de droit puisque le juge n’a pas tenu compte de la règle bien établie selon laquelle les allégations de la réponse à l’avis d'appel, où le Ministre énonce les faits sur lesquels il a fondé sa décision, doivent être tenus pour avérés aussi longtemps que l’appelant n’en a pas prouvé la fausseté. »
+[21] La preuve produite à l’audition nous porte à conclure qu’il manque un élément essentiel à l’existence, d’une part, d’un contrat de louage de service, selon l’alinéa 5(1)a) de la Loi, ou d’autre part, d’un contrat de travail au sens de l’article 2085 du Code civil du Québec. Cet élément essentiel c’est la rémunération du travail de l’appelant par le payeur puisqu’il a été clairement démontré qu’en dépit des versements de son salaire, l’appelant a remboursé au payeur la totalité de sa rémunération. En conséquence, il n’existe aucun contrat de travail selon le Code civil du Québec ou un contrat de louage de service selon la Loi, précités.
+[22] Ce constat nous conduit à une triste réflexion sur le comportement des personnes concernées qui n’aura servi que de tentative de détournement de l’application légitime des objectifs de la Loi.
+[23] En conséquence, cette Cour doit conclure que l’appelant n’occupait pas un emploi assurable auprès du payeur pendant la période en litige. Autrement dit, l’appelant et le payeur n’avaient pas conclu un contrat de travail entre eux au sens du Code civil du Québec.
+[24] L’appel est rejeté et la décision du ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 4e jour de septembre 2007.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2007CCI467
+Nº DU DOSSIER DE LA COUR : 2006-1654(EI)
+INTITULÉ DE LA CAUSE : FERNAND BOUCHER ET M.R.N. ET LES CONCIERGERIES DANIEL ENR.
+LIEU DE L’AUDIENCE : Beresford (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : le 11 juin 2007
+MOTIFS DU JUGEMENT PAR : L’honorable S.J. Savoie, juge suppléant
+DATE DU JUGEMENT : le 4 septembre 2007
+COMPARUTIONS :
+Pour l’appelant :
+l’appelant lui-même
+Avocat de l’intimé :
+Me Stéphanie Côté
+Représentant pour l’intervenant :
+Daniel Boucher
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

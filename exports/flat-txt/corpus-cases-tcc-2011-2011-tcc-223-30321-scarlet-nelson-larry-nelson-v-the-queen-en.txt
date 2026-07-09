@@ -1,0 +1,149 @@
+Title: Scarlet Nelson/ Larry Nelson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30321/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-223-30321-scarlet-nelson-larry-nelson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-04-20
+
+# Scarlet Nelson/ Larry Nelson v. The Queen
+
+- Citation: 2011 TCC 223
+- Decision date: 2011-04-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8053, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scarlet Nelson/ Larry Nelson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-04-20
+Neutral citation
+2011 TCC 223
+File numbers
+2010-3801(GST)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-3801(GST)I
+BETWEEN:
+SCARLET NELSON and LARRY NELSON,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 14, 2011 at Edmonton, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellants:
+Kenneth R. Blacklock
+Counsel for the Respondent:
+Robert Neilson
+Lisa Lai (student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Excise Tax Act for the period from January 1 to December 31, 2008 is dismissed.
+Signed at Ottawa, Ontario this 20th day of April 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 223
+Date: 20110420
+Docket: 2010-3801(GST)I
+BETWEEN:
+SCARLET NELSON and LARRY NELSON,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The appellants, Scarlet and Larry Nelson, appeal in respect of an assessment made under the Excise Tax Act. The issue concerns the disallowance of an input tax credit in the amount of $1,500 that was claimed in relation to a motor vehicle acquired by the appellants, as partners, for use in their farming activities. The period at issue is from January 1 to December 31, 2008.
+[2] The applicable legislative provisions are sections 123(1) (definition of “exclusive”), 201, 202(2), 202(4), and 203(2) of the Act. They are reproduced below.
+123(1) In section 121, this Part and Schedules V to X,
+“exclusive” means
+(a) in respect of the consumption, use or supply of property or a service by a person that is not a financial institution, all or substantially all of the consumption, use or supply of the property or service, […]
+201 For the purpose of determining an input tax credit of a registrant in respect of a passenger vehicle that the registrant at a particular time acquires, imports or brings into a participating province for use as capital property in commercial activities of the registrant, the tax payable by the registrant in respect of the acquisition, importation or bringing in, as the case may be, of the vehicle is deemed to be the lesser of
+(a) the tax that was payable by the registrant in respect of the acquisition, importation or bringing in, as the case may be, of the vehicle; and
+(b) the amount determined by the formula
+(A × B) - C
+where
+A is the tax that would be payable by the registrant in respect of the vehicle if the registrant acquired the vehicle at the particular time
+(i) where the registrant is bringing the vehicle into a participating province at the particular time, in that province, and
+(ii) in any other case, in Canada
+for consideration equal to the amount that would be deemed under paragraph 13(7)(g) or (h) of the Income Tax Act to be, for the purposes of section 13 of that Act, the capital cost to a taxpayer of a passenger vehicle in respect of which that paragraph applies if the formula in paragraph 7307(1)(b) of the Income Tax Regulations were read without reference to the description of B,
+B is
+(i) if the registrant is deemed under subsection 199(3) or 206(2) or (3) to have acquired the vehicle or a portion of it at the particular time, or the registrant is bringing the vehicle into a participating province at the particular time, and the registrant was previously entitled to claim a rebate under section 259 in respect of the vehicle or any improvement to it, the difference between 100% and the specified percentage (within the meaning of that section) that applied in determining the amount of that rebate, and
+(ii) in any other case, 100%; and
+C is
+(i) where the registrant is bringing the vehicle into a participating province at the particular time, the total of all input tax credits that the registrant was entitled to claim in respect of the last acquisition or importation of the vehicle by the registrant or in respect of any improvement to it acquired or imported by the registrant after the vehicle was last so acquired or imported, and
+(ii) in any other case, zero.
+202(2) Where a registrant who is an individual or a partnership acquires or imports a passenger vehicle or aircraft or brings it into a participating province for use as capital property of the registrant, the tax payable (other than tax deemed to be payable under subsection (4)) by the registrant in respect of that acquisition, importation or bringing in, as the case may be, shall not be included in determining an input tax credit of the registrant unless the vehicle or aircraft was acquired or imported, or brought in, as the case may be, by the registrant for use exclusively in commercial activities of the registrant.
+202(4) Notwithstanding subsections (2) and (3), where a registrant who is an individual or a partnership at any time acquires or imports a passenger vehicle or aircraft, or brings it into a participating province, for use as capital property of the registrant but not for use exclusively in commercial activities of the registrant and tax is payable by the registrant in respect of the acquisition, importation or bringing in, as the case may require, for the purpose of determining an input tax credit of the registrant, the registrant is deemed
+(a) to have acquired the vehicle or aircraft on the last day of each taxation year of the registrant ending after that time; and
+(b) to have paid, on that day, tax in respect of the acquisition of the vehicle or aircraft equal to the amount determined by the formula
+A × B
+where
+A is
+(i) in the case of an acquisition or importation in respect of which tax is payable only under subsection 165(1) or section 212 or 218, as the case may require, and in the case of an acquisition deemed to have been made under subsection (5) of a vehicle or aircraft in respect of which no tax under subsection 165(2) was payable by the registrant, the amount determined by the formula
+C/D
+where
+C is the rate set out in subsection 165(1), and
+D is the total of 100% and the percentage determined for C,
+(ii) in the case of the bringing into a participating province of the vehicle or aircraft from a non-participating province and in the case of an acquisition in respect of which tax under section 220.06 is payable, the amount determined by the formula
+E/F
+where
+E is the tax rate for the participating province, and
+F is the total of 100% and the percentage determined for E, and
+(iii) in any other case, the amount determined by the formula
+G/H
+where
+G is the total of the rate set out in subsection 165(1) and the tax rate for a participating province, and
+H is the total of 100% and the percentage determined for G, and
+B is
+(i) where an amount in respect of the vehicle or aircraft is required by paragraph 6(1)(e) or subsection 15(1) of the Income Tax Act to be included in computing the income of an individual for a taxation year of the individual ending in that taxation year of the registrant, nil, and
+(ii) in any other case, the capital cost allowance in respect of the vehicle or aircraft that was deducted under the Income Tax Act in computing the income of the registrant from those commercial activities for that taxation year of the registrant.
+203(2) For the purposes of this Part, where a registrant who is an individual or a partnership acquired or imported a passenger vehicle or an aircraft for use as capital property exclusively in commercial activities of the registrant and the registrant begins, at any time, to use the vehicle or aircraft otherwise than exclusively in commercial activities of the registrant, the registrant shall be deemed to have
+(a) made, immediately before that time, a taxable supply by way of sale of the vehicle or aircraft; […]
+[3] The applicable principles from the above are summarized below.
+(a) If the vehicle is a passenger vehicle with a cost exceeding $30,000, the input tax credit is pro-rated accordingly (s. 201).
+(b) The input tax credit is not further pro-rated if the vehicle is all or substantially all used in commercial activities (s. 123(1), s. 202(2), s. 203(2)).
+(c) The input tax credit is further pro-rated if the vehicle is not all or substantially all used in commercial activities (s. 123(1), s. 202(4), s. 203(2)).
+[4] The appellants acknowledge that the pro-ration required under (a) above in respect of a passenger vehicle whose cost exceeds $30,000 applies to them. In their particular circumstances, the input tax credit is reduced to 60 percent of the GST paid for the vehicle.
+[5] The appellants submit that (b) above also applies to them for the reason that the vehicle is all or substantially all used in commercial activities. They submit that 54 percent commercial use should satisfy this test because that is 90 percent (all or substantially all) of the 60 percent that is allowed under (a) above.
+[6] If the exclusivity test in (b) above does not apply to the appellants, the test in (c) applies. In this case, it is acknowledged that no input tax credit can be claimed. The input tax credit in (c) above is based on capital cost allowance that was deducted in respect of the vehicle under the Income Tax Act. Capital cost allowance is a discretionary deduction and none was claimed in this case. The appellants’ representative explained that it made no sense to claim capital cost allowance since the deduction would be subject to the restricted farm loss provisions.
+[7] No evidence was presented by the appellants at the hearing. Their representative took the position that the respondent was taking too narrow a view of the exclusivity test by interpreting the phrase “all or substantially all” as 90 percent. The representative suggests that 54 percent commercial use should be sufficient, on the basis that this is 90 percent of the 60 percent that is allowed on account of the cost of the vehicle.
+[8] The respondent’s interpretation effectively double counts the pro-ration, it is submitted. In the appellants’ view, a more equitable result is achieved with their interpretation.
+[9] I am not satisfied that the appellants’ interpretation is more equitable. It is reasonable that two adjustments should be made, one for personal use and one for the cost of the vehicle. I do not accept that there is double counting.
+[10] Regardless of the equities, however, the appellants’ interpretation cannot be justified based on the wording of the legislation.
+[11] In order to avoid a pro-ration for personal use, the vehicle must be all or substantially all used in commercial activities. The phrase “all or substantially all” means only slightly less than total use: 547931 Alberta Ltd. v The Queen, [2003] GSTC 68 (TCC), para 7. The percentage suggested by the appellants, 54 percent, does not satisfy this test.
+[12] For these reasons, the claim for the input tax credit will be disallowed. Although the result for the appellants is unfortunate, the relief that the appellants seek runs counter to clear legislative provisions.
+[13] The appeal will be dismissed.
+Signed at Ottawa, Ontario this 20th day of April 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 223
+COURT FILE NO.: 2010-3801(GST)I
+STYLE OF CAUSE: SCARLET NELSON and LARRY NELSON v HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: April 14, 2011
+REASONS FOR JUDGMENT BY: Hon. J.M. Woods
+DATE OF JUDGMENT: April 20, 2011
+APPEARANCES:
+Agent for the Appellants:
+Kenneth R. Blacklock
+Counsel for the Respondent:
+Robert Neilson
+Lisa Lai (student-at-law)
+COUNSEL OF RECORD:
+For the Appellants:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

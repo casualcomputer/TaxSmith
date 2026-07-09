@@ -1,0 +1,325 @@
+---
+title: "Vivaconcept International Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64460/index.do"
+last_modified: "2013-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 336"
+citation2: ""
+neutral_citation: "2013 TCC 336"
+decision_date: "2013-10-24"
+language: "en"
+item_id: "64460"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5926
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:48:20.207000+00:00"
+cases_cited_count: 5
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d2322a41a43183b2b870bc0fb7440961898278a1bf3f8d6d4d24de6068637864"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vivaconcept International Inc. v. The Queen
+
+- Citation: 2013 TCC 336
+- Decision date: 2013-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5926, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vivaconcept International Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-10-24
+Neutral citation
+2013 TCC 336
+File numbers
+2010-1499(GST)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2010-1499(GST)G
+482010-2507(GST)G
+BETWEEN:
+VIVACONCEPT INTERNATIONAL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on June 27, 2013, at Montréal, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the appellant:
+Paul Prokos
+Geneviève Léveillé
+Counsel for the respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals from assessments made under the Excise Tax Act for the periods from August 1, 2006, to January 31, 2007, and from November 1, 2008, to January 31, 2009, notices of which are dated March 3, 2009, and August 5, 2009, respectively, are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the Reasons for Judgment.
+With costs to the appellant.
+Signed at Ottawa, Canada, this 24th day of October 2013.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 11th day of February 2014.
+François Brunet, Revisor
+Citation: 2013 TCC 336
+Date: 20131024
+Dockets: 2010-1499(GST)G
+2010-2507(GST)G
+BETWEEN:
+VIVACONCEPT INTERNATIONAL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] The parties have agreed to file the same evidence in support of both files. The parties have also agreed on the main facts relevant to both files.
+[2] The agreement pertains to the following facts:
+[Translation]
+2010-1499(GST)G / 2010-2507(GST)G
+TAX COURT OF CANADA
+BETWEEN:
+VIVACONCEPT INTERNATIONAL INC.
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AGREEMENT ON THE FACTS
+For the purposes of these appeals, the parties acknowledge that1
+1. The appellant is a company incorporated under the Canada Business Corporations Act, R.S.C. 1985, c. C-44.
+2. The appellant’s fiscal year ends on January 31 of each year.
+3. The appellant is registered for the purposes of Part IX of the Excise Tax Act (the Act).
+4. The appellant files its net tax returns for the purposes of the Act on a quarterly basis, namely, for quarters ending on April 30, July 31, October 31 and January 31.
+5. The appellant operates a business whose main activity is event management.
+6. In 2005, International Flora Montréal (Flora) concluded an agreement with the appellant for it to manage a summer horticulture and gardening exhibition presented annually at the Parc des écluses located in the Old Port of Montréal starting in the summer of 2006. The agreement was ratified in a management contract signed in 2006 (the Management Contract2).
+7. The Management Contract provided that management fees in the amount of $113,500 were payable on a monthly basis to the appellant in consideration for the services rendered by it.
+8. Flora and the appellant are dealing with each other at arm’s length.
+9. The first exhibition took place from June 15 to October 8, 2006 (the 2006 exhibition).
+10. In putting on the 2006 exhibition, Flora used the services of many businesses, artists and creators working in such fields as landscaping, architecture, design, horticulture and gardening as well as of various suppliers in the fields of advertising and marketing (the suppliers).
+11. The appellant billed Flora for management fees totalling $1,769,693.92, including GST and QST, between November 2005 and October 2006. The GST and QST that applied to those fees were $103,440.44 and $123,467.04 respectively.
+12. The invoices issued by the appellant relative to the management fees for the period from November 2005 to October 2006 have never been paid by Flora.
+13. During the 2006 exhibition, Flora found out that it would not receive the government grants promised for putting on the 2006 exhibition.
+14. Because it did not obtain the government grants it was promised, Flora experienced significant financial difficulties, as shown by Flora’s balance sheet and income statement for the fiscal year ending on October 31, 2006.3
+15. Flora was unable to fulfill its obligations towards its suppliers and the appellant.
+16. Flora was considered to be insolvent by its directors in November 2006.
+17. An agreement between Flora and a committee representing its suppliers was concluded in the fall of 2006 (the Agreement). In a letter dated February 13, 2007, Flora submitted an offer to its suppliers in accordance with the Agreement.4
+18. The appellant had to submit to the Agreement in order to prevent Flora’s bankruptcy and to make it possible for an exhibition to be held in 2007.
+19. The GST relative to the debt is in the amount of $103,440.44.
+20. The appellant has never been able to collect the debt or the GST applicable to the debt.
+21. The GST applicable to the debt was included in the determination of the net tax reported to the Minister. More specifically, the appellant included in the determination of its net tax reported to the Minister an amount of $83,373.20, and the Minister, in an assessment dated March 25, 2009,5 added the difference within a few hundred dollars, namely, an amount of $20,430, in determining the appellant’s net tax.
+22. In its amended net tax return, filed in April 2008, for the period ending on January 31, 2007, the appellant deducted, in the determination of its net tax, an amount of $85,525.84, including $83,373.30 as a deduction for bad debt.6
+23. The deduction for bad debt claimed by the appellant was disallowed by the Minister on the ground that it was a voluntary reduction of consideration payable under section 232 of the Act.
+24. That final decision was communicated to the appellant around the end of 2008 through various discussions with, among others, Alain Muguet, auditor for the Agence du revenu du Québec.
+25. The Minister issued a Notice of Assessment dated March 3, 2009,7 confirming the disallowed deduction for bad debt claimed by the appellant for the period ending January 31, 2007.
+26. On January 14, 2009, an agreement to forgive the debt was signed by the appellant and Flora.8
+27. On January 14, 2009, the appellant issued a credit note to Flora relative to the debt cancelled in its favour.9
+28. In its net tax return for the period ending January 31, 2009, signed on April 20, 2009, the appellant claimed an adjustment in the amount of $103,440.44.10
+29. On August 5, 2009, the Minister determined that the appellant was not entitled to the adjustment amount requested, which represented the GST charged but not collected, on the ground that a credit note was not issued to Flora within a reasonable time.
+30. On August 5, 2009, the Minister made an assessment in respect of the appellant establishing the amount of net tax at $0 and claiming the following amounts from it:11
+Adjustments in the calculation of reported net tax
+$103,440.44
+Interest on arrears
+$1,613.54
+Total [amount owing]
+$105,053.98
+31. The repayment of $103.440.44 claimed by the appellant in its tax return for the period ending on January 31, 2009, has never been made by the Minister.
+32. The appellant does not owe the Minister any amounts for the period ending on January 31, 2009.
+33. The Minister is claiming from the appellant the payment of a total amount of GST billed by the appellant but never paid by Flora in addition to the payment of an amount of $105,053.98, for which the appellant is not liable.
+Montréal, this 27the day of June 2013.
+[signature]
+[signature]
+HEENAN BLAIKIE LLP
+Geneviève Léveillé
+Paul Prokos
+Counsel for the appellant
+LARIVIÈRE MEUNIER
+Benoît Denis
+Counsel for the respondent
+1 Note that all of the documents listed in this document can be found in the Joint Book of Documents.
+2 Tab 1 – [Translation] "agreement for management and services between Vivaconcept International Inc. and International Flora Montréal".
+3 Tab 2 – Flora’s [Translation] "balance sheet" and [Translation] "income statement".
+4 Tab 3 – [Translation] "letter to Flora’s creditors 2006" sent by Flora on February 13, 2007.
+5 Tab 4 – Notice of (Re)Assessment dated March 25, 2009.
+6 Tab 5 – Amended net tax return for the period ending January 31, 2007.
+7 Tab 6 – Notice of (Re)Assessment dated March 3, 2009.
+8 Tab 7 – Debt write-off agreement, Affidavit.
+9 Tab 8 – Credit note.
+10 Tab 9 – Net tax return for the period ending January 31, 2009.
+11 Tab 10 – Notice of (Re)Assessment dated August 5, 2009.
+[3] The Court has asked the parties to submit a joint version of the issues. The parties therefore agreed to word the issues as follows:
+[Translation]
+2010-1499(GST)G
+Is the appellant entitled to a deduction in the amount of $103,440.44 for bad debt in determining its net tax for the quarter ending on January 31, 2007, pursuant to section 231 ETA?
+2010-2507(GST)G
+Is the appellant entitled to an adjustment in the amount of $103,440.44 in determining its net tax for the quarter ending January 31, 2009, pursuant to subsections 232(2) and 232(3) ETA?
+– More specifically, did the appellant remit to Flora (the recipient) a credit note within a reasonable time?
+WITH COSTS IN ONE CAUSE
+The parties agree that the appellant can be entitled to only one of the adjustments requested or deductions claimed if it is entitled to one or the other.
+[signature]
+[signature]
+For the appellant
+For the respondent
+[4] Hearing witnesses has made it possible to establish on a balance of probabilities that the appellant had taken several steps with the respondent’s representatives to settle matters, that is, to not have to pay the GST amounts that were not collected. Following these steps, the appellant believed that it had done everything needed to sort out its files with the respondent.
+[5] On the basis of the facts stated above, which have been agreed on, is the appellant entitled to an adjustment either under section 231 of the Excise Tax Act (ETA) or under subsections 232(2) and 232(3) of the ETA?
+[6] First, section 231 of the ETA sets out various criteria, including that of whether the debt is bad.
+[7] Second, section 232 of the ETA and its application criteria, including that of reasonable time, will be discussed. The analysis will make it possible to determine whether the appellant observed the procedure set out in the Act.
+Section 231 of the ETA
+[8] Section 231 of the Act contains several application criteria; only those applicable to this dispute are relevant.
+[9] First, to obtain the deduction in subsection 231(1), there must have been a supplier who has made a taxable supply for consideration to a recipient with whom the supplier was dealing at arm’s length. These criteria do not pose a problem in this case.
+[10] The conditions or aspects of the Act pertaining to the dispute are as follows:
+(1) All or part of the consideration and tax payable in respect of the supply has become a bad debt;
+(2) The supplier has written off that debt in its books of account;
+(3) The tax collectible is included in determining the net tax indicated in the return that the supplier filed for the period during which the tax became collectible;
+(4) All net tax remittable, if any, as reported in that return is remitted.
+[11] Finally, the deduction must be claimed within four years after the day on or before which a return was required to be filed or the period in which the bad debt was written off, which is not at issue in this case.
+The bad debt
+[12] Regarding the bad debt, the issue is whether the debt was really bad.
+[13] Rich v. R.[1] seems to be the case that best describes the factors to be taken into consideration to decide whether a debt is bad. In that case, the issue was whether the appellant was entitled to an allowable business investment loss. To decide on the issue, Justice Rothstein lists factors that should, in general, be taken into account. He specifies that it is the creditor who must decide which factors to select, while the Court must decide whether the creditor honestly and reasonably determined the debt to be bad based on the following factors, among others:
+(1) the history and age of the debt;
+(2) the financial position of the debtor;
+(3) changes in total sales as compared with prior years;
+(4) the debtor’s cash, accounts receivable and other current assets at the relevant time and as compared with prior years;
+(5) the debtor’s accounts payable and other current liabilities at the relevant time and as compared with prior years;
+(6) the general business conditions in the country, the community of the debtor, and in the debtor’s line of business; and
+(7) the past experience of the taxpayer with writing off bad debts.[2]
+[14] The future prospects of the debtor company may also be taken into account, unless they are merely speculative. A future event may therefore be considered if it is probable that it will occur and make the debt collectible.[3]
+[15] It seems important to note that it is unnecessary for the creditor to exhaust all possible measures of collection. An honest and reasonable assessment is sufficient.[4] It is not essential to take proactive steps unless there is some evidence to show that collection on the loan is reasonably possible.[5]
+[16] In Paquin v. R,[6] Justice Garon specifies that the creditor cannot simply be content with the belief that his or her debtor has no assets. In that case, the creditor took no steps to collect the debt because he believed it futile in view of the bankruptcy of the main partner of the debtor company. He made no attempts to collect the debt from that partner or from another partner in the company. This was a decision made on the basis of an incomplete analysis of the situation.
+[17] The evidence therefore did not show that the debtor had taken reasonable measures to collect the debt. His mere statement that the debt was bad in view of the principal partner’s bankruptcy is not sufficient.[7] Under the doctrine propounded in Rich, we can sum this up by saying that the creditor’s belief that he would not be paid was unreasonable. Appropriate measures should therefore have been taken. This should be an objective exercise that takes into account all of the relevant factors.
+[18] Justice Garon also cited Ciriello v. Canada,[8] in which the Court explained that the burden of proof regarding the nature of the debt is on the creditor whereby the creditor must show that this is not an intuitive decision but a reasonable one that is warranted by various pieces of evidence that vary from case to case.[9]
+[19] In short, we can conclude from these various cases that the creditor will not have to take proactive steps if he honestly and reasonably believes that repayment is impossible. This honest and reasonable belief must be based on, among other things, the factors listed above.
+[20] Consequently, a private agreement is not enough in itself to warrant the conclusion that a debt is bad. To conclude that a debt is bad, it is essential that the test is done based on various relevant factors.
+[21] In this case, does the evidence with respect to these factors make it possible to conclude that the debt owed to Vivaconcept was indeed bad?
+[22] The date and creation of the debt was between November 2005 and October 2006 in view of the billing from Flora to Vivaconcept. In the fall of 2006, when the agreement with suppliers was concluded, the debt was almost a year old.
+[23] During that year, no payments were made:
+[Translation]
+12. The invoices issued by the appellant relative to the management fees for the period from November 2005 to October 2006 were never paid by Flora.
+There is no doubt in this case that Flora was in a precarious situation. It was declared insolvent by its directors and concluded the agreement with the suppliers in order to avoid bankruptcy and to be able to put on a new exhibition the following year:
+[Translation]
+16. Flora was considered to be insolvent by its directors in November 2006.
+17. An agreement between Flora and a committee representing its suppliers was concluded in the fall of 2006 (the Agreement). In a letter dated February 13, 2007, Flora submitted an offer to its suppliers in accordance with the Agreement.4
+18. The appellant was obliged to submit to the Agreement in order to prevent Flora’s bankruptcy and to make it possible for an exhibition to be held in 2007.
+[24] The facts were therefore simple and clear: the debtor was completely insolvent; not to accept that reality would have been simply petty.
+[25] The decision to assume that it was now a bad debt was wise, reasonable and rational. In addition, the income statement shows a net loss of -$4,254,985.21 for the period from November 1, 2005, to October 31, 2006.
+[26] Although the evidence on the record does not make it possible to analyze every factor separately and thoroughly, the case seems particular to me in that the facts are not disputed. This absence of challenge warrants the conclusion that the situation was obvious at the time, namely, that it was clear and undeniable that the debt had become uncollectible. In addition, just the facts relative to the failure to obtain the grant meant that the whole project was doomed to a total failure with respect to the way in which it was planned and designed.
+[27] I reiterate that Flora’s field of activity consisted in putting on a seasonal summer activity the revenues from which were mainly made from the price of admission; yet, even that component turned out to be completely different than expected.
+[28] The fall had come; there were no hopes in that regard. Moreover, any legal proceedings instituted for collection would have resulted in certain bankruptcy of the business, thus destroying the seed and closing the door for good to any possibility of a second attempt with reduced, but possible, cooperation of a certain number of creditors.
+[29] In conclusion to this part of the file, I find that the appellant was honest, reasonable and justified in accepting the agreement and in not taking any additional steps to collect its debt.
+[30] The debt did become bad within the meaning of the provisions of the Act. I am satisfied that it was a responsible, wise and completely appropriate decision beyond reproach; any expense or effort to undertake any steps would have been a sheer waste of money and energy.
+Writing off the debt
+[31] Subsection 231(1) of the ETA provides that the debt must be written off in the creditor’s books of account.
+[32] In Ministic Air Ltd v. The Queen,[10] Justice Bowie reiterates Judge Beaubier’s holding in Burkman v. The Queen[11] that a written note can meet the writing off criterion when there is no book of account. The important thing is that there is a written record of the decision to write off the debt.[12]
+[33] In Ministic Air, a memorandum was prepared stating that the debt had been written off. However, according to Justice Bowie, this document was created not to record a transaction, but for evidence to support the adjustment request.[13] The judge also explained that the adjustment request must be made in the period during which the debt was written off or in a later period. However, Ministic Air made its request before the write-off note was written. Thus, even if the note had been sufficient evidence for the write-off, it could not have supported the request made earlier.[14]
+[34] In Bajan v. The Queen,[15] no books of account were filed in evidence, and the company’s accountant did not testify. In addition, the steps to collect the debt were taken after the alleged write-off. The only evidence filed regarding the write-off was the accountant’s letter, which was not very detailed and was written 15 or 16 years after the events, which was deemed insufficient.[16]
+[35] In McCool v. The Queen,[17] Justice Bonner made the following comments:
+In my view a bad debt cannot be considered to have been written off in a person’s books of account unless and until a notation is made in those books that the particular debt has been written off. An unrecorded decision will not suffice. A journal entry ought to be made to clear out each worthless receivable. Otherwise, subsection 231 . . . would be impossible to enforce.[18]
+[36] In this case, the adjustment request under subsection 231(1) was made in April 2008, that is, in the month following the agreement concluded with the suppliers. However, the written write-off agreement was signed only in January 2009 in order to comply with the requirement in paragraph 232(3)(a) concerning the credit note. The January 2009 agreement therefore could not support the April 2008 request, as per Ministic Air.
+[37] The note on the write-off is found in the financial report dated January 31, 2007. Although it seems as if only a part was written off, I believe that this is sufficient evidence for the write-off since the context makes it possible to confirm that the debt written off is indeed the debt at issue.
+[38] Although the case law does not expressly hold that the write-off may be proven by testimony, our Court noted in Bajan that the fact that the accountant did not testify prevented it from being able to assess the credibility of the content of his letter indicating the write-off.[19] In other words, the letter, which is insufficient by itself, could have been probative evidence if it had been corroborated by testimony. Let us recall, however, that the letter in question was written many years after the events.
+[39] Thus, a contemporary written document recording the decision to write off the debt seems essential to the application of section 231. The nature of the written document in question may vary, however, depending on the circumstances. Bajan even suggests that the written document does not have to be contemporary as long as it is credible.
+[40] In this case, all of the facts admitted, the testimony and the written documents filed in support of the evidence, I am able to find that the balance of probabilities is in favour of the write-off.
+[41] Subsection 231(1.1) imposes two additional conditions for the adjustment request for bad debt. First, the tax collectible for the supply must be included in the determination of the net tax reported in a return for the reporting period in which the tax became collectible.
+[42] In Bajan, Justice Paris deplores the fact that none of the appellant’s files was offered in evidence making it impossible to determine the GST portion attributable to the allegedly bad debt.[20]
+[43] Therefore, we must examine the tax return for the period concerned and ensure that a part or the entire amount reported is related to the taxable supply. This may be proven by the company’s documents.
+[44] In the case at bar, it was admitted by the parties that an amount of $83,373 was reported relative to the debt at issue, an amount that was then adjusted by the Minister.
+[45] The contract concluded between Vivaconcept and Flora, the write-off agreement as well as the credit note also constitute evidence of the debt amount, which makes it possible to determine the tax amount in respect of the supply.
+[46] In short, there is no doubt that it is the amount of $103,440.44 that corresponds to the tax on the bad debt.
+[47] The second condition in subsection 231(1.1) requires that the total net tax remittable based on the return for the period during which the tax became collectible be remitted. In other words, as indicated in Explanatory Notes,[21] ". . . the . . . reporting entity . . . must also satisfy the requirement to remit any positive amount of net tax reported in [the] return".
+[48] In Ministic Air, the claim for the bad debt deduction was made in March 2001. Yet, at that time, the GST for the supplies recorded in the return still remained unpaid. It was paid only in August 2001 through the use of assets seized by the Canada Revenue Agency, which does not satisfy the requirement.[22]
+[49] In short, the positive amount of net tax relative to the period when the tax on supplies became collectible must be paid to the Minister before the deduction claim is made. Did Vivaconcept pay the applicable net tax? The evidence regarding this emerged from the testimony of Mr. Goulet.
+[50] Just like section 231 of the ETA, subsection 232(2) provides several application criteria. In order to obtain the desired adjustment, there must be a person who charges or collects tax calculated on consideration for a supply, and the consideration must also be reduced in part or in full. The adjustment must be requested in the period during which the consideration was reduced or within four years following the end of that period.
+[51] Subsection 232(3) sets out another condition:
+(1) The person who claims the adjustment issues a credit note to the other person within a reasonable time.
+[52] The adjustment request may be made within the period when the credit note is issued as long as the amount for which the deduction is claimed was included in calculating the net tax in that same period or an earlier period.
+[53] In this case, it is not disputed that a credit note was issued. Indeed, it was admitted that a valid credit note was issued on January 14, 2009. The problem lies primarily with the time period: 23 months passed between the agreement to reduce consideration (in February 2007) and the issuing of the credit note (January 2009). Determining whether a time period is reasonable is not essentially an exercise in mathematics; a myriad of considerations and elements must be assessed on the basis of the context and of the circumstances.
+[54] At least, that is what Justice Muldoon specified in Silden v. The Queen.[23] The issue of a reasonable time must also be assessed on the basis of the obvious objective of Parliament, which intended that a recipient of the supply may correct or rectify the situation with regard to the very numerous uncertainties of business and economic operations.
+[55] It is true that a time period of 23 months is relatively long. However, the appellant believed that section 231 was the one that applied in his case; that section does not require a credit note. It learned only at the end of 2008 that it should have used section 232 and that it should therefore have issued a credit note to Flora.
+[Translation]
+24. That final decision was communicated to the appellant around the end of 2008 through various discussions with, among others, Alain Muguet, auditor for the Agence du revenu du Québec.
+[56] The credit note was issued on January 14, 2009, that is, a relatively short time after the appellant learned that it should have issued one. The adjustment request under section 232 was then made on April 20, 2009, in its net tax return for the period ending on January 31, 2009.
+[Translation]
+28. In its net tax return for the period ending January 31, 2009, signed on April 20, 2009, the appellant requested an adjustment in the amount of $103,440.44.10
+[57] The appellant has shown diligence, particularly if we take into account the provisions in section 231; the time resulting from the request under section 231 must be taken into account. The remaining time, namely, that between the Minister’s notice of disallowance (end of 2008) and the issuance of the credit note (January 2009) seems quite reasonable to me.
+[58] The appellant has shown diligence; indeed, citing the provisions in section 231 at first was an unavoidable step because the appellant could have received satisfaction at that time. Indeed, the write-off of the debt and the payment of the net tax could have very well satisfied the appellant in that first step.
+[59] I do not believe that I am exaggerating when I state that some provisions of the Act are particularly difficult to understand for those who are subject to them. In this regard, the respondent’s representatives have some responsibility to make the provisions more accessible to the general public so that those who are subject to them may manage their tax obligations properly.
+[60] In this case, there is no doubt that the appellant acted in good faith and reasonably given the circumstances. In such a context, I am of the view that, unless there is a doubt or a certain degree of discomfort regarding the balance of probabilities, the decision should be in favour of the taxpayer, especially since the blame directed at it has much more to do with form than with substance.
+[61] In this case, I believe that the evidence is satisfactory for allowing the appeals; therefore, they are allowed, with costs to the appellant.
+Signed at Ottawa, Canada, this 24th day of October 2013.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 11th day of February 2014.
+François Brunet, Revisor
+CITATION: 2013 TCC 336
+COURT FILE NOS: 2010-1499(GST)G
+2010-2507(GST)G
+STYLE OF CAUSE: VIVACONCEPT INTERNATIONAL INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: June 27, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: October 24, 2013
+APPEARANCES:
+Counsel for the respondent:
+Paul Prokos
+Geneviève Léveillé
+Counsel for the respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the appellant:
+Name: Paul Prokos
+Geneviève Léveillé
+Firm: Heenan Blaikie
+Montréal, Quebec
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Rich v. R, 2003 FCA 38.
+[2] Ibid. at para. 13.
+[3] Ibid. at para 14.
+[4] Ibid. at para. 15.
+[5] Ibid. at para. 23.
+[6] Paquin v. R., 2004 TCC 597.
+[7] Ibid. at paras 20-26.
+[8] [2000] T.C.J. No. 829 (QL).
+[9] Paquin, supra, footnote 6 at paras 27 and 28.
+[10] 2008 TCC 296.
+[11] [1997] GSTC 98.
+[12] Ministic Air, supra, footnote 11 at para. 14.
+[13] Ibid. at paras 14-15.
+[14] Ibid. at para. 16.
+[15] 2009 TCC 521.
+[16] Ibid. at para. 12.
+[17] McCool v. The Queen, 2005 TCC 357;
+[18] Ibid. at para. 6.
+[19] Bajan, supra, footnote 16, at para. 12.
+[20] Ibid. at para 14.
+[21] Canada, Department of Finance, Explanatory Notes Relating to the Income Tax Act, the Air Travellers Security Charge Act and the Excise Tax Act (December 20, 2002), subs. 231(1), (1.1).
+[22] Supra, footnote 11 at para. 17.
+[23] Silden v. The Queen, 90 DTC 6576.

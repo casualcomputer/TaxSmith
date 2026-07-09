@@ -1,0 +1,214 @@
+Title: Leblanc v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28425/index.do
+Corpus path: corpus/cases/tcc/2007/2008-tcc-7-28425-leblanc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-11-26
+
+# Leblanc v. The Queen
+
+- Citation: 2008 TCC 7
+- Decision date: 2007-11-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1223, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leblanc v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-26
+Neutral citation
+2008 TCC 7
+File numbers
+2007-1931(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1931(IT)I
+BETWEEN :
+MARIO LEBLANC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals by
+Marie Thérèse Kateb (2007-1940(IT)I)
+on November 26, 2007, at Montréal, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant personally
+Counsel for the Respondent:
+Ms. Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeals under the Income Tax Act from the notices of redetermination concerning the Goods and Services Tax credit for the 2003, 2004 and 2005 taxation years are allowed in part and the matter is referred back to the Minister of National Revenue for reconsideration and redetermination, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 29th day of January, 2008.
+“François Angers”
+Angers J.
+Translation certified true.
+Stefan Winfield, reviser
+Docket: 2007-1940(IT)I
+BETWEEN :
+MARIE-THÉRÈSE KATEB,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on common evidence with the appeals by
+Mario Leblanc (2007-1931(IT)I)
+on November 26, 2007, at Montréal, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant personally
+Counsel for the Respondent:
+Ms. Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeals under the Income Tax Act from the notices of redetermination concerning the Canada Child Tax Benefit for the 2003, 2004 and 2005 base years are allowed in part and the matter is referred back to the Minister of National Revenue for reconsideration and redetermination, in accordance with the attached reasons for judgment.
+The appeals under the Income Tax Act from the notices of redetermination concerning the Goods and Services Tax credit for the 2003, 2004 and 2005 taxation years are allowed in part and the matter is referred back to the Minister of National Revenue for reconsideration and redetermination, in accordance with the attached reasons for judgment.
+The appeals under the Income Tax Act from reassessments of the non‑refundable tax credit and the claim for the wholly dependent person credit in respect of a child for the 2003, 2004 and 2005 taxation years are allowed in part and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached reasons for judgment.
+The appeal under the Income Tax Act from the redetermination of the Energy Cost Benefit for the 2004 base year is dismissed, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 29th day of January, 2008.
+“François Angers”
+Angers J.
+Translation certified true.
+Stefan Winfield, reviser
+Citation: 2008TCC7
+Date: 20080129
+Dockets: 2007-1931(IT)I
+2007-1940(IT)I
+BETWEEN:
+MARIO LEBLANC,
+MARIE THÉRÈSE KATEB,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers J.
+[1] These two appeals were heard on common evidence. In the appeal by Marie Thérèse Kateb, the Minister of National Revenue (the Minister), by notices of redetermination of the Canada Child Tax Benefit made on December 13, 2006, for the 2003, 2004 and 2005 base years, revised the tax benefits to which the Appellant was entitled for her two children and determined them to be $991.08 for 2003, $863.12 for 2004 and $1,286.76 for 2005. After the notices of redetermination of the Canada Child Tax Benefit were issued, the Minister determined that there had been a $4,372.70 overpayment to the Appellant: $1,389.88 for 2003, $1,882.52 for 2004 and $1,100.30 for 2005.
+[2] By notices of redetermination of the Goods and Services Tax Credit (GSTC) made on December 1, 2006, for the same taxation years, the Minister revised the annual GSTC to zero. As a result, the Minister determined that there had been a $1,157.75 overpayment to the Appellant: $346.35 for 2003, $457.40 for 2004 and $354 for 2005.
+[3] In the reassessments for the same taxation years, the Minister, in computing the non‑refundable tax credits, disallowed the claim for a wholly dependent person credit in respect of a child, in the amounts of $1,053, $1,088 and $1,102, respectively.
+[4] The Minister also, by notice of redetermination of the Energy Cost Benefit dated December 28, 2006, for the 2004 base year, revised the benefit to zero and determined that there had been a $250 overpayment to the Appellant.
+[5] The Appellant objected to the notices of determination and notices of assessment, and the Minister confirmed all of them on January 17, 2007. By notice of redetermination of the GSTC dated May 25, 2007, the Minister recomputed the GST payments for January and April 2007 in respect of the 2005 taxation year which is in issue in this case.
+[6] In the case of the Appellant Mario Leblanc, the Minister, in a notice of determination of the GSTC dated December 1, 2006, determined the annual GST credit for the 2003, 2004 and 2005 taxation years to be zero, which meant that the Appellant had received a $93 overpayment.
+[7] The Appellant objected and the minister confirmed the notice of determination on April 4, 2007. By notice of redetermination of the GSTC issued on May 25, 2007, the Minister recomputed the GST payments for January to April 2007 in respect of the 2005 taxation year.
+[8] All of these redeterminations and reassessments in respect of the Appellants were made after the Minister concluded that the Appellants were living together as common-law partners during the period from January 1, 2002, to December 31, 2006. The issue is whether the two Appellants lived together as common-law partners during the period in question.
+[9] The Appellant has two children, aged 13 and 11, from a previous marriage. She has been divorced from the father of the two children for about 10 years. She was awarded custody of her children, with access to the father, and exclusive ownership of the family home, where she lived until the fall of 2004.
+[10] In her testimony, the Appellant recounted all the problems she has had with her former husband since they separated. All of those events caused her to fear her former husband. She recounted a number of complaints made to the police and described a situation in which she was, and still is, afraid for her safety.
+[11] A summary of police call sheets shows a number of incidents described as family disputes and problems with the former spouse between 1998 and 2001. There is a total of six, five of which were made by the Appellant. The sixth was made by the former spouse. In one case, the Appellant alleged that she had been pushed, but did not file a complaint. The Appellant’s refusal to abide by the access agreement with her former spouse, on the ground that he was not complying with other agreements they had made, was the alleged source of the conflicts. Indeed, the complaint by the former spouse related to the Appellant’s refusal to allow access to the children.
+[12] The female Appellant met the male Appellant in 2002-2003 at his place of work. She described him as a good person, a good Samaritan, whom she had asked to be present when her former spouse came to pick up and return the children. The male Appellant said he had gradually moved into the basement of the female Appellant’s home after ending his lease on an apartment he had occupied since July 1998. However, he stayed there for only a few weeks, because he had to go and live with his parents for a while due to his mother’s health. The female Appellant was unable to say whose idea the move had been. She said that it happened just like that, that it suited both Appellants and that she takes life one day at a time.
+[13] It was ultimately not until March 2003 that he moved into the Appellant’s basement, and he paid his own moving expenses. There was an oral agreement that in return for him paying the cost of the basement renovation, lawn maintenance and snow removal, he would not pay rent. However, there was no evidence as to the term of the oral agreement, that is, the point at which the payments in lieu of rent, to be used primarily to cover the cost of the renovations, were supposed to end.
+[14] The Appellant explained that in 2004 she had a chance to sell her house, and she sold it so that she could move to a different neighbourhood. Because her financing ratio would not allow her to borrow money from financial institutions to build another house, she had to have a co‑owner; so she and the male Appellant purchased a vacant lot, on August 10, 2004, as equal co‑owners. She explained that she had made the purchase with the intention of building her principal residence on the lot. However, the two Appellants were unable to come up with the deposit that a construction contractor required. They therefore sold the lot the following November 30.
+[15] On December 22, 2004, the Appellants purchased what was called a luxury property in Blainville, Quebec, as equal co‑owners, for $465,712. The Appellant made a downpayment from the sale of her house and the balance of the purchase price was covered by a hypothec, which the two parties took on equally, with monthly payments of $1,000 each. The property is located in a neighbourhood chosen by the female Appellant, an area she described as a good place to bring up her children and a good place to invest in real estate.
+[16] On December 24, 2004, the parties signed an agreement regarding their respective co‑ownership of the home. Among other things, the agreement recognizes the female Appellant’s investment and her right to get it back if the property is sold. It provides that each of them will contribute equally to maintaining and repairing the property and that, upon the death or withdrawal of either party, the remainder of the hypothecary loan, which they have taken out jointly, will be assumed by the other party in full; this does not include the downpayment, which the agreement provides will go to her children upon the female Appellant’s death.
+[17] The house has two storeys, with four bedrooms and two full bathrooms. The female Appellant testified that the male Appellant and her two children each have a bedroom, and she has her own. The male Appellant uses one bathroom and she and the children use the other.
+[18] The Appellant testified that in their day-to-day life, she does not shop for the male Appellant and does not prepare meals for him. She pays her own insurance expenses; she has designated her father as beneficiary of her life insurance; she has her own bank accounts; she took out her own loan to buy the land; and the Appellants do not give each other gifts. She drives the children to their father’s home herself, and brings them back home. When the children are with their father, she goes out alone or with her friends, or looks after her father. The Appellant acknowledged that the male Appellant occasionally picks up the children and brings them home. She spends her summer vacation with her children and her father. Her children look upon the male Appellant as their mother’s friend.
+[19] At the time of the audit, the Appellant signed a solemn declaration, on February 12, 2007, stating that each of the Appellants carries on his/her own separate activities. The declaration states that the Appellants have separate bank accounts; that they have their own credit cards; that they have their own cars and car insurance; that they have their own group insurance; that they are not married and have no children; that they live separately; that they are not cohabiting; that she does not provide Mr. Leblanc with food, clothing or laundry and he does not provide for her children in any way; that they each have their own activities and neither has to account for what they do to the other; and that they do not buy each other gifts. The Appellant spends all her time with her children.
+[20] The documents introduced by the Appellant include five school enrolment forms for her children. The forms for the 2002 and 2003 school years show that in case of emergency the Appellant is to be contacted; the same is true for 2007 and for one of the two forms for the 2005-2006 school year. However, the other form identifies the male Appellant as a person to be contacted in case of emergency, and under the heading for relationship to the child, the female Appellant wrote “spouse”. She explained that this was an error that had occurred only once. Obviously the error to which she referred was the use of the word “spouse”, although in that case it was used incorrectly to describe the male Appellant’s relationship to the child.
+[21] The Appellant testified that she was the one who proposed to the male Appellant that they buy the land together. He acknowledged that it was the female Appellant who had expressed a desire to move to Blainville and that it was she who had negotiated everything. Because they could not provide the deposit required by the contractor, they sold the land and bought the home where they both now live. He said he made that purchase because it was a good investment.
+[22] He confirmed the the female Appellant’s description of the arrangement regarding the occupation of the four bedrooms and the fact that they each handle their own affairs. He does not look after the Appellant’s children, he does his own shopping and laundry, and he does not have to account to the Appellant nor she to him. He entered insurance documents into evidence as well as his credit card statements and other documents showing that in June and July 2002 his address was at his apartment and not the Appellant’s address. His drug insurance provides individual protection. He has had his own bank account since May 1991 and he is the only insured driver for his vehicle. He testified that he had kept the Appellant’s address during the period when he went to live with his parents because he wanted to avoid having to submit more changes of address.
+[23] On the question of the female Appellant’s children’s school enrolment form, where his name was entered as the person to be contacted in case of emergency, he said he was not aware that his name had been put down as spouse; according to him, it was a mistake. He said he had informed the auditor of the existence of the agreement made on December 24, 2004, but admitted that he did not produce the document at the time of the audit. When questioned about his reason for buying the land, he said that his intention had been to invest, while the female Appellant said that she had wanted to build a home on it. The male Appellant hesitated for a long time before acknowledging that discrepancy.
+[24] The Canada Revenue Agency auditor testified that she had not seen or received the agreement of December 24, 2004 before it was introduced at the hearing, that being the agreement dealing with the arrangements made by the Appellants regarding their respective rights as co‑owners of their home. At an interview with the male Appellant, she had asked him whether he was in possession of any document that could shed any light on the question of his civil status vis‑à‑vis the female Appellant and whether there had been any agreement made by them relating to the male Appellant’s contribution when they bought the house. He did not produce any documents relating to those questions. The auditor also testified that at the initial interview, Mr. Leblanc told her that he shared the shopping with the female Appellant, they went out together, they went to restaurants together and they took their vacations together. She said that Mr. Leblanc also told her that he no longer intended to sell the property. This led the auditor to infer that the Appellants were living as a couple.
+[25] The expression “common-law partner” is defined in subsection 248(1) of the Income Tax Act as follows:
+“common-law partner”, with respect to a taxpayer at any time, means a person who cohabits at that time in a conjugal relationship with the taxpayer and
+(a) has so cohabited with the taxpayer for a continuous period of at least one year, or
+(b) would be the parent of a child of whom the taxpayer is a parent, if this Act were read without reference to paragraphs 252(1)(c) and (e) and subparagraph 252(2)(a)(iii),
+. . .
+[26] There have been a number of decisions dealing with the issue of whether two people were “common-law partners” for the purpose of determining whether they were living separately under the same roof or were cohabiting. In Benson v. The Queen, No. 202-436(IT)I, Mr. Justice O’Connor of this Court adopted the criteria laid down in Molodowich v. Penttinen (1980), 17 R.F.L. (2d) 376 and adopted in Kelner v. Canada, No. 94-868(IT)I, [1995] T.C.J. No. 1130, Rangwala v. Canada, No. 2000-993(IT)I, [2000] T.C.J. No. 624, and Roby v. Canada, No. 2001‑3029(IT)I, [2001] T.C.J. No. 801. Those criteria are as follows:
+1. Shelter:
+(a) Did the parties live under the same roof?
+(b) What were the sleeping arrangements?
+(c) Did anyone else occupy or share the available accommodation?
+2. Sexual and Personal Behaviour:
+(b) Did the parties have sexual relations? If not, why not?
+(c) Did they maintain an attitude of fidelity to each other?
+(d) What were their feelings toward each other?
+(e) Did they communicate on a personal level?
+(f) Did they eat their meals together?
+(g) What, if anything, did they do to assist each other with problems or during illness?
+(h) Did they buy gifts for each other on special occasions?
+Services:
+What was the conduct and habit of the parties in relation to:
+(a) preparation of meals;
+(b) washing and mending clothes;
+(c) shopping;
+(d) household maintenance; and
+(e) any other domestic services?
+4. Social:
+(a) Did they participate together or separately in neighbourhood and community activities?
+(b) What was the relationship and conduct of each of them toward members of their respective families and how did such families behave towards the parties?
+5. Societal:
+What was the attitude and conduct of the community toward each of them and as a couple?
+Support (economic):
+(a) What were the financial arrangements between the parties regarding the provision of or contribution toward the necessaries of life (food, clothing, shelter, recreation, etc.)?
+(b) What were the arrangements concerning the acquisition and ownership of property?
+(c) Was there any special financial arrangement between them which both agreed would be determinant of their overall relationship?
+Children:
+What was the attitude and conduct of the parties concerning the children?
+[27] In Rangwala, supra, the Court said that each of the criteria must be given its proper weight in the context of each particular case in determining whether a conjugal relationship exists or not.
+[28] In Roby, supra, Chief Judge Bowman had to determine whether two spouses were living separately, in order to decide whether the appellant was entitled to the Canada Child Tax Benefit and the equivalent-to-spouse credit. He wrote:
+[7] In Kelner v. R., [1996] 1 C.T.C. 2687, I reviewed the case law in this area and concluded that it was possible for spouses to live "separate and apart" even where they were living under the same roof. This is an unassailable proposition as a matter of law, but as a matter of fact in any given case the evidence should be convincing. Campbell J. in Rangwala v. R., [2000] 4 C.T.C. 2430, and Raghavan v. R., [2001] 3 C.T.C. 2218, reached the same conclusion.
+[8] As good a starting point as any is the decision of Holland J. in Cooper v. Cooper, (1972) 10 R.F.L. 184 (Ont.H.C.) where he said at p. 187:
+Can it be said that the parties in this case are living separate and apart? Certainly spouses living under the same roof may well in fact be living separate and apart from each other. The problem has often been considered in actions brought under s. 4(1)(e)(i) of the Divorce Act and, generally speaking, a finding that the parties were living separate and apart from each other has been made where the following circumstances were present:
+(i) Spouses occupying separate bedrooms.
+(ii) Absence of sexual relations.
+(iii) Little, if any, communication between spouses.
+(iv) Wife performing no domestic services for husband.
+(v) Eating meals separately.
+(vi) No social activities together.
+See Rushton v. Rushton (1968), 1 R.F.L. 215, 66 W.W.R. 764, 2 D.L.R. (3d) 25 (B.C.); Smith v. Smith (1970), 2 R.F.L. 214, 74 W.W.R. 462 (B.C.); Mayberry v. Mayberry, [1971] 2 O.R. 378, 2 R.F.L. 395, 18 D.L.R. (3d) 45 (C.A.).
+[9] Both Campbell J. and I took those criteria as useful guidelines, although they are by no means exhaustive and no single criterion is determinative. I tend to agree with what was said by Wilson J. in Macmillan-Dekker v. Dekker, August 4, 2000, docket 99-FA-8392, quoted by Campbell J. in Rangwala at pp. 2435-2436:
+Based on a synthesis of prior case law, the court established a list of seven factors to be used to determine whether or not a conjugal relationship exists or existed. These organising questions permit a trial judge to view the relationship as a whole in order to determine whether the parties lived together as spouses. Reference to these seven factors will prevent an inappropriate emphasis on one factor to the exclusion of others and ensure that all relevant factors are considered.
+…
+I conclude that there is no single, static model of a conjugal relationship, or of marriage. Rather, there are a cluster of factors which reflect the diversity of conjugal and marriage relationships that exist in modern Canadian society. Each case must be examined in light of its own unique objective facts.
+[10] Bearing in mind then that no single factor should predominate, and that it is the overall picture that must ultimately govern, can it be said that these spouses were living separate and apart because of the breakdown of their marriage?
+[29] As I have said in other decisions, I definitely recognize that it is possible for two unmarried people to live under the same roof without necessarily being common-law spouses, just as it is possible for former spouses to be “separated” while living under the same roof. As Bowman C.J. said, that is an unassailable proposition as a matter of law; as a matter of fact, however, the party who asserts it will always have to provide convincing evidence.
+[30] The Appellants therefore have the burden of proving, on a balance of probabilities, that they were not common-law spouses within the meaning of the Act during the base years in question. The female Appellant maintained that the male Appellant lives with her to protect her from her former spouse because she is afraid of him. She also maintained that her relationship with the male Appellant was purely a business relationship with respect to the purchase and sale of a piece of land and the subsequent purchase of the residence they co-own. Each of them looks after his/her own interests.
+[31] The male Appellant said that he was a single person and completely independent of the female Appellant. He reiterated that his involvement in the purchase of the home in Blainville was purely as an investment and that he can sell his share to anyone at any time.
+[32] Counsel for the Respondent pointed out a number of contradictions in the Appellants’ evidence and noted the implausibility of their account of their overall relationship.
+[33] Does the evidence in this case as a whole support the Appellants’ argument, on a balance of probabilities? I must answer that question by saying that in my opinion, the evidence provided by the Appellants is neither sufficient nor convincing.
+[34] The Appellant made much of her need for safety from her former spouse, to whom she had to deliver her children every second weekend. The male Appellant therefore did her a favour by being present on those occasions. She told us that the male Appellant had moved into her home gradually, but the evidence does not tell us why it was necessary for him to move in with her at all. Was it necessary from a security standpoint? There is no evidence that the former spouse might have burst into her home at any moment, or that he posed an ongoing danger. The danger the former spouse posed to the Appellant certainly could not have been imminent, as the male Appellant, owing to his family situation with his parents, postponed his move and did not end up moving into the female Appellant’s home until May 2003. The regular presence of the male Appellant does not seem to me to be as necessary as the female Appellant contends.
+[35] When the male Appellant finally moved in with the female Appellant, he invested his time and money in materials to renovate the basement. Those expenses were meant to replace rent paid to the female Appellant, except that the amount of the expenses was never agreed and the term of the agreement was never specified. In my opinion, it is difficult, given this situation, to argue that the relationship between the Appellants was merely a business relationship, in which the male Appellant was to play the role of bodyguard.
+[36] I also cannot ignore the variance of the parties’ positions on the subject of their co-purchase of the vacant lot. The female Appellant said that she bought it in order to build a home on it, while the male Appellant said that it was an investment and that he had had a potential resale in mind. His marked hesitation when this discrepancy was brought to his attention casts doubt on the credibility of his version of the facts. The land was indeed sold, but this was apparently because they were unable to finance the construction of a house.
+[37] It is surprising to see that the agreement the parties signed on December 24, 2004, regarding their respective rights as co‑owners of the home in Blainville, did not surface until the hearing, and that the Appellants did not see fit to produce it before then. It is also strange that this kind of agreement would have been signed two days after the purchase. An investment of this magnitude by two partners is ordinarily negotiated before the purchase. As well, it is apparent that the agreement protects only the downpayment made by the Appellants. In the event of the death or withdrawal of one of the co‑owners, the remaining portion of the hypothec would be assumed in full by the other, apart from the downpayment. What would happen to the equity they each held, and the appreciation in the value of the home, for example, in that situation?
+[38] The female Appellant wanted a home in a good neighbourhood for raising her children. The male Appellant, on the other hand, talked about an investment. How can we explain the existence of this kind of arrangement, when there are such discrepancies? In my opinion, there is something other than a mere business relationship here.
+[39] The female Appellant contended that when the male Appellant was referred to as “spouse” on her daughter’s school enrolment form, dated September 2, 2005, it was a mistake, and it was the only time out of 12 when the mistake was made. Certainly, the four other enrolment forms produced show the female Appellant as the contact person. However, I believe that while this was a mistake, the mistake was in respect of the description of the child’s relationship to the male Appellant.
+[40] The Appellants have therefore not succeeded in discharging their burden of proof. They have not persuaded me, on a balance of probabilities, that they are not common-law partners. However, I believe that this relationship did not begin until March 2003, when the male Appellant moved in with the female Appellant on a permanent basis. The overpayments will have to be recalculated based on that date. The appeals from the notices of determination and the assessments made under the Act for the 2003, 2004 and 2005 taxation years are allowed in part and the matter is referred back to the Minister of National Revenue for reconsideration, redetermination and reassessment in accordance with these reasons.
+Signed at Ottawa, Canada, this 29th day of January, 2008.
+“François Angers”
+Angers J.
+Translation certified true.
+Stefan Winfield, reviser
+CITATION: 2007TCC7
+COURT FILE NOS.: 2007-1931(IT) and 2007-1940(IT)I
+STYLES OF CAUSE : Mario Leblanc and Her Majesty the Queen
+Marie Thérèse Kateb and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: November 26, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: January 29, 2008
+APPEARANCES:
+For the Appellants:
+The Appellants personally
+Counsel for the Respondent:
+Ms. Christina Ham
+SOLICITOR OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

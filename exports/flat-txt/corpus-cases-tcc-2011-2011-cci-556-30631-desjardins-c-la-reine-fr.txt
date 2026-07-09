@@ -1,0 +1,139 @@
+Title: Desjardins c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30631/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-556-30631-desjardins-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-12-06
+
+# Desjardins c. La Reine
+
+- Citation: 2011 CCI 556
+- Decision date: 2011-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7125, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Desjardins c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-12-06
+Référence neutre
+2011 CCI 556
+Numéro de dossier
+2010-3844(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3844(IT)I
+ENTRE :
+DAWN DESJARDINS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 4 octobre 2011, à Edmonton (Alberta)
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Adam Gotfried
+JUGEMENT
+L’appel des déterminations faites en vertu de la Loi de l’impôt sur le revenu pour les années de base 2005, 2006 et 2007 est accueilli en partie, et l’affaire est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles déterminations en conformité avec les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2011.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 13e jour de janvier 2012.
+Marie-Christine Gervais
+Référence : 2011 CCI 556
+Date : 20111206
+Dossier : 2010-3844(IT)I
+ENTRE :
+DAWN DESJARDINS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. INTRODUCTION
+[1] Il s’agit d’un appel de la ratification des avis de détermination établis par le ministre du Revenu national (le « ministre ») relativement à la prestation fiscale canadienne pour enfants (« PFCE ») et au crédit pour taxe sur les produits et services (« CTPS ») pour les années de base 2005, 2006 et 2007.
+II. LE CONTEXTE FACTUEL
+[2] Dawn Desjardins (l’« appelante ») et Alain Simonot se sont séparés au début de l’automne 2004. Ils ont trois enfants. Au moment de la séparation, l’aînée commençait à fréquenter l’école à temps plein (première année), la cadette commençait à fréquenter la maternelle à temps partiel, et le benjamin n’était pas encore à l’école. Le benjamin a commencé à fréquenter l’école à temps plein en septembre 2007.
+[3] L’Agence du revenu du Canada (l’« ARC ») a déterminé initialement que l’appelante avait droit à la PFCE et au CTPS pour les années de base 2005, 2006 et 2007 relativement à ses trois enfants, et l’appelante a effectivement reçu la PFCE et le CTPS de juillet 2006 à octobre 2008.
+[4] En octobre 2008, M. Simonot a demandé la PFCE et le CTPS pour les années de base 2005, 2006 et 2007. Sa demande indiquait que, depuis le 1er décembre 2004, les enfants avaient vécu principalement avec lui et Dawn Desjardins en avait pris soin en moyenne cinq nuits par mois. L’ARC a admis la demande.
+[5] Le tableau ci-dessous indique les montants qui, selon la détermination de l’ARC, ont été payés en trop à l’appelante relativement à chacune des années en question.
+Année
+PFCE
+CTPS
+2005
+8 987,00 $
+476,00 $
+2006
+9 189,00 $
+581,04 $
+2007
+1 173,93 $
+124,00 $
+[6] Il convient de noter que, pour l’année de base 2007, il avait été initialement déterminé que l’appelante avait droit à 4 715,98 $ au titre de la PFCE et à 668,12 $ au titre du CTPS. Cependant, l’appelante a seulement obtenu 1 173,93 $ et 124,00 $ relativement à ces montants avant que les paiements cessent ou soient réduits en octobre 2008.
+III. LA QUESTION EN LITIGE
+[7] La question en litige en l’espèce est celle de savoir si l’appelante a droit à la PFCE et au CTPS pour les années de base 2005, 2006 et 2007. La réponse à cette question dépend quant à elle des questions de savoir avec lequel du père ou de la mère les enfants ont résidé au cours des années 2005 à 2007 et lequel du père ou de la mère a assumé principalement la responsabilité pour le soin et l’éducation des enfants au cours de cette période. Pour qu’un père ou une mère soit admissible à la PFCE, l’enfant doit résider avec ce parent et ce parent doit assumer principalement la responsabilité pour le soin et l’éducation de l’enfant. L’admissibilité au CTPS relativement à un enfant est conditionnelle à ce que l’enfant réside avec le parent.
+IV. LES THÈSES DES PARTIES
+La thèse de l’appelante
+[8] L’appelante soutient qu’en 2005 et en 2006, elle a été la personne principalement responsable pour le soin des enfants et ceux-ci ont vécu avec elle la majorité du temps. Après que l’appelante eut commencé à travailler à temps plein au milieu de 2007, la responsabilité pour le soin des enfants a été partagée à peu près également entre la mère et le père.
+La thèse de l’intimée
+[9] L’intimée soutient que M. Simonot a droit au CTPS et à la PFCE pour toute la période parce que, tout au long de cette période, les enfants ont vécu avec M. Simonot à peu près 80 % du temps.
+V. ANALYSE
+[10] L’appelante a témoigné pour son propre compte. Elle soutient qu’en 2005 et en 2006, les enfants ont résidé avec elle. Pendant une partie de 2007, les enfants ont résidé à peu près 50 % du temps chez leur père et 50 % du temps chez leur mère. Cela semble s’accorder avec la détermination initiale faite par l’ARC selon laquelle l’appelante avait droit à des paiements au titre de la PFCE et du CTPS.
+[11] L’appelante a expliqué que, lorsqu’elle s’était séparée de M. Simonot en août ou en septembre 2004, les enfants étaient venus vivre avec elle. Elle a affirmé qu’en 2005, elle travaillait à temps partiel dans une boîte de nuit et suivait des cours universitaires par correspondance. Deux des trois enfants ne fréquentaient pas l’école à temps plein, et ils passaient leurs journées avec l’appelante. L’appelante a affirmé qu’en 2005, les enfants passaient les jours de semaine chez elle, puis, du vendredi au dimanche, ils étaient avec M. Simonot.
+[12] L’appelante a affirmé que cette formule avait été maintenue en 2006, sauf qu’au milieu de l’année, l’appelante avait assumé des quarts de travail additionnels les soirs de semaine. Ces soirs-là, les enfants dormaient chez M. Simonot. Cependant, l’appelante a soutenu que les enfants avaient vécu la majorité du temps avec elle en 2006. Elle a changé de type d’emploi lorsque le benjamin a commencé à fréquenter la maternelle en septembre 2006, mais il s’agissait encore d’un emploi à temps partiel.
+[13] Lorsque le benjamin a commencé à fréquenter l’école à temps plein en septembre 2007, l’appelante a commencé à travailler à temps plein pour un organisme communautaire local. L’appelante allègue que c’est à partir de ce moment que les enfants ont commencé à partager leur temps de résidence à peu près également entre les deux parents. Le poste à temps plein obligeait l’appelante à demeurer en disponibilité une fin de semaine sur deux, mais lorsque cela était nécessaire, elle obtenait des congés durant la semaine pour compenser. L’appelante a affirmé que lorsque les enfants dormaient chez M. Simonot pendant la semaine parce que l’appelante était en disponibilité, ils étaient reconduits chez elle le lendemain matin pour l’école.
+[14] L’appelante a expliqué que, tout au long des trois années, elle s’était intéressée activement à la vie scolaire des enfants, par exemple en assistant à des rencontres parents-enseignants. Elle a également présenté une lettre de Mme Kaley Thompson, l’enseignante de deux des trois enfants pendant la période en question. La lettre indique que l’appelante a assisté à des rencontres parents-enseignants, qu’elle a participé à d’autres activités scolaires et qu’elle a communiqué avec l’enseignante au sujet de l’éducation des enfants. L’appelante allègue que M. Simonot a très rarement assisté à des rencontres parents-enseignants.
+[15] L’appelante a présenté des lettres d’un employeur, d’un locateur, d’un ancien collègue de travail et d’un ami, qui appuyaient de manière générale sa thèse.
+[16] L’appelante a présenté des documents d’assurance relatifs aux coûts de lunettes pour les enfants. Les documents donnent à penser que l’appelante a obtenu le remboursement de ces dépenses supportées en novembre 2007. Elle a affirmé que M. Simonot avait avancé l’argent nécessaire pour payer les lunettes et qu’elle l’avait ensuite repayé après que la société d’assurance l’eut remboursée. L’appelante a également produit un reçu daté du 5 septembre 2007 relatif au paiement d’une carte d’autobus de 150 $ pour la fille aînée, de même que des copies de huit reçus relatifs à des paiements mensuels des frais de garderie du benjamin. Les reçus de frais de garderie sont datés de septembre 2005 à avril 2006.
+[17] J’ai trouvé que l’appelante était un témoin crédible.
+[18] M. Simonot a affirmé qu’à partir de décembre 2004, les enfants avaient résidé surtout à sa résidence. Lorsqu’il lui a été demandé d’indiquer des pourcentages, il a répondu que, [traduction] « [s]elon un scénario idéal », les enfants étaient avec lui 80 % du temps, et qu’ils passaient souvent encore plus de temps que cela avec lui. C’est ce qui ressort de la demande de PFCE et de CTPS d’octobre 2008 de M. Simonot, dans laquelle celui-ci affirmait que l’appelante assumait la responsabilité pour le soin des enfants seulement cinq nuits par mois en moyenne.
+[19] Pendant une bonne part de la période en question, M. Simonot a travaillé à son compte comme copropriétaire d’une franchise Great Canadian Dollar Store. Il a affirmé qu’il amenait souvent les enfants à son commerce après l’école de manière à pouvoir terminer les tâches qu’il devait y accomplir. Étant donné qu’il était propriétaire de sa propre entreprise, il lui était plus facile d’adapter son horaire de travail en fonction des besoins des enfants, comme lorsqu’il fallait aller les chercher après l’école. Cela expliquait pourquoi les enfants avaient passé tant de temps avec lui plutôt qu’avec l’appelante. Cependant, M. Simonot ne m’a pas convaincu que tel ait effectivement été le cas. Si cela se trouve, le démarrage d’une nouvelle entreprise et les difficultés financières avec lesquelles M. Simonot a dû composer lui ont probablement laissé moins de temps pour les enfants que n’en avait son épouse, qui travaillait alors à temps partiel.
+[20] La Couronne a produit une photocopie d’un cahier scolaire appartenant à la cadette. Le cahier est un calendrier de l’année scolaire 2007-2008. Les parents étaient censés le parapher chaque jour. La Couronne a fait examiner quelques pages du cahier par M. Simonot; celui-ci a confirmé que la majorité des initiales sur les pages présentées étaient les siennes. La force probante de ce document est discutable, étant donné que le document ne comprend pas les fins de semaine, et, dans tous les cas, il ne vise qu’une période de quatre mois (septembre 2007 à décembre 2007) sur toute la période de trois ans dont il est question en l’espèce. L’appelante a affirmé qu’au cours de cette période de quatre mois, le père et la mère s’étaient partagé à peu près à parts égales les responsabilités pour l’hébergement et le soin des enfants.
+[21] La Couronne a produit en preuve des lettres qui appuyaient de manière générale la thèse de M. Simonot, l’une étant une lettre d’un couple demeurant dans le voisinage et l’autre, d’un ancien employé. La Couronne a également produit en preuve une ordonnance provisoire sur consentement datée du 2 septembre 2008 reflétant une entente conclue entre le père et la mère. Le paragraphe 5 de cette ordonnance énonce que M. Simonot aura les enfants les jours de semaine ainsi que la deuxième fin de semaine de chaque mois. M. Simonot a affirmé que ces conditions correspondaient au statu quo des années en cause dans le présent appel. Cependant, il convient de noter que l’ordonnance a été prononcée vers l’époque où l’appelante a déménagé de Camrose, en septembre 2008. Il se peut tout aussi bien que l’ordonnance ait été prononcée pour éviter que les vies des enfants ne soient perturbées à la suite du déménagement de leur mère.
+[22] Le témoignage de M. Simonot a révélé plusieurs contradictions. Lorsqu’il a été interrogé pour la première fois sur le sujet, M. Simonot a soutenu que, lorsque l’appelante avait déménagé à quelques maisons de la sienne, les enfants n’avaient pas passé beaucoup de temps avec l’appelante. Lorsqu’il a été contre-interrogé par l’appelante, M. Simonot a contredit ce témoignage en convenant qu’à l’époque où la cadette et le benjamin ne fréquentaient pas encore l’école à temps plein, ils passaient leurs journées à la résidence de l’appelante. Le benjamin n’a commencé à fréquenter l’école à temps plein qu’en septembre 2007.
+[23] L’appelante a produit en preuve une lettre rédigée par M. Simonot datée du 16 août 2007 et envoyée à l’ARC. Cette lettre énonçait que M. Simonot et son ex‑épouse se partageaient la garde de Leah Simonot (la cadette) et que celle-ci résidait chez le père et chez la mère.
+[24] Lorsque j’ai montré la lettre à M. Simonot et que je l’ai interrogé à son sujet, il a mentionné que la garde partagée s’entendait simplement d’un partage de l’autorité parentale à l’égard de l’enfant. Cependant, la lettre énonce clairement que l’enfant réside chez le père et chez la mère, un point que M. Simonot n’a pas commenté. En fait, durant son interrogatoire principal, M. Simonot a contredit l’affirmation faite dans la lettre en affirmant que les enfants vivaient rarement chez leur mère.
+[25] Enfin, M. Simonot a affirmé que l’appelante avait vécu sur la même rue que lui pendant [traduction] « une brève période ». Interrogé sur ce point, M. Simonot a dit que cette période avait été comprise entre décembre 2004 et environ un an avant que l’appelante déménage de Camrose. Cela représente une période allant de décembre 2004 jusqu’aux environs de septembre 2007, ou environ deux ans et neuf mois. En fait, d’après la lettre que l’appelante a produite et qui provient d’un gestionnaire de logements travaillant pour le compte de The Bethany Group, il semble que cette période a duré jusqu’en janvier 2007, soit un peu plus de deux années. Même là, étant donné que la période en cause en l’espèce est de trois ans, il paraît surprenant que deux années puissent être considérées comme [traduction] « une brève période ». La réponse me porte à croire que M. Simonot a délibérément été évasif et a cherché à présenter les éléments de preuve de manière tendancieuse en sa faveur.
+[26] En dernière analyse, l’issue de la présente affaire tient à une question de crédibilité. Les comptes rendus du père et de la mère sont mutuellement exclusifs. La Cour doit décider lequel des deux parents est plus crédible. Le témoignage évasif de M. Simonot et les contradictions dans sa déposition tendent à affaiblir la crédibilité de sa version des faits. Par conséquent, selon la prépondérance des probabilités, j’estime que la version de l’appelante est exacte; les enfants ont résidé chez elle la majorité du temps tout au long des années 2005 et 2006, puis, lorsque l’appelante a commencé à travailler à temps plein au milieu de 2007, le père et la mère se sont partagé à peu près à parts égales les responsabilités pour l’hébergement et le soin des enfants.
+V. CONCLUSION
+[27] Compte tenu de ces conclusions, l’appel sera accueilli et les déterminations seront renvoyées au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles déterminations compte tenu du fait que l’appelante a droit à la PFCE pour la période de juillet 2006 à février 2008 relativement à ses trois enfants ainsi qu’au CTPS pour la même période.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2011.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 13e jour de janvier 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2011 CCI 556
+NO DU DOSSIER DE LA COUR : 2010-3844(IT)I
+INTITULÉ : DAWN DESJARDINS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 4 octobre 2011
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 6 décembre 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Adam Gotfried
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

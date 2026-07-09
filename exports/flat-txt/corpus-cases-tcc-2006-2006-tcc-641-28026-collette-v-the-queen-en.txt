@@ -1,0 +1,144 @@
+Title: Collette v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28026/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-641-28026-collette-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-11-22
+
+# Collette v. The Queen
+
+- Citation: 2006 TCC 641
+- Decision date: 2006-11-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1612, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Collette v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-22
+Neutral citation
+2006 TCC 641
+File numbers
+2005-4096(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-4096(IT)I
+BETWEEN:
+JANICE COLLETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 31, 2006 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Agent for the Appellant:
+James G. Kelly
+Counsel for the Respondent:
+Josh Hunter
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the deduction of telephone expenses in the amount of $1,411.31 is to be allowed and the computer expenses in the amount of $1,650.72 are to be disallowed. The whole in accordance with the attached Reasons for Judgment. There shall be no costs.
+Signed at Ottawa, Canada, this 22nd day of November, 2006.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2006TCC641
+Date: 20061122
+Docket: 2005-4096(IT)I
+BETWEEN:
+JANICE COLLETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] This appeal originally concerned a disallowance in the 2003 taxation year of certain telephone expenses totalling $1,411.31 and a disallowance of a computer expense to be discussed in greater detail later. At the outset of the hearing, counsel for the Respondent advised that the Minister of National Revenue (the "Minister") and the Appellant were in agreement that the deduction of the telephone expenses was to be allowed.
+[2] The only remaining issue therefore was the computer expense. It totalled $1,650.72 representing 12 monthly payments of $137.56 each paid in 2003. The total cost for the computer and its accessories was $4,952.16 made up of a "Cash Selling Price (including taxes)" of $3,202.70 plus a "Total Cost of Borrowing (credit charges)" of $1,749.46. The said total amount of $4,952.16 was payable by 36 equal monthly instalments of $137.56, twelve of which totalling $1,650.72 were paid in 2003.
+[3] In 2003 the Appellant was in receipt of gross employment income of $104,091.00 including commission income in the amount of $20,000.00. She met all of the conditions required for the deduction of expenses as contemplated in paragraph 8(1)(f) of the Income Tax Act and the only issue therefore became whether the Contract entered into by the Appellant with Future Shop for the acquisition of the computer and its accessories was a conditional sale as contemplated by the Minister, in which case the expense claimed in 2003 of $1,650.72 was properly disallowed or whether the contract constituted a lease as contended by the Appellant, in which case, according to the Appellant the expense should have been allowed subject to an alternative argument of the Minister that in a lease situation the total expense would have to be reduced by an amount representing the "Credit Charges". The said Contract is dated January 26, 2001 and is hereinafter referred to as (the "Future Shop Contract").
+[4] Testimony was given by the Appellant and by her Agent James G. Kelly, a chartered accountant ("Agent").
+[5] The Future Shop Contract was filed as Exhibit A-1. Filed as Exhibit A-2 was a document indicating an assignment by Future Shop of the Future Shop Contract (or possibly the computer) to Metro Leaseline Ltd. Also filed by the Agent as Exhibit A-3 was a form of sample lease used by Dell Financial Services Canada ("Dell").
+[6] The Appellant's testimony was to the effect that her intention was that she was entering into a lease and thought she had. The Agent contended that the Dell lease was substantially similar to the Future Shop Contract, many of the clauses in the contracts being more or less interchangeable. He argued that the Future Shop Contract in substance was a lease even though it is not referred to as a lease. He stated further that the useful life of computers is very short and that when one totals all the lease payments made over the three year term the computer has in fact actually been paid for and title is contemplated as being transferred by Future Shop to the Appellant at the end of the lease upon payment of a token amount. The Agent argues further that the fact that Future Shop assigned the contract to Metro Leaseline Ltd. lends credence to the Appellant's testimony that she thought she was entering into a lease. The Agent also points to the many similar clauses in both the Dell contract and the Future Shop Contract and argues that this is a further indication that what was really entered into was a lease.
+[7] The Agent submitted other authorities and definitions and submitted that these further supported his position that what in fact was entered into was a lease.
+[8] Counsel for the Respondent contends that what was entered into is a conditional sale. The Future Shop Contract is entitled "Purchase Money Security Interest Contract (BC)". In it the parties are referred to as "vendor" or "seller" and "buyer" or "purchaser". The Appellant is clearly referred to under the heading "Name of Purchaser" and Future Shop is clearly shown under the heading "Seller". Further on the front page of the Future Shop Contract the computer and its accessories are referred to as "Description of Goods Sold".
+[9] The breakdown of the obligations of the Purchaser are indicated by the following:
+"ADDITIONAL CHARGES ON DEFAULT
+1. You agree to pay a delinquency charge of 5 cents per each full $1.00 of that portion of any instalment thereof not paid on the date due or within 5 days thereafter:
+2. In the vent payment is by cheque, and such cheque is returned dishonoured, you agree to pay a penalty of $20.00.
+3. You agree to pay interest at the rate of 3.0% per month (36% per annum) after maturity on any unpaid balance which remains. On default, this contract will be deemed to have matured.
+You promise to pay to us the Balance Owing in 36 equal monthly instalments of $137.56 each, and one final payment of $ 1, all payable on the same day of each month. Your first instalment is due Feb. 25, 2001 (or one month from the date of this contract if not otherwise specified)."
+[10] In Mitsui & Co. (Canada) Ltd. v. Royal Bank of Canada, [1995] 2 S.C.R. 187, the Supreme Court of Canada had to determine whether a particular contract was a true conditional sale, a lease which would constitute a disguised conditional sale or a true lease where the payments are made strictly for the use of the goods rather than being instalment payments towards eventual purchase of the goods.
+[11] In Mitsui (supra) the Supreme Court was referring to Nova Scotia legislation which is similar to the applicable Ontario legislation. The Court had this to say:
+II. Legislation
+Conditional Sales Act
+2(1) In this Act,
+...
+(b) "conditional sale" means
+i) any contract for the sale of goods under which possession is or is to be delivered to the buyer and the property in the goods is to vest in him at a subsequent time upon payment of the whole or part of the price or the performance of any other condition, or
+(ii) any contract for the hiring of goods by which it is agreed that the hirer shall become, or have the option of becoming, the owner of the goods upon full compliance with the terms of the contract;
+III. Judgments
+Supreme Court of Nova Scotia
+6 The chambers judge held that the leases gave Pegasus the option of becoming the owner of the helicopters at the expiration of the lease term. The terms of clause 32 gave the lessee the unilateral right to compel the lessor to sell, and hence gave the lessee the option of becoming the owner. He declared the two leases were conditional sales contracts within the meaning of both the Conditional Sales Act and the Instalment Payment Contracts Act, and dismissed the respondent's application.
+Nova Scotia Court of Appeal
+Freeman J.A. for the majority
+7 Freeman J.A. held that upon fulfilling all of the obligations under the leases, it was not intended that Pegasus become the owner of the helicopters automatically or for nominal consideration. The respondent remained the owner of the helicopters throughout. Pegasus simply had the right to require the respondent to establish a reasonable fair market value at which it was prepared to sell the helicopters. Pegasus was at liberty to reject that price. There was no mechanism for determining a price binding on both parties. He held that the overriding intention of the parties was to create a lease and not a contract of conditional sale. Clause 32 created a right of pre-emption which was not the kind of arrangement that the legislature intended to be covered by s. 2(1)(b)(ii) of the Act. The respondent was entitled to the helicopters free of any claims of the appellants.
+Jones J.A. (dissenting)
+8 Jones J.A. held that s. 2(1)(b)(ii) of the Act applied to leases containing an option to purchase. The leases contained an option to purchase because clause 32 gave the lessee the unilateral right to compel the lessor to sell. It was open to the parties to set the terms by which the price would be fixed, and the courts would enforce the "fair market value" provision contained in clause 32.
+IV. Issue
+1. Whether the leases are conditional sales agreements as that term is defined in s. 2(1)(b)(ii) of the Conditional Sales Act.
+V. Analysis
+Introduction
+9 This appeal raises the interpretation of s. 2(1)(b)(ii) of the Conditional Sales Act, which defines a "conditional sale" for the purposes of the Act. Whether the leases fall within the scope of that definition is the issue in dispute. If the leases are conditional sale agreements under the definition in the Act, then the respondent loses its priority because of its failure to register. Conversely if the leases are leases only then the respondent is entitled to possession and priority. Two questions arise: does a lease with an option to purchase at fair market value fall within the ambit of s. 2(1)(b)(ii) the Act; and is clause 32 a true option?
+The Conditional Sales Act
+10 A conditional sale agreement is a contract where the parties agree that while the purchaser takes possession, the title will not pass until the purchase price has been paid. In order to protect its title, the vendor must register the conditional sale agreement in a public registry within the prescribed time.
+11 In Canada, the Conference of Commissioners on Uniformity of Legislation adopted a uniform Conditional Sales Act in 1922. Nova Scotia adopted this Act in 1930. The registration requirements in the Act were intended to protect third parties from being "misled into dealing with the goods or ... extend[ing] credit to the conditional buyer on the strength of his ostensible ownership, by requiring registration of the agreement" (Jacob S. Ziegel, "Uniformity of Legislation in Canada: The Conditional Sales Experience" (1961), 39 Can. Bar Rev. 165, at p. 207). The effect of the Act was that unregistered agreements which reserved title in the vendor were void against subsequent purchasers, mortgagees and certain creditors (G.V. La Forest, "Filing under the Conditional Sales Act: Is It Notice to Subsequent Purchasers?" (1958), 36 Can. Bar Rev. 387, at p. 396).
+12 The Act by its terms is applicable to leases which contain an option to purchase. This is different from the more modern Personal Property Security legislation currently enacted in many of the provinces. That legislation is based on Article 9 of the American Uniform Commercial Code, and deals with concepts such as "security interest" and "security agreement" which are foreign to the Conditional Sales Act. The issue of whether a lease is intended by way of security or whether it is in substance a security agreement arises under Personal Property Security legislation. Cases decided under Personal Property Security legislation have no application to the case at bar as this appeal turns on the provisions of the somewhat antiquated Conditional Sales Act.
+The Scope of the Conditional Sales Act
+13 There are three types of agreements which fall within the scope of s. 2(1)(b) of the Act. The first are "true" conditional sales agreements, where the purchaser agrees to pay the vendor instalments over a period of time, and the vendor retains title until all such payments have been made. It is clear from the outset that unless the purchaser defaults, title will be transferred to the purchaser at the end of the term.
+14 The second type of agreement covered by the Act is a lease-option agreement, where the option is for nominal consideration; it is plain from the terms of the lease that the option will be exercised, and that the "lease" payments are in reality going to pay for the goods. When this type of lease-option agreement is initially executed, the parties intend that the goods will be transferred to the "lessee". These agreements have been referred to as disguised conditional sales agreements and fall within the scope of the Act.
+15 It appears that the inclusion of the lease-option agreement within s. 2(1)(b)(ii) was an express attempt by the Commissioners drafting the Uniform Conditional Sales Act to ensure that disguised conditional sales contracts were covered by the Act. The Commissioners, in drafting the Uniform Act, intended to reverse the effect of earlier decisions such as Mason v. Lindsay (1902), 4 O.L.R. 365 (Div. Ct.), which held that the Act could not apply to a lease where the lessee merely had the option of becoming the owner, but where he was not legally obliged to do so, even though the parties may well have intended that the "lessee" become the eventual owner at the end of the "lease". The broad definition of "conditional sale" in s. 2(1)(b)(ii) of the Act ensures that parties cannot avoid the registration requirements simply by changing the form of the conditional sales contract to look like a lease.
+16 The third type of agreement covered by the Act is a "true" lease-option agreement. This type of agreement is not a disguised conditional sales contract. The rental payments are made strictly for the use of the goods rather than being instalment payments towards the eventual purchase of the leased goods. The option amount at the end of the lease is for fair market value, and not for some nominal sum.
+17 The leases in the present case fall within the third category, which the majority in the Court of Appeal held did not fall within the scope of the Act.
+[12] In Horbay v. R., [2003] 2 C.T.C. 2248, Beaubier J. had to make a distinction not unlike the situation in this appeal. He stated as follows:
+5 In the Court's view, the question, in part, is whether the mortgage interest can be regarded as "office rent" under paragraph 8(1)(ii). The appellant argued that, from a practical point of view, it amounts to the same thing in her case.
+6 Unfortunately subsection 8(1), as restricted by subsection 8(2), does not permit the analogous treatment of interest payments for which the Appellant argues for employees. This is unfortunate in this day when working from the home has become commonplace and is often required by an employer in order to save office overhead expenses. It may be another case where the Act has not kept place with the evolution of the workplace.
+7 The Court accepts the interpretation adopted by McNair, J. of the Federal Court in The Queen v. Thompson, 89 D.T.C. 5439 in which the appeal was on an identical basis. McNair, J. referred to the judgment of Rip, T.C.J. in Felton v. M.N.R., 89 D.T.C. 233 (T.C.C.) and stated at pages 5443 and 5444:
+The strict ratio of the case is contained in the following passage from the judgment of Rip T.C.J. at pp. 234-45:
+The words "rent" and "loyer" in subparagraph 8(1)(i)(ii) contemplate a payment by a lessee or tenant to a lessor or landlord who owns the office property in return for the exclusive possession of the office, the property leased by the latter to the former.
+The payments by Mr. Felton to a money-lender of interest on money borrowed, to a utility supplier for the utility, to maintenance personnel for maintenance, to an insurer for insurance and to a municipality in respect of taxes are not payments of rent by a lessee to a lessor. None of these payments by Mr. Felton was for the use or occupancy or possession of property owned by another person.
+[13] In my opinion the submissions of counsel for the Respondent are correct. The Future Shop Contract is a conditional sale which contemplates title passing when all of the payments have been made including the nominal payment at the end of the three years.
+[14] It would be a considerable stretch to say that just because the Dell contract is a lease and has certain similarities, that therefore the Future Shop Contract must be considered a lease even though it is called a sale.
+[15] One must interpret a contract in accordance with its terms and an intention contrary to the actual terms of the contract can not change the nature of the contract. This is especially true when the very contract contains the following caveat "Purchaser should read the attached terms and conditions carefully".
+[16] In conclusion, the contract is a conditional sale.
+[17] Therefore the appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the deduction of telephone expenses in the amount of $1,411.31 is to be allowed and the computer expenses in the amount of $1,650.72 are to be disallowed in accordance with these Reasons for Judgment. There shall be no costs.
+Signed at Ottawa, Canada, this 22nd day of November, 2006.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2006TCC641
+COURT FILE NO.: 2005-4096(IT)I
+STYLE OF CAUSE: JANICE COLLETTE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 31, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: November 22, 2006
+APPEARANCES:
+Agent for the Appellant:
+James G. Kelly
+Counsel for the Respondent:
+Josh Hunter
+COUNSEL OF RECORD:
+For the :
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

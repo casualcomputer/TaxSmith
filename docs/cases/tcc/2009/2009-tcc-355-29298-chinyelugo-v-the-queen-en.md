@@ -1,0 +1,208 @@
+---
+title: "Chinyelugo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29298/index.do"
+last_modified: "2009-07-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 355"
+citation2: ""
+neutral_citation: "2009 TCC 355"
+decision_date: "2009-07-08"
+language: "en"
+item_id: "29298"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7099
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:08:41.452000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "27e5e92357dbcac4203b7da80a9177aea0c01fc57cb46289ab023bd8a0d5f909"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chinyelugo v. The Queen
+
+- Citation: 2009 TCC 355
+- Decision date: 2009-07-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7099, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chinyelugo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-08
+Neutral citation
+2009 TCC 355
+File numbers
+2008-3779(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3779(IT)I
+BETWEEN:
+IZUCHUKWU ERNEST CHINYELUGO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 25, 2009, at Lethbridge, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valerie Meier
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2002, 2003 and 2004 taxation years are allowed pursuant to the Reasons for Judgment. The appeal from the reassessment made under the Income Tax Act for 2005 taxation year is dismissed.
+Signed at Saskatoon, Saskatchewan, this 8th day of July 2009.
+“D.W. Beaubier”
+Beaubier D.J.
+Citation: 2009TCC355
+Date: 20090708
+Docket: 2008-3779(IT)I
+BETWEEN:
+IZUCHUKWU ERNEST CHINYELUGO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, D.J.
+[1] This appeal pursuant to the Informal Procedure was heard at Lethbridge, Alberta on June 25, 2009. The Appellant was the only witness.
+[2] At the opening of the hearing, Respondent’s counsel filed the following statement of concessions that were agreed to by the parties:
+Concessions by the Respondent Her Majesty the Queen in the matter of
+Izuchukwu Ernest Chinyelugo v. H.M.T.Q., 2008-3779(IT)I
+Conceded issues
+The Respondent agrees to a judgment allowing the appeal with respect to:
+a) the 2002 taxation year and vacating the Notice of Reassessment which was issued after the normal reassessment period for that year;
+b) the 2003 taxation year and referring the matter back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is not subject to gross negligence penalties pursuant to section 163(2) of the Income Tax Act for that year; and
+c) the 2004 taxation year and referring the matter back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant will be allowed to claim a gross, non-refundable tax credit relating to a charitable donation made by the Appellant to the Christian Children’s Fund of Canada in the amount of $406.00 (Note, this is a different charity than the charity to which the donations remain in dispute).
+Remaining issue
+The remaining issue is whether the Minister of National Revenue correctly disallowed the claimed credits relating to charitable donations allegedly made by the Appellant to the Christ Ascension Church of Canada:
+a) of $2,000 in the 2003 taxation year;
+b) of $3,000 in the 2004 taxation year; and
+c) of $4,000 in the 2005 taxation year.
+[3] The result is that the only matters in dispute are the claims by the Appellant for charitable deductions for this 2003, 2004 and 2005 taxation years as specified in the last paragraph of the Concession.
+[4] The remaining matters in dispute are included in paragraphs 10, 11, 12 and 13 of the Reply. They read:
+10. In determining the Appellant’s tax liability, for each of the 2002, 2003, 2004 and 2005 taxation years, the Minister relied on the following assumptions of fact:
+(a) the Appellant did not make any donations, either by cash (or cheque) or by gifts in kind, to any registered Charitable Foundations, at any time during the 2002, 2003, 2004 or 2005 taxation years, including the amounts claimed to CACC; and
+(b) The Appellant did not provide Official Charitable Donation receipts as defined in Regulations 3500 and 3501 of the Act, in respect of his alleged donations to any Charitable Foundations, for each of the 2002, 2003, 2004 and 2005 taxation years.
+11. In reassessing after the statute-barred period for the 2002 taxation year and in imposing penalties pursuant to subsection 163(2) of the Act, for each of 2002 and 2003 taxation years, the Minister relied on the following further facts:
+(a) both the Appellant and CACC could not provide any proof of payment by the Appellant of the amounts allegedly donated as indicated on the documents the Appellant is relying on to support his claims;
+(b) both the Appellant’s income and living expenses cannot support the amounts claimed to have been donated;
+(c) in claiming non-refundable tax credits, for the 2002 taxation year, in respect of Charitable Donations he did not make, the appellant made misrepresentations that were attributable to neglect or wilful default and the Appellant was aware, or alternatively, should have been aware that he was not entitled to the amounts claimed; and
+(d) in claiming non-refundable tax credits in respect of alleged charitable donations made in the 2002 and 2003 taxation years, the Appellant knowingly, or in the alternative, under circumstances amounting to gross negligence, in carrying out a duty or obligation imposed under the Act, made or participated in, assented to, or acquiesced in, the making of false statements or omissions in the income tax returns filed for the each of those taxation years, as a result of which the tax that would have been payable on the information provided in the Appellant’s income tax returns filed for the 2002 and 2003 taxation years, was less than the taxes in fact payable by the amounts of $276 and $554, respectively.
+B. OTHER MATERIAL FACTS
+12. CACC’s charitable registration number was revoked on August 4, 2007.
+C. ISSUES TO BE DECIDED
+13. The issues are whether:
+a) the Minister correctly disallowed the claimed gross non-refundable tax credits relating to alleged charitable donations made by the Appellant in each of the 2002, 2003, 2004 and 2005 taxation years, respectively;
+b) the Minister was entitled to reassess the Appellant after the normal reassessment period for the 2002 taxation; and
+c) the Minister properly imposed a penalty under subsection 163(2) of the Act in respect of the denial of the charitable donation non-refundable tax credits for the 2002 and 2003 taxation years.
+“CACC” is Christ Ascension Church of Canada, in this case located in Toronto, Ontario.
+[5] Assumptions 11(c) and 11(d) were withdrawn by the Concession. The Appellant provided receipts to CRA and the Court respecting assumption 11(a) which will be dealt with in detail. His testimony respecting 11(b) is that he has lived a very basic and frugal life in Canada while he supports relatives overseas. He also testified that he was persuaded by CACC representatives to make the alleged donations in question because that would assist him in establishing a good character so as to aid in his Canadian citizenship application. The Court believes him except respecting the alleged amounts of donations for which more proof is necessary. In cross-examination the Appellant admitted that his approximate net incomes for the years in question were:
+2005 $30,000
+2004 $17,000
+2003 $20,000
+[6] As a result, the Court is prepared to allow the appeal insofar as the Appellant can provide valid acceptable receipts for the alleged charitable donations. These must contain all of the information prescribed by Income Tax Act Regulation 3501 as stated in paragraph 118.1(2)(a) of the Income Tax Act. Regulation 3501 reads as follows:
+3501. (1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
+(a) the name and address in Canada of the organization as recorded with the Minister;
+(b) the registration number assigned by the Minister to the organization;
+(c) the serial number of the receipt;
+(d) the place or locality where the receipt was issued;
+(e) where the donation is a cash donation, the day on which or the year during which the donation was received;
+(e.1) where the donation is a gift of property other than cash
+(i) the day on which the donation was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the day on which the receipt was issued where that day differs from the day referred to in paragraph (e) or (e.1);
+(g) the name and address of the donor including, in the case of an individual, his first name and initial;
+(h) the amount that is
+(i) the amount of a cash donation, or
+(ii) where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made;
+(i) the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge donations; and
+(j) the name and Internet website of the Canada Revenue Agency.
+(1.1) Every official receipt issued by another recipient of a gift shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
+(a) the name and address of the other recipient of the gift;
+(b) the serial number of the receipt;
+(c) the place or locality where the receipt was issued;
+(d) where the donation is a cash donation, the day on which or the year during which the donation was received;
+(e) where the donation is a gift of property other than cash,
+(i) the day on which the donation was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the day on which the receipt was issued where that day differs from the day referred to in paragraph (d) or (e);
+(g) the name and address of the donor including, in the case of an individual, his first name and initial;
+(h) the amount that is
+(i) the amount of a cash donation, or
+(ii) where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made;
+(i) the signature, as provided in subsection (2) or (3.1), of a responsible individual who has been authorized by the other recipient of the gift to acknowledge donations; and
+(j) the name and Internet website of the Canada Revenue Agency.
+(2) Except as provided in subsection (3) or (3.1), every official receipt shall be signed personally by an individual referred to in paragraph (1)(i) or (1.1)(i).
+(3) Where all official receipt forms of a registered organization are
+(a) distinctively imprinted with the name, address in Canada and registration number of the organization,
+(b) serially numbered by a printing press or numbering machine, and
+(c) kept at the place referred to in subsection 230(2) of the Act until completed as an official receipt,
+the official receipts may bear a facsimile signature.
+(3.1) Where all official receipt forms of another recipient of the gift are
+(a) distinctively imprinted with the name and address of the other recipient of the gift,
+(b) serially numbered by a printing press or numbering machine, and
+(c) if applicable, kept at a place referred to in subsection 230(1) of the Act until completed as an official receipt,
+the official receipts may bear a facsimile signature.
+(4) An official receipt issued to replace an official receipt previously issued shall show clearly that it replaces the original receipt and, in addition to its own serial number, shall show the serial number of the receipt originally issued.
+(5) A spoiled official receipt form shall be marked “cancelled” and such form, together with the duplicate thereof, shall be retained by the registered organization or the other recipient of a gift as part of its records.
+(6) Every official receipt form on which
+(a) the day on which the donation was received,
+(b) the year during which the donation was received, or
+(c) the amount of the donation,
+was incorrectly or illegibly entered shall be regarded as spoiled.
+[7] For 2003 there is no receipt.
+[8] For 2004’s claim of $3,000 the Appellant filed Exhibit A-2, a purported receipt by CACC. But contrary to Regulation 3501 paragraph (d), it does not say where the receipt was issued from; contrary to (e), it does not say the year the alleged donation was received, and contrary to (f), it does not say the year or date the receipt was issued. Exhibit A-2 does not comply with Regulation 3501.
+[9] For 2005 the Appellant filed Exhibit A-3 as a receipt from CACC for an alleged donation of $4,000. Contrary to paragraph (f) of Regulation 3501, it does not contain the date (that is, the “day”) upon which it was issued, it merely states “Jan 20006”.
+[10] When one considers the millions of correct charitable receipts that legitimate charities issue every year, this succession of incorrect receipts by CACC has the appearance of being purposeful.
+[11] None of the receipts is acceptable. For this reason, the appeal is allowed for 2002, 2003 and 2004 only as to the matters conceded by the Concessions quoted in paragraph 2 of these Reasons. The appeal for 2005 is dismissed.
+Signed at Saskatoon, Saskatchewan, this 8th day of July 2009.
+“D.W. Beaubier”
+Beaubier D.J.
+CITATION: 2009TCC355
+COURT FILE NO.: 2008-3779(IT)I
+STYLE OF CAUSE: IZUCHUKWU ERNEST CHINYELUGO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Lethbridge, Alberta
+DATE OF HEARING: June 25, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: July 8, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valerie Meier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

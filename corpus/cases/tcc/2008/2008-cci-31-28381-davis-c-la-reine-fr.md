@@ -1,0 +1,342 @@
+---
+title: "Davis c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28381/index.do"
+last_modified: "2008-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 31"
+citation2: ""
+neutral_citation: "2008 CCI 31"
+decision_date: "2008-01-16"
+language: "fr"
+item_id: "28381"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1900
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:15:29.799000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c091e90263339cf12fd0c62cd06c270e1aa74ac2ae613552340cccf2a3d470fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Davis c. La Reine
+
+- Citation: 2008 CCI 31
+- Decision date: 2008-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1900, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-16
+Référence neutre
+2008 CCI 31
+Numéro de dossier
+2005-2287(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2005‑2287(IT)G, 2005‑2285(IT)G,
+2005‑2286(IT)G, 2005‑2288(IT)G,
+2005‑2289(IT)G, 2005‑2290(IT)G,
+2005‑2291(IT)G, 2005‑2292(IT)G,
+2005‑2294(IT)I, 2005‑2295(IT)I,
+2005‑2296(IT)I, 2005‑2297(IT)I,
+2005‑2298(IT)I, 2005‑2299(IT)I,
+2005‑2305(IT)I, 2005‑2306(IT)I,
+2005‑2307(IT)I, 2005‑2310(IT)I,
+2005‑2311(IT)I, 2005‑2312(IT)I,
+2005‑2313(IT)I.
+ENTRE :
+SCOTT DAVIS, KARL J. BEAGRIE,
+THOMAS A. CURTIS, RICHARD GRONVALL,
+AUSTIN L. HEARN, CLAUDE KENDALL,
+JOHN McELROY, DARCY S. RAMSAY,
+DARRELL WOLTER, GREGORY B. VENUS,
+DOUGLAS K. TOLCHARD, DAVE McCORMICK,
+BLAIN McCALLUM, COLIN MacPHERSON,
+DANIEL R. MacNEIL, KENNETH LESLIE,
+BILL G. JENKINS, DOUG HUNTER,
+ARTHUR L. HOLMWOOD, HAROLD FITZ,
+BRAD G. BOLES,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 20 septembre 2007, à Edmonton (Alberta).
+Devant : L’honorable juge L.M. Little
+Comparutions :
+Avocat des appelants :
+Me Gordon D. Beck
+Avocate de l’intimée :
+Me Margaret A. Irving
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 sont accueillis avec dépens, et les cotisations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation selon les motifs de jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 16e jour de janvier 2008.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 21e jour de février 2008.
+Aleksandra Koziorowska, LL.B.
+Référence : 2008CCI31
+Date : 20080116
+Dossiers : 2005‑2287(IT)G, 2005‑2285(IT)G,
+2005‑2286(IT)G, 2005‑2288(IT)G,
+2005‑2289(IT)G, 2005‑2290(IT)G,
+2005‑2291(IT)G, 2005‑2292(IT)G,
+2005‑2294(IT)I, 2005‑2295(IT)I,
+2005‑2296(IT)I, 2005‑2297(IT)I,
+2005‑2298(IT)I, 2005‑2299(IT)I,
+2005‑2305(IT)I, 2005‑2306(IT)I,
+2005‑2307(IT)I, 2005‑2310(IT)I,
+2005‑2311(IT)I, 2005‑2312(IT)I,
+2005‑2313(IT)I.
+ENTRE :
+SCOTT DAVIS, KARL J. BEAGRIE,
+THOMAS A. CURTIS, RICHARD GRONVALL,
+AUSTIN L. HEARN, CLAUDE KENDALL,
+JOHN McELROY, DARCY S. RAMSAY,
+DARRELL WOLTER, GREGORY B. VENUS,
+DOUGLAS K. TOLCHARD, DAVE McCORMICK,
+BLAIN McCALLUM, COLIN MacPHERSON,
+DANIEL R. MacNEIL, KENNETH LESLIE,
+BILL G. JENKINS, DOUG HUNTER,
+ARTHUR L. HOLMWOOD, HAROLD FITZ,
+BRAD G. BOLES,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Les faits
+[1] Les appels susmentionnés ont été entendus sur preuve commune, à Edmonton.
+[2] Canfish Services Inc. (« Canfish ») a été établie au printemps 1996 à l’instigation de Scott Davis, de Karl Beagrie et de Darcy Ramsay.
+[3] Canfish était une société qui s’occupait de fournir des services à l’industrie d’exploration pétrolière et gazière, en Alberta.
+[4] Au cours de l’année d’imposition 2000, les appelants étaient des employés de Canfish.
+[5] Au mois de mars 2000, les actionnaires de Canfish ont vendu leurs actions à un acquéreur sans lien de dépendance – NQL Drilling Tools Inc. (« NQL »), pour la somme de 16 500 000 $.
+[6] Canfish était une société privée sous contrôle canadien immédiatement avant la vente de ses actions à NQL.
+[7] Les parties conviennent que les actions de Canfish représentaient des « actions admissibles de petite entreprise » (ci‑après les « AAPE ») telle que cette expression est définie dans la Loi de l’impôt sur le revenu (la « Loi »).
+[8] Les appelants maintiennent qu’ils ont reçu des actions de NQL en tant que produit de la vente des actions de Canfish.
+[9] Par un avis de cotisation daté du 10 mai 2001, le ministre du Revenu national (le « ministre ») a établi une cotisation à l’égard de l’appelant (M. Davis) dans laquelle il a inclus dans le revenu de celui‑ci un gain en capital de 49 994 $ et a admis une déduction pour gain en capital de 33 329 $.
+[10] Le 31 décembre 2003, l’appelant, M. Davis, a fait l’objet d’une nouvelle cotisation de la part du ministre, qui a inclus dans son revenu un avantage reçu en vertu d’un emploi d’un montant de 49 994 $ conformément à l’alinéa 6(1)a) de la Loi, et a supprimé le gain en capital et la déduction pour gain en capital qui avaient été établis dans la cotisation initiale.
+[11] Le ministre a établi de nouvelles cotisations à l’égard de chacun des autres appelants en vue d’inclure dans son revenu un avantage reçu en vertu d’un emploi conformément à l’alinéa 6(1)a) de la Loi, et les gains en capital et la déduction pour gain en capital qu’ils avaient demandée ont été supprimés.
+B. Point litigieux
+[12] Il s’agit de savoir si chacun des appelants a touché une partie des 5 p. 100 du produit net tiré de la vente des actions de Canfish à titre d’avantage reçu en vertu d’un emploi au cours de l’année d’imposition 2000.
+C. Analyse et décision
+[13] La position prise par les appelants est qu’ils avaient chacun réalisé un gain en capital par suite de la vente d’actions admissibles de petite entreprise et que ce gain en capital pouvait être compensé en demandant une partie de l’exonération cumulative des gains en capital de 500 000 $ (si un appelant particulier pouvait s’en prévaloir) à valoir sur le gain en capital qu’ils avaient chacun reçu. Étant donné que le gain en capital a été réalisé au cours de l’année d’imposition 2000, le pourcentage du gain en capital imposable correspondait aux deux tiers du gain en capital et l’exonération cumulative des gains en capital à l’égard des gains tirés de la vente des AAPE était de 500 000 $.
+[14] L’avocat des appelants a affirmé que chacun des appelants était bénéficiaire d’une fiducie constituée par les dirigeants initiaux de Canfish – c’est‑à‑dire MM. Davis, Beagrie, Ramsay, ainsi que M. Kusumoto (un financier) et M. Mullen (un avocat) – selon laquelle 5 p. 100 des actions émises et en circulation de Canfish étaient mises de côté en tant que participation des employés. L’avocat des appelants a maintenu que lorsque les actions de Canfish ont été vendues à NQL, le produit que les appelants ont finalement reçu représentait des montants qui leur avaient été attribués par cette fiducie, lesquels constituaient toujours des gains en capital tirés de la vente des AAPE.
+[15] Selon la position prise par l’intimée, aucune fiducie en faveur des employés existants ou futurs de Canfish n’a été créée, et par conséquent, les montants que les appelants avaient chacun reçus devraient être traités comme une rémunération supplémentaire tirée d’un emploi qui était pleinement imposable entre leurs mains.
+[16] Subsidiairement, l’avocat des appelants a soutenu que, si la Cour conclut à l’inexistence d’une fiducie, l’article 7 de la Loi devrait s’appliquer dans les présents appels, en particulier le paragraphe 7(1.1), ainsi que l’alinéa 110(1)d.1), plutôt que l’alinéa 6(1)a) invoqué par l’intimée.
+[17] M. Davis a déclaré dans son témoignage que ses associés, MM. Beagrie et Ramsay, et lui‑même voulaient faire en sorte que les employés de Canfish bénéficient de la réussite de Canfish. MM. Davis, Beagrie et Ramsay ont donc mis de côté 5 p. 100 des actions de Canfish dans une fiducie (ci‑après appelée la « fiducie »).
+[18] Lorsque la vente des actions de Canfish en faveur de NQL a été conclue, NQL a versé à la fiducie un montant de 825 000 $ (5 p. 100 du prix de vente de 16 500 000 $).
+[19] Le montant de 825 000 $ a été distribué aux 21 appelants.
+[20] Chacun des appelants a traité le produit lui revenant comme un gain en capital admissible à l’exonération des gains en capital.
+[21] À l’appui de l’argument selon lequel une fiducie avait été établie au profit des employés de Canfish, l’avocat des appelants s’est reporté à une lettre datée du 15 mars 1996 que M. Davis avait envoyée à M. Mullen (leur avocat) (pièce A‑1). Selon la lettre, 6 p. 100 des actions de Canfish devaient être détenues pour le compte du [traduction] « personnel clé ». L’avocat des appelants a maintenu que cette déclaration de M. Davis prouve qu’on avait l’intention de conférer aux employés de Canfish une participation dans Canfish.
+[22] L’avocat des appelants a également renvoyé à la déclaration de fiducie datée du 1er juin 1996 (pièce A‑2).
+[23] La pièce A‑2 est rédigée en ces termes :
+[traduction]
+Déclaration de fiducie
+1. Nous, les soussignés, représentant tous les actionnaires de Canfish Services Inc. (« Canfish ») déclarons par les présentes que nous détenons 5 p. 100 des actions que nous possédons dans Canfish pour un groupe d’employés et pour le compte d’un groupe d’employés aux fins de la répartition au moment de la vente, le cas échéant, des actions de Canfish, selon les conditions de vente qui seront fixées à la seule discrétion des fiduciaires de la présente fiducie.
+2. Les soussignés désignent par les présentes Darcy Ramsay, Karl Beagrie et Scott Davis à titre de fiduciaires à l’égard de ces actions, ceux‑ci étant pleinement autorisés à gérer l’attribution, la distribution et les conditions de vente ainsi que la répartition des actions entre les employés de Canfish de la façon dont ils le jugeront approprié, à leur entière discrétion.
+3. La cession susmentionnée est irrévocable.
+4. Le présent acte peut être signé en plusieurs exemplaires.
+Le tout selon ce qui a été convenu et selon ce qui a été attesté le 1er juin 1996.
+[24] Il importe de noter que cette déclaration de fiducie prévoit que MM. Davis, Beagrie et Ramsay sont fiduciaires de la fiducie. En outre, la déclaration de fiducie énonce que les fiduciaires sont autorisés, entre autres choses, à décider de la répartition des actions détenues en fiducie entre les employés de Canfish.
+[25] M. Davis a témoigné que lorsque les actions de Canfish ont été vendues à NQL, il a rencontré MM. Beagrie et Ramsay et ils ont décidé de la façon dont les 5 p. 100 des actions seraient réparties entre les appelants.
+[26] L’avocat des appelants a déposé la pièce A‑9, qui est un résumé de la répartition qui a été effectuée par MM. Davis, Beagrie et Ramsay entre les divers employés de Canfish.
+[27] La pièce A‑9 est ainsi rédigée :
+Employé
+Nombre d’actions de Canfish
+Greg Allen
+30,5
+Ross Avery
+242
+Brad Boles
+242
+Reid Conrad
+30,5
+Tom Curtis
+363,5
+Rob Doyle
+30,5
+Harold Fitz
+182
+Rick Gronvall
+515
+Lee Hearn
+303
+Layne Holmwood
+106
+Doug Hunter
+91
+Bill Jenkins
+30,5
+Claude Kendall
+606
+Matt Jordan
+15
+Chris LaFleur
+30,5
+Ken Leslie
+72,5
+Troy Leslie
+48
+Joe Marshall
+30,5
+Blain McCallum
+30,5
+Dave McCormick
+151,5
+John McElroy
+606
+Colin MacPherson
+15
+Dan MacNeil
+60,5
+Ed Malm
+30,5
+Glenn Schultz
+30,5
+Dave Shubert
+30,5
+Kim Tolchard
+30,5
+Greg Venus
+91
+Hazel Yates
+30,5
+Darrell Wolter
+15
+Karl Beagrie
+303
+Darcy Ramsay
+303
+Scott Davis
+303
+Total
+5 000
+[28] L’avocat des appelants a déclaré que 5 p. 100 du produit de la vente des actions de Canfish a été versé à une entité appelée SKD Holdings Inc. Des chèques ont ensuite été émis en faveur des divers actionnaires conformément aux modalités de répartition indiquées dans la pièce A‑9.
+[29] M. Ken Mullen a présenté une déposition à titre de témoin et a confirmé le témoignage de M. Scott Davis.
+[30] Je dois maintenant examiner la preuve et la jurisprudence en vue de décider s’il existait une fiducie dans ce cas‑ci.
+[31] L’avocat des appelants a renvoyé à l’ouvrage intitulé The Law of Trusts in Canada, chapitre 5, du professeur Donovan Waters. Il a cité le passage suivant, qui se trouve à la page 107 :
+[traduction] Pour qu’une fiducie soit créée, trois caractéristiques essentielles doivent être présentes. Comme lord Langdale, M. R., l’a fait remarquer dans la décision Knight v. Knight, remarques que le juge Barker a adoptées dans la décision Renehan v. Malone et qui sont considérées comme fondamentales en common law au Canada, les termes employés par le prétendu constituant doivent être impératifs; deuxièmement, l’objet ou les biens cédés à la fiducie doivent être certains; troisièmement, il doit y avoir certitude quant à l’identité du bénéficiaire. Cela veut dire que le prétendu constituant, qu’il donne les biens sous la forme d’une fiducie ou qu’il transfère les biens en fiducie en échange d’une contrepartie, doit employer des termes qui montrent clairement qu’il veut que le bénéficiaire détienne les biens en fiducie. Il n’y a pas de fiducie si le bénéficiaire se voit conférer un droit absolu sur les biens; en pareil cas, le bénéficiaire a simplement une obligation morale quant à ce qu’il faut faire des biens. Deuxièmement, si de tels termes impératifs sont employés, il faut démontrer que le constituant a décrit si clairement les biens visés par la fiducie qu’il existe une certitude absolue à leur sujet. Troisièmement, le bénéficiaire de la fiducie doit également être clairement désigné. Il ne doit exister aucune incertitude au sujet de la question de savoir si une personne est en fait un bénéficiaire. En l’absence de l’une ou l’autre de ces trois caractéristiques, aucune fiducie n’est créée ou, autrement dit, la fiducie est nulle.
+I. Certitude concernant l’intention de créer une fiducie
+[32] L’avocat des appelants a renvoyé aux caractéristiques mentionnées par le professeur Waters, et il a dit :
+[traduction] En ce qui concerne la première caractéristique, la certitude concernant l’intention, cela veut tout simplement dire qu’il doit exister des éléments de preuve montrant que le constituant voulait faire profiter une autre personne d’un bien qui lui appartient.
+[33] L’avocat des appelants a encore une fois cité l’ouvrage du professeur Waters, à la page 108 :
+[traduction] Pour créer une fiducie, il n’est pas nécessaire d’employer des termes ou des expressions techniques.
+[34] L’avocat des appelants a fait remarquer que la preuve confirme l’existence d’une intention que les employés de Canfish se voient accorder un certain pourcentage des actions de Canfish. Selon l’avocat des appelants, il est satisfait à la condition relative à l’intention de détenir les actions pour le compte des employés de Canfish étant donné que la preuve a établi que chaque dirigeant a pris la position selon laquelle 5 p. 100 des actions étaient détenues en fiducie pour les employés existants ou pour les employés futurs.
+[35] L’avocat des appelants a également fait remarquer que la déclaration de fiducie constitue une autre preuve de l’intention de créer une fiducie (pièce A‑2).
+II. Les biens visés par la fiducie doivent être certains
+[36] L’avocat des appelants a dit que les biens visés par la fiducie étaient constitués de 5 p. 100 des actions émises et en circulation de Canfish.
+[37] L’avocat des appelants a également fait remarquer que le fait que le montant payé pour 5 p. 100 des actions de Canfish était transmis par l’entremise de SKD Holdings indique qu’il existait une certitude au sujet des biens, en ce qui concerne les employés de Canfish.
+III. Certitude concernant les bénéficiaires de la fiducie
+[38] L’avocat des appelants a dit qu’il faut considérer que la [traduction] « certitude concernant les bénéficiaires de la fiducie » s’entend de la certitude au sujet de la question de savoir qui est bénéficiaire de la fiducie.
+[39] Selon l’avocat des appelants, l’expression « bénéficiaires » de la fiducie s’entend soit des employés existants de Canfish ou peut inclure des anciens employés de Canfish.
+[40] L’avocat des appelants a affirmé [traduction] qu’« il suffit de désigner une classe ou une catégorie de personnes à titre de bénéficiaires, dans la mesure où il est possible de vérifier si une personne particulière fait partie de la classe en question » (transcription, page 49).
+[41] L’avocat des appelants a déclaré que, dans ce cas‑ci, il suffit que la fiducie ait été établie au profit des employés de Canfish, c’est‑à‑dire d’une classe identifiable.
+[42] L’avocat des appelants a admis que MM. Davis, Beagrie et Ramsay avaient examiné le cas de tous les employés de Canfish (ou des anciens employés) et n’en avaient choisi qu’un certain nombre, mais il a soutenu que cela ne change rien à la situation du point de vue du droit des fiducies.
+[43] L’avocate de l’intimée a déclaré que, selon la position prise par la Couronne, il n’y avait pas de fiducie valide.
+[44] L’avocate de l’intimée était d’accord avec l’avocat des appelants en ce qui concerne les trois « certitudes ». Toutefois, elle maintient que l’examen de la première clause de la déclaration de fiducie révèle que la description des bénéficiaires de la fiducie est trop vague pour satisfaire au critère de la certitude.
+[45] L’avocate de l’intimée a fait valoir que l’argent comptant et les actions de NQL ont été reçus par les employés de Canfish à cause de l’emploi que ceux‑ci exerçaient chez Canfish. Elle a dit que l’argent comptant et la valeur des actions de NQL étaient imposables à titre d’avantages visés par l’alinéa 6(1)a) de la Loi.
+A. La création d’une fiducie
+[46] Les deux parties conviennent que, pour qu’une fiducie soit établie, il doit y avoir trois certitudes.
+[47] L’avocate de l’intimée a soutenu que, pour qu’une fiducie soit effectivement créée, il existe une exigence additionnelle, à savoir la [traduction] « constitution de la fiducie » soit le transfert du titre afférent aux biens en faveur des fiduciaires. Selon l’avocate de l’intimée, en l’absence de ce transfert de biens, il y aurait simple déclaration de fiducie, mais aucune fiducie ne serait créée[1].
+[48] La certitude concernant l’intention de créer une fiducie ressort clairement de la pièce A‑1, qui établissait que, dès la création de Canfish, des actions devaient être détenues en fiducie pour les employés de la société. La signature d’une déclaration de fiducie en faveur des employés futurs de Canfish confirme en outre cette intention (pièce A‑2). Collectivement, ces documents et les témoignages de M. Davis et de M. Mullen étayent la certitude que les fondateurs de Canfish voulaient établir une fiducie pour le compte des employés de Canfish.
+[49] En l’espèce, l’examen de la déclaration de fiducie (pièce A‑2), qui prévoit que 5 p. 100 des actions de Canfish seront détenues en fiducie, fait foi de la certitude concernant les biens de la fiducie. Un nombre précis d’actions n’était pas indiqué dans la déclaration de fiducie, mais le pouvoir discrétionnaire conféré aux fiduciaires permet d’affirmer qu’il existe une certitude à cet égard[2].
+[50] La certitude concernant les bénéficiaires de la fiducie exige que ces derniers soient désignés en termes clairs, de façon que les fiduciaires puissent s’acquitter de leurs tâches lorsqu’ils attribueront les biens de la fiducie.
+[51] Dans le contexte d’une fiducie discrétionnaire, il n’est pas nécessaire d’identifier individuellement chaque membre du groupe. Toutefois, cette certitude est absente si [traduction] « la définition des bénéficiaires est si générale qu’elle n’est aucunement assimilable à une classe, de sorte que sur le plan administratif, la fiducie est irréalisable »[3].
+[52] En l’espèce, une fiducie discrétionnaire a été établie, et les bénéficiaires de la fiducie ont été désignés comme constituant le groupe d’employés de Canfish, c’est‑à‑dire un groupe identifiable facilement déterminable.
+[53] Comme il en a ci‑dessus été fait mention, la fiducie est constituée lorsqu’il y a transfert de biens au fiduciaire après qu’une déclaration a été rédigée. Cette exigence particulière en ce qui concerne la création d’une fiducie est énoncée à l’article 1260 du Code civil du Québec[4] et, cela étant, elle ne s’applique pas en l’espèce[5].
+[54] Étant donné que les appelants ont prouvé l’existence des trois certitudes et que l’exigence ayant trait à la constitution de la fiducie ne s’applique qu’en droit civil, j’ai conclu qu’une fiducie a légalement été établie pour que 5 p. 100 des actions de Canfish soient détenues pour le compte des employés de Canfish.
+B. Imposition du produit – Disposition des actions de Canfish
+[55] À cause de l’établissement de la fiducie, les appelants seraient considérés comme des actionnaires de Canfish et, en tant que tels, ils ne seraient pas assujettis à l’application de l’alinéa 6(1)a) de la Loi, qui traite de l’imposition des avantages reçus en vertu d’un emploi.
+[56] De plus, l’article 7, et par conséquent l’alinéa 110(1)d.1) de la Loi, ne s’appliqueraient pas en l’espèce, étant donné qu’il n’existait aucune entente sur une option d’achat permettant aux employés d’acheter des actions ou à la société d’en émettre en faveur des employés.
+[57] Les appelants ne pouvaient pas se prévaloir de l’article 7 ou de l’alinéa 110(1)d.1) de la Loi, mais ils devraient être en mesure de bénéficier de l’application de l’article 110.6 de la Loi, dans la mesure où ils peuvent encore se prévaloir de leur déduction de 500 000 $.
+[58] L’article 110.6 de la Loi prévoit une exonération cumulative de 500 000 $ pour les gains en capital réalisés au moment de la disposition d’actions admissibles de petite entreprise. Étant donné que les deux parties ont convenu que les actions de Canfish étaient des actions admissibles de petite entreprise, l’exonération cumulative devrait s’appliquer aux appelants.
+C. Moment où les montants en cause doivent être inclus dans le revenu – Actions de NQL
+[59] L’avocat des appelants a soutenu que le ministre avait commis une erreur en considérant la valeur des actions de NQL comme une contrepartie partielle de la vente des actions de Canfish, alors que le titre parfait afférent aux actions n’a été reçu que plusieurs années après la vente.
+[60] Ni l’une ni l’autre partie n’a débattu cette question devant la Cour. En outre, aucun élément de preuve ni aucun argument n’ont été soumis à la Cour au sujet de la valeur des actions de NQL.
+[61] À mon avis, le ministre a eu raison de considérer la valeur des actions de NQL comme une contrepartie partielle, étant donné que ce montant était à recevoir par les appelants.
+[62] Les appels sont accueillis avec dépens, les appelants étant considérés comme ayant réalisé un gain en capital lorsqu’ils ont reçu le produit net de la vente des actions de Canfish de la fiducie. Comme il en a ci‑dessus été fait mention, la faculté de chacun des appelants de demander une exonération cumulative des gains en capital à l’égard des actions dépendra de la question de savoir si l’appelant en question s’est déjà prévalu de cette exonération.
+Signé à Vancouver (Colombie‑Britannique), ce 16e jour de janvier 2008.
+« L.M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 21e jour de février 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008CCI31
+Nos DES DOSSIERS DE LA COUR : 2005‑2287(IT)G, 2005‑2285(IT)G,
+2005‑2286(IT)G, 2005‑2288(IT)G,
+2005‑2289(IT)G, 2005‑2290(IT)G,
+2005‑2291(IT)G, 2005‑2292(IT)G,
+2005‑2294(IT)I, 2005‑2295(IT)I,
+2005‑2296(IT)I, 2005‑2297(IT)I,
+2005‑2298(IT)I, 2005‑2299(IT)I,
+2005‑2305(IT)I, 2005‑2306(IT)I,
+2005‑2307(IT)I, 2005‑2310(IT)I,
+2005‑2311(IT)I, 2005‑2312(IT)I,
+2005‑2313(IT)I.
+INTITULÉ : Scott Davis, Karl J. Beagrie,
+Thomas A. Curtis, Richard Gronvall,
+Austin L. Hearn, Claude Kendall,
+John McElroy, Darcy S. Ramsay,
+Darrell Wolter, Gregory B. Venus,
+Douglas K. Tolchard, Dave McCormick,
+Blain McCallum, Colin MacPherson,
+Daniel R. MacNeil, Kenneth Leslie,
+Bill G. Jenkins, Doug Hunter,
+Arthur L. Holmwood, Harold Fitz,
+Brad G. Boles
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 20 septembre 2007
+MOTIFS DU JUGEMENT : L’honorable juge L.M. Little
+DATE DU JUGEMENT : Le 16 janvier 2008
+COMPARUTIONS :
+Avocat des appelants :
+Me Gordon D. Beck
+Avocate de l’intimée :
+Me Margaret A. Irving
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Gordon D. Beck
+Cabinet : MacPherson Leslie et Tyerman LLP
+Edmonton (Alberta)
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Hon. Eileen E. Gillese, Martha Milczynski, Essential of Canadian Law: The Law of Trusts, 2e éd., Toronto, Irwin Law Inc., 2005, page 39.
+[2] Ibid, page 41.
+[3] Précité, note 2, page 43.
+[4] L.Q., 1991, ch. 64.
+[5] Michael N. Kandev, Fred Purkey, « Practical Application of Trusts », Reports of Proceedings of Fifty‑Sixth Tax Conference, Conférence fiscale de 2004, Toronto, Association canadienne d’études fiscales, 2005, pages 5 et 6.

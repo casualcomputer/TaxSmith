@@ -1,0 +1,217 @@
+Title: Franck v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27163/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-392-27163-franck-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-06-23
+
+# Franck v. The Queen
+
+- Citation: 2005 TCC 392
+- Decision date: 2005-06-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1032, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Franck v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-23
+Neutral citation
+2005 TCC 392
+File numbers
+2004-2708(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-2708(IT)I
+BETWEEN:
+ALWIN FRANCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Alwin Franck (2004-2713(GST)I) on April 20, 2005 at Belleville, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+William P.H. Procter
+Counsel for the Respondent:
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to Notice of Assessment No. 15084 dated May 21, 2003 is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of June 2005.
+"Diane Campbell"
+Campbell J.
+Docket: 2004-2713(GST)I
+BETWEEN:
+ALWIN FRANCK,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Alwin Franck (2004-2708(IT)I) on April 20, 2005 at Belleville, Ontario
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Agent for the Appellant:
+William P.H. Procter
+Counsel for the Respondent:
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act with respect to the assessment notice of which is dated May 21, 2003 and bears number 58910, is allowed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of June 2005.
+"Diane Campbell"
+Campbell J.
+Citation: 2005TCC392
+Date: 20050623
+Dockets: 2004-2708(IT)I
+2004-2713(GST)I
+BETWEEN:
+ALWIN FRANCK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+CampbellJ.
+[1] These appeals were heard together on common evidence. The Appellant and Respondent at the outset agreed that the style of cause in both appeals should be amended to delete the corporate name, Franck Construction Co. Ltd. (the "Company") and substitute the name, Alwin Franck, as the proper Appellant. The Appellant testified and the Respondent called Nancy Roesler, Canada Revenue Agency ("CRA") appeals officer.
+[2] The Company commenced operating in the construction business sometime in the 1980s. The Appellant was always the sole director and manager of the day-to-day operations of the Company. The busiest year for the Company was 1990 when the gross income was approximately $500,000.00. Beginning in 1992, business declined in the construction industry and by 1995 the Appellant no longer had any employees and he was doing any job the Company took on by himself. In addition to the recession which was occurring at this time, the Company could not collect on a large receivable of approximately $20,650.00. The Appellant's evidence was that the Company expended approximately $40,000.00 on lawyers and expert consultants before a settlement of this account in the amount of $35,000.00 was negotiated. Over the period of time in which the Appellant's company owed money to the CRA, the Appellant's wife became seriously ill and eventually died and his brother-in-law who lived with the Appellant and his wife committed suicide. In an effort to continue the business, he took on any job, some of which were hours-long drives one way from his home. Between 1993 and 1997, he stated that he drove approximately 450,000 kilometres to complete small jobs. He operated out of a small Sundance car, which had over 550,000 kilometres by 1997. For several months on two occasions during this period, he and his family had to resort to social assistance.
+[3] The evidence indicated that the Company was in continuous problems when it came to remitting payroll source deductions together with goods and services tax ("GST"). It was a constant battle for the Company to maintain these remittances as current. Prior to 1990, the Company's accountant looked after the remittances but the Appellant testified that he did not recall if this was a regular practice because the Company did not always have money to pay the accountant. The Auditor's Statement of Account, dated December 5, 1991 (Exhibit A-5) disclosed that the Company owed total arrears of $21,697.32, that a payment of $5,000.00 had been received and that a balance remained owing of $17,058.23. According to Exhibit A-9 (Letter from Revenue Canada dated September 26, 1995, together with a detailed statement for all payroll deduction transactions from January 1, 1992 to August 29, 1995) on January 15, 1992, the Company paid $10,000.00 and made a second payment on February 15, 1992 of $7,058.23. The latter payment failed to clear the bank and on August 31, 1992 a payment of $7,718.74 by way of a third party demand was taken from the corporate bank account. On June 9, 1993 the Company made a payment of $1,420.00, leaving basically a zero balance owing to CRA. At the end of August 1995, the Company owed $3,562.09 in respect to payroll remittances. Exhibit A-10 (handwritten summary of net employer payroll remittances for the period 1990-1998) indicated that the company paid a total of $50,851.94 in employer remittances during this period.
+[4] Exhibit A-8 indicated that GST returns were never filed until April 1994. The only explanation offered by the Appellant was that his accountant was uncooperative because he was not being paid and that he was simply scared and worried as he did not know how to prepare the returns. He was scared as a result of the third party demand on the account made in August 1992. A registered letter from CRA dated March 20, 1996 confirms that the Company requested additional time to settle its account until its litigation over the receivable of $20,650.00 was settled. Exhibit A-12 (correspondence of CRA dated December 2, 1996) confirmed that all of the Company's accounts with CRA, including the corporate income tax, payroll source deductions and GST, were being consolidated under one number.
+[5] In late December 1996 a statement of arrears for GST was forwarded to the Company. In February 1997 the Appellant attended at the Peterborough Tax Office and met with Kevin Bailey to deal with the account. At this February meeting he gave Mr. Bailey a cheque for $5,000.00 and indicated his eagerness to pay this debt. According to the Appellant's testimony, an arrangement was struck where further payments of $15,600.00 should be made and then a final payment of approximately $2,800.00 and "...I would be free and clear". (Transcript page 43). Exhibit A-8 does confirm the February 1997 payment of $5,000.00, an additional payment of $5,000.00 on March 25, 1997 and a further payment of $5,619.56 on April 17, 1997. These three payments made in February, March and April 1997 totalled $15,619.56, which according to Exhibit A-13 (the CRA statement of arrears) was the total tax owing for all periods (excepting interest and penalty in the amount of approximately $5,000.00 each). After this initial meeting with Mr. Bailey, he attempted to meet with him again and to telephone him but was unable to do so.
+[6] On direct examination, the Appellant stated that prior to 1990 when he had financial difficulties, he worked harder and longer hours:
+... I just worked myself out of it. But in the 1990s that was impossible because there was no more work to be found. ... We were in a recession. ... I tried to pay my share of the deductions, and I finally got them down, ... It was going down and down ... With the GST, it was very difficult to collect at first, because nobody wanted to pay it. ... They just said: "You pay it. I don't pay it". So there was a very bad situation with the GST". (Transcript pages 48 and 49).
+During this period in 1993 he approached the National Bank to obtain financing to deal with these debts. He submitted a loan application but the Company was not approved as the Bank wanted collateral. The home was in his wife's name but to put this up as collateral, a survey was required. He stated they did not have the amount of $6,000.00 to pay for this survey.
+[7] On cross-examination, he agreed that he was always aware that the Company had remittance problems but disagreed that he was always in arrears. In 1993 he pointed out that a number of payments had eventually brought the account to a zero balance. He also disagreed with Respondent counsel's suggestion that he favoured certain creditors by paying them ahead of Revenue Canada. He testified that:
+"...I paid as much to anybody as I could. And my family and me, we have suffered a lot. I have gone to jail because I didn't have enough money". (Transcript page 57)
+"I didn't choose. I paid what I could ...". (Transcript page 58)
+"... I tried to pay everybody ... I tried to pay whatever had to be paid in that Company to keep the Company afloat in a very difficult time. With $20,650 not being in my cash-flow -- because it was stuck in Court --- And it took five and a half years to get $20,600 of cash-flow back into the Company, in a depression, when there was nothing going on, when I had to drive for miles ... just to make ends meet". (Transcript page 67).
+He also stated, in response to questioning by Respondent counsel, that he did not consider setting up a separate account for remittances after the 1993 garnishment as he had few deductions because he had no workers. He also stated on cross-examination that in the last few years, before the Company ceased operations in September 1998, he was at the Tax Office every month to meet with a Mr. Baril. He stated that Mr. Baril:
+... was the only person in all of those years that ever took an interest in discussing my business with me. ...
+... I paid them $400 every month for as long as the Company went on.
+This was the only person, Mr. Oliver Baril, who was ever capable of guiding me and helping me to get out of it. All of the others ---
+Mr. Bailey, I only saw that one time. I would more than likely have been okay with him and carried on - because I started out paying. If I would have had a little bit more time, I would have paid it off. I am pretty sure of that.
+But these were the only two people. All the others would just threaten and say: "We are going to set you bankrupt." I have heard this ... so many times.
+Q. They never did, though. They could have.
+A. ... which has gone on for 15 years ... But now I still go on. After 15 years, ... That is one third of a man's productive lifetime. One third! I have been sitting stuck with this here because somebody didn't pay me $20,500. And from then on, it just went on down the hill.
+... there was nothing that I could have done different. (Transcript pages 70-72)
+[8] On direct examination by Respondent counsel, Nancy Roesler testified that she was unable to find any positive steps in respect to due diligence because the funds were not kept separate and no separate bank account was established to deal with the problem. She stated that the Company always tried to pay arrears "after the fact". In making these statements she referred to a Diary of Payroll Account, which was not entered as an exhibit. On cross-examination, however, she did admit that her records did not show those cases where a Return was filed on time with a payment attached to the return. At page 123 of the Transcript she states: "But there are definitely some where he did pay remittances, yes". And at page 101 of the Transcript, she stated:
+He was asked to come in and he did meet, I noticed, with Oliver Baril. He was coming in every month to try and get things going ---
+Q. But when he did go in, it was always for arrears ---
+A. Not all the time, but some of the time.
+[9] On Re-Direct, Ms. Roesler stated that the account had been in collections since the 1980s and that when it was current, the current remittances would be missing. She stated that the Company was either late or if it did file, it under reported. She explained that throughout this period payroll audits and failure to remit (FTR) assessments were completed at various times. She explained the problem as an "off and on problem". (Transcript page 110)
+[10] When the CRA Collections Division agreed to lift a garnishment from the Appellant's account, he was requested to sign a Disclaimer. Ms. Roesler stated that the Disclaimer effectively stated that the Appellant was aware that he would be liable for the fees and that he assumed liability for them. However, on cross-examination, the Appellant's counsel demonstrated that the Disclaimer was actually a document that simply agreed not to use the garnishment's removal as grounds for any defence under director's liability.
+[11] On direct examination of Ms. Roesler, there was evidence that the Company's Charter was surrendered in 1998. Somehow the CRA gained knowledge of this and according to the Diary of Payroll Account advised the Appellant. Ms. Roesler testified respecting the reason for the surrender of the Charter at page 114 of the Transcript: "And I gather it was because he hadn't paid his fee to the Ministry". She went on to testify that the Diary indicated that the Appellant would cooperate by getting it re-instated, which he did.
+[12] The Appellant was assessed under section 227.1 of the Income Tax Act and subsection 323(1) of the Excise Tax Act on May 21, 2003 as a director of the Company for the amount of $21,870.85 (Income Tax Act) and $26,188.03 (Excise Tax Act). According to the exhibits entered, it appears that these two amounts are made up of the following:
+$3,868.06 in unpaid Federal Income Tax
+$2,414.79 in unpaid Provincial Income Tax
+$1,067.64 in unpaid CPP
+$2,439.74 in unpaid UIC/EI
+$10,977.24 in unpaid Income Tax/CPP/EI Interest
+$1,285.38 in unpaid Income Tax/CPP/EI Penalties
+$11,784.00 in unpaid GST Remittances
+$8,507.66 in unpaid GST Penalties
+$5,895.90 in unpaid GST Interest
+[13] The issue is whether the Appellant is liable under section 227.1 of the Income Tax Act and subsection 323(1) of the Excise Tax Act for the failure of the Company to remit these amounts to the Receiver General.
+[14] Pursuant to both these Acts, there is a duty imposed on corporations to withhold taxes and source deductions and to remit these amounts to the Receiver General. While corporations are liable for such unremitted amounts, their directors are also jointly and severally liable for such amounts. The obligation imposed on directors is tempered by subsections 227.1(3) and 323(1), which allow directors to escape such liability if they can show that they exercised a certain degree of care, diligence and skill in order to prevent such failures to remit that a reasonably prudent person would have exercised under similar circumstances. If a director can satisfy this due diligence defence he may escape such liability.
+[15] I have no problem here in finding that the Appellant acted as a reasonably prudent person would in the facts of this case. He exercised the requisite degree of care, diligence and skill in the circumstances to deal with and prevent remittance failures. This Appellant as director certainly put his mind to the requirement. He did not remain uninterested and passive. He was continuously attempting to deal with the CRA and to pay these remittances. There was no deliberate forethought given to the fact that he would ensure the remittances would not be paid. Quite the contrary. Despite the recession which was occurring, the financial problems the Company was having and the enormous personal hardships which plagued the Appellant, he continued to be eager to deal with this debt. He could have easily walked away from the Company early on and let it go bankrupt. From the evidence, the only assets of the Company were an old car with 550,000 kilometres on it and some tools. He worked from his car. As far as any personal liability he might have had in respect to banks, suppliers and other creditors, the evidence suggests that the only personal asset was the home and that was owned by his wife. He chose not to walk away from these responsibilities as he might easily have done. Instead he continued to take small jobs, worked from his car with no employees and sometimes drove up to two hours one way just to get to a job. At one point he attempted to obtain financing to deal with the account but then could not come up with the $6,000.00 required for a survey of the property. Some of the exhibits showed that at times he made huge payments to the CRA and at one point in 1993 this account was brought down to a zero balance.
+[16] The evidence was that he had a lengthy meeting with a Mr. Bailey at the CRA to deal with this account sometime in 1997. He testified that an arrangement was made for periodic payments. When he returned again to the CRA offices to see Mr. Bailey with another cheque in hand, he was unable to see this individual and instead had contact with another official who according to the Appellant merely shrugged and took the money. At another point he attempted again to set up a meeting with Mr. Bailey because he:
+... wanted to tell him that the one cheque was okay, because I just had gotten some money. I had given him a post-dated cheque and I wanted to let him know that the cheque was okay. (Transcript page 46)
+Although he made attempts he was unable to meet with or talk by phone again to Mr. Bailey. The second person at the CRA who took an interest in discussing this account, according to the Appellant's evidence, was Oliver Baril. He saw Mr. Baril every month and started making monthly payments. He stated that he would have been able to pay this account in full if he had been given time to do so.
+[17] Prior to 1990 his evidence was that when the Company had remittance difficulties, he worked his way out of them by working harder, longer hours and taking on more jobs. But in the 1990s there was little work to be had and according to the Appellant's evidence, 50% in the construction industry were unemployed.
+[18] The Appellant's evidence was that the Company not only paid when there were arrears but also paid at times when a Return was filed. At page 92 of the transcript, the Appellant on cross-examination was asked:
+Q. When you did pay those amounts of money, it was for arrears?
+A. No. There were some years when a cheque went with what I had to pay to be current.
+[19] In addition Ms. Roesler testified that the Diary of Payroll Account, to which she referred in her evidence, would not disclose those circumstances where a Return was filed and a payment was made at the same time. She agreed that there were "... definitely some where he did pay remittances, yes." (Transcript, page 123.). As well as his attempts at paying arrears when they occurred the evidence is that there certainly were instances where he continued to make payments to remain current.
+[20] The facts here demonstrate that the Appellant continued throughout this period to deal with the remittances. This is not a case where the taxpayer merely closed his eyes and did absolutely nothing. The facts support that the Appellant exercised the care that a reasonably prudent person would in comparable circumstances.
+[21] Even if I was not able to find due diligence here, which I have, I believe I could dismiss these appeals on the ground that the assessments are statute-barred.
+[22] Although directors are jointly and severally liable for unpaid remittances unless due diligence is shown, subsection 227.1(4) of the Income Tax Act states that:
+No action or proceedings to recover any amount payable by a director of a corporation under subsection (1) shall be commenced more than two years after the director last ceased to be a director of that corporation. (emphasis added)
+The Excise Tax Act has a similar provision, subsection 323(5), which states:
+An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation. (emphasis added)
+[23] Pursuant to a number of different provisions of the Ontario Corporations Act, the Lieutenant Governor may declare a corporation dissolved. Subsection 319(1) describes the process of the surrender of a corporate Charter. It states:
+(1) The charter of a corporation incorporated by letters patent may be surrendered if the corporation proves to the satisfaction of the Lieutenant Governor,
+(a) that the surrender of its charter has been authorized,
+(i) by a majority of the votes cast at a meeting of its shareholders or members duly called for that purpose or by such other vote as the letters patent or supplementary letters patent of the corporation provide, or
+(ii) by the consent in writing of all the shareholders or members entitled to vote at such meeting;
+(b) that it has parted with its property by distributing it rateably among its shareholders or members according to their rights and interests in the corporation;
+(c) that it has no debts, obligations or liabilities or its debts, obligations or liabilities have been duly provided for or protected or its creditors or other persons having interests in its debts, obligations or liabilities consent;
+(d) that there are no proceedings pending in any court against it; and
+(e) that it has given notice of its intention to surrender its charter by publication once in The Ontario Gazette and once in a newspaper published at or as near as may be to the place where it has its head office.
+(2) The Lieutenant Governor, upon due compliance with this section, may by order accept the surrender of the charter and declare the corporation to be dissolved on such date as the order may fix.
+[24] I find that the evidence supports that the Company surrendered its corporate Charter in 1998. In fact assumption (a) under the income tax appeal and assumption (b) of the GST appeal contain the same wording:
+The Corporation ("Franck Construction Co. Ltd.") operated from early 1990 through August 1998 when the Corporation ceased to operate;
+[25] The Respondent's assumption is that the Company ceased operations in 1998, yet the assessments took place in 2003. If the Company surrendered its Charter in 1998 as suggested by the evidence, then the limitation period in subsection 227.1(4) of the Income Tax Act and subsection 323(5) of the Excise Tax Act began to run from that date. In respect to the non-remittances that occurred prior to the dissolution of the Company, by virtue of the Charter being surrendered, the Appellant would only be liable as a director if the assessments were issued within two years of the surrender of the Charter. I believe the subsequent reinstatement of the Company after the surrender of the Charter would be irrelevant to the fact that the two-year period had already begun.
+[26] Under the relevant sections of the Income Tax Act and the Excise Tax Act, it is clear that assessments in respect to director's liability may be issued no more than two years after the director "last ceased to be a director of that corporation". The definition of "cease" is defined in Merriam-Webster Dictionary, 10th edition, as:
+Transitive senses: to cause to come to an end especially gradually: no longer continue.
+[27] Similarly in the Oxford English Dictionary, 2nd. edition, it is defined as:
+II. Transitive
+(5.) To put a stop to (the action of others, a state of condition of things), to stop.
+[28] Black's Law Dictionary, 7th edition, defines "cease" as:
+vb. 1. To stop, forfeit, suspend, or bring to an end.
+[29] Therefore, "cease" requires nothing more than for a person to stop an action or bring it to an end. One can still recommence an action at a later date and yet be considered to have "ceased" in the first instance. I contrast this with "cease and desist", which Black's Law Dictionary defines as:
+A court's or agency's order prohibiting a person from continuing a particular course of conduct.
+[30] My interpretation of the word "cease" is further supported by the context in which it is found in the legislation. By stating that the two-year period begins from the time the director last ceased to be a director, it implies that there could be more than one cessation. It would not be the former cessations that would be relevant to the two-year period but rather it would be only the last cessation that would count.
+[31] If a person never ceases to be a director, the two-year period does not begin to run. But if a director has, in fact, ceased to be a director, it is this last cessation that begins the two-year period. In this case there is evidence to support my conclusions that the Appellant ceased to be a director when the Company surrendered its Charter. When the Charter was surrendered in 1998 then the Company was dissolved and the Appellant, as a logical conclusion, ceased to be a director as he could not be a director of a company that no longer existed.
+[32] Therefore, when the Appellant ceased to be a director by virtue of the surrender of the Charter in 1998, the two-year period prescribed by the relevant provisions in each Act began to run and would have expired well before the 2003 assessments.
+[33] The surrender of the Charter in 1998 is supported in the evidence of Ms. Roesler. On direct examination, she testified as follows:
+Q. How about in 1998? With respect to the Corporate Charter, could you tell us about what happened in 1998?
+A. Okay. There were two notes in the Diary. One was with respect to the Charter having been surrendered -- and the Collections Officer told Mr. Franck about that. And I gather it was because he hadn't paid his fee to the Ministry.
+He said that he would look after getting that reinstated, which he did, because the Charter has been reinstated.
+I believe, just to give you a date, that occurred on September 23rd, 1997; when he was in a meeting with one of the Collections Officers, and I do believe it was Oliver Baril that met with him on that date.
+He made a note that the Corporation is reinstated and active; that Mr. Franck paid $465.00 to the Minister of Finance.
+And Mr. Franck showed our Collections Officer a copy of the cheque that was stamped "Received by MCCR, Companies Branch, on the 27th of August, 1997".
+Q. So, basically, it is the Agency who assisted Mr. Franck by telling him: "Listen, your Charter has to be reinstated"?
+[34] And on cross-examination by Appellant counsel:
+Q. The Notices of Assessment are dated May 21, 2003. Is that correct?
+A. I believe so, yes.
+Q. Is that a normal sort of delay?
+A. It can happen. There were a lot of meetings with Mr. Franck. As I say, I could go through page-by-page of --- It does happen: The Corporate Charter is still active. We are still talking to the Taxpayer. They are still talking about fairness. In 1998, they got post-dated cheques.
+Q. That "Corporate Charter still being active", that's only as a result, really, of action from Revenue Canada. Is that correct?
+A. I don't know in the end --- No, it was --- They mentioned to him that his Charter had been "surrendered". He chose to reinstate it. Now, whether or not he did --- It wouldn't lessen his responsibility as a director.
+[35] In both of these excerpts from the transcript it appears that the witness as well as both Appellant and Respondent counsel accepted that the Charter had been surrendered.
+[36] I conclude as a fact that the Company surrendered its Charter and that this surrender effectively dissolved the Company even if for only a brief period. Although the parties did not turn their minds and fully address the issue of whether the assessment was statute-barred, it is nevertheless presented as one of the Respondent's assumptions that the Company ceased operations in 1998. Respondent's counsel also briefly referred to the surrender in her submissions at page 162 of the transcript when she stated that "... we were very lenient with him over the period 1982, to the point where, in 1998, we advised him that the Corporate Charter had been surrendered".
+[37] Some of the evidence suggests that the Charter may not have been surrendered. Ms. Roesler states that "And I gather [the surrender of the Charter] was because he hadn't paid his fee to the Ministry", which suggests that the Lieutenant Governor ordered the Company dissolved "for cause" under section 317 of the Ontario Corporations Act. Under that provision a company can be revived using the procedures described in subsection 317(10). The effect of this revival would be to treat the dissolution as if it never happened. This would mean that the Company was never dissolved and the Appellant never ceased to be a director. This would mean that the assessments are not statute-barred. However in Ms. Roesler's statement respecting payment of a fee to the Minister, she is merely surmising that this was the case when she used the words "I gather". The balance of the evidence supports my conclusions that the Charter was surrendered under section 319 of the Ontario Corporations Act, the Appellant ceased to be a director in 1998 and consequently the 2003 assessments are statute-barred.
+[38] For the above reasons, the appeals are therefore allowed, without costs.
+Signed at Ottawa, Canada, this 23rd day of June 2005.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2005TCC392
+COURT FILES NO.:
+2004-2708(IT)I
+2004-2713(GST)I
+STYLE OF CAUSE:
+Alwin Franck and
+Her Majesty the Queen
+PLACE OF HEARING
+Belleville, Ontario
+DATE OF HEARING
+April 20, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice
+Diane Campbell
+DATE OF JUDGMENT
+June 23, 2005
+APPEARANCES:
+Agent for the Appellant:
+William P.H. Procter
+Counsel for the Respondent:
+Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,141 @@
+Title: Bhagani v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26400/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-496-26400-bhagani-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-07-12
+
+# Bhagani v. The Queen
+
+- Citation: 2004 CCI 496
+- Decision date: 2004-07-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3347, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bhagani v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-12
+Référence neutre
+2004 CCI 496
+Numéro de dossier
+2003-3556(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3556(IT)I
+ENTRE :
+DAVENDRA BHAGANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 21 avril 2004 à Toronto (Ontario)
+Par : L'honorable M. A. Mogan, juge
+Comparutions :
+Avocate de l'appelant :
+Me Maria Louisa Diaz
+Avocate de l'intimée :
+Me Bonnie Boucher
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 sont rejetés.
+Signé à Ottawa, Canada, ce 12e jour de juillet 2004.
+« M. A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+Référence : 2004CCI496
+Date : 20040712
+Dossier : 2003-3556(IT)I
+ENTRE :
+DAVENDRA BHAGANI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] Le présent appel concerne les années d'imposition 1999 et 2000. L'appelant a déclaré une perte au titre d'un placement d'entreprise ( « PTPE » ) de 567 679 $ dans sa déclaration de revenus (T1) de 1999. En fait, l'appelant n'a pas subi une PTPE de 567 679 $ en 1999, mais ce montant était celui qu'il avait été condamné à payer par les tribunaux de l'Ontario. En 1999, le créancier judiciaire a pris des dispositions pour que le salaire de l'appelant fasse l'objet d'une saisie-arrêt. L'employeur de l'appelant a versé au créancier judiciaire, en application de cette saisie-arrêt, une somme de 5 747,08 $ en 1999 et de 9 729,46 $ en 2000. En conséquence, l'appelant a déduit une perte déductible au titre d'un placement d'entreprise ( « PDTPE » ) de 4 310,31 $ pour 1999, et une PDTPE de 7 297,10 $ pour 2000. Ces déductions ont été refusées dans les cotisations établies par Revenu Canada, et l'appelant a interjeté appel de ces cotisations. La Cour doit déterminer si l'appelant avait subi une PTPE en 1999 ou en 2000. L'appelant a choisi d'utiliser la procédure informelle.
+[2] L'appelant est un concepteur de systèmes occupant une position élevée au sein de la Banque Canadienne Impériale de Commerce (la « CIBC » ). Il habite à Scarborough (Ontario), une banlieue de l'est de Toronto. Avant 1992, l'appelant a fait plusieurs placements immobiliers avec un homme identifié comme étant Arun Horra. Rouge Hill Development Corporation ( « RHDC » ) est une société ontarienne dont les actions émises appartenaient en parts égales à l'appelant et à M. Horra. Le 30 mai 1991, RHDC a acheté une parcelle de terrain vacant située sur l'avenue Steeles, à Scarborough (Ontario) (le « terrain Steeles » ), aux conditions suivantes :
+Vendeur :
+450214 Ontario Limited (la « société 214 » )
+Prix d'achat :
+770 000 $
+Versement initial en espèces :
+230 000 $
+Prêt hypothécaire consenti par le vendeur
+540 000 $
+Prêt de l'appelant à RHDC
+115 000 $
+Prêt de M. Horra à RHDC
+115 000 $
+RHDC a utilisé l'argent prêté par l'appelant et par M. Horra pour faire le versement initial à la société 214.
+[3] En avril et en mai 1992, M. Horra a prêté une somme additionnelle de 270 000 $ en espèces à RHDC afin que celle-ci puisse rembourser à la société 214 la moitié du capital de sa dette hypothécaire. Le 25 juin 1992, l'appelant a conclu une entente écrite avec M. Horra et RHDC. Cette entente se trouve à l'onglet 22 de la pièce A-1, le recueil des documents de l'appelant. L'entente expose ou confirme la plupart des faits décrits au paragraphe 2 ci-dessus et dans le présent paragraphe 3. L'article 4 de cette entente stipule que l'appelant est le seul responsable du paiement du solde (270 000 $) du prêt hypothécaire consenti par le vendeur (la société 214) et des intérêts sur ce montant, et qu'il exonère M. Horra à cet égard.
+[4] L'appelant n'a pas fourni à RHDC les fonds nécessaires pour payer l'autre moitié (270 000 $) du prêt hypothécaire consenti par le vendeur (la société 214). Le débiteur hypothécaire a manqué à son obligation, et la société 214 a forcé la vente du terrain Steeles en vertu d'un pouvoir de vente. En avril 1994, l'appelant a intenté, devant la Cour de l'Ontario (Division générale), une action contre M. Horra, RHDC et Rouge Hill Investments Limited (une autre société dont l'appelant et M. Horra étaient actionnaires). L'appelant réclamait des dommages-intérêts pour le non-respect d'un prétendu contrat de travail ainsi que d'autres réparations. M. Horra a présenté une défense à l'encontre de l'action ainsi qu'une demande reconventionnelle contre l'appelant dans laquelle il réclamait plus particulièrement des dommages-intérêts pour la perte qu'il avait subie en raison du non-respect, par l'appelant, de l'entente datée du 25 juin 1992 et du défaut de l'appelant de respecter les conditions du prêt hypothécaire consenti à RHDC par la société 214.
+[5] L'action a été entendue par le juge Ground de la Cour de l'Ontario (Division générale), dont les motifs du jugement se trouvent à l'onglet 8 de la pièce A-1. Le juge Ground a rejeté la prétention de l'appelant concernant l'existence d'une relation employeur-employé, mais a fait droit à la demande reconventionnelle de M. Horra en lui accordant la somme de 385 000 $ (soit son paiement de 115 000 $ à RHDC, plus 270 000 $), plus des intérêts avant jugement de 44 198 $. Voir la pièce A-1, onglet 9. Le 12 avril 1999, la Cour d'appel de l'Ontario a rejeté l'appel interjeté par l'appelant. Voir la pièce A-1, onglets 10 et 11, et la pièce R-2. Après que la décision définitive eut été rendue, M. Horra a obtenu un avis de saisie-arrêt daté du 12 mai 1999 et adressé à la CIBC, pour un montant de 567 679 $. Voir la pièce A-1, onglets 12 et 13.
+[6] La CIBC a remis à M. Horra (ou à son représentant), en application de la saisie-arrêt, une somme de 5 747,08 $ en 1999 et une somme de 9 729,56 $ en 2000. Voir la pièce A-1, onglets 3 et 4. L'appelant a déclaré des pertes déductibles au titre d'un placement d'entreprise de 4 310,31 $ pour 1999 et de 7 297,10 $ pour 2000, soit 75 p. 100 des montants recouvrés par M. Horra en vertu de la saisie-arrêt.
+Analyse
+[7] L'alinéa 39(1)c) de la Loi de l'impôt sur le revenu (la « Loi » ) définit ce qu'est une perte au titre d'un placement d'entreprise (PTPE). La définition est longue; je reproduis ci-dessous seulement les passages qui, à mon avis, sont pertinents.
+39(1) Pour l'application de la présente loi :
+[...]
+c) une perte au titre d'un placement d'entreprise subie par un contribuable, pour une année d'imposition, résultant de la disposition d'un bien quelconque s'entend de l'excédent éventuel de la perte en capital que le contribuable a subie pour l'année résultant d'une disposition, après 1977 :
+(i) soit à laquelle le paragraphe 50(1) s'applique,
+(ii) [...]
+d'un bien qui est :
+(iii) soit une action du capital-actions d'une société exploitant une petite entreprise,
+(iv) soit une créance du contribuable sur une société privée sous contrôle canadien [...] qui est :
+(A) une société exploitant une petite entreprise,
+(B) [...]
+sur le total des montants suivants :
+(v) [...]
+Si un contribuable avait une PTPE au sens de l'alinéa 39(1)c) en 1999, la PDTPE équivalait, aux termes de l'alinéa 38c), à 75 p. 100 de la PTPE. Ce taux de 75 p. 100 est passé à 50 p. 100 en 2000 d'une manière qui n'est pas pertinente en l'espèce.
+[8] L'élément le plus important de la définition d'une PTPE est le fait que le contribuable doit avoir subi une perte en capital résultant de la possession d'actions du capital-actions d'une société exploitant une petite entreprise ou de la détention d'une créance sur une société privée sous contrôle canadien qui est une société exploitant une petite entreprise. Le renvoi au paragraphe 50(1) qui figure dans le sous-alinéa 39(1)c)(i) a pour effet d'incorporer à celui-ci une disposition qui permet à un contribuable de choisir d'avoir une perte en capital pour une année donnée relativement à une créance qui lui est due et qui s'est révélée être une créance irrécouvrable au cours de cette année. Le paragraphe 50(1) prévoit des conditions précises qui ne sont pas pertinentes pour les besoins du présent appel. La seule créance qui est importante dans le présent appel est la créance judiciaire de 567 679 $ de M. Horra à l'égard de l'appelant. C'est en rapport avec cette créance judiciaire qu'une somme de 5 747,08 $ a été saisie-arrêtée sur le salaire de l'appelant en 1999 et qu'une somme de 9 729,56 $ a été saisie-arrêtée sur son salaire en 2000.
+[9] Les sommes qui ont été saisies-arrêtées sur le salaire de l'appelant en 1999 et en 2000 n'avaient aucun lien avec le fait que l'appelant possédait des actions d'une société ou avec le fait qu'il avait prêté de l'argent à une société. Bien au contraire. M. Horra a obtenu un jugement contre l'appelant parce que ce dernier n'avait pas prêté la somme de 270 000 $ à RHDC (en 1992); c'était à cause de ce défaut de l'appelant que M. Horra avait perdu la somme de 385 000 $ (115 000 $ plus 270 000 $) qu'il avait investie dans RHDC.
+[10] On peut répondre brièvement et simplement à la prétention de l'appelant en disant que la dette de 567 679 $ (de l'appelant envers M. Horra) n'était pas une dette qui lui était payable par une société privée sous contrôle canadien. En conséquence, l'appelant n'a pas subi de PTPE en 1999 ou en 2000. La somme de 115 000 $ que l'appelant a prêtée à RHDC en 1991 pour que celle-ci achète le terrain Steeles peut avoir entraîné une PTPE en 1994, lorsque ce terrain a été vendu en vertu d'un pouvoir de vente. Toutefois, il est ressorti de l'audience que l'appelant avait déjà déclaré une PDTPE en 1994 ou en 1995 relativement à cette somme de 115 000 $. Les appels concernant les années 1999 et 2000 sont rejetés.
+Signé à Ottawa, Canada, ce 12e jour de juillet 2004.
+« M. A. Mogan »
+Juge Mogan
+Traduction certifiée conforme
+ce 17e jour de décembre 2004.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI496
+NUMÉRO DU DOSSIER DE LA COUR :
+2003-3556(IT)I
+INTITULÉ :
+Davendra Bhagani c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 21 avril 2004
+MOTIFS DU JUGEMENT :
+L'honorable M. A. Mogan, juge
+DATE DU JUGEMENT :
+Le 12 juillet 2004
+COMPARUTIONS :
+Avocate de l'appelant :
+Me Maria Louise Diaz
+Avocate de l'intimée :
+Me Bonnie Boucher
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Maria Louise Diaz
+Cabinet :
+Maria Louise Diaz
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

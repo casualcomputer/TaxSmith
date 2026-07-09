@@ -1,0 +1,193 @@
+---
+title: "MacDonald v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27475/index.do"
+last_modified: "2005-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 707"
+citation2: ""
+neutral_citation: "2005 TCC 707"
+decision_date: "2005-11-01"
+language: "en"
+item_id: "27475"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 31
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:09:36.784000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f240b009ad2e8081a321af989cd23901aff34c75fd27088936e87c8f4538bbe4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MacDonald v. The Queen
+
+- Citation: 2005 TCC 707
+- Decision date: 2005-11-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 31, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MacDonald v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-11-01
+Neutral citation
+2005 TCC 707
+File numbers
+2004-4243(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4243(IT)I
+BETWEEN:
+PAUL M. MacDONALD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+CAROL MacDONALD,
+Third Party.
+____________________________________________________________________
+Appeals heard on September 16, 2005, at Toronto, Ontario, by
+The Honourable Justice A.A. Sarchuk
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jenny Mboutsiadis
+For the Third Party:
+The Third Party herself
+____________________________________________________________________
+JUDGMENT ON A DETERMINATION OF QUESTIONS
+UNDER SECTION 174 OF THE INCOME TAX ACT
+By Order dated May 25, 2005, Carol MacDonald was added as a Third Party to the appeal of Paul M. MacDonald for the purpose of determining the following questions:
+(a) Whether Carol MacDonald paid Child Support to the Appellant in the 2000, 2001 and 2002 taxation years in the amounts of $6,072, $5,286 and $3,184, respectively;
+(b) Whether Child Support payments in the amounts of $6,072, $5,286 and $3,184 in the 2000, 2001 and 2002 taxation years, respectively, if paid, were payable pursuant to a written agreement or order on or after its commencement day;
+(c) Whether the Child Support payments in the amounts of $6,072, $5,268 and $3,184 in the 2000, 2001 and 2002 taxation years, respectively, if paid by Carol MacDonald to the Appellant, are to be included in computing the Appellant’s income pursuant to paragraph 56(1)(b) of the Act; and
+(d) Whether the Child Support payments in the amounts of $6,072, $5,268 and $3,184 in the 2000, 2001 and 2002 taxation years, respectively, if paid by Carol MacDonald to the Appellant, are deductible in computing Carol MacDonald’s income in the 2001 and 2002 taxation years pursuant to paragraph 60(b) of the Act.
+Upon hearing the evidence of the Appellant and the Third Party; and upon hearing submissions from all three parties;
+It is determined that the answer to question (a) is yes; the answer to question (b) is no; the answer to question (c) is no; and the answer to question (d) is no.
+The appeals from assessments of tax made under the Income Tax Act for the 2000, 2001 and 2002 taxation years are allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Child Support payments in the amounts of $6,072, $5,268 and $3,184, respectively, received by the Appellant are not to be included in computing his income for those years
+Signed at Ottawa, Canada, this 1st day of November, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2005TCC707
+Date: 20051101
+Docket: 2004-4243(IT)I
+BETWEEN:
+PAUL M. MacDONALD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+CAROL MacDONALD,
+Third Party.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] On April 7, 2005, the Minister of National Revenue made an application pursuant to section 174 of the Income Tax Act joining Carol MacDonald as a party to the appeals of Paul M. MacDonald for the determination of questions in respect of the:
+(a) Notice of Reassessment dated March 4, 2004, for the 2000, 2001 and 2002 taxation years, respectively; and
+(b) A proposed reassessment in respect of Carol MacDonald’s 2001 and 2002 taxation years (the 2000 taxation year being statute-barred;).
+On May 25, 2005, an Order was made by Bowman C.J. joining Carol MacDonald as a party to the appeals of Paul M. MacDonald.
+[2] The questions in respect of which a determination is sought are:
+(a) Whether Carol MacDonald paid Child Support to the Appellant in the 2000, 2001 and 2002 taxation years in the amounts of $6,072, $5,286 and $3,184, respectively;
+(b) Whether Child Support payments in the amounts of $6,072, $5,286 and $3,184 in the 2000, 2001 and 2002 taxation years, respectively, if paid, were payable pursuant to a written agreement or order on or after its commencement day;
+(c) Whether the Child Support payments in the amounts of $6,072, $5,268 and $3,184 in the 2000, 2001 and 2002 taxation years, respectively, if paid by Carol MacDonald to the Appellant, are to be included in computing the Appellant’s income pursuant to paragraph 56(1)(b) of the Act; and
+(d) Whether the Child Support payments in the amounts of $6,072, $5,268 and $3,184 in the 2000, 2001 and 2002 taxation years, respectively, if paid by Carol MacDonald to the Appellant, are deductible in computing Carol MacDonald’s income in the 2001 and 2002 taxation years pursuant to paragraph 60(b) of the Act.
+Background
+[3] The Appellant, Paul MacDonald and Carol MacDonald (Carol) have been living separate and apart from each other since November 18, 1993. They are the parents of two children, Wesley, born July 27, 1983, and Loren, born March 6, 1986. On July 16, 1996, a separation agreement[1] was executed by the Appellant and Carol, the relevant portions of which provide as follows:
+7.1 The husband and the wife have joint custody of the children, and the children will have their primary residence in the home of the husband, and the husband will have the day-to-day care and control of the children.
+10 Child Support
+10.1 Commencing on the 1st day of May, 1996, the wife will pay to the husband for the support of the children, the sum of $50.00 per month, per child (making a total of $100.00) payable in advance on the 1st day of each month, until June 30, 1996.
+10.2 The parties acknowledge that the wife is no longer employed after June 30, 1996, and thereafter child support will cease until such time as the wife obtains employment or the wife has an annual income in excess of $10,000.00.
+10.3 The wife will provide full and complete financial disclosure to the husband and provide written notice to the husband of her income from all sources commencing when she obtains employment and annually thereafter by May 1st of each year.
+10.4 It is the parties’ intention that the wife will resume paying ongoing monthly child support in accordance with the Federal Child Support Guidelines, and indexed annually in accordance with the cost of living, when her income from any source exceeds $10,000.00 per annum. When the income of the wife exceeds $10,000.00 per annum, the parties will enter into an agreement amending this separation agreement, to provide for the payment of child support. In the event that the parties cannot agree on the appropriate amount of child support, either party may resort to the provisions of this agreement with respect to dispute resolution.
+30.2 Any amendment of this agreement will be unenforceable unless made in writing and signed by each party before a witness.
+[4] Carol made no further contribution in 1996, albeit it is alleged that her earnings in that year exceeded $20,000.[2] In 1997, the first year following the execution of the separation agreement, an issue arose as to the resumption of child support payments. The issue was considered by both parties and on December 2, 1997, Carol’s solicitor advised the Appellant’s solicitor that her client had obtained a fulltime position as at December 15, 1997, and was prepared to pay child support pursuant to the Guidelines in the amount of $285 per month. A series of post-dated cheques were enclosed, dated for the first day of each month beginning January 1, 1998.[3] The evidence is unclear as to what, if any, payments were made in 1999, but there is no dispute that payments were made by Carol in 2000, 2001 and 2002 in the amounts of $6,072, $5,268 and $3,184, respectively. It is these amounts that are in issue.
+Appellant’s position
+[5] The Appellant contends that paragraph 10.2 of the separation agreement clearly establishes that as of June 30, 1996, child support ceased being paid by Carol. He further maintains that paragraph 10.4 reflects their agreement that once Carol was employed and earned an income in excess of $10,000 per year she would resume paying child support in accordance with the Federal Child Support Guidelines and that the parties would enter into a further agreement once the appropriate quantum of child support was established. The Appellant contends that it was understood by all of the parties at the time the original agreement was entered into, that any child support which might subsequently be paid by her would be in accordance with the new Guidelines and on “a tax‑neutral basis to both parties”. The Appellant does not dispute that since January 1, 1998, Carol made what he described as ad hoc payments on account of support for the children, but says that these amounts were determined at her sole discretion since there has never been an amending agreement or court order with respect to her post-March 1997 child support obligations, as was mandated by the original separation agreement.
+Carol’s position
+[6] The separation agreement executed July 16, 1996 is still intact, and the support payments were initiated and continued as intended therein. There was no amendment to the agreement to provide for the payment of child support as required by paragraph 10.4. Thus, she maintains that all of the subsequent support payments were made according to the Federal Guidelines and indexed annually as set out in paragraph 10.4 of the separation agreement. As well, since the separation agreement was dated prior to the changes in the Income Tax Act, it remained in force since any change in the agreement with respect to child support would have to be by mutual consent or Court order. That, she said, was not done.
+Analysis
+[7] The issue before the Court is whether certain child support payments made in taxation years 2000, 2001 and 2002 are to be included in computing the Appellant’s income as required by paragraph 56(1)(b) of the Act, and are deductible in computing Carol’s income in the 2001 and 2002 taxation years in accordance with paragraph 60(b) of the Act. The answer to these questions depends whether the payments were (a) made pursuant to a separation agreement signed July 16, 1996; (b) were made pursuant to an agreement, or to an amendment thereto, made after April 30, 1997; or (c) were ad hoc payments.
+[8] Payments for the support of a child are deductible by the payer under paragraph 60(b) and must be included in the income of the recipient under paragraph 56(1)(b). However, these rules do not apply to child support payments required to be made under agreements or orders made or varied after April 30, 1997. Payments made pursuant to such orders will not be taxable in the hands of the recipient and will not be deductible in the hands of the payer. Paragraphs 56(1)(b) and 60(b) contain the formula “A - (B + C)” to describe the payments that they cover. Amount “B” in the formula is the total of “child support amounts” that became receivable during the year under an agreement or order made or varied after April 30, 1997. The net result of the formula is that all support amounts are deductible by the payer and included in the income of the recipient except for the child support amounts described in B.
+[9] Two issues must be determined. First, was a commencement day as provided in subsection 56.1(4) of the Act actually established; and second, if a commencement day has not been established and the original separation agreement remains in force, whether the child support payments made by Carol after 1997 were in fact child support payments made pursuant to that written agreement, or whether they were ad hoc payments. The definition of commencement day is found in subsection 56.1(4). It reads:
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+[10] In the present case, given the evidence, there can be no dispute that subparagraph 56.1(4)(b)(i) is not relevant to the issue before the Court. With respect to paragraphs (b)(ii) and (iii), the following evidence must be considered. In a letter dated October 31, 1997,[4] the Appellant’s solicitor appears to have responded to an offer made by Carol’s solicitor by rejecting the amount of child support offered as being well below the Guidelines in force at that time. On December 2, 1997, Carol’s solicitor forwarded a letter to the Appellant’s solicitor, the relevant portions of which read:
+Further to our telephone conversation of November 13, 1997, my client has just advised me that she has obtained a full time position with a company in Richmond Hill as a Data Entry Clerk in Customer Service beginning December 15, 1997.
+…
+As you were advised earlier, now that my client has a full time position, she is prepared to pay child support pursuant to the amount under the Child Support Guidelines. My client’s annual earnings will be $20,800 per year. Pursuant to the Federal Child Support Guidelines, the amount of child support payable for a payor with two children with those earnings is $285 per month.
+Therefore, I enclose a series of 12 post-dated cheques payable to your client, in the amount of $285 dated for the 1st day of each month, beginning January 1, 1998.
+There is no evidence of the existence of a written acceptance of these “terms”, however it is not disputed that these cheques were accepted and cashed by the Appellant.
+[11] The first question is whether the exchange of these two letters and the cashed cheques can be read to have created a new agreement or varied the existing separation agreement, in which case, either subparagraph 56.1(4)(b)(ii) or 56.1(4)(b)(iii) of the definition of “commencement day” would apply. I note that in either instance, if such a conclusion is warranted, the support amounts would not be deductible to Carol or included in the Appellant’s income. The July 16, 1996 agreement provided that once Carol was employed and earned an income in excess of $10,000 per annum, she would commence paying child support in accordance with the Federal Child Support Guidelines. It was understood and indeed, it was clearly set out in paragraph 10.4 of the agreement that it was necessary for the parties to enter into an agreement amending the original separation agreement to provide for the renewal of payments of child support. There is no dispute that a subsequent written agreement or variation of the agreement, does not exist. Counsel for the Respondent, who quite properly took a neutral role in the course of this hearing, made reference to decisions of both the Tax Court and the Federal Court to the effect that a written agreement does not necessarily require the affixing of signatures of the parties and, that in certain circumstances, an exchange of letters signed by solicitors of the taxpayer and the spouse with the intent and effect of binding both the taxpayer and the spouse, was considered to be adequate.[5] However, there is no evidence to support a conclusion that the letters in issue were written with the intent and effect of binding the respective clients. Furthermore, I am of the view that these decisions are distinguishable in that paragraph 30.2 of the agreement in issue specifically provided that any amendment thereto is “unenforceable unless made in writing, and signed by each party before a witness”. That was not done.
+[12] As a result of the foregoing, it becomes necessary to determine whether the provisions found in paragraph 10.4 of the 1996 separation agreement are still operative for this purpose. The evidence before the Court clearly establishes that while those provisions of the separation agreement disclose an “intention” that Carol would resume paying monthly child support when her income reached a certain level, the language used does no more than set the stage for the execution of a new agreement, or for a variation by way of an amendment of the existing separation agreement with respect to the payment of child support. That, as I noted earlier, was not done.
+[13] The relevant provisions of the Income Tax Act, i.e. section 56.1 and paragraph 60(b), clearly establish that there must be a written agreement. This requirement is also set out in the definition of support amount. If there is no written agreement, the amounts are not includable in the recipient’s income, and are not deductible in computing the taxpayer’s income. I have concluded that the payments made by Carol are not support payments as defined by the Act, as they are not amounts payable pursuant to a court order or agreement. Rather, they can best be described as ad hoc payments made by Carol to the Appellant.
+[14] Accordingly, the answer to question (a) is yes; the answer to question (b) is no; the answer to question (c) is no; and the answer to questions (d) is no.
+[15] The appeals for the 2000, 2001 and 2002 taxation years are allowed on the basis that the Child Support payments in the amounts of $6,072, $5,268 and $3,184, respectively, received by the Appellant are not to be included in computing his income for those years
+Signed at Ottawa, Canada, this 1st day of November, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2005TCC707
+COURT FILE NO.:
+2004-4243(IT)I
+STYLE OF CAUSE:
+Paul M. MacDonald and Her Majesty the Queen and Carol MacDonald
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 16, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+November 1, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jenny Mboutsiadis
+For the Third Party:
+The Third Party herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1.
+[2] See Exhibit A-2.
+[3] Exhibit A-3.
+[4] Exhibit A-2.
+[5] See for example Foley v. R., [2000] 4 C.T.C. 2016; Grant v. R., [2001] 2 C.T.C. 2474; and Horkins v. R., [1976] C.T.C. 52.

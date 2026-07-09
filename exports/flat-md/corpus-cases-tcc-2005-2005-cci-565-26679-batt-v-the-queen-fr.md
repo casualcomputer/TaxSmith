@@ -1,0 +1,175 @@
+---
+title: "Batt v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26679/index.do"
+last_modified: "2005-08-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 565"
+citation2: ""
+neutral_citation: "2005 CCI 565"
+decision_date: "2005-08-24"
+language: "fr"
+item_id: "26679"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3524
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:37:37.713000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "31adb09c9132950cc4a7291ca81bf1983b4e103d0a8b880feba7a2b06478d402"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Batt v. The Queen
+
+- Citation: 2005 CCI 565
+- Decision date: 2005-08-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3524, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Batt v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-08-24
+Référence neutre
+2005 CCI 565
+Numéro de dossier
+2005-1387(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1387(IT)I
+ENTRE :
+ROBERT G. BATT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 15 août 2005, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Shaunagh Stikeman
+____________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l’avocate de l’intimée dans laquelle elle demande que soit rendue une ordonnance annulant l’appel de l’appelant pour le motif que l’appelant ne conteste pas le montant de l’impôt fédéral payable ou des cotisations au Régime de pensions du Canada payables, mais plutôt l’imputation de son remboursement pour l’année d’imposition 2003 sur le montant dont l’appelant était redevable à Sa Majesté la Reine du chef du Canada et, par conséquent, ne demande pas une mesure de redressement prévue par l’article 171 de la Loi de l’impôt sur le revenu; et vu qu’aucun avis d’opposition valide n’a été déposé relativement à l’année d’imposition 2003 comme l’exige l’article 169 de la Loi;
+ET APRÈS AVOIR lu l’affidavit de Dianne Martineau, déposé en preuve;
+ET APRÈS AVOIR entendu l’appelant et l’avocate de l’intimée;
+LA COUR ORDONNE QUE :
+1. la requête soit rejetée;
+2. l’intimée produise une réponse à l’avis d’appel dans les quatorze jours suivant la date de la présente ordonnance.
+Signé à Ottawa, Canada, ce 24e jour d’août 2005.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 15e jour de décembre 2005.
+Nathalie Boudreau, traductrice
+Référence : 2005CCI565
+Date : 20050824
+Dossier : 2005-1387(IT)I
+ENTRE :
+ROBERT G. BATT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bowie
+[1] L’intimée introduit la présente requête pour obtenir l’annulation de l’appel de M. Batt à l’encontre d’une cotisation établie en vertu du paragraphe 152(1) de la Loi de l’impôt sur le revenu[1] (la « Loi ») et de l’article 36 du Régime de pensions du Canada[2] (le « RPC »). Voici les motifs à l’appui de la requête tels qu’ils se trouvent dans l’avis de requête :
+[TRADUCTION]
+a) l’appelant ne conteste pas le montant de l’impôt fédéral payable ou des cotisations au Régime de pensions du Canada payables, mais plutôt l’imputation de son remboursement pour l’année d’imposition 2003 sur un montant qu’il devait à Sa Majesté la Reine du chef du Canada et, par conséquent, ne demande pas une mesure de redressement prévue par l’article 171 de la Loi de l’impôt sur le revenu (la « Loi »);
+b) aucun avis d’opposition valide n’a été déposé relativement à l’année d’imposition 2003 comme l’exige l’article 169 de la Loi.
+La requête est appuyée par un affidavit d’une agente de l’Agence du revenu du Canada. L’affidavit établit les faits suivants. En 2003, M. Batt avait gagné un revenu d’emploi et un revenu d’un travail indépendant. Il pouvait donc choisir de verser une cotisation supplémentaire au Régime de pensions du Canada. Lorsqu’il a produit sa déclaration de revenus pour 2003 vers le 30 avril 2004, il a annexé à sa déclaration une note indiquant qu’il voulait exercer ce choix et qu’il le ferait au plus tard le 30 juin, après qu’il aurait reçu le formulaire prescrit nécessaire (CPT20). Il a en effet obtenu le formulaire en question, l’a rempli le 20 mai et l’a produit auprès du ministre du Revenu national (le « ministre »), qui l’a reçu le 25 mai 2004. Le 28 mai 2004, le ministre a établi une cotisation à l’égard de l’appelant dans laquelle il a fixé le montant de l’impôt sur le revenu et des cotisations au RPC que celui-ci devait payer. Le ministre a déterminé que le revenu imposable de l’appelant était de 13 590 $ et a fixé à 696,77 $ le montant de l’impôt fédéral net qu’il devait payer. Compte tenu des impôts provinciaux et des cotisations au RPC que l’appelant devait payer et des crédits auxquels il avait droit, y compris de l’impôt payé par acomptes provisionnels et d’un crédit de taxe sur les ventes provincial, le ministre a déterminé que M. Batt avait droit à un remboursement de 1 437,44 $. Ce calcul a été fait sans tenir compte du choix exercé le 25 mai. Il est reconnu qu’à ce moment-là, M. Batt devait plus de 1 362,44 $ à Sa Majesté du chef du Canada pour un emprunt étudiant non remboursé, et le ministre a imputé le montant du remboursement sur le montant dont M. Batt était redevable à Sa Majesté du chef du Canada conformément au paragraphe 164(2) de la Loi. Il a envoyé à M. Batt, par la poste, un chèque de remboursement de 75 $, qui représentait le montant de son crédit de taxe sur les ventes provincial.
+[2] Plus tard, le ministre a traité le formulaire de choix de M. Batt et, conséquemment, a établi une nouvelle cotisation à son égard le 23 août 2004. Un montant de 299 $ a été ajouté au montant déduit dans le calcul du revenu de M. Batt à titre de cotisations au RPC, ce qui a donné lieu à une baisse de 95,17 $ du montant établi à titre d’impôt fédéral et à une baisse de 35,89 $ du montant établi à tire d’impôt de la Colombie-Britannique. Ses cotisations au RPC ont été majorées de 598,90 $. Ces changements ont donné lieu à une détermination selon laquelle M. Batt devait payer un montant net supplémentaire de 467,84 $ à titre d’arriérés. Sur ce montant, le ministre a imposé des intérêts sur arriérés de 7,15 $. Le ministre a annexé à l’avis de nouvelle cotisation un avis réclamant le paiement d’un montant de 474,99 $ représentant les arriérés de cotisations au RPC et les intérêts connexes.
+[3] M. Batt n’avait pas produit d’avis d’opposition à la cotisation initiale établie le 28 mai. Toutefois, il a produit un avis d’opposition à la nouvelle cotisation établie le 23 août. Ce document a été signé le 19 novembre 2004, et une copie d’une lettre envoyée par M. Batt au Centre fiscal de Surrey de l’ARC le 27 août y était annexée. Bien que M. Batt n’ait pas formulé les motifs de son opposition en des termes juridiques précis, les points suivants ressortent des documents en question :
+a) M. Batt conteste l’obligation de payer 474,99 $ au ministre;
+b) il s’oppose à toute pénalité ou intérêt;
+c) il est d’avis que le ministre devrait se servir de la partie du remboursement initial imputée sur le prêt étudiant (1 362,44 $) pour régler tout montant exigible par suite de la nouvelle cotisation.
+[4] Les agents du ministre ont fait peu de cas de l’avis d’opposition. Le 8 décembre 2004, l’un d’eux a écrit la lettre suivante à M. Batt :
+[TRADUCTION]
+Nous vous avisons que l’opposition que vous avez présentée ne peut pas être considérée comme valide.
+Un particulier peut s’opposer officiellement à une cotisation ou à une nouvelle cotisation, mais il ne peut pas s’opposer aux méthodes comptables de l’ARC ou à ses méthodes d’attribution des crédits et des remboursements. Le document que vous avez envoyé ne peut donc pas être considéré comme un avis d’opposition valide aux termes de la Loi de l’impôt sur le revenu.
+Nous regrettons de ne pas pouvoir vous donner une réponse plus favorable.
+M. Batt a déposé son avis d’appel à la Cour le 25 janvier 2005, donnant ainsi lieu à la présente requête. Je fais remarquer que cette requête n’a été présentée que le 27 juin 2005, date qui dépasse de beaucoup le délai imparti par les Règles de la Cour canadienne de l’impôt pour le dépôt de la réponse de l’intimée à l’avis d’appel. Comme je l’ai dit au départ, les motifs invoqués à l’appui de la requête sont que l’appelant ne peut pas déposer une opposition ou un appel à l’égard de la façon dont le ministre impute un remboursement qu’il lui doit parce que cela ne fait pas partie des pouvoirs en matière de cotisation que le paragraphe 152(1) de la Loi confère au ministre et que seule une cotisation (et une nouvelle cotisation) peut faire l’objet d’une opposition et d’un avis d’appel. Subsidiairement, la représentante du ministre a soutenu que l’appel devrait être annulé parce qu’aucun avis d’opposition valide n’a été produit, ce qui découle entièrement de la façon abusive dont le ministre a rejeté l’avis d’opposition dont j’ai fait mention précédemment.
+[5] La question à laquelle je dois maintenant répondre est de savoir si l’appelant peut, en vertu du paragraphe 165(1), s’opposer à la nouvelle cotisation établie à son égard en août et, ensuite, interjeter appel de la nouvelle cotisation en vertu du paragraphe 169(1). Les dispositions pertinentes de la Loi sont ainsi rédigées :
+152(1) Le ministre, avec diligence, examine la déclaration de revenu d’un contribuable pour une année d’imposition, fixe l’impôt pour l’année, ainsi que les intérêts et pénalités éventuels payables et détermine :
+a) le montant du remboursement éventuel auquel il a droit en vertu des articles 129, 131, 132 ou 133, pour l’année;
+b) le montant d’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 125.4(3), 125.5(3), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année.
+165(1) Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu’il s’agit d’une cotisation relative à un contribuable qui est un particulier (sauf une fiducie) ou une fiducie testamentaire, pour une année d’imposition, au plus tard le dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année,
+(ii) le 90e jour suivant la date de mise à la poste de l’avis de cotisation;
+b) dans les autres cas, au plus tard le 90e jour suivant la date de mise à la poste de l’avis de cotisation.
+169(1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+Je conclus que l’appelant a le droit de contester, au moyen d’une opposition et d’un appel, la nouvelle cotisation établie en août et que je dois donc rejeter la requête. Étant donné que la question doit être entendue et tranchée par un autre juge à un autre moment, je ne vais rien dire de plus que ce qui est nécessaire pour expliquer ma conclusion. Il va de soi qu’il reviendra au juge qui entendra l’appel de déterminer si la contestation de la nouvelle cotisation est fondée. Je ne fais que décider que M. Batt a le droit d’être entendu.
+[6] La raison pour laquelle je parviens à ma décision est tout simplement la suivante. Si je comprends bien, la position de M. Batt est que comme il a exercé son choix avant que la cotisation initiale ne soit établie à son égard le 28 mai, le ministre devait tenir compte de son choix. Si le ministre avait tenu compte de son choix, la cotisation aurait été essentiellement identique à celle établie en août, à une exception près. Étant donné que le remboursement d’impôt sur le revenu auquel il avait droit aurait d’abord été utilisé pour payer sa cotisation supplémentaire au RPC, le solde étant ensuite imputé sur son emprunt étudiant, il n’y aurait pas eu d’arriérés et, par conséquent, pas d’intérêts sur arriérés à imposer selon l’article 36 du Régime. L’appelant n’a pas produit d’avis d’opposition ou d’avis d’appel relativement à la cotisation initiale. Toutefois, je suis d’avis qu’il a le droit de soulever cette question maintenant et de faire valoir qu’il n’est pas redevable du montant peu élevé d’intérêts qui a été établi à son égard. Selon moi, même si l’appelant obtient gain de cause dans cet appel, cela aura très peu de valeur pratique pour lui, parce que tout intérêt épargné sur sa cotisation relative au RPC sera effectivement annulé par des intérêts supplémentaires sur son emprunt étudiant. Toutefois, cela ne justifie pas que l’appelant soit privé de son droit d’interjeter appel devant la Cour s’il veut le faire. Il revient à M. Batt, et non au ministre ou à moi, de décider s’il est utile de poursuivre l’appel.
+[7] Avant de conclure, je veux exprimer mon opinion sur le caractère inapproprié de la présente requête. Le législateur a prévu dans la Loi sur la Cour canadienne de l’impôt[3] que les appels où les montants en cause sont peu élevés doivent être poursuivis avec promptitude. Il n’y a pas de production de documents ou de communication préalable, ni par voie orale ni par voie d’interrogatoires. L’intimée dispose de 60 jours pour répondre à l’avis et, sauf dans des cas exceptionnels, l’audition de l’appel doit avoir lieu au plus tard 180 jours après l’expiration de ce délai. Les requêtes de ce genre sont l’antithèse de la procédure sommaire que le législateur avait envisagée. Elles n’ont aucune fin utile, sauf qu’elles permettent au sous-procureur général de ne pas avoir à produire de réponse à l’avis d’appel. Tout argument présenté à l’occasion d’une requête en annulation peut également être présenté lors de l’instruction de l’appel. À de rares occasions, il pourrait y avoir des affaires où les faits sont très complexes et où une préparation approfondie est nécessaire avant l’instruction sur le fond, ou des affaires où les témoins doivent venir de loin pour participer à l’audience; dans de tels cas, il pourrait être justifié que l’intimée soulève des objections techniques à l’appel avant qu’elle ne présente sa plaidoirie. Toutefois, dans les affaires ordinaires, et certainement dans des affaires comme celle-ci où aucun fait ne semble être contesté, de telles requêtes n’ont aucune fin utile et ont pour résultat de contrecarrer l’intention claire du législateur. La présente affaire illustre bien ce genre de situation. Il y a maintenant sept mois que l’avis d’appel a été produit, et l’affaire n’a pas du tout progressé. Sans avoir obtenu l’autorisation de la Cour ou le consentement de l’appelant, le sous-procureur général a passé outre à l’obligation de répondre à l’avis dans les 60 jours, et il est en retard de cinq mois à cet égard. Dans l’avis de requête, il a demandé, à titre subsidiaire, une prolongation du délai dans lequel il doit produire une réponse. Au moment où il a déposé l’avis de requête, il avait déjà accusé un retard de trois mois. N’eût été du fait que cela rendrait l’audience plus difficile que nécessaire pour l’appelant et le juge qui présidera l’audience, je refuserais complètement la demande de prolongation. Toutefois, il semble qu’aucun fait n’est contesté en l’espèce, alors l’intimée ne peut tirer aucun avantage du fait de faire valoir des hypothèses de fait. Je vais donc accorder une brève prolongation du délai, de sorte que l’appelant et le juge qui présidera l’instance puissent connaître avec une certaine précision la position que prendra l’intimée au moment de l’audition de l’appel.
+[8] La requête est rejetée. L’intimée doit produire une réponse dans les quatorze jours suivant la date d’envoi de mon ordonnance. J’aimerais avoir le pouvoir d’accorder les frais de la requête à l’appelant; il faut décourager ce genre de requête.
+Signé à Ottawa, Canada, ce 24e jour d’août 2005.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 15e jour de décembre 2005.
+Nathalie Boudreau, traductrice
+RÉFÉRENCE :
+2005CCI565
+NO DU DOSSIER :
+2005-1387(IT)I
+INTITULÉ :
+Robert G. Batt
+et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 15 août 2005
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge E.A. Bowie
+DATE DE L’ORDONNANCE :
+Le 24 août 2005
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Shaunagh Stikeman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. 1 (5e suppl.).
+[2] L.R.C. 1985, ch. C-8.
+[3] L.R.C. 1985 ch. T-2, articles 18 à 18.28.

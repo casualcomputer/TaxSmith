@@ -1,0 +1,130 @@
+Title: 4340876 Canada Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/120075/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-351-120075-4340876-canada-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-11-24
+
+# 4340876 Canada Inc. v. The Queen
+
+- Citation: 2014 TCC 351
+- Decision date: 2014-11-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2713, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+4340876 Canada Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-11-24
+Neutral citation
+2014 TCC 351
+File numbers
+2014-410(GST)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-410(GST)I
+BETWEEN:
+4340876 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on October 15, 2014 at Ottawa, Ontario
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+Counsel for the appellant:
+Nicholas D’Aoust
+Counsel for the respondent:
+Joëlle Bitton
+JUDGMENT
+The appeal from the assessment dated January 3, 2013, made under Part IX of the Excise Tax Act for the period from January 1, 2009, to December 31, 2010, is dismissed in accordance with the attached reasons for judgment.
+Signed at Toronto, Ontario, this 24th day of November 2014.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+On this 9th day of November 2015
+Johanna Kratz, Translator
+Citation: 2014 TCC 351
+Date: 20141124
+Docket: 2014-410(GST)I
+BETWEEN:
+4340876 CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+[1] This is an appeal from an assessment made on January 3, 2013, under the Excise Tax Act (the ETA) by the Canada Revenue Agency (the Minister). This assessment concerns the January 1, 2009, to December 31, 2010, period and regards the operation of a restaurant known under the name of Olive & Co. (the restaurant) located in the city of Gatineau, province of Quebec.
+[2] In this assessment, the respondent is seeking additional tax in the amount of $13,801.16, and a penalty of $6,000 under section 285 of the ETA. She is also claiming interest in the amount of $3,204.96 for additional income that she alleges was not reported by the appellant and which the Minister estimates to be $180,600 for the period ending on December 31, 2009, and $94,455 for the period ending on December 31, 2010.
+[3] An audit revealed that the appellant used handwritten meal bills to record sales during the period in question. The auditor, Marie Carmel Nazon, assisted by her team leader, Hélène Morand, attempted, unsuccessfully, to reconcile the meal bills with the bank statements and the cash reported by the appellant.
+[4] For this purpose, the auditors sampled a seven-day period, for which they reconciled the sales recorded by the appellant by using the total of payments received by the appellant from various sources. The Minister's representatives noted a number of anomalies in the meal bills, making it impossible to reconcile them. First, the total of the daily meal bills for the seven-day period did not match the total of the bank statements. Second, there were gaps in the number sequence of the meal bills, with several numbers missing. Ms. Morand testified that she had checked whether the missing invoices were used in the days that followed and had found that this was not the case. Lastly, the meal bills were missing dates.
+[5] In light of these irregularities, the Minister's representatives suspected that the appellant had not reported all the cash sales made during the period in question. They therefore used an indirect audit method to reconstruct the appellant's sales, and their analysis revealed that the cash sales increased considerably following the implementation of an electronic system for registering sales in the appellant's restaurant, in accordance with new provincial tax obligations.
+[6] In fact, since no later than November 1, 2011,[1] section 350.52 of the Act Respecting the Québec Sales Tax (the AQST) obliges operators of establishments providing restaurant services located in Quebec to use a sales recording module (SRM) selected by the Agence du revenue du Québec to record data relating to such establishments' commercial transactions. The SRM must be connected to the establishment's electronic sales registration system and be able to send the information required to print invoices to a receipt printer. Furthermore, restaurant operators are now obliged to give their customers a copy of the bill when supplying them with a meal.
+[7] In order to comply with these new measures, the appellant installed and activated an SRM in April 2011.
+[8] From that date, and for the year immediately following the period at issue in this case, the appellant's registered cash sales represented 20.31% of the business's total sales that year. For the first four months of 2012, this percentage was 19.08%. According to the appellant's reports, for the periods ending December 31, 2009, and December 31, 2010, the cash sales represented 10.44% and 9.27%, respectively.
+[9] In light of these findings, the Minister's representatives reconstructed the business's sales for the periods at issue by increasing cash sales to 20%, which corresponds to the average cash sales for the January 1, 2011, to April 6, 2012, period.
+[10] In her testimony, Ms. Morand explained that the auditor made a calculation error to the appellant's advantage for the period ending December 31, 2010. In fact, the auditor increased the total card deposits by applying the reconstructed sales factor of 28%, a figure that includes tips. Ms. Morand then stated that the auditor should have increased the total card deposits by a factor of 1.38 to obtain a better reconstruction of the restaurant's total sales for this period.[2]
+[11] As a result of this error, the Minister underestimated by $108,874.01 the appellant's unreported sales for the period ending on December 31, 2010. The Minister nonetheless chose not to amend its assessment.
+[12] Mario Ménard, the appellant's president, testified for the appellant at the hearing. According to Mr. Ménard, the gaps in the number sequences of the meal bills noted by the Minister's representatives could be explained by the fact that the restaurant's employees did not use all the bills in the booklets given to them in one day.
+[13] A booklet of bills contains 50 forms (meal bills). Mr. Ménard explained that he was in the habit of assembling unused meal bills into packs of 50, which he then gave back to the employees so that they could use them. Consequently, in his opinion, except for a few invoices taken by the restaurant's clients, the missing bills for the seven-day period sampled by the auditor were used during a later period. The appellant, however, did not produce any documentary evidence to corroborate Mr. Ménard's testimony. If Mr. Ménard's explanation were true, the appellant could have adduced the missing bills in order to establish that no sales were being concealed.
+[14] The appellant could also have called one of the restaurant's waiters to testify in order to corroborate Mr. Ménard's testimony.
+[15] Mr. Ménard further testified that 2011 saw an exceptional percentage of cash sales. According to Mr. Ménard, the economy in the Gatineau area was sluggish that year. The restaurant's clients therefore preferred paying cash as a result of the difficult local economic conditions. This explanation does not seem plausible given that the business's sales grew by 11.5% from 2010 to 2011. This increase is not consistent with an ailing economy.
+[16] In my opinion, it is not a coincidence that the appellant recorded a considerable increase in sales following the implementation of the SRM in April 2011.
+[17] Serge Lafortune, the appellant's external accountant, also testified for the appellant. He attempted to demonstrate that the auditor made significant errors in her calculation of the business's reconstructed sales for the impugned period. However, except for the calculation error to the appellant's advantage for the period ending on December 31, 2010, Mr. Lafortune failed to satisfy me that the reconstructed sales were miscalculated.
+[18] For example, Mr. Lafortune stated that the auditor failed to consider the amount of cash sales registered by the appellant. This is not the case. The auditor chose rather to present the cash sales under two items, bank deposits as recorded in the appellant's bank accounts and purchases paid for in cash from the money received in cash by the restaurant. The other error described by Mr. Lafortune does not affect the reconstructed sales.
+[19] Counsel for the appellant argued that an alternative auditing method could not be used in this matter because the appellant had all its accounting records and the auditor did not identify a significant gap in the information recorded by the appellant.
+[20] With respect, it is well-established that the Minister may use alternative methods when there are deficiencies in the methods used by taxpayers to register their sales. In the matter under review, the audit allowed the Minister's representative to discover significant anomalies with respect to the meal bills used to register the restaurant's sales during the impugned period.
+[21] As noted above, the appellant could have adduced documentary evidence to corroborate Mr. Ménard's testimony that the missing bills were used during a later period. In fact, the appellant knew that the missing bills were one of the main reasons leading the Minister to use an alternative method. In the absence of corroborating evidence, I have to draw a negative inference with regard to the appellant.
+[22] In light of the evidence before me, I am satisfied that the Minister had reason to use an indirect method to determine the sales paid for in cash during the period under review.
+[23] Counsel for the appellant challenged the reliability of the alternative method, arguing that the sales paid for in cash should have been computed using a 13.55% average for cash sales for the 2009, 2010 and 2011 taxation years. In my opinion, since the evidence demonstrates that the appellant did not report all its cash sales in 2009 and 2010, it would have been incorrect to consider the average cash sales during the relevant period.
+[24] The evidence reveals significant and repeated omissions in the appellant's goods and services tax return, namely unreported sales in the amount of $180,600 and $94,455 for the 2009 and 2010 taxation years, respectively. As a result, the only possible conclusion is that the appellant intentionally concealed a signification portion of its cash sales during the impugned period. This amounts to gross negligence, which warrants the imposition of a penalty under section 285 of the ETA by the Minister.
+[25] For these reasons, the appeal is dismissed.
+Signed at Toronto, Ontario, this 24th day of November 2014.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+On this 9th day of November 2015
+Johanna Kratz, Translator
+CITATION:
+2014 TCC 351
+COURT FILE NO.:
+2014-410(GST)I
+STYLE OF CAUSE:
+4340876 CANADA INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+October 15, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+November 24, 2014
+APPEARANCES:
+Counsel for the appellant:
+Nicholas D’Aoust
+Counsel for the respondent:
+Joëlle Bitton
+COUNSEL OF RECORD:
+For the appellant:
+Name
+Nicholas D’Aoust
+Firm:
+D’Aoust Légal
+Gatineau, Quebec
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Order in Council 641-2010, (2010) G.O.Q. II, 3229, stipulates that section 350.52 of the AQST comes into force on November 1, 2011, or on the date on which, after August 31, 2010, the operator activates an SRM in a restaurant if this date predates November 1, 2011.
+[2] By using this factor, the restaurant's total gross sales would have been $1,567,494.06 rather than $1,444,602.52.

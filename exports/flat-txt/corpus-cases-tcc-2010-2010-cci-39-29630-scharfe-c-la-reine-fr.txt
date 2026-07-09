@@ -1,0 +1,194 @@
+Title: Scharfe c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29630/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-39-29630-scharfe-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-02-02
+
+# Scharfe c. La Reine
+
+- Citation: 2010 CCI 39
+- Decision date: 2010-02-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6137, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scharfe c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-02-02
+Référence neutre
+2010 CCI 39
+Numéro de dossier
+2007-3992(IT)I, 2008-2611(GST)I
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2010 CCI 39
+Date : 20100202
+Dossier : 2007-3992(IT)I,
+2008-2611(GST)I.
+ENTRE :
+MARK SCHARFE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Représentant de l’appelant :
+K.E. Koshy
+Avocate de l’intimée :
+Me Suzanie Chua
+MOTIFS DU JUGEMENT
+(Rendus oralement par conférence téléphonique
+le 25 septembre 2009, à Ottawa (Ontario))
+[1] L’appelant, Mark Scharfe, a présenté deux appels. Le premier a trait à des cotisations d’impôt sur le revenu concernant ses années d’imposition 2002, 2003 et 2004; le second a trait à des cotisations de TPS concernant ses périodes de déclaration de TPS qui ont débuté le 1er janvier 2002 et pris fin le 31 décembre 2004.
+[2] Les deux appels ont été entendus ensemble, sur preuve commune.
+[3] La Cour rend d’abord sa décision concernant l’appel relatif à l’impôt sur le revenu.
+[4] Au début de l’audience, les parties ont convenu que la Cour était saisie des trois questions suivantes :
+- l’appelant avait‑il droit aux déductions pour dépenses d’entreprise refusées par le ministre du Revenu national (le « ministre »), d’un montant de 35 856 $, de 17 519 $ et de 9 771 $ pour les années d’imposition 2002, 2003 et 2004, respectivement?
+- l’appelant avait‑il droit aux déductions pour dépenses agricoles refusées par le ministre, d’un montant de 2 416 $ et de 5 479 $ pour les années d’imposition 2002 et 2003, respectivement?
+- le ministre a‑t‑il limité à juste titre la perte agricole que l’appelant a déduite pour l’année d’imposition 2004?
+[5] Deux personnes ont témoigné à l’audience. M. Scharfe a témoigné à l’appui de son dossier, et un vérificateur de l’Agence du revenu du Canada (l’« ARC »), M. Michael Kocher, a témoigné pour l’intimée.
+[6] L’avocate de l’intimée a mis en doute la crédibilité de l’appelant et a soutenu que la Cour ne devait pas prêter foi au témoignage de ce dernier.
+[7] Je ne suis pas du tout d’accord avec l’avocate de l’intimée. J’ai conclu que M. Scharfe était honnête. Il a répondu à toutes les questions au mieux de sa connaissance. Il n’est pas surprenant qu’il n’ait pas pu répondre de manière précise à toutes les questions posées, vu le temps écoulé et le fait que, au cours de la période en cause, il s’efforçait de maintenir son entreprise agricole à flots pendant une situation de crise en plus de lancer trois nouvelles entreprises, et qu’il tentait de faire tout cela tout en continuant d’exercer ses fonctions d’agent de police.
+[8] M. Scharfe a été un témoin crédible, et je prête foi à son témoignage.
+[9] Le représentant de l’appelant a semblé mettre en doute les méthodes qu’a employées M. Kocher, l’employé de l’ARC qui a mené la vérification à l’égard de l’appelant. Je rejette toute allégation selon laquelle le travail de M. Kocher a laissé à désirer. Il est clairement ressorti du témoignage de l’appelant ainsi que de celui de M. Kocher que la tenue de livres et de registres n’était pas l’un des points forts de l’appelant.
+[10] M. Kocher a fait de son mieux compte tenu des informations dont il disposait. Il était lui aussi un témoin crédible, et je prête foi à son témoignage.
+[11] Il convient de signaler que l’appelant n’est pas la seule partie qui n’a pas été en mesure de produire des informations qui auraient été utiles à la Cour. L’avocate de l’intimée a avisé la Cour que tous les dossiers de l’ARC au sujet de l’année d’imposition 2002 de l’appelant avaient été détruits.
+[12] De plus, l’avocate de l’intimée a informé la Cour que l’ARC n’avait pas été en mesure de calculer le montant d’impôt qui était en litige pour chacune des trois années d’imposition visées par l’appel.
+[13] Le fait que l’ARC était incapable de calculer le montant d’impôt en litige a représenté un problème pour la Cour. Lors de l’exposé final du représentant de l’appelant, j’ai pris conscience du fait que les montants qui étaient en litige pour au moins deux des années d’imposition visées par l’appel pouvaient dépasser la limite de 12 000 $ fixée pour les instances soumises à la procédure informelle de la Cour ou, subsidiairement, la limite de 24 000 $ fixée au titre des pertes.
+[14] J’ai alors donné instruction à l’avocate de l’intimée de déterminer les montants qui étaient en litige pour chacune des années d’imposition. Après avoir discuté de la question avec sa cliente, l’avocate a réitéré que l’ARC n’était pas en mesure de calculer les montants en litige.
+[15] Heureusement, le représentant de l’appelant m’a informé que son client avait choisi de restreindre l’appel aux limites fixées au paragraphe 18(1) de la Loi sur la Cour canadienne de l’impôt (la « LCCI ») : les montants en cause sont égaux ou inférieurs à 12 000 $ ou les pertes déterminées aux termes du paragraphe 152(1.1) de la Loi de l’impôt sur le revenu (la « LIR) sont égales ou inférieures à 24 000 $.
+[16] Par suite du choix de l’appelant, l’appel s’est déroulé sous le régime de la procédure informelle, en application de l’article 18.13 de la LCCI.
+[17] Examinons maintenant les faits qui ont été soumis à la Cour. Je commencerai par analyser les activités agricoles.
+[18] Il ressort clairement de la preuve que M. Scharfe et sa famille sont des travailleurs acharnés qui tirent une grande fierté de leur exploitation agricole et qui ont travaillé d’arrache-pied ces dernières années pour s’assurer que cette exploitation survivrait à la crise de la maladie de la vache folle.
+[19] L’appelant a vécu ou travaillé dans cette exploitation agricole (aussi appelée ci-après la « ferme ») pendant la majeure partie de sa vie. Il a grandi sur cette ferme, qui appartenait au départ à son père. En fait, la ferme appartient à la famille de l’appelant depuis 1911.
+[20] L’appelant a fréquenté une école d’agriculture et a ensuite travaillé pendant une période d’un an et demi à deux ans dans une ferme expérimentale exploitée par l’État.
+[21] En 1981, l’appelant est devenu membre du Service de police d’Ottawa.
+[22] En 1985, l’appelant a acheté du bétail et du matériel agricole de son père et a convenu de louer de ce dernier 49 acres de terres agricoles.
+[23] En 1998, l’appelant a acheté de son père les 49 acres de terres agricoles.
+[24] L’appelant s’est servi d’un acre de ces terres pour y habiter. Les 48 acres restants ont été utilisés pour l’exploitation agricole. De plus, il a déclaré qu’au cours des périodes en litige, il avait loué des terres adjacentes additionnelles, d’une superficie de cent acres, pour son entreprise agricole.
+[25] Il ressort clairement du témoignage de l’appelant que l’exploitation agricole était importante. Cette dernière comportait plusieurs structures, dont deux immeubles utilisés pour le bétail et l’entreposage du foin, une structure de 40 pieds sur 80 pieds bâtie il y a un certain temps, appelée la [traduction] « vieille grange », de même qu’une structure de 42 pieds sur 110 pieds, bâtie en 2002, appelée la [traduction] « nouvelle grange ».
+[26] De plus, l’appelant a acheté de son père du matériel agricole, qu’il a constamment modernisé, dont des tracteurs et du matériel destiné au foin et au bétail.
+[27] L’appelant a déclaré qu’il répartissait son temps entre son travail d’agent de police et l’exploitation de la ferme. Il travaillait 40 heures par semaine comme agent de police et consacrait au moins 40 heures par semaine à l’exploitation agricole.
+[28] L’exploitation de la ferme est une entreprise familiale. L’épouse de l’appelant a grandi dans une ferme d’élevage de bovins. Elle supervise le fonctionnement de la ferme quand l’appelant est au travail, surveille le bétail, donne des instructions aux chauffeurs de camion et s’occupe de tous les appels téléphoniques.
+[29] D’après la preuve présentée à la Cour, les trois enfants de l’appelant participent eux aussi au fonctionnement de la ferme. L’appelant a déclaré qu’au cours de la période en litige, ses trois fils ont consacré la majeure partie de leur temps à l’exploitation des entreprises en démarrage, qui seront analysées sous peu.
+[30] L’appelant a déclaré que son intention était de développer l’entreprise agricole de façon à ce que celle-ci puisse subvenir aux besoins de sa famille une fois qu’il aurait pris sa retraite du service de police.
+[31] Au cours des années visées par l’appel, le secteur bovin canadien a été frappé par crise de la maladie de la vache folle. L’appelant a fait remarquer que le prix du bétail s’est effondré après que les États-Unis ont fermé leurs frontières au bétail canadien. Au cours de cette période, l’appelant s’est dit qu’il devait trouver d’autres sources de revenus s’il voulait sauver la ferme. C’est ainsi qu’il a lancé trois entreprises accessoires : une entreprise d’entreposage frigorifique, une entreprise de vente par Internet de bretelles pour ceinturons de service de la police, de même qu’une entreprise de sécurité à domicile.
+[32] Selon la preuve présentée à la Cour, la vieille grange et la nouvelle grange ont servi à exploiter l’entreprise d’entreposage frigorifique, et cela a obligé l’appelant à laisser le bétail et le foin dans les champs. Le matériel agricole a été enlevé de la grange et mis sous bâche.
+[33] L’entreprise de vente de bretelles pour ceinturons de service de la police était exploitée à partir du domicile de l’appelant. Ce dernier avait conçu des bretelles que les agents de police pouvaient porter en vue de répartir le poids de leur matériel; elles étaient conçues pour atténuer le poids que ce matériel exerçait sur leur dos. L’appelant confiait la confection des bretelles à des entreprises situées en Ontario.
+[34] L’entreprise de sécurité à domicile consistait à vendre des systèmes de surveillance à des propriétaires de maison. L’appelant concluait un contrat avec une tierce partie pour la fourniture des services de surveillance.
+[35] L’appelant a déclaré qu’il se présentait une fois par année au bureau local de l’ARC pour discuter de ses déclarations fiscales. Il suivait les suggestions des fonctionnaires de l’ARC et déclarait les revenus tirés des trois entreprises comme s’ils provenaient d’une seule et même entreprise.
+[36] J’examinerai maintenant les questions en litige.
+[37] J’analyserai en premier la déduction des dépenses d’entreprise que le ministre a refusées.
+[38] Ces dépenses ont trait aux trois entreprises accessoires dont il a été question plus tôt. L’intimée n’a pas mis en doute le fait de savoir si l’exploitation des entreprises constituait une source de revenus. En fait, l’ARC a accepté la déduction de nombreuses dépenses.
+[39] La seule question qui m’est soumise est la déduction de certaines dépenses de l’appelant. J’examinerai chacune des catégories de dépenses mentionnées dans la réponse.
+[40] La première catégorie a été qualifiée de « salaires ». Le ministre a refusé le montant de 7 300 $ que l’appelant avait déduit pour son année d’imposition 2002. L’intimée n’a pas semblé refuser les montants que l’appelant avait déduits à titre de salaire pour ses années d’imposition 2003 et 2004.
+[41] L’appelant a déclaré que ses trois enfants aidaient à exploiter les entreprises accessoires. Son fils aîné, âgé de 14 ans en 2002, aidait à faire fonctionner le site Web relatif à l’entreprise des bretelles de police. Ses deux autres fils, âgés de 10 ans et de 12 ans en 2002, exécutaient de nombreuses tâches. Par exemple, ils aidaient à préparer les ceinturons à expédier, aidaient à entretenir les bâtiments d’entreposage, enlevaient la neige, coupaient l’herbe et aidaient à nettoyer les installations d’entreposage après le départ d’un locataire.
+[42] L’appelant payait à chacun de ses enfants la somme de 10 $ par jour pour le travail qu’ils accomplissaient. Il était d’avis qu’il s’agissait là d’un montant raisonnable qui tenait compte du nombre moyen d’heures de travail qu’ils effectuaient pendant l’année.
+[43] L’ARC a accepté la déduction relative au fils aîné de l’appelant, mais non les montants déduits en rapport avec ses deux fils cadets. Elle n’a pas jugé que les montants étaient raisonnables, à cause de l’âge des enfants.
+[44] Je ne puis souscrire à la position de l’ARC. La somme de 10 $ par jour semble être un montant raisonnable à payer aux enfants pour le travail accompli. Il ressort clairement de la preuve qu’il s’agissait d’une période extrêmement difficile pour l’appelant sur le plan financier, et tous les membres de la famille étaient obligés de travailler dans les entreprises accessoires.
+[45] Par ailleurs, l’appelant a déclaré que ses deux fils cadets ont été rémunérés en 2003 et en 2004. L’ARC n’a toutefois pas refusé la déduction de ces salaires. Si l’ARC a jugé que les montants payés étaient raisonnables en 2003 et en 2004, ils l’étaient certainement aussi en 2002.
+[46] De ce fait, je conclus que l’appelant avait le droit de déduire la somme de 7 300 $ à titre de dépense d’entreprise pour son année d’imposition 2002.
+[47] La deuxième catégorie de dépenses d’entreprise a été qualifiée de « frais de repas et de représentation ». L’ARC a refusé les montants déduits pour chacune des années pertinentes : à savoir 1 375 $, 2 433 $ et 2 079 $ pour les années d’imposition 2002, 2003 et 2004, respectivement.
+[48] Selon la preuve de l’intimée, les montants susmentionnés équivalaient à 50 % des dépenses réellement engagées. L’appelant a déclaré qu’il avait engagé les frais de repas et de représentation au cours de la mise en marché de l’entreprise d’entreposage frigorifique. Le marché qu’il visait était les exploitants de petite entreprise qui avaient besoin d’espace d’entreposage à prix modique.
+[49] Il a décrit ses clients cibles comme des [traduction] « travailleurs acharnés et responsables ». Il était d’avis que ces clients potentiels mangeaient dans des restaurants de l’endroit qui servaient de bons repas à prix raisonnable. Il se disait qu’en les rencontrant dans leur milieu, il pouvait les convaincre des avantages de recourir à une personne de l’endroit pour répondre à leurs besoins d’entreposage.
+[50] L’appelant a présenté environ 250 factures à l’appui de ses déductions. Autrement dit, il a fréquenté de nombreux restaurants. L’ARC a refusé tous les montants déclarés au motif qu’il s’agissait de dépenses personnelles.
+[51] Il incombe à l’appelant de produire une preuve pour réfuter la présomption de l’ARC selon laquelle les dépenses n’ont pas été engagées en vue de tirer un revenu d’une entreprise. Je suis d’avis que la preuve que l’appelant a produite réfute avec succès cette présomption.
+[52] Cependant, le témoin de l’intimée a également fourni une preuve à l’appui de la position de l’ARC. En particulier, il a fait référence à neuf reçus que l’appelant avait présentés à l’ARC. J’ai examiné ces neuf reçus. Sept d’entre eux, totalisant la somme de 386,03 $, semblent s’appliquer à de la nourriture qui a été livrée au domicile de l’appelant. Les deux autres reçus corroborent la preuve que l’appelant a fournie. Par ailleurs, ce dernier a présenté une autre série de 241 reçus auxquels le témoin de l’intimée n’a fait référence qu’en termes généraux.
+[53] L’intimée a déposé une preuve montrant que des dépenses de 386,03 $ étaient de nature personnelle, mais je conclus que la preuve que l’appelant a produite étaye sa position selon laquelle le montant restant, soit des dépenses de 11 387,97 $, a été engagé en vue de tirer un revenu d’une entreprise. La moitié de ce montant, soit 5 693,98 $, doit être déduit comme suit : 1 375 $ pour l’année d’imposition 2002, 2 331,87 $ pour l’année d’imposition 2003 et 1 987,11 $ pour l’année d’imposition 2004.
+[54] La troisième catégorie de dépenses a été qualifiée de « frais de réparation et d’entretien ». Le ministre a refusé le montant de 27 181 $ qui a été déduit pour l’année d’imposition 2002 et celui de 8 764 $ pour l’année d’imposition 2003, au motif qu’ils avaient été déboursés au titre du capital et non pour produire un revenu.
+[55] L’appelant a fait valoir que ces dépenses ont été faites pour produire un revenu. Il a fait remarquer qu’elles avaient été effectuées en vue de transformer les granges, et surtout la vieille grange, de façon à pouvoir les louer comme lieu d’entreposage frigorifique.
+[56] À l’appui de la position de l’appelant, le représentant de ce dernier a renvoyé la Cour à de nombreuses factures que l’intimée a déposées (pièce R‑1, pages 21, 22, 23 et 28).
+[57] Il me semble que la totalité des factures auxquelles le représentant de l’appelant s’est reporté ont trait à des dépenses en capital. Les dépenses mentionnées dans les factures dépassent le coût de réparations ordinaires, et il s’agit plutôt d’améliorations apportées aux granges.
+[58] De ce fait, je conclus que l’appelant n’a pas produit d’élément de preuve réfutant la présomption du ministre selon laquelle les dépenses étaient faites au titre du capital.
+[59] La quatrième catégorie de dépenses d’entreprise a été qualifiée d’« achats ». Le ministre a rejeté le montant de 3 326 $ que l’appelant a déduit pour son année d’imposition 2003. Ce dernier a fourni une preuve (pièce A‑3, page 1) que le montant en question a été payé à Les Footwear pour acheter 74 ensembles de bretelles pour ceinturons de service de police. Le témoin de l’intimée a déclaré que le montant avait été déduit à deux reprises au moment de calculer le revenu que l’appelant tirait de l’entreprise.
+[60] En contre-interrogatoire, l’appelant a fait remarquer que le montant de 3 326 $ a été déduit deux fois. Il a toutefois déclaré que chaque déduction représentait un achat distinct de 74 ensembles de bretelles.
+[61] Je souscris à la preuve de l’appelant. Il est raisonnable qu’une entreprise achète des fournitures en quantités standards. De ce fait, la somme de 3 326 $ doit être déduite au moment de déterminer le revenu que l’appelant a tiré d’une entreprise pour son année d’imposition 2003.
+[62] La catégorie suivante de dépenses d’entreprise a été qualifiée de « frais de gestion et d’administration ». Le ministre a refusé les montants de 2 996 $ et de 7 538 $ que l’appelant a déduits sous cette rubrique dans ses années d’imposition 2003 et 2004, respectivement.
+[63] L’appelant n’a pas présenté à la Cour une liste complète de dépenses qui étayaient les montants déduits. Son représentant a renvoyé la Cour aux documents de travail du vérificateur (pièce A‑1, pages 1 à 4) dans l’espoir que ces derniers comporteraient des détails sur les montants déduits.
+[64] Malheureusement pour l’appelant, les documents de travail comportaient fort peu de détails. La plupart des inscriptions sont suivies d’une note disant : [traduction] « Aucune documentation n’a été fournie pour montrer que cette dépense a été faite ». La seule référence qui est faite à des dépenses réelles dans les documents de travail de 2003 est des montants payés à Global Payments, à Magma, à Rogers et au ministre des Finances. Les documents de travail montrent toutefois que l’ARC a autorisé l’appelant à déduire les montants payés à Global Payments et à Magma.
+[65] L’appelant a fait remarquer que le principal service acheté auprès de Rogers était la connexion Internet requise pour faire fonctionner le site Web. Il a expliqué que, lorsqu’il a communiqué avec Rogers pour acheter cette connexion, on l’a informé qu’il serait plus économique d’acheter un forfait qui comportait la télévision par câble.
+[66] En bref, les paiements faits à Rogers contenaient un élément à la fois personnel et commercial. Le témoin a déclaré qu’environ 80 % des dépenses étaient liées à l’entreprise. D’après mon calcul, cela se traduit par un montant déductible de 355,98 $ pour l’année d’imposition 2003, et de 799,48 $ pour l’année d’imposition 2004.
+[67] Les documents de travail du vérificateur qui se rapportent à l’année d’imposition 2004 font également état de deux autres bénéficiaires – Ontario Hydro et le Receveur général – à l’égard desquels l’appelant s’est vu refuser ses déductions.
+[68] En ce qui concerne le paiement de 2 801,66 $ fait à Ontario Hydro, l’appelant a renvoyé la Cour au reçu qu’il a présenté (pièce A‑1, page 1) et il a fait remarquer que ce paiement était lié à des services qu’Ontario Hydro avait fournis pour brancher à l’électricité l’un des petits immeubles loués à une tierce partie. Cet immeuble était adjacent à l’une des granges.
+[69] En ce qui concerne le paiement de 500 $ fait au Receveur général, l’appelant a fait remarquer que cette dépense était liée à l’enregistrement de brevets et de marques de commerce concernant les bretelles de ceinturon de police.
+[70] Je souscris à la preuve de l’appelant et je conclus que les montants payés à Ontario Hydro et au Receveur général ont été faits en vue de tirer un revenu d’une entreprise, et qu’ils sont déductibles.
+[71] En résumé, pour ce qui est de la catégorie des frais de gestion et d’administration, l’appelant a droit à des déductions supplémentaires de 355,98 $ pour l’année d’imposition 2003 et de 4 101,14 $ pour l’année d’imposition 2004.
+[72] Passons maintenant à la deuxième question en litige : l’appelant a‑t-il droit aux dépenses agricoles, d’un montant de 2 416 $ et de 5 479 $ pour les années d’imposition 2002 et 2003, respectivement, que le ministre a refusées?
+[73] Le premier montant, soit 2 416 $, est lié à des sommes que l’appelant a déduites pour l’année d’imposition 2002 à l’égard de taxes foncières. Un montant de 3 777 $ a été déduit pour l’année d’imposition 2003.
+[74] L’appelant a fourni à l’ARC une facture de taxes de la Ville d’Ottawa d’un montant de 2 416 $ (pièce R‑1, page 34). Cependant, cette facture concerne le domicile familial, et non l’exploitation agricole. Une facture de taxes a été présentée pour l’exploitation agricole, relativement à l’année d’imposition 2003 (pièce R‑1, page 36). Cependant, le montant était de 217,57 $, et ne correspond pas aux 3 777 $ que l’appelant a déduits.
+[75] L’appelant a semblé reconnaître son erreur en contre-interrogatoire; il a signalé que la facture de taxes foncières était liée à son domicile et aux entreprises accessoires, et non à l’entreprise agricole.
+[76] De ce fait, un montant additionnel de 217,57 $ doit être déduit au moment de déterminer le revenu que l’appelant a tiré de l’agriculture pour son année d’imposition 2003. De plus, un montant additionnel de 206 $ est à déduire pour son année d’imposition 2002. Il s’agit là d’une estimation raisonnable du montant de taxes qu’il aurait payé en 2002, soit 95 % des taxes qu’il a payées en 2003.
+[77] Le reste du montant en litige est lié à de l’assurance sur des biens. L’ARC a refusé la déduction de 1 702 $ que l’appelant avait demandée au titre de l’assurance au moment du calcul de son revenu agricole pour l’année d’imposition 2003. L’appelant a déclaré qu’une assurance de responsabilité civile avait été contractée pour l’exploitation agricole parce que le bétail, ainsi que les tracteurs et d’autres véhicules agricoles, se trouvaient parfois sur la route. Il n’a pas pu produire de reçus à l’appui de sa déduction. Il en a cependant produit pour une police d’assurance, mais cette police avait trait au domicile familial, et non à l’exploitation agricole.
+[78] J’accepte le témoignage de l’appelant selon lequel il a souscrit une assurance‑responsabilité pour la ferme. Cependant, la prime de 1 000 $ que l’appelant a indiquée semble élevée. J’autoriserai la somme de 235 $ à titre de déduction pour l’année d’imposition 2003, ce qui représente la moitié des primes d’assurance qu’il a payées pour la maison.
+[79] Voyons maintenant la troisième question, les pertes agricoles. Même s’il n’en a pas été question dans la réponse, l’intimée a fait valoir dans son exposé final que la Cour n’a pas compétence pour examiner la détermination que fait le ministre en vertu du paragraphe 31(2) de la LIR, à savoir que la principale source de revenus de l’appelant pour l’année d’imposition 2004 n’est ni l’agriculture ni une combinaison de l’agriculture et de quelque autre source.
+[80] Je ne crois pas que l’argument de l’intimée soit bien fondé sur le plan juridique. Comme l’indique le paragraphe 12(1) de la LCCI, la Cour a compétence exclusive pour entendre les renvois et les appels qui sont portés devant elle sur les questions découlant de la LIR.
+[81] Le paragraphe 169(1) de la LIR confère au contribuable le droit d’interjeter appel d’une cotisation auprès de la Cour canadienne de l’impôt. Ce droit est assujetti à des limites énumérées au paragraphe 169(2), mais aucune de ces dernières n’est liée à la décision que peut prendre le ministre aux termes du paragraphe 31(2) sur la principale source de revenus de l’appelant.
+[82] Conformément à ces dispositions, la Cour a manifestement le pouvoir exclusif d’entendre les appels qui sont interjetés contre les cotisations établies en vertu de la LIR, ce qui englobe les appels visés par l’article 31. Par ailleurs, la Cour a entendu de nombreux appels visés par cette disposition.
+[83] Les principes qu’il convient d’appliquer au moment d’examiner si la principale source de revenus d’un contribuable est soit l’agriculture soit une combinaison de l’agriculture et de quelque autre source ont été établis par la Cour suprême du Canada dans l’arrêt Moldowan c. Canada [1978] 1 R.C.S. 480, et ils ont été résumés dans de nombreux arrêts de la Cour d’appel fédérale, dont Canada c. Donnelly, [1998] 1 C.F. 513, Taylor c. Canada, [2002] CAF 425 et Gunn c. La Reine, 2006 CAF 281.
+[84] Il ressort clairement de ces arrêts que le point en litige est une question de fait et que chaque affaire doit être tranchée en fonction des faits qui lui sont propres. Cependant, la Cour d’appel a résumé en ces termes les facteurs dont il faut tenir compte : les capitaux investis dans la ferme, le temps passé par le contribuable à l’exploiter, de même que sa rentabilité.
+[85] La Cour d’appel a conclu dans l’arrêt Taylor qu’il n’était pas nécessaire de tirer un revenu « considérable » de l’agriculture pour satisfaire au critère de la principale source de revenus. De plus, la Cour a déclaré que les activités agricoles d’un contribuable sont rentables lorsqu’elle permettent de dégager un bénéfice avant la déduction pour amortissement.
+[86] Dans l’arrêt Gunn, la Cour d’appel a donné des indications sur la manière d’appliquer les facteurs lorsque la principale source de revenus du contribuable est une combinaison de l’agriculture et de quelque autre source.
+[87] Plus précisément, la Cour a déclaré :
+À mon avis, la question de la combinaison doit être interprétée de manière à n’exiger qu’un examen de l’effet cumulatif du total du capital investi dans l’agriculture et dans une deuxième source de revenu, du total du revenu tiré de l’agriculture et d’une deuxième source de revenu, et du total du temps consacré à l’agriculture et à la seconde source de revenu, compte tenu du mode de vie ordinaire du contribuable, de son expérience de l’agriculture, enfin de ses intentions et de ses attentes. […]
+[88] Les faits suivants étayent la conclusion selon laquelle la principale source de revenus de l’appelant était une combinaison de l’agriculture et du revenu qu’il tirait de son emploi d’agent de police :
+- l’appelant a vécu et travaillé à la ferme pendant la majeure partie de sa vie;
+- l’appelant a fréquenté une école d’agriculture;
+- l’appelant a investi des sommes considérables dans la ferme. Il a acheté de son père les 48 acres de terres agricoles utilisés pour la ferme, le matériel agricole et le bétail. Il a constamment investi de l’argent pour moderniser et améliorer le matériel agricole et il a également investi des fonds pour la construction de la nouvelle grange;
+- il a loué une superficie additionnelle de 100 acres de terres adjacentes pour cette exploitation agricole;
+- il a réparti son temps entre son travail d’agent de police et l’exploitation de la ferme; il travaillait 40 heures par semaine comme agent de police et il consacrait au moins 40 heures de travail par semaine à l’exploitation de la ferme;
+- sa famille aidait à exploiter la ferme;
+- les documents que l’intimée a déposés (pièce R‑1, pages 2 à 4) démontrent que, avant la déduction pour amortissement, l’exploitation de la ferme a été rentable en 2003. Il est important de signaler qu’à cette époque, le prix de vente du produit principal de la ferme, le bétail, s’était effondré à cause de la crise de la maladie de la vache folle;
+- d’après les pages 009 et 010 de la pièce R‑1, il semble que la perte importante qui a été subie en 2004 soit principalement attribuable au maintien des bas prix ainsi qu’à une déduction pour amortissement considérable;
+- l’appelant a l’intention de continuer de développer l’exploitation agricole.
+[89] Bref, au vu de la preuve que l’appelant a fournie, je conclus que la principale source de revenus de ce dernier était une combinaison de l’agriculture et de son emploi d’agent de police. L’appelant a investi des capitaux élevés dans la ferme et a consacré à l’exploitation de cette dernière un temps considérable. De plus, il ressort clairement de la preuve que la ferme est une entreprise rentable, et que la crainte engendrée par la crise de la maladie de la vache folle est la principale cause de la perte subie en 2004.
+[90] De ce fait, l’appelant est en droit de déduire le plein montant de la perte agricole de 25 379 $ dans le calcul de son revenu pour l’année d’imposition 2004.
+[91] En résumé, les appels relatifs à l’impôt sur le revenu sont accueillis, avec dépens, et l’affaire est renvoyée au ministre national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations, en se fondant sur ce qui suit :
+- pour l’année d’imposition 2002, un montant additionnel de 8 675 $ doit être déduit dans le calcul du revenu que l’appelant a tiré de son entreprise autre que son entreprise agricole. Un montant additionnel de 206 $ doit être déduit dans le calcul du revenu que l’appelant a tiré de son entreprise agricole;
+- pour l’année d’imposition 2003, un montant additionnel de 6 014 $ doit être déduit dans le calcul du revenu que l’appelant a tiré de son entreprise autre que son entreprise agricole. Un montant additionnel de 453 $ doit être déduit dans le calcul du revenu que l’appelant a tiré de son entreprise agricole;
+- pour l’année d’imposition 2004, un montant additionnel de 6 088 $ doit être déduit dans le calcul du revenu que l’appelant a tiré de son entreprise autre que son entreprise agricole. La perte de 25 379 $ que l’appelant a subie à cause de son entreprise agricole n’est pas assujettie aux restrictions prévues à l’article 31 de la LIR.
+[92] Le second appel est lié à des cotisations de TPS concernant les périodes de déclaration de TPS de l’appelant allant du 1er janvier 2002 au 31 décembre 2004.
+[93] La Cour doit trancher deux questions. La première est le fait que l’appelant n’a pas versé la TPS sur certaines fournitures taxables qu’ont effectuées ses trois entreprises accessoires. Les montants en litige sont : 922 $, 405 $ et 1 404 $ pour les années civiles 2002, 2003 et 2004, respectivement.
+[94] Lors de son témoignage, l’appelant a reconnu ne pas avoir versé les montants requis. Il croyait que, au cours de ces années civiles, il était un petit fournisseur. Malheureusement pour lui, il ne l’était pas, car il s’était inscrit sous le régime de la législation relative à la TPS. De ce fait, l’appelant a été à juste titre l’objet d’une cotisation pour non-versement de la TPS à l’égard des fournitures taxables.
+[95] La seconde question est liée à la décision du ministre de refuser des crédits de taxe sur les intrants d’un montant de 3 399,16 $, de 3 429,87 $ et de 4 576,15 $ pour les années civiles 2002, 2003 et 2004, respectivement.
+[96] Les crédits de taxe sur les intrants qui ont été refusés ont trait à la TPS que l’appelant a payée en rapport avec les dépenses qui, d’après le ministre, n’ont pas été faites en vue de tirer un revenu des entreprises accessoires.
+[97] L’appelant a droit aux crédits de taxe sur les intrants dans la mesure où j’ai conclu que les dépenses connexes ont été engagées pour tirer un revenu de l’une des entreprises. Cela n’inclut pas les montants à l’égard desquels la TPS n’a pas été versée, comme le montant payé au Receveur général à titre de frais d’enregistrement.
+[98] En conséquence, l’appel relatif à la TPS est accueilli sans dépens, et les questions sont renvoyées au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations, étant entendu que l’appelant a droit à des crédits de taxe sur les intrants équivalant à 7 % des montants suivants :
+- pour l’année civile 2002, le montant de 1 375 $ admis comme déduction au titre des frais de repas et de représentation;
+- pour l’année civile 2003, le montant de 2 332 $ admis comme déduction au titre des frais de repas et de représentation, le montant de 3 326 $ admis comme déduction au titre d’achats, et le montant de 356 $ admis comme déduction au titre des frais de gestion et d’administration;
+- pour l’année d’imposition 2004, le montant de 1 987 $ admis comme déduction au titre des frais de repas et de représentation et la part de 3 601,14 $ du montant admis comme déduction au titre des frais de gestion et d’administration.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 18e jour d’octobre 2012.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE : 2010 CCI 39
+Nos DES DOSSIERS DE LA COUR : 2007-3922(IT)I;
+2008-2611(GST)I
+INTITULÉ : MARK SCHARFE c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 25 septembre 2009
+MOTIFS DU JUGEMENT : L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT : Le 2 février 2010
+COMPARUTIONS :
+Représentant de l’appelant :
+K.E. Koshy
+Avocate de l’intimée :
+Me Suzanie Chua
+AVOCATS INSCRITS AU
+DOSSIER :
+Pour l’appelant : s.o.
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

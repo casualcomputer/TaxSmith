@@ -1,0 +1,156 @@
+---
+title: "Hoang c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26329/index.do"
+last_modified: "2004-07-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 519"
+citation2: ""
+neutral_citation: "2004 CCI 519"
+decision_date: "2004-07-22"
+language: "fr"
+item_id: "26329"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3276
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:13:19.980000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "03edab7335bc63b88a1bab32f88ed22d3f8893bee4eaab9b96295ad263813973"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hoang c. La Reine
+
+- Citation: 2004 CCI 519
+- Decision date: 2004-07-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3276, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hoang c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-22
+Référence neutre
+2004 CCI 519
+Numéro de dossier
+2003-2961(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-2961(IT)I
+ENTRE :
+TUAN HOANG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 13 juillet 2004 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentant de l'appelante :
+Raoul Boissé
+Avocat de l'intimée :
+Me Simon Petit
+____________________________________________________________________
+JUGEMENT
+L'appel des déterminations de la prestation fiscale pour enfant à l'égard de Catherine, la fille de l'appelante, pour les mois de juillet 2000 au mois de juin 2001 quant à l'année de base 1999, et pour les mois de juillet et août 2001 quant à l'année de base 2000 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de juillet 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2004CCI519
+Date : 20040722
+Dossier : 2003-2961(IT)I
+ENTRE :
+TUAN HOANG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel concernant les déterminations de la prestation fiscale canadienne pour enfants établies le 20 novembre 2002 par le ministre du Revenu national (le « Ministre » ), à l'égard de la fille de l'appelante, Catherine, pour le mois de juillet 2000 au mois de juin 2001 quant à l'année de base 1999, et pour les mois de juillet et août 2001 quant à l'année de base 2000.
+[2] La question en litige est de savoir si l'appelante était le parent qui assumait principalement le soin et l'éducation de son enfant pour la période s'échelonnant du mois de juillet 2000 au mois d'août 2001.
+[3] L'appelante, son père et son beau-frère ont témoigné pour la partie appelante. Monsieur Jean-Guy Blanchard et Catherine Blanchard ont témoigné à la demande de l'intimée.
+[4] L'appelante et monsieur Jean-Guy Blanchard sont les parents de Catherine, née le 6 avril 1987.
+[5] En ce qui concerne l'époque en litige voici ce que dit l'Avis d'appel :
+...
+De août 1999 à juin 2000 et de août 2000 à juin 2001 était la période où mon enfant commença ses deux premières années au secondaire à Montréal. Comme son père habite à Montréal et c'est un ancien professeur à la retraite, je lui ai confié le mandat d'aller inscrire notre fille au collège et de faire le suivi avec l'école parce qu'il était disponible et que je travaillais toute la journée. Il a profité de l'occasion pour déclarer qu'il était tuteur légal de notre enfant et a donné à l'école son adresse comme lieu de résidence de mon enfant. Malgré tout cela, j'ai toujours gardé ma fille chez moi comme d'habitude et ce au moins à 80%. Cette réalité n'a pas changé et rien ne pouvait la changer, même avec une décision aberrante dudit centre fiscal.
+En troisième année du secondaire, soit depuis août 2001, mon enfant allait à l'école située à Laval et de par le fait même l'adresse de résidence de ma fille était à Laval;
+[6] La déposition écrite lors de l'audience se lit ainsi pour la partie couvrant la période en litige :
+...
+En septembre 1999, le père de Catherine et moi décidâmes, d'un commun accord, d'envoyer Catherine dans une école privée, l'école Rachel, et d'en partager les frais.
+Comme il était retraité et habitait près de l'école Rachel, je lui ai demandé d'aller y inscrire Catherine parce que moi, j'étais retenue au bureau par mon travail. Il donna alors son adresse à l'école, comme adresse de Catherine. Ce détail m'apparut sans importance alors. En effet, mon adresse était aussi au dossier et nous recevions tous les deux les communiqués de l'école et les bulletins de Catherine.
+Nous étions aussi d'accord pour que Caherine passe une semaine entière chez lui à cause de sa proximité de l'école et aussi une semaine entière chez moi. Il m'était en effet facile en me rendant à mon travail le matin de laisser Catherine à l'école et le soir en revenant, de la ramener chez moi. Cet arrangement fut maintenu également pendant les congés scolaires, à l'exception des congés d'été, et se poursuivit de septembre 1999 jusqu'en juin 2001 soit deux années scolaires ou durant 22 mois.
+La première année 1999-2000, les frais scolaires de Catherine à l'école Rachel furent payés entièrement par moi avec des chèques mensuels, un total de 1 860,00 $. M. Blanchard me remboursa par la suite la moitié de cette somme. Nous sommes aussi allés choisir l'uniforme de Catherine ensemble.
+La deuxième année 2000-2001 M. Blanchard paya lui-même les frais scolaires de Catherine à l'école Rachel et je lui en remboursai également la moitié.
+En 1999 Catherine passa environ 222 jours avec moi au 117 De Lisieux et 143 jours chez son père à Montréal.
+En 2000, le temps passé par Catherine chez son père ou chez moi à De Lisieux fut approximativement égal soit environ 182 jours chacun.
+[7] L'appelante a lu sa déposition et cela a constitué son témoignage. Somme toute, elle a affirmé qu'au cours de la période en question, il y avait une garde partagée entre elle et le père de sa fille.
+[8] Elle a déposé en liasse cinq envois postaux provenant du Collège Rachel comme pièce A-4. Dans trois des enveloppes se trouvaient les bulletins scolaires de sa fille pour l'année scolaire 2000-2001. Dans une autre, il s'agissait d'un avis d'information générale pour la fin de l'année scolaire. La cinquième lettre était en date du 16 mai 2003 et signée par la directrice générale du Collège Rachel. Elle se lit comme suit :
+Suite à votre récente demande, nous vous informons que nous avons déjà établi que les contrats des services éducatifs, pour les années 1999-2000 et 2000-2001, de Catherine Blanchard-Hoang ont été dûment complétés et signés par Monsieur Jean-Guy Blanchard, le père, et que l'adresse de résidence de l'élève indiquée au document était le 3555 rue Berri, app. 805 à Montréal.
+En effet, pour les années scolaires 1999-2000 et 2000-2001, Catherine (07-04-1987) habitait avec Monsieur Blanchard. Il a défrayé tous les coûts reliés à la scolarité de sa fille. Toute correspondance, autorisations de sorties, convocations à des réunions ou autres étaient acheminées à l'attention de Monsieur Blanchard. Dans le cas d'absence ou retard de celle-ci, nous le contactions, au besoin, à des fins de confirmation et de vérification.
+Cependant, à la rubrique « mère » du contrat des services éducatifs de 1999-2000 et 2000-2001, le père avait complété les renseignements de la mère (en l'occurrence vos coordonnées) et nous avait signifiés, à l'endroit prévu à cette fin, de vous transmettre une copie de la correspondance et du bulletin scolaire. Ce qui a été fait pendant la scolarisation de Catherine au Collège Rachel.
+[9] Lors de son témoignage, monsieur Blanchard a expliqué que lorsque Catherine a commencé à l'école Rachel, le plan était en effet d'exercer une garde partagée, une semaine chez lui et une semaine chez l'appelante. Ce plan n'est pas celui qui s'est réalisé. Il habitait à cinq minutes à pied de l'école. Catherine a donc habité la majeure partie du temps chez lui. Il était un professeur à la retraite. Il l'aidait dans les matières scolaires. Il préparait les repas et faisait le lavage ainsi que le raccommodage du linge. Il avait laissé à Catherine la grande chambre. Il avait adopté le salon où il y avait un sofa lit.
+[10] Il a confirmé que les frais de scolarité ont été partagés avec l'appelante.
+[11] Catherine, qui n'était pas présente lors du témoignage de son père et celui-ci ayant quitté la salle d'audience lors du témoignage de sa fille, a confirmé que lorsqu'elle a fréquenté le Collège Rachel, elle habitait chez son père. Elle voyait sa mère quelques fins de semaine. Elle a aussi confirmé que son lavage était fait par son père. Elle considérait que son père s'était occupé de tout à l'époque où elle était au Collège Rachel.
+[12] Elle a aussi confirmé qu'elle avait fait des voyages avec sa mère et les parents de sa mère au cours des vacances d'été.
+Conclusion
+[13] L'appelante aime beaucoup sa fille. Je n'en ai aucun doute. Mais il s'agit ici de déterminer qui des deux parents s'occupait principalement de son enfant au cours d'une période donnée.
+[14] Je suis d'avis que selon la prépondérance de la preuve ce n'était pas la mère, mais le père qui s'occupait principalement de son enfant au cours de la période en litige.
+[15] La lettre de la directrice de l'école fréquentée par Catherine explique pourquoi l'appelante recevait copie des bulletins de sa fille. Cette lettre confirme aussi les témoignages de monsieur Blanchard et de sa fille.
+[16] Il y a eu aussi les témoignages du père de la jeune fille et de celle-ci. Ces témoignages ont en tout point concordés.
+[17] Ainsi que je le mentionnais lors de l'audience, il semble acquis que le plan initial ait été celui d'une garde partagée. Mais par un concours de circonstances, ce n'est pas ce qui s'est passé dans les faits. Or, ce qui compte dans l'évaluation de l'éligibilité du parent aux prestations fiscales, c'est ce qui est réellement advenu et non ce qui aurait pu advenir.
+[18] En conséquence, l'appel doit être rejeté.
+Signé à Ottawa, Canada, ce 22e jour de juillet 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2004CCI519
+No DU DOSSIER DE LA COUR :
+2003-2961(IT)I
+INTITULÉ DE LA CAUSE :
+Tuan Hoang et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 13 juillet 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 22 juillet 2004
+COMPARUTIONS :
+Pour l'appelante :
+Raoul Boissé (représentant)
+Pour l'intimée :
+Me Simon Petit
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé(e :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

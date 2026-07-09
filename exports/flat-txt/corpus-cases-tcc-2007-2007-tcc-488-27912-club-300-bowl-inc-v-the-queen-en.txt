@@ -1,0 +1,185 @@
+Title: Club 300 Bowl Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27912/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-488-27912-club-300-bowl-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-05-29
+
+# Club 300 Bowl Inc. v. The Queen
+
+- Citation: 2007 TCC 488
+- Decision date: 2007-05-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1726, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Club 300 Bowl Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-29
+Neutral citation
+2007 TCC 488
+File numbers
+2004-3080(GST)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-3080(GST)G
+BETWEEN:
+CLUB 300 BOWL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 29, 2007 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Jeffrey Radnoff
+Counsel for the Respondent:
+Annie Paré
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated April 22, 2004 and bears number 05EP118109081 for the period from January 1, 1997 to December 31, 1997 is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 23rd day of August 2007.
+"L.M. Little"
+Little J.
+Citation: 2007TCC488
+Date: 20070823
+Docket: 2004-3080(GST)G
+BETWEEN:
+CLUB 300 BOWL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS:
+[1] The Appellant was incorporated under the laws of the Province of Ontario.
+[2] In 1986, the Appellant built a bowling alley located at 146 Old Kennedy Road in the City of Markham, Ontario. The bowling alley had 60 lanes.
+[3] The bowling alley was located on land owned by Old Kennedy Road Recreation Centre Joint Venture.
+[4] Grace Mok, wife of Dr. Simon Mok, was the Manager of the bowling alley. Dr. Mok was the majority shareholder of the Appellant.
+[5] Grace Mok testified on behalf of the Appellant. Mrs. Mok said that in 1996 the business in the Appellant’s bowling alley complex was slowing down because of the age of the facility and the lack of new equipment.
+[6] Mrs. Mok said that the shareholder of the Appellant decided to carry out an extensive renovation of the bowling alley facility at a cost of approximately $10,000 per lane for a total cost of approximately $600,000.
+[7] Mrs. Mok also testified that in addition to carrying out renovations on the bowling alley, the Appellant would also spend approximately $150,000 in additional improvements.
+[8] The renovations were to be financed as follows:
+1. Deutsche Financial Services Canada Inc. $450,000
+2. Brunswick Corporation $150,000
+3. Costs of further renovations – Loan from the Hong Kong Bank $150,000
+Total $750,000
+[9] Mrs. Mok testified that the renovations to the bowling alley were commenced in 1996 and completed in 1997.
+[10] Mrs. Mok said that in 1998, litigation was commenced against the Appellant by investors who owned the real estate on which the bowling alley was located.
+[11] Mrs. Mok said that the litigation continued until December 8, 1998 when it was resolved. When the litigation was concluded, the Appellant no longer owned the bowling alley.
+[12] Mrs. Mok said that on December 8, 1998, the Appellant was “kicked out” of the building. Mrs. Mok said that all of the Appellant’s financial records were retained by the landlord and were later destroyed.
+[13] The Appellant filed a Goods and Services Tax (GST) Return for the January 1, 1997 to December 31, 1997 period (the “Period”) reporting GST collected in the amount of $117,181.95 and claimed input tax credits (“ITC’s”) in the amount of $188,843.43. The Appellant claimed net tax refundable in the amount of $71,661.48 for the Period.
+[14] By Notice of Assessment dated September 7, 2001, the Minister of National Revenue (the “Minister”) assessed the Appellant for the Period as follows:
+Net tax $117,181.95
+Interest $ 25,238.46
+Penalties $ 30,605.61
+[15] The Appellant objected to the Minister’s Assessment by way of Notice of Objection dated December 5, 2001, and provided the Minister with documentation to allow the Appellant ITC’s in the amount of $55,273.22.
+[16] By Notice of Reassessment No. 05EP118109081 dated April 22, 2004, the Minister considered this documentation and varied the original assessment as follows:
+Net tax $61,903.73
+Interest $12,891.67
+Penalties $15,425.47
+[17] The Appellant filed a Notice of Appeal to the Tax Court.
+B. ISSUE:
+[18] The issue is whether the Appellant is liable for the net tax interest and penalties as assessed.
+C. ANALYSIS and DECISION:
+[19] Counsel for the Respondent argued that the Appellant did not maintain sufficient and appropriate evidence as required by subsection 169(4) of the Excise Tax Act (the “Act”). During the hearing, Counsel for the Respondent also questioned whether the Appellant had carried out the renovations as claimed.
+Legislation
+[20] Subsection 169(4) of the Act provides as follows:
+(4) Required documentation - A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+(b) where the credit is in respect of property or a service supplied to the registrant in circumstances in which the registrant is required to report the tax payable in respect of the supply in a return filed with the Minister under this Part, the registrant has so reported the tax in a return filed under this Part.
+[21] Section 2 of the Regulations provides the following definition:
+"supporting documentation" means the form in which information prescribed by section 3 is contained, and includes
+(a) an invoice,
+(b) a receipt,
+(c) a credit-card receipt,
+(d) a debit note,
+(e) a book or ledger of account,
+(f) a written contract or agreement,
+(g) any record contained in a computerized or electronic retrieval or data storage system, and
+(h) any other document validly issued or signed by a registrant in respect of a supply made by the registrant in respect of which there is tax paid or payable
+[22] Section 3 of the Input Tax Credit Information (GST/HST) Regulations (“Regulations”) sets out the prescribed information required for the purposes of paragraph 169(4)(a) as follows:
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+(iii) where an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+(iv) the total amount paid or payable for all of the supplies;
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+(ii) the information set out in subparagraphs (a)(ii) to (iv),
+(iii) where the amount paid or payable for the supply or the supplies does not include the amount of tax paid or payable in respect thereof,
+(A) the amount of tax paid or payable in respect of each supply or in respect of all of the supplies, or
+(B) where provincial sales tax is payable in respect of each taxable supply that is not a zero-rated supply and is not payable in respect of any exempt supply or zero-rated supply,
+(I) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of each taxable supply, and a statement to the effect that the total in respect of each taxable supply includes the tax paid or payable under that Division, or
+(II) the total of the tax paid or payable under Division II of Part IX of the Act and the provincial sales tax paid or payable in respect of all taxable supplies, and a statement to the effect that the total includes the tax paid or payable under that Division,
+(iv) where the amount paid or payable for the supply or the supplies includes the amount of tax paid or payable in respect thereof and one or more supplies are taxable supplies that are not zero-rated supplies,
+(A) a statement to the effect that tax is included in the amount paid or payable for each taxable supply,
+(B) the total (referred to in this paragraph as the "total tax rate") of the rates at which tax was paid or payable in respect of each of the taxable supplies that is not a zero-rated supply, and
+(C) the amount paid or payable for each such supply or the total amount paid or payable for all such supplies to which the same total tax rate applies, and
+(v) where the status of two or more supplies is different, an indication of the status of each taxable supply that is not a zero-rated supply; and
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient's name, the name under which the recipient does business or the name of the recipient's duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+[23] The Period at issue spans the entire year of 1997. Subparagraph 3(b)(iv) amended by P.C. 2000-633, subsection 3(3), May 4, 2000, is applicable to supplies made after March 1997. However, where supplies were made before February 1998, the subparagraph shall be read without reference to clause (c). The subparagraph formerly reads:
+Where the amount paid or payable for the supply or the supplies includes the amount of tax paid or payable in respect thereof and one or more supplies are taxable supplies that are not zero-rated supplies, a statement to the effect that tax is included in the amount paid or payable for each supply in respect of which there is tax paid or payable, and
+[24] Subsection 169(4) has been interpreted by the Courts to require a taxpayer to provide sufficient evidence in submitting his documentation and the prescribed information set out in the Regulations. In D & P Holdings Ltd. v. Canada, [1999] T.C.J. No. 529 (informal procedure), Hamlyn J. stated:
+15 Subsection 169(4) outlines the documentation requirements associated with ITCs. As a result of this provision, a registrant must provide sufficient evidence to determine the amount of the ITCs, plus any information prescribed by regulation. Such prescribed information is outlined in the Input Tax Credit Information Regulations (the "Regulation"), section 3.
+16 The Regulation defines "supporting documentation" as used in section 3 to include an invoice, a receipt, a credit-card receipt, a debit note, a book or ledger of account, a written contract or agreement, any record contained in a computerized or electronic retrieval or date storage system, and any other document validly issued or signed by a registrant in respect of a supply made by the registrant in respect of which there is tax paid or payable. The Appellant was unable to supply supporting documentation for the overstated ITCs. (Emphasize added)
+[25] The Court has generally held that the clear technical requirements of paragraph 169(4)(a) and its related regulations are mandatory. In Helsi Construction Management Inc. v. R., [2001] GSTC 39 (TCC), aff’d by [2002] GSTC 113 (FCA), Bowman A.C.J., as he then was, held:
+11 The main reasons for the disallowance was that the suppliers' GST numbers were not shown on the invoices. This is a requirement under section 3 of the Input Tax Credit Information Regulations. While there may be some justification in certain cases for treating technical or mechanical requirements as directory rather than mandatory (for example see Senger-Hammond v. R., 1997] 1 C.T.C. 2728 (T.C.C.)) that is not so in the case of the GST provisions of the Excise Tax Act.
+12 The appellant's representative contended that the Department had the GST numbers of the various suppliers and should have either given them to him or looked them up itself.
+13 We are dealing with one of the technical requirements under a statute that is somewhat unique for its specificity. Moreover, it is the foundation of a self-assessing system that operates in the commercial world. Unfortunate as it may seem to the appellant, rules are rules. I can do nothing to help the appellant on this point. The problem is to some extent the appellant's own doing. Mr. Familamiri has made great efforts to correct the situation created by the original chaotic state of the records and he has succeeded to some extent. However there is only so much that one can do to correct years of disarray.
+This interpretation has been followed in cases before the Tax Court, e.g. Alexander Nix Group Inc. v. R., [2002] GSTC 100 (informal procedure), Key Property Management Corp v. R. [2004] GSTC 32 (“Key Property”) and Davis v. R., [2004] GSTC 134.
+[26] In Key Property, Bowie J. described the object of subsection 169(4) and found that its requirements are to be “strictly enforced”:
+…The whole purpose of paragraph 169(4)(a) and the Regulations is to protect the consolidated revenue fund against both fraudulent and innocent incursions. They cannot succeed in that purpose unless they are considered to be mandatory requirements and strictly enforced. The result of viewing them as merely directory would not simply be inconvenient, it would be a serious breach of the integrity of the statutory scheme.
+[27] I have carefully considered the evidence provided by Mrs. Mok, and the documents submitted in evidence and I have concluded that the Appellant did not satisfy the requirements of section 169 of the Act and the Regulations. I have reached this conclusion because while evidence was produced of borrowings made by the Appellant to finance the improvements there was insufficient evidence to satisfy the “supporting documentation” referred to in paragraph 2 of the Regulations (See paragraph 21 above).
+[28] In my opinion the position adopted by the Minister was correct.
+[29] The appeal is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 23rd day of August 2007.
+"L.M. Little"
+Little J.
+CITATION:
+2007TCC488
+COURT FILE NOS.:
+2004-3080(GST)G
+STYLE OF CAUSE:
+Club 300 Bowl Inc. and
+Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 29, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+August 23, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Jeffrey Radnoff
+Counsel for the Respondent:
+Annie Paré
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jeffrey Radnoff
+Firm:
+Radnoff Law Offices
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

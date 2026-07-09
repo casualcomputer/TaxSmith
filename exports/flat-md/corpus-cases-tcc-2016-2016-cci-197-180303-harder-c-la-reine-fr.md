@@ -1,0 +1,199 @@
+---
+title: "Harder c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/180303/index.do"
+last_modified: "2016-09-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 197"
+citation2: ""
+neutral_citation: "2016 CCI 197"
+decision_date: "2016-09-14"
+language: "fr"
+item_id: "180303"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2884
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:53:56.648000+00:00"
+cases_cited_count: 7
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0d0a7ff7027f3a6c5f26888b0851a5f0d9d200039e962bad553627a46e79133c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Harder c. La Reine
+
+- Citation: 2016 CCI 197
+- Decision date: 2016-09-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2884, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harder c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-09-14
+Référence neutre
+2016 CCI 197
+Numéro de dossier
+2014-3977(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3977(IT)I
+ENTRE :
+MICHAEL HARDER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 27 juin 2016 à North Bay (Ontario).
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l’appelant : Me Gregory DuCharme
+Avocate de l’intimée : Me Gabrielle White
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joint, l’appel interjeté à l’encontre de l’avis de ratification, daté du 15 juillet 2014, et concernant en partie un avis de cotisation, daté du 29 août 2013, délivré en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2012, est par les présentes rejeté.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2016.
+« R. S. Bocock »
+Juge Bocock
+Référence : 2016 CCI 197
+Date : 20160914
+Dossier : 2014-3977(IT)I
+ENTRE :
+MICHAEL HARDER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+Juge Bocock
+I. Introduction [1] L’appelant, Michael Harder, en appelle du refus par le ministre d’accorder des crédits d’impôt non remboursables s’élevant à 10 882,00 $ et à 2 191,00 $, demandés en 2012, et se rapportant à une personne à charge admissible et à un enfant admissible (« déductions pour personnes à charge »), respectivement.
+[2] Les faits non contestés sont les suivants :
+(1) M. Harder et sa femme se sont séparés en 2011.
+(2) Ils avaient deux enfants mineurs, issus du mariage.
+(3) Ils ont réglé toutes les questions en suspens concernant la pension alimentaire, la garde conjointe (partage des responsabilités parentales), les soins et l’éducation des enfants, toutes ces dispositions étant énoncées dans un consentement écrit déposé à la Cour supérieure de justice de l’Ontario (Tribunal de la famille) en août 2012 (le « consentement »).
+(4) Le consentement a été approuvé par la Cour, et, compte tenu du revenu annuel de chacun des conjoints, M. Harder a été tenu de verser une pension alimentaire pour enfants pour les mois de septembre à décembre 2012 et par la suite;
+(5) Plus précisément, des extraits pertinents du consentement se lisent comme suit :
+[TRADUCTION] 5. [...] conformément aux Lignes directrices, le montant de la pension alimentaire pour deux enfants s’élève à 356,00 $ par mois, selon le revenu de la demanderesse, en vertu de l’annexe A ci-jointe.
+6. [...] conformément aux Lignes directrices, le montant de la pension alimentaire pour deux enfants s’élève à 894,00 $ par mois, selon le revenu du défendeur, en vertu de l’annexe A ci-jointe.
+7. Selon l’entente sur l’exercice conjoint des responsabilités parentales, il incombe à la demanderesse de verser au défendeur une pension alimentaire pour les deux enfants, et au défendeur, de verser à la demanderesse une pension alimentaire pour les deux enfants. Les parties conviennent que, compte tenu de l’entente sur l’exercice conjoint des responsabilités parentales, 49 % du revenu net disponible devrait revenir à la demanderesse et 51 %, au défendeur.
+[…]
+10. Chaque année, la demanderesse réclamera le crédit d’impôt pour enfants à l’égard des deux enfants pour la période allant du 1er janvier au 30 juin, et le défendeur, pour la période allant du 1er juillet au 31 décembre, conformément aux Lignes directrices de l’Agence du revenu du Canada.
+11. Chaque année, la demanderesse aura droit de réclamer la somme de Y comme crédit d’impôt équivalent au crédit pour conjoint à charge, tant qu’elle y sera admissible, conformément aux Lignes directrices de l’Agence du revenu du Canada.
+12. Chaque année, le défendeur aura droit de réclamer la somme de X comme crédit d’impôt équivalent au crédit pour conjoint à charge, tant qu’il y sera admissible, conformément aux directrices de l’Agence du revenu du Canada.
+13. Ni l’une ni l’autre des parties n’est tenue de payer une pension alimentaire versée à un époux à l’autre partie, et ce, à titre définitif.
+Les parties à ce consentement reconnaissent ce qui suit :
+a. Elles ont obtenu un avis juridique avant de consentir à la présente ordonnance.
+b. Les modalités du présent consentement concernant la garde des enfants, les droits de visite et la pension alimentaire feront partie de l’ordonnance de la Cour et seront exécutées par la Cour en cas de défaut.
+Annexe A
+[traduction]
+Mise en garde/Règles de primauté
+Pensions alimentaires pour enfants (table) – Lignes directrices sur les pensions alimentaires pour enfants (table)
+Montant prévalant selon la table :
+750 $ par mois spécifiés
+Lignes directrices sur les pensions alimentaires pour enfants Montant mensuel en $
+Michael
+Conjoint
+Revenu annuel selon les Lignes directrices
+59 523
+23 574
+Montant selon la table des Lignes directrices sur les pensions alimentaires pour enfants
+894
+356
+Montant compensatoire selon la table des Lignes directrices sur les pensions alimentaires pour enfants
+538
+0
+Pensions alimentaires pour enfants (table)
+750
+0
+Scénarios de pension alimentaire Montant mensuel en $ Demanderesse : 49,0 %, Revenu net disponible du parent bénéficiaire
+Michael
+Conjoint
+Revenu brut
+4 390
+1 858
+Impôts et retenues
+(672)
+37
+Prestations et crédits
+232
+460
+Pension alimentaire versée à un époux
+0
+0
+Pensions alimentaires pour enfants (table)
+(750)
+750
+Revenu net disponible
+3 200
+3 105
+[3] Pour ce couple, toutes les questions usuelles génératrices de tension, de difficultés et de susceptibilité concernant la garde, le soutien financier et l’éducation des enfants, dans le contexte contraignant d’une rupture, ont été réglées de manière louable, sensible et acceptable. M. Harder a déclaré que toutes les questions ont été réglées à l’amiable. Des avocats ont préparé tous les documents, introduit les procédures judiciaires et se sont assurés que toutes les particularités respectaient les volontés des parties et la loi. Tout semblait se dérouler en conséquence, jusqu’à ce que le ministre établisse une nouvelle cotisation refusant les déductions pour personne à charge de 2012. Naturellement, l’engagement de M. Harder relatif à la pension alimentaire pour enfants était fondé sur son recours aux déductions pour personne à charge permettant de réduire son revenu imposable. Dans ses observations, l’avocat de M. Harder a demandé que la Cour tienne compte des articles applicables de la Loi de l’impôt sur le revenu (La « LIR ») et de la jurisprudence de manière plus large et équilibrée, vu la déclaration explicite de M. Harder et de sa conjointe contenue dans le consentement concernant leurs obligations respectives en matière de pension alimentaire pour enfants
+[4] L’analyse suivante oblige la Cour à rejeter le présent appel, malgré la sympathie qu’il suscite.
+[5] Dans le présent appel, les parties ne contestent pas leur compréhension commune des définitions de « montant de pension alimentaire », de « personne entièrement à charge », de « pension alimentaire pour enfants », pas plus que le montant des déductions pour personne à charge. La seule question en litige est de savoir si M. Harder est concrètement le seul conjoint qui paie une « pension alimentaire » au sens du paragraphe 118(5) et que, par conséquent, l’exemption contenue au paragraphe 118(5.1) ne s’applique pas à lui.
+[6] Les extraits pertinents des dispositions de la Loi énoncent ce qui suit [Non souligné dans l’original.] :
+Pension alimentaire
+118(5) Aucun montant n’est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition si le particulier, d’une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait pour la personne et, d’autre part, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait tout au long de l’année pour cause d’échec de leur mariage ou union de fait;
+b) demande une déduction pour l’année par l’effet de l’article 60 au titre de la pension alimentaire versée à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait.
+Non-application du par. (5)
+118(5.1) À supposer que la présente loi s’applique compte non tenu du présent paragraphe, dans le cas où personne n’a droit, par le seul effet du paragraphe (5), à la déduction prévue aux alinéas (1)b) ou b.1) pour une année d’imposition relativement à un enfant, le paragraphe (5) ne s’applique pas relativement à l’enfant pour l’année en cause.
+[7] Quant à la jurisprudence, notre Cour et la Cour d’appel fédérale ont interprété les paragraphes précités sans aucune divergence ou dérogation. La logique de base veut que le recours aux Lignes directrices fédérales sur les pensions alimentaires pour enfants constitue un point de départ qui évolue, selon d’autres considérations, vers une entente entre les conjoints concernant un « montant de pension alimentaire » définitif. L’utilisation d’un processus d’amorce n’a pas pour effet de rendre, de cristalliser ou de transformer chaque valeur distincte saisie le long de ce parcours évolutif en un montant de pension alimentaire, en vertu de la Loi : Contino c. Leonelli-Contino, 2005 CSC 63, au paragraphe 32. Dans le présent appel, les calculs figurant dans le tableau de l’annexe A intitulé « Pension alimentaire pour enfants (table) » montrent clairement un calcul mathématique illustrant parfaitement un tel processus.
+[8] Quant au processus, un point de départ a été sélectionné. Les avocats des parties ont utilisé un logiciel pour saisir diverses entrées de compensation menant à la détermination d’un montant unilatéral devant être versé par un conjoint à l’autre conjoint : Ladell c. La Reine, 2011 CCI 314, au paragraphe 11, elle-même citant Contino, précité. Il s’agit d’un cas d’exercice conjoint des responsabilités parentales, comme convenu et énoncé par les conjoints dans le consentement (comme dans Perrin c. La Reine, 2010 CCI 331, au paragraphe 16). En outre, la conjointe de M. Harder n’était pas tenue de verser à ce dernier un montant pour le soutien des enfants sous forme de pension alimentaire : Cunningham c. La Reine, 2012 CCI 279, au paragraphe 14. La pension alimentaire pour enfants versée uniquement et unilatéralement par M. Harder n’est pas obscurcie ou réduite par un détour relevant de calculs arithmétiques intermédiaires : Verones c. Canada, 2013 CAF 69, au paragraphe 6. De même, le paragraphe 118(5.1) entraîne et prévient la perte ou la non-utilisation d’une déduction pour personne à charge, mais seulement lorsque les deux parents paient effectivement à l’autre parent une pension alimentaire pour enfants : Verones, précitée, au paragraphe 9.
+[9] Il a été énoncé que ce qui constitue un paiement réel ou factuel versé par les deux parents à l’autre parent comprend la pension alimentaire pour enfants, dans le cas d’une garde scindée (par opposition à l’exercice conjoint des responsabilités parentales), lorsque chaque parent paie un montant de pension alimentaire pour l’enfant dont il a la garde (Rabb v. The Queen, 2006 CCI 140). De manière implicite, il arrive aussi vraisemblablement, dans le cadre d’ententes sur l’exercice conjoint des responsabilités parentales, que l’ordonnance de la Cour indique en référence que des paiements réels doivent être effectués par chaque parent à l’autre parent (à titre d’observation incidente dans le jugement Ochitwa c. La Reine, 2014 CCI 263, au paragraphe 14). Enfin, les déductions pour personne à charge sont possibles lorsque les parents ajustent les paiements de pension alimentaire pour enfants en fonction d’autres dépenses accessoires, puisqu’ils paient ces sommes à l’autre de manière distincte et qu’ils indiquent ces montants dans une entente écrite claire, laquelle rend ces paiements obligatoires (objet d’une décision rendue de vive voix par la juge Lyons, le 27 avril 2016, et devant être publiée prochainement dans un format expurgé, sous l’intitulé AB v Her Majesty the Queen).
+[10] Toutes ces décisions ou situations impliquent une exigence à l’égard de chaque parent de payer, de manière obligatoire, un montant indiqué dans une ordonnance judiciaire ou dans une entente officielle, accompagnée d’une preuve concluante du paiement effectif. Cela ne comprend pas le recours rapide à un logiciel, dont il découle un paiement unilatéral de pension alimentaire par un seul parent à l’autre parent.
+[11] Les avocats pratiquant le droit familial devraient en prendre note. L’application de l’effet combiné des paragraphes 118(5) et 118(5.1) exige, à tout le moins, un dossier documentaire et de preuve complet. Dans des situations où des conjoints en instance de séparation, voulant obtenir la garde partagée, souhaitent se prévaloir tous deux d’une déduction pour personne à charge, les avocats en droit de la famille peuvent certainement exercer leurs compétences flexibles habituelles afin d’écarter, pour un instant, les dispositions liées à la compensation, qui se trouvent dans le logiciel paradoxalement nommé « Divorce Mate », pour demander et rendre exécutoire des paiements périodiques réels devant être versés par les deux conjoints l’un à l’autre, dans les cas d’exercice conjoint des responsabilités parentales à l’égard de deux enfants ou plus. Sûrement que des chèques, ou même leur version moderne consistant en des virements électroniques périodiques, peuvent prouver un montant de pension alimentaire, clairement énoncé, réciproque et obligatoire, payé par les deux conjoints l’un à l’autre.
+[12] Malheureusement, jusqu’à ce qu’une telle situation soit présentée à la Cour, des appelants bien intentionnés, comme M. Harder, verront leurs appels rejetés. Cette conclusion continuera à la fois d’être regrettable en général et de faire échec délibérément au programme de prestations pour enfants en particulier, puisque les déductions pour personne à charge pour un deuxième enfant demeureront inaccessibles en droit à un parent débiteur d’une pension alimentaire unilatérale.
+Signé à Ottawa, Canada, ce 14e jour de septembre 2016.
+« R. S. Bocock »
+Juge Bocock
+RÉFÉRENCE :
+2016 CCI 197
+NO DU DOSSIER DE LA COUR :
+2014-3977(IT)I
+INTITULÉ DE LA CAUSE :
+MICHAEL HARDER et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+North Bay (Ontario)
+DATE DE L’AUDIENCE :
+Le 27 juin 2016
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 14 septembre 2016
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Gregory DuCharme
+Avocate de l’intimée :
+Me Gabrielle White
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Gregory DuCharme
+Cabinet :
+North Bay (Ontario)
+Avocat de l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

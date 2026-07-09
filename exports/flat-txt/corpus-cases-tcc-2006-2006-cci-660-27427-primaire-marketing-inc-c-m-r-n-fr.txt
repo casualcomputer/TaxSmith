@@ -1,0 +1,197 @@
+Title: Primaire Marketing Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27427/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-660-27427-primaire-marketing-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-02-28
+
+# Primaire Marketing Inc. c. M.R.N.
+
+- Citation: 2006 CCI 660
+- Decision date: 2006-02-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 249, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Primaire Marketing Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-02-28
+Référence neutre
+2006 CCI 660
+Numéro de dossier
+2006-379(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2006-379(EI)
+ENTRE :
+PRIMAIRE MARKETING INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SONA KAMAR,
+intervenante.
+____________________________________________________________________
+Appel entendu le 18 septembre 2006, à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Représentant de l'appelante :
+Dani Karam
+Avocate de l'intimé :
+Me Anne Poirier
+Pour l’intervenante :
+Personne n’a comparu
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+Attendu que cette Cour a fait parvenir un jugement daté du 15 décembre 2006 à l'égard de l’appel de l'appelante, Primaire Marketing inc.;
+Et attendu que l'avocate de l'intimé a informé la Cour, dans une lettre datée du 21 décembre 2006, que le jugement et les motifs du jugement n'incluaient pas les deux décisions du ministre;
+Cette Cour apporte donc les modifications suivantes dans ledit jugement et dans les motifs du jugement :
+L'appel est rejeté et les décisions rendues par le ministre sont confirmées selon les motifs du jugement modifié ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 28e jour de février 2007.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2006CCI660
+Date : 20060228
+Dossier : 2006-379(EI)
+ENTRE :
+PRIMAIRE MARKETING INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SONA KAMAR,
+intervenante.
+MOTIFS DU JUGEMENT MODIFIÉ
+Le juge suppléant Savoie
+[1] Il s’agit d’un appel de la décision du ministre du Revenu national (le « ministre ») datée du 12 décembre 2005 selon laquelle le travailleur Jean Fares occupait un emploi assurable pendant la période allant du 1er janvier au 31 décembre 2004, et porte également sur la décision du ministre datée du 29 mars 2005 à l'égard de Lise Bédard, Carole Belisle, Mira Dankour, Chantal Durand, Ohannes et Rachel Dushoghlian, Jean Fares, Diane Harvey, Sona Kamar, Marie-Chantal Plante et Marthe Tremblay relativement à l'année 2003 alors qu’ils étaient au service de l’appelante.
+[2] En rendant sa décision, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+a) l’appelante a été constituée en société le 13 septembre 1999; (admis)
+b) M. Dani Karam était le seul actionnaire de l’appelante; (admis)
+c) l’appelante exploite une entreprise de services faisant la promotion de cartes de crédit pour le bénéfice de ses clients; (admis)
+d) l’entreprise agit à titre d’intermédiaire auprès de ses clients afin de recruter de nouveaux membres à leurs cartes de crédit; (admis)
+e) les principaux clients de l’appelante étaient la Hudson Bay Company (H.B.C.), les magasins Zellers et Canadian Tire; (admis)
+f) en 2003, le volume d’affaires de l’appelante oscillait autour de 122 000 $; (admis)
+g) avant d’embaucher les travailleurs (représentants), M. Karam rencontrait son client afin de connaître les objectifs d’adhésion à atteindre, la période et les lieux du travail; (admis avec précisions)
+h) les travailleurs contactés avaient le droit de refuser ou d’accepter l’offre de travail de l’appelante; s’ils refusaient trop souvent, l’appelante pouvait cesser de les contacter; (nié)
+i) s’ils acceptaient l’offre, les travailleurs devaient suivre les consignes du client de l’appelante concernant l’habillement, la présentation, le lieu de travail, l’horaire de travail, etc.; (ignoré)
+j) l’appelante contactait les travailleurs par téléphone pour les informer de la promotion, du lieu de travail et de la personne ressource à qui se rapporter chez son client; (admis)
+k) la principale tâche des travailleurs consistait à remplir les formulaires de demande de carte de crédit; ils n’avaient pas à approuver le crédit; (admis)
+l) initialement, les travailleurs pouvaient recevoir une petite formation de l’appelante pour savoir comment compléter adéquatement les formulaires de demande de crédit; (admis)
+m) les travailleurs n’avaient pas à respecter un horaire fixe de travail, mais choisissaient leur horaire en fonction des heures d’ouverture des commerces, clients de l’appelante; (admis)
+n) l’appelante ne couvraient [sic] pas les travailleurs par une assurance responsabilité, ni pour les accidents de travail, car c’était généralement son client (le commerce) qui en prenait la responsabilité; (admis)
+o) les travailleurs devaient préparer à la fin de chaque journée de travail un rapport indiquant le nombre d’adhésions complétées et le nombre d’heures travaillées; (nié)
+p) le rapport était remis au client de l’appelante avec les formulaires complétés à la fin de chaque jour de travail; (admis)
+q) les frais de location de l’emplacement de travail des travailleurs étaient assumés par l’appelante; (nié)
+r) M. Karam se rendait occasionnellement sur les lieux de travail des travailleurs pour vérifier leur prestation de travail; (nié)
+s) si l’un des travailleurs devait s’absenter, il devait en aviser l’appelante une journée à l’avance; (nié)
+t) les formulaires d’adhésion et les crayons étaient fournis par les clients de l’appelante, les travailleurs n’avaient pas à fournir d’outils de travail; (admis)
+u) sauf pour leur habillement et leur déplacement, les travailleurs n’avaient pas à encourir de dépenses pour exécuter leur travail; (admis)
+v) lorsque des cadeaux promotionnels étaient remis aux adhérents, ceux-ci étaient fournis par le client de l’appelante; (admis)
+w) si des plaintes étaient formulées contre les travailleurs, elles étaient acheminées à l’appelante par son client; (nié)
+x) les travailleurs étaient rémunérés à la pièce, en fonction du nombre de formulaires d’adhésion complétés; (admis)
+y) les travailleurs recevaient 9,00 $ par formulaire complété et non rejeté s’ils étaient constitués en société (incorporé) et 7,00 $ du formulaire s’ils ne l’étaient pas; (nié)
+z) l’appelante recevait 9,50 $ par formulaire complété et non rejeté; (nié)
+aa) M. Fares a précisé à l’agent des appels qu’il recevait entre 5,00 $ et 6,00 $ par formulaire d’adhésion complété; (ignoré)
+bb) M. Jean Fares n’a pas contesté la décision de l’Agence des douanes et du revenu du Canada, datée du 7 janvier 2005, à l’effet qu’il occupait un emploi assurable auprès de l’appelante en 2004. (ignoré)
+[3] Il a été établi que Promotions Bibeau, ci-après appelée « Bibeau », est une société liée à l’appelante. Dani Karam a été embauché par Bibeau pour recruter des personnes pour faire la promotion de cartes de crédit de ses clients et pour y abonner de nouveaux membres. Les travailleurs embauchés par Bibeau exerçaient leurs fonctions dans les magasins de ses clients.
+[4] Monsieur Karam, dans son témoignage à l’audition, admet qu’il se rendait aux lieux de travail, mais il dit que cette démarche n’était pas faite dans le but de vérifier la prestation de travail des travailleurs, mais uniquement de les saluer, puisque ceux-ci étaient ses amis.
+[5] Monsieur Karam était le superviseur de la société Bibeau. Il a affirmé que les travailleurs ne sont pas assujettis à un quota de production, mais si celle-ci n’est pas assez élevée, il veut le savoir et leur dit : « Voulez-vous avoir encore du travail pour le client? »
+[6] Monsieur Karam est à salaire. Tous les travailleurs ont fini par travailler pour Bibeau. Selon la preuve, tous voulaient être salariés. Cependant, l’appelante considère que lorsque les travailleurs travaillaient pour elle, ils étaient des travailleurs autonomes. Ce qu’il faut signaler, c’est que les conditions d’emploi étaient identiques chez les deux employeurs. Les travailleurs recevaient la même rémunération et la même supervision, et ils étaient assujettis au même contrôle. Il est vrai que ce dernier était minime en raison de la simplicité des tâches à accomplir, une fois la formation de base reçue par les travailleurs.
+[7] La preuve produite par l’appelante tente d’établir que les conditions de travail de ses travailleurs n’appuient pas la conclusion que ceux-ci exerçaient leurs fonctions en vertu d’un contrat de travail. Cependant, il ressort de la preuve recueillie que ceux-ci travaillaient en tant qu’employés, que ce soit pour le compte de l’une ou de l’autre société. Dans ce contexte, il m’apparaît que l’utilisation de la société Promotions Bibeau n’est qu’un trompe-l’œil.
+[8] La prépondérance de la preuve a établi que les travailleurs ont reçu de l’appelante une formation de deux semaines. On leur montrait comment faire le travail de promotion en les initiant à l’utilisation des formulaires que ceux-ci remplissaient avec l’information recueillie des personnes sollicitées. L’appelante a aussi enseigné aux travailleurs la façon de faire leurs rapports hebdomadaires. Par ailleurs, si la production d’un travailleur était considérée trop faible, le client de l’appelante pouvait lui assigner une personne pour l’aider à améliorer sa production. Monsieur Karam a témoigné que si la production d’un travailleur était faible, il lui proposait un assistant pour l’aider.
+[9] Quant au lieu de travail, l’appelante permettait aux travailleurs de choisir le magasin où ils travaillent. C’était souvent celui qui se trouvait le plus près de chez eux. Les travailleurs étaient rémunérés à la pièce, au tarif fixé par l’appelante; celui-ci n’était pas négociable.
+[10] Le travailleur Jean Fares a affirmé à l’audition que l’appelante pouvait lui assigner un autre lieu de travail, c’est-à-dire un autre magasin. Il a ajouté qu’à son lieu de travail, il n’y avait pas de surveillance, mais que monsieur Karam pouvait, parfois, faire des visites-surprises, question de vérifier si le travailleur était à son poste. Pour sa part, Diane Harvey, une autre travailleuse, a affirmé à l’audition que monsieur Karam avait l’habitude de lui téléphoner lorsqu’elle était absente et lui disait qu’il devrait la remplacer. La preuve a révélé que les travailleurs qui éprouvaient des difficultés allaient consulter l’appelante.
+[11] La question en litige est de savoir si les travailleurs occupaient un emploi assurable aux fins de la Loi sur l’assurance-emploi (la « Loi »). La disposition pertinente est l’alinéa 5(1)a) de la Loi, qui énonce ce qui suit :
+Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[Je souligne.]
+L’article précité définit le terme « emploi assurable ». C’est l’emploi que l’on exerce en vertu d’un contrat de louage de services, c’est-à-dire en vertu d’un contrat de travail. Cependant, la Loi ne définit pas ce qui constitue un tel contrat.
+[12] Le contrat de louage de services est une notion de droit civil que l’on trouve dans le Code civil du Québec. C’est donc en vertu des dispositions pertinentes du Code civil qu’il faudra déterminer la nature de ce contrat.
+[13] Dans un article intitulé « Contrat de travail : pourquoi Wiebe Door Services Ltd. ne s’applique pas au Québec et par quoi on doit le remplacer » publié au cours du quatrième trimestre de 2005 par l’Association de planification fiscale et financière (APFF) et le ministère fédéral de la Justice dans le second recueil d’études en fiscalité de la collection « Harmonisation de la législation fédérale avec le droit civil québécois et le bijuridisme canadien », le juge Pierre Archambault de cette Cour décrit, à l’égard de toute période d’emploi postérieure au 30 mai 2001, la démarche que doivent faire les tribunaux depuis l’entrée en vigueur, le 1er juin 2001, de l’article 8.1 de la Loi d’interprétation, L.R.C. (1985), ch. 1-21, telle qu’elle est modifiée, lorsqu’ils sont confrontés à un litige comme celui en l’espèce. Voici ce que le législateur a édicté dans cet article :
+Propriété et droits civils
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[Je souligne.]
+[14] Il convient de reproduire les dispositions pertinentes du Code civil, qui serviront à déterminer l’existence d’un contrat de travail au Québec pour le distinguer du contrat d’entreprise :
+Contrat de travail
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2086. Le contrat de travail est à durée déterminée ou indéterminée.
+Contrat d’entreprise ou de service
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[Je souligne.]
+[15] Les dispositions du Code civil reproduites ci-dessus établissent trois conditions essentielles à l’existence d’un contrat de travail :
+1) la prestation sous forme de travail fournie par le salarié; 2) la rémunération de ce travail par l’employeur; 3) le lien de subordination. Ce qui distingue de façon significative un contrat de travail d’un contrat de service, c’est l’existence du lien de subordination, c’est-à-dire le fait pour l’employeur d’avoir un pouvoir de direction ou de contrôle sur le travailleur.
+[16] Les auteurs de doctrine se sont penchés sur la notion de « pouvoir de direction ou de contrôle » et sur son revers, le lien de subordination. Voici ce que l’auteur Robert P. Gagnon écrivait dans « Le droit du travail du Québec », 5e éd., Les Éditions Yvon Blais inc., 2003, Cowansville (QC) :
+c) La subordination
+90 – Facteur distinctif – L’élément de qualification du contrat de travail le plus significatif est celui de la subordination du salarié à la personne pour laquelle il travaille. C’est cet élément qui permet de distinguer le contrat de travail d’autres contrats à titre onéreux qui impliquent également une prestation de travail au bénéfice d’une autre personne, moyennant un prix, comme le contrat d’entreprise ou de service régi par les articles 2098 et suivants C.c.Q. Ainsi, alors que l’entrepreneur ou le prestataire de services conserve, selon l’article 2099 C.c.Q., « le libre choix des moyens d’exécution du contrat » et qu’il n’existe entre lui et son client « aucun lien de subordination quant à son exécution », il est caractéristique du contrat de travail, sous réserve de ses termes, que le salarié exécute personnellement le travail convenu sous la direction de l’employeur et dans le cadre établi par ce dernier.
+[…]
+92 – Notion – Historiquement, le droit civil a d’abord élaboré une notion de subordination juridique dite stricte ou classique qui a servi de critère d’application du principe de la responsabilité civile du commettant pour le dommage causé par son préposé dans l’exécution de ses fonctions (art. 1054 C.c.B.-C.; art. 1463 C.c.Q.). Cette subordination juridique classique était caractérisée par le contrôle immédiat exercé par l’employeur sur l’exécution du travail de l’employé quant à sa nature et à ses modalités. Elle s’est progressivement assouplie pour donner naissance à la notion de subordination juridique au sens large. La diversification et la spécialisation des occupations et des techniques de travail ont, en effet, rendu souvent irréaliste que l’employeur soit en mesure de dicter ou même de surveiller de façon immédiate l’exécution du travail. On en est ainsi venu à assimiler la subordination à la faculté, laissée à celui qu’on reconnaîtra alors comme l’employeur, de déterminer le travail à exécuter, d’encadrer cette exécution et de la contrôler. En renversant la perspective, le salarié sera celui qui accepte de s’intégrer dans le cadre de fonctionnement d’une entreprise pour la faire bénéficier de son travail. En pratique, on recherchera la présence d’un certain nombre d’indices d’encadrement, d’ailleurs susceptibles de varier selon les contextes : présence obligatoire à un lieu de travail, assignation plus ou moins régulière du travail, imposition de règles de conduite ou de comportement, exigence de rapports d’activité, contrôle de la quantité ou de la qualité de la prestation, etc. Le travail à domicile n’exclut pas une telle intégration à l’entreprise.
+[Je souligne.]
+[17] Il faut préciser que ce qui caractérise le contrat de travail, ce n’est pas le fait que la direction ou le contrôle a effectivement été exercé par l’employeur, mais le fait qu’il pouvait être exercé. Dans l’arrêt Gallant c. M.R.N., no A-1421-84, 22 mai 1986, [1986] A.C.F. no 330 (Q.L.), le juge Pratte de la Cour d’appel fédérale affirme que :
+[…] Ce qui est la marque du louage de services, ce n’est pas le contrôle que l’employeur exerce effectivement sur son employé, c’est plutôt le pouvoir que possède l’employeur de contrôler la façon dont l’employé exécute ses fonctions. […]
+[18] Il incombe à cette Cour, qui est chargée de déterminer le type de contrat, selon le droit du Québec, par lequel sont liées les parties, de considérer et de suivre l’approche préconisée par le juge Archambault de cette Cour dans l’article précité, et dont il a repris le thème dans l’arrêt Vaillancourt c. Le ministre du Revenu national, no 2003-4188(EI), 27 juin 2005 [2004] A.C.I. no. 685, où il écrivait ce qui suit :
+15 À mon avis, les règles régissant le contrat de travail en droit québécois ne sont pas identiques à celles de la common law et, par conséquent, il n'est pas approprié d'appliquer des décisions de common law comme les arrêts Wiebe Door Services Ltd. c. M.N.R., [1986] 3 C.F. 553 (C.A.F.) et 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, 2001 CSC 59. Au Québec, un tribunal n'a pas d'autre choix que de conclure à l'existence ou à l'absence du lien de subordination pour décider si un contrat constitue un contrat de travail ou un contrat de service.
+[19] Les clients qui profitaient des services des travailleurs étaient ceux de l’appelante ou de Bibeau, ce qui revient au même. Les quelques instruments ou outils nécessaires aux travailleurs étaient fournis par l’appelante.
+[20] Il a été démontré que les travailleurs étaient soumis au contrôle de l’appelante. Il ressort de la preuve présentée que le travail exécuté par les travailleurs n’exigeait pas une surveillance constante, puisqu’après une formation de base, ce travail pouvait être réalisé sans surveillance. Toutefois, l’appelante avait le pouvoir de contrôle et l’exerçait au besoin, pour assurer l’assiduité au travail, la quantité et la qualité de la production ainsi que la méthode de travail. Dans ce but, l’appelante fournissait une formation à ses travailleurs.
+[21] Les travailleurs sont intégrés à l’entreprise de l’appelante. La preuve a clairement démontré que ceux-ci ne travaillaient pas à leur compte. Par ailleurs, ils n’engageaient aucune dépense dans l’exercice de leurs fonctions et exécutaient celles-ci en utilisant les outils fournis par l’appelante. En outre les travailleurs n’avaient aucun risque de perte ou chance de profit dans l’exercice de leurs fonctions. Il faut conclure que ce sont là toutes les caractéristiques d’un contrat de travail et non des critères qui appuient l’existence d’un contrat d’entreprise.
+[22] Cette Cour s’est penchée sur des problèmes semblables à celui en l’espèce dans plusieurs arrêts, dont les suivants :
+1. 9049-9955 Québec inc., appelante, c. Le ministre de Revenu national, intimé, no 98-1091(UI), 13 mars 2000, [2000] A.C.I. no. 129;
+2. Les Promotions G. Bibeau Inc., appelante, c. Le ministre du Revenu national, intimé, et Serge Laverdière, intervenant, no 2002-4709(EI), 25 juin 2003, [2003] A.C.I. no. 367;
+3. Promotions DND inc., appelante, c. Le ministre du Revenu national, intimé, no 2000-3393(EI), 18 juillet 2001, [2001] A.C.I. no. 480;
+4. 3234339 Canada inc. (Crédico Marketing inc.), appelante, c. Le ministre du Revenu national, intimé, no 2004-4725(EI), 15 septembre 2005, [2005] A.C.I. no 433.
+[23] Pour illustrer comment les faits en l’espèce ressemblent à ceux présentés dans les arrêts précités, voici les hypothèses de fait sur lesquelles le ministre s’est fondé pour rendre sa décision dans l’arrêt Les Promotion G. Bibeau inc. c. Le ministre du Revenu national, précité :
+a) L’appelante, constituée en société en 1986, fait la promotion de cartes de crédit dans les centres commerciaux, foires, salons et festivals. (admis)
+b) L’appelante exploite son entreprise à l’année longue dans la province de Québec et occasionnellement dans les provinces maritimes. (nié)
+c) L’appelante embauche des personnes, qu’elle considère comme des sous‑contractants ou travailleurs indépendants, pour effectuer la vente de cartes de crédit. (admis)
+d) Durant la période en litige, le travailleur a travaillé pour l’appelante pour faire la promotion de cartes de crédit d’institutions bancaires et de grands magasins. (admis)
+e) L’appelante fournissait au travailleur tout l’équipement nécessaire à son travail : le kiosque, les cadeaux promotionnels, les formulaires d’application et les formulaires de rapports. (nié)
+f) Une superviseure de l’appelante communiquait avec le travailleur pour lui faire part des lieux de travail où il devait se présenter et de son horaire de travail. (nié)
+g) Le travailleur devait respecter sa cédule de travail. (nié)
+h) La superviseure téléphonait au travailleur à la fin de chaque jour de travail afin de connaître le nombre d’applications complétées et d’obtenir un résumé des activités de la journée. (nié)
+i) La superviseure se présentait une ou deux fois par semaine au kiosque du travailleur afin de compléter les inventaires de primes remises aux clients et les inventaires de formulaires nécessaires au travailleur. (nié)
+j) Le travailleur devait préparer un rapport hebdomadaire de ses activités et le retourner à l’appelante. (nié)
+k) Le travailleur recevait 4,00 $ par formulaire de demande complété. (admis)
+l) Le travailleur était payé à chaque semaine par chèque ou par dépôt direct. (nié)
+[24] Il convient de préciser que dans chacun de ces arrêts, cette Cour a conclu que les travailleurs travaillaient en vertu d’un contrat de travail. Il convient en outre de préciser que le jugement de cette Cour dans l’arrêt 3234339 Canada inc. (Crédico Marketing inc.), porté en appel, a été confirmé très récemment par la Cour d’appel fédérale. Il en est de même de l’arrêt 9041‑6868 Québec inc. c. Le ministre du Revenu national, 2005 CAF 334, [2005] A.C.F. no 1720, alors que la Cour d’appel fédérale a confirmé le jugement de cette Cour qui avait conclu que l’emploi des travailleurs était assurable dans un contexte semblable à celui-ci.
+[25] Dans le travail d’analyse de ce dossier, il est opportun de reprendre les propos exprimés par la juge Lamarre Proulx de cette Cour dans l’arrêt 3234339 Canada inc. (Crédico Marketing inc.) c. Canada, précité. Elle écrivait ce qui suit :
+66 À l’instar des travailleurs dans l’affaire Marathon Electric (supra), tel que mentionné au dernier paragraphe de la décision de notre Cour, je ne constate ici aucune caractéristique d’une entreprise commerciale de la part des travailleurs. Il n’y a pas de soumission quant à la contrepartie pour les services. Ce ne sont pas les travailleurs qui recherchent les clients. La rémunération est à la pièce et déterminée par l’appelante. Elle est identique pour tous ceux qui sont acceptés comme représentants. Les clients sont ceux de l’appelante. Je ne crois pas que la preuve ait révélé que l’appelante ait permis que les représentants puissent agir en même temps pour les autres sociétés concurrentes. En tout cas, dans les faits, un représentant s’attache à son groupe. Il fait le travail qu’on lui demande. Il se comporte comme un employé, diligent et manifestant de l’initiative, mais un employé tout de même.
+67 Il faut prendre en considération également que les représentants sont un élément essentiel et principal de l’entreprise de l’appelante et de sa source de profits.
+[. . .]
+70 Pour reprendre les mots du juge Décary dans les Productions Petit Bonhomme Inc. (supra), je suis d’avis que les relations de travail présentent ici un degré de continuité, de loyauté, de sécurité, de subordination et d’intégration qui est généralement associé à un contrat de travail.
+[26] Pour tous ces motifs, l’appel est rejeté et les décisions rendues par le ministre sont confirmées.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 28e jour de février 2007.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2006CCI660
+Nº DU DOSSIER DE LA COUR : 2006-379(EI)
+INTITULÉ DE LA CAUSE : PRIMAIRE MARKETING INC. ET M.R.N. ET SONA KAMAR
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 18 septembre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable S.J. Savoie, Juge suppléant
+DATE DU JUGEMENT : le 28 février 2007
+COMPARUTIONS :
+Représentant de l'appelante :
+Dani Karam
+Avocate de l'intimé :
+Me Anne Poirier
+Pour l’intervenante :
+Personne n’a comparu
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l’intervenante :

@@ -1,0 +1,135 @@
+Title: Goyette c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28332/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-289-28332-goyette-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-06-28
+
+# Goyette c. La Reine
+
+- Citation: 2004 CCI 289
+- Decision date: 2004-06-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1851, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Goyette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-28
+Référence neutre
+2004 CCI 289
+Numéro de dossier
+2003-233(GST)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-233(GST)I
+ENTRE :
+ROBERT GOYETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 5 avril 2004 à Sherbrooke (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelant :
+Me Paul Faribault
+Avocat de l'intimée :
+Me Louis Cliche
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 12 juillet 2002 et porte le numéro 22212, est admis et la cotisation déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 28e jour de juin 2004.
+«Paul Bédard»
+Juge Bédard
+Référence : 2004CCI289
+Date : 20040628
+Dossier : 2003-233(GST)I
+ENTRE :
+ROBERT GOYETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Monsieur Robert Goyette interjette appel de la cotisation établie à son égard en date du 12 juillet 2002 relativement à la taxe sur les produits et services (TPS) pour la période du 1er novembre 1997 au 31 décembre 2000 (période visée). Dans la cotisation établie par le sous‑ministre du Revenu du Québec, au nom de l'Agence des douanes et du revenu du Canada, à l'égard de monsieur Goyette figuraient un montant de taxe nette de 3 527,58 $, des intérêts de 428,65 $ et une pénalité de 498,92 $.
+[2] En établissant la cotisation de monsieur Goyette, le sous-ministre s'est notamment appuyé sur les hypothèses de fait suivantes :
+a) L'appelant fait le commerce de véhicules usagés.
+b) Les ventes de l'appelant établies pour les trimestres du 1er octobre 1996 au 30 septembre 1997 sont supérieures à 30 000 $.
+c) Vu les revenus de l'appelant, ce dernier devait s'inscrire en application de la Loi sur la taxe d'accise.
+d) En date du 1er février 1998, l'intimée a inscrit l'appelant aux fins de l'application de la TPS.
+e) L'appelant est donc un inscrit aux fins de l'application de la TPS.
+f) Au cours de la période du 1er novembre 1997 au 31 décembre 2000, l'appelant était mandataire du sous-ministre pour les fins de la perception et de la remise de la TPS.
+g) Au cours de la période ci-avant mentionnée, l'appelant a omis de remettre au sous-ministre un montant de taxe nette de 3 527,28 $.
+h) Le montant de taxe nette a généré des intérêts de 428,65 $ et des pénalités de 498,92 $.
+i) Le défaut de l'appelant de remettre la taxe au sous-ministre est dû à sa négligence et à son incurie en ce que notamment :
+i) l'appelant reconnaît faire le commerce de véhicules automobiles usagés;
+ii) le commerce de véhicules automobiles usagés exige que l'appelant perçoive et remette la taxe sur chacune des ventes effectuées;
+iii) au cours de la période en litige, l'appelant a fait des ventes totalisant :
+1998 : 28 551 $
+1999 : 15 972 $
+2000 : 9 052 $
+iv) l'appelant devait percevoir la taxe quant aux ventes précédemment mentionnées et la remettre au sous-ministre;
+v) les véhicules automobiles usagés sont une fourniture taxable;
+vi) la vente de véhicules automobiles usagés constitue une activité commerciale et est la principale activité commerciale de l'appelant;
+vii) pour les fins de son activité commerciale, l'appelant devait percevoir la taxe sur toutes ventes de véhicules automobiles usagés.
+Remarques préliminaires
+[3] L'avocat de l'intimée a admis lors de l'audience que le montant en taxe nette due par monsieur Goyette était de 2 898,49 $.
+[4] Durant la période visée, la Société de l'assurance automobile du Québec (S.A.A.Q.) acceptait, pour fins d'immatriculation et du calcul de la taxe, la valeur du véhicule déclarée par les parties à la transaction au lieu d'appliquer la valeur indiquée dans le Canadian Red Book (maintenant le Guide d'évaluation Hebdo - automobiles et camions légers). En l'espèce, le sous-ministre ignorait la valeur réelle des véhicules achetés et vendus par monsieur Goyette. Le sous‑ministre a donc établi en l'espèce la valeur des véhicules en se fondant des données tirées du Canadian Older Car/Truck Red Book (« Red Book »). Lors de son témoignage, monsieur Martin, un agent de recherche du sous-ministre, a expliqué la méthodologie utilisée pour établir en l'espèce le prix d'achat et de vente des automobiles négocié par monsieur Goyette. Monsieur Martin a expliqué que le prix d'achat et de vente d'une automobile datant de plus de 10 ans était établi à partir du Red Book. Ainsi, le prix d'achat d'un véhicule acheté en l'espèce par monsieur Goyette fut déterminé en multipliant le prix de vente moyen inférieur d'un tel véhicule tel qu'il appert au Red Book par 0,798 pour cent (facteur de correction). Par ailleurs, le prix de vente d'un véhicule vendu en l'espèce par monsieur Goyette fut déterminé en multipliant le prix de vente moyen supérieur d'un tel véhicule tel qu'il appert dans le Red Book par 1,036 pour cent (facteur de correction). Selon monsieur Martin, les facteurs de correction retenus furent établis à partir d'études faites par le ministre du Revenu qui, par la suite, ont été validées par un expert retenu par ce dernier. Ces études sont le produit de recherches entreprises auprès d'encanteurs et d'assureurs québécois dans le but de refléter le plus justement possible la valeur des véhicules sur le marché québécois.
+Objections de monsieur Goyette
+[5] Monsieur Goyette a soutenu que :
+i) il ne faisait pas le commerce d'achat et de vente d'automobiles d'occasion pendant la période visée. Il a affirmé que c'était plutôt un « hobby » et qu'il avait tiré un profit très minime de ce commerce;
+ii) les automobiles concernées étaient en très mauvais état et avaient fait beaucoup de kilométrage. Il a prétendu que ces automobiles ne pouvaient donc avoir été achetées et revendues aux prix calculés par le sous‑ministre en vertu de la méthode décrite précédemment. Selon lui, les prix déterminés par le sous‑ministre étaient tout simplement irréalistes;
+iii) pendant la période visée, il était un petit fournisseur au sens du paragraphe 148(1) de la Loi sur la taxe d'accise (la « Loi »). Il n'avait donc pas à s'inscrire aux fins de l'application de la Loi. Ainsi, il n'avait pas l'obligation de percevoir et de remettre la TPS en tant que mandataire du sous-ministre. En fait, il a soutenu que ses ventes pour les trimestres du 1er octobre 1996 au 30 septembre 1997 étaient inférieures à 30 000 $.
+« Hobby »
+[6] Durant la période visée, monsieur Goyette était sans emploi et recevait de l'aide sociale. Au cours des années 1993 à 2000, il a acheté 129 automobiles d'occasion et en a revendues 114. Il fut propriétaire de 77 automobiles pour une période de moins d'un mois, ce qui représente 67.54 % des automobiles achetées durant cette période. De ce nombre, 45 automobiles sont demeurées sa propriété moins de 10 jours, dont 9 ont été vendues la journée même de leur acquisition. Il ressort de la pièce A-3, déposée d'un commun accord, que monsieur Goyette a vendu, pendant la période du 1er février 1998 au 31 décembre 2000, 42 automobiles dont la majorité furent en inventaire pour une période de moins d'un mois et parfois d'une seule journée. La thèse du « hobby » n'est tout simplement pas crédible.
+Détermination du prix d'achat et de vente par le sous-ministre
+[7] Pour prouver le prix réel d'achat et de vente des automobiles pour la période concernée, monsieur Goyette a déposé une liste manuscrite (pièce A‑1) qu'il a établie au meilleur de sa connaissance à l'automne 2003. Cette liste établissait la date d'acquisition et de vente des automobiles, le nom des acheteurs et des vendeurs et les contreparties données ou reçues lors de ces achats ou ventes, selon le cas. Il n'avait en sa possession aucun document attestant ou constatant l'achat et la vente de ces véhicules ni aucun document faisant état des modalités y afférentes. Il ne tenait aucun livre ou registre. Il a témoigné toutefois qu'il aurait eu en sa possession certains documents mais que son épouse les aurait jetés. Toutes les transactions étaient faites en argent comptant.
+[8] La présomption de validité d'une cotisation peut être renversée par toute preuve légale, y compris le témoignage. Encore faut-il que le témoin soit crédible et que le témoignage ait une force probante. En l'espèce, je n'accorde aucune valeur probante au témoignage de monsieur Goyette. Son témoignage n'est corroboré par aucun témoin ni document probant pour les fins de la contestation de la cotisation. Il n'a conservé aucun document ou pièce justificative à l'appui des ventes qu'il a faites. Toutes les transactions ont été faites en argent comptant. Les explications verbales fournies par monsieur Goyette pour établir le prix d'achat et de vente de ces automobiles ne m'ont tout simplement pas convaincu.
+[9] Monsieur Goyette a contesté le caractère fiable, raisonnable et réaliste des données utilisées par le sous-ministre pour calculer les valeurs d'achat et de vente des automobiles concernées. Je considère que la méthode utilisée par le sous‑ministre pour établir la valeur des transactions, en l'absence de toute autre preuve tangible et crédible, est satisfaisante et produit des chiffres qui ne paraissent pas excessifs. Qui plus est, la cotisation fondée sur des indices jouit, comme toutes autres cotisations, de la présomption de validité.
+Est-ce que monsieur Goyette était un petit fournisseur?
+[10] Il ressort de la pièce A-3 que les ventes d'automobiles effectuées par monsieur Goyette pour les trimestres du 1er octobre 1996 au 30 septembre 1997 étaient inférieures à 30 000 $ mais que les ventes (déterminées à partir de la méthode utilisée par le sous-ministre) pour les trimestres du 1er janvier 1997 au 31 décembre 1997 étaient supérieures à 30 000 $. Par conséquent, monsieur Goyette n'était pas un petit fournisseur au sens du paragraphe 148(1) de la Loi. Ce dernier devait donc s'inscrire en application de la Loi et avait donc, en tant que mandataire du sous-ministre, l'obligation de percevoir et de remettre la TPS sur les ventes de véhicules d'occasion entre le 1er février 1998 et le 31 décembre 2000.
+[11] En définitive et avec égard pour l'opinion contraire, le témoignage de monsieur Goyette, qui n'était appuyé par aucune preuve documentaire acceptable par aucun témoignage indépendant et crédible, ne pouvait être considéré comme crédible et plausible, dans les circonstances, et ne lui a pas permis de renverser la présomption de validité de la cotisation. L'appel est donc rejeté. Toutefois, compte tenu de l'admission du sous-ministre, le montant de taxe nette est donc de 2 898,49 $ et le montant des intérêts et de la pénalité devrait être modifié en conséquence.
+Signé à Ottawa, Canada, ce 28e jour de juin 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI289
+No DU DOSSIER DE LA COUR :
+2003-233(GST)I
+INTITULÉ DE LA CAUSE :
+Robert Goyette et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+le 5 avril 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable Juge Paul Bédard
+DATE DU JUGEMENT :
+le 28 juin 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me Paul Faribault
+Pour l'intimée :
+Me Louis Cliche
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Paul Faribault
+Étude :
+Gauthier, Bergeron & Faribault
+Magog (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

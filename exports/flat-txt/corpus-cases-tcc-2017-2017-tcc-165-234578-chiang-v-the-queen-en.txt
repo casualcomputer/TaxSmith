@@ -1,0 +1,567 @@
+Title: Chiang v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/234578/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-165-234578-chiang-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-08-31
+
+# Chiang v. The Queen
+
+- Citation: 2017 TCC 165
+- Decision date: 2017-08-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2192, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chiang v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-08-31
+Neutral citation
+2017 TCC 165
+File numbers
+2016-2715(IT)I
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-2715(IT)I
+BETWEEN:
+EDWARD L. CHIANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on April 6, 2017, at Toronto, Ontario.
+Respondent’s Written Submissions filed on June 5, 2017.
+By: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Derek Edwards
+JUDGMENT
+The Appeals from the assessments (the “Assessments”) made under the Income Tax Act (the “ITA”) for the Appellant’s 2004 through 2013 taxation years are allowed, without costs, and the Assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment. For greater certainty, the Appellant is not liable to the late-filing penalties that were assessed under section 204.3 and subsection 162(1) of the ITA. In all other respects, the Assessments are confirmed.
+Signed at Edmonton, Alberta, this 31st day of August, 2017.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2017 TCC 165
+Date: 20170831
+Docket: 2016-2715(IT)I
+BETWEEN:
+EDWARD L. CHIANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION [1] These Reasons pertain to the Appeals instituted by Edward L. Chiang in respect of the assessment of tax under Part X.1 of the Income Tax Act[1] (the“ITA”) by the Canada Revenue Agency (the “CRA”) on behalf of the Minister of National Revenue (the “Minister”). The tax under Part X.1, colloquially referred to as a tax on RRSP overcontributions, was assessed by the CRA for the 2004 through 2013 taxation years. However, in order to calculate the amount of Part X.1 tax (if any) payable by Mr. Chiang, it is necessary to consider the contributions made by him to his registered retired savings plan (the “RRSP”) from 1995 through 2005.[2]
+[2] Although the colloquial term that is frequently used is “RRSP overcontribution,” the technical term, as set out in subsection 204.2(1.1) of the ITA, is “cumulative excess amount of an individual in respect of registered retirement savings plans.”[3] In these Reasons, I will sometimes shorten that technical term to “cumulative excess amount.”
+II. ISSUES [3] The issues in these Appeals are:
+a) Did Mr. Chiang have a cumulative excess amount (and if so, to what extent) in respect of his RRSP for any of the taxation years between 2004 and 2013 inclusive?
+b) Is Mr. Chiang liable to late-filing penalties in respect of the taxation years from 2004 to 2013, pursuant to section 204.3 and subsection 162(1) of the ITA?
+III. BACKGROUND [4] From 1995 to 2005 (with the exception of 1998), Mr. Chiang made contributions to his RRSP. It appears that Mr. Chiang paid reasonable and careful attention to the Registered Retirement Savings Plan (RRSP) Deduction Limit Statement that was attached to his Notice of Assessment for each taxation year,[4] and ensured that, with the exception of 1997, the amount of his RRSP contribution for a particular year did not exceed the limit specified in the Deduction Limit Statement for that year. Nevertheless, by 2004, the CRA was of the view that Mr. Chiang had an ongoing cumulative excess amount, which attracted tax under subsection 204.1(2.1) of the ITA.
+IV. ANALYSIS A. Statutory Provisions [5] For the purposes of these Appeals, the critical provisions in Part X.1 of the ITA are subsections 204.1(2.1) and 204.2(1.1), which read as follows:
+204.1(2.1) Where, at the end of any month after December, 1990, an individual has a cumulative excess amount in respect of registered retirement savings plans, the individual shall, in respect of that month, pay a tax under this Part equal to 1% of that cumulative excess amount….
+204.2(1.1) The cumulative excess amount of an individual in respect of registered retirement savings plans at any time in a taxation year is the amount, if any, by which
+(a) the amount of the individual’s undeducted RRSP premiums at that time
+exceeds
+(b) the amount determined by the formula
+A + B + R + C + D + E
+where
+A is the individual’s unused RRSP deduction room at the end of the preceding taxation year,
+B is the amount, if any, by which
+(i) the lesser of the RRSP dollar limit for the year and 18% of the individual’s earned income (as defined in subsection 146(1)) for the preceding taxation year
+exceeds the total of all amounts each of which is
+(ii) the individual’s pension adjustment for the preceding taxation year in respect of an employer, or
+(iii) a prescribed amount in respect of the individual for the year,
+C is, where the individual attained 18 years of age in a preceding taxation year, $2,000, and in any other case, nil,
+D is the group plan amount in respect of the individual at that time,
+E is, where the individual attained 18 years of age before 1995, the individual’s transitional amount at that time, and in any other case, nil, and
+R is the individual’s total pension adjustment reversal for the year.
+For the purposes of these Appeals, factors D, E and R in the above formula are not relevant.
+B. Reassessment for 1994 [6] On June 12, 1995 the CRA sent to Mr. Chiang his Notice of Assessment for 1994. Attached to that Notice of Assessment was Mr. Chiang’s 1995 Deduction Limit Statement, which showed that his RRSP deduction limit for 1995 was $8,287, which consisted of his 1994 RRSP deduction limit in the amount of $35 plus $8,252, representing 18% of Mr. Chiang’s 1994 earned income, which was $45,849. On September 5, 1995 the CRA reassessed Mr. Chiang’s income for 1994 in such a manner as to reduce his earned income by $16,793, which resulted in a corresponding reduction, in the amount of $3,022, in respect of his RRSP deduction limit for 1995.[5] By reason of the reassessment, Mr. Chiang’s RRSP deduction limit for 1995 was reduced from $8,287 to $5,265. That latter amount was actually shown as the opening entry in the calculations set out in Mr. Chiang’s 1996 Deduction Limit Statement, which was mailed on June 20, 1996 and which showed that the RRSP deduction limit for 1996 was also $5,265,[6] given that Mr. Chiang, according to the CRA, had not deducted any RRSP contributions in respect of 1995,[7] and did not have any earned income in 1995.
+[7] Counsel for the Crown submitted that the reduction in the RRSP deduction limit for 1995 in the amount of $3,022 (i.e., $8,287 – $5,265) had an ongoing impact on the calculation of Mr. Chiang’s deduction limit for each of the years thereafter, to and including 2015. I am not convinced that the impact of the 1994 reassessment was that long lasting, given that the adjustment to the RRSP deduction limit for 1995 was actually set out in the 1996 Deduction Limit Statement.
+C. Undeducted Contributions (1) Schedule 7 for 1995 and 1999 [8] Mr. Chiang explained that he prepared his own income tax returns, using a commercial software program. Rather than producing his complete income tax returns, he entered into evidence only excerpts from each of his returns from 1995 through 2005.[8] For each of those years, except 1995 and 1999, Mr. Chiang produced copies of the particular page in the particular return that contained line 208, which sets out the amount of the RRSP contribution that was deducted. For 1995 and 1999, Mr. Chiang did not produce copies of the pages containing line 208 because, as he stated in his testimony, those pages showed that no amount was entered on line 208. Instead, for 1995 and 1999, Mr. Chiang produced copies of Schedule 7 (dealing with unclaimed or unused RRSP contributions), which showed that RRSP contributions had been made but not deducted for those two years. In other words, it is my understanding that, although RRSP contributions were made by Mr. Chiang in respect of 1995 and 1999, line 208 on his income tax returns for those years indicated that no RRSP contribution was actually deducted for either year. Mr. Chiang said that he had contributed $4,269.62 to his RRSP in respect of 1995 and $4,300 to his RRSP in respect of 1999. However, according to Mr. Chiang, due to some glitch or other malfunction in the software, the deductions did not appear on line 208, notwithstanding that he had made those contributions to his RRSP and had intended to deduct the contributions. Mr. Chiang reasonably understood and believed, when preparing his 1995 and 1999 income tax returns and when testifying at the hearing of these Appeals, that he had deducted those contributions.
+[9] A closer review of Schedule 7 for 1995 shows on line 245 (also labelled elsewhere as line 2) that Mr. Chiang did contribute $4,269.62 to his RRSP. Line 1 on Schedule 7 shows that Mr. Chiang had unclaimed RRSP contributions from his 1994 Notice of Reassessment in the amount of $8,287.00, and line 5 on Schedule 7 shows that the amount of the RRSP contributions available to deduct for 1995 was $12,556.62 (i.e., $8,287.00 + $4,269.62). Schedule 7 also contains an entry described as “Contributions made to your own RRSP or your spouse’s RRSP based on your ’95 RRSP deduction limit (that you are claiming).” To the right of that entry, in a space identified as line 6, nothing has been entered. In other words, Schedule 7 indicates that Mr. Chiang did not claim a deduction in respect of the contribution that he made for 1995. Below the line for entry of the amount of the RRSP deduction that is being claimed is a further blank with the instruction “Enter this total on line 208 of your return.” To the right of that instruction, on line 8, nothing was entered by Mr. Chiang. In my view, this is the reason for which line 208 of his 1995 income tax return did not show a deduction for an RRSP contribution. It appears that, rather than there being a glitch in the software, the amount of the intended deduction was not entered on Schedule 7. Consequently, the last entry on Schedule 7 for 1995 shows the Unclaimed RRSP Contributions (line 5 minus line 8) as being $12,556.62.
+[10] Something similar happened in 1999. Schedule 7 to Mr. Chiang’s 1999 income tax return shows that Mr. Chiang contributed $4,300 to his RRSP in respect of 1999. That amount appears on line 245 (also labelled elsewhere as line 4) and on line 5 of Schedule 7. The same number, $4,300, appears on line 7, which is described as “RRSP contributions available to deduct.” Below that, the entry for line 8 is described as “1999 deduction for: Contributions that are based on (and do not exceed) your 1999 RRSP deduction limit shown on your 1998 Notice of Assessment or Notice of Reassessment.” Although Mr. Chiang’s RRSP deduction limit for 1999 was $4,393,[9] Mr. Chiang did not enter any amount on line 8 of Schedule 7. Consequently, his 1999 RRSP deduction, which was also described as the amount to be entered on line 208 of his return, was left blank. In other words, even though Mr. Chiang had made a contribution of $4,300, and even though he thought that he was deducting that amount, by reason of the manner in which Schedule 7 was completed, he did not actually deduct any RRSP contribution for 1999.
+[11] It is my impression that Mr. Chiang is a conscientious taxpayer who was, in the context of his RRSP, reasonably endeavouring to contribute and deduct the appropriate amount each year. When Mr. Chiang testified, he genuinely was of the impression that he had deducted the amounts that he had contributed to his RRSP for 1995 and 1999. I am of the view that his failure to deduct the contributed amounts, which was unbeknown to him, was due to innocent and reasonable inadvertence.
+(2) Overcontribution for 1997 [12] The 1997 Deduction Limit Statement that was sent to Mr. Chiang with his 1996 Notice of Assessment showed his RRSP deduction limit for 1997 as being $6,391.[10] Line 208 in Mr. Chiang’s 1997 income tax return shows that he purported to claim an RRSP deduction in the amount of $8,051. However, since that amount was greater than his RRSP deduction limit for 1997, the portion of the contribution that was allowed as a deduction was only $6,391.[11] Consequently, Mr. Chiang had an undeducted contribution in respect of 1997 in the amount of $1,660 (i.e., $8,051 – $6,391).
+[13] Based on two of the three tabulations set out by Mr. Chiang in his Notice of Appeal, it appears that, when Mr. Chiang made his RRSP contribution for 1997, he was of the impression that he had unused RRSP deduction room from previous years, such that he understood (albeit incorrectly) that he was not making an overcontribution for 1997.
+(3) Aggregate Undeducted Contributions [14] By reason of the above RRSP-related occurrences in respect of 1995, 1997 and 1999, by the end of 1999, Mr. Chiang had aggregate undeducted RRSP contributions in the amount of $10,229.62, as follows:
+1995
+$4,269.62
+1997
+1,660.00
+1999
+Total
+4,300.00
+$10,229.62
+(4) Calculations by the Parties [15] The CRA’s calculations have generally shown that, for most of the months in each year from 2004 to 2010,[12] Mr. Chiang’s cumulative excess amount was $10,229.[13] According to the CRA’s submissions, in December 2010, Mr. Chiang withdrew $203 from his RRSP. Therefore, from 2011 to 2013, the CRA showed Mr. Chiang’s cumulative excess amount as $10,026 (i.e., a $203 reduction from the amount shown for the first eleven months of 2010).
+[16] Mr. Chiang filed a detailed and meticulously drafted Notice of Appeal, setting out various reasons as to why (in his view) he was not subject to tax under Part X.1 of the ITA, and containing three tables, showing calculations in support of his argument that he did not have a cumulative excess amount. Mr. Chiang’s calculations were premised on his apparent understanding that the contributions of $4,269.62 and $4,300 in 1995 and 1999 respectively were, not only contributed, but also deducted. However, as explained above, in preparing Schedule 7 to his 1995 and 1999 income tax returns, Mr. Chiang neglected to deduct the amounts that he had contributed in those two years.
+(5) Analysis and Calculations by the Court [17] The second table in Mr. Chiang’s Notice of Appeal purported to be drafted in accordance with the formula to be used in determining a taxpayer’s cumulative excess amount, as set out in subsection 204.2(1.1) of the ITA. However, Mr. Chiang’s table treated the RRSP contributions in respect of 1995 and 1999, in the amounts of $4,269.62 and $4,300 respectively, as having been deducted, notwithstanding that, as explained above, those amounts were actually not deducted.
+[18] In written submissions filed by the Crown after the hearing,[14] the Crown provided the CRA’s calculations of Mr. Chiang’s cumulative excess amount and Part X.1 tax for each month from January 2004 to December 2013. As indicated above, beginning in December 2010, the Crown’s calculations showed the cumulative excess amount as being $10,026. As well, the Crown’s calculations showed that Mr. Chiang contributed $4,416 to his RRSP in February 2006, whereas the documentary evidence indicated that that contribution was made in January 2006. Inasmuch as Part X.1 tax is calculated on a monthly basis, by showing the contribution of $4,416 as having been made in February rather than January, there was a small impact on the amount of Part X.1 tax calculated by the CRA.
+[19] Schedule A to these Reasons contains five tables prepared by the Court for the purpose of calculating the Part X.1 tax payable by Mr. Chiang.[15] Those tables indicate that Mr. Chiang had a cumulative excess amount from 2004 through 2013 and that Part X.1 tax was payable by Mr. Chiang for each of those years.
+[20] For each year, other than 2006, the amount of Part X.1 tax payable by Mr. Chiang was the same as the amount of Part X.1 tax calculated by the CRA, as set out in the written submission filed by counsel for the Crown on June 5, 2017. For 2006, the amount of Part X.1 tax calculated by the Court was $987.48, whereas the amount set out in the Crown’s written submissions was $943.32.
+[21] It is my understanding that the respective amounts of the Part X.1 tax payable by Mr. Chiang, as set out in the Reply, were based on the amounts of Part X.1 tax shown in the respective notices of assessment. For 2006, 2011, 2012 and 2013, the amount of Part X.1 tax assessed by the CRA was slightly less than the amount of Part X.1 tax calculated by the Court. As the amount of assessed tax cannot be increased on an appeal, the respective amounts assessed by the CRA (and not the amounts calculated by the Court) represent the amounts payable by Mr. Chiang.[16]
+D. Late-Filing Penalties [22] The CRA assessed late-filing penalties against Mr. Chiang, pursuant to section 204.3 and subsection 162(1) of the ITA. There is some uncertainty as to the amounts of the penalties that were assessed. Subparagraph 8(c) of the Reply states that the CRA assessed late-filing penalties in the amounts of $50.96 for 2004, $71.30 for 2005, $160.36 for 2006, $167.87 for each year from 2007 to 2010, $163.73 for each of 2011 and 2012, and $115.67 for 2013,[17] whereas paragraph 12 of the Reply states that the CRA assessed late-filing penalties in the amounts of $50.96 for 2004, $71.30 for 2005, $160.36 for 2006, $167.87 for each year from 2007 to 2012, and $118.50 for 2013. The CRA took the position that Mr. Chiang had failed to file the requisite tax returns (Form T1-OVP), as and when required by paragraph 204.3(1)(a) of the ITA.
+[23] As indicated above, Mr. Chiang had conscientiously tracked his RRSP contributions and was genuinely of the view that he had not made any overcontributions to his RRSP. Accordingly, based on his understanding, there was no need to file a return pursuant to paragraph 204.3(1)(a) of the ITA.
+[24] When counsel for the Crown addressed the issue of the late-filing penalties during his oral submissions, he began by submitting that Mr. Chiang had not exercised due diligence, such that the late-filing penalties had been appropriately assessed by the CRA. However, as counsel for the Crown continued to discuss this issue, he seemed to back away from his initial submission, and ultimately conceded that the evidence may not support the imposition of penalties. He concluded by saying that he had no strong argument to make in support of the penalties.
+[25] I have considered whether Mr. Chiang may rely on the due diligence defence, which the Supreme Court of Canada explained as follows:
+The due diligence defence is available if the defendant reasonably believed in a mistaken set of facts that, if true, would have rendered his or her act or omission innocent. A defendant can also avoid liability by showing that he or she took all reasonable steps to avoid the particular event…. The defence of due diligence is based on an objective standard: it requires consideration of what a reasonable person would have done in similar circumstances.[18]
+[26] Although La Souveraine dealt with a regulatory offence, the Federal Court of Appeal has confirmed that the defence is also available in respect of administrative penalties:
+This Court has held that there is no bar to the defence argument of due diligence, which a person may rely on against charges involving strict liability, being put forward in opposition to administrative penalties…. It may be worth reviewing the principles governing the defence of due diligence before applying them to the facts of the case at bar.
+The due diligence defence allows a person to avoid the imposition of a penalty if he or she presents evidence that he or she was not negligent. It involves considering whether the person believed on reasonable grounds in a non-existent state of facts which, if it had existed, would have made his or her act or omission innocent, or whether he or she took all reasonable precautions to avoid the event leading to the imposition of the penalty…. In other words, due diligence excuses either a reasonable error of fact, or the taking of reasonable precautions to comply with the Act.[19]
+[27] I concur with the statement made by counsel for the Crown, to the effect that the evidence may not support the imposition of penalties. As noted above, Mr. Chiang genuinely and reasonably believed that he had deducted the contributions that he had made to his RRSP for 1995 and 1999 and that he had unused RRSP deduction room in respect of 1997. Thus, it is my view that Mr. Chiang reasonably believed in, and was operating under, a mistaken set of facts that, if true, would have resulted in there not having been a cumulative excess amount. Therefore, his failure to file tax returns (Form T1-OVP) for 2004 to 2013 resulted from a reasonable error of fact, so as to be excused by the due diligence defence. Accordingly, I am of the view that the late-filing penalties should be cancelled.
+V. CONCLUSION [28] To summarize, it is my view that the Part X.1 tax assessed by the CRA against Mr. Chiang for 2004 through 2013 is properly payable, but that the late-filing penalties assessed for those years should be cancelled. Accordingly, these Appeals are allowed and the assessments that are the subject of these Appeals are referred back to the Minister for reconsideration and reassessment in accordance with these Reasons. As success in these Appeals is divided, there is no award as to costs.
+[29] It is recommended that, if Mr. Chiang has not already done so, he should, possibly with the assistance of a professional tax adviser, take steps to eliminate the ongoing cumulative excess amount in respect of his RRSP, so as to avoid the further imposition of Part X.1 tax in the future.
+Signed at Edmonton, Alberta, this 31st day of August, 2017.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Schedule A This Schedule contains five tables, which show the calculation of Mr. Chiang’s cumulative excess amount on a monthly basis for the taxation years in question and the Part X.1 tax payable by Mr. Chiang, the calculations of the three relevant factors used in calculating Mr. Chiang’s cumulative excess amount, and a comparison of the Court’s calculations with the CRA’s calculations.
+Explanatory Notes 1. The first table in this Schedule shows the calculation of Mr. Chiang’s cumulative excess amount for each month from January 1995 to December 2013, based on the formula in subsection 204.2(1.1) of the ITA. That table also shows the amount of Part X.1 tax payable by Mr. Chiang for each year from 2004 to 2013. In that table, the column headed “(a)” sets out Mr. Chiang’s undeducted RRSP premiums, as contemplated by paragraph 204.2(1.1)(a) of the ITA. The column headed “A” shows Mr. Chiang’s unused RRSP deduction room at the end of the preceding taxation year, as contemplated by A in the formula set out in paragraph 204.2(1.1)(b) of the ITA. The column headed “B(i) − B(ii)” shows the calculation of B in that formula (subparagraph (iii) in the description of B is not relevant here). The column headed “C” shows the $2,000 cushion provided by C in the formula.[20]
+2. As contributions made to an RRSP in the first 60 days of a particular year may be deducted in computing income for the preceding year, the calculation of the taxpayer’s cumulative excess amount will not necessarily be the same throughout the year. This (as well as the $203 withdrawal in December 2010) is reflected in the three columns collectively headed “Cumulative Excess Amount (Monthly Basis)” in the first table.
+3. In the first table, the Part X.1 tax has been calculated at the rate of 1% of the cumulative excess amount for each month.
+4. The second table shows the calculation of (a) (i.e., the amount described in paragraph 204.2(1.1)(a) of the ITA), being Mr. Chiang’s undeducted RRSP premiums at a particular time, as determined pursuant to the formula set out in subsection 204.2(1.2) of the ITA.[21]
+5. The third table shows the calculation of A, being Mr. Chiang’s unused RRSP deduction room, as defined in subsection 146(1) of the ITA.
+6. The fourth table shows the calculation of B in the formula set out in subparagraph 204.2(1.1)(b) of the ITA.[22]
+7. The fifth and final table compares the amounts of Part X.1 tax payable by Mr. Chiang, as calculated by the Court, with the amounts of Part X.1 tax set out by the Crown in subparagraph 8(a) and paragraph 11 of its Reply (which correspond with the amounts that were assessed) and with the amounts of Part X.1 tax set out in the written submissions filed by the Crown on June 5, 2017. As illustrated by that table, the amounts of Part X.1 tax assessed by the CRA for 2006 and 2011 through 2013 were less than the amounts of Part X.1 tax calculated by the Court.
+Undeducted RRSP Premiums (ITA s. 204.1(1.2))
+Calculation of Factor (a)
+Undeducted RRSP Premiums
+Withdrawal
+Cumulative Undeducted RRSP Premiums
+1995
+4,269
+0
+4,269
+1996
+0
+0
+4,269
+1997
+1,660
+0
+5,929
+1998
+0
+0
+5,929
+1999
+4,300
+0
+10,229
+2000
+0
+0
+10,229
+2001
+0
+0
+10,229
+2002
+0
+0
+10,229
+2003
+0
+0
+10,229
+2004
+January
+-10,000
+0
+229
+February-December
+10,000
+0
+10,229
+2005
+January
+-5,000
+0
+5,229
+February-December
+5,000
+0
+10,229
+2006
+January
+0
+0
+10,229
+February-December
+0
+0
+10,229
+2007
+2008
+0
+0
+10,229
+0
+0
+10,229
+2009
+0
+0
+10,229
+2010
+January-November
+0
+0
+10,229
+December
+0
+203
+10,026
+2011
+0
+0
+10,026
+2012
+0
+0
+10,026
+2013
+0
+0
+10,026
+Unused RRSP Deduction Room (ITA s. 146(1))
+Calculation of Factor A
+Unused RRSP Deduction Room (preceding year)
+18% of Earned Income
+- Pension Adjustment
+Premiums Deducted
+Unused RRSP Deduction Room
+(end of taxation year)
+1994
+-
+-
+-
+35
+1995
+35
+5,230
+0
+5,265
+1996
+5,265
+0
+4,269
+996
+1997
+996
+5,395
+6,391
+0
+1998
+0
+0
+0
+0
+1999
+0
+4,393
+0
+4,393
+2000
+4,393
+2,480
+6,873
+0
+2001
+0
+6,310
+6,310
+0
+2002
+0
+10,100
+10,100
+0
+2003
+0
+10,720
+10,000
+720
+2004
+720
+4,784
+5,000
+504
+2005
+504
+3,912
+4,416
+0
+2006
+0
+0
+0
+0
+2007
+0
+0
+0
+0
+2008
+0
+0
+0
+0
+2009
+0
+0
+0
+0
+2010
+0
+0
+0
+0
+2011
+0
+0
+0
+0
+2012
+0
+0
+0
+0
+2013
+0
+0
+0
+0
+Calculation of Factor B
+B(i)
+-
+B(ii)
+=
+B
+Earned income (preceding year)
+The lesser of
+-
+Pension Adjustment
+=
+Factor B
+RRSP dollar limit
+or
+18% of Earned Income
+1995
+29,056
+14,500
+5,230
+0
+5,230
+1996
+0
+13,500
+0
+0
+0
+1997
+29,973
+13,500
+5,395
+0
+5,395
+1998
+0
+13,500
+0
+0
+0
+1999
+24,407
+13,500
+4,393
+0
+4,393
+2000
+13,782
+13,500
+2,480
+0
+2,480
+2001
+35,056
+13,500
+6,310
+0
+6,310
+2002
+56,116
+13,500
+10,100
+0
+10,100
+2003
+66,272
+14,500
+11,928
+1,208
+10,720
+2004
+61,550
+15,000
+11,079
+6,295
+4,784
+2005
+63,386
+16,500
+11,409
+7,497
+3,912
+2006
+575
+18,000
+103
+439
+0
+2007
+0
+19,000
+0
+0
+0
+2008
+0
+20,000
+0
+0
+0
+2009
+0
+21,000
+0
+0
+0
+2010
+0
+22,000
+0
+0
+0
+2011
+0
+22,450
+0
+0
+0
+2012
+0
+22,970
+0
+0
+0
+2013
+0
+23,820
+0
+0
+0
+Comparison
+Part X.1 Tax Calculated by the Court
+CRA’s Assessments (See Reply to the Notice of Appeal)
+Crown’s Written Submissions
+2004
+299.75
+299.75
+299.75
+2005
+419.43
+419.43
+419.43
+2006
+987.48
+943.32
+943.32
+2007
+987.48
+987.48
+987.48
+2008
+987.48
+987.48
+987.48
+2009
+987.48
+987.48
+987.48
+2010
+985.45
+985.45
+985.45
+2011
+963.12
+952.50
+963.12
+2012
+963.12
+954.20
+963.12
+2013
+963.12
+957.26
+963.12
+CITATION:
+2017 TCC 165
+COURT FILE NO.:
+2016-2715(IT)I
+STYLE OF CAUSE:
+EDWARD L. CHIANG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+SUBMISSIONS FILING DATE:
+April 6, 2017
+June 5, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+August 31, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Derek Edwards
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, RSC 1985, c. 1 (5th supplement), as amended.
+[2] Mr. Chiang has not contributed any amount to his RRSP after 2005.
+[3] In subsection 204.1(2.1) of the ITA, the term is shown as “cumulative excess amount in respect of registered retirement savings plans.”
+[4] For brevity, I will refer to these statements as “Deduction Limit Statements.” Copies of Mr. Chiang’s Deduction Limit Statements for 1995 through 2013 are contained in Exhibit A-1.
+[5] One of the limiting factors in the calculation of a taxpayer’s RRSP deduction limit is 18% of the taxpayer’s earned income for the previous year.
+[6] Exhibit A-1.
+[7] Mr. Chiang is of the view that he deducted $4,269 as an RRSP contribution in respect of 1995. The 1995 situation will be discussed below.
+[8] Exhibit A-3. For each of 1996, 1997 and 2000 through 2005, Exhibit A-3 contains a copy of the page in Mr. Chiang’s income tax return containing line 208. For 1995 and 1999, Exhibit A-3 contains a copy of Schedule 7 to the particular income tax return. Exhibit A-3 does not contain any documents pertaining to 1998 or 2006 through 2013, presumably because Mr. Chiang did not make any RRSP contributions in respect of those taxation years.
+[9] See the 1999 Deduction Limit Statement in Exhibit A-1.
+[10] See the 1997 Deduction Limit Statement in Exhibit A-1.
+[11] See the second numerical entry in the 1998 Deduction Limit Statement in Exhibit A-1. That entry shows the allowable RRSP contribution that was deducted in 1997.
+[12] As RRSP contributions made in January or February of a particular year may be deducted in respect of the previous year, the formula set out in subsection 204.2(1.1) of the ITA, may, in some situations, result in a reduced cumulative excess amount for those two months. That was Mr. Chiang’s situation in January and February of 2004, 2005 and 2006.
+[13] See the RRSP Deduction and Contribution Summary dated September 19, 2014 that was attached to a letter of the same date from the CRA to Mr. Chiang (Exhibit A-4) and the written submissions filed by counsel for the Crown on June 5, 2017.
+[14] The Crown’s submissions were filed on June 5, 2017. As Mr. Chiang’s Notice of Appeal contained three tables of detailed calculations, he was not asked at the conclusion of the hearing to file written submissions.
+[15] The Court expresses appreciation to the law clerk who assisted in the preparation of the tables in Schedule A.
+[16] Even though the amount of the Part X.1 tax calculated by the Court for 2006 and 2011 through 2013 was greater than the amount of Part X.1 tax calculated by the CRA, the amount of tax cannot be increased on an appeal. See Servais v The Queen, [2002] 4 CTC 2117, 2003 DTC 1072, [2002] GSTC 59, 2002 GTC 376 (TCC), ¶32, aff’d (on other grounds), 2003 FCA 329, [2005] 2 CTC 264, 2003 DTC 5597; Brown v The Queen, [2002] 2 CTC 2338, 2002 DTC 1385 (TCC), ¶24 & 26; Meredith v The Queen, [1994] 1 CTC 2538, 94 DTC 1271 (TCC), ¶ 4 & 55; and McLeod v MNR, [1990] 1 CTC 433, 90 DTC 6281 (FCTD), ¶31.
+[17] The Reply contains two paragraphs identified by the number “8”. The subparagraph which is identified as “c” and which sets out the initial presentation of the respective amounts of the late-filing penalties is in the second of the two paragraphs numbered as “8”.
+[18] La Souveraine, Compagnie d’assurance générale v Autorité des marchés financiers, [2013] 3 SCR 756, 2013 SCC 63, ¶56. See also The Queen v The Corporation of The City of Sault Ste. Marie, [1978] 2 SCR 1299, 85 DLR (3d) 161.
+[19] Corporation de l’École Polytechnique v The Queen, 2004 FCA 127, 2004 GTC 1148, ¶27-28. See also Canada (Attorney General) v Consolidated Canadian Contractors Inc., [1999] 1 FC 209, 165 DLR (4th) 433 (FCA), ¶21 & 24; and Pillar Oilfield Projects Ltd. v The Queen, [1993] GSTC 49, 2 GTC 1005 (TCC), ¶11 & 26.
+[20] Mr. Chiang was older than 18 years of age in each of the taxation years in question.
+[21] Subsection 146(1) of the ITA defines the term “premium” as including a contribution in respect of a retirement savings plan. See paragraph (b) of that definition.
+[22] Interestingly, the description of B in the formula in paragraph 204.2(1.1)(b) of the ITA is substantially the same as the description of B in the formula in the definition “RRSP deduction limit” in subsection 146(1) of the ITA and the description of B in the formula in the definition “unused RRSP deduction room” in subsection 146(1) of the ITA.

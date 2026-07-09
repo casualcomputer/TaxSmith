@@ -1,0 +1,135 @@
+Title: Syscomax Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72204/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-202-72204-syscomax-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-06-19
+
+# Syscomax Inc. v. The Queen
+
+- Citation: 2014 TCC 202
+- Decision date: 2014-06-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5341, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Syscomax Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-06-19
+Neutral citation
+2014 TCC 202
+File numbers
+2010-3897(GST)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-3897(GST)I
+BETWEEN:
+SYSCOMAX INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 10, 2013 and December 4 and 5, 2013 at Montreal, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Jean-Maxim LeBrun
+Counsel for the Respondent:
+Philippe Morin
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal from the assessment made under the Excise Tax Act for the reporting period from October 1, 2003 to October 31, 2003 is allowed in part, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is not entitled to any additional input tax credits in respect of its payment to 9128-5882 Québec Inc., operating under the name TFX, and on the basis that the assessed penalty should be deleted.
+Signed at Toronto, Ontario, this 19th day of June 2014.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 27th day of November 2014.
+Erich Klein, Revisor
+Citation: 2014 TCC 202
+Date: 20140619
+Docket: 2010-3897(GST)I
+BETWEEN:
+SYSCOMAX INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Boyle J.
+[1] This appeal involves the denial of an input tax credit (“ITC”) and the imposition of penalties in respect of invoices which the Respondent maintains are accommodation invoices.
+[2] The Appellant, Syscomax Inc. (“Syscomax”), has carried on a construction business for over 30 years. For most of that time it has specialized in the construction of specialized buildings and structures such as those used in the aviation, pharmaceutical and food service industries. Syscomax is principally a general contractor and plays a management role in its construction projects.
+[3] In 2003, Syscomax entered into a contract with Plaisirs Gastronomiques Inc. (“Plaisirs Gastronomiques”) to construct a large addition to its food products plant. Plaisirs Gastronomiques was in the business of producing and marketing ready-to-serve dishes. The existing Plaisirs Gastronomiques plant was originally constructed, and has since been expanded, by Syscomax. The 2003 addition was to add an additional 5000 square feet to its approximately 50,000-square-foot plant. The building systems and the food service equipment were to be integrated into the existing plant. This addition was to be built by Syscomax on a turnkey basis for a price of approximately 5.5 million dollars. The work was to be completed within a period of less than 6 months.
+[4] The job involved a large number of contractors and subcontractors performing all of the work necessary to build such an addition and to integrate its systems and equipment into the existing Plaisirs Gastronomiques plant. The construction project required a large number of workers, up to 100 at a time on the work site.
+The Input Tax Credit [5] The only invoice challenged as an accommodation invoice is that of 9128- 5882 Québec Inc. operating under the name TFX. According to Syscomax, it hired TFX to provide labour for the Plaisirs Gastronomiques project. TFX’s bill for October 2003 was for $315,000 plus good and services tax of $22,050 and Quebec sales tax of $25,278.75.
+[6] The purchase order and TFX’s bill specified that the services were for [TRANSLATION] “the installation of the processing equipment, providing mechanical coordination, the installation of the washing units and of the equipment and conveyor software and the start-up of all this equipment, including training in its use.”
+[7] The Respondent assessed Syscomax for a total of $43,524.66, including interest and penalties. It is the Respondent’s position that TFX was not the supplier of the labour or any other goods or services to Syscomax, either directly, or indirectly through subcontractors, and that, accordingly, Syscomax is not entitled to an ITC in respect of its payment of the TFX bill. The Respondent maintains that TFX did not have the capacity to provide either directly or indirectly the services in question and that TFX in fact did not even contract with Syscomax to do so. These were among the assumptions made by the Respondent in denying Syscomax’s ITC claim and set out in her Reply.
+[8] It is not disputed that the addition to the plant was built to Plaisirs Gastronomiques’s satisfaction, that all the necessary work was done and that the subcontractors, suppliers and workers were all paid for their services and supplies. Nor is it disputed that Plaisirs Gastronomiques paid Syscomax, that Syscomax paid its subcontractors and suppliers, and that they in turn paid their workers and suppliers.
+[9] The amount paid by Syscomax is also not in dispute. As regards TFX specifically, a purchase order, a bill and Syscomax’s cheque in payment, which was endorsed and cashed, were all entered in evidence. Putting aside the issue of whether TFX supplied any goods or services at all to Syscomax, these documents each involve TFX and Syscomax and appear to comply with the information requirements regarding supplies set out in the regulations. Syscomax’s cheque was cashed at a cheque-cashing centre through TFX’s account there. The amount paid has been allowed as a deduction for income tax purposes. There is no suggestion that whoever did the work, if it was not TFX, did not get paid.
+[10] It is clear that a commercial enterprise is entitled to an ITC only in respect of payments to a person who has in fact supplied it with goods and services. Such a supply can be made or provided directly by the contracting supplier or by way of subcontract. The information requirements that must be satisfied in respect of such a supplier are set out in the regulations. The only question that needs to be decided in this case is whether in fact TFX was such a supplier of goods and services to Syscomax in respect of its Plaisirs Gastronomiques plant addition project.
+[11] The president of Plaisirs Gastronomiques, Mr. Beauvais, testified on behalf of the Appellant. He was able to describe the work site, the construction work, and the expanded plant, but he could not place any of TFX’s officers, workers, suppliers or subcontractors on the site. At the investigation stage he had provided to the tax authorities a statement indicating that, having reviewed Syscomax’s progress billings of Plaisirs Gastronomiques and the progress of the construction work, and having consulted two other officers of Plaisirs Gastronomiques, he believed it was unlikely that the work described in the TFX invoice could have been performed in the September-October 2003 time period referred to. His testimony at the hearing was somewhat more nuanced on this point.
+[12] The president of Syscomax, Mr. Robitaille, also testified. He described his company’s involvement in the Plaisirs Gastronomiques plant addition project. He also described his own involvement with the project. He was familiar with the TFX paperwork, but had no actual personal knowledge of anyone from TFX or of any subcontractor of TFX ever actually working on the site or meeting with anyone from Syscomax to obtain the contract, sign off on the work, deliver a bill or get paid. Apparently, Syscomax has never had any other dealings with TFX or its principal, Mr. Grignon, either before or after the period in question. Mr. Robitaille acknowledged that the purchase order for the TFX work was not in chronological order consistent with the sequential numbering on the forms. He described how this could possibly occur, however there was only one other example of a non-sequential purchase order on the Plaisirs Gastronomiques project, and it was somewhat different.
+[13] Michel Piché, the project manager, would have had specific knowledge of when and how TFX supplied what services on the Plaisirs Gastronomiques project. However, Mr. Piché did not testify. The Court was simply told in cross-examination that he no longer worked for Syscomax. No other project manager from Syscomax testified concerning the role of a project manager in reviewing and signing off on the work done before payment of a bill from a supplier under contract by virtue of a purchase order.
+[14] One of Syscomax’s field superintendents, Mr. Ledoux, also testified. Mr. Ledoux was the field superintendent for the Plaisirs Gastronomiques project. He described the superintendent’s role as one of coordinating the work being done and to be done on the work site, which included ensuring on a daily basis that all labour and material would be on the site when needed. His duties were largely performed on-site. However, he was very clear in stating that he was not responsible for dealing directly with suppliers. He simply communicated the daily labour and material needs to the project manager, who would contact the suppliers. Mr. Ledoux described the workers as minimally qualified people who showed up with their tool kits. He referred to them as [TRANSLATION] “rental guys”, but he had no need to know, and did not know, from whom the “rental guys” were rented. As far as he was concerned, they were rented like a tool from an unknown rental centre to be directed and told what to do by him. While he would know a small number of workers and for whom they worked or their companies’ names, he did not know of TFX, of Mr. Grignon, or of anyone who had said they were working for TFX or as subcontractors of TFX, even though the work described in the TFX purchase order would have required a good number of workers.
+[15] A representative of the Quebec Commission de la santé et de la sécurité du travail (“CSST”) testified that she attended at the Plaisirs Gastronomiques work site each month from June to October 2003 to monitor compliance with the legislation. On each visit she would tour the work site and record the names of the workers she spoke with. The purpose of her visit was to check work conditions and the CSST registration of workers present. She did not speak with all of the workers on the site each time. However, at no time did any worker say he or she or any other person worked for TFX, nor was TFX ever mentioned. She also confirmed that TFX itself was never registered for CSST purposes.
+[16] Another Quebec provincial official, from the Régie du bâtiment du Québec (“RBQ”), testified that TFX was never registered for RBQ purposes. Neither TFX nor Mr. Grignon was ever licensed by the RBQ as either a contractor or an owner.
+[17] The president, sole shareholder and sole director of TFX, Mr. Grignon, also testified. It was his testimony that TFX did not contract with Syscomax, did not provide any services to Syscomax, did not bill Syscomax, and received no payment from Syscomax. According to Mr. Grignon, TFX was not capable of providing the services in question, nor was it aware of or did it have available to it any subcontractors who could perform such services. In deciding the issue of Syscomax’s ITC entitlement, I will place no weight on Mr. Grignon’s testimony. Mr. Grignon has previously pleaded guilty to charges of providing false invoices and accommodation invoices to ten or so other companies, for which offences he was fined and incarcerated. (He served his time concurrently with an earlier sentence for theft over $5,000 involving a 2.3 million dollar heist from a Garda truck in 2009.)
+[18] One of the two Revenu Québec officers who testified said that the president of the cheque-cashing centre where the cheque issued by Syscomax to TFX was cashed using TFX’s account stated that the amount was withdrawn in successive $50,000 withdrawals but only after the endorsement signature would have been verified against that on the documents opening the account and after speaking by phone with the company issuing the cheque.
+[19] The Court concludes that the Appellant, Syscomax, has been unable to produce sufficiently credible, complete and consistent evidence to satisfy the Court that TFX did, on a balance of probabilities, supply services to it with respect to the Plaisirs Gastronomiques plant expansion project. It is most telling that no one from Syscomax, or anyone else, was able to place a single TFX worker on the work site, or to claim to have met with anyone from TFX to draw up the purchase order, inspect the completed work, review the bill, or turn over the cheque. Further the project manager did not testify, though he would have been the Syscomax representative who drew up the TFX purchase order. The evidence that is before the Court does not allow it to conclude on a balance of probabilities that, to use the field superintendent’s term, the “rental guys” were rented, either directly or indirectly, from TFX.
+[20] It is also revealing that Syscomax seems to have never before or since had any dealings with TFX or Mr. Grignon. No one was able to say that he or she saw or met with anyone from TFX in connection with the purchase order, the bill or the cheque in payment for the work performed, or that anyone from TFX had ever attended at the premises of Syscomax or Plaisirs Gastronomiques for any reason whatsoever.
+[21] Also of great concern is the TFX purchase order’s being out of numerical and chronological sequence. The only other purchase order not in proper numerical and chronological sequence was sequential by month, just not by day. The TFX purchase order was significantly out of sequence, by several hundred purchase order numbers. Mr. Robitaille’s explanation, while possible, was simply unsatisfactory and insufficient given the other concerns in this case.
+[22] For these reasons, the Court dismisses the Appellant’s claim for an ITC with respect to services supplied to it by TFX.
+The Penalties [23] The burden is on the Respondent to justify the penalties assessed. The evidence relied upon by the Respondent does not allow the Court to conclude on a balance of probabilities that the Appellant was not entitled to ITCs in respect of the amount paid by it to TFX, much less that the taxpayer wrongly claimed ITCs in circumstances which would satisfy the requirements for the imposition of penalties. It does not follow that, simply because the Appellant has not met its burden on the substantive ITC issue, penalties are justified. In this case the Respondent has failed to meet her burden of proof with respect to the requisite circumstances and preconditions to justify the imposition of penalties
+[24] Ms. Brigitte Gisquet of Revenu Québec explained that the Syscomax file arose out of a three-year investigation and audit by Revenu Québec, including several searches of TFX’s premises. There was no evidence to suggest that the work in question in this appeal was not needed or was not performed, that those who did the work were not paid, that the Appellant did not pay TFX, that there was any double counting of the expenses for the work, that there were any kickbacks, that there were any unreported amounts paid in respect of the project, or that there was any collusion by Syscomax with Mr. Grignon or TFX. After three years of investigation, Revenu Québec appears to have no idea who did the work if not TFX, nor where any of the proceeds of the Appellant’s cheque went after being credited to and withdrawn from TFX’s account. It is not clear that any of these matters were even looked into during the three-year investigation of TFX or during the audit regarding the payment by Syscomax.
+[25] To support its position that Syscomax knew, or ought to have known, that the TFX invoice was from someone other than TFX, Revenu Québec relied largely upon the fact that Mr. Grignon said that neither he nor TFX had ever contracted with the Appellant, submitted an invoice to the Appellant, or been paid by the Appellant. Given Mr. Grignon’s history, including the issuing of false invoices and accommodation invoices for ITC purposes, his testimony alone is insufficient for the Respondent to satisfy her burden of proof with respect to the penalties. Ms. Gisquet’s explanation that she accepted Mr. Grignon’s version of events because he had admitted to other false invoice and accommodation invoice offences and so had no reason to lie about Syscomax, was astonishingly simplistic, unconvincing and quite insufficient in the circumstances.
+[26] Revenu Québec also relied upon the fact that its investigation of TFX turned up no business records whatsoever for TFX, but that is of very little assistance in enabling it to provide any of the proof required in order to satisfy this Court on the issue of the imposition of penalties on Syscomax.
+[27] As stated above, on the totality of the evidence the Court does not find that TFX did not provide labour services to Syscomax for the Plaisirs Gastronomiques project. The Court simply finds the Appellant’s evidence insufficient for a conclusion that TFX provided such services to it. It does not follow that a third party provided the services or was paid for them. It does not follow that Syscomax knew or ought to have known that the TFX invoice was false, was actually from another person, or was questionable. It therefore does not follow that the Appellant had any clear obligation to make further inquiries regarding TFX or regarding TFX’s provincial registrations, head office address, list of available subcontractors, financial institutions, et cetera.
+[28] For these reasons, Syscomax’s appeal relating to its claim for an ITC in respect of the TFX inputs is dismissed, and its appeal of the penalties assessed against it is allowed.
+Signed at Toronto, Ontario, this 19th day of June 2014.
+“Patrick Boyle”
+Boyle J.
+Translation certified true
+on this 27th day of November 2014.
+Erich Klein, Revisor
+CITATION:
+2014 TCC 202
+COURT FILE NO.:
+2010-3897(GST)I
+STYLE OF CAUSE:
+SYSCOMAX INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+April 10, 2013, December 4 and 5, 2013
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT:
+June 19, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Jean-Maxim LeBrun
+Counsel for the Respondent:
+Philippe Morin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jean-Maxim LeBrun
+Firm:
+Dunton Rainville
+Stock Exchange Tower
+800 Victoria Square,
+Suite 4300, P.O. Box 303
+Montreal, Quebec
+H4Z 1H1
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

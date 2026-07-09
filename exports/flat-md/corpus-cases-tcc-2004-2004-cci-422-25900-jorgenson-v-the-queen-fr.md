@@ -1,0 +1,137 @@
+---
+title: "Jorgenson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25900/index.do"
+last_modified: "2004-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 422"
+citation2: ""
+neutral_citation: "2004 CCI 422"
+decision_date: "2004-06-14"
+language: "fr"
+item_id: "25900"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3698
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:21:29.030000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0532dd9ca40c94a529846a6e16e64f9d5913e9fd2da35b4ad9cd7ed4b076c11d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jorgenson v. The Queen
+
+- Citation: 2004 CCI 422
+- Decision date: 2004-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3698, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jorgenson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-14
+Référence neutre
+2004 CCI 422
+Numéro de dossier
+2004-235(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004‑235(IT)I
+ENTRE :
+KEITH JORGENSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 4 juin 2004 à Saskatoon (Saskatchewan)
+Devant : l’honorable juge D. W. Beaubier
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Anne Jinnouchi
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Calgary (Alberta), ce 14e jour de juin 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 10e jour de septembre 2004.
+Jacinthe Roy, traductrice
+Référence : 2004CCI422
+Date : 20040614
+Dossier : 2004‑235(IT)I
+ENTRE :
+KEITH JORGENSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel intenté conformément à la procédure informelle a été entendu à Saskatoon, en Saskatchewan, le 4 juin 2004. L’appelant a témoigné et a appelé à témoigner son père, Murray Jorgenson, et Sally Greenough, B.A., B. Ed., M. Ed. L’intimée a appelé à comparaître Yvonne Provost, agente des appels.
+[2] Les paragraphes 6 à 11 de la réponse à l’avis d’appel font état des questions en litige. Les paragraphes se lisent ainsi :
+[TRADUCTION]
+6. Dans une lettre reçue le 23 décembre 2002, l’appelant a demandé un rajustement de sa déclaration de revenus de 2001 afin de permettre le crédit d’impôt pour personnes handicapées.
+7. La demande de l’appelant a été refusée dans une lettre datée du 3 mars 2003 envoyé par N. Rawluk, Services à la clientèle T1 de l’Agence des douanes et du revenu du Canada.
+8. Dans une lettre datée du 11 juillet 2003, le délai prescrit pour le dépôt d’un avis d’opposition a été prorogé jusqu’à la date de la lettre.
+9. En réponse à l’avis d’opposition, le ministre a ratifié la cotisation pour l’année d’imposition 2001 dans un avis de ratification daté du 10 octobre 2003, au motif que la capacité de l’appelant d’accomplir les activités courantes de la vie quotidienne n’était pas limité de façon marquée.
+10. En établissant et en ratifiant ainsi la cotisation à l'égard de l’appelant, le ministre s’est fondé sur les faits suivants :
+a) l’appelant a demandé un crédit d’impôt pour personnes handicapées en ce qui concerne sa capacité de perception, de réflexion et de mémoire;
+b) la déficience susmentionnée n’a pas limité de façon marquée la capacité de l’appelant d’accomplir des activités courantes de la vie quotidienne au cours de l’année d’imposition 2001;
+c) dans un rapport publié le 17 avril 1992 par Pauline Greenough, M.ED., N.F.F. (London), professeure agrégée du Department for the Education of Exceptional Children, College of Education, à la University of Saskatchewan, on peut lire ce qui suit :
+(i) les résultats d’analyse et les commentaires indiquent ce qui suit :
+a) les résultats des matrices progressives de Raven, test du raisonnement logique non verbal et qui n’est probablement pas affecté par des troubles d’apprentissage du langage, ont démontré que l’appelant avait obtenu une note exceptionnelle dépassant les 95e percentile, le situant dans les 5 p. 100 de la population qui est décrite comme appartenant au groupe « intellectuellement supérieur »;
+b) selon les résultats de l’échelle de vocabulaire en image Peabody, qui a une corrélation élevée avec les tests d’intelligence verbale, l’appelant a obtenu une note le situant dans le 81e percentile, note élevée même comparativement aux étudiants universitaires, et ce test mesure la compréhension des mots entendus;
+c) on a fait l’évaluation du vocabulaire du langage écrit de l’appelant au moyen du Test of Adolescent Language (test du langage d’adolescent), pour constater que l’appelant se situait dans le 84e percentile, ce qui représente un autre résultat supérieur;
+d) son rendement en lecture silencieuse, au moyen du Gapadol Reading Comprehension (Cloze) Test (test de compréhension de la lecture de Gapadol (Cloze)), même s’il est adéquat (65 p. 100), n’est pas au niveau attendu d’un étudiant ayant le calibre intellectuel de l’appelant;
+e) dans le Advanced Reading Inventory (Johns), (inventaire de lecture avancée (Johns)) l’appelant a pu lire et comprendre les paragraphes de niveau universitaire;
+(ii) il a été conclu que l’appelant était « une personne de 18 ans très intelligente atteinte de troubles d’apprentissage d’origine neurologique, de dysgraphie et de dyslexie »;
+(d) Le Certificat pour le crédit d’impôt pour personnes handicapées signé le 6 décembre 2002 par Sally Greenough, psychologue agréée, précisait que :
+(i) l’appelant est né le 8 juin 1973;
+(ii) l’appelant ne pouvait pas percevoir, réfléchir et se souvenir toujours ou presque toujours;
+(iii) l’appelant a été diagnostiqué comme ayant des problèmes d’apprentissage permanents, graves et prolongés;
+e) l’appelant n’a pas le droit d’inclure le montant pour personnes handicapées dans le calcul de ses crédits d’impôt non remboursables et de l’impôt payable pour l’année d’imposition 2001.
+B. QUESTIONS EN LITIGE
+11. Il s’agit de savoir si l’appelant avait droit au crédit d’impôt pour personnes handicapées en vertu de l'article 118.3 de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi »).
+[3] Aucune des hypothèses n’a été réfutée par la preuve.
+[4] Mme Greenough a signé le certificat requis sans examiner l’appelant. Elle l’a fait en se fiant à sa mère (une psychologue maintenant âgée de 77 ans) qui a traité l’appelant lorsqu’il était un petit garçon, et de nouveau lorsqu’il était à l’université, quelques années plus tard. La mère de Mme Greenough a rempli les formulaires sans avoir examiné l’appelant. Pour ces motifs, le Certificat est sans valeur.
+[5] Le Certificat indique que l’appelant, qui est né en 1973 et a un B.A. (anglais) et un B.Ed., est incapable « de percevoir, de réfléchir et de se souvenir ». Le formulaire indique également ce qui suit « …répondez non si votre patient ne peut pas s’occuper lui‑même des ses soins personnels sans supervision continue ». La case « Non» a été cochée. Selon la preuve, le Certificat est erroné.
+[6] En 2001, l’appelant était un enseignant professionnel travaillant en Saskatchewan. Il est célibataire. Durant les cinq premier mois de l’année, il a vécu seul dans une maison de Punnichy, en Saskatchewan, et au cours de l’année, il a pris soin de lui‑même, il a géré ses placements, ses factures et ses transactions bancaires. Il a mis sur pied une équipe qui tentait d’obtenir une subvention de recherche et pris part à cette équipe. Plus tard en 2001, il a déménagé à Saskatoon pour prendre soin de sa grand‑mère mourante qui l’avait élevé. En 2002, il a acheté une maison.
+[7] Selon la déposition de Mme Greenough, l’appelant peut avoir réussi à compenser son handicap au cours des années.
+[8] Mais de toute manière, la preuve indique manifestement que l’appelant n’a pas un handicap au sens de la Loi de l’impôt sur le revenu et qu’il n’en avait pas un en 2001.
+[9] L’appel est rejeté.
+Signé à Calgary (Alberta), ce 14e jour de juin 2004.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 10e jour de septembre 2004.
+Jacinthe Roy, traductrice

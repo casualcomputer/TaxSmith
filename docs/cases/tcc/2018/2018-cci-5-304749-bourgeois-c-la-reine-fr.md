@@ -1,0 +1,247 @@
+---
+title: "Bourgeois c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/304749/index.do"
+last_modified: "2018-01-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 5"
+citation2: ""
+neutral_citation: "2018 CCI 5"
+decision_date: "2018-01-05"
+language: "fr"
+item_id: "304749"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7273
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:03:09.438000+00:00"
+cases_cited_count: 8
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b9ea9afb70ae523feb8d6e8c29c3bfcfd9bd9d319cbe6e4d52e355f0172ee826"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bourgeois c. La Reine
+
+- Citation: 2018 CCI 5
+- Decision date: 2018-01-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7273, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bourgeois c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-01-05
+Référence neutre
+2018 CCI 5
+Numéro de dossier
+2016-1770(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-1770(IT)G
+ENTRE :
+NADINE BOURGEOIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 4 octobre 2017, à Montréal (Québec).
+Devant : L’honorable juge Alain Tardif
+Comparutions :
+Avocat de l’appelante :
+Me Marc-Antoine Deschamps
+Avocat de l’intimée :
+Me Mounes Ayadi
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu est rejeté avec dépens en faveur de l’intimée, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2018.
+« Alain Tardif »
+Juge Tardif
+Référence : 2018 CCI 5
+Date : 20180105
+Dossier : 2016-1770(IT)G
+ENTRE :
+NADINE BOURGEOIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit de l’appel d’une cotisation établie en vertu de l’article 160 de la Loi de l’impôt sur le revenu (la « LIR »). Tous les fais à l’origine de la cotisation dont il est fait appel ont été admis par l’appelante.
+[2] Le 24 octobre 2000, le père de l’appelante lui donnait deux condos dont la valeur totale était de 153 000 $.
+[3] En 2006, soit précisément le 19 avril, l’auteur des transferts soit le père de l’appelante recevait un avis de nouvelle cotisation pour l’année d’imposition 2000 (même année que le transfert) établi à 116 972,21 $.
+[4] La cotisation en question regroupait le total des composantes suivantes : impôt dû, 50 816,51 $, pénalité pour faute lourde (paragraphe 163(2) de la LIR), 21 653,81 $, et finalement 44 592,89 $ à titre d’intérêts.
+[5] Le 22 septembre 2009, l’auteur du transfert faisait cession de ses biens dans le cadre d’une faillite personnelle, soit un peu plus de 40 mois plus tard.
+[6] Cinq ans plus tard, soit précisément le 9 juin 2014, l’Agence du revenu du Canada établissait un avis de cotisation à l’endroit de l’appelante en vertu de l’article 160 de la LIR la tenant ainsi débitrice fiscale solidaire de la dette fiscale de son père à l’endroit de l’intimée. La cotisation établie à l’endroit de l’appelante se situe ainsi dans le contexte suivant :
+– donation et transfert : 24 octobre 2000,
+– cotisation à l’endroit du donateur, auteur du transfert : 19 avril 2006,
+– année d’imposition à l’origine de la cotisation : 2000,
+– faillite du donateur des biens : 22 septembre 2009,
+– cotisation à l’endroit de l’appelante : 9 juin 2014.
+On peut ainsi conclure que l’avis de cotisation à l’endroit de l’appelante a été établi plus de 13 ans après l’année 2000 qui était à l’origine de la cotisation, près de huit ans après l’émission de la cotisation à l’endroit de l’auteur du transfert et finalement près de six ans après la faillite du donateur, auteur du transfert.
+[7] Tous les éléments requis pour l’application de l’article 160 de la LIR sont admis; je fais notamment référence aux exigences suivantes :
+(1) dette fiscale de l’auteur du transfert;
+(2) transfert entre deux personnes ayant un lien de dépendance;
+(3) absence de contrepartie;
+(4) juste valeur marchande des biens transférés; et
+(5) acceptation sans contrepartie de la bénéficiaire du transfert, l’appelante.
+L’appelante a choisi de contester l’avis de nouvelle cotisation établi à son endroit et de ne pas s’attaquer au bien‑fondé de la cotisation émise à l’endroit de son père, auteur du transfert, en 2006.
+[8] C’est là l’essentiel des faits clairement établis par admission. La contestation porte principalement sur la question du délai écoulé. En effet, à première vue, un délai considérable s’est écoulé entre l’année d’imposition concernée à l’origine du dossier de l’auteur du transfert, soit l’année 2000, et l’avis de cotisation établi à l’endroit de l’appelante, soit 2014. Ainsi, la bénéficiaire du transfert serait imputable en 2014 d’une dette fiscale relative à l’année d’imposition 2000.
+[9] Dans un tel contexte, le premier réflexe est évidemment d’analyser le dossier sous l’angle de l’article 222 de la LIR relativement aux délais pour le recouvrement d’une dette fiscale. D’ailleurs, l’appelante a soutenu que l’avis de cotisation établi à son endroit devait être annulé pour le motif que la prescription de dix ans devait s’appliquer.
+[10] Subsidiairement, l’appelante a plaidé qu’advenant la non‑recevabilité de ses arguments relatifs à la prescription, elle n’était pas débitrice fiscale de la portion de la cotisation établie à l’encontre de son père relativement à l’imposition de la pénalité pour faute lourde et des intérêts inhérents en vertu de l’article 160 de la LIR.
+[11] À cet effet, l’avis d’appel de l’appelante était, somme toute, assez général en ce qu’il indiquait essentiellement que l’appelante ne pouvait être cotisée pour le volet pénalité pour faute lourde en vertu de l’article 160.
+[12] Lors de ses représentations, l’appelante a soutenu que l’intimée devait assumer le fardeau de la preuve sur le volet de la pénalité pour faute lourde prévue au paragraphe 163(2) de la LIR à défaut de quoi l’avis de cotisation établi à l’endroit de l’appelante devait être modifié par l’annulation de la partie pénalité pour faute lourde et des intérêts inhérents.
+[13] En ce qui a trait à l’argument fondamental relatif à la prescription prévue à l’article 222 de la LIR, l’appelante prétend que le délai de prescription de dix ans pour le recouvrement de la dette fiscale a débuté au moment du transfert, soit le 24 octobre 2000.
+[14] Pour soutenir sa thèse, l’appelante rappelle que l’obligation solidaire issue de l’article 160 naît au moment du transfert : Heavyside c. Canada, [1996] ACF no 1608 (QL), au paragraphe 10; Ingrao v. M.N.R., [1989] 1 CTC 2052, au quinzième paragraphe.
+[15] La date du transfert étant le 24 octobre 2000, l’appelante en déduit que le délai de prescription de dix ans était expiré lorsqu’elle a reçu son avis de cotisation le 9 juin 2014.
+[16] Cependant, comme le reconnaît l’appelante, cette position est à première vue contraire à la jurisprudence existante qui a déjà répondu à la question de la prescription d’une cotisation issue de l’article 160. Il a ainsi été conclu qu’une cotisation en vertu de l’article 160 ne peut être prescrite : Canada c. Addison & Leyen Ltd., 2007 CSC 33, au paragraphe 9.
+[17] Néanmoins, l’appelante soumet qu’il faut porter un regard nouveau sur cette question étant donné les modifications et les précisions apportées à l’article 222.
+[18] Pour sa part, l’intimée soutient que ces modifications n’ont eu aucun impact sur le pouvoir de cotisation du ministre en vertu de l’article 160. L’article 222 prévoit des dispositions relatives à la prescription pour le recouvrement d’une dette fiscale.
+[19] Ainsi, toujours selon l’intimée, l’article 222 s’appliquerait seulement à partir du moment où l’appelante a été cotisée en vertu de l’article 160, soit le 9 juin 2014. Conséquemment, le délai de prescription du recouvrement de la créance ne serait pas écoulé. En d’autres termes, les calculs pour le délai de prescription établi par l’article 222 doivent s’apprécier à deux niveaux, le premier étant la cotisation établie à l’endroit de l’auteur du transfert du bien et le deuxième étant la cotisation établie à l’endroit du bénéficiaire du bien transféré sans aucune contrepartie en vertu de l’article 160.
+[20] Les longs délais entre l’origine de la dette fiscale et la cotisation établie à l’endroit de l’appelante commandent d’examiner en parallèle les articles 160 et 222 de la LIR à la lumière des principes généraux régissant la prescription.
+[21] La Cour suprême du Canada a établi trois principes justifiant la prescription : la certitude, la preuve et la diligence : M.(K.) c. M.(H.), [1992] 3 RCS 6, à la page 29. Ces principes ont d’ailleurs été appliqués dans le contexte du droit fiscal dans l’arrêt Markevich c. Canada, 2003 CSC 9, aux paragraphes 18 à 21. Dans cette décision, la Cour suprême résume chaque principe au paragraphe 19 :
+[…] Pour ce qui est de la certitude, après un certain temps, un individu « devrait être raisonnablement certain qu’il ne sera plus redevable de ses anciennes obligations » : M.(K.), précité, p. 29. En ce qui concerne la preuve, il faut écarter les réclamations fondées sur des éléments de preuve périmés. Enfin, quant à la diligence, les demandeurs sont encouragés « [à] agi[r] avec la diligence et [à] ne “[pas] tarde[r] […] à faire valoir leurs droits” » : M.(K.), précité, p. 30.
+[22] À l’époque où la décision Markevich a été rendue, la LIR était silencieuse sur la prescription quant au recouvrement d’une dette fiscale. La Cour suprême avait alors conclu que la Loi sur la responsabilité civile de l’État et le contentieux administratif était supplétive et établissait ainsi un délai de prescription de dix ans pour le recouvrement d’une dette fiscale.
+[23] Cette décision allait à l’encontre de la position de la Couronne qui soutenait qu’il n’y avait aucun délai de prescription pour le recouvrement d’une dette fiscale.
+[24] Sur cette question, la Cour suprême a pris en compte ce qui suit dans Markevich, au paragraphe 20 :
+[…] Si, pendant une longue période, le ministre ne fait aucun effort pour recouvrer une créance fiscale, le contribuable peut, un moment donné, raisonnablement en venir à penser ne plus être redevable de cette obligation, et gérer ses affaires en conséquence. En outre, un délai de prescription incite le ministre à agir avec diligence dans le recouvrement des créances fiscales. Vu les répercussions importantes que celui-ci a sur la sécurité financière des citoyens canadiens, le fait pour le ministère de tarder à exercer ses droits en matière de recouvrement est contraire à l’intérêt public. Il est évident que les justifications de l’existence de délais de prescription s’appliquent au recouvrement des créances fiscales.
+L’enseignement de la Cour suprême dans l’arrêt Markevich est formel : il est fondamental pour la bonne marche du régime fiscal que le recouvrement d’une dette fiscale soit assujetti à des règles prévoyant la prescription afin de permettre à toute personne de connaître les paramètres requis pour une planification basée sur des assises solides.
+[25] La décision de la Cour suprême dans Markevich doit cependant être nuancée. En effet, le jugement dans l’affaire Markevich a été rendu à une époque où le droit fiscal ne prévoyait pas de règles quant à la prescription lors d’une action en recouvrement d’une dette fiscale.
+[26] Le législateur a modifié l’article 222 pour remédier à cette lacune. De plus, le jugement a limité l’analyse de la prescription pour le recouvrement d’une créance établie suite à la non‑contestation de l’avis de cotisation.
+[27] L’appelante plaide que le recouvrement d’une créance fiscale est un exercice indépendant de la cotisation et que, conséquemment, le début du délai de prescription doit commencer même s’il n’y a pas eu d’avis de cotisation; en d’autres termes, l’année d’imposition visée par un avis de cotisation devrait être le point de départ pour le calcul du délai de la prescription. En l’espèce, selon l’appelante, le début du délai de prescription devrait être l’année 2000.
+[28] Il demeure important de considérer l’application des principes généraux réaffirmés dans Markevich. Toutefois, l’analyse de ces principes doit se faire à partir de l’enseignement de Markevich, précité, au paragraphe 16. Il faut ainsi mener l’analyse conjointe des articles 160 et 222 à la lumière des principes généraux.
+[29] Le pouvoir de cotisation du ministre prévu à l’article 160 ne peut pas être prescrit. Cette conclusion découle autant de la lecture du texte de l’article que de la revue de la jurisprudence relative à cette question. La simplicité et la clarté du texte sont telles qu’il ne peut y avoir d’interprétation.
+[30] Le paragraphe 160(2) se lit comme suit :
+(2) Le ministre peut, en tout temps, établir une cotisation à l’égard d’un contribuable pour toute somme à payer en vertu du présent article. Par ailleurs, les dispositions de la présente section, notamment celles portant sur les intérêts à payer, s’appliquent, avec les adaptations nécessaires, aux cotisations établies en vertu du présent article comme si elles avaient été établies en vertu de l’article 152 relativement aux impôts à payer en vertu de la présente partie.
+[Je souligne.]
+[31] La jurisprudence a d’ailleurs confirmé la clarté et la simplicité du texte quant au délai pour cotiser. La Cour suprême a édicté très clairement que « [l]e ministre peut en tout temps établir une cotisation [en vertu de l’article 160] à l’égard d’un contribuable » : Addison & Leyen, précité, au paragraphe 9.
+[32] La question de la prescription de l’article 160 a été soulevée dans l’arrêt Addison & Leyen. Dans cette affaire, la Cour suprême devait déterminer si un délai apparemment déraisonnable dans l’exercice du pouvoir de cotiser du ministre en vertu de l’article 160 était sujet au contrôle judiciaire. La Cour suprême avait conclu que le contrôle judiciaire ne pouvait aller à l’encontre du texte clair de la LIR, infirmant ainsi la décision majoritaire de la Cour d’appel fédérale et confirmant la dissidence.
+[33] Dans Addison & Leyen Ltd. c. Canada, 2006 CAF 107, le juge dissident Rothstein, qui siégeait alors à la Cour d’appel fédérale, a expliqué au paragraphe 88 :
+Le législateur a dit que le ministre pouvait établir une cotisation en tout temps. Il n’y a pas d’autre condition qui s’applique. L’effet de la décision rendue par les juges majoritaires est d’incorporer dans le paragraphe 160(2) une condition, à savoir que le ministre peut établir une cotisation en tout temps sauf si, par exemple, son retard est trop important, si le contribuable a fait preuve de diligence raisonnable, ou encore si le retard lui a causé un préjudice. La Loi de l’impôt sur le revenu contient, lorsque le législateur estime qu’ils sont appropriés, des délais de prescription et des moyens de défense fondés sur la diligence raisonnable ou autres. Il ne l’a pas fait au paragraphe 160(2). La Cour doit prendre le texte législatif en l’état. Il ne lui est pas permis d’incorporer dans une disposition législative une condition imposant une restriction à ce que le législateur a expressément édicté dans les mots qu’il a employés.
+[Je souligne.]
+[34] Ainsi, l’intimée plaide que le ministre était en droit de cotiser l’appelante en vertu de l’article 160, puisque ce pouvoir de cotisation ne peut être prescrit.
+[35] Dans Addison & Leyen, il a été décidé que le contribuable ne pouvait pas intenter un recours en contrôle judiciaire et invoquer les principes de common law pour déroger au texte de l’article 160.
+[36] Par contre, tant le juge Rothstein dans sa dissidence que la Cour suprême dans un jugement unanime ont reconnu que l’application de l’article 160 pourrait être affectée par une autre disposition de la LIR.
+[37] Comme la question de l’impact de l’article 222 sur l’application de l’article 160 n’avait pas alors été soulevée, il y a lieu d’évaluer si la modification du contenu de l’article 222 peut avoir des effets sur l’application de l’article 160.
+[38] L’appelante soutient que le nouvel article 222 prévoit un régime limitant dans le temps le pouvoir de recouvrement du ministre. Toujours selon l’appelante, le pouvoir de recouvrement serait distinct de celui de cotisation et, conséquemment, le paragraphe 160(2) ne s’appliquerait pas lorsque le recouvrement d’une dette fiscale est prescrit en vertu de l’article 222.
+[39] À première vue, il semble clair que les modifications apportées à l’article 222 ont un impact sur l’application de l’article 160. Par contre, à la lumière des faits non contestés, il s’avère que le délai de prescription pour le recouvrement de la créance fiscale auprès de l’auteur du transfert n’était pas éteint et ainsi l’intimée pouvait cotiser l’appelante en vertu de l’article 160 de la LIR.
+[40] L’article 222 se situe à la partie XV de la LIR, dénommée « Application et exécution », tandis que l’article 160 se situe à la partie I, soit « Impôt sur le revenu ». Cette séparation n’est ni anodine ni secondaire. L’administration du système fiscal se fait en deux étapes distinctes, soit la cotisation et le recouvrement.
+[41] Le paragraphe 222(3) limite l’exercice du ministre en matière de recouvrement :
+(3) Une action en recouvrement d’une dette fiscale ne peut être entreprise par le ministre après l’expiration du délai de prescription pour le recouvrement de la dette.
+[42] Le mot « action » est défini au paragraphe 222(1) :
+action Toute action en recouvrement d’une dette fiscale d’un contribuable, y compris les procédures judiciaires et toute mesure prise par le ministre en vertu des paragraphes 129(2), 131(3), 132(2) ou 164(2), de l’article 203 ou d’une disposition de la présente partie.
+[43] L’appelante a soutenu qu’une cotisation établie en vertu de l’article 160 constitue une action en recouvrement et conséquemment doit être prescrite lorsque l’article 222 s’applique.
+[44] À l’appui de sa position, l’appelante fait référence à quelques décisions faisant valoir que l’objectif de l’article 160 est de recouvrer une dette fiscale impayée auprès d’une tierce partie : Wannan c. Canada, 2003 CAF 423, au paragraphe 3; Addison & Leyen (CAF), précité, au paragraphe 71.
+[45] Bien que l’objectif ultime soit de recouvrer une dette fiscale impayée, l’article 160 prévoit un mécanisme indépendant de cotiser. Ainsi, le ministre ne peut recouvrer une dette fiscale en vertu de l’article 160 si les conditions d’application établissant la validité de la cotisation ne sont pas présentes : Addison & Leyen (CAF), précité, au paragraphe 92.
+[46] Ces conditions ne limitent pas le pouvoir de recouvrement du ministre; elles visent à déterminer la pertinence d’une nouvelle cotisation. Une cotisation établie en vertu de l’article 160 ne constitue pas un exercice de recouvrement aux termes de la partie XV; en effet, le paragraphe 222(3) de la LIR n’a rien à voir avec le pouvoir de l’intimée de cotiser.
+[47] La dette fiscale est elle aussi définie au paragraphe 222(1) :
+dette fiscale Toute somme payable par un contribuable sous le régime de la présente loi.
+[48] La définition emploie l’article indéfini « un », plutôt que l’article défini « le », choisissant ainsi de ne pas limiter l’application de la disposition.
+[49] L’appelante a rappelé que l’article 160 ne crée pas une nouvelle dette, mais ajoute plutôt un nouveau débiteur de la dette fiscale déjà existante : Algoa Trust c. Canada, [1998] ACI no 292 (QL), au paragraphe 3.
+[50] Étant donné que la dette fiscale cotisée en vertu de l’article 160 est la même que la dette originale et que le texte de la LIR ne définit pas le contribuable, le paragraphe 222(3) s’applique à toute action en recouvrement de la dette, et cela, même si le débiteur n’est pas le même.
+[51] Si le recouvrement de la dette était prescrit, alors il serait inutile d’intenter une action en vertu de l’article 160, étant donné que la dette originale de l’auteur d’un transfert ne peut être recouvrée du fait que la prescription est acquise. Une telle interprétation doit toutefois être nuancée, voire limitée.
+[52] En effet, cette conclusion irait à l’encontre de la décision rendue par la Cour d’appel fédérale dans Heavyside, précité. Dans cette décision, il avait été statué qu’une personne ne pouvait se soustraire à l’application de l’article 160 lorsque le titulaire de la dette originale avait déclaré faillite : Heavyside, précité, au paragraphe 12.
+[53] La Cour d’appel fédérale avait ainsi expliqué qu’une dette fiscale n’était pas éteinte à la suite de la faillite du débiteur fiscal pour ce qui a trait à l’application de l’article 160 de la LIR.
+[54] Les enjeux légaux soulevés dans cette affaire diffèrent de ceux discutés dans la décision Heavyside. Dans Heavyside, on invoquait une disposition de la Loi sur la faillite pour empêcher l’application de l’article 160. La Cour d’appel fédérale avait rejeté l’argument au paragraphe 14 :
+Si la Cour permettait à l’intimée de se soustraire à son obligation fiscale à cause de la libération de son conjoint suite à sa faillite, elle entérinerait ce que le législateur a précisément cherché à interdire en adoptant l’article 160.
+Conséquemment, pour que l’article 160 s’applique, il est essentiel que la dette fiscale survive à la faillite du titulaire de la dette originale.
+[55] On ne peut tirer la même conclusion en l’espèce. Lorsqu’une dette fiscale est éteinte en vertu de l’article 222, elle ne peut pas renaître à partir des dispositions prévues à l’article 160.
+[56] Le fait de cotiser une dette dont le recouvrement est prescrit serait contraire à l’intention du législateur; la réforme de l’article 222 établit un encadrement législatif permettant aux contribuables d’être raisonnablement sûrs qu’ils ne seront plus redevables d’anciennes obligations et qu’une réclamation ne pourra être fondée sur des éléments de preuve périmés; finalement, le ministre doit être diligent dans le recouvrement des créances fiscales impayées.
+[57] Une interprétation de l’article 160 qui ferait fi de la prescription quant au recouvrement d’une dette fiscale aurait pour effet de rétablir le pouvoir de recouvrement du ministre alors que ce pouvoir est inexistant pour le motif de prescription.
+[58] Conséquemment, la question qui se pose alors est de déterminer à quel moment le délai de prescription a débuté. À cette fin, il faut se référer au paragraphe 222(4) :
+(4) Le délai de prescription pour le recouvrement d’une dette fiscale d’un contribuable :
+a) commence à courir :
+(i) si un avis de cotisation, ou un avis visé au paragraphe 226(1), concernant la dette est envoyé ou signifié au contribuable après le 3 mars 2004, le quatre-vingt-dixième jour suivant le jour où le dernier de ces avis est envoyé ou signifié,
+(ii) si le sous-alinéa (i) ne s’applique pas et que la dette était exigible le 4 mars 2004, ou l’aurait été en l’absence de tout délai de prescription qui s’est appliqué par ailleurs au recouvrement de la dette, le 4 mars 2004;
+b) prend fin, sous réserve du paragraphe (8), dix ans après le jour de son début.
+[59] L’appelante soutient que c’est le sous-alinéa (ii) qui s’applique en l’espèce. Si tel est le cas, l’appelante soutient que la dette était payable au moment du transfert, soit le 24 octobre 2000. L’appelante ayant été cotisée le 9 juin 2014, elle conclut que le recouvrement de la dette était prescrit. Cette interprétation doit être écartée, et ce, pour les raisons suivantes :
+– Premièrement, le sous-alinéa (ii) réfère au moment auquel la dette était exigible. Or, la dette originale est devenue exigible seulement lorsque le père de l’appelante a reçu son avis de nouvelle cotisation, soit le 19 avril 2006. Bien que la responsabilité de l’appelante soit née au moment du transfert, conformément au paragraphe 152(3) de la LIR, il n’en demeure pas moins que la dette fiscale n’était pas due et exigible avant l’envoi de l’avis de cotisation : voir le paragraphe 156(1) et l’article 158 de la LIR.
+– Deuxièmement, le sous-alinéa (ii) est applicable seulement si le sous‑alinéa (i) ne l’est pas, comme le marque la proposition introduisant le sous-alinéa (ii). Or, puisqu’un avis de cotisation concernant la dette a été envoyé après le 3 mars 2004, c’est nécessairement le sous-alinéa (i) qui s’applique en l’espèce étant donné qu’il a préséance sur le sous‑alinéa (ii).
+[60] Le point de départ du délai de prescription pour le recouvrement de la dette fiscale de l’appelante a ainsi commencé à courir le 19 avril 2006. Conséquemment, le délai de prescription pour le recouvrement de la dette n’était pas écoulé quand la cotisation de l’appelante a été établie en vertu de l’article 160, soit le 9 juin 2014. Conséquemment, la cotisation établie à l’endroit de l’appelante est bien fondée, l’argument de la prescription étant non recevable ou non fondé.
+[61] D’ailleurs, le délai de prescription pour le recouvrement a recommencé à courir lorsque le ministre a cotisé l’appelante en vertu de l’article 160. L’alinéa 222(5)c) commande cette conclusion; en effet, il est clairement prévu qu’il y a reprise du délai de prescription lorsqu’une cotisation est établie en vertu du paragraphe 160(2).
+[62] Cette interprétation de l’article 222 respecte de plus la locution « en tout temps » utilisée dans le paragraphe 160(2). À partir du moment où une créance est établie en vertu de l’article 160, le ministre a donc dix ans pour recouvrer la dette.
+[63] Toutefois, le délai de dix ans peut varier. Le paragraphe 222(8) prévoit que le délai peut varier ou être suspendu, notamment lorsque le contribuable conteste la cotisation du ministre.
+[64] De plus, le paragraphe 222(5) énumère une série d’actions que peut initier le ministre ayant pour effet d’annuler le décompte précédent et ainsi redémarrer le délai de prescription de dix ans.
+[65] En fait, tant que le ministre agit de façon diligente afin de recouvrer la dette impayée, il semble que l’article 222 donne une marge de manœuvre suffisante qui ne devrait avoir aucun impact sur l’application de l’article 160.
+[66] Dans Addison & Leyen (CAF), le juge Rothstein avait abordé l’interprétation de l’article 160 justifiant l’existence d’une obligation perpétuelle au paragraphe 90 :
+Comme eux, je trouve gênant qu’une obligation imposée par la loi puisse, en théorie, exister à perpétuité, même si cela semble peu vraisemblable en pratique. Dans une situation où le libellé d’un texte législatif se prête à une interprétation ayant ou non pour résultat une obligation perpétuelle, l’interprétation rejetant l’obligation perpétuelle refléterait normalement l’intention la plus probable du législateur (voir Burton (Her Majesty’s Collector of Taxes) c. Mellham Limited, [2006] U.K.H.L. 6, lord Walker de Gestingthorpe). Toutefois, lorsque les mots employés par le législateur ne se prêtent pas à une telle autre interprétation, la Cour est liée par le libellé employé par le législateur. C’est le cas pour les mots « en tout temps ».
+[67] La conclusion du juge Rothstein doit maintenant être nuancée étant donné l’interprétation donnée à l’article 222. À partir du moment où le recouvrement d’une dette fiscale est prescrit, il sera inutile pour le ministre de cotiser une tierce partie en vertu de l’article 160 puisque la dette ne peut plus être recouvrée.
+[68] Cette interprétation, bien que restrictive quant à la portée de la locution « en tout temps », est cohérente lorsque les articles 160 et 222 sont considérés conjointement à la lumière des principes généraux justifiant la prescription.
+[69] Si le législateur avait voulu exclure l’article 160 de l’application du paragraphe 222, il l’aurait fait clairement et expressément en empêchant la prescription du recouvrement d’une dette fiscale visée par l’article 160.
+[70] L’appelante a admis les hypothèses de fait du ministre. Au paragraphe 20 k) ii) de la réponse à l’avis d’appel, le ministre a fait l’hypothèse que la dette fiscale du père de l’intimée incluait une pénalité de 21 562,81 $. Le fait que l’appelante n’a pas contesté l’hypothèse du ministre fait en sorte que le fardeau de prouver que la cotisation est invalide incombe à l’appelante.
+[71] L’appelante a admis l’ensemble des faits énumérés dans la réponse à l’avis d’appel, incluant la validité de la cotisation établie à l’endroit de l’auteur du transfert; elle a soulevé la question du fardeau de la preuve lors de la plaidoirie.
+[72] L’appelante cite la décision Gestion Yvan Drouin Inc. c. Canada, [2000] ACI no 872 (QL), en soutien à la position voulant que le fardeau de prouver la dette originale soit attribué au ministre. Le juge Archambault avait en effet expliqué au paragraphe 114 :
+Comme c’est le ministre qui exerce le recours contre un tiers pour recouvrer la dette fiscale qui lui est due par le débiteur fiscal, il m’apparaît tout à fait raisonnable que ce soit à lui qu’incombe la charge d’établir prima facie l’existence de la dette fiscale. Pour y arriver, le ministre a normalement en sa possession la déclaration de revenu du débiteur fiscal et, s’il a effectué une vérification, il peut détenir des copies des pièces justificatives ou de tout autre document pertinent à l’appui de sa cotisation. C’est donc lui qui est en meilleure position pour établir le montant de la dette fiscale. J’en viens donc à la conclusion que c’est au ministre qu’incombe généralement la charge de faire la preuve prima facie de la dette fiscale lorsqu’il y a une cotisation établie en vertu du paragraphe 160(1) de la Loi.
+[Je souligne.]
+[73] S’appuyant sur cet extrait, la jurisprudence ultérieure a reconnu que le fardeau de prouver la cotisation établie en vertu de l’article 160 peut parfois être attribué au ministre lors de certaines situations : Beaudry c. La Reine, 2003 CCI 464; Ellis c. La Reine, 2015 CCI 285.
+[74] L’étendue de l’applicabilité de cette exception semble susciter un certain débat dans la jurisprudence. À cet effet, le juge Paris a circonscrit les cas dans lesquels le fardeau de prouver la cotisation originale sera attribué au ministre dans Mignardi c. La Reine, 2013 CCI 67 (ce jugement rendu dans une procédure informelle a été approuvé par la juge en chef adjointe Lamarre dans Arsenault c. La Reine, 2015 CCI 179), au paragraphe 41 :
+Je reviens maintenant sur la proposition qui semble découler de la décision Gestion Yvan Drouin Inc., selon laquelle il incombe au ministre de prouver l’existence de la dette fiscale sous‑jacente dans tous les appels interjetés à l’égard d’une cotisation fondée sur la responsabilité dérivée établie en vertu du paragraphe 160(1) ou de l’article 227.1 de la Loi de l’impôt sur le revenu ou des articles 323 ou 325 de la Loi. Je souscris à l’opinion de l’avocate de l’intimée selon laquelle une telle conclusion va à l’encontre des arrêts de la Cour suprême et de la Cour d’appel fédérale auxquels j’ai fait référence. Ce n’est que lorsque le ministre a une connaissance exclusive ou particulière des faits relatifs à la dette fiscale sous‑jacente que le fardeau de la preuve est renversé. Chaque affaire repose sur des faits qui lui sont propres. Bien qu’il puisse y avoir des situations dans lesquelles seule la Couronne est au fait de la dette fiscale du débiteur fiscal d’origine, dans la majorité des cas, le contribuable peut obtenir ces renseignements auprès du débiteur fiscal d’origine. […]
+[Je souligne.]
+Pour satisfaire au test établi par le juge Paris, il semble donc nécessaire que l’appelante n’ait pas accès aux informations nécessaires pour contester la cotisation, ce qui en l’espèce n’a pas été établi.
+[75] Il faut alors se tourner vers les faits particuliers à la présente affaire pour déterminer à qui le fardeau de prouver la cotisation originale devrait être attribué.
+[76] Deux facteurs appuient la position de l’appelante. Tout d’abord, la cotisation originale est en partie constituée d’une pénalité pour faute lourde de la part de l’auteur du transfert. Si le père de l’appelante avait contesté la cotisation originale, le fardeau de la preuve aurait été attribué au ministre.
+[77] Le transfert a eu lieu en 2000, soit l’année visée par la cotisation originale établie en 2006, soit 14 ans avant la cotisation établie à l’endroit de l’appelante. Il est ainsi possible que certains éléments de preuve soient maintenant périmés. Ces deux facteurs suggèrent que l’appelante ne pourra peut-être pas contester la cotisation adéquatement, donc que le fardeau devrait être attribué au ministre. Cependant, la preuve à cet effet demeure incomplète.
+[78] À première vue, il peut sembler déraisonnable d’assujettir une personne bénéficiaire d’un transfert de bien à une pénalité pour faute lourde imposée à l’auteur du transfert. Par contre, il ne faut pas mettre de côté le fait d’une part que le transfert de bien a été effectué en deçà de la juste valeur marchande du bien transféré et, souvent, même à titre gratuit, ce qui est le cas dans le présent dossier.
+[79] D’autre part, la dette fiscale établie en vertu de l’article 160 de la LIR affecte essentiellement la valeur ou la partie de celle‑ci qui n’est pas couverte par une contrepartie. Ainsi, une cotisation établie en vertu de l’article 160 serait nulle si le transfert s’était effectué moyennant une contrepartie équivalant à la juste valeur marchande du bien transféré.
+[80] En d’autres termes, le bénéficiaire d’un transfert s’expose à la dette fiscale de l’auteur du transfert jusqu’à concurrence de l’avantage reçu sans contrepartie. Lorsque la juste valeur du bien transféré est totalement assumée par le ou la bénéficiaire du transfert, il ne peut y avoir de cotisation en vertu de l’article 160 de la LIR.
+[81] Le législateur a prévu qu’une personne cotisée en vertu de l’article 160 de la LIR puisse contester la totalité ou une partie de la dette fiscale établie à l’endroit de l’auteur du transfert. Si la personne décide de ne pas le faire, elle doit l’assumer jusqu’à concurrence de l’enrichissement de son patrimoine.
+[82] Une dette fiscale établie en vertu de l’article 160 de la LIR n’appauvrit pas le bénéficiaire d’un transfert puisque la cotisation ne peut dépasser l’avantage reçu de l’auteur du transfert, premier débiteur fiscal. Conséquemment, contrairement à ce que l’on peut penser à première vue, la personne cotisée en vertu de l’article 160 de la LIR ne subit aucun préjudice financier.
+[83] En l’espèce, l’appelante a choisi de ne pas contester le bien‑fondé de la cotisation d’abord établie à l’endroit de son père pour l’année d’imposition 2000, mais émise le 19 avril 2006. L’intimée ne pouvait pas entamer les mesures de recouvrement de leur créance avant que la cotisation ne devienne formelle et définitive sauf par le biais de mesure de sauvegarde et de protection de la créance.
+[84] L’argument principal de l’appelante aurait pour effet d’empêcher l’intimée d’établir une cotisation en vertu de l’article 160 de la LIR, et ce, au niveau de nombreux dossiers; en effet, il est très facile d’imaginer un dossier où une cotisation aurait été établie après l’expiration du délai de trois ans. Après avoir relevé le fardeau de la preuve qui lui incombe validant ainsi le bien‑fondé de la cotisation, la personne cotisée pourrait se prévaloir de toute une série de recours en appel, le tout pouvant s’échelonner sur une très longue période qui pourrait possiblement dépasser le délai de prescription de dix ans.
+[85] À partir de cette hypothèse, un débiteur fiscal pourrait choisir de se prévaloir de toute une série d’initiatives dont l’objectif ultime serait d’empêcher une nouvelle cotisation établie en vertu de l’article 160. Une telle hypothèse m’apparaît constituer un argument additionnel pour discréditer la thèse de l’appelante.
+[86] Pour toutes ces raisons, l’appel est rejeté avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 5e jour de janvier 2018.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2018 CCI 5
+Nº DU DOSSIER DE LA COUR :
+2016-1770(IT)G
+INTITULÉ DE LA CAUSE :
+NADINE BOURGEOIS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 4 octobre 2017
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Alain Tardif
+DATE DU JUGEMENT :
+Le 5 janvier 2018
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Marc-Antoine Deschamps
+Avocat de l’intimée :
+Me Mounes Ayadi
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Marc-Antoine Deschamps
+Cabinet :
+Morency, société d’avocats
+Montréal (Québec)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

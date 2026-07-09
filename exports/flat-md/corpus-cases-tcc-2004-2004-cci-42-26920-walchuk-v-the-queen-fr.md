@@ -1,0 +1,226 @@
+---
+title: "Walchuk v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26920/index.do"
+last_modified: "2004-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 42"
+citation2: ""
+neutral_citation: "2004 CCI 42"
+decision_date: "2004-01-16"
+language: "fr"
+item_id: "26920"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 726
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:06:16.340000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0c9c7997014890c40eee92e1102baefd475bdc9f2573e5fc562a817edd6bbd71"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Walchuk v. The Queen
+
+- Citation: 2004 CCI 42
+- Decision date: 2004-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 726, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Walchuk v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-16
+Référence neutre
+2004 CCI 42
+Numéro de dossier
+2001-2039(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-2039(IT)G
+ENTRE :
+RICK WALCHUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 5 janvier 2004 à Calgary (Alberta)
+Par : L'honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l'appelant :
+Me H. George McKenzie, c.r.
+Avocate de l'intimée :
+Me Carla Lamash
+____________________________________________________________________
+JUGEMENT
+Attendu que l'avocat de l'appelant a informé la Cour qu'il reconnaissait que les appels interjetés pour les années d'imposition 1996 et 1997 devraient être rejetés;
+Les appels interjetés à l'encontre des cotisations fiscales établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1996, 1997 et 1998 sont rejetés. Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2004.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 15e jour d'avril 2004.
+Liette Girard, traductrice
+Référence : 2004CCI42
+Date : 20040116
+Dossier : 2001-2039(IT)G
+ENTRE :
+RICK WALCHUK,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] L'appelant, M. Rick Walchuk, un courtier en valeurs mobilières de métier, a investi, à titre d'associé, dans un restaurant en Grèce au milieu des années 90. Pendant une période de trois ans, il a englouti plus de 400 000 $ dans ce projet. Les choses ne se sont pas bien passées pour le restaurant, et ce dernier a cessé ses activités en 1998. Selon M. Walchuk, son investissement de 413 000 $ dans la société de personnes constituait un projet comportant un risque de nature commerciale et il était complètement déductible à titre de perte découlant de la disposition imputable au revenu en 1998. Selon l'intimée, l'investissement de M. Walchuk dans la société de personnes ne visait que l'acquisition d'une participation au capital de la société de personnes. L'intimée a accordé une perte en capital de 413 880 $ sur la disposition de la participation dans la société de personnes à la suite de la cessation des activités de cette dernière. Je suis d'accord avec l'intimée.
+[2] Au début du procès, Me McKenzie, représentant M. Walchuk, a indiqué que les appels pour 1996 et 1997 devraient être rejetés. Ces appels se rapportaient à des pertes d'entreprise de la société de personnes déclarées par M. Walchuk qui, selon Me McKenzie, ne pouvaient être convenablement documentées. De même pour 1998, Me McKenzie a indiqué que, pour la même raison, M. Walchuk ne contredisait pas la déductibilité des pertes d'entreprise en exploitation, mais que la seule question en litige en l'espèce était celle de savoir si l'investissement de M. Walchuk dans la société de personnes était au titre du revenu ou du compte de capital. Me McKenzie a accepté les hypothèses suivantes avancées par la Couronne :
+[traduction]
+14b) le 20 juin 1995, ou vers cette date, l'appelant et une personne nommée Panagiotis Vassios ( « M. Vassios » ) ont conclu un contrat de société (ci-après la « société de personnes » );
+c) M. Vassios n'était pas un résident du Canada;
+d) ladite société de personnes devait mettre sur pied un restaurant nommé Ilion devant être situé à Glyfada (Athènes), en Grèce;
+e) l'appelant et M. Vassios devaient être des associés à parts égales dans la société de personnes;
+f) Ilio Management of Restaurant and Catering Services, une compagnie anonyme ( « Ilio AE » ) était une société constituée en personne morale en vertu des lois de la Grèce;
+g) Ilio AE ne résidait pas au Canada;
+h) Ilio AE exploitait le restaurant Ilion;
+[...]
+j) l'appelant n'était pas un actionnaire d'Ilio AE;
+k) la société de personnes n'était pas une actionnaire d'Ilio AE;
+l) l'appelant a avancé des fonds totalisant au plus 413 380 $ à la société de personnes tout au long des années d'imposition 1996, 1997 et 1998;
+[...]
+n) en 1998, Ilion a cessé ses activités, et Ilio AE est devenue insolvable;
+o) la société de personnes a été dissoute en 1998 après qu'Ilion avait cessé ses activités;
+p) l'appelant a acquis une participation dans la société de personnes (la « participation dans la société de personnes » ) au moment où il a fondé la société de personnes avec M. Vassios;
+[...]
+r) le prix de base rajusté de la participation dans la société de personnes pour l'appelant au moment de la dissolution de la société de personnes s'élevait à 413 380 $;
+(même si Me McKenzie ne voulait pas utiliser l'expression « prix de base rajusté » )
+s) l'appelant a disposé de sa participation dans la société de personnes au moment de la dissolution de la société de personnes;
+[3] M. Walchuk s'est décrit comme un courtier à risque élevé. Durant les années pertinentes de 1995 à 1998, il était employé par Yorkton Securities Inc. à Calgary. Les clients de M. Walchuk connaissaient la philosophie de ce dernier qui consistait à chercher d'importants rendements pour une minorité de placements qui feraient plus que compenser les pertes de la majorité. M. Walchuk a également fait des placements sur le marché pour son propre compte. Ses déclarations de revenus de 1996 à 1998 indiquaient que les gains ou les pertes relatifs à ce commerce étaient au titre du revenu. Sa déclaration de 1996 indiquait également une perte en capital de 30 000 $ sur la disposition des actions du No Name Café, un restaurant de Calgary. M. Walchuk a indiqué qu'elle avait été déclarée à titre de perte en capital parce que le restaurant devait constituer un investissement à long terme. Il a indiqué que le restaurant ressemblait à un club de restauration.
+[4] En ce qui concerne l'investissement dans le restaurant en Grèce, M. Walchuk a d'abord été abordé par un de ses clients, M. Panagiotis Vassios, à la fin de 1994, qui lui a soumis l'idée d'une association dans un restaurant grec. M. Vassios avait exploité un restaurant au Canada pendant un certain nombre d'années, mais en 1993, il avait pris sa retraite en Grèce. Il avait exploité un étal de slouvaki et pizza à Athènes pendant une courte période, mais il cherchait quelque chose de plus gros. M. Vassios a informé M. Walchuk que deux autres personnes étaient intéressées par le restaurant; l'une possédant de vastes connaissances dans la restauration et qui apporterait son expertise, et l'autre qui aiderait au financement. M. Walchuk a d'abord indiqué dans son témoignage que l'arrangement visait une société de personnes composée de quatre personnes, même s'il a plus tard indiqué qu'il croyait réellement que seuls lui-même et M. Vassios étaient les associés. Il n'y avait pas d'accord écrit au début, bien qu'en 1999 M. Walchuk ait demandé et reçu le document suivant de la part de M. Vassios (traduit du grec)[1] :
+[traduction]
+Pièce B
+ACCORD INDIVIDUEL
+Conclu à Athènes, le mardi 20 juin 1995, par M. Panagiotis Vassios, homme d'affaires, résident de Glyfada, plus particulièrement au 1, rue Giannitsopoulou, d'une part, et M. Rick Walchuk, homme d'affaires, résident du Canada, d'autre part, qui ont convenu de conclure un accord conjoint portant sur les modalités suivantes :
+Les parties susmentionnées ont décidé de mettre sur pied une coentreprise à titre d'associés à parts égales, dont l'unique but vise la création d'un restaurant dans lequel les deux parties auront une participation à 50 p. 100, dont le nom sera « ILION » et qui sera situé à Glyfada, au 1, rue Giannitsopoulou.
+Il est en outre convenu que les deux associés partageront à parts égales les profits et les pertes.
+Après avoir accepté les modalités susmentionnées, les deux parties apposent leur signature et reçoivent une copie du présent document.
+Signatures
+(Signature illisible)
+[5] M. Walchuk a demandé conseil auprès de son comptable quant à la façon d'organiser son investissement, et ce dernier lui a conseillé de suivre la voie de l'association plutôt que d'acquérir des actions, de sorte qu'il puisse déduire les pertes de son revenu. M. Walchuk a indiqué dans son témoignage qu'il avait l'intention de construire le restaurant puis de le vendre, en espérant que son investissement doublerait, triplerait ou quadruplerait. Il n'y avait pas de plan d'entreprise comme tel ni d'états financiers pro forma ou d'autres projections. À cette époque, aucune entente n'attestait de son investissement. M. Walchuk a indiqué qu'il n'avait pas intérêt à être un propriétaire à long terme d'un restaurant, étant donné que les restaurants étaient réputés pour subir des pertes.
+[6] En raison de problèmes avec l'entrepreneur et des questions de délivrance de permis, le restaurant de style tapas n'a ouvert qu'en mai 1996, plusieurs mois après la date prévue. Les locaux du restaurant ont été loués en vertu d'un bail de neuf ans. L'entreprise était exploitée par Ilio Management of Restaurant and Catering Services ( « Ilio » ). Aucune preuve n'établissait l'existence d'un arrangement entre la société de personnes et Ilio. En effet, la difficulté liée à cette question résidait dans le fait que M. Walchuk ne pouvait clairement expliquer la véritable nature juridique de l'arrangement, autrement qu'en indiquant qu'il avait investi de l'argent dans un restaurant en Grèce.
+[7] Au moment où le restaurant a ouvert, M. Walchuk avait envoyé environ 50 000 $ à M. Vassios. M. Walchuk se préoccupait du fait qu'il ne pouvait se permettre personnellement de poursuivre cet investissement, alors il a abordé deux de ses clients qui ont accepté de racheter 90 p. 100 ou 95 p. 100 de la participation de M. Walchuk pour 50 000 $, soit le montant que ce dernier avait investi. Le 1er mai 1996, M. Walchuk a écrit à Regency Salvage Inc. (Regency), son client[2] :
+[traduction]
+Regency Salvage Inc.
+Cockburn Town
+Grand Turk, îles Turques et Caïques
+À l'attention de : Ervin Quelch
+Monsieur,
+La présente porte sur nos discussions relatives à votre achat de 90 p. 100 de ma participation de 25 p. 100 dans les restaurants Ilio à Athènes, en Grèce.
+1) Les discussions avec l'avocat d'Ilio ont lancé le processus visant à initier le transfert des actions à Regency.
+2) Le prix d'achat est de 50 000 $CAN, dont un montant de 27 500 $CAN doit être payé immédiatement et le solde de 22 500 $CAN doit être payé le 31 mai 1996, ou avant cette date, sans intérêts.
+J'espère que cela est satisfaisant.
+Veuillez agréer, Monsieur, mes sincères salutations.
+« Rick Walchuk »
+Rick Walchuk
+[8] Une lettre subséquente a fait mention de l'achat de 95 p. 100 de la participation de 25 p. 100 dans Ilio. L'arrangement n'a été en vigueur que pendant quelques mois. En octobre 1996, M. Walchuk a racheté sa participation auprès de Regency pour 162 500 $ pour, selon ses termes, [traduction] « garder ses clients heureux » . M. Walchuk a indiqué dans son témoignage que cela représentait le montant que Regency avait investi dans le restaurant (y compris le montant de 50 000 $ originalement payé à M. Walchuk). M. Walchuk n'était pas en mesure de réunir personnellement tous les fonds et il a donc abordé son employeur, Yorkton, pour lui emprunter 112 500 $ afin d'effectuer l'achat. Il a depuis remboursé ce montant. Pendant les quelques mois où Regency a été propriétaire, M. Walchuk a lui-même investi un montant supplémentaire de 47 000 $ dans le projet.
+[9] Il était évident qu'à la fin de 1996 le restaurant de style tapas ne fonctionnait pas, alors, on a entrepris des rénovations pour rendre le restaurant plus attrayant pour la communauté grecque. M. Walchuk a continué d'injecter de l'argent dans le projet. Les parties ont convenu que le montant final serait d'environ 413 000 $, même si un calendrier fourni par M. Walchuk à l'Agence des douanes et du revenu du Canada (ADRC) était quelque peu confus quant à l'exactitude de ce montant.
+[10] À un certain moment, les deux autres participants originaux au restaurant ont vu leur participation réduite à zéro, selon M. Walchuk. Aucune preuve écrite n'indique si cela s'est vraiment produit.
+[11] Le restaurant a continué de lutter et, en 1998, M. Walchuk a payé un billet d'avion à un acheteur potentiel à destination de la Grèce afin qu'il puisse examiner la possibilité d'acquérir le restaurant. Cela n'a pas fonctionné, et le restaurant a fermé ses portes peu de temps après. La société qui exploitait le restaurant est devenue insolvable. Comme M. Vassios l'a indiqué dans une lettre adressée à l'ADRC en décembre 1999[3] :
+[traduction]
+M. Walchuk était mon associé dans un restaurant situé à Athènes, en Grèce. La dénomination sociale de ma société était Ilio AE.
+Par la présente, je déclare sous serment que les fonds de M. Walchuk ont été investis dans cette entreprise et utilisés pour l'exploitation quotidienne.
+En raison de l'insolvabilité et de la fermeture de cette société, le comptable n'a pas été payé et il ne remettra donc les états financiers que lorsqu'il sera payé.
+[12] Pendant la durée de son association avec M. Vassios, M. Walchuk s'est rendu en Grèce de 30 à 35 fois. Peu de choses dans la preuve indiquent ce qu'il y a fait à ces nombreuses occasions. Pour les années 1996 à 1998, M. Walchuk a déclaré des pertes d'entreprise de la société de 77 700 $, de 104 300 $ et de 48 085 $, respectivement. Il n'a pas déclaré de perte d'entreprise de la disposition de sa participation dans la société de personnes à la fermeture du restaurant. Dans son opposition initiale du 20 mars 2000, il a indiqué ce qui suit[4] :
+[traduction]
+Je m'oppose à la nouvelle cotisation établie à l'égard de mes déclarations de 1998, de 1997 et de 1996.
+Je m'oppose pour les raisons suivantes :
+1. J'exploitais un restaurant en Grèce et j'ai prouvé au moyen de chèques oblitérés que j'exploitais une entreprise. Ma perte d'entreprise a été rejetée.
+La perte d'entreprise à laquelle M. Walchuk faisait référence était la perte d'exploitation du restaurant et non la perte découlant de la disposition de la participation dans la société de personnes à la fermeture, dont il n'a pas été fait mention.
+[13] Il s'agit de savoir si la perte de 413 880 $ découlant de la disposition de sa participation dans la société de personnes est imputable au revenu ou au capital. Me McKenzie a suggéré que le seul point méritant d'être éclairci pour trancher cette question en litige est celui de savoir pourquoi M. Walchuk a fait cet investissement. Bien entendu, il a répondu que M. Walchuk a réalisé cet investissement pour une seule raison, soit pour revendre le plus rapidement possible afin de réaliser un profit, donc, de toute évidence, selon Me McKenzie, au titre du revenu. Toute confusion quant à la nature de l'investissement, selon Me McKenzie, n'est pas pertinente. Cela, à mon avis, place trop l'accent sur l'intention déclarée de M. Walchuk après le fait, sans examiner davantage toute la situation et le comportement dans son ensemble de M. Walchuk. J'analyse donc la question selon le fondement suivant.
+[14] Ce bien, soit la participation dans la société de personnes, était-il détenu en tant qu'investissement ou en tant que projet comportant un risque de nature commerciale? En répondant à cette question, il est nécessaire d'examiner les questions suivantes :
+(i) Quelle était la nature du bien?
+(ii) Quelle était l'intention de M. Walchuk?
+(iii) Quelle était la nature de l'entreprise de M. Walchuk?
+(iv) Quelles autres circonstances dénotent que la disposition de l'entreprise constituait, pour M. Walchuk, un mécanisme lui permettant de réaliser un profit?
+Nature du bien
+[15] Le bien en litige dans le cadre des présents appels est la participation de M. Walchuk dans la société de personnes. Me McKenzie a fait valoir, à bon droit, qu'une telle participation constitue un bien et qu'un bien peut être un bien en immobilisation ou un bien figurant dans l'inventaire. Il a mentionné plusieurs affaires, portant sur des actions, des licences et d'autres formes de biens considérés imputables au revenu. Je ne souhaite aborder qu'une seule décision qu'il a invoquée, soit Martin Taiger v. M.N.R.[5], qui était la seule affaire traitant de la participation dans une société de personnes. La participation détenue par M. Taiger était une participation dans une société de personnes de 45 p. 100 ou une participation indivise dans un terrain. Cette participation, ainsi que l'autre partie de 55 p. 100, a été répartie entre de nouveaux associés au moyen d'un transfert d'une participation indivise de 60 p. 100 dans le bien immeuble aux six nouveaux propriétaires. On a soutenu qu'il s'agissait simplement du rétablissement de la société de personnes et qu'on n'avait disposé de rien qui aurait justifié le prélèvement d'un impôt. La Commission d'appel de l'impôt a conclu ce qui suit[6] :
+[traduction]
+J'en suis venu à la conclusion que l'opération (sur laquelle repose l'appel) constitue une transaction dans le domaine immobilier et que le profit en découlant est imposable.
+Étant donné cette conclusion, je n'accepte pas que cette affaire puisse servir de précédent permettant d'affirmer qu'une participation dans une société de personnes est vendue au titre du revenu. C'était le bien immeuble qui a été vendu. Me McKenzie ne m'a renvoyé à aucune autre affaire où un associé avait déclaré avec succès la disposition d'une participation dans la société de personnes au titre du revenu. Je ne conclus pas que cela n'est pas possible, mais les circonstances doivent être plus claires que celles visant M. Walchuk. Un associé, par nature, exploite une entreprise en vue de tirer un revenu d'une entreprise actuelle et non de la revendre. C'est là la nature d'une participation dans une société de personnes. Pour les besoins de l'impôt sur le revenu, la participation dans une société de personnes est considérée comme un bien en immobilisation, séparé des actifs de la société de personnes. L'intimée a invoqué plusieurs affaires qui ne faisaient que confirmer ce point essentiel (D & B Oilfield Contracting Ltd. v. M.N.R., Mihelakos c. R., Stursberg c. M.R.N., M.N.R. v. Strauss et Marion Estates Ltd. v. M.N.R.)[7].
+[16] La part dans la société de personnes peut avoir certaines caractéristiques semblables à une action puisqu'elle constitue également une chose qui par sa nature est un investissement, et qu'elle n'est pas elle-même un objet ordinaire transférable. Cependant, passer outre au statut normal d'une part dans une société de personnes qui est un bien en immobilisation est une tâche beaucoup plus difficile que de faire la même chose pour des actions, simplement en raison de la nature de la structure. Il existe des marchés pour les actions. Le propriétaire d'une action n'est pas, comme par hasard, le propriétaire des actifs sous-jacents de l'entreprise. L'associé, cependant, est à la fois le propriétaire du bien en immobilisation, soit la participation dans la société de personnes, et le propriétaire des actifs sous-jacents, soit l'entreprise elle-même. Cela ne fait qu'indiquer que si l'on veut prétendre qu'il y a deux entreprises, on doit avoir une preuve convaincante selon laquelle la transaction avec l'une d'elles, la part dans la société de personnes, est distincte de celle avec l'autre. On ne m'a pas convaincu que la transaction de M. Walchuk touchant sa participation dans la société de personnes était telle que sa nature a été convertie d'un bien en immobilisation à un bien figurant dans l'inventaire.
+Intention
+[17] M. Walchuk a déclaré qu'il avait l'intention depuis le début de construire le restaurant et de le revendre à profit. Cette déclaration doit être évaluée à la lumière de toutes les circonstances de l'investissement et particulièrement de ce que M. Walchuk a réellement fait à l'époque et par la suite. Après avoir effectué cet examen dans cette perspective, j'ai de sérieuses réserves quant à la véritable intention déclarée de M. Walchuk.
+[18] Il n'y a aucun doute que M. Walchuk exploitait une entreprise dans le cadre d'un arrangement quelconque, qui, selon les parties, était un contrat de société. M. Walchuk a demandé un avis professionnel dès le début et a suivi cet avis de ne pas investir dans des actions d'une société grecque qui exploitait une entreprise, mais de devenir directement un associé dans le restaurant. Curieusement, l'entreprise semble avoir toujours été exploitée par une société et rien dans la preuve n'indique l'existence d'un arrangement entre la société exploitante et la société de personnes de M. Walchuk et de M. Vassios. D'une manière ou d'une autre, M. Walchuk et M. Vassios devaient partager les profits et les pertes de l'entreprise de restauration. Je ne vais pas tenter de deviner s'il y avait un mandat ou même un contrat de gestion. Je suis convaincu que M. Walchuk croyait qu'il était un associé dans l'entreprise de restauration, et une preuve documentée minimale appuie cette conclusion. Le fait est que M. Vassios et M. Walchuk avaient l'intention, comme la définition même d'une société de personnes l'exige, d'exploiter une entreprise de restauration en vue de réaliser un profit et qu'ils l'ont fait. M. Walchuk a tenté de déduire ses pertes d'entreprise en 1996, en 1997 et en 1998 en sa qualité d'associé dans l'entreprise de restauration. Ce qu'il possédait, cependant, était une participation dans la société de personnes. Il est essentiel de considérer l'intention déclarée de M. Walchuk à la lumière de l'intention très réelle d'exploiter une entreprise de restauration en vue de réaliser un profit.
+[19] Me McKenzie reconnaît que ce n'est pas l'entreprise de restauration elle-même qui constitue le projet comportant un risque de nature commerciale, mais bien son acquisition et le fait que l'on en a disposé au moyen de l'achat et de la vente d'une participation dans la société de personnes. Cependant, selon lui, M. Walchuk, l'associé, n'a fait qu'exploiter l'entreprise de restauration conjointement avec M. Vassios en vue de réaliser un profit de l'entreprise, de façon à pouvoir accroître sa valeur pour revendre la participation dans la société de personnes à profit. Dans cette perspective, chaque propriétaire ou associé d'une nouvelle entreprise court le risque qu'une disposition d'une entreprise soit au titre du revenu, puisque chaque entrepreneur de ce genre a l'intention d'accroître la valeur de son entreprise.
+[20] Je me penche maintenant sur les détails de l'entreprise pour voir si l'intention de M. Walchuk par rapport à sa participation dans la société de personnes était à ce point différente de celle d'un associé d'une société de personnes naissante. D'abord, qui étaient les associés de M. Walchuk? Il s'agissait de M. Vassios et d'au moins une autre personne possédant de vastes connaissances dans le domaine de la restauration. Ces personnes s'engageaient-elles pour longtemps ou visaient-elles un accroissement et une vente rapides de l'entreprise? Nous ne le savons pas. Aucune de ces personnes n'a témoigné. Me McKenzie souhaite que nous inférions cela parce que M. Vasious a pris sa retraite en Grèce et qu'il ne souhaitait pas exploiter un restaurant à long terme. Le fait que le restaurant pouvait fournir un revenu continu à M. Vassios constituait une inférence aussi valable, sinon plus. Il a exploité un restaurant au Canada pendant plusieurs années. En effet, selon la preuve, il est depuis revenu en Amérique du Nord et il continue d'exploiter un restaurant.
+[21] M. Walchuk s'est rendu en Grèce de 30 à 35 occasions au cours de la vie du restaurant. Me McKenzie a suggéré qu'il s'agit de la preuve qu'une personne a l'intention d'accroître la valeur de son bien pour une vente future. Je ne peux simplement pas accepter cette thèse, particulièrement puisque M. Walchuk n'a pas expliqué la nature de ses nombreuses visites. Le fait est que M. Walchuk était un associé dans une entreprise de restauration et qu'il a clairement passé beaucoup de temps dans l'entreprise. Cela ne fait pas pencher la balance en faveur d'une intention d'accroître la valeur plus qu'une intention d'aider simplement, en tant qu'associé, à exploiter une entreprise. Le dilemme évident auquel je suis confronté consiste en ce que les mesures prises par M. Walchuk relativement à l'entreprise peuvent appuyer l'intention d'exploiter l'entreprise de restauration en vue de réaliser un profit de même que l'intention d'accroître la valeur de l'entreprise en vue de la revendre à profit. Dans les deux cas, le propriétaire souhaite s'assurer que l'entreprise est rentable.
+[22] Ce n'est cependant pas semblable à la situation dans l'affaire Becker c. R.[8], sur laquelle Me McKenzie s'est fondé. Dans cette affaire, l'appelant avait acquis des actions dans une entreprise de bois de construction qui connaissait des difficultés financières avec l'intention avérée à cette époque de transformer une entreprise en difficulté en une entreprise rentable et de la revendre le plus rapidement possible. Le juge LeDain de la Cour d'appel fédérale a distingué l'affaire Becker[9] de l'affaire Irrigation Industries Ltd. v. M.N.R.[10] de la façon suivante :
+Il ressort des extraits précités des motifs du jugement de première instance que le juge a fait une distinction entre le but immédiat ou déterminant poursuivi par l'appelant et ce que l'appelant avait l'intention de faire « plus tard » , et qu'il estimait que le jugement Irrigation Industries reflètait bien cette distinction. En toute déférence, c'est mal comprendre cette décision. Il était évident, dans Irrigation Industries, que les actions avaient été achetées dans l'intention de les vendre à profit dès que possible, mais la décision majoritaire a conclu que cela ne suffisait pas pour donner à l'opération un caractère commercial. Le cas qui nous occupe se distingue nettement de l'affaire Irrigation Industries puisque l'entreprise BCP n'impliquait pas seulement l'achat d'actions dans l'intention de les revendre à profit, mais l'achat d'une entreprise, en vue de la transformer pour en faire une entreprise rentable.
+[...]
+[...] À mon avis, si l'on considère que le témoignage de l'appelant est digne de foi, et il ne peut en être autrement en cette Cour compte tenu de l'opinion exprimée par le juge de première instance sur la question de la crédibilité, une seule conclusion s'impose : l'intention de l'appelant était de transformer l'entreprise BCP et de la rentabiliser afin de la vendre dès que possible à profit.
+[23] Deux considérations importantes découlent de l'affaire Becker. Tout d'abord, l'intention déclarée de l'appelant de revendre à profit doit être considérée crédible. Ensuite, l'intention doit être de transformer l'entreprise. Il faut également garder à l'esprit que l'affaire Becker porte sur des actions.
+[24] Pour ce qui est du premier point, j'ai des doutes quant à la crédibilité de M. Walchuk quant à son intention déclarée pour les raisons suivantes :
+- il n'y a aucune preuve au moment de son investissement initial qu'une telle intention déclarée existait;
+- il a fondé la société de personnes avec deux restaurateurs;
+- il n'y a pas de corroboration de la part de M. Vassios;
+- il n'y a pas de corroboration de la part d'un représentant de Yorkton;
+- il n'y a pas de corroboration de la part d'un représentant de Regency;
+- il n'y a pas de corroboration de la part du comptable de M. Walchuk;
+- il n'a pas déclaré la perte d'entreprise découlant de la fermeture de l'entreprise dans sa déclaration de 1998;
+- il ne mentionne pas cette question dans son opposition initiale.
+[25] Pour ce qui est du deuxième point, il ne s'agissait pas de reprendre une entreprise en difficulté et de redresser sa situation. Il s'agissait d'un cas visant le démarrage d'une entreprise de restauration. Il n'y a pas eu de transformation, il y avait simplement les attentes et les espoirs habituels liés à une nouvelle entreprise selon lesquels elle aurait du succès. Rien d'extraordinaire n'indique que l'intention dépassait ce qui est normal dans une nouvelle entreprise.
+[26] Pour ces raisons, je n'accepte pas que M. Walchuk avait une intention, différente de celle de tout associé dans une nouvelle entreprise, de transformer un investissement en un projet comportant un risque de nature commerciale.
+Nature de l'entreprise de M. Walchuk
+[27] En tant que courtier en investissements à risque élevé, qui a déclaré un commerce des valeurs mobilières au titre du revenu, M. Walchuk mérite-t-il un traitement semblable pour cet investissement à risque élevé semblable? Je ne le crois pas. L'examen de ses déclarations de 1996, de 1997 et de 1998 n'indique pas que le revenu ou les pertes du commerce découlaient des transactions effectuées avec la société de personnes. En outre, le seul investissement dans un restaurant, autre que l'Ilion, a été effectué en 1996 dans des actions du No Name Café. Cette disposition a été déclarée au titre du capital, puisque, selon M. Walchuk, ce devait être un club de restauration pour une longue période. Je ne suis pas convaincu que le commerce d'actions fournit un bagage suffisant permettant de conclure que la mise sur pied d'une entreprise de restauration en société de personnes avec un client restaurateur constitue un commerce de parts dans une société de personnes.
+Toute autre circonstance
+[28] Me McKenzie a soulevé les circonstances suivantes pour soutenir qu'il s'agissait d'un projet comportant un risque de nature commerciale :
+[traduction]
+- il serait difficile pour M. Walchuk de surveiller une entreprise en exploitation en Grèce à long terme.
+Étant donné les voyages fréquents de M. Walchuk en Grèce, cela ne tient pas la route.
+[traduction]
+- si M. Walchuk avait été intéressé par l'exploitation de l'entreprise à long terme, il aurait cherché à obtenir plus de documentation comme les plans d'entreprise, les états financiers pro forma, etc.
+Cela ne semble pas correspondre à la procédure suivie par M. Walchuk. Il a tenté de déduire des montants considérables sans documents justificatifs. Il a vendu sa participation au moyen d'une note manuscrite. Son calendrier résumant l'entrée d'argent dans la société de personnes était suspect. Il a finalement investi plus de 400 000 $ en n'ayant pratiquement pas de documentation. Mon impression globale est que la diligence et la documentation n'étaient tout simplement pas importantes pour M. Walchuk. Cela n'avait rien à voir avec une intention à long terme par opposition à une intention de faire une vente rapide de titres.
+[traduction]
+- le rendement du capital de M. Walchuk dépendait entièrement de la vente de l'entreprise.
+Rien dans la preuve n'indiquait que des projections financières appuyaient cette prétention : c'était dans la meilleure conjecture. Au moment de l'investissement initial de 35 000 $, il n'y avait certainement pas de preuve indiquant que quelqu'un, y compris M. Walchuk, croyait qu'une vente de l'entreprise constituait l'unique façon de récupérer un investissement.
+[29] En conclusion, il n'y avait qu'une seule entreprise à laquelle a participé M. Walchuk, soit l'entreprise de restauration en Grèce. Sa disposition en raison de l'insolvabilité constituait une disposition en capital. Il n'a pas lancé de projet touchant les parts d'une société de personnes. L'affaire est rejetée, les dépens étant adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2004.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 15e jour d'avril 2004.
+Liette Girard, traductrice
+[1] Pièce R-1, page 3.
+[2] Pièce R-4.
+[3] Pièce R-5.
+[4] Pièce R-6.
+[5] 1964 CarswellNat 204.
+[6] Précitée, au paragraphe 14.
+[7] 89 DTC 425 (C.C.I.); C.C.I., no 95-150(IT)G, 31 juillet 1997 (97 DTC 1450); C.F., 1re inst., no T-1268-90, 27 septembre 1991 ([1991] 2 CTC 261), confirmé par C.A.F., no A-1013-91, 17 juin 1993 ([1993] 2 CTC 76); 60 DTC 1060 (C. de l'É.); 90 DTC 1369 (C.C.I.).
+[8] [1983] 1 C.F. 459 (83 DTC 5032).
+[9] Ibid., aux pages 5034-5035.
+[10] 62 DTC 1131.

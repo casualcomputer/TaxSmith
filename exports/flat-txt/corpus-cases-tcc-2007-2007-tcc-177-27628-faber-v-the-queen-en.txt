@@ -1,0 +1,281 @@
+Title: Faber v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27628/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-177-27628-faber-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-03-29
+
+# Faber v. The Queen
+
+- Citation: 2007 TCC 177
+- Decision date: 2007-03-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 449, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Faber v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-29
+Neutral citation
+2007 TCC 177
+File numbers
+2005-1062(IT)G
+Judges and Taxing Officers
+Dwayne W. Rowe
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1062(IT)G
+BETWEEN:
+JONAS FABER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on February 22, 2007 at Kelowna, British Columbia,
+By: The Honourable D.W. Rowe, Deputy Judge
+Appearances:
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Max Matas
+ORDER
+Upon motion by the respondent for an order striking out portions of a Notice of Appeal filed in respect of income tax assessments for the 2000 and 2001 taxation years;
+AND Upon hearing counsel for the respondent;
+AND Upon hearing from the appellant;
+AND Upon reading the material filed;
+IT IS ORDERED THAT:
+The parts of the Notice of Appeal that are underlined will be struck out as reproduced in Appendix A of the attached Reasons for Order.
+Signed at Sidney, British Columbia, this 29th day of March 2007.
+"D.W. Rowe"
+Rowe, D.J.
+Citation: 2007TCC177
+Date: 20070329
+Docket: 2005-1062(IT)G
+BETWEEN:
+JONAS FABER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Rowe, D.J.
+[1] The respondent sought an order striking out parts of a Notice of Appeal that recite the actions of certain individuals in the town of Princeton, British Columbia in conjunction with particulars of alleged conduct by some officials in Canada Revenue Agency (CRA) in the course of investigating his business and certain actions taken by an auditor in the course of an audit. In addition, the respondent sought to strike other parts of the Notice of Appeal on the basis various paragraphs thereof dealt with the appellant's complaint to the Canadian Human Rights Commission (CHRC or Commission) based on allegations for which he sought relief from the Tax Court of Canada and that several paragraphs of the appeal were irrelevant to the determination of the amount of tax payable by the appellant.
+[2] The respondent issued the motion pursuant to section 69 of the Tax Court Rules (General Procedure) (Rules) and requested it be disposed of upon consideration of written representations and without appearance by the parties. However, the appellant was before me in Kelowna, British Columbia on February 22, 2007 for the purpose of a Status Hearing. Following discussions with counsel and the appellant, the parties concurred with my direction that we deal with the motion at that time and submissions were heard from both parties. The respondent's motion sought relief pursuant to Section 53 of the Rules which reads:
+53. The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+[3] Specifically, the motion sought to strike paragraphs 4 to 22, inclusive, and paragraphs 24 to 43, inclusive of the Notice of Appeal on the basis they contained allegations of fact irrelevant to issues within the jurisdiction of this Court, namely, the determination of the tax payable. With respect to paragraph 44 of the Notice of Appeal, the motion sought to strike any reference to whether the assessment had been issued "fairly and without bias" on the basis that was irrelevant to the issue concerning the amount of tax payable. The same ground was raised with respect to paragraphs 45 and 46. With respect to paragraphs 43, 46 and 47, the respondent's position is that this Court has no jurisdiction to consider human rights complaints and that paragraphs 49 to 55, inclusive, should be struck because they allege reasons for the appellant's reliance on alleged conduct of CRA officials within the audit team and of agency collectors in the course of their dealings with the appellant and that those assertions are irrelevant to the issue of the amount of tax payable. The respondent requests that subparagraphs 56(c) to (i), inclusive, and subparagraphs 56(k), (l) and (n) - under the heading: Relief Sought - be struck because this Court lacks the jurisdiction to grant said relief.
+[4] The position of the Appellant is that he had filed a complaint with CHRC and received a reply on December 20, 2004, advising there was an appeal process available to him as provided by the Tax Court of Canada and that said process would deal with the allegations raised in his complaint. In his lengthy complaint to CHRC, the appellant had included his Notice of Objection to the assessment issued by the Minister of National Revenue (the "Minister"). On March 31, 2005, the appellant filed the Notice of Appeal to the Tax Court of Canada and subsequently received a letter - dated April 13, 2005 - from CHRC advising him the Commission would not deal with his complaint because it "could more appropriately be dealt with according to a procedure provided for under another Act of Parliament." The appellant submitted that his complaints about the conduct of CRA officials were considered by CHRC to have had merit and that this aspect of the matter is relevant to his case before the Tax Court.
+[5] According to the Reply to the Notice of Appeal (Reply), the Minister issued assessments for the appellants 2000 and 2001 taxation years in which certain claimed business expenses were disallowed. The appellant filed a Notice of Objection and then appealed to this Court pursuant to subsection 169(1)(b) of the Income Tax Act which permits a taxpayer to appeal after 90 days if the Minister has not notified said taxpayer the Minister has vacated or confirmed the assessment or reassessed. The issues raised in said Reply concern the reasons for the disallowance by the Minister of those expenses set out in Schedule "A" of the Reply pertaining to amounts claimed for various categories in the course of the appellant carrying on business as a sole proprietor dealing in the production and sale of sculptures and silver products. In addition, the Minister disallowed amounts claimed for business use of the appellant's personal residence and details were provided in Schedule "B" to the Reply. Following several pages comprising paragraph 9 in which the assumptions of fact relied on by the Minister were set forth, the issue stated - in paragraph 10 - is whether expenses in excess of the amount allowed by the Minister were incurred by the appellant for the purpose of gaining or producing income.
+[6] Paragraphs 4-22, inclusive, and paragraphs 24-42, inclusive, of the Notice of Appeal read:
+4. In 2002 an agent of the Canada Revenue Agency (CRA) spent two days on a field call in the Appelant's town of Princeton, B.C. asking questions about his business. There are no galleries or jewellery stores in the town to carry his work. There are no suppliers of raw materials in the town either.
+5. After this field call the Appellant was confronted in the Post Office in regards to his tax problems by an owner/operator of a local rooming house and bar. This individual had previously issued a death threat to the Appellant based solely on his race. At the urging of, and with assistance from, the staff at Princeton Town Hall the Appellant had filed a complaint about the death threat with the local RCMP detachment prior to the field call. The town's racially intolerant faction heightened their aggression toward Appellant after the field call. While grocery shopping another local business person informed the Appellant's spouse, Diane Henderson, that a CRA agent had been to her business to discuss the Appellant's tax situation.
+6. On October 15, 2002 the Appellant delivered, by hand, a letter to the CRA office in Penticton expressing his fear about the actions of the field call.
+7. On October 15, 2002 the Penticton Office of the CRA issued a "Lead to Investigations" regarding the Appellant's business expenses for 2001.
+8. By October 23, 2002, this "Lead to Investigations" was being acted upon by auditor Valerie Kistner and Team Leader Lori McArthur.
+9. On November 1, 2002 Ms. Kistner sent the Appellant a letter and questionnaire giving him less than one month to respond. At the time the Appellant was actively working with Sandy Steck of CRA Penticton Collections Office to file his back taxes.
+10. Ms. Steck expected that the Appellant would complete his returns and that he would owe little or no taxes. The arbitrary assessment had assigned the Appellant with a tax burden exceeding his average annual gross revenue.
+11. The Appellant did not know how to proceed with the audit as he was also working on filing his back taxes and he had just completed relocating his home and business to Summerland, B.C. on October 31, 2002. The day he received the correspondence from Ms. Kistner, the Appellant telephoned her seeking direction. Unable to reach her he then contacted Ms. Steck.
+12. Ms. Steck and Ms. Kistner met on that same day of the Appellant's call, November 5, 2002, and concluded that they would put the onus on the Appellant to come up with a workable deadline. This was not made clear to the Appellant. It was unrealistic as the reason he had made the phone call was because he did not know how to proceed.
+13. The Appellant waited for further direction from the Penticton Office of the CRA. On March 24, 2003 Ms. Kistner phoned the Appellant and requested his files for the tax years of 2000 and 2001. He delivered them to her, by hand, on the same day.
+14. On December 11, 2003 Ms. Kistner phoned Terrence Letcher, the accountant who prepared the Appellant's tax returns for the first and only time, while she was preparing the "Penalty Report".
+15. On December 12, 2003 Ms. Kistner sent the "Proposal Letter" to the Appellant.
+16. On December 16, 2003, the Appellant received the "Proposal Letter" and met with Ms. Kistner and her Team Leader, who was now Helga Sztepanacz. They agreed to meet again January 6, 2004.
+17. On January 6, 2004 the Appellant met with the Auditors again and presented them with a written response to the issues raised in the "Proposal Letter". As the "Proposal Letter" contained a confidential document regarding the tax arrears of another taxpayer from the Appellant's community he felt concerned and requested that another auditor be assigned to review or re-do the audit. This was never considered by the CRA.
+18. Ms. Kistner phoned the Appellant on January 15, 2004 stating that she would respond to the points raised in the document the Appellant presented at the last meeting and allow him an opportunity to respond.
+19. The next contact from the CRA was March 31, 2004 when Ms. Kistner and Ms. Sztepanacz closed the file.
+20. The Appellant called Ms. Kistner upon receiving the correspondence on April 2, 2004 and she directed him to Appeals refusing to discuss the matter further.
+21. On April 8, 2004 Ms. Kistner recorded on the "Lead to Investigations" that this file had been assigned to her February 7, 2003, even though documents prove she had been working on it as early as October 23, 2002. She also recorded that, by this date, she had expended 380 hours on it with more documents filed after this date. Documents show that 15 hours had been budgeted for the file. No reasonable explanation was provided to account for this additional time.
+22. The Appellant received the Audit file through a Privacy Act Request on June 28, 2004.
+24. The Appellant was notified by mail that his Appeal had been assigned to Kevin Zazzara, August 27, 2004.
+25. The Appellant reached Mr. Zazzara by phone on September 7, 2004 and discussed some of his concerns with the audit.
+26. Around September 14, 2004 the Appellant sent a letter to Mr. Zazzara. He requested the documents offered in the initial letter of August 27, explained that as per his "Notice of Objection" he was preparing a response letter that he wished to present and required more time to complete that, and expressed his concern about the racism in the audit file.
+27. Mr. Zazzara responded to the Appellant via telephone on September 17, 2004. He felt the Appellant was accusing him of racism and said he would discuss it with his Supervisor and he or the Supervisor would respond to him. No other contact was made by either.
+28. On October 25, 2004 the Appellant sent a letter to Mr. Zazzara. He again requested the documents that had been offered and informed Mr. Zazzara that he had completed his written response to the audit which he wished to submit after he had an opportunity to review the documents he had been offered.
+29. The Appellant's spouse received a questionnaire from the Child Tax Benefit Office in Surrey, B.C. requesting information about their children and common-law relationship, that she and the Appellant were required to sign, on October 26, 2004.
+30. On November 1, 2004 the spouse, Ms. Henderson, sent a response letter to the Child Tax Benefit Office expressing concern about their investigation and briefly explaining the situation with the audit. The Appellant filed a complaint with the Canadian Human Rights Commission regarding the racial profiling in the audit and the differential treatment received.
+31. In the late afternoon of November 3, 2004 the Appellant received a message on his answering machine that he had been assigned a new Appeals Officer, Sonja Filipovic.
+32. Ms. Filipovic contacted the Appellant by telephone the following day and he expressed some of his main concerns with the audit.
+33. On November 10, 2004 a clerk from the Child Tax Benefit office called Ms. Henderson and requested information regarding the children which was provided. She informed Ms. Henderson that she would attach a memo to her file with the information discussed.
+34. Ms. Henderson sent a letter to Ms. Filipovic, on behalf of the Appellant, on November 16, 2004 to request the documents offered in the August 27, 2004 letter for the third time and requesting to submit the response prepared to the audit for the second time She also asked for an explanation of why and when the Appeals Officer had been changed.
+35. Ms. Filipovic called and spoke with Ms. Henderson. Ms. Henderson asked for the documents that had been offered and Ms. Filipovic refused to offer anything more than a record of the phone conversations Mr. Zazzara had in this case.
+36. On November 19, 2004 the Appellant received a letter from Randy Lockinger with Collections at the Penticton Office of the CRA. He demanded repayment of the 152(7) returns and for tax arrears for 1999 and 2002 within 15 days and threatened legal action for non-compliance.
+37. Ms. Filipovic sent a letter and the notes of Mr. Zazzara's telephone calls on November 22, 2004. On this date Ms. Henderson also received a letter from the Child Tax Benefit office stating that they would not require further investigation.
+38. The Appellant and his spouse responded to Mr. Lockinger's letter and sent a copy to Ms. Filipovic, the Chief of Appeals in Penticton and the Penticton Director of CRA on November 23, 2004. They requested information regarding the tax arrears for 1999 and 2002 as no investigation has been made of these returns and no previous notification had been sent that they had been reassessed. They also specifically requested a response to an overtly racist comment in the audit file. Further they explained that the debt relating to the 152(7) returns was related to the Appeal because the audit had deferred the Appellant from completing those returns at this time. No response was given to any of these issues.
+39. On November 25, 2004 Ms. Filipovic telephoned the Appellant and discussed sending this file to Tax Court.
+40. The Appellant received a letter from Ms. Filipovic proposing to accept the audit and send it to Tax Court on November 29, 2004. The appeal was held in abeyance until "December 33, 2004". [sic]
+41. The Appellant left a message with Ms. Filipovic on November 29 and she returned his call on December 3, 2004. As per the advice provided by a Tax Lawyer consulted by the Appellant, he suggested that the file be thrown out at the Appeals level due to the number and gravity of the errors in it.
+42. While on business in Vancouver on December 9, 2004 a gallery owner to whom Jonas sells his art complained that the CRA had recently contacted them in regards to the business they do with the Appellant. Several weeks later a gallery in Harrison Lake, B.C. made a similar complaint.
+[7] Paragraphs 45 and 46 read:
+45. Were the "Office Examination/Assessing Review Report" and the "Penalty Report" filed to the Appellant's Permanent Record and the "Lead to Investigations" an accurate and just portrayal of the Appellant's business and character?
+46. Were the Rights of the Appellant, and others involved, as guaranteed by the Canada Revenue Agency and other Acts of Parliament respected such that the Appellant received fair, equitable and humane treatment by the Canada Revenue Agency?
+[8] Paragraphs 49 to 55, inclusive, read:
+49. On numerous occasions the audit team used false or deliberately misrepresented information to disallow expenses.
+50. The audit team deliberately withheld significant and inaccurate information from the Appellant that was included in his file and/or placed on his permanent record with the Canada Revenue Agency.
+51. The audit team exhibited malicious intent toward the Appellant by deliberately filing information that they knew to be false and/or misleading and/or degrading for the purpose of biasing future CRA employees against the him thus compromising his treatment in Appeals and future investigations requested by them.
+52. Ms. Valerie Kistner, on behalf of the Canada Revenue Agency, engaged in racially profiling the Appellant thus fatally compromising her ability to impartially audit his business.
+53. The Canada Revenue Agency harassed the Appellant by simultaneously taking several actions against him compromising his ability to address and correct problems.
+54. The Canada Revenue Agency harassed the Appellant by pursuing Collections actions against him and his customers while in Appeals.
+55. The Canada Revenue Agency breached the confidentiality of the Appellant and another taxpayer. The actions of the CRA in the Field Call in Princeton in 2002 had the potential to result in physical harm to the Appellant and/or members of his family. Reasonable care was not taken to ensure the safety and privacy of the Appellant.
+[9] Under the heading: Relief Sought, in subparagraphs 56(c) to (i), inclusive and subparagraphs 56(k), (l) and (n), the Notice of Appeal states:
+(c) that due to the significant amount of false, misrepresented, degrading and racially biased information contained within, all files prepared in the audit relating to the Appellant, his family and business or personal associates be destroyed after all investigations are completed;
+(d) any files relating to the Appellant, his family and business or personal associates that Ms. Kistner or others had the ability to alter be destroyed after all investigations are completed;
+(e) "Subsection 163(2) Penalty Report" on the Appellant (Case number: 4212 4957, File Number: 202 1202585) be removed from the Appellant's permanent record with the CRA and any other locations in which it may be filed and destroyed after all investigations are completed;
+(f) "Office Examination/Assessing Review Report" on the Appellant (Case number: 4212 1624, File Number: 202 102585) be removed from his permanent record with the CRA and any other locations in which it may be filed and destroyed after all investigations are completed;
+(g) that the coding for the Appellant's file for follow-up be removed;
+(h) the Lead sent to Investigations be cancelled as it contains false information;
+(i) that the computer generated 152(7) tax arrears and all actions relating to unfiled tax returns be nullified as CRA documents prove the Appellant was acting in good faith to file those, the Collections Officer with whom he was working expected he would have completed them had the audit not been initiated, and she anticipated that the Appellant would owe little to no taxes upon filing;
+(k) a detailed report be added to the Appellant's permanent record, agreed to by him, detailing the situation that occurred in this audit and clearly stating that the Appellant was ordered to file for GST;
+(l) that further retaliatory actions not be taken by the CRA against the Appellant;
+(n) compensation for pain, suffering, humiliation and degradation caused to the Appellant and his family by the actions of the CRA be awarded.
+[10] In the case of Main Rehabilitation Co. Ltd. V. Her Majesty the Queen 2004 FCA 403, the Federal Court of Appeal heard an appeal from a decision of Woods J. in which she ordered certain portions of a Notice of Appeal to the Tax Court of Canada struck insofar as they pertained to allegations of abuse of process both at common law and pursuant to section 7 of the Charter of Rights and Freedoms in the course of an audit conducted by officials of Canada Customs and Revenue Agency. In Main, Noël, J. writing for the Court, set out the facts at paragraph 2 of his reasons:
+[2] For the purposes of the motion before Woods J. and on this appeal, the allegations in the Notice of Appeal to the Tax Court are assumed to be true. The CCRA reassessed Main by disallowing certain expenses for its 1996, 1997 and 1998 taxation years. The Notice of Appeal alleges that the disallowance of the expenses followed an audit which Main says was based on mala fides and an abuse of authority. It is said that a protracted and abusive audit was triggered by an anonymous false tip by a disgruntled shareholder. It was conducted by an "auditor" who had not yet passed her exams. And it was managed by the supervisor who was related to a municipal inspector who had dealings with directors, officers and employees, as well as being a friend of the disgruntled shareholder. The relief Main seeks in respect of these allegations is that the assessment be stayed.
+[11] In the next paragraph, Justice Noël discussed the applicable test for striking out pleadings:
+[3] The test to be applied for striking out pleadings is whether it is plain and obvious that Main's Notice of Appeal to the Tax Court discloses no reasonable claim. Only if its appeal is certain to fail should the relevant portions of the Notice of Appeal be struck out. As stated, the facts alleged in the Notice of Appeal are assumed to be true. See Hunt v. Carey Canada Inc., [1990] 2 S.C.R. 959.
+[12] With respect to the issue of abuse of process, Noël J. at paragraphs 6 to 16, inclusive, stated:
+[6] In any event, it is also plain and obvious that the Tax Court does not have the jurisdiction to set aside an assessment on the basis of an abuse of process at common law or in breach of section 7 of the Charter.
+[7] As the Tax Court Judge properly notes in her reasons, although the Tax Court has authority to stay proceedings that are an abuse of its own process (see for instance Yacyshyn v. Canada, 1999 D.T.C. 5133 (F.C.A.)), Courts have consistently held that the actions of the CCRA cannot be taken into account in an appeal against assessments.
+[8] This is because what is in issue in an appeal pursuant to section 169 is the validity of the assessment and not the process by which it is established (see for instance the Queen v. the Consumers' Gas Company Ltd. 87 D.T.C. 5008 (F.C.A.) at p. 5012). Put another way, the question is not whether the CCRA officials exercised their powers properly, but whether the amounts assessed can be shown to be properly owing under the Act (Ludco Enterprises Ltd. v. R. [1996] 3 C.T.C. 74 (F.C.A.) at p. 84).
+[9] This point was recently reiterated in the context of an attack against an assessment based on a breach of subsection 15(1) of the Charter. In Sinclair v. The Queen 2003 DTC 5625, Evans J.A. speaking for the Court said (para. 7): [7] In our view, it is not open to the Tax Court to set aside a tax reassessment on the ground that the taxpayer ought to have been given the same favourable treatment as others who are similarly situated. The issue before the Tax Court in this case is whether Ms. Sinclair is entitled to an exemption under section 87. This must be decided on the basis of the interpretation of the section and its application to her situation: that others are given the benefit of the exemption is simply not relevant to Ms. Sinclair's appeal. See Hokhold v. Canada [93 DTC 5339], [1993] 2 C.T.C. 99 (F.C.T.D.); Ludmer v. Canada [95 DTC 5311, [1995] 2 F.C. 3 (C.A.); Hawkes v. The Queen [97 DTC 5060], [1997] 2 C.T.C. 5060 (F.C.A.). Apart from the allegation that some similarly situated taxpayers receive more favourable treatment, Ms. Sinclair does not suggest that section 87 is unconstitutional, either as interpreted or as applied to her case.
+[10] Evans J.A. went on to explain that Ms. Sinclair had recourse to other Courts in the pursuit of her Charter rights (para. 8) just as the appellant in the present case can seek vindication for the alleged abuse of his rights before the appropriate forum.
+[11] The appellant argues that the decision of this Court in the Queen v. O'Neil Motors Ltd., 98 D.T.C. 6424 supports the proposition that an assessment can be vacated by the Tax Court in an appeal pursuant to section 169 where it can be shown that the process leading to the issuance of the assessment is tainted by the breach of a Charter right. That is not the effect of that decision.
+[12] The issue in O'Neil was whether the Tax Court Judge after having excluded evidence on the basis that it had been obtained in breach of section 8 of the Charter could go on to vacate the reassessments. Bowman J.T.C.C. ( as he then was) proceeded to vacate the reassessments after having noted that the Minister bore the burden of establishing the validity of the reassessments (because they had been issued beyond the limitation period) and that they could not be supported without the impeached evidence.
+[13] On appeal, this Court confirmed that it was open to the Tax Court Judge to vacate the reassessments in these circumstances. Contrary to what the appellant asserts, O'Neil merely stands for the proposition that an assessment may be vacated in an appeal pursuant to section 169 if it is not supported by reason of the exclusion of the evidence which led to its issuance.
+[14] Finally, we do not believe that the decision of our Court in Arthur C. Dwyer v. The Queen 2003 FCA 322 creates a departure from the existing state of the law. In that case, the Court disposed of an attack based on abuse of process by going to the merits of this objection. This was one of many issues raised against multiple reassessments, and the Court held that there was no substance to the objection.
+[15] There is no suggestion that the jurisdictional question was raised and indeed no discussion of the statutory limitations which apply to an appeal pursuant to section 169. It is plain and obvious that Dwyer was not intended to operate as a departure from the well established line of cases confirming the limited Jurisdiction of the Tax Court.
+[16] The appeal will be dismissed with costs.
+[13] With respect to paragraphs 4 to 22, inclusive, and 24 to 42, inclusive, the issues raised therein do not relate to the issue whether the assessment issued by the Minister is correct in law. Woods J. in her reasons in Main Rehabilitation Co. Ltd. 2003 TCC 454, at paragraph 21, stated:
+[21] I would add that the right to appeal an income tax assessment to the Tax Court is a substantial one. The mandate of the Tax Court is to decide, on the basis of a trial at which both parties will have the opportunity to present documentary and oral evidence, whether the assessments under appeal are correct in law, or not. If the assessments are incorrect as a matter of law, it will not matter whether the objection process was flawed. If they are correct, they must stand even if the objection process was flawed.
+[14] The content of those paragraphs of the Notice of Appeal reproduced earlier, are not relevant to the determination of the issue and are a recitation of events that have no bearing on the ultimate question to be answered by the trial judge. Paragraph 43 deals with the appellant's complaint lodged with CHRC and also alleges a violation of section 5 of the Canadian Human Rights Act which is incapable - even if substantial - of affecting the validity of the assessment issued by the Minister with the respect to the appellant's 2000 and 2001 taxation years.
+[15] The issue raised in paragraph 44 of the Notice of Appeal - stated as a question - is, "Did the CRA disallow the business expenses of the appellant fairly and without bias and in accordance with the provisions of the Income Tax Act?" The respondent seeks to strike the words "fairly and without bias" from that portion of the pleading. In my opinion, those words are not offensive within the meaning of section 53 of the Rules because they do not allege any specific misconduct on the part of officials for which the appellant seeks to vacate the assessments. Instead, that phrase can be taken to mean the appellant seeks to ensure relevant provisions of said Act were adhered to as they pertain to the issue of defining business expenses. Standing alone within that paragraph, reference to disallowance of business expenses "fairly and without bias" does not have to be rooted in anything other than a disagreement between the appellant and CRA with respect to agency policy in allowing and disallowing certain business expenses or its method of determining the apportionment of business and personal use of a particular property.
+[16] The reference in the second sentence of paragraph 47 of the Notice of Appeal in which the appellant seeks to rely on section 5 of the Canadian Human Rights Act is irrelevant to the issue and falls within the ambit of section 53 of the Rules.
+[17] In Section F of the Notice of Appeal under the heading: Reasons Upon Which The Appellant Intends to Rely, set forth at paragraphs 49 to 55, inclusive, constitute a complaint with respect to the conduct of the CRA audit team and other officials of CRA, including those in the Appeals Division and the Collections Department who are accused of racial profiling, malicious intent, harassment and breach of confidentiality. None of those paragraphs contain any material capable of affecting the validity of the assessments issued for the taxation years at issue. As such, they are frivolous, scandalous and vexatious and otherwise constitute an abuse of the process of the Court as contemplated by the wording of section 53 of the Rules.
+[18] With respect to the relief sought by the appellant, it is clear the remedies sought in subparagraphs 56(c) to (i), inclusive, and in subparagraphs 56(k), (l) and (n) are beyond the jurisdiction of the Tax Court to grant even if evidence supported the allegations upon which the prayer is based. As a consequence, I find those portions of the Notice of Appeal are frivolous and constitute an abuse of process within the meaning of section 53 of the Rules.
+[19] For the reasons stated herein, I allow the Respondent's motion to strike out the parts of the Notice of Appeal specified in said motion with the exception of the words "fairly and without bias" in paragraph 44. Counsel for the respondent did not want to file an Amended Reply and was prepared to proceed to a pre-conference hearing.
+[20] The respondent did not request costs in the Notice of Motion. The appellant was represented by counsel as late as November, 2006 but has represented himself since and had difficulty understanding the scope of the jurisdiction of this Court with respect to his numerous complaints about the conduct of CRA officials in the course of lengthy dealings with that agency. I pointed out to the appellant that the Minister's reasons for the disallowance of business expenses are stated in considerable detail in the Reply to the Notice of Appeal and informed him he can present evidence at trial to confront those assumptions of fact upon which the assessments are based. Counsel for the respondent advised he was satisfied that if the motion were granted, the remaining portions of the Notice of Appeal - albeit severely truncated - would be adequate to permit the appellant to challenge the validity of the assessments issued by the Minister and that it would not require him to file an Amended Notice of Appeal as that would serve to delay the process at a
+point when the matter is ready to be set down for hearing. In light of the foregoing, I will leave the matter of costs of this motion to the trial judge.
+Signed at Sidney, British Columbia, this 29th day of March 2007.
+"D.W. Rowe"
+Rowe, D.J.
+APPENDIX A
+NOTICE OF APPEAL
+A. ADDRESS FOR APPELLANT
+9402 Front Bench Rd.
+Summerland, British Columbia
+V0H 1Z4
+B. REASSESSMENT
+Notice of Reassessment dated March 31, 2004 (2000 and 2001)
+C. MATERIAL FACTS
+1. The Appellant is an individual resident in Canada for the purposes of the Income Tax Act (the "Act").
+2. The Appellant is an artist who creates sculptures in soapstone and other natural media (ie antler, bone, ivory, other minerals) and designs jewellery. He also occasionally works on archaeological projects. His income from these endeavours supports a family of four.
+3. Due to personal situations the Appellant encountered difficulties and failed to file his tax returns in the early 1990's. Because of this he was arbitrarily assessed a tax debt.
+4. In 2002 an agent of the Canada Revenue Agency (CRA) spent two days on a field call in the Appellant's town of Princeton, B.C. asking questions about his business. There are no galleries or jewellery stores in the town to carry his work. There are no suppliers of raw materials in the town either.
+5. After this field call the Appellant was confronted in the Post Office in regards to his tax problems by an owner/operator of a local rooming house and bar. This individual had previously issued a death threat to the Appellant based solely on his race. At the urging of, and with assistance from, the staff at PrincetonTown Hall the Appellant had filed a complaint about the death threat with the local RCMP detachment prior to the field call. The town's racially intolerant faction heightened their aggression toward Appellant after the field call. While grocery shopping another local business person informed the Appellant's spouse, Diane Henderson, that a CRA agent had been to her business to discuss the Appellant's tax situation.
+6. On October 15, 2002 the Appellant delivered, by hand, a letter to the CRA office in Pentictonexpressing his fear about the actions of the field call.
+7. On October 15, 2002 the PentictonOffice of the CRA issued a "Lead to Investigations" regarding the Appellant's business expenses for 2001.
+8. By October 23, 2002, this "Lead to Investigations" was being acted upon by auditor Valerie Kistner and Team Leader Lori McArthur.
+9. On November 1, 2002 Ms. Kistner sent the Appellant a letter and questionnaire giving him less than one month to respond. At the time the Appellant was actively working with Sandy Steck of CRA PentictonCollections Office to file his back taxes.
+10. Ms. Steck expected that the Appellant would complete his returns and that he would owe little or no taxes. The arbitrary assessment had assigned the Appellant with a tax burden exceeding his average annual gross revenue.
+11. The Appellant did not know how to proceed with the audit as he was also working on filing his back taxes and he had just completed relocating his home and business to Summerland, B.C. on October 31, 2002. The day he received the correspondence from Ms. Kistner, the Appellant telephoned her seeking direction. Unable to reach her he then contacted Ms. Steck.
+12. Ms. Steck and Ms. Kistner met on that same day of the Appellant's call, November 5, 2002, and concluded that they would put the onus on the Appellant to come up with a workable deadline. This was not made clear to the Appellant. It was unrealistic as the reason he had made the phone call was because he did not know how to proceed.
+13. The Appellant waited for further direction from the PentictonOffice of the CRA. On March 24, 2003 Ms. Kistner phoned the Appellant and requested his files for the tax years of 2000 and 2001. He delivered them to her, by hand, on the same day.
+14. On December 11, 2003 Ms. Kistner phoned Terrence Letcher, the accountant who prepared the Appellant's tax returns for the first and only time, while she was preparing the "Penalty Report".
+15. On December 12, 2003 Ms. Kistner sent the "Proposal Letter" to the Appellant.
+16. On December 16, 2003, the Appellant received the "Proposal Letter" and met with Ms. Kistner and her Team Leader, who was now Helga Sztepanacz. They agreed to meet again January 6, 2004.
+17. On January 6, 2004 the Appellant met with the Auditors again and presented them with a written response to the issues raised in the "Proposal Letter". As the "Proposal Letter" contained a confidential document regarding the tax arrears of another taxpayer from the Appellant's community he felt concerned and requested that another auditor be assigned to review or re-do the audit. This was never considered by the CRA.
+18. Ms. Kistner phoned the Appellant on January 15, 2004 stating that she would respond to the points raised in the document the Appellant presented at the last meeting and allow him an opportunity to respond.
+19. The next contact from the CRA was March 31, 2004 when Ms. Kistner and Ms. Sztepanacz closed the file.
+20. The Appellant called Ms. Kistner upon receiving the correspondence on April 2, 2004 and she directed him to Appeals refusing to discuss the matter further.
+21. On April 8, 2004 Ms. Kistner recorded on the "Lead to Investigations" that this file had been assigned to her February 7, 2003, even though documents prove she had been working on it as early as October 23, 2002. She also recorded that, by this date, she had expended 380 hours on it with more documents filed after this date. Documents show that 15 hours had been budgeted for the file. No reasonable explanation was provided to account for this additional time.
+22. The Appellant received the Audit file through a Privacy Act Request on June 28, 2004.
+23. On July 29, 2004 the Appellant filed a "Notice of Objection" at the Penticton Office of the CRA.
+24. The Appellant was notified by mail that his Appeal had been assigned to Kevin Zazzara, August 27, 2004.
+25. The Appellant reached Mr. Zazzara by phone on September 7, 2004 and discussed some of his concerns with the audit.
+26. Around September 14, 2004 the Appellant sent a letter to Mr. Zazzara. He requested the documents offered in the initial letter of August 27, explained that as per his "Notice of Objection" he was preparing a response letter that he wished to present and required more time to complete that, and expressed his concern about the racism in the audit file.
+27. Mr. Zazzara responded to the Appellant via telephone on September 17, 2004. He felt the Appellant was accusing him of racism and said he would discuss it with his Supervisor and he or the Supervisor would respond to him. No other contact was made by either.
+28. On October 25, 2004 the Appellant sent a letter to Mr. Zazzara. He again requested the documents that had been offered and informed Mr. Zazzara that he had completed his written response to the audit which he wished to submit after he had an opportunity to review the documents he had been offered.
+29. The Appellant's spouse received a questionnaire from the Child Tax Benefit Office in Surrey, B.C. requesting information about their children and common-law relationship, that she and the Appellant were required to sign, on October 26, 2004.
+30. On November 1, 2004 the spouse, Ms. Henderson, sent a response letter to the Child Tax Benefit Office expressing concern about their investigation and briefly explaining the situation with the audit. The Appellant filed a complaint with the Canadian Human Rights Commission regarding the racial profiling in the audit and the differential treatment received.
+31. In the late afternoon of November 3, 2004 the Appellant received a message on his answering machine that he had been assigned a new Appeals Officer, Sonja Filipovic.
+32. Ms. Filipovic contacted the Appellant by telephone the following day and he expressed some of his main concerns with the audit.
+33. On November 10, 2004 a clerk from the Child Tax Benefit office called Ms. Henderson and requested information regarding the children which was provided. She informed Ms. Henderson that she would attach a memo to her file with the information discussed.
+34. Ms. Henderson sent a letter to Ms. Filipovic, on behalf of the Appellant, on November 16, 2004 to request the documents offered in the August 27, 2004 letter for the third time and requesting to submit the response prepared to the audit for the second time She also asked for an explanation of why and when the Appeals Officer had been changed.
+35. Ms. Filipovic called and spoke with Ms. Henderson. Ms. Henderson asked for the documents that had been offered and Ms. Filipovic refused to offer anything more than a record of the phone conversations Mr. Zazzara had in this case.
+36. On November 19, 2004 the Appellant received a letter from Randy Lockinger with Collections at the PentictonOffice of the CRA. He demanded repayment of the 152(7) returns and for tax arrears for 1999 and 2002 within 15 days and threatened legal action for non-compliance.
+37. Ms. Filipovic sent a letter and the notes of Mr. Zazzara's telephone calls on November 22, 2004. On this date Ms. Henderson also received a letter from the Child Tax Benefit office stating that they would not require further investigation.
+38. The Appellant and his spouse responded to Mr. Lockinger's letter and sent a copy to Ms. Filipovic, the Chief of Appeals in Pentictonand the Penticton Director of CRA on November 23, 2004. They requested information regarding the tax arrears for 1999 and 2002 as no investigation has been made of these returns and no previous notification had been sent that they had been reassessed. They also specifically requested a response to an overtly racist comment in the audit file. Further they explained that the debt relating to the 152(7) returns was related to the Appeal because the audit had deferred the Appellant from completing those returns at this time. No response was given to any of these issues.
+39. On November 25, 2004 Ms. Filipovic telephoned the Appellant and discussed sending this file to Tax Court.
+40. The Appellant received a letter from Ms. Filipovic proposing to accept the audit and send it to Tax Court on November 29, 2004. The appeal was held in abeyance until "December 33, 2004". [sic]
+41. The Appellant left a message with Ms. Filipovic on November 29 and she returned his call on December 3, 2004. As per the advice provided by a Tax Lawyer consulted by the Appellant, he suggested that the file be thrown out at the Appeals level due to the number and gravity of the errors in it.
+42. While on business in Vancouveron December 9, 2004 a gallery owner to whom Jonas sells his art complained that the CRA had recently contacted them in regards to the business they do with the Appellant. Several weeks later a gallery in HarrisonLake, B.C. made a similar
+43. On December 24, 2004 the Appellant received notification that his complaint against the CRA had been filed with the Canadian Human Rights Commission (CHRC). On or about the same date Mr. Alan Nymark, Commissioner for the Canada Revenue Agency, received the same documents. The document charged that the Canada Revenue Agency had violated section 5 of the Canadian Human Rights Act (CHRA) by the practices of Provision of Services - Adverse Differential Treatment. Under section 41(1)(b) of the CHRA the Commission may refuse to deal with the complaint while the Complainant has other procedures available, in this case Appeals and Tax Court. The Appellant had the opportunity to appeal this deferral by submitting comments on the case, which he did prior to the January 14, 2005 deadline. The Appellant is currently awaiting a decision from the CHRC as to whether they will proceed with this complaint at this time.
+D. ISSUES
+44. Did the CRA disallow the business expenses of the Appellant fairly and without bias and in accordance with the provisions of the Income Tax Act?
+45. Were the "Office Examination/Assessing Review Report" and the "Penalty Report" filed to the Appellant's Permanent Record and the "Lead to Investigations" an accurate and just portrayal of the Appellant's business and character?
+46. Were the Rights of the Appellant, and others involved, as guaranteed by the Canada Revenue Agency and other Acts of Parliament respected such that the Appellant received fair, equitable and humane treatment by the Canada Revenue Agency?
+E. STATUTORY PROVISIONS RELIED UPON
+47. To the best of the Appellant's knowledge, based on correspondence by the Appeal's Office of the Penticton Office of Canada Revenue Agency, the Appellant relies on subsection 169(1) of the Income Tax Act, and general documents outlining the Rights of the Taxpayer in the CRA Declaration Your Rights. Additionally the Appellant relies on section 5 of the Canadian Human Rights Act.
+F. REASONS UPON WHICH THE APPELLANT INTENDS TO REPLY
+48. The audit team disallowed business expenses in an arbitrary, punitive and frequently contradictory manner.
+49. On numerous occasions the audit team used false or deliberately misrepresented information to disallow expenses.
+50. The audit team deliberately withheld significant and inaccurate information from the Appellant that was included in his file and/or placed on his permanent record with the Canada Revenue Agency.
+51. The audit team exhibited malicious intent toward the Appellant by deliberately filing information that they knew to be false and/or misleading and/or degrading for the purpose of biasing future CRA employees against the him thus compromising his treatment in Appeals and future investigations requested by them.
+52. Ms. Valerie Kistner, on behalf of the Canada Revenue Agency, engaged in racially profiling the Appellant thus fatally compromising her ability to impartially audit his business.
+53. The Canada Revenue Agency harassed the Appellant by simultaneously taking several actions against him compromising his ability to address and correct problems.
+54. The Canada Revenue Agency harassed the Appellant by pursuing Collections actions against him and his customers while in Appeals.
+55. The Canada Revenue Agency breached the confidentiality of the Appellant and another taxpayer. The actions of the CRA in the Field Call in Princetonin 2002 had the potential to result in physical harm to the Appellant and/or members of his family. Reasonable care was not taken to ensure the safety and privacy of the Appellant.
+G. RELIEF SOUGHT
+56. The appellant therefore claims as follows:
+(a) that the appeal be allowed in full; any adjustments made to the Appellant's 2000 and 2001 tax returns be nullified;
+(b) the tax arrears for 1999 and 2002, if they actually exist, be nullified as they were arbitrarily levied;
+(c) that due to the significant amount of false, misrepresented, degrading and racially biased information contained within, all files prepared in the audit relating to the Appellant, his family and business or personal associates be destroyed after all investigations are completed;
+(d) any files relating to the Appellant, his family and business or personal associates that Ms. Kistner or others had the ability to alter be destroyed after all investigations are completed;
+(e) "Subsection 163(2) Penalty Report" on the Appellant (Case number: 4212 4957, File Number: 202 120585) be removed from the Appellant's permanent record with the CRA and any other locations in which it may be filed and destroyed after all investigations are completed;
+(f) "Office Examination/Assessing Review Report" on the Appellant (Case number: 4212 1624, File Number: 202 102585) be removed from his permanent record with the CRA and any other locations in which it may be filed and destroyed after all investigations are completed;
+(g) that the coding for the Appellant's file for follow-up be removed;
+(h) the Lead sent to Investigations be cancelled as it contains false information;
+(i) that the computer generated 152(7) tax arrears and all actions relating to unfiled tax returns be nullified as CRA documents prove the Appellant was acting in good faith to file those, the Collections Officer with whom he was working expected he would have completed them had the audit not been initiated, and she anticipated that the Appellant would owe little to no taxes upon filing;
+(j) that the GST/HST tax credit and Child Tax Benefit payments that have been withheld since reassessment be repaid with full payments being made henceforth;
+(k) a detailed report be added to the Appellant's permanent record, agreed to by him, detailing the situation that occurred in this audit and clearly stating that the Appellant was ordered to file for GST;
+(l) that further retaliatory actions not be taken by the CRA against the Appellant;
+(m) the reasonable and proper costs of this action as this Honourable Court, may, in its discretion, award;
+(n) compensation for pain, suffering, humiliation and degradation caused to the Appellant and his family by the actions of the CRA be awarded;
+(o) such further and other relief as this Honourable Court may consider appropriate.
+H. DATE OF NOTICE
+DATED AT the Town of Summerland, in the Province of British Columbia, this 31 day of March, 2005.
+I. DATE OF CONFIRMATION DECISION FROM THE CANADA REVENUE AGENCY.
+December 31, 2004.
+Signed by the Appellant
+Jonas Faber
+9402 Front Bench Rd.
+Summerland, British Columbia
+V0H 1Z4
+Phone: (250) 494-7973
+To: The Registrar
+Tax Court of Canada
+Pacific Centre
+701 West Georgia Street
+Vancouver, British Columbia
+V7Y 1K1
+CITATION: 2007TCC177
+COURT FILE NO.: 2005-1062(IT)G
+STYLE OF CAUSE: Jonas Faver v. Her Majesty the Queen
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: February 22, 2007
+REASONS FOR ORDER BY: The Honourable D.W. Rowe, Deputy Judge
+DATE OF ORDER: March 29, 2007
+APPEARANCES:
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Max Matas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

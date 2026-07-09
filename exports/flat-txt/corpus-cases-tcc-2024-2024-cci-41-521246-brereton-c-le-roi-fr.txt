@@ -1,0 +1,135 @@
+Title: Brereton c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521246/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-41-521246-brereton-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-04-09
+
+# Brereton c. Le Roi
+
+- Citation: 2024 CCI 41
+- Decision date: 2024-04-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5748, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Brereton c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-04-09
+Référence neutre
+2024 CCI 41
+Numéro de dossier
+2013-2415(IT)I
+Juges et Officiers taxateurs
+Martin Lambert
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2415(IT)I
+ENTRE :
+JONATHAN A. BRERETON,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 15 février 2024, à Victoria (Colombie-Britannique)
+Devant : L’honorable juge suppléant Martin Lambert
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Nadine Taylor Pickering
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel interjeté à l’encontre des cotisations établies aux termes de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007, 2008 et 2009 est rejeté.
+Aucuns dépens ne sont adjugés.
+Signé à Timmins, (Ontario), ce 9e jour d’avril 2024.
+« Martin Lambert »
+Le juge suppléant Lambert
+Référence : 2024 CCI 41
+Date : 20240409
+Dossier : 2013-2415(IT)I
+ENTRE :
+JONATHAN A. BRERETON,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+[1] La Cour est saisie d’un appel interjeté par l’appelant à l’encontre des cotisations des années d’imposition 2006, 2007, 2008 et 2009. L’Agence du revenu du Canada a établi les cotisations relatives aux revenus non déclarés de l’appelant à 33 646 $ pour 2006, à 34 840 $ pour 2007, à 27 343 $ pour 2008 et à 27 452 $ pour 2009. L’appelant a déposé un avis d’opposition le 10 novembre 2011 et le ministre a confirmé ces cotisations le 25 mars 2013.
+[2] Dans son avis d’appel déposé le 24 juin 2013, l’appelant a soutenu ce qui suit :
+a)pendant toutes les périodes pertinentes, il était parent d’accueil;
+b)il était un particulier et non une fiducie;
+c)dans le cadre de ses fonctions d’aidant, il a reçu de la province de la Colombie-Britannique des prestations d’aide sociale après examen des ressources, des besoins ou du revenu;
+d)ces prestations qu’il a reçues indirectement étaient versées au profit des enfants sous la garde de la province de la Colombie-Britannique;
+e)il n’avait aucun lien avec les enfants;
+f)il n’a pas perçu d’allocations familiales ou de prestations similaires au nom des enfants;
+g)il a maintenu une résidence principale séparée pour son usage personnel, mais les enfants vivaient dans sa résidence principale;
+h)les prestations qui lui ont été versées par la province étaient directement destinées aux enfants;
+i)la province de la Colombie-Britannique lui avait déclaré, ainsi qu’à d’autres personnes dans son cas, que ces prestations n’étaient pas imposables, et il a donc raisonnablement cru que c’était le cas;
+j)compte tenu de ce qui précède, il a conclu qu’il n’avait pas à tenir de livres ou de registres des dépenses qu’il engageait pour les enfants et en leur nom.
+[3] À l’audition du présent appel, l’appelant a affirmé qu’il pourrait invoquer le paragraphe 81(1)(h) de la Loi de l’impôt sur le revenu, qui exonère de l’impôt certaines prestations versées aux parents d’accueil ou, si cela n’était pas possible, le principe de la préclusion au vu des déclarations que lui avait faites la province de la Colombie-Britannique.
+[4] Le fait que l’appelant n’ait essayé de réfuter aucune des hypothèses émises par le ministre constitue ici un point important, tout comme le fait qu’il n’ait pas souhaité témoigner, malgré mes recommandations les plus vives; de plus, il n’a présenté aucun élément de preuve documentaire pour appuyer son appel.
+[5] Il a appelé son frère, David Brereton, à témoigner. Ce dernier a été parent d’accueil pendant quelques années à compter de 2002, et recevait des prestations mensuelles de la province de la Colombie-Britannique parce qu’il accueillait des enfants à risque qui vivaient dans sa résidence et dont il était responsable 24 heures par jour, sept jours par semaine. Il était parent d’accueil au sens propre du terme. La situation dans laquelle s’est trouvé l’appelant est très différente, et l’élément de preuve apporté par le frère n’est tout simplement pas utile en l’espèce.
+[6] En ce qui concerne l’appelant, je dois m’en remettre aux hypothèses de fait du ministre pour tirer les conclusions de fait, puisque l’appelant n’a pas tenté de les réfuter, de quelque manière que ce soit.
+[7] Durant la période pertinente, l’appelant a fourni des services d’aidant à des enfants à risque, mais en tant que sous-traitant dans une ou plusieurs maisons louées par M. John Cole. M. Cole avait établi un contrat avec la province de la Colombie-Britannique pour fournir des services de logement et d’aidant à des enfants à risque qui ne pouvaient pas être placés dans une famille d’accueil traditionnelle. M. Cole n’a jamais vécu dans ces maisons; il dirigeait essentiellement une entreprise et exploitait ces logements dans un but lucratif. À ce titre, M. Cole utilisait un groupe de sept ou huit sous-traitants, dont l’appelant faisait partie, pour fournir des services d’aidant aux enfants à risque. Les sous-traitants effectuaient au maximum deux quarts de travail de 12 heures par semaine pour lesquels ils étaient rémunérés 250 $ à 300 $. M. Cole assumait les frais d’alimentation et d’autres dépenses diverses des sous-traitants lorsqu’ils étaient en service, et fournissait des locaux de repos au personnel. Il est important de noter que l’appelant n’a jamais résidé dans aucun de ces logements, et qu’aucun des enfants à risque n’a jamais résidé dans sa résidence qui, durant la période pertinente, se situait 2557, rue Forbes à Victoria (Colombie-Britannique).
+[8] Les paiements réglés par M. Cole à l’appelant n’étaient pas des paiements de prestations d’aide sociale effectués après examen des ressources, des besoins ou du revenu, et l’appelant n’a reçu aucune prestation d’aide sociale provenant directement du ministère pour la garde des enfants. En sa qualité d’aidant, l’appelant n’a engagé aucune dépense liée à son travail de sous-traitant.
+[9] La partie pertinente de la Loi de l’impôt sur le revenu est le paragraphe 81(1)(h) qui est libellé ainsi :
+(h) si le contribuable est un particulier (sauf une fiducie), une prestation d’assistance sociale versée habituellement après examen des ressources, des besoins et du revenu en vertu d’un programme fédéral, provincial ou d’un corps dirigeant autochtone (au sens de l’article 2 de la Loi sur les allocations spéciales pour enfants), dans la mesure où elle est reçue directement ou indirectement par le contribuable au profit d’un particulier donné (à l’exception de son époux ou conjoint de fait ou d’une personne qui lui est liée ou qui est liée à son époux ou conjoint de fait – si à la fois
+(i) aucune allocation familiale en vertu de la Loi sur les allocations familiales ou une allocation semblable en vertu d’un texte législatif provincial qui prévoit le versement d’une allocation semblable à celle prévue par cette loi, n’est payable à l’égard de l’autre particulier pour la période pour laquelle la prestation d’assistance sociale est payée,
+(ii) l’autre particulier habite au lieu principal de résidence du contribuable, ou ce lieu est maintenu pour que ce particulier l’utilise à titre résidentiel tout au long de la période visée au sous-alinéa 81(1)(h)(i);
+[10] Pour que le paragraphe 81(1)(h) s’applique en l’espèce, j’aurais dû constater ce qui suit :
+a)les paiements effectués à l’appelant étaient des prestations d’assistance sociale qui lui étaient versées, directement ou indirectement, au profit des enfants à risque après examen des ressources, des besoins ou du revenu;
+b)les jeunes à risque n’avaient aucun lien avec lui;
+c)aucune autre allocation familiale n’était versée au profit des enfants à risque au titre d’aucun autre programme;
+d) les enfants résidaient dans la résidence principale de l’appelant.
+[11] Il est clair que l’appelant n’a pas réussi à satisfaire au premier et au quatrième volet de l’examen. Il n’existe absolument aucune preuve montrant que les versements ont été effectués après examen des ressources, des besoins ou du revenu. En fait, l’appelant a reçu un taux de rémunération journalier pour le travail qu’il effectuait pour M. Cole. L’élément de preuve selon lequel aucun des enfants ne résidait dans sa résidence principale est également irréfuté. Bien que l’appelant ait déclaré dans son avis d’appel qu’il avait deux résidences principales, aucun élément de preuve n’existe à cet égard.
+[12] L’appelant invoque la théorie de la préclusion, suggérant que le ministre devrait être empêché de déclarer que ce revenu est imposable car un représentant de la province de la Colombie-Britannique lui a déclaré que ce revenu ne serait pas imposable. Dans le présent avis d’appel, il indique qu’il n’a pas tenu de livres ou de registres des dépenses qu’il engageait pour les enfants en raison de cette déclaration que la province lui avait faite. Il soutient que la Couronne est la Couronne, qu’elle soit fédérale ou provinciale, et donc que la théorie de la préclusion s’applique, bien que la déclaration ait été faite par un autre ordre de gouvernement.
+[13] Tout d’abord, il n’existe absolument aucun élément de preuve, oral ou documentaire, montrant que l’appelant a engagé de quelconques dépenses pendant qu’il était employé comme sous-traitant de M. Cole.
+[14] Ensuite, la théorie de la préclusion n’est tout simplement pas pertinente dans ce contexte. Dans l’affaire Gallant c. la Reine, 2012 CCI 119, la juge Woods a déclaré ce qui suit au sujet de la question de la préclusion, en commençant au paragraphe 14 :
+[14] En l’instance, le représentant de l’appelant affirme que les motifs de la préclusion en equity devraient s’appliquer, car il y a eu une assertion inexacte de fait.
+[15] Il va de soi que la théorie de la préclusion ne peut pas lier la Couronne en ce qui concerne la loi : Goldstein v The Queen, 96 DTC 1029 (CCI). Cette théorie peut cependant s’appliquer dans le cas d’assertions inexactes de faits : Rogers v The Queen, 98 DTC 1365 (CCI).
+[16] L’argument qui joue en faveur de l’application de la théorie de la préclusion en l’espèce est le fait que l’ARC a indiqué à tort à l’appelant que l’article 118.61 serait appliqué conformément au formulaire. Pour autant que je sache, le formulaire n’a jamais été modifié.
+[17] Il m’est difficile d’accorder une réparation, car je dois tenir compte du principe primordial selon lequel la théorie de la préclusion ne peut pas être invoquée pour empêcher l’exercice d’une obligation prévue par la loi. Le principe a été exposé par le juge suppléant Chevalier dans l’arrêt Ludmer v The Queen, 1994 CanLII 19486 (FCA), 95 DTC 5311 (C.A.F.), à la page 5314 :
+Dans l’arrêt Canada v. Lidder, 1992 CanLII 14712 (FCA), [1992] 2 C. F. 621, monsieur le juge Marceau écrit (page 625) :
+On ne saurait invoquer la théorie de la fin de non-recevoir pour empêcher l’exercice d’une obligation prévue par la loi – en l’occurrence, l’obligation pour l’agent de traiter la demande présentée – ni pour conférer un statut défini par la loi à une personne qui n’est pas, à l’évidence, visée par la définition légale. En fait, le bon sens dicterait qu’on ne puisse omettre d’appliquer la règle en raison de la déclaration fausse, de la négligence ou de la simple présentation inexacte des faits de la part d’un fonctionnaire gouvernemental.
+Au cours du débat, on a laissé entendre que si la théorie de la fin de non‑recevoir ne pouvait s’appliquer, la théorie connexe de « l’expectative raisonnable ou légitime » le pourrait peut-être. Cette proposition était vaine parce que cette théorie connaît la même limite qui restreint la théorie de la fin de non‑recevoir. Une autorité publique se trouve peut-être liée par ses engagements quant à la procédure qu’elle va suivre, mais elle ne peut en aucun cas se mettre en situation de conflit avec ses obligations et faire fi des exigences de la loi. Comme l’a récemment répété le juge Sopinka lorsqu’il a rédigé l’arrêt de la Cour suprême Renvoi relatif au Régime d’assistance publique du Canada (C.-B.), 2 R.C.S. 525, aux pages 557 et 558 :
+Or, ni la jurisprudence canadienne, ni celle d’Angleterre, n’appuient la position suivant laquelle la théorie de l’expectative légitime peut créer des droits fondamentaux. Cette théorie fait partie des règles de l’équité procédurale auxquelles peuvent être soumis les organismes administratifs. Dans les cas où elle s’applique, elle peut faire naître le droit de présenter des observations ou d’être consulté. Elle ne vient pas limiter la portée de la décision rendue à la suite de ces observations ou de cette consultation.
+[15] Compte tenu de ce qui précède, il est évident que le ministre ne peut être tenu de déclarer que le revenu qui est clairement imposable ne le soit pas en raison de la déclaration inexacte d’un fonctionnaire d’un autre ordre du gouvernement. En fait, le même raisonnement s’appliquerait si la déclaration inexacte avait été faite par un fonctionnaire du gouvernement fédéral. Comme le juge Sopinka l’indique dans le Renvoi relatif au Régime d’assistance publique du Canada (C.-B.), [1991] 2 RCS 525, la théorie de l’expectative légitime n’est pas génératrice de droits fondamentaux. L’appelant s’attendait peut-être à ce que le revenu gagné ne soit pas imposable, mais cela n’a pas d’importance. La question en litige est de savoir si l’appelant satisfait au critère énoncé dans le paragraphe 81(1)(h), et j’ai déjà conclu qu’il ne le satisfait pas.
+[16] L’appel interjeté à l’encontre des cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2006, 2007, 2008 et 2009 de l’appelant est donc rejeté.
+[17] Aucuns dépens ne sont adjugés.
+Signé à Timmins, (Ontario), ce 9e jour d’avril 2024.
+« Martin Lambert »
+Le juge suppléant Lambert
+RÉFÉRENCE :
+2024 CCI 41
+NO DU DOSSIER DE LA COUR :
+2013-2415(IT)I
+INTITULÉ :
+JONATHAN A. BRERETON c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 15 février 2024
+MOTIFS DU JUGEMENT :
+Le juge suppléant Lambert
+DATE DU JUGEMENT :
+Le 9 avril 2024
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Nadine Taylor Pickering
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Pour l’intimé :
+Aucun avocat inscrit au dossier
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

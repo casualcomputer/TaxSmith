@@ -1,0 +1,158 @@
+---
+title: "Kew v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26348/index.do"
+last_modified: "2004-06-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 419"
+citation2: ""
+neutral_citation: "2004 CCI 419"
+decision_date: "2004-06-29"
+language: "fr"
+item_id: "26348"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3328
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:17:03.322000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "32b15806ec660ed2e6988a28a6216d9e85023b4f8a2f3a6a434c364f615c579a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kew v. The Queen
+
+- Citation: 2004 CCI 419
+- Decision date: 2004-06-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3328, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kew v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-29
+Référence neutre
+2004 CCI 419
+Numéro de dossier
+2001-3709(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI419
+Date : 20040629
+Dossier : 2001-3709(IT)G
+ENTRE :
+IRVIN KEW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Avocate de l'appelant : Me Kim E. Johnson Avocat de l'intimée : Me Victor Caux
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience
+à Vancouver (Colombie-Britannique), le 8 avril 2004.)
+Le juge McArthur
+[1] Il s'agit d'un appel interjeté à l'encontre d'une cotisation relative à l'impôt établie pour l'année d'imposition 1995 de l'appelant, dans laquelle le ministre du Revenu national a refusé des déductions pour pension alimentaire de 31 233 $ et pour frais d'intérêts sur emprunts de 16 736 $. L'appelant a transféré à son ancienne épouse sa part de 50 p. 100 dans un domicile conjugal en contrepartie de différentes concessions, notamment des arriérés de pension alimentaire. Il souhaite déduire le montant total.
+[2] L'appelant est un architecte professionnel faisant affaire par l'entremise d'une société, Irvin Kew Architecture Incorporated. La deuxième question sur laquelle la Cour doit se prononcer est de savoir s'il peut déduire un montant de 16 736 $ correspondant à des intérêts payés sur du capital d'exploitation emprunté à la Banque Royale du Canada (la « RBC » ), à la Banque Hongkong (la « BH » ) et à la Banque Canadienne Impériale de Commerce (la « CIBC » ).
+[3] Je traiterai d'abord de la pension alimentaire pour les enfants. L'appelant et son ancienne épouse Nicola ont convenu, dans un accord de séparation écrit daté du 5 mai 1988, de vivre séparés. Ils avaient trois enfants, des jumeaux nés le 1er octobre 1972 et une fille née le 14 février 1979. L'ex-épouse de l'appelant avait l'usage exclusif du domicile conjugal. L'appelant s'est engagé à payer : (i) une somme de 150 $ par enfant chaque mois; (ii) la moitié des frais de scolarité exigés par l'école privée que fréquentaient les deux garçons; (iii) la moitié de l'impôt foncier du domicile conjugal; (iv) les versements hypothécaires concernant le domicile conjugal; (v) des primes d'assurance au bénéfice des enfants.
+[4] L'entreprise de l'appelant a eu des difficultés financières et ce dernier a été en retard dans le paiement de ses obligations alimentaires presque dès le début. L'ex-épouse de l'appelant n'a pas assisté à l'audience, mais plusieurs des lettres qu'elle a rédigées avec soin à l'intention de l'appelant et ses relevés des paiements faits par celui-ci ont été présentés à la Cour. En 1995, la RBC a demandé le remboursement d'un prêt important, ce qui a amené une modification de l'accord de séparation datée d'août 1995 et signée au cours du même mois (pièces A-5 et R-1, onglet 1). Cette modification stipulait notamment ce qui suit :
+[TRADUCTION]
+2. À compter de la date du versement à l'époux de la somme de CINQUANTE ET UN MILLE DOLLARS (51 000,00 $), ce dernier n'a plus l'obligation de verser une pension alimentaire pour les enfants, et cette somme de CINQUANTE ET UN MILLE DOLLARS (51 000,00 $) constitue le règlement complet et final de la pension alimentaire pour les enfants.
+[...]
+4. L'époux et l'épouse conviennent en outre que la somme de CINQUANTE ET UN MILLE DOLLARS (51 000,00 $) constitue non seulement le règlement complet et final des obligations alimentaires pour les enfants, mais également le règlement complet du droit de l'époux dans la propriété située au 1657, rue Fell.
+[5] Ces stipulations découlaient d'une offre faite à l'appelant par son ex-épouse dans une lettre datée du 21 juillet 1995 (pièce A-3), laquelle indiquait notamment ce qui suit :
+[TRADUCTION] Dans le cadre de la présente offre, j'accepterai de renoncer à mon droit d'occuper gratuitement cette résidence jusqu'à ce qu'Henrietta ait atteint l'âge de 19 ans, ce qui se produira dans deux ans et demi. Cela te permettra d'économiser la somme de 20 085 $ en versements hypothécaires pendant cette période. Je prendrai des dispositions avec mon avocat afin que l'accord de séparation et l'ordonnance judiciaire soient modifiés en conséquence.
+Je joins à la présente lettre des relevés de compte qui indiquent les versements de pension alimentaire et d'autres montants qui n'ont pas été payés au cours des dernières années; ces montants totalisent 31 233,17 $ (sans les intérêts) [...]
+L'offre a été faite par l'ex-épouse de l'appelant après que ce dernier eut demandé la permission d'hypothéquer son droit dans le domicile conjugal afin de payer des créanciers. L'appelant a accepté l'offre de son ex-épouse le 1er août 1995, et la note suivante figurait dans une lettre envoyée par celle-ci à l'appelant ce jour-là (pièce A-4) :
+[TRADUCTION] La présente lettre a pour objet de confirmer notre conversation téléphonique et mon acceptation de ton offre de me verser la somme totale de 51 000 $ (nette) relativement au droit que je possède dans la propriété située au 1657, rue Fell, y compris la renonciation à tous tes droits de faire valoir les autres réclamations qui sont décrites dans ta lettre ci-dessus; il est entendu également que tu accuseras réception des arriérés de pension alimentaire des années 1993 et 1994, soit les sommes de 5 400 $ et de 3 600 $ respectivement, dans le cadre du présent accord.
+L'appelant souhaite maintenant déduire, à titre de versements de pension alimentaire, le montant de 31 233 $ qui, d'après lui, constituait le règlement des arriérés de pension alimentaire.
+[6] L'intimée fait valoir que le montant n'est pas déductible parce que : (i) le deuxième accord du 1er août 1995 ne prévoyait pas le règlement des arriérés de pension alimentaire; (ii) l'appelant était en retard depuis quelque temps dans le paiement de la pension alimentaire pour les enfants, des frais de scolarité exigés par l'école privée, des primes d'assurance et de l'impôt foncier; (iii) la partie du montant de 31 233 $ qui pouvait représenter la pension alimentaire pour les enfants qui n'avait pas été payée était imputable au capital - l'avocat fait référence à l'arrêt M.N.R. v. J.J. Armstrong, (1956) C.T.C. 93 (C.S.C.); (iv) l'appelant n'a pas réellement payé son ex-épouse et celle-ci ne pouvait pas utiliser la somme à sa discrétion.
+[7] Pour les motifs qui suivent, j'estime que le montant en entier n'est pas déductible à titre de pension alimentaire pour les enfants impayée. L'appelant se fonde en partie sur les remarques incidentes formulées par le juge O'Connor de la Cour dans White c. La Reine, [1997] A.C.I. no 187, au paragraphe 18 (97 DTC 1108, page 1115) :
+Pour ce qui est des pensions alimentaires, elles ont été payées en vertu non pas d'un jugement ou d'une ordonnance, mais d'un règlement et d'une quittance qui libéraient l'appelant de toutes ses obligations passées et présentes. Il est vrai que, dans certaines circonstances, un paiement forfaitaire représentant le paiement d'arriérés de pensions alimentaires peut être déductible, mais, en l'espèce, absolument rien ne prouve qu'une partie quelconque de la somme versée par l'appelant à son ex-conjointe se rapporte au paiement d'arriérés de pensions alimentaires périodiques. De plus, à mon avis, le paiement forfaitaire de 25 000 $ prévu dans le jugement conditionnel de divorce ne peut être considéré comme une pension alimentaire payable périodiquement.
+L'avocate de l'appelant insiste sur les mots « [i]l est vrai que, dans certaines circonstances, un paiement forfaitaire représentant le paiement d'arriérés de pensions alimentaires peut être déductible [...] » . Malheureusement, de telles circonstances n'ont pas été exposées, et ce commentaire n'aide en rien l'appelant. L'appelant a transféré son droit dans le domicile à son ex-épouse pour régler différentes dettes qu'il avait envers elle, dont une partie seulement pouvait être des arriérés de pension alimentaire. La preuve de l'appelant est loin d'établir que le droit dans le domicile a été transféré : (i) pour subvenir aux besoins de son ex-épouse et de ses enfants; (ii) parce qu'il représentait la pension alimentaire pour les enfants qui n'avait pas été payée; (iii) de manière à permettre à son ex-épouse d'utiliser la somme à sa discrétion.
+[8] De plus, j'estime que la somme était un paiement de capital. L'avocat de l'intimée a fait référence à l'arrêt Armstrong, où le juge Kellock de la Cour suprême du Canada a dit, à la page 95 :
+[TRADUCTION]
+Le juge KELLOCK : En l'espèce, la somme de 4 000 $ a été payée par l'intimé « en règlement complet » de tous les montants qui étaient payables ou qui allaient le devenir en vertu d'un jugement conditionnel qui l'obligeait à verser chaque mois à son ex-épouse la somme de 100 $ pour subvenir aux besoins du jeune enfant des parties jusqu'à ce qu'il atteigne l'âge de 16 ans. En contrepartie de ce paiement, l'intimé a été libéré par son ex-épouse de « toute autre obligation » découlant dudit jugement.
+[...]
+Si, par exemple, l'intimé et son épouse avaient convenu qu'il devait lui acheter une maison en échange d'une libération de toutes les autres obligations lui incombant aux termes du jugement, le prix d'achat ne pourrait pas être visé par la disposition, même si on élargissait le sens du libellé de celle-ci. Le même principe doit s'appliquer également à une somme globale payée directement à l'épouse pour acheter la libération. Une telle dépense faite en échange des sommes périodiques payables en vertu du jugement est de la nature d'un paiement de capital auquel la loi ne s'applique pas.
+[9] Les dispositions pertinentes de la Loi de l'impôt sur le revenu ont subi de nombreuses modifications depuis que cet arrêt a été écrit, mais le principe fondamental est toujours pertinent. La seule ventilation de la somme globale est celle qui figure dans la lettre de l'ex-épouse de l'appelant du 21 juillet 1995. Cette somme inclut des économies de 16 500 $ qui seront réalisées par l'appelant au titre de la pension alimentaire pour les enfants et deux sommes de 10 000 $ qui ne constituent nettement pas des versements de pension alimentaire. Je souscris à la thèse du ministre selon laquelle toute dépense représentant la somme de versements périodiques est un paiement de capital. La nature de la somme a changé. En l'espèce, il est impossible de savoir quelle partie du paiement, le cas échéant, constituait la somme de versements périodiques.
+[10] Je traiterai brièvement des autres prétentions de l'appelant. Le paragraphe 56(12) de la Loi est l'une des dispositions législatives pertinentes en l'espèce. Il prévoit notamment ce qui suit :
+56(12) Sous réserve des paragraphes 56.1(2) et 60.1(2) et pour l'application des alinéas (1)b), c) et c.1) et 60b), c) et c.1), un montant reçu par une personne - appelée « contribuable » aux alinéas (1)b), c) et c.1) et « bénéficiaire » aux alinéas 60b), c) et c.1) - ne constitue une allocation que si cette personne peut l'utiliser à sa discrétion.
+Pour qu'un montant constitue une allocation, il faut que le bénéficiaire puisse l'utiliser à sa discrétion. Or, l'ex-épouse de l'appelant ne pouvait pas utiliser le montant à sa discrétion puisqu'il s'agissait d'un droit dans un immeuble. L'avocate de l'appelant rappelle le libellé de l'alinéa 60.1(1)b), lequel se lit en partie comme suit :
+60.1(1) Dans le cas où une ordonnance, un jugement ou un accord écrit visé aux alinéas 60b) ou c), ou une modification s'y rapportant, prévoit le paiement périodique d'un montant par un contribuable :
+[...]
+b) soit au profit de la personne, d'enfants confiés à sa garde ou à la fois de la personne et de ces enfants,
+tout ou partie du montant, une fois payé, est réputé, pour l'application des alinéas 60b) et c), payé à la personne et reçu par elle.
+Le paiement n'était pas périodique, contrairement à ce que la Loi exige. Le droit transféré par l'appelant ne peut pas être considéré, aux fins de l'application des alinéas 60b) et c), comme une pension alimentaire ou une autre allocation payable périodiquement. Il ne peut pas être considéré comme une pension alimentaire suivant le paragraphe 56(12) puisque l'ex-épouse de l'appelant ne pouvait pas utiliser à sa discrétion le droit qui lui a été transféré.
+[11] L'appelant soutient que son ex-épouse pouvait agir à sa guise puisqu'elle est devenue l'unique propriétaire du domicile conjugal et qu'elle pouvait utiliser celui-ci comme elle l'entendait. Ce n'est pas cette liberté de disposer des 31 000 $ comme elle le voulait qui est envisagée par la Loi. L'ex-épouse de l'appelant a obtenu un droit dans un immeuble. Il ne s'agit pas d'un montant payé aux fins de l'application des alinéas 56(1)b) et c) ou 60b) et c) de la Loi.
+[12] Il importe d'examiner les circonstances qui ont mené au deuxième accord de séparation. Le premier accord de séparation de 1988 prévoyait les paiements qui ont été indiqués précédemment. L'appelant a fait, au cours des ans, des paiements partiels à son ex-épouse sans qu'il soit précisé à quoi ces paiements se rapportaient. Il a presque toujours été en retard dans ses paiements. Son ex-épouse a conservé des relevés détaillés, alors que lui n'en a tenu aucun.
+[13] En 1995, l'entreprise de l'appelant a rencontré de graves difficultés financières, et il a demandé à son ex-épouse la permission d'hypothéquer sa part de 50 p. 100, laquelle avait, selon les parties, une valeur nette de 83 000 $ après déduction des arriérés décrits clairement par l'ex-épouse de l'appelant dans sa lettre du 21 juillet 1995. Cette dernière a offert de verser à l'appelant la somme de 31 600 $ pour sa part. Les parties se sont finalement entendues sur un montant de 51 000 $. L'ex-épouse de l'appelant devait s'occuper de la question du financement et des documents juridiques. Le droit qu'elle a obtenu n'était pas de nature discrétionnaire. Il semble que ce droit constituait un compromis chèrement négocié et qu'il se rapportait à un mélange de montants de différentes natures.
+[14] À mon avis, l'alinéa 60.1(1)b) n'aide pas la cause de l'appelant. Je répète que l'ex-épouse de l'appelant ne pouvait pas utiliser à sa discrétion le droit qui lui a été transféré. Elle n'a reçu aucun paiement; elle a reçu un droit dans un immeuble et non le paiement d'une somme d'argent qu'elle pouvait utiliser à sa guise. Même si j'acceptais l'argument de l'appelant, seule une partie du montant constitue des arriérés de pension alimentaire pour son ex-épouse et les enfants, et aucune ventilation précise de ce montant n'a été ou ne pouvait être fournie.
+[15] Examinons maintenant la question des frais d'intérêts déduits pour l'année d'imposition 1995. Il faut décider si l'appelant peut déduire des intérêts de 16 736 $ et, plus précisément, si les intérêts étaient payables sur des prêts conclus entre la société et différentes banques ou entre l'appelant agissant à titre personnel et les banques. Qui a emprunté l'argent? Je n'ai aucun doute au sujet du fait que c'est la société qui a payé les intérêts en 1995 et qui les a passés en charges. L'appelant riposte que les paiements d'intérêts faits par la société étaient en fait des paiements se rapportant à ses retraits personnels qu'il avait demandé à la société de verser directement aux banques. La Cour ne dispose d'aucun document comme des résolutions ou des instructions de la société, ni d'aucune autre preuve étayant cette prétention, et je suis d'avis de la rejeter.
+[16] La vérificatrice Carolla Williams a témoigné pour le compte du ministre. Sa crédibilité n'est pas mise en doute. Elle a examiné minutieusement les documents de la société et de l'appelant, y compris le contrat en vertu duquel la société a emprunté des fonds pour mener à bien ses activités. C'est l'appelant qui exerçait le contrôle au sein de la société. L'entreprise était importante : elle employait une quinzaine de personnes et ses frais courants atteignaient mensuellement 35 000 $ au début des années 1990. En 1995, la RBC a exigé le remboursement de ses prêts, lesquels totalisaient plus de 170 000 $. La BH a accordé à la société une marge de crédit de plus de 200 000 $. L'appelant a garanti personnellement cette dette et a accordé à la banque une hypothèque subsidiaire sur sa maison (il ne s'agit pas du domicile conjugal dont il a été question précédemment). En 1995, l'appelant devait à la RBC une somme de 44 000 $ à titre personnel, somme qu'il a remboursée au moyen d'un prêt personnel consenti par la BH.
+[17] En 1994, l'appelant a signé un contrat de prêt avec la CIBC afin d'acheter une fourgonnette. La société a payé les intérêts et a demandé une déduction pour amortissement en 1995. Le prêt ayant servi à acheter la fourgonnette et la valeur de reprise ont été portés au crédit du prêt consenti par la société à l'appelant en qualité d'actionnaire pendant l'exercice 1995 de la société. L'appelant soutient que le montant de 16 700 $ représentait les intérêts qu'il a payés sur l'argent qu'il a emprunté et prêté de nouveau à sa société pour générer un revenu. Le montant est composé : (i) de 13 100 $ venant de la RBC; (ii) de 2 300 $ venant de la BH; (iii) d'un prêt-auto de 1 200 $.
+[18] Il incombait à l'appelant de démontrer qu'il avait emprunté l'argent et payé les intérêts qu'il avait déduits dans le but de gagner un revenu. Dans l'ensemble, la preuve documentaire n'étaie pas la thèse de l'appelant. La plus grande partie des intérêts a été payée par la société à la RBC. L'onglet 18 de la pièce R-1 est une lettre datée du 10 juillet 1995, que la RBC a envoyée à la société et à l'appelant et dans laquelle il est clairement fait mention des deux prêts en souffrance consentis à la société, lesquels totalisaient 191 036 $, et de diverses dettes de l'appelant totalisant 44 642 $. La banque a écrit qu'elle n'était pas disposée à renouveler les facilités de crédit de la société ou de l'appelant et a exigé le remboursement.
+[19] La pièce A-7 montre qu'une hypothèque de 175 000 $ a été enregistrée par la RBC sur la propriété de l'appelant en août 1993. Il s'agit de la meilleure preuve produite par l'appelant du fait qu'il s'agissait d'un prêt personnel, mais, compte tenu de la preuve contraire et de la preuve contradictoire, je conclus que cette hypothèque était en fait une garantie subsidiaire dont était assorti le prêt consenti à la société. La pièce A-8 est une feuille d'envoi par télécopieur de la RBC adressée à la BH et faisant état d'une dette non remboursée de 195 000 $ de la société. Dans une lettre datée du 9 juillet 1999 et adressée à Revenu Canada (pièce R-1, onglet 3), le comptable de l'appelant a écrit, au deuxième paragraphe de la page 2, que la société avait négocié avec la BH une marge de crédit de 200 000 $ devant servir à rembourser la RBC. Je ne peux tout simplement pas considérer que cette déclaration est erronée compte tenu de la preuve : (i) la RBC a confirmé que c'est à la société qu'elle a prêté 175 000 $; (ii) la société a payé les intérêts et les a passés en charges (environ 13 000 $); (iii) il n'existe aucune preuve écrite du fait que la société a versé un dividende ou un salaire à l'appelant et que ce dernier a ensuite chargé la société de payer les intérêts avec son argent. Il est illusoire de penser qu'un contribuable peut tirer un avantage fiscal des opérations qu'il conclut avec sa société. La forme a de l'importance, et je me réfère à la décision La Reine c. Friedberg, [1991] A.C.F. no 1255, à la page 3 (92 DTC 6031, page 6032). Les faits doivent être documentés.
+[20] La pièce R-1, onglet 15 est un accusé de réception, par la RBC, du paiement d'intérêts de 13 000 $ par Irvin Kew Architecture. L'onglet 16 est une lettre datée du 5 septembre 1995 et adressée à la société, dans laquelle la BH indique qu'elle a le plaisir d'offrir à cette dernière un prêt de plus de 200 000 $ garanti personnellement par l'appelant de façon illimitée au moyen d'une hypothèque subsidiaire de 341 000 $ sur sa résidence. Si les prêts de la RBC et de la BH n'ont pas été consentis à la société mais à l'appelant personnellement, des documents, notamment des résolutions de la société, devraient exister. La preuve de l'appelant est loin d'être celle qu'il devait produire. En ce qui concerne les prêts personnels consentis par la RBC et la BH, je ne dispose pas d'une preuve suffisante pour conclure que cet argent - environ 47 000 $ - a été utilisé à des fins commerciales.
+[21] En ce qui concerne le prêt qui a servi à acheter la fourgonnette en 1994, l'appelant a signé le contrat de prêt avec la CIBC et la société a payé les intérêts et s'est prévalue de la déduction pour amortissement. Bien que la valeur de reprise et le prêt relatif à la fourgonnette aient été portés au crédit du prêt consenti par la société à l'appelant en qualité d'actionnaire, je n'accepte pas la preuve de l'appelant selon laquelle la fourgonnette a été utilisée exclusivement à des fins commerciales. Cette fourgonnette était son seul véhicule.
+[22] Pour ces motifs, l'appel est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 23e jour de décembre 2004.
+Jacques Deschênes, traducteur
+RÉFÉRENCE :
+2004CCI419
+NUMÉRO DU DOSSIER
+DE LA COUR :
+2001-3709(IT)G
+INTITULÉ :
+Irvin Kew c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L'AUDIENCE :
+Le 8 avril 2004
+MOTIFS DU JUGEMENT :
+L'honorable C. McArthur, juge
+DATE DU JUGEMENT :
+Le 29 juin 2004
+COMPARUTIONS :
+Avocate de l'appelant :
+Me Kim E. Johnson
+Avocat de l'intimée :
+Me Victor Caux
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Kim E. Johnson
+Cabinet :
+Ross Johnson & Associates
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

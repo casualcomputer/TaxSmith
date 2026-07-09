@@ -1,0 +1,161 @@
+Title: Workers' Compensation Board v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26587/index.do
+Corpus path: corpus/cases/tcc/2005/2006-tcc-48-26587-workers-compensation-board-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-12-13
+
+# Workers' Compensation Board v. M.N.R.
+
+- Citation: 2006 TCC 48
+- Decision date: 2005-12-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3530, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Workers' Compensation Board v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-13
+Neutral citation
+2006 TCC 48
+File numbers
+2004-3954(EI), 2004 3955(EI)
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2006TCC48
+Date: 20060125
+Dockets: 2004-3954(EI)
+2004-3955(EI)
+BETWEEN:
+WORKERS' COMPENSATION BOARD,
+JOHN C. TAYLOR,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment delivered
+orally from the bench on December 13, 2005 at Edmonton, Alberta)
+Little J.
+A. FACTS:
+[1] The above appeals were heard in Edmonton, Alberta, on the basis of common or mutual evidence.
+[2] The Appellant, Dr. Taylor, is an experienced physician who has been trained as an emergency room doctor and is a member of the American College of Occupational and Environmental Medicine. The Appellant is also a Fellow of the Royal College of Emergency Medicine of Canada.
+[3] The Workers' Compensation Board, hereinafter "the Board", is an agency created by the Workers' Compensation Act of Alberta for the purposes of conducting medical evaluations of workers who are injured on the job and who qualify under the Workers' Compensation System.
+[4] The Appellant has provided medical services to the Board since 1998. In the year 2002, the Appellant and nine other physicians provided medical services to the Board. In each situation, the medical services were provided to the Board by the ten physicians through the Millard Health Centre in Edmonton. The Millard Health Centre, hereinafter "Millard Health", is an entity that was formed and is owned and operated by the Board.
+[5] The period under review is February 1, 2002 to December 31, 2002. I should note that the Notice of Appeal indicates that the period was January 1, 2002 to December 31, 2002; however, during the hearing I was specifically advised that the period under review is February 1, 2002 to December 31, 2002.
+[6] Dr. Taylor and the Board entered into an agreement dated February 12, 2001 (see Exhibit A-9). This agreement outlined the terms between the parties. Article 7.1 of the Agreement provides as follows (quoted):
+The services of the Contractor [Dr. Taylor] are that of an independent contractor. The parties do not intend that the Contractor be considered an employee, agent, servant or representative of the WCB [board].
+[7] When officials of the Canada Revenue Agency (the "CRA") reviewed this situation, they determined that Dr. Taylor was an employee of the Board for the period February 1, 2002 and expiring December 31, 2002.
+B. ISSUE:
+[8] The issue before the Court is: Was Dr. Taylor an employee of the Board from February 1st, 2002 to December 31st, 2002 for the purposes of the Employment Insurance Act?
+[9] In order to determine whether a business relationship is an employment relationship or an independent contractor relationship, Canadian Courts have created a number of tests.
+[10] The following tests have been created:
+No. 1 - Control
+[11] If the worker is strictly controlled by the payer, the Courts have said that this strict control implies an employer/employee arrangement. In this situation, Dr. Taylor testified that he was not supervised by anyone from the Board or from Millard Health. Dr. Taylor said that he realized, as a professional medical doctor, that he was responsible for the quality of his work.
+[12] Dr. Aashif Esmail, Chief of Medical Services at Millard Health, also testified on behalf of Dr. Taylor. Dr. Esmail said that he acts as a professional link to the other doctors at Millard Health.
+[13] With respect to the Control factor, Dr. Esmail said that when he hires a physician for Millard Health, he does not expect to train him or her how to carry out medical examinations.
+[14] Dr. Esmail said that the standard of care expected from a physician was the normal standard of care expected from professionals in the community. Dr. Esmail also said that the only difference which concerned him re training or control at Millard Health was in the preparation of reports for the case managers of the Board.
+[15] Sandra Hanington also testified on behalf of the Appellant. Sandra Hanington, a registered nurse, is the service manager for medical services at Millard Health. When asked whether she had any control over the nine physicians at Millard Health, Ms. Hanington said: "I have no control over the nine physicians such as I have over my other staff."
+[16] Dr. Taylor also testified that he chose the time when he would provide services to Millard Health, and in this case he chose Monday afternoon, Tuesdays for seven to eight hours, Wednesdays and Thursdays, same time, and Fridays - I think it was Friday afternoon. Dr. Taylor said that Monday and Friday were half days and Tuesday, Wednesday, Thursday were full days. Dr. Taylor was also free to and did provide medical services to Altasteel and to Capilano Medical.
+[17] Based on a careful examination of the facts before me including, in particular, the testimony of Dr. Taylor and the other two witnesses, I have concluded that Dr. Taylor was not controlled by the Board or Millard Health in the way that an employer would control an employee.
+No. 2 - Method of Pay
+[18] The Appellant said that he billed the Board for services rendered; a copy of an invoice was filed. The Appellant also said that it was agreed by negotiations with the group of physicians in 2002 that the physician would receive 52 percent of the fee and the Board would receive 48 percent of the fee. There was a comment to the effect that this percentage changed slightly, but in the 2002 period, it was 52 percent for the physician and 48 percent for the Board.
+[19] This "method of pay" test is akin to what happens when independent contractors are paid for services rendered. On the other hand, employees are generally paid a salary regardless of how much work they actually perform or how much time they are on the job.
+[20] Counsel for the Minister cited the decision of Chief Justice Bowman in Marcoux v. Minister of National Revenue, 2001 CarswellNat 2592 in support of her position. However, the facts in that case were quite different, especially re payment. At paragraph 60, Chief Justice Bowman said (quoted as read):
+They [that is, the doctors in Marcoux] provided their services in their employer's premises and their employer provided all support staff, furniture and any other equipment needed. The Appellants were paid a fixed remuneration for a four-hour block of time and were paid for appointments regardless of whether the patients attended the appointments or not.
+I should note that that was not the same as the situation in this case.
+No. 3 - Ownership of Tools
+[21] The next factor that has been considered by the Courts is the ownership of tools. The Courts have said that if the payer owns all or virtually all of the tools, this is an indication of an employer/employee relationship.
+[22] In this situation, Dr. Taylor said that the tools used by him in providing medical examination services were a stethoscope and an otoscope, which he purchased himself. Dr. Taylor also said that he used a pager in connection with this examination procedure to keep in touch with Millard Health. He said that he paid for the pager himself.
+[23] The Board provided the office plus small supplies such as tongue depressors and examination table paper.
+[24] Counsel for the Appellants argued that Dr. Taylor, in effect, paid for the supplies provided by the Board since he paid the Board fees in the amount of approximately 48 percent of the gross fee to cover the overhead costs. I believe that the Appellant's counsel makes a good point, and therefore, this test also points in favour of an independent contractor relationship.
+No. 4 - Chance of Profit and Risk of Loss
+[25] Our Courts have said that if the worker does not have a chance of profit or a risk of loss, this is an indication of an employer/employee relationship. On the other hand, courts have said that if the worker can receive more profit or can suffer a loss, this is an indication of independent contractor.
+[26] In this situation, the following points should be noted. Dr. Taylor was paid on a fee-for-service basis. Unfilled appointment times represented losses to Dr. Taylor. In addition, appointment times cancelled more than 24 hours in advance were also losses to Dr. Taylor. Also for "no shows" or for appointments cancelled less than 24 hours in advance, Dr. Taylor received only a partial fee. In some cases, 50 percent, and in some cases, it seemed to be less.
+[27] The Board did not guarantee Dr. Taylor a minimum number of practice hours per day, per week or per month. The Board did not guarantee Dr. Taylor a minimum amount of fees. These points all indicate that Dr. Taylor was exposed to a risk of loss.
+[28] Re Chance of Profit: If Dr. Taylor decided to increase the number of examinations that he could perform, that is, do more in less time, he could increase his profit. If Dr. Taylor agreed to work additional hours, he might receive more money.
+No. 5 - Express Declaration of Status
+[29] The next test is express statement that he was an independent contractor. In this situation, I have noted above that the parties clearly specified that Dr. Taylor would be an independent contractor.
+[30] In the decision of Wolf v. The Queen, 2002 DTC 6853, Mr. Justice Décary of the Federal Court of Appeal said at paragraph 119 (quoted):
+... When a contract is genuinely entered into as a contract for services and is performed as such, the common intention of the parties is clear and that should be the end of the search. ...
+[31] Now, in this respect, I would note that this testimony was that of the ten physicians, nine of the physicians signed an agreement in which they indicated that they were independent contractors.
+[32] A tenth physician at Millard Health preferred to be retained as an employee because he wanted to continue his pension plan that he brought from another source; Ms. Hanington said that she thought that the pension was with the federal government.
+[33] So nine of the ten physicians signed this agreement. Eight of the ten physicians were treated by the CRA as independent contractors, Dr. Taylor being the one who was not treated as an independent contractor.
+[34] Now, finally, I should note that our Courts have said that we should look at all possible factors regarding the relationship. I refer to the comments made by Justice Major in the Sagaz Industries case ([2001] S.C.J. No. 61 (S.C.C.)).
+[35] In this situation, Dr. Taylor did not have a pension plan. Dr. Taylor took training courses and certification courses at his own cost. Dr. Taylor paid his own fees at the College of Physicians and Surgeons of Alberta. Dr. Taylor also paid his own medical insurance costs.
+[36] Dr. Taylor did not receive vacation pay whereas other employees at Millard Health did. Dr. Taylor did not receive health benefits whereas other employees of Millard Health did. Dr. Taylor did not have a dental plan with the Board, but the other employees at Millard Health did.
+[37] So I would note especially that eight of his associates were treated by the CRA as independent contractors. The ninth associate was not treated as an independent contractor because he preferred to be treated as an employee, and Dr. Taylor was singled out for different treatment.
+[38] I note that all of the above tests indicate that Dr. Taylor was not an employee but was an independent contractor.
+[39] Based on the points that I have outlined above and based on the sworn testimony and the documents that have been filed, I have concluded that Dr. Taylor was an independent contractor for the period February 1st, 2002 to December 31, 2002.
+[40] I have therefore concluded that Dr. Taylor's appeal should be allowed and the decision of the Minister vacated. I have also concluded that the appeal of the Workers' Compensation Board should be allowed and the decision of the Minister vacated.
+Signed at Ottawa, Canada, this 25th day of January 2006.
+"L.M. Little"
+Little J.
+CITATION:
+2006TCC48
+COURT FILE NO.:
+2004-3954(EI)
+STYLE OF CAUSE:
+Workers' Compensation Board and
+The Minister of National Revenue
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+December 12, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+December 13, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Cheryl A. Gibson
+Counsel for the Respondent:
+Marla N. Teeling
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Cheryl A. Gibson
+Firm:
+Fraser Milner Casgrain LLP
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+CITATION:
+2006TCC48
+COURT FILE NO.:
+2004-3955(EI)
+STYLE OF CAUSE:
+John C. Taylor and
+The Minister of National Revenue
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+December 12, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+December 13, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Cheryl A. Gibson
+Counsel for the Respondent:
+Marla N. Teeling
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Cheryl A. Gibson
+Firm:
+Fraser Milner Casgrain LLP
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

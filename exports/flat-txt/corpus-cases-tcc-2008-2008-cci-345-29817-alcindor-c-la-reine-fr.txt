@@ -1,0 +1,243 @@
+Title: Alcindor c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29817/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-345-29817-alcindor-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-06-11
+
+# Alcindor c. La Reine
+
+- Citation: 2008 CCI 345
+- Decision date: 2008-06-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6561, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alcindor c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-11
+Référence neutre
+2008 CCI 345
+Numéro de dossier
+2007‑4755(GST)APP, 2007‑4756(GST)APP, 2007‑4757(GST)APP, 2007‑4758(GST)APP, 2007-4769(GST)APP
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-4769(GST)APP
+ENTRE :
+CHRISTIAN ALCINDOR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Marc-Antoine Pierre-Louis 2007-4755(GST)APP,
+Ronald Béliard 2007-4756(GST)APP,
+Jean-Guy Pagé 2007-4757(GST)APP,
+et Robert Berger 2007-4758(GST)APP,
+le 25 février 2008, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Richard Généreux
+____________________________________________________________________
+JUGEMENT
+La demande en vue d’obtenir une ordonnance de prorogation de délai pour signifier un avis d’opposition à l’avis de cotisation portant le numéro PM‑12739 et la date du 28 juin 2006, établi en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise est rejetée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de juin 2008.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2007-4755(GST)APP
+ENTRE :
+MARC-ANTOINE PIERRE-LOUIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Ronald Béliard 2007-4756(GST)APP,
+Jean-Guy Pagé 2007-4757(GST)APP,
+Robert Berger 2007-4758(GST)APP,
+et Christian Alcindor 2007-4769(GST)APP,
+le 25 février 2008, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Richard Généreux
+____________________________________________________________________
+JUGEMENT
+La demande en vue d’obtenir une ordonnance de prorogation de délai pour signifier un avis d’opposition à l’avis de cotisation portant le numéro PM‑12747 et la date du 28 juin 2006, établi en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise est rejetée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de juin 2008.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2007-4756(GST)APP
+ENTRE :
+RONALD BÉLIARD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Marc-Antoine Pierre-Louis 2007-4755(GST)APP,
+Jean-Guy Pagé 2007-4757(GST)APP,
+Robert Berger 2007-4758(GST)APP,
+et Christian Alcindor 2007-4769(GST)APP,
+le 25 février 2008, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Richard Généreux
+____________________________________________________________________
+JUGEMENT
+La demande en vue d’obtenir une ordonnance de prorogation de délai pour signifier un avis d’opposition à l’avis de cotisation portant le numéro PM‑12741 et la date du 28 juin 2006, établi en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise est rejetée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de juin 2008.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2007-4757(GST)APP
+ENTRE :
+JEAN-GUY PAGÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Marc-Antoine Pierre-Louis 2007-4755(GST)APP,
+Ronald Béliard 2007-4756(GST)APP,
+Robert Berger 2007-4758(GST)APP,
+et Christian Alcindor 2007-4769(GST)APP,
+le 25 février 2008, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Richard Généreux
+____________________________________________________________________
+JUGEMENT
+La demande en vue d’obtenir une ordonnance de prorogation de délai pour signifier un avis d’opposition à l’avis de cotisation portant le numéro PM‑12743 et la date du 28 juin 2006, établi en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise est rejetée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de juin 2008.
+« Réal Favreau »
+Juge Favreau
+Dossier : 2007-4758(GST)APP
+ENTRE :
+ROBERT BERGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de
+Marc-Antoine Pierre-Louis 2007-4755(GST)APP,
+Ronald Béliard 2007-4756(GST)APP,
+Jean-Guy Pagé 2007-4757(GST)APP,
+et Christian Alcindor 2007-4769(GST)APP,
+le 25 février 2008, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Richard Généreux
+____________________________________________________________________
+JUGEMENT
+La demande en vue d’obtenir une ordonnance de prorogation de délai pour signifier un avis d’opposition à l’avis de cotisation portant le numéro PM‑12745 et la date du 28 juin 2006, établi en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise est rejetée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de juin 2008.
+« Réal Favreau »
+Juge Favreau
+Référence : 2008 CCI 345
+Date : 20080611
+Dossiers : 2007-4769(GST)APP,
+2007-4755(GST)APP, 2007-4756(GST)APP,
+2007-4757(GST)APP, 2007-4758(GST)APP
+ENTRE :
+CHRISTIAN ALCINDOR,
+MARC-ANTOINE PIERRE-LOUIS,
+RONALD BÉLIARD,
+JEAN-GUY PAGÉ,
+ROBERT BERGER,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit de demandes faites en vue d’obtenir une ordonnance prorogeant le délai pour signifier un avis d’opposition aux avis de cotisation portant respectivement les numéros PM‑12739, PM‑12747, PM‑12741, PM‑12743 et PM‑12745 et la date du 28 juin 2006, établis en vertu du paragraphe 323(1) de la Loi sur la taxe d’accise (la « Loi ») par lesquels le ministre du Revenu du Québec, agissant à titre de mandataire du ministre du Revenu national (ci-après le « ministre ») a réclamé à chacun des appelants le versement du montant de taxe nette que la société « Les Ateliers L’Essor inc. » aurait dû remettre le 30 juin 2004 pour la période du 1er avril 2003 au 31 mars 2004 en vertu du paragraphe 228(2) de la Loi, en plus des intérêts et des pénalités, soit 3 734,82 $ au total.
+[2] La demande de prorogation de délai a été produite le 4 juin 2007 par madame Nancy Boisrond pour le compte des appelants, soit plus de huit mois après l’expiration du délai de 90 jours pour faire opposition aux avis de cotisation. Le 30 octobre 2007, le ministre a confirmé à chacun des appelants le rejet de la demande de prorogation de délai en ces termes :
+Vous n’avez pas démontré que vous étiez dans l’incapacité d’agir ou aviez l’intention de vous opposer dans les délais impartis et de plus compte tenu des raisons indiquées dans la demande et les circonstances en l’espèce, il n’est pas juste et raisonnable de faire droit à la demande.
+[3] Messieurs Alcindor, Berger, Béliard, Pierre-Louis et Pagé avaient préalablement produit des avis d’opposition datés du 13 novembre 2006, dans le cas de messieurs Alcindor, Berger, Pierre-Louis et Pagé, et du 23 octobre 2006, dans le cas de monsieur Béliard, qui n’ont pas été acceptés parce qu’ils n’ont pas été signifiés dans le délai prévu par la Loi.
+[4] La société « Les Ateliers L’Essor inc. » a été constituée le 8 mai 1980 en vertu de la Partie 2 de la Loi sur les corporations canadiennes. Cette société était un organisme sans but lucratif qui opérait un centre pour des travailleurs handicapés. Cette société a déclaré faillite le 27 avril 2005 et son immatriculation a été radiée sur demande le 9 juin 2006.
+[5] Au 31 mars 2004, les appelants étaient tous des administrateurs de la société « Les Atelier L’Essor inc. ». Le 15 octobre 2004, les appelants ont démissionné en bloc du conseil d’administration de ladite société.
+Position des appelants
+[6] Monsieur Alcindor est un retraité de l’Agence du revenu du Canada depuis 2003. Avant de prendre sa retraite, il travaillait en taxe d’accise et il était familier avec le processus de cotisation, d’avis d’opposition et d’avis d’appel aux tribunaux. Monsieur Alcindor prétend ne pas avoir reçu l’avis de cotisation du 28 juin 2006 et admet s’être fié sur madame Nancy Boisrond, qui était la directrice générale de « Les Ateliers L’Essor inc. » et qui avait pris sur elle-même de retenir les services d’une avocate, Me Manon Bélanger, pour régler tous les litiges découlant de la faillite de la société « Les Ateliers L’Essor inc. ». Lors de son témoignage, monsieur Alcindor a précisé que madame Boisrond avait accepté de payer les honoraires de Me Bélanger et que, c’est pour cette raison, qu’il n’a pas communiqué directement avec Me Bélanger pour discuter du dossier de la taxe sur les produits et les services.
+[7] Monsieur Béliard a également témoigné et il a confirmé avoir reçu l’avis de cotisation émis à son nom et n’avoir jamais rencontré Me Bélanger auparavant.
+[8] Monsieur Pierre-Louis a également confirmé avoir reçu l’avis de cotisation et l’avoir remis au père de madame Boisrond, le fondateur de la société « Les Ateliers L’Essor inc. », pour qu’il le remettre à madame Boisrond. Lui aussi n’a jamais discuté avec l’avocate Bélanger du dossier de taxes.
+[9] Monsieur Berger a confirmé avoir reçu l’avis de cotisation du 28 juin 2006 et avoir produit un avis d’opposition qui a été refusé parce que produit hors délai. Il a de plus confirmé n’avoir jamais parlé à l’avocate retenue par madame Boisrond. Selon lui, madame Boisrond avait le mandat de s’occuper de la fermeture complète des opérations de la société « Les Ateliers L’Essor inc. ».
+[10] Madame Nancy Boisrond a témoigné pour monsieur Pagé qui ne pouvait être présent. Madame Boisrond a confirmé la réception par monsieur Pagé de l’avis de cotisation du 28 juin 2006. Elle a confirmé avoir eu en main toutes les cotisations émises au nom des administrateurs et avoir confié vers la fin juin ou le début du mois de juillet 2006 le mandat à Me Bélanger de s’occuper des dossiers des administrateurs. C’est dans ce contexte que Me Bélanger s’est notamment occupée du dossier de la Commission des normes du travail. Selon elle, il y aurait eu confusion dans le mandat confié à Me Bélanger et cette dernière ne se serait pas occupée du dossier des taxes réclamées aux administrateurs.
+Analyse
+[11] La responsabilité des administrateurs d’une personne morale qui a fait défaut de remettre un montant de taxe nette découle de l’application du paragraphe 323(1) de la Loi qui se lit comme suit :
+323. (1) Responsabilité des administrateurs -- Les administrateurs d'une personne morale au moment où elle était tenue de verser, comme l'exigent les paragraphes 228(2) ou (2.3), un montant de taxe nette ou, comme l'exige l'article 230.1, un montant au titre d'un remboursement de taxe nette qui lui a été payé ou qui a été déduit d'une somme dont elle est redevable, sont, en cas de défaut par la personne morale, solidairement tenus, avec cette dernière, de payer le montant ainsi que les intérêts et pénalités afférents.
+[12] La prescription pour l’établissement d’une cotisation à un administrateur est, en vertu du paragraphe 323(5) de la Loi, de deux ans après qu’il a cessé pour la dernière fois d’être administrateur.
+[13] Dans le cas présent, les avis de cotisation émis à l’encontre des administrateurs portaient tous la date du 28 juin 2006, soit à l’intérieur de la période de prescription de deux ans de la date de démission des administrateurs en octobre 2004.
+[14] La Cour qui est saisie d’une demande de prolongation de délai pour loger un avis d’opposition ne peut y faire droit que si les conditions énoncées aux alinéas (a) et (b) du paragraphe 304(5) de la Loi sont rencontrées. Ces dispositions se lisent comme suit :
+Législation
+304(5) Acceptation de la demande – Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 303(1) dans l'année suivant l'expiration du délai par ailleurs imparti pour faire opposition ou présenter la requête en application du paragraphe 274(6);
+b) la personne démontre ce qui suit :
+i) dans le délai d'opposition par ailleurs imparti, elle n'a pu ni agir ni mandater quelqu'un pour agir en son nom, ou avait véritablement l'intention de faire opposition à la cotisation ou de présenter la requête,
+ii) compte tenu des raisons indiquées dans la demande et des circonstances de l'espèce, il est juste et équitable de faire droit à la demande,
+iii) la demande a été présentée dès que les circonstances le permettaient,
+iv) l'opposition est raisonnablement fondée.
+[15] Dans le présent cas, il a été admis que les conditions énoncées à l’alinéa 303(5)(a) de la Loi et au sous-alinéa 303(5)(b)(iv) de la Loi sont rencontrées.
+[16] Pour qu’une demande de prolongation de délai puisse être accordée à un contribuable, il faut d’abord que soit rencontré le premier critère qui est l’impossibilité d’agir ou de pouvoir mandater quelqu’un pour agir en son nom dans le délai imparti pour faire opposition. Selon la preuve documentaire et testimoniale qui m’a été présentée, rien n’indique que les appelants ont été empêchés pour quelques raisons que ce soit d’agir et de produire leur avis d’opposition respectif dans le délai imparti. Ils ont tous reçu (ou, dans le cas de monsieur Alcindor, présumé avoir reçu) l’avis de cotisation du 28 juin 2006 et ils n’ont rien fait pour s’occuper du dossier. Ils se sont fiés à madame Boisrond qui, de son propre chef et à ses propres frais, aurait mandaté une avocate pour s’occuper de l’ensemble des dossiers des administrateurs suite à la faillite de la société « Les Ateliers L’Essor inc. ».
+[17] L’avocate en question n’a pas témoigné pour expliquer la nature du mandat qui lui avait été confié et fournir des précisions concernant la date à laquelle elle avait reçu le mandat. La preuve n’a pas révélé la date du mandat; on ne sait pas si ce mandat aurait été confié au moment de la faillite de la société « Les Ateliers L’Essor inc. » le 28 avril 2005, ou en mars 2006 comme l’a prétendu monsieur Alcindor, soit bien avant l’émission des avis de cotisation du 28 juin 2006, ou encore à l’été 2006 alors qu’il était toujours possible de produire les avis d’opposition. De toute façon, les appelants n’ont eu aucune communication avec l’avocate en question pour vérifier l’état de leur dossier. Même monsieur Alcindor qui est familier avec les procédures d’opposition n’a pas communiqué avec l’avocate pour s’assurer que son avis d’opposition avait été dûment produit.
+[18] Les appelants n’ont rien fait jusqu’à ce qu’ils reçoivent des demandes de paiement (avis final) et ce n’est qu’à partir de ce moment que les appelants ont produit leurs avis d’opposition mais il était déjà trop tard.
+[19] Le deuxième critère à rencontrer est celui de l’intention de faire opposition à la cotisation. Ici encore, l’intention des appelants de vouloir s’opposer à la cotisation n’est pas évidente. Ils se sont fiés à madame Boisrond pour qu’elle s’occupe des réclamations des autorités fiscales. La preuve ne révèle pas la nature des instructions fournies à madame Boisrond par les appelants. Devait-elle s’occuper des créances des autorités fiscales et pourvoir à leur paiement ou devait‑elle contester la validité des cotisations? À mon avis, les appelants n’ont pas clairement démontré qu’ils avaient l’intention de s’opposer aux cotisations émises.
+[20] Le troisième critère à rencontrer dans ce genre de demande est qu’il est juste et équitable de faire droit à la demande. Les cotisations semblent être bien fondées en droit et il ne semble pas y avoir d’erreurs manifestes dans ce dossier. De plus, il n’y a pas de distinction à apporter compte tenu de la nature des activités et du statut d’organisme sans but lucratif de la société « Les Ateliers L’Essor inc. ». Le but de cette disposition n’est pas de permettre un délai additionnel à ceux qui n’ont pas respecté le délai pour loger leurs avis d’opposition en raison d’un oubli, d’une insouciance ou d’un manque de discipline.
+[21] Le quatrième et dernier critère applicable en l’espèce est que la demande doit avoir été présentée dès que les circonstances le permettaient. Dans le cas présent, la demande de prolongation de délai a été présentée plus de six mois après que les appelants aient reçu une confirmation à l’effet que leurs avis d’opposition n’avaient pas été acceptés. Les raisons de cette absence de diligence n’ont pas été fournies lors de l’audience.
+[22] Sur la base de ce qui précède, je conclus que les appelants n’ont pas rempli les conditions énoncées aux sous‑alinéas (i), (ii) et (iii) de l’alinéa 304(5)(b) de la Loi, c’est‑à‑dire qu’ils n’ont pas démontré, selon la prépondérance des probabilités, d’une part, que dans le délai par ailleurs imparti pour signifier les avis d’opposition, ils n’ont pu agir ni charger quelqu’un d’agir en leur nom ou qu’ils avaient l’intention de faire opposition et, d’autre part, qu’il est juste et raisonnable de faire droit à la demande et que la demande a été présentée dès que les circonstances le permettaient.
+[23] L’argument de monsieur Alcindor à l’effet qu’il n’est pas reçu l’avis de cotisation du 28 juin 2006 alors que les autres appelants ont reconnu l’avoir reçu, ne peut être retenu. Il y a d’abord lieu de mentionner que monsieur Alcindor n’a pas mentionné antérieurement ce fait dans sa correspondance avec l’Agence du revenu du Canada ni dans sa demande de prorogation de délai pour loger un avis d’opposition. À l’audience, il n’a fourni aucune raison pouvant justifier qu’il n’ait pas reçu l’avis de cotisation en question (ex. déménagement, absence prolongée, maladie, etc.). En vertu des paragraphes 335(10) et (11) de la Loi, la date de la mise à la poste d’un avis que le ministre a l’obligation ou l’autorisation d’envoyer ou de poster à une personne est réputée être la date qui apparaît sur l’avis et lorsqu’un avis de cotisation a été envoyé par le ministre de la manière prévue à la présente partie, la cotisation est réputée établie à la date de la mise à la poste de l’avis. La réception d’un avis par un contribuable ne constitue pas une condition préalable à la validité d’un tel avis. Le juge Isaac de la Cour d’appel fédérale dans l’affaire Canada c. Schafer [2000] G.S.T.C. 82, s’est exprimé sur la question en ces termes au paragraphe 12 :
+[TRADUCTION]
+« [. . .] En conséquence, la seule exigence applicable est que le ministre doit établir que l’avis a été envoyé. Il n’existe pas d’exigence selon laquelle l’avis doit avoir été reçu afin que le délai commence à courrir. [. . .] »
+[24] Pour ces motifs, la demande des appelants est rejetée.
+Signé à Ottawa, Canada, ce 11e jour de juin 2008.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2008 CCI 345
+NºS DES DOSSIERS
+DE LA COUR : 2007-4769(GST)APP, 2007‑4755(GST)APP,
+2007‑4756(GST)APP, 2007‑4757(GST)APP,
+2007‑4758(GST)APP
+INTITULÉ DE LA CAUSE : CHRISTIAN ALCINDOR ET AL. et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 25 février 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 11 juin 2008
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Richard Généreux
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,179 @@
+---
+title: "Chichkov v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27713/index.do"
+last_modified: "2007-06-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 337"
+citation2: ""
+neutral_citation: "2007 TCC 337"
+decision_date: "2007-06-12"
+language: "en"
+item_id: "27713"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 465
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:02:05.491000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "91d8facaf4232d57464c42b77f96001fb39418bfe3050b91d77c0387898ea438"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chichkov v. The Queen
+
+- Citation: 2007 TCC 337
+- Decision date: 2007-06-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 465, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chichkov v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-12
+Neutral citation
+2007 TCC 337
+File numbers
+2006-2206(IT)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2206(IT)I
+BETWEEN:
+MICHEL CHICHKOV,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 13, 2007, at Montreal, Quebec.
+Before: The Honourable Gerald J. Rip, Associate Chief Justice
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Benoît Mandeville
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2002 and 2003 taxation years are dismissed.
+Signed at Ottawa, Canada, this 12th day of June 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+Citation: 2007TCC337
+Date: 20070612
+Docket: 2006-2206(IT)I
+BETWEEN:
+MICHEL CHICHKOV,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, A.C.J.
+[1] Michel Chichkov appeals from income tax assessments for 2002 and 2003 in which the Minister of National Revenue ("Minister") disallowed various expenses claimed by Mr. Chichkov in computing income from a business on the grounds that he did not carry on a business during 2002 and 2003.
+[2] At the commencement of the hearing the respondent amended her reply to the notice of appeal to argue in the alternative that, if the appellant carried on a business during 2002 and 2003, the expenses claimed were not deductible a) because they were not incurred for the purpose of earning income from a business, b) one Mlle Sylvie Nobert was a partner of the appellant in a partnership which purported to carry on the business, and c) the appellant did not derive all or substantially all of his revenue from the prosecution of scientific research and experimental development in the manner described in paragraph 37(8)(c) of the Income Tax Act ("Act") and in any event the expenditures were on account of capital and therefore not deductible in computing income: paragraph 18(1)(b) of the Act.
+[3] Mr. Chichkov submits that he did carry on a business, a software business, in the years in appeal and suggests that the Minister's officials did not understand steps necessary in the carrying on of his software business, specifically, the development of software application that becomes the business product.
+[4] The purported business was started on January 1, 2002, according to Mr. Chichkov, when he started work on a project called "Infox". He contracted the work for the project to a friend, Sylvie Nobert. In filing his income tax returns for 2002 and 2003 Mr. Chichkov claimed scientific research and experimental development ("SR&ED") expenditures and claimed a business loss of $29,485.58 for 2002 and $30,893.71 for 2003.
+[5] Mr. Chichkov also claimed investment tax credits with respect to these expenditures for 2002 and 2003 as well as for subsequent years, 2004 and 2005.
+[6] Of the $29,485.58 of expenses claimed in 2002, the $26,940 was paid to Mlle Nobert under the subcontract. The balance of $2,545.58 included $331.98 for meals and entertainment, $305.12 for motor vehicle and $1,807.41 as office expenses. For 2003, $29,310 was allegedly paid to Mlle Nobert, $197.43 as motor vehicle expenses, $1,195.98 as office expenses and $190.30 for telephone and utilities. In the form claiming SR&ED expenditures for each year, Mr. Chichkov left blank any reference to non-arm's length transactions and in his attachment of the form in his 2003 tax return, stated that he and the subcontractor, Mlle Nobert, dealt with each other at arm's length.
+[7] When the purported business started in 2002 and at all relevant times Mr. Chichkov was employed on a full-time basis: this is the reason why he subcontracted work to Mlle Nobert, who, he said, was a computer programmer and knowledgeable, having done development work.
+[8] The development of the product was completed in 2006 and, at time of trial, was being sold on the internet by a corporation, the majority of the shares of which are owned by Mr. Chichkov.
+[9] Mr. Chichkov described Infox as a data base with two distinctive characteristics: a) personal information containing names of people, addresses and notes, and b) a "huge corporation database for almost everything". He explained that Infox "bridged the gap between the two extremes for small and medium users", it is a suites application "that talks to the parties". The product, he believed, was unique in the market place.
+[10] For the past 18 years Mr. Chichkov has been a computer programmer. He received a Master's degree in applied mathematics in 1985 from Moscow Physical and Technical Institute. He immigrated to Canada in 1994. In Montreal, where he resides, he worked for three years in pure software as a graphics programmer and seven years in hardware, with respect to video cards for personal computers.
+[11] Mr. Chichkov declared he entered into a legitimate contract with Mlle Nobert. She was not his business partner since it was his business. Also, he denied any common law or conjugal relationship with Mlle Nobert.
+[12] The relevant programming agreements between Mlle Nobert and Mr. Chichkov are dated January 1, 2002 and January 1, 2003. Programming tasks to be performed by Mlle Nobert are described in the agreements. The projected schedule for completion of Mlle Nobert's work was December 31, 2002 in the agreement dated January 1, 2002 and December 31, 2003 for the agreement of January 1, 2003. The fees, $26,940 in 2002 and $29,310 in 2003 are set out in each agreement. The fee was to be paid in "cash, certified cheque or equivalent" within 45 days of invoice. The agreements provided for its termination by either party.
+[13] At the beginning of 2002, Mlle Nobert was employed elsewhere and worked on the contract on weekends and evenings. In July 2002 she left her job to work full-time on the contract with Mr. Chichkov. According to Mr. Chichkov she then worked seven days a week, probably eight hours a day. Mlle Nobert confirmed that she worked at least 40 hours a week from July 2002. She said she worked five days a week and frequently on weekends, probably six days a week, for a salary less than what she was paid as an employee before July 2002. She agreed to lower pay because there were less stress, interesting work and better working conditions.
+[14] The appellant produced several documents to confirm that he was carrying on a business. These included a "to do" list of work to be done by Mlle Nobert. Thirty‑five pages of work notes pertaining to the project were produced. Mr. Chichkov did testify that on weekends and some evenings he also undertook research and development. Copies of computer screenshots of the application of Infox with search grids and detailed view windows as well as a copy of a detailed project description submitted to the Canada Revenue Agency were also produced by Mr. Chichkov.
+[15] A market research report describing potential competitors was prepared by the appellant and Mlle Nobert, purportedly in 2002. Mr. Chichkov claimed SR&ED expenditures with respect to the market research. The appellant did not log the hours worked on the report.
+[16] Respondent's counsel queried Mr. Chichkov with respect to his and Mlle Nobert's living arrangements. Starting in about 1998 they shared a common residence in an apartment building because it was "convenient". Mr. Chichkov insisted theirs was a work relationship only. If I understood him correctly, both intended to start a business and used the time to "think it through". He wanted to be sure she was capable of doing the work. In 2002 they together purchased a single family dwelling for $280,000, each owning a one-half undivided interest; each was also liable on the mortgage on their home. Mr. Chichkov said they bought the most expensive home as an investment; neither could afford a house "of this type".
+[17] From about the time Mr. Chichkov and Mlle Nobert obtained mortgage approval for their home, they shared a bank account.
+[18] Mr. Chichkov testified in his cross-examination that he paid Mlle Nobert for her services under the contract in cash and received no receipt. No invoice was sent by Mlle Nobert to Mr. Chichkov. The reason for the lack of documentation, according to Mr. Chichkov, was that "we were living close enough". Each trusted the other. Mr. Chichkov did "transfer" some funds to her, but "substantially" all was paid to Mlle Nobert in cash, he said.
+[19] The appellant explained that he paid Mlle Nobert the "equivalent in cash". He made the mortgage payments on their home, including Mlle Nobert's share of the debt. They considered that the portion of the mortgage payment that Mr. Chichkov paid for her was payment on the contract. He said he "assumed" her debt for the $27,000 each year under the contract.
+[20] House expenses for hydro, telephone and other services came out of the joint bank account of the appellant and Mlle Nobert. The bulk of the money in the account came from Mr. Chichkov.
+[21] The amounts of investment tax credits claimed by Mr. Chichkov for the years in appeal were equal to the amounts of tax he would have had to pay in those years, after deducting fees to Mlle Nobert, absent the credit. The appellant also calculated his potential tax for 2003, 2004 and 2005 to determine how much investment tax credit he should claim in those years. Similarly, the fees paid to Mlle Nobert were a function of the tax he would have had to pay; the fees and the tax credit would reduce his tax to nil. Mr. Chichkov acknowledged that he and Mlle Nobert did not negotiate the contract fees except, he said, for the first year, which was all he could afford. He did admit that the fees for other years were tax motivated.
+[22] Under cross-examination Mr. Chichkov acknowledged that the contracts with Mlle Nobert were not executed on the first day of January in 2002 and 2003, respectively; they "could have been signed" in the following years, that is, 2003 and 2004, respectively, after he completed his tax returns for the year. Both agreements were back dated. He could not have predicted on the first day of the year what his income, and thus tax, would be for that year; therefore, Mr. Chichkov could not have determined the fees to be paid to Mlle Nobert for the year on January 1st.
+[23] With respect to expenses other than that paid to Mlle Nobert, Mr. Chichkov explained that meals and entertainment expenses were for people who could advise him on the market for the product and for potential clients.
+[24] Mlle Nobert also claimed business expenses. Since Mlle Nobert was working from their home, she claimed 25 percent of house expenses were for her business. Later on, she admitted that probably 10 percent of the housing expenses were for business, not 25 percent. She calculated the 25 percent on the basis that she used two of the eight rooms of the house, ignoring the actual area of the house and what she used. She also claimed expenses for meals and entertainment but had no idea who she entertained. She became quite agitated at this line of questioning from crown counsel.
+[25] Mr. Chichkov insisted he and Mlle Nobert were in an arm's length relationship and therefore he was entitled to SR&ED expenses, assuming he was carrying on a business.
+[26] Respondent's counsel cross-examined Mr. Chichkov concerning his relationship with Mlle Nobert. Mr. Chichkov was a beneficiary under a medical insurance plan with his employer. He claimed Mlle Nobert as his spouse when he made claims for her medical expenses under this plan. He claimed her as his spouse, he explained, because she had no medical insurance and he was told he could do so because they were living together.
+[27] Mlle Nobert testified that she prepared her income tax returns for 2002 and subsequent years. In her 2002 tax return she included 100 percent of the interest earned in the joint bank account with Mr. Chichkov. In her 2003 tax return she claimed the difference between what was paid for prescription drugs and the benefits Mr. Chichkov received from his insurer as her medical expenses. She also included Mr. Chichkov's dental expenses in her medical expenses in 2002.
+[28] Alventis Corporation, incorporated in 2006, is currently selling the software purportedly developed by Mr. Chichkov. He owns 60 percent of the voting shares of the corporation and Mlle Nobert owns 40 percent of such shares. Mr. Chichkov stated that he offered her 40 percent of the shares and she agreed. The user's guide for the software state that the "software" is based, in part, on the work of Anders Malendar, Gustavo Hufferbackor, David and Jordan Russell. Neither Mr. Chichkov nor Mlle Nobert's name is mentioned. Mr. Chichkov said it is because it is "not common to mention programmers who developed the project". In any event, he said, Alventis Corporation owns the trademarks; he was not paid for the trademarks.
+[29] At close of trial I asked Mr. Chichkov if he would submit written arguments rather than make an oral presentation. He agreed.
+[30] Mr. Chichkov submits that he carried on a business at all relevant times. He cites Bowman J. (as he then was) in Gartry v. The Queen[1]:
+. . . In determining when a business has commenced, it is not realistic to fix the time either at the moment when money starts being earned from the trading or manufacturing operation or the provision of services or, at the other extreme, when the intention to start the business is first formed. Each case turns on its own facts, but where a taxpayer has taken significant and essential steps that are necessary to the carrying on of the business it is fair to conclude that the business has started. . . .
+[31] In Mr. Chichkov's view, the most essential step necessary in the carrying on of a software business is the development of the software application that is to become the business product. Once he took the first step to create the product, he declares, he started a business. He acknowledges that while the software was not complete in 2002, the application had come into existence: it was functional and usable. He states that he could have started selling the software in 2002-2003 but he insisted that it meet all the specifications.
+[32] Mr. Chichkov reviewed Interpretation Bulletin IT-364, dated March 14, 1977, at paragraphs 1, 2, 3 and 5. He says that the expenses in issue were business expenses. His activities in the years in appeal were essential preliminaries to a normal operation of a software-development company. He contracted the development of the product to a skilled programmer. Over 4,000 man-hours have been expended and over 50,000 lines of code have been developed. By the end of 2003, he said the product was approximately 50 percent completed. The product was completed in 2006 and is being sold. However, the appellant did not present any evidence of sales.
+[33] Extensive market research was performed, according to Mr. Chichkov. Analyses were made of user requirements in the domain of information management retrieval as well as of competing technologies and products.
+[34] Mr. Chichkov denied that he and Mlle Nobert did not deal at arm's length or that they carried on a business in partnership. He submits that in making such allegations the Minister is attempting to vary the basis of the assessments, that he did not carry on a business. He relies on Letourneau J.A. in The Queen v. Hollinger Inc.[2]:
+[23] . . . Changing the amount of an assessment in pleadings is tantamount to the Minister appealing his own assessment, an avenue which has been clearly rejected by the Courts.
+[35] In the appeals before me, the Attorney General has not changed the amount of either assessment; he has simply raised alternative arguments. In his original notice of appeal, the respondent alleged that the appellant and Mlle Nobert did not deal at arm's length. The Minister's assumptions leading to assessments have not been altered.
+[36] In his written submission, Mr. Chichkov questions whether the Minister made certain assumptions described in the reply to the notice of appeal. Any assumption stated in a reply to have been made by the Minister is deemed to have been made and is true, unless the appellant can prove that it was not made, or, if made, is not true.
+[37] The basic facts assumed by the Minister in assessing were the following:
+j) The decisions conveyed to the Appellant by the audit division and the SR&ED section were based upon that the representations of the Appellant that:
+i) He is developing a computer software program;
+ii) He has not earned any profit to date;
+iii) The product is in a stage of development;
+iv) He has not yet developed his market;
+v) He has no clients;
+vi) The program is not yet available in the market place;
+vii) He has not applied for a licence or a product patent; and,
+viii) That he has not invested any funds into a business, has no suppliers, has no potential clients, has no business address, has no bank account for his business, has no business telephone, has no business card, has no business assets, and has no balance sheet for a business,
+he had not commenced a business;
+k) For the decision of the SR&ED expenditures for 2003 it was found that the Appellant did not have an eligible claim as the expenditures were not incurred by a taxpayer that carried on a business in Canada and that the expenditures were for subcontract payments that were made to a non‑arm's length party, Sylvie Nobert the common-law partner of the Appellant;
+[38] The facts that were set out in paragraph j)(i-viii) of the reply were not established to be false; the Minister's conclusion of course, is what is in issue.
+[39] I have great doubt that Mr. Chichkov was carrying on a business during the years in appeal. I am leery of his testimony; I fear his testimony was wanting in credibility, among other things. If anything, the work was preliminary to a commencement of a business.
+[40] Mr. Chichkov was not consistent in his evidence. His background suggests that he is a very intelligent person. However, his evidence and that of Mlle Nobert, show that he will attempt to take advantage of any situation. For one purpose he claims Mlle Nobert as his spouse, for another purpose — these appeals — he denies he does not deal with her at arm's length. He claims her medical expenses from his insurer on the basis that she was his spouse. As well, Mlle Nobert includes his dental expenses in her medical expenses for the year.
+[41] And in his written submissions he is not consistent. For example, he first states that the software came into existence during the years in appeal but later on writes that at the end of 2003 the software development was "approximately 50 percent towards completion". He also contended that the "initial software application existed as early as 2002" and suggested Mlle Nobert's work constituted gradual additions and improvements to an existing product. Nevertheless, he claimed investment tax credits for the "gradual additions and improvements".
+[42] I also am disturbed that the contracts with Mlle Nobert were back dated and it appears, the contract price, was wholly dependent on the appellant's tax liability for the year. There was no negotiation between arm's length persons.
+[43] The document produced by Mr. Chichkov in support of the market research activity appears to be simply a list of competitors; what the extensive research comprised I have no idea. Also, it is not clear when this document was prepared.
+[44] I also have difficulty with the fact that Mr. Chichkov does not sell Infox, rather it is sold by a corporation he incorporated in 2006 for that purpose. There is no evidence as to what consideration the corporation pays to Mr. Chichkov for its right to sell the product. The intellectual rights, I assume, are still owned by Mr. Chichkov; there is no evidence that he transferred it to another person, including the corporation, although he seemed to suggest that the corporation owned these rights. He, himself, never sold Infox to the public.
+[45] I have no evidence before me to confirm that Mr. Chichkov carried on any business in the years 2002 and 2003. His testimony is suspect and is not convincing. He tended to exaggerate what he did and often his evidence conflicted. Work was being performed but not to the degree suggested by him. What Mr. Chichkov was doing, as far as I can make out, was putting a structure in place for a future business. I am not so concerned that during the years in appeal Mr. Chichkov had no clients, no bank account, no business face, so to speak. What I am concerned with is whether, in fact, he was carrying on a business and I conclude that he did not[3]. If a business was being carried on, it began in 2006 and it was carried on by another person, a corporation. He incurred no expenses in the carrying on of a business during the years in appeal.
+[46] I also find that Mr. Chichkov did not deal at arm's length with Mlle Nobert. They lived together, he claimed her as a spouse in making claims under a medical insurance policy. She claimed him as a spouse in calculating her medical expenses. His excuses for living together — but at arm's length — are lame, although imaginative.
+[47] Since no business was carried on by Mr. Chichkov during the years in appeal and because he and Mlle Nobert were not dealing at arm's length, he did not incur any SR&ED expenditures that may be deducted in computing income.
+[48] The appeals are dismissed.
+Signed at Ottawa, Canada, this 12th day of June 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+CITATION: 2007TCC337
+COURT FILE NO.: 2006-2206(IT)I
+STYLE OF CAUSE: MICHEL CHICHKOV v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: April 13, 2007
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Associate Chief Justice
+DATE OF JUDGMENT: June 12, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Benoît Mandeville
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 94 DTC 1947, at page 1949, para. 16.
+[2] 99 DTC 5500, at para. 23.
+[3] See, for example, Brunet c. Canada, [2005] A.C.I. no 651 (QL), 2006 DTC 3100 (under appeal); and Samson et Frères Ltée v. Canada, [1995] T.C.J. No. 1385 (QL), 96 DTC 1559.

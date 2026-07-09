@@ -1,0 +1,190 @@
+Title: Laboret c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29262/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-283-29262-laboret-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-01-22
+
+# Laboret c. La Reine
+
+- Citation: 2009 CCI 283
+- Decision date: 2009-01-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7002, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laboret c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-01-22
+Référence neutre
+2009 CCI 283
+Numéro de dossier
+2008-2525(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2525(IT)I
+ENTRE :
+CHERYL LABORET,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus le 22 janvier 2009, à Calgary (Alberta).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée
+Me Valerie Meier
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 sont rejetés, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 11e jour de juin 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour d’août 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009 CCI 283
+Date : 20090611
+Dossier : 2008-2525(IT)I
+ENTRE :
+CHERYL LABORET,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, Cheryl Laboret, a interjeté appel des nouvelles cotisations établies à son égard pour les années d’imposition 2004 et 2005. Pour chacune de ces années‑là, le ministre du Revenu national (le « ministre ») a inclus, en application de l’alinéa 56(1)b) de la Loi de l’impôt sur le revenu (la « Loi »), un paiement de 32 400 $ fait à l’appelante par son ex‑époux (l’« ex‑époux ») à titre de pension alimentaire pour conjoint.
+[2] La seule question en litige est de savoir si chaque paiement de 32 400 $ constituait une « pension alimentaire » au sens de l’alinéa 56.1(4)a) de la Loi, dont les dispositions pertinentes sont ainsi rédigées :
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire […], si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est […] l’ex-époux […] du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage […] et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+[…]
+[3] L’appelante soutient que les montants de 32 400 $ constituaient des paiements forfaitaires et qu’ils ne sont donc pas visés par la définition de « pension alimentaire » de l’alinéa 56.1(4)a) de la Loi. L’appelante a aussi affirmé qu’elle n’avait ni compris ni accepté que les paiements reçus pendant les années en cause seraient imposables.
+[4] L’intimée affirme que les paiements de 32 400 $ ont été faits à l’appelante à titre d’allocations payables périodiquement en application d’une série d’ordonnances rendues par la Cour du Banc de la Reine de l’Alberta. Ainsi, chaque paiement constituerait une « pension alimentaire » au sens de la Loi et devrait être inclus dans le calcul des revenus de l’appelante pour 2004 et 2005. Pour les motifs exposés ci‑après, je suis convaincue que l’intimée a raison.
+[5] L’appelante agissait pour son propre compte à l’audience, et elle a été la seule personne à y témoigner. Son témoignage a clairement établi que la séparation d’elle et de son ex‑époux n’avait pas été amiable, et que les dernières années ont été difficiles pour elle. J’éprouve de la compassion pour l’appelante, mais je dois néanmoins trancher les présents appels en fonction des éléments de preuve présentés et des dispositions législatives et de la jurisprudence applicables.
+[6] En janvier 1999, le juge Fraser de la Cour du Banc de la Reine de l’Alberta a présidé à une procédure de divorce entreprise par l’appelante et à une procédure de répartition des biens matrimoniaux entreprise par l’ex‑époux.
+[7] Dans le cadre de la procédure de divorce, le juge Fraser a rendu un [TRADUCTION] « jugement de divorce modifié et ordonnance de mesures accessoires »[1] (l’« ordonnance alimentaire du juge Fraser ») obligeant l’ex‑époux à payer une pension alimentaire pour enfants mensuelle de 500 $ à l’appelante à l’égard de leur fils. L’ex-époux était aussi tenu de payer une pension alimentaire pour conjoint mensuelle de 2 400 $, d’avril 1999 à juin 2001. La question de savoir si l’ex‑époux allait devoir continuer à payer la pension alimentaire pour conjoint après le 1er juin 2001 allait être décidée lors de l’éventuelle reprise du procès, qui pouvait être demandée par l’une ou l’autre des parties.
+[8] Dans le cadre de la procédure de répartition des biens matrimoniaux, la Cour du Banc de la Reine a ordonné (l’« ordonnance sur les biens matrimoniaux » [2]) que la nouvelle résidence achetée par l’ex‑époux après la séparation des parties soit entièrement dévolue à l’ex‑époux, et que l’ancienne résidence matrimoniale des parties (la « résidence de Lake Mead ») soit entièrement dévolue à l’appelante. De plus, l’appelante devait verser une compensation de 40 411,97 $[3] à l’ex‑époux le 1er février 1999, avec intérêts jusqu’au plein paiement. L’ex‑époux pouvait s’assurer du paiement de cette compensation en inscrivant un privilège sur la résidence de Lake Mead.
+[9] Il s’avère que les ordonnances du juge Fraser n’ont pas vraiment été respectées. L’ex‑époux n’a fait aucun des paiements mensuels de pension alimentaire pour conjoint qu’il était tenu de faire entre avril 1999 et juin 2001, à savoir une somme globale de 64 800 $ constituée de paiements mensuels de 2 400 $ à faire durant la période de 27 mois allant du 1er avril 1999 au 1er juin 2001. De plus, au lieu de payer à l’appelante la pension alimentaire pour enfants mensuelle de 500 $ comme le lui imposait l’ordonnance alimentaire du juge Fraser, l’ex‑époux a choisi unilatéralement d’appliquer les paiements de pension alimentaire pour enfants à l’hypothèque grevant la résidence de Lake Mead en faisant les paiements hypothécaires directement à la banque et en versant le solde résiduel dans le compte bancaire de l’appelante, et ce, malgré le fait qu’en application de l’ordonnance sur les biens matrimoniaux, l’ex‑époux n’avait plus d’intérêt dans la résidence de Lake Mead et que l’appelante était seule responsable des paiements hypothécaires à son égard. L’appelante n’a jamais fait transférer le titre de propriété de la résidence de Lake Mead afin que son seul nom y reste, et il semble que l’ex‑époux n’a jamais fait inscrire de privilège sur la résidence de Lake Mead pour s’assurer du paiement de la compensation qui lui était encore due. À un moment donné, et pour une raison qui reste inconnue, l’appelante a fait enregistrer un certificat d’affaire en instance à l’égard de la nouvelle résidence de l’ex‑époux. Ni l’une ni l’autre des parties n’a demandé la reprise du procès afin de savoir si l’ex‑époux allait devoir continuer de verser la pension alimentaire pour conjoint après le 1er juin 2001.
+[10] En mai 2002, l’avocat de l’appelante et l’ex‑époux ont correspondu[4] à propos d’une mise à jour des renseignements financiers de l’ex‑époux, mais ces échanges n’ont pas abouti. L’ex‑époux a continué à ne pas se conformer à l’ordonnance alimentaire du juge Fraser.
+[11] En décembre 2004, pour une raison ou une autre, l’appelante et son ex‑époux ont repris leurs discussions par l’entremise de leurs avocats. Le passage suivant est tiré d’une lettre que l’avocat de l’appelante a envoyée à l’avocat de l’ex‑époux le 6 décembre 2004, et dont il a aussi envoyé une copie à sa cliente :
+[TRADUCTION]
+[…]
+Laboret c. Hennings
+Conformément à ce qui précède et à notre conversation du 6 décembre 2004, je vous confirme que l’affaire a été reportée au 8 décembre 2004. Comme je vous l’ai déjà dit, ma cliente acceptera la « compensation » des sommes que les parties se doivent. Vous avez dit que votre client accepterait cette solution. Je préparerai l’ordonnance sur consentement, le retrait du certificat d’affaire en instance et le transfert du bien‑fonds pour faire en sorte que seul le nom de ma cliente apparaisse sur le titre de propriété. Vous pouvez vous charger de la préparation de l’acte de reconnaissance que vous souhaitez voir ma cliente signer à l’égard de la réception des fonds; il est entendu qu’une fois les fonds reçus, nous signerons l’acte de reconnaissance et vous feront parvenir un chèque endossé par ma cliente pour que votre client puisse l’encaisser. [5]
+[12] Dans une lettre[6], elle aussi datée du 6 décembre 2004, l’avocat de l’ex‑époux a répondu de la sorte :
+[TRADUCTION]
+[…]
+Objet : Laboret c. Hennings
+Vous trouverez ci‑joint un chèque de 32 400 $ fait par M. Hennings au titre de la pension alimentaire pour conjoint payée pendant l’année d’imposition 2004. Cette pension alimentaire est payée en application de l’ordonnance du juge Fraser et de l’ordonnance sur consentement signée par les deux parties par l’entremise de leurs avocats. Cette somme si [non souligné dans l’original] entièrement imposable pour Mme Laboret aux fins de l’impôt sur le revenu et déductible dans le calcul des revenus de M. Hennings aux fins de l’impôt sur le revenu pour l’année d’imposition 2004.
+Veuillez accuser réception de ce chèque et signifier votre consentement à ces modalités en nous renvoyant une copie signée de la présente lettre et le chèque endossé.
+Veuillez agréer mes salutations distinguées.
+MAÎTRE BLAINE G. SCHUMACHER
+BGS/mgo c.c. : Murray Hennings
+Lu et approuvé
+[Signature de] Cheryl Ann Laboret
+Fait le 6 décembre 2004[7]
+[13] L’appelante a reconnu avoir signé les deux lettres, avoir endossé les chèques qui y avaient été joints, comme on le lui avait demandé, et avoir ensuite renvoyé le tout à l’ex‑époux. Parmi les documents qui composent la pièce A‑4 se trouvent des photocopies des chèques faits par l’ex‑époux à l’appelante et dûment endossés par celle‑ci. Toutefois, l’appelante a affirmé qu’elle ne pensait pas que les sommes en cause allaient être imposables pour elle.
+[14] Le 8 décembre 2004, le juge Hillier de la Cour du Banc de la Reine de l’Alberta a accueilli la requête de l’appelante, avec le consentement de l’avocat de l’ex‑époux, et a rendu une ordonnance (l’« ordonnance du juge Hillier ») rédigée de la façon suivante :
+[TRADUCTION]
+[…]
+LA COUR ORDONNE :
+1. QUE l’intimé, MURRAY NORMAN HENNINGS, verse à la requérante, à titre de pension alimentaire, la somme de 64 800 $ selon les modalités suivantes :
+a) 32 400 $ pendant le mois de décembre 2004, au plus tard le 15 décembre 2004;
+b) 32 400 $ pendant le mois de janvier 2005.
+Ces paiements seront imposables pour la requérante et déductibles d’impôt pour l’intimé.
+2. QUE le paiement de compensation dû par la requérante, CHERYL ANN LABORET à l’intimé, MURRAY NORMAN HENNINGS, soit payé de la façon suivante :
+a) 32 400 $ pendant le mois de décembre 2004;
+b) 32 400 $ pendant le mois de janvier 2005.
+Ce qui éteindra ainsi complètement la créance de compensation de l’intimé.
+3. QUE l’intimé signe un acte de transfert de bien‑fonds, au plus tard le 15 décembre 2004, pour transférer la résidence dont l’adresse municipale est le 220, rue Lake Mead sud‑est, Calgary (Alberta) (la « résidence de Lake Mead »), au seul nom de CHERYL ANN LABORET. La requérante sera entièrement responsable de cette résidence, notamment pour l’hypothèque, l’impôt foncier, les assurances et les frais de services publics.
+4. QUE l’intimé n’aura plus aucun intérêt dans la résidence de Lake Mead.
+5. QUE la requérante, CHERYL ANN LABORET, retire son certificat d’affaire en instance inscrit à l’égard de la résidence dont l’adresse municipale est le 144, chemin Lake Bonavista sud‑est, Calgary (Alberta) (la « résidence de Lake Bonavista »). L’intimé sera entièrement responsable de cette résidence, notamment pour l’hypothèque, l’impôt foncier, les assurances et les frais de services publics.
+6. QUE la requérante n’aura plus aucun intérêt dans la résidence de Lake Bonavista.
+7. QUE la présente ordonnance soit inscrite, et ce, même si la signature de l’avocat de l’intimé a été faite par voie de télécopie.[8]
+[…]
+[15] Pour les années 2004 et 2005, l’ex‑époux a demandé une déduction dans le calcul de ses revenus pour la pension alimentaire pour conjoint versée à l’appelante[9].
+[16] Cependant, l’appelante n’avait pas inclus ces sommes‑là dans le calcul de ses revenus pour les années 2004 et 2005. En novembre 2005, le ministre a établi une nouvelle cotisation à l’égard de l’appelante pour son année d’imposition 2004, de façon à inclure la somme de 32 400 $ dans les revenus de celle‑ci. L’appelante s’est opposée à cette nouvelle cotisation, et, au moyen d’un avis de nouvelle cotisation daté du 23 mai 2006, le ministre est revenu sur sa décision et a exclu cette somme‑là du calcul des revenus de l’appelante pour l’année d’imposition 2004.
+[17] À ce moment‑là, l’appelante avait déjà produit sa déclaration de revenus pour l’année 2005, et, le 1er juin 2006, une cotisation avait été établie à l’égard de l’appelante conformément à sa déclaration de revenus.
+[18] Le 3 octobre 2007, l’ex‑époux a présenté une requête à la Cour du Banc de la Reine de l’Alberta pour que soit rendue une ordonnance de modification des dispositions de l’ordonnance du juge Hillier qui avaient trait à la pension alimentaire pour conjoint. La juge Kenny a alors rendu une ordonnance (l’« ordonnance de la juge Kenny ») rédigée de la façon suivante :
+[TRADUCTION]
+LA COUR ORDONNE QUE :
+1. Le premier paragraphe de l’ordonnance rendue le mercredi 8 décembre 2004 par le juge Hillier soit entièrement remplacé par ce qui suit :
+« L’arriéré de pension alimentaire pour conjoint, qui consistait en des paiements mensuels de 2 400 $ qui devaient être payés à la requérante, Cheryl Ann Laboret, durant la période de 27 mois allant du 1er avril 1999 au 1er janvier 2001[10], est maintenant dû et exigible, et doit être payé de la façon suivante :
+(i) 32 400 $ pendant le mois de décembre 2004, au plus tard le 15 décembre 2004;
+(ii) 32 400 $ pendant le mois de janvier 2005.
+Ces deux paiements, qui, pour l’application de la Loi de l’impôt sur le revenu, représentent des paiements mensuels de pension alimentaire pour conjoint destinés au soutien de la requérante, Cheryl Ann Laboret – et qui sont encore dus –, seront déductibles d’impôt pour le payeur – l’ex‑époux, Murray Norman Hennings – et imposables pour le bénéficiaire – l’ex‑épouse, Cheryl Ann Laboret. »
+2. Les paragraphes 2, 3, 4, 5, 6, et 7 de l’ordonnance du juge Hillier restent en vigueur.
+3. Les sommes dues en application de la présente ordonnance devront être payées au directeur de l’exécution des ordonnances alimentaires (le « DEOA ») (7e étage nord, 10 365, 97e rue, Edmonton (Alberta), T5J 3W7, 780‑422‑5555, www.albertamep.gov.ab.ca). L’ordonnance sera exécutée par le DEOA dès l’inscription de la pension alimentaire auprès du DEOA par le créancier alimentaire, le débiteur alimentaire ou le bénéficiaire. L’ordonnance continuera à être exécutée jusqu’à ce que le DEOA reçoive une demande écrite de rétractation de l’inscription en vertu de l’article 9 de la Maintenance Enforcement Act (la loi sur l’exécution des ordonnances alimentaires) [11].
+[…]
+[19] Le 17 décembre 2007, le ministre a établi d’autres nouvelles cotisations à l’égard de l’appelante pour les années d’imposition 2004 et 2005 pour inclure une somme de 32 400 $ dans les revenus de l’appelante pour chacune de ces années d’imposition là. L’appelante s’est opposée à ces nouvelles cotisations, le ministre les a ratifiées, et l’appelante a interjeté les présents appels.
+Analyse
+[20] L’appelante soutient que, même si elle a signé les lettres et a endossé les chèques faits par son ex‑époux – consentant par le fait même à l’entente selon laquelle celui‑ci lui verserait 64 800 $ –, elle n’a jamais accepté de payer de l’impôt, et elle n’avait pas compris qu’il lui faudrait payer de l’impôt à l’égard de cette somme‑là. Pour appuyer sa position, l’appelante a souligné l’utilisation, dans les lettres datées de décembre 2004 et de janvier 2005, du terme « si » dans la phrase [TRADUCTION] « Cette somme si imposable pour Mme Laboret aux fins de l’impôt sur le revenu […] »[12] [non souligné dans l’original]. L’appelante a expliqué avoir présenté le même argument, sans succès, pour s’opposer à la modification de l’ordonnance du juge Hillier. Elle a dit ne pas comprendre comment une partie de l’ordonnance du juge Hillier avait simplement pu être modifiée par l’ordonnance de la juge Kenny.
+[21] Tout d’abord, je n’ai aucune raison de douter du témoignage de l’appelante voulant qu’en décembre 2004, elle était au bout du rouleau, autant émotionnellement que financièrement, et qu’elle avait fait confiance à son avocat pour [TRADUCTION] « régler les choses ». Cependant, cela n’enlève rien au fait qu’elle a accepté les conditions établies dans les lettres échangées par son avocat et l’avocat de l’ex‑époux. Pour ce qui est de l’ordonnance de la juge Kenny, je n’ai pas compétence pour me prononcer sur son bien-fondé, mais, pour les motifs exposés ci‑après, je suis d’avis que cette ordonnance n’est pas incompatible avec l’ordonnance alimentaire du juge Fraser, avec l’accord conclu entre les parties, ou même avec le témoignage de l’appelante.
+[22] Les documents qui composent la pièce A‑4 montrent que l’appelante et l’ex‑époux avaient l’intention de prendre les mesures nécessaires pour achever de se conformer à l’ordonnance sur les biens matrimoniaux et à l’ordonnance alimentaire du juge Fraser, notamment par le paiement de l’arriéré de pension alimentaire pour conjoint dû par l’ex‑époux, qui s’élevait à 64 800 $. En fait, c’est l’avocat de l’appelante qui avait demandé à ce que soit rendue l’ordonnance du juge Hillier. C’est aussi l’avocat de l’appelante qui avait demandé à l’avocat de l’ex‑époux de rédiger les lettres de [TRADUCTION] « consentement et d’accord » après leur discussion du 6 décembre 2004 et qui avait rédigé l’ordonnance sur consentement qui a finalement été soumise au juge Hillier[13]. Dans la lettre qu’il a envoyée en réponse à la lettre envoyée par l’avocat de l’appelante, l’avocat de l’ex‑époux a fait spécifiquement référence aux deux paiements de 32 400 $ versés [TRADUCTION] « en application de l’ordonnance du juge Fraser ». Quoique l’ordonnance du juge Hillier ne comporte aucune référence à l’ordonnance alimentaire du juge Fraser, le paiement de pension alimentaire pour conjoint de 64 800 $ imposé par l’ordonnance du juge Hillier correspond exactement aux paiements mensuels de 2 400 $ que l’ex‑époux devait faire entre le 1er avril 1999 et le 1er juin 2001 en application de l’ordonnance alimentaire du juge Fraser. À mon avis, même si les modifications apportées par l’ordonnance de la juge Kenny avaient été ignorées, le résultat aurait été le même. Enfin, le témoignage de l’appelante quant au comportement de l’ex‑époux, qui a fait preuve d’une récalcitrance honteuse à l’égard de son obligation de payer la pension alimentaire pour conjoint, m’a convaincue qu’en l’absence des ordonnances rendues par la Cour du Banc de la Reine de l’Alberta, l’ex‑époux n’aurait jamais versé un sou à l’appelante. Ainsi, quand l’ex‑époux a finalement payé l’arriéré de pension alimentaire pour conjoint, il l’a fait « aux termes de l’ordonnance d’un tribunal compétent » (selon le libellé actuel de la Loi) plutôt que [TRADUCTION] « en raison d’une obligation juridique imposée ou contractée », le critère établi par la Cour suprême du Canada dans Minister of National Revenue v. J. J. Armstrong[14] pour distinguer les paiements périodiques du paiement forfaitaire. Compte tenu des ordonnances en cause, de l’accord conclu par l’appelante et l’ex‑époux et de la conduite de ceux‑ci, il est clair que les paiements de 32 400 $ faits en 2004 et en 2005 correspondaient à une obligation préexistante[15] de l’ex‑époux de payer une pension alimentaire pour conjoint totalisant 64 800 $ pour la période allant du 1er avril 1999 au 1er juin 2001.
+[23] Bien qu’une grande partie de l’argument de l’appelante portait sur le fait qu’elle n’avait jamais [TRADUCTION] « consenti » à ce que la somme de 64 800 $ soit imposable, ce n’est pas à cause d’un tel consentement, ou même parce que la somme avait été qualifiée d’« imposable » dans les ordonnances de la Cour du Banc de la Reine de l’Alberta, que cette somme‑là est imposable, mais bien parce que les circonstances de son paiement sont visées par les dispositions pertinentes de la Loi[16].
+[24] Pour ces motifs, je suis convaincue que la position de l’intimée – à savoir que les deux paiements de 32 400 $ doivent être inclus dans les revenus de l’appelante – est la bonne. En concluant de la sorte, je n’excuse pas du tout le fait que l’ex‑époux n’a jamais payé la pension alimentaire pour conjoint à temps. Cependant, ce facteur‑là n’est pas déterminant pour savoir si l’appelante était tenue d’inclure une somme de 32 400 $ dans ses revenus pour chacune des années d’imposition 2004 et 2005. Dans The Queen v. Sills[17], la Cour d’appel fédérale a conclu que « […] [p]ourvu que l’accord prévoie que les montants d’argent sont payables périodiquement, l’exigence contenue à l’alinéa est respectée. Les paiements ne changent pas de nature pour la seule raison qu’ils ne sont pas effectués à temps »[18]. Par conséquent, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 11e jour de juin 2009.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 19e jour d’août 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2009 CCI 283
+No DU DOSSIER DE LA COUR :
+2008-2525(IT)I
+INTITULÉ :
+Cheryl Laboret et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 22 janvier 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT :
+Le 11 juin 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Valerie Meier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-3.
+[2] Pièce A-1.
+[3] Pièce A-1, paragraphe 23.
+[4] Pièce A-5.
+[5] Pièce A-4.
+[6] Une lettre semblable, datée du 6 janvier 2005, a aussi été envoyée à l’égard d’un paiement de 32 400 $ fait pour l’année 2005.
+[7] Pièce A-4.
+[8] Pièce A-6.
+[9] Hypothèse de fait à l’alinéa 12i) de la réponse à l’avis d’appel.
+[10] Il semble que la référence au mois de « janvier » soit une coquille, car l’ordonnance alimentaire du juge Fraser indiquait que les paiements devaient être faits d’avril 1999 à juin 2001, une période de 27 mois.
+[11] Pièce A-7.
+[12] Pièce A‑4, lettre, datée du 6 décembre 2004, envoyée à l’appelante par l’avocat de l’ex‑époux.
+[13] Pièce A-6, paragraphe 7.
+[14] [1956] C.T.C. 93, page 94.
+[15] Peterson c. Canada (appel interjeté par Mme Tossell), [2005] A.C.F. no 1062, paragraphe 36 (C.A.F.).
+[16] Ibid., paragraphe 48.
+[17] [1985] 1 C.T.C. 49 (C.A.F.) et Peterson c. Canada (appel interjeté par Mme Tossell), précité.
+[18] Sills, précité, page 52.

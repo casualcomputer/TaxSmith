@@ -1,0 +1,97 @@
+Title: Bergman v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29807/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-262-29807-bergman-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2010-05-13
+
+# Bergman v. M.N.R.
+
+- Citation: 2010 TCC 262
+- Decision date: 2010-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6613, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bergman v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-13
+Neutral citation
+2010 TCC 262
+File numbers
+2008-2014(EI)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2008-2014(EI)
+BETWEEN:
+DON BERGMAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 6, 2010, at Timmins, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Michael Ezri
+____________________________________________________________________
+JUDGMENT
+The appeals under the Employment Insurance Act are dismissed in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 13th day of May 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 20010 TCC 262
+Date: 20100513
+Docket: 2008-2014(EI)
+BETWEEN:
+DON BERGMAN,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] This issue in these Employment Insurance (“EI”) appeals is whether Mr. Don Bergman was in insurable employment with 1650639 Ontario Ltd. (“1650639”), operating as Regional Paving, in the periods June through November 2005 and June through November 2006. The appellant’s position is that in 2005 he worked for Regional Paving as an estimator whose function was to generate sales by going door‑to‑door in the Niagara region of Southern Ontario making cold calls at homes and businesses for laneway and parking lot paving and resurfacing. The appellant maintains that in 2006 he did the same work for Regional Paving and, in addition, did preliminary work on the prospect of Regional Paving opening up a division in the Temiskaming region of Northern Ontario after the appellant moved to Swastika from St. Catharines in late 2005.
+[2] Regional Paving operated a paving business for many years in the St. Catharines, Hamilton and Niagara area of Southern Ontario. In the years in question the Regional Paving business was owned by 1650639. According to the appellant, the sole shareholder of 1650639 was an individual who worked on the paving crew, and who, due to his personal circumstances, did not involve himself in the day‑to‑day management or decision making of the Regional Paving business.
+[3] The manager of Regional Paving was the appellant’s brother, Gary Bergman. He controlled the day‑to‑day operations and made the major business decisions for Regional Paving including the hiring of workers. Gary Bergman had run Regional Paving for a number of years including the time prior to its ownership by 1650639. Gary Bergman was charged and pleaded guilty earlier this year to a number of offences under the Employment Insurance Act involving the issuance of false or misleading Records of Employment including one in 2006 involving 1650639 and an individual described as an estimator.
+[4] 1650639 issued Records of Employment to the appellant which he used to apply for EI benefits. It also issued at least one T4 slip to him. However, 1650639 has never filed any tax returns nor were employee withholdings ever remitted. For his part, the appellant did not include all of the T4 income for 2006 in his 2006 tax return.
+[5] The respondent’s position is that the appellant Don Bergman did not do any work in 2005 or 2006 for Regional Paving and that the Records of Employment and other supporting documentation provided set out false information. The respondent maintains that, even if the appellant did do any work for Regional Paving in 2005 or 2006, it was done as an independent contractor and not as an employee. Finally, the respondent maintains that, even if the appellant was an employee of 1650639, such employment was excluded from being insurable employment by virtue of paragraph 5(2)(i) which excludes the employment if the employer and the employee are not dealing at arm’s length.
+[6] The only witness was the appellant. His testimony was not corroborated by anyone else. Neither his brother nor anyone else involved with Regional Paving, including any co‑workers, testified.
+[7] The written evidence tendered by Mr. Bergman is thin. It has been demonstrated to be inconsistent with other documents or answers given by the appellant. Indeed, the appellant has put forward two materially different T4 slips for 2006, one handwritten. He has also put forward differing payslip summaries for 2006 setting out different amounts of withholdings. He gave a materially different answer in testimony as to where he stayed in 2006 when he was in St. Catharines than he gave earlier to Human Resources and Skills Development Canada (“HRSDC”) during its review of his claim. He testified he was paid in cash, however there are no corroborating banking or financial records for him or Regional Paving evidencing withdrawals or deposits or the absence thereof. At his bankruptcy hearing he advised his creditors he was no longer working in October 2006. He told his bankruptcy trustee that he earned a substantially lesser amount from Regional Paving in 2006 than shown on his Record of Employment. Of the many Regional Paving estimates he submitted, only two involved the period he claimed to have worked in 2006. None involved 2005. Most were from the first half of 2006, prior to his alleged period of employment, when he said he worked for free for Regional Paving because that was the best time to get customers. None involved his efforts in the Northern Ontario region where he lived throughout 2006.
+[8] Based upon the evidence before the Court, I am simply unable to conclude that Mr. Bergman was, on a balance of probabilities, an employee of the Regional Paving business of 1650639 in either of the periods in question. Mr. Bergman’s credibility is damaged and put into question by his inconsistent versions of events and inconsistent documents. While helpful credible corroborating evidence from others or from other documents may have helped remedy the situation, none was offered. For this reason, I must dismiss Mr. Bergman’s appeals.
+[9] In any event, I am satisfied that, even if Mr. Bergman did the work he described for Regional Paving, or some of it, it did not constitute insurable employment since it was done as an independent contractor and not as an employee. The most telling consideration in this case is that there is no evidence of any degree of control being exercised by the payor with respect to the work arrangements or work schedule. He alone decided when he would work at all and when he would be on leave. He alone decided when he would work in St. Catharines and when he would work in Temiskaming. The absence of control leans heavily towards independent contractor status on the facts of this case. Mr. Bergman described how he enhanced his net income from his work by controlling his transportation costs since they were not reimbursed and he was paid a flat weekly amount. He said this was particularly important in 2006 when he was covering a large area in Northern Ontario as well as working at Regional Paving in Southern Ontario. This too points towards independent contractor not employee. There was no evidence of any shared intention of the parties to establish an employment arrangement at the outset. Thus, the intention consideration is not helpful in the case. Few tools were needed for the work: Mr. Bergman used Regional Paving forms for providing estimates however he used his vehicle and his own phone neither of which was reimbursed. A consideration of the ownership of tools leans slightly towards independent contractor as well.
+[10] Lastly, I must add that the evidence in this case put forward and developed by the respondent in support of its non‑arm’s length relationship argument is woefully insufficient to establish a finding of factual non‑arm’s length for purposes of the Income Tax Act (“ITA”), which is the test specified in paragraph 5(2)(i) of the Employment Insurance legislation. The meaning of de facto non‑arm’s length has been carefully developed by the courts in jurisprudence involving the ITA. It is not to be reduced to a quick judicial scratch and sniff test in EI matters.
+[11] The appeals are dismissed.
+Signed at Ottawa, Canada, this 13th day of May 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 262
+COURT FILE NO.: 2008-2014(EI)
+STYLE OF CAUSE: DON BERGMAN v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Timmins, Ontario
+DATE OF HEARING: April 6, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: May 13, 2010
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Michael Ezri
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,215 @@
+---
+title: "White v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/461002/index.do"
+last_modified: "2020-02-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 22"
+citation2: ""
+neutral_citation: "2020 TCC 22"
+decision_date: "2020-02-04"
+language: "en"
+item_id: "461002"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4260
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:11:01.100000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c8d9b901c6486e68969a34bb11c871d2306d585567aa571c5c6d4693ac9373cd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# White v. The Queen
+
+- Citation: 2020 TCC 22
+- Decision date: 2020-02-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4260, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+White v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-02-04
+Neutral citation
+2020 TCC 22
+File numbers
+2017-2995(IT)G, 2017-2997(GST)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2017-2995(IT)G
+2017-2997(GST)G
+BETWEEN:
+TAMMY WHITE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence on October 22, 2019
+at Vancouver, British Columbia
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+Counsel for the Appellant:
+Michael Gemmiti
+Counsel for the Respondent:
+Gregory B. King
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+1. The appeal with respect to an assessment made under subsection 160(1) of the Income Tax Act is allowed, and the assessment is vacated;
+2. The appeal with respect to an assessment made under subsection 325(1) of the Excise Tax Act is allowed, and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant’s liability under subsection 325(1) of the Act is $34,052; and
+3. Costs are awarded to the Appellant.
+Signed at Vancouver, British Columbia, this 4th day of February 2020.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2020 TCC 22
+Date: 20200204
+Dockets: 2017-2995(IT)G
+2017-2997(GST)G
+BETWEEN:
+TAMMY WHITE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] These appeals raise the issue of whether the deposit of funds by a person into a bank account that is held jointly with the person’s spouse constitutes a transfer of property for the purposes of section 160 of the Income Tax Act and section 325 of Part IX of the Excise Tax Act (the “GST Act”).
+[2] On March 1, 2016, the Appellant was assessed $49,962.45 under section 160 of the Income Tax Act and $90,886.35 under section 325 of the GST Act. The Appellant has appealed both assessments to this Court. The assessments relate to amounts that the Appellant’s spouse, Andy White, allegedly transferred to the Appellant between March 15, 2013 and October 30, 2015.
+[3] The parties filed with the Court a partial agreed statement of facts (the “PASF”), which is attached as Schedule A to these reasons for my judgment. Paragraph 17 of the PASF states that, on March 26, 2014, Mr. White entered into a consumer proposal under the Bankruptcy and Insolvency Act (the “Proposal”).
+[4] At the commencement of the hearing, counsel for the Respondent informed the Court that the Respondent accepts the Appellant’s argument that any purported transfers made after the date of the Proposal are beyond the scope of the assessments in issue in this appeal. As a result, counsel for the Respondent informed the Court that the appeal under section 160 of the Income Tax Act should be allowed in full. Counsel for the Respondent also informed the Court that it should reduce the Minister’s assessment under section 325 of the GST Act to $89,806.72, being the amount that Mr. White purportedly transferred to the Appellant between March 15, 2013 and March 26, 2014.
+I. Summary of Facts
+[5] The Appellant and Mr. White have been married since 1984. Since the time of their marriage, the Appellant and Mr. White have had a joint bank account at TD Canada Trust bearing account number xxx7269 (the “Joint Bank Account”).
+[6] For the last 35 years, the Appellant and Mr. White have used the Joint Bank Account to pay their personal expenses and the expenses of their family.
+[7] From a very young age, Mr. White worked as a logger in British Columbia. He worked for White & Davidson Logging Limited (the “Company”). When he began working for the Company, his father and a third party owned it. In 1993, Mr. White and his brother purchased the 50% of the Company owned by their father.
+[8] The Company began to experience financial difficulties in 2004 because of weakness in the British Columbia forestry industry and a government-mandated reduction in cutting rights. These difficulties lead to the company selling its assets in 2006 and ceasing to carry on its business. At the time the Company ceased to carry on its business, it had not remitted all amounts it had withheld as source deductions and amounts it owed as net tax under the GST Act.
+[9] In 2006, as a result of the Company’s financial difficulties, the Appellant sold the home that she lived in with her family (the “old family home”). She had inherited the home from her father. The Appellant used approximately $500,000 of the proceeds realized on the sale of the old family home to pay off a line of credit that was secured by the home. Mr. White had used the line of credit to make capital contributions to the Company.
+[10] The Appellant used the majority of the remaining proceeds from the sale of the old family home to purchase a smaller home in Langley, B.C., which became, and continues to be, her family’s home.
+[11] On August 25, 2009, the Minister assessed Mr. White, as a director of the Company, for unremitted source deductions, penalties and interest under section 227.1 of the Income Tax Act and for net tax, penalties and interest under subsection 323(1) of the GST Act.
+[12] It appears that Mr. White was not able to find full-time employment until March 2013, when he began working for a company called Seaspan ULC (“Seaspan”) as a log barge superintendent. Between March 15, 2013 and March 26, 2014 (the date of the Proposal), Mr. White deposited into the Joint Bank Account $89,806.72 received as remuneration from his Seaspan employment.
+[13] As of March 1, 2016 (the date the Minister assessed the Appellant), Mr. White owed $49,962.45 in respect of his assessment under section 227.1 of the Income Tax Act and $90,886.35 in respect of his assessment under subsection 323(1) of the GST Act.
+[14] In the late 1990’s, the Appellant opened in her name at TD Canada Trust a bank account bearing account number xxx3561 (the “Appellant’s Bank Account”). At the time she opened the bank account she was receiving a salary of $500 per month from the Company. She testified that she deposited this monthly salary into her bank account (i.e., the Appellant’s Bank Account) and then used the funds to purchase items for her children and herself.
+[15] Between March of 2013 and May of 2015, the Appellant worked at a local Target store. The Appellant also deposited the wages from this employment into the Appellant’s Bank Account and used the funds to pay expenses of the family.
+[16] As I will discuss, during the relevant period, amounts were transferred from the Joint Bank Account to the Appellant’s Bank Account. The Appellant testified that she used the transferred funds to pay family expenses.
+[17] The Appellant admitted during cross-examination that mortgage payments in relation to the family home located in Langley, B.C. were paid out of the Joint Bank Account. As discussed previously, the Appellant was the sole owner of the family home. The Appellant also acknowledged that she used funds from the Joint Bank Account to pay for utilities and insurance in respect of the family home and to pay the insurance in respect of certain vehicles that she owned. She noted that she made the insurance payments at six-month intervals.
+II. The Law
+[18] Subsection 325(1) of the GST Act reads as follows:
+Where at any time a person transfers property, either directly or indirectly, by means of a trust or by any other means, to
+(a) the transferor's spouse or common-law partner or an individual who has since become the transferor's spouse or common-law partner,
+(b) an individual who was under eighteen years of age, or
+(c) another person with whom the transferor was not dealing at arm's length,
+the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Part an amount equal to the lesser of
+(d) the amount determined by the formula
+A – B
+where
+A is the amount, if any, by which the fair market value of the property at that time exceeds the fair market value at that time of the consideration given by the transferee for the transfer of the property, and
+B is the amount, if any, by which the amount assessed the transferee under subsection 160(2) of the Income Tax Act in respect of the property exceeds the amount paid by the transferor in respect of the amount so assessed, and
+(e) the total of all amounts each of which is
+(i) an amount that the transferor is liable to pay or remit under this Part for the reporting period of the transferor that includes that time or any preceding reporting period of the transferor, or
+(ii) interest or penalty for which the transferor is liable as of that time,
+but nothing in this subsection limits the liability of the transferor under any provision of this Part.
+[19] Subsection 160(1) of the Income Tax Act applies on the same basis as subsection 325(1) of the GST Act. The relevant portion of section 160 of the Income Tax Act reads as follows:
+Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to
+(a) the person's spouse or common-law partner or a person who has since become the person's spouse or common-law partner,
+(b) a person who was under 18 years of age, or
+(c) a person with whom the person was not dealing at arm's length,
+the following rules apply:
+. . .
+(e) the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act (including, for greater certainty, an amount that the transferor is liable to pay under this section, regardless of whether the Minister has made an assessment under subsection (2) for that amount) in or in respect of the taxation year in which the property was transferred or any preceding taxation year,
+but nothing in this subsection limits the liability of the transferor under any other provision of this Act or of the transferee for the interest that the transferee is liable to pay under this Act on an assessment in respect of the amount that the transferee is liable to pay because of this subsection.
+[20] The Federal Court of Appeal noted in The Queen v. Livingston, [1] at paragraph 17, that the following four criteria should be applied when considering subsection 160(1):
+1) The transferor must be liable to pay tax under the Act at the time of transfer;
+2) There must be a transfer of property, either directly or indirectly, by means of a trust or by any other means whatever;
+3) The transferee must either be:
+i. The transferor’s spouse or common-law partner at the time of transfer or a person who has since become the person’s spouse or common-law partner;
+ii. A person who was under 18 years of age at the time of transfer; or
+iii. A person with whom the transferor was not dealing at arm’s length.
+4) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee.
+The four criteria apply equally to subsection 325(1) of the GST Act.
+[21] Under both subsection 325(1) of the GST Act and subsection 160(1) of the Income Tax Act, a transferee of property is potentially liable for the amount by which the fair market value of the consideration given for the transferred property is less than the fair market value of the transferred property.
+[22] One of the purposes of subsection 325(1) of the GST Act and subsection 160(1) of the Income Tax Act is to prevent a taxpayer from transferring his property to his spouse in order to thwart the Minister’s efforts to collect the tax that is owed by him. The two subsections act as an important collection tool because they “[thwart] attempts to move money or other property beyond the tax collector’s reach by placing it in presumably friendly hands.” [2]
+III. Issue before the Court
+[23] The PASF states that Mr. White was liable to pay $90,886.35 under the GST Act and that the Appellant was and is Mr. White’s spouse. In closing argument, counsel for the Appellant stated that the Appellant gave no consideration to Mr. White for the transfer of any property.
+[24] Therefore the only issue before the Court is whether the second criterion has been satisfied, that is whether there was a transfer of property from Mr. White to the Appellant, either directly or indirectly, by means of a trust or by any other means whatever.
+[25] The Respondent argues that a transfer of property occurred at the time Mr. White deposited his remuneration from Seaspan into the Joint Bank Account. As noted previously, during the relevant period Mr. White deposited $89,806.72 of that remuneration into the Joint Bank Account.
+[26] The Appellant argues that a transfer did not occur when Mr. White deposited the funds into the joint bank account since Mr. White still had control of the funds and they could be seized by the CRA or some third party.
+IV. Disposition of the Appeal
+[27] In the often-quoted decision Fasken Estate v. Minister of National Revenue, [1948] Ex. C.R. 580 at 592, [1948] C.T.C. 265 at 279, [3] Thorson P. said:
+The word "transfer" is not a term of art and has not a technical meaning. It is not necessary to a transfer of property from a husband to his wife that it should be made in any particular form or that it should be made directly. All that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her. The means by which he accomplishes this result, whether direct or circuitous, may properly be called a transfer.
+[28] In my view, applying Fasken Estate, the mere placing of funds in a joint bank account does not constitute a transfer. Mr. White did not divest himself of the funds when he deposited them into the Joint Bank Account. He continued to have full access to the funds in the account. In fact, the evidence before me is that Mr. White, as he had done since 1984, used the funds to pay his personal expenses and certain expenses of his family.
+[29] The Federal Court of Appeal noted in Livingston (at paragraph 18) that the purpose of subsection 160(1) of the Income Tax Act “is especially crucial to inform the application of [the four] criteria.” As I noted previously, one of the purposes of subsection 325(1) of the GST Act, which has the same purpose as subsection 160(1) of the Income Tax Act, is to prevent the thwarting of the Minister’s efforts to collect the tax that is owed to her. Mr. White did not defeat or in any way hinder the Minister’s efforts to collect any tax he owed by placing his remuneration in the Joint Bank Account. The Minister could have taken collection action with respect to funds in the Joint Bank Account. For example, the evidence before me was that the Joint Bank Account was garnished at some point in time by a third party to pay off a debt of Mr. White.
+[30] Once the funds were placed in the Joint Bank Account, the Appellant had the ability to effect a transfer; however, such transfer did not occur until the Appellant removed the funds from the account.
+[31] My conclusion is consistent with this Court’s decision in White v. The Queen. [4] In that appeal, Judge Mogan, relying on Tevine v. Tevine [1953] 2 D.L.R. 125, Re Hodgson (1921), 67 D.L.R. 252 and Banff Park Savings & Credit Union Ltd. v. Rose et al. (1982), 139 D.L.R. (3d) 764, found at pages 2541 – 42 that the deposit of funds by a husband into a joint bank account with his spouse did not constitute a transfer of property for the purposes of section 160 of the Income Tax Act. However, he did find that there was a transfer of property when the spouse subsequently used the funds to pay off a mortgage on a home that she owned alone.
+[32] My decision is also consistent with the Federal Court of Appeal’s decision in Yates. In Yates, the Court of Appeal accepted this Court’s finding that a transfer of property occurred when Mr. Yates divested himself of property by removing his name from two joint bank accounts. As counsel for the Appellant noted, this implies that a transfer did not occur when Mr. Yates deposited amounts into the joint bank accounts, but rather only occurred when he subsequently divested himself of the right to the money in the bank accounts by removing his name from those joint bank accounts.
+[33] In the current appeal, the evidence before me is that, between March 1, 2013 and March 26, 2014, Mr. White made all of the deposits of funds into the Joint Bank Account, except for $1,200. The Appellant deposited the remaining $1,200 into the Joint Bank Account. As a result, I have concluded that amounts transferred, in excess of $1,200 from the Joint Bank Accounts to the Appellant during the relevant period constitute transfers from Mr. White to the Appellant.
+[34] Although the evidence before me is that funds were transferred from the Joint Bank Account to the Appellant, the Respondent did not provide me with a list of specific transfers from the Joint Bank Account to the Appellant or with the total amount she believes was transferred from the Joint Bank Account to the Appellant. The Respondent should have provided such information to the Court.
+[35] The only evidence provided to the Court was Exhibit A-15, a 260-page document entitled Deposit Account History. This document lists all transactions that occurred in the Joint Bank Account between January 1, 2013 and December 31, 2015.
+[36] The Respondent did not identify the specific transactions in Exhibit A-15 that she believes constitute transfers from Mr. White to the Appellant. Instead, counsel for the Respondent left it to the Court to review the document to determine the amount that the Appellant transferred from the Joint Bank Account. In fact, the Respondent’s counsel noted during his argument that the Canada Revenue Agency had not conducted an analysis with respect to the use of the funds that were deposited into the Joint Bank Account.
+[37] After reviewing the document and considering the limited evidence before me, I have concluded that there are only three categories of transfers from the Joint Bank Account that I can definitively determine were made to the Appellant. Two of these categories involve transfers from the Joint Bank Account to accounts held by the Appellant. The Court of Appeal in Livingston noted that the deposit of funds into another person’s account constitutes a transfer of property.
+[38] The first category of transfers compromises entries in the deposit account history that are referred to as “TFR-TO [xxx]3561”. The Appellant acknowledged on cross-examination that these were transfers from the Joint Bank Account to the Appellant’s Bank Account.
+[39] The second category is entries shown as “TFR-TO [xxx]3388”. The Appellant stated that these entries were for transfers from the Joint Bank account to a line of credit account of the Appellant. The Appellant used the proceeds from the line of credit to purchase a parcel of land that the Appellant and Mr. White had hoped could be used to build a new family home.
+[40] The third category is entries shown as “TD Mortgage”. As I noted previously, the Appellant acknowledged that she used the Joint Bank Account to make the mortgage payments on the family home. The TD Mortgage payments shown in the deposit account history are biweekly payments of $176.92. These payments, in respect of a home owned solely by the Appellant, represent transfers to the Appellant.
+[41] I have determined, after reviewing the first 100 pages of Exhibit A-15, that the total amount transferred to the Appellant prior to March 26, 2014, as evidenced by the three categories (TFR-TO [xxx]3561, TFR-TO [xxx]3388 and TD Mortgage) was $34,052. This represents the amount of property that Mr. White transferred to the Appellant during the relevant period for no consideration. The Appellant is liable for this amount under subsection 325(1) of the GST Act.
+[42] For the foregoing reasons, the appeal with respect to the assessment under subsection 160(1) is allowed and the assessment is vacated. The assessment under subsection 325(1) is also allowed, and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant’s liability under subsection 325(1) of the GST Act is $34,052.
+[43] The Appellant is entitled to her costs.
+Signed at Vancouver, British Columbia, this 4th day of February 2020.
+“S. D’Arcy”
+D'Arcy J.
+CITATION:
+2020 TCC 22
+COURT FILE NOS.:
+2017-2995(IT)G
+2017-2997(GST)G
+STYLE OF CAUSE:
+TAMMY WHITE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+October 22, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT:
+February 4, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Michael Gemmiti
+Counsel for the Respondent:
+Gregory B. King
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Michael Gemmiti
+Firm:
+Remedios & Company
+Vancouver, British Columbia
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2008 FCA 89.
+[2] See Yates v. Canada, 2009 FCA 50, [2010] 1 F.C.R. 436, at paragraphs 13 and 14. (“Yates”).
+[3] For example, the decision has been cited in Yates, Kiperchuk v. The Queen, 2013 TCC 60 and Tétrault v. The Queen, 2004 TCC 332.
+[4] [1995] 1 C.T.C. 2538.

@@ -1,0 +1,202 @@
+Title: Albert v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29058/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-16-29058-albert-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-02-02
+
+# Albert v. The Queen
+
+- Citation: 2009 TCC 16
+- Decision date: 2009-02-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6805, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Albert v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-02
+Neutral citation
+2009 TCC 16
+File numbers
+2008-1465(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1465(IT)I
+BETWEEN:
+ÉRIC ALBERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on November 4, 2008, at Percé, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Gérald Parent
+Counsel for the Respondent:
+Vlad Zolia
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made pursuant to the Income Tax Act for the 2004 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of February 2009.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 17th day of March 2009.
+Bella Lewkowicz, Translator
+Citation: 2009 TCC 16
+Date: 20090202
+Docket: 2008-1465(IT)I
+BETWEEN:
+ÉRIC ALBERT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal under the Informal Procedure from a reassessment made in regard to the Appellant with respect to the 2004 taxation year (the year concerned). In the reassessment, the Minister of National Revenue (the Minister) disallowed the Appellant’s investment tax credit of $13,178.50 (the credit) that he claimed for the 2004 taxation year pursuant to subsection 127(5) of the Income Tax Act (the Act).
+Background
+[2] During the year concerned, the Appellant was operating a dentistry business in the Carleton region of the province of Quebec. On December 17, 2004, the Appellant purchased a CEREC 3D from Sirona (the property).
+[3] The property, purchased for $147,815.30, was composed of the following elements:
+Software (before taxes):
+$42,918.55
+Imager (before taxes):
+$43,341.39
+Milling unit (before taxes):
+$61,735.06
+Credit:
+($10,809.70)
+Total
+$137,185.30
+[4] The Appellant allocated the purchase credit as follows:
+Cost
+Credit
+Total
+Software
+$42,918.55
+$3,134.81
+$39,783.74
+Imager and milling unit
+$105,076.45
+$7,164.89
+$97,401.56
+Total
+$147,076.45
+($10,809.70)
+$137,185.30
+[5] The Appellant included the software in Class 12 and the two other components (imager and milling unit) in Class 8 of the CCA schedule for the year concerned.
+[6] The Appellant claimed a $13,718.50 credit for the purchase of the property for the year concerned.
+[7] The property is a precision instrument used for dental restoration. The property is used to make ceramic fillings and crowns. The property uses an image of the patient’s tooth to accurately determine and mill the ceramic. It works using an image of the tooth and mills the restoration material accordingly.
+[8] The evidence revealed the following:
+i) the goods (fillings and crowns) made by the property, and the Appellant’s services for placing them, were billed separately to the patient[1];
+ii) the cost of the filling or the crown billed to the patient was always lower than the fees billed to the patient by the Appellant for placing the filling or the crown;
+iii) pursuant to the laws in force in Quebec, only a dentist is authorized to place fillings and crowns made by the property in a patient’s mouth;
+iv) 20% of the goods (fillings and crowns) made by the property were sold to another dentist.
+Issue
+[9] The only issue consists in determining whether the imager and milling unit included in Class 8 of the Appellant’s CCA schedule for the year concerned is property the Appellant used primarily for the purpose of manufacturing or processing goods for sale or lease. In fact, the Appellant is no longer contesting the fact that the Minister was entitled to disallow the credit with respect to the software as Class 12 property does not qualify as prescribed machinery or equipment pursuant to the definition of “qualified property” for the purposes of the investment tax credit in subsection 127(9) of the Act.
+Appellant’s position
+[10] In his argument, the Appellant essentially reiterated his position in his Notice of Appeal, the relevant portion of which reads as follows:
+[TRANSLATION]
+…
+I consider the property (CEREC 3D), which cost $97,166, is qualified property for the purposes of the investment tax credit. The tax credit clamed is $9,717.
+The CEREC 3D is a precision instrument for the manufacture of entirely ceramic restorations (inlays, onlays, veneers and partial and full crowns from anterior and posterior blocks). The instrument uses the image of a patient’s tooth. Based on the buccal-dental parameters, the CEREC 3D manufactures the property that will be sold to the patient.
+Previously, I had to buy this made-to-measure property from a private laboratory on behalf of my patient. Upon receipt of this property, I would restore the patient’s tooth. I billed my dentist fees and the crown as separate items on the invoice.
+Now I make the crown myself. Once the property is manufactured, I can restore the patient’s tooth. As I did previously, I bill my dentist fees and the crown separately. You will find enclosed copies of invoices showing that the crown is always billed separately. Therefore, the patient is buying a crown and using my services for placing it. Moreover, I use this same instrument to make crowns that are sold to other dentists.
+A private laboratory that manufactures crowns is obviously manufacturing goods for sale. Even if the crown is made to measure for a specific patient (or, more precisely, a tooth), it is clear that the CEREC 3D is property that qualifies for the tax credit. Even if the laboratory makes dental restoration material from and for the tooth of an Éric Albert patient, it is clear that this property is meant to be sold. When the crown is made, the patient is not present. We do not work on the patient’s tooth but on an impression of the patient’s tooth.
+In the same way, all the material that is manufactured by the CEREC 3D, which now belongs to Éric Albert, does not change anything for the patient. He/she buys a good (a crown) and pays me fees to have it placed. The crown is therefore a good for sale. When I was buying the crown from a laboratory, the crown was intended to be sold to a patient. If that were not the case, I would never have bought the crown from this laboratory. The fact that I now have a (CEREC 3D) does not change this. The crown is still intended to be sold to a patient. The only difference is that the manufacturing is done in my clinic. It is the same machine CEREC 3D that manufactures the good in a private laboratory where I procured this good destined for sale to my patient.
+Moreover, you will find enclosed the separate code of the Association des chirugiens dentistes du Québec, which clearly shows that we bill and sell to patients goods manufactured in a laboratory. We also use this code to claim dental insurance for this good that we have sold to the patient under the heading of “laboratory fees”. The code is the same and good is the same, regardless of whether the good that is being sold comes from a private CEREC 3D laboratory or a CEREC 3D laboratory in a dental clinic.
+For these reasons, we think that the CEREC 3D is qualified property for the purposes of the investment tax credit. This is why we are requesting that you adjust the Notice of Assessment for 2004 and allow the credit as claimed.
+…
+Analysis and conclusion
+[11] The relevant provisions of the Act and its regulations read as follows:
+Subsection 127(5) of the Act
+127(5) Investment tax credit -- There may be deducted from the tax otherwise payable by a taxpayer under this Part for a taxation year an amount not exceeding the lesser of
+(a) the total of
+(i) the taxpayer’s investment tax credit at the end of the year in respect of property acquired before the end of the year, of the taxpayer’s apprenticeship expenditure for the year or a preceding taxation year, of the taxpayer’s child care space amount for the year or a preceding taxation year, of the taxpayer’s flow-through mining expenditure for the year or a preceding taxation year, of the taxpayer’s pre-production mining expenditure for the year or a preceding taxation year or of the taxpayer’s SR&ED qualified expenditure pool at the end of the year or at the end of a preceding taxation year, and
+(ii) the lesser of
+(A) the taxpayer’s investment tax credit at the end of the year in respect of property acquired in a subsequent taxation year, of the taxpayer’s apprenticeship expenditure for a subsequent taxation year, of the taxpayer’s child care space amount for a subsequent taxation year, of the taxpayer’s flow-through mining expenditure for a subsequent taxation year, of the taxpayer’s pre-production mining expenditure for a subsequent taxation year or of the taxpayer’s SR&ED qualified expenditure pool at the end of the subsequent taxation year to the extent that an investment tax credit was not deductible under this subsection for the subsequent taxation year, and
+(B) the amount, if any, by which the taxpayer’s tax otherwise payable under this Part for the year exceeds the amount, if any, determined under subparagraph 127(5)(a)(i), and
+(b) where Division E.1 applies to the taxpayer for the year, the amount, if any, by which
+(i) the taxpayer’s tax otherwise payable under this Part for the year
+exceeds
+(ii) the taxpayer’s minimum amount for the year determined under section 127.51.
+Subsection 127(9) of the Act
+127 (9) Idem – In this section,
+…
+“qualified property” of a taxpayer means property (other than an approved project property or a certified property) that is
+…
+(b) prescribed machinery and equipment acquired by the taxpayer after June 23, 1975,
+that has not been used, or acquired for use or lease, for any purpose whatever before it was acquired by the taxpayer and that is
+(c) to be used by the taxpayer in Canada primarily for the purpose of
+(i) manufacturing or processing goods for sale or lease,
+…
+…for the purpose of this definition, “Canada” includes the offshore region prescribed for the purpose of the definition “specified percentage”;
+Regulation 4600
+4600. Qualified property
+…
+(2) [Prescribed machinery] -- Property is prescribed machinery and equipment for the purposes of the definition "qualified property" in subsection 127(9) of the Act if it is depreciable property of the taxpayer (other than property referred to in subsection (1)) that is
+…
+(c) a property included in Class 8 in Schedule II (other than railway rolling stock);
+…
+Class 8 -- (20 per cent)
+Property not included in Class 1, 2, 7, 9, 11, 17 or 30 that is
+(a) a structure that is manufacturing or processing machinery or equipment;
+…
+Class 12 -- (100 per cent)
+Property not included in any other class that is
+…
+(o) computer software acquired after May 25, 1976, but not including systems software or property acquired after August 8, 1989 and before 1993 that is described in paragraph (s);
+…
+[12] The relevant provisions of the Civil Code of Quebec (CCQ) for the purpose of this case are articles 1708, 2098 and 2103. Article 1708 defines sale as follows:
+1708. Sale is a contract by which a person, the seller, transfers ownership of property to another person, the buyer, for a price in money which the latter obligates himself to pay.
+A dismemberment of the right of ownership, or any other right held by the person, may also be transferred by sale.
+[13] Article 2098 of the CCQ defines a contract for services as follows:
+2098. A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the patient or to provide a service, for a price which the patient binds himself to pay.
+[14] The third paragraph of article 2103 of the CCQ outlines the criterion by which a contract of sale is distinguished from a contract for services. It reads as follows:
+A contract is a contract of sale, and not a contract of enterprise or for services, where
+the work or service is merely accessory to the value of the property supplied.
+[15] We need to answer the following questions:
+1) Is the filling or crown in this case actually the object of a contract of sale?
+2) Is the filling or the crown instead provided to the Appellant’s patients as part of a contract for services, that is, as part of a request for dental services by a patient?
+[16] The fact that the Appellant’s patients are billed separately for the materials and the work for placing these materials does not necessarily lead to the conclusion that the parties actually entered into two separate contracts: a contract of sale and a contract for services. In my opinion, the Appellant and his patients entered into only one contract. The separate billing for materials and placement services is aimed at masking the true contractual relationship between the parties and especially to meet the needs of insurers of patients with respect to separate billing. It is hard to imagine a patient wanting to buy a crown without the placement services, especially given that a dentist is the only individual capable and authorized, by virtue of Quebec law, to place the crown. In other words, the crown in itself cannot be a consumer good for a dentist’s patient. The purchase of a crown without the purchase of the service to have it placed by a dentist simply does not make sense.
+[17] Because I am of the opinion that the Appellant and his patients had only one contract, it must now be determined whether it was a contract of sale or a contract for services. According to Will-Kare Paving & Contracting Ltd. v. Canada, [2000] S.C.R. 915, 2000 S.C.C. 36, it must be assumed that Parliament, in speaking of the concept of sale in paragraph 12(9)(c) of the Act, wanted it to be interpreted by reference to the general law of sale. In my opinion, the concept of “sale” must be analyzed with respect to Quebec civil law when the applicable law is Quebec’s. In this regard, it is sufficient to consult the Federal Court of Appeal decision in St‑Hilaire v. Canada, [2004] 4 F.C. 289 (F.C.A.) and section 8.1 of the Interpretation Act (R.S.C. 1985, c. I-21). The relevant provisions of the CCQ show us that in essence, we are in the presence of a contract of sale when the work is merely accessory to the value of the materials. In his work, author Pierre Gabriel Jobin writes the following: [TRANSLATION] “For a sale to exist, there must be evidence that the difference between the respective value of the labour and the materials is so considerable that the labour is not perceived as an accessory”. The evidence revealed in this case that the value of the labour was always higher than that of the materials, so it must be concluded the parties had a contract for services, as the property was not used by the Appellant primarily for the purpose of manufacturing or processing goods for sale or lease. As a result, we must conclude that the property was not “qualified property” for the purposes of the Appellant’s claim for credits for the year concerned.
+[18] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 2nd day of February 2009.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 17th day of March 2009.
+Bella Lewkowicz, Translator
+CITATION: 2009 TCC 16
+COURT FILE NO.: 2008-1465(IT)I
+STYLE OF CAUSE: ÉRIC ALBERT and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Percé, Quebec
+DATE OF HEARING: November 4, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: February 2, 2009
+APPEARANCES:
+Agent for the Appellant:
+Gérald Parent
+Counsel for the Respondent:
+Vlad Zolia
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Exhibit A-1.

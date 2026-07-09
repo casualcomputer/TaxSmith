@@ -1,0 +1,162 @@
+---
+title: "Ampomah c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72950/index.do"
+last_modified: "2014-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 217"
+citation2: ""
+neutral_citation: "2014 CCI 217"
+decision_date: "2014-07-09"
+language: "fr"
+item_id: "72950"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5336
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:50:14.721000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "56e3eb8871eac7cea1feb4fb4024a420a67425fe89273f275553f7fa328a2d57"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ampomah c. La Reine
+
+- Citation: 2014 CCI 217
+- Decision date: 2014-07-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5336, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ampomah c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-07-09
+Référence neutre
+2014 CCI 217
+Numéro de dossier
+2013-1050(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2014 CCI 217
+Date : 20140709
+Dossier : 2013-1050(IT)I
+ENTRE :
+NANA AMPOMAH,
+appelante
+et
+SA MAJESTÉ LA REINE,
+Intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT RENDUS ORALEMENT
+(Rendus oralement à l’audience le 18 juin 2014, à Ottawa (Ontario).)
+Le juge Bocock
+I. Introduction [1] L’appelante, Nana Ampomah, interjette appel de la nouvelle cotisation établie pour l’année 2006 par le ministre et par laquelle il lui refusait un crédit d’impôt pour don de bienfaisance. Dans sa réponse, le ministre affirme que le reçu pour don de bienfaisance attestant le don n’est pas conforme à l’article 3501 du Règlement de l’impôt sur le revenu (le « Règlement ») comme l’exige l’article 118.1 de la Loi de l’impôt sur le revenu (la « Loi »). En outre, le ministre fait valoir que les dons de bienfaisance en espèces, de 18 200 $ comme il est indiqué sur le reçu pour don de bienfaisance émanant du Jesus Healing Center, n’ont jamais été faits par l’appelante.
+[2] La preuve orale de l’intimée et ses observations ont été entendues par la Cour selon des modalités communes conjointement avec la preuve et les observations présentées dans les affaires de Pauline McCalla et de Howard McCalla, les dossiers de la Cour étant 2013-1753(IT)I et 2013-1757(IT)I respectivement. Des motifs de jugement distincts ont été préparés et rendus à l’égard de ces appels.
+II. Les faits [3] Mme Ampomah a témoigné pour son propre compte. Dans son témoignage, elle a affirmé qu’elle assistait au service religieux du dimanche du Jesus Healing Center deux fois par mois depuis la veille du Nouvel An de l’année 2005. Au cours de l’année 2006, elle assistait au service le dimanche, habituellement pour une durée de trois heures, si elle ne travaillait pas ce jour‑là. Mme Ampomah ne se souvient pas que l’immeuble qui abritait le Jesus Healing Center possédait un second étage. Ce fait a pris une tournure litigieuse au vu du témoignage rendu par le témoin de l’intimée. Elle affirme qu’elle déposait ses dons bimensuels dans une enveloppe prévue à cet effet et sur laquelle le nom de l’église était imprimé, un espace blanc permettant au donateur d’inscrire son nom. Elle faisait don de toutes les sommes en espèces qu’elle avait en main, habituellement 100 $ environ, en plus des dons que des membres de sa famille faisaient à même l’argent qu’elle leur donnait à cette fin. Elle ne pouvait se rappeler s’il existait d’autres églises auxquelles elle avait fait des dons, avant ou après la période de 2006.
+[4] Mme Ampomah a également déposé des relevés bancaires qui indiquaient qu’elle avait retiré de sa banque des sommes en espèces totalisant 19 020 $ au cours de l’année 2006. Chaque écriture apparaissait comme un [traduction] « retrait au guichet automatique » sur les relevés. Mme Ampomah a affirmé que les retraits n’étaient pas pour son usage quotidien, mais servaient exclusivement aux dons en espèces faits au Jesus Healing Center.
+[5] En 2006, Mme Ampomah a touché un revenu net de 88 713 $. La somme de ces dons de bienfaisance, 18 200 $, aurait représenté 21 pour cent de son revenu net pour cette année‑là. Au cours de cette même année, elle avait aussi d’autres obligations financières : elle était mariée et avait deux enfants âgés de deux ans et d’un an à l’époque.
+[6] Les reçus officiels de dons comportaient certaines lacunes :
+a) le nom de l’œuvre de bienfaisance comportait une faute d’orthographe : à savoir, « Center » par opposition à Centre (son nom officiel ainsi qu’il est enregistré auprès du ministre) ;
+b) la date de délivrance du reçu n’apparaissait pas;
+c) le lieu ou l’endroit où le reçu avait été délivré n’apparaissait pas;
+d) enfin, il n’y avait aucune mention indiquant que le reçu était « un reçu officiel aux fins de la Loi de l’impôt sur le revenu ».
+[7] Outre le témoignage de Mme Amponah, le témoignage d’un certain M. Huenemoeder, chef d’équipe de l’ARC chargé de la vérification des organismes de bienfaisance, indiquait que le Jesus Healing Center ne possédait aucun livre comptable ni aucun relevé dignes de mention et avait délivré des reçus pour dons pour un montant de trois millions de dollars en un peu plus de deux ans, mais n’avait déposé que 18 000 $ dans ses comptes bancaires au cours de la même période. Les pasteurs du Jesus Healing Center, au cours d’une entrevue avec le chef d’équipe de la vérification des organismes de bienfaisance, ont admis que le Jesus Healing Center n’avait jamais reçu la moindre somme s’approchant de trois millions de dollars et que les reçus pour dons de bienfaisance étaient fabriqués. Bien que des dons de bienfaisance aient été reçus, les montants représentaient une petite fraction (moins de 7 %) des montants pour lesquels des reçus avaient été délivrés. Aucune enveloppe servant aux dons, carnet de reçus ou autre élément de preuve démontrant que des dons avaient été faits n’ont été déposés ou divulgués au cours de la vérification de l’ARC. Aucun des quelque 400 supposés donateurs n’a pu fournir de preuve de quelque nature étayant l’existence des dons.
+III. Les observations de l’appelante [8] L’appelante a soumis les observations suivantes :
+a) Mme Ampomah a mentionné qu’elle avait fait don de tout l’argent de bonne foi;
+b) elle a mentionné qu’elle ignorait ce qu’il advenait des sommes ainsi données ou pourquoi le Jesus Healing Center ne disposait pas d’une tenue des comptes adéquate; finalement,
+c) elle a mentionné que ses relevés bancaires faisaient état des retraits des sommes qu’elle a versées à titre de dons de bienfaisance et que cette preuve devrait suffire à la Cour.
+IV. Le droit en général [9] La Cour traitera d’abord de l’affirmation de l’appelante suivant laquelle elle a simplement fait don de l’argent, obtenu le reçu, n’en savait pas davantage et ne devrait pas être punie pour sa bonne foi et sa confiance dans un système dont elle n’était pas l’auteure ou qu’elle ne contrôlait pas.
+[10] La Loi prévoit ce qui suit :
+L’alinéa 118.1 (2)a) de la Loi se lit ainsi :
+118.1(2) Pour que le montant admissible d’un don soit inclus dans le total des dons de bienfaisance, le total des dons à l’État, le total des dons de biens culturels ou le total des dons de biens écosensibles, le versement du don doit être attesté par la présentation au ministre des documents suivants :
+a) un reçu contenant les renseignements prescrits;
+[…]
+[11] Par ailleurs, le paragraphe 3501(1) du Règlement énonce les renseignements qui doivent apparaître au reçu pour don de bienfaisance, les dispositions pertinentes au présent appel étant les suivantes :
+3501(1) Tout reçu officiel délivré par une organisation enregistrée doit énoncer qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement, les détails suivants :
+a) le nom et l’adresse au Canada de l’organisation ainsi qu’ils sont enregistrés auprès du ministre;
+[…]
+d) le lieu ou l’endroit où le reçu a été délivré;
+e) […]
+f) la date de délivrance du reçu si ce jour diffère du jour visé à l’alinéa d) ou e);
+g) le nom et l’adresse du donateur, y compris, dans le cas d’un particulier, son prénom et son initiale;
+[…]
+[12] Plusieurs décisions de la Cour ont déclaré sans équivoque qu’en l’absence des renseignements prescrits mentionnés précédemment, le reçu pour don est invalide aux termes du paragraphe 118.1(2) et du Règlement qui énonce que ces renseignements doivent apparaître au reçu pour don. Cela ressort d’une décision récente de la Cour, Sowah c Canada, 2013 CCI 297, où le juge C. Miller écrit :
+[16] […]
+Il ressort clairement de la jurisprudence que ces exigences sont obligatoires et qu’elles doivent être rigoureusement respectées (voir par exemple les affaires Afovia c La Reine, Sklowdowski c La Reine et Plante c Canada).
+[17] […] Tout d’abord, le reçu ne contient pas d’énoncé indiquant qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu. Dans la décision Ehiozomwangie c R, la juge Campbell a précisé que l’exigence selon laquelle le reçu devait indiquer qu’il s’agissait d’un reçu officiel aux fins de l’impôt sur le revenu était l’une des exigences obligatoires. Je suis du même avis. Il n’y a pas meilleure garantie pour un contribuable que de voir sur le reçu l’indication qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu. Le fait que le reçu ne satisfait pas à cette simple exigence jette des doutes sérieux sur son authenticité. Il s’agit d’une exigence obligatoire qui n’a pas été satisfaite en l’espèce.
+[18] Ensuite, la date de délivrance du reçu est une autre simple exigence. Aucune date ne figure sur le reçu de Mme Sowah, on y voit seulement l’année (janvier à décembre 2006). Encore une fois, il s’agit d’une exigence obligatoire qui n’a tout simplement pas été satisfaite.
+[19] Enfin, le reçu doit indiquer le lieu ou l’endroit où le reçu a été délivré. Il s’agit d’une exigence distincte de celle de l’adresse de l’organisation ainsi qu’elle est enregistrée auprès du ministre. Dans la présente affaire, bien que nous puissions supposer que l’adresse de l’organisation est la même que celle du lieu où le reçu a été délivré, on ne devrait pas avoir à faire de suppositions. Il y a peut-être plusieurs organisations appelées Jesus Healing Center un peu partout à Toronto. Le reçu doit indiquer clairement le lieu où il a été délivré. Ici, cela n’est pas le cas. Encore une fois, une exigence n’a pas été satisfaite.
+[Renvois omis.]
+[13] Il faut préciser qu’il ne s’agit pas d’une question de faute, de responsabilité, de bonne foi ou de contrôle. Il s’agit d’une prescription incontournable prévue à la Loi et au Règlement. Il existe d’autres prescriptions incontournables prévues par la Loi, d’aucuns estiment qu’il y en a peut-être trop, mais celle visée aux présentes en est certainement une qui n’a pas été respectée. En raison de ce manquement manifeste à cette prescription incontournable, l’appel doit être rejeté.
+[14] Bien que cela ne soit pas nécessaire, en raison du rejet de l’appel par la Cour fondé sur les nombreuses lacunes que le reçu pour don présentait, je traiterai maintenant de la question de la preuve présentée à la Cour relativement aux dons en espèces faits au Jesus Healing Center. En droit, selon la prétention du ministre, l’appelante doit faire une preuve par prépondérance des probabilités, suivant laquelle il est plus probable qu’improbable, qu’elle a donné l’argent.
+[15] Bien que le montant total des retraits en espèces apparaissant aux relevés bancaires présente une similitude avec celui des dons de bienfaisance; la similitude s’arrête là : il n’existe aucune correspondance temporelle avec l’assistance au service du dimanche, les montants ne cadrent pas avec une assistance bimensuelle et de tels retraits ne tiendraient pas compte des propres dépenses en espèces de Mme Ampomah, à l’exception d’un maigre 800 $, pour l’année au complet. En outre, les dons représentent un époustouflant 21 pour cent du revenu net, qui plus est, il n’existe aucune preuve reliant les retraits à des œuvres de bienfaisance; l’assistance bimensuelle au service du Jesus Healing Center s’est traduite par des dons prétendus totalisant 18 200 $, et, malgré cela, il n’existe aucun souvenir ou reçu pour dons provenant d’églises fréquentées régulièrement avant et après le Jesus Healing Center; finalement, les reçus d’impôt pour activités de bienfaisance totalisant 18 200 $ ont censément été ramassés au printemps de 2007 au Jesus Healing Center par un ami de l’appelante dont elle ne peut maintenant se souvenir du nom.
+[16] De plus, la preuve suivante déposée en réponse par le chef d’équipe de la vérification des organismes de bienfaisance de l’ARC n’a pas été contredite :
+a) pas un seul des 400 membres du Jesus Healing Center qui ont censément fait des dons aussi importants au Jesus Healing Center n’a fourni à l’ARC ne serait-ce qu’un chèque; un relevé de transaction au guichet automatique; une tenue de livres relative aux dons ou une enveloppe pour dons utilisée pour faire les dons en question;
+b) les montants des dons sont très importants, bien que présentant une singulière symétrie avec les montants donnés chaque semaine, ils sont tout à fait asymétriques au vu du montant logique et opportun dont une personne serait susceptible de faire don en espèces chaque semaine;
+c) le pasteur, ou ancien pasteur, a admis aux vérificateurs de l’ARC que les reçus pour dons étaient, au mieux, grandement exagérés et, au pire, faux.
+[17] Tout compte fait, la preuve de retraits en espèces en bloc, irréguliers et dont il ne reste aucune trace, conjuguée à l’absence de toute tenue de livres relativement aux dons et à l’absence de renseignements sur le bénéficiaire ou d’une enveloppe type servant aux dons en espèces, ne suffisent tout simplement pas à établir qu’il est plus probable qu’improbable que les dons aient réellement eu une telle importance sans autre preuve objective de leur existence.
+[18] Le juge Paris de la Cour a eu à traiter d’une affaire d’insertion similaire de retraits en espèces dans Afovia c Canada, 2012 CCI 391, où il a analysé une trame factuelle semblable :
+[53] Dans ses observations, M. Bope a insisté sur le fait qu’il avait les moyens de faire les dons et que les relevés bancaires démontraient qu’il avait fait ces dons;
+[54] À mon avis, les relevés bancaires produits par M. Bope ne sont pas concluants quant à la question de savoir si un quelconque montant a été retiré pour être donné à la PDGL. Il n’y a pas de retraits réguliers et uniformes auxquels on pourrait s’attendre si, comme l’a déclaré M. Bope, des dons en espèces avaient été faits presque chaque semaine. Au contraire, les retraits sont sporadiques et varient entre 20 $ et 1 200 $.
+[55] En outre, M. Bope n’a pas donné les raisons pour lesquelles il aurait fait des dons en espèces et il ne semble pas qu’il ait fait le suivi de ces dons lui-même. Aucune précision concernant les dates et les montants des dons n’a été produite. Comme je l’ai signalé dans le cas des Afovia, je me serais attendu à ce qu’on fasse davantage attention à la consignation de ces dons de manière régulière, étant donné que les sommes en question étaient relativement importantes.
+[56] Je tire également une conclusion défavorable du défaut de M. Bope de citer sa sœur et son épouse à témoigner pour confirmer qu’il fréquentait l’église de la PDGL à London ou pour confirmer qu’elles l’avaient vu faire des dons.
+[57] Enfin, aucun élément de preuve ne tend à établir que M. Bope a donné des cadeaux ou fait des dons à un quelconque organisme de bienfaisance depuis son arrivée au Canada en 2000.
+[19] La présente affaire est assez similaire. La notion suivant laquelle une personne mariée avec deux enfants, payant une hypothèque et touchant le salaire de l’appelante, aurait donné 18 200 $ en espèces à une église qu’elle fréquentait avec sa famille, mais ne ferait témoigner personne pour confirmer les dons et n’aurait pris aucune précaution pour documenter les montants spécifiques ainsi que les dates et n’aurait tenu aucun livre relativement à de telles sommes, est dépourvue de tout sens commun.
+[20] Bien que des dons minimes aient pu être faits, au vu de la preuve et de la prépondérance des probabilités sur la foi desquelles cette affaire doit être tranchée, il n’existe aucune raison plausible pour conclure qu’un montant s’approchant de 18 200 $ a été donné au Jesus Healing Center en 2006.
+[21] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Ontario, le 9 juillet 2014.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 18e jour d’août 2014.
+C. Laroche
+RÉFÉRENCE :
+2014 CCI 217
+DOSSIER DE LA COUR :
+2013-1050(IT)I
+INTITULÉ :
+NANA AMPOMAH ET LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 18 juin 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 9 juillet 2014
+COMPARUTIONS :
+Pour l’appelante :
+Absente de l’appel conférence
+Avocat de l’intimée :
+Me Ricky Y.M. Tang
+AVOCAT AU DOSSIER :
+Pour l’appelante :
+Nom :
+S/O
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

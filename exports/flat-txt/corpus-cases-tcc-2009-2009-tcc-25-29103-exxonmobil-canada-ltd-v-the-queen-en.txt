@@ -1,0 +1,434 @@
+Title: ExxonMobil Canada Ltd.  v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29103/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-25-29103-exxonmobil-canada-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-02-12
+
+# ExxonMobil Canada Ltd.  v. The Queen
+
+- Citation: 2009 TCC 25
+- Decision date: 2009-02-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6666, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+ExxonMobil Canada Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-12
+Neutral citation
+2009 TCC 25
+File numbers
+2007-728(GST)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-728(GST)G
+BETWEEN:
+EXXONMOBIL CANADA LTD. AND
+EXXONMOBIL CANADA RESOURCES COMPANY
+O/A EXXONMOBIL CANADA PROPERTIES PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of ExxonMobil Canada Ltd. and ExxonMobil Canada Resources Company o/a ExxonMobil Canada Energy Partnership (2007‑731(GST)G) on August 20, 2008 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Bradley E. Berg
+Robert Kreklewich and
+Rahat Godil
+Counsel for the Respondent:
+Harry Erlichman and
+Suzanne M. Bruce
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated November 14, 2006 and bears number 10CT0605‑4105‑2567 for the period from January 1, 2002 to December 31, 2002 is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 12th day of February 2009.
+“L.M. Little”
+Little J.
+Docket: 2007-731(GST)G
+BETWEEN:
+EXXONMOBIL CANADA LTD. AND
+EXXONMOBIL CANADA RESOURCES COMPANY
+O/A EXXONMOBIL CANADA ENERGY PARTNERSHIP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of ExxonMobil Canada Ltd. and ExxonMobil Canada Resources Company o/a ExxonMobil Canada Properties Partnership (2007‑728(GST)G) on August 20, 2008 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Bradley E. Berg
+Robert Kreklewich and
+Rahat Godil
+Counsel for the Respondent:
+Harry Erlichman and
+Suzanne M. Bruce
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, notice of which is dated November 14, 2006 and bears number 10CT0608‑8103‑2178 for the period from February 1, 2002 to December 31, 2002 is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 12th day of February 2009.
+“L.M. Little”
+Little J.
+Citation: 2009 TCC 25
+Date: 20090212
+Dockets: 2007-728(GST)G
+2007-731(GST)G
+BETWEEN:
+EXXONMOBIL CANADA LTD. AND
+EXXONMOBIL CANADA RESOURCES COMPANY
+O/A EXXONMOBIL CANADA PROPERTIES PARTNERSHIP (“CPP”),
+and
+EXXONMOBIL CANADA LTD. AND
+EXXONMOBIL CANADA RESOURCES COMPANY
+O/A EXXONMOBIL CANADA ENERGY PARTNERSHIP (“CEP”),
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The appeals were heard together on common evidence.
+[2] The Appellants, ExxonMobil Canada Properties Partnership (“ExxonMobil CPP”) and ExxonMobil Canada Energy Partnership (“ExxonMobil CEP”) are partners of a general partnership formed under the laws of the Province of Alberta between ExxonMobil Canada Ltd. and ExxonMobil Canada Resources Company (formerly ExxonMobil Resources Limited). The Appellants carried on business at all relevant times in the oil and gas industry.
+[3] The Appellants were registered for Goods and Services Tax (“GST”) during the relevant times.
+[4] The Appellant, ExxonMobil CPP, appeals from the Notice of Reassessment (the “Reassessment”) dated November 9, 2005 (No. 10CT0600728) issued by the Minister of National Revenue (the “Minister”) pursuant to the Excise Tax Act (Canada) (the “ETA”). The Appellant objected to the Reassessment in a Notice of Objection dated February 7, 2006. The Minister confirmed the Reassessment in Notices of Decision dated November 14, 2006. The Reassessment related to the period January 1, 2002 to December 31, 2002.
+[5] The Appellant, ExxonMobil CEP, appeals from the Notice of Reassessment (the “Reassessment”) dated December 7, 2005 (No. 10CT0600882) issued by the Minister pursuant to the ETA. The Appellant objected to the Reassessment in a Notice of Objection filed on March 7, 2006. The Minister confirmed the Reassessment in a Notice of Decision dated November 14, 2006. The Reassessment related to a period from February 1, 2002 to December 31, 2002.
+[6] At the commencement of the hearing the parties filed an Agreed Statement of Facts which reads as follows (Exhibit A-1):
+A. Appellants’ Policy And Practice
+1. From time to time, the Appellants relocate their employees from one work location to another in Canada.
+Joint Book of Documents, Tabs 2 to 6
+2. Under their domestic relocation policy, the Appellants reimburse certain moving expenses incurred by the relocated employee, such as interim housing costs (“Reimbursement Expenses”). These items are reimbursed only upon proof that the expense has been incurred and these Reimbursement Expenses are subject to audit. The Appellants claimed and received input tax credits (“ITCs”) for these Reimbursement Expenses and they are not under dispute in these appeals.
+3. In addition to the Reimbursement Expenses, the Appellants paid additional amounts to the relocated employees under their domestic relocation policy. The parties agree that these additional amounts qualify as allowances under the Excise Tax Act. For the purposes of this agreed statement of facts, these amounts will be called “additional amounts.” The Appellants claimed ITCs with respect to these additional amounts, which were disallowed and which are the subject of these appeals.
+4. For these additional amounts, the portion above $650.00 is included on the relocated employee’s T-4 income statement as a taxable benefit under the Income Tax Act.
+5. The relocated employee is not required to submit receipts for any portion of the additional amount, but is required to retain receipts for the first $650.00 in the event that the Canada Revenue Agency requires that the employee verify that amount of moving expenditures.
+6. The use of the additional amount is at the discretion of the relocated employee.
+7. All of the employees at issue in both appeals were employed by the Appellant ExxonMobil Canada Energy Partnership (CEP) under a Services Agreement dated January 1, 1998. However, there is no dispute that the additional amounts under appeal were paid and that the ITCs claimed by the Appellants are properly the subject of appeal. The Respondent will not be relying upon this “different employer issue” as a basis for resisting these appeals, although it reserves its rights on this issue for other audit years.
+Joint Book of Documents, Tab 1
+B. ExxonMobil CPP Appeal
+8. The Appellant ExxonMobil Canada Properties Partnership (“ExxonMobil CPP”) is a general partnership formed under the laws of the Province of Alberta between ExxonMobil Canada Ltd. and ExxonMobil Canada Resources Company (formerly ExxonMobil Resources Limited). ExxonMobil CPP carried on business at all relevant times in the oil and gas business. ExxonMobil CPP’s address is:
+237 Fourth Avenue S.W.
+P.O. Box 2480, Station M
+Calgary, Alberta
+T2P 3M9
+9. ExxonMobil CPP appeals from the Notice of Reassessment (No. 10CT0605‑4105‑2567) (the “CPP Reassessment”) dated November 14, 2005 issued by the Minister of National Revenue (the “Minister”) pursuant to the Excise Tax Act (Canada) (the “Act”).
+Joint Book of Documents, Tabs 13 and 14
+10. For the periods January 1, 2002 to December 31, 2002, this Appellant filed amended Goods and Services Tax/Harmonized Sales Tax (“GST/HST”) returns. This Appellant reported tax collected or collectible of $129,018,002.29, claiming ITCs of $91,117,433.62 and net tax of $37,900,568.67. For the reporting period ending November 30, 2002, the Appellant sought to deduct ITCs totalling $34,124.16 with respect to the additional amounts.
+11. On November 9, 2005, the Minister issued a Notice of Assessment (No. 10CT0600728) (the “CPP Assessment”). Pursuant to the CPP Assessment, this Appellant was assessed net tax of $38,020,204.98, interest of $23,065.71, and penalties of $60,640.06 for the periods from January 1, 2002 to December 31, 2002. The net tax was calculated as follows:
+Net tax reported
+37,900,568.67
+Adjustments to tax
+collected/collectible
+133,427.68
+Adjustments to input
+tax credits (at issue)
+29,212.68
+Adjustments to input
+tax credits claimed
+(not at issue)
+(43,004.05)
+Net tax assessed
+38,020,204.98
+Joint Book of Documents, Tabs 7 to 9
+12. A Notice of Objection was filed on February 7, 2006. By way of the Notice of Objection, this Appellant sought ITCs in the amount of $29,212.68, pursuant to section 174 of the Act, among other things.
+Joint Book of Documents, Tab 10
+13. On November 14, 2006, the Minister varied the CPP Assessment in the CPP Reassessment. The CPP Reassessment allowed the Appellant’s objection in part (with respect to issues not under appeal), and reassessed the Appellant with respect to issues under appeal. Specifically, the Minister denied the Appellant ITCs in the amount of $29,212.68, pursuant to sections 169 and 174 of the Act. The net tax reassessed was calculated as follows:
+Net tax reported on returns
+37,900,568.67
+Adjustments to tax
+collected/collectible (not at issue)
+122,504.03
+Adjustments to input tax credits
+(at issue)
+29,212.68
+Adjustments to input tax credits
+(not at issue)
+(43,004.05)
+Net tax assessed
+38,009,281.33
+Joint Book of Documents, Tabs 13 and 14
+14. The Notice of Appeal was filed on February 9, 2007 and transmitted to the Deputy Attorney General of Canada on February 22, 2007.
+15. ITCs in the amount of $29,212.68 were at issue when the Notice of Appeal was filed on February 9, 2007. These ITCs involved additional amounts paid for both domestic and expatriate relocation. Subsequent to the filing of the Notice of Appeal, the parties agreed that the portion of the appeal relating to expatriate employees be abandoned. Only additional amounts paid for domestic relocation are at issue in this hearing.
+16. Accordingly, by letter dated March 26, 2008, this Appellant indicated that it had claimed ITCs in the amount of $10,496.50 in respect of expatriate relocations and that the amount of ITCs remaining under appeal was $18,716.18 ($29,212.68 - $10,496.50).
+17. At all relevant times, this Appellant was a partnership involved in the oil, gas and petroleum products industry, and the shipping and storage of petroleum products.
+18. At all relevant times, ExxonMobil Canada Resources Company owned 40% of this Appellant.
+19. At all relevant times, ExxonMobil Canada Ltd. owned 60% of this Appellant.
+20. ExxonMobil CPP was registered for GST purposes during all relevant times with GST Registration Number 12343‑4052‑RT0001.
+C. ExxonMobil CEP Appeal
+21. The Appellant ExxonMobil Canada Energy Partnership (“ExxonMobil CEP”) is a general partnership formed under the laws of the Province of Alberta between ExxonMobil Canada Ltd. and ExxonMobil Canada Resources Company (formerly ExxonMobil Resources Limited). ExxonMobil CEP carried on business at all relevant times in the oil and gas business. ExxonMobil CEP’s address is:
+237 Fourth Avenue S.W.
+P.O. Box 2480, Station M
+Calgary, Alberta
+T2P 3M9
+22. ExxonMobil CEP appeals from the Notice of Reassessment (No. 10CT0608‑8103‑2178) (the “CEP Reassessment”) dated November 14, 2006 issued by the Minister pursuant to the Act.
+Joint Book of Documents, Tabs 22 and 23
+23. For the periods February 1, 2002 to December 31, 2002, this Appellant filed amended GST/HST returns. This Appellant reported tax collected or collectible of $162,262,243.56, claiming ITCs of $298,871,471.79 and net tax of ($136,609,228.23). For the reporting period ending November 30, 2002, the Appellant sought to deduct ITCs totalling $166,188.15 with respect to the additional amounts.
+24. On December 7, 2005, the Minister issued a Notice of Assessment (10CT0600882) (the “CEP Assessment”). Pursuant to the CEP Assessment, this Appellant was assessed net tax of $136,447,012.47, interest of $22,277.56, and penalties of $54,863.02 for the periods from February 1, 2002 to December 31, 2002. The net tax was calculated as follows:
+Net tax reported
+(136,609,228.23)
+Prior audit
+3,859.85
+Adjustments to tax
+collected/collectible
+25,569.74
+Adjustments to input tax credits
+(at issue)
+145,199.47
+Adjustments to input tax credits
+claimed (not at issue)
+19,878.53
+Net tax assessed
+(136,414,720.64)
+Joint Book of Documents, Tabs 17 to 19
+25. A Notice of Objection was filed on March 7, 2006. By way of the Notice of Objection, this Appellant sought ITCs in the amount of $145,199.47, pursuant to section 174 of the Act, among other things.
+Joint Book of Documents, Tab 20
+26. On November 14, 2006, the Minister varied the CEP Assessment in the CEP Reassessment. The CEP Reassessment allowed the Appellant’s objection in part (with respect to issues not under appeal), and reassessed the Appellant with respect to issues under appeal. Specifically, the Minister denied the Appellant ITCs in the amount of $145,199.47, pursuant to sections 169 and 174 of the Act. The net tax reassessed was calculated as follows:
+Net tax reported
+(136,609,228.23)
+Prior audit (not at issue)
+3,859.85
+Adjustments to tax
+collected/collectible
+25,569.74
+Adjustments to input tax credits
+(at issue)
+145,199.47
+Adjustments to input tax credits
+claimed (not at issue)
+15,120.55
+Net tax assessed
+(136,419,478.62)
+Joint Book of Documents, Tab 22 and 23
+27. The Notice of Appeal was filed on February 9, 2007 and transmitted to the Deputy Attorney General of Canada on February 22, 2007.
+28. ITCs in the amount of $145,199.47 were at issue when the Notice of Appeal was filed on February 9, 2007. These ITCs involved additional amounts paid for both domestic and expatriate relocation. Subsequent to the filing of the Notice of Appeal, the parties agreed that the portion of the appeal relating to expatriate employees be abandoned. Only additional amounts paid for domestic relocation are at issue in this hearing.
+29. Accordingly, by letter dated March 26, 2008, this Appellant indicated that it had claimed ITCs in the amount of $41,472.52 in respect of expatriate relocations and that the amount of ITCs remaining under appeal was $103,726.95 ($145,199.47 - $41,472.52).
+30. At all relevant times, this Appellant was a partnership involved in the oil, gas and petroleum products industry.
+31. At all relevant times, ExxonMobil Canada Resources Company owned 59% of this Appellant.
+32. At all relevant times, ExxonMobil Canada Ltd. owned 41% of this Appellant.
+33. ExxonMobil CEP was registered for GST purposes during all relevant times with GST Registration Number 12416-4146-RT0001.
+B. ISSUES
+[7] The issue is whether the Appellants were entitled to claim notional Input Tax Credits (“ITCs”) for amounts over $650 paid to employees in respect of the moving allowances pursuant to sections 169, 170 and 174 of the ETA.
+C. STATUTORY FRAMEWORK
+[8] Section 169 of the ETA reads as follows:
+General rule for credits
+169. (1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A x B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+Determining credit for improvement
+(1.1) Where a person acquires or imports property or a service or brings it into a participating province partly for use in improving capital property of the person and partly for another purpose, for the purpose of determining an input tax credit of the person in respect of the property or service,
+(a) notwithstanding section 138, that part of the property or service that is for use in improving the capital property and the remaining part of the property or service are each deemed to be a separate property or service that does not form part of the other;
+(b) the tax payable in respect of the supply, importation or bringing in, as the case may be, of that part of the property or service that is for use in improving the capital property is deemed to be equal to the amount determined by the formula
+A x B
+where
+A is the tax payable (in this section referred to as the "total tax payable") by the person in respect of the supply, importation or bringing in, as the case may be, of the property or service, determined without reference to this section, and
+B is the extent (expressed as a percentage) to which the total consideration paid or payable by the person for the supply in Canada of the property or service or the value of the imported goods or the property brought in is or would be, if the person were a taxpayer under the Income Tax Act, included in determining the adjusted cost base to the person of the capital property for the purposes of that Act; and
+(c) the tax payable in respect of that part of the property or service that is not for use in improving the capital property is deemed to be equal to the difference between the total tax payable and the amount determined under paragraph (b).
+(1.2) REPEALED: S.C. 1997, c. 10, s. 161(2), effective April 1, 1997 (Act, s.161(5)).
+(1.3) REPEALED: S.C. 1997, c. 10, s. 161(2), effective April 1, 1997 (Act, s.161(5)).
+Credit for goods imported to provide commercial service
+(2) Subject to this Part, where a registrant imports goods of a non-resident person who is not registered under Subdivision d of Division V for the purpose of making a taxable supply to the non-resident person of a commercial service in respect of the goods and, during a reporting period of the registrant, tax in respect of the importation becomes payable by the registrant or is paid by the registrant without having become payable, the input tax credit of the registrant in respect of the goods for the reporting period is an amount equal to that tax.
+Restricted credit for selected listed financial institutions
+(3) No amount shall be included in determining an input tax credit of a person in respect of tax that becomes payable by the person under subsection 165(2) or section 212.1 while the person is a selected listed financial institution unless
+(a) the input tax credit is in respect of
+(i) tax that the person is deemed to have paid under subsection 171(1), 171.1(2), 206(2) or (3) or 208(2) or (3), or
+(ii) an amount of tax that is prescribed for the purposes of paragraph (a) of the description of F in subsection 225.2(2); or
+(b) the person is permitted to claim the input tax credit under subsection 193(1) or (2).
+Required documentation
+(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+(b) where the credit is in respect of property or a service supplied to the registrant in circumstances in which the registrant is required to report the tax payable in respect of the supply in a return filed with the Minister under this Part, the registrant has so reported the tax in a return filed under this Part.
+Exemption
+(5) Where the Minister is satisfied that there are or will be sufficient records available to establish the particulars of any supply or importation or of any supply or importation of a specified class and the tax in respect of the supply or importation paid or payable under this Part, the Minister may
+(a) exempt a specified registrant, a specified class of registrants or registrants generally from any of the requirements of subsection (4) in respect of that supply or importation or a supply or importation of that class; and
+(b) specify terms and conditions of the exemption.
+[9] Section 170 of the ETA reads, in part, as follows:
+Restriction
+170. (1) In determining an input tax credit of a registrant, no amount shall be included in respect of the tax payable by the registrant in respect of
+…
+(b) a supply, importation or bringing into a participating province of property or a service that is acquired, imported or brought in by the registrant at any time in or before a reporting period of the registrant exclusively for the personal consumption, use or enjoyment (in this paragraph referred to as the "benefit") in that period of a particular individual who was, is or agrees to become an officer or employee of the registrant, or of another individual related to the particular individual, except where
+(i) the registrant makes a taxable supply of the property or service to the particular individual or the other individual for consideration that becomes due in that period and that is equal to the fair market value of the property or service at the time the consideration becomes due, or
+(ii) if no amount were payable by the particular individual for the benefit, no amount would be included under section 6 of the Income Tax Act in respect of the benefit in computing the income of the particular individual for the purposes of that Act; and
+…
+Further restriction
+(2) In determining an input tax credit of a registrant, no amount shall be included in respect of the tax payable by the registrant in respect of property or a service acquired, imported or brought into a participating province by the registrant, except to the extent that
+(a) the consumption or use of property or services of such quality, nature or cost is reasonable in the circumstances, having regard to the nature of the commercial activities of the registrant; and
+(b) the amount is calculated on consideration for the property or service or on a value of the property that is reasonable in the circumstances.
+[10] Section 174 of the ETA reads as follows:
+Travel and other allowances
+174. For the purposes of this Part, where
+(a) a person pays an allowance
+(i) to an employee of the person,
+(ii) where the person is a partnership, to a member of the partnership, or
+(iii) where the person is a charity or a public institution, to a volunteer who gives services to the charity or institution
+for
+(iv) supplies all or substantially all of which are taxable supplies (other than zero-rated supplies) of property or services acquired in Canada by the employee, member or volunteer in relation to activities engaged in by the person, or
+(v) the use in Canada, in relation to activities engaged in by the person, of a motor vehicle,
+(b) an amount in respect of the allowance is deductible in computing the income of the person for a taxation year of the person for the purposes of the Income Tax Act, or would have been so deductible if the person were a taxpayer under that Act and the activity were a business, and
+(c) in the case of an allowance to which subparagraph 6(1)(b)(v), (vi), (vii) or (vii.1) of that Act would apply
+(i) if the allowance were a reasonable allowance for the purposes of that subparagraph, and
+(ii) where the person is a partnership and the allowance is paid to a member of the partnership, if the member were an employee of the partnership, or, where the person is a charity or a public institution and the allowance is paid to a volunteer, if the volunteer were an employee of the charity or institution,
+the person considered, at the time the allowance was paid, that the allowance would be a reasonable allowance for those purposes and it is reasonable for the person to have considered, at that time, that the allowance would be a reasonable allowance for those purposes,
+the following rules apply:
+(d) the person is deemed to have received a supply of the property or service,
+(e) any consumption or use of the property or service by the employee, member or volunteer is deemed to be consumption or use by the person and not by the employee, member or volunteer, and
+(f) the person is deemed to have paid, at the time the allowance is paid, tax in respect of the supply equal to the amount determined by the formula
+A X (B/C)
+where
+A is the amount of the allowance,
+B is
+(i) the total of the rate set out in subsection 165(1) and the tax rate
+for a participating province if
+(A) all or substantially all of the supplies for which the allowance
+is paid were made in participating provinces, or
+(B) the allowance is paid for the use of the motor vehicle in
+participating provinces, and
+(ii) in any other case, the rate set out in subsection 165(1), and
+C is the total of 100% and the percentage determined for B.
+D. ARGUMENTS OF COUNSEL
+Appellants’ Arguments
+[11] The Appellants maintain that they must relocate some of their employees in order to maximize efficiencies within their business activities and to allow their employees to benefit from opportunities arising from their work.
+[12] To assist their employees in relocating, ExxonMobil CPP and ExxonMobil CEP offered them moving allowances. The moving allowance was equal to 15% of the employees’ annual salary. (Note: the moving allowances in question were in addition to reimbursements made by the Appellants of the employees’ direct moving expenses. In order to be reimbursed for the direct moving expense, the employees were required to file receipts with the Appellants.)
+[13] Paragraph 5 of the Appellants’ Factum describes, in some detail, what the moving allowances were intended to cover. Paragraph 5 reads as follows:
+Examples of expenses that the moving allowance is intended to compensate includes, amongst other things: draperies; blinds and carpeting for new premises; removal and installation of lighting fixtures; disconnection and reconnection of utilities (e.g., hydro, water and gas); reprogramming of cellular phones and pagers; penalties for early cancellation of service contracts; initial house cleaning; redirection of mail; the cost of registering vehicles or obtaining licences in a new province; children’s school uniform and books; disassembly and reassembly of items for shipment; the shipment of items excluded from coverage and the replacement of items that cannot be shipped (e.g., dangerous goods, foreign foods and plants) and additional insurance on valuable items shipped.
+[14] The Agreed Statement of Facts states that for the moving allowances (referred to as “additional amounts”) the portion above $650 is included on the relocated employee’s T-4 income statement as a taxable benefit under the Income Tax Act (see paragraph 4 of the Agreed Statement of Facts).
+[15] ExxonMobil CPP claimed ITCs in the amount of $34,124.16 during the period from January 1, 2002 to December 31, 2002.
+[16] ExxonMobil CEP claimed ITCs in the amount of $166,188.15 during the period from February 1, 2002 to December 31, 2002.
+[17] The parties agreed to abandon any ITCs claimed in respect of expatriate relocations. As a result of this concession, the amounts of ITCs now at issue are:
+CPP -
+$ 18,716.18
+CEP -
+$103,726.95
+[18] In his Factum, Counsel for the Appellants said:
+9. In these Reassessments, the Minister disallowed the ITCs claimed by the Appellants for the period under appeal in respect of the amount of the moving allowances that was required to be included in the employees’ income as a taxable benefit on the basis that this allowance was an expense of a “personal nature” that did not satisfy the conditions of section 174 of the Act.
+[19] The argument of Counsel for the Appellants may be summarized as follows:
+1. Supplies acquired by relocated employees were “in relation to” the activities engaged in by the Appellants;
+2. All or substantially all of the supplies are taxable supplies;
+3. The deeming provisions of section 174 entitle the Appellants to claim ITCs;
+4. There is no “exclusive personal consumption” under paragraph 170(1)(b);
+5. The “reasonable” limitation in subsection 174(c) does not apply; and
+6. In any event, the moving allowances are reasonable and not arbitrary.
+Respondent’s Argument
+[20] The argument of Counsel for the Respondent may be summarized as follows:
+1. The use of the moving allowance is at the complete discretion of the employee and no receipts are provided to the Appellants.
+2. The moving allowances are taxable benefits in the nature of income and are paid in addition to the reimbursement by the Appellants of the actual or direct moving expenses incurred by the employees.
+3. The scope of the deeming provisions contained in section 174 of the ETA is to be determined in the context of other provisions of the ETA and section 6 of the Income Tax Act (“ITA”).
+4. Paragraph 170(1)(b) of the ETA precludes any entitlement to ITCs in respect of the allowances because the allowances are for supplies of property or services acquired exclusively for the personal consumption, use or enjoyment of the employees.
+5. Paragraph 174(a)(iv) denies any entitlement to ITCs if the allowances are not for supplies of property or services acquired by the employees in relation to activities engaged in by the Appellants.
+6. Paragraph 174(a)(iv) also denies any entitlement to ITCs if the allowance is not for supplies that are all or substantially all taxable supplies other than zero-rated supplies.
+7. Counsel for the Respondent also said that to permit ITCs claimed by an employer solely on the basis that an allowance had been paid to employees would be contrary to the most basic principles of the ETA.
+8. Subsection 169(1) of the ETA sets out the general rule for ITCs. A registrant may claim an ITC in respect of GST paid on the acquisition of a property or service to the extent that the registrant acquired the property or service for consumption, use or supply in the course of commercial activities of the registrant. Subsection 169(4) requires that before claiming an ITC the registrant must have sufficient evidence to enable the amount of the ITC to be determined. However, allowance payments do not require receipts.
+9. Section 170 of the ETA places specific restrictions on ITCs that may be claimed in respect of purchases by a registrant that have a significant personal element.
+10. Subsection 170(1) of the ETA provides that no ITC may be claimed for GST paid in respect of:
+property or a service for the personal use or enjoyment (“benefit”) of an employee except when:
+“i. the property or service has been provided for fair market value consideration to the employee; and,
+ii. no amount would be included in the income of the employee for the benefit pursuant to s. 6 of the Income Tax Act.”
+(Emphasis added)
+11. In the cases under appeal, the amounts claimed as ITCs by the Appellant would be denied under subsection 170(1) of the ETA. The employees do not pay the Appellants the fair market value consideration of the benefit and the employees are required to include the amount of the allowances under section 6 of the ITA in computing their income for the purposes of that Act, i.e.:
+Amounts to be included as income from office or employment
+6.(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+…
+Personal or living expenses
+6.(1)(b) all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except …
+12. Subsection 170(2) of the ETA adds the additional restriction that no amount shall be included in respect of GST paid except to the extent that the use and consideration was reasonable in the circumstances.
+13. The significance of these restrictions is the clear instruction of Parliament that GST paid by an employer for goods or services that are for the personal benefit of an employee are not, as a general rule, to be included in the calculation of ITCs by employers. As stated by Campbell, T.C.J. in 3859681 Canada Inc. v. The Queen, 2003 TCC 501 at paragraph 29:
+… it was Parliament’s intent to deny ITC’s for any item that is exclusively for the employee’s personal use, consumption or employment (sic – enjoyment) within the context of that section.
+14. Again the expressed intent of the legislation is that payments to employees for their personal benefit do not result in ITCs.
+Role of ss. 174 and 175 – Allowances and Reimbursements
+15. It should be noted that section 174 of the ETA is generally intended to apply where an allowance is only for supplies that are taxable at 7% (now 5%) which were acquired by an employee.
+16. A further condition is that if the allowance is deductible to an employer and taxable to an employee under the ITA, it must have been a reasonable allowance (subsection 174(c)).
+17. If these conditions are met the following rules apply, pursuant to section 174 of the ETA:
+(a) the employer is deemed to have received a supply of the property or service;
+(b) any use of the property or service by the employee, (member or volunteer) is deemed to be used by the employer and not by the employee; and
+(c) the employer is deemed to have paid, at the time the allowance is paid, tax in respect of the supply equal to the amount determined by the formula A x (B/C).
+18. The scope of these deeming provisions is not intended to completely displace the general and specific restrictions that preclude personal expenses and amounts in the nature of salary expenditures from being eligible for ITCs.
+E. ANALYSIS AND DECISION
+[21] Before dealing with the application of the sections of the ETA, I wish to note that in this situation we are dealing with an “allowance” and not a “reimbursement”. An allowance is different from a reimbursement and is explained in CRA’s Policy P-075R. Policy P-075R reads as follows:
+An allowance is any periodic or other similar payment that a person receives from another person, without having to account for its use. An amount constitutes an allowance for the purposes of section 174 … where the amount meets all of the following criteria:
+· The amount paid must be a predetermined amount;
+· The amount must be paid for a certain purpose;
+· The amount paid must be at the complete disposition of the person receiving the payment; and
+· There is no requirement for the person receiving the payment to repay or account for its use.
+[22] The jurisprudence is of the same opinion as the CRA Policy P-075R and many cases have cited the precedent in R. v. Pascoe, [1975] C.T.C. 656, paragraph 7, in this regard. Further clarifying the position on allowances, Justice Linden from the Federal Court of Appeal stated the following in Verdun v. The Queen, 98 DTC 6175:
+An allowance is usually a monetary payment to cover personal expenses, whereas a benefit is normally, but not exclusively, a non-monetary benefit. In this case, the money received by the applicant was meant to cover the cost of his having meals when he worked at his Elmira office, some 20 miles away from his home in Wellesley, four evenings per week. While the applicant argues that the amounts paid were reasonable, the Income Tax Act, as it now stands, does not permit him to remain untaxed on these receipts, no matter how reasonable they may seem to him.
+Following the principles set out by this Court in Attorney General of Canada v. MacDonald [1994] F.C.J. No. 378: (1) these amounts were an arbitrary or fixed amount, that was determined in advance (even though based on an estimate of the potential cost); (2) they were paid to cover personal expenses in lieu of reimbursement; and (3) there was no obligation to account for them. …
+[23] I find that the moving allowances described in the present appeal fit the criteria of CRA’s Policy P-075R and should be treated as allowances and not reimbursements.
+[24] Counsel for the Appellants relies on the deeming provisions contained in section 174 of the ETA. Counsel for the Appellants says that the deeming provisions contained in section 174 are a complete answer to all of the issues in the appeal.
+[25] Section 169 of the ETA provides the general rule for claiming ITCs. Section 170 provides the general restrictions that apply to registrants who seek to claim ITCs under section 169. Sections 171 to 193 provide additional rules and restrictions applicable to the claiming of ITCs in particular situations. Section 174 is one of these provisions. Therefore, even if the deeming provisions contained in section 174 can apply in this case, it simply places the Appellants in the shoes of the employees. This section does not automatically entitle the Appellants to claim the ITCs at issue. In order for the Appellants to claim the ITCs for the moving allowances paid to employees, sections 169 and 170 must still be applied. The application of section 174 does not preclude the application of sections 169 and 170.
+[26] As is noted above, subsection 174(d) deems the employer (i.e. the Appellants) to have been the recipients of the supply of property or services acquired by the employee. Subsection 174(e) deems the employer to have consumed or used the property or service that is consumed or used by the employee. Subsection 174(f) deems the employer to have paid the GST in respect of the supply of property or services.
+[27] Section 174 provides that the employer (i.e. the Appellants) paid the GST. However, in my opinion, section 174 does not override or supersede the application of the modifiers contained in sections 169 and 170.
+[28] Section 169 determines who is eligible to claim ITCs. However, it is stated in section 169 that it is expressly subject to other provisions of Part IX of the ETA. One of these provisions is found in paragraph 170(1)(b) of the ETA. Paragraph 170(1)(b) provides that no ITCs may be claimed in respect of any supply acquired for the exclusive personal use or consumption of an employee unless there would have been no taxable benefit and that the employee had paid nothing for the benefit. In this situation the portion of the moving allowance over $650 was a taxable benefit. It therefore follows that paragraph 170(1)(b) applies to deny the ITCs that were claimed by the Appellants.
+[29] In addition, there was no evidence produced at the hearing which indicated that the employees paid the Appellants the fair market value of the benefit.
+[30] It should also be noted that subsection 170(2) of the ETA provides that no amount shall be included in respect of GST paid except to the extent that the use and considerations are reasonable in the circumstances.
+[31] As is indicated above, the moving allowances under these appeals were equal to 15% of the annual salary of the employees who received the allowances. The Minister, in reassessing the Appellants, made an assumption that the allowances were unreasonable. The Appellants did not provide any evidence to prove that the allowances were, in fact, reasonable. For example, the Appellants did not produce any evidence to prove that the allowances were based on the distance of the move, the number of family members involved in the move, how the moving allowance was actually spent or any other relevant fact. I find that the arbitrary provision of the allowances, based on the employees’ annual salary, to be unreasonable under subsection 170(2) for the purposes of claiming ITCs under the ETA.
+[32] I agree that the deeming provisions contained in section 174 of the ETA must be considered. However, in my opinion the deeming provisions in section 174 do not displace the general and specific restrictions contained in sections 169 and 170 of the ETA.
+[33] Counsel for the Appellants noted that in the decision 3859681 Canada Inc. v. The Queen, 2003 TCC 501 (“Zellers”), Justice Campbell held that the items purchased by employees of Zellers were incurred in the course of the commercial activities of Zellers and she allowed Zellers to claim the ITCs.
+[34] In my opinion, the decision of Justice Campbell in Zellers can be distinguished on the following basis:
+1. In Zellers the parties agreed that the 10% amounts that were paid to the employer were allowances and that the allowances were reasonable. In the present appeal, the Minister made an assumption that the allowances were unreasonable.
+2. In Zellers the parties agreed that the allowance was for “all or substantially all” taxable supplies. In the present appeal, Counsel for the Minister argued that the Appellants were not entitled to claim ITCs as the allowance is not for supplies that are all or substantially all taxable supplies.
+3. Finally, the Zellers appeal was an appeal under the informal procedure. These appeals are under the General Procedure Rules of the Tax Court of Canada Rules.
+[35] Before closing I wish to make reference to the following:
+1. The treatment for moving allowances is included in CRA’s policy P‑075R. The policy states:
+… A moving allowance of up to $650 is treated as a non-taxable reimbursement to the employee, as long as the employee certifies that the amount was spent on moving expenses. […] The amount of a moving allowance, which is required to be included in an individual’s income as a taxable benefit, is not considered to be an allowance pursuant to section 174 of the ETA.
+I have concluded that this policy statement is a proper interpretation of the law.
+2. This sentiment is further echoed by David Sherman in his analysis of section 174. He says at page 114-128 of Canada GST Service, C3:
+For GST/HST purposes […] a moving allowance of up to $650 is treated as a non-taxable reimbursement to the employee. [T]his amount is considered a reimbursement for GST/HST purposes. The person paying the amount (the employer) would then be able to claim an input tax credit, or rebate, on the reimbursed amount, subject to any other restrictions in the Excise Tax Act.
+The amount of moving allowance which is required to be included in an individual’s income as a taxable benefit (i.e., any amount over $650) is considered to be remuneration, or income from employment, of that individual. As employment income, this amount would not be subject to GST/HST, and not eligible for purposes of determining an input tax credit entitlement.
+[36] For the reasons noted above, I have concluded that the appeals should be dismissed, with costs.
+Signed at Vancouver, British Columbia, this 12th day of February 2009.
+“L.M. Little”
+Little J.
+CITATION:
+2009 TCC 25
+COURT FILE NOS.:
+2007-728(GST)G
+2007-731(GST)G
+STYLE OF CAUSE:
+ExxonMobil Canada Ltd. and ExxonMobil Canada Resources Company o/a ExxonMobil Canada Properties Partnership and
+ExxonMobil Canada Ltd. and ExxonMobil Canada Resources Company o/a ExxonMobil Canada Energy Partnership and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 20, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+February 12, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Bradley E. Berg
+Robert Kreklewich and
+Rahat Godil
+Counsel for the Respondent:
+Harry Erlichman and
+Suzanne M. Bruce
+COUNSEL OF RECORD:
+Counsel for the Appellant:
+Name:
+Bradley E. Berg
+Robert Kreklewich and
+Rahat Godil Jeffrey
+Firm:
+Blake, Cassels & Graydon LLP
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

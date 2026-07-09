@@ -1,0 +1,124 @@
+Title: Stasiw c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30880/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-254-30880-stasiw-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2012-07-13
+
+# Stasiw c. M.R.N.
+
+- Citation: 2012 CCI 254
+- Decision date: 2012-07-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7410, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stasiw c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-07-13
+Référence neutre
+2012 CCI 254
+Numéro de dossier
+2010-202(EI)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-202(EI)
+ENTRE :
+STEPHAN STASIW,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+FLEMING’S OUTFITTERS INC.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 30 mai 2012, à Thunder Bay (Ontario).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Neil Goodridge
+Pour l’intervenante :
+M. Terry Huber
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre du Revenu national est modifiée, étant entendu que, pour la période allant du 18 mai 2008 au 29 septembre 2008, les heures assurables et la rémunération assurable de l’appelant sont de 760 heures et de 19 950 $ respectivement, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 13e jour de juillet 2012.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 19e jour de septembre 2012.
+Marie-Christine Gervais
+Référence : 2012 CCI 254
+Date : 20120713
+Dossier : 2010-202(EI)
+ENTRE :
+STEPHAN STASIW,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+FLEMING’S OUTFITTERS INC.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] La question à trancher dans le présent appel est de savoir si le ministre du Revenu national a bien calculé les heures assurables et la rémunération assurable accumulées par Stephan Stasiw alors qu’il travaillait, pendant une certaine période en 2008, pour Fleming’s Outfitters Inc. (le « payeur »), un pourvoyeur en chasse et pêche de la région de Thunder Bay.
+[2] Par une lettre datée du 21 septembre 2009, l’intimé a informé l’appelant et le payeur qu’il avait conclu que l’appelant avait travaillé en vertu d’un contrat de louage de services pendant les périodes allant du 25 mai 2008 au 31 mai 2008, du 22 juin 2008 au 28 juin 2008 et du 1er août 2008 au 29 septembre 2008 (la « période »), conformément à l’alinéa 5(1)a) de la Loi sur l’assurance-emploi (la « LAE »). Selon l’intimé, l’appelant avait accumulé pendant la période 280 heures assurables, suivant l’article 9.2 et le paragraphe 10(1) du Règlement sur l’assurance‑emploi (le « RAE »), et 5 800 $ de rémunération assurable, suivant le paragraphe 2(1) du Règlement sur la rémunération assurable et la perception des cotisations (le « RRAPC »). L’intimé a conclu que l’appelant avait gagné 550 $ par semaine, plus le gîte et le couvert, d’une valeur de 450 $ par semaine, pour chacune des sept semaines de son emploi. Selon l’intimé, l’appelant avait travaillé environ 40 heures par semaine.
+[3] Le calcul fait par l’intimé pour la rémunération assurable et les heures assurables de l’appelant reposait sur des renseignements obtenus de l’appelant et de Terence R. Huber, l’unique actionnaire et le représentant du payeur, mais chacun d’eux voyait les choses différemment. L’appelant affirme avoir travaillé pour le payeur du 18 mai 2008 au 2 octobre 2008 pour un salaire de 600 $ par semaine, plus le gîte et le couvert, d’une valeur de 450 $, comme il l’avait fait l’année précédente.
+[4] Le payeur, c’est-à-dire l’intervenante dans le présent appel, admet maintenant que l’appelant avait été présent au camp de chasse et de pêche vers la fin de mai, puis sporadiquement jusqu’en octobre 2008, lorsqu’il avait quitté le camp pour Thunder Bay avec la camionnette du payeur sous le prétexte d’acheter des pièces de rechange pour une génératrice.
+[5] D’après la preuve, l’appelant avait abandonné la camionnette à Thunder Bay et n’était pas revenu. Les parties ont donné des versions contradictoires sur la question. L’appelant a expliqué qu’il avait décidé à se rendre à Thunder Bay afin d’y prendre des pièces de rechange pour la génératrice, avec l’intention de quitter son employeur, qui ne lui avait pas encore payé la majeure partie de la rémunération qui lui était due. Selon l’appelant, le véhicule qu’il utilisait pour se rendre au camp de pêche était tombé en panne et il comptait sur l’intervenante pour pouvoir se rendre au camp et en revenir. On lui avait demandé d’aller chercher des pièces à Thunder Bay, et c’était la première occasion qui s’offrait à lui depuis quelque temps de laisser son emploi chez le payeur. Il avait abandonné la camionnette à Thunder Bay et n’était pas revenu au camp parce qu’il croyait que les chances qu’il avait de se faire payer son dû étaient nulles.
+[6] M. Huber affirme que l’appelant buvait énormément et qu’il avait abandonné la camionnette après une beuverie. Cela avait causé beaucoup d’ennuis à M. Huber parce que la génératrice qui servait à la production d’électricité pour le camp éloigné injectait du carburant diesel dans l’huile à moteur, ce qui nécessitait des vidanges toutes les trois heures. M. Huber a affirmé avoir dû confier le camp à un travailleur âgé afin de pouvoir récupérer sa camionnette à Thunder Bay.
+[7] Devant ces versions contradictoires concernant les antécédents de travail de l’appelant, l’intimé a retenu certains faits recueillis auprès des deux parties, laissant à la Cour le soin de faire apparaître finalement la vérité.
+[8] Après un examen attentif de la preuve, je suis d’avis que l’appelant a travaillé du 18 mai 2008 au 29 septembre 2008, 40 heures par semaine, pour une rémunération assurable de 600 $ par semaine, plus le gîte et le couvert, d’une valeur de 450 $ par semaine, pour un total de 1 050 $ par semaine.
+[9] M. Huber nie tout cela avec véhémence, affirmant plutôt que l’appelant avait séjourné au camp la plus grande partie de l’été avec sa petite amie. Selon M. Huber, l’appelant avait travaillé tout au plus quatre semaines durant l’été et au début de l’automne.
+[10] Je ne trouve pas que le témoignage de M. Huber digne de foi. Il est difficile d’imaginer que le payeur aurait toléré la présence de l’appelant au camp pour toute la saison si l’appelant ne travaillait pas et s’enivrait constamment. M. Huber a prétendu durant son interrogatoire principal qu’il avait acheté à l’appelant une voiture d’occasion dont il pourrait utiliser les pièces pour réparer son véhicule, qui était tombé en panne. Le comportement de M. Huber au cours de l’instruction ne m’a pas donné l’impression qu’il serait enclin à faire preuve de générosité envers une personne dans le pétrin. J’ai du mal à croire que M. Huber aurait acheté le véhicule si, comme il l’a prétendu, l’appelant séjournait simplement au camp, gratuitement, avec sa petite amie, et importunait les clients du payeur quand il avait bu.
+[11] M. Huber nie aussi que l’appelant ait travaillé pour le payeur durant le mois d’août 2008; or, le comptable du payeur a établi un relevé d’emploi qui montre que l’appelant a bel et bien travaillé ce mois-là.
+[12] Je ne doute pas que l’appelant ait eu un problème de boisson, mais la preuve montre que le payeur a accepté ce comportement parce que, comme l’a affirmé M. Huber dans son témoignage, il était difficile de trouver des travailleurs saisonniers temporaires prêts à travailler au camp de chasse et pêche du payeur, un endroit éloigné.
+[13] La preuve s’accorde avec la version des faits donnée par l’appelant, c’est‑à‑dire qu’il avait travaillé au camp pendant la même période que l’année précédente pour le payeur, et que les années antérieures pour les anciens propriétaires. Son rendement a peut-être bien été inégal, mais le payeur aurait pu le congédier et lui demander de quitter les lieux. Le payeur ne peut pas après coup décider que l’appelant, en raison de son comportement, a renoncé à la rémunération qui lui était due du seul fait qu’il a abandonné la camionnette du payeur à Thunder Bay.
+[14] L’appel est accueilli, étant entendu que les heures assurables et la rémunération assurable de l’appelant pour la période allant du 18 mai 2008 au 29 septembre 2008 sont les suivantes :
+a) Heures assurables : 760 heures
+(Nombre de semaines de travail du 18 mai 2008 au 29 septembre 2008
+X heures travaillées par semaine) = 19 X 40 = 760 heures.
+b) Rémunération assurable : 19 950 $
+(Nombre de semaines de travail du 18 mai 2008 au 29 septembre 2008
+X rémunération hebdomadaire) = 19 X 1 050 $ = 19 950 $.
+Signé à Ottawa, Canada, ce 13e jour de juillet 2012.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 19e jour de septembre 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012 CCI 254
+N° DU DOSSIER DE LA COUR : 2010-202(EI)
+INTITULÉ : STEPHAN STASIW c. M.R.N. ET FLEMING’S OUTFITTERS INC.
+LIEU DE L’AUDIENCE : Thunder Bay (Ontario)
+DATE DE L’AUDIENCE : Le 30 mai 2012
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 13 juillet 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Neil Goodridge
+Pour l’intervenante :
+M. Terry Huber
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

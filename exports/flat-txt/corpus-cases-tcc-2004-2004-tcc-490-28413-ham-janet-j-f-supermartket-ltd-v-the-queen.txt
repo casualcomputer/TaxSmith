@@ -1,0 +1,187 @@
+Title: Ham Janet J & F Supermartket Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28413/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-490-28413-ham-janet-j-f-supermartket-ltd-v-the-queen.md
+Document type: case_law
+Last modified: 2004-07-08
+
+# Ham Janet J & F Supermartket Ltd. v. The Queen
+
+- Citation: 2004 TCC 490
+- Decision date: 2004-07-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1212, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ham Janet J & F Supermartket Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-07-08
+Neutral citation
+2004 TCC 490
+File numbers
+2003-2531(IT)APP
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2531(IT)APP
+BETWEEN:
+JANET HAM,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on May 17, 2004, at Winnipeg, Manitoba,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Applicant:
+R. Grenville Waugh
+Counsel for the Respondent:
+Michael Van Dam
+____________________________________________________________________
+ORDER
+Upon application by the Applicant for an Order extending the time within which appeals from assessments of tax made under the Income Tax Act for the 1994 and 1995 taxation years may be instituted;
+And upon hearing counsel for the parties;
+It is ordered that the application is dismissed.
+Signed at Ottawa, Canada, this 8th day of July, 2004.
+"E.A. Bowie"
+Bowie J.
+Docket: 2003-2534(IT)APP
+BETWEEN:
+J & F SUPERMARKET LTD.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on May 17, 2004, at Winnipeg, Manitoba,
+By: The Honourable Justice E.A. Bowie
+Appearances:
+Counsel for the Applicant:
+R. Grenville Waugh
+Counsel for the Respondent:
+Michael Van Dam
+____________________________________________________________________
+ORDER
+Upon application by the Applicant for an Order extending the time within which appeals from assessments of tax made under the Income Tax Act for the 1994 and 1995 taxation years may be instituted;
+And upon hearing counsel for the parties;
+It is ordered that the application is dismissed.
+Signed at Ottawa, Canada, this 8th day of July, 2004.
+"E.A. Bowie"
+Bowie J.
+Citation: 2004TCC490
+Date: 20040708
+Docket: 2003-2531(IT)APP
+2003-2534(IT)APP
+BETWEEN:
+JANET HAM,
+J & F SUPERMARKET LTD.
+Applicants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Bowie J.
+[1] These two applications to extend the time to appeal from assessments under the Income Tax Act were heard together. Ms. Ham is the principal, or perhaps the only shareholder of J & F Supermarket Ltd. (J & F).
+[2] These assessments from which the Applicants wish to appeal were issued on May 31, 2000. Each Applicant was reassessed for the 1994 and 1995 taxation years. On the 16th of November that year the Applicants retained Mr. Ken Sirkis to act as their accountant. Sometime in the following year, Ms. Ham told Mr. Sirkis about the reassessments and instructed him to serve notices of objection. At this point the chronology becomes unclear, but it appears from Exhibits R-8, R-9 and R-10 that Mr. Sirkis served the notices of objection for Ms. Ham on August 23, 2001, and on August 27, 2001. The Appeals Branch of Canada Customs and Revenue Agency (CCRA) advised him that they were out of time, but that he had until August 29, 2001 to apply to extend the time. It appears that he did that, because Exhibit R‑11 is a notice of confirmation addressed to Ms. Ham, with a copy to Mr. Sirkis, confirming the reassessments for 1994 and 1995. It is dated March 27, 2002.
+[3] For reasons that the evidence before me does not explain, notices of objection for J & F were, like those for Ms. Ham, dated August 28, 2001, but are stamped as having been received by CCRA in March 2002. The notice for 1994 and its attachment[1] have, in total, four stamps bearing dates March 7, 2002, March 11, 2002 and March 12, 2002 twice. On March 27, 2002, the date on Ms. Ham's notice of confirmation,[2] CCRA wrote to J & F, with a copy to Mr. Sirkis, stating that as the objections were not filed until March 11, 2002, the time to request extension of time had run out on August 20, 2001 and that CCRA was closing its files. No notice of confirmation was sent to J & F.
+[4] The time within which a taxpayer may appeal from an assessment expires 90 days from the date of mailing the notice of confirmation or reassessment. In the case of Ms. Ham, that date was June 25, 2002 (March 27 + 90 days). Mr. Sirkis testified that Ms. Ham instructed him to appeal; he could not say on what date, but it was certainly before June 25. He went on to testify that he did not file a Notice of Appeal before June 25 because he did not have all the documents necessary for the appeal by then, and in his opinion it would be an abuse to file the appeal until he had them. Almost a year later, on May 26, 2003 he wrote to the Court indicating that "[w]e wish to file an appeal under the Income Tax Act". That letter was in reference to both Janet Ham and J & F.
+[5] Section 169 of the Act provides:
+169(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+It is beyond dispute that there can be no appeal unless the taxpayer has first filed a valid notice of objection, and that where a notice of confirmation has been sent to the taxpayer in response to a notice of objection, the taxpayer has 90 days in which to file an appeal. After the 90-day period has expired, the taxpayer may only appeal the assessment by obtaining an extension of the time to appeal under section 167. Subsections 167(1) and (5) read:
+167(1) Where an appeal to the Tax Court of Canada has not been instituted by a taxpayer under section 169 within the time limited by that section for doing so, the taxpayer may make an application to the Court for an order extending the time within which the appeal may be instituted and the Court may make an order extending the time for appealing and may impose such terms as it deems just.
+167(5) No order shall be made under this section unless
+(a) the application is made within one year after the expiration of the time limited by section 169 for appealing; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by section 169 for appealing the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer's name, or
+(B) had a bona fide intention to appeal,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
+(iii) the application was made as soon as circumstances permitted, and
+(iv) there are reasonable grounds for the appeal.
+[6] Ms. Ham's notice of confirmation was mailed on March 27, 2002. The last day to appeal her assessments was therefore June 25, 2002, and the last day to apply for an extension of time was June 25, 2003. The application was received by the Court on June 17, 2003; paragraph (a) is therefore satisfied. The evidence satisfies me that Ms. Ham had instructed Mr. Sirkis to appeal before June 25, 2002; subparagraph (b)(i) is also therefore satisfied.
+[7] Regrettably, I cannot conclude that these applications were made as soon as circumstances permitted. In fact, there are no circumstances that could be said to have prevented the appeals from being filed on time, or the applications to extend the time from being brought at any time between June 25, 2002 and June 17, 2003. Unfortunately, Mr. Sirkis, although holding himself out as someone able to conduct appeals in this Court, had no understanding of the statutory provisions governing these appeals. He referred repeatedly in his evidence to the appeal period as though it were one year plus 90 days. He said that he derived this from Exhibit A-1, an information sheet that the Court distributes for the assistance of unrepresented Appellants. Highlighted on it are the following:
+Q. What do I do if I miss the deadline for appealing to the TCC?
+A. If you miss the deadline for bringing an appeal, you may apply to the TCC to extend the time to appeal. You have one year and 90 days from the date of the reassessment or from the date of the confirmation of the original assessment.
+The application to extend the time to appeal may be in the form of a letter. In this letter you must indicate that you are applying to extend the time within which an appeal may be instituted and you must give the reasons why it was not possible to appeal within the deadline. The original and two (2) copies of the application, together with the original and two (2) copies of the notice of appeal, must be sent to the Registry at a TCC office.
+It is beyond comprehension how anyone could construe the information sheet, or any part of it, as suggesting that there is a right to appeal at any time within one year and 90 days of the confirmation date.
+[8] Mr. Sirkis testified that he did not file the Notices of Appeal within the 90‑day appeal period because it would have been "an abuse" to do so until he had all the relevant documents. He did not explain where that idea came from, but it is patently wrong. It, too, is the result of him attempting to deal with matters for which he quite obviously has no training. Unfortunately for Ms. Ham, she is visited with the consequences of Mr. Sirkis having failed through incompetence to carry out his mandate. The requirement of subparagraph (b)(iii) has not been met and the Order extending time cannot be made. I do wish to emphasize, however, that I would make the Order if I had the discretion to do so. I dismiss the application only because the opening words of subsection 167(5) and the words of subparagraph 167(5)(b)(iii) leave me no alternative.
+[9] Turning to the application of J & F, I find that I must again dismiss the application before me because of the incompetence of Mr. Sirkis. Exhibits R-1 to R-11 were introduced on the agreement of counsel for the parties. It is difficult to reconcile Exhibits R-4 and R-5 with Exhibit R-6. Exhibits R-4 and R-5 are copies of the two notices of objection prepared by Liberty Tax Service for J & F for the years 1994 and 1995. Attached to each form is a copy of a letter on the Liberty Tax Service letterhead dated August 28, 2001 requesting that Ms. Ham be granted an extension of time to file an objection. These are copies of the same letter attached to the two notices of objection served for Ms. Ham. Rather than create a separate letter for the J & F objections, Mr. Sirkis simply used copies of the letter he had written to accompany Ms. Ham's notices of objection. As I said earlier, the notices of objection for J & F are stamped by CCRA as having been received in March 2002, well beyond the last date to apply for an extension of time to object. There is no explanation anywhere in the evidence before me to suggest that these stamps do not represent correctly the date the documents were received by CCRA. Nor is there any explanation of why Mr. Sirkis did not serve them on the Minister along with those of Ms. Ham, which were served before the time expired for both Ms. Ham and J & F to request an extension of time to object in August 2001.
+[10] On March 27, 2002, the Minister mailed the notice of confirmation to Ms. Ham in respect of her objections. On the same day, Exhibit R-6 was sent by the Appeals Branch of CCRA to J & F. A copy of each was sent to Liberty Tax Service. I shall reproduce Exhibit R-6 in full:
+J & F Supermarket Ltd.
+730 Sargent Ave.
+Winnipeg, MB R3E 0B2
+Dear Sirs:
+Re: Notices of Objection
+Taxation Years: 1994 and 1995
+We have received objections for the above noted taxation years.
+The 1994 and 1995 income tax returns were reassessed on May 31, 2000. The deadline for filing the objections was August 29, 2000 and you had until August 30, 2001 to request an extension to file the objections. The objections were not filed until March 11, 2002, therefore, they cannot be accepted under the Appeals provisions of the Income Tax Act.
+We are closing our file at this time.
+Yours truly,
+Paul Fenez
+Team Leader, Appeals
+c.c. Liberty Tax Service
+[11] No reaction to Exhibit R-6 by Mr. Sirkis is to be found in the record before me. Instead, Mr. Sirkis gave evidence that he considered that the notice of confirmation sent to Ms. Ham (Exhibit R-11) was a notice of confirmation for Ms. Ham and for J & F, because there is reference to J & F in the third and sixth paragraphs of it. I reproduce that document in full:
+NOTICE OF CONFIRMATION BY THE MINISTER
+Your Notices of Objection to the income tax assessments for the 1994 and 1995 taxation years have been carefully reviewed under subsection 165(3) of the Income Tax Act.
+The Minister of National Revenue has considered the reasons set out in your objections and all the relevant facts. It is hereby confirmed that the assessments have been made in accordance with the provisions of the Income Tax Act on the basis that:
+under subsection 5(1), the wages and salary of $3,000.00 and $7,819.00 that you received from J&F Supermarket Ltd. in 1994 and 1995 respectively, are income from an office or employment. These amounts have been included in your income according to section 3.
+the amounts of $3,884.00 in 1994 and $3,884.00 in 1995 representing the net rental income for 617 Simcoe Street are income from a business according to subsection 9(1). These amounts have been included in your income according to section 3.
+the amount of $937.36 is interest income from a property under paragraph 12(1)(c). It has been included in your income according to section 3.
+sales proceeds of J&F Supermarket Ltd. received by you amounted to $40,192.61 in 1994 and $37,972.36 in 1995. These amounts have been included in your income according to subsection 15(1).
+Dated at Winnipeg this 27th day of March, 2002
+To: Janet Ham
+730 Sargent Avenue
+Winnipeg, MB R3E 0B2
+And To:
+Liberty Tax Service
+Attention: Mr. Ken Sirkis
+196 Goulet
+Winnipeg, MB R2H 0R8
+[12] No sensible person having Exhibits R-6 and R-11 before him could possibly think that Exhibit R-11 was a notice of confirmation relating to the assessments made against J & F. One would certainly expect Mr. Sirkis to have delivered the four applications to extend the time for objection to the Minister in one package, in which case one would expect that the Minister would have granted the extensions for J & F, as he did with the two for Ms. Ham, and then to have issued notices of confirmation to both Ms. Ham and J & F. If Mr. Sirkis had done that, however, he would surely have taken issue with the factual premise stated in Exhibit R-6 that "[t]he objections were not filed until March 11, 2002" for J & F. There is no evidence to suggest that he did so, however. Instead, he chose to treat Exhibit R-11 as being in part a response to the notices of objection that Exhibit R-6 had told him on the same day, March 27, 2002, were being rejected because they were filed beyond the date for requesting extensions of time. The irresistible inference is of duplicity on the part of Mr. Sirkis. I conclude that the notices of objection for J & F were, as Exhibit A-6 states, served only in March 2002, for some reason known only to Mr. Sirkis. They were therefore long out of time, and a nullity. It follows that there could never have been a right of appeal for J & F, and so I can only dismiss its applications.
+[13] I have the greatest sympathy for Ms. Ham. I understand that she speaks little English, and that may be why she did not testify before me. In any event, she could not likely have added any useful evidence. It is clear that she instructed Mr. Sirkis to appeal within the time limited for doing so, and that she then relied on him to carry out those instructions. He let her down. Of course I cannot say whether either her appeals or those of her company would have been successful. Mr. Sirkis testified that in his opinion they should succeed. If he believes that then he should compensate her for the taxes, penalties and interest that she has incurred, because it is entirely due to his inability to carry out a very simple mandate that he held himself out as competent to perform that she and her company are now deprived of their day in Court.
+Signed at Ottawa, Canada, this 8th day of July, 2004.
+"E.A. Bowie"
+Bowie J.
+CITATION:
+2004TCC490
+COURT FILE NO.:
+2003-2531(IT)APP and
+2003-2534(IT)APP
+STYLE OF CAUSE:
+Janet Ham and J & F Supermarket Ltd and Her Majesty the Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+May 17, 2004
+REASONS FOR ORDER BY:
+The Honourable Justice E.A. Bowie
+DATE OF ORDERS:
+July 8, 2004
+APPEARANCES:
+Counsel for the Applicants:
+R. Grenville Waugh
+Counsel for the Respondent:
+Michael Van Dam
+COUNSEL OF RECORD:
+For the Applicants:
+Name:
+R. Grenville Waugh
+Firm:
+Corne & Corne
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-4.
+[2] Exhibit R-11.

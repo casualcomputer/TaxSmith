@@ -1,0 +1,196 @@
+Title: Fredericton Council for Christian Ministry on Campus v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29182/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-135-29182-fredericton-council-for-christian-ministry-on-campus-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2008-04-04
+
+# Fredericton Council for Christian Ministry on Campus v. M.N.R.
+
+- Citation: 2008 CCI 135
+- Decision date: 2008-04-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6709, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fredericton Council for Christian Ministry on Campus v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-04
+Référence neutre
+2008 CCI 135
+Numéro de dossier
+2006-3373(CPP)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2006-3373(CPP)
+ENTRE :
+FREDERICTON COUNCIL FOR CHRISTIAN
+MINISTRY ON CAMPUS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel dans le no de greffe 2006‑3374(EI) le 23 novembre 2007, à Fredericton (Nouveau-Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat de l’appelant :
+Me Andrew D. Rouse
+Avocat de l’intimé :
+Me Martin Hickey
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée, conformément aux motifs du jugement ci‑joints.
+Signé à Edmundston (Nouveau-Brunswick), ce 4e jour d’avril 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+Dossier : 2006-3374(EI)
+ENTRE :
+FREDERICTON COUNCIL FOR CHRISTIAN
+MINISTRY ON CAMPUS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel dans le no de greffe 2006‑3373(CPP) le 23 novembre 2007, à Fredericton (Nouveau‑Brunswick).
+Devant : L’honorable juge François Angers
+Comparutions :
+Avocat de l’appelant :
+Me Andrew D. Rouse
+Avocat de l’intimé :
+Me Martin Hickey
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée, conformément aux motifs du jugement ci-joints.
+Signé à Edmundston (Nouveau-Brunswick), ce 4e jour d’avril 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2008CCI135
+Date : 20080404
+Dossiers : 2006-3373(CPP)
+2006-3374(EI)
+ENTRE :
+FREDERICTON COUNCIL FOR CHRISTIAN
+MINISTRY ON CAMPUS,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Les présents appels ont été entendus sur preuve commune. Le Fredericton Council for Christian Ministry on Campus (le Conseil) fait appel d’une cotisation datée du 21 février 2006 portant sur des cotisations au Régime de pensions du Canada (RPC) et des cotisations à l’assurance‑emploi (AE), plus les intérêts applicables, pour les années 2002, 2003 et 2004. La cotisation a été confirmée par le ministre du Revenu national le 31 août 2006. Elle a été établie à l’encontre du Conseil parce qu’il avait négligé de verser les cotisations RPC et les cotisations AE se rapportant à un contrat conclu avec Joanne Barr (la travailleuse) pour qu’elle agisse comme pasteur à l’Université du Nouveau‑Brunswick et à l’Université St. Thomas, à Fredericton (Nouveau‑Brunswick).
+[2] Le Conseil est un organisme œcuménique qui offre un service de pastorale aux étudiants, aux professeurs et au personnel des deux universités susmentionnées. La travailleuse, une ministre de l’Église Unie, a été engagée comme pasteur de campus, selon les contrats qu’elle a conclus avec le Conseil. Ses fonctions étaient décrites ainsi :
+[traduction]
+· faciliter et amorcer la planification et l’établissement d’objectifs pour la pastorale;
+· maintenir une présence et être à disposition aux lieux et moments convenus;
+· être accessible aux étudiants en quête en conseillance;
+· évaluer en permanence la situation ayant cours sur les campus pour voir en quelles occasions un service serait justifié;
+· être au fait des activités des groupes chrétiens œuvrant sur les campus, et les soutenir;
+· travailler durant des horaires variables pouvant comprendre parfois des soirées et des fins de semaine;
+· discuter et établir les priorités et objectifs avec le comité consultatif;
+· aiguiller les étudiants le cas échéant;
+· participer aux diverses fonctions universitaires, en particulier aux activités axées sur les étudiants;
+· coopérer et interagir avec les autres pasteurs;
+· assister à toutes les réunions du Conseil, et faire rapport régulièrement au Conseil;
+· faire connaître la pastorale et les autres activités ecclésiastiques locales s’adressant aux étudiants;
+· établir une liaison avec les églises membres;
+· participer, sur invitation, aux programmes d’aide aux étudiants;
+· visiter les résidences pour étudiants, l’édifice de l’Union des étudiants, etc.
+[3] Le premier contrat conclu entre la travailleuse et le Conseil prévoit une semaine de travail de 20 heures pour une période allant d’août 2001 à mai 2002, avec possibilité de renégocier le contrat après la date d’expiration. Le contrat porte la date du 19 août 2001. La rémunération de la travailleuse était de 400 $ par semaine, sans retenues salariales au titre du RPC, de l’AE ou de l’impôt sur le revenu. Le contrat stipule que [traduction] « le Conseil ne prend pas la responsabilité des retenues salariales et ne versera pas les sommes s’y rapportant ». On peut lire ensuite, ce qui est assez étrange, qu’il incombe à la travailleuse de voir au versement des retenues qui pourraient s’appliquer à sa rémunération hebdomadaire. Le contrat précise aussi que le Conseil n’accorde pas d’avantages complémentaires, tels que l’invalidité à long terme, les soins dentaires, les soins médicaux ou l’assurance‑vie.
+[4] Le contrat stipule aussi que le comité de liaison rencontrera la travailleuse de temps à autre pour discuter avec elle des fonctions du poste et des services qu’elle fournit, et que la travailleuse devra présenter un compte rendu de ses services au comité de liaison avant chaque réunion mensuelle. Le contrat prévoit aussi que le comité de liaison se compose de membres du Conseil et qu’il vérifiera les modalités du contrat et rendra compte au Conseil au besoin.
+[5] Le deuxième contrat, signé le 20 août 2002, s’appliquait à la période allant du 1er août 2002 au 31 mai 2003. La rémunération était alors d’environ 646 $ toutes les deux semaines pour le même nombre d’heures par semaine. La clause de rémunération est ainsi formulée :
+[traduction] Le Conseil paiera à la révérende Barr un salaire calculé d’après un salaire annuel à temps plein de 33 600 $ (12 mois, à raison de 40 heures par semaine). Les avantages sociaux comprendront uniquement une cotisation à un régime de retraite représentant 8 p. 100 du salaire, ainsi qu’une allocation-logement de 500 $ par mois pendant la durée du contrat. Il n’y aura pas de retenues salariales (assurance‑emploi ou RPC).
+[6] La description de travail restait la même, sauf que le comité de liaison avait dès lors été remplacé par le comité du personnel, qui devait périodiquement rencontrer la travailleuse pour discuter avec elle des fonctions du poste et des services qu’elle fournissait. La travailleuse devait dorénavant présenter un compte rendu de ses services à chaque réunion mensuelle du Conseil, au lieu de le présenter au comité de liaison avant la réunion du Conseil. En outre, la disposition selon laquelle [traduction] « le Conseil ne prend pas la responsabilité des retenues salariales et ne versera pas les sommes s’y rapportant » était supprimée, tout comme la disposition selon laquelle il incombait à la travailleuse de faire tous les versements susceptibles d’être déduits de sa rémunération hebdomadaire.
+[7] Le troisième contrat, qui fut signé le 9 juillet 2003, visait la période allant du 1er août 2003 au 31 juillet 2004. Ses modalités étaient les mêmes que celles des contrats antérieurs, sauf que le salaire était dorénavant de 662,30 $ toutes les deux semaines. La travailleuse recevait l’allocation‑logement de 500 $ par mois, mais la cotisation versée par le Conseil au régime de retraite était ramenée à 7 p. 100 du salaire. Il n’y avait pas de retenues salariales, si ce n’est les cotisations versées par la travailleuse elle‑même au Régime de pensions, et elle bénéficierait dorénavant de quatre semaines de congé.
+[8] Le dernier contrat n’est pas signé; il indique très brièvement le montant du salaire, celui de l’allocation‑logement et celui des avantages, et il prévoit une allocation pour les conférences, les ouvrages et le perfectionnement professionnel. Il vise la période allant du 1er août 2004 au 31 juillet 2005. Selon la preuve, l’unique conférence à laquelle a assisté la travailleuse a eu lieu à l’automne de 2006 ou au printemps de 2007, c’est‑à‑dire en dehors de la période considérée. Certaines des dépenses de la travailleuse ont été payées par le Conseil, mais très peu.
+[9] Au cours des trois années en cause, la travailleuse a rencontré des étudiants, en tête‑à‑tête ou en groupes, ainsi que des professeurs. L’université lui fournissait un bureau, qu’elle partageait avec d’autres membres du clergé. L’appelant admet que la travailleuse n’était pas tenue de lui présenter des factures pour recevoir sa rémunération, qu’elle devait lui rendre compte de ses activités et qu’elle était tenue de fournir ses services personnellement, car elle ne pouvait pas se faire remplacer.
+[10] Le comité de direction du Conseil se compose de bénévoles. Ronald Naugler a témoigné au nom du comité. Il était trésorier et membre du Conseil lorsque la travailleuse fut engagée. La travailleuse avait été engagée comme entrepreneure indépendante, en raison du fait que les membres du comité étaient des bénévoles et, plus précisément, parce que le comité voulait épargner de l’argent en se dispensant de devoir payer les cotisations de l’employeur au RPC et à l’assurance-emploi, ainsi que d’autres cotisations qu’il n’a pas précisées davantage.
+[11] Selon M. Naugler, aucun membre du comité de direction n’exerçait un contrôle sur la travailleuse et personne ne supervisait son travail. Elle devait faire ses 20 heures par semaine. Au tout début, il n’y avait aucun arrangement se rapportant aux vacances ou aux congés de maladie, et elle n’était pas tenue non plus de se présenter à quiconque si ce n’est au Conseil à l’occasion de sa réunion mensuelle. Elle lui présentait un rapport oral ou écrit. Le Conseil ne lui fournissait rien, puisque l’université mettait un bureau à sa disposition. Elle ne recevait aucune formation et le Conseil ne lui donnait pas de directives. M. Naugler reconnaît que la travailleuse est une professionnelle très expérimentée et il dit que le comité de direction avait présumé qu’elle accomplirait ses tâches en conséquence, mais il admet néanmoins que les choses auraient pu être différentes si elle avait été une jeune diplômée. Bien que les contrats fassent état du poste de pasteur, M. Naugler dit que la travailleuse a été engagée davantage en tant que conseillère qu’en tant que pasteur.
+[12] M. Naugler ne se souvient pas si un comité du personnel a jamais existé. Les rapports mensuels étaient présentés aux membres du comité de direction. Le Conseil ne fournissait à la travailleuse ni livres, ni téléphone, ni ordinateur, ni aucun autre support lié au travail, et l’on ne sait pas non plus si elle s’en servait effectivement ou si elle y avait accès.
+[13] Durant la période en cause, le Conseil avait un employé à temps plein qui, même s’il n’avait pas été ordonné pasteur, fournissait des services semblables à ceux de la travailleuse. Ils partageaient le même bureau à l’université et faisaient les mêmes heures. La travailleuse fut finalement embauchée comme employée après que le Conseil fut prié d’acquitter les cotisations impayées.
+[14] Au vu de la preuve, on peut présumer que la travailleuse était en mesure d’effectuer les autres tâches de son ministère, par exemple de célébrer les mariages et les baptêmes, en dehors de ses heures de travail. L’agent des appels a bien reçu un questionnaire d’information, dûment rempli, signé par Joanne Barr, qui tendrait à confirmer cette hypothèse. Un questionnaire d’information a aussi été envoyé au Conseil. Dans les deux questionnaires, le Conseil et la travailleuse s’accordent sur presque tout. Parmi les points de désaccord, cependant, il y a la question numéro 25, où on leur demande si, selon eux, la travailleuse est une entrepreneure indépendante ou une employée. Le Conseil a dit que, selon lui, elle était une entrepreneure indépendante, tandis que la travailleuse a dit qu’elle était une employée. Aucune des parties n’a appelé la travailleuse à témoigner.
+[15] La question soumise à la Cour est celle de savoir si la travailleuse occupait, auprès du Conseil, un emploi assurable et ouvrant droit à pension, au sens de la Loi sur l’assurance-emploi et du Régime de pensions du Canada. Autrement dit, la travailleuse travaillait‑elle pour le Conseil en vertu d’un contrat de louage de services ou en vertu d’un contrat d’entreprise?
+[16] Dans un jugement récent rendu par la Cour, Kilbride c. La Reine, 2007 CCI 663, la juge Campbell passait en revue certaines des décisions les plus récentes de la Cour d'appel fédérale et de la Cour canadienne de l'impôt sur cette question. Elle en a fait un résumé qui mérite d’être reproduit, s’agissant des critères qu’il convient de prendre en compte dans l’analyse de cette question.
+18 Dans la récente décision Lang c. La Reine, [2007] A.C.I. n° 365, le juge en chef Bowman a effectué un examen complet des récentes décisions portant sur le sujet et a résumé ses conclusions au paragraphe 34 :
+a) Le critère à quatre volets énoncé dans l’arrêt Wiebe Door, tel qu’il a été confirmé dans l’arrêt Sagaz, est un facteur important dans tous les cas, y compris ceux qui viennent du Québec.
+b) La Cour d’appel fédérale a relégué le critère à quatre volets énoncé dans l’arrêt Wiebe Door au rang des « points de repère utiles », « pertinents et utiles lorsqu’il s’agit de déterminer quelles étaient les intentions des parties ». Cela est vrai tant au Québec que dans les provinces de common law.
+c) L’intégration en tant que critère n’entre plus en ligne de compte à toutes fins utiles. Les juges qui essaient de l’appliquer le font à leurs risques et périls.
+d) L’intention est un critère qui ne peut être ignoré, mais son poids n’est pas encore déterminé. Le poids à lui accorder varie d’un cas à l’autre : il peut être prédominant ou il peut être un critère de démarcation. La Cour suprême du Canada n’a pas tenu compte de ce critère. Si elle en tient compte, le jugement rendu en dissidence par le juge Evans dans l’arrêt Royal Winnipeg Ballet devra être pris en considération.
+e) Les juges de première instance qui omettent de tenir compte de l’intention risquent fort de voir leurs jugements annulés par la Cour d’appel fédérale. (Cependant, voir l’affaire Gagnon, dans laquelle l’intention n’a pas été prise en considération en première instance mais que la Cour d’appel fédérale a établie en se reportant aux critères énoncés dans l’arrêt Wiebe Door, que le juge de première instance avait appliqués. Comparer avec Royal Winnipeg Ballet, City Water et Wolf.)
+19 Dans l’arrêt Royal Winnipeg Ballet, tout comme en l’espèce, il n’existait aucun contrat écrit, mais les deux parties avaient clairement l’intention d’entretenir une relation d’entrepreneur indépendant. Aux paragraphes 63 et 64, la juge Sharlow de la Cour d’appel a conclu qu’il était essentiel d’examiner les facteurs énoncés dans Wiebe Door compte tenu de la vue commune aux parties concernant leur relation juridique :
+Ce qui est inhabituel en l’espèce, c’est qu’il n’y a pas d’accord écrit qui vise à qualifier la relation juridique existant entre les danseurs et le RWB, et que, parallèlement, les parties s’entendent sur ce qu’elles croient être la nature de leur relation. La preuve relève que le RWB, la CAEA et les danseurs pensaient tous que les danseurs étaient des travailleurs indépendants et que toutes ces parties ont agi en conséquence. Le litige portant sur la nature de la relation juridique existant entre les danseurs et le RWB vient du fait qu’un tiers (le ministre), qui a un intérêt légitime à ce que la relation juridique soit correctement qualifiée, souhaite faire écarter le témoignage des parties au sujet de leur intention commune parce que ce témoignage n’est pas compatible avec les faits objectifs.
+Dans les circonstances, il me semble qu’il serait contraire aux principes applicables de mettre de côté, en le considérant comme dépourvu de toute force probante, le témoignage non contredit des parties quant à la façon dont elles comprennent la nature de leur relation juridique, même si ce témoignage ne saurait être déterminant. Le juge aurait dû examiner les facteurs de Wiebe Door à la lumière de ce témoignage non contredit et se demander si, dans l’ensemble, les faits étaient compatibles avec la conclusion selon laquelle les danseurs étaient des travailleurs indépendants, comme les parties le pensaient, ou s’ils étaient davantage compatibles avec la conclusion selon laquelle les danseurs étaient des employés. C’est parce que le juge n’a pas adopté cette approche qu’il en est arrivé à une conclusion erronée.
+20 Dans des motifs concourants, la juge Desjardins a affirmé ce qui suit, au paragraphe 72 :
+Comme l’a démontré la juge Sharlow, même si l’intention des parties n’est pas contestée, sauf par des tiers, comme c’est le cas en l’espèce, le juge de common law a néanmoins le devoir de « vérifier » si les termes utilisés et les faits de l’affaire sont compatibles avec la qualification donnée au contrat par les parties. Le juge de common law doit veiller à ce que le contrat signé par les parties reflète effectivement l’entente qu’elles affirment avoir conclue.
+21 Dans la décision Combined Insurance Company of America c. M.R.N., [2007] A.C.F. n° 124, après avoir examiné la récente jurisprudence, y compris Royal Winnipeg Ballet, le juge Nadon a affirmé ce qui suit, au paragraphe 35 :
+De ces décisions, il se dégage, à mon avis, les principes suivants :
+1. Les faits pertinents, incluant l’intention des parties quant à la nature de leur relation contractuelle, doivent être examinés à la lumière des facteurs de Wiebe Door, précitée, et à la lumière de tout autre facteur qui peut s’avérer pertinent compte tenu des circonstances particulières de l’instance;
+2. Il n’existe aucune manière préétablie d’appliquer les facteurs pertinents et leur importance dépendra des circonstances et des faits particuliers de l’affaire.
+Même si en règle générale, le critère de contrôle aura une importance marquée, les critères élaborés dans Wiebe Door et Sagaz, précités, s’avéreront néanmoins utiles pour déterminer la véritable nature du contrat.
+22 Toutes ces décisions sont semblables. Il est évident qu’aucun des critères n’est déterminant. Pour trancher chacune des affaires précitées, il a fallu examiner le critère qui s’appliquait et utiliser le gros bon sens.
+23 En fonction de ces décisions, je dois tenir compte de l’intention des parties au présent appel et établir l’importance à accorder à cette intention selon les circonstances. Il ressort cependant de la récente jurisprudence que la simple intention n’est pas un facteur déterminant et que les facteurs énoncés dans Wiebe Door doivent être examinés afin de trancher si les parties entretenaient bel et bien une relation de travail qui reflétait l’intention qu’elles avaient formulée.
+24 Les quatre facteurs du critère à quatre volets énoncé dans Wiebe Door sont les suivants :
+(1) le degré de contrôle;
+(2) la propriété des instruments de travail;
+(3) les chances de bénéfice;
+(4) les risques de perte.
+[17] En l’espèce, il est clair que les parties n’étaient pas sur la même longueur d’onde quant à leurs intentions lorsqu’elles ont conclu ces accords au cours des trois années visées par l’appel. Leurs réponses respectives à la question numéro 25, qui concerne leur manière respective de voir le statut de la travailleuse, sont contradictoires. La travailleuse croyait qu’elle était une employée, tandis que le Conseil croyait qu’elle était une entrepreneure indépendante. La travailleuse n’a pas témoigné, mais, en dépit de leurs réponses respectives à la question numéro 25, la position du Conseil, qui voyait la travailleuse comme une entrepreneure indépendante, ne semble pas être confirmée par les modalités des trois contrats qui furent conclus. Le premier contrat conclu entre les parties est le seul qui écarte la possible existence d’une relation employeur‑employée. Il précise toutefois que, si le Conseil devait être prié d’acquitter les retenues non versées, alors il incomberait à la travailleuse de faire les versements requis. Autrement dit, si le contrat devait être considéré comme autre chose qu’un contrat d’entreprise, alors la travailleuse devrait indemniser le Conseil. Or, si l’intention véritable des parties était de conclure un contrat d’entreprise, pourquoi une telle clause était‑elle nécessaire? S’agissant du deuxième contrat, il renferme une clause qui parle des avantages sociaux, c’est‑à‑dire d’une cotisation du Conseil au régime de retraite, se chiffrant à 8 p. 100 du salaire, et d’une allocation‑logement. Selon moi, cela montre bien que les parties avaient à l’esprit l’existence d’une relation employeur‑employée. Or, ce même contrat ne fait nulle part état de retenues au titre de l’assurance-emploi ou du RPC. Le troisième contrat ramène à 7 p. 100 la cotisation du Conseil au régime de retraite, il maintient l’allocation-logement, mais il ajoute une période de congé de quatre semaines. Ces conditions montrent elles aussi que les parties avaient à l’esprit l’existence d’une relation employeur-employée.
+[18] Les incertitudes que recèlent les modalités des trois contrats signés font douter de l’intention réelle du Conseil sur la question de savoir si la travailleuse était une employée ou une entrepreneure indépendante. C’est comme si la seule intention véritable était de trouver simplement un moyen d’éviter à l’employeur de payer sa part des cotisations au RPC et à l’assurance-emploi. À tous autres égards, l’entente semble présenter les caractéristiques d’une relation employeur-employée, car la travailleuse était considérée comme une employée dans la plupart des modalités des contrats.
+Degré de contrôle
+[19] S’agissant du degré de contrôle, le Conseil précisait dans le premier contrat que la travailleuse devait rencontrer périodiquement le comité de liaison pour discuter avec lui des fonctions du poste et des services qu’elle fournissait. Le comité de liaison devait surveiller l’observation des modalités de ce contrat et présenter un rapport au Conseil. Dans le deuxième et le troisième contrats, la travailleuse devait rencontrer le comité du personnel, pour les mêmes fins, et elle devait présenter un compte rendu de ses services à chaque réunion mensuelle du Conseil.
+[20] Étant donné que la travailleuse dont il s’agit ici est une professionnelle qui fournit des services à titre de conseillère, le degré de supervision et de contrôle n’est pas aussi élevé que dans d’autres circonstances. Cela ne fait pas cependant obstacle à l’établissement et au maintien d’une relation employeur-employée. Dans le cas qui nous intéresse, je suis d’avis que le Conseil exerçait sur la travailleuse un contrôle suffisant pour qu’il soit possible de conclure à l’existence d’une telle relation. Les responsabilités de la travailleuse, décrites dans les contrats, laissaient place à un degré de contrôle qui s’accorde avec celui qu’exerce un employeur. La travailleuse devait, entre autres choses, faire des heures variables (y compris le soir et les fins de semaine), exercer certaines fonctions, assister aux réunions du Conseil et faire rapport au Conseil. Elle était soumise à un certain degré de supervision. Ce facteur n’est pas absolument déterminant, mais je suis d’avis qu’il existait un degré de contrôle qui permet de conclure à l’existence d’une relation employeur-employée.
+Propriété des instruments de travail
+[21] Ce qu’apportait la travailleuse, c’était essentiellement sa formation et son expérience. Ce facteur n’est pas en soi un facteur déterminant, car il s’accorde autant avec le statut d’employé qu’avec le statut d’entrepreneur indépendant. Les instruments matériels tels que le bureau, les téléphones et les ordinateurs, étaient fournis par l’université au Conseil pour que celui‑ci puisse fournir les services prévus par son contrat. C’étaient des choses que la travailleuse n’était pas tenue de fournir elle‑même. Ce facteur militerait donc en faveur de l’existence d’une relation employeur-employée.
+Chances de bénéfice/risques de perte
+[22] Dans la situation qui nous intéresse, la travailleuse ne courait aucun risque de perte et elle n’était pas non plus en position de réaliser un bénéfice. Elle était rémunérée à raison d’une semaine de travail de 20 heures, à un taux fixé et, selon le deuxième et le troisième contrats, elle recevait ce que l’on appelle des avantages sociaux. La travailleuse devait être remboursée de ses dépenses si elle assistait à une conférence. Ces facteurs donnent à penser que la travailleuse était une employée.
+Intégration
+[23] S’agissant de l’intégration, il est juste de dire que le principal objectif du Conseil est d’offrir un service de pastorale aux étudiants, aux professeurs et au personnel des deux universités, et que le rôle de la travailleuse fait partie des moyens pris pour atteindre cet objectif. On doit aussi se rappeler que l’intégration est rarement un facteur décisif. L’appelant fait valoir que la travailleuse est engagée sur la base d’un contrat annuel et qu’il lui est donc impossible d’être pleinement intégrée. Quoi qu’il en soit, l’intégration reste un facteur très difficile à mesurer.
+[24] Au vu de la preuve tout entière, j’arrive donc à la conclusion que la travailleuse occupait auprès du Conseil un emploi assurable et ouvrant droit à pension. Les appels sont donc rejetés.
+Signé à Edmundston (Nouveau-Brunswick), ce 4e jour d’avril 2008.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 25e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE : 2008CCI135
+Nos DES DOSSIERS DE LA COUR : 2006-3373(CPP)
+2006-3374(EI)
+INTITULÉ : Fredericton Council for Christian Ministry on Campus c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Fredericton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : Le 23 novembre 2007
+MOTIFS DU JUGEMENT : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 4 avril 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Andrew D. Rouse
+Avocat de l’intimé :
+Me Martin Hickey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Andrew Rouse
+Cabinet : Mockler Peters Oley Rouse Fredericton (Nouveau-Brunswick)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,168 @@
+---
+title: "Lans c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30228/index.do"
+last_modified: "2011-02-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 121"
+citation2: ""
+neutral_citation: "2011 CCI 121"
+decision_date: "2011-02-23"
+language: "fr"
+item_id: "30228"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7755
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:05:07.639000+00:00"
+cases_cited_count: 10
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1f57c4053c2d3e8573c299e4296f8848b430b813337ae0bb7f37b82ec07959a8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lans c. La Reine
+
+- Citation: 2011 CCI 121
+- Decision date: 2011-02-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7755, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lans c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-23
+Référence neutre
+2011 CCI 121
+Numéro de dossier
+2010-3135(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3135(IT)I
+ENTRE :
+CHERYL LANS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 17 février 2011 à Vancouver (Colombie‑Britannique).
+Devant : l’honorable juge Judith Woods
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Kristian DeJong
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 est rejeté. Chaque partie assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 23e jour de février 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 30e jour de mars 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2011 CCI 121
+Date : 20110223
+Dossier : 2010-3135(IT)I
+ENTRE :
+CHERYL LANS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] L’appelante, Cheryl Lans, interjette appel des cotisations établies par le ministre du Revenu national (le « ministre ») concernant des cotisations excédentaires versées à des régimes enregistrés d’épargne‑retraite (les « REER ») en 2004 et en 2005.
+[2] Le ministre a établi un impôt concernant les cotisations excédentaires en vertu du paragraphe 204.1(2.1) de la Loi de l’impôt sur le revenu (la « Loi »), ainsi que des pénalités et des intérêts. L’impôt et les pénalités établis pour 2004 sont de 1 039,88 $ et de 176,78 $, respectivement. L’impôt et les pénalités établis pour l’année d’imposition 2005 sont de 1 098,72 $ et de 186,78 $, respectivement.
+[3] L’appelante reconnaît qu’elle a effectué des cotisations excédentaires à ses REER. Toutefois, l’appelante soutient qu’il n’est pas approprié d’établir à son égard un impôt, une pénalité et des intérêts compte tenu de sa situation particulière.
+L’impôt devrait-il être annulé?
+[4] L’appelante soutient qu’elle ne devrait pas être assujettie à l’impôt prévu au paragraphe 204.1(2.1) de la Loi, parce qu’elle croyait raisonnablement que l’Agence du revenu du Canada (l’« ARC ») n’établirait pas de cotisation à son égard, étant donné qu’elle n’avait pas de revenus imposables dans les années en cause.
+[5] En outre, l’appelante avance que l’impôt devrait être annulé parce que l’ARC avait exigé que l’appelante inclue dans son revenu des subventions postdoctorales. Elle soutient que cette politique n’est pas appliquée de façon uniforme à l’échelle du pays et que certains contribuables n’ont pas été tenus d’inclure de telles subventions dans leur revenu. L’application inégale de la loi aboutit à une situation inéquitable, déclare-t-elle, ce qui justifie l’annulation de l’impôt établi relativement aux cotisations excédentaires.
+[6] Le paragraphe 204.1(2.1) de la Loi prévoit ce qui suit :
+204.1(2.1) Le particulier qui, à la fin d’un mois donné postérieur au mois de décembre 1990, a un excédent cumulatif au titre de régimes enregistrés d’épargne‑retraite doit, pour ce mois, payer un impôt selon la présente partie égal à 1 % de cet excédent.
+[7] L’impôt dont il est question est un impôt spécial perçu sous le régime de la partie X.1 de la Loi. Il s’applique indépendamment du fait qu’un contribuable a un revenu imposable ou non.
+[8] Les arguments soulevés par l’appelante sont essentiellement fondés sur des motifs d’équité. La Cour ne peut pas accorder un redressement fondé uniquement sur ces motifs, ainsi qu’il a été jugé dans Chaya c. La Reine, 2004 CAF 327; 2004 DTC 6676. Le législateur a expressément prévu, au paragraphe 204.1(2.1) de la Loi, un impôt sur les cotisations excédentaires versées à un REER. La Cour ne peut pas annuler les cotisations établies en se fondant sur le fait que la loi aboutit à un résultat inéquitable dans la situation de l’appelante.
+[9] Il convient de souligner que le paragraphe 204.1(4) de la Loi donne au ministre un pouvoir limité de renoncer à l’impôt pour des motifs d’équité.
+[10] Voici ce que prévoit le paragraphe 204.1(4) de la Loi :
+204.1(4) Le ministre peut renoncer à l’impôt dont un particulier serait, compte non tenu du présent paragraphe, redevable pour un mois selon le paragraphe (1) ou (2.1), si celui-ci établit à la satisfaction du ministre que l’excédent ou l’excédent cumulatif qui est frappé de l’impôt fait suite à une erreur acceptable et que les mesures indiquées pour éliminer l’excédent ont été prises.
+[11] La Cour n’a pas compétence pour s’immiscer dans les décisions ministérielles prises conformément au paragraphe susmentionné. Cette compétence appartient à la Cour d’appel fédérale, ainsi qu’il a été jugé dans Neubauer c. La Reine, 2006 CCI 457; 2006 DTC 3252. L’appelante s’est donc adressée à un tribunal qui n’a pas compétence pour lui accorder le redressement demandé.
+[12] Il est regrettable que l’intimée n’ait pas soulevé la question de compétence dans la réponse. Je ne blâme pas l’intimée, toutefois, étant donné que la position de l’appelante sur la question n’était pas clairement indiquée dans l’avis d’appel. En réalité, l’appelante m’avait confirmé au début de l’audience qu’elle n’avait pas l’intention de contester l’impôt établi. Elle a rectifié sa position au cours de l’audience.
+[13] Pour les motifs exposés ci‑dessus, la cotisation d’impôt établie en vertu du paragraphe 204.1(2.1) de la Loi est maintenue.
+Les pénalités devraient-elles être annulées?
+[14] Les pénalités ont été établies relativement à l’omission de l’appelante de déposer en temps opportun une déclaration spéciale exigée en cas de cotisations excédentaires versées à un REER. L’exigence de la déclaration est prévue au paragraphe 204.3(1) de la Loi. Cette disposition est reproduite ci‑après :
+204.3(1) Les contribuables visés par la présente partie doivent, dans les 90 jours qui suivent la fin de chaque année postérieure à 1975 :
+a) produire auprès du ministre, sans avis ni mise en demeure, une déclaration pour l’année en vertu de la présente partie, selon le formulaire prescrit et contenant les renseignements prescrits;
+b) estimer, dans cette déclaration, l’impôt dont ils sont redevables en vertu de la présente partie pour chaque mois de l’année;
+c) verser cet impôt au receveur général.
+[Non souligné dans l’original.]
+[15] Les pénalités ont été établies en vertu des paragraphes 162(1) et 204.3(2) de la Loi. Ces dispositions prévoient ce qui suit :
+162(1) Toute personne qui ne produit pas de déclaration de revenu pour une année d’imposition selon les modalités et dans le délai prévus au paragraphe 150(1) est passible d’une pénalité égale au total des montants suivants :
+a) 5 % de l’impôt payable pour l’année en vertu de la présente partie qui était impayé à la date où, au plus tard, la déclaration devait être produite;
+b) le produit de 1 % de cet impôt impayé par le nombre de mois entiers, jusqu’à concurrence de 12, compris dans la période commençant à la date où, au plus tard, la déclaration devait être produite et se terminant le jour où la déclaration est effectivement produite.
+204.3(2) Les paragraphes 150(2) et (3), les articles 152 et 158, les paragraphes 161(1) et (11), les articles 162 à 167 et la section J de la partie I s’appliquent à la présente partie, avec les adaptations nécessaires.
+[Non souligné dans l’original.]
+[16] Je ferais d’abord observer que l’article 162 de la Loi prévoit plusieurs sortes de pénalités différentes. La disposition qui a été appliquée, le paragraphe 162(1), entre en jeu seulement lorsqu’il y a omission de production d’une déclaration de revenus. La déclaration exigée en cas de cotisations excédentaires versées à un REER n’est pas une déclaration de revenus.
+[17] Toutefois, le paragraphe 162(1) de la Loi peut être modifié pour être adapté aux circonstances selon le paragraphe 204.3(2) de la Loi. La pénalité prévue au paragraphe 162(1) de la Loi peut par conséquent s’appliquer à cette sorte de déclaration. L’avocat de l’intimée m’a renvoyée à d’autres décisions de la Cour dans lesquelles il y a eu confirmation de l’application du paragraphe 162(1) de la Loi dans des circonstances semblables. Il s’agit des décisions Pereira-Jennings c. La Reine, 2009 CCI 330; 2009 DTC 1193 et McNamee c. La Reine, 2009 CCI 630; 2010 DTC 1033.
+[18] L’appelante soutient que le paragraphe 162(1) de la Loi ne s’applique pas dans son cas parce qu’elle n’était pas assujettie à l’impôt pour les années 2004 et 2005. L’appelante invoque la décision Exida.com Limited Liability Co. c. La Reine, 2010 CAF 159; 2010 DTC 5101.
+[19] L’appelante a mal interprété la décision Exida.com. Cette décision portait sur une interprétation du passage « la pénalité dont […] est passible » contenu au paragraphe 162(2.1) de la Loi. Le paragraphe 162(2.1) de la Loi ne concerne en rien le présent appel et le passage précis analysé dans Exida.com ne se trouve pas dans la disposition en cause dans le présent appel.
+[20] L’appelante soutient aussi que les pénalités devraient être annulées parce qu’elle avait agi de manière raisonnable dans les circonstances. Plus particulièrement, l’appelante affirme qu’elle croyait raisonnablement qu’un impôt ne serait pas établi sur les cotisations excédentaires en l’absence de revenus imposables.
+[21] La question est de savoir si, dans cette situation, il y a eu diligence raisonnable au point de justifier l’annulation des pénalités. À mon avis, il n’y a pas eu diligence raisonnable.
+[22] Pour se prévaloir du moyen de défense fondé sur la diligence raisonnable afin d’obtenir l’annulation d’une pénalité, le contribuable doit établir qu’il a pris des mesures appropriées pour déterminer ses obligations selon la Loi.
+[23] L’appelante a déclaré qu’après avoir effectué des recherches, elle est arrivée à la conclusion selon laquelle l’impôt ne serait pas établi.
+[24] La preuve produite en l’espèce n’est pas convaincante sur le fait que les recherches effectuées par l’appelante constituent des mesures indiquées. Par exemple, l’appelante n’a cité aucune référence particulière sur laquelle elle s’est fondée pour aboutir raisonnablement à cette conclusion. Je ne suis pas convaincue du fait que des mesures appropriées aient été prises.
+Les intérêts devraient‑ils être annulés?
+[25] L’appelante demande aussi que les intérêts soient annulés pour des motifs d’équité. Il n’y a aucun fondement dans la Loi qui permette à la Cour d’accorder ce redressement.
+Conclusion
+[26] Avant de conclure, je voudrais mentionner que l’ARC avait avisé l’appelante en 2007 de l’exigence de paiement de l’impôt établi relativement aux cotisations excédentaires versées au REER. Toutefois, l’appelante n’a produit le formulaire requis qu’en février 2009. Je ne suis pas convaincue qu’il y avait une excuse raisonnable pour justifier ce retard. Je conclus qu’en l’espèce, le ministre a établi à juste titre l’impôt, les pénalités et les intérêts.
+[27] L’appel est rejeté.
+Signé à Toronto (Ontario), ce 23e jour de février 2011.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+Ce 30e jour de mars 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2011 CCI 121
+No DU DOSSIER DE LA COUR : 2010-3135(IT)I
+INTITULÉ : CHERYL LANS
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 17 février 2011
+MOTIFS DU JUGEMENT : L’honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 23 février 2011
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Kristian DeJong
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s/o
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

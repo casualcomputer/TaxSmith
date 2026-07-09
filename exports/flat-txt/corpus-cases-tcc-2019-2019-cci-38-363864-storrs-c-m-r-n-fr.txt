@@ -1,0 +1,198 @@
+Title: Storrs c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/363864/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-38-363864-storrs-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2019-02-20
+
+# Storrs c. M.R.N.
+
+- Citation: 2019 CCI 38
+- Decision date: 2019-02-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4357, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Storrs c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-02-20
+Référence neutre
+2019 CCI 38
+Numéro de dossier
+2017-3444(EI), 2017-3445(CPP)
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2017-3445(CPP)
+ENTRE :
+JENNIFER IDELL STORRS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Jennifer Idell Storrs (2017‑3444(EI)) le 20 novembre 2018, à Calgary (Alberta)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Avocats de l’appelante :
+Me Tyler Derksen / Me Aman Rai
+Avocat de l’intimé :
+Me Aminollah Sabzevari
+JUGEMENT
+Il est fait droit à l’appel interjeté en vertu du paragraphe 28(1) du Régime de pensions du Canada et la décision du ministre du Revenu national datée du 23 mai 2017 est modifiée conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de février 2019.
+« Susan Wong »
+Juge Wong
+Dossier : 2017-3445(CPP)
+ENTRE :
+JENNIFER IDELL STORRS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de Jennifer Idell Storrs (2017‑3444(EI)) le 20 novembre 2018, à Calgary (Alberta)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Avocats de l’appelante :
+Me Tyler Derksen / Me Aman Rai
+Avocat de l’intimé :
+Me Aminollah Sabzevari
+JUGEMENT
+Il est fait droit à l’appel interjeté au titre du paragraphe 103(1) de la Loi sur l’assurance-emploi et la décision du ministre du Revenu national du 23 mai 2017 est modifiée conformément aux motifs de jugement ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de février 2019.
+« Susan Wong »
+Juge Wong
+Référence : 2019 CCI 38
+Date : 20190220
+Dossiers : 2017-3444(EI)
+2017-3445(CPP)
+ENTRE :
+JENNIFER IDELL STORRS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Wong
+Introduction
+[1] L’appelante, Jennifer Storrs, interjette appel de la décision rendue le 23 mai 2017 par le ministre du Revenu national (le « ministre ») dans laquelle le ministre a confirmé une décision selon laquelle Mme Storrs était travailleuse autonome du 1er janvier 2015 au 15 juin 2016 (la « période »).
+[2] Le ministre a déterminé qu’au cours de la période, l’appelante n’avait pas occupé un emploi assurable et ouvrant droit à pension au sein de la Ronald C. Witzke Professional Dental Corporation (le « payeur ») au sens des alinéas 5(1)a) de la Loi sur l’assurance-emploi (« LAE ») et 6(1)a) du Régime de pensions du Canada (« RPC »), respectivement.
+[3] L’intimé a appelé Patricia Papadoulis (agente des décisions), Stephanie Perras (agente d’examen des comptes en fiducie) et Diana Greaves (comptable chez EBT Chartered Professional Accountants) comme témoins. Personne de chez le payeur n’a témoigné.
+L’objection de l’appelante concernant le ouï-dire
+[4] Avant de passer à l’application du critère juridique en l’espèce, je dois d’abord répondre à l’objection soulevée par l’avocat de l’appelante au sujet de la preuve par ouï-dire.
+Objection
+[5] L’avocat a soutenu que la Cour devrait accorder peu de poids au témoignage des témoins de l’intimé et au questionnaire du payeur (pièce A‑1, onglet 4; pièce R‑7) rempli par le payeur, parce qu’il s’agit de ouï-dire. Il a fait valoir que l’appelante a été privée de l’équité procédurale parce que l’intimé n’a appelé personne de chez le payeur et que, par conséquent, personne de chez le payeur n’était disponible pour le contre-interrogatoire. Il a ensuite reconnu que l’appelante n’avait pas non plus assigné à témoigner qui que ce soit de chez le payeur et il a expliqué qu’à son avis, la preuve de l’appelante serait suffisante pour réfuter les hypothèses de fait du ministre dans la réponse à l’avis d’appel.
+Analyse
+[6] Les alinéas 18.29(1)a) et b) de la Loi sur la Cour canadienne de l’impôt incorporent l’application des dispositions de la Loi relatives à la procédure informelle aux appels interjetés au titre de la partie I du RPC et de la partie IV de la LAE, respectivement. Par conséquent, le paragraphe 18.15(3) s’applique de sorte que la Cour n’est pas liée par les règles de la preuve lorsqu’elle entend des appels concernant le RPC et la LAE et qu’elle doit traiter ces appels de façon informelle et rapide, tout en tenant compte des circonstances et de l’équité.
+[7] Je ne conclus pas que le fait que l’intimé ait refusé de convoquer un témoin de chez le payeur pour témoigner a privé l’appelante de l’équité procédurale. Si l’appelante exigeait la présence d’une personne de chez le payeur pour lui poser des questions, elle avait (par l’entremise de son avocat) le droit d’assigner les témoins dont elle avait besoin. C’est le droit d’assigner les témoins nécessaires pour défendre sa position qui assure l’équité procédurale de la situation actuelle, plutôt que le droit de contre-interroger un témoin que la partie adverse a choisi de ne pas convoquer.
+[8] En ce qui concerne la preuve par ouï-dire présentée pendant le procès, il incombe à la Cour de lui accorder la force probante appropriée.
+Critère applicable
+[9] Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., (« Sagaz »), 2001 CSC 59, [2001] 2 RCS 983, aux paragraphes 46 et 47, la Cour suprême du Canada a dit qu’il n’existe aucun critère universel permettant de déterminer si quelqu’un est un employé ou un entrepreneur indépendant et que « [l]a question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte ». La Cour a alors fait référence à la liste non exhaustive de facteurs à prendre en considération :
+[47] […] Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[10] Dans l’arrêt 1392644 Ontario Inc., s/n Connor Homes c. Le ministre du Revenu national, 2013 CAF 85, [2013] ACF no 327, aux paragraphes 38 à 42, la Cour d’appel fédérale a examiné le poids à accorder à l’intention des parties quant à la détermination de la situation d’employé (contrat de louage de services) ou d’entrepreneur indépendant (contrat de service). Elle a conclu que sa démarche devait se dérouler en deux étapes et qu’elle devait établir d’abord l’intention subjective des parties et ensuite la réalité objective en confirmation de cette intention. La Cour a aussi déclaré que la question centrale demeurait celle qui est précisée plus haut dans l’arrêt Sagaz.
+A. L’intention
+[11] L’appelante est titulaire de diplômes en hôtellerie et en commerce électronique administratif. Immédiatement avant la période, elle a travaillé comme aide-comptable auprès de EBT Chartered Professional Accountants (« EBT »).
+[12] Pendant son témoignage, elle a déclaré que pendant qu’elle travaillait chez EBT, elle avait fourni des services de tenue de livres au payeur à titre de cliente d’EBT. Elle a déclaré qu’à l’époque, le payeur était un cabinet dentaire comptant environ 15 employés, dont le Dr Ronald Witzke.
+[13] Elle a déclaré qu’à la fin de novembre 2014, elle avait quitté son poste chez ETB et qu’elle avait reçu deux semaines de salaire en guise d’indemnité de départ. Elle a témoigné qu’à peu près au même moment, Kim‑Michelle McNolty l’avait approchée au nom du payeur et lui avait demandé de continuer à fournir des services de tenue de livres directement au payeur.
+[14] L’appelante a témoigné qu’elle avait ensuite commencé à tenir les livres du payeur directement. Elle a déclaré que vers février 2015, elle avait eu une conversation plus longue avec Mme McNolty, au cours de laquelle l’appelante avait dit à Mme McNolty que si le payeur souhaitait qu’elle continue de fournir des services de tenue de livres, elle souhaitait avoir le statut d’employée. Elle a déclaré qu’elle avait demandé un salaire mensuel de 4 500 $ net d’impôt, et que Mme McNolty avait consenti à la fois à accorder le statut d’employé et le salaire mensuel net.
+[15] L’appelante a témoigné que son premier jour de travail était le 1er février 2015. En ce qui concerne la date de début de l’appelante, je remarque que dans son questionnaire de l’employée (pièce A‑1, onglet 3, à la question 39), daté du 22 avril 2017 et signé par elle, elle a indiqué que son premier jour d’emploi était le 1er mars 2015. Au cours de l’audience, l’appelante n’a pas expliqué la contradiction dans ses déclarations. De plus, à la question 41 du questionnaire du payeur (pièce A‑1, onglet 4; pièce R‑7) daté du 3 mai 2017 et signé par le Dr Witzke, le payeur a indiqué que le premier jour d’emploi de l’appelante était le 1er janvier 2015.
+[16] Dans le questionnaire du payeur, le payeur a déclaré à la question 77 qu’il avait l’intention que l’appelante soit une travailleuse autonome.
+[17] L’appelante a créé un profil LinkedIn (pièce R-1) dans lequel elle se décrit comme une travailleuse autonome ayant deux ans d’expérience de travail comme aide-comptable contractuelle, à compter de 2015. En contre-interrogatoire, elle a reconnu avoir créé le profil, mais elle n’a pas expliqué la position contraire adoptée dans le présent appel.
+[18] L’appelante a déclaré qu’au début d’avril 2016, Mme McNolty l’a informée que le payeur n’aurait plus besoin de ses services à compter du 15 avril. L’appelante a dit que le payeur éprouvait des problèmes de trésorerie et qu’il était donc devenu nécessaire de la mettre à pied. Elle a déclaré que le payeur lui avait versé une semaine d’indemnité de départ. D’autre part, le payeur a indiqué à la question 59 du questionnaire du payeur qu’à la fin de la relation, aucune rémunération ou prestation n’avait été versée à l’appelante au moment de la cessation d’emploi.
+[19] L’agente des décisions, Mme Papadoulis, a témoigné que ses notes d’entrevue (pièce A‑1, onglet 5) avaient été rédigées de façon concomitante, puis transcrites peu de temps après, ce que je tiens pour avéré. Elle a parlé à l’appelante et elle a tenté de parler au Dr Witzke, qui n’a pas répondu à ses tentatives de le joindre. Mme Papadoulis a plutôt parlé avec Mme Greaves de chez EBT, qui a indiqué que le payeur continuait d’être un client d’EBT pour la comptabilité de fin d’exercice après que l’appelante ait commencé à tenir les livres du payeur au début de 2015. Mme Greaves a informé Mme Papadoulis que le payeur tenait absolument à ce que l’appelante soit embauchée à forfait. Par contre, lorsque Mme Papadoulis a interviewé l’appelante, celle-ci a également affirmé catégoriquement qu’elle était l’employée du payeur.
+Analyse de l’intention
+[20] Compte tenu des déclarations contradictoires faites par l’appelante à différents moments et de la participation limitée du payeur en général, j’estime que la preuve par ouï-dire présentée dans les documents présentés par les deux parties et le témoignage des témoins de l’intimé ont une grande valeur probante.
+[21] Il est suffisamment clair, d’après les éléments de preuve dont la Cour dispose, que l’appelante et le payeur n’avaient pas une intention commune quant à savoir si l’appelante aurait le statut d’employé ou d’entrepreneur indépendant pendant la période.
+B. La réalité objective de la conduite des parties
+[22] Pour répondre à la question centrale, à savoir si l’appelante rendait les services en tant que travailleuse autonome, je passe maintenant au second volet de l’analyse en deux parties, soit la détermination de la réalité objective de la conduite des parties fondée sur les facteurs pertinents auxquels il est fait référence dans l’arrêt Sagaz.
+(1) Contrôle
+[23] Voici ce qu'a déclaré la Cour d’appel fédérale dans l’arrêt Wolf c. La Reine, 2002 CAF 96, 2002 DTC 6853, au paragraphe 74 :
+[74] Le critère de contrôle, comme on le désigne communément, consiste à se demander qui contrôle le travail et comment, et quand et où cela doit être fait. En théorie, si le travailleur a un contrôle total sur l’exécution de son travail une fois qu’il lui a été attribué, ce facteur pourrait faire que le travailleur est un entrepreneur indépendant. Par ailleurs, si l’employeur contrôle en fait l’exécution du travail ou a le pouvoir de contrôler la façon dont l’employé exécute ses fonctions (Gallant c. Canada (Ministère du Revenu national) (C.A.F.), [1986] A.C.F. no 330 (Q.L.), le travailleur sera considéré comme un employé.
+[24] Au paragraphe 75 de l’arrêt Wolf, la Cour a souligné que dans le cas des travailleurs qualifiés, le critère de contrôle peut être inadéquat parce qu’il y a peu de supervision ou de contrôle à exercer sur la façon dont le travail est effectué.
+[25] L’appelante a témoigné que ses responsabilités initiales consistaient à tenir des livres généraux, à saisir les comptes débiteurs, à calculer la masse salariale deux fois par mois et à préparer les chèques pour signature. Tant l’appelante (dans son témoignage) que le payeur (aux questions 12, 13 et 20 du questionnaire du payeur) ont convenu qu’elle s’acquittait de ses tâches de tenue de livres à son domicile, sans supervision.
+[26] L’appelante a déclaré que, par la suite, ses responsabilités consistaient à ramasser le courrier au bureau du payeur ou à la résidence commune du Dr Witzke et de Mme McNolty, à trier le courrier, à faire le rapprochement des relevés bancaires mensuels du payeur, à aller acheter chez Costco des capsules « K-cups » pour la cafetière Keurig du payeur, du papier hygiénique et des boîtes de jus pour les petits patients du payeur, à remettre manuellement les chèques aux fournisseurs si les paiements étaient en retard et à aller chercher du café pour des réunions. Elle a témoigné qu’elle avait organisé, une fois, un voyage à Banff pour le Dr Witzke et Mme McNolty. Elle a déclaré qu’elle était à la disposition du payeur 24 heures sur 24 et que si elle ne s’acquittait pas de ces tâches supplémentaires, elle était réprimandée verbalement par Mme McNolty.
+[27] L’appelante a également témoigné qu’au cours de 2015, ses responsabilités comprenaient des tâches liées aux ressources humaines, comme le traitement des plaintes mineures au bureau et l’aide à Mme McNolty pour l’élaboration d’un manuel de l’employé.
+[28] Ni l’appelante ni le payeur ne mentionnent ces responsabilités supplémentaires, non comptables, dans leurs questionnaires respectifs, et elles ne sont pas mentionnées dans les notes d’entrevue de Mme Papadoulis. Toutefois, d’après les éléments de preuve disponibles concernant la conduite des parties, je crois que l’appelante a initialement fourni seulement des services de tenue de livres au payeur, mais qu’au cours de la période, elle a commencé à fournir des services supplémentaires, non comptables. L’appelante souhaitait être une employée et, pour atteindre cet objectif, elle s’est mise à la disposition du payeur 24 heures sur 24. Le payeur, à son tour, a profité du fait que l’appelante s’était rendue disponible et lui a finalement demandé de faire plus que la tenue de livres.
+[29] La tenue de livres est un service qualifié, mais les services non comptables fournis par l’appelante ne le sont pas. Je conclus qu’une fois qu’elle a commencé à fournir ces services supplémentaires non comptables, le degré de contrôle du payeur sur elle a augmenté à un niveau qui correspond davantage à un contrat de service qu’à une relation d’entrepreneur indépendant.
+[30] En réalité, le degré de contrôle a probablement augmenté graduellement, mais je dois tracer une ligne claire aux fins du présent appel. La ligne la plus évidente à ma disposition est le moment où l’appelante s’est jointe au régime collectif d’épargne-retraite du payeur de la Financière Sun Life. L’appelante a témoigné que, pour qu’elle puisse participer au régime collectif du payeur, il aurait fallu que le payeur donne son approbation à la Sun Life. Mme Greaves a témoigné que lorsqu’elle a interrogé le Dr Witzke au sujet de la participation de l’appelante au régime collectif, il a dit qu’il n’était pas au courant.
+[31] J’accepte le témoignage de l’appelante selon lequel le payeur aurait dû approuver sa participation au régime, et j’estime que le payeur l’a fait. Selon le relevé de compte de la Financière Sun Life (pièce A-1, onglet 12), l’appelante a adhéré au régime collectif le 1er janvier 2016. Je conclus donc que le 1er janvier 2016 est la date à laquelle le degré de contrôle du payeur est passé de celui de l’entrepreneur indépendant à celui de l’employé.
+(2) Qui a fourni l’équipement?
+[32] Comme il a été mentionné ci-dessus sous la rubrique « Contrôle », l’appelante et le payeur (à la question 12 du questionnaire du payeur) ont convenu qu’elle s’acquittait de ses tâches de tenue de livres à son domicile.
+[33] L’appelante (dans son témoignage et aux questions 61 et 63 du questionnaire du travailleur) et le payeur (à la question 63 du questionnaire du payeur) ont convenu que l’appelante fournissait les outils nécessaires à la tenue de livres, qui consistaient en un ordinateur, un logiciel de comptabilité et un téléphone.
+[34] L’appelante (à la question 64 du questionnaire du travailleur) et le payeur (à la question 66 du questionnaire du payeur) ont convenu qu’elle n’avait pas reçu d’indemnité ou de remboursement pour l’utilisation de ses propres outils et équipements. De plus, l’appelante a témoigné qu’elle n’avait pas de dépenses personnelles pour lesquelles elle avait besoin d’un remboursement et que le payeur lui avait fourni des choses comme du papier pour son imprimante. Elle a également déclaré qu’il y avait un petit bureau avec un téléphone qu’elle pouvait utiliser dans les locaux du payeur, au besoin.
+[35] Elle a témoigné que le payeur lui avait donné une carte de débit et une carte de crédit de l’entreprise. Elle a déclaré qu’elle avait utilisé la première pour payer les fournitures du payeur chez Costco et le café pour les réunions, mais qu’elle n’avait jamais utilisé la deuxième. L’appelante a également déclaré qu’elle a utilisé la carte de débit de l’entreprise pour payer des fournisseurs qui ne voulaient pas être payés par chèque.
+[36] J’estime que, lorsque l’appelante ne fournissait que des services de tenue de livres au payeur, le présent critère incite à conclure que l’appelante avait le statut d’un entrepreneur indépendant parce qu’elle s’est acquittée de ses responsabilités de façon compartimentée et indépendante. Toutefois, une fois qu’elle a commencé à fournir des services non comptables au payeur, le test n’est plus concluant. Bien qu’elle ait eu besoin de peu d’outils pour s’acquitter de ses responsabilités non comptables, les tâches supplémentaires ont été intégrées aux activités quotidiennes du payeur et elle a reçu pour ce faire l’utilisation des cartes de débit et de crédit du payeur.
+(3) Possibilité de réaliser des profits et degré de risque financier
+Revenu T4 et versements
+[37] L’appelante a déclaré qu’elle recevait un salaire net mensuel de 4 500 $. Dans son questionnaire de la travailleuse (aux questions 44 et 46), elle a déclaré que ce salaire mensuel net était offert par Mme McNolty et que son taux de rémunération mensuel était de 6 212,51 $.
+[38] Le payeur a déclaré (aux questions 46, 47 et 48 du questionnaire du payeur) que : 1) l’appelante était habituellement payée deux fois par mois, mais la fréquence variait; 2) son taux de rémunération variait et 3) le salaire net a été établi par l’appelante et accepté par le payeur.
+[39] Des copies des talons de paye de l’appelante (pièce A‑1, onglet 11) pour la période du 9 mars 2015 au 15 avril 2016 ont montré qu’elle était généralement payée au milieu et à la fin de chaque mois. L’appelante a témoigné qu’elle a préparé ses propres talons de chèque de paye en même temps qu’elle a préparé ceux des autres employés du payeur.
+[40] L’appelante a témoigné qu’elle prenait parfois des avances de salaire de mi-mois. Ses talons de chèque indiquaient des montants de 1 000 $ à 1 500 $ au milieu du mois appelés « prêts », ainsi que des calculs pour les versements mensuels qui seraient normalement retenus à la source.
+[41] Lorsqu'on lui a posé des questions en contre-interrogatoire au sujet de son bulletin de paye du 3 juillet 2015 indiquant un salaire net de 2 000 $ à la fin du mois et une avance de 1 000 $ au milieu du mois, elle a déclaré qu'elle avait touché un total de 3 000 $ au lieu de 4 500 $ ce mois-là parce que le payeur avait un problème de trésorerie. Elle a témoigné qu’elle a continué de travailler pour le payeur par loyauté, même si elle n’était pas entièrement payée.
+[42] Le talon de chèque de paye du 7 août 2015 de l’appelante montre qu’elle a reçu une rémunération nette totale de 5 000 $ (prêt de mi-mois de 1 500 $ et de 3 500 $ à la fin du mois) pour ce qui était probablement le mois de juillet. Son talon de chèque du 30 octobre 2015 indique qu’elle a reçu un prêt de 1 000 $ au milieu du mois et 4 500 $ à la fin du mois, pour un total de 5 500 $. Ses talons de paye de mars 2015, d’avril 2015, de mai 2015, d’août 2015, de septembre 2015, de novembre 2015, de décembre 2015, de janvier 2016 et de février 2016 indiquent qu’elle a reçu une paye mensuelle nette de 4 500 $. Ses trois talons de chèque datés du 15 avril 2016 (sa dernière journée de travail auprès du payeur) montrent qu’elle a reçu un prêt de 1 500 $ et des montants salariaux nets supplémentaires de 750 $ et de 1 342,45 $.
+[43] L’agente chargée de l’examen des comptes en fiducie, Mme Perras, a témoigné qu’en 2016, elle a examiné les versements sur la paye du payeur afin de vérifier si les montants du revenu figurant sur le T4 étaient exacts. Elle a déclaré qu’au cours de l’examen, elle a compris que l’appelante était l’aide-comptable du payeur et responsable de la paye.
+[44] Mme Perras a témoigné que, au cours de l’examen, elle a conclu que la rémunération de l’appelante se situait à des intervalles irréguliers. Elle a déclaré que l’appelante semblait également avoir calculé son salaire brut à l’inverse, c’est-à-dire en utilisant son salaire net pour déterminer son salaire brut. Elle déclare qu’un chiffre rond pour la rémunération nette est inattendu et mérite un examen plus approfondi. Elle a reconnu en contre-interrogatoire que la majoration du salaire net n’est pas inappropriée en soi et a déclaré que l’importance réside dans ses répercussions sur les versements.
+[45] Mme Perras a témoigné que son examen des dossiers de paye du payeur a montré que le montant du revenu figurant dans le feuillet T4 dépassait les versements correspondants effectivement effectués. Elle a déclaré qu’elle a également constaté que deux feuillets T4 avaient été soumis par le payeur plus tard que le reste.
+[46] Mme Greaves, de chez EBT, a déclaré qu’elle était la comptable responsable de la comptabilité de fin d’exercice du payeur. En ce qui concerne le feuillet T4 de l’appelante pour 2015, Mme Greaves a déclaré que l’appelante avait communiqué avec elle vers février 2016 pour lui demander de l’aider à l’émettre. Mme Greaves a témoigné qu’elle avait préparé le feuillet T4 de l’appelante et, après l’avoir mis à l’essai, elle a remarqué une lacune en ce qui concerne les versements. Elle a déclaré que l’appelante a expliqué que le déficit était attribuable aux problèmes de trésorerie du payeur. Mme Greaves a également déclaré qu’elle savait que le payeur avait parfois de la difficulté à payer les factures, de sorte que l’explication de l’appelante semblait raisonnable.
+[47] Le 3 juin 2016, un agent chargé de l'observation de la fiducie de l’Agence du revenu du Canada a envoyé une lettre (pièce R‑3) au payeur pour l’informer d’un écart de 28 293,07 $ entre les versements effectués et les montants évalués pour 2015. Mme Greaves a témoigné qu’elle avait préparé une feuille de calcul (pièce R‑4) pour rapprocher la différence. Elle a déclaré qu’elle a été en mesure de rapprocher exactement l’écart en ajustant les retenues à la source calculées à l’égard de l’appelante et d’une autre employée, Cindy Middleton. Elle a également témoigné avoir aidé à rédiger une lettre du 9 juin 2016 au nom d’EBT (pièce R‑4) avisant le ministre que : (1) il y avait deux travailleurs pour lesquels aucun versement n’avait été fait (l’appelante et Mme Middleton), (2) l’appelante avait demandé à EBT de produire les deux feuillets T4 en question, et (3) le feuillet T4 de l’appelante serait probablement annulé.
+Capacité d’accepter d’autres clients
+[48] L’appelante et le payeur ont convenu (à la question 29 du questionnaire du travailleur et à la question 31 du questionnaire du payeur) que l’appelante n’était pas tenue de fournir ses services exclusivement au payeur et qu’elle avait d’autres clients. Elle a témoigné que ses clients supplémentaires étaient son oncle depuis 2014, une personne sans lien de parenté depuis 2007, et un studio de danse avec lequel elle échangeait ses services de tenue de livres pour des cours de danse. Elle a déclaré que son oncle lui a versé 100 $ par trimestre et que la personne sans lien de parenté lui a versé 1 200 $ par mois jusqu’à ce que son travail avec lui se termine en novembre 2015.
+Rémunération de vacances et avantages sociaux
+[49] L’appelante a déclaré dans le questionnaire de l’employé (à la question 55) qu’elle a reçu une rémunération de vacances de 4 % ainsi que des vacances payées. Elle a témoigné (et a déclaré à la question 51) qu’elle a choisi de ne pas être couverte par le régime d’assurance-maladie du payeur parce que le régime de son conjoint était meilleur.
+[50] Par ailleurs, le payeur a déclaré aux questions 53 et 57 du questionnaire du payeur qu’il ne lui avait pas fourni d’avantages sociaux, de rémunération de vacances ou de vacances payées.
+[51] Les notes de l’entrevue de Mme Papadoulis avec l’appelante (pièce A‑1, onglet 5) montrent que l’appelante a indiqué qu’elle n’avait pas reçu de rémunération de vacances, d’avantages sociaux, ni de primes. En contre-interrogatoire, l’appelante a témoigné qu’elle s’était sentie pressée pendant l’entrevue parce qu’elle venait de commencer un nouvel emploi. Elle a également témoigné qu’elle a probablement dit quelque chose de semblable à ce qui a été consigné dans les notes de l’entrevue, mais qu’elle ne prêtait pas une grande attention.
+[52] Comme il a été mentionné sous la rubrique « Contrôle », l’appelante a adhéré au régime collectif d’épargne-retraite du payeur de la Financière Sun Life le 1er janvier 2016.
+Analyse
+[53] La rémunération mensuelle de l’appelante était assez constante pendant la période, bien qu’il y ait eu des fluctuations. Toutefois, comme elle était responsable de la paye, y compris la sienne, elle était en mesure de contrôler l’émission de sa paye ainsi que le calcul et le versement des retenues à la source. Les problèmes de trésorerie du payeur pourraient expliquer un manque à gagner partiel par rapport aux versements de l’appelante en 2015, mais ils n’expliquent pas l’absence complète de versements pour l’appelante cette année-là, comme l’a décrit Mme Greaves dans son témoignage et dans son chiffrier de rapprochement (pièce R‑5).
+[54] L’avocat de l’appelante a fait valoir que, comme aucun versement n’a été fait pour Cindy Middleton en 2015, notre Cour devrait conclure que la situation de l’appelante était analogue à celle de Mme Middleton. Cela m’est impossible, parce qu'aucune explication n'a été fournie quant à la raison pour laquelle aucun versement n'a été effectué pour Mme Middleton et, plus important encore, c'est l'appelante qui était chargée de le faire pour le compte du payeur en 2015.
+[55] Je crois que l’appelante souhaitait être une employée et, dans la poursuite de cet objectif, elle a pris des mesures pour s’assurer que la façon dont elle était rémunérée ressemblait généralement à celle d’une employée. Plus précisément, elle a préparé ses talons de chèque de paye pour inclure les calculs des retenues à la source, bien qu’aucun versement n’ait été fait. Parfois, elle a sacrifié la régularité de sa rémunération tout en se concentrant sur l’augmentation de sa valeur pour le payeur en lui fournissant des services non comptables et en se mettant à sa disposition 24 heures sur 24. Le payeur, à son tour, était relativement inattentif à ses finances, et il s’en remettait donc à l’appelante comme aide-comptable et, en fin de compte, à ses services non comptables également.
+[56] Le profil LinkedIn de l’appelante (pièce R-1) a montré qu’au début de la période, elle s’est présentée comme une entrepreneure indépendante, même si elle souhaitait peut-être plutôt être employée. Elle avait aussi d’autres clients qui la rémunéraient pendant la période. En ce qui concerne le studio de danse, elle a souligné dans son témoignage qu’elle échangeait des services de tenue de livres pour des cours de danse. Les cours de danse avaient une valeur monétaire et constituaient une contrepartie pour les services rendus, de sorte que l’appelante était rémunérée.
+[57] Bien que les problèmes de trésorerie périodiques du payeur échappaient au contrôle de l’appelante, elle a pris des décisions sur le montant de sa rémunération sur une base mensuelle, comme le montrent les fluctuations à la baisse et à la hausse au cours de la période. En ce sens, elle prenait des décisions mensuelles sur le degré de risque financier qu’elle assumait. Elle a témoigné l’avoir fait par loyauté envers le payeur; toutefois, cela démontre également un degré d’indépendance qui est plus conforme à celui d’un entrepreneur indépendant qu’à celui d’un employé.
+[58] Je crois que la nature de la relation de travail entre l’appelante et le payeur a changé au cours de la période en raison des responsabilités supplémentaires non comptables qu’elle a graduellement assumées. Toutefois, je dois tracer une ligne claire aux fins du présent appel. Pour les raisons que j’ai indiquées sous la rubrique « Contrôle », la ligne la plus évidente à ma disposition est le 1er janvier 2016, c’est-à-dire le moment où l’appelante a adhéré au régime collectif d’épargne-retraite du payeur de la Financière Sun Life. À la lumière des éléments de preuve contradictoires présentés en l’espèce, il s’agit également de la ligne la plus objective.
+[59] Par conséquent, j’estime que le 1er janvier 2016 est la date à laquelle la possibilité pour l’appelante de réaliser des profits avec un degré de risque financier est passé de celle d’un entrepreneur indépendant à celle d’un employé.
+Conclusion
+[60] J’ai soupesé les facteurs pertinents et je conclus que l’appelante avait conclu un contrat de service (c.-à-d. qu’elle avait le statut d’entrepreneur indépendant) avec le payeur en 2015. À partir du 1er janvier 2016 jusqu’à la fin de la période, elle a conclu un contrat de louage de services (c.-à-d. qu’elle avait le statut d’employé) avec le payeur.
+[61] La décision du 23 mai 2017 du ministre du Revenu national est modifiée selon les modalités suivantes :
+(i) pendant la période du 1er janvier 2015 au 31 décembre 2015, l’appelante n’a pas occupé d’emploi assurable ou ouvrant droit à pension;
+(ii) pendant la période du 1er janvier 2016 au 15 juin 2016, l’appelante a occupé un emploi assurable et ouvrant droit à pension.
+Signé à Ottawa, Canada, ce 20e jour de février 2019.
+« Susan Wong »
+Juge Wong
+RÉFÉRENCE :
+2019 CCI 38
+NOS DES DOSSIERS DE LA COUR :
+2017-3444(EI); 2017-3445(CPP)
+INTITULÉ :
+Jennifer Idell Storrs et M.R.N.
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 20 novembre 2018
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 20 février 2019
+COMPARUTIONS :
+Avocats pour l’appelante :
+Me Tyler Derksen / Me Aman Rai
+Avocat de l’intimé :
+Me Aminollah Sabzevari
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Tyler Derksen / Me Aman Rai
+Cabinet :
+[EN BLANC]
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,163 @@
+---
+title: "Ace Painting c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27856/index.do"
+last_modified: "2005-03-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 319"
+citation2: ""
+neutral_citation: "2005 CCI 319"
+decision_date: "2005-03-29"
+language: "fr"
+item_id: "27856"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 331
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:04:19.833000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e2ae3cec08fed5b8a7a330e6b8fe64f3a5d4971f6ec4ac9c873ec93f3b5bbe40"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ace Painting c. M.R.N.
+
+- Citation: 2005 CCI 319
+- Decision date: 2005-03-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 331, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ace Painting c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-03-29
+Référence neutre
+2005 CCI 319
+Numéro de dossier
+2004-58(EI), 2004-60(CPP)
+Juges et Officiers taxateurs
+Norris Weisman
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-58(EI)
+ENTRE :
+ACE PAINTING & DECORATING CO.
+A DIVISION OF EVAGELOU ENTERPRISES INCORPORATED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec la requête de Ace Painting & Decorating Co. a Division of Evagelou Enterprises Incorporated (2004-60(CPP)) le 15 mars 2005 à Toronto (Ontario)
+Devant : L’honorable juge suppléant N. Weisman
+Comparutions :
+Avocate de l’appelante :
+Me Marcela S. Aroca
+Avocat de l’intimé :
+Me Jeremy Streeter
+____________________________________________________________________
+JUGEMENT
+Après avoir entendu la requête de l’avocate de l’appelante en vue d’obtenir un jugement admettant l’appel selon les aveux faits dans la réponse du ministre à l’avis d’appel;
+Et après avoir entendu les plaidoiries des parties;
+La requête est accueillie et la décision du ministre est annulée vu que le travailleur, M. Gus Mantelos, était un entrepreneur indépendant.
+Signé à Toronto, en Ontario, ce 29e jour de mars 2005.
+« N. Weisman »
+Le juge suppléant Weisman
+Traduction certifiée conforme
+ce 22e jour de novembre 2005.
+Joanne Robert, traductrice
+Dossier : 2004-60(CPP)
+ENTRE :
+ACE PAINTING & DECORATING CO.
+A DIVISION OF EVAGELOU ENTERPRISES INCORPORATED,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur preuve commune avec la requête de Ace Painting & Decorating Co. a Division of Evagelou Enterprises Incorporated (2004-58(EI)) le 15 mars 2005 à Toronto (Ontario)
+Devant : L’honorable juge suppléant N. Weisman
+Comparutions :
+Avocate de l’appelante :
+Me Marcela S. Aroca
+Avocat de l’intimé :
+Me Jeremy Streeter
+____________________________________________________________________
+JUGEMENT
+Après avoir entendu la requête de l’avocate de l’appelante en vue d’obtenir un jugement admettant l’appel selon les aveux faits dans la réponse du ministre à l’avis d’appel;
+Et après avoir entendu les plaidoiries des parties;
+La requête est accueillie et la décision du ministre est annulée vu que le travailleur, M. Gus Mantelos, était un entrepreneur indépendant.
+Signé à Toronto, en Ontario, ce 29e jour de mars 2005.
+« N. Weisman »
+Le juge suppléant Weisman
+Traduction certifiée conforme
+ce 22e jour de novembre 2005.
+Joanne Robert, traductrice
+No du dossier de la Cour : 2004-58(EI)
+COUR CANADIENNE DE L’IMPÔT
+Le Régime de pensions du Canada et
+la Loi sur l’assurance-emploi
+E N T R E :
+ACE PAINTING & DECORATING CO., a division of
+EVAGELOU ENTERPRISES INCORPORATED,
+appelante,
+- et -
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+--- Requête entendue par M. le juge Weisman de la Cour canadienne de l’impôt, 9e étage, 200, rue King Ouest, Toronto (Ontario), le 15 mars 2005.
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Toronto (Ontario), le 15 mars 2005)
+----------------
+COMPARUTIONS :
+Me MARCELA S. AROCA pour l’appelante
+Me JEREMY STREETER pour l’intimé
+Colin F. Nethercut – Greffier et technicien numérique
+-- L’audience commence à 14 h 21.
+SON HONNEUR : J’ai eu à examiner aujourd’hui une requête en jugement sommaire présentée par l’appelante sur la foi des aveux faits par le ministre intimé dans sa réponse à l’avis d’appel. Ma compétence pour juger cette requête découle des Règles de la Cour canadienne de l’impôt (procédure informelle), soit plus précisément de l’article 18.2 : « Une partie peut, à tout stade d’une procédure[…], demander : a) qu’il soit rendu jugement sur toute question, par suite d’un aveu fait dans les actes de procédure ou d’autres documents déposés à la Cour, ou fait au cours de l’interrogatoire d’une autre partie ».
+L’argument qui m’a été présenté est que dans le premier paragraphe de sa réponse à l’avis d’appel, le ministre, maintenant quelque peu à regret, a fait un certain nombre d’aveux faciles, larges, très généraux et insouciants auxquels il essaie maintenant de renoncer. Et les deux principaux aveux se rapportent aux paragraphes 4 et 9 de l’appelante.
+Selon le paragraphe 4, du 24 février 2000 au 10 octobre 2002, M. Gus Mantelos a été périodiquement engagé en sous-traitance par la société Ace Painting pour fournir des services de peinture. La période dont il est question ici s’étend du 28 mai 2002 au 10 octobre 2002; par conséquent, le ministre a admis que M. Mantelos était un sous-traitant pendant une partie de la période en question.
+Selon la prétention de l’avocat du ministre, le ministre n’avait pas pris au sens technique le mot « sous-traitance », au paragraphe 4 de l’avis d’appel, mais plutôt au sens courant, soit que M. Mantelos « avait été employé » ou « avait été engagé » par la société Ace Painting. Je dois rejeter cette prétention, car la question au cœur de toutes ces procédures, comme les causes Wiebe Door, Sagaz Industries et Precision, est celle de savoir si le travailleur était un entrepreneur indépendant ou un sous-traitant.
+Il s’agit d’un mot très technique, et je ne peux admettre que le ministre ait raison de supposer qu’il était utilisé dans un sens non technique par l’appelante dans son paragraphe 4. Et je constate, en fait, que le ministre a admis que M. Mantelos était un sous-traitant pendant une partie de la période en question.
+Plus importants encore sont le paragraphe 9 et le fait que le ministre me fait valoir son interprétation de son aveu, qui dit [TRADUCTION] « Il admet les faits présentés au paragraphe 9. » Je suis invité à interpréter cela comme signifiant que le ministre admet que les modalités de l’entente entre la société Ace Painting et M. Mantelos étaient que M. Mantelos devait faire différentes choses, dont 20 sont précisées au paragraphe 9 de l’avis d’appel.
+Encore une fois, j’ai beaucoup de difficulté à accepter la prétention du ministre selon laquelle c’est ainsi que son aveu no 1 doit être interprété, c.‑à‑d. qu’il n’admet que le préambule du paragraphe 9, qui dit que les modalités de l’entente prévoient ceci et voilà. Nous n’acceptons pas les 20 allégations qui suivent. À mon avis, le libellé du paragraphe 1 de la réponse signifie qu’il admet les faits, et les « faits » sont clairement les 20 choses indiquées au paragraphe 9.
+C’est un principe élémentaire de droit que les plaidoiries ont beaucoup d’importance. Elles sont rédigées avec beaucoup de soin par les avocats, et vous êtes liés par vos plaidoiries. J’en conclus donc que le ministre a admis les paragraphes 4 et 9 de l’avis d’appel.
+Alors, pour ce qui est des ramifications de cela, il y a une conclusion facile et une conclusion plus compliquée. Et je vous donnerai le bénéfice des deux. Si nous nous reportons au point XI en chiffres romains, sous le paragraphe 9 de l’appel, qui dit que M. Mantelos était libre d’engager des assistants, des employés ou des entrepreneurs indépendants pour réaliser chaque marché de sous-traitance avec lui ou pour son compte, cette admission à elle seule suffit pour trancher la question en faveur de la conclusion que M. Mantelos était un entrepreneur indépendant.
+Je renvoie l’avocat à la cause Ready Mixed Concrete vs. The Minister of Pensions, [1968] All England Reports, 433, de la Queen’s Bench Division, où il est indiqué, et je cite : [TRADUCTION] « La liberté de faire un travail, de ses propres mains ou par l’entremise d’une autre personne, est incompatible avec un contrat de louage de services, même si un pouvoir de déléguer limité ou occasionnel peut ne pas l’être. » Et je répète que l’aveu que M. Mantelos était libre de faire le travail lui-même ou de recourir à d’autres pour le faire est incompatible avec un contrat de louage de services.
+Et l’analyse plus compliquée, bien sûr, suit les lignes directrices en quatre parties qui sont énoncées dans la cause Wiebe Door, et confirmées dans les causes Sagaz, Precision et Wolfe. Si l’on commence par la question des outils, comme je l’ai déjà dit, je crois que cette répartition des outils fournis en partie par le payeur et en partie par le travailleur concorde avec la situation de fait qui est celle de la cause Precision Industries. Et nous avons ici le travailleur qui fournit suffisamment d’outils qu’il a dû payer et qui étaient ses outils à main, et ils étaient très semblables au genre d’outils fournis par les travailleurs dans la cause Precision.
+Et comme dans la cause Precision, le matériel lourd était fourni par le payeur; et, pourtant, la Cour d’appel fédérale a jugé que, malgré tout, l’homme était un employé même si du matériel lourd était fourni par le payeur. Et cette conclusion est étayée, comme je l’ai déjà laissé entendre, par l’hypothèse 7 [0] dans la réponse du ministre, où il est supposé clairement que le travailleur fournissait ses propres outils de travail, comme des pinceaux et des rouleaux.
+Je crois que, comme dans la cause Precision, le facteur des outils indique que M. Mantelos était un entrepreneur indépendant; et, de la même façon, comme l’avocate l’a indiqué dans son mémoire, et comme l’étayent les aveux du ministre, il n’y avait pratiquement aucun contrôle sur les heures et la façon de faire de M. Mantelos, sauf pour le fait matériel que les locaux devant être peints devaient être ouverts lorsqu’il y était. Et les seules directives ou les seuls échéanciers étaient ceux établis par les locaux devant être peints. Le facteur du contrôle indique donc qu’il était un entrepreneur indépendant.
+Sans trop entrer dans les détails pour ce qui est des possibilités de profits ou de pertes, si l’on établit que M. Mantelos était libre d’engager d’autres personnes, alors il y a des possibilités tant de profits que de pertes; les possibilités de profits pouvaient se présenter de différentes façons, dont l’une était qu’il était libre d’engager d’autres personnes à 10 $ l’heure pour faire le travail et qu’il pouvait rester à la maison et simplement récolter les profits de 5 $ l’heure.
+Évidemment, les causes font état de possibilités de profits grâce à l’ingéniosité et à l’esprit d’entreprise, et comme il a été reconnu, si M. Mantelos était rapide ou s’il engageait suffisamment d’employés, il pouvait faire le travail pour le prix convenu et dans un délai si court qu’il était libre d’aller ailleurs et de gagner plus d’argent en… comme je l’ai dit, en faisant preuve d’ingéniosité et d’un esprit d’entreprise.
+Il y avait aussi des risques de pertes, et non seulement la perte mineure du coût de ses outils, mais lorsque vous êtes un employeur, il y a toujours la possibilité que vous vous retrouviez dans des circonstances où vous devez payer plus que ce que vous avez accepté de recevoir. Autrement dit, dans ce cas, vous pourriez avoir à payer plus de 15 $ l’heure, ce qui est en soi un risque de perte.
+En ce qui concerne les lignes directrices, il y a une cause intitulée Ranger vs. The Minister of National Revenue, selon laquelle ces facteurs composés de quatre parties ne sont que des lignes directrices pour la Cour et que selon ces lignes directrices, le travailleur en question, au cours de la période en question, était un entrepreneur indépendant.
+Les causes comme celle de Wolfe m’obligent à me poser la question, s’il était un entrepreneur indépendant, était-il en affaires à son propre compte? Et si oui, quel genre d’affaires était-ce? Et il est évident, d’après les plaidoiries et les aveux, qu’il était un peintre indépendant travaillant à son propre compte.
+L’appelante a donc démoli les hypothèses pertinentes soulevées dans la réponse du ministre. Elle s’est acquittée du fardeau de démolir ces hypothèses, ce qui signifie que l’appel doit être admis, et la décision du ministre est annulée en conséquence.
+Madame et monsieur les avocats, j’apprécie votre aide à tous les deux. Ce fut une journée intéressante.
+--- L’audience a pris fin à 14 h 37.
+Traduction certifiée conforme
+ce 22e jour de novembre 2005.
+Joanne Robert, traductrice

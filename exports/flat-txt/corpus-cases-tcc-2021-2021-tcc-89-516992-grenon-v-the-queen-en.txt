@@ -1,0 +1,309 @@
+Title: Grenon v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/516992/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-89-516992-grenon-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-12-01
+
+# Grenon v. The Queen
+
+- Citation: 2021 TCC 89
+- Decision date: 2021-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4451, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grenon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-12-01
+Neutral citation
+2021 TCC 89
+File numbers
+2014-3401(IT)G, 2014-4440(IT)G, 2017-486(IT)G, 2017-605(IT)G, 2017-606(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Notes
+Decision Content
+2014-3401(IT)G
+BETWEEN:
+JAMES T. GRENON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN:
+2014-4440(IT)G
+THE RRSP TRUST OF JAMES T. GRENON (552-53721)
+BY ITS TRUSTEE CIBC TRUST CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN:
+2017-486(IT)G
+MAGREN HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN:
+2017-605(IT)G
+2176 INVESTMENTS LTD. (AS SUCCESSOR TO GRENCORP MANAGEMENT INC., SUCCESSOR TO 994047 ALBERTA LTD.),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN:
+2017-606(IT)G
+MAGREN HOLDINGS LTD.
+(SUCCESSOR BY AMALGAMATION TO 1052785 ALBERTA LTD.),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Written Submissions Regarding Costs
+Before: The Honourable Justice Guy R. Smith
+Participants:
+Counsel for the Appellants:
+Cy M. Fien
+Brandon Barnes Trickett
+Ari M. Hanson
+Aron W. Grusko
+Counsel for the Appellant CIBC Trust Corporation:
+John J. Tobin
+Linda Plumpton
+James Gotowiec
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+Tanis Halpape
+Christopher Kitchen
+Jeremy Tiger
+ORDER
+UPON reading the parties’ submissions on costs;
+AND IN ACCORDANCE with the attached Reasons for Order:
+IT IS ORDERED THAT the Respondent is awarded lump sum costs fixed in the amount of $1,197,942, inclusive of disbursements, payable by the Appellants on a joint and several basis.
+Signed at Ottawa, Canada, this 1st day of December 2021.
+“Guy R. Smith”
+Smith J.
+Citation: 2021 TCC 89
+Date: 20211201
+2014-3401(IT)G
+BETWEEN:
+JAMES T. GRENON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN:
+2014-4440(IT)G
+THE RRSP TRUST OF JAMES T. GRENON (552-53721)
+BY ITS TRUSTEE CIBC TRUST CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN:
+2017-486(IT)G
+MAGREN HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN:
+2017-605(IT)G
+2176 INVESTMENTS LTD. (AS SUCCESSOR TO GRENCORP MANAGEMENT INC., SUCCESSOR TO 994047 ALBERTA LTD.),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AND BETWEEN:
+2017-606(IT)G
+MAGREN HOLDINGS LTD.
+(SUCCESSOR BY AMALGAMATION TO 1052785 ALBERTA LTD.),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Smith J.
+I. Introduction
+[1] These appeals were heard on common evidence and Reasons for Judgment in the appeals of James T. Grenon (the “Grenon Appeals”) and the RRSP Trust (the “RRSP Trust Appeal”) were rendered on April 27, 2021 (2021 TCC 30). Separate Reasons for Judgment in connection with the three corporate Appellants (the “Corporate Appeals”) were rendered on June 24, 2021 (2021 TCC 42).
+[2] This matter addresses costs and considers the written submissions of the parties. The basic issues to be addressed in this context are which party is entitled to costs, if any, the basis for such an award and the quantum thereof.
+[3] The Appellants submit that they were “wholly successful” in the Grenon Appeals, that success “was mixed” in the RRSP Trust Appeal and that they were unsuccessful in the Corporate Appeals. The Appellants contend that they are entitled to costs equal to 50% of solicitor-client incurred in the Grenon Appeals but that, for reasons set out below, no costs are sought nor should any be awarded in the RRSP Trust Appeal and Corporate Appeals.
+[4] The Respondent maintains that it is entitled to costs as the “successful party” and that enhanced costs should be awarded in this instance for various reasons including “the Appellants’ egregious conduct, the complexity of the file, the amount of work involved” and other factors that will be reviewed below. The Respondent contends that it should be awarded substantial indemnity costs equal to 80% of its solicitor-client costs in all appeals plus a fixed amount of disbursements.
+[5] For reasons that follow and in accordance with the calculation set out below, the Court awards lump sum costs in favour of the Respondent fixed in the amount of $1,197,942 payable by all Appellants on a joint and several basis.
+II. Analysis
+[6] Section 147 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) provides the Court with a broad discretionary power to determine the amount of costs. It provides as follows:
+147. General Principles — (1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(i.1) whether the expense required to have an expert witness give evidence was justified given
+(i) the nature of the proceeding, its public significance and any need to clarify the law,
+(ii) the number, complexity or technical nature of the issues in dispute, or
+(iii) the amount in dispute; and
+(j) any other matter relevant to the question of costs.
+(…)
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+(…)
+[7] In exercising its discretionary powers, the Court may consider the factors set out in paragraphs 147(3)(a) to (j). While the word ‘may’ suggests that the provision is permissive, I find that it is intended to provide structure and guidance as well as an analytical framework for the determination of costs on a principled basis in what is otherwise an exercise of judicial discretion.
+[8] Subsection 147(4) clarifies that the Court may award costs with or without reference to any Tariff and may award lump sum costs in lieu of or in addition to any taxed costs. Additional discretionary powers are described in subsection 147(5) and include the power to award costs on a solicitor and client basis.
+[9] The power to award costs is “largely at the discretion of a Tax Court judge because that judge is in the best position to determine which party should pay costs and the quantum of such costs (…) though that discretion must be exercised on a principled basis:” Guibord v. Canada, 2011 FCA 346 (para 10) relying on Canada v. Lau, 2004 FCA 10 (para 5). The exercise of this discretion must be “according to established principles that are relevant to the purpose of the discretion exercised” and must not be “arbitrary” or “capricious”: Canada v. Landry, 2010 FCA 135 (para 54).
+[10] An award of costs is generally not intended to provide full indemnification for the actual costs incurred by a party. As explained by Justice Boyle in Martin v. The Queen, 2014 TCC 50:
+14.3 The Court’s approach to fixing costs should be compensatory and contributory, not punitive nor extravagant. The proper question is: What should be the losing party’s appropriate contribution to the successful party’s costs of pursuing the appeal in which his or her position prevailed.
+[11] Unless costs are granted in accordance with the Tariff, they can generally be characterized as either solicitor-client costs, substantial indemnity costs or partial indemnity costs (also sometimes described as party-and-party costs).
+[12] Although solicitor-client costs have not been requested in this instance, it is worth noting that they are reserved for exceptional circumstances and are intended to provide full indemnification of legal costs where a party displays “reprehensible, scandalous or outrageous conduct” (Quebec (Attorney General) v. Lacombe [2010] 2 S.C.R. 453 (S.C.C.) (para 67). They are an exception to the rule that costs should be “compensatory and contributory” and “not punitive”.
+[13] Substantial indemnity costs equal to 80% of solicitor-client costs are generally available where there has been an offer of settlement that meets the requirements of subsections 147(3.1) to (3.8) of the Rules. In this instance, the Respondent argues that the Court should award substantial indemnity costs in light of the conduct of the Appellants, as will be further described below.
+[14] Partial indemnity costs are available where the Court is satisfied, in the exercise of its broad discretion, that a successful party is entitled to partial indemnification of its solicitor-client costs but exceeding the Tariff.
+[15] In Consorzio del Prosciutto di Parma v. Maple Leaf Meats Inc., 2002 FCA 417 (para 8), the Federal Court of Appeal explained that “an award of party-and-party costs is not an exercise in exact science” and “is only an estimate of the amount the Court considers appropriate as a contribution towards the successful party’s solicitor-client costs”. And in the seminal decision of Zeller Estate v. The Queen, 2009 TCC 135, Justice Diane Campbell explained that :
+(8) Party and party costs based on the Tariff Scale are intended to afford the party to whom they are awarded partial indemnity for the costs which must be paid to their own solicitor (Mark Orkin, The Law of Costs, 2nd ed., vol 1 (Aurora: Canada Law Book, 2008) at 1-9). However, in recent times, such costs have been used for more than indemnification:
+Traditionally, the purpose of an award of costs within our “loser pay” system was to partially or, in some limited circumstances, wholly indemnify the winning party for the legal costs it incurred. However, costs have more recently come to be recognized as an important tool in the hands of the court to influence the way the parties conduct themselves and to prevent abuse of the court’s process. Specifically, the three other recognized purposes of costs awards are to encourage settlement, to deter frivolous actions and defences, and to discourage unnecessary steps that unduly prolong the litigation (Mark Orkin, The Law of Costs, 2nd ed., vol 1 (Aurora: Canada Law Book, 2008) at 2-1)).
+(9) Traditionally, the degree of indemnification represented by partial indemnity costs has varied between 50% and 75% of solicitor-and-client or substantial indemnity costs (Mark Orkin, The Law of Costs, 2nd ed., vol 1 (Aurora: Canada Law Book, 2008) at 2-3).
+[16] Despite Justice Campbell’s assertion that partial indemnity costs have traditionally varied “between 50% and 75% of solicitor-and-client or substantial indemnity costs”, the range is by no means a matter of settled law.
+[17] For example, in Klemen v. The Queen, 2014 TCC 369, Justice Hogan declined to make an award equal to 75% of legal costs, as requested, finding that 30% was more appropriate. In Cameco Corporation v. The Queen, 2019 TCC 92, Justice Owen awarded partial indemnity costs of “approximately 35% of counsel fees of $29.3 million” finding that this “appropriately reflects the success of the Appellant, the amounts at issue and the complexity of the issues and appropriately contributes to the costs incurred” adding that he viewed this as neither “extravagant” nor “punitive” (para 46) given his analysis of the factors. A similar percentage was used by Justice Owen in CIT Group Securities (Canada) Inc. v. The Queen, 2017 TCC 86 and more recently, in Damis Properties Inc. v. The Queen, 2021 TCC 44. And in Paletta Estate v. The Queen, 2021 TCC 41, Justice Spiro refused to award costs fixed at 75% of counsel fees and awarded costs of 45% of the amount claimed (paras 14 and 45).
+[18] But in Duffy vs. The Queen, 2020 TCC 135, Justice Sommerfeldt noted that costs in that instance should not “be limited by the Tariff” (para 52) and awarded partial indemnity costs equal to 52% of solicitor-client costs or 65% of substantial indemnity costs, which he viewed as “within the range stipulated in the Zeller Estate case” (para 56).
+[19] On the basis of the foregoing, I conclude that the range of indemnification for partial indemnity costs is actually somewhere between 30% and 75% of solicitor-client costs, the latter being the high end of the scale. I find that this would not preclude an award at a lower percentage in appropriate circumstances.
+[20] Having set out those broad principles, I will now review the factors listed in subsection 147(3).
+1. Paragraph 147(3)(a) – The result of the proceeding
+[21] The Appellants contend that they were “wholly successful” in the Grenon Appeals. I disagree and find that this success is largely overshadowed by the finding that GAAR applied. Though the Appellants were successful in having several arguments rejected by the Court (sham, window dressing, subsection 56(2) and the RRSP over-contributions), the appeals were allowed only because the Court concluded that it would not be reasonable to tax income that was also subject to taxation in the RRSP Trust Appeal. [1] Moreover, the Respondent had indicated at an early stage in the proceedings that it would concede the Grenon Appeals if it was ultimately successful in the RRSP Trust Appeal.
+[22] The Appellants also contend that the Respondent’s success in the RRSP Trust Appeal “was mixed”. I disagree. While it is true that the Appellants were able to convince the Court that income from non-qualified investments, described as the Distribution Transactions, should be reduced by $136 million for the 2005 taxation year, the Court also concluded that the sum of $152 million was subject to a tax of 1% calculated monthly on the fair market value of the units acquired in the same taxation year. Moreover, the Court rejected the Appellants’ argument that the RRSP Trust should be entitled to claim a loss of $129 million for the 2008 taxation year. In the end, there is no disputing that the RRSP Trust Appeals were dismissed.
+[23] The Respondent was entirely successful in the three Corporate appeals.
+[24] In Lux Operating Limited Partnership v. The Queen, 2018 TCC 214 (para 9), Justice Graham considered the results of the proceedings and noted that the “degree of a party’s overall success is an important factor in determining whether costs should be awarded” and “the degree of the party’s overall success may also be a factor in determining the quantum of those costs.”
+[25] Considering the “degree” of the “overall success” of the Appellants, I find that this factor supports an award of partial indemnity costs in the Grenon Appeals but at the low end of the scale (to be granted in the form of a credit).
+[26] The Respondent was successful in upholding the majority of the assessed tax such that there is no apparent reason to deviate from the general rule that a successful party is entitled to costs. As a result, this factor favours an award of partial indemnity costs at the high end of the scale.
+2. Paragraph 147(3)(b) – The amounts at issue
+[27] The Appellants acknowledge that the amount at issue “is unquestionably a large sum” and that Mr. Grenon, as an individual taxpayer, faces taxes “well in excess of $140 million (…) in addition to the tax liability he would indirectly face as annuitant of the CIBC RRSP.”
+[28] The Appellants argue that “the prospect of a significant fiscal tax burden is a reason for a taxpayer to pursue the matter” but the only interest of the Respondent is “ensuring that assessments are accurate and that the law is correctly applied.” The Appellants suggest that “this factor favours Grenon and the CIBC Trust who were properly motivated by the amounts at issue to pursue their respective Appeals to full or partial success, respectively.”
+[29] The Respondent indicates that the Part I and Part XI.I tax, interest and penalties in the RRSP Trust Appeal total $275 million as of April 15, 2021 and that the assessments against the three corporate Appellants, including interest, is $154 million as of July 8, 2021. The Respondent argues that the amounts at issue are substantial, even accounting for the duplication of the assessed Part I and Part X.I tax in the Grenon Appeals.
+[30] I am not convinced by the Appellants’ position as the only matter to be addressed in this context is whether the ‘amounts at issue’ are trivial or significant from that taxpayer’s perspective and not whether a taxpayer will face an undue hardship or a “significant fiscal tax burden.” I also reject the suggestion that ‘only’ taxpayers are properly motivated to challenge an assessment. It is trite to state that the Minister has a statutory obligation to ensure that assessments are accurate and a concomitant obligation to defend assessments that are challenged thus ensuring that taxpayers pay their fair share of taxes in accordance with the law.
+[31] It has been held that ‘the amounts at issue’ must be contextualized and assessed in relative terms (see Daishowa-Marubeni International Ltd v. The Queen, 2013 TCC 275 (para 8) and 9196-7448 Quebec inc. v. The Queen, 2017 TCC 50 (para 24). Nonetheless, I find that it is enough to recognize that the amount of assessed tax in these appeals is substantial to conclude that this factor favours the Respondent’s request for costs, including its request for enhanced costs.
+3. Paragraph 147(3)(c) - The importance of the issues
+[32] Both parties argue that the issues raised were “important”.
+[33] The Appellants argue that the issues in the RRSP Trust Appeal and Corporate Appeals “were not trivial and had significant importance for industry practice and the interpretation of important statutory provisions not previously determined.”
+[34] Similarly, the Respondent submits that the “Appeals were important not only for the parties, but also in clarifying tax law in the public interest and to the benefit of a broad numbers of taxpayers.” Having reviewed a number of issues dealt with by the Court, the Respondent concludes that the “Appeals have precedential value that supports the Crown’s requested cost award” and that an “award of enhanced costs is warranted given the number of important issues the court considered and because the Crown advanced the legal effectiveness arguments that disposed of both the RRSP Trust Appeal and the Three Corporate Appeals.”
+[35] I find that the issues raised were primarily of mixed law and fact and that, even though the Court considered certain provisions for the first time, they were not novel or of broad public interest. As indicated by Justice Rip (as he then was) in Brown v. The Queen, (2002) 2 CTC 2840, 56 DTC 1925 (appeal dismissed by the Federal Court of Appeal, 2003 FCA 192) (para 20):
+20. (…) Simply because a provision of the Act is considered by a Court for the first time and may affect other taxpayers does not colour that appeal with the character of a test case. The normal income tax appeal - which this appeal was - is not a matter of public policy (…) or touch on constitutional principles and in the public interest (…). It is simply a dispute between a taxpayer and the Crown as to whether the taxpayer was properly assessed tax. The principle purpose of these appeals was to settle a dispute between the parties, not necessarily to settle a point of law. That the decision of a Court in a tax appeal may help settle other assessments and reduce the Crown's expenses are not reasons for the Crown to absorb costs of the appeal. [Footnotes omitted]
+[36] On balance, I find that the appeals involved multiple issues of law of relative complexity and importance to both parties and as a result, this factor is neutral.
+4. Paragraph 147(3)(d) – Any offer of settlement made in writing
+[37] The Appellants argue that “there were no settlement offers made by either party which were better than, or even approximated, the final result to the other party” such that “this factor is inapplicable” to a determination of costs.
+[38] Subsections 147(3.1) to (3.8) of the Rules are engaged where a party has made a written offer of settlement at least 90 days before the hearing, that has not been withdrawn and has not expired. In such instances, the successful party may be entitled to “substantial indemnity costs” defined as “80% of solicitor and client costs.” The parties agree that this rule is not engaged.
+[39] However, the Respondent explains that the Appellants made a settlement offer on September 6, 2018, offering a payment of $1.7 million in exchange for the (re)assessments being vacated but that this offer was rejected by the Minister because it was based on litigation risk and not fact and law. The Minister then submitted a counter-offer proposing to vacate the assessments in the Grenon Appeals provided the Appellants agreed to discontinue their appeals in the RRSP Trust Appeal and Corporate Appeals. This counter-offer was not accepted.
+[40] The Respondent argues that while the counter-offer does not trigger the application of subsections 147(3.1) to (3.8), it remains relevant particularly since it was “far more indicative of the results obtained.” It adds that the Appellants’ offer of $1.7 million, “was nowhere near the approximately $428 million in tax, interest and late-filing penalties resulting from the Judgment.”
+[41] I find that this factor refers to an offer of settlement made at any point in time during the course of litigation that is relevant or approximates the result eventually obtained at trial. Since parties are expected and indeed encouraged to make reasonable settlement offers, and the Respondent has done so, I conclude that this factor militates in favour of its request for costs, including enhanced costs.
+5. Paragraph 147(3)(e) and (f) – The volume of work and complexity of the issues
+[42] The Appellants maintain that the Minister “put a multitude of transactions and the very existence of various entities into issue” that involved “transactions that took place over a span of approximately 15 years.” They add that the volume of work “was magnified by the decision of the Minister to avoid assessing the Appellants at a time nearer to the actual facts in question” and that this was a “major contributing factor to the complexity and difficulty of the present appeals.”
+[43] The Appellants add that the conduct of the appeals was rendered more complex because of amendments made to the Replies on three separate occasions with the final amendments being made just four months prior to the commencement of the appeal. Quoting from Canada v. Global Equity Fund Ltd., 2012 FCA 272 (para 39), the Appellants argue that they “had to respond to ever moving Crown arguments and positions, and sometimes these [were] plainly contradictory to positions taken by the Crown” particularly with respect to the Grenon Appeals and RRSP Trust Appeal.
+[44] With respect to the Grenon Appeals, the Appellants contend that “the complexity of the issues was aggravated by the significant number of points of fact and law” where the Respondent was ultimately unsuccessful with respect to sham, window dressing, subsection 56(2) and GAAR. The Appellants rely on Cameco Corporation v. The Queen, 2019 TCC 92 (paras 26 and 29) to support its contention that an allegation of sham necessarily requires “a significant volume of work” given that it includes an element of deceit. The Appellants argue that all of the above militates in favour of “a higher award of costs.”
+[45] On the issue of the volume of work, the Respondent lists and provides further details concerning i) the number of interlocutory motions; ii) extensive document production, discoveries and related undertakings; iii) trial preparation, the duration of the trial and issues adjudicated upon. Pre-trial motions filed by the Appellants (heard on September 28, 2015 and March 1, 2016) were dismissed and costs were ordered in the cause as determined by the trial judge. The Respondent’s pre-trial motions of September 11, 2017 were successful and costs were awarded in the cause to be determined by the trial judge. The Respondent acknowledges that various motions heard in November 2018 including its request for an adjournment, were either withdrawn or dismissed but that costs of $62,500 were awarded to the Appellants and need not be considered in this context.
+[46] The Respondent refers to the preparation of certain “aides-memoires” dealing with the Income Funds and subscriptions for units being challenged as well as a “37 page slide-deck depicting the 20 steps of the FMO Reorganization (…) to assist the Court in understanding” the complex transactions involving the three corporate Appellants. Ultimately, Mr. Grenon acknowledged that most of the slides accurately depicted the transactions in the Corporate Appeals.
+[47] On the issue of complexity, the Respondent argues that “the facts were complicated and heavily contested” with “lengthy and complex transactional documents” that needed to be “distilled” to be presented into evidence with “complex legal arguments including sham, GAAR and legal effectiveness”, all of which supports their request for enhanced costs.
+[48] There is no disputing that the appeals involved multiple transactions spanning many years and that the facts were complicated, heavily contested and raised complex legal issues. On balance, I find that this favours the Respondent.
+[49] While it is true that the Replies were amended on three separate occasions, I find that this was intended to clarify the Respondent’s position and that the Appellants were not seriously prejudiced by this.
+[50] I also find that the Court should attach some weight to the preparation of the aide-memoires used in the Grenon Appeals and RRSP Trust Appeal as well as the slide-deck extensively used in the Corporate Appeals.
+[51] On balance, I find that this factor weighs in favour of the Respondent’s request for costs, including enhanced costs.
+6. Paragraph 147(3)(g) – Conduct of the parties
+[52] Both parties have submitted that this factor favours their respective request for costs. The Appellants conclude their submissions by indicating that they are choosing to focus on “the issue of efficiency” of the Respondent’s preparation of its case including the fact that the Respondent sought an adjournment of the trial in mid-2018, challenged the filing of the Appellants’ expert report, failed to file will-say statements for their witnesses, filed their own distinct Book of Documents at the final hour when a Joint Book of Documents had already been prepared by the Appellants, thus “causing confusion throughout the trial.” On that basis, the Appellants submit that the Respondent “should not be permitted any costs recovery with respect of their preparation of documentary evidence at trial.”
+[53] The Respondent refers to the unique circumstances of this case involving “ad hominen attacks” directed at Crown counsel and made during closing submissions. At that point, I expressed the view that conduct by certain counsel “crossed the proverbial line and can best be described as personal attacks (…) or derogatory comments as to the integrity or competence of opposing counsel”. These counsel were reminded “of the importance of civility” in the courtroom and told that the Court could not “condone” such conduct. No further steps were taken at that time. The Respondent claims that this supports their request for enhanced costs.
+[54] The Respondent argues that the proceedings were unnecessarily delayed by objections made to documents used in the cross-examination of witnesses or attempts to introduce “schedules” that were missing, objections that were later withdrawn. The Respondent also argues that it filed a Rule 58 motion to address the issue of the “legal effectiveness” of the issuance of units to minors and others but that the Appellants failed to admit the fact such that this matter had to be dealt with at trial. In addition, the Respondent sought a determination as to whether the Income Funds were valid qualified investments for RRSP purposes and whether there had been a transfer of beneficial ownership of the FMO units from the RRSP Trust to the corporate Appellants. The Appellants’ refusal to admit the basic facts underlying these issues meant that it was necessary to deal with these matters at trial.
+[55] The Respondent argues that the Appellants’ decision to file an expert report at the final hour was a waste of time as it was ultimately found that the report was unreliable and the Court attached no weight to it.
+[56] The Respondent also argues that it attempted to shorten the proceedings by serving Requests to Admit, by introducing the aide-memoires and slide-deck at trial. It also did not call any witnesses thus saving scheduled Court time.
+[57] I reject the Appellants’ position on the lack of efficiency of the Respondent’s case including the suggestion that the Respondent should not be entitled to costs for the “preparation of documentary evidence at trial.” On the contrary, I would attach considerable weight to the preparation of the aide-memoires and slide-deck that were of assistance to the Court. I am also of the view that certain conduct by Appellants’ counsel (as described above and in the Respondent’s submissions) crossed the line in terms of appropriate courtroom behaviour and that such behaviour should not be countenanced. It should be discouraged.
+[58] As a result, I find that this factor favours the Respondent’s request for costs at the high end of the scale.
+7. Paragraphs 147(3)(h), (i), (i.1) and (j)
+[59] The parties have not made specific submissions on these paragraphs although some factors were indirectly referenced above.
+[60] In this context, the Court is of the view that too much valuable Court time was spent on the number of minors or adults who had signed subscriptions agreements for other adults in the Income Funds. This matter should have been admitted at the commencement of the hearing and the Appellants’ position that they “did not admit the numbers” was a blatant attempt to shift its evidentiary burden to the Crown. This caused unnecessary delays.
+[61] In my view, this observation favours the Respondent’s request for costs.
+III. Disposition
+[62] The Appellants have requested costs in the Grenon Appeals equal to 50% of solicitor-client costs of $808,715.60. I see no reason to challenge the hourly rates or total hours indicated [2] . I note that this amount does not include legal costs in the RRSP Trust Appeal and Corporate Appeals. These amounts have not been provided presumably because no costs are being sought by the Appellants in those appeals.
+[63] That said, I see no justification for an award fixed at 50% of solicitor and client costs and, having reviewed the factors noted above, I would award costs to the Appellants at the low end of the scale fixed at 20% or $161,743.
+[64] The Respondent has provided a breakdown of the costs associated with all the appeals including $782,128 for the Grenon Appeals, $1,948,439 for the RRSP Trust Appeal and $244,421 [3] for the Corporate Appeals for a total of $2,974,988. Again, I see no reason to challenge the total hours indicated or the hourly rates. [4] Moreover, I note that the Respondent’s legal costs for the Grenon Appeals approximates the amount provided by the Appellants.
+[65] I thus accept the total amounts provided by the Respondent but see no justification for its request for substantial indemnity costs fixed at 80%. Such an award should be reserved for the clearest of cases of which this is not one. That said, I have no difficulty in concluding that the Respondent is entitled to partial indemnity costs at the mid to high end of the scale.
+[66] I find that several factors set out in subsection 147(3) support an award of enhanced costs in favour of the Respondent, including i) the degree of the overall success obtained; ii) the amounts at issue iii) the complexity of the facts and law; iv) the conduct of certain Appellants counsel during oral submissions and v) delivery of a settlement offer which approximates the results obtained.
+[67] Having considered the relevant factors, I award costs in the RRSP Trust Appeal and Corporate Appeals in favour of the Respondent fixed at 60% of solicitor-client costs, plus disbursements fixed at $43,969, calculated as follows [5] :
+Costs in the RRSP Trust Appeal at 60%:
+$1,169,063
+Costs in the Corporate Appeals at 60%:
+$146,653
+Disbursements fixed at:
+$43,969
+Less costs in the Grenon Appeals at 20%:
+($161,743)
+Net costs awarded to the Respondent:
+$1,197,942
+[68] I find that this amount is neither “extravagant” nor “punitive” and that it appropriately contributes to the costs incurred by the Respondent.
+[69] The appeals were heard on common evidence primarily because they were intertwined and involved the same individual. Mr. Grenon was the annuitant of the RRSP Trust and directly or indirectly controlled the three corporate Appellants. As a result, I conclude that it is appropriate to award these costs in favour of the Respondent payable by the Appellants on a joint and several basis [6] .
+Signed at Ottawa, Canada, this 1st day of December 2021.
+“Guy R. Smith”
+Smith J.
+CITATION:
+2021 TCC 89
+COURT FILE NO.:
+2014-3401(IT)G, 2014-4440(IT)G, 2017-486(IT)G, 2017-605(IT)G, 2017-606(IT)G
+STYLE OF CAUSE:
+JAMES T. GRENON, THE RRSP TRUST OF JAMES T. GRENON (552-53721) BY ITS TRUSTEE CIBC TRUST CORPORATION, MAGREN HOLDINGS LTD., 2176 INVESTMENTS LTD. (AS SUCCESSOR TO GRENCORP MANAGEMENT INC., SUCCESSOR TO 994047 ALBERTA LTD.), MAGREN HOLDINGS LTD.
+(SUCCESSOR BY AMALGAMATION TO 1052785 Alberta Ltd.), AND THE QUEEN.
+REASONS FOR ORDER BY:
+The Honourable Justice Guy R. Smith
+DATE OF ORDER:
+December 1, 2021
+PARTICIPANTS:
+Counsel for the Appellants:
+Counsel for the Appellant CIBC Trust Corporation:
+Cy M. Fien
+Brandon Barnes Trickett
+Ari M. Hanson
+Aron W. Grusko
+John J. Tobin
+Linda Plumpton
+James Gotowiec
+Counsel for the Respondent:
+Ifeanyi Nwachukwu
+Tanis Halpape
+Christopher Kitchen
+Jeremy Tiger
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+CIBC Trust Corporation:
+Cy M. Fien
+Brandon Barnes Trickett
+Ari M. Hanson
+Aron W. Grusko
+Filmore Riley
+John J. Tobin
+Linda Plumpton
+James Gotowiec
+Firm:
+Torys LLP
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Subsection 245(5) of the Income Tax Act, R.S.C., 1985, c.1 (5th Suppl.) requires that the Court determine the “reasonable tax consequences” following a determination that GAAR applies.
+[2] Schedule “A” to the Costs Submissions of the Appellants provides a summary of all invoices (in the Grenon Appeals) from April 29, 2014 to September 30, 2019 and Schedule “B” provides details as to hourly rates.
+[3] The costs in the Corporate Appeals appear low because, as explained in the Affidavit of Maeve Semple (para 12), they predate the Consolidation Order of September 22, 2017 and most (but not all) of the time dockets after that date were recorded under either the Grenon Appeals or RRSP Trust Appeal.
+[4] Exhibit “A” to the Affidavit of Maeve Semple dated August 23, 2021, sets out the hourly rates and Exhibit “D” provides detailed dockets from December 30, 2014 to September 13, 2019.
+[5] These amounts are intended to include costs awarded to either party for any interlocutory motions.
+[6] Subsection 147(1) of the Tax Court of Canada Rules (General Procedure) provides that the Court may determine the “amount” and “allocation” of costs. See Mark M. Orkin and Robert G. Schipper, The Law of Costs (Toronto, Ontario) Thomson Reuters, 1987 (loose-leaf updated to October 2021) at para 2:42: “The usual rule is that the liability of unsuccessful plaintiffs for costs is joint and several, unless the court in the exercise of its discretion order otherwise”. See also Mariano v. The Queen, 2016 TCC 161, para 105.

@@ -1,0 +1,220 @@
+---
+title: "Pooran v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28024/index.do"
+last_modified: "2007-10-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 584"
+citation2: ""
+neutral_citation: "2007 CCI 584"
+decision_date: "2007-10-01"
+language: "fr"
+item_id: "28024"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1610
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:14:18.616000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b206a547be89794b7019debbff7b0fab3a3cc6eedab6dcd573dd4c56ceefa423"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pooran v. The Queen
+
+- Citation: 2007 CCI 584
+- Decision date: 2007-10-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1610, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pooran v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-10-01
+Référence neutre
+2007 CCI 584
+Numéro de dossier
+2006-3032(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3032(IT)I
+ENTRE :
+AJODA POORAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 juillet 2007, à Toronto (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Martin Beaudry
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 14e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI584
+Date : 20071001
+Dossier : 2006-3032(IT)I
+ENTRE :
+AJODA POORAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] En l’espèce, il s’agit uniquement de savoir si la pension alimentaire pour enfants que le contribuable a payée est assujettie au régime d’inclusion et de déduction qui s’appliquait avant le mois de mai 1997 ou si elle est plutôt assujettie au régime applicable après le mois d’avril 1997, dans le cadre duquel cette pension n’est pas déductible entre les mains du payeur et n’est pas imposable entre les mains du bénéficiaire. La question dépend entièrement de l’interprétation et de l’application correctes de l’expression « date d’exécution » figurant au paragraphe 56.1(4) de la Loi de l’impôt sur le revenu (la « Loi »).
+Historique
+[2] Avant le mois de mai 1997, les paiements effectués au titre de la pension alimentaire pour enfants et de la pension alimentaire pour conjoint étaient généralement déductibles par le payeur et imposables entre les mains du bénéficiaire. Au moment où le régime de déduction et d’inclusion a été mis sur pied, les vues traditionnelles voulaient que, sur le plan de la politique fiscale et de la politique sociale, le régime permette à la famille dans son ensemble de disposer d’un montant après impôt plus élevé en vue de répondre au besoin de maintenir deux ménages[1]. Tel serait le résultat si la tranche d’imposition applicable au payeur était plus élevée que celle qui s’applique au bénéficiaire. Bien sûr, la chose exigeait que le régime et les résultats fiscaux soient pris en considération lorsqu’il s’agissait de s’entendre sur le montant de la pension ou de fixer ce montant.
+[3] La constitutionnalité du régime de déduction et d’inclusion, tel qu’il se rapportait à la pension alimentaire pour enfants, a été contestée dans l’affaire Thibaudeau v. M.N.R., 95 DTC 5273 (C.S.C.). La Cour suprême du Canada a confirmé que le régime était constitutionnel et qu’il n’allait pas à l’encontre de la Charte. Néanmoins, en 1997, le législateur fédéral a annoncé, en ce qui concerne la pension alimentaire pour enfants, que le régime de déduction et d’inclusion serait remplacé par un régime de non‑déductibilité et de non‑imposabilité. Le régime initial de déduction et d’inclusion n’a pas changé et continue à s’appliquer aux paiements effectués au titre de la pension alimentaire d’un conjoint ou d’un ancien conjoint.
+[4] Par conséquent, la Loi prévoit maintenant deux régimes contraires qui s’appliquent aux paiements effectués au titre de la pension alimentaire pour enfants et aux paiements effectués au titre de la pension alimentaire pour conjoint, lesquels semblent être fondés sur une analyse plutôt contradictoire de la politique fiscale. Étant donné que le régime initial de déductibilité et d’imposabilité a été établi à un moment où la rupture du mariage commençait à peine à devenir chose courante et où un moins grand nombre de femmes travaillaient à l’extérieur du foyer, certains se sont demandé si l’ancien régime de déductibilité et d’imposabilité devait continuer à s’appliquer aux paiements effectués au titre de la pension alimentaire pour conjoint ou si ces paiements devaient également être assujettis à un nouveau régime de non‑déductibilité et de non‑imposabilité, comme celui qui s’applique depuis dix ans à la pension alimentaire pour enfants[2].
+[5] J’ai fait les remarques susmentionnées uniquement pour donner un aperçu historique. La chose n’a rien à voir avec l’interprétation ou avec l’application des dispositions pertinentes de la Loi pour ce qui est de M. Pooran ou pour les besoins de ma décision. Le contexte historique de la politique fiscale aide à comprendre pourquoi les règles transitoires de 1997 doivent permettre de déterminer si c’est l’ancien régime ou le nouveau régime qui s’applique aux paiements particuliers effectués au titre de la pension alimentaire pour enfants après le mois d’avril 1997. Ces règles transitoires sont en bonne partie énoncées aux alinéas 56(1)b) et 60b) ainsi que dans les définitions figurant au paragraphe 56.1(4). La seule question dont la Cour est ici saisie est celle de l’interprétation et de l’application appropriées du libellé de ces règles transitoires de la Loi.
+[6] Il s’agit ici d’un appel que le père payeur a interjeté sous le régime de la procédure informelle de la Cour. À la fin de l’audience, les faits n’étaient pas du tout contestés et ils avaient été suffisamment bien présentés par le contribuable, avec une clarté suffisante, pour que l’avocat de la Couronne convienne qu’aucun des faits pertinents n’était en litige. L’avocat a convenu qu’il s’agit uniquement de savoir si la pension alimentaire pour enfants était payable aux termes d’un accord à l’égard duquel il existe une date d’exécution pour l’application de l’alinéa 60b).
+[7] La mère bénéficiaire et l’ancienne épouse n’est pas partie à la présente instance, et ce, même si le système suppose un traitement inverse de la pension alimentaire pour enfants. En effet, les alinéas 60b) et 56(1)b) sont rédigés en vue de faire en sorte qu’un paiement particulier effectué au titre de la pension alimentaire pour enfants qui n’est pas déductible entre les mains du payeur ne soit pas imposable entre les mains du bénéficiaire, et que le paiement qui est déductible par le payeur soit imposable entre les mains du bénéficiaire. Malheureusement, lorsque les deux parties ne sont pas présents devant le tribunal, et puisque les mêmes questions peuvent se poser pour le payeur et pour le bénéficiaire en ce qui concerne la « date d’exécution » du paiement effectué au titre de la pension alimentaire pour enfants, cela peut donner lieu à des décisions contradictoires ou difficiles à concilier du fait que des décideurs différents sont en cause ou encore du fait que la charge de la preuve incombe au contribuable qui interjette appel devant la Cour.
+Les faits pertinents
+[8] Le contribuable et son épouse se sont séparés en 1988; ils ont par la suite divorcé. Ils ont deux fils. Les fils ont d’abord vécu avec leur père pendant quelques années après la séparation.
+[9] Les fils ont commencé à vivre avec leur mère à un moment donné en 1992. Le montant de la pension alimentaire pour enfants a été fixé dans une ordonnance rendue par un tribunal de l’Ontario au mois de mars 1993 (l’« ordonnance judiciaire no 1 »). Les paiements ont été effectués aux termes de l’ordonnance judiciaire no 1, bien que le contribuable ait parfois accumulé des arriérés par suite de changements survenus dans sa situation personnelle. Les parties ont parfois également effectué des rajustements du fait qu’un des enfants décidait, comme ils avaient l’habitude de le faire, de quitter la maison d’un parent pour s’installer chez l’autre pendant un certain temps. Le contribuable a témoigné qu’à compter de l’année 1996, il s’était entendu avec la mère des garçons pour qu’aucune pension alimentaire pour enfants ne soit payée étant donné qu’un enfant vivait avec chacun d’eux et qu’ils s’occupaient chacun d’un enfant. Cet arrangement n’a jamais fait l’objet d’un accord écrit ou d’une ordonnance judiciaire.
+[10] Au mois d’août 2000, un tribunal de l’Ontario a ordonné (l’« ordonnance judiciaire no 2 ») que [traduction] « tout arriéré accumulé au titre de la pension alimentaire dans la présente affaire conformément [à l’ordonnance judiciaire no 1] soit annulé ou radié ». L’ordonnance judiciaire no 2 prévoyait également ceci : [traduction]’« à moins d’être retirée du bureau du directeur du Bureau des obligations familiales, [l’ordonnance judiciaire no 1] sera mise en application par le directeur, les montants dus en vertu [de l’ordonnance judiciaire no 1] devant être versés au directeur et ce dernier devant les verser à qui de droit. »
+[11] Conformément aux attendus de l’ordonnance judiciaire no 2, les parties avaient déposé des consentements. Les dispositions de ces consentements et l’affidavit du contribuable mentionné dans l’attendu de l’ordonnance judiciaire no 2 n’ont pas été soumis à la Cour. Il importe de noter que l’ordonnance judiciaire no 2 ne semble pas établir s’il y avait des arriérés à annuler ou à radier, du fait que le mot [traduction] « tout » est judicieusement employé. M. Pooran a expliqué qu’il y avait des arriérés en vertu de l’ordonnance judiciaire no 1, par suite de l’entente susmentionnée qu’il avait conclue avec son ancienne femme.
+[12] Au cours des années en question, à savoir les années 2003 à 2005, le contribuable a payé la pension alimentaire pour enfants en effectuant des versements mensuels réguliers pour chaque année. En 2003, le contribuable a également payé les arriérés accumulés à la suite de l’ordonnance judiciaire no 2. Presque tous ces versements ont été effectués par l’entremise du Bureau des obligations familiales de l’Ontario.
+[13] La Couronne a convenu que tous les paiements effectués par le contribuable en question se rapportaient à la pension alimentaire pour enfants qui était demandée et qu’ils étaient payables en vertu de l’ordonnance judiciaire no 1.
+Les dispositions législatives pertinentes
+[14] Les passages pertinents des versions française et anglaise des alinéas 60b) et 56(1)b) ainsi que du paragraphe 56.1(4) sont reproduits ci‑dessous :
+56. (1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+[…]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l’année d’une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a reçue de la personne donnée après 1996 et qu’il a incluse dans son revenu pour une année d’imposition antérieure;
+56.1(4) Les définitions qui suivent s’appliquent au présent article et à l’article 56.
+«date d’exécution » Quant à un accord ou une ordonnance :
+a) si l’accord ou l’ordonnance est établi après avril 1997, la date de son établissement;
+b) si l’accord ou l’ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l’accord ou de l’ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l’accord ou l’ordonnance fait l’objet d’une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d’exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l’accord ou l’ordonnance, ou dans toute modification s’y rapportant, pour l’application de la présente loi.
+60. Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+[…]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A - (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l’année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d’imposition antérieure;
+56. (1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+[…]
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer’s income for a preceding taxation year;
+56.1(4) The definitions in this subsection apply in this section and section 56.
+"commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+60. There may be deducted in computing a taxpayer’s income for a taxation year such of the following amounts as are applicable:
+[…]
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer’s income for a preceding taxation year;
+Le paragraphe 60.1(4) prévoit que les définitions figurant à l’article 56.1 s’appliquent pour l’application de l’alinéa 60b).
+Analyse
+[15] La question précise qui se pose est de savoir si, par suite de l’application appropriée du sous‑alinéa b)(iii) de la définition de l’expression « date d’exécution », l’ordonnance judiciaire no 2 confère à l’ordonnance judiciaire no 1 une date d’exécution telle que les paiements effectués aux termes de l’ordonnance judiciaire no 1 après que l’ordonnance judiciaire no 2 a été rendue sont visés par le nouveau régime de non‑déductibilité et de non‑imposabilité ou si ces paiements continuaient à être assujettis au régime de déduction et d’imposabilité. Plus précisément, la question qui se pose en vertu du sous‑alinéa b)(iii) est de savoir si l’ordonnance judiciaire no 2 « a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur ».
+[16] La définition de « date d’exécution » et son application peuvent dans certaines circonstances susciter de l’inquiétude. Il est clair que des conclusions différentes plutôt dures et rigoureuses peuvent parfois être tirées quant à la question de savoir si l’ancien régime continue à s’appliquer ou si c’est le nouveau régime qui s’applique, dans le cas d’ordonnances provisoires ou de jugements de divorce subséquents et lorsque l’un de plusieurs enfants cesse d’avoir besoin de soutien.
+[17] Pour décider si c’est l’ancien régime ou le nouveau régime qui s’applique aux paiements effectués après le mois d’avril 1997, il faut au départ se demander aux termes de quel accord ou de quelle ordonnance la pension alimentaire pour enfants devient payable. Voir l’arrêt rendu récemment par la Cour d’appel fédérale dans Holbrook c. Canada, [2007] A.C.F. no 508, 2007 CAF 145, où la situation du bénéficiaire selon l’alinéa 56(1)b) a été examinée. Le même libellé est employé à l’alinéa 60b) sauf que le mot « receivable » est remplacé par le mot « payable » dans la version anglaise. Si la pension alimentaire pour enfants devient payable ou est à recevoir, selon le cas, aux termes d’une ordonnance ou d’un accord établi après le mois d’avril 1997, l’alinéa a) de la définition de « date d’exécution » prévoit que c’est le nouveau régime qui s’applique.
+[18] Si, comme c’est le cas en l’espèce, la pension alimentaire pour enfants est devenue payable aux termes de l’ordonnance judiciaire no 1 établie avant l’année 1997, il s’agit de savoir si l’alinéa b) de la définition de « date d’exécution » s’applique en vue de conférer une date d’exécution à l’accord antérieur. Cela peut se produire dans quatre cas. En vertu du sous‑alinéa (i), les parties peuvent conjointement choisir d’attribuer une date d’exécution à l’accord antérieur et, par conséquent, choisir d’être assujettis au nouveau régime de non‑déductibilité et de non‑imposabilité. En vertu du sous‑alinéa (iv), l’ordonnance ou l’accord ultérieur peut préciser une date d’exécution applicable à l’ancien accord. Or, ni l’une ni l’autre de ces dispositions ne s’applique à la situation du contribuable ici en cause. En vertu du sous‑alinéa (ii), un accord antérieur peut comporter une date d’exécution, de sorte que c’est le nouveau régime qui s’applique, si l’ordonnance ou l’accord antérieur « fait l’objet d’une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable ». En pareil cas, la date d’exécution de l’accord antérieur est la date à laquelle le premier versement du montant modifié doit être effectué. Étant donné le libellé de l’ordonnance judiciaire no 2, cela ne s’applique pas non plus à la situation du contribuable. En vertu du sous‑alinéa (iii), une ordonnance ou un accord subséquent peut conférer à l’ordonnance ou à l’accord antérieur une date d’exécution qui est la date de la seconde ordonnance ou du second accord si cette dernière ordonnance ou ce dernier accord « a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables ».
+[19] Dans l’arrêt Holbrook, la Cour d’appel fédérale a dit ce qui suit au sujet du sous‑alinéa 56.1(4)b)(iii) (au paragraphe 8) :
+Cette disposition peut englober un certain nombre de situations différentes. En général, elle vise à garantir qu’en cas d’augmentation du total des montants de pension alimentaire pour enfants qui sont à payer on ne puisse pas se soustraire au nouveau régime en faisant en sorte que le montant initial soit régi par l’accord ou l’ordonnance établi avant mai 1997 et que l’augmentation le soit par un accord ou une ordonnance établi après avril 1997.
+[20] Dans l’arrêt Kennedy v. H.M.Q., 2005 DTC 5039, la Cour d’appel fédérale a dit ce qui suit (au paragraphe 13) :
+Il me semble que, même si la définition de * date d=exécution + au paragraphe 56.1(4) aurait pu être plus claire, l=objet de la loi est de faire en sorte que le nouveau régime s=applique aux ordonnances ou aux accords établis après avril 1997 qui créent effectivement de nouvelles obligations. Les obligations créées sous l=ancien régime demeurent assujetties aux anciennes dispositions. C=est ce que confirme d=ailleurs le sous‑alinéa b)(ii), qui prévoit que l=accord ou l=ordonnance qui fait l=objet d=une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants crée une nouvelle date d=exécution; dans ce cas, une nouvelle obligation est créée par suite de la modification apportée après avril 1997. Il en est de même du sous‑alinéa b)(iii), qui prévoit qu’un accord ou une ordonnance subséquent établi après avril 1997 ayant pour effet de changer le total des montants de pension alimentaire pour enfants crée une date d=exécution.
+[21] Comme il a été reconnu dans l’arrêt Holbrook, l’exemple donné de la situation générale dans laquelle le sous‑alinéa b)(iii) s’applique ne constitue pas l’unique cas auquel cette disposition, telle qu’elle est rédigée, peut s’appliquer. Cette disposition s’appliquerait sans aucun doute si les parties voulaient que les montants initiaux de la pension alimentaire pour enfants continuent à être assujettis à l’ancien régime et que seules les augmentations de la pension alimentaire pour enfants postérieures au mois d’avril 1997 soient visées par le nouveau régime, en faisant en sorte que ces augmentations soient prévues dans une ordonnance ou dans un accord distinct. Toutefois, il n’est pas fait mention d’augmentation dans le texte du sous‑alinéa b)(iii), mais plutôt de changements apportés au total des montants de pension alimentaire pour enfants qui sont payables.
+[22] Par contre, dans l’arrêt Kennedy, la Cour d’appel fédérale traite de la question de savoir si, lorsque l’ordonnance ou l’accord est établi après le mois d’avril 1997, « une nouvelle obligation est créée »; la cour ne traite pas de la question de savoir si les anciennes obligations sont supprimées.
+[23] En somme, la position prise par la Couronne en l’espèce est que la renonciation aux arriérés en vertu de l’ordonnance judiciaire no 2 a eu pour effet de changer le total des montants de pension alimentaire pour enfants qui étaient payables en éliminant les montants qui s’étaient accumulés avant la date de l’ordonnance judiciaire no 2, mais qui n’avaient pas été payés.
+[24] Il semble que les tribunaux n’aient pas encore directement statué sur la question particulière de savoir si la suppression des arriérés qui se sont accumulés dans le cadre de l’ancien régime de déduction et d’inclusion peut avoir pour effet de conférer à l’ancienne ordonnance ou à l’ancien accord une « date d’exécution » postérieure, dans le cas où les obligations relatives aux versements mensuels à effectuer au titre de la pension alimentaire pour enfants ne sont pas changées ou modifiées de quelque façon que ce soit et continuent à s’appliquer aux termes de l’accord initial.
+[25] La question a fait l’objet d’une remarque incidente de la Cour dans la décision McNeil v. H.M.Q., 2003 DTC 3997. Dans cette affaire‑là, la première ordonnance judiciaire était une ordonnance provisoire; le juge du procès avait conclu que les paiements en question avaient été effectués aux termes de l’ordonnance définitive ultérieure, qui avait été établie après le mois d’avril 1997. Toutefois, le juge a ajouté qu’il suffirait probablement de modifier, dans une ordonnance ultérieure, l’arriéré auquel s’applique une ordonnance antérieure pour satisfaire au sous‑alinéa b)(iii). Cependant, le juge a exprimé la chose en des termes minutieux et il a admis que cela soulevait des questions concernant les arriérés en litige, questions qu’il n’avait pas entièrement considérées.
+[26] Dans la décision Pilon c. Canada, [2003] A.C.I. no 690, 2003 CCI 846, on a demandé à la Cour d’examiner la question de savoir si des changements apportés, dans un accord subséquent, aux arriérés de la pension alimentaire pour enfants pouvaient, pour l’application du sous‑alinéa b)(iii), avoir pour effet de changer le total des montants de pension alimentaire pour enfants qui étaient payables, de sorte qu’une date d’exécution était créée. Toutefois, dans cette affaire‑là, la Cour a conclu que l’ordonnance ultérieure ne changeait pas les obligations relatives à la pension alimentaire pour enfants ou les arriérés.
+[27] En l’espèce, il y avait des arriérés aux termes de l’ordonnance judiciaire no 1. Je dois donc me prononcer sur la question plus difficile de savoir si les arriérés de la pension alimentaire pour enfants visés par une ordonnance ou par un accord antérieur à l’année 1997, arriérés auxquels l’ancien régime s’appliquait lorsqu’ils se sont accumulés, mais qui n’étaient ni imposables ni déductibles parce qu’ils n’étaient pas payés, constituent des montants de pension alimentaire pour enfants payables qui devraient être pris en considération en vertu du sous‑alinéa b)(iii) de la définition de « date d’exécution » lorsqu’il s’agit de décider si l’ordonnance judiciaire no 2 établie après le mois d’avril 1997 a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables par le payeur. Le libellé en question semble peut‑être s’appliquer, mais on peut se demander si une portée aussi étendue était envisagée.
+[28] L’exemple donné dans l’arrêt Holbrook, en ce qui concerne le fait que le sous‑alinéa b)(iii) a pour effet d’assujettir au nouveau régime les paiements prévus aux termes d’un ancien accord ou d’une ancienne ordonnance si une ordonnance ou un accord ultérieur prévoit qu’un montant additionnel est également payable, semble indiquer clairement le but visé au sous‑alinéa b)(iii). Toutefois, le sous‑alinéa b)(iii) ne fait pas mention d’augmentation, mais il y est plutôt question de changements apportés au total des montants de pension alimentaire pour enfants qui sont payables. Un accord subséquent qui prévoit un rajustement à la baisse du total des montants de pension alimentaire pour enfants à payer du fait qu’au moins un enfant n’a plus besoin de soutien serait peut‑être l’exemple le plus clair d’un rajustement à la baisse. Il est possible de dire qu’une réduction des arriérés accumulés aux termes d’un accord antérieur constitue un exemple tout aussi raisonnable d’un changement à la baisse du total des montants de pension alimentaire pour enfants qui sont payables.
+[29] La position prise par la Couronne est que, si elles sont lues ensemble, les dispositions transitoires des articles 56, 56.1 et 60 se rapportant à la « date d’exécution » montrent en fait clairement que le législateur fédéral voulait qu’il soit présumé que les ordonnances ou les accords établis après le mois d’avril 1997 touchant le montant de la pension alimentaire pour enfants tiennent compte des nouvelles règles qui s’appliqueraient. En l’espèce, la Couronne soutient qu’il peut être présumé que l’ancienne épouse de M. Pooran, en consentant à l’ordonnance judiciaire no 2, et le juge, en rendant cette ordonnance, ont tenu compte de l’effet du nouveau régime. Il se peut bien qu’à leurs yeux, ils aient complètement renoncé aux arriérés accumulés en se fondant sur le fait que les montants reçus par la suite ne seraient pas imposables dans le cadre du nouveau régime.
+[30] La position contraire prise pour le compte du contribuable consiste à se demander ce que les arriérés, qui se sont clairement accumulés aux termes d’une ordonnance établie avant l’année 1997 et avant l’établissement de l’ordonnance subséquente, ont à voir avec la question de savoir si les paiements effectués par la suite, dont le montant était le même que celui qui était prévu dans l’ordonnance initiale, doivent continuer à être déductibles. À coup sûr, si les arriérés avaient été payés au moment où les montants en cause étaient dus, avant que l’ordonnance judiciaire no 2 soit établie, ils auraient été assujettis à l’ancien régime de déduction et d’inclusion. La conclusion selon laquelle l’ordonnance judiciaire no 2 ne conférait pas de date d’exécution à l’ordonnance judiciaire no 1 serait compatible avec les remarques qui ont été faites dans l’arrêt Kennedy lorsque la Cour d’appel fédérale a parlé de la création de nouvelles obligations, plutôt que de la réduction ou de la suppression d’anciennes obligations. La position prise par le contribuable est en outre étayée par l’argument voulant que, généralement, la question de savoir si le décideur, en ce qui concerne une ordonnance ou un accord établi dans une affaire de droit de la famille, a tenu compte d’une façon appropriée des conséquences fiscales que comportent les paiements effectués au titre de la pension ou s’il comprenait ces conséquences, peut souvent constituer une fiction juridique. Eu égard aux faits de l’espèce, le contribuable affirme que son ancienne épouse n’a pas renoncé aux arriérés en se fondant sur le fait que les sommes reçues par la suite ne seraient pas imposables, mais que les présumés arriérés ont été éliminés à cause de l’entente que les parties avaient conclue avant 1997, selon laquelle les paiements cesseraient de s’accumuler dans certaines circonstances.
+[31] On m’a renvoyé à la version française de la législation : j’ai conclu qu’en ce qui concerne tous les aspects pertinents, cette version est libellée en des termes similaires et n’aide pas à trancher cette question. J’ai examiné les notes explicatives du ministère des Finances accompagnant les modifications effectuées en 1997; elles ne semblent pas non plus nous éclairer.
+[32] Le bulletin d’interprétation IT‑530R de l’Agence du revenu du Canada (l’« ARC »), intitulé « Pensions alimentaires », ne traite pas de la question de savoir si les changements apportés au montant des arriérés de la pension alimentaire pour enfants sont considérés comme des changements apportés au total des montants de pension alimentaire pour enfants qui sont payables. Toutefois, l’ARC a publié à ce sujet une interprétation technique qui est mise à la disposition du public. Aucune des deux parties ne m’a renvoyé à cette interprétation, qui étaye pleinement la position du contribuable. L’interprétation technique de l’ARC[3], datée du mois de juillet 1997, traite précisément du cas dans lequel une ordonnance judiciaire subséquente réduit les arriérés, sans pour autant changer le montant de la pension alimentaire pour enfants. L’ARC conclut ce qui suit : [traduction] « Nous sommes également d’avis que la seconde ordonnance ne créerait pas de date d’exécution selon la définition figurant au paragraphe 56.1(4) de la Loi à l’égard de la première ordonnance. Par conséquent, les montants périodiques qui sont versés continueraient à être déductibles entre les mains [du payeur] et à être assujettis à l’impôt entre les mains du bénéficiaire. » À vrai dire, cette interprétation technique de l’ARC a été publiée peu de temps après l’adoption du nouveau régime et, de toute façon, elle ne peut pas lier l’ARC ou la Couronne si elle est erronée en droit. Toutefois, il ne semble pas que l’ARC ait par la suite changé publiquement de position avant l’introduction de la présente instance.
+Conclusion
+[33] Il semble inévitable que l’ordonnance judiciaire no 2, en radiant les arriérés qui étaient payables au titre de la pension alimentaire pour enfants, a eu pour effet de changer le total des montants de pension alimentaire pour enfants qui étaient payables aux termes de l’ordonnance judiciaire no 1 et de l’ordonnance judiciaire no 2. Le choix intentionnel du mot « changer » prévoit clairement des réductions ainsi que des augmentations du total des montants de pension alimentaire pour enfants qui sont payables. Il ressort également clairement de la définition de « date d’exécution » que, pour qu’une date d’exécution soit conférée à l’ancienne ordonnance, aucun montant touchant la pension alimentaire pour enfants n’a à devenir payable aux termes de l’ordonnance ou de l’accord subséquent. L’interprétation technique donnée par l’ARC en 1997 n’était pas correcte en droit.
+[34] L’application ou la non‑application des règles transitoires n’assure peut‑être pas une équité parfaite et, comme il en a ci‑dessus été fait mention, il a antérieurement été démontré que ces règles particulières peuvent produire des résultats plutôt durs et incohérents en ce qui concerne les ordonnances provisoires et les jugements de divorce ainsi que dans le cas où un enfant cesse d’avoir besoin de soutien. M. Pooran croit peut‑être que son cas constitue un autre exemple d’un résultat inapproprié de l’application de ces règles et de la définition de « date d’exécution ».
+[35] Malheureusement, la définition de « date d’exécution » montre clairement que lorsqu’un tribunal ordonne la modification du montant à payer au titre de la pension alimentaire pour enfants aux termes d’un accord établi avant le mois de mai 1997, ou lorsque les parties consentent à pareille modification, ou encore lorsqu’elles concluent un second accord ou qu’un tribunal rend une seconde ordonnance qui a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables aux termes de l’ordonnance ou de l’accord, les sous‑alinéas b)(ii) et b)(iii) s’appliqueront aussi clairement que si les parties avaient choisi ou convenu ou avaient été enjointes d’adopter le nouveau régime en vertu du sous‑alinéa b)(i) ou (iv), ou si les parties avaient sciemment prévu que les versements effectués au titre de la pension alimentaire pour enfants seraient par la suite payables aux termes d’une ordonnance ou d’un accord ultérieur établi après le mois d’avril 1997 visé à l’alinéa a) de la définition « date d’exécution ».
+[36] Je tiens également à souligner que, s’il avait été établi qu’aucun arriéré ne s’était en fait accumulé aux termes de l’ordonnance judiciaire no 1 au moment où l’ordonnance judiciaire no 2 a été établie, parce que l’entente que M. Pooran avait conclue avec son ancienne épouse constituait un accord juridique écrit, il semble qu’une date d’exécution aurait été créée par suite du sous‑alinéa b)(ii) de la définition, du fait que l’ordonnance judiciaire no 2 établie après l’année 1997 rétablissait les paiements à effectuer au titre de la pension alimentaire pour enfants aux termes de l’ordonnance judiciaire no 1, paiements qui avaient été réduits à zéro par suite de l’entente conclue entre M. Pooran et son ancienne épouse, après l’établissement de l’ordonnance judiciaire no 1 et avant l’année 1997.
+[37] Étant donné que le contribuable n’a pas eu gain de cause et qu’il ne peut pas déduire les paiements qu’il a effectués en 2003, en 2004 et en 2005 au titre de la pension alimentaire pour enfants, il s’ensuit directement, par suite de la structure de ces dispositions de la Loi, que son ancienne épouse n’aurait pas dû être assujettie à l’impôt sur ces montants lorsqu’ils ont été reçus. L’ancienne épouse de M. Pooran n’a pas comparu devant la Cour, et j’ignore de quelle façon l’ARC a établi les cotisations relatives à ces paiements. Toutefois, j’espère que l’ARC fera en sorte que la Couronne ne profitera pas de la perte subie par M. Pooran.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 14e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI584
+No DU DOSSIER DE LA COUR : 2006-3032(IT)I
+INTITULÉ : AJODA POORAN
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 12 juillet 2007
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 1er octobre 2007
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Martin Beaudry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir, par exemple, Peter W. Hogg, Joanne E. Magee & Jinyan Li, Principles of Canadian Income Tax Law, 4e éd. (Toronto, Carswell, 2002), page 382; et David G. Duff, Canadian Income Tax Law, (Toronto, Emond Montgomery and Canadian Tax Foundation, 2003), page 1129.
+[2] Voir, par exemple, John W. Durnford et Stephen J. Toope, Spousal Support a Family Law and Alimony in the Law of Taxation (1994) 42 Can. Tax. J. 1.
+[3] Document no 9717896 de l’ARC.

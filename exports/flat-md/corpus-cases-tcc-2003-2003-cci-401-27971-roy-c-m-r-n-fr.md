@@ -1,0 +1,225 @@
+---
+title: "Roy c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27971/index.do"
+last_modified: "2003-06-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 401"
+citation2: ""
+neutral_citation: "2003 CCI 401"
+decision_date: "2003-06-25"
+language: "fr"
+item_id: "27971"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1819
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:03:11.070000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "19b95b1d404969abffe133f9496629914aa4e204d2949a7b6207763041dc1cba"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Roy c. M.R.N.
+
+- Citation: 2003 CCI 401
+- Decision date: 2003-06-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1819, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roy c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-25
+Référence neutre
+2003 CCI 401
+Numéro de dossier
+2002-3531(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-3531(EI)
+ENTRE :
+JEAN-MATHIEU ROY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 8 mai 2003 à Québec (Québec)
+Devant : L'honorable juge suppléant J.F. Somers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour de juin 2003.
+«J.F. Somers»
+J.S.C.C.I.
+Référence : 2003CCI401
+Date : 20030625
+Dossier : 2002-3531(EI)
+ENTRE :
+JEAN-MATHIEU ROY,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers, C.C.I.
+[1] Cet appel a été entendu à Québec (Québec), le 8 mai 2003.
+[2] L'appelant interjette appel de la décision du ministre du Revenu national (le « Ministre »), selon laquelle l'emploi exercé au cours de la période en cause, soit du 1er janvier 2001 au 21 juillet 2001, auprès de 9099-4047 Québec Inc., le payeur, n'était pas assurable parce que cet emploi ne rencontrait pas les exigences d'un contrat de louage de services; il n'y avait pas de relation employé‑employeur entre l'appelant et le payeur.
+[3] Le paragraphe 5(1) de la Loi sur l'assurance-emploi se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) un emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+[4] Le fardeau de la preuve incombe à l'appelant. Ce dernier se doit d'établir, selon la prépondérance de la preuve, que la décision du Ministre est mal fondée en fait et en droit. Chaque cas est un cas d'espèce.
+[5] Le Ministre s’est fondé, pour rendre sa décision, sur les présomptions de fait suivantes lesquelles ont été admises ou niées par l'appelant :
+a) le payeur a été constitué en société le 1er janvier 2001; (admis)
+b) le payeur exploitait une entreprise de création de sites sur l'Internet; (nié)
+c) le payeur exploitait une entreprise sous la raison sociale « Mindlink interactif »; (admis)
+d) les actionnaires du payeur étaient : (admis)
+Julien Saradet
+1 action votante
+Hugues Naud
+1 action votante
+l'appelant
+1 action votante;
+e) les actionnaires n'ont rien payé pour leur action et n'ont pas fait d'investissement financier dans le payeur; (nié)
+f) il n'y a eu aucune réunion d'actionnaires ou d'administrateurs consignée dans les registres du payeur; (nié)
+g) les revenus mensuels du payeur étaient les suivants : (admis)
+janvier 2001
+15 451,33 $
+février 2001
+5 154,98 $
+mars 2001
+13 816,45 $
+avril 2001
+10 221,70 $
+mai 2001
+13 244,92 $
+juin 2001
+7 368,10 $
+juillet 2001
+7 451,17 $
+août 2001
+6 554,77 $
+septembre 2001
+6 857,15 $
+octobre 2001
+10 961,84 $
+novembre 2001
+13 467,06 $
+décembre 2001
+5 324,92 $
+janvier 2002
+5 293,18 $
+février 2002
+2 435,56 $
+mars 2002
+4 067,89 $
+h) les trois actionnaires étaient les seuls employés du payeur; (admis)
+i) l'appelant était responsable du marketing; (nié)
+j) les tâches de l'appelant consistaient à vendre de la publicité pour les sites, une fois les sites créés; (nié)
+k) Hugues Naud était le créateur des pages Web; (nié)
+l) Hugues Naud n'apparaît pas au journal des salaires du payeur avant juin 2001; (admis)
+m) Julien Saradet était vendeur de publicité également; (nié)
+n) chacun des actionnaires travaillait à son domicile avec son ordinateur personnel; (admis)
+o) l'appelant avait un horaire variable et non contrôlé; (nié)
+p) selon le journal des salaires du payeur, seul l'appelant aurait travaillé au mois de janvier 2001 un total de 5 heures seulement; (admis)
+q) selon le journal des salaires, il n'y a aucun employé pendant le mois d'août 2001; (admis)
+r) le 16 mai 2002, dans une déclaration à un agent de l'intimé Hugues Naud déclarait que chacun des trois actionnaires mettait du temps bénévolement dans l'entreprise; (nié)
+s) le 9 août 2001, le payeur émettait un relevé d'emploi à l'appelant, pour la période débutant le 1er janvier 2001 et se terminant le 21 juillet 2001, et qui indiquait 1 072.30 heures assurables et une rémunération assurable totale de 29 662,00 $; (admis)
+t) le relevé d'emploi n'est pas conforme à la réalité quant aux heures et aux périodes réellement travaillées par l'appelant. (nié)
+[6] L'appelant a été seul à témoigner au soutien de son appel. Le payeur a été constitué en société le ler janvier 2001, exploitant une entreprise, selon l'appelant, de création de sites sur Internet; 25 % du temps était consacré à la création et 75 % à la mise en marché.
+[7] Trois à six mois avant l'incorporation de l'entreprise, les principaux intéressés opéraient sous le nom de « Mindlink interactif ». À l'incorporation du payeur les actionnaires étaient Julien Saradet, Hugues Naud et l'appelant, détenant chacun une action votante.
+[8] L'appelant a admis que les actionnaires n'ont pas fait d'investissement financier dans l'entreprise, mais que l'investissement était plutôt en temps qui, selon lui, était considérable.
+[9] L'appelant a expliqué qu'il avait tenu plusieurs réunions des actionnaires, soit une ou deux par semaine, qui n'ont pas été consignées dans les registres du payeur.
+[10] Les trois actionnaires étaient les seuls employés du payeur. Leurs efforts ont généré des revenus mensuels, tels qu'indiqués au sous-paragraphe 5 g) de la Réponse à l'avis d'appel.
+[11] L'appelant a mentionné qu'il était responsable du marketing, des créations et qu'il était aussi programmeur. L'appelant planifiait les projets d'avenir et aussi les réunions des actionnaires. Il a affirmé qu'il n'y avait pas de publicité mais qu'il mettait les sites créés en fonction.
+[12] Hugues Naud était concepteur de graphiques et l'appelant était le programmeur conjointement avec Julien Saradet. Hugues Naud n'apparaît pas au journal des salaires du payeur avant le mois de juin 2001. Chacun des actionnaires travaillait à partir de son domicile avec son ordinateur personnel.
+[13] L'appelant a témoigné qu'il avait des heures de travail variables en fonction de ses cours en génie informatique qui se tenaient en après-midi; il travaillait surtout le matin et le soir. Il a ajouté qu'il était contrôlé par Julien Saradet puisqu'ils travaillaient ensemble.
+[14] Le 9 août 2001 le payeur émettait un relevé d'emploi à l'appelant (pièce I‑2), lequel a été signé par le comptable Eric Morin, pour la période en cause, et qui indiquait 1 072.30 heures assurables et une rémunération assurable totale de 29 662,00 $.
+[15] L'appelant a expliqué que, selon lui, assister aux réunions des actionnaires n'était pas du travail mais du bénévolat.
+[16] Les faits relatés ci-haut sont la preuve présentée par l'appelant.
+[17] En contre-interrogatoire l'appelant a expliqué qu'il suivait des cours en génie informatique pendant 15 à 19 heures par semaine jusqu'à la fin du mois d'avril 2001. Ces cours comprenaient des périodes de laboratoire en équipe et 5 à 10 heures d'étude en plus de leur préparation.
+[18] Il a ajouté que les heures de travail allouées à son travail pour le payeur a affecté ses études avec le résultat qu'il a échoué son année scolaire.
+[19] L'appelant et Julien Saradet demeuraient dans la région de Québec alors que Hugues Naud demeurait dans la région de Montréal.
+[20] Le payeur créait des sites pour adultes et recevait un pourcentage des contrats ou un montant fixe.
+[21] Jacques Dubé, enquêteur, a rencontré l'appelant le 23 octobre 2001 et a obtenu une déclaration statutaire (pièce I-1). Dans cette déclaration, l'appelant a admis que son salaire variait selon les revenus du payeur et qu'il était payé par chèque à toutes les deux semaines.
+[22] L'appelant a déclaré à l'enquêteur que le salaire était déterminé par la personne qui obtenait un contrat avec un tiers : ainsi le revenu était partagé avec la personne qui obtenait le contrat et la personne qui exécutait le contrat. Cependant, c'est la personne qui obtenait le contrat qui déterminait le partage des sommes.
+[23] Selon le livre de paie, déposé sous la cote I-3, aucun salaire n'a été payé pour le mois de janvier 2001 alors que le relevé d'emploi, déposé sous la cote I‑2, indique que le premier jour de travail de l'appelant était le 1er janvier 2001. Il y a des heures de travail inscrites au livre de paie pour tous les mois sauf pour le mois de janvier 2001.
+[24] Dans le livre de paie, les heures travaillées, les sommes versées et le taux de rémunération sont variés. Selon la déclaration de l'appelant, il y a des montants inscrits dans ce livre qui ne sont pas reliés au salaire. Il a également admis que personne ne contrôlait les heures de travail.
+[25] Denis Hamel, agent des appels à l'Agence des douanes et du revenu du Canada, a témoigné à l'audience et a déposé son rapport sous la cote I-4. L'agent a eu des conversations téléphoniques avec Eric Morin, Julien Saradet et Hugues Naud.
+[26] Le comptable, Eric Morin, lui aurait déclaré qu'il n'y avait pas eu de salaire versé au mois de janvier 2001 parce qu'il n'y avait pas de revenus. Il y a eu, selon lui, du travail exécuté par les actionnaires sans rémunération. Il a ajouté que les salaires des actionnaires étaient déterminés selon les revenus générés par le payeur.
+[27] Il est à noter que le dernier jour de travail de l'appelant était le 21 juillet 2001 alors que le payeur a continué à avoir des revenus après cette date.
+[28] Selon le comptable, les revenus sont tels qu'indiqués au paragraphe 5 g) de la Réponse à l'avis d'appel.
+[29] Les travailleurs, incluant l'appelant, pouvaient s'absenter sans permission et oeuvraient à partir de leur domicile. L'appelant et Julien Saradet demeuraient dans la région de Québec alors que Hugues Naud demeurait dans la région de Montréal; c'était plutôt un contrôle de résultat. Selon le comptable, il n'y avait pas de registre de bureau d'administration.
+[30] L'agent des appels a parlé à Julien Saradet le 15 mai 2002 et ce dernier lui a mentionné que les trois travailleurs avaient oeuvré ensemble pendant l'année 2000.
+[31] Julien Saradet a déclaré qu'il travaillait 35 à 40 heures par semaine et qu'il lui arrivait de faire des heures supplémentaires. Une journée normale de travail débutait à 9 h ou à 10 h et se terminait entre 17 h et 18 h et ce du lundi au vendredi. La rémunération était décidée en fonction de ce que chacun pouvait amener comme revenus.
+[32] Julien Saradet a mentionné à l'agent des appels qu'il avait peut-être travaillé bénévolement au début de janvier 2001.
+[33] L'agent des appels a référé Julien Saradet à la déclaration statutaire de l'appelant qui a déclaré que les revenus allaient à celui qui obtenait le contrat alors que lui, Julien Saradet, a affirmé que l'appelant «faisait avancer les choses plus rapidement, donc ses gains étaient plus élevés que les siens».
+[34] D'après la conversation avec Hugues Naud, celui-ci aurait déclaré, entre autres, «qu'il n'est pas important de savoir si un tel travaille de telle heure à telle heure. L'important est de tenter de repartir la compagnie».
+[35] Le contrôle est un critère essentiel pour déceler le lien de subordination. Le degré de contrôle varie selon les circonstances.
+[36] Dans la cause sous étude le bureau d'administration existait pour la forme seulement. Il n'y avait pas de réunion du bureau d'administration pour contrôler le travail exécuté.
+[37] Les heures de travail de l'appelant n'étaient ni déterminées ni contrôlées. Aucun des travailleurs n'était au courant des heures travaillées par les autres. D'ailleurs, le salaire était déterminé par les revenus générés par le payeur; donc il variait. La personne qui obtenait un contrat avec un tiers déterminait le partage avec les autres des sommes obtenues.
+[38] Il n'y avait pas de lien de subordination, c'était plutôt un contrôle de résultat.
+[39] Chacun des travailleurs oeuvrait à partir de sa résidence et avec son propre ordinateur; donc les outils appartenaient à chaque travailleur.
+[40] Les travailleurs avaient la chance de faire des profits : plus de contrats voulait dire plus de revenus. D'ailleurs, la preuve a démontré que l'appelant a reçu plus de revenus que les autres car il travaillait plus rapidement.
+[41] Quant à l'intégration aux opérations de la compagnie, il apparaît que chaque travailleur agissait indépendamment des autres ou de la compagnie.
+[42] Pour les raisons précitées, l'appelant n'occupait pas un emploi assurable pendant la période en litige puisque cet emploi ne rencontrait pas les exigences d'un véritable contrat de louage de services.
+[43] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 25e jour de juin 2003.
+« J.F. Somers »
+J.S.C.C.I.
+RÉFÉRENCE :
+2003CCI401
+No DU DOSSIER DE LA COUR :
+2002-3531(EI)
+INTITULÉ DE LA CAUSE :
+Jean-Mathieu Roy et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 8 mai 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant J.F. Somers
+DATE DU JUGEMENT :
+le 25 juin 2003
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Pour l'intimé :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

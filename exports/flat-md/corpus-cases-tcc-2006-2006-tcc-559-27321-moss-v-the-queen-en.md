@@ -1,0 +1,194 @@
+---
+title: "Moss v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27321/index.do"
+last_modified: "2006-10-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 559"
+citation2: ""
+neutral_citation: "2006 TCC 559"
+decision_date: "2006-10-17"
+language: "en"
+item_id: "27321"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 861
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:40:50.765000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "73f90ed4630a9879f1562e862926b8c7b3db73f29faca7bae5f4b04fb7d63d84"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moss v. The Queen
+
+- Citation: 2006 TCC 559
+- Decision date: 2006-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 861, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moss v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-17
+Neutral citation
+2006 TCC 559
+File numbers
+2005-2775(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2775(IT)I
+BETWEEN:
+LYNDA D. MOSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 20, 2006, at St. John's, Newfoundland, by
+The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Deanna Frappier and Martin Hickey
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax made under the Income Tax Act for the 2002 taxation year is dismissed.
+Signed at Ottawa, Canada, this 17th day of October 2006.
+"C.H. McArthur"
+McArthur J.
+Citation: 2006TCC559
+Date: 20061017
+Docket: 2005-2775(IT)I
+BETWEEN:
+LYNDA D. MOSS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+McArthur J.
+[1] The issue in this appeal is whether Linda Moss, the Appellant, is required to include in her income for the 2002 taxation year the amount of $20,925 paid to her by her former spouse. She submits, primarily, that she had no discretion over the use of the funds. In answer, the Minister of National Revenue (the Minister) submits that the payment was made for her benefit in accordance with a separation agreement and that it is included in her income in accordance with paragraph 56(1)(b) and the deeming provisions of subsections of 56.1(1), 56.1(2), 60.1(1) and 60.1(2) of the Income Tax Act (the Act). They provide, under certain conditions, that the benefiting spouse is deemed to have discretion over the funds even though he or she has no discretion at all. They read in part as follows:
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+...
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer's income for a preceding taxation year;
+56.1(1) For the purposes of paragraph 56(1)(b) and subsection 118(5), where an order or agreement, or any variation thereof, provides for the payment of an amount to a taxpayer or for the benefit of the taxpayer, children in the taxpayer's custody or both the taxpayer and those children, the amount or any part thereof
+(a) when payable, is deemed to be payable to and receivable by the taxpayer; and
+(b) when paid, is deemed to have been paid to and received by the taxpayer.
+(2) For the purposes of section 56, this section and subsection 118(5), the amount determined by the formula [a formula follows]
+56.1(4) The definitions in this subsection apply in this section and section 56.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+60.1(1) For the purposes of paragraph 60(b) and subsection 118(5), where an order or agreement, or any variation thereof, provides for the payment of an amount by a taxpayer to a person or for the benefit of the person, children in the person's custody or both the person and those children, the amount or any part thereof
+(a) when payable, is deemed to be payable to and receivable by that person; and
+(b) when paid, is deemed to have been paid to and received by that person.
+(2) For the purposes of section 60, this section and subsection 118(5), the amount determined by the formula [a formula follows]
+[2] The Appellant and Nick Avis, who were married on July 11, 1997, signed a Separation Agreement in July and August of 2002, respectively. It provided that Nick Avis pay the Appellant $39,000 for her support in 2002. Of this amount, $18,000 was direct support from Mr. Avis to the Appellant and is not in dispute.[1] The amount in dispute included the following which Mr. Avis paid pursuant to the separation agreement:
+(i) From January 1, 2002 to July 11, 2002 (when the matrimonial home was sold) all expenses, of approximately $11,600, related to the home which was owned equally by them but occupied exclusively by the Appellant and her son.
+(ii) The expenses of approximately $2,400 on a Toyotavehicle registered in Mr. Avis' name but used by the Appellant; and
+(iii) Payments on the Appellant's student loan of approximately $2,000.
+[3] The Appellant is well educated having a Masters Degree and is continuing her studies. She is the single parent of a son born from a relationship prior to that with Mr. Avis. She represented herself.
+[4] Mr. Avis testified on behalf of the Respondent. He is a lawyer practising with a St. John's, Newfoundland law firm.
+[5] The separation agreement[2] for our purposes reads as follows:
+8. Support for the Wife
+1. The Husband shall pay to the Wife $39,000 for her support in 2002 and $36,000 for her support in 2003 as outlined below.
+2. The Wife acknowledges she has received $8,000 in direct support payments as of 21 June 2002.
+3. For the period 1 January 2002 to 11 July 2002 the Husband agrees to pay all the expenses in relation to the matrimonial home. Without limiting the generality of that agreement, the following expenses shall be included in it: the mortgage (which includes property tax), cable, telephone, heat and light, propane and propane tank rental, roadrunner service, house insurance, and the alarm system costs. The Wife agrees that all amounts paid by the Husband toward any expenses in relation to the matrimonial home shall be support for the Wife.
+4. For the period 1 January 2002 until it is returned to the Husband, the Husband agrees to pay all the expenses for the Toyota Echo, which has been in the Wife's possession since separation. Without limiting the generality of that agreement, the following expenses shall be included in it: the lease, insurance, maintenance, repairs and registration. The Wife agrees that all amounts paid by the Husband toward any expenses for the Toyota Echo shall be support for the Wife.
+5. The Wife acknowledges that the Husband has paid the monthly payments on her student loan since 1 January 2002 and continues to do so. The Wife agrees that all amounts paid toward her student loan since 1 January 2002 shall be support for the Wife.
+6. The Husband shall, within 10 days of receiving the final accounts for all the expenses to be paid in respect of paragraphs 8.3, 8.4, and 8.5, provide the Wife with documentation of all amounts paid and owing. The Wife agrees that all amounts paid or owing that are documented shall be support for the Wife.
+7. From July 2002 to December 2002 the Husband shall pay to the Wife $2,500 per month, subject to paragraph 8.8.
+8. The Husband shall, within 10 days of ascertaining the amount of support paid to the Wife under paragraph 8.6, pay to the Wife the difference between the support of $39,000 for 2002 and all amounts paid or owing under paragraphs 8.6 and 8.7. In the event that the amounts paid under paragraph 8.6 and 8.7 exceed $39,000, the excess shall be deducted from the support payments still owing under paragraph 8.7 and pro-rated monthly.
+9. From January 2003 to December 2003 the Husband shall pay to the Wife $3,000 per month.
+10. All amounts paid pursuant to paragraph 8 shall be income for the Wife and a tax deduction for the Husband within the meaning of the Income Tax Act, and the Wife shall provide upon request written proof, to the satisfaction of the Husband, of any amounts paid pursuant to paragraph 8.
+11. All monthly payments shall be made on or before the 1st day of each month. The Husband shall provide post-dated cheques for the support payments for 2003, and for 2002 once the precise monthly amount has been ascertained pursuant to paragraph 10.8 and the Toyota Echo has been returned.
+12. The Wife's right to support terminates if she dies, marries or cohabits with another man.
+13. The Husband's obligation to support the Wife shall not exceed the amounts specified in paragraph 8 and payment of the amounts specified in paragraph 8 is in full and final settlement of the Husband's obligation to support the Wife, regardless of any change whatsoever in the circumstances of the Husband or the Wife, foreseen or unforeseen, known or unknown.
+[6] The testimony of the Appellant and Mr. Avis differs with respect to the matrimonial home. He left the matrimonial home on or before January 1, 2002. From January 2002 until a sale transaction was completed in July 2002, the house was for sale. The Appellant's uncontested testimony was that he asked her to remain in the house until it was sold. During the early months of 2002, her intention was to move to British Columbia but those plans changed. Mr. Avis spent time living and working in Corner Brook and while in St. John'she lived with a relative. He left some furniture in the home. They participated equally in the proceeds on the closing of the sale. The essence of this is that they both benefited from his payment of the house expenses. This is somewhat overshadowed by the fact that she refused to move upon the closing of the sale because she had no money to move and no place to go. Mr. Avis obtained a court order permitting him to complete the closing documents as her attorney.
+[7] It is clear that she had no discretion with respect to the use of third party payments which included a mortgage, public utilities, insurance, automobile lease and her own student loan.
+[8] There appear to be three issues of any substance. The Appellant submits (a) that payments were made to third parties and she had no discretion over the use of the funds; (b) did the separation agreement specifically state that the exceptions with respect to "discretion" are to apply to the payments; and (c) should the amount of house benefit she received be offset or reduced by allocating part of the benefit to Mr. Avis.
+[9] The general rule is that spousal support payments under a separation agreement are taxable to the recipient and deductible by the payer (subsection 56(1)).[3] A spousal support payment qualifies as a support amount if it meets the requirements in the subsection 56.1(4) definition as follows:
+(i) it must be an allowance;
+(ii) it must be payable and receivable on a periodic basis;
+(iii) it must be paid for the maintenance of the recipient, children of the recipient, or both;
+(iv) the recipient must have discretion as to the use of the amount;
+(v) the payer and the recipient must be living separate and apart as the result of the breakdown of their relationship; and
+(vi) the amount must be paid pursuant to either a written separation agreement or a court order.
+[10] There are exceptions to these requirements which are set out in subsection 56.1(4). The requirement that the amounts must have been paid to and received by the former spouse in order to be deductible and includable is subject to two exceptions that are found respectively in subsections 56.1(1) and 60.1(1), and subsections 56.1(2) and 60.1(2) of the Act. These deal with, as in the present case, payments made to third parties. Subsections 56.1(1) and 60.1(1) provide that amounts paid to a third party for, as in this instance, the former spouse's benefit, are deemed to have been paid and received by the recipient spouse and are to be included in her income as long as they meet the definition of subsection 56.1(4) which includes that the recipient have discretion as to the use of the amount. The other exception found in subsections 56.1(2) and 60.1(2) also deals with amounts that are specified in the agreement or order to be payable to a third party, but it goes further in that it deems the third party payments, when paid and received, to have been paid and received as an allowance on a periodic basis as to which the recipient has discretion, even though the amount is in fact one as to which that recipient has no discretion at all.
+[11] This exception is available only if the agreement or order specifically states that these subsections are to apply to the payments, and there are very specific limitations on the purposes for which payments may be made under it. The statement that the Respondent relies on is in paragraph 8, subparagraph 10 which is repeated for convenience:[4]
+10. All amounts paid pursuant to paragraph 8 shall be income for the Wife and a tax deduction for the Husband within the meaning of the Income Tax Act, and the Wife shall provide upon request written proof, to the satisfaction of the Husband, of any amounts paid pursuant to paragraph 8.
+[12] The Respondent referred to Veilleux v. R.[5] where the Federal Court of Appeal found that the Minister's interpretation that a written agreement must expressly refer to subsections 56.1(2) and 60.1(2) was too strict. Section 60 of the Act does not create an obligation, but only an option for the payer to deduct payments. The purpose of subsections 56.1(2) and 60.1(2) is to allow deductions for the payer. The Court added that subsection 60.1(2) does not state that the agreement referred to therein must expressly refer to subsections 56.1(2) and 60.1(2). An agreement need only demonstrate that the payer and the beneficiary understand their obligations and rights with respect to payments to third parties. The parties understood the obligations and rights. Subsection 60.1(2) creates a presumption that payments to third parties constitute periodic payments to be used at the beneficiary's discretion, and is the support amount. The Court concluded that the Agreement met the requirements of subsections 56.1(2) and 60.1(2). The taxpayer was entitled to deductions.
+[13] Justice Létourneau in paragraph 14 stated:
+14 It is easy to understand why it is necessary to inform the person who benefits from those payments that he or she must include the amounts in his or her income and of the fact that he or she must pay the taxes owing on those amounts. I acknowledge however that the requirement that subsection 60.1(2) be referred to in the written agreement, particularly where the taxpayer will otherwise lose the entitlement to the deduction, seems to me to be less obvious and less necessary. In fact, unlike section 56, section 60 does not impose any obligation on the payer. It merely gives the payer the option of deducting the amounts paid if he or she wishes. Why then penalize the payer if he knew, although the written agreement made no reference to subsection 60.1(2), that he could exercise that option and in fact did so? Why then penalize the payer for his knowledge of his right to the deduction, if the purpose of that provision was to inform the payer of that right? Worse still, why penalize the payer if the court referred to subsection 56.1(2) in its divorce judgment but failed, by sheer inadvertence, to specify the magic words "subsection 60.1(2)"? Perhaps the reference to subsection 60.1(2) was also intended to inform the person for whose benefit the payments are made that, in that entire process, the payer is given a tax advantage. Whatever the case, even though Parliament did require that the written agreement specify that subsection 60.1(2) applies to the amount paid, I do not believe that its intention was to deprive the taxpayer of an option available to the taxpayer because he or she failed to refer to an option, in the written agreement, that he or she already knew existed or because the court failed to inform the taxpayer of that option. This brings me to the nature of the requirement that the written agreement refer to those paragraphs.
+...
+27 The following two paragraphs of the agreement are central to the applicant's claim:
+[TRANSLATION] All amounts that Gaston Veilleux agrees to pay to Louise Ouellette are net of tax; accordingly, Gaston Veilleux agrees to pay any federal and provincial taxes that may be owed by Louise Ouellette arising from the payment of the said maintenance.
+All amounts paid to Louise Ouellette or to third parties on her behalf shall be deemed to be part of the support; those amounts shall include the expenses relating to the family residence (i.e. mortgage payments, municipal and school taxes, home insurance, electricity, heating, maintenance and cable), expenses relating to the various family insurance plans (i.e. life insurance for dependants, survivor pension, hospitalization, medical expenses, paramedical expenses, dental insurance), provincial and federal income tax and any other amount that may be agreed on by the two parties (automobile repairs, children's activity fees, etc.).
+[14] In the present case, the wording of subparagraph 10 in paragraph 8 of the separation agreement is stronger in favour of the Minister's position than that in Veilleux. For those reasons given in Veilleux, I find the present agreement meets the requirements set out in subsections 56.1(2) and 60.2(2). Further, in a letter from the Appellant's lawyer, Ernest Gittens to Mr. Avis dated April 16, 2002 which is before the July 2 separation agreement, Mr. Gittens states in paragraph 6:
+Your proposal for spousal support is acceptable to Ms. Moss. However, since until June 30, 2002, the bulk of those payments will be going to pay off third party debts she would expect you to cover the tax consequences she will incur as a result of those payments.[6]
+The Appellant's lawyer is stating, in effect, that she will have to include in her income, the payments Mr. Avis will make to third parties for her benefit. The Appellant should have had Mr. Gittens testify if she wished to establish the contrary. I do not accept her submissions that Mr. Gittens had advised her that the third party payments paid for her benefit need not be included in her income because she had no discretion as to the use of the funds.
+[15] The final issue raises the question of whether the third party payments were entirely for the Appellant's benefit. Subsection 56.1(1) of the Act stipulates:
+... where an ... agreement, ... provides for the payment ... for the benefit of the taxpayer ...
+and subsection 60.1(1) states:
+... where an ... agreement, ... provides for the payment of an amount by a taxpayer to a person or for the benefit of the person ...
+It is clear that to be deductible by the payer, it must be paid for the benefit of the recipient. In the present instance, Mr. Avis may have paid the amounts for the house for his benefit and that of the Appellant. There was no evidence of assistance in allocating how much each party benefited and I am not in a position to guess. With the mortgage payments there may have been a principal reduction that benefited both. There is no evidence before me in this regard. The fact is that the Appellant benefited from living in the house with her son, free of any house-related payments until it was sold and she was forced to leave. Any benefit her former spouse may have received is intangible and incalculable. The same remarks apply to the Toyota automobile.
+[16] In conclusion, the Appellant received a total of $38,925 in support payments to be included in her income for the 2002 taxation year pursuant to paragraph 56(1)(b) and subsection 56.1(2). My decision is based on the assumption that the $38,925 is the accurate support amount paid in 2002. If part of that amount was paid in 2003, then I expect the Minister of National Revenue to make the necessary adjustment.
+[17] For these reasons the appeal is dismissed.
+Signed at Ottawa, Canada, this 17th day of October 2006.
+"C.H. McArthur"
+McArthur J.
+CITATION: 2006TCC559
+COURT FILE NO.: 2005-2775(IT)I
+STYLE OF CAUSE: Lynda D. Moss and Her Majesty The Queen
+PLACE OF HEARING: St. John's, Newfoundland
+DATE OF HEARING: September 20, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT: October 17, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Deanna Frappier and
+Martin Hickey
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] While all of the $18,000 was payable in 2002, the entire amount was not paid until about May 2003.
+[2] Exhibit A-3, page 3.
+[3] Treatment of spousal support payments is treated differently from child support payments where after April 1997, child support payments are not taxable in the hands of the recipient and are not deductible by the payor.
+[4] Exhibit A-3.
+[5] 2002 FCA 201.
+[6] Exhibit A-1.

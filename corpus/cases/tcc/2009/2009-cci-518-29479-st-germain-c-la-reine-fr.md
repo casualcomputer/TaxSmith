@@ -1,0 +1,209 @@
+---
+title: "St-Germain c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29479/index.do"
+last_modified: "2009-10-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 518"
+citation2: ""
+neutral_citation: "2009 CCI 518"
+decision_date: "2009-10-19"
+language: "fr"
+item_id: "29479"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6297
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:27:45.051000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4e0978bd55e542bdc9b1b90b08fafb77fec30f714e9d89004ff55404b024fdb4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# St-Germain c. La Reine
+
+- Citation: 2009 CCI 518
+- Decision date: 2009-10-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6297, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+St-Germain c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-19
+Référence neutre
+2009 CCI 518
+Numéro de dossier
+2008-3825(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3825(IT)I
+ENTRE :
+PIERRE ST-GERMAIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 27 août 2009, à Montréal (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Nathalie Labbé
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 2000, 2001, 2002 et 2003 sont accueillis en partie et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations selon les motifs du jugement ci-joints.
+Il est ordonné que le droit de dépôt de 100 $ soit remboursé à l’appelant.
+Signé à Montréal (Québec), ce 19e jour d'octobre 2009.
+« François Angers »
+Juge Angers
+Référence : 2009 CCI 518
+Date : 20091019
+Dossier : 2008-3825(IT)I
+ENTRE :
+PIERRE ST-GERMAIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L'appelant interjette appel d'une nouvelle cotisation établie le 22 octobre 2007 à l'égard des années d'imposition 2000, 2001, 2002 et 2003.
+[2] Le ministre du Revenu national (le « ministre ») a arbitrairement fixé l'impôt à payer de l'appelant à l'égard des années d'imposition 2000 et 2001 le 17 avril 2003 et à l'égard des années d'imposition 2002 et 2003 le 22 août 2005. Par après, l'appelant a produit des déclarations de revenus modifiées pour les mêmes années d'imposition dans lesquelles il réclamait, entre autres, des dépenses, des crédits et les déductions qui suivent :
+2000
+$
+2001
+$
+2002
+$
+2003
+$
+a) frais de services publics (location)
+b) perte finale
+c) dépenses d'emploi
+d) crédits d'impôt non remboursables
+- équivalent du montant pour conjoint
+- crédit pour revenu de pension
+e) remboursement TPS (salariés)
+1 828
+—
+15 661
+6 140
+—
+689
+1 778
+—
+4 747
+6 293
+—
+145
+2 085
+—
+7 083
+6 482
+1 000
+—
+—
+22 200
+6 036
+6 596
+1 000
+—
+[3] Le ministre a accordé les sommes de 6 448 $, 3 800 $, 1 302 $ et 5 384 $ à titre de perte locative pour chacune des années d'imposition respectivement et a refusé tous les autres crédits, dépenses ou remboursements réclamés.
+[4] L'intimée a aussi contesté le droit de l'appelant d'interjeter appel auprès de cette Cour à l'égard des années d'imposition 2000 et 2001 au motif que la Cour canadienne de l'impôt n'a pas la compétence voulue pour entendre l'appel des années d'imposition 2000 et 2001 puisque les nouvelles cotisations à l'égard desdites années ont été établies en vertu du paragraphe 152(4.2) de la Loi de l'impôt sur le revenu (la « Loi ») et qu'aucune opposition n'est permise à l'encontre de ces nouvelles cotisations conformément au paragraphe 165(1.2) de la Loi.
+[5] La preuve a été présentée en fonction de chacune des rubriques en litige. Sur la question visant les dépenses d'emploi, l'appelant a témoigné qu'il était, jusqu'en juillet 2002, directeur du service à la clientèle chez Vidéotron. Selon son témoignage, tous ses frais de déplacement étaient remboursés par Vidéotron jusqu'en juin 2000. À ce moment-là, Vidéotron aurait décidé de ne plus rembourser ses frais de déplacement et aurait refusé de lui fournir le formulaire T-2200, la déclaration des conditions du travail faite par l'employeur.
+[6] L'appelant reconnaît que Vidéotron lui fournissait un bureau à son établissement commercial. L'appelant soutient qu'il devait cependant se déplacer régulièrement aux autres édifices de Vidéotron et parfois aux centres d'appel dans la province.
+[7] En juillet 2002, l'appelant est nommé directeur senior des ventes commerciales et multilogements de Vidéotron. Selon les conditions de ce nouveau poste, Vidéotron s'engage à lui rembourser, sur présentation des pièces justificatives, les dépenses raisonnables engagées dans le cours de son emploi et à lui rembourser 35 cents par kilomètre jusqu'à un maximum de 500 $ par mois. En mars 2003, Vidéotron décide de lui fournir une automobile, laquelle constitue un avantage imposable (pièce A-8). L'appelant a été congédié le 14 juillet 2003.
+[8] L'appelant a donc réclamé les sommes de 15 661 $, 4 747 $, 7 083 $ et 6 036 $ respectivement pour chacune des années en litige selon le tableau au paragraphe 2 de même que le remboursement de la taxe sur les produits et services (TPS) à l'intention des salariés pour les années d'imposition 2000 et 2001, soit 689 $ et 145 $ respectivement. Le seul formulaire T-2200 déposé fut celui de l'année d'imposition 2003.
+[9] Madame Diane Laberge est analyste de paie chez Vidéotron pour les cadres. Elle a répondu à un questionnaire sur les conditions d'emploi de l'appelant et ses réponses, tout comme son témoignage d'ailleurs, n'indiquent pas que l'appelant devait engager des dépenses dans le cours de son emploi et qu'il était tenu d'exercer ses fonctions ailleurs qu'à l'établissement commercial de Vidéotron. Il n'y avait dans les conditions d'emploi de l'appelant aucune obligation de maintenir un bureau à domicile et si du travail était effectué au domicile de l'appelant, c'était par choix.
+[10] Selon les informations recueillies par madame Laberge, si l'appelant devait engager des frais de déplacement, il pouvait soumettre un compte de dépense. L'appelant n'aurait rien réclamé en 2000. Il a réclamé des frais d'hôtel et de repas en 2001, 2002 et 2003, qui lui ont été remboursés par Vidéotron (pièce I-6).
+[11] L'article 8 de la Loi prévoit ce qui est déductible du revenu d'un contribuable tiré d'un emploi. Sous cette rubrique, l'appelant a réclamé pour l'année d'imposition 2000 des frais de publicité et de promotion de 1 146,87 $, des fournitures de 548,48 $, des frais de subsistance de 1 656,13 $, des frais de logement de 4 000 $ et 60% de ses dépenses de véhicule automobile, soit 8 310,40 $. Pour l'année d'imposition 2002, il n'a réclamé que 60% de ses dépenses de véhicule automobile, soit 4 747,06 $.
+[12] L'appelant soutient que Vidéotron a cessé en juin 2000, de façon unilatérale de lui rembourser ses frais de déplacement et ce, jusqu'en juillet 2002, lorsqu'il a été promu et qu'il a signé une entente acceptant la promotion et les nouvelles conditions d'emploi (pièce A-1). Il me paraît assez étonnant qu'une entente écrite décrivant les conditions de travail de l'appelant n'existe pas pour les périodes antérieures à juillet 2002. Chose certaine, c'est que nonobstant la prétention de l'appelant qu'il avait droit à ce remboursement, les documents de Vidéotron indiquent qu'aucun remboursement ne lui a été versé, mais qu'il avait droit à des remboursements s'il engageait de telles dépenses, comme en font foi les documents de 2001 (pièce I-6).
+[13] Le témoignage de madame Laberge confirme également que l'appelant n'était pas tenu habituellement d'exercer les fonctions de son emploi ailleurs qu'à l'établissement de son employeur ni était tenu de payer ses dépenses. L'appelant pouvait, à mon avis, réclamer ses dépenses à son employeur. Le ministre était donc justifié de refuser les dépenses d'emploi réclamées pour l'année d'imposition 2000.
+[14] Il en va de même pour les dépenses de véhicule automobile pour les années d'imposition 2000 et 2001. L'appelant n'était pas tenu habituellement d'accomplir les fonctions de son emploi ailleurs qu'à l'établissement ni de payer ses frais. J'accepte à cette fin le témoignage de madame Laberge. L'appelant n'a donc pas droit au remboursement de la TPS pour les années 2000 et 2001.
+[15] En ce qui concerne l'année d'imposition 2002, l'intimée a informé la Cour qu'elle consent à accorder la dépense de 7 083 $ réclamée par l'appelant à titre de frais de véhicule automobile.
+[16] En ce qui concerne l'année d'imposition 2003, l'appelant admet que cette dépense n'est pas une dépense d'emploi liée à son travail chez Vidéotron. Il s'agit plutôt de dépenses liées à ses démarches pour se trouver un emploi. Il ne s'agit donc pas de dépenses liées à un emploi et l'appelant ne peut réclamer la déduction.
+[17] Sous la rubrique de pertes locatives, le ministre a refusé les frais de services publics pour les années d'imposition 2000, 2001 et 2002. Au procès, le ministre a consenti à accorder cette dépense pour les années 2000 et 2001 pour les montants respectifs de 1 828 $ et 1 778 $, si l'appelant a le droit d'interjeter appel pour ces deux années. Le ministre a maintenu son refus d'accorder la dépense pour 2002, au motif que l'appelant n'a pas prouvé, selon la prépondérance de la preuve, qu'il était responsable de cette dépense selon ses ententes de location. L'appelant a témoigné qu'il faisait la location du logement clé en main et qu'il devait par conséquent assumer les frais de services publics. Je vais lui accorder la dépense pour l'année d'imposition 2002.
+[18] J'ai déjà informé l'appelant, lors du procès, que la preuve entendue ne me permettait pas de lui accorder les crédits d'impôt équivalents pour personne entièrement à charge réclamés pour les années d'imposition en litige à l'égard de son fils en vertu de l'article 118 de la Loi au motif qu'il a versé une pension alimentaire durant les années en litige (voir l'alinéa 118(1)b) et le paragraphe 118(5) de la Loi.)
+[19] Il en va de même en ce qui concerne le crédit d'impôt réclamé pour les années d'imposition 2002 et 2003 pour revenu de pension. L'appelant a fait un retrait de son RÉER en 2002 et a obtenu une allocation de retraite en 2003. Ces deux revenus ne constituent pas un revenu de pension admissible en vertu de l'article 118 de la Loi.
+[20] Le ministre a modifié son calcul visant la perte finale réclamée par l'appelant pour l'année d'imposition 2003. Le ministre a également, à l'audience, modifié à nouveau le calcul de la perte finale et la perte en capital en ce qui concerne la disposition de l'immeuble locatif de l'appelant à Longueuil. La modification est la suivante :
+Édifice
+$
+Terrain
+$
+1. produit de la disposition (répartition)
+2. moins prix de base rajusté
+3. perte
+4. moins période non locative (3/7)
+5. perte finale
+6. perte en capital
+7. perte en capital déductible
+68 600
+84 140
+15 540
+6 660
+8 880
+—
+—
+29 400
+36 060
+6 660
+2 854
+—
+3 806
+1 903
+[21] L'appelant, en fin de compte, ne conteste plus le calcul ci-dessus. Il demande cependant de pouvoir déduire la perte en capital du gain fait lors de la vente d'un autre immeuble. Cette demande ne concerne pas la validité de la cotisation devant moi et je ne peux donc pas traiter cette demande.
+[22] Les présents motifs disposent de tous les points en litige en ce qui concerne les déductions, les crédits et les dépenses réclamés par l'appelant. L'intimée a aussi soulevé comme moyen préliminaire la question de savoir si la Cour a la compétence voulue pour entendre l'appel à l'égard des années d'imposition 2000 et 2001. L'intimée invoque les articles 165 et 169 de la Loi au motif que les dernières nouvelles cotisations datées du 22 octobre 2007, à l'égard desdites années, ont été établies en vertu du paragraphe 152(4.2) et qu'aucune opposition n'est permise à l'encontre de ces nouvelles cotisations conformément au paragraphe 165(1.2) de la Loi.
+[23] La cotisation initiale pour les années d'imposition 2000 et 2001 a été établie le 17 avril 2003. C'est à la demande de l'appelant que le ministre a établi de nouvelles cotisations concernant ces deux années le 22 octobre 2007 et la demande a été faite à la suite du dépôt de déclarations de revenus modifiées le 12 janvier 2004. L'effet juridique d'une déclaration de revenu modifiée a été examiné par la juge Sharlow de la Cour d'appel fédérale dans l'arrêt Armstrong c. Canada, 2006 CAF 119, au paragraphe 8 :
+Une déclaration de revenu modifiée portant sur une année d'imposition qui a déjà été l'objet d'un avis de cotisation n'entraîne pas pour le ministre l'obligation de fixer l'impôt avec toute la diligence possible (paragraphe 152(1) de la Loi de l'impôt sur le revenu), ni n'a pour effet de faire repartir de zéro l'un quelconque des délais de prescription qui commencent quand une déclaration de revenu relative à une année donnée est produite, puis qu'une cotisation est établie. Une déclaration de revenu modifiée est simplement une demande adressée au ministre pour qu'il établisse une nouvelle cotisation concernant cette année-là.
+[24] La période normale de nouvelle cotisation est de trois ans (paragraphe 152(3.1) de la Loi) lorsqu'il s'agit d'un particulier. Cette période commence à la date de la cotisation initiale qui, en l'espèce, est le 17 avril 2003. Si le ministre veut établir une nouvelle cotisation après la période normale de nouvelle cotisation, il ne peut généralement le faire que s'il établit qu'un contribuable a fait une présentation erronée des faits par négligence, inattention ou omission volontaire en produisant ses déclarations de revenus ou que si le contribuable remet au ministre une renonciation selon le formulaire prescrit.
+[25] Or, en l'espèce, c'est à la demande du contribuable que les nouvelles cotisations ont été établies, et cette demande a été faite à l'intérieur de la période normale de nouvelle cotisation. Le paragraphe 152(4.2) de la Loi permet à un contribuable de demander au ministre d'établir une nouvelle cotisation afin de réduire l'impôt payable ou d'accorder un remboursement d'impôt pour l'année prescrite après la période normale de nouvelle cotisation. À mon avis, ce n'est pas le cas ici. La demande de l'appelant (déclaration modifiée) a été faite avant la fin de la période normale de nouvelle cotisation et le fait que les nouvelles cotisations ont été établies par le ministre après la période normale de nouvelle cotisation n'en fait pas des cotisations au sens du paragraphe 152(4.2).
+[26] La preuve n'établit pas clairement que les déclarations de revenus produites par l'appelant pour les années d'imposition 2000 et 2001 sont des déclarations modifiées. Je fais cette remarque parce que la preuve est que les cotisations initiales des années 2000 et 2001 ont été établies de façon arbitraire par le ministre au motif qu'aucune déclaration de revenus n'avait été produite par l'appelant pour ces années. Il pourrait s'agir simplement de déclarations déposées en retard.
+[27] L'appelant, à mon avis, avait donc le droit de s'opposer auxdites cotisations et d'interjeter appel devant cette Cour.
+[28] Les appels sont accueillis en partie et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations.
+Signé à Montréal (Québec), ce 19e jour d'octobre 2009.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2009 CCI 518
+Nº DU DOSSIER DE LA COUR : 2008-3825(IT)I
+INTITULÉ DE LA CAUSE : Pierre St-Germain et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 27 août 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 19 octobre 2009
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Nathalie Labbé
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

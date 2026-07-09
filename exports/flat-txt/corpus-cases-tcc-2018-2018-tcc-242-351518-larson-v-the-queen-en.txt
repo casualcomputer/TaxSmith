@@ -1,0 +1,185 @@
+Title: Larson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/351518/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-242-351518-larson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-12-04
+
+# Larson v. The Queen
+
+- Citation: 2018 TCC 242
+- Decision date: 2018-12-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4977, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-12-04
+Neutral citation
+2018 TCC 242
+File numbers
+2014-3505(IT)APP
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-3505(IT)APP
+BETWEEN:
+ESTHER M. LARSON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion to set aside the Judgment dated November 16, 2017, disposed without appearance of counsel, in accordance with section 69 of the Tax Court of Canada Rules (General Procedure).
+Before: The Honourable Justice Johanne D’Auray
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Suranjana Bhattacharyya
+JUDGMENT
+UPON Motion by the Applicant requesting to set aside the Judgment of this Court dated November 16, 2017;
+AND UPON reading the Motion record filed by the Applicant;
+AND UPON reading the Respondent’s written submission opposing the Applicant’s Motion;
+The Motion of the Applicant is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of December 2018.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2018 TCC 242
+Date: 20181204
+Docket: 2014-3505(IT)APP
+BETWEEN:
+ESTHER M. LARSON,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Auray J.
+I. Overview
+[1] The Applicant, Esther M. Larson, filed before this Court a Motion seeking to set aside the Judgment of Deputy Judge Masse dated November 16, 2017, dismissing her Application for an extension of time to file an appeal (“Motion”) with respect to her 2002 taxation year. Ms. Larson asked that this Motion be disposed on the basis of the written material that the parties submitted. The Court offered Ms. Larson to hear her Motion in person in Toronto, but she was not available. Accordingly, the Motion was disposed on the basis of the written material filed by both parties.
+[2] Ms. Larson is requesting that the Judgment should be set aside for the following reasons: [1]
+1. I was not aware a Tax Court proceeding on November 14, 2017 was to take place with respect to the 2002 taxation year.
+2. I had not received any notification that PAC Protection Corporation or their representative, Robert Mattacchione would be appearing on my behalf.
+3. I was not made aware that the decision on my application for a time extension was dismissed and thus was not given opportunity to file a Notice of Appeal with respect to the 2002 Taxation year.
+4. I would not have requested a time extension, but make the appeal to the CRA ruling.
+5. Had I been made aware of these proceedings, I would have been able to present further information.
+[3] The Respondent’s position is that Ms. Larson’s Motion should be dismissed as it lacks a factual and a legal basis.
+II. Background with respect to the donation program
+[4] On November 14, 2016, thirteen Applications for extension of time to file an appeal were called to be heard in Toronto, Ontario before this Court. Deputy Judge Masse presided over these Applications.
+[5] Mr. Mattacchione attended the hearing of November 14, 2016. He advised the Court that all the Applicants would be bound by the outcome. He stated: “I have the authority to bind the [applicants]”. [2] In addition, he stated that he had such authority in writing.
+[6] Out of the thirteen Applications, two Applicants attended the hearing, three Applicants proceeded by way of affidavit and eight Applicants, including Ms. Larson did not attend the hearing on November 14, 2016.
+[7] As it was the case for Ms. Larson, all of the Applicants participated in a donation program and claimed the corresponding tax credit. The donation program was promoted by Initiatives Canada Corporation (“ICC”). All of the Applications for an extension of time to file a Notice of Appeal, including the one for Ms. Larson, were filed by Mr. Mattacchione.
+[8] Mr. Mattacchione was the Chief Executive Officer of ICC. Mr. Mattacchione was also affiliated with another company named PAC Protection Corporation (“PAC”). PAC was a protection program for the participants in the donation program. Participants were informed that PAC would be responsible for filing the Notices of Appeal of the participants before the Court and that a lawyer would be acting on behalf of the participants.
+III. Facts relating to Ms. Larson
+[9] On April 27, 2006, Ms. Larson was reassessed for her 2002 taxation year by the Minister of National Revenue (the “Minister”) denying her donation claim for a tax credit.
+[10] On May 26, 2006, Ms. Larson objected to the reassessment by forwarding to the Minister a Notice of Objection.
+[11] On June 10, 2014, the Minister confirmed Ms. Larson’s reassessment for her 2002 taxation year, by sending her a Notice of Confirmation. Such Notice of Confirmation was received by Ms. Larson on June 16, 2014.
+[12] The Notice of Confirmation stated that a taxpayer has 90 days to file an appeal before the Tax Court of Canada pursuant to section 169 of the Income Tax Act (the “Act”), namely 90 days of the date of the Notice of Confirmation. Accordingly, Ms. Larson had until September 8, 2014 to file a Notice of Appeal before this Court. A Notice of Appeal was not filed by Ms. Larson or her representative.
+[13] On October 1, 2014, an Application for an extension of time within which to file a Notice of Appeal was filed on behalf of Ms. Larson by Mr. Mattacchione.
+[14] On October 3, 2017, a Notice of Hearing was sent by the Hearing Coordinator of this Court to the representative of Ms. Larson, Mr. Mattacchione. The Notice of Hearing indicated that the hearing for Ms. Larson’s Application for an extension of time to file an appeal was scheduled to be heard on November 14, 2017 at 9:30 a.m. at 180 Queen Street, in Toronto.
+[15] At the hearing, Mr. Mattacchione indicated that he was unable to contact Ms. Larson.
+[16] It appears from the transcript of the hearing for the Application for an extension of time, that Deputy Judge Masse asked Mr. Mattacchione if he had something to say on the files with respect to the Applicants who did not attend the hearing. His response was as follows: [3]
+MR. MATTACCHIONE: No, Your Honour, I know your position on attendance. I did my best to get them here.
+JUSTICE MASSE: You can try and convince me otherwise. I'm very flexible, you know.
+MR. MATTACCHIONE: I just think the real message is this was a group, and unfortunately it has been broken down into individuals, which I understand, that's the process, but the group acted as a group. And so I think the circumstances around one are very, very close to the circumstances around the other. So argument for Tony D'Souza, as an example, would probably hold some water with the other (inaudible).
+[17] In light of these comments by Mr. Mattacchione, Deputy Judge Masse stated as follows with respect to the applicants who did not attend the hearing. [4]
+JUSTICE MASSE: With respect to Mr. Gineau Doiron Mr. Keith B. Muncey, Mr. Harm Schaap, Ms. Franceen Bulkis, Mr. Gajraj Bhagwandin, Mr. Hugues Leduc, Ms. Esther Larsen and Mr. Jacques Bourque, those persons not being here, their applications are dismissed since I have no indication at all as to their subjective intent to file appeals within the 90-day period, and the document that has been filed through the witness Donna DuSomme is inadequate to establish that as well, beyond the balance of probabilities.
+[18] As a result, Ms. Larson’s Application for an extension of time to file a Notice of Appeal was dismissed. The Judgment for Ms. Larson reads as follows:
+JUDGMENT
+UPON reading the application for an order extending the time for the applicant to file a notice of appeal in respect of the 2002 taxation year under the Income Tax Act;
+AND UPON having read Michael Hwang’s affidavit and heard both parties;
+Signed at Toronto, Ontario, this 16th day of November 2017.
+Masse D. J.
+[19] On January 3, 2018, the Canada Revenue Agency (“CRA”) sent a Statement of Account to Ms. Larson, reflecting the total amount owed, for her 2002 taxation year.
+[20] On January 22, 2018, Deputy Judge Masse rendered his Judgment [5] with respect to the Applicants who either attended the November 14, 2017 hearing in Toronto or had filed an affidavit stating why their Application for an extension of time should be granted. Their Applications for an extension of time were dismissed on the basis that the Applicants failed to act with due diligence to ensure that their representative would be able to act within the prescribed time limit. Deputy Judge Masse stated that the Applicants must bear responsibility for PAC’s negligence since it was their duty to ensure that PAC would act within the prescribed time limit. At paragraphs 38, 39 and 40 of his decision, Deputy Judge Masse stated as follows:
+[38] I agree with Justice Visser and I arrive at the same conclusion based on all the evidence that I have heard. In the cases before me, I do not find that Mr. DeBartolo was in fact negligent; he was simply standing firm that he would do no work on new files unless he was paid – not an unreasonable position to take. Even if it can be found that Mr. DeBartolo was negligent, I am driven to the conclusion that ICC, PAC and/or Mr. Mattacchione demonstrated great negligence in failing to file the applications for extension of time. PAC dithered and delayed, providing Mr. DeBartolo with no additional retainer funds and did nothing to honour the terms of the retainer agreement even though it knew that time was of the essence and even though it knew that Mr. DeBartolo would do no further work without being paid. No efforts were made to retain alternate counsel or legal representation once the relationship with Mr. DeBartolo broke down even though other counsel, such as Robert Kepes, was undoubtedly available. I am of the view, as was Justice Visser in Sapi, that each of the five Applicants also failed to take adequate steps to follow up with PAC to ensure that their respective Notices of Appeal were filed on a timely basis. Any neglect or carelessness by ICC, PAC, Mr. Mattacchione or any counsel engaged to file the appeals in question, is not a just and equitable reason to grant these five applications.
+[39] Justice Visser, in Sapi, went on to observe at paragraphs 44 of his reasons for Judgment:
+[44] Overall, it is my view that each of the Applicants provided their respective Notice of Confirmation to PAC on a timely basis, and then simply trusted PAC to attend to their appeals without adequately following up with PAC to ensure their appeal was so filed. Unfortunately, their trust in PAC was misplaced, as PAC did not insure their appeals were filed on a timely basis or take adequate steps in doing so. While PAC has attempted to deflect blame to Mr. DeBartolo, who did not testify, it is my view that any neglect or carelessness by either PAC or any counsel it engaged to file the appeals in question is not a just and equitable reason to grant these four Applications.
+[40] I agree with Justice Visser. In the circumstances of these cases, the neglect or carelessness of the Applicants, ICC, PAC, Mr. Mattacchione or Mr. DeBartolo in failing to file the appeals in question, is not a just and equitable reason to grant these applications for an extension of time to file an appeal.
+[21] On May 4, 2018, the CRA sent a legal warning letter to Ms. Larson advising her that she had to pay the amount of taxes owed, if not, collection actions would be taken.
+[22] On June 7, 2018, Ms. Larson filed before this Court a Motion requesting that the Judgment of Deputy Judge Masse dated November 16, 2017 be set aside. Ms. Larson also requested that the Motion be disposed in writing, without appearance of the parties.
+IV. Issue
+[23] Should the Judgment rendered by Deputy Judge Masse, dated November 16, 2017, dismissing Ms. Larson’s Application for an extension of time to file an appeal be set aside?
+V. Law
+[24] Subsection 172 (2) of the Tax Court of Canada Rules (General Procedure) (the “Rules”) states as follows:
+A party who seeks to,
+(a) have a judgment set aside or varied on the ground of fraud or of facts arising or discovered after it was made,
+(b) suspend the operation of a judgment, or
+(c) obtain other relief than that originally directed,
+may make a motion for the relief claimed.
+[25] In this Motion, the burden is on Ms. Larson. She has to establish that the Judgment was procured by fraud or new facts were discovered after the Judgment.
+[26] Ms. Larson’s position is not clear. In her Notice of Motion, she states that if she had been made aware of the proceedings, she would have presented further information.
+[27] However, in her affidavit to the Motion, she does not provide any further information.
+[28] She also states in her Notice of Motion and in her affidavit that not only was she not aware of the proceeding on November 14, 2017, “she had not received any notification that PAC Protection Corporation or their representative, Mr. Mattacchione would be appearing on my behalf and that if she had attended the hearing, she would have been able to present further information.”
+[29] In light of her allegations in her Motion and affidavit, Ms. Larson is either arguing that Mr. Mattacchione was not authorized by her to act as her representative during the November 14, 2017 hearing, or that she was ill-served by Mr. Mattacchione.
+[30] Under the PAC Protection Plan, it was understood, that representatives would be responsible for all the proceedings before this Court. In her affidavit, Ms. Larson recognized that Mr. Mattacchione is a representative for PAC. It would be difficult for Ms. Larson to argue that Mr. Mattacchione was not acting on her behalf.
+[31] That said, the biggest hurdle that Ms. Larson has, in arguing that Mr. Mattacchione was not her representative, is that under subsection 167(5) of the Act, an extension of time cannot be granted by this Court, if it is not instituted before the one year and 90 days of the date of the Notice of Confirmation. The subsection states as follows:
+167(5) No order (for an extension of time to appeal) shall be made under this section unless:
+the application is made within one year after the expiration of the time limited by section 169 for appealing, (that is 90 days of the date of the Notice of Confirmation).
+[32] The Notice of Confirmation with respect to Ms. Larson’s 2002 taxation year was dated June 10, 2014. Ms. Larson had until September 8, 2015 to file an Application for an extension of time to file an appeal. After that date, the Court cannot grant an extension of time since the Court lacks jurisdiction. Other than the Application filed on her behalf by Mr. Mattacchione on October 1, 2014, Ms. Larson has not established that another Application for an extension of time was filed by her or on her behalf on or before September 8, 2015. Therefore, if Ms. Larson argument is that she did not authorize Mr. Mattacchione as her representative, then there would be no Application left to revive.
+[33] Accordingly, this Motion cannot succeed if Ms. Larson’s argument is that she did not authorize Mr. Mattacchione to act as her representative.
+[34] If Ms. Larson seeks to set aside the Deputy Judge Masse’s Judgment because she was ill-served by Mr. Mattacchione, then she would have to prove that the Judgment should be set aside since it was procured “on the ground of fraud” pursuant to paragraph 172(2)(a) of the Rules.
+[35] Ms. Larson has the burden of establishing fraud. In the decision of Nicholls vs R, [6] Justice Woods had to decide if a judgment was procured by fraud. She stated as follow:
+[15] I was not referred to any judicial decisions of this Court which have considered an application of this type. However, the respondent referred me to a recent decision concerning a similar rule in Ontario: Robson (Trustee of) v Robson, 2010 ONSC 4391.
+[16] Robson summarizes the relevant principles at paragraphs 23 and 24, and these are reproduced below:
+[23] The factors which must be established to set aside a judgment for fraud under Rule 59.06(2) were set out by Osbourne J. (as he then was) in International Corona Resources Ltd. v. LAC Minerals Ltd. (1988), 66 O.R. (2d) 610 (H.C.). They are:
+1. the fraud alleged must be proven on a reasonable balance of probabilities.
+2. the fraud must be material, that is, it must go to the foundation of the case.
+3. the evidence of fraud must not have been known to the moving party at the time of trial.
+4. the moving party must have exercised reasonable or due diligence at the trial.
+5. if the fraud alleged is that of a non-party, the determination of fraud is subject to greater scrutiny.
+6. the test for due diligence is objective.
+7. delay will defeat a motion under Rule 59.06.
+8. relief under Rule 59.06 is discretionary and the conduct of the moving party is relevant.
+9. at the end of the day, the moving party must show that a judgment was procured by fraud, that there has been a new discovery of something material, in that fresh facts have been found which, by themselves or in combination with previously known facts, would provide a reason for setting aside the judgment.
+[24] Fraud in the context of Rule 59.06 is a fraud on the court. The cases which have considered Rule 59.06 have adopted the definition of fraud set out by the House of Lords in Derry v. Peek (1889), 14 App. Case. 337 (H.L.): “fraud is proved when it is shewn that a false representation has been made (1) knowingly, or (2) without belief in its truth, or (3) recklessly, careless whether it be true or false.” See: Vale v. Sunlife Assurance of Canada Ltd. (1998), 39 O.R. (3d) 444 (Gen. Div.); Gregory v. Jolley, [2001] O.J. No. 2313 (C.A.); Calabrese v. Weeks, [2003] O.J. No. 4176 (S.C.J.); Granitile Inc. v. Canada, [2008] O.J. No. 4934 (S.C.J.).
+[36] Ms. Larson has not established any of the above factors. In her affidavit, no fact supports a finding of fraud.
+[37] From what I understand, from the Reasons for Judgment of Deputy Judge Masse, the participants with respect to the donation program were advised by PAC to send them their Notices of Confirmation. PAC would file the Notices of Appeal on their behalf. During the November 14, 2016 hearing Mr. Mattacchione mentioned that he was under the impression that the appeals of the participants had been filed before this Court. He then, became aware that the Notices of Appeal had not been filed. Hence, Applications for extension of time were required.
+[38] Accordingly, Ms. Larson would have sent to PAC her Notice of Confirmation in order for PAC to file her Notice of Appeal. This explains why her Application for an extension of time to file an appeal was filed by Mr. Mattacchione of PAC.
+[39] In my view, the failure of Mr. Mattacchione to inform her of the hearing date does not constitute fraud. Clients are understood to have authorized and are bound by the actions of their representatives before the Courts. [7] It is also not for the Court to second guess whether a case could have been argued differently or if concessions were strategically inadvisable. [8]
+[40] As it was stated in Nicholls, supra, delay is a factor in determining a Motion whereby it is alleged that a judgment was procured by fraud. Ms. Larson brought the Motion to set aside the Judgment on June 7, 2018, whereas the Judgment of Deputy Judge Masse was rendered on November 16, 2017. She received her first Statement of Account from the CRA on January 3, 2018 requiring that her tax debt be paid. Even if she was not aware that a Judgment had been rendered, she was aware that she owed a large amount of money to the CRA. Ms. Larson’s Motion to set aside the Judgment was filed five months after being advised by the CRA that she was liable for a large amount of taxes. Again, there is no evidence in Ms. Larson’s affidavit with respect to any steps that she would have taken, if any. Therefore, it cannot be said that her Motion was brought as soon as the circumstances permitted.
+VI. Disposition
+[41] The Motion to set aside the Judgment of Deputy Justice Masse dated November 16, 2017 is dismissed without costs.
+Signed at Ottawa, Canada, this 4th day of December 2018.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2018 TCC 242
+COURT FILE NO.:
+2014-3505(IT)APP
+STYLE OF CAUSE:
+ESTHER M. LARSON v THE QUEEN
+PLACE OF HEARING:
+DATE OF HEARING:
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+December 4, 2018
+APPEARANCES:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Suranjana Bhattacharyya
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Applicant’s Notice of Motion dated June 7, 2018 (“Notice of Motion”), at page 1.
+[2] Transcript of Proceedings heard before Deputy Justice Masse on November 14, 2017 at page 10, line 9.
+[3] Transcript of Proceedings heard before Deputy Judge Masse on November 14, 2017 at page 112, lines 1 to 13.
+[4] Ibid at page 112, lines 14 to 23.
+[5] Amrite et al v HMQ, 2018 TCC 11.
+[6] 2011 TCC 279, at paras 16 to 26.
+[7] Li vs The Minister of Citizenship and Immigration, 2011 FC 196, at para 15.
+[8] Ibid.

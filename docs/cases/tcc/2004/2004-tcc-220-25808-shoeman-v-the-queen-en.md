@@ -1,0 +1,206 @@
+---
+title: "Shoeman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25808/index.do"
+last_modified: "2004-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 220"
+citation2: ""
+neutral_citation: "2004 TCC 220"
+decision_date: "2004-03-26"
+language: "en"
+item_id: "25808"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3851
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:39:34.213000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6f1fe4473886643a14fab23bbc71af336393c38d5f7c90ed8d5d8d244bfaf18f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shoeman v. The Queen
+
+- Citation: 2004 TCC 220
+- Decision date: 2004-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3851, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shoeman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-26
+Neutral citation
+2004 TCC 220
+File numbers
+2003-1471(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1471(IT)G
+BETWEEN:
+HARRY SHOEMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on March 11 and 12, 2004 at Regina, Saskatchewan
+By: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Ralph Ottenbreit, Q.C.
+Counsel for the Respondent:
+Robert Gosman
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2000 and 2001 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 26th day of March, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC220
+Date: 20040326
+Docket: 2003-1471(IT)G
+BETWEEN:
+HARRY SHOEMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the General Procedure was heard at Regina, Saskatchewan on March 11 and 12, 2004, together with the appeal of Randall Shoeman, Harry's son, on common evidence by consent of the parties. Harry, Randall and another son, Russell, testified for the Appellant.
+[2] Paragraphs 5 to 10 of the Reply to the Notice of Appeal outline the facts in dispute. They read:
+5. In computing income for the 2001 Taxation Year, the Appellant claimed a business investment loss ("BIL") in the amount of $384,320. The Appellant also made a request to have a non-capital loss carried back to the 2000 Taxation Year in the amount of $65,000.
+6. In assessing the Appellant on March 25, 2002 for the 2001 Taxation Year, (the "Reassessment") the Minister denied the BIL claimed by the Appellant and the request to carry a non-capital loss back to the 2000 Taxation Year.
+7. By Notice of Objection received May 21, 2002 the Appellant objected to the Reassessment.
+8. By Notification of Confirmation dated January 20, 2003 the Minister confirmed that the Appellant was not entitled to a non-capital loss carry back to the 2000 Taxation Year. By Notice of Reassessment dated January 20, 2003 the Minister reassessed the Appellant for his 2001 Taxation Year to allow a BIL in the amount of $69,685.
+9. In so assessing the Appellant for the 2000 and 2001 Taxation Years the Minister made the following assumptions of fact:
+(a) the BIL claimed by the Appellant in the 2001 Taxation Year was in respect of 610807 Saskatchewan Ltd. (the "Corporation");
+(b) the Appellant was not a shareholder in the Corporation;
+(c) the Appellant's son Russell Shoeman owned all of the shares in the Corporation;
+(d) an agreement (the "Agreement") dated August 16, 1999 and amended February 26, 2001 between the Corporation and Russell Shoeman and Wayne Leibel/Robert Pyne and Harry Shoeman, Randall Shoeman stated that the Appellant was liable to repay on behalf of the Corporation amounts invested by Wayne Leibel/Robert Pyne if Russell Shoeman or the Corporation did not repay the amount within twelve months from the date of the original agreement;
+(e) the Appellant made the following payments in respect of the Agreement:
+September 19, 2000 to Rob Pyne
+$20,000
+September 22, 2000 to Wayne Leibel
+5,000
+September 28, 2000 to Wayne Leibel
+10,000
+September 29, 2000 to Wayne Leibel
+30,000
+October 11, 2000 to Wayne Leibel
+4,000
+Total
+69,000
+(f) the Appellant did not make any additional payments in respect of the Agreement;
+(g) the Appellant invested the following additional amounts in the Corporation:
+May 31, 2000
+$300
+January 9, 2001
+275
+April 10, 2001
+110
+Total
+$685
+(h) the Corporation has not filed any income tax returns;
+(i) the Appellant did not have a debt owing to him from the Corporation in excess of the amounts noted in paragraphs (e) and (g);
+(j) the Appellant did not have a debt owing to him from the Corporation in excess of the amounts noted in paragraphs (e) and (g) above that was incurred for the purpose of earning income;
+(k) the Appellant did not have a debt owing to him from the Corporation in excess of the amounts noted in paragraphs (e) and (g) that became a bad debt in the 2001 Taxation Year;
+(l) the Appellant was assessed taxable income of $22,702 in his 2001 Taxation Year;
+(m) the Appellant did not have a non-capital loss in his 2001 Taxation Year.
+B. ISSUES TO BE DECIDED
+10. The issues are whether:
+(a) the Appellant incurred a BIL in the 2001 Taxation Year in excess of the $69,685 determined by the Minister;
+(b) the Appellant has a non-capital loss available from the 2001 Taxation Year to apply to the 2000 Taxation Year.
+[3] Before the date of hearing, the Appellant elected to proceed under the General Procedure. The Notice of Appeal assists in outlining the facts of the appeal. Paragraphs 1 to 4 of it read:
+1. Harry C. Shoeman (the "Taxpayer") resides at 23 Cowburn Crescent, Regina, Saskatchewan, S4S 5R9. ADMITTED
+2. The Taxpayer is appealing from a Notice of Reassessment dated January 20, 2003 for his 2001 taxation (the "2001 Reassessment") issued by the Minister of National Revenue (the "Minister") and from a Notice of Assessment dated July 6, 2001 for his 2000 taxation year (the "2000 Assessment") issued by the Minister which the Minister confirmed by Notification of Confirmation dated January 20, 2003. ADMITTED
+3. The material facts relied upon by the Taxpayer are as follows:
+(a) In approximately 1995, the Taxpayer's son, Russell Shoeman, formulated a business plan involving the writing and publishing of a book on famous golf courses in North America, complete with numerous full colour photographs. The book was entitled The Nature of Golf.
+(b) Russell Shoeman became the sole shareholder and sole director of 610807 Saskatchewan Ltd. ("610807"), which was incorporated on March 29, 1995.
+(c) 610807 was sometimes referred to as The Nature of Golf Ltd. although that was not its registered corporate or business name.
+(d) In 1995, 610807 initially entered into written contracts with a photographer, a writer and a researcher for their creative services involved in producing the book. 610807 entered into additional contracts for creative services during and after 1995.
+(e) 610807 contracted with Louban Media for the digital imaging and production of The Nature of Golf during 1998.
+(f) 610807 contracted with Friesens Corporation for the printing of 5,000 copies of The Nature of Golf during 2000.
+(g) Until February, 1996, 610807 did not operate a bank account in its own name. Instead most of its expenses were paid by cheques drawn on account no. 3315454 in the name of Russell Shoeman with Sherwood Credit Union of Regina, Saskatchewan.
+(h) Commencing in 1995 and continuing into 2001, the Taxpayer made numerous loans to 610807 and advanced substantial amounts for the benefit of 610807. Most of the loans were advanced by transfer to the above-mentioned account no. 3315454.
+(i) 610807 also became indebted to the Taxpayer as a result of the Taxpayer paying, on behalf of 610807, amounts owed by 610807 to its suppliers.
+(j) In 1998, the Taxpayer granted a guarantee, in writing, of a loan borrowed by 610807 from Kenneth Eugene Newman in the principal sum of $150,000.00.
+(k) In 1999, the Taxpayer granted a guarantee, in writing, of a loan borrowed by 610807 from Wayne Leibel and Rob Pyne in the principal sum of $150,000.00, bearing interest at the rate of 10 percent per annum. ADMITTED
+(l) 610807 promised the Taxpayer a return of his capital together with a share of the revenue from the sale of copies of The Nature of Golf (beyond the initial 5,000 copies) or interest in the case of default in payment. ADMITTED
+(m) During 2000 the Taxpayer was called on his guarantee by Wayne Leibel and Rob Pyne. The Taxpayer paid approximately $69,000.00 to Leibel and Pyne as a guarantor of 610807. ADMITTED
+(n) 610807 was only able to sell a small number of copies of The Nature of Golf.
+(o) On December 20, 2001, 610807 filed an assignment in bankruptcy. According to the Statement of Affairs sworn by Russell Shoeman, 610807 owed the Taxpayer $375,936.00 on December 20, 2001. ADMITTED
+(p) According to the Taxpayer's records, 610807 owed the Taxpayer $384,319.00 when 610807 became bankrupt.
+(q) The Taxpayer claimed a business investment loss on his 2001 income tax return of $384,319.00. ADMITTED
+(r) By a Notice of Assessment dated March 25, 2002 and by a Notice of Reassessment dated April 8, 2002, the Minister denied the Taxpayer's claim for a business investment loss in 2001. ADMITTED
+(s) The Taxpayer filed a Notice of Objection on May 21, 2002. ADMITTED
+(t) By the 2001 Reassessment, the Minister allowed a business investment loss in respect of only $69,685.00 of capital loss on the basis that the remaining bad debt was owed by the Taxpayer by Russell Shoeman and not by 610807. At the same time, the Minister confirmed the 2000 Assessment on the basis that there was no non-capital loss for 2001 that was deductible in computing the taxable income for 2000. ADMITTED
+B. ISSUES TO BE DECIDED
+4. The issues to be decided are as follows:
+(a) whether all of the bad debt owed to the Taxpayer was owed to him by 610807 or whether part of it was owed to him by Russell Shoeman; and
+(b) whether the portion, if any, of the debt which may be found to be owed to the Taxpayer by Russell Shoeman and not by 610807 was made up of loans made or acquired by the Taxpayer in the ordinary course of an ordinary business of the Taxpayer that included the lending of money.
+The portions of these paragraphs which are admitted by the Respondent are followed by the word, in capitals, "ADMITTED".
+[4] In addition, the following paragraphs in the Notice of Appeal were established to be true by the evidence: 3(a), 3(b), 3(c), 3(d) is true respecting one photographer - the remainder was not proved, 3(g) and 3(j).
+[5] The following assumptions in the Reply to the Notice of Appeal were not refuted: 9(a), (b), (c), (d), (e), (f), (g), (h), (i), (j), (k), (l) and (m).
+[6] Harry is now 74. Russell appears to have been in his late 30's or early 40's at the times in evidence. He is Harry's son and from 1995 until 2001 he lived with Harry, did not pay room or board and had almost no savings. They were father and son as if Russell was an infant living in his parent's home.
+[7] Russell incorporated 610807 as he said, for tax purposes, and he used it in a very particular fashion. It was clearly used to obtain input tax credits, but it did not file any other tax returns. On the evidence, it was used at times in the words of the second paragraph of Exhibit A-15, the Newman contract, "for the purpose of administering certain contracts with independent contractors for the provision of services related to the book". At other times and for other purposes, it was not used. There is no clear delineation as to when 610807 was used and when it was not. Russell testified that it was not used in the United States and Exhibits A-7 and A-8 confirm this.
+[8] Harry knew of the existence of 610807. He was a signatory of A-15, as an example. Yet throughout 2000 Harry chose to pay money to Russell directly and to pay other creditors, such as Pyne and Leibel. But he did not pay any money to 610807. Nor did he have any agreement with Russell or 610807 to receive interest or any other form of remuneration for the money he paid out, except as assumed by the Respondent.
+[9] In the Court's view, Harry is bound by the acts that he committed in 2000 and throughout the period in evidence. He did not advance or pay money to 610807 in 2000. Rather, he had an intense father-son relationship with Russell. As a result, on the evidence or lack thereof, any payments or advances of the monies in question were to Russell personally and the presumption of advancement by Harry to Russell was not rebutted by the evidence before the Court.
+[10] The evidence confirms the contents of the Reply to the Notice of Appeal. The appeal is dismissed. The Respondent is awarded its party and party costs.
+Signed at Vancouver, British Columbia, this 26th day of March, 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC220
+COURT FILE NO.:
+2003-1471(IT)G
+STYLE OF CAUSE:
+Harry Shoeman v. The Queen
+PLACE OF HEARING:
+Regina, Saskatchewan
+DATE OF HEARING:
+March 11 and 12, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT:
+March 26, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Ralph Ottenbreit, Q.C.
+Counsel for the Respondent:
+Robert Gosman
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Ralph Ottenbreit, Q.C.
+Firm:
+Robertson, Stromberg
+Regina, Saskatchewan
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

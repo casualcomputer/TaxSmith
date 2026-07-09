@@ -1,0 +1,205 @@
+---
+title: "Bennett v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29933/index.do"
+last_modified: "2010-08-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 413"
+citation2: ""
+neutral_citation: "2010 TCC 413"
+decision_date: "2010-08-09"
+language: "en"
+item_id: "29933"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6480
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:06:34.745000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2ccc2639f065174ffae7c6b19c636c52aadbdb2017a968ed0cd7089b0c04e31c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bennett v. The Queen
+
+- Citation: 2010 TCC 413
+- Decision date: 2010-08-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6480, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bennett v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-09
+Neutral citation
+2010 TCC 413
+File numbers
+2006-1395(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1395(IT)G
+BETWEEN:
+ANDREW BENNETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 6 and 7, 2010, at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+John C. Drove
+Counsel for the Respondent:
+Jasmine Sidhu
+Christa Akey
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2004 taxation year is dismissed, with costs.
+Signed at Vancouver, British Columbia, this 9th day of August 2010.
+“L.M. Little”
+Little J.
+Citation: 2010 TCC 413
+Date: August 9, 2010
+Docket: 2006-1395(IT)G
+BETWEEN:
+ANDREW BENNETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant resides in Surrey, British Columbia.
+[2] When the Appellant filed his Income Tax Return for the 2004 taxation year, he claimed a deduction in the amount of $51,787.00.
+[3] The Respondent’s Reply states that after the Appellant filed his 2004 Income Tax Return, he was requested by Canada Revenue Agency (the “CRA”) to support the claim of $51,787.00. The Appellant did not file the documentation that was requested by officials of the CRA and the claim of $51,787.00 was denied.
+[4] On the 12th day of September 2005, the Appellant filed a Notice of Objection.
+[5] On the 13th day of February 2006, the Minister of National Revenue (the “Minister”) issued a Notification of Confirmation.
+[6] The Appellant filed a Notice of Appeal on the 12th day of May, 2006.
+B. ISSUE
+[7] Is the Appellant allowed to deduct the amount of $51,787.00 in determining his income for the 2004 taxation year?
+C. ANALYSIS AND DECISION
+[8] The facts presented at the hearing indicate that the Appellant claimed the following amounts in his 2004 Income Tax Return:
+Canadian Exploration Expense (“CEE”)
+$20,000.00
+Canadian Development Expense (“CDE”)
+$ 5,959.89
+Remuneration
+$30,000.00
+(Exhibit A-1, Tab 2)
+(Note: The Appellant later supplied the CRA with a statement which indicated that the amount of $30,000.00 previously stated to be an amount in respect of remuneration was represented to be “other amounts” paid by him to Zelon Enterprises Ltd.)
+[9] In his argument, counsel for the Appellant said,
+Mr. Drove: … the [A]ppellant relies upon Section 66.1(3) of the Income Tax Act. That’s the section under which he claims the deduction of the $50,000 …
+(Transcript, page 140, lines 18-20)
+[10] At page 146 of the transcript, Mr. Drove said,
+Mr. Drove: … So we are just dealing with the $50,000 of Canadian exploration expense, which the [A]ppellant has claimed in full in the 2004 taxation [year], …
+(Transcript, page 146, lines 23-25)
+[11] In his argument, counsel for the Appellant said that the deduction for the CDE should be disallowed. Counsel for the Appellant referred to CDE and said:
+Mr. Drove: But, in my submission, the [A]ppellant hasn’t proved that he incurred that expenditure. […] So I take that off the table. …
+(Transcript, page 146, lines 18-22)
+[12] The phrase, ‘Canadian Exploration Expense’ (“CEE”), is defined in section 66.1(6) of the Income Tax Act (the “Act”). The definition reads, in part, as follows:
+“Canadian exploration expense” – “Canadian exploration expense” of a taxpayer means any expense incurred after May 6, 1974 that is
+…
+(f) any expense incurred by the taxpayer […] for the purpose of determining the existence, location, extent or quality of a mineral resource in Canada including any expense incurred in the course of …
+[13] The Appellant testified that he had made an oral agreement with John H. Hajek. (Note: During cross examination, counsel for the Respondent asked Mr. Hajek when he entered into the oral agreement with the Appellant. Mr. Hajek said:
+A. I cannot recall.
+Ms. Akey: You have no recollection of that?
+A. No.
+Ms. Akey: You have no recollection of the oral agreement in 2003 either?
+A. No, how could I?
+(Transcript, page 87, lines 6-11))
+[14] Mr. Hajek testified that he graduated as a chemist from a university in Paris, France.
+[15] Mr. Hajek said that he has worked for forty-five years in the mining exploration trade. He said that he works as a consultant, specializing in geochemistry.
+[16] Mr. Hajek said that he and his wife formed two companies: Zelon Chemicals Ltd. in 1973 and Zelon Enterprises Ltd. in 1976.
+[17] Mr. Hajek said that Zelon Chemicals Ltd. is involved in holding assets and Zelon Enterprises Ltd. is his consulting firm which takes most of the risk.
+[18] Mr. Hajek said that Zelon Chemicals Ltd. and Zelon Enterprises Ltd. were carrying out exploration work in the Cariboo Region of British Columbia.
+[19] At page 83 of the transcript, Mr. Hajek said:
+A. … both company Enterprise and Chemical, and they have already a residual investment. I don’t recall the right number but I think $8 million have [sic] been spent.
+(Transcript, page 83, lines 6-9)
+[20] Mr. Hajak was asked by counsel for the Respondent (Ms. Akey) about bank statements or cancelled cheques or any supporting documents to show this amount (i.e. the invoices) was paid. Mr. Hajek said:
+A. No, because those are inside between the two companies and with general project that means the expense on this project is only part of the general expense.
+(Transcript, page 91, lines 15-18)
+[21] Ms. Akey also asked Mr. Hajek to explain the meaning of residual interest. Ms. Akey referred to the letter dated November 28, 2004, where it says that Mr. Bennett has paid the sum of $30,000 for mineral exploration expense. Ms. Akey asked the following question:
+Ms. Akey: Nowhere in the document does it say he’ll receive a residual interest.
+A. Well, it’s understood.
+Ms. Akey: It’s understood by you.
+A. No, it’s a normal mining practice. You put X amount of dollar in a venture, you have an interest proportional to that money, unless specified otherwise.
+(Transcript, page 87, lines 16-23)
+[22] The Appellant was unable to indicate what his alleged interest in the mining claims would be, or how his interest would be computed.
+[23] I have concluded that the expenses claimed by the Appellant did not qualify as CEE for the following reasons:
+(a) The Appellant did not incur any CEE or carry on any mineral exploration activities on his own. The Appellant said that he was purely an investor;
+(Transcript, page 11, line 23-24);
+(b) The Appellant was not a member of a partnership with Mr. Hajek or Zelon Enterprises Ltd. or Zelon Chemicals Ltd.;
+(Transcript, page 102, lines 2‑9)
+(c) The Appellant was not a participant in a joint venture with Mr. Hajek or Zelon Enterprises Ltd. or Zelon Chemicals Ltd.;
+(Transcript, page 102, lines 10-12)
+(d) The Appellant did not own any flow-through shares issued by either Zelon Enterprises Ltd. or Zelon Chemicals Ltd.;
+(Transcript, page 107, lines 13-16)
+(e) No original documentation, such a general ledger, was provided by the Appellant to establish that the amount of money provided by the Appellant was ever received by Zelon Chemicals Ltd. or Zelon Enterprises Ltd.;
+(f) No evidence was produced to establish that the cheques provided by the Appellant were cashed by the recipient. The original cheques and bank drafts were not produced and no bank statements have been produced to establish that the amounts were paid by the Appellant or received by the two Zelon companies. Rather than providing original corroborating documents to the Court, the Appellant and Mr. Hajek provided documents that they had prepared;
+(g) The evidence provided by Mr. Hajek is very confusing. For example, in the documents filed, there is a continual mixing of payments made by Zelon Chemicals Ltd., Zelon Enterprises Ltd. and Mr. Hajek’s personal credit card;
+(h) The evidence provided by the Appellant and Mr. Hajek to the Court was not of the type that one would expect from an accounting or business point of view. To illustrate the unusual and unsatisfactory bookkeeping and record keeping, I cite the following question:
+Ms. Akey: So somewhere you have list of investors and a list of accepted - -
+A. No, no, not a list of investors. That’s - -
+(Transcript, page 84, lines 6-9)
+(i) Mr. Hajek produced a number of invoices from the parties with no cancelled cheques, no bank statements, no general ledgers or anything to show that the various amounts were paid.
+(Transcript, page 92, lines 17-19);
+(j) Counsel for the Respondent referred to several handwritten invoices that had been filed with the Court and asked Mr. Hajek the following question:
+Ms. Akey: … Where does it show that it’s paid? Where is the bank statement, general ledger, cancelled cheque, anything that shows that those amounts were actually paid by that company?
+A. I cannot recall.
+(Transcript, page 91, line 24 to page 92, line 2)
+(k) As noted above, Mr. Hajek said that the Appellant would receive an interest in the property proportional to the amount invested. However, the interest to be received by the Appellant was not properly documented;
+(l) In addition, Mr. Hajek stated that $8,000,000 was spent on exploration programs in the property. It is not clear how the interest of the Appellant in the property would be determined, i.e., would the Appellant’s interest in the claims be determined in proportion to the amount paid by the other investors in the claims?
+[24] I also emphasize that the Appellant’s “agreement” with Mr. Hajek was an “oral” agreement made at a time that Mr. Hajek said that he cannot identify. I do not believe that a businessman would enter into an oral agreement with a mining promoter for the purpose of establishing a claim for CEE.
+[25] I also agree with counsel for the Respondent when she referred to the decision of the Federal Court of Appeal in The Queen v. Friedberg, 92 D.T.C. 6031. The following statement from Friedberg is applicable in this situation:
+In tax law, form matters. A mere subjective intention, here as elsewhere in the tax field, is not by itself sufficient to alter the characterization of a transaction for tax purposes. If a taxpayer arranges his affairs in certain formal ways, enormous tax advantages can be obtained, … If a taxpayer fails to take the correct formal steps, however, tax may have to be paid. … In sum, evidence of a subjective intention cannot be used to “correct” documents which clearly point in a particular direction.
+[26] In my opinion, the evidence and documentation presented by the Appellant and by Mr. Hajek was vague, uncertain, inadequate and not prepared in a normal businesslike manner. Because of the lack of acceptable evidence, I am not able to conclude that the Appellant had incurred any Canadian Exploration Expenses in the 2004 taxation year.
+[27] The appeal is dismissed, with costs.
+Signed at Vancouver, British Columbia, this 9th day of August 2010.
+“L.M. Little”
+Little J.
+CITATION: 2010 TCC 413
+COURT FILE NO.: 2006-1395(IT)G
+STYLE OF CAUSE: Andrew Bennett and Her Majesty
+The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATES OF HEARING: April 6 and 7, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: August 9, 2010
+APPEARANCES:
+Counsel for the Appellant:
+John C. Drove
+Counsel for the Respondent:
+Jasmine Sidhu
+Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name: John C. Drove
+Firm: John Drove Law Corporation
+Vancouver, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

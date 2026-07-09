@@ -1,0 +1,226 @@
+Title: Gauthier Et al v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28175/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-563-28175-gauthier-et-al-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-11-14
+
+# Gauthier Et al v. M.N.R.
+
+- Citation: 2007 TCC 563
+- Decision date: 2007-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1989, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gauthier Et al v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-14
+Neutral citation
+2007 TCC 563
+File numbers
+2006-2496(EI)
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-2496(EI)
+BETWEEN:
+MARIO GAUTHIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LIETTE CÔTÉ,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on September 5, 2007, at Chicoutimi, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nancy Dagenais
+For the Intervener:
+The Intervener herself
+____________________________________________________________________
+JUDGMENT
+The appeal under section 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of November 2007.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 10th day of December 2007.
+Daniela Possamai, Translator
+Citation: 2007TCC563
+Date: 20071114
+Docket: 2006-2496(EI)
+BETWEEN:
+MARIO GAUTHIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+LIETTE CÔTÉ,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] The Appellant is appealing the decisions of the Minister of National Revenue (the Minister) rendered under the Employment Insurance Act (the Act). The Minister determined that the Intervener (the worker) was not employed under a contract of service and that, therefore, she was not in insurable employment within the meaning of paragraph 5(1)(a) of the Act when she was employed with the Appellant, who operated an excavation and snow removal business under the names Excavation et Déneigement MG Enr. and Rénovation et Entretien SC, during the periods from August 26, 2002, to June 6, 2003, from June 30, 2003, to March 12, 2004, from April 5, 2004, to January 7, 2005, and from February 7, 2005, to January 20, 2006 (the relevant periods). The Minister also determined that the worker and the Appellant would not have entered into a similar contract of employment if they had been dealing with each other at arm’s length.
+[2] The Minister based his decision that the worker was not employed under a contract of service and that, therefore, she was not in insurable employment when she was employed with the Appellant during the relevant periods on the following assumptions of fact set out at paragraph 5 of the Reply to the Notice of Appeal which were admitted or denied as the case may be:
+[TRANSLATION]
+(a) since March 20, 1995, the Appellant has been operating an excavation and snow removal business under the names Excavation et Déneigement MG Enr. and Rénovation et Entretien SC., since October 5, 1998; [admitted]
+(b) the Appellant provides excavation, earthwork, snow removal and parking lot cleaning services; [admitted]
+(c) he operates his business year-round; [admitted]
+(d) the Appellant started his business by purchasing his first machine in which the worker invested $3,000.00 and for which she was not reimbursed; [admitted]
+(e) the Appellant had the following equipment: a shovel, a backhoe, a ten-wheel truck, a 10-tonne trailer, a sanding wagon and a truck with a closed trailer; [admitted]
+(f) the Appellant is a heavy machinery operator and leaves all the office work to his spouse, the worker; [admitted]
+(g) the worker’s main duties involved preparing the payroll; preparing GST and QST reports and making remittances; preparing tenders and contracts; purchasing and selling machinery; being in charge of financing; answering the telephone, etc. [admitted]
+(h) the worker prepared tenders on her own or with the help of the Appellant; [admitted]
+(i) the worker could sign cheques on behalf of the Appellant; [admitted]
+(j) the company’s bank account was opened jointly in the names of the Appellant and the worker; [denied]
+(k) the worker was jointly responsible with the Appellant for the line of credit of the Appellant’s business; [denied]
+(l) the worker was in charge of all of the administrative aspects of the business whereas the Appellant only worked with heavy machinery; [admitted]
+(m) the worker was neither controlled or supervised by the Appellant in her work; [denied]
+(n) when the Appellant wanted to make a major expenditure, he consulted the worker; [admitted]
+(o) the worker worked from her home (sole owner) without obtaining compensation from the Appellant for the use of a room as her office; [admitted]
+(p) as part of her job, the worker used her own computer and her home telephone and telephone number; [admitted]
+(q) the worker had no work schedule to comply with; [denied]
+(r) the hours worked by the worker were not accounted for by the Appellant; [denied]
+(s) during the periods in issue, the worker’s remuneration rose from $10 to $12 per hour; [admitted]
+(t) when the worker was listed in the Appellant’s payroll journal, the number of hours entered was always 40 per week regardless of the hours she actually worked; [denied]
+(u) when she was not listed in the payroll journal, the worker claims that she did not work and that she received Employment Insurance benefits; [admitted]
+(v) on April 19, 2006, the Appellant indicated to a representative of the Respondent that the worker worked year-round and sometimes without pay as telephone calls, the invoicing, faxes and tenders could not wait, whereas the worker stated that the weeks where she was not paid were weeks that she did not work; [admitted]
+(w) the worker managed her work to have forty-hour weeks so that she could receive Employment Insurance benefits during the other weeks; [denied]
+(x) every year, the worker received the maximum weeks of benefit entitlement; [admitted]
+(y) the worker was listed in the Appellant’s payroll journal based on her benefits needs and not based on the Appellant’s needs; [denied]
+[3] In rendering his decision that, during the relevant period, the worker and the Appellant were related persons within the meaning of the Income Tax Act, the Minister relied on the following assumptions of fact set out at paragraph 6 of the Reply to the Notice of Appeal which were admitted:
+[TRANSLATION]
+(a) the Appellant was the sole proprietor of the business;
+(b) the worker was the Appellant’s common-law spouse;
+(c) the worker was related to a person who controlled the Appellant’s business.
+[4] Finally, to be satisfied that it was not reasonable to conclude that the Appellant and the worker would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length, the Minister relied on the following assumptions of fact set out at paragraph 7 of the Reply to the Notice of Appeal which were admitted or denied as the case may be:
+[TRANSLATION]
+(a) the worker’s work was essential and required year-round for the proper functioning of the Appellant’s business; [admitted]
+(b) the worker rendered services year-round but was paid in a manner that allowed her to qualify for Employment Insurance benefits; [denied]
+(c) the worker received Employment Insurance benefits during the weeks where she was not listed in the payroll journal; [admitted]
+(d) the Appellant did not supervise the worker’s work, did not know her hours of work and did not know anything about the daily administration of his business; [denied]
+[5] It should be noted from the outset that the Appellant and the Intervener testified, whereas Sandra Boyer, investigator at the lowest level, and Colette Laberge, an appeals officer with the Canada Customs Revenue Agency (the Agency), testified in support of the Respondent’s position.
+[6] During her testimony, Colette Laberge, the appeals officer who rendered a decision on the application of paragraph 5(2)(i) and subsection 5(3) and on paragraph 5(1)(a) of the Act, essentially summarized what was contained in her report, which was filed as Exhibit I‑6. The report includes statements made to Ms. Laberge by the Appellant and the worker during telephone conversations. The report also includes the assessment of Ms. Laberge that led to the Minister’s decision in the instant case. In my opinion, the relevant statements made to Ms. Laberge by the Appellant and the worker are worthy of note, as they allowed me to determine the probative force of the Appellant’s and the worker’s testimonies. The relevant statements recorded in the document entitled “Report on an appeal” read as follows:
+[TRANSLATION]
+The following facts are taken from a telephone conversation with the payer, Mario Gauthier:
+. . .
+2. The payer operates an excavation business during the summer and a snow removal business during the winter. In the spring, the business entails the sweeping of parking lots and in the fall, it entails preparing for the winter. The business never comes to a standstill. It operates year-round.
+. . .
+4. The payer is a heavy machinery operator and has complete trust in his spouse, Liette Côté, where the office is concerned; she is good with numbers.
+5. She is the one who decides whether or not to accept a contract as she knows how to count. They prepare tenders together most of the time.
+6. When it is urgent, she decides on a contract, prepares the tender and speaks to him about it after. He has complete trust in her. As for him, he does field work.
+7. The payer is paid by withdrawals and it is the worker who decides on the withdrawals.
+8. The worker is paid per 40-hour blocks. She accumulates office work and does it during the day and in the evening and then she says that she pays herself for 40 hours.
+9. Her work consists in doing the payroll, SDs, GST and QST reports, the filing, tenders, contracts, purchasing and selling machinery, and doing the financing. He concludes by saying that if she is not there, nothing works.
+10. The hours of Liette Côté are not accounted for; he trusts her.
+11. She is paid by the hour but does not know how much she earns. Lastly, she told him that she was giving herself a pay raise and he does not know what the pay raise was but he is certain that it is not excessive.
+12. He does not know who decided on the worker’s salary or how the salary was determined; nor does he know how much she earns but he thinks that it is not excessive
+13. He does not know whether she received vacation pay but he knows that she does not really take vacation. In July 2006, they are taking a week of vacation as they are getting married but it will be the first time they take vacation.
+14. Liette Côté performs duties without being paid when she answers the telephone for jobs or complaints or when she does the invoicing. Invoicing is not something that can wait. The same goes for faxes and tenders: they cannot wait.
+15. She tries to accumulate work for one week but the invoicing has to be done for money to come in. He cannot say what the minimum number of hours she works per week is; it depends on the demand.
+16. The payer does not know the company’s sales figures for the past four years.
+17. She signs the transactions as she is authorized to do so. Sometimes it is he who pre-signs; it does not matter to him; at any rate, she is the one who prepares the documents; it is six of one, half a dozen of the other.
+. . .
+19. She works from home because that is where the office is; she is also in charge of the house, the telephone, commissions, the bank, deposits, and the invoicing.
+. . .
+21. The situation is the same for the four periods in issue and beyond as it’s been 12 or 15 years.
+22. She works year-round and her hours are not recorded. He does not know whether she receives fringe benefits; he is not aware of such things.
+. . .
+24. She is accountable to the payer as needed; she is not supervised and her work does not require approval.
+25. He says that he could terminate her services but that he cannot imagine that anyone else would come to work at the house; the payer points out that the office is located in her house.
+26. The fact is that if she were not there, he would no longer have any work and he would shut the business down because he cannot do without her; she is indispensable and has been there since the beginning.
+27. The work tools used belong to Liette Côté. The house in which the office is located belongs to her. She also owns a computer, a MAC, which she uses for work. They just bought a second computer, an IBM, which was paid for by the company and which she is going to use, but it is more for her daughter, for school as a MAC was not suitable for her.
+. . .
+29. The worker uses her personal car for work but he does not know whether she reimburses herself for those expenses.
+. . .
+31. No other worker has the same duties as Liette Côté; if she were not there, he would not be able to carry on his business alone; he points out that he does not have any education, that he does not know how to count.
+. . .
+The following facts are taken from a telephone conversation with Liette Côté, the worker:
+32. The worker corroborates facts 1 to 6, and 17 to 28, mentioned above. Moreover, she provides the following details.
+33. Liette Côté indicates that the payer makes any withdrawals he wishes to make from the company’s bank account, and that he does not have to ask her permission to write cheques or make personal withdrawals from that account.
+34. The worker states that she works forty hours a week when she has a great deal of paperwork and invoices piled up. She can change the date of the invoices and cheques to put in her 40 hours during the same week, during the day, between 7:30 a.m. or 8:00 a.m. until 5:00 p.m.
+35. Her duties include bookkeeping, payroll, CCQ, CSST, QST, GST remittances, all office work, SDs, tenders, reception, telephones.
+36. During our telephone conversation, at 10:15 a.m., the worker receives a call on the other line and puts me on hold. When she comes back she states that she should not have answered the telephone because it is not a working day for her.
+37. At 10:28 a.m., she receives another telephone call and, after hesitating, she lets it ring and says the answering machine will pick it up.
+38. She also explains to me that she has call display and notes that it allows her not to answer when it is customers who are calling but when it is the government she always answers.
+39. She then tells me that when she does not work, she gives out her spouse’s cellular phone number so that the customers can call him. She offers to send me the cellular telephone account to prove to me that he uses it a lot. I say [TRANSLATION] “OK, I accept, I will review it.”
+40. She is paid weekly but based on an hourly rate of $12.50. At first she earned $11.50 per hour and then $12.00 per hour. She points out that she could give herself a substantial increase in salary and that her spouse would agree but that she wants to be reasonable.
+41. She says that $12 is based on comparability with the market and that the payer agreed with it.
+42. She has never taken vacation or maternity leave since they have had the business nor does she receive 4%.
+43. Unlike her spouse, she says that she also accumulates the tenders to be made and that the invoicing can also wait until the week she works.
+44. She says that the business is open seven days a week but only for her spouse. She only works from Monday to Friday.
+. . .
+46. The worker performs work at her private residence and the title is vested in her alone. However, she does not consider that she provides the place of work.
+47. She is not supervised and her spouse does not have to approve her work either.
+48. She works at her residence because she also takes care of the children and her mother is close. She could work at the garage but it is farther, it does not have an equipped office and the idea of working with mice does not appeal to her.
+49. All the tools belong to the worker and the payer has purchased a new computer which she will begin to use soon (outside of the four periods in issue).
+50. She does not use her personal car very much as they have three pick-up trucks to go and submit their tenders; she can take one to travel to the work premises.
+51. When the payer wants to make a major expenditure, he must discuss it with her beforehand as he has no knowledge of the figures nor is he interested in knowing.
+52. He could not terminate her employment because if she were not there, he would not have a business and he would not be where he is today.
+53. If she makes a mistake with respect to the tender, everybody is responsible because they set the prices together.
+54. With regard to the risk of loss, she points out that unemployment is like a salary; they are not rolling in money and need their income; it is part of her pay.
+55. As for the reimbursement of her business expenses, she says that now and again she takes $20 in fuel from the company’s account.
+[7] The tables prepared by Ms. Laberge, filed as Exhibit I‑7, and the tables prepared by Ms. Boyer, filed as Exhibit I‑5, also indicate that
+(i) the worker received Employment Insurance benefits for as long as possible for each of the years in issue, that is for 24 weeks in 2003, for 26 weeks in 2004 and for 20 weeks in 2005;
+(ii) the worker claimed benefits as soon as she accumulated the number of hours necessary to qualify for Employment Insurance benefits;
+(iii) she always worked 40 hours during her work weeks;
+(iv) the Appellant’s business was not seasonal.
+[8] The Appellant testified that
+(i) he was the sole owner of the business’s bank account, while admitting also that the worker could draw cheques on that account;
+(ii) the worker was not in any way responsible for the reimbursement of the business’s line of credit;
+(iii) the worker was responsible for every administrative aspect of the business, whereas he was only responsible for the machinery. He also explained the allocation of work between him and the worker as follows [TRANSLATION]: “I am good at making holes, but when it comes to paperwork, I am useless;”
+(iv) he neither supervised nor controlled the worker’s work, while insisting on the fact that he sometimes gave her orders as to the work to be done, orders which she had to follow;
+(v) the worker did not work when she received Employment Insurance benefits.
+[9] In her testimony, the worker essentially restated what the Appellant said during his testimony. However, the worker pointed out that her work schedule was flexible and that she worked eight hours per day, from Monday to Friday, during the relevant periods. Finally, she added that she did not work outside the relevant periods, unless she occasionally took calls from customers who she then asked to call the Appellant’s mobile phone. She also explained that outside the relevant periods, the customers’ calls were automatically forwarded to the Appellant’s mobile phone.
+Analysis and conclusion
+[10] First we will examine the issue as to whether the worker was employed under a contract of service. There are, in my opinion, three elements essential to a contract of service: the performance of genuine work, the payment of genuine remuneration and the power of control of the payor over the person performing the work.
+[11] Before determining whether the three elements essential to a contract of service can be found in the case at bar, I wish to emphasize that I attached little probative force to the Appellant’s and worker’s testimony. In that regard, I would like to note that the worker testified that she did not work during the periods she received Employment Insurance benefits, unless she occasionally took calls from the company’s customers which she automatically forwarded to the Appellant. The worker explained that she worked a forty-hour work week when she accumulated enough work to work 40 hours. The Appellant simply testified that the worker did not work during the weeks she received Employment Insurance benefits. Those testimonies clearly contradict the Appellant’s previous statements. At any rate, the Appellant’s and worker’s testimony on that point simply does not strike me as being plausible (see paragraphs 14 and 15 of Exhibit I‑6). In fact, the evidence revealed very clearly that the Appellant’s business was not a seasonal business and that the Appellant did not do any administrative work and that he was incapable of doing it. He was also incapable of submitting tenders without the worker’s help. The worker tried to make me believe that all the administrative work could be accumulated and done during the weeks she worked and that her services were therefore not required during the weeks she received Employment Insurance benefits. Yet, the Appellant stated to Ms. Laberge that the invoicing could not wait. Nor can I accept that, during the many weeks she received Employment Insurance benefits, the Appellant did not submit any tenders. Again I would like to point out in that regard that the Appellant’s business was not a seasonal business and that the Appellant could not submit a tender without the worker’s help. I can understand how part of the administrative work could be accumulated and completed during the weeks she worked. I am thinking of the reports concerning the remittances of the Commission de la Construction du Québec, the Commission de la Santé et de la Sécurité au travail, the sales tax, the goods and services tax and the source deductions. However, I cannot believe that the Appellant’s business could totally do without the worker’s services for twenty or so weeks per year and often during three consecutive weeks.
+[12] Was there a relationship of subordination between the Appellant and the worker and one of the three elements essential to a contract of service? In light of the evidence adduced in this case, it is difficult for me to conclude that such a relationship existed. In fact, how can I conclude that there was a relationship of subordination when the evidence shows that it was the worker who determined her own remuneration. Did the Appellant not state to Ms. Laberge that he did not even know what the remuneration of his spouse was or whether she received vacation pay? In fact, what we are dealing with here is a de facto partnership in which the partners are the Appellant and his spouse. In my opinion, the Appellant and his spouse agreed, in a spirit of cooperation, to operate an enterprise, to contribute thereto by combining property, knowledge or activities and to share any resulting pecuniary profits. In the case at bar, the worker’s contributions to the de facto partnership were her work, her knowledge and her property. It is surely for that reason that the worker provided the company with premises and a computer without consideration. That is also surely the reason the worker agreed not to take vacation and not to receive vacation pay. She considered those elements to be contributions to the partnership. Moreover, the Appellant contributed to the partnership her work, money, machinery and her garage. This partnership relationship between the two partners explains the fact that the Appellant did not give the worker any orders. As two partners, the Appellant and the worker worked in a spirit of cooperation and consultation and they exercised their judgment in their respective areas of expertise. Did the Appellant not state to Ms. Laberge that he did not supervise the worker’s work and that his spouse’s work did not require his approval either?
+[13] If I wrongly concluded that the worker was a partner in a partnership operating a business and that the Appellant was her joint partner, I am also of the opinion that the worker was not employed under a contract of service, not only because there was no relationship of subordination between her and the Appellant, but also because we are dealing with an agreement or arrangement where remuneration was not based on the time or the period during which work was performed, but was rather aimed at taking advantage of the Act’s provisions. This arrangement or agreement renders invalid the contract of service. As noted by Tardif J. in Laverdière v. Canada, No. 97‑1902(UI), February 25, 1999, [1999] T.C.J. No. 124,
+50 This is the case with any agreement or arrangement whose purpose and object is to spread out or accumulate the remuneration owed or that will be owed so as to take advantage of the Act’s provisions. There can be no contract of service where there is any planning or agreement that disguises or distorts the facts concerning remuneration in order to derive the greatest possible benefit from the Act.
+51 The Act insures only genuine contracts of service; a contract of employment under which remuneration is not based on the period during which work is performed cannot be defined as a genuine contract of service. It is an agreement or arrangement that is inconsistent with the existence of a genuine contract of service since it includes elements foreign to the contractual reality required by the Act.
+[14] I am convinced that the worker did not work 40 hours per week during the weeks she was paid. It is rather my opinion that she devoted more or less the same number of hours throughout the entire year. The very nature of the duties performed by the worker within the business required that it be so. In my opinion, the Appellant and the worker considered employment insurance not as a social program to help those who lose their job, but as a grant program to help their business.
+[15] If I wrongly concluded that the worker was not in insurable employment within the meaning of paragraph 5(1)(a) of the Act, then the worker was not employed in insurable employment either because the employment in the case at bar was excluded from insurable employment, as the worker and the Appellant would not have entered into a similar contract of employment if they had been dealing with each other at arm’s length. In fact, which employee in an arm’s length relationship with the Appellant would have agreed to work on a volunteer basis for twenty or so weeks per year? Which employee would have agreed to use his or her residence, his or her computer or even his or her car for the purposes of the business without compensation?
+[16] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of November 2007.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 10th day of December 2007.
+Daniela Possamai, Translator
+CITATION: 2007TCC563
+COURT FILE NO.: 2006-2496(EI)
+STYLE OF CAUSE: Mario Gauthier and M.N.R. and Liette Côté
+PLACE OF HEARING: Chicoutimi, Quebec
+DATE OF HEARING: September 5, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: November 14, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Nancy Dagenais
+For the Intervener:
+The Intervener herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

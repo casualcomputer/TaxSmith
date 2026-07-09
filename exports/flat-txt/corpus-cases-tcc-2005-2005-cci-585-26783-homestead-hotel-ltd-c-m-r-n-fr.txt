@@ -1,0 +1,206 @@
+Title: Homestead Hotel Ltd. C. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26783/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-585-26783-homestead-hotel-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-09-06
+
+# Homestead Hotel Ltd. C. M.R.N.
+
+- Citation: 2005 CCI 585
+- Decision date: 2005-09-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3463, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Homestead Hotel Ltd. C. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-09-06
+Référence neutre
+2005 CCI 585
+Numéro de dossier
+2004-3981(CPP)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2004-3981(CPP)
+ENTRE :
+HOMESTEAD HOTEL LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel d’Homestead Hotel Ltd. 2004‑3982(EI) le 22 août 2005, à Regina (Saskatchewan)
+Devant : l’honorable juge D. W. Beaubier
+Comparutions
+Avocat de l’appelante :
+Me Dwayne Anderson
+Avocat de l’intimé :
+Me Gerald Chartier
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée selon les motifs de jugement ci‑joints.
+Signé à Sault Ste-Marie (Ontario), ce 6e jour de septembre 2005.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 20e jour d’octobre 2005.
+Marc Doyon, traducteur
+Dossier : 2004-3982(EI)
+ENTRE :
+HOMESTEAD HOTEL LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel d’Homestead Hotel Ltd. 2004‑3981(CPP) le 22 août 2005, à Regina (Saskatchewan)
+Devant : l’honorable juge D. W. Beaubier
+Comparutions
+Avocat de l’appelante :
+Me Dwayne Anderson
+Avocat de l’intimé :
+Me Gerald Chartier
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est annulée selon les motifs de jugement ci‑joints.
+Signé à Sault Ste-Marie (Ontario), ce 6e jour de septembre 2005.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 20e jour d’octobre 2005.
+Marc Doyon, traducteur
+Référence : 2005CCI585
+Date : 20050906
+Dossier : 2004-3981(CPP)
+2004-3982(EI)
+ENTRE :
+HOMESTEAD HOTEL LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Ces appels ont été entendus ensemble sur preuve commune à Regina (Saskatchewan) le 23 août 2005. William Ozum, qui était un administrateur de l’appelante durant toute la période pertinente, a été le seul témoin.
+[2] Les paragraphes 4 à 7, inclusivement, de la réponse à l’avis d’appel dans le dossier 2004-3981(CPP) décrivent les faits qui sont en litige. Ces paragraphes se lisent comme suit :
+[TRADUCTION]
+4. Par voie de lettre en date du 23 juin 2004, le ministre a avisé l’appelante de sa décision selon laquelle les travailleurs exerçaient un emploi pour l’appelante aux termes d’un contrat de louage de services au cours de la période allant du 30 août 2002 au 12 juin 2003.
+5. En rendant cette décision à l’égard des travailleurs, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) l’appelante était propriétaire exploitante d’un hôtel à Milestone (SK);
+b) l’hôtel comprenait un bar, des chambres et un restaurant;
+c) les chambres n’étaient pas louées, à cause d’un règlement relatif aux incendies, et l’appelante donnait le restaurant à bail;
+d) les travailleurs étaient embauchés pour diriger le bar, et leurs fonctions incluaient ce qui suit : décharger des camions, commander de l’alcool, assurer l’entretien d’appareils de loterie vidéo, effectuer les dépôts bancaires quotidiens, remplir des fiches d’inventaire, exécuter des travaux mineurs d’entretien, couper le gazon, entretenir les trottoirs et faire du nettoyage;
+e) les travailleurs remplissaient leurs fonctions sur place (dans les locaux de l’appelante ou à l’extérieur);
+f) les travailleurs et l’appelante n’avaient pas passé un contrat écrit;
+g) les travailleurs, conjointement, gagnaient un salaire fixe de 2 500 $ par mois;
+h) l’appelante payait les travailleurs deux fois par mois, par chèque;
+i) l’appelante avait fixé le taux de rétribution des travailleurs;
+j) de plus, les travailleurs étaient logés gratuitement à l’hôtel;
+k) les travailleurs ne facturaient rien à l’appelante;
+l) les heures et les jours de travail étaient fixes;
+m) les travailleurs travaillaient selon les heures du bar;
+n) les heures d’exploitation du bar étaient les suivantes :
+lundi à jeudi 11 h à minuit
+vendredi et samedi 11 h à 3 h
+dimanche et jours fériés midi à 20 h
+o) l’appelante avait fixé les heures d’exploitation du bar;
+p) les heures d’exploitation du bar étaient limitées par des règlements provinciaux;
+q) les travailleurs ne pouvaient déterminer leurs propres heures et journées de travail;
+r) l’appelante conservait le droit d’exercer un contrôle sur les travailleurs;
+s) l’appelante donnait des instructions aux travailleurs;
+t) l’appelante inspectait le travail des travailleurs;
+u) les travailleurs ne jouaient aucun rôle dans les décisions d’exploitation ou financières;
+v) le permis d’alcool était au nom de l’appelante;
+w) l’appelante déterminait les prix des boissons;
+x) les travailleurs étaient tenus de présenter des rapports hebdomadaires à l’appelante;
+y) les travailleurs n’avaient pas le pouvoir d’accepter ou refuser du travail;
+z) les travailleurs ne travaillaient pas pour d’autres en fournissant des services pour l’appelante;
+aa) le compte bancaire d’entreprise était au nom de l’appelante;
+bb) les travailleurs n’étaient pas signataires autorisés relativement au compte bancaire de l’entreprise;
+cc) l’appelante fournissait l’ensemble des outils et du matériel requis, ainsi que le lieu de travail;
+dd) les travailleurs n’avaient pas à payer pour utiliser les outils et le matériel de l’appelante;
+ee) l’appelante était propriétaire de l’ensemble des stocks, qu’elle payait elle‑même;
+ff) les travailleurs n’engageaient pas de frais dans l’exercice de leurs fonctions;
+gg) il n’y avait aucun risque financier pour les travailleurs;
+hh) il n’y avait aucune chance de bénéfice pour les travailleurs;
+ii) l’appelante fournissait l’assurance responsabilité civile;
+jj) les travailleurs n’avaient pas leur propre nom commercial;
+kk) les travailleurs n’avaient pas de compte bancaire d’entreprise;
+ll) les travailleurs ne faisaient pas payer de TPS à l’appelante;
+mm) les travailleurs n’étaient pas à leur compte.
+B. QUESTION À TRANCHER
+6. Il s’agit de savoir si les travailleurs exerçaient un emploi pour l’appelante aux termes d’un contrat de louage de services au cours de la période allant du 30 août 2002 au 12 juin 2003.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET MESURE DE REDRESSEMENT DEMANDÉE
+7. L’intimé se fonde sur l’alinéa 6(1)a) et sur le paragraphe 2(1) du Régime de pensions du Canada.
+[3] L’appelante a reconnu l’exactitude des hypothèses 5 a) à f), inclusivement, ainsi que des hypothèses h), j), k), n), v), w), x), aa), bb), ee), ii) et jj). La Cour conclut ce qui suit à propos des hypothèses restantes :
+g) Les travailleurs acceptaient : d’être payés deux fois par mois et de gagner 30 000 $ par année; d’être logés gratuitement à l’hôtel Milestone pendant qu’ils l’exploitaient; de recevoir un paiement supplémentaire de 10 % par année des ventes brutes du bar de l’hôtel en sus de 240 000 $.
+i) Les heures du bar étaient déterminées conformément à la réglementation de la province de Saskatchewan sur les boissons alcoolisées. Les travailleurs devaient veiller à ce que le bar soit ouvert pendant ces heures‑là. Le restaurant de l’hôtel était donné à bail à un tiers. Les chambres de l’hôtel n’étaient pas louées.
+m) Les travailleurs faisaient exploiter le bar par des employés, y compris le frère et deux enfants de Mme Sorenson. Ils pouvaient se faire remplacer à leurs frais et ils le faisaient effectivement.
+o) Voir l).
+p) Cette hypothèse est exacte.
+q) Cette hypothèse est fausse; voir m).
+r) Cette hypothèse est fausse telle qu’elle est exposée dans le présent document.
+s) et t) Ces hypothèses sont fausses telles qu’elles sont exposées dans le présent document. Les seuls rapports des travailleurs à l’appelante étaient des rapports hebdomadaires — chaque lundi — concernant :
+1. le relevé bancaire;
+2. les stocks de boissons alcoolisées.
+u) Les décisions financières des travailleurs incluaient ce qui suit : quelles boissons alcoolisées il fallait commander; quelles marchandises, par exemple des tee‑shirts, ils voulaient vendre personnellement à partir du bar de l’hôtel; la question de savoir s’ils désiraient embaucher d’autres travailleurs et à quel taux de rémunération; jusqu’à un certain point, la question de savoir s’il convenait de fermer le bar pendant certaines heures; la question de savoir s’ils utiliseraient leur propre véhicule pour passer prendre des stocks de boissons alcoolisées et d’autres marchandises devant être vendues au bar de l’hôtel.
+y) Les travailleurs pouvaient — et c’est ce qu’ils faisaient — embaucher d’autres personnes pour que celles‑ci les remplacent au travail.
+z) M. Ozum ne savait pas si cela se produisait ou non.
+cc) Les travailleurs fournissaient leur propre véhicule.
+dd) Cette hypothèse est exacte.
+ff) Les travailleurs engageaient des frais de véhicule et devaient payer à l’appelante les stocks manquants. En outre, ils payaient toute la main‑d’œuvre qu’ils embauchaient.
+gg) et hh) En plus de ce qu’il en est des dépenses mentionnées dans l’hypothèse ff), la preuve indique que les travailleurs étaient responsables de stocks manquants et que, si leurs ventes n’excédaient pas 240 000 $, ils n’obtenaient pas le pourcentage de 10 % sur les ventes supplémentaires. Ils avaient donc des chances de bénéfice et des risques de perte.
+kk) Aucune preuve n’indique que les travailleurs avaient leur propre compte bancaire d’affaires.
+ll) La question de savoir si les deux travailleurs auraient à un moment donné été tenus de payer de la TPS est problématique; quoi qu’il en soit, ils ne faisaient pas payer de TPS.
+mm) Les travailleurs étaient à leur compte.
+[4] Se fondant sur les conclusions énoncées précédemment, sur la preuve qui a été présentée et sur les points soulevés par la Cour suprême du Canada aux paragraphes 47 et 48 de l’affaire 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 C.S.C. 59, la Cour conclut ce qui suit :
+1. Contrôle
+Pour l’essentiel, les travailleurs sous‑traitaient l’exploitation commerciale du bar. Ils en ont contrôlé l’exploitation pendant une année : ils se chargeaient notamment de choisir les éléments d’inventaire pour l’exploitation quotidienne, ils s’occupaient des relations avec la clientèle et avec la communauté de Milestone (étant donné que l’administrateur de l’appelante se rendait au bar de Milestone à partir de Regina environ une fois par mois seulement) et, pour l’essentiel, ils déterminaient si l’exploitation était rentable ou non.
+2. Outillage
+Exception faite de la voiture du travailleur, le matériel était le bar lui‑même, dont les travailleurs devaient assurer l’entretien, ainsi que la propreté, et veiller à ce que l’exploitation soit conforme à la réglementation en matière de permis.
+3. Assistants
+Les travailleurs embauchaient les assistants de leur choix, aux taux de rémunération de leur choix.
+4. Étendue des risques
+La seule preuve est que les travailleurs étaient responsables des pertes d’éléments d’inventaire, ce qui est en fait arrivé et a entraîné une réduction des 2 500 $ par mois; ils risquaient en outre de devoir payer des employés sur le prix contractuel dont ils avaient convenu.
+5. Responsabilité et gestion
+Comme ceci a été décrit, c’étaient les travailleurs qui étaient responsables du bar et en assuraient la gestion.
+6. Chances de profit
+S’ils avaient géré le bar avec succès, les travailleurs auraient gagné 30 000 $ plus 10 % des ventes en sus de 240 000 $ annuellement. Il y avait des chances de profit.
+[5] Pour ces motifs, la Cour conclut que les travailleurs étaient à leur compte. Ils n’étaient pas des employés. Les appels sont accueillis.
+Signé à Sault Ste-Marie (Ontario), ce 6e jour de septembre 2005.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 20e jour d’octobre 2005.
+Marc Doyon, traducteur
+RÉFÉRENCE : 2005CCI585
+Nos DU DOSSIER DE LA COUR : 2004-3981(CPP) et 2004-3982(EI)
+INTITULÉ DE LA CAUSE : Homestead Hotel Ltd. c. M.R.N.
+LIEU DE L’AUDIENCE : Regina (Saskatchewan)
+DATE DE L’AUDIENCE : 22 août 2005
+MOTIFS DU JUGEMENT PAR : L’honorable juge D. W. Beaubier
+DATE DU JUGEMENT : 6 septembre 2005
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Dwayne Anderson
+Avocat de l’intimé :
+Me Gerald Chartier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom : Dwayne Anderson
+Étude : Anderson Law Firm
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa (Ontario)

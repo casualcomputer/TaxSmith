@@ -1,0 +1,146 @@
+Title: Rio Tinto Alcan Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/229931/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-258-229931-rio-tinto-alcan-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-11-10
+
+# Rio Tinto Alcan Inc. c. La Reine
+
+- Citation: 2016 CCI 258
+- Decision date: 2016-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2299, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rio Tinto Alcan Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-11-10
+Référence neutre
+2016 CCI 258
+Numéro de dossier
+2012-4808(IT)G, 2013-3028(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2013-3028(IT)G
+2012-4808(IT)G
+ENTRE :
+RIO TINTO ALCAN INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+L’honorable juge Robert J. Hogan
+ORDONNANCE
+Après avoir reçu les observations écrites au sujet des dépens en l’espèce, j’accorde à l’appelante le montant forfaitaire de 511 358,16 $, plus des débours de 42 553,54 $ à l’égard des deux appels.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2016.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 2e jour de février 2018.
+François Brunet, réviseur
+Référence : 2016 CCI 258
+Date : 20161110
+Dossiers : 2013-3028(IT)G
+2012-4808(IT)G
+ENTRE :
+RIO TINTO ALCAN INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE RELATIVE AUX DÉPENS
+Le juge Hogan
+I. INTRODUCTION [1] La présente affaire porte sur l’adjudication des dépens relativement à l’appel portant le numéro de dossier 2013-3028(IT)G (que nous appellerons « l’affaire Pechiney ») et à l’appel portant le numéro de dossier 2012-4808(IT)G (que nous appellerons « l’affaire Novelis »). Dans ces deux affaires, les motifs ont été fournis dans un jugement combiné accueillant en partie les appels de l’appelante. J’ai donné aux parties jusqu’au 8 septembre 2016 pour s’entendre sur le montant des dépens. Les parties n’ont pas pu parvenir à une entente et j’ai examiné leurs observations écrites.
+[2] L’appelante sollicite l’adjudication de la somme forfaitaire de 518 112,76 $ concernant l’affaire Pechiney et de 419 377,20 $ concernant l’affaire Novelis. Dans les deux cas, cela représente 55 % des dépens avocat-client engagés par l’appelante. L’appelante demande également le montant de 42 553,54 $ à titre de remboursement des débours engagés quant aux deux affaires. L’appelante fait remarquer que sa demande est inférieure à la moitié de la fourchette de 50 % à 75 % que la Cour a souvent appliquée pour adjuger les dépens d’indemnisation partielle aux appelants qui ont essentiellement obtenu gain de cause dans des appels.
+[3] Tentant de trouver un terrain d’entente quant aux dépens, l’intimée a proposé de payer 13 100 $. L’offre de l’intimée était fondée sur le tarif B de l’annexe II des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »). L’appelante a rejeté cette offre, car elle ne représente qu’une petite partie de ses dépens avocat-client pour les deux affaires.
+II. ANALYSE [4] Il n’est pas controversé entre les parties que les vastes pouvoirs discrétionnaires conférés à la Cour quant à l’adjudication des dépens sont bien établis. Ces pouvoirs discrétionnaires doivent cependant être exercés en se fondant sur des principes, en accordant un poids suffisant aux critères énumérés à l’article 147 des Règles et à tout autre critère donnant une solution juste. Le juge en chef adjoint Rossiter (tel était alors son titre) a brièvement résumé l’approche retenue par la Cour quant aux dépens à l’occasion de l’affaire Velcro Canada Inc. c. La Reine, 2012 CCI 273 :
+[8] Le tarif annexé aux Règles est uniquement un point de repère que la Cour peut utiliser si elle le désire. Il est intéressant de souligner que la première des deux mentions du tarif à l’article 147 des Règles se trouve au paragraphe 147(4), qui accorde en soi un pouvoir extrêmement large à la Cour relativement à l’adjudication des dépens.
+[9] Malgré les commentaires que l’ancien juge en chef Bowman a formulés au paragraphe 9 de la décision Banque continentale, je suis d’avis que :
+1. Le tarif n’est nullement censé compenser entièrement les frais juridiques supportés par une partie lors d’un appel.
+2. Le tarif n’est pas censé non plus être dérisoire au point d’être négligeable et de jouer un rôle minime dans la façon dont les parties poursuivent les litiges. La Cour peut toujours exercer son pouvoir discrétionnaire pour fixer des montants appropriés.
+3. La Cour doit adjuger les dépens à son entière discrétion, après avoir examiné les facteurs énoncés au paragraphe 147(3) des Règles.
+4. La Cour doit exercer son pouvoir discrétionnaire en se fondant sur des principes.
+5. Les facteurs énoncés au paragraphe 147(3) des Règles constituent les éléments clés dont la Cour doit tenir compte pour adjuger les dépens, en fixer le montant et décider si elle devrait s’écarter ou non du tarif.
+6. Habituellement, la Cour devrait appliquer les facteurs énoncés au paragraphe 147(3) des Règles en se fondant sur des principes et sur les observations des parties au sujet des dépens et invoquer le tarif uniquement s’il lui semble souhaitable de le faire.
+7. La façon dont le tarif est mentionné à l’article 147 des Règles montre le peu d’importance qu’il a dans les considérations ayant trait aux dépens.
+J’applique maintenant au présent dossier les critères énumérés au paragraphe 147(3) des Règles.
+A. ISSUE DE LA PROCÉDURE [5] En ce qui concerne l’affaire Pechiney, l’intimée soutient qu’elle a obtenu, sur le plan financier, une décision plus satisfaisante que l’appelante puisque cette dernière peut, en raison de ma décision, déduire 48,35 % du montant réclamé à titre de dépenses courantes dans son appel. Toutefois, ce pourcentage a été calculé en fonction des dépenses déductibles totales, dans l’affaire Pechiney, de 37 415 984 $. Les dépenses déductibles totales ont été incorrectement énoncées dans les motifs initiaux de mon jugement, qui ont été modifiés. Les dépenses déductibles sont maintenant de 39 757 937 $. Compte tenu de ce changement, l’appelante est autorisée à déduire 51,38 % du montant réclamé à titre de dépenses courantes dans son appel.
+[6] Je rejette la qualification, par l’intimée, de l’incidence de la décision de la Cour sur l’appelante. Il est important rappeler, relativement à l’affaire Pechiney, que le montant de 45 419 946 $ avait été déduit à l’origine par l’appelante au titre de dépenses courantes lorsqu’elle a produit sa déclaration de revenus. L’intimée a refusé ce montant dans sa totalité lorsqu’elle a établi une nouvelle cotisation à l’égard de l’appelante. Dans ce contexte, le montant adjugé par notre Cour représente 87,5 % du montant demandé initialement.
+[7] L’intimée reconnaît que l’appelante a obtenu une décision plus satisfaisante qu’elle en ce qui concerne l’affaire Novelis. La Cour a accordé des dépenses déductibles de 14 218 477 $, ce qui constitue 72 % du montant de 19 759 339 $ réclamé par l’appelante dans son appel[1].
+[8] Les parties semblent convenir qu’il existe une forte tendance dans la jurisprudence à conclure que l’adjudication des dépens ne doit pas se faire en fonction du succès pour chacune des questions, mais plutôt en fonction de la décision globale de l’appel.
+[9] Je retiens la thèse du demandeur, selon laquelle l’augmentation du montant de sa demande, passant de la somme déclarée dans ses déclarations de revenus telles qu’elles ont été produites à la somme déclarée dans ses avis d’appel, ne doit pas constituer un facteur défavorable pour l’adjudication des dépens dans les deux affaires. J’estime que cela n’a pas augmenté l’importance des travaux pour les parties. Il convient de mentionner que le ministre du Revenu national (le « ministre ») a adopté une approche musclée dans les deux affaires en soutenant que toutes les dépenses réclamées par l’appelante dans ses déclarations de revenus étaient des dépenses en capital. La position de l’appelante est considérablement améliorée par les deux décisions, puisque l’intimée a rejeté l’intégralité des déductions réclamées par l’appelante dans ses déclarations de revenus. La décision fait que l’appelante peut désormais déduire pratiquement toutes les dépenses qu’elle avait initialement déclarées dans ses déclarations de revenus. Il s’agit d’une victoire importante pour l’appelante, qui fait pencher la balance en faveur d’une augmentation des dépens.
+B. MONTANT EN CAUSE [10] L’intimée soutient que les montants en cause et le montant que j’ai accordé ne sont pas importants au regard des transactions controversées et des opérations globales de l’appelante. Je rejette cette thèse.
+[11] Le jugement autorise des déductions totalisant 53 976 414 $. Ce montant est important puisque l’appelante soutient qu’elle s’attend à recevoir un remboursement de plus de 16 000 000 $. L’intimée ne conteste pas cette allégation. Si les dépens majorés n’étaient pas accordés, l’appelante se verrait accorder environ 13 000 $ en vertu du tarif, après avoir dépensé plus de 1,7 million de dollars pour obtenir un remboursement d’impôt d’environ 16 000 000 $ à l’égard des impôts que le ministre n’était pas en droit de percevoir en vertu de la loi.
+[12] La thèse de l’intimée signifie que les contribuables devraient payer des frais judiciaires considérables, et ce, même si leurs appels ont été fructueux ou essentiellement fructueux. Cela me semble injuste. En résumé, les contribuables pourraient être contraints à payer une partie du montant incorrectement évalué au lieu de payer des frais judiciaires importants qui ne seraient pas remboursés en vertu du tarif.
+[13] Comme l’ont fait remarquer mes collègues, le juge Campbell[2] et le juge Rip[3], la Cour peut tenir compte des frais réels de la partie concernée dans les cas complexes, eu égard au fait que les questions complexes signifient généralement que les faits sont plus compliqués et que les documents devant être examinés et présentés en preuve sont très longs, ce qui prolonge l’interrogatoire préalable et la préparation de l’instruction. Les avocats doivent également s’employer à communiquer les faits complexes de manière à ce que la Cour puisse saisir plus facilement la question.
+C. IMPORTANCE DE LA QUESTION EN LITIGE [14] Pour ce qui est de l’importance des questions en litige dans les présents appels, l’intimée estime que la situation est largement fondée sur des faits et n’est pas unique. L’intimée affirme que les motifs que j’ai produits dans le cadre des présents appels auront peu de valeur jurisprudentielle. Avec respect, j’estime qu’il y là simplification excessive de l’impact du jugement.
+[15] Il est notoire qu’avant le présent jugement, la position du ministre était que les frais relatifs aux services bancaires d’investissement ou à d’autres services consultatifs devaient être capitalisés s’ils étaient engagés dans le contexte plus large d’acquisitions ou d’opérations dites de « scission ». À ma connaissance, la ligne de démarcation exposée dans les présents motifs de mon jugement n’avait pas été prise en compte par la jurisprudence. En supposant que ma décision ne soit pas infirmée en appel, les motifs de mon jugement devraient être utiles à de nombreuses sociétés ouvertes qui procèdent à des acquisitions ou à des opérations de « scission ».
+[16] Dans les motifs de mon jugement, je discute également l’application de l’alinéa 20(1)bb) de la Loi de l’impôt sur le revenu invoquée par l’appelante à titre subsidiaire. Rejetant la thèse de l’intimée, j’ai décidé que cette partie des frais liés aux services bancaires d’investissement engagés par l’appelante était également déductible aux termes de cette disposition, en cas d’erreur quant à ma conclusion qu’elles sont admissibles en tant que dépenses courantes. Cette décision sera également utile aux contribuables qui cherchent à déduire des frais liés aux services bancaires d’investissement dans un contexte semblable à celui en l’espèce.
+[17] En résumé, l’appelante a dû présenter des thèses juridiques nouvelles qui n’avaient jamais encore été étudiées par la jurisprudence canadienne. Voilà qui joue en faveur de l’augmentation des dépens.
+D. OFFRES DE TRANSACTION [18] Les parties reconnaissent n’avoir ni l’une, ni l’autre, fait d’offre de transaction, par écrit ou autrement. Il devient de plus en plus courant pour des parties impliquées dans des appels complexes en matière d’impôt de chercher à résoudre leur différend au moyen de discussions privées ou, comme c’est souvent le cas, de discussions de règlement supervisées par le tribunal.
+[19] Je reconnais que les paragraphes 147(3.1) à 147(3.8) des Règles portent sur les conséquences, en matière de dépens, des offres de transaction qui sont rejetées. Cela dit, selon moi, l’absence d’offre constitue un facteur défavorable en matière de demande d’adjudication de dépens majorés.
+E. VOLUME DE TRAVAIL [20] L’intimée soutient que le volume de travail était moyen pour un appel de cette nature devant notre Cour. Je rejette cette thèse et je retiens le point de vue de l’appelante quant au volume de travail considérable accompli pour elle par ses avocats, tel qu’il est indiqué aux paragraphes 33, 34, 37, 38, 39 et 40 de ses observations écrites, qui se lisent comme suit :
+[TRADUCTION]
+33. L’avis d’appel a été déposé en octobre 2012 pour Novelis et en août 2013 pour Pechiney; l’appel portait sur les nouvelles cotisations établies par le ministre pour les années d’imposition 2007 et 2003 de l’appelante, respectivement, et refusant la totalité des dépenses en cause. Ces appels ont été en cours du dépôt de l’avis jusqu’à l’instruction. Dès le début du processus d’appel, l’appelante a mené les deux interrogatoires préalables ainsi que les engagements avant que l’intimée décide d’établir une autre nouvelle cotisation dans l’affaire Novelis. Cette démarche de l’intimée au cours du processus d’appel a obligé l’appelante à modifier ses actes de procédure dans cet appel conformément à l’ordonnance délivrée par le juge Favreau le 7 octobre 2014, telle qu’elle figure dans le dossier de la Cour. De même, l’intimée a déposé une réponse modifiée à l’avis d’appel dans l’affaire Pechiney un an et demi après le dépôt de la réponse originale pour inclure de nouveaux arguments sur des questions centrales de l’appel.
+34. De plus, l’appelante s’est préparée pour le procès devant la Cour et pendant cinq jours, c’est l’appelante qui a présenté l’ensemble de la preuve testimoniale et a interrogé six témoins. Comme le sait la Cour, en raison des montants en cause et de l’importance des questions en litige, un très grand nombre d’éléments de preuve ont été présentés à la Cour. L’appelante a préparé le recueil conjoint de documents qui comprenait sept volumes, 366 documents distincts et plus de 7 000 pages d’éléments de preuve. De plus, l’appelante a déposé deux séries d’observations écrites représentant 250 pages de documents écrits et renvoyant à des dizaines de jugement, y compris de la jurisprudence étrangère. Inversement, comme l’a conclu la Cour dans les motifs du jugement, « l’intimée n’a présenté aucune preuve testimoniale [et] a posé peu de questions lors du contre-interrogatoire ».
+[...]
+37. Comme ce fut le cas dans l’affaire Repsol, le contentieux dans les affaires Pechiney et Novelis a été long (27 et 35 mois, respectivement), le fardeau incombait à l’appelante, les faits étaient compliqués, il a fallu plusieurs témoins, un historique législatif et une jurisprudence abondante ont été nécessaires et les transactions en cause étaient d’envergure internationale. Par conséquent, le volume de travail accompli par l’appelante dans les affaires Pechiney et Novelis doit être considéré comme étant justifié.
+38. Les appels relatifs aux affaires Pechiney et Novelis ont entraîné, pour l’appelante, des frais judiciaires importants et d’autres coûts professionnels élevés. Il aurait été possible d’éviter certaines des procédures, tel qu’il sera décrit en détail ci-dessous, si l’intimée avait suivi une approche raisonnable, notamment en appliquant les positions publiées par l’Agence du revenu du Canada dans le bulletin IT-475, plutôt qu’en adoptant une approche globale de refus de toutes les dépenses engagées sans autre examen des faits en cause et des questions en litige.
+39. De plus, tout au long des affaires Pechiney et Novelis, l’appelante a pris toutes les mesures possibles pour interjeter appel de manière efficace, en réunissant les appels distincts portant sur des questions semblables, en regroupant les étapes requises tout au long du processus d’appel et en ayant recours à la technologie pour permettre aux témoins à l’étranger de comparaître devant la Cour. Ces efforts visaient à garantir l’utilisation efficace des ressources de chacune des parties et de celles de la Cour. On ne devrait pas pénaliser davantage l’appelante quant à ces mesures en diminuant encore les coûts effectivement subis au moyen d’un facteur de réduction plus élevé que ce qui a déjà été fait dans la demande de dépens majorés des montants détaillés au paragraphe 3 ci-dessus.
+40. Par conséquent, le volume de travail en l’espèce était important et justifié, ce qui plaide en faveur de l’adjudication à l’appelante des dépens majorés qu’elle cherche à obtenir.
+[21] L’imposant volume de travail entrepris au nom de l’appelante justifie l’adjudication de dépens majorés.
+F. COMPLEXITÉ DE LA QUESTION EN LITIGE [22] Les transactions et les questions présentées étaient complexes. Ce facteur fait pencher la balance en faveur de la majoration des dépens.
+G. DÉNÉGATION D’UN FAIT PAR UNE PARTIE OU NÉGLIGENCE DE L’ADMETTRE, LORSQUE CE FAIT AURAIT DÛ ÊTRE ADMIS [23] Je ne vois nul élément au le dossier qui appelle l’adjudication d’un montant plus élevé en raison d’un tel comportement.
+H. AUTRES QUESTIONS PERTINENTES [24] Il ne semble pas y avoir d’autres facteurs que je doive prendre en compte pour déterminer les dépens à adjuger en l’espèce.
+III. CONCLUSION [25] À la lumière de tout ce qui précède, je conclus que les dépens fondés sur le tarif sont insuffisants pour ces deux appels. En l’absence de discussions efficaces en vue de parvenir à une transaction, je suis d’avis qu’un facteur de réduction de 25 % supplémentaire doit être appliqué aux dépens avocat-client de 55 % demandés par l’appelante dans ses observations écrites. Pour ces motifs, j’accorde à l’appelante 30 % de ses frais judiciaires de 1 704 527,20 $, soit la somme forfaitaire de 511 358,16 $ à titre de dépens d’indemnisation partielle pour les deux appels, plus 100 % des débours, soit 42 553,54 $.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2016.
+« Robert J. Hogan »
+Le juge Hogan
+Traduction certifiée conforme
+ce 2e jour de février 2018.
+François Brunet, réviseur
+RÉFÉRENCE :
+2016 CCI 258
+NOS DES DOSSIERS DE LA COUR :
+2013-3028(IT)G, 2012-4808(IT)G
+INTITULÉ :
+RIO TINTO ALCAN INC. c. LA REINE
+LIEU DE L’AUDIENCE :
+S.O.
+DATE DE L’AUDIENCE :
+S.O.
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Robert J. Hogan
+DATE DE L’ORDONNANCE :
+Le 10 novembre 2016
+COMPARUTIONS :
+Appelante :
+S.O.
+Intimée :
+S.O.
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Yves St-Cyr
+Me Larry Nevsky
+Cabinet :
+Dentons Canada S.E.N.C.R.L.
+Toronto
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’appelante fait valoir que le montant adjugé représentait 80 % du montant qu’elle avait initialement réclamé à titre de déductions courantes dans sa déclaration de revenus relativement à l’affaire Novelis.
+[2] Invesco Canada Ltd. c. La Reine, 2015 CCI 92.
+[3] Kruger Incorporated v. The Queen, 2016 CCI 14.

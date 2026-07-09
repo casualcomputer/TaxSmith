@@ -1,0 +1,191 @@
+Title: Sarmadi c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/109993/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-133-109993-sarmadi-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-06-03
+
+# Sarmadi c. La Reine
+
+- Citation: 2015 CCI 133
+- Decision date: 2015-06-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2830, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sarmadi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-03
+Référence neutre
+2015 CCI 133
+Numéro de dossier
+2010-361(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-361(IT)G
+ENTRE :
+SIROUS SARMADI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 27 octobre 2014, à Toronto (Ontario), et observations écrites présentées par les parties le 11 décembre 2014, les 12, 13, 27 et 28 janvier 2015 et le 5 février 2015.
+Devant : L’honorable juge Réal Favreau
+Comparutions :
+Avocat de l’appelant :
+Me David A. Seed
+Avocate de l’intimée :
+Me Rita Araujo
+JUGEMENT
+Les appels interjetés des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu, datées du 22 juin 2009 en ce qui a trait à l’année d’imposition 2003 et du 7 décembre 2009 en ce qui a trait à l’année d’imposition 2004, sont rejetés avec dépens conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour de juin 2015.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 22e jour de décembre 2015
+François Brunet, réviseur
+Référence : 2015 CCI 133
+Date : 20150603
+Dossier : 2010-361(IT)G
+ENTRE :
+SIROUS SARMADI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Les présents appels, régis par les Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), sont interjetés de deux nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu, L.R.C., 1985, c. 1 (5e suppl.), dans sa version modifiée (la « Loi »), relativement aux années d’imposition 2003 et 2004 de l’appelant.
+[2] Le 14 novembre 2006, le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations pour les années d’imposition 2003 et 2004 de l’appelant et a, en conséquence, établi ce jour‑là des avis de nouvelle cotisation comprenant les modifications suivantes :
+a) augmentation du revenu de location de 20 905 $ et de 13 816 $ pour les années d’imposition 2003 et 2004, respectivement;
+b) augmentation du revenu d’entreprise de 132 471 $ et de 160 667 $ pour les années d’imposition 2003 et 2004, respectivement;
+c) imposition de pénalités pour faute lourde sur le revenu non déclaré pour les années d’imposition 2003 et 2004.
+[3] Le 22 juin 2009, le ministre a établi de nouvelles cotisations pour les années d’imposition 2003 et 2004 de l’appelant et a, en conséquence, établi ce jour‑là des avis de nouvelle cotisation comprenant les modifications suivantes :
+a) diminution du revenu d’entreprise de 83 265 $ et de 86 170 $ pour les années d’imposition 2003 et 2004, respectivement;
+b) rajustement des pénalités pour faute lourde en conséquence.
+[4] Le 7 décembre 2009, le ministre a une fois de plus établi de nouvelles cotisations pour l’année d’imposition 2004 de l’appelant et a, en conséquence, établi ce jour‑là un autre avis de nouvelle cotisation comprenant les modifications suivantes :
+a) diminution du revenu d’entreprise de 5 597 $;
+b) rajustement des pénalités pour faute lourde en conséquence.
+[5] Pour calculer la dette fiscale de l’appelant pour les années d’imposition 2003 et 2004, le ministre a formulé les hypothèses de fait suivantes, énoncées aux alinéas 13a) à j) de la réponse à l’avis d’appel :
+[traduction]
+a) En 2003 et en 2004, l’appelant exploitait une entreprise de taxis et avait des biens locatifs;
+b) au cours de la période visée, l’appelant était propriétaire de six biens;
+c) en juin 2003, l’appelant a acheté un bien situé au 34 Plains Road East, à Burlington, en Ontario, au prix de 470 000 $;
+d) en juin 2004, l’appelant a acheté un bien situé au 1348, rue King Est, à Hamilton, en Ontario, au prix de 185 000 $;
+e) l’appelant a payé comptant les biens situés sur Plains Road et sur la rue King;
+f) l’appelant a déclaré un revenu total de 3 857 $ et de 1 807 $ pour les années d’imposition 2003 et 2004, respectivement;
+g) à tous les moments pertinents, l’appelant habitait avec son épouse et ses trois enfants;
+h) en 2003 et en 2004, les dépenses personnelles mensuelles de l’appelant étaient supérieures à 5 000 $;
+i) l’appelant a omis de déclarer un revenu de location de 20 905 $ et de 13 816 $ pour les années d’imposition 2003 et 2004, respectivement;
+j) l’appelant a omis de déclarer un revenu d’entreprise de 49 206 $ et de 68 900 $ pour les années d’imposition 2003 et 2004, respectivement.
+[6] Pour établir que l’appelant était passible de pénalités en application du paragraphe 163(2) de la Loi, le ministre s’est fondé sur les hypothèses de fait suivantes :
+[traduction]
+a) les faits énoncés aux alinéas 13a) à j);
+b) l’appelant est un homme d’affaires instruit;
+c) l’appelant savait, ou aurait dû savoir, que le revenu qu’il avait déclaré était insuffisant pour justifier son style de vie;
+d) l’appelant a fait de faux énoncés ou des omissions dans ses déclarations de revenus pour 2003 et 2004, ou y a participé, y a consenti ou y a acquiescé en omettant de déclarer tout son revenu d’entreprise.
+[7] Aux alinéas d) et e) de l’avis d’appel, l’appelant a affirmé qu’à l’étape de l’opposition, des éléments de preuve ont été produits pour démontrer que son père lui avait prêté environ 90 000 $ en 2003 et en 2004. Ce montant n’a pas été pris en compte dans le calcul de la valeur nette effectué par le vérificateur de l’Agence du revenu du Canada (l’« ARC »), parce que l’appelant n’a pas pu produire de documents prouvant que son père lui avait prêté 90000 $ en 2003 et en 2004. Ce montant était détenu en espèces par le père de l’appelant. Il provenait de la vente de son ancienne résidence, et il en avait versé une partie à l’appelant en 2003 (60 000 $) et une autre partie en 2004 (30 000 $).
+[8] En l’espèce, la seule question en litige est de savoir si le ministre a conclu à juste titre que le père de l’appelant n’avait pas prêté à ce dernier un montant total de 90 000 $ au cours des années d’imposition 2003 et 2004.
+Le témoignage de l’appelant
+[9] L’appelant et son père, M. Mohammad Sarmadi (ci‑après appelé « M. Sarmadi père »), ont témoigné à l’audience.
+[10] Aux moments pertinents, l’appelant habitait au 2 Rollins Place, à Toronto, avec son épouse, Mijin Park, et trois enfants. Vers 1999 ou 2000 jusqu’en 2004, l’appelant faisait des études dans un collège communautaire pour devenir prothésiste dentaire.
+[11] Lors de son témoignage, l’appelant a déclaré que, lorsqu’il avait épousé Mme Park, celle‑ci possédait déjà des biens à Toronto, qui lui avaient par la suite été transférés au moyen d’une donation faite par la famille de Mme Park. Les biens suivants ont été acquis par Mme Park :
+a) un bungalow situé au 11, avenue Parker, à Toronto, 1993, transféré à l’appelant en 2002;
+b) un bien situé au 2 Rollins Place, à Toronto, 1995, transféré à l’appelant en 2002;
+c) un appartement de copropriété de trois chambres, situé au 60 Pavine Linkeway, à Toronto, 1992, transféré à l’appelant en 2000;
+d) un appartement de copropriété de deux chambres, situé au 5 Shady Golfway, à Don Mills, 1992, transféré à l’appelant en 2000.
+[12] Entre 2003 et 2004, l’appelant a grevé d’une hypothèque tous les biens recensés au paragraphe précédent et a fait passer la dette hypothécaire de l’entreprise de 131 113 $ à 440 316 $ pour aider au financement et à l’acquisition des biens situés au 34 Plains Road East, à Burlington (un centre commercial comprenant quatre magasins et trois appartements) en 2003 et au 1348, rue King Est, à Hamilton (un petit centre commercial) en 2004. L’appelant a expliqué qu’il espérait installer son cabinet de prothésiste dentaire dans le petit centre commercial de Hamilton.
+[13] Un montant d’environ 90 000 $ a été ajouté au revenu de l’appelant, car il ne pouvait pas produire d’éléments de preuve documentaire démontrant le lien entre l’argent que lui avait prêté son père en 2003 et en 2004 et une opération précise, une acquisition ou des frais de rénovation. L’appelant a déclaré que l’argent provenant de son père avait été avancé ou utilisé par tranches, et non sous la forme d’un seul transfert important qui peut être facilement retracé. Le montant en espèces que le père de l’appelant avait avancé à celui‑ci provenait d’une source légitime et avait été utilisé dans l’unité familiale. L’appelant a affirmé qu’il avait parrainé son père, sa mère et sa soeur à titre d’immigrants au Canada et qu’il devait garantir qu’il avait les ressources financières nécessaires pour subvenir à leurs besoins pendant dix ans au Canada. On avait pris la décision de réunir les deux familles dans une seule maison commune, soit celle située au 2 Rollins Place.
+[14] M. Sarmadi père a témoigné à l’audience pour corroborer le témoignage de l’appelant selon lequel le montant d’environ 90 000 $ avancé par son père constituait la source des fonds ayant servi à acheter les biens acquis en 2003 et en 2004. Le bien situé au 34 Plains Road East a été acheté comptant le 12 juin 2006 au prix de 470 000 $ et le bien situé au 1348, rue King Est, à Hamilton, a été acheté le 1er juin 2004 au prix de 185 000 $.
+[15] M. Sarmadi père est né en Iran et a exercé les fonctions d’enseignant et de professeur d’université pendant sa vie professionnelle. Il a droit à une pension modeste du gouvernement iranien, qu’il perçoit lorsqu’il retourne en Iran chaque année pendant l’hiver canadien et réside dans un bien qui lui appartient toujours.
+[16] M. Sarmadi père, son épouse et l’une de ses filles ont immigré au Canada en 1996. Ils ont été parrainés par l’appelant, qui s’était engagé à subvenir financièrement à leurs besoins pendant dix ans. M. Sarmadi père, qui a une épouse, un fils et deux filles, a vu sa famille réunie lorsqu’il a réussi à venir au Canada. M. Sarmadi père a vendu les biens immobiliers qu’il possédait en Iran pour financer l’achat du bien situé au 9 Vickson Court, à Toronto. Il habitait à cette adresse avec son épouse et l’une de ses filles.
+[17] M. Sarmadi père a vendu le bien situé au 9 Vickson Court en juin 2002 et a installé son épouse et sa fille (qui allait à l’école) dans la maison de l’appelant située au 2 Rollins Place. M. Sarmadi père a eu recours aux services d’un avocat, Me Norman Tomas, pour la vente du bien situé au 9 Vickson Court. Le produit net de la vente a été payé par un chèque en fiducie de son avocat à l’ordre de Mohammad Sarmadi. Le produit net de la vente a été déposé dans son compte bancaire à la CIBC le 24 juin 2002. Le 25 juin 2002, M. Samadi s’est rendu seul à la succursale de la CIBC et a retiré 85 000 $ en billets de 100 $. M. Sarmadi père a expliqué qu’il avait divisé l’argent que lui avait remis le caissier en de petits montants qu’il avait placé dans des enveloppes comprenant chacune entre 5 000 $ et 10 000 $. Il avait caché les enveloppes dans différentes poches des vêtements qu’il portait pour des raisons de sécurité et était retourné chez lui seul, à pied. À son arrivée à la maison, il avait placé cet argent dans un coffre‑fort qu’il conservait dans sa chambre, au sous‑sol de la maison de l’appelant. Il avait prêté cet argent à l’appelant au cours des deux années et demie qui avaient suivi pour l’aider à payer ses frais de subsistance. Lors de son témoignage, il a déclaré qu’il avait finalement permis à l’appelant de prendre tout l’argent dont il avait besoin.
+Contradictions entre le témoignage de l’appelant et celui de M. Sarmadi père soulevées par l’intimée
+A. Le produit net de la vente du bien situé au 9 Vickson Court conservé dans un coffre-fort
+[18] M. Sarmadi père a reçu 85 327,33 $ de la vente de sa maison, qu’il a déposés dans son compte bancaire à la CIBC le 24 juin 2002. Le 25 juin 2002, M. Sarmadi père s’est rendu à sa succursale de la CIBC pour retirer 85 000 $ de son compte. Il soutient qu’il s’est rendu seul à la banque à pied et qu’il a retiré 85 000 $ en billets de 100 $. Selon M. Sarmadi père, la banque lui a donné des enveloppes qu’il a utilisées pour diviser les 85 000 $. Chaque enveloppe comprenait environ 5 000 $ à 10 000 $. Il a ensuite caché les enveloppes dans ses poches et a marché seul jusque chez lui.
+[19] De retour chez lui, M. Sarmadi père a placé les 85 000 $ dans un coffre-fort ou un coffret‑caisse et l’argent est demeuré à cet endroit pendant environ un an. Il a affirmé qu’il conservait l’argent dans un coffret‑caisse, car il avait l’intention de l’utiliser comme acompte s’il achetait un autre bien ultérieurement.
+[20] Toutefois, M. Sarmadi père n’a pas pu préciser l’emplacement exact du coffre‑fort dans la maison de l’appelant. Il a d’abord déclaré que le coffre‑fort ne se trouvait pas au sous‑-sol, mais a ensuite affirmé qu’il se trouvait au sous‑sol. Il ne pouvait pas dire l’endroit exact où se trouvait le coffre‑fort, seulement qu’il était dans [traduction] « un coin au sous‑sol ».
+[21] À l’audience, l’appelant a déclaré lors de son témoignage que son père avait reçu 90 000 $ en espèces, provenant de la vente de sa résidence principale et qu’il avait placé tout le montant dans un coffre‑fort. Cependant, lors de l’interrogatoire préalable, il a déclaré que son père avait investi l’argent qu’il avait obtenu de la vente de la maison dans des certificats de placement garanti dans l’objectif d’obtenir un taux d’intérêt supérieur. La réponse donnée à l’interrogatoire préalable n’a pas été modifiée.
+[22] Lorsque l’appelant a été confronté à cette discordance, il a affirmé qu’à ce moment‑là, il ne savait pas que l’argent se trouvait dans le coffre‑fort; son père le lui avait dit ultérieurement. Toutefois, l’appelant a également déclaré qu’il avait lui‑même pris l’argent dans le coffre‑fort en 2003 et en 2004, avec la permission de son père. Par conséquent, au moment de l’interrogatoire préalable, il aurait dû savoir que l’argent n’était pas investi dans un certificat de placement garanti, mais qu’il se trouvait dans un coffre fort dans sa propre maison.
+B. Le prêt allégué
+[23] L’appelant a déclaré que son père lui avait prêté environ 90 000 $ de 2003 à 2004, mais s’est contredit à plusieurs reprises sur le montant qu’il a emprunté à la fois :
+a) à l’étape de l’opposition, l’appelant a affirmé que les fonds lui avaient été avancés en espèces, en tranches de 5 000 $ ou de 6 000 $ à la fois; il n’a pas mentionné qu’il y avait un coffre‑fort ni qu’il prenait lui‑même l’argent dans ce coffre;
+b) au cours de l’interrogatoire préalable, il a déclaré sous affirmation solennelle que son père lui donnait 10 000 $, 15 000 $ ou 20 000 $ à la fois. Il lui a donné 15 000 $ une fois, et 10 000 $ deux ou trois fois. Mais généralement, il lui donnait 10 000 $, car ce montant était beaucoup plus facile à retenir. Là encore, il n’a fait aucune mention d’un coffre‑fort ni du fait qu’il prenait lui‑même l’argent dans ce coffre;
+c) à l’audience, il a déclaré qu’il prenait lui‑même l’argent du coffre de son père et il ne pouvait pas préciser le montant qu’il prenait chaque fois.
+[24] En revanche, M. Sarmadi père a déclaré qu’initialement, il avait personnellement donné un montant de 5 000 $ à l’appelant, puis un autre montant de 3 000 $. Toutefois, il ne pouvait ni déterminer la date ou l’année où il aurait avancé cet argent ni se rappeler à quel moment il avait commencé à prêter de l’argent à l’appelant.
+[25] Lors de son témoignage, M. Sarmadi père a affirmé qu’après avoir donné les avances initiales de 5 000 $ et de3 000 $ à l’appelant, il lui avait remis la clé du coffre‑fort afin qu’il puisse lui‑même prendre l’argent du coffre. Cependant, il ne se rappelait pas à quel moment il avait remis la clé du coffre‑fort à l’appelant.
+C. Le montant inconnu des prêts allégués
+[26] Au cours de son interrogatoire préalable, l’appelant a déclaré qu’il effectuait le suivi des montants que son père lui prêtait; il consignait les montants dans un journal et dans ses comptes. Ce journal et ces comptes n’ont jamais été présentés.
+[27] À l’audience, l’appelant a dressé un portrait différent de la situation. Il a déclaré qu’il n’effectuait pas le suivi des montants qu’il empruntait à son père. Il ne conservait pas non plus de reçus. L’appelant n’a même pas présenté à la Cour la ventilation des montants qu’il aurait reçus de son père en 2003 et en 2004. Il a reconnu qu’il n’avait aucun document attestant le fait que son père lui avait prêté 90 000 $ en 2003 et en 2004.
+[28] M. Sarmadi père ne pouvait pas non plus préciser le montant qu’il aurait prêté à l’appelant en 2003 et en 2004. En fait, il ne savait pas quand l’appelant prenait de l’argent dans le coffre‑fort et il ne connaissait pas le montant qu’il prenait chaque fois. Il ne tenait pas de journal des montants empruntés et l’appelant ne l’informait pas de la date ni du montant de l’emprunt. Il ne lui remettait pas non plus de reçus.
+[29] En outre, M. Sarmadi père ne savait pas la date à laquelle il ne restait plus rien des 90 000 $ dans le coffre‑fort et la partie de cet argent que l’appelant avait réellement prise. En fait, il ne savait même pas s’il restait encore une partie des 85 000 $ qu’il avait tirés de la vente de sa résidence.
+[30] Selon M. Sarmadi père, l’appelant était censé lui rembourser l’argent emprunté, mais à ce jour, quelque dix années plus tard, il ne l’a pas encore fait.
+D. L’utilisation inconnue des prêts allégués
+[31] L’appelant s’est contredit à maintes reprises quant à l’utilisation du montant d’environ 90 000 $ qu’il aurait empruntés à son père :
+a) à l’étape de l’opposition, l’appelant a d’abord déclaré qu’il avait utilisé l’argent que lui avait prêté son père pour payer le solde de son compte de carte de crédit MBNA MasterCard;
+b) quelques mois plus tard, il a affirmé qu’il utilisait de temps à autre l’argent emprunté pour diminuer le montant de ses comptes de cartes de crédit et pour assumer ses frais de subsistance généraux;
+c) lors de l’interrogatoire, l’appelant a déclaré sous affirmation solennelle qu’il avait reçu le montant total de 90 000 $ qu’il avait emprunté à son père le 11 juin 2003 pour acheter le bien situé au 34 Plains Road;
+d) à l’audience, il a déclaré que l’argent que lui avait prêté son père avait servi à acheter les biens situés au 34 Plains Road et au 1348, rue King et à rénover ces biens, notamment la conversion d’un des biens en un cabinet de denturologiste.
+[32] Lorsque l’appelant a été mis en présence de ces contradictions lors du contre‑interrogatoire, il a reconnu qu’il ne se rappelait plus comment il avait utilisé l’argent qu’il aurait emprunté à son père. Il n’arrivait pas à se souvenir du montant, le cas échéant, qui aurait servi à l’achat des biens situés au 34 Plains Road et au 1348, rue King.
+[33] Pour sa part, M. Sarmadi père ne savait pas ce que les soi-disant prêts servaient à financer. Il a affirmé qu’il croyait que l’appelant s’en servait [traduction] « pour son bureau de prothésiste dentaire » ou pour son entreprise, mais il ne savait pas de quelle entreprise il s’agissait. Il a également reconnu qu’une partie de l’argent conservé dans le coffre‑fort avait servi à payer les droits de scolarité de sa fille et les services d’un professeur particulier.
+Analyse [34] En l’espèce, l’appelant n’a pas tenu de registres ni de livres de comptes adéquats comme l’exige le paragraphe 230(1) de la Loi, qui dispose :
+230(1) Quiconque exploite une entreprise et quiconque est obligé, par ou selon la présente loi, de payer ou de percevoir des impôts ou autres montants doit tenir des registres et des livres de comptes (y compris un inventaire annuel, selon les modalités réglementaires) à son lieu d’affaires ou de résidence au Canada ou à tout autre lieu que le ministre peut désigner, dans la forme et renfermant les renseignements qui permettent d’établir le montant des impôts payables en vertu de la présente loi, ou des impôts ou autres sommes qui auraient dû être déduites, retenues ou perçues.
+[35] Les renseignements produits à l’étape de la vérification étaient inadéquats et incomplets et l’ARC a utilisé la méthode de la valeur nette pour établir le revenu de l’appelant pour les années en cause.
+[36] En matière fiscale, la charge initiale de démolir les présomptions formulées par le ministre pour établir les cotisations incombe au contribuable. Pour s’acquitter de cette charge, le contribuable doit présenter une preuve de prime abord. Ce n’est que lorsque cette condition est remplie que la charge de la preuve passe au ministre qui doit réfuter les preuves présentées par le contribuable et prouver, selon la prépondérance des probabilités, la validité des présomptions sur lesquelles il s’est fondé.
+[37] En l’espèce, le ministre a supposé que l’appelant n’avait pas déclaré tout son revenu de location et d’entreprise. L’appelant a la charge de convaincre notre Cour, avec un certain degré de précision, que les 90 000 $ proviennent d’une source non-imposable.
+[38] La preuve considérée comme suffisante pour établir un fait jusqu’à preuve du contraire constitue une preuve de prime abord. Bien qu’une telle preuve n’est pas concluante, la charge de la preuve imposée au contribuable ne doit pas être renversée facilement compte tenu du fait que le régime fiscal est fondé sur l’autocotisation et que l’entreprise exploitée par le contribuable est sa propre entreprise. Selon la jurisprudence, il convient d’analyser l’ensemble de la preuve pour établir si la preuve de prime abord a été rapportée.
+[39] En l’espèce, le ministre s’est appuyé sur des renseignements fiables pour établir qu’il y a un écart entre les éléments d’actif et les dépenses du contribuable. Comme cet écart demeure inexpliqué, le ministre s’est acquitté de la charge de la preuve qui lui incombait. Par conséquent, l’appelant doit présenter des éléments de preuve crédibles et fiables démontrant qu’une partie du montant qui lui a été attribué, soit 90 000 $, ne constitue pas un revenu.
+[40] À l’audience, l’appelant n’a pas présenté des éléments de preuve cohérents, crédibles ou fiables. Les explications données par l’appelant et par son père sont simplement invraisemblables et regorgent de contradictions. Ni l’appelant ni son père n’ont pu présenter à la Cour la ventilation des montants empruntés en 2003 et en 2004; aucune date ni aucun montant n’ont été établis. Aucun document n’a été produit à l’appui de la version des faits de l’appelant, à savoir qu’il aurait en fait emprunté environ 90 000 $. Des affirmations vagues et générales ne sont pas suffisantes pour constituer une preuve de prime abord.
+[41] Les témoignages de l’appelant et de son père n’étaient pas crédibles compte tenu de tous les éléments de preuve présentés à l’audience. L’appelant a rendu un témoignage intéressé regorgeant de contradictions et de failles. Sa version des faits a changé tout au long de l’étape de l’opposition et de l’interrogatoire préalable ainsi qu’à l’audience. Aucune contradiction n’a été expliquée.
+[42] M. Sarmadi père n’a pu corroborer une grande partie du témoignage de l’appelant. En contre‑interrogatoire, il a reconnu qu’il voulait aider son fils du mieux qu’il pouvait. Son témoignage concernant les faits survenus en 2002 et en 2004 était vague et peu convaincant.
+[43] Le témoignage de l’appelant et celui de son père ne sont pas fiables. Ils ignoraient tous deux le moment où l’appelant avait commencé à emprunter de l’argent, les sommes empruntées en 2003 et en 2004 ou les raisons pour lesquelles l’appelant empruntait de l’argent. M. Sarmadi père ne savait même pas ce qu’il restait des 90 000 $ dans le coffre‑fort à la date de l’audience, mais il a déclaré qu’une partie de l’argent avait servi à payer les droits de scolarité de sa fille et les services d’un professeur particulier.
+[44] En outre, il est tout à fait invraisemblable que le père de l’appelant, qui avait 70 ans, se soit rendu seul à la banque à pied pour retirer 85 000 $ en espèces. Il est encore plus invraisemblable que cet argent soit demeuré dans le coffre‑fort pendant près d’un an, soit jusqu’en juin 2003, époque à laquelle l’appelant avait acheté le bien situé au 34Plains Road. Cela est invraisemblable d’autant plus que le père de l’appelant a un revenu minime et une petite pension, et qu’il avait besoin du soutien financier de ses enfants.
+[45] Bien que M. Sarmadi père ait produit des éléments de preuve, à savoir des relevés bancaires, un chèque ou des documents créés par l’avocat intervenu dans la vente de sa maison indiquant qu’il a vendu celle‑ci, qu’il avait emménagé dans la maison de la famille de l’appelant et qu’il a emporté, en espèces, tout le produit de la vente de la maison, ces éléments de preuve ne sont pas suffisants en soi pour que la Cour conclue que l’argent a réellement été avancé à l’appelant et qu’il ne provenait pas d’une source imposable.
+[46] L’appelant n’a pas expliqué de façon crédible ou fiable l’écart entre le revenu qu’il a déclaré et la valeur nette de ses avoirs. Ses explications étaient vagues et n’ont pas été corroborées par quelque élément de preuve documentaire que ce soit. Il est nécessaire de produire certains éléments de preuve corroborants pour établir la preuve de prime abord. Aucun élément de preuve fiable n’a été produit pour réfuter les présomptions du ministre. L’appelant n’a pas réussi à renverser le fardeau de la preuve et les nouvelles cotisations doivent être maintenues.
+[47] Par les motifs exposés ci‑dessus, les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 3e jour de juin 2015.
+« Réal Favreau »
+Juge Favreau
+Traduction certifiée conforme
+ce 22e jour de décembre 2015
+François Brunet, réviseur
+RÉFÉRENCE :
+2015 CCI 133
+No DU DOSSIER DE LA COUR :
+2010-361(IT)
+INTITULÉ :
+Sirous Sarmadi et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 27 octobre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Réal Favreau
+DATE DU JUGEMENT :
+Le 3 juin 2015
+COMPARUTIONS :
+Avocat de l’appelant :
+David A. Seed
+Avocate de l’intimée :
+Me Rita Araujo
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me David A. Seed
+Cabinet :
+Borges & Associates
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

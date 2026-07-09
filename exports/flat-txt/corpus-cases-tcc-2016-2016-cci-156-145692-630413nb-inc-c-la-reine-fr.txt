@@ -1,0 +1,314 @@
+Title: 630413NB Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/145692/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-156-145692-630413nb-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-06-23
+
+# 630413NB Inc. c. La Reine
+
+- Citation: 2016 CCI 156
+- Decision date: 2016-06-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2914, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+630413NB Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-06-23
+Référence neutre
+2016 CCI 156
+Numéro de dossier
+2014-3893(GST)I
+Juges et Officiers taxateurs
+Sylvain Ouimet
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2014-3893(GST)I
+ENTRE :
+630413NB Inc.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appel entendu le 22 février 2016, à Moncton (Nouveau-Brunswick).
+Devant : L’honorable juge Sylvain Ouimet
+Comparutions :
+Avocat de l’appelante :
+Me Edward J. McGrath
+Avocate de l’intimée :
+Me Jill Chisholm
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise pour les périodes du 1er juillet 2008 au 31 décembre 2009, du 1er avril 2010 au 30 juin 2010 et du 1er janvier 2011 au 30 mars 2011, est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de juin 2016.
+« Sylvain Ouimet »
+Juge Ouimet
+Référence : 2016 CCI 156
+Date : 20160623
+Dossier : 2014-3893(GST)I
+ENTRE :
+630413NB Inc.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+Juge Ouimet
+I. Introduction [1] Le présent appel est interjeté en vertu de la Loi sur la taxe d’accise (la « LTA ») à l’encontre d’une cotisation établie par le ministre du Revenu national (le « ministre ») qui a rejeté, conformément à l’article 169 de la LTA, la demande de 630413NB Inc. (l’« appelante ») pour les crédits de taxe sur les intrants (les « CTI ») se rapportant à des frais d’avocat payés entre le 1er juillet 2008 et le 30 mars 2011.
+[2] Les montants de CTI refusés par le ministre sont énoncés dans le tableau ci-dessous :
+Période en litige
+CTI
+Date de cotisation
+Demandés
+Refusés
+Accordés
+1er juil. au 30 sept. 2008
+9 062,16 $
+8 347,60 $
+714,56 $
+17 avril 2013
+1er oct. au 31 déc. 2008
+3 137,53 $
+2 707,07 $
+430,46 $
+10 avril 2013
+1er janv. au 30 mars 2009
+1 107,17 $
+674,70 $
+432,47 $
+10 avril 2013
+1er avril au 30 juin 2009
+2 266,03 $
+1 867,06 $
+398,97 $
+10 avril 2013
+1er juil. au 30 sept. 2009
+670,65 $
+575,22 $
+95,43 $
+10 avril 2013
+1er oct. au 31 déc. 2009
+5 252,19 $
+1 490,05 $
+3 762,14 $
+10 avril 2013
+1er avril au 30 juin 2010
+13 237,12 $
+13 039,00 $
+198,12 $
+10 avril 2013
+1er janv. au 30 mars 2011
+1 137,08 $
+1 032,10 $
+104,98 $
+9 avril 2013
+Total
+35 869,93 $
+29 732,80 $
+6 137,13 $
+[3] Tous les CTI refusés par le ministre concernent la TPS/TVH payée par l’appelante sur les frais d’avocat. Le tableau ci-dessous contient des détails sur les frais d’avocat pour lesquels les CTI ont été refusés par le ministre :
+Période
+Date
+Bénéficiaires
+TPS/TVH
+1er juil. au 30 sept. 2008
+22 juil. 2008
+Murphy, Murphy and Mollins
+7 800,00 $
+9 sep. 2008
+Murphy, Murphy and Mollins
+547,60 $
+1er oct. au 31 déc. 2008
+14 nov. 2008
+Anderson Sinclair
+2 018,07 $
+27 nov. 2008
+Murphy, Murphy and Mollins
+689,00 $
+1er janv. au 30 mars 2009
+17 fév. 2009
+Murphy, Murphy and Mollins
+674,70 $
+1er avril au 30 juin 2009
+4 mai 2009
+Anderson Sinclair
+1 300,00 $
+22 juin 2009
+Murphy, Murphy and Mollins
+567,06 $
+1er juil. au 30 sept. 2009
+10 sep. 2009
+Anderson Sinclair
+575,22 $
+1er oct. au 31 déc. 2009
+5 nov. 2009
+Anderson Sinclair
+1 300,00 $
+1er oct. au 31 déc. 2009
+Murphy, Murphy and Mollins
+190,05 $
+1er avril au 30 juin 2010
+20 mai 2010
+Anderson Sinclair
+13 039,00 $
+1er janv. au 30 mars 2011
+24 mars 2011
+McGrath Boyd
+1 032,10 $
+Total : 29 732,80 $
+II. Question en litige [4] La question en litige soulevée dans cet appel est la suivante :
+Le ministre a-t-il à bon droit refusé les CTI demandés par l’appelante relativement aux frais d’avocat payés pendant les périodes en question?
+III. Les dispositions législatives pertinentes [5] Voici les principales dispositions de la LTA :
+SECTION I — Définitions et interprétation
+Définitions 123 (1) Les définitions qui suivent s’appliquent à l’article 121, à la présente partie et aux annexes V à X.
+« acquéreur »
+a) Personne qui est tenue, aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+b) personne qui est tenue, autrement qu’aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+c) si nulle contrepartie n’est payable pour une fourniture :
+i) personne à qui un bien, fourni par vente, est livré ou à la disposition de qui le bien est mis,
+ii) personne à qui la possession ou l’utilisation d’un bien, fourni autrement que par vente, est transférée ou à la disposition de qui le bien est mis,
+iii) personne à qui un service est rendu.
+Par ailleurs, la mention d’une personne au profit de laquelle une fourniture est effectuée vaut mention de l’acquéreur de la fourniture.
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l’exception de quelque projet ou affaire qu’entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l’affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures, sauf des fournitures exonérées, d’immeubles appartenant à la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures.
+« entreprise » Sont compris parmi les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois.
+« fourniture » Sous réserve des articles 133 et 134, livraison de biens ou prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation.
+SOUS-SECTION B — Crédit de taxe sur les intrants
+169. (1) Règle générale — Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+A × B
+où :
+A représente la taxe relative à la fourniture, à l’importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable;
+B
+a) dans le cas où la taxe est réputée, par le paragraphe 202(4), avoir été payée relativement au bien le dernier jour d’une année d’imposition de la personne, le pourcentage que représente l’utilisation que la personne faisait du bien dans le cadre de ses activités commerciales au cours de cette année par rapport à l’utilisation totale qu’elle en faisait alors dans le cadre de ses activités commerciales et de ses entreprises;
+b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d’améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l’immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l’immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l’a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[Non souligné dans l’original.]
+IV. Les faits pertinents [6] William Charles West (« M. West ») et Paul Gagnon (« M. Gagnon ») ont témoigné au procès de l’appelante. L’intimée n’a présenté aucun témoin.
+A. Contexte [7] En 1995, M. West a commencé à exploiter une entreprise de loterie péruvienne; il possédait aussi des entreprises de loterie au Nouveau-Brunswick.[1] Les entreprises du Nouveau-Brunswick ont été constituées en personne morale sous les raisons sociales 047438 NB Inc et 055455 NB Inc. (collectivement, les « sociétés du N.-B. »). Les entreprises péruviennes sont appelées Loterias del Peru S.A. (« LDP ») et World Lottery Consultants Corporation (« WLCC ») (collectivement, les « sociétés péruviennes »).
+[8] M. West contrôlait les actions des sociétés du N.-B. Les sociétés du N.-B. contrôlaient les actions de LDP.[2] Les preuves produites n’indiquent pas clairement si les sociétés du N.-B. contrôlaient également les actions de WLCC, mais WLCC était contrôlée par M. West.
+[9] En 1999, le comptable des sociétés du N.-B. a quitté ses fonctions et M. Gagnon, un comptable et un ami de longue date de M. West, a été embauché par l’entremise d’une société comptable appelée PG2 pour s’occuper des livres des sociétés du N.-B.[3] À cette époque, il y avait des irrégularités financières dans les sociétés péruviennes. Le mandat de M. Gagnon allait finalement consister à fournir également de l’aide au chapitre de la comptabilité des sociétés péruviennes, ce qu’il a fait jusqu’en 2001.[4] M. West a aussi embauché un avocat pour l’aider à régler les irrégularités financières des sociétés péruviennes. Ce faisant, l’avocat aurait pris le contrôle des sociétés péruviennes en faisant l’acquisition de toutes les actions de ces sociétés. M. West a affirmé dans son témoignage qu’il a intenté une action contre l’avocat pour abus de confiance et violation de l’obligation fiduciaire et a sollicité un recours en restitution des actions. Le numéro de dossier de l’action était M/C/0835/01.[5]
+[10] Selon M. West, en février 2007, une décision a été rendue dans le dossier M/C/0835/01 qui a ordonné la restitution des actions à M. West.[6] Une fois que le contrôle des sociétés péruviennes a été repris, une comptabilité se révélait nécessaire car l’entreprise était dans un piteux état.[7]
+[11] En 2007, l’appelante offrait des services de consultation en gestion, de comptabilité et de marketing, et son unique actionnaire et administrateur était M. Gagnon.[8] Le 14 septembre 2007, M. Gagnon a été embauché par WLCC par l’entremise de l’appelante, et une convention de mandat a été signée entre l’appelante et WLCC. L’appelante a été embauchée pour repérer diverses pièces d’équipement, pour veiller au recouvrement de prêts et de comptes débiteurs, pour restructurer divers biens et dettes, et pour réorganiser les sociétés péruviennes.[9] En échange de ses services, l’appelante recevrait 10 % de l’argent qu’elle récupérait.[10] M. Gagnon a en outre signalé que l’appelante est intervenue dans le dossier M/C/0835/01.[11] La preuve n’indique pas clairement quelles étaient la nature et l’étendue de la participation de l’appelante dans le dossier M/C/0835/01.
+[12] Selon M. Gagnon, l’appelante a déclaré comme revenu les 10 % qu’elle a reçus en vertu de la convention de mandat signée avec WLCC. L’appelante n’a pas déposé en preuve l’un quelconque de ses dossiers financiers. M. Gagnon a également affirmé que les 90 % restants des fonds ont été retournés aux sociétés péruviennes et que l’appelante a été autorisée à utiliser certains de ses fonds (M. Gagnon n’en a pas indiqué les montants exacts dans son témoignage) pour payer les frais d’avocat relatifs au dossier M/C/0835/01 et les autres droits d’action qui allaient éventuellement être cédés à l’appelante en 2008.[12]
+[13] M. West a affirmé dans son témoignage qu’en 2008, ses sociétés avaient épuisé leurs ressources financières et il a décidé de jouer sa dernière carte. Il a signé des contrats de cession, en accordant à l’appelante le droit de toucher les sommes issues de quatre actions en justice différentes dans lesquelles lui-même ou les sociétés du N.-B. étaient encore impliqués.[13] En vertu de ces contrats, l’appelante devait payer tous les frais d’avocat et les dépens et avait droit à la totalité des sommes issues des droits d’actions cédés. Selon M. Gagnon, l’appelante a obtenu tous les droits découlant des actions en justice et en a eu le plein contrôle, y compris sur la stratégie, les décisions d’ordre procédural et le règlement.[14]
+[14] Le contrat de cession a attribué à l’appelante une tâche supplémentaire, soit celle d’aider à résoudre les différends juridiques.[15] Selon M. Gagnon, le montant de 200 000 $ reçu à titre de règlement dans l’un des droits d’action en justice cédés à l’appelante a été déclaré à titre de revenu par l’appelante et utilisé pour payer les frais d’avocat.[16]
+B. Première cession : M/C/0402/07 [15] Le premier contrat de cession a été signé le 7 mai 2008 et concernait le dossier de la cour no M/C/0402/07.[17] L’appelante a payé 1 000 $ à M. West, le cédant, pour cette cession. L’action en justice a été intentée le 15 juin 2007 et elle impliquait M. West. Il y a eu désistement le 10 mars 2010.[18]
+C. Deuxième cession : M/C/0835/01, M/C/0720/04 et M/C/0042/05 [16] Un deuxième contrat de cession a été signé le 28 mai 2008 et concernait les causes numérotées M/C/0835/01, M/C/0720/04 et M/C/0042/05.[19] L’appelante a payé 3 000 $ à M. West, le cédant, pour cette cession.
+[17] En ce qui concerne la cause M/C/0835/01, l’action a été intentée le 5 septembre 2001 et impliquait M. West. Un jugement a été rendu le 21 février 2007.[20] Le recours en restitution des actions des sociétés péruviennes a été accordé.
+[18] En ce qui concerne la cause M/C/0720/04, l’action a été intentée le 13 août 2004 et impliquait les sociétés du N.-B.[21] Un jugement a été rendu le 24 novembre 2015, la référence neutre étant 2015 NBQB 231. Les sociétés du N.-B. ont été condamnées à payer des dépens de 56 875 $ par défendeur, plus les débours.[22] M. West a payé une partie de ces dépens avec un dépôt de garantie qu’il avait fourni à ses avocats.[23]
+[19] Deux décisions sur des requêtes ont également été rendues dans la cause M/C/0720/04 et elles ont été présentées en preuve. La première décision a été rendue le 16 janvier 2014.[24] Dans cette décision, la cour a cité un affidavit établi sous serment le 12 décembre 2013 par M. West, dans lequel il déclare ce qui suit :
+J’ai demandé aux avocats inscrits au dossier des plaignants de fixer la date du procès. Ci-jointe et produite sous la cote « A » se trouve une lettre de mes avocats, Murphy, Murphy, & Mollins, datée du 4 avril 2013, dans laquelle mon procureur estime à 10 jours la durée du procès pour cette action. [25]
+[20] La deuxième décision a été rendue le 28 mai 2014.[26] Dans cette décision, un affidavit établi sous serment le 14 mars 2014 par M. West est cité. M. West déclare ce qui suit dans cet affidavit :
+1. Je suis administrateur des deux plaignantes et j’ai en tout temps au cours du présent litige représenté les plaignantes et j’étais seul responsable de donner des instructions à l’avocat. [27]
+[21] En ce qui concerne la cause M/C/0042/05, l’action a été intentée le 12 janvier 2005 et a impliqué 047438NB Inc. Il y a eu désistement le 26 mai 2010. [28]
+V. Analyse [22] En règle générale, une entreprise qui exerce une activité commerciale peut demander des CTI. Trois conditions doivent être remplies pour qu’une personne ait le droit de demander un CTI en vertu du paragraphe 169(1). Les voici :
+1) La personne qui fait la demande (GMCL) doit avoir acquis la fourniture;
+2) La TPS doit être payable ou avoir été payée par la personne qui fait la demande à l’égard de la fourniture;
+3) La personne qui fait la demande doit avoir acquis la fourniture pour consommation ou utilisation dans le cadre de ses activités commerciales.[29]
+[23] Les deux premières conditions du paragraphe 169 de la LTA n’étaient pas en cause dans cette affaire; seule la troisième condition l’était. La troisième condition se rapporte aux activités commerciales. L’expression « activité commerciale » est définie au paragraphe 123(1) de la LTA. Conformément à la partie pertinente de la définition, l’activité commerciale d’un particulier comprend une entreprise exploitée avec une attente raisonnable de profit par ce particulier.
+[24] Pour avoir le droit de demander des CTI pour les services juridiques payés pendant la période en question, l’appelante doit prouver à la Cour, selon la prépondérance des probabilités, qu’elle a acquis les services juridiques dans le cadre de l’une de ses activités commerciales. L’appelante doit également prouver, selon la prépondérance des probabilités, qu’elle exerçait l’activité commerciale avec une attente raisonnable de profit.
+[25] Selon la preuve, l’appelante a exercé plusieurs activités commerciales. Avant 2007, l’appelant a exercé des activités dans le secteur des services de consultation en gestion, de comptabilité et de marketing.[30] La preuve n’indique pas clairement si ces activités commerciales étaient encore en cours pendant la période pertinente. En 2007, avant la signature des contrats de cession, l’appelante exerçait trois activités commerciales distinctes. La première activité consistait à mettre au point des logiciels pour LDP.[31] La deuxième activité consistait à veiller au recouvrement de comptes débiteurs et de prêts, à repérer diverses pièces d’équipement, à restructurer divers biens et dettes, et à réorganiser les sociétés péruviennes à titre de mandataire de WLCC.[32] La troisième activité consistait à prendre le contrôle d’une action en justice dans laquelle M. West ou les sociétés du N.-B. étaient en cause, conformément aux deux contrats de cession datés du 7 mai et du 28 mai 2008.[33]
+[26] L’appelante a soutenu que les services juridiques ont été acquis et utilisés dans le cadre de la troisième activité commerciale. Par conséquent, je dois d’abord déterminer si l’appelante exerçait une activité commerciale qui consistait à avoir le contrôle de l’action en justice cédée à l’appelante.
+[27] Dans la décision Kaye c. La Reine,[34] la Cour a exprimé le point de vue suivant sur la question de savoir si une entreprise est exploitée :
+[4] [...] C’est le caractère commercial de l’entreprise, révélé par sa structure, qui en fait une entreprise. L’intention subjective de faire de l’argent entre certes en ligne de compte, mais ce n’est pas le facteur déterminant, bien que l’absence d’une telle intention puisse nuire à l’assertion qu’une activité est une entreprise.
+[5] On ne peut considérer le caractère raisonnable de l’attente de profit de façon isolée. Il faut se demander : « Est-ce qu’une personne raisonnable qui examine une activité en particulier et applique des normes courantes de gestion d’entreprise affirmerait qu’il s’agit bien d’une entreprise? » Pour répondre à la question, la personne raisonnable fictive examinerait entre autres choses la structure du capital, les connaissances du participant et le temps consacré à l’activité. Elle évaluerait également si la personne qui prétend exploiter une entreprise a procédé de façon ordonnée et méthodique, de la manière dont une personne en affaires procéderait normalement.
+[...]
+[7] En fin de compte, les choses se résument à évaluer, en faisant preuve de sens pratique, l’ensemble des facteurs, en accordant à chacun l’importance qui convient dans le contexte global. Bien entendu, on ne doit pas faire fi de la vision et de l’imagination de l’entrepreneur, mais ce sont là deux aspects qui sont difficiles à évaluer à prime abord. En d’autres termes, si vous voulez qu’on vous traite comme un homme d’affaires, agissez en homme d’affaires.
+[28] Je souscris à ce point de vue. La question de savoir si une activité peut être considérée comme une activité commerciale est une question de fait. D’après les éléments de preuve dont je suis saisi et selon la prépondérance des probabilités, je crois que l’appelante n’a pas exploité une entreprise à l’égard d’une activité commerciale qui consistait à contrôler des actions en justice. J’en arrive à cette conclusion pour les motifs suivants :
+1- Il n’y a aucune preuve que, avant la signature des contrats de cession, l’appelante comptait de l’expérience en ce qui concerne des actions en justice ou leur gestion. On ne m’a fourni aucun élément de preuve quant à la connaissance par l’appelante des coûts associés à la préparation d’un procès ou au fait d’aller devant les tribunaux. On ne m’a présenté aucun élément de preuve de la connaissance par l’appelante de l’issue financière éventuelle d’une quelconque action en justice, y compris les actions en justice cédées à l’appelante. M. Gagnon a affirmé dans son témoignage que l’appelante n’a participé qu’à des activités dans le secteur des services de consultation en gestion, de comptabilité et de marketing avant la signature des cessions. M. Gagnon n’est pas un avocat; il n’y a aucune preuve que lui-même ou l’appelante a déjà été impliqué dans une action en justice avant la signature des cessions, et il n’y a aucune preuve d’un plan d’affaires ou de projections financières ayant été réalisés pour cette prétendue activité commerciale.
+2- Les dossiers attribués à l’appelante visaient M. West ou les sociétés du N.-B. L’étendue des connaissances de l’appelante sur M. West ou sur les sociétés du N.-B. n’a pas été présentée en preuve.
+3- Selon M. West, le dossier M/C/0835/01 avait été résolu en date du 21 février 2007, environ 15 mois avant que le dossier soit cédé à l’appelante. Malgré le fait que les instances connexes demeuraient en suspens, elles constituaient des actions distinctes. Aucune preuve n’a été présentée pour établir qu’une quelconque activité commerciale était possible en ce qui concerne la cause M/C/0835/01.[35]
+4- En ce qui a trait à la cause M/C/0720/04, M. West détenait le contrôle sur cette action en justice, comme l’indiquent ses affidavits datés du 12 décembre 2013 et du 14 mars 2014. Cela ne concorde pas avec le témoignage de M. Gagnon et également avec ce qui est mentionné dans le mémoire préparatoire de l’appelante. L’appelante affirme dans son mémoire que [traduction] « Ni M. West, ni ses entreprises numérotées n’ont conservé d’intérêt financier ou de capacités décisionnelles en ce qui a trait aux actions cédées ».[36] Outre M. West et M. Gagnon, aucun autre témoin n’a été entendu sur la question de savoir si M. West ou l’appelante contrôlait les instances. Un avocat qui aurait été constitué en ce qui a trait aux actions en justice cédées à l’appelante aurait pu témoigner à ce propos, mais aucun ne l’a fait.
+5- Il y a eu désistement dans la cause M/C/0042/05 le 26 mai 2010. Selon M. West, cette affaire s’est soldée par un règlement de quelques centaines de milliers de dollars. M. West était présent dans le bureau de l’avocat lorsque les discussions concernant les actions ont eu lieu, ce qui indique en outre son implication dans l’instance judiciaire cédée à l’appelante.[37]
+Mis à part le témoignage de M. Gagnon et de M. West, l’appelante n’a présenté aucune preuve voulant qu’un règlement en espèces ait été reçu ou qu’une entente ait été conclue. Je crois qu’une personne dont les activités consistent à contrôler des actions en justice conserverait des registres détaillés concernant de telles choses.
+6- M. West a payé les dépens accordés par une décision du tribunal dans la cause M/C/0720/04. Ni M. Gagnon ni M. West n’ont été en mesure de fournir une explication quant à la raison pour laquelle l’appelante n’a pas été la personne qui a payé l’intégralité du montant de ces frais même si elle était tenue de le faire conformément au contrat de cession. Cela contredit également les faits énoncés dans le mémoire préparatoire de l’appelante dans lequel elle déclare : « Ni M. West, ni ses entreprises numérotées n’ont conservé d’intérêt financier [...] en ce qui a trait aux actions cédées ».[38]
+7- En ce qui concerne les actions en justice M/C/0402/07 et M/C/0042/05, M. Gagnon a déclaré dans son témoignage que celles-ci ont fait l’objet d’un règlement dans le cadre des activités commerciales de l’appelante. Pourtant, l’appelante n’a pas été en mesure de fournir des documents à l’appui d’un règlement. Par ailleurs, M. Gagnon affirme que le montant du règlement a été déclaré dans le revenu de l’appelante, mais aucun état financier ou déclaration d’impôt n’a été présenté devant la Cour. Je crois qu’une personne dont les activités consistent à contrôler des actions en justice conserverait des registres détaillés concernant de telles choses.
+[29] M. Gagnon a affirmé dans son témoignage que l’entreprise de l’appelante consistait à contrôler les actions en justice et à payer les frais d’avocat associés à ces instances dans l’espoir d’être récompensée par l’obtention de décisions favorables ou de règlements. J’estime qu’il n’aurait pas été logique sur le plan commercial pour l’appelante de s’impliquer dans une entreprise dont, selon la preuve, elle ne connaissait rien. La preuve établit qu’avant 2007, l’appelante exerçait des activités dans le secteur des services de consultation en gestion, de comptabilité et de marketing : rien qui ne s’apparente, même de loin à un contrôle ou une gestion d’actions en justice. Comme nous l’avons mentionné précédemment, aucune preuve n’a été présentée concernant le fait que l’appelante connaissait M. West ou les sociétés du N.-B. ou l’objet des actions en justice cédées à l’appelante.
+[30] Je crois que cela ne serait pas logique d’un point de vue commercial d’exploiter une entreprise ou d’exercer une activité commerciale sans avoir fait les projections financières appropriées et élaboré un plan d’affaires. Je crois qu’une personne dont les activités consistent à contrôler des actions en justice conserverait des registres détaillés concernant les règlements et tiendrait des documents financiers et comptables appropriés. À l’exception d’une facture[39] de Anderson Sinclair datée du 20 mai 2010 et des contrats de cession, aucun document montrant qu’une activité commerciale était susceptible d’être exercée n’a été présenté en preuve.
+[31] Je crois que cela n’aurait été aucunement logique d’un point de vue commercial pour l’appelante de signer un contrat de cession lui donnant le contrôle d’une action en justice qui avait déjà été résolue. Cela n’aurait pas été logique non plus pour l’appelante de redonner le contrôle de l’instance judiciaire à M. West tout en payant les frais d’avocat et les dépens associés à ces procédures, à moins qu’il y ait eu un motif d’ordre commercial pour agir de la sorte. Au procès, on ne m’a présenté aucune explication pour cette conduite de la part de l’appelante et cette conduite allait à l’encontre des modalités du contrat de cession.
+[32] Enfin, cela n’aurait été aucunement logique au plan commercial de la part de l’appelante de laisser M. West payer les dépens accordés par une décision judiciaire relativement à l’une des instances cédées, sauf s’il y avait un motif d’ordre commercial pour agir ainsi, et aucun motif ne m’a été proposé au procès. De toute évidence, cette conduite était également incompatible avec les modalités des contrats de cession.
+[33] Compte tenu de ce qui précède, je conclus, selon la prépondérance des probabilités, que l’appelante n’a pas exploité une entreprise qui consistait à contrôler des actions en justice, y compris prendre des décisions concernant la stratégie et le règlement. En me fondant sur les faits et motifs énoncés aux paragraphes 29 à 33 ci-dessus, je crois que l’appelante n’a pas agi de la façon dont un entrepreneur est censé normalement agir dans le cadre de l’exploitation d’une entreprise. Compte tenu de ces faits et motifs, je crois également qu’une personne raisonnable, qui appliquerait des normes courantes de gestion d’entreprise, ne conclurait pas que l’appelante exploitait une entreprise qui consistait à contrôler des actions en justice.
+[34] Ayant conclu que l’appelante n’exerçait pas une activité commerciale, il n’est pas nécessaire pour moi de déterminer si une activité commerciale a été exercée avec une attente raisonnable de profit.
+[35] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 23e jour de juin 2016.
+« Sylvain Ouimet »
+Juge Ouimet
+RÉFÉRENCE :
+2016 CCI 156
+No DU DOSSIER DE LA COUR :
+2014-3893(GST)I
+INTITULÉ :
+630413NB Inc. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Moncton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE :
+Le 22 février 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Sylvain Ouimet
+DATE DU JUGEMENT :
+LE 23 juin 2016
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Edward J. McGrath
+Avocate de l’intimée :
+Me Jill Chisholm
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Edward J. McGrath
+Cabinet :
+McGrath Boyd
+Moncton (Nouveau-Brunswick)
+Avocate de l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)
+[1] Transcription, p. 78, interrogatoire principal de M. West.
+[2] Transcription, p. 28, interrogatoire principal de M. Gagnon.
+[3] Transcription, p. 4, interrogatoire principal de M. Gagnon; transcription, p. 78 et 79, interrogatoire principal de M. West.
+[4] Transcription, p. 79 à 82, interrogatoire principal de M. West.
+[5] Transcription, p. 79 et 80, interrogatoire principal de M. West.
+[6] Transcription, p. 80, interrogatoire principal de M. West. Cette décision, répertoriée West v. Wilbur, 2007 NBQB 67, n’a pas été présentée en preuve. Une décision subséquente a été rendue le 13 mars 2007 et celle-ci est répertoriée West v. Wilbur, 2007 NBQB 95.
+[7] Transcription, p. 80 et 81, interrogatoire principal de M. West.
+[8] Transcription, p. 23, interrogatoire principal de M. Gagnon.
+[9] Transcription, p. 8, interrogatoire principal de M. Gagnon; transcription, p. 81, interrogatoire principal de M. West.
+[10] Transcription, p. 8 et 9, interrogatoire principal de M. Gagnon.
+[11] Transcription, p. 11 et 12, interrogatoire principal de M. Gagnon.
+[12] Transcription, p. 25 et 30, interrogatoire principal de M. Gagnon.
+[13] Transcription, p. 82 et 83, interrogatoire principal de M. West.
+[14] Transcription, p. 13, 14, 34 et 37, interrogatoire principal de M. Gagnon.
+[15] Transcription, p. 12 et 13, interrogatoire principal de M. Gagnon.
+[16] Transcription, p. 16, interrogatoire principal de M. Gagnon.
+[17] Pièce R-5.
+[18] Pièce A-2, onglet 1.
+[19] Pièce R-5.
+[20] Pièce A-2, onglet 1.
+[21] Pièce A-2, onglet 1.
+[22] Pièce R-8, p. 35-36.
+[23] Transcription, p. 95, contre-interrogatoire de M. West.
+[24] Pièce R-7, p. 4 et 5.
+[25] Pièce R-7, p. 5.
+[26] Pièce R-6. Aucuns dépens n’ont été accordés.
+[27] Pièce R-6, p. 1.
+[28] Pièce A-2, onglet 3.
+[29] Voir General Motors of Canada Ltd c. La Reine, 2008 CCI 117, au paragraphe 30.
+[30] Transcription, p. 23, interrogatoire principal de M. Gagnon.
+[31] Pièce R-1 et transcription, p. 57, contre-interrogatoire de M. Gagnon.
+[32] Pièce R-2, transcription, p. 8, interrogatoire principal de M. Gagnon; transcription, p. 81, interrogatoire principal de M. West.
+[33] Transcription, p. 13, 14, 34 et 37, interrogatoire principal de M. Gagnon.
+[34] Kaye c. La Reine, [1998] TCJ no 265 (QL), 98 DTC 1659.
+[35] Transcription, p. 79 et 80, interrogatoire principal de M. West. Pièce A-2, onglet 3.
+[36] Mémoire préparatoire de l’appelante, p. 3, paragraphe 12.
+[37] Transcription, p. 93 et 94, contre-interrogatoire de M. West.
+[38] Mémoire préparatoire de l’appelante, p. 3, paragraphe 12.
+[39] Pièce A-1.

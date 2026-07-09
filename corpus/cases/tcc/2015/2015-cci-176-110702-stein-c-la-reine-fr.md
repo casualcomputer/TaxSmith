@@ -1,0 +1,263 @@
+---
+title: "Stein c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110702/index.do"
+last_modified: "2015-07-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 176"
+citation2: ""
+neutral_citation: "2015 CCI 176"
+decision_date: "2015-07-09"
+language: "fr"
+item_id: "110702"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2670
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:27:34.324000+00:00"
+cases_cited_count: 12
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7d9f59fb7c3841775471d8b7b435b4e225b11aa2b58184c2d39815701a00e126"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stein c. La Reine
+
+- Citation: 2015 CCI 176
+- Decision date: 2015-07-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2670, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stein c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-07-09
+Référence neutre
+2015 CCI 176
+Numéro de dossier
+2013-232(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-232(IT)I
+ENTRE :
+JEAN STEIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 15 janvier 2014, les 27 et 28 novembre 2014 et le 28 janvier 2015 à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Représentant de l'appelant :
+Christian Fréchette
+Avocat de l'intimée :
+Me Dany Leduc
+JUGEMENT
+L’appel à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu en date du 9 novembre 2010 concernant les années d’imposition 2003 à 2007 et du 18 mars 2011 concernant l’année d’imposition 2009 est rejeté avec frais selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2015.
+« Réal Favreau »
+Juge Favreau
+Référence : 2015 CCI 176
+Date : 20150709
+Dossier : 2013-232(IT)I
+ENTRE :
+JEAN STEIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L’appelant a logé un appel à l’encontre des cotisations en date du 9 novembre 2010 concernant les années d’imposition 2003 à 2007 et en date du 18 mars 2011 concernant l’année d’imposition 2009, établies par le ministre du Revenu national (le « ministre ») par lesquelles il a refusé la déduction des dépenses suivantes réclamées par l’appelant dans ses déclarations de revenus produites pour les années d’imposition 2003 à 2007 et pour l’année d’imposition 2009 :
+2003 :
+2004 :
+2005 :
+2006 :
+2007 :
+2009 :
+54 115 $
+81 716 $
+81 851 $
+76 926 $
+110 816 $
+78 723 $
+[2] Des pénalités en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée (la « Loi »), ont également été imposées à l’égard de chacune des années d’imposition en litige. Les pénalités imposées sont les suivantes :
+2003 :
+2004 :
+2005 :
+2006 :
+2007 :
+2009 :
+4 075 $
+6 609 $
+6 446 $
+5 855 $
+9 361 $
+5 539 $
+[3] L’appelant a demandé dans son avis d’appel que la procédure informelle, prévue aux articles 18.1 à 18.28 de la Loi sur la Cour canadienne de l’impôt, régisse son appel.
+[4] Le 7 juillet 2009, l’appelant a produit des déclarations de revenus pour les années d’imposition 2003 à 2007 dans lesquelles, il a déclaré un revenu total de zéro pour chacune de ces années. Le 30 juillet 2008, le ministre a émis à l’appelant des notifications à l’effet qu’aucun impôt n’était payable à l’égard de ces mêmes années d’imposition.
+[5] Le ou vers le 31 décembre 2009, l’appelant a produit des déclarations de revenus modifiées à l’égard des années d’imposition 2003 à 2007 et le 11 août 2010, il a produit une déclaration de revenus à l’égard de l’année d’imposition 2009 lesquelles reflétaient les montants suivants :
+2003
+2004
+2005
+2006
+2007
+2009
+Revenus totaux
+58 488$
+87 251$
+83 310$
+83 856$
+117 854$
+95 007$
+Autres déductions
+54 115$
+81 716$
+81 851$
+76 926$
+110 816$
+78 723$
+[6] Pour établir et maintenir les cotisations, le ministre a tenu pour acquis les conclusions et les hypothèses de fait suivantes, énoncées au paragraphe 11 de la réponse à l’avis d’appel modifiée :
+a) Au cours des années en litige, l’appelant travaillait à titre d’Hydrologue pour Hydro Québec;
+b) les revenus d’emploi provenant de cette source s’élevaient à 58 488$ pour l’année 2003, à 87 249$ pour l’année 2004, à 88 237$ pour l’année 2005, à 83 856$ pour l’année 2006, à 117 854$ pour l’année 2007 et à 95 367$ pour l’année 2009;
+c) au cours de ces mêmes années, l’appelant a réclamé à titre « d’autres déductions » ou de « déductions supplémentaires » un montant de 54 115$ pour l’année 2003, de 81 716 $ pour l’année 2004, de 81 851$ pour l’année 2005, de 76 926$ pour l’année 2006, de 110 816$ pour l’année 2007 et de 78 723$ pour l’année 2009, pour des dépenses d’animateur et de frais d’auteur provenant de services offerts par lui-même, en vertu de ce qu’il qualifiait de « fiscalité humaine », une stratégie fiscale basée sur l’existence de deux contribuables à l’intérieur de la même personne, selon laquelle la personne physique est la main d’œuvre spécialisée de la personne légale;
+d) l’appelant voulait ainsi réduire, pour chacune des années en litige, son impôt fédéral payable à zéro;
+e) durant ces mêmes années, l’appelant n’a déclaré aucun revenu d’entreprise et n’a soumis aucun document démontrant qu’il exploitait une quelconque entreprise;
+f) l’appelant a soumis une Liste des dépenses d’animation remboursées, faisant état des dépenses personnelles qu’il aurait prétendument encourus pour chacune des années en litige.
+[7] Pour établir et maintenir les pénalités pour faute lourde imposées à l’appelant, le ministre s’est appuyé sur les faits suivants, énoncés au paragraphe 12 de la réponse à l’avis d’appel modifiée :
+a) les faits énoncés au paragraphe 11 de la présente réponse à l’avis d’appel;
+b) l’envergure des déductions réclamées pour chacune des années en litige;
+c) l’appelant, un hydrologue de profession, avait un niveau d’instruction important, suffisant pour plaider l’ignorance quant à la non-déductibilité des montants réclamés;
+d) même avait un faible niveau d’instruction, Une personne raisonnable aurait pu aisément douter de la légitimité des déductions réclamées;
+e) l’appelant a signé un affidavit dans lequel il confirme ses convictions dans le stratagème fiscal visant à lui permettre d’éluder le paiement de l’impôt pour chacune des années visées.
+[8] À l’ouverture de l’audience, les parties ont indiqué que les montants réclamés par l’appelant à titre de dépenses dans ses déclarations de revenus ne sont pas en litige. Par conséquent, le seul point en litige ne concerne que les pénalités.
+[9] La pénalité pour faute lourde prévue au paragraphe 163(2) de la Loi est applicable si l’intimée démontre que le contribuable a fait, sciemment ou dans des circonstances qui justifient l’imputation d’une faute lourde, un faux énoncé dans sa déclaration de revenu. La notion de « faute lourde » dans ce contexte doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui correspond à une action délibérée, une indifférence par respect de la Loi (voir l’arrêt Venne c. Canada, [1984] A.C.F. no 314 (QL) (C.F. 1re inst.).
+[10] Le paragraphe 163(2) de la Loi est libellé ainsi :
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[...]
+[11] La situation que nous avons ici est celle d’un contribuable très instruit qui détient trois diplômes universitaires et qui occupe un emploi permanent auprès d’Hydro-Québec, une société d’état. Son revenu provenant d’Hydro-Québec est sa seule source de revenu et est assujetti aux déductions à la source normalement prélevées par les employeurs québécois.
+[12] Pour une raison quelque peu obscure, l’appelant n’a pas produit de déclaration de revenus fédérale pour les années 2003 à 2007. Peut-être pensait-il que ce n’était pas important de le faire vu que des impôts étaient déduits à la source? Par contre, lors de son témoignage, il a affirmé qu’il ne comprenait pas la Loi et que c’est pour cette raison qu’il n’a pas produit ses déclarations de revenus et qu’il a commencé à étudier la Loi en 2004.
+[13] Suite à des demandes de produire des déclarations de revenus pour les années d’imposition 2003 à 2007 de la part de l’Agence du Revenu du Canada (l’« ARC », l’appelant a produit des déclarations de revenus datées du 6 juillet 2009 pour les années en question. Toutes ces déclarations de revenus ont été produites en indiquant un revenu total et un impôt fédéral net de zéro et en indiquant que le revenu net, le revenu imposable et le montant total à payer étaient en processus d’évaluation. Lesdites déclarations portent la mention suivante en guise de signature : POUR JEAN STEIN » et le nom, l’adresse et le numéro de téléphone de Jean-Pierre Ste-Marie, comptable, apparaissent dans la case réservée aux professionnels de l’impôt seulement.
+[14] Les déclarations de revenus produites pour les années d’imposition 2003 à 2007 ont été cotisées telles que produites.
+[15] Par la suite, l’année d’imposition 2008 s’est rajoutée aux années pour lesquelles les déclarations de revenus n’ont pas été produites dans les délais prescrits. La déclaration de revenus pour l’année 2008 n’a pas été produite lors de l’audience mais la déclaration modifiée pour cette année qui porte la date du 25 août 2009 a été produite à l’audience. La déclaration modifiée pour l’année d’imposition 2008 était similaire aux déclarations de revenus modifiées pour les années 2003 à 2007.
+[16] L’appelant a produit auprès de l’ARC des déclarations de revenus modifiées pour chacune des années d’imposition 2003 à 2007. Les déclarations de revenus modifiées portent les dates suivantes :
+2003 : 22 décembre 2009
+2004 : 29 décembre 2009
+2005 : 30 décembre 2009
+2006 : 4 janvier 2010
+2007 : 22 janvier 2010
+Toutes ces déclarations de revenus modifiées portent la signature de Jean Stein et le nom de Jean-Pierre Ste-Marie, comptable, apparaît toujours dans la case réservée aux professionnels de l’impôt.
+[17] Dans toutes les déclarations de revenus modifiées pour les années 2003 à 2007, l’appelant a réclamé des dépenses d’animation basées sur une liste des dépenses d’animation remboursées et des frais d’auteur annuels de façon à ramener son revenu net et son revenu imposable à 3 500 $, son impôt fédéral net à zéro et à réclamer le remboursement des impôts retenus à la source.
+[18] La déclaration de revenus de l’appelant pour l’année d’imposition 2009 est datée du 6 août 2010 et a donc été produite en retard. L’appelant l’a signée et le nom de Jean-Pierre Ste-Marie apparaît dans la case réservée aux professionnels de l’impôt. Comme pour les déclarations de revenus pour les années antérieures, l’appelant a réclamé une déduction au montant de 78 723,25$ comme « Déductions supplémentaires » sans soumettre l’annexe décrivant la nature des dépenses réclamées. Le revenu net déclaré était de 87 470,50 $ tandis que le revenu imposable s’élevait à 8 747,05 $. L’impôt fédéral net à payer était de zéro et le remboursement demandé était de 12 185,45 $.
+[19] Suite à la production de la déclaration de revenus de l’appelant pour l’année d’imposition 2009, madame Micheline Tessier, une agente travaillant dans la section 564-1-1 de l’examen au bureau du Centre fiscal de Shawinigan-sud de l’ARC, a demandé à l’appelant, par une lettre datée du 29 septembre 2010, de démontrer que le montant total demandé à titre de « Déductions supplémentaires » est admissible aux fins de l’impôt sur le revenu et de soumettre les documents originaux justifiant les montants réclamés.
+[20] Par une lettre datée du 19 novembre 2010, l’appelant a répondu à la demande d’information en expliquant sa position et en fournissant les explications suivantes :
+1- JEAN STEIN # […] est un contribuable tel que définit par la Loi de l’impôt sur le revenu (L.I.R.) : « Contribuable » comprend toute personne tenue ou non de payer de l’impôt »
+2- JEAN STEIN # […] est une personne telle que définit par la L.I.R. : « Personne » sont comprises parmi les personnes tant les sociétés … »
+3- La L.I.R. définit le mot société de cette façon : « Société » Sauf, l’expression société de personnes, s’entend d’une personne morale y compris une compagnie.
+4- JEAN STEIN # […], par défaut, est une personne morale ou légale créée de toutes pièces par le gouvernement comme sont créées toutes les sociétés ou les personnes morales. Le numéro d’assurance social confirme la présence de droits et d’obligations provenant de la L.I.R. Il n’y a que la L.I.R. pour créer l’impôt à payer à un contribuable. Ce contribuable est une personne légale ou morale à l’exception du particulier.
+5- Le numéro d’assurance sociale ne peut pas identifier une personne physique puisque le Certificat de naissance, essentiel à l’obtention d’un NAS, n’identifie pas une personne physique. Il ne fait que confirmer la présence d’une personne légale.
+6- JEAN STEIN # […] ne peut pas être un particulier selon la définition de la L.I.R. « Particulier » signifie une personne autre qu’une société et par extrapolation autre qu’une personne légale.
+7- JEAN STEIN # […], en tant que personne morale et légale, est dans l’obligation d’utiliser les services d’une personne physique pour réaliser son objet.
+8- Denis Charles Jean de la famille Stein est un particulier tel que définit par la L.I.R. puisqu’il est une personne autre qu’une société. Seule la personne physique peut être une personne autre qu’une société. Le Droit définit la personne physique comme un support à la personne légale.
+9- Denis Charles Jean de la famille Stein est une personne physique telle que décrite par les Cours de justice canadiennes; la personne physique est un être humain qui détient une capacité juridique. La personne physique peut acquérir et exercer des droits et obligations.
+10- JEAN STEIN # […] est une personne légale telle que décrite par les cours de justice canadiennes : les personnes morales sont créées par le gouvernement. Ce sont des êtres fictifs à qui l’on accorde des droits et des obligations.
+11- L’équation est la suivante : la dépense de la main d’oeuvre de la personne morale JEAN STEIN # […] est le revenu de la personne physique Denis Charles Jean de la famille Stein le particulier.
+12- Les dépenses de la personne physique ne sont réglementées ni par la L.I.R. ni par ses règlements. D’ailleurs il n’y a aucun formulaire ou guide pour que la personne physique, le particulier, puisse aider le Ministre à estimer l’impôt qu’il devrait payer.
+13- Le Ministre du revenu national est responsable de faire appliquer la Loi de l’impôt sur le revenu et est la seule personne au Canada qui puisse fixer l’impôt à payer d’un contribuable. Par contre, il doit faire preuve de diligence.
+14- Il est alors judicieux de signifier au ministre, sous forme de lettre ou de contrat ou de convention, les droits de la personne physique et de sa capacité juridique à contracter une personne morale.
+15- Il fut pris l’initiative de signifier au Ministre du revenu du Canada que la personne morale JEAN STEIN # […] pour exécuter ses mandats et obligations, doit acquitter des frais pour obtenir les services de Denis Charles Jean de la famille Stein.
+[21] L’appelant a aussi fourni avec sa lettre du 19 novembre 2010 un document intitulé « Pièce justificative : état de compte à payer », par lequel il a détaillé le revenu à partager entre la personne légale et la personne physique et, au bas du document, il est indiqué qu’il s’agit d’une confirmation de paiement.
+[22] Par une lettre datée du 15 décembre 2010, madame Micheline Tessier a informé l’appelant que les informations fournies dans la lettre du 19 novembre 2010 étaient insuffisantes puisqu’il n’avait pas fourni de pièces justificatives à l’appui du montant réclamé à titre de « Déductions supplémentaires », ni démontré l’admissibilité de ces dépenses aux fins de la Loi. L’appelant a également été informé que la pénalité du paragraphe 163(2) de la Loi peut être prélevé dans le cas où un contribuable fait une omission ou un faux énoncé dans une déclaration de revenus.
+[23] Suite à la lettre de l’ARC du 15 décembre 2010, l’appelant s’est constitué un représentant, monsieur Christian Fréchette, vue l’impossibilité de satisfaire les demandes de l’ARC et n’a pas fourni d’autres explications, ni d’autres documents à l’égard de l’année 2009.
+[24] Madame Micheline Tessier a témoigné à l’audience. Elle a affirmé ne pas détenir de carte d’identité de l’ARC montrant qu’elle est autorisée par le ministre à faire des vérifications comme l’exige l’article 231.1 de la Loi. Madame Tessier a confirmé qu’elle n’a pas fait de vérification sur place, des activités de l’appelant, qu’elle n’a jamais parlé à l’appelant et que toutes ses communications avec lui ont été par des lettres. Elle a également dit qu’elle n’avait pas fait vérifier la signature de l’appelant au bas de sa déclaration de revenus de 2009. L’historique du dossier, le rapport de vérification et le rapport sur la pénalité qui ont été préparés par madame Tessier ont été déposés en preuve.
+[25] Les déclarations de revenus modifiés de l’appelant pour les années d’imposition 2003 à 2007 ont fait l’objet d’un examen au bureau de l’ARC situé au Centre fiscal de Shawinigan-sud. Monsieur Robert Villemure était chargé du dossier. Son examen a commencé au mois d’avril 2010 et le 29 avril 2010, il a adressé une lettre à l’appelant lui demandant de démontrer que les montants réclamés à titre de déductions étaient admissibles aux fins de la Loi et de soumettre les documents originaux justifiant les montants réclamés.
+[26] Par une lettre datée du 17 juin 2010, l’appelant a répondu à la lettre datée du 29 avril 2010 de monsieur Villemure. Il n’a pas fourni les informations demandées, ni de documents justifiant les montants réclamés. Il a, par contre, joint à sa lettre une autre lettre datée du même jour, laquelle reprenait essentiellement les mêmes points que les points mentionnés dans sa lettre datée du 19 novembre 2010 adressée à madame Micheline Tessier (voir les paragraphes 20 et 21 ci-dessus).
+[27] Au cours de son examen, monsieur Robert Villemure a demandé, au moyen du formulaire T134, que le dossier de l’appelant soit transféré à la division de l’exécution, vu que le contribuable faisait possiblement partie d’un stratagème lié à des pertes d’entreprise discutables. Sa demande datée du 30 juin 2010 a été refusée le 30 juillet 2010 en raison de la charge de travail actuelle de ladite division.
+[28] Par une lettre datée du 13 août 2010, monsieur Robert Villemure a informé l’appelant que les informations fournies dans sa lettre du 17 juin 2010 étaient insuffisantes puisqu’il n’avait pas fourni de pièces justificatives à l’appui des montants réclamés à titre « d’autres déductions », ni démontré l’admissibilité de ces dépenses aux fins de la Loi. L’appelant a également été informé que la pénalité du paragraphe 163(2) de la Loi peut être prélevée dans le cas où un contribuable fait une omission ou un faux énoncé dans une déclaration de revenus.
+[29] Par des lettres datées du 12 et du 16 septembre 2010, l’appelant a répondu à la lettre datée du 13 août 2010 de monsieur Villemure. L’appelant n’a pas produit de pièces justificatives mais il a produit des annexes montrant un partage différent du revenu entre la personne légale (10%) et la personne physique (90%).
+[30] Par une lettre datée du 18 octobre 2010, monsieur Robert Villemure a informé l’appelant que l’ARC était en désaccord avec la position prise par l’appelant dans ses lettres du 12 et du 16 septembre 2010. Suite à cette lettre, de nouvelles cotisations ont été établies en date du 9 novembre 2010 pour chacune des années d’imposition 2003 à 2007.
+[31] Monsieur Robert Villemure a témoigné à l’audience et il a confirmé qu’il avait effectué son examen au bureau de l’ARC et qu’il n’a pas eu de communication verbale avec l’appelant. Il a affirmé détenir une carte d’identification avec photographie lui donnant accès aux bureaux de l’ARC. Aucune description de ses pouvoirs n’apparaît sur cette carte. Dans le cadre de son témoignage, le formulaire T134, le rapport de vérification au bureau, l’historique du dossier, le plan de vérification et feuilles de travail ont été déposés en preuve.
+[32] Madame Sylvie Desbiens, agente des appels depuis 26 ans à l’ARC, a traité les avis d’opposition produits par l’appelant pour les années d’imposition 2003 à 2007 et 2009. Madame Desbiens a témoigné à l’audience et elle a confirmé avoir adressé à l’appelant une lettre datée du 10 septembre 2012 par laquelle elle lui a transmis des documents devant lui permettre de se familiariser avec la position de l’ARC concernant le stratagème fiscal utilisé. L’appelant a répondu au moyen d’une lettre datée du 19 novembre 2012 par laquelle il lui a transmis un rapport d’opposition contenant les motifs et les détails de son opposition aux cotisations de même qu’un cahier de pièces comprenant notamment un affidavit de Jean Stein daté du 16 novembre 2012, joint en annexe au présent jugement.
+[33] Selon madame Desbiens, l’appelant n’a rien fourni pour justifier la déduction des dépenses réclamées et elle a conclu que les pénalités avaient été correctement imposées. Son rapport sur l’opposition a été déposé en preuve. À la page 3 de ce rapport, il est indiqué ce qui suit : « M. Stein affirme qu’il n’a pas signé ses déclarations. L’enquêteur M. Martin Gagnon du BSF Laval l’a confirmé ».
+[34] L’appelant a témoigné à l’audience. Il a confirmé détenir un baccalauréat et une maîtrise en génie forestier de l’Université Laval et un doctorat en hydrologie d’une université américaine. Depuis 2003, il travaille exclusivement pour Hydro-Québec. L’appelant a indiqué qu’il avait rencontré monsieur Serge Fréchette lors d’une présentation sur invitation sur les implications du jugement Kennedy rendu en 2000 en Ontario traitant de la fiscalité humaine. L’appelant a indiqué qu’il avait versé 1 300 $ à M. Serge Fréchette pour l’avoir renseigné sur la fiscalité humaine et 700 $ à son comptable monsieur Jean-Pierre Ste-Marie, pour la préparation de ses déclarations de revenus, qu’il espérait recouvrer à même ses remboursement d’impôts.
+[35] L’appelant a révélé que M. Serge Fréchette lui avait suggéré de produire des déclarations de revenus initiales de la façon dont il l’a fait et que les mentions « en processus d’estimation » ont été ajoutées par le comptable. L’appelant n’a pas signé les déclarations de revenus initiales mais il les a vues, il a fait une copie et il les a remises en mains propres à M. Hatem Radhouane de l’ARC. L’appelant a affirmé ne pas avoir signé les déclarations de revenus initiales par peur de faire une fausse déclaration et ne pas avoir produit ses déclarations de revenus parce qu’il ne comprenait pas la Loi.
+[36] L’appelant a de plus affirmé qu’il n’a pas signé les déclarations de revenus modifiées par peur de faire de fausses déclarations. Il a prétendu que les signatures au bas des déclarations de revenus modifiées ne sont pas les siennes.
+[37] L’appelant a reconnu qu’il avait complété les espaces blancs du fichier Excel fourni par M. Serge Fréchette pour établir les listes des dépenses d’animation remboursées et des frais d’auteur annuels. L’appelant a également admis qu’il n’a jamais indiqué à l’ARC qu’il n’était pas d’accord avec les déclarations de revenus produites. De plus, il a reconnu qu’il n’a pas consulté un expert en fiscalité pour se faire conseiller quant à la manière de produire ses déclarations de revenus.
+[38] Lors du contre-interrogatoire de l’appelant, l’intimée a déposé le programme d’un séminaire intitulé « Seminar for Freedom Advocates », tenue le 15 septembre 2001 à Longueuil au sous-sol de l’église Notre-Dame de Grâce située au 700, boul. Ste-Foy, auquel l’appelant a participé en tant que conférencier en compagnie notamment de M. Eldon Warman, le grand-père du mouvement « Detax » et de M. Daniel Lavigne, la force derrière le mouvement « Refusetax ».
+Analyse
+[39] Dans le présent cas, je ne crois pas que l’interprétation fournie par l’appelant soit raisonnable dans les circonstances. À mon avis, le ministre a rencontré son fardeau de la preuve et a établi sans ambiguпté que l’appelant a, sciemment ou dans des circonstances équivalant à faute lourde, participé à la production de fausses réclamations de dépenses d’entreprise dans ses déclarations de revenus pour les années d’imposition 2003 à 2007 et pour l’année d’imposition 2009.
+[40] Notre Cour a souvent eu l’occasion de se prononcer sur l’interprétation à donner au paragraphe 163(2) de la Loi et sur son application dans les cas où comme dans ce cas-ci, les contribuables ont réclamé des déductions pour des pertes d’entreprise fictives dans le but d’obtenir d’importants remboursements d’impôt. Les décisions suivantes concernent toutes l’application de pénalités pour faute lourde quoiqu’il ne s’agit pas d’une liste exhaustive :
+- Lamarre c. Canada, [2000] A.C.I. no 542 (juge Tardif);
+- Kion c. Canada; 2009 CCI 447 (juge Sheridan);
+- Nowak c. Canada, 2011 CCI 3 (juge Paris);
+- Robert c. Canada, 2011 CCI 166 (juge Favreau);
+- Janovsky c. Canada, 2013 CCI 140 (juge V.A. Miller);
+- Bhatti c. Canada, 2013 CCI 143 (juge C. Miller);
+- Brisson c. Canada, 2013 CCI 235 (juge V.A. Miller);
+- McLeod c. Canada, 2013 CCI 228 (juge Woods);
+- Torres et al. c. Canada, 2013 CCI 380 (juge C. Miller) confirmée par la Cour d’appel fédérale, 2015 FCA 60; et
+- Girard c. Canada 2014 CCI 107 (juge L. Lamarre).
+[41] Le fait que les déclarations de revenus initiales ou modifiées aient été signées ou non par l’appelant ne peut dégager l’appelant de sa responsabilité puisque je suis convaincu que ces déclarations de revenus ont été préparées par le comptable Ste-Marie pour son compte et suivant ses instructions. L’appelant connaissait la teneur des déclarations de revenus et il a participé à leur préparation en soumettant des listes de dépenses d’animation remboursées et des frais d’auteur annuels. Il n’a jamais signifié à l’ARC son désaccord par rapport aux déclarations de revenus produites.
+[42] L’appelant a reçu à plusieurs reprises de la part de l’ARC des mises en garde quant à l’application possible de pénalités pour faute lourde mais ce dernier n’a rien fait pour remédier à la situation et il n’a pas consulté d’experts en fiscalité à cette fin. L’attitude cavalière de l’appelant démontre un degré de négligence ou d’aveuglement volontaire qui doit être qualifié de faute lourde.
+[43] L’appelant détient trois diplômes universitaires et occupe un poste important auprès d’Hydro-Québec. Il était très conscient de la fausseté des sommes inscrites dans ses déclarations de revenus et il ne les a pas signées parce qu’il avait peur de faire de fausses déclarations. Malgré tout, l’appelant a participé, consenti ou acquiescé à de faux énoncés dans ses déclarations de revenus produites pour les années d’imposition en litige.
+Arguments avancés par l’appelant [44] L’appelant a avancé plusieurs arguments à l’encontre des cotisations dont les suivants :
+a) l’appelant soutient que la vérificatrice au bureau a obtenu de l’information le concernant de façon illégale vu qu’elle n’était pas une personne autorisée par le ministre pour l’application des articles 231.1 à 231.5 de la Loi. La vérificatrice ne détenait pas une carte d’identité de l’ARC énumérant ses pouvoirs d’enquête. L’appelant a invoqué la décision de Lionel Bergeron c. Sous-ministre du revenu du Québec rendue par le juge Guy Tremblay de la Cour du Québec le 24 février 1993 ;
+b) l’appelant s’est, à maintes reprises, référé à la décision R. c. Jarvis, 2002 CSC 73 en prétendant que l’ARC avait violé ses droits constitutionnels en utilisant ses pouvoirs de vérification dans le cadre d’une enquête criminelle ;
+c) l’appelant s’est également référé à la décision Le Groupe Enico inc. c. Agence du revenu du Québec, 2013 QCCS 5189, rendue le 23 octobre 2013 par le juge Steve J. Reimnitz de la Cour supérieure du Québec, dans laquelle les appelants ont poursuivi l’Agence du revenu du Québec et le procureur général du Québec pour une cotisation abusive et arbitraire et pour un délai déraisonnable à corriger des avis de cotisation et des projets de cotisations erronés.
+[45] Les arguments avancés par l’appelant ne sont pas applicables au cas en l’espèce et ne peuvent invalider les cotisations en litige.
+[46] La vérification effectuée à l’égard de l’appelant était simplement un examen au bureau, par opposition à une vérification sur place ou à une enquête. Les informations demandées se limitaient à produire les pièces justificatives pour appuyer les réclamations de dépenses. Il s’agit d’informations minimales que tous les contribuables s’attendent à devoir produire pour prouver qu’ils ont effectivement encouru les dépenses et pour démontrer que les dépenses ont été engagées dans le but de gagner un revenu. L’appelant n’a pas produit de pièces justificatives et n’a pas été en mesure de démontrer qu’il exploitait une entreprise. La vérificatrice n’a pas outrepassé ses pouvoirs en demandant les informations à l’appelant et elle n’a pas obtenu, de façon illégale, des informations susceptibles de faire invalider les cotisations en litige.
+[47] Dans l’arrêt Jarvis précité, la Cour suprême du Canada a établi le principe que, lorsqu’une vérification fiscale a pour objet prédominant d’établir la responsabilité pénale d’un contribuable, les fonctionnaires de l’ARC doivent renoncer à leur faculté d’utiliser les pouvoirs d’inspection et de demande péremptoire que leur confèrent les paragraphes 231.1(1) et 231.2(1) de la Loi. Dans le cas présent, l’appelant n’a fait l’objet d’aucune accusation criminelle; l’intimée ayant plutôt choisi de lui imposer des pénalités de négligence grossière, donc de nature civile. L’émission d’un formulaire T134 à la section des enquêtes criminelles de l’ARC ne signifiait pas que l’appelant faisait l’objet d’une enquête criminelle. Le formulaire T134 n’était qu’un renvoi pour examen du dossier. C’est suite à cet examen que la section des enquêtes criminelles peut décider d’enquêter ou non le contribuable visé. Dans le cas de l’appelant, la section des enquêtes criminelles ont refusé d’enquêter par manque de temps. Par conséquent, les vérificateurs de l’ARC avaient toute la latitude désirée pour utiliser les pouvoirs prévus aux paragraphes 231.1(1) et 232.1(1) de la Loi.
+[48] La décision Le Groupe Enico inc. précitée, ne peut être d’aucun secours à l’appelant vu que les cotisations établies à son égard sont ni abusives, ni arbitraires. L’appelant a eu l’occasion à plusieurs reprises d’expliquer sa position et de fournir les preuves nécessaires pour justifier la déduction des pertes réclamées. Il ne s’est pas prévalu des opportunités qui lui ont été données. Il est l’auteur de son propre malheur : ses convictions l’ayant emporté sur la raison.
+[49] Pour ces motifs, l’appel à l’encontre des cotisations établies en vertu de la Loi en date du 9 novembre 2010 concernant les années d’imposition 2003 à 2007 et du 18 mars 2011 concernant l’année d’imposition 2009 est rejeté avec frais.
+Signé à Ottawa, Canada, ce 9e jour de juillet 2015.
+« Réal Favreau »
+Juge Favreau
+Annexe
+RÉFÉRENCE :
+2015 CCI 176
+Nº DU DOSSIER DE LA COUR :
+2013-232(IT)I
+INTITULÉ DE LA CAUSE :
+Jean Stein et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATES DE L’AUDIENCE :
+le 15 janvier 2014, les 27 et 28 novembre 2014 et le 28 janvier 2015
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 9 juillet 2015
+COMPARUTIONS :
+Représentant de l'appelant :
+Christian Fréchette
+Avocat de l'intimée :
+Me Dany Leduc
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

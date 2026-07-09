@@ -1,0 +1,114 @@
+Title: Pelletier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29988/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-454-29988-pelletier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-09-21
+
+# Pelletier c. La Reine
+
+- Citation: 2010 CCI 454
+- Decision date: 2010-09-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8003, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pelletier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-09-21
+Référence neutre
+2010 CCI 454
+Numéro de dossier
+2010-678(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-678(IT)I
+ENTRE :
+TOBIE PELLETIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 16 août 2010, à Québec (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Benoit Mandeville
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 2008 est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2010.
+"François Angers"
+Juge Angers
+Référence : 2010 CCI 454
+Date : 20100921
+Dossier : 2010-678(IT)I
+ENTRE :
+TOBIE PELLETIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit d'un appel d'une cotisation visant l'année d'imposition 2008 de l'appelant établie par le ministre du Revenu national (le "ministre"), ce dernier ayant déterminé que l'appelant devait rembourser la somme de 8 387 $ qu'il avait reçue à titre de prestation de sécurité de la vieillesse au cours de cette année.
+[2] L'appelant a effectivement reçu, au cours de son année d'imposition 2008, une indemnisation de 136 758 $ de la Commission de la santé et de la sécurité du travail du Québec (CSST), tel que l'indique et le confirme un État des prestations (T5007) établi par la CSST. Le revenu net de l'appelant s'élevait à 129 031 $ pour l'année d'imposition 2008.
+[3] À la suite d'un accident de travail qu'il a eu en 1998, l'appelant a reçu des prestations de la CSST jusqu'au 15 mars 1999. L'appelant a, par la suite, entrepris plusieurs démarches, dont une contestation auprès de la Commission des lésions professionnelles, le 15 juin 2000, et une requête en réouverture d'enquête, le 4 juillet 2008. Le 20 octobre 2008, l'appelant, par entente conclue entre lui et la CSST, acceptait de se désister de sa requête en réouverture d'enquête en retour de l'engagement pris par la CSST de reprendre le versement des indemnités de remplacement de revenu à partir du 16 mars 1999. C'est ainsi qu'il est arrivé qu'on verse à l'appelant le montant de 136 758 $, plus les intérêts, pour un total de 152 988,28 $.
+[4] Dans sa déclaration de revenus pour l'année 2008, l'appelant n'a pas déclaré à titre de revenu le montant que la CSST lui avait versé. Il a plutôt choisi de ne déclarer que le montant des prestations reçues qui étaient attribuables à l'année d'imposition 2008.
+[5] L'appelant fait également valoir qu'il n'a pas reçu le plein montant convenu avec la CSST puisqu'il a dû rembourser l'aide sociale qu'il a reçu du ministère de l'Emploi et de la Solidarité sociale et de la Régie des rentes du Québec ainsi qu'un montant qu'il avait déjà reçu de la CSST en juillet 2000 en vertu d'une autre entente de règlement. Ces trois remboursements qui se chiffraient à 116 193,75 $, ont été enlevés du montant de 152 988 $. Du point de vue du traitement fiscal de ses revenus, l'effet de ces remboursements a été différent sous le régime des lois du Québec. À titre d'exemple, puisque l'aide sociale est imposable au Québec, l'appelant a droit à une déduction si le montant est remboursé. Sur le plan fédéral, l'aide sociale n'est pas imposable. L'appelant ne peut donc pas déduire les remboursements et réduire ainsi son revenu.
+[6] L'appelant soutient également que, pour établir son revenu de 2008, on devrait répartir le montant versé par la CSST sur le nombre d'années que le montant représente et qu'il devrait être inclus dans le calcul du revenu de ces années. Cet argument a cependant fait l'objet de plusieurs décisions de cette Cour. La juge Lamarre Proulx, dans Poulin c. Canada, [1998] A.C.I. no 36 (QL), disait ce qui suit sur cette question, au paragraphe 15 :
+La notion de la réception d'une somme et de l'année d'imposition pertinente a déjà été étudiée dans la jurisprudence et je me réfère notamment à Vegso c. M.R.N., 56 D.T.C. 173, M.R.N. c. Claude Rousseau, 60 D.T.C. 1236 et à la décision citée par le représentant de l'intimée soit Archambault c. M.R.N., 88 D.T.C. 1714. La jurisprudence est constante. Quand la législation prévoit qu'une somme reçue doit être incluse dans le calcul du revenu de l'année, c'est dans l'année de la réception de la somme qu'elle doit l'être et non dans les années pour lesquelles elle est versée.
+[7] Toute somme forfaitaire, y compris des prestations rétroactives de la CSST, doit être incluse dans le calcul du revenu d'un contribuable aux fins de la partie I.2 de la Loi de l'impôt sur le revenu (la "Loi"). Voir Fenner c. La Reine, CCI, 2005-117(IT)I, 12 juin 2006, 2006 DTC 3222, Miner, succession c. Canada, [2003] A.C.I. no 563 (QL); Alibhai c. Canada, [2005] A.C.I. no 394 (QL) et Bongiovanni c. Canada, [2000] A.C.I no 725 (QL).
+[8] Il serait bon de reproduire ici le paragraphe 180.2(2) de la partie I.2 de la Loi et l'alinéa 56(1)v) de la Loi.
+180.2(2) Impôt payable. Tout particulier doit payer, en vertu de la présente partie pour chaque année d'imposition, un impôt égal au résultat du calcul suivant :
+A(1-B)
+où:
+A représente le moins élevé des montants suivants :
+a) l'excédent éventuel du total visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+(i) le total des montants représentant chacun le montant, inclus dans le calcul de son revenu pour l'année en vertu de la partie I, d'une pension, d'un supplément ou d'une allocation à l'époux ou au conjoint de fait prévu par la Loi sur la sécurité de la vieillesse,
+(ii) le montant d'une déduction permise en vertu du sous-alinéa 60n)(i) dans le calcul du revenu du particulier en vertu de la partie I pour l'année,
+b) le montant correspondant à 15 % de l'excédent éventuel de son revenu modifié pour l'année sur 50 000 $;
+B le taux de l'impôt payable par lui en vertu de la partie XIII sur les montants visés à l'alinéa a) de l'élément A.
+Sommes à inclure dans le revenu de l'année
+56(1)v) Indemnité d'accident du travail — une indemnité reçue en vertu d'une loi sur les accidents du travail du Canada ou d'une province à l'égard d'une blessure, d'une invalidité ou d'un décès.
+[9] Il est vrai que toute somme reçue à titre d'indemnité d'accident du travail est déductible en vertu du paragraphe 110(1)(f) de la partie I de la Loi et que le montant forfaitaire reçu de la CSST n'est pas imposable en vertu de la partie I de la Loi. Ce montant doit cependant être inclus dans le revenu de l'appelant aux fins de la partie I.2 de la Loi, laquelle prévoit un impôt sur les prestations de sécurité de la vieillesse reçues par un contribuable. Le montant de l'impôt est de 15% de l'excédent éventuel du revenu modifié pour l'année sur 50 000 $, soit, dans le cas de l'appelant, 64 718 $ pour l'année 2008. Le revenu modifié est défini comme suit, au paragraphe 180.2(1) :
+« revenu modifié » En ce qui concerne un particulier pour une année d'imposition, la somme qui représenterait son revenu en vertu de la partie I pour l'année si, dans le calcul de ce revenu, aucune somme n'était incluse en application de l'alinéa 56(1)q.1) ou du paragraphe 56(6) ou au titre d'un gain provenant d'une disposition de bien à laquelle s'applique l'article 79 et aucune somme n'était déductible en application des alinéas 60w), y) ou z).
+[10] Le juge Paris, dans l'affaire Fenner, précitée, a déjà traité de la question de savoir si une somme forfaitaire devrait être exclue du revenu d'un contribuable en application de la partie I.2 de la Loi. Voici l'extrait pertinent de sa décision :
+La Cour suprême du Canada, dans l’arrêt Hypothèques Trustco Canada c. La Reine, 2005 C.S.C. 54, a indiqué qu’en interprétant une loi un tribunal doit effectuer une analyse textuelle, contextuelle et téléologique de la disposition en cause. Cette cour a aussi dit que, compte tenu de la complexité et du caractère détaillé de la Loi de l’impôt sur le revenu, dans des circonstances normales, l’accent doit être mis sur l’analyse textuelle de la disposition en cause.
+En l’espèce, je crois que la définition du terme « revenu modifié » est claire et non ambiguë et ne permet nullement d’exclure du calcul du revenu d’un contribuable le paiement forfaitaire d’une indemnité d’accident du travail.
+De plus, je ne suis pas convaincu que le contexte et l’objet de la disposition en cause étayent la position de l’appelant. D’abord, je constate que la définition du terme « revenu modifié » a été ajoutée à la Loi en 1996. Antérieurement, le paragraphe 180.2(1) fondait le calcul de l’impôt à payer sur le revenu du particulier en vertu de la partie I de la Loi. Après l’entrée en vigueur des modifications, deux éléments qui auraient autrement fait partie du revenu d’un particulier en vertu de la partie I ont été exclus de l’assujettissement à l’impôt de la partie I.2. À mon avis, il s’agit d’une indication que le Parlement s’est penché sur la question de savoir ce qui doit être exclu de l’assujettissement à l’impôt de la partie I.2 et qu’il a choisi de ne pas exclure le type de paiement forfaitaire qui est en cause en l’espèce.
+De plus, le Parlement a édicté la partie I.2 de la Loi en vue de récupérer une partie des prestations de la Sécurité de la vieillesse versées aux contribuables qui ont moins besoin de ces prestations que d’autres. L’affirmation voulant que les paiements forfaitaires doivent être pris en considération lorsqu’il s’agit d’évaluer les besoins d’un contribuable pendant une année d’imposition donnée cadre avec cette politique.
+[11] Pour toutes ces raisons, je suis d'avis que le ministre a correctement calculé le revenu de l'appelant aux fins de la partie I.2 de la Loi et que ce dernier devait payer un impôt égal aux prestations reçues en 2008 en vertu de la Loi sur la sécurité de la vieillesse. L'appel est donc rejeté.
+Signé à Ottawa, Canada, ce 21e jour de septembre 2010.
+"François Angers"
+Juge Angers
+RÉFÉRENCE : 2010 CCI 454
+Nº DU DOSSIER DE LA COUR : 2010-678(IT)I
+INTITULÉ DE LA CAUSE : Tobie Pelletier c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 16 août 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : Le 21 septembre 2010
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Benoit Mandeville
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

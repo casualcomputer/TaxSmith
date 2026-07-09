@@ -1,0 +1,124 @@
+Title: Konecny v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64344/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-334-64344-konecny-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-09-12
+
+# Konecny v. The Queen
+
+- Citation: 2013 TCC 334
+- Decision date: 2013-09-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5919, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Konecny v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-09-12
+Neutral citation
+2013 TCC 334
+File numbers
+2013-2108(IT)I
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2013 TCC 334
+Date: 20131023
+Docket: 2013-2108(IT)G
+BETWEEN:
+JOHN EDWARD KONECNY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+(Edited from the transcript of Reasons for Order delivered orally from the Bench on September 12, 2013 at Toronto, Ontario)
+Campbell J.
+[1] Good afternoon to both of you and thank you both for coming back. I am going to deliver my oral reasons for your appeal, sir, which I heard two days ago.
+[2] The reasons that I am delivering are in respect to the various motions that were before me, and not the actual appeal.
+[3] The Appellant in this matter filed a Notice of Appeal pursuant to the Tax Court of Canada Rules (General Procedure) with this Court on May 1, 2013. The Appellant takes issue with the assessment of the Minister of National Revenue (the “Minister”) respecting his 2011 taxation year, whereby he was denied his claim of $2,694 for moving expenses in computing his income for that year.
+[4] The Appellant is a public school teacher who teaches in Whitby, Ontario for ten months during the regular school year and then teaches for one month in Ottawa during the summer recess. At paragraph 67 of his Notice of Appeal, the Appellant explains the additional ties that his family has to Ottawa, in addition to the month that he works there each summer.
+[5] The moving expense claim relates to his travel for the month he taught in Ottawa in 2011. This pattern of teaching one month each summer in Ottawa has been ongoing since the 1980s. All of his prior claims for moving expenses had been allowed until the year 2011.
+[6] Normally, such an issue involving the amount claimed for moving expenses would proceed under the Tax Court of Canada Rules (Informal Procedure)(the “Rules”). However, the Appellant has also introduced a number of Constitutional arguments referencing various provisions of the Canadian Charter of Rights and Freedoms, Part 1 of the Constitution Act, 1982, (the “Charter”) together with extensive case law.
+[7] In addition, he has stated his intention to acquire information through access to information so that he can prepare questions in respect to the Statistics Canada Social Policy Simulation Database in order to acquire, for example, comparative statistics of married couples versus singles who have relocated within Canada. He also would be requesting information that would allow him to compare his numerous moves since 1989 in order to establish what comparator group might be advantaged or disadvantaged in applying the Supreme Court of Canada tests.
+[8] The Appellant, at paragraphs 91 and 92 of the Notice of Appeal, is looking to have the Minister’s assessment, which denied his claim for moving expenses, vacated, and almost as an alternative position, although I am not clear on it, suggests that if he is unsuccessful in having the assessment vacated, he should be compensated for the alleged negligence of the Canada Revenue Agency (the “CRA”) in allowing former claims for moving expenses in each of the years 1989 to 2010.
+[9] On August 7, 2013, the Respondent filed a motion with this Court asking that:
+1. those paragraphs contained in the Notice of Appeal that contain constitutional pleadings be struck as they disclosed no reasonable grounds for appeal: paragraphs 2(1), 5, 6, 7, 8, 9, 18, 70, 71, 77, 78, 84 and 97;
+2. those paragraphs containing pleadings on consistency of treatment by and conduct of CRA officials and those paragraphs that request improper relief be struck as they disclosed no reasonable grounds for appeal: paragraphs 2(3), 5, 6, 8, 12 (subheading only), 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 34, 35, 36, 37, 38, 39, 46, 47, 48, 79, 80, 84 and 92;
+3. those paragraphs that are immaterial to the Notice of Appeal be struck: paragraphs 17, 18, 19, 35, 39, 56, 64, 72, 93 and 98;
+4. those paragraphs containing pleadings of evidence and speculation be struck: paragraphs 26, 27, 28, 64 and 79;
+5. the Respondent requested time to file and serve a Reply to the Notice of Appeal; and
+6. costs.
+[10] In response to the Respondent's motion, the Appellant filed an Answer to the Motion to Strike, as well as his own motion in which he requests an Order for default judgment. He alleges the Crown has failed to comply with the Rules in not filing a reply within the appropriate timelines, which the Appellant states is 60 days after the service of his Notice of Appeal.
+[11] The principal test governing a motion to strike is well established within the case law. A claim should not be struck from the pleadings unless it is plain and obvious to the motions Judge that the claim discloses no reasonable cause of action and would have little chance of succeeding if permitted to proceed through the various preliminary steps to a hearing. Only when it passes this plain and obvious test may a Court invoke the power to strike, as a measure of uncluttering the proceedings, to use the phrase from the reasons in The Queen v Imperial Tobacco Canada, 2011 SCC 42. This will enable a claim to proceed with litigation efficiency and with a focus on the true merits of the claim.
+[12] After reviewing all of the material and case law and hearing more than three hours of submissions from the parties, I have concluded that it is plain and obvious that the pleadings that relate to the Constitutional arguments should be struck and that those portions of the Appellant’s pleadings that either disclose no reasonable grounds for appeal or are immaterial or improper should also be struck.
+[13] Although the Appellant, in his submissions, suggested that he was dismayed and devastated by the Respondent’s submissions respecting the content of his Notice of Appeal, in that his material was at times unintelligible, vexatious and frivolous, I must agree with the Respondent’s observations. This is particularly so when viewed against the backdrop of the core of what this appeal is all about: one taxation year, an amount in issue which would normally place it within the informal procedure and the contents of the Notice of Appeal, which illustrate the Appellant’s knowledge of the applicable legislation, the abundant jurisprudence and the burden of proof that he must meet in this appeal.
+[14] In addition to the Constitutional arguments, he is seeking a wide range of information, including statements from some seventeen Ministers at CRA, who were in that position between 1984 to 2011, to case decisions of certain CRA officials, so that he can make comparisons to the National Social Policy Database information.
+[15] It is apparent that many of the Appellant's allegations are irrelevant and that his requests for information respecting prior taxation years as far as back as the 1980s have incorrectly diverted the Appellant's attention to areas that will not assist him with the eventual resolution of the issue of the deductibility of moving expenses in the year 2011.
+[16] Section 7 of the Charter states, in part, that everyone has the right to life, liberty and freedom of the person and the right not to be deprived thereof.
+[17] After reviewing all of the Appellant's submissions on section 7 contained in his various documents, it is still not clear to me exactly what his argument is. But essentially, he has suggested that, due to statements made by CRA officials, the Appellant believes that a distinction has been made on the basis of his marital status and that he has therefore received different treatment based on that personal characteristic. It also appears that he has included his spouse and family in this argument. If, by that, he means that their section 7 rights have been infringed, that argument can have no hope of succeeding because the spouse and other family members have not been assessed; only the Appellant has been assessed and only his assessment will be before this Court.
+[18] I see no breach of section 7. Justice Sharlow in the case of Gratl v The Queen, 2012 FCA 88, at paragraph 8, states that, and I quote:
+… an income tax assessment is a civil matter involving only economic interests. It does not deprive the assessed person of life, liberty or security of the person within the meaning of section 7 of the Charter …
+[19] Consequently, any paragraphs in the Notice of Appeal referencing and relying on a section 7 Charter argument will be struck, as they have no chance of succeeding.
+[20] The Appellant also raises a section 6 Charter argument, which has to do with mobility protection and inter-provincial mobility. If I understand his argument correctly, he has interpreted certain statements, again from the CRA, as preventing his claim for moving expenses because his family did not move with him to Ottawa in the summer of 2011. He has interpreted this as meaning that the CRA has imposed an unconstitutional economic sanction upon the family members by infringing on their individual freedom of movement.
+[21] Section 6(2) guarantees that the Appellant can move and obtain employment in any province if he so wishes. Jurisprudence makes it clear, however, that this right respecting mobility in no way gives the Appellant an automatic right to be subsidized for his move from Whitby to Ontario to work for one month. He can obtain a deduction for such moving expenses only if he meets the requirements set out in section 62 of the Income Tax Act (the “Act”).
+[22] There is no section 6 Charter argument to be made in this appeal. His move was made within the Province of Ontario, not between provinces. He has not been prevented from seeking this employment in another location and, finally, his family members will have no better right than he does in respect to the protection afforded pursuant to section 6.
+[23] Again, any paragraphs in the Notice of Appeal referencing and relying on section 6 of the Charter are to be struck, as they would have no hope of succeeding.
+[24] The Appellant also invoked a section 15 Charter argument. This section affords protection to individuals against discrimination based on race, national or ethnic origin, colour, religion, sex, age and mental or physical disability. The Appellant has involved his spouse and children again, in claiming discrimination. It is his position that the Appellant and the family members have been subjected to discriminatory impact because of the Appellant’s marital status, resulting from the process employed by the CRA.
+[25] It would appear that the Appellant has incorrectly assumed that his deduction for moving expenses was disallowed because of his spouse’s sex. The Appellant has created, to borrow Respondent Counsel's term, a “fictional confrontation” between his right to move and his spouse’s right to stay behind and not move with the Appellant.
+[26] Justice Webb, in the case of Astley v The Queen, 2012 TCC 155, relied on the Supreme Court decision in Withler v Canada (Attorney General), 2011 SCC 12, in which that Court summarized the two-part test established in the jurisprudence for assessing a section 15 argument: (1) does the law create a distinction that is based on an enumerated or analogous ground; and (2) does the distinction create a disadvantage by perpetuating prejudice or stereotyping.
+[27] The Appellant’s argument is that he is discriminated against because he is married and because of his spouse’s sex. However, there is no such distinction within the provisions of the Act. The deduction for moving expenses applies equally to every taxpayer, regardless of whether they are or are not married and regardless of the sex of their spouse or partner. The jurisprudence has established a list of non-exhaustive factors to be considered in establishing the validity of a claim for deduction for moving expenses. This means that the success in claiming this deduction is dependent upon each taxpayer’s individual factual circumstances. Although this can lead to different conclusions based on various facts specific to a taxpayer, I do not believe it can produce the type of discrimination that the Appellant is suggesting.
+[28] To the extent that one of many factors that this Court can review in assessing deductibility for moving expenses is whether the family unit relocated with the Appellant, it remains just one of the many factual considerations that this Court will review in determining the validity of that assessment. This cannot perpetuate the type of discrimination and prejudice that the Appellant alleges. I see no basis for the Appellant to claim that he can successfully rely on such a Charter argument, as there is no discrimination based on the distinction he intends to rely upon.
+[29] Therefore, all paragraphs in the Notice of Appeal referencing or relying on section 15 shall be struck.
+[30] Although the Respondent devoted some time to addressing section 24(1), which deals with remedies of breaches of the Charter and also section 52(1) of the Constitution Act, 1982, since I have concluded that there are no Charter breaches in this appeal, I do not intend to address those sections other than to state that the CRA correspondence of November 6, 2012, used by the Appellant as a basis for many of his Charter arguments, was, in fact, issued prior to the assessment.
+[31] It is the validity of the actual assessment that will be before this Court, and the Appellant will have full disclosure of the basis of that assessment through the assumptions of fact which will be contained in the Reply to the Notice of Appeal.
+[32] The Appellant, throughout his pleadings, refers to the similar forty-odd moves that he made to teach in the summers between 1989 and 2010, for which he claimed moving expenses and which the CRA allowed. I believe the Appellant is attempting to argue that the Minister’s approach to the Appellant’s many moves prior to 2011 is not only an admission that binds the Minister for subsequent taxation years but also that, in the alternative, if this Court dismisses the Appellant's appeal for the 2011 taxation year, then this makes all of the prior deductions, allowed in the previous years, incorrect. By implication, the Appellant is attempting to place all of these taxation years before this Court.
+[33] There is abundant jurisprudence that supports the right of the Minister pursuant to the Act to assess and reassess a taxpayer at any time for any taxation year, independently of other years, subject, of course, to time limits contained in the Act. In other words, the Minister is not precluded from taking a different approach in a subsequent year or years and this Court is not bound by how similar claims in the Appellant’s prior taxation years were treated by the Minister.
+[34] The Appellant is also attempting to place the conduct of the Minister and CRA officials, together with the resulting treatment he alleges he received, as an issue before this Court. It is well established, however, that such matters as they relate to the process of establishing the assessment are not within the jurisdiction of this Court.
+[35] For these reasons, I conclude that those paragraphs referencing the prior taxation years and the treatment and conduct of CRA officials be struck from the Notice of Appeal.
+[36] Lastly, I will address the Appellant's motion which he brought in response to the Respondent's motion to strike. His motion requests default judgment for the Appellant and dismissal of the Crown's assessment for delay in filing a Reply to the Notice of Appeal.
+[37] The Appellant’s Notice of Appeal was filed with the Court on May 1, 2013. It was served, according to the Appellant's motion, on the Crown by mail, via the Minister and Deputy Minister of the Crown in Ottawa. The Crown was served, according to the Respondent's submissions, on June 10, 2013.
+[38] Due to the content of the Notice of Appeal, the Respondent made the decision to bring a motion to strike prior to filing its Reply. The Appellant was advised of the Respondent's intention to bring such a motion, according to the Respondent’s submissions. The motion was filed on August 7, 2013, one month prior to the date set for the hearing of the motion and well in advance of the required seven days provided for in the Rules.
+[39] This was an advantage to the Appellant, in that it gave him additional time to prepare for the motion. Contrary to what the Appellant is alleging, there is no evidence to suggest that the Respondent procedurally delayed this matter or that he has been prejudiced in any way. It was reasonable and prudent that the Respondent chose to bring its motion as a streamlining and cost-effective measure in these circumstances, rather than file an immediate Reply to the Notice of Appeal.
+[40] The actions taken support that the Respondent took every effort to address the Appellant's Notice of Appeal in a timely fashion. Consequently, the Respondent will be granted an extension of time to file a Reply to the Notice of Appeal.
+[41] In summary:
+1. The Respondent’s motion to strike parts of the Notice of Appeal is allowed and, specifically, those paragraphs containing Constitutional pleadings, that is, paragraphs 2(1), 5, 6, 7, 8, 9, 18, 70, 71, 77, 78, 84 and 97 will be struck, as they disclose no reasonable grounds of appeal.
+2. References to section 6, 7, 15 and 24 of the Canadian Charter of Rights and Freedoms, Part I of the Constitution Act, 1982, SC 1982 c. 11 (UK), Schedule B, will be struck, as they have no application to the appeal.
+3. Those paragraphs containing pleadings on consistency of treatment by and conduct of the CRA and the Minister, that is, paragraphs 2(3), 12 (subheading only), 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 34, 35, 36, 37, 38, 39, 46, 47, 48, 79, 80 and 92 of the Notice of Appeal will be struck as they disclose no reasonable grounds for appeal. There is some overlapping of paragraphs in respect to the reasons for striking. Therefore, in addition to the foregoing paragraphs which I have just cited, paragraphs 5, 6, 8, 18 and 34 struck in item number 1 of this summary due to Constitutional references are also struck pursuant to the within item number 3, as they also contain pleadings on consistency of treatment and conduct of the CRA and the Minister.
+4. Paragraphs that are immaterial to the pleadings, that is, 17, 18, 19, 35, 39, 56, 64, 72, 93 and 98 will be struck. Paragraphs 18, 19, 35 and 39 are also struck pursuant to items number 1 and number 3 of the within summary.
+5. Paragraphs containing pleadings of evidence and speculation, that is, 26, 27, 28, 64 and 79 of the Notice of Appeal will be struck. All of these paragraphs are also struck for the reasons cited either in items number 1, 3 or 4 of the within summary.
+6. The Respondent is granted an extension of time in which to file and serve a Reply to the Notice of Appeal. The reply shall be filed and served on or before October 15, 2013.
+7. The Appellant's motion for default judgment is dismissed.
+8. Costs are awarded to the Respondent in the amount of $1,500, payable on or before September 30, 2013.
+[42] That concludes the Reasons in the motions, and Court is recessed until two o’clock. Thank you for coming back in.
+Signed at Ottawa, Canada this 23rd day of October 2013.
+“Diane Campbell”
+Campbell J.
+CITATION: 2013 TCC 334
+COURT FILE NO.: 2013-2108(IT)G
+STYLE OF CAUSE: JOHN EDWARD KONECNY and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 10, 2013
+REASONS FOR ORDER BY: The Honourable Justice Diane Campbell
+DATE OF ORAL REASONS: September 12, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Thang Trieu
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

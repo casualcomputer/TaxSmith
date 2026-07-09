@@ -1,0 +1,188 @@
+Title: Tri Clad Designs Inc. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26289/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-529-26289-tri-clad-designs-inc-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-08-06
+
+# Tri Clad Designs Inc. v. M.N.R.
+
+- Citation: 2004 TCC 529
+- Decision date: 2004-08-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3301, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tri Clad Designs Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-08-06
+Neutral citation
+2004 TCC 529
+File numbers
+2003-3831(CPP)
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2003-3831(CPP)
+BETWEEN:
+TRI CLAD DESIGNS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 22, 2004 at Winnipeg, Manitoba
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Mel L. Verin
+Counsel for the Respondent:
+Derwin Petrie
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed, without costs, and the determination of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 6th day of August 2004.
+"L.M. Little"
+Little J.
+Citation: 2004TCC529
+Date: 20040806
+Docket: 2003-3831(CPP)
+BETWEEN:
+TRI CLAD DESIGNS INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. Statement of Facts:
+[1] The Appellant is a company incorporated under the laws of the Province of Manitoba.
+[2] The Appellant is engaged in the design, construction and renovation of buildings throughout the Province of Manitoba and Northern Ontario.
+[3] Bonnie Wright (the "Worker") is the spouse of Gordon Wright. Gordon Wright owns one-third of the issued shares of the Appellant.
+[4] Commencing in 1993 the Worker began to provide services to the Appellant.
+[5] In a document submitted to the Canada Revenue Agency ("CRA") the Worker described the services and duties that she provided to the Appellant as follows:
+Duties
+1. Accounting - prepare year-end for accountant;
+- accounts receivable and payable reconciliation
+and control;
+2. Supervision of accounting staff;
+3. Negotiated financial contracts on behalf of the Appellant (See Exhibit R-2).
+[6] The Worker testified that in addition to the services that she provided to the Appellant she also owned and operated a massage therapy business and she owned and operated a mail order business.
+[7] When the Appellant filed its return under the Canada Pension Plan the Appellant classified the Worker as self-employed for the period January 1, 1999 to December 31, 1999 (the "Period").
+[8] In a decision issued by K. Storrier of the Appeals Division of the CRA dated July 16, 2003 the following comments with respect to the Worker are found:
+It has been decided to confirm the assessment in respect of you for the following reason:
+You were employed under a contract of service and, therefore, you were an employee of Tri Clad Designs Inc.
+The decision in this letter is issued in accordance with subsection 27.2(3) of the Canada Pension Plan and is based on paragraph 6(1)(a) of the Canada Pension Plan.
+[9] The Appellant filed an appeal.
+B. Issue:
+[10] Was the Worker engaged in pensionable employment by the Appellant during the Period as that term is defined in the Canada Pension Plan?
+C. Analysis and Decision:
+[11] The relevant portions of the Canada Pension Plan read as follows:
+6. (1) Pensionable employment is
+(a) employment in Canada that is not excepted employment;
+. . .
+(2) Excepted employment is
+(b) employment of a casual nature otherwise than for the purposes of the employer's trade or business;
+[12] The issue to be decided is whether the Worker was employed "under any express or implied contract of service". Only if the Worker was employed under a contract of service will she qualify for "pensionable employment".
+[13] What constitutes a "contract of service" has been considered by the courts many times, often in the context of distinguishing the relationship from a "contract for service". In other words, the Court must determine if the Worker was an employee of the Appellant or an independent contractor.
+[14] An examination of what the Courts have held to constitute a contract of service is required. The Courts have developed a test focusing on the total relationship of the parties with the analysis centered around four elements:
+- degree of control and supervision,
+- ownership of tools,
+- chance of profit, and
+- risk of loss.
+[15] This test was propounded by the Federal Court of Appeal in Wiebe Door Services Ltd. v. M.N.R.[1] and accepted and expanded by subsequent cases. The Supreme Court of Canada recently had a chance to revisit the issue in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[2]
+[16] Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J., in Market Investigations Ltd. v. Minister of Social Security[3]. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on her own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks[4].
+[17] In Sagaz, Justice Major considered the central question to be determined is "whether the person who has been engaged to perform the services is performing them as a person in business on his own account or is performing them in the capacity of an employee"[5].
+[18] The requirement to take a holistic approach in examining the four tests has been emphasized by the Federal Court of Appeal on past occasions:
+. . . we view the tests as being useful subordinates in weighing all of the facts relating to the operations of the Applicant. That is now the preferable and proper approach for the very good reason that in a given case, and this may well be one of them, one or more of the tests can have little or no applicability. To formulate a decision then, the overall evidence must be considered taking into account those of the tests which may be applicable and giving to all the evidence the weight which the circumstances may dictate.[6]
+Similarly, Justice Major stated in Sagaz:
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.[7]
+[19] Before applying the facts of the present case to the principles set out above, it should be noted that the Minister's determination that the Worker's employment was pursuant to a contract of service is subject to independent review by the Tax Court[8]. No deference to the Minister's determination is required.
+[20] As stated above, the Wiebe Door test can be divided into four categories:
+Control
+[21] Mr. Justice MacGuigan said in Wiebe Door:
+The traditional common-law criterion of the employment relationship has been the control test, as set down by Baron Bramwell in R. v. Walker (1858), 27 L.J.M.C. 207 at page 208:
+It seems to me that the difference between the relations of master and servant and of principal and agent is this: A principal has the right to direct what the agent has to do; but a master has not only that right, but also the right to say how it is to be done. [9]
+[22] In other words, the key aspect of "control" is the employer's ability to control the manner in which the employee carries out his or her work; thus the focus is not on the control that the employer in fact exercised over the employee. Examples of this ability include the power to determine the working hours, defining the services to be provided and deciding what work is to be done on a given day.
+[23] The Worker testified that she could come and go as she pleased. The Worker said that her salary was negotiated each year and that she was paid a specified amount bi-weekly on an annual basis.
+[24] Various documents that were filed with the Court put into question portions of the Worker's testimony. I cite the following:
+Counsel for the Respondent filed a list of invoices (see Exhibit R-4). These invoices purport to have been issued by the Worker's business - "BW Accounting Services" - to the Appellant for the 1999 Period. An invoice was issued every two weeks commencing on January 16, 1999. Each invoices (25 in number) was in the amount of $1,760.00 or a total of $44,000.00 for the 1999 year. However, there were no cheques issued by the Appellant relating specifically to the individual invoices (See Exhibit R-3).
+[25] Counsel for the Respondent also filed Exhibit R-5 which consists of copies of 33 cheques payable to the Worker by the Appellant during various dates in 1999.
+[26] The details contained in the cheques do not coincide with the testimony of the Worker nor to the invoices contained in Exhibit R-4.
+[27] I refer to the following:
+(a) Cheque No. 002999 (page 3800-6) payable to the Worker in the amount of $2,700.00 and dated January 20, 1999 states that the cheque covers a period of 135 hours at a rate of $20.00 per hour for a total of $2,700.00. The cheque also refers to vacation pay accrued in the amount of $320.00;
+(b) Cheque No. 002812 (page 3800-7) payable to the Worker in the amount of $1,350.00 and dated February 3, 1999 states that the cheque covers a period of 67.50 hours at a rate of $20.00 per hour for a total of $1,350.00 plus vacation pay accrued of $160.00 plus banked hours accrued of $250.00;
+(c) Cheque No. 003057 (page 3800-13) payable to the Worker in the amount of $1,000.00 dated 05/10/99 and signed by the Worker refers to vacation pay;
+(d) Cheque No. 003109 (page 3800-16) payable to the Worker in the amount of $5,000.00 dated 06/22/99 and signed by the Worker contains the following statement:
+Some banked hours
+Some vacation pay
+(e) Cheque No. 003199 (page 3800-21) payable to the Worker in the amount of $1,552.61 dated 08/10/99 contains the following statement:
+vacation pay paid
+(f) Cheque No. 003293 (page 3800-28) payable to the Worker in the amount of $820.00 and dated 10/06/99 contains the following statement:
+$320.00 vacation pay
+$500.00 banked hours
+(g) Cheque No. 003338 (page 3800-31) payable to the Worker in the amount of $2,950.00 and dated 12/07/99 contains the following statement
+$1,350.00 regular pay
+$1,600.00 billed vacation pay and booked hours
+(h) There were also a number of other inconsistencies in the cheques issued to the Worker by the Appellant.
+[28] In my opinion the reference to "Vacation Pay" in the cheques in Exhibit R-3 is indicative that a Worker is an employee and not an independent contractor.
+[29] I am not convinced by the Worker's testimony that the Worker satisfies the control test. In other words, I believe that the cheques that were issued to the Worker indicate that the Worker was an employee of the Appellant.
+Ownership of Tools
+[30] The Worker said that she owned her own laptop computer which she used in connection with the services provided to the Appellant. However, the Worker admitted that when she was at the Appellant's place of business she used the Appellant's computer, the Appellant's computer network, an office plus other assets and equipment owned by the Appellant.
+[31] I find that the Worker does not satisfy this test.
+Chance for Profit and Risk of Loss
+[32] The Worker testified that she was paid a set amount every two weeks. The Worker said that she negotiated her salary at the beginning of the year. The Worker had no investment in the Appellant's business and therefore she could not realize a profit if the Appellant's business was successful.
+[33] I find that the Worker does not satisfy this test.
+Integration
+[34] As noted above the Worker said that she provided accounting services for the Appellant. The Worker had no other customers for whom she provided office administration or accounting advice.
+[35] In Exhibit R-2 the Worker said:
+I am the only one with financial expertize. (i.e. at the Appellant's business)
+[36] Based on the testimony of the Worker I believe that the Worker's activities for the Appellant were an integral part of the Appellant's business.
+[37] For the reasons outlined above I find that the Worker was engaged in pensionable employment by the Appellant as that term is defined in the Canada Pension Plan. The appeal is dismissed, without costs.
+Signed at Vancouver, British Columbia, this 6th day of August 2004.
+"L.M. Little"
+Little J.
+CITATION:
+2004TCC529
+COURT FILE NO.:
+2003-3831(CPP)
+STYLE OF CAUSE:
+Tri Clad Designs Inc. and
+The Minister of National Revenue
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+July 22, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice L.M. Little
+DATE OF JUDGMENT:
+August 6, 2004
+APPEARANCES:
+Agent for the Appellant:
+Mel L. Verin
+Counsel for the Respondent:
+Derwin Petrie
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] [1986] 3 F.C. 553, 70 N.R. 214, [1986] 2 C.T.C. 200, 87 DTC 5025 (F.C.A.).
+[2] [2001] 2 S.C.R. 983, 204 D.L.R. (4th) 542.
+[3] [1968] 3 All E.R. 732
+[4] Sagaz, supra.
+[5] Sagaz, supra.
+[6] Moose Jaw Kinsmen Flying Fins Inc. v. M.N.R., [1988] 2 C.T.C. 2377 (F.C.A.; 88 DTC 6099 at 6100).
+[7] Sagaz, supra, at para. 48
+[8] M.N.R. v. Jencan (1997), 215 N.R. 352, 2 Admin. L.R. (2d) 152 (F.C.A.) at para. 24, Cited with approval in Candor Enterprises Ltd. v. Canada (M.N.R.) (2000), 264 N.R. 149 (F.C.A.).
+[9] Wiebe Door, supra

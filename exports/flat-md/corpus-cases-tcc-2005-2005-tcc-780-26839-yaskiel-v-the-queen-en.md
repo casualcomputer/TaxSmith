@@ -1,0 +1,241 @@
+---
+title: "Yaskiel v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26839/index.do"
+last_modified: "2005-12-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 780"
+citation2: ""
+neutral_citation: "2005 TCC 780"
+decision_date: "2005-12-08"
+language: "en"
+item_id: "26839"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 710
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:02:35.985000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "11cda358862412110945d40b71bf3a588dd14e5b9ee3915fe95b7e70b0ca38af"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Yaskiel v. The Queen
+
+- Citation: 2005 TCC 780
+- Decision date: 2005-12-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 710, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yaskiel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-12-08
+Neutral citation
+2005 TCC 780
+File numbers
+2004-4603(IT)I
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4603(IT)I
+BETWEEN:
+LAWRENCE A. YASKIEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 13, 2005, at Toronto, Ontario
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+Agent for the Appellant:
+Marshall B. Sone
+Counsel for the Respondent:
+Stacey Sloan
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment of tax under the Income Tax Act for the 2002 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that in computing income, the Appellant may deduct a business expense the amount of $706.90.
+Signed at Ottawa, Canada, this 8th day of December, 2005.
+"A.A. Sarchuk"
+Sarchuk J.
+Citation: 2005TCC780
+Date: 20051208
+Docket: 2004-4603(IT)I
+BETWEEN:
+LAWRENCE A. YASKIEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk J.
+[1] This is an appeal by the Appellant, Lawrence A. Yaskiel, with respect to his 2002 taxation year. In computing income and taxes payable for that year, the Appellant claimed child care expenses in the amount of $8,429, carrying charges in the amount of $49,824, and a gross non-refundable tax credit in relation to medical expenses totalling $4,050. By Notice of Assessment dated September 15, 2003, the Minister of National Revenue assessed the Appellant to disallow the foregoing expenses and denied the tax credit claimed.
+[2] The Appellant and Bobbi Lynn Wilson separated in or about November 2000, and have been living separate and apart since that time. They have two children, Robert born December 19, 1994, and Jacob born September 2, 1997. In accordance with an Order by Seppi J. of the Ontario Superior Court of Justice dated December 13, 2001, the Appellant and Wilson were to share joint custody of the children. The Order did not require child support or spousal support payments to be made by either the Appellant or Wilson.[1] It is fair to say both from the oral and documentary evidence, that the parents were at loggerheads, particularly with respect to the care and upbringing of the children throughout taxation year 2002.
+[3] The first issue. Is the Appellant entitled to the non-refundable tax credit in the amount of $4,050 in relation to medical expenses pursuant to section 118.2 of the Income Tax Act?
+[4] Appellant's submission: The medical expenses in issue were paid to McWhinney, Metcalfe & Associates (McWhinney), in respect of psychological testing conducted by Barbara Fidler, a registered psychologist. The Appellant's representative made specific reference to the Fidler report, and to the Parenting Plan Assessment Recommendations for Lawrence Yaskiel and Bobbi Wilson regarding their sons, Robert and Jacob, prepared by the McWhinney firm,[2] and argued that "in accordance with IT Bulletin 519R2, payments to a psychologist are deductible as medical expenses". Specifically reference was made to paragraph 59 of the Bulletin which, he says, "allows these medical expenses for diagnosis".[3] On the basis of the foregoing, the Appellant's representative submitted "that these expenditures warrant deductions in accordance with the Income Tax Act, the IT-Bulletin so described, and the case law therein".[4]
+[5] Respondent's submission: Counsel argues that the amount paid to McWhinney does not qualify as a medical expense under paragraph 118.2(2)(a) of the Act. That section provides that a medical expense of an individual is an amount paid to a medical practitioner for medical services provided to the individual, the individual's spouse or common-law partner, or a dependant of the individual (within the meaning assigned by subsection 118(6)) in the taxation year in which the expense was incurred. Counsel for the Respondent argued that for the purposes of this appeal, a "medical practitioner" means a person who is a member of the College of Physicians and Surgeons of Ontario. Neither McWhinney nor Fidler were called to testify as to their medical credentials, or the services they provided in the context of the custody assessment. Furthermore, the Appellant's reliance on paragraph 59 of IT-519R2 in support of his argument that the payments in issue were made for a diagnosis, and are deductible is not well founded since paragraph 59 refers to paragraph 118.2(2)(o) of the Act which provides that a "medical expense" is an amount paid for "laboratory, radiological, or other diagnostic procedures or services ... for maintaining health, preventing disease, or assistance in the diagnosis or treatment of any injury, illness or disability". That is not the case here.
+[6] Counsel for the Respondent further argued that in the event a conclusion is reached that the individuals who provided the particular services were "medical practitioners" for the purposes of the Act, it is still necessary to determine whether those services are "medical services within the meaning of paragraph 118.2(2)(a) of the Act". Counsel conceded that there was no definition of "medical services" and thus, reference must be made to the common or ordinary meaning of that term. The Canadian Oxford Dictionary (1998), defined "medical" as "of or relating to the science or practice of medicine in general". "Medicine" is defined as "the science or practice of the diagnosis, treatment, or prevention of disease". However the evidence before the Court makes it clear that the expenses at issue were incurred strictly for the purpose of preparing "Parenting Plan Assessment Recommendations for Lawrence Yaskiel and Bobbi Wilson, regarding their sons, Robert and Jacob". Counsel noted that a custody and access assessment is used by the Courts to help determine the needs of the children in respect of whom custody or access is being sought, and to help determine the ability and willingness of the parties to satisfy those needs.[5] It is the Respondent's position that the services provided in the context of a custody assessment are social services, regardless of by whom the services are provided. Accordingly, counsel submitted the services in question were not "medical services" within the meaning of the Act, but rather were social services designed to secure the safety and well-being of the children in issue.
+[7] Conclusion: It is not possible on the evidence before the Court to conclude that the "custody assessment" was sought for any purpose other than of utilizing it in the course of the custody arrangements. This is consistent with the following provisions of the Order:
+8. THIS COURT ORDERS that the parties shall be at liberty to proceed with a Custody and Access Assessment pursuant to section 30 of the Children's Law Reform Act. The party who initiates the assessment shall select an independent assessor and pay for the cost of the assessment, without prejudice to that party's right to seek the costs of the assessment in these proceedings.
+9. THIS COURT ORDERS that the Office of the Children's Lawyer be appointed to investigate the issues of custody and access, represent the children, and prepare a written report, if required.
+Although the Appellant maintains that the older son was experiencing behavioural difficulties and implied that the custody assessment was sought, in part at least, to deal with this problem, it is obvious that the purpose of the custody assessment was not to obtain a diagnosis, effect a treatment, or prevent any disease or illness in relation to either of the children. Furthermore, it is clear from Fidler's reports with respect to both children and their father, that the:
+... evaluation was conducted within the context of a comprehensive custody assessment, and consequently the results must be interpreted with caution and seen as hypotheses to be further tested and integrated with the findings of Mr. McWhinney and Ms. Moody's full assessment. No inferences should be drawn from this report alone as to what would be in the children's best interests with respect to custody and/or access".[6] [7]
+Given the evidence, I am satisfied that the services provided by Fidler and McWhinney, Metcalfe & Associates were not "medical services" within the meaning of the Act, but rather were social services designed to secure the safety and well-being of the children. The ultimate purpose of the custody assessment was to determine the best interests of Robert and Jacob, and recommend an appropriate parenting plan in light thereof. Neither child was treated for any behavioural or mental conditions and there is no evidence of any medical diagnosis or recommendations relating to any serious disorder or dysfunction on the part of the children. Furthermore, although payments to a psychologist may, in certain circumstances, be deductible pursuant to subsection 118.2(1) of the Act, it must be clearly established that any such payment was made for a qualifying "medical expenses".[8] That has not been done in the present appeal.[9] Accordingly, the Minister's disallowance of the alleged "medical expenses" in the amount of $4,050 was correct.
+[8] The second issue. The Appellant claimed carrying charges in the amount of $49,824.97 which were broken down and dealt with separately by the Appellant's representative as follows:
+(a) Safety deposit box $150
+(b) Accounting fees $350
+(c) Interest on line of credit $836.91
+(d) Interest on borrowed monies $3,783.06
+(e) Legal fees $44,705
+Safety Deposit Box
+[9] The Appellant's representative submitted that the T1 Guide for Line 221 on the carrying charges and interest expenses clearly states that: "fees that you pay to a bank or trust company for the safekeeping of investments such as safety deposit box" are deductible.
+[10] Conclusion: It is the Appellant's responsibility to establish on a balance of probabilities that expenses were incurred for the purpose of gaining or producing income. In this particular instance, the evidence falls far short of meeting that objective. Accordingly, the deductibility of the safety deposit box costs is denied.
+Accounting fees
+[11] The submission of the Appellant's representative with respect to this item was that: "the accounting fees are fees paid to Saber & Sone with respect to the preparation and attendance for the appeal in Tax Court. IT Bulletin 99R5 - Accounting fees are deductible pursuant to 2(f) of this Bulletin".
+[12] Counsel for the Respondent noted that this issue was not properly before the Court since the Appellant's Notice of Appeal made no reference to the deductibility of accounting fees in the amount of $350, nor was the issue raised by the Appellant during the hearing of his appeal on September 13, 2005.
+[13] Conclusion: The Respondent's position is correct. The introduction of a new claim in the course of the final submissions is most improper and for this reason, the deduction of the accounting fees is disallowed. One further comment is warranted. I note that the expenses in issue were incurred with respect to the current appeal, notice of which was filed on December 6, 2004. I am not aware of any accounting principle that would permit their deduction in taxation year 2002.
+Interest on Line of Credit
+[14] The Appellant testified that in 2002, he paid interest in the amount of $836.91 with respect to an investment loan. These monies, he said, were for "stocks and just market investments". The Appellant was unsure as to whether the loan was for $15,000 or $20,000, and was unable to produce any document other than a copy of a "confirmation of bank charges issued by the Bank of Montreal dated September 12, 2005".[10]
+[15] The Respondent's position is that on a balance of probabilities, the Appellant's testimony failed to establish that he paid interest in the amount of $836.91 for the purpose of earning income from a business or property.
+[16] Conclusion It is difficult to understand why the Appellant was unable to provide any documents or other relevant material to establish the nature of the investments being made. Absent some documentary proof, it is difficult, if not impossible, to establish the purpose of the loan. Although the Appellant's representative submitted that his client "had various investments and income as shown on Schedule 4 of the Appellant's tax return", I note that the tax return was not filed as an exhibit. On the other hand, counsel for the Respondent produced and filed a printout of the Appellant's tax return with respect to the taxation year in issue, in which the Appellant reported total income as $74,311, made up of T4 earnings - $63,669; dividends - $4.00; RRSP income - $11,744; Gross Business income - $1,329; and Net Business income/loss - ($1,106); Total income - $74,311.[11]
+[17] On balance, the evidence adduced on behalf of the Appellant falls substantially short of establishing the deductibility of the amount in issue.
+Interest on borrowed monies
+[18] The Appellant submitted that interest was paid to the Royal Bank of Canadawith respect to the amount of $50,000 borrowed in 2001 for an investment in NetLive Canada Inc. The object of the project was to create:
+The first Canadian company that dealt with live communication over the Internet, so you could talk in real time. So, at the same time, talk and communicate, and do presentations in training and everything over the Internet. And it was the cost of making that idea into - - make it happen.
+As stated by the Appellant, the funds in issue were used as follows:
+It was a panel study to determine if it was a legitimate idea. And there was costs for development, like to have people attend meetings like for this panel study, and then respond to follow up, and then also to get a team together - - a team together to do the - - because it was computer programming. It was a team to plan the whole business, planning report and marketing report and some software.
+This project continued, according to the Appellant, for several years but ultimately it became obvious that it was not feasible, and would have "required a lot more money to put into and it just - - didn't have the funds. We tried though". Although the Appellant did not directly so state, it appears that the project was simply abandoned.
+[19] Counsel for the Respondent noted that although the Appellant testified that interest was paid on this loan, he failed to provide any receipts or other confirmation with respect to the interest payments. Counsel also observed that in his written submissions, the Appellant's representative included a letter to Mr. Yaskiel from RBC Royal Bank, dated September 23, 2005, which document had not been tendered in evidence in the course of the hearing. The Respondent further submitted that even if one were to accept the Royal Bank document, there is still a complete lack of documentary evidence to support the $3,783.06 interest deduction.
+[20] I agree with the submissions by counsel for the Respondent with respect to the manner in which this document was introduced. Nevertheless, the Appellant ought not to be penalized for the conduct of his representative. The document in issue is quite brief, stating only "this letter will confirm interest paid on loan no. 86562949-004", and sets out the amounts of interest paid in each of taxation years 2002 to 2005, inclusive. What is significant, however, is that although the Appellant claimed the four-year total of $3,783.06 in respect of interest on borrowed money for his NetLive venture, the documents relied upon indicate that the amount paid in 2002 was only $706.90. This error should have been noted and corrected by his representative.
+[21] I accept the Appellant's testimony that the interest in issue related to the funds borrowed by the Appellant and invested in a business venture, with the expectation of earning profit. Although it subsequently became obvious that NetLive might not succeed, it was still active in 2002. Accordingly, I am of the view that the deduction of the amount of $706.90 should be allowed.
+Legal Fees
+[22] The Appellant's representative argued that legal fees totalling $44,705 were incurred with respect to the maintenance and support of the children. He submitted that the testimony of the Appellant and the cross-examination of his former spouse, Bobbi Wilson, confirmed that:
+The legal fees incurred were as a result of obtaining child support payments, and the Appellant's defence of the visitation period of the children with the Appellant.
+He further alleged that in the course of examination, Wilson:
+Clearly stated that if she could have obtained more days with the children, the Divorce Act's support payment guidelines would have given her a far greater child support payment. Further, that Ms. Wilson testified that there was never a claim for spousal support. Therefore, under paragraph 18 of IT Bulletin 99R5, these legal fees are deductible as a result of the pre-existing right in the legislation,
+a proposition which, he said, was reaffirmed in Haley v. Canada.[12]
+[23] The representative also submitted that:
+Under paragraph 15 of the Respondent's Reply, it clearly states that the legal fees were for collection of support payments and therefore ought to be deductible as stated above.
+[24] The Respondent's position is that for the purposes of determining whether the legal expenses at issue are deductible, the relevant provisions of the Act are subsections 9(1) and 18(1). Pursuant to subsection 9(1) of the Act, a taxpayer's income for a taxation year from a business or property is the taxpayer's profit from that business or property for the year. It is now well established that the deduction of such expenses is a necessary part of the subsection 9(1) "profit" calculation, and is authorized by subsection 9(1) to the extent that such deductions are consistent with "well accepted principles of business (or accounting) practice", or "well accepted principles of commercial trading".[13]
+[25] Given the evidence presented at trial, counsel contends that none of the activities in respect of which the Appellant incurred legal expense had anything to do with the process of earning profit from a business or property. Accordingly, the deduction of the expenses in issue is not permissible under subsection 9(1) of the Act. Counsel further noted that even if the legal expenses were incurred and were deductible under subsection 9(1), the deduction thereof is expressly prohibited by paragraphs 18(1)(a) and 18(1)(h) of the Act. Specifically, paragraph 18(1)(a) provides that in computing business or property income, no deduction shall be made for an expense "except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income". Paragraph 18(1)(h) specifically prohibits the deduction of a taxpayer's "personal living expenses" as defined in subsection 248(1) of the Act. Counsel observed that the legal expenses at issue were not in any way related to the earning of income from the Appellant's business operations and that the Appellant did not make any argument that this may have been the case. Thus, the basis for the Appellant's submission appears to be that because the legal expenses were incurred to deal with the issue of child support, the said expenses are deductible.
+[26] It is the Respondent's position that the basis for the Appellant's claim is contrary to a number of cases in which the Courts have held that only certain types of legal expenses incurred in relation to issues of child support are properly deductible. Pursuant to these cases, legal expenses incurred to enforce a pre-existing right to child support (which right is recognized in, and arises from Family Law) or to contest a reduction of child support are only deductible on the basis that such legal expenses are made or incurred for the purpose of producing property income. On the other hand, legal expenses incurred to reduce the amount of child support payments are not deductible under subsection 9(1) and are expressly prohibited by paragraphs 18(1)(a) and 18(1)(h) since such expenses are not made to produce income from property, but are personal expenses of the taxpayer.[14]
+[27] One further issue was raised by the Respondent. In the course of the trial, the Appellant had produced copies of invoices from Salvatore Mannella and ChitizPathak as evidence that legal fees in the amount of $44,705 were incurred in the 2002 taxation year.[15] However, counsel submitted that on a review of those invoices, it is obvious that legal fees amounting to $8,562.67 were in fact incurred in the 2001 taxation year, and accordingly are not deductible.
+[28] Conclusion The Appellant's position is based on the proposition that a direct relationship existed between the total amount of the legal fees in issue and his concern that the recommendations contained in the custody assessment would have resulted in substantial changes to the joint custody arrangement ordered by Seppi J. in which he was not required to pay any child support.
+[29] I have reviewed the statements of account submitted by both law firms involved in some detail, and have concluded that the position advanced by the Appellant is not tenable. It is difficult to accept that legal fees with respect to "telephone advice concerning problem at home with mother-in-law staying overnight" fall within the scope of any section of the Income Tax Act, vis-à-vis deductibility. My review also disclosed that there were a number of instances where substantial fees were incurred which are totally unrelated to the "child support" issue. By way of example, legal services were provided by Mannella relating to an action taken by Marshall Sone respecting the matrimonial home. This apparently was a motion concerning "steps taken by mortgagee" (i.e. Sone) "to register Deed to matrimonial home". This matter appears to have continued well into 2001 and included items such as "mortgage motions including negotiations with opposing counsel", "attending at Brampton Court for return of both the matrimonial motion and the mortgage motion, etc.". Other services rendered by Mannella during this period of time with respect to the same issue included "preliminary review of wife's motion materials to set aside registration of transfer by Sabre and Sone", and "review of the Statement of Defence of Sabre and Sone". When cross-examined on these items, the Appellant made light of them, referring to the matrimonial home dispute as a "very, very slight issue because it was dealt between Sabre and Sone and Ms. Wilson". However, it is evident that the action being taken by Sabre and Sone affected the interest of Wilson in the matrimonial home, and necessitated her defence. With respect to the legal fees incurred for the services of ChitizPathak in July 2002 and for the balance of that year, the statements of account are, in comparison to those of Mannella, extremely brief and contain virtually no details regarding the nature of the service provided. I do note that there continued to be frequent discussions with Elliott Birnboim, Sone's solicitor, with respect to the matrimonial home, an issue which has no relevance to custody or child support.
+[30] There is also another series of invoices relating to the preparation of motion materials and "instruction re: motion" which, the Appellant initially testified were related to custody and support matters. When cross-examined, he responded:
+Well it vaguely rings a bell because that's when the McWhinney report would have been out and it was either moving to put a stop to that or do something related along those lines, is my recollection.
+Counsel for the Respondent produced a supplementary notice of motion and affidavit of Yaskiel[16] for an Order prohibiting Wilsonfrom driving with the children of the marriage, and an Order to provide any and all information relating to her "criminal charge". When faced with these documents, the Appellant responded "This was - - yeah, this is the driving - - drunk driving and speeding issue". However, there was no drunk driving charge. Wilson, for her part, testified that the issue related to her failure to provide a breath sample. This was, she stated, because she suffered from severe allergies and asthma, and at that time, there was a severe smog alert, as a result of which she wax not able to "blow into the machine". This explanation was accepted by the Crown and the charges were dropped. While I can understand the Appellant's concern with respect to the children's safety (although they were not in the vehicle at the relevant time), I see no relationship between the legal fees in respect of these motions and child support payments.
+[31] I do not wish to belabour the point, but it must be noted that there are a substantial number of invoices with respect to issues relating to schooling, children travelling with wife on holiday, moving out of the province, and indeed one re: "client's intentions to report wife to fraud authorities". It must also be noted that throughout 2002, the parties were at odds with respect to a number of issues, and that it was not until December of that year or the early part of 2003, when an agreement appears to have been reached with respect to most issues.
+[32] The Appellant relied on the legal bills tendered in evidence as proof that he incurred expenses for the purpose of preventing his former spouse from obtaining child support. Although there are repeated references in the legal accounts to services provided with respect to divorce, custody, the marital home, and the legal proceedings to prevent her from driving with the children, there was only one specific reference to services provided with respect to child support and that was in respect of Wilson's request for interim child support. I do not mean to suggest that custody and support were not important issues that were dealt with, but there is no evidence to establish that child support was the predominant issue at all relevant times as claimed by the Appellant.
+[33] The Appellant's representative cited Haley v. Canada[17] in support of his submission that the legal fees are deductible "as a result of the pre-existing right in the legislation". In my view, he totally misinterpreted that decision. In Haley, the Appellant was permitted to deduct legal fees when it was established that a major portion of the money expended by her was attributable to enforce maintenance and support Orders obtained during the marriage, or to protect that income in the face of opposition to its discontinuance. In effect, Haley expended funds in order to maintain her right to support payments. This is the exact opposite of the Appellant's objective, which was to ensure that he did not have to make support payments. Thus, as contrasted to Haley, a major portion of the money expended by the Appellant on legal fees was not attributable to efforts to maintain a right to receive child support payments, but rather were intended to ensure that he was not made responsible for any child support payments to his former wife.
+[34] Two other decisions are relevant to this issue. In Bayer,[18] the question raised was whether legal costs incurred by an Appellant to obtain a Court Order reducing the amount of alimony payments to support his former spouse could be deducted in the calculation of his income as being within the meaning of paragraph 18(1)(a) of the Act. In her Judgment, Lamarre Proulx J. noted:
+15. Usually paragraph 18(1)(a) is applied in commercial undertakings. However in view of the language used in paragraph 18(1)(a) that is 'business or property', and in view of the Evans case (supra), property need not be part of a commercial undertaking. However, the expense has to be made to gain or produce income from a property, and that means from what I gather from the aforementioned case law, that the property has to be an income producing property. A spouse enforcing a right to alimony payments is enforcing an income producing right. A spouse enforcing a right to obtain a court order for reducing alimony payments is not enforcing an income producing right, but is enforcing a right to sue to diminish the amount to be paid by virtue of an obligation to pay.
+16. The monies expended by the Appellant for the legal fees incurred had as an effect to increase the taxpayer's income as calculated under Division B of the Act,but this increase does not come from an income-producing property, but from a reduction of an obligation that he had which was not an income-producing property. In these circumstances, the expenses in question were not within the meaning of those contemplated by paragraph 18(1)(a) of the Act. It is not moneys expended for any property that may be deducted by virtue of paragraph 18(1)(a) of the Act. It is moneys expended for a property that, in itself, produces income. (Emphasis added)
+[35] Reference should also be made to Lanthier[19]in which Lamarre J. noted:
+8 In Sabour, supra, Judge Bowie of this Court wrote as follows regarding the position taken by Judge Archambault in Bergeron:
+10 As Archambault J. has said, the line of reasoning that he developed in Bergeron was not specifically considered in any of the decided cases. Nevertheless, I believe that such a long line of authority in this Court, endorsed as it has been by the Federal Court of Appeal, should be followed until it has been overruled by a higher Court, or the Act has been amended by Parliament. It is not totally irrelevant to this conclusion that the position of the Minister, as expressed in Interpretation Bulletin IT99R5, paragraphs 17 to 20, is that legal fees spent to obtain support amounts from a spouse or a former spouse are deductible, so long as the amounts are not capital amounts, on the authority of Burgess.
+9 Thus, in the case at bar, it is clear that as the support payor, the Appellant is not entitled to deduct his legal expenses because there is no provision in the Act authorizing the deduction of legal expenses made or incurred for the purpose of reducing the support payable. It is not an expense made or incurred for the purpose of gaining or producing income from property. (Emphasis added)
+As contrasted to Bayer and Lanthier, the Appellant's testimony was that he retained counsel to assist in dealing with the recommendations contained in the custody assessment because had these recommendations been implemented, "the effect would be that I wouldn't have joint custody. I would have a much more reduced custody" and his financial obligations "would have been much greater. I would have to pay much more support. - - Child support.". The rationale accepted in the above two mentioned decisions equally applies to the Appellant's situation since he has not established on a balance of probabilities that the expenses in issue were incurred for the purpose of gaining or producing income from property. Accordingly, the deduction of the expenses in issue is not permissible pursuant to subsection 9(1) of the Act, and is expressly prohibited by paragraphs 18(1)(a) and 18(1)(h) of the Act.
+Child Care Expenses
+[36] In his Notice of Appeal, the Appellant claimed a deduction for child care expenses, but did not itemize them either as to their nature or the amount claimed other than to say "copies of receipts are available". In the course of the hearing, the Appellant provided a list of expenses together with several documents and receipts.[20] Initially, the claim included amounts paid in respect of summer camp (YMCA), skating lessons and Tae Kwon Do for both children, skiing for Robert, tuition and books for Jacob. During the course of the hearing, the Appellant withdrew his claim for child care expenses with respect to skating and Tae Kwon Do.
+[37] The Appellant's representative submitted that the expenses as established by the receipts "were for child care costs used to educate the child as well as to supervise the child whilst the Appellant was at work". Therefore, in accordance with IT495R2, these expenses qualify as legitimate costs and are deductible from the taxpayer's income. The Appellant's representative made reference to and relied on the fact that Wilson, in her testimony, admitted that she did not pay all of the child care expenses as required by the Court Order dated December 13, 2001.[21]
+[38] Conclusion: The document produced by the Appellant with respect to Jacob's school fees is dated July 18, 2005, and sets out the amount of fees paid as follows: 2002-2003 tuition: $7,460; 2002-2003 books: $225; and summer camp 2003 (Robert and Jacob Yaskiel): $943.60. In the course of cross-examination, he was unable to testify what portion of the fees reflected expenses he alleges were incurred in the relevant taxation year. His explanation regarding the misplacement of the "original receipts" is equally questionable.
+[39] The testimony given by Ms. Wilson contradicts that given by her former husband. She stated that in accordance with the Seppi J. Order, the children were required to be enrolled in Middlebury and Sherwood Heights Schools, respectively, and that was, in fact, the case in 2002. Furthermore, by virtue of that Order, Wilson was required to pay for the children's activities, private school and after school programs. With respect to these items, Wilson produced four receipts as follows:
+(a) Sherwood Heights School, receipt dated April 25, 2003. These fees were paid with respect to a summer program being offered at the private school which was operated like a summer camp. The total cost was $1,600 for the weeks that both children attended. Wilson testified that she made this payment in 2002 and obtained the receipt on April 25, 2003, for tax purposes (Exhibit R-6).
+(b) Page 2 of Exhibit R-6 sets out the child care portion of Jacob's school fees paid for the calendar year 2002 being $1,097.20, while page 3 is the tuition receipt for Jacob setting out that the total tuition fees paid by Wilson were $4,114. This tuition receipt also includes the notation "amount for which a child care deduction tax receipt was issued that are included in the above total tuition fees paid: $1,097.20".
+(c) The fourth page of Exhibit R-6 is an official child care tax receipt for income tax purposes for 2002 issued by the Director of Middlebury Junior YMCA with respect to child care payments re: Robert Yaskiel. This document is dated May 2003. This, according to Wilson, reflected the "before and after school care for Robert, who attended the YMCA that's located in his public school".
+[40] Wilson testified that she made the payments from January to August, 2002 and that "because it was too expensive for me to continue making the only payments. I was the only one contributing to the educational costs". At that point, she attempted to convince her former husband to agree to permit Jacob to go to a public school since she could no longer afford to pay the fees at the private school. Since she was unable to make the payments for the last three months of 2002, they were paid by the Appellant. This became another issue in their dispute and ultimately led to a Court Order directing her to leave Jacob in the private school. She further testified that the expense issue with respect to schooling was not resolved until sometime in 2003 when a Judge directed her to repay Yaskiel the amount of school fees he had covered[22] and that she repaid him at some point of time in 2003. I note that the Appellant did not dispute the fact that he was reimbursed for the tuition fees paid by him in 2002.
+[41] One further submission was made by the Appellant's representative with respect to this issue. He contended that "in the Minister's Reply under paragraph 15, it is stated that legal expenses were incurred to recover child support payments from Bobbi Jo Wilson. The Order of Justice Margeson stated that payments must be made by the taxpayer to be deductible and, therefore, the fact that the Appellant paid these expenses makes it deductible from his income, and not from Bobbi Jo Wilson's income"[23]
+[42] In his appeal, the Appellant claimed, inter alia, a deduction as child care expenses, amounts paid to Sherwood Heights School and the YMCA. In his Judgment, Margeson J. made the following comments:
+3. The Court is satisfied that the Appellant is not entitled to claim these latter amounts. Firstly, he did not make the payments. It is quite clear from the evidence that he was not required to make them. According to the evidence the agreement provided that the spouse was to make those payments.
+Based on this decision, the Appellant's representative argued that since the Court "stated that the payments must be made by the taxpayer to be deductible and therefore, the fact that the Appellant paid these expenses makes it deductible from his income and not from Bobbi Jo Wilson's income".
+[43] As previously noted, there is no dispute that the Appellant was reimbursed for the tuition fees paid by him in 2002. Since he was reimbursed there is, in my view, no legal basis upon which he would be entitled to deduct the relevant amounts from his income.
+Ski Lessons
+[44] The Appellant testified that the amount of $200.60 related to skiing lessons for Robert which took place in Quebec during December of 2002. He further testified that he was with the children "on the ski hill at that time". The Appellant's representative made no comments with respect to this item. The Respondent's position is that the expenses incurred for these lessons were not incurred to enable the Appellant to perform employment duties. Rather, the logical conclusion is that these were recreational activities which were enjoyed over the course of a vacation in Quebec by the Appellant and his children.
+[45] For the above reasons, I have concluded that the Appellant's testimony falls far short of establishing an entitlement to deduct any of the child care expenses in issue.
+[46] The appeal from the assessment of tax made under the Act for the 2002 taxation year is allowed, but only on the basis that the Appellant may deduct the amount of $706.90 as a business expense. In all other respects, the appeal is dismissed.
+Signed at Ottawa, Canada, this 8th day of December, 2005.
+A.A. Sarchuk"
+Sarchuk J.
+CITATION:
+2005TCC780
+COURT FILE NO.:
+2004-4603(IT)I
+STYLE OF CAUSE:
+Lawrence A. Yaskiel and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 13, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT:
+December 8, 2005
+APPEARANCES:
+Agent for the Appellant:
+Marshall B. Sone
+Counsel for the Respondent:
+Stacey Sloan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-3.
+[2] Exhibit A-1. This Order was issued in terms of the Minutes of Settlement, filed as Exhibit A-6.
+[3] IT-519R2 (consolidated):
+59 Qualifying medical expenses under paragraph 118.2(2)(o) include the cost of laboratory, radiological and other diagnostic procedures and services, with necessary interpretations, for maintaining health, preventing disease, or assisting in the diagnosis or treatment of any injury, illness, or disability of the patient, as prescribed by a medical practitioner or dentist. An example of such expenses which may not be covered by Provincial Health Insurance are the following expenses involved with artificial insemination: ...
+[4] This was the full extent of the submissions by the Appellant's representative. No cases were cited in support.
+[5] Children's Law Reform Act, section 30.
+[6] See test report of Robert Yaskiel, dated October 21, 2002, page 8, Exhibit A-2. An assessment was also done with respect to the Appellant and that report refers to the evaluation in virtually the identical language.
+[7] Robert L. McWhinney, M.A., M.S.W.
+Diane Moody, M.S.W.
+[8] The only relevant reference to psychologist in this section is found in subsection 118.2(l.9). The relevant portion of this reads:
+(l.9) as remuneration for therapy provided to the patient because of the patient's severe and prolonged impairment, if
+(ii) the therapy is prescribed by, and administered under the general supervision of,
+A a medical doctor or a psychologist, in the case of mental impairment, and ...
+No such services were provided.
+[9] It should also be noted that although the services were provided by both McWhinney and Fidler, the Appellant's payments were made solely to McWhinney, Metcalfe & Associates. Clearly, any payments made to the firm were not amounts paid to a medical practitioner, and do not qualify as medical expenses under the Act. What portion, if any, of that payment was paid to Fidler has not been established.
+[10] Exhibit A-8.
+[11] Exhibit R-2.
+[12] [2000] T.C.J. No. 233.
+[13] Symes v. R., [1993] 4 S.C.R. 695 at paras. 39-47.
+[14] In this context, counsel specifically made reference to Lantier v. R., 2003TCC149 and Bayer v. M.N.R., [1991] 2 C.T.C. 2304.
+[15] Exhibits A-4 and A-5.
+[16] Exhibits R-4 and R-5.
+[17] [2003] T.C.J. 233.
+[18] supra.
+[19] supra.
+[20] Exhibit A-7. Counsel for the Respondent, while not objecting to the production of these documents, noted that the amounts set out in the documents produced by the Appellant are inconsistent with the amounts set out by him on forms T778 "Child Care Expenses Deduction for 2002" (Exhibit R-3), as well as with the Summary provided by the Appellant himself as page 1 of Exhibit A-7.
+[21] The latter comment is a reference to paragraph 6 of the Seppi J. Order which read in part:
+6 THIS COURT ORDERS that the husband shall continue to pay household expenses relating to the matrimonial home, including the mortgages and realty taxes and utilities. The wife shall pay for the children's activities, private school and after-school programs.
+[22] The evidence of both parties indicates that an agreement in principle with respect to all issues was reached in the early part of 2003 and was ultimately followed by a Court Order, the date of which was not provided. It is unfortunate that only a marked-up draft of this agreement was submitted as an exhibit. It did, however, indicate that a last minute series of amendments had been made, several pages of which were missing. Whether a formal Judgment issued as a result thereof, and when it was issued, is not before the Court.
+[23] The decision referred to was Yaskiel v. The Queen, 2005TCC640.

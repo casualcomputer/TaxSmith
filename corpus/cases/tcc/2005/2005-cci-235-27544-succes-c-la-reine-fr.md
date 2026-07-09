@@ -1,0 +1,148 @@
+---
+title: "Succes c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27544/index.do"
+last_modified: "2005-04-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 235"
+citation2: ""
+neutral_citation: "2005 CCI 235"
+decision_date: "2005-04-22"
+language: "fr"
+item_id: "27544"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 106
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:59:17.675000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "120ed660749265cf6a2d0799abace2b5402d30b7dddeb1a2e7d7c0de4a5994b5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Succes c. La Reine
+
+- Citation: 2005 CCI 235
+- Decision date: 2005-04-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 106, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Succes c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-22
+Référence neutre
+2005 CCI 235
+Numéro de dossier
+2004-399(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-399(IT)I
+ENTRE :
+ANTONINE SUCCÈS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 23 février 2005 à Montréal (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelante :
+L’appelante elle-même
+Avocat de l'intimée :
+Me Benoît Mandeville
+____________________________________________________________________
+JUGEMENT
+Les appels de la cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1988, 1989, 1990, 1991, 1992 sont rejetés.
+L’appel de la cotisation à l’égard de l’année d’imposition 1997 est rejeté à l’exception de la partie de la cotisation qui réclame le remboursement de crédit d’impôt payé à l’appelante au nom de Micheline Moïse.
+Signé à Edmundston, Nouveau-Brunswick, ce 22e jour d’avril 2005.
+« François Angers »
+Juge François Angers
+Référence : 2005CCI235
+Date : 20050422
+Dossier : 2004-399(IT)I
+ENTRE :
+ANTONINE SUCCÈS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Madame Antonine Succès interjette appel à l’encontre d’une cotisation datée du 25 novembre 2002 dans laquelle le ministre du Revenu national (le « ministre ») réclame le remboursement de crédits d’impôt pour enfants et de crédits pour taxe sur les produits et services (« TPS ») pour les années d’imposition 1988, 1989, 1990, 1991, 1992 et 1997 au motif que l’appelante les aurait obtenus en utilisant de fausses identités.
+[2] Le ministre soutient que durant les années d’imposition 1988, 1989, 1990, 1991 et 1992, l’appelante a utilisé frauduleusement le nom et le numéro d’assurance sociale de madame Gerda Michel afin de percevoir des crédits d’impôt pour enfants selon les dispositions légales qui existaient à cette époque et, après le 1er janvier 1992, des crédits pour TPS; les montants totaux étaient de 1 647 $, 1 018 $, 960 $, 1 056 $ et 810 $ pour les années 1988, 1989, 1990, 1991 et 1992 respectivement, sans compter les intérêts. L’appelante nie cette allégation.
+[3] Deuxièmement, le ministre soutient que durant l’année d’imposition 1997, l’appelante a utilisé frauduleusement le nom et le numéro d’assurance sociale de madame Mona Moiseneault afin de percevoir des crédits pour TPS de 410,31 $ et que, durant la même année, l’appelante a utilisé le nom et le numéro d’assurance sociale de madame Micheline Moïse afin de percevoir des crédits d’impôt pour enfants de 174,30 $.
+[4] L’appelante a admis, lors de l’audience, qu’elle avait perçu des crédits d’impôt en utilisant le nom et le numéro d’assurance sociale de Mona Moisenault et que cette dernière n’a jamais existé. Le ministre, de son côté, retire sa demande de remboursement en ce qui concerne les crédits d’impôt payés au nom de madame Micheline Moïse. La sœur de l’appelante a avoué à l’audience être celle qui a utilisé cette fausse identité et qui en a reçu le bénéfice.
+[5] Il s’agit donc de déterminer si le ministre est justifié de réclamer à l’appelante les montants qui, selon lui, ont été obtenus par cette dernière en utilisant le nom et le numéro d’assurance sociale de madame Gerda Michel durant les années d’imposition de 1988 à 1992 inclusivement.
+[6] L’appelante témoigne que madame Gerda Michel est son amie et qu’elle a demeuré avec elle de 1984 à 1992, soit jusqu’à ce qu’elle quitte le Canada pour aller aux États-Unis. Après son déménagement, elle revenait au Canada deux fois par année, quoique l’appelante signale aussi qu’elle serait venue au Canada pour des séjours d’une semaine et ce, avant 1992.
+[7] Madame Gerda Michel avait un compte en banque et l’appelante, selon son témoignage, était autorisée à faire des retraits. Elle reconnaît y avoir fait des retraits et avoir envoyé cet argent à madame Michel lorsqu’elle n’était pas au Canada, mais elle nie avoir utilisé frauduleusement le nom et le numéro d’assurance sociale de cette dame afin de percevoir des crédits d’impôt pour enfants.
+[8] L’appelante reconnaît s’être servie du nom et de l’identité de madame Gerda Michel pour obtenir de l’assistance sociale de façon frauduleuse entre 1992 et 1995. Elle admet avoir utilisé une carte d’assurance-maladie portant le nom de Gerda Michel avec sa photo de même qu’une carte d’assurance sociale portant ce nom. Elle a reconnu sa culpabilité à plusieurs accusations de fraude, de voies de fait et de vol. Elle a plaidé coupable selon les conseils de son avocat et a écopé d’une peine de dix mois d’emprisonnement. Elle fut libérée après avoir fait un mois et demi de prison. Des copies de ces accusations ont d’ailleurs été déposées en preuve. L’appelante admet aussi avoir restitué la somme de 133 844 $ lorsqu’un bref de saisie avant jugement fut émis à l’encontre d’un immeuble lui appartenant.
+[9] Hugues-Martin Lefebvre est enquêteur en vertu de la Loi sur la sécurité du revenu du Québec. Il est celui qui a fait enquête sur les agissements de l’appelante et sur son utilisation de fausses identités. Lors de la perquisition à la résidence de l’appelante, on a mis la main sur plusieurs fausses cartes d’assurance sociale et sur des cartes d’assurance-maladie du Québec avec la photo de l’appelante mais portant un nom d’emprunt, notamment celui de Gerda Michel. L’enquête a révélé que toutes les écritures sur les chèques, les cartes en question, les demandes de prestations, les dépôts bancaires et autres étaient faits par l’appelante, mais en utilisant une identité différente.
+[10] Dans le cas de Gerda Michel, M. Lefebvre a résumé son témoignage en lisant certains paragraphes pertinents de son affidavit fait à l’appui d’une réquisition d’un bref de saisie avant jugement que je reproduis ci-après :
+6. Tel que plus amplement détaillé ci-après, mon enquête a révélé que la défenderesse a utilisé depuis au moins le mois d’août 1992 et continue d’utiliser un ensemble de stratagèmes, dont la falsification de documents, l’usage de fausses adresses et l’emploi d’au moins sept (7) fausses identités, afin de soutirer illégalement du Ministère des prestations;
+[…]
+84. Le 4 décembre 1992, une dénommée Marie Gerda Michel a présenté une demande afin d’obtenir des prestations, tel qu’il appert d’une copie de la demande annexée pièce AL‑30;
+85. L’adresse de résidence fournie alors par la dénommée Marie Gerda Michel, soit le 4497 rue Louis-Roy à St‑Léonard, correspond à un logement de l’immeuble dont la défenderesse à cette époque était la copropriétaire;
+86. La dénommée Marie Gerda Michel a reçu, entre le 4 décembre 1992 et le 1er avril 1995, des prestations totalisant la somme de 22 874,00 $;
+87. Lors de sa demande de prestations au mois de décembre 1992, la dénommée Marie Gerda Michel a fourni au Ministère la Carte d’identié (sic) d’immigration Canada pièce AL-21;
+88. La dénommée Marie Gerda Michel, lorsqu’elle a requis le remplacement de sa carte d’assurance-maladie le ou vers le 16 janvier 1987, a déclaré que son domicile était situé au 4493 A Louis-Roy à St-Léonard, numéro civique qui n’existe pas mais dont les lieux correspondent au domicile de la défenderesse, tel qu’il appert d’une copie de la demande annexée pièce AL-31;
+89. Lorsque la dénommée Marie Gerda Michel a affirmé avoir brisé sa carte d’assurance-maladie le 10 avril 1988 et requis l’émission d’une nouvelle carte, elle a indiqué comme adresse de domicile le 4493 Louis-Roy à St-Léonard et comme adresse antérieure le 3288 d’Hérelle à Montréal, tel qu’il appert d’une copie de la demande annexée pièce AL‑32;
+90. Or, cette dernière adresse correspond au domicile de la défenderesse alors que le 3288 d’Hérelle correspond à son adresse précédente, tel qu’il appert de l’acte d’achat pièce AL-3;
+91. Le 5 février 1999, j’ai rencontré Mme Sonia Michaud, experte en écriture et documents au Laboratoire judiciaire central de la Gendarmerie Royale du Canada à Ottawa;
+92. Je lui ai alors soumis comme document spécimen la déclaration de la défenderesse du 12 janvier 1999 pièce AL‑10 et je lui ai demandé de la comparer notamment avec les déclarations écrites de la dénommée Marie Gerda Michel fournies au Ministère lors du contrôle et de la mise à jour de son dossier;
+93. Suite à cet examen préliminaire, Mme Michaud m’a déclaré que le rapport d’expertise qu’elle me fournira sous peu devrait, sous toutes réserves, être catégorique et à l’effet notamment que la même personne est l’auteure du document spécimen et des documents comparés;
+[11] La fraude commise par l’utilisation de cartes d’identité au nom de Gerda Michel et qui a mené au dépôt des accusations contre l’appelante s’est donc produite entre le 4 décembre 1992 et le 1er avril 1995. L’expertise de madame Michaud, selon les paragraphes 91, 92 et 93, démontre que l’appelante est bien l’auteur des documents ayant servi à l’obtention des fausses pièces d’identité portant le nom de madame Gerda Michel lors du contrôle et de la mise à jour de son dossier, donc lorsqu’elle a demandé le remplacement de sa carte d’assurance-maladie le 16 janvier 1987 et lorsque la dénommée Gerda Michel a affirmé avoir brisé sa carte d’assurance-maladie le 10 avril 1988. (Voir les paragraphes 88 et 89.)
+[12] Jean-Claude Roy était agent des oppositions à l’Agence des douanes et du revenu lorsque la cotisation en litige a été établie. La cotisation repose sur l’information obtenue par Développement des ressources humaines Canada dans une note de service du 4 mai 1999. Selon cette note de service, l’appelante a utilisé plusieurs fausses identités afin de percevoir des prestations d’aide sociale et des remboursements de TPS, notamment le nom et le numéro d’assurance sociale de madame Gerda Michel. Il est écrit dans cette note de service que madame Gerda Michel existe, mais qu’elle a quitté le Canada il y a plus de dix ans et habite aux États-Unis. Son identité aurait été utilisée à son insu par l’appelante. Cette information confirme les résultats d’une enquête menée au sujet des cartes d’assurance sociale utilisées par l’appelante et saisies à sa résidence qui ont mené aux accusations d’avoir commis des fraudes entre 1992 et 1995.
+[13] M. Roy a aussi produit un tableau confirmant les montants payés à madame Gerda Michel depuis 1988, lesquels correspondent au montant réclamé par le ministre. Il est toutefois étrange que, dans le calcul des montants pour les années 1988, 1989 et 1990, on réfère à des crédits de TPS alors que les dispositions de la Loi sur la taxe d’accise portant sur la TPS ne sont entrées en vigueur que le 1er janvier 1992.
+[14] Au moment de l’opposition, M. Roy a rencontré l’appelante, qui lui a répété que madame Michel est son amie et qu’elle avait demeuré chez elle de 1988 à 1992 avec ses deux enfants. Durant cette période, madame Michel travaillait pour un employeur dont l’établissement était situé sur la rue St‑Urbain. Il a demandé à l’appelante de lui fournir les coordonnées de madame Michel, mais il ne les a jamais reçues.
+[15] M. Roy a, par la suite, témoigné avoir reçu un appel téléphonique d’une personne qui s’est identifiée comme étant Gerda Michel et avoir également eu une conversation téléphonique avec l’avocat de l’appelante. Ces conversations confirment en grande partie les prétentions de l’appelante, en particulier son aveu dans le cas de Mona Moiseneault et sa non-participation dans les deux autres. Elles ne prouvent toutefois pas les transferts à madame Michel et l’adresse de celle-ci. M. Roy a terminé son témoignage en reconnaissant qu’il ne peut clairement établir si l’appelante a bénéficié de ces montants, sauf pour le fait qu’ils ont été déposés dans le compte de madame Michel et que l’appelante était signataire autorisée pour ce compte et en a retiré de l’argent.
+[16] La preuve révèle donc que Gerda Michel a demandé le remplacement de sa carte d’assurance-maladie en janvier 1987 et qu’elle a déclaré que l’adresse de son domicile était celle de l’appelante. De plus, cette même dame a affirmé avoir brisé sa carte d’assurance-maladie le 10 avril 1988 et a demandé l’émission d’une nouvelle carte, en donnant toujours l’adresse de l’appelante. Les écritures lors du contrôle et de la mise à jour du dossier de Gerda Michel et celles sur une déclaration de l’appelante proviennent de la même personne, soit l’appelante. La preuve révèle également que Gerda Michel a quitté le Canada il y a plus de 10 ans et qu’elle habite aux États-Unis. L’appelante avait accès à un compte en banque au nom de Gerda Michel et elle y faisait des retraits.
+[17] De son côté, l’appelante soutient que madame Michel a quitté le Canada en 1992 et qu’elle n’a pas obtenu de façon frauduleuse les crédits d’impôt pour enfants qu’on lui réclame. Elle admet avoir retiré de l’argent de ce compte, mais elle dit qu’elle envoyait cet argent à madame Michel. Aucune preuve de transfert n’a été avancée. De plus, elle n’a fourni aucun élément de preuve pouvant confirmer la présence de madame Michel au Canada jusqu’en 1992, sauf l’adresse de celui qui aurait été son employeur. Elle n’a pas produit de document lui donnant le droit de retirer de l’argent du compte de madame Michel, tel qu’une procuration. Il faut aussi se demander pourquoi il était nécessaire d’envoyer de l’argent à madame Michel si cette dernière résidait avec l’appelante jusqu’en 1992.
+[18] Il me paraît donc invraisemblable que madame Michel n’ait quitté le Canada qu’en 1992, tout comme me paraissent invraisemblables les prétentions de l’appelante voulant qu’elle lui envoyait cet argent. Il est fort probable que l’appelante a commencé dès 1988 à utiliser de fausses pièces d’identité au nom de Gerda Michel, comme le démontre la preuve avancée par l’intimée, et qu’elle ait ainsi profité de ces fausses pièces d’identité pour obtenir les crédits d’impôt en question.
+[19] Il ne fait pas de doute que seule la vraie Gerda Michel aurait pu éclaircir la Cour au sujet des prétentions de l’appelante et les confirmer. Le fait de ne pas avoir appelé cette personne comme témoin laisse en suspens les questions suivantes : en vertu de quelle autorité l’appelante était-elle en droit de retirer de l’argent de son compte de banque? A-t-elle reçu les sommes auxquelles elle avait droit au titre du crédit d’impôt pour enfants? Était-elle vraiment au Canada entre 1988 et 1992 et résidait-elle au domicile de l’appelante? Son absence me permet donc d’inférer que son témoignage n’aurait pas été favorable à l’appelante. Il faut se rappeler qu’en matière fiscale, le contribuable est celui qui est le mieux placé pour confirmer ou infirmer une cotisation puisque, dans la plupart des cas, il est le seul à connaître les faits exacts.
+[20] Pour ces raisons, l’appelante, à mon avis, ne s’est pas acquittée du fardeau de la preuve qui reposait sur elle. Les appels sont donc rejetés, à l’exception de celui relativement à madame Micheline Moïse, où l’intimée consent à ce que l’appel soit admis.
+Signé à Edmundston (Nouveau-Brunswick), ce 22e jour d’avril 2005.
+« François Angers »
+Le juge Angers
+RÉFÉRENCE : 2005CCI235
+Nº DU DOSSIER DE LA COUR : 2004-399(IT)I
+INTITULÉ DE LA CAUSE : Antonine Succès et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 23 février 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 22 avril 2005
+COMPARUTIONS :
+Pour l'appelante :
+L’appelante elle-même
+Avocat de l'intimée :
+Me Benoît Mandeville
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

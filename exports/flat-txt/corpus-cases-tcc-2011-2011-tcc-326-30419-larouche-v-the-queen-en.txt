@@ -1,0 +1,127 @@
+Title: Larouche v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30419/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-326-30419-larouche-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-06-29
+
+# Larouche v. The Queen
+
+- Citation: 2011 TCC 326
+- Decision date: 2011-06-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7949, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larouche v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-29
+Neutral citation
+2011 TCC 326
+File numbers
+2010-3669(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3669(IT)I
+BETWEEN:
+CHARLES LAROUCHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 15, 2011, at Québec, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent of the appellant:
+Marc J. Rousseau
+Counsel for the respondent:
+Ilinca Ghibu
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act on June 8, 2009, in respect of the 2008 taxation year, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of June 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 16th day of August 2011
+Susan Deichert, Reviser
+Citation: 2011 TCC 326
+Date: 20110629
+Docket: 2010-3669(IT)I
+BETWEEN:
+CHARLES LAROUCHE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal, under the informal procedure, from an assessment made on June 8, 2009, by the Minister of National Revenue (Minister) under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) as amended (Act), for the 2008 taxation year.
+[2] The only issue is whether the appellant, in computing his income for the 2008 taxation year, is entitled to deduct the amount of $2,125, which he claimed as a support amount paid directly to his adult daughter who is a student.
+[3] Under an agreement dated November 14, 2008, and homologated, in the form of a consent to judgment, by the Family Division of the Quebec Superior Court, the appellant was ordered to pay support for a child of full age who is a student, in the amount of $425 per month, directly to his daughter, effective August 1, 2008, and until April 2010, on the condition that his daughter continue her university studies until then.
+[4] At the hearing, it was admitted that the appellant's daughter was 20 years old in 2008 and was not then in her parents' custody.
+[5] In his Notice of Appeal, the appellant noted that the amount was not a child support amount paid to a former spouse. Since 1997, such support has not been deductible by the payer.
+[6] The relevant provisions of the Act are to be found in sections 56.1, 60 and 60.1. Subsection 56.1(4) defines the terms "support amount" and "child support amount" in the following terms:
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement;
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a legal parent.
+[7] Paragraph 60(b) permits the deduction of a support amount and reads as follows:
+Section 60: Other deductions
+There may be deducted in computing a taxpayer’s income for a taxation year such of the following amounts as are applicable…
+(b) the total of all amounts each of which is an amount determined by the formula
+A – (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer's income for a preceding taxation year;
+[8] Since the payments were made directly to the appellant's daughter, the application of subsection 60.1(1) of the Act, which reads as follows, must be considered:
+Section 60.1: Support
+(1) For the purposes of paragraph 60(b) and subsection 118(5), where an order or agreement, or any variation thereof, provides for the payment of an amount by a taxpayer to a person or for the benefit of the person, children in the person's custody or both the person and those children, the amount or any part thereof
+(a) when payable, is deemed to be payable to and receivable by that person;
+and
+(b) when paid, is deemed to have been paid to and received by that person.
+[9] The facts disclose that the appellant paid support to his daughter under an order issued by the Superior Court upon a motion by the daughter to compel her father to fulfil his support obligation toward her. The amount in issue was paid at a time when the appellant's daughter was of full age and was no longer in the custody of either parent. She had no financial resources because she was a student.
+[10] The definition of "support amount" in subsection 56.1(4) of the Act refers to an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount and if certain other requirements concerning the recipient (the payer's former spouse or common-law partner) or the payer (the father of a child of the recipient) are met.
+[11] In the case at bar, the amounts that the appellant paid directly to his daughter cannot qualify as a "support amount" because the appellant's former spouse or common-law partner did not receive the amounts, and certainly could not use the amounts at her discretion.
+[12] The amounts that the appellant paid directly to his daughter do not meet the requirements set out in the definition of "child support amount" because the payments are not even partially for the support of a recipient who is a former spouse or common-law partner of the appellant.
+[13] Paragraph 60(b) of the Act permits the deduction of amounts paid to the appellant's former spouse or common-law partner for the benefit of that person, or that person’s children, or both. Amounts paid directly for the benefit a child are deductible only if subsection 60.1(1) applies.
+[14] Under subsection 60.1(1), an amount that is not paid to the payer's former spouse or common-law partner, but is paid directly for the benefit of a child in the former spouse or common-law partner's custody, is deemed to have been paid to that former spouse or common-law partner. Unfortunately for the appellant, subsection 60.1(1) cannot apply to the case at bar because, at the time that the payments in issue were made, the appellant's former spouse or common-law partner did not have custody of the appellant's daughter.
+[15] Consequently, the appeal for the 2008 taxation year is dismissed on the ground that the amount of $2,125, which the appellant paid directly to his daughter, was not deductible in computing his income for that year.
+Signed at Ottawa, Canada, this 29th day of June 2011.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 16th day of August 2011
+Susan Deichert, Reviser
+CITATION: 2011 TCC 326
+COURT FILE NO.: 2010-3669(IT)I
+STYLE OF CAUSE: CHARLES LAROUCHE AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: April 15, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: June 29, 2011
+APPEARANCES:
+Agent of the appellant:
+Marc J. Rousseau
+Counsel for the respondent:
+Ilinca Ghibu
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

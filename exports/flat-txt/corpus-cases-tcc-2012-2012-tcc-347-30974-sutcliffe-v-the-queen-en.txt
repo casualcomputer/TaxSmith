@@ -1,0 +1,120 @@
+Title: Sutcliffe v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30974/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-347-30974-sutcliffe-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-10-02
+
+# Sutcliffe v. The Queen
+
+- Citation: 2012 TCC 347
+- Decision date: 2012-10-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4802, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sutcliffe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-02
+Neutral citation
+2012 TCC 347
+File numbers
+2012-1655(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-1655(IT)I
+BETWEEN:
+DOUGLAS JOHN SUTCLIFFE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 25, 2012 at Vancouver, British Columbia
+By: The Honourable Justice J.M. Woods
+Appearances:
+Agent for the Appellant:
+Kathleen Gelhorn
+Counsel for the Respondent:
+Amandeep K. Sandhu
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to tax owing for the 2009 and 2010 taxation years is quashed. The appellant is entitled to costs which are fixed in the amount of $100.
+Signed at Toronto, Ontario this 2nd day of October 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 347
+Date: 20121002
+Docket: 2012-1655(IT)I
+BETWEEN:
+DOUGLAS JOHN SUTCLIFFE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Douglas Sutcliffe seeks a determination that no tax is owing for the 2010 taxation year on the basis that tax had already been withheld by his employer, Express Metal Supply Ltd.
+[2] The notice of appeal also seeks relief for the 2009 taxation year but this claim was withdrawn at the hearing because it appeared that credit had been given for tax remittances for that year.
+Background
+[3] In 2006, Mr. Sutcliffe was hired as a driver for Express Metal when his previous occupation as a roofer became too much for him. The engagement continued until Express Metal went out of business in October 2010. Express Metal was wholly-owned by Mr. Sutcliffe’s son, Angus Sutcliffe.
+[4] Throughout the engagement, Mr. Sutcliffe desired that Express Metal remit source deductions to the Canada Revenue Agency, but the corporation refused to do so. It appears that this was a source of significant friction between father and son.
+[5] Immediately after the engagement was terminated, Mr. Sutcliffe applied for employment insurance benefits, which he received after a ruling was made by the CRA that he had been an employee during the relevant period.
+[6] Although no tax remittances were made by Express Metal to the CRA, for several years the corporation did pay Mr. Sutcliffe separately for the tax, and Mr. Sutcliffe remitted this to the CRA. In 2010, however, Express Metal went out of business before the tax payment for 2010 was made to him.
+[7] A central part of the dispute is whether Mr. Sutcliffe’s regular pay was reduced to take into account the separate tax payments. Mr. Sutcliffe submits that it was and provided documentary evidence that his original semi-monthly cheques from Express Metal in the amount of $1,400 were reduced to $1,202. He submits that the difference represents source deductions that he remitted for each year except 2010.
+[8] The son, who testified under subpoena from the Crown, disputed that the reduction in the pay was on account of tax, although he testified that he could not remember why the pay was reduced.
+[9] Mr. Sutcliffe’s tax return was prepared by his accountant, based on information provided by his spouse. Mrs. Sutcliffe did not inform the accountant about the separate tax cheques and they were not reported as income in Mr. Sutcliffe’s tax return. Mrs. Sutcliffe testified that she did not realize that the tax payments were income.
+Decision
+[10] Despite a significant amount of evidence that was introduced at the hearing, this case cannot be decided on its merits. Quite simply, it is not possible for this Court to give the relief that Mr. Sutcliffe seeks because the Tax Court of Canada does not have the authority to do so. The authority over whether source deductions have been taken resides with the Federal Court and not the Tax Court.
+[11] This is not the first time that a taxpayer has appealed to this Court regarding source deductions based on a misunderstanding of the authority of the Court. The confusion may stem in part because the tax owing is often referred to in the notice of reassessment, but is not actually part of the reassessment. It is only the reassessment, which is the calculation of the tax and not the tax owing, that can be appealed to this Court.
+[12] A similar problem arose in Boucher v The Queen, 2004 FCA 47, 2004 DTC 6085, where Sharlow J.A. commented:
+[10] In oral argument, Ms. Boucher explained to this Court that she had at first attempted to raise this issue by commencing a proceeding in the Federal Court, but her documentation was rejected on the basis that the issue was one for the Tax Court. If that is what happened, it is unfortunate indeed. However, it does not alter the fact that Parliament has not empowered the Tax Court to determine a dispute as to whether or not tax has been withheld at source from particular payments.
+[11] The only possible remedy is to allow this appeal, set aside the judgment of the Tax Court and replace it with a judgment quashing the Tax Court appeal. In the circumstances, Ms. Boucher should be entitled to her costs in this Court and in the Tax Court.
+(Emphasis added)
+[13] In these circumstances, which are very unfortunate for Mr. Sutcliffe, the appeal for the 2009 and 2010 taxation years must be quashed.
+Deficiency with Reply
+[14] I would make some comment concerning the Reply filed by the Crown, which was deficient in that it did not address the source deduction issue. This issue was clearly raised in the notice of appeal, and in fact it was the only issue mentioned.
+[15] The Reply addressed other possible issues over which this Court would have jurisdiction and which were not raised in the notice of appeal. This is salutary, but I am troubled that the Crown did not address the source deduction issue.
+[16] This unfortunate circumstance happens from time to time in this Court (see VanGhent v The Queen, 2012 TCC 245). The failure of the Reply to address a taxpayer’s argument that is clearly set out in a notice of appeal can be significantly prejudicial to the taxpayer.
+[17] In this case, it would have been highly desirable to avoid an unnecessary hearing. The hearing exposed a bitter family dispute, which was difficult on the entire family who were present. For example, Mr. Sutcliffe’s daughter who represented him at the hearing had the unenviable task of cross-examining her brother. It is quite possible that the hearing would have been avoided altogether if Mr. Sutcliffe and his daughter had been given clear notice of the jurisdiction problem in the Reply.
+[18] I was informed that counsel for the Crown did have an oral discussion about the jurisdiction problem with Mr. Sutcliffe before the hearing, but it is clear that neither he nor his daughter had any understanding of it. They both attended the hearing believing that the claim would be dealt with by the Court on the merits.
+[19] In light of the deficiency with the Reply, I requested that counsel for Crown address the issue of costs. Notwithstanding counsel’s able arguments, I have concluded that, in the particular circumstances of this case, it would be appropriate to award a modest amount of costs to Mr. Sutcliffe. The costs will be fixed at $100.
+The merits of the case
+[20] Finally, I would make a comment on determining the merits of the case, which would require an evaluation of the evidence.
+[21] At the commencement of the hearing when the jurisdiction point was raised, a discussion ensued as to whether any evidence should be led. Counsel for the Crown, in an attempt to be fair to Mr. Sutcliffe, suggested that I hear evidence because there could be other issues to decide. Accordingly, testimony was heard from Mr. Sutcliffe, his spouse and his son.
+[22] As it turned out, it is not apparent to me that there are other issues to decide. The Reply mentions section 118.7 of the Income Tax Act which provides a deduction in respect of contributions payable under the Employment Insurance Act and the Canada Pension Plan. However, it was not made clear how this section could be an issue in this appeal.
+[23] I have concluded that there are no other issues to decide, and that it would not be appropriate for me to consider the merits of Mr. Sutcliffe’s source deduction argument. In Neuhaus v The Queen, 2002 FCA 391, 2003 DTC 5469, Noel J.A. commented:
+[4] In this case the applicant is not seeking to have the disputed assessments vacated or varied. Rather, she is claiming that the taxes as assessed by the Minister have already been paid by way of a deduction at source (see subsection 227(9.4), which inter alia makes the employer liable for the taxes owing by an employee up to and including the amounts deducted from the salary and not remitted). In these circumstances, the judge below rightly held that she did not have jurisdiction and it was therefore wrong for her to consider the dispute on its merits.
+(Emphasis added)
+[24] Regretfully, the only thing that is appropriate for me to do in light of the comment of Noel J.A. is to suggest that the CRA further review the source deduction issue based on the evidence introduced at the hearing. For the reasons above, the appeal will be quashed.
+Signed at Toronto, Ontario this 2nd day of October 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 347
+COURT FILE NO.: 2012-1655(IT)I
+STYLE OF CAUSE: DOUGLAS JOHN SUTCLIFFE and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: September 25, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: October 2, 2012
+APPEARANCES:
+Agent for the Appellant:
+Kathleen Gelhorn
+Counsel for the Respondent:
+Amandeep K. Sandhu
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Ontario

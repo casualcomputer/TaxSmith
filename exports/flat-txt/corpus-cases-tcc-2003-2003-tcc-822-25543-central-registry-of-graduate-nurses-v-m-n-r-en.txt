@@ -1,0 +1,241 @@
+Title: Central Registry of Graduate Nurses v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25543/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-822-25543-central-registry-of-graduate-nurses-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-11-27
+
+# Central Registry of Graduate Nurses v. M.N.R.
+
+- Citation: 2003 TCC 822
+- Decision date: 2003-11-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2448, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Central Registry of Graduate Nurses v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-27
+Neutral citation
+2003 TCC 822
+File numbers
+1999-4430(CPP)
+Judges and Taxing Officers
+William E. MacLatchy
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 1999-4430(CPP)
+BETWEEN:
+CENTRAL REGISTRY OF GRADUATE NURSES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CASSANDRA YORK, STACEY KWIECIEN, LEE ANNE RAPER, MARIAN BODNARUK, GORDON READ, SONNY SEAH AND HAZEL NEMBHARD,
+Intervenors.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of Central Registry of Graduate Nurses (1999-4431(EI)), Maija Kuze (1999-4442(EI) and 1999-4443(CPP)), Kathleen Riley (1999-4447(EI) and 1999-4449(CPP)), Gordon Read (1999-4477(EI) and 1999-4778(CPP)), Sonny Seah (1999-4828(EI) and 1999-4829(CPP)), Marian Bodnaruk (1999-4584(EI) and 1999-4585(CPP)), Ruth Lafleur (1999-4962(EI) and 1999-4963(CPP)) and Evelyn A. Agosto (1999-4782(EI) and 1999-4786(CPP)) on August 22, 2003 at Toronto, Ontario
+Before: The Honourable W.E. MacLatchy, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Paul Neil Feldman
+Counsel for the Respondent:
+Bobby Sood
+For the Intervenors: Marian Bodnaruk
+For the other Intervenors:
+The Intervenor herself
+No one appeared
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision and assessments of the Minister are confirmed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario, this 27th day of November 2003.
+"W.E. MacLatchy"
+MacLatchy, D.J.
+Citation: 2003TCC822
+Date: 20031127
+Dockets: 1999-4430(CPP)
+1999-4431(EI)
+BETWEEN:
+CENTRAL REGISTRY OF GRADUATE NURSES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CASSANDRA YORK, STACEY KWIECIEN, LEE ANNE RAPER, MARIAN BODNARUK, GORDON READ, SONNY SEAH AND HAZEL NEMBHARD,
+Intervenors,
+AND
+Dockets: 1999-4442(EI)
+1999-4443(CPP)
+MAIJA KUZE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Dockets: 1999-4447(EI)
+1999-4449(CPP)
+KATHLEEN RILEY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Dockets: 1999-4477(EI)
+1999-4478(CPP)
+GORDON READ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CENTRAL REGISTRY OF GRADUATE NURSES,
+Intervenor,
+AND
+Dockets: 1999-4828(EI)
+1999-4829(CPP)
+SONNY SEAH,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Dockets: 1999-4584(EI)
+1999-4585(CPP)
+MARIAN BODNARUK,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Dockets: 1999-4962(EI)
+1999-4963(CPP)
+RUTH LAFLEUR,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+Dockets: 1999-4782(EI)
+1999-4786(CPP)
+EVELYN A. AGOSTO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+MacLatchy, D.J.
+[1] These appeals were all heard on common evidence at Toronto, Ontario on August 22, 2003.
+[2] The Appellant Central Registry of Graduate Nurses (known as CRGN) was represented by counsel, Paul Feldman, while the Appellants Marian Bodnaruk and Maija Kuze appeared and were unrepresented. The remaining Appellants did not appear nor were they represented by counsel.
+[3] By Notice of Assessment dated January 13, 1998, the Appellant CRGN, the Payor, was assessed for failure to remit employment insurance premiums and in the amounts of $70,412.52 for 1996, $72,334.01 for 1997, $29,522.69 for 1998, and for related penalties and interest in respect of the persons (the Workers) listed in Appendix "A" attached to the Reply to the Notice of Appeal and was further assessed for failure to remit Canada Pension Plan contributions in the amounts of $37,182.28 for 1996, $43,542.25 for 1997, $14,647.34 for 1998, and for related penalties and interest in respect to the same Workers, as above.
+[4] The Appellant, CRGN, appealed to the Minister of National Revenue (the "Minister") for reconsideration of the assessments and the latter confirmed the assessments by letter dated July 30, 1989.
+[5] The following persons also appealed in their own right:
+Maija Kuze, Kathleen Riley, Gordon Read, Sonny Seah, Marian Bodnaruk, Ruth Lafleur and Evelyn A. Agosto.
+[6] Evidence was led by the Appellant CRGN through Marian Bodnaruk who was at the material times the Treasurer and Board of Directors Member of CRGN. It was her duty as part of the decision-making process for the Registry to oversee the financial affairs of the Registry. She was well qualified for the position as she had 30 years of nursing experience and had been a member of the CRGN for more than 14 years. Her evidence was carefully and candidly delivered and was most helpful to this Court.
+[7] The Minister relied on certain assumptions in making his decision, most of which were acknowledged as correct by the witness.
+[8] The Appellant CRGN is a non-profit organization with no shareholders or voting shares but has a President, Treasurer and Secretary and a Board of Directors made up of members who are nominated and voted on by their co-workers. The Board of Directors and Office Manager control the day-to-day operations and make the major business decisions for CRGN. The Appellant CRGN provides nurses and temporary health care professionals to hospitals and to other private facilities (the Clients), by matching the Clients' requests with the Workers' request for work. The administrative staff of CRGN worked with the Workers to set up shifts at various hospitals, 24 hours a day, 365 days per year.
+[9] The Minister believed the duties of the Workers were determined by the Clients. The witness explained, in detail, the process of assigning a Worker to a Client who was prepared to accept that type of assignment. The Workers were experienced professionals and subject to direct orders from Doctors or the nurse in charge and they knew what their duties entailed. The usual hospital routines were followed by the Workers as well as were the specific directions of the Doctor and Head Nurse involved with that particular patient.
+[10] The Workers' hours of work were determined by the Clients and the Workers were required to sign in and out at the beginning and end of each shift as well as sign in and out at each unit as assigned.
+[11] The Workers were required to complete a time sheet which included the date, the shift worked, the hours worked, the name of the hospital as well as the section of the hospital they worked in. This time sheet was to be signed by an authorized person of the Client. Once the Worker was called to work, there was no flexibility in the hours worked.
+[12] The question of supervision, direction and control of the Workers was a major area of contention. The Minister believed and assumed the Client was in control. The witness stated that there was no such direction, supervision or control. Each experienced Worker would adopt and conform to the routines set in place by the Client for each section of the hospital. The Worker would comply with hospital routines as set by the hospital as the patients are the responsibility of the hospital. The witness could not envision that a Worker would not conform or comply with hospital routine. Grudgingly, the witness admitted non-compliance by a Worker would be a serious situation.
+[13] The Workers were hired to replace regular employees who were off sick or to supplement regular staff in an overload situation. The witness stated the Worker engaged would step into the shoes of a nurse normally hired by the hospital. CRGN covered the Workers for Workers' Compensation.
+[14] The question of CRGN's right to terminate the Workers' services was disputed by the witness. The witness was unable to foresee the necessity to terminate any worker but admitted that under "extreme circumstances" there could be termination by CRGN.
+[15] The Workers performed the services on the Clients' premises and although they provided some small tools, most of the equipment was provided by the Clients.
+[16] The Clients were charged as standard rate by CRGN, based on a pre-established schedule, depending on the type of services required by the Clients.
+[17] The Workers were paid by CRGN based on the amounts charged by it to the Clients, less 11% which was retained by CRGN to cover the cost of its office salaries, telephone, office supplies and professional fees. This remuneration was paid to the Workers by CRGN on a bi-weekly basis or by direct deposit into the Workers' bank account.
+[18] The Workers were employed by CRGN to perform services under the direction of the Clients. The witness would not agree that the Clients controlled the Workers once they were engaged to work.
+[19] The Workers were remunerated by CRGN.
+[20] The witness was careful to state that the Workers were not 'employed' by CRGN and that the standard rate charged to a Client was set by a resolution of the Board of Directors as was the direction to withhold 11% from the monies paid by the Client for the service provided by the Workers. The major argument put forward by CRGN was that the monies received from the Client were deposited into a bank account which was stated to be "in trust". It was argued that the monies really belonged to each individual Worker to the extent of the hours of service performed by that person less the withholding charge of 11% to cover the costs of operating the Registry. CRGN was a not for profit corporation run by its members, for its members.
+[21] The question to be answered by this Court is whether the member nurses were engaged in insurable and pensionable employment.
+[22] Counsel for the Appellant CRGN has submitted to this Court a well-prepared and well-documented written argument that has been most helpful.
+[23] The Regulations under both the Canada Pension Plan and Employment Insurance require CRGN to have paid the Workers using the terms "entity which pays or remunerates". The argument put forward is that CRGN does not 'pay or remunerate' but is merely a conduit or agent for its member nurses. The hospitals send the monies for nursing services to CRGN which are deposited in the bank account monitored by CRGN, in trust. The adding of the words 'in trust' was to indicate that such funds belonged to the member nurses who have performed the services subject to an agreed 11% deduction to pay CRGN's expenses. As the evidence showed, all monies received went into this account whether stated to be in trust, or otherwise. There was no trust agreement presented in testimony nor were any terms of the trust specified. It was a vague entity the terms of which were interpreted by the witness. The only monies to be transferred to the general account were those equal to the total of the 11% deduction for expenses at any particular time. However, evidence was adduced that even though, in some circumstances, a Worker could be paid out of the trust account before the hospital had sent the money to pay for such services, this would not be fulfilling the true meaning of a trust account.
+[24] Admittedly the members of CRGN approved the rates for service and set the withholding 11% rate but, when set, it was out of the hands of the members to negotiate further and CRGN operated thenceforth as a placement agency.
+[25] Both counsel for the Appellant CRGN and the Respondent directed this Court to the case of Sheridan v. Canada (Minister of National Revenue - M.N.R.) (F.C.A.), [1985] F.C.J. No. 230. In this case, the operator of a for-profit nursing placement agency who received remuneration from hospitals and who then paid the nurses registered with her less a 10% fee argued that she was merely a conduit for the remuneration paid by the hospitals. This argument was rejected on two grounds: first, the operator set the fees for the nursing services and not the nurses or the hospitals themselves; second, that the operator withheld the 10% fee. Mr. Justice Heald of the Federal Court of Appeal spoke for the Court in the following manner:
+The only other submission of the applicant which should be addressed is to the effect that Regulation 12(g) does not apply here because the nurses placed by the applicant were not "remunerated" by the agency as the regulation requires. Counsel submitted that, on these facts, the applicant was merely a conduit of the remuneration paid by the hospitals. I do not agree with this view of the matter. As stated supra, the applicant here received all of the pay earned by the nurses from the hospitals. Thereafter she remitted to the individual nurses the proper amount earned by each after deducting from that amount, her fee of 10% in most cases. The Shorter Oxford Dictionary (3rd Ed.) defines "remunerate" and "remuneration" as follows:
+1. trans. to repay, requite, make some return for (services etc.)
+2. to reward (a person); to pay (a person) for services rendered or work done...
+Hence remuneration, reward, recompense, repayment, payment, pay.
+Volume 4 of Stroud's Judicial Dictionary (4th Ed.) states inter alia, that "remuneration" means a quid pro quo. [Note 1: Page 2324 - the authority for this definition is said to be the judgement of Blackburn J. in R. v. Postmaster General 1 Q.B.D. 663, 664.]
+Based on the above definitions and ascribing to "remunerate" its plain ordinary meaning, I conclude that this applicant "remunerated" the nurses. She was not a mere conduit. She remitted to the nurses the amount they eared for their services which amount was dependent on their rate of pay which was determined, not by the hospitals but by the applicant. However, in 90% of the cases the remittal was not for the total amount eared since the applicant's 10% fee was deducted therefrom. In the remaining 10% of the cases, the full amount earned was remitted the applicant's 10% fee was deducted remitted to the individual nurses but subject to a verbal promise by those nurses to pay the applicant's 10% fee. In any event, the applicant could not be said to be a mere conduit, whether her 10% fee was deducted before remittance or became the subject of a debt owing to her by the nurses in question. If her role was that of a mere conduit, she would simply have transmitted the remuneration in toto. I think also that a mere conduit would not have been involved in fixing the quantum of the remuneration. I therefore reject this submission by counsel for the applicant.
+For all of the foregoing reasons, I have concluded that the Umpire did not err in sustaining the respondent's reassessment of the applicant for unemployment insurance premiums. It follows, in my view, that the within section 28 application should be dismissed.
+[26] This Court likens CRGN to be the operator of a placement agency in that it received the request for placement of persons for specific nursing services and then referred to its registered members and from there it would place a member, who consented, to such placement. The rate of remuneration is set annually at a general meeting of members as is the fee to be deducted from those members who provided service. Once set, these rates and fees continued until changed by the membership and were not negotiable by either the Worker or the hospital involved. Obviously, the Registry would not set a rate that would price themselves out of the market. It was operating as a business with the usual competition expected in the market place.
+[27] In the case of Edmonton Nursing Services Assn. v. Canada (Minister of National Revenue - M.N.R.), [1991] T.C.J. No. 145, a decision of Judge Hamlyn of this Court found a non-profit organization set up by a group of private duty nurses to maintain a registry of nurses and nurses aids available for private duty nursing could be a placement agency.
+[28] Judge Hamlyn's analysis of the question before him stated as follows:
+Therefore it becomes necessary to try and define, if possible, "employment agency". It is clear from the submission that the Appellant as a non-profit society does not carry on business as an employment agency under the Employment Agencies Act of Alberta, but the statute in question before the Court is a federal statute and federal regulations thereunder. Thus in a effort to determine the definition I have sought the assistance of the Shorter Oxford English Dictionary.
+"Agency" refers to agent, and "agent" by definition appears to be "one who or that which acts". And "employment" refers to "employ", and that therein in subpart states, 1, to find work or occupation for".
+In the absence of any other reference I have come to the conclusion, using the plain meaning of words, than an agent is one who acts on behalf of and employment is the action of employment, and that the Edmonton Nursing Services Association is an association who finds work for its members and therefore is an employment agency within the meaning of 12(g). I cannot find the extended meaning that the Alberta legislation apparently talks about in terms of carrying on business to apply to this section. They are a non-profit association but they do, for the purposes of this section, I find, perform the services of an employment agency.
+That then brings us down to the cited case of Jean Sheridan Accent Nurses Registry v. The Minister of National Revenue: it was argued that this case did not apply because the Appellant felt they were not an employment agency. I have now concluded that the Appellant is an employment agency. The question is, does it still apply, given the facts. I find that most of the relevant facts in this case are identical. From page 13 of the decision Mr. Justice Heald concludes that:
+...this applicant "remunerated" the nurses. She was not a mere conduit. She remitted to the nurses the amount they earned for their services which amount was dependent on their rate of pay which was determined, not by the hospitals but by the applicant. However, in 90% of the cases the remittal was not for the total amount earned since the applicant's 10% fee was deducted therefrom. In the remaining 10% of the cases, the full amount earned was remitted to the individual nurses but subject to a verbal promise by those nurses to pay the applicant's 10% fee. In any event, the applicant could not be said to be a mere conduit, whether her 10% fee was deducted before remittance or became the subject of a debt owing to her by the nurses in question. If her role was that of a mere conduit, she would simply have transmitted the remuneration ..... I think also that a mere conduit would not have been involved in fixing the quantum of the remuneration.
+In the base before the Court there was a fixed fee (i.e. there was a fixed fee as set by the Association and the rates were set by the Association, and on that basis it is identical to the Jean Sheridan case).
+I endorse Judge Hamlyn's interpretation and find that CRGN was a placement agency.
+[29] Paragraph 12(g) of the Unemployment Insurance Act Regulations and paragraph 6(g) of the Employment Insurance Regulations are, for all practical purposes, identical. Paragraph 6(g) of the EI Regulations is as follows:
+6. Employment in any of the following employments, unless it is excluded from insurable employment by any provision of these Regulations, is included in insurable employment:
+...
+(g) employment of a person who is placed in that employment by a placement or employment agency to perform services for and under the direction and control of a client of the agency, where that person is remunerated by the agency for the performance of those services.
+[30] The Minister's argument was that there are four elements to the provision: there must be employment of a person; that person must have been placed in that employment by a placement or employment agency; that person performed services under the director and control of a client of the agency and that person was remunerated by the Agency for the performance of those services.
+[31] I accept Judge Weisman's decision of this Court in Isomeric Inc. (c.o.b. System Search Group) v. Canada (Minister of National Revenue- M.N.R.), [2000] T.C.J. No. 843, as set forth in paragraphs 10 and 11 concerning the meaning of the word "employment":
+The remaining issue was the interpretation of the word "employment" in regulation 6(g), and it was the argument of the appellant that "employment" required that the person placed be an employee under a contract of service and that Mr. Liverance was an independent contractor, in fact and by agreement between the parties, and therefore 6(g) was inapplicable to the situation before me.
+So far as the agreement between the parties is concerned characterizing Mr. Liverance as an independent contractor, the law is fairly clear that that sort of an agreement is not determinative of the issue. That was set out in Wiebe Door, [1986] 3 F.C. 553, itself and also in a case called Ready-Mixed Concrete v. The Minister of Pensions, [1968] 1 All E.R. 433 in the Queen's Bench Division. I drew counsel's attention to the case of Canada and Skyline Cabs, 1986 Federal Court Judgments 335 Federal Court of Appeal, in which it was held that the word "employment" in regulation 12(e) under the Unemployment Insurance Regulations, which is the same as regulation 6(e) under the Employment Insurance Regulations, is not to be given a narrow interpretation of contract of service but is to be construed in a broader sense of activity or occupation. And the question therefore arose that if that is the interpretation of 6(e), why should it be any different in 6(g), the section before me?
+[32] Later, in the same decision Judge Weisman stated in paragraph 17, as follows:
+So far as regulation 34(1) of the Canada Pension Plan Regulations is concerned, it's broader in scope than is 6(g). It requires that the person be placed by a placement or employment agency in employment with or for the performance of services and terms and conditions on which the services are performed constitute a contract of service or are analogous to a contract of service.
+[33] The wording of paragraph 6(g) of the EI Regulations does not require the existence of a contract of service although it would appear to be required under section 34 of the Canada Pension Plan Regulations "... employment with or for performance of services for a client of the agency and the terms or conditions on which the employment or services are performed ... constitute a contract of service or are analogous to a contract of service...". Whether, in this instance, there is a contract of service or some relationship analogous to a contract of service existing between the Worker and the hospital must be determined.
+[34] Using the four-in-one test, it would seem that the question of ownership of tools would point to the nurses being employees and in alike fashion the only profit would be the hours worked. There would be no sharing in the venture itself. Further, there would be no loss to be suffered by the Workers as, it was admitted, they would be paid whether or not the agency had received their monies from the hospital.
+[35] The question of control falls on the side of an employee relationship as well. The hospital is responsible for the patient's well-being and creates an environment to care for and protect the patient. Any nurse coming in to the system must comply with its requirements for the benefit of the patient. Being a professional, the Worker would understand this and would recognize the need for routines to protect the patient and the need to follow the directions of the Doctor for the patient and/or the orders of the Head nurse on duty on that shift. It was clear that the hospital could dispense with the services of a Worker if he/she would not follow those necessary orders and routines. Whether the Worker was integrated into the hospital's business or not should not be an issue. It was the business of operating a hospital that is at issue. The Worker was not caring on his/her own business but became part of the hospitals' operation when engaged for employment.
+[36] When the evidence is applied to the recommended tests and the appropriate weight is given to each of the tests and having regard to the overall relationship existing between the Worker and the Client of the agency, it would appear that the arrangement was analogous to a contract of service. To arrive at this decision, I reviewed the various arguments put forth by the Appellant agency and find them to fall short of convincing me that the Workers were independent.
+[37] The parties may characterize their employment arrangement as that of independence but that is not determinant of the relationship. The Workers may have believed they were independent contractors but it is when the total relationship of the work engagement is examined in light of the evidence that the relationship can then be characterized and determined. I find that the Workers were employed within the broad interpretation of that term. They were placed by a 'placement agency', as identified by Justice Bonner of this Court in Computer Action Inc. v. M.N.R., [1990] T.C.J. No. 101. I accept his determination in that regard as well as his interpretation of the meaning of control in circumstance quite similar to this matter before me. It is difficult to apply many of the tests recommended in Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025, especially the question of control. Nurses are highly skilled and professional persons who possess skills far beyond the ability of the employer to direct but I believe ultimate control existed with the client hospital even though it was not regularly and continually exercised.
+[38] For the reasons above, I am dismissing the appeals of the Registry and those of each and every individual Appellant and confirm the decisions made by the Minister.
+[39] The Appellant agency has also argued that the penalties assessed against it should be vacated because the Appellant had exercised due diligence with respect to its liability for remitting source deductions. Since the assessments were confirmed, the Appellant Agency has, to the best of its ability, been compliant with such decisions and has and is attempting to pay the assessed amounts. Should the Appellant be assessed for making its decision not to make deductions at source for employment insurance premiums and Canada Pension Plan contributions based on its honest belief that it need not do so? There does not appear to be any plan or scheme on its part, to avoid its responsibilities in that regard. It made a decision honestly believing that the legislative requirements did not apply in the circumstances. The argument of a defence of due diligence with regard to penalty assessments is controversial and should be argued fully. The Minister had not received notice that this defence was to be raised and argued by the Appellant and for that reason was ill-prepared to respond to such argument. If due diligence is to be litigated between the parties, it should be done so on proper notice to the Respondent. It is an area ripe for judicial guidance from a higher Court. It will not be commented on by me, at this time. As an aside, however, it does seem unfair to assess a penalty in circumstances such as these where there does not appear to be malfeasance or a knowing disregard for the legislation. The Minister should, once again, review his decision with regard to penalties and consider whether these circumstances warrant their imposition.
+Signed at Toronto, Ontario, this 27th day of November 2003.
+"W.E. MacLatchy"
+MacLatchy, D.J.
+CITATION:
+2003TCC822
+COURT FILE NO.:
+1999-4430(CPP), 1999-4431(EI), 1999-4442(EI), 1999-4443(CPP), 1999-4447(EI), 1999-4449(CPP), 1999-4477(EI), 1999-4778(CPP), 1999-4828(EI), 1999-4829(CPP), 1999-4584(EI), 1999-4585(CPP), 1999-4962(EI), 1999-4963(CPP), 1999-4782(EI) 1999-4786(CPP)
+STYLE OF CAUSE:
+Central Registry of Graduate Nurses and M.N.R. and Cassandra York, Stacey Kwiecien, Lee Anne Raper, Marian Bodnaruk, Gordon Read, Sonny Seah and Hazel Nembhard
+Maija Kuze and M.N.R. Kathleen Riley and M.N.R. Gordon Read and M.N.R. and Central Registry of Gradute Nurses
+Sonny Seah and M.N.R. Marian Bodnaruk and M.N.R. Ruth Lafleur and M.N.R.
+Evelyn A. Agosto and M.N.R.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 22, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable W.E. MacLatchy, Deputy Judge
+DATE OF JUDGMENT:
+November 27, 2003
+APPEARANCES:
+Counsel for the Appellant and Intervenor Central Registry of Graduate Nurses
+Paul Neil Feldman
+For the Appellant Maija Kuze:
+The Appellant herself
+For the Appellant Marian Bodnarum:
+The Appellant herself
+For the other Appellants:
+No one appeared
+Counsel for the Intervenors:
+Marian Bodnaruk
+The Intervenor herself
+For the other Intervenors:
+No one appeared
+Counsel for the Respondent:
+Bobby Sood
+COUNSEL OF RECORD:
+For the Appellant Central Registry of Graduate Nurses:
+Name:
+Paul Neil Feldman
+Firm:
+Paul Neil Feldman
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

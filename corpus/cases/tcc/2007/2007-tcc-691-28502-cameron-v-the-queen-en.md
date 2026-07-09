@@ -1,0 +1,155 @@
+---
+title: "Cameron v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28502/index.do"
+last_modified: "2007-10-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 691"
+citation2: ""
+neutral_citation: "2007 TCC 691"
+decision_date: "2007-10-12"
+language: "en"
+item_id: "28502"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1299
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:38:03.252000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3ad3eb9d44c630ffc457240d75aaa265b4d277a95d63cc52cacd59c7a77e6dfa"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cameron v. The Queen
+
+- Citation: 2007 TCC 691
+- Decision date: 2007-10-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1299, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cameron v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-12
+Neutral citation
+2007 TCC 691
+File numbers
+2007-839(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+2007-839(IT)I
+IN THE TAX COURT OF CANADA
+IN RE: THE INCOME TAX ACT
+BETWEEN:
+GORDON CAMERON
+APPLICANT
+- and –
+HER MAJESTY THE QUEEN
+RESPONDENT
+__________________________________________________________
+HEARD BEFORE: The Honourable Justice B. Paris
+PLACE HEARD: Halifax, Nova Scotia
+DATE HEARD: Friday, October 12, 2007
+COUNSEL: Mr. Derek A. Simon
+Solicitor for the Applicant
+Ms. Devon Peavoy
+Solicitor for the Respondent
+THE REGISTRAR: Ms. Trisha Egan
+__________________________________________________________
+Recorded by:
+Drake Recording Services Limited
+1592 Oxford Street
+Halifax, NS B3H 3Z4
+Per: Trisha Egan
+I N D E X O F P R O C E E D I N G S
+PAGE NO.
+PARIS, B. (ORAL REASONS)................................ 3
+PARIS, B. (Orally): Good morning, Mr. Simon, Ms. Peavoy.
+MS. PEAVOY: Good morning, Your Honour.
+MR. SIMON: Good morning.
+HIS HONOUR: This is an appeal from re-assessments of the Appellant’s 2003 and 2004 taxation years whereby the Minister of National Revenue included certain amounts in the Appellant’s income in respect of benefits received by him as officer of Southwest Motors Limited.
+The alleged benefit consisted of the payment by Southwest of rent, utilities and cleaning for a residence occupied by the Appellant in Yarmouth, Nova Scotia. The amount of these payments was $8,960 in 2003 and $9,700 in 2004.
+The issue in this appeal is whether these payments gave rise to a benefit to the Appellant within the meaning of paragraph 6(1)(a) of the Income Tax Act. The relevant portion of that provision reads as follows:
+6(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+(a)the value
+of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment.”
+The Appellant maintains that he received no taxable benefit as a result of Southwest paying the accommodation expenses because the rental of the premises was primarily for the benefit of Southwest and not for his personal benefit. The Appellant had his own residence in Amherst, Nova Scotia but was required to stay during the week in Yarmouth where Southwest operated a car dealership. Yarmouth is about a six or seven hour drive from Amherst.
+The evidence showed that the Appellant and a second individual, John Ryerson incorporated Southwest in late 2002 to operate a Honda dealership in Yarmouth where a dealership had become available. The Appellant, either personally or through his consulting firm, Gordon Cameron and Associates, Inc., provided most if not all the funding required to set up the business.
+The Appellant initially owned a majority of Southwest shares and acquired the remaining shares from Ryerson in early 2004. The Appellant was, at all times, a Director and the President of Southwest.
+The Appellant said that he and Mr. Ryerson intended that Mr. Ryerson would run the day-to-day dealership operation in Yarmouth and that the Appellant would work every other week for the company. The Appellant said he intended to provide services to Southwest through his consulting firm and that Southwest would be invoiced for his services and would pay his expenses and accommodation in Yarmouth. No written contract was drawn up and no amounts were paid by Southwest to Gordon Cameron and Associates.
+The Appellant said that his fees were to be paid out of Southwest’s profits but, since Southwest didn’t make money, no fees were paid.
+In the Appellant’s tax returns for the years before me, the Appellant reported a standby charge to him from Southwest for an automobile provided to him by that company. The Appellant said that he received T4A forms from Southwest in respect of the automobile benefit which would indicate the benefits were considered to be received in the course of or by virtue of an office or employment with Southwest.
+From 2002 on, the Appellant spent a great deal of time in Yarmouth. From the Spring of 2003 to the end of that year, he also worked at a subdealership set up by Southwest in Digby.
+The Appellant took over Ryerson’s position at Southwest in September, 2003 because he was unhappy with the latter’s performance. From the evidence before me, it appears that the Appellant spent all weekdays and one Saturday per month in Yarmouth and Digby (or traveling to and from those places) working on Southwest business.
+The Appellant rented an apartment in Yarmouth at some point in the Fall of 2002, when the dealership was being set up. The Appellant said that the apartment was simply a place to sleep that was close to the dealership and cost less than it would have cost him to stay in a hotel while in Yarmouth.
+The apartment was approximately 800 square feet, had two bedrooms, a kitchen, bathroom and a living room and was about a five minute drive to the dealership. The lease for the apartment was in the Appellant’s name but Southwest paid the rent and utilities and for a cleaner, as needed.
+The Appellant said that it was not possible for him to move his family residence to Yarmouth. He was born and raised in Amherst, and he and his wife had raised their family there as well. His wife cared for her elderly mother who lived in the area and she also had her own business in Amherst which she had carried on for many years.
+The Appellant also testified that five Southwest workers had stayed temporarily at the apartment in Yarmouth for varying periods of time between 2002 and 2005. Two of these were contractors who were involved in the set up of Southwest in 2002 and the rest were employees who subsequently moved to Yarmouth.
+According to the Appellant, one of these employees was Mr. Ed Raine, the General Manager for Southwest. This evidence contradicted what the auditor from Canada Revenue Agency was told by Mr. Raine, himself, who said that Southwest did not make the apartment available to anyone but the Appellant.
+Appellant’s Position
+At the hearing, the Appellant took issue only with the Minister’s determination that the Appellant was the primary beneficiary of the rental of the Yarmouth apartment rather than Southwest. He contends that the rental was primarily connected with Southwest’s business, and any benefit that accrued to the Appellant personally was only incidental to the primary benefit to Southwest which was to make the Appellant and his business expertise available to Southwest.
+He also likened these expenses to travel expenses incurred in carrying on a business and referred to the case of Lowe v The Queen, 1996 FCJ 319. In that case, the Appellant and his spouse went on a trip to New Orleans paid for by the taxpayer’s employer. Brokers who sold the employer’s life insurance products were awarded expense paid trips to New Orleans by the company that employed the taxpayer, and the taxpayer and his wife were required to accompany the brokers and ensure that they had a good time.
+The Minister’s assessment of the taxable benefit to the taxpayer in that case was struck down on the basis that the Appellant’s and his spouse’s attendance in New Orleans was required by the employer’s business and that they were primarily engaged there in business activities on behalf of the employer.
+The Appellant said that in this case the Appellant’s presence in Yarmouth was required by Southwest and that while there he was primarily engaged in Southwest business.
+The Appellant also relied upon the decision
+of the Tax Review Board in Paul’s Hauling Limited and Paul
+E. Albrechtsen v. The Minister of National Revenue, 1979
+DTC 167. In that case, the corporate Appellant had provided a furnished apartment in Winnipeg to the individual Appellant, Mr. Albrechtsen, its President and Chief Executive Officer who resided in Calgary. Mr. Albrechtsen was assessed a taxable benefit in respect of the use of the apartment. The Board held that the maintenance of the apartment by the corporate Appellant did not provide an economic benefit to Mr. Albrechtsen.
+The Court said:
+"In short, in 1975 Mr. Albrechtsen resided in Calgary. His presence was required in Winnipeg from time to time in connection with the business of Hauling. That business had grown over the years and Mr. Albrechtsen’s private office at Oak Point Road had become less and less suitable for use for substantial parts of his work. It was in response to that situation that Hauling rented and furnished the apartment at 200 Tuxedo Boulevard in Winnipeg. The apartment was appropriate for use (a) for overnight accommodation of Mr. Albrechtsen when he was in Winnipeg, (b) for overnight accommodation of business associates of Mr. Albrechtsen, Mr. Penton for example, and (c) for purposes of office work requiring a tranquil atmosphere.
+The apartment was, in fact, used for all such purposes.”
+The Appellant submits that many of the same factors are present in this case and I should therefore follow that decision.
+Respondent’s Position
+The Respondent contends that the Appellant, and not Southwest, was the primary beneficiary of the arrangement whereby Southwest paid his accommodation costs in Yarmouth. Alternatively the Respondent suggests that the benefit was a shareholder benefit, taxable under Section 15(1) of the Act.
+The Respondent said that the benefit met the conditions set out by the Federal Court of Appeal in McGoldrick v The Queen, 2004 FCA 189 for taxable benefits under paragraph 6(1)(a). The Court said:
+"As a general rule any material acquisition in respect of employment which confers an economic benefit on a taxpayer and does not constitute an exemption falls within paragraph 6(1)(a), (see R. v. Savage (1983), 83 D.T.C. 5409 . . .[W]here something is provided to an employee primarily for the benefit of the employer, it will not be a taxable benefit if any personal enjoyment is merely incidental to the business purpose.”
+The Respondent contends that the economic benefit to the Appellant in this case was that he was not required to pay for accommodation in Yarmouth.
+The Respondent says that the case of Paul’s Hauling Limited et al is distinguishable on its facts from the case at bar. Firstly, the individual taxpayer in that case only stayed at the Winnipeg apartment from time to time, whereas the Appellant, here, was at the Yarmouth apartment on a regular full-time basis. Secondly, the apartment was also rented and used as an office. Finally, it was also used to put up other business associates.
+The Respondent also asks that I do not accept the Appellant’s evidence that the Yarmouth apartment was used by Southwest Motors to house other workers.
+The Respondent also relies on the case of Cockerill v The Queen, 1965 Tax Appeal Board cases, in which the assessment of a taxable benefit to the taxpayer was upheld by the Board in respect of accommodation provided to him by his employer. The taxpayer was a U.S. citizen and had a permanent home in Ohio. He was also the President of a corporation in Hull, Quebec. The Board said:
+The Appellant had to live away from his Ohio home in order to serve the distant company that employed him and had to have other accommodation somewhere. Ottawa was the place selected. The evidence disclosed that he away from Ottawa only 101 days in 1958, 84 days in 1959, 84 days in 1960 and 97 days in 1961. Hence he was in the vicinity of that municipality much more often than in Ohio and virtually had two residences while he chose to be employed at Hull. He was obliged to live close to what was his main place of employment and the payment of his rent by the Company was a saving to him pro tanto in personal or living expenses and clearly a benefit. It is not customary for a corporation to pay a substantial part of an officer’s living expenses and when this happens, the officer concerned necessarily benefits accordingly.
+Lastly, counsel said that a taxable benefit can arise under paragraph 6(1)(a) even where the benefit is provided for a business purpose and the cost of the benefit is deductible to the payor. The question is whether the benefit to the recipient can be said to be merely incidental to the business benefit to the payor.
+Analysis
+In my view the evidence does not support the Appellant’s position that he did not receive a taxable benefit within the ambit of paragraph 6(1)(a) in the circumstances of this case. Southwest paid the Appellant’s accommodation expenses while he was performing duties for the corporation at its ordinary place of business on a full-time basis for an indeterminate period of time.
+These expenses cannot be likened to ordinary travel expenses such as those in Lowe because they were not incurred while the Appellant was travelling away from Southwest’s place of business in Yarmouth. The travel in this case was necessitated by the choice made by the Appellant to maintain his residence in Amherst and his choice to work full-time in Yarmouth.
+In order to make himself available to work for Southwest the Appellant was required either to travel back and forth from his residence in Amherst or to set up another residence in Yarmouth. He chose to do the latter. In Symes v The Queen, Justice Iacobucci writing for the majority made the following observation at paragraph 79:
+". . .Traditionally expenses that simply make the taxpayer available to the business are not considered business expenses since the taxpayer is expected to be available to the business as a quid pro quo for business income received. . .”
+In my view, these comments are equally applicable to a situation involving an office or employment.
+The costs of the Appellant’s accommodation in Yarmouth was the result of a personal choice made by the Appellant and not as a result of a business requirement of Southwest. The benefit to the Appellant cannot be said therefore to have been primarily provided for the benefit of Southwest.
+It is clear that, but for the Appellant’s personal connections in Amherst, he would have moved permanently to Yarmouth. It is entirely understandable that the Appellant chose to maintain those connections and his residence in Amherst, but that choice, again, was a personal one.
+The choice to maintain the Appellant’s residence would have led to an increase in the Appellant’s living costs had Southwest not paid for his accommodation in Yarmouth, and therefore by freeing the Appellant from those payments, Southwest can be said to have conferred a benefit of economic value upon him.
+I agree with the Respondent that the decision in Paul’s Hauling Limited et al can be distinguished from this case on its facts. I do not accept the evidence of the Appellant relating to the use of the apartment by other Southwest workers. As already stated, the evidence directly contradicts the statements of the General Manager of Southwest to the CRA auditor during the audit. The auditor’s evidence on this point was unchallenged by the Appellant and none of the other workers were called to testify.
+No reason was given for not calling the workers to testify and I am entitled to draw an inference that their evidence would not have been favourable to the Appellant on this point.
+I also do not believe that the Appellant’s initial intention to spend only half his time in Yarmouth has a bearing on the outcome of his appeal. It appears that this intention changed in early 2003 at least with the opening of the subdealership in Digby. I infer from all of the evidence that he devoted all his energies to Southwest business and was in Yarmouth every week in the years in issue on a full-time basis.
+Even though the decision in Paul’s Hauling Limited et al is distinguishable on its facts, I would also say that, to the extent that it stands for the proposition that the ongoing payment of the living expenses of an officer and employee of a corporation while he or she is working at the corporation’s only place of business, is not a taxable benefit its authority is questionable. In that case, the taxpayer’s need for accommodation in Winnipeg was determined by his choice of having his residence in Calgary, not by any business requirement of his employer. Once again that choice was personal and any payment made by the corporation that resulted from that choice ought to be seen as primarily benefiting the taxpayer and not the corporation.
+For all these reasons I find that the accommodation payments in this case were a benefit received by the Appellant that fall within paragraph 6(1)(a) of the Act and were properly included in his income. It is not necessary therefore to deal with the Respondent’s alternative subsection 15(1) argument. Therefore the Appeal is dismissed.
+(MATTER CONCLUDES)
+CERTIFICATE OF COURT TRANSCRIBER
+I, Sandy Adam, Court Transcriber, hereby certify that I have transcribed the foregoing and that it is a true and accurate transcript of the evidence in this matter, Gordon Cameron, (Appellant) v. Her Majesty The Queen (Respondent), taken by way of electronic recording.
+________________________________
+Sandy Adam, 2006-34
+Certified Court Reporter
+Halifax, Nova Scotia
+Wednesday, November 7, 2007

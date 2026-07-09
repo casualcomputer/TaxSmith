@@ -1,0 +1,132 @@
+---
+title: "Beil v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/233061/index.do"
+last_modified: "2017-07-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 TCC 136"
+citation2: ""
+neutral_citation: "2017 TCC 136"
+decision_date: "2017-07-13"
+language: "en"
+item_id: "233061"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2109
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:17:29.277000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "228b68183cd6aee816cf7f90ac09555aeedc102a1b69f7f7686fa745baea0858"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Beil v. The Queen
+
+- Citation: 2017 TCC 136
+- Decision date: 2017-07-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2109, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Beil v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-07-13
+Neutral citation
+2017 TCC 136
+File numbers
+2016-3557(IT)I
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3557(IT)I
+BETWEEN:
+ALISON K. BEIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 16, 2017, at Edmonton, Alberta
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Peter Basta
+JUDGMENT
+The Appellant’s appeal with respect to her 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013 and 2015 taxation years is quashed in accordance with the attached reasons for judgment.
+The Appellant’s appeal with respect to her 2014 taxation year is dismissed in accordance with the attached reasons for judgment.
+Signed at Magog, Quebec, this 17th day of July 2017.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2017 TCC 136
+Date: 20170713
+Docket: 2016-3557(IT)I
+BETWEEN:
+ALISON K. BEIL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] This is an appeal brought by the Appellant, Alison Beil, with respect to her 2005 to 2015 taxation years.
+[2] It appears from the evidence, that the Appellant has been seeking redress for bodily harm suffered by her son, Steven Beil, as the result of the alleged unlawful use of force by four police officers while he was a student at the University of Victoria, in British Columbia, in 2005. According to the Appellant, her son was tasered repeatedly after police officers were called to his apartment to assist local paramedics who had responded to a call made by an unidentified individual. According to the witnesses, the Appellant acted as a caregiver to her son for a number of years, as prolonged medical care was required in order for him to recover from the incident.
+[3] A civil action in damages was brought by the Appellant’s son but was discontinued in 2009 for lack of financial resources. The witnesses also testified that the Appellant’s son wanted to move on from the incident and put the matter behind him.
+[4] Notwithstanding her son’s decision to discontinue the civil action, the Appellant has sought to obtain redress before multiple authorities.
+[5] In 2009, the Appellant claimed a business loss of approximately $450,000, which she attempted to carry forward and back to offset income taxes paid by her. The Appellant claims that this loss is attributable to income lost and expenses incurred through her acting as a caregiver to her son.
+[6] No documentary or testimonial evidence was provided by the Appellant to prove the make-up of her business loss. What the evidence does show is that the Appellant failed to file within the time prescribed for doing so notices of objection with respect to the assessments issued in respect of her 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012 and 2013 taxation years. As a result, a condition precedent to instituting an appeal under subsection 169(1) of the Income Tax Act with respect to those years has not been satisfied. Accordingly, the Appellant’s appeal with respect to those years is quashed.
+[7] The Appellant did not file a tax return with respect to her 2008 taxation year. Consequently no assessment was issued in respect of that year. This Court has no jurisdiction to hear an appeal in respect of an assessment that has not been issued. The Appellant’s appeal with respect to the 2008 taxation year is also quashed for this reason.
+[8] On April 30, 2015, the Appellant filed her tax return for the 2014 taxation year. Among other things, she reported a non-capital loss of $327,518. On December 14, 2015, the Minister of National Revenue (the “Minister”) assessed the Appellant for her 2014 taxation year and disallowed the non-capital loss of $327,518. The Appellant objected to the assessment, which was subsequently confirmed by the Minister.
+[9] The Appellant has failed to prove, on a balance of probabilities, that she incurred expenses that were properly deductible by her and that could account for a non-capital loss of $327,518. It appears from the evidence that the Appellant claimed the loss as compensation for the loss of income suffered by her as a consequence of her having to assume the role of caregiver to her son. In the absence of evidence establishing the amount of the expenses, if any, incurred by the Appellant in 2014, her appeal must be dismissed in respect of that year.
+[10] Finally, the Appellant filed an appeal before this Court with respect to her 2015 taxation year. The appeal was filed before the Minister had issued an assessment in respect of that year. No appeal to this Court is available in those circumstances. For this reason, the Appellant’s appeal with respect to her 2015 taxation year is also quashed.
+Signed at Magog, Quebec, this 17th day of July 2017.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2017 TCC 136
+COURT FILE NO.:
+2016-3557(IT)I
+STYLE OF CAUSE:
+ALISON K. BEIL v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+May 16, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+July 13, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Peter Basta
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

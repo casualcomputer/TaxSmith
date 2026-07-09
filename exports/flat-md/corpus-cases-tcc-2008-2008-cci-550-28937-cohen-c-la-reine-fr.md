@@ -1,0 +1,137 @@
+---
+title: "Cohen c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28937/index.do"
+last_modified: "2008-10-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 550"
+citation2: ""
+neutral_citation: "2008 CCI 550"
+decision_date: "2008-10-30"
+language: "fr"
+item_id: "28937"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1377
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:15:37.407000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "697e3195aae862ae0cbd316ba6808a11849b007f67364615b14172682b8f5a98"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cohen c. La Reine
+
+- Citation: 2008 CCI 550
+- Decision date: 2008-10-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1377, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cohen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-30
+Référence neutre
+2008 CCI 550
+Numéro de dossier
+2005-2304(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008CCI550
+Date : 20081030
+Dossier : 2005-2304(IT)G
+ENTRE :
+JENNIFER COHEN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Avocat de l’appelante : Me Sam Laufer
+Avocate de l’intimée : Me Lorraine Edinboro
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience
+à Toronto (Ontario), le 21 août 2008.)
+Le juge Bowie
+[1] Il s’agit d’un appel interjeté à l’encontre d’une cotisation établie à l’égard de l’appelante le 18 avril 2005 en vertu de l’article 160 de la Loi de l’impôt sur le revenu (la « Loi »); il découle du fait que le mari de l’appelante a transféré à celle‑ci sa part de 50 % dans le foyer conjugal, à savoir une résidence unifamiliale située au centre‑ville de Toronto que le couple détenait en propriété indivise. Le transfert a eu lieu le 12 juillet 2000.
+[2] La position de l’intimée, et la raison de l’établissement de la cotisation en cause, repose sur l’affirmation selon laquelle le transfert a eu lieu sans contrepartie. L’appelante prétend qu’au moment du transfert, son mari avait envers elle une dette qui dépassait d’environ 20 000 $ la valeur nette de la part dans la résidence qu’il lui a transférée.
+[3] Je me contenterai de résumer la preuve sans entrer dans les détails. Dans leurs plaidoiries, les avocats des deux parties ont convenu qu’en l’espèce, la question à trancher avait uniquement trait à la crédibilité; essentiellement, je résumerais cette question de la manière suivante : la Cour a en sa possession un petit nombre de documents attestant l’existence d’une dette dont l’appelante se réclame pour affirmer qu’il y a eu contrepartie au transfert. Si ces documents sont authentiques, s’ils ont été établis au moment où ils semblent avoir été établis, et s’ils dressent un tableau exact de la réalité, alors le mari de l’appelante devait effectivement à celle‑ci une somme substantiellement plus importante que la valeur nette de l’élément d’actif qu’il lui a transféré.
+[4] Cette dette a essentiellement deux origines. Peu de temps après leur mariage, l’appelante et son mari ont décidé d’acheter une maison. Elle leur a coûté 340 000 $. Ils ont été en mesure d’obtenir un prêt hypothécaire de 255 000 $ et de verser un acompte de 85 000 $ en argent comptant. Dès le départ, ils avaient convenu qu’ils contribueraient également à toutes les dépenses du foyer, et cette entente s’appliquait au prix d’achat de leur maison, qui était, bien évidemment, le principal élément d’actif qu’ils détenaient conjointement.
+[5] À l’époque où ils ont acheté la maison, l’appelante, pour des raisons sur lesquelles je n’ai pas à m’attarder, se trouvait dans une meilleure position que son mari lorsqu’il s’est agi de réunir de l’argent en vue du versement initial. Par conséquent, sur les 85 000 $ versés en acompte, elle a été capable de réunir 71 000 $ à partir de plusieurs sources, tandis que son mari a apporté une contribution de 14 000 $. Je suis convaincu que, dès le début, le couple avait convenu que le mari de l’appelante rembourserait à celle‑ci la différence entre leurs contributions, et ce, dès qu’il le pourrait.
+[6] Pendant les quelques années qui ont suivi, le mari a dû faire face à ce que je qualifierais de nombreuses obligations financières imprévues, pour des raisons familiales sur lesquelles je n’ai pas à m’attarder. Pendant un certain temps, il a gagné un faible revenu, et quand son revenu a augmenté, il a dû assumer des dettes importantes et contribuer de manière significative aux frais de subsistance d’un parent qui avait été victime d’un accident malheureux et coûteux.
+[7] Le fin mot de l’histoire est que, pendant plusieurs années, les dépenses du ménage ont été assumées dans une très large mesure par l’appelante, nonobstant le fait que les termes de l’entente initiale stipulant un partage égal des charges du mariage prévalaient encore – et, à ce que je peux voir, prévalent encore aujourd’hui. Étant mari et femme, ils n’ont pas tenu de registre de leurs contributions respectives ou des défauts de contribution du mari sur une base quotidienne et au dollar près. Toutefois, à un moment donné, l’appelante a commencé à nourrir certaines inquiétudes quant au fait qu’il s’avérait nécessaire qu’elle paie non seulement sa part des dépenses, mais également une bonne partie de la part de son mari. Je suis convaincu que son anxiété n’a fait que croître avec le temps, a fortiori quand ils ont eu à subvenir aux besoins de leur enfant.
+[8] Une fois encore, sans examiner de façon détaillée les motivations des parties, le fait est que le document qui se trouve sous l’onglet 5 de la pièce A‑1 a été établi à l’insistance de l’appelante, simplement pour garder une trace de l’augmentation de la dette de son mari à son endroit, mois après mois et année après année. Il s’agit d’un document manuscrit. Il comporte cinq colonnes, la première indiquant les dates de chaque entrée. Il est évident que sur la page et demie que compte le document, ces dates sont séparées par des intervalles d’approximativement deux mois. La deuxième colonne fait état de l’augmentation de la dette du mari pendant la période s’achevant à la date indiquée. Les deux colonnes suivantes contiennent les parafes du mari et de l’appelante, tandis que la dernière colonne indique le solde courant, soit l’augmentation cumulative de la dette entre le 15 décembre 1995, date à laquelle ce document commence, et le 6 août 1999, date de la dernière entrée.
+[9] Les témoignages apportés par l’appelante et son mari au sujet de ce document, quant aux raisons pour lesquelles il a été établi et à la façon dont il a été tenu à jour, étaient tout à fait cohérents. Ils ont tous deux déclaré en toute franchise que, même si ce document avait pour objectif de leur permettre d’effectuer un suivi du solde dû, ils ne s’étaient pas efforcés de faire les comptes sur une base quotidienne, ou au dollar près. En fait, les entrées qui figurent dans le document sont des nombres ronds, probablement arrondis à dix dollars près, assortis d’une estimation effectuée conjointement à la fin de chaque période.
+[10] Pour les besoins du procès, le couple s’est efforcé, avec un succès que je qualifierais de modéré, d’apporter des précisions à ce document au moyen des relevés bancaires assez fragmentaires qu’il avait à sa disposition. L’appelante et son mari ont subi un contre‑interrogatoire, tant au sujet du solde courant que du document plus détaillé qui avait été élaboré aux fins du procès. Le contre‑interrogatoire n’est en aucune manière venu ébranler leurs témoignages.
+[11] En août 1999, l’appelante commençait à nourrir quelques inquiétudes bien justifiées parce que le solde courant dont son mari et elle faisaient le suivi et auquel je viens de faire référence s’élevait alors à 58 840 $. Après discussion, le mari de l’appelante a décidé, à la demande ou peut‑être à l’insistance de cette dernière, de lui écrire un billet à ordre, et, fort des inépuisables ressources d’Internet, il a trouvé un modèle à partir duquel procéder. Il a rédigé un billet à ordre manuscrit daté du 30 septembre 1999, dans lequel il reconnaissait sa dette de 58 900 $ et s’engageait à la rembourser un an plus tard, soit le 30 septembre 2000.
+[12] D’après un autre document significatif, cette dette est constituée d’une part des 27 800 $ que le mari devait sur le versement initial effectué pour la maison, et d’autre part des 58 900 $ accumulés dont fait état le document précédent, à savoir le relevé manuscrit du solde courant de la dette. La raison pour laquelle on prétend que l’acompte versé sur la propriété s’élève à 27 800 $ n’est pas très claire, mais je pense qu’il ne serait pas faux d’affirmer que la différence entre 27 500 $ et 27 800 $ pourrait correspondre aux frais juridiques et autres frais de clôture associés à l’achat de la maison. Quoi qu’il en soit, cette somme n’est pas significative compte tenu de l’importance des chiffres dont il est ici question. Au cours des quelque dix mois suivants, il était devenu évident que la situation financière du mari ne s’était pas améliorée, et qu’elle n’allait pas davantage s’arranger avant le mois de septembre, soit la date d’échéance du billet à ordre, un constat dont l’appelante a discuté avec lui. Afin de résoudre le problème, les époux ont convenu que le mari transférerait à l’appelante la valeur nette de sa part de la maison. Je suis convaincu que le témoignage de l’appelante à ce sujet est entièrement exact, à savoir que c’est elle qui en a pris l’initiative en demandant à son mari de lui transférer sa part de la maison, parce qu’elle nourrissait de plus en plus d’inquiétudes quant à l’ampleur prise par cette dette. Le témoignage du mari est venu confirmer cela.
+[13] À ce stade, le mari a de nouveau eu recours à Internet; je peux comprendre qu’il n’ait pas souhaité faire appel à des avocats pour ce genre de démarche, mais compte tenu des circonstances, il aurait peut‑être été plus sage de confier la rédaction de ces documents à un avocat. Il est vrai qu’une telle démarche aurait coûté de l’argent, denrée qui se faisait relativement rare. C’est pourquoi, le 7 juillet, à l’aide du modèle trouvé sur Internet, le mari de l’appelante a rédigé une entente en vertu de laquelle il acceptait de transférer à l’appelante sa part de 50 % dans la résidence principale alors enregistrée à leurs deux noms, y compris tout droit qu’il détenait sur celle‑ci, à titre de règlement total et final des dettes qu’il avait à l’égard de l’appelante, dettes calculées et énumérées au bas du document. L’intention de ce paragraphe est parfaitement claire : l’appelante a payé à son mari la somme de 86 700 $ en échange de sa part de la maison. Le mari de l’appelante a ensuite essayé de faire enregistrer le transfert dans un bureau d’enregistrement des actes, et il a découvert que, pour cela, il devrait recourir aux services d’un avocat. C’est alors qu’il a appelé un avocat et lui a dit au téléphone que son appel était motivé par son intention de transférer sa part de la maison à l’appelante. Quand l’avocat lui a demandé si des sommes d’argent ou des chèques allaient être échangés, le mari lui a répondu que ce ne serait pas le cas. Quelques jours plus tard, l’appelante et son mari se sont rendus au cabinet de l’avocat et ont signé l’acte de transfert, en vertu duquel la part de la maison détenue par le mari était transférée à l’appelante.
+[14] L’intimée fonde l’essentiel, sinon l’ensemble, de son argumentation sur un seul document. Il s’agit de l’affidavit relatif à la résidence et à la valeur de la contrepartie, qui fait partie intégrante de l’acte de transfert. Le 12 juillet 2000, cet affidavit a été signé devant le commis aux serments de l’avocat, et, au quatrième paragraphe, où sont normalement énumérés les divers éléments constituant la contrepartie, l’avocat a rempli le formulaire en indiquant partout [traduction] « néant ».
+[15] Je suis convaincu que l’appelante, même si elle a signé ce document et a reconnu l’avoir fait sous serment, n’a pas pleinement pris la mesure de sa portée juridique, et plus particulièrement, qu’elle n’a pas saisi que la quittance qu’elle a donnée à son mari représentait la contrepartie du transfert de la part de celui‑ci dans la maison. Il se peut qu’elle se soit trompée à cet égard, mais ce n’est pas surprenant. Quoi qu’il en soit, le document a été dûment signé, enregistré, et a donné effet à l’entente antérieure, en vertu de laquelle le mari de l’appelante avait accepté de lui transférer sa part de la maison pour éponger sa dette de 86 700 $.
+[16] Au moment où le transfert a eu lieu, et je pense que ce point n’offre pas matière à controverse, la différence entre la valeur de la maison et le solde dû sur le prêt hypothécaire était de 134 700 $, ce qui, après avoir été divisé par deux, leur donnait à chacun une part d’une valeur de 67 350 $. Il semblerait donc que l’appelante ait offert à son mari une contrepartie supérieure de 20 000 $ à la valeur de la part de celui‑ci dans la maison.
+[17] Il se peut que l’ensemble ou une partie des évènements que je viens d’évoquer ait des implications dans d’autres domaines du droit, et, en l’espèce, je ne prétends pas exprimer quelque opinion que ce soit au sujet des obligations mutuelles des époux à ce stade, où sur quoi que ce soit d’autre. Je suis néanmoins parfaitement convaincu que l’appelante et son mari ont dit la vérité quand ils ont déposé, et que le solde courant de la dette du mari à l’égard de l’appelante est authentique, en ce sens qu’il a été calculé au fur et à mesure que la dette s’accumulait et qu’il reflète fidèlement les termes des ententes que l’appelante et son mari négociaient périodiquement à la lumière de l’augmentation du solde de cette dette.
+[18] Je suis également convaincu que leurs témoignages portant sur le versement initial effectué sur la maison, ainsi que sur leur entente quant aux modalités d’acquisition de la maison et au partage des charges du mariage sont véridiques. Je ne trouve pas qu’il soit surprenant ou significatif que la comptabilité qu’ils ont tenue ne soit qu’approximative. Je suis convaincu, en me fondant sur les témoignages de l’appelante et de son mari, que cette comptabilité, dans la mesure où elle n’est pas exacte, a favorisé le mari au détriment de l’appelante.
+[19] Je prends note du fait que tant le billet à ordre que l’entente postérieure visant le transfert de la part du mari dans la maison ont été signés respectivement le 30 septembre 2000 et le 7 juillet 2000, en présence d’un avocat. Ce dernier a témoigné; il ne se rappelait pas les faits avec précision, ce qui est compréhensible, mais il m’a convaincu qu’il avait bien signé les documents à titre de témoin. Je pense qu’il est hautement improbable qu’il ait signé les documents à titre de témoin à une autre date que celle qui y est indiquée. Il m’a donné l’impression d’être un avocat consciencieux, qui aurait remarqué la date en apposant sa signature à titre de témoin, et qui n’aurait pas été porté à signer le document si la date avait été inexacte.
+[20] Tout cela m’amène à conclure que le transfert de la part du mari dans la résidence, qui a eu lieu en juillet 2000, avait une contrepartie adéquate, plus qu’adéquate en fait. Sans entrer dans le langage compliqué de l’article 160 de la Loi, les chiffres parlent d’eux‑mêmes, et ils nous disent que cet article ne s’applique pas à l’appelante. La cotisation est par conséquent annulée.
+[Les avocats présentent leurs arguments au sujet des dépens.]
+[21] La nature des litiges en matière fiscale est telle qu’on éprouve souvent de grandes difficultés à parvenir à un règlement avant procès, parce que, bien souvent, l’objet du litige aura une incidence sur les années à venir, et ainsi de suite. Je dis tout cela simplement pour souligner que ce n’est pas le cas des cotisations établies en vertu de l’article 160, en ce sens qu’il s’agit si vous voulez de cas uniques. Ou que généralement il s’agit de cas uniques.
+[22] La présente affaire repose purement et simplement sur la crédibilité des personnes concernées. L’appelante et son mari ont produit, au moment opportun pour les besoins de l’offre, d’importantes preuves corroborantes, à savoir le document faisant état du solde courant qui figure sous l’onglet 5 de la pièce A-1, et le billet à ordre ainsi que l’entente qui se trouvent sous les onglets 7 et 8. À partir de là, il n’était pas très difficile de se faire une idée de la situation.
+[23] Je vais maintenant établir les dépens que l’intimée devra payer à l’appelante, ce qui soulève la question de tous les évènements antérieurs. Les actes de procédure ont été rédigés par l’appelante elle‑même; il y a eu quelques comparutions; quelques requêtes interlocutoires ont été présentées. Bien honnêtement, je pense qu’il faudrait faire abstraction de tout cela aux fins des dépens. Certains facteurs jouent dans les deux sens, et je pense qu’il serait vain de vouloir faire la part des choses.
+[traduction]
+LE JUGE BOWIE : Me Laufer, je présume qu’il y a eu des débours qui ne sont pas inclus dans les chiffres que vous m’avez donnés?
+Me LAUFER : Les coûts d’impression.
+Me EDINBORO : Les coûts d’impression, oui.
+Me LAUFER : Mais…
+Me EDINBORO: Très... (inaudible)
+Me LAUFER : … encore une fois, seize-quatre, je pense que nous pouvons absorber ces coûts.
+LE JUGE BOWIE : J’arrondirai la somme à 16 500 $, ce qui…
+Me LAUFER : Merci.
+LE JUGE BOWIE : … ne représente pas grand chose pour les débours, mais traduit ma vision du fait que le procès d’aujourd’hui a dû avoir lieu.
+[24] Le jugement est rendu en faveur de l’appelante; l’appel est accueilli, la cotisation est annulée, et le montant des dépens payables par l’intimée à l’appelante est établi à 16 500 $.
+Signé à Ottawa, Canada, ce 30e jour d’octobre 2008.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 17e jour de novembre 2008.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2008CCI550
+NO DU DOSSIER DE LA COUR : 2005-2304(IT)G
+INTITULÉ : Jennifer Cohen et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 21 août 2008
+MOTIFS DU JUGEMENT : L’honorable juge E. A. Bowie
+DATE DU JUGEMENT : Le 26 août 2008
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Sam Laufer
+Avocate de l’intimée :
+Me Lorraine Edinboro
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Sam Laufer
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

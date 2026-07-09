@@ -1,0 +1,143 @@
+---
+title: "Laboucan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/64718/index.do"
+last_modified: "2013-11-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 357"
+citation2: ""
+neutral_citation: "2013 TCC 357"
+decision_date: "2013-11-18"
+language: "en"
+item_id: "64718"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5888
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:45:04.566000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e63c793ec036ccb6a2757ff4f8aa90f25356c82e0796cb674b648a525d602dc4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Laboucan v. The Queen
+
+- Citation: 2013 TCC 357
+- Decision date: 2013-11-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5888, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laboucan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-11-18
+Neutral citation
+2013 TCC 357
+File numbers
+2012-943(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-943(IT)G
+BETWEEN:
+ALLAN BARRY LABOUCAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Respondent’s motion heard on October 18, 2013
+at Vancouver, British Columbia
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Raj Grewal
+____________________________________________________________________
+ORDER
+Upon motion made by the Respondent for an order that the Appellant’s Notice of Appeal be struck out and the appeal be dismissed, with costs:
+And upon hearing the parties;
+IT IS ORDERED THAT:
+1. The Respondent’s motion striking the Appellant’s Notice of Appeal is allowed in accordance with the attached Reasons for Order.
+2. The appeal from the assessments made under the Income Tax Act with respect to the Appellant’s 2004, 2005, 2006 and 2007 taxation years is quashed.
+3. There is no award as to costs.
+Signed at Ottawa, Canada this 18th day of November 2013.
+"Patrick Boyle"
+Boyle J
+Citation: 2013 TCC 357
+Date: 20131118
+Docket: 2012-943(IT)G
+BETWEEN:
+ALLAN BARRY LABOUCAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Boyle J.
+[1] The Respondent has brought a motion to strike the Appellant’s Notice of Appeal on the basis that the Notice of Appeal fails to disclose reasonable grounds for appeal and is also, in part, outside the jurisdiction of this Court.
+[2] Mr. Laboucan filed a Notice of Appeal in respect of his income tax assessments for the 2004, 2005, 2006 and 2007 taxation years. By earlier order of this Court, his attempt to file an amended Notice of Appeal adding the years 2008, 2009, 2010 and 2011 was quashed by Justice Hogan.
+[3] The taxpayer’s Notice of Appeal claims that Treaty 8 provides an exemption to aboriginals covered by that treaty from taxes of any kind whether or not they reside on a reservation. In addition, the taxpayer’s Notice of Appeal refers to The Royal Proclamation of 1763, the Charter of Rights and Freedoms, the United Nations Declaration on the Rights of Indigenous Peoples and the Supreme Court of Canada mandated duty to consult on issues relating to the rights of native peoples, all in support of his claimed income tax exemption.
+1. The Federal Court of Appeal has decided that Treaty 8 does not include a tax exemption:
+[4] The Federal Court of Appeal has decided in Canada v. Benoît, 2003 FCA 236 that Treaty 8 does not contain or give rise to an income tax exemption. In Benoît the taxpayers sought leave to appeal to the Supreme Court of Canada which was denied. This decision of the Federal Court of Appeal is clear and is binding upon this Court.
+[5] Mr. Laboucan has not been able to identify that his particular circumstances are in any relevant manner different from those under consideration in Benoît. Mr. Laboucan has not been able to find any additional evidence, oral or otherwise, that relates to Treaty 8 and its proper interpretation or understanding, though he hopes to when he sets out to search for it. In essence, having heard from Mr. Laboucan at the hearing of this motion, it is his position that the decision of the Federal Court of Appeal is simply incomplete and incorrect.
+[6] In these circumstances, a judge of the Tax Court of Canada would be bound to follow the Federal Court of Appeal’s decision in Benoît and it is therefore plain and obvious that Mr. Laboucan’s appeal to this Court can not succeed.
+[7] Justice Sheridan of this Court has followed and applied the Benoît decision in her decision in Dumont v. The Queen, 2005 TCC 790; her decision was upheld and affirmed by the Federal Court of Appeal (2008 FCA 32). Most recently, Justice Bocock of this Court again followed and applied Benoît in Tuccaro v. The Queen, 2013 TCC 300.
+2. The Royal Proclamation of 1763 and the duty to consult:
+[8] The only apparent support for Mr. Laboucan’s appeal that can be found in The Royal Proclamation of 1763 would be, arguably, the duty to consult. The Royal Proclamation of 1763 does not support any income tax exemption for aboriginal people generally that are not grounded in their treaty rights.
+[9] The Crown’s duty to consult arises where contemplated Crown conduct may adversely affect potential or established aboriginal or treaty rights. Since the Federal Court of Appeal has conclusively determined in Benoît that there is no income tax exemption in Treaty 8, neither the assessments of Mr. Laboucan for income tax, nor anything else he has referred to in his Notice of Appeal or in the hearing, can adversely affect his treaty rights. For this reason, the duty to consult can not arise.
+[10] I would also note that a breach by the Crown of any duty to consult would not in any event be something that the Tax Court of Canada appears to have jurisdiction to remedy.
+[11] Further, I would highly doubt that a contemplated or actual assessment of an individual aboriginal person, in accordance with the terms of the generally applicable Income Tax Act, can even arguably be said to give rise to a duty to consult that individual by the Crown beyond any ordinary Canada Revenue Agency audit review and proposed reassessment letter procedures. See for example, the decision of Justice Paris of this Court in Sackaney v. The Queen, 2013 TCC 303 which quotes from the Ontario Superior Court’s decision in Hester v. The Queen et al, [2007] O.J. No. 4719, aff’d: Hester v. Canada, 2008 ONCA 634 (Ontario Court of Appeal):
+… there can be no contemplated Crown conduct on the facts pleaded as the Crown exercises no discretion in its administration of tax exemption rights.
+[12] On the issue of the absence of this Court’s jurisdiction to review an alleged failure by the Crown of its duty to consult, regard may be had to the Supreme Court of Canada’s decision in Haida Nation v. British Columbia (Minister of Forests), [2004] 3. R.C.S. 511 (SCC) at paragraphs 60 and following where general administrative law principles are set out for the review of an alleged failure by the Crown to fulfill its duty to consult. Reference can also be made to Acadia Band v. M.N.R., 2007 FC 259 wherein the Federal Court describes the parallel processes for a judicial review application to the Federal Court in respect of the duty to consult at the same time as a substantive appeal to the Tax Court of Canada on the merits of the assessment under the tax laws.
+3. United Nations Declaration on the Rights of Indigenous Peoples:
+[13] I can not see how the United Nations Declaration can either support Mr. Laboucan’s claimed Treaty 8 income tax exemption as a matter of law, nor how it can ground such an exemption in its own right. While Canada may be a signatory to the United Nations Declaration, it has not been ratified by the Parliament of Canada. This was also considered by Justice Paris in paragraph 35 of his decision in Sackaney.
+[14] As the Federal Court of Appeal in Benoît has decided clearly that Treaty 8 does not include an income tax exemption, the United Nations Declaration can not assist in finding one there.
+[15] To the extent the taxpayer’s position is that the United Nations Declaration obliges the Crown to have meaningful consultation on the rights of indigenous people when disputes arise, and takes the position that the Crown has not fulfilled that obligation, the Tax Court of Canada does not have jurisdiction to determine and remedy his alleged concern. As with an alleged failure of the duty to consult, this would be within the jurisdiction of the Federal Court.
+[16] For these reasons, I am allowing the Crown’s motion and striking the Notice of Appeal and thereby quashing Mr. Laboucan’s appeal to this Court.
+[17] In the circumstances, I am making no award as to costs.
+Signed at Ottawa, Canada this 18th day of November 2013.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2013 TCC 357
+COURT FILE NO.: 2012-943(IT)G
+STYLE OF CAUSE: ALLAN BARRY LABOUCAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: October 18, 2013
+REASONS FOR ORDER BY: The Honourable Justice Patrick Boyle
+DATE OF REASONS FOR
+ORDER: November 18, 2013
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Raj Grewal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

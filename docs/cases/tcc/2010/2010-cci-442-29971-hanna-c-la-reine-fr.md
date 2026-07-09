@@ -1,0 +1,238 @@
+---
+title: "Hanna c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29971/index.do"
+last_modified: "2010-09-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 442"
+citation2: ""
+neutral_citation: "2010 CCI 442"
+decision_date: "2010-09-07"
+language: "fr"
+item_id: "29971"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6455
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:36:28.159000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9dffa08ca7ad07e3a8f9bc8b6e82f07f778a25f5d823f780c6365ffac65fb534"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hanna c. La Reine
+
+- Citation: 2010 CCI 442
+- Decision date: 2010-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6455, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hanna c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-09-07
+Référence neutre
+2010 CCI 442
+Numéro de dossier
+2009-1545(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-1545(IT)I
+ENTRE :
+HAGOP HANNA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 17 mai 2010, à Montréal (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocate de l'intimée :
+Me Antonia Paraherakis
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002, 2004 et 2005 est rejeté.
+L’appel de la nouvelle cotisation pour l’année d’imposition 2003 est accueilli en partie, sans dépens, et l’affaire est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation afin que soit ajoutée au revenu de l’appelant la somme de 14 802 $, plutôt que 19 834 $, pour tenir compte de la diminution de revenu de 5 032 $ acceptée par l’intimée, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2010.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2010 CCI 442
+Date : 20100907
+Dossier : 2009-1545(IT)I
+ENTRE :
+HAGOP HANNA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+Introduction
+[1] Il s’agit d’un appel portant sur les années d’imposition 2002, 2003, 2004 et 2005. Le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’égard de l’appelant en se servant de méthodes alternatives de cotisation. À la suite d’une vérification effectuée par le ministère du Revenu du Québec (« MRQ »), le ministre a fait siennes les conclusions du MRQ pour ce qui est des années d’imposition 2002, 2003 et 2004, y apportant toutefois quelques changements, et a basé les nouvelles cotisations sur une méthode qui tenait compte du flux monétaire et des débours de l’appelant pour les années en question. En ce qui a trait à l’année d’imposition 2005, la nouvelle cotisation était basée sur l’analyse des dépôts faits par l’appelant dans ses comptes bancaires au cours de l’année en question.
+[2] L’appelant a déclaré les sommes respectives de 12 762 $, de 13 240 $, de 10 706 $ et de 13 600 $ à titre de revenu net d’entreprise dans ses déclarations de revenus pour les années d’imposition 2002, 2003, 2004 et 2005. Le ministre a procédé aux changements suivants à l’égard des années en litige :
+a) révision du revenu net d’entreprise, celui‑ci étant porté à 20 258 $ pour 2002, à 19 834 $ pour 2003, à 52 162 $ pour 2004 et à 26 759,09 $ pour 2005;
+b) imposition de pénalités pour faute lourde de 1 645,05 $ pour 2002, de 1 614,18 $ pour 2003, de 4 410,73 $ pour 2004 et de 1 820 $ pour 2005.
+[3] Les questions en litige sont de savoir :
+a) si, à l’égard des années d’imposition 2002, 2003 et 2004, les nouvelles cotisations datées du 8 juillet 2008 étaient valides;
+b) si, le cas échéant, le ministre était justifié d’ajouter, dans le calcul du revenu de l’appelant pour les années d’imposition 2002, 2003 et 2004, les sommes respectives de 20 258 $, de 19 834 $ et de 52 162 $ à titre d’« Autres revenus »;
+c) si le ministre était justifié d’ajouter, à l’égard de l’année d’imposition 2005, la somme de 26 759 $ dans le calcul du revenu d’entreprise de l’appelant; et
+d) si le ministre était justifié d’imposer à l’appelant une pénalité pour faute lourde pour chacune des années d’imposition 2002, 2003, 2004 et 2005.
+Les faits
+[4] L’appelant est chauffeur de taxi. Il détient deux permis de taxi et possède deux voitures. La preuve démontre que l’appelant exploite un de ses permis de taxi pendant cinq jours et demi par semaine à raison de 9 ou 10 heures par jour. La preuve démontre également que l’appelant loue l’autre permis et l’autre voiture à deux de ses frères, ce qui lui procure un revenu brut n’excédant pas 12 000 $ par année selon l’appelant. Ce dernier a admis que la valeur de ses permis de taxi était d’approximativement 185 000 $ chacun.
+[5] L’appelant demeure à Brossard avec son épouse. Il a contracté un emprunt hypothécaire à taux d’intérêt variable lors de l’achat de sa résidence en 2001. Selon son témoignage, ses paiements hypothécaires pour les années d’imposition en question étaient d’environ 800 $ à 1 000 $ par mois. L’emprunt hypothécaire fut remboursé en totalité au début de 2005.
+[6] La preuve démontre que l’appelant ne tenait pas de livres comptables adéquats pour son entreprise. L’appelant prétend qu’il notait son revenu brut et ses dépenses sur un calendrier, mais qu’il a détruit les documents après la production de ses déclarations de revenus. Il prétend que s’il avait su qu’une vérification serait faite par l’Agence du revenu du Canada (l’« ARC »), il aurait conservé les documents. Par contre, la vérificatrice chargée du dossier a témoigné que, lors de l’entrevue avec l’appelant, ce dernier lui avait donné une tout autre version des faits. Selon la vérificatrice, l’appelant avait affirmé que son revenu net d’entreprise était à peu près le même d’une année à l’autre et que, par conséquent, il déclarait approximativement les mêmes montants de revenus nets chaque année. L’appelant s’est souvent contredit lors de son témoignage et la Cour juge que le témoignage de la vérificatrice est plus crédible sur ces faits.
+[7] Tel qu’il est mentionné ci‑dessus, la preuve démontre que le ministre a fait siennes les conclusions du MRQ pour ce qui est des années d’imposition 2002, 2003 et 2004, malgré quelques redressements (paragraphe 10 de la réponse à l’avis d’appel) :
+c) […]
+2002
+2003
+2004
+i) entrées totaux de fonds
+174 475 $
+46 178 $
+19 418 $
+ii) moins : sorties totaux de fonds
+198 451 $
+75 976 $
+71 580 $
+iii) sous‑total
+23 976 $
+29 798 $
+52 162 $
+iv) moins : indemnités non calculées lors des nouvelles cotisations du 8 juillet 2008
+3 718 $
+9 964 $
+v) insuffisance des entrées par rapport aux sorties de fonds
+20 258 $
+19 834 $
+52 162 $;
+d) l’insuffisance annuelle, pour les années d’imposition 2002, 2003 et 2004, des entrées par rapport aux sorties de fonds a été considérée comme du revenu additionnel à titre de « Autres revenus » et fut assujettie à la pénalité pour faute lourde;
+e) le ministre révisa le revenu d’entreprise de taxi de l’appelant pour l’année d’imposition 2005, selon l’analyse des dépôts bancaires :
+i) total des dépôts corrigés de redressements
+compte bancaire de l’appelant
+53 159,09 $
+ii) moins : revenu brut d’entreprise de taxi déclaré
+26 400,00 $
+iii) revenu d’entreprise non déclaré
+26 759,09 $.
+[8] L’appelant a témoigné que l’écart établi entre son revenu net déclaré, ses débours et son niveau de vie peut être expliqué par divers faits dont l’intimée n’a pas tenu compte. D’une part, l’appelant a démontré qu’il a touché des indemnités d’assurance et d’invalidité payées par la Société de l’assurance automobile du Québec (la « SAAQ ») et la Compagnie mutuelle d’assurance Wawanesa (« Wawanesa ») pour blessures corporelles et dommages à sa voiture après divers accidents de la route. Après avoir entendu le témoignage de l’appelant à ce sujet, l’avocate de l’intimée a estimé que l’appelant avait droit à une diminution de revenu de 5 032 $ pour l’année d’imposition 2003 afin de tenir compte des indemnités d’assurance reçues, ce montant n’ayant pas été retenu dans la nouvelle cotisation pour l’année 2003. À la suite de cet ajustement, et compte tenu des montants qui avaient été acceptés par le ministre lors de l’établissement des nouvelles cotisations, il n’y a plus de différence entre les montants présentés par l’appelant et ceux accordés par le ministre à cet égard.
+[9] D’autre part, l’appelant a prétendu avoir reçu, entre les années 1998 et 2005, une somme de 81 000 $US en argent comptant à la suite du règlement de la succession de son père, décédé à l’âge de 40 ans au Liban. Selon les dires de l’appelant, son père était copropriétaire indivis, avec son frère, d’un verger de pommiers situé au Liban. L’appelant a expliqué qu’au cours des années 1998 à 2005, sa mère et son demi‑frère, qui vivaient en France, avaient pris l’initiative de récupérer des sommes d’argent de son oncle au Liban en règlement de la succession. L’appelant a expliqué que sa mère, son demi‑frère et l’épouse de ce dernier lui avaient remis 30 000 $US en main propre lorsqu’ils étaient venus le visiter au Canada. D’après l’appelant, ils n’avaient pas déclaré cette somme d’argent lors de leur arrivée à Montréal, puisque la loi, à l’époque, exigeait des arrivants au Canada qu’ils déclarent seulement les montants excédant 10 000 $ comptant par personne. L’appelant a prétendu également qu’il avait visité son demi‑frère et sa mère en France et que ces derniers lui avait alors remis 26 000 $ comptant. Finalement, l’appelant a prétendu que des amis de son demi‑frère lui avaient remis des sommes d’environ 5 000 $ à diverses occasions.
+[10] L’appelant a produit une lettre datée du 1er novembre 2009, écrite par son demi‑frère, qui relate à peu près les mêmes faits. Puisque le demi‑frère de l’appelant n’a pas témoigné au procès, cette lettre constitue du ouï‑dire. Pour les raisons mentionnées ci-après, la Cour n’accorde aucun poids au contenu de cette lettre dans son analyse et, par conséquent, la seule preuve à considérer concernant l’héritage est le témoignage de l’appelant. Or, le contre‑interrogatoire de l’appelant a révélé que ce dernier ignorait l’identité des amis de son demi‑frère qui lui auraient remis de l’argent lors de leur visite au Canada. De plus, selon le témoignage de la vérificatrice chargée du dossier, l’appelant avait déclaré, lors de la vérification, que son héritage totalisait 220 000 $CAN, alors que, d’après le témoignage de l’appelant et la lettre de son demi‑frère, la somme était plutôt de 126 000 $US, ce qui est, même lorsqu’on tient compte du taux de change, inférieur à 220 000 $CAN. La vérificatrice a également mentionné que l’appelant lui avait déclaré que l’argent qu’il prétendait avoir reçu sur une période de 12 ans était déjà converti en dollars canadiens, tandis que, dans son témoignage, l’appelant a expliqué à la Cour qu’il recevait et gardait chez lui des dollars américains qu’il convertissait en dollars canadiens seulement lorsqu’il avait des achats importants à faire.
+[11] En contre‑interrogatoire, l’appelant a avoué qu’il n’avait aucun document provenant du Liban pour corroborer sa version des faits. Il a également prétendu en contre‑interrogatoire qu’il n’avait pas déposé l’argent dans son compte bancaire puisqu’il était plus facile pour lui de garder l’argent à sa résidence afin qu’il soit disponible rapidement au cas où il en aurait besoin.
+[12] Finalement, l’appelant a allégué qu’il avait gagné chaque année approximativement 12 000 $ en prix en jouant à divers jeux de loterie de Loto‑Québec. L’appelant a indiqué que la majorité des prix était de moins de 600 $ et que ces sommes avaient été payées comptant par des détaillants affiliés à Loto‑Québec. Par conséquent, il n’y a aucune pièce justificative établissant les lots gagnés par l’appelant.
+[13] La vérificatrice de l’ARC a témoigné que l’appelant avait mentionné lors de la vérification avoir gagné deux fois 3 500 $ à la loterie, mais aux alentours de l’année 1986. Toutefois, il n’a jamais mentionné avoir gagné quoi que ce soit à la loterie durant les années d’imposition en litige.
+Analyse
+[14] Il est bien établi en fiscalité canadienne que le ministre peut établir des cotisations arbitraires en employant toute méthode appropriée et en tenant compte des circonstances particulières[1].
+[15] Tout d’abord, l’appelant a prétendu avoir reçu 81 000 $US en règlement de la succession de son père, décédé à l’âge de 40 ans. Selon la version des faits de l’appelant, cet argent lui aurait été remis plus de 25 ans après le décès de son père. De l’avis de la Cour, il est peu probable qu’un bénéficiaire d’une succession ait attendu si longtemps avant d’exiger sa part de la succession. De plus, la Cour a beaucoup de difficulté à accepter la version des faits relatée par l’appelant. Le Liban est un pays assez développé. La Cour soupçonne que, dans le cas d’une succession véritable, il existerait des documents juridiques pour constater et confirmer l’existence des bénéficiaires de la succession. Au minimum, l’appelant aurait pu mettre en preuve le titre de propriété afférent au verger, lequel aurait permis de savoir si son père était effectivement copropriétaire du verger avec son frère au moment de son décès.
+[16] L’appelant a prétendu que l’argent comptant qu’il avait reçu était passé, dans un premier temps, du Liban à des membres de sa famille en France et, dans un deuxième temps, de ces mêmes membres de sa famille à lui au Canada. L’appelant a prétendu également que des sommes importantes lui avaient été remises par des gens dont il disait ignorer les noms. Ces sommes n’ont pas été déclarées et elles n’ont pas été déposées dans une banque. Cette histoire n’est donc pas crédible. La Cour fait remarquer aussi qu’il y a une contradiction importante entre le témoignage de l’appelant à l’audience et les explications qu’il a données dans le cadre de la vérification effectuée par l’ARC. En effet, il a rempli en 2006 un questionnaire pour le MRQ pour la période de 1998 à 2005, qui a été déposé en preuve (pièce I-1, onglet 8). Sur ce questionnaire, à la deuxième page, l’appelant indique qu’il a reçu 220 000 $CAN au cours des 10 dernières années, alors qu’il a prétendu à l’audience qu’il avait reçu 81 000 $US comptant. Les deux montants ne s’équivalent pas, même si l’on tient compte du taux de change.
+[17] L’appelant a prétendu qu’il avait reçu des gains importants de Loto‑Québec dans les années en question. Hormis sa preuve testimoniale, aucune preuve, telle que des chèques de Loto‑Québec, corroborant son témoignage n’a été fournie. L’appelant a prétendu avoir gagné de cette source environ 12 000 $ par année dans les années en question et a affirmé que chaque gain était de moins de 600 $. Si les lots étaient de 600 $ chacun, cela signifierait que l’appelant a gagné au moins 20 fois par année. Si le prix moyen était plutôt de 400 $, cela signifierait que l’appelant a gagné 30 fois par année. La Cour a beaucoup de difficulté à le croire, d’autant plus que la Cour a noté de nombreuses contradictions dans le témoignage de l’appelant portant sur la prétendue succession de son père, de sorte que la Cour tient pour très peu crédible son témoignage à ce sujet. En l’absence d’une preuve documentaire quelconque, la Cour n’accepte donc pas sa version des faits concernant le prétendu héritage.
+[18] L’appelant n’accepte pas les calculs du ministre, mais ne propose aucune autre méthode à considérer, étant lui‑même incapable de préciser le nombre de courses rémunérées qu’il a faites chaque année pour son entreprise. Si des livres existaient, l’appelant avait l’obligation de les conserver.
+[19] De surcroît, la Cour doute fortement que l’appelant ait gagné seulement les revenus nets qu’il a déclarés. Il a avoué que ses deux permis valaient ensemble environ 370 000 $. Il est en outre propriétaire de deux voitures et propriétaire d’une maison non hypothéquée d’une valeur de 180 000 $. En tout, le contribuable possède des actifs excédant 500 000 $ et a très peu de dettes. La Cour est d’avis qu’il est impossible que l’appelant ait réussi à amasser autant d’économies et à accumuler autant d’actifs en gagnant si peu de revenus. Si un permis de taxi vaut 185 000 $, c’est parce qu’il permet à son détenteur de gagner un rendement normal sur ce capital, compte tenu des autres dépenses qui doivent être faites pour gagner le revenu et du temps consacré par le propriétaire à la conduite de son taxi.
+[20] L’intimée a le fardeau de la preuve pour ce qui est des années d’imposition 2002, 2003 et 2004 puisque les avis de nouvelle cotisation ont été envoyés après la période normale de nouvelle cotisation. L’expression « période normale de nouvelle cotisation » est définie comme suit au paragraphe 152(3.1) de la Loi de l’impôt sur le revenu (la « LIR ») :
+152(3.1) Période normale de nouvelle cotisation — Pour l'application des paragraphes (4), (4.01), (4.2), (4.3), (5) et (9), la période normale de nouvelle cotisation applicable à un contribuable pour une année d'imposition s'étend sur les périodes suivantes :
+a) quatre ans suivant soit le jour de mise à la poste d'un avis de première cotisation en vertu de la présente partie le concernant pour l'année, soit, s'il est antérieur, le jour de mise à la poste d'une première notification portant qu'aucun impôt n'est payable par lui pour l'année, si, à la fin de l'année, le contribuable est une fiducie de fonds commun de placement ou une société autre qu'une société privée sous contrôle canadien;
+b) trois ans suivant le premier en date de ces jours, dans les autres cas.
+[21] Le sous‑alinéa 152(4)a)(i) de la LIR porte sur le délai de prescription pour établir des cotisations :
+152(4) Cotisation et nouvelle cotisation [délai de prescription] — Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l'impôt pour une année d'imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu'aucun impôt n'est payable pour l'année à toute personne qui a produit une déclaration de revenu pour une année d'imposition. Pareille cotisation ne peut être établie après l'expiration de la période normale de nouvelle cotisation applicable au contribuable pour l'année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi,
+[…]
+[Je souligne.]
+[22] Le juge en chef adjoint Bowman (tel était alors son titre) a déclaré dans l’affaire Biros c. La Reine qu’« [a]fin de rouvrir l'année frappée de prescription, le ministre a le fardeau d'établir qu'il y a eu présentation erronée des faits »[2].
+[23] Le juge Bowie a confirmé cela dans l’affaire College Park Motors Ltd. c. La Reine[3] :
+20 […] le sous-alinéa 152(4)a)(i) est une disposition réparatrice, et non pénale. Elle concilie la nécessité, pour le contribuable, que son obligation fiscale afférente à une année d'imposition soit arrêtée de façon définitive, avec les exigences propres à un système autodéclaratif faisant en sorte que le fisc ne soit pas empêché d'établir une nouvelle cotisation lorsque, en raison de sa conduite, un contribuable a bénéficié d'une cotisation plus avantageuse que celle qui aurait dû être établie, au mieux, par manque de diligence ou d'attention ou, au pire, par fraude volontaire. La présente espèce, à bon droit, ne relève pas de l'ordre pénal. […]
+[24] Le juge Bowie a également affirmé que le sous-alinéa 152(4)a)(i) « n’a nullement pour objet d'établir une quelconque culpabilité de la part du contribuable. D'autres dispositions de la Loi sont en place pour cela. » [4].
+[25] Le juge Tardif a examiné, dans la décision Savard c. La Reine[5], la jurisprudence portant sur le sens du terme « négligence » et de l’expression « présentation erronée des faits » au sous‑alinéa 152(4)a)(i). Le juge a mentionné avec approbation les propos suivants du président Cardin, de la Commission de révision de l'impôt, dans la décision Froese v. M.N.R.[6] :
+I do not believe that in this context any inference other than their generally accepted meaning can or should be given to the words "neglect" or "carelessness" which is the contrary of the reasonable care that is ordinarily, usually, or normally given by a wise and prudent person in any given circumstances.
+[26] Le juge Strayer, alors juge à la Cour fédérale, a énoncé ce qui suit, dans l’affaire Venne c. Canada[7], en ce qui a trait au fardeau du ministre :
+[I]l suffit au Ministre, pour invoquer son pouvoir en vertu de l'alinéa 152(4)a)(i) de la Loi, de démontrer la négligence du contribuable, à l'égard d'un ou plusieurs éléments de sa déclaration de revenus au titre d'une année donnée. Cette négligence est établie s'il est démontré que le contribuable n'a pas fait preuve de diligence raisonnable. C'est sûrement là le sens des termes « présentation erronée des faits, par négligence », en particulier avec d'autres motifs comme l'inattention ou l'omission volontaire qui font référence à un degré de négligence plus élevé ou à une mauvaise conduite délibérée. […]
+[27] Dans son jugement, le juge Strayer a conclu que le contribuable n’avait pas fait preuve de diligence raisonnable dans la préparation et la production de ses déclarations de revenus et a ajouté que « [c]ette conclusion est en partie inspirée par l'importance du revenu non déclaré »[8].
+[28] La Cour d’appel fédérale (la « CAF »), sous la plume du juge Pelletier, a dit dans l’arrêt Lacroix c. Canada[9], qu’il est, dans la grande majorité des cas, difficile pour le ministre de présenter une preuve directe de ce qu’était l’état d’esprit du contribuable lorsqu’il a produit sa déclaration de revenus :
+32 […] Dans la mesure où la Cour canadienne de l'impôt est persuadée que le contribuable touche un revenu qu'il n'a pas déclaré et que l'explication offerte par le contribuable pour l'écart constaté entre son revenu déclaré et l'accroissement de son actif est non crédible, le ministre s'est acquitté du fardeau de preuve qui lui incombe aux termes du sous-alinéa 152(4)(a)(i) et du paragraphe 162(3) [sic].
+[29] Les propos du juge Létourneau de la CAF dans l’arrêt Molenaar c. Canada[10] vont dans le même sens que ceux du juge Pelletier cités ci‑dessus :
+4 À partir du moment où le ministère établi [sic] selon des données fiables un écart, substantiel dans le cas présent, entre les actifs d'un contribuable et ses dépenses et où cet écart demeure inexpliqué et inexplicable, le ministère a assumé son fardeau de preuve. […]
+[30] Enfin, le paragraphe 163(2) de la LIR inflige une pénalité au contribuable qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration de revenus :
+163(2) Faux énoncés ou omissions — Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d'imposition pour l'application de la présente loi, ou y participe, y consent ou y acquiesce est passible d'une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants : […]
+[31] Aux termes du paragraphe 163(3) de la LIR, le ministre a le fardeau de prouver que les circonstances justifient l’imposition d’une pénalité en vertu du paragraphe 163(2) :
+163(3) Charge de la preuve relativement aux pénalités — Dans tout appel interjeté, en vertu de la présente loi, au sujet d'une pénalité imposée par le ministre en vertu du présent article ou de l'article 163.2, le ministre a la charge d'établir les faits qui justifient l'imposition de la pénalité.
+[32] Selon ce qui est prescrit au paragraphe 163(2) de la LIR et d’après la jurisprudence, il incombe au ministre d'établir les faits justifiant l'imposition d’une pénalité en vertu du paragraphe 163(3)[11]. Dans l’affaire Corriveau c. Canada[12], le juge Archambault décrit le fardeau du ministre comme suit :
+26 […] le ministre doit prouver : 1) que le contribuable a fait un faux énoncé ou une omission dans une déclaration; 2) que ce faux énoncé ou cette omission a été fait sciemment ou dans des circonstances équivalant à faute lourde.
+[33] Dans l’affaire Venne, le juge Strayer a déclaré, en ce qui a trait à la pénalité prescrite au paragraphe 163(2) de la LIR :
+[…] Il faut se souvenir comme l'a dit le juge Cattanach dans l'affaire Udell (précitée) qu'il s'agit d'une disposition pénale et qu'elle doit être interprétée de façon restrictive. Le paragraphe ne vise évidemment pas à imposer de responsabilité stricte mais il n'autorise les pénalités que si le contribuable a un degré élevé de faute, notamment la connaissance ou la mauvaise conduite insouciante […][13].
+[34] Dans l’affaire Morin c. M.R.N. [14], le juge en chef Couture a affirmé ceci :
+Pour échapper aux pénalités prévues aux dispositions [du] paragraphe 163(2) de la Loi il est nécessaire, à mon avis, que l'attitude et le comportement général du contribuable soient tels qu'aucun doute quant à sa bonne foi et sa crédibilité ne puissent [sic] être sérieusement entretenus [sic] et cela pendant toute la période couverte par la cotisation […].
+[35] Dans l’affaire Venne, le juge Strayer a déclaré ceci :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi […][15].
+[36] Dans la décision Farm Business Consultants Inc. c. Canada[16], le juge Bowman (tel était alors son titre) a tenu les propos suivants :
+22 […] Toutefois, si la présentation erronée des faits est attribuable à une « omission volontaire », il est bien plus difficile de conclure qu'il ne s'agit pas également d'un « faux énoncé » que l'appelante a fait « sciemment » au sens du paragraphe 163(2). […]
+Le juge Bowman a également indiqué que la « négligence » et l’« inattention » dont il s’agit au sous‑alinéa 152(4)a)(i) de la LIR sont comprises dans l’expression « faute lourde » du paragraphe 163(2) de la LIR et que l’« omission volontaire » dont il est question au sous‑alinéa 152(4)a)(i) de la LIR peut être considérée comme nécessitant le même état d’esprit que le mot « sciemment » au paragraphe 163(2) de la LIR :
+23 […] Les mots « Négligence, inattention, omission volontaire ou ... fraude » (« Neglect, carelessness, wilful default or ... fraud ») englobent une vaste gamme d'omissions ou d'actions fautives, involontaires ou délibérées, auxquelles peut être attribuable une présentation erronée des faits dans une déclaration. Il n'y a aucun hiatus entre les mots de cette série, qui commence par une négligence ordinaire et progresse graduellement jusqu'à la fraude, qui justifieraient [sic] l'imposition d'une pénalité en vertu du paragraphe 163(2). Le type de négligence ou d'inattention qu'englobe le sous-alinéa 152(4)a)(i) peut inclure — sans être aussi étendu toutefois — celui qu'envisagent les mots « faute lourde » au paragraphe 163(2) (« gross negligence »), lesquels sous-entendent une conduite caractérisée par un degré de faute à ce point élevé qu'il frise l'insouciance. Il serait difficile de conclure que l'état d'esprit que requiert une « omission volontaire » (« wilful default ») n'est pas le même que celui qui est implicite dans le mot « sciemment » (« knowingly »).
+[37] Dans l’arrêt Lacroix[17], la CAF a conclu que le contribuable avait commis une faute lourde, car ce dernier n’avait pas expliqué de façon crédible la présentation erronée des faits contenue dans sa déclaration de revenus :
+29 […] En l'instance, le ministre constate un revenu non déclaré qu'il demande au contribuable de justifier. Celui-ci fournit une explication que ni le ministre ni la Cour canadienne de l'impôt ne jugent crédible. Il n'y a donc pas d'hypothèse viable et raisonnable qui pourrait porter le décideur à accorder le bénéfice du doute au contribuable. La seule hypothèse offerte est jugée non crédible.
+30 Les faits en preuve, dans un tel cas, sont que la déclaration de revenu du contribuable fait une présentation erronée des faits et que la seule explication offerte par le contribuable est jugée non crédible. Évidemment, il doit y avoir une autre explication pour ce revenu. Il faut donc conclure que le contribuable a une source de revenu qu'il n'a pas déclarée, qu'il est au courant de cette source et qu'il refuse de la divulguer puisque les explications qu'il a offertes n'ont pas été jugées crédibles. En de telles circonstances, la conclusion que la fausse déclaration de revenu a été produite sciemment ou dans des circonstances équivalant à faute lourde me semble inéluctable. Cela justifie non seulement l'imposition d'une pénalité mais aussi l'établissement de la nouvelle cotisation hors de la période statutaire.
+[38] Ces propos de la CAF dans l’arrêt Lacroix résument la conclusion qui s’impose en l’espèce. Le ministre s’est acquitté de son fardeau de la preuve. Il a démontré l’existence d’écarts entre le revenu net d’entreprise déclaré par l’appelant et le revenu net d’entreprise calculé selon la méthode alternative de cotisation. Bien que l’appelant ne reconnaisse pas les calculs du ministre, il n’offre aucune explication crédible pour justifier l’écart important entre son revenu déclaré et les débours qu’il a faits pendant les années en litige. En effet, l’appelant, de son propre aveu, n’a pas conservé de livres comptables adéquats et il est donc incapable de préciser le nombre de courses rémunérées qu’il a faites pour son entreprise et les revenus nets y correspondant, s’étant contenté de soutenir que son entreprise ne rapportait qu’un faible revenu.
+Conclusion
+[39] Pour tous ces motifs, j’accueille l’appel en partie seulement. La nouvelle cotisation pour l’année d’imposition 2003 est renvoyée au ministre afin que soit ajoutée au revenu de l’appelant la somme de 14 802 $, plutôt que 19 834 $, pour tenir compte de la diminution de revenu de 5 032 $ acceptée par l’intimée. Pour le reste, les cotisations portées en appel demeureront inchangées.
+Signé à Ottawa, Canada, ce 7e jour de septembre 2010.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2010 CCI 442
+Nº DU DOSSIER DE LA COUR : 2009-1545(IT)I
+INTITULÉ DE LA CAUSE : HAGOP HANNA c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 17 mai 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 7 septembre 2010
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui‑même
+Avocate de l'intimée :
+Me Antonia Paraherakis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Hsu c. Canada, 2001 CAF 240, paragraphe 22; Richard c. Canada, [1997] A.C.I. no 643 (QL), paragraphes 13 et 15.
+[2] 2007 CCI 248, paragraphe 24.
+[3] 2009 CCI 409.
+[4] Ibid., paragraphe 13.
+[5] 2008 CCI 62.
+[6] Ibid., paragraphe 52, citant Froese, [1981] C.T.C. 2282, page 2288.
+[7] [1984] A.C.F. no 314 (QL); voir aussi Savard, précité, paragraphe 53.
+[8] Ibid.
+[9] 2008 CAF 241.
+[10] 2004 CAF 349.
+[11] Lacroix, paragraphe 26; Venne.
+[12] [1998] A.C.I. no 1122 (QL).
+[13] Note 7 ci‑dessus.
+[14] [1988] A.C.I. no 108 (QL).
+[15] Note 7 ci‑dessus.
+[16] [1994] A.C.I. no 760 (QL); confirmée [1996] A.C.F. no 82 (QL).
+[17] Note 9 ci‑dessus.

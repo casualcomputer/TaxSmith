@@ -1,0 +1,170 @@
+---
+title: "Ngai c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/230998/index.do"
+last_modified: "2017-05-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 79"
+citation2: ""
+neutral_citation: "2017 CCI 79"
+decision_date: "2017-05-08"
+language: "fr"
+item_id: "230998"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2123
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:31:07.476000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bf72c97f0cfc1252e8d4c093d9f2269395d4520430b45ac7cef73e0f2e2138d2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ngai c. La Reine
+
+- Citation: 2017 CCI 79
+- Decision date: 2017-05-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2123, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ngai c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-05-08
+Référence neutre
+2017 CCI 79
+Numéro de dossier
+2016-1154(GST)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-1154(GST)I
+ENTRE :
+YIN YI NGAI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 23 janvier 2017, à Toronto (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Isida Ranxi
+JUGEMENT MODIFIÉ
+L’appel est accueilli, sans frais, et la cotisation du 10 mars 2014 est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, étant entendu qu’il y a lieu, conformément aux motifs qui suivent, d’accueillir la demande de remboursement de la TPS/TVH pour habitations neuves en question.
+Le présent jugement modifié remplace le jugement daté du
+8 mai 2017
+Signé à Toronto (Ontario), ce 2e jour de mai 2018.
+« B. Russell »
+Juge Russell
+Référence : 2017CCI79
+Date : 20170508
+Dossier : 2016-1154(GST)I
+ENTRE :
+YIN YI NGAI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Russell
+[1] Le présent appel en matière de TPS/TVH, interjeté sous le régime de la procédure informelle, a trait à une cotisation que le ministre du Revenu national de l’intimée (le « ministre ») a établie le 10 mars 2014 et par laquelle celui-ci a rejeté une demande de remboursement de TPS/TVH pour habitations neuves d’un montant de 24 000 $ que l’appelante avait présentée le 18 février 2013. Le 5 janvier 2016, après avoir examiné l’avis d’opposition de l’appelante, le ministre a confirmé la cotisation, d’où le présent appel.
+[2] La question fondamentale consiste à savoir si le ministre a eu raison de rejeter la demande de remboursement au motif que l’appelante, à titre de « particulier », ne répondait pas à la condition prévue à l’alinéa 254(2)b) de la Loi sur la taxe d’accise (Canada) (la « Loi »), soit le fait d’avoir acquis « l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche ». L’appelante déclare qu’en ce qui concerne l’opération d’achat du bien en question, elle n’agissait pas pour son propre compte, mais plutôt pour celui de son neveu, à titre de mandataire ou de fiduciaire de ce dernier.
+[3] Dans le présent appel, l’appelante, Yin Yi Ngai, s’est représentée elle-même. À l’audience, Mme Ngai a appelé deux témoins : elle-même et son neveu, Jonathon Ng. Mme Ngai a déclaré qu’elle est agente immobilière et que, à ce titre, prospectivement pour un client particulier, elle avait signé un contrat d’achat-vente avec un promoteur immobilier dans le but de faire l’acquisition d’un logement en copropriété à Markham (Ontario). Le promoteur avait l’intention de construire ce logement dans les mois à venir. Cette mesure a été prise à la fin de mars 2012, et le prix d’achat-vente a été fixé à 519 990 $. Mme Ngai a été inscrite à titre de coacquéreuse à seule fin de préserver les droits pour son client, lui aussi nommé à titre de coacquéreur. Peu après, au cours du délai de grâce autorisé, le client a décidé de ne pas donner suite à son projet.
+[4] À peu près au même moment, le neveu de Mme Ngai, M. Ng, a exprimé le souhait d’acheter ce logement et de s’y installer, car cela lui permettrait de vivre plus près de sa mère (la sœur de Mme Ngai). Le promoteur a accepté que l’on insère dans le contrat d’achat-vente (par voie de modification) le nom de M. Ng, à titre d’acquéreur, en remplacement du nom du client qui s’était désisté. À ce moment, Mme Ngai a demandé que son nom, à titre de coacquéreuse, soit retiré du contrat. Mais le promoteur a exigé que son nom y reste si elle voulait que le prix d’achat prévu au contrat demeure le même.
+[5] Contrairement à son neveu, Mme Ngai n’a jamais eu l’intention de vivre dans le logement en copropriété et elle ne souhaitait pas avoir un intérêt quelconque sur ce bien. Tant elle que M. Ng prévoyaient et envisageaient que ce dernier achèterait le bien pour y vivre et qu’il effectuerait tous les paiements connexes, y compris ceux liés à l’achat. Dans le même ordre d’idées, il était prévu et attendu qu’il paierait la totalité des charges et des dépenses, dont les paiements hypothécaires, les frais de services publics et les taxes, qui correspondaient à la pleine possession et utilisation du bien.
+[6] Vers le mois d’avril 2012, la Banque Scotia a approuvé la demande d’hypothèque de M. Ng, hypothèque dont il avait besoin pour financer l’achat du bien. L’opération était censée se conclure à la fin de la construction du logement en copropriété envisagé.
+[7] La date de conclusion a finalement été fixée au début de décembre 2012. À l’approche de cette date, la Banque Scotia a informé inopinément M. Ng qu’après avoir pris en considération le travail qu’il exerçait à ce moment-là et son revenu, elle avait conclu qu’il ne répondait plus aux conditions requises pour obtenir l’hypothèque dont il avait besoin en vue d’acheter ce bien.
+[8] Comme l’a déclaré Mme Ngai, son neveu (alors âgé de 21 ans) s’est mis à [traduction] « paniquer et à essayer de vendre […] », signant le 23 novembre 2012 une autorisation de mettre en vente le logement en copropriété. Les membres de la famille se sont alors mobilisés pour l’aider. Sa tante, Mme Ngai, a convenu de prendre part à l’hypothèque à titre de coemprunteuse afin d’aider M. Ng à répondre aux conditions requises. La Banque Scotia a demandé de plus que l’époux de Mme Ngai, Gerald Kennedy (l’oncle de M. Ng), lui aussi agent immobilier, se joigne à l’hypothèque à titre de coemprunteur, ce qu’il a convenu de faire. Cela étant, la Banque Scotia a ensuite approuvé de nouveau le financement hypothécaire dont M. Ng avait besoin. Il ressort clairement des témoignages – et les parties ne le contestent pas – que ni Mme Ngai ni son époux, M. Kennedy, n’avaient l’intention de vivre dans le logement; ils cherchaient simplement à aider leur jeune neveu, M. Ng, afin qu’il puisse acheter le logement pour répondre à ses propres besoins résidentiels.
+[9] À la conclusion de l’achat, le 6 décembre 2012, Mme Ngai a informé son avocat qu’elle et son époux, M. Kennedy, ne prenaient part à l’opération que pour aider M. Ng à faire approuver son hypothèque et à pouvoir ainsi acheter le logement. L’avocat leur a conseillé, semble-t-il, de faire inscrire aussi leurs noms sur le titre de propriété par souci de [traduction] « protection », car ils étaient nommés comme coemprunteurs sur l’acte hypothécaire. Selon le titre enregistré qui a été établi, M. Ng détenait un intérêt de 50 %, Mme Ngai un intérêt de 49 % et M. Kennedy un intérêt de 1 %, tous trois à titre de tenants communs.
+[10] Par la suite, Mme Ngai a communiqué de nouveau avec le même avocat, en juin 2014 ou plus tôt, après que le ministre eut établi la cotisation en cause. L’avocat a alors préparé une [traduction] « déclaration de fiducie » à faire signer par M. Ng, Mme Ngai et M. Kennedy. Ce document, déposé en preuve sur consentement, concordait avec la communication que Mme Ngai avait eue avec l’avocat au moment de la conclusion de l’achat en décembre 2012 quant au but commun pour lequel M. Kennedy et elle prenaient part à l’opération, ainsi qu’il a été indiqué plus tôt. Cette déclaration de fiducie indiquait en partie que Mme Ngai et M. Kennedy détenaient le titre de propriété en fiducie pour M. Ng, de façon à ce que celui-ci puisse avoir droit à une hypothèque, et elle prévoyait que M. Ng dédommagerait Mme Ngai et M. Kennedy de tous les frais, etc. dont ils pourraient devenir redevables.
+[11] Après la conclusion de l’achat, M. Ng, comme prévu, a vécu dans le logement, quoique brièvement, mais ni Mme Ngai ni M. Kennedy n’y ont jamais habité. M. Ng a déclaré avoir emménagé le 8 ou le 9 décembre 2012. Mais son temps de déplacement total, en vue de se rendre à son travail, était de trois heures par jour, ce qui était lourd à supporter. En outre, il avait appris que le contrat de consultation qu’il avait à ce moment-là ne serait pas renouvelé, ce qui remettait en question sa source constante de revenu.
+[12] Il a donc essayé de louer à bail le logement en copropriété, car il voulait en rester propriétaire en vue d’un usage futur. Une autorisation de louer à bail a été signée avec des agents immobiliers le 10 décembre 2012, mais cette initiative n’a suscité aucun intérêt. Il a finalement décidé de mettre en vente le logement en copropriété et il a réussi à le vendre : un contrat d’achat-vente a été signé le 11 janvier 2013. La date de conclusion de la vente était le 15 février 2013. Tous les fonds nets découlant de l’opération, c’est-à-dire après paiement de l’hypothèque et de l’avocat, ont été versés exclusivement à M. Ng (246 587,31 $). Aucune somme d’argent n’est allée à Mme Ngai ou à M. Kennedy.
+[13] C’est au cours de cette période que Mme Ngai a présenté la demande de remboursement dont il est question en l’espèce. Son intention n’était pas de faire cette demande elle-même (par opposition à M. Ng), mais le document avait été établi par, je crois, l’avocat du promoteur, pour sa signature et elle l’a donc signé. De plus, au cours de cette période, M. Ng avait fait des démarches pour que les états de compte des services publics soient adressés à lui, après que le promoteur eut, de lui-même, indiqué à ces services d’envoyer les états de compte à Mme Ngai. À cet égard, M. Ng a réussi en partie.
+[14] Lors d’un bref contre-interrogatoire, M. Ng a déclaré que lorsqu’il a lu la déclaration de fiducie en juin 2014 avant de la signer, il a jugé que ce document reflétait ce qu’il pensait. Sa teneur était logique et sensée et isolait les droits de propriété en sa faveur. À ses yeux, le bien était à lui et il ne le partageait pas.
+[15] L’intimée n’a produit aucune preuve.
+[16] Dans ses observations, l’avocate de l’intimée a déclaré que l’appelante n’avait pas droit au remboursement de TVH, car elle n’avait pas acheté le bien pour y vivre, pas plus qu’elle ne l’avait acheté pour un proche, au sens de la Loi sur la taxe d’accise, avec renvoi à la Loi de l’impôt sur le revenu. Elle a fait valoir de plus que, selon la prépondérance des probabilités, il n’y avait pas de fiducie et que l’appelante tentait de qualifier d’une manière différente les rapports juridiques réels. La déclaration de fiducie n’avait été signée que deux jours avant la signification de l’avis d’opposition.
+[17] En réponse à une question de ma part, l’avocate de l’intimée a admis que la participation de l’appelante et de M. Kennedy dans cette affaire avait pour but d’aider M. Ng à acheter le bien, mais l’avocate a indiqué qu’ils ne l’avaient pas fait comme il faut.
+[18] L’avocate de l’intimée a cité plusieurs décisions rendues par la Cour sous le régime de la procédure informelle, notamment Al-Hossain c La Reine, 2014 CCI 379 (PI), au paragraphe 27, où, sur la base de [traduction] « faits semblables » (d’après l’avocate), la Cour (dans des motifs rédigés par la juge Lyons) a considéré que, selon la prépondérance des probabilités, l’appelant, en plaidant l’existence d’un mandat, tentait de qualifier autrement les véritables rapports juridiques. Les autres affaires citées comprennent Ho c La Reine, 2015 CCI 10 (PI), Henoa c La Reine, 2015 CCI 81 (PI), Malik c La Reine, 2015 CCI 83 (PI), Javaid c La Reine, 2015 CCI 94 (PI) et Crooks c La Reine, 2016 CCI 52 (PI). Une autre affaire signalée était Cheema c La Reine, 2016 CCI 251 (PI). L’avocate de l’intimée a établi une distinction entre la présente affaire et la décision Javaid en affirmant que le mandat et la fiducie avaient été conclus dans cette affaire avant la vente.
+[19] L’appelante a fait valoir que M. Ng est un proche – il est son neveu. Et la famille, y compris elle-même, à titre de tante, se devait de l’aider. En avril 2012, la Banque Scotia avait approuvé sa demande d’hypothèque, mais, à l’approche de la date de conclusion, elle avait tout à coup dit non. Que pouvaient-ils faire? L’appelante s’est fondée sur la décision Javaid.
+[20] À la conclusion des observations orales, je me suis demandé si l’intimée pouvait maintenant soulever de manière valide l’argument selon lequel M. Ng n’était pas un proche aux fins de l’application du paragraphe 254(2) de la Loi, car ce fait n’avait pas été plaidé dans la réponse déposée dans le cadre du présent appel interjeté sous le régime de la procédure informelle, et donc l’appelante, qui se représentait elle-même et n’avait pas suivi une formation en droit, n’en avait pas été informée. Des observations écrites sur ce point ont été déposées.
+[21] J’ai conclu que l’appelante, Mme Ngai, et M. Ng ont témoigné de manière parfaitement crédible. Après avoir passé en revue les faits de l’espèce, de même que la jurisprudence pertinente, dont la quasi-totalité était constituée de décisions rendues sous le régime de la procédure informelle et n’ayant donc pas valeur de précédent, je suis enclin à considérer que l’appelante devrait avoir gain de cause en l’espèce. À cet égard, je suis conforté dans une large mesure par la décision Javaid, précitée, qu’a rendue la juge Woods, tel était alors son titre.
+[22] Dans la décision Javaid, la principale question en litige consistait à savoir si l’appelant, M. J., avait droit à un remboursement pour habitation neuve en vertu de la Loi. Un ami, M. Z., avait signé avec M. J. le contrat d’achat-vente modifié dans le but d’aider ce dernier à répondre aux conditions hypothécaires et à pouvoir ainsi financer l’achat du bien en question. En l’aidant de cette façon, M. Z. n’avait pas l’intention d’être propriétaire du nouveau bien que M. J. souhaitait acheter, ni d’y habiter.
+[23] Après la signature du contrat d’achat-vente, mais avant la conclusion de l’opération, M. Z. a changé d’avis et s’est désisté.
+[24] Toutefois, dans l’intervalle, M. Z. avait signé le contrat d’achat-vente à titre d’acquéreur par voie de modification le 29 août 2010. En tant que garant proposé de l’hypothèque, M. Z. a été ajouté au contrat à titre d’acquéreur additionnel. Plus de deux mois après que M. Z a signé le contrat d’achat-vente à ce titre, soit le 2 novembre 2010, il a signé une « déclaration de fiducie » aux termes de laquelle il s’engageait à cosigner à titre de garant les documents relatifs à l’hypothèque qui grèverait le bien pour aider M. J. à satisfaire aux exigences relatives à l’hypothèque; cette déclaration de fiducie et d’engagement, comme son nom l’indique, aurait créé une fiducie. Les motifs du jugement rendu dans l’affaire Javaid ne comportent aucun extrait de cette déclaration de fiducie et d’engagement.
+[25] Compte tenu de ces faits, la Couronne a tenu pour acquis que M. Z était un « particulier » au sens de l’alinéa 254(2)a) de la Loi, le motif étant que M. Z s’était vu fournir le bien en question au moment de signer le contrat d’achat-vente (article 133 de la Loi) et qu’il était un « acquéreur », selon la définition donnée, parce qu’il était tenu de payer la contrepartie en vertu du contrat. La Couronne avait de plus fait valoir que le fait que M. Z. s’était désisté avant la conclusion de l’achat importait peu.
+[26] Dans la décision Javaid, la Cour a conclu qu’il n’y avait pas lieu de souscrire aux observations de la Couronne (Javaid, aux paragraphes 23 à 26). M. Z. n’avait agi qu’en qualité de mandataire lors de la signature du contrat d’achat-vente. Selon la Cour, cela « ressort clairement de la preuve puisque le mandat a été constaté par écrit dans une déclaration de fiducie et d’engagement » (Javaid, paragraphe 23).
+[27] En l’espèce, nous avons une déclaration de fiducie, qui indique clairement, d’une part, que Mme Ngai et son époux, M. Kennedy, étaient fiduciaires du bien, lequel était détenu en fiducie pour que M. Ng puisse avoir droit à une hypothèque, et, d’autre part, que M. Ng indemnisait Mme Ngai et M. Kennedy à l’égard de toute réclamation et de tout autre montant à payer par suite de l’opération immobilière. Dans l’affaire Javaid, comme il a été indiqué, il y avait une déclaration de fiducie et d’engagement, qui, d’après la Cour, même si elle n’en a cité aucun passage, établissait l’existence d’un mandat.
+[28] Quoi qu’il en soit, le fait d’assimiler une simple fiducie (un bien détenu par un fiduciaire sans obligation aucune, hormis celle de le préserver, de l’entretenir et de le céder au bénéficiaire, sur demande) à un mandat est bien établi en droit. Dans la décision Cheema, précitée, la jurisprudence sur ce point a été examinée, et elle étaye l’idée que le fiduciaire d’une simple fiducie pour le compte de propriétaires bénéficiaires est aussi leur mandataire, car ils sont ses mandants (Cheema, aux paragraphes 41 à 45 inclusivement). C’est donc dire que si l’existence d’une simple fiducie a été prouvée, conformément à la déclaration en fiducie dont il est question en l’espèce, il serait raisonnable de dire qu’un mandat coexiste aussi.
+[29] Je signale de plus que, dans la présente affaire, la déclaration de fiducie a été signée bien après que le contrat d’achat-vente, dans sa forme modifiée, a été signé par M. Ng, Mme Ngai et M. Kennedy – peu avant que Mme Ngai dépose son avis d’opposition. La situation est la même dans l’affaire Javaid, encore que la période intermédiaire soit nettement plus courte. Dans Javaid, la déclaration de fiducie et d’engagement a été signée plus de deux mois après que M. Z. avait déjà signé, à titre de coacquéreur, le contrat d’achat-vente modifié.
+[30] En tout état de cause, je conclus qu’en l’espèce la relation de mandataire et la relation fiduciaire existaient implicitement, compte tenu de la preuve incontestée concernant l’intention qu’avaient les témoins bien avant la signature proprement dite de la déclaration de fiducie. Cette intention ressortait clairement de la preuve non contredite selon laquelle Mme Ngai a signé le contrat d’achat-vente modifié et elle et son époux ont été inscrits sur le titre de propriété avec M. Ng afin de permettre à celui-ci d’être propriétaire du bien. Je signale une fois de plus que l’avocate de l’intimée a reconnu à la fin des observations orales que Mme Ngai et M. Kennedy avaient pris part à l’opération à seule fin d’aider M. Ng – pour qu’il obtienne des fonds afin de pouvoir devenir propriétaire du logement en copropriété.
+[31] Dans l’affaire Javaid, la Cour a ensuite fait état de la position administrative de l’Agence du revenu du Canada, à savoir que, pour l’application de la Loi, un mandataire n’est pas l’acquéreur d’une fourniture; c’est plutôt le mandant qui l’est. Cela s’explique par le fait que c’est ce dernier qui est responsable en fin de compte du paiement de la contrepartie de la fourniture (Javaid, au paragraphe 24).
+[32] Enfin, dans la décision Javaid, la Cour a fait remarquer (au paragraphe 25), sous l’angle du bon sens, que cela n’aurait :
+[…] pas de sens si le mandataire qui signait un contrat de vente était tenu de se conformer aux exigences d’occupation de la disposition relative au remboursement. J’hésiterais à admettre les prétentions de la Couronne sur ce point à moins que les dispositions législatives soient très claires, ce qu’elles ne sont pas.
+[33] Je suis d’accord. Les exigences de l’alinéa 254(2)g) de la Loi en matière d’occupation par le « particulier », compte tenu de l’objet visé, ne devraient pas s’appliquer à un mandataire. Elles devraient toutefois s’appliquer au mandant, qui, en l’espèce, était M. Ng. Nul ne conteste la preuve que celui-ci a bel et bien occupé le logement en question en tant que lieu de résidence après l’achèvement de la majeure partie des travaux de construction du logement en copropriété.
+[34] C’est en se fondant sur les points qui précèdent que la Cour, dans la décision Javaid, a conclu que M. Z. agissait comme mandataire pour M. J. en entendant aider celui-ci à avoir droit à l’hypothèque dont il avait besoin pour pouvoir obtenir le bien résidentiel qu’il souhaitait posséder. Comme il a été indiqué, à mon avis ces points s’appliquent également ici.
+[35] J’ajouterais brièvement les observations qui suivent. L’avocate de l’intimée s’est fondée sur la déclaration qu’avait faite l’avocat de Mme Ngai à la conclusion du contrat, à savoir que M. Kennedy et elle devraient être inscrits sur le titre de propriété par souci de [traduction] « protection » parce qu’ils étaient inscrits sur l’acte hypothécaire en tant que coemprunteurs. Mme Ngai a pris un intérêt de 49 % et M. Kennedy un intérêt de 1 %, tous deux à titre de tenants communs. M. Ng détenait le titre sur le reste (50 %). L’avocate de l’intimée a fait valoir que, selon la prépondérance des probabilités, en prétendant par la suite qu’ils détenaient leurs droits de propriété en fiducie, et en qualité de mandataires de M. Ng., Mme Ngai et M. Kennedy tentaient de qualifier d’une manière différente leurs rapports juridiques réels.
+[36] Cependant, en examinant la preuve dans sa totalité, comme il est indiqué en l’espèce, je conclus que, selon la prépondérance des probabilités, les rapports juridiques réels que l’on a établis étaient ceux de mandataire et de simple fiduciaire de la part de Mme Ngai et de M. Kennedy, relativement à leurs droits respectifs sur le bien en question qu’ils détenaient pour M. Ng, leur intention étant d’aider celui-ci à obtenir une hypothèque afin qu’il puisse acquérir un titre bénéficiaire à l’égard du bien.
+[37] Le fait que l’avocat ait parlé de [traduction] « protection » au moment de la clôture n’infirme pas en soi ce qui, à mes yeux, en examinant la totalité des éléments de preuve, a été en tout temps clairement l’intention de Mme Ngai et de M. Kennedy, c’est-à-dire d’aider M. Ng à acquérir en fin de compte la propriété bénéficiaire du logement en copropriété.
+[38] Il faut aussi se souvenir que nul ne conteste qu’au moment de la conclusion de la vente ultérieure du bien en question, en février 2013, c’est M. Ng, et nul autre que lui, qui a reçu la totalité du produit net de la vente. Mme Ngai et M. Kennedy n’ont rien reçu en échange de la signature des contrats ou de leurs droits respectifs de 49 % et de 1 % sur le bien, détenu en fiducie ou dans le cadre d’un mandat pour M. Ng.
+[39] Ce fait important étaye nettement ma conclusion selon laquelle Mme Ngai et M. Kennedy ont uniquement agi comme mandataires et comme simples fiduciaires pour M. Ng. La question n’a pas été évoquée à l’audience, mais, selon moi cette relation de mandataire et de simple fiduciaire s’étend clairement à Mme Ngai, qui a présenté elle-même la demande de remboursement, en sa qualité de mandataire et de simple fiduciaire de M. Ng. L’ensemble de la preuve m’amène à conclure sans difficulté que M. Ng serait le bénéficiaire de l’avantage découlant du fait qu’une part quelconque du remboursement en question serait accordée, à titre de remboursement d’un élément de rajustement que M. Ng avait payé ou financé à la date de la conclusion de l’achat en décembre 2012, quand il avait acquis le titre bénéficiaire à l’égard du nouveau logement en copropriété.
+[40] Au vu de tout ce qui précède, je conclus que Mme Ngai a agi en tout temps comme mandataire et simple fiduciaire de M. Ng, notamment lorsqu’elle a présenté la demande de remboursement. De ce fait, conformément à la décision Javaid, elle n’était pas un « particulier »; c’est plutôt M. Ng, à titre de mandant dans le cadre du mandat, qui a répondu aux exigences liées au fait d’être un « particulier ».
+[41] J’ajouterais en guise de post-scriptum – encore qu’il soit inutile de le faire à la lumière de ma conclusion selon laquelle, en l’espèce, l’appelante a agi en tant que mandataire et simple fiduciaire – qu’à mon avis l’acte de procédure déposé en réponse n’a pas donné raisonnablement avis à l’appelante (qui se représentait elle-même, comme c’est souvent le cas dans les appels instruits sous le régime de la procédure informelle) d’un argument de l’intimée qui a été invoqué à l’audience. Cet argument était que l’appelante n’était pas un « particulier » parce que des dispositions de la Loi et une disposition intégrée par renvoi de la Loi de l’impôt sur le revenu (Canada), prises ensemble, ne considèrent pas un neveu comme un « proche » pour l’application de l’alinéa 254(2)b), dont le passage pertinent est cité au paragraphe 2 de la présente décision.
+Les présents motifs du jugement modifiés sont rendus en remplacement des motifs du jugement daté du 8 mai 2017.
+Signé à Toronto (Ontario), ce 2e jour de mai 2018.
+« B. Russell »
+Juge Russell
+RÉFÉRENCE :
+2017CCI79
+No DU DOSSIER DE LA COUR :
+2016-1154(GST)I
+INTITULÉ :
+YIN YI NGAI ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 23 janvier 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 2 mai 2018
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Isida Ranxi
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

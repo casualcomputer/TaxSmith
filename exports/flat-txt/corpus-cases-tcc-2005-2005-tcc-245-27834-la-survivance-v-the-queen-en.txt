@@ -1,0 +1,236 @@
+Title: La Survivance v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27834/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-245-27834-la-survivance-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-04-26
+
+# La Survivance v. The Queen
+
+- Citation: 2005 TCC 245
+- Decision date: 2005-04-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 374, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+La Survivance v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-04-26
+Neutral citation
+2005 TCC 245
+File numbers
+2001-4281(IT)G
+Judges and Taxing Officers
+Pierre R. Dussault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-4281(IT)G
+BETWEEN:
+LA SURVIVANCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 15, 2005, at Montreal, Quebec.
+Before: The Honourable Justice Pierre R. Dussault
+Appearances:
+Counsel for the Appellant:
+Robert Couzin
+Counsel for the Respondent:
+Daniel Verdon and
+Yanick Houle
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Income Tax Act for the 1998 taxation year is dismissed, with costs to the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of April 2005.
+"P. R. Dussault"
+Dussault J.
+Translation certified true
+on this 23rd day of June 2006,
+Erich Klein, Revisor
+Citation: 2005TCC245
+Date: 20050426
+Docket: 2001-4281(IT)G
+BETWEEN:
+LA SURVIVANCE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Dussault J.
+[1] The appellant is contesting an assessment in respect of his 1998 taxation year made under the Income Tax Act (the "Act"). By this assessment the Minister of National Revenue (the "Minister") denied the carry forward of a non-capital loss ("NCL") resulting from a business investment loss ("BIL") incurred in 1994, treating the loss as a simple capital loss.
+[2] For the purposes of the appeal, the parties produced an agreement on the facts worded as follows:
+[TRANSLATION]
+[. . .]
+The parties, through their undersigned counsel, admit the following facts; these admissions are for the purposes of this appeal only and for the period specified in this agreement only; they may not be used by anyone or on any other occasion against either party; the parties also agree that the questions of fact in this appeal are limited to the facts set out below and that accordingly no witnesses will be heard nor any documentary evidence submitted at the hearing:
+1. At all times relevant to the present case, the appellant, La Survivance, was a mutual life insurance company ("La Survivance") resident in Canada, having its headquarters at 1555 Girouard St. West, P.O. Box 10,000, Saint-Hyacinthe, Quebec, J2S 7C8. It was incorporated under the laws of Quebec, as can be seen from Exhibit "A" attached hereto and having the same effect as if herein set out in full. The appellant has always done business in the field of life insurance.
+2. From 1988 to 1992, La Survivance acquired by means of a share purchase, for an amount in excess of $3,000,000, approximately 66% of Les Clairvoyants Compagnie d'Assurance Générale Inc. ("Les Clairvoyants"), a property insurance company incorporated under the laws of Quebec and resident in Canada.
+3. An agreement was signed on May 3, 1994, between La Survivance and la Société Nationale d'Assurance Inc. ("Société Nationale") with regard to the shares in Les Clairvoyants, as can be seen from Exhibit "B" attached hereto and having the same effect as if herein set out in full.
+4. Société Nationale is a property insurance company that qualifies as a "private corporation" within the meaning of subsection 89(1) of the Income Tax Act (ITA).
+5. On May 13, 1994, La Survivance increased its ownership from 66% to over 90% by subscribing for 10,000,000 new shares issued by Les Clairvoyants, for the sum of $1,500,000, as can be seen from Exhibit "C" attached hereto and having with the same effect as if herein set out in full. The total number of shares held by La Survivance after this subscription was 12,543,846 common shares.
+6. On June 8, 1994, a takeover bid with respect to all outstanding Les Clairvoyants shares, the bid being 0.15¢ a share and expiring on June 30, 1994, at 5 p.m., was made by Société Nationale, as can be seen from Exhibit "D" attached hereto and having the same effect as if herein set out in full.
+7. On June 16, 1994, La Survivance deposited all of its common shares in Les Clairvoyants in accordance with the terms of the takeover bid, as can be seen from Exhibit "E" attached hereto and having the same effect as if herein set out in full.
+8. On June 30, 1994, at 5 p.m., all the conditions set out in the takeover bid were fulfilled.
+9. On July 5, 1994, during business hours, Société Nationale issued a cheque in the amount of $1,881,522.90 to La Survivance in payment for all of its common shares in Les Clairvoyants, as can been seen from Exhibit "F" attached hereto and having the same effect as if herein set out in full. The cheque was cashed by La Survivance that same day.
+10. On July 5, 1994, during business hours, Les Clairvoyants’s share ledger was amended by entering Société Nationale and deleting La Survivance.
+11. The sale of the shares in Les Clairvoyants resulted in a loss of $2,654,323, calculated as follows:
+Proceeds of disposition
+Adjusted cost base
+(Loss)
+$1,881,523
+(4,535,895)
+($2,654,372 )
+12. In its income tax return for the taxation year ending on July 4, 1994, filed pursuant to paragraph 249(4)(a) of the ITA, Les Clairvoyants did not make the election referred to in subsection 256(9) of the ITA.
+13. In view of the application of section 141 of the ITA to La Survivance, Les Clairvoyants did not consider itself to be and was not a "Canadian-controlled private corporation" at any time in the period during which it was controlled by La Survivance for the purposes of the ITA, that is, until immediately prior to the acquisition of control on July 5, 1994. Were it not for section 141 of the ITA, Les Clairvoyants would have been considered to be a "Canadian-controlled private corporation" throughout that period. Furthermore, on the acquisition of control for the purposes of the ITA by Société Nationale, Les Clairvoyants was a "Canadian-controlled private corporation" within the meaning of subsection 125(7) of the ITA.
+14. At the time the shares in Les Clairvoyants were disposed of by La Survivance, Les Clairvoyants was a corporation all or substantially all of the fair market value of whose assets was attributable to assets used primarily in the business that it carried on actively principally in Canada.
+15. At the time the shares in Les Clairvoyants were disposed of by La Survivance, there was an arm’s length relationship between La Survivance and Société Nationale.
+16. The Minister of National Revenue ("Minister") issued notices of reassessment for the 1994 to 1998 taxation years on July 20, 2000. In these notices of reassessment, the Minister rejected the characterization of La Survivance’s loss resulting from its disposition of the shares in Les Clairvoyants as a "business investment loss" ("BIL") and treated it rather as a simple capital loss. If this loss qualified as a BIL, it would have generated a non-capital loss in 1994 (hereinafter "NCL 1994").
+17. Furthermore, in the notice of reassessment issued for the 1998 taxation year, the Minister disallowed the application of a portion of the NCL 1994 against the taxable income of La Survivance in 1998 so as to reduce it to zero. As a result, the reassessment in respect of the 1998 taxation year indicates for La Survivance a revised taxable income of $730,766 and tax under Part 1 of the ITA of $212,799.
+18. La Survivance objected to the reassessment for the 1998 taxation year within the time prescribed by the ITA.
+19. On August 29, 2001, the Minister confirmed the reassessment for the 1998 taxation year.
+20. The income tax return of La Survivance for the 1994 taxation year and the accompanying financial statements are reproduced in Exhibit "G" attached hereto and having the same effect as if herein set out in full.
+OTTAWA, September 30, 2004
+[. . .]
+[3] The case essentially turns on the moment at which the shares in Les Clairvoyants were disposed of by La Survivance to Société Nationale and on the application of the deeming provision in subsection 256(9) of the Act. That subsection reads as follows:
+256(9) Date of acquisition of control. For the purposes of this Act, where control of a corporation is acquired by a person or group of persons at a particular time on a day, control of the corporation shall be deemed to have been acquired by the person or group of persons, as the case may be, at the commencement of that day and not at the particular time unless the corporation elects in its return of income under Part I filed for its taxation year ending immediately before the acquisition of control not to have this subsection apply.
+Appellant’s position
+[4] La Survivance claims that the loss it suffered in 1994 resulting from the disposition of shares in Les Clairvoyants is a BIL.
+[5] The reason for this claim is very simple. La Survivance is of the opinion that, under the deeming provision found in subsection 256(9) of the Act, at the time of the disposition of the shares of Les Clairvoyants during business hours on July 5, 1994, this corporation was no longer controlled by La Survivance, a corporation deemed to be a public corporation pursuant to section 141 of the Act as it read at the time, but was controlled by Société Nationale, a private corporation.
+[6] Counsel for the appellant submits that, pursuant to subsection 256(9) of the Act, acquisition of control of Les Clairvoyants by Société Nationale is shifted to the commencement of the day on which control was acquired. In his view, Société Nationale had exclusive control of Les Clairvoyants from that moment on, and Les Clairvoyants accordingly became at that moment a Canadian-controlled private corporation ("CCPC") according to the definition contained in subsection 125(7) of the Act and a small business corporation ("SBC") as defined in subsection 248(1) of the Act.
+[7] Moreover, according to counsel for the appellant, the disposition and acquisition of the shares in Les Clairvoyants must coincide. Cited in support of this argument is the recent decision by the Federal Court of Appeal in Hewlett Packard (Canada) Ltd v. Canada, [2004] F.C.J. No. 1084 (Q.L.). According to counsel, the acquisition of 90% of the shares of Les Clairvoyants by Société Nationale also triggered, at the same moment, the acquisition of control. However, given the deeming provision, the irrebuttable presumption contained in subsection 256(9) of the Act, control that is acquired at a particular time is deemed to have been acquired at the commencement of that day, that is, in the instant case, at the commencement of the day of July 5, 1994. Thus, according to counsel for the appellant, at the moment when the shares in Les Clairvoyants were disposed of and acquired, Les Clairvoyants was no longer controlled by La Survivance, a public corporation, but by Société Nationale, a private corporation. Les Clairvoyants was accordingly a CCPC from the commencement of the day of July 5, 1994. According to counsel for the appellant, it follows therefore that, on the subsequent disposition of the shares by La Survivance during normal business hours that same day, all the conditions were met for the loss incurred to qualify as a BIL. Counsel for the appellant is aware that this argument is based on a fiction but, in his view, subsections 256(9) and 125(7) of the Act are clear and the ordinary grammatical meaning of their wording must prevail.
+[8] Counsel for the appellant argues that the day on which the shares were disposed of was July 5, 1994, and not June 30, 1994, as counsel for the respondent contend. Indeed, in his view, the definitions of the terms "disposition" and "proceeds of disposition" found in section 54 of the Act at the relevant time must be interpreted in light of the comments by Noël J.A. in Hewlett Packard (supra). Specifically, counsel for the appellant argues that, given the reference to the "sale price of property that has been sold" in the definition of "proceeds of disposition", the property must necessarily have been sold. In his view, the agreement[1] concluded was a promise of sale and could not constitute a pre-contract. It was a deposit agreement by which Société Nationale offered to purchase, and La Survivance agreed to sell, the shares in Les Clairvoyants, subject to due diligence and numerous other conditions. Not until July 5, 1994, did Société Nationale take delivery of the shares deposited by La Survivance and pay for them, and it was also on that date that Société Nationale was entered in the share ledger of Les Clairvoyants and La Survivance was removed. It was thus only at that point that the sale would have occurred.
+[9] Counsel for the appellant also says that the common intention of the parties to the agreement was that the events would take place in compliance with the provisions of the Quebec Securities Act[2], that La Survivance would deposit its shares in Les Clairvoyants in accordance with the terms of the takeover bid, that the specified conditions would be met before June 30, 1994, and that no later than July 11, 1994, Société Nationale would take delivery of all the shares deposited by any shareholder of Les Clairvoyants and pay for them ("takes up and pays for"). Thus, the effects of the sale would have been deferred until July 5, 1994, and that is the point at which ownership of the shares in Les Clairvoyants would have been transferred by La Survivance to Société Nationale so as to confer on it the real right justifying its registration as a shareholder.
+[10] On this point, counsel for the appellant contends that his position is consistent with the current opinion expressed by J. George Vesely and Robert A. Roberts in a study entitled "Takeover Bids: Selected Tax, Corporate, and Securities Law Considerations", in Report of Proceedings of the Forty-Third Tax Conference, 1991 Conference Report (Toronto: Canadian Tax Foundation, 1992), 11:1-47. The authors state on page 11:11, in footnote 42:
+The date on which the acquiror takes up and pays for deposited target shares is generally regarded as the date on which the vendor disposes of his target shares.
+[11] Counsel also refers in this regard to the decision by the Tax Review Board in Nauss et al v. M.N.R., 78 DTC 1796.
+[12] Counsel for the appellant notes as well the opinion of the law firm Ogilvy Renault that was communicated to the shareholders of Les Clairvoyants in the information note accompanying the cash offer to purchase made by Société Nationale, which opinion is expressed in the following terms:
+[TRANSLATION]
+A shareholder will not be regarded as having disposed of his shares at the time the shares are deposited in response to the offer, but will be regarded rather as having disposed of his shares at the time the shares are delivered against payment.[3]
+[13] Counsel for the appellant stressed that while this opinion cannot be determinative as regards the issue herein, it can certainly be considered a relevant doctrinal factor since it bears on the transaction at issue. Moreover, in his view, it can be regarded as an indication of the common intent of the parties.
+[14] In the alternative, counsel for the appellant argues that if the Court were to come to the conclusion that the disposition of the shares in Les Clairvoyants by La Survivance occurred at a date prior to July 5, 1994, the loss suffered would still be a BIL since the application of subsection 256(9) would have produced the same effects at that prior date. This would be explained by the fact that the disposition of the shares in Les Clairvoyants by La Survivance is necessarily contemporaneous with the acquisition of those shares by Société Nationale.
+Respondent’s position
+[15] The position of the respondent is that the disposition of the shares in Les Clairvoyants by La Survivance occurred on June 30, 1994, but that control of Les Clairvoyants was not acquired by Société Nationale until July 5, 1994, that is, when Société Nationale was recorded in the share ledger of Les Clairvoyants. The result is that, at the time of the disposition of the shares in Les Clairvoyants by La Survivance, Les Clairvoyants was still controlled by La Survivance, a public corporation according to the deeming provision in section 141 of the Act as it was worded at the relevant time. Les Clairvoyants thus could not at that time have been considered a CCPC, and accordingly the disposition of the shares in its capital stock by La Survivance could not give rise to a BIL.
+[16] Counsel for the respondent submitted that La Survivance disposed of the shares in Les Clairvoyants on June 30, 1994, as the event giving entitlement to the sale price occurred on June 30, 1994. In their view, the conditions of the takeover bid were fulfilled on June 30, 1994, and the sale of the shares in Les Clairvoyants then became executory and irrevocable and could no longer be unilaterally changed either by La Survivance or by Société Nationale. Furthermore, in their view, the time Société Nationale had in which to take delivery of the shares in Les Clairvoyants sold by La Survivance and to pay for them had not the slightest impact on La Survivance’s absolute right to the sale price of the shares as of June 30, 1994.
+[17] Counsel for the respondent rely on the decision of the Exchequer Court in Victory Hotels Ltd. v. M.N.R., [1963] Ex. C.R. 123, in support of the position that entitlement to the proceeds of disposition, that is, entitlement to the sale price of the property sold, was acquired on June 30, 1994, by La Survivance. They also rely on Interpretation Bulletin IT-170R entitled "Sale of Property – When Included in Income Computation" dated August 25, 1980. Paragraph 12 of this bulletin states that a shareholder who deposits a share with a depository pursuant to a "take-over-bid" is entitled to the sale price on the earlier of (a) the date that the offeror takes up the share, and (b) the date upon which all conditions of the offer have been satisfied.
+[18] According to counsel for the respondent, the fact that the disposition occurred on June 30, 1994, does not automatically entail acquisition of control by Société Nationale on that date. While it is true that the disposition and acquisition of the same shares cannot be dissociated, counsel for the respondent take the view that it is entirely possible that the appellant disposed of its shares on June 30, 1994, but that the acquisition of control of Les Clairvoyants by Société Nationale did not occur until July 5, 1994.
+[19] According to counsel, control of Les Clairvoyants was not acquired until July 5, 1994, since it was only on that date that Société Nationale was entered in the share ledger of Les Clairvoyants. Counsel for the respondent maintain that as long as the entry in the share ledger had not been made, Société Nationale could not claim to have acquired control of Les Clairvoyants, since it could not have the majority of the votes in the election of Les Clairvoyants’s board of directors, the shares acquired not conferring voting rights on Société Nationale. Indeed, in their view, until the transfer was recorded in its register of transfers, Les Clairvoyants had to act as if the transfer had not taken place and, as a result, could not recognize Société Nationale as having voting rights. On this point, counsel for the respondent refer to the decision of the Quebec Court of Appeal in Québec (Inspecteur général des institutions financières) c. Assurances funéraires Rousseau et frère Ltée, [1990] A.Q. no 605 (Q.L.), in which Baudouin J.A. stated the following:
+[TRANSLATION]
+. . .
+The Act does not state that an unregistered transfer shall be null ab initio. The Company must, however, if the transfer has not been registered, act as if it had not occurred, and treat as shareholders only those whose names are entered as shareholders, with the consequences flowing therefrom in corporate law with respect to the payment of dividends, the exercise of voting rights and invitations to meetings (see M. Martel and P. Martel, La Compagnie au Québec. Les aspects juridiques, new edition (Montreal: Wilson et Lafleur, 1989), p. 315. Section 71.1 is nonetheless clear. The fact that the transfer has not been entered does not affect the validity of the transfer as between the parties. It merely makes it unenforceable against third parties. The sanction is thus one of unenforceability and not nullity.
+. . .
+. . . Registration is undoubtedly an adjunct to transfer. Its nature as an adjunct, however, does not, in my opinion, mean that it cannot be annulled without the transfer also being annulled. This would in effect deny the distinction between the juridical act and the formality as to publicity and give the latter legal value equal to the former.
+[20] Counsel for the respondent emphasize, on the basis of the decision of the Supreme Court of Canada in Duha Printers (Western) Ltd. v. Canada, [1998] 1 S.C.R. 795, at paragraphs 35 and 40, that it is the fact of holding such a number of shares as confers upon their holder the majority of votes in electing the board of directors that gives control of a corporation. However, pursuant to section 71.1 of the Companies Act[4] of Quebec and subsection 51(1) of the Canada Business Corporations Act[5] the exercise of this voting right is subject to the entry of the holder of the right on the records of the corporation.
+[21] Lastly, counsel for the respondent contend that the argument put forward by counsel for the appellant is contrary to the wording of paragraph 39(1)(c) of the Act, to the legislative purpose behind the BIL and to the general scheme established by the Act. In their view, the practical result of the position advanced by La Survivance is unacceptable since, if La Survivance sells its shares to a public corporation, its loss is simply a capital loss, whereas if it sells its shares to a private corporation, its loss is a BIL. The impact of such a practice would be that the status of the purchaser would determine entitlement to a BIL, when the intention of Parliament was to grant such entitlement only where shares of a CCPC have been disposed of. In addition, they note that the intention of Parliament behind the BIL scheme was to encourage and stimulate investment in Canadian small businesses in order to encourage the formation of such businesses and to support their development. In this regard, counsel for the respondent refer to the debates of the House of Commons of June 29, 1978, and to the speech given on that date by The Honourable Jean Chrétien, who was then Minister of Finance. They also refer to Department of Finance press release No. 87-09 of February 15, 1987, in order to show that subsection 256(9) of the Act was enacted as part of a series of measures adopted in 1987 to combat tax avoidance committed through the transfer of losses and other deductions between unrelated companies.
+Analysis
+Date of disposition
+[22] I agree with counsel for the appellant that the disposition of the shares in Les Clairvoyants by La Survivance occurred on July 5, 1994, and not June 30, 1994, as counsel for the respondent maintain. In my view, it was on July 5, 1994, that La Survivance was entitled to the sale price of the property sold. In his decision in Hewlett Packard (Canada) Ltd v. Canada (supra), Noël J.A. of the Federal Court of Appeal stated as follows, in paragraphs 45 to 51:
+45 However, relying on the open-ended definition of the term "disposition of property" in subsection 13(21), the Tax Court Judge held that property can also be disposed of when entitlement to the proceeds of disposition becomes absolute, even though ownership has not yet passed. The novel rule that he adopted is that a disposition takes place either when ownership in the property is transferred to the purchaser, or when the entitlement to the consideration becomes absolute (Reasons, paragraph 47), whichever happens first.
+46 I have difficulty conceiving how, on the facts of this case, HP can be said to have had an absolute right to be paid on October 31 of each year, if ownership of the old fleet remained in the hands of HP at that time. For instance, what if a car in the old fleet was destroyed by an act of God towards the close of the day on October 31 of a given year? Since risk is an incident of title under the provincial sale of goods statutes, it would seem to follow that HP would bear the loss. After analysing the evidence, the Tax Court Judge was unable to conclude that risk would lie elsewhere. In the circumstances, I fail to see how HP's entitlement to proceeds for the old fleet became absolute before title passed.
+47 But even if HP could be said to have somehow become unconditionally entitled to proceeds of disposition before title passed, I do not believe that the rule proposed by the Tax Court Judge can be justified as a pure matter of statutory construction.
+48 The Tax Court Judge found that, in providing an inclusive definition of "disposition of property", Parliament intended an "express directive" not to leave the timing of a disposition to the intention of the parties (reasons, paragraph 47). The fact that "proceeds of disposition" of property is defined in respect of a sale as "the sale price of property that has been sold" . . . is not an obstacle because the definition of "disposition of property" does not refer to the "sold date" (reasons, paragraph 48).
+49 With respect, I cannot detect the "express directive" on which the Tax Court Judge's interpretation rests. Parliament defined the term "disposition of property" in an inclusive manner with the obvious intent of leaving open the class of events or transactions susceptible of giving rise to a disposition. However, with respect to a sale transaction, Parliament specified in paragraph 13(21)(a) the entitlement which gives rise to a disposition.
+50 In the context of the Act, the words used in defining this entitlement ("sale price of property that has been sold") are presumed to bear their legal meaning (Will-Kare Paving Contracting Limited v. The Queen, 2000 DTC 6467, at paragraph (33), and having regard to the aforementioned definition in section 54, there can be no doubt that Parliament adopted the concept of a sale as it is known to law.
+51 In so doing, Parliament ensured that the time of disposition of property corresponds with the time of its acquisition, a result that is not only desirable, but essential to the proper operation of the Act. I note in this regard that, according to the analysis of the Tax Court Judge, no one would own the old fleet for tax purposes on October 31, since HP would have disposed of it as of that date and Ford would not have acquired it until the next.
+[My emphasis.]
+[23] In my view, the sale did not take place until July 5, 1994, that is, at the moment when the transfer of the ownership of the shares in Les Clairvoyants took place. Article 1708 of the Civil Code of Québec ("C.C.Q.") defines a sale as a contract by which a person transfers ownership of a property to another person. Everything that occurred before July 5, 1994, constituted a promise of sale and no effects of the sale itself can have been produced, since the promise of sale was not accompanied by delivery and possession (article 1710 C.C.Q.). The opinion set out in the information note in Appendix D to the agreement on the facts and reproduced at paragraph 12 above, may certainly constitute an indication of what the intention of the parties was, although it cannot, as counsel for the appellant emphasized, be determinative in respect of the question of law at issue. However, that opinion is clear and it was transmitted, on behalf of Société Nationale, to all the shareholders of Les Clairvoyants at the same time as the offer. On this point, I would also like to refer to a passage in Raschella c. 3633713 Canada Inc., [2003] J.Q. no 23 (Q.L.), where Rochon J.A. of the Quebec Court of Appeal comes to the conclusion that a sale cannot occur when the parties agree on a promise of sale, and that, in the interpretation of the contract, precedence must be given to the intention of the parties.
+[TRANSLATION]
+12 The agreement between the parties constitutes a synallagmatic promise which is not equivalent to a sale since the parties have agreed in particular to postpone the conclusion of the contract of sale and the transfer of ownership (1396 C.C.Q.). Recently, in Amiska Corporation Immobilière Inc. c. Alain Bellerive, [[2001] R.J.Q. 1495 (C.A.)], Forget J.A. wrote:
+[TRANSLATION]
+On this point also, I am of the opinion that the trial judge did not err in concluding that the promise of sale of December 16, 1994, did not constitute a sale.
+It is true that, in the former state of the law, there was some controversy over whether a synallagmatic promise of sale was equivalent to a sale. The case law had nonetheless held that such a promise could not be equivalent to a sale when the transfer of ownership was deferred to the signing of the contract of sale, as is the case here.
+The situation would be the same even if one were to apply, as the trial judge did, the new law which was in effect at the time the promise of sale was signed. One would likewise have to conclude that there was no sale (1396 C.C.Q.) [id., p. 1499].
+[My emphasis.]
+[24] I am accordingly of the opinion that the effects of the sale were deferred until July 5, 1994, since under the agreement it was on that date that ownership of the shares in Les Clairvoyants was transferred to Société Nationale and the real right justifying that corporation's being recorded as a shareholder was conferred on it.
+The deeming provision in subsection 256(9) of the Act
+[25] Given that the disposition and acquisition of the same shares are contemporaneous (Hewlett Packard (supra), paragraph 51) and that, in consequence, acquisition of control of Les Clairvoyants by Société Nationale is deemed to have occurred at the commencement of the day on July 5, 1994, we must determine whether the application of the deeming provision in subsection 256(9) of the Act may involve other consequences.
+[26] The final sentence of paragraph 13 of the agreement on the facts reads as follows:
+[TRANSLATION]
+Furthermore, on the acquisition of control for the purposes of the ITA by Société Nationale, Les Clairvoyants was a "Canadian-controlled private corporation" within the meaning of subsection 125(7) of the ITA.
+[27] In paragraph 51 of his Aide-mémoire, counsel for the appellant comments as follows on this admission:
+[TRANSLATION]
+The shifting of the acquisition of control of Les Clairvoyants by Société Nationale to the commencement of the day on which the shares were acquired means that, from that moment on, Société Nationale had exclusive control of that other corporation which is consequently a CCPC. Inasmuch as this conclusion is one of fact, it is admitted by the parties: ". . . on the acquisition of control for the purposes of the ITA by Société Nationale, Les Clairvoyants was a "Canadian-controlled private corporation" within the meaning of subsection 125(7) of the ITA." (53)
+________________________________
+(53) Agreement on the facts, paragraph 13, last sentence.
+[28] However, considering the final sentence of paragraph 13 of the agreement on the facts as expressing a conclusion that constitutes an admission on a question of law, following the hearing I informed counsel for the parties of my concern in this regard; I advised them that I could not be bound by such an admission and I requested additional representations on the question.
+[29] In his representations on the question[6], counsel for the appellant wrote, inter alia, the following, on pages 3 and 4:
+[TRANSLATION]
+c. The admission means that on the acquisition of control, all the conditions of fact needed for Les Clairvoyants to qualify as a CCPC were met. The "acquisition of control", for the reasons set out above and in the written arguments of the appellant, occurred for all purposes of the ITA, including the definition of CCPC in subsection 125(7) of the ITA, at the commencement of the day on July 5, 1994. From that moment on, the conditions of fact set out in that definition were met. We do not believe that any conditions of law have not been met.
+d. The word "exclusive" used in paragraph 51 of the written argument of the appellant was chosen to mean that control of Les Clairvoyants during the period from the commencement of the day on July 5, 1994, until the moment during business hours at which Société Nationale acquired the shares of Les Clairvoyants and was recorded as a shareholder is not split. Control is "exclusive" in the sense that the acquisition of control of Les Clairvoyants by Société Nationale at the commencement of the day, by virtue of the deeming provision in subsection 256(9), deprived La Survivance of control of that corporation as of that moment. When a person acquires control of a corporation, that corporation is no longer controlled by another person who controlled it before control was transferred.
+[30] As for counsel for the respondent[7], they agree that the final sentence of paragraph 13 of the agreement on the facts expresses a conclusion regarding a question of law, but they make the following observations:
+[TRANSLATION]
+. . . in order to give meaning to the words "on the acquisition of control", it is important to remember that the entry of Société Nationale in the share ledger of Les Clairvoyants and the removal therefrom of La Survivance were done during business hours on July 5, 1994,1 and that it was this change to the share ledger of Les Clairvoyants which triggered the acquisition of control of Les Clairvoyants by Société Nationale.2
+That being the case, the Crown reiterates that "[o]nly following the recording of the transfer of shares does the acquisition of control occur and the deeming provision in subsection 256(9) of
+the Act apply. At the moment the shares are transferred, control is still in the hands of the assignor."3
+________________________________________________
+1 See paragraph 10 of the agreement on the facts.
+2 See pages 13 ff. of the respondent's written argument.
+3 See paragraph 33 of the respondent's written argument.
+[31] In my opinion, the question comes down to identifying the exact consequences of the deeming provision in subsection 256(9) of the Act in light of the definition of CCPC given in subsection 125(7) of the Act. Counsel for the appellant argues that the shift of the acquisition of control of Les Clairvoyants by Société Nationale, a private corporation, to the commencement of the day on July 5, 1994, means that La Survivance, a public corporation, no longer controlled Les Clairvoyants from that moment on, so that, at the moment of the disposition and the acquisition of its shares during business hours that same day, Les Clairvoyants was already a CCPC, since it was controlled exclusively by Société Nationale.
+[32] Moreover, in paragraph 55 of his Aide-mémoire, counsel for the appellant addresses this issue directly in the following terms:
+[TRANSLATION]
+55. It is theoretically possible that a deeming provision could give control of a corporation to a person without removing control from the person who would have it in the absence of that provision. But this is not the case with subsection 256(9) of the ITA. It provides that "where control of a corporation is acquired . . . at a particular time on a day, control of the corporation shall be deemed to have been acquired at the commencement of that day." Nothing in the wording justifies a duplication of control. Subsection 256(9) is concerned specifically with the nature of the corporation itself as one controlled by a person or group of persons at a particular time. The effects of the paragraph are not limited to the tax situation of the person acquiring or the person giving up control.
+[33] I do not agree with counsel for the appellant. The aim of subsection 256(9) is, where control of a corporation is acquired in the course of a particular day, to fix the time of the acquisition of control at a moment which is the commencement of that day rather than the actual moment at which control is acquired (subject to the election not to have that subsection apply), such that the taxation year of that corporation ending immediately prior to the acquisition of control may end at the close of the day preceding the day in the course of which control is actually acquired rather than at some moment during the day on which control is acquired, that is, at the moment during that day which immediately precedes the actual time of the acquisition of control. For the corporation, this means that a new taxation year then also begins at the commencement of the day in the course of which control is acquired. This rule avoids a situation where one taxation year ends and another begins in the middle of a day, with all the complications that that might entail, specifically with respect to the calculations required by the Act under such circumstances.
+[34] In my view, subsection 256(9) does not otherwise change the actual situation that must prevail. This subsection has no corollary for the other party to the transaction, unlike some other deeming provisions of the Act, such as, for example, subsection 85(1). Rather, it is on the same order as paragraph 69(1)(a) of the Act, which provides that a taxpayer who has acquired property from a person with whom he was not dealing at arm’s length for an amount in excess of its market value is deemed to have acquired it at that fair market value. This paragraph does not have a corollary either and it is acknowledged that the tax consequences for the seller will be determined on the basis of the higher amount actually received.
+[35] In The Queen v. Verrette, [1978] 2 S.C.R. 838, Beetz J. of the Supreme Court of Canada specified the scope of a deeming provision in the following terms, at page 845:
+. . . A deeming provision is a statutory fiction; as a rule it implicitly admits that a thing is not what it is deemed to be but decrees that for some particular purpose it shall be taken as if it were that thing although it is not or there is doubt as to whether it is. . . .
+[36] To the extent that a deeming provision has precisely the effect of distorting reality, I am of the view that it must be interpreted strictly and its scope limited to what it clearly expresses. In the instant case, Société Nationale acquired control of Les Clairvoyants during the day of July 5, 1994. Subsection 256(9) establishes that this control is deemed to have been acquired at the commencement of that same day, nothing more. It does not establish that the person who held legal or effective control of Les Clairvoyants, namely La Survivance, simultaneously ceased to possess such control. Nothing, moreover, in subsection 256(9) supports the conclusion that La Survivance would be deemed to have disposed of the shares in Les Clairvoyants before the actual moment of their disposition during the day of July 5, 1994; accordingly, at the time when the disposition occurred, La Survivance still had legal or effective control of Les Clairvoyants. In Viking Food Products Ltd. v. M.N.R., [1967] 2 Ex. C.R. 11, 67 DTC 5067, Jackett P. of the Exchequer Court stated that the fact that a person is deemed to control a corporation does not mean that the person who would have control of that corporation in the absence of the deeming provision ceases to control it. He expresses himself as follows on this point at pages 13 and 14 Ex. C.R. and 5068, 5070 and 5071 DTC:
+The question that I have to decide is therefore a question as to the effect of subsection (5d) of section 139, which may be put in general terms as follows:
+If a person, by virtue of subsection (5d), is "deemed" to have had during a certain period "the same position in relation to . . . control" of a corporation "as if" he owned certain shares in that corporation, does it follow that the person who during that period actually owned those shares is "deemed" to have had during that period "the same position in relation to . . . control" of that corporation "as if" he did not own those shares?
+. . .
+Having regard to the general scheme of the provisions in which the concept of not dealing at arm's length was employed, as I understand it, and to the expressed legislative intent that the non-arm's length concept extends not only to any case where parties were not, in fact, dealing at arm's length (subsection (5)(b)) but also to a variety of arbitrarily defined circumstances where the parties might, in fact, be dealing at arm's length, it seems improbable that Parliament intended that paragraph (b) of subsection (5d) would have the unexpressed effect of artificially deeming a person to have ceased to control a company whose issued shares all belonged to him merely because he had granted an option to someone else to buy such shares.
+[My emphasis.]
+[37] Clearly, the context is different in the instant case. However, in my opinion, subsection 256(9) does not in any way preclude the coexistence of legal or effective control of a corporation and deemed control of the same corporation for the space of one day, or rather of several hours, until the moment of the disposition of the shares that triggers the application of the deeming provision.
+[38] Furthermore, if I accept the argument that the disposition and acquisition of the shares are not what effect the change of control, but rather the subsequent entry in the register of transfers, I must also conclude that at the moment of the disposition of the shares in Les Clairvoyants, La Survivance still had legal or effective control of that corporation.
+[39] That being the case, La Survivance did not dispose of shares in a CCPC as defined in subsection 125(7) of the Act, and hence did not dispose of such shares in an SBC as defined in subsection 248(1) of the Act. The loss suffered by La Survivance in disposing of the shares in Les Clairvoyants is thus not a BIL within the meaning of paragraph 39(1)(c) of the Act.
+[40] In closing, I would simply add that this conclusion constitutes a way of avoiding the incongruous result of La Survivance being able to claim a BIL following the disposition of shares in a corporation qualifying as a CCPC and an SBC, and doing so on the basis that Société Nationale, which acquired control of that corporation, was a private corporation, when La Survivance could neither hold nor dispose of such shares since it was itself at all relevant times a corporation deemed to be a public corporation which controlled the corporation whose shares were disposed of.
+[41] The appeal is accordingly dismissed, with costs.
+Signed at Ottawa, Canada, this 26th day of April 2005.
+"P. R. Dussault"
+Dussault J.
+Translation certified true
+on this 23rd day of June 2006.
+Erich Klein, Revisor
+CITATION: 2005TCC245
+COURT FILE NO: 2001-4281(IT)G
+STYLE OF CAUSE: La Survivance v. Her Majesty the Queen
+PLACE OF HEARING: Montreal, Quebec
+DATES
+of hearing: February 15, 2005
+of additional representations
+by the Appellant: March 9, 2005
+of additional representations
+by the Respondent: March 9, 2005
+REASONS FOR JUDGMENT: The Honourable Justice P. R. Dussault
+DATE OF JUDGMENT: April 26, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Robert Couzin
+Counsel for the Respondent:
+Daniel Verdon and
+Yanick Houle
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Robert Couzin
+Firm: Couzin Taylor LLP
+City: Toronto, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] This agreement was signed on May 3, 1994, between La Survivance and Société Nationale. Under the agreement, Société Nationale offered to purchase, and La Survivance agreed to sell, the shares in Les Clairvoyants that it held on that date, as well as all the new shares to be issued in accordance with the agreement, all in the context of a takeover bid carried out in accordance with the applicable laws of Quebec and including all the common shares issued and outstanding of Les Clairvoyants.
+(See paragraphs 24 and 36 of the Aide-mémoire de l’argument de l’appelante.)
+[2] R.S.Q., c. V-1.1.
+[3] Agreement on the facts, Annex D, information note, page 10.
+[4] L.R.Q., c. C-38.
+[5] L.R.C. (1985), c. C-44.
+[6] Letter of March 9, 2005.
+[7] Letter dated March 9, 2005.

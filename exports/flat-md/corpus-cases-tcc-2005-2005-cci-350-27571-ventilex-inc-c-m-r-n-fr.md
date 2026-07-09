@@ -1,0 +1,167 @@
+---
+title: "Ventilex Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27571/index.do"
+last_modified: "2005-05-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 350"
+citation2: ""
+neutral_citation: "2005 CCI 350"
+decision_date: "2005-05-31"
+language: "fr"
+item_id: "27571"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 66
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:51:47.948000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7409db3250f5e890fab9a185d37d1df19aa3af2655800340a8a857d7e4f18e8f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ventilex Inc. c. M.R.N.
+
+- Citation: 2005 CCI 350
+- Decision date: 2005-05-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 66, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ventilex Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-31
+Référence neutre
+2005 CCI 350
+Numéro de dossier
+2004-1205(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-1205(EI)
+ENTRE :
+VENTILEX INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+YVES ROUSSEAU,
+GABRIEL RAGOT,
+intervenants.
+____________________________________________________________________
+Appel entendu le 13 avril 2005 à Montréal (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelante :
+Me Mathias Rancourt
+Avocat de l'intimé :
+Avocat des intervenants :
+Me Simon Petit
+Me Mathias Rancourt
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 31e jour de mai 2005.
+« François Angers »
+Juge Angers
+Référence : 2005CCI350
+Date : 20050531
+Dossier : 2004-1205(EI)
+ENTRE :
+VENTILEX INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+YVES ROUSSEAU,
+GABRIEL RAGOT,
+intervenants.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s’agit d’un appel de décisions rendues par le ministre du Revenu national (le « Ministre ») le 10 décembre 2003 à l’effet que les intervenants Yves Rousseau et Gabriel Ragot (les intervenants) exerçaient un emploi assurable au sens de la Loi sur l’assurance-emploi (la « Loi »), durant la période du 1er janvier au 31 décembre 2002, auprès de la société Ventilex Inc (l’« appelante »).
+[2] L’appelante a été constituée en société le 9 mai 1988. Elle exploite une entreprise d’installation de systèmes de chauffage et de climatisation. Son unique actionnaire est la société 3141781 Canada Inc. Les actions avec droit de vote de la 3141781 Canada Inc., durant la période en question, étaient détenues à 40% par chacun des deux intervenants, à 10% par Hugues Vallée, le neveu de Gabriel Ragot, et à 10 % par le Fonds régional de solidarité (le « Fonds ») qui les détient en raison du financement qu’il procure. La participation du Fonds, avant la période en question a fait en sorte qu’il a détenu jusqu’à 45% du capital-actions avec droit de vote. En vertu de l’entente convenue entre le Fonds et les autres actionnaires, un rachat d’actions par les intervenants se fait graduellement avec le temps de sorte qu’il est prévu que, vers la fin de 2005, début 2006, toutes les actions du Fonds auront été rachetées. Le Fonds est autorisé à déléguer quelqu’un à titre d’administrateur pour siéger aux réunions du conseil d’administration de l’appelante afin de s’assurer que l’appelant maintiendra un rendement acceptable.
+[3] L’appelante est une entreprise d’envergure avec un chiffre d’affaires important. Elle est en affaires depuis 1975. Durant l’année en question, elle avait près de 75 employés à son service. Gabriel Ragot est actionnaire depuis 1980 et est le président de la société. L’intervenant Yves Rousseau est le vice-président et travaille pour la société depuis 1985. Ils dirigent chacun l’appelante en fonction de leur formation respective. Même s’ils portent le titre de directeur du développement et de directeur de la construction respectivement, ils se considèrent comme les patrons de l’entreprise, assumant chacun sa part de responsabilités en ce qui concerne le fonctionnement quotidien de l’entreprise. Ils reçoivent le même salaire en contrepartie d’environ 50 heures de travail par semaine. Il est arrivé que ce salaire soit modifié à la baisse à cause du rendement de l’appelante. Il n’existe aucun lien de parenté entre eux.
+[4] L’intervenant Gabriel Ragot est ferblantier de métier et détient des crédits en technique de bâtiment. Ses responsabilités chez l’appelante consistaient à aider les employés de tous les départements en leur enseignant ce qu’il connaît. Il fait encore affaire les clients et les fournisseurs, mais a décrit ses activités comme étant celles d’un futur pensionné. En 2002, il s’est occupé des travailleurs de la construction, a supervisé la construction, les budgets et le rendement, et a travaillé avec les gérants de projets. Son horaire de travail variait entre 20 et 60 heures par semaine selon le travail à exécuter. Il s’est décrit comme étant un travailleur autonome. Il était libre de prendre des vacances et n’avait pas besoin de faire autoriser ses actions. Lorsqu’il siégeait au conseil d’administration, les décisions qui s’y prenaient avaient trait au budget, aux finances et à la planification. En sa qualité d’actionnaire, il a garanti la marge de crédit de l’appelante et a garanti également les bons d’exécution de l’appelante.
+[5] Gabriel Ragot se considère également le mentor de son neveu Hugues Vallée. Il voit en lui la relève et a déclaré qu’ils ont tous deux toujours voté dans le même sens.
+[6] De son côté, l’intervenant Yves Rousseau a témoigné ne pas avoir de problème avec le fait que Hugues Vallée appuie son oncle lorsqu’il exerce son droit de vote. Il a décrit l’appelante comme une PME où on n’y exerce aucun jeu de pouvoir. Les décisions y sont toujours prises à l’unanimité.
+[7] Yves Rousseau est technologue en bâtiment et ses fonctions chez l’appelante consistaient à faire en sorte que le carnet de commandes de la société soit toujours plein. Il réglait les problèmes qui survenaient sur les chantiers de construction, s’occupait de la perception des comptes et intervenait dans toutes les activités de la société. Il a témoigné que son horaire était établi en fonction du résultat à obtenir pour le bien de l’entreprise. Sans horaire précis, il travaillait environ 50 heures par semaine. Ses heures n’étaient pas comptabilisées. Il lui arrivait de prendre congé ou de prendre ses vacances. M. Rousseau avait la volonté de réussir et de protéger les emplois créés par l’appelante.
+[8] En tant qu’administrateur, il assistait aux réunions. Il y en avait environ 10 par année. Plus de réunions du conseil d’administration ont été tenus pendant l’année en question en raison d’une baisse de revenus.
+[9] Pour effectuer ses tâches, l’appelante fournissait tous les équipements et toutes les fournitures. Il est arrivé à l’occasion que l’intervenant Rousseau utilise ses biens personnels pour les besoins de l’appelante, par exemple, une génératrice pour dépanner sur un chantier de construction.
+[10] Hugues Vallée qui, depuis 2001, détient 10% des actions agissait à titre de directeur général de l’appelante. Il est là depuis 1996 et est technicien en administration. Il s’occupait principalement de la gestion en raison de sa formation. Il considère qu’il servait de tampon entre les deux intervenants car ces derniers ont une formation beaucoup plus technique. Il affirme avoir exercé son droit de vote dans le même sens que son oncle. Quant au Fonds régional de solidarité, un représentant était présent aux réunions du conseil d’administration mais il ne se mêlait de rien en autant que la société offre un bon rendement. Le Fonds détenait ces actions à titre de garantie pour l’appui financier qu’il a fourni à l’appelante. Il était aussi garant des dettes de l’appelante conjointement avec les deux intervenants, mais dans une proportion limitée.
+[11] Hugues Vallée a décrit les horaires des deux intervenants comme étant dictés par leur humeur et les besoins de l’appelante. Ils prenaient leurs vacances quand ils le voulaient et personne chez l’appelante n’avait un mot à dire à ce sujet. Dans l’exécution de leurs tâches, ils partageaient tout, s’engageaient dans tout et laissaient à celui qui avait le plus d’expertise le soin de s’occuper du problème qui se présentait. Les décisions étaient prises sur une base quotidienne à l’exception de celles qui pouvaient être prises aux réunions du conseil d’administration qui, selon M. Vallée, avaient lieu 2 à 3 fois par année.
+[12] Il s’agit de déterminer si les deux intervenants exerçaient un emploi aux termes d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi, donc un emploi assurable pendant la période en question.
+[13] Pour arriver à répondre à cette question, il est important de se référer aux critères établis dans la jurisprudence que l’on trouve dans l’arrêt Wiebe Door Services Ltd. c. le Ministre du Revenu national, [1986] 3 C.F. 55 et qui ont été repris par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983. L’état du droit est résumé comme suit aux paragraphes 47 et 48 :
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[14] Le juge Létourneau a repris les principes en ces termes au paragraphe 18 de sa décision dans l’arrêt le Livreur Plus Inc. c. Canada, [2004] A.C.F. no 267 :
+Dans ce contexte, les éléments du critère énoncé dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., 87 D.T.C. 5025, à savoir le degré de contrôle, la propriété des instruments de travail, les chances de bénéfices et les risques de pertes et enfin l'intégration, ne sont que des points de repère : Charbonneau c. Canada (ministre du Revenu national - M.R.N.) (1996), 207 N.R. 299, paragraphe 3. En présence d'un véritable contrat, il s'agit de déterminer si, entre les parties, existe un lien de subordination, caractéristique du contrat de travail, ou s'il n'y a pas, plutôt, un degré d'autonomie révélateur d'un contrat d'entreprise : ibidem.
+[15] Le Code civil du Québec, aux articles 2085, 2098 et 2099, définit ce qu’est un contrat de travail et un contrat d’entreprise ou de service comme suit :
+art. 2085 Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+article 2098 Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+article 2099 L’entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[16] Le représentant de l’appelante et des intervenants soutient qu’il n’existait pas, en l’espèce, un lien de subordination entre l’appelante et les intervenants. Il soutient que, dans le contexte d’une PME, il est possible pour les intervenants de participer à toutes les prises de décisions à un point tel que l’appelante n’exerce pratiquement pas de contrôle sur eux. Ils ne sont pas considérés comme des exécutants. Ils assumaient un risque de pertes à titre de cautions pour les engagements financiers de l’appelante. Subsidiairement, le représentant soutient que, dans les faits, les intervenants contrôlaient plus de 40% des actions avec droit de vote, ce qui rend leur emploi non assurable en vertu de l’alinéa 5(2)b) de la Loi, qui prévoit que l’emploi d’une personne au service d’une personne morale n’est pas un emploi assurable si cette personne contrôle plus de 40% des actions avec droit de vote de cette personne morale.
+[17] Même si l’unique actionnaire de l’appelante était une société à numéro, les actionnaires de cette société à numéro contrôlaient l’appelante en fonction de la proportion des actions qu’ils détenaient. En l’occurrence, les deux intervenants détenaient 40% des actions avec droit de vote, Hugues Vallée et le Fonds 10% chacun. Les deux intervenants étaient à la fois actionnaires et administrateurs de la société à numéro et administrateurs de l’appelante. Il est donc approprié de mentionner que les deux intervenants n’étaient pas actionnaires de l’appelante.
+[18] Est-ce que le fait que les intervenants étaient administrateurs de l’appelante empêche ces derniers d’exercer des tâches sous son contrôle à un point tel qu’il n’y aurait pas entre eux de lien de subordination? Il ne fait aucun doute qu’en l’espèce, les intervenants jouissaient d’une liberté remarquable dans l’exercice de leurs tâches respectives. Chacun assumait ses responsabilités selon son expertise. Les intervenants pouvaient au besoin se répartir certaines tâches dans le but d’assurer la réussite de l’appelante. Les intervenants n’avaient pas à rendre compte de leurs va-et-vient à qui que ce soit. Ils s’absentaient à leur guise en ayant soin de s’assurer que le moment était approprié. Ils recevaient la même rémunération et ils travaillaient dans le même but, c’est-à-dire dans le but d’assurer la réussite de leur entreprise. Donc, les intervenants travaillaient pour le compte et le bénéfice de l’appelante en contrepartie d’un salaire. Par conséquent, il s’agit ici d’un véritable travail effectué pour le compte de l’appelante.
+[19] Malgré le fait que les intervenants étaient libres de gérer l’appelante comme bon leur semblait et qu’il y avait consensus en ce qui concerne la prise de décisions, tant sur le plan quotidien qu’au niveau du conseil d’administration, il n’en demeure pas moins que l’appelante avait toujours le droit d’intervenir à l’égard du travail exécuté par les intervenants. Même si tous les témoignages abondaient dans le même sens, à savoir qu’il y avait consensus et que tous les actionnaires votaient en ayant à coeur le meilleur intérêt de l’appelante, que cela s’explique par le fait que le Fonds n’est jamais intervenu ou que Hugues Vallée votait toujours comme son oncle, il n’en demeure pas moins que tous les actionnaires avaient le droit de voter à leur guise et que rien en droit ne pouvait les en empêcher. L’appelante a donc toujours eu un pouvoir d’intervention. Je reproduis les propos du juge Tardif dans l’affaire Roxboro Excavation Inc. c. Canada, [1999] A.C.I. no 32, dont la décision a été confirmé en appel par la Cour d’appel fédérale ([2000] A.C.F. no 799), et qui touchent une situation semblable à celle-ci.
+Le fait que la compagnie n'ait pas exercé ce pouvoir de contrôle et le fait que ceux qui exécutaient et réalisaient le travail ne se croient pas assujettis à un tel pouvoir de contrôle et ne se sentent pas subordonnés dans et lors de l'exécution de leur travail n'ont pas pour effet de faire disparaître, réduire ou limiter le pouvoir d'intervention.
+[20] Et voici ce que le juge Tardif a écrit au paragraphe 31 des mêmes motifs :
+En l'espèce, le fait que l'autorité ne semblait pas opposable aux frères Théorêt et le fait que les décisions ayant trait à la compagnie étaient prises dans le consensualisme et la collégialité n'enlevaient pas pour autant à la compagnie son autorité sur le travail exécuté par les intervenants. La preuve n'a pas démontré que la compagnie avait renoncé à son pouvoir d'intervention ou que ce droit avait été soit réduit, soit limité ou même annulé.
+[21] Le juge Garon, dans la décision Fournier c. Canada, [1996] A.C.I. no 526, au paragraphe 21, a résumé ainsi cette question :
+[…] le fait qu’une personne soit à la fois l’âme dirigeante d’une personne morale et l’employé de cette même personne n’a pas pour effet d’anéantir le lien de subordination qui existe entre la société-employeur et l’employé
+[22] Voir aussi les arrêts Acier Inoxydable Fafard Inc. c. Canada, 2002 CAF 214, et Groupe Desmarais Pinsonneault & Avard Inc. c. Canada, 2002 CAF 144.
+[23] En l’espèce, je suis convaincu que l’appelante était toujours en mesure d’exercer un contrôle sur les intervenants même si ces derniers ne se sentaient pas assujettis à ce contrôle. Il existait donc entre les intervenants et l’appelante un véritable contrat de louage de services au sens de la Loi.
+[24] Je ne suis pas convaincu non plus que l’emploi des intervenants soit exclu des emplois assurables en vertu de l’alinéa 5(2)b) de la Loi. Même si la preuve révèle que les intervenants ont toujours exercé leur droit de vote ensemble dans l’intérêt de l’appelante ou de la société à numéro, que Hugues Vallée a toujours voté comme son oncle ou encore que le Fonds n’est jamais intervenu, il n’en demeure pas moins qu’aucun des actionnaires ne s’est jamais officiellement et légalement départi de son droit de vote en faveur d’un autre. Il s’agissait, à mon avis, d’avantage d’une situation où il existait un consensus concernant la gestion des acitivités de l’appelante. Sur cette question, je cite le juge Hugessen, dans l’arrêt Sexton c. M.R.N., [1991] A.C.F. no 417 à la page 2 :
+Les appelants sont ceux qui ont continué à être les piliers et qui, de facto, ont contrôlé la nouvelle compagnie. (Dossier, page 150) À mon avis, le juge a commis une erreur de droit en ne regardant que le contrôle administratif ou opérationnel de la compagnie. Ce dont parle le texte règlementaire est le contrôle de quarante pour cent des actions votantes de la compagnie, ce qui n'est pas du tout nécessairement la même chose.
+[…]
+Celui qui a le contrôle administratif ou opérationnel d'une corporation ne contrôle pas nécessairement les actions de celle-ci; en fait, il arrive souvent, dans le monde moderne des affaires, que ceux qui sont chargés de la gérance d'une corporation détiennent peu ou pas du tout de ses actions.
+Dans la présente espèce, le juge de la Cour canadienne de l'impôt a conclu que les requérants, qui détenaient chacun dix-sept pour cent des actions votantes de la corporation, contrôlaient réellement cette dernière. Cette conclusion, si juste soit-elle, n'est aucunement déterminante quant au contrôle du droit de vote dans les trente-trois pour cent des actions détenues par chacun des enfants des requérants. En fait, comme le juge a lui-même déclaré, Michel et Charlène Sexton "étaient propriétaires et détenaient le pouvoir de jure de contrôler la nouvelle compagnie" et rien dans la preuve ne permettait de conclure qu'ils s'étaient jamais dépouillés de leur droit de vote dans les actions qui leur appartenaient ou avaient entravé de quelque façon que ce soit le libre exercice de ce droit.
+[25] Les conditions d’application de l’alinéa 5(2)b) de la Loi ne sont pas toutes réunies. Les intervenants exerçaient donc auprès de l’appelante un emploi assurable. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 31e jour de mai 2005.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2005CCI350
+Nº DU DOSSIER DE LA COUR : 2004-1205(EI)
+INTITULÉ DE LA CAUSE : Ventilex Inc. et M.R.N. et Yves Rousseau et Gabriel Ragot
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 13 avril 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 31 mai 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Mathias Rancourt
+Avocat de l'intimé :
+Avocat des intervenants :
+Me Simon Petit
+Me Mathias Rancourt
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Mathias Rancourt
+Étude : Deveau, Lavoie, Bourgeois,
+Lalande & Associés, s.e.n.c.
+Laval (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

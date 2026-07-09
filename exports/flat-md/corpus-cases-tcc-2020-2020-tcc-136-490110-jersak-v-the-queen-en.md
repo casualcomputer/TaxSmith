@@ -1,0 +1,191 @@
+---
+title: "Jersak v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/490110/index.do"
+last_modified: "2020-12-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 136"
+citation2: ""
+neutral_citation: "2020 TCC 136"
+decision_date: "2020-12-11"
+language: "en"
+item_id: "490110"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4657
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T05:59:27.384000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "49d542cff535540ccd7fca6e1fabca49eee8c06797934b41acdd0f96b4788ead"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jersak v. The Queen
+
+- Citation: 2020 TCC 136
+- Decision date: 2020-12-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4657, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jersak v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-12-11
+Neutral citation
+2020 TCC 136
+File numbers
+2019-826(IT)I
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-826(IT)I
+BETWEEN:
+JEWEL JEANETTE JERSAK (BEST),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 30, 2020, at Calgary, Alberta
+Before: The Honourable Justice Susan Wong
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Matthew Chao
+JUDGMENT
+The appeal from determinations/redeterminations made under the Income Tax Act with respect to the amount of the appellant’s Canada Child Tax Benefit/Canada Child Benefit for the 2014 to 2017 base taxation years is dismissed, without costs.
+Signed at Ottawa, Canada, this 11th day of December 2020.
+“Susan Wong”
+Wong J.
+Citation: 2020 TCC 136
+Date: 20201211
+Docket: 2019-826(IT)I
+BETWEEN:
+JEWEL JEANETTE JERSAK (BEST),
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+Overview/Issue
+[1] Distilled down after addressing the preliminary matters, the issue before this Court is whether the Minister properly determined/redetermined the amount of Ms. Jersak’s Canada Child Tax Benefit (“CCTB”)/Canada Child Benefit (“CCB”) for the 2014 to 2017 base taxation years to reflect the fact that she and her ex‑husband Andrew Best were shared-custody parents.
+[2] Ms. Jersak does not dispute that they had shared custody of their children since 2010. However, she says there is nothing in the Income Tax Act that enables the Minister to go back several years and reduce the amount of her benefit, particularly in light of the fact that only one parent applied. She says that by not applying for the benefit prior to January 2018, Mr. Best forfeited his entitlement to the benefit for those base years. She also says that if he is entitled to a retroactive benefit, subsection 122.62(1) limits the ability to go back to a maximum of 11 months.
+Preliminary Matters
+[3] The benefits and base taxation years dealt with in the Minister’s February 7, 2019 decision are:
+CCTB/CCB – 2014 to 2017 base years;
+Alberta Family Employment Tax Credit (“AFETC”) – 2014 to 2017 base years; and
+Alberta Climate Leadership Adjustment Rebate (“ACLAR”) – 2015 and 2016 base years.
+[4] In addition to the above items, Ms. Jersak’s notice of appeal directly or indirectly addresses the following:
+CCTB – 2013 base year;
+AFETC – 2013 base year;
+ACLAR – 2017 base year; and
+Universal Child Care Benefit (“UCCB”) – 2013 and 2014 base years.
+No jurisdiction over AFETC, ACLAR, or UCCB
+[5] By agreement with Alberta, the Minister calculates the amount of the AFETC and ACLAR based on the information in an individual’s filed return. However, this Court is not the legal venue when a disagreement arises with respect to these provincial amounts. Section 12 of the Tax Court of Canada Act lists the statutes over which this Court has jurisdiction and they are all federal. As I explained to Ms. Jersak at the hearing, whatever jurisdiction or ability exists to hear a dispute involving the AFETC and ACLAR will lie at the provincial level [1] ; I can only clearly say that this Court does not have it. [2]
+[6] The UCCB is a benefit governed by the federal Universal Child Care Benefit Act. Neither that Act nor section 12 of the Tax Court of Canada Act gives this Court the jurisdiction to hear disputes over the UCCB. As I explained to Ms. Jersak at the hearing, the UCCB Act is a short statute and does not appear to have a mechanism for resolving disputes. Again, I can only clearly say that this Court does not have jurisdiction. [3]
+2013 base taxation year for CCTB – No objection for this year
+[7] In the reply to the notice of appeal, the Respondent gave notice of the preliminary motion to quash the appeal of the 2013 base taxation year on the basis that no valid objection was filed; however, a section 244 affidavit was not filed in support.
+[8] A copy of the Minister’s February 7, 2019 decision was attached to the notice of appeal and it shows that the decision dealt with the 2014 to 2017 base years. Therefore, the 2013 base taxation year cannot be appealed to this Court because it was not part of the underlying decision. During the hearing, Ms. Jersak advised that she had only wished to challenge the 2013 base year as it pertained to the UCCB anyway, so it was a moot point in light of this Court’s lack of jurisdiction over that benefit.
+Legislative Framework
+[9] The CCB replaced the CCTB and certain other benefits beginning in the July 2016 to June 2017 benefit year. For the purposes of this appeal, the rules governing the CCTB and CCB are generally the same.
+[10] Like its predecessor, the CCB is a deemed overpayment of a person’s income tax in the base taxation year and the benefit is the refund of this overpayment, paid monthly to an eligible individual. [4] The base taxation year is used to calculate the amount of the benefit to be paid from July 1st of the following year through to June 30th of the year after that. [5]
+[11] An eligible individual can be the parent primarily responsible for the care and upbringing of the child in question (a “qualified dependant” [6] ) or a shared-custody parent of that child. Among other things, shared-custody parents must reside with that child on an equal or near equal basis. [7]
+[12] Generally, in order to apply and be found eligible for a particular month, a person must file a prescribed form no more than 11 months after the month in question. [8] The Minister may extend the time for filing this prescribed form (with no upper time limit) but beginning July 1, 2016, the maximum time extension was ten years from the beginning of the month in question. [9] On a related note, a taxpayer may ask the Minister to determine the amount of the benefit going back 11 months after the month in which the taxpayer makes the request. [10] CCB determinations are subject to the provisions of Divisions I and J in Part I of the Act, i.e. the timelines for assessing and appealing apply with determinations taking the place of assessments. [11]
+Factual background
+[13] Ms. Jersak and her ex-husband Andrew Best are the parents of three children: GB (born in 2003), DB (born in 2004), and JB (born in 2008). She and Mr. Best separated in 2010 [12] and she testified that they have shared custody of their children since then. There are some small discrepancies with respect to the exact percentages of custody time but Mr. Best agreed that custody was shared since 2010.
+[14] Ms. Jersak testified that they shared custody on a 60-40 basis in her favour from 2015 to 2017 while a summary in an Alberta Court of Queen’s Bench affidavit sworn by Mr. Best in May 2019 showed the percentage ratio to range from 53-47 to 54-46 in Ms. Jersak’s favour in those years. [13] In cross-examination, Ms. Jersak stated that she did not entirely agree with the percentages in Mr. Best’s summary and that there was evidence presented in the Alberta proceeding showing different percentages; however, she also stated that the percentages in Mr. Best’s summary were sufficiently accurate for the purposes of this appeal.
+[15] They agreed that with respect to GB and JB, the custody percentage split became about 50-50 in about September 2019. With respect to DB, Ms. Jersak testified that she had 100% custody beginning in January 2018; Mr. Best mostly agreed other than to add that he had custody of DB for about seven days in 2018 and 22 days in 2019.
+[16] Ms. Jersak had been the sole applicant and recipient of the benefit since 2010. Mr. Best testified that he applied for the benefit in January 2018 at Ms. Jersak’s suggestion. On July 20, 2018, the Minister consequently redetermined (and reduced) the benefit received by Ms. Jersak with respect to the 2014 [14] , 2015 [15] and 2016 [16] base years. The original notices of determination were issued on July 20, 2015 for the 2014 base year [17] ; July 20, 2016 for the 2015 base year [18] ; and July 20, 2017 for the 2016 base year [19] . On July 20, 2018, the Minister also determined the amount of Ms. Jersak’s benefit for the 2017 base year to be similar to the reduced amounts in the redeterminations for the preceding years, based on her status as a shared-custody parent. [20]
+Analysis
+[17] It is clear from Ms. Jersak’s and Mr. Best’s testimony that throughout the difficulties of a marital breakdown, they both prioritized their children’s upbringing and it is commendable.
+There is shared custody
+[18] It is necessary to address the distinction between shared custody for the purposes of the CCTB/CCB versus the Federal Child Support Guidelines. [21] During the hearing, Ms. Jersak referred to shared custody as being a 60-40 percentage ratio, which reflects the percentage set out in section 9 of the Guidelines.
+[19] In the context of the CCTB/CCB, the Federal Court of Appeal has said that in order for a shared-custody parent to meet the statutory threshold of residing with the child on an equal or near equal basis, a percentage between 45 and 49% will round up to 50 (and qualify) while a percentage between 41 and 44% will round down to 40 (and will not qualify). [22] It also stated that because Parliament did not adopt the existing language in section 9 of the Guidelines, it must have intended a different interpretation for “shared-custody parent” in section 122.6 of the Act. [23]
+[20] Based on Mr. Best’s written summary [24] and Ms. Jersak’s testimony that the figures in his summary were sufficiently accurate, I find that the custody percentage ratio ranged from 53-47 to 54-46 in the 2015 to 2017 base years. There was no specific evidence introduced for the 2014 base year. However, based on the testimony of both parents that they had shared custody of their children since 2010 and there was no major change until January 2018 (when Ms. Jersak had 100% custody of DB), I find on a balance of probabilities that the custody percentage ratio in the 2014 base year was similar to the 2015 to 2017 base years.
+[21] Therefore, I find that Ms. Jersak and Mr. Best were shared-custody parents as defined in section 122.6.
+The Minister can redetermine the amount of the benefit retroactively regardless of whether both shared-custody parents applied in the first place
+[22] There are two statutory bases on which the Minister is able to redetermine the amount of Ms. Jersak’s benefit for the 2014 to 2016 base years. The two bases are more complementary than mutually exclusive.
+[23] First, subsection 152(1.2) says that CCTB/CCB determinations are subject to the provisions of Divisions I and J in Part I of the Act, i.e. the timelines for assessing and appealing apply with determinations taking the place of assessments. Subsection 152(3.1) would then provide that the normal redetermination period expires three years after the date of the initial determination, i.e. the Minister may redetermine CCTB/CCB entitlement up to three years after the initial determination.
+[24] In the present case, the Minister’s July 20, 2018 redetermination of the 2014, 2015, and 2016 base years was made three years, two years, and one year (respectively) after the initial determinations. Therefore, she did so within the three-year period permitted by subsection 152(3.1).
+[25] Second, subsection 122.62(2) gives the Minister the discretion to extend the time to apply for the benefit to a maximum of ten years from the beginning of the month in question. It means that the Minister may allow a person to apply for the benefit to a maximum of ten years retroactively. Therefore, the Minister had the discretion to extend the time for Mr. Best to apply for the 2014, 2015, and 2016 base years, which resulted in a determination of his entitlement and a corresponding redetermination of Ms. Jersak’s entitlement as shared-custody parents.
+[26] With respect to the 2017 base year, the timeline is more straightforward because the Minister’s July 20, 2018 determination is an initial one based on the same finding of shared-custody status. Therefore, the first statutory basis (i.e. normal redetermination period) does not apply. However, the second statutory basis (i.e. Ministerial discretion) would still apply.
+Conclusion
+[27] The appeal is dismissed, without costs.
+Signed at Ottawa, Canada, this 11th day of December 2020.
+“Susan Wong”
+Wong J.
+CITATION:
+2020 TCC 136
+COURT FILE NO.:
+2019-826(IT)I
+STYLE OF CAUSE:
+JEWEL JEANETTE JERSAK (BEST) and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+January 30, 2020
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+December 11, 2020
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Matthew Chao
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Climate Leadership Implementation Act, S.A. 2016, c. 16; Alberta Personal Income Tax Act, R.S.A. 2000, c. A-30.
+[2] Perron v. The Queen, 2017 TCC 220 at paragraph 4.
+[3] Perron v. The Queen, 2017 TCC 220 at paragraph 4.
+[4] Income Tax Act, ss. 122.6 (definition of “eligible individual”) and 122.61(1)
+[5] Income Tax Act, ss. 122.6 (definition of “base taxation year”)
+[6] Income Tax Act, ss. 122.6 (definition of “qualified dependant”)
+[7] Income Tax Act, ss. 122.6 (definition of “shared-custody parent”)
+[8] Income Tax Act, subsection 122.62(1)
+[9] Income Tax Act, subsection 122.62(2)
+[10] Income Tax Act, subsection 152(3.2)
+[11] Income Tax Act, subsection 152(1.2)
+[12] Reply to the notice of appeal, paragraph 17(b)
+[13] Exhibit R-2: Alberta Court of Queen’s Bench affidavit of Andrew Best sworn May 13, 2019, Exhibit A
+[14] Reply to the notice of appeal, paragraph 5; Minister’s February 7, 2019 decision, attached to notice of appeal
+[15] Reply to the notice of appeal, paragraph 7; Minister’s February 7, 2019 decision, attached to notice of appeal
+[16] Reply to the notice of appeal, paragraph 11; Minister’s February 7, 2019 decision, attached to notice of appeal
+[17] Reply to the notice of appeal, paragraph 4
+[18] Reply to the notice of appeal, paragraph 6
+[19] Reply to the notice of appeal, paragraph 8
+[20] Reply to the notice of appeal, paragraph 13; Minister’s February 7, 2019 decision, attached to notice of appeal
+[21] S.O.R./97-175, section 9.
+[22] Morrissey v. Canada, 2019 FCA 56 at paragraph 29; Lavrinenko v. Canada, 2019 FCA 51 at paragraphs 37, 41, and 42
+[23] Lavrinenko v. Canada, 2019 FCA 51 at paragraph 28
+[24] Exhibit R-2: Alberta Court of Queen’s Bench affidavit of Andrew Best sworn May 13, 2019, Exhibit A

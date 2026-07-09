@@ -1,0 +1,247 @@
+---
+title: "Harvey v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/308662/index.do"
+last_modified: "2018-04-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 67"
+citation2: ""
+neutral_citation: "2018 TCC 67"
+decision_date: "2018-04-09"
+language: "en"
+item_id: "308662"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7364
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:50:25.769000+00:00"
+cases_cited_count: 7
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0268246c539419f6df4468a8317df4a4654aa977bd71a005697a95d612ef6609"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Harvey v. The Queen
+
+- Citation: 2018 TCC 67
+- Decision date: 2018-04-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7364, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harvey v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-04-09
+Neutral citation
+2018 TCC 67
+File numbers
+2014-2846(GST)I
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-2846(GST)I
+BETWEEN:
+PAUL HARVEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on September 25 and 26, 2017, in Chicoutimi, Quebec.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the appellant:
+Éric Le Bel
+Counsel for the respondent:
+Bobbie Dion
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated April 28, 2014 and bears number F-052004, is allowed, without costs, and the matter is referred back to the Minister for reconsideration and reassessment on the basis of the Court’s finding that the building in question had a fair market value of $271,000 on the reference date, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 9th day of April 2018.
+“Guy Smith”
+Smith J.
+Translation certified true
+on this 4th day of May 2018.
+Janine Anderson, Revisor
+Citation: 2018 TCC 67
+Date: 20180409
+Docket: 2014-2846(GST)I
+BETWEEN:
+PAUL HARVEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Smith J.
+I. Summary
+[1] Paul Harvey, the appellant in this case, is appealing an assessment made by the Minister of National Revenue (the “Minister”) under section 325 of the Excise Tax Act, R.S.C. 1985, c. E-15.
+[2] The legislative provision in question is a collection action that allows the Minister to assess an individual when he or she receives property from a tax debtor with whom he or she was not dealing at arm’s length for inadequate consideration, i.e. for less than the fair market value (the “FMV”) of the property at the time of transfer.
+[3] The appellant acquired a property located at 45 rue Whistler, in Saint‑David-de-Falardeau, Quebec (“the building”) on April 19, 2012 (the “reference date”), from Frédéric Girard, who was his daughter’s spouse at that time. At the time of transfer, Mr. Girard owed the Minister $163,806.23.
+[4] The appellant does not question the presence of a transfer, a consideration, a non-arm’s length relationship or an underlying tax liability and therefore the issue concerns only the FMV of the consideration.
+[5] Although the value of the consideration at the time of transfer was $220,000, the appellant claims, for the purposes of this case, that the building’s FMV was in fact $207,000. The Minister maintains that it was $271,000, a discrepancy of $64,000.
+II. The appellant’s testimony
+[6] Three witnesses, including the appellant, were called by the respondent.
+[7] There were also two expert witnesses, Jean-Michel Tremblay, an accredited appraiser for the appellant, and Julie Gauvin‑Lamontagne, an accredited appraiser for the respondent.
+[8] The two expert witnesses appraised the building using the cost method and the comparison method. I will first review the appellant’s testimony and then, under the next heading, the expert witnesses’ testimony.
+[9] The appellant tried to explain the circumstances surrounding the purchase of the building by saying that he had been looking for a second home for his retirement. He was interested in the Valinouët area, a downhill ski resort, where he had friends. He was also of the view that his daughter and grandchildren would continue to use it for skiing and they did continue to frequent the place after the transfer, accompanied by Mr. Girard.
+[10] The appellant wanted to rent out the basement, which he claims was only 40-50% finished when he took possession of the house. Further, there were a number of structural defects and there were problems with the layout of the rooms.
+[11] According to the sales records adduced into evidence by the respondent, the building was put up for sale on three occasions before the reference date, i.e. in 2008 for $235,000, in 2009 for $225,000 and lastly in 2010 for $279,000. At those points in time, the attached garage had not yet been built. According to the record for 2009, the basement was fully set up as an apartment, whereas the record for 2010 indicated that it was [translation] “partially set up, complete”.
+[12] During cross-examination, the appellant indicated that he had not participated in preparing those records and had not seen them. According to him, the basement was not finished in 2009, contrary to what was indicated therein.
+[13] The appellant added that in early 2017, he contested the new assessment role to ensure that the calculation of the property taxes was based on the building’s real value. He used Mr. Tremblay’s appraisal report (dated April 11, 2016) and, following his request, the value entered on the roll was changed from $337,600 to $235,300.
+[14] To the extent that the appellant’s credibility is relevant to the determination of the building’s FMV, I will say that I have some doubt regarding his testimony as a whole. Specifically, I doubt that he was truly looking for a second home for his retirement and I find that he was instead accommodating the tax debtor—his daughter’s spouse—and his grandchildren. It seems that this finding is rather obvious given that they continued to frequent the place after the transfer date.
+[15] Furthermore, notwithstanding his description of the incomplete work and the numerous structural defects, the appellant provided only very few details about the approach he took to establish a purchase price that would truly reflect the building’s FMV. It seems unlikely to me that he would agree to complete the transaction without seeing the sales records and their content.
+[16] It also seems unlikely that he truly intended to rent out the basement since he still had not done so at the time of the hearing, i.e. more than five years after the closing date. The same can be said for the property tax adjustment request. The considerable length of time between that request and the transfer date, while understandable, raises doubt and suggests that the request was made simply for this dispute. Consequently, I give very little weight to his description of the premises, specifically to the condition of the basement on the reference date.
+[17] In view of the foregoing, the Court must rely on the experts’ testimony.
+III. Analysis
+[18] In this dispute, the Court must determine the building’s value on the reference date in circumstances where the two expert witnesses disagree on several key points, including the condition of the premises at the time of transfer, the value of the adjustments, the reconciliation method and the value attributable to the work that needed to be carried out.
+[19] Although the two experts completed an appraisal of the building based on the cost and comparison methods, they agreed that the comparison method was the best way to assess the FMV.
+[20] In fact, the two experts identified several properties similar to the building, which allowed for comparisons to be made. When there is a market to which one may look, cost is not a reliable basis for determining fair market value: Qureshi v. The Queen, 2006 TCC 485, para. 6 (informal procedure) (“Qureshi”). Furthermore, the building is not a new construction that would justify the use of the cost method: 9103-9438 Quebec Inc. v. The Queen, 2004 TCC 466, para. 33 (informal procedure) (“9103-9438 Quebec Inc.”).
+[21] I will therefore consider the comparison method for the purposes of this analysis.
+[22] It should first be noted that the Court is free to accept, in whole or in part, any expert opinion about the building’s FMV or to make its own estimate of value, based on the acceptable evidence: Petro Canada v. Canada, 2004 FCA 158, para. 48.
+[23] In Pinelli v. The Queen, [1998] T.C.J. No. 583 (QL), para. 19 (informal procedure), McArthur J. explained that the Court may make its own determination of the FMV, even though it may not merely adopt a value that is somewhere between the values sought by the parties:
+In arriving at a value, I refer to the often quoted statement of Walsh, J. in Bibby Estate v. The Queen, 83 D.T.C. 5148 at 5157 which reads:
+“While it has frequently been held that a Court should not, after considering all the expert and other evidence merely adopt a figure somewhere between the figure sought by the contending parties, it has also been held that the Court may, when it does not find the evidence of any expert completely satisfying or conclusive, nor any comparable especially apt, form its own opinion of valuation, provided this is always based on the careful consideration of all the conflicting evidence. The figure so arrived at need not be that suggested by any expert or contended for by the parties.”
+[Emphasis added.]
+i. The choice of comparables
+[24] When it comes to defining the expression “fair market value”, the courts generally echo Cattanach J.’s definition, set out in Henderson v. Minister of National Revenue, 73 DTC 5471 (Fed T.D.), p. 5476, an excerpt of which was cited in Qureshi, supra:
+The statute does not define the expression “fair market value”, but the expression has been defined in many different ways depending generally on the subject matter which the person seeking to define it had in mind. I do not think it necessary to attempt an exact definition of the expression as used in the statute other than to say that the words must be construed in accordance with the common understanding of them. That common understanding I take to mean the highest price an asset might reasonably be expected to bring if sold by the owner in the normal method applicable to the asset in question in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm’s length and under no compulsion to buy or sell. I would add that the foregoing understanding as I have expressed it in a general way includes what I conceive to be the essential element which is an open and unrestricted market in which the price is hammered out between willing and informed buyers and sellers on the anvil of supply and demand. These definitions are equally applicable to “fair market value” and “market value” and it is doubtful if the use of the word “fair” adds anything to the words “market value”.
+[Emphasis added.]
+[25] For an expert, determining the FMV is not an exact science and “the standards leave considerable room for subjective appraisals by experts”: Beaudry v. The Queen, 2003 TCC 464, para. 16. This premise is especially true for the comparison method, where experts broadly exercise their discretion, specifically in their choice of comparables and in the assessment of adjustments. Moreover, several decisions make note of the weaknesses of the comparison method because it is hard to find truly comparable sales: 9103-9438 Quebec Inc., supra.
+[26] It is for this reason that the quality of a comparable is measured by the low number of adjustments that need to be made for the purposes of the comparison: Cliche v. The Queen, 2005 TCC 622, paras 45, 46 and 65. This proposition seems fairly fundamental since the ultimate objective of the comparison method is to find sales that most closely approximate the property under review. Both experts agree that a comparable becomes uncertain when too many adjustments are required.
+[27] The following table shows the absolute value of the adjustments as a percentage of the sale price of the comparables chosen by the two experts in this case (the sales chosen at the reconciliation stage are marked with a “C”):
+Civic address
+Mr. Tremblay’s comparable sales
+Ms. Gauvin-Lamontagne’s comparable sales
+54–56 rue Davos
+43% C
+-
+37 rue Whistler
+54% C
+64%
+155 rue Banff
+49% C
+60%
+41 rue Whistler
+58% C
+-
+132 rue Chamonix
+41%
+-
+107 rue Tremblant
+46% C
+-
+13 rue Whistler
+51%
+43%
+12 rue Whistler
+41% C
+-
+20 rue Sestrières
+29%
+18% C
+112 rue Courmayeur
+62%
+-
+247 rue Banff
+-
+43%
+15 rue de Courcheval
+-
+33%
+Average
+47%
+44%
+[28] In his review report and in his testimony, Mr. Tremblay criticized Ms. Gauvin-Lamontagne’s choice of comparables because of her major adjustments. Yet, he chose properties that required considerably greater adjustments on average. In my opinion, Mr. Tremblay’s criticism greatly undermines his credibility as an expert, particularly since he considered these properties at the reconciliation stage.
+[29] Indeed, during his reconciliation, Mr. Tremblay calculated the FMV based on an average of several of his comparables, whereas Ms. Gauvin-Lamontagne exercised her judgment to base her assessment on her best comparable. In fact, according to Jean-Guy Desjardins’ Traité de l’évaluation foncière (Montreal: Wilson & Lafleur, 1992, p. 522), one must avoid using a quantitative mechanical formula at this stage, since reconciliation requires the appraiser’s judgment and analysis.
+[30] Furthermore, I consider that Ms. Gauvin-Lamontagne chose better comparables than Mr. Tremblay. In fact, Mr. Tremblay seems to have largely relied on the category of the condition of properties for his choice of comparables, whereas Ms. Gauvin-Lamontagne relied on residence type: single family, duplex, condominium, basement or no basement.
+[31] Thus, I agree with Ms. Gauvin-Lamontagne that it makes more sense to select sales of properties of the same type and then to make adjustments. Mr. Tremblay himself admitted that it is more complex to assign a value to a different structural characteristic than to a interior or exterior finishing. Despite this difficulty, Mr. Tremblay selected four properties (37 rue Whistler; 155 rue Banff; 132 rue Charmonix; 107 rue Tremblant) with a slab or a crawl space, i.e. with no basement, including three that were considered at the reconciliation stage. He also included a duplex. Ms. Gauvin-Lamontagne’s review report also showed that her counterpart undervalued the adjustments attributable to the building’s structural characteristics.
+[32] In short, I am of the view that Ms. Gauvin-Lamontagne’s choice to base her assessment on the sale of the property located at rue 20 Sestrières was justified because it is the one that required the most minor adjustment by both her and Mr. Tremblay. I am of the view that no mistakes were made by her with respect to the adjustments relating to this property.
+ii. Basement development
+[33] The finishing of the building’s basement resulted in multiple adjustments by both expert witnesses. Both relied on the information submitted by Mr. Harvey, who was the only witness to have seen the basement on the reference date.
+[34] As previously mentioned, Mr. Harvey said that at the time of the transaction the basement was 40-50% finished. He said that the bathroom was empty, but the piping was done, and that the stairs consisted of two-by-eight boards. However, I note that he did not mention the basement’s flooring.
+[35] However, Ms. Gauvin-Lamontagne also consulted the sales records, which indicated that the basement had ceramic flooring. According to her, a basement is finished when the walls and ceiling are finished. She therefore concluded that the building’s basement was 85% finished.
+[36] In light of the evidence submitted, I am of the view that the basement on the reference date was 85% finished. According to Mr. Tremblay’s update report, there was at least drywall on the walls and ceiling, which meets the requirements of a “finished” basement. There is no indication that the state of the basement’s floor was modified between 2010, when the building was put up for sale, and the reference date.
+[37] In short, I am of the view that Ms. Gauvin-Lamontagne’s approach was appropriate. An adjustment based on the contributory value of the basement, rather than cost, is also adequate in the case of a building’s FMV since a property’s attributes must be assessed based on the value that a potential buyer would give it.
+iii. Furnishings appraisal
+[38] The two experts did not agree on the adjustments relating to the furnishings of the comparables. The building in question was sold unfurnished, whereas all of the comparables chosen by the two experts were sold furnished.
+[39] Mr. Tremblay explained that he assessed the value of the furnishings in several transactions based on their cost new less depreciation based on the furniture listed in the sales records and the finished surface area of the various comparables. It remains uncertain whether he actually called the buyers to determine the value of the furnishings.
+[40] Ms. Gauvin-Lamontagne tried contacting all of the purchasers of her comparable properties. At the hearing, the respondent adduced into evidence the deed of sale for the property located at 247 rue Banff, which contained a breakdown of the sale price by the goods sold. The parties to that transaction set the sale price of the movables at $3,200 for a residence with a living space of 1,818 square feet.
+[41] I am of the view that that transaction is representative of the true value of used furniture when a property is sold. Indeed, I am of the view that it is common knowledge that a piece of furniture loses a great deal of its value shortly after it is purchased. And when several pieces of used furniture in a residence are purchased, it is evident that the buyer’s inability to choose his or her furniture piece by piece brings down the price for a batch of used furniture.
+[42] Concerning the sale of 20 rue Sestrières, Mr. Tremblay found that $5,000 for all of the furniture was a gross undervaluation. He explained this undervaluation by the fact that Ms. Gauvin-Lamontagne considered only the appliances, whereas he included all of the furnishings, including the appliances and a hot tub, pursuant to the deed of sale. Ms. Gauvin‑Lamontagne relied on information from the buyer. In short, it would have been useful for the Court to see this deed of sale, but unfortunately, it was not produced at the hearing.
+[43] In sum, Ms. Gauvin-Lamontagne’s approach for making the adjustments relating to the furnishings is much more appropriate and the values used are more plausible. Mr. Tremblay’s invariable results of $15,000 for several properties that had different living spaces also raise doubt as to the thoroughness of his work in his assessment based on those surface areas.
+iv. Interior and exterior work
+[44] The two experts noted the need for renovations to maintain the building’s value because of construction defects and faults in the finishing. Mr. Tremblay sought a contractor’s tender to repair the flooring on the main level of the house, paint the exterior clapboard siding, repair the staircase and install an air exchanger. The contractor, Louis Sénéchal of the company Methodex, submitted a tender for $27,945 plus taxes on March 31, 2016.
+[45] Mr. Tremblay considered that approximately $10,600 of interior work and $8,500 of exterior work would have an impact on the building’s value, whereas Ms. Gauvin-Lamontagne, following corrections and additions of certain work, estimated that $13,000 was attributable to the building’s value.
+[46] I note that the contractor in question had previously submitted a tender on June 11, 2014, and that he reviewed and corrected that tender at the request of Ms. Gauvin-Lamontagne. However, she emphasized that the new tender still contained several errors, namely in the calculation of the surface area, the anticipated duration of the work and consequently the costs.
+[47] In short, I believe that Ms. Gauvin-Lamontagne’s work was more rigorous, credible and precise since she questioned the measures contained in the tender. She specifically excluded the elements of the tender that did not affect the building’s value and added certain required work, whereas Mr. Tremblay relied on the tender’s erroneous data.
+[48] Because there were many errors in the tender, I am of the view that Ms. Gauvin‑Lamontagne’s corrective action was justified. However, I recognize that she should have added the administrative expenses, and the amount of $2,000 that she admitted at the hearing seems reasonable to me.
+v. The correction to the property assessment
+[49] As previously indicated, Mr. Harvey explained that he challenged the new assessment roll so that he could pay property taxes on what he thought was the building’s real value. He used the appraisal report dated April 11, 2016, to request that the municipality make the correction.
+[50] Concerning municipal assessment values, Tardif J. made the following comments in Beaudry v. The Queen, 2003 TCC 464, para. 48 (“Beaudry”):
+The Court also takes into account the municipal assessment, which is obviously not an absolute reference point, but mainly information that has some value. There can be specifics that escape those in charge of the municipal assessment role.
+[51] In the K.M. Construction et Rénovation inc. v. The Queen, 2015 TCC 206, para. 29 (informal procedure) (“K.M. Construction”), Associate Chief Justice Lamarre identified some decisions that deal with municipal assessment values and emphasized that a municipal assessment does not generally reflect the FMV of a property in the free and open market.
+[52] In oral argument, counsel for the appellant contended that a successful challenge of the municipal assessment suggests that the assessment was exaggerated from the start. His argument is based on the following passage, which is from K.M. Construction and interprets the decision in Beaudry:
+The fact of not contesting the municipal assessment was also considered as leading one to believe that the municipal assessment was not exaggerated (Beaudry, supra, paragraph 49).
+[53] Mr. Harvey explained at the hearing that he submitted the appraisal report dated April 11, 2016, to convince the municipality to correct the property assessment. I do not see how the municipal assessment can add to the debate when the Court had the opportunity to review this report in depth and I note, in addition, that the respondent’s expert in Beaudry relied principally on the municipal assessment whereas in this case, Ms. Gauvin-Lamontagne did her own assessment in accordance with standard practices in the field.
+IV. Conclusion
+[54] After carefully reviewing the evidence, I am of the view that the approach taken by Ms. Gauvin-Lamontagne to determine the FMV was appropriate and led to an accurate appraisal of the building.
+[55] In sum, I find that her expertise accurately represents the FMV on the reference date and that her employment relationship with Revenu Québec does not in itself disqualify her as an expert witness: White Burgess Langille Inman v. Abbot and Haliburton Co., 2015 SCC 23, para. 49.
+[56] She was therefore justified in establishing the FMV at $312,000 using the comparison method and, given the $26,000 in construction defects, which was admitted by both parties, the $13,000 contributory value of the work to be done and the $2,000 in administrative expenses, she was justified in finding that the building’s FMV on the reference date was $271,000.
+[57] Consequently, the appeal is allowed, without costs, and the Court orders that the matter be referred back to the Minister for reconsideration and reassessment on the basis of its finding that the building in question had a fair market value of $271,000 on the reference date.
+Signed at Ottawa, Canada, this 9th day of April 2018.
+“Guy Smith”
+Smith J.
+Translation certified true
+on this 4th day of May 2018.
+Janine Anderson, Revisor
+CITATION:
+2018 TCC 67
+COURT FILE NO.:
+2014-2846(GST)I
+STYLE OF CAUSE:
+PAUL HARVEY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Chicoutimi, Quebec
+DATE OF HEARING:
+September 25 and 26, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+April 9, 2018
+APPEARANCES:
+Counsel for the appellant:
+Éric Le Bel
+Counsel for the respondent:
+Bobbie Dion
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Éric Le Bel
+Firm:
+Fradette, Gagnon, Têtu, Le Bel, Potvin
+Chicoutimi, Quebec
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

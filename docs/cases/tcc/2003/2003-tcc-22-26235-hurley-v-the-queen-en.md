@@ -1,0 +1,227 @@
+---
+title: "Hurley v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26235/index.do"
+last_modified: "2003-02-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 22"
+citation2: ""
+neutral_citation: "2003 TCC 22"
+decision_date: "2003-02-05"
+language: "en"
+item_id: "26235"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4032
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:34:43.439000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "33a75af672da8613590686df65c317fd8f5ef7e63612fa699d85df5cd041155f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hurley v. The Queen
+
+- Citation: 2003 TCC 22
+- Decision date: 2003-02-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4032, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hurley v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-02-05
+Neutral citation
+2003 TCC 22
+File numbers
+2001-4434(IT)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Date: 20030205
+Docket: 2001-4434(IT)I
+BETWEEN:
+REGINA HURLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on December 9, 2002, at St. John's, Newfoundland.
+Before: The Honourable Judge T.E. Margeson
+Appearances:
+Agent for the Appellant:
+David Hurley
+Counsel for the Respondent:
+Cecil Woon
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1996 and 1997 taxation years are allowed and the matter is referred back to the Minister of National Revenue for reassessment and reconsideration on the bases that:
+1) the adjusted cost base of the properties acquired in 1996 was $20,262 and the proper adjusted cost base for the properties acquired in 1997 was $10,000;
+2) the Minister is ordered to deduct from the proceeds of disposition the sum of $23,845 in 1996 and the sum of $6,900 in 1997, in determining the gross capital gain, of which three quarters would be taxable.
+The Appellant shall have her costs of this action, to be taxed.
+Signed at Ottawa, Canada, this 5th day of February 2003.
+"T.E. Margeson"
+J.T.C.C.
+Citation: 2003TCC22
+Date: 20030205
+Docket: 2001-4434(IT)I
+BETWEEN:
+REGINA HURLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson, J.T.C.C.
+[1] By Notice of Reassessment dated November 13, 2001, the Minister of National Revenue ("Minister") assessed the Appellant's returns of income for 1996 and 1997 taxation years by adding to income, taxable gain in the amount of $38,012.25 for 1996 and taxable capital gain in the amount of $7,500 in 1997.
+[2] The Minister calculated the capital gains as follows:
+1996
+1997
+Proceeds of Disposition
+$ 70,945
+$ 20,000
+Less: Adjusted Cost base
+(Fair Market Value as at Oct
+22, 1981, date of acquisition)
+20,262
+10,000
+Gross Capital Gain
+$ 50,683
+$ 10,000
+Taxable Capital Gain 3/4
+$ 38,012
+$ 7,500
+[3] All of the presumptions contained in the Reply to the Notice of Appeal ("Reply") in paragraph 9 were admitted with the exception of subparagraph 9(e), that the fair market value on October 22, 1981 of Parcels A, B and C was not more than $20,262; and subparagraph 9(g) that the fair market value on October 22, 1981 of Parcels D and E was not more than $10,000. The Appellant disagreed with these calculations and appealed from the assessment.
+Issue
+[4] The issue to be decided is whether the fair market value, and therefore the adjusted cost base, of the lands expropriated from the Appellant was more than $20,262 for Parcels A, B and C, and more than $10,000 for Parcels D and E as at October 22, 1981, the date of acquisition.
+Evidence
+[5] By consent, Exhibits R-1 and R-2 were admitted into evidence. These were copies of deeds of the subject properties. Exhibit R-1 was dated October 22, 1981 and Exhibit R-2 was dated June 17, 1996. These were the conveyances into Regina Hurley and Her Majesty the Queen in Right of Newfoundland.
+[6] Mr. Herman Avery testified that he was employed by the Newfoundland Department of Works, Services and Transportation in the Province of Newfoundland. His job was to travel throughout the province purchasing property on behalf of the government. He was familiar with the properties in issue in this case. These lands were acquired for highway purposes. Lots A, B and C were acquired together for the purchase price of $70,945, $40,900 for Parcel A; $800 for Parcel B; $7,000 for Parcel C and $23,845 for injurious affection as a result of the taking of Parcel A. After the conveyance of Parcel A, the remaining land would not have the access because the highway now runs through it. Parcel D was purchased for $10,800 and Parcel E was purchased for $5,000. The amount of $4,200 was paid for injurious affection for land retained by the Appellant.
+[7] Then he said that $8,100 was paid for the land in Parcel D and $6,900 was paid for injurious affection to the land remaining to the vendor. He confirmed in cross-examination that $23,845 was paid for injurious affection with respect to the remainder of Parcel A retained by the vendor.
+[8] Boyd Fleming was a land appraiser, was qualified as an expert and entitled to give opinion evidence with respect to his expertise. On August 1, 2001 he was asked to inspect the properties and establish a fair market value as of October 22, 1981 for the five pieces of property in question. He presented his findings in Exhibit A-1 and explained how he had determined the valuations for these properties. He found sufficient data with respect to lots A, B and C but there was limited data available with respect to lots D and E because it was back land and not much property was being sold at that time. He did not calculate a specific value with respect to injurious affection but he said that it could be calculated.
+[9] He also submitted Exhibit A-2 by consent, which was an appraisal letter dated September 12, 2001, directed to Mrs. Regina Hurley and signed by him. In that summary he valued Parcel A at $20,760; Parcel B at $2,560; Parcel C at $4,800; Parcel D at $6,363 and Parcel E at $3,661, for a total of $38,144 rounded off to $38,100.
+[10] In that letter he also indicated that this summary did not include any injurious affection on the remaining land as a result of the sale of these five parcels. He also referred to an appraisal that he had done for the Government of Newfoundland and Labrador for Parcels A, B and C in 1996 in which he also calculated injurious affection to the remaining lands associated with Parcels A, B and C.
+[11] The lot sizes were as follows: Parcel A, 5.1904 acres; Parcel B, 0.064 acres; Parcel C, 0.135 acres; Parcel D, 6.363 acres and Parcel E, 3.661 acres.
+[12] In cross-examination he was referred to Exhibit A-1 at page 21 of his report with respect to adjustments and he said that he did not make an adjustment for location. He was referred to page 22 of his report and he admitted that there was an error in calculation with respect to Parcel B where it was referred to as 0.64 acres when it should have been .064 acres. This would result in one figure of $256 for the .064 acres and $2,560 for the 0.64 acres. This value was calculated at the rate of $4,000 per acre. He did not spot the error and he carried the error forward from the appraisal.
+[13] He was referred to Exhibit A-1 at page 1 of his report with respect to Parcel C and indicated that it was 0.135 acres. He presumed that this information came from the survey provided. He looked at the survey provided by his client for Parcel C, which was located at page 12 of his report. He did not peruse any deeds. He was shown Exhibit R-2, Schedule "A3" and agreed that the amount of land disclosed there was only 1,790 square meters. He admitted that this did not amount to 0.135 acres as he considered but amounted to 0.443 acres.
+[14] He was referred to page 23 of his report with respect to the valuation of Parcels D and E. He did not take into account the price per acre in his report. He agreed that 0.135 acres would be too small to be approved as a building lot. He was asked why he would consider the price as a single building lot when it was too small for a building lot. He answered that that was because the owners had the rest of the land. It was his position that this was standard practice in the profession used by professional land appraisers. He did not refer to any guidelines which contained this position.
+[15] It was suggested to him that his report did not indicate that he had taken into account the surrounding lands. He said that "back lands" normally do not have road access. He agreed that sale number four, which he considered was not "back land" and it had 146 feet of frontage.
+[16] Parcel D would have a value of $3,881 based on the price per acre. His determination was that it had a retrospective market value of $6,363. Further, Parcel D would have a value of $2,230. Again he was asked why he would use sale number four when it was not back land. He considered that it was held for land banking purposes and that a buyer would not pay as much for it.
+[17] It was suggested to him that sale ten was "back land" and that the subject property is "back land" so that he should have given more weight to sale number ten. Further, if according to his guidelines, you could compare "back lands" with "non-back lands" for determination of price, you would have to presume that the owner of the other land would give you access. He said that they valued the land for the Hurleys and therefore they presumed that they had access land.
+[18] He was referred to page 24 of his report with respect to the valuation of Parcels D and E and he said that the calculations of $1,000 per acre were based upon the belief that the purchaser would have access. It was suggested to him that if he removed that presumption, the figure would be much closer to the $609 per acre figure as found in sales number ten. There was no answer to that suggestion.
+[19] He was referred to his earlier report and appraisal that he had done for the Government of Newfoundland on April 30, 1996. Injurious affection to the remaining land associated with Parcels A and B was calculated at $8,400 and injurious affection to the remaining lands associated with Parcel C was $14,300. It was suggested to him that this was inconsistent with his conclusions reached in Exhibit A-1. He disagreed and said that he was not aware that all of Parcel C was taken. If it were, then the injurious affection would not apply to Parcel C. In his report of August 1, 2001, injurious affection did not apply. He did not know what the term "adjusted cost base" meant. He had never done evaluations for the purpose of calculating capital gains under the Income Tax Act ("Act").
+[20] In re-direct, he said that he considered the value of the property to the Hurley's back in 1981 and "what it could fetch". They had access to the back lands. It would affect the market value if they owned it all. If there were no similar sales you used the best you could find. With respect to sale four reported at page 20 of his report it was similar to the subject property in that both were lands with limited frontage.
+[21] Brian Hurley was the son of Regina Hurley. He was familiar with the lands in question. He testified that Parcel D was sold for $15,000 as follows: $8,100 for the land and $6,900 for injurious affection to the remainder. In cross-examination he said that $23,845 was paid for injurious affection for the remaining land after the taking of Parcel A.
+[22] Dr. James Feehan, an economics professor at Memorial University, was an economist and had a Masters degree and a PhD. degree in economics. He had expertise in the area of public finance research and in the area of price indexing. They used Statistics Canada information and the new housing price index in their calculations. This information establishes what has been happening to land prices in general in an area.
+[23] The Court did not allow him to be qualified as an expert in the valuation of land as he clearly did not have the qualifications for this.
+[24] In cross-examination he said that his qualifications were not with respect to the land indexes. It was the first time that he had used a land price index but the circumstances are similar to those in the case at bar. He was not a valuator or appraiser. He had no formal training or any experience in the valuation of land. He had not been qualified as an expert in the use of land indexing previously.
+[25] The purpose of the land index is to give an indication in general as to the new housing prices in the area. The indexes establish a base area. He uses the St. John's Metropolitan area and the North Eastern Avalon for his purposes. He concluded that the land that was sold was for single lot houses. This land could be sold for building lots. The index for 1996 was 100.5, the index in 1997 was 99 and the index back in 1991 would have been 69.3.
+[26] The Respondent called Gregory S. Bennett, an Accredited Appraiser. His qualifications as a land appraiser were accepted and he was qualified to give opinion evidence. He had completed thousands of appraisals before. He is now employed with Canada Customs and Revenue Agency ("CCRA") as an appraiser-coordinator for Newfoundland and Labrador. He has done over 100 evaluations under the Act. His purpose in the case at bar in doing the valuation was to determine, retrospectively, the "fair market value" of the properties in issue as of October 21, 1981 for capital gains purposes. In general, he described the term as meaning "the highest and best price in terms of money for which a willing buyer would buy a property and for which a willing seller would sell the property".
+[27] He inspected the properties in question on October 24, 2002 and agreed that a change had taken place since 1981. He examined the two deeds, Exhibits R-1 and R-2. They were using an earlier appraisal prepared by one Glen Power. Then he reviewed the report in 2001 done by Boyd Fleming. In making a determination of value, the size, frontage, location and market conditions are very important. He reviewed his appraisal report, Exhibit R-3, with respect to Parcels A and B and he came up with a per acre value of $3,000 and a total value of $15,800 by the direct comparison approach as of October 21, 1981 and said that this applied equally to October 22, 1981, which was the date of acquisition.
+[28] He referred to Exhibit R-4, the Appraisal Report for Parcel C and said that he factored in location, size and market conditions. He came up with the value of $3,500 for this property by the direct comparison approach.
+[29] He referred to Exhibit R-5, which was a summary appraisal report for Parcels D and E. At page 5 he considered that the highest and best use of the subject property would have been land banking for future unspecified development purposes. There was no frontage for these properties. These were "back lands". The comparables that he used, numbers one and two had frontage. Therefore, he had to back out those lots with frontage. The remaining value was attributed to the back lands. The best comparable was number three with a price per acre of $610. This method was commonly used in practice.
+[30] He concluded that $650 per acre was a fair value for a total of $2,379 for Parcel D and $650 per acre was a reasonable value for Parcel E for a total of $4,141. Parcels D and E together amounted to $6,520. In conclusion, Parcels A and B had a fair market value in 1981 of $15,800; Parcel C $3,500; and D and E $6,500.
+[31] He reviewed the conclusions of the appraisal report, Exhibit A-1 at page 22 and he concluded that the rate of $4,000 per acre was too high. It was his position that this valuation appeared to have been pre-conceived. The appraiser made wrong adjustments. One must look at the various conditions closely. Adjustments that were made in preparing Exhibit A-1 could not be justified. The numbers do not add up. For instance with respect to Parcels A and B the subject properties had areas of 5.201 acres and .064 acres respectively, whereas comparable sale number one in this report was composed of 1.62 acres.
+[32] The appraisal took an adjustment of 30 per cent, which this witness did not feel was reasonable. Sale one was purchased as one lot and not as back land. Therefore, the unit price would be greater. With respect to sale two, this is one half the size of the subject lot. Therefore, the rate should be higher. Further, lots one and two are superior properties and therefore they should have had a greater adjustment. If lots three and four were inferior lots then they should have had a greater positive adjustment.
+[33] The price of $4,000 per acre was not reasonable for Parcels A and B. The proper valuation would be $3,000 as he had concluded after analysing the sales and considering the surveys and all information available to him.
+[34] With respect to Parcel C, this witness concluded that the appraiser should have had the deed when doing the appraisal. Further, the appraiser said that he did not consider lot sizes but 0.135 acres was not large enough to be a building lot and therefore should not have been used as a comparable.
+[35] Sales six, seven, eight and nine in the report were superior to the subject lot. These were developable building lots and the subject lots were not. There was no development in the area of these lots at the time and there was no demand for such lots. As earlier indicated on page 23 the appraiser considered this to be a building lot when it was not big enough for a building lot. Further, one should not consider the factor whether or not the vendors owned other land in determining the value of the lots in question.
+[36] He referred to page 24 of the subject report where the author said that the only other sale considered comparable to Parcels D and E would be sale four. This lot was purchased for land banking and indicated a rate of $1,136 per acre. It contained 11.44 acres. This witness said that this was not a fair comparable because this property had frontage. It is not a fair presumption for a valuator to consider the fact that an owner also owns other land.
+[37] Injurious affection is not factored into the determination of the adjusted cost base. It is market value only. Further, the land index figures are not factored in when he uses the cost, income or direct comparison approach.
+[38] In cross-examination the witness was referred to another report completed by one Mr. Greenland and he said that this person was not qualified to do the appraisal. This was a subdivision report and the appraiser did not have qualifications to conduct the appraisal.
+[39] He admitted that Mr. Fleming was qualified to do a report but this witness did his report after the fact. Mr. Fleming did not. There was no requirement for the development of a subdivision at the time that these properties were appraised. The best use was a long-term residential development use. The subdivision approach was not applicable at that time. It is all a question of timing.
+[40] There was no way that the adjustments made by the appraiser in Exhibit A-1 could be backed up. They had to be backed up in the market place. This area did not have a long development. He should have said that there had to be a negative adjustment. He should not have said that it should amount to 20 per cent. He was wrong. This witness looked at five appraisal reports and a lot of other information before he made his appraisal.
+[41] At page 23 of Exhibit A-1, the appraiser concluded that for Parcel C, the retrospective value was $4,800. However, he did not say why this was the case. This was merely splitting the difference between the figure of $4,500 and the figure of $5,000 with respect to four of the five sales that were completed and which were used as comparables.
+[42] Parcel C only contained 0.44 acres and he did not say why one was superior to the other, for instance, in size. It was proper to use the sales as comparables but he should have analysed the sales and should have shown why the comparable sales applied to the subject and he should have adjusted it to the larger size lot.
+[43] He was referred to page 6 of his Appraisal Report, Exhibit R-4 and he said that he used the same sales as the other appraiser except that he used one less sale. He opined that if there are deeds of conveyance, an appraiser should use them as well as any available surveys. If there are none, then you do without the surveys or the deeds. The first thing you do is look for them.
+[44] He confirmed that one does not take into account adjusted cost base when doing evaluations. The adjusted cost base of $20,262 as found in the Reply was determined by another appraiser, Mr. Power. He did not consider injurious affection in this appraisal.
+Argument on behalf of the Appellant
+[45] In argument, counsel for the Appellant said that there has to have been a gross miscalculation of the capital gain as set out in paragraph 8 of the Reply. The sum of $23,845 must be deducted from the proceeds of disposition of $70,945 in 1996 because it had nothing to do with the sale of these lots. This included injurious affection to other lots, which were not involved in the sale.
+[46] Further, in the year 1997 the amount of $6,900 must be deducted from the $20,000 figure as proceeds of disposition because this represented injurious affection to land, which was not part of the lots in question.
+[47] After the above referred to amounts are deducted, the question becomes, which of the two appraisals should be accepted? Both of the appraisers used the same properties as comparables except for one. The appraiser called on behalf of the Respondent opined that there should have been fewer negatives taken into account but these cases are very subjective. The appraiser called on behalf of the Appellant said that the lot size was not too significant in a rural setting.
+[48] Dr. James Feehan's evidence should be looked at in support of the position taken by the Appellant's appraiser. One should look at the economic conditions that may be borne out by the statistics. His opinion was more in keeping with the Appellant's appraisal than with the Respondent's appraisal.
+[49] Counsel asked the question "how much do you adjust downward"? The Respondent's appraiser made too much of an adjustment. It was somewhat arbitrary. The appeals should be allowed with costs.
+Argument on behalf of the Respondent
+[50] Counsel for the Respondent took the position that the issue was, what was the fair market value of the lands in question on October 21, 1981? In the Reply, subparagraphs 9(b), (c), (d), (f), (h) and (i) were all accepted. The remainder of the presumptions were not destroyed. The proceeds of sale in 1996 were $70,945 and the proceeds of sale in 1997 were $20,000. The adjusted cost base was $20,260 in 1996 and $10,000 in 1997 in accordance with the Minister's presumption in subparagraph 9(e) that the fair market value on October 22, 1981, of Parcels A, B and C was not more than $20,262 and that the fair market value on October 22, 1981, of Parcels D and E was not more than $10,000 as set out in subparagraph 9(g) of the Reply. He referred to the provisions of paragraph 54(e) of the Act and argued that the proceeds of disposition include compensation for injurious affection.
+[51] He asked the question "what was the adjusted cost base at the appropriate time"? This was simply the cost to the taxpayer of the property. Paragraph 69(1)(c) of the Act sets out that the adjusted cost base is the fair market value when the property, (in this case) was obtained by inheritance.
+[52] Therefore, the issue is "what was the fair market value"? In Mr. Fleming's appraisal he did not consider injurious affection. As a matter of professional practice, it is not included. In law, under the definition of proceeds of disposition found in paragraph 54(c), it is included.
+[53] Subsection 53(1) lists the items that are to be added to the cost to the taxpayer in calculating the adjusted cost base. It makes it clear that injurious affection is not to be included.
+[54] Counsel for the Appellant is suggesting that the Respondent's appraisal merely takes into account more negatives and that the real adjusted cost base should be somewhere in between the two appraisals. This is not so as the Respondent has shown that there were many mistakes made in Mr. Fleming's appraisal. With respect to Parcels A and B he used the wrong area. With respect to Parcel B he should have used the figure of $256 and not $2,560. Therefore, the reliability of the report is an issue. Further, the basis used by Mr. Fleming for valuation of the properties is not correct. Sales one and two were given greater weight. This should not have been done. Evidence was given as to why the lots used were greater in value than the subject lots.
+[55] With respect to Parcel C he said that it contained 0.135 acres and it should have been 0.44 acres. One should look at the deed of conveyance in doing such a report and Mr. Fleming did not.
+[56] Mr. Fleming admitted that Exhibit A-1 was incorrect with respect to the calculations of injurious affection. Further, he did not take into account the fact of its size and location in making the valuation, which he should have done. With respect to Parcel C the lots used as comparables were superior to the lots in question. He used sales seven, eight and nine and therefore lot C should have had a lower value. He relied on the assumption that the taxpayer owned the surrounding lands and that this should be taken into account when it should not have been.
+[57] Parcels D and E were back lands. Sale four was used but it was not back land. This appraiser has compared apples and oranges. He presumed that the buyer would have had access to these properties in the future but he should not have. If he had used sale number ten as a comparable, the value of the lot in question would have been closer to $609. Therefore the valuation of $1,000 was incorrect.
+[58] Counsel referred to the case of Royal Wayne Motel Ltd. v. Canada, 2000 CarswellNat 107, [2000] 2 C.T.C. 2320, where this Court was considering the relative merits of two opposing appraisals. He argued that in that case the taxpayer's appraiser did not take into consideration all of the factors and proceeded upon wrong presumptions. He also used improper comparables. In the case at bar, as there, the Respondent's appraiser's figures should be accepted.
+[59] In rebuttal counsel for the Appellant argued that injurious affection had nothing to do with the adjusted cost base for properties A, B, C, D and E. What the Appellant received was not referable to the disposition of Parcels A, B, C, D and E. It has to be dealt with separately. The adjusted cost base would have to be determined separately for the remaining lot. This is what the injurious affection amount referred to.
+[60] Immaterial of the comments of the Respondent concerning section 54 of the Act, the Minister must still determine the adjusted cost base of the remaining land, deduct that from the amount received and take three quarters of that amount to determine the capital gain.
+[61] One should also remember that Mr. Fleming and Mr. Power came up with the same figure of $10,000. Therefore, if Mr. Power was off base, he had company.
+Analysis and Decision
+[62] Counsel for the Respondent opined that there was only one issue in this case and that was, "what was the fair market value of the lands in question on October 21, 1981"? That position, of course, presupposes that there is no issue with respect to the amount of funds that were received as consideration for the transfer of the lands when they were acquired by the Department of Transportation for the Province of Newfoundland at the date of disposition. In light of the arguments made by counsel for the Appellant the Court has to decide whether or not the Minister was correct in presuming that the proceeds of disposition in 1996 were $70,945 and that the proceeds of distribution in 1997 were $20,000. There does not seem to be any issue in this case that the adjusted cost base in both years was the fair market value as at October 22, 1981, which was the date of acquisition.
+[63] Counsel for the Respondent argued that the proceeds of sale in 1996 were $70,945 and the proceeds of sale in 1997 were $20,000. Counsel for the Appellant disputes this and argues that the proceeds of sale in 1996 were $70,945 less $23,845 or $47,100 and the proceeds of disposition in 1997 were $20,000 less $6,900 or $13,100.
+[64] Once the proper proceeds of disposition have been determined then the second question becomes, "what was the adjusted cost base of the properties in 1996 and 1997"? The proper adjusted cost base must be calculated on the basis of the two appraisals, which were submitted to the Court. That calls for a determination as to which appraisal should be accepted or whether or not the true value is somewhere in between those amounts suggested by the two appraisers.
+[65] The Court will deal firstly with the question of whether or not the Minister was correct in presuming that the proceeds of disposition in 1996 were $70,945 and that the proceeds of disposition in 1997 were $20,000.
+[66] The Court is satisfied that the argument of counsel on behalf of the Appellant is well taken in regard to this issue. The Court is satisfied that the Minister did make a miscalculation of the capital gain as set out in paragraph 8 of the Reply because he used the wrong amounts as the proceeds of disposition in both years. As far as this Court is concerned the amount received for injurious affection, which the Minister included in these two amounts, had nothing whatsoever to do with the adjusted cost base for properties A, B, C, D and E. What the Appellant received for injurious affection is not referable to the disposition of these parcels. This amount of consideration must be considered separately from the amounts received for the properties in issue.
+[67] The amounts received for injurious affection were with respect to the lands which remained in the ownership of the Appellant after the taking of Parcels A, B, C, D and E. There can be no doubt from the evidence that the amount of $23,845 in the year 1996 and the amount of $13,100 received in 1997 were not consideration for the sale of Parcels A, B, C, D and E and those are the lots that were referred to in the Minister's assessment. There can be no doubt that the amounts received for injurious affection were amounts received by the taxpayer and had to be accounted for but, they were not amounts received by the taxpayer with respect to the parcels of land in consideration in this case.
+[68] The argument of counsel for the Appellant is well taken when he says that the Minister must deal with the remaining land separately and must still determine the adjusted cost base for the remaining land, deduct that from the amount received as consideration for the remaining land and take three quarters of that amount to determine the capital gain.
+[69] Counsel for the Respondent took the position that the matter of injurious affection was taken into account automatically by the provisions of paragraph 54(c) of the Act since, as a matter of law, under the definition of "proceeds of disposition", this amount is included. Further, he said that subsection 53(1) lists the items that are to be added to the cost to the taxpayer in calculating the adjusted cost base and is clear that the injurious affection is not to be included.
+[70] The Court is satisfied that his argument is correct with respect to subsection 53(1) but it does not agree with the Minister's interpretation under paragraph 54(c) because the amount that was received for injurious affection had nothing whatsoever to do with the parcels of land in issue. Therefore, the Minister was wrong in taking these amounts into consideration when calculating the proceeds of disposition for the lots in issue and these amounts must be deducted.
+[71] With respect to the issue of the fair market value of the properties in question the Court is satisfied that the arguments by counsel for the Respondent are well founded. The case at bar is somewhat similar to the case of Royal Wayne Motel Ltd., supra, where this Court had to consider the relative merits of two opposing appraisals. In the case at bar, as in that case, the Court is satisfied that the appraisals of Gregory S. Bennett are to be preferred to the appraisals of Appraisal Associates Limited, completed by Boyd Fleming.
+[72] The Court is satisfied that this is not a case where it should adopt a position somewhere in between the amounts suggested by each of the appraisals. There is no evidence before this Court, which would indicate that this course of action would be acceptable and indeed it would be completely arbitrary. The Court prefers the appraisals of Gregory S. Bennett to the appraisals completed by Boyd Fleming and there are a considerable number of reasons for doing so.
+[73] As argued by counsel for the Respondent there were a number of substantial errors made by Boyd Fleming in his appraisals. With respect to Parcels A and B he did use the wrong area. With respect to Parcel B he should have used the figure of $256 and not $2,560. Further, the Court is satisfied that this appraiser did not adequately consider the comparables in coming up with his valuation.
+[74] The Court is satisfied that Mr. Fleming should not have relied upon the assumption that the taxpayer owned the surrounding lands and that he should take this into account when determining the value. It was clear from the evidence of Mr. Bennett that this was not a proper position to take. The Court is satisfied that to some extent Mr. Fleming did compare apples and oranges. He compared back land to land, which had frontage and frontage land with back land without making the proper adjustments therefore and this led to the calculation of an improper value.
+[75] In the end result the Court is satisfied that Mr. Fleming did not take into consideration all of the factors that he should have and proceeded upon wrong presumptions. He used improper comparables and the Court is satisfied that the figures concluded by Mr. Fleming should not be accepted.
+[76] In the end result then, the appeal will be allowed and the matter will be referred back to the Minister for reassessment and reconsideration based upon the Court's findings that the adjusted cost base of the properties acquired in 1996 was $20,262 and the proper adjusted cost base for the properties acquired in 1997 was $10,000.
+[77] However, the Minister is ordered to deduct from the proceeds of disposition in 1996 the sum of $23,845 in determining the gross capital gain and is ordered to deduct the sum of $6,900 in 1997 from the proceeds of disposition in determining the gross capital gain in 1997 of which three quarters would be taxable.
+[78] The Appellant shall have her costs of this action to be taxed.
+Signed at Ottawa, Canada, this 5th day of February 2003.
+"T.E. Margeson"
+J.T.C.C.
+CITATION:
+2003TCC22
+COURT FILE NO.:
+2001-4434(IT)I
+STYLE OF CAUSE:
+Regina Hurley and
+Her Majesty The Queen
+PLACE OF HEARING
+St. John's, Newfoundland
+DATE OF HEARING
+December 9, 2002
+REASONS FOR JUDGMENT BY:
+The Honourable T.E. Margeson
+DATE OF JUDGMENT
+February 5, 2003
+APPEARANCES:
+Agent for the Appellant:
+David Hurley
+Counsel for the Respondent:
+Cecil Woon
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

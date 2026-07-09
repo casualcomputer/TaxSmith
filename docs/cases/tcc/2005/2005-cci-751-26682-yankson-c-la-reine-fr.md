@@ -1,0 +1,156 @@
+---
+title: "Yankson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26682/index.do"
+last_modified: "2005-11-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 751"
+citation2: ""
+neutral_citation: "2005 CCI 751"
+decision_date: "2005-11-22"
+language: "fr"
+item_id: "26682"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3428
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:17:44.169000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f062042ac693b0d62547fc0ef61664c4567ea2290cbf5a1e90bf0e62b46d4ebd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Yankson c. La Reine
+
+- Citation: 2005 CCI 751
+- Decision date: 2005-11-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3428, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Yankson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-22
+Référence neutre
+2005 CCI 751
+Numéro de dossier
+2005-1488(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1488(IT)I
+ENTRE :
+THERESA YANKSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu le 8 août 2005 à Calgary (Alberta)
+Par : l’Hororable juge Gerald J. Rip
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Marla Teeling
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est rejeté.
+Signé à Ottawa, Canada ce 22e jour de novembre 2005.
+« Gerald J. Rip »
+Le juge Rip
+Traduction certifiée conforme
+ce 9e jour de janvier 2006
+Marie Rodrigue, traductrice
+Référence : 2005CCI751
+Date : 20051122
+Dossier : 2005-1488(IT)I
+ENTRE :
+THERESA YANKSON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rip
+[1] Le 8 août 2005, j’ai prononcé des motifs intérimaires de jugement dans le cadre de l’appel interjeté par Mme Yankson de sa cotisation d’impôt sur le revenu de 2003. Les autorités fiscales avaient refusé de lui accorder un crédit d’impôt pour frais de scolarité (alinéa 118.5(1)c) de la Loi de l’impôt sur le revenu) ainsi qu’un crédit d’impôt pour études (paragraphe 118.6(2)).
+[2] Dans mes motifs intérimaires, j’ai conclu que le refus d’accorder les crédits à Mme Yankson, notamment celui réclamé en vertu de l’alinéa 118.5(1)c)[1], était manifestement discriminatoire, puisqu’elle y aurait eu droit si elle avait résidé près de la frontière canado-américaine. Or, elle résidait à Calgary. J’estimais en outre que la présence physique dans une institution d’enseignement qui offre une formation semblable à celle offerte par la Seattle Midwifery School de Seattle pourrait ne plus être nécessaire lorsque l’étudiante suit activement le programme par l’entremise de l’Internet. Une personne peut être étudiante à temps plein dans de telles circonstances et avoir droit au crédit pour frais de scolarité.
+[3] J’ai suggéré que les parties se penchent plus avant sur le présent appel de manière à déterminer, à titre d’exemple, si la décision du ministre ne portait pas atteinte aux droits de Mme Yankson protégés par la Charte canadienne des droits et liberté (la « Charte »). J’ai demandé à chaque partie de me fournir un mémoire et à Mme Yankson de tenter d’obtenir l’aide d’un professionnel à cette fin. M. Michael J. Gemmiti, étudiant en droit à la Bennett Jones LLP de Calgary, m’a fait parvenir un mémoire au nom de Mme Yankson. J’en ai également reçu un provenant de l’avocate de l’intimée.
+[4] Ma position selon laquelle les droits de Mme Yankson, protégés par la Charte, n’ont pas été violés par le refus d’accorder les crédits n’a pas changé. M. Gemmiti avait fait valoir que les droits à l’égalité de Mme Yankson protégés par l’article 15 de la Charte avaient été enfreints.
+[5] Afin de déterminer si les droits à l’égalité de l’appelante protégés par l’article 15 de la Charte ont ou non été violés, il faut procéder en trois étapes tel que l’énonce l’arrêt de la Cour suprême dans Law c. Canada (ministre de l’Emploi et de l’Immigration)[2]. Au paragraphe 88 de cette décision, la Cour a expliqué que pour trancher dans le sens d’une violation de l’article 15, la Cour doit déterminer i) si une distinction a été établie, ii) si cette distinction a été fondée sur un motif énuméré ou sur un motif analogue et iii) si cette distinction est « discriminatoire ».
+[6] La présente situation satisfait au premier volet de ce critère puisque les alinéas 118.5(1)c) et 118.6(1)c) créent manifestement une distinction entre les contribuables qui vivent près de la frontière et ceux qui n’y vivent pas.
+[7] En revanche, la résidence n’est pas un des motifs énumérés au paragraphe 15(1). Il devient donc nécessaire de déterminer si elle peut être rangée parmi les motifs analogues. Dans l’arrêt Corbiere c. Canada (ministre des Affaires indiennes et du Nord)[3], la Cour suprême du Canada a discuté des critères qui permettent de qualifier un motif d’analogue. Les juges McLachlin et Bastarache, qui ont rédigé la décision au nom de la majorité, ont affirmé au paragraphe 13 :
+En conséquence, quels sont les critères qui permettent de qualifier d'analogue un motif de distinction? La réponse est évidente, il s'agit de chercher des motifs de distinction analogues ou semblables aux motifs énumérés à l'art. 15 -- la race, l'origine nationale ou ethnique, la couleur, la religion, le sexe, l'âge ou les déficiences mentales ou physiques. Il nous semble que le point commun entre ces motifs est le fait qu'ils sont souvent à la base de décisions stéréotypées, fondées non pas sur le mérite de l'individu, mais plutôt sur une caractéristique personnelle qui est soit immuable, soit modifiable uniquement à un prix inacceptable du point de vue de l'identité personnelle. Ce fait tend à indiquer que l'objet de l'identification de motifs analogues à la deuxième étape de l'analyse établie dans Law est de découvrir des motifs fondés sur des caractéristiques qu'il nous est impossible de changer ou que le gouvernement ne peut légitimement s'attendre que nous changions pour avoir droit à l'égalité de traitement garantie par la loi. Autrement dit, l'art. 15 vise le déni du droit à l'égalité de traitement pour des motifs qui sont immuables dans les faits, par exemple la race, ou qui sont considérés immuables, par exemple la religion.
+[8] La question du lieu de résidence en tant que motif analogue a été traitée par la Cour suprême à de nombreuses reprises. Il a été rejeté en tant que motif analogue dans Haig c. Canada[4], R. c. Turpin[5], R. c. S.(S.)[6] et Siemens c. Manitoba (Procureur général)[7]. La Cour n’a toutefois pas fermé la porte à ce que le lieu de résidence puisse constituer un motif analogue. Je souscris à la prétention de l’appelante selon laquelle ces causes peuvent être distinguées du présent appel puisqu’elles ne portaient pas sur une caractéristique personnelle. Malheureusement, je ne crois pas qu’il soit justifié de qualifier la résidence de motif analogue dans le présent appel.
+[9] L’appelante a soutenu que la résidence visée aux alinéas 118.5(1)c) et 118.6(1)c) est un des fondements de l’identité d’une personne et que ce lieu correspond souvent à l’endroit où elle est née, où elle a grandi et où toutes les facettes de sa vie familiale et communautaire ont été établies. La résidence d’un individu peut être essentielle à la préservation de son identité. L’appelante a ensuite décrit en quoi Calgary est une ville unique, dans la mesure où elle a ses caractéristiques propres et un mélange sans pareil de qualités rurales et urbaines.
+[10] Au paragraphe 13 de l’arrêt Corbiere, la Cour suprême a indiqué qu’un tribunal qui se penche sur des motifs analogues doit se demander si la décision produira des effets préjudiciables à une minorité discrète et isolée ou à un groupe qui a historiquement fait l’objet de discrimination. J’estime que les personnes qui ne résident pas « près de la frontière » canado-américaine n’entrent ni dans l’une ni dans l’autre de ces catégories. En outre, l’appelante a suggéré que la résidence au sens de l’arrêt Corbiere n’a pas à être limitée à celle des Autochtones qui choisissent de vivre ou non dans une réserve, ce qui était en litige dans cette affaire, mais que la question de la discrimination fondée sur la résidence est pertinente pour le Canadien moyen. Je ne souscris pas à cet argument. Les Autochtones ont fait l’objet de discrimination tout au long de l’histoire. La décision de vivre ou non dans une réserve est lourde de conséquences pour un autochtone, tandis que celle d’un Canadien moyen de vivre ou non près de la frontière a moins de conséquences. Les deux situations ne sont pas comparables.
+[11] Il faut tenir compte des commentaires suivants émis par le juge Rothstein au paragraphe 25 de l’arrêt Archibald c. Canada (C.A.)[8] :
+En l'absence de facteurs comme la vulnérabilité associée au fait d'être membre d'une minorité discrète et isolée, ou d'une situation historique de discrimination ou de préjugés, le paragraphe 15(1) n'a pas pour objet de protéger les individus de tous les désavantages perçus incidents à leur lieu de résidence, même si la décision d'y vivre peut résulter de facteurs hors du contrôle de l'individu.
+[12] Finalement, les alinéas 118.5(1)c) et 118.6(1)c) profitent aux personnes qui vivent « près de la frontière » à l’exclusion de ceux qui n’y résident pas. Jadis, il aurait été possible de considérer que seuls ceux qui résident « près de la frontière » pouvaient tirer profit de ces dispositions parce que de façon réaliste, ils étaient les seuls à pouvoir fréquenter une école aux États-Unis. Ce raisonnement ne vaut plus aujourd’hui en raison des progrès technologiques. À l’origine, lorsque ces dispositions législatives ont été édictées, il n’était pas possible de concevoir raisonnablement que des Canadiens qui vivent dans des régions éloignées ou très loin des frontières pourraient effectuer de fréquents aller-retour entre le Canada et les États-Unis. La distinction n’a jamais été fondée sur la discrimination. La Loi ne force pas les individus à déménager près de la frontière. Les établissements d’enseignement peuvent être fréquentés par des résidents de toutes les régions du pays. En l’espèce, il s’avère qu’une contribuable a dû suivre des cours par correspondance auprès d’une institution de Seattle. La Loi n’est pas un outil équitable susceptible de prévoir toutes les situations individuelles.
+[13] La Loi dont il est question en l’espèce contient certaines anomalies. Ainsi, le législateur n’avait pas envisagé, à l’origine, la possibilité de fréquenter assidûment un cours par l’entremise de l’Internet. Mises à part quelques exceptions, les tribunaux n’ont pas compétence pour pallier les lacunes des lois[9].
+[14] Je reconnais que les conséquences de cette situation sont particulièrement injustes pour Mme Yankson. Il n’y a toutefois pas de violation de la Charte en l’espèce. Grâce à l’Internet et aux progrès de la technologie et des moyens de transport, il est parfaitement raisonnable qu’une personne puisse tirer pleinement profit de programmes de formation offerts outre frontière en dépit du fait qu’elle réside loin de la frontière canado-américaine.
+[15] Je souscris à la conclusion du juge en chef adjoint Bowman (nommé juge en chef depuis) dans Krause c. Canada[10], selon laquelle le terme « fréquente » devrait être interprété de telle sorte que la fréquentation d’un établissement d’enseignement au moyen de l’Internet soit reconnue. Au paragraphe 18, il affirme que :
+[…] parler d'une personne qui « fréquente » une université par voie électronique, au moyen d'Internet, n'est pas du tout incompatible avec mon interprétation du verbe anglais « attend ». Nous devons reconnaître que nous sommes en 2004 et que, s'il est vrai qu'il y a 25 ans une personne devait se présenter physiquement dans une salle de cours pour dire qu'elle fréquentait une université, la technologie a progressé tellement rapidement qu'il est tout à fait possible d'assister à des cours en regardant et en écoutant le professeur sur un ordinateur.
+Le juge en chef adjoint Bowman a conclu :
+[…] je crois qu'il existe de solides raisons de conclure que la fréquentation à temps plein d'une université située à l'étranger peut inclure la fréquentation à temps plein par le truchement d'Internet ou en ligne, comme c'est le cas ici. Ce point de vue est conforme à la logique et à la réalité de la technologie moderne. S'il subsiste un doute sur ce point, le Parlement devrait prendre des mesures pour l'éliminer.
+[16] Je devrais également mentionner que si les études de Mme Yankson avaient conduit à un diplôme, plutôt qu’à une attestation d’études, elle aurait droit au crédit d’impôt pour étude prévu à l’alinéa 118.5(1)b).
+[17] Je le répète, les dispositions de la Loi relatives au crédit d’impôt pour frais de scolarité et au crédit d’impôt pour étude doivent être modifiées afin d’être mises à jour. Dans l’intervalle, les contribuables qui subissent de tels effets préjudiciables devraient être indemnisés au moyen des ordonnances de remise décrites dans la Loi sur la gestion des finances publiques.
+[18] L’appel est rejeté.
+Signé à Ottawa, Canada ce 22e jour de novembre 2005.
+« Gerald J. Rip »
+Le juge Rip
+Traduction certifiée conforme
+ce 9e jour de janvier 2006
+Marie Rodrigue, traductrice
+RÉFÉRENCE : 2005CCI751
+NUMÉRO DU DOSSIER : 2005-1488(IT)I
+INTITULÉ : THERESA YANKSON ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 8 août 2005
+MOTIFS DU JUGEMENT PAR : L’honorable juge Gerald J. Rip
+DATE DU JUGEMENT : Le 22 novembre 2005
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+L’avocate de l’intimée :
+Me Marla Teeling
+AVOCATS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Les études de Mme Yankson à l’école pour sages-femmes de Seattle lui ont permis d’obtenir un diplôme et non une attestation d’études. C’est pourquoi elle ne pouvait se prévaloir de l’alinéa 118.5(1)b).
+[2] [1999] 1 R.C.S. 497.
+[3] [1999] 2 R.C.S. 203.
+[4] [1993] 2 R.C.S. 995.
+[5] [1989] 1 R.C.S. 1296.
+[6] [1990] 2 R.C.S. 254.
+[7] [2003] 1 R.C.S. 6.
+[8] [2004] A.C.J. no 857.
+[9] Sullivan, Ruth. Sullivan and Driedger on the Construction of Statutes, 4th éd. (Butterworths; 2002) à la p. 136.
+[10] [2004] T.C.J. 594.

@@ -1,0 +1,157 @@
+---
+title: "Andaluz c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/110420/index.do"
+last_modified: "2015-06-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 165"
+citation2: ""
+neutral_citation: "2015 CCI 165"
+decision_date: "2015-06-26"
+language: "fr"
+item_id: "110420"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2658
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:28:32.944000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f5a0ffb0a8443ac72e88d08d701dad824171d0f691946ad999d496b23a5b0ef9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Andaluz c. La Reine
+
+- Citation: 2015 CCI 165
+- Decision date: 2015-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2658, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Andaluz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-06-26
+Référence neutre
+2015 CCI 165
+Numéro de dossier
+2014-4453(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-4453(IT)I
+ENTRE :
+RUEL ANDALUZ,
+appelant,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 22 juin 2015 et décision rendue oralement à l’audience le 23 juin 2015, à Calgary (Alberta)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Ian Wiebe
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 2012 de l’appelant est rejeté.
+Signé à Ottawa, Canada, ce 26e jour de juin 2015
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 10e jour d’août 2015
+M.-C. Gervais
+Référence : 2015 CCI 165
+Date : 20150626
+Dossier : 2014-4453(IT)I
+ENTRE :
+RUEL ANDALUZ,
+appelant,
+et
+SA MAJESTÉ LA REINE
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] L’appelant a interjeté appel à l’encontre d’une nouvelle cotisation établie à l’égard de son année d’imposition 2012, dans laquelle le ministre du Revenu national a inclus les sommes de 12 192 $ et de 18 933 $ dans son revenu. La question en litige dans le présent appel est de savoir si l’appelant a omis de déclarer dans son revenu pour l’année 2012 une allocation de retraite non admissible de 12 192 $ et des fonds d’un régime enregistré d’épargne-retraite (« REER ») de 18 933 $.
+[2] En 2012, l’appelant occupait un poste d’analyste en technologie de l’information au sein de la société Precision Drilling (« Precision »). Il ressort de son témoignage qu’en 2012, il y a eu un désaccord entre Precision et lui, lequel s’est traduit par la perte de l’emploi de l’appelant au sein de Precision. Cette dernière et l’appelant ont négocié une entente aux termes de laquelle ce dernier a reçu l’allocation de retraite non admissible en question et les sommes qu’il avait versées dans le régime de retraite de l’entreprise.
+[3] L’appelant a soutenu qu’il n’avait pas omis de déclarer l’allocation de retraite. Il a allégué qu’elle était incluse dans le revenu d’emploi qu’il avait déclaré dans sa déclaration de revenus. En ce qui concerne la somme de 18 933 $ qu’il a retirée de son REER, l’appelant a fait valoir que, pour lui, ce n’était pas un revenu supplémentaire. Selon lui, il s’agit plutôt d’une perte financière parce qu’il a dû retirer ces fonds de manière précipitée et qu’il ne pourra pas en profiter au moment de sa retraite dans les années à venir.
+Allocation de retraite non admissible [4] L’appelant a allégué qu’il avait travaillé pour Precision de 2007 à septembre 2012. En 2012, son salaire annuel s’élevait à 85 000 $ et il recevait 7 083,33 $ par mois. Il a présenté des calculs montrant son allocation de retraite non admissible aurait déjà été incluse dans le revenu d’emploi déclaré dans son feuillet T4. Ses calculs sont les suivants :
+Salaire de base (7 083,33 $ x 8,5)
+60 208,30 $
+Système de primes à court terme
+(prime de la société)
+9 501,02 $
+Autres avantages imposables
+361,18 $
+Revenu approximatif calculé en 2012
+70 070,50 $
+Ligne 14 du feuillet T4 de 2012
+82 634,23 $
+Revenu d’emploi moins revenu calculé
+12 563,73 $
+[5] Le problème que posent ces calculs est qu’ils sont fondés sur la prémisse selon laquelle l’appelant a reçu un salaire annuel de 85 000 $ en 2012. L’avocat de l’intimée a demandé à l’appelant de présenter un élément de preuve documentaire qui viendrait appuyer son témoignage selon lequel son salaire était de 85 000 $ en 2012. L’avocat a demandé à l’appelant une copie de son contrat avec Precision ou de ses relevés bancaires de 2012, ou un talon de paie de 2012. L’appelant n’a pas fourni d’élément de preuve documentaire à l’appui de cette prémisse.
+[6] L’appelant a présenté l’impression d’une capture d’écran d’un ordinateur qui, selon ses allégations, appartiendrait à Precision. Le document imprimé s’intitulait [traduction] « Total des lignes à déclarer au gouvernement ». Le document fait état des sommes qui apparaissent dans le feuillet T4 de l’appelant émis par Precision en 2012. Ce document (pièce A-1, page 2) et le feuillet T4 pour 2012 (pièce A-1, page 3) n’appuient pas la position de l’appelant.
+[7] La pièce A-1, page 2, montre clairement que l’allocation de retraite non admissible n’a pas été incluse dans le revenu d’emploi. Le montant total de [traduction] l’« impôt retenu » est subdivisé selon la somme retenue sur le revenu régulier, la somme retenue sur les paiements forfaitaires et la somme retenue sur les paiements non périodiques, alors que le revenu d’emploi de l’appelant n’est pas subdivisé. Le revenu d’emploi et l’allocation de retraite non admissible constituent des montants distincts dans cette même pièce.
+[8] La preuve documentaire présentée par l’appelant montre que la cotisation établie par le ministre est exacte, et que l’appelant a omis de déclarer l’allocation de retraite non admissible dans sa déclaration de revenus.
+Sommes du REER [9] En ce qui a trait à la somme de 18 933 $ que l’appelant a retirée de son REER, il a allégué qu’il ne l’avait pas incluse dans sa déclaration de revenus de 2012 parce que l’impôt avait été retenu sur cette somme et qu’il pensait qu’il n’avait pas à la déclarer. Il a également dit que ce montant ne constituait pas à ses yeux un « revenu supplémentaire », mais plutôt une perte financière, et qu’il n’avait pas à l’inclure dans son revenu.
+[10] Peu importe si l’appelant subit une perte financière ultérieurement en raison de ce retrait de 18 933 $ de son REER, il est clair que cette somme constituait un revenu de l’appelant en 2012 et qu’elle aurait dû être incluse dans son revenu de la même année. L’alinéa 56(1)h) et le paragraphe 146(8) de la Loi de l’impôt sur le revenu ne sont pas ambiguës. Ils disposent ce qui suit :
+56.(1) Sans préjudice de la portée générale de l’article 3, sont à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition :
+Régime enregistré d’épargne-retraite, etc.
+h) toutes sommes relatives à un régime enregistré d’épargne-retraite ou à un fonds enregistré de revenu de retraite et qui doivent, en vertu de l’article 146, être incluses dans le calcul du revenu du contribuable pour l’année;
+146(8) Est inclus dans le calcul du revenu d’un contribuable pour une année d’imposition le total des montants qu’il a reçus au cours de l’année à titre de prestations dans le cadre de régimes enregistrés d’épargne-retraite, à l’exception des retraits exclus au sens des paragraphes 146.01(1) ou 146.02(1), et des montants qui sont inclus, en application de l’alinéa (12)b), dans le calcul de son revenu.
+[11] En conclusion, l’appelant a reçu 12 192 $ à titre d’allocation de retraite non admissible et il a retiré 18 933 $ de son REER en 2012. Il a omis de déclarer ces sommes dans sa déclaration de revenus, et la cotisation établie par le ministre est exacte. L’appel est rejeté.
+Signé à Ottawa, Canada, ce 26e jour de juin 2015.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 10e jour d’août 2015
+M.-C. Gervais
+RÉFÉRENCE :
+2015 CCI 165
+NO DU DOSSIER DE LA COUR :
+2014-4453(IT)I
+INTITULÉ :
+Ruel Andaluz ET La Reine
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Le 22 juin 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 26 juin 2015
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Ian Wiebe
+AVOCATS INSCRITSAU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

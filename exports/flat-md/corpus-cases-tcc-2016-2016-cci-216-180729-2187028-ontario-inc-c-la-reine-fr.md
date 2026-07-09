@@ -1,0 +1,149 @@
+---
+title: "2187028 Ontario Inc.c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/180729/index.do"
+last_modified: "2016-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 216"
+citation2: ""
+neutral_citation: "2016 CCI 216"
+decision_date: "2016-09-28"
+language: "fr"
+item_id: "180729"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2899
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:52:24.421000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "059c57b18ef890ca95bb0e9d9a34a35bbd93682db9dea5881ebaee32b59d0e31"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 2187028 Ontario Inc.c. La Reine
+
+- Citation: 2016 CCI 216
+- Decision date: 2016-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2899, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2187028 Ontario Inc.c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-09-28
+Référence neutre
+2016 CCI 216
+Numéro de dossier
+2016-319(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-319(IT)I
+ENTRE :
+2187028 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Appels entendus le 19 septembre 2016, à Toronto (Ontario)
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelante :
+Me Ryan L. Morris
+Avocate de l’intimée :
+Me Judy Michaely
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2012 et 2013 sont accueillis et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour nouveaux examens et nouvelles cotisations en tenant compte du fait que l’appelante n’avait pas des revenus non déclarés de 84 960 $ et de 95 770 $, respectivement, pour les années d’imposition visées. Aucune pénalité ne sera imposée.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2016.
+« Campbell J. Miller »
+Juge C. Miller
+Référence : 2016 CCI 216
+Date : 20160928
+Dossier : 2016-319(IT)I
+ENTRE :
+2187028 ONTARIO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DU JUGEMENT
+Juge C. Miller
+[1] Le ministre du Revenu national (le « ministre ») a établi des cotisations à l’égard de 2187028 Ontario Inc., l’appelante, pour les années d’imposition 2012 et 2013 en ajoutant des revenus non déclarés de 84 966 $ et de 95 770 $, respectivement, à l’entreprise de consultation en immigration de l’appelante. La position de l’appelante était que ces montants représentaient un soutien financier pour l’unique actionnaire de l’appelante, soit Calin Stone Ltd. (« Calin »), l’entreprise du mari de Mme Lin. Souvent, lorsque je reçois des explications semblables de la part de contribuables relativement à la réception de fonds provenant de l’étranger, j’observe un manque d’éléments de preuve corroborante. En l’espèce, les six membres de la famille qui sont censés avoir fourni le soutien financier devaient témoigner de la Chine, chacun ayant en main une copie des relevés des virements télégraphiques visés. Après avoir entendu deux de ces témoins, la sœur et le beau-frère de M. Lin, l’intimée a convenu que les témoignages des autres membres de la famille seraient semblables. La position de l’intimée était qu’en raison du bref libellé sur les demandes de virement télégraphique elles-mêmes, il n’était pas plausible qu’il se soit agi d’un soutien financier fourni par la famille; il s’agissait plutôt de revenus provenant de l’entreprise de consultation en immigration. Même si je reconnais que le libellé peut faire sourciller, tout bien pesé, je crois le témoignage de la famille. Je conclus donc que les fonds en question ne constituent pas des revenus non déclarés.
+FAITS [2] L’appelante est une entreprise de l’Ontario. Durant les périodes visées, elle était détenue et exploitée par Mme Lucy Lin (« Qiong Xie »). Elle exerçait ses activités sous le nom commercial IVE Immigration Services (« IVE ») depuis octobre 2008. Elle s’occupait de demandes de visas d’étudiant ou de visiteur, de demandes de résidence temporaire ou permanente et de renouvellements. Les marchés ciblés étaient le Canada et la Chine. Au Canada, l’appelante annonçait ses services dans un journal chinois de Toronto. Pour ce qui est de la Chine, Mme Lin se rendait sur place deux fois par année, ce qu’elle a d’ailleurs fait en 2010 et en 2011. Elle a expliqué qu’elle avait également trouvé des clients de la Chine par l’entremise d’un certain M. Wang, un ancien employé qui, après son retour en Chine, avait été en mesure de la mettre en contact avec des clients éventuels. Lorsqu’un intermédiaire comme M. Wang prenait part au processus, l’intermédiaire payait généralement la facture d’IVE. Toutefois, la plupart des clients ont été obtenus par l’entremise d’intermédiaires canadiens plutôt que d’intermédiaires chinois. Mme Lin a fourni des factures, ainsi que des relevés bancaires indiquant que les paiements de ces factures avaient été versés dans le compte bancaire de l’appelante. Mme Lin a affirmé qu’elle n’avait jamais demandé que les paiements soient versés ailleurs. L’appelante a déclaré, pour les exercices clos en 2011, en 2012 et en 2013, des revenus de 118 917 $, de 127 513 $ et de 65 434 $, respectivement.
+[3] Mme Lin a commencé à consacrer moins de temps à IVE en 2012 en raison des faibles revenus. Elle a également cessé de chercher de nouveaux clients. En 2013, Mme Lin n’a fait affaire qu’avec les personnes qui étaient déjà clientes de l’entreprise avant 2013. L’appelante a sous-loué ses locaux à un tiers puis, en 2013, elle les a sous-loués à Calin, l’entreprise de M. Leong Lin, le mari de Mme Lin.
+[4] En raison de la réduction progressive des activités d’IVE, Mme Lin a cherché un autre emploi en 2012. En juin 2012, elle a obtenu un poste de spécialiste en prêts hypothécaires à temps plein à la Banque Royale du Canada. Elle a pris un congé lié au stress de juin à août 2013 puis, en octobre 2013, elle a quitté son poste pour travailler pour Calin, l’entreprise de son mari. Durant cette période, elle a également touché un revenu en enseignant l’anglais comme langue seconde.
+[5] Je me penche maintenant sur l’entreprise de M. Lin. Il a démarré Calin en 2011, entreprise qu’il décrit comme saisonnière. Les activités de l’entreprise consistaient à vendre et à installer des pierres dans le cadre de projets d’aménagement paysager. Il éprouvait de la difficulté à obtenir du financement bancaire et avait besoin d’un soutien financier pour passer les mois de l’hiver 2011-2012. Il s’est donc tourné vers sa famille, en Chine, pour obtenir de l’aide. Comme l’année suivante a été semblable, il s’est de nouveau tourné vers sa famille pour obtenir un soutien financier. Il a admis que l’entreprise avait éprouvé de nombreux problèmes au cours des premières années. L’entreprise devait louer un grand espace pour entreposer les stocks, de même que les camions, les chariots élévateurs et les plateformes. Plusieurs employés étaient aussi nécessaires. M. Lin a indiqué que les dépenses de l’entreprise étaient énormes. Il a eu besoin de soutien financier durant plusieurs années.
+[6] Selon la sœur de M. Lin, qui a témoigné de la Chine, la famille s’est réunie pour discuter après avoir reçu la demande de M. Lin. Les membres de la famille ont déterminé qu’ils pouvaient apporter leur aide, mais ils ont limité le premier virement à un montant inférieur à celui demandé par M. Lin. Des demandes semblables ont été faites chaque année durant les premières années d’activité de Calin. Je joins aux présents motifs l’annexe 1 indiquant les fonds virés à M. Lin par les membres de sa famille entre décembre 2011 et juillet 2015. Par souci de clarté, je précise que seuls les six premiers virements qui figurent à l’annexe 1 sont en cause. Ces virements provenaient des deux sœurs de M. Lin, de son père et de l’un de ses beaux-frères. Les autres virements figurant à l’annexe 1 provenaient également de membres de la famille de M. Lin, y compris de sa mère et d’autres membres de sa belle-famille. Tous les virements ont été étayés par des copies des [traduction] « demandes de virement de fonds à l’étranger » (les « formulaires de virement »).
+[7] Les formulaires de virement étaient en anglais et en chinois. La case 70 du formulaire était intitulée [traduction] « Renseignements sur le versement » et, plus loin dans le formulaire, on trouve une section intitulée [traduction] « Remarque sur la transaction ». Sur quatre des six formulaires de virement en cause était indiqué [traduction] « études à l’étranger » (en chinois) dans la section des remarques sur la transaction. Sur un des formulaires de virement était indiqué [traduction] « frais de subsistance » et sur l’autre, [traduction] « visite à des proches » (en chinois). Sur ce dernier formulaire était également indiqué [traduction] « frais de subsistance » (en chinois) dans la section des renseignements sur le versement. Tous ces renseignements figurent dans l’annexe 1. Tous les fonds ont été virés sur le compte conjoint personnel de M. et Mme Lin.
+[8] Je souligne également que les virements se sont poursuivis en 2013, en 2014 et en 2015, les trois derniers ayant été effectués après que l’Agence du revenu du Canada (« ARC ») eut amorcé son enquête. Les formulaires de virement indiquaient alors [traduction] « frais de subsistance » plutôt que [traduction] « études à l’étranger » ou [traduction] « visite à des proches ».
+[9] En ce qui concerne les remarques contenues dans les formulaires de virement, tous les membres de la famille ont indiqué dans leur témoignage qu’il était important de ne faire référence à aucune activité commerciale puisque cela pouvait donner lieu à davantage d’enquêtes. Ils ont affirmé qu’on leur avait dit que ces remarques n’étaient pas importantes et que le représentant de la banque les inscrivait lui-même. Ils n’ont porté aucune attention à ces remarques jusqu’à ce que des préoccupations soient soulevées par l’ARC.
+[10] M. He (le beau-frère de M. Lin), qui a également témoigné de la Chine, a indiqué qu’il avait mentionné au représentant de la banque que les fonds devaient servir à payer des frais de subsistance, ce qui a été inscrit dans la section des renseignements sur le versement; cependant, la remarque [traduction] « visite à des proches » a été inscrite dans la section des remarques sur la transaction. M. He a lui aussi précisé que, selon la banque, ces remarques n’étaient pas importantes et qu’il s’agissait là d’une pratique courante. Seuls importaient le nom, le compte et le montant.
+[11] La position de la famille est que les virements, à l’exception de ceux faits par la mère et le père de M. Lin, constituaient des prêts. Aucun intérêt ne devait être facturé dans le cadre de ces arrangements, comme le veut leur culture. Il n’existait aucun document de prêt. En ce qui concerne les remboursements, une des sœurs de M. Lin a exigé un remboursement afin de pouvoir réaliser certains travaux de rénovation résidentielle. Sa mère lui avait mentionné que si M. Lin n’arrivait pas à la rembourser, elle la rembourserait elle-même. M. Lin a affirmé que même s’il n’avait pas encore été en mesure de la rembourser, il avait toujours l’intention de le faire.
+[12] Enfin, Mme Lin a reconnu qu’à deux reprises, en 2011 et en 2012, elle avait eu des revenus non déclarés de 3 500 $ et de 13 200 $, respectivement, qu’elle expliquait par de simples erreurs de comptabilité. Ces revenus n’avaient rien à voir avec de possibles revenus provenant de l’étranger. Calin a également eu des revenus non déclarés de 36 000 $, mais je ne sais pas exactement à quelle année ces revenus étaient liés.
+ANALYSE [13] La seule question en litige est de savoir si les montants de 84 960 $, en 2012, et de 95 770 $, en 2013 (les « montants en cause ») constituent des revenus non déclarés provenant des services de consultation en immigration de l’appelante. M. et Mme Lin de même que la famille de celle-ci ont fourni la preuve que les montants en cause ne constituaient pas des revenus non déclarés, mais plutôt un soutien financier fourni à M. Lin par les membres de la famille. Le sommaire des virements télégraphiques démontre que ces virements ont été effectués par les sœurs, la mère, le père, la belle-mère et le beau-frère de M. Lin. Rien dans les témoignages n’indiquait que les fonds provenaient des services de consultation en immigration. L’argument du gouvernement est que l’histoire des Lin n’est pas crédible pour les raisons qui suivent.
+[14] Sur quatre des formulaires de demande de virement télégraphique était indiqué [traduction] « études à l’étranger » dans la section des remarques. L’intimée fait valoir que puisque les activités de l’appelante consistaient notamment à obtenir des visas pour des étudiants, il n’est pas crédible qu’un représentant de la banque aurait, de sa propre initiative, indiqué cette brève explication faisant directement référence aux activités de l’entreprise s’il ne s’agissait en fait que d’un prêt ou d’un cadeau fait par des membres de la famille. Sur un autre formulaire de virement télégraphique était indiqué [traduction] « visite à des proches », une autre expression pouvant faire référence aux activités de l’entreprise de consultation en immigration qui consistaient à aider des personnes à obtenir des visas de visiteur.
+[15] De plus, le ministre soutient que même si la preuve fournie par les huit témoins était cohérente, ils avaient tous intérêt à soutenir un membre de la famille.
+[16] Enfin, l’intimée fait valoir qu’il existe des antécédents de non-divulgation, Mme Lin ayant reconnu avoir déjà omis de déclarer des revenus.
+[17] La présente affaire a peu à voir avec l’interprétation des lois fiscales complexes. Elle nécessite essentiellement de tirer des conclusions de fait et d’évaluer la crédibilité. Les fonds en cause provenant de tiers ont-ils été reçus dans le cadre des services de consultation en immigration de l’appelante ou constituaient-ils uniquement un soutien financier fourni par les membres de la famille?
+[18] Malheureusement, aucune des parties n’a produit de témoignage indépendant. La famille de l’appelante a fourni une explication, mais l’intimée, quant à elle, n’a présenté aucun agent qui aurait pu répondre aux questions relativement aux incohérences soulevées dans le cadre des entrevues des membres de la famille (si des entrevues ont effectivement eu lieu), aux questions de savoir si des demandes de renseignements avaient été présentées aux autorités canadiennes et chinoises compétentes quant aux pratiques bancaires chinoises concernant les virements de fonds, aux questions relatives à la demande de dossiers de la Chine, aux questions concernant l’étendue de l’enquête faite au sujet des clients du service de consultation en immigration (si l’ARC a effectivement communiqué avec des clients de l’entreprise), etc. J’aurais beaucoup d’autres questions à poser.
+[19] Je demande, toutefois, si Mme Lin tentait de cacher des revenus du service de consultation en immigration au moyen d’un stratagème élaboré de paiement visant à faire passer les fonds par plusieurs membres de sa famille, pourquoi aurait-elle laissé les formulaires de virement faire indirectement référence à ses activités par les remarques [traduction] « études à l’étranger » et [traduction] « visite à des proches »? Si Mme Lin tentait de cacher des revenus du service de consultation en immigration, pourquoi ce stratagème se serait-il poursuivi bien après qu’elle eut cessé ces activités auxquelles elle n’avait plus de temps à consacrer puisqu’elle occupait un nouvel emploi? Si Mme Lin tentait de cacher d’importants revenus du service de consultation en immigration, indiquant que ce service représentait une source de revenus considérable, pourquoi aurait-elle abandonné ces activités lorsqu’elle l’a fait? À mon avis, la réponse à ces questions est qu’elle ne se serait probablement pas comportée de cette façon si elle avait effectivement tenté de cacher des revenus.
+[20] Je reconnais que je me suis heurté à certaines préoccupations avant d’en arriver à cette conclusion, mais ces préoccupations ne l’emportent pas sur les témoignages cohérents des membres de la famille. Les principales préoccupations concernent les remarques sur les formulaires de virement. À cet égard, les membres de la famille ont expliqué qu’il était préférable d’indiquer des remarques qui n’étaient pas liées à l’entreprise, que le motif personnel n’était pas si important et que l’employé de la banque s’était lui-même chargé des remarques. Il n’est pas inconcevable que seules quelques remarques d’ordre personnel soient utilisées dans ces formulaires. Le mystère n’est tout simplement pas aussi grand que le suggère l’intimée. Une fois de plus, il s’agit ici d’évaluer les probabilités.
+[21] De son côté, l’intimée est préoccupée par le fait qu’il existe des antécédents familiaux de non-divulgation de revenus. Puis-je accepter l’explication de Mme Lin (et ses excuses)? Je peux les accepter et je les accepte. Mme Lin a commis des erreurs.
+[22] J’accueille les appels et je les renvoie au ministre pour réexamen et nouvelle cotisation pour le motif que l’appelante n’a pas eu de revenus non déclarés de 84 960 $ et de 95 770 $ en 2012 et en 2013. Par conséquent, aucune pénalité ne sera imposée.
+[23] Bien que je me sois ultimement prononcé en faveur de l’appelante, Mme Lin doit savoir que je comprends parfaitement pourquoi l’intimée a remis en question ces virements. La vérité n’a pas été clairement établie; j’ai rendu mon jugement selon la prépondérance des probabilités en faveur de l’entreprise.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2016.
+« Campbell J. Miller »
+Juge C. Miller
+ANNEXE 1
+RÉFÉRENCE :
+2016 CCI 216
+No DU DOSSIER DE LA COUR :
+2016-319(IT)I
+INTITULÉ :
+2187028 ONTARIO INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 19 septembre 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+Le 28 septembre 2016
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Ryan L. Morris
+Avocate de l’intimée :
+Me Judy Michaely
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Ryan L. Morris
+Cabinet :
+WeirFoulds LLP
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

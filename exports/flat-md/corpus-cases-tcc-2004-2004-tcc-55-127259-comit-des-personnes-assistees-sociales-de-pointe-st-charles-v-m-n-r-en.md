@@ -1,0 +1,164 @@
+---
+title: "Comité des personnes assistees sociales de Pointe St.Charles v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/127259/index.do"
+last_modified: "2004-01-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 55"
+citation2: ""
+neutral_citation: "2004 TCC 55"
+decision_date: "2004-01-15"
+language: "en"
+item_id: "127259"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3048
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:54:30.106000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e4e550f0b861b03e558031e27d154f84fd1177e68457dc24284abb895bf5bc40"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Comité des personnes assistees sociales de Pointe St.Charles v. M.N.R.
+
+- Citation: 2004 TCC 55
+- Decision date: 2004-01-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3048, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Comité des personnes assistees sociales de Pointe St.Charles v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-15
+Neutral citation
+2004 TCC 55
+File numbers
+2003-1081(EI)
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Employment Insurance Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2003-1081(EI)
+BETWEEN:
+COMITÉ DES PERSONNES ASSISTÉES
+SOCIALES DE POINTE ST-CHARLES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MICHEL TOURIGNY,
+Intervener.
+____________________________________________________________________
+Appeal heard on January 5, 2004, at Montréal, Quebec
+Before: The Honourable Judge Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Violaine Belzile
+Counsel for the Respondent:
+Agathe Cavanagh
+Counsel for the Intervener:
+Roch Guertin
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act concerning the decision of the Minister of National Revenue dated December 18, 2002, is allowed and the Intervener’s arguments are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 15th day of January 2004.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Certified true translation
+Manon Boucher
+[OFFICIAL ENGLISH TRANSLATION]
+Reference: 2004TCC55
+Date: 20040115
+Docket: 2003-1081(EI)
+BETWEEN:
+COMITÉ DES PERSONNES ASSISTÉES
+SOCIALES DE POINTE ST-CHARLES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+MICHEL TOURIGNY,
+Intervener.
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] The Appellant is appealing the decision of the Minister of National Revenue (the "Minister") dated December 18, 2002, stating that for the period from August 26, 2001, to June 2, 2002, Michel Tourigny had insurable employment with the Appellant.
+[2] The facts on which the Minister relied in making the decision are described in paragraph 9 of the Response to the Notice of Appeal (the “Response”) as follows:
+[translation]
+(a) The Appellant is a non-profit organization that helps people on social assistance in Pointe St‑Charles.
+(b) During the period at issue, the Worker provided services to the Appellant while still receiving social assistance.
+(c) The Worker’s main tasks were as follows:
+— keeping the books,
+— preparing the payroll for the Appellant’s employees,
+— answering the telephone,
+— researching grants, and
+— coordinating the activities of the Appellant’s committee.
+(d) The Worker worked in the office of the Appellant.
+(e) The Appellant provided all the equipment and supplies needed for the Worker to do his job.
+(f) The Worker worked from Monday to Thursday, from 10 a.m. to 4:30 p.m., a total of 20 hours per week.
+(g) The Worker received a fixed amount of $50 per week from the Appellant for his services.
+(h) The Appellant considered the $50 paid to the Worker as reimbursement of the costs incurred by the Worker.
+(i) During the period at issue, the Worker worked 800 hours for the Appellant, or 40 weeks of 20 hours.
+(j) During the period at issue, the Worker received from the Appellant $2,000, for 40 weeks at $50.
+[3] The Notice of Appeal states the following:
+[translation]
+The C.P.A.S. is a non-profit, purely charitable organization that promotes having as many members as possible take responsibility for the organization to help people on social assistance develop independence and initiative so that they can actively participate in the life of their community.
+Thus, we are challenging the insurability of the reimbursement of the Michel Tourigny’s volunteer costs for the period from August 26, 2001, to June 2, 2002, on the grounds that we cannot conceive that Michel Tourigny’s hours of volunteer work could be considered insurable earnings.
+[4] I do not think it would be useful to reproduce the Notice of Intervention dated May 1, 2003, because it contains accusations against the administrators of the Appellant rather than a statement of the terms and conditions of hiring the Intervener and the description of his duties.
+[5] In many of the documents and during the hearing, the Appellant was referred to by the acronym C.P.A.S.
+[6] Françoise Beauchamp, Chair of the Board of Directors of the Appellant since 2000, testified. She explained that the Appellant was a non-profit organization that informed people on social assistance of their rights and taught them to assert those rights. The organization tries to help people on social assistance escape their isolation. In this respect it invites them to information sessions and also has them participate in projects.
+[7] It is an organization that operates through volunteers, although it also has employees, rarely more than two of them. The number of volunteers working in the organization varies. Some volunteers are more involved than others. The purpose of using people on social assistance is to promote their social reintegration and give them self-confidence. The Appellant gives its volunteers some compensation, which is considered to be reimbursement for meals, bus tickets and clothing.
+[8] She produced in a bundle as Exhibit A‑1 documents regarding Mr. Tourigny’s work. The first document is the minutes of a special meeting of the Board of Directors held on November 16, 2000, regarding the secretary’s position. Given that the employee who was the secretary ended her contract on November 9, 2000, because of illness, it was suggested that the C.P.A.S. sign a service agreement with Michel Tourigny to carry out administrative support duties and that the agreement would begin on November 20, 2000, for a set period of six consecutive months, at 20 hours per week and an honorarium of $50 per week.
+[9] Ms. Beauchamp explained that it was clear in everyone’s mind that this was not an employment contract. A person who volunteers chooses his or her duties and hours. In an employment contract the pay is higher and the working conditions are different with respect to the hours of work. She said that a minimum wage rate was suggested to Mr. Tourigny but he refused because he did not see how that was in his interests or those of the Appellant. He wanted to find work at an hourly rate higher than minimum wage. Mr. Tourigny became a paid employee in June 2002. He was paid $12 or $13 an hour for 30- to 35-hour workweeks. Unfortunately this paid employment only lasted three months. Ms. Beauchamp explained that every three months there is an evaluation of the employees’ work and this evaluation marked the end of Mr. Tourigny’s employment.
+[10] Exhibit A-1 includes a document dated October 30, 2001, that is a signed agreement between Yvan Courtois and Ms. Beauchamp. According to Ms. Beauchamp, Mr. Courtois was in a similar situation to that of Mr. Tourigny. This agreement, which sets out the parties’ intentions, reads as follows:
+[translation]
+Service agreement between Yvan Courtois and the C.P.A.S. that began on January 11 ended on October 30, 2001.
+This agreement was not an employment contract. Rather a monthly lump sum was given to him at his request to cover part of his expenses and needs, which allowed him to do his volunteer work.
+It was clear that this agreement did not represent the hiring of an employee and the parties’ intent was to help out Yvan Courtois without adding further responsibilities to the organization since its financial situation did not allow it to offer other types of agreements.
+Yvan Courtois received his last cheque under the service agreement in October 2001.
+[11] In cross-examination, counsel for the Intervener noted that the term “volunteer” is never used in the agreements, rather that service agreements and schedules are mentioned. Ms. Beauchamp said that the agreements were intended to integrate people on social assistance into the world of work, hence the terms used. However, in her opinion, both parties to the agreement were fully aware that that it was not an employment contract. She also mentioned that some of the duties of the former secretary were not continued by Mr. Tourigny.
+[12] Mr. Tourigny said that it was false that he wanted to sign a volunteer agreement. In his opinion, it was an employment contract. Afterwards, while carrying out the same duties, he was paid $13.34 an hour for a total of $400.20 per week for 30 hours of work, from June 30, 2002, to September 12, 2002. He does not understand why his employment contract was not renewed since he did the same things he had done for over a year prior.
+[13] The Intervener produced as Exhibit INT‑3 cheque stubs indicating source deductions for employment insurance at a rate of $1.20 for every $50 payment. The total pay was $48.80. When asked about this, Ms. Beauchamp said that she believes that she signed the cheques for $48.80 but that she thought that amount was needed to avoid exceeding $200 per month, since there are 52 weeks in a year. She never authorized the deduction of employment insurance premiums.
+[14] T4s were also issued by the Appellant to Michel Tourigny indicating employment income of $300 for 2000 and $2,600 for 2001. Mr. Tourigny was responsible for the accounting.
+[15] Mr. Tourigny has filed a claim with the Commission des normes du travail for payment of minimum wage for the period at issue.
+[16] Ms. Thuyen Ngo, a socio‑economic support officer at the Ministère de l'emploi et de la solidarité sociale, testified on behalf of the Intervener. She explained that adults receive $533 per month in social assistance. They can earn up to $200 per month without the payment being reduced. The Appellant paid him that amount. This claim for minimum wage will soon be heard in the Court of Quebec.
+Arguments
+[17] Counsel for the Appellant states that it was necessary to determine the nature of the agreement between the parties. Was it an employment contract or a volunteer agreement? The nature of the agreement will be determined from the credibility of the witnesses and the facts. Counsel notes that compensation is an essential component of an employment contract. This compensation reveals the nature of the agreement between the parties.
+[18] Counsel for the Intervener states that the Intervener agreed to be paid $50 per week, but that it was not a volunteer agreement but an employment contract. The Appellant wanted part of the wages to be paid by social assistance. This contravenes the Minimum Wage Act.
+[19] Counsel for the Respondent states that there is no solid evidence that it is a volunteer agreement. The term was not used in any agreement or resolution of the Board of Directors.
+Conclusion
+[20] This case involves a non-profit organization that, with a view to social reintegration, offers volunteer work to people on social assistance and provides them with a certain amount as compensation for the costs of working. In a social context, it would be dangerous to turn volunteer work agreements into employment contracts unless that is what they really are. The budgets of these organizations are precarious, always at the discretion of the governments or organizations that fund them.
+[21] The conditions of volunteer work are known by those who accept to be volunteers. Normally, volunteer working conditions, including its supervision, are not the same as those of a paid employee. Nevertheless, volunteers must accept the specific conditions of the organization they offer to help. Volunteers must be reliable and do the work they offered to do; otherwise, they are not useful to the organization they are volunteering with. At times, volunteers may put more energy into their work than paid employees.
+[22] To understand the true nature of an agreement, it is important to refer to the common intent. Here it is not clear at first glance. Mr. Tourigny made the deduction required by law on the $50 payments he received each week, as if it were wages. This indicates that he wanted to be considered an employee. Moreover, the Chair of the Appellant mentioned that she was not aware of these deductions and that she had not authorized them, as the Appellant never intended to create an employment contract.
+[23] Did the evidence show that Mr. Tourigny was aware of the volunteer working conditions? He kept the books for the Appellant and was aware of the Appellant’s financial situation. He was fully aware that at the Appellant a volunteer agreement could not be an employment contract. He knew that the Appellant operated with the help of volunteers and that these agreements set out a description of duties, hours and a small compensation for the costs incurred by someone working outside the home.
+[24] I am of the opinion that, under the circumstances of the instant case, the Intervener knew that the agreement between him and the Appellant involved the work of a volunteer and not a paid employee and that the common intent of the parties was to establish a volunteer agreement and not an employment contract.
+[25] Like the Intervener, many people work as volunteer with the purpose of then finding paid employment, either with the same organization or a similar organization. Mr. Tourigny found a better paying job with the same organization. Unfortunately this job was terminated three months later, following a quarterly evaluation. This is doubtless regrettable. However, you cannot, based on this event, change the legal nature of the previous agreement as trust is the foundation of legal relationships between social organizations and their volunteers.
+[26] The appeal is allowed and the intervention dismissed.
+Signed at Ottawa, Canada, this 15th day of January 2004.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Certified true translation
+Manon Boucher

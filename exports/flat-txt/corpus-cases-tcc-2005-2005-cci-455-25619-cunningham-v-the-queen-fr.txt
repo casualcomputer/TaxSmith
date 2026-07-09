@@ -1,0 +1,72 @@
+Title: Cunningham v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25619/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-455-25619-cunningham-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-07-22
+
+# Cunningham v. The Queen
+
+- Citation: 2005 CCI 455
+- Decision date: 2005-07-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2426, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cunningham v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-07-22
+Référence neutre
+2005 CCI 455
+Numéro de dossier
+2004-4409(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI455
+Date : 20050722
+Dossier : 2004-4409(IT)I
+ENTRE :
+MUI YEAH MARGARET CUNNINGHAM,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(rendus oralement à l'audience le 6 juin 2005, à Vancouver (Colombie-Britannique))
+La juge Woods
+[1] Il s'agit d'un appel interjeté par Margaret Cunningham contre une cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002. Cette cotisation a eu pour effet de refuser à Mme Cunningham le crédit d'impôt pour études qu'elle avait demandé pour son inscription à un programme de maîtrise en sciences infirmières à l'Université de la Colombie-Britannique.
+[2] La disposition pertinente de la Loi est le paragraphe 118.6(2). En règle générale, ce paragraphe permet à un contribuable d'obtenir un crédit d'impôt correspondant à un montant donné pour chacun des mois de l'année d'imposition au cours desquels il est inscrit à un programme de formation admissible. Mme Cunningham a demandé le crédit pour 12 mois en 2002.
+[3] Il faut remplir un certain nombre de conditions pour avoir droit au crédit. La Couronne a formulé des réserves à l'égard d'une seule de ces conditions, soit l'exception dont il est question à l'alinéa b) de la définition du terme « programme de formation admissible » . J'ai présumé que les autres conditions sont remplies et que l'alinéa b) représente la seule question en litige.
+[4] La contribuable a obtenu un diplôme en sciences infirmières à Singapour en 1983 et elle a travaillé comme infirmière dans ce pays avant son arrivée au Canada, en 1990. En 1995, elle s'est inscrite à l'université pour faire un baccalauréat en sciences infirmières, qu'elle a obtenu en 1999. Tout de suite après, elle s'est inscrite à un programme de maîtrise en sciences infirmières, et elle a obtenu son diplôme en 2004. La contribuable a donc été inscrite à une université canadienne de 1995 à 2004.
+[5] Au début de 2002, la contribuable travaillait comme infirmière à l'hôpital St. Paul's de Vancouver. En février de cette année-là, elle a accepté un détachement de deux mois pour agir comme enseignante clinique à l'Université de la Colombie-Britannique. Pendant cette période, la contribuable a continué d'être rémunérée par l'hôpital St. Paul's, qui était remboursé par l'université.
+[6] Après son détachement, la contribuable a été embauchée comme enseignante clinique par un autre établissement, le Collège communautaire de Vancouver. Elle a exercé cet emploi de la mi-mai à la fin de juillet et, pendant cette période, elle a pris un congé autorisé de l'hôpital St. Paul's.
+[7] À la fin de l'été, la contribuable a accepté un contrat d'un an comme enseignante clinique à l'Université de la Colombie-Britannique. Elle a donc prolongé d'un an son congé de l'hôpital St. Paul's.
+[8] Le travail d'un enseignant clinique consiste essentiellement à encadrer les étudiants dans les hôpitaux. En outre, un enseignant clinique est appelé à donner quelques cours magistraux et à superviser des laboratoires au cours desquels les étudiants mettent en pratique les techniques infirmières de base.
+[9] La contribuable a témoigné qu'elle a suivi les programmes de baccalauréat et de maîtrise pour son perfectionnement personnel et professionnel, et que ses travaux universitaires n'étaient liés à aucun emploi.
+[10] Je vais maintenant procéder à une analyse pour déterminer si l'exception prévue à l'alinéa b) s'applique et, donc, si le crédit d'impôt doit être refusé dans les circonstances.
+[11] L'alinéa b) présente un critère comportant deux volets, qui doivent être réunis pour que le crédit d'impôt soit refusé. Tout d'abord, il faut que l'étudiant suive le programme pendant une période pour laquelle il reçoit un revenu d'une charge ou d'un emploi. Ensuite, il faut que l'étudiant suive ce programme en rapport avec cette charge ou cet emploi ou dans le cadre des fonctions y afférentes.
+[12] J'ai déterminé que l'alinéa b) ne s'applique pas aux faits en cause. Je juge que la contribuable a suivi le programme pour son perfectionnement personnel et professionnel en général et non pas en rapport avec un emploi donné. Voici les raisons de ma décision.
+[13] Je tiens tout d'abord à signaler que mon analyse porte sur le programme dans son ensemble : soit il est un programme de formation admissible, soit il ne l'est pas. De plus, la définition fait la distinction entre le programme dans son ensemble et des cours faisant partie du programme. En conséquence, la question est de savoir si le programme de maîtrise dans son ensemble - et non pas un cours en particulier - est admissible. Ensuite, il faut déterminer si le programme de maîtrise auquel la contribuable a été inscrite de 1999 à 2004 a été suivi en rapport avec un emploi.
+[14] Je vois que le terme « suit » est employé à l'alinéa b) - l'étudiant suit un programme en rapport avec une charge ou un emploi. Cela semble indiquer qu'un des facteurs importants à prendre en considération pour déterminer si le programme est admissible est la raison pour laquelle la contribuable s'y est inscrite au départ. Généralement, si un étudiant suit un programme de formation en rapport avec un emploi, il a déjà cet emploi au moment de son inscription. Le point de départ de l'analyse devrait donc être la détermination de la raison pour laquelle la contribuable s'est inscrite au programme au départ.
+[15] En l'espèce, la contribuable s'est inscrite au programme en 1999. Je ne me souviens d'aucune preuve selon laquelle la contribuable avait un emploi en 1999, car l'audience a porté sur l'année d'imposition 2002. En l'absence d'une telle preuve, rien n'indique que la contribuable a commencé à suivre le programme de maîtrise en rapport avec un emploi donné.
+[16] Même si la contribuable avait occupé un emploi d'infirmière exerçante en 1999, je ne pense pas que l'alinéa b) s'appliquerait à cet emploi parce que le programme de maîtrise n'était pas lié dans une grande mesure à la pratique des sciences infirmières. La preuve présentée par la contribuable quant à ses cours donne à penser que le programme ne visait pas l'enseignement des techniques infirmières en soi. Il portait davantage sur l'étude théorique que sur la pratique des sciences infirmières.
+[17] Je vais maintenant déterminer si la contribuable a suivi le programme de maîtrise en rapport avec les emplois d'enseignante qu'elle a exercés à partir de 2002, quelque trois ans après s'être inscrite au programme de maîtrise. Comme je l'ai dit plus tôt, il serait plutôt inhabituel que l'alinéa b) s'applique à un emploi obtenu après le début d'un programme de formation. Dans ces circonstances, il est improbable que la contribuable ait suivi le programme de maîtrise en rapport avec ces emplois.
+[18] De plus, d'après les faits en cause, le rapport entre le programme de maîtrise et les emplois d'enseignante est ténu. La contribuable aurait sans doute poursuivi son programme de maîtrise, peu importe si elle avait obtenu un poste d'enseignante. Parallèlement, elle aurait pu être embauchée comme enseignante sans être inscrite au programme de maîtrise. En outre, l'enseignement clinique porte sur la pratique des sciences infirmières, ce qui ne correspond pas vraiment à la matière théorique traitée dans le cadre du programme de maîtrise. Je suis d'accord avec l'avocat de la Couronne que le terme « en rapport avec » a un sens large, mais j'estime qu'un rapport négligeable est insuffisant.
+[19] La Couronne dit que son interprétation du terme « en rapport avec » est conforme à l'objet de la loi, qui consiste à fournir un encouragement aux études dans un nouveau domaine d'activité. Je ne suis pas d'accord.
+[20] L'objet principal du crédit d'impôt pour études semble être d'encourager les études supérieures. L'objet de la loi me paraît assez vaste. Les exceptions prévues aux alinéas a) et b) me portent à croire que l'intention du législateur est de refuser le crédit aux contribuables qui reçoivent une aide financière pour suivre un programme de formation. L'alinéa a) porte sur l'aide financière directe, et l'alinéa b), sur l'aide financière indirecte. Je constate qu'un rapport avec un domaine d'activité ou une profession ne suffit pas. Il doit y avoir un rapport avec une charge ou un emploi. En outre, l'alinéa b) fait allusion de façon plutôt inhabituelle au « revenu » d'un emploi. Cela semble indiquer un lien entre le revenu et le programme de formation. Pour ces raisons, je ne suis pas convaincue que l'intention du législateur est aussi vaste que la Couronne le pense.
+[21] Pour toutes ces raisons, je juge que le crédit d'impôt pour études demandé par la contribuable pour l'année d'imposition 2002 doit lui être accordé. De plus, j'accorde à la contribuable les dépens qui peuvent lui être adjugés conformément aux règles pertinentes.
+Signé à Toronto (Ontario), ce 22e jour de juillet 2005.
+« J. Woods »
+La juge Woods
+Traduction certifiée conforme
+ce 18e jour de janvier 2006.
+Joanne Robert, traductrice

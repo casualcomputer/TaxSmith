@@ -1,0 +1,85 @@
+Title: Gestion Louma Inc. v. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29633/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-61-29633-gestion-louma-inc-v-la-reine-en.md
+Document type: case_law
+Last modified: 2010-02-01
+
+# Gestion Louma Inc. v. La Reine
+
+- Citation: 2010 TCC 61
+- Decision date: 2010-02-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6140, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gestion Louma Inc. v. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-01
+Neutral citation
+2010 TCC 61
+File numbers
+2007-1282(GST)G
+Judges and Taxing Officers
+Wallis Kempo
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-1282(GST)G
+BETWEEN:
+GESTION LOUMA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+CERTIFICATE OF COSTS
+I CERTIFY that I have taxed the party and party costs of the Appellant in this proceeding under subsection 153(1) of the Tax Court of Canada Rules (General Procedure) and I ALLOW THE SUM OF $85,617.71.
+Signed at Toronto, Ontario, this 1st day of February 2010.
+"Johanne Parent"
+Taxing Officer
+Translation certified true
+on this 26th day of March 2010.
+Brian McCordick, Translator
+Citation: 2010 TCC 61
+Date: 20100201
+Docket: 2007-1282(GST)G
+BETWEEN:
+GESTION LOUMA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR TAXATION
+Johanne Parent, Taxing Officer
+[1] On December 5, 2009, the Court (per the Honourable Justice Alain Tardif) allowed the appeal from the Notice of Assessment bearing the number 22233, and referred the assessment back to the Minister of National Revenue for reconsideration and reassessment based on the terms of the Consent to Judgment between the parties, with costs to the Appellant. The taxation of the Appellant's bill of costs was heard by teleconference on Wednesday, January 6, 2010. The Appellant was represented by Dominic C. Belley, and the Respondent was represented by Benoît Denis.
+[2] At the hearing, the Respondent conceded all the costs claimed under Tariff B (Class C) of the Tax Court of Canada Rules (General Procedure) for a total of $8,750, as well as the disbursements claimed for the following items: court fees ($550); bailiff fees ($225.50); transcription ($2,450.10); the costs of the expert Jacques Binette ($849); and a fraction of the costs for the work done on two other expert reports (Bodycote Testing Group: $3,500, and KPMG LLP: $35,791.78).
+[3] The primary issue involves the taxation of expert reports and photocopies that preceded the filing of the Notice of Appeal.
+[4] The main thrust of the Respondent's argument regarding the Bodycote and KPMG expert fees is that some of the invoices that were submitted are dated prior to the Notice of Appeal. Based on the decisions in Gulliver's Travels Motor Hotel Ltd v. Canada (Minister of National Revenue – M.N.R.), [1993] 1 C.T.C. 2236 (T.C.C.), Paquette v. Canada, [1999] T.C.J. No. 794, Veldman v. Canada (Minister of National Revenue – M.N.R.), 92 DTC 1334 (T.C.C.) and Taylor v. Canada, [2009] G.S.T.C. 144, counsel submits that nothing prior to the filing of the Notice of Appeal can be taxed. With regard to the photocopying and faxing costs that have been claimed, counsel for the Respondent raises the same argument. Furthermore, citing Crompton v. Canada, [1998] 1 C.T.C. 2156 (T.C.C.), he submits that these costs cannot be claimed at a fixed rate, but rather at their actual cost. And with respect to the cost of the photocopies claimed, counsel for the Respondent states that the rate allowed by the Tax Court of Canada Rules (General Procedure) is $0.20 per page, not $0.25 as claimed in the bill of costs.
+[5] In a brief chronology of the matter, which provided the background of the appeal and justified the number of exhibits in the file, counsel for the Appellant submitted that the Respondent's auditor paid no attention to the taxpayer's assessment and books, and that she relied solely on alcohol purchases. According to the Appellant's argument, the taxpayer was assessed based on two arbitrary assumptions that needed to be reversed: (1) all alcohol purchases resulted in a sale; and (2) the estimated volume of alcohol per container.
+[6] Counsel for the Appellant submits that, from the moment the Notice of Appeal was filed, he was able to challenge the Minister's assumptions and provide evidence in support of his positions. In the Appellant's submission, the experts' mandates were no different before or after the filing of the Notice of Appeal. The things that were done, and the expenses that were incurred, were part of a single continuum, and only made sense as part of the instant appeal. In support of the argument regarding the costs incurred before filing, counsel refers to two decisions: Scavuzzo v. Canada, 2006 TCC 90 and Carr v. Canada (Minister of National Revenue – M.N.R.), [1996] 2 C.T.C. 100 (F.C.A.). Counsel further submits that the taxpayer always cooperated with the Department and, in addition to making two settlement offers, even offered to let his opponent consult the expert reports before the hearing. He also argues that the Consent to Judgment, which was signed on the second day of a trial that was to last five days and which covered the full amounts in the Notice of Appeal as well as costs, should create an inference in the Appellant's favour upon the assessment of costs.
+[7] With respect to the photocopies and faxes, it is conceded that although some of these costs were incurred before the filing of the Notice of Appeal, they were part of a single continuum. As for the actual cost of the photocopies, it is submitted that the Respondent's laxity in this matter justifies a complete repayment of the costs incurred by the Appellant, and that the cost per copy was $0.25, not $0.20.
+[8] In response, counsel for the Respondent asserts that the auditor's estimate of the containers was arbitrary and inadequate and that a reading of the expert reports made it clear that the assessment, as made, would not stand. However, at the pre-hearing conference, those reports were not yet finalized and were not yet available for his client to analyze, and then accept the proposed settlement offer accordingly. The expert reports were essential but did not necessarily have to be prepared before the filing of the Notice of Appeal. The decision in Scavuzzo does not apply, because no evidence was adduced showing any malice or ill will on the Respondent's part.
+[9] The case law cited by the Respondent unambiguously stands for the proposition that a party cannot recover costs incurred in a dispute prior to the filing of the Notice of Appeal. The authorities cited by the Appellant include two cases in which the Court did allow a party to be reimbursed for costs incurred prior to the filing of the Notice of Appeal. Scavuzzo, and the cases referred to therein, examine the exercise of the Court's discretion to allow disbursements incurred prior to the proceedings where a party's conduct has been reprehensible. Scavuzzo is difficult to apply here, because the Court, on which I do not sit, did not have the opportunity to consider the parties' conduct, the judgment having been entered following an agreement between the parties on the second day of trial.
+[10] The decision of Justice Stone in Carr is more relevant. At paragraph 5, the Court states:
+Like Kampo J.T.C.C., we do not read subsection 8(3) of the Rules as necessarily requiring that a disbursement be incurred after an appeal to the Tax Court has been launched in order for it to be regarded as "essential for the conduct of the appeal". While those words may generally be regarded as referring to disbursements incurred in an appeal proceeding, they do not appear to exclude from allowance a disbursement which was incurred prior to the commencement of an appeal if it could be shown that the disbursement was nevertheless "essential for the conduct of the appeal".
+[11] The Court of Appeal's decision in Carr was issued when subsection 8(3) of the Tax Court of Canada Rules of Practice and Procedure (Income Tax Act) read as follows:
+Such disbursements may be allowed as were essential for the conduct of the appeal, including witness fees paid in accordance with subsection (4) or (5).
+[12] The subject matter of that provision is now contained in subsection 157(3) of the Tax Court of Canada Rules (General Procedure):
+No disbursements other than fees paid to the Registry shall be taxed or allowed unless it is established that the disbursement was made or that the party is liable for it.
+[13] In keeping with subsection 157(3) of the Rules, expert reports for which costs are claimed were placed in the Court file, with invoices in support. Like Justice Stone in Carr, I am of the opinion that not all disbursements made prior to the Notice of Appeal are necessarily excluded. Here, the parties concede that the expert reports, as filed with the Court, were necessary and perhaps even essential. That they would eventually be used at the hearing is not in doubt. Given the exceptional nature of the situation, I find that the modalities and circumstances under which the said reports were prepared should have no bearing on the reimbursement of the costs incurred. The costs for the Bodycote Testing Group reports (invoices of November 29, 2006, December 29, 2006, and February 5, 2007) and KPMG LLP (invoices of November 21, 2006, January 8, 2007 and February 19, 2007) are allowed as claimed.
+[14] With respect to the photocopying and faxing costs, one principle remains: the costs incurred must be related to the proceedings associated with the dispute before the Court. Here, in light of the documents in the Court file, the justification given in support of the bill of costs for photocopies and faxes does not meet this requirement. As shown by the lists submitted in support of the Appellant's bill of costs, an amount of $4,247.75 was billed to the client for photocopies, and an amount of $698.30 was billed to the client for faxes. The details of these lists show that the services billed were provided starting in January 2006, whereas the Notice of Appeal was filed on March 7, 2007. Other than the number of copies made, there are no specifics that enable us to confirm what was copied, whether everything copied was essential to the conduct of the proceedings, and whether the costs that were billed represent the law firm's actual costs.
+[15] Consequently, and since it is clear that photocopying and faxing expenses were incurred, I did a summary estimate of the documents in the Court file and the exhibits in support of the bill of costs from the date of filing of the Notice of Appeal onward, and multiplied that by the number of copies necessary for the conduct of a similar proceeding before the Court, at the rate of $0.20 per page set out in Tariff B of the Tax Court of Canada Rules (General Proceedings). Photocopy and faxing expenses in the amount of $580.30 are assessed and allowed.
+[16] The Appellant's bill of costs is taxed and allowed in the amount of $85,617.71.
+Signed at Toronto, Ontario, this 1st day of February 2010.
+"Johanne Parent"
+Taxing Officer
+Translation certified true
+on this 26th day of March 2010.
+Brian McCordick, Translator

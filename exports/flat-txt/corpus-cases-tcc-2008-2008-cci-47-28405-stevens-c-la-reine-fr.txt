@@ -1,0 +1,142 @@
+Title: Stevens c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28405/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-47-28405-stevens-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-01-22
+
+# Stevens c. La Reine
+
+- Citation: 2008 CCI 47
+- Decision date: 2008-01-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1565, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stevens c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-01-22
+Référence neutre
+2008 CCI 47
+Numéro de dossier
+2007-2904(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007‑2904(IT)I
+ENTRE :
+BRAD STEVENS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 10 janvier 2008, à Calgary (Alberta).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Gregory Perlinski
+____________________________________________________________________
+JUGEMENT Les appels interjetés à l’égard des nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2003 et 2004 sont accueillis, et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour qu’il les examine à nouveau et établisse de nouvelles cotisations compte tenu du fait que l’appelant peut déduire 50 pour 100 des montants d’intérêt demandés en 2003 et en 2004 qui s’élèvent respectivement à 9 274 $ et à 14 622 $, soit 4 637 $ et 7 311 $, conformément aux dispositions de l’alinéa 20(1)c) de la Loi.
+Signé à Ottawa, Canada, ce 22e jour de janvier 2008.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 28e jour de février 2008.
+Aleksandra Koziorowska, LL.B.
+Référence : 2008CCI47
+Date : 20080122
+Dossier : 2007‑2904(IT)I
+ENTRE :
+BRAD STEVENS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] La présente affaire a été introduite dans le cadre de la procédure informelle. M. Stevens soutient qu’il peut déduire des intérêts de 9 274 $ et de 14 622 $ pour ses années d’imposition 2003 et 2004, respectivement. Le ministre du Revenu national (le « ministre ») a refusé toutes les déductions demandées par M. Stevens au titre des frais de crédit en question pour 2003 et 2004.
+[2] Dans son témoignage, M. Stevens a déclaré que, du milieu à la fin des années 90, il a obtenu deux lignes de crédit à la Banque Royale du Canada à seule fin de placer des fonds dans des actions, en particulier celles de Pacific Cassiar et, par la suite, de Tathacus Resources Ltd. (« Tathacus »). Il a produit des états de compte de RB Action Direct dont un, daté du 31 mars 1999, montrant un placement existant dans Pacific Cassiar évalué à 158 125 $ et un autre, daté du 31 décembre 1999, faisant état d’un placement dans Pacific Cassiar d’une valeur de 130 625 $ et de 12 000 actions de Tathacus dont le prix n’est pas indiqué. Aucune précision n’était donnée quant à la façon dont ces actions ont été souscrites.
+[3] M. Stevens a fourni des états de compte de RB Action Direct pour les mois de mars, de juin, de septembre, d’octobre et de décembre 2000, de janvier, de février, de mars, d’avril, de juin et de décembre 2001, de mars et de décembre 2002, de mars, de juin, de décembre 2003 ainsi que de mars, de juin et de décembre 2004. Tous les états de compte visaient des comptes établis au nom de son épouse, Constance Stevens. Voici certains des points saillants tirés des états de compte en question :
+(i) Septembre 2000 : il s’agit de la première fois qu’une valeur est attribuée aux actions de Tathacus, soit 109 000 $; une valeur de 158 125 $ est attribuée aux actions de Pacific Cassiar;
+(ii) Décembre 2000 : fait état d’une disposition d’actions de Pacific Cassiar pour la somme de 166 375 $;
+(iii) Janvier 2001 : fait état d’une souscription de 1 600 actions de Tathacus pour la somme de 42 000 $;
+(iv) Février 2001 : fait état d’une souscription de 4 500 actions de Tathacus pour la somme de 29 835 $;
+(v) Mars 2001 : fait état d’une souscription de 8 400 actions de Tathacus pour la somme de 50 863 $;
+(vi) D’avril 2001 à mars 2002 : les actions de Tathacus sont à nouveau inscrites sans prix et, par la suite, une valeur minimale leur est attribuée.
+[4] Les seuls autres documents présentés par M. Stevens à l’appui des placements consistent en des états de compte de Wolverton Security relatifs à trois comptes : deux en son nom et un au nom de son épouse visant des opérations effectuées de 2000 à 2007. Les points saillants de ces états de compte sont énoncés ci‑dessous :
+(i) Transfert de 42 569 $ de M. Stevens à Mme Stevens en septembre 2000;
+(ii) Chèques déposés dans le compte de M. Stevens pour une somme de 43 000 $ en juin 2003, de 16 000 $ en mars 2003 et de 10 000 $ en décembre 2002 : toutes ces sommes ont servi à souscrire des actions de Tathacus;
+(iii) Ensemble des souscriptions d’actions figurant à l’état de compte de M. Stevens de 2000 à 2004 totalisant environ 95 000 $, principalement de Tathacus.
+Voilà l’essentiel des précisions documentaires offertes au sujet des placements de M. Stevens.
+[5] En 2001, M. Stevens a emprunté 114 000 $ de ses parents. Ce prêt est constaté dans un contrat daté du 1er juin 2001. Le préambule du contrat de prêt mentionne ce qui suit :
+[TRADUCTION]
+ATTENDU que l’emprunteur souhaite effectuer des placements dans des actions, des obligations et d’autres titres et rembourser un emprunt à la Banque Royale du Canada;
+ET ATTENDU que les prêteurs sont disposés à fournir les fonds nécessaires en contrepartie du versement d’intérêt et du respect des autres conditions énoncées au présent contrat;
+[6] En 2003, M. Stevens a à nouveau conclu une entente de financement avec ses parents. Il a ainsi obtenu 105 000 $ grâce à la ligne de crédit que ces derniers détiennent à La Banque de Nouvelle‑Écosse, et il s’est engagé à effectuer tous les paiements mensuels directement à cette institution financière. Le préambule de ce contrat de prêt intervenu entre M. Stevens et ses parents donne les précisions suivantes :
+[TRADUCTION]
+ATTENDU que l’emprunteur doit emprunter de l’argent pour acquitter la dette qu’il a contractée à la Banque Royale du Canada pour acquérir des actions de sociétés cotées en bourse et d’autres titres;
+ET ATTENDU que les prêteurs sont disposés à avancer les fonds nécessaires en contrepartie du versement d’intérêt et du respect des autres conditions énoncées au présent contrat.
+[7] M. Stevens fait valoir qu’il a utilisé ces sommes pour effectuer des versements sur ses lignes de crédit à la Banque Royale du Canada. Aucun document n’a été produit relativement à l’ouverture des deux lignes de crédit ou à des versements effectués sur celles‑ci. Dans une lettre datée du 15 mars 2006, l’Agence du revenu du Canada a toutefois informé M. Stevens de ce qui suit :
+[TRADUCTION] Sur la somme de 219 000 $ empruntée en 2001 et en 2003, nous comprenons que 125 386,45 $ ont servi à fermer la ligne de crédit à la Banque Royale du Canada. Vous devez néanmoins présenter des documents permettant d’étayer les acquisitions à l’origine des avances consenties sur la ligne de crédit tant pour la somme de 125 386,45 $ que pour les 93 613,55 $ qui restent.
+Plus tard, en mai 2006, l’ARC a écrit ce qui suit à M. Stevens :
+[TRADUCTION] Vous avez établi la possibilité qu’un certain nombre de vos placements rapportent un revenu sous forme de dividendes ou d’intérêt et, même si vous avez fourni un affidavit voulant que vous ayez effectué les placements, vous avez omis de présenter quelque document que ce soit pour étayer les acquisitions à l’origine des avances sur la ligne de crédit.
+[8] On me demande de statuer, à la lumière de ces faits et de ces documents fragmentaires, sur la déductibilité des frais d’intérêts de 9 274 $ et de 14 623 $ engagés par M. Stevens en 2003 et en 2004, respectivement. Je suis convaincu que ces chiffres ne sont pas contestés. Si ces sommes sont déductibles, elles le sont en application de l’alinéa 20(1)c) de la Loi de l’impôt sur le revenu, lequel est ainsi rédigé :
+20(1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+a) […]
+c) la moins élevée d’une somme payée au cours de l’année ou payable pour l’année (suivant la méthode habituellement utilisée par le contribuable dans le calcul de son revenu) et d’une somme raisonnable à cet égard, en exécution d’une obligation légale de verser des intérêts sur :
+(i) de l’argent emprunté et utilisé en vue de tirer un revenu d’une entreprise ou d’un bien (autre que l’argent emprunté et utilisé pour acquérir un bien dont le revenu serait exonéré ou pour contracter une police d’assurance‑vie),
+(ii) une somme payable pour un bien acquis en vue d’en tirer un revenu ou de tirer un revenu d’une entreprise (à l’exception d’un bien dont le revenu serait exonéré ou à l’exception d’un bien représentant un intérêt dans une police d’assurance‑vie),
+[…]
+[9] La Couronne avance deux moyens : premièrement, qu’il n’y a tout simplement pas suffisamment d’éléments de preuve, en particulier écrits, pour étayer le fait que les sommes empruntées par M. Stevens au moyen de ses deux lignes de crédit ont servi à effectuer des placements admissibles. La Couronne ne conteste pas le fait que M. Stevens a emprunté de l’argent à ses parents pour faire des versements sur les deux lignes de crédit. Deuxièmement, les placements ont été effectués au nom de l’épouse et non de l’appelant, et celui‑ci ne peut demander des déductions relativement à des placements au titre desquels son épouse déclare un gain ou un revenu.
+[10] Je vais d’abord me pencher sur la deuxième question parce que M. Stevens était manifestement contrarié qu’elle ait été soulevée. En effet, il soutient que c’est la première fois qu’il entend cet argument. Je conviens avec M. Stevens que ni les actes de procédure ni la correspondance produits par l’ARC ne mentionnent le fait qu’il s’agissait d’un point en litige pour la Couronne. L’essentiel des communications échangées entre les parties ainsi que les actes de procédure inciteraient un observateur objectif, et cela a certainement incité M. Stevens, à croire que la seule question en litige tenait à l’absence de documents permettant d’établir un lien entre les deux lignes de crédit et les placements admissibles. Dans cette situation, je ne suis pas du tout étonné que M. Stevens ait eu l’impression de tomber dans un piège à l’instruction. Malheureusement, il s’agit de l’un des éventuels inconvénients liés à la procédure informelle. J’ai à maintes occasions permis à des contribuables de présenter, dans le cadre de cette procédure, des éléments de preuve ou des arguments susceptibles d’étayer leurs prétentions, même si c’était manifestement la première fois que le ministre voyait ces éléments ou entendait ces arguments. Est‑il opportun que j’impose au Gouvernement du Canada une norme plus rigoureuse dans le cadre de la procédure informelle et que je refuse l’introduction, à la présente étape de l’instance, de ce que j’estime être un nouvel argument? M. Stevens a signalé que, s’il avait été mis au courant de ce moyen plus tôt, il aurait peut‑être bien fait marche arrière ou adopté une stratégie différente. Le paragraphe 152(9) de la Loi prévoit ce qui suit :
+152(9) Le ministre peut avancer un nouvel argument à l’appui d’une cotisation après l’expiration de la période normale de nouvelle cotisation, sauf si, sur appel interjeté en vertu de la présente loi :
+a) d’une part, il existe des éléments de preuve que le contribuable n’est plus en mesure de produire sans l’autorisation du tribunal;
+b) d’autre part, il ne convient pas que le tribunal ordonne la production des éléments de preuve dans les circonstances.
+[11] Je suis convaincu qu’il est loisible à l’intimée de soulever cet argument, et je vais tenir compte du fait que Mme Stevens était propriétaire de certains des placements. En revanche, je ne m’appuierai pas sur ce moyen pour rejeter complètement les appels de M. Stevens. Bien que les documents ne soient pas suffisamment précis pour trancher la présente affaire, la preuve permet néanmoins de tirer les conclusions suivantes :
+(i) à la fin des années 90, M. Stevens a ouvert deux lignes de crédit et a fait des emprunts garantis par celles‑ci pour effectuer des placements admissibles dans Tathacus;
+(ii) Pacific Cassiar a été vendue en 2000, ce que Mme Stevens a dûment déclaré;
+(iii) M. Stevens a emprunté des fonds de ses parents pour effectuer des versements sur ses deux lignes de crédit en 2001 et en 2003;
+(iv) M. Stevens a effectué des souscriptions supplémentaires d’actions après avoir emprunté de l’argent à ses parents;
+(v) si j’ai bien compris les documents, en 2003 et en 2004, le principal placement détenu par M. et Mme Stevens consistait en les actions de Tathacus, en contrepartie desquelles ils avaient payé au moins 250 000 $;
+(vi) M. et Mme Stevens ont effectué des placements à peu près équivalents dans Tathacus.
+[12] Je n’examinerai ni les circonstances dans lesquelles le placement de 160 000 $ dans Pacific Cassiar et la vente subséquente de ce placement par Mme Stevens ont eu lieu, ni la question de savoir s’il s’agissait d’argent emprunté par M. Stevens et qui lui aurait donc été remboursé au moment de la vente. Très peu de renseignements m’ont été fournis à cet égard. Comme ces actions ont été souscrites et vendues plus ou moins au même prix, bien avant les années en cause, et avant que des sommes soient empruntées aux parents de M. Stevens pour effectuer des versements sur les lignes de crédit, je ne vais tout simplement pas tenir compte de ce placement pour décider du droit de M. Stevens de déduire l’intérêt payé sur les prêts consentis par ses parents en 2003 et en 2004. J’estime que le plus important placement, celui pour lequel des fonds ont été empruntés aux parents en 2001 et en 2003, est celui effectué dans Tathacus.
+[13] La Couronne a fait valoir que M. Stevens disposait d’autres moyens pour financer ses placements. Elle a également avancé que M. Stevens avait peut‑être utilisé les fonds empruntés pour investir dans un bien appartenant à sa sœur. M. Stevens nie ces deux assertions, et je le crois. Néanmoins, je ne puis conclure avec certitude qu’il est possible de relier la totalité de la somme empruntée à ses parents à des placements admissibles.
+[14] J’arrive à la conclusion que M. Stevens peut déduire une partie des intérêts payés sur la somme empruntée à ses parents, parce que je suis convaincu qu’environ la moitié de cette somme se rapporte au placement de M. Stevens dans Tathacus. J’ai déjà fait observer, et je crois qu’il convient de le répéter dans une affaire comme celle dont je suis saisi, qu’on ne peut s’attendre à un résultat précis dans le cadre d’une procédure informelle où les renseignements fournis sont eux‑mêmes imprécis. Il arrive parfois que ce manque de détails et de documents se révèle fatal pour le contribuable mais, dans les cas où, comme en l’espèce, je conclus que le contribuable est digne de foi, l’issue peut lui être partiellement favorable. Les appels sont accueillis, et l’affaire est renvoyée au ministre pour qu’il l’examine à nouveau et établissement de nouvelles cotisations compte tenu du fait que M. Stevens peut déduire 50 pour 100 des montants d’intérêt demandés en 2003 et en 2004 qui s’élèvent respectivement à 9 274 $ et à 14 622 $, soit 4 637 $ et 7 311 $, conformément aux dispositions de l’alinéa 20(1)c) de la Loi.
+Signé à Ottawa, Canada, ce 22e jour de janvier 2008.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 28e jour de février 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008CCI47
+NO DU DOSSIER DE LA COUR : 2007‑2904(IT)I
+INTITULÉ DE LA CAUSE : Brad Stevens et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Le 10 janvier 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 22 janvier 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Gregory Perlinski
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

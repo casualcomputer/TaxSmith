@@ -1,0 +1,116 @@
+---
+title: "Larue c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26072/index.do"
+last_modified: "2003-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 288"
+citation2: ""
+neutral_citation: "2003 TCC 288"
+decision_date: "2003-05-05"
+language: "en"
+item_id: "26072"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4067
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:12:39.589000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "20d7ca32400de7f61bae206bb917d2d183da3c9d3f482b7edcbb42ab51464b6f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Larue c. La Reine
+
+- Citation: 2003 TCC 288
+- Decision date: 2003-05-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4067, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larue c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-05-05
+Neutral citation
+2003 TCC 288
+File numbers
+2001-4218(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-4218(IT)I
+BETWEEN:
+ANDRÉ LARUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on February 17, 2003, at Québec, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+Agent for the Appellant:
+Gérald Leclerc
+Counsel for the Respondent:
+Claude Lamoureux
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1996, 1997 and 1998 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of May 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 29th day of June 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC288
+Date: 20030505
+Docket: 2001-4218(IT)I
+BETWEEN:
+ANDRÉ LARUE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.T.C.C.
+[1] These are three appeals concerning the 1996, 1997 and 1998 taxation years. By a notice of reassessment, the Minister of National Revenue (the "Minister") added the amounts of $10,221, $9,437 and $8,589 respectively as investment income in computing the appellant's income for the three years in issue. The Minister also assessed penalties in respect of those amounts under subsection 163(2) of the Income Tax Act (the "Act") and made a reassessment after the normal reassessment period for 1996 under subsection 152(4) of the Act.
+[2] In the same notice of reassessment, the Minister added an amount of $4,438 to the appellant's income for each of the 1997 and 1998 taxation years as benefits conferred on a shareholder under subsection 15(1) of the Act. That was the amount of the premium of an insurance policy on the appellant's life of which his spouse was the beneficiary, but the premiums of which had been paid by one of the appellant's corporations.
+[3] As a result of a loan to the appellant by André Larue et Fils Inc., amounts of $225 and $285 were added to the appellant's income for the 1997 and 1998 taxation years respectively as benefits conferred on a shareholder, under section 80.4 and subsections 15(1) and 15(9) of the Act.
+[4] The amount of interest on the investment income is not disputed, nor is the fact that it must be included in the appellant's taxable income for the years in issue. The 1996 taxation year is in issue with respect to the limitation period, and the appellant disputes the penalties for the three years. The appellant does not challenge the amount of the insurance premium or the interest amounts of $225 and $285 relating to the benefits derived from the loan that the appellant made to himself through André Larue et Fils Inc. on December 1, 1995, and which he repaid in September 1999.
+[5] The appellant is a mechanic by training and has been in business since 1973. During the years in issue, he was the majority shareholder and president of J.A. Larue Inc. and André Larue et Fils Inc. Both corporations carry on operations relating to the purchase, sale and repair of heavy machinery and trucks. Without reviewing all the facts leading to the unreported interest income, it is sufficient to say that the appellant sold property to his corporation and financed a portion of the purchase price. It is the interest on that loan that is in issue. Following an audit by Revenu Québec, and subsequently by Revenue Canada, amounts were added to the appellant's investment income as described at the start of these Reasons.
+[6] The appellant testified that his spouse and a certain Diane Boucher did the accounting and that he had his tax returns completed by his accountant. He said he knew nothing about accounting or tax and that he relied on those people. His work consisted in managing the day-to-day activities of the two corporations. He admitted that every month he received the payment that his corporation owed him and that he or his spouse signed the cheques for the payments in question. He admitted that he had not reported the interest income. His three tax returns were filed in evidence, and the unreported interest income represented 51 percent, 38 percent and 20 percent respectively of the reported income for each of the taxation years in issue. It should be pointed out that the corporation had deducted the interest.
+[7] The onus is on the Minister to establish on a balance of probabilities his reasons for reassessing for the statute-barred year. It is sufficient for him to establish the taxpayer's negligence based on the tests set out by the Federal Court of Canada in Venne v. Canada, [1984] F.C.J. No. 314, in which Strayer J. stated at pages 5 and 6:
+I am satisfied that it is sufficient for the Minister, in order to invoke the power under sub-paragraph 152(4)(a)(i) of the Act to show that, with respect to any one or more aspects of his income tax return for a given year, a taxpayer has been negligent. Such negligence is established if it is shown that the taxpayer has not exercised reasonable care. This is surely what the words "misrepresentation that is attributable to neglect" must mean, particularly when combined with other grounds such as "carelessness" or "wilful default" which refer to a higher degree of negligence or to intentional misconduct. Unless these words are superfluous in the section, which I am not able to assume, the term "neglect" involves a lesser standard of deficiency akin to that used in other fields of law such as the law of tort.
+[8] In the instant case, I am satisfied that the Minister adduced the necessary evidence to enable him to reassess for 1996. Even though the appellant assigns responsibility for preparing his tax returns to employees and his accountant, he remains the author of his returns and the person who has direct knowledge of his business and of the facts used to prepare his tax returns. He was aware that he had sold his property to his corporation and that he had financed a portion of the purchase. The interest on that loan was deductible, and he should have known, either himself or through those consulted in his business decisions, that the interest on that loan was taxable. Therefore, this constitutes negligence as contemplated by the Federal Court of Appeal.
+[9] On the burden of proof, I have come to a similar conclusion regarding the penalty assessed as a result of the unreported income for each of the taxation years. Conferring responsibility for preparing one's tax returns on others is not sufficient, in my view, to demonstrate that the appellant in this case exercised reasonable care in and devoted reasonable attention to preparing and filing his tax returns. He is without a doubt an experienced businessman, and, even though the administrative duties were assigned to his spouse and to the accountant, what was involved here was an important business transaction, which was no doubt conducted following consultations, particularly with regard to the tax advantages and disadvantages of the sale and financing of the property located at 8885 Boulevard l'Ormière. The appellant occasionally signed the loan repayment cheque and received it monthly. In addition, the amount of interest was substantial in relation to his other income and his corporation deducted the interest from its income. I am satisfied that the Minister brought the evidence necessary to assess penalties and that the appellant in this case was seriously negligent and showed his indifference to the law. The appellant has been in business too long not to have noticed that a significant source of income had not been reported in his tax returns for the three years in issue.
+[10] With respect to the question of the benefit derived from the appellant's life insurance premium, the appellant testified that the proceeds of that insurance were to be used to purchase the shares in the event of his death. He also mentioned that the Caisse populaire required such insurance and that it was to help his estate. The appellant also testified that he was the sole shareholder and owner of all the shares during the three taxation years in issue. The observations of the appellant's agent at the end of the trial were part of an estate reorganization in which the life insurance in question was to be used to redeem the shares at the time of the appellant's death. I cannot respond to those remarks since they are not part of the evidence. It is clear, however, that an error was made somewhere when the life insurance contract switched from Industrielle Assurance-vie to Assurance-Vie Desjardins Laurentienne, as indicated in Exhibit A-1. According to the testimony of Claudine Tremblay, an auditor with the Canada Customs and Revenue Agency, a transaction was conducted between shareholders in 1996 in which the appellant's two sons became shareholders, thereby suggesting that those changes could explain why an insurance policy was taken out on the appellant's life in order to provide J.A. Larue Inc. with some kind of benefit. It is highly likely that an error was involved.
+[11] Although there may have been an error, it is nevertheless true that, in the situation as it stood, the spouse, in case of death, would have become the beneficiary of that insurance policy without any obligation toward the corporations or their shareholders. No shareholder agreement was filed that could confirm the appellant's statement about the tax planning provided for. In actual fact, the appellant's corporation paid a premium for a life insurance policy under which payment would have been made to his spouse in case of death. He therefore received a benefit that, under subsection 15(1), must be included in his taxable income.
+[12] The same is true of the annual benefit valued at $225 and $285 for the 1997 and 1998 taxation years respectively under section 80.4 and subsections 15(1) and (9) of the Act. Even though things could have been done differently, we must deal with the actual situation the appellant chose. Taxpayers must therefore take seriously the tax consequences of business transactions they conduct and not overlook the fact that corporations are legal entities separate and distinct from their shareholders.
+[13] For these reasons, the appeals are dismissed, and the assessments made by the Minister are confirmed.
+Signed at Ottawa, Canada, this 5th day of May 2003.
+"François Angers"
+J.T.C.C.
+Translation certified true
+on this 29th day of June 2004.
+Sophie Debbané, Revisor

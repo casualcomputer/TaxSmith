@@ -1,0 +1,170 @@
+---
+title: "West v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27164/index.do"
+last_modified: "2006-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 580"
+citation2: ""
+neutral_citation: "2006 TCC 580"
+decision_date: "2006-10-27"
+language: "en"
+item_id: "27164"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1033
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:37:10.370000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d9603bad65945fba0e9c2d61e3dc128690b6d8cf781e56bd54ee1a0be95b0ba8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# West v. The Queen
+
+- Citation: 2006 TCC 580
+- Decision date: 2006-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1033, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+West v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-27
+Neutral citation
+2006 TCC 580
+File numbers
+2006-314(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-314(IT)I
+BETWEEN:
+JAMES LEE WEST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 4, 2006, at Halifax, Nova Scotia
+Before: The Honourable Justice G. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Martin Hickey
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1999, 2000, 2001 and 2002 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment, on the basis that the Appellant's income for each of the taxation years 1999, 2000, 2001 and 2002 was nil.
+Signed at Ottawa, Canada, this 27th day of October, 2006.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2006TCC580
+Date: 20061027
+Docket: 2006-314(IT)I
+BETWEEN:
+JAMES LEE WEST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, James West, is appealing the net worth assessments of the Minister of National Revenue of his 1999, 2000, 2001 and 2002 taxation years.
+[2] The Appellant filed income tax returns for 1999, 2000 and 2001, reporting "nil" income in each of these years. His mother prepared his returns for his signature; her purpose in filing was to allow him to obtain the GST rebate. In 2002, no return was filed as the Appellant was in prison for six months and without work for the rest of the year. The Appellant admitted to having kept no records but explained that he kept no records because he had no income.
+[3] In 2004, the Minister reassessed the Appellant's taxation years[1] and using the net worth method, added $18,916, $20,815, $29,098 and $20,866, respectively, to each of the taxation years. Though beyond the limit, the 1999 taxation year was reassessed on the basis that the Appellant had misrepresented his income as contemplated by subsection 152(4) of the Act. The Minister also assessed gross negligence penalties for the 1999, 2000 and 2001 taxation years but concedes that the appeals ought to be allowed in respect of the 1999, 2000 and 2001 appeals to permit the reduction of the gross negligence penalties which were incorrectly calculated by Canada Revenue Agency officials[2].
+[4] The assumptions upon which the Minister based his reassessments are set out in paragraph 11 of the Reply to the Notice of Appeal:
+11. In reassessing the Appellant's income tax liability for the 1999, 2000, 2001 and 2002 taxation years, the Minister relied on the following assumptions of fact:
+a) the facts stated and admitted above;
+b) during 1999, 2000, 2001 and 2002, the Appellant earned income from the sale of stolen goods, the sale of illegal narcotics and from other miscellaneous sources (the "Activities");
+c) the Appellant reported no income from the Activities for the 1999-2001 taxation years;
+d) the Appellant did not file a tax return for the 2002 taxation year;
+e) the Appellant's reported income of nil in 1999 to 2001 was insufficient to support his lifestyle;
+f) the Appellant had been incarcerated at various times for the sale of stolen goods and the sale of illegal narcotics;
+g) during the years in issue, the Appellant was incarcerated for two months in 2001 and for six months in 2002;
+h) other than the periods of incarceration, the Appellant lived with his mother during the years at issue;
+i) the Appellant was arrested at Pearson International Airport in Toronto on November 5, 2001 with $23,455 cash, which was seized by the police;
+j) at least $15,000 of the $23,455 of seized cash belonged to the Appellant;
+k) the Appellant purchased various vehicles during the years at issue, which are detailed on the attached Schedule "A";
+l) the Appellant did not maintain sufficient books and records from which his income tax liability could be accurately determined;
+m) an accurate measure of the Appellant's income for the period under appeal could only be made using the net worth method;
+n) the Appellant's increase in net worth during the period under appeal was attributable to the Activities; and
+o) in reporting income for the period under appeal the Appellant understated his income by at least $12,743.50 in 1999, $14,605.29 in 2000, $20,851.43 in 2001 and $13,864.81 in 2002.
+[5] The Appellant has the onus of proving wrong these assumptions[3]. His position is that his lifestyle is far more modest than that of the Statistics Canada model upon which the net worth template is based; further, he denies ever having earned income from selling stolen goods or illegal drugs.
+[6] The Appellant represented himself and testified at the hearing. His mother and a friend gave evidence on his behalf. The Minister called Mr. Bruce McCabe, the auditor who performed the net worth assessment.
+The Net Worth Assessment
+[7] By his own description, the Appellant is a young unemployed, under-educated male who, at all times relevant to these appeals, was living with his mother or alternately, with various unidentified girlfriends. His mother and from time to time, his father, also kept him in spending money and provided him with the necessities of life including food, clothing and personal care items. The father of three children, the Appellant was candid in his admission that he has never taken responsibility for their support. He does not drink or smoke. He has never been to a dentist or worn glasses. He does not contribute to charity or participate in any recreational activities that require equipment or the payment of fees. He relies on friends and his mother for his entertainment needs.
+[8] I accept his evidence that his lifestyle is below that of the single Canadian contemplated by Statistics Canada. In each of the taxation years, the Minister included approximately $130 for dental care, $1,000 for "money, gifts and [charitable] contributions" and $200 for reading material, none of which corresponds, in any way, to the reality of the Appellant's lifestyle. These examples are typical of the inapplicability of the Statistics Canada norms to estimate the Appellant's net worth. Accordingly, I reject entirely the amounts attributed to each of the Appellant's taxation years using this method. Further, I am satisfied that the source of what little funding he had was given to him or provided in kind by other law-abiding taxpayers.
+[9] Also taken into consideration in the net worth assessment were some used vehicles registered in the Appellant's name between 1999 and 2002. From time to time throughout that period, the Appellant acquired a string of used vehicles[4], the first of which was given to him by his father; exactly how he got the rest is not entirely clear. He tried to make some money "cleaning up" the vehicles and then reselling or trading up to a better model. Given the Appellant's willingness to "sponge off" (his description) others and the lack of evidence of his having any auto refurbishment or entrepreneurial skills, I think it highly unlikely he ever made much from his car deals.
+[10] Lying at the heart of the reassessments, however, are the Minister's assumptions that the Appellant earned unreported income from "other miscellaneous sources" and more significantly, from the sale of stolen goods and illegal narcotics.
+The "Miscellaneous Sources"
+[11] Turning first to the Minister's assumption that the Appellant earned income from miscellaneous sources, the Appellant admitted to having made a few dollars shovelling snow or collecting recyclable cans. I am satisfied, however, that he resorted to such efforts only when all other sources had dried up. Given the infrequency of these activities and the little revenue they were likely to generate, I am satisfied that the Appellant earned no income from these endeavours in any of the taxation years.
+The "Saleof Stolen Goods and Illegal Narcotics"
+[12] The assumptions in respect of the Appellant's illegal activities stemmed from information Mr. McCabe, the auditor in charge of the Appellant's file, had received from the Integrated Proceeds of Crime ("IPOC") after the Appellant and two companions had been found in possession of some $60,000 cash at the Toronto airport. Based largely on the affidavit of Constable Frank Mauti, the proceeds of crime officer assigned to the file, Mr. McCabe concluded that $15,000 of the total amount seized "belonged to"[5] the Appellant. He also spoke to the Appellant by telephone and later had a personal meeting with him.
+[13] The affidavit of Frank Mauti was not in evidence at the hearing nor was Constable Mauti called as a witness. Counsel for the Respondent referred the Court to the decisions of the Ontario Superior Court of Justice[6] and of the Court of Appeal for Ontario[7] dealing with a challenge by the Appellant and his two companions of the seizure of the money. The circumstances of the seizure are summarized at page 188 of the Ontario Court of Appeal decision:
+Facts
+[4] The facts underlying this appeal are contained in the affidavit of Constable Frank Mauti. While the admissibility of almost all of that affidavit is contested, for the purposes of this appeal, the following suffices. On November 5, 2001, West, Beavis and Johnson arrived in Toronto's Lester B. Pearson airport from Halifax each carrying one carry-on bag. As they walked from the gate towards the baggage claim, they passed R.C.M.P. officers and a police dog. Apparently, all three looked nervous. The dog sniffed Johnson's pocket. Each of the appellants was asked certain questions and gave certain answers that led to the appellants allegedly agreeing to have their carry-on bags searched. No illegal substances were discovered. However, each had approximately $20,000 in cash, mostly in $20 bills. They offered explanations for having the money that the application appeal judge, Langdon J., characterized as "highly improbable, inconsistent and/or conflicting" (at para. 5). The officers did not accept the explanations and seized the $61,445 in cash with a warrant.
+[5] The income tax returns of the appellants appeared to indicate that they would have had no way of accumulating such sums.
+[6] West, Beavis and Johnson were never charged with an offence related to the funds.
+[14] These proceedings are not relevant to this appeal except for the background they provide in respect of the Minister's assumptions. Nothing in what the Court of Appeal had to say about Constable Mauti's affidavit reassures me that the Minister had a good factual footing for his assumptions regarding the Appellant's illegal activities. In considering the contents of the affidavit, the appellate Court held that:
+... most of Mauti's affidavit is hearsay and in a number of instances the sources of information are not specified. The Crown did not explain why persons having personal knowledge of the facts [i.e., the officers involved in the seizure of funds at the airport] did not provide the evidence given by hearsay, nor is this evident. In addition, I would observe that not all of the documents referred to in Mauti's affidavit are attached as exhibits to the affidavit.[8]
+The Court ultimately ordered a new hearing, permitting the Crown "to file a fresh affidavit that complies with the rules" [but not] "to introduce new evidence in the sense of alleging new facts not contained in the original affidavits"[9].
+[15] The audit predates the above decisions and accordingly, there may be some justification for the assumptions made at that time. But the auditor's continued reliance at the hearing on the impugned Mauti affidavit rendered his evidence less persuasive.
+[16] I am equally unconvinced by his evidence of his discussions with the Appellant. Mr. McCabe testified that the Appellant told him that he had earned income from selling stolen goods and drugs. I must admit to having been surprised at this statement; given the Appellant's admitted negative history with various law enforcement agencies, I find it highly unlikely that he would have volunteered such an admission to an authority figure, least of all, to the very person tasked with assessing his tax liability. For his part, the Appellant denied both the activity and ever having made such an admission; when he cross-examined Mr. McCabe on this point, it became clear that what the Appellant had actually admitted to was having been incarcerated; when pressed for details by Mr. McCabe, the Appellant told him the convictions had had to do with stealing and drugs. While this may have been sufficient to provoke Mr. McCabe's suspicions about the Appellant's activities, it is a far cry from a bald admission of having earned income from such sources.
+[17] I am satisfied that the Appellant has successfully challenged the Minister's assumptions with regard to his having earned income from the sale of stolen narcotics. While the Appellant was arrested at the time of the seizure of the cash, his arrest resulted from an unrelated outstanding warrant discovered by the police following his detention at the airport. According to the facts set out in the Ontario Court of Appeal decision, no illegal substances were discovered at the time of the seizure nor was the Appellant ever charged with an offence related to the funds seized[10]. Although named as a party in the Ontario criminal proceedings, he testified that it was not he who retained the solicitor of record, paid his fees or instructed him to act on his behalf in the recovery of the money seized. Finally, though he admitted to being in and out of jail in Nova Scotia, there is insufficient evidence that his incarcerations were related to drug sales.
+[18] The Appellant admitted to having $1,700 in cash when stopped by the police in Toronto, money which both he and his mother testified that she and the Appellant's father had given to him to buy Christmas presents for the family. While I have some doubts about the purpose for which these funds were intended, I am prepared to accept, on a balance of probabilities, that his parents (in particular, his mother) were the source of the money.
+[19] In finding in favourof the Appellant, I have been influenced as much by the weakness of the information underpinning the Respondent's case as by the Appellant's evidence. I do not condone for one moment the Appellant's admitted willingness to let others support him, to neglect his parental duties or to break the law. But it is not the task of the Minister, or of this Court, to sit in judgment on the way the Appellant has chosen to live his life. The only question before me is whether there is sufficient evidence to conclude that the Appellant earned unreported income in each of the taxation years. I am satisfied that there is not.
+[20] For that reason, the appeal is allowed in accordance with the attached Reasons for Judgment. The reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant's income for each of the taxation years 1999, 2000, 2001 and 2002 was nil.
+Signed at Ottawa, Canada, this 27th day of October, 2006.
+"G. Sheridan"
+Sheridan, J.
+CITATION: 2006TCC580
+COURT FILE NO.: 2006-314(IT)I
+STYLE OF CAUSE: JAMES LEE WEST AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: July 4, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice G. Sheridan
+DATE OF JUDGMENT: October 27, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Martin Hickey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In the case of the 2002 taxation year for which no income tax return had been filed, the Minister arbitrarily assessed the Appellant's tax liability under subsection 152(7) of the Income Tax Act.
+[2] Reply to the Notice of Appeal, paragraph 10.
+[3] Ramey v. Canada, 93 DTC 791 (T.C.C.).
+[4] Reply to the Notice of Appeal, Schedule "A".
+[5] Reply to the Notice of Appeal, paragraph 11(j).
+[6] R. v. West, [2004] O.J. No. 3243 (Langdon, J.).
+[7] Her Majesty the Queen v. West et al., 77 O.R. (3d) 185 at page 188.
+[8] Supra, at paragraph 30.
+[9] Supra, at paragraph 53.
+[10] Supra, at paragraphs 4 and 6, respectively.

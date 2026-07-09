@@ -1,0 +1,134 @@
+---
+title: "Hall v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25466/index.do"
+last_modified: "2003-06-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 410"
+citation2: ""
+neutral_citation: "2003 TCC 410"
+decision_date: "2003-06-17"
+language: "en"
+item_id: "25466"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2354
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:02:52.344000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ed956938ab10144e32c05d9564e883e3f2fd5d2d1bab416b1f685f1e1ddacce4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hall v. The Queen
+
+- Citation: 2003 TCC 410
+- Decision date: 2003-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2354, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hall v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-06-17
+Neutral citation
+2003 TCC 410
+File numbers
+2002-3369(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC410
+Date: 20030617
+Docket: 2002-3369(IT)I
+2002-3370(IT)I
+2002-3392(IT)I
+BETWEEN:
+GEORGE ALEXANDER HALL,
+MARY KATHERINE DOBBIN,
+JAMES DOUGLAS HALL,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Counsel for the Appellants: J. L. Marc Boivin
+Counsel for the Respondent: Alain Gareau
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on
+May 9, 2003, at Montréal, Québec)
+McArthur, J.
+[1] These three appeals were heard together on common evidence concerning each Appellant's 2000 taxation year. The issue is whether the Minister of National Revenue correctly included certain interest income in the Appellants' 2000 taxation year. The Royal Trust Company of Canada was the sole executor and trustee of the Estate of Herbert L. Hall who was the uncle of the three Appellants, the residuary beneficiaries. Royal Trust issued T5 Statements of Investment Income for the year 2000 to the Appellants in the amount of $5,193 each which amount was not received by the Appellants until 2001.
+[2] The Appellants take the position that the administration of the Estate had not been completed and there had been no distribution to the taxpayers in the year 2000 and the amount should not be included in their income for that year. The Minister's position is that the interest became payable to the Appellants during the 2000 taxation year in accordance with subsections 104(13) and 104(24) of the Income Tax Act. The Minister submits that following the wind-up of the Estate, which he took as of January 2000, the Appellants were in a position to enforce distribution and thereby the interest earned became payable to them in the period following the wind-up.
+[3] These subsections read in part as follows:
+104(13) There shall be included in computing the income for a particular taxation year of a beneficiary under a trust such of the following amounts as are applicable:
+(a) ... as became payable in the trust's year to the beneficiary;
+104(24) ... an amount shall be deemed not to have become payable to a beneficiary in a taxation year unless it was paid in the year to the beneficiary or the beneficiary was entitled in the year to enforce payment of the amount.
+And that is the crux of the question before us.
+[4] For the most part, the facts are not in dispute. The issue boils down to whether the administration of the Estate had been completed in the year 2000 and whether the amounts became then payable and that the Appellants were entitled to enforce payment in that year. The Act treats income differently from different sources. Income from employment is included in the year it was received, income from business is included in the year the amount becomes an amount receivable. Yet, income from a trust differs in that the amount must be found to be payable to the beneficiary.
+[5] Many cases have explored the difference between received and amounts receivable. This question was considered, whether payments received but yet not earned were to be included in a taxpayer's income in Kenneth B.S. Robertson Ltd v. M.N.R., [1944] 3 D.L.R., Ex.Crt. 170, where Thorson J. found that an amount received was to be included in the income of the taxpayer, even if it was unearned, provided that it had the "quality of income". He stated:
+Did such amounts have, at the time of their receipt, or acquire, during the year of their receipt, the quality of income, to use the phrase of Justice Brandeis in Brown v. Helvering. In my judgment, the language used by him, to which I have already referred, lays down an important test as to whether an amount received by a taxpayer has the quality of income. Is his right to it absolute and under no restriction, contractual or otherwise, as to its disposition, use or enjoyment?
+The Supreme Court of Canada considered quality of income in Gagnon v. Canada, [1986] 1 S.C.R. 264, and turned to other cases interpreting both Robertson and Brown in concluding that this referred to "restrictions on the right to dispose of an amount, not to restrictions on the way it was used". Mr. Justice Beetz quoted a rule in Rutkin v. United States, 343 U.S. 130 (1952), stating:
+A gain constitutes taxable income when its recipient has such control over it that, as a practical matter, he derives readily realizable economic value from it.
+As regards the concept of quality income, trust income is not different.
+[6] Therefore, in analyzing the issue in the present cases, we need to explore the question of whether the Appellants should have an absolute right to their distributions and "be under no restriction, contractual or otherwise, as to its disposition, use or enjoyment". Given the facts of this case, the amounts in question were payable but for the fact that Royal Trust refused to release the distribution until the settlement of a dispute with the Appellants.
+[7] I find as a fact that Royal Trust had not completed the administration of the Estate; the beneficiaries were presented a Statement of Accounts for the Estate in January 2000 which included executor's compensation, to which the beneficiary, James, who is an attorney, vigorously opposed. He was not about to release Royal Trust from its duties of passing accounts. In addition, there were further funds to be collected, for example, a $64,000 Revenue Canada refund. I refer to the Supreme Court of Canada decision in Hall v. Québec Minister of Revenue, [1998] 1 S.C.R. 200, where Gonthier, J. stated:
+A contrary conclusion would have the unfair effect of making legatees pay tax on income from which they are not benefiting.
+This quote was also included in the Appellants' Notices of Appeal.
+[8] I find that Royal Trust caused the delay of the distribution until 2001 after the T5 slips had been prepared and issued. Royal Trust refused to amend them. It seems quite evident that for these reasons the Appellants did not have an absolute right to their distribution, nor could they, as a practical matter, readily realize economic value from them.
+[9] Counsel for the Respondent argued that the delay in the distribution was due to the Appellants' own actions, or at least the actions of one of the three beneficiaries. I believe the testimony of James Hall who admitted that in this respect, he was the offending party. He laid out his reasons for persisting in the dispute with Royal Trust. Certainly, he could have given in and surrendered his position so that the Appellants would receive their funds when originally anticipated. I do not believe, however, that it was the intent of Parliament, in enacting subsections 104(13) and 104(24), that the beneficiaries of trusts relinquish the right to pursue funds which they believe belong to them for the sake of including a lesser amount in their income at the earliest possible opportunity. As Justice Gonthier said, this would be unfair.
+[10] I therefore find the amounts in question were not payable to the Appellants in the year 2000 because the Appellants' distribution did not possess the requisite "quality of income". For these reasons, the appeals are allowed with costs.
+Signed at Ottawa, Canada, this 17th day of June, 2003.
+"C.H. McArthur"
+J.T.C.C.
+CITATION:
+2003TCC410
+COURT FILE NO.:
+2002-3369(IT)I, 2002-3370(IT)I and
+2002-3392(IT)I
+STYLE OF CAUSE:
+George Alexander Hall, Mary Katherine Dobbin and James Douglas Hall and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Québec
+DATE OF HEARING:
+May 7, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Judge C.H. McArthur
+DATE OF JUDGMENT:
+June 16, 2003
+APPEARANCES:
+Counsel for the Appellants:
+J.L. Marc Boivin
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+J.L. Marc Boivin
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

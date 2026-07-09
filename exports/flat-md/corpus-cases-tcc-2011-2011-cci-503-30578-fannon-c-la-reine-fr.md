@@ -1,0 +1,164 @@
+---
+title: "Fannon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30578/index.do"
+last_modified: "2011-11-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 503"
+citation2: ""
+neutral_citation: "2011 CCI 503"
+decision_date: "2011-11-03"
+language: "fr"
+item_id: "30578"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7230
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:29:09.390000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3371d8082edf64f49df6fa68cbfb6160ce255111357af36dd3906289bb2aeaae"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fannon c. La Reine
+
+- Citation: 2011 CCI 503
+- Decision date: 2011-11-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7230, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fannon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-11-03
+Référence neutre
+2011 CCI 503
+Numéro de dossier
+2011-810(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-810(IT)I
+ENTRE :
+DAN FANNON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appels entendus le 24 octobre 2011, à London (Ontario)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Tamara Watters
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2007 et 2008 de l’appelant sont rejetés, sans dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 3e jour de novembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 24e jour de novembre 2011.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2011 CCI 503
+Date : 20111103
+Dossier : 2011-810(IT)I
+ENTRE :
+DAN FANNON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En l’espèce, l’appelant a interjeté appel des nouvelles cotisations par lesquelles on lui a refusé des déductions au titre de frais de garde d’enfants relativement à son enfant, qui ne résidait pas avec lui. L’appelant soutient que le paragraphe 63(3) de la Loi de l’impôt sur le revenu (la « Loi ») viole la Charte canadienne des droits et libertés (la « Charte »). Il semble qu’une nouvelle cotisation ait aussi été établie à l’égard de l’appelant afin de lui refuser un crédit d’impôt qu’il avait demandé en soutenant que son enfant était une personne à charge. Toutefois, dans son avis d’appel et à l’audience, l’appelant a seulement soulevé la question du refus des déductions demandées au titre des frais de garde d’enfants.
+[2] Les faits ne sont pas en litige dans la présente affaire. L’appelant et Lisa Spooner ont eu un enfant en 1998. Tout au long des années 2007 et 2008, l’enfant a résidé avec Mme Spooner et n’a pas résidé avec l’appelant. Conformément à une ordonnance judiciaire datée du 22 avril 2001, l’appelant était tenu de payer une pension alimentaire et des dépenses spéciales (garderie). L’appelant a payé la pension alimentaire et les dépenses spéciales (garderie) en 2007 et en 2008. L’appelant a demandé des déductions de 3 013 $ pour 2007 et de 3 014 $ pour 2008 au titre de frais de garde d’enfants.
+[3] Le paragraphe 63(1) de la Loi permet de demander une déduction au titre de frais de garde d’enfants. Le paragraphe 63(3) de la Loi prévoit notamment ce qui suit :
+« frais de garde d’enfants » Frais engagés au cours d’une année d’imposition dans le but de faire assurer au Canada la garde de tout enfant admissible du contribuable, en le confiant à des services de garde d’enfants, y compris des services de gardienne d’enfants ou de garderie ou des services assurés dans un pensionnat ou dans une colonie de vacances, si les services étaient assurés :
+a) d’une part, pour permettre au contribuable, ou à la personne assumant les frais d’entretien de l’enfant pour l’année, qui résidait avec l’enfant au moment où les frais ont été engagés d’exercer l’une des activités suivantes :
+(i) remplir les fonctions d’une charge ou d’un emploi,
+[…]
+[4] Il ne fait aucun doute que les sommes payées par l’appelant à Lisa Spooner pour les dépenses spéciales (garderie) ne constituaient pas des frais de garde d’enfants au sens de la définition donnée au paragraphe 63(3) de la Loi, car l’enfant ne résidait pas avec l’appelant. L’appelant n’a pas soutenu que les sommes qu’il a payées représentaient des frais de garde d’enfants au sens de la Loi; il a plutôt présenté, dans son avis d’appel, des arguments fondés sur la Loi canadienne sur les droits de la personne (la « LCDP ») et sur la Charte.
+[5] Dans la décision Christoffersen v. Minister of National Revenue, [1993] 2 C.T.C. 2054, 93 D.T.C. 727, le juge Brulé a fait l’observation suivante :
+[…] Je conviens que la Cour n’a pas la compétence requise pour examiner une allégation de violation de la Loi canadienne sur les droits de la personne. […]
+[6] La Cour n’a pas compétence pour décider si les dispositions de la Loi violent une disposition de la LCDP. À l’audience, l’appelant a seulement soulevé un argument fondé sur le paragraphe 15(1) de la Charte.
+[7] L’appelant a affirmé que la définition donnée au terme « frais de garde d’enfants » au paragraphe 63(3) de la Loi est discriminatoire envers les particuliers qui n’ont pas la garde d’un enfant, mais qui sont néanmoins tenus de payer une somme au titre des frais de garderie et que cette définition viole donc le paragraphe 15(1) de la Charte. Cette disposition est ainsi rédigée :
+15. (1) La loi ne fait acception de personne et s’applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l’origine nationale ou ethnique, la couleur, la religion, le sexe, l’âge ou les déficiences mentales ou physiques.
+[8] Dans l’arrêt Law c. Ministre du Développement des ressources humaines, [1999] 1 R.C.S. 497, de la Cour suprême du Canada, le juge Iacobucci a fait le commentaire suivant quant à la manière d’analyser une allégation de discrimination fondée sur le paragraphe 15(1) de la Charte :
+[39] À mon avis, pour analyser une allégation de discrimination fondée sur le par. 15(1) de la Charte, il convient de faire une synthèse de ces différentes démarches. Appliquant l’analyse énoncée dans Andrews, précité, et l’analyse en deux étapes décrites notamment dans Egan et Miron, précités, le tribunal appelé à décider s’il y a eu discrimination au sens du par. 15(1) devrait se poser les trois grandes questions suivantes. Premièrement, la loi contestée a) établit‑elle une distinction formelle entre le demandeur et d’autres personnes en raison d’une ou de plusieurs caractéristiques personnelles, ou b) omet‑elle de tenir compte de la situation défavorisée dans laquelle le demandeur se trouve déjà dans la société canadienne, créant ainsi une différence de traitement réelle entre celui-ci et d’autres personnes en raison d’une ou de plusieurs caractéristiques personnelles? Si tel est le cas, il y a différence de traitement aux fins du par. 15(1). Deuxièmement, le demandeur a‑t‑il subi un traitement différent en raison d’un ou de plusieurs des motifs énumérés ou des motifs analogues? Et, troisièmement, la différence de traitement était‑elle réellement discriminatoire, faisant ainsi intervenir l’objet du par. 15(1) de la Charte pour remédier à des fléaux comme les préjugés, les stéréotypes et le désavantage historique? Les deuxième et troisième questions servent à déterminer si la différence de traitement constitue de la discrimination réelle au sens du par. 15(1).
+[9] Plus loin, le juge Iacobucci s’est aussi prononcé sur l’élément de comparaison pertinent :
+[56] Comme je l’ai mentionné plus haut, le juge McIntyre a souligné dans Andrews, précité, que la garantie d’égalité est un concept relatif. En dernière analyse, le tribunal doit établir la différence de traitement par comparaison avec une ou plusieurs autres personnes ou groupes. Il est nécessaire de trouver l’élément de comparaison approprié pour cerner la différence de traitement et les motifs de la distinction. Il y aura lieu de trouver l’élément de comparaison approprié au moment de l’examen des nombreux facteurs contextuels dans l’analyse de la discrimination.
+[57] Pour déterminer quel est l’élément de comparaison approprié, toute une gamme de facteurs doit être prise en compte, notamment, l’objet des dispositions législatives. Une analyse relative au par. 15(1) n’a pas pour objet de juger de l’égalité dans l’abstrait. Son objet est plutôt de déterminer si les dispositions législatives contestées créent entre le demandeur et les autres, sur le fondement des motifs énumérés ou de motifs analogues, une différence de traitement qui entraîne de la discrimination. Il faut examiner à la fois l’objet et l’effet des dispositions pour faire ressortir le groupe ou les groupes de comparaison appropriés. D’autres facteurs contextuels peuvent également être pertinents. Les ressemblances ou dissemblances biologiques, historiques et sociologiques peuvent être pertinentes en particulier pour cerner l’élément de comparaison approprié et, de façon plus générale, pour déterminer si les dispositions créent réellement de la discrimination : voir Weatherall, précité, aux pp. 877 et 878.
+[58] Le point de départ naturel lorsqu’il s’agit d’établir l’élément de comparaison pertinent consiste à tenir compte du point de vue du demandeur. C’est généralement le demandeur qui choisit la personne, le groupe ou les groupes avec lesquels il désire être comparé aux fins de l’analyse relative à la discrimination, déterminant ainsi les paramètres de la différence de traitement qu’il allègue et qu’il souhaite contester. Cependant, il se peut que la qualification de la comparaison par le demandeur ne soit pas suffisante. La différence de traitement peut ne pas s’effectuer entre les groupes cernés par le demandeur, mais plutôt entre d’autres groupes. Le tribunal ne peut manifestement pas, de son propre chef, évaluer un motif de discrimination que n’ont pas invoqué les parties et à l’égard duquel aucune preuve n’a été produite : voir Symes, précité, à la p. 762. Cependant, dans le cadre du ou des motifs invoqués, je n’exclurais pas le pouvoir du tribunal d’approfondir la comparaison soumise par le demandeur lorsque le tribunal estime justifié de le faire.
+[10] Dans l’arrêt Granovsky c. Ministre de l’Emploi et de l’Immigration, [2000] 1 R.C.S. 703, le juge Binnie a fait l’observation suivante :
+[43] La première étape consiste à déterminer si la disposition du RPC relative à la déficience crée une inégalité de traitement en établissant une distinction, fondée sur une ou plusieurs caractéristiques personnelles, entre l’appelant et une autre personne ou un autre groupe à qui on peut le comparer à juste titre. […]
+[11] Dans un arrêt ultérieur de la Cour suprême du Canada, Ministre du Développement des ressources humaines c. Hodge, [2004] 3 R.C.S. 357, le juge Binnie s’est exprimé de la manière suivante au nom de la Cour suprême :
+[23] Le groupe de comparaison approprié est celui qui reflète les caractéristiques du demandeur (ou du groupe demandeur) qui sont pertinentes quant au bénéfice ou à l’avantage recherché, sauf que la définition dans la loi prévoit une caractéristique personnelle qui contrevient à la Charte ou omet une caractéristique personnelle d’une manière qui contrevient à la Charte. Un exemple de la première situation est l’exigence que les conjoints soient de sexe opposé (M. c. H., précité). Un exemple de la seconde situation est l’omission de l’orientation sexuelle dans l’Individual’s Rights Protection Act de l’Alberta (Vriend c. Alberta, [1998] 1 R.C.S. 493).
+[24] Habituellement, il faut tout d’abord analyser la législation (ou la conduite de l’État) qui a donné lieu à la privation de l’avantage ou à l’imposition de l’obligation non désirée. S’il est vrai qu’en l’espèce nous avons affaire à une demande d’accès à un avantage offert par l’État et qu’il faut donc en premier lieu examiner l’objet des dispositions législatives, il faut se livrer au même exercice lorsque la demande est fondée sur l’effet d’une loi ou d’une action de l’État contestée. Ainsi, dans Little Sisters Book and Art Emporium c. Canada (Ministre de la Justice), [2000] 2 R.C.S. 1120, 2000 CSC 69, les modalités d’exercice des pouvoirs conférés aux agents des douanes pour l’interception des publications étaient neutres, mais selon l’appelante, une librairie de Vancouver, les fonctionnaires des douanes visaient de façon discriminatoire les envois de livres et de magazines qui lui étaient destinés, du fait que le magasin s’adressait à une clientèle gaie et lesbienne. Il était clair que les fonctionnaires des douanes avaient systématiquement retardé ou refusé l’entrée de matériel licite. Donc, le groupe de comparaison, défini en fonction de l’effet de la conduite des fonctionnaires des douanes reprochée, est celui constitué des « autres personnes important des publications comparables de nature hétérosexuelle » (par. 120).
+[25] Dans un cas comme dans l’autre, il faut définir l’univers des personnes susceptibles d’avoir droit à un traitement égal à l’égard de l’objet de la demande. J’emploie l’expression « susceptible d’avoir droit » parce que la définition législative, objet de la contestation fondée sur le droit à l’égalité, n’est pas décisive. Sinon, on pourrait plaider en faveur d’une pension de survivant destinée uniquement aux hommes protestants de race blanche en affirmant que tous les hommes protestants de race blanche survivants ont été traités de la même manière. Le paragraphe 15(1) vise non seulement une égalité « formelle », mais aussi une égalité réelle (Andrews, précité, p. 166).
+[12] Dans l’arrêt Withler c. Canada (Procureur général), 2011 CSC 12, la juge en chef McLachlin et la juge Abella ont fait le commentaire suivant au nom de la Cour suprême du Canada :
+[30] La jurisprudence a établi un test à deux volets pour l’appréciation d’une demande fondée sur le par. 15(1) : (1) La loi crée-t-elle une distinction fondée sur un motif énuméré ou analogue? (2) La distinction crée-t-elle un désavantage par la perpétuation d’un préjugé ou l’application de stéréotypes? (Voir Kapp, par. 17.)
+[31] Ces deux volets indiquent que toute distinction n’est pas en soi contraire au par. 15(1) de la Charte (Andrews; Law; Bande et nation indiennes d’Ermineskin, par. 188). L’égalité n’est pas une question de similitude, et le par. 15(1) ne garantit pas le droit à un traitement identique. Il garantit plutôt à chacun le droit d’être protégé contre toute discrimination. Par conséquent, pour établir une violation du par. 15(1), une personne « doit démontrer non seulement qu’[elle] ne bénéficie pas d’un traitement égal devant la loi et dans la loi, ou encore que la loi a un effet particulier sur [elle] en ce qui concerne la protection ou le bénéfice qu’elle offre, mais encore que la loi a un effet discriminatoire sur le plan législatif » (Andrews, p. 182; Bande et nation indiennes d’Ermineskin, par. 188; Kapp, par. 28).
+[13] Par conséquent, il faut d’abord décider si le paragraphe 63(3) de la Loi « créé une distinction fondée sur un motif énuméré ou analogue ». L’appelant semble avoir soutenu que son groupe est composé des parents qui n’ont pas la garde de leur enfant, mais qui payent de frais de garderie et qui sont obligés de le faire en application d’une ordonnance judiciaire (ou d’une entente). Il semble proposer un groupe de comparaison composé des parents qui ont la garde de leur enfant et qui payent des frais de garderie en raison d’une entente conclue avec une garderie. Cependant, les dispositions de la Loi ayant trait aux frais de garde d’enfants ne tiennent pas compte de la personne qui a la garde de l’enfant, mais bien de celle avec qui l’enfant réside. Bien qu’il soit possible que la définition d’« enfant admissible » donnée au paragraphe 63(3) de la Loi permette à une personne qui n’est pas le parent de l’enfant d’avoir droit à une déduction au titre des frais de garde d’enfants, il n’est pas certain que l’on puisse ordonner à cette personne de payer des frais de garderie. Ainsi, compte tenu des dispositions de la Loi que l’appelant conteste et des groupes qu’il a proposés, le groupe de l’appelant est celui des parents qui payent des frais de garderie en application d’une ordonnance judiciaire (ou d’une entente) sans résider avec leur enfant, et le groupe de comparaison est celui des parents qui payent des frais de garde d’enfants (suivant une entente conclue avec une garderie) et qui résident avec leur enfant. Dans la Loi, la distinction pertinente est fondée sur le fait que la personne réside ou non avec l’enfant. Il ne fait aucun doute qu’il ne s’agit pas de l’un des motifs énumérés au paragraphe 15(1) de la Charte.
+[14] Dans l’arrêt Withler c. Canada (Procureur général), précité, la juge en chef McLachlin et la juge Abella se sont prononcées de la sorte :
+[33] La première étape de l’analyse fondée sur le par. 15(1) sert à limiter l’examen judiciaire aux seules distinctions que la Charte visait à interdire. Dans l’arrêt Andrews, la Cour a conclu que la protection du par. 15(1) n’était opposable qu’aux distinctions fondées sur un motif énuméré ou analogue. Un motif analogue est « une caractéristique personnelle qui est soit immuable, soit modifiable uniquement à un prix inacceptable du point de vue de l’identité personnelle » : Corbiere c. Canada (Ministre des Affaires indiennes et du Nord canadien), [1999] 2 R.C.S. 203, par. 13. Des motifs comme l’orientation sexuelle, l’état civil et la citoyenneté ont été reconnus comme des motifs analogues de discrimination.
+[15] Le fait de résider ou non avec son enfant n’est pas une caractéristique qui est soit immuable, soit modifiable uniquement à un prix inacceptable du point de vue de l’identité personnelle. L’enfant qui réside avec un de ses parents pourrait aller résider avec l’autre parent. L’enfant pourrait cesser de résider avec le premier parent pour aller résider avec l’autre sans que cela représente un prix inacceptable du point de vue de l’identité personnelle pour l’un ou l’autre de ses parents. Par conséquent, je suis d’avis qu’il ne s’agit pas d’un motif analogue et que la définition de « frais de garde d’enfants » donnée au paragraphe 63(3) de la Loi ne contrevient pas au paragraphe 15(1) de la Charte.
+[16] Par conséquent, l’appel est rejeté, sans dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 3e jour de novembre 2011.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 24e jour de novembre 2011.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2011 CCI 503
+No DU DOSSIER DE LA COUR :
+2011-810(IT)I
+INTITULÉ :
+Dan Fannon c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+London (Ontario)
+DATE DE L’AUDIENCE :
+Le 24 octobre 2011
+MOTIFS DU JUGEMENT :
+L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT :
+Le 3 novembre 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Tamara Watters
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

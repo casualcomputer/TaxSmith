@@ -1,0 +1,157 @@
+Title: Doan-Gillan c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29151/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-157-29151-doan-gillan-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2009-03-17
+
+# Doan-Gillan c. M.R.N.
+
+- Citation: 2009 CCI 157
+- Decision date: 2009-03-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6681, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Doan-Gillan c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-17
+Référence neutre
+2009 CCI 157
+Numéro de dossier
+2008-2538(EI)
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2008-2538(EI)
+2008-2539(CPP)
+ENTRE :
+KELLY DOAN-GILLAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 13 mars 2009, à London (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Pascale Tétrault
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des décisions rendues à l’égard de l’appelante en vertu de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada pour la période allant du 1er janvier 2006 au 26 septembre 2007 sont accueillis et les décisions sont annulées.
+Signé à Ottawa, Canada, ce 17e jour de mars 2009.
+« V. A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 14e jour de mai 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2009CCI157
+Date : 20090317
+Dossiers : 2008-2538(EI)
+2008-2539(CPP)
+ENTRE :
+KELLY DOAN-GILLAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Miller [1] L’appelante interjette appel de la décision rendue par le ministre du Revenu national (le « ministre »), selon laquelle elle occupait un emploi assurable et ouvrant droit à pension auprès de Syrier Poultry Limited (le « payeur ») pendant la période allant du 1er janvier 2006 au 26 septembre 2007.
+[2] Les présents appels ont été entendus sur preuve commune. La seule question en litige est de savoir si l’appelante travaillait pour le payeur en vertu d’un contrat de louage de services ou d’un contrat d’entreprise.
+[3] Le ministre a fondé sa décision sur les hypothèses de fait suivantes :
+[traduction]
+a) le payeur exploite une entreprise d’élevage de poulets destinés à l’alimentation, de l’âge d’un jour à celui de leur mise en marché;
+b) Peter Syrier prend toutes les décisions commerciales au nom du payeur;
+c) l’appelante dirige les activités quotidiennes de l’entreprise;
+d) l’appelante a été engagée en vertu d’une entente verbale;
+e) l’appelante est chargée des tâches suivantes :
+- répandre des copeaux, préparer les installations, les aménager et recevoir de nouveaux poussins;
+- pendant la croissance des poulets, procéder à des ajustements au niveau des mangeoires et de l’alimentation en eau, administrer des médicaments, surveiller le poids des poulets, et finalement les expédier;
+- remplir les formulaires de l’OFSAP et les documents d’expédition;
+- une fois les poulet expédiés, récurer, nettoyer et désinfecter les poulaillers;
+- chaque cycle dure neuf semaines avant de recommencer.
+f) l’appelante exécutait ces tâches à la ferme du payeur;
+g) l’appelante devait prévenir le payeur en personne et par téléphone en cas de problème;
+h) le payeur se rendait à la ferme plusieurs fois pendant la période de croissance;
+i) le payeur supervisait le travail de l’appelante en évaluant l’état des poulets et des installations pendant la période de croissance ainsi qu’en analysant les graphiques et en évaluant les résultats finals;
+j) l’appelante recevait régulièrement des instructions oralement et par écrit au sujet des soins à apporter aux poulets et des documents à remplir;
+k) l’appelant devait obtenir l’approbation du payeur avant d’apporter quelque modification que ce soit aux différents programmes ainsi que pour toute réparation majeure;
+l) l’appelante recevait une rémunération fixe de 2 500 $ à la fin du cycle de neuf semaines et avait accès à la maison de ferme, à l’exception des commodités;
+m) l’appelante était payée par chèque, établi à son nom;
+n) l’appelante ne bénéficiait pas d’un régime d’avantages sociaux et n’avait droit ni à une paye de vacances ni à des congés payés;
+o) l’appelante était responsable de l’élevage 24 heures sur 24, aussi longtemps que les poulets se trouvaient sur place;
+p) l’appelante n’avait pas un horaire de travail fixe; elle devait effectuer les tâches requises à chaque fois que cela s’avérait nécessaire;
+q) le payeur a formé l’appelante (en lui donnant des instructions au sujet de l’utilisation de l’équipement lourd);
+r) le payeur fournissait gracieusement à l’appelante l’équipement requis, comme les tracteurs, les souffleuses et le matériel de nettoyage;
+s) le payeur était responsable de l’entretien et de la réparation de l’équipement;
+t) l’appelante fournissait ses propres petits outils;
+u) le payeur décidait quand une tâche devait être refaite;
+v) l’appelante remboursait les coûts des produits ou de l’équipement qu’elle égarait ou endommageait;
+w) l’appelante n’offrait pas de services à une autre ferme et n’avait pas d’autres clients que le payeur;
+x) l’appelante n’agissait pas comme une femme d’affaires à son compte (elle n’avait pas de compte d’affaires ni d’entreprise enregistrée, elle ne faisait pas de publicité pour vendre ses services et n’investissait pas dans une entreprise);
+y) l’appelante devait fournir ses services elle‑même;
+z) d’autres travailleurs effectuaient les mêmes tâches qu’elle dans des conditions similaires.
+L’appelante conteste les hypothèses énoncées aux paragraphes g), h), i), j), k), q) et y), et j’accepte son témoignage.
+[4] Au cours de l’audience, l’appelante et Peter Syrier ont déposé, ce dernier étant le président et le seul actionnaire du payeur.
+[5] Il ressortait clairement des déclarations des deux témoins qu’ils souhaitaient que l’appelante travaille pour le payeur en vertu d’un contrat d’entreprise. Comme l’hypothèse d) le souligne, l’appelante et le payeur ont conclu une entente verbale.
+[6] M. Syrier a déclaré posséder trois fermes ainsi qu’une entreprise de fabrication de béton. Pendant la période en cause, il a utilisé deux de ses fermes pour élever des poulets destinés à l’alimentation. Les poussins âgés d’un jour arrivaient de Maple Lodge et étaient élevés dans la ferme jusqu’à l’âge de mise en marché. M. Syrier s’occupait de l’intégralité du travail sur une de ses fermes et a engagé l’appelante pour travailler à la ferme de Woodstock.
+[7] L’appelante était responsable des activités et décisions quotidiennes à la ferme de Woodstock. Ses tâches consistaient à nettoyer et à désinfecter le poulailler avant la livraison des poussins, à y répandre des copeaux, et plus généralement, à tout préparer pour l’arrivée des poussins. Après l’arrivée des poussins, elle devait prendre toutes les décisions concernant la nourriture, l’eau, la température et la médication de manière à ce que les poussins grandissent en bonne santé. L’appelante devait surveiller et ajuster la nourriture, l’eau et la température régulièrement. Apparemment, le taux de mortalité des poussins est généralement de 2 à 3 %. Quand les poussins atteignaient l’âge de mise en marché, l’appelante les pesait et les préparait à être expédiés à Maple Lodge. M. Syrier a qualifié ce processus de cycle complet, affirmant qu’il durait habituellement neuf semaines. On comptait cinq cycles par an à la ferme de Woodstock.
+[8] L’appelante ne travaillait pas selon un horaire régulier. Elle devait prendre en charge toute question susceptible de se poser relativement aux poussins, et ce, 24 heures sur 24.
+[9] L’appelante était chargée de s’assurer que la ferme fonctionnait correctement. Elle était responsable de l’ensemble des réparations et de l’entretien devant être effectués dans la ferme, tandis que le payeur assumait les coûts des réparations des problèmes de nature structurelle qui pouvaient survenir dans les bâtiments. M. Syrier a décrit une situation dans laquelle une partie du plancher du poulailler avait eu besoin de réparations. Il a déclaré qu’il avait acheté les panneaux de contreplaqué, mais que c’est l’appelante qui avait été chargée de réparer le plancher.
+[10] L’appelante ne pouvait réaliser de profits dans l’accomplissement de ses tâches, étant donné que la seule indemnisation qu’elle recevait était l’accès à la maison de ferme et une somme de 2 500 $ pour chaque cycle de neuf semaines.
+[11] Les témoins ont tous deux déclaré que l’appelante pouvait avoir d’autres emplois tout en travaillant pour le payeur. Je conclus que l’appelante n’était pas obligée de fournir ses services elle‑même, contrairement à l’hypothèse formulée par le ministre. L’appelante pouvait engager des travailleurs pour l’aider, et quand elle l’a fait, elle était responsable de leur rémunération. Elle a déclaré avoir engagé deux travailleurs pour nettoyer le poulailler à la fin de chaque cycle et les avoir payé 100 $ chacun. Le jour de l’audience, elle devait engager un travailleur afin de préparer les poulets en vue de l’expédition.
+[12] En ce qui a trait à la formation, j’accepte l’affirmation voulant qu’au début, M. Syrier ait expliqué à l’appelante les tâches qu’elle aurait à accomplir, et qu’il se soit rendu à la ferme deux ou trois fois afin de lui demander si elle avait des questions. J’accepte également le témoignage de l’appelante, selon lequel elle n’avait pas besoin de formation pour utiliser l’équipement lourd de la ferme. Elle savait déjà comment se servir d’un tel équipement étant donné que son père possédait une ferme.
+[13] En ce qui a trait aux hypothèses formulées aux paragraphes g), h), j) et k), l’appelante a déclaré qu’elle n’était pas supervisée dans l’accomplissement de ses tâches, ce que le témoignage de M. Syrier est venu confirmer. Ce dernier a affirmé que s’il avait dû la superviser ou lui donner des instructions régulières, il ne l’aurait pas embauchée. Les deux témoins ont déclaré que l’appelante n’appelait M. Syrier que pour les problèmes sérieux – si un mur s’écroulait par exemple. M. Syrier se rendait à la ferme quand il avait besoin d’équipement, et il appelait généralement l’appelante pour lui communiquer toutes les nouvelles instructions qu’il recevait de Maple Lodge, comme un changement dans la médication administrée aux poussins. Il semble que le payeur définissait les tâches à effectuer et qu’il appartenait à l’appelante de les accomplir de la manière qui lui semblait appropriée.
+[14] En ce qui concerne l’hypothèse formulée au paragraphe i), l’appelante a déclaré qu’elle ne recevait les résultats finals de chaque cycle que quand il y avait un problème avec les poulets. Elle a cité un exemple, un cas où les poulets étaient supposés avoir atteints un poids précis, mais où ils pesaient moins que ce poids à la fin du cycle. Elle a déclaré qu’en de telles circonstances, le payeur l’informait de la différence de poids.
+[15] Le payeur fournissait tout l’équipement lourd tandis que l’appelante fournissait les petits outils, tels que les tuyaux flexibles, les pelles, les grattoirs, les clés, les tondeuses et les lampes de poche. L’appelante devait se servir de son camion pour aller chercher du matériel lorsque c’était nécessaire.
+[16] L’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc[i] est l’arrêt de principe en ce qui concerne la distinction entre un contrat de louage de services et un contrat d’entreprise. Le juge Major a rendu l’arrêt de la Cour suprême et a examiné les quatre critères définis dans l’arrêt Wiebe Door Services Ltd. c. Ministre du Revenu national[ii]. Aux paragraphes 47 et 48 de sa décision, le juge Major a affirmé que la démarche suivie dans la décision Market Investigations Ltd. v. Minister of Social Security[iii] offrait une solution convaincante. Il a déclaré :
+[47] Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches. [Non souligné dans l’original.]
+[48] Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[17] Ayant appliqué les critères, je suis d’avis que l’appelante n’était pas une employée du payeur. Comme je l’ai dit plus tôt, le payeur ne supervisait pas la manière dont l’appelante accomplissait ses tâches, et il ressort du témoignage de M. Syrier qu’il avait renoncé à tout droit d’exercer un contrôle sur celle‑ci. L’appelante pouvait engager des travailleurs pour l’aider et elle était chargée de les rémunérer. L’appelante travaillait sur appel, 24 heures sur 24.
+[18] Toutefois, dans le cadre des présents appels, il existe des indices d’un contrat de louage de services. Ces indices sont les suivants : l’appelante recevait une rémunération fixe et ne pouvait réaliser de profits; le payeur lui fournissait l’équipement lourd dont elle avait besoin pour s’acquitter de ses tâches.
+[19] En l’espèce, considérant que certains éléments correspondent aux caractéristiques définissant un contrat de louage de services et que d’autres renvoient aux caractéristiques d’un contrat d’entreprise, je garde à l’esprit la décision rendue dans l’arrêt Wolf c. Canada[iv], dans lequel le juge Noël a déclaré, au paragraphe 122 :
+J’accueillerais aussi l’appel. À mon avis, il s’agit d’un cas où la qualification que les parties ont donnée à leur relation devrait se voir accorder un grand poids. Je reconnais que la façon dont les parties décident de décrire leur relation n’est pas habituellement déterminante, en particulier lorsque les critères juridiques applicables pointent dans l’autre direction. Mais, dans une issue serrée comme en l’espèce, si les facteurs pertinents pointent dans les deux directions avec autant de force, l’intention contractuelle des parties et en particulier leur compréhension mutuelle de la relation ne peuvent pas être laissées de côté.
+[20] Je conclus que l’appelante a été engagée en vertu d’un contrat d’entreprise. J’ai accordé une importance prépondérante aux facteurs de l’absence de supervision et de contrôle par le payeur.
+[21] Pour l’ensemble de ces motifs, les appels sont accueillis.
+Signé à Ottawa, Canada, ce 17e jour de mars 2009.
+« V. A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 14e jour de mai 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2009CCI157
+NOS DES DOSSIERS DE LA COUR : 2008-2538(EI)
+2008-2539(CPP)
+INTITULÉ : Kelly Doan-Gillan et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Le 13 mars 2009
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 17 mars 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Pascale Tétrault
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[i] 2001 CSC 59.
+[ii] [1986] 3 C.F. 553.
+[iii] [1968] 3 All E.R. 732.
+[iv] [2002] 4 C.F. 396 (CAF).

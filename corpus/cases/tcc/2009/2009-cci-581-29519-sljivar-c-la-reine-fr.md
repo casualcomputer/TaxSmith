@@ -1,0 +1,191 @@
+---
+title: "Sljivar c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29519/index.do"
+last_modified: "2009-11-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 581"
+citation2: ""
+neutral_citation: "2009 CCI 581"
+decision_date: "2009-11-10"
+language: "fr"
+item_id: "29519"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6276
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:22:59.362000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eaf4439a7b7a2df65d8e8e6784a3c2b7a47ac93b061106c23ca4e35232b6c9b5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sljivar c. La Reine
+
+- Citation: 2009 CCI 581
+- Decision date: 2009-11-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6276, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sljivar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-11-10
+Référence neutre
+2009 CCI 581
+Numéro de dossier
+2008-597(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-597(IT)G
+ENTRE :
+MEJRAM SLJIVAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 26 octobre 2009, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Avocat de l’appelant :
+Me Bryan J. Tham
+Avocat de l’intimée :
+Me Laurent Bartleman
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2002 et 2003 est rejeté.
+Les dépens sont accordés à l’intimée.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2009.
+« G.J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 18e jour de février 2010.
+Erich Klein, réviseur
+Référence : 2009 CCI 581
+Date : 20091110
+Dossier : 2008-597(IT)G
+ENTRE :
+MEJRAM SLJIVAR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] Il s’agit d’un appel qui a été interjeté à l’égard d’une cotisation établie pour l’année d’imposition 2002[1] et qui porte sur la validité d’une renonciation signée le 5 avril 2006 par l’appelant, Mejram Sljivar, relativement à la période normale de nouvelle cotisation pour l’année d’imposition 2002 (la « renonciation ») (voir l’alinéa 152(3.1)b) et le sous‑alinéa 152(4)a)(ii) de la Loi de l’impôt sur le revenu (la « Loi »)). À l’audience, l’appelant a remis en cause la validité de la cotisation, mais pas le montant de celle‑ci. Si je devais conclure que la renonciation est invalide, il me faudrait trancher une seconde question, soit celle de savoir si, dans sa déclaration de revenus produite pour l’année d’imposition 2002, l’appelant a fait une présentation erronée des faits par négligence, inattention ou omission volontaire, de sorte que le ministre du Revenu national (le « ministre ») pouvait établir une nouvelle cotisation après la période normale de nouvelle cotisation (voir l’alinéa 152(3.1)b) de la Loi).
+[2] L’appelant est né et a grandi en Bosnie, où il a arrêté d’aller à l’école après la 8e année. Il a immigré au Canada en 1993. Pendant l’année 2002, l’appelant était associé dans une entreprise de parement d’aluminium; il installait du parement mural et des gouttières. Au moment de l’audience, l’appelant était âgé de 36 ans.
+[3] Quand il est arrivé au Canada, l’appelant était incapable de parler, d’écrire ou de comprendre l’anglais. Il a suivi des cours d’anglais, langue seconde. L’appelant a dit qu’il est maintenant capable de lire des mots « simples » en anglais. Il peut aussi lire des « lettres simples », et, s’il éprouve des difficultés, a-t-il dit, il demande à son épouse de lire pour lui. Cependant, bien que l’appelant fasse affaire en anglais, c’est son associé qui signe les documents d’affaires. L’appelant a affirmé qu’il ne signe jamais de contrat.
+[4] L’appelant a signé sa déclaration de revenus pour 2002 le 11 avril 2003, et l’a produite auprès de l’Agence du revenu du Canada (l’« ARC ») peu après. Cette déclaration avait été établie par Paul S. Snider Consulting Inc. L’avis de cotisation pour 2002 était daté du 8 mai 2003 et a été envoyé à l’appelant. Le ministre a établi une cotisation conformément à la déclaration produite par l’appelant.
+[5] La « période normale de nouvelle cotisation », au sens de l’alinéa 152(3.1)b) de la Loi, pendant laquelle le ministre pouvait établir une nouvelle cotisation à l’égard de l’appelant pour l’année d’imposition 2002 expirait le 8 mai 2006.
+[6] Un exposé de la chronologie des faits ayant mené à l’appel sera peut-être utile au lecteur :
+a) Le 14 mars 2006 : Monsieur R. Sharma, de l’ARC, a informé l’appelant qu’on avait entrepris une vérification à son égard pour l’année 2002.
+b) Le 20 mars 2006 : Une rencontre entre l’appelant, son comptable d’alors – M. Snider –, et M. Sharma a été fixée au 27 mars 2006, au bureau de Mississauga (Ontario) de l’ARC. La rencontre a ultérieurement été reportée au 28 mars 2006.
+c) Le 28 mars 2006 : L’appelant, son comptable et M. Sharma se sont rencontrés. Ils ont discuté de diverses questions relatives à l’entreprise de l’appelant. L’appelant s’est engagé à fournir à l’ARC des relevés bancaires, des livrets de dépôt, des factures de vente et d’autres documents. Aucune mention n’a été faite de la possibilité de demander à l’appelant de signer un formulaire de renonciation relativement à l’année d’imposition 2002. La rencontre a duré entre une et deux heures.
+d) Le 31 mars et le 3 avril 2006 : L’appelant et M. Sharma ont échangé des appels téléphoniques au sujet des documents que l’appelant s’était engagé à fournir et du moment où il allait les fournir.
+e) Le 4 avril 2006 : L’appelant a apporté des documents au bureau de Mississauga de l’ARC.
+[7] L’appelant a dit que M. Sharma l’avait appelé le 5 avril 2006 pour lui demander de venir [traduction] « signer quelque chose » au bureau de l’ARC. L’appelant soutient que M. Sharma ne lui avait pas dit ce qu’il voulait lui faire signer. Il a dit qu’il s’était rendu au bureau de l’ARC la veille et qu’on n’avait pas mentionné la signature d’un document à ce moment‑là.
+[8] L’appelant a dit se souvenir qu’il était fort occupé le 5 avril. Des clôtures de transaction avaient lieu ce jour‑là dans le lotissement où il travaillait, et il s’est plaint d’avoir perdu trois ou quatre jours de travail traitant avec l’ARC. De toute manière, l’appelant a dit être [traduction] « allé avec [ses] vêtements de travail vers l’heure du dîner » au bureau de l’ARC pour signer le document comme M. Sharma le lui avait demandé. L’appelant avait stationné son véhicule devant l’immeuble et appelé M. Sharma pour lui dire qu’il était arrivé. Ensuite, selon l’appelant, [traduction] « M. Sharma est [descendu dans le hall] avec le dossier, m’a indiqué où signer […] j’ai inscrit “contribuable” [sous ma signature] […] M. Sharma m’a aidé à orthographier le mot “contribuable” ».
+[9] L’appelant a dit que M. Sharma avait posé le doigt à l’endroit où le formulaire devait être signé. M. Sharma avait déjà rempli le formulaire. L’appelant a répété qu’il était occupé au travail le 5 avril, et qu’il n’avait même pas lu le titre du formulaire ni demandé à apporter le formulaire chez lui pour l’examiner.
+[10] L’appelant a affirmé que M. Sharma ne lui avait pas expliqué la nature du document qu’il voulait lui faire signer, et il a dit qu’il croyait que cette signature faisait [traduction] « partie du processus ». Il a donc signé la renonciation dans le hall de l’immeuble, près de la sortie. L’appelant a déclaré que M. Sharma ne lui avait pas dit en quoi consistait le document et qu’il ne lui avait pas conseillé de consulter son comptable avant de le signer. L’appelant a reconnu qu’il avait simplement signé la renonciation sans l’avoir lu. Il a répété qu’il était pressé de retourner travailler.
+[11] Pendant l’interrogatoire principal, l’avocat de l’appelant a passé la renonciation en revue avec son client. L’appelant a expliqué qu’il avait inscrit « tax » sous sa signature, à l’endroit réservé au titre du signataire, mais que M. Sharma lui avait épelé « payer » pour compléter le mot « taxpayer » (contribuable). À la demande de M. Sharma, l’appelant avait écrit la date, corrigeant ainsi une date antérieure qui avait été inscrite par M. Sharma.
+[12] L’appelant a témoigné que, lorsqu’il avait signé le formulaire de renonciation, il ne savait pas ce qu’était une renonciation. Ce n’est que plus tard, quand il a reçu l’avis de nouvelle cotisation, que son nouveau comptable, James Simpson, lui a expliqué qu’il avait signé une renonciation et ce à quoi celle‑ci servait. L’appelant a dit qu’il s’était fâché quand il avait appris ce qui s’était passé, et que, s’il avait compris ce qu’était une renonciation, il n’aurait pas signé le formulaire.
+[13] Lorsqu’il a été contre‑interrogé, l’appelant a été incapable de se souvenir si, quand ils s’étaient parlé au téléphone, M. Sharma lui avait dit qu’il ne lui restait plus beaucoup de temps et qu’il allait devoir fermer le dossier si l’appelant ne signait pas une renonciation.
+[14] C’est M. Snider qui avait recommandé les services de M. Simpson à l’appelant. M. Simpson est spécialiste en déclarations fiscales. Il a témoigné que l’appelant et son associé faisaient tous deux l’objet de vérifications de l’ARC en mars 2006. M. Simpson a affirmé que, le 4 mai 2006, l’appelant avait reçu un avis de 30 jours de l’ARC, c’est‑à‑dire une lettre dans laquelle l’ARC expliquait la cotisation qu’elle projetait établir et donnait 30 jours à l’appelant pour présenter d’autres observations. M. Simpson s’est alors rendu compte que le délai de trois ans qu’avait l’ARC pour établir une nouvelle cotisation à l’égard de l’année 2002 allait bientôt expirer. Il n’a pas rencontré l’appelant et son associé avant le 9 mai 2006, et il a ensuite fixé un rendez‑vous avec l’ARC. C’est à ce moment qu’il a appris l’existence de la renonciation.
+[15] Le 5 juin 2006, M. Simpson a rencontré M. Sharma. Le 15 juin, M. Simpson a écrit à M. Sharma pour l’informer que ses clients – l’appelant et son associé – ne se souvenaient pas d’avoir signé une renonciation. M. Simpson a dit que, lors d’une deuxième rencontre, qui avait eu lieu le 29 juin, on lui avait dit que l’ARC avait les renonciations en main, [traduction] « un point c’est tout ».
+[16] M. Sharma a nié avoir usé de toute forme de « tromperie », comme l’a prétendu l’avocat de l’appelant, pour faire signer la renonciation par l’appelant. Il a affirmé qu’après la rencontre du 28 mars 2006, M. Snider n’avait plus jamais communiqué avec lui, et que toutes les communications ultérieures relativement à la vérification avaient été faites avec l’appelant.
+[17] M. Sharma a affirmé catégoriquement que, le 5 avril 2006, avant que l’appelant ne vienne à son bureau, il lui avait expliqué que l’ARC avait seulement trois ans pour établir une nouvelle cotisation et que, si l’appelant avait besoin de plus de temps pour obtenir des pièces justificatives, il lui fallait signer la renonciation, sans quoi l’ARC allait établir la nouvelle cotisation. L’appelant aurait alors dit qu’il se rendrait au bureau de l’ARC pour signer le document. M. Sharma a confirmé que l’appelant avait signé la renonciation dans le hall de l’immeuble où se trouvent les locaux de l’ARC, et qu’il avait indiqué à l’appelant où signer.
+[18] M. Sharma avait rempli le formulaire de renonciation le 21 mars 2006. Il a dit que cela faisait partie de la « procédure normale » qui devait être suivie [traduction] « si la date d’expiration du délai approchait […] à tout hasard ».
+[19] M. Sharma a été incapable de se souvenir si l’appelant lui avait demandé de l’aider à signer la renonciation. Toutefois, selon M. Sharma, l’appelant lui avait demandé « où faut‑il signer? » M. Sharma a dit qu’il avait proposé à l’appelant de lui envoyer le formulaire de renonciation par télécopieur.
+[20] L’avocat de l’appelant a demandé à M. Sharma pourquoi il n’avait pas présenté le formulaire de renonciation à l’appelant lors de leur rencontre du 28 mars 2006, qui avait duré environ deux heures. M. Sharma a répondu qu’il n’avait pas encore reçu les documents à ce moment‑là. M. Sharma a dit : [traduction] « Je n’ai pas mentionné la renonciation. » Il a dit qu’il [traduction] « attendai[t] de recevoir quelque chose » et qu’il voulait voir combien de temps il faudrait à l’appelant pour obtenir les documents voulus avant de lui parler de la renonciation. M. Sharma a répété qu’il avait expliqué la portée de la renonciation à l’appelant le 5 avril. M. Sharma a dit qu’il pouvait comprendre l’appelant quand il s’exprimait en anglais. M. Sharma a expliqué qu’il avait besoin de la renonciation pour pouvoir accorder plus de temps à l’appelant pour fournir des documents et des renseignements.
+[21] L’appelant avait fourni à son comptable d’alors, M. Snider, tous ses documents pour que ce dernier établisse sa déclaration de revenus pour 2002. Une fois la déclaration établie et prête à être signée, l’appelant s’est rendu au bureau de M. Snider. L’appelant n’a pas examiné la déclaration ni vérifié si elle comportait des erreurs ou des omissions, se contentant de regarder le montant d’impôt qu’il devait payer. Comme l’appelant l’a dit, il avait vérifié le résultat. Il n’avait posé aucune question à M. Snider ni ne lui avait demandé d’expliquer le contenu de la déclaration.
+[22] D’après l’appelant, M. Snider déterminait tous les revenus d’entreprise et tous les revenus personnels à déclarer, de même que les déductions pouvant être demandées. C’est donc M. Snider qui aurait décidé de demander une déduction pour un bureau situé dans la résidence de l’appelant et une déduction pour amortissement à l’égard d’un sofa de 2 319 $ acheté en 2000 pour la résidence de l’appelant.
+[23] Lorsqu’il a présenté ses observations, l’avocat de l’appelant a mis l’accent sur ce que M. Sharma aurait pu et dû faire pour empêcher l’appelant de signer la renonciation. Par exemple, l’avocat de l’appelant a affirmé que M. Sharma « aurait pu » présenter le formulaire de renonciation pendant la rencontre du 28 mars, et s’il l’avait fait, M. Snider « aurait pu » informer l’appelant des conséquences de la signature de la renonciation. Je prends note du fait que M. Snider n’a pas témoigné.
+[24] L’avocat de l’appelant a aussi soutenu que M. Sharma savait que l’appelant ne maîtrisait pas l’anglais, et qu’il voulait donc traiter directement avec lui plutôt qu’avec M. Snider. Il n’y a absolument aucune preuve du bien‑fondé de cette assertion. L’avocat de l’appelant devrait être plus prudent et prendre garde de lancer des accusations aussi irréfléchies.
+[25] Enfin, l’avocat de l’appelant a soutenu que l’appelant était [traduction] « nouvellement arrivé au Canada » – en fait, il y vivait depuis 13 ans – et qu’il ne comprenait pas ce qui se passait, croyant que la signature de la renonciation faisait partie du processus normal. L’avocat de l’appelant a ajouté que, même après avoir signé la renonciation, l’appelant avait continué à fournir des documents à M. Sharma. Ce n’est que plus tard, quand il a rencontré M. Simpson, que l’appelant a compris ce qu’il avait signé.
+[26] L’appelant a invoqué l’arrêt Saunders v. Anglia Building Society[2] à l’appui de l’argument selon lequel il était à la fois incapable de lire le formulaire de renonciation et incapable de le comprendre suffisamment, si bien que la renonciation est frappée d’invalidité. Il a cité le passage suivant tiré des motifs de lord Pearson dans Saunders :
+[traduction]
+À mon avis, la défense de non est factum devrait pouvoir être invoquée, dans un cas où c’est indiqué, afin d’offrir un redressement à une personne qui, pour des raisons permanentes ou temporaires (qui ne se limitent pas à la cécité ou à l’analphabétisme), est incapable de lire l’acte ou autre document à signer et d’en avoir une compréhension suffisante. Par « compréhension suffisante », j’entends une compréhension permettant au moins de déceler une différence fondamentale entre le document signé et celui que le signataire croyait avoir signé. Pour qu’une personne puisse obtenir un tel redressement, il faut, toutefois, qu’il s’agisse d’un cas où ce redressement est indiqué. Il ne serait pas indiqué si : a) le document avait été signé par suite de la négligence du signataire, qui n’avait pas pris les précautions voulues; ou b) le document signé était fondamentalement différent de celui que le signataire croyait signer. Plus loin, je traiterai de la négligence et de la différence fondamentale.
+[27] Selon l’avocat de l’appelant, son client était incapable de lire et de comprendre la renonciation. De plus, il a affirmé que M. Sharma a fait preuve de négligence en ne prévenant pas l’appelant des conséquences de la signature de la renonciation.
+[28] L’avocat de l’appelant a aussi cité Canadian Bank of Commerce v. Shotbolt et al[3], où le juge Kroft a fait l’observation suivante à la page 747 :
+[traduction]
+[…] D’une part, il est important, particulièrement dans le monde du commerce, que l’on puisse se fier aux documents qui semblent avoir été signés dans le cours normal des affaires. D’autre part, les tribunaux sont réticents à imposer un fardeau à une personne qui n’aurait probablement jamais signé un document si elle avait compris sa nature et son objet véritables. Cela est particulièrement vrai dans les cas où l’avantage que cette personne tire de la signature est faible par rapport au fardeau qui lui est imposé.
+[29] Finalement, dans Northside Economic Development Assistance Corporation (“NEDAC”) v. James Andrew Strickland and Robena Elizabeth Strickland, une décision de la section de première instance de la Cour suprême de la Nouvelle‑Écosse rendue par la juge en chef Glube (tel était alors son titre), il a été conclu que la Banque Royale du Canada et la NEDAC avaient l’obligation de s’assurer que les signataires de contrats de prêts garantis par deux hypothèques mobilières et par des billets comprenaient ce qu’ils signaient, particulièrement dans le cas de la personne qui n’avait pas participé à la négociation des contrats de prêt. Selon la preuve présentée à la juge en chef, l’un des défendeurs ne savait pas et ne comprenait pas que sa signature allait la rendre responsable personnellement. Elle croyait qu’elle devait signer parce qu’elle était l’épouse de l’autre défendeur. Lorsqu’elle avait signé les contrats de prêts hypothécaires et les documents y afférents, elle ne comprenait pas ce qu’était une hypothèque mobilière.
+[30] Cependant, l’année suivante, dans les motifs rédigés par le juge Estey, la Cour suprême du Canada[4] est arrivée à la conclusion suivante :
+[…] Entre une partie innocente (l’appelante) et les intimés, le droit doit tenir compte du fait que l’appelante était absolument innocente de toute négligence, insouciance et n’avait commis aucun tort, alors que les intimés, par leur conduite insouciante, ont permis aux auteurs du tort d’infliger une perte. Entre l’appelante et les intimés, la simple justice exige que la partie qui pouvait, en exerçant une diligence raisonnable, éviter une perte à l’une ou l’autre des parties assume toute perte qui en résulte lorsque la seule autre solution pour la Cour serait de faire supporter la perte par l’appelante innocente. […]
+[31] Lorsqu’il s’est rendu au bureau de l’ARC le 5 avril 2006, l’appelant était pressé de retourner travailler. Même si j’admettais que l’anglais de l’appelant était faible à ce moment‑là, il était capable de lire le titre du formulaire, à savoir « renonciation », et, s’il ne l’avait pas compris, il aurait pu demander à M. Sharma de lui en expliquer le sens si ce dernier ne lui avait pas déjà donné d’explications concernant le document. Le témoignage de l’appelant m’a donné l’impression que l’appelant était pressé et voulait retourner travailler le plus rapidement possible. Ainsi, l’appelant a négligé de prendre des précautions élémentaires avant de signer la renonciation.
+[32] La situation de l’appelant n’était pas identique à celle de M. et de Mme Strickland dans NEDAC, où les intérêts du débiteur et ceux du créancier étaient opposés. En l’espèce, il s’agit d’une renonciation et la signature d’une renonciation peut être avantageuse autant pour le contribuable que pour le fisc. Comme l’a souligné le juge Joyal dans la décision Cal Investments[5]:
+Une renonciation semblable à celle qui fait l’objet du présent litige pourrait être considérée comme un accommodement entre la Couronne et un contribuable qui permet d’améliorer l’administration de la Loi de l’impôt sur le revenu et de déterminer de façon plus efficace toute dette découlant de l’application de celle-ci. Compte tenu des délais de prescription prévus à l’article 152 de la Loi à l’égard des cotisations, la Couronne demande une renonciation afin de pouvoir continuer son évaluation dans le cadre d’un processus administratif normal sans devoir se préoccuper des délais. Pour sa part, le contribuable sait très bien que, lorsqu’une cotisation est établie lui seul a le fardeau de prouver qu’elle est erronée. Ce fardeau devient beaucoup plus lourd si la Couronne, qui voit approcher la fin du délai, établit ce qu’on pourrait appeler une cotisation prématurée dans laquelle elle inscrirait par mesure de prudence, de nombreux éléments divers que le contribuable devrait réfuter un à un. Dans ces circonstances, le contribuable sera porté à considérer la renonciation comme une solution avantageuse tant pour lui que pour la Couronne et se conformera habituellement à la demande de celle-ci.
+En outre, dans bien des cas, la renonciation peut se limiter à des questions précises, c’est-à-dire les questions relativement auxquelles le travail d’évaluation n’est pas terminé et qui demeurent effectivement les seuls points non réglés à l’égard desquels la Couronne pourrait décider d’établir une cotisation ou une nouvelle cotisation. Ce genre de renonciation a pour effet de rétrécir la portée de la cotisation et comporte des avantages tant pour la Couronne que pour le contribuable.
+[33] Rien dans la preuve n’indique que M. Sharma a trompé l’appelant pour lui faire signer la renonciation. L’ARC aurait pu établir une cotisation le jour même où la renonciation a été signée, ou, de toute manière, au plus tard le 8 mai 2006. Elle n’avait pas besoin de la renonciation pour ce faire. Le fait que l’appelant a continué à fournir des documents à M. Sharma après la signature de la renonciation démontre que la renonciation remplissait son objet, c’est‑à‑dire : permettre au contribuable de fournir des renseignements supplémentaires pour éviter que soit établie la cotisation projetée.
+[34] Si je devais conclure que la cotisation n’était pas valide, et donc que la nouvelle cotisation a été établie hors de la période normale de nouvelle cotisation, la deuxième question se poserait. Compte tenu des faits qui m’ont été présentés, l’appelant a fait preuve de négligence en n’examinant même pas superficiellement sa déclaration de revenus pour 2002 et en acceptant tout ce que son comptable avait déclaré ou omis de déclarer dans la déclaration.
+[35] L’avocat de l’appelant a soutenu que, comme le ministre n’avait pas imposé de pénalité en vertu du paragraphe 163(2) de la Loi, il ne pouvait pas établir de nouvelle cotisation après la période normale de nouvelle cotisation. Or, pour qu’une pénalité puisse être imposée en vertu du paragraphe 163(2) de la Loi, la négligence requise doit équivaloir à faute lourde, à savoir, un cas de négligence plus grave qu’un simple défaut de prudence raisonnable[6]. Dans la présente affaire, l’appelant n’a pas fait preuve de prudence raisonnable puisqu’il n’a pas examiné sa déclaration de revenus pour s’assurer qu’il n’avait pas demandé des déductions auxquelles il n’avait manifestement pas droit, notamment celle à l’égard d’un bureau à domicile et la déduction pour amortissement relativement à un bien personnel.
+[36] Dans les circonstances, l’appelant a fait preuve de négligence ou d’inattention en produisant sa déclaration de revenus pour 2002, ce qui donnait au ministre le droit d’établir une nouvelle cotisation après la période normale de nouvelle cotisation (voir le paragraphe 152(4) de la Loi).
+[37] Par conséquent, l’appel est rejeté. Les dépens sont accordés à l’intimée.
+Signé à Ottawa, Canada, ce 10e jour de novembre 2009.
+« G.J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 18e jour de février 2010.
+Erich Klein, réviseur
+RÉFÉRENCE :
+2009 CCI 581
+No DU DOSSIER DE LA COUR :
+2008-597(IT)G
+INTITULÉ DE LA CAUSE :
+Mejram Sljivar c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 26 octobre 2009
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT :
+Le 10 novembre 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Bryan J. Tham
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Bryan J. Tham
+Cabinet :
+Bryan J. Tham
+Avocat
+Kitchener (Ontario)
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Au départ, l’appelant avait interjeté appel des cotisations établies pour 2002 et 2003. À l’audience, l’avocat de l’appelant a avisé la Cour que son client voulait retirer son appel pour 2003.
+[2] Saunders (Executrix of the estate of Rose Maud Gallie (deceased)) v. Anglia Building Society (formerly Northampton Town and Country Building Society), [1970] 3 All E.R. 961 (C.L.), p. 979.
+[3] Canadian Imperial Bank of Commerce v. Shotbolt, Boulanger and Insta-matic Finance Ltd., [1981] 5 W.W.R. 783 (B.R. Man.). Voir aussi Karakas v. R., 1995 CarswellNat. 1946, où cette décision et l’arrêt Saunders ont été cités.
+[4] Marvco Colour Research Ltd. c. Harris, [1982] 2 R.C.S. 774, p. 785.
+[5] Cal Investments Ltd. c. Canada, [1990] A.C.F. no 811, 90 DTC 6556, p. 6552. Voir aussi Charron c. Canada, [1997] A.C.I. no 303 et Arpeg Holdings Ltd. c. Canada., [2006] A.C.I. no 470, [2007] 1 C.T.C. 2447 (CCI), [2008] 2 C.T.C. 140 (CAF).
+[6] Venne c. Canada, [1984] A.C.F. no 314, [1984] C.T.C. 223, (C.F. 1re inst.), p. 234, décision du juge Strayer (tel était alors son titre).

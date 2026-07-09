@@ -1,0 +1,142 @@
+Title: Humber v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29797/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-253-29797-humber-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-05-06
+
+# Humber v. The Queen
+
+- Citation: 2010 TCC 253
+- Decision date: 2010-05-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6603, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Humber v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-06
+Neutral citation
+2010 TCC 253
+File numbers
+2009-3451(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-3451(IT)I
+BETWEEN:
+GERARD HUMBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 28, 2010 at St. John’s, Newfoundland & Labrador
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent the Appellant:
+Fred Cole
+Counsel for the Respondent:
+Devon E. Peavoy
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2007 taxation year is dismissed.
+Signed at Ottawa, Canada this 6th day of May 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 253
+Date: 20100506
+Docket: 2009-3451(IT)I
+BETWEEN:
+GERARD HUMBER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The question to be decided is whether the appellant, Mr. Gerard Humber, is entitled to the overseas employment tax credit in relation to his employment as a teacher in Qatar.
+[2] The appellant is a professional engineer who was employed as an engineering instructor by The College of the North Atlantic (CNA) at their campus in Doha, Qatar. CNA is based in St. John’s, Newfoundland and Labrador.
+[3] The appellant was assessed under the Income Tax Act for the 2007 taxation year to disallow an overseas employment tax credit in the amount of $9,080.80.
+[4] CNA has a contract with the State of Qatar to establish, operate and administer a college of Applied Arts and Technology in Doha, Qatar.
+[5] According to CNA’s website, programs are offered at their Qatar campus in health sciences, information technology, engineering technology and business studies. They also have a security academy and a centre for banking and financial studies.
+Discussion
+[6] Section 122.3 of the Income Tax Act provides a tax credit to persons resident in Canada who work outside Canada for a Canadian employer. According to budget material, the primary purpose of the tax credit is to assist Canadian firms who employ Canadian staff in bidding on overseas contracts. The theory is that the tax credit will allow the Canadian firms to reduce their salary costs.
+[7] The provision is reproduced below, with emphasis on the part of the paragraph that is at issue.
+122.3 (1) Deduction from tax payable where employment out of Canada -- Where an individual is resident in Canada in a taxation year and, throughout any period of more than 6 consecutive months that commenced before the end of the year and included any part of the year (in this subsection referred to as the "qualifying period")
+(a) was employed by a person who was a specified employer, other than for the performance of services under a prescribed international development assistance program of the Government of Canada, and
+(b) performed all or substantially all the duties of the individual's employment outside Canada
+(i) in connection with a contract under which the specified employer carried on business outside Canada with respect to
+(A) the exploration for or exploitation of petroleum, natural gas, minerals or other similar resources,
+(B) any construction, installation, agricultural or engineering activity, or
+(C) any prescribed activity, or
+(ii) for the purpose of obtaining, on behalf of the specified employer, a contract to undertake any of the activities referred to in clause (i)(A), (B) or (C),
+there may be deducted, from the amount that would, but for this section, be the individual's tax payable under this Part for the year, an amount equal to that proportion of the tax otherwise payable under this Part for the year by the individual that the lesser of
+(c) an amount equal to that proportion of $80,000 that the number of days
+(i) in that portion of the qualifying period that is in the year, and
+(ii) on which the individual was resident in Canada
+is of 365, and
+(d) 80% of the individual's income for the year from that employment that is reasonably attributable to duties performed on the days referred to in paragraph (c)
+is of
+(e) the amount, if any, by which
+(i) if the individual is resident in Canada throughout the year, the individual's income for the year, and
+(ii) if the individual is non-resident at any time in the year, the amount determined under paragraph 114(a) in respect of the taxpayer for the year
+exceeds
+(iii) the total of all amounts each of which is an amount deducted under section 110.6 or paragraph 111(1)(b), or deductible under paragraph 110(1)(d.2), (d.3), (f), (g) or (j), in computing the individual's taxable income for the year.
+(1.1) Excluded income -- No amount may be included under paragraph (1)(d) in respect of an individual's income for a taxation year from the individual's employment by an employer where
+(a) the employer carries on a business of providing services and does not employ in the business throughout the year more than 5 full-time employees;
+(b) the individual
+(i) does not deal at arm's length with the employer, or is a specified shareholder of the employer, or
+ii) where the employer is a partnership, does not deal at arm's length with a member of the partnership, or is a specified shareholder of a member of the partnership; and
+(c) but for the existence of the employer, the individual would reasonably be regarded as an employee of a person or partnership that is not a specified employer.
+(2) Definitions -- In subsection (1),
+"specified employer" means
+(a) a person resident in Canada,
+(b) a partnership in which interests that exceed in total value 10% of the fair market value of all interests in the partnership are owned by persons resident in Canada or corporations controlled by persons resident in Canada, or
+(c) a corporation that is a foreign affiliate of a person resident in Canada;
+"tax otherwise payable under this Part for the year" means the amount that, but for this section, sections 120 and 120.2, subsection 120.4(2) and sections 121, 126, 127 and 127.4, would be the tax payable under this Part for the year.
+[8] The issue relates to s. 122.3(1)(b)(i), which requires that the duties of employment are in connection with a contract under which the employer carries on business outside Canada with respect to a listed activity. The essential question is whether CNA carries on business with respect to an engineering activity.
+[9] The representative of the appellant appeared to suggest two different ways in which this requirement is satisfied.
+[10] First, it is suggested that there is a connection between the business carried on by CNA and the petroleum businesses that are carried on by companies owned by the State of Qatar.
+[11] The connection was not described by the representative as clearly as I would have liked. The appellant testified that many of his engineering students are employees of the state-owned petroleum companies. Also, the State of Qatar is involved in the management of the Qatar campus by having members on the board of directors. The suggestion seems to be that the contract between CNA and the State of Qatar supports engineering activities performed by the petroleum companies.
+[12] The representative suggested that s. 122.3(1)(b)(i) does not require a strong connection between CNA’s business and the listed activities. It is sufficient that the business be “with respect to” one of the activities.
+[13] I agree with the representative that the language used in the section is extremely broad: Nowegijick v. The Queen, 83 DTC 5041 (SCC). In addition, though, the provision must be given a contextual and purposive interpretation.
+[14] There is clearly some connection between CNA’s business and engineering activities. Any technical training of the type offered by CNA supports business activities that students may subsequently engage in.
+[15] However, the connection between training offered by a general college and subsequent business activities is remote. Such a remote connection cannot be what Parliament intended in section 122.3.
+[16] It may be that there is a stronger connection in this case between CNA’s business and the state-owned petroleum companies. However, the evidence was insufficient to establish this. I would note that no one from the administration of CNA testified at the hearing.
+[17] The second argument of the appellant is that teaching engineering is itself an engineering activity.
+[18] In my view, this interpretation strains the ordinary meaning of the term “engineering activity” beyond what Parliament likely intended. Generally, there is a distinction between “teaching” and “doing.”
+[19] The representative for the appellant points to a definition of the “practice of engineering” in the provincial Engineers and Geoscientists Act, 2008. He comments that this definition includes instruction in engineering.
+[20] Counsel for the respondent submits that inclusion of instruction in the provincial legislation expands the meaning of the practice of engineering beyond its normal meaning. She submits that this expanded meaning is often used in professional regulatory schemes in order to achieve specific legislative objectives.
+[21] I agree with the respondent’s submission. Teaching engineering is not normally thought of as an engineering activity.
+[22] Based on the evidence properly before me, the conclusion that I have reached is that the appellant has not satisfied the requirements of section 122.3. The appeal will be dismissed.
+Signed at Ottawa, Canada this 6th day of May 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 253
+COURT FILE NO.: 2009-3451(IT)I
+STYLE OF CAUSE: GERARD HUMBER and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: St. John’s, Newfoundland & Labrador
+DATE OF HEARING: April 28, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: May 6, 2010
+APPEARANCES:
+Agent the Appellant:
+Fred Cole
+Counsel for the Respondent:
+Devon E. Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

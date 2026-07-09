@@ -1,0 +1,216 @@
+---
+title: "Cummings c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29256/index.do"
+last_modified: "2009-06-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 310"
+citation2: ""
+neutral_citation: "2009 CCI 310"
+decision_date: "2009-06-05"
+language: "fr"
+item_id: "29256"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6996
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:50:04.070000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f1f27be2d262da42a42a7e24bc9bdbcde5c81285ae98703088e89e91e7f33eda"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cummings c. La Reine
+
+- Citation: 2009 CCI 310
+- Decision date: 2009-06-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6996, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cummings c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-05
+Référence neutre
+2009 CCI 310
+Numéro de dossier
+2007-1059(IT)G
+Juges et Officiers taxateurs
+James K. Hugessen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1059(IT)G
+ENTRE :
+ROBERT CUMMINGS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu les 25 et 26 mai 2009, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge suppléant James K. Hugessen
+Comparutions :
+Avocat de l’appelant :
+Me Kim Hansen
+Avocat de l’intimée
+Me Robert Carvalho
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 5e jour de juin 2009.
+« James K. Hugessen »
+Juge suppléant Hugessen
+Traduction certifiée conforme
+ce 17e jour de juillet 2009.
+François Brunet, réviseur
+Référence : 2009 CCI 310
+Date : 20090605
+Dossier : 2007-1059(IT)G
+ENTRE :
+ROBERT CUMMINGS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge suppléant Hugessen
+[1] Le présent appel a été interjeté en vertu de l’alinéa 169(1)b) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « Loi »). M. Cummings a interjeté appel des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») pour les années d’imposition 2000 et 2004 relativement aux pertes accumulées par l’appelant des suites de placements faits dans une société de personnes en commandite. Il a renoncé à l’appel portant sur l’année d’imposition 2004; et celle-ci n’est plus en cause en l’espèce.
+Faits
+[2] Les parties ont déposé un exposé conjoint des faits. De plus, certains témoignages ont été entendus, mais ils n’ont pas ajouté grand-chose à ce que la preuve documentaire avait déjà révélé. Les faits sur lesquels j’ai fondé mon analyse sont exposés ci‑après.
+[3] Tout au long de la période pertinente, l’appelant possédait des unités d’une société de personnes en commandite constituée dans un abri fiscal (Norfolk Partnership, ci‑après « Norfolk »). Le commandité de Norfolk est Norfolk GP. En application du paragraphe 165(1.15) de la Loi, Norfolk GP était aussi l’« associé désigné » à l’égard de Norfolk. Selon le paragraphe 165(1.15) de la Loi, un certain nombre de droits sont dévolus à l’associé désigné d’une société de personnes, lequel peut exercer ces droits au nom de tous les associés. L’associé désigné a notamment le droit exclusif de s’opposer aux cotisations établies à l’égard de la société.
+[4] Pour l’année d’imposition se terminant le 31 décembre 2000, l’appelant s’est vu attribuer une part proportionnelle des pertes subies par Norfolk, et il a demandé une déduction à l’égard de ces pertes dans sa déclaration de revenus personnelle.
+[5] Norfolk exploitait une entreprise de production de films et d’émissions de télévision avec d’autres sociétés de personnes en commandite, notamment la société de personnes en commandite Sentinel Hill Alliance Equicap (« Sentinel ») et les sociétés de personnes en commandite principales Glenelg 2000‑1 (« Glenelg‑1 ») et Glenelg 2000‑2 (« Glenelg‑2 »). Toutes ces sociétés étaient « associées » au sens où elles avaient des promoteurs communs.
+[6] Le ministre, par l’entremise de l’Agence du revenu du Canada (l’« ARC »), a effectué une vérification à l’endroit de Norfolk, de Sentinel, de Glenelg‑1 et de Glenelg 2 au sujet des pertes déclarées pour l’année d’imposition 2000. Le vérificateur chargé du dossier de Norfolk, M. Chan, a témoigné à l’audience.
+[7] En mars 2004, les avocats représentant, d’une part, l’ARC, et, d’autre part, Norfolk, Sentinel, Glenelg‑1 et Glenelg‑2, ont entamé des négociations en vue d'un règlement au sujet des rajustements proposés par l’ARC à la suite du processus de vérification. Ces négociations ont abouti à la signature d’une lettre d’« entente » par les avocats des parties le 31 mars 2004. Cette lettre est rédigée de la façon suivante :
+[TRADUCTION]
+Le 31 mars 2004
+Me Neil H. Harris
+Goodmans LLP
+Avocats
+250, rue Yonge
+Pièce 2400
+Toronto (Ontario) M5B 2M6
+Maître Harris,
+Objet : La société de personnes en commandite Sentinel Hill Alliance Equicap Millennium (la « société de personnes en commandite »)
+La présente fait suite à votre lettre de règlement datée du 29 mars 2004, à votre lettre d’accompagnement portant la même date et aux discussions tenues après cette date‑là. Nous vous confirmons la validité de l’entente que nous avons conclue, décrite ci‑après, mais nous tenons d’abord à rappeler la position qui a été la nôtre tout au long de l’affaire, à savoir que nous ne pouvons pas communiquer d’information relativement à la position qui pourrait être prise dans l’établissement de cotisations à l’égard d’autres contribuables qui pourraient avoir participé à des transactions similaires, et que c’est pour cette raison que nous ne l’avons pas fait. Vous avez compris et accepté notre position, mais nous prenons acte de ce que vous avez souligné l’importance de voir des principes similaires appliqués aux autres transactions.
+L’Agence du revenu du Canada (l’« ARC ») a accepté de faire des déterminations à l’égard des revenus et des pertes de la société de personnes en commandite (« Sentinel Hill 2000 ») et des ses sociétés de personnes en commandite offrant des services de production (les « SPCP ») pour les années d’imposition 2000 et 2001 relativement aux services de production fournis par la société de personnes en commandite et par les SPCP conformément aux éléments suivants :
+1. Sauf pour les exceptions enoncées ci‑après, les déductions demandées par la société de personnes en commandite et par les SPCP à l’égard des pertes subies pour les années d’imposition 2000 et 2001 sont accordées.
+2. Les frais payés par les SPCP à divers studios de production de télévision et de cinéma, totalisant environ 55,8 millions de dollars pour 2000, seront considérés comme appartenant à la catégorie 14 et pourront être déduits, en application de l’alinéa 20(1)a) de la Loi de l’impôt sur le revenu (la « Loi »), aux taux suivants :
+Année Pourcentage
+d’imposition déductible
+2000 20 %
+2001 20 %
+2002 15 %
+2003 15 %
+2004 15 %
+2005 5 %
+2006 5 %
+2007 5 %
+________
+TOTAL 100 %
+3. À l’égard des frais restants – totalisant environ 109 millions de dollars – dont la société de personnes en commandite et les SPCP ont demandé la déduction pour l’année d’imposition 2000 :
+1. la déduction de 55 494 000 $ demandée à l’égard de frais de gestion est accordée;
+2. pour les déductions demandées à l’égard de frais d’aiguillage versés à des producteurs et de frais de financement, la déduction d’une somme de 40 millions de dollars est refusée.
+4. Pour l’année d’imposition 2001 de la société de personnes en commandite et des SPCP, la déductibilité des frais de gestion sera traitée conformément aux modalités exposées au paragraphe 3 des présentes. La déduction demandée à l’égard des frais de financement sera rejetée à hauteur de 14 250 000 $.
+5. À condition que des avis de détermination soient délivrés en application du paragraphe 152(1.1) de la Loi et conformément aux paragraphes 1 à 4 des présentes, la société de personnes et les SPC n’exerceront pas leur droit d’appel à l’égard de ces déterminations, et, par conséquent, ne présenteront pas d’avis d’opposition en vertu de l’article 165 de la Loi à l’égard de ces déterminations.
+6. L’ARC s’engage à faire les déterminations à l’égard des revenus ou des pertes des deux sociétés de personnes en commandite Glenelg et de la société de personnes en commandite principale Norfolk (ou à établir des cotisations à l’égard de particuliers y ayant investi s’il était impossible de faire ces déterminations), conformément aux paragraphes 1 à 4 des présentes, à condition que les transactions de services de production auxquelles ont participé les sociétés de personnes en commandite et les SPCP liées à celles‑ci aient été essentiellement similaires aux transactions effectuées par la société de personnes en commandite et par les SPCP. L’ARC pourra effectuer des vérifications pour savoir si les transactions étaient essentiellement similaires. Les sociétés de personnes et les particuliers mentionnés ci‑dessus ne présenteront pas d’opposition ou d’appel à l’égard des décisions de l’ARC.
+7. La société de personnes en commandite et les SPCP ne chercheront pas à obtenir de renonciation aux intérêts qu’ils pourraient être tenus de payer, conformément aux déterminations de leurs revenus et de leurs pertes pour les années d’imposition 2000 et 2001, relativement aux transactions de services de production auxquelles ont participé la société de personnes en commandite et les SPCP.
+8. Toute détermination des revenus ou des pertes des sociétés de personnes liés à Sentinel Hill et aux SPCP pour les années d’imposition 1998 et 1999 relativement à des transactions de services de production faites par la société de personnes en commandite et par les SPCP sera faite par la division des appels de l’ARC et suivra le processus normal.
+De plus, il est entendu que l’ARC pourra effectuer des vérifications relativement aux cotisations et aux déterminations portant sur les revenus ou les pertes, tant de la société de personnes en commandite Sentinel que des SPCP liés à celle‑ci, actifs en 2001, pour l’année d’imposition 2001 et les années d’imposition suivantes relativement à des transactions de services de production faite par la société de personnes en commandite et les SPCP.
+Veuillez signer les présentes et les renvoyer par télécopieur à Ian MacGregor – au 613‑941‑1221 – le plus tôt possible.
+Je vous prie d’agréer mes meilleures salutations.
+Ian S. MacGregor
+Sous‑procureur général adjoint
+Services du droit fiscal
+Accepté par : Date :
+Neil H. Harris Le 31 mars 2004
+[8] Il est constant que la date indiquée sur la lettre, le 31 mars 2004, était la dernière journée où l’ARC pouvait faire une détermination en vertu du paragraphe 152(1.4) de la Loi.
+[9] Le même jour, peu après que la lettre de règlement ait été envoyée, puis signée par les deux parties, l’ARC a fait une détermination à l’égard de Norfolk, qu'elle a envoyée.
+[10] Environ un mois plus tard, le 29 avril 2004, Me Chadwick, qui représentait les promoteurs de Sentinel et des autres sociétés de personnes, a contacté M. Chan, le vérificateur de l’ARC, pour l’informer qu’elle avait découvert une erreur dans les déterminations. La somme en cause était relativement peu importante par rapport à l’ensemble des transactions visées. Une déduction de 230 000 $ en dépenses avait été accordée en trop au contribuable à l’égard de dépenses. Lorsqu’il a témoigné, M. Chan a volontiers reconnu l’erreur, et il a expliqué que, comme le délai pour faire une détermination était expiré, il avait trouvé une autre façon, quoique quelque peu irrégulière de rectifier la situation, laquelle, sans corriger l’erreur, aboutissait à un résultat global semblable. La conduite de M. Chan n'est pas en cause au l'espèce.
+[11] Le 24 juin 2004, Norfolk a présenté une opposition à la détermination faite à son égard le 31 mars. Cette opposition a ensuite été « retirée » le 10 novembre 2004, et le ministre a ratifié la détermination peu de temps après, soit le 26 novembre 2004.
+[12] Le 22 août 2005, l’ARC a délivré des avis de nouvelle cotisation à l’égard de l’appelant pour les années d’imposition 2000 et 2004 correspondant à la détermination faite le 31 mars 2004 à l’égard de Norfolk. Des nouvelles cotisations ont été établies par la suite à l’égard de l’appelant (les « nouvelles cotisations finales ») le 30 mai 2006. Le 30 août 2006, l’appelant a signifié à l’ARC un avis d’opposition à l’égard des nouvelles cotisations finales, et, en temps et lieu, il a interjeté appel devant la Cour. Comme je l’ai indiqué précédemment, l’appel relatif à l’année d’imposition 2004 a depuis été retiré.
+Thèses des parties et questions en litige
+[13] Comme je l’ai déjà expliqué, dans sa déclaration de revenus pour l’année d’imposition 2000, l’appelant a demandé la déduction de sa part des frais engagés par la société de personnes, et une cotisation avait initialement été établie à son égard sur cette base‑là. La « période normale de nouvelle cotisation », définie au paragraphe 152(3.1) de la Loi, avait pris fin avant l’établissement de la nouvelle cotisation datée du 25 août 2005 et portant sur l’année d’imposition 2000 de l’appelant, car plus de trois ans s’étaient écoulés depuis l’établissement de la cotisation initiale. Ainsi, le pouvoir du ministre d’établir une nouvelle cotisation, s’il existe ne peut avoir pour seule source que l’alinéa 152(1.7)b) de la Loi, lequel dispose :
+152. (1.7) Les règles suivantes s’appliquent lorsque le ministre détermine un montant en application du paragraphe (1.4) ou détermine un montant de nouveau relativement à une société de personnes :
+a) […]
+b) malgré les paragraphes (4), (4.01), (4.1) et (5), le ministre peut, avant la fin du jour qui tombe un an après l’extinction ou la détermination des droits d’opposition et d’appel relativement au montant déterminé ou déterminé de nouveau, établir les cotisations voulues concernant l’impôt, les intérêts, les pénalités ou d’autres montants payables et déterminer les montants réputés avoir été payés, ou payés en trop, en vertu de la présente partie relativement à un associé de la société de personnes et à tout autre contribuable pour une année d’imposition pour tenir compte du montant déterminé ou déterminé de nouveau ou d’une décision de la Cour canadienne de l’impôt, de la Cour d’appel fédérale ou de la Cour suprême du Canada.
+152. (1.7) Where the Minister makes a determination under subsection 152(1.4) or a redetermination in respect of a partnership,
+(a) …
+b) notwithstanding subsections 152(4), 152(4.01), 152(4.1) and 152(5), the Minister may, before the end of the day that is one year after the day on which all rights of objection and appeal expire or are determined in respect of the determination or redetermination, assess the tax, interest, penalties or other amounts payable and determine an amount deemed to have been paid or to have been an overpayment under this Part in respect of any member of the partnership and any other taxpayer for any taxation year as may be necessary to give effect to the determination or redetermination or a decision of the Tax Court of Canada, the Federal Court of Appeal or the Supreme Court of Canada.
+[14] L’appelant soutient que son droit d’opposition relativement à la détermination faite le 31 mars 2004 par le ministre avait fait l’objet d’une renonciation au paragraphe 6 de la lettre de règlement portant la même date. Ainsi, le droit d’opposition de l’appelant relativement à la détermination aurait « expiré ou été déterminé » à cette date‑là, et la nouvelle cotisation du 22 août 2005 aurait été établie au moins un an plus tard, et donc, après l’expiration du délai.
+[15] Le ministre soutient que l’appelant n’avait pas renoncé inconditionnellement à tous ses droits d’opposition et d’appel dans la lettre datée du 31 mars 2004, et que la renonciation pouvait seulement être valide si la nouvelle détermination relative à Norfolk était faite « conformément aux paragraphes 1 à 4 » de la lettre de règlement. Le ministre soutient que sa thèse doit être retenue vu qu’une opposition à l’égard de la détermination avait été présentée au nom de Norfolk et que le ministre l’avait traitée dans les mois suivant mars 2004. Ainsi, la période d’un an fixée par l’alinéa 152(1.7)b) de la Loi n’aurait pas commencé à courir avant l’expiration du droit d’appel de l’appelant relativement à la ratification de la détermination faite par le ministre (qui aurait prétendument eu lieu une année et 90 jours après la date de cette ratification).
+Analyse
+[16] Dans la mesure où il est nécessaire de me prononcer sur cette question, je ne peux retenir l’interprétation de l’appelant de l’alinéa 152(1.7)b) de la Loi. Il soutient que, comme ses droits d’opposition et d’appel avaient fait l’objet d’une renonciation par Norfolk dans la lettre datée du 31 mars 2004, ses droits d’opposition et d’appel avaient été éteints ou déterminés par cette renonciation. Cependant, il ressort clairement de la preuve – et la cohérence interne du document va dans le même sens – que la « lettre de règlement » était antérieure aux déterminations faites par le ministre la même journée. Je vois mal comment un droit d’opposition ou d’appel pourrait avoir été « éteint » ou « déterminé » avant même d’être né. Manifestement, les droits d’opposition et d’appel en cause ne pouvaient naître avant que les déterminations aient été faites.
+[17] L’alinéa 152(1.7)b) de la Loi a clairement pour objet la prorogation du délai dont dispose le ministre pour établir des nouvelles cotisations dans les cas visés. Cette prorogation ne joue pas à l'initiative du ministre, mais bien à celle du contribuable, qui choisit ou non de s’opposer ou d’interjeter appel des décisions du ministre (ici, la détermination). Si le contribuable fait opposition ou interjette appel, le délai du ministre pour établir des nouvelles cotisations est fixé à un an après la date où l’opposition ou l’appel fait l'objet d'une décision. Si le contribuable reste inactif, le délai du ministre est fixé à une année après le dernier jour où le contribuable aurait pu agir.
+[18] Alors que la version anglaise de la disposition en cause utilise le verbe « expire », la version française utilise le substantif « extinction ». Ces deux termes expriment la même notion – l’importance du passage du temps –, mais avec certaines nuances : l’expiration est causée par le passage du temps, l’extinction est l’état de quelque chose qui existait, mais qui n’existe plus. Néanmoins, dans les deux cas, on ne peut pas dire que quelque chose a expiré ou est éteint avant même d’être né.
+[19] De même, je suis convaincu que lorsque le texte en cause (dans les deux langues) fait référence à la « détermination » d’un droit d’opposition ou d’appel, il n’est pas question du droit procédural de présenter un appel, mais plutôt du droit fondamental sur lequel ce droit procédural est fondé. Seule la Loi établit les procédures d’opposition et d’appel, qui sont ainsi immuables et « déterminées » d’avance. Cependant, lorsqu’il y a opposition ou appel, les diverses entités désignées par la Loi (y compris la Cour) ont le pouvoir de « déterminer » et de se prononcer sur les droits fondamentaux invoqués. C’est seulement par la suite que les parties peuvent connaître leurs droits et que le ministre peut établir des cotisations ou des nouvelles cotisations relatives à l’impôt dû. Il se peut que cela arrive plusieurs années après la date où, sans l’application de l’alinéa 152(1.7)b) de la Loi, le droit du ministre d’établir des nouvelles cotisations aurait expiré.
+[20] Peu importe la portée de l’alinéa 152(1.7)b) de la Loi, je conclus que la teneur du paragraphe 6 de la lettre datée du 31 mars 2004 n’a pas l’effet que lui attribue l’appelant. Les deux parties qualifient cette lettre de « règlement » et d’« entente », les termes mêmes qui ont été employés dans la lettre. Si nul ne conteste – et j'abonde dans le même sens – que les principes normaux d’interprétation des contrats doivent être appliqués et que la Cour doit s’efforcer de découvrir l’intention des parties au regard du contexte global de l’écrit en cause, il faut se souvenir que, malgré les apparences, la lettre en question ne constitue pas un contrat au sens ordinaire du terme. La lettre ne lie pas le ministre, et ce dernier a l’obligation légale d’établir des cotisations fiscales conformément à la Loi et à son interprétation des faits (Voir Cohen v. Queen, 80 DTC 6250, (CAF).)
+[21] Comme le ministre n’est pas lié par l’« entente » qu’il a conclue, il en va de même du contribuable. Les observations suivantes, tirées de la décision de l’ancien juge en chef Bowman dans Consoltex Inc. v. Canada, 97 DTC 724, sont pertinentes :
+Le résultat de l’affaire Cohen, c’est que le ministre est libre de dénoncer une entente qu’il a conclue sur la manière d’établir la cotisation d’un contribuable. Il s’ensuit nécessairement qu’un contribuable qui s’est entendu avec le ministre est lui aussi libre de désavouer l’entente. Sur le plan des principes, il serait tout à fait inacceptable d’affirmer que le ministre n’est pas lié par une entente de ce genre, mais que le contribuable l’est. Une entente exécutoire suppose la réciprocité des obligations des parties. Il ne saurait exister un accord lorsqu’une partie est liée par cet accord et l’autre non.
+[22] Cela veut‑il dire que la lettre d’entente datée du 31 mars 2004 n’a aucun effet? Je crois que non. La lettre est le résultat de négociations menées par des avocats chevronnés spécialisés en droit fiscal; il serait choquant de prétendre que ces avocats auraient signé un document sans valeur, et ce, en toute connaissance de cause. De plus, il y va manifestement de l’intérêt public d'encourager les parties à des litiges à régler leurs différends sans engager les frais afférents à la tenue d’un procès (dont une grande partie est assumée par le trésor public). D’ailleurs, cette considération semble encore plus importante dans le cas des litiges portant sur l’impôt sur le revenu. Tout en tenant compte de l'enseignement de la décision Cohen, la Cour devrait encourager les parties à régler leurs litiges fiscaux et chercher à donner effet à ces règlements. Heureusement, il me semble que cette démarche ne pose aucune difficulté. Les transactions de ce genre, comme l’entente en cause, comportent habituellement une renonciation du contribuable à ses droits d’appel. La Loi autorise spécifiquement de telles renonciations, et rien n’empêche qu’elles soient conditionnelles.
+[23] Ainsi, à mon avis, la Cour peut, et doit interpréter le paragraphe 6 de la lettre d’entente datée du 31 mars 2004 de telle sorte que, légalement, il constitue une renonciation du contribuable à ses droits d’opposition et d’appel, sous réserve du respect de la condition prévue, à savoir que l’ARC fasse une détermination « conformément aux paragraphes 1 à 4 des présentes [la lettre d’entente] ».
+[24] En outre, il semble que Norfolk et le ministre aient interprété la lettre datée du 31 mars 2004 de la même manière. Les paragraphes essentiels de l’avis d’opposition présenté par Norfolk exposent les motifs de l’opposition :
+[TRADUCTION]
+4. L’ARC prétend avoir fait la détermination en cause conformément à l’entente de règlement qu’elle avait conclue avec la société de personnes le 31 mars 2004 (l’« entente »).
+5. Toutefois, la détermination ne reflète pas fidèlement l’entente.
+[25] Le ministre a, quant à lui, traité l’opposition de Norfolk normalement, et non pas, comme l’affirme maintenant l’appelant, comme si elle avait été nulle dès le début.
+[26] Ainsi, bien que je n’ai aucune difficulté à interpréter la lettre d’entente de façon à lui donner un sens et à l’appliquer, toute éventuelle ambiguïté est résolue par l'analyse de la conduite des parties dans les mois suivant la signature de la lettre. La preuve relative à cette conduite est surtout documentaire. Le ministre a aussi voulu se fonder sur des témoignages, ce à quoi l’appelant s’est opposé, mais, après avoir pris cette opposition en délibéré, je la rejette.
+[27] Par conséquent, est opposable à l’appelant, qui n’avait aucun droit d’opposition ou d’appel à l’égard de la détermination faite le 31 mars 2004 (droits qui étaient entièrement dévolus à Norfolk GP, laquelle les avait exercés), cette détermination‑là. Le ministre a déterminé les droits d’opposition de Norfolk en ratifiant sa détermination le 26 novembre 2004, et Norfolk GP n’a pas exercé son droit d’appel à l’égard de la ratification. Toutefois, la simple existence de ces droits‑là, qu’ils aient été exercés ou non, a eu pour effet la prorogation du délai dont disposait le ministre pour établir des nouvelles cotisations. La nouvelle cotisation a été établie par le ministre à l’égard de l’appelant pour l’année d’imposition 2000 dans le délai imparti par l’alinéa 152(1.7)b) de la Loi. Par conséquent, il me faut rejeter l’appel.
+[28] L’appel est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 5e jour de juin 2009.
+« James K. Hugessen »
+Juge suppléant Hugessen
+Traduction certifiée conforme
+ce 17e jour de juillet 2009.
+François Brunet, réviseur
+RÉFÉRENCE :
+2009 CCI 310
+No DU DOSSIER DE LA COUR :
+2007-1059(IT)G
+INTITULÉ :
+Robert Cummings et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATES DE L’AUDIENCE :
+Les 25 et 26 mai 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant James K. Hugessen
+DATE DU JUGEMENT :
+Le 5 juin 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Kim Hansen
+Avocat de l’intimée :
+Me Robert Carvalho
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Kim Hansen
+Cabinet :
+Kim Hansen Law Corporation
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

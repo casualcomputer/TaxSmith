@@ -1,0 +1,226 @@
+Title: Cameco Corporation c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/405306/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-92-405306-cameco-corporation-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-04-29
+
+# Cameco Corporation c. La Reine
+
+- Citation: 2019 CCI 92
+- Decision date: 2019-04-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4397, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cameco Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-04-29
+Référence neutre
+2019 CCI 92
+Numéro de dossier
+2009-2430(IT)G, 2014-3075(IT)G, 2015-1307(IT)G
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2009-2430(IT)G
+2014-3075(IT)G
+2015-1307(IT)G
+ENTRE :
+CAMECO CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Observations écrites sur les dépens
+Devant : L’honorable juge John R. Owen
+Participants :
+Avocats de l’appelante :
+Me Al Meghji, Me Peter Macdonald et
+Me Mark Sheeley
+Avocats de l’intimée :
+Me Elizabeth Chasson
+Me Peter Swanstrom
+ORDONNANCE
+APRÈS lecture des observations des parties sur les dépens;
+Conformément aux motifs de l’ordonnance ci-joints, la Cour ordonne :
+une somme globale de 10 250 000 $ est adjugée à l’appelante au lieu des dépens taxés pour les honoraires d’avocats;
+en ce qui concerne les débours, y compris la TVH irrécouvrable et la taxe de vente provinciale irrécouvrable, les débours demandés par l’appelante sont taxés conformément aux Règles de la Cour canadienne de l’impôt (procédure générale), mais aucuns dépens ne sont adjugés à l’appelante pour les requêtes interlocutoires suivantes : numéro deux, numéro trois, numéro quatre, numéro cinq, numéro six, numéro sept, numéro huit, numéro neuf et numéro dix selon les numéros indiqués à l’annexe « A » des observations de l’intimée sur les dépens.
+Signé à Ottawa, Canada, ce 29e jour d’avril 2019.
+« J.R. Owen »
+Le juge Owen
+Référence : 2019 CCI 92
+Date : 20190429
+Dossiers : 2009-2430(IT)G
+2014-3075(IT)G
+2015-1307(IT)G
+ENTRE :
+CAMECO CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Owen
+[1] Cameco Corporation (l’« appelante ») a interjeté appel des nouvelles cotisations (les « nouvelles cotisations ») établies à l’égard de ses années d’imposition se terminant le 31 décembre 2003, le 31 décembre 2005 et le 31 décembre 2006 (collectivement, les « appels »). Les appels ont été entendus pendant 69 jours en 2016 et 2017. Par un jugement du 26 septembre 2018, les appels ont été tranchés entièrement en faveur de l’appelante.
+[2] Au moment où j’ai statué sur les appels, j’ai donné aux parties 60 jours pour présenter leurs observations sur les dépens, d’au plus 15 pages pour chaque partie. Par la suite, j’ai prorogé le délai de 60 jours pour permettre à l’intimée d’examiner les observations de l’appelante et d’y répondre et pour permettre à l’appelante d’examiner les observations de l’intimée et d’y répondre. L’appelante a joint un mémoire de frais, la pièce I, à son exposé principal.
+[3] L’appelante demande une somme globale de 20 503 979 $ pour les honoraires juridiques, plus les débours, y compris la taxe de vente provinciale irrécouvrable de 17 933 178 $, pour un total de 38 437 157 $. L’appelante déclare que la somme demandée pour les honoraires juridiques correspond à 70 % des 29 291 398 $ en honoraires effectivement payés et qu’il était prévisible que les dépens soient si élevés puisqu’ils découlent directement de la conduite de l’intimée. L’appelante affirme que les honoraires juridiques et les débours effectivement payés relativement aux appels s’élevaient à environ 57 millions de dollars. Toutefois, aucune demande n’est faite en fonction de cette somme.
+[4] L’intimée soutient que l’appelante n’a pas démontré qu’elle avait payé 57 millions de dollars en frais et que le montant des dépens adjugés pour l’appelante devrait être limité à 20 % du total des frais communiqués de 48 millions de dollars, soit 9,6 millions de dollars. L’intimée soutient que l’adjudication que demande l’appelante est punitive et équivaut à des dépens indemnitaires substantiels et que de tels dépens ne devraient être adjugés que lorsque la conduite d’une partie a été répréhensible, scandaleuse ou outrageante. L’intimée affirme que l’appelante a inclus dans le total de ses frais des dossiers pour d’autres années que 2003, 2005 et 2006. En ce qui concerne cette dernière observation, l’appelante reconnaît que des dossiers pour d’autres années ont pu être inclus à tort, mais elle soutient que les montants sont minimes (moins de 21 heures).
+I. Analyse
+[5] Les paragraphes 147(1) à (3), (4) et (5) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») sont libellés ainsi :
+147. Règles générales — (1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+(2) Des dépens peuvent être adjugés à la Couronne ou contre elle.
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+i.1) de la question de savoir si les dépenses engagées pour la déposition d’un témoin expert étaient justifiées compte tenu de l’un ou l’autre des facteurs suivants :
+(i) la nature du litige, son importance pour le public et la nécessité de clarifier le droit,
+(ii) le nombre, la complexité ou la nature des questions en litige,
+(iii) la somme en litige;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+[...]
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l’annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d’adjuger les dépens à l’égard d’une question ou d’une partie de l’instance particulière;
+b) adjuger l’ensemble ou un pourcentage des dépens taxés jusqu’à et y compris une certaine étape de l’instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur-client.
+[6] Récemment, dans la décision MacDonald c. La Reine, 2018 CCI 55, la juge Lafleur a résumé de la manière suivante les principes clés applicables à l’adjudication des dépens devant notre Cour, aux paragraphes 42 à 45 :
+L’article 147 des Règles donne à la Cour beaucoup de latitude dans l’exercice de son pouvoir discrétionnaire en matière d’adjudication des dépens […] Cependant, la Cour doit exercer son pouvoir discrétionnaire dans le respect de principes et non pas de façon arbitraire (La Reine c Lau, 2004 CAF 10, au par. 5, [2004] GSTC 5, et La Reine c Landry, 2010 CAF 135, aux par. 22 et 54, 2010 DTC 5106).
+Aucun des facteurs énoncés au paragraphe 147(3) n’est décisif et la Cour doit prendre en compte tous les facteurs pertinents dans l’exercice de son pouvoir discrétionnaire (Velcro Canada Inc. c La Reine, 2012 CCI 273, aux par. 12 et 13, [2012] 6 CTC 2049 [Velcro]).
+Généralement, l’adjudication des dépens ne vise pas à indemniser une partie de tous les frais qu’elle a effectivement supportés (Velcro, précitée, au par. 29). Elle se veut compensatoire et contributive, et non punitive (Mariano et al c La Reine, 2016 CCI 161, aux par. 23 et 27, 2016 DTC 1146).
+Comme l’a expliqué le juge Boyle dans la décision Martin c La Reine, 2014 CCI 50, 2014 DTC 1072 (au par. 14) :
+14 [...] La question qu’il faut se poser est la suivante : quelle serait la contribution appropriée de la partie déboutée aux dépens de la partie ayant eu gain de cause dans l’appel où la position de cette dernière l’a emporté?
+[...]
+[Non souligné dans l’original.]
+[7] Dans l’arrêt Nova Chemicals Corporation c. Dow Chemical Company, 2017 CAF 25, aux paragraphes 10 à 13, la Cour d’appel fédérale a donné des indications sur l’adjudication de sommes globales au titre des paragraphes 400(1) et (4) des Règles des Cours fédérales, qui sont semblables aux paragraphes 147(1) et (4) des Règles :
+Selon le paragraphe 400(1) des Règles des Cours fédérales, la Cour « a le pouvoir discrétionnaire de déterminer le montant des dépens [et] de les répartir ». Ce principe a été décrit comme « le principe premier de l’adjudication des dépens » : Consorzio del prosciutto di Parma c. Maple Leaf Meats Inc., 2002 CAF 417, [2003] 2 C.F. 451, au para. 9 (Consorzio).
+Le paragraphe 400(4) des Règles porte expressément sur l’adjudication d’une somme globale au titre des dépens au lieu d’une taxation des dépens selon le tarif B.
+400 (4) La Cour peut fixer tout ou partie des dépens en se reportant au tarif B et adjuger une somme globale au lieu ou en sus des dépens taxés.
+Les tribunaux privilégient de plus en plus l’adjudication de sommes globales au titre des dépens, et ce, pour la bonne raison que cette formule fait économiser aux parties temps et argent en plus de contribuer à la réalisation de l’objectif des Règles des Cours fédérales d’apporter « une solution au litige qui soit juste et la plus expéditive et économique possible » (article 3 des Règles). Lorsqu’il peut adjuger les dépens sous forme de somme globale, le tribunal n’a pas à faire une analyse détaillée et les audiences portant sur l’adjudication des dépens ne se transforment pas en exercice de comptabilité.
+Il peut convenir d’adjuger une somme globale dans des affaires relativement simples ou encore dans des affaires particulièrement complexes où un calcul précis des dépens serait inutilement laborieux et onéreux : Mugesera c. Canada (Ministre de la Citoyenneté et de l’Immigration), 2004 CAF 157, au para. 11.
+Comme le montrent les faits de l’espèce, il arrive que les dépens, même s’ils se situent à l’extrémité supérieure de la colonne V du tarif B, n’aient à peu près rien à voir avec l’objectif de la contribution raisonnable au coût du litige. Le barème prévu au tarif a été qualifié d’insuffisant à cet égard, mais le mot est très faible lorsque les Cours fédérales sont saisies de litiges complexes opposant des parties averties. Néanmoins, ce n’est pas parce les frais effectivement engagés par la partie qui obtient gain de cause sont de beaucoup supérieurs au barème prévu au tarif qu’il est justifié d’adjuger des dépens majorés : Wihksne c. Canada (Procureur général), 2002 CAF 356, au para. 11. Il incombe à la partie qui demande l’adjudication de dépens majorés de démontrer en quoi ses circonstances le justifient.
+[8] J’ajouterais à cela l’observation de la Cour d’appel fédérale dans l’arrêt Consorzio del prosciutto di Parma c. Maple Leaf Meats Inc., 2002 CAF 417, au paragraphe 8 :
+Une adjudication de dépens partie-partie ne constitue pas un exercice exact. Il ne s’agit que d’une estimation du montant que la Cour juge approprié à titre de contribution aux dépens avocat-client de la partie qui a obtenu gain de cause (ou, de façon inhabituelle, à ceux de la partie déboutée).
+[9] Les parties ont utilement formulé leurs observations en fonction des facteurs énumérés au paragraphe 147(3) des Règles et je les passerai en revue ici.
+A. Le résultat de l’instance
+[10] L’appelante soutient qu’elle a eu entièrement gain de cause et que ce facteur milite en faveur de l’adjudication de dépens très élevés. L’intimée reconnaît que ce succès justifie des dépens en faveur de l’appelante, mais elle soutient que le succès à lui seul ne justifie pas l’adjudication de dépens très élevés.
+[11] Récemment, dans la décision 2078970 Ontario Inc. v. The Queen, 2018 TCC 214, le juge Graham a observé, aux paragraphes 9 et 10 :
+[traduction]
+Le résultat de l’instance peut avoir une incidence sur les dépens de deux façons. Le degré de succès global d’une partie est un facteur important pour déterminer si des dépens doivent être adjugés à une partie. Une fois que le tribunal a décidé d’adjuger des dépens à une partie, le degré de succès global de la partie peut également jouer un rôle dans la détermination du montant de ces dépens.
+À mon avis, lorsqu’il s’agit de déterminer le montant des dépens à adjuger, le résultat de l’instance n’est un facteur qu’il convient de prendre en compte que s’il est possible qu’une partie obtienne partiellement gain de cause dans l’affaire. Si une instance met en cause plusieurs questions distinctes et qu’une partie obtient entièrement gain de cause à l’égard de toutes ces questions, cela joue en faveur de dépens plus élevés. Si une instance met en cause plusieurs questions distinctes et qu’une partie obtient partiellement gain de cause à l’égard de ces questions, le degré de succès global de la partie sera pertinent pour déterminer le montant des dépens. Si une instance porte sur une seule question pour laquelle il existe plusieurs résultats différents possibles (par exemple une question d’évaluation), le degré de succès d’une partie à l’égard de cette question sera pertinent pour déterminer le montant des dépens. Toutefois, lorsque la seule question dont la Cour est saisie est une question dont la réponse ne peut être que « tout blanc » ou « tout noir », sur laquelle il n’y a aucune possibilité de succès partiel, le fait qu’une partie ait obtenu gain de cause à l’égard de cette question ne devrait pas, à mon avis, influer sur le montant des dépens adjugés. La partie a obtenu gain de cause. Ce succès n’était ni meilleur ni pire que ce que la partie pouvait espérer obtenir et, en conséquence, il ne justifie pas des dépens plus élevés ou moins élevés.
+[12] J’ajouterais à cela que le bien-fondé de la thèse de l’intimée n’est pas pertinent dans l’examen du résultat par la Cour. L’objectif des dépens n’est pas de punir la partie déboutée sur le fondement d’une analyse après coup du bien-fondé relatif des thèses défendues. J’observe également que l’alinéa 147(3)i) des Règles vise le comportement vexatoire de l’une ou l’autre des parties.
+[13] Les questions en litige dans les présents appels étaient multiples et pouvaient donner lieu à un large éventail de résultats possibles. Toutefois, l’appelante a obtenu entièrement gain de cause dans la contestation de ces questions. Le succès de l’appelante dans les présents appels favorise une adjudication en conséquence des dépens à l’appelante.
+B. Les sommes en cause
+[14] L’appelante a déclaré que les redressements de revenus faisant l’objet des nouvelles cotisations pour les trois années visées par les appels s’élevaient à 483 430 713 $ au total et que ce montant justifiait l’adjudication de dépens très élevés. L’appelante soutient en outre que les redressements de revenus pour les années postérieures à 2006 devraient également être pris en compte. L’intimée reconnaît que les sommes en cause pour les années visées par les appels étaient importantes, mais que, puisque le résultat des appels ne s’appliquait pas aux années subséquentes, le montant des nouvelles cotisations lors de ces années ne devrait pas être pris en compte.
+[15] Je conclus que les sommes en cause pour les années visées par les appels étaient importantes et que ce facteur favorise une adjudication en conséquence des dépens à l’appelante. À mon avis, étant donné que le résultat des appels ne s’applique pas aux années subséquentes, le montant des nouvelles cotisations pour les années postérieures à 2006 n’est pas pertinent.
+C. L’importance des questions en litige
+[16] L’appelante soutient que la décision de notre Cour fournit des explications détaillées et précises sur les principes juridiques applicables à cinq questions soulevées dans les appels et que cela justifie l’adjudication de dépens très élevés. L’intimée déclare que la décision de notre Cour aura probablement une valeur jurisprudentielle importante pour l’application des dispositions relatives aux prix de transfert et pour l’application de la doctrine du trompe-l’œil. Toutefois, l’intimée ne reconnaît pas que l’importance des questions en litige justifie l’adjudication de dépens très élevés.
+[17] J’estime que ce facteur favorise une adjudication en conséquence des dépens à l’appelante.
+D. Toute offre de règlement présentée par écrit
+[18] L’appelante a déclaré avoir présenté deux offres de règlement écrites à l’intimée — une avant le procès et l’autre après le procès — qui représentaient un véritable compromis, mais que l’intimée avait rejeté les offres d’emblée plutôt que d’engager des discussions de règlement. L’appelante ne soutient pas que les offres font jouer les règles énoncées aux paragraphes 147(3.1) et (3.2) des Règles [1] .
+[19] L’intimée soutient que l’offre antérieure au procès a été présentée moins de 30 jours avant le début du procès et qu’aucune des deux offres ne constituait un compromis véritable ou n’avait pour effet d’augmenter les revenus imposables de l’appelante pour les années visées dans les appels. L’intimée soutient que l’appelante ne devrait pas se trouver en meilleure posture qu’elle ne l’aurait été si l’offre présentée avant le procès avait satisfait aux conditions prévues au paragraphe 147(3.1) des Règles, ce qui exigerait l’adjudication de dépens entre parties jusqu’à la date de l’offre et de dépens indemnitaires substantiels par la suite. L’intimée souligne que la deuxième offre a été présentée après que tous les frais d’appel ont été déboursés.
+[20] Les offres portent sur toutes les années d’imposition de l’appelante, soit de 2003 à 2015. Cependant, à mon avis, seules les offres pour les années d’imposition visées dans les appels sont pertinentes pour la question des dépens en l’espèce. Comme l’a affirmé l’intimée, les offres pour ces années augmentent les gains imposables de 32 millions de dollars en 2006, mais n’augmentent pas l’impôt pour les trois années visées par les appels.
+[21] Compte tenu de la nature minime du compromis, j’estime que les deux offres sont sans effet sur l’adjudication des dépens.
+E. La charge de travail
+[22] L’appelante soutient que la charge de travail liée aux appels était exceptionnellement élevée et elle fournit des détails sur le travail en question, qui comprenait la production de 200 000 documents, la communication de 135 000 documents, des interrogatoires préalables s’étant étendus sur 29 jours comptant près de 10 000 questions et un procès de 69 jours [2] . L’appelante présente un calendrier de certains événements à la pièce H de ses observations écrites.
+[23] L’intimée reconnaît que la charge de travail a été considérable pour les deux parties. Toutefois, l’intimée souligne que l’appelante a consacré des ressources nettement plus importantes que l’intimée en accumulant 11 784 heures de plus qu’elle.
+[24] L’appelante répond que les heures supplémentaires s’expliquent par les 200 000 documents à produire (contre 12 000 pour l’intimée), la préparation de la personne désignée par l’appelante pour l’interrogatoire en raison de ce volume de documents et le fait que l’intimée a invoqué le trompe-l’œil, obligeant ainsi l’appelante à justifier de « minuscules détails administratifs sur la façon dont elle-même et ses filiales ont exercé leurs activités » [3] .
+[25] L’intimée souligne également que 21 % de ses heures facturables ont été effectuées par du personnel moins coûteux, comparativement à 4,4 % pour l’appelante. L’appelante répond que le nombre important d’avocats qui ont travaillé sur son dossier montre qu’elle a tenté de faire appel à des collaborateurs débutants et à des étudiants pour examiner des documents.
+[26] J’estime que les appels ont exigé beaucoup de travail de la part de l’appelante et que la charge de travail a été considérablement accrue du fait que l’intimée a invoqué le trompe-l’œil. Bien que l’intimée ait parfaitement le droit d’invoquer le trompe-l’œil pour étayer les nouvelles cotisations, elle ne peut pas après coup se plaindre des frais que l’appelante a dû supporter pour se défendre contre l’allégation de tromperie qui fait partie intégrante de la doctrine du trompe-l’œil. Par conséquent, ce facteur favorise une adjudication en conséquence des dépens à l’appelante.
+F. La complexité des questions en litige
+[27] L’appelante et l’intimée reconnaissent que les faits et les questions en litige dans les appels étaient complexes. L’appelante soutient que cette complexité favorise une adjudication de dépens considérables. L’intimée soutient que, même si cette complexité favorise l’adjudication de dépens à l’appelante, cette adjudication « devrait être une indemnité partielle raisonnable » [4] .
+[28] Les appels portaient sur l’interprétation de dispositions de la Loi de l’impôt sur le revenu qui n’avaient jamais été interprétées auparavant et sur l’application de cette interprétation aux faits établis après environ 65 jours de présentation de la preuve, qui comprenait les rapports et les témoignages de huit témoins experts. Dans les circonstances, j’estime que les questions en litige examinées dans les appels étaient complexes et favorisent une adjudication en conséquence des dépens à l’appelante.
+G. La conduite d’une partie
+[29] L’appelante soutient, en se fondant vraisemblablement sur le paragraphe 603 de mon jugement, que les allégations bancales de trompe-l’œil soulevées par le ministère public reposaient sur une incompréhension fondamentale de la notion de trompe-l’œil. Cependant, mon observation dans ce paragraphe ne visait pas le droit de l’intimée d’invoquer le trompe-l’œil. Elle ne signifiait pas non plus que l’intimée, en invoquant le trompe-l’œil, a eu une conduite inappropriée ou frivole.
+[30] Je partage l’avis de l’intimée selon lequel il s’agit d’une affaire dans laquelle [traduction] « [l]a Couronne a défendu une position à laquelle la Cour n’a pas souscrit en fin de compte » [5] . Je n’ai connaissance d’aucune conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance. Malgré la durée du procès, aucune des parties n’a agi de manière déraisonnable et elles ont toutes deux mené le litige de manière « à représenter aussi vivement que possible l’intérêt supérieur de leur client respectif » [6] .
+[31] Dans les circonstances, j’estime que ce facteur est sans effet sur l’adjudication des dépens.
+H. La dénégation d’un fait, la négligence ou le refus d’admettre ce fait
+[32] Je conviens avec les parties que ce facteur est sans effet sur l’adjudication des dépens.
+I. Étape de l’instance inappropriée, vexatoire ou inutile
+[33] Je n’ai vu aucune preuve montrant que l’une ou l’autre des parties se soit conduite d’une manière visée par l’alinéa 147(3)i) des Règles.
+[34] Je ne partage pas l’avis de l’appelante selon lequel la décision de l’intimée de faire vigoureusement valoir son argument du trompe-l’œil est pertinente pour évaluer ce facteur. L’intimée a produit une preuve abondante pour étayer son argument du trompe-l’œil. Je n’ai tout simplement pas souscrit à la position de l’intimée selon laquelle cette preuve démontrait l’existence d’un trompe-l’œil étant donné mes conclusions de fait et le critère applicable au trompe-l’œil établi par la jurisprudence.
+[35] Je ne partage pas non plus l’avis de l’intimée selon lequel la requête que Cameco a présentée en vertu de la Loi sur la preuve au Canada afin d’être autorisée à convoquer plus de cinq témoins experts est pertinente pour l’évaluation de ce facteur, car seulement cinq experts ont témoigné pour l’appelante. Dans les motifs de la décision par laquelle j’ai accueilli cette requête, j’ai clairement affirmé que ma décision ne signifiait pas automatiquement que la preuve d’expert de plus de cinq témoins serait admise au procès.
+[36] J’estime que ce facteur est sans effet sur l’adjudication des dépens.
+J. Les dépenses pour les témoins experts
+[37] Je conviens avec l’appelante et l’intimée qu’il s’agissait d’une affaire dans laquelle la preuve d’expert s’imposait. J’observe que l’appelante n’a pas demandé de dépens pour les témoins experts qui ont préparé des rapports, mais dont la qualité d’expert n’a pas été reconnue ou dont la preuve n’a pas été présentée au procès.
+K. Toute autre question pouvant influer sur la détermination des dépens.
+[38] L’intimée soutient que deux facteurs supplémentaires doivent être pris en compte dans l’adjudication des dépens à l’appelante : (i) les attentes raisonnables de l’intimée; (ii) les dépens demandés par Cameco concernant les requêtes préalables au procès.
+[39] En ce qui concerne le premier facteur, l’intimée soutient que ses attentes raisonnables concernant les dépens de l’appelante, déterminés par rapport à ses propres dépens, constituent un facteur pertinent. L’intimée affirme que les frais qu’elle a déboursés totalisent 13 278 930,86 $, dont environ 6,5 millions de dollars en honoraires [7] . L’intimée soutient que, compte tenu des frais qu’elle a elle-même déboursés, elle ne pouvait pas raisonnablement prévoir que l’appelante payerait des frais de 48 millions de dollars. L’intimée affirme ce qui suit :
+[traduction]
+[…] Une partie n’ayant pas gain de cause qui participe activement à un litige ne peut pas raisonnablement s’attendre à devoir s’acquitter de dépens d’indemnisation partielle qui dépassent 100 % des frais qu’elle a réellement déboursés. Elle ne devrait pas non plus s’attendre à financer, à raison de 70 %, la décision de la partie adverse de payer des honoraires d’avocats pour 11 784 heures de plus [8] .
+[40] L’intimée ajoute que les dépens demandés par l’appelante sont extravagants, soit environ trois fois plus que les frais déboursés par l’intimée, et que l’adjudication des dépens ne doit pas être extravagante.
+[41] L’appelante répond que le taux horaire moyen utilisé par l’intimée pour calculer les honoraires (192 $) ne correspond pas (c’est-à-dire qu’il est nettement inférieur) aux taux horaires facturés dans le secteur privé pour des litiges fiscaux complexes.
+[42] En ce qui concerne le deuxième facteur additionnel, l’intimée affirme ce qui suit :
+[traduction]
+Cameco n’a pas réussi à établir qu’elle ne demande pas en double des dépens qui ont déjà été adjugés par la Cour dans les requêtes préalables au procès. Dix requêtes préalables au procès ont été entendues dans la présente instance. Quatre ont été introduites par Cameco et six par la Couronne. Vous trouverez ci-joint un tableau détaillant les dépens adjugés dans le cadre de ces requêtes. Cameco ne devrait pas recevoir de dépens liés à des requêtes si la Couronne a obtenu gain de cause, si les dépens ont été adjugés à la Couronne, si les dépens ont déjà été adjugés, si la Cour a refusé d’adjuger des dépens ou s’il a été ordonné que les parties assument leurs propres dépens [9] .
+[43] L’appelante reconnaît que la Cour n’a pas adjugé de dépens pour certaines requêtes et que, dans un cas, elle a refusé d’adjuger les dépens. L’appelante soutient toutefois qu’à l’exception des requêtes portant les numéros deux et cinq à l’annexe « A » jointe aux observations sur les dépens de l’intimée, les requêtes font partie du litige et qu’elle a droit aux dépens. L’appelante estime que les frais liés aux requêtes numéro deux et cinq sont d’environ 280 000 $.
+[44] Je prends note qu’en plus de ces deux requêtes, en ce qui concerne les requêtes trois, six et sept, l’intimée a obtenu gain de cause et que, en ce qui concerne la requête huit, j’ai expressément refusé d’adjuger des dépens à l’appelante en raison de la date tardive de la requête. J’ai pris cela en compte dans la détermination des dépens ci-après.
+II. Conclusion
+[45] J’ai soigneusement examiné chacun des facteurs énumérés ci-dessus et j’ai conclu que l’adjudication d’une somme globale à l’appelante au lieu de dépens taxés pour les honoraires d’avocats convient dans les circonstances. Toutefois, je ne suis pas disposé à accepter la suggestion de l’appelante d’adjuger une somme de 20 503 979 $ à titre de dépens pour les honoraires d’avocats. Je ne retiens pas non plus la proposition de l’intimée de fixer les dépens totaux à 9,6 millions de dollars.
+[46] À mon avis, les facteurs examinés ci-dessus justifient collectivement qu’une somme globale de 10 250 000 $ soit adjugée à l’appelante au lieu de dépens taxés pour les honoraires d’avocats. Cette somme représente environ 35 % des honoraires d’avocats de 29,3 millions de dollars déboursés par l’appelante. J’estime que, dans les circonstances, cette adjudication de dépens correspond bien au succès qu’a remporté l’appelante, qu’elle tient compte des sommes en cause et de la complexité des questions en litige et qu’elle contribue de manière appropriée aux frais déboursés par l’appelante pour les honoraires d’avocats sans qu’elle soit extravagante ou punitive pour l’intimée [10] .
+[47] Bien que je reconnaisse que le montant en tant que tel des dépens pour les honoraires d’avocats est élevé, il correspond à la charge de travail très importante qui a été nécessaire à la contestation des nouvelles cotisations, plus précisément l’allégation de trompe-l’œil. Comme je l’ai affirmé dans la décision CIT Group Securities (Canada) Inc. c. La Reine, 2017 CCI 86, faute d’excès de zèle évident, il n’appartient pas à la Cour de remettre en question le jugement d’un avocat sur le travail à accomplir pour bien se préparer à un appel. Cependant, j’observe que, dans des circonstances où l’enjeu était aussi important pour l’appelante, l’efficacité et la frugalité ont peut-être cédé le pas à la minutie. À mon avis, indemniser l’appelante à raison de 35 % des honoraires des avocats répond de manière adéquate à cette dernière observation.
+[48] Je ne retiens pas l’argument de l’intimée selon lequel elle n’aurait pas pu prévoir les coûts payés par l’appelante compte tenu du fait que l’intimée a fait vigoureusement valoir l’allégation du trompe-l’œil. Je ne retiens pas non plus son argument selon lequel ses honoraires d’avocats représentent la limite « raisonnable » des dépens d’indemnisation partielle pouvant être adjugés à l’appelante. Comme je l’ai affirmé dès le début, les dépens doivent être établis en fonction de principes, en tenant compte de tous les facteurs pertinents, et aucun facteur ne peut à lui seul déterminer les dépens.
+[49] En ce qui concerne les débours, puisque les parties ne peuvent s’entendre sur les débours de l’appelante, j’ordonne que les débours demandés par l’appelante soient taxés conformément aux Règles, mais qu’aucuns dépens ne soient adjugés à l’appelante en ce qui concerne les requêtes interlocutoires suivantes : numéro deux, numéro trois, numéro quatre, numéro cinq, numéro six, numéro sept, numéro huit, numéro neuf et numéro dix selon les numéros indiqués à l’annexe « A » des observations de l’intimée sur les dépens.
+Signé à Ottawa, Canada, ce 29e jour d’avril 2019.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 16e jour de mars 2020.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2019 CCI 92
+NOS DES DOSSIERS DE LA COUR :
+2009-2430(IT)G, 2014-3075(IT)G et 2015-1307(IT)G
+INTITULÉ :
+CAMECO CORPORATION c. SA MAJESTÉ LA REINE
+MOTIFS DE L’ORDONNANCE SUR LES DÉPENS :
+L’honorable juge John R. Owen
+DATE DE L’ORDONNANCE SUR LES DÉPENS :
+Le 29 avril 2019
+PARTICIPANTS :
+Avocats de l’appelante :
+Me Al Meghji, Me Peter Macdonald et
+Me Mark Sheeley
+Avocats de l’intimée :
+Me Elizabeth Chasson
+Me Peter Swanstrom
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Al Meghji, Me Peter Macdonald et
+Me Mark Sheeley
+Cabinet :
+Osler, Hoskin & Harcourt S.E.N.C.R.L., s.r.l.
+Toronto (Ontario)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Aucune des offres n’a été présentée au moins 90 jours avant l’audition des appels et, par conséquent, les offres ne remplissent pas la condition énoncée à l’alinéa 147(3.3)b) des Règles. Donc, les paragraphes 147(3.1) et (3.2) des Règles ne s’appliquent pas.
+[2] Les détails figurent aux paragraphes 28 à 34 des observations écrites de Cameco sur les dépens.
+[3] Paragraphe 7 de la réponse de Cameco aux observations sur les dépens.
+[4] Paragraphe 26 des observations écrites de l’intimée sur les dépens.
+[5] Paragraphe 31 des observations de l’intimée sur les dépens.
+[6] Henco Industries Limited c. La Reine, 2014 CCI 278, au paragraphe 20.
+[7] Une description détaillée des frais de l’intimée figure dans l’affidavit de l’intimée sur les dépens.
+[8] Paragraphe 42 des observations de l’intimée sur les dépens.
+[9] Paragraphe 45 des observations écrites de l’intimée sur les dépens. L’annexe « A » décrit les dix requêtes préalables au procès.
+[10] Martin c. La Reine, 2014 CCI 50, au paragraphe 14, appel accueilli dans 2015 CAF 95.

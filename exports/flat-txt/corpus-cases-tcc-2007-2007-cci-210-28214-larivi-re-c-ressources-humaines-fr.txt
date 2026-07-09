@@ -1,0 +1,103 @@
+Title: Larivière c. Ressources Humaines
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28214/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-210-28214-larivi-re-c-ressources-humaines-fr.md
+Document type: case_law
+Last modified: 2007-03-14
+
+# Larivière c. Ressources Humaines
+
+- Citation: 2007 CCI 210
+- Decision date: 2007-03-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2061, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Larivière c. Ressources Humaines
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-14
+Référence neutre
+2007 CCI 210
+Numéro de dossier
+2006-1897(OAS)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier No 2006-1897(OAS)
+COUR CANADIENNE DE L’IMPÔT
+CONCERNANT LA LOI SUR LA SÉCURITÉ DE LA VEILLESSE
+ENTRE:
+OLIVETTE LARIVIÈRE
+Appelante
+‑ et ‑
+LE MINISTRE DE DÉVELOPPEMENT ET DES RESSOURCES HUMAINES
+Intimé
+Tenue devant l’honorable juge Paris de la
+Cour canadienne de l’impôt
+DÉCISION
+COMPARUTIONS :
+Madeleine Larivière Pour l’appelante
+Sonia Bellerive(Stagiaire en droit) Pour l’intimé
+TENUE À :
+Cour canadienne de l’impôt
+Salle des requêtes, 2ième étage
+200, rue Kent
+Ottawa, Ontario
+Mercredi, 14 mars 2007
+--- L’audience débute, le mercredi 14 mars 2007 à
+09 h 31
+LA GREFFIÈRE: Cette séance de la Cour canadienne de l’impôt à Ottawa est maintenant reprise. Monsieur le juge Paris préside.
+La Cour va maintenant rendre sa décision dans le dossier numéro 2006-1897(OAS) entre Olivette Larivière, appelante, et le ministre du Développement et des Ressources humaines, l’intimé.
+Pour l’appelante, Madeleine Larivière et pour l’intimé Suzanne Bellerive.
+LE JUGE PARIS: Bonjour madame.
+Mme LARIVIERE: Bonjour.
+LE JUGE PARIS: Vous pouvez vous asseoir.
+La Cour a été saisie de cette affaire au moyen d’un renvoi effectué en vertu du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse (« la Loi »).
+La question en litige est de savoir si l’intimé, le ministre du Développement et des Ressources humaines et Développement des compétences, a correctement déterminé le revenu de l’appelante pour les années de référence 2002 et 2003 aux fins du calcul de son supplément de revenu garanti pour la période de janvier 2004 à juin 2005.
+En calculant le revenu de l’appelante pour ces années de référence 2002 et 2003, l’intimé s’est basé sur les déclarations de revenu produites par l’appelante pour ces années-là, au ministre de Revenu national.
+Ces calculs relatifs à 2002 et 2003 ont déterminé le montant de supplément auquel l’appelante avait droit pour les périodes de paiements juillet 2003 à juin 2004 et de juillet 2004 à juin 2005 respectivement.
+Pourtant, en janvier 2004, l’appelante a subi une réduction de revenus tirés de son fond enregistré de revenu de retraite, ce qui lui aurait permis de produire auprès l’intimé une déclaration de son revenu estimatif portant sur l’année 2004, selon le paragraphe 14(4) de la Loi.
+Cette déclaration aurait servi dans le calcul de revenu de l’appelante pour les années de référence 2002 et 2003 aux fins du calcul de supplément de revenu garanti et l’appelante aurait eu droit à un plus grand supplément à partir du mois de janvier 2004.
+La partie pertinente du paragraphe 14(4) se lit :
+« Le demandeur peut aussi produire une seconde déclaration lorsqu’il subit une perte de revenu par suite de la suppression ou de la réduction du revenu perçu au titre de son régime de pension, au plus tard à la fin de la période de paiement suivant la période de paiement en cours.
+La seconde déclaration porte alors sur son revenu estimatif de l’année civile au cours de laquelle il a subit cette perte, . . . »
+Pourtant l’appelante n’a produit une déclaration de revenu estimatif portant sur l’année 2004 que le 10 octobre 2005.
+L’intimé a refusé d’accepter cette déclaration aux motifs que la déclaration avait été reçue après la date limite du 30 juin 2005 prévue au paragraphe 14(4) de la Loi.
+L’appelante prétend que l’intimé avait, dès le 28 mars 2005, les renseignements nécessaires pour recalculer son paiement de revenu garanti, ce qui aurait été à l’intérieur du délai prescrit par le paragraphe 14(4).
+La représentante de l’appelante a produit à la Cour une copie de l’avis de cotisation de revenu de l’appelante pour son année d’imposition 2004, envoyé par l’Agence des Douanes et du Revenu du Canada le 21 mars 2005.
+La représentante a aussi produit une partie d’une lettre de l’Agence qui précise entre autre que l’Agence fournit des renseignements sur le revenu au ministère de Développement social Canada, alors responsable de l’administration du supplément garanti, pour les clients qui doivent fournir ces renseignements au ministère afin de continuer à recevoir leurs prestations de supplément.
+La lettre précise aussi que ces renseignements sont fournis de façon hebdomadaire à l’Agence.
+La représentante de l’appelante prétend alors que l’intimé aurait eu des détails du revenu de l’appelante pour l’année 2004 au plus tard, une semaine après l’envoi de l’avis de cotisation du 21 mars 2005.
+Toutefois, cet échange de renseignements entre les deux ministères ne rend pas superflu la production d’une déclaration prévue au paragraphe 14(4) par un prestataire du supplément dans les circonstances énoncées.
+La Loi exige expressément la production de cette déclaration par le prestataire et exige que cette déclaration soit produite au plus tard à la fin de la période de paiement suivant la période de paiement en cours.
+Il n’est pas contesté que la date limite pour la production de la déclaration a été le 30 juin 2007. Il n’est pas contesté non plus que la déclaration en question n’a été produite que le 10 octobre 2005.
+La représentante de l’appelante prétend aussi qu’elle avait communiqué avec le ministère du Développement et des Ressources humaines chaque année pour savoir si sa mère (l’appelante) avait besoin de faire une nouvelle demande pour le supplément et qu’à chaque fois, on lui aurait dit non. De plus, personne au ministère ne lui aurait parlé de la nécessité de produire une déclaration de revenu estimatif suite à une réduction dans les revenus de l’appelante.
+Par conséquent, la représentante demande que la Cour applique l’article 32 de la Loi qui se lit comme suit :
+« S’il est convaincu qu’une personne s’est vu refuser tout ou partie d’une prestation à laquelle elle avait droit par suite d’un avis erroné ou d’une erreur administrative survenus dans le cadre de la présente loi, le ministre prend les mesures qu’il juge de nature à replacer l’intéressé dans la situation où il serait s’il n’y avait pas eu faute de l’administration. »
+Tout d’abord, le pouvoir du ministre, en vertu de l’article 32 est un pouvoir discrétionnaire sur lequel cette Cour n’a pas de juridiction.
+La décision d’appliquer ou non cette disposition n’est pas liée au calcul des revenus par le ministre du Revenu national, mais serait prise par l’intimé postérieurement au calcul du revenu par le ministre du Revenu.
+Seuls ces derniers calculs relèvent de la compétence de la Cour canadienne de l’impôt.
+Pourtant, même si cette Cour pouvait décider la question, à mon avis, l’appelante n’a pas réussi à démontrer que l’article 32 s’appliquerait en l’espèce.
+Parmi les documents produits à la Cour se trouvent des avis envoyés par l’intimé à l’appelante en juillet 2004, 2005 et 2006 au sujet de son supplément garanti.
+Ces avis précisent le revenu de l’appelante pour l’année de référence pertinente ainsi que le montant du paiement mensuel pour l’année en cours.
+Au verso de l’avis du mois de juillet 2006, sous la rubrique « Revenu 2004 », il est indiqué: « Nous utilisons habituellement le
+montant du revenu de l’année
+précédente, tel qu’indiqué sur votre
+déclaration d’impôt (2004) ou sur votre demande.
+Cependant, si vous prenez votre retraite, cessez de travailler à votre compte, ou si votre revenu provenant d’autre pension baisse ou si vous n’avez plus de revenu, veuillez nous en informer.
+Nous tenterons de recalculer votre prestation selon une estimation de votre revenu. »
+Le verso des avis de 2004 et 2005 n’ont pas été produits à la Cour mais je n’ai aucune raison de croire que les directives auraient été différentes dans ces avis.
+Il m’apparaît donc que l’appelante aurait été informée de la nécessité de communiquer avec le ministère au cas où son revenu de pension aurait baissé et qu’elle avait été informée à cet effet, d’abord en juillet 2004.
+À la lumière de toute la preuve, il n’y avait pas d’erreur administrative de la part des responsables au ministère du Développement qui aurait empêché l’appelante de produire une déclaration de revenus estimatifs en vertu du paragraphe 14(4) de la Loi.
+Pour cette raison, l’article 32 de la Loi ne peut pas s’appliquer en l’espèce.
+Bien que je sympathise avec l’appelante dans les circonstances de ce cas, je ne vois pas d’erreur dans le refus du ministre d’accepter la déclaration de revenu estimatif produit pas l’appelante pour les années de référence 2002 et 2003. En conséquence de quoi, l’appel doit être rejeté.
+LA GREFFIÈRE: Cette audience est maintenant close.
+Je certifie que ce qui précède est une transcription exacte et précise de mes notes sténographiques au meilleur de ma connaissance et de mes compétences.
+M. Bolduc, S.O.

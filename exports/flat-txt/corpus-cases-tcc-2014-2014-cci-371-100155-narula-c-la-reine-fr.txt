@@ -1,0 +1,107 @@
+Title: Narula c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/100155/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-371-100155-narula-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-12-12
+
+# Narula c. La Reine
+
+- Citation: 2014 CCI 371
+- Decision date: 2014-12-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2780, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Narula c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-12-12
+Référence neutre
+2014 CCI 371
+Numéro de dossier
+2012-2295(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2295(IT)G
+ENTRE :
+KULWANT SINGH NARULA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 12 décembre 2014, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Zachary Froese
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies à l’égard des années d’imposition 2006 et 2007 de l’appelant est rejeté, les dépens étant payables à l’intimée, sans délai.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2014.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 31e jour de mars 2015.
+Mario Lagacé, jurilinguiste
+Référence : 2014 CCI 371
+Date : 20141219
+Dossier : 2012-2295(IT)G
+ENTRE :
+KULWANT SINGH NARULA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Kulwant Singh Narula exploitait une pizzeria à titre de propriétaire unique de 2002 à 2007. M. Narula et son épouse étaient les seules personnes qui travaillaient dans l’entreprise. Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard des années d’imposition 2006 et 2007 de M. Narula en utilisant une analyse des dépôts bancaires, et lui a imposé des pénalités pour faute lourde. M. Narula interjette appel de la nouvelle cotisation établie.
+[2] Les parties conviennent que, à moins que le ministre puisse démontrer que M. Narula a fait une présentation erronée des faits dans sa déclaration de revenus pour 2006, l’année d’imposition 2006 de M. Narula est frappée de prescription.
+Analyse des dépôts bancaires [3] L’intimée a appelé le vérificateur, Larry Buddingh, en tant que témoin. J’ai conclu que M. Buddingh était crédible. Il a expliqué que M. Narula n’avait pas suffisamment de documents commerciaux pour lui permettre de procéder à une vérification normale et que, par conséquent, il avait été nécessaire d’effectuer une analyse des dépôts bancaires. Il a décrit comment il avait effectué l’analyse des dépôts bancaires et les divers rajustements qu’il avait faits pour s’assurer que des dépôts non imposables, la TPS et des transferts avaient été exclus de ses calculs ainsi que les divers rajustements qu’il avait faits pour tenir compte de dépôts pour lesquels M. Narula avait fourni des explications plausibles. J’ai conclu que la méthodologie de M. Buddingh était valable et j’accepte ses conclusions selon lesquelles M. Narula avait effectué des dépôts inexpliqués de 43 151 $ et de 51 839 $ à ses comptes d’affaires et personnels dans ses années d’imposition 2006 et 2007, respectivement.
+[4] M. Narula n’a pas donné beaucoup d’explications en ce qui concerne ces dépôts. Les seules explications qu’il a fournies concernaient des prêts consentis par ses parents et par un ami.
+[5] M. Narula a témoigné que ses parents, qui habitent en Inde, lui avaient prêté 14 000 $ en 2006 et 15 000 $ en 2007, mais il n’a pas démontré comment ni à quel moment ces fonds avaient été déposés dans ses comptes bancaires. Il n’a pas donné la raison de ces prêts ni démontré qu’un quelconque remboursement des fonds avait été fait. M. Narula n’a pas fourni d’explication quant à la manière dont les fonds étaient arrivés au Canada en provenance de l’Inde. Compte tenu de ce qui précède, je n’accepte pas l’explication selon laquelle M. Narula a emprunté quelques fonds que ce soit à ses parents dans les années en question. Même si j’avais accepté qu’il l’avait fait, en l’absence d’un quelconque élément de preuve que ces fonds avaient été réellement déposés dans ses comptes bancaires, je n’aurais, en tout état de cause, effectué aucun rajustement.
+[6] M. Narula a aussi témoigné qu’il avait emprunté 11 000 $ d’un ami appelé M. Mangat. M. Narula a expliqué que lui et M. Mangat envisageaient d’acheter une entreprise, qu’il avait demandé à M. Mangat de lui prêter de l’argent pour ce faire, que l’achat de l’entreprise n’avait finalement pas eu lieu et qu’il avait gardé l’argent. Cette explication est très étrange. M. Narula n’a pas expliqué pourquoi M. Mangat lui avait permis de garder les fonds empruntés, alors que l’achat de l’entreprise pour lequel les fonds avaient été prêtés n’avait pas eu lieu. M. Narula a témoigné que les fonds, qui auraient été prêtés en septembre 2006, avaient été déposés dans son compte bancaire en chiffres ronds variés, entre octobre et décembre. Il a précisé qu’il avait déposé des fonds lorsqu’il avait besoin de couvrir un chèque, mais il n’a pas expliqué pourquoi il n’avait tout simplement pas déposé tout l’argent en premier lieu. L’avocat de l’intimée a souligné que des dépôts semblables en des chiffres ronds similaires avaient été faits tout au long de l’année et a soutenu qu’il était beaucoup plus probable que les dépôts auxquels M. Narula me renvoyait aient été des dépôts réguliers en espèce provenant de l’entreprise plutôt que des emprunts provenant d’un prêt injustifié. Je suis d’accord avec l’avocat de l’intimée. M. Narula n’a pas appelé M. Mangat comme témoin. Je tire une inférence défavorable à partir de ce fait. Compte tenu de tout ce qui précède, je n’accepte pas l’explication selon laquelle M. Narula avait emprunté quelques fonds que ce soit de M. Mangat dans les années en question.
+[7] Étant donné que j’ai conclu que la méthodologie du vérificateur était valable et que je n’ai pas accepté les explications sommaires de M. Narula concernant les dépôts inexpliqués, je me vois dans l’obligation de conclure que M. Narula n’a pas déclaré tous les revenus provenant de la pizzeria. Pour les motifs exposés ci‑dessous concernant les pénalités pour faute lourde, je conclus que c’est par négligence, inattention ou omission volontaire que M. Narula n’a pas déclaré ces revenus en 2006.
+Pénalités pour faute lourde [8] J’estime que M. Narula a commis une faute lourde en omettant de déclarer les montants en question. M. Narula utilisait une caisse enregistreuse qui, selon son témoignage, produisait un reçu pour un client ou un document pour l’entreprise sous la forme de lecture cumulative de la caisse, mais pas les deux. J’ai du mal à croire cette explication, étant donné que je ne peux pas concevoir pourquoi une société fabriquant des caisses enregistreuses inclurait une telle caractéristique dans ses machines. Même si une société cherchait à créer une caisse enregistreuse qui pourrait être utilisée à des fins d’évasion fiscale, je m’attendrais à ce que l’utilisateur d’une telle machine veuille pouvoir produire des lectures cumulatives de la caisse pour les ventes à l’égard desquelles le client demande un reçu, étant donné qu’il s’agit exactement du genre de ventes qui sont susceptibles de causer des problèmes lors d’une vérification, puisque le reçu crée une preuve de la vente entre les mains d’un tiers. Le témoignage de M. Narula comportait des contradictions en ce qui concerne la fréquence à laquelle la caisse enregistreuse produisait des lectures cumulatives de la caisse et quant à la question de savoir si ces lectures cumulatives de la caisse avaient été détruites ou non. Son témoignage recelait aussi des contradictions en ce qui a trait à la question de savoir s’il consignait les ventes séparément dans ce qu’il avait décrit comme étant un « carnet de commandes » ou s’il totalisait simplement les dépôts qu’il faisait dans son compte bancaire, et, quoi qu’il en soit, il n’a pas produit de carnet de ce genre en preuve. Compte tenu de tout ce qui précède, je conclus que M. Narula n’a pas tenté de tenir un système de comptabilité exact, qu’il a cherché tout au long de l’instance à dissimuler les livres comptables qui avaient été réellement tenus et qu’en fait, il semble avoir pris des mesures pour détruire les quelques documents qui avaient été produits.
+[9] M. Narula comptait sur les services d’un expert‑comptable externe dans les années en question. Bien que l’on ait laissé entendre que tout défaut de déclaration de revenus était peut-être imputable au comptable, il n’y a aucun élément de preuve à l’appui de ce fait et aucune explication cohérente n’a été donnée quant aux renseignements qui avaient été fournis au comptable et à ceux qui ne l’avaient pas été. En outre, M. Narula n’a posé aucune question sur ce point à son comptable lorsque celui‑ci a témoigné.
+[10] M. Narula exploite la pizzeria depuis 2002. Il comprend parfaitement les obligations qui lui incombent au titre de la Loi de l’impôt sur le revenu de déclarer tous ses revenus, pourtant il ne l’a pas fait. Le revenu non déclaré est important. Il représente environ 80 pour 100 du revenu déclaré de M. Narula en 2006 et 100 pour 100 de celui de 2007. Il représente aussi environ 30 pour 100 des ventes qu’il a déclarées dans les deux années.
+[11] Compte tenu de ce qui précède, je conclus que M. Narula a commis une faute lourde en omettant de déclarer tous les revenus qu’il avait tirés de l’exploitation de sa pizzeria.
+Conclusion
+[12] Compte tenu de tous les motifs exposés ci‑dessus, l’appel est rejeté, les dépens étant payables à l’intimée, sans délai.
+Signé à Ottawa, Canada, ce 19e jour de décembre 2014.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 31e jour de mars 2015.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2014 CCI 371
+No DU DOSSIER DE LA COUR : 2012-2295(IT)G
+INTITULÉ : KULWANT SINGH NARULA c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 12 décembre 2014
+MOTIFS DU JUGEMENT : L’honorable juge David E. Graham
+DATE DU JUGEMENT : Le 19 décembre 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Zachary Froese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

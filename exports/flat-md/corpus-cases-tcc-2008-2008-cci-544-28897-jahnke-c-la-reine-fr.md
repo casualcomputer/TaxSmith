@@ -1,0 +1,210 @@
+---
+title: "Jahnke c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28897/index.do"
+last_modified: "2008-09-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 544"
+citation2: ""
+neutral_citation: "2008 CCI 544"
+decision_date: "2008-09-26"
+language: "fr"
+item_id: "28897"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1405
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:21:22.331000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "62c9bbc6eaea34591f067b59ca0519590e368e8f72b27cf821c01be54b93f284"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jahnke c. La Reine
+
+- Citation: 2008 CCI 544
+- Decision date: 2008-09-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1405, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jahnke c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-26
+Référence neutre
+2008 CCI 544
+Numéro de dossier
+2007-4329(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4329(IT)I
+ENTRE :
+MARILYN JAHNKE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 23 juin 2008, à Saskatoon (Saskatchewan).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocate de l’appelante :
+Me Cara L. Haaf
+Avocat de l’intimée :
+Me Lyle Bouvier
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles déterminations qui ont été faites en vertu de la Loi de l’impôt sur le revenu pour les années de base 2004 et 2005 sont accueillis et les nouvelles déterminations sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle détermination compte tenu du fait que Tara Dawn Janvier était, au cours des années de base 2004 et 2005, une personne à charge admissible de l’appelante.
+Signé à Ottawa, Canada, ce 26e jour de septembre 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 19e jour de novembre 2008.
+S. Tasset
+Référence : 2008 CCI 544
+Date : 20080926
+Dossier : 2007-4329(IT)I
+ENTRE :
+MARILYN JAHNKE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Il s’agit d’appels interjetés sous le régime de la procédure informelle visant la contestation d’avis de nouvelle détermination datés des 19 et 26 janvier 2007 respectivement, par lesquels le ministre du Revenu national (le « ministre ») a conclu que l’appelante n’avait pas droit à la prestation fiscale canadienne pour enfants (la « PFCE ») et à d’autres prestations à l’égard de Tara Dawn Janvier. La décision du ministre est fondée sur le fait que, de l’avis de celui‑ci, Tara n’était pas une personne à charge admissible de l’appelante. Par ces nouvelles déterminations, le ministre a cherché à recouvrer de l’appelante un montant de 4 455,12 $ en tout qui aurait été payé en trop.
+Les faits
+[2] L’appelante et son mari, qui est un médecin semi‑retraité, ont élevé au cours de leur mariage un grand nombre d’enfants placés chez eux en foyer nourricier. À l’heure actuelle, huit enfants vivent avec eux; un grand nombre de ces enfants ont besoin de soins médicaux spéciaux. Au mois de juillet 1995, Tara s’est jointe à la famille de l’appelante, après avoir reçu son congé de l’hôpital lorsqu’elle avait environ cinq mois. Tara est née prématurément et elle a besoin de soins médicaux spéciaux. Elle ne peut pas s’alimenter d’elle‑même et elle a besoin d’être nourrie au moyen d’un tube d’alimentation. Elle a également certaines difficultés d’apprentissage.
+[3] Initialement, l’appelante et son mari n’ont obtenu aucune aide financière du père et de la mère de l’enfant ou des divers organismes gouvernementaux responsables du bien‑être des enfants. Toutefois, ils ont obtenu de l’aide financière du conseil tribal de Meadow Lake jusqu’au mois d’août 2002. Ils ont également pu faire couvrir Tara par le régime provincial d’assurance‑maladie dont bénéficiait leur famille. C’est au cours de l’année 2002 que l’appelante a demandé, et obtenu, la PFCE en vertu de l’article 122.61 de la Loi de l’impôt sur le revenu[1] (la « Loi ») ainsi que le supplément de la prestation nationale pour enfants, la prestation pour enfants handicapés et, au mois de janvier 2006, la prestation liée au coût de l’énergie. Pour plus de commodité, j’appellerai ces prestations collectivement « les prestations ».
+[4] L’appelante a produit en preuve une ordonnance rendue sur consentement le 27 mars 2005 par la Cour du Banc de la Reine de la Saskatchewan (Division de la famille). Les parties à l’instance dans le cadre de laquelle l’ordonnance a été rendue sont l’appelante et son mari, les père et mère naturels de l’enfant et la Health and Social Development Authority du conseil tribal de Meadow Lake (la « Régie »). L’ordonnance comporte des dispositions exhaustives prévoyant le soin et l’éducation de l’enfant. Aux termes de l’ordonnance, l’appelante et son mari ainsi que les père et mère naturels et la Régie se sont vu accorder la garde conjointe de l’enfant, la responsabilité de la prise de décisions étant partagée entre eux. L’ordonnance prévoit que l’enfant vivra avec l’appelante et son mari, les autres parties se voyant accorder des droits de visite. Le dernier paragraphe de l’ordonnance prévoit que la Régie est tenue de fournir de l’aide financière à l’appelante et à son mari. Plus précisément, la Régie est tenue de payer les frais médicaux, dentaires et orthodontiques de Tara, dans la mesure où ces frais ne sont pas couverts par le régime d’assurance, et de verser chaque mois un montant de 975,24 $ à l’appelante et à son mari.
+Le point litigieux
+[5] Pour que l’appelante ait droit aux prestations à l’égard de Tara, elle doit être visée par la définition de l’expression « particulier admissible » et Tara doit être visée par la définition de l’expression « personne à charge admissible », lesquelles figurent toutes deux à l’article 122.6 de la Loi. Il n’est pas contesté que l’appelante est visée par la définition du « particulier admissible ». Toutefois, la position prise par l’intimée est qu’au cours des périodes visées par l’appel, Tara n’était pas une « personne à charge admissible ». Cette définition est rédigée comme suit :
+122.6 Les définitions qui suivent s’appliquent à la présente sous‑section.
+« personne à charge admissible » S’agissant de la personne à charge admissible d’un particulier à un moment donné, personne qui répond aux conditions suivantes à ce moment :
+a) elle est âgée de moins de 18 ans;
+b) elle n’est pas quelqu’un pour qui un montant a été déduit en application de l’alinéa 118(1)a) dans le calcul de l’impôt payable par son époux ou conjoint de fait en vertu de la présente partie pour l’année de base se rapportant au mois qui comprend ce moment;
+c) elle n’est pas quelqu’un pour qui une allocation spéciale prévue par la Loi sur les allocations spéciales pour enfants est payable pour le mois qui comprend ce moment.
+Il n’est pas contesté que le droit de recevoir toutes les autres prestations qui sont ici en cause est régi par les mêmes dispositions de la Loi que les dispositions régissant le droit à la PFCE.
+[6] La cause de l’intimée est entièrement fondée sur l’alinéa c) de cette définition, à savoir que Tara était quelqu’un pour qui une allocation spéciale prévue par la Loi sur les allocations spéciales pour enfants[2] (la « LASE ») était payable. Il s’agit de la seule question en litige. Les hypothèses sur lesquelles le ministre a fondé sa nouvelle détermination au sujet des droits accordés à l’appelante en vertu de la Loi sont plaidées au paragraphe 10 de la réponse à l’avis d’appel :
+[traduction]
+10. En faisant une nouvelle détermination au sujet du droit de l’appelante à la PFCE pour les années de base 2004 et 2005 et à la prestation liée au coût de l’énergie pour l’année de base 2004, le ministre a émis les hypothèses de fait ci‑après énoncées :
+a) l’appelante était la principale responsable des soins de Tara pour la période allant du mois de juillet 2005 au mois de décembre 2006;
+b) à compter du mois de décembre 2005, Tara était quelqu’un pour qui une allocation spéciale prévue par la Loi sur les allocations spéciales pour enfants était payable;
+c) le conseil tribal et les services à la famille de Meadow Lake (l’« Organisme ») reçoivent une allocation spéciale prévue par la Loi sur les allocations spéciales pour enfants à l’égard de Tara depuis le mois de décembre 2005;
+d) l’Organisme a versé une allocation de subsistance à l’appelante à l’égard de Tara.
+L’intimée n’a pas présenté de preuve à l’instruction; elle a plutôt décidé de se fonder entièrement sur ces hypothèses.
+[7] De toute évidence, l’hypothèse émise par le ministre à l’alinéa 10b) est une allégation mixte de fait et de droit. Cela étant, elle est plaidée en violation flagrante des décisions rendues par la présente cour et par la Cour d’appel fédérale dans l’affaire Anchor Pointe Energy Ltd. v. The Queen[3]. Dans cette affaire, le juge Rothstein, qui rendait jugement au nom de la cour d’appel dans son ensemble, a dit ce qui suit :
+[...] Le ministre peut présumer les éléments de fait d’une conclusion mixte de fait et de droit. S’il souhaite le faire, toutefois, il devra extraire les éléments de fait présumés, de façon à ce que le contribuable sache exactement quelles hypothèses de fait il doit réfuter pour avoir gain de cause. Il ne convient pas que les faits présumés soient enfouis dans une conclusion mixte de fait et de droit[4].
+Le ministre aurait dû extraire les éléments de fait qui étaient présumés dans la conclusion selon laquelle une allocation spéciale prévue par la LASE était payable à l’égard de Tara. L’alinéa 10b) de la réponse n’a aucun effet, et je n’en tiendrai pas compte.
+[8] L’alinéa 10c) de la réponse renferme un énoncé de fait. Toutefois, il s’agit d’un fait relevant de la connaissance particulière du ministre du Revenu national, qui applique la LASE, ainsi que des services à la famille et du conseil tribal de Meadow Lake. La charge de la preuve, pour ce qui est de cet énoncé de fait, incombe donc à l’intimée plutôt qu’à l’appelante. Les décisions rendues par la Cour suprême du Canada dans les affaires Anderson Logging Co v. R.[5] et Johnston v. Canada (Minister of National Revenue)[6] établissent clairement que la charge de la preuve incombe à l’appelante en ce qui concerne les faits dont celle‑ci a personnellement connaissance. L’équité exige que la même règle s’applique en vue d’imposer la charge de la preuve à l’intimée lorsque c’est le ministre plutôt que l’appelante qui a une connaissance toute particulière des faits. Il aurait été fort simple pour l’intimée de produire une preuve en vue d’établir que le ministre payait une allocation prévue par la LASE à l’égard de Tara ainsi qu’au sujet des faits sur lesquels il s’était fondé pour arriver à cette décision. Puisqu’elle ne l’a pas fait, l’intimée n’a pas établi qu’une allocation prévue par la LASE était payée à l’égard de Tara.
+[9] L’alinéa c) de la définition de la « personne à charge admissible » parle d’un enfant pour qui une allocation prévue par la LASE est payable et non d’un enfant pour qui une allocation est payée. Il convient donc de se demander si Tara est un tel enfant, même s’il n’a pas été établi qu’une allocation était payée à son égard. L’avocat de l’intimée a pris la position selon laquelle il n’est pas loisible à la présente cour de se demander si une allocation était payable à l’Organisme en vertu de la LASE. À son dire, la Cour n’a pas compétence pour rendre une décision sur ce point puisque la LASE n’est pas une loi qui est mentionnée dans la Loi sur la Cour canadienne de l’impôt[7]. Par conséquent, selon l’avocat, si le ministre décide de payer une allocation, la Cour ne peut pas mettre en doute le bien‑fondé de cette décision afin de déterminer si un enfant est une « personne à charge admissible » visée par la définition figurant dans la Loi. Je ne suis pas d’accord. Adopter ce point de vue, c’est changer la définition de la « personne à charge admissible » figurant à l’article 122.6 de la Loi en remplaçant le mot « payable » par le mot « payée ». Si le législateur voulait que la Loi soit interprétée de cette façon, il aurait rédigé la disposition en question de cette façon. À coup sûr, la Cour ne peut pas accorder de réparation en vertu de la LASE; la personne qui conteste la décision du ministre de refuser d’accorder une allocation en vertu de cette loi doit présenter une demande de contrôle judiciaire devant la Cour fédérale. Toutefois, lorsque la réponse à une question dont la présente cour est à juste titre saisie exige la détermination de la question de savoir si, eu égard aux faits de l’affaire, une telle allocation est payable, la Cour doit statuer sur ce point. Il serait absurde que l’appelante puisse se voir refuser les prestations auxquelles elle a droit en vertu de l’article 122.61 de la Loi, sans bénéficier d’un droit d’appel, simplement parce que le ministre a par erreur payé une prestation en vertu de la LASE à quelqu’un d’autre qui n’y avait pas droit.
+[10] Selon l’appelante, les conditions auxquelles une allocation prévue par la LASE est payable ne sont pas remplies en l’espèce, de sorte qu’aucune allocation n’était payable en vertu de cette loi et, par conséquent, si une allocation a été payée, elle l’a été par erreur. Le paragraphe 3(1) de la LASE régit le paiement des allocations; il est libellé comme suit :
+3(1) Sous réserve des autres dispositions de la présente loi, sont versées, sur le Trésor, des allocations spéciales mensuelles dont le montant est fixé en application de l’article 8 pour chaque enfant :
+a) qui, résidant chez des parents nourriciers, dans un foyer de placement familial ou dans un établissement spécialisé, est à la charge :
+(i) soit d’un ministère ou d’un organisme fédéral ou provincial,
+(ii) soit d’un organisme chargé par une province – y compris une régie constituée en vertu des lois d’une province – d’appliquer la législation provinciale visant la protection et le soin des enfants, ou d’un organisme, y compris un office, chargé par une telle régie d’appliquer cette législation;
+b) qui est à la charge d’un établissement autorisé par permis ou autrement, aux termes de la législation provinciale, à assurer la garde ou le soin d’enfants.
+[11] L’avocate de l’appelante soutient que ni l’alinéa a) ni l’alinéa b) du paragraphe 3(1) de la LASE ne s’appliquent, et ce, pour deux raisons. En premier lieu, la charge de Tara n’est pas assurée par un ministère ou par un organisme du genre mentionné au sous‑alinéa 3(1)a)(i) ou par un établissement du genre mentionné à l’alinéa 3(1)b). En second lieu, l’appelante affirme que Tara ne résidait pas chez des parents nourriciers, dans un foyer de placement familial ou dans un établissement spécialisé comme l’exige en outre l’alinéa 3(1)a). Il n’est pas contesté que Tara vivait exclusivement avec l’appelante et son mari pendant toute la période pertinente. L’appelante fait valoir que son mari et elle ne sont pas, et n’ont pas été depuis la date de l’ordonnance rendue sur consentement, les parents nourriciers de Tara. Ils sont plutôt, et ce, depuis le 27 mars 2005, des parents qui ont la garde de l’enfant chez qui l’enfant a sa résidence principale.
+[12] L’expression « à la charge » est définie pour l’application de la LASE à l’article 9 du Règlement sur les allocations spéciales pour enfants[8], qui est libellé comme suit :
+CHARGE D’UN ENFANT
+9. Pour l’application de la Loi, un enfant est considéré comme étant à la charge du demandeur pour un mois donné si, à la fin de ce mois, le demandeur est celui qui assure le soin, la subsistance, l’éducation, la formation et le perfectionnement de l’enfant dans une plus large mesure que tout autre ministère, organisme ou établissement, ou toute personne.
+[13] Afin d’être admissible aux fins de la charge de Tara, l’organisme n’a pas à assurer tous les frais de subsistance de Tara. Il suffit qu’il assure le soin, la subsistance, l’éducation, la formation et le perfectionnement de l’enfant dans une plus large mesure que l’appelante ou que quelqu’un d’autre. Il s’agit d’une question de fait que ni l’une ni l’autre des parties n’a abordée dans les actes de procédure ou au moyen de la preuve. L’appelante a adopté une approche stricte, en soutenant que l’ordonnance rendue sur consentement ne prévoit pas expressément que Tara soit « à la charge » de l’Organisme, de sorte qu’aucune somme n’aurait dû être payée à ce dernier en vertu de la LASE.
+[14] Il n’est pas possible de savoir, eu égard à la preuve mise à ma disposition, si Tara est « à la charge » de la Régie puisqu’il n’existe aucun fondement permettant de comparer la contribution de la Régie à la subsistance de Tara par rapport à celle de l’appelante et du mari de l’appelante. Il importe également de noter que l’intimée n’a pas plaidé à titre d’hypothèse que la Régie avait Tara à sa charge, mais uniquement qu’elle assurait sa subsistance. Ni les hypothèses émises par le ministre ni la preuve n’établissent que Tara était à la charge d’un ministère, d’un organisme ou d’un établissement spécialisé selon la définition de cette expression.
+[15] L’autre exigence, pour qu’un enfant soit visé à l’alinéa 3(1)a) de la LASE est que l’enfant « [...] résid[e] chez des parents nourriciers, dans un foyer de placement familial ou dans un établissement spécialisé [...] ». L’appelante et son mari sont‑ils les parents nourriciers de Tara? Il ressort de l’examen des dispositions législatives pertinentes de la Saskatchewan qu’à compter de la date à laquelle l’ordonnance sur consentement a été rendue au mois de mars 2005, ils n’auraient pas pu être les parents nourriciers de l’enfant.
+[16] La Child and Family Services Act[9] de la Saskatchewan vise à assurer le bien‑être des enfants en fournissant à ceux‑ci des services, notamment des services d’accueil. La Loi de 1997 sur le droit de l’enfance[10] établit le régime législatif applicable à la garde d’enfant et à l’accès auprès d’un enfant. Le juge Sandomirsky, de la Cour du Banc de la Reine de la Saskatchewan (Division de la famille), a expliqué comme suit les différentes fonctions des deux lois :
+[traduction] La CFSA [Child and Family Services Act] et la LDE [Loi de 1997 sur le droit de l’enfance] ont des objectifs différents. La première vise à appréhender un enfant qui a besoin de protection et à assurer son bien‑être en offrant, lorsqu’il convient de le faire, des services visant à assurer le maintien, le soutien et la préservation de la famille de la façon la moins nuisible possible (voir l’article 3). Dans ce régime législatif, le principe primordial est fondé sur l’intérêt supérieur de l’enfant, qu’il faut déterminer en tenant compte de chacun des facteurs prévus à l’article 4 de cette loi. L’article 4 ne renferme pas une liste de facteurs exhaustive, malgré la nature étendue des facteurs qui y sont énoncés. La LDE est axée sur la garde de l’enfant et l’accès auprès de l’enfant et prévoit un régime législatif permettant de se prononcer sur les demandes et intérêts contradictoires concernant les enfants. En Saskatchewan, ces deux lois sont considérées ensemble et font partie d’un régime législatif exhaustif en matière de bien‑être des enfants. [renvois omis][11]
+L’alinéa 2(1)j) de la Child and Family Services Act définit comme suit l’expression [traduction] « services d’accueil » :
+[traduction]
+j) « services d’accueil » Prestation de services résidentiels à un enfant par et chez une personne :
+(i) qui est autorisée par le directeur à assurer le soin de l’enfant;
+(ii) qui n’est pas le père ou la mère de l’enfant ou une personne auprès de laquelle l’enfant a été placé en adoption;
+Le paragraphe 2(1) du Child and Family Services Regulations[12] définit les expressions suivantes :
+[traduction]
+d) « foyer nourricier » Foyer d’une personne qui a été autorisée par le directeur à fournir à domicile des services d’accueil à un enfant;
+e) « parent nourricier » Personne que le directeur a autorisée à fournir des services d’accueil.
+L’alinéa 2(1)g) de la Child and Family Services Act définit le mot [traduction] « directeur » comme suit :
+[traduction] « directeur » Personne nommée à ce titre par le ministre, conformément à l’alinéa 57a), pour l’application de la Loi ou, à défaut de nomination, le ministre;
+La partie VI de la Child and Family Services Act traite des enfants confiés aux soins du ministre et des accords relatifs aux services d’accueil. L’article 54 est libellé comme suit :
+[traduction]
+54(1) Lorsque des services d’accueil sont fournis conformément à la présente loi, le directeur conclut avec la personne qui fournit ces services un accord écrit énonçant les tâches et responsabilités de chaque partie à l’égard des soins fournis.
+54(2) Les dispositions de l’accord conclu conformément au paragraphe (1) ne portent pas atteinte aux droits et pouvoirs dévolus au ministre conformément à la présente loi.
+54(3) Tout accord conclu conformément au paragraphe (1) est réputé renfermer une disposition réservant au directeur le droit de retirer l’enfant de la résidence de la personne qui fournit les services d’accueil lorsque, de l’avis du directeur, le bien‑être de l’enfant l’exige.
+Lorsqu’un enfant est placé dans un foyer nourricier, c’est le ministre qui conserve en dernier ressort le contrôle et c’est lui qui est responsable du bien‑être de cet enfant. Les parents nourriciers fournissent simplement un « service résidentiel ». L’enfant placé dans un foyer nourricier peut être retiré de la résidence de ses parents nourriciers si le directeur l’estime nécessaire, sans qu’une ordonnance judiciaire doive être rendue. Par conséquent, l’enfant qui est placé dans un foyer nourricier continue à être confié aux soins du ministre, comme le montre le titre de la partie VI : [traduction] « Enfants confiés aux soins du ministre ».
+[17] Les paragraphes 6(1) et (4) de la Loi sur le droit de l’enfance prévoient ce qui suit :
+6(1) Malgré les articles 3 à 5, sur requête du père ou de la mère ou de quiconque ayant, de l’avis du tribunal, un intérêt suffisant, le tribunal peut, par ordonnance :
+a) prévoir la garde d’un enfant par une ou plusieurs personnes ou l’accès auprès de lui;
+b) déterminer tout aspect des droits accessoires au droit de garde ou d’accès;
+c) rendre toute autre ordonnance jugée nécessaire et utile dans les circonstances.
+[...]
+6(4) Saisi d’une requête, le tribunal peut modifier ou annuler une ordonnance rendue en vertu du présent article si un changement important de situation est survenu depuis la date de l’ordonnance.
+Les expressions et mots suivants sont définis pour l’application de cette loi :
+« garde » Tutelle à la personne d’un enfant; sont assimilés à la garde, la charge, l’éducation et tous autres droits accessoires à la garde, compte tenu de l’âge et de la maturité de l’enfant. ("custody")
+« gardien légitime » Personne ayant la garde légitime d’un enfant. ("legal custodian")
+« tribunal » La Division de la famille de la Cour du Banc de la Reine ou un de ses juges siégeant en cabinet. ("court")
+[18] Il est clair que l’appelante et son mari, les père et mère naturels et la Régie ont tous la garde conjointe de Tara. C’est ce que prévoit expressément le premier paragraphe de l’ordonnance rendue sur consentement. Je suis d’accord avec l’appelante pour dire qu’une fois qu’elle s’est vu accorder la garde partagée de Tara, elle ne pouvait plus être son parent nourricier. En sa qualité de parent assurant la garde, l’appelante n’était plus une [traduction] « personne autorisée par le directeur à fournir des services d’accueil »[13] et, par conséquent, elle n’est pas visée par la définition de l’expression [traduction] « parent nourricier » conformément au paragraphe 2(1) du Child and Family Services Regulations. L’appelante n’agit pas simplement pour le compte du ministre, et le ministre ne peut pas lui donner son congé. Les dispositions de l’ordonnance rendue sur consentement peuvent uniquement être modifiées par le tribunal, qui a compétence en matière de garde.
+[19] Étant donné que Tara ne réside pas chez des parents nourriciers, dans un foyer de placement familial ou dans un établissement spécialisé, il s’ensuit qu’elle n’était pas un enfant pour qui une allocation spéciale était payable en vertu du paragraphe 3(1) de la LASE au cours des années visées par l’appel. Puisqu’il s’agit de l’unique fondement de la décision du ministre de refuser à l’appelante la PFCE en vertu de l’article 122.61 de la Loi, les appels doivent être accueillis.
+[20] Les appels sont accueillis. Les nouvelles déterminations sont renvoyées au ministre pour nouvel examen et nouvelle détermination compte tenu du fait qu’au cours des années de base 2004 et 2005, Tara était une personne à charge admissible de l’appelante.
+Signé à Ottawa, Canada, ce 26e jour de septembre 2008.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 19e jour de novembre 2008.
+S. Tasset
+RÉFÉRENCE : 2008 CCI 544
+No DU DOSSIER DE LA COUR : 2007-4329(IT)I
+INTITULÉ : MARILYN JAHNKE
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 23 juin 2008
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 26 septembre 2008
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Cara L. Haaf
+Avocat de l’intimée :
+Me Lyle Bouvier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Cara L. Haaf
+Cabinet : Scharfstein, Gibbing, Walen et Thrasher
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985 (5e suppl.), ch. 1, dans sa forme modifiée.
+[2] L.C. 1992, ch. 48.
+[3] [2002] 4 C.T.C. 2633; confirmée par [2004] 5 C.T.C. 98 (C.A.F.).
+[4] Ibid, paragraphe 26.
+[5] [1925] R.C.S. 45.
+[6] [1948] R.C.S. 486.
+[7] L.R.C. 1985, ch. T-2.
+[8] DORS/93-12.
+[9] S.S. 1989-90, ch. C-7.2.
+[10] L.S. 1997, ch. C-8.2.
+[11] L.P. v. S.P., (2006) 287 Sask. R. 228; 2006 SKQB 478; paragraphe 23.
+[12] R.R.S. 2000, ch. C-7.2, Règl. 1.
+[13] Règlement, paragraphe 2(1).

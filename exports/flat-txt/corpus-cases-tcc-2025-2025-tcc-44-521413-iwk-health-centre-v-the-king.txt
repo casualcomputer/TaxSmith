@@ -1,0 +1,363 @@
+Title: IWK Health Centre v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521413/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-44-521413-iwk-health-centre-v-the-king.md
+Document type: case_law
+Last modified: 2025-03-17
+
+# IWK Health Centre v. The King
+
+- Citation: 2025 TCC 44
+- Decision date: 2025-03-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6068, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+IWK Health Centre v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-03-17
+Neutral citation
+2025 TCC 44
+File numbers
+2017-5053(GST)G, 2017-5056(GST)G, 2017-5057(GST)G, 2017-5059(GST)G, 2017-5060(GST)G, 2017-5061(GST)G, 2017-5063(GST)G
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-5053(GST)G
+BETWEEN:
+IWK HEALTH CENTRE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on February 6, 2024, at Halifax, Nova Scotia
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Scott Joly
+Counsel for the Respondent:
+Stan McDonald
+Sam Perlmutter
+JUDGMENT
+In accordance with my Reasons for Judgment:
+1.The appeal from the assessment made under Part IX of the Excise Tax Act with respect to the Public Service Body Rebate for the period from January 1 to 31, 2011 is dismissed, with costs.
+2.The parties shall have until June 27, 2025 to reach an agreement as to costs, failing which the respondent shall file written submissions by July 31, 2025 and the appellants shall file a written response by August 29, 2025. Any such submissions shall not exceed ten pages in length.
+3.If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then one set of costs shall be awarded to the respondent in accordance with Tariff B.
+Signed this 17th day of March 2025.
+“Susan Wong”
+Wong J.
+Docket: 2017-5056(GST)G
+BETWEEN:
+NOVA SCOTIA HEALTH AUTHORITY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on February 6, 2024, at Halifax, Nova Scotia
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Scott Joly
+Counsel for the Respondent:
+Stan McDonald
+Sam Perlmutter
+JUDGMENT
+In accordance with my Reasons for Judgment:
+1.The appeal from the assessment made under Part IX of the Excise Tax Act with respect to the Public Service Body Rebate for the period from January 1 to 31, 2011 is dismissed, with costs.
+2.The parties shall have until June 27, 2025 to reach an agreement as to costs, failing which the respondent shall file written submissions by July 31, 2025 and the appellants shall file a written response by August 29, 2025. Any such submissions shall not exceed ten pages in length.
+3.If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then one set of costs shall be awarded to the respondent in accordance with Tariff B.
+Signed this 17th day of March 2025.
+“Susan Wong”
+Wong J.
+Docket: 2017-5057(GST)G
+BETWEEN:
+NOVA SCOTIA HEALTH AUTHORITY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on February 6, 2024, at Halifax, Nova Scotia
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Scott Joly
+Counsel for the Respondent:
+Stan McDonald
+Sam Perlmutter
+JUDGMENT
+In accordance with my Reasons for Judgment:
+The appeal from the assessment made under Part IX of the Excise Tax Act with respect to the Public Service Body Rebate for the period from January 1 to 31, 2011 is dismissed, with costs.
+The parties shall have until June 27, 2025 to reach an agreement as to costs, failing which the respondent shall file written submissions by July 31, 2025 and the appellants shall file a written response by August 29, 2025. Any such submissions shall not exceed ten pages in length.
+If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then one set of costs shall be awarded to the respondent in accordance with Tariff B.
+Signed this 17th day of March 2025.
+“Susan Wong”
+Wong J.
+Docket: 2017-5059(GST)G
+BETWEEN:
+NOVA SCOTIA HEALTH AUTHORITY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on February 6, 2024, at Halifax, Nova Scotia
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Scott Joly
+Counsel for the Respondent:
+Stan McDonald
+Sam Perlmutter
+JUDGMENT
+In accordance with my Reasons for Judgment:
+The appeal from the assessment made under Part IX of the Excise Tax Act with respect to the Public Service Body Rebate for the period from December 1 to 31, 2010 is dismissed, with costs.
+The parties shall have until June 27, 2025 to reach an agreement as to costs, failing which the respondent shall file written submissions by July 31, 2025 and the appellants shall file a written response by August 29, 2025. Any such submissions shall not exceed ten pages in length.
+If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then one set of costs shall be awarded to the respondent in accordance with Tariff B.
+Signed this 17th day of March 2025.
+“Susan Wong”
+Wong J.
+Docket: 2017-5060(GST)G
+BETWEEN:
+NOVA SCOTIA HEALTH AUTHORITY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on February 6, 2024, at Halifax, Nova Scotia
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Scott Joly
+Counsel for the Respondent:
+Stan McDonald
+Sam Perlmutter
+JUDGMENT
+In accordance with my Reasons for Judgment:
+The appeal from the assessment made under Part IX of the Excise Tax Act with respect to the Public Service Body Rebate for the period from December 1 to 31, 2010 is dismissed, with costs.
+The parties shall have until June 27, 2025 to reach an agreement as to costs, failing which the respondent shall file written submissions by July 31, 2025 and the appellants shall file a written response by August 29, 2025. Any such submissions shall not exceed ten pages in length.
+If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then one set of costs shall be awarded to the respondent in accordance with Tariff B.
+Signed this 17th day of March 2025.
+“Susan Wong”
+Wong J.
+Docket: 2017-5061(GST)G
+BETWEEN:
+NOVA SCOTIA HEALTH AUTHORITY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on February 6, 2024, at Halifax, Nova Scotia
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Scott Joly
+Counsel for the Respondent:
+Stan McDonald
+Sam Perlmutter
+JUDGMENT
+In accordance with my Reasons for Judgment:
+The appeal from the assessment made under Part IX of the Excise Tax Act with respect to the Public Service Body Rebate for the period from December 1 to 31, 2010 is dismissed, with costs.
+The parties shall have until June 27, 2025 to reach an agreement as to costs, failing which the respondent shall file written submissions by July 31, 2025 and the appellants shall file a written response by August 29, 2025. Any such submissions shall not exceed ten pages in length.
+If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then one set of costs shall be awarded to the respondent in accordance with Tariff B.
+Signed this 17th day of March 2025.
+“Susan Wong”
+Wong J.
+Docket: 2017-5063(GST)G
+BETWEEN:
+NOVA SCOTIA HEALTH AUTHORITY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on February 6, 2024, at Halifax, Nova Scotia
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+Scott Joly
+Counsel for the Respondent:
+Stan McDonald
+Sam Perlmutter
+JUDGMENT
+In accordance with my Reasons for Judgment:
+The appeal from the assessment made under Part IX of the Excise Tax Act with respect to the Public Service Body Rebate for the period from December 1 to 31, 2010 is dismissed, with costs.
+The parties shall have until June 27, 2025 to reach an agreement as to costs, failing which the respondent shall file written submissions by July 31, 2025 and the appellants shall file a written response by August 29, 2025. Any such submissions shall not exceed ten pages in length.
+If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then one set of costs shall be awarded to the respondent in accordance with Tariff B.
+Signed this 17th day of March 2025.
+“Susan Wong”
+Wong J.
+Citation: 2025TCC44
+Date: 20250317
+Docket: 2017-5056(GST)G
+2017-5057(GST)G
+2017-5059(GST)G
+2017-5060(GST)G
+2017-5061(GST)G
+2017-5063(GST)G
+BETWEEN:
+NOVA SCOTIA HEALTH AUTHORITY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2017-5053(GST)G
+AND BETWEEN:
+IWK HEALTH CENTRE,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+Introduction/Overview
+[1] The appellants provided their employees with access to a health plan that reimbursed them for (among other things) acupuncture, massage therapy, naturopathy, and homeopathy services. These services attracted GST/HST and the employees were reimbursed for the tax under the plan.
+[2] The appellants say that their reimbursement of the GST/HST to their employees opens the door to considering that the appellants were deemed to be the direct purchaser of these services and thus, qualified to receive a rebate of the tax paid.
+Issues
+[3] The issue in these seven related appeals is whether the Minister of National Revenue properly disallowed the public service body rebate.
+[4] Specifically, the question is whether certain amounts paid on behalf of (or reimbursed to) the appellants’ employees under an employer-funded health plan were for taxable supplies acquired by the employees in relation to activities engaged in by the appellants as employer.
+Legislative framework
+[5] Subsection 259(3) of the Excise Tax Act provides for the payment of a rebate to selected public service bodies (among others). A hospital authority is a “selected public service body”.[1]
+[6] The amount of the rebate is calculated based on the “non-creditable tax charged”.[2] Simply put, non-creditable tax charged is GST/HST paid by a public service body but which it cannot recover by way of input tax credits, other rebates, refunds, remission, or other means. For the purposes of these appeals, the relevant parts of the definition are as follows:
+259. [Public service body rebate] -- (1) Definitions – In this section,
+…
+“non-creditable tax charged”, in respect of property or a service for a claim period of a person, means the amount, if any, by which
+(a) the total (in this section referred to as “the total tax charged in respect of the property or service”) of all amounts each of which is
+…
+(iv) tax deemed under section 175 or 180 to have been paid during the period by the person in respect of the property or service, …
+…
+exceeds
+(b) the total of all amounts each of which is included in the total determined under paragraph (a) and
+(i) is included in determining an input tax credit of the person…
+(ii) for which it can reasonably be regarded the person has obtained or is entitled to obtain a rebate, refund or remission under any other section of this Act or under any other Act…
+(iii) is included in an amount adjusted, refunded or credited to or in favour of the person…
+[emphasis added]
+[7] The exact wording of subsection 175(1) is important and reads in part as follows:
+175. (1) Employee, partner or volunteer reimbursement – Where an employee of an employer, a member of a partnership or a volunteer who gives services to a charity or public institution acquires or imports property or a service or brings it into a participating province for consumption or use in relation to activities of the employer, partnership, charity or public institution (each of which is referred to in this subsection as the “person”), the employee, member or volunteer paid the tax payable in respect of that acquisition, importation or bringing in and the person pays an amount to the employee, member or volunteer as a reimbursement in respect of the property or service, for the purposes of this Part,
+(a) the person is deemed to have received a supply of the property or service;
+(b) any consumption or use of the property or service by the employee, member or volunteer in relation to activities of the person is deemed to be consumption or use by the person and not by the employee, member or volunteer; and
+(c) the person is deemed to have paid, at the time the reimbursement is paid, tax in respect of the supply…
+[emphasis added]
+[8] In other words and for the purposes of this appeal, subsection 175(1) says that where an employer reimburses their employee for the purchase of a taxable supply of property or a service to be consumed or used in relation to the employer’s activities, the employer is deemed to have directly: (a) received the supply, (b) used/consumed the supply, and (c) paid tax for the supply. The deemed amount would then be non-creditable tax charged, which would in turn provide a basis for calculating the public service body rebate.
+Factual background
+(a) The pre-amalgamation health authorities and periods in issue
+[9] In 2015, nine district health authorities in Nova Scotia amalgamated to become the appellant Nova Scotia Health Authority. The appellant IWK Health Centre continues to be a separate entity. The rebate was claimed by six of the district health authorities plus IWK in their GST/HST returns filed in either 2010 or 2011, for amounts reimbursed between January 2007 and August 2010.
+[10] When the Minister assessed to disallow the rebate in 2016, the amalgamation had taken place resulting in six appeals under the name Nova Scotia Health Authority plus the one by IWK. Before amalgamation, the six district health authorities were: (1) South Shore District Health Authority, (2) Guysborough Antigonish-Strait Health Authority, (3) Annapolis Valley District Health Authority, (4) Cumberland Health Authority, (5) South West Nova District Health Authority, and (6) Cape Breton District Health Authority.
+[11] The disallowed rebate broken down by district health authority is as follows:
+District Health Authority
+Disallowed Rebate
+South Shore District Health Authority
+$31,774.00
+Guysborough Antigonish-Strait Health Authority
+$33,778.00
+Annapolis Valley District Health Authority
+$70,263.00
+Cumberland Health Authority
+$22,812.00
+South West Nova District Health Authority
+$51,194.00
+Cape Breton District Health Authority
+$80,151.00
+IWK Health Centre
+$150,548.00
+(b) The role of the Nova Scotia Association of Health Organizations
+[12] The Nova Scotia Association of Health Organizations is also known as Health Association Nova Scotia. Its chief controller Marlene Kemp explained that the Association is the not-for-profit third-party provider of health benefits to its members. The appellants (and the predecessor district health authorities) are members of the Association, which in turn provides health benefits to the appellants’ employees through administered plans. She testified that about 40,000 Nova Scotia health care workers are covered under these plans.
+[13] Ms. Kemp explained that the Association provides health and dental benefits in addition to a pension plan and various types of insurance coverage such as travel, life, and disability. When employers choose to participate in the Association’s plans, the Association pools both its members and their premiums to become a single, larger public-facing entity rather than one consisting of multiple individual smaller entities. She testified that by doing so, the Association could access better rates from insurers.
+[14] She stated that unlike insurance, health and dental benefits are self-insured plans in that the risk remains with the Association and is not borne by the insurer. She explained that with respect to health and dental benefits, the Association engaged an insurer to use its expertise to administer the plan but nothing more.
+[15] During the period under appeal, the Association was engaged in an “Administrative Services Only” (“ASO”) contract with Medavie Inc., which operates under the trade name Medavie Blue Cross.[3] Including amendments, it appears that this arrangement has been in place since at least 1991. The version of the contract entered into evidence was dated November 1, 2005 and renewable annually.[4]
+[16] Under the ASO contract, the Association is defined as the Plan Sponsor while Medavie is the Administrator, and Medavie is to provide services under three umbrella categories: (a) administrative services, (b) claims services, and (c) actuarial services. For these services, Medavie received a fee from the Association under the ASO contract.[5]
+[17] The ASO contract shows that administrative services include such tasks as assisting with plan design, preparing employee booklets, and maintaining employee claim records. Claims services consist of such tasks as analyzing claims to determine eligibility and issuing cheques in payment of claims. Actuarial services consist of such tasks as providing underwriting advice about plan design and operation, advising of outstanding liabilities, preparing an annual financial report, and making recommendations regarding contributions to keep the plan financially sound.[6]
+[18] On the other hand, the Association as Plan Sponsor agreed to the following (among other things):
+to provide Medavie as Administrator with sufficient funds in advance on a monthly basis to cover claims payments and other expenses;[7] and
+to indemnify Medavie as Administrator with respect to the performance of the ASO contract.[8]
+[19] Claims payments would be paid from a Medavie Blue Cross bank account and the reimbursement cheques would show Medavie Blue Cross as issuer.[9] The Association and Medavie also agreed that using Medavie Blue Cross cheques would not constitute liability on the part of Medavie as Administrator.[10] The Association also retained ultimate authority to determine the amount payable for any specific claim.[11]
+[20] Ms. Kemp testified that in practical terms, the Association collected the necessary premiums from its members and gave the funds to Medavie, who in turn used the money to pay employees’ claims. She explained that the Association maintained a list of its members’ respective premium contributions, the amount of which would depend on the number of employees, i.e. the more employees, the larger the premium. The premiums themselves were then pooled and deposited by Medavie into one bank account.
+[21] The pooled contributions were treated by the Association and Medavie as a single fund from which employees’ claims were paid. Ms. Kemp testified that if a member’s employee claims exceeded that member’s premium contribution, those claims were nonetheless paid out of the pooled fund and the member was not required to reimburse the difference. She stated that if the amount of premiums was insufficient to cover claims, it was the Association’s problem and not Medavie’s; Medavie in turn provided the Association with high-level reporting of the claims totals by member.
+[22] Every member who wishes to join the Association’s plan must sign a participation agreement. To that end, each of the six district health authorities and IWK entered into participation agreements dated April 26, 2007.[12]
+[23] Ms. Kemp testified that the participation agreements are identical as to their terms and each member pays the same rate. Among other things, the agreement permits each member to choose specific benefits;[13] Ms. Kemp stated that the appellants chose the entire suite of benefits offered. The agreement also requires the member to consent to be bound by contracts which the Association might enter into in furtherance of the plan;[14] she stated that the ASO contract would be an example. In addition, the agreement specifies who the “insurer” is for its various self-insured plans including the health plan, and the Association reserves the right to replace the insurer at the Association’s discretion.[15]
+(c) The subject services
+[24] Under the Association’s health plan, members’ employees could be reimbursed for the following services, all of which are subject to GST/HST: (1) acupuncture, (2) massage therapy, (3) naturopathy, and (4) homeopathy (the “Services”). Ms. Kemp explained that employees could choose between single versus family coverage with respect to the health plan.
+[25] When Medavie reimbursed an employee for a claim with respect to any of the Services, the GST/HST paid by the employee was included in the reimbursement. These reimbursements of tax are the subject of the rebate under appeal.
+Analysis and discussion
+[26] In order for the appellants to qualify for the public service body rebate of the GST/HST component of the claim reimbursements to employees for their purchase of the Services, the Services must be consumed or used in relation to the appellants’ activities as employer. If so, then subsection 175(1) will deem the appellants to have both directly received/used/consumed the supplies and paid the GST/HST, which would in turn be non-creditable tax charged and used to calculate the rebate.
+[27] The Federal Court of Appeal addressed this issue definitively in Westcoast Energy Inc.[16], the only notable difference being that in Westcoast Energy, the appellant sought to use the deeming effect of subsection 175(1) as a basis for claiming input tax credits rather than the public service body rebate.[17] The health benefits in question were the same as here (acupuncture, massage therapy, naturopathy, and homeopathy) and employees were reimbursed for these services under a self-funded health plan.[18]
+[28] Importantly, the Federal Court of Appeal considered the applicability of its reasoning in ExxonMobil Canada Ltd.[19] with respect to section 174 to the question involving section 175 in Westcoast Energy, and said the following:
+[6] In ExxonMobil, this Court held (at para. 50), albeit under section 174 of the Act – not the relevant section here, section 175 – that “property or services which are intended by the employer for the exclusive personal use of the employees and which lend themselves to such a use bear no relationship with the employer’s activities”. If a property or service “bear[s] no relationship with the employer’s activities” it clearly cannot be “for consumption or use in relation to activities of the employer”. The import of this is that if ExxonMobil applies to section 175 and an employer reimburses for a service or property that is for the exclusive personal use of employees, the employer will not enjoy the deeming effect of subsection 175(1) as discussed in paragraph 3 above.
+[7] As a legal matter, the Tax Court found (at paras. 33-44) that ExxonMobil, decided in the context of section 174, applied equally to section 175. It relied upon the similarity of the wording and, to some extent, the roles of sections 174 and 175. The Supreme Court has emphasized that in the interpretation of taxation provisions, the text can predominate: Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54, [2005] 2 S.C.R. 601. We agree with the Tax Court’s legal finding and the analysis in support of it.
+[29] In applying ExxonMobil to the situation in Westcoast Energy, this Court found there to be a two-prong test described as follows:[20]
+property or services intended by the employer for the exclusive personal use of its employees, and which lend themselves to such use, bear no relationship with the employer’s activities; and
+property or services which can be used by employees in the course of their employment activities, and which are intended for such use, are in relation to the employer’s activities.
+[30] Here, the Services are of a particularly personal and individual nature, designed to be consumed by the person purchasing the supply. The appellants’ assertion that the Services were a fulfillment of their contractual obligations to their employees and provision of such benefits improves employee recruitment, retention, and morale are very likely accurate; however, it not a sufficient nexus or connection between the Services and the employer’s activities to displace the highly personal nature of these supplies.[21] Therefore, I am of the view that the appellants intended for the Services to be for the exclusive personal use of their employees.[22]
+[31] Approaching the question from the perspective of the second prong of the ExxonMobil test, it is difficult to reasonably conclude that the Services were used by the appellants’ employees in the course of their employment activities, as I would expect them to access these types of services on their personal time. As noted by this Court in Westcoast Energy, the connection between the use of the Services and the employee’s employment activities is even more tenuous when the employee’s family member receives the supply.[23] In these circumstances, it cannot be concluded that the Services are for consumption or use in relation to the appellants’ activities.
+[32] Evidence of Parliamentary intent should be clear. The appellants assert that Parliament intended that the present situation falls within the deeming effect of subsection 175(1) and thus qualifies them for the rebate. In making this assertion, they presented a complicated and somewhat convoluted tracking of certain unrelated provisions in the Excise Tax Act, in an effort to tie purpose and Parliamentary intent back to subsection 175(1). I am of the view that it falls below the threshold of evidence of Parliamentary intent.
+[33] The Minister of Finance’s Technical Notes (July 1997) with respect to section 175 read in part as follows:
+Section 175 applies where a person who is an employer, partnership, charity or public institution reimburses an employee, partner or volunteer for expenses incurred in relation to the person’s activities. The purpose of the provision is to enable the person to claim an input tax credit or rebate in respect of the reimbursed expense to the same extent as would have been the case had the person incurred the expense directly. The provision is amended to achieve this more directly by deeming the person to have received a supply of the property or service and by deeming the use of the property or service by the employee, partner or volunteer to be that of the employer, partnership, charity or public institution.
+[34] It is the clearest statement of Parliamentary intent and does not invite the interpretation that the appellants assert.
+Conclusion
+[35] The appeals are dismissed, with costs.
+[36] The parties shall have until June 27, 2025 to reach an agreement as to costs, failing which the respondent shall file written submissions by July 31, 2025 and the appellants shall file a written response by August 29, 2025. Any such submissions shall not exceed ten pages in length.
+[37] If the parties do not advise the Court that they have reached an agreement and no submissions are received by these dates, then one set of costs shall be awarded to the respondent in accordance with Tariff B.
+Signed this 17th day of March 2025.
+“Susan Wong”
+Wong J.
+CITATION:
+2025 TCC 44
+COURT FILE NOs.:
+2017-5053(GST)G
+2017-5056(GST)G
+2017-5057(GST)G
+2017-5059(GST)G
+2017-5060(GST)G
+2017-5061(GST)G
+2017-5063(GST)G
+STYLE OF CAUSE:
+Nova Scotia Health Authority et al. v. His Majesty The King
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+February 6, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+March 17, 2025
+APPEARANCES:
+Counsel for the Appellants:
+Scott Joly
+Counsel for the Respondent:
+Stan McDonald
+Sam Perlmutter
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Scott Joly
+Firm:
+EY Law LLP Calgary, Alberta
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Subsection 259(1), definition of “selected public service body”
+[2] Subsection 259(1), definition of “non-creditable tax charged”
+[3] Exhibit AR-1, Tab 1
+[4] Exhibit AR-1, Tab 1, section 1.1
+[5] Exhibit AR-1, Tab 1, sections 1.5 and Appendix B
+[6] Exhibit AR-1, Tab 1, sections 1.7, 1.8, and Appendix A
+[7] Exhibit AR-1, Tab 1, sections 1.4, 3.2, and 3.3
+[8] Exhibit AR-1, Tab 1, section 1.6
+[9] Exhibit AR-1, Tab 1, section 3.1
+[10] Exhibit AR-1, Tab 1, section 1.9
+[11] Exhibit AR-1, Tab 1, section 1.10
+[12] Exhibit AR-1, Tabs 2 to 8
+[13] Exhibit AR-1, Tabs 2 to 8, Article 2.01
+[14] Exhibit AR-1, Tabs 2 to 8, Article 4.02
+[15] Exhibit AR-1, Tabs 2 to 8, Article 3.06
+[16] Westcoast Energy Inc v. Canada, 2022 FCA 57 (CanLII), affirming 2020 TCC 116 (CanLII)
+[17] Westcoast Energy Inc v. Canada, 2022 FCA 57 (CanLII) at paragraph 1
+[18] Westcoast Energy Inc. v. The Queen, 2020 TCC 116 (CanLII) at paragraphs 4 and 11
+[19] ExxonMobil Canada Ltd v. Canada, 2010 FCA 1 (Can LII)
+[20] ExxonMobil Canada Ltd v. Canada, 2010 FCA 1 (Can LII) at paragraph 50; Westcoast Energy Inc. v. The Queen, 2020 TCC 116 (CanLII) at paragraph 65
+[21] ONEnergy v. Canada, 2018 FCA 54 (CanLII) at paragraph 23; General Motors of Canada Ltd v. Canada, 2009 FCA 114 (CanLII) at paragraph 44; President’s Choice Bank v. The Queen, 2022 TCC 84 at paragraph 30
+[22] Westcoast Energy Inc. v. The Queen, 2020 TCC 116 (CanLII) at paragraph 62
+[23] Westcoast Energy Inc. v. The Queen, 2020 TCC 116 (CanLII) at paragraph 65

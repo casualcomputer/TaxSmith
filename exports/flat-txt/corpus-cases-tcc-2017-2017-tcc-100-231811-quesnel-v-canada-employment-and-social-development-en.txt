@@ -1,0 +1,133 @@
+Title: Quesnel v. Canada (Employment and Social Development)
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/231811/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-100-231811-quesnel-v-canada-employment-and-social-development-en.md
+Document type: case_law
+Last modified: 2017-06-01
+
+# Quesnel v. Canada (Employment and Social Development)
+
+- Citation: 2017 TCC 100
+- Decision date: 2017-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2140, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Quesnel v. Canada (Employment and Social Development)
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-06-01
+Neutral citation
+2017 TCC 100
+File numbers
+2015-5491(OAS)
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Old Age Security Act
+Decision Content
+Docket: 2015-5491(OAS)
+BETWEEN:
+LEON QUESNEL,
+Appellant,
+and
+THE MINISTER OF EMPLOYMENT AND SOCIAL DEVELOPMENT,
+Respondent.
+Appeal heard on May 4, 2017, at Moncton, New Brunswick
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Emmanuel Jilwan
+JUDGMENT
+The appeal made to this Court under subsection 28(2) of the Old Age Security Act is dismissed. The determinations made by the Minister of Employment and Social Development of the Appellant’s income for the purpose of determining his guaranteed income supplement for the payment periods of July 2012 to June 2013 and July 2013 to June 2014 were correctly made.
+Signed at Ottawa, Canada, this 1st day of June 2017.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2017 TCC 100
+Date: 20170601
+Docket: 2015-5491(OAS)
+BETWEEN:
+LEON QUESNEL,
+Appellant,
+and
+THE MINISTER OF EMPLOYMENT AND SOCIAL DEVELOPMENT,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction [1] The Appellant, Leon Quesnel, appealed to the Social Security Tribunal of Canada (“Social Security Tribunal”) regarding a decision in respect of his entitlement to the guaranteed income supplement (“GIS”). The periods at issue are July 2012 to June 2013 and July 2013 to June 2014 (the “Relevant Periods”).
+[2] The GIS is intended to provide assistance to old age security pension recipients with modest income. Income earned by applicants and their spouses reduces the amount of this monthly benefit.
+[3] Under subsection 28(2) of the Old Age Security Act (“OAS Act”), the Social Security Tribunal must refer to this Court questions of income and sources of income that are relevant to the calculation of the GIS for a payment period. Such reference was made in relation to Mr. Quesnel’s appeal.
+II. Factual Background [4] In determining the Appellant’s entitlement to the GIS for the Relevant Periods, the Minister of Employment and Social Development (the “Minister”) relied on the following assumptions of fact:
+a) The Appellant remarried on December 28, 2012.
+January to June 2013 payment period
+b) The Appellant reached the age of 65 in April 2011.
+c) The Appellant began receiving OAS pension and GIS benefits in May 2011, the month following his 65th birthday.
+d) The Appellant’s spouse passed away on August 17, 2011.
+e) Following this event, the Appellant was advised by letter dated August 24, 2011, that effective as of the payment period of September 2011, he was no longer qualified for the GIS since his income for 2010 was above the maximum income threshold for the September 2011 payment period for a single person of $16,176.00, as the Appellant’s income was $28,712.00.
+f) On August 7, 2012, the Appellant submitted a GIS application for the July 2012 to June 2013 payment period.
+g) On August 30, 2012, the Minister informed the Appellant of its decision to deny the request in light of the Appellant’s income for 2011 in the amount of $27,818.01, as it was above the maximum income threshold for the July 2012 payment period of $16,512.00.
+h) Following his retirement on October 27, 2011, the Appellant submitted a Statement of Estimated Income after Retirement or Reduction in Pension Income Year 2011 form, on August 7, 2012, also, in which he estimated income from CPP, Employment Insurance (EI) and a part-time job.
+i) By letter dated October 2, 2012, the Minister informed the Appellant that his estimated income for 2011, in the amount of $16,864.00 was above the maximum income threshold for 2011 of $16,320.00 to qualify for the GIS for the November 2011 to June 2012 payment period.
+j) On August 30, 2012, the Appellant submitted a Statement of Estimated Income after Retirement or Reduction in Pension Income Year 2012 form, stating that in addition to his retirement in October 2011, he also ceased to receive EI benefits on August 25, 2012. He estimated income from CPP, EI and a part-time seasonal job. The amount of employment income estimated was $1,770.00.
+k) By letter dated October 2, 2012, the Minister informed the Appellant that his estimated income for 2012 after his retirement and prior to his loss of EI benefits was $16,551.00 and that he did not qualify for the GIS for the July to August 2012 payment period.
+l) It was also determined that the Appellant’s estimated income for the period following his loss of EI benefits for 2012, was $6,861.00 for the September 2012 to June 2013 payment period and that he was therefore eligible for the GIS starting in September 2012.
+m) On May 27, 2013, the Appellant submitted a Statement of Estimated Income after Retirement or Reduction in Pension Income Year 2013 form.
+n) On June 13, 2013, the Canada Revenue Agency (CRA) informed the Minister of the Appellant’s 2012 income of $8,506.00 as employment income instead of the $1,770.00 originally estimated by the [Appellant] on his form.
+o) In light of the information provided by the CRA, the Appellant’s estimated income for 2012 had to be increased by $4,851.00 taking into account the earnings exemption of $3,500.00 and a deduction of EI premiums in the amount of $155.66 (pursuant to section 2 of the . . . OAS Act . . . definition of “income”), resulting in a revised estimated income of $21,402.00 for the July 2012 to August 2012 payment period and of $11,712.00 for the period of September 2012 to June 2013, for the purpose of his GIS entitlement.
+p) On July 29, 2013, the Appellant advised the Minister of his marriage to pensioner Marney Tower on December 28, 2012.
+q) Since the Appellant remarried in December 2012, his GIS entitlement for the period of January to June 2013 had to be recalculated on the basis of the combined income of both spouses at the married rate instead of a single income at the single rate.
+r) The combined income included the Appellant’s estimated income for 2012 of $11,712.00 plus his spouse’s income for 2011 of $28,814.00 for a total of $40,526.00.
+s) These two adjustments resulted in an overpayment of $3,237.68 for the period of September 2012 to June 2013.
+July 2013 to June 2014 payment period
+t) The Minister also reviewed the Appellant’s statement of estimated income for 2013 to determine his GIS entitlement for the payment period of July 2013 to June 2014. On this form, the Appellant estimated income from CPP and from employment.
+u) Since his estimated income for 2013 was higher ($29,661.48) than his 2012 base calendar year income ($21,818.00), the Minister used the lower 2012 income to determine his entitlement. However, his income combined to [sic] the estimated 2013 income of his spouse, in the amount of $10,110.00, totaled $31,928.00, more than the maximum income threshold of $22,032.00 for July. As a result, the Appellant was not entitled to GIS benefits for the payment period of July 2013 to June 2014.
+v) The Minister advised the Appellant of the adjustments to his GIS benefits for the period of July 2012 to June 2013 and the non-entitlement to benefits for the period of July 2013 to June 2014 in a letter dated January 2, 2014.
+[5] The Appellant did not dispute the Minister’s assumptions of fact.
+III. Issues to Be Decided [6] The issue in dispute is whether the Minister properly calculated the Appellant’s GIS for the payment periods of July 2012 to June 2013 and July 2013 to June 2014.
+IV. Analysis
+[7] Generally speaking, the GIS is calculated each year for a period of one year, from July of one year to June of the following year. This period of time is called the payment period. In the present case, the relevant payment periods are from July 2012 to June 2013 and from July 2013 to June 2014.
+[8] Generally speaking the GIS calculated for each payment period is based on the total income of the pensioner for the previous year, referred to as the income for the base calendar year.
+[9] For the payment period of July 2012 to June 2013, the base calendar year is 2011.
+[10] Section 2 of the OAS Act defines “income” for the purpose of determining entitlement to GIS benefits as a person’s income for the year computed in accordance with the Income Tax Act, with certain exceptions. When the pensioner has a spouse or a common-law partner that pensioner’s GIS is based on the total combined income of the couple.
+[11] When a pensioner becomes involved in a spousal relationship, the pensioner’s GIS is to be calculated as though that pensioner had a spouse in the month following the marriage. Subsection 12(6) of the OAS Act provides the formula for determining the “monthly base income” for the calculation of the GIS. In particular, paragraph (b) states that for married pensioners part A of the formula is the aggregate of the incomes of the applicant and the spouse for the base calendar year.
+[12] The Appellant remarried on December 28, 2012, and advised the Minister on July 29, 2013. Since he remarried during the July 2012 to June 2013 payment period, his GIS benefit entitlement had to be calculated on the basis of joint income effective January 2013, the month following his marriage as required under subsection 15(6.1) of the OAS Act.
+[13] Since no estimate of income could be submitted for the Appellant’s spouse for the period of January 2013 to June 2013, the calculation of the Appellant’s GIS benefits for that period had to be based on his spouse’s income for the base calendar year, which was 2011.
+[14] Since the Appellant’s spouse ceased her employment in June 2013, the Appellant’s GIS eligibility for the payment period of July 2013 to June 2014 could be based on his spouse’s estimated income for 2013 instead of her income from the base calendar year: 2012.
+[15] Section 14 of the OAS Act allows the Minister to use a different method of computing a pensioner’s income when that pensioner ceases to hold an office or employment, ceases to carry on a business or suffers the loss or reduction of any pension income during a payment period. When such an event occurs, the Minister is required to base the computation of the pensioner’s income on an estimate of that pensioner’s pension income, income from an office or employment, or business income following the event, to which is added the income from the base calendar year from all other sources. This alternate method of computing income for GIS purposes is commonly referred to as the Option. Section 14 of the OAS Act allows the Minister to also use the Option method to compute the income of a pensioner for the second payment period after the event occurred.
+[16] Since the Minister’s assumptions of fact are accepted by the Appellant, including the assumption regarding the amount of his combined income, the Minister’s determination of the Appellant’s combined income for the payment periods of July 2012 to June 2013 and July 2013 to June 2014 is correct. For these reasons the Appellant’s appeal is dismissed.
+Signed at Ottawa, Canada, this 1st day of June 2017.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2017 TCC 100
+COURT FILE NO.:
+2015-5491(OAS)
+STYLE OF CAUSE:
+LEON QUESNEL v. M.E.S.D.
+PLACE OF HEARING:
+Moncton, New Brunswick
+DATE OF HEARING:
+May 4, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+June 1, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Emmanuel Jilwan
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

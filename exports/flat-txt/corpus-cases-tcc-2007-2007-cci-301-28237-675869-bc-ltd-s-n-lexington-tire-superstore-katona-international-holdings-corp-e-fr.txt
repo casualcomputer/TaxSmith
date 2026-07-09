@@ -1,0 +1,209 @@
+Title: 675869 BC LTD. s/n Lexington Tire Superstore, Katona International Holdings Corp. et Alpi’s Trading Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28237/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-301-28237-675869-bc-ltd-s-n-lexington-tire-superstore-katona-international-holdings-corp-e-fr.md
+Document type: case_law
+Last modified: 2007-05-18
+
+# 675869 BC LTD. s/n Lexington Tire Superstore, Katona International Holdings Corp. et Alpi’s Trading Inc. c. M.R.N.
+
+- Citation: 2007 CCI 301
+- Decision date: 2007-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2084, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+675869 BC LTD. s/n Lexington Tire Superstore, Katona International Holdings Corp. et Alpi’s Trading Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-18
+Référence neutre
+2007 CCI 301
+Numéro de dossier
+2006-399(EI)
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2006-399(EI)
+2006-400(CPP)
+ENTRE :
+675869 BC LTD. sous le nom de LEXINGTON TIRE SUPERSTORE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de Katona International Holdings Corp., 2006-401(EI) et 2006-402(CPP) et d’Alpi’s Trading Inc., 2006-654(EI) et 2006-656(CPP)
+les 18 et 19 septembre 2006, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge M.A. Mogan
+Comparutions :
+Représentant de l’appelante :
+M. Karl Flunkert
+Avocat de l’intimé :
+Me John Gibb-Carsley
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés conformément au paragraphe 103(1) de la Loi sur l’assurance‑emploi et à l’article 28 du Régime de pensions du Canada sont accueillis et les décisions rendues par le ministre du Revenu national à la suite de la demande qui lui avait été faite en vertu de l’article 92 de la Loi et de la demande qui lui avait été faite en vertu de l’article 27.1 du Régime sont modifiées compte tenu du fait qu’Al Nahal n’exerçait pas auprès de l’appelante un emploi assurable ou un emploi ouvrant droit à pension au sens des alinéas 5(1)a) de la Loi et 6(1)a) du Régime.
+Signé à Ottawa, Canada, ce 18e jour de mai 2007.
+« M.A. Mogan »
+M.A. Mogan, juge suppléant
+Traduction certifiée conforme
+ce 29 jour de février 2008.
+D. Laberge, LL.L.
+Dossiers : 2006-401(EI)
+2006-402(CPP)
+ENTRE :
+KATONA INTERNATIONAL HOLDINGS CORP.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de 675869 BC Ltd. s/n Lexington Tire Superstore, 2006-399(EI) et 2006-400(CPP) et d’Alpi’s Trading Inc, 2006-654(EI) et 2006-656(CPP)
+les 18 et 19 septembre 2006, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge M.A. Mogan
+Comparutions :
+Représentant de l’appelante :
+M. Karl Flunkert
+Avocat de l’intimé :
+Me John Gibb-Carsley
+JUGEMENT
+Les appels interjetés conformément au paragraphe 103(1) de la Loi sur l’assurance‑emploi et à l’article 28 du Régime de pensions du Canada sont accueillis et les décisions rendues par le ministre du Revenu national à la suite de la demande qui lui avait été faite en vertu de l’article 92 de la Loi et de la demande qui lui avait été faite en vertu de l’article 27.1 du Régime sont modifiées compte tenu du fait que Julian Manzur et Mike Roth n’exerçaient pas auprès de l’appelante un emploi assurable ou un emploi ouvrant droit à pension au sens des alinéas 5(1)a) de la Loi et 6(1)a) du Régime.
+Signé à Ottawa, Canada, ce 18e jour de mai 2007.
+« M.A. Mogan »
+M.A. Mogan, juge suppléant
+Traduction certifiée conforme
+ce 29 jour de février 2008.
+D. Laberge, LL.L.
+Dossiers : 2006-654(EI)
+2006-656(CPP)
+ENTRE :
+ALPI’S TRADING INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de 675869 BC Ltd., s/n Lexington Tire Superstore, 2006-399(EI) et 2006-400(CPP) et de Katona International Holdings Corp., 2006-401(EI) et 2006-402(CPP)
+les 18 et 19 septembre 2006, à Vancouver (Colombie-Britannique).
+Devant : L’honorable juge M.A. Mogan
+Comparutions :
+Représentant de l’appelante :
+M. Karl Flunkert
+Avocat de l’intimé :
+Me John Gibb-Carsley
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés conformément au paragraphe 103(1) de la Loi sur l’assurance‑emploi et à l’article 28 du Régime de pensions du Canada sont accueillis et les décisions rendues par le ministre du Revenu national à la suite de la demande qui lui avait été faite en vertu de l’article 92 de la Loi et de la demande qui lui avait été faite en vertu de l’article 27.1 du Régime sont modifiées compte tenu du fait que Christine Holten et Peter Vitai n’exerçaient pas auprès de l’appelante un emploi assurable ou un emploi ouvrant droit à pension au sens des alinéas 5(1)a) de la Loi et 6(1)a) du Régime.
+Signé à Ottawa, Canada, ce 18e jour de mai 2007.
+« M.A. Mogan »
+M.A. Mogan, juge suppléant
+Traduction certifiée conforme
+ce 29 jour de février 2008.
+D. Laberge, LL.L.
+Référence : 2007CCI301
+Date : 20070518
+Dossiers : 2006-399(EI), 2006-400(CPP)
+2006-401(EI), 2006-402(CPP)
+2006-654(EI), 2006-656(CPP)
+ENTRE :
+675869 BC LTD. s/n LEXINGTON TIRE SUPERSTORE,
+KATONA INTERNATIONAL HOLDINGS CORP.
+et ALPI’S TRADING INC.,
+appelantes,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Mogan
+[1] Les six appels ici en cause, interjetés en vertu de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada, ont été entendus à Vancouver (Colombie‑Britannique), l’audience ayant commencé le lundi 18 septembre 2006. Lorsque les causes ont été appelées, les parties ont convenu de faire entendre les six appels sur preuve commune. Les appels concernent environ 90 personnes désignées dans les actes de procédure. Il s’agit fondamentalement de savoir si, pendant certaines périodes, en 2003, en 2004 et en 2005, ces 90 personnes étaient des employés de l’une des sociétés appelantes ou si elles étaient des entrepreneurs indépendants. Les appelantes affirment que, pendant toutes les périodes pertinentes, les personnes en question étaient des entrepreneurs indépendants. L’intimé a établi des évaluations au titre des cotisations à l’assurance‑emploi et au Régime de pensions du Canada en se fondant sur l’hypothèse selon laquelle les personnes en cause étaient des employés.
+[2] Les divers avis d’appel comportent un minimum de détails; il y est déclaré que les cotisations à l’assurance‑emploi et au Régime de pensions du Canada n’ont pas été versées parce que les sociétés appelantes n’avaient pas d’employés à leur service. Tous les avis d’appel ont été envoyés depuis la même adresse et ils étaient tous signés par Abdul Karim pour le compte des différentes appelantes. Les réponses aux divers avis d’appel sont longues et détaillées; elles renferment de nombreux faits constituant des hypothèses faites par le ministre du Revenu national lorsqu’il a établi les évaluations visées par les présents appels. Il ressort clairement des actes de procédure et des dépositions des propres témoins des appelantes que les trois sociétés appelantes entretiennent d’étroites relations.
+[3] Alpar Katona a été la première personne à témoigner pour les appelantes. M. Katona est le principal actionnaire des cinq sociétés suivantes, parfois appelées les « sociétés liées » :
+- 675869 BC Ltd. (appelante)
+- Katona International Holdings Corp. (appelante)
+- Alpi’s Trading Inc. (appelante)
+- Katona Tires Inc.
+- Rid of Rubber Transport Inc.
+M. Katona est arrivé au Canada, en provenance d’Europe, en 1988; il a créé certaines des sociétés liées, qui s’occupaient du commerce de pneus et de pièces d’automobile. En 2001, il a commencé à remettre à neuf des pneus sous le nom d’Alpi’s Trading Inc. Lorsque l’entreprise a pris de l’essor, Katona Tires Inc. a obtenu un prêt garanti par le gouvernement.
+[4] M. Katona avait comme politique d’éviter le plus possible d’avoir recours à des employés. Comme solution de rechange, on a demandé à presque tous les travailleurs nécessaires dans le cadre des activités des sociétés liées de signer un formulaire d’entente les désignant comme étant des [traduction] « entrepreneurs indépendants ». La pièce A‑1 renferme un groupe d’environ 45 ententes signées par 45 travailleurs différents; dans chaque entente, le payeur est l’une des sociétés liées. Les 45 ententes produites sous la cote A‑1 ne sont pas identiques quant à leur présentation, mais ce groupe d’ententes ne renferme que trois ou quatre formulaires types, ces formulaires se ressemblant tellement qu’ils peuvent être considérés comme identiques quant à leur substance.
+[5] À titre d’exemple d’une des ententes conclues avec les travailleurs qui ont été produites sous la cote A‑1, j’énoncerai les dispositions de l’entente conclue entre Katona Tires et Arif Roya le 8 avril 2005. Le document, constitué d’une page, est rédigé sur du papier à en‑tête de Katona Tires. Aux paragraphes 1 et 4, la date d’entrée en service et le montant de la rémunération sont inscrits à la main. Sinon, toutes les dispositions reproduites ci‑dessous figurent dans un formulaire type imprimé :
+[traduction]
+Monsieur Arif Roya,
+J’ai le plaisir de confirmer formellement votre nomination à titre d’entrepreneur indépendant privé de Katona Tires Inc. (la « société »). L’entente, en ce qui concerne les conditions du mandat et la nature des services à fournir, est la suivante :
+1. La nomination prendra effet le 8 avril 2005, l’entente continuant à s’appliquer jusqu’à ce que l’une ou l’autre des parties y mette fin sur préavis écrit de deux semaines.
+2. Vous accomplirez tout le travail et fournirez tous les services nécessaires aux fins de la réparation, de la fabrication et de la vente de produits automobiles. La société n’a établi aucune méthode et ne dispose d’aucun manuel d’exploitation s’appliquant directement à vous. Elle s’en remet à votre expertise et à votre jugement.
+3. Le travail à accomplir ou les services à fournir pourront de temps en temps être modifiés de gré à gré. Vous mettrez la société au courant de l’état des travaux. La société reconnaît ne pas avoir priorité lorsqu’il s’agit d’avoir recours à vos services et que vous pouvez travailler pour d’autres personnes et engager d’autres personnes pour vous aider à accomplir le travail et à fournir les services ici prévus, ces personnes étant assujetties à votre supervision et à votre contrôle. Vous déciderez des heures de travail qui vous conviennent et qui conviennent aux sous‑traitants que vous aurez engagés, et vous fournirez tous les outils et tout le matériel nécessaires.
+4. Vous toucherez comme rémunération huit dollars l’heure, cette rémunération étant payable sur présentation d’une facture détaillée. Vous assumerez seul les frais que vous aurez engagés : promotion, embauchage, congédiement, utilisation commerciale d’une automobile, achat de pièces, exploitation d’un bureau, papeterie, outils, machinerie ainsi que toute autre dépense, quelle qu’elle soit. Plus précisément, vous ne toucherez aucune rémunération minimale et vous assumerez tous les risques d’entreprise normaux et aurez droit aux bénéfices réalisés grâce à vos efforts.
+5. Vous exercerez un contrôle sur les modalités d’exécution de votre travail, et la relation que vous entretiendrez avec la société sera à tous les égards celle d’un simple particulier agissant à titre d’entrepreneur conformément aux droits fondamentaux de la personne qui vous sont reconnus. De plus, vous serez responsable des pertes, dépenses ou dommages que vos travailleurs ou vous‑même aurez causés.
+6. Vous vous engagez, pendant la durée de vos fonctions et par la suite, à ne pas communiquer de renseignements confidentiels à qui que ce soit, personne, entreprise ou société, au sujet de la société et de ses activités ou de ses entrepreneurs, administrateurs, dirigeants et employés.
+7. La présente lettre constitue toute l’entente.
+J’espère que ces conditions vous conviennent. Dans l’affirmative, veuillez nous faire part de votre approbation en signant une copie de la présente lettre et en nous la retournant. Nous joignons une copie additionnelle de la lettre pour référence.
+Veuillez agréer l’expression de mes meilleurs sentiments. Entente acceptée ce
+L’entente précitée a été signée par Alpar Katona pour le compte de Katona Tires, et Arif Royal l’a acceptée en y apposant sa signature.
+[6] Lors de la présentation de la preuve, le représentant des appelantes (M. Flunkert) a examiné avec M. Katona les listes de travailleurs accompagnant la réponse de l’intimé, et on a demandé à M. Katona d’indiquer les travailleurs qui avaient conclu un contrat avec l’une des sociétés liées. M. Katona a pu désigner un grand nombre de travailleurs qui avaient signé un formulaire type de contrat. Je suis convaincu, compte tenu du témoignage présenté par M. Katona, que celui‑ci croyait fermement que tout travailleur particulier qui signait un formulaire de contrat n’était pas un employé d’une des sociétés liées. La conviction de M. Katona, aussi sincère soit‑elle, est dénuée de fondement. J’ai conclu que les formulaires d’entente produits sous la cote A‑1 ont peu d’effet, ou n’ont aucun effet, lorsqu’il s’agit de considérer un travailleur particulier comme un entrepreneur indépendant.
+[7] À mon avis, le formulaire d’entente reproduit ci‑dessus au paragraphe 5 exprime l’attitude d’une personne qui embauche des travailleurs; il est libellé d’une façon paternaliste et malgré les termes précis employés dans la première phase, il tend à indiquer une relation d’employé plutôt qu’une relation d’entrepreneur indépendant. Ainsi, je note le ton impératif d’un certain nombre de clauses :
+Clause 2 : [traduction] « Vous accomplirez [...] »
+Clause 3 : [traduction] « Vous mettrez la société au courant [...] »
+« Vous déciderez [...] »
+Clause 4 : [traduction] « Vous assumerez seul [...] »
+« [...] vous ne toucherez aucune [...] »
+Clause 5 : [traduction] « Vous exercerez un contrôle sur [...]
+« [...] vous serez responsable [...] »
+Il ressort de toute évidence du formulaire imprimé que les conditions existant entre un travailleur et Katona Tires n’étaient pas négociables. Tout travailleur éventuel devait signer l’entente, à défaut de quoi il ne pouvait pas travailler chez Katona Tires.
+[8] Dans la clause 4 du formulaire type d’entente, un espace est laissé en blanc après le quatrième mot, le montant de la rémunération étant inscrit à la main. Sur les quelque 45 ententes produites sous la cote A‑1, environ 35 indiquent un taux de rémunération allant de sept à neuf dollars l’heure, la plupart indiquant un taux de huit dollars l’heure. Dans quatre ententes, le taux de rémunération varie de 14 à 17 dollars l’heure. Les autres ententes indiquent une somme forfaitaire par période de paie ou par mois. Quant à la rémunération d’environ huit dollars l’heure, les personnes rémunérées à l’heure (presque au salaire minimum) doivent habituellement être supervisées parce qu’elles ne sont pas rémunérées à la tâche. Le fait que ces personnes étaient supervisées laisse entendre l’existence d’un emploi. De plus, les personnes qui touchent un taux horaire relativement peu élevé n’ont pas les moyens de payer les dépenses se rattachant à leur travail. En règle générale, un faible de taux de rémunération ne doit comporter aucun risque.
+[9] M. Katona a déclaré que l’entreprise s’occupait principalement de la remise à neuf de pneus. Les activités étaient exercées à trois endroits, dans la région de Vancouver : près du Fraser Highway (10 000 pieds carrés), près de Scott Road (1 800 pieds carrés), et à Richmond (1 400 pieds carrés). Il y avait des techniciens, des classeurs et des vérificateurs de pneus. Certains travailleurs devaient porter des uniformes. M. Katona a déclaré que certaines personnes engagées à forfait enregistraient leurs propres heures, alors que d’autres étaient rémunérées à la pièce. Les sociétés liées ne fournissaient pas tous les outils et tout le matériel; certains travailleurs devaient posséder une voiture.
+[10] Abdul Karim a été la seconde personne à témoigner pour les sociétés appelantes. M. Karim travaillait comme préposé aux comptes auprès des trois appelantes depuis 1996. Il était chargé de calculer et de verser les retenues à la source pour tous les travailleurs qui étaient des employés. Lorsque l’Agence du revenu du Canada (l’« ARC ») a procédé à la vérification des sociétés liées, M. Karim faisait face à un problème personnel : en effet, un montant de 10 000 $ avait par erreur été inclus dans son revenu tiré de la société à numéro (« Lexington Tire »). En sa qualité de préposé aux comptes, il avait viré 10 000 $ entre deux des sociétés, le 24 novembre 2004. Le vérificateur de l’ARC a conclu, erronément, que le montant de 10 000 $ avait été viré au compte de M. Karim à titre de revenu; il avait inclus ce montant dans le revenu de l’année 2004 de M. Karim. M. Karim s’opposait à ce que ce montant soit inclus dans son revenu, mais il ne s’opposait pas à son statut professionnel.
+[11] Le montant de 10 000 $ figure dans la pièce R‑4 (rapport d’examen des comptes de paie en fiducie) sous le nom de M. Karim au 24 novembre 2004. M. Karim a dit que la pièce A‑4 était le virement bancaire réel qu’il avait effectué le 24 novembre 2004, lequel avait donné lieu à l’erreur. Un avis de nouvelle cotisation daté du 21 août 2006 (pièce R‑5), que l’ARC avait établi à l’égard de M. Karim indiquait que l’erreur avait été corrigée et que les 10 000 $ avaient été retranchés du revenu de 2004 de M. Karim.
+[12] Le premier témoin de l’intimé était Sheri Inglis, examinatrice des comptes en fiducie auprès de l’ARC. Mme Inglis est chargée d’examiner les documents de paie, les grands livres généraux, et ainsi de suite, d’un employeur afin de vérifier la conformité avec l’impôt sur le revenu, la TPS ainsi que les cotisations à l’assurance‑emploi et au RPC. Elle a préparé les rapports d’examen des comptes en fiducie pour trois des sociétés liées, lesquels ont été produits sous les cotes R‑3, R‑4 et R‑5. Elle a fait remarquer qu’en 2004, même si les trois appelantes versaient une rémunération à environ 85 travailleurs, ces sociétés ne comptaient que deux employés. Les évaluations ici en cause ont été établies par suite de l’examen des documents des appelantes que Mme Inglis avait effectué.
+[13] Janet Mah était le deuxième témoin de l’intimé. Elle est agente des appels, responsable des questions se rattachant à l’A‑E et au RPC. On lui a assigné les dossiers des trois appelantes qui avaient signifié des avis d’opposition. Lorsque Mme Mah s’est rendu compte qu’environ 85 travailleurs n’étaient pas rémunérés à titre d’employés, elle a décidé d’envoyer un questionnaire type de l’ARC à chaque travailleur. Le questionnaire d’un travailleur qui s’appelait Colin MacKenzie a été produit sous la cote R‑6. Mme Mah a essayé de communiquer avec les 85 travailleurs et elle a en fait réussi à prendre contact avec environ 90 p. 100 d’entre eux. Elle a conclu que la plupart des travailleurs étaient des employés : ils étaient rémunérés à l’heure, ils relevaient d’un superviseur et ils effectuaient du travail pour les clients des appelantes plutôt que pour leurs propres clients.
+[14] Christopher Stefani, qui avait reçu une assignation à témoigner, a comparu comme troisième témoin de l’intimé. Il ne travaille plus pour les sociétés liées mais, en 2003 et en 2004, il avait travaillé pour Alpi’s Tires et pour Katona Tires. Il était notamment chargé de trouver des personnes qui étaient prêtes à vendre des pneus usagés aux fins de leur remise à neuf. M. Stefani portait un uniforme sur lequel figurait le logo « Alpi’s Tires ». Il était rémunéré à l’heure tous les deux vendredis. Il travaillait de 8 h 30 à 16 h 30. Lorsqu’il cherchait des pneus usagés à acheter, M. Stefani remettait des cartes professionnelles au nom d’« Alpi’s Tires ». M. Stefani estimait être un employé, même s’il n’avait jamais reçu de RE (relevé d’emploi).
+[15] Les appelantes n’ont pas cité de travailleurs comme témoins, mais elles ont produit sous la cote A‑3 un groupe de cinq factures soumises à Katona Tires ou à Alpi’s Tires par des personnes qui avaient signé des contrats et qui facturaient leurs services. La pièce A‑3 montre que certaines personnes qui avaient signé le formulaire type de contrat facturaient leurs services en tant qu’entrepreneurs indépendants, mais au cours de l’argumentation, l’avocat de l’intimé a déclaré que les travailleurs qui avaient soumis les factures produites sous la cote A‑3 n’avaient pas fait l’objet d’évaluations à titre d’employés. Contrairement aux deux ou trois travailleurs dont le nom figure dans la pièce A‑3, Mme Mah (l’agente des appels de l’ARC) avait contacté 90 p. 100 des 85 travailleurs dont le statut était contesté et elle avait conclu qu’ils étaient des employés.
+[16] Au cours de l’audition des appels, les parties ont convenu que les trois travailleurs ci‑après désignés qui avaient fait l’objet d’évaluations à titre d’« employés » devraient être considérés comme des entrepreneurs indépendants :
+Al Nahal Lexington Tire - Liste no 3
+Christine Holten Alpi’s Trading - Liste no 8
+Peter Vitai Alpi’s Trading - Liste no 8
+Dans son témoignage, lorsqu’elle a décrit le questionnaire qu’elle avait envoyé aux 85 travailleurs, Mme Mah a conclu que les deux travailleurs ci‑après désignés étaient des entrepreneurs indépendants :
+Julian Manzur Katona International - Liste no 4
+Mike Roth Katona International - Liste no 4
+Le nom commercial et le numéro de liste figurant à côté du nom de chacun des cinq travailleurs susmentionnés expliquent l’endroit où figurent ces noms dans les actes de procédure de l’intimé dans chaque appel respectif. Il s’agit de la seule liste complète des travailleurs dont le statut est contesté.
+[17] D’une façon générale, les appels devraient être rejetés, mais j’accueillerai au besoin les appels des trois sociétés, uniquement en vue d’exclure du statut d’« employés » les cinq travailleurs désignés ci‑dessus au paragraphe 16.
+Signé à Ottawa, Canada, ce 18e jour de mai 2007.
+« M.A. Mogan »
+M.A. Mogan, juge suppléant
+Traduction certifiée conforme
+ce 29 jour de février 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2007CCI301
+Nos DES DOSSIERS DE LA COUR : 2006-399(EI), 2006-400(CPP)
+2006-401(EI), 2006-402(CPP)
+2006-654(EI), 2006-656(CPP)
+INTITULÉ : 675869 BC LTD. s/n LEXINGTON TIRE SUPERSTORE, KATONA INTERNATIONAL HOLDINGS CORP. et ALPI’S TRADING INC.
+c.
+M.R.N.
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Les 18 et 19 septembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge M.A. Mogan
+DATE DU JUGEMENT : Le 18 mai 2007
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Karl Flunkert
+Avocat de l’intimé :
+Me John Gibb-Carsley
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,157 @@
+Title: Uppal Estate v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521405/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-34-521405-uppal-estate-v-the-king.md
+Document type: case_law
+Last modified: 2025-03-04
+
+# Uppal Estate v. The King
+
+- Citation: 2025 TCC 34
+- Decision date: 2025-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6032, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Uppal Estate v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-03-04
+Neutral citation
+2025 TCC 34
+File numbers
+2024-816(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-816(IT)G
+BETWEEN:
+THE ESTATE OF THE LATE PAUL UPPAL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on February 4, 2025, at Vancouver, British Columbia
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Alistair Campbell
+David McCormack
+Counsel for the Respondent:
+Julie Facchin
+Jun Choi
+ORDER
+THE COURT ORDERS THAT:
+The following portions of the Amended Reply are struck with leave to amend:
+(a)paragraphs XXII, XXIII, XXXIV and XXXV;
+(b)subparagraphs XIX(25), (26) and (27);
+(c)subparagraphs XXV(3) and (4); and
+(d)the phrase “162(7), 162(10),” in paragraph XXVI.
+The Respondent shall have until April 17, 2025, to file and serve a Further Amended Reply.
+The Appellant shall have May 23, 2025, to file and serve an Answer to the Further Amended Reply.
+Costs are awarded to the Appellant. The parties shall have until May 1, 2025, to reach an agreement on costs, failing which the Appellant shall have until June 6, 2025, to serve and file written submissions on costs and the Respondent shall have until June 20, 2025, to serve and file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, costs shall be awarded to the Appellant as set out in the Tariff.
+Signed at Toronto, Ontario, this 4th day of March 2025.
+“David E. Graham”
+Graham J.
+Citation: 2025 TCC 34
+Date: 20250304
+Docket: 2024-816(IT)G
+BETWEEN:
+THE ESTATE OF THE LATE PAUL UPPAL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] The Appellant has brought a motion to strike portions of the Amended Reply based on two grounds. First, the Appellant submits that several assumptions of fact should be struck with leave to amend because they plead facts in the alternative. Second, the Appellant says that other paragraphs should be struck with leave to amend because they ask the Court to apply penalties that were not applied by the Minister of National Revenue.
+[2] I will grant the motion.
+A. Assumptions in the Alternative [3] As set out by the Federal Court of Appeal in Loewen v. The Queen,[1] the Respondent cannot plead assumptions in the alternative. The Respondent may plead factual and legal arguments that are inconsistent with the basis of the assessment but must do so elsewhere in the Reply.
+[4] The Appellant is the estate of the late Paul Uppal. The appeals involve, among other things, alleged unreported income from the sale of shares in a company known as Ranger Gold Corp. Mr. Uppal held legal title to a number of Ranger shares. A company named Chambord Media Inc. held legal title to other Ranger shares. The Minister of National Revenue has assumed that Mr. Uppal was the sole shareholder of Chambord.
+[5] The Minister’s primary assessing position in respect of the Ranger shares was that Mr. Uppal was the beneficial owner of both the shares in his name and the shares in Chambord’s name.
+[6] The Minister’s alternative assessing position was that Mr. Uppal was the beneficial owner of the shares in his name, that Chambord was the beneficial owner of the shares in its name and that, when Chambord sold its shares, Mr. Uppal appropriated the proceeds and those proceeds should be included in his income under subsection 15(1) of the Income Tax Act.
+[7] Subparagraphs XIX(25), (26) and (27) of the Amended Reply contain assumptions of fact designed to support both the Minister’s primary assessing position and her alternative assessing position. They read as follows:
+(25) In March and April 2010, Mr. Uppal either singly or jointly with Chambord, purchased the Ranger shares.
+(26) Mr. Uppal’s March and April 2010 purchases of Ranger shares, singly or jointly with Chambord, occurred before the shares were offered to the public.
+(27) Mr. Uppal was a seed investor of Ranger, either singly or jointly with Chambord. [Emphasis added]
+[8] The Appellant submits that these subparagraphs should be struck with leave to amend as they contain assumptions in the alternative. I agree. Either Mr. Uppal was the beneficial owner of the shares held by Chambord or Chambord was the beneficial owner of those shares. Both cannot be true. Both cannot be the basis upon which the Minister reassessed.
+[9] The Respondent should have pled the assumptions that support the Minister’s primary assessing position in the assumptions of fact portion of the Reply and pled the alternative facts necessary to support the alternative assessing position in a separate part of the Reply.
+[10] Although it is clear that the Respondent pled the assumptions of fact incorrectly, as set out by the Federal Court of Appeal in Preston v. The King,[2] I can only strike the relevant paragraphs if I am satisfied that one of the factors in subsection 53(1) of the Tax Court of Canada Rules (General Procedure) has been met. In Preston, the Court emphasized that a motion to strike that involved simply moving an inappropriate assumption to some other part of the Reply should not be granted if the taxpayer knew the case to be met and would suffer no prejudice from leaving the paragraphs as they were.
+[11] I am satisfied that the Appellant would suffer prejudice for two reasons if I did not strike the relevant paragraphs. First, the different assumptions of fact lead to different amounts of unreported income. Second, assumptions of fact can be particularly important when an appellant is an estate. I will address each point separately.
+Different Income
+[12] This is not a situation where the amount of the alleged unreported income is the same under both alternative assumptions. If it were it would be harder to see what prejudice the Appellant would suffer from not striking the pleading. However, in the Appellant’s case, there are three ways that Mr. Uppal’s income could be different:
+(a)Cost of Shares: If Mr. Uppal was the beneficial owner of the Ranger shares, he would be entitled to reduce his alleged unreported income by his cost of acquiring the shares. However, if Chambord was the beneficial owner, Mr. Uppal would be taxed on the entire proceeds of sale since that is the amount that he allegedly appropriated from Chambord. A taxpayer who appropriates proceeds of sale does not have the benefit of reducing their income by the cost of the shares. The Appellant should know which of these two scenarios it bears the burden to disprove.
+(b)Capital Account: The Appellant argues that the shares were held on capital account. If that is the case, then, if Mr. Uppal was the beneficial owner of the Ranger shares, he would be taxed on the taxable capital gain he received. However, once again, if Chambord was the beneficial owner, Mr. Uppal would be taxed on the entire proceeds of sale. The Appellant should know which of these two very different scenarios it bears the burden to disprove.
+(c)Promotional Expenses: A separate issue in the appeals involves promotional expenses that Chambord allegedly paid to a third party to promote shares of Ranger in the market. The Minister assessed Mr. Uppal under subsection 15(1) on the basis that the promotional expenses were incurred for his benefit, not Chambord’s benefit. This is consistent with the Minister’s primary assessing position. However, if Chambord was the beneficial owner of some of the shares, then Chambord would arguably have incurred some of the promotional expenses on its own behalf and Mr. Uppal’s alleged appropriation would be smaller. The Appellant should know which of these two scenarios it bears the burden to disprove.
+The Appellant is an Estate
+[13] The Minister is permitted to make assumptions of fact because taxpayers are presumed to know their affairs better than anyone else and, therefore, to be in a position to easily rebut any incorrect assumptions of fact.[3] However, when a taxpayer dies and their estate is the appellant, the person who knows the appellant’s affairs best cannot testify.
+[14] Mr. Uppal can neither be called by the Appellant to provide evidence rebutting an assumption of fact nor called by the Respondent to provide evidence proving an alternative fact that the Respondent wants to rely upon. In the absence of any evidence on a point, the Respondent’s ability to rely on an assumption of fact or the Respondent’s inability to prove an alternative fact could be determinative. For this reason, I find that it would be particularly prejudicial if the Appellant did not clearly know up front the assumptions of fact it was facing.
+Conclusion
+[15] Based on all of the foregoing, I will strike subparagraphs XIX(25), (26) and (27) with leave to amend.
+B. Alternative Penalties [16] The Minister assessed gross negligence penalties. The Minister did not assess any other penalties.
+[17] Paragraphs XXII, XXIII, XXXIV and XXXV and subparagraphs XXV(3) and (4) of the Amended Reply plead that the Appellant should be liable for penalties under subsections 162(7) and (10) of the Income Tax Act for failing to file T1134 information returns or, in the alternative, for failing to file T1135 information returns. Paragraph XXVI of the Amended Reply also refers to those subsections. I will refer to all of these portions of the Amended Reply collectively as the “T1134 / T1135 Paragraphs”.
+[18] The Appellant says the T1134 / T1135 paragraphs should be struck under paragraph 53(1)(d) of the Rules as they disclose no reasonable ground for opposing the appeal. I agree.
+[19] To strike a pleading under paragraph 53(1)(d), it must be plain and obvious that the pleading cannot succeed, assuming that the facts pled are true.[4]
+[20] The Respondent argues that the subsection 162(7) and (10) penalties are simply alternative bases of assessment and that subsection 152(9) allows the Minister to rely on them.
+[21] Subsection 152(9) reads:
+At any time after the normal reassessment period, the Minister may advance an alternative basis or argument — including that all or any portion of the income to which an amount relates was from a different source — in support of all or any portion of the total amount determined on assessment to be payable or remittable by a taxpayer under this Act unless, on an appeal under this Act [Emphasis added]
+(a)there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+(b)it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+[22] Textually speaking, it is arguable that the phrase “in support of all or any portion of the total amount determined on assessment to be payable” might be broad enough to encompass a previously unassessed penalty if, as a result of other adjustments made by the Court, the amount of the penalty would not exceed the total amount otherwise assessed. However, a contextual review of subsection 171(1) makes it clear that subsection 152(9) cannot be that broad.
+[23] Subsection 171(1) sets out the Court’s powers. It states that the Court may dispose of an appeal by either dismissing it or allowing it and vacating the assessment, varying the assessment or referring the assessment back to the Minister for reconsideration and reassessment.
+[24] It is well established that the Court cannot order the Minister to increase the amount of an assessment.[5] Doing so would amount to the Minister appealing her own assessment. It is similarly well established that the Court does not have the power to order the Minister to reassess years that are not before the Court.[6] It goes without saying that the Court does not have the power to order the Minister to reassess taxpayers who are not before the Court.
+[25] From time to time, as an appeal unfolds, a judge may wonder why the Minister did not assess gross negligence penalties but, no matter what the evidence indicates should have happened, in no circumstances does the judge have the power to impose the penalties that the judge thinks the Minister should have applied. This is true even if the judge has otherwise reduced the assessment to a point where applying penalties would not increase the amount in issue.
+[26] I cannot see how, if the Court lacks the foregoing powers, it could possibly have the power to order the Minister to assess a previously unassessed penalty. Penalties are imposed by the Minister, not the Court. The Respondent was unable to point me to any authority that indicates such a power exists. In my view, ordering the Minister to assess a previously unassessed penalty indirectly allows the Minister to appeal her own assessment.
+[27] I am not saying that it would impossible for the Respondent to argue, in the alternative, that a penalty that was not applied by the Minister could be applied. It is arguable that a smaller single-occurrence penalty is automatically included as an alternative penalty when the Minister assesses a larger repeat-occurrence penalty. For example, one could take the position that a subsection 162(1) late filing penalty is automatically included as an alternative to a subsection 162(2) repeat late filing penalty. Arguably, asking for such a penalty in the alternative would not offend subsection 171(1) as the Respondent would not be asking the Court to order the application of a new penalty but rather the reduction of the existing penalty to the smaller included penalty. The argument would certainly be novel but it would, at least, be arguable. To be clear, I am not commenting on whether such an argument would succeed, only that I would have difficulty striking it as it would not be plain and obvious to me that it had no chance of succeeding. The Supreme Court has stated that judges should err on the side of permitting novel but arguable claims to proceed to trial.[7]
+[28] However, those are not the facts that I am dealing with. The subsection 162(7) and (10) penalties for failing to file T1134 or T1135 returns that the Respondent wants to argue in the alternative have nothing to do with the subsection 163(2) gross negligence penalties that the Minister imposed on the Mr. Uppal. The former are not a lesser version of the latter. Gross negligence penalties are calculated based on unreported income. The penalties under subsections 162(7) and (10) are penalties for not filing information returns when due and are calculated based on how many days or months late the taxpayer was in filing the information returns. They are payable even if the taxpayer has reported all of their income.
+[29] If I strike the T1134 / T1135 Paragraphs and the trial judge ultimately finds that the Appellant was not grossly negligent, the trial judge will allow the appeal and refer the reassessments back to the Minister for reconsideration and reassessment on the basis that the gross negligence penalties did not apply. But what if I allow the T1134 / T1135 Paragraphs to stand? If the trial judge concludes that Mr. Uppal failed to file T1134 or T1135 returns, what would the trial judge do? I cannot see how subsection 171(1) would permit the trial judge to refer the reassessment back to the Minister for reconsideration and reassessment on the basis that the Minister should assess previously unassessed penalties.
+[30] Based on all of the foregoing, it is plain and obvious to me that the Respondent’s alternative argument that subsection 162(7) and (10) penalties should be imposed cannot succeed. Accordingly, I will strike the T1134 / T1135 Paragraphs.
+[31] The parties agreed that the Respondent should have leave to amend so I will grant it.
+C. Costs and Answer [32] The Appellant asked for the opportunity to make submissions on costs and for an appropriate deadline for filing an Answer to the Further Amended Reply. I will set an appropriate timeline for doing so.
+Signed at Toronto, Ontario, this 4th day of March 2025.
+“David E. Graham”
+Graham J.
+CITATION:
+2025 TCC 34
+COURT FILE NO.:
+2024-816(IT)G
+STYLE OF CAUSE:
+THE ESTATE OF THE LATE PAUL UPPAL v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 4, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+March 4, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Alistair Campbell
+David McCormack
+Counsel for the Respondent:
+Julie Facchin
+Jun Choi
+COUNSEL OF RECORD:
+For the Applicant:
+Name:
+Alistair Campbell David McCormack
+Firm:
+Legacy Tax + Trust Lawyers Vancouver, British Columbia
+For the Respondent:
+Shalene Curtis-Micallef
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2004 FCA 146, at paras. 9 and 11.
+[2] 2023 FCA 178.
+[3] Roseland Farms Ltd. v. The Queen, 2001 FCA 167, at para. 6; Pollock v. The Queen, [1994] 2 CTC 385 (Federal Court – Appeals Division) at para. 19.
+[4] R. v. Imperial Tobacco (2011 SCC 42), Ebert v. The King (2024 FCA 27, at para. 6).
+[5] Harris v. MNR [1964] CTC 562 (Exchequer Court of Canada), Lubega-Matovu v. The Queen 2016 FCA 315 and Petro-Canada v. The Queen 2004 FCA 158.
+[6] Bakorp Management Ltd. v. The Queen, at para. 58, upheld 2019 FCA 195, leave to appeal to SCC refused (2020 CarswellNat 19); Miller v. The Queen, 2007 TCC 207 at paras. 45-46.
+[7]R. v. Imperial Tobacco Canada Ltd., 2011 SCC 42 at para. 21.

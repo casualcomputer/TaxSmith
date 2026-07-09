@@ -1,0 +1,104 @@
+Title: Carrier v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/231814/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-101-231814-carrier-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2017-06-01
+
+# Carrier v. M.N.R.
+
+- Citation: 2017 TCC 101
+- Decision date: 2017-06-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2143, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carrier v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-06-01
+Neutral citation
+2017 TCC 101
+File numbers
+2015-1380(EI), 2015-1381(CPP)
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2015-1380(EI)
+2015-1381(CPP)
+BETWEEN:
+LUCIEN CARRIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+Appeal heard on May 1, 2017, at Miramichi, New Brunswick
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sheherazade Ghorashy
+JUDGMENT
+The appeal from the Minister of National Revenue’s decisions dated January 6, 2015 regarding the pensionability and insurability of the Appellant’s employment is dismissed and the Minister’s decisions are confirmed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 1st day of June 2017.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2017 TCC 101
+Date: 20170601
+Docket: 2015-1380(EI)
+2015-1381(CPP)
+BETWEEN:
+LUCIEN CARRIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+[1] The Appellant, Lucien Carrier, is appealing a decision of the Minister of National Revenue (the “Minister”) dated January 6, 2015 regarding the total number of insurable hours for the period from August 2, 2010 to October 31, 2010 (the “2010 Period”) and the period from August 1, 2011 to October 15, 2011 (the “2011 Period”).
+[2] The Appellant is relying on his pay records which indicate that he had 457 and 546 insurable hours for the 2010 Period and 2011 Period respectively. The Minister determined that the Appellant’s pay records overstated the number of hours worked by the Appellant in the relevant periods for the purpose of entitling him to claim employment insurance and increasing his pensionable earnings. The Minister determined that the Appellant actually worked 447 hours in the 2010 Period and 446 hours in the 2011 Period.
+[3] The evidence shows that the Appellant worked for Layne Godin/Godin’s Sea Products (the “Payer”) during the crab season. He drove a truck that belonged to the Payer and delivered crab to the Payer’s clients.
+[4] An investigation of the Payer’s activities began in 2009. The Payer was suspected of issuing falsified records of employment for the purpose of qualifying individuals for employment insurance benefits that they were not entitled to receive. Ultimately, the Payer was convicted of an offence in regard to this matter. In some cases the individuals provided no services whatsoever to the Payer. In other cases, the number of hours worked by the individuals was overstated.
+[5] My colleague Justice Favreau rendered a judgment in an appeal brought by the Payer with respect to individuals who were found either not to have been employed by the Payer for the 2007, 2008 and 2009 lobster and crab seasons or not to have worked the number of hours shown on their records of employment for those periods.[1] In that case, Justice Favreau concluded that the Minister’s determination of the appellant workers’ insurable hours was correct and that the Payer’s employment records overstated the number of hours worked by its employees.
+[6] The Appellant claims to have done odd jobs for the Payer before and after the crab season, including cutting firewood and doing lawn maintenance. He offered no corroborating evidence for his testimony. More importantly, the Respondent’s witnesses observed that similar explanations were given by others of the Payer’s alleged workers whose records of employment were found to be inaccurate. The Appellant had the burden of showing that the Minister’s determination of his insurable hours was inaccurate. He has failed to do so.
+[7] The Appellant also filed an appeal with respect to the Minister’s determination that he was engaged in pensionable employment with the Payer during the periods from August 15, 2010 to November 6, 2010 and from July 27, 2011 to October 29, 2011. Considering the Notice of Appeal filed by the Appellant, I discern that there was no issue in dispute between the parties in this regard, as the Appellant’s position is identical to that of the Respondent.
+[8] For all of these reasons, the Appellant’s appeal is dismissed.
+Signed at Ottawa, Canada, this 1st day of June 2017.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2017 TCC 101
+COURT FILE NO.:
+2015-1380(EI)
+2015-1381(CPP)
+STYLE OF CAUSE:
+LUCIEN CARRIER v. M.N.R.
+PLACE OF HEARING:
+Miramichi, New Brunswick
+DATE OF HEARING:
+May 1, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+June 1, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+for the 2010 Period and 2011 Period
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Layne O. Godin o/a Godin’s Sea Products et al. v. Minister of National Revenue, 2016 TCC 88.

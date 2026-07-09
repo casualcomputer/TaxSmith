@@ -1,0 +1,177 @@
+---
+title: "Poirrier c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28120/index.do"
+last_modified: "2003-11-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 682"
+citation2: ""
+neutral_citation: "2003 CCI 682"
+decision_date: "2003-11-13"
+language: "fr"
+item_id: "28120"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1640
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:33:42.564000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4763e87dc6e47ee595f897dbee2ed5f3be3ec0a9543c99feca7ef516fce5a975"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poirrier c. M.R.N.
+
+- Citation: 2003 CCI 682
+- Decision date: 2003-11-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1640, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poirrier c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-13
+Référence neutre
+2003 CCI 682
+Numéro de dossier
+2003-210(EI)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-210(EI)
+ENTRE :
+NOËLLA POIRIER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SYLVAIN DERASPE,
+intervenant.
+____________________________________________________________________
+Appel entendu le 12 août 2003 à Hâvre-Aubert (Québec)
+Devant : L'honorable juge Brent Paris
+Comparutions :
+Avocate de l'appelante :
+Me Manon Dubé
+Avocat de l'intimé :
+Me Bernard Fontaine
+Pour l'intervenant :
+L'intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision du ministre est annulée selon les motifs du jugement ci‑joints.
+Signé à Ottawa (Canada), ce 13e jour de novembre 2003.
+« B. Paris »
+Juge Paris
+Référence : 2003CCI682
+Date : 200301113
+Dossier : 2003-210(EI)
+ENTRE :
+NOËLLA POIRIER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé
+et
+SYLVAIN DERASPE,
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge Paris, C.C.I.
+[1] Il s'agit d'un appel de la décision du ministre du Revenu national (le « ministre ») du 29 novembre 2002 selon laquelle l'emploi de l'appelante du 30 avril au 2 juin 2001 auprès de Sylvain F. Deraspe (le « payeur ») n'était pas assurable en vertu de la Loi sur l'assurance-emploi (la « Loi ») parce qu'il en est exclu par l'alinéa 5(2)i). En vertu du paragraphe 5(3) de la Loi, le ministre a conclu que l'appelante et le payeur n'auraient pas conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[2] Les faits sur lesquels s'est fondé le ministre pour rendre sa décision sont énoncés au paragraphe 10 de la réponse à l'avis d'appel déposée par l'intimé, qui se lit comme suit :
+a) le payeur travaillait comme aide-pêcheur sur le bateau de son père;
+b) en 2001, le payeur participait à la saison de pêche au homard qui s'est échelonnée du 30 avril au 14 juillet;
+c) le payeur pêchait 6 jours par semaine, il quittait la résidence le dimanche soir et ne revenait que le samedi soir suivant;
+d) le payeur était le conjoint de Jeanne D'Arc Poirier;
+e) Jeanne D'Arc Poirier est la sœur de l'appelante;
+f) durant la période en litige, Jeanne D'Arc Poirier était enceinte et elle devait garder le lit à cause d'un diabète de grossesse;
+g) l'appelante a été engagée comme gouvernante des 3 enfants de sa soeur et du payeur;
+h) les tâches de l'appelante consistaient à s'occuper des enfants, à entretenir la maison, à laver les vêtements et à préparer les repas;
+i) l'appelante n'avait pas d'horaire fixe et elle exécutait ses tâches 7 jours par semaine;
+j) l'appelante recevait une rémunération fixe de 280 $ par semaine;
+k) l'appelante était logée et nourrie;
+l) la soeur de l'appelante a accouché d'un quatrième enfant le 12 juin 2001;
+m) le ou vers le 14 juin 2001, la soeur de l'appelante est retournée à la maison;
+n) selon l'appelante, sa soeur a pris environ 3 semaines pour récupérer de son accouchement;
+o) le 16 avril 2002, dans sa déclaration signée à Développement des ressources humaines Canada (ci-après appelé le DRHC), le payeur déclarait qu'il avait cessé de payer l'appelante le 2 juin car il n'avait pas les moyens de la payer;
+p) le 10 avril 2002, dans sa déclaration signée au DRHC, l'appelante déclarait qu'elle avait travaillé chez sa soeur de la fin avril jusqu'au milieu de juillet 2001;
+q) l'appelante est restée chez le payeur jusqu'en septembre 2001, sans payer de pension;
+r) le 17 juillet 2001, le payeur émettait un relevé d'emploi à l'appelante qui indiquait comme premier jour de travail le 30 avril 2001 et comme dernier jour de travail le 2 juin 2001, comme nombre d'heures assurables 175 heures et comme rémunération assurable totale 1 400,00 $;
+s) l'appelante continuait à rendre des services au payeur, après la période en litige, sans rémunération déclarée, tout en recevant des prestations d'assurance-emploi;
+t) le relevé d'emploi de l'appelante n'est pas conforme à la réalité quant aux heures et quant aux semaines réellement travaillées par l'appelante;
+u) la période prétendument travaillée par l'appelante ne correspond pas avec la période réellement travaillée.
+[3] L'appelante, le payeur et la femme du payeur (la sœur de l'appelante) ont témoigné pour l'appelante, et M. Jean-Claude Favron, un enquêteur de l'Agence des douanes et du revenu du Canada (ADRC) a témoigné pour l'intimé.
+[4] La preuve démontre que les hypothèses énoncées aux alinéas 10a), b), d), e), f), g), h), j), k), l), m), p) et r) sont vraies. Le fait que l'appelante travaillait pour son beau-frère du 30 avril au 2 juin et était rémunérée pour ses services n'est pas en litige. Il a également été admis que l'appelante exécutait ses tâches pour le payeur en vertu d'un contrat de louage de services.
+[5] La plupart des hypothèses en litige portent sur la question de savoir si l'appelante a continué à travailler à temps plein pour son beau-frère après le 2 juin jusqu'au 14 juillet sans être rémunérée pour ces services. À ce sujet, l'appelante a témoigné que, lorsqu'elle a été embauchée par son beau-frère, on lui a dit qu'elle ne travaillerait que cinq semaines, parce que c'était tout ce qu'il pouvait se permettre et que cela comprendrait la période jusqu'à la date prévue de l'accouchement de sa femme.
+[6] Lorsque les cinq semaines furent écoulées, M. Deraspe lui a dit qu'elle était mise à pied. On lui a toutefois permis de continuer de vivre chez sa sœur et son beau-frère car elle était incapable de trouver un autre logement. Elle a témoigné qu'à cette époque, son frère Michel vivait également dans la maison et que son frère Léo est arrivé vers le début juin. Lorsqu'elle cessa de travailler comme aide-ménagère pour son beau-frère, Michel a assumé certaines de ses tâches ménagères et ses sœurs, qui vivaient à proximité, en ont assumé d'autres. De plus, Sylvain Deraspe était plus souvent à la maison après le 2 juin, en partie à cause de la grossesse difficile de sa femme et également parce que ses activités de pêche au homard étaient moins intensives après le mois de mai. L'appelante a affirmé qu'après le 2 juin, elle effectuait beaucoup moins de tâches ménagères que lorsqu'elle travaillait, bien qu'elle ait aidé à faire la vaisselle et le lavage. Elle a également reconnu s'être occupée du nouveau bébé la nuit quelques fois par semaine.
+[7] L'appelante a également été longuement interrogée relativement à l'entente qu'elle avait avec sa sœur et son beau-frère relativement à son logement et au paiement d'une pension pendant cette période. Le témoignage de l'appelante sur ce point était plutôt vague.
+[8] Jeanne D'Arc Poirier, la sœur de l'appelante, a témoigné que son mari avait fait des démarches pour embaucher sa sœur (l'appelante) pour s'occuper de ses enfants et effectuer les tâches ménagères pendant les cinq dernières semaines de sa grossesse. Bien que la situation financière du couple ait été difficile, ils ont réussi à économiser assez d'argent pour engager l'appelante pendant cinq semaines, du début de la saison de la pêche au homard jusqu'à la date prévue de l'accouchement. Elle avait besoin d'assistance parce qu'elle souffrait de diabète gestationnel et devait passer beaucoup de temps à se reposer. Elle savait qu'elle aurait besoin d'aide quand son mari serait parti pêcher. L'appelante a travaillé jusqu'au 2 juin comme convenu mais a arrêté de travailler après cette date parce que Mme Poirier et son mari ne pouvaient plus se permettre de la rémunérer après cette période. D'autres membres de la famille sont venus aider Mme Poirier à faire les tâches ménagères à la fois avant et après la naissance de son enfant.
+[9] À l'époque, l'appelante et son frère Michel vivaient avec le couple dans la maison et Michel apportait son aide en s'occupant des enfants plus âgés. Les sœurs de l'appelante et de Mme Poirier sont également venues aider, et plus tard un autre frère est venu vivre avec eux. À ce moment, Sylvain Deraspe quittait plus souvent la pêche pour venir à la maison. Mme Poirier a dit que l'appelante l'avait également aidée après le 2 juin, mais que l'étendue de son aide était beaucoup plus limitée qu'auparavant.
+[10] Le témoignage de Jeanne D'Arc Poirier a été largement confirmé par son mari. Plus précisément, il a affirmé que des membres de la famille ont apporté leur aide du 2 juin jusqu'à ce qu'il finisse ses activités de pêche en juillet et que, après le 2 juin, il pouvait être à la maison plus souvent pour aider sa femme.
+[11] Je conclus que Jeanne D'Arc Poirier et Sylvain Deraspe étaient tous deux des témoins crédibles. Leur témoignage était clair, cohérent et direct et il n'a pas été infirmé lors du contre-interrogatoire.
+[12] La question en cause dans la présente affaire est de décider si le ministre a commis une erreur dans l'exercice de son pouvoir discrétionnaire en vertu du paragraphe 5(3) de la Loi. Sa conclusion était fondée en grande partie sur l'hypothèse que l'appelante a continué à travailler pour le payeur après le 2 juin jusqu'au 14 juillet sans recevoir de rémunération. Cette conclusion, à son tour, se fondait sur la réponse que l'appelante avait donnée lors d'une entrevue avec M. Favron selon laquelle elle avait travaillé pour le payeur pendant toute la saison de la pêche (de la fin avril jusqu'à la mi-juillet) et qu'elle avait assumé les tâches ménagères pendant cette période.
+[13] En ce qui concerne la déclaration de l'appelante à M. Favron (mentionnée à l'alinéa 10p) de la réponse), il me semble que l'appelante n'a pas indiqué précisément les dates de son travail. Lors de son témoignage devant cette cour, l'appelante était souvent confuse au sujet des dates et était incapable de se souvenir d'événements précis avec certitude. Un autre exemple de la confusion de l'appelante relativement aux dates se trouve dans les notes de la même entrevue, qui contiennent une erreur manifeste quant à l'année pendant laquelle l'appelante a travaillé pour un autre employeur (Dixie Lee). Globalement, je n'accorde que peu de poids au témoignage de l'appelante, sauf dans la mesure où il est corroboré par Sylvain Deraspe et Jeanne D'Arc Poirier.
+[14] Je remarque qu'au moment de l'entrevue, M. Favron n'a pas mentionné à l'appelante la différence entre le relevé d'emploi de l'appelante et sa déclaration ni ne lui a demandé de l'expliquer. L'entrevue avec l'appelante a eu lieu près d'un an après qu'elle eut travaillé pour le payeur et elle portait sur trois contrats d'emploi différents pour trois employeurs différents. Je remarque également qu'il n'y a aucune preuve que le payeur a affirmé lors de son entrevue avec M. Favron que l'appelante avait travaillé après le 2 juin.
+[15] Après examen de toute la preuve, je suis convaincu que l'appelante n'a pas continué à travailler pour le payeur après le 2 juin dans toute la mesure où elle l'avait fait auparavant. Je conclus que les tâches qu'elle a effectuées après cette date étaient mineures et que le payeur ne lui ordonnait pas de les effectuer. À cet égard, j'accepte le témoignage du payeur et de sa femme. Chacun d'eux a affirmé que les tâches effectuées par l'appelante jusqu'au 2 juin ont été en grande partie assumées par d'autres membres de la famille après cette date. Tout travail effectué par l'appelante après le 2 juin l'a été pour aider un membre de la famille, d'une manière semblable à ce qui était le cas dans l'affaire Théberge c. M.R.N., 2002 CAF 123, 294 N.R. 341, nos A‑91‑00 et A‑92‑00, 28 mars 2002, et n'aurait pas dû être pris en compte par le ministre dans son évaluation des conditions de l'emploi de l'appelante par le payeur.
+[16] L'erreur du ministre sur ce point était fondamentale à l'exercice de son pouvoir discrétionnaire et je conclus donc qu'il n'a pas exercé son pouvoir discrétionnaire conformément au droit.
+[17] Par conséquent, je dois procéder à la deuxième étape de l'examen, qui consiste à examiner la preuve afin de déterminer si l'appelante et le payeur auraient conclu un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[18] Le payeur a témoigné que la paie de l'appelante avait été déterminée après qu'il eut téléphoné à la Commission provinciale des normes du travail pour savoir quelle était la rémunération requise pour une aide-ménagère. Ce témoignage n'a pas été contesté lors du contre-interrogatoire. Il a également déclaré que, si l'appelante n'avait pas été disponible, il aurait embauché quelqu'un d'autre et que lui et son épouse avaient engagé une aide-ménagère durant les années qui précédaient. La preuve indique également que les heures de travail de l'appelante et la durée du contrat étaient raisonnables eu égard aux besoins du payeur. En bref, je conclus que les modalités et les conditions du travail de l'appelante pour le payeur n'étaient pas tributaires du lien de dépendance entre les parties.
+[19] Pour tous ces motifs, je conclus que l'appelante et le payeur auraient conclu un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[20] Par conséquent, l'appel est accueilli.
+Signé à Ottawa (Canada), ce 13e jour de novembre 2003.
+« B. Paris »
+Juge Paris
+RÉFÉRENCE :
+2003CCI682
+No DU DOSSIER DE LA COUR :
+2003-210(EI)
+INTITULÉ DE LA CAUSE :
+Noëlla Poirier et M.R.N.
+LIEU DE L'AUDIENCE :
+Hâvre-Aubert (Québec)
+DATE DE L'AUDIENCE :
+le 12 août 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge B. Paris
+DATE DU JUGEMENT :
+le 13 novembre 2003
+COMPARUTIONS :
+Pour l'appelante :
+Me Manon Dubé
+Pour l'intimé :
+Me Bernard Fontaine
+Pour l'intervenant :
+L'intervenant lui-même
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Manon Dubé
+Étude :
+Me Manon Dubé
+Îles-de-la-Madeleine (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

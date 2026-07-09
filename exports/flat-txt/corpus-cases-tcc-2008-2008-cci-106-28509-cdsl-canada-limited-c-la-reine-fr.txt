@@ -1,0 +1,285 @@
+Title: CDSL Canada Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28509/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-106-28509-cdsl-canada-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-02-25
+
+# CDSL Canada Limited c. La Reine
+
+- Citation: 2008 CCI 106
+- Decision date: 2008-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1268, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CDSL Canada Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-25
+Référence neutre
+2008 CCI 106
+Numéro de dossier
+2006-1596(IT)G
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1596(IT)G
+ENTRE :
+CDSL CANADA LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 6 novembre 2007, à Montréal (Québec).
+Devant : L'honorable Gerald J. Rip, juge en chef adjoint
+Comparutions :
+Avocat de l'appelant :
+Me Wilfrid Lefebvre
+Avocat de l'intimée :
+Me Marie-Andrée Legault
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1998 est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 25e jour de février 2008.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+Dossier : 2006-1597(IT)G
+ENTRE :
+GROUPE CGI INC./CGI GROUP INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 6 novembre 2007, à Montréal (Québec).
+Devant : L'honorable Gerald J. Rip, juge en chef adjoint
+Comparutions :
+Avocat de l'appelant :
+Me Wilfrid Lefebvre
+Avocate de l'intimée :
+Me Marie-Andrée Legault
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1998 et l'appel de la détermination d'une perte pour l'année d'imposition 1999 sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 25e jour de février 2008.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+Dossier : 2006-1605(IT)G
+ENTRE :
+CGI INFORMATION SYSTEMS AND MANAGEMENT
+CONSULTANTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 6 novembre 2007, à Montréal (Québec).
+Devant : L'honorable Gerald J. Rip, juge en chef adjoint
+Comparutions :
+Avocat de l'appelant :
+Me Wilfrid Lefebvre
+Avocate de l'intimée :
+Me Marie-Andrée Legault
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998 et 1999 sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 25e jour de février 2008.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+Référence : 2008CCI106
+Date : 20080225
+Dossiers : 2006-1596(IT)G
+2006-1597(IT)G
+2006-1605(IT)G
+ENTRE :
+CDSL CANADA LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+GROUPE CGI INC./CGI GROUP INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+ET ENTRE :
+CGI INFORMATION SYSTEMS AND MANAGEMENT
+CONSULTANTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Rip
+[1] Ces appels de la part de trois contribuables ont été entendus ensemble. CDSL Canada Limited (« CDSL ») interjette appel de la cotisation fiscale pour l'année d'imposition 1998. Groupe CGI Inc./CGI Group Inc. (« CGI ») interjette appels de la cotisation fiscale établie à son égard pour l'année d'imposition 1998 et de la détermination d'une perte relativement à son année d'imposition 1999. CGI Information Systems and Management Consultants Inc. (« Systems ») interjette appels des cotisations fiscales établies à son égard pour les années d'imposition 1998 et 1999.
+[2] L’intimée reconnaît que les appelantes tirent leur revenu d’une entreprise qui n’est pas un projet comportant un risque ou une affaire à caractère commercial. Aussi, elle admet que les travaux en cours des appelantes constituent des biens figurant à l’inventaire au sens de l’alinéa 10(5)a) de la Loi de l'impôt sur le revenu (« Loi »). Néanmoins, en cotisant les appelantes pour les années d'imposition en cause, le ministre du Revenu national (« Ministre ») était d'avis que la méthode prévue au paragraphe 10(1) de la Loi ne peut s’appliquer pour l’évaluation des travaux en cours des appelantes pour leurs années d’imposition respectives en jeu. Le Ministre soutient que les appelantes devraient évaluer leurs travaux en cours à leur juste valeur marchande pour leurs années d’imposition en cause au motif que cette méthode fournit une meilleure image de son profit et ce, conformément au paragraphe 9(1) de la Loi.
+[3] Selon les appelantes, la question en litige est de déterminer si le paragraphe 10(1) de la Loi est applicable pour évaluer leurs travaux en cours pour les années en jeu. Elles soutiennent que toutes les conditions d'application prévues au paragraphe 10(1) sont rencontrées, à savoir qu'elles tirent leurs revenus d'une entreprise qui n'est pas un projet comportant un risque ou une affaire à caractère commercial et que leurs travaux en cours constituent des biens figurant à l'inventaire au sens de l'alinéa 10(5)a) de la Loi. Selon elles, le fait qu’elles ont présenté leurs travaux à leur juste valeur marchande dans leurs états financiers ne les empêchent aucunement d'utiliser la méthode prévue au paragraphe 10(1) aux fins du calcul de leur revenu net fiscal.
+[4] De la part de l'intimée, il s'agit de déterminer si les appelantes pouvaient utiliser l'article 10 de la Loi pour évaluer leurs travaux en cours aux fins d'établir leur revenu net aux fins fiscales, ou si elles devaient plutôt déterminer leur profit en vertu du paragraphe 9(1) de la Loi. L’intimée soutient que la méthode utilisée par les appelantes pour évaluer leurs travaux en cours aux fins d'établir leur revenu net comptable, cette méthode étant conforme aux principes comptables généralement reconnus (« PCGR »), représente l'image la plus fidèle du profit réalisé par celles-ci pour leurs années d'imposition en cause et devrait être utilisée dans l'évaluation de leurs travaux en cours aux fins d'établir leurs revenus net aux fins fiscales, en application du paragraphe 9(1) de la Loi.
+[5] Avant sa plaidoirie, l'avocat des appelantes a revu les états financiers aux fins comptables et les déclarations d'impôt d'une des contribuables, afin d’expliquer les différences entre les deux.
+[6] Les parties se sont entendues sur les faits suivants :
+a. Les appelantes, Systems, CGI et CDSL, sont des sociétés qui exploitent des entreprises de consultation dans le domaine informatique.
+b. Pour les exercices financiers terminés en date du 30 septembre 1998 et du 30 septembre 1999 de Systems, le montant des travaux en cours présenté à ses états financiers aux fins du calcul de son revenu net comptable était respectivement de 11 859 554 $ et de 19 376 028 $, soit leur juste valeur marchande.
+c. Pour les exercices financiers terminés en date du 30 septembre 1998 et du 30 septembre 1999 de CGI, le montant des travaux en cours présenté à ses états financiers aux fins du calcul de son revenu net comptable était respectivement de 4 253 967 $ et de 858 356 $, soit leur juste valeur marchande.
+d. Pour son exercice financier terminé en date du 30 septembre 1998 de CDSL, le montant des travaux en cours présenté à ses états financiers aux fins du calcul de son revenu net comptable était de 1 693 060 $, soit leur juste valeur marchande.
+e. Aux fins comptables, les appelantes ont comptabilisé leurs travaux en cours sur une base d’exercice, laquelle tient compte de la portion de profit applicable aux travaux exécutés mais non encore facturés. La méthode ainsi utilisée par les appelantes, dite « d’avancement des travaux », est conforme aux principes comptables généralement reconnus.
+f. Pour ses exercices financiers terminés en date du 30 septembre 1998 et du 30 septembre 1999, le coût d’acquisition des travaux en cours de Systems était respectivement de 7 234 328 $ et de 11 819 377 $.
+g. Pour ses exercices financiers terminés en date du 30 septembre 1998 et du 30 septembre 1999, le coût d’acquisition des travaux en cours de CGI était respectivement de 2 594 920 $ et de 523 597 $.
+h. Pour l’exercice financier terminé en date du 30 septembre 1998, le coût d’acquisition des travaux en cours de CDSL était de 1 032 767 $.
+i. Aux fins du calcul de leur revenu net fiscal pour leurs exercices financiers respectifs en cause, les appelantes ont évalué leurs travaux en cours au moindre de leur coût et de leur juste valeur marchande à la fin de l’exercice, selon la méthode prévue au paragraphe 10(1) de la Loi de l’impôt sur le revenu, L.R.C. 1985, (5e supp.), c.1 (« Loi »). Cette méthode a pour effet de différer d’un an le paiement de l’impôt à payer des appelantes sur la portion « profit » de leurs travaux en cours[1].
+j. Le 5 janvier 2005, l’intimée a fait parvenir des avis de nouvelle cotisation à Systems relativement à ses années d’imposition 1998 et 1999.
+k. Le 19 mai 2005, l’intimée a fait parvenir des avis de nouvelle cotisation à CGI relativement à ses années d’imposition 1998 et 1999.
+l. Le 21 juin 2004, l’intimée a fait parvenir des avis de nouvelle cotisation à CDSL relativement à son année d’imposition 1998.
+m. Par sa nouvelle cotisation à l’égard de l’année d’imposition 1998 de Systems le Ministre a ajouté un montant de 4 625 226 $ dans le calcul de son revenu. Ce montant représente la différence entre la juste valeur marchande (11 859 554 $) et le coût (7 234 328 $) des travaux en cours de Systems pour son année d’imposition 1998.
+n. Par sa nouvelle cotisation à l’égard de l’année d’imposition 1998 de CGI l’intimée a ajouté un montant de 1 659 047 $ dans le calcul de son revenu. Ce montant représente la différence entre la juste valeur marchande (4 253 967 $) et le coût (2 594 920 $) des travaux en cours de CGI pour son année d’imposition 1998.
+o. Par sa nouvelle cotisation à l’égard de l’année d’imposition 1998 de CDSL l’intimée a ajouté un montant de 660 293 $ dans le calcul de son revenu. Ce montant représente la différence entre la juste valeur marchande (1 693 060 $) et le coût (1 032 767 $) des travaux en cours de CDSL pour son année d’imposition 1998.
+p. Par sa nouvelle cotisation à l’égard de l’année d’imposition 1999 de Systems, l’intimée a ajouté un montant de 2 931 425 $ dans le calcul de son revenu. Ce montant représente la différence entre l’ajustement net au titre des travaux en cours pour 1999 (7 556 651 $) et l’ajustement net au titre des travaux en cours pour 1998 (4 625 226 $).
+q. Par sa nouvelle cotisation à l’égard de l’année d’imposition 1999 de CGI, l’intimée a ajouté un montant de 334 759 $ dans le calcul de son revenu. Ce montant représente la différence entre la juste valeur marchande (858 356 $) et le coût (523 597 $) des travaux en cours de CGI pour son année d’imposition 1999. Cette nouvelle cotisation indiquait qu’aucun impôt n’était payable en réponse à cet ajustement.
+r. Systems a produit des avis d’opposition à l’encontre des avis de nouvelle cotisation relativement à ses années d’imposition 1998 et 1999, lesquels ont été ratifiés par l’intimée le 29 mars 2006 et le 30 mars 2006, respectivement.
+s. Le 26 août 2005, l’intimée a fait parvenir un avis de détermination/nouvelle détermination d’une perte à CGI relativement à son année d’imposition 1999, lequel tenait compte de l’ajout d’un montant de 334 759 $ dans le calcul de son revenu pour son année d’imposition 1999. L’intimée a par ailleurs déduit du revenu de CGI, pour son année d’imposition 1999, le montant de 1 659 047 $ qu’il a ajouté à son revenu pour son année d’imposition 1998.
+t. CGI a produit des avis d’opposition à l’encontre de l’avis de nouvelle cotisation relativement à son année d’imposition 1998 et de l’avis de détermination/nouvelle détermination d’une perte relativement à son année d’imposition 1999, lesquels ont été ratifiés par l’intimée le 12 avril 2006 et le 21 mars 2006, respectivement.
+u. CDSL a produit un avis d’opposition à l’encontre de l’avis de nouvelle cotisation relativement à son année d’imposition 1998, lequel a été ratifié par l’intimée le 11 avril 2006.
+[7] Les dispositions de la Loi qui nous intéressent sont les suivantes :
+ARTICLE 9 :
+(1) Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+[...]
+SECTION 9:
+(1) Subject to this Part, a taxpayer's income for a taxation year from a business or property is the taxpayer's profit from that business or property for the year.
+[...]
+ARTICLE 10 :
+(1) Pour le calcul du revenu d'un contribuable pour une année d'imposition tiré d'une entreprise qui n'est pas un projet comportant un risque ou une affaire de caractère commercial, les biens figurant à l'inventaire sont évalués à la fin de l'année soit à leur coût d'acquisition pour le contribuable ou, si elle est inférieure, à leur juste valeur marchande à la fin de l'année, soit selon les modalités réglementaires.
+[...]
+SECTION 10:
+(1) For the purpose of computing a taxpayer's income for a taxation year from a business that is not an adventure or concern in the nature of trade, property described in an inventory shall be valued at the end of the year at the cost at which the taxpayer acquired the property or its fair market value at the end of the year, whichever is lower, or in a prescribed manner.
+[...]
+(2) Malgré le paragraphe (1), pour le calcul du revenu tiré d'une entreprise au cours d'une année d'imposition, les biens figurant à un inventaire au début de l'année sont évalués au même montant que celui auquel ils ont été évalués à la fin de l'année d'imposition précédente pour le calcul du revenu de cette année précédente.
+(2) Notwithstanding subsection (1), for the purpose of computing income for a taxation year from a business, the inventory at the commencement of the year shall be valued at the same amount as the amount at which it was valued at the end of the preceding taxation year for the purpose of computing income for that preceding year.
+(2.1) La méthode, permise par le présent article selon laquelle les biens figurant à l'inventaire d'une entreprise d'un contribuable qui n'est pas un projet comportant un risque ou une affaire de caractère commercial sont évalués à la fin d'une année d'imposition doit servir, sous réserve du paragraphe (6), à évaluer les biens qui figurent à cet inventaire à la fin de l'année d'imposition subséquente pour le calcul du revenu que le contribuable tire de cette entreprise, sauf si celui-ci, avec l'accord du ministre et aux conditions précisées par ce dernier, adopte une autre méthode permise par le présent article.
+[...]
+(2.1) Where property described in an inventory of a taxpayer's business that is not an adventure or concern in the nature of trade is valued at the end of a taxation year in accordance with a method permitted under this section, that method shall, subject to subsection (6), be used in the valuation of property described in the inventory at the end of the following taxation year for the purpose of computing the taxpayer's income from the business unless the taxpayer, with the concurrence of the Minister and on any terms and conditions that are specified by the Minister, adopts another method permitted under this section.
+[...]
+(5) Sans préjudice de la portée générale du présent article:
+a) il demeure entendu que les biens (autres que les immobilisations) d'un contribuable qui sont des travaux en cours d'une entreprise qui est une profession libérale, du matériel de publicité ou d'emballage, des pièces ou des fournitures doivent figurer parmi les éléments portés à son inventaire;
+[...]
+(5) Without restricting the generality of this section,
+a) property (other than capital property) of a taxpayer that is advertising or packaging material, parts or supplies or work in progress of a business that is a profession is, for greater certainty, inventory of the taxpayer;
+[...]
+ARTICLE 34 :
+Les règles suivantes s'appliquent au calcul du revenu d'un contribuable pour une année d'imposition tiré d'une entreprise qui consiste en l'exercice de la profession de comptable, de dentiste, d'avocat, de médecin, de vétérinaire ou de chiropraticien:
+a) aucun montant n'est inclus pour le travail en cours à la fin de l'année, si le contribuable en fait le choix dans sa déclaration de revenu produite en vertu de la présente partie pour l'année;
+b) l'alinéa a) s'applique au calcul du revenu du contribuable tiré de l'entreprise pour les années d'imposition ultérieures, si celui-ci a fait le choix prévu au présent article, à moins qu'il ne le révoque en ce qui concerne l'application de cet alinéa avec l'accord du ministre et aux conditions fixées par ce dernier.
+SECTION 34:
+In computing the income of a taxpayer for a taxation year from a business that is the professional practice of an accountant, dentist, lawyer, medical doctor, veterinarian or chiropractor, the following rules apply:
+a) where the taxpayer so elects in the taxpayer's return of income under this Part for the year, there shall not be included any amount in respect of work in progress at the end of the year; and
+b) where the taxpayer has made an election under this section, paragraph (a) shall apply in computing the taxpayer's income from the business for all subsequent taxation years unless the taxpayer, with the concurrence of the Minister and on such terms and conditions as are specified by the Minister, revokes the election to have that paragraph apply.
+[8] On a soulevé que la seule question devant moi est à savoir si l'article 10 de la Loi a préséance sur le paragraphe 9(1). Le paragraphe 9(1) de la Loi est soumis aux autres dispositions de la Partie I de la Loi. Le paragraphe 9(1) explique que le revenu d'un contribuable tiré d'une entreprise ou d'un bien est le bénéfice qu'il en tire. Pour sa part, l’article 10 détermine comment les biens figurant à l'inventaire d'une entreprise qui n'est pas un projet comportant un risque ou une affaire de caractère commercial, doivent être évalués dans le calcul du revenu d'un contribuable tiré d’une telle entreprise. Les autres dispositions de la Partie I de la Loi dirigent, par exemple, quelles catégories de revenus et de dépenses sont à inclure et exclure dans le calcul du revenu. Ce n'est pas une question de préséance entre les dispositions de la Loi. Je ne crois pas qu'il faille se poser la question à savoir lequel du paragraphe 9(1) ou de l'article 10 de la Loi doit l'emporter. Dans l'affaire Canada c. Cyprus Anvil Mining Corp.[2], monsieur le juge Urie n'a pas cru « que l'on puisse prétendre que le paragraphe 10(1) est une disposition précise qui l'emporte sur la disposition générale, l'article 9. » Ces deux dispositions peuvent travailler de pairs.
+[9] Le contribuable qui exerce une entreprise doit déterminer le bénéfice de l'entreprise en vertu de l'article 9. Pour ce qui est de l'article 10, monsieur le juge Major a dit dans l'affaire Friesen c. Canada[3] :
+D'après le sens ordinaire de cet article, il s'agit d'une disposition impérative qui oblige le contribuable, lors du calcul de son retenu tiré d'une entreprise, à évaluer les biens figurant dans l'inventaire au moindre de leur coût et de leur valeur marchande, ou d'une autre façon permise par les règlements. Par conséquent, le contribuable doit, à première vue, satisfaire à deux exigences pour pouvoir recourir à cet article: le projet en cause doit être une « entreprise » et la propriété en question doit être un « bien figurant dans un inventaire ».
+The plain reading of this section is that it is a mandatory provision requiring a taxpayer who computes income from a business to value the inventory at the lower of cost or market value or as permitted by regulation. Thus, prima facie, the taxpayer must meet two requirements in order to use this section: the venture at issue must be a "business" and the property in question must be "inventory".
+[10] Ces deux exigences sont satisfaites dans ces appels et l'article 10 est donc applicable en l'espèce. L'intimée ne conteste pas que les appelantes répondent aux critères d'application de l'article 10, mais plutôt l'interprétation qu'elles en font qui fait en sorte qu'elles ne déclarent aucun revenu quant à leurs travaux en cours.
+[11] Comme j'ai indiqué préalablement, le paragraphe 9(1) est une disposition générale selon laquelle le revenu d'une entreprise constitue son bénéfice tandis que l'article 10 vise plus spécifiquement l'évaluation de l'inventaire d'une entreprise. Il n'y a pas de définition du mot « bénéfice » dans la Loi. Ce sont les tribunaux qui sont tenus de préciser en quoi cela consiste.
+[12] Monsieur le juge Iacobucci analyse les principes généraux du calcul du bénéfice dans l'affaire Canderel Ltée c. Canada[4]. Au paragraphe 53, il a résumé les principes de son analyse :
+(1) La détermination du bénéfice est une question de droit.
+(2) Le bénéfice tiré d'une entreprise pour une année d'imposition est déterminé en déduisant des revenus tirés de l'entreprise pour l'année en question les dépenses engagées pour gagner ces revenus : M.N.R. c. Irwin, [...], Associated Investors, [...][5].
+(3) Dans la détermination du bénéfice, l'objectif est d'obtenir une image fidèle du bénéfice du contribuable pour l'année visée.
+(4) Dans la détermination du bénéfice, le contribuable est libre d'adopter toute méthode qui n'est pas incompatible avec:
+a) les dispositions de la Loi de l'impôt sur le revenu;
+b) les principes dégagés de la jurisprudence ou les « règles de droit » établis;
+c) les principes commerciaux reconnus.
+(5) Les principes commerciaux reconnus, notamment ceux codifiés formellement dans les PCGR, ne sont pas des règles de droit mais des outils d'interprétation. Dans la mesure où ils peuvent influencer le calcul du revenu, ils ne le feront qu'au cas par cas, selon les faits relatifs à la situation financière du contribuable.
+(6) En cas de nouvelle cotisation, une fois que le contribuable a prouvé qu'il a donné une image fidèle de son revenu pour l'année, image qui est compatible avec la Loi, la jurisprudence et les principes commerciaux reconnus, il incombe alors au ministre de prouver que le chiffre fourni ne donne pas une image fidèle ou qu'une autre méthode de calcul fournirait une image plus fidèle.
+(1) The determination of profit is a question of law.
+(2) The profit of a business for a taxation year is to be determined by setting against the revenues from the business for that year the expenses incurred in earning said income: M.N.R. v. Irwin, [...], Associated Investors, [...].
+(3) In seeking to ascertain profit, the goal is to obtain an accurate picture of the taxpayer's profit for the given year.
+(4) In ascertaining profit, the taxpayer is free to adopt any method which is not inconsistent with
+(a) the provisions of the Income Tax Act;
+(b) established case law principles or "rules of law"; and
+(c) well-accepted business principles.
+(5) Well-accepted business principles, which include but are not limited to the formal codification, found in GAAP, are not rules of law but interpretive aids. To the extent that they may influence the calculation of income, they will do so only on a case-by-case basis, depending on the facts of the taxpayer's financial situation.
+(6) On reassessment, once the taxpayer has shown that he has provided an accurate picture of income for the year, which is consistent with the Act, the case law, and well-accepted business principles, the onus shifts to the Minister to show either that the figure provided does not represent an accurate picture, or that another method of computation would provide a more accurate picture.
+[13] Ainsi, la méthode choisie par un contribuable pour établir son bénéfice doit donner une « image fidèle » de la situation financière de son entreprise.
+[14] Pour une entreprise possédant de l’inventaire, il faut bien sûr considérer l’inventaire dans le calcul du bénéfice. Les passages suivants de l’arrêt Friesen c. Canada[6] du juge Major expliquent comment considérer l’inventaire dans ce calcul :
+21 Réduit à sa plus simple expression, le revenu ou le bénéfice tiré de la vente d'un seul article d'inventaire par une entreprise commerciale est, selon la formule d'identification ordinaire, calculé en soustrayant le coût de son acquisition du produit de sa vente. C'est la formule de base qui s'applique au calcul du bénéfice avant que n'entre en ligne de compte la valeur des biens figurant dans un inventaire, comme l'a clairement affirmé le juge Abbott dans l'arrêt Minister of National Revenue c. Irwin, [1964] R.C.S. 662, aux pp. 664 et 665 :
+[Traduction] D'après la loi, il est donc clair qu'aux fins de l'impôt sur le revenu, dans le cas d'une entreprise consacrée à acquérir des biens et à les revendre, le bénéfice brut s'établit selon l'excédent du prix de vente sur le coût, sous réserve uniquement de toute modification due à la règle du « moindre du coût et de la valeur marchande ».
+Par conséquent, pour tout article particulier :
+Revenu = bénéfice = prix de vente - coût d'acquisition.
+[…]
+42 Pour calculer son bénéfice en vertu de l'art. 9 de la Loi de l'impôt sur le revenu, une entreprise calcule d'abord son bénéfice brut, puis en soustrait ses frais d'exploitation et autres frais déductibles. En vertu des principes reconnus de la pratique des affaires et de la pratique comptable, le bénéfice brut d'une entreprise de vente est calculé selon la formule suivante:
+bénéfice brut = produit des ventes - coût des ventes
+et:
+coût des ventes = (valeur des biens figurant dans l'inventaire au début de l'année + coût des acquisitions) - valeur des biens figurant dans l'inventaire à la fin de l'année.
+Par conséquent, pour une entreprise de vente:
+bénéfice brut = produit des ventes - [(valeur des biens figurant dans l'inventaire au début de l'année + coût des acquisitions) - valeur des biens figurant dans l'inventaire à la fin de l'année].
+43 Cette formule a été conçue à l'origine pour des sociétés qui comptaient un inventaire important à une époque où l'informatique ne permettait pas d'identifier facilement le coût précis de chaque article. La formule permettait aux entreprises de calculer leur bénéfice brut en fonction d'une seule évaluation des biens figurant dans l'inventaire chaque année au lieu de tenir des registres permanents détaillés. C'est plutôt un anachronisme à une époque où la plupart des entreprises qui comptent un inventaire important suivent de près à la fois le coût et le prix de vente de chaque article grâce à l'informatique. Un moment de réflexion amène toutefois à conclure que cette formule n'est qu'un abrégé pratique d'un processus à deux étapes qui reconnaît le bénéfice comme l'excédent du produit des ventes sur la valeur des biens figurant dans l'inventaire qui ont été vendus durant l'année et la variation de la valeur des biens figurant dans l'inventaire qui sont encore détenus à la fin de l'année. Par conséquent, la formule pourrait également être la suivante:
+bénéfice brut = (produit des ventes - valeur des biens figurant dans l'inventaire qui ont été vendus) + variation de la valeur des biens invendus figurant dans l'inventaire.
+21 Reduced to its simplest terms, the income or profit from the sale of a single item of inventory by a sales business is the ordinary tracing formula calculated by subtracting the purchase cost of the item from the proceeds of sale. This is the basic formula which applies to the calculation of profit before the value of inventory is taken into account, as is made clear by Abbott J. in Minister of National Revenue v. Irwin, [1964] S.C.R. 662, at pp. 664-65:
+The law is clear therefore that for income tax purposes gross profit, in the case of a business which consists of acquiring property and reselling it, is the excess of sale price over cost, subject only to any modification effected by the "cost or market, whichever is lower" rule.
+Thus, for any particular item:
+Income = Profit = Sale Price - Purchase Cost.
+. . .
+42 In calculating profit under s. 9 of the Income Tax Act, a business calculates its gross profit and then subtracts allowable operating and non-operating expenses. Under well-accepted principles of business and accounting practice gross profit for a business involved in sale is calculated according to the following formula:
+Gross Profit = Proceeds of Sale - Cost of Sale
+and:
+Cost of Sale = (Value of Inventory at beginning of year + Cost of Inventory acquisitions) - Value of Inventory at end of year.
+Thus for a business involved in sales:
+Gross Profit = Proceeds of Sale - [(Value of Inventory at beginning of year + Cost of Inventory acquisitions) - Value of Inventory at end of year].
+43 This formula was originally designed for companies with significant inventories at a time when computer technology did not allow the specific cost of each item to be easily traced on an individual basis. The formula allowed a business to calculate gross profit on the basis of a single inventory valuation each year rather than keeping detailed ongoing records. It is rather an anachronism in an age where most businesses with significant inventories carefully track both the cost and sale price of each item by means of computer technology. A moment of thought, however, will lead to the conclusion that this formula is merely a convenient shorthand for a two-step process which recognizes profit as the excess of sale proceeds over value for inventory sold in the year and the change in the value of inventory still on hand at the end of the year. Thus the formula could equally be expressed as:
+Gross Profit = (Proceeds of Sale - Value of Inventory Sold) + Change in Value of Unsold Inventory.
+[15] Pour adapter cette formule à une entreprise de service, on peut dire que pour déterminer le revenu d’une entreprise possédant de l’inventaire, il faut soustraire des ventes de l’entreprise, le coût relié à ces ventes (le coût relié aux services rendus).
+[16] En l’espèce, étant donné qu’on ne peut pas « conserver » des services, l’inventaire de début et de fin est de zéro. Il n’y a que le coût (si c’est ce qui représente le moindre entre le coût et la juste valeur marchande) des services rendus pendant l’année qui entre en jeu.
+[17] La détermination du montant de l’inventaire est donc une étape du processus nécessaire à l’établissement du revenu d’une entreprise et non une autre façon de déterminer le revenu. L’article 10 ne fait que préciser comment évaluer cet inventaire. Selon l’article 10, l’inventaire doit être comptabilisé au moindre de sa juste valeur marchande et de son coût, mais l'article 1801 du Règlement de l'impôt sur le revenu vient permettre l’utilisation de la juste valeur marchande en tout temps. Peu importe la méthode choisie, le paragraphe 10(2.1) fait en sorte qu’à moins d’obtenir l’accord du Ministre, un contribuable doit utiliser la même méthode d’année en année. De plus, le paragraphe 10(2) vient préciser que le montant de l’inventaire au début de l’année doit être le même que celui à la fin de l’année précédente.
+[18] Au niveau fiscal, les appelantes ont utilisé cette méthode, mais ont aussi pris une déduction (réserve) à l’encontre de leur bénéfice pour différer l’inclusion des profits reliés aux travaux en cours. Elles ont pris cette réserve à la ligne 235 (Autres provisions d'impôts) de l'annexe 13 (continuité des réserves) de leur Formulaire T2 (Déclaration de revenus des sociétés). Ce montant a ensuite été transféré à la ligne 413 (Réserves fiscales demandées dans l'année courante—annexe 13) de l'annexe 1 – (Revenu net (perte nette) aux fins de l'impôt sur le revenu) de leur Formulaire T2. Elles ont renversé cette réserve l'année suivante (ligne 230 de l'annexe 13 et 125 de l'annexe 1) pour en prendre une nouvelle. Cette pratique a pour effet de différer d’un an l’inclusion du profit relié aux travaux en cours. Au lieu de déclarer leurs revenus sur la base de leurs revenus gagnés, ils se sont plutôt imposés sur la base de leurs revenus facturés. C’est là que se situe le problème car rien dans la Loi ne permet la déduction d'une telle réserve.
+[19] Rien dans l’article 10 ne vient mentionner qu’il faille exclure les profits provenant des travaux en cours. L’article 10 ne donne pas droit à une déduction[7]. Les juges Major et Iacobucci sont d'accord que « la méthode d'évaluation établie au paragraphe 10(1) ne prévoit pas une déduction automatique du revenu, ni qu'un contribuable ayant des biens figurant dans un inventaire peut déduire toute perte de juste valeur marchande qui en découle »[8].
+[20] Selon le juge Major, « le paragraphe 10(1) précise plutôt comment l'évaluation doit se faire lorsque les principes comptables et commerciaux ordinaires établissent que la valeur des biens figurant dans un inventaire entre dans le calcul du revenu d'entreprise pour une année d'imposition »[9].
+[21] L'article 10 ne fait donc que préciser la façon d’évaluer des biens en inventaire. Ce n’est que dans le cas où la juste valeur marchande des biens est inférieure au coût que l’article 10 permet indirectement de constater une perte avant la disposition réelle des biens en inventaire. Au paragraphe 60 de Friesen, précité, le juge Major déclare que l'objet du paragraphe 10(1) est « d'empêcher des entreprises d'augmenter artificiellement la valeur des biens figurant dans leur inventaire, en continuant de les détenir au prix coûtant alors que leur valeur marchande est déjà devenue inférieure au prix coûtant ». Ce résultat est conforme au principe comptable de la prudence.
+[22] Ainsi, l’article 10 vient seulement déterminer la façon de comptabiliser l’inventaire à utiliser dans le calcul du revenu prévu au paragraphe 9(1) et ne fait pas en sorte qu’il faille faire fit des profits tirés des travaux en cours. Encore une fois, cet article traite seulement de la façon dont il faut comptabiliser l’inventaire pour fins fiscales. Arriver à une conclusion contraire enlèverait tout son sens à l’article 34. Étant donné qu’il est de plus bien établi que le législateur ne parle pas pour rien dire, une telle conclusion ne devrait pas être prise à la légère[10].
+[23] L'article 34 prévoit un choix pour certains professionnels afin de ne pas inclure dans le calcul de leur revenu de montants concernant leurs travaux en cours. Le paragraphe 10(5) prévoit spécifiquement que des travaux en cours d'une entreprise qui est une profession libérale font partis de l’inventaire. L’article 10 s’applique donc lorsque l’article 34 s’applique. Si, comme le prétendent les appelantes, l’article 10 permettait d’exclure la partie profit des travaux en cours du calcul du revenu, l’article 34 n’aurait pas sa raison d’être.
+[24] Ce n’est cependant pas l’interprétation que l’on doit faire de l’article 10. En regardant les notes historiques de l’article 34, on peut noter que l’ancien article 34 prévoyait précisément que l’alinéa 12(1)b) ne s’appliquait pas lorsque l’article 34 s’appliquait. Il semblerait que cette modification ait été effectuée pour éliminer la redondance qui existait entre les deux dispositions.
+[25] L’alinéa 12(1)b) a depuis été modifié et semble maintenant ne s’appliquer que dans les cas où un contribuable utiliserait la comptabilité d’exercice. Peu importe, il a été décidé que l’alinéa 12(1)b) en combinaison avec le paragraphe 12(2) ne venait pas limiter l’application de l’article 9 et que les sommes à recevoir devaient continuer à être incluses dans le revenu d’une entreprise d’un contribuable lorsque ce dernier utilisait la comptabilité d’exercice[11].
+[26] Tel que mentionné dans Canderel, précité, l’utilisation des PCGR est acceptable et peut être utilisée lorsque la Loi ne prévoit pas autrement et ne pourrait pas contrecarrer l’application claire des dispositions de la Loi. Les dispositions de la Loi, par exemple l’article 34, font parfois en sorte que l’on s’éloigne du principe voulant que l’on ait une image fidèle de l’entreprise du contribuable. Néanmoins, il arrive comme en l’espèce, que les PCGR dictent le même résultat que ce qui est prévu dans la Loi.
+[27] Je trouve que la méthode de calcul utilisée dans les états financiers des appelantes fournie une image plus fidèle des bénéfices des appelantes pour les années en litige.
+[28] Les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 25e jour de février 2008.
+« Gerald J. Rip »
+Juge en chef adjoint Rip
+RÉFÉRENCE : 2008CCI106
+Nº DU DOSSIER DE LA COUR : 2006-1596(IT)G, 2006-1597(IT)G et
+2006-1605 (IT)G
+INTITULÉ DE LA CAUSE : CDSL CANADA LIMITED c. SA MAJESTÉ LA REINE
+GROUPE CGI INC./CGI GROUP INC. c. SA MAJESTÉ LA REINE
+CGI INFORMATION SYSTEMS AND MANAGEMENT CONSULTANTS INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 6 novembre 2007
+MOTIFS DU JUGEMENT PAR : L'honorable Gerald J. Rip, juge en chef adjoint
+DATE DU JUGEMENT : le 25 février 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Wilfrid Lefebvre
+Avocate de l'intimée :
+Me Marie-Andrée Legault
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Wilfrid Lefebvre
+Cabinet : Ogilvie Renault
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Il me paraît que l'interprétation du paragraphe 10(1) n'est pas un fait mais une conclusion de droit. Les parties peuvent s'entendre sur les faits, mais pas sur une conclusion de droit. C'est la tâche du juge.
+[2] [1989] A.C.F. no 1146 (QL), au para. 22.
+[3] [1995] 3 R.C.S. 103, au para. 12.
+[4] [1998] 1 R.C.S. 147, aux para. 28 à 53.
+[5] M.N.R. v. Irwin, [1964] R.C.S. 662; Associated Investors v. M.N.R., [1967] 2 R.C. de l'É. 96.
+[6] [1995] A.C.S. no 71 (QL).
+[7] Voir Friesen, précité, aux para. 39 et 40.
+[8] Idem, au para. 39.
+[9] Idem.
+[10] Voir Delisle c. R., 2005 CarswellNat 399, 2005 CCI 140, 2005 DTC 332 (Fr.), 2006 DTC 3002 (15 et Maritime Telegraph and Telephone Co. c. Canada (C.A.), [1992] 1 C.F. 753, [1992] A.C.F. no 131 Eng.) (juge Lamarre, informelle), au para. 15.
+[11] West Kootenay Power & Light Co. v. R., 1991 CarswellNat 672, [1992] 1 C.T.C. 15, [1992] 1 F.C. 732, 136 N.R. 146, 53 F.T.R. 42, 92 DTC 6023, [1992] 1 F.C. 732, 53 F.T.R. 42 (note), au para. 32.

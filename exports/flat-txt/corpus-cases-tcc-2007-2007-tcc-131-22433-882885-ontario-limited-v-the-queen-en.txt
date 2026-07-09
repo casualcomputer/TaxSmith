@@ -1,0 +1,322 @@
+Title: 882885 Ontario Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22433/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-131-22433-882885-ontario-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-03-05
+
+# 882885 Ontario Limited v. The Queen
+
+- Citation: 2007 TCC 131
+- Decision date: 2007-03-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2224, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+882885 Ontario Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-05
+Neutral citation
+2007 TCC 131
+File numbers
+2001-1190(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-1190(IT)G
+BETWEEN:
+882885 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on December 15 and 16, 2005 and December 13, 2006, at Windsor, Ontario
+Before: The Honourable Gerald J. Rip, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Arthur M. Barat, Q.C. and
+Sherry-Lynn Medaglia
+Counsel for the Respondent:
+Charles Camirand
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act ("Act") for the 1993 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the fair market value of the gift of property in 1993 by the appellant to the City of Windsor was $323,074.
+The appeals from the assessments made under the Act for the 1994 and 1995 taxation years are dismissed.
+Counsel are to make submissions in writing as to costs by May 1, 2007.
+Signed at Ottawa, Canada, this 5th day of March 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+Citation: 2007TCC131
+Date: 20070305
+Docket: 2001-1190(IT)G
+BETWEEN:
+882885 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, A.C.J.
+[1] The issue in this appeal is whether the appellant 882885 Ontario Limited made a gift, and if so, of what value, to the City of Windsorin 1993 when it sold real property to the City for consideration that included a charitable donation receipt. The purchase price for the property was $1,175,000; the purchase price comprised three components, $175,000 cash on closing, a $450,000 mortgage repayable in three equal annual instalments and a charitable donation tax receipt from the City of Windsorin the amount of $550,000.
+[2] The appellant filed its 1993 tax return reporting a capital gain on the transaction of $571,548 (i.e., a taxable capital gain of $428,661) and claimed a charitable donation in the amount of $550,000, deducting the amount of $340,632 as a charitable donation for 1993. The appellant carried forward the balance of the $550,000 to 1994 in the amount of $205,687 and to 1995 in the amount of $3,681.
+[3] In assessing, the Minister of National Revenue ("Minister") assumed that the fair market value of the subject property at date of sale, February 23, 1993, did not exceed $810,000 and determined that the fair market value of that portion of the property that was a gift to the City of Windsor was $185,000, that is the difference between the fair market value of all of the property, $810,000, and the amount of cash paid on closing, $175,000, plus $450,000 represented by the mortgage. In accordance with paragraph 110.1(1)(a)(iv) of the Income Tax Act ("Act") the Minister allowed the appellant, in computing its taxable income for 1993, to deduct only $185,000.[1] The Minister also reduced the capital gain in 1993 to $206,548 (a taxable capital gain of $154,911). There was no carry-forward of the charitable donation to either 1994 or 1995.
+[4] The Minister submitted an alternative argument in that the stated consideration of $1,175,000 was a sham and did not reflect the true consideration given for the subject property. In the Minister's view, the appellant and the City of Windsorhad a common interest in reducing the price for the property by inflating the consideration at no cost to the City by issuing a charitable donation receipt.
+[5] The property in question is located at 185 Wyandotte Street East, corner of Windsor Avenue, in downtown Windsor, near the present Casino and about 400 feet from the Windsor-Detroit tunnel. The land size of the property is 0.59 acres, approximately 29,909 square feet, and the building on the property, previously used as an Arby's fast food restaurant, had an area of 2,908 square feet ("Property").
+Consideration given of the Property
+[6] Mr. Alphonso Fanelli, retired at time of trial, was in the land development business, as was the appellant corporation. Mr. Fanelli's wife, Susan, owned 90% of the shares of the appellant and is the company's sole director. Mr. Fanelli said he helps his wife out but it was he who negotiated the sale of the Property with the City of Windsorand who, I believe, actually operates the appellant.
+[7] Sometime in 1988 or 1989, the Property was owned by a person dealing at arm's length with the appellant. The erstwhile owner of the Property contracted with Delco Contractors ("Delco"), a corporation then owned by Mr. Fanelli and a Mr. Mancini[2] to build a fast food restaurant for the operation of an Arby's franchise. At some point in time - the evidence is not clear - 971043 Ontario Limited, a corporation whose shares were owned by the wives of Mr. Fanelli and Mr. Mancini, became the mortgagee of the Property.
+[8] The restaurant opened for business, there were financial problems and, Mr. Fanelli testified, the franchisee of the restaurant, Mr. Merklinger, died. Nobody in the deceased's family wanted to continue the operation of the restaurant. The mortgagee took possession of the Property in February 1992 and Mr. Fanelli began to look for a purchaser. He viewed the Property - land and building - to have a value of between $1.375 million and $1.4 million. The mortgage arrears on the Property at time of possession were $561,734.
+[9] The appellant acquired the Property in February 1993 when it exercised an option to purchase the property for $600,000. The option had been granted to it by 971043 Ontario Limited.
+[10] The Property was attractive to the City of Windsor. The City was searching for a property that would be a facility for its Parking Operation Division. The building already on the Property had a "drive through" component that would permit drivers to pay fines from their car, for example. This served the City's purpose and the Property's location was ideal for its purposes.
+[11] Mr. Bill Salzer of the Property Department of the City of Windsorapproached Mr. Fanelli in 1992 to purchase the Property. Mr. Salzer and Mr. Fanelli negotiated a purchase price. Mr. Salzer recalled that $1,400,000, Mr. Fanelli's original asking price, was too much for the City. He could justify only $1,100,000. Eventually, according to Mr. Fanelli, the City offered a charitable donation receipt. Mr. Fanelli took the offer to his accountant to determine what the charitable receipt would mean in dollars.
+[12] The appellant agreed on a price of $1,100,000 because Mr. Fanelli said, the sale was commission free and the building was to be sold "as is". Mr. Salzer then asked for some "minor conversion alterations". A Fanelli family company, Marathon Concepts Inc., operating as Marathon Contractors, made a proposal to undertake the alterations at a cost of $49,000. Unfortunately, again according to Mr. Fanelli, the City of Windsordid not have $49,000 available for this purpose. Marathon made a second proposal for approximately $25,000. Mr. Fanelli said the second proposal reflected a tax receipt of $50,000. The City agreed to pay $25,000 and issue a tax receipt for $50,000. (The total sale price for the subject property, for purposes of the appeal is $1,100,000 plus $75,000, that is $1,175,000, the charitable donation receipt is the aggregate of $500,000 and $50,000.)
+[13] In a letter dated December 15, 1992, Mrs. Fanelli wrote to the City of Windsor, Property Department, suggesting three possible ways of structuring the sale of the Property. The first option (A) was to sell the Property for $1,100,000 with a cash payment of $150,000 on each of March 1, 1993 and on January 1st in each of 1994, 1995 and 1996 together with a charitable donation receipt of $500,000. The second option (B) was a sale of the Property for $725,000 to close on March 1, 1993. Mr. Fanelli testified that he was not looking to sell the Property for $725,000 and an "all cash" purchase price was not an option for the City. He said a "cash deal" was never discussed. The third option (C) was a five year lease to the City at an annual rent of $72,500 per year "triple net basis", with options to renew or purchase at fair market value.
+[14] Mr. Fanelli stated that the letter was written for the benefit of Mr. Salzer to discuss with City Council. Indeed, Mr. Fanelli testified, it was Mr. Salzer who told him what to write in the letter. Mr. Salzer did not deny this and in his evidence stated that "concentration" was in the first option. He admitted that "it happens" that you put in options to City Council that are not really in issue.
+[15] Mr. Salzer no longer works for the City of Windsor. He has been an accredited member of the Appraisal Institute of Canada since 1979. He worked as a real estate appraiser with Revenue Canadafrom May 1973 to December 1993. He left the City of Windsor's employ in September 2000. At time of trial he was employed as a project developer at a Fanelli family owned corporation, referred to as Mastercraft.
+[16] During the course of his employment with the City of Windsor, Mr. Salzer became aware that there was an "unforeseen boom" in Windsorduring the years 1990, 1991 and 1992. Land was expropriated for a still unconstructed arena, the City of Windsortook over ownership of part of the Detroit-Windsor Tunnel in 1990 and expanded the plaza on the entrance-exit area to and from the tunnel. He estimated that during this period the land near the Property was being sold for a "ballpark figure" of between $40 to $50 per square foot.
+[17] Mr. Salzer testified that it was his job at the City of Windsorto obtain land as cheap as possible. He said he structured the transaction in question. Mr. Fanelli valued the subject property at $1,400,000. Had the Traffic Operation Division site at the time at 444 Windsor Avenue been in good order, Mr. Salzer said, the City would not have been interested in the subject property. The City, he recalled, would agree to a "ballpark figure" of $1,100,000 plus $50,000 for renovation but did not have this money budgeted to acquire the property. He said the City would not pay more than fair market value. His supervisor, John Boyer, the Commissioner of Finance for Windsor, J. Pinsoneault, and himself came up with the idea of a charitable donation receipt. There were at least two other transactions in which the City of Windsorused charitable donation receipts. However, he conceded that on both occasions, the donor donated land to the City; they were not commercial transactions.
+[18] With respect to the letter of December 15, 1992 from Mrs. Fanelli, Mr. Salzer said that two of the three options were not workable: the City of Windsorusually does not lease property and the City did not have $750,000 available to pay on closing.
+[19] Mr. Salzer explained that the City may pay more to a landowner when a property is expropriated than through a sale. In the case at bar, he declared, the price was market driven, there was no threat of expropriation.
+[20] A municipal government and its citizens deal with each other at arm's length. In the appeal at bar, the Canadian Customs and Revenue Agency, the predecessor to the Canada Revenue Agency ("CRA"), (which in turn was the predecessor to Revenue Canada), acknowledged in a letter of July 12, 2000, addressed to the appellant's accountant, Mr. Franco Mancini, that:
+"We accept that the transaction between 882885 [Ontario Limited] and The Corporation of the City of Windsor . . . is a defacto arm's length transaction."
+"However", the writer of the letter added:
+". . . it does not necessarily follow that the stated transfer price was either at fair market value or for arm's length consideration. As you are aware, the consideration exchanged included both cash and a charitable donation receipt. The charitable donation receipt is in no manner a normal business means of settling a sale of property."
+The writer was concerned that:
+"There is no cost to the City for the issuance of the charitable receipt."
+[21] Before me the parties dispute the fair market value of the Property on February 23, 1993, the date of the transaction. The Property sold for "a stated price" of $1,175,000; this fact was assumed by the Minister on assessing. However, notwithstanding a "stated price" negotiated by parties at arm's length, the Minister effectively assessed the appellant on the basis that the value of the Property on the date of the transaction was $810,000.
+[22] If the fair market value of the subject property in February 1993 was greater than the aggregate of the cash portion of the purchase, the mortgage-back and the alterations ($175,000 + $450,000 + $75,000), that excess was satisfied by a charitable donation. The question is how much was the excess. To determine this amount, I must determine the value of the Property at date of sale to the City of Windsor.
+[23] Ray Bower is an experienced land appraiser in Windsor and a member of the Appraisal Institute of Canada. Respondent's counsel did not object to him being qualified as an expert witness, a valuator of real estate.
+[24] Mr. Bower made a preliminary report on behalf of the appellant "to establish a most probable sales price range" of the subject property "as though vacant" as of February 1993 and concluded that "if a self-contained Appraisal Report were made as of February 1999 the final estimate of market value . . . would probably be approximately $970,000".
+[25] Mr. Bower defined "most probable sale price" as follows:
+The most probable price which a [real] property should bring in a competitive and open market under all conditions requisite to a fair sale, the buyer and seller each acting prudently and knowledgeably, and assuming the price is not affected by undue stimuli. Implicit in this definition is the consummation of a sale as of a specified date and the passing of title from seller to buyer under conditions whereby:
+1. buyer and seller are typically motivated
+2. both parties are well informed or well advised, and acting in what they consider their best interests
+3. a reasonable time is allowed for exposure in the open market
+4. payment is made in terms of cash in Canadian dollars or in terms of financial arrangements comparable thereto
+5. the price represents the normal consideration for the property sold unaffected by special or creative financing or sales concessions granted by anyone associated with the sale.
+[26] According to Mr. Bower at the time of the transaction in question Windsorwas experiencing a favourable economy. For example, Chrysler, Ford and General Motors announced "significant" investments in their Windsor operations, the value of commercial construction in Windsor-Essex had increased in 1992 for the first time since 1987, the Ontario government announced in 1992 that Windsor had been selected as a test site for a government operated gambling casino and plans were approved in 1992 for a new and expended tunnel plaza to cost $20,000,000 and for a downtown waterfront park. It was anticipated that these and other plans would have spin-offs for other downtown businesses.
+[27] The Property was zoned Commercial District 3.3 ("CD3.3 commercial") which permitted a myriad of businesses and other uses, including restaurants, service station, gas bar, church, tavern, hotel, public parking area and warehouse.
+[28] The frontage of the Property was 67.59 feet on Wyandotte Street East, and had access from both Wyandotte Street and Windsor Avenue.
+[29] Mr. Bower found that the highest and best use for the Property "as though vacant" was for the variety of uses for which it was zoned.
+[30] The Property was valued by Mr. Bower by applying the comparative sales method. A good comparable, according to Mr. Bower, is one that would be a reasonable alternative for most prospective buyers who would be interested in the subject property. He examined eight sales of other property that took place between 1987 and 1994. These sales represent vacant commercial lands containing between 8,018 square feet and 42,447 square feet and were all in Windsor's downtown business district within eight blocks of the subject property.
+[31] The eight properties compared to the subject property are:
+1) 245 Ouellette Avenue. This property situated on Windsor's main street and consisted of 19,306 square feet. The property was sold in August 1990 to the Royal Bank of Canadafor $1,750,000, or $90.65 per square foot. A building that previously housed a Kresge Store was demolished by the purchaser and in February 1993, the property was being used as a parking lot. All of the purchase price was for land. This property is about six blocks from the subject property and Mr. Bower considered it superior to the subject property with respect to location.
+[32] Mr. Joseph Udvari, retired appraiser with the CRA, but working part-time in its Londonoffice, testified as a witness for the Crown. He too is a member of the Appraisal Institute of Canada and was qualified as an expert.
+[33] Mr. Udvari testified that there had been a fire in the building on Mr. Bower's first comparison property. The Royal Bank of Canadatore down the building. However, there were PCB problems with the property which cost an excess of $2.5 million to clean up.
+[34] In his evidence Mr. Fanelli also referred to the Royal Bank of Canadaproperty. One of the Fanelli family companies purchased the property from the Royal Bank of Canadafor $1,000,000, and constructed a building at a cost of $5,000,000 on the property, two floors of which it rents to the Royal Bank of Canada. Prior to purchasing the property Mr. Fanelli had Mr. Bower appraise its value, which he determined to be $970,000 for the land.
+[35] 2) 465 Windsoris a property of 9,895 square feet was assembled in four purchases during the years 1987 to 1991 inclusive. The aggregate purchase price of $612,500 was paid by the Windsor Municipal Employees Credit Union. The property was zoned CD3.1 commercial. The price per square foot was $61.90. This property is across the street from the subject property, North of Wyandotte Street.
+[36] Michael Stamp, Senior Property Agent for the City of Windsor, who is responsible for buying and selling most of the property in which the City is a party, stated that before the purchases there were three homes on the property, all since demolished. Today, he said, the land is vacant. In his report, Mr. Bower noted the property was "redeveloped into offices". The City of Windsorentered into negotiations in about 2003 to purchase the property but opted not to do so.
+[37] Mr. Udvari did not consider this property as a true comparable. The first sale was five years removed from the date of the transaction in issue. Some of the properties in the land assembly had older homes and the people living in them wanted to replace what they had and were paid to purchase the replacement homes.
+[38] Mr. Bower noted that the property's area is less than that of the subject property and that usually a larger area has less value per square foot than a smaller area.
+[39] 3) City Hall Square was sold by the City of Windsorin March 1993 to Management Board of Cabinet, the Ontario Government, for $495,500. The area was 8,930 square feet ($51.46 per square foot) and was zoned CD3.1 commercial. The site, at Park Street and Windsor Avenue near City Hall, was used as a parking lot for a Provincial Tourist Office.
+[40] Mr. Bower said that when government buys or sells, property appraisals are made and there is due diligence by both parties.
+[41] Mr. Udvari testified that the property was part of an existing park, SenatorCroll Park. In his view, the purchase price does not represent market value: the City would not sell parkland to a private person. Mr. Stamp stated that parkland is rarely sold.
+[42] 4) 65 Park Street East having an area of 12,165 square feet, was sold by the Roman Catholic Episcopal Corporation to the City of Windsor in June 1993 for $547,425 ($45.00 per square foot). This property is situated one block east of Ouellette Streetand was purchased to facilitate tunnel expansion. The property sold was in the middle of the block in downtown Windsorand was very similar to the subject property. Mr. Bower made no adjustment for time. In cross-examination he stated that the building on the property had value to the vendor but not to the purchaser who demolished it. He said he did not give much weight to this sale. Mr. Udvari agreed that the purchaser acquired the property for the land, not the building.
+[43] Mr. Stamp stated that a colleague in charge of the tunnel project informed him that the Roman Catholic Church would not sell for a price less than what it would cost to build a new rectory.
+[44] 5) 100-136 Wyandotte East was sold by Valente Construction Ltd. in November 1993 for $765,000 to the City of Windsor($95.41 per square foot). The land area is 8,018 square feet. The property is in the north eastern corner of Goyeau Street. An older retail use building was demolished in order to build intersection improvements to the tunnel. Mr. Bower acknowledged the sale price included the building but was unaware of the allocation of the sale price as to land and building.
+[45] Mr. Udvari testified that a private person would not pay $95 per square foot for this property. He indicated the purchase price likely included a value for land, building and income stream for the dislocated business or rental income. Mr. Stamp confirmed Mr. Udvari's view.
+[46] 6) Church Street/Park Street a property of 42,447 square feet, was purchased by the Salvation Army in February 1994 for $925,000 ($21.79 per square foot). The property, a corner site, is four blocks west of Ouellette Avenue. Mr. Bower considered this property to be inferior to the subject property but "it was downtown".
+[47] 7) Wyandotte Street West/Victoria Avenue was sold in September 1994 for $300,000. The property consists of 13,200 square feet and is located two blocks west of Ouellette Avenue.
+[48] A gas station was formerly on the site, Mr. Bower stated, and there was a "stigma of environmental concern".
+[49] 8) Pitt Street West, Mr. Bower agreed in his report, was an inferior site of 9,888 square feet that was sold in May 1992 for $185,000 ($18.71 per square foot). The property was in the first block west of Ouellette Avenueand is used as a parking lot.
+[50] The average price per square foot of these sales was $50.96; the median price was $48.23. Sales 2, 3, 4 and 5 were sales of property within two blocks of the subject property. Sale1 was adjusted downward by Mr. Bower since its property was in the prime central downtown area. Also, he commented, real estate values peaked in 1990.
+[51] Mr. Bower testified that the prime of the commercial area of Windsoris at the corners of University Streetand Ouellette Avenue, "the 300 block of Ouellette".
+[52] Mr. Bower's value of the subject property as vacant land was $37.50 per square foot or $970,000. He stated he adjusted downward the sales of properties 1, 2, 3 and 4 by 41%, 60%, 73% and 83%, respectively. Property number 2 gave him some difficulty because the arithmetic "got skewered" due to the land assembly, the first property fetching $35 per square foot and the fourth, for example, fetching $126 per square foot. A consideration of the four lots would be greater than $37.50 per square foot.
+[53] Frank Mancini has been the auditor for Mr. Fanelli and his group of companies for about 20 years. He discussed the sale of the Property with Mr. Fanelli during negotiation with the City of Windsor and represented the appellant in defending its position to Revenue Canadaand its successor agencies. He prepared the appellant's Notices of Objection. He agrees with Mr. Fanelli that the appellant had $1,300,000 "tied up" in the Property.
+[54] Mr. Mancini explained to Mr. Fanelli that the appellant could utilize a charitable donation receipt. The company had passive income, which was taxed at a high rate, as well as other income that could be reduced over the years with the donation. Mr. Mancini prepared a document describing the net cash available to shareholders of the appellant in several scenarios:
+A
+B
+C
+D
+Proceeds of Sale
+(A) $ 1,175,000
+$ 725,000
+$ 1,175,000
+$ 850,000
+Capital Gain (A-600,00)
+(B) 575,000
+125,000
+575,000
+250,000
+Taxable Gain (B x 75%)
+(C) 431,250
+93,750
+431,250
+187,500
+Tax at 44.3%
+(D) 191,044
+41,531
+191,044
+83,062
+Donation
+(E) 550,000
+0
+0
+0
+Tax savings from donation (Ex44.3%)
+(F) 243,650
+0
+0
+0
+Net Cash to Company (A-D-E+F)
+(G) 677,606
+683,469
+983,956
+766,938
+Tax-free dividend available (B x 25%)
+(H) 143,750
+31,250
+143,750
+62,500
+Dividend refund (C x 20%)
+(I) 86,250
+18,750
+86,250
+37,500
+Taxable dividend (G-H+I)
+(J) 620,106
+670,969
+926,456
+741,938
+Tax on dividend 33%
+(K) 204,635
+221,420
+305,730
+244,840
+Net Cash (J+H-K)
+(L) 559,221
+480,799
+764,476
+559,598
+[55] Mr. Mancini calculated that a sale price of $1,175,000 including a donation of $550,000 yielded net cash to shareholders of $559,221, similar to an all cash sale for $850,000. Respondent's counsel pointed out to Mr. Mancini that this was "almost the same" as what the respondent's valuation of $810,000 would yield.
+[56] Mr. Mancini said he explained to Mr. Fanelli that one dollar of donation was not equal to one dollar of cash. It would require another $500,000 in donations, that is a sale price of $1,875,000, to end up in the same position as if the sale had taken place for $1,175,000 cash, i.e., without a charitable donation receipt. By accepting the receipt on sale proceeds of $1,175,000, Mr. Mancini had concluded, the appellant would lose $200,000 were the transaction cash only.
+[57] Mr. Stamp, a witness for the Crown, did not believe that members of Windsor City Council ever saw Mrs. Fanelli's letter of December 15, 1992; there is no reference to the letter on any report to Council. Council considered only option A.
+[58] If negotiations for property are not successful, Mr. Stamp explained, a municipality can always expropriate the property if the property is really necessary. In an expropriation, appraisals as to the fair market value of the property are prepared. The expropriating authority will pay the vendor's solicitor costs, appraisal costs and other compensation (such as business loss) in addition to fair market value for the property. A municipality always finds it preferable to purchase property.
+[59] In cross-examination, Mr. Stamp revealed that in 2004, the City of Windsornegotiated a price of $372,000 for Mr. Bower's second comparative sale, $37.59 per square foot, a 40% reduction from $612,500, but did not proceed with the sale.
+[60] Mr. Stamp did not know if the amount of the charitable donation receipt was "inflated". He said the policy of the City is not to inflate; "our Finance people would query if a receipt were issued for more than fair market value". In any event, the City did not appraise the subject before acquiring it in 1993.
+[61] Joseph Udvari prepared an appraisal of the subject property for the Minister. In his view, the highest and best use of the subject property as of February 1993 was "its current use", which his testimony indicated was that of a restaurant.
+[62] Mr. Udvari applied both a cost approach and direct comparison approach and adopted the direct comparison approach to arrive at his conclusion that on February 23, 1993, the subject property had a market value of $752,000.
+[63] The cost approach, he stated, "produces an estimate of value by computing the cost of replacing the improvements, subtracting an allowance for any depreciation accruing from any source and adding the value of the land as if vacant". The land value is estimated based on comparable sites, direct construction costs are estimated from generally recognized cost manuals or the investigation of local building costs. Invoiced actual costs, however, are the most reliable indication of cost. Direct costs include landscaping, paving, curbs and gutters.
+[64] Three of Mr. Bower's comparables were also used by Mr. Udvari to determine value on the cost approach: comparables numbered 6, 7 and 8. These properties were vacant land and no government was involved in the sales. Because sales 6 and 7 were in 1994 and the sale of the subject property was in 1993, he made a minor adjustment to these sales; sale 8 was in 1992 and he therefore made an adjustment to that sale for time as well as for size. Based on these three comparables, he determined that the fair market value of the land on the subject property was $20 per square foot or 25,909 square feet x 20 = $518,180.
+[65] Mr. Udvari valued the building at $510,000 applying the costing by Marshall & Swift, a recognized authority. He estimated the building's area at 2,900 square feet at ground level and 1,060 square feet of basement, the property included curbs, landscaping and brick patio.
+[66] The total value of the Property using the cost approach was $1,028,180.
+[67] The direct comparison approach, Mr. Udvari declared, indicates value by comparing and analyzing transactions involving similar properties, on the basis of a common unit of comparison, to the subject property. In Mr. Udvari's view, the best unit of comparison is the price per square foot of building including land.
+[68] He found five sales that he considered comparable to the subject property. The time frame of the sales were from January 1993 to September 1993, he made no adjustment for time.
+[69] According to Mr. Udvari, the subject property had an uncommonly large land area compared to the size of the building. The land is 25,909 square feet while the building is only 2,909 square feet. The total building area is only 11% of the total land area. He valued the subject property by allowing 2:1 site coverage and added the additional land value. The 2:1 site coverage is based on the comparable property coverage, he stated. The building size was 2,909 square feet; for a 2:1 coverage the total land area should be 5,816 square feet. That left 20,093 square feet of additional land.
+[70] Mr. Udvari's direct comparison approach compared five different sales of properties and resulted in a different estimate of value than in the cost approach.
+[71] The sales were:
+(A)[3] 185-89 City Hall Square, having an area of 13,800 square feet, sold in September 1993 for $611,000 ($62.26 per square foot including building). The property contained a building of 9,750 square feet, a coverage of 70% of the total area. The building is part 1 storey and part 2 storey masonry structure in fair condition at time of purchase. Mr. Udvari made an upward adjustment since the building required renovation.
+(B) 1550 Ouellette Avenue was sold in May, 1993. The property had an area of 23,890 square feet; the building size was 10,530 square feet. The coverage is 44% and sale price was $1,050,000, or $99.71 per square foot, including building.
+Mr. Udvari conceded that this property was "quite a way up", about two kilometres, from the subject property. But, he insisted, it was a similar property to Arby's and was in a good commercial location.
+(C) 1640 Ouellette Avenue was located further from the subject property than sale B). This property had a land area of 26,550 square feet and the building on the property had an area of 10,223 square feet. The property was sold in February, 1993 for $1,040,000 ($101.73 per square foot). The building was in "exceptional" condition and Mr. Udvari made no adjustment.
+(D) 155-167 WyandotteStreet East was adjacent to the subject property. Mr. Udvari suspects that the sale made in February, 1993 may not have been between arm's length parties. Mr. Udvari had problems "getting answers from the owners". The property sold for $262,000 ($138.92 per square foot). The land area was 1,875 square feet, the building had an area of 1,886 square feet; the building had an "overhang".
+(E) 305 Victoria Street, having a land area of 17,430 square feet and a two storey building of 6,990 square feet, was purchased in January, 1993 by the Toronto-Dominion Bank for $695,000 ($99.42 per square foot). The site coverage is 40%.
+[72] Mr. Udvari then made adjustments for site coverage. The subject property's site coverage between land and building was approximately 10:1, approximately 11% site coverage. Mr. Udvari made the adjustments to price per square foot, including 50% coverage as follows:
+Sale "A" sold for $62.67 per square foot. including the 50% coverage. A plus adjustment for the quality of the building and site improvement is estimated at $40.00 per sq. ft.
+For #A is
+$62.67 plus $40.00
+$102.00 per square foot.
+Sale "B" sold for $99.71 per square foot including the 50% site coverage. A plus adjustment for quality of building and site improvement is estimated at $20.00 per square foot.
+For #B is
+$99.71 plus $20.00
+$119.71.
+Sale "C" sold for $101.00 per square foot including the 50% site coverage. This sale requires no adjustment.
+For #C is
+$101.73 no adjustment
+$101.73.
+Sale"D" sold for $138.92 per square foot including the 50% site coverage. While the price per square foot is high it is relative to the overall size of the building being only 1,886 square feet.
+For #D
+$138.92 no adjustment
+$138.92.
+Sale"E" sold for $99.42 per square foot including the 50% site coverage. This sale requires a small plus adjustment for quality of the building, estimated at $10.00 per square foot.
+For #E
+$99.42 plus $10.00
+$109.22.
+[73] Based on the above adjusted price per square foot the market value of the building on the subject property on February 23, 1993, according to Mr. Udvari, was $120 per square foot, or 2,908 square feet x $120 = $349,080, rounded to $350,000.
+[74] The land value as established by the cost approach is $20 per square foot for a 2:1 ratio. Mr. Udvari concluded that the additional land is:
+20,093 square feet or 20,093 x $20 = $401,860
+rounded to
+$402,000
+plus the market value
+$350,000
+Total value
+$752,000
+[75] Given that the direct comparison approach and the cost approach resulted in different values, Mr. Udvari said he weighed the quality and quantity of each approach. He preferred the direct approach since it is an analysis of the actions of vendors and purchasers operating in an open market. To provide a reliable estimate of value, the comparable properties must be as similar as possible to the subject, he said.
+[76] Mr. Udvari explained that the cost approach relies heavily on the estimated depreciation accruing to the property from physical, functional and location factors. Mr. Udvari was influenced by the fact that the subject property was built for a fast food restaurant that "never got off the ground". Even though the cost is supportable for the restaurant use, the market did not support this cost, he said. Thus, he concluded that buyers would not pay the full cost as it did not meet the needs of a typical commercial enterprise.
+[77] Mr. Udvari was confident that the most reliable data is found in the direct comparison approach to value, and appraised the market value of the subject property on February 23, 1993 at $752,000.
+[78] In his report, Mr. Udvari noted that at the time of sale of the subject property "the City of Windsor was actively purchasing properties in the subject vicinity for the Windsor-Detroit tunnel expansion. The rates that they were paying were substantially higher than the general real estate market would support. The Windsor Tunnel Commission, an expropriatory authority, was paying up to $45.00 per square foot for vacant land, while the general real estate market would only support $18.00 to $22.00 per sq. ft.". He viewed the sale price of the subject property as representing cost as opposed to the market for the special needs of the City. Appraisers, he explained, have to ignore the purchases made by municipalities as they have authority to expropriate.
+[79] In cross-examination Mr. Udvari conceded it was "possible" that the City of Windsor could be a special purchaser of the property. He did not give much weight, however, to the fact that the property was close to the proposed casino and to City Hall. In 1993, he stated, land was still being assembled for the casino but he saw "no visible casino influence".
+[80] In his direct comparison approach, Mr. Udvari considered land only, not buildings, since the buildings were built for a specific use. No "drive through" buildings were on properties. He disregarded the cost approach even though the Arby's building was relatively new.
+[81] Mr. Udvari acknowledged that the City of Windsorwas acquiring property for $45 per square foot but disregarded these sales because the City could have expropriated the property even though it did not.
+[82] Mr. Bower questioned Mr. Udvari's criteria in valuing the Property. Mr. Udvari considered the Property's highest and best at time of sale to be that of a fast food restaurant. However, Mr. Bower declared, he did not compare any properties which had a fast food restaurant on site. Mr. Bower also did not understand Mr. Udvari's adjustments of $40, $20 and $10 to properties A), B) and D). He also opined that a fast food restaurant requires parking and if a property has lot coverage there is less room for parking. Finally, Mr. Bower criticized Mr. Udvari for putting no weight to the cost approach and calculated that if the property's value was $752,000, and $510,000 is attributable to the building, then only $242,000 was for land, $9.34 per square foot, which is very low based on comparable properties.
+[83] The appeal was adjourned for a year. When the trial reconvened the respondent called Mr. Ben Lansink, a real estate appraiser, to testify with respect to two documents the respondent's counsel attempted to produce through Mr. Udvari.[4]
+[84] The documents were an appraisal Mr. Lansink prepared as of July 15, 1992 of a property on Goyeau Street in downtown Windsor. Amongst the comparables included on his report was the subject property which was "currently listed for sale at $750,000" with Greg Barlow Canada Trust.
+[85] In Mr. Lansink's view the Arby's building was obsolete when he prepared the appraisal and he considered land value only. A Tim Horton's franchisee, for example, would have demolished the building. It is rare, he added, for such a building to be adapted from its original use to another use. He also stated that a listing price is a "hope or wish". "What you ask is not [necessarily] what you get."
+[86] Mr. Lansink conceded in cross-examination that there is always a "special purchaser", in the case at bar it was the City of Windsor. However, he said that in valuing property one would not consider a special case simply because the City of Windsormay be the purchaser.
+[87] The data on the subject property used by Mr. Lansink, he said, was "a lead, no more". He relied on the document to confirm his information. According to the data, the subject property was listed in the multiple listing system in June 16, 1991 for $950,000. The listing expired without a sale.
+[88] In August, 1997 the Minister obtained an appraisal of the subject property from another of its appraisers, Wayne H. Pyke. Mr. Pyke appraised the fair market value of the Property at time of sale at $810,000, about $21 per square foot. This report was sent to Mr. Mancini who consulted with his client and questioned some parts of the report. Later on, Mr. Udvari was asked to review Mr. Pyke's appraisal and concluded that "$810,000 for Feb. 23/93 is reasonable considering the definition of fair market value". Mr. Udvari wrote that the purchase of the subject property by the City of Windsorcould be viewed as a "special purchase" property thus the purchase price may exceed the appraised market value. The definition of market value, he emphasized, specifically states that "the price is not affected by undue stimulus" and in this instance this may in fact be the case, he concluded. Then, on June 29, 2000, Mr. Udvari completed his own appraisal fixing the value at $752,000.
+[89] Mr. Pyke did not testify but his report was produced by consent. In estimating the Property value on a cost approach he compared the Property to Mr. Bower's comparables 6, 7 and 8 as well as to one other property on Goyeau Street, North of ErieStreet, which sold in September 1993 for $167,000, or $14.96 per square foot. Mr. Pyke conceded this was a smaller site than the subject property and not on a corner. Based on these sales, for cost approach purposes, he gave a value to Property, as vacant land, at $22 per square foot, rounded to $570,000.
+[90] The depreciated value of the building on the Property was estimated by Mr. Pyke to have a value of $308,769. Construction costs in Windsorof an Arby's restaurant was $90 per square foot. He, too, applied the Marshall & Swift cost amounts and concluded a rate of $100 per square foot was appropriate for the building. He estimated the replacement cost ($100 x 2,908 square feet) at $290,800 plus $40,000 for additional site improvements, or $330,800. He depreciated this amount by $22,031 to arrive at a value for the building of $308,769.
+[91] The value of land and building, on a cost approach basis, was estimated by Mr. Pyke at $880,000.
+[92] In applying the direct comparison approach, Mr. Pyke used sales A, B, C and E referred to in Mr. Udvari's report and he estimated the value of the subject property to be $700,000; Mr. Udvari's estimate was $752,000.
+[93] Mr. Pyke adopted the cost approach since he considered it the stronger of the two approaches. The building was fairly new and built for a specific purpose. He weighted the approaches by taking 60% of $880,000 ($528,000) and 40% of $700,000 ($280,000) and estimated value of the Property in February 1993 at $808,000, rounded off to $810,000.
+[94] I have already stated that the transaction in issue between the appellant and the City of Windsor was at arm's length. I also am of the view that the parties wished to consummate a transaction and structured the transaction in a way that would satisfy both of them. If the parties were of a common accord, as suggested by the respondent, they were doing no more than any other purchaser and vendor of property of depreciable property when the parties allocate a price as to land and building, for example. Also, although there was some rather creative construction of the purchase price, there is no sham in the subject transaction; there is no intent to give anyone the appearance of creating between the parties legal rights and obligations different from the actual rights and obligations they intended to create.
+[95] Cattanach J. opined that the expression "fair market value" means:
+. . . the highest price an asset might reasonably be expected to bring if sold by the owner in the normal method applicable to the asset in question in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm's length and under no compulsion to buy or sell. . . . [T]he essential element . . . is an open and unrestricted market in which the price is hammered out between willing and informed buyers and sellers . . .[5]
+[96] McIntyre J. defined the "fair market value of property" to be:
+. . . the highest price available estimated in terms of money which a willing seller may obtain for the property in an open and unrestricted market from a willing, knowledgable [sic] purchaser acting at arm's length.[6]
+[97] Ordinarily, the fair market value of a property is what a buyer and seller dealing at arm's length within the meaning of the above definitions agrees is the price for the property. However, here we have a situation where the cost to the buyer (including alterations) is $550,000 less than the sale price (since the cost of issuing a receipt is nothing) and the value to the vendor of the $550,000 charitable receipt is less than $550,000 since his ultimate economic benefit of the receipt is less than the face amount of the receipt.
+[98] An examination of the appraisals of the Property as at February 1993, will no doubt help to fix a fair market value to the transaction and determine the fair market value of any gift component included in the consideration for the Property.
+[99] Mr. Bower valued the Property as vacant land at $970,000. To this amount, the appellant added the actual cost of the Arby's building, $485,182 and claimed a fair market value of $1,455,182, close to the amount that Mr. Fanelli claimed was his asking price.
+[100] One of the problems I have in considering Mr. Bower's report is the weight he gave to one transaction in which public bodies transacted between themselves. His comparable 3 is the sale of a non-commercial property that was transferred from the City to the province for $51.46 per square foot. The subject matter of the sale, part of a public park, would not be available for sale to a private person. Another difficulty is that Mr. Bower failed to consider that in comparable 4, a sale from the Roman Catholic Church to the City, the value of building on the site was an important factor in setting the sale price. Mr. Bower also failed to allocate the sale price of $95.46 per square foot between building and land in comparable 5. A price of $90.65 per square foot for land alone would be an anomaly based on other prices in the vicinity. There is no evidence that the property sold in comparable 5 may be similar to that in comparable 1, if that comparable is valid. Again, Mr. Bower was not familiar with the state of the properties assembled for comparable 2. When he prepared his report he did not verify, for example, the number of homes on the properties and what consideration was allocated to those buildings, if any. The property described in comparable 1 apparently was superior to the subject property and required a downward adjustment; however, he does not explain how he made the adjustment. I do not give much weight to his comparable sales 1, 4 and 5 for these reasons. I also believe that comparable 3 is not a price based on market value alone.
+[101] However, I do prefer Mr. Bower's judgment of the highest and best use of the Property to those of Messrs. Udvari and Pyke. About 90% of the Property was vacant land and was capable of accommodating any of its permitted uses.
+[102] Mr. Udvari viewed the highest and best use of the Property as a fast food restaurant. As Mr. Bower indicated, a fast food restaurant requires parking. Yet Mr. Udvari ignored this fact and valued the land to building on a 2:1 use, he considered the excess vacant land having nothing to do with the restaurant. What proportion of land to building was appropriate for a fast food restaurant in 1993 is not in evidence.
+[103] Of course, no appraiser took into account the evidence of Mr. Lansink, that the Property was listed for sale for $970,000 in 1991 and in 1992 for $750,000.
+[104] The City of Windsor, no doubt, was a special purchaser. It was acquiring land in the area of the subject property for the Windsor-Detroit tunnel. Special purchasers may be considered in appraising property.[7] Indeed, the City's interest may have enhanced the value of properties in the area.[8]
+[105] The appropriate comparable sales to apply in are comparables 6, 7 and 8 used by Mr. Bower and Mr. Udvari, notwithstanding comparable 7 may be low due to environmental concerns. The proximity of the Property to the entrance to the Windsor-Detroit tunnel and the proposed casino are factors to be considered in determining its value. That the City of Windsorwas a special purchaser at the time is another factor that may affect the value of the Property. I believe that these factors would add approximately 15% to 20% to the appraisals of Mr. Udvari and Mr. Pyke, as averaged. The value of the land should be appraised at $24.675 per square foot, that is $24.675 x 25,909 square feet = $639,304.58.[9]
+[106] The building and the Property had value to the purchaser. The design of the building was an important factor, along with the location of the subject property, in the City's decision to acquire the Property.
+[107] I prefer Mr. Pyke's analysis of the building's value to that of Mr. Udvari or its historic cost advanced by the appellant. Mr. Pyke's appraisal value of the building, its replacement cost less depreciation over four years, was $308,769.
+[108] Therefore the fair market value of the Property on February 23, 1993 was equal to the sum of $639,305 + $308,769, that is $948,084.
+[109] Accordingly, the value of that portion of the Property, including alterations that the appellant donated to the City of Windsor, is $948,074 - ($175,000 + $450,000) = $323,074.
+[110] The appeal for the 1993 taxation year is therefore allowed and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the fair market value of the gift of property in 1993 by the appellant to the City of Windsor was $323,074. Since the fair market value of the donation to the City is less than the amount of $340,632 deducted by the appellant as a charitable donation in computing income for 1993, there is no amount available to be carried over to 1994 or 1995. The appeals for the 1994 and 1995 taxation years are dismissed. Counsel are to make submissions in writing as to costs by May 1, 2007.
+Signed at Ottawa, Canada, this 5th day of March 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+CITATION: 2007TCC131
+COURT FILE NO.: 2001-1190(IT)G
+STYLE OF CAUSE: 882885 ONTARIO LIMITED v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Windsor, Ontario
+DATES OF HEARING: December 15 and 16, 2005 and
+December 13, 2006
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Associate Chief Justice
+DATE OF JUDGMENT: March 5, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Arthur M. Barat, Q.C. and
+Sherry-Lynn Medaglia
+Counsel for the Respondent:
+Charles Camirand
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Arthur M. Barat, Q.C.
+Firm: Barat, Farlam, Millson
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Paragraph 110.1(1)(a)(iv) of the Act in 1993 provided that "for the purpose of computing the taxable income of a corporation for a taxation year, there may be deducted . . . the total of all amounts each of which is the fair market value of a gift made by the corporation in the year (or in any of the five preceeding taxation years . . .) to . . . Canadian municipalities."
+[2] This is not the Mr. Mancini who is the appellant's auditor and was a witness during the hearing of this appeal.
+[3] I use letters to indicate Mr. Udvari's comparables so as not to cause any confusion with Mr. Bower's comparables.
+[4] Although retired, Mr. Udvari was attempting to secure appraisal work with private firms, one of which was Lansink & Best Limited. While going through the files of Lansink & Best, he found an appraisal report and summary form library data prepared by that firm, which referred to the subject property as a comparable. Appellant's counsel objected to the production of the documents on the basis of hearsay. The respondent's counsel argued that it was a "business record" and that he gave proper notice. Canada Evidence Act, s.30. When the trial reconvened Mr. Lansink, who prepared the report, appeared as a witness. It was not necessary for me to rule on the admissibility of the documentation once Mr. Lansink testified. There was no objection to his testimony.
+[5] Henderson Estate and Bank of New Yorkv. M.N.R., 73 DTC 5471 (FCTD), at 5476.
+[6] Re Mann Estate, [1972] 5 W.W.R. 23 (B.C.S.C.) at 27, aff'd. Min. of Finance (BC) v. Mann Estate (BCCA), [1973] C.T.C. 561.
+[7] Glass v. I.R.C. (1915), 52 Sc. L.R. 414.
+[8] Laycock v. The Queen, 78 DTC 6349.
+[9] Mr. Pyke's land value was $22, Mr. Udvari's was $20. I have averaged their values at $21 per square foot and calculated the increase by 17.5%.

@@ -1,0 +1,627 @@
+Title: Howe v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26301/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-719-26301-howe-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-10-29
+
+# Howe v. The Queen
+
+- Citation: 2004 TCC 719
+- Decision date: 2004-10-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3313, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Howe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-29
+Neutral citation
+2004 TCC 719
+File numbers
+2001-2716(IT)G
+Judges and Taxing Officers
+Ronald D. Bell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-2716(IT)G
+BETWEEN:
+DENIS HOWE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of Timothy Gamble
+(2001-3707(IT)G), Cameron W.D. White (2001-3715(IT)G),
+Kenneth M. Hawley (2001-3712(IT)G) and Craig Lodge (2001-2718(IT)G) on March 29, 2004 and April 15, 2004 at Vancouver, British Columbia
+By: The Honourable Justice R.D. Bell
+Appearances:
+Counsel for the Appellant:
+David R. Davies and Samantha Mason
+Counsel for the Respondent:
+Lynn M. Burch and Pam Meneguzzi
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1995 taxation year is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Appellant.
+Signed at Ottawa, Canada this 29th day of October, 2004.
+"R.D. Bell"
+Bell, J.
+Docket: 2001-3707(IT)G
+BETWEEN:
+TIMOTHY GAMBLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of Denis Howe
+(2001-2716(IT)G), Cameron W.D. White (2001-3715(IT)G),
+Kenneth M. Hawley (2001-3712(IT)G) and Craig Lodge (2001-2718(IT)G) on March 29, 2004 and April 15, 2004 at Vancouver, British Columbia
+By: The Honourable Justice R.D. Bell
+Appearances:
+Counsel for the Appellant:
+David R. Davies and Samantha Mason
+Counsel for the Respondent:
+Lynn M. Burch and Pam Meneguzzi
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1995 and 1996 taxation years are allowed, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Appellant.
+Signed at Ottawa, Canada this 29th day of October, 2004.
+"R.D. Bell"
+Bell, J.
+Docket: 2001-3715(IT)G
+BETWEEN:
+CAMERON W.D. WHITE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of Timothy Gamble
+(2001-3707(IT)G), Denis Howe (2001-2716(IT)G),
+Kenneth M. Hawley (2001-3712(IT)G) and Craig Lodge (2001-2718(IT)G)
+on March 29, 2004 and April 15, 2004 at Vancouver, British Columbia
+By: The Honourable Justice R.D. Bell
+Appearances:
+Counsel for the Appellant:
+David R. Davies and Samantha Mason
+Counsel for the Respondent:
+Lynn M. Burch and Pam Meneguzzi
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 1995 and 1996 taxation years are allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Appellant.
+Signed at Ottawa, Canada this 29th day of October, 2004.
+"R.D. Bell"
+Bell, J.
+Docket: 2001-3712(IT)G
+BETWEEN:
+KENNETH M. HAWLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of Timothy Gamble
+(2001-3707(IT)G), Cameron W.D. White (2001-3715(IT)G),
+Denis Howe (2001-2716(IT)G) and Craig Lodge (2001-2718(IT)G)
+on March 29, 2004 and April 15, 2004 at Vancouver, British Columbia
+By: The Honourable Justice R.D. Bell
+Appearances:
+Counsel for the Appellant:
+David R. Davies and Samantha Mason
+Counsel for the Respondent:
+Lynn M. Burch and Pam Meneguzzi
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1996 taxation year is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Appellant.
+Signed at Ottawa, Canada this 29th day of October, 2004.
+"R.D. Bell"
+Bell, J.
+Docket: 2001-2718(IT)G
+BETWEEN:
+CRAIG LODGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on common evidence with the appeals of Timothy Gamble
+(2001-3707(IT)G), Cameron W.D. White (2001-3715(IT)G),
+Kenneth M. Hawley (2001-3712(IT)G) and Denis Howe (2001-2716(IT)G)
+on March 29, 2004 and April 15, 2004 at Vancouver, British Columbia
+By: The Honourable Justice R.D. Bell
+Appearances:
+Counsel for the Appellant:
+David R. Davies and Samantha Mason
+Counsel for the Respondent:
+Lynn M. Burch and Pam Meneguzzi
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1995 taxation year is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Appellant.
+Signed at Ottawa, Canada this 29th day of October, 2004.
+"R.D. Bell"
+Bell, J.
+Citation: 2004TCC719
+Date: 20041029
+Docket: 2001-2716(IT)G
+BETWEEN:
+DENIS HOWE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+Docket: 2001-3707(IT)G
+TIMOTHY GAMBLE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+Docket: 2001-3715(IT)G
+CAMERON W.D. WHITE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+Docket: 2001-3712(IT)G
+KENNETH M. HAWLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+Docket: 2001-2718(IT)G
+CRAIG LODGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bell, J.
+[1] The issues are defined by the parties as set forth in paragraphs 85 and 86 of the Partial Agreed Statement of Fact, but are restated here as:
+1. Whether entitlement to the amount that the respective unitholders of two partnerships were to receive, pursuant to the offers that Vidatron was required to make to effect the exchange of its shares for units, being interests in those partnerships, was granted or to be granted for the purpose of reducing the impact "... of any loss that the unitholders may sustain" within the meaning of paragraph 96(2.2)(d), thereby reducing the "at-risk" amount and the consequent amount of partnership losses deductible by the partners.
+2. Whether, in the alternative, the transactions between each of the two partnerships, NM I and NM II and Vidatron were avoidance transactions which resulted directly or indirectly in tax benefits to the Appellants within the meaning of subsection 245(2) and paragraph 245(3)(b) of the Act.
+[2] Although it is for the Court to determine, with respect to the first issue, the parties agreed that as stated in paragraph 87:
+Except for the issue described above with respect to paragraph 96(2.2)(d) and the general anti-avoidance rule, the parties are agreed that the Appellants' would be entitled to deduct their share of the NM I and NM II business losses in accordance with the provisions of the Act.
+[3] The parties filed a Partial Agreed Statement of Facts and Issues which reads as follows. This was supplemented by oral evidence and portions of examinations for discovery.
+PARTIAL AGREED STATEMENT OF FACTS AND ISSUES
+For the purposes of the proceedings in Timothy Gamble v. HMTQ TCC 2001-3707(IT)G, Cameron W.D. White v. HMTQ TCC 2001-3715(IT)G, Denis Howe v. HMTQ TCC 2001-2716(IT)G, Kenneth M. Hawley v. HMTQ TCC 2001-3712(IT)G, and Craig Lodge v. HMTQ TCC 2001-2718(IT)G and any appeal therefrom, the following facts are agreed to by the Appellants and the Respondent:
+1. Vidatron Entertainment Group Inc. ("Vidatron") is a company incorporated under the laws of the Province of British Columbia. The common shares of Vidatron were at all material times publicly listed on the Vancouver Stock Exchange.
+2. Vidatron's business at all material times included producing and distributing film, video and interactive programming for the corporate, education, and entertainment market sectors.
+New Media Marketing Limited Partnership
+3. The New Media Marketing Limited Partnership ("NM I") was established as a limited partnership under the laws of the Province of British Columbia on March 15, 1995.
+4. The general partner of NM I was New Media Finance Ltd. (Vidatron Marketing Ltd. was the original general partner of NM I and was replaced by its successor in interest, New Media Finance Ltd.). Kathleen Martin and Shelley Kirk were the directors of the general partner. Kathleen Martin was the president and sole shareholder. Cameron White was the secretary.
+5. NM I is one of a series of marketing limited partnerships in which Vidatron was involved: the others are Georgia Marketing Limited Partnership (1990), Georgia II Marketing Limited Partnership (1991), Vidatron Marketing (1993) Limited Partnership and New Media Marketing II Limited Partnership (1996).
+6. On March 15, 1995 Vidatron and several related companies entered into a joint venture agreement (the "First JV Agreement") with NM I whereby NM I agreed to undertake an advertising and marketing program to promote Vidatron's products and services. The First JV Agreement was amended by an agreement dated October 15, 1995.
+7. The management committee referenced in the First JV Agreement was comprised of Shelley Kirk, Kathleen Martin, Tim Gamble and Cameron White.
+8. Under the terms of the First JV Agreement as amended, NM I was required to expend a minimum of $485,000 and a maximum of $1,275,000 during the period from March 15, 1995 to December 31, 1995. Vidatron agreed to match NM I's initial expenditures during the period from January 1, 1996 until the end of the term of the First JV Agreement on December 31, 2005.
+9. In return for its initial expenditures under the First JV Agreement, and subject to further adjustments, Vidatron was required to pay NM I a share equal to 8% of "Net Revenues" as that term is defined in the First JV Agreement, commencing on January 1, 1996.
+10. NM I's proportionate share of revenues was subject to a further annual adjustment based on the cumulative expenditures made by NM I and Vidatron in connection with the marketing program. The net revenues to be shared with the partnership are arrived at by first reducing the gross revenue by a base revenue adjustment of $7,000,000. The base revenue adjustment is an estimate of the revenue that would be achieved over the term of the marketing program in the absence of such program (both the initial phase and the remainder of the program).
+11. Under the terms of the First JV Marketing Agreement, Vidatron agreed to make an offer to acquire the outstanding units of NM I after April 1, 1996 and before August 31, 1996. Vidatron agreed to make the offer at a price equal to the lesser of:
+(a) $1,080 per unit; and
+(b) the fair market value of the unit,
+which was to be fully payable in common shares of Vidatron at their weighted average price for the 20 trading days preceding the fifth business day before the offer was made.
+12. The First JV Agreement further provided that if 65% or more of the units issued, excluding any units owned by Vidatron, were tendered in acceptance of the exchange offer, the remaining limited partners were required to sell their units in NM I and the general partner was required to sell its interest to Vidatron in accordance with the terms in the First JV Agreement.
+13. NM I offered its units for sale by way of offering memorandum dated October 15, 1995. NM I sold a total of 934 units at a price of $1,000 per unit for gross offering proceeds of $934,000.
+14. NM I's 1995 fiscal period ended on December 31, 1995. For its 1995 fiscal period NM I had no revenues and expenses of $858,949 for an aggregate net business loss of $858,949.
+15. The expenditures giving rise to NM I's net business loss were incurred mainly as follows: consulting fees paid to Vidatron management and officers, producing of demo and promotional videos, direct mail out of promotional material including brochures, pamphlets and proposals incorporating graphic design and printing, general promotion including trade shows, travel, clothing, meals, entertainment and advertising.
+16. In accordance with the limited partnership agreement, $857,326 of the 1995 net loss for NM I was allocated to the limited partners. Each NM I limited partnership unit was allocated a loss of $917.90.
+17. On July 31, 1996 Vidatron made an offer (the "NM I Offer" to acquire the limited partners' NM I units for $1,080 per unit (being the lesser of $1080 per unit and the fair market value of $1627 per unit) as required under the First JV Agreement. At that time unit holders were provided with the following documents: Offer to Purchase, Offering Circular, Valuation Report prepared by I.S. Grant & Associates dated June 7, 1996, Vidatron's financial statements for the nine months ended May 31, 1996, Director's Circular and a Letter of Acceptance and Transmittal. Subscribers had until August 23, 1996 to transmit their letters of acceptance to Vidatron.
+18. The valuation required pursuant to section 2.16 of the First JV Agreement was prepared by I.S. Grant & Company for Vidatron.
+19. Pursuant to the NM I Offer, more than 65% of all of the limited partnership units were tendered in acceptance of the exchange offer. Consequently, all of the NM I units were tendered to Vidatron, in exchange for an aggregate of 473,538 shares in Vidatron, at a deemed price of $2.13 a share (being the weighted average price for the shares as traded on the Vancouver Stock Exchange for the 20 trading days ending five days prior to the announcement of the NM I Offer).
+20. The NM I Offers were accepted as described above and the interest of the general partner was sold to Vidatron before the base revenue of $7,000,000 was achieved.
+21. NM I was dissolved once Vidatron acquired all the units of NM I.
+New Media Marketing II Limited Partnership
+22. The New Media Marketing II Limited Partnership ("NM II") was established as a limited partnership under the laws of the Province of British Columbia on March 6, 1996.
+23. The general partner of NM II was New Media Finance II Ltd. Kathleen Martin and Shelley Kirk were the directors of the general partner. Kathleen Martin was the president, Shelley Kirk was the secretary and collectively they owned 100% of the shares of the general partner.
+24. NM II is one of a series of marketing limited partnerships in which Vidatron was involved: the others are Georgia Marking Limited Partnership (1990), Georgia II Marketing Limited Partnership (1991), Vidatron Marketing (1993) Limited Partnership and New Media Marketing Limited Partnership (1995).
+25. On March 6, 1996 Vidatron and several related companies entered into a joint venture agreement (the "Second JV Agreement") with NM II whereby NM II agreed to undertake an advertising and marketing program to promote Vidatron's products and services.
+26. The management committee referenced in the Second JV Agreement was comprised of Shelley Kirk, Kathleen Martin, Tim Gamble and Cameron White.
+27. Under the terms of the Second JV Agreement, NM II was required to expend a minimum of $835,000 and a maximum of $1,700,000 during the period from March 6, 1996 to December 31, 1996. Vidatron agreed to match NM II's initial expenditures during the period from January 1, 1997 until the end of the term of the Second JV Agreement on December 31, 2006.
+28. In return for its initial expenditures under the Second JV Agreement, and subject to further adjustments, Vidatron was required to pay NM II a share equal to 8% of "Net Revenues" as that term is defined in the Second JV agreement, commencing on January 1, 1997.
+29. NM II's proportionate share of revenues was subject to a further annual adjustment based on the cumulative expenditures made by NM II and Vidatron in connection with the marketing program. The net revenues to be shared with NM II are arrived at by first reducing the gross revenue by a base revenue adjustment of $11,000,000. The base revenue adjustment is an estimate of the revenue that would be achieved over the term of the marketing program in the absence of such program (both the initial phase and the remainder of the program).
+30. Under the terms of the Second JV Agreement, Vidatron agreed to make an offer to acquire the outstanding units of NM II after April 1, 1997 and before August 31, 1997. Vidatron agreed to make the offer at a price equal to the lesser of:
+(a) $1,080 per unit; and
+(b) the fair market value of the unit,
+which was to be fully payable in common shares of Vidatron at their weighted average price for the 20 trading days preceding the fifth business day before the offer was made.
+31. The Second JV Agreement further provided that if 65% or more of the units issued, excluding any units owned by Vidatron, were tendered in acceptance of the exchange offer, the remaining limited partners were required to sell their units in NM II and the general partner was required to sell its interest to Vidatron in accordance with the terms in the Second JV Agreement.
+32. NM II offered its units for sale by way of offering memorandum dated June 15, 1996. NM II sold a total of 1,999 units at a price of $950 per unit for gross offering proceeds of $1,899,050.
+33. NM II's 1996 fiscal period ended on December 31, 1996. For its 1996 fiscal period NM II had gross revenues of $1,471 and an aggregate net business loss of $1,796,405. Each NM I limited partnership unit was allocated a loss of $894.32.
+34. The expenditures giving rise to NM II's net business loss were incurred mainly as follows: consulting fees paid to Vidatron management and officers, production of demo and promotional videos, direct mail out of promotional material including brochures, pamphlets and proposals incorporating graphic design and printing, general promotion including trade shows, travel, clothing, meals, entertainment and advertising.
+35. On or about June 11, 1997 Vidatron made an offer (the "NM II Offer") to acquire the limited partners' NM II units for $1,080 per unit (being the lesser of $1080 per unit and the fair market value of $1886 per unit) as required under the Second JV Agreement. At that time unit holders were provided with the following documents: Offer to Purchase, Offering Circular, Director's Circular, Valuation Report of I.S. Grant & Company Ltd. dated June 1, 1997, Vidatron's Financial Statements for the six months ended February 28, 1997 and Letter of Acceptance and Transmittal. Subscribers had until July 4, 1997 to transmit their letters of acceptance.
+36. The valuation report required pursuant to section 2.16 of the Second JV Agreement was prepared by I.S. Grant & Company for Vidatron.
+37. Pursuant to the NM II Offer, on July 4, 1997 a majority in excess of 65% of the limited partners tendered their acceptance of the exchange offer. Consequently, all of the limited partnership units were tendered in exchange for an aggregate of 423,042 shares in Vidatron, at a deemed price of $5.25 a share (being the weighted average price for the shares as traded on the Vancouver Stock Exchange for the 20 trading days ending five days prior to the announcement of the exchange offer).
+38. The NM II Offers were accepted as described above and the interest of the general partner was sold to Vidatron.
+39. NM II was dissolved once Vidatron acquired all the units of NM II.
+Timothy Gamble ("Gamble")
+40. At all material times Gamble was the president, and director or officer of Vidatron and a member of the management committee of the General partner.
+41. Gamble acquired 25 units of NM I at $1,000 per unit for a total of $25,000. He subscribed for the NM I units on December 28, 1995 and paid for the units by cheque dated December 31, 1995. The general partner accepted his subscription on December 29, 1995.
+42. Gamble's share of NM I's business loss for the 1995 taxation year was $917.90 per unit or $22,947.45 in total.
+43. Gamble deducted his share of NM I's business loss in computing his income for the 1995 taxation year on the basis that the loss was deductible pursuant to paragraph 96(1)(g) of the Act.
+44. Further to Vidatron's offer under the First JV Agreement, Gamble sold his units of NM I to Vidatron in consideration for 12,676 common shares of Vidatron.
+45. Vidatron and Gamble filed a joint election under subsection 85(1) of the Income Tax Act (Canada)(the "Act") in respect of the transfer of Gamble's NM I units at an "agreed amount" of $82.102 per unit or $2,052.55 in aggregate.
+46. By Notice of Reassessment dated April 15, 1999, the Minister of National Revenue (the "Minister") reassessed Gamble's 1995 taxation year to deny Gamble's share of NM I's business loss ("Gamble's 1995 Notice of Reassessment").
+47. In confirming the reassessment of Gamble's 1995 taxation year the Minister relied on the GAAR as an alternate basis to disallow the deduction of Gamble's share of NM I's business loss for 1995.
+48. Gamble acquired 25 units of NM II at $950 per unit for a total of $23,750. Gamble paid the full purchase price for his units by cheque on closing.
+49. Gamble's share of NM II's business loss for the 1996 taxation year was $894.32 per unit of $22,358.02 in total.
+50. Gamble deducted his share of NM II's business loss in computing his income for the 1996 taxation year on the basis that the loss was deductible pursuant to paragraph 96(1)(g) of the Act.
+51. Further to Vidatron's offer to acquire the Gamble's New Media II Partnership units under the Second JV Agreement, Gamble sold his units of NM II to Vidatron in consideration for 5,150 common shares of Vidatron.
+52. Vidatron and Gamble filed a joint election under subsection 85(1) of the Act in respect of the transfer of Gamble's NM II units at an "agreed amount" of $55.67 per unit or $1,391.75 in aggregate.
+Cameron White ("White")
+53. In 1995 and 1996 White was the CEO and director of Vidatron. At all material times White was a member of the management committee of the general partners involved in NMI and NM II. In 1995 he was also secretary of the general partner.
+54. White acquired 30 units of NM I at $1,000 per unit for a total of $30,000.
+55. White's share of NM I's business loss for the 1995 taxation year was $917.90 per unit of $27,536.94 in total.
+56. White deducted his share of NM I's business loss in computing his income for the 1995 taxation year on the basis that the loss was deductible pursuant to paragraph 96(1)(g) of the Act.
+57. Further to Vidatron's offer under the First JV Agreement, White sold his units of NM I to Vidatron in consideration for 15,210 common shares of Vidatron.
+58. Vidatron and White filed a joint election under subsection 85(1) of the Act in respect of the transfer of White's NM I units at an "agreed amount" of $82.102 per unit or $2,463.26 in aggregate.
+59. By Notice of Reassessment dated May 20, 1999, the Minister reassessed White's 1995 taxation year to deny White's share of NM I's business loss ("White's 1995 Notice of Reassessment").
+60. In confirming the reassessment of White's 1995 taxation year the Minister relied on the GAAR as an alternate basis to disallow the deduction of White's share of NM I's business loss for 1995.
+61. White acquired 27 units of NM II at $950 per unit for a total of $25,650. White paid the full purchase price for his units by cheque on closing. He subscribed for the NM II units on August 30, 1996 and the general partner accepted his subscription on that same date.
+62. White's share of NM II's business loss for the 1996 taxation year was $894.32 per unit or $24,146.66 in total.
+63. White deducted his share of NM II's business loss in computing his income for the 1996 taxation year on the basis that the loss was deductible pursuant to paragraph 96(1)(g) of the Act.
+64. Further to Vidatron's offer to acquire the White's NM II units under the Second JV Agreement, White sold his units of NM II to Vidatron in consideration for 5,562 common shares of Vidatron.
+65. Vidatron and White filed a joint election under subsection 85(1) of the Act in respect of the transfer of White's NM II units at an agreed amount of $55.67 per unit or $1,503.34 in aggregate.
+Denis Howe ("Howe")
+66. Howe acquired 13 units of NM I at $1,000 per unit for a total of $13,000., He subscribed for the NM I units on December 19, 1995. The general partner accepted his subscription on December 20, 1995.
+67. Howe's share of NM I's business loss for the 1995 taxation year was $917.898 per unit or $11,932.67 in total.
+68. Howe deducted his share of NM I's business loss in computing his income for the 1995 taxation year on the basis that the loss was deductible pursuant to paragraph 96(1)(g) of the Act.
+69. Further to Vidatron's offer under the First JV Agreement, Howe sold his units of NM I to Vidatron in consideration for 6,591 common shares of Vidatron.
+70. Vidatron and Howe filed a joint election under subsection 85(1) of the Act in respect of the transfer of Howe's NM I units at an "agreed amount" of $82.102 per unit or $1,067.33 in aggregate.
+71. By Notice of Reassessment dated March 11, the Minister reassessed Howe's 1995 taxation year to deny Howe's share of NM I's business loss ("Howe's 1995 Notice of Reassessment").
+72. In confirming the reassessment of Howe's 1995 taxation year the Minister relied on the GAAR as an alternate basis to disallow the deduction of Howe's share of NM I's business loss for 1995.
+Kenneth M. Hawley ("Hawley")
+73. Hawley acquired 27 units of NM II at $950 per unit for a total of $25,650. He subscribed for the NM II units on August 30, 1996. The general partner accepted his subscription on September 6, 1996. Hawley paid the full purchase price for his units by cheque on closing.
+74. Hawley's share of NM II's business loss for the 1996 taxation year was $894.32 per unit or $24,146.66 in total.
+75. Hawley deducted $23,830 of his share of NM II's business loss in computing his income for the 1996 taxation year on the basis that the loss was deductible pursuant to paragraph 96(1)(g) of the Act.
+76. Further to Vidatron's offer to acquire the Hawley's NM II units under the Second JV Agreement, Hawley sold his units of NM II to Vidatron in consideration for 5,562 common shares of Vidatron.
+77. Vidatron and Hawley filed a joint election under subsection 85(1) of the Act in respect of the transfer of Hawley's NM II units at an "agreed amount" of $55.67 per unit or $1,503.34 in aggregate.
+Craig Lodge ("Lodge")
+78. Lodge acquired 25 units of NM I at $1,000 per unit for a total of $25,000. He subscribed for the NM I units on December 29, 1995. The general partner accepted the subscription on December 29, 1995.
+79. Lodge's share of NM I's business loss for the 1995 taxation year was $917.90 per unit or $22,947 in total.
+80. Lodge deducted his share of NM I's business loss in computing his income for the 1995 taxation year on the basis that the loss was deductible pursuant to paragraph 96(1)(g) of the Act.
+81. Further to Vidatron's offer under the First JV Agreement, Lodge sold his units of NM I to Vidatron in consideration for 12,676 common shares of Vidatron.
+82. Vidatron and Lodge filed a joint election under subsection 85(1) of the Act in respect of the transfer of Lodge's NM I units at an "agreed amount" of $82.102 per unit or $2,052.55 in aggregate.
+83. By Notice of Reassessment dated April 1, 1999, the Minister reassessed Lodge's 1995 taxation year to deny Lodge's share of NM I's business loss ("Lodge's 1995 Notice of Reassessment").
+84. In confirming the reassessment of Lodge's 1995 taxation year the Minister relied on the GAAR as an alternate basis to disallow the deduction of Lodge's share of NM I's business loss for 1995.
+Issues:
+85. The first issue is whether the amount that the respective unitholders were contingently entitled to receive pursuant to the exchange offers that Vidatron was required to make was granted for a purpose outlined in paragraph 96(2.2)(d).
+86. A further issue is whether, in the alternative:
+(a) the transactions between NM I, NM II and Vidatron were avoidance transactions, which resulted directly or indirectly in tax benefits to the Appellants within the meaning of subsection 245(2) and paragraph 245(3)(b) of the Act; and
+(b) whether subsection 245(2) of the Act does not apply because of subsection 245(4) of the Act.
+87. Except for the issue described above with respect to paragraph 96(2.2)(d) and the general anti-avoidance rule, the parties are agreed that the Appellants would be entitled to deduct their share of the NM I and NM II business losses in accordance with the provisions of the Act.
+The Parties agree that they shall be entitled to adduce other evidence (in addition to this Partial Agreed Statement of Facts or the Joint Book of Documents) or to ask the Tax Court of Canada to draw inferences from the evidence presented, provided that such additional evidence or inferences are not inconsistent with this Partial Agreed Statement of Facts.
+The Appellants and Respondent agree to file copies of the following documents with the Court as exhibits for the purposes of this proceeding. The Parties agree that filing the following documents with the Court as exhibits pursuant to this agreement does not constitute compliance with Rule 145 of the Rules of General Procedure respecting expert witnesses.
+A1. This Partial Agreed Statement of Facts
+A2. Joint Book of Documents.
+[4] SUMMARY OF BUSINESS LOSSES CLAIMED BY THE FIVE APPELLANTS:
+Gamble
+1995 $22,947.45
+1996 $22,358.02
+White
+1995 $27,536.94
+1996 $24,146.66
+Howe
+1995 $11,932.67
+Hawley
+1996 $24,146.66
+Lodge
+1995 $22,947.00
+FACTS FROM EVIDENCE GIVEN AT HEARING:
+[5] When White was asked, on cross-examination, whether there was an expectation on the part of the company that unitholders would exercise their rights to exchange units for shares when Vidatron made the offer, his response was:
+Well, I don't know how to answer that. Was there an expectation? Yeah, there was -- there was a chance that it would happen, a good chance it would happen, but one never knows.
+[6] The cross-examination continued as follows:
+Q. Vidatron certainly wanted that to happen, is that not correct?
+A. Well, I think I said yesterday I didn't -- I was somewhat indifferent once we had raised the money. That was the principal objective I had. And so -- and so as the company continued to grow it was good to have an opportunity to buy those revenue streams back but in 1994 and 1995 -- or 1995 and 1996 when we did these, the main objective was to attract investment capital.
+Q. But it was good for Vidatron to get the units and exchange them for shares?
+A. Well, I don't know. I don't know. You have to look in hindsight to see whether that was good or bad.
+[7] Upon re-examination the following occurred:
+Q. Did the company have the resources in the absence of these partnerships to go out and undertake these programs on its own?
+A. Well, not -- you know, generally not really. I mean, there wasn't -- and in fact I don't think in earlier years there was a concerted program. It was just largely up to the managers of each division to try to do what they could within their resources to expand their business.
+[8] With respect to Gamble's evidence, the following took place on direct examination:
+Q. Did you ever finance Vidatron in other ways, say through shareholder loans?
+A. Yes. You know, right from day one I took a second mortgage on my house to finance its -- you know, the beginning of the company. And then all along I participated in every financing the company did. I felt if it was good for investors it was good for me.
+Q. Now I understand Vidatron participated in a number of other limited -- or marketing limited partnership arrangements in the early 1990s.
+A. Yes.
+Q. Why did it enter into these limited marketing partnership arrangements?
+A. Well, first and foremost, the company was looking for marketing dollars to expand the market for its products and services and it was a way in which the company could attract investment dollars and marketing money and it was difficult to raise money on any other basis. It was a -- and so it seemed like it was a win-win for the investor. It was good for the customer and so it was a -- seemed like a good financial structure to raise new capital. ...
+Q. Now in 1995 Vidatron entered into a joint venture agreement with the New Media Marketing Limited Partnership and what was -- from Vidatron's perspective, what was the reason for entering into that joint venture agreement with the New Media Marketing Limited Partnership?
+A. Well, again it was a business relationship which would provide the company with marketing dollars. And so it was -- we felt it was an appropriate time for the company to be raising -- having access to money for the purpose of marketing its products and services.
+Q. And why was it important to the company to raise marketing dollars?
+A. Well, ultimately again, getting back to our original plan, we wanted to become less client focused, more product driven, and we needed to expand the markets for our products and so we needed to get exposure, we needed to have marketing for attending trade shows, for advertising, for doing direct mail so that we could really exploit, you know, the money that was invested in our product side of our business. So we then felt that it was extremely important to have marketing money.
+Q. And was it your view that the joint venture agreement, the 1995 agreement between Vidatron and the New Media Marketing Limited Partnership, that that would be a good thing for the investors as well?
+A. Yes, absolutely.
+Q. And what in your view -- why in your view would it have been good for the investors?
+A. Well, first of all because it was marketing money it allowed them to participate in the growth of the business and it was money that was going in as sort of last money in, but the investors were participating in the first dollars out from marketing. And so it wasn't R & D, it was marketing expenditures and then the investors got to participate in the success, if there was success, in the sales of the products and services. So we felt that it was a real win-win for both the investors and the company. ...
+Q. Okay let's just speak about the potential to share in the revenue stream.
+A. Yes.
+Q. What was your understanding of how that worked?
+A. Well, my understanding was, is that for incurring the -- for putting up the money to market its products and services the investors would have the right to earn a percentage of the company's gross revenue over a period of time.
+Q. And you are aware there was an exchange feature in the joint venture --
+A. Yes.
+Q. -- agreements? And what was your understanding of that exchange feature and how it would work?
+A. Well, my understanding was that the investors would have an option to either elect to convert to equity or to stay in and keep a royalty stream, keep a revenue stream.
+Q. And what was your understanding of the terms of the exchange offer?
+A. Well, you know, I'm a little foggy on the actual mechanics of it but the exchange offer would be based on a number that was around 1,080 and it was the lesser of that number, and so it was a -- if the valuation was greater than that number it would -- the investors would receive $1,080, if it was less than that they would receive less than that.
+...
+Q. ... at that time what did you know about the method of valuation that would be used to determine the fair market value of the units for the purposes of the exchange offer?
+A. I knew nothing about the method of evaluation. It was --
+Q. And with respect to the 1996 joint venture agreement what did you know at the time of entering into that agreement? What -- the method of valuation that would be used?
+A. I knew nothing about the method of valuation.
+Q. Now based on your understanding of the joint venture agreements what then was the minimum return that an investor would guarantee to receive by virtue of subscribing for units in the New Media Marketing Limited Partnership?
+A. I mean, I don't -- I mean, I don't think there was an amount that was guaranteed.
+Q. Why do you say that?
+A. Well, it's interesting. There were three features to the investment, as I see it. There was the write-offs, a potential revenue stream, and equity. And the only thing I thought for sure that was guaranteed was that they would get the write-off. Whether there was going to be a revenue stream that was going to make sense I don't know or whether there was going to be -- what the exchange offer was going to be I didn't -- nobody knew at the time. So I don't know what the guarantee would be.
+Q. And what was your view of the riskiness, if you will, of a subscription in the partnership units in New Media I and New Media II?
+A. Well again, I -- there was risk obviously associated with investing in this business. We did try to -- we did believe that we were building a successful business. We did believe that we were spending marketing money. We were going to spend it wisely and therefore we did think it would have a very positive effect on the business. But there was no way of knowing to what extent the marketing money was going to be effective or work. But we did manage it properly and we did enter into -- you know, used the money wisely and therefore we had good results with it. But at the point in time we had no way of knowing what the results would be. ....
+Q. And how well did you know Mr. Grant prior to him preparing the valuations for the New Media Marketing I Limited Partnership?
+A. I didn't know him at all really. As it turned out, we had people -- it turned out we knew we had -- we had people that we knew in common but that was about it.
+Q. Do you know when Mr. Grant was actually hired to do the valuation for the New Media Marketing I Limited Partnership?
+A. I don't know the specific date. ...
+Q. What instructions did you provide to Mr. Grant when he was hired to do the valuation?
+A. I didn't provide any -- no instructions. ...
+Q. When did you first know what Mr. Grant's valuation would be in respect of the New Media Marketing I units?
+A. I don't think I knew until he actually published something and wrote something. ...
+Q. And what effect did the marketing expenditures that were made by the New Media I partnership and New Media II partnership, what effect did those marketing expenditures have on Vidatron?
+A. Well, I think they -- they had a terrific impact on the growth of the company. Some of the businesses really prospered. Not all the expenditures paid off, there were certain things that didn't work as well as others. But overall, it was money that was very well spent and had a terrific impact on the growth of the business. ...
+Q. And how did Vidatron grow or change between 1995 and 1996?
+A. Well, you know, having access to marketing money definitely initiated growth in our sales and revenues and as a result of that we were able to also go into new areas. And so we expanded into the -- we had money to expand into the area of television and film and that area experienced terrific growth over the next few years and that was a result of having access to money to attend trade shows and to market these existing products and so on.
+Q. And how did Vidatron grow or change from 1996 to 1997?
+A. Well, again it was always becoming -- our revenue came from the product side of our business. So the service side of the business stayed pretty constant but we then were able -- we had more money to be developing and marketing products and that area was really the film and television area and so -- and that area experienced terrific growth.
+...
+Q. ... Could you please clarify how the revenue stream is related to the riskiness of a subscription in units?
+A. Well, first of all, if the investor choose -- chose to keep his interest in the revenue stream, there was no guarantee on what the future revenues were going to be. As it turned out, because of a number of factors, the company experienced a terrific growth. It would have been a very good investment had the investors stayed in and -- and managed to earn the revenues they had coming to them but there was absolutely no way of knowing. One of the main reasons for the growth in the business was because the Canadian dollar went from 74 cents to 64 cents and, therefore, there was enormous growth in the film and television business and there was no way of predicting that that would happen at the time.
+Q. And also in answer to my question on the riskiness of the subscription in the partnership agreement, you made a comment about there being uncertainty in equity and could you please explain to the court what you meant by that?
+A. Well -- there's two factors -- one is there was no way of knowing how many units -- how many units -- what the units would convert into, what the value was going to be at the time of the investment, and secondly, you didn't know what the value of the equity was going to be. So there were two -- two aspects of that that made it risky. ...
+Q. And you were aware of the tax aspect --
+A. Yes.
+...
+Q. What was your main reason for subscribing to units in both the New Media I and New Media II limited partnerships?
+A. Well, first and foremost, I always participated in any investment with new investors. I felt it was very important for me to put, you know, my money where my mouth was and so to participate in the investment with the investors. But ultimately it was a -- I felt it was a terrific investment in the growth of the company. It was a way to participate in the growth of the business and at the same time have some -- some tax benefits for it. But it was driven by the fact that I wanted to have an investment in the business as I did from day one.
+Q. Did you accept the exchange offer when it was tendered to convert your units --
+A. Yes.
+Q. To shares? And why did you choose to exchange your units for shares?
+A. Well, you know, that's a good question and in hindsight I -- I wish I hadn't have exchanged for shares but at the time it was a climate where equity was more popular than income streams. You know, had it been the year 2000 after the stock market crash or 1998 after the stock market crash, investors -- and I would have been more interested in a -- revenue stream than I would be in stock in -- in a liquid company and so it just happened to be the economic climate. Also, the stock was going up at that time and so it looked like it was a good -- you know, it was a good opportunity.
+[9] Kathleen Martin ("Martin"), who had been President and a director of New Media Finance Limited, the general partner of the New Media Marketing I Limited Partnership, a witness for the Appellant, had the following exchanges with Appellants' counsel:
+Q. .... Did the general partner for New Media Marketing I select the valuator under the provisions of this agreement?
+A. Yes.
+Q. And who did the general partner select?
+A. We had a choice of three. Two were unavailable and we -- we selected Ian S. Grant of Ian S. Grant & Associates.
+...
+Q. Did you know if there were any regulatory requirements that would apply to the valuation that was completed by a valuator?
+A. The valuation had to pass muster with the -- with the Vancouver Stock Exchange at the time because the -- the exchange offer involved the issuance of shares from treasury so the Exchange would have to -- the Exchange would have to vet the valuation to see that it was fair in the circumstances.
+Q. And what instructions did you provide to Mr. Grant in preparing his valuation?
+A. None. I didn't instruct him on how to prepare a valuation. I instructed him that there was a valuation needed. His process was his process. It was -- it had nothing to do with me. I mean certainly he probably wanted information from me but I didn't instruct him on how to do his job.
+...
+Q. And when did the general partner first determine that it would recommend the acceptance of the offer?
+A. After reviewing the valuation report, having discussions with management of the company and looking at comparable companies and looking at the -- at the stock performance would be when we would make that recommendation.
+Q. And to the best of your knowledge were there any partners that did not accept the offer to exchange units for shares with respect to the 1996 partnership?
+A. Yes there were.
+Q. Do you know how many?
+A. I don't. I do know that in each partnership there were people who did not accept. Obviously, the majority did accept because there was a conversion but I do know that in each instance -- there were limited partnership unitholders who did not accept the offer.
+[10] Hawley, a financial advisor gave evidence on behalf of the Appellant. Extracts of the direct examination follow:
+Q. And what were your impressions about the business as a result of your meeting people there?
+A. Well, I had done a little bit of research and it looked like it had been around for about nine or ten years at that point and had gone through various ups and downs and it looked like it was finally starting to -- to do well and so I -- I was impressed with the people and -- and the opportunity and it was an area personally that I hadn't had any investment exposure in my portfolio in at that time so I thought I would consider it.
+...
+Q. What was your understanding of what the partnership was going to do, what the relationship was between the partnership and Vidatron?
+A. It was my understanding that the partnership was raising capital in order to help the business expand and grow. It was at a new stage in its entrepreneurship and that they were going to be using the money to promote their various products and services and enhance the revenues of the firm.
+...
+Q. Did you understand there was an exchange offer that was required to be made by Vidatron?
+A. I did.
+Q. And what did you understand about that offer?
+A. That the offer was going to take place about a year after the partnership came into being and that as an investor you would be given an opportunity to exchange your units in the limited partnership for shares in the company based on a formula that said you would get the lesser of $1,080 for each unit or the fair market value of those units and those -- the fair market value of those units were to be determined by an independent valuator.
+...
+Q. And at the time you subscribed for your units did you have any concern that 65 percent of the unitholders would not choose to convert?
+A. Yes, certainly, because I had no idea who the other unitholders were and there was a lot of uncertainties that were going to occur in the next twelve months so as far as how the business was going to do and -- and so there was -- yeah, always a great amount of uncertainty whether or not it would -- it would happen or not.
+Q. Did you view your subscription for partnership units in the New Media Marketing Limited Partnership II to be a speculative investment?
+A. Yes, certainly.
+Q. And why was that?
+A. Well, for a lot of reasons. One was that it was still a young kind of entrepreneurial business in a -- in a type of area that was -- had lots of uncertainties to do with it but in -- after having gone through the process of doing some investigation and research, in my experience and in valuating these kind of circumstances it -- you place a lot of credence on the management and the players involved and I was impressed with the people in the firm and so for those reasons, even though it was speculative, I decided that it was worthwhile and it represented a very tiny part of my investment portfolio so it wasn't a significant portion of my investment.
+Q. When you invested -- subscribed for the units in the -- in the partnership what did you think the fair market value of the units would be at the time the exchange offer was to be made down the road?
+A. I really had no idea and I don't -- I think it was impossible to know because it depended whatever the valuation report was going to determine the fair market value at that particular time, so you knew it was the less of the $1,080 or the fair market value but that fair market value could have been greater or lesser and so -- so it was an unknown.
+Q. Were you aware there was a tax aspect to your investment in the partnership?
+A. Yes, certainly.
+Q. And what aspect -- what impact did this tax aspect have on your decision to invest in the partnership?
+A. I considered it a nice extra benefit but I didn't consider it material to my investing. I would not have invested any money in the -- in this partnership if I didn't feel that the business was a viable business with a good potential and because I had witnessed too many situations in dealing with clients over the years, where they would have been much better off to have kept at least half the money and paid their tax instead of losing all of it in poor investments just because they were in a tax shelter.
+[11] Lodge also testified. He spoke of a limited partnership investment in Fossil Hills, involving real estate in the U.S.A. He said that it had done very well and that he has been able to share in the revenue stream from that investment for some 14 years to the date of his testimony. He stated that he had participated in a number of different investments with Ken Stroud, who was in senior management with the Plan Vest investment firm and had learned of the present opportunity. He stated that the potential investment in partnership units had an attraction for him because he wanted to diversify his holdings and had not considered up until that time a venture that would get involved in marketing and media and ultimately, the movie business. He said:
+At that time Hollywood North was being expressed as a depiction of Vancouver and I thought that this is something that I should get involved with if for no other reason of simply diversifying my portfolio.
+[12] He also stated:
+A. I subscribed to those units because it was my entry into this new sector that I had not been involved with before so it was for reasons of diversification and because of my positive experience with the Fossil Hills investment three years prior to that. I anticipated that there would be an investment opportunity, growth of the company, a share in a revenue stream, all of which has come to pass with Fossil Hills so I felt comfortable with it.
+[13] This exchange then followed with Appellants' counsel:
+Q. You were -- were you aware of a tax aspect that was involved with the investment?
+A. Yes. That was also a feature that was talked about and it goes without saying that, in addition to the sharing in the growth opportunity of a company, there was the added feature of reducing my exposure to taxation.
+Q. What impact did the tax aspect have on your decision to invest in the partnership?
+A. Well, that was the predominant feature in my mind. There was no way I would invest in something that was going to go into the tank. The first thing that I would have to consider is does this investment have a reasonable chance of positive returns and can I stay in it for some long term duration. Like I say, my time horizons on Fossil Hills was five years so I looked firstly upon it as an investment opportunity and share in the growth and naturally, the added benefit of taxation exposure came along with that.
+...
+Q. And what was your understanding of the price at which that exchange offer would be made?
+A. I understood that there was going to be an evaluation process of the units and that it was not a sure bet there was -- it remained to be seen what those units were going to be evaluated at, but it was -- it was something that could fluctuate wildly. ...
+Q. Why did you accept the offer to exchange units for shares?
+A. Well, first of all, there was a choice involved and that was clearly articulated to me as to whether or not I go ahead and make that election for -- for the exchange but I think it's fair to say that I elected to go that way on the recommendation of Mr. Ken Stroud. Like I say, it was -- it was -- it also had the added feature of liquidity and that was the one thing that in my Fossil Hills investment that I did not enjoy. Now as to whether or not at that point in time I gave much prominence to the liquidity factor I can't really say at this time if it -- if it factored in, but it very -- it may have, it very well may have.
+Q. Who was -- what was your view on the nature, and by that I mean the risk, of your investment in the partnership?
+A. Well, just as a general comment, I viewed it as very risky. First of all, we were dealing with a junior start-up company which inherently has a lot of risks. In fact, many start-up companies fail in their formative years so I knew that there was a high degree of risk and I didn't know for a certainty if I would be able to get my money out of the partnership. That whole situation could have gone sideways so the -- the revenue stream was certainly indeterminate. ...
+Q. Mr. Lodge, you -- you stated in cross-examination that you understood from Mr. Stroud that you would get a reasonable return on your investment in the partnership?
+A. Yes.
+Q. What guarantee was provided to you by Mr. Stroud that you would get a reasonable rate of return?
+A. There was no guarantee. Ken was very clear that things that have inherent risk to it he -- he makes sure that he doesn't minimize that so this wasn't presented to me as any kind of a guarantee.
+[14] One Kenneth Stroud ("Stroud"), a senior investment advisor with Assante Capital, gave evidence on behalf of the Appellants. He had been a financial advisor for 22 years. Lodge was one of his clients. He said that he had 450 to 500 clients and that he identified about 30 people to whom he presented the possibility of the partnership unit purchase. When asked why he didn't speak to all of his clients he said:
+A combination of things, but primarily just from a risk tolerance point of view, the ability to -- the skill sets to look at a product like that, having the financial wherewithal to absorb the risk of a product like that, so it narrows down the field pretty quickly.
+[15] He described the risk as "couple-fold". He said that because of the limited partnership there was no immediate sale of units available in the initial set-up. He said also that there was a junior company involved and that there was accompanying uncertainty as to whether it could achieve what it said it could do. He said that 22 people in total, 6 in 1995 and 16 in 1996 became involved with this investment. He said that his clients liked the idea of the film business and the idea of the tax break. He said that he was aware of the exchange offer but could not make any assessment of that until the exchange actually took place. He stated that one would have to wait until the business actually materialized, that one could check the value of a stock on the exchange and that the share price was moving but that an investor would have to wait for the third party evaluator to assess the units. He said that he left up to his clients the decision as to whether to exchange the shares or retain the units. He said that in 1995 when he first looked at this investment product he was not aware of what the valuation was going to be in the following year. In his description of why he accepted the offer he said:
+...
+I was kind of torn between the two decisions. I thought that the revenue streams -- they hadn't quite hit their mark yet, but you know, the stock price was moving up. Maybe it was suggesting that the revenues were on their way and away they went. I guess ultimately I figured the liquidity that I could create from taking the offer would allow me to, you know, make a faster decision one way or the other.
+[16] In cross-examination, in answer to a query as to what persuaded him to buy the units instead of shares of Vidatron he said:
+Well, I think it just afforded the opportunity in two situations. We could watch how the company could grow. We had the potential to participate in revenue, which was an attraction. We did get a tax break which was obviously an attraction and we had choices at the end of the day that we could make and we were involved in a company that was -- what seemed to be a moving industry at the time.
+[17] Ian Stuart Grant ("Grant"), a witness for the Appellant, was the valuator referred to above. He was involved in the following exchanges on direct examination:
+Q. And do you recall who commissioned you to prepare this report?
+A. I would have been -- technically been commissioned by the general partner, technically, but from a practical standpoint all of my conversations of any -- of any major regard and ongoing conversations would have been with the key management of Vidatron.
+Q. Okay. And do you recall whether you were ever -- there was any indication as to a target that you had to arrive at in preparing this valuation?
+A. No. There was never any discussion on that and there never would have been one entertained.
+Q. Now, were you aware that this report might be subject to review by the Vancouver Stock Exchange?
+A. I was very aware of that.
+...
+Q. Had you prepared valuations in the past that were reviewed by the Vancouver Stock Exchange?
+A. Yes I did.
+Q. And was this valuation reviewed by the Vancouver Stock Exchange?
+A. No it was not.
+[18] Appellants' counsel advised the Court that Mr. Grant had not been qualified as an expert witness and that his evidence had not been tendered as an expert's report.
+[19] The Appellants' final witness, Juliette Jones ("Jones") was an accountant who had been employed by Vidatron since 1991. She stated that Vidatron's operations themselves were not financing the overhead costs of the business. The following exchange took place during direct examination:
+Q. What was Vidatron's motivation in agreeing to enter into this agreement?
+A. Well, we wanted to raise marketing money because we believed that by spending money on marketing we could take the company to the next level and grow a bigger, stronger company that was more capable of catching the attention of the investment community, raise additional capital and just overall grow our business.
+Q. And why was it that you targeted the marketing area as the focus for this money?
+A. Well, specifically, we believed that by spending money on marketing we could increase our revenues and by increasing our revenues we would then -- am I answering your question?
+Q. Yes, go on.
+A. So by then increasing our revenues we would then get the attention of the investment community. At the time that we did the -- I think in 1994 we did about one and a half million in revenues and those revenues grew, I believe, due to the fact that we were able to get in front of people and to get our story told, get marketing revenues in. We were able to become a bigger company, a stronger company, and raise interest in the public markets as well as raise interest in getting new contracts and new business in.
+Jones said that she provided no instructions to Grant in connection with his evaluation preparation and that Grant had come to her telling her what he needed in order to do so. She said she had no indication as to the value he was going to "come up with" prior to him producing his report. She also said that she never had any discussions with him as to a target value that he should "arrive at". An extensive cross-examination of Jones in an air of tension and hostility, did not affect the evidence above described. On re-examination the following exchange took place:
+Q. You were referred to the revenue projections that Vidatron made in 1995 in respect to the 1995 partnership and for 96 in respect to the 96 partnership. Did you have any knowledge as to how Ian Grant utilized those figures in coming up with his valuation?
+A. No.
+Q. Were you involved in any way with his deliberations in how to plug those into his formula?
+A. No.
+[20] Appellants' counsel then read into evidence portions of the examination for discovery of T. Cillo, an auditor at the Canada Customs and Revenue Agency. The following portions are reproduced:
+Q. I think that you say later on in this document that one of the reasons that you reassessed the partnership is because the transactions that involved the acquisition of the partnership units followed by their subsequent disposition by the partners was pre-ordained to occur?
+A. Yes.
+Q. That it was certain to occur?
+A. That is correct.
+Cillo said that the value of the units had declined to about ten percent of the initial subscription price. He said that when the exchange of partnership units for shares of Vidatron took place it was a "rollover" under section 85 of the Income Tax Act. He said that the fair market value from the valuation report was much higher than $1,080 and that on the section 85 transaction the elected amount was the adjusted cost base of approximately ten percent as above described. The following exchange occurred:
+Q. And you stated earlier that in your view that was put there as a reference to an economic loss that somebody might suffer?
+A. Right.
+Q. And so you have also said that the adjusted cost base figure that was contained in the section 85 election forms, namely around 10 percent of the initial subscription price, was indicative of value?
+A. Yes.
+Q. Maybe not the only indicator but indicative?
+A. Exactly, that's right.
+Q. So when it comes time to applying this test, in your mind at least, under 96(2.2)(d) you saw $1,080 being offered, right?
+A. Correct.
+Q. And you compared it to the adjusted cost base of the units which was about ten percent of the initial subscription price?
+A. That's correct.
+Q. And in your mind, that was the loss that was being enumerated or reduced by virtue of this exchange offer?
+A. Yes.
+[21] Cillo also said that the tax benefit was the ability to write-off what "in essence was a capital investment in shares":
+A. The partner or the investor, whichever term you want to use, would eventually be holding shares in the company.
+Q. So you, in essence, looked at the investors who began with cash in their pockets and ended up a year later with shares in their pockets?
+A. Yes.
+Q. And concluded that these transactions ought to all be collapsed down effectively into the space of a nanosecond such that it could be viewed as an acquisition of shares?
+A. Well, that's not totally true. Of course we analyze the transaction from point one to point -- to the end point. So we looked at the various transactions that had taken place and we arrived at the conclusion that -- I don't want to use the word again but that's what the intention was.
+[22] Cillo then said that if one is making a capital investment he is not entitled to a complete write-off. He said, accordingly, that section 18(1)(b) of the Income Tax Act applied, that section having been circumvented by the transactions that had taken place. These questions and answers followed:
+Q. Well, the general anti-avoidance rule, for example, allows one to recharacterize transactions and so you thought that these ought to be recharacterized given the way the circumstances came about?
+A. That's correct.
+Q. I don't see any reference in these position papers to the transactions being a sham for example?
+A. No.
+Q. Or that they were legally ineffective? There's no reference to that?
+A. No, there isn't.
+Q. So when you say that it was in substance a purchase of shares you are really relying on a recharacterization provisions of the anti-avoidance rule?
+A. I believe so, yeah.
+...
+Q. All right. Can I refer you back to that position paper ... There is a heading part way down ... it states:
+Vidatron however was, and continues to be, a commercially viable public company with the ability to raise equity financing.
+Did you undertake any investigations to determine the extent to which Vidatron was able to raise equity financing or did you have any experience in that regard?
+A. No I didn't.
+Q. And what did you base this statement on then? Simply the fact that it was a public company?
+A. I believe so, yes.
+[23] Then, Respondent's counsel read in portions of the examination for discovery of the Appellant Howe. The following portions are reproduced:
+Q. And did he tell you during the course of that conversation that as a consequence of making your initial investment you would then get a tax write-off for your 1995 taxation year of about half of your initial investment?
+A. He told me it was a tax write-off. He didn't really specify exactly what it was.
+Howe, in the examination, then advised that he had gone to the premises and wanted to know exactly what they were doing and what they planned to do. He said that he had talked to Kathleen Martin or with Shelley Kirk by telephone. He then said:
+And so they gave me the tour and explained things to me, and it was after that that I went back and thought about it for a while because I was interested in, in exactly -- you know, it's all right to have a tax write-off but sometimes you never see your money again, so I was interested in what that business was going to do.
+Other quotations follow:
+Q. I take it that this is what you understood would happen once you bought your units. You would have a deductible expense, and this is calculated per $10,000 investment and based on that $10,000 investment, according to this sheet there would be a deductible expense right up front in 1995 of $9,375. And if you walk through the various steps it showed the tax savings and a net investment of about $4,900, is that correct?
+A. That's what it showed. ... Like they might have handed me the stuff but like a lot of other things I don't read everything. ...
+Q. Did you have any understanding of how your units in the partnership would be valued for the purposes of the exchange option which was to occur before August, 1996?
+A. Yeah. I understood that for every $1,000 I would get a minimum of $1,080 back. That's what I understood. ...
+Q. Did you have any understanding that an appraisal would be done in respect to the value, like a formal appraisal would be done in respect to the value of the units?
+A. I don't know -- I don't understand what you mean, appraisal by who?
+Q. An appraisal by someone other than by the companies of Vidatron or the partnership's choosing. Did you know that?
+A. Not at the time I bought. ...
+Q. Well, what did you understand gave rise to your deduction in 1995?
+A. That I contributed $13,000 into this partnership and for some reason it was a tax deduction and they were using my money and I was going to get the tax deduction for it.
+ANALYSIS AND CONCLUSION:
+[24] The first issue involves paragraph 96(2.2)(d) as it relates to Vidatron's obligation to make an offer to all partners of the two partnerships at the lesser of $1,080 per unit and the fair market value of each unit at the time of the offer.
+[25] For the purposes of this case, that subparagraph describes the "at-risk amount" as the total of the amount of the adjusted cost base of the taxpayer's partnership interest plus the taxpayer's share of income for the fiscal period minus certain amounts, including that described in paragraph 96(2.2)(d), the pertinent portions of which read as follows:
+(d) Where the taxpayer ... is entitled, either immediately or in the future and either absolutely or contingently, to receive or obtain any amount or benefit, whether by way of reimbursement, compensation, revenue guarantee or proceeds of disposition or in any other form or manner whatever, granted or to be granted for the purpose of reducing the impact, in whole or in part, of any loss that the taxpayer may sustain because the taxpayer is a member of the partnership, or holds or disposes of an interest in the partnership ...
+(emphasis added)
+[26] The Federal Court of Appeal in Peter Brown v. The Queen, 2003 DTC 5298 at 5303 said:
+[37] Broadly speaking, the At-Risk Rules of the Income Tax Act restrict limited partners' losses from a limited partnership, for income tax purposes, to their capital at risk. ...
+Under subsection 96(2.1) of the Act limited partners can only deduct their proportionate share of business losses from a partnership up to their "at-risk amount".
+[27] The only "entitlement" at issue in this case is the Vidatron exchange offer. It was obligated to make an offer to acquire the partnership units at the lesser of the fair market value and $1,080 per unit. Under this formula, the price offered by Vidatron could never exceed a unit's fair market value at the time of the offer. The partners' risks fluctuated directly with the fortunes of the partnership's business. As noted above, the auditor confused the "elected amount" under the section 85 election - an amount equal to the adjusted cost base of the partnership units - with the units' fair market value. This led to his erroneous conclusion that Vidatron had overpaid for the units. Counsel for both parties made submissions with respect to whether the:
+"purpose of reducing the impact ... of any loss"[1]
+required a subjective or objective analysis with respect to the purpose. I see no value in presenting and analyzing those submissions because it is clear, given the requirement that Vidatron make an offer at the lesser of $1,080 and the fair market value of a unit, that it was impossible for the Appellants to receive any amount or benefit reducing the loss sustained on the disposition of a partnership interest. Indeed, if the lesser of the two figures was an amount lower than $1,080, each partner would have suffered an economic loss. There is nothing in the formula or in the evidence before me to suggest any other conclusion. Respondent's counsel conducted lengthy cross-examinations and referred to provisions of the relevant documents and to the history of prior partnerships, obviously attempting, through insinuation, to persuade the Court that the amount to be offered in exchange for a unit would always be at least $1,080. That is simply not in accord with the facts. Respondent's counsel said, in her submissions:
+I submit that where the amount of the benefit is ascertained or ascertainable, the words in paragraph 96(2.2)(d) are broadly worded enough to catch that benefit.
+The weakness with that submission is that there is no proof from the time of the creation of the exchange offer amount, that the fair market value would be greater than $1,080. Respondent's counsel also said:
+...
+The principals of Vidatron knew that the fair market value would come out to a number greater than $1,080. They knew that. And they knew that because of the history, they knew that because of the fact that the values of the units were predicated on the future revenue stream
+...
+There is no evidence to the effect that the principals knew that the fair market value would be greater than $1,080. The same comment can be made with respect to another submission by Respondent's counsel, namely:
+And once you look at the ensemble of the circumstances in the evidence and if you find that yes, $1,080 was a floor and it wasn't a ceiling, because everybody knew, or everybody could have known, if they had looked at the documents and crunched the numbers, that the fair market value in these two years, as in previous years, would always come out to a number higher than 1,080.
+In addition, Respondent's counsel did not even refer to or acknowledge the fact that any number of facts could have arisen which could have affected the company's business adversely, seriously affecting the fair market value used in the formula.
+Counsel for the Respondent, with respect to the "purpose" as that word was used in paragraph 96(2.2)(d), said:
+... that the purpose does not have to be exclusively, within the words of the provision, for the purpose of reducing the impact in whole or in part of any loss that the taxpayer may sustain.
+She referred to Ludco Enterprises Ltd. v. H.M.Q., 2001 DTC 505, a decision of the Supreme Court of Canada. Her submission was, in part:
+And the Ludco decision tells us that when the phrase "the purpose" is used, it doesn't have to be the only purpose. So it wouldn't be fatal to the Respondent's case on purpose if you were to find on the facts that the purpose of reducing any loss that these taxpayers may have sustained otherwise isn't the only purpose. There can be more than one purpose. That is all I am saying.
+I read aloud the pertinent portion of the above subsection with respect to a taxpayer being entitled to receive or obtain any amount or benefit
+granted or to be granted for the purpose of reducing the impact, in whole or in part, of any loss that the taxpayer may sustain.
+When I asked counsel what purpose other than to reduce "the impact ... of any loss" would be relevant to an examination of that portion, she replied:
+I am not suggesting that a consideration of other purposes might be relevant. What I am suggesting is that in my learned friend's submission, I understood him to say that the purpose was to raise capital in Vidatron to expand on marketing activities.
+It is abundantly clear that any benefit must be "granted for the purpose of reducing the impact" in order for the assessment to stand. Any other discussion of purpose is irrelevant and unnecessary.
+ALTERNATE POSITION:
+[28] At the hearing, Respondent's second counsel, after some discussion of the "misuse" of paragraph 18(1)(b) of the Act responded to a question by the Court as follows:
+Justice: Well, are you withdrawing that argument?
+Ms. Meneguzzi: Yes, we are withdrawing it.
+That ends the Respondent's "misuse" position.
+[29] With respect to whether the transactions in this case resulted in "an abuse having regard to the provisions of" the Income Tax Act, read as a whole, counsel for the Appellant referred to the Respondent's submission that the purchase of partnership units was in effect, the purchase of Vidatron shares, i.e. capital assets, and that paragraph 18(1)(b) of the Act prohibited the deduction of capital outlays. Counsel submitted in his written submission, referring to The Queen v. Canadian Pacific Limited, 2002 DTC 6742:
+54. However, the transactions at issue cannot first be collapsed into a share purchase either on an economic substance analysis or on the basis of subsection 245(5) of the Act, as a prelude to applying the GAAR. The decision of the Federal Court of Appeal in Canadian Pacific is directly on point in these circumstances. In that case, the taxpayer borrowed funds in Australian and New Zealand dollars at a relatively high interest rate, converted the borrowed funds immediately into Canadian dollars, and hedged the required repayments under the debentures. As a result, the taxpayer had to pay a high interest rate under the debentures but by reason of the forward sale was assured of realizing a capital gain at the end of debentures' term. The Minister sought to recharacterize a portion of the interest payments under the debentures as principal, asserting that a portion of the interest was the economic equivalent of principal, since the rate far exceeded comparable rates on Canadian dollar borrowings. The Court held:
+"The Minister's argument as to the abuse of the Act as a whole must fail because it depends upon recharacterizing the interest payment as capital payments. It is therefore unnecessary to comment on his argument as to the policy of the Act."
+The immediately preceding paragraph in that judgment reads:
+This does not mean a recharacterization cannot occur. A recharacterization of a transaction is specifically permitted under section 245, but only after it has been established that there has been an avoidance transaction and that there would otherwise be a misuse or abuse. A transaction cannot be portrayed as something which it is not, nor can it be recharacterized in order to make it an avoidance transaction.
+Counsel continued as follows:
+55. The Minister's argument in this case is completely answered by the Federal Court of Appeal's decision in Canadian Pacific. Without the ability to first recharacterize the transactions in issue, the respondent's asserted relevant policy of the Act - to preclude the deduction of a capital outlay - has no application to the unaltered transactions undertaken by the appellants in this case. It is irrelevant.
+56. The transactions that were actually undertaken were in complete harmony with the provisions of the Act. The appellants first acquired partnership interests in one or the other, or both, of the New Media partnerships. The partnerships were valid and subsisting partnerships and each carried on a business. There is no dispute that the NMI partnership carried on business and from those business activities incurred a business loss in 1995 of $858,949 (paragraph 14 ASF). There is no dispute that the NMII partnership carried on business and from its business activities incurred a business loss in 1996 of $1,796,405(paragraph 33 ASFI).
+[30] The facts in paragraph 56 were established by the evidence, both in the agreed facts and as presented in oral evidence by witnesses that I find to have been credible. Nothing in the Act prevents the creation of partnerships and joint venture agreements depending on whether they did or did not incur business losses.
+[31] Appellant's counsel in paragraphs 60, 61 and 62 of his written submission states:
+60. Once it is determined that the NMI and NMII partnerships incurred business losses, paragraph 96(1)(g) of the Act deems each member of the partnership to have incurred business losses from that same source, to the extent of their respective share thereof. As a corollary to the flow-through of the business losses from the partnerships to the appellants, the appellants' adjusted cost base of their partnership interests was reduced under subparagraph 53(2)(c)(i) of the Act by the amount of the losses allocated to each appellant. This provision has the effect of recapturing, in capital gains form, any tax losses flowed through to partnership members that are not reflected in underlying economic losses to partnership assets.
+61. The flow through of business losses incurred by a partnership to its partners is not the deduction of a capital outlay. A partnership is nothing more than a conduit through which business income and losses are flowed to the partners. Subsection 96(1) acknowledges this conduit nature of a partnership by first treating a partnership as a person for the limited purpose of income computation (paragraph 96(1)(a)), and by then attributing the partnership income or loss to the partners to the extent of their share thereof (paragraphs 96(1)(f) and (g)).
+62. With regard to the exchange offer, incorporating a partnership on a tax-deferred basis is in complete harmony with the policy of the Act. The Act specifically contemplates two means by which members of a partnership can transform a business carried on in partnership form into one carried on in corporate form, on a tax-deferred basis. One is by having all the partners transfer their partnership interests into the corporation and file joint elections under subsection 85(1) of the Act. The partnership then ceases to exist as a matter of law, since it has only one partner following the transfers. This is the means by which the incorporation occurred in this case. The other means of incorporation a partnership is under subsections 85(2) and (3) of the Act whereby the partnership first transfers all its assets to the corporation in return for shares of the corporation, and the partnership then dissolves and distributes the corporate shares out to its partners.
+I am satisfied from the evidence that the partnerships were established in the 1995 and 1996 taxation years for the purpose of raising funds for specified purposes, including, in the words of Gamble:
+... expand the market for its products and services and it was a way in which the company could attract investment dollars and marketing money and it was difficult to raise money on any other basis.
+[32] The evidence shows clearly that the Appellants were not involved in a transaction or series of transactions within the meaning of subsection 245(3) since the transaction in question may:
+reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+(emphasis added)
+[33] Accordingly, I conclude that:
+(a) the Appellants were not, within the meaning of subsection 96(2.2)(d) of the Act, entitled to receive or obtain any amount or benefit granted or to be granted for the purpose of reducing the impact of any loss that they may have sustained by holding or disposing of an interest in the partnership and that, therefore, the amount of their partnership losses were not reduced by virtue of subsection 96(2.1). That subsection provides that a taxpayer's partnership loss will be reduced by any amount determined not to be an "at-risk amount" under subsection 96(2.2), and
+(b) the general anti-avoidance provisions of section 245 do not apply to the appeals.
+[34] Therefore, the appeals are allowed with one set of costs for the five Appellants.
+Signed at Ottawa, Canada this 29th day of October, 2004.
+"R.D. Bell"
+Bell, J.
+CITATION:
+2004TCC719
+COURT FILE NO.:
+2001-2716(IT)G; 2001-3707(IT)G;
+2001-3715(IT)G; 2001-3712(IT)G and
+2001-2718(IT)G
+STYLE OF CAUSE:
+Denis Howe et al v. The Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+March 29 and April 15, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice R.D. Bell
+DATE OF JUDGMENT:
+October 29, 2004
+APPEARANCES:
+Counsel for the Appellant:
+David R. Davies and Samantha Mason
+Counsel for the Respondent:
+Lynn M. Burch and Pam Meneguzzi
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David R. Davies
+Firm:
+Thorsteinssons
+Vancouver, British Columbia
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] the peculiar use of the word "impact", in whole or in part, was undoubtedly intended to mean, simply stated, the amount of the reduction of any economic loss.

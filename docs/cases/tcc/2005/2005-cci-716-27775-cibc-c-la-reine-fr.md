@@ -1,0 +1,151 @@
+---
+title: "CIBC c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27775/index.do"
+last_modified: "2005-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 716"
+citation2: ""
+neutral_citation: "2005 CCI 716"
+decision_date: "2005-11-07"
+language: "fr"
+item_id: "27775"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 263
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:20:13.139000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2947b42dcfe7178391be3dd8e71bb282a5adc26f66792da7ea8ed2bf10e083a7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# CIBC c. La Reine
+
+- Citation: 2005 CCI 716
+- Decision date: 2005-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 263, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CIBC c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-07
+Référence neutre
+2005 CCI 716
+Numéro de dossier
+2004-1427(GST)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-1427(GST)G
+ENTRE :
+LA BANQUE CANADIENNE IMPÉRIALE DE COMMERCE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+ONTARIO SOCIETY OF COLLECTION AGENCIES,
+intervenante proposée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+ORDONNANCE
+Vu la requête de la Ontario Society of Collection Agencies (l'« OSCA ») qui demande l'autorisation d'intervenir;
+La requête est accueillie conformément à l'article 28 des Règles de la Cour canadienne de l'impôt (procédure générale).
+L'OSCA est autorisée à intervenir à titre d'intervenante bénévole afin d'éclairer la Cour. À ce titre, elle ne pourra pas produire de preuve ni interroger les témoins. Son intervention à titre d'intervenante bénévole sera limitée à la présentation de plaidoiries orales ou d'observations écrites.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2005.
+« François Angers »
+Le juge Angers
+Traduction certifiée conforme
+ce 25e jour de juillet 2006.
+Yves Bellefeuille, réviseur
+Référence : 2005CCI716
+Date : 20051107
+Dossier : 2004-1427(GST)G
+ENTRE :
+LA BANQUE CANADIENNE IMPÉRIALE DE COMMERCE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+ONTARIO SOCIETY OF COLLECTION AGENCIES,
+intervenante proposée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Angers
+[1] La Ontario Society of Collection Agencies (l'« OSCA ») demande l'autorisation d'intervenir dans l'appel indiqué ci-dessus en vertu de l'article 28 des Règles de la Cour canadienne de l'impôt (procédure générale). L'appel se rapporte au droit de l'appelante (la « BCIC ») à un remboursement, aux termes de la Loi sur la taxe d'accise (la « LTA »), de la taxe sur les produits et services (la « TPS ») qu'elle a payée pour des services accomplis par des agences de recouvrement.
+[2] La question principale consiste à déterminer si les services fournis à la BCIC par les agences de recouvrement constituent un « service financier » au sens où l'entend le paragraphe 123(1) de la LTA et s'ils constituent, par conséquent, une « fourniture exonérée » aux termes de l'annexe V de la LTA, donc non assujettie à la TPS.
+[3] L'OSCA est une association d'entreprises dont l'activité des membres consiste à recouvrer auprès d'emprunteurs les créances de prêteurs et qui se consacre à la promotion de l'intégrité et du professionnalisme dans le domaine du recouvrement de créances. Dans sa déclaration sous serment à l'appui de la requête en autorisation d'intervenir, le président de l'OSCA explique ainsi pourquoi il estime que l'intérêt des membres de l'OSCA sera touché par l'issue de l'appel :
+[TRADUCTION]
+4. […] si l'appel de l'appelante est accueilli, cela établira le principe que les membres de l'OSCA offrent un « service financier » au sens de la LTA, lequel service est une « fourniture exonérée », non taxable en vertu de la LTA, ce qui aurait pour résultat que les membres de l'OSCA n'auraient pas le droit de demander des crédits de taxe sur les intrants relativement à la TPS payée sur des achats faits dans le cadre de la prestation de services exonérés.
+5. Le refus des crédits de taxe sur les intrants occasionnerait des coûts importants pour les membres de l'OSCA, coûts que ceux-ci seraient obligés de supporter directement. Cela aurait un effet considérable sur les activités des membres de l'OSCA.
+[4] L'OSCA soutient que si le point de vue de ses membres n'est pas présenté à la Cour, celle-ci rendra une décision sans comprendre parfaitement la nature des services offerts à l'appelante par les membres de l'OSCA et le contexte dans lequel ces services sont offerts.
+[5] L'appelante, pour sa part, soutient que l'OSCA ne devrait pas être autorisée à intervenir car elle n'a pas démontré comment son intervention aiderait la Cour, que la preuve qu'elle souhaite présenter n'est pas pertinente en ce qui a trait aux questions de droit et de fait très précises qui sont en cause et que, même si elle était jugée pertinente, cette preuve pourrait être présentée plus simplement et de façon plus opportune, par exemple en faisant comparaître l'OSCA comme témoin de la Couronne. Pour ce qui est des arguments juridiques, l'appelante est d'avis que la position de l'OSCA est identique à celle de l'intimée et que l'intimée est tout à fait apte à défendre cette position.
+[6] L'article 28 des Règles de la Cour canadienne de l'impôt (procédure générale) prévoit ce qui suit :
+Autorisation d'intervention
+28(1) Quiconque n'est pas partie à l'instance et prétend :
+a) qu'il a un intérêt dans l'objet de cette instance;
+b) qu'il peut subir un préjudice par suite du jugement;
+c) que lui-même et l'une ou plusieurs des parties à l'instance sont liés par la même question de droit, la même question de fait ou la même question de droit et de fait,
+peut demander, par voie de requête, l'autorisation d'intervenir dans l'instance.
+(2) Saisie de la requête, la Cour, après avoir examiné si l'intervention risque de retarder indûment ou de compromettre la décision sur les droits des parties à l'instance, peut :
+a) autoriser le requérant à intervenir à titre d'intervenant bénévole et sans être partie à l'instance, afin d'éclairer la Cour par son témoignage ou son argumentation;
+b) rendre toute directive qu'elle estime appropriée en matière d'actes de procédure, d'interrogatoire préalable ou de frais.
+[7] Robert McMechan et Gordon Bourgard, dans leur ouvrage intitulé Tax Court Practice, nous disent que la règle de la procédure générale en matière d'intervention applique le même critère que la plupart des provinces, sauf qu'une personne à qui on donne l'autorisation d'intervenir le fait à titre d'intervenante bénévole plutôt qu'à titre de « mise en cause ». Il y a peu d'arrêts publiés sur l'application de l'article 28.
+[8] Pour qu'une personne puisse présenter une requête à la Cour en vue d'obtenir une autorisation d'intervention, cette personne doit détenir un intérêt dans l'objet de l'instance et montrer qu'elle peut subir un préjudice par suite du jugement.
+[9] Dans le cadre d'appels en matière d'impôt sur le revenu, ce critère préliminaire peut parfois être difficile à appliquer, car une cotisation ne vise habituellement qu'un contribuable donné. De plus, le caractère confidentiel des renseignements concernant le contribuable qui peuvent devoir être divulgués pour qu'un intervenant puisse intervenir efficacement doit être pris en compte au moment d'évaluer les conditions à respecter. L'autorisation d'intervention a été refusée lorsque le seul intérêt dont l'existence a été démontrée était de nature jurisprudentielle (voir Tioxide Canada Inc. c. La Reine, no A‑563‑93, 5 mai 1994, 94 D.T.C. 6655 (C.A.F.)) et lorsque la position de l'intervenant était semblable à celle de l'intimée en vertu de l'article 241 de la Loi de l'impôt sur le revenu (voir Silicate Holdings Limited c. La Reine, no 1999‑3111(IT)G, 14 février 2001, 2001 D.T.C. 299 (C.C.I.)).
+[10] En revanche, dans l'arrêt Moss c. La Reine, no 97‑2294(IT)G, 8 octobre 1999, 99 D.T.C. 1229 (C.C.I.), la Cour a accordé à l'épouse d'un appelant l'autorisation d'intervenir dans l'appel de son époux parce qu'elle risquait de subir un préjudice par suite de l'issue de l'affaire, en ce qui concernait la disposition de biens et des revenus non déclarés. Bien que je sois d'accord avec l'avocat de l'appelante que les appels en matière d'impôt sur le revenu peuvent exiger l'adoption d'une norme plus rigoureuse pour l'application du critère préliminaire pour intervention que n'exigent les causes comportant des questions de droit public, je crois que la situation dans des appels en matière de TPS est peut-être un peu différente, en ce sens que la cotisation du bénéficiaire d'une fourniture a un effet direct sur la façon dont le ministre établit la cotisation des fournisseurs du bénéficiaire. Par conséquent, en l'espèce, le jugement peut faire subir un préjudice, à tout le moins, aux agences de recouvrement particulières avec lesquelles l'appelante fait affaire.
+[11] L'OSCA n'est pas l'agence particulière avec laquelle l'appelante fait affaire, mais vu qu'elle représente ses membres, qui ont un intérêt dans l'objet de la présente instance et qui peuvent subir un préjudice par suite du jugement, elle peut être autorisée à intervenir en sa qualité d'association représentant les membres touchés. Dans l'arrêt Maurice c. La Reine, no T‑1057‑96, 7 février 2000, [2000] A.C.F. no 208 (QL), la Cour fédérale, Section de première instance, a dit ce qui suit sur la question d'une entité qui intervient au nom des personnes qu'elle représente :
+Bien que le demandeur n'ait pas lui-même un intérêt direct dans l'issue du présent litige, les personnes qu'il représente en ont un qui, selon toute vraisemblance, est substantiel. L'intérêt du demandeur est plus solide qu'un simple intérêt jurisprudentiel, même si le demandeur possède également un tel intérêt. L'intérêt des personnes que le demandeur cherche à protéger s'appuie sur la même situation de fait que celle sur laquelle se fonde l'intérêt des demandeurs.
+[12] L'intervention de la part d'associations a été permise dans des affaires en matière d'impôt. Dans l'affaire Gifford c. Canada, [2004] 1 R.C.S. 411, par exemple, l'Association des banquiers canadiens a reçu l'autorisation d'intervenir auprès de la Cour suprême du Canada sur la question de la déductibilité d'intérêts.
+[13] En l'espèce, je crois que l'OSCA a un intérêt suffisant dans l'objet de l'appel et que ses membres peuvent subir un préjudice par suite du jugement de cette cour. Son intervention assurera donc une certaine protection à ses membres, car elle défendra leurs intérêts, et cette intervention devrait aider la Cour en ce sens que celle-ci aura la chance d'entendre tous les arguments juridiques possibles avant de rendre une décision.
+[14] Même s'il est satisfait au critère préliminaire pour l'intervention, la Cour doit déterminer si l'intervention risque de retarder indûment ou de compromettre la décision sur les droits des parties à l'instance. L'OSCA a déjà avisé la Cour que la date de l'audience lui est acceptable. Sa participation au déroulement de la procédure, par contre, risque non seulement de retarder la procédure, mais aussi de faire subir un préjudice à l'appelante. La cotisation visée par l'appel dont est saisie la Cour concerne l'appelante et ses relations contractuelles avec des agences de recouvrement particulières, ainsi que la manière dont l'intimée interprète ces relations. C'est sur le fondement de la cotisation visée par l'appel que cette cour doit trancher, et non sur la manière dont les agences de recouvrement mènent leurs activités en général. Je suis convaincu que les parties à l'appel sont tout à fait aptes à présenter, sans l'aide d'un intervenant, tous les faits pertinents à l'appui de leurs positions respectives eu égard aux questions soulevées par la cotisation frappée d'appel. Étant donné le caractère confidentiel des renseignements qui pourraient devoir être divulgués relativement aux débiteurs de l'appelante et au montant du remboursement, ces renseignements devraient demeurer entre les parties à l'appel. Ainsi, l'intérêt de l'OSCA et de ses membres en ce qui a trait au fondement de la cotisation sera, à mon avis, entièrement protégé.
+[15] Néanmoins, j'estime que l'OSCA peut aider la Cour dans l'appel à titre d'intervenante bénévole. Même si un intervenant bénévole doit, selon certains, être vu comme un participant impartial, il semblerait que le fait d'adopter une position partisane ne soit pas un obstacle absolu à l'intervention en cette qualité. En fait, l'on s'attendrait à ce qu'un intervenant adopte une position partisane. C'est ainsi que sera considéré l'intérêt que l'intervenant souhaite protéger. Pour ce qui est de savoir si cet intérêt peut être protégé par une des parties au litige, Paul R. Muldoon, à la page 143 de son ouvrage intitulé Law of Intervention (Aurora (Ontario), Canada Law Book Inc., 1989), a résumé ainsi la question :
+[TRADUCTION]
+La différence dans l'application de ce critère à l'intervention à titre de mis en cause et à titre d'intervenant bénévole se rapporte au rôle et à la nature de l'intervenant. Dans le cas d'une intervention à titre de mis en cause, l'intervenant cherche à protéger un intérêt particulier ou général; ainsi, la question est donc de savoir si cet intérêt est déjà entièrement protégé dans le cadre du litige. Dans le cas d'une intervention à titre d'intervenant bénévole, l'intervenant cherche à aider la Cour en révélant une approche ou un point de vue unique ou différent quant à une des questions en litige, en examinant une question pertinente qui ne serait pas examinée autrement, ou en présentant des opinions ou des points de vue d'un groupe qui serait touché par le litige. En fin de compte, la question dans le cas d'une intervention à titre de mis en cause consiste à déterminer si les intérêts que le requérant souhaite protéger sont pleinement et équitablement protégés par les parties existantes; dans le cas d'une intervention à titre d'intervenant bénévole, la question consiste à déterminer s'il y a une question, un point de vue ou une autre façon de voir les choses que la Cour trouverait utile dans ses délibérations.
+[16] J'estime que le point de vue de l'OSCA pourrait être utile à la Cour dans ses délibérations. La requête en vue d'obtenir l'autorisation d'intervenir dans l'appel est donc accueillie. L'OSCA peut intervenir à titre d'intervenante bénévole dans le but d'aider la Cour. Ainsi, elle ne pourra pas produire de preuve ni interroger les témoins. L'intervention de l'OSCA à titre d'intervenante bénévole est limitée à la présentation de plaidoiries orales ou d'observations écrites.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2005.
+« François Angers »
+Le juge Angers
+Traduction certifiée conforme
+ce 25e jour de juillet 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2005CCI716
+NO DU DOSSIER DE LA COUR : 2004-1427(GST)G
+INTITULÉ DE LA CAUSE : La Banque Canadienne Impériale de Commerce c. Sa Majesté la Reine et Ontario Society of Collection Agencies
+MOTIFS DE L'ORDONNANCE
+PAR : L'honorable juge François Angers
+DATE DE L'ORDONNANCE : Le 7 novembre 2005
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Noms : Me Jacques Bernier et Me Martin Sorensen
+Étude : Bennett Jones LLP
+Toronto (Ontario)
+Pour l'intimée : Me John H. Sims, c.r.
+Sous-procureur général du Canada Ottawa (Ontario)
+Pour l'intervenante proposée :
+Nom : Me Douglas H. Mathew
+Étude : Thorsteinssons LLP Toronto (Ontario)

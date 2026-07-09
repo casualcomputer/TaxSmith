@@ -1,0 +1,194 @@
+---
+title: "Robertson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/120655/index.do"
+last_modified: "2015-10-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 246"
+citation2: ""
+neutral_citation: "2015 CCI 246"
+decision_date: "2015-10-21"
+language: "fr"
+item_id: "120655"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2728
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:20:24.169000+00:00"
+cases_cited_count: 6
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b0405a95435c63158a1a57c190baba98814669958f30908baed69a651a9f241f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Robertson c. La Reine
+
+- Citation: 2015 CCI 246
+- Decision date: 2015-10-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2728, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Robertson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-10-21
+Référence neutre
+2015 CCI 246
+Numéro de dossier
+2012-2757(IT)G, 2012-2758(IT)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2757(IT)G
+ENTRE :
+JOHN ROBERTSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2012-2758(IT)G
+ET ENTRE :
+JOHN ROBERTSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 9 juin 2015, à Vancouver (Colombie‑Britannique)
+Observations écrites présentées au plus tard le 31 août 2015
+Devant : L'honorable juge Randall S. Bocock
+Comparutions :
+Avocat de l'appelant :
+Me Gavin Laird
+Avocat de l'intimée :
+Me Robin S. Whittaker
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels interjetés à l'encontre des nouvelles cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2006 et 2007 de l'appelant sont rejetés et les dépens partie-partie sont adjugés à l'intimée conformément au tarif.
+Signé à Ottawa, Canada, ce 21e jour d'octobre 2015.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2015 CCI 246
+Date : 20151021
+Dossier : 2012-2757(IT)G
+ENTRE :
+JOHN ROBERTSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2012-2758(IT)G
+ET ENTRE :
+JOHN ROBERTSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Bocock
+I. Introduction [1] Les présents appels concernent des options d'achat d'actions américaines (les « options ») reçues par l'appelant. L'appelant n'a pas déclaré les avantages liés aux options dans ses déclarations de revenus de 2006 et de 2007, soit les années où il a levé les options. Conjointement, les articles 3 et 7 de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « Loi »), exigent que les avantages découlant d'une option d'achat d'actions soient inclus dans la déclaration de revenus pour l'année de levée. L'appelant, M. Robertson, le reconnaît.
+II. Les faits [2] Les faits entourant les options de M. Robertson ne sont pas en litige. En termes simples, M. Robertson a levé les options pour acquérir des actions de sociétés fermées américaines en 2006 et en 2007. Les avantages découlant de la levée des options totalisaient 102 600,14 $ en 2006 et 508 657,97 $ en 2007. M. Robertson, un résident du Canada, n'a pas déclaré les avantages, contrairement à ce qui est prescrit. Les options et les nouvelles cotisations d'impôt ne sont pas en litige. À l'issue de la première journée de la présentation de la preuve, l'avocat de M. Robertson a également reconnu que le défaut de déclarer les avantages était une présentation erronée des faits, mais qui n'était pas imputable à la négligence, à l'inattention ou à une omission volontaire.
+[3] Bien que les cotisations aient été initialement établies conformément aux déclarations produites par l'appelant, les nouvelles cotisations subséquentes du ministre pour les années 2006 et 2007 étaient toutes deux datées du 8 juin 2011. En ce qui concerne l'année d'imposition 2006, cette date est sans contredit au‑delà de la période normale de nouvelle cotisation. La nouvelle cotisation de 2006 a donc été établie en application du paragraphe 152(4) au motif que le contribuable a fait une présentation erronée des faits par négligence, inattention ou omission volontaire.
+[4] La Cour est saisie d'une question distincte concernant l'année d'imposition 2007. La date limite à laquelle l'avis de nouvelle cotisation pouvait être envoyé était la date même de l'avis de cotisation : le 8 juin 2011. M. Robertson affirme que l'avis de cotisation n'a pas été envoyé à cette date. Bien que l'intimée ait présenté des éléments de preuve au procès pour prouver la signification durant la période normale de nouvelle cotisation, elle affirme à titre subsidiaire que, si la nouvelle cotisation n'a pas été envoyée durant la période normale de nouvelle cotisation, la déclaration de revenus de 2007 contenait alors elle aussi une présentation erronée des faits, comme celle de 2006, par négligence, inattention ou omission volontaire. Par conséquent, le ministre pouvait établir une nouvelle cotisation au‑delà de la période normale de nouvelle cotisation.
+III. Les questions en litige [5] Après le premier jour d'audience sur les quatre jours prévus, les avocats des deux parties ont fait des aveux et des concessions pour simplifier la procédure et pour établir l'ordre précis de l'analyse de la Cour. De plus, les avocats ont demandé que les observations soient présentées par écrit durant les mois de juillet et d'août 2015.
+[6] Par conséquent, voici les deux questions en litige et l'ordre dans lequel elles seront examinées par la Cour :
+1. La présentation erronée faite dans les déclarations de revenus en question est‑elle imputable à la négligence ou à l'inattention (le motif de l'omission volontaire a été écarté) (la « question de la présentation erronée »)?
+2. L'avis de nouvelle cotisation de 2007 a‑t‑il été envoyé durant la période normale de nouvelle cotisation (la « question de la cotisation envoyée dans les délais »)?
+[7] Les deux avocats ont convenu que les faits et les observations concernant la question de la présentation erronée de 2006 et de 2007 étaient identiques. Par conséquent, si la Cour estime que la présentation erronée est imputable à la négligence ou à l'inattention, la question de la cotisation envoyée dans les délais est théorique.
+A. Présentation erronée par négligence ou inattention (1) Quelques faits supplémentaires [8] S'agissant de la question de la présentation erronée, l'intimée a cité M. Robertson à titre de témoin opposé. Le témoignage de M. Robertson était direct, mais, à quelques reprises, il ne pouvait pas se souvenir de conversations précises avec sa comptable au sujet des options et des renseignements connexes.
+[9] Monsieur Robertson a reconnu qu'il a effectivement déposé les avis et les déclarations d'initié nécessaires et qu'il a tiré ou fait en sorte qu'on tire des chèques en lien avec l'émission et les dépôts des options. En revanche, M. Robertson ne pouvait se rappeler avoir soulevé la question des options avec la comptable qui a préparé ses déclarations de revenus canadiennes de 2006 et de 2007.
+[10] Les déclarations de revenus de M. Robertson ont été produites par voie électronique pour les deux années d'imposition. Il a examiné les ébauches de ces déclarations sur papier page par page avec sa comptable. Il n'a pas remarqué que les options n'y figuraient pas. Il n'a rien remarqué d'inhabituel dans ses déclarations. Il a signé les copies des déclarations. À l'époque, il croyait que la législation américaine s'appliquait aux options en raison de leur origine et que, légalement, il était donc tenu de déclarer les options aux É.‑U. lors de la vente des options, mais qu'il n'avait pas besoin de déclarer au Canada les avantages découlant des options américaines levées. La Cour ne disposait d'aucune preuve démontrant que M. Robertson avait inclus les avantages découlant de la levée des options dans ses déclarations de revenus aux É.‑U. En outre, s'il avait su que ces avantages liés aux options devaient être inclus dans ses déclarations de revenus canadiennes, M. Robertson aurait retardé la levée de ces options (au moyen de prolongations) jusqu'au moment précédant immédiatement leur vente; cette prolongation lui aurait permis de déclarer l'option levée, d'inscrire l'avantage et d'avoir l'argent requis pour payer l'impôt exigible durant la même année d'imposition.
+[11] Monsieur Robertson ne pouvait pas se souvenir d'avoir demandé à sa comptable si sa compréhension de l'imposition des options américaines était exacte ni si sa « connaissance » du traitement des options suivant la législation canadienne était exacte. En ce qui concerne les options d'achat d'actions émises à M. Robertson à l'égard de sociétés canadiennes, il avait signé et produit le formulaire T1212 (État du report des avantages liés aux options d'achat de titres) concernant les options d'achat d'actions pour d'autres années d'imposition, dont l'année précédente, 2005.
+[12] S'agissant de ses connaissances générales dans le domaine des affaires, M. Robertson était un président ou administrateur attentif, instruit et bien organisé de nombreuses sociétés canadiennes, américaines et étrangères. Il détenait souvent des options d'achat d'actions. Il a ordonné que divers formulaires réglementaires soient déposés à l'égard d'options d'achat d'actions de cette nature.
+[13] Monsieur Robertson a participé à la vérification effectuée par l'ARC et était parfaitement au courant de cette vérification. Il s'est penché sur la question de savoir si certaines ventes d'actions devraient être traitées comme un gain en capital ou un revenu et il est intervenu, de façon judicieuse, directement auprès de l'ARC. Finalement, les avis de nouvelle cotisation de 2006 et de 2007 portaient uniquement sur les avantages liés aux options et non sur la question de savoir s'il y avait un revenu ou un gain en capital.
+[14] Monsieur Robertson supervisait un système de dépôt, d'enregistrement et de conformité fiable dans ses bureaux. Une demi‑douzaine d'employés suivaient ses directives concernant la conformité des titres, des entreprises et des rapports.
+[15] La comptable, qui a préparé ses déclarations de revenus pour qu'il les examine et les signe, était par ailleurs très experte et travaillait pour M. Robertson depuis environ 15 ans. Aucune preuve n'a été présentée concernant la négligence de la comptable, à l'exception du témoignage de M. Robertson selon lequel elle n'a pas soulevé, tout comme lui, la question de l'inclusion des avantages liés aux options dans les années d'imposition 2006 et 2007.
+IV. Le droit en général et les observations de l'appelant A. Le droit en général sur la question de la présentation erronée [16] Le sous‑alinéa 152(4)a)(i) de la Loi prévoit une exception à la période normale de nouvelle cotisation. Pour que le ministre puisse établir une cotisation après la période normale de nouvelle cotisation, le contribuable ou la personne produisant la déclaration doit avoir fait : (i) une présentation erronée des faits; (ii) par négligence, inattention ou omission volontaire.
+[17] Il incombe au ministre de prouver que, selon la prépondérance des probabilités, ces deux éléments sont présents : Vine c. Canada, [2015] 4 R.C.F. 698, 2015 CAF 125 (« Vine »), au paragraphe 24. En l'espèce, l'appelant a reconnu l'existence du premier élément : la présentation erronée des faits.
+[18] Par conséquent, en ce qui a trait à la question de la présentation erronée, il incombe à l'intimée de présenter suffisamment d'éléments de preuve pour démontrer, selon la prépondérance des probabilités, que la présentation erronée a été faite par manque de diligence raisonnable : Venne c. La Reine, [1984] A.C.F. no 314 (QL) (« Venne »). Pour sa part, la diligence raisonnable exige une conduite objective dont ferait preuve « une personne avertie et prudente » dans des circonstances similaires : Angus c. La Reine, [1996] A.C.I. no 883 (« Angus »), au paragraphe 29. Cette norme objective oriente l'analyse de la Cour en ce qui a trait à la conduite, aux omissions et aux suppositions de M. Robertson au moment pertinent, à savoir le moment de la présentation erronée : Vachon c. La Reine, 2014 CAF 224 (« Vachon »), au paragraphe 4.
+B. Observations de l'appelant sur la question de la présentation erronée [19] Dans ses observations écrites, l'appelant a présenté trois motifs généraux à l'appui de son appel.
+(1) Aucune négligence ni inattention de la part de l'appelant [20] Même si M. Robertson a mal compris comment les options d'achat d'actions sont traitées selon le droit fiscal canadien et américain, il avait cette mauvaise compréhension de façon raisonnable, et elle n'était pas imputable à la négligence ou à l'inattention. L'appelant a combiné ses pratiques antérieures, ses suppositions juridiques fondées sur l'origine étrangère des options et l'absence d'avis contraire de la part de la comptable à qui il s'est fié.
+[21] S'agissant du fait que l'appelant s'est fié à sa comptable, cette relation de longue date englobait toutes les déclarations de revenus et tous les dépôts personnels et professionnels de M. Robertson. Ses conseillers et lui employaient des systèmes de production et de déclaration efficaces, qui ont tous fait en sorte que l'appelant avait un sentiment de certitude et d'assurance.
+[22] Compte tenu de ses systèmes sophistiqués, de ses pratiques antérieures conformes et du fait qu'il s'est fié à ses conseillers professionnels, pourquoi M. Robertson poserait-il des questions au sujet du traitement fiscal canadien des options américaines?
+(2) L'intimée ne s'est pas acquittée de son fardeau de la preuve [23] L'intimée, que ce soit par l'entremise de témoins de l'ARC ou de M. Robertson lui‑même, n'a présenté aucun élément de preuve démontrant que M. Robertson n'a pas fait preuve de diligence raisonnable en produisant ses déclarations; son opinion était incorrecte, mais le fait qu'elle était sincère explique pourquoi un examen attentif n'aurait pas révélé la présentation erronée des faits.
+(3) Décrets de remise antérieurs accordés à l'égard de l'article 7 [24] À titre subsidiaire, certains décrets de remise précédemment accordés illustrent que les omissions antérieures d'autres personnes de se conformer à l'article 7 ne découlaient pas forcément de l'inattention ou de la négligence. En outre, les décrets ont accordé des remises d'impôt au titre du principal et des intérêts au titre de l'article 7. Bien qu'il ne se fonde pas sur les décrets de remise antérieurs, M. Robertson affirme qu'ils démontrent et reconnaissent l'existence d'un problème récurrent au sujet de l'inclusion des avantages liés à une option d'achat d'actions en application de l'article 7 et qu'ils démontrent que l'appelant n'était pas le seul à en avoir une mauvaise compréhension.
+V. Analyse de la question de la présentation erronée [25] Pour les motifs qui suivent, l'appel est rejeté.
+A. Négligence ou inattention [26] Monsieur Robertson était bien informé sur certaines questions, mais est demeuré fermement ignorant sur la question fondamentale. S'agissant de la production de déclarations, de la conformité en matière de valeurs mobilières, de personnalité morale et vraisemblablement du droit fiscal américain, il se pourrait que les connaissances de M. Robertson étaient supérieures à celles de sa comptable canadienne. En revanche, ses suppositions inébranlables concernant l'applicabilité de la législation fiscale des É.‑U. constituaient simplement une erreur de droit dans le contexte du système fiscal canadien.
+[27] Le principe juridique suivant lequel nul n'est censé ignorer la loi est établi depuis longtemps et est un élément fondamental de la primauté du droit. Il est également utilisé en matière fiscale : Trsic c. La Reine, [1997] A.C.I. no 1292 (QL) (C.C.I.), au paragraphe 11. Il est fondamental qu'en droit, une personne raisonnablement bien informée fasse preuve de la diligence raisonnable à laquelle on pourrait s'attendre d'une personne avertie et prudente dans les circonstances en retenant les services d'une personne qui connaît la loi si elle ne la connaît pas elle‑même. Ce principe est également conforme à la jurisprudence pertinente en matière fiscale : Venne, Angus, au paragraphe 29, Vine, précité, aux paragraphes 47 et 48, et Aridi c. La Reine, 2013 CCI 74 (« Aridi »), au paragraphe 32. Une personne avertie et prudente, comme l'était par ailleurs M. Robertson en matière de valeurs mobilières et d'affaires, doit de temps en temps demander la confirmation d'une telle supposition, qui constitue manifestement une erreur de droit, ou du moins la remettre en question.
+[28] Dans l'arrêt Corporation de l'École Polytechnique c. Canada, 2004 CAF 127, la Cour d'appel fédérale a examiné si le moyen de défense de l'erreur de droit pouvait être invoqué pour éviter l'imposition d'une pénalité en application de la Loi sur la taxe d'accise. Au paragraphe 32 de son arrêt, la Cour a affirmé ce qui suit :
+Il ne fait pas de distinction entre l'erreur de droit et l'ignorance de la loi comme telle : Molis c. La Reine, [1980] 2 R.C.S. 356. Tant en matière criminelle qu'en droit statutaire et réglementaire, il a trouvé sa justification dans les considérants suivants énoncés par le professeur Don Stuart, Canadian Criminal Law, A Treatise, 3e éd., 1995, aux pages 295 à 298 :
+1. L'admission du moyen de défense d'ignorance de la loi causerait aux tribunaux des problèmes insurmontables en matière de preuve.
+2. Elle encouragerait l'ignorance alors que la connaissance est souhaitable du point de vue social.
+3. Sinon, chacun ne connaîtrait d'autre loi que la sienne, ce qui contreviendrait au principe de la légalité et contredirait les principes moraux qui sous‑tendent le droit.
+4. L'ignorance de la loi est répréhensible en soi.
+[Non souligné dans l'original.]
+[29] En examinant l'application du paragraphe 163(2) de la Loi, le juge Strayer, dans la décision Venne, a affirmé ce qui suit :
+[...] L'article avait été appliqué, par le passé, de façon subjective aux contribuables, c'est-à-dire que l'on tenait compte de leur intelligence, de leur instruction, de leur expérience, etc... et cela veut dire, à mon sens, le fait d'ignorer la loi, ce qui n'est pas déraisonnable dans le cas du contribuable en l'espèce, et les circonstances particulières peuvent être acceptables comme moyen de défense contre l'application de pénalités. [...]
+[Non souligné dans l'original.]
+[30] S'agissant de l'interprétation erronée de la loi, dans la décision Seni c. La Reine, 2005 CCI 26, [2005] A.C.I. no 41 (QL) (« Seni »), le juge McArthur a conclu que le contribuable avait commis une erreur de droit, de bonne foi. Cette qualification est assez semblable à [TRADUCTION] l'« erreur de droit honnête » qu'aurait commise M. Robertson. Malgré cette erreur raisonnable, le juge McArthur a conclu que le contribuable avait fait une présentation erronée des faits par inattention parce qu'en conséquence, il n'avait pas produit de déclaration concernant la vente d'un certain immeuble. Bien qu'il se puisse que le contribuable dans la décision Seni ait fait une erreur mixte de fait et de droit, il n'en demeure pas moins que, contrairement à l'argument de M. Robertson, l'erreur de droit faite de bonne foi a donné lieu à une conclusion de négligence ou d'inattention par la Cour.
+[31] Monsieur Robertson ne s'est pas trompé sur l'existence de lois concernant l'imposition des avantages liés aux options d'achat d'actions, ni sur l'interprétation de l'article 7 de la Loi. En outre, M. Robertson ne s'est pas trompé sur l'interprétation qui devait être donnée à l'article 7, parce qu'il ne l'a jamais réellement interprété. Il a plutôt supposé à tort l'interprétation de la Loi et n'a pas tenu compte de la disposition.
+[32] Comme je l'ai dit, l'application du sous‑alinéa 152(4)a)(i) fait intervenir un critère objectif : la conduite à laquelle on s'attend d'une personne avertie et prudente dans des circonstances similaires. Cela suppose que l'ignorance de la loi d'un contribuable n'est pas un moyen de défense à l'encontre de l'application du sous‑alinéa 152(4)a)(i). Par définition, une personne avertie et prudente n'ignore généralement pas la loi. Toutefois, une personne avertie et prudente ne connaît pas tout non plus. Elle peut ne pas connaître des dispositions légales précises, comme l'article 7 de la Loi, par exemple. La question qu'il faut se poser est la suivante : dans les circonstances, était‑il raisonnable pour une personne avertie et prudente de rester dans l'ignorance au moment où la présentation erronée des faits a eu lieu? En l'espèce, la réponse à cette question est non. Une personne avertie et prudente se trouvant dans la situation de M. Robertson aurait dû au moins s'interroger au sujet de l'imposition des options ou soulever la question auprès de sa comptable ou d'un autre conseiller professionnel.
+[33] Le témoignage de M. Robertson concernant sa propre connaissance de la loi au moment de produire la déclaration était sans équivoque, comme je l'ai déjà dit. Le moment de la production est pertinent : Vine, au paragraphe 33, citant le paragraphe 8 de l'arrêt Nesbitt c. Canada, [1996] A.C.F. no 1470 (QL). Il croyait fermement que la loi canadienne ne l'obligeait pas à déclarer les options d'achat d'actions en 2006 et en 2007, soit les années de levée. En interrogatoire et en contre‑interrogatoire, il est demeuré fermement et clairement convaincu de son point de vue au moment de la production.
+[34] En revanche, le témoignage de M. Robertson concernant ses discussions avec sa comptable au sujet des options était ambivalent et incertain. Il a affirmé qu'il ne pouvait se souvenir avoir expressément soulevé la question de l'inclusion des options dans ses déclarations de revenus. Il a également déclaré qu'il n'aurait pas soulevé la question parce qu'il croyait que l'origine américaine des options excluait la nécessité d'inclure les avantages dans ses déclarations de revenus canadiennes. Compte tenu de sa conviction profonde, même si sa comptable avait soulevé la question, les options n'auraient peut‑être pas été incluses dans ses déclarations de revenus. Le défaut de M. Robertson de soulever la question n'est pas conforme à la conduite à laquelle on s'attend d'un contribuable averti et prudent dans les circonstances.
+[35] Plus important encore, le sous‑alinéa 152(4)a)(i) n'est pas une disposition punitive, mais plutôt réparatrice : College Park Motors c. La Reine, 2009 CCI 409, au paragraphe 13. Puisque cette disposition ni vise pas à établir la culpabilité du contribuable, même des erreurs honnêtes faites de bonne foi peuvent mener à une conclusion de négligence, d'inattention ou d'omission volontaire sur le fondement du sous‑alinéa 152(4)a)(i). Son objectif est d'assurer que, dans un système fiscal fondé sur l'autodéclaration, les présentations erronées qui surviennent en raison d'erreurs honnêtes ne soient pas exemptées d'une cotisation à cause de l'inadvertance du contribuable. C'est le cas en l'espèce. Le ministre ne devrait pas être privé de son droit d'établir une nouvelle cotisation en raison d'une erreur de droit honnête et d'avantages non déclarés en conséquence lorsque l'erreur et la présentation erronée découlent d'un manque de diligence raisonnable.
+B. Le fardeau de la preuve de l'intimée [36] L'intimée, au moyen du témoignage de M. Robertson à titre de témoin opposé, a établi la négligence de ce dernier au moment des présentations erronées. Au vu de la preuve, il s'agit de son erreur de droit plutôt que celle de sa comptable. M. Robertson n'a jamais été d'avis que les avantages découlant des options devaient être inclus dans ses déclarations de revenus canadiennes. La preuve indique que la comptable n'a jamais offert d'opinion contraire, ou quelque opinion à ce sujet. De plus, M. Robertson a témoigné qu'il n'y a jamais eu de question, d'explication, ni de discussion concernant l'erreur de droit ayant mené à la présentation erronée. Enfin, la preuve indiquait que M. Robertson ne s'est jamais fié directement ou indirectement aux conseils de son conseiller professionnel concernant la présentation erronée précise qui auraient pu le détourner d'un point de vue par ailleurs correct. C'est le contraire qui s'est produit. La conduite, les omissions et les suppositions au moment de la déclaration sont tout aussi attribuables, sinon plus, à M. Robertson, le contribuable, qu'à sa comptable. En termes simples, au vu de son témoignage à titre de témoin cité par l'intimée, la Cour estime que M. Robertson a contribué de façon conjonctive, voire essentielle, aux présentations erronées en raison de son erreur de droit attribuable à une opinion sans équivoque non conforme à ses autres connaissances en droit, à son expérience en affaires et à ses systèmes de conformité.
+[37] En répondant à la preuve de l'intimée, l'avocat de l'appelant a soulevé l'affaire Aridi, une décision du juge Hogan de la Cour. Dans cette décision, le juge Hogan a indiqué que la négligence du comptable n'est pas le facteur qui permet de passer outre au délai de prescription en vertu du sous‑alinéa 152(4)a)(i). C'est plutôt la négligence du contribuable au moment de la présentation erronée qui doit être analysée. Le juge Hogan affirme également au paragraphe 34 que, même lorsque la négligence ou l'inattention du comptable est établie, il faut néanmoins se poser la question de fait suivante : « Le contribuable peut‑il établir sa propre prudence et diligence et affirmer que la présentation erronée est imputable à la négligence de son comptable? »
+[38] Dans la décision Aridi, le juge Hogan a indiqué, dans l'analyse des faits, qu'il y a généralement quatre éléments factuels différents qui révèlent la conduite d'une personne avertie et prudente lorsque le contribuable invoque qu'il s'est fié à son comptable. Ils surviennent lorsque : (1) le contribuable remet tous les documents au conseiller professionnel; (2) une discussion a lieu entre le conseiller et le contribuable concernant l'inclusion ou l'exclusion du revenu en question; (3) cette discussion donne lieu à un examen des faits liés à l'inclusion ou à l'exclusion; (4) une confirmation claire de la part du conseiller professionnel a mené à la présentation erronée.
+[39] Le témoignage de M. Robertson en réponse aux questions de l'intimée devant la Cour n'étaye tout simplement pas les éléments factuels requis dans la décision Aridi, sans parler de la question qui demeurait toujours dans la décision Aridi et qui a été analysée dans la décision Vine quant à savoir si le paragraphe 152(4) permet au contribuable d'invoquer les éléments susmentionnés lorsque le comptable donne un tel avis. Comme je l'ai décrit au paragraphe 36, aucun des quatre éléments factuels énoncés dans la décision Aridi n'existe en l'espèce.
+C. Décrets de remise accordés à l'égard de l'article 7 [40] Si l'avocat de l'appelant a raison en ce qui a trait à la confusion dans la Loi concernant l'article 7 et la déclaration des avantages liés aux options d'achat d'actions, pareille confusion ne justifie pas la certitude de M. Robertson à l'égard de son point de vue juridique sur la déclaration. Certains décrets de remise concernant l'article 7 relativement à des contribuables sans lien de dépendance ont été pris par le gouverneur en conseil avant que M. Robertson ne produise sa déclaration de revenus de 2007. La prétendue confusion entourant l'article 7 aurait dû amener la personne avertie et prudente à faire preuve de diligence raisonnable et à solliciter et à obtenir une opinion ou à avoir une conversation avec ses conseillers professionnels concernant l'inclusion d'avantages liés aux options d'achat d'actions dans ses déclarations de revenus canadiennes. Au vu des faits, l'intimée a prouvé que c'est la négligence de M. Robertson qui l'a principalement mené à ne pas demander un avis ou à ne pas remettre en question sa propre opinion. L'existence des décrets de remise aurait dû élever, et non diminuer, le degré d'attention d'une personne avertie et prudente relativement à la question. Ainsi, M. Robertson ne peut faire valoir qu'un contribuable averti et prudent n'aurait pas eu de questions ou sollicité des conseils au sujet d'un domaine du droit censément si vague et confus que de tels décrets de remise étaient pris à l'égard de l'article 7 durant la période de production pertinente de M. Robertson.
+[41] Cette absence de questionnement ou d'équivoque, qui n'équivaut peut‑être pas à une indifférence quant au respect de la Loi (le critère pour imposer des pénalités au titre du paragraphe 163(2)), constitue à tout le moins une ignorance découlant d'une confiance mal placée de la part de M. Robertson. Au vu de ses réponses, M. Robertson a négligé de se poser des questions et d'examiner sa propre certitude non fondée concernant le traitement fiscal au Canada des avantages liés à l'achat d'options. Au vu des faits, la Cour estime que la décision de ne pas inclure ces montants dans les déclarations de revenus de 2006 et 2007 est, d'abord et avant tout, venue dans l'esprit de M. Robertson. Suivant son propre témoignage, il n'a posé aucune question parce qu'il était certain. Le fait qu'une telle question n'ait pas été soulevée démontre une négligence qui n'est pas conforme aux obligations juridiques d'une personne avertie et prudente dans les circonstances au moment où les déclarations ont été produites : Vine, aux paragraphes 50 et 51.
+VI. Sommaire et dépens [42] Comme je l'ai dit, pour les motifs qui précèdent, le ministre s'est acquitté de son fardeau, a établi qu'il y a eu une présentation erronée des faits imputable à la négligence et n'a pas reconnu qu'une erreur de droit relative aux avantages liés aux options d'achat d'actions visées par l'article 7 mérite une annulation ou une remise pour ce qui est des nouvelles cotisations en l'espèce.
+[43] Puisqu'il a été déterminé qu'une présentation erronée a été faite par négligence dans les déclarations de revenus de 2006 et de 2007, la question de la cotisation envoyée dans les délais est théorique et ne sera pas examinée.
+[44] L'intimée a droit aux dépens partie‑partie conformément au tarif, sous réserve du droit de l'une ou l'autre des parties de présenter des observations écrites à la Cour à cet égard dans les 30 jours suivant la date du présent jugement.
+Signé à Ottawa, Canada, ce 21e jour d'octobre 2015.
+« R.S. Bocock »
+Le juge Bocock
+RÉFÉRENCE :
+2015 CCI 246
+NOS DES DOSSIERS DE LA COUR :
+2012-2757(IT)G et 2012-2758(IT)G
+INTITULÉ :
+JOHN ROBERTSON ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Vancouver (Colombie‑Britannique)
+DATE DE L'AUDIENCE :
+Le 9 juin 2015
+MOTIFS DU JUGEMENT :
+L'honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 21 octobre 2015
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Gavin Laird
+Avocat de l'intimée :
+Me Robin S. Whittaker
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Gavin Laird
+Cabinet :
+Laird & Company
+Pour l'intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,124 @@
+Title: WJZ Enterprises v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/229909/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-57-229909-wjz-enterprises-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-04-13
+
+# WJZ Enterprises v. The Queen
+
+- Citation: 2017 TCC 57
+- Decision date: 2017-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2298, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+WJZ Enterprises v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-04-13
+Neutral citation
+2017 TCC 57
+File numbers
+2015-3374(GST)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2017 TCC 57
+Date: 20170413
+Docket: 2015-3374(GST)G
+BETWEEN:
+WJZ ENTERPRISES,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+ORDER AND REASONS FOR ORDER
+Jorré J.
+[1] The Appellant has filed a motion seeking an order to allow Walter Zulyniak to represent the corporation in this action. The parties are agreed that the motion should be dealt with in writing.
+[2] The relevant rule is found in subsection 30(2) of the Tax Court of Canada Rules (General Procedure) which reads as follows:
+Where a party to a proceeding is not an individual, that party shall be represented by counsel except with leave of the Court and on any conditions that it may determine.
+[3] The rule itself does not provide specific requirements as to when such leave is to be granted. It has been left for the Court to develop reasonable criteria taking into account the variety of circumstances.
+[4] There is no definitive list of considerations that come into play in deciding whether it is appropriate to allow a corporation to be represented by a person other than counsel. [1] Any relevant factor may be considered.
+[5] Among the factors to be considered are the following:
+1. Whether the proposed representative is duly authorized by the corporation to act as its representative. Authorization is mandatory. This may be quite straightforward in the case of some small companies, for example, where a single person owns all the shares and is the only director and the only officer and that person seeks to be the agent of the company. One would expect a resolution of the directors where there is more than one director.
+2. Whether the proposed representative has a connection to the corporation. While the rule no longer requires that the individual be an officer of the corporation, normally, that person should be an officer or director and, perhaps, a major shareholder or key employee of the corporation. I hasten to add that in no circumstances can an application under subsection 30(2) be used as a “back door” to hiring a non‑lawyer agent.
+3. Whether the interests of different stakeholders in the corporation are adequately protected is a consideration that may arise. This may influence whether an individual is acceptable as a representative. For example, this could occur if, in addition to the ongoing tax dispute of the corporation, there was a family dispute going on as to the ownership of the shares pursuant to a will and different owners or potential owners had conflicting views on how the corporation should proceed in the tax appeal.
+4. Whether the corporation can pay for counsel. Normally, if a company satisfies the Court that it cannot pay, leave will be granted so as to avoid the company being denied access to justice. This is a very important consideration.
+5. Whether the proposed representative will be required to appear as advocate and as witness. If the proposed representative will have to testify, this will tend to militate against allowing the person to act as representative; generally, this factor would appear to be a factor of limited weight that would not, on its own, be a reason to deny such an application.
+6. Whether the proposed representative is reasonably capable of adequately representing the corporation in terms of being able to comprehend the issues, adequately bring forth evidence and deal with the law. This will be affected by both the complexity of the relevant law and the complexity of the evidence.
+7. Where the company is a small one person corporation, the Court will be more permissive in allowing representation by an agent, everything else being equal.
+[6] Two observations are in order.
+[7] First, it must be remembered that while counsel will add to the expenses of the company, counsel are also of benefit to appellants. By their training and skill, their clients benefit not only from their knowledge of the law but also from their skills in effectively presenting and organizing evidence. This is also of benefit not only to the Appellant but also to the Court, the Respondent and the integrity of the trial process.
+[8] Secondly, it is also worth remembering that the Court may impose conditions if it does allow the corporation to be represented by someone other than counsel. [2]
+[9] Turning to this application, according to Mr. Zulyniak’s affidavit he is the sole officer, director and shareholder of the corporation. [3]
+[10] He further asserts that the costs associated with obtaining representation would be prohibitive and that he should not be subject to further financial burden. No details are provided as to the financial situation of the Appellant and it is not alleged that the company is unable to pay.
+[11] The affidavit further asserts that the issues are neither technical nor interpretive but purely objective and factual based and that all the Appellant’s submissions are based on physical documents.
+[12] In its submissions, the Respondent highlights the following concerns:
+1. The Respondent does not agree with the Appellant’s characterization of the issues.
+2. No details are disclosed regarding the inability of the corporation to pay.
+3. Mr. Zulyniak would be the primary witness for the Appellant at the hearing of the appeal.
+4. Finally, the Respondent notes that Mr. Zulyniak signed the affidavit in Panama and expresses concern about whether his absence from Canada will cause issues for the conduct of the appeal.
+[13] I also note that the existing notice of appeal, apparently prepared by an accounting firm, consists of four pages that list expenses but otherwise do not explain at all what is at issue together with copies of certain documents exchanged between the parties; it is not at all in conformity with the Rules.
+[14] When the Appellant filed its notice of motion for this application, it failed to file an affidavit in accordance with the Rules. It filed an affidavit only after the Court directed it to do so.
+[15] Based on the reply to the notice of appeal, it would appear that with respect to the net GST\HST for the periods in issue the parties are about $100,000 apart when one takes account of some additional input tax credits claimed in the notice of objection. In addition, there are penalties of about $17,000 that were levied and interest is, potentially, running on the total. The biggest part of the dispute relates to output tax. The periods in issue start on 1 February 2009 and end on 31 July 2011.
+[16] I note that while the affidavit is signed by Mr. Zulyniak, the submissions made on behalf of the corporation appear to be signed by Kevin Sander, an accountant who acted for the company at the objection stage. [4]
+[17] In signing the submissions, Mr. Sander was not conforming to subsection 30(2) of the Rules and Mr. Zulyniak, who must have been instructing Mr. Sander, was content to allow this to happen.
+[18] Authorization of the proposed agent is not an issue in the circumstances and Mr. Zulyniak is clearly connected to the company. No issue arises as to protecting the interests of different stakeholders.
+[19] The Appellant has not demonstrated that it is unable to pay for counsel.
+[20] With over $115,000 at stake, [5] this is not a case where legal costs will overwhelm the amount at issue.
+[21] This does not appear to me to be a case that is as easy and as straightforward to demonstrate as the Appellant believes it to be. Based on the documents that the Appellant attached to the notice of appeal and on the reply filed by the Minister, the biggest amounts in issue appear to relate to output tax. Based on these materials it would appear that the assessment is in large measure based on the Minister’s analysis of the deposits into both the Appellant’s bank account and the bank account of Mr. Zulyniak; the Appellant appears to claim that the deposits into Mr. Zulyniak’s account relate to businesses of Mr. Zulyniak unrelated to the business of the Appellant.
+[22] Organizing and marshaling evidence of a detailed nature relating to all the deposits in issue and all the input tax credits in issue is not likely to be easy and straightforward.
+[23] Both the Appellant’s submissions and the affidavit assert that “all appellant representations are pure factual documents” and that the “said documents were unavailable in the audit process”. It is not clear that Mr. Zulyniak understands that he will almost certainly have to testify to explain the documents and put them in context in order to show errors in the bank deposits analysis and in order to show why certain input tax credits are justified.
+[24] Given this, I am not convinced that Mr. Zulyniak will be able to adequately represent the Appellant.
+[25] Overall, given that there is no necessity to allow an agent because of an inability to pay counsel, given that the amount in issue is significant, given that I am not satisfied that Mr. Zulyniak will be able to adequately represent the Appellant and given the public interest in having an effective trial process while attempting to limit costs, [6] this is not an appropriate case to allow a corporate appellant to name an agent.
+[26] Accordingly, the Appellant’s motion is denied. Costs will be in the cause.
+[27] The Appellant shall retain counsel within 28 days from the date of this order. Counsel shall advise the Court forthwith that he or she has been retained and provide the Court with an address for service, telephone number, fax number and email address.
+[28] There remains one matter to deal with. It is necessary to reset the timetable set in the Court’s order of 23 November 2016.
+[29] The parties are to consult with each other and attempt to reach agreement on a new timetable with dates for each of the steps set out in paragraphs 2 to 7 of the Court’s order of 23 November 2016. The parties are to advise this Court of their proposed timetable [7] as soon as possible and, in any event, no later than 60 days from the date of this order.
+Signed at Ottawa, Ontario, this 13th day of April 2017.
+“Gaston Jorré”
+Jorré J.
+CITATION:
+2017 TCC 57
+COURT FILE NO.:
+2015-3374(GST)G
+STYLE OF CAUSE:
+WJZ ENTERPRISES v. THE QUEEN
+MOTION FROM THE APPELLANT FILED ON:
+29 December 2016
+SUBMISSIONS FROM THE RESPONDENT RECEIVED ON:
+17 January 2017
+AFFIDAVIT IN SUPPORT OF THE MOTION AND REASONS FROM THE APPELLANT FILED ON:
+9 February 2017
+FURTHER SUBMISSIONS FROM THE RESPONDENT RECEIVED ON:
+24 February 2017
+REASONS FOR ORDER BY:
+The Honourable Justice Gaston Jorré
+DATE OF ORDER:
+13 April 2017
+APPEARANCES:
+Agent for the Appellant:
+Walter Zulyniak
+Counsel for the Respondent:
+Karen A. Truscott
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] On the approach to these questions, see for example: the decision of Justice V.A. Miller in Dundurn Street Lofts Inc. v. The Queen, 2008 TCC 558, at paragraph 3; the decision of Justice Webb, as he then was, in Soneil International Ltd. v. The Queen, 2008 TCC 148; the decision of Justice Bocock in International Hi‑Tech Industries Inc. v. The Queen, 2014 TCC 198, at paragraph 5. Also of interest are the comments of Justice Boswell in Extend-A-Call Inc. v. Granovski, 2009 CanLII 33047 (ONSC), at paragraphs 17 to 19, and of Justice Minnema in Murphy v. Stefaniak, 2014 ONSC 4396. I also note that, as a result of the amendments to the rule in 2007 (SOR/2007-142 on 14 June 2007), the rule is not as restrictive as it once was.
+[2] This gives great flexibility. The Court can also change its order if subsequent events make it appropriate to do so.
+[3] I note that the Minister’s reply to the notice of appeal takes the position that Pacific Evergreen Holdings Inc. is the sole shareholder of the Appellant and that Mr. Zulyniak is the sole shareholder of Pacific Evergreen.
+[4] I reached this conclusion because the signature on the 9 February 2017 letter of submissions looks like the signature of Mr. Sander on the fax cover sheet of the submissions and the supporting affidavit filed; the signature on the submissions does not look at all like Mr. Zulyniak’s signature on the affidavit.
+[5] Plus interest, if the amount is currently unpaid.
+[6] I wish to elaborate on this particular consideration. We live in an era where resource constraints are very real. This Court has a great deal of experience with self-represented appellants and it is quite clear that in many cases with self-represented appellants the Court is obliged to spend more time on the case than it would have if the particular appellant had had counsel. Given that and given resource constraints, it is appropriate to consider this as a factor in deciding such an application.
+[7] Or of their inability to agree on a proposed schedule.

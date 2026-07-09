@@ -1,0 +1,187 @@
+---
+title: "Bajan c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29480/index.do"
+last_modified: "2009-10-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 521"
+citation2: ""
+neutral_citation: "2009 CCI 521"
+decision_date: "2009-10-16"
+language: "fr"
+item_id: "29480"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6298
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:27:59.771000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ee29bb09d03ea09bdce913a776fe60e63459c5fd3b098ad690d17ef07b7ee1f7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bajan c. La Reine
+
+- Citation: 2009 CCI 521
+- Decision date: 2009-10-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6298, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bajan c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-16
+Référence neutre
+2009 CCI 521
+Numéro de dossier
+2008-3169(GST)I
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2008-3169(GST)I
+ENTRE :
+JOSEPH P. BAJAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 13 août 2009, à Nanaimo (Colombie‑Britannique).
+Devant : L’honorable juge Brent Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Natasha Reid
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de l’article 323 de la Loi sur la taxe d’accise, dont l’avis est daté du 15 août 2007 et porte le numéro A109986, est rejeté.
+Signé à Ottawa, Canada, ce 16e jour d’octobre 2009.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 1er jour de décembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 521
+Date : 20091016
+Dossier : 2008-3169(GST)I
+ENTRE :
+JOSEPH P. BAJAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Une cotisation a été établie en vertu de l’article 323 de la Loi sur la taxe d’accise (la « Loi ») à l’égard de l’appelant, en sa qualité d’administrateur de J.P. Bajan Construction Ltd. (« Bajan Construction »), relativement à la taxe sur les produits et services (la « TPS ») que Bajan Construction avait omis de verser. La TPS à verser, les intérêts et les pénalités fixés par la cotisation totalisent 35 476,89 $. Les questions en litige sont les suivantes :
+(i) savoir si l’appelant peut contester le montant de TPS à verser par la société fixé par la cotisation, et, dans l’affirmative;
+(ii) savoir si la TPS, les intérêts et les pénalités dus par Bajan Construction en date de la cotisation établie à l’égard de l’appelant étaient inférieurs à 35 476,89 $.
+[2] La Cour s’est penchée à plusieurs reprises sur la question de savoir si l’administrateur d’une société à l’égard duquel une cotisation a été établie en vertu de l’article 323 de la Loi peut contester cette cotisation en alléguant que la cotisation de TPS sous‑jacente était incorrecte, et les conclusions de la Cour ont varié. À mon avis, compte tenu de l’arrêt rendu par la Cour d’appel fédérale dans Gaucher c. La Reine[1], un administrateur peut contester la cotisation sous‑jacente qui a été établie à l’égard de sa société. Selon moi, les observations présentées par la Cour d’appel fédérale aux paragraphes 7 à 9 de Gaucher s’appliquent aussi aux cotisations relatives à la responsabilité des administrateurs :
+[7] Lorsque le ministre établit une cotisation à titre dérivé en application du paragraphe 160(1), il invoque une disposition législative particulière qui l’autorise à demander paiement à une seconde personne pour la cotisation d’impôt visant un premier contribuable. Cette seconde personne doit jouir d’un plein droit de défense pour contester la cotisation établie à son endroit, y compris celui d’attaquer la cotisation primaire sur laquelle se fonde la cotisation touchant la seconde personne.
+[8] Ce point de vue a été formulé par certains juges de la Cour canadienne de l’impôt. Voir, par exemple, les affaires Acton c. La Reine (1994), 95 D.T.C. 107, page 108, juge Bowman; Ramey c. La Reine (1993), 93 D.T.C. 791, page 792, juge Bowman; Thorsteinson c. M.R.N. (1980), 80 D.T.C. 1369, page 1372, juge Taylor. Bien que l’opinion contraire ait été mise de l’avant dans l’arrêt Schafer (A.) c. Canada, [1998] G.S.T.C. 7-1, pages 7 à 9 (appel rejeté pour cause de retard [30 août 1999], A-258-98 [C.A.F.]), je suis d’avis que cette opinion est erronée. Il me semble que cette approche omet de tenir compte du fait que se trouvent en litige deux cotisations distinctes établies par le ministre à l’égard de deux contribuables différents. Dès lors que la cotisation visant le premier contribuable revêt un caractère définitif, que ce soit parce que le premier contribuable n’a pas interjeté appel de la cotisation ou que celle-ci a été confirmée par la Cour canadienne de l’impôt (ou un tribunal d’instance supérieure lors d’un appel subséquent), cette cotisation devient définitive et elle lie tant le premier contribuable que le ministre. La cotisation fixée en application du paragraphe 160(1) à l’égard d’un second contribuable ne peut influer sur la cotisation établie par le ministre relativement au premier contribuable.
+[9] En outre, comme le second contribuable en l’espèce n’était pas partie à l’instance entre le ministre et le premier contribuable, il n’est pas lié par la cotisation visant le premier contribuable. Le second contribuable est autorisé à soulever tous les moyens de défense que le premier contribuable aurait pu invoquer à l’égard de la cotisation primaire. Il peut arriver que la cotisation du second contribuable soit annulée ou que le montant de celle-ci soit réduit à une somme moins élevée que celle fixée par la cotisation touchant le premier contribuable, mais ces mesures n’ont évidemment aucune incidence sur la cotisation relative au premier contribuable, à l’égard duquel la cotisation primaire était définitive et exécutoire.
+[3] Je crois aussi que cette position a été adoptée implicitement par la Cour d’appel fédérale dans Abrametz c. La Reine[2]. Dans cette affaire, une cotisation avait été établie à l’égard du contribuable en vertu de l’article 323 de la Loi, et celui‑ci avait interjeté appel devant la Cour, où il a soutenu que la TPS due par la société était inférieure au montant fixé par la cotisation. La Cour a alors conclu que le contribuable avait bel et bien le droit de contester le montant de TPS à payer par la société fixé par la cotisation, mais qu’il n’avait pas démontré que le montant fixé par la cotisation en cause était incorrect. La Cour d’appel fédérale a ensuite infirmé la décision de la Cour, et a conclu que la preuve démontrait que la dette de TPS de la société était inférieure au montant fixé par la cotisation, et elle a déféré la cotisation au ministre du Revenu national (le « ministre ») pour qu’il établisse une nouvelle cotisation en tenant compte de ce fait‑là. Cette décision était intrinsèquement fondée sur le fait qu’un contribuable‑administrateur a le droit de contester la cotisation sous‑jacente à la cotisation établie à son égard relativement à la responsabilité de l’administrateur.
+[4] Je me pencherai maintenant sur les éléments de preuve présentés par l’appelant relativement à la dette de TPS de Bajan Construction. À la fin d’août 1992, Bajan Construction a commencé des travaux dans le cadre d’un vaste projet de construction appelé le projet Newport. L’appelant a expliqué que l’entrepreneur principal du chantier, Harbour Construction Ltd. (« Harbour Construction »), avait ensuite éprouvé des difficultés et cessé de payer Bajan Construction, qui a donc cessé de travailler pour Harbour Construction le 27 mai 1993[3]. Bajan Construction a alors fait inscrire un privilège du constructeur de 265 728,43 $ à l’égard de la propriété en juin 1993. Les sous‑traitants engagés par Bajan Construction ont aussi fait inscrire des privilèges correspondants aux sommes que celle‑ci leur devait. Toutes ces réclamations ont finalement été réglées en juin 1995. Bajan Construction a alors reçu 175 000 $ de Harbour Construction, et elle a puisé à même cette somme‑là pour verser 104 685,37 $ à ses sous‑traitants. Bajan Construction a aussi payé 20 895,24 $ à l’Employment Standards Office de la Colombie‑Britannique (l’organisme provincial responsable des normes du travail) pour régler les réclamations de ses employées relativement à des salaires impayés. L’accord de règlement conclu avec Harbour Construction stipulait aussi que Bajan Construction devait recevoir un paiement supplémentaire de 35 000 $ si Harbour Construction réussissait à acquérir certaines propriétés relatives au projet Newport.
+[5] L’appelant a témoigné que, dans les déclarations de TPS qu’elle avait produites pour les périodes de déclaration de 1992 et de 1993, Bajan Construction avait inclus la totalité de la somme de 265 728,43 $ que lui devait Harbour Construction dans le calcul de ses fournitures taxables, et que la TPS relative à ces fournitures avait été déclarée et versée en même temps.
+[6] L’appelant a aussi dit se souvenir qu’en 1993 ou en 1994, c’est‑à‑dire avant la conclusion de l’accord de règlement, Bajan Construction avait radié de ses livres comptables, à titre de créance irrécouvrable, la créance qu’elle détenait à l’encontre de Harbour Construction. Pour corroborer son témoignage, l’appelant a présenté une lettre[4] provenant du comptable qui avait établi les déclarations de revenus de Bajan Construction pour les années en cause (et jusqu’en 1998). Le passage suivant est tiré de cette lettre :
+[traduction]
+Vers 1993 ou 1994, la société a radié de ses livres comptables (à titre de créance irrécouvrable) des pertes relatives au projet Newport.
+La société a aussi demandé un remboursement d’impôt sur le revenu relativement à ces pertes.
+[7] L’appelant a aussi témoigné que, dans le calcul de sa taxe nette à payer, Bajan Construction n’avait jamais demandé de déduction en vertu du paragraphe 231(1) de la Loi au titre de la créance irrécouvrable qui avait résulté du projet Newport. Le paragraphe 231(1) de la Loi [traduction] « libère le contribuable de l’obligation de verser la TPS qui a déjà été déclarée, mais qu’il est désormais impossible de percevoir parce qu’une créance a été radiée des livres comptables à titre de créance irrécouvrable »[5]. L’appelant soutient que la dette de TPS de Bajan Construction doit être réduite pour tenir compte de la déduction auquel le paragraphe 231(1) de la Loi lui donne droit relativement à la TPS incluse dans la créance de 265 728,43 $ que Bajan Construction détenait à l’égard de Harbour Construction.
+[8] L’appelant a reconnu qu’il aurait fallu réduire la déduction demandée en vertu du paragraphe 231(1) de la Loi d’un montant correspondant à la taxe incluse dans la partie de la soi-disant créance irrécouvrable que Bajan Construction avait recouvrée auprès de Harbour Construction en juin 1995, taxe qui, en application du paragraphe 231(3) de la Loi, devait être incluse dans le calcul de la taxe nette à payer.
+[9] Enfin, l’appelant a affirmé que Bajan Construction avait droit à des crédits de taxe sur les intrants (les « CTI ») pour la TPS comprise dans les sommes versées à ses sous‑traitants, parce que ces sommes‑là avaient été versées en contrepartie de fournitures taxables et qu’elles incluaient la TPS.
+Analyse
+[10] Je me pencherai d’abord sur la prétention voulant qu’en vertu du paragraphe 231(1) de la Loi, Bajan Construction avait droit à une déduction dans le calcul de sa taxe nette à payer. Cette disposition est ainsi rédigée :
+231(1) Si un fournisseur a effectué une fourniture taxable, sauf une fourniture détaxée, pour une contrepartie au profit d’un acquéreur avec lequel il n’a aucun lien de dépendance, qu’il est établi que tout ou partie du total de la contrepartie et de la taxe payable relativement à la fourniture est devenu une créance irrécouvrable et que le fournisseur radie cette créance de ses livres comptables à un moment donné, le déclarant de la fourniture peut déduire, dans le calcul de sa taxe nette pour la période de déclaration qui comprend ce moment ou pour une période de déclaration postérieure, le montant obtenu par la formule suivante :
+A × B/C
+où :
+A représente la taxe relative à la fourniture;
+B le total de la contrepartie, de la taxe et de la taxe provinciale applicable, qui demeure impayé relativement à la fourniture et qui a été radié à ce moment à titre de créance irrécouvrable;
+C le total de la contrepartie, de la taxe et de la taxe provinciale applicable relatives à la fourniture.
+(1.1) Le déclarant ne peut déduire un montant en application du paragraphe (1) relativement à une fourniture que si, à la fois :
+a) la taxe percevable relativement à la fourniture est incluse dans le calcul de la taxe nette indiquée dans la déclaration qu’il produit aux termes de la présente section pour la période de déclaration au cours de laquelle la taxe est devenue percevable;
+b) la totalité de la taxe nette à verser selon cette déclaration est versée.
+(2) […]
+(3) En cas de recouvrement de tout ou partie d’une créance irrécouvrable pour laquelle une personne a déduit un montant en application du présent article, la personne est tenue d’ajouter, dans le calcul de sa taxe nette pour la période de déclaration qui comprend le moment du recouvrement, le montant obtenu par la formule suivante :
+A × B/C
+où :
+A représente le montant recouvré à ce moment;
+B la taxe relative à la fourniture à laquelle la créance se rapporte;
+C le total de la contrepartie, de la taxe et de la taxe provinciale applicable relatives à la fourniture.
+(4) Une personne ne peut demander une déduction en application du présent article au titre d’une créance irrécouvrable liée à une fourniture que si la déduction est demandée dans une déclaration qu’elle produit aux termes de la présente section dans les quatre ans suivant la date limite pour la production de sa déclaration visant la période de déclaration au cours de laquelle le fournisseur a radié la créance de ses livres comptables.
+Le paragraphe 231(1) de la Loi établit deux conditions pour avoir droit à une déduction : (i) la totalité ou une partie de la contrepartie et de la taxe payable relativement à la fourniture doit être devenue une créance irrécouvrable, (ii) le fournisseur doit avoir radié cette créance de ses livres comptables. Vu l’ensemble de la preuve, je ne suis pas convaincu que l’appelant a démontré que Bajan Construction a satisfait à ces conditions relativement à la créance de 265 728,43 $ qui est en cause.
+[11] D’abord, contrairement à ce qu’a dit l’appelant et à ce dont fait état la lettre du comptable, il semble que Bajan Construction ne considérait pas la créance qu’elle détenait à l’encontre de Harbour Construction comme une créance irrécouvrable lorsqu’elle a conclu l’accord de règlement en juin 1995. Dans une lettre datée du 10 novembre 1999[6] que Bajan Construction a reçue de ses avocats, il est fait référence au privilège du constructeur inscrit par la société. Selon cette lettre, Bajan Construction et ses sous‑traitants avaient continué leur poursuite relative à leurs privilèges du constructeur jusqu’au moment où l’accord a été conclu avec Harbour Construction. L’interrogatoire préalable pour l’affaire devait commencer le 19 avril 1995, et une date d’audience avait déjà été fixée[7]. La lettre des avocats indique aussi qu’en 1999 encore, Bajan Construction avait demandé des conseils sur l’opportunité de poursuivre Harbour Construction relativement au paiement supplémentaire de 35 000 $ dont l’accord de règlement de juin 1995 faisait état
+[12] Compte tenu de mesures prises par Bajan Construction pour recouvrer la créance qu’elle détenait à l’encontre de Harbour Construction, je ne suis pas convaincu qu’elle considérait que la créance de 265 728,43 $ était irrécouvrable. De plus, je ne suis pas d’avis, selon la prépondérance des probabilités, que Bajan Construction avait radié la créance de 265 728,43 $ de ses livres comptables. L’appelant n’a présenté aucun livre comptable de la société pour établir que la créance avait été radiée. D’ailleurs, comme l’appelant n’a pas fait témoigner son comptable et comme Bajan Construction avait pris des mesures en 1995 et même dans les années suivantes pour recouvrer la créance, j’accorde peu d’importance aux affirmations faites par le comptable dans sa lettre relativement à la radiation de la créance. De toute manière, ces affirmations ne sont pas suffisamment détaillées et elles ont été faites 15 ou 16 ans après les faits en question, sans même que les dossiers de la société aient été consultés[8].
+[13] L’intimée a aussi affirmé que l’appelant n’avait pas su démontrer que Bajan Construction avait satisfait à deux autres exigences établies par le paragraphe 231(1.1) de la Loi, à savoir que : (1) dans ses déclarations de TPS, Bajan Construction avait déclaré la TPS percevable relativement à l’ensemble des fournitures faites dans le cadre du projet Newport, et (2) la totalité de la taxe nette à verser selon ces déclarations avait été versée.
+[14] Malheureusement, pour les périodes en cause, l’appelant n’avait aucun dossier et aucune déclaration de TPS provenant de Bajan Construction. De plus, il n’avait aucun document faisant état des sommes facturées par Bajan Construction à Harbour Construction, ou des sommes que cette dernière avait payées à Bajan Construction pour les travaux effectués. Quoique l’intimée a déposé en preuve des sorties sur imprimante des déclarations de TPS de Bajan Construction pour 1992 et 1993, il est impossible, vu l’absence de dossiers provenant de la société, de déterminer quelle partie des fournitures taxables et de la TPS déclarée dans ces déclarations était attribuable au projet Newport. Donc, je conclus que l’appelant n’a pas réussi à démontrer que Bajan Construction avait déclaré et versé la TPS relativement aux fournitures taxables faites à Harbour Construction, fournitures à l’égard desquelles elle avait inscrit son privilège du constructeur.
+[15] De même, l’argument de l’appelant voulant que la dette de TPS de Bajan Construction doive être réduite d’un montant équivalant aux CTI qu’elle n’avait pas demandés relativement au règlement des privilèges du constructeur inscrits par Bajan Construction et par ses sous‑traitants ne peut pas réussir. Les éléments de preuve présentés ne permettent pas de savoir comment Bajan Construction avait comptabilisé les sommes qu’elle devait à ses sous‑traitants. Est‑ce que les factures étaient faites une fois les travaux achevés? Dans l’affirmative, la TPS serait devenue payable à ce moment‑là, et Bajan Construction aurait dès lors pu demander des CTI à l’égard de la taxe à payer[9]. L’appelant n’a pas pu dire si certains des CTI demandés par Bajan Construction dans ses déclarations pour les périodes ayant pris fin entre le 1er août 1992 et le 30 avril 1993 avaient trait aux travaux faits par les sous‑traitants pour lesquels ceux‑ci avaient fait inscrire leur privilège du constructeur. Le paragraphe 225(3) de la Loi prévoit qu’un contribuable ne peut pas demander de CTI dans une déclaration de TPS si le montant avait déjà été demandé ou inclus à titre de CTI pour une période de déclaration antérieure. En l’espèce, l’appelant n’a pas établi que Bajan Construction n’avait pas déjà demandé les CTI auxquels, selon lui, Bajan Construction avait droit pour les périodes en cause.
+[16] De plus, comme l’a souligné l’avocate de l’intimée, l’appelant n’a pas présenté les documents exigés par le paragraphe 169(4) de la Loi et par le Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants relativement aux CTI auxquels, selon lui, Bajan Construction avait droit.
+[17] Je tiens aussi à dire que les déductions demandées incluaient une somme relativement au paiement fait, à même le produit du règlement, à l’Employment Standard Office de la Colombie‑Britannique par Bajan Construction pour les salaires impayés de ses employés. Évidemment, ce paiement n’aurait pas pu inclure de TPS, car les salaires ne sont pas assujettis à cette taxe.
+[18] Pour les motifs exposés ci‑dessus, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 16e jour d’octobre 2009.
+« Brent Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 1er jour de décembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 521
+No DU DOSSIER DE LA COUR :
+2008-3169(GST)I
+INTITULÉ :
+Joseph P. Bajan et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Nanaimo (Colombie‑Britannique)
+DATE DE L’AUDIENCE :
+Le 13 août 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge Brent Paris
+DATE DU JUGEMENT :
+Le 16 octobre 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Natasha Reid
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2000 A.C.F. no 1869.
+[2] 2009 CAF 70.
+[3] Pièce A‑1, onglet 8 – déclaration écrite de Joseph P. Bajan datée du 26 août 1998.
+[4] Pièce A‑1, onglet 8.
+[5] David Sherman’s Analysis, commentaires sur l’article 231 de la Loi.
+[6] Pièce R‑1, onglet 6.
+[7] Paragraphes 10 et 11 de la pièce R‑1, onglet 6.
+[8] Dans une lettre envoyée à l’appelant en 2007, le comptable a dit qu’il n’avait plus aucun dossier de la société entre les mains (pièce A‑1, onglet 3).
+[9] Paragraphe 169(1) de la Loi.

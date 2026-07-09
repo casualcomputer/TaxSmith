@@ -1,0 +1,239 @@
+---
+title: "Stogrin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30610/index.do"
+last_modified: "2011-11-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 532"
+citation2: ""
+neutral_citation: "2011 CCI 532"
+decision_date: "2011-11-22"
+language: "fr"
+item_id: "30610"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7165
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:27:25.439000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "47aef75dd8f76a2285c9e104f158ed46b322645707014bbc6ee768bcc4c8c9e2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Stogrin c. La Reine
+
+- Citation: 2011 CCI 532
+- Decision date: 2011-11-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7165, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Stogrin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-11-22
+Référence neutre
+2011 CCI 532
+Numéro de dossier
+2010-3405(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3405(IT)I
+ENTRE :
+MYRON C. STOGRIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 août 2011 à Kelowna (Colombie‑Britannique).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Zachary Froese
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2006 et 2007 est accueilli en partie, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelant a droit à des déductions supplémentaires de 1 020 $ et de 1 224 $ pour les années d’imposition 2006 et 2007, respectivement, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 22e jour de novembre 2011.
+« Robert J. Hogan »
+Le juge Robert J. Hogan
+Traduction certifiée conforme
+ce 15e jour de février 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2011 CCI 532
+Date : 20111122
+Dossier : 2010-3405(IT)I
+ENTRE :
+MYRON C. STOGRIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Il s’agit d’un appel interjeté à l’encontre de nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») pour les années d’imposition 2006 et 2007.
+I. LES FAITS
+[2] Pendant toutes les années pertinentes, Myron C. Stogrin (l’« appelant ») était employé par une société de transport comme conducteur de grand routier. Il recevait une rémunération de 0,40 $ le mille, et certaines dépenses liées à la conduite, comme le carburant, étaient couvertes par l’employeur. Ses dépenses ordinaires au cours de longs voyages pour effectuer des livraisons ou de la prise en charge consistaient en frais de repas et des frais payés pour prendre une douche, étant donné qu’il dormait dans son camion la plupart du temps.
+[3] L’appelant se déplaçait par exemple de Vancouver et de l’Okanagan, en Colombie‑Britannique, à Tampa, en Floride, à Charlotte, en Caroline du Nord et à New York, dans l’État de New York. La loi canadienne prévoit un maximum de 70 heures de conduite par semaine et de 15 heures de conduite par jour, suivies d’une période de repos obligatoire de 48 heures, mais l’appelant était tenu de garder son camion, même en temps d’arrêt, pour éviter le vol de carburant ou de biens.
+[4] M. Stogrin a fait l’objet d’une vérification pour les années 2004, 2005, 2006 et 2007, mais il a interjeté des appels séparés, à savoir un appel pour les années 2004‑2005 et un appel pour les années 2006‑2007. En l’espèce, c’est‑à‑dire l’appel concernant les années 2006 et 2007, pour établir une nouvelle cotisation à l’égard de l’appelant, la méthode simplifiée a été utilisée pour calculer les dépenses, étant donné que l’appelant n’avait pas conservé ses reçus. L’appelant a contesté la limite de 50 % appliquée aux déductions relatives à ses frais de repas et de logement imposée par l’article 67.1 de la Loi de l’impôt sur le revenu (la « Loi »), et croyait que la Cour avait un pouvoir discrétionnaire pour accorder une plus grande déduction ou qu’elle pouvait demander au ministre pour son compte, au moyen du présent appel, de modifier la loi. Il a tenté de déduire le montant total de ses frais de repas et de logement quotidiens et non pas seulement les 50 % accordés par le ministre. Sa demande de déduction était en partie fondée sur l’affirmation selon laquelle les fonctionnaires recevaient une indemnité journalière de logement, de repas et de déplacement bien plus importante.
+[5] L’appelant a déclaré qu’il s’était heurté à des difficultés lorsqu’il avait eu à traiter avec l’Agence du revenu du Canada (l’« ARC ») en ce qui a trait à la présente affaire et à une autre affaire, et qu’il y avait eu des retards injustifiés lorsqu’il avait tenté de régler la présente affaire.
+II. ANALYSE
+Loi de l’impôt sur le revenu
+[6] La Loi prévoit en partie ce qui suit :
+Loi de l’impôt sur le revenu
+8(1) Éléments déductibles — Sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi ceux des éléments suivants qui se rapportent entièrement à cette source de revenus, ou la partie des éléments suivants qu’il est raisonnable de considérer comme s’y rapportant :
+[...]
+g) Employés des entreprises de transport — lorsque le contribuable a été employé par une personne dont la principale activité d’entreprise était le transport de voyageurs, de marchandises, ou de voyageurs et marchandises et que les fonctions de son emploi l’obligeaient régulièrement :
+(i) d’une part, à voyager à l’extérieur de la municipalité dans laquelle était situé l’établissement de son employeur où il devait se présenter pour son travail, et, le cas échéant, hors de la région métropolitaine où était situé cet établissement, dans des véhicules utilisés par l’employeur pour transporter les voyageurs ou marchandises,
+(ii) d’autre part, pendant qu’il était ainsi absent de cette municipalité et région métropolitaine, à engager des frais pour ses repas et son logement,
+les sommes qu’il a ainsi déboursées au cours de l’année, dans la mesure où il n’a pas le droit d’être remboursé à cet égard;
+h) Frais de déplacement — lorsque le contribuable, au cours de l’année, à la fois :
+(i) a été habituellement tenu d’exercer les fonctions de son emploi ailleurs qu’au lieu d’affaires de son employeur ou à différents endroits,
+(ii) a été tenu, en vertu de son contrat d’emploi, d’acquitter les frais de déplacement qu’il a engagés pour l’accomplissement des fonctions de sa charge ou de son emploi,
+les sommes qu’il a dépensées pendant l’année (sauf les frais afférents à un véhicule à moteur) pour se déplacer dans l’exercice des fonctions de son emploi, sauf s’il a, selon le cas :
+(iii) reçu une allocation pour frais de déplacement qui, par l’effet des sous-alinéas 6(1)b)(v), (vi) ou (vii), n’est pas incluse dans le calcul de son revenu pour l’année,
+(iv) demandé une déduction pour l’année en application des alinéas e), f) ou g);
+[...]
+(2) Restriction générale — Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi.
+[…]
+(4) Repas — La somme dépensée par un cadre ou un employé pour son repas ne peut être incluse dans le calcul du montant d’une déduction en vertu de l’alinéa (1)f) ou h) que si le repas a été pris au cours d’une période où les fonctions de ce cadre ou de cet employé l’obligeaient à être absent, durant une période d’au moins douze heures, de la municipalité dans laquelle était situé l’établissement de l’employeur où il se présentait habituellement pour son travail et à être absent, le cas échéant, de la région métropolitaine où cet établissement était situé.
+[...]
+67.1(1) Frais de repas [ou de divertissement] — Sous réserve du paragraphe (1.1), pour l’application de la présente loi, sauf les articles 62, 63, 118.01 et 118.2, la somme payée ou payable pour des aliments, des boissons ou des divertissements pris par des personnes est réputée correspondre à 50 % de la moins élevée des sommes suivantes :
+a) la somme réellement payée ou à payer;
+b) la somme qui serait raisonnable dans les circonstances.
+(1.1) Frais de repas des conducteurs de grands routiers — La somme payée ou payable par le conducteur de grand routier pour des aliments ou des boissons qu’il consomme pendant une période de déplacement admissible est réputée correspondre au produit du pourcentage déterminé relatif à la somme ainsi payée ou payable par la moins élevée des sommes suivantes :
+a) la somme ainsi payée ou payable;
+b) toute somme raisonnable dans les circonstances.
+[...]
+(5) Définitions — Les définitions qui suivent s’appliquent au présent article.
+[…]
+« pourcentage déterminé » En ce qui concerne une somme payée ou payable :
+a) 60 %, si la somme est payée ou devient payable après le 18 mars 2007 et avant 2008;
+b) 65 %, si elle est payée ou devient payable en 2008;
+c) 70 %, si elle est payée ou devient payable en 2009;
+d) 75 %, si elle est payée ou devient payable en 2010;
+e) 80 %, si elle est payée ou devient payable après 2010.
+Charte canadienne des droits et libertés
+[7] La Charte canadienne des droits et libertés (la « Charte ») prévoit ce qui suit :
+Droits et libertés au Canada
+1 La Charte canadienne des droits et libertés garantit les droits et libertés qui y sont énoncés. Ils ne peuvent être restreints que par une règle de droit, dans des limites qui soient raisonnables et dont la justification puisse se démontrer dans le cadre d’une société libre et démocratique.
+[...]
+Vie, liberté et sécurité
+7 Chacun a droit à la vie, à la liberté et à la sécurité de sa personne; il ne peut être porté atteinte à ce droit qu’en conformité avec les principes de justice fondamentale.
+Fouilles, perquisitions ou saisies
+8 Chacun a droit à la protection contre les fouilles, les perquisitions ou les saisies abusives.
+[…]
+Affaires criminelles et pénales
+11 Tout inculpé a le droit :
+[…]
+b) d’être jugé dans un délai raisonnable;
+[…]
+h) d’une part de ne pas être jugé de nouveau pour une infraction dont il a été définitivement acquitté, d’autre part de ne pas être jugé ni puni de nouveau pour une infraction dont il a été définitivement déclaré coupable et puni;
+[…]
+Égalité devant la loi, égalité de bénéfice et protection égale de la loi
+15(1) La loi ne fait acception de personne et s’applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l’origine nationale ou ethnique, la couleur, la religion, le sexe, l’âge ou les déficiences mentales ou physiques.
+[8] La Circulaire d’information no 73-21R9 « Déduction des frais de repas et de logement des employés de transport » (applicable pour 2006 et 2007) explique les deux méthodes de calcul de déductions acceptées par l’ARC. Selon l’ARC, la méthode détaillée exige que l’employé qui demande une déduction tienne un registre dans lequel il consigne les renseignements suivants :
+· la date à laquelle la somme a été payée;
+· les heures de départ et d’arrivée du voyage;
+· le lieu (p. ex. le nom de la ville);
+· le nom du restaurant ou de l’hôtel auquel la somme a été payée;
+· le type de dépense;
+· la somme payée.
+[9] Les dépenses consignées dans le registre seront déduites dans la mesure où elles sont raisonnables et si elles sont étayées par des pièces justificatives, c’est‑à‑dire des reçus. Ces dépenses sont soumises à la limite de 50 % prévue à l’article 67.1 de la Loi.
+[10] La méthode simplifiée, par contre, exige simplement que l’employé d’une entreprise de transport tienne un registre des déplacements effectués au cours de l’année d’imposition. Le taux fixe est de 17 $ par repas jusqu’à un maximum de 51 $ pour trois repas, sans qu’il y ait besoin de produire des reçus ou des preuves des dépenses. Là encore, la limite de 50 %, ou une limite supérieure dans des conditions prévues, s’applique à ces dépenses.
+[11] À titre préliminaire, l’appelant a fait valoir que les nouvelles cotisations devraient être annulées au motif que l’intimée n’a pas réglé la question en temps opportun. Il a également soulevé des arguments fondés sur la Charte à l’encontre des nouvelles cotisations.
+[12] Dans la décision Rahey (C.R.) v. M.N.R.[1], la Cour a rejeté une demande présentée en vue d’obtenir l’annulation d’une cotisation. Cette demande était fondée sur le fait qu’il avait fallu attendre presque dix ans avant que l’affaire soit entendue et qu’il s’agissait d’un délai tellement déraisonnable que les droits de l’appelant garantis par l’article 7 et l’alinéa 11b) de la Charte avaient été enfreints. Lorsqu’elle s’est penchée sur l’argument fondé sur l’alinéa 11b) de la Charte, la Cour a fait les observations suivantes :
+[traduction]
+[…] À mon avis, l’article 11 de la Charte ne s’applique pas dans les affaires de ce genre. En établissant des cotisations fiscales et en imposant des pénalités à l’égard de l’appelant, l’intimée n’a pas porté d’accusation contre l’appelant au sens de la Charte. […] Rien de ce qui est dit dans l’arrêt Wigglesworth c. La Reine, [1987] 2 R.C.S. 541, ne permet de soutenir un point de vue contraire, c’est‑à‑dire une opinion selon laquelle l’imposition d’une pénalité au titre du paragraphe 163(2) de la Loi de l’impôt sur le revenu suppose une poursuite intentée relativement à une infraction dans une procédure au civil ou au criminel[2]. […]
+[Non souligné dans l’original.]
+[13] La Cour a aussi rapidement rejeté l’argument fondé sur l’article 7 de la Charte, en faisant observer que cette disposition ne protège pas les droits de propriété et que [traduction] « aucune faiblesse dans les procédures entamées pour recouvrer l’impôt (si une telle faiblesse existe) ne peut justifier une annulation de la cotisation d’impôt en soi »[3].
+[14] Dans l’arrêt Bolton v. R.[4], la Cour d’appel fédérale s’est penchée sur la conséquence découlant du fait que le ministre avait omis d’examiner la cotisation du contribuable « avec diligence », comme l’exige le paragraphe 152(1) de la Loi. La Cour d’appel fédérale a tiré la conclusion suivante :
+[...] Le législateur n’entendait clairement pas que le défaut du ministre d’examiner de nouveau une cotisation avec toute la diligence possible ait pour effet d’annuler la cotisation. En cas d’inaction de la part du ministre, le contribuable a pour recours l’appel prévu à l’article 169. [...]
+[15] Dans la décision Kasaboski v. R.[5], le juge Bowie a expliqué la politique sous‑jacente à l’utilisation de la méthode simplifiée. Voici en partie, la teneur de ses observations :
+Bien qu’elle n’ait aucun fondement juridique, la volonté du ministre d’accepter les demandes de déduction relatives aux repas présentées par des employés des transports selon la méthode soi-disant simplifiée est une façon de reconnaître l’injustice qui résulterait si les demandes de déduction devaient être entièrement rejetées dans le cas où le contribuable ne pouvait fournir de registre à l’appui. Le montant de 33 $ par jour qu’il admet est la reconnaissance de ce que je considère comme une vérité allant de soi, c’est-à-dire qu’un contribuable ne devrait jamais profiter du défaut de tenir des registres adéquats. […] Il est généralement vrai, cependant, que les contribuables qui font une estimation de leurs dépenses sont plus susceptibles de les surestimer que de les sous‑estimer[6].
+[16] Il a été établi par une jurisprudence abondante que le fait pour un fonctionnaire qui est en mission officielle de recevoir une indemnité journalière supérieure aux frais de repas et de logement dont la déduction est autorisée par l’article 67.1 de la Loi n’enfreint pas les droits de la personne garantis par la Charte.
+[17] Dans la décision Smith v. Canada[7], des conducteurs de camion représentant chaque province et le Yukon ont introduit un recours collectif contre le gouvernement fédéral en vue d’obtenir qu’il leur soit accordé, ainsi qu’à tous les autres travailleurs qui ne sont pas des fonctionnaires et qui doivent voyager dans l’exercice de leurs fonctions, des déductions au même taux que les fonctionnaires qui partent en mission officielle. Ils cherchaient à obtenir que l’article 67.1 de la Loi soit déclaré inopérant, parce qu’il contrevenait à l’article 8 et au paragraphe 15(1) de la Charte.
+[18] Voici la teneur des observations faites par la juge Beames, qui s’est penchée sur la question de l’inégalité créée par l’article 67.1 de la Loi, dans la décision Smith :
+[traduction]
+5 [...] Au Canada, la plupart des employés ne sont pas autorisés à effectuer de déductions de leur revenu pour des frais de repas. Toutefois, l’alinéa 8(1)g) de la Loi de l’impôt sur le revenu prévoit que l’employé des entreprises de transport pour qui les fonctions de son emploi l’obligent à voyager régulièrement à l’extérieur de la municipalité dans laquelle est situé son employeur et où il doit se présenter pour son travail, et qui engage des frais pour ses repas et son logement qui ne sont pas remboursés par son employeur, peut déduire des frais de repas.
+6 L’article 67.1 de la Loi de l’impôt sur le revenu dispose que toutes les déductions relatives aux frais de repas sont réputées correspondre à 50 % de la moins élevée des deux sommes suivantes : la somme réellement payée ou la somme qui serait raisonnable dans les circonstances. L’article 67.1 s’applique de manière générale aux frais de repas et de divertissement, et ne se limite pas aux frais de repas des conducteurs de camion ou des employés des entreprises de transport.
+[…]
+9 Comme l’a souligné l’avocat des défendeurs dans ses observations, les demandeurs n’essaient pas seulement de comparer deux choses différentes, ils cherchent à comparer deux choses absolument incomparables. Le gouvernement fédéral, en tant qu’employeur, conclut des contrats d’emploi avec ses employés. Le fait qu’une des modalités de son contrat d’emploi porte sur des indemnités de repas ne permet pas aux demandeurs, qui sont employés par d’autres employeurs, de dire qu’ils ont droit, d’une certaine manière, à une déduction fiscale équivalente à l’indemnité prévue par les contrats d’emploi du gouvernement fédéral. Dans la décision Kasaboski c. R., 2005 CCI 356, le juge Bowie a fait les observations suivantes :
+Les indemnités versées aux fonctionnaires sont établies comme condition de leur emploi. Elles ne présentent absolument aucun intérêt pour la présente cause […] elles ne peuvent certainement pas établir un droit à une déduction du revenu qui n’est pas prévue par la Loi.
+10 Le gouvernement fédéral n’est tenu de conférer un avantage fiscal à aucun groupe en particulier. Les conducteurs de camion sont, en fait, les bénéficiaires d’un avantage fiscal dont ne jouissent pas tous les Canadiens, à savoir qu’ils peuvent, s’ils remplissent les conditions requises, déduire des frais de repas correspondant à 50 % des sommes réellement dépensées, avec comme seule limite la somme qu’il est raisonnable de dépenser, ou à un taux fixe de 15 $ par repas ou de 45 $ par jour. Si un conducteur de camion avait demandé une déduction de 75 $ pour frais de repas, avec des reçus à l’appui, et si l’Agence du revenu du Canada avait soutenu que le montant n’était pas raisonnable, alors il y aurait peut‑être lieu de comparer la déduction demandée par le conducteur de camion aux indemnités accordées aux employés du gouvernement fédéral. Toutefois, il n’est pas logique de comparer l’avantage fiscal de la déduction accordée aux conducteurs de camion aux indemnités accordées aux employés du gouvernement.
+Les conclusions ci‑dessus ont été confirmées par la Cour d’appel de la Colombie‑Britannique. Cette cour a rejeté l’appel au motif que les [traduction] « déductions fiscales ne sont pas comparables aux avantages en matière d’emploi[8]. »
+[19] Il y a lieu de signaler deux affaires relativement récentes de la Cour qui portent sur des faits et des arguments similaires à ceux de l’espèce. Elles ont toutes deux été tranchées sous le régime de la procédure informelle.
+[20] Dans la décision Kozmeniuk v. R.[9], l’appelant, M. Kozmeniuk, était un conducteur de grand routier qui n’avait pas conservé de reçus ou de documents justificatifs pour ses frais de repas et qui avait choisi de demander une déduction selon la méthode simplifiée. M. Kozmeniuk avait interjeté appel d’une nouvelle cotisation dans laquelle la déduction des frais de repas et de logement dépassant le maximum journalier de 45 $ lui avait été refusée. Il avait déduit des frais de 54 $ par jour, y compris pour des repas pris à sa gare d’attache, arguant, essentiellement, que les fonctionnaires peuvent déduire 54 $ par jour et que ce devrait être aussi son cas.
+[21] La Cour avait commencé son raisonnement en faisant observer qu’« [u]n problème se pose de façon générale dans le présent appel, soit l’absence de reçus » et que l’appelant avait choisi d’utiliser la méthode simplifiée[10]. La Cour avait conclu que le montant de 45 $ par jour ou de 15 $ par repas était raisonnable, et que, si l’appelant avait eu des reçus étayant une déduction plus élevée, la Cour les aurait acceptés.
+[22] Dans la décision de 2009 Neault c. La Reine[11], l’appelant était, là encore, employé comme conducteur de grand routier. Pour l’année d’imposition 2004, M. Neault avait choisi d’utiliser la méthode simplifiée et n’avait pas conservé ses reçus de frais de repas. La Cour avait fourni l’explication suivante, au paragraphe 6 :
+Je ne peux pas accorder à M. Neault une déduction quotidienne supérieure à celle de 45 $ qui est fixée pour la méthode simplifiée, et sur laquelle l’ARC s’est fondée pour établir la nouvelle cotisation à son égard pour l’année d’imposition 2004. Si M. Neault voulait déduire plus de 45 $ par jour, il lui fallait utiliser la méthode détaillée qui est par ailleurs prévue par la législation fiscale, et qui exige de tenir des carnets de route et de conserver des reçus. Bien que les indemnités pour repas accordées par le Conseil du Trésor puissent donner à penser qu’un contribuable pourrait raisonnablement déduire plus de 45 $ par jour, je ne peux pas accueillir la demande de M. Neault s’il est incapable d’établir qu’il a bel et bien dépensé au-delà de 45 $ chaque jour, et que chacun de ces jours était admissible. M. Neault n’a pas su en faire la preuve.
+III. CONCLUSION
+[23] Il ne fait aucun doute que, durant les années d’imposition pertinentes, M. Stogrin a supporté, à titre d’employé d’une entreprise de transport, des frais de repas et de logement non remboursés alors qu’il voyageait à l’extérieur de la municipalité dans laquelle était situé son employeur, comme l’exigent les alinéas 8(1)g) et h) de la Loi pour l’obtention d’une déduction.
+[24] L’appelant a invoqué l’article 8 et le paragraphe 15(1) de la Charte pour soutenir que l’application de la méthode simplifiée est inéquitable. Les décisions rendues dans ce domaine ont établi que la restriction prévue à l’article 67.1 de la Loi ne donne pas lieu à une saisie ni ne crée une distinction qui, de par son objet ou son effet, contrevient à la Charte.
+[25] Tout comme les demandeurs dans la décision Smith, précitée, et l’appelant dans la décision Gaudet c. Canada[12], l’appelant soutient, en l’espèce, qu’il est victime d’une discrimination fondée sur le statut professionnel. Il avance qu’il devrait recevoir une déduction fiscale qui lui permettrait de réaliser une économie d’impôt à peu près équivalente aux avantages économiques dont bénéficient les employés du gouvernement fédéral à l’égard de dépenses similaires. La Cour suprême du Canada a rejeté cet argument. La jurisprudence est constante à ce sujet : l’article 67.1 de la Loi est conforme à la Charte.
+[26] L’ARC n’a donc pas fait preuve de discrimination à l’égard de M. Stogrin en appliquant la restriction aux déductions pour frais de repas et de logement demandées par l’appelant au titre de l’article 67.1 de la Loi. Les arguments de l’appelant fondés sur la Charte ont été rejetés pour les motifs exposés dans les jugements que nous avons cités. Les déductions qui ont été calculées relativement aux cotisations fiscales pour les années 2006 et 2007 de l’appelant, après l’application de la restriction, doivent être maintenues. Je tiens à souligner, toutefois, que l’avocat de l’intimée a écrit à la Cour après l’audience, pour admettre que l’appelant avait le droit de déduire d’autres dépenses d’emploi de 1 020 $ et de 1 224 $ pour les années d’imposition 2006 et 2007, respectivement, en application des articles 8 et 67.1 de la Loi. Ces montants représentent 40 autres jours de déplacement.
+[27] Pour les motifs exposés ci‑dessus, l’appel est accueilli en partie seulement, et l’affaire est déférée au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelant a droit à des déductions supplémentaires de 1 020 $ et de 1 224 $ pour les années d’imposition 2006 et 2007, respectivement.
+Signé à Ottawa, Canada, ce 22e jour de novembre 2011.
+« Robert J. Hogan »
+Juge Robert J. Hogan
+Traduction certifiée conforme
+ce 15e jour de février 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2011 CCI 532
+NO DU DOSSIER DE LA COUR : 2010-3405(IT)I
+INTITULÉ : MYRON C. STOGRIN
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Kelowna (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 24 août 2011
+MOTIFS DU JUGEMENT : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 22 novembre 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Zachary Froese
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1990] 1 C.T.C. 2272.
+[2] Ibid., à la page 2273.
+[3] Ibid., à la page 2276.
+[4] [1996] 3 C.T.C. 3, aux pages 4 et 5.
+[5] [2005] 3 C.T.C. 2370, 2005 CCI 356 (procédure informelle).
+[6] Ibid., au paragraphe 11.
+[7] 2005 BCSC 1036, [2005] 4 C.T.C. 97.
+[8] 2006 BCCA 237, [2006] 4 C.T.C. 73, au paragraphe 6.
+[9] [2006] 2 C.T.C. 2356, 2006 CCI 65 (procédure informelle).
+[10] Ibid., au paragraphe 3.
+[11] 2009 CCI 586, 2009 DTC 1383.
+[12] [1997] A.C.I. no 11 (QL), [1998] 2 C.T.C. 2562.

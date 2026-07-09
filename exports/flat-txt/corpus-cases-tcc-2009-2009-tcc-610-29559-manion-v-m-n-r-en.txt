@@ -1,0 +1,95 @@
+Title: Manion v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29559/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-610-29559-manion-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2009-12-03
+
+# Manion v. M.N.R.
+
+- Citation: 2009 TCC 610
+- Decision date: 2009-12-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6316, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Manion v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-12-03
+Neutral citation
+2009 TCC 610
+File numbers
+2009-1923(EI)
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-1923(EI)
+BETWEEN:
+PATRICIA G. MANION,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Amended motion heard by teleconference
+on December 3, 2009, at Ottawa, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darren Prevost
+____________________________________________________________________
+ORDER
+UPON motion by the Respondent for an Order striking the Notice of Appeal on the basis that the Appellant has not filed an objection pursuant to section 165 of the Income Tax Act as a precondition for appealing to this Court;
+AND UPON reading the materials filed and upon hearing the Appellant and counsel for the Respondent;
+IT IS ORDERED that the purported appeal is quashed.
+Signed at Ottawa, Canada, this 5th day of December 2009.
+“C.H. McArthur”
+McArthur J.
+Citation: 200 TCC 610
+Date: 20091205
+Docket: 2009-1923(EI)
+BETWEEN:
+PATRICIA G. MANION ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR ORDER
+McArthur J.
+[1] This amended motion by the Respondent is for an Order striking the Appellant’s purported appeal on the basis that it is not properly before the Court.
+[2] The Appellant’s contention is that the T4s issued to her are in excess of the employment insurance amounts that she actually had. She has advised me that she has an appointment with her Member of Parliament’s assistant who is aware of her position and will attempt to reconcile the amounts in dispute.
+[3] I agree with Respondent’s counsel that this Court is not the forum to settle this dispute which cannot be appealed under sections 93 and 103 of the Employment Insurance Act (EIA).
+[4] Further, the Appellant has not filed an objection under section 165 of the Income Tax Act (ITA) which is a precondition to appealing to the Tax Court of Canada under section 169 of the ITA.
+[5] For these reasons, the purported appeal is quashed.
+Signed at Ottawa, Canada, this 3rd day of December 2009.
+“C.H. McArthur”
+McArthur J.
+CITATION: 200 TCC 610
+COURT FILE NO.: 2009-1923(EI)
+STYLE OF CAUSE: PATRICIA G. MANION and
+MINISTER OF NATIONAL REVENUE.
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: December 3, 2009
+REASONS FOR ORDER BY: The Honourable Justice C.H. McArthur
+DATE OF ORDER: December 5, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

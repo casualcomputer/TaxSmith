@@ -1,0 +1,151 @@
+---
+title: "Perron c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30967/index.do"
+last_modified: "2012-09-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 341"
+citation2: ""
+neutral_citation: "2012 CCI 341"
+decision_date: "2012-09-28"
+language: "fr"
+item_id: "30967"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4841
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:23:30.710000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b088e98fd145aee5696ed93edb84699f3abb972b1c4dd3a58ce0609058c79494"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Perron c. La Reine
+
+- Citation: 2012 CCI 341
+- Decision date: 2012-09-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4841, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Perron c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-09-28
+Référence neutre
+2012 CCI 341
+Numéro de dossier
+2011-851(GST)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2011-851(GST)I
+ENTRE :
+MARTIN PERRON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 24 août 2012, à Québec (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Sylvain Lacombe
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie relativement à la taxe sur les produits et services en vertu de la partie IX de la Loi sur la taxe d'accise, pour la période visée du 1er octobre 2009 au 31 décembre 2009, est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2012.
+« Paul Bédard »
+Juge Bédard
+Référence : 2012 CCI 341
+Date : 20120928
+Dossier : 2011-851(GST)I
+ENTRE :
+MARTIN PERRON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’un appel d’une cotisation établie en vertu de la Loi sur la taxe d’accise (la « LTA ») relativement à la taxe sur les produits et services (« TPS »).
+[2] Le 10 mai 2010, l’intimée, par l’entremise du ministre du Revenu du Québec (le « ministre »), a établi une cotisation à l’égard de l’appelant relativement à la Partie IX de la LTA, pour la période visée du 1er octobre 2009 au 31 décembre 2009 et lui a envoyé un avis de cotisation, lequel est daté du même jour.
+[3] Tel qu’il apparaît dans l’avis de cotisation envoyé à l’appelant, les montants cotisés sont les suivants, à savoir :
+Rajustements apportés au calcul de la
+taxe nette déclarée
+2 685,75 $
+Intérêt net
+18,28 $
+Total [montant dû]
+2 704,03 $
+[4] Plus précisément, les rajustements au montant de 2 685,75 $ apportés au calcul de la taxe nette déclarée par l’appelant, mentionnés au paragraphe précédent, consistent en un refus du crédit de taxe sur les intrants (« CTI ») relativement à l’achat par l’appelant d’un véhicule.
+[5] Pour établir la cotisation, le ministre s’est appuyé, entre autres, sur les conclusions et les hypothèses suivantes énumérées dans la Réponse à l’avis d’appel (la « Réponse ») :
+a) L’appelant opère une entreprise de soudure sous la raison sociale Soudure Mobile Express; (admis)
+b) L’appelant est, durant la période visée, un inscrit aux fins de l’application de la taxe sur les produits et services (ci‑après la « TPS ») et un mandataire du Ministre aux fins de la perception et de la remise de la TPS; (admis)
+c) Le 1er octobre 2009, l’appelant a fait l’acquisition d’un véhicule de marque Ford 2010 de modèle F‑250 4x4 et portant le numéro de série 1FTSW2BR3AEA15143 (ci‑après le « véhicule »); (admis)
+d) L’appelant n’a pas acquis le véhicule pour une utilisation exclusive dans le cadre de ses activités commerciales; (nié)
+e) L’appelant ne possède personnellement aucun autre véhicule; (nié)
+f) Aucun registre de kilométrage n’a été remis au Ministre; (admis)
+Question en litige
+[6] L’intimée était‑elle justifiée de refuser à l’appelant un CTI au montant de 2 6785,75 $ que ce dernier avait réclamé relativement à l’achat du véhicule?
+Témoignage de l’appelant
+[7] Il ressort essentiellement du témoignage de l’appelant que :
+i) en 2008, 2009 et 2010, il avait été à l’emploi d’une entreprise de soudure. La preuve a révélé à cet égard que le revenu d‘emploi de l’appelant avait été de 54 294 $, 63 790 $ et 42 632 $ en 2010, 2009 et 2008 respectivement (voir pièce I‑1, onglet 3). L’appelant a expliqué que ses heures de travail étaient de 7 h à 15 h, et ce, 48 semaines par année. Il a expliqué qu’il s’était rendu à son travail en 2010, soit dans un véhicule de marque Mazda 5 qu’il détenait en copropriété avec sa conjointe, soit sur une moto (de marque Harley Davidson) qu’il avait achetée en avril 2005 (voir pièce A‑3);
+ii) de plus, pendant les années 2008, 2009 et 2010, il avait exploité une entreprise de soudure. L’appelant a expliqué qu’il n’avait pas d’atelier de soudure. Il se déplaçait chez ses clients pour effectuer ses travaux de soudure, et ce, avec le véhicule qui tirait une remorque pour transporter tout l’équipement et les matériaux nécessaires pour effectuer ses travaux de soudure. L’appelant a aussi expliqué que ses clients étaient situés dans la région de Québec et de la Beauce. L’appelant a témoigné qu’il exploitait son entreprise les week-ends et parfois le soir. Enfin, l’appelant a témoigné qu’en 2010, il avait travaillé 1 650 heures en tant qu’employé et il avait consacré 1 362 heures de son temps à son entreprise;
+iii) l’entreprise de l’appelant avait généré un chiffre d’affaires de 45 232 $, de 32 794 $ et de 66 629 $ en 2008, 2009 et 2010, respectivement (voir pièce I‑1, onglet 2);
+iv) sa conjointe (conseillère en emploi au sein du Carrefour jeunesse de la Capitale nationale) est en congé de maternité depuis le 15 novembre 2009. L’appelant a expliqué qu’avant son congé de maternité, sa conjointe faisait du covoiturage pour se rendre à son travail.
+Thèse de l’appelant
+[8] L’appelant a soutenu qu’il ne voyait pas l’utilité de tenir un registre pour établir l’usage commercial du véhicule étant donné qu’il était utilisé à 100 % à des fins commerciales. L’appelant a soutenu qu’il travaillait plus de 3 000 heures par année dont environ 1300 heures les week-ends et parfois le soir. Ainsi, il ne lui restait pratiquement pas de temps pour utiliser le véhicule (qui, je le souligne, pouvait transporter 6 passagers) à des fins personnelles ou récréatives.
+Analyse et conclusion
+[9] Pour avoir droit au CTI réclamé, l’appelant devait démontrer en l’espèce que le véhicule avait été utilisé à plus de 90 % à des fins commerciales.
+[10] La preuve de l’appelant à cet égard repose essentiellement sur son témoignage étant donné qu’à toutes fins pratiques il n’a fourni aucune preuve pertinente pour appuyer son témoignage. En effet, l’appelant n’a produit aucun registre de kilométrage. Je souligne également que l’appelant n’a fourni aucun agenda faisant état de ses déplacements pour fins d’affaires. L’appelant n’a pas non plus fourni de factures d’entretien et d’essence. Tout au plus, l’appelant a déposé en preuve (pièce A‑5) des factures démontrant qu’il avait consacré environ 355 heures à son entreprise en 2010. Je rappelle que l’appelant a témoigné avoir consacré environ 1 300 heures à son entreprise en 2010.
+Analyse et conclusion
+[11] Il est possible d’affirmer qu’un véhicule a servi exclusivement à des fins commerciales. Cependant, une telle affirmation doit être plausible et vraisemblable. Le fardeau de la preuve sera plus lourd lorsqu’il s’agit d’un véhicule qui se prête aussi à un usage personnel. Je rappelle à cet égard que le véhicule est conçu notamment pour transporter six passagers. Lorsqu’une personne décide de faire l’acquisition d’un véhicule possédant des caractéristiques pouvant soulever des questions, elle se doit être prudente, vigilante et disciplinée en ce qui concerne l’utilisation du véhicule de manière à pouvoir éventuellement faire la preuve d’une manière convaincante que le véhicule a servi à plus de 90 % à des fins commerciales. Ceci est d’autant plus vrai en l’espèce étant donné que la conjointe de l’appelant était confinée à la maison étant donné qu’elle n’avait pas de véhicule pour se déplacer. Je rappelle que l’appelant a témoigné qu’il utilisait la Mazda 5 (du moins en hiver) pour se rendre à son emploi et que le véhicule était utilisé uniquement à des fins commerciales. Pour ce faire, le recours à un registre peut s’avérer fort utile pour dissiper les doutes. L’utilisation alléguée peut être confirmée aussi par un agenda ou encore par les factures envoyées à un client. Ces éléments de preuve pertinente peuvent établir les destinations et aussi établir le kilométrage parcouru à des fins commerciales par rapport au kilométrage total d’une année donnée.
+[12] En l’espèce, l’appelant a omis de produire cette preuve pertinente qu’il était en mesure de produire et qui aurait peut-être permis d’élucider les faits. Il ne l’a pas fait. J’en infère que la preuve en question lui aurait été défavorable. En effet, je ne comprends toujours pas pourquoi l’appelant n’a déposé en preuve qu’une partie des factures envoyées à ses clients en 2010, factures qui, je le rappelle, démontrent tout au plus qu’il avait travaillé 355 heures en 2010 sur les 1 362 qu’il prétend avoir consacrées à son entreprise. La production de la totalité des factures aurait permis d’appuyer son témoignage à l’égard des heures consacrées à son entreprise en 2010 et aussi d’établir le kilométrage parcouru pour se rendre chez ses clients en 2010. Encore une fois, il aurait été alors possible par une simple vérification de l’odomètre du véhicule à la fin de l’année 2010, si tout le kilométrage parcouru par le véhicule l’avait été à des fins commerciales. Cette preuve pertinente qu’il aurait dû produire était d’autant plus nécessaire que les explications soumises relativement à la nécessité d’avoir un véhicule à quatre portes et deux banquettes, qui étaient que l’on voulait y placer des pièces d’équipement pour les tenir à l’abri du froid, n’étaient pas très convaincantes.
+[13] De façon globale, le témoignage de l’appelant n’était pas suffisant et adéquat pour amener la Cour à conclure que l’appelant s’est acquitté du fardeau de la preuve qui lui incombait.
+[14] Pour ces raisons, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 28e jour de septembre 2012.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2012 CCI 341
+Nº DU DOSSIER DE LA COUR : 2011-851(GST)I
+INTITULÉ DE LA CAUSE : MARTIN PERRON ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 24 août 2012
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 28 septembre 2012
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Sylvain Lacombe
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

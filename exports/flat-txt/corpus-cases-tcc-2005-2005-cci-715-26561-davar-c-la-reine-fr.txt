@@ -1,0 +1,102 @@
+Title: Davar c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26561/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-715-26561-davar-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-11-04
+
+# Davar c. La Reine
+
+- Citation: 2005 CCI 715
+- Decision date: 2005-11-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3569, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-04
+Référence neutre
+2005 CCI 715
+Numéro de dossier
+2005-1824(IT)I
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI715
+Date : 20051104
+Dossier : 2005-1824(IT)I
+ENTRE :
+ANJI DAVAR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Représentante de l’appelante : Glenna Rasley
+Avocat de l’intimée : Edward Sawa
+____________________________________________________________________
+MOTIFS DU JUGEMENT
+(rendus oralement à l’audience à
+Fredericton (Nouveau-Brunswick), le 25 octobre 2005)
+Le juge Miller
+[1] Mme Anji Davar interjette appel à l’encontre de la cotisation établie par le ministre du Revenu national (le ministre) pour son année d’imposition 2003. Le ministre a refusé d’admettre certaines dépenses comme frais médicaux.
+[2] Les faits en l’espèce sont simples. Tant M. Davar que Mme Davar ont de nombreuses préoccupations en matière de santé : pour M. Davar, relativement à des problèmes cardiaques, et pour Mme Davar, relativement à plusieurs allergies. Ils ont tous les deux fait quelque chose que plusieurs Canadiens ont fait au cours des récentes années et ont cherché à obtenir des traitements parallèles, notamment les services d’un naturopathe, d’un massothérapeute et d’un acupuncteur. Ils se sont tournés vers de tels traitements en raison de l’échec des méthodes de traitement occidentales traditionnelles. M. Davar a donné l’exemple de médicaments prescrits par un médecin qui lui ont fait du mal plutôt que du bien.
+[3] En 2003, l’appelante a dépensé environ 1 200 $ pour les services de deux naturopathes. Les deux étaient titulaires d’un certificat de médecin naturopathe aux termes de la Loi sur les praticiens ne prescrivant pas de médicaments de l’Ontario. L’appelante a obtenu les services de ces médecins ici au Nouveau-Brunswick.
+[4] L’appelante a payé 402 $ pour des services de massothérapie. Aucune preuve n’a été présentée quant aux titres et qualités du thérapeute. L’appelante a payé 550 $ pour des services d’acupuncture à la New Start Allergy Clinic. L’appelante demande aussi 93 $ pour des services dentaires mais n’a fourni aucune preuve de tels services.
+[5] La position de l’appelante est double. Premièrement, la liste des frais médicaux énoncés dans la Loi de l’impôt sur le revenu est inéquitable parce qu’elle ne prévoit pas les traitements parallèles que l’appelante et M. Davar ont reçus et qui leur ont manifestement apporté des bienfaits. Deuxièmement, les dispositions de la Loi, plus particulièrement les articles 118.2 et 118.4, peuvent et devraient faire l’objet d’une interprétation libérale de manière à inclure les massothérapeutes, les naturopathes et les acupuncteurs du Nouveau-Brunswick. Lesdits articles se lisent comme suit :
+118.2(2) Pour l'application du paragraphe (1), les frais médicaux d'un particulier sont les frais payés :
+a) à un médecin, à un dentiste, à une infirmière ou un infirmier […] pour les services médicaux ou dentaires fournis au particulier, à son époux […]
+Le paragraphe 118.4(2) se lit comme suit :
+118.4(2) Tout […] médecin […] visé aux articles 63, 118.2 […] doit être autorisé à exercer sa profession :
+a) par la législation applicable là où il rend ses services, s'il est question de services;
+Pour l’application de la Loi, la personne visée doit, pour obtenir le titre de médecin, être autorisée à exercer la profession de médecin par la législation du Nouveau-Brunswick. La seule loi du Nouveau-Brunswick qui m’a été présentée est la Loi médicale. À n’en pas douter, celle-ci n’autorise pas les naturopathes, les massothérapeutes ou les acupuncteurs à exercer la profession de médecin. Je reconnais que la législation ontarienne traite des professionnels qui offrent des traitements parallèles. Cependant, tel que l’a conclu le juge Bowie dans l’arrêt Noddin v. R.[1], elle ne permet pas l’octroi d’un crédit d’impôt fondé sur de tels services reçus au Nouveau-Brunswick. Le juge Bowie a également abordé la validité constitutionnelle de ladite législation et a effectivement conclu qu’elle était constitutionnelle. Si des changements doivent être apportés, c’est le gouvernement du Canada qui doit les apporter.
+[6] L’appelante comprend qu’il n’existe au Nouveau-Brunswick aucune loi habilitante à l’égard de telles pratiques. Les Davars ont même écrit une lettre au gouvernement du Nouveau-Brunswick pour demander des changements. Ils ressentent de la frustration et, comme l’a déclaré Mme Davar, sont offensés par ce qui se passe. Ils se demandent vers qui ils peuvent se tourner. Bien que notre Cour ait interprété les présentes lois de façon libérale et avec compassion, elle ne peut faire fi du sens réel et exact de la loi, aussi inéquitable puisse-t-elle sembler aux yeux du contribuable.
+[7] M. Davar, je ne vois aucune interprétation libérale qui puisse me permettre de conclure qu’un naturopathe, un massothérapeute ou un acupuncteur du Nouveau-Brunswick est admissible, tel que l’exigent les dispositions expresses de la Loi de l’impôt sur le revenu. Si je tirais une telle conclusion, je ferais fi de ces dispositions. Il est regrettable que nous devions souvent refuser de tels types de dépenses. La Loi ne reconnaît pas encore la tendance dans notre système de soins de santé vers les formes de traitement parallèles. Je l’ai déjà dit et je le répète pour que vous le sachiez : il ne fait aucun doute dans mon esprit que les traitements parallèles peuvent soulager les souffrances et les douleurs.
+[8] Parfois, la loi mène la société dans une certaine direction, mais il arrive souvent que le comportement de la société mène la loi. Dans le cas des frais médicaux, c’est la loi qui, tôt ou tard, doit rattraper le comportement de la société. J’ai espoir que le législateur prendra les mesures nécessaires à cette fin. Il examine constamment les règles sur les frais médicaux pour s’assurer qu’elles sont à jour et qu’elles sont appropriées. Cependant, il n’en est pas encore rendu là en ce qui concerne les types de dépenses pour traitement parallèle que vous demandez.
+[9] Vous devez comprendre que ce n’est pas mon rôle que de réécrire la loi. Toutefois, en faisant part de vos préoccupations à notre Cour comme plusieurs l’ont déjà fait, vous sensibiliserez le législateur à vos préoccupations concernant les traitements parallèles. Je comprends les efforts que vous faites à cet égard, mais je ne puis accueillir votre appel.
+[10] Je rejette votre appel, mais j’espère que vous vous porterez bien tous les deux.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2005.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 30e jour de mars 2006.
+Éric Vovan, traducteur
+RÉFÉRENCE :
+2005CCI715
+No DU DOSSIER DE LA COUR :
+2005-1824(IT)I
+INTITULÉ DE LA CAUSE :
+Anji Davar et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Fredericton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE :
+25 octobre 2005
+MOTIFS DU JUGEMENT PAR :
+l’honorable juge Campbell J. Miller
+DATE DU JUGEMENT :
+2 novembre 2005
+COMPARUTIONS :
+Représentante de l’appelante :
+Glenna M. Rasley
+Avocat de l’intimée :
+Edward Sawa
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Étude :
+s.o.
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2004 DTC 3577.

@@ -1,0 +1,390 @@
+---
+title: "Le Groupe PPP Ltée c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/218042/index.do"
+last_modified: "2017-01-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 2"
+citation2: ""
+neutral_citation: "2017 CCI 2"
+decision_date: "2017-01-16"
+language: "fr"
+item_id: "218042"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2959
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:38:26.020000+00:00"
+cases_cited_count: 14
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8847ef1f34fe3769748b4f43e599402808787f51f4733c89193bce258a9ff29e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Le Groupe PPP Ltée c. La Reine
+
+- Citation: 2017 CCI 2
+- Decision date: 2017-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2959, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Le Groupe PPP Ltée c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-01-16
+Référence neutre
+2017 CCI 2
+Numéro de dossier
+2015-658(GST)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2015-658(GST)G
+ENTRE :
+LE GROUPE PPP LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 5 octobre 2016, à Québec (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocates de l'appelante :
+Me Nathalie Goyette
+Me Laurie Beausoleil
+Avocat de l'intimée :
+Me Christian Boutin
+JUGEMENT
+L’appel à l’encontre de la cotisation en vertu de la Partie IX de la Loi sur la taxe d’accise, dont l’avis est daté du 7 mai 2013, pour la période du 1er octobre 2008 au 31 octobre 2012, est rejeté avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2017.
+« Alain Tardif »
+Juge Tardif
+Référence : 2017 CCI 2
+Date : 20170116
+Dossier : 2015-658(GST)G
+ENTRE :
+LE GROUPE PPP LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] L’appel a pour objet de déterminer si l’intimée était justifiée de refuser des crédits de taxe sur les intrants (« CTI ») au montant de 520 512 $, réclamés par l’appelante dans sa déclaration de taxe sur les produits et services (« TPS ») couvrant la période du 1er au 30 octobre 2012.
+[2] Les CTI réclamés concernaient un volet des activités commerciales de l’appelante pour la période du 1er octobre 2008 au 31 octobre 2012 soit celui des paiements faits à des concessionnaires à la suite d’une perte partielle ou totale couverte par le plan de protection offert par l’appelante.
+[3] L’avis d’appel de l’appelante est très explicite; en effet, il compte 90 paragraphes. L’intimée a admis le contenu de plusieurs de ces paragraphes dans sa réponse à l’avis d’appel.
+[4] Étant donné que les admissions couvrent l’essentiel des faits, il y a lieu de reproduire le contenu des paragraphes de l’avis d’appel, ayant fait l’objet d’admissions par l’intimée :
+• Le présent appel a trait à l’application de la Loi sur la taxe d’accise, L.R.C. 1985, ch. E-15 (la « Loi »).
+• L’appelante porte en appel un avis de cotisation émis par l’intimée en date du 7 mai 2013 (la « cotisation ») et la décision sur opposition de l’intimée datée du 18 novembre 2014 (la « décision sur opposition »), par lesquels l’intimée a refusé le CTI en question.
+• L’appelante est une société par actions constituée le 5 mai 1980 sous la Loi canadienne sur les sociétés par actions, L.R.C. (1985) c. C‑44.
+• L’appelante est — et était tout au long de la période pertinente — un inscrit aux fins de la TPS détenant le numéro d’inscription 104333521RT0001.
+• Avant le 1er octobre 2010, l’appelante offrait, entre autres, des garanties de remplacement de véhicules automobile (les « garanties » ou la « garantie »).
+• Les garanties étaient offertes aux acheteurs de véhicules en supplément des assurances primaires qu’offraient les assureurs primaires.
+• En effet, à cette époque, les assurances primaires ne dédommageaient généralement les assurés que pour la valeur dépréciée du véhicule au moment du sinistre. Par exemple, dans le cas d’un véhicule acheté au prix de 25 000 $ en 2005 dont la valeur de remplacement s’élevait à 29 000 $ et la valeur dépréciée à 9 000 $ en 2009, au moment d’un sinistre résultant en une perte totale, l’assurance primaire offrait une indemnité de 9 000 $[1] au client (l’« indemnité primaire »).
+• Les garanties étaient offertes par l’appelante par l’entremise de concessionnaires automobiles (les « commerçants ») basés au Québec et avec lesquels l’appelante avait conclu un contrat de distribution (le « contrat de distribution »).
+• En vertu du contrat de distribution, le commerçant, agissant comme mandataire de l’appelante, s’engageait à offrir la garantie pour le compte de l’appelante, lors de la vente d’un véhicule automobile.
+• Plus particulièrement, en vertu du contrat de distribution, le commerçant s’engageait aux obligations suivantes :
+a. vendre la garantie pour le compte de l’appelante;
+b. en percevoir le prix de vente prévu au contrat de garantie conclu avec le client (le « contrat de garantie »); et
+c. détenir les montants à titre de fidéicommissaire pour l’appelante jusqu’à leur remise à cette dernière.[2]
+• Afin d’avoir droit à un véhicule de remplacement en cas de perte d’un véhicule garanti, le client devait avoir respecté les conditions et obligations prévues au contrat de garantie. Parmi ces obligations, le client était tenu de maintenir en tout temps une assurance primaire à l’égard du véhicule garanti.
+• En vertu du contrat de garantie, dans le cas où une perte survenait à l’égard du véhicule garanti, le processus de réclamation (la « réclamation ») se faisait auprès du commerçant, sous la gestion et pour le compte de l’appelante.
+• Dans le cadre de la réclamation, le véhicule de remplacement faisait l’objet d’un contrat de vente entre le commerçant et le client (le « contrat de vente »).
+• Tel que prévu au contrat de vente, le prix de vente du véhicule de remplacement incluait, entre autres, la TPS applicable.
+• Une partie du prix de vente du véhicule de remplacement était acquittée par le versement par le client de l’indemnité primaire reçue de l’assureur primaire, tel que prévu au contrat de garantie.
+• Afin de rencontrer ses obligations à titre de fournisseur des garanties, l’appelante avait conclu une convention avec La Capitale assurances générales (« La Capitale ») et cette dernière avait, conformément à cette convention, émis une police d’assurance compensatoire des obligations incombant à l’appelante.
+• Vers 2012, la relation entre l’appelante, les commerçants et les clients a fait l’objet d’une demande d’interprétation auprès de l’intimée.
+• En date du 8 mars 2012, l’intimée a émis une lettre d’interprétation selon laquelle l’appelante (et non les commerçants) effectuait la fourniture taxable de la garantie au Client, les commerçants agissant comme mandataires de l’appelante.
+• Avant le 1er octobre 2010, la vente des garanties n’était pas sujette à l’encadrement de l’Autorité des marchés financiers (« AMF »).
+• Depuis le 1er octobre 2010, l’AMF encadre la garantie qui est devenue un produit « F.P.Q. numéro 5 ». Ainsi, toute personne désirant émettre un tel produit doit être titulaire d’un permis d’assureur dûment délivré par l’AMF.
+• Conformément à ses obligations toutefois l’appelante a, pendant la période pertinente, continué d’honorer les garanties conclues avant le 1er octobre 2010.
+Demande de remboursement
+• Le 30 novembre 2012, l’appelante a produit la déclaration auprès de l’intimée.
+• Par la cotisation l’intimée a refusé le CTI en litige.
+• Le 21 novembre 2013, l’appelante s’est opposée à la cotisation par avis d’opposition transmis à l’intimée.
+• Le 18 novembre 2014, l’intimée a confirmé la cotisation par la décision sur opposition.
+• L’intimée invoque à l’appui de sa position les articles 169 et 175.1 de la Loi.
+[5] Au soutien de son appel, l’appelante a également fait entendre monsieur Mario Champagne, en sa qualité de vice-président de l’appelante et madame Silvia Di Tommaso, en sa qualité de contrôleur chez un important concessionnaire.
+[6] La preuve testimoniale a fait ressortir, outre ce qui a été admis, les faits suivants.
+[7] Monsieur Mario Champagne, représentant de l’appelante, a expliqué la façon dont étaient créés les divers plans offerts et vendus par les concessionnaires automobiles jusqu’en octobre 2010.
+[8] Depuis cette date, le produit relatif à la perte partielle ou totale est toujours offert par le concessionnaire mais origine d’un assureur, le tout conformément à une décision de l’AMF.
+[9] En termes simplifiés, ce qui était une garantie avant octobre 2010 est devenue une assurance après cette date, et ce, essentiellement parce que l’appelante n’a pas les permis et accréditations requis par les autorités financières.
+[10] Monsieur Mario Champagne a aussi expliqué les diverses étapes et la nature des droits et obligations entre l’appelante et les concessionnaires mais aussi au niveau de ces derniers et des consommateurs. Il a exposé les différentes composantes des divers plans disponibles. Il a notamment fait état de couvertures qui visaient les pièces de remplacement communément appelées « jobbers » versus les pièces d’origine.
+[11] Il a aussi indiqué qu’au niveau d’une perte totale ou partielle, le consommateur devait détenir une police d’assurance standard primaire, de sorte que l’appelante intervenait uniquement au niveau de la différence couverte par l’assureur primaire et la valeur de remplacement du bien couvert par le plan de protection acquis de l’appelante.
+[12] Monsieur Mario Champagne a également expliqué que l’appelante avait dû conclure une entente avec un assureur réputé, notamment La Capitale, pour avoir accès à tous les concessionnaires automobiles du Québec. L’appelante a donc obtenu de La Capitale une « police compensatoire ». Il a donné plusieurs explications quant au contrat et à ses objets, intervenu entre l’appelante et La Capitale.
+[13] Globalement, le témoignage de monsieur Mario Champagne a permis de préciser, nuancer et expliquer au moyen de détails plus élaborés les faits mentionnés dans les procédures écrites tel l’avis d’appel et la réponse à l’avis d’appel.
+[14] Madame Silvia Di Tommaso a également témoigné. En tant que contrôleur chez un important concessionnaire automobile dans la région de Montréal, elle a témoigné sur les étapes, procédures, formulaires d’adhésion, de recouvrement, tant au niveau de l’achat du plan de protection qu’au niveau de son aboutissement en cas de réclamation.
+[15] Elle a expliqué que la relation avec l’appelante était rentable en ce qu’elle générait des commissions lors de la vente des plans de protection mais aussi des profits lors de la vente de pièces et/ou les réparations qui devaient être effectuées chez le concessionnaire vendeur du plan.
+[16] Le détenteur d’un tel contrat ou le consommateur qui achetait le plan de protection prenait l’engagement formel de retourner chez le concessionnaire qui lui avait vendu le contrat de protection, assurant ainsi une fidélité fort intéressante du côté de l’entretien mais aussi pour l’éventuel profit sur la voiture de remplacement advenant la perte totale ou partielle.
+[17] Elle a insisté sur l’importance, la quantité et la qualité du travail qui devait être accompli dans le cadre d’une réclamation, pour obtenir ultimement le chèque approprié de l’appelante couvrant la partie du paiement non indemnisé par l’assureur primaire.
+[18] Monsieur Mario Champagne a également affirmé que l’appelante et les concessionnaires sont deux entités complètement indépendantes, avec des tâches indépendantes, et ce, pour une question d’impartialité et objectivité.
+[19] Il a cependant affirmé que les concessionnaires sont des intermédiaires, des mandataires. Un peu plus loin, le témoin fait référence à une entente entre l’appelante et les concessionnaires pour ce qui a trait au financement des primes exigées pour les divers plans de couverture.
+[20] Plus tard, monsieur Mario Champagne affirme que l’obligation de remplacer le véhicule dans un cas de perte totale est la responsabilité du concessionnaire. À cet effet, il affirme ce qui suit : « C’est‑à‑dire que le consommateur peut appeler chez nous, au bureau du Groupe PPP mais nous, on le retourne chez le commerçant. »
+Application de l’article 175.1 de la Loi [21] L’appelante soutient que le bien‑fondé de son appel repose notamment sur le contenu de l’article 175.1 de la Loi; une des questions en litige est donc de déterminer si l’appelante a rempli les conditions de l’article 175.1 de la Loi.
+[22] L’article 175.1 de la Loi prévoit un régime d’exception au régime ordinaire de réclamation de CTI prévu à l’article 169 de la Loi. Plus précisément, la partie pertinente de cette disposition est l’alinéa 175.1a) de la Loi, qui se lit comme suit :
+175.1 – Remboursement du bénéficiaire d’une garantie - Dans le cas où le bénéficiaire d’une garantie, sauf une police d’assurance, portant sur la qualité, le bon état ou le bon fonctionnement d’un bien corporel acquiert ou importe un bien ou un service, ou le transfert dans une province participante, est tenu de payer la taxe relative à l’acquisition, à l’importation ou au transfert et obtient d’un inscrit, selon les termes de la garantie, un remboursement relatif au bien ou au service accompagné d’un écrit portant qu’une partie du montant remboursé représente un montant de taxe, les règles suivantes s’appliquent :
+a) l’inscrit peut demander, pour sa période de déclaration qui comprend le moment du remboursement, un crédit de taxe sur les intrants égal au résultat du calcul suivant :
+A × B / C
+où :
+A représente la taxe payable par le bénéficiaire,
+B le montant du remboursement,
+C le coût du bien ou du service pour le bénéficiaire;
+[23] L’inscrit qui souhaite bénéficier de cette exception doit nécessairement fournir au bénéficiaire une garantie et non une police d’assurance, laquelle est spécifiquement exclue de l’exception par la mention « sauf une police d’assurance ».
+[24] Dans le cadre de cette analyse, il y a donc lieu de déterminer si le plan de protection que l’appelante fournissait à ses clients constituait une garantie ou une police d’assurance aux fins de la Loi.
+[25] La jurisprudence émanant de l’article 175.1 de la Loi est inexistante. Les concepts de police d’assurance et de garantie devront faire l’objet d’une analyse particulière.
+[26] À cet égard, dans l’affaire Silicon Graphics,[3] il a notamment été reconnu par la Cour d’appel fédérale (« CAF ») que les notes explicatives émises par le Ministère des finances constitue un outil d’interprétation qui permet aux tribunaux de clarifier l’intention du législateur relativement à un article de la loi :
+[50] Bien entendu, les notes techniques ne lient pas les tribunaux, mais elles peuvent être examinées. Voir Canada c. Succession Ast, 1997 CanLII 6330 (CAF), [1997] 3 C.F. 86 (C.A.), au paragraphe 27 :
+Les interprétations administratives, comme les notes techniques, ne lient pas les tribunaux, mais elles peuvent avoir un certain poids et même constituer un facteur important dans l'interprétation des lois. Les notes techniques sont très largement acceptées par les tribunaux pour aider à l'interprétation des lois. L'importance accordée aux notes techniques au niveau de l'interprétation est particulièrement grande lorsque, au moment où une modification était à l'étude, le législateur était conscient que cette modification pouvait donner lieu à une interprétation administrative particulière, et qu'il a néanmoins décidé de l'adopter.
+[27] Les notes explicatives émises relativement à l’article 175.1 de la Loi sont pertinentes en l’espèce puisqu’en décrivant ce qui est visé par le terme « garantie », le ministre des Finances fait notamment référence à titre d’exemple à un service de réparations :
+Le nouvel article 175.1 permet à la personne qui donne une garantie (le vendeur) de demander des crédits de taxe sur les intrants pour la partie, représentant la taxe, des montants qu'elle rembourse au détenteur de la garantie («bénéficiaire» dans la Loi) pour des biens ou des services, comme des réparations, livrés aux termes de la garantie et fournis par un tiers. Cette situation pourrait se produire lorsque le coût des réparations et la taxe sont payés par le détenteur de la garantie plutôt que par le vendeur en raison de l'urgence de la situation ou de la distance qui sépare le détenteur de l'atelier de réparation autorisé du vendeur.
+[Je souligne.]
+[28] Dans le cadre de sa plaidoirie, l’intimée a soutenu que l’utilisation du terme « réparations » démontre que l’article 175.1 de la Loi doit être interprété comme faisant référence aux réparations effectuées dans le cadre d’une réparation couverte par la garantie du manufacturier.
+[29] Les notes explicatives ne font pas expressément mention de la signification ou de l’étendue de la portée du terme « réparations ».
+[30] De son côté, l’appelante soutient que le terme « réparations » est une indication claire des biens et services qui peuvent être inclus dans le cadre de l’article 175.1 de la Loi. Selon l’appelante, le législateur ne souhaitait pas fournir un exemple limitatif.
+[31] Ceci étant, l’avocat de l’intimée a plaidé que le contrat doit être qualifié de police d’assurance, alors que l’appelante est plutôt d’avis qu’il s’agit d’une garantie.
+Définition de « police d’assurance » et d’« assureur » [32] L’expression « police d’assurance », qui se retrouve à l’article 175.1 de la Loi, est définie au paragraphe 123(1) de la Loi, le passage pertinent de cette disposition se lit de la façon suivante :
+« Police d’assurance »
+a) Police ou contrat d’assurance (sauf une garantie portant sur la qualité, le bon état ou le bon fonctionnement d’un bien corporel, lorsque la garantie est fournie à une personne qui acquiert le bien à une fin autre que sa vente) établis par un assureur, y compris :
+(i) la police de réassurance établie par un assureur,
+(ii) le contrat de rente établi par un assureur ou le contrat établi par un assureur qui serait un contrat de rente sauf que les paiements qui y sont faits :
+(A) sont payables périodiquement à des intervalles dépassant, ou ne dépassant pas, un an,
+(B) varient selon la valeur d’un groupe déterminé d’éléments d’actif ou selon la fluctuation des taux d’intérêt,
+(iii) le contrat établi par un assureur, aux termes duquel tout ou partie des provisions de l’assureur pour le contrat varient selon la valeur d’un groupe déterminé d’éléments d’actif;
+[…] (insurance policy)
+[33] L’un des arguments fondamentaux de l’appelante est le paragraphe 123(1) de la Loi qui se lit comme suit :
+« assureur » - Personne titulaire d’un permis ou autrement autorisée par la législation fédérale ou provinciale à exploiter une entreprise d’assurance au Canada, ou par la législation d’une autre administration à exploiter une telle entreprise dans cette administration. (insurer)
+[34] De là, l’appelante soutient qu’il ne peut s’agir d’une assurance mais bien d’une garantie puisque l’appelante n’est pas un assureur au sens de la Loi, ce qui est d’ailleurs admis.
+[35] Par contre, peut-on conclure qu’il ne s’agit pas d’une assurance du seul fait que l’appelante ne détenait pas au moment opportun, la licence, le permis requis et exigé pour agir comme tel?
+[36] Peut-on également conclure qu’il ne peut y avoir d’assurance sans assureur légalement accrédité par les autorités compétentes?
+[37] Pour conclure par l’affirmative, il faudrait prendre pour acquis qu’il ne peut pas y avoir d’assurance sans la présence d’un assureur qualifié, reconnu, accrédité avec tous les permis requis.
+[38] L’article 2389 du Code civil du Québec (le « C.c.Q. ») définit le contrat d’assurance comme suit :
+2389. Le contrat d’assurance est celui par lequel l’assureur, moyennant une prime ou cotisation, s’oblige à verser au preneur ou à un tiers une prestation dans le cas où un risque couvert par l’assurance se réalise.
+L’assurance est maritime ou terrestre.
+[Je souligne.]
+[39] Un contrat d’assurance déborde donc le statut d’assureur; en d’autres termes, un contrat d’assurance est un acte juridique qui génère des conséquences et peut exister sans la nécessité que celui ou celle qui perçoit la prime soit un assureur dûment qualifié et accrédité. La nature, les effets d’un contrat ne peuvent être déterminés exclusivement par le titre, la qualité ou la fonction de l’une ou l’autre des parties à un contrat.
+[40] Certes, la Loi définit le terme « assureur »; par contre, elle ne définit pas assurance. Soutenir qu’il ne peut s’agir d’une assurance parce que le produit n’a pas été vendu ou offert par un assureur licencié et accrédité au sens des lois et règlements applicables a pour effets de réduire, limiter la signification et portée du mot assurance.
+[41] Un médecin effectue des actes médicaux dans l’exercice de sa profession. Par contre, un acte médical peut être effectué par un non médecin. L’acte médical posé par le non médecin génère tous les effets et conséquences civiles, pénales voir criminelles.
+[42] Prétendre qu’il ne s’agit pas d’un acte médical du seul fait que l’acte n’a pas été fait par un médecin reconnu par le Collège des médecins est une aberration.
+[43] Peu importe l’activité d’une personne tant physique que morale, ce n’est pas un permis, une licence, une accréditation qui définit la nature du travail exécuté, ce sont les faits et gestes concrets et réels accomplis.
+[44] Toute activité économique peut être assujettie à un permis, une licence ou une accréditation, à défaut de quoi des pénalités, sanctions peuvent s’appliquer. Cela n’a cependant pas pour effet de modifier, changer ou altérer la qualité de la prestation exécutée, la nature du contrat et la responsabilité et obligation des parties.
+[45] À cet effet, l’enseignement du juge Dalphond est très pertinent[4].
+[60] Dans son ouvrage Les contrats d'assurances (terrestres), Tome 1, Les Éditions SEM inc., 1989, p. 129 et s., il avait écrit précédemment :
+La définition du contrat d'assurance est donnée à l'article 2468 C.c. : « Le contrat d'assurance est celui en vertu duquel l'assureur, moyennant une prime ou cotisation, s'engage à verser au preneur ou à un tiers une prestation en cas de réalisation d'un risque ».
+Cette définition est très générale et nous apprend qu'un contrat d'assurance, pour être qualifié tel, doit rassembler trois éléments essentiels, soit un risque, une prime, payée par l'assuré, et une prestation, fournie par l'assureur en cas de réalisation d'un risque. D'autres contrats peuvent lui ressembler. Il est opportun d'examiner ces traits communs, afin de pouvoir qualifier correctement ces autres contrats. Le régime juridique applicable est dépendant de cette qualification.
+[...]
+2.
+Le contrat d'assurance et les garanties
+Les garanties dont nous parlons ici sont les garanties qui s'attachent aux biens dans le commerce : la garantie attachée à votre voiture, télévision, etc.
+Les contrats de garantie réunissent les trois éléments essentiels du contrat d'assurance :
+il y a un risque de dommage;
+il y a une prime, habituellement intégrée dans le prix du bien : certains concessionnaires de voitures diminueront le prix de vente d'une voiture si vous renoncez à la garantie;
+il y a une prestation : la prestation sera la remise en état du bien ou l'échange du bien pour un autre.
+Au Québec, il y a peu de jurisprudence sur le sujet. Nous connaissons deux arrêts[5].
+[...]
+Nous croyons que la distinction faite par les tribunaux nous amène à ceci : certaines assumations de risques accessoires à un contrat d'écoulement des biens ou de services peuvent être des contrats d'assurance; quand on garantit un produit contre quelques risques que ce soit, il s'agit d'assurance; quand on garantit un produit contre les risques découlant de son défaut de fabrication, il s'agit d'une garantie.
+Appliquons ce principe. Si le pneu que vous achetez est garanti contre tous les hasards de la route, il s'agit d'un contrat d'assurance. Si au contraire le pneu n'est garanti que pour les risques découlant d'un défaut de fabrication, il s'agit d'une garantie2. D'ailleurs, il est normal qu'un bien ou un service puissent satisfaire les normes de sa finalité.
+Évidemment, même dans le cas où il s'agirait d'une simple garantie, dans la mesure où l'assumation du risque est prise par un tiers, étranger à l'écoulement d'un bien ou du service, l'opération risque fort d'en être une qualifiée d'assurance. [...]
+[Je souligne.]
+[61] Il existe donc une distinction importante : la garantie se rattache à une défectuosité du bien vendu et le garant a un intérêt économique dans l'achat du bien par un consommateur, comme c'est le cas du fabricant, du distributeur et du commerçant. Qui plus est, ces personnes ont l'obligation légale de garantir que le bien n'est pas affecté par un vice caché. Par contre, l'assurance est offerte par une partie qui n'est pas tenue de garantir la qualité du bien en raison de son rôle dans sa mise en marché et dont l'activité principale est la spéculation sur les risques.
+[46] D’ailleurs, la Loi définit le terme assureur alors que le C.c.Q. définit le contrat d’assurance. De façon logique et courante, il est dans l’ordre des choses de prétendre que les contrats d’assurance sont vendus ou offerts par les assureurs. Le C.c.Q. n’exige et ne prévoit pas de condition pour qualifier une personne « d’assureur ». Or, en droit civil, il est tout à fait possible d’être en présence d’un contrat d’assurance sans la présence d’un assureur qualifié ou accrédité. La nature et l’objet du contrat n’en est aucunement affecté.
+[47] Cette approche est par ailleurs tout à fait conforme avec les principes fondamentaux en matière fiscale qui prévoit que l’intention des parties peut être prise en compte mais est rarement déterminante particulièrement si elle est irréconciliable avec les faits pertinents à la base du litige.
+[48] En l’espèce, la couverture lors d’une perte totale ou partielle est essentiellement partielle puisque l’assureur primaire couvre la valeur dépréciée; seule la différence entre la valeur dépréciée et la valeur de remplacement est couverte par l’appelante.
+[49] Dans son avis d’appel,[6] l’appelante a décrit le mode d’indemnisation qui s’appliquait lorsqu’un client faisait une demande de réclamation en vertu de la garantie :
+En aucun cas la garantie ne permettait au client de réclamer une somme d’argent. La garantie ne donnait droit qu’à un Véhicule de remplacement.
+[50] L’appelante a donc indiqué que la garantie qu’elle offrait ne constituait pas une police d’assurance, du fait notamment qu’elle ne donnait pas droit à une indemnité monétaire aux clients qui faisaient une demande de réclamation.[7]
+[51] Cet argument doit être écarté; en effet, il est possible d’imaginer beaucoup de situations où le paiement devrait se faire au moyen d’une indemnité; à titre d’exemple, on a qu’à penser à la disparition du modèle couvert; à la fermeture de la concession, à une perte subie aux États‑Unis, à l’abandon du modèle, à la faillite du manufacturier, etc.
+[52] Or, le respect des obligations et/ou contraintes requiert que toutes les conditions qui y sont prévues soient encore présentes au moment de la réclamation, sinon le règlement devra se faire de façon consensuelle, avec une grande possibilité que le règlement se fasse au moyen d’un paiement et/ou indemnité.
+[53] L’appelante a également fait valoir que la création d’un plan de protection ne faisait pas l’objet d’une analyse sophistiquée du risque relatif à chaque client. L’argument perd de son mérite s’il est pris en considération qu’il y avait obligatoirement dans chaque dossier un assureur primaire.
+[54] D’ailleurs, il est tout à fait exceptionnel de voir un contrat d’assurance exclusif à un client. L’assurance repose sur les études actuarielles, sur des statistiques et les primes sont déterminées en fonction de classe, catégorie et non en fonction d’un seul assuré.
+[55] Pour bénéficier du contenu de l’article 175.1 de la Loi, il est impératif qu’il s’agisse d’une garantie qui porte et cible la qualité, le bon état ou le bon fonctionnement.
+[56] Pour se qualifier, le plan de protection créé et offert par l’appelante devait rencontrer l’exigence de l’un ou l’autre des trois éléments suivants :
+(1) la qualité;
+(2) le bon état; et
+(3) le bon fonctionnement.
+[57] Qualité, bon fonctionnement, bon état sont des caractéristiques relatives à l’usage, à la vocation du véhicule. Lorsque l’une ou l’autre de ces qualités ne répond ou ne rencontre pas les attentes du consommateur propriétaire, il s’agit généralement de situation temporaire, ponctuelle, dont la durée est limitée dans le temps.
+[58] Il faut faire une distinction entre perte totale d’usage et perte totale définitive. Je crois qu’il y a une nette distinction entre la perte totale d’usage découlant d’un bris, d’une défectuosité et la perte totale conséquence à un accident et/ou un vol.
+[59] La perte d’usage découlant d’un bris, d’une défectuosité, d’un usage abusif est généralement temporaire, quant à la perte totale, elle découle d’un accident et est généralement totale, permanente et définitive.
+[60] Lorsque l’appelante fait valoir que personne ne réclame les TPS et taxe de vente du Québec (« TVQ ») sur la partie de la valeur compensée par l’assureur primaire, ne pourrait‑on pas prétendre qu’il serait alors injuste que le payeur secondaire puisse lui réclamer les CTI alors que l’assureur primaire en est privé?
+[61] Sur la question d’injustice ou d’équité, je crois utile d’ouvrir une parenthèse sur cette facette particulière du dossier; l’appelante y fait référence à plusieurs reprises.
+[62] L’appelante a soulevé devant la Cour que le refus de sa réclamation entraînerait un résultat inéquitable pour les motifs suivants, tel qu’étayé dans son avis d’appel[8] :
+85. Les consommateurs ultimes (les clients) ont assumé la TPS applicable sur les fournitures taxables que fournissait l’appelante dans le cadre de ses activités commerciales.
+86. Il est donc tout à fait légal et légitime que l’appelante ait droit au CTI en litige comme tous les autres émetteurs de produits de garantie, qu’il s’agisse de fabricants, détaillants ou émetteurs externes. L’article 175.1 a d’ailleurs été ajouté à la Loi pour assurer ce résultat qui trouve aussi son fondement dans l’article 169.
+87. Le refus de l’intimée d’accorder le CTI en litige résulte en une double imposition.
+88. Ce résultat est d’autant plus inéquitable et contraire à la Loi lorsqu’on tient compte du fait que la totalité des montants de TPS payés par le client à l’égard des garanties est nettement supérieur au montant total de CTI réclamé par l’appelante concernant les véhicules de remplacement. En effet, seule une fraction des garanties a donné lieu à un véhicule de remplacement.
+[63] Par ailleurs, l’appelante, à l’audience, a plaidé que le refus des CTI entraîne un résultat injuste puisque « ça se répercute dans les primes d’assurance et puis comme on a entendu ce matin aussi, ça permet d’être moins compétitif »[9].
+[64] Certes la Cour suprême du Canada dans l’arrêt Daishowa[10] a indiqué que dans la mesure où deux interprétations d’une provision coexistent, la Cour se doit de privilégier l’interprétation la plus équitable des deux :
+[43] […] Même si cette interprétation de la loi n'est pas déterminante, comme l'a reconnu le juge Mainville dans ses motifs dissidents, il faut privilégier une interprétation qui favorise la symétrie et l'équité assurée par un régime d'imposition harmonieux à une interprétation qui ne prône aucune de ces valeurs.
+[65] Ceci étant dit, il faut prendre en considération que la Cour canadienne de l’impôt (la « CCI ») n’est pas pour autant une cour d’équité, c’est-à-dire qu’elle n’a pas la compétence de trancher un litige sur la base de l’équité.
+[66] Dans l’affaire Mills[11], un énoncé de la jurisprudence en lien avec ce principe a été formulé par le juge Masse :
+[21] However, the Tax Court of Canada is not a court of equity. The Tax Court of Canada does not have the legal authority to set aside or vary a tax assessment for reasons based essentially on equity. In other words, the role of a judge of this Court is to decide whether or not an assessment is well founded, not to make or change the law: see Smith v. M.N.R., 1989, 89 D.T.C. 299; Lamash Estate v. M.N.R., 1990, 91 D.T.C. 9; Sunil Lighting Products v. M.N.R., [1993] T.C.J. No. 666; Tignish Auto Parts Inc. v. M.N.R., [1993] T.C.J. No. 446; Impact Shipping v. Canada, [1995] T.C.J. No. 409; Lassonde v. Canada, 2005 FCA 323; and Dubois v. the Queen, 2008 D.T.C. 3205.
+[Je souligne.]
+[67] Ce principe a également été confirmé par l’affaire Chaya[12], où il fut décidé par la CAF qu’il n’est pas possible pour les tribunaux de déroger à l’application de la loi sur la base de l’équité :
+[4] Le demandeur soutient que la loi est inéquitable et il demande à la Cour de faire une exception pour lui. Toutefois, la Cour n'a pas le pouvoir de faire droit à sa demande. La Cour doit appliquer la loi telle qu'elle est. Elle ne peut pas déroger aux dispositions législatives pour des raisons liées à l'équité. S'il estime que la loi est inéquitable, le demandeur doit avoir recours au Parlement et non pas à la Cour.
+[68] Le principe selon lequel la CCI ne peut trancher un litige en se fondant principalement sur l’équité fut par ailleurs traité à plusieurs autres reprises notamment par la CAF dans l’arrêt MacKay[13] et par la CCI dans les affaires Darbaj[14], Springer[15] et Solanko[16].
+[69] Ainsi, la CCI ne peut surplomber l’application d’un principe qui découle de l’interprétation d’une disposition, parce que le résultat qui en découle semble injuste ou inéquitable. Le rôle de la CCI consiste en l’application de la loi et non en la création de droit « nouveau » sur la base de l’équité.
+[70] Ce principe a été repris par le juge Paris dans l’affaire Alfonsi[17] :
+L’appelante a soutenu que son appel devrait être accueilli pour des raisons d’équité. Malheureusement, la Cour n’a pas compétence en équité, et lorsque le libellé des dispositions de la législation ayant trait à la TPS est clair, la Cour n’a pas le choix d’appliquer ces dispositions. […]
+[71] Le juge Hogan l’a aussi souligné dans l’affaire Maass-Howard,[18] il n’est pas dans les pouvoirs de la CCI de rendre une décision visant à « annuler une cotisation si elle a été établie conformément à la loi ».
+[72] Je ferme la parenthèse quant à l’argument d’équité.
+[73] Pour ce qui est de la garantie, elle n’est pas définie par la Loi. Le Dictionnaire Larousse définit « garantie » comme suit :
+Garantie :
+Ce qui assure l’exécution, le respect des termes d’un contrat : Demander des garanties.
+Obligation qui incombe à une personne soit d’assurer à une autre la jouissance d’une chose ou d’un droit, soit de la protéger contre un dommage auquel elle est exposée, ou de l’indemniser quand elle a effectivement subi le dommage; responsabilité incombant à l’un des cocontractants.
+[74] La Cour d’appel du Québec, dans l’affaire Toyota,[19] au paragraphe 28 :
+[28] Le statut d’assureur est accordé après satisfaction de diverses exigences, notamment celles prévues à la Loi sur les assurances et la règlementation adoptée en vertu de celle‑ci. Il est établi que l’intimée ne jouit pas d’un tel statut. Cela n’est pas déterminant en soit quant à la nature du contrat qui pourrait néanmoins être une assurance délivrée par une personne non autorisée à agir comme assureur.
+[Je souligne.]
+[75] L’intimée écrit dans sa réponse à l’avis d’appel ce qui suit :
+g) La garantie offerte par l’appelante couvre le risque découlant du vol et de la perte totale des véhicules plutôt que le risque découlant d’une défectuosité ou d’un mauvais fonctionnement suite à un usage normal des véhicules;
+h) L’appelante n’agit pas à titre de fabricant, distributeur ou commerçant des véhicules et n’est donc pas tenue légalement de garantir leurs qualités;
+i) La garantie offerte par l’appelante ne constitue pas une garantie « portant sur la qualité, le bon état et le bon fonctionnement » des véhicules;
+[76] Il s’agissait de la réplique au paragraphe de l’avis d’appel qui se lit comme suit :
+En aucun cas la garantie ne permettait au client de réclamer une somme d’argent. La garantie ne donnait droit qu’à un véhicule de remplacement.
+[77] L’argument a été repris en ce que l’appelante soutient qu’il ne peut s’agir d’une police d’assurance puisque le consommateur n’a pas droit à une indemnité mais essentiellement à un véhicule de remplacement.
+[78] Le consommateur a consenti à la disposition contractuelle qui prévoit la façon de faire; par contre, cette disposition a été prévue pour satisfaire les intérêts du concessionnaire qui lui a vendu le plan de protection en lui assurant un profit sur une nouvelle voiture et la continuité au niveau du service, autre dimension à l’avantage du concessionnaire.
+[79] Il s’agit là d’une clause accessoire qui à elle seule, ne change pas la nature fondamentale du contrat. D’ailleurs, tel que déjà mentionné, il est facile d’imaginer un grand nombre de situations où le règlement devrait se traduire par une indemnité.
+[80] L’essentiel et l’objet véritable du contrat est la valeur de remplacement, le coût devant être déboursé par l’appelante et la présence des conditions qui y donnent droit, notamment une assurance primaire, perte totale, due à un vol et/ou accident.
+[81] La condition profite d’ailleurs essentiellement au concessionnaire qui tire avantage de la vente des plans de protection lui permettant de toucher une commission intéressante sur la prime et l’éventuelle autre vente d’un véhicule de remplacement au même consommateur. Du côté de l’appelante, la vente d’un tel plan et tout ce qui en découle s’inscrit dans le cadre de ses affaires.
+[82] L’obligation du consommateur de s’adresser au concessionnaire qui lui a vendu le plan de protection est quelque chose de tout à fait secondaire puisque son objectif ultime est d’obtenir un véhicule équivalent dans l’hypothèse d’un vol ou d’une perte totale. À cet égard, il pourra prétendre avoir droit à une indemnité advenant l’impossibilité indépendante de sa volonté de respecter son engagement tel, fermeture du garage, disposition de la marque, disparition du fabriquant, etc.
+[83] L’objectif du plan de protection est de permettre à celui ou celle qui l’a acquis d’obtenir une nouvelle voiture, sans subir la perte due à la dépréciation augmentant année après année qu’il ou elle aurait dû assumer puisque la responsabilité de l’assureur primaire se limite à la valeur dépréciée.
+[84] D’ailleurs, il est de notoriété publique que les assureurs conventionnels [définis comme assureurs primaires] offrent une telle protection sans obligation d’acheter le véhicule de remplacement auprès du même concessionnaire.
+[85] L’argument voulant qu’il s’agisse d’une garantie du seul fait de l’obligation du consommateur de s’adresser au concessionnaire qui lui a vendu le plan de protection pour le remplacement du véhicule admissible (perte totale ou vol) est peu convaincant.
+[86] Il s’agit là d’un facteur non déterminant pour la qualification de la nature du contrat.
+[87] Pour ce qui est de l’évaluation du risque pour chaque client, je ne retiens pas cet argument puisque l’appelante connaissait ou devait savoir l’envergure du risque d’ailleurs établi en partie par l’assureur primaire; d’autre part, l’appelante pouvait en tout temps revisiter ses tarifs en fonction des dossiers et de ses prévisions budgétaires.
+[88] Le paragraphe 175(1) de la Loi prévoit que la garantie doit porter sur la qualité, le bon état ou le bon fonctionnement.
+[89] L’appelante soutient que la perte totale découlant d’un accident ou du vol est une situation qui peut et doit être incluse dans qualité, bon état ou bon fonctionnement.
+[90] À prime abord, la qualité, le bon état et le bon fonctionnement d’un véhicule n’ont rien à voir avec vol et ou perte totale. Il s’agit là essentiellement de situations relatives à la vocation et usage du véhicule.
+[91] Pour toutes ces raisons, l’appelante ne rencontre pas les conditions du paragraphe 175(1) de la Loi pour bénéficier de l’exception.
+[92] Pour ce qui est de la réclamation des CTI en vertu de l’article 169 de la Loi, cet article énonce les conditions qu’un inscrit doit remplir pour avoir droit de réclamer un CTI. Les passages pertinents de cette disposition sont reproduits ci-après :
+169 (1) – Règle générale : Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+A × B
+où :
+A
+représente la taxe relative à la fourniture, à l’importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable;
+B : […]
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l’a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[Je souligne.]
+[93] Comme l’appelante l’a souligné, les conditions requises pour permettre à un contribuable d’avoir droit de réclamer un CTI ont été résumées de la façon suivante par la juge Campbell dans l’affaire General Motors[20] :
+[30] Pour que GMCL ait le droit de demander un CTI, conformément au paragraphe 169(1), à l'égard de la TPS dont elle est redevable sur réception des services de gestion de placements, trois conditions doivent être remplies:
+(1) La personne qui fait la demande (GMCL) doit avoir acquis la fourniture (les services de gestion de placements);
+(2) La TPS doit être payable ou avoir été payée par la personne qui fait la demande (GMCL) à l'égard de la fourniture (les services de gestion de placements);
+(3) La personne qui fait la demande (GMCL) doit avoir acquis la fourniture (les services de gestion de placements) pour consommation ou utilisation dans le cadre de ses activités commerciales.
+[Je souligne.]
+[94] Dans un premier temps, la preuve est claire à savoir que l’appelante a bel et bien payé des montants aux concessionnaires concernés par les divers plans de protection vendus à leurs clients. Il s’agissait notamment des paiements relatifs aux :
+– remboursement de la franchise;
+– location du véhicule;
+– coût des pièces d’origine; et
+– partie du coût de remplacement d’un véhicule.
+[95] Par contre, la situation est loin d’être aussi claire quant aux autres conditions; en effet, peut‑on prétendre que l’appelante a reçu et bénéficié de la fourniture?
+[96] Certes la notion de fourniture est large; elle signifie la délivrance d’un bien, ou une prestation de service de quelque manière que ce soit, y compris une transaction par vente, transfert, troc, échange, licence, louage, donation ou aliénation.
+[97] En l’espèce, il n’y a aucun doute que le véhicule acquis par le biais du déboursé partiel [l’autre partie étant assumée par l’assureur primaire] ne profite ni bénéficie à l’appelante puisque seul le consommateur tire avantage de l’acquisition du bien remplacé.
+[98] À cet effet, l’arrêt General Motors[21] est très utile, notamment l’extrait suivant est pertinent pour déterminer si l’appelante s’est fait « livrer un bien » :
+[80] Dans les cas des véhicules de prêt, il y a aussi deux fournitures qui interviennent dans le cadre de la mise en oeuvre du Programme. Il y a d'abord le concessionnaire qui fournit un véhicule de prêt à un client de GMC. Il y a ensuite la fourniture qui survient entre le concessionnaire et GMC. C'est également cette deuxième fourniture qui est en cause et que le Tribunal doit qualifier.
+[81] Pour qualifier ces fournitures qui interviennent entre les concessionnaires et GMC de fournitures de biens, encore faut-il être en présence de la délivrance de biens telle que les définitions de fourniture et de bien en font état [Voir définition de fourniture à l'article 1 (LTVQ).]
+[82] Or, bien que ces définitions soient larges, il ne saurait ici être question de délivrance de biens entre les concessionnaires et GMC de quelque manière que ce soit, y compris par vente ou autre tel que défini dans la LTVQ. Plus particulièrement, nous ne saurions être en présence de délivrance de véhicules routiers entre les concessionnaires et GMC dans le cadre de la fourniture taxable qui intervient entre eux et qui fait l'objet du présent litige.
+[83] GMC n'est, par ailleurs, jamais en possession et n'acquiert d'aucune façon les véhicules routiers qui font l'objet de fourniture auprès de ses clients.
+[88] Le fait que les concessionnaires aient eux-mêmes ou par le biais de sociétés de location fourni au bénéfice de GMC des véhicules de remplacement aux clients de cette dernière, ne fait pas en sorte que les fournitures qui interviennent entre les concessionnaires et GMC soient elles-mêmes des fournitures de véhicules routiers.
+[89] GMC aurait bien pu acquérir des véhicules routiers pour par la suite les fournir à nouveau à ses clients. Dans ce cas, l'acquisition de véhicules routiers par GMC eut constitué une fourniture de biens qui à certaines conditions eut pu être assujettie à la restriction de l'article 206.1 LTVQ. Ce n'est cependant pas de cette façon que les choses se présentent ici. GMC n'acquiert pas de véhicules routiers au terme de la fourniture qui est rendue par les concessionnaires dans le cadre du Programme. Il ne peut donc être question ici de l'application de l'article 206.1 LTVQ.
+[Je souligne.]
+[99] Devant cette évidence, l’appelante n’a pas insisté sur cet aspect et a plutôt retenu la dimension prestation de services préalable au paiement du coût partiel de remplacement du véhicule.
+[100] Imaginons le cas où à la suite d’une perte totale de son véhicule le consommateur réclame et obtient l’indemnité payable par l’assureur primaire. Il acquiert un nouveau véhicule. Certains problèmes surgissent au niveau de son plan de protection acquis de l’appelante.
+[101] Le concessionnaire automobile à qui est due une balance de prix de vente va‑t‑il s’adresser à l’acquéreur du véhicule ou à l’appelante? Poser la question est y répondre. En effet, seul l’acquéreur est responsable de la balance du prix de vente. Le consommateur aurait possiblement un recours en garantie contre l’appelante.
+[102] Le consommateur paie un montant au concessionnaire mandataire de l’appelante pour le plan de protection désiré; l’objectif est d’obtenir un véhicule neuf advenant la perte totale du bien qu’il acquiert.
+[103] Le remplacement du bien protégé par un tel plan de protection inclut la TPS et la TVQ, dont la totale responsabilité lui incombe. Les taxes en question sont des composantes essentielles de la valeur du bien qui doit être remplacé au même titre que les diverses options que possédait le véhicule qui doit être remplacé.
+[104] L’appelante, par le biais de clauses contractuelles, a choisi de payer directement le concessionnaire lors de réclamations plutôt que de verser une indemnité au consommateur laquelle lui permettrait de magasiner le nouveau véhicule n’importe où. Le payeur de la prime a par ailleurs accepté cette condition, ce qui ne le libère aucunement de son obligation de payer les TPS et TVQ.
+[105] Si l’appelante paie les taxes en conformité avec les obligations contractuelles qu’elle doit assumer au lieu et place de son client, il n’appartient pas à l’État d’indemniser l’appelante par le biais de crédits sur intrants pour réduire sa responsabilité financière quant à son assuré.
+[106] La transaction ultime qui consiste à remplacer le véhicule perte totale ou volé est assujettie au paiement des taxes dues par le consommateur qui seul pourrait prétendre à des CTI. Comme il n’est pas un inscrit, ce droit ne peut pas être cédé ou transféré à l’appelante qui paie à sa place le prix du véhicule de remplacement.
+[107] Lorsqu’une personne, en contrepartie d’un montant d’argent, décide de prendre formellement des engagements susceptibles de se produire advenant la perte totale ou partielle d’un bien, elle ne peut prétendre subir un préjudice après coup si les hypothèses prévues ont changé. Il s’agit là de l’essence même d’un contrat dont la contrepartie est l’assumation d’un risque quelconque.
+[108] En l’espèce, l’acheteur de la fourniture taxable n’est pas l’appelante mais le consommateur qui bénéficie du contrat de remboursement pour la totalité du prix qu’il a obtenu de l’appelante moyennant une prime.
+[109] Qui a acquis la fourniture? Le consommateur. La fourniture acquise ne l’a pas été pour utilisation ou consommation dans le cadre des activités commerciales de l’appelante. Le bénéficiaire de la fourniture acquise est le consommateur et payeur de la prime.
+[110] L’argument voulant que le concessionnaire doive faire beaucoup de travail et investir beaucoup de temps pour préparer et présenter ultimement la réclamation à l’appelante est très peu convaincant. Le témoin a affirmé qu’il s’agissait là d’un travail long, ardu et fastidieux.
+[111] Il s’agit là du travail normal, usuel et routinier requis pour la présentation de toute réclamation. D’ailleurs, le concessionnaire qui assume cette obligation est totalement indemnisé par le profit réalisé sur une nouvelle voiture.
+[112] De plus, n’a‑t‑il pas fixé lui‑même son pourcentage de commission lors de la vente du plan de protection? En d’autres termes, la contrepartie pour le temps consacré à la préparation de la réclamation, si importante soit‑elle est largement compensée par la vente d’un nouveau véhicule.
+[113] Toute personne détenant un plan de protection dans quelque domaine que ce soit, doit aviser, préparer et soumettre une demande de paiement advenant la réalisation du risque prévu par le plan. Pour les démarches, les formulaires, le temps, l’énergie, le stress, les inquiétudes, ils n’ont droit à strictement rien d’autre que ce qui est prévu au contrat.
+[114] En l’espèce, le concessionnaire a bel et bien reçu une contrepartie pour ses services; en effet, il a lui-même établi le montant de la commission qu’il jugeait approprié pour ses services tant pour la vente du contrat que pour l’éventuelle obligation de présenter une réclamation qui, au surplus, se produit dans un pourcentage marginal des contrats vendus. De plus, il touche un profit pour la vente du véhicule et fidélise à nouveau le client consommateur.
+[115] La partie travail consistant à préparer une réclamation dans l’optique de la perte totale du véhicule couvert ne constitue aucunement une transaction entre le concessionnaire et l’appelante assujettie à la TPS et TVQ. Il s’agit essentiellement d’un travail fait pour et au nom de la victime de la perte qui lui est redevable des taxes inhérentes au bien devant être remplacé.
+[116] L’appelante soutient que lorsqu’elle doit faire des paiements dans l’éventualité d’une réclamation du consommateur sur la base ou en vertu du plan de protection, elle bénéficie des nombreux services du concessionnaire qui prépare et produit la réclamation selon ses exigences.
+[117] Or d’une part, je crois que les services en question sont nettement exagérés du fait que l’assureur primaire est à ce moment déjà intervenu; cette condition fait en sorte qu’une partie du travail a déjà été exécutée.
+[118] D’autre part, il est étonnant que le contrat qui lie l’appelante et le concessionnaire ne prévoit aucune compensation, honoraire, commission pour ce travail du concessionnaire, si le travail en question est si laborieux, alors que la même entente prévoit que le concessionnaire a droit à une commission qu’il fixe lui‑même lors de la vente du plan de protection au consommateur.
+[119] Les services et le travail du concessionnaire ne sont pas gratuits pour autant. En effet, le concessionnaire a l’assurance garantie de vendre un nouveau véhicule permettant ainsi au concessionnaire de réaliser un profit sur le véhicule concerné. Outre ce profit, comme il s’agit d’une vente garantie, le concessionnaire peut espérer de façon réaliste vendre un nouveau plan de protection un peu différent toutefois mais encore là avec commission sans compter toutes les autres possibilités au niveau des ajouts services et options.
+[120] En conclusion, prétendre que le paiement fait par l’appelante à la suite d’une réclamation est une transaction entre lui et le concessionnaire et une activité économique taxable est sans fondement.
+[121] Conformément à l’enseignement de la CAF, seule la personne au profit de laquelle une fourniture est effectuée peut demander et obtenir le CTI s’y rapportant.
+[122] Imaginons l’hypothèse du consommateur qui détiendrait le plan de protection sur lequel les parties ne s’entendent pas sur sa nature. Le consommateur détient un tel plan de protection, il circule dans le sud éloigné des États‑Unis, subit un accident des suites de quoi sa voiture est une perte totale. Il est fortuné et veut poursuivre son voyage le plus rapidement possible. Il décide de remplacer son véhicule après avoir avisé son assureur primaire, pris des photos etc. Il achète un véhicule de remplacement en reportant sa réclamation contre l’appelante à son retour.
+[123] L’appelante devrait-elle combler la différence entre l’indemnité reçue de l’assureur primaire et la valeur de la perte? Il s’agit d’un exemple similaire mais pertinent avec celui où le concessionnaire n’existe plus, notamment pour les véhicules de marque Suzuki, dont il a été question lors de l’audience.
+[124] Avant de conclure, je suis d’avis que de souscrire aux arguments et prétentions de l’appelante aurait pour effet de permettre à tout inscrit aux fins de la TPS et TVQ de réclamer les CTI suite à l’acquisition d’un bien par un non inscrit (consommateur) et ce par le biais d’une convention entre l’inscrit, le non inscrit et le vendeur de fourniture. La TPS et ou TVQ sont des taxes qui ultimement ne sont pas remboursables si le bien a été acquis par un non inscrit.
+Conclusion [125] Pour toutes ces raisons, l’appel est rejeté avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 16e jour de janvier 2017.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2017 CCI 2
+Nº DU DOSSIER DE LA COUR :
+2015-658(GST)G
+INTITULÉ DE LA CAUSE :
+LE GROUPE PPP LTÉE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Le 5 octobre 2016
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+Le 16 janvier 2017
+COMPARUTIONS :
+Avocates de l'appelante :
+Me Nathalie Goyette
+Me Laurie Beausoleil
+Avocat de l'intimée :
+Me Christian Boutin
+AVOCATS INSCRITES AU DOSSIER :
+Pour l'appelante:
+Noms :
+Me Nathalie Goyette
+Me Laurie Beausoleil
+Cabinet :
+PwC Cabinet d’avocats s.r.l./s.e.n.c.r.l.
+Montréal, Québec
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le client devait par ailleurs assumer le montant de la franchise d’assurance.
+[2] Le contrat de distribution prévoyait que le commerçant recevait une compensation pour ses services. Cette compensation était assujettie à la TPS en vertu de la Loi. Il s’ensuit que, toujours selon le contrat de distribution, les montants remis à l’appelante étaient réduits de la compensation du commerçant.
+[3] Silicon Graphics Ltd. c. R., 2002 FCA 260, para. 50.
+[4] Association pour la protection des automobilistes inc. c. Toyota Canada inc., 2008 QCCA 761 (« l’affaire Toyota »).
+[5] Wood c. Grose, (1896) 5 B.R. 116 (C.S.); Bédard c. Gervais, (1933) 55 B.R. 195 (C.A.).
+[6] Avis d'appel, para. 14.
+[7] Représentations écrites de l'appelante, para. 75.
+[8] Avis d’appel, paras 84 à 88.
+[9] Transcription, supra, note 4, p. 183 (n° 17-19).
+[10] Daishowa-Marubeni International Ltd. c. R., 2013 CSC 29, [2013] 4 CTC 97, para 43.
+[11] Mills c. R., 2014 D.T.C. 1138 (TCC). Cette décision a été confirmée par la CAF dans Mills c. R., 2015 D.T.C. 5127 (FCA).
+[12] Chaya c. R., 2004 CAF 327, para 4.
+[13] MacKay c. R., 2015 FCA 94, 2015 D.T.C. 5051, paras 2-3.
+[14] Darbaj c. R., 2014 CCI 103, para 9.
+[15] Springer c. R., 2013 CCI 332, para 8.
+[16] Solanko c. R., 2014 CCI 100, para 5.
+[17] Alfonsi c. R., 2009 CCI 202.
+[18] Mass-Howard c. R., 2012 CCI 307, para. 14.
+[19] L’affaire Toyota, par. 28.
+[20] General Motors du Canada Limitée c. La Reine, 2008 CCI 117, confirmée par la CAF dans 2009 CAF 114.
+[21] General Motors of Canada Ltd. c. Agence du revenu du Québec, 2015 QCCQ 386, paras 82, 83 et 86 à 89.

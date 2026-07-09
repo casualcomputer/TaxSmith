@@ -1,0 +1,314 @@
+Title: Henschel c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29865/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-344-29865-henschel-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-06-22
+
+# Henschel c. La Reine
+
+- Citation: 2010 CCI 344
+- Decision date: 2010-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6422, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Henschel c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-06-22
+Référence neutre
+2010 CCI 344
+Numéro de dossier
+2009-3133(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3133(IT)I
+ENTRE :
+WARREN A. HENSCHEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 mai 2010, à Edmonton (Alberta)
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Pour l’appelant :
+Représentante de l’appelant :
+L’appelant lui-même
+Mme Marcy Henschel
+Avocats de l’intimée :
+Me Adam Gotfried
+Me Marla Teeling (observatrice)
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation visant l’année d’imposition 2007 établie en vertu de la Loi de l’impôt sur le revenu est accueilli uniquement aux fins de l’inclusion, dans le calcul des frais médicaux admissibles pour cette année‑là, d’un montant supplémentaire de 2 194,68 $, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour de juin 2010.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 20e jour d’août 2010.
+Hélène Tremblay, traductrice
+Référence : 2010 CCI 344
+Date : 20100622
+Dossier : 2009-3133(IT)I
+ENTRE :
+WARREN A. HENSCHEL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Le présent appel, régi par la procédure informelle, a été entendu à Edmonton, en Alberta, le 20 mai 2010. Seuls l’appelant et son épouse ont témoigné.
+[2] Les paragraphes 4 à 15, inclusivement, de la réponse à l’avis d’appel, qui font état des questions en litige, se lisent comme suit :
+[TRADUCTION]
+a. Dans la déclaration de revenus qu’il a produite pour l’année 2007, l’appelant a notamment demandé, dans le calcul des crédits d’impôt non remboursables et de l’impôt payable, la déduction de frais médicaux de 90 010 $.
+b. Dans une lettre datée du 16 juillet 2008, l’appelant a informé le ministre du Revenu national (le « ministre ») qu’il modifiait sa demande de déduction relative aux frais médicaux de manière à ramener le montant de ceux-ci de 90 010 $ à 87 156,52 $.
+c. La déclaration de revenus de l’appelant de 2007 a été traitée le 14 octobre 2008, et les frais médicaux dont la déduction avait initialement été demandée et qui s’élevaient à 90 010 $ ont été ramenés à 71 979 $.
+d. Le 4 janvier 2009, l’appelant a signifié au ministre un avis d’opposition relativement à la cotisation fiscale visant l’année 2007.
+e. Dans une lettre datée du 16 mai 2009, l’appelant a informé le ministre qu’il voulait que les catégories de frais médicaux mentionnées ci-dessous fassent l’objet d’un nouvel examen :
+Catégorie
+Montant
+Tableaux Bliss et accessoires
+2 777,32 $
+Formation
+2 519,32 $
+Thérapie
+3 619,59 $
+Nouveaux reçus trouvés
+4 886,21 $
+Lits
+2 830,76 $
+f. En réponse à l’avis d’opposition, le ministre a, dans un avis de nouvelle cotisation daté du 26 juin 2009, modifié le montant de l’impôt payable par l’appelant. Dans cette nouvelle cotisation, le ministre a autorisé la déduction de frais médicaux supplémentaires de 5 163 $, la déduction autorisée passant ainsi de 71 979 $ à 77 142 $. Voici un résumé des montants que l’appelant a mentionnés dans sa lettre du 16 mai 2009 et dont le ministre a autorisé ou non la déduction :
+Catégorie de l’appelant
+Montant
+Admis
+Non admis
+Tableaux Bliss et accessoires
+2 777,32 $
+* 2 499,95 $
+277,37 $
+Formation
+2 519,32 $
+0,00
+2 519,32 $
+Thérapie
+3 619,59 $
+0,00
+3 619,59 $
+Nouveaux reçus trouvés
+4 886,21 $
+3 751,46
+1 134,75 $
+Lits
+2 830,76 $
+0,00
+2 830,76 $
+*Une partie de ce montant, soit 1 088,84 $, avait été admise dans la cotisation initiale
+g. Pour établir la dette fiscale de l’appelant pour l’année 2007, le ministre s’est fondé sur les hypothèses de fait suivantes :
+i. L’appelant est le père de deux enfants, A et C. (admis)
+ii. A et C sont nés en octobre 2002. (admis)
+iii. L’appelant a, pour l’année 2007, demandé la déduction de frais médicaux relativement à la période de 12 mois allant du 1er janvier au 31 décembre 2007. (admis)
+iv. L’appelant a demandé, au titre des frais médicaux, la déduction de montants totalisant 2 777,32 $ relativement à des tableaux Bliss et à des accessoires. (admis)
+v. Les montants relatifs aux tableaux Bliss et aux accessoires visaient notamment les éléments suivants : (admis)
+Reçu de 2008 – Agrafes
+123,01 $
+Appareil-photo numérique
+Développement de photos
+146,27 $
+8,09 $
+Total
+277,37 $
+vi. Les dépenses de 123,01 $ déduites au titre des tableaux Bliss et des accessoires n’ont pas été engagées au cours de la période allant du 1er janvier au 31 décembre 2007. (admis)
+vii. L’appareil-photo numérique n’est pas un dispositif utilisé sur ordonnance d’un médecin compétent. (nié)
+viii. L’appareil-photo numérique n’est pas un dispositif médical ou de l’équipement médical visé par règlement. (nié)
+ix. Le coût de l’appareil-photo numérique et du développement de photo ne représente pas des frais médicaux admissibles. (nié)
+x. Le montant déduit au titre de la formation, soit 2 519,32 $, visait notamment les éléments suivants : (admis)
+Reçu de 2008
+378,74 $
+Reçu de 2006
+37,75 $
+Reçu de 2006
+59,95 $
+Reçu non daté
+30,00 $
+Livres/magazines/DVD
+2 012,88 $
+Total
+2 519,32 $
+xi. Des dépenses de 506,44 $ déduites au titre de la formation n’ont pas été engagées au cours de la période allant du 1er janvier au 31 décembre 2007. (admis)
+xii. Un montant de 2 012,88 $ déduit au titre de la formation se rapportait à divers livres, notamment des livres de cuisine, magazines et DVD. (admis)
+xiii. Le montant de 2 012,88 $ déduit au titre de la formation, pour l’achat de divers livres, notamment des livres de recette, magazines et DVD, ne représente pas des frais médicaux admissibles. (biffé)
+xiv. Le montant déduit au titre d’une thérapie visait notamment les éléments suivants : (admis)
+Reçu de 2008
+100,58 $
+Reçu de 2008
+105,85 $
+Reçu de 2006
+21,17 $
+Reçu de 2006
+40,40 $
+Reçu de 2006
+105,94 $
+Reçu de 2006
+8,27 $
+Reçu non daté
+94,90 $
+DVD/Vidéos/Jouets/etc.
+3 142,48 $
+Total
+3 619,59 $
+xv. Des dépenses de 477,11 $ déduites au titre d’une thérapie n’ont pas été engagées au cours de la période allant du 1er janvier au 31 décembre 2007. (admis)
+xvi. Un montant de 3 142,48 $ déduit au titre d’une thérapie se rapportait à divers DVD, jeux, vidéos et autres articles semblables. (admis)
+xvii. Le montant de 3 142,48 $ déduit au titre d’une thérapie et se rapportant à divers DVD, jeux, vidéos et autres articles semblables ne représentait pas des frais médicaux admissibles. (nié)
+xviii. Pendant que l’avis d’opposition faisait l’objet d’un examen, l’appelant a demandé que les montants suivants soient admis à titre de frais médicaux : (admis)
+Magazines
+44,00 $
+Livres
+137,80 $
+Grille de sécurité (foyer)
+148,40 $
+Thérapie
+754,55 $
+Frais de stationnement
+50,00 $
+Total
+1 134,75 $
+xix. Les dépenses engagées au titre des magazines et des livres mentionnés à l’alinéa 10r) ci-dessus ne représentent pas des frais médicaux admissibles. (biffé)
+xx. La grille de sécurité de foyer ne se rapporte pas à la rénovation ou à la transformation d’une habitation. (nié)
+xxi. Le montant réclamé au titre d’une thérapie à l’alinéa 10r) ci-dessus visait notamment l’achat de jouets et d’un chevalet de table. (nié)
+xxii. Le montant réclamé au titre d’une thérapie à l’alinéa 10r) ci-dessus ne représente pas des frais médicaux admissibles. (nié)
+xxiii. Les frais de stationnement visés à l’alinéa 10r) ci-dessus ont été engagés à Edmonton. (admis)
+xxiv. L’appelant habite Sherwood Park, en Alberta. (admis)
+xxv. La distance entre Sherwood Park et Edmonton est inférieure à 80 kilomètres. (admis)
+xxvi. En 2007, l’appelant a acheté des matelas au coût de 2 695,38 $ et des couvre-matelas au coût de 134,15 $. (admis)
+xxvii. Les matelas achetés sont des matelas de lit standard dont l’enveloppe est faite de coton naturel et qui ne comportent aucune caractéristique spéciale. (nié)
+xxviii. Les dépenses engagées pour les matelas et les couvre-matelas ne représentent pas des frais médicaux admissibles. (nié)
+C. POINT EN LITIGE
+h. La question à trancher est celle de savoir si l’appelant a le droit de déduire des frais médicaux en sus des montants dont le ministre a autorisé la déduction.
+D. DISPOSITIONS LÉGISLATIVES, MOTIFS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+i. L’intimée se fonde sur l’article 118.2 de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi »), dans sa version modifiée pour l’année 2007, et sur la partie LVII du Règlement de l’impôt sur le revenu.
+j. Elle soutient que le ministre a convenablement calculé le montant des frais médicaux admissibles, conformément à l’article 118.2 de la Loi.
+k. Elle soutient en outre ce qui suit :
+i. Les dépenses qui n’ont pas été engagées entre le 1er janvier et le 31 décembre 2007 ne satisfont pas aux exigences de l’alinéa 118.2(1)d) de la Loi, et elles ont à bon droit été exclues dans le calcul des frais médicaux admissibles.
+ii. L’appareil-photo numérique acheté et les photos développées ne sont pas des dispositifs ou de l’équipement d’un genre visé par règlement, et ils ne tombent donc pas sous le coup de l’alinéa 118.2(2)m) de la Loi.
+iii. Aucune des dispositions du paragraphe 118.2(2) de la Loi ne permet la déduction, à titre de frais médicaux admissibles, des dépenses engagées pour l’achat de livres, de magazines, de DVD et de jouets.
+iv. Les dépenses déduites au titre d’une thérapie n’étaient pas des montants payés à titre de rémunération pour le traitement administré à A et à C, et elles ne tombent donc pas sous le coup de l’alinéa 118.2(2)l.9) de la Loi.
+v. Les matelas et les couvre-matelas ne sont pas dispositifs ou de l’équipement visés à l’article 5700 du Règlement de l’impôt sur le revenu.
+vi. Le coût d’achat d’une grille de sécurité de foyer n’est pas assimilable à des frais afférents à des rénovations ou transformations apportées à une habitation, et il ne tombe donc pas sous le coup de l’alinéa 118.2(2)l.2) ou de quelque autre disposition du paragraphe 118.2(2) de la Loi.
+vii. La déduction des frais de stationnement n’est pas autorisée par l’alinéa 118.2(2)h) de la Loi, étant donné que la distance entre la résidence de l’appelant et le lieu où ces frais ont été engagés était inférieure à 80 kilomètres.
+l. L’intimée demande à la Cour de rejeter l’appel.
+[3] Les hypothèses 10a), 10b), 10c), 10d), 10e) 10f), 10j), 10k), 10n), 10o) 10p), 10r), 10w) 10x), 10y) et 10z) ont été admises. Les hypothèses 10g), 10h), 10i), 10q), 10t), 10u), 10v), 10aa) et 10bb) ont été niées.
+[4] Je soulignerai au départ que le ministre du Revenu national (le « ministre ») a admis ce qui suit au début de l’audience :
+1. Les dépenses de 2 012,88 $ déduites au titre de la formation (voir les hypothèses 10l) et 10m)) et se rapportant à divers livres, notamment des livres de cuisine, magazines et DVD, sont des frais médicaux admissibles.
+2. Les dépenses de 44 $ déduites pour des magazines (voir l’hypothèse 10r)) sont des frais médicaux admissibles.
+3. Les dépenses de 137,80 $ déduites pour des livres (voir l’hypothèse 10r)) sont des frais médicaux admissibles.
+[5] Les questions à trancher en l’espèce sont les suivantes :
+1. Les montants de 146,27 $ et de 8,09 $ déduits pour un « appareil-photo numérique » et pour le « développement de photos » (voir l’hypothèse 10e)) sont-ils déductibles au titre de frais médicaux?
+2. Le montant de 3 142,48 $ déduit pour des « DVD, vidéos, jouets, etc. » (voir l’hypothèse 10n)) est-il déductible au titre de frais médicaux?
+3. Le montant de 148,40 $ déduit pour une « grille de sécurité de foyer » (voir l’hypothèse 10r)) est-il déductible au titre de frais médicaux?
+4. Le montant de 754,44 $ déduit pour une « thérapie » (voir l’hypothèse 10r)) est-il déductible au titre de frais médicaux?
+5. Les montants de 2 695,38 $ et de 134,159 $ déduits pour des « matelas » et pour des « couvre- matelas » (voir l’hypothèse 10z)) sont‑ils déductibles au titre de frais médicaux?
+[6] Les dispositions de la Loi de l’impôt sur le revenu (la « Loi ») qui s’appliquent en l’espèce se lisent comme suit :
+118.2(2) Frais médicaux − Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+[…]
+h) [frais de déplacement] − pour les frais raisonnables de déplacement, à l’exclusion des frais visés à l’alinéa g), engagés à l’égard du particulier, de l’époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a) et, si ceux-ci sont, d’après le certificat d’un médecin, incapables de voyager sans l’aide d’un préposé à leurs soins, à l’égard d’un seul particulier les accompagnant, afin d’obtenir des services médicaux dans un lieu situé à 80 kilomètres au moins de la localité où le particulier, l’époux ou conjoint de fait ou la personne à charge habitent, si les conditions visées aux sous-alinéas g)(iii) à (v) sont réunies;
+[…]
+l.2) [frais de rénovation domiciliaire] − pour les frais raisonnables afférents à des rénovations ou transformations apportées à l’habitation du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a) − ne jouissant pas d’un développement physique normal ou ayant un handicap moteur grave et prolongé − pour lui permettre d’avoir accès à son habitation, de s’y déplacer ou d’y accomplir les tâches de la vie quotidienne, pourvu que ces frais, à la fois :
+(i) ne soient pas d’un type dont on pourrait normalement s’attendre à ce qu’ils aient pour effet d’augmenter la valeur de l’habitation,
+(ii) soient d’un type que n’engagerait pas normalement la personne jouissant d’un développement physique normal ou n’ayant pas un handicap moteur grave et prolongé;
+[…]
+l.8) [formation d’un fournisseur de soins] − pour les frais raisonnables (sauf les sommes versées à une personne qui, au moment du versement, était l’époux ou conjoint de fait du particulier ou une personne âgée de moins de 18 ans) consacrés à la formation du particulier, ou d’une personne qui lui est liée, dans le cas où la formation a trait à la déficience mentale ou physique d’une personne qui, à la fois :
+(i) est liée au particulier,
+(ii) habite chez le particulier ou est à sa charge;
+l.9) [traitement] − à titre de rémunération pour le traitement administré au particulier, à son époux ou conjoint de fait ou à une personne à charge visée à l’alinéa a) en raison de sa déficience grave et prolongée, si les conditions suivantes sont réunies :
+(i) en raison de la déficience du particulier, de l’époux ou conjoint de fait ou de la personne à charge, un montant peut être déduit en application de l’article 118.3 dans le calcul de l’impôt payable en vertu de la présente partie par un particulier pour l’année d’imposition au cours de laquelle la rémunération est payée,
+(ii) le traitement est prescrit par l’une des personnes suivantes et est administré sous sa surveillance générale :
+(A) un médecin en titre ou un psychologue, dans le cas d’une déficience mentale,
+(B) un médecin en titre ou un ergothérapeute, dans le cas d’une déficience physique,
+(iii) au moment où la rémunération est payée, le bénéficiaire du paiement n’est ni l’époux ou conjoint de fait du particulier, ni âgé de moins de 18 ans,
+(iv) chacun des reçus présentés au ministre comme attestation du paiement de la rémunération a été délivré par le bénéficiaire de la rémunération et comporte, si celui-ci est un particulier, son numéro d’assurance sociale;
+[…]
+m) [dispositif ou équipement visé par règlement] − pour tout dispositif ou équipement destiné à être utilisé par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l’alinéa a) et qui répond aux conditions suivantes, dans la mesure où le montant payé ne dépasse pas le montant fixé par règlement, le cas échéant, relativement au dispositif ou à l’équipement :
+(i) il est d’un genre visé par règlement,
+(ii) il est utilisé sur ordonnance d’un médecin,
+(iii) il n’est pas visé à un autre alinéa du présent paragraphe,
+(iv) il répond aux conditions prescrites quant à son utilisation ou à la raison de son acquisition;
+n) [médicaments] – pour ce qui suit :
+(i) les médicaments, les produits pharmaceutiques et les autres préparations ou substances, sauf s’ils sont déjà visés à l’alinéa k), qui répondent aux conditions suivantes :
+(A) ils sont fabriqués, vendus ou offerts pour servir au diagnostic, au traitement ou à la prévention d’une maladie, d’une affection ou d’un état physique anormal, ou de leurs symptômes, ou en vue de rétablir, de corriger ou de modifier une fonction organique,
+(B) ils ne peuvent légalement être acquis afin d’être utilisés par le particulier, par son époux ou conjoint de fait ou par une personne à charge visée à l’alinéa a) que s’ils sont prescrits par un médecin ou un dentiste,
+(C) leur achat est enregistré par un pharmacien,
+(ii) les médicaments, les produits pharmaceutiques et les autres préparations ou substances qui sont visés par règlement;
+5700. Les dispositifs ou équipements suivants sont prescrits pour l’application de l’alinéa 118.2(2)m) de la Loi :
+[…]
+c) un dispositif ou équipement, y compris une pièce de rechange, conçu exclusivement pour l’usage d’un particulier souffrant d’une maladie respiratoire chronique grave ou de troubles chroniques graves du système immunitaire, à l’exclusion d’un appareil de climatisation, d’un humidificateur, d’un déshumidificateur, d’un échangeur thermique, d’un échangeur d’air et d’une thermopompe;
+[...]
+h) un lit d’hôpital, y compris les accessoires de ce lit visés par une ordonnance;
+[...]
+x) un tableau Bliss ou un appareil semblable conçu pour permettre à une personne ayant un trouble de la parole de communiquer en sélectionnant des symboles ou en épelant des mots.
+Matelas et couvre-matelas
+[7] L’épouse de l’appelant, dont le témoignage était digne de foi et lourd d’émotion, a expliqué que les médecins avaient conclu que leurs deux fils étaient atteints d’une forme grave d’autisme, et qu’ils avaient plusieurs autres graves problèmes de santé, notamment un système immunitaire déficient. Elle a expliqué que, étant donné que leurs fils étaient très vulnérables aux produits toxiques pour l’environnement, aux bactéries, aux virus, aux acariens détriticoles, à la moisissure, etc., son mari leur avait acheté des matelas et des couvre-matelas anti-allergie pour protéger leur santé. Autrement dit, le fait de dormir sur un matelas ordinaire dans lequel des produits toxiques pour l’environnement, des bactéries, de la moisissure et des acariens détriticoles trouvaient refuge pouvait compromettre davantage la santé des deux garçons, aux dires de leur mère. Je mentionnerai ici que l’appelant a admis que les matelas et les couvre-matelas n’étaient pas des lits d’hôpital. Son épouse a cependant soutenu qu’il s’agissait de dispositifs médicaux qu’ils avaient achetés sur ordonnance d’un médecin.
+[8] L’article 5700 du Règlement de l’impôt sur le revenu (le « Règlement ») précise que, pour l’application de l’alinéa 118.2(2)m) de la Loi, un dispositif ou équipement est prescrit s’il est visé par l’un des nombreux alinéas de cet article. Ces alinéas mentionnent notamment des choses comme des perruques, des aiguilles, des appareils de purification de l’air ou de l’eau, des lits d’hôpital et des chaussures orthopédiques. Il semble qu’il n’y ait rien dans l’article 5700 qui se rapporte aux matelas et aux couvre-matelas anti-allergie. Aucun redressement ne peut donc être accordé au titre de l’alinéa 118.2(2)m). Aucune autre disposition de la Loi ou du Règlement ne pourrait aider la cause de l’appelant.
+Grille de sécurité de foyer
+[9] Selon la preuve, la grille de sécurité de foyer a été conçue pour protéger tous les enfants, et non pas les enfants atteints d’autisme en particulier. La preuve a également établi que ce dispositif pouvait être acheté dans toute quincaillerie.
+[10] Les sous-alinéas 118.2(2)l.2)(i) et (ii) de la Loi exigent, pour qu’une dépense afférente à des rénovations ou transformations apportées à une habitation ouvre droit à un crédit d’impôt pour frais médicaux, qu’elle ne soit pas d’un type dont on pourrait normalement s’attendre à ce qu’elle ait pour effet d’augmenter la valeur de l’habitation et qu’elle soit d’un type que n’engagerait pas normalement la personne jouissant d’un développement physique normal ou n’ayant pas un handicap moteur grave et prolongé. La dépense sera déductible uniquement s’il est satisfait à ces deux conditions. J’estime qu’il n’est pas satisfait à la seconde condition en l’espèce, étant donné que le dispositif en question a été conçu pour protéger les enfants normaux. Aucun redressement ne peut donc être accordé au titre de l’alinéa 118.2(2)l.2).
+[11] Comme je l’ai déjà indiqué, l’article 5700 du Règlement précise que, pour l’application de l’alinéa 118.2(2)m) de la Loi, un dispositif ou équipement est prescrit s’il est visé par l’un des nombreux alinéas de cet article. Il n’y a rien dans l’article 5700 qui se rapporte aux grilles de sécurité de foyer. Aucun redressement ne peut donc être accordé au titre de l’alinéa 118.2(2)m). En outre, ce dispositif n’a pas été acheté sur ordonnance d’un médecin. Aucune autre disposition de la Loi ou du Règlement ne pourrait aider la cause de l’appelant.
+Appareil-photo numérique et développement de photos
+[12] L’épouse de l’appelant a expliqué que son mari avait acheté l’appareil-photo numérique (et avait engagé des frais pour faire développer des photos) essentiellement pour fabriquer des tableaux Bliss. Elle a soutenu que l’appareil-photo numérique est un « dispositif ou équipement prescrit » puisqu’il tombe sous le coup de l’article 5700 du Règlement. Elle a pour l’essentiel fait valoir que l’appareil-photo numérique était nécessaire à la fabrication de tableaux Bliss.
+[13] Selon moi, un appareil-photo numérique n’est pas assimilable à un tableau Bliss, ni à un appareil similaire, qui serait conçu pour aider une personne qui a un trouble de la parole à communiquer en sélectionnant des symboles ou en épelant des mots. Je suis en outre d’avis qu’un appareil-photo numérique est un dispositif servant principalement à prendre des photos. Les termes « tableau Bliss » ou « appareil similaire » qui sont employés à l’alinéa 5700x) du Règlement visent autre chose qu’un appareil-photo numérique; on peut d’ailleurs présumer que, si le législateur a employé des mots autres que « appareil-photo numérique », c’est parce qu’il visait quelque chose d’autre. Je ferai en outre remarquer que l’appelant n’a produit aucune preuve documentaire établissant qu’un médecin avait établi une ordonnance pour l’emploi d’un tel dispositif. Aucun redressement ne peut donc être accordé au titre de l’alinéa 5700x). Aucune autre disposition de la Loi ou du Règlement ne pourrait aider la cause de l’appelant.
+Frais de thérapie, achat de DVD, de vidéos et d’articles similaires
+[14] L’épouse de l’appelant a témoigné que son mari avait, en 2007, dépensé 3 142,48 $ (voir hypothèse 10n)) et 754,55 $ (voir hypothèse 10r)) pour des fournitures relatives à la thérapie, telles qu’une couverture lestée (voir la pièce A‑5), une veste lestée (voir la pièce A‑6), des casse-têtes (voir la pièce A‑7), des DVD (voir la pièce A‑4) et des casse-têtes avec lacets (voir la pièce A‑8). Elle a ajouté que les thérapeutes que son mari et elle avaient engagés pour s’occuper de leurs deux enfants devaient avoir de telles fournitures aux fins de la thérapie. Elle a fait valoir que ces dépenses liées à la thérapie devraient, en vertu de l’alinéa 118.2(2)l.9) de la Loi, être considérées comme des dépenses liées à une thérapie et, par conséquent, comme des frais médicaux, étant donné que les thérapeutes qu’ils avaient engagés se servaient des fournitures relatives à la thérapie et que toute thérapie était impossible sans ces fournitures.
+[15] En d’autres termes, l’appelant soutient que le coût de ces articles tombe sous le coup de l’alinéa 118.2(2)l.9), à titre de « rémunération pour le traitement administré au particulier ». Le juge en chef adjoint Bowman (tel était alors son titre), dans une affaire dans laquelle il était appelé à interpréter cette expression (Arthur Herzig c. Sa Majesté la Reine, 2004 CCI 344), a déclaré ceci aux paragraphes 16 à 19 :
+16 Une interprétation de ce syntagme plus conforme à l’esprit d’ensemble de l’article 118.2 consiste à dire qu’il réfère aux montants payés à une personne pour la prestation de services de thérapie, notamment la physiothérapie, la massothérapie ou la consultation psychologique.
+17 Bien que la « rémunération » puisse s’étendre, dans un sens large, au paiement de biens, le sens courant du terme sert à dénoter un paiement de services.
+18 Le Oxford Canadian Dictionary définit le verbe « remunerate » comme suit :
+1 reward; pay for services rendered. 2 serve as or provide recompense for (toil etc.) or to (a person).
+[traduction]
+1 récompense; paiement des services rendus. 2 servir de ou donner comme récompense pour (travail, etc.) ou à (une personne).
+De la même manière, la thérapie peut s’étendre, dans son sens large, aux médicaments; cependant, si le législateur veut entendre qu’il s'agit de médicaments, il semble capable de le préciser, comme il l’a fait dans l’alinéa 118.2(2)n).
+19 L’emploi du mot « thérapie » au paragraphe 118.2(2) vise un sens différent, et si le législateur emploie un terme différent, il entend sans doute un sens différent; dans ce contexte, il s’agit de la thérapie physique ou psychologique.
+Par conséquent, aucun redressement ne peut être accordé en vertu de l’alinéa 118.2(2)l.9) de la Loi.
+[16] Je suis également d’avis que les articles connexes à la thérapie en question ne tombent sous le coup d’aucun des nombreux alinéas de l’article 5700 du Règlement. Il n’y a rien dans cette disposition qui se rapporte à ces articles, et aucune autre disposition de la Loi ou du Règlement ne pourrait aider la cause de l’appelant.
+[17] Bien que sa cause soit tout à fait légitime, l’appelant aurait dû, au lieu de demander un examen judiciaire, chercher à convaincre le législateur d’apporter des modifications législatives. De telles modifications ne sont pas du ressort de l’appareil judiciaire.
+[18] En ce qui concerne le crédit d’impôt pour frais médicaux, le législateur doit faire certains choix stratégiques, particulièrement en période de compression budgétaire. On ne peut qu’espérer que le législateur tiendra compte de l’accablant fardeau financier que doivent supporter les parents d’enfants autistiques et que, en définitive, il modifiera la Loi afin d’élargir la définition de « frais médicaux ».
+[19] Je conclus par conséquent que l’appelant sera uniquement autorisé à inclure, dans le calcul des frais médicaux admissibles, le montant admis par le ministre au début de l’audience (voir le paragraphe 4 ci-dessus), soit 2 194,68 $.
+Signé à Ottawa, Canada, ce 22e jour de juin 2010.
+« Paul Bédard »
+Juge Bédard
+Traduction certifiée conforme
+ce 20e jour d’août 2010.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2010 CCI 344
+NO DU DOSSIER DE LA COUR : 2009-3133(IT)I
+INTITULÉ : WARREN A. HENSCHEL c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 20 mai 2010
+MOTIFS DU JUGEMENT : L’honorable juge Paul Bédard
+DATE DU JUGEMENT : Le 22 juin 2010
+COMPARUTIONS :
+Pour l’appelant :
+Représentante de l’appelant :
+L’appelant lui-même
+Mme Marcy Henschel
+Avocats de l’intimée :
+Me Adam Gotfried
+Me Marla Teeling (observatrice)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,106 @@
+Title: Frontier Building Consultants Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26960/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-623-26960-frontier-building-consultants-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-09-22
+
+# Frontier Building Consultants Ltd. v. The Queen
+
+- Citation: 2005 TCC 623
+- Decision date: 2005-09-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 570, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Frontier Building Consultants Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-22
+Neutral citation
+2005 TCC 623
+File numbers
+2003-1412(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1412(IT)G
+BETWEEN:
+FRONTIER BUILDING CONSULTANTS LTD.,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on May 17, 2005 at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Marshall B. Sone
+Counsel for the Respondent:
+Suzanne Bruce
+____________________________________________________________________
+ORDER
+Whereas counsel for the Appellant filed a Notice of Motion for an Order under subsection 93(3) of the Tax Court of Canada Rules (General Procedure) directing that a representative of the Canada Revenue Agency who is knowledgeable be presented in order that they be examined on behalf of the Respondent;
+And upon hearing the parties in Toronto, Ontario on May 17, 2005;
+It is ordered that the Respondent provide another official of the Canada Revenue Agency to be available for examination for discovery.
+Signed at Vancouver, British Columbia, this 22nd day of September 2005.
+"L.M. Little"
+Little J.
+Citation: 2005TCC623
+Date: 20050922
+Docket: 2003-1412(IT)G
+BETWEEN:
+FRONTIER BUILDING CONSULTANTS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+[1] Counsel for the Appellant filed a Notice of Motion with the Court.
+[2] The Notice of Motion was for an Order under subsection 93(3) of the Tax Court of Canada Rules (General Procedure) directing that a representative of Her Majesty the Queen who is knowledgeable be presented in order that they be examined on behalf of the Crown.
+[3] Counsel for the Appellant pointed to a number of areas in the examination for discovery in which Mrs. Erica Tsun Fuk Yan, Certified General Accountant, was not informed enough to confirm or explain alleged facts or facts upon which assumptions were based.
+[4] Counsel for the Respondent indicated that Mrs. Yan had knowledge of the facts and issues which are the subject matter of this tax appeal.
+[5] Subsection 93(3) of the Tax Court of Canada Rules (General Procedure) reads as follows:
+93. (3) The Crown, when it is the party to be examined, shall select a knowledgeable officer, servant or employee, nominated by the Deputy Attorney General of Canada, to be examined on behalf of that party, but if the examining party is not satisfied with that person, the examining party may apply to the Court to name some other person.
+[6] After hearing the parties and after considering the legislation and the relevant jurisprudence I have been persuaded that the Respondent should provide a person other than Mrs. Erica Tsun Fuk Yan to represent the Canada Revenue Agency in the examination for discovery.
+Signed at Vancouver, British Columbia, this 22nd day of September 2005.
+"L.M. Little"
+Little J.
+CITATION:
+2005TCC623
+COURT FILE NO.:
+2003-1412(IT)G
+STYLE OF CAUSE:
+Frontier Building Consultants Ltd. and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 17, 2005
+REASONS FOR ORDER BY:
+The Honourable Justice L.M. Little
+DATE OF ORDER:
+September 22, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Marshall B. Sone
+Counsel for the Respondent:
+Suzanne Bruce
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Marshall B. Sone
+Firm:
+Saber & Sone
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

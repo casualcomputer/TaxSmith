@@ -1,0 +1,153 @@
+---
+title: "Graham c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30368/index.do"
+last_modified: "2008-10-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 580"
+citation2: ""
+neutral_citation: "2008 CCI 580"
+decision_date: "2008-10-22"
+language: "fr"
+item_id: "30368"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7887
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:17:01.814000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "64d6d536b96c3637e876f13a1eb35ae7f5fb78fb700bda7f3da669b52d862115"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Graham c. La Reine
+
+- Citation: 2008 CCI 580
+- Decision date: 2008-10-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7887, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Graham c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-22
+Référence neutre
+2008 CCI 580
+Numéro de dossier
+2008-710(IT)I
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-710(IT)I
+ENTRE :
+EDDIE GRAHAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu à Toronto (Ontario), le 6 octobre 2008.
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocats de l’intimée :
+Me Laurent Bartleman
+Rishma Bhimji (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2003, 2004 et 2005 est rejeté.
+Signé à Winnipeg (Manitoba), ce 22e jour d’octobre 2008.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 16e jour de décembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2008 CCI 580
+Date : 20081022
+Dossier : 2008-710(IT)I
+ENTRE :
+EDDIE GRAHAM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] L’Agence du revenu du Canada (l’« ARC ») a refusé la déduction des pertes d’entreprise déclarées par M. Graham à l’égard de ses activités en tant que musicien et disque‑jockey durant période allant de 2003 à 2005, au motif que ces activités ne constituaient pas une entreprise.
+I. Faits
+[2] Durant les années en cause, M. Graham travaillait à temps plein pour une grande banque canadienne.
+[3] M. Graham œuvre dans le domaine de la musique depuis longtemps. Durant les années 80 et 90, il faisait partie d’un grand groupe musical qui avait du succès et qui a même généré de modestes profits à quelques reprises. Après la dissolution du groupe musical, M. Graham a décidé de faire carrière en solo à titre de musicien et de disque‑jockey. Il a témoigné qu’entre 1998 et 2002, à savoir la période entre la dissolution du groupe musical et le début de sa carrière solo, il avait interrompu ses activités musicales. Pour les années en cause, M. Graham avait inscrit son entreprise comme entreprise individuelle, il avait obtenu un permis d’exploitation d’entreprise, un téléphone d’affaires et des cartes professionnelles. Comme il tenait à promouvoir ses services auprès des nombreuses filiales de la Légion royale canadienne, il est allé aux locaux de deux de ces filiales et il s’est même joint à l’une d’elles.
+[4] Pour chacune des années 2003, 2004 et 2005, M. Graham a déclaré des pertes d’entreprise nettes. Ses revenus modestes ont décru d’année en année, une chute qui reflétait la diminution du nombre de prestations qu’il effectuait, lequel était passé de cinq prestations à au plus deux prestations. M. Graham a affirmé qu’il avait cessé d’exploiter son entreprise musicale après l’intervention de l’ARC, et ce, malgré le fait qu’il s’attendait à ce que cette entreprise soit rentable et qu’il avait l’intention de réaliser un profit. M. Graham a expliqué avoir alors cessé d’exploiter son entreprise parce qu’il était découragé, frustré et convaincu qu’il était inutile de continuer.
+[5] M. Graham a expliqué que l’épidémie de SRAS à Toronto et ses effets sur l’industrie du tourisme avaient nui à ses revenus et à ses chances de succès. De plus, M. Graham s’est blessé au majeur en 2004, et son doigt a dû être immobilisé dans une attelle durant six mois, période durant laquelle M. Graham n’a pas pu jouer de la guitare ou transporter le matériel de sonorisation dont il avait besoin pour donner ses prestations.
+[6] Une partie de ce matériel, notamment la console de mixage, d’autre équipement de mixage et peut‑être même les haut-parleurs, semble être de qualité professionnelle. Selon M. Graham, on ne devrait pas s’attendre à ce que ce genre de matériel appartienne à des gens qui mènent des activités musicales hors du cadre d’une entreprise. Il semble que M. Graham était un artiste compétent et accompli et qu’il répétait souvent durant la période en cause.
+[7] Pour ce qui est des questions pécuniaires, M. Graham a dit qu’il cherchait à obtenir entre 350 $ à 500 $ par prestation, mais qu’il lui arrivait de recevoir aussi peu que 200 $, selon le succès de sa prestation et l’endroit où elle avait lieu. Il ne faisait pas le compte de ses profits et de ses pertes; il ne s’est même jamais demandé à quelle fréquence il devait donner des prestations pour atteindre le seuil de la rentabilité. M. Graham a affirmé ne pas considérer ses activités musicales sous ce jour‑là.
+[8] Quant aux dépenses d’entreprise déduites par M. Graham dans le calcul de ses pertes, elles étaient d’environ 12 000 $ pour 2003, 11 000 $ pour 2004 et 9 000 $ pour 2005. Lors de son témoignage, M. Graham a reconnu qu’à la lumière des reçus fournis au vérificateur de l’ARC, lesquels auraient dû être les mêmes que ceux qui avaient été fournis au comptable de M. Graham, les dépenses s’élevaient seulement à 2 300 $ par année. M. Graham a affirmé ne pas savoir pourquoi son comptable avait déduit des dépenses qui ne pouvaient pas être déduites à juste titre. En toute justice, la preuve ne m’a pas permis de comprendre si seulement 2 300 $ des dépenses étaient appuyées par des reçus, ou si seulement 2 300 $ étaient déductibles en fin de compte.
+II. Analyse
+[9] Dans une affaire comme celle‑ci, il me faut d’abord décider si les activités musicales de M. Graham constituaient une entreprise exploitée commercialement afin de réaliser un profit, ou si elles constituaient plutôt une démarche personnelle s’apparentant davantage à des loisirs ou à quelque chose de semblable. Cette méthode a été établie par la Cour suprême du Canada dans Stewart v. Her Majesty the Queen, 2002 D.T.C. 6969. Dans cet arrêt, la Cour suprême a énoncé certains des critères, des indices de commercialité et des caractéristiques commerciales dont il faut tenir compte.
+[10] En l’espèce, M. Graham n’a pas présenté suffisamment d’éléments de preuve crédibles démontrant, selon la prépondérance des probabilités, que ses activités musicales constituaient une entreprise exploitée commercialement afin de réaliser un profit. J’ai certaines réserves quant aux preuves présentées :
+(i) M. Graham a affirmé avoir interrompu ses activités musicales entre 1998 et 2001. Toutefois, dans une lettre envoyée au chef des appels en 2007, il expliquait avoir exploité son entreprise musicale avec succès et sans avoir subi de pertes durant ces années. M. Graham n’a pas su expliquer l’incompatibilité entre ces deux positions;
+(ii) si M. Graham avait l’intention de réaliser un profit et croyait pouvoir y arriver grâce à ses activités musicales, il n’était pas logique qu’il interrompe l’exploitation de son entreprise après que l’ARC ait contesté les pertes des années précédentes. Encore une fois, M. Graham n’a pas réussi à expliquer cette incohérence;
+(iii) la preuve n’était pas suffisante pour démontrer que M. Graham avait adopté une approche commerciale dans sa recherche de contrats de prestation. La preuve a seulement montré qu’il avait cherché à se produire dans des locaux de la Légion royale canadienne. Rien n’a montré que, lorsque les conditions du marché avaient changé en raison de la crise du SRAS, M. Graham avait adapté ses stratégies de marketing et d’affaires afin d’assurer le succès de son entreprise;
+(iv) la carrière musicale solo de M. Graham n’a jamais été rentable. Le groupe musical dont il faisait partie antérieurement avait connu des pertes pour la plupart des années, et, pour quelques années, des profits très modestes. En effet, l’année la plus rentable du groupe musical précédait de 10 ans le début de la carrière solo de M. Graham, et les profits de ce dernier pour cette année-là étaient d’environ 2 000 $. C’est de 1989 à 1993 que les activités du groupe musical avaient été rentables;
+(v) M. Graham était propriétaire de matériel coûteux qui aurait très bien pu dépasser ce qu’un amateur posséderait normalement, mais s’il en était propriétaire durant les années en cause, c’est parce qu’il avait conservé le matériel de qualité qu’il avait acquis pour son travail dans le groupe musical bien des années auparavant;
+(vi) j’ai été troublé d’entendre M. Graham expliquer qu’il ne s’était jamais demandé combien de prestations il devait faire pour réaliser un profit et rendre son entreprise rentable. Ne pas avoir rédigé de plan d’affaires formel est une chose, mais affirmer avoir eu la volonté de réaliser un profit et penser pouvoir y arriver sans même estimer les revenus nécessaires pour couvrir les dépenses engagées en est une toute autre;
+(vii) Je n’ai pas été convaincu par l’explication de M. Graham à savoir pourquoi son comptable semble avoir déduit un grand nombre de dépenses qui n’auraient pas dû être déduites. On ne m’a pas fourni assez de détails pour me convaincre que cette explication était satisfaisante ou crédible.
+[11] L’appel de M. Graham est rejeté.
+Signé à Winnipeg (Manitoba), ce 22e jour d’octobre 2008.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 16e jour de décembre 2008.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2008 CCI 580
+No DU DOSSIER DE LA COUR :
+2008-710(IT)I
+INTITULÉ :
+Eddie Graham et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 6 octobre 2008
+MOTIFS DU JUGEMENT :
+L’honorable juge Patrick Boyle
+DATE DU JUGEMENT :
+Le 22 octobre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Laurent Bartleman
+Rishman Bhimji (stagiaire en droit)
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

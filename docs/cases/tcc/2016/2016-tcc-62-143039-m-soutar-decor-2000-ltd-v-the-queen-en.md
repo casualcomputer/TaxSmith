@@ -1,0 +1,158 @@
+---
+title: "M. Soutar Decor 2000 Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/143039/index.do"
+last_modified: "2016-03-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 62"
+citation2: ""
+neutral_citation: "2016 TCC 62"
+decision_date: "2016-03-14"
+language: "en"
+item_id: "143039"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3066
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:56:38.620000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "95ef938292ee140982182a0415519719da887868739506995532f78dc9152028"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# M. Soutar Decor 2000 Ltd. v. The Queen
+
+- Citation: 2016 TCC 62
+- Decision date: 2016-03-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3066, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+M. Soutar Decor 2000 Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-03-14
+Neutral citation
+2016 TCC 62
+File numbers
+2014-944(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-944(IT)I
+BETWEEN:
+M. SOUTAR DÉCOR 2000 LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 26, 2015, at Windsor, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+R. Bruck Easton, Q.C.
+Counsel for the Respondent:
+George Boyd Aitken
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, the appeal from the Notice of Assessment numbered 1534476 dated October 13, 2011 in relation to the Appellant’s 2002 and 2005 taxation years, is hereby dismissed.
+Signed at Ottawa, Canada, this 14th day of March 2016.
+“R.S. Bocock”
+Bocock J.
+Citation: 2016TCC62
+Date: 20160314
+Docket: 2014-944(IT)I
+BETWEEN:
+M. SOUTAR DÉCOR 2000 LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+Introduction [1] M. Soutar Décor 2000 Ltd. (“Soutar Co.”) brings this appeal to set aside a section 160 assessment. The Minister raised the assessment on October 13, 2011. The Minister alleges that on June 26, 2007 Ronald Soutar (“Ronald”) transferred $75,000 to the Bank of Nova Scotia for the benefit of Soutar Co. At that time, Ronald owed the Minister the respective sums of $14,828.05 and $5,325.84 in respect of taxes owing for his 2002 and 2005 taxation years (the “Tax Debt”).
+Facts and Sequence of Events [2] Factually, there is little in dispute. Soutar Co.’s principal, Michael Soutar (“Michael”), is the son of Ronald. In 2001, Michael launched Soutar Co., a paint and decorating business. Like most start-up businesses, Soutar Co. required financing for working capital and equipment. An operating line of credit and capital loan were obtained from the Bank of Nova Scotia (“BNS”). BNS wanted security not just from son Michael, but also from dutiful father, Ronald. BNS received security from Ronald for the BNS loans to Soutar Co.: an unlimited personal guarantee and a first registered charge over Ronald’s house (the “2001 Security”).
+[3] In 2002, Ronald sold his house. He bought one of lesser value. Not to be less secure, BNS agreed to a reduced first charge, but also received a collateral cash deposit in the amount of $120,000.00 (the “GIC Deposit”).
+[4] Business went well for Soutar Co. In 2004, after repayment of the capital loan, BNS reduced the collateral cash requirement represented by the GIC Deposit to $75,000, but also requested delivery of a hypothecation agreement and an authorization to hold funds (the “2004 Security”).
+[5] Ronald died in February, 2007. BNS demanded its credit facilities be repaid later that Spring. BNS was not paid quickly enough. On June 26, 2007 (the “Loan Repayment Date”), BNS realized upon the GIC Deposit and applied the $75,000 against Soutar Co.’s outstanding indebtedness by transferring the GIC Deposit proceeds against Soutar Co’s outstanding line of credit. As of that date, the Tax Debt was outstanding. Soutar Co. subsequently repaid the unpaid balance of its outstanding loans to BNS. The Minister asserts that the repayment of the $75,000 Soutar Co. loans on the Loan Repayment Date constitutes a section 160 transfer from Ronald to Soutar Co. On that basis, the 160 assessment is raised against Soutar Co. as the transferee of moneys from the transferor and tax debtor, Ronald.
+The Law Generally [6] In the leading authority on the subject, Livingston v. Her Majesty The Queen, 2008 FCA 89 at paragraph 9, Justice Sexton of the Federal Court of Appeal wrote:
+[9] …in order for subsection 160(1) of the Act to apply, the following four criteria must be met:
+1) There must be a transfer of property;
+2) The parties must not be dealing at arm’s length;
+3) There must be no consideration or inadequate consideration flowing from the transferee to the transferor (I would note that the trial judge considered the test to be “No consideration or inadequate consideration flowing from the transferor to the transferee” [emphasis added]: this is a mistaken quotation of the test as cited in Raphael v. Canada 2002 FCA 23.); and
+4) The transferor must be liable to pay tax under the Act at that time.
+Issue [7] Criteria 2 and 3 have been established. Therefore, the issue is whether there was a transfer of property at the time Ronald owed the Tax Debt. The parties both agree there was a transfer. They differ as to when it occurred: before or after Ronald owed the Tax Debt. The Appellant says a transfer occurred in 2001 at the time the 2001 Security was granted. The Respondent says it was in 2007 on the Loan Repayment Date. There is a simple and apparent reason why the date is relevant: in 2002 Ronald, the transferor, owed no tax and in 2007 he owed the Tax Debt.
+[8] The broad issue before the Court is: when did the transfer of property occur within the meaning of section 160? To refine this issue further, assuming a transfer occurred within the meaning of section 160, did a transfer occur in 2001 at the time of the 2001 Security, in 2002 at the time of the GIC Security, in 2004 at the time of the 2004 Security or on the Loan Repayment Date in June 2007?
+Analysis a) Transfer in 2001 [9] The “property” in section 160 must be identifiable. Both parties identified, although at differing times, the security granted to BNS by Ronald as the property. This property, depending on the date, was held, hypothecated, assigned and/or converted by a third party, namely BNS, for the benefit of itself and conjointly for the Appellant. Appellant’s counsel suggests the transferred property includes the original guarantee and mortgage granted in 2001 to BNS as the collateral security for Soutar Co’s loans from BNS. Appellant’s counsel asserts the 2001 date is the date of transfer. As noted, this pre-dates the Tax Debt.
+[10] The Court finds that there was no transfer of property in 2001. A guarantee is a contingent liability and remains so until demanded. The collateral mortgage, itself actually a charge, granted to BNS in 2001 did not constitute a transfer of property to Soutar Co. At law, it neither constituted a transfer to the Bank nor even a mortgage in the traditional legal sense. By virtue of the Land Registration Reform Act, RSO 1990, C. L. 4, charges under the Land Titles Act convey no legal estate in land:
+6. (1) A charge does not operate as a transfer of the legal estate in the land to the charge
+As such, no transfer occurred at the time of the 2001 Security.
+b) If not 2001, then when?
+[11] Common sense begs directing thought to the other end of the time line: the Loan Repayment Date of June 27, 2007. On that date, there is a complete reconciliation, from an accounting perspective at least. BNS realizes upon the GIC Deposit in its grasp. BNS converts it to cash, credits Soutar Décor’s account and, a second in time later, repays itself. Three automatic fund transfers, taking just seconds, cumulatively afford conversion, credit and set-off by three computer clicks. In the absence of further inquiry, that single day (and more likely seconds) factually represent a transfer from an indebted taxpayer transferor to a creditor, but first via a non-arm’s length transferee. Ultimately, the transferee, Soutar Co., receives full credit and benefit to the extent of the GIC Deposit proceeds paid against its loan to BNS.
+[12] The Appellant, through counsel, has not challenged this factual sequence, including the quantifiable benefit gained by the Appellant in the process: repayment of $75,000 of the Appellant’s debt to BNS. This benefit aside, the Appellant asserts the Loan Repayment was made possible because of the previously transferred property: the collateral mortgage in 2001 and the related amended security in 2002 and 2004. While the Court rejects the primary argument that the guarantee and collateral charge represented a transfer of property, a closer analysis of the GIC Deposit provided within the 2002 Security and the further refined 2004 Security is required. In the present case and time-line, this is required because the Tax Debt is not uniformly subsisting between 2002 and the Loan Repayment Date.
+[13] Therefore, what, if anything, was transferred, to whom and by whom in 2002, 2004 and 2007, respectively? This analysis is necessary because “transfer” is not defined in section 160; however the section’s engagement is absolutely dependent upon the existence of a transfer effected by the transferor.
+c) Purpose of Section 160
+[14] The well-known and express purpose of section 160 and the facts of this case loudly grind and harshly mesh. The purpose of the section is enunciated in Livingston at paragraph 18, in turn referencing Medland v. Her Majesty The Queen, 98 DTC 6358 (FCA). The Federal Court of Appeal states “the object and spirit of subsection 160(1), is to prevent a taxpayer from transferring his property … [to a non-arm’s length individual] in order to thwart the Minister’s efforts to collect the money which is owed to him.” Ronald, unilaterally, and Michael and Soutar Décor, conjointly, undertook no such ulterior action. Factually, Ronald pledged the GIC Deposit to BNS before the existence of the Tax Debt. In fact, he did nothing further after 2004. Neither did Soutar Décor. Only the Bank did. How is this?
+d) Property and transfer
+[15] Property ownership is a multi-faceted concept at common law. Therefore, its transfer is no less simple. Since ownership includes control, possession, management and enjoyment, a transfer may likewise at different stages include the conveyance of any one such component.
+[16] Many cases before this and other Courts, primarily those arising from common law provinces, struggle with this layered concept of ownership of property and its purported transfer. So alike do cases under subsection 160(1). They have done so in several contexts.
+[17] Payments to a Bank or through a bank which have the effect of a transfer from the transferor to the transferee will nonetheless engage section 160 of the Act because the Bank is considered a mere conduit: Medland v. Her Majesty The Queen, 98 DTC 6358 at paragraph 20. A guarantee and delivery or pledge of security to a bank does not constitute a transfer because the pledged security remains the guarantor’s: Linke v. Her Majesty The Queen, [1992] T.C.J. No. 669 at paragraphs 3 and 5. Until a guarantee is demanded and the security is converted, the guarantee remains contingent and unenforced: MacLeod v. Her Majesty The Queen, 2012 TCC 379 at paragraph 17. After the June 2007 deposit into transferee, Soutar Décor’s bank account, Soutar Décor then received legal and beneficial ownership. This constituted both the moment and consummation of the transfer: MacLeod at paragraphs 19 and 20. It is at this time of seizure, realization and payment of the GIC Deposit proceeds that the benefit is conferred and completed. Concerning the intention of Ronald or Soutar Décor as to timing, actions or effect, section 160 is clear: intention is of no import beyond gauging the adequacy of consideration: Wannan v. Canada, 2003 FCA 423 at paragraph 3. In turn, there is no argument by Soutar Décor that it provided consideration for the GIC Deposit or its proceeds.
+[18] On the Loan Repayment Date in June 2007, BNS, through possession, irrevocably seized management and control of the GIC Deposit and transferred the enjoyment of those proceeds to both Soutar Décor and ultimately the credit of that benefit to itself. The power, authority and right to do so was incrementally alienated to BNS by Ronald in each of 2001, 2002 and 2004, during which time the respective security was, in turn, granted, substituted and amended, but not legally and beneficially transferred as property to Soutar Décor until the Loan Repayment Date.
+Conclusion
+[19] Soutar Décor certainly received the full benefit of the property on the Loan Repayment Date. It received it as a result of executory power and authority exclusively held by the Bank, not from Ronald or his estate. Factually, the Bank was not a “mere” short-term conduit or depository in contrast to the facts within certain authorities: Medland. This causes the Court some consternation because the transferor’s motives do not march along with the purposive reasoning of section 160: Livingston at paragraph 18 itself referencing Raphael v. Her Majesty The Queen, 2000 DTC 2434 at paragraph 19.
+[20] Ultimately however, there was a clear benefit gained by Soutar Décor, albeit in the absence of any intention by either Ronald or Soutar Décor to thwart the collection of the Tax Debt owed to the Minister. How could there have been? When BNS mandated its conditions of lending, no Tax Debt existed. Similarly, no benefit to a transferee at the time of transfer is required where the Minister’s ability to collect the Tax Debt is prevented by the deliberate and intended act of the transferor. The Court is satisfied that the plain wording of section 160 has been engaged in the present case. Moreover, equitable reconciliation occurs through the presence of a quantifiable material benefit conferred upon the transferee at the time of transfer which fairly requires the Appellant-transferee to satisfy the Tax Debt then, and because of the transfer, still owing to the Minister.
+[21] On such basis, the appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of March 2016.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2016TCC62
+COURT FILE NO.:
+2014-944(IT)I
+STYLE OF CAUSE:
+M. SOUTAR DÉCOR 2000 LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Windsor, Ontario
+DATE OF HEARING:
+October 20, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+March 14, 2016
+APPEARANCES:
+Counsel for the Appellant:
+R. Bruck Easton, Q.C.
+Counsel for the Respondent:
+George Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+R. Bruck Easton, Q.C.
+Firm:
+Belowus Easton English
+100 Ouellette Avenue, 7th Floor
+Windsor, ON
+N9A 6T3
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

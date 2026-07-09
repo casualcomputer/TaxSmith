@@ -1,0 +1,165 @@
+---
+title: "Ouellet c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26108/index.do"
+last_modified: "2004-04-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 272"
+citation2: ""
+neutral_citation: "2004 CCI 272"
+decision_date: "2004-04-27"
+language: "fr"
+item_id: "26108"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4169
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:33:13.741000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ded91b59ffcaba1d05bddb15d11ac06af1bcddfb8163321eb6d13418166eb8d4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ouellet c. M.R.N.
+
+- Citation: 2004 CCI 272
+- Decision date: 2004-04-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4169, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouellet c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-27
+Référence neutre
+2004 CCI 272
+Numéro de dossier
+2003-2867(EI)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-2867(EI)
+ENTRE :
+RÉGINALD OUELLET,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 11 mars 2004 à Rivière-du-Loup (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelant :
+Roland Rioux
+Avocate de l'intimé :
+Me Agathe Cavanagh
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 27e jour d'avril 2004.
+« François Angers »
+Juge Angers
+Dossier : 2003-2865(CPP)
+ENTRE :
+RÉGINALD OUELLET,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 11 mars 2004 à Rivière-du-Loup (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Représentant de l'appelant :
+Roland Rioux
+Avocate de l'intimé :
+Me Agathe Cavanagh
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le ministre du Revenu national est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 27e jour d'avril 2004.
+« François Angers »
+Juge Angers
+Référence : 2004CCI272
+Date : 20040427
+Dossiers : 2003-2867(EI)
+2003-2865(CPP)
+ENTRE :
+RÉGINALD OUELLET,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit de deux appels interjetés à l'encontre de décisions du ministre du Revenu national (le « ministre » ) rendues le 13 mai 2003. Les appels ont été entendus sur preuve commune. Le ministre a informé l'appelant que son travail durant la période du 28 août au 3 novembre 2000, alors qu'il était au service de Fletcher's Forestry Enterprises Ltd. ( « Fletcher » ), n'était pas un emploi assurable car il ne rencontrait pas les exigences d'un contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi (la « Loi » ). Il a de plus informé l'appelant que ce même emploi n'ouvrait pas droit à pension pour les mêmes raisons mais au sens de l'alinéa 6(1)a) du Régime de pensions du Canada (le « Régime » ).
+[2] L'appelant est bûcheron et opérateur d'une débusqueuse dont il est propriétaire. Pour obtenir du travail durant la période en cause, il a contacté par téléphone un représentant de Fletcher pour offrir ses services. Lors de leur rencontre initiale, il a été convenu que ses services et les frais pour la location de la débusqueuse seraient payés séparément et aucun contrat écrit n'a été signé à ce moment. Pour exécuter son travail, l'appelant ferait équipe avec Réjean Robichaud. Ils ont travaillé tous les deux pendant 10 semaines pour un total de 500 heures. Même si Fletcher payait pour les services de monsieur Robichaud, l'appelant est celui qui a demandé de travailler avec lui.
+[3] Par l'entremise de son contremaître, Fletcher indiquait à l'appelant l'endroit où il devait se rendre pour effectuer son travail. Par la suite, le contremaître visitait les lieux de travail tous les deux jours pour vérifier la quantité de bois coupé et pour s'assurer que l'appelant coupait toujours au bon endroit. L'appelant n'avait aucun horaire de travail à respecter. La façon de déterminer le nombre d'heures de travail était d'allouer une heure par corde et demie ou par deux cordes, ce qui donnait en moyenne 10 heures de travail par jour. L'appelant et monsieur Robichaud étaient toutefois payés à la corde ou selon la quantité de bois coupé.
+[4] L'appelant fournissait sa débusqueuse et en assumait les frais de fonctionnement. Il devait aussi assumer les coûts de réparation. Durant la période en cause, Fletcher versait à l'appelant des avances hebdomadaires de 759,20 $ et de 1 150 $ et payait Réjean Robichaud directement. Selon Fletcher, à la fin de la période de travail, les avances versées à l'appelant ainsi que la rémunération versée à monsieur Robichaud ont été déduites de la rémunération due à l'appelant.
+[5] À l'audience, le représentant de l'appelant a déposé en preuve deux contrats, soit un contrat d'emploi entre l'appelant et Fletcher et un contrat de location attestant que Fletcher avait loué la débusqueuse de l'appelant. Les deux contrats réfèrent à la période en cause mais ne sont pas datés. L'appelant a reconnu avoir signé les contrats deux ans après la période en cause et ce, à la demande de son représentant, monsieur Roland Rioux. Ce dernier, une fois ses services retenues par l'appelant, a demandé à Fletcher de préparer et de signer les deux contrats en question. L'appelant ne connaissait pas leur existence avant que son représentant lui demande de les signer.
+[6] Ces deux contrats ont fait surface en raison d'un communiqué émis par la division de l'admissibilité à l'assurance-emploi du ministère des Ressources humaines le 30 juillet 1998. Ce communiqué avait pour but de clarifier la politique relative aux travailleurs qui oeuvrent dans le domaine forestier et qui, en plus de rendre des services à un entrepreneur, louent leur machinerie lourde à ce même entrepreneur. Le communiqué insiste sur le fait qu'il est essentiel que le contrat de louage de services et le contrat de location de la machinerie lourde soient faits par écrit. Le représentant de l'appelant a donc vu bon d'obtenir les deux contrats en question, sauf qu'ils font surface deux ans après la période en cause. À mon avis, ils n'ont aucune valeur probante pour le cas en espèce.
+[7] Le communiqué en question expose les grandes lignes de ce que peut constituer un contrat de louage de services, mais il ne propose pas une façon sûre de créer un tel contrat. Ce ne sont que des lignes directrices et chaque cas est un cas d'espèce.
+[8] L'agent des appels qui a effectué l'enquête dans ce dossier est madame Joanne Robichaud. Elle a obtenu son information de Fletcher et de l'appelant. Selon l'information qu'elle a reçue de Fletcher, il n'y a eu aucun contrat écrit. Toujours selon Fletcher, l'appelant était informé de l'endroit où il devait couper le bois et comment il devait couper. La rémunération de l'appelant était calculée selon un taux par tonne de bois coupé. Il recevait des avances pour sa rémunération et pour la location de la débusqueuse et un rajustement était fait une fois que le bois était mesuré à l'usine. Quant au salaire de Réjean Robichaud, Fletcher le payait, mais cette dépense était déduite du revenu de l'appelant. En cas de bris de la débusqueuse, Fletcher n'attribuait pas d'autres tâches à l'appelant. Il n'y avait aucun registre des heures de travail et le contremaître sur le lieu de travail ne s'assurait que de la quantité de bois coupé et de l'endroit.
+[9] La Cour d'appel fédérale, dans une décision récente, a exposé les principes juridiques qui gouvernent la question de l'assurabilité d'un emploi. Dans Livreur Plus Inc. c. Canada, [2004] A.C.F. 267, le juge Létourneau a résumé ces principes en ces termes aux paragraphes 18 et 19 de son jugement :
+Dans ce contexte, les éléments du critère énoncé dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., 87 D.T.C. 5025, à savoir le degré de contrôle, la propriété des instruments de travail, les chances de bénéfices et les risques de pertes et enfin l'intégration, ne sont que des points de repère : Charbonneau c. Canada (ministre du Revenu national - M.R.N.) (1996), 207 N.R. 299, paragraphe 3. En présence d'un véritable contrat, il s'agit de déterminer si, entre les parties, existe un lien de subordination, caractéristique du contrat de travail, ou s'il n'y a pas, plutôt, un degré d'autonomie révélateur d'un contrat d'entreprise : ibidem.
+Ceci dit, il ne faut pas, au plan du contrôle, confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l'ouvrier chargé de les réaliser : Vulcain Alarme Inc. c. Le ministre du Revenu national, [1999] A.C.F. no 749, A-376-98, 11 mai 1999, paragraphe 10, (C.A.F.); D & J Driveway Inc. c. Le ministre du Revenu national, précité, au paragraphe 9. Comme le disait notre collègue le juge Décary dans l'affaire Charbonneau c. Canada (ministre du Revenu national - M.R.N.), précitée, suivie dans l'arrêt Jaillet c. Canada (ministre du Revenu national - M.R.N.), [2002] A.C.F. no 1454, 2002 FCA 394, "rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur".
+[10] Ayant écarté les contrats signés deux ans après la période en cause, il faut donc examiner ce dont l'appelant et Fletcher ont réellement convenu au moment de leur rencontre initiale. Ce qu'il faut retenir de cette rencontre se résume au fait que le coût de location de la débusqueuse, la rémunération de l'appelant et celle de son co-équipier étaient calculés selon un taux par tonne de bois coupé. Les avances hebdomadaires étaient approximatives et le tout était sujet à un rajustement lorsque le bois coupé était finalement mesuré. Le salaire du co-équipier était déduit du revenu attribué à l'appelant. Toutes les dépenses associées à la débusqueuse demeuraient aux frais de l'appelant et un bris majeur constituait un arrêt de travail car, selon Fletcher, elle n'avait pas à attribuer d'autres tâches à l'appelant.
+[11] Le contremaître de Fletcher n'avait pas à vérifier les heures de travail ni à maintenir un registre à cet effet. Sa seule responsabilité était de s'assurer que l'appelant coupait au bon endroit et que la quantité justifiait les avances hebdomadaires. Il n'avait pas à vérifier la façon dont l'appelant effectuait son travail. Il s'agissait donc réellement d'un contrôle du résultat et non d'un contrôle de l'appelant. Tel que le juge Létourneau l'a mentionné dans l'affaire Livreur Plus Inc., précitée, il ne faut pas confondre le contrôle du résultat ou de la qualité des travaux avec le contrôle de leur exécution par l'ouvrier chargé de les réaliser. Il réfère ainsi à l'arrêt Charbonneau c. Canada, (1996) 207 N.R. 299. Dans cet arrêt, le juge Décary écrivait le passage suivant :
+La surveillance des travaux aux deux jours et le mesurage du volume aux quinze jours ne créent pas en l'espèce de lien de subordination et sont tout à fait compatibles avec les exigences d'un contrat d'entreprise. Rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur.
+[12] À la lumière des faits, Fletcher n'était intéressée que par la quantité de bois coupé et non par l'exercice d'un contrôle sur le travailleur. En fait, elle n'était pas libre d'affecter d'autres travailleurs à la débusqueuse que l'appelant et son co-équipier. Dans un pareil cas, il est difficile de parler de subordination.
+[13] L'appelant assumait l'entière responsabilité des dépenses associées à l'utilisation de la débusqueuse et devait aussi assumer tout l'entretien et la réparation. Ce genre d'entente favorise nettement l'existence d'un contrat d'entreprise dans le sens que les chances de profit ou les risques de perte ne sont attribuables qu'à l'appelant. En l'espèce, Fletcher n'était pas libre d'affecter d'autres travailleurs à l'utilisation de la débusqueuse.
+[14] L'ensemble des faits me permet de conclure que l'entente entre l'appelant et Fletcher favorise l'existence d'un contrat d'entreprise. L'appelant était rémunéré selon son travail, c'est-à-dire selon la quantité de bois que lui et son co-équipier ont coupé selon la pesée à l'usine et ce, peu importe le temps mis à accomplir le travail et la façon dont il était accompli. L'appelant assumait tous les risques et n'était pas affecté à d'autres tâches.
+[15] Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 27e jour d'avril 2004.
+« François Angers »
+Juge Angers
+RÉFÉRENCE :
+2004CCI272
+Nos DES DOSSIERS DE LA COUR :
+2003-2867(EI)
+2003-2865(CPP)
+INTITULÉS DES CAUSES :
+Réginald Ouellet et le ministre du Revenu national
+Réginald Ouellet et le ministre du Revenu national
+LIEU DE L'AUDIENCE :
+Rivière-du-Loup (Québec)
+DATE DE L'AUDIENCE :
+Le 11 mars 2004
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge François Angers
+DATE DU JUGEMENT :
+le 27 avril 2004
+COMPARUTIONS :
+Pour l'appelant :
+Roland Rioux
+Pour l'intimé :
+Me Agathe Cavanagh
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

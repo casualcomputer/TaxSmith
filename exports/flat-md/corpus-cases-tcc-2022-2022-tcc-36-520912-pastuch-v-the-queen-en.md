@@ -1,0 +1,259 @@
+---
+title: "Pastuch  v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520912/index.do"
+last_modified: "2022-03-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 36"
+citation2: ""
+neutral_citation: "2022 TCC 36"
+decision_date: "2022-03-16"
+language: "en"
+item_id: "520912"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4448
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:37:23.816000+00:00"
+cases_cited_count: 9
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b6ed85c0f1a170c5948bd7c4365ddb853f162576870b0b630187bcd2c069a7bf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pastuch  v. The Queen
+
+- Citation: 2022 TCC 36
+- Decision date: 2022-03-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4448, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pastuch v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-03-16
+Neutral citation
+2022 TCC 36
+File numbers
+2013-2646(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2646(IT)G
+BETWEEN:
+ALENA PASTUCH,
+Appellant (Applicant),
+and
+FINANCIAL AND CONSUMER AFFAIRS AUTHORITY OF SASKATCHEWAN,
+(Respondent);
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion determined by written submissions
+Before: The Honourable Justice David E. Graham
+Participants:
+For the Appellant (Applicant):
+The Appellant (Applicant) herself
+Counsel for the (Respondent), Financial and Consumer Affairs Authority of Saskatchewan:
+Lauren J. Wihak
+Counsel for the Respondent, Her Majesty the Queen:
+Anne Jinnouchi
+ORDER
+Ms. Pastuch’s motion pursuant to section 86 of the Tax Court of Canada Rules (General Procedure) to compel the Financial and Consumer Affairs Authority of Saskatchewan (the “FCAA”) to produce documents is dismissed.
+Costs are awarded to the FCAA. As the FCAA has no further involvement in this appeal, the costs shall be payable forthwith.
+The parties shall have until April 18, 2022 to reach an agreement on costs, failing which the FCAA shall have until April 28, 2022 to serve and file written submissions on costs and Ms. Pastuch shall have until May 8, 2022 to serve and file a written response. Any such submissions shall not exceed 10 pages in length. I will not consider any submissions that are filed late. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, costs are awarded to the FCAA as set out in the Tariff.
+Signed at Ottawa, Canada, this 16th day of March 2022.
+“David E. Graham”
+Graham J.
+Citation: 2022 TCC 36
+Date: 20220316
+Docket: 2013-2646(IT)G
+BETWEEN:
+ALENA PASTUCH,
+Appellant (Applicant),
+and
+FINANCIAL AND CONSUMER AFFAIRS AUTHORITY OF SASKATCHEWAN,
+(Respondent);
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] Alena Pastuch has appealed reassessments of her 2007, 2008 and 2009 tax years. The Minister of National Revenue had reassessed those years to add approximately $2.8M in shareholder benefits to Ms. Pastuch’s income and to impose penalties for failing to file tax returns for those years.
+[2] The Minister alleges that Ms. Pastuch obtained the shareholder benefits from six different companies (the “Companies”).
+[3] From 2008 to 2010, the Enforcement Branch of the Securities Division of the Saskatchewan Financial Services Commission conducted an investigation into allegations that Ms. Pastuch and the Companies had violated The Securities Act, 1988 (Saskatchewan). [1] In 2012, the Saskatchewan Financial Services Commission was continued as the Financial and Consumer Affairs Authority of Saskatchewan (“FCAA”). The FCAA is the respondent in this motion.
+[4] In the course of its investigation, the FCAA collected various documents from Ms. Pastuch and her former accountant. Ms. Pastuch believes that the FCAA has documents in its possession that are essential to prosecuting her appeal. She has brought a motion pursuant to section 86 of the Tax Court of Canada Rules (General Procedure) to compel the FCAA to turn over certain documents.
+[5] The specific documents or categories of documents that Ms. Pastuch seeks are described in Appendix “A” to her written submissions filed August 12, 2021 (collectively, the “Requested Documents”). [2] The following is a simplified description of those documents:
+(a) a copy of what Ms. Pastuch describes as the “global material / evidence inventory log” of the FCAA (the “Inventory Log”);
+(b) copies of documents relating to credit card transactions whereby alleged customers of one or more of the Companies allegedly purchased products from the Companies (the “Credit Card Documents”);
+(c) copies of various contracts, agreements, expense reports and expenditure logs that were in boxes and binders that Ms. Pastuch says she and her accountant provided to the FCAA (the “Business Records”);
+(d) copies of emails between Ms. Pastuch and her accountant and any attachments thereto (the “Accountant Emails”); and
+(e) a summary of the statements that witnesses gave to the FCAA investigators (the “Witness Notes”).
+[6] The FCAA argues that this motion is barred by the doctrines of issue estoppel, abuse of process and collateral attack. In the alternative, the FCAA submits that the Inventory Log does not exist. It says that it has already provided Ms. Pastuch with all documents in its possession and, to the extent that the Credit Card Documents, the Business Records and the Accountant Emails exist, they are not in its possession.
+[7] Her Majesty the Queen takes no position on the motion.
+I. Issue Estoppel
+[8] Issue estoppel prevents a person from re-litigating an issue that was decided in a previous decision between the same parties. In simple terms, three tests must be met for issue estoppel to apply:
+(a) the question that the court is being asked to decide must already have been decided in another proceeding;
+(b) the decision in that other proceeding must be final; and
+(c) the parties to that other proceeding must be the same parties as the parties to the proceeding in which issue estoppel is claimed or their privies.
+[9] Justice Hogan conducted a comprehensive review of the law of issue estoppel in his very recent decision in Canadian Imperial Bank of Commerce v. The Queen. [3] I adopt his description of the law. There is no value in my repeating it here.
+A. Same Issue
+[10] Ms. Pastuch has been involved in two different proceedings, one regulatory and one criminal. In both proceedings, she sought production of documents from the FCAA.
+Regulatory Proceedings
+[11] Following the FCAA investigation, the FCAA alleged that Ms. Pastuch and the Companies had breached a number of provisions of the Securities Act. A panel was appointed to conduct a hearing into the allegations. I will refer to the proceedings before the panel and the appeals therefrom as the “Regulatory Proceedings”.
+[12] As part of the Regulatory Proceedings, the FCAA had an obligation to provide full disclosure to Ms. Pastuch. Ms. Pastuch brought a motion in which she argued that the FCAA had failed to provide her that disclosure. The hearing panel determined that the FCAA had made full and proper disclosure. [4]
+[13] Ms. Pastuch proceeded to raise the disclosure issue for a second time. The hearing panel again reached the same conclusion. [5]
+[14] Ms. Pastuch raised the disclosure issue again on the eve of the hearing and requested an adjournment. That request was denied. Unsatisfied with the answer, Ms. Pastuch chose not to remain at the hearing. She did not return until after the FCAA had closed its case. Ms. Pastuch had an agent briefly attend the hearing after the first witness had finished testifying to raise the disclosure issue one more time. [6]
+[15] The hearing panel ultimately found that Ms. Pastuch and the Companies had breached the relevant sections of the Securities Act. [7] It imposed an administrative penalty of $100,000 and ordered Ms. Pastuch and the Companies to pay up to $100,000 to each person who had suffered a financial loss as a result of their conduct. [8]
+[16] Ms. Pastuch appealed the hearing panel’s decision to the Court of Appeal for Saskatchewan. One of her grounds for appeal was that the FCAA had not provided her with full disclosure.
+[17] In an appeal management conference, Ms. Pastuch sought and obtained an order that the FCAA disclose certain documents. Those documents appear to be or include the Accountant Emails, the Credit Card Documents and the Witness Notes. [9] When the FCAA did not provide the documents she was looking for, Ms. Pastuch brought an application for contempt. The application was denied. The appeal management judge was satisfied that the FCAA did not have the documents in its possession. [10] Ms. Pastuch did not appeal that decision.
+[18] The Court of Appeal eventually heard Ms. Pastuch’s appeal. In the course of that hearing it considered her arguments regarding disclosure. The Court upheld the hearing panel’s decisions on this issue. Ms. Pastuch also attempted to re-argue the disclosure issues that she had argued in front of the appeal management judge. The Court refused to hear those arguments on the basis that they amounted to a collateral attack on the contempt decision. [11]
+[19] Ultimately, in a decision reported as 101115379 Saskatchewan Ltd. v. Financial and Consumer Affairs Authority (2019 SKCA 31), the Court of Appeal dismissed Ms. Pastuch’s appeal.
+[20] Not satisfied with that outcome, Ms. Pastuch applied to have the Court of Appeal re-hear her appeal. She argued that the Court had overlooked evidence that indicated that the FCAA had the Inventory Log, the Business Records and the Accountant Emails. She also argued that the FCAA should have provided the Witness Notes. [12] The Court dismissed her application.
+[21] In summary, in the course of the Regulatory Proceedings, Ms. Pastuch raised the issue of the FCAA’s disclosure of documents on at least six occasions and, on each occasion, she was unsuccessful. [13]
+Criminal Proceedings
+[22] Following the decision of the hearing panel in the Regulatory Proceedings, Ms. Pastuch was charged criminally with fraud, money laundering and theft.
+[23] As a preliminary matter to her prosecution, Ms. Pastuch brought an application seeking to compel the FCAA to produce documents. The Court of Queen’s Bench for Saskatchewan found that the FCAA had met its disclosure obligations and that the documents that Ms. Pastuch sought were not in the FCAA’s possession. In doing so, the Court essentially re-weighed the evidence presented in the Regulatory Proceeding. The Court concluded that “. . . there is no evidence of any financial documents in the possession or control of the FCAA that it has not already disclosed in earlier proceedings or in the disclosure provided to the accused in this application.” [14]
+[24] In 2019, the Court found Ms. Pastuch guilty of all charges. [15] She was sentenced to seven years and three months of imprisonment. The Court also imposed a restitution order in the amount of $5,523,507.
+[25] Ms. Pastuch has appealed her conviction to the Court of Appeal for Saskatchewan. The appeal has not yet concluded. I will refer to the criminal trial and appeal as the “Criminal Proceedings”.
+Seeking the same documents
+[26] The documents that Ms. Pastuch is seeking on this motion are essentially identical to those she sought in the Criminal Proceedings. [16]
+[27] Ms. Pastuch also appears to have sought all of the Requested Documents at one point or another in the Regulatory Proceedings. [17] To the extent that Ms. Pastuch is seeking production of documents that were not requested in the Regulatory Proceedings, that does not, in my view, prevent the FCAA from arguing issue estoppel. At the core of the disclosure issue in the Regulatory Proceedings was the question of whether the FCAA had disclosed all of the documents in its possession to Ms. Pastuch. The hearing panel found that the FCAA had. That finding was upheld by the Court of Appeal. To the extent that Ms. Pastuch is requesting documents that she did not specifically refer to in the Regulatory Proceedings, she is nonetheless requesting production of documents that the Regulatory Proceedings have necessarily determined were not in the FCAA’s possession.
+Raising the same issue
+[28] The FCAA submits that each time it has been pulled into Ms. Pastuch’s affairs, it has been forced to litigate the same issue. I agree in respect of all of the Requested Documents other than the Witness Notes.
+[29] The question of whether the FCAA had the Inventory Log, the Credit Card Documents, the Business Records or the Accountant Emails in its possession has been raised repeatedly by Ms. Pastuch. In the prior proceedings, both Ms. Pastuch and the FCAA had the opportunity to present evidence and argument specifically addressing that issue. The respective adjudicative bodies provided reasoned decisions for their rulings. They were satisfied that the FCAA did not have those documents. [18] The issue could not be said to have been either collateral or incidental to the proceedings.
+[30] I do not, however, agree that the issue in respect of the Witness Notes is the same issue. In both the Regulatory Proceedings and the Criminal Proceedings, the issue was not whether the Witness Notes existed, but rather whether it was appropriate to order their disclosure. In the Regulatory Proceedings, the hearing panel found that the FCAA did not need to disclose the Witness Notes so long as the investigator was not going to rely on those notes while on the witness stand. The Court of Appeal upheld that decision. [19] In the Criminal Proceedings, the Court of Queen’s Bench refused to order the disclosure of the Witness Notes on the basis that Ms. Pastuch had failed to prove the relevance of those notes. The Court concluded that she appeared to be engaged in a fishing expedition. [20]
+[31] Documents that are not relevant in one proceeding may be relevant in another proceeding. The question of relevance is determined based on the underlying issues in the proceeding.
+[32] The underlying issues in the Regulatory Proceedings and the Criminal Proceedings are different than the underlying issue in Ms. Pastuch’s appeal to this Court. The Minister reassessed Ms. Pastuch on the basis that she received shareholder benefits from the Companies. The question the trial judge will have to determine is whether Ms. Pastuch received those alleged benefits, not whether the Companies obtained the funds that they allegedly used to pay those benefits through fraudulent means or breaches of the Securities Act.
+[33] Because the underlying issues are different, the relevance of the Witness Notes to Ms. Pastuch’s appeal has not previously been determined. Therefore, I cannot conclude that the issue Ms. Pastuch is raising in this motion in respect of the Witness Notes is the same issue that was previously litigated.
+Conclusion
+[34] On the basis of all of the foregoing, I find that the first test for issue estoppel is met in respect of all of the Requested Documents other than the Witness Notes. Ms. Pastuch’s motion raises the same issue that she repeatedly raised in the Regulatory Proceedings and the Criminal Proceedings. In each proceeding she has sought production of documents that the FCAA says it does not have. Having failed time and time again to achieve the result she wants, she is simply hoping for a different outcome in a different court.
+B. Finality
+[35] The requirement that the prior proceedings must be final is met in the Regulatory Proceedings but not the Criminal Proceedings. The Regulatory Proceedings are final in nature. The Criminal Proceedings are not yet final. Ms. Pastuch’s appeal to the Court of Appeal for Saskatchewan has not yet been resolved.
+C. Same Parties
+[36] The requirement that the parties must be the same is met. The FCAA and Ms. Pastuch were both parties to the Regulatory Proceedings. The only other parties were the Companies. The FCAA was the respondent in the application for production brought by Ms. Pastuch in the Criminal Proceedings.
+D. Conclusion
+[37] On the basis of all of the foregoing, I find that the requirements of issue estoppel are met in respect of all of the Requested Documents other than the Witness Notes. This motion is nothing more than an attempt by Ms. Pastuch to re-argue the same issue that she raised against the FCAA in the Regulatory Proceedings in the hope that I will receive her arguments or weigh her evidence in a manner more favourable to her than the hearing panel, the appeal management judge and the Court of Appeal did. This is exactly the type of situation that issue estoppel is intended to prevent.
+[38] On the basis of all of the foregoing, I dismiss the motion in respect of all of the documents other than the Witness Notes. The FCAA should not have to defend against Ms. Pastuch’s claims yet again.
+E. Exercise of Discretion
+[39] Courts have the discretion to refuse to apply issue estoppel if the circumstances are such that its application would result in an injustice. [21] I find that there is no reason for me to exercise my residual discretion in this motion.
+Relying on the same evidence
+[40] Fresh, new evidence that was previously unavailable and that conclusively impeaches the result of the prior proceedings may be a ground to exercise the Court’s discretion to decline to apply issue estoppel. [22]
+[41] Ms. Pastuch has presented no fresh, new evidence that is relevant to this motion. Ms. Pastuch’s argument is based almost exclusively on transcripts of the Regulatory Proceedings, transcripts of the Criminal Proceedings, submissions filed in those proceedings, the decisions of the adjudicative bodies in those proceedings and evidence filed at those proceedings.
+[42] Ms. Pastuch filed an affidavit sworn by a former executive of some of the Companies named Brian Pederson. Mr. Pederson’s affidavit contains a great deal of information that would be relevant if I were trying to determine whether Ms. Pastuch received any shareholder benefits. That information may be relevant at Ms. Pastuch’s trial but it is not relevant to this motion. Even if it were relevant, it is not new. The evidence was not previously unavailable. Ms. Pastuch had the opportunity to have Mr. Pederson provide evidence during the prior proceedings. Allowing a party to avoid issue estoppel on the basis that the party did not introduce the evidence the party should have introduced and was able to introduce in prior proceedings would defeat the purpose of the doctrine. It would simply lead to endless re-litigation with successive attempts to bolster one’s case through additional evidence.
+[43] The remaining evidence that Mr. Pederson provides consists of hearsay and facts that are neither relevant nor previously unavailable. Mr. Pederson repeats information that Ms. Pastuch has told him about her dealings with the FCAA. He also provides evidence that indicates that the Business Records and the Accountant Emails existed and would have been in the possession of Ms. Pastuch and/or her accountant at some point. This evidence is not relevant to the issue in this motion. The issue in this motion (as was the case in the prior proceedings) is not whether the documents once existed. It is whether the FCAA has them.
+[44] Ms. Pastuch also filed an affidavit sworn by Rose Pastuch. I believe that Rose Pastuch is Ms. Pastuch’s mother. Rose Pastuch’s affidavit does not add anything new. There is also no indication that Rose Pastuch could not have presented this evidence during the Regulatory Proceedings or the Criminal Proceedings.
+[45] In summary, Ms. Pastuch does not appear to offer any relevant evidence that was not before the adjudicative bodies in the earlier proceedings or could not have been put before those bodies. Rather, she focuses her submissions on an analysis of the evidence that existed in the prior proceedings. She is simply asking me to reconsider or re-weigh select parts of the evidence from those proceedings and to reach a different conclusion.
+Allegations of fraud
+[46] It may also be appropriate for a court to exercise its discretion to refuse to apply issue estoppel if the prior proceeding was tainted by fraud or dishonesty. [23]
+[47] Ms. Pastuch says that issue estoppel should not apply in her situation because the FCAA has “consistently made fraudulent statements to the courts of which all courts relied on said statements to determine their decisions.” [24] There is no merit to this position. I note that Ms. Pastuch made similar allegations in her attempt to have the Court of Appeal re-hear her appeal in the Regulatory Proceedings. [25]
+[48] Ms. Pastuch offers no evidence whatsoever to support these serious accusations. Her logic is simply this. She believes that the FCAA has the documents that she wants. Representatives of the FCAA have testified in the Regulatory Proceedings and the Criminal Proceedings that the FCAA does not have these documents. Because this testimony is contrary to Ms. Pastuch’s belief, she concludes that the witnesses have been lying with the goal of misleading the relevant adjudicative body and therefore that the rulings in the prior proceedings must have been obtained by fraud.
+[49] Ms. Pastuch is, in essence, asking me to re-weigh the evidence from the prior proceedings, reach a different finding and therefore conclude that there was fraud. This is not a request to refuse to apply issue estoppel on the basis that fraud exists, it is a request to ignore issue estoppel in the hopes that I might reach a different conclusion on the evidence.
+II. Relevance of the Witness Notes
+[50] Section 86 allows a party to seek production of a document if the “document is in the possession of a person not a party to the appeal and the production of such document at a hearing might be compelled”. So what documents might be compelled at a hearing? Section 141 allows a party to serve a subpoena on a witness compelling the witness to produce documents “relevant to the matters in question in the appeal”. This indicates that the power to seek production under section 86 is limited to documents which would be considered relevant at trial. It is not sufficient for a party to say that the evidence from the witness or document might be material. Rather, the party has to establish that the evidence is likely to be material. [26]
+[51] The FCAA did not question whether the Witness Notes are relevant to Ms. Pastuch’s appeal. It is not up to the FCAA to do so. The FCAA had nothing to do with the reassessments. It has no idea whether the Witness Notes are relevant to the issues before this Court or not.
+[52] The burden is on Ms. Pastuch to show why the Witness Notes are relevant to her appeal. She has not done so. She has not named the witnesses in respect of whom the notes were taken. She has not described the information that she believes those witnesses would have provided. Most importantly, she has not explained how that information would be relevant to her appeal.
+[53] As set out above, the issues in Ms. Pastuch’s appeal relate to benefits that she allegedly received from the Companies. Although Ms. Pastuch has not explained who the witnesses are, my understanding is that they are people who invested in the Companies. It is unclear to me what information these witnesses would have regarding the benefits that the Minister alleges Ms. Pastuch received. It seems very unlikely to me that investors would have personal knowledge of what the Companies did with the money that they invested. The investors may know what Ms. Pastuch promised the Companies would do with the money or what she said the Companies had done with the money, but I doubt that they would have first-hand knowledge of what the Companies actually did with the money. It seems far more likely to me that the investors would have told the FCAA why they invested their money and how they lost it.
+[54] Although Ms. Pastuch did not attend much of the Regulatory Proceedings and thus did not hear the testimony of the witnesses first-hand, she can read the transcript. If she thinks that the testimony of any of the witnesses is relevant to her appeal, she can call them as witnesses at her own trial.
+[55] Ultimately, it appears to me that Ms. Pastuch is engaged in a fishing expedition. She is seeking notes made in respect of unnamed individuals containing unspecified information of unexplained relevance. More importantly, it appears that the goal of that fishing expedition has nothing to do with defending her appeal and everything to do with bolstering her criminal case. The purpose of allowing a party to compel documents from a third party is not to allow a party to engage in a fishing expedition.
+[56] On the basis of all of the foregoing, I find that Ms. Pastuch has failed to show why I should order the production of the Witness Notes. Accordingly, I dismiss the motion in respect of the Witness Notes.
+III. Abuse of Process and Collateral Attack
+[57] Having found that this motion should be dismissed, there is no need for me to consider the FCAA’s arguments on abuse of process and collateral attack.
+IV. Accommodations
+[58] There is one remaining matter that I should briefly address. Ms. Pastuch’s submissions and affidavits on this motion contained a number of references to various mental health challenges that she says she faces and various accommodations that she therefore says need to be provided.
+[59] I treated some of Ms. Pastuch’s requests for accommodation as a request under section 69 of the Tax Court of Canada Rules (General Procedure) to have this motion determined upon consideration of written submissions. The FCAA and Her Majesty had no objection to that request, so I agreed to have this motion determined in that manner.
+[60] Ms. Pastuch should not assume that my willingness to determine this motion based on written submission in any way indicates that she should expect similar treatment from either myself or the trial judge in the future.
+[61] I can see nothing else in Ms. Pastuch’s requests for accommodation that relate specifically to this motion. Accordingly, I see no reason to deal with them at this point or in this public forum. I will address Ms. Pastuch’s requests as the need arises. It appears to me that most of her requests will have to be addressed by the trial judge once this appeal progresses to that stage.
+V. Costs
+[62] I will award costs to the FCAA. As the FCAA has no further involvement in this appeal, the costs shall be payable forthwith.
+[63] The parties shall have until April 18, 2022 to reach an agreement on costs, failing which the FCAA shall have until April 28, 2022 to serve and file written submissions on costs and Ms. Pastuch shall have until May 8, 2022 to serve and file a written response. Any such submissions shall not exceed 10 pages in length. I will not consider any submissions that are filed late.
+[64] If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, costs shall be awarded to the FCAA as set out in the Tariff.
+[65] I note that the FCAA has already made detailed submissions on costs. If the parties are unable to reach an agreement, all that I require from the FCAA in terms of additional submissions is a statement of the amount of costs that it is seeking and an explanation of how it calculated that figure.
+[66] In attempting to reach an agreement, the FCAA and Ms. Pastuch may wish to bear in mind the following:
+(a) My impression is that this motion was unnecessarily delayed by Ms. Pastuch’s consistent failure to meet filing deadlines. Unless Ms. Pastuch is able to convince me that my impression is wrong, any decision that I am required to issue in respect of costs will reflect that view.
+(b) Ms. Pastuch has made totally unsupported allegations that several employees or former employees of the FCAA have committed fraud against several adjudicative bodies. This Court has historically awarded higher costs where a party has, without any proof, made such allegations. [27]
+(c) Ms. Pastuch is self-represented. Normally, that would make me less inclined to award significant costs. However, despite being a lay litigant, my impression is that Ms. Pastuch is clearly aware of the doctrine of issue estoppel. Well before the FCAA raised the issue in any serious way, she devoted two pages of her written submissions to explaining why she felt that the doctrine did not apply in her case. [28] Whether she fully understood the doctrine or not, this the fourth adjudicative body before which Ms. Pastuch has raised this same issue. She simply refuses to accept the outcome. In the circumstances, my initial thought is that she should reasonably expect to have to bear costs that are closer to the actual costs of the other side than to the Tariff. It seems to me that even a lay litigant would understand that obstinacy comes at a price. Unless Ms. Pastuch is able to convince me that my impression is wrong, any decision that I am required to issue in respect of costs will reflect that view.
+Signed at Ottawa, Canada, this 16th day of March 2022.
+“David E. Graham”
+Graham J.
+CITATION:
+2022 TCC 36
+COURT FILE NO.:
+2013-2646(IT)G
+STYLE OF CAUSE:
+ALENA PASTUCH v. FINANCIAL AND CONSUMER AFFAIRS AUTHORITY OF SASKATCHEWAN AND HER MAJESTY THE QUEEN
+DATE OF HEARING:
+Motion determined by written submissions
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+March 16, 2022
+PARTICIPANTS:
+For the Appellant (Applicant):
+The Appellant (Applicant) herself
+Counsel for the (Respondent), Financial and Consumer Affairs Authority of Saskatchewan:
+Lauren J. Wihak
+Counsel for the Respondent, Her Majesty the Queen:
+Anne Jinnouchi
+COUNSEL OF RECORD:
+For the Appellant (Applicant):
+Name:
+BLANK
+Firm:
+BLANK
+For the (Respondent), Financial and Consumer Affairs Authority of Saskatchewan:
+Lauren J. Wihak
+McDougall Gauley LLP
+Regina, Saskatchewan
+For the Respondent, Her Majesty the Queen:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Chapter S-42.2, 1988-89 (as amended).
+[2] This is not to be confused with Appendix “A” to the Notice of Motion. That Appendix “A” listed the documents that Ms. Pastuch was originally seeking. Ms. Pastuch is now only seeking the documents from the Appendix “A” from August 2021.
+[3] 2022 TCC 26, at para. 20-28.
+[4] Affidavit of Dean Murrison dated October 28, 2021 (the “Murrison Affidavit”), Exhibit A, page 9.
+[5] Murrison Affidavit, Exhibit B, page 4.
+[6] 101115379 Saskatchewan Ltd. et al. v. Financial and Consumer Affairs Authority, 2019 SKCA 31, at paras. 7 to 10.
+[7] Murrison Affidavit, Exhibit C, para. 84.
+[8] 101115379 Saskatchewan, at para. 1.
+[9] 101115379 Saskatchewan, at para. 116.
+[10] 101115379 Saskatchewan, at para. 118.
+[11] 101115379 Saskatchewan, at para. 118.
+[12] 101115379 Saskatchewan Ltd. et. al. v. Financial and Consumer Affairs Authority, 2019 SKCA 50, at para. 4.
+[13] A complete list of the occasions on which Ms. Pastuch raised the disclosure issue before the hearing panel can be found in 101115379 Saskatchewan, at paras. 84 to 92.
+[14] Murrison Affidavit, Exhibit E, page T14, lines 1-4.
+[15] 2019 SKQB 156. The convictions for money laundering and theft were stayed on the grounds that Ms. Pastuch should not be punished more than once for the same offence.
+[16] Murrison Affidavit, Exhibit E, page T1, lines 29 to 37.
+[17] Murrison Affidavit, Exhibit A, pages 4, 5 and 8, and Exhibit B, page 4 and 101115379 Saskatchewan, at paras. 81(b), 81(f), 116 and 119.
+[18] Murrison Affidavit, Exhibit B, page 4, Exhibit E, page T7, lines 15 to 19, page T9, lines 5 to 9, page T12, lines 3 to 7, and page T14, lines 1 to 4. 101115379 Saskatchewan, at para. 112.
+[19] 101115379 Saskatchewan, at paras. 119 to 121.
+[20] Murrison Affidavit, Exhibit E, page T13, lines 9 to 17 and 20 to 24.
+[21] Danyluk v. Ainsworth Technologies Inc., 2001 SCC 44, at para. 33.
+[22] Toronto (City) v. C.U.P.E., Local 79, 2003 SCC 63, at para. 52.
+[23] Toronto (City) v. C.U.P.E., Local 79, 2003 SCC 63, at para. 52.
+[24] Ms. Pastuch's Written Reply to FCAA Brief of Law, filed December 21, 2021, at para. 4(h).
+[25] 2019 SKCA 50, at para. 4.
+[26] R. v. Harris, [1994] O.J. No. 1875 (Ont. C.A.). Applied in the context of section 141 in Obonsawin v. The Queen, 2009 TCC 485.
+[27] See Nicholls v. The Queen, 2011 TCC 279, at para. 28 and Davies v. The Queen, 2016 TCC 104, at para. 26.
+[28] Written Submission Requesting Submission of Appendix A Records from FCAA, filed August 12, 2021, at pages 33 and 34.

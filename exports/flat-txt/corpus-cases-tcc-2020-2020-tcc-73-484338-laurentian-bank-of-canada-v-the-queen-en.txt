@@ -1,0 +1,466 @@
+Title: Laurentian Bank of Canada v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/484338/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-73-484338-laurentian-bank-of-canada-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-08-21
+
+# Laurentian Bank of Canada v. The Queen
+
+- Citation: 2020 TCC 73
+- Decision date: 2020-08-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4553, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Laurentian Bank of Canada v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-08-21
+Neutral citation
+2020 TCC 73
+File numbers
+2016-4706(IT)G
+Judges and Taxing Officers
+Sylvain Ouimet
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-4706(IT)G
+BETWEEN:
+LAURENTIAN BANK OF CANADA
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on April 5 and 8, 2019, at Montreal, Quebec.
+Before: The Honourable Justice Sylvain Ouimet
+Appearances:
+Counsel for the appellant:
+Wilfrid Lefebvre
+Jonathan Lafrance
+Counsel for the respondent:
+Michel Lamarre
+JUDGMENT
+The appeal from the assessments made pursuant to the Income Tax Act for the 2012, 2013 and 2014 taxation years is allowed, with costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 21st day of August 2020.
+"Sylvain Ouimet"
+Ouimet, J.
+Translation certified true
+on this 17th day of March 2021.
+François Brunet, Revisor
+Citation: 2020 TCC 73
+Date: 20200821
+Docket: 2016-4706(IT)G
+BETWEEN:
+LAURENTIAN BANK OF CANADA
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Ouimet, J.
+I. INTRODUCTION
+[1] Laurentian Bank of Canada (Laurentian Bank) is appealing from three assessments made on January 7, 2016, by the Minister of National Revenue (the Minister) [1] . These assessments are for the Laurentian Bank taxation years ending October 31, 2012, 2013 and 2014 (years at issue) [2] . By making these assessments, the Minister denied the Laurentian Bank deductions of $960,000 in the computation of its income for each year at issue [3] . These deductions were claimed pursuant to paragraph 20(1)(e) of the Income Tax Act (ITA) and relate to transaction fee payments made by Laurentian Bank under share subscription agreements.
+[2] For each year at issue, the deductions claimed represented twenty percent (20%) of a total amount of $4,800,000, i.e. the total transaction fees paid by Laurentian Bank to Caisse de dépôt et placement du Québec (CDPQ) and the Fonds de solidarité des travailleurs du Québec (FSTQ) under share subscription agreements dated June 6, 2012 (subscription agreements) [4] . In accordance with the subscription agreements, Laurentian Bank paid fees of $3,999,999.56 to CDPQ and $799,999.56 to the FSTQ [5] . Pursuant to subparagraph 20(1)(e)(iii) of the ITA, the amount deductible from a taxpayer's income for expenses incurred in the course of an issuance of shares is limited to 20% per taxation year.
+[3] The Minister denied the deductions claimed by Laurentian Bank on the ground that the transaction fees paid under the subscription agreements could not be qualified as "expenses incurred" in the course of an issuance of shares within the meaning of paragraph 20(1)(e) of the ITA for the following reasons:
+1- CDPQ and the FSTQ did not render services to Laurentian Bank in return for the transaction fees they received [6] .
+2- CDPQ and the FSTQ did not act as salespersons, agents or dealers in securities for Laurentian Bank [7] .
+3- The amounts of $3,999,999.56 and $799,999.56 that Laurentian Bank paid CDPQ and the FSTQ, respectively, were in fact discounts granted by Laurentian Bank on the subscription price of its shares [8] .
+[4] In the alternative, the respondent argued that the deductions claimed by Laurentian Bank should be denied for the following reason:
+The transaction fees of $3,999,999.56 and $799,999.56 were unreasonable in the circumstances. Consequently, pursuant to section 67 of the ITA [9] , these sums could not be deducted in computing Laurentian Bank's income.
+[5] The following persons testified on behalf of the appellant at the hearing:
+- Stéphane Lanthier, Vice President, Taxation at Laurentian Bank.
+- FrançoisBoudreault, Vice-President, Private Equity, North America and Latin America at CDPQ.
+[6] The respondent did not call any witnesses to the hearing.
+II. ISSUE
+[7] The issue is as follows:
+Did the Minister correctly denied a $960,000 deduction in the computation of Laurentian Bank's income for each year at issue?
+[8] In order to answer this question, the Court will have to answer the following four questions:
+a) Did Laurentian Bank incur expenses of $3,999,999.56 and $799,999.56?
+b) Were these expenses incurred in the course of the issuance of shares?
+d) Were the transaction fees of $799,999.56 that Laurentian Bank paid the FSTQ reasonable in the circumstances?
+c) Were the transaction fees of $3,999,999.56 that Laurentian Bank paid CDPQ reasonable in the circumstances?
+III. RELEVANT STATUTORY PROVISIONS
+[9] The relevant statutory provisions are as follows:
+Income Tax Act, R.S.C., 1985, c. 1 (5th Supp).
+PART I - Income Tax
+DIVISION B - Computation of Income
+SUBDIVISION B - Income or Loss from a Business or Property
+Income
+9(1) Subject to this Part, a taxpayer's income for a taxation year from a business or property is the taxpayer's profit from that business or property for the year.
+. . .
+Deductions
+General limitations
+18(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+. . .
+Capital outlay or loss
+(b) an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part;
+. . .
+Deductions permitted in computing income from business or property
+20(1) Notwithstanding paragraphs 18(1)(a), 18(1)(b) and 18(1)(h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such [part] of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+. . .
+Expenses re financing
+(e) such part of an amount (other than an excluded amount) that is not otherwise deductible in computing the income of the taxpayer and that is an expense incurred in the year or a preceding taxation year
+(i) in the course of an issuance or sale of units of the taxpayer where the taxpayer is a unit trust, of interests in a partnership or syndicate by the partnership or syndicate, as the case may be, or of shares of the capital stock of the taxpayer,
+. . .
+(including a commission, fee, or other amount paid or payable for or on account of services rendered by a person as a salesperson, agent or dealer in securities in the course of the issuance, sale or borrowing) that is the lesser of:
+(iii) that proportion of 20% of the expense that the number of days in the year is of 365 and
+(iv) the amount, if any, by which the expense exceeds the total of all amounts deductible by the taxpayer in respect of the expense in computing the taxpayer's income for a preceding taxation year
+and for the purposes of this paragraph,
+(iv.1) excluded amount means
+(A) an amount paid or payable as or on account of the principal amount of a debt obligation or interest in respect of a debt obligation,
+(B) an amount that is contingent or dependent on the use of, or production from, property, or
+(C) an amount that is computed by reference to revenue, profit, cash flow, commodity price or any other similar criterion or by reference to dividends paid or payable to shareholders of any class of shares of the capital stock of a corporation,
+. . .
+SUBDIVISION F - Rules Relating to Computation of Income
+General limitation re expenses
+67 In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+Interpretation Act, R.S.C., 1985, c. I-21.
+Rules of Construction
+Property and Civil Rights
+Duality of legal traditions and application of provincial law
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province's rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+Civil Code of Québec, CQLR, c. CCQ-1991
+BOOK FIVE – OBLIGATIONS
+TITLE ONE – OBLIGATIONS IN GENERAL
+CHAPTER II – CONTRACTS
+DIVISION IV – INTERPRETATION OF CONTRACTS
+1425. The common intention of the parties rather than adherence to the literal meaning of the words shall be sought in interpreting a contract.
+1426. In interpreting a contract, the nature of the contract, the circumstances in which it was formed, the interpretation which has already been given to it by the parties or which it may have received, and usage, are all taken into account.
+1427. Each clause of a contract is interpreted in light of the others so that each is given the meaning derived from the contract as a whole.
+1428. A clause is given a meaning that gives it some effect rather than one that gives it no effect.
+1429. Words susceptible of two meanings shall be given the meaning that best conforms to the subject matter of the contract.
+1430. A clause intended to eliminate doubt as to the application of the contract to a specific situation does not restrict the scope of a contract otherwise expressed in general terms.
+1431. The clauses of a contract cover only what it appears that the parties intended to include, however general the terms used.
+1432. In case of doubt, a contract is interpreted in favour of the person who contracted the obligation and against the person who stipulated it. In all cases, it is interpreted in favour of the adhering party or the consumer.
+BOOK SEVEN – EVIDENCE
+TITLE TWO – MEANS OF PROOF
+CHAPTER II – TESTIMONY
+2843. Testimony is a statement whereby a person relates facts of which he has personal knowledge or whereby an expert gives his opinion.
+To make proof, testimony shall be given by deposition in a judicial proceeding unless otherwise agreed by the parties or provided by law.
+TITLE THREE – ADMISSIBILITY OF EVIDENCE AND MEANS OF PROOF
+CHAPTER II – MEANS OF PROOF
+2864. Proof by testimony is admissible to interpret a writing, to complete a clearly incomplete writing or to impugn the validity of the juridical act which the writing sets forth.
+CHAPTER III – CERTAIN STATEMENTS
+2869. . A statement made by a person who does not appear as a witness, concerning facts to which he could have legally testified, is admissible as testimony on application and after notice is given to the adverse party, provided the court authorizes it.
+Bank Act, S.C. 1991, c. 46.
+PART X – Capital, Liquidity and Capacity to Absorb Losses
+Adequacy of capital and liquidity
+485 (1) The Laurentian Bank shall, in relation to its operations, maintain (a) adequate capital, and (b) adequate and appropriate forms of liquidity, and shall comply with any regulations in relation thereto.
+Canada Evidence Act, R.S.C. 1985, c. C-5
+PART I
+Provincial Laws of Evidence
+How applicable
+40 In all proceedings over which Parliament has legislative authority, the laws of evidence in force in the province in which those proceedings are taken, including the laws of proof of service of any warrant, summons, subpoena or other document, subject to this Act and other Acts of Parliament, apply to those proceedings.
+IV. FACTS
+A. Background
+[10] Laurentian Bank is incorporated under the Bank Act [10] . In 2012, Laurentian Bank took steps to have one of its subsidiaries, B2B Trust, acquire a company called AGF Trust.
+[11] According to the testimonies at the hearing, before the transaction took place, Laurentian Bank knew that the acquisition of AGF Trust by B2B Trust would lower the level of its capital below the limits allowed under the Bank Act [11] . In anticipation of the acquisition of AGF Trust, Laurentian Bank therefore decided to issue common shares to increase the level of its capital [12] .
+[12] On June 1, 2012, CDPQ sent Laurentian Bank a letter of intent informing the bank that it was interested in subscribing for subscription receipts in connection with B2B Trust's acquisition of AGF Trust [13] . The letter indicated that CDPQ intended to complete a private placement of subscription receipts to raise $100,000,000 that would be used "to increase [Laurentian] Banks required regulatory capital" [14] . This transaction was conditional on the acquisition of AGF Trust by B2B Trust on terms acceptable to CDPQ [15] . The price of each subscription receipt was to be equal to the weighted average price of the common shares of Laurentian Bank trading on the Toronto Stock Exchange for the five-day market period ending on May 31, 2012 [16] . Laurentian Bank agreed to a two percent (2%) discount on this price [17] . The subscription receipts were to be converted into common shares of Laurentian Bank on the closing date of the transaction between B2B Trust and AGF Trust on the basis of one common share of Laurentian Bank for each subscription receipt [18] . The total amount of the subscription was to be deposited in trust by CDPQ on the date stipulated in the subscription agreement and kept in trust until the closing of the transaction, that is to say until B2B Trust acquired AGF Trust [19] .
+[13] Taking into account the two percent (2%) discount, CDPQ therefore announced its intention to purchase $100,000,000 of common shares of Laurentian Bank at a price of $41.85 per share [20] .
+[14] The subscription was conditional on negotiating and signing a subscription agreement. In particular, the agreement was to include provisions regarding certain conditions set out in the document entitled "Summary of terms and conditions" attached to the letter of intent. Pursuant to these conditions, CDPQ's subscription was conditional on Laurentian Bank's reimbursement of certain fees and expenses to be incurred by CDPQ in connection with the subscription. Laurentian Bank was to reimburse CDPQ for the reasonable fees and expenses of its legal advisers, up to a maximum of $100,000. Laurentian Bank was also required to pay CDPQ a transaction fee of four percent (4%) of the total amount of the subscription ($100,000,000), upon closure of the transaction [21] .
+[15] On June 4, 2012, the FSTQ sent Laurentian Bank a letter of intent informing Laurentian Bank that it was interested in subscribing for subscription receipts in connection with B2B Trust's acquisition of AGF Trust. The letter indicated that the FSTQ intended to complete a $20,000,000 private placement of subscription receipts, subject to the acquisition of AGF Trust by B2B Trust [22] . The price of each subscription receipt was to be equal to the weighted average price based on the volume of the common shares of Laurentian Bank trading on the Toronto Stock Exchange for the five‑day market period ending on May 31, 2012, with a two percent (2%) discount [23] . The subscription receipts were to be converted into common shares of Laurentian Bank on the closing date of the transaction between B2B Trust and AGF Trust, on the basis of one common share of Laurentian Bank for each subscription receipt [24] . The total amount of the subscription was to be deposited in trust by CDPQ on the date stipulated in the subscription agreement and kept in trust until the closing of the transaction [25] .
+[16] Taking into account the two percent (2%) discount, the FSTQ intended to purchase $20,000,000 of common shares of Laurentian Bank at a price of $41.85 per share [26] .
+[17] Similarly to CDPQ's case, the FSTQ's subscription was conditional on negotiating and signing a subscription agreement. In particular, the agreement was to include provisions regarding certain conditions set out in a document also entitled "Summary of terms and conditions" attached to the letter of intent. In its letter, the FSTQ expressly mentioned that it was aware of the $100,000,000 private placement of subscription receipts that CDPQ intended to complete and that, subject to certain terms and conditions described in the letter, it agreed to the same conditions of its possible subscription as those agreed upon with CDPQ [27] .
+[18] Pursuant to these conditions, the FSTQ's subscription was conditional on Laurentian Bank's reimbursement of certain fees and expenses to be incurred by the FSTQ in connection with the subscription. Laurentian Bank was to reimburse the FSTQ fifty percent (50%) of the reasonable fees and expenses of its legal advisers, up to a maximum of $30,000 [28] . Laurentian Bank was also required to pay the FSTQ a transaction fee of four percent (4%) of the total amount of the subscription ($20,000,000), upon closure of the transaction [29] .
+[19] On June 4, 2012, Laurentian Bank notified the Toronto Stock Exchange of the private placements, at a price of $41.85 for each subscription receipt, contemplated by CDPQ and the FSTQ [30] .
+[20] On June 6, 2012, a subscription agreement was signed between CDPQ and Laurentian Bank regarding CDPQ's subscription for 2,389,486 subscription receipts at a unit price of $41.85, for a total of $99,999,989.10 [31] . On the same day, a subscription agreement was signed between the FSTQ and Laurentian Bank regarding the FSTQ's subscription for 477,897 subscription receipts at a unit price of $41.85, for a total of $19,999,989.45 [32] .
+[21] Also on June 6, 2012, B2B Trust entered into a share purchase agreement with AGF Management Limited regarding the acquisition of all the issued and outstanding shares of AGF Trust [33] .
+[22] On June 12, 2012, Laurentian Bank entered into a subscription receipt agreement with CDPQ and Computershare Trust Company of Canada (Computershare Company). Computershare Company was to act as registrar and transfer agent of the subscription receipts. It was also to act as escrow agent and custodian of all funds to be held in escrow and agent on behalf of the subscription receipt holders and Laurentian Bank [34] . On the same day, Laurentian Bank entered into a subscription receipt agreement with the FSTQ and Computershare Company for the same purposes [35] .
+[23] On August 1, 2012, B2B Trust acquired the shares of AGF Trust [36] .
+[24] Also on August 1, 2012, upon closure of the transaction involving the purchase of AGF Trust by B2B Trust, and as stipulated in the subscription agreements and subscription receipt agreements, Laurentian Bank issued 2,389 486 common shares to CDPQ and 477,897 common shares to the FSTQ at a price of $41.85 per share [37] . On the same day, Laurentian Bank made bank transfers of $3,999,999.56 and $799,999.56 to pay CDPQ and the FSTQ, respectively, for the transaction fees [38] .
+B. Testimony
+1. Stéphane Lanthier
+[25] Mr. Lanthier holds a master's degree in taxation from the École des hautes études commerciales de Montréal and is a chartered professional accountant (CPA). He served as Vice President, Taxation, at Laurentian Bank during the years at issue and still holds the same position. During the years at issue, Mr. Lanthier's team was responsible for preparing Laurentian Bank's tax returns, under his supervision, and he was the signatory.
+[26] Mr. Lanthier testified that as a result of B2B Trust's acquisition of AGF Trust, the Laurentian Bank's level of capital would have dropped below the minimum threshold required under the Bank Act [39] . Consequently, Laurentian Bank had to find the capital required to fund this acquisition. Since Laurentian Bank had recently completed a public issuance of shares, the bank's treasury department found that it was best not to make another public issuance of shares. The department decided to issue common shares, but to put them on the market as a "private placement."
+[27] According to the explanations provided by Mr. Lanthier, a private placement like the one made by CDPQ is an investment made by acquiring shares privately, rather than as part of a public offering [40] . Mr. Lanthier provided the Court with an explanation of the difference between a situation where shares are issued for sale to the public through an "underwriter", for example a group of banks, and a situation where the shares are issued for sale directly to the investor as part of a private placement. According to him, there is a difference in the level of risk incurred by the underwriter because, theoretically, it undertakes to buy the shares with the aim of reselling them. However, as a practical matter, the risk is low because the underwriter has normally ensured that it has buyers before it commits to buying the shares [41] .
+[28] When counsel for the appellant asked Mr. Lanthier about the two percent (2%) discount that Laurentian Bank granted to CDPQ and the FSTQ, he first indicated that it was a market practice. Mr. Lanthier also said the purpose of offering a discount was to attract an investor because the discount was not available to those buying stocks on the secondary market. Mr. Lanthier explained that a discount reduces the risk incurred by the buyer in the event of a decrease in the share price between the time the subscription agreement is signed and the time the subscription receipts are converted into shares [42] . Regarding the percentage of the discount, Mr. Lanthier said a discount greater than two percent (2%) can be offered, but that would have an adverse effect on the market. Mr. Lanthier also explained that as a company listed on the Toronto Stock Exchange, Laurentian Bank had to comply with certain rules regarding the maximum discount it could grant, and that offering a discount exceeding fifteen percent (15%), for example, could be problematic [43] .
+[29] Mr. Lanthier was then asked about the transaction fees. He said it "made sense" for Laurentian Bank "to pay fees to secure the necessary financing and capital." He said the acquisition of Laurentian Bank shares by CDPQ and the FSTQ made sense because it sent a strong positive message to the market regarding the acquisition of AGF Trust since these share investments are made after due diligence has been conducted. This due diligence sends a message to the public that this is a good acquisition. Mr. Lanthier qualified this as goodwill and added value that went beyond simply raising capital. In addition, according to him, a "private placement" was advantageous for Laurentian Bank because it did not have to issue a prospectus and because the due diligence process was faster [44] .
+[30] Mr. Lanthier confirmed that the transaction fees were paid on the closing date of the transaction. A bank transfer was made to the CDPQ's account at the Royal Bank. Because the FSTQ was a Laurentian Bank client, the fees were deposited directly into its account at Laurentian Bank. According to Mr. Lanthier, the share subscription payment and the transaction fee payment were two separate transactions. First, Laurentian Bank received the proceeds from the issuance of common shares, and then it paid the transaction fees by bank transfers [45] .
+[31] Regarding the accounting treatment of the transaction fees, Mr. Lanthier said he followed the applicable accounting rules. Laurentian Bank therefore reduced its common equity by the amount of the transaction fees. According to Mr. Lanthier, the fees were to be deducted from the common shares item. Therefore, they were not on the income statement because they had to be posted on the balance sheet as a reduction of equity. Mr. Lanthier confirmed that the transaction fees were treated as a capital expense by Laurentian Bank and that this was the same accounting treatment it would have received if the fees had been paid to an "underwriter" [46] .
+[32] Finally, during cross-examination, Mr. Lanthier was asked about the source of his knowledge regarding the share price discount rates and the transaction fee rate normally granted for this type of transaction. Mr. Lanthier first said he had not participated in the subscription agreement negotiations. He said he had obtained the information from Michel Lauzon, Laurentian Bank's chief financial officer (CFO), and from the staff working in the treasury department. He obtained this information for the purpose of preparing for his testimony at this hearing. Therefore, his knowledge of the rates normally agreed upon for this type of transaction did not come from knowledge acquired personally by Mr. Lanthier, but from conversations with the aforementioned persons [47] . When cross-examined on the transaction fees paid to CDPQ, Mr. Lanthier said they were discussed during a phone conversation with colleagues. Also during cross-examination, an undertaking made during Mr. Lanthier's examination for discovery was entered into evidence. This undertaking indicated that, unlike the transactions with CDPQ and the FSTQ, in the case of a recent transaction with an "underwriter", the costs and disbursements were the responsibility of the "underwriter" while the transaction fees were the same, i.e. four percent (4%) [48] .
+[33] CDPQ and the FSTQ expressed their respective interest in such investments. According to Mr. Lanthier, the FSTQ demanded and obtained the same conditions as those granted to CDPQ, with one exception.
+2. François Boudreault
+[34] In 2012, Mr. Boudreault held the position of Director, Investments at CDPQ. Mr. Boudreault's duties included being responsible for CDPQ's investments in the financial sectors in Quebec, the United States and Europe. When this appeal was heard, Mr. Boudreault was responsible for CDPQ's "direct investments" in North America and Latin America. Mr. Boudreault holds a master's degree with a specialization in finance from École des hautes études commerciales de Montréal. He is also a chartered financial analyst (CFA).
+[35] Mr. Boudreault testified that Laurentian Bank contacted CDPQ regarding B2B Trust's acquisition of AGF Trust in order to secure financing for this acquisition [49] . CDPQ viewed its participation in the financing of this acquisition as an investment. Mr. Boudreault was in charge of the team that performed the analysis required for this type of investment, and he participated in the negotiations leading to the signing of the subscription agreement with CDPQ [50] . He is the one who signed the agreement on behalf of CDPQ. Mr. Lauzon represented Laurentian Bank during these negotiations.
+[36] Mr. Boudreault explained that after Laurentian Bank contacted CDPQ, CDPQ sent Laurentian Bank a letter of interest indicating that it was interested in granting $100,000,000 in financing [51] . The terms and conditions of a possible subscription agreement for Laurentian Bank shares were summarized in that letter. The parties had negotiated these conditions beforehand. The transaction fees, as well as the discount granted by Laurentian Bank, were negotiated. Mr. Boudreault explained that the starting point for negotiating the terms and conditions of the subscription agreement was the previous comparable transactions in which Laurentian Bank had participated [52] . More specifically, the terms and conditions of the external share issuances made by Laurentian Bank were analyzed. One of these issuances had been completed a few months earlier [53] . Laurentian Bank had agreed to a two percent (2%) discount for this issuance and paid transaction fees of four percent (4%). Mr. Boudreault explained that this information was public because it was available in prospectuses. Mr. Boudreault added that some brokers could also have this type of information. However, Mr. Boudreault did not specify whether brokers had been contacted in order to obtain such information in this case.
+[37] Mr. Boudreault also said he considered a two percent (2%) discount reasonable when shares of a public company are issued to secure public or private financing. According to him, issuers usually grant a two percent (2%) discount rate in these cases.
+[38] Mr. Boudreault said the four percent (4%) transaction fee rate was negotiated based on his team's analysis of comparable transactions. Transaction fees typically paid to secure $100,000,000 financing deals were considered, including financing deals made through share issuances. According to Mr. Boudreault, transaction fees are costs [TRANSLATION] "to secure financing on the market", i.e. financing costs [54] . On cross-examination, he added that CDPQ offered Laurentian Bank financing services that included certain [TRANSLATION] "very valuable" features. Mr. Boudreault said that CDPQ's purchase of the Laurentian Bank shares for its own account ensured that the transaction would be completed. It offered a private placement, which is faster and less expensive than financing provided by an underwriter. In addition, this type of financing from CDPQ could send a positive signal to the market because, following the acquisition of AGF Trust, CDPQ became Laurentian Bank's largest shareholder [55] .
+[39] On cross-examination, Mr. Boudreault also confirmed that when comparable transactions were analyzed, the fact that CDPQ is exempt from taxation and therefore does not pay taxes on receivable transaction fees was not taken into account when the fee rate was negotiated. Mr. Boudreault was unable to confirm whether the transactions that his team considered comparable included transactions with underwriters. Mr. Boudreault was also unable to explain why Laurentian Bank had granted the same percentage of transaction fees to the FSTQ when the FSTQ invested a much smaller amount. CDPQ treated the fees as income from an accounting standpoint according to audits that Mr. Boudreault allegedly performed with his colleagues.
+V. ANALYSIS
+[40] According to paragraph 20(1)(e) and subparagraph 20(1)(e)(i) of the ITA, such part of an amount (other than an excluded amount) that is not otherwise deductible in computing the income of the taxpayer and that is an expense incurred in the year or a preceding taxation year is deductible if the expense was incurred in the course of an issuance of shares of the capital stock of a taxpayer.
+[41] The relevant parts of paragraph 20(1)(e) of the ITA read as follows:
+Deductions permitted in computing income from business or property
+20(1) Notwithstanding paragraphs 18(1)(a), 18(1)(b) and 18(1)(h), in computing a taxpayer's income for a taxation year from a business or property, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto
+. . .
+Expenses re financing
+(e) such part of an amount (other than an excluded amount) that is not otherwise deductible in computing the income of the taxpayer and that is an expense incurred in the year or a preceding taxation year
+(i) in the course of an issuance or sale of units of the taxpayer where the taxpayer is a unit trust, of interests in a partnership or syndicate by the partnership or syndicate, as the case may be, or of shares of the capital stock of the taxpayer,
+. . .
+(including a commission, fee, or other amount paid or payable for or on account of services rendered by a person as a salesperson, agent or dealer in securities in the course of the issuance, sale or borrowing) that is the lesser of: . . .
+[42] Therefore, an expense incurred in the course of an issuance of shares of the capital stock of a taxpayer is deductible pursuant to paragraph 20(1)(e) of the ITA if the following requirements are met:
+1. An expense must have been incurred;
+2. The expense must have been incurred "in the course of" an issuance of shares of the capital stock of a taxpayer;
+3. The expense must have been incurred in the year or a preceding taxation year;
+4. The deduction claimed must not be an "excluded amount" within the meaning of subparagraph 20(1)(e)iv.1 of the ITA;
+5. The expense must not be deductible under any other provision of the ITA.
+[43] Only the first two requirements are at issue in this case.
+A. Did Laurentian Bank incur expenses of $3,999,999.56 and $799,999.56?
+[44] In order to obtain a deduction under paragraph 20(1)(e) of the ITA, an expense must have been incurred.
+[45] In The Queen v. Burns. [56] , the Federal Court of Appeal held that to incur an expense, the taxpayer must have been obliged to pay the amount of money. The Federal Court of Appeal stated as follows in this regard:
+In our opinion, an expense, within the meaning of paragraph 18(1)(a) of the Income Tax Act [R.S.C. 1952, c. 148, (amended by S.C. 1970-71-72, c. 63, section 1)] is an obligation to pay a sum of money. An expense cannot be said to be incurred by a taxpayer who is under no obligation to pay money to anyone. Contrary to what was decided by the Trial Judge, an obligation to do something which may in the future entail the necessity of paying money is not an expense. [57]
+[Emphasis added.]
+[46] The Court does not see any reason not to follow this reasoning with respect to paragraph 20(1)(e) of the ITA. Consequently, for an expense to be deductible pursuant to this provision, it is sufficient that there be an obligation to pay a sum of money.
+[47] The versions of clause 15 of the subscription agreements entered into among Laurentian Bank and CDPQ and the FSTQ are identical. They read as follows:
+[translation]
+FEES
+Laurentian Bank agrees to pay the Subscriber a transaction fee equivalent to 4% of the Subscription Price payable on the Closing date of the underlying Transaction. [58]
+[48] It is clear that pursuant to these clauses, Laurentian Bank was obliged to pay CDPQ and the FSTQ, transaction fees equivalent to four percent (4%) of the subscription price of the shares. In addition, the evidence indicated that Laurentian Bank paid CDPQ and the FSTQ amounts equivalent to this percentage on the closing date of the transaction, when B2B Trust purchased AGF Trust.
+[49] In the light of this evidence, the Court held that Laurentian Bank was obliged to pay CDPQ and the FSTQ, transaction fees equivalent to four percent (4%) of the subscription price of the shares. As a result, Laurentian Bank incurred transaction fee expenses equivalent to that percentage, i.e. $3,999,999.56 and $799,999.56.
+B. Were these expenses incurred in the course of the issuance of shares?
+1. Determination of the reason for which Laurentian Bank incurred expenses of $3,999,999.56 and $799,999.56
+[50] First, the Court must determine the reason for which Laurentian Bank incurred expenses of $3,999,999.56 and $799,999.56 since paragraph 20(1)(e) of the ITA only allows the deduction of an expense insofar as it was incurred "in the course" of an issuance of shares.
+[51] As previously mentioned, according to the evidence presented at the hearing, Laurentian Bank paid CDPQ and the FSTQ transaction fees pursuant to clause 15 of their respective subscription agreements. However, after having reviewed these clauses, it is impossible to determine the basis upon which the transaction fees were paid. It is therefore necessary to apply the legal rules governing the interpretation of contracts.
+[52] Pursuant to subsection 8.1 of the Interpretation Act [59] , in order to apply the ITA in the province of Quebec, if in interpreting an enactment it is necessary to refer to rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in Quebec. Consequently, because in this case the subscription agreements were signed in the province of Quebec, the Court must apply sections 1425 and following of the Civil Code of Québec (C.C.Q.) in order to interpret these agreements.
+[53] Pursuant to section 1425 of the C.C.Q., in order to interpret a contract, the Court shall determine the common intention of the parties rather than adhere to the literal meaning of the words. Indeed, in Quebec civil law, a contract is interpreted first and foremost based on the intention of the parties [60] .
+[54] It should be noted that the phrase "transaction fees" in subscription agreements cannot be binding on the parties if it does not reflect what they mutually intend that phrase to mean. The Supreme Court of Canada has also rejected the argument that the parties are bound by an erroneous transcription of the intention in the written contract [61] .
+[55] When the Court must interpret a writing in order to determine the common intention of the parties, proof by testimony is admissible under section 2864 of the C.C.Q., which provides as follows:
+2864. Proof by testimony is admissible to interpret a writing, to complete a clearly incomplete writing or to impugn the validity of the juridical act which the writing sets forth.
+[56] The only witness that the Court heard who had personal knowledge of the reason for which CDPQ received transaction fees was Mr. Boudreault. Mr. Boudreault participated in the negotiations relating to clause 15 of the subscription agreement signed by CDPQ. He was therefore the only witness able to enlighten the Court on the intention of the parties in relation to the services rendered by CDPQ as consideration for the payment of transaction fees. However, Mr. Boudreault testified that the transaction fees were paid for two services. First, CDPQ provided Laurentian Bank with a financing service. Mr. Boudreault confirmed that the transaction fees were in fact costs for "securing financing on the market", i.e. financing costs. [62] .
+[57] Second, Mr. Boudreault also confirmed that "private placement" financing such as the financing provided by CDPQ gave a positive signal on the market because, following the acquisition of AGF Trust, CDPQ became Laurentian Bank's largest shareholder. Therefore, CDPQ provided Laurentian Bank with an additional service.
+[58] According to counsel for the respondent, the content of Mr. Boudreault's testimony is not sufficient to allow the Court to conclude that services were rendered. The Court disagree. There is nothing in the evidence presented at the hearing that casts doubt on the veracity of Mr. Boudreault's testimony on this matter. His testimony was credible and not contradicted.
+[59] As a result, the Court considers that Mr. Boudreault's testimony is sufficient to determine the intention of the parties. His testimony is therefore sufficient to refute the Minister's assumption that CDPQ did not in fact provide Laurentian Bank with a service. It is also sufficient to refute the Minister's assumption that the payment of transaction fees to CDPQ was in fact made as a discount on the subscription price of the Laurentian Bank shares. Based on this testimony, the Court concludes that, upon preponderance of evidence, Laurentian Bank paid CDPQ transaction fees for financing services as well as for a service that Mr. Boudreault qualified as sending a positive signal to the market.
+[60] As for the transaction fees paid to the FSTQ, the Court reaches the same conclusion as it did in the case of CDPQ with regard to the financing services that CDPQ provided to Laurentian Bank. The Court is therefore of the view that there is sufficient evidence to reasonably conclude that the Minister's assumption that the FSTQ had not in fact rendered a service to Laurentian Bank has been refuted. Upon preponderance of evidence, Laurentian Bank paid the FSTQ transaction fees for financing services.
+[61] However, in reaching this conclusion, the Court did not accept Mr. Lanthier's testimony because he did not have personal knowledge of the reasons for which transaction fees were paid to the FSTQ. The Court only accepted the fact that the purpose of both subscription agreements was to secure capital to finance the acquisition of AGF Trust and that, furthermore, they were also practically identical. In that regard, the Court also definitely gave weight to the content of the letters of intent dated June 1 and 4, 2012, that CDPQ and the FSTQ respectively sent to Laurentian Bank, in which they expressed their interest in purchasing subscription receipts in connection with B2B Trust's acquisition of AGF Trust.
+[62] Those facts are sufficient to support the Court's finding that the FSTQ also provided Laurentian Bank with financing services. Thus, as in the case of CDPQ, the Court concludes that the appellant refuted the Minister's assumption that the FSTQ did not in fact render any services to Laurentian Bank for which transaction fees were paid as a discount on the selling price of the shares.
+[63] With respect to Mr. Lanthier's statement on this matter, pursuant to section 40 of the Canada Evidence Act, R.S.C. 1985, c. C-5, in all proceedings over which Parliament has legislative authority, the laws of evidence in force in Quebec apply to proceedings taken in that province [63] . However, according to section 2843 of the C.C.Q., a testimony is a statement whereby a person relates facts of which he has personal knowledge or whereby an expert gives his opinion. This was not the case with Mr. Lanthier's statement. Consequently, section 2869 of the C.C.Q. applies. Pursuant to this section, a statement made by a person who does not testify in the judicial proceeding or made by a witness prior to the judicial proceeding is only admissible as testimony if the parties consent thereto. Given that she filed an objection, the respondent did not consent to the admission into evidence of the statements provided by Mr. Lanthier's colleagues, which they made to her prior to the hearing. None of Mr. Lanthier's colleagues testified at the hearing.
+[64] In Hardy [64] , the Federal Court of Appeal set forth the principles applicable to this type of statement as follows:
+[14] In common law and criminal law the Court can, in principle, ex officio raise the inadmissibility of evidence, but that is not always the case in Quebec. The Quebec legislature expressly provided for the admissibility of an extra-judicial statement when the parties consent thereto (article 2869 of the Civil Code of Québec, CQLR c CCQ-1991) (CCQ). A party that fails to object to an extra-judicial statement as evidence consents or is deemed to consent to its production. In Lorrain v. St-Pierre, 2014 QCCA 1793 at paragraphs 30-31, the Quebec Court of Appeal clearly indicated that a judge cannot state in his or her judgment that the testimony concerning exchanges between a witness and a third party is inadmissible by reason of hearsay in the absence of an objection raised at the hearing. Of course, as the Quebec Court of Appeal indicated in 9055-6473 Québec inc. v. Montréal Auto Prix, 2006 QCCA 627 at paragraph 41, even if in the absence of an objection this evidence is admissible, it may have little probative value. It will depend on the other evidence, including the evidence that corroborates it.
+[Emphasis added.]
+[65] Finally, because a large portion of the submissions of counsel for the respondent and, therefore, much of the hearing time, involved the Minister's assumption that the transaction fee payments were in fact discount payments, the Court must revisit the matter. According to counsel for the respondent, this assumption was plausible for the following reasons:
+1- Laurentian Bank could not grant a 6% discount. This would have sent an unfavourable message to the market because the usual discount rate granted for this type of transaction was 2% [65] .
+2- On the closing date of the transaction involving B2B Trust's purchase of AGF Trust, Laurentian Bank actually only received $96,000,000 from CDPQ and $19,200,000 from the FSTQ for the shares that were issued. The shares would therefore have been sold for these amounts, i.e. at a 6% discount. Therefore, the fact that Laurentian Bank paid the transaction fees on the same day it received the share price payments from CDPQ and the FSTQ is significant [66] .
+3- Regarding their accounting treatment, the transaction fees were used to reduce Laurentian Bank's capital stock and therefore did not affect its income statement [67] .
+[66] After examining all of the evidence, the Court concludes that the evidence does not support the respondent's assumption. First, there is no evidence supporting the assumption that the parties decided to include clause 15 in the subscription agreements in order to grant CDPQ and the FSTQ an additional four percent (4%) discount on the issue price of the shares. There is also no evidence to establish that the parties included clause 15 in order not to send a message that the financial markets might view unfavourably.
+[67] As for the second point, the fact that, on the closing date of the transaction, Laurentian Bank actually only received $96,000,000 from CDPQ and $19,200,000 from the FSTQ for the shares that were issued is not sufficient for the Court to conclude that the shares were therefore sold at these prices, i.e. at a 6% discount. There is no evidence that this was the purpose of the transaction. The fact that Laurentian Bank received payment for the CDPQ and FSTQ shares on the same day that it paid the transaction fees by bank transfers is not in itself significant [68] . Indeed, Mr. Lanthier testified that these payments were two separate transactions. In arguing this, the respondent is asking the Court to consider the economic reality of the transaction. However, the Supreme Court of Canada already expressed itself clearly on the subject in Shell Canada Ltd. v. Canada [69] , as follows:
+39 This Court has repeatedly held that courts must be sensitive to the economic realities of a particular transaction, rather than being bound to what first appears to be its legal form: Bronfman Trust, supra, at pp. 52–53, per Dickson C.J.; Tennant, supra, at para. 26, per Iacobucci J. But there are at least two caveats to this rule. First, this Court has never held that the economic realities of a situation can be used to recharacterize a taxpayer's bona fide legal relationships. To the contrary, we have held that, absent a specific provision of the Act to the contrary or a finding that they are a sham, the taxpayer's legal relationships must be respected in tax cases. Recharacterization is only permissible if the label attached by the taxpayer to the particular transaction does not properly reflect its actual legal effect: Continental Bank Leasing Corp. v. Canada, [1998] 2 S.C.R. 298, at para. 21, per Bastarache J.
+[Emphasis added.]
+[68] Since counsel for the respondent clearly indicated to the Court that he was not arguing that payment of the transaction fees constituted a simulation, the word used in the C.C.Q. to describe a sham, the Court must respect the legal relationships created between the parties, and this also applies to the legal effect of clause 15 of the subscription agreements [70] . This clause deals with transaction fees, and the Court has already held that, in both cases, it concerns at least financing services.
+[69] The Court does not accept the third point either. Based on the evidence, it appears that there is nothing unusual about transaction fees being used to reduce a taxpayer's capital stock. Mr. Lanthier testified that this was consistent with generally accepted accounting principles. Counsel for the respondent did not attempt to show that this assertion was false, and generally accepted accounting principles were not the subject of submissions nor were they entered into evidence. In addition, the qualification of transaction fees for accounting purposes does not prevent them from also being qualified for taxation purposes [71] .
+2. Interpretation and meaning of the phrase "in the course of"
+a) Legislative history of paragraph 20(1)(e) of the ITA
+[70] To be entitled to a deduction under paragraph 20(1)(e) of the ITA, in computing income from a business, an expense must have been incurred "in the course of" an issuance or sale of shares of the capital stock of a taxpayer. In this case, the Court must determine whether transaction fees paid pursuant to a share subscription agreement can be considered an expense that was incurred in the course of an issuance of shares of the capital stock of a taxpayer.
+[71] First, it will be helpful to consider the legislative history of paragraph 20(1)(e) of the ITA. Prior to 1988, the phrase "in the course of issuing or selling . . . shares of the capital stock of the taxpayer . . ." in the English text was equivalent to "à l'occasion de l'émission ou de la vente . . . d'actions du capital-actions du contribuable . . ." in the French text."
+[72] In 1988, paragraph 20(1)(e) of the ITA was amended [72] . Among other amendments, the phrase "in the course of issuing or selling . . . shares of the capital stock of the taxpayer . . ." was replaced by "in the course of an issuance or sale . . . of shares of the capital stock of the taxpayer . . .". In the French version, the phrase "à l'occasion de l'émission ou de la vente . . . d'actions du capital-actions du contribuable . . ." was replaced by the following phrase: "dans le cadre d'une émission ou vente . . . d'actions du capital-actions du contribuable . . .". This amendment therefore has no impact in this case because the phrase "in the course of" was not amended.
+[73] In view of the fact that the phrase "in the course of" was not amended in the English version of the provision while, in the French version of the provision, its equivalent "à l'occasion de" was replaced by the phrase "dans le cadre", the Court therefore came to the conclusion that the phrases "à l'occasion de" and "dans le cadre" have the same meaning in this context.
+b) Interpretation given by the courts to the phrase "in the course of" and its impact in the application of paragraph 20(1)(e) of the ITA
+[74] The ITA does not define the phrase "in the course of". However, in Minister of National Revenue v. Yonge-Eglinton Building Ltd. [73] , the Federal Court of Appeal considered the meaning to be given to the phrase "in the course of". As previously mentioned, the French equivalent of this phrase was "à l'occasion de". At the time, the phrase "à l'occasion de" was used in paragraph 11(1)(cb) of the ITA, a provision that was replaced by paragraph 20(1)(e) of the ITA as a result of the 1972 tax reform. The relevant passage in Yonge-Eglinton Building reads as follows:
+. . . The Minister's argument that the expenditure must be incurred at the time the shares are issued or sold or when the amount is borrowed in order to be "in the course of" issuing or selling or borrowing appears to me to leave the deductibility of such expenses subject to a vague and uncertain test. It would be untenable if it meant that the expense must be incurred in the taxation year of the issuing or selling or borrowing and since it is impossible to know what is included in "around the time" it seems to me to be untenable on that basis as well. What appears to me to be the test is whether the expense, in whatever taxation year it occurs, arose from the issuing or selling or borrowing. It may not always be easy to decide whether an expense has so risen but it seems to me that the words "in the course of" in paragraph 11(1)(cb) [now paragraph 20(1)(e)] are not a reference to the time when the expenses are incurred but are used in the sense of "in connection with" or "incidental to" or "arising from" and refer to the process of carrying out or the things which must be undertaken to carry out the issuing or selling or borrowing for or in connection with which the expenses are incurred. In my opinion therefore since the amounts here in question arose from and were incidental to the borrowing of money required to finance the construction of the respondent's building they fall within section 11(1)(cb)(ii). No one has argued that section 11(1)(cb)(iv) excludes them as payments as or on account of interest. [74]
+[Emphasis added.]
+[75] Courts have subsequently cited that case many times, and in considering the phrase "in the course of", have given it a rather wide meaning [75] . The Court is of the view that for the purposes of paragraph 20(1)(e) of the ITA, the proper meaning to be given to the phrase "in the course of" is the meaning given to this phrase in Yonge-Eglinton Building [76] , i.e. "in connection with" or "incidental to" or "arising from".
+[76] In the light of this, an expense incurred in the course of an issuance of shares could be deductible pursuant to paragraph 20(1)(e) of the ITA insofar as the evidence shows that the expense was incurred by the taxpayer "in connection with" the issuance of shares of its capital stock or that it is an expense "incidental to" or "arising from" the issuance of the shares. These expressions are therefore interchangeable.
+3. Were the transaction fees paid to CDPQ and the FSTQ expenses incurred by Laurentian Bank in the course of the issuance of shares of its capital stock?
+[77] The respondent argued that only fees paid or payable for or on account of services rendered by a person as a salesperson, agent or dealer in securities in the course of the issuance of shares are deductible pursuant to paragraph 20(1)(e). Therefore, according to the respondent, a taxpayer could not claim a deduction for transaction fees paid under a share subscription agreement. Furthermore, a taxpayer could not claim the deduction when the transaction fees had been paid to the person to whom the shares were issued because that person would then have no intermediary role.
+[78] First, the Court must therefore determine whether paragraph 20(1)(e) of the ITA only allows the deduction of fees paid or payable for or on account of services rendered by a person as a salesperson, agent or dealer in securities values in the course of the issuance of shares.
+[79] Until 1979, a taxpayer could deduct expenses, with the exception of a "commission or bonus" paid to a salesperson, agent or dealer in securities values, incurred in the course of issuing or selling shares [77] . In 1979, the Act was amended to allow the deduction of a "commission, fee or other amount paid or payable for or on account of services rendered by a person as a salesperson, agent or broker in securities in the course of the issuance or sale . . . [of] shares" [78] . This does not limit deductible expenses to the expenses mentioned. Indeed, the Court is of the view that the use of the word "including" in paragraph 20(1)(e) of the ITA clearly indicates that this is not an exhaustive list. Accordingly, the Court is of the view that expenses incurred entitling a taxpayer to a deduction pursuant to paragraph 20(1)(e) of the ITA are not limited to a fee or other amount paid or payable for or on account of services rendered by a person as a salesperson, agent or dealer in securities in the course of the issuance, sale or borrowing.
+[80] The respondent also argued in her Amended Reply to the Notice of Appeal that the amounts of $3,999,999.56 and $799,999.56 that Laurentian Bank paid to CDPQ and the FSTQ, respectively, were not paid in the course of an issuance of shares. Rather, they were paid upon the issuance of subscription receipts in the course of the purchase of AGF by a subsidiary of Laurentian Bank, B2B Trust. At the hearing, counsel for the respondent did not say any more on the subject and did not address the concepts of "share subscription agreement" and "issuance of shares".
+[81] Although the evidence presented at the hearing indicated that it was true that Laurentian Bank incurred the amounts under the share subscription agreements in the course of the purchase of AGF by one of its subsidiaries, this does not necessarily imply that the said amounts were not incurred in the course of an issuance of Laurentian Bank shares. In this case, the Court finds that the sums of $3,999,999.56 and $799,999.56 that Laurentian Bank paid to CDPQ and the FSTQ, respectively, were incurred in the course of an issuance of shares. The Court comes to this conclusion after having considered the following:
+1- At paragraph 79 of these reasons, the Court finds that an expense incurred in the course of an issuance of shares could be deductible pursuant to paragraph 20(1)(e) of the ITA insofar as the evidence shows that the expense was incurred by the taxpayer "in connection with" the issuance of shares of its capital stock or that it is an expense "incidental to" or "arising from" the issuing of the shares.
+2- The Court finds at paragraphs 61 and 62 of these reasons that CDPQ and the FSTQ received transaction fees as consideration for financing services.
+3- The evidence shows that CDPQ and the FSTQ purchased subscription receipts from Laurentian Bank as part of the acquisition of AGF Trust, in order to allow Laurentian Bank to secure the capital needed to proceed with this acquisition. The subscription agreements expressly stipulated that the subscriber irrevocably and unconditionally purchased subscription receipts, each of which entitled the subscriber to receive one Laurentian Bank share, under certain conditions. The said subscription receipts were converted into common shares of Laurentian Bank, upon the acquisition of AGF Trust, on the basis of one common share of Laurentian Bank for each subscription receipt.
+4- The online Dictionnaire Larousse defines the word "subscription" as follows [translation]: ". . . Participation in a purchase of a public company's shares to increase the level of its capital or in an issuance of bonds." [79] For its part, Le Petit Robert dictionary (2018) defines the word "subscription" as follows [translation]: ". . . Agree to provide an amount for its share. . . . Underwrite a company's loan, issuance of shares." [80] Black's Law Dictionary defines the word "subscription" as follows: ". . . A written contract to purchase newly issued shares of stock or bonds.. . ." [81]
+5- In a doctrinal work, La société par actions au Québec : les aspects juridiques, Maurice Martel and Paul Martel define a "subscription" as being the first element of a share purchase agreement, i.e. an agreement to purchase shares directly from a company. According to the authors, the second element of a share purchase agreement is the issuance of the shares that have been subscribed [82] .
+[82] The elements listed above are sufficient to support the Court's finding that there was a direct connection between the subscription agreements to which CDPQ, the FSTQ and Laurentian Bank were parties and the issuance of Laurentian Bank shares. Accordingly, the Court finds that the evidence shows that the expenses incurred by Laurentian Bank under the subscription agreements were attributable to an issuance of shares of its capital stock and that these expenses were therefore incurred in the course of an issuance of shares.
+C. Were the transaction fees that Laurentian Bank paid the FSTQ reasonable in the circumstances?
+[83] Under section 67 of the ITA, an expense is deductible from a taxpayer's income only to the extent that it is reasonable in the circumstances. Section 67 of the ITA reads as follows:
+67 In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+[84] The concept of an unreasonable expense was defined as follows in Gabco Ltd. v. Minister of National Revenue [83] :
+It is not a question of the Minister or his Court substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the Court coming to the conclusion that no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind.
+[Emphasis added.]
+[85] In Petro-Canada v. Canada [84] , the Federal Court of Appeal provided some guidance on how the reasonableness of an expense should be evaluated:
+[63] Section 67 was considered by this Court in Mohammad v. Canada (C.A.), [1998] 1 F.C. 165 [1997] 3 C.T.C. 321, 97 D.T.C. 5503. The issue was the deductibility of interest paid by a person on a debt used to finance 100% of the purchase price of a rental property. Robertson J.A., writing for the Court, said this at paragraph 28
+[28] When evaluating the reasonableness of an expense, one is measuring its reasonableness in terms of its magnitude or quantum. Although such a determination may involve an element of subjective appreciation on the part of the trier of fact, there should always be a search for an objective component. When dealing with interest expenses, the task can be objectified readily. For example, it would have been open to the Minister to challenge the amount of interest being paid on the $25,000 loan had the taxpayer agreed to pay interest in excess of market rates. The reasonableness of an interest expense can thus be measured objectively, namely, by reference to market rates. . . .
+[64] Reasonableness, like value, is a question of fact. In this case, it is a fact upon which the Judge made no finding. While it may be true, as suggested in Mohammad, that paying fair market value for something is prima facie reasonable, I am unable to agree with the Crown that it necessarily follows that paying more than fair market value is unreasonable. There may be circumstances in which a decision to pay more than fair market value for something is a reasonable decision. Considering the test stated in Gabco, I am not persuaded that this is an appropriate case for the application of section 67.
+[Emphasis added.]
+[86] Finally, in Hammill v. Canada [85] , the Federal Court of Appeal specified that the power of the courts is not limited to reducing excessive expenses and that the whole of an expense may be considered completely unreasonable in the absence of evidence to determine the amount that is reasonable in the circumstances. The relevant passage reads as follows:
+[53] . . . In my view, the Supreme Court in Stewart acknowledged that there is no inherent limit to the application of section 67, and that in the appropriate circumstances, it can be used to deny the whole of an expense, if it is shown to be unreasonable.
+[54] In this case, the Tax Court Judge attempted to identify what part of the "selling" expenses could be viewed as reasonable in the circumstances. He noted that neither counsel could indicate any cut off point. He went on to hold that the actions of the appellant were the same throughout and concluded that the expenditures were unreasonable from beginning to end. In my view, this is a conclusion that was open to him why regard is had to the evidence.
+[Emphasis added.]
+[87] In these reasons, the Court has already concluded that the transaction fees were paid to CDPQ for financing services and services that have been qualified as sending a positive signal to the market. Therefore, the Court must now determine whether paying $3,999,999.56 for these services was reasonable in the circumstances.
+[88] The respondent argued that the transaction fees paid to CDPQ were unreasonable in the circumstances. The facts that the Minister assumed to support this position are as follows:
+Laurentian Bank's commitment to reimburse the costs and expenses incurred by CDPQ arising from the subscription [86] .
+CDPQ was entitled to the reimbursement of its legal fees up to a certain limit [87] .
+CDPQ made a private placement [88] .
+4. CDPQ acquired the shares of a chartered bank, in this case Laurentian Bank, which is subject to regulation and whose shares are listed on the stock exchange [89] .
+[89] Even though the above facts turned out to be true, they do not support the finding that the transaction fees were unreasonable in the circumstances. In fact, counsel for the respondent did not provide any explanation regarding the impact of these facts on the reasonableness of the transaction fees. Rather, counsel for the respondent argued that the fees were unreasonable because Laurentian Bank did not receive any consideration for them [90] .
+[90] The amount of this expense was not questioned by counsel for the respondent, but he nevertheless considered it completely unreasonable. He did not suggest a transaction fee percentage that he would consider reasonable.
+[91] The appellant considered the 4% transaction fees reasonable because the parties negotiated them at arm's length and they were comparable to transaction fees paid for similar transactions at the time [91] . In fact, according to Mr. Boudreault's testimony, the percentage of fees that Laurentian Bank paid was identical to the percentage paid for transactions considered comparable by his team [92] .
+[92] Whereas, in a reply to a notice of appeal, as in this case, the respondent raises legal arguments and assumptions of fact that the Minister did not make, the burden of proof lies with the Minister. The Federal Court of Appeal made this clear in the following passage from Canada v. Loewen [93] :
+[8] The Minister's factual assumptions, as stated in the Crown's pleadings, are taken as fact unless they are disproved or it is established that the Minister did not make the assumptions that are said to have been made. The taxpayer has the onus of proving that the Minister's assumptions are not true or that they were not made. It is also open to the taxpayer to attempt to establish by argument that, even if the assumed facts are true, they do not justify the assessment as a matter of law: (Johnston v. Minister of National Revenue, [1948] S.C.R. 486; Canada (Minister of National Revenue v. Pillsbury Holdings Ltd., [1965] 1 Ex. C.R.
+[9] It is the obligation of the Crown to ensure that the assumptions paragraph is clear and accurate. For example, the Crown cannot say that the Minister assumed, when making the assessment, that a certain car was green and also that the same car was red, because it is impossible for the Minister to have made both of those assumptions at the same time: (Brewster v. The Queen, [1976] D.T.C. 107 (F.C. T.D).
+[10] Nor is it open to the Crown to plead that the Minister made a certain assumption when making the assessment, if in fact that assumption was not made until later, for example, when the Minister confirmed the assessment following a notice of objection. The Crown may, however, plead that the Minister assumed, when confirming an assessment, something that was not assumed when the assessment was first made: Anchor Pointe Energy Ltd. v. Canada, 2003 D.T.C. 5512 (F.C.A.).
+[11] The constraints on the Minister that apply to the pleading of assumptions do not preclude the Crown from asserting, elsewhere in the reply, factual allegations and legal arguments that are not consistent with the basis of the assessment. If the Crown alleges a fact that is not among the facts assumed by the Minister, the onus of proof lies with the Crown. This is well explained in Schultz v. Canada, [1996] 1 F.C. 423 (F.C.A.), (leave to appeal refused, [1996] S.C.C.A. No. 4).
+[Emphasis added.]
+[93] The burden of showing that the amount of $3,999,999.56 was unreasonable in the circumstances therefore rested on the respondent and not the appellant.
+[94] According to Mr. Boudreault's testimony, a study that his team conducted on comparable transactions found that the value of the services provided by CDPQ was equivalent to four percent (4%) of the amount of the subscription, i.e. $3,999,999.56. Mr. Boudreault provided testimony on facts of which he had personal knowledge; he did not testify as an expert witness. He, therefore, did not present an expert report in which comparable transactions were analyzed. No comparable transaction that was investigated by his team was offered in evidence.
+[95] The respondent did not present evidence regarding the percentage of the transaction fees that would be attributable to each service rendered by CDPQ. Neither did she submit any evidence regarding the value of each service that it provided.
+[96] Typically, when the value of one or more services is at issue, the Court requires the testimony of one or more expert witnesses to determine the value of each service provided. A study of comparable transactions is usually also required, especially when the respondent argues that certain terms and conditions of a transaction are unreasonable. The Court also finds this information useful when making necessary adjustments to an unreasonable rate.
+[97] However, the respondent did not provide any testimony or information in this regard. At any rate, she did not present any evidence that this type of analysis was performed by the Minister or at his request.
+[98] Given that Mr. Boudreault was not testifying as an expert and did not personally analyze comparable transactions, the Court finds it difficult to see how he can be criticized for not having been able to explain why an investor qualified as an "underwriter" would receive the same percentage of transaction fees as an investor making a private placement when the evidence shows that they do not provide the same services [94] . For the same reasons, the fact that he could not explain why a private investor investing $100,000,000 and another one investing $20,000,000 would receive the same percentage of transaction fees is not significant.
+[99] Ultimately, the Court must determine whether, upon preponderance of evidence, the four percent (4%) transaction fee rate was reasonable in the circumstances. Given that the respondent failed to demonstrate that this rate was not reasonable in the circumstances, and that the burden of proof rested on the respondent, the Court finds that the four percent (4%) transaction fee rate that Laurentian Bank paid CDPQ was reasonable in the circumstances. Therefore, the amount of $3,999,999.56 was reasonable in the circumstances.
+D. Were the transaction fees that Laurentian Bank paid the FSTQ reasonable in the circumstances?
+[100] The Court has already found that the transaction fees were paid to the FSTQ for financing services. Therefore, the Court must now determine whether paying $799,999.56 for these services was reasonable in the circumstances.
+[101] As in the case of the transaction fees paid to CDPQ, the burden of showing that the amount of $799,999.56 was unreasonable in the circumstances rested on the respondent and not the appellant.
+[102] The respondent did not present any evidence regarding the value of the financing services provided by the FSTQ.
+[103] Accordingly, the Court concludes that the four percent (4%) transaction fee rate was reasonable in the circumstances because the respondent did not demonstrate that this rate was unreasonable in the circumstances. The amount of $799,999.56 was therefore reasonable in the circumstances.
+VI. CONCLUSION
+[104] For these reasons, the appeal is allowed, with costs. The three assessments made by the Minister on January 7, 2016, for the Laurentian Bank's taxation years ending on October 31, 2012, 2013 and 2014, respectively, are referred back to Minister for reconsideration and reassessment based on the following:
+The transaction fees of $3,999,999.56 that Laurentian Bank paid to CDPQ are deductible pursuant to paragraph 20(1)(e) of the ITA;
+The transaction fees of $799,999.56 that Laurentian Bank paid to the FSTQ are deductible pursuant to paragraph 20(1)(e) of the ITA.
+Signed at Ottawa, Canada, this 21st day of August 2020.
+"Sylvain Ouimet"
+Ouimet, J.
+Translation certified true
+on this 17th day of March 2021.
+François Brunet, Revisor
+CITATION:
+2020 TCC 73
+COURT FILE NO.:
+2016-4706(IT)G
+STYLE OF CAUSE:
+LAURENTIAN BANK OF CANADA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATES OF HEARING:
+April 5 and 8, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Sylvain Ouimet
+DATE OF JUDGMENT:
+August 21, 2020
+APPEARANCES:
+Counsel for the appellant:
+Wilfrid Lefebvre
+Jonathan Lafrance
+Counsel for the respondent:
+Michel Lamarre
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Wilfrid Lefebvre
+Jonathan Lafrance
+Firm:
+Norton Rose Fulbright Canada LLP
+Montreal, Quebec
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Partial agreed statement of facts, at paragraph 1.
+[2] Ibid.
+[3] Ibid. at paragraphs 24 and 25).
+[4] Ibid. at paragraphs 13, 14, 20, 22 and 24.
+[5] Ibid. at paragraphs 20 and 22.
+[6] Amended Reply to the Notice of Appeal, at paragraph 27s).
+[7] Ibid., at paragraph 27t).
+[8] Ibid., at paragraph 27u).
+[9] Ibid., at paragraph 28d).
+[10] Bank Act, S.C. 1991, c. 46. Partial agreed statement of facts 3.
+[11] Transcript of the hearing held at the Tax Court of Canada, on April 5, 2019 (transcript of the April 5, 2019, hearing, pages 78–81.
+[12] Agreed statement of facts – Documents, tab 3.
+[13] Partial agreed statement of facts, at paragraph 4. Agreed statement of facts – Documents, tab 2.
+[14] Partial agreed statement of facts, at paragraph 6a). Agreed statement of facts – Documents, tab 2, page 1.
+[15] Partial agreed statement of facts, at paragraph 6b). Agreed statement of facts – Documents, tab 2.
+[16] Partial agreed statement of facts, at paragraph 6c). Agreed statement of facts – Documents, tab 2.
+[17] Partial agreed statement of facts, at paragraph 6c). Agreed statement of facts – Documents, tab 2. It should be noted that this was actually a 1.59% discount given the fluctuation in the value of the shares on the market between June 1 and June 4. The $41.85 purchase price itself for each subscription receipt did not change: Agreed statement of facts – Documents, tab 5, letter addressed to Mr. Minier (Toronto Stock Exchange) and Form 11, Notice of Private Placement, dated June 4, 2012.
+[18] Partial agreed statement of facts, at paragraph 6d) Agreed statement of facts – Documents, tab 2.
+[19] Agreed statement of facts – Documents, tab 2.
+[20] Partial agreed statement of facts, at paragraph 6c). Agreed statement of facts – Documents, tab 2.
+[21] Partial agreed statement of facts, at paragraph 6f). Agreed statement of facts – Documents, tab 2., "Summary of terms and conditions", page 2.
+[22] Partial agreed statement of facts, at paragraph 10a) and b). Agreed statement of facts – Documents, tab 4.
+[23] Partial agreed statement of facts, at paragraph 10c). Agreed statement of facts – Documents, tab 4.
+[24] Partial agreed statement of facts, at paragraph 10d). Agreed statement of facts – Documents, tab 4.
+[25] Agreed statement of facts – Documents, tab 4.
+[26] Partial agreed statement of facts, at paragraph 10c). Agreed statement of facts – Documents, tab 4.
+[27] Agreed statement of facts – Documents, tab 4.
+[28] Partial agreed statement of facts, at paragraph 10e). Agreed statement of facts – Documents, tab 4.
+[29] Partial agreed statement of facts, at paragraph 10f). Agreed statement of facts – Documents, tab 4.
+[30] Partial agreed statement of facts, at paragraph 12. Agreed statement of facts – Documents, tab 5.
+[31] Partial agreed statement of facts, at paragraph 13. Agreed statement of facts – Documents, tab 6.
+[32] Partial agreed statement of facts, at paragraph 14. Agreed statement of facts – Documents, tab 7.
+[33] Partial agreed statement of facts, at paragraph 15. Agreed statement of facts – Documents, tab 6, appendix B.
+[34] Partial agreed statement of facts, at paragraph 16. Agreed statement of facts – Documents, tab 8.
+[35] Partial agreed statement of facts, at paragraph 17. Agreed statement of facts – Documents, tab 9.
+[36] Partial agreed statement of facts, at paragraph 18.
+[37] Ibid., at paragraph 19.
+[38] Partial agreed statement of facts, at paragraph 20 and 22. Agreed statement of facts – Documents, tabs 10 and 12.
+[39] Transcript of the April 5, 2019, hearing, pages 80, 150 and 151.
+[40] Transcript of the April 5, 2019, hearing, page 80.
+[41] Ibid., pages 80, 83 and 140.
+[42] Ibid., pages 90 and 91.
+[43] Ibid., pages 91 and 92.
+[44] Ibid., pages 92–103.
+[45] Ibid., page 100.
+[46] Ibid., pages 114 and 115.
+[47] Ibid., pages 185 and 186.
+[48] Exhibit I-2, undertaking no. 4 from Mr. Lanthier's examination for discovery.
+[49] Transcript of the April 5, 2019, hearing, page 194.
+[50] Transcript of the April 5, 2019, hearing, page 195.
+[51] Ibid., pages 196 and 215.
+[52] Ibid., pages 231–233.
+[53] Ibid., pages 198, 199, 209–211, 216, 217, 233 and 234.
+[54] Ibid., page 204.
+[55] Ibid., pages 212 and 213.
+[56] [1984] 2 F.C. 218 (
+C.A.
+).
+[57] Ibid., page 2.8.
+[58] Agreed statement of facts – Documents, tab 6, page 21 and tab 7, page 21.
+[59] R.S.C. 1985, c. I-21.
+[60] Grimard v. Canada, 2009 FCA 47, paragraph 32, [2009] 4 F.C.R. 592.
+[61] Quebec (Agence du revenu) v. Services Environnementaux AES inc., 2013 SCC 65, paragraph 52, [2013] 3 S.C.R. 838.
+[62] Transcript of the April 5, 2019, hearing, page 204.
+[63]
+Canada
+(National Revenue) v. Hardy, 2018 FCA 103, paragraph 13.
+[64] Ibid.
+[65] Transcript of hearing held at the Tax Court of Canada, on April 8, 2019 (transcript of the April 8, 2019, hearing), pages 39–41.
+[66] Ibid., pages 39–41 and 79–81.
+[67] Ibid., pages 35 and 36.
+[68] Singleton v.
+Canada
+, 2001 SCC 61, paragraphs 33 and 34 [2001] 2 S.C.R. 1046.
+[69] [1999] 3 S.C.R. 622
+[70] Transcript of the April 5, 2019, hearing, page 67.
+[71] Canderel Ltd. v. Canada, [1998] 1 S.C.R. 147, page 174). See also: Valiant Cleaning Technology Inc. v. The Queen, 2008 TCC 637, paragraph 23.
+[72] Income Tax Act, R.S.C., 1985, c. 1. (5th Supp.), paragraph 20(1)(e), amended by S.C. 1988, c. 55, subsection 12(2).
+[73] [1974] 1 F.C. 637 (
+C.A.
+).
+[74] Ibid., pages 644 and 645.
+[75] General Motors of Canada Ltd. v. The Queen, 2008 TCC 117 (affirmed by 2009 FCA 114, [2010] 2 F.C.R. 344).
+[76] Minister of National Revenue v. Yonge-Eglinton Building Ltd., note 74 above.
+[77] Income Tax Act, S.C., 1970-71-72, c. 63), paragraph 20(1)(e) (Tab 3 of the Appellant's book of authorities).
+[78] An Act to amend the statute law relating to income tax and to amend the Canada Pension Plan, S.C. 1979, c. 5, section 7 (Tab 4 of the Appellant's book of authorities).
+[79] Dictionnaire Larousse (online: www.larousse.fr), sub verbo "souscription".
+[80] Le Petit Robert, 2018, sub verbo "souscrire"
+[81] 11th edition (2019), sub verbo "subscription"
+[82] Maurice Martel and Paul Martel, La société par actions au Québec : Les aspects juridiques, vol. 1, Montréal, Wilson & Lafleur, Martel ltée, 1976, loose leaf, updated in May 2010, paragraphs 14-3, 14-14, 14-15 and 14-54.
+[83] [1968] 2 Ex C.R. 511, page 522).
+[84] 2004 FCA 158.
+[85] 2005 FCA 252
+[86] Amended Reply to the Notice of Appeal, at paragraph 28(d)(i).
+[87] Ibid., at paragraph 28(d)(ii).
+[88] Ibid., at paragraph 28(d)(iii).
+[89] Ibid., at paragraph 28(d)(iv).
+[90] Transcript of the April 8, 2019, hearing, pages 90 and 91.
+[91] Ibid., pages 21 and 22.
+[92] Transcript of the April 5, 2019, hearing, pages 202 and 203.
+[93] 2004 FCA 146, [2004] 4 FCR 3.
+[94] Transcript of the April 5, 2019, hearing, pages 179–180.

@@ -1,0 +1,542 @@
+---
+title: "1245989 Alberta Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/229679/index.do"
+last_modified: "2017-03-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 51"
+citation2: ""
+neutral_citation: "2017 CCI 51"
+decision_date: "2017-03-31"
+language: "fr"
+item_id: "229679"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2293
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:33:57.530000+00:00"
+cases_cited_count: 11
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3c85abc168cb9ecf1dac404518c2c12976ad5919de21434e491f2c5136832fd5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1245989 Alberta Ltd. c. La Reine
+
+- Citation: 2017 CCI 51
+- Decision date: 2017-03-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2293, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1245989 Alberta Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-03-31
+Référence neutre
+2017 CCI 51
+Numéro de dossier
+2013-3907(IT)G, 2013-3912(IT)G
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013‑3907(IT)G
+ENTRE :
+1245989 ALBERTA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel
+de Perry Wild (2013-3912(IT)G),
+le 27 janvier 2016, à Winnipeg (Manitoba)
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Avocat de l’appelante :
+Me Jeff D. Pniowsky
+Avocates de l’intimée :
+Me Margaret McCabe et
+Me Justine Malone
+JUGEMENT
+En conformité avec les motifs du jugement ci‑joints, l’appel de la détermination faite en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2008 est rejeté. L’intimée a droit à la taxation d’un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 31e jour de mars 2017.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 5e jour de décembre 2018.
+Erich Klein, réviseur
+Dossier : 2013-3912(IT)G
+ENTRE :
+PERRY WILD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel
+de 1245989 Alberta Ltd. (2013‑3907(IT)G),
+le 27 janvier 2016, à Winnipeg (Manitoba)
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Avocat de l’appelant :
+Me Jeff D. Pniowsky
+Avocates de l’intimée :
+Me Margaret McCabe et
+Me Justine Malone
+JUGEMENT
+En conformité avec les motifs du jugement ci-joints, l’appel de la détermination faite en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2007 est rejeté. L’intimée a droit à la taxation d’un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 31e jour de mars 2017.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 5e jour de décembre 2018.
+Erich Klein, réviseur
+Référence : 2017 CCI 51
+Date : 20170331
+Dossier : 2013-3907(IT)G
+ENTRE :
+1245989 ALBERTA LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2013‑3912(IT)G
+ET ENTRE :
+PERRY WILD,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lyons
+I. Introduction
+[1] La ministre du Revenu national a fait des déterminations concernant l’année d’imposition 2007 de Perry Wild et l’année d’imposition 2008 de 1245989 Alberta Ltd. (« 1245 »). La ministre a appliqué la règle générale anti-évitement (RGAÉ) énoncée à l’article 245 de la Loi de l’impôt sur le revenu (la Loi) [1] pour refuser l’augmentation du capital versé (CV) des 2 337,5 actions privilégiées de catégorie E de 1245 que détenait M. Wild (les « actions en cause »), qui, par suite des opérations décrites ci-dessous, est passé de 110 $ à 595,264 $ (l’avantage fiscal). Les appels ont été entendus sur preuve commune.
+[2] M. Wild, P.W. Rentals Ltd. (PWR), Shilo Wild, la conjointe de M. Wild, 1251237 Alberta Ltd. (1251) et 1245 ont entre eux un lien de dépendance. Pour protéger les actifs de PWR, les Wild ont mis en œuvre une restructuration de société. Dans le cadre de cette série d’opérations, les appelants ont effectué des opérations d’évitement qui ont donné lieu à l’avantage fiscal. Les opérations d’évitement comprenaient des transferts des actions ordinaires de catégorie A de PWR que détenait M. Wild (les actions PWR) et des transferts ultérieurs d’actifs de PWR aux sociétés à dénomination numérique et, en échange, M. Wild puis PWR ont reçu chacun des actions privilégiées de 1251 (catégorie C) et de 1245 (catégorie E) (la catégorie C et la catégorie E ensemble étant appelées la « même catégorie »). Il a appliqué son exonération des gains en capital en réduction des gains en capital résultant de la disposition de ses actions. Les sociétés ont appliqué en réduction de dividendes réputés des déductions accordées aux sociétés.
+[3] L’intimée soutient que les opérations des appelants ont eu pour résultat global que ces derniers se sont soustraits aux effets de l’application de l’article 84.1 de la Loi de manière contraire à son objet et à son esprit par un recours abusif au paragraphe 89(1) (les « dispositions pertinentes ») dans le calcul du CV, ce qui a eu pour résultat le moyennage du CV des actions lors de l’émission de la même catégorie d’actions en sa faveur puis en faveur de PWR. De manière subsidiaire, les opérations ont produit un résultat que les dispositions pertinentes visaient à empêcher ou qui va à l’encontre de leur raison d’être, ou les deux. Par conséquent, les opérations d’évitement ont entraîné, directement ou indirectement, un abus, au sens du paragraphe 245(4) de la Loi, dans l’application des dispositions pertinentes.
+[4] Les appelants soutiennent que l’objet central de la restructuration était la protection des actifs non fiscaux de PWR, permettant le transfert par PWR de ses actifs aux deux sociétés à dénomination numérique, et ces actifs seraient loués à PWR. Les appelants concèdent l’existence de l’« avantage fiscal » et des « opérations d’évitement » au sens des paragraphes 245(1) et (3) respectivement, mais nient l’existence d’un évitement fiscal abusif visé au paragraphe 245(4) de la Loi. Ils soutiennent que les dispositions pertinentes ont été appliquées de la manière envisagée par le législateur et qu’elles ont eu l’effet envisagé. Il s’agit, aux fins du paragraphe 89(1), d’effectuer des opérations mathématiques de base et l’article 84.1 n’a pas été contourné.
+II. Question en litige
+[5] L’appel porte sur la question de savoir si les opérations d’évitement constituent un abus, au sens du paragraphe 245(4) de la Loi, dans l’application des dispositions pertinentes de manière à permettre à la ministre d’appliquer la RGAÉ pour refuser l’avantage fiscal en réduisant à 110 $ le CV des actions que M. Wild détenait dans 1245.
+III. Faits
+[6] Les parties ont déposé un exposé conjoint des faits, la pièce A‑1, qui est ainsi rédigé:
+[Traduction]
+EXPOSÉ CONJOINT DES FAITS
+Les parties, par l’entremise de leurs avocats respectifs, conviennent, uniquement aux fins du présent appel, et de tout appel de cet appel, que les faits énoncés ci-après sont véridiques et que les documents contenus dans le cahier conjoint des documents sont des copies conformes de documents authentiques. Il est loisible aux parties de présenter des observations concernant le degré de pertinence de ces faits et de ces documents ou le poids qu’il faut leur accorder, mais elles ne doivent pas pour autant être considérées comme étant d’accord sur ces éléments.
+Il est loisible aux parties de mettre en preuve d’autres faits à l’audience; toutefois, ces faits ne doivent pas contredire ceux qui sont énoncés ci-après, à moins que les parties ne s’entendent là -dessus.
+Le présent accord ne lie les parties dans aucune autre action.
+1. P.W. Rentals Ltd. (« PWR ») est une société par actions de l’Alberta.
+2. PWR est une entreprise de location qui exerce ses activités dans les champs pétrolifères; elle fournit aux entreprises exerçant des activités dans les champs pétrolifères des unités de logement transportables, communément appelées roulottes pour emplacements de puits.
+3. Le 1er mars 2003, Perry Wild et Shilo Wild ont chacun fait l’acquisition de 100 actions ordinaires non émises de PWR.
+4. À l’époque en cause, Shilo Wild était la conjointe de Perry Wild.
+5. Le 2 mars 2003, PRW a racheté les 100 actions ordinaires détenues par Shilo Wild, ce qui a fait de Perry Wild l’unique actionnaire de PWR à l’époque en cause.
+6. À compter du 1er janvier 2004, Perry Wild était propriétaire de 110 actions ordinaires de catégorie A de PWR ayant une juste valeur marchande (JVM) de 2 337 500 $, un prix de base rajusté (PBR) de 110 $ et un capital versé (CV) de 110 $.
+7. En vue de protéger les actifs de PWR, Perry et Shilo Wild ont opéré la restructuration décrite ci-dessous.
+8. La société 1245989 Alberta Ltd. (« 1245 ») a été constituée en Alberta le 30 mai 2006 et, à cette date, Perry Wild a fait l’acquisition de 100 actions ordinaires de catégorie A de 1245 pour 100 $.
+9. La société 1251237 Alberta Ltd. (« 1251 ») a été constituée en Alberta le 22 juin 2006 et, à cette date, Shilo Wild a fait l’acquisition de 100 actions ordinaires de catégorie A de 1251 pour 100 $.
+Première série de transferts : de Perry Wild et PWR à 1251
+10. Le 1er juin 2007, Perry Wild a transféré 16,4 actions ordinaires de catégorie A de PWR à 1251 en échange de 348,5 actions privilégiées de catégorie C de 1251 conformément à l’article 85 de la Loi, de la façon suivante :
+a. les 16,4 actions ordinaires de catégorie A de PWR transférées par Perry Wild avaient une JVM de 348 500 $ et un PBR et un CV de 16,40 $;
+b. les 348,5 actions privilégiées de catégorie C de 1251 avaient une valeur de rachat de 1 000 $ par action ou 348 500 $;
+c. Perry Wild et 1251 fait un choix établissant à 129 000 $ le produit de disposition (PD), pour Perry Wild, des 16,4 actions ordinaires de catégorie A de PWR, son PBR des actions privilégiées de catégorie C de 1251 et le PBR pour 1251 des 16,4 actions ordinaires de catégorie A de PWR;
+d. Perry Wild a déclaré un gain en capital de 128 984 $ par suite du transfert des 16,4 actions ordinaires de catégorie A de PWR et a demandé une exonération des gains en capital du même montant en vertu de l’article 110.6 de la Loi, ce qui a fait en sorte qu’il n’y avait aucun montant d’impôt à payer sur le gain;
+e. le CV des 348,5 actions privilégiées de catégorie C de 1251 reçues par Perry Wild en contrepartie des 16,4 actions ordinaires de PWR a été réduit à 16,40 $ (le CV des actions de PWR transférées) par l’effet de l’article 84.1 de la Loi.
+11. Le 2 juin 2007, PWR a transféré du matériel de catégorie 8 à 1251 en échange de 348,5 actions privilégiées de catégorie C de 1251 conformément à l’article 85 de la Loi, de la manière suivante :
+a. le matériel de catégorie 8 transféré par PWR avait une JVM de 348 500 $ et une fraction non amortie du coût en capital de 256 279 $;
+b. les 348,5 actions privilégiées de catégorie C de 1251 avaient une valeur de rachat de 1 000 $ par action ou 348 500 $;
+c. PWR et 1251 ont fait un choix établissant à 256 279 $ le PD de PWR et le PBR de 1251 relativement au matériel de catégorie 8 transféré;
+d. le PBR et le CV des 348,5 actions privilégiées de catégorie C de 1251 reçues par PWR étaient tous les deux 256 279 $, soit le montant visé par le choix exercé, par l’effet des paragraphes 85(1) et (2.1) de la Loi.
+12. Étant donné que Perry Wild avait fait en sorte que 1251 émette des actions privilégiées de catégorie C en sa faveur lors du roulement des 16,4 actions ordinaires de PWR et qu’elle émette ensuite des actions de la même catégorie en faveur de PWR lors du roulement du matériel de catégorie 8, le CV des actions privilégiées de catégorie C de Perry Wild dans 1251 a été augmenté, passant à 128 148 $, et le CV des 348,5 actions privilégiées de catégorie C de 1251 reçues par PWR a été réduit pour être établi à ce même montant par l’effet du paragraphe 89(1).
+Première série d’opérations compensatrices effectuées par les sociétés
+13. Le 3 juin 2007, 1251 a racheté les 348,5 actions privilégiées de catégorie C qui appartenaient à PWR et émis un billet à ordre de 348 500 $ en faveur de PWR.
+14. Le 4 juin 2007, PWR a acheté ou racheté les 16,4 actions ordinaires de catégorie A de PWR qui appartenaient à 1251 et émis un billet à ordre de 348 500 $ en faveur de 1251.
+15. Le 5 juin 2007, PWR et 1251 ont appliqué leurs billets à ordre respectifs de 348 500 $ en compensation l’un de l’autre.
+Deuxième série de transferts : de Perry Wild et PWR à 1245
+16. Le 6 juin 2007, Perry Wild a transféré les 93,6 actions ordinaires de catégorie A qu’il détenait encore dans PWR à 1245 en échange de 1 989 actions privilégiées de catégorie E de 1245 conformément à l’article 85 de la Loi, de la manière suivante :
+a. les 93,6 actions ordinaires de catégorie A de PWR transférées par Perry Wild avaient une JVM de 1 989 000 $ et un PBR et un CV de 93,60 $;
+b. la valeur de rachat des 1 989 actions privilégiée de catégorie E de 1245 émises en faveur de Perry Wild était de 1 000 $ par action ou 1 989 000 $;
+c. Perry Wild et 1245 ont fait un choix établissant à 621 000 $ son PD de ses actions de PWR, le PBR des actions privilégiées de catégorie E de 1245 qu’il a reçues et le PBR pour 1245 des 93,6 actions ordinaires de catégorie A de PWR;
+d. Perry Wild a déclaré un gain en capital de 620 906 $ par suite du transfert des 93,6 actions ordinaires de catégorie A de PWR et demandé une exonération des gains en capital en vertu de l’article 110.6 de la Loi, de sorte qu’aucun impôt n’était à payer sur le gain;
+e. le CV des 1 989 actions privilégiées de catégorie E de 1245 reçues par Perry Wild lors du transfert a été réduit pour être établi à 93.60 $ (le CV des actions transférées de PWR) par l’effet de l’article 84.1 de la Loi.
+17. Le 7 juin 2007, PWR a transféré des terrains et des biens amortissables à 1245 en échange de la prise en charge d’un montant de dettes de PWR s’élevant à 613 738 $ et en échange de 1 826,242 actions privilégiées de catégorie E de 1245 conformément à l’article 85 de la Loi, de la manière suivante :
+a. les terrains et les biens amortissables transférés par PWR avaient une JVM de 2 439 980 $ et une fraction non amortie cumulative du coût en capital de 1 509 652 $;
+b. les 1 826,242 actions privilégiées de catégorie E de 1245 avaient une valeur de rachat de 1 000 $ par action ou de 1 826,242 $;
+c. PWR et 1245 ont fait un choix établissant à 1 509,652 $ le PD de PWR et le PBR de 1245 relativement aux terrains et aux biens amortissables;
+d. le PBR et le CV des actions privilégiées de catégorie E de 1245 reçues par PWR en contrepartie des terrains et des biens amortissables de PWR se sont établis à 895 914 $ par l’effet des paragraphes 85(1) et (2.1) de la Loi.
+18. Puisque Perry Wild a fait en sorte que 1245 émette des actions privilégiées de catégorie E en sa faveur et en faveur de PWR, le CV des 1 989 actions privilégiées de catégorie E de Perry Wild dans 1245 a été augmenté, passant à 467 115,62 $, et le CV des 1 826,242 actions privilégiées de catégorie E de 1245 reçues par PWR a été réduit pour être établi à ce même montant par l’application du paragraphe 89(1) de la Loi.
+Deuxième série d’opérations compensatrices effectuées par les sociétés
+19. Le 8 juin 2007, 1245 a racheté les 1 826,242 actions privilégiées de catégorie E qui appartenaient à PWR et émis un billet à ordre de 1 826,242 $ en faveur de PWR.
+20. Le 9 juin 2007, PWR a acheté ou racheté 86 des 93,6 actions ordinaires de catégorie A de PWR qui appartenaient à 1245 et émis un billet à ordre de 1 827 500 $ en faveur de 1245.
+21. Le 10 juin 2007, PWR et 1245 ont appliqué leurs billets à ordre respectifs en compensation l’un de l’autre; PWR demeurait redevable à 1245 d’un solde impayé de 1 258 $;
+22. Le 11 juin 2007, Perry Wild a transféré les 348,5 actions privilégiées de catégorie C de 1251 qu’il avait obtenues, comme il est indiqué au paragraphe 10 ci‑dessus, à 1245 en échange de 348,5 actions privilégiées de catégorie E de 1245, conformément à l’article 85 de la Loi, de la manière suivante :
+a. les 348,5 actions privilégiées de catégorie C transférées par Perry Wild avaient une JVM de 348 500 $, un PBR de 129 000 $ et un CV de 128 148 $;
+b. les actions privilégiées de catégorie E de 1245 reçues par Perry Wild avaient une valeur de rachat de 1 000 $ par action;
+c. Perry Wild et 1245 ont fait un choix établissant à 129 000 $ le PD de Perry Wild et le PBR de 1245 relativement aux 348,5 actions privilégiées de catégorie C de 1251;
+d. les 348,5 actions privilégiées de catégorie E de 1245 reçues par Perry Wild avaient un CV et un PBR de 128 148 $.
+23. Le 12 juin 2007, 1251 a acheté ou racheté les 348,5 actions privilégiées de catégorie C de 1251 détenues par 1245 et émis un billet à ordre de 348 500 $ en faveur de 1245.
+24. Le 13 juin 2007, PWR a divisé ses 7,6 actions ordinaires de catégorie A dans une proportion de 13,158 contre 1, de sorte que 1245 devenait propriétaire de 100 actions ordinaires de catégorie A de PWR alors détenues par 1245.
+25. À partir du 13 juin 2007, Perry Wild était propriétaire de 2 337,5 actions privilégiées de catégorie E de 1245 qui avaient une JVM de 2 337 500 $, un PBR de 750 000 $ et un CV de 595 264 $.
+26. Perry Wild n’a fait aucun autre apport en capital à PWR, à 1251 ou à 1245 du 1er janvier 2004 au 13 juin 2007.
+27. Les opérations précédentes constituaient une série d’opérations, laquelle a effectivement entraîné, directement ou indirectement, un avantage fiscal.
+28. Les opérations ci‑après étaient des opérations d’évitement selon la définition de ce terme au paragraphe 245(3) de la Loi :
+a. se servant de l’article 85 de la Loi, le 1er juin 2007, Perry Wild a transféré 16,4 actions ordinaires de PWR à 1251 en échange de 348,5 actions privilégiées de catégorie C de 1251, comme le décrit le paragraphe 10 ci‑dessus;
+b. se servant de l’article 85 de la Loi, le 2 juin 2007, PWR, suivant les directives de Perry Wild, a transféré du matériel de catégorie 8 à 1251 en échange de 348,5 actions privilégiées de catégorie C de 1251, comme le décrivent les paragraphes 11 et 12 ci‑dessus.
+29. Les opérations ci‑après étaient également des opérations d’évitement selon la définition de ce terme au paragraphe 245(3) de la Loi :
+a. se servant de l’article 85 de la Loi, le 6 juin 2007, Perry Wild a transféré 93,6 actions ordinaires de PWR à 1245 en échange de 1 989 actions privilégiées de catégorie E de 1245, comme le décrit le paragraphe 16 ci‑dessus;
+b. se servant de l’article 85 de la Loi, le 7 juin 2007, Perry Wild a transféré des terrains, des biens amortissables et des dettes de PWR à 1245 en échange de 1 826,242 actions privilégiées de catégorie E de 1245, comme le décrivent les paragraphes 17 et 18 ci‑dessus.
+[7] Les faits non contestés sont énoncés dans l’exposé conjoint des faits ci‑dessus. Pour fournir un contexte factuel, il y a lieu de présenter ici une vue d’ensemble de certains éléments.
+[8] Ayant demandé conseil à des planificateurs fiscaux, les Wild ont mis en œuvre, conformément aux directives de M. Wild, une restructuration visant à protéger les actifs de PWR et ils ont conclu une série d’opérations avec PWR, 1245 et 1251 comme parties avec un lien de dépendance entre elles. La série, qui comprenait des opérations d’évitement, a débuté lors de la constitution en société de 1245 au mois de mai 2006 et a pris fin le 13 juin 2007. [2] La série a entraîné, directement ou indirectement, l’avantage fiscal.
+[9] Dans le cadre de cette série, les appelants ont conclu en 2007 des opérations d’évitement, décrites aux paragraphes 10, 11, 12, 16, 17, 18, 28 et 29 de l’exposé conjoint des faits (les « opérations d’évitement »), qui ont entraîné, directement ou indirectement, l’avantage fiscal. [3] Les opérations d’évitement comprenaient le roulement en faveur de 1251 d’une part des actions de M. Wild dans PWR le 1er juin et le roulement en faveur de 1245 des actions qu’il lui restait dans PWR le 6 juin, en échange d’actions de catégorie C de 1251 et d’actions de catégorie E de 1245. Les opérations d’évitement comprenaient également le roulement de la plupart des actifs de PWR en faveur des sociétés à dénomination numérique liées, le 2 juin et le 7 juin, en échange de la réception par PWR d’actions de même catégorie que celles que M. Wild avait déjà reçues de chacune de ces sociétés. [4]
+[10] Ensemble, les opérations d’évitement du 1er juin et du 2 juin, par l’application du paragraphe 89(1), ont déclenché le moyennage du CV des actions de la catégorie C le 2 juin, lequel a donné lieu:
+a) à des augmentations du CV des actions de catégorie C de M. Wild;
+b) des réductions du CV des actions de catégorie C de PWR;
+c) à un CV du même montant pour M. Wild et pour PWR.
+[11] Des opérations d’évitement semblables effectuées le 6 juin et le 7 juin ont déclenché le moyennage du 7 juin qui a entraîné pour M. Wild l’augmentation, et pour PWR une réduction correspondante, du CV de leurs actions respectives de catégorie E.
+[12] Le produit de disposition des actions de M. Wild dans PWR et le prix de base rajusté (PBR), pour les sociétés à dénomination numérique, des biens reçus par ces sociétés sont égaux au montant visé par le choix exercé par M. Wild et ces sociétés, lequel choix a donné lieu aux gains en capital en réduction desquels son exonération des gains en capital a été appliquée. Le rachat mutuel d’actions (de PWR qui appartenaient aux sociétés à dénomination numérique et vice versa) a donné lieu à des dividendes réputés en vertu du paragraphe 84(3), et des déductions ont été appliquées en vertu de l’article 112 sans que des attributs fiscaux en résultent.
+[13] Avant la série, M. Wild était propriétaire des actions de PWR, qui avaient un PBR de 110 $ et un CV de 110 $. Après la série, il était propriétaire des actions en cause de 1245, qui avaient un PBR de 750 000 $ et un CV de 595 264 $, et la plupart des actifs de PWR appartenaient à 1251 et à 1245. La même juste valeur marchande (JVM) de 2 337 500 $ a été conservée avant et après la série.
+[14] À l’audience, chaque partie a versé en preuve des extraits de l’interrogatoire préalable de la partie adverse; l’intimée a fourni des précisions sur ces extraits du témoignage de son mandataire. Le mandataire de l’intimée était d’accord pour dire qu’il n’y avait rien d’irrégulier à recourir à des roulements en vertu de l’article 85 dans les opérations d’évitement. Les réserves de l’intimée portent sur le fait que l’effet de moyennage du CV est venu neutraliser la réduction du CV prévue à l’article 84.1, et ce, en raison de l’émission des actions de même catégorie en faveur de M. Wild, puis de PWR, d’une manière et selon une séquence qui ont entraîné l’augmentation artificielle du CV des actions en cause. Si les sociétés à dénomination numérique avaient émis une catégorie d’actions en faveur de l’un d’eux et une autre catégorie d’actions en faveur de l’autre, M. Wild n’aurait eu aucun avantage fiscal. [5]
+[15] Les renvois ci‑après à des dispositions législatives sont à celles de la Loi, sauf indication contraire.
+IV. Thèses des parties
+Intimée
+[16] L’intimée soutient que les appelants se sont soustraits aux effets de l’article 84.1 — une règle anti‑évitement particulière qui vise à empêcher le dépouillement de surplus —, par une utilisation abusive du calcul du CV prévu au paragraphe 89(1), calcul qui a déclenché le moyennage du CV de la même catégorie d’actions. De façon subsidiaire, les opérations d’évitement sont abusives puisqu’elles ont entraîné un résultat que les dispositions pertinentes visaient à prévenir et/ou qu’elles vont à l’encontre de la raison d’être de ces dispositions. Le recours au calcul du CV prévu au paragraphe 89(1) n’est pas en soi abusif; toutefois, la manière dont le calcul a été utilisé était contraire à l’objet ou à l’esprit des dispositions pertinentes.
+[17] L’intimé a soutenu que le fait d’appliquer les dispositions pertinentes, comme elles ont été interprétées, aux faits pour vérifier si les opérations d’évitement sont conformes à la raison d’être de ces dispositions ou vont à l’encontre de celle‑ci met l’accent plutôt sur le résultat global de la série d’opérations qui entraînent l’avantage fiscal. Pour ce faire, des actions de même catégorie ont été émises en faveur de M. Wild, puis de PWR, sans aucun nouvel apport de capital de la part de M. Wild à PWR ou à 1245; les actifs existants de PWR ont été transférés à 1251 et à 1245 dans une opération avec lien de dépendance, et ensuite on s’est prévalu de l’exonération des gains en capital de M. Wild et des déductions accordées aux sociétés, sans qu'il en résulte d'attributs fiscaux, tout en maintenant la JVM à 2,3 millions de dollars (de PWR à 1245).
+[18] Selon l’intimée, l’article 84.1 et le régime établi par la Loi en matière de CV seraient privés de toute signification s’il était possible d’appliquer abusivement le paragraphe 89(1) de façon à entraîner, par la manipulation d’actions, une augmentation artificielle du CV d’actions, comme en l’espèce.
+Appelants
+[19] Selon la thèse des appelants, la restructuration visait à protéger les actifs pour parer au risque. PWR transférerait ses actifs aux sociétés à dénomination numérique et louerait par la suite ces éléments à PWR. Dans le contexte de la restructuration, M. Wild a conclu les opérations d’évitement pour obtenir l’avantage fiscal. Le paragraphe 89(1) est une disposition à caractère de formule qui appelle l’application de principes de mathématiques de base au calcul du CV et il ne donne pas prise à l’abus. [6]
+[20] Selon l’approche de l’intimée, soutiennent les appelants, il y a eu abus dans l’application de l’article 84.1 non pas parce qu’on s’y est soustrait ou qu’on l’a contourné, mais parce que l’objet global des opérations était un dépouillement général du surplus, et l’intimée tente d’attribuer, indirectement, à l’article 84.1 l’effet de conférer des pouvoirs permettant la compensation de montants déductibles en vertu des articles 110.6 et 112.
+[21] Les appelants avancent que la thèse de l’intimée est erronée, puisqu’elle est focalisée sur seulement la moitié des opérations d’évitement et sur l’effet de moyennage du CV des actions, qu’elle fait abstraction de la réduction correspondante du CV, qu’elle est muette quant à l’article 112 et qu’elle présente la position antérieure à l’arrêt Hypothèques Trustco Canada c Canada [7] . Les résultats fiscaux découlent de l’application des dispositions pertinentes (et d’autres), qui ont eu l’effet qu’elles sont censées avoir, cet effet étant conforme aux objets de ces dispositions, de sorte que les opérations d’évitement n’ont entraîné aucun abus dans l’application d’une disposition quelconque de la Loi.
+A. La RGAÉ
+[22] Pour décider si la RGAÉ est applicable, la Cour suprême du Canada, dans l’arrêt Trustco Canada, enseigne qu’il faut appliquer le critère à trois étapes suivant :
+17 L’application de la RGAÉ comporte trois étapes. La première étape consiste à déterminer s’il existe un « avantage fiscal » découlant d’une « opération » au sens des par. 245(1) et (2). La deuxième étape consiste à déterminer si l’opération constitue une opération d’évitement visée par le par. 245(3), en ce sens qu’elle n’a pas été « principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable ». La troisième étape consiste à déterminer si l’opération d’évitement est abusive au sens du par. 245(4). […] [8]
+[23] Cette même cour a réitéré ce critère dans les arrêts Lipson c Canada [9] et Copthorne Holdings Ltd. c Canada. [10]
+[24] C’est aux appelants qu’il incombe d’établir que les deux premières étapes n’ont pas été franchies et la ministre a le fardeau de persuasion relativement à la troisième étape et doit donc établir l’évitement fiscal abusif.
+[25] Les appelants concèdent que M. Wild a obtenu l’avantage fiscal. [11] Lors des plaidoiries, cependant, ils ont fait valoir que la disposition prévoyant la déduction à l’article 112 est la disposition associée à l’avantage fiscal parce qu’elle opère la compensation des gains et cette déduction est la seule raison pour laquelle le [TRADUCTION] « changement en ce qui concerne le CV » fonctionne. L’intimée a répondu qu’elle ne soutient pas – ni ne soutiendrait – qu’il y a eu abus dans l’application de l’article 112, puisqu’il a fonctionné exactement comme il le devrait. Elle soutient plutôt que le paragraphe 89(1) est la source de l’avantage fiscal parce que M. Wild a ordonné et obtenu les augmentations du CV, en faisant intervenir des parties ayant un lien de dépendance entre elles, par l’émission de la même catégorie d’actions en sa faveur, puis en faveur de PWR, d’une manière séquentielle et d’une façon qui a déclenché le moyennage du CV des actions.
+[26] La Loi intègre les impôts des sociétés et des actionnaires sur le revenu tiré d’une entreprise en imputant les impôts des sociétés aux actionnaires, c’est-à-dire aux particuliers. Le but visé est le report de l’impôt sur le surplus de la société jusqu’à sa distribution comme dividende au particulier actionnaire. L’article 112 accorde une déduction aux sociétés pour faciliter le mouvement des fonds des sociétés (dividendes entre sociétés) entre sociétés, et ce, afin d’éviter que les distributions soient imposées à tous les paliers de la structure d’une société. [12]
+[27] L’émission de la même catégorie d’actions en faveur de PWR le 2 juin (catégorie C) et le 7 juin (catégorie E) que celle qui avait été émise précédemment en faveur de M. Wild a déclenché dans chaque cas le moyennage dans le calcul du CV des actions en vertu du paragraphe 89(1). Si la même catégorie d’actions n’avait pas été émise en faveur de PWR, il n’y aurait eu ni moyennage ni avantage fiscal. On ne prétend pas qu’il y a eu un abus dans l’application de l’article 112 et cet article n’est pas mentionné au paragraphe 89(1), et les appelants, dans leurs propres observations écrites, reconnaissent que le paragraphe 89(1) a été invoqué comme source de l’avantage fiscal. Par conséquent, je conclus que le paragraphe 89(1) est associé à l’avantage fiscal dont les appelants se sont prévalus, lequel paragraphe intègre l’article 84.1 comme élément du calcul du CV et du régime établi en matière de CV.
+[28] Bien que les appelants concèdent l’existence des opérations d’évitement au sens du paragraphe 245(3), ils ont ensuite soutenu que celles‑ci constituent un « simple » évitement fiscal. Compte tenu de cette concession, il n’y a pas lieu, à mon avis, de poursuivre l’examen relatif à la deuxième étape.
+[29] Pour ce qui est de la troisième étape, une analyse à deux volets de l’abus s’impose pour établir si les opérations d’évitement constituaient un abus dans l’application des dispositions pertinentes. Il s’agit, dans un premier temps, d’interpréter les dispositions pertinentes de la Loi pour en déterminer l’objet et l’esprit et, dans un second temps, d’examiner si les opérations d’évitement sont conformes à l’objet des dispositions pertinentes ou y sont contraires.
+[30] Il a été mentionné dans l’arrêt Trustco Canada que, malgré l’emploi des mots « misuse » et « abuse » dans la version anglaise du paragraphe 245(4), les décisions relatives à l’existence de ces deux éléments ne commandent pas des examens différents. [13] Dans les motifs qui suivront, le terme « abus » employé en français englobera le sens des deux mots anglais.
+[31] Divers principes seront exposés avant que soit entreprise la troisième étape de l’analyse de l’abus.
+B. Principes d’évitement fiscal abusif
+[32] Le cadre de l’analyse relative à la RGAÉ a été énoncé dans l’arrêt Trustco Canada et réitéré dans les arrêts Lipson et Copthorne (la « trilogie »). Les principes pour décider si une opération d’évitement entraîne un abus aux fins du paragraphe 245(4) se trouvent aux paragraphes 44 à 62 de l’arrêt Trustco Canada; un bon nombre des principes sont soulignés ci‑dessous.
+[33] Il a été mentionné dans l’arrêt Copthorne que « le contribuable peut opter pour les avenues ou les opérations qui sont propres à réduire son obligation fiscale ». Dans l’arrêt Trustco Canada, la Cour a affirmé :
+61 Une interprétation correcte du libellé des dispositions de la Loi de l’impôt sur le revenu ainsi que le contexte factuel pertinent d’une affaire donnée permettent d’établir un équilibre entre la nécessité de prévenir l’évitement fiscal abusif et celle de maintenir la certitude, la prévisibilité et l’équité en droit fiscal afin que les contribuables puissent organiser leurs affaires en conséquence. Le législateur souhaite que les contribuables profitent pleinement des dispositions de la Loi qui confèrent des avantages fiscaux. Il n’a pas voulu que la RGAÉ mine ce précepte fondamental du droit fiscal.
+[34] La planification fiscale n’est pas en soi abusive aux fins du paragraphe 245(4). [14]
+[35] Comme on le fait remarquer dans l’arrêt Lipson, « […] le contribuable ne se voit refuser l’avantage fiscal découlant d’une opération d’évitement que lorsque l’opération entraîne directement ou indirectement un abus dans l’application de dispositions de la Loi […] ». Ainsi, une opération d’évitement sera jugée abusive au sens du paragraphe 245(4) dans le cas où « il n’est pas raisonnable de conclure qu’un avantage fiscal serait conforme à l’objet ou à l’esprit des dispositions invoquées par le contribuable ». L’existence d’un évitement fiscal abusif sera établie si l’opération est contraire à ces dispositions. [15]
+[36] L’approche interprétative à adopter dans le cadre de l’analyse relative à la RGAÉ est mentionnée dans la trilogie et elle est décrite dans l’arrêt Copthorne en ces termes :
+70 L’objet ou l’esprit peuvent être circonscrits grâce à la méthode qu’emploie notre Cour pour toute interprétation législative, à savoir une méthode « textuelle, contextuelle et téléologique unifiée » (Trustco Canada, par. 47; Lipson c. Canada, 2009 CSC 1, [2009] 1 R.C.S. 3, par. 26). Bien que la méthode d’interprétation soit la même dans le cas de la RGAÉ, l’analyse vise en l’espèce à dégager un aspect différent de la loi. Dans un cas classique d’interprétation législative, la cour applique l’analyse textuelle, contextuelle et téléologique pour établir le sens du texte de la loi. Dans le cas de la RGAÉ, l’analyse textuelle, contextuelle et téléologique vise à établir l’objet ou l’esprit d’une disposition. Il est alors possible que le sens des mots employés par le législateur soit suffisamment clair. La raison d’être de la disposition peut ne pas ressortir de la seule signification des mots eux-mêmes. Il ne faut cependant pas confondre la détermination de la raison d’être des dispositions applicables de la Loi avec le jugement de valeur quant à ce qui est bien ou mal non plus qu’avec les conjectures sur ce que devrait être une loi fiscale ou sur l’effet qu’elle devrait avoir.
+[37] Dans le cadre de l’analyse relative à la RGAÉ, il faut adopter une interprétation textuelle, contextuelle et téléologique en vue de déterminer l’objet et l’esprit de la disposition pertinente qui est invoquée pour obtenir l’avantage fiscal et de définir la raison d’être de la disposition pertinente, eu égard à l’économie de la Loi et aux moyens extrinsèques admissibles. [16]
+[38] La RGAÉ ne peut être appliquée pour refuser un avantage fiscal que si le caractère abusif de l’opération est évident. Sinon, l’avantage est accordé au contribuable. [17]
+[39] Dans l’arrêt Copthorne, la Cour dit que nulle politique générale n’exclut la réorganisation de sociétés et elle précise :
+121 […] La RGAÉ n’intervient alors que si une opération d’évitement est jugée abusive. Même lorsqu’il y a réorganisation dans un dessein fiscal, il se peut que la RGAÉ ne s’applique pas. Ce n’est que lorsque la réorganisation a principalement un objet fiscal et qu’on juge qu’elle intervient de manière à contourner l’application de dispositions de la Loi de l’impôt sur le revenu qu’elle peut être considérée comme abusive. Et ce n’est que si elle est tenue pour abusive qu’elle peut tomber sous le coup de la RGAÉ.
+C. Analyse
+[40] Dans sa plaidoirie, l’avocat des appelants a fait valoir qu’il existe deux types d’abus. D’une part, il y a le cas où le contribuable a invoqué une disposition pour obtenir un avantage fiscal et où il y a eu un abus dans l’application de la disposition. D’autre part, il y a le cas où une règle anti‑évitement particulière a été contournée. Il a soutenu que, vu que la ministre ne pouvait démontrer aucun abus dans l’application d’une disposition qui avait été invoquée par les appelants, la ministre doit démontrer qu’une disposition anti‑évitement particulière a été contournée, mais elle n’a pu le faire [18] . L’avocat a expliqué :
+[Traduction]
+[…] il y a en réalité deux catégories générales d’abus, deux types d’usage d’abus, et je viendrai à la citation de la Cour suprême du Canada dans un moment.
+Il y a abus lorsque des dispositions de la Loi sont invoquées à tort pour obtenir un avantage fiscal; il s’agit là d’une catégorie. Alors, on examine les dispositions qui accordent l’avantage fiscal. Et la Cour suprême du Canada dit que c’est la première chose à faire, et la plus importante; il faut déterminer la source de l’avantage fiscal. Et l’on vérifie s’il y a eu un abus dans l’application des dispositions. Il existe une autre catégorie et c’est le cas où on a réellement contourné — et je pèse bien mes mots — contourné l’opération d’une disposition anti‑évitement particulière. On l’a contournée. Autrement dit, on a évité l’application d’une disposition d’évitement fiscal, ou plutôt d’une disposition anti-évitement fiscal. [19]
+[41] L’avocate de l’intimée a répondu que, selon l’analyse dans l’arrêt Trustco Canada, il existe trois catégories et [traduction] « [...] la cour doit conclure que l’opération abusive tombe dans l’une de ces trois catégories, et des chevauchements sont possibles. On peut conclure que deux volets de ces trois critères existent dans les opérations et qu’ils entraînent un évitement fiscal abusif ». [20]
+[42] La trilogie enseigne qu’il existe trois types d’évitement fiscal abusif. La Cour suprême dit à ce sujet dans l’arrêt Trustco Canada :
+45 Cette analyse aboutit à une conclusion d’évitement fiscal abusif dans le cas où le contribuable se fonde sur des dispositions particulières de la Loi de l’impôt sur le revenu pour obtenir un résultat que ces dispositions visent à empêcher. Ainsi, il y a évitement fiscal abusif lorsqu’une opération va à l’encontre de la raison d’être des dispositions invoquées. Un mécanisme qui contourne l’application de certaines dispositions, comme des règles anti‑évitement particulières, d’une manière contraire à l’objet ou à l’esprit de ces dispositions peut également donner lieu à un abus. [...]
+[43] De plus, dans les arrêts Lipson et Copthorne respectivement, la Cour a ajouté au sujet des trois types d’abus qu’« [u]ne ou plusieurs de ces conditions peuvent être remplies dans un cas donné » et que « [c]es considérations ne jouent pas indépendamment les unes des autres, et elles peuvent se chevaucher » [21] .
+[44] Dans l’arrêt Copthorne, la Cour a conclu que l’opération contournait l’application de l’exception prévue au paragraphe 87(3) dès que s’opérait la fusion de deux entités, et elle a finalement conclu que la vente d’actions avait contourné l’application de cette exception et, dans le contexte de la série d’opérations dont cette vente faisait partie, avait produit un résultat que l’article visait à prévenir et allait de ce fait à l’encontre de la raison d’être de l’article. [22]
+[45] En substance, « [b]ien que l’accent doive être mis sur elle [l’opération], lorsque l’opération fait partie d’une série, il faut l’examiner dans le contexte de la série pour déterminer s’il y a évitement fiscal abusif. » En effet, « […] le caractère abusif d’une opération ne se révèle alors que dans le contexte de la série dans laquelle elle s’inscrit et de l’effet global obtenu [...] » [23] . La question centrale est de savoir si les opérations étaient conformes à l’objet des dispositions pertinentes. [24]
+[46] En l’espèce, la ministre prétend qu’il y a eu un abus dans l’application du paragraphe 89(1) et de l’article 84.1.
+1. Interprétation des dispositions pertinentes pour en dégager l’objet et l’esprit
+[47] Ayant ces principes présents à l’esprit, je passe maintenant à la troisième étape de l’analyse relative à la RGAÉ, soit celle consistant à déterminer s’il y a eu abus. Cette étape commence par une analyse textuelle, contextuelle et téléologique visant à déterminer l’objet ou l’esprit des dispositions qui ont été invoquées pour obtenir l’avantage fiscal, après quoi on examine si les opérations contestées constituent un évitement fiscal abusif. [25]
+Paragraphe 89(1)
+[48] Le CV est déterminé conformément au paragraphe 89(1), lequel contient la définition de capital versé. Les dispositions pertinentes sont ainsi rédigées:
+89(1) « capital versé » À un moment donné :
+a) à l’égard d’une action d’une catégorie quelconque du capital-actions d’une société, somme égale au capital versé à ce moment, relativement à la catégorie d’actions du capital-actions de la société à laquelle appartient cette action et divisé par le nombre des actions émises de cette catégorie qui sont en circulation à ce moment;
+b) à l’égard d’une catégorie d’actions du capital-actions d’une société :
+[…]
+(iii) lorsque le moment donné est postérieur au 31 mars 1977, somme égale au capital versé au moment donné au titre de cette catégorie d’actions, calculée compte non tenu des dispositions de la présente loi, à l’exception des paragraphes 51(3) et 66.3(2) et (4), des articles 84.1 et 84.2, des paragraphes 85(2.1), 85.1(2.1), 86(2.1), 87(3) et (9), 128.1(2) et (3), 138(11.7), 139.1(6) et (7), 192(4.1) et 194(4.1) et de l’article 212.1.
+Texte
+[49] Il ressort du texte que, pour déterminer le CV, on le calcule d’abord en fonction du capital‑actions (c.‑à‑d., le capital déclaré) d’une société relativement à une catégorie d’actions (ou à une série) [26] . Le capital déclaré peut alors être rajusté par l’effet des dispositions énumérées au sous-alinéa b)(iii) de la définition, pourvu que les conditions soient remplies. La Cour suprême, dans l’arrêt Copthorne, a fait les observations suivantes au sujet du texte :
+75 L’énoncé est inhabituel, car il ne définit pas explicitement le terme de manière positive. Il dispose plutôt que le CV est initialement calculé « compte non tenu de la présente loi », de sorte que, dans les faits, le point de départ du calcul du CV est le capital déclaré d’une catégorie d’actions suivant le droit des sociétés. Voici l’explication que donne le par. 2 du Bulletin d’interprétation IT‑463R2, « Capital versé » (8 septembre 1995) :
+Le montant du capital versé d’une catégorie d’actions est d’abord déterminé, selon le sous-alinéa b)(iii) de la définition de « capital versé », sans égard aux dispositions de la Loi de l’impôt sur le revenu. C’est la loi sur les sociétés applicable, et non les lois fiscales, qui règle le calcul de ce montant. Le montant ainsi calculé est souvent désigné sous le nom de « capital déclaré » de la catégorie d’actions.
+[50] Le paragraphe 89(1) définit le CV en fonction d’une action ou de la totalité des actions de la catégorie du capital‑actions de la société déterminée selon la loi sur les sociétés applicable [27] . Le calcul du CV suppose que les actionnaires de la catégorie doivent recevoir le même traitement [28] . Le CV d’actions de la catégorie est calculé en divisant le CV de la catégorie par le nombre d’actions émises dans cette catégorie. Ainsi, les actionnaires de la catégorie ont tous le même CV peu importe l’apport en capital de chacun d’eux [29] .
+Contexte
+[51] Dans une analyse contextuelle, il faut examiner d’autres dispositions pertinentes qui sont regroupées ou qui s’appliquent ensemble, afin de donner effet à un [traduction] « plan plausible et cohérent », et il faut examiner aussi les éléments extrinsèques admissibles afin de comprendre le contexte de la disposition en cause [30] .
+[52] L’interprétation de dispositions particulières ne peut être dissociée des considérations contextuelles découlant d’autres dispositions de la Loi, laquelle forme un tout cohérent en ce qui concerne le régime législatif particulier dont relèvent les opérations. Le régime établi par la Loi en matière de CV fait partie de l’approche adoptée dans la Loi relativement à l’imposition des distributions faites par les sociétés. Le paragraphe 89(1) est décrit dans l’arrêt Copthorne comme intégrant d’autres dispositions qui peuvent réduire le CV (la « réduction du CV ») des actions d’une société dans le calcul du CV sous ce régime.
+[53] Le CV calculé pour la catégorie peut être différent du capital déclaré de cette catégorie en raison de telles réductions qui peuvent être faites à des fins d’impôt en vertu des dispositions énumérées au sous-alinéa b)(iii) de la définition du CV au paragraphe 89(1). Ce sous-alinéa mentionne les articles 84.1 et 212.1 — qui, s’il est satisfait aux conditions requises, s’appliquent aux cas où il existe un lien de dépendance — et le paragraphe 85(2.1); ce sont des dispositions anti-évitement. Le sous-alinéa mentionne également le paragraphe 87(3), qui empêche le gonflement du CV lors d’une fusion; ce paragraphe était la principale disposition examinée dans l’arrêt Copthorne.
+Objet
+[54] Le législateur a modifié la définition de CV en 1977. Il a décidé que les principes du droit des sociétés régiraient le calcul du CV pour représenter les fonds qu’un actionnaire investit dans une société. Le montant investi pouvait être remboursé à titre de remboursement de capital libre d’impôt parce que l’apport de CV provenait de sommes nettes d’impôt, mais tout montant versé à un actionnaire qui excédait le CV serait imposé comme dividende [31] .
+[55] Je suis d’accord avec l’intimée pour dire que le paragraphe 89(1) vise à refléter la notion de capital déclaré du droit des sociétés — sous réserve de l’application des dispositions énumérées dans la Loi qui peuvent entraîner des rajustements ultérieurs —, pour faire en sorte que le CV, calculé et moyenné pour la catégorie, représente fidèlement les fonds investis dans les actions de la société par ses actionnaires et qu’il soit limité à ces fonds.
+Article 84.1
+[56] La partie pertinente de l’article 84.1, mentionné, rappelons-le, au sous-alinéa b)(iii) de la définition de capital versé au paragraphe 89(1), dispose :
+84.1 (1) Lorsque, après le 22 mai 1985, un contribuable qui réside au Canada (à l’exclusion d’une société) dispose d’actions qui sont des immobilisations du contribuable — appelées « actions concernées » au présent article — d’une catégorie du capital-actions d’une société qui réside au Canada — appelée « la société en cause » au présent article — en faveur d’une autre société — appelée « acheteur » au présent article — avec laquelle le contribuable a un lien de dépendance et que, immédiatement après la disposition, la société en cause serait rattachée à l’acheteur, au sens du paragraphe 186(4) si les mentions « société payante » et « société donnée » y étaient respectivement remplacées par « la société en cause » et « acheteur »:
+a) dans le cas où les actions de l’acheteur — appelées « nouvelles actions » au présent article — ont été émises en contrepartie des actions concernées, le montant calculé selon la formule suivante est déduit dans le calcul du capital versé, à un moment postérieur à l’émission des nouvelles actions, au titre d’une catégorie donnée d’actions du capital-actions de l’acheteur :
+(A - B) × C/A
+où :
+A représente le montant correspondant à l’augmentation — conséquence de l’émission des nouvelles actions — du capital versé au titre de toutes les actions du capital-actions de l’acheteur, calculée sans que le présent article soit appliqué à l’acquisition des actions concernées,
+B l’excédent éventuel du plus élevé des montants suivants :
+(i) le capital versé au titre des actions concernées immédiatement avant la disposition,
+(ii) le prix de base rajusté des actions concernées pour le contribuable immédiatement avant la disposition, sous réserve des alinéas (2)a) et a.1),
+sur la juste valeur marchande, immédiatement après la disposition, de toute contrepartie, à l’exclusion des nouvelles actions, reçue de l’acheteur par le contribuable pour les actions concernées,
+C le montant correspondant à l’augmentation — conséquence de l’émission des nouvelles actions — du capital versé au titre de la catégorie donnée d’actions, calculée sans que le présent article soit appliqué à l’acquisition des actions concernées.
+Texte
+[57] Selon un examen textuel, l’article 84.1 s’applique lorsqu’il y a, dans une situation où il existe un lien de dépendance, un transfert d’actions d’une société canadienne à une autre société par un particulier (résidant au Canada : en l’occurrence, M. Wild) et que les entreprises sont rattachées immédiatement après la disposition des actions. Il empêche que le CV des actions nouvellement acquises (celles de 1251 et de 1245) ne dépasse le CV des actions concernées (celles de PWR) en raison de l’augmentation du CV résultant de l’émission de nouvelles actions qui se produirait par ailleurs en l’absence de l’article 84.1. Si les conditions énoncées à l’article 84.1 sont remplies, il y a réduction du CV des actions émises par l’acheteur (1251 et 1245), de sorte qu’il corresponde au montant du CV des actions de la société en cause (PWR) [32] .
+Contexte
+[58] Dans le cadre des modifications apportées en 1977, le législateur a introduit les articles 84.1 et 212.1, applicables aux opérations où il y a un lien de dépendance, en raison de préoccupations concernant les distributions effectuées par les sociétés.
+[59] L’article 84.1 figure à la sous-section (h) de la section B de la partie I, qui porte notamment sur le calcul du CV et l’imposition des sociétés résidant au Canada et de leurs actionnaires.
+[60] Dans l’arrêt Copthorne, les dispositions relatives à la réduction du CV, énumérées au sous-alinéa b)(iii) de la définition de CV au paragraphe 89(1) comme éléments du régime établi en matière de CV, sont décrites comme visant surtout à empêcher la conservation du CV dans les cas où la seule prise en compte du capital déclaré ne permettrait pas l’atteinte de l’objectif du législateur, à savoir que seuls peuvent faire l’objet d’un remboursement de capital sans inclusion dans le revenu les fonds libérés d’impôt investis. La Cour fait les observations suivantes :
+95 Le paragraphe 89(1) incorpore par renvoi des dispositions qui réduisent le CV des actions d’une société. Par exemple, les art. 84.1 et 212.1 réduisent tous deux le CV lors d’opérations avec lien de dépendance. On les qualifie de dispositions « anti‑évitement » visant le dépouillement des dividendes (Collins & Aikman Products Co. c. La Reine, 2009 CCI 299 (CanLII), par. 55 et 105, conf. par 2010 CAF 251 (CanLII)), car grâce à ces opérations avec lien de dépendance, les sociétés peuvent verser aux actionnaires, à titre de remboursement de capital non imposable plutôt que de dividende imposable, une somme supérieure à l’investissement initial de fonds libérés d’impôt.
+96 L’existence de tels mécanismes de réduction donne à penser que les dispositions énumérées au par. 89(1) visent principalement à empêcher la conservation du CV lorsque la seule prise en compte du capital déclaré ne permettrait pas d’atteindre l’objectif fiscal du législateur, à savoir que seul le remboursement des fonds libérés d’impôt investis ne soit pas ajouté au revenu. […]
+[61] De façon générale, les articles 84, 84.1 et 212.1 et le paragraphe 85(2.1) sont conçus pour que les actionnaires soient imposés sur toute distribution des surplus d’une société. Même si chacune de ces dispositions vise un scénario différent, le facteur textuel commun est l’objet consistant à empêcher le dépouillement des surplus d’une société.
+[62] Le paragraphe 84(3) est une disposition déterminative qui concerne les montants versés lors du rachat d’actions; ce paragraphe s’appliquait en l’espèce. Illustrant la façon dont le paragraphe 89(1) joue dans le contexte du régime établi en matière de CV, le paragraphe 84(3) prend le CV déterminé en vertu du paragraphe 89(1), y compris les rajustements exigés au paragraphe 87(3), et il prévoit qu’un montant versé qui excède le CV ainsi déterminé est réputé constituer un dividende reçu par un actionnaire et être imposable. Si le montant versé lors d’un tel rachat est inférieur ou égal au CV, il constitue un remboursement de capital non imposable. De la même manière, aux termes des paragraphes 84(2) et (4) à (9), des dividendes sont réputés être versés dans différentes circonstances, mais seulement dans le cas de résidents du Canada, pour empêcher que les sommes distribuées par les sociétés ne soient capitalisées à titre de capital déclaré en vue de leur distribution à un actionnaire comme remboursement de capital libre d’impôt au-delà du montant investi.
+[63] L’article 212.1 prévoit une réduction du CV d’actions émises par un acheteur (ou un dividende réputé) si les conditions y énoncées sont remplies. Étant donné que l’article 212.1 s’applique à une personne non résidente qui dispose d’actions d’une société résidant au Canada en faveur d’une autre société résidant au Canada, cet article n’est pas pertinent en l’espèce. Il est à noter que les modifications apportées à l’article 84.1 en 1985 étaient modelées sur l’article 212.1.
+[64] Le paragraphe 85(2.1) s’applique dans le cas où il y a émission d’actions lors du transfert de biens; l’alinéa 85(2.1)a) aura pour effet de réduire le CV des actions émises par l’acheteur si les conditions y énoncées sont remplies. Cela s’appliquait également aux transferts des actifs et du CV limité de PWR. On ne prétend pas qu’il y a eu abus dans l’application de ce paragraphe, mais les appelants ont mentionné le paragraphe dans leurs observations. En bref, le paragraphe 85(2.1) n’est applicable que dans les cas où le paragraphe 85(1) ou 85(2) s’applique à la disposition d’un bien et dans ceux où il y a eu une disposition d’un bien à laquelle l’article 84.1 ou 212.1 est inapplicable. En ce qui concerne le contexte, le paragraphe 85(2.1) prenait effet après le mois de novembre 1985, son introduction étant corrélative à celle des dispositions relatives à l’exemption pour gains en capital. Son objet est décrit comme étant celui d’empêcher le retrait de surplus imposables d’une société à titre de remboursement de capital libre d’impôt; à cette fin, il limite le montant du CV des actions émises lors d’un transfert de biens [33] .
+Objet
+[65] L’intimée soutient que l’article 84.1 a pour objet d’empêcher le retrait du surplus imposable d’une société ou sa conversion en remboursement éventuel de capital libre d’impôt, au moyen d’une vente avec lien de dépendance, par un particulier actionnaire résidant au Canada, d’actions d’une société à une autre société, empêchant ainsi qu’il y ait une augmentation du CV.
+[66] Les notes explicatives du ministère des Finances du mois de mai 1991 indiquent ce qui suit :
+L’article 84.1 de la Loi est une disposition anti‑évitement qui vise à empêcher le retrait du surplus imposable d’une corporation à titre de restitution de capital en franchise d’impôt, par le biais d’un transfert d’actions comportant un lien de dépendance qu’un particulier résidant au Canada effectue en faveur d’une corporation. [34]
+[67] Dans la décision Descarries c Canada [35] , le juge Hogan affirme que « […] l’objet et l’esprit de l’article 84.1 de la Loi sont d’empêcher que les contribuables mettent en place des transactions dont l’objectif est de dépouiller une société de ses surplus en franchise d’impôt grâce à l’utilisation de la marge libre d’impôt ou de l’exonération des gains en capital ». Il dit que son opinion est conforme à celle qu’avait le ministre des Finances lorsque, en 1985, lors de l’introduction des nouvelles dispositions portant sur l’exonération des gains en capital, il a présenté des modifications qu’on se proposait d’apporter à l’article 84.1. Le paragraphe 54 des motifs du juge Hogan, reproduit à l’annexe I des présents motifs, traite de ce point de façon plus approfondie.
+Conclusion – objet ou esprit
+[68] Je conclus en ce qui concerne l’objet ou l’esprit du paragraphe 89(1) que ce paragraphe est conçu de façon à ce que le CV des actions d’une même catégorie soit égal, étant calculé par référence aux principes du droit des sociétés, sous réserve des rajustements applicables énumérés au sous‑alinéa b)(iii) de la définition de CV au paragraphe 89(1); cela représente le montant investi dans les actions de la société par ses actionnaires. En ce qui concerne l’objet ou l’esprit de l’article 84.1, une règle anti‑évitement, cet article vise à empêcher le retrait du surplus imposable d’une société comme remboursement de capital libre d’impôt par le recours à l’exonération des gains en capital (ou à une marge exonérée d’impôt) lorsque, dans une opération avec lien de dépendance, un particulier résidant au Canada transfère les actions d’une société à une autre société; en pareil cas, un montant de CV supérieur au montant investi ne peut être retiré en franchise d’impôt.
+2. Les opérations d’évitement étaient-elles contraires à l’objet ou à l’esprit des dispositions pertinentes?
+[69] Cette deuxième étape de l’analyse relative à l’abus consiste à examiner le contexte factuel pour vérifier si les opérations d’évitement étaient contraires à l’objet ou à l’esprit des dispositions pertinentes qui ont été invoquées par les appelants.
+[70] M. et Mme Wild étaient respectivement propriétaires des sociétés nouvellement constituées 1245 et 1251. PWR, qui appartenait à M. Wild, louait de l’équipement à des entreprises du secteur pétrolier. M. Wild a demandé à des planificateurs fiscaux des conseils sur la façon de protéger les actifs de PWR; l’objectif était la protection des actifs. Les Wild ont effectué la restructuration au moyen de la série d’opérations ayant commencé par la constitution en société de 1245 au mois de mai 2006 et ayant pris fin le 13 juin 2007. Les appelants ont qualifié cela de déplacement de CV pour opérer le transfert des actifs de PWR à 1251 et à 1245. En définitive, la plupart des actifs de PWR ont été transférés aux sociétés à dénomination numérique et par la suite loués à PWR. Dans le cadre de la série, les appelants ont conclu les opérations d’évitement dont il est question ci-après.
+1er juin – M. Wild a transféré ses 16,4 actions dans PWR à 1251 en échange de 348,5 actions de catégorie C émises par 1251 en faveur de M. Wild
+[71] Selon le calcul du CV effectué conformément au paragraphe 89(1), lorsqu’un élément d’actif ayant une JVM élevée (ici les 16,4 actions dans PWR) est transféré à une société (ici 1251), le capital déclaré de cette société augmente en conséquence (ici celui de 1251 est porté à 129 000 $).
+[72] Les conditions énoncées à l’article 84.1 ayant été remplies, il s’appliquait de façon à réduire le CV des actions de catégorie C (de 1251) émises en faveur de M. Wild et à l’établir ainsi à 1 $ l’action. Par conséquent, le CV des actions de catégorie C que M. Wild a reçues était de 16,40 $.
+2 juin – PWR a transféré des actifs à 1251 en échange de 348,5 actions de catégorie C émises par 1251 en faveur de PWR
+[73] Cette opération d’évitement consistait en le transfert par PWR à 1251 de certains de ses actifs en contrepartie d’actions de catégorie C reçues par PWR; les actifs avaient une JVM de 348 500 $ et une fraction non amortie du coût en capital (FNACC) de 256 279 $. La contrepartie reçue par PWR consistait en les actions de catégorie de C ayant une valeur de rachat de 1 000 $ l’action, pour un total de 348 500 $. Il y a eu exercice d’un choix par suite duquel le montant du produit de disposition de PWR et du PBR de 1251 était établi à 256 279 $.
+[74] Le paragraphe 85(2.1) s’appliquait de façon à réduire le CV des actions de catégorie C pour l’établir à 256 279 $ (ce qui limite le montant pouvant être distribué comme remboursement de capital libre d’impôt, de manière à empêcher le dépouillement de surplus).
+[75] Par la suite, le CV des actions de catégorie C de M. Wild a augmenté (passant de 16,40 $ à 128 148 $) et celui des actions de catégorie C de PWR a diminué (passant de 256 279 $ à 128 148 $) en raison de l’effet de moyennage résultant de l’application du paragraphe 89(1), selon lequel les actions des actionnaires doivent avoir le même CV; le CV des actions émises a été rajusté pour être établi au même montant, soit 128 148 $, pour M. Wild et pour PWR [36] .
+[76] Ultérieurement, les actions dans PWR qui appartenaient à 1251 et les actions de catégorie C qui appartenaient à PWR ont été rachetées, ce qui a généré un dividende réputé en vertu du paragraphe 84(3), et une déduction a été demandée en vertu de l’article 112; aucun montant d’impôt n’était exigible de PWR ou de 1251.
+6 juin – M. Wild a transféré les 93,6 actions dans PWR qu’il lui restait à 1245 en échange de 1 989 actions de catégorie E émises par 1245 en faveur de M. Wild
+[77] Dans le cas de cette opération d’évitement, l’article 84.1 s’appliquait de façon à réduire le CV des actions reçues par M. Wild en échange des actions dans PWR qu’il lui restait. Une fois de plus, selon le calcul du CV, lorsque des actifs ayant une JVM élevée, soit les 93,6 actions dans PWR, sont transférés à 1245, le capital déclaré de 1245 augmente. Dans le cas présent, le capital déclaré aurait été de 621 000 $. L’article 84.1 s’appliquait toutefois de façon à limiter le CV en réduisant le CV des actions de catégorie E.
+7 juin – PWR a transféré des terrains, des biens amortissables et des dettes à 1245 en échange de 1 826,242 actions de catégorie E émises par 1245 en faveur de PWR
+[78] Cette dernière opération d’évitement, en tant qu’elle se rapporte à la catégorie E, suivait des étapes semblables à celles de l’opération du 2 juin 2007. Plus précisément, PWR a transféré des terrains, des biens amortissables et des dettes à 1245 pour une contrepartie consistant en des actions. La JVM des terrains et des biens amortissables était de 2 439 980 $, et la FNACC était de 1 509 652 $. La contrepartie reçue consistait en la prise en charge de dettes et en des actions de catégorie E ayant une valeur de rachat de 1 000 $ l’action, pour un total de 1 826 242 $. Le paragraphe 85(2.1) s’appliquait à l’opération de façon à réduire le CV des actions pour l’établir à 895 914 $; le montant qui pouvait être distribué comme remboursement de capital libre d’impôt était limité à 895 914 $.
+[79] Une fois de plus, le CV des actions de catégorie E de M. Wild a augmenté (passant de 93,60 $ à 467 115 $) et le CV des actions de catégorie E de PWR a diminué (passant de 895 914 $ à 467 115 $) en raison de l’effet de moyennage résultant de l’application du paragraphe 89(1); les actions finissent par avoir le même CV.
+[80] À la suite cette étape, il y a eu un rachat mutuel des actions de 1245 et de PWR, lequel a donné lieu à un dividende réputé en vertu du paragraphe 84(3), et une déduction a été demandée en vertu de l’article 112; aucun montant d’impôt n’était exigible de PWR ou de 1245.
+[81] La dernière étape de la restructuration consistait à échanger les actions de catégorie C contre les actions de catégorie E au moyen d’un roulement en vertu de l’article 85 [37] . M. Wild est ainsi devenu propriétaire des actions de 1245 (2 337,5 actions de catégorie E), qui avaient un CV de 595 264 $, ce qui représentait les deux augmentations de CV réunies.
+[82] Les appelants ont soutenu que le paragraphe 89(1) consiste en une formule qui n’a que l’objet limité du calcul du CV afin d’effectuer le moyennage du CV des actions d’une même catégorie en fonction des principes du droit des sociétés, et qu’il ne donne pas prise à l’abus ni ne précise les circonstances dans lesquelles il y a abus. L’« abus » qui aurait été commis était le choix d’émettre la même catégorie d’actions en faveur de M. Wild, puis en faveur de PWR, ce qui a abouti à l’avantage fiscal. Le moyennage du CV des actions s’est appliqué de la manière dont il devait s’appliquer, de sorte que M. Wild et PWR ont eu le même CV pour la même catégorie d’actions. Ils soutiennent que l’intimée n’a pas réussi à établir que les opérations constituaient un abus de l’objet et de l’esprit du paragraphe 89(1) ou qu’elles étaient contraires à cet objet et à cet esprit, et que, cela étant, il s’agit d’une tentative de comblement de lacunes législatives.
+[83] Il est évident que le calcul du CV selon le mécanisme prévu au paragraphe 89(1) n’est pas en soi abusif. Je ne suis pas d’accord pour dire, cependant, que le paragraphe ne donne pas prise à l’abus. Bien que les appelants se soient référés aux principes de l’arrêt Trustco Canada, leur argument quant aux mathématiques de base et leur approche générale semblaient être focalisés sur une interprétation littérale du libellé du paragraphe 89(1), sans qu’il soit tenu compte du régime établi en matière de CV. La trilogie d’arrêts enseigne que, même s’il faut tenir compte du texte, l’aspect central de l’analyse consiste en l’interprétation contextuelle et téléologique de la disposition en cause pour trouver une signification qui s’harmonise avec le libellé, l’objet et l’esprit des dispositions de la Loi [38] . Il est malavisé de s’appuyer uniquement sur le texte des dispositions sans tenir compte de leur raison d’être, même s’il est possible, dans certains cas, que la raison d’être n’ait pas une plus grande portée que le texte lui- même [39] .
+[84] Les appelants ont également soutenu que l’article 84.1 s’est appliqué de façon à réduire le CV, qu’il n’a donc pas été contourné car [traduction] « personne n’est passé outre aux dispositions de » l’article, et que l’intimée ne peut démontrer en quoi il y a eu abus de l’objet ou de l’esprit de l’article 84.1.
+[85] Le paragraphe 89(1) et l’article 84.1, pris ensemble, portent sur le calcul du CV comprenant la réduction du CV dans le cas du transfert d’actions d’une société à une autre société effectué par un particulier au moyen d’une opération avec lien de dépendance. La définition de CV au paragraphe 89(1) prend comme fondement du calcul du CV le capital déclaré, modifié par les rajustements ultérieurs, dans le cadre du régime établi par la Loi en matière de CV. Ensemble ces dispositions empêchent l’extraction en franchise d’impôt du surplus d’une société dans de telles circonstances et excluent le remboursement d’un montant de capital libre d’impôt qui excède l’apport initial d’un investisseur, comme il a été mentionné dans l’arrêt Copthorne et conformément au régime établi en matière de CV.
+[86] Dans la décision Desmarais c Canada, après avoir décrit l’article 84.1 comme ayant pour objet d’empêcher le remboursement libre d’impôt du surplus d’une société au moyen d’un transfert d’actions par un particulier dans des circonstances où il existe un lien de dépendance, le juge Archambault a conclu que M. Desmarais avait procédé au dépouillement de surplus d’une société en exploitation [40] .
+[87] De même, dans la décision Descarries, un autre jugement invoqué par l’intimée, le juge Hogan a également expliqué que l’article 84.1 a été édicté pour empêcher la distribution en franchise d’impôt des surplus de sociétés soit au moyen de transferts d’actions entre parties ayant un lien de dépendance entre elles, soit dans des cas où des particuliers contribuables tentent d’utiliser leur exonération des gains en capital [41] . Il a fait remarquer que l’article 84.1 s’applique dans le contexte décrit ci‑après et, s’il est applicable, entraîne une réduction du CV des actions émises par l’acheteur :
+a) un contribuable résidant au Canada (auteur du transfert), à l’exception d’une société, dispose d’actions (les actions en cause) d’une société résidant au Canada (la société en cause);
+b) les actions en cause constituent des immobilisations pour le contribuable;
+c) le contribuable transfère les actions en cause à une société (acheteur) avec laquelle le contribuable a un lien de dépendance;
+d) la société en cause est rattachée à l’acheteur immédiatement après la disposition.
+[88] Le juge Hogan a conclu à l’existence de trois opérations qui ont permis aux appelants de distribuer indirectement, en franchise d’impôt, une part des surplus de l’entreprise de la société Oka et qui ont constitué un abus dans l’application de l’article 84.1 parce que le conseiller en fiscalité des appelants avait conçu un plan fiscal complexe visant précisément à contourner l’objet ou l’esprit de cette disposition [42] . La conclusion tirée dans la décision Descarries et les éléments clés de celle-ci figurent à l’annexe II des présents motifs. Les parties en l’espèce ne tirent pas les mêmes conclusions de la décision Descarries.
+[89] L’intimée a soutenu que, bien que les opérations d’évitement en l’espèce diffèrent quant à leur conception, elles visaient à atteindre le même objet ou à obtenir le même résultat; l’objet était de permettre à M. Wild d’utiliser son exonération des gains en capital d’une façon qui lui permettrait de recevoir des distributions de la société sous forme de remboursement de capital libre d’impôt excédant son apport de capital plutôt que sous forme de dividendes imposables. Cela s’est fait d’une manière qui contourne les effets de l’article 84.1 et/ou qui fait échec à son application et va à l’encontre de sa raison d’être comme disposition anti‑évitement particulière destinée à empêcher le résultat atteint par l’abus dans l’application du paragraphe 89(1), abus qui a déclenché le moyennage du CV des actions.
+[90] Les appelants ont soutenu que les opérations examinées par le juge Hogan dans la décision Descarries ont été faites dans le contexte d’un dépouillement de surplus [43] . Ils ont soutenu que ce n’est pas dans ce contexte que les opérations auxquelles s’oppose la ministre ont été conclues en l’espèce et font remarquer que la ministre reconnaît que la restructuration a été effectuée pour protéger les actifs de PWR. Enfin, les appelants prétendent que le juge Hogan a conclu que la RGAÉ s’appliquait dans l’affaire Descarries parce que les appelants avaient utilisé leur valeur libre d’impôt au jour de l’évaluation pour compenser un gain en capital transitoire qui avait été généré dans le seul but de permettre à Descarries de recevoir des remboursements de capital libres d’impôt. Il n’existe aucun lien direct ou indirect de ce genre entre l’utilisation par M. Wild de son exonération des gains en capital et l’augmentation du CV des actions de 1245.
+[91] Je suis en désaccord sur l’analyse que font les appelants de la décision Descarries. Il y a des similitudes entre les opérations d’évitement en l’espèce et celles en cause dans l’affaire Descarries qui me permettent de conclure que les opérations d’évitement en l’espèce, comme celles dans l’affaire Descarries, avaient été conçues et exécutées dans un contexte de dépouillement de surplus faisant partie d’une planification complexe. Dans mon analyse, j’ai pris en compte l’interrelation des étapes des opérations, les effets fiscaux combinés des opérations d’évitement, l’article 84.1 (qui est une règle anti‑évitement particulière qui est pertinente relativement à la question qui nous occupe), le contexte dans lequel les opérations d’évitement ont été exécutées et le résultat global.
+[92] Les éléments clés des opérations en l’espèce peuvent se résumer succinctement comme suit :
+Le 1er juin 2007, M. Wild a échangé 16,4 actions de PWR contre des 348,5 actions de catégorie C de 1251.
+Le 2 juin 2007, PWR a transféré certains actifs à 1251 en contrepartie d’actions de catégorie C de 1251.
+Cette opération a donné lieu à un gain en capital. M. Wild s’est prévalu de son exonération des gains en capital de sorte qu’aucun montant d’impôt n’a été payé. Voilà l’un des éléments clés du plan fiscal. Un remboursement de capital libre d’impôt est possible si on réussit, grâce aux opérations d’évitement, à faire augmenter en franchise d’impôt à la fois le PBR et le CV des actions. En l’espèce, les deux ont augmenté.
+Cette opération a fait augmenter le CV des actions détenues par M. Wild en raison de l’effet de moyennage du CV qu’a le paragraphe 89(1). Le PBR et le CV des actions de M. Wild doivent être augmentés sans conséquences fiscales immédiates pour lui afin qu’il puisse bénéficier de remboursements de capital libres d’impôt.
+Il est à noter que PWR n’a pas renoncé à un attribut fiscal important (le CV d’actions) en acceptant des actions ayant un CV par action qui était inférieur à leur PBR. Le rachat ultérieur de ces actions crée un dividende entre sociétés plus élevé. M. Wild bénéficie toutefois de cet élément du plan fiscal.
+3. Le 6 juin 2007, M. Wild a transféré les 96,3 actions de PWR qu’il lui restait à 1245 en échange d’actions de catégorie E de 1245. Le 7 juin 2007, PWR a transféré les actifs qu’il lui restait à 1245, également en échange d’actions de catégorie E. Ces opérations ont produit les mêmes résultats fiscaux pour M. Wild que ceux décrits à l’égard de 1251.
+[93] Les réponses fournies, lors de l’interrogatoire préalable de M. Wild, aux questions qui lui ont été posées concernant les actifs et l’émission de la même catégorie d’actions étaient peu satisfaisantes. Des passages tirés de certains des extraits de l’interrogatoire préalable versés en preuve sont reproduits à l’annexe III des présents motifs. En réponse à la question de savoir [Traduction] « [p]ourquoi ces actifs en particulier [avaient] été transférés » à 1251, il a dit que le transfert avait été fait selon la directive du planificateur fiscal. Lorsqu’on l’a interrogé sur la façon dont le montant visé par le choix exercé (soit 129 000 $ entre lui et 1251) avait été déterminé, il a dit qu’il ne le savait pas, puisque ce sont ses planificateurs fiscaux qui avaient décidé du montant. Selon d’autres réponses qu’il a données concernant l’émission de la même catégorie d’actions, il ne savait pas ou bien il supposait que les planificateurs fiscaux savaient, ou ils savaient [traduction] « peut-être » ou ils avaient donné une [traduction] « directive » ou pris une [traduction] « décision » concernant la prise d’une mesure donnée.
+[94] Aucune explication plausible n’a été offerte quant à savoir pourquoi M. Wild avait fait émettre en faveur de PWR la même catégorie d’actions que celle qui avait précédemment été émise en sa propre faveur et pourquoi PWR avait choisi d’accepter cette catégorie. Si la même catégorie d’actions n’avait pas été émise en faveur de PWR de la façon dont cela s’est fait et après l’émission de la même catégorie en faveur de M. Wild la veille, il n’y aurait pas eu de moyennage du CV des actions les 2 et 7 juin ni d’augmentation du CV pour M. Wild.
+[95] Le CV est calculé au niveau de la société; il est toutefois pertinent relativement à un particulier lors du rachat ou de l’annulation d’actions ou dans le cas d’une vente d’actions entre parties ayant un lien de dépendance entre elles visée à l’article 84.1. Un actionnaire exigerait normalement une catégorie distincte d’actions pour éviter la possibilité d’un effet négatif sur la valeur des actions occasionné par le moyennage du CV pour une catégorie [44] . Un actionnaire veut habituellement conserver la pleine valeur du CV parce qu’une société peut rendre à un actionnaire en franchise d’impôt le CV correspondant au montant de l’investissement initial, puisque l’investissement a été fait avec des fonds après impôt. Pourtant, on a décidé en l’espèce d’émettre la même catégorie à deux occasions, ce qui a déclenché le moyennage du CV en vertu du paragraphe 89(1) [45] .
+[96] La stratégie dirigée par M. Wild, facilitée par des participants indifférents ayant un lien de dépendance entre eux (dont deux étaient des sociétés nouvellement constituées), a fait multiplier par cinq mille son CV même s’il n’avait fait aucun nouvel apport de capital à PWR ou à 1245. Le fait de permettre l’augmentation du CV rendrait possible le versement, sans que M. Wild soit assujetti à l’impôt, d’un montant supérieur à son investissement initial de 110 $. Le résultat global a permis à M. Wild de retirer indirectement, en franchise d’impôt, une part des bénéfices de PWR en utilisant son exonération des gains en capital pour compenser un gain en capital créé comme effet direct d’un échange d’actions entre parties ayant un lien de dépendance entre elles. Les actifs existants de PWR n’ont été que déplacés entre deux entités, puis loués à PWR, et une JVM de 2,3 millions de dollars environ a été conservée sans aucune conséquence fiscale. Je conclus que les éléments clés de la planification fiscale des appelants ont été exécutés dans l’unique but de dépouiller le surplus. Les éléments clés n’étaient pas nécessaires pour l’atteinte de l’objectif prétendu de protection des actifs. Compte tenu de la preuve, je conclus que la restructuration avait principalement pour but de conférer un avantage fiscal à M. Wild.
+[97] Les opérations d’évitement ont abouti à un résultat que, dans le contexte de la série dont ces opérations faisaient partie, l’article 84.1 visait à prévenir (soit le fait pour des particuliers actionnaires, dans un échange d’actions où il y a un lien de dépendance, de convertir en remboursement de capital exonéré d’impôt, par l’utilisation de l’exonération des gains en capital, des distributions d’une société qui seraient autrement imposées comme dividendes) et elles allaient à l’encontre de la raison d’être de l’article 84.1 — et de la raison d’être du paragraphe 89(1) — en ce qu’elles constituaient un abus dans le calcul du CV qui a déclenché l’effet de moyennage du CV des actions.
+[98] Il ressort manifestement des éléments clés de la planification que les appelants ont pris, dans le contexte de la série, des mesures délibérées pour faire échec à l’application de l’article 84.1 et empêcher l’atteinte de son objectif, ce qu’ils ont fait au moyen d’un abus dans l’application du paragraphe 89(1) et d’une manière contraire à l’objet et à l’esprit de l’article 84.1 et du paragraphe 89(1). Je suis d’avis que les opérations d’évitement ont été exécutées d’une manière abusive.
+[99] Les planificateurs fiscaux qui ont conçu les opérations d’évitement en l’espèce se sont fondés sur différentes dispositions pour parvenir au résultat désiré de dépouillement de surplus. Bien qu’on s’y soit pris d’une autre manière que dans l’affaire Descarries, le résultat est le même. Si on ne tient pas compte de l’application de la RGAÉ, la planification fiscale a réussi à produire des résultats fiscaux que l’article 84.1 vise à prévenir et elle va à l’encontre de sa raison d’être.
+[100] Bien que, en raison de la stratégie particulière des appelants et de l’ordre dans lequel ils ont effectué les opérations, l’article 84.1 ne s’applique pas de façon à prévenir les résultats fiscaux obtenus grâce aux opérations d’évitement en l’espèce, l’objet et l’esprit de l’article 84.1 sont clairs. Il ne devrait pas être permis aux particuliers contribuables de se servir de leur exonération des gains en capital pour dépouiller des surplus de sociétés au moyen d’opérations avec lien de dépendance qui sont semblables à celles visées à l’article 84.1, ni pour obtenir un CV excédentaire en franchise d’impôt.
+[101] Les lois ne peuvent être rédigées de manière à envisager toutes les éventualités et toutes les stratégies particulières. En adoptant la RGAÉ, le législateur a reconnu que des règles anti-évitement précises, telles que l’article 84.1, se sont souvent avérées inefficaces pour réduire le recours à des mesures d’évitement fiscal jugées abusives par le législateur. Les astuces auxquelles peuvent recourir des planificateurs fiscaux ingénieux sont trop nombreuses pour que des règles anti‑évitement précises, telles que l’article 84.1, puissent y faire obstacle. La RGAÉ a été adoptée pour empêcher notamment les opérations abusives et pour combler les lacunes que l’on cherche à exploiter, comme on l’a fait en l’espèce, par une planification fiscale complexe. L’essence de cet objectif est exprimée dans le passage suivant :
+[Traduction]
+Le paragraphe 245(4) de la Loi impose la limite la plus importante à l’application de la RGAÉ. Comme l’expliquent les notes techniques, lorsqu’un contribuable effectue une opération principalement pour utiliser les règles précises de la Loi afin d’obtenir un avantage fiscal qui n’est pas prévu par ces règles ni par la Loi lue dans son ensemble, la RGAÉ devrait s’appliquer. Les notes se poursuivent en indiquant qu’il « en serait ainsi même si les dispositions précises considérées, prises au pied de la lettre, justifiaient le résultat fiscal que cherche à obtenir le contribuable. Par conséquent, dans les cas où cela est applicable, l’article 245 primera les autres dispositions de la Loi puisque autrement l’objet et l’esprit de cette dernière seraient battus en brèche ». De plus, une opération qui ne constitue pas un abus dans l’application d’une disposition particulière peut quand même être jugée abusive, eu égard à la Loi dans son ensemble. [46] (Notes de bas de page omises.)
+[102] Dans l’arrêt Lipson, le juge LeBel, s’exprimant au nom de la majorité, fait observer que la RGAÉ est une règle supplétive conçue pour tenir compte de la complexité de situations qui « échappent à l’application » de dispositions anti-évitement particulières. [47]
+[103] Avant de conclure, je précise, en toute déférence, que je ne suis pas d’accord pour dire que la décision Nadeau c Canada [48] est favorable à l’intimée et que ses faits sont [traduction] « quasi identiques aux faits de l’espèce ». La décision Nadeau est antérieure à l’arrêt Trustco Canada; la Cour n’a donc pas pu bénéficier du cadre analytique relatif à la RGAÉ. Il y a eu, dans l’affaire Nadeau, un apport sous la forme d’un prêt de 460 000 $, couvert par une garantie, et des intérêts étaient payés sur le prêt. De plus, il n’y a eu aucun transfert d’actifs, contrairement à ce qui est le cas en l’espèce. Enfin, une déclaration a été faite dans l’affaire Nadeau concernant une politique générale contre le dépouillement de surplus, mais l’intimée a confirmé qu’elle n’avance pas cette thèse en l’espèce.
+[104] Je conclus que la restructuration a été entreprise principalement en vue d’obtenir l’avantage fiscal. Je conclus également que les éléments clés des opérations d’évitement entre parties ayant un lien de dépendance entre elles, effectuées dans le cadre et le contexte de la série, ont produit un résultat (l’extraction indirecte d’un surplus de la société et l’utilisation de l’exonération de M. Wild) que l’article 84.1 visait à prévenir et qui va à l’encontre de la raison d’être de cet article; on a obtenu ce résultat en commettant un abus dans le calcul du CV prévu au paragraphe 89(1) de façon à déclencher le moyennage du CV des actions. Ainsi, le CV des actions détenues par M. Wild a été gonflé artificiellement, sans que celui-ci ait fait de nouvel apport de capital. Par conséquent, les opérations ont été conclues d’une manière contraire à l’objet et à l’esprit de l’article 84.1 et du paragraphe 89(1) de la Loi et elles constituaient des opérations d’évitement abusives visées au paragraphe 245(4).
+V. Conclusion
+[105] La ministre m’a persuadée que les appelants se sont livrés à l’évitement fiscal abusif. Pour les motifs qui précèdent, je conclus que les opérations d’évitement décrites ci‑dessus constituaient un abus au sens du paragraphe 245(4) de la Loi et qu’elles étaient donc contraires à l’objet et à l’esprit de l’article 84.1 et du paragraphe 89(1) de la Loi. La ministre a appliqué correctement la RGAÉ pour refuser l’avantage fiscal.
+[106] Les appels concernant l’année d’imposition 2007 de M. Wild et l’année d’imposition 2008 de 1245 sont rejetés.
+[107] L’intimée a droit à la taxation d’un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 31e jour de mars 2017.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 5e jour de décembre 2018.
+Erich Klein, réviseur
+ANNEXE I
+Décision Descarries, au paragraphe 54
+54. Ma description de l’objet et de l’esprit de cette disposition est conforme à l’exposé qu’a fait le ministre des Finances lorsqu’il a proposé en 1985 des modifications à l’article 84.1 au moment où il a introduit les nouvelles dispositions concernant l’exonération des gains en capital :
+L’article 84.1 de la loi constitue une règle anti-évitement servant à prévenir le retrait des surplus imposables d’une corporation à titre de remboursement du capital en franchise d’impôt lorsqu’il y a transfert d’actions avec lien de dépendance d’un particulier résidant au Canada à une corporation. Bien que le but de cette disposition soit conservé, les moyens pris à cet égard ainsi que la portée de ce but ont été modifiés par suite de la nouvelle exemption à vie pour gains en capital.
+Le présent paragraphe 84.1(1) de la loi a pour effet de réputer un gain en capital immédiat ou une réduction du prix de base rajusté lors de certains transferts avec lien de dépendance d’actions d’une corporation résidant au Canada en faveur d’une autre corporation par un contribuable résidant au Canada autre qu’une corporation. Étant donné que l’impôt net sur les dividendes équivalait approximativement [à] l’impôt sur les gains en capital, l’article 84.1 avait pour but de décourager le recours à certaines techniques de dépouillement des surplus par les corporations, appelées dépouillements du « jour de l’évaluation ».
+Par suite de l’introduction de l’exemption pour gains en capital, les règles prévues actuellement au paragraphe 84.1(1) ne sont plus appropriées étant donné que le gain sur le transfert d’actions peut être exonéré. Par conséquent, le paragraphe 84.1(1) est abrogé et remplacé par une règle qui exige une réduction du capital versé et, dans certaines circonstances, la reconnaissance immédiate d’un dividende sur certains transferts d’actions avec lien de dépendance à une corporation qui ont lieu après le 22 mai 1985. À cette fin, les critères relatifs aux liens de dépendance que renferme actuellement le paragraphe 84.1(2) sont conservés. La règle fondamentale prévue au nouveau paragraphe 84.1(1) est que le montant maximal qui peut être reçu par l’auteur du transfert de la part de la corporation bénéficiaire du transfert à titre de produit sous forme de toute contrepartie autre qu’en actions et le capital versé de la contrepartie en actions est limité au plus élevé du capital versé des actions transférées et de ce que l’on peut désigner comme le prix de base rajusté effectif sans lien de dépendance des actions pour l’auteur du transfert.
+Le nouvel alinéa 84.1(1)a) prévoit une réduction du capital versé pour chaque catégorie d’actions de l’acheteur duquel les actions ont été émises en contrepartie de l’acquisition par celui-ci d’actions d’une autre corporation. Il faudra effectuer une réduction du capital versé dans le cas où l’augmentation du capital légal versé des actions de l’acheteur résultant du transfert des actions dépasse l’excédent éventuel du plus élevé du capital versé des actions transférées et du prix de base rajusté, modifié en vertu des nouveaux alinéas 84.1 (2)a) et a.1), pour l’auteur du transfert des actions, sur la juste valeur marchande de toute contrepartie autre qu’en actions versée par l’acheteur et faisant partie du prix d’achat des actions transférées. La réduction du capital versé est répartie parmi les différentes catégories d’actions de l’acheteur en fonction des augmentations de capital légal versé résultant du transfert des actions.
+En vertu du nouvel alinéa 84.1(1)b), l’acheteur est réputé avoir payé un dividende à l’auteur du transfert lorsque le total du montant de l’augmentation du capital légal versé de ses actions résultant du transfert des actions, et de la juste valeur marchande de la contrepartie autre qu’en actions donnée par l’acheteur pour les actions transférées dépasse le total
+a) du plus élevé du prix de base rajusté, modifié en vertu du nouvel alinéa 84.1(2)a) ou a.1) pour l’auteur du transfert des actions transférées, et du capital versé des actions transférées et
+b) du total des réductions de capital versé qui doivent, en vertu de l’alinéa 84.1(1)a), être effectuées par l’acheteur.
+L’excédent est le montant qui sera considéré comme un dividende.
+[Je souligne.]
+ANNEXE II – Décision Descarries
+Dans l’affaire Descarries il était question de la liquidation de l’entreprise Oka et de la réduction de dividendes réputés grâce à des pertes en capital qui résultaient de rachats ultérieurs et qui mettaient à l’abri les gains en capital.
+Éléments clés des opérations
+Échange d’actions ordinaires de catégorie A d’Oka contre 617 466 actions privilégiées (« roulement interne »). Le roulement interne a été effectué pour créer un gain en capital qui servirait plus tard à augmenter le CV des actions de la société de portefeuille (9149) décrites ci-dessous. Le gain en capital a été réduit ultérieurement par une perte en capital pouvant être rattachée à la valeur libre d’impôt des actions au jour de l’évaluation (le « gain en capital transitoire »).
+Les contribuables ont ensuite échangé leurs actions d’Oka contre des actions privilégiées de la société 9149. Le CV des actions de cette société a été augmenté d’un montant égal au gain en capital transitoire.
+La société 9149 rachète ses actions privilégiées. Une part du produit du rachat est distribuée comme remboursement de capital libre d’impôt. Les rachats d’actions ont également eu pour effet de créer des pertes en capital qui ont servi à compenser le gain en capital transitoire créé par le roulement interne.
+Conclusion
+Le juge Hogan a conclu que la RGAÉ était applicable parce que les appelants avaient réussi à utiliser leur valeur au jour de l’évaluation pour dépouiller le surplus d’Oka d’une manière contraire à l’objet ou à l’esprit de l’article 84.1.
+ANNEXE III
+Réponses de M. Wild versées en preuve par la Couronne
+Transcription de l’interrogatoire préalable de Perry Stephen Wild en date du 13 mars 2015
+237 Q Et si je peux vous demander d’aller à l’onglet 72. Il s’agit d’un formulaire T2057 « Choix relatif à la disposition de biens par un contribuable en faveur d’une société canadienne imposable ». Il y a trois pages, n’est-ce pas?
+[…]
+242 Q D’accord. Et si vous allez à la troisième page, la dernière page, vous verrez qu’un montant convenu est inscrit dans l’une des colonnes, et ce montant convenu est 129 000 $, n’est-ce pas?
+R Oui.
+243 Q Et cela donnerait un montant à déclarer, dans la colonne à côté, de 128 984 $, n’est-ce pas?
+R C’est bien cela.
+244 Q Qui a décidé que le montant convenu serait 129 000 $?
+R MNP.
+245 Q Savez-vous comment ils sont parvenus à ce montant?
+R Non, je ne le sais pas.
+246 Q Pourriez-vous vous engager à demander à MNP comment ce montant a été déterminé et à nous communiquer leur réponse?
+AVOCAT DE L’APPELANT : Nous y réfléchirons.
+[…]
+251 Q SI je peux vous demander d’aller à l’onglet 21. Il s’agit d’une liste des actifs de P.W. Rentals qui ont été transférés à 125 le 2 juin 2007, n’est-ce pas?
+R C’est bien cela.
+252 Q Pourquoi ces actifs en particulier ont-ils été transférés?
+R Cela relevait de… MNP en a donné la directive, mais ils ont pris les arrangements.
+253 Q Alors, ils sauraient pourquoi ces actifs, plutôt que d’autres, ont été transférés?
+R C’est bien cela.
+254 Q Pourriez-vous vous engager à leur demander comment ils ont décidé que ces actifs seraient transférés et à nous communiquer leur réponse?
+AVOCAT DE L’APPELANT : Nous y réfléchirons.
+[…]
+PAR L’AVOCATE DE L’INTIMÉE :
+255 Q Nous reprenons l’enregistrement. Alors, dans le cadre de ces deux opérations, celle du 1er juin 2007 et celle-ci, du 2 juin 2007, 125 a échangé des actions privilégiées de catégorie C, n’est-ce pas? Ils vous ont donné des actions privilégiées de catégorie C en échange de vos actions ordinaires de PWR, et ils ont donné à P.W. Rentals des actions privilégiées de catégorie C –
+R Oui.
+256 Q – en échange des actifs?
+R Oui.
+257 Q A-t-on songé à faire émettre par 125 différentes catégories d’actions?
+R Encore là, cela a été fait selon la directive de MNP.
+258 Q Pouvez-vous demander à MNP s’ils ont songé à faire émettre par 125 des catégories distinctes d’actions et nous communiquer leur réponse?
+AVOCAT DE L’APPELANT : Nous y réfléchirons.
+[…]
+PAR L’AVOCATE DE L’INTIMÉE :
+259 Q Pouvez-vous leur demander aussi pourquoi ils ont fait en sorte que 125, pourquoi ils ont recommandé que vous fassiez émettre par 125 la même catégorie d’actions, plutôt que différentes catégories d’actions, et nous communiquer la réponse?
+AVOCAT DE L’APPELANT : Nous y réfléchirons.
+[…]
+PAR L’AVOCATE DE L’INTIMÉE :
+261 Q Le capital autorisé de 125 à ce moment était constitué d’actions privilégiées de catégories C et D, n’est-ce pas?
+R Oui.
+262 Q D’accord. Maintenant, si 125 avait émis des catégories distinctes d’actions dans le cadre des opérations du 1er et du 2 juin, cela n’aurait eu aucune incidence sur le motif de protection des actifs qui, selon vos dires, sous-tend toute cette restructuration, n’est‑ce pas?
+R Pourriez-vous répéter la question?
+AVOCAT DE L’APPELANT : Êtes-vous en mesure de répondre à cette question?
+LE TÉMOIN : Non, je ne le suis pas.
+[…]
+267 Q Savez-vous pourquoi 125 a émis les actions privilégiées de catégorie C en votre faveur, puis en faveur de PWR, avant de racheter –
+R Non, je ne le sais pas.
+268 Q – l’un ou l’autre de ces regroupements d’actions de catégorie A?
+R Non, je ne le sais pas.
+269 Q Et vous avez dit précédemment que l’ordre dans lequel cela s’est fait vous avait été recommandé par MNP?
+R Oui.
+[…]
+PAR L’AVOCATE DE L’INTIMÉE :
+271 Q Je vous dis que vous auriez pu atteindre tout aussi facilement votre objectif de protection d’actifs si 125 avait racheté un regroupement de ces actions privilégiées de catégorie C avant d’émettre les deux. Êtes‑vous d’accord?
+R Je ne le sais pas.
+272 Q Est-ce que Myers Norris Penny le saurait?
+R Peut-être.
+273 Q Pouvez-vous vous engager à leur poser la question et à nous communiquer la réponse?
+AVOCAT DE L’APPELANT : Nous y réfléchirons.
+[…]
+RÉFÉRENCE :
+2017 CCI 51
+No DU DOSSIER DE LA COUR :
+2013-3907(IT)G et 2013-3912(IT)G
+INTITULÉ DE LA CAUSE :
+1245989 ALBERTA LTD. c. SA
+MAJESTÉ LA REINE
+PERRY WILD c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Winnipeg (Manitoba)
+DATE DE L’AUDIENCE :
+Le 27 janvier 2016
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge K. Lyons
+DATE DU JUGEMENT :
+Le 31 mars 2017
+COMPARUTIONS :
+Avocat de l’appelant(e):
+Me Jeff D. Pniowsky
+Avocates de l’intimée :
+Me Margaret McCabe et Me Justine Malone
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant(e) :
+Nom :
+Me Jeff D. Pniowsky
+Cabinet :
+Thompson Dorfman Sweatman LLP
+Avocats
+Winnipeg (Manitoba)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] LRC 1985, ch. 1 (5e suppl.).
+[2] Transcription, extrait de l’interrogatoire préalable de Perry Wild, lignes 148 à 153.
+[3] Paragraphe 27 de l’exposé conjoint des faits.
+[4] Le matériel de catégorie 8 transféré à 1251. Celui de catégorie 1, de catégorie 10 et de catégorie 45 a été transféré à 1245. PWR a conservé la survaleur, évaluée à 167 000 $.
+[5] Transcription, extrait de l’interrogatoire préalable de Kevin Navrot, lignes 50 à 52 et 60 et 61.
+[6] L’intimée a fourni dans ses observations des exemples dans lesquels le paragraphe 89(1) s’est appliqué de la manière envisagée, ainsi qu’un exemple d’un cas où il n’y a eu aucun nouvel apport de capital, et pourtant l’attribut fiscal associé à l’action comportait de plus grands avantages. Cela constituerait un abus selon l’intimée. Transcription de l’audience, pages 100 à 104.
+[7] Hypothèques Trustco Canada c Canada, 2005 CSC 54, [2005] 2 RCS 601 [Trustco Canada].
+[8] Trustco Canada, au paragraphe 17.
+[9] Lipson c Canada, 2009 CSC 1, [2009] 1 RCS 3 [Lipson].
+[10] Copthorne Holdings Ltd. c Canada, 2011 CSC 63, [2011] 3 RCS 721 [Copthorne]. Cet arrêt concernait le doublement du CV dans le contexte d’une fusion et d’une vente d’actions.
+[11] Pour constituer un avantage fiscal, une opération, ou une série dont fait partie l’opération, doit entraîner une « [r]éduction,[un] évitement ou [un] report d’impôt ou d’un autre montant exigible] » ou l’« augmentation d’un remboursement d’impôt ou d’un autre montant », et dans l’un ou l’autre cas, ce pourrait être en vertu de la Loi d’une autre loi fiscale applicable. L’opération qui entraîne l’avantage fiscal doit être une opération d’évitement au sens du paragraphe 245(3).
+[12] Selon la jurisprudence citée par l’intimée, [traduction] « les dividendes entre sociétés sont exonérés depuis le début de l’imposition fédérale du revenu au Canada en 1917 ».
+[13] Trustco Canada, précité, note 7 au paragraphe 43.
+[14] Voir la décision Gwartz c La Reine, 2013 CCI 86, 2013 DTC 1122.
+[15] Lipson, précité, note 9 au paragraphe 25.
+[16] Copthorne, précité, note 10 aux paragraphes 69 et 70.
+[17] Trustco Canada, précité, note 7 au paragraphe 50 et Copthorne, précité, note 10 au paragraphe 58.
+[18] Observations écrites des appelants, au paragraphe 33.
+[19] Transcription de l’audience, aux pages 40 et 41.
+[20] Transcription de l’audience, à la page 115.
+[21] Copthorne, précité, note 10 au paragraphe 72.
+[22] Copthorne, précité, note 10 aux paragraphes 124 et 125.
+[23] Copthorne, précité, note 10 au paragraphe 71.
+[24] Trustco Canada, précité, note 7 au paragraphe 49.
+[25] Trustco Canada, précité, note 7 au paragraphe 55.
+[26] Le capital déclaré correspond au montant de la contrepartie qu’une société reçoit lors de l’émission de ses actions.
+[27] Les principes du droit des sociétés applicables se trouvent dans la Business Corporations Act de l’Alberta.
+[28] Observations écrites de l’intimée, au paragraphe 86.
+[29] L’effet de moyennage de la définition de CV appliquée aux actions de la catégorie reflète l’approche des comptes de capital déclaré pour les sociétés.
+[30] R. Sullivan, Sullivan on the Construction of Statutes (5e éd., 2008), aux pages 361 et 364.
+[31] Copthorne, précité, note 10 au paragraphe 1.
+[32] Ou bien, il pourrait y avoir un dividende imposable immédiat en faveur de l’auteur du transfert en vertu de l’alinéa 84.1(1)b).
+[33] Ministère des Finances, notes explicatives, paragraphe 85(2.1) (novembre 1985).
+[34] Cahier de jurisprudence, à l’onglet 19.
+[35] Descarries c Canada, 2014 CCI 75, 2014 DTC 1081 [Descarries].
+[36] Les actions de catégorie C, à une étape ultérieure, seront échangées contre des actions de catégorie E; cela étant, l’application de la RGAÉ par la ministre ne fait que réduire le CV des actions de catégorie E.
+[37] La ministre ne trouve rien à redire à cette opération.
+[38] Trustco Canada, précité, note 7 au paragraphe 39.
+[39] Copthorne, précité, note 10 au paragraphe 111.
+[40] Desmarais c Canada, 2006 CCI 44, 2006 DTC 2376 [Desmarais]. Au paragraphe 32, le juge Archambault a affirmé :
+32 […] l’intention du législateur est d’empêcher le dépouillement des surplus d’une société en exploitation lorsqu’on utilise pour ce dépouillement un mécanisme semblable à celui utilisé ici par monsieur Desmarais. Ce mécanisme est celui au moyen duquel ce dernier a pu recevoir sans impôt des surplus d’une société en exploitation à la suite d’un transfert des actions de cette société à une société de portefeuille et à la suite du rachat, à même les surplus reçus de la société en exploitation, des actions émises en contrepartie des actions de la société en exploitation.
+[41] Descarries, précitée, à la note 35.
+En tant que bénéficiaires des actions de la société Oka, ils devaient liquider Oka. Les actions avaient les attributs suivants : JVM de 617 466 $, PBR de 361 658 $ et CV de 25 100 $. Une simple liquidation aurait donné lieu à un dividende réputé de 592 000 $, soit le JVM des sommes ou des biens distribués moins le CV des actions. Ils ont exécuté trois opérations pour obtenir un résultat fiscal plus favorable : (1) un roulement interne des actions d’Oka (pour augmenter le PBR des actions); (2) le transfert d’actions de catégories A et B d’Oka à 9149; (3) le rachat de ces actions par 9149. Selon le juge Hogan, « [n]’eût été le roulement interne, le capital versé pour l’ensemble des actions de 9149 se serait limité à 92 040 $. » Les pertes en capital résultant des rachats ultérieurs ont protégé le gain en capital réalisé grâce à l’opération visée au paragraphe 85(1). Il a conclu que les dividendes réputés selon le paragraphe 84(2) (qui ont fait l’objet d’une cotisation établie par la ministre en fonction d’une distribution de biens lors de la liquidation) ne s’appliquaient pas à la série d’opérations et que la RGAÉ ne s’appliquait pas dans le contexte du paragraphe 84(2) (selon l’arrêt MacDonald c La Reine). Il a été demandé aux parties de présenter des observations écrites sur la question de savoir si la série avait violé la RGAÉ en contrevenant à l’article 84.1.
+[42] Descarries, précitée, note 35 aux paragraphes 53 et 59.
+[43] Les appelants ont soutenu que l’application de l’article 84.1 a été contournée parce qu’il y a eu une augmentation du CV, qui a été porté à un montant correspondant au nouveau PBR malgré l’effet de l’article 84.1, de sorte que la RGAÉ a été appliquée parce qu’il y avait un [traduction] « montant additionnel de CV non visé à l’article 84.1 ». Transcription de l’audience, aux pages 77 à 81.
+[44] L’exemple donné à titre d’illustration était le cas où le contribuable A investit 100 $ et le contribuable B investit 200 $ en échange du même nombre (100) et de la même catégorie d’actions de la même société. L’effet de moyennage fait en sorte que les actionnaires A et B ont chacun un CV de 1,50 $ par action malgré l’apport plus élevé du contribuable B.
+[45] On peut supposer que le CV peu élevé ne préoccupait pas les sociétés parce qu’elles pouvaient se prévaloir de la déduction accordée aux sociétés par l’article 112.
+[46] Brian M. Studniberg, « Minding the Gap in Tax Interpretation: Does Specificity Oust the General Anti-Avoidance Rule Post-Copthorne? » (2012) 38:1 Queen’s LJ 209, aux pages 215 et 216. Contient une discussion de points de vue antagonistes.
+[47] Lipson, précité, note 9 aux paragraphes 21, 26 et 47.
+[48] Nadeau c Canada, 99 DTC 324 [Nadeau]. La Cour a appliqué la RGAÉ et confirmé la conclusion du ministre à un dividende réputé, selon le paragraphe 84(3), résultant du rachat des actions.

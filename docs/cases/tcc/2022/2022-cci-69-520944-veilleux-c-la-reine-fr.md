@@ -1,0 +1,217 @@
+---
+title: "Veilleux c. La Reine"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/520944/index.do"
+last_modified: "2022-06-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 69"
+citation2: ""
+neutral_citation: "2022 CCI 69"
+decision_date: "2022-06-28"
+language: "fr"
+item_id: "520944"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5480
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:26:17.863000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6554cd7c7ee121a09a315a002f188cc0793b4308bd97f7705e9dde652ea38505"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Veilleux c. La Reine
+
+- Citation: 2022 CCI 69
+- Decision date: 2022-06-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5480, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Veilleux c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-06-28
+Référence neutre
+2022 CCI 69
+Numéro de dossier
+2018-3895(IT)G
+Juges et Officiers taxateurs
+Gabrielle St-Hilaire
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2018-3895(IT)G
+ENTRE :
+DANIEL VEILLEUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 5 mai 2022, à Montréal (Québec)
+Devant : L’honorable juge Gabrielle St-Hilaire
+Comparutions :
+Avocat de l’appelant :
+Me Félix St-Vincent Gagné
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu et dont l’avis porte le numéro 4139578 est rejeté avec dépens à l’intimée conformément aux motifs du jugement ci-joint.
+Signé à Ottawa, Canada, ce 28e jour de juin 2022.
+« Gabrielle St-Hilaire »
+Juge St-Hilaire
+Référence : 2022 CCI 69
+Date : 20220628
+Dossier : 2018-3895(IT)G
+ENTRE :
+DANIEL VEILLEUX,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge St-Hilaire
+I. Introduction
+[1] Le présent appel vise la cotisation établie en vertu de l’article 160 de la Loi de l’impôt sur le revenu (Loi) [1] . La ministre du Revenu national (Ministre) a cotisé l’appelant le tenant responsable d’une somme de 23 733,28 $, soit le montant de la dette fiscale de la société 9135-0280 Québec inc. (9135) au 14 décembre 2016, la date de la cotisation.
+[2] 9135 exploitait une entreprise d’aménagement intérieur de magasins. L’appelant, Daniel Veilleux, détenait 50 % des actions de 9135, l’autre 50 % étant détenu par Pietro Felice Carile. M. Veilleux et M. Carile étaient les seuls actionnaires, administrateurs et dirigeants de 9135 pendant les périodes pertinentes.
+[3] Pendant les années d’imposition se terminant le 30 novembre 2011 et 2013 (années d’imposition 2011 et 2013), 9135 a versé à l’appelant des dividendes d’une somme de 80 000 $ et 25 000 $ respectivement. La ministre a établi la cotisation en considérant l’appelant solidairement responsable de la dette fiscale de 9135 pour le motif que cette dernière a transféré des biens, soit les dividendes, à un moment où elle avait une dette fiscale. Le montant de la cotisation, 23 733,28 $, est le moindre du montant transféré à l’appelant sous forme de dividendes et la dette fiscale de 9135.
+II. Le droit relatif à l’article 160 et la question en litige
+[4] Il convient de rappeler que l’article 160 est une disposition de recouvrement qui autorise la Ministre à recouvrir une dette fiscale auprès d’une personne qui a reçu un transfert de biens d’un débiteur fiscal avec qui elle a un lien de dépendance pour une contrepartie insuffisante. Tel qu’exprimé par la Cour d’appel fédérale dans l’affaire Canada c Livingston [2] , l’objet de l’article 160 est d’assurer la conservation des biens dans le patrimoine d’un contribuable, 9135 en l’espèce, aux fins de recouvrement de sa dette fiscale. Or, l’article 160 empêche un contribuable de se soustraire à ses obligations fiscales en transférant ses actifs à des personnes visées en autorisant la Ministre à recouvrir l’impôt auprès d’elles [3] .
+[5] Dans sa version applicable en l’espèce, la partie pertinente de l’article 160 se lit comme suit :
+160 (1) Lorsqu’une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d’une fiducie ou de toute autre façon à l’une des personnes suivantes :
+…
+…
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s’appliquent :
+d) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement d’une partie de l’impôt de l’auteur du transfert en vertu de la présente partie pour chaque année d’imposition égale à l’excédent de l’impôt pour l’année sur ce que cet impôt aurait été sans l’application des articles 74.1 à 75.1 de la présente loi et de l’article 74 de la Loi de l’impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, à l’égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l’égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l’auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d’un montant égal au moins élevé des montants suivants :
+(i) l’excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l’auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l’objet d’une cotisation en application du paragraphe (2) qu’il doit payer en vertu du présent article) au cours de l’année d’imposition où les biens ont été transférés ou d’une année d’imposition antérieure ou pour une de ces années.
+Toutefois, le présent paragraphe n’a pas pour effet de limiter la responsabilité de l’auteur du transfert en vertu de quelque autre disposition de la présente loi ni celle du bénéficiaire du transfert quant aux intérêts dont il est redevable en vertu de la présente loi sur une cotisation établie à l’égard du montant qu’il doit payer par l’effet du présent paragraphe.
+[6] Pour que l’article 160 s’applique, les quatre critères suivants doivent être satisfaits :
+1. L'auteur du transfert doit être tenu de payer des impôts en vertu de la Loi au moment de ce transfert.
+2. Il doit y avoir eu transfert direct ou indirect de biens au moyen d'une fiducie ou de toute autre façon.
+3. Le bénéficiaire du transfert doit être:
+[…]
+iii. soit une personne avec laquelle l'auteur du transfert avait un lien de dépendance.
+4. La juste valeur marchande des biens transférés doit excéder la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert [4] .
+[7] L’appelant reconnait que trois des quatre critères sont satisfaits. Il est admis que 9135 a fait des transferts de biens à l’appelant, en l’occurrence, des versements de dividendes, à un moment où 9135 était tenue de payer de l’impôt. Il est également admis que le versement des dividendes constitue un transfert de bien sans contrepartie de sorte que la juste valeur marchande des biens transférés excède la juste valeur marchande de la contrepartie donnée par l’appelant.
+[8] Il reste à déterminer si le critère relatif au lien de dépendance est satisfait. Par conséquent, la seule question en litige en l’espèce est celle de savoir s’il y a un lien de dépendance entre l’appelant à titre de bénéficiaire du transfert et 9135 à titre d’auteure du transfert. Pour les motifs qui suivent, je conclus qu’il y a un lien de dépendance entre M. Veilleux et 9135.
+III. Lien de dépendance
+[9] Le paragraphe 251(1) de la Loi énonce les règles permettant de déterminer si deux parties ont un lien de dépendance et se lit en partie comme suit :
+251(1) Pour l’application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[…]
+c) dans les autres cas, la question de savoir si des personnes non liées entre elles n’ont aucun lien de dépendance à un moment donné est une question de fait.
+[10] En vertu de la définition de « personnes liées » au sous-alinéa 251(2)b)(i), une société et une personne qui la contrôle sont des personnes liées. Puisque l’appelant détient 50 % des actions, il n’a pas le contrôle de jure de 9135. C’est-à-dire, l’appelant ne détient pas à lui seul le pouvoir d’élire les administrateurs de la société et par conséquent d’exercer un contrôle juridique réel sur la société [5] . Dans ces circonstances, l’appelant et 9135 ne sont pas des personnes liées en vertu du sous-alinéa 251(2)b)(i) et ne sont donc pas réputées avoir un lien de dépendance conformément à l’alinéa 251(1)a).
+[11] Il faut donc examiner l’alinéa 251(1)c) qui prévoit que la question de savoir si des personnes non liées entre elles ont un lien de dépendance est une question de fait.
+[12] Dans l’affaire Canada c McLarty [6] , la Cour suprême du Canada a confirmé l’utilité des critères suivants pour déterminer si deux parties ont ou non un lien de dépendance de fait :
+i) un seul cerveau dirige les négociations pour les deux parties à une transaction;
+ii) les parties à une transaction agissent de concert sans intérêts distincts;
+iii) il y a exercice effectif (de fait) du contrôle [7] .
+[13] Quant à la question de savoir quelles opérations cette Cour est appelée à examiner afin de déterminer si les parties ont un lien de dépendance de fait, dans l’affaire McLarty, la Cour suprême du Canada a indiqué qu’il faut examiner la relation entre les parties au moment de l’opération, mais a refusé d’adhérer à une approche limitative, préférant plutôt une approche qui tiendrait compte des faits pertinents pouvant être antérieurs aux opérations en question [8] .
+[14] Dans sa réponse à l’avis d’appel, l’intimée invoque le deuxième critère énoncé dans l’affaire McLarty, soit celui d’agir de concert sans intérêts distincts pour soutenir sa position selon laquelle il y a un lien de dépendance entre l’appelant et 9135 [9] . Plus précisément, l’intimée soutient que l’appelant et M. Carile ont agi de concert sans intérêts distincts lors des deux déclarations de dividendes au cours des années d’imposition 2011 et 2013. Selon l’intimée, l’appelant et M. Carile, dans leur rôle d’administrateurs, n’ont aucunement tenu compte de la situation financière et de l’intérêt de la société; en versant les dividendes à ses actionnaires, 9135 a fait fi de ses propres intérêts et a plutôt agi de concert et sans intérêts distincts de ses actionnaires [10] . Selon l’intimée, cela suffit pour établir l’existence d’un lien de dépendance entre l’appelant et 9135.
+[15] L’appelant soutient que puisqu’il avait des intérêts distincts de M. Carile, il n’y a pas de lien de dépendance entre lui-même et 9135.
+[16] M. Veilleux a témoigné à l’audience. Il a expliqué qu’il s’est associé à M. Carile pour constituer 9135 et ils ont créé, de toute pièce, une entreprise d’aménagement intérieur de magasins qui a connu beaucoup de succès dès ses débuts. Tel que susmentionné, MM. Veilleux et Carile détenaient chacun 50 % des actions de 9135 au moment de sa constitution et ce jusqu’en 2016. Pendant cette période, MM. Veilleux et Carile en étaient les seuls administrateurs et dirigeants.
+[17] Constituée en 2003, 9135 avait un chiffre d’affaires de plus d’un million lors de sa première année d’exploitation. Pendant les années subséquentes, le chiffre d’affaires a varié, mais s’est situé en moyenne autour de 1,6 million avant de diminuer de façon significative vers 2012. Selon l’appelant, 9135 a commencé à avoir des difficultés financières en 2009. En parlant des années 2010 et 2011, il a affirmé que « ça commence à être pénible … ça marche pas très bien » [11] . En 2011, la faillite d’un client principal a exacerbé les difficultés financières de 9135.
+[18] Il ressort du témoignage de M. Veilleux que son rôle dans l’exploitation de l’entreprise de 9135 était plutôt administratif, c’est-à-dire, il s’occupait du travail de bureau, des commandes et des contrats alors que M. Carile exécutait les travaux sur les chantiers. Selon M. Veilleux, « personne pilait dans la platebande de l’autre » [12] . Ils avaient tous les deux le pouvoir de signer des chèques et chacun avait une carte de crédit. Toutefois, MM. Veilleux et Carile prenaient toutes les grandes décisions ensemble pour le compte de 9135. M. Veilleux a affirmé que M. Carile était toujours présent aux réunions avec le comptable de 9135. À la question de savoir comment 9135 avait choisi les montants qui seraient payés en salaires et en dividendes, M. Veilleux a expliqué que lui et M. Carile suivaient les conseils de leur comptable qui avait exprimé l’avis qu’ils recevaient « trop de salaire, pas assez de dividendes » [13] . À la question de savoir pourquoi les administrateurs avaient déclaré des dividendes lors des années où 9135 éprouvaient des difficultés financières, M. Veilleux a répondu : « on a quand même travaillé » [14] . Il a dit qu’il n’était pas d’accord avec l’affirmation selon laquelle il a reçu des dividendes sans contrepartie [15] . Je tiens à rappeler le témoignage de M. Veilleux selon lequel il travaillait fort et c’était normal de retirer de l’argent de la société; la déclaration de dividendes reflétait les services rendus à 9135 par lui-même et M. Carile.
+[19] M. Veilleux a reconnu que 9135 était redevable, pour ses années d’imposition 2011 et 2013, d’un montant à titre d’impôt payable et des intérêts. Ces montants dus en vertu de la Loi ainsi que des montants dus à des fournisseurs sont demeurés impayés parce que 9135 n’avait pas les liquidités nécessaires. M. Veilleux a également reconnu que malgré cette dette fiscale, 9135 lui a versé des dividendes ainsi qu’à M. Carile. Il a affirmé : « on ne peut pas ne pas avoir de revenus … on appelle ça des dividendes » [16] . M. Veilleux eut de nombreuses conversations avec des agents de l’Agence du revenu du Canada pour établir des ententes de paiements; il y en a eu plusieurs dont certaines ont pu être respectées, mais d’autres non.
+[20] M. Veilleux a affirmé qu’il ne voulait pas faire faillite pour des raisons personnelles, mais aussi parce qu’il croyait que la faillite entraînerait la perte de sa licence d’entrepreneur et l’interdiction de détenir une compagnie de construction pendant trois ans [17] . Selon son témoignage, l’appelant et M. Carile avaient des besoins financiers différents. M. Veilleux a expliqué qu’il avait des revenus d’autres sources alors que M. Carile tirait la totalité de ses revenus de 9135. Étant donné ses circonstances personnelles, il appert que M. Carile avait besoin de plus d’argent que M. Veilleux et voulait en retirer davantage de 9135. Pour ces raisons, l’appelant soutient qu’il n’a pas agi de concert avec M. Carile, sans intérêts distincts, et par conséquent, qu’il n’a pas de lien de dépendance avec 9135.
+[21] Je note que M. Carile n’est pas venu témoigner. Mais même si je pars de l’hypothèse que M. Carile n’aurait contredit aucune partie du témoignage de M. Veilleux et qu’il aurait confirmé qu’ils avaient à certains moments des intérêts financiers différents en ce qui concerne le montant d’argent qu’ils souhaitaient retirer de 9135, cela ne répond pas à la question au cœur du litige, celle de savoir si MM. Veilleux et Carile, ont agi de concert pour déclarer les dividendes et ce faisant, s’ils ont agi sans intérêts distincts agissant à la fois en leur qualité d’administrateurs et d’actionnaires de 9135.
+[22] Les faits dans cette affaire sont semblables aux faits dans les affaires HLB Smith Holdings Ltd c La Reine [18] et Fournier c MRN [19] . Comme le juge D’Arcy dans l’affaire HLB [20] , je fais miens les propos du juge Dussault (tel qu’il était alors) qui s’est exprimé comme suit dans l’affaire Fournier :
+Pour sa part, le juge Thurlow de la Cour de l'Échiquier (tel qu'il était alors) s'exprimait ainsi dans l'affaire Swiss Bank Corporation et al. v. M.N.R., 71 D.T.C. 5235, à la page 5241:
+To this I would add that where several parties—whether natural persons or corporations or a combination of the two—act in concert, and in the same interest, to direct or dictate the conduct of another, in my opinion the “mind” that directs may be that of the combination as a whole acting in concert or that of any one of them in carrying out particular parts or functions of what the common object involves.
+Nous sommes ici en présence des deux actionnaires principaux d'une compagnie et à toutes fins pratiques des deux seuls actionnaires et administrateurs véritables qui décident ensemble, selon les conseils du comptable de la compagnie, de retirer les bénéfices réalisés par la corporation sous forme de dividendes à être déclarés en fin d'année. Dans l'intervalle, il est entendu entre eux qu'ils recevront des avances de la corporation et que les dividendes à être déclarés subséquemment seront pour un montant équivalent aux avances encaissées. Un dividende de 100 000,00 $ a effectivement été déclaré en fin d'année et l'appelant admet avoir reçu sa part sous forme d'avances en cours d'année.
+Je ne puis trouver de situation plus appropriée à l'application du concept de lien de dépendance entre personnes non liées en ce que les deux principaux administrateurs et actionnaires de la corporation ont de toute évidence agi de concert et avec un intérêt économique commun pour décider de la façon dont ils retireraient, pour leurs fins personnelles, les bénéfices réalisés par la corporation. Agissant à la fois et en même temps en leur qualité d'administrateurs de la corporation et d'actionnaires de celle-ci, ils se trouvent dans une situation à l'égard de laquelle on ne pourrait mieux appliquer le concept de lien de dépendance dans les faits tel qu'établi par nos tribunaux. En ce sens, j'estime donc que la corporation Les Évaluateurs Fra-Mic Inc. avait un lien de dépendance avec l'appelant au moment du transfert de biens effectué au cours de son année d'imposition 1983 et qu'ainsi l'intimé était à bon droit d'invoquer le paragraphe 160(1) de la Loi à l'égard de cette transaction [21] .
+[Nous soulignons]
+[23] Pour reprendre les mots du Juge Dussault, je ne puis trouver de situation plus appropriée à l’application de la notion de lien de dépendance de fait entre personnes non liées en ce que les deux seuls administrateurs et actionnaires de la société, soit MM. Veilleux et Carile, ont agi de concert avec un intérêt économique commun pour décider de la façon dont ils retiraient, pour leurs fins personnelles, les bénéfices de 9135. Agissant à la fois et en même temps en leur qualité d’administrateurs de 9135 et d’actionnaires de celle-ci, ils se trouvent dans une situation à l’égard de laquelle on ne pourrait mieux appliquer la notion de lien de dépendance de fait.
+[24] MM. Veilleux et Carile ont agi de concert et sans intérêts distincts, suivant les conseils de leur comptable, en décidant combien d’argent ils retireraient sous forme de salaire et quelle somme ils retireraient sous forme de dividendes. Par conséquent, l’appelant a un lien de dépendance avec 9135.
+[25] L’avocat de l’appelant a attiré l’attention de la Cour sur la jurisprudence portant sur le premier critère énoncé dans l’affaire McLarty, selon lequel on peut conclure à un lien de dépendance entre personnes non liées lorsqu’un « seul cerveau dirige les négociations pour les deux parties à une transaction » [22] . L’appelant a invoqué l’affaire MNR v Merritt [23] , affaire dans laquelle, se penchant sur la question du lien de dépendance entre des parties, la Cour de l’Échiquier s’est exprimée comme suit :
+In my view, the basic premise on which this analysis is based is that, where the “mind” by which the bargaining is directed on behalf of one party to a contract is the same “mind” that directs the bargaining on behalf of the other party, it cannot be said that the parties are dealing at arm's length. In other words where the evidence reveals that the same person was “dictating” the “terms of the bargain” on behalf of both parties, it cannot be said that the parties were dealing at arm's length [24] .
+[26] En l’espèce, M. Veilleux dirigeait les négociations pour les deux parties à l’opération; il agissait pour son propre intérêt à titre d’actionnaire qui souhaitait retirer des bénéfices réalisés par 9135 et il agissait pour 9135 à titre d’administrateur, avec M. Carile, en ce qui concerne la détermination des montants de dividendes qui seraient déclarés.
+[27] L’appelant se fonde aussi sur l’affaire Gestion Yvan Drouin Inc c Canada [25] pour soutenir sa position. Je suis d’accord avec les propos du Juge Archambault dans l’affaire Drouin lorsqu’il affirme que le fait qu’un actionnaire, en sa qualité d’administrateur, vote pour déclarer un dividende à lui-même et aux autres actionnaires ne signifie pas nécessairement qu’il existe un lien de dépendance entre lui et la société [26] . Ce n’est pas nécessairement le cas que de telles circonstances vont donner lieu à un lien de dépendance, mais c’est une question de fait et je suis d’avis qu’en l’espèce nous sommes en présence de circonstances qui diffèrent de celles dans l’affaire Drouin.
+[28] Dans l’affaire Drouin, il y eut de longues et laborieuses négociations entre M. Drouin (actionnaire indirect, détenant ses actions via Gestion Yvan Drouin Inc. dont il était l’unique actionnaire) et M. Moisan. Ils ne partageaient pas les mêmes points de vue sur l’orientation que devait prendre la société DPCI. Il était question d’un remaniement de capital qui impliquait le rachat d’actions et le paiement des dividendes cumulatifs, les deux effectués par le transfert de terrains. M. Moisan désirait détenir une société viable et M. Drouin désirait obtenir le rachat le plus rapide possible de ses actions et le paiement des arrérages de dividendes. Le juge Archambault a conclu que même si MM. Drouin et Moisan avaient pu agir de concert, ils l’ont fait avec des intérêts distincts et opposés [27] .
+[29] En l’espèce, il n’y avait pas de tels intérêts divergents ou opposés. Les deux administrateurs et actionnaires, MM. Veilleux et Carile, voulaient tous les deux retirer des bénéfices de 9135. Ils ont fait des choix de recevoir du salaire et des dividendes en suivant les conseils de leur comptable. Il est tout à fait acceptable qu’un contribuable veuille bénéficier des allégements fiscaux autorisés par la Loi. Peu importe la raison derrière le choix de déclarer des dividendes, notamment des raisons fiscales fondées sur les conseils comptables, M. Veilleux doit accepter les conséquences de ce choix, qui du point de vue juridique ne sont pas les mêmes que de recevoir des montants sous forme de salaire [28] . Je rappelle que M. Veilleux voyait les dividendes comme une contrepartie pour le travail qu’il faisait pour le compte de 9135, c’est-à-dire pour les services rendus. Toutefois, la jurisprudence est constante voulant que le versement de dividendes constitue un transfert sans contrepartie [29] .
+[30] Ayant conclu qu’il y a un lien de dépendance de fait entre M. Veilleux et 9135, c’est à bon droit que la Ministre a invoqué l’article 160 à l’égard de l’appelant relativement au versement des dividendes par 9135 pendant ses années d’imposition 2011 et 2013. L’appel est rejeté avec dépens à l’intimée.
+Signé à Ottawa, Canada, ce 28e jour de juin 2022.
+« Gabrielle St-Hilaire »
+Juge St-Hilaire
+RÉFÉRENCE :
+2022 CCI 69
+Nº DU DOSSIER DE LA COUR :
+2018-3895(IT)G
+INTITULÉ DE LA CAUSE :
+DANIEL VEILLEUX ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 5 mai 2022
+MOTIFS DE JUGEMENT PAR :
+L’honorable juge Gabrielle St-Hilaire
+DATE DU JUGEMENT :
+Le 28 juin 2022
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Félix St-Vincent Gagné
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Félix St-Vincent Gagné
+Cabinet :
+Ravinski, Ryan Lemoine S.E.N.C.R.L.
+1010, rue De La Gauchetière Ouest
+Suite 2100
+Montréal (Québec) H3B 2N2
+Pour l’intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Loi de l’impôt sur le revenu, LRC 1985, c 1 (5e suppl.) [Loi].
+[2] Canada c Livingston, 2008 CAF 89 au para 27 [Livingston].
+[3] Voir Heavyside c R, [1997] 2 CTC 1 au para 8.
+[4] Livingston, supra note 2 au para 17.
+[5] Voir Duha Printers (Western) Ltd. c Canada, [1998] 1 RCS 795.
+[6] Canada c McLarty, 2008 CSC 26 [McLarty].
+[7] Ibid au para 62, qui cite Agence du revenu du Canada, Bulletin d’interprétation IT-419-R2, « Sens de l’expression sans lien de dépendance », qui a été remplacé par Agence du revenu du Canada, Folio de l’impôt sur le revenu S1-F5-C1, « Personnes liées et personnes sans lien de dépendance entre elles » (26 novembre 2015) au para 1.38. La Cour suprême du Canada a reconnu que ces critères, énoncés dans un bulletin d’interprétation, avaient été acceptés par les tribunaux, citant à titre d’exemple la décision de la Cour d’appel fédérale dans l’affaire Peter Cundill & Associates Ltd c La Reine, [1991] 1 CTC 197.
+[8] McLarty, supra note 6 au para 65.
+[9] Réponse à l’avis d’appel, alinéa 8e).
+[10] Transcription de l’audience du 5 mai 2022 aux pp 164 et 165.
+[11] Ibid à la p 40 et l’enregistrement de l’audience.
+[12] Ibid à la p 32 et l’enregistrement de l’audience.
+[13] Ibid aux pp 33 et 34.
+[14] Ibid à la p 39; voir aussi aux pp 55, 100 et 113.
+[15] Ibid à la p 111.
+[16] Ibid.
+[17] Ibid à la p 46.
+[18] HLB Smith Holdings Limited c La Reine, 2018 CCI 83 [HLB] (Appel entendu sur preuve commune avec les appels de la Smith Family Trust (2001) (2016‑4104(IT)G), de Wayne Smith (2016‑4544(IT)G), et de Brenda Lee Brunelle (2016‑4568(IT)G)).
+[19] Fournier (F.) c MRN, 91 DTC 743 (CCI) [Fournier].
+[20] HLB, supra note 18 au para 24.
+[21] Fournier, supra note 19 à la p 745.
+[22] McLarty, supra note 6 au para 23.
+[23] MNR v Merritt, [1969] CTC 207.
+[24] Ibid au para 60.
+[25] Gestion Yvan Drouin Inc c La Reine, [2001] 2 C.T.C. 2315 [Drouin].
+[26] Ibid au para 85.
+[27] Ibid au para 96.
+[28] Valovic c La Reine, 2020 CCI 101.
+[29] Voir par exemple Canada c Gilbert, 2007 CAF 136, citant les décisions de la Cour suprême du Canada dans les affaires McClurg c Canada, [1990] 3 RCS 1020 et Neuman c MRN, [1998] 1 RCS 770.

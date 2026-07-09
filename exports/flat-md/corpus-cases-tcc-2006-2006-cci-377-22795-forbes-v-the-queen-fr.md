@@ -1,0 +1,229 @@
+---
+title: "Forbes v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22795/index.do"
+last_modified: "2006-06-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 377"
+citation2: ""
+neutral_citation: "2006 CCI 377"
+decision_date: "2006-06-30"
+language: "fr"
+item_id: "22795"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2242
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:30:27.816000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2b5d7c7aa69a056911a64e74979a1e210cb151429d895c3b5a2655eae893736d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Forbes v. The Queen
+
+- Citation: 2006 CCI 377
+- Decision date: 2006-06-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2242, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Forbes v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-30
+Référence neutre
+2006 CCI 377
+Numéro de dossier
+2005-3936(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3936(IT)I
+ENTRE :
+NANCY FORBES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 22 juin 2006, à Prince Albert (Saskatchewan)
+Devant : L'honorable juge D.W. Beaubier
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Lyle Bouvier
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2002 est accueilli, et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs de jugement ci-joints.
+Un montant de 100 $ est adjugé à l'appelante au titre des dépens pour les débours qu'elle a pu engager dans le cadre de l'appel.
+Signé à Edmonton (Alberta), ce 30e jour de juin 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 11e jour d'août 2006.
+Marie-Christine Gervais, traductrice
+Référence : 2006CCI377
+Date : 20060630
+Dossier : 2005-3936(IT)I
+ENTRE :
+NANCY FORBES,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel interjeté sous le régime de la procédure informelle a été entendu à Prince Albert (Saskatchewan) le 22 juin 2006. L'appelante était la seule témoin. Suivant les renseignements qu'elle a fournis, la Cour ordonne que son adresse aux fins du présent appel sera désormais l'adresse suivante :
+559, 22e rue Est
+Prince Albert (Saskatchewan)
+S7V 1N8
+No de téléphone : 306-763-4037
+[2] Les paragraphes 6 à 15 inclusivement font état des questions soulevées par l'intimée dans le cadre de l'appel. Ils sont rédigés ainsi :
+[traduction]
+6. Dans un avis de nouvelle détermination de la PFCE pour l'année de base 2002 daté du 20 juillet 2004 (ci-après appelé « avis de PFCE » ), le ministre a avisé l'appelante que son admissibilité à la PFCE avait fait l'objet d'un examen en raison d'un changement relatif à l'enfant admissible, Justin Willoughby. L'appelante a été avisée qu'elle n'avait plus le droit de recevoir des prestations pour Justin Willoughby depuis juillet 2003, étant donné qu'elle n'avait plus la garde de l'enfant. Il a donc été déterminé qu'un montant de 2 694 $ avait été versé en trop à l'appelante aux fins de la PFCE pour la période allant de juillet 2003 à juin 2004.
+7. Dans une lettre datée du 14 février 2005, l'appelante a signifié au ministre un avis d'opposition à l'avis de PFCE.
+8. Dans une lettre datée du 11 mars 2005, le ministre a avisé l'appelante que l'avis d'opposition n'avait pas été déposé dans les 90 jours suivant la date de mise à la poste de l'avis de PFCE. Par conséquent, l'avis ne pouvait pas être accepté. L'appelante a également été avisée qu'elle pouvait demander une prorogation du délai pour déposer une opposition.
+9. Vers le 30 mars 2005, l'appelante a signifié au ministre une demande de prorogation du délai pour déposer une opposition à l'avis de PFCE.
+10. Dans une lettre datée du 5 avril 2005, le ministre a avisé l'appelante que sa demande de prorogation du délai pour déposer une opposition avait été accordée et qu'il était considéré que l'opposition avait été déposée le 5 avril 2005.
+11. Dans une lettre datée du 29 avril 2005, le ministre a ratifié l'avis de PFCE.
+12. Pour établir une nouvelle détermination à l'égard de l'admissibilité de l'appelante à la PFCE pour l'année de base 2002, et pour ratifier l'avis de PFCE, le ministre a tenu pour acquis les faits suivants :
+a) l'appelante et Kevin Willoughby (le « mari » ) sont les parents de Justin Willoughby, qui est né en avril 1987 ( « Justin » );
+b) au cours de la période allant de juillet 2003 à juin 2004, l'appelante n'avait pas la garde de Justin;
+c) au cours de la période allant de juillet 2003 à juin 2004, Justin demeurait dans le foyer familial avec le mari et non pas avec l'appelante;
+d) au cours de la période allant de juillet 2003 à juin 2004, l'appelante n'était pas le particulier admissible à l'égard de Justin;
+e) au cours de la période allant de juillet 2003 à juin 2004, le mari était le particulier admissible à l'égard de Justin;
+f) au cours de la période allant de juillet 2003 à juin 2004, les chèques de PFCE suivants ont été émis à l'ordre de l'appelante relativement à Justin :
+Date du chèque
+Montant du chèque
+18 juillet 2003
+234,98 $
+20 août 2003
+234,82 $
+19 septembre 2003
+234,82 $
+20 octobre 2003
+234,82 $
+20 novembre 2003
+219,32 $
+12 décembre 2003
+219,32 $
+20 janvier 2004
+219,32 $
+20 février 2004
+219,32 $
+19 mars 2004
+219,32 $
+20 avril 2004
+219,32 $
+20 mai 2004
+219,32 $
+18 juin 2004
+219,32 $
+Total
+2 694,00 $
+g) un montant de 2 694 $ a été versé en trop à l'appelante aux fins de la PFCE pour l'année de base 2002, lequel montant correspond aux montants de PFCE qu'elle a reçus pour l'année de base 2002.
+B. POINT EN LITIGE
+13. Il s'agit de savoir si le montant de2 694 $ a été versé en trop à l'appelante aux fins de la PFCE pour l'année de base 2002.
+C. DISPOSITIONS LÉGISLATIVES INVOQUÉES, MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+14. Il se fonde sur les articles 122.6, 122.61, 122.62, 122.63 et 122.64 de la Loi de l'impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) (la « Loi » ), dans sa version modifiée, pour l'année d'imposition 2002, et sur la partie LXIII du Règlement de l'impôt sur le revenu.
+15. Il allègue qu'au cours de l'année de base 2002, c'est-à-dire pour les mois de juillet 2003 à juin 2004, l'appelante n'était pas le particulier admissible à l'égard de Justin au sens de l'article 122.6 de la Loi. Par conséquent, l'appelante n'avait pas le droit de recevoir la PFCE à l'égard de Justin pour l'année de base 2002 en application de l'article 122.61 de la Loi.
+L'article 122.62 de la Loi de l'impôt sur le revenu (la « Loi » ) est rédigé ainsi :
+Particuliers admissibles
+122.62 (1) Pour l'application de la présente sous-section, une personne ne peut être considérée comme un particulier admissible à l'égard d'une personne à charge admissible au début d'un mois que si elle a présenté un avis au ministre, sur formulaire prescrit contenant les renseignements prescrits, au plus tard onze mois après la fin du mois.
+122.62 (2) Prorogation
+(2) Le ministre peut, en tout temps, proroger le délai prévu au paragraphe (1).
+122.62 (3) Exception
+(3) Dans le cas où, au début de 1993, une personne est un particulier admissible à l'égard d'une personne à charge admissible, le paragraphe (1) ne s'applique pas à la personne quant à la personne à charge si celle-ci est aussi son enfant admissible (au sens du paragraphe 122.2(2) par l'effet du sous-alinéa a)(i) de cette définition) pour l'année d'imposition 1992.
+122.62 (4) Avis de cessation d'admissibilité
+(4) La personne qui cesse, au cours d'un mois donné, d'être un particulier admissible à l'égard d'une personne à charge admissible, autrement que parce que celle-ci atteint l'âge de 18 ans, est tenue d'en aviser le ministre avant la fin du premier mois suivant le mois donné.
+122.62 (5) Décès de l'époux ou du conjoint de fait visé
+(5) Lorsque l'époux ou conjoint de fait visé d'un particulier admissible à l'égard d'une personne à charge admissible est décédé avant la fin d'un mois donné, le particulier peut faire un choix, avant la fin du onzième mois suivant le mois donné et en la forme que le ministre estime acceptable, pour que son revenu modifié pour l'année soit réputé égal à son revenu pour l'année. Cette présomption ne s'applique que dans le cadre du calcul du montant réputé par le paragraphe 122.61(1) être un paiement en trop - qui se produit au cours d'un mois postérieur au mois donné - au titre des sommes dont le particulier est redevable en vertu de la présente partie pour l'année de base se rapportant au mois donné (sous réserve de tout choix subséquent fait en application des paragraphes (6) ou (7)).
+122.62 (6) Séparation
+(6) Le particulier admissible à l'égard d'une personne à charge admissible qui commence, avant la fin d'un mois donné, à vivre séparé de son époux ou conjoint de fait visé, pour cause d'échec de leur mariage ou union de fait, pendant une période d'au moins 90 jours qui comprend un jour du mois donné, peut faire un choix, avant la fin du onzième mois suivant le mois donné et en la forme que le ministre estime acceptable, pour que son revenu modifié pour l'année soit réputé égal à son revenu pour l'année. Cette présomption ne s'applique que dans le cadre du calcul du montant réputé par le paragraphe 122.61(1) être un paiement en trop -- qui se produit au cours d'un mois postérieur au mois donné -- au titre des sommes dont le particulier est redevable en vertu de la présente partie pour l'année de base se rapportant au mois donné (sous réserve de tout choix subséquent fait en application des paragraphes (5) ou (7)).
+122.62 (7) Nouvel époux ou conjoint de fait visé
+(7) Le contribuable qui, à un moment donné avant la fin d'un mois donné, devient l'époux ou conjoint de fait visé d'un particulier admissible peut faire un choix avec celui-ci, sur formulaire prescrit présenté au ministre avant la fin du onzième mois suivant le mois donné, pour qu'il soit réputé avoir été l'époux ou conjoint de fait visé du particulier admissible tout au long de la période qui a commencé immédiatement avant la fin de l'année de base se rapportant au mois donné et s'est terminée au moment donné. Cette présomption ne s'applique que dans le cadre du calcul du montant réputé par le paragraphe 122.61(1) être un paiement en trop - qui se produit au cours d'un mois postérieur au mois donné - au titre des sommes dont le particulier admissible est redevable en vertu de la présente partie pour l'année.
+122.62 (8) Nouveau conjoint visé
+(8) [Abrogé par 1998, chap. 19, art. 142(2).
+122.62 (9) Avis du ministère du Développement des ressources humaines
+(9) [Abrogé par 1998, chap. 19, art. 142(2).]
+L.C. 1994, ch. 7, ann. VII, art. 12; L.C. 1996, ch. 11, art. 95h) et 97(1)e); L.C. 1998, ch. 19, art. 142; L.C. 1998, ch. 21, art. 95; L.C. 2000, ch. 12, art. 142.
+[3] Au début de l'audience, l'avocat de l'intimée a reconnu que les paiements pour les dates suivantes avaient été retournés à l'intimée :
+20 avril 2004
+219,32 $
+20 mai 2004
+219,32 $
+18 juin 2004
+219,32 $
+Compte tenu d'un montant supplémentaire de 28 $ relatif à la Saskatchewan, le montant en litige restant est donc de 2 064,04 $.
+[4] La Cour conclut également que, en fait, la résidence de l'appelante (la mère) n'a cessé d'être la même que celle de Justin à Calgary (Alberta) qu'après le 1er septembre 2003. L'appelante a donc reçu les paiements du 18 juillet 2003, du 20 août 2003 et du 19 septembre 2003 à juste titre et légitimement étant donné que sa résidence était la même que celle de Justin pendant ces mois-là. Après le 1er septembre 2003, l'appelante a déménagé à Prince Albert (Saskatchewan) et elle a obtenu une carte santé de la Saskatchewan en septembre parce qu'elle résidait à Prince Albert. Du mois de juin au 1er septembre 2003, sa résidence était la résidence de Justin. Pendant ce temps-là, elle vivait avec sa soeur et ses parents, mais sa résidence était à Calgary.
+[5] Les mois qui demeurent en litige sont donc les mois d'octobre 2003 à mars 2004, inclusivement.
+[6] Conformément au paragraphe 122.62(4), Nancy Forbes a avisé par écrit les autorités compétentes de l'intimée de son intention de quitter le foyer familial situé à Calgary en juillet 2003, le 22 octobre 2003 (pièce A-1) et en décembre 2003 (pièce A-2, non datée, mais reçue par l'intimée le 9 décembre 2003). Malgré ces avis, l'intimée a continué de lui envoyer les chèques.
+[7] Il y a plusieurs années, Nancy Forbes a eu un accident. Depuis l'accident, sa mémoire n'est plus aussi bonne qu'avant : elle a de la difficulté à comprendre les choses et elle a du mal à s'exprimer et à démêler les dates et les années. Il s'agit de déficiences évidentes et on pouvait clairement s'en rendre compte lors de l'audience. Je ne connais pas leur étendue, mais il s'agit de déficiences graves. Malgré cela et malgré les actions de l'intimée, Nancy savait que les chèques étaient pour Justin.
+1. Par conséquent, le 30 octobre 2003, elle a envoyé un chèque de 800 $ à Justin pour lui verser les montants qu'elle avait reçus pour les mois de juillet, d'août et de septembre 2003 ainsi que pour lui donner un peu d'argent supplémentaire.
+2. Par la suite, elle a déposé les chèques qu'elle a reçus, comme il est décrit à l'hypothèse 12f), dans le compte bancaire de Justin :
+21 novembre 2003
+240,00 $
+19 décembre 2003
+260,00 $
+plus 219,32 $
+30 janvier 2004
+219,32 $
+23 février 2004
+219,32 $
+30 mars 2004
+219,32 $
+(voir la pièce A-3)
+[8] Compte tenu du fait que Nancy a avisé l'intimée conformément à la Loi de l'impôt sur le revenu, que l'intimée a continué d'envoyer les chèques à Nancy et que Nancy a déposé l'argent ainsi reçu dans le compte bancaire de Justin, la Cour conclut que l'intimée et Nancy elle-même considéraient que Nancy était la fiduciaire de l'argent pour le compte du vrai destinataire des fonds.
+[9] Compte tenu de la preuve, l'appelante est devenue, en raison des actions de l'intimée, la fiduciaire constructoire pour le compte de son mari, Kevin, des fonds lui ont été remis par l'intimée du mois d'octobre 2003 au mois de mars 2004, et elle a donc utilisé ces fonds pour le fils du couple, Justin, comme le voulaient les parties et comme le prévoit la Loi.
+[10]L'intimée n'a pas nié avoir reçu l'avis de Nancy à cet égard. En séparant ces fonds de ses propres fonds et en les utilisant pour Justin comme l'exige la Loi, Nancy a joué le rôle de fiduciaire qui lui avait été imposé par l'intimée.
+[11]Pour ces motifs, l'appel est accueilli.
+[12] Un montant de 100 $ est adjugé à l'appelante au titre des débours qu'elle a engagés dans le cadre de l'appel pour faire des photocopies, payer des frais d'affranchissement et faire des appels téléphoniques, ainsi que pour les autres dépenses qu'elle a engagées.
+Signé à Edmonton (Alberta), ce 30e jour de juin 2006.
+« D.W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 11e jour d'août 2006.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2006CCI377
+NO DU DOSSIER DE LA COUR : 2005-3936(IT)I
+INTITULÉ DE LA CAUSE : Nancy Forbes c. La Reine
+LIEU DE L'AUDIENCE : Prince Albert (Saskatchewan)
+DATE DE L'AUDIENCE : Le 22 juin 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 30 juin 2006
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Lyle Bouvier
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,193 @@
+Title: Bernier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28881/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-379-28881-bernier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-09-16
+
+# Bernier c. La Reine
+
+- Citation: 2008 CCI 379
+- Decision date: 2008-09-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1324, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bernier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-16
+Référence neutre
+2008 CCI 379
+Numéro de dossier
+2007-4141(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4141(IT)I
+ENTRE :
+RÉAL BERNIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 17 juin 2008, à Montréal (Québec).
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Pour l'appelant :
+L’appelant lui-même
+Avocate de l'intimée :
+Me Sarom Bahk
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2008.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2008 CCI 379
+Date : 20080916
+Dossier : 2007-4141(IT)I
+ENTRE :
+RÉAL BERNIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience du 17 juin 2008 à Montréal (Québec) et modifiés pour plus de clarté et de précision.)
+Le juge Hogan
+[1] M. Réal Bernier interjette appel à l’encontre d’une cotisation d’impôt relative à son année d’imposition 2006. En vertu des dispositions de l’article 18.1 de la Loi sur la Cour canadienne de l’impôt, la procédure informelle régit son appel.
+[2] À la conclusion du procès, j’ai rejeté l’appel du contribuable. Au profit des parties, j’estime approprié d’exprimer maintenant mes motifs par écrit.
+[3] La question litigieuse découle de ce qui suit. L’Agence du revenu du Canada (l’« ARC ») a imposé à l’appelant des intérêts sur acomptes provisionnels au montant total de 120,21 $.
+[4] Les faits énoncés aux paragraphes 3 à 6 en réponse à l’avis d’appel sont reproduits comme suit :
+3. Le Ministre a émis à l’appelant une cotisation initiale pour l’année d’imposition 2006; ce, en date du 22 mai 2007.
+4. Le ou vers le 5 juin 2007, l’appelant a signifié au Ministre son opposition à l’encontre de la cotisation du 22 mai 2007 pour l’année d’imposition 2006.
+5. En réponse à l’opposition signifiée par l’appelant à l’encontre de la cotisation du 22 mai 2007 pour l’année d’imposition 2006, le Ministre a confirmé cette cotisation; ce, en date du 18 juillet 2007.
+6. En établissant la cotisation du 22 mai 2007 pour l’année d’imposition 2006, et en la confirmant, le Ministre s’est fondé sur les hypothèses de faits suivantes :
+a) Dans sa déclaration de revenu pour son année d’imposition 2006, l’appelant a déclaré les montants suivants :
+Description
+Montant
+Régie des rentes du Québec
+6 263 $
+Autre pension
+19 774 $
+Intérêt/
+Revenus de placement
+1 451 $
+Revenu d’un REER*
+10 000 $
+Revenu net d’entreprise
+2 039 $
+REVENU TOTAL
+39 527 $
+*Régime enregistré d’épargne retraite
+b) Dans sa déclaration de revenu pour son année d’imposition 2005, l’appelant a déclaré les montants suivants :
+Description
+Montant
+Régie des rentes du Québec
+6 122 $
+Intérêt/
+Revenus de placement
+1 392 $
+Revenu d’un REER*
+7 000 $
+Autres revenus
+18 743 $
+Revenu net d’entreprise
+5 473 $
+REVENU TOTAL
+38 730 $
+*Régime enregistré d’épargne retraite
+c) Dans sa déclaration de revenu pour son année d’imposition 2004, l’appelant a déclaré les montants suivants :
+Description
+Montant
+Régie des rentes du Québec
+6 025 $
+Autre pension
+18 813 $
+Revenu d’un REER*
+10 000 $
+Revenu net d’entreprise
+863 $
+REVENU TOTAL
+35 701 $
+*Régime enregistré d’épargne retraite
+d) Au 22 mai 2007, le compte d’impôt de l’appelant pour son année d’imposition 2006, se détaillait comme suit :
+Description
+Montant
+Impôt fédéral
+4 552,99 $
+Abattement remboursable
+( 751,24 $)
+Déductions d’impôt
+(1 953,90 $)
+e) Au 11 mai 2006, le compte d’impôt de l’appelant pour son année d’imposition 2005, se détaillait comme suit :
+Description
+Montant
+Impôt fédéral
+4 478,35 $
+Abattement remboursable
+( 738,93 $)
+Déductions d’impôt
+(1 623,85 $)
+f) Au 9 juin 2005, le compte d’impôt de l’appelant pour son année d’imposition 2004, se détaillait comme suit :
+Description
+Montant
+Impôt fédéral
+4 206,56 $
+Abattement remboursable
+( 694,08 $)
+Déductions d’impôt
+(1 945,34 $)
+g) L’appelant était tenu de faire des paiements d’impôt par acomptes provisionnels pour les années d’imposition 2004 et 2005;
+h) Au cours de l’année d’imposition 2006, l’appelant était tenu de verser trimestriellement, soit les 15 mars, 15 juin, 15 septembre et 15 décembre, les sommes suivantes :
+Période
+Montant
+15 mars
+392,00 $
+15 juin
+392,00 $
+15 septembre
+601,88 $
+15 décembre
+461,96 $
+i) L’appelant n’a pas effectué ses versements d’acomptes provisionnels pour son année d’imposition 2006;
+j) Des rappels d’acomptes provisionnels ont été envoyés à l’appelant aux dates requises, afin de l’informer des versements requis pour l’année d’imposition 2006;
+k) L’appelant n’ayant effectué aucun paiement d’impôt par acomptes provisionnels, à l’égard de l’année d’imposition 2006, le Ministre a réclamé des intérêts sur acomptes provisionnels s’élevant à une somme de 120,21 $;
+l) De plus, compte tenu que l’appelant n’a payé son solde d’impôt qu’en date du 24 mai 2007, alors qu’il était tenu de le payer le 30 avril 2007, le Ministre a réclamé des intérêts sur arriérés s’élevant à une somme 10,70 $.
+Les questions en litige
+[5] Les questions en litige consistent à déterminer si, pour l’année d’imposition 2006 :
+a) l’appelant était dans l’obligation d’effectuer des paiements d’impôt par acomptes provisionnels;
+b) le ministre avait raison d’imposer à l’appelant le montant de 120,21 $ à titre d’intérêt sur acomptes provisionnels;
+c) le ministre avait raison d’imposer à l’appelant le montant de 10,70 $ à titre d’intérêt sur arriérés;
+d) le ministre a correctement calculé les intérêts sur acomptes provisionnels et les intérêts sur arriérés.
+[6] Pour ce qui est des intérêts, les dispositions du paragraphe 161(1) de la Loi de l’impôt sur le revenu (la « LIR ») sont claires, et non ambiguës. La Cour n’a pas compétence pour annuler ou réduire les intérêts correctement imposés en vertu du paragraphe 161(2) de la LIR.
+[7] L’appelant n’a invoqué aucun motif valable pour contester l’imposition des intérêts par l’ARC. Son seul argument était d’invoquer les articles 146 et 147 de la LIR sans établir leur portée. Pour ces motifs, la Cour rejette l’appel.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2008.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2008 CCI 379
+No DU DOSSIER DE LA COUR : 2007-4141(IT)I
+INTITULÉ DE LA CAUSE : RÉAL BERNIER c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 17 juin 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 16 septembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l'intimée :
+Me Sarom Bahk
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,111 @@
+Title: Da Silva v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29782/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-235-29782-da-silva-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2010-05-03
+
+# Da Silva v. M.N.R.
+
+- Citation: 2010 TCC 235
+- Decision date: 2010-05-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6617, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Da Silva v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-03
+Neutral citation
+2010 TCC 235
+File numbers
+2009-2708(EI)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2009-2708(EI)
+BETWEEN:
+SANDY DA SILVA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 19, 2010, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Roxanne Wong
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision made under the Employment Insurance Act for the period from September 1, 2007 to October 31, 2008 is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 3rd day of May 2010.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2010TCC235
+Date: 20100503
+Docket: 2009-2708(EI)
+BETWEEN:
+SANDY DA SILVA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The issue in this appeal is whether the Minister of National Revenue (the “Minister”) correctly determined the number of insurable hours that the Appellant accumulated during the period September 1, 2007 to October 31, 2008.
+[2] The Appellant is employed by the Toronto District School Board (TDSB) as a mathematics teacher at Forest Hills Collegiate Institute.
+[3] In 2003, she signed an agreement with her employer which provided for a leave of absence for one school year with pay at 80% of her salary. This agreement was called the “FOUR OVER FIVE PLAN” (the “Agreement”) and it had been negotiated between the Appellant’s union, The Ontario Secondary School Teachers’ Federation (“OSSTF”), and the TDSB.
+[4] Pursuant to the Agreement, the Appellant received 80% of her salary for four years and during the fifth year, she had a leave of absence with pay at 80% of her salary. The Appellant’s leave period was September 1, 2007 to August 31, 2008 (the “leave period”).
+[5] During the leave period, the Appellant became pregnant. Due to health complications, she gave birth to her son three weeks early on September 20, 2008.
+[6] The TDSB issued two Records of Employment (ROE) to the Appellant to inform her that she had earned a total of 301 insurable hours for the period September 2, 2008 to October 31, 2008.
+[7] The Minister also determined that the Appellant had accumulated 301 insurable hours for the period September 1, 2007 to October 31, 2008.
+[8] In making the determination, the Minister relied on the following provisions of the Employment Insurance Regulations (the “Regulations”):
+10. (1) Where a person's earnings are not paid on an hourly basis but the employer provides evidence of the number of hours that the person actually worked in the period of employment and for which the person was remunerated, the person is deemed to have worked that number of hours in insurable employment.
+…
+(3) Where the number of hours agreed to by the employer and the worker or group of workers under subsection (2) is not reasonable or no agreement can be reached, each worker is deemed to have worked the number of hours in insurable employment established by the Minister of National Revenue, based on an examination of the terms and conditions of the employment and a comparison with the number of hours normally worked by workers performing similar tasks or functions in similar occupations and industries.
+…
+10.1 (1) Where an insured person is remunerated by the employer for a period of paid leave, the person is deemed to have worked in insurable employment for the number of hours that the person would normally have worked and for which the person would normally have been remunerated during that period.
+[9] The Minister also determined that the Appellant did not qualify to receive employment insurance benefits during her pregnancy and parental leave as she did not have the required 600 insurable hours.
+[10] Craig Duncan, the payroll manager for the TDSB, testified that the salary which the Appellant received during her leave period was self-funded as it was earned over the first four years of the Agreement. The Appellant did not work during the leave period and she was on personal time during this period. He stated that the Appellant applied to take part in the deferred salary leave plan offered by the TDSB; her application was accepted; and she signed the Agreement on May 8, 2003.
+[11] Teachers are not salaried employees over a 12 month period. They are only remunerated for a school year which consists of 194 days. Teachers receive their salary evenly over 26 pay periods. The TDSB and the OSSTF have agreed that a teacher should be credited with seven insurable hours for each school day worked. A teacher does not accumulate insurable hours nor does she get paid for July, August, Christmas break, March break and statutory holidays[1].
+[12] It is the Respondent’s position that the Appellant did not earn any insurable hours during the leave period as she was not remunerated by her employer and the Appellant was not on paid leave.
+[13] The facts in this appeal are similar to those in the case of Huard v. Canada[2]. In that case Ms. Huard had signed an agreement with her employer which provided for a deferred salary leave averaged over five years. In each of the first four years, Ms. Huard worked and the employer withheld 20% of her pay. Ms. Huard was paid the amount held back during the fifth year when she was on leave. Létourneau J., speaking for the court, stated:
+[10] It is also incorrect to conclude, as the judge did, that the reward or benefit received by the respondent had the same attributes as vacation pay. What the respondent received during the period in question was not vacation pay or compensation for work performed during that period. Rather, it was an amount that, as the agreement states, is salary earned for periods of work prior to the period in dispute, but the payment of which to the respondent has been deferred in part. The postponement of a part of the salary thus earned by the respondent during the first four years of the agreement, during which work was provided, did not have the effect of transforming the leave without pay in the fifth year into a year of remunerated work or, as the judge seemed to think, a paid leave.
+[14] In the present appeal, the Appellant did not receive remuneration from the TDSB during the leave period. She was not on paid leave but was on leave without pay. The monies she received from the TDSB during the leave period had been earned by her during the previous four years and payment was deferred until the fifth year.
+[15] Unfortunately, I must dismiss the appeal.
+Signed at Ottawa, Canada, this 3rd day of May 2010.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2010TCC235
+COURT FILE NO.: 2009-2708(EI)
+STYLE OF CAUSE: SANDY DA SILVA
+AND THE MINISTER OF
+NATIONAL REVENUE
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 19, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: May 3, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Roxanne Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Kuffner v. Canada, [2001] T.C.J. No. 23
+[2] [2000] F.C.J. No. 237 (FCA)

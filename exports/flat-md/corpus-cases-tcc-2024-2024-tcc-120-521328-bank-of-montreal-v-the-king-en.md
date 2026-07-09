@@ -1,0 +1,215 @@
+---
+title: "Bank of Montreal v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521328/index.do"
+last_modified: "2024-09-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 120"
+citation2: ""
+neutral_citation: "2024 TCC 120"
+decision_date: "2024-09-12"
+language: "en"
+item_id: "521328"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5496
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-05-14T09:05:10.886000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e81a946664571e683f4d12003fff8ae8ccf948558d02277ced87f5f8e12cd492"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bank of Montreal v. The King
+
+- Citation: 2024 TCC 120
+- Decision date: 2024-09-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5496, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bank of Montreal v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-09-12
+Neutral citation
+2024 TCC 120
+File numbers
+2022-3210(IT)G, 2023-1128(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2022-3210(IT)G
+2023-1128(IT)G
+BETWEEN:
+BANK OF MONTREAL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard in writing
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+Jacky Cheung
+Martha MacDonald
+Counsel for the Respondent:
+Katie Beahen
+Andrea Jackett
+ORDER
+In accordance with the attached Reasons, it is ordered that:
+a)As requested by the parties, that the stage 2 rule 58 motion be heard in respect of the Appeals together;
+b)The following Question be determined before the hearing of the Appeals:
+Whether interest payable by the appellant to certain foreign tax authorities in the United States of America (the “Interest Amount”), in respect of overdue tax liabilities payable to those foreign tax authorities, is deductible under section 9 of the Income Tax Act (Canada) (the “Act”) and not precluded from deduction by subsection 18(1) of the Act.
+c)that the hearing of the Question be held at the Tax Court of Canada, 180 Queen Street West, Toronto, Ontario, on a date to be determined in consultation with counsel and the Registry of the Tax Court of Canada;
+d) that the evidence to be presented at the hearing of the Question shall include:
+the notices of appeal;
+the replies to the notices of appeal; and
+an agreed statement of facts dated March 28, 2024;
+e) that BMO’s memorandum of fact and law shall be filed and served at least 120 days prior to the hearing;
+f) that the respondent’s memorandum of fact and law shall be filed and served at least 60 days prior to the hearing;
+g) that BMO’s reply memorandum of fact and law shall be filed and served at least 30 days prior to hearing;
+h) that the parties shall bear their own costs of this motion; and
+i) for such further and other relief as counsel may advise and the court may permit.
+Signed at Ottawa, Canada, this 13th day of September 2024.
+“R. MacPhee”
+MacPhee J.
+Citation: 2024 TCC 120
+Date: 2024-09-12
+Docket: 2022-3210(IT)G
+2023-1128(IT)G
+BETWEEN:
+BANK OF MONTREAL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+MacPhee J.
+I. FACTS [1] The Appellant and Respondent have jointly brought a motion, pursuant to rule 58 of the Rules, that the following question of mixed fact and law (the “Question”) raised in the pleadings be determined before the hearing of the appeals:
+Whether interest payable by the appellant to certain foreign tax authorities in the United States of America (the “Interest Amount”), in respect of overdue tax liabilities payable to those foreign tax authorities, is deductible under section 9 of the Income Tax Act (Canada) (the “Act”) and not precluded from deduction by subsection 18(1) of the Act.
+[2] Upon a review of the pleadings, the agreed statement of fact, and the written submissions, I am in agreement that the stage one request under rule 58 should be granted. The proposed question should be heard by this Court pursuant to rule 58 at a subsequent second stage hearing. This judgement in large part reproduces the joint submissions of the parties.
+[3] An agreed statement of facts has been provided by the parties. They further advise that there are virtually no disagreements concerning the facts. I have reproduced the facts as provided by the parties.
+II. BACKGROUND FACTS [4] Bank of Montreal ("BMO") has filed two appeals raising the issue of whether arrears interest payable to a foreign tax authority is deductible in computing income under the Income Tax Act (Canada). The parties agree that an advance determination of this discrete issue under rule 58 of the Tax Court of Canada Rules (General Rules), based on an agreed factual record, would dispose of all or part of the hearing, result in a substantially shorter hearing, or result in a substantial saving of costs.
+[5] BMO is a chartered bank named on Schedule 1 of the Bank Act.
+[6] BMO carried on business in the United States (the “US”) during its 2004 and 2006 fiscal years.
+[7] By virtue of its branch operations in the US, BMO has a permanent establishment in the US. The US has the right to tax the business profits attributable to BMO’s permanent establishment in the US under Article VII of the Convention between Canada and the United States of America with Respect to Taxes on Income and on Capital.
+[8] One of BMO’s US branches is in New York City. By virtue of its branch operations in New York City, BMO was liable to New York City municipal income tax.
+A. Interest Payable in the 2004 Fiscal Year [9] With respect to US branch operations, BMO timely filed its US federal income tax returns for the 1997 to 2000 taxation years and paid any outstanding balances it believed it owed based on its tax returns as filed by the return-filing deadline.
+[10] During the 2004 fiscal year, the Internal Revenue Service (the “IRS”) completed an audit of BMO’s US branch operations for its 1997 to 2000 taxation years.
+[11] As a result of this audit, the IRS assessed BMO for additional US federal income tax and interest. The additional federal income tax constitutes business-income tax as defined in section 126 of the Act. The amount of interest BMO owed to the IRS was US $6,680,190, equivalent to $8,910,037 Canadian dollars at the time (the “2004 Federal Interest”).
+[12] During the 2004 fiscal year, BMO was assessed additional New York City municipal income taxes and interest. The additional municipal income tax constitutes business-income tax as defined in section 126 of the Act. The amount of interest was US $51,092, equivalent to $65,430 in Canadian dollars at the time (the “2004 Municipal Interest”).
+B. Interest Payable in the 2006 Fiscal Year [13] With respect to US branch operations, BMO timely filed its US federal income tax return for the 2001 taxation year and paid any outstanding balance it believed it owed based on its tax returns as filed by the return-filing deadline.
+[14] During the 2006 fiscal year, the IRS completed an audit of BMO’s US branch operations for its 2001 taxation year.
+[15] As a result of this audit, the IRS assessed BMO, for additional US federal income tax and interest. The additional federal income tax constitutes business-income tax as defined in section 126 of the Act. The amount of interest BMO owed to the IRS was US $1,416,415, equivalent to $1,829,839 in Canadian dollars at the time (the “2006 Federal Interest”).
+C. Canadian Tax [16] BMO deducted the 2004 Federal Interest and the 2004 Municipal Interest in computing income for the 2004 taxation year.
+[17] BMO deducted the 2006 Federal Interest in computing income for the 2006 taxation year pursuant to section 9 of the Act.
+[18] By way of notice of reassessment dated October 31, 2019, the Minister of National Revenue (the “Minister”) maintained her reassessment of BMO’s 2004 taxation year to disallow the deduction of the 2004 Federal Interest and the 2004 Municipal Interest pursuant to subsection 18(1) of the Act (the “2004 Reassessment”).
+[19] By way of notice of reassessment dated March 6, 2023, the Minister maintained her reassessment for BMO’s 2006 taxation year to disallow the 2006 Federal Interest pursuant to subsection 18(1) of the Act (the “2006 Reassessment”).
+D. Procedural History in the Tax Court [20] BMO appealed the 2004 Reassessment to this court by way of notice of appeal filed December 23, 2022 (the “2004 Appeal”).
+[21] The sole issue raised in the notice of appeal for the 2004 Appeal is whether BMO is entitled to deduct the 2004 Federal Interest and the 2004 Municipal Interest in calculating its income for the 2004 taxation year pursuant to section 9 of the Act, and whether subsection 18(1) of the Act applies to deny the deductions.
+[22] The respondent raised a similar issue in its reply filed March 10, 2023 for the 2004 Appeal. Among other things, the respondent denies BMO is entitled to deduct the 2004 Federal Interest and the 2004 Municipal Interest in calculating its income pursuant to section 9 and subsection 18(1) of the Act.
+[23] BMO appealed the 2006 Reassessment to this court by way of notice of appeal filed April 19, 2023 (the “2006 Appeal”, together with the 2004 Appeal, the “Appeals”).
+[24] The notice of appeal for the 2006 Appeal raises two issues:
+a) whether BMO was entitled to deduct the 2006 Federal Interest in calculating its income for the 2006 taxation year pursuant to section 9 of the Act; and
+b) whether the 2006 Reassessment was made beyond the normal reassessment period (the “Limitation Period Issue”).
+[25] The respondent raised similar issues in its reply filed August 8, 2023 for the 2006 Appeal. Among other things, the respondent denies BMO is entitled to deduct the 2006 Federal Interest in calculating its income pursuant to section 9 and subsection 18(1) of the Act.
+III. ISSUES [26] The issues to be decided are whether the Question should be determined pursuant to rule 58 and whether the requested order should be granted. Rule 58 permits a question to be determined prior to the hearing of an appeal:
+58 (1) On application by a party, the Court may grant an order that a question of law, fact or mixed law and fact raised in a pleading, or a question as to the admissibility of any evidence, to be determined before the hearing;
+(2) On the application, the Court may grant an order if it appears that the determination of the question before the hearing may dispose of all or part of a proceeding or result in a substantially shorter hearing or a substantial savings of costs;
+(3) An order that is granted under subsection (1) shall:
+(a) state the question to be determined before the hearing;
+(b) give directions relating to the determination of the question, including directions as to the evidence to be given- orally or otherwise-and as to fix the service and filing of documents;
+(c) fix time limit for the service and filing of a factum consisting of a concise statement of facts and law;
+(d) fix the time and place for the hearing of the question; and
+(e) give any other direction that the Court considers appropriate.
+58 (1) Sur requête d’une partie, la Cour peut rendre une ordonnance afin que soit tranchée avant l’audience une question de fait, une question de droit ou une question de droit et de fait soulevée dans un acte de procédure, ou une question sur l’admissibilité de tout élément de preuve.
+(2) Lorsqu’une telle requête est présentée, la Cour peut rendre une ordonnance s’il appert que de trancher la question avant l’audience pourrait régler l’instance en totalité ou en partie, abréger substantiellement celle-ci ou résulter en une économie substantielle de frais.
+(3) L’ordonnance rendue en application du paragraphe (1) contient les renseignements suivants:
+(a) la question à trancher avant l’audience;
+(b) des directives relatives à la manière de trancher la question, y compris des directives sur la preuve à consigner, soit oralement ou par tout autre moyen, et sur la méthode de signification ou de dépôt des documents;
+(c) le délai pour la signification et le dépôt d’un mémoire comprenant un exposé concis des faits et du droit;
+(d) la date, l’heure et le lieu pour l’audience se rapportant à la question à trancher;
+(e) toute autre directive que la Cour estime appropriée.
+[27] A rule 58 motion has two stages. First, the court will determine if the proposed question should be heard by the court pursuant to the rule. If so, the court will determine the question on its merits.
+[28] Under rules 58(1) and (2), a court may determine a question prior to the hearing if:
+a)the question is a question of law, fact or mixed law and fact;
+b)the question is raised by the pleadings; and,
+c)the question may dispose of all or part of the proceeding, may substantially shorten the hearing of the appeal, or may result in a substantial savings of costs.
+IV. JOINT SUBMISSTIONS [29] The parties have made the following joint submissions, reproduced below.
+[30] The parties jointly argue that the Question satisfies the requirements under rules 58(1) and (2) and should be determined under rule 58.
+[31] The Question satisfies the first requirement because it is a question of mixed law and fact. Questions of mixed law and fact are questions about whether the facts satisfy a legal test. In this case, the Question concerns the application of section 9 and subsection 18(1) of the Act to interest paid by BMO to foreign tax authorities based on additional tax liabilities payable to those authorities.
+[32] The Question satisfies the second requirement, that the proposed question be raised in the pleadings, because it was raised at:
+a) paragraph 14 of the notice of appeal for the 2004 Appeal;
+b) paragraph 20(a) of the notice of appeal for the 2006 Appeal;
+c) paragraph 7 of the reply for the 2004 Appeal; and
+d) paragraph 10(a) of the reply for the 2006 Appeal.
+[33] The Question satisfies the third requirement because the question may dispose of all or part of the proceeding, may substantially shorten the hearing of the appeal, or may result in a substantial savings of costs. This requirement does not set a hard and fast rule that must be applied in each case. The issue raised in the Question is discrete and can be resolved without incurring significant costs related to lists of documents and examinations for discoveries.
+[34] The answer to the Question will resolve the 2004 Appeal in its entirety, and a substantial part of the 2006 Appeal.
+[35] Furthermore the parties jointly argue that a rule 58 motion is the most expeditious and cost- effective way to proceed. This factor is highly relevant, but not dispositive.
+[36] The parties have agreed on all material facts related to the Question and prepared an agreed statement of facts for the purposes of determining the Question. The respondent does not deny any facts pled in the notice of appeal for the 2004 Appeal and only denies one fact in the notice of appeal for the 2006 Appeal. That fact is only relevant to the Limitation Period Issue and therefore, not relevant to whether the Question should be determined under rule 58.
+V. CONCLUSION [37] I agree with the submissions as made and will grant the stage one order as requested.
+[38] I therefore order the following:
+a) that the stage 2 rule 58 motion be heard in respect of the Appeals together;
+b) that the Question be determined before the hearing of the Appeals;
+c) that the hearing of the Question be held at the Tax Court of Canada, 180 Queen Street West, Toronto, Ontario, on a date to be determined in consultation with counsel and the Registry of the Tax Court of Canada;
+d) that the evidence to be presented at the hearing of the Question shall include:
+the notices of appeal;
+the replies to the notices of appeal; and
+an agreed statement of facts dated March 28, 2024;
+e) that BMO’s memorandum of fact and law shall be filed and served at least 120 days prior to the hearing;
+f) that the respondent’s memorandum of fact and law shall be filed and served at least 60 days prior to the hearing;
+g) that BMO’s reply memorandum of fact and law shall be filed and served at least 30 days prior to hearing;
+h) that the parties shall bear their own costs of this application; and
+i) for such further and other relief as counsel may advise and the court may permit.
+Signed at Ottawa, Canada, this 13th day of September 2024.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2024 TCC 120
+COURT FILE NO.:
+2022-3210(IT)G; 2023-1128(IT)G
+STYLE OF CAUSE:
+BANK OF MONTREAL AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+NCR , Ontario
+DATE OF HEARING:
+September 6, 2024
+REASONS FOR ORDER BY:
+The Honourable Justice Ronald MacPhee
+DATE OF ORDER:
+September 12, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Jacky Cheung;
+Martha MacDonald
+Counsel for the Respondent:
+Katie Beahen;
+Andrea Jackett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jacky Cheung; Martha MacDonald
+Firm:
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

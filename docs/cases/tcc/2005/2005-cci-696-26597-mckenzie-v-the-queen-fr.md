@@ -1,0 +1,160 @@
+---
+title: "McKenzie v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26597/index.do"
+last_modified: "2005-10-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 696"
+citation2: ""
+neutral_citation: "2005 CCI 696"
+decision_date: "2005-10-26"
+language: "fr"
+item_id: "26597"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3540
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:23:23.919000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eeda961b753b38b1d6ccdc2d14ddd4ef7273c3aaa7589ada8067d93c12aa94fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McKenzie v. The Queen
+
+- Citation: 2005 CCI 696
+- Decision date: 2005-10-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3540, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKenzie v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-26
+Référence neutre
+2005 CCI 696
+Numéro de dossier
+2005-1484(IT)I
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1484(IT)I
+ENTRE :
+DANNI MCKENZIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+__[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+Appel entendu le 11 octobre 2005 à Lethbridge (Alberta)
+Par : l’Honorable juge D.W. Beaubier
+Comparutions :
+Pour l’appelante :
+l’appelante elle-même
+Avocate pour l’intimée :
+Me Dawn Taylor
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli afin d’accorder la demande de déduction de l’appelante pour des dépenses d’entreposage d’un montant supplémentaire de 1 950 $ et pour des frais supplémentaires de 179,28 $ liés à l’usage de sa voiture. Il est ordonné au ministre du Revenu national de reconsidérer la cotisation et d’établir une nouvelle cotisation en conséquence en vue d’autoriser des dépenses totales de 2 320,28 $ en conformité avec les motifs du jugement ci-joints.
+La Cour accorde à l’appelante des dépens fixés à 100 $ pour les débours encourus aux fins de la formation du présent appel
+Signé à Saskatoon (Saskatchewan), ce 26e jour d’octobre 2005.
+« D.W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 2e jour de mars 2006
+Philippe Ducharme, traducteur
+Référence : 2005CCI696
+Date : 20051026
+Dossier : 2005-1484(IT)I
+ENTRE :
+DANNI MCKENZIE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel, interjeté sous le régime de la procédure informelle, a été entendu à Lethbridge (Alberta) le 11 octobre 2005. L’appelante a été le seul témoin.
+[2] Les renseignements litigieux sont énoncés aux paragraphes 7 à 12 de la réponse à l’avis d’appel; ces paragraphes sont ainsi libellés :
+[TRADUCTION]
+7. Par le biais d’un avis de nouvelle cotisation daté du 29 décembre 2004, le ministre du Revenu national (le « ministre ») a refusé les 2 950 $ de frais de déménagement suivants :
+Logement et repas à Calgary 1 000 $
+Coûts liés au maintien de la résidence de
+Lethbridge 1 950 $
+Frais de déménagement refusés 2 950 $
+Le ministre estimait que les frais de déménagement refusés constituaient des dépenses personnelles de l’appelante non admissibles à titre de frais de déménagement.
+8. L’appelante a déposé un avis d’opposition à l’égard de la nouvelle cotisation qu’elle a reçue le 12 janvier 2005.
+9. Le ministre a modifié la nouvelle cotisation par le biais d’un avis de nouvelle cotisation daté du 14 mars 2005. Il a ainsi autorisé des frais de déménagement supplémentaires de 191 $ pour des repas pris durant le déménagement de l’appelante et de membres de sa famille de l’ancienne à la nouvelle résidence.
+10. En établissant ainsi une nouvelle cotisation pour l’année d’imposition 2003 de l’appelante, le ministre s’est fondé sur les hypothèses suivantes :
+a) l’appelante a quitté Lethbridge afin de participer à une séance de formation de 10 semaines à Calgary, entre septembre et décembre 2003 (la « période »);
+b) à l’origine, l’appelante devait participer à cette séance de formation en avril 2004, mais elle a pu devancer sa participation, une place s’étant libérée;
+c) l’appelante, accompagnée de ses deux enfants, a déménagé, pour la période, dans une maison en rangée de Calgary habitée par plusieurs ménages;
+d) l’appelante a payé une somme de 1 000 $ pour le logement à Calgary et les repas qu’elle et sa famille y ont pris durant la période;
+e) durant la période, l’appelante a conservé son appartement à Lethbridge et a payé un loyer total de 1 950 $ à cette fin;
+f) durant la période, l’appelante a laissé ses meubles dans son appartement de Lethbridge;
+g) durant la période, l’appartement de Lethbridge est resté vacant;
+h) à la fin de la période, l’appelante est retournée vivre à Lethbridge;
+i) l’appelante a inclus, dans la demande totale qu’elle a formulée au titre de frais de déménagement, la somme de 1 000 $ pour le logement et les repas payés à Calgary durant la période, ainsi qu’une somme de 1 950 $ pour le loyer associé à l’appartement de Lethbridge durant la période.
+j) les dépenses encourues par l’appelante au titre du logement à Calgary et des repas qu’elle et sa famille y ont pris ainsi que du loyer de l’appartement de Lethbridge durant la période sont des dépenses personnelles de l’appelante.
+B. QUESTIONS À TRANCHER
+11. La question à trancher est celle de savoir si l’appelante a le droit de déduire la somme de 2 950 $ à titre de frais de déménagement aux fins d’établissement de son revenu pour l’année d’imposition 2003.
+C. DISPOSITIONS LÉGISLATIVES, MOTIFS INVOQUÉS ET MESURE DE REDRESSEMENT DEMANDÉE
+12. Il invoque l’article 62 et le paragraphe 248(1) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « Loi ») telle que modifiée pour l’année d’imposition 2003.
+La preuve a établi l’exactitude de toutes les hypothèses sauf celles énoncées dans les alinéas 10g) et j). Quant à l’hypothèse 10f), l’appelante a également laissé des vêtements et des appareils électroménagers dans l’appartement. Quant à l’hypothèse 10g), l’appelante considérait son appartement comme un lieu d’entreposage pendant qu’elle était à Calgary avec ses enfants.
+[3] En 2003, l’appelante était une mère monoparentale de jumeaux nés en 1997. Lorsqu’elle est allée à Calgary, elle a emmené ces derniers ainsi que certains de leurs jouets et elle les a inscrits dans une école locale. Ils ont fréquenté cette école durant tout le séjour de la famille à Calgary. Pendant ce temps, l’appelante a payé 1 950 $ à titre de loyer pour l’appartement de Lethbridge, où ses effets étaient entreposés pendant qu’elle et ses enfants vivaient à Calgary et y étudiaient.
+[4] L’appelante a reçu une « subvention » de 4 830 $ de la province de l’Alberta à titre de bourse d’études ou de perfectionnement pour suivre un cours de coiffure à Calgary qui faisait partie d’un programme postsecondaire de deux ans menant à l’obtention d’un diplôme en coiffure. Elle a réussi ces études et a rapporté avoir reçu ce montant de bourse dans sa déclaration de revenus de 2003.
+[5] L’appelante a procédé à une « réinstallation admissible » telle qu’elle est définie au paragraphe 248(1) afin d’étudier à un niveau postsecondaire dans un établissement d’enseignement et elle a résidé à Calgary avec ses enfants.
+[6] Ainsi, le fait notamment d’avoir emmené ses enfants avec elle et de les avoir inscrits dans une école à Calgary constitue un changement de résidence pour l’ensemble de sa famille durant ses études à Calgary. Les meubles laissés à Lethbridge ne constituaient qu’un attirail d’objets entreposés. Les enfants ainsi que les objets nécessaires qu’elle a apportés à Calgary constituent l’essentiel de ce dont elle a besoin pour vivre et emménager avec l’ensemble de sa famille. En outre, le fait d’avoir emmené ses enfants et de les avoir inscrits à l’école à Calgary est un geste constitutif d’un changement de résidence pour l’appelante et ses enfants. Leur retour à Lethbridge constitue un deuxième changement de résidence de Calgary vers cette autre ville.
+[7] Il en résulte que les biens laissés dans l’appartement de Lethbridge y ont été entreposés. Cette dépense peut spécifiquement être réclamée à titre de frais d’entreposage découlant d’un déménagement d’une ancienne résidence à une nouvelle résidence en vertu de l’alinéa 63(1)b) de la Loi de l’impôt sur le revenu. Cela correspond à cette somme de 1 950 $.
+[8] L’appelante a également demandé une déduction supplémentaire de 1 000 $ fondée sur les recherches qu’elle a menées auprès du gouvernement et sur d’autres déductions autorisées au titre de kilométrage, du logement et des repas. Le ministre a autorisé une déduction de 191 $ quant à cette portion de la demande de l’appelante qui a déménagé à Calgary avec ses enfants en une journée, avec son propre véhicule. Tel que le précise le paragraphe 9 de la réponse, la somme de 191 $ a été spécifiquement autorisée par le ministre pour ses repas de l’appelante. Cette dernière a estimé que les frais encourus pour son propre véhicule dans le cadre de son déménagement s’élèvent à 179,28 $, ce que la Cour juge raisonnable. Cette somme est autorisée en sus de celle de 191 $ pour un total de 370,28 $. Des parents l’ont aidé bénévolement à déménager des vêtements et des meubles à Calgary en effectuant au moins deux voyages.
+[9] L’appel est accueilli afin d’accéder à la demande de l’appelante eu égard aux frais d’entreposage de 1 950 $ supplémentaires et aux frais supplémentaires de 179,28 $ encourus pour son véhicule. Il est ordonné au ministre de reconsidérer la cotisation et d’établir une nouvelle cotisation en conséquence, en vue d’autoriser des dépenses totales de 2 320,28 $.
+[10] Aux fins de son appel, l’appelante a fait un nombre considérable de photocopies et la Cour lui accorde des dépens fixés à 100 $ pour ces photocopies ainsi que pour les frais postaux et autres débours encourus aux fins de l’appel qu’elle a interjeté.
+Signé à Saskatoon (Saskatchewan), ce 26e jour d’octobre 2005.
+« D.W. Beaubier »
+Le juge Beaubier
+Traduction certifiée conforme
+ce 2e jour de mars 2006
+Philippe Ducharme, traducteur
+RÉFÉRENCE : 2005CCI696
+DOSSIER DE LA COUR : 2005-1484(IT)I
+INTITULÉ : Danni McKenzie c. La Reine
+LIEU DE L’AUDIENCE : Lethbridge (Alberta)
+DATE DE L’AUDIENCE : Le 11 octobre 2005
+MOTIFS DU JUGEMENT
+PAR : L’honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 26 octobre 2005
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate pour l’intimée :
+Dawn Taylor
+AVOCATS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)

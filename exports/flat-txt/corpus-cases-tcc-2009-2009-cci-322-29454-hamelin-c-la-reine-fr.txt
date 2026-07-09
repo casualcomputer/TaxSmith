@@ -1,0 +1,96 @@
+Title: Hamelin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29454/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-322-29454-hamelin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-06-17
+
+# Hamelin c. La Reine
+
+- Citation: 2009 CCI 322
+- Decision date: 2009-06-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6945, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hamelin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-17
+Référence neutre
+2009 CCI 322
+Numéro de dossier
+2009-716(IT)APP
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-716(IT)APP
+ENTRE :
+RICHARD HAMELIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue le 12 juin 2009, à Ottawa (Canada).
+Devant : L'honorable juge Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Sara Chaudhary
+____________________________________________________________________
+JUGEMENT
+La demande de prorogation de délai produite en date du 20 janvier 2009, pour porter en appel la décision de l’Agence du Revenu du Canada, datée du 14 octobre 2008, de maintenir les pénalités et intérêts résultant de la cotisation du 21 mars 2002, est rejetée pour cause de nullité, selon les motifs de jugement ci‑joints.
+Signé à Ottawa, Canada, ce 17e jour de juin 2009.
+« Lucie Lamarre »
+Juge Lamarre
+Référence : 2009 CCI 322
+Date : 20090617
+Dossier : 2009-716(IT)APP
+ENTRE :
+RICHARD HAMELIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelant a été recotisé pour son année d’imposition 1999 le 21 mars 2002. Par cette nouvelle cotisation, on lui ajoutait un revenu supplémentaire de 33 900 $ relié à des fonds que l’appelant avait retiré de son régime enregistré d’épargne retraite pour investir dans des placements inadmissibles. Le ministre du Revenu national (« ministre ») lui imposait également une pénalité pour production tardive de sa déclaration de revenu de l’année d’imposition 1999 et des intérêts.
+[2] L’appelant désire contester uniquement les pénalités et les intérêts. Le problème, c’est qu’il n’a pas fait opposition à la nouvelle cotisation, ou du moins, il n’y a pas de preuve à ce sujet, dans le délai de 90 jours imparti par l’article 165 de la Loi de l’impôt sur le revenu (« LIR »).
+[3] Ce délai expirait le 19 juin 2002. Il n’y a pas de preuve non plus au dossier que l’appelant ait fait une demande de prorogation de délai pour produire un avis d’opposition dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition, soit avant le 19 juin 2003, aux termes de l’article 166.1 de la LIR.
+[4] L’appelant a présenté une lettre à l’Agence du Revenu du Canada (« ARC ») le 26 juin 2008, demandant à celle-ci d’annuler la pénalité pour production tardive et les intérêts sur arriérés en vertu « des dispositions des allègements pour les contribuables » (Pièce I-3). De ce que je comprends, cette demande a été faite par l’appelant aux termes du paragraphe 220(3.1) de la LIR. Le 14 octobre 2008, l’ARC refusait la demande de l’appelant et maintenant la pénalité pour production tardive de même que les intérêts (Pièce I-3).
+[5] Cette lettre de refus informait l’appelant que s’il croyait que l’ARC n’avait pas exercé son pouvoir discrétionnaire d’une façon juste et raisonnable, il pouvait demander par écrit au directeur d’un centre fiscal ou d’un bureau de services fiscaux, d’entreprendre un deuxième examen indépendant de la décision contestée. Au lieu de faire cela, l’appelant s’est présenté au greffe de notre Cour avec cette lettre et on l’a informé malencontreusement qu’il était deux jours en retard pour faire appel de cette lettre. On lui a alors conseillé de faire une demande de prorogation de délai devant notre Cour. L’appelant a donc fait cette demande de prorogation de délai devant notre Cour, le 20 janvier 2009, afin de faire appel de la décision de l’ARC du 14 octobre 2008. Il a quand même pris la précaution d’envoyer copie de sa demande à un bureau de services fiscaux de l’ARC.
+[6] Le 5 mars 2009, l’ARC écrivait à l’appelant afin de l’aviser que la correspondance qu’il avait envoyée en janvier 2009 ne pouvait être reconnue comme une opposition valide (Pièce I-4). Cette réponse un peu étrange donne à penser que le directeur du bureau des services fiscaux n’a pas considéré la demande de l’appelant comme une demande de révision de la lettre du 14 octobre 2008.
+[7] Je suis actuellement saisie de la demande de prorogation de délai déposée à notre Cour le 20 janvier 2009, pour faire appel de la décision de l’ARC du 14 octobre 2008.
+[8] Il est clair que l’appelant n’est pas devant le bon tribunal et que je n’ai pas juridiction pour entendre sa demande. Il est malheureux que le greffe de notre Cour ait conseillé à l’appelant de faire une demande de prorogation de délai devant notre Cour. Notre Cour n’a pas juridiction pour réviser une décision de l’ARC lorsqu’un contribuable est d’avis que celle-ci n’a pas exercé son pouvoir discrétionnaire d’une façon juste et équitable, en application du paragraphe 220(3.1) de la LIR.
+[9] En premier lieu, la lettre du 14 octobre 2008 (Pièce I-3), informait bien l’appelant qu’il pouvait tenter de faire réviser la décision en question par le directeur d’un centre fiscal ou d’un bureau de services fiscaux. C’est le premier palier d’appel. Par la suite, si l’appelant n’est toujours pas satisfait de cette deuxième décision, il peut faire une demande de révision de cette décision devant la Cour fédérale du Canada. À mon avis, la décision du 5 mars 2009 (Pièce I-4), ne peut valoir de décision en révision de la décision de l’ARC du 14 octobre 2008, car elle ne traite nullement de cette lettre. Il revient à l’appelant de vérifier si la correspondance qu’il a envoyée à l’ARC en janvier 2009, peut être considérée comme une demande de révision de la lettre du 14 octobre 2008 et dans la négative, s’il est encore dans le délai prescrit pour faire appel auprès du directeur d’un centre fiscal ou d’un bureau de services fiscaux, et sinon, s’il y a possibilité de faire une demande de prorogation de délai.
+[10] En ce qui concerne la demande faite devant notre Cour, elle doit être rejetée pour cause de nullité.
+Signé à Ottawa, Canada, ce 17e jour de juin 2009.
+« Lucie Lamarre »
+Juge Lamarre
+RÉFÉRENCE : 2009 CCI 322
+Nº DU DOSSIER DE LA COUR : 2009-716(IT)APP
+INTITULÉ DE LA CAUSE : RICHARD HAMELIN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Canada)
+DATE DE L’AUDIENCE : le 12 juin 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Lucie Lamarre
+DATE DU JUGEMENT : le 17 juin 2009
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Sara Chaudhary
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,215 @@
+---
+title: "Okonski v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28529/index.do"
+last_modified: "2008-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 142"
+citation2: ""
+neutral_citation: "2008 TCC 142"
+decision_date: "2008-03-07"
+language: "en"
+item_id: "28529"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1258
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:28:10.374000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ba850f01b394d7fb6a652928e216100330abfd19b675ab495183f509c8391d06"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Okonski v. The Queen
+
+- Citation: 2008 TCC 142
+- Decision date: 2008-03-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1258, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Okonski v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-07
+Neutral citation
+2008 TCC 142
+File numbers
+2006-2843(IT)I
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2843(IT)I
+BETWEEN:
+KATHY OKONSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 5, 2007 at London, Ontario
+Before: The Honourable Justice E. P. Rossiter
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+George Boyd Aitken
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2004 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of March, 2008.
+"E. P. Rossiter"
+Rossiter, J.
+Citation: 2008TCC142
+Date: 20080307
+Docket: 2006-2843(IT)I
+BETWEEN:
+KATHY OKONSKI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rossiter, J.
+Introduction/Background
+[1] The Appellant is an employee of the University of Western Ontario (UWO). In 2004, the Appellant’s daughter, Kelly, qualified for an award of $1,200 from the UWO which was to be used towards her tuition at UWO. This award was paid to the Appellant, who in turn, gave the award to her daughter to put towards her tuition. The Canada Revenue Agency (“CRA”) included the $1,200 in the income of the Appellant on the basis that the award was a taxable benefit under paragraph 6(1)(a) of the Income Tax Act (the “Act”). The taxpayer has appealed and submits that the award is scholarship income to the Appellant’s daughter.
+Facts
+[2] The Appellant was a full time employee of UWO during the 2004 income tax year.
+[3] As part of the UWO Group Benefit Plan for all regular full time employees who were eligible members of the Professional and Managerial Association (“PMA”), UWO has a Dependents' Tuition Scholarship Plan (Scholarship Plan). The benefits are described as part of the overall compensation package for the employees. The introduction of the Group Benefit Plan booklet contains the following:
+This booklet summarizes the key features of the Group Benefit Plans available to Regular Full-Time employees eligible to be Members of the Professional & Managerial Association (PMA). Your benefits represent an important component of your overall compensation at the University of Western Ontario. These benefits have been strategically developed to provide protection against health and dental costs, protect your income if an illness or injury prevents you from working, and provide survivors with financial protection in the event of death.
+... Your benefits and rights are governed by the terms of the Group Master Contract providing the group benefit coverages and the Agreement between the University of Western Ontario and the Professional & Managerial Association.
+[4] The Group Benefit Plan booklet contains detailed particulars with respect to the benefits including Extended Health Care, Dental Plan, Life Insurance Plan, Voluntary Personal Accident Insurance Plan, Disability Income Program and Post-Retirement Benefits. There is a section entitled Other Benefits which states in part as follows:
+Your overall compensation package includes various other benefits which your Group Benefit Plans booklet does not outline. A few of these "Other Benefits" include:
+• Administrative Staff Pension Plan
+• Vacation Entitlement
+• Career Counselling
+• Educational Assistance Program
+• Tuition Scholarship Plan
+• Career Development Leave
+• Deferred Salary Leave
+• Reduced Responsibility
+• Pregnancy & Parental Leave
+• Pregnancy Leave Top Up
+- Supplemental Employment Insurance Benefits (S.E.B.) Plan
+• Professional Allowance
+[Emphasis added].
+[5] The UWO Human Resources website also has information concerning the benefits available to the PMA. On the website, the Scholarship Plan is described in part as follows:
+Subject to the plan's conditions, dependent children of current, regular full-time PMA-eligible employees are qualified to receive tuition scholarships for courses taken for credit towards a degree (undergraduate or graduate) from The University of Western Ontario. The scholarship will be offered to qualified students for the equivalent of a maximum of four years of full-time registration, not necessarily consecutive, at The University of Western Ontario. Value: $1,200.00[1]
+[6] The Scholarship Plan describes the scholarships as for dependent children and/or spouses of, inter alia, regular continuing faculty members and dependent children of current, regular full-time PMA employees.
+[7] In order to qualify for the Scholarship Plan, the dependent children must initially satisfy the entrance requirements of their chosen degree program and thereafter maintain a minimum average of 70% each academic year in order to qualify for renewal.
+[8] In order to apply for an award, the student must submit an application form, certified by the parent PMA member. The parent must sign the application form to confirm the following, which is above the signature line of the PMA member:
+…
+I hereby certify that I am a current, regular full-time PMA employee at the University of Western Ontario. The foregoing statements relating to the student named in Section 'A' are true in all material respects. The aforementioned student is my dependent, as defined by the scholarship plan guidelines.[2]
+...
+The Scholarship Plan application defines dependent as:
+* The term "dependent" means a child of an employee, less than 26 years of age and dependent for support on such employee.[3]
+[9] The Appellant’s daughter qualified for an award in 2004. This amount was paid to the Appellant by the UWO. The Appellant, in turn, gave $1,200 to her daughter to put towards her 2004 tuition at the UWO.
+Issue
+[10] The issue in this appeal is whether the $1,200 award was an employment benefit to the Appellant and to be included in the Appellant’s income by virtue of paragraph 6(1)(a) of the Act.
+Position of the Appellant
+[11] The Appellant argues that the Scholarship is not a benefit but rather a right to the Appellant for her daughter to apply for a scholarship and in fact confers no benefit upon the Appellant. The Appellant refers to Interpretation Bulletin IT‑75R4.
+[12] In the alternative, the Appellant argues that if in fact the Scholarship is a benefit, then the Appellant received it on a constructive trust basis for her daughter and therefore it is not a benefit which accrues to the Appellant but is income to the daughter.
+Position of the Respondent
+[13] The Respondent takes the position that due to the employment of the Appellant, a benefit arises to which the Appellant is entitled and is taxable under paragraph 6(1)(a) of the Act.
+[14] The Respondent further argues that the amount received by Kelly is not a scholarship under paragraph 56(1)(n) of the Act because:
+a. there aren’t a limited number of scholarships;
+b. there isn’t a real competition for the scholarships;
+c. there isn’t a real evaluation conducted with respect to the award of the scholarships;
+d. the threshold of 70% is too low to qualify as a scholarship.
+Relevant Income Tax Act Sections
+[15] Paragraph 6(1)(a) of the Act states as follows:
+6.(1) Amounts to be included as income from office or employment – There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+(a) Value of benefits -- the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment, except any benefit ...
+[16] Paragraph 56(1)(n) of the Act states as follows:
+56.(1) Amounts to be included in income for year – Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+…
+(n) Scholarship, bursaries, etc. -- the amount, if any, by which
+(i) the total of all amounts (other than amounts described in paragraph (q), amounts received in the course of business, and amounts received in respect of, in the course of or by virtue of an office or employment) received by the taxpayer in the year, each of which is an amount received by the taxpayer as or on account of a scholarship, fellowship or bursary, or a prize for achievement in a field of endeavour ordinarily carried on by the taxpayer, (other than a prescribed prize),
+exceeds
+(ii) the taxpayer's scholarship exemption for the year computed under subsection (3);
+[17] Subsection 56(2) of the Act states as follows:
+56(2) Indirect payments -- A payment or transfer of property made pursuant to the direction of, or with the concurrence of, a taxpayer to some other person for the benefit of the taxpayer or as a benefit that the taxpayer desired to have conferred on the other person (other than by an assignment of any portion of a retirement pension pursuant to section 65.1 of the Canada Pension Plan or a comparable provision of a provincial pension plan as defined in section 3 of that Act or of a prescribed provincial pension plan) shall be included in computing the taxpayer's income to the extent that it would be if the payment or transfer had been made to the taxpayer.
+Analysis
+[18] By judgment of even date in John DiMaria v. Her Majesty the Queen, 2006‑1400(IT)G, I addressed the issue of whether scholarships provided to the dependants of employees are taxable benefits under paragraph 6(1)(a) of the Act.
+[19] Although the specific facts are different in this case, I adopt the comments I made in relation to the law and analysis in DiMaria and will not repeat them here.
+[20] In DiMaria, I concluded that the award in that case to the Appellant’s son was not a taxable benefit to the Appellant. I based this conclusion on the following:
+1. The Appellant was not enriched by $3000, since the payment of the HEAP award was made directly to Andrew.
+2. The Appellant was not enriched by $3000, since the Appellant had no legal obligation to support his adult son or to pay for his post-secondary education.
+3. The Appellant was not enriched by $3000 since he had no legal right to receive any money from the HEAP award or to compel Dow to pay the amount to him instead of paying it to Andrew.
+4. The Appellant was not enriched by $3000 since he had no right to recover the amount of the HEAP award from Andrew.
+5. The Appellant did not negotiate with his employer to have the HEAP award included as an employment benefit. He did not assume extra responsibilities or forego other benefits in order for Andrew to receive the award.
+6. The only person who is economically enriched is Andrew. It is his application for the scholarship and it is his education and his qualifications which make him eligible for the scholarship.
+7. Expenses incurred by the son in pursuing his post-secondary education are not expenses of the Appellant or the Appellant's family. Tax is imposed on the individual person, not the family.
+[21] These seven reasons show that there are some differences between DiMaria and the case at bar. First, in this case, the scholarship was paid directly to the Appellant and not to the dependent. Second, unlike the plan in DiMaria which could be unilaterally terminated by the employer, the benefits in the case at bar were negotiated with the PMA. I refer to the particulars of the plan contained in the Group Benefit Plan booklet. Because of the wording used in the Group Benefit Plan, which includes the Scholarship Plan in the employees’ compensation, the scholarship money can arguably be viewed as remuneration earned in the course of employment and not a gratuitous payment to the Appellant’s daughter. However, neither of these points are sufficient to dispose of the appeal and the question remains whether it was the Appellant who received or enjoyed the benefit of the scholarship.
+Payment Made Directly to the Appellant
+[22] As I stated in DiMaria, the case law is clear that the term “received” does not mean that an amount must be physically received by the taxpayer or deposited into his bank account. See the example of Morin v. R., 75 D.T.C. 5061 (F.C.T.D.), wherein Lacroix, J. found at paragraph 24:
+… the word "receive" obviously means to get or to derive benefit from something, to enjoy its advantages without necessarily having it in one's hands.
+Thus, the fact that the Appellant received the benefit on behalf of her daughter is not fatal to the appeal.
+[23] The Appellant relies on the doctrine of constructive trust and submits that she had no right to the $1,200. She states it was held in trust for her daughter, who is the true beneficiary of the award.
+[24] The Appellant was self-represented at trial. The issue of constructive trust was raised at trial but was not addressed in detail by either party and no cases on the issue were submitted. After reviewing the jurisprudence from the Supreme Court of Canada, referred to herein, I conclude that the Appellant has proved the existence of a resulting trust whereby she held the $1,200 scholarship in trust for her daughter.
+[25] The doctrines of constructive and resulting trusts have been developed primarily to resolve the inequity surrounding the division of property following marital breakdowns. However, this is not to say that the doctrines are limited to relationships between spouses. In order to establish the existence of a resulting trust, a person must show that he or she had made a contribution towards the acquisition of the property and that there was a common-intention that the non‑titled person should have a beneficial interest in that property (Rawluk v. Rawluk, [1990] 1 S.C.R. 70 at paragraph 18).
+[26] Rothstein, J. (as he was then) summarized the requirements for a finding of a resulting trust in Holizki v. Canada, 95 D.T.C. 5591 (F.C.T.D.) at paragraph 5:
+… A resulting trust is concerned with intention (as opposed to a constructive trust which is imposed as a matter of equity by a court irrespective of the intention of the parties). In Rathwell v. Rathwell, (1978) D.L.R. (3d) 289 at pages 303-304 (S.C.C.), Dickson J. (as he then was) explains, in the context of matrimonial property, when the doctrine of resulting trust is engaged:
+If at the dissolution of a marriage one spouse alone holds title to property, it is relevant for the Court to ask whether or not there was a common intention, or agreement, that the other spouse was to take a beneficial interest in the property and, if so, what interest? Such agreements, as I have indicated, can rarely be evidenced concretely. It is relevant and necessary for the Courts to look to the facts and circumstances surrounding the acquisition, or improvement, of the property. If the wife without title has contributed, directly or indirectly, in money or money's worth, to acquisition or improvement, the doctrine of resulting trusts is engaged. An interest in the property is presumed to result to the one advancing the purchase moneys or part of the purchase moneys
+The presumption of a resulting trust is sometimes explained as the fact of contribution evidencing an agreement; it has also been explained as a constructive agreement. All of this is settled law: Murdoch v. Murdoch, supra; Gissing v. Gissing, supra; Pettitt v. Pettitt, supra. The courts are looking for a common intention manifested by acts or words that property is acquired as a trustee.
+As to the extent of the interest of the beneficiary of the resulting trust when there is no evidence about the exact amount of the beneficial interest, Dickson J. stated at page 304):
+If there is a contribution in money or money's worth but absence of evidence of an agreement or common intention as to the quantum of the interest, doubts may arise as to the extent of the share of each spouse in the property. Lord Reid, in Pettitt's case, supra, at page 794, said that the respective shares might be determined in this manner: "... you ask what reasonable people in the shoes of the spouses would have agreed if they had directed their minds to the question of what claim the contributing spouse ought to have". This is a sensible solution and I would adopt it.
+At pages 307 and 308, Dickson J. in addressing whether the doctrine of resulting trust applied to business property as well as matrimonial property, concluded that there was no reason in principle why a wife should not, in a proper case, share in the proceeds of business property, whence the couple operated the property as "one family unit...".
+[27] With this legal framework in mind, I turn now to the question of whether the Appellant’s and her daughter’s actions were consistent with a finding of a resulting trust.
+[28] Both parent and child clearly intended for the award money to go to Kelly. In fact, the employer also intended that the daughter be beneficiary of the award, but was compelled to include the value of the award in the Appellant’s income as the result of a CRA audit. The UWO Human Resources website contains the following concerning amendments to its treatment of the Scholarship Plan:
+In 2003 we were notified by Canada Revenue Agency (CRA) that they were undertaking a Employer Compliance Audit with respect to the tuition scholarship program offered to full time faculty and staff at the University. While the University believed they were administering the program in compliance with Income Tax Regulations, CRA’s position was that this benefit should be considered taxable in the hands of the employee of Western, not the student receiving the scholarship. The University spent considerable time and resources to challenge this position of CRA on behalf of all employees. Your employee group representatives have been kept informed of these developments as we challenged the tax ruling. Despite our efforts, the CRA has concluded that the amounts in question must be included in the employee’s income in accordance with paragraph 6(1)(a) of the Income Tax Act. [Emphasis added] [4]
+[29] The Appellant had to sign the application form confirming she was a current regular full-time PMA employee and the student was a dependent. Kelly also contributed towards the acquisition of the award. The UWO paid the scholarship in recognition of Kelly’s academic achievement. If Kelly had not been accepted into the UWO, no award would have been granted. Without Kelly’s successful application and academic achievement there would be no award granted for her benefit.
+[30] Based upon the evidence, I conclude that the $1,200 scholarship was paid to the Appellant as a resulting trust for her daughter.
+Negotiated Benefit
+[31] The second difference between the case at bar and DiMaria is that in this case, the Scholarship Plan is a negotiated benefit between the employees and the UWO. As I have already stated, I do not think this difference is enough to dismiss the appeal. The question remains whether the Appellant can be said to have received or enjoyed the benefit. There is no evidence that the Appellant assumed extra responsibilities or forewent other benefits in order for Kelly to receive the award. Unlike other benefits available to employees, i.e. Career Counselling, Vacation Entitlement, Pregnancy & Parental, and Career Development Leave whose purposes seem to be to contribute to employee satisfaction and career development, the purpose of the Scholarship Plan is to encourage the dependents of employees to pursue post-secondary education. As I stated in DiMaria, there is no legal obligation for parents to fund their children’s post-secondary educations. The Scholarship Plan is in place for the benefit of the children and not the parents.
+[32] I conclude there is nothing received or enjoyed by the Appellant in relation to the award to her daughter and as a result the monies in question are not taxable in the hands of the Appellant.
+Scholarship
+[33] As to the issue of whether or not the award meets the definition of scholarship in paragraph 56(1)(n) of the Act, I again adopt my reasons from DiMaria and find that the amount is a scholarship within the meaning of the Act. In order to earn the scholarship, the student had to be accepted into the program and maintain an average of at least 70% each year in order to retain the award. The student, in fact, did not achieve a 70% average one year and she did not receive the award for that year. At trial, the Appellant presented evidence of several other scholarships available to students at the UWO that required only a minimum average of 70%. As I concluded in DiMaria, this threshold is sufficient to qualify the award as a scholarship and the income should properly be reported by Kelly under paragraph 56(1)(n).
+Conclusion
+[34] The appeal is allowed. The Appellant shall have her costs which are fixed in the amount of $500. The assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the scholarship is not a benefit received or enjoyed by the Appellant but is income to the daughter Kelly.
+Signed at Ottawa, Canada, this 7th day of March, 2008.
+"E. P. Rossiter"
+Rossiter, J.
+CITATION: 2008TCC142
+COURT FILE NO.: 2006-2843(IT)I
+STYLE OF CAUSE: KATHY OKONSKI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: London, Ontario
+DATE OF HEARING: June 5, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice E. P. Rossiter
+DATE OF JUDGMENT: March 7, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Boyd Aitken
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-2, page 10.
+[2] Exhibit R-2, page 12.
+[3] Exhibit R-2, page 13.
+[4] Exhibit R-2, page 10.

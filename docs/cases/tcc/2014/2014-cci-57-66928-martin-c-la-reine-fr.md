@@ -1,0 +1,130 @@
+---
+title: "Martin c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66928/index.do"
+last_modified: "2014-06-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 57"
+citation2: ""
+neutral_citation: "2014 CCI 57"
+decision_date: "2014-06-19"
+language: "fr"
+item_id: "66928"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5962
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:52:10.395000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3dabe456675793d895afb486a68cc92a6032ebc408232251d3a30edc743b2817"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Martin c. La Reine
+
+- Citation: 2014 CCI 57
+- Decision date: 2014-06-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5962, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-06-19
+Référence neutre
+2014 CCI 57
+Numéro de dossier
+2012-3495(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2014 CCI 57
+Date : 20140219
+Dossier : 2012-3495(IT)G
+ENTRE :
+LOUIS-FRED MARTIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Requêtes entendues le 11 février 2014, à Montréal (Québec).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Mounes Ayadi
+Avocate de Claude Prévost :
+Me Marie Pettigrew
+ORDONNANCE ET MOTIFS DE L’ORDONNANCE
+[1] La Cour a devant elle cinq requêtes déposées par l’appelant ainsi qu’une requête demandant la cassation d’un subpoena adressé à Claude Prévost.
+[2] L’appelant appelle de la détermination d’une perte. Il n’est pas entièrement clair quelle est la nature de la perte, mais il semble qu’il s’agit d’une perte en capital de plus de 14 000 000 $ liée à la perte de sa clientèle. Par moments, l’appelant semble également s’attendre à d’autres conclusions qui ne relèvent pas de la compétence de la Cour.
+[3] Si une partie veut interroger au préalable une personne autre qu’une partie, elle doit préalablement obtenir l’autorisation de la Cour. Ceci se fait conformément à la règle 99 des Règles de la Cour canadienne de l’impôt (procédure générale).
+[4] En l’absence d’une telle ordonnance, un tiers n’a aucune obligation de répondre aux questions d’une partie.
+[5] L’appelant n’a pas obtenu d’ordonnance en vertu de la règle 99, mais il a envoyé des questions écrites à cinq personnes qui ne sont pas des parties.
+[6] Les cinq personnes en question n’ont pas répondu et l’appelant a déposé des requêtes demandant à la Cour d’ordonner que :
+a) ces cinq individus soient arrêtés;
+b) ces cinq individus soient détenus jusqu’à ce qu’ils répondent aux questions écrites.
+[7] L’appelant n’a pu me convaincre qu’il y a le moindre fondement à ces requêtes.
+[8] Les cinq individus n’avaient aucune obligation de répondre aux questions envoyées par l’appelant.
+[9] En conséquence, les cinq requêtes sont rejetées.
+[10] La semaine précédant l’audience de ces requêtes, l’appelant a obtenu des subpoenas.
+[11] Un subpoena destiné à Claude Prévost a été envoyé par courrier certifié à l’Autorité des marchés financiers. Ce subpoena convoquait M. Prévost à l’audience des cinq requêtes de l’appelant. M. Prévost, maintenant retraité, était directeur général adjoint des services aux entreprises.
+[12] Le subpoena n’a pas été signifié « à personne », tel qu’il est exigé par la règle, et aucune indemnité de présence n’a été envoyée avec le subpoena.
+[13] Dans les circonstances des cinq requêtes déposées par l’appelant, le témoignage de M. Prévost ne pouvait pas être pertinent auxdites requêtes.
+[14] En conséquence, le subpoena adressé à M. Prévost est cassé.
+[15] Vu la nature des requêtes et vu que les requêtes sont sans fondement, l’audition des requêtes et l’envoi de subpoenas représentent une perte de temps et de ressources pour les parties, la Cour et certains tiers.
+[16] Auparavant, l’appelant avait déposé une autre requête qui fut entendue et décidée le 20 juin 2013. Cette autre requête fut rejetée parce que certaines conclusions recherchées ne relevaient pas de la compétence de la Cour. Par exemple, cette autre requête avait demandé « que le droit à la propriété privée soit inclus à la Charte des droits de l’homme du Canada ».
+[17] Une autre raison pour le rejet de la requête du 20 juin 2013 est qu’elle cherchait à obtenir, dans une certaine mesure, une décision sur le fond de l’appel.
+[18] Avant l’audience de juin 2013, l’appelant avait envoyé un subpoena au sous‑ministre des Finances et de l’Économie du Québec et au commissaire de l’Agence du revenu du Canada. Ni l’un ni l’autre n’était en mesure de fournir un témoignage pertinent relatif à la requête de juin 2013 et la Cour a cassé les deux subpoenas après l’audience du 17 juin 2013.
+[19] La Cour a entendu l’appelant aux auditions du 1er mars 2013, du 17 juin 2013, du 20 juin 2013 et du 11 février 2014. Elle a constaté que l’appelant a de la difficulté à comprendre la procédure devant cette Cour et à comprendre que la compétence de cette Cour est généralement limitée aux appels de cotisations ou de déterminations établies par le ministre du Revenu national.
+[20] En conséquence, vu son pouvoir inhérent de contrôler son processus, la Cour, de son propre chef et dans le but d’éviter des procédures inutiles, ordonne ce qui suit :
+a) Au cours de cette instance :
+i) l’appelant devra obtenir l’autorisation préalable de la Cour avant de déposer de nouvelles requêtes;
+ii) l’appelant devra obtenir l’autorisation préalable de la Cour avant d’obtenir un subpoena pour convoquer un individu à se présenter à l’audition d’une requête.
+b) En ce qui concerne l’audience sur le fond, l’appelant devra obtenir l’autorisation préalable de la Cour s’il veut envoyer un subpoena à Claude Prévost, au sous‑ministre des Finances et de l’Économie du Québec ou au commissaire de l’Agence du revenu du Canada.
+Les frais suivront l’issue de la cause.
+Signé à Ottawa (Ontario), ce 19e jour de février 2014.
+« Gaston Jorré »
+Juge Jorré
+RÉFÉRENCE : 2014 CCI 57
+Nº DU DOSSIER DE LA COUR : 2012-3495(IT)G
+INTITULÉ DE LA CAUSE : LOUIS-FRED MARTIN c. LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 11 février 2014
+MOTIFS DE L’ORDONNANCE PAR : L’honorable juge Gaston Jorré
+DATE DE L’ORDONNANCE : Le 19 février 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Mounes Ayadi
+Avocate de Claude Prévost :
+Me Marie Pettigrew
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)

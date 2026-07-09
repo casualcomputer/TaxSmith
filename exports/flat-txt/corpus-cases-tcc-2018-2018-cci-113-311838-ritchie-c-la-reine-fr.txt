@@ -1,0 +1,222 @@
+Title: Ritchie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/311838/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-113-311838-ritchie-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-06-18
+
+# Ritchie c. La Reine
+
+- Citation: 2018 CCI 113
+- Decision date: 2018-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5080, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ritchie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-06-18
+Référence neutre
+2018 CCI 113
+Numéro de dossier
+2015-1874(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-1874(IT)G
+ENTRE :
+GARY RITCHIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 mars 2018, à Winnipeg (Manitoba)
+Devant : L'honorable juge Steven K. D'Arcy
+Comparutions :
+Avocat de l'appelant :
+Me Jeff Pniowsky
+Avocates de l'intimée :
+Me Brooke Sittler
+Me Bryn Frape
+JUGEMENT MODIFIÉ
+Conformément aux motifs du jugement ci‑joints :
+L'appel interjeté à l'encontre de la nouvelle cotisation établie en application de la Loi de l'impôt sur le revenu pour l'année d'imposition 2008 de l'appelant est accueilli avec dépens et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelant a réalisé un gain en capital imposable de 127 435 $ relatif à la prime à la signature.
+Le présent jugement remplace le jugement du 18 juin 2018.
+Signé à Antigonish (Nouvelle‑Écosse), ce 26e jour de juin 2018.
+« S. D'Arcy »
+Le juge D'Arcy
+Référence : 2018 CCI 113
+Date : 20180618
+Dossier : 2015-1874(IT)G
+ENTRE :
+GARY RITCHIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D'Arcy
+[1] L'appelant a interjeté appel à l'encontre d'une nouvelle cotisation établie pour l'année d'imposition 2008. La question dont la Cour est saisie concerne l'imposition d'un paiement (la « prime à la signature ») de 254 870 $ versé par Pipelines Enbridge Inc. (« Enbridge ») à l'appelant. La prime à la signature est l'un des paiements qu'Enbridge a versés pour permettre l'installation de deux pipelines sur des terres appartenant à l'appelant.
+[2] Les parties n'ont appelé aucun témoin au cours de l'audience. Elles ont plutôt déposé l'exposé conjoint des faits (l'« exposé ») qui suit :
+[TRADUCTION]
+Les faits convenus sont les suivants :
+1. L'appelant est un particulier qui réside à Cromer (Manitoba).
+2. Pendant toute la période pertinente, l'appelant s'occupait d'agriculture sur des terres qu'il possède à Cromer (Manitoba).
+3. L'appelant loue ses terres à G & M Ritchie Farms Ltd. (la « société de l'appelant »), qui cultive les terres pour le compte de l'appelant [1] .
+4. En 2007, Pipelines Enbridge Inc. (« Enbridge ») a entrepris un projet d'installation de pipelines traversant l'Alberta, la Saskatchewan et le Manitoba (le « projet »).
+5. Les terres de l'appelant se situaient sur le tracé du projet. L'appelant et Enbridge ont conclu une entente (l'« entente ») pour l'installation de deux pipelines sur les terres de l'appelant (les « pipelines »).
+6. Une copie d'une entente conclue entre Enbridge et un certain Keith Lobel est jointe à l'onglet A. Les modalités de l'entente entre Enbridge et Keith Lobel sont identiques à celles de l'entente.
+7. L'appelant ne conteste pas les modalités de l'entente et ne s'appuie sur aucun élément de preuve ou renseignement ne faisant pas partie de l'entente en vue de l'interprétation de l'entente.
+8. L'entente constitue l'intégralité de l'entente conclue entre l'appelant et Enbridge.
+9. L'appelant a signé l'entente au plus tard le 31 décembre 2007 (l'« échéance hâtive »).
+10. Progress Land Services Ltd. (« PLS ») agit à titre de mandataire local d'Enbridge et a versé des paiements à l'appelant et à la société de l'appelant pour le compte d'Enbridge.
+11. En 2008, l'appelant et la société de l'appelant ont reçu en tout 441 595 $ de PLS, pour le compte d'Enbridge. Des copies de sept lettres envoyées par PLS à la société de l'appelant auxquelles étaient joints des chèques pour divers paiements effectués par Enbridge sont jointes à l'onglet B.
+12. En 2008, les montants reçus par l'appelant ou la société de l'appelant de PLS pour le compte d'Enbridge concernaient les parcelles suivantes :
+Moitié S. de 18-9-27
+Parcelles nos 4029 et 4029.01
+S.-O. de 17-9-27
+Parcelle no 4030
+S.-E. de 17-9-27
+Parcelle no 4030.01
+N.-E. de 16-9-28
+Parcelle no 4023
+Moitié E. de 15-9-28
+Parcelle no 4025
+Moitié O. de 15-9-28
+Parcelle no 4024
+S.-E. de 13-9-28
+Parcelle no 4027.99
+13. En 2008, l'appelant et la société de l'appelant ont reçu de PLS pour le compte d'Enbridge :
+a. 19 872 $ à l'égard de la contrepartie pour la servitude, conformément à l'article 1 de l'annexe 3 de l'entente;
+b. 15 532 $ à l'égard de droits pour des chantiers temporaires, conformément à l'article 1 de l'annexe 3 de l'entente;
+c. 111 422 $ à l'égard de dommages‑intérêts pour la perte des récoltes, conformément à l'article 2 de l'annexe 3 de l'entente;
+d. 38 202 $ à l'égard de dommages‑intérêts pour les nuisances et les désagréments, conformément à l'article 2 de l'annexe 3 de l'entente;
+e. 255 790 $ à l'égard de primes à la signature ou de paiements incitatifs, conformément aux articles 5 et 6 de l'annexe 3 de l'entente.
+14. Les 255 790 $ que l'appelant a reçus sont composés de 1 000 $ plus 45 $ par mètre pour 5 662,01 mètres.
+15. En 2008, l'appelant et la société de l'appelant ont reçu 776 $ de PLS pour le compte d'Enbridge pour la TPS.
+16. La société de l'appelant a déclaré avoir reçu en 2008 les revenus suivants de PLS pour le compte d'Enbridge :
+a. 15 532 $ pour un chantier temporaire;
+b. 111 422 $ pour l'assurance;
+c. 38 202 $ pour les nuisances et les désagréments.
+17. L'appelant a déclaré les montants suivants reçus de PLS pour le compte d'Enbridge au titre du capital :
+a. 19 872 $ pour la contrepartie pour la servitude;
+b. les 255 790 $, ce qui a donné lieu à un gain en capital imposable de 127 435 $ pour les primes à la signature ou les paiements incitatifs.
+18. Le ministre du Revenu national (le « ministre ») a établi une première cotisation pour l'année d'imposition 2008 de l'appelant le 26 juin 2009.
+19. Le 3 mai 2011, le ministre a établi une nouvelle cotisation à l'égard de l'appelant pour l'année d'imposition 2008 afin que les 255 790 $ soient ajoutés au revenu. Le gain en capital passait ainsi de 254 870 $ (soit un gain en capital imposable de 127 435 $) à 0 $, et le revenu augmentait de 253 748 $.
+20. L'appelant a déposé, le 26 juillet 2011, un avis d'opposition à la nouvelle cotisation du 3 mai 2011.
+21. En 2008, l'appelant a payé des frais de 17 052 $ à la Manitoba Pipeline Landowners' Association Inc. (« MPLA »).
+22. La Couronne reconnaît qu'en raison des frais versés à la MPLA, la hausse du revenu de l'appelant en 2008 doit être réduite de 253 748 $ à 238 738 $.
+23. La seule question que doit trancher la Cour canadienne de l'impôt concerne la qualification fiscale adéquate des 255 790 $.
+[3] Bien que l'onglet A de l'exposé comprenne une entente identique à l'entente que l'appelant a conclue avec Enbridge, les parties n'ont pas remis à la Cour les accords qui donnent effet à l'entente. Par exemple, les parties n'ont pas fourni à la Cour la convention sur la servitude ni la convention sur les chantiers temporaires dont il est question à l'article 5 de l'annexe 3 de l'entente.
+[4] La nature générale des paiements qu'Enbridge devait verser est établie à l'article 4 de l'entente et à son annexe 3. L'entente prévoit, outre la prime à la signature, des versements pour la servitude, les chantiers temporaires sur les terres et les préjudices subis par le propriétaire, y compris les dommages physiques, les pertes de récoltes et les nuisances et désagréments.
+[5] L'onglet B de l'exposé démontre qu'Enbridge a versé des paiements à G & M Ritchie Farms Ltd. (la « société ») à l'égard de la servitude, les chantiers temporaires, la prime à la signature, les pertes des récoltes de canola et de blé et des dommages‑intérêts pour nuisance et désagréments.
+[6] Malgré le fait qu'Enbridge ait versé tous les paiements à la société, l'appelant a déclaré les paiements reçus relativement à la servitude et à la prime à la signature dans sa déclaration de revenus. En d'autres mots, selon la thèse de l'appelant, la société a reçu pour son compte les paiements relatifs à la prime à la signature et à la servitude. L'intimée ne conteste pas la thèse de l'appelant. Le ministre a établi la nouvelle cotisation à l'égard de l'appelant en tenant compte du fait que l'appelant a reçu la prime à la signature.
+[7] L'imposition de la prime à la signature est la seule question en litige devant la Cour.
+[8] L'article 4.5 de l'entente et les articles 5 et 6 de l'annexe 3 de l'entente prévoient le paiement de la prime à la signature par Enbridge à l'appelant. Ces articles sont rédigés comme suit :
+[TRADUCTION]
+Article 4.5 de l'entente
+Si le propriétaire foncier signe et remet les ententes à Enbridge (notamment, selon le cas, l'entente sur la servitude, l'entente sur les chantiers temporaires, le consentement et les autres documents nécessaires ou souhaitables en lien avec les projets) le 31 décembre 2007 ou avant cette date, la société fournira la prime à la signature hâtive énoncée à l'annexe 3.
+Articles 5 et 6 de l'annexe 3 de l'entente
+5. Dans le cas d'une signature hâtive, c'est-à-dire si le propriétaire signe l'entente sur la servitude, sur les chantiers temporaires, sur le consentement ou sur la décharge, selon le cas, au plus tard le 31 décembre 2007, Enbridge versera, dans les 90 jours suivant la réception de l'entente, une prime à la signature hâtive de 35 $ par mètre dans le cas de l'installation d'un pipeline ou de 45 $ par mètre dans le cas de l'installation de deux pipelines. Il est entendu que ce paiement est fondé sur la longueur du pipeline installé sur le terrain du propriétaire et non pas sur la largeur de la servitude. De plus, le paiement de cette prime à la signature se veut une mesure incitative pour la signature hâtive de l'entente sur la servitude. Il ne s'agit pas d'une contrepartie supplémentaire pour la servitude, les chantiers temporaires, le consentement ou les préjudices.
+6. De plus, dans le cas d'une signature hâtive, si le propriétaire foncier signe l'entente sur la servitude, sur les chantiers temporaires, sur le consentement ou sur la décharge, selon le cas, au plus tard le 31 décembre 2007, Enbridge ajoutera une prime de 1 000 $ pour chaque parcelle de terre.
+[Non souligné dans l'original.]
+I. Le droit applicable
+[9] En application de l'article 3 de la Loi de l'impôt sur le revenu (la « Loi »), l'appelant doit inclure dans le calcul du revenu tout revenu tiré d'une entreprise ou d'un bien et tous ses gains en capital imposables pour l'année d'imposition.
+[10] L'alinéa 12(1)x) prévoit des règles spéciales pour les paiements incitatifs. En voici un extrait :
+12(1) Sommes à inclure dans le revenu — Sont à inclure dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien, au cours d'une année d'imposition, celles des sommes suivantes qui sont applicables :
+[...]
+x) Paiements incitatifs et autres — un montant (à l'exclusion d'un montant prescrit) reçu par le contribuable au cours de l'année pendant qu'il tirait un revenu d'une entreprise ou d'un bien :
+(i) soit d'une personne ou d'une société de personnes (appelée « débiteur » au présent alinéa) qui paie le montant, selon le cas :
+(A) en vue de tirer un revenu d'une entreprise ou d'un bien,
+(B) en vue d'obtenir un avantage pour elle-même ou pour des personnes avec qui elle a un lien de dépendance,
+(C) dans des circonstances où il est raisonnable de conclure qu'elle n'aurait pas payé le montant si elle n'avait pas reçu des montants d'un débiteur, d'un gouvernement, d'une municipalité ou d'une autre administration visés au présent sous-alinéa ou au sous‑alinéa (ii),
+(ii) soit d'un gouvernement, d'une municipalité ou d'une autre administration,
+s'il est raisonnable de considérer le montant comme reçu :
+(iii) soit à titre de paiement incitatif, sous forme de prime, de subvention, de prêt à remboursement conditionnel, de déduction de l'impôt ou d'indemnité, ou sous toute autre forme,
+[...]
+dans la mesure où le montant, selon le cas :
+(v) n'a pas déjà été inclus dans le calcul du revenu du contribuable ou déduit dans le calcul, pour l'application de la présente loi, d'un solde de dépenses ou autres montants non déduits, pour l'année ou pour une année d'imposition antérieure,
+[...]
+(viii) ne peut raisonnablement être considéré comme un paiement fait au titre de l'acquisition par le débiteur ou par l'administration d'une participation dans le contribuable, d'un intérêt ou, pour l'application du droit civil, d'un droit sur son entreprise ou d'un intérêt ou, pour l'application du droit civil, d'un droit réel sur son bien;
+II. Les thèses des parties
+[11] Selon la thèse de l'intimée, l'appelant a reçu la prime à la signature au titre du revenu.
+[12] D'abord, l'intimée soutient que l'appelant a reçu le paiement en raison d'une activité productive de revenu, soit l'agriculture. Elle soutient que ce montant n'est pas lié à la disposition d'une immobilisation. Plus précisément, ce montant n'est pas une contrepartie pour la servitude.
+[13] De plus, l'intimée soutient que, si la prime à la signature ne fait pas partie du revenu de l'appelant, le montant de la prime doit être inclus selon les dispositions de l'alinéa 12(1)x), car il s'agit d'un paiement incitatif en raison de la signature hâtive de l'entente.
+[14] Selon la thèse de l'intimée, l'exception au sous‑alinéa 12(1)x)(viii) ne s'applique pas parce que la prime à la signature est un paiement incitatif accordé en contrepartie d'une obligation contractuelle. Au paragraphe 39 de ses observations écrites, l'intimée soutient ce qui suit :
+[TRADUCTION]
+Enbridge n'a pas acquis de droit sur le terrain de l'appelant en offrant des paiements incitatifs en vue de faire signer l'entente et l'appelant n'a pas non plus renoncé à un intérêt sur son terrain en acceptant l'entente. Les primes à la signature et les paiements incitatifs représentaient plutôt une obligation contractuelle pour Enbridge de payer un montant défini à une date ultérieure en cas de signature hâtive de l'entente par l'appelant.
+[15] L'appelant a déclaré la prime à la signature et la contrepartie pour la servitude à titre de rentrées de capital. Il a déclaré un gain en capital imposable de 127 435 $ relativement à la prime à la signature.
+[16] Cependant, devant la Cour, l'appelant a d'abord soutenu que la prime à la signature était un gain fortuit non imposable. Il a fait valoir, subsidiairement, que la prime à la signature était une rentrée de capital.
+[17] L'appelant a affirmé que les faits suivants soutenaient sa thèse voulant que la prime à la signature soit un gain fortuit non imposable :
+- L'appelant n'a pas cherché à recevoir la prime à la signature et il ne l'a pas demandée.
+- La prime à la signature n'a absolument aucun lien avec les activités commerciales de l'appelant.
+- L'appelant n'a pas participé directement à des négociations concernant l'entente et [TRADUCTION] « aucun élément de preuve ne montre que l'appelant s'attendait à ce type de paiement ».
+[18] Pour ce qui est de l'argument subsidiaire, l'appelant soutient que le lien entre la prime à la signature et la servitude était tel que la prime à la signature était essentiellement une contrepartie pour l'octroi de la servitude.
+III. Le règlement de l'appel
+[19] Je vais d'abord me pencher sur certaines hypothèses de fait tirées des observations écrites de l'intimée qui ne correspondent pas aux faits qui m'ont été présentés.
+[20] D'abord, l'intimée semble soutenir que l'appelant a reçu la prime à la signature lors de l'exploitation d'une ferme (voir les paragraphes 30 et 32 des observations écrites de l'intimée). Cependant, selon l'exposé, ce serait la société et non l'appelant qui exploitait la ferme.
+[21] Le paragraphe 3 de l'exposé précise que l'appelant loue les terres en question à la société. L'exposé n'aborde pas la question de la propriété des actions de la société. Cependant, étant donné que l'exposé décrit la société comme étant la « société de l'appelant », j'ai présumé que l'appelant contrôlait la société.
+[22] De plus, le paragraphe 3 de l'exposé précise que la société cultive les terres pour le compte de l'appelant. Je ne sais pas exactement ce qu'on entend par [TRADUCTION] « cultive les terres pour le compte de l'appelant ». Je présume que cela veut dire que la société cultive les terres pour le compte de son actionnaire, l'appelant.
+[23] L'appelant loue les terres à la société, qui doit donc avoir exploité la ferme pour son propre compte, puisqu'elle est locataire aux termes du bail.
+[24] Cette conclusion est cohérente avec l'exposé, selon lequel la société avait déclaré un revenu imposable découlant de l'exploitation de la ferme dans sa déclaration de revenus et l'appelant avait déclaré un revenu tiré d'un bien découlant de la location de ses terres.
+[25] Plus précisément, les paragraphes 13 et 16 de l'exposé et les onglets A et B de l'exposé montrent que la société a indiqué dans ses déclarations de revenus les sommes reçues d'Enbridge se rapportant à l'exploitation de la ferme. Ces sommes se rapportent aux chantiers temporaires sur les terres, à la perte des récoltes et aux désagréments. En outre, l'intimée n'a pas contesté dans sa réponse l'inclusion de ces sommes dans le revenu de la société.
+[26] De plus, selon le paragraphe 17 de l'exposé, l'appelant n'a indiqué dans sa déclaration de revenus personnelle que les sommes reçues pour la propriété des terres, notamment le montant reçu en contrepartie de la servitude.
+[27] D'après les éléments limités présentés à la Cour, je conclus que l'appelant n'a pas reçu la prime à la signature lors de l'exploitation d'une ferme, puisque c'est la société et non l'appelant qui exploitait la ferme.
+[28] La deuxième hypothèse de l'intimée qui pose problème est celle selon laquelle Enbridge avait versé la prime à la signature en contrepartie du fait que l'appelant avait signé l'entente tôt (voir, par exemple, les paragraphes 28 et 33 des observations écrites de l'intimée).
+[29] Selon les faits qui m'ont été présentés, Enbridge a versé à l'appelant la prime à la signature en contrepartie du fait que l'appelant avait signé tôt l'accord sur la servitude. L'article 5 de l'annexe 3 de l'entente stipule notamment que la prime à la signature est une mesure incitative pour la signature hâtive de l'entente sur la servitude. De plus, l'article 4.5 de l'entente stipule que la prime à la signature ne sera versée que si le propriétaire, l'appelant en l'occurrence, signe l'entente sur la servitude, l'entente sur les chantiers temporaires et le consentement avant l'échéance prescrite.
+[30] À présent que j'ai conclu que la prime à la signature n'est pas liée à une ferme qu'exploite l'appelant, je me penche sur le deuxième argument de l'intimée, à savoir que la prime est une somme à inclure aux termes de l'alinéa 12(1)x) de la Loi.
+[31] L'appelant ne conteste pas la thèse de l'intimée selon laquelle la prime à la signature est un paiement incitatif. Il découle clairement de l'article 5 de l'annexe 3 de l'entente que la prime à la signature a été versée à titre de paiement incitatif en vue de conclure l'entente sur la servitude.
+[32] Cependant, l'appelant soutient que la prime à la signature n'est pas visée par l'alinéa 12(1)x), puisqu'elle est visée par l'exception au sous‑alinéa 12(1)x)(viii). Cette exclusion s'applique notamment lorsque le paiement incitatif, la prime à la signature en l'occurrence, peut raisonnablement être considéré comme un paiement fait au titre de l'acquisition par le débiteur, ici Enbridge, d'un intérêt sur le bien du contribuable, soit l'appelant.
+[33] La question précise à laquelle la Cour doit répondre est de savoir si la prime à la signature est un paiement au titre de la servitude, c'est‑à‑dire l'acquisition par Enbridge d'un intérêt sur les terres de l'appelant.
+[34] Dans un passage souvent cité de l'arrêt Nowegijick c. La Reine [2] , la Cour suprême du Canada enseigne que :
+À mon avis, les mots « quant à » ont la portée la plus large possible. Ils signifient, entre autres, « concernant », « relativement à » ou « par rapport à ». Parmi toutes les expressions qui servent à exprimer un lien quelconque entre deux sujets connexes, c'est probablement l'expression « quant à » qui est la plus large.
+[35] Enbridge a payé la prime à la signature à titre de paiement incitatif pour la signature hâtive de l'entente sur la servitude. Il s'agit d'un paiement par rapport à l'octroi, par l'appelant, de la servitude sur ses terres. Il s'agit, par conséquent, d'un paiement quant à l'acquisition par Enbridge d'un intérêt sur les terres de l'appelant. Par conséquent, l'alinéa 12(1)x) ne s'applique pas à la prime à la signature.
+[36] Étant donné qu'Enbridge a payé la prime à la signature au titre de la disposition par l'appelant d'une immobilisation, à savoir un intérêt sur ses terres, la prime constitue une rentrée de capital pour l'appelant. Qui plus est, je suis d'avis que la prime à la signature fait partie du produit de la disposition d'un intérêt sur les terres. Enbridge a accepté de payer un prix plus élevé pour la servitude si l'appelant octroyait cette servitude avant une date donnée.
+[37] Il en résulte que la prime à la signature doit être incluse pour déterminer le gain en capital de l'appelant au sens du paragraphe 39(1) découlant de la disposition de l'intérêt sur ses terres.
+[38] Pour ce qui est de l'argument de l'appelant voulant que la prime à la signature soit une rentrée de capital non imposable, je remarque que les faits devant étayer cet argument n'ont pas été présentés à la Cour. Les seuls faits qui ont été présentés à la Cour sont ceux de l'exposé. Ces faits ne font pas mention des efforts de l'appelant en vue de négocier la prime à la signature ni des activités commerciales de l'appelant lui‑même. Le seul revenu de l'appelant indiqué dans l'exposé est le revenu tiré d'un bien, c'est‑à‑dire le revenu de location qu'il reçoit de la société.
+[39] Pour les motifs qui précèdent, l'appel est accueilli avec dépens à l'appelant. La nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait que l'appelant a réalisé un gain en capital imposable de 127 435 $ relatif à la prime à la signature.
+Signé à Antigonish (Nouvelle‑Écosse), ce 18e jour de juin 2018.
+« S. D'Arcy »
+Le juge D'Arcy
+RÉFÉRENCE :
+2018 CCI 113
+NO DU DOSSIER DE LA COUR :
+2015-1874(IT)G
+INTITULÉ :
+Gary Ritchie c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Winnipeg (Manitoba)
+DATE DE L'AUDIENCE :
+Le 28 mars 2018
+MOTIFS DU JUGEMENT :
+L'honorable juge Steven K. D'Arcy
+DATE DU JUGEMENT :
+Le 18 juin 2018
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Jeff Pniowsky
+Avocates de l'intimée :
+Me Brooke Sittler
+Me Bryn Frape
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me Jeff Pniowsky
+Cabinet :
+Thompson Dorfman Sweatman LLP
+Winnipeg (Manitoba)
+Pour l'intimée :
+Nathalie G. Drouin
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les mots [TRADUCTION] « pour le compte de l'appelant » ont été ajoutés par les parties au début de l'audience.
+[2] [1983] 1 R.C.S. 29, à la p. 39.

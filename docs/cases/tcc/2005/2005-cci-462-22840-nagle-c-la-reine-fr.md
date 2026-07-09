@@ -1,0 +1,129 @@
+---
+title: "Nagle c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22840/index.do"
+last_modified: "2005-07-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 462"
+citation2: ""
+neutral_citation: "2005 CCI 462"
+decision_date: "2005-07-21"
+language: "fr"
+item_id: "22840"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2344
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:44:57.694000+00:00"
+cases_cited_count: 0
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3b753c4ad4c1157ed8db873d67e1d0aacbbd737fffaab084c3f7cf7fbae9e688"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nagle c. La Reine
+
+- Citation: 2005 CCI 462
+- Decision date: 2005-07-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2344, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nagle c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-07-21
+Référence neutre
+2005 CCI 462
+Numéro de dossier
+2005-377(IT)APP
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-377(IT)APP
+ENTRE :
+PATRICK NAGLE,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue à Windsor (Ontario), le 28 juin 2005
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Avocat du demandeur :
+Me Myron Shulgan, c.r.
+Avocat de l’intimée :
+Me Gatien Fournier
+____________________________________________________________________
+ORDONNANCE
+La demande de prorogation du délai pour la signification d’un avis d’opposition aux cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1995, 1996 et 1997 est rejetée. Aucune ordonnance n’est rendue au sujet des dépens.
+Signé à Toronto, en Ontario, ce 21e jour de juillet 2005.
+« J. Woods »
+La juge Woods
+Traduction certifiée conforme
+ce 18e jour de janvier 2006
+Joanne Robert, traductrice
+Référence : 2005CCI462
+Date : 20050721
+Dossier : 2005-377(IT)APP
+ENTRE :
+PATRICK NAGLE,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] Il s’agit d’une demande présentée par M. Patrick Nagle en vertu de l’article 166.2 de la Loi de l’impôt sur le revenu visant une ordonnance de prorogation du délai pour la signification d’un avis d’opposition aux cotisations établies pour les années d’imposition 1995, 1996 et 1997. Les avis de nouvelle cotisation visés étaient datés du 25 mars 1999.
+[2] Le paragraphe 166.2(5) énonce les conditions qui doivent être remplies pour que la Cour accorde une prorogation du délai. Le paragraphe est libellé comme suit :
+(5) Acceptation de la demande. Il n’est fait droit à la demande que si les conditions suivantes sont réunies:
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l'avis ou présenter la requête, il n'a pu ni agir ni charger quelqu'un d'agir en son nom, ou il avait véritablement l'intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l'espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+La période d’un an mentionnée à l’alinéa 166.2(5)a) commence 90 jours après l’envoi de l’avis de cotisation.
+[3] Le demandeur admet qu’il ne satisfait pas à l’exigence de l’alinéa 166.2(5)a) si celui-ci est interprété littéralement. La demande présentée au ministre en vertu de l’article 166.1 a été présentée plusieurs années après l’expiration du délai, soit le 23 juin 2000. Il prétend, par contre, que le délai ne devrait pas commencer avant qu’il n’ait été informé de la nécessité de demander une prorogation du délai. À l’appui de sa prétention, il cite un principe appelé la règle du moment où le préjudice aurait pu être découvert.
+[4] Les nouvelles cotisations se rapportent à des abris fiscaux déterminés de M. Nagle, qui exerce la profession de dentiste. Les opérations en question ont eu lieu bien des années auparavant, et l’Agence du revenu du Canada a établi des nouvelles cotisations pour toutes les années antérieures à partir de 1986.
+[5] Le comptable de M. Nagle, à qui ce dernier fait appel depuis environ 20 ans, a produit des avis d’opposition pour les années antérieures. M. Nagle a témoigné qu’il avait donné pour instruction au comptable de produire des avis d’opposition pour les années d’imposition 1995, 1996 et 1997 comme il l’avait fait par le passé. Pour une raison quelconque, ces avis n’ont pas été produits, même si M. Nagle a témoigné que le comptable lui avait dit qu’ils l’avaient été. Il a découvert en juin 2004 que les avis n’avaient pas été produits. Peu de temps après, il a présenté une demande de prorogation du délai au ministre du Revenu national, et lorsque cette demande a été refusée, il a soumis une demande à la présente cour.
+[6] La situation est particulièrement déplorable pour le demandeur parce qu’une des questions techniques en litige a été tranchée en sa faveur. Apparemment, un abri fiscal déterminé avait fait l’objet d’une nouvelle cotisation selon le critère de l’attente raisonnable de profit. Les appels de M. Nagle ont été mis en attente pendant que des appels semblables furent soumis à la cour, et M. Nagle a aidé à financer l’appel qui a donné gain de cause à des contribuables relativement à cette question devant la Cour suprême du Canada. C’est alors que l’Agence procédait à l’envoi de remboursements se rapportant à des appels en suspens que l’on a découvert que ni les registres du comptable ni ceux de l’Agence ne faisaient état d’avis d’opposition pour les trois années en question.
+[7] La règle que le contribuable fait valoir semble être un principe bien établi appliqué par les tribunaux dans leur interprétation des délais de prescription prévus par la loi. Elle a été décrite comme une règle générale [TRADUCTION] « appliquée pour prévenir l’injustice qu’entraînerait le fait d’interdire à une personne d’intenter une action avant qu’elle ne soit en mesure de le faire » (Haberman v. Peixeiro (1997), 151 D.L.R. (4th) 429 (C.S.C.), au paragr. 36). De façon générale, la règle est appliquée lorsqu’une personne ne peut déterminer, dans le délai de prescription prévu par la loi, qu’elle a une cause d’action.
+[8] La règle a été appliquée par la Cour canadienne de l’impôt dans l’arrêt Carlson v. The Queen, [2001] 3 C.T.C. 2294, mais la décision a été infirmée en appel au motif que le contribuable n’avait pas agi de façon raisonnable ou avec diligence ([2002] 2 C.T.C. 212). Dans une affaire incidente, le juge Nadon a également soulevé des doutes quant à la question de savoir si la règle s’applique à la Loi de l’impôt sur le revenu.
+[9] Le demandeur soutient quant à lui que le délai pour présenter une demande de prorogation ne devrait pas commencer avant que la personne puisse raisonnablement découvrir que la demande est nécessaire. Dans le cas présent, ce serait quelque temps en juin 2004, lorsqu’il a été découvert que les avis d’opposition n’avaient pas été produits. M. Nagle soutient qu’il a fait preuve de diligence en faisant un suivi auprès du comptable, et qu’il avait été informé par ce dernier que les avis avaient été dûment produits.
+[10] À mon avis, il ne s’agit pas d’une situation à laquelle pourrait s’appliquer la règle du moment où le préjudice aurait pu être découvert. D’abord, le demandeur admet avoir reçu les avis de nouvelle cotisation. Il savait qu’il avait une cause d’action et qu’il devait déposer des avis d’opposition. Non seulement était-il possible de découvrir la cause d’action, mais aussi celle-ci l’a-t-elle été. Ensuite, le demandeur aurait-il pu de toute façon découvrir qu’aucun avis d’opposition n’avait été produit. Il a dit qu’il a eu une conversation avec le comptable, qui lui a dit que les avis avaient été produits. Je présume que si M. Nagle avait demandé des copies des avis au comptable, il aurait découvert que les avis n’avaient pas été établis.
+[11] Enfin, même l’interprétation la plus large du paragraphe 166.2(5) ne justifie pas l’application de la règle du moment où le préjudice aurait pu être découvert dans les circonstances présentes. L’avocat du demandeur soutient que la règle du moment où le préjudice aurait pu être découvert n’est pas seulement une règle d’interprétation, mais un principe prétorien qui l’emporte sur les textes de la loi. Il se réfère au passage suivant de l’arrêt Haberman v. Peixeiro :
+[…] La règle de la possibilité de découvrir le dommage a été appliquée par la Cour même à l'égard de textes de loi établissant des délais de prescription dont le libellé, interprété littéralement, semblait exclure l'application de la règle. […]
+(paragr. 38)
+[12] Je ne suis pas d’accord avec le demandeur lorsqu’il dit que la règle du moment où le préjudice aurait pu être découvert l’emporte sur les textes de loi. La Cour suprême du Canada donne à penser qu’une approche littérale ne convient pas lorsqu’il s’agit d’interpréter les délais de prescription prévus par la loi, mais elle ne laisse pas entendre que l’on peut ne pas tenir compte du libellé de la loi. Juste avant le passage susmentionné tiré de l’arrêt Haberman v. Peixeiro, la Cour approuve l’affirmation suivante tirée de l’arrêt Fehr v. Jacob (1993), 14 C.C.L.T. (2d) 200 (Man C.A.), à la page 206 :
+À mon avis, la règle prétorienne de la possibilité de découvrir le dommage n'est rien de plus qu'une règle d'interprétation. Dans tous les cas où une loi indique que l'action en justice doit être intentée dans un certain délai après un événement donné, il faut interpréter les termes de cette loi. Lorsque ce délai court à partir du «moment où naît la cause d'action» ou de tout autre événement qui peut être interprété comme ne survenant qu'au moment où la victime prend connaissance du dommage, c'est la règle prétorienne de la possibilité de découvrir le dommage qui s'applique. Toutefois, si le délai court à compter de la date d'un événement qui survient clairement, et sans égard à la connaissance qu'en a la victime, cette règle ne peut prolonger le délai fixé par le législateur.
+(non souligné dans l’original)
+[13] À mon avis, le libellé du paragraphe 166.2(5) ne permet pas que la période d’un an commence au moment où M. Nagle a découvert que son comptable n’avait pas produit les avis d’opposition nécessaires. La disposition indique clairement que la période doit commencer au moment où les cotisations sont envoyées. Je ne vois aucune raison de ne pas tenir compte de l’intention du législateur, qui est évidente d’après le libellé utilisé.
+[14] La demande est rejetée. Dans les circonstances, il n’y aura pas adjudication des dépens.
+Signé à Toronto, en Ontario, ce 21e jour de juillet 2005.
+« J. Woods »
+La juge Woods
+Traduction certifiée conforme
+ce 18e jour de janvier 2006
+Joanne Robert, traductrice

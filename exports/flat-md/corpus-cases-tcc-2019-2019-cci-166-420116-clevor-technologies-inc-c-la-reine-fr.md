@@ -1,0 +1,175 @@
+---
+title: "Clevor Technologies Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/420116/index.do"
+last_modified: "2019-08-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 166"
+citation2: ""
+neutral_citation: "2019 CCI 166"
+decision_date: "2019-08-14"
+language: "fr"
+item_id: "420116"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4221
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:11:53.943000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d77daea1e2e1b92ee20fbed9fb7d38ba73ce8b8f5c0dbb8d009ddd3efc6c1963"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Clevor Technologies Inc. c. La Reine
+
+- Citation: 2019 CCI 166
+- Decision date: 2019-08-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4221, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Clevor Technologies Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-08-14
+Référence neutre
+2019 CCI 166
+Numéro de dossier
+2017-3935(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3935(IT)I
+ENTRE :
+CLEVOR TECHNOLOGIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 février 2019, à Saskatoon (Saskatchewan)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Représentante de l’appelante :
+Sheila Maithel
+Avocat de l’intimée :
+Me David Smith
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie le 15 juin 2015 aux termes de la Loi de l’impôt sur le revenu fédérale pour l’année d’imposition 2013 de l’appelante est rejeté, sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 14e jour d’août 2019.
+« B. Russell »
+Le juge Russell
+Référence: 2019 CCI 166
+Date : 20190814
+Dossier : 2017-3935(IT)I
+ENTRE :
+CLEVOR TECHNOLOGIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+Introduction
+[1] Le présent appel interjeté par Clevor Technologies Inc. (l’appelante) concerne la cotisation soulevée par le ministre du Revenu national (le ministre) le 15 juin 2015 en application de la Loi de l’impôt sur le revenu (Canada) (la Loi) pour l’année d’imposition 2013 de l’appelante. Après s’être opposée sans succès à la nouvelle cotisation, l’appelante a interjeté appel devant la Cour. Plus précisément, l’appel porte sur le rejet par le ministre de la déclaration de l’appelante concernant les dépenses relatives à des activités de recherche scientifique et de développement expérimental se chiffrant à 72 046 $. Si ces dépenses étaient approuvées, l’appelante serait admissible, en application de la Loi, à un crédit d’impôt remboursable pour investissement de 24 991 $.
+Contexte :
+[2] L’appelante n’était pas représentée par un avocat. Son seul témoin était sa présidente, Sheila Maithel. Celle-ci a présenté des éléments de preuve qui démontrent que l’appelante est une société de la Saskatchewan spécialisée dans la conception de logiciels utilisés pour la gestion des opérations. Avant 2013, cette société avait conçu une application logicielle sophistiquée de gestion de projet, appelée « Clevor Schedule Optimizer » (CSO). Le CSO était utilisé comme suit : une fois que les données étaient entrées en fonction des variables s’appliquant à l’exécution d’un projet donné (comme un projet de construction ou d’exploitation minière), le logiciel pouvait rapidement déterminer l’échéancier et l’ordre des étapes à suivre pour maximiser l’efficacité de la mise en œuvre de ce projet (c.-à-d. le plus tôt possible).
+[3] Mme Maithal n’a pas reçu de formation formelle en matière d’informatique ou de conception de logiciels et elle n’a jamais été employée par l’appelante. Tout au long de l’année 2013 et durant les années qui ont précédé, Ravi Maithel, son père (aujourd’hui décédé), était président de l’appelante. Je comprends qu’il avait une certaine expérience en informatique. Mme Maithal, en dépit de son intelligence et de son érudition, ne possédait aucune connaissance personnelle ou directe des activités de l’appelante en 2013 qui sont pertinentes dans le cadre du présent appel. Les éléments de preuve qu’elle a présentés sont tirés du contenu de deux lettres écrites par son défunt père en 2015 dans le cadre d’une correspondance avec les vérificateurs des activités de recherche scientifique et de développement expérimental de l’Agence de revenu du Canada (Agence). Ces lettres portaient sur les demandes de recherche scientifique et de développement expérimental de l’appelante en cause dans la présente affaire, formulées au stade de la vérification. À ce jour, on ne sait toujours pas pourquoi l’appelante n’a pas demandé de témoignage à l’un de ses employés, actuels ou anciens, ayant joué un rôle important dans les activités de l’appelante en 2013, lesquelles sont visées par la présente demande de recherche scientifique et de développement expérimental.
+[4] Le témoin de l’intimée était M. Mayank Pandey, un conseiller en recherche et technologie employé par l’Agence. Il détient un doctorat en gestion de l’ingénierie. Il est le conseiller en recherche et technologie qui a conseillé l’Agence en ce qui concerne les demandes de recherche scientifique et de développement expérimental. L’appelante l’a accepté en tant que témoin expert sans objection. Son rapport d’expert a été déposé et constitue la pièce R-1. Il porte sur la « deuxième activité », mentionnée au paragraphe 8 ci-dessous.
+[5] L’appelante a demandé des prestations de recherche scientifique et de développement expérimental pour les deux activités auxquelles il a participé en 2013 dans le cadre de la conception de son logiciel ayant connu une réussite commerciale, CSO.
+[6] Le premier projet a vu le jour parce que CSO avait été conçu pour interfacer avec un logiciel tiers qui fournissait le « logiciel frontal » au client dans l’opération liée des deux applications. Mme Maithal a dit que le logiciel CSO était les « méninges » de ces applications intégrées, car il fonctionne de façon intégrée avec de telles applications frontales, comme Microsoft Project et Primavera P6 d’Oracle.
+[7] Cependant, au début de l’année 2013, Oracle a modifié le code de son interface de programmation d’applications (API) pour la nouvelle version de Primavera, soit Primavera P7. Ce changement a empêché CSO de s’intégrer à Primavera P7 en attendant que le code de CSO soit lui aussi modifié. Même si Oracle a publié un texte expliquant la modification du code de son API à l’intention des fabricants de logiciels intégrés à Primavera, cette explication n’était apparemment pas assez détaillée pour que l’appelante puisse rapidement déterminer si un changement de code de CSO s’avérait nécessaire.
+[8] La deuxième activité, déclarée comme étant un véritable « projet » de recherche scientifique et de développement expérimental, se caractérisait par les travaux réalisés par l’appelante en 2013 en vue d’améliorer le logiciel CSO en y intégrant [traduction] « la meilleure fonction de calcul des échéances et des frais généraux » pour l’exécution simultanée de plusieurs projets.
+Questions en litige :
+[9] Dans le cas de ces deux activités de 2013, la question en litige en matière d’impôts est de déterminer si les travaux de l’appelante constituaient des activités de recherche scientifique et de développement expérimental et si, dans les deux cas, il existait au moins une incertitude technologique et, le cas échéant, si l’appelante avait réglé la situation en employant une méthode scientifique. Le ministre de l’intimée a rejeté les demandes de recherche scientifique et de développement expérimental de l’appelante après avoir conclu que ce dernier n’avait pas été confronté à des incertitudes technologiques et qu’il avait opté pour les procédures habituelles ou les études techniques courantes dans le cadre de la mise en œuvre des deux initiatives.
+Analyse :
+[10] La portion de la définition du terme « recherche scientifique et de développement expérimental » au paragraphe 248(1) de la Loi qui s’applique le plus au présent appel est celle de l’alinéa 248(1)c), qui va comme suit :
+248(1) activités de recherche scientifique et de développement expérimental Investigation ou recherche systématique d’ordre scientifique ou technologique, effectuée par voie d’expérimentation ou d’analyse, c’est-à-dire :
+c) le développement expérimental, à savoir les travaux entrepris dans l’intérêt du progrès technologique en vue de la création de nouveaux matériaux, dispositifs, produits ou procédés ou de l’amélioration, même légère, de ceux qui existent.
+[11] Dans la décision Northwest Hydraulic Consultants Limited., [1998] 3 CTC 2520, le juge en chef de la Cour à l’époque a présenté cinq critères permettant d’établir l’admissibilité d’un projet au programme de recherche scientifique et de développement expérimental; ces critères ont par la suite été adoptés par la Cour d’appel fédérale dans l’arrêt CW Agencies Inc., 2001 CAF 393. Les cinq critères sont les suivants :
+a) Existait-il un risque ou une incertitude technologique qui ne pouvait être éliminé par les procédures habituelles ou les études techniques courantes?
+b) La personne qui prétend faire de la RS & DE a-t-elle formulé des hypothèses visant expressément à réduire ou à éliminer cette incertitude technologique?
+c) La procédure adoptée était-elle complètement conforme à la discipline de la méthode scientifique, notamment dans la formulation, la vérification et la modification des hypothèses?
+d) Le processus a-t-il abouti à un progrès technologique?
+e) Un compte rendu détaillé des hypothèses vérifiées et des résultats a-t-il été fait au fur et à mesure de l’avancement des travaux?
+[12] En outre, dans l’arrêt Northwest, la Cour a décrit le terme « études techniques courantes » comme faisant référence [traduction] « aux techniques, aux procédures et aux données qui sont généralement accessibles aux spécialistes compétents dans le domaine ».
+Activité liée à l’API :
+[13] En ce qui concerne la première de ces deux initiatives de 2013, c’est-à-dire les travaux relatifs à l’API, l’appelante a déclaré dans ses observations écrites que [traduction] « [c]e manque de documentation [sur le nouveau code API de la version P7] a entraîné des incertitudes scientifiques ou technologiques », avant d’ajouter qu’une telle situation [traduction] « ne pouvait être réglée au moyen de méthodes de programmation standards ni d’une approche force brute [...] ».
+[14] L’appelante a également fait valoir que
+[traduction] « [l]’hypothèse proposée voulait que les changements apportés à l’API qui touchaient la capacité d’intégration [de l’appelante] pouvaient avoir été déterminés si les concepteurs avaient essayé systématiquement diverses combinaisons d’éléments XML [un aspect du code API] et ajouté ou supprimé différents champs d’éléments afin d’éliminer les erreurs et les mises en garde générées lorsqu’un fichier XML est utilisé pour la mise à jour d’un projet dans Primavera 6. Les connaissances tirées de cette investigation systématique nous permettent de mieux comprendre le nouveau fichier schéma et facilitent les efforts d’intégration futurs [de l’appelante].
+[15] L’intimée soutient que [traduction] « le fait de connaître les produits tiers, tels que Primavera, ne représente pas un progrès technologique ». Je suis en accord avec cet énoncé, à l’exception du fait qu’il ne tient pas compte des progrès technologiques possibles associés à l’élaboration d’un nouveau processus permettant de déterminer le contenu non publié du nouveau code API pour la version P7, à l’aide d’une méthode scientifique et non de processus standards ou d’études techniques courantes.
+[16] En l’espèce, l’« hypothèse » de l’appelante, mentionnée ci-dessus, veut qu’il faut [traduction] « [essayer] systématiquement diverses combinaisons d’éléments XML [un aspect du code API] et [ajouter ou supprimer] différents champs d’éléments afin d’éliminer les erreurs et les mises en garde générées lorsqu’un fichier XML est utilisé pour la mise à jour d’un projet dans Primavera 6 ». Toutefois, cela ne semble pas être une proposition scientifique qui mérite d’être mise à l’essai. Cela décrit plutôt une méthodologie visant à déterminer la nature de l’élément XML du code API de Primavera P7, autrement dit, à obtenir des connaissances que possède déjà Oracle sur le code API de la dernière version P7. Formulée en tant qu’« hypothèse », cette procédure visant à essayer systématiquement diverses combinaisons de facteurs de codage API évoque une approche essais-erreurs.
+[17] À mon avis, les processus d’essais et d’erreurs consistent font partie des études techniques courantes. Conformément à ce qui précède, le terme « études techniques courantes » a été défini dans l’arrêt Northwest comme faisant référence [traduction] « aux techniques, aux procédures et aux données qui sont généralement accessibles aux spécialistes compétents dans le domaine ». Il va de soi que l’approche essais-erreurs est une technique connue, accessible aux spécialistes compétents dans le domaine. De plus, rien ne semble indiquer que le processus d’essais et d’erreurs proposé par l’appelante ne serait qu’un aspect secondaire d’une méthode scientifique authentique dans un contexte global.
+[18] Ainsi, je conclus que les éléments de preuve ne suffisent pas pour établir que l’on a fait appel au programme de recherche scientifique et de développement expérimental dans le cadre de la résolution du problème concernant le code API. L’appelante n’a signalé aucune incertitude technologique, ce qui exige d’effectuer une procédure d’essai autre que le processus standard ou les études techniques courantes. L’appelante a plutôt opté pour un processus d’essais et d’erreurs, une procédure manifestement connue par les professionnels compétents dans le domaine. Je remarque également un manque d’éléments de preuve relatifs aux résultats des essais.
+Activité relative à la fonction de calcul des échéances et des frais généraux :
+[19] La deuxième activité pour laquelle l’appelante a fait une demande d’admissibilité au programme de recherche scientifique et de développement expérimental se caractérisait par les travaux réalisés par l’appelante en 2013 en vue d’améliorer le logiciel CSO en y intégrant [traduction] « la meilleure fonction de calcul des échéances et des frais généraux » pour l’exécution simultanée de plusieurs projets. Comme l’explique l’appelante dans ses observations écrites,
+[traduction] [e]n 2013, nous avons pu à certains moments observer dans le calendrier optimisé [généré par le CSO] que certains projets étaient largement en retard alors que d’autres étaient à l’heure et que la durée totale d’un projet donné était inutilement prolongée. Notre première analyse a démontré que cela était causé par les coûts associés aux retards et le manque de contrôle relatif à la durée des projets. L’investigation concernant les solutions possibles visant à rectifier [un] calendrier optimisé non souhaité ont entraîné [sic] d’après les échéances et les frais généraux des projets portait sur la mise en œuvre de diverses méthodes de calcul des coûts dans le moteur de calcul ou d’un modèle d’établissements des coûts liés à l’analyse des frais généraux.
+[20] Dans ses observations écrites, l’appelante affirme avoir proposé cinq lignes de conduite, qu’il appelle « hypothèses ». Les voici :
+[traduction]
+1. Retards/échéances – appliquer des intérêts en cas de retard au calcul des coûts associés aux retards;
+2. Retards/échéances – appliquer des intérêts composés en cas de retard au calcul des coûts associés aux retards;
+3. Minimisation du morcellement – appliquer des frais généraux normalisés aux projets;
+4. Minimisation du morcellement – adopter une méthode du chemin critique afin de trouver la cause du point de vue de la durée;
+5. Minimisation du morcellement – effectuer une analyse des goulets d’étranglement des ressources afin de trouver la cause du point de vue des ressources.
+[21] L’appelante a également indiqué que les trois premières de ces cinq « solutions potentielles » avaient été mises à l’essai en utilisant plusieurs ensembles de données pour différents cas à l’essai, y compris l’ensemble de données « ressources composées seulement », l’ensemble de données « ressources distinctes seulement » et l’ensemble de données « ressources mixtes », plus trois tailles d’ensemble de données : grand (plus de 5 000 activités); petit (moins de 1 000 activités); et moyen. L’appelante a soutenu qu’elle a conclu, à la suite de ces essais, que l’intégration d’intérêts composés en cas de retard et de frais généraux standards permettait d’obtenir des résultats optimaux en matière d’établissement du calendrier, c’est-à-dire qui se rapprochent le plus de ceux découlant d’une décision humaine.
+[22] Quant à elles, les observations écrites de l’intimée, lesquelles tiennent compte du rapport d’expert de M. Pandey et des témoignages d’opinion, indiquent qu’il n’existait aucune incertitude technologique en l’espèce, car l’appelante avait employé une méthode éprouvée appelée « métaheuristique » pour résoudre le problème relatif aux retards et aux frais généraux. Dans son rapport d’expert (pièce R-1), M. Pandey affirme que [traduction]
+[le] meilleur moyen de résoudre [les problèmes en matière d’établissement du calendrier, y compris l’ajout de chaque nouvelle variable] est de faire appel à la métaheuristique, qui consiste essentiellement à effectuer des recherches dans l’espace de solution en se basant sur certains algorithmes et à choisir la solution appropriée. Il existe de nombreuses façons d’utiliser la métaheuristique pour résoudre les problèmes en matière d’optimisation du calendrier. [L’appelante] avait déjà eu recours à la métaheuristique pour résoudre des problèmes en matière d’optimisation du calendrier et des coûts dans la présente requête dont la Cour est saisie.
+[23] En outre,
+[traduction] [Lors d’une réunion qui s’est tenue le 29 octobre 2014 avec des représentants de l’Agence et d’autres personnes, M. Zhou, employé de l’appelante] a expliqué que de nouvelles contraintes devaient être ajoutées au problème existant afin de combler les lacunes de l’organisateur actuel. Cependant, l’ajout de nouvelles contraintes ne constitue pas en soi une incertitude scientifique ou technologique. On sait que toute nouvelle contrainte imposée à un problème d’optimisation existant peut exiger l’ajout d’une nouvelle heuristique (ensemble de règles) à la configuration existante (fondée sur des règles), de sorte que l’espace de solution, soumis à des contraintes, puisse être exploré grâce à la métaheuristique et qu’une solution définitive puisse être adoptée. Par la suite, de telles solutions peuvent être révisées au moyen de diverses techniques numériques, par l’intermédiaire d’une simulation itérative.
+[24] Et, enfin,
+[traduction] [l]es renseignements et les éléments de preuve à l’appui présentés ne permettent pas d’établir que [l’appelante] a été confrontée à des incertitudes scientifiques ou technologiques lors de la modélisation du problème, du recours à la métaheuristique pour résoudre le problème en question ou de l’élaboration/l’ajout d’une nouvelle heuristique. Au début des travaux allégués, [l’appelante] faisait appel à [une] solution fondée sur la métaheuristique [...] et elle utilisait une application d’établissement de calendrier stable pour générer un calendrier respectant toutes les contraintes et les règles imposées [...] Même si les nouvelles contraintes (ajout des coûts associés aux retards et des frais généraux à un scénario d’optimisation de projets multiples) complexifiaient davantage le problème en matière d’établissement du calendrier, les faits présentés aux fins d’examen ne démontrent pas que ces deux contraintes/exigences entraînaient une [incertitude scientifique ou technologique] pour [l’appelante]. L’entreprise possédait l’expertise nécessaire pour employer la métaheuristique et ajouter les contraintes aux problèmes en matière d’optimisation du calendrier et des coûts dans un scénario de projets multiples. En outre, la formation et les éléments de preuve à l’appui présentées aux fins d’examen ne permettent pas d’établir que des incertitudes scientifiques ou technologiques ont été rencontrées ou abordées au niveau du système en ce qui concerne la manière dont les nouvelles contraintes auraient pu entraîner des incertitudes relatives aux technologies ou aux composantes existantes. Par conséquent, même si les travaux réalisés étaient longs et complexes, car ils exigeaient la révision, le codage et la mise à l’essai des algorithmes en vue de parvenir à une solution acceptable, ils ne comportaient pas d’expérimentation ni d’analyse visant à résoudre les incertitudes scientifiques ou technologiques, conformément au paragraphe 248(1) de la Loi [...] [Non souligné dans l’original]
+[25] J’accepte le témoignage d’expert de l’intimée, tel qu’il est présenté ci-dessus. Les éléments de preuve présentés par l’appelante, par l’entremise de son seul témoin, qui n’est ni expert, ni formé en informatique, n’ont pas suffi pour me convaincre que la preuve de l’intimée était erronée. Une fois de plus, je tiens à souligner que l’appelante n’a cité à comparaître aucun témoin qui savait véritablement en quoi consistaient les travaux effectués par l’appelante en 2013 (ni n’a expliqué les raisons justifiant une telle décision). L’appelante n’a pas non plus demandé à un expert qualifié de témoigner en réponse à la preuve présentée par M. Pandey. Ceci étant dit, comme c’est le cas pour l’activité liée à l’API, je rejette la demande de crédit d’impôt au titre du programme de recherche scientifique et de développement expérimental pour cette deuxième activité relative à la gestion des retards et des frais généraux.
+[26] Par conséquent, cet appel interjeté sous le régime de la procédure informelle de la Cour est rejeté, sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 14e jour d’août 2019.
+« B. Russell »
+Le juge Russell
+RÉFÉRENCE :
+2019 CCI 166
+NO DU DOSSIER DE LA COUR :
+2017-3935(IT)I
+INTITULÉ :
+CLEVOR TECHNOLOGIES INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE :
+Le 28 février 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 14 août 2019
+COMPARUTIONS :
+Représentante de l’appelante :
+Sheila Maithel
+Avocat de l’intimée :
+Me David Smith
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

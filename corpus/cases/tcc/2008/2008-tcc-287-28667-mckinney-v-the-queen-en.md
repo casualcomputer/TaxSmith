@@ -1,0 +1,197 @@
+---
+title: "McKinney v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28667/index.do"
+last_modified: "2008-05-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 287"
+citation2: ""
+neutral_citation: "2008 TCC 287"
+decision_date: "2008-05-13"
+language: "en"
+item_id: "28667"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1130
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:13:02.795000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "79b581c4e813a43842f24140f223c5a51f55fe59663dd3b3ec772783c34a7633"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McKinney v. The Queen
+
+- Citation: 2008 TCC 287
+- Decision date: 2008-05-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1130, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKinney v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-05-13
+Neutral citation
+2008 TCC 287
+File numbers
+2005-236(IT)G
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-236(IT)G
+BETWEEN:
+KEVIN MCKINNEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 28, 29 and 30
+and May 1, 2008 at Kelowna, British Columbia
+Before: The Honourable D.W. Beaubier, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Timothy W. Clarke
+Counsel for the Respondent:
+Johanna Russell
+____________________________________________________________________
+JUDGMENT
+This assessment is submitted to the Minister of National Revenue for reconsideration and reassessment on that basis that the Appellant should be credited with a further sum of $43,503.77 on account thereof.
+The Respondent is awarded its party and party costs.
+Signed at Ottawa, Canada this 22nd day of May, 2008.
+“D.W. Beaubier”
+Beaubier, D.J.
+Citation: 2008TCC287
+Date: 20080513
+Docket: 2005-236(IT)G
+BETWEEN:
+KEVIN MCKINNEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, D.J.
+[1] This appeal pursuant to the General Procedure was heard at Kelowna, British Columbia, on April 28, 29 and 30 and May 1, 2008. The Appellant testified and called his previous solicitor, Rodney Chorneyko, to testify. The Respondent called Patricia Clements, a collections officer of Canada Revenue Agency (“CRA”).
+[2] At the opening of the hearing the Appellant’s counsel moved to amend the Notice of Appeal and to adjourn the hearing. The motions were denied.
+[3] The Appellant was assessed as a director of MKM Manufacturing Ltd. (“MKM”) for unpaid employee withholdings by MKM of income tax respecting arrears and interest from September 21, 1994 until April 23, 1998, with interest continuing thereafter.
+[4] Paragraphs 4, 5, 6, 9, 10, 11 and 12 of the Reply to the Notice of Appeal read:
+4. With respect to paragraph 3 of the Notice of Appeal he admits that in May of 1996 the Appellant commenced activities to seek protection under the Bankruptcy and Insolvency Act in respect of MKM, but he states that the Appellant did not exercise the degree of care, diligence and skill to prevent MKM’s failure to remit federal income tax during the material period that a reasonably prudent person would have exercised in comparable circumstances.
+5. With respect to paragraph 6 of the Notice of Appeal he admits that MKM and Canada Revenue Agency (“CRA”) entered into a mortgage agreement dated May 21, 1997, but he states that notwithstanding the terms of that agreement the Minister of National Revenue (the “Minister”) properly assessed the Appellant for related interest pursuant to section 227(9.2) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “Act”) on the amount of federal income tax that was not properly remitted by MKM during the material period.
+6. With respect to paragraph 7 of the Notice of Appeal he states that in assessing the Appellant the Minister has properly calculated the total amount of federal income tax of $113,185.19 that MKM failed to remit for the material period.
+…
+9. The Minister assessed the Appellant on March 9, 2004 by Notice of Assessment No. 28015 (the “Assessment”) for federal income tax in the amount of $113,185.19 deducted at source in 1994, 1995, 1996, 1997 and 1998 but not remitted by MKM and for the related interest and penalty amounts.
+10. On June 3, 2004 the Appellant served a Notice of Objection upon the Minister with respect to the Assessment.
+11. On October 21, 2004 the Minister issued a Notice of Confirmation with respect to the Assessment.
+12. In so assessing and confirming the Minister relied on the following assumptions:
+(a) MKM was incorporated in British Columbia on January 30, 1992;
+(b) at all material times MKM was a lumber remanufacturing business;
+(c) MKM operated a cedar sawmill in Salmon Arm, B.C. from 1994 to 1998;
+(d) The Appellant was the sole director and officer of MKM from November 4, 1993 to January 23, 2004;
+(e) at all material times the Appellant did not resign as director of MKM;
+(f) the Appellant was involved in MKM’s day to day business operations;
+(g) MKM failed to remit to the Receiver General federal income tax in the amount of $113,185.19 that was withheld from the wages paid to its employees from 1994 to 1998 as detailed in Schedule A to the Reply;
+(h) MKM failed to pay penalties and interest relating to the unremitted federal tax as detailed on Schedule A to the Reply;
+(i) MKM was assigned into bankruptcy as of October 1, 2003 under the Bankruptcy and Insolvency Act;
+(j) on January 9, 2004 the CRA filed a Proof of Claim with MKM’s Bankruptcy Trustee in respect of MKM’s liability for federal income tax, penalties;
+(k) at all material times the Appellant was a knowledgeable businessman;
+(l) at all material times the Appellant was a director for companies other than MKM;
+(m) in 1994 the Appellant was aware that MKM began to suffer financial difficulties and that MKM had been assessed for payroll remittance arrears and at that time the Appellant failed to take sufficient remedial and preventative measures to prevent additional payroll remittance arrears; and
+(n) the Appellant did not exercise the degree of care, diligence and skill to prevent MKM’s failure to remit federal income tax during the material period that a reasonably prudent person would have exercised in comparable circumstances.
+[5] Assumptions 12(a) to (l), inclusive, were either confirmed or were not refuted by the evidence. Thus the question is whether the Appellant, as the sole director and operating officer of MKM, exercised the degree of care, diligence and skill to prevent MKM’s failure to remit.
+[6] Mr. McKinney testified that he obtained qualifications for a university degree with majors in history and economics and a minor in commerce from Simon Fraser University, concluding in about 1973. He then was a sales representative for Finning Tractor and Georgia Pacific. From 1979 until 1989, he and two partners went into the shingle business. In 1989, Mr. McKinney and a partner bought a company called “Teal-Jones” from a receiver. In 1992, Mr. McKinney started MKM as a sole shareholder. Mr. McKinney was an experienced businessman at all times material to this appeal. He was also the operating officer of MKM at all material times.
+[7] Mr. McKinney testified that until 1994 MKM’s financial and business records and payroll were conducted by the staff of Teal-Jones, of which he was a shareholder. In late spring or early summer of 1994, Mr. McKinney left Teal-Jones and began to operate MKM entirely by himself; he took charge of its financial business and payroll operations at the MKM’s premises. Thereupon, its payroll remissions fell into arrears.
+[8] In order to have sufficient operating capital for MKM, Mr. McKinney had his corporation CITC Timber Corporation (“CITC”) sell a timber quota in 1994. From this sale, CITC was entitled to net cash proceeds of $400,000. These were to be paid at $75,000 down on August 15, 1994, which CITC received, and then $75,000 per month in September, in October and in November, 1994. The balance of $100,000 was to be paid when the timber licence was issued to the purchaser which was anticipated to be in six or eight months. The purchaser paid the remaining monthly instalments to its lawyer who held them in trust until the licence was issued. Two licences were finally issued: one in March, 1996 and the second in about August, 1996. As it turned out, CITC spent these monies as follows:
+1.
+$ 70,000
+in 1994 to purchase two dryers which were delivered to the MKM premises. One was put to use by MKM in 1994 in a kiln to dry its products so as to enhance their value.
+2.
+$127,000
+in 1996 of which -
+$ 40,000
+was paid to Mr. McKinney’s former wife;
+$ 87,000
+was paid to 522748 B.C. Limited (“Jessie Cedar”) to supply wood products to MKM.
+3.
+$123,000
+was paid by CITC to Teal-Jones as a settlement of a lawsuit with Mr. McKinney or one of his corporations.
+4.
+$ 75,000
+was used by CITC to pay miscellaneous accounts of CITC.
+Throughout this time, Mr. McKinney felt that the balance of money would be paid to CITC any day. However, it should be noted that these proceeds were CITC’s and not MKM’s. Nonetheless, Mr. McKinney’s view is that the punctual receipt of the $400,000 proceeds would have enabled MKM to pay its payroll remissions on a timely basis.
+[9] From September 21, 1994, MKM was always in arrears of the remissions assessed. Mr. McKinney knew that in September, 1994.
+[10] In 1996, three matters arose which seriously affected MKM’s operations:
+1. The softwood lumber crisis with the United States was resolved with a set of quotas based on the earlier fifteen months’ exports. MKM never had any exports. The great majority of its sales were to customers, and in particular, one customer which in turn exported to the United States. Thus, it continued to sell to customers who in turn exported product to the United States. Mr. McKinney testified that, in his view, it lost profit margin as a result of the quota situation commencing in 1996. In fact, the Court finds that there is no evidence that the change in the quota system in itself affected MKM’s profit margin because MKM was not exporting prior to the quota system being imposed and it continued to sell to its previous customers.
+2. The first mortgage on MKM’s land and buildings (the “Rosmer” mortgage) went into foreclosure proceedings.
+3. In the summer or fall of 1996, Mr. McKinney suffered a psychological depression for which he was treated and which continues to this day. He is still taking medication for this depression. In November 1996, Mr. McKinney gave his power of attorney to his former wife. There is no evidence as to how long the power of attorney lasted, but Mr. McKinney testified that he may have continued to sign MKM cheques during the existence of the power of attorney.
+[11] There are a number of things that Mr. McKinney did in order to directly assure CRA of reimbursement by MKM. They are:
+1. Institute a proposal described in Exhibits R-20 and R-23, whereby BDO Dunwoody would act as trustee to pay creditors at the rate of $7,500 and later $8,500 and then $9,500 per month and MKM would pay its current accounts when due. Negotiations for this began in the early fall of 1996 and concluded with Court approval January 20, 1997. (Exhibit A-21) On May 2, 1997, CRA attached MKM’s bank account at the Bank of Montreal for failure to pay current remissions, and the proposal failed because MKM was no longer able to make the monthly instalment payments described above.
+2. As part of the proposal, on April 30, 1997, MKM executed a General Security Agreement in favour of The Queen, The Minister of National Revenue (“MNR”) and Worker’s Compensation Board of British Columbia (“WCBC”) (Exhibit A-26), securing MKM’s personal property.
+3. As part of the proposal, on May 21, 1997, MKM, with Mr. McKinney as signatory, executed a second mortgage to the Rosmer mortgage on its real estate (land and plant) near Salmon Arm, British Columbia in favour of the MNR and WCBC, which was registered in the Land Titles Office on July 29, 1997 (Exhibit A-24). This mortgage described the amount owed to the MNR as $156,385.76 and the amount owed to WCBC as $87,429.55. It did not give preference to either the MNR or WCBC above the other; in essence, they were described as equals.
+4. Mr. McKinney testified that in 1997, MKM (“we”) borrowed a variable sum from “B & L Forest Products” which may have been used to pay on account of the remissions in some amounts from time to time. In fact, this was really a running account with MKM’s main customer which was sometimes in surplus and sometimes in deficit.
+[12] After attachments by CRA of MKM’s Bank of Montreal account on May 2, 1997, and a second set later in May 1997, the Bank of Montreal closed MKM’s account. Mr. McKinney tried to meet MKM’s payroll through other corporations’ accounts. But in the spring of 1998 MKM could no longer operate its business and closed. In Mr. McKinney’s words, “I just couldn’t do it anymore”.
+[13] During the foreclosure proceeding of the first mortgage which was commenced by Rosmers, the MNR purchased that mortgage. That foreclosure proceeding was dismissed by the Supreme Court of British Columbia.
+[14] The second real estate mortgage was foreclosed by the MNR and WCBC and they obtained a British Columbia Supreme Court Order for the sale of the plant property. Mr. McKinney believes that he had some power as the director of MKM respecting that Order for Sale. Mr. McKinney’s offers to CRA or to the trustee to assist in collecting and enhancing the property were rebuffed. In the course of these proceedings, the MNR and WBCB agreed that the MNR or CRA would act as the agent for both of them proportionately, and spend funds to collect their claims, and to receive their claims from their mortgage, Exhibit A-24.
+[15] An offer to purchase was received from a Mr. Upper in early 2000 for a price of $201,000. Mr. McKinney opposed the sale at this price, but later withdrew his opposition and the British Columbia Supreme Court approved the sale. However the offer to purchase was for the real property and the equipment. Mr. McKinney testified that some of that equipment, including a dryer, was owned by CITC, and not MKM.
+[16] By Motion, CRA applied to the British Columbia Supreme Court to amend the Order for Sale to allocate $150,000 to the land and buildings and $51,000 to the equipment. In November, 2000, an Order for Sale of the land and buildings for $150,000 was stayed on the application of Mr. McKinney. While these proceedings went on, Mr. Upper withdrew his original offer to purchase for $201,000.
+[17] Effective October 1, 2003, MKM was ordered into bankruptcy on the petition of CRA. (Exhibit R-6).
+[18] On September 27, 2004, the trustee in bankruptcy transferred the land and equipment to the McQuaigs for approximately $100,000.
+[19] Mr. McKinney testified in cross-examination that since 1979 he has incorporated or acquired a number of corporations in various ventures associated with lumber and shingle manufacturing in British Columbia. Some were with associates or relatives and some were for him, alone. Four, including MKM, were placed in receivership. MKM never filed any GST reports or paid any GST installments. Moreover, all of MKM’s income tax returns were filed late. Its two 1993 income tax returns were signed by Mr. McKinney, as a director, on June 24, 1998 and then filed. (Exhibits R-30 and R-31) The later ones (from 1994 to 1999, inclusive, Exhibits R-32 – R-37) were signed by him as president, on August 16, 2004 and then filed. Mr. McKinney also signed a bailiff acknowledgement letter dated May 26, 2000 as a director of MKM. (Exhibit R- (Appellant’s Book) 35). He never resigned his directorship of MKM and, in fact, personally managed MKM on a daily basis and continued to do so even when he was subject to his depression. The testimony of Mr. McKinney is that MKM’s bookkeepers did not do corporate operating statements. Rather, he, himself kept a rough balance statement of MKM’s financial operations; none of these were placed in evidence. However, MKM’s bookkeepers completed its withholding remittance forms. Mr. McKinney testified that he would see the statement of wages due and would decide if remittances would be paid.
+[20] Mr. McKinney’s appeal is premised partly on the basis that if the $201,000 sale had proceeded to Mr. Upper, almost all of CRA’s claim at that time would have been paid. However, he testified that some of the equipment subject to the offer was owned by CITC, and not MKM. That sale was delayed by Court applications instituted by Mr. McKinney. All of this occurred after MKM went out of business in the spring of 1998 and, more particularly, long after any opportunity to prevent the failure to withhold and remit remissions had passed.
+[21] Mr. McKinney failed to provide any evidence of efforts by him to prevent MKM’s failure to pay the withholdings in the years 1994 to 1998, except for the granting of the security documents described and exhibited. But these were also after failures to withhold by MKM, and its failures on then current remissions continued during the actual operation of the proposal.
+[22] Mr. McKinney also claimed that no interest is due and payable to the MNR after the date of the mortgage (Exhibit A-24). The only signature in evidence of any party to that transaction is that of Mr. McKinney on the mortgage document itself, which specifies that $156,385.76 is owed to the MNR and $87,429.55 is owed to WCBC. The interest and interest rate clauses in paragraph 1.1 of the mortgage are struck out and initialed. That clause is also struck out and initialed by someone in the registration document. However, Patricia Clements testified that the abeyance of interest is only for the period when the proposal commences and remains valid. Upon the failure of MKM to fulfill the terms of the proposal, and subsequent proceedings having occurred, the interest accrued back to the original date. That failure occurred when CRA attached MKM’s Bank of Montreal account after MKM failed to remit the then current withholdings due. The Court finds that, based upon the provisions of the Income Tax Act, once the proposal failed the provisions of the Income Tax Act remained in effect and the proposition put forth by Ms. Clements is correct, with the result that the interest is due and payable as assessed. This occurs in part because, in any event, estoppel on account of that agreement does not apply against the Crown.
+[23] The evidence is that at all material times Mr. McKinney was the operating officer and director of MKM. During that time, he never did anything to prevent the failure of MKM to remit the unpaid employee withholdings. He did not exercise any care, diligence or skill to prevent that failure. In fact, he used these withholdings to pay other MKM operating expenses with full knowledge that those withholdings should have been paid to the MNR. This continued even through his depression when he continued to operate MKM and sign various documents, some of which are in evidence. Therefore, this aspect of the appeal is found against Mr. McKinney and in favour of the Respondent.
+[24] As an alternative to the foregoing ground of appeal, Mr. McKinney’s counsel argued that the MNR received full or partial satisfaction as a consequence of the proposed sale for $201,000 which was never realized. The Court finds in favour of the Respondent in respect of this ground because that offer to purchase was withdrawn before the Order for Sale was complied with or the sale was completed. Moreover, part of the reason for the delay respecting that offer was because of Mr. McKinney’s own legal manoeuvres to prevent the offer from being accepted. Finally, the $201,000 was offered, in part, for equipment on MKM’s premises that Mr. McKinney alleged was owned by CITC with the result that part of the $201,000 would in fact have been paid to CITC had the sale proceeded.
+[25] A further alternative put forth by Mr. McKinney’s counsel relates to the final distribution of the proceeds of the sale of MKM’s land and buildings by the trustee in bankruptcy. They were received by CRA in the amount of $72,015.25 and distributed by CRA as follows:
+64.14% to MNR
+35.86% to WCBC
+after the costs of proceedings. This distribution was calculated by Ms. Clements, the collections officer, based upon the amounts and proportions agreed to by WCBC and CRA at the time of the proposal by MKM and the mortgage (Exhibit A-24) and general security agreement (Exhibit A-26) agreed to and granted by MKM to the MNR and WCBC in the course of the proposal. These remained as charges against MKM’s property even after the proposal failed. They continued in place until the final sale. The distribution, including the payment of disbursement of the proceeds, was all from the land secured by the mortgage and distributed in accordance with the terms of the mortgage. A right to foreclose the mortgage arose upon default of the proposal.
+[26] Mr. McKinney complained about the deterioration of the land and buildings during the interval from the close of MKM’s business in 1998 to the appointment of the trustee in bankruptcy on October 1, 2003 to the sale of the land and buildings to McQuaig’s by the trustee for a realization of $100,000 in 2004. The payment of the net proceeds of the sale of $72,015.25 was made by the trustee to CRA as per a “deemed trust” in about November of 2004. (See Exhibit R-38). However, Mr. McKinney has no ground for complaint. The Court finds that the delays were due to Mr. McKinney’s legal manoeuvres and his continuing discussions with CRA to renegotiate the amount in question, and to question or delay a sale, and to promise future payments which did not occur, all as testified to by Mr. McKinney, Mr. Chorneyko, and Ms. Clements.
+[27] Mr. McKinney’s counsel argued that, at the very least, the proceeds of $72,015.25 received by CRA from the trustee should be entirely credited against the MNR’s claim. He based this argument upon subsections 227(4) and (4.1) of the Income Tax Act which he argued give the MNR “super priority” over other creditors including WCBC. However, the Court finds that the proceeds of the sale of the land and buildings were subject to the mortgage executed by MKM on May 21, 1997 and were paid as designated therein by MKM. The MNR, WCBC and MKM agreed to this in the course of MKM’s proposal. The considerations passing between the parties were that MKM received time to recover and pay, and the MNR and WCBC received security as of that date which prevented MKM from executing a surreptitious transfer of its property which was located in rural British Columbia. MKM is bound by that agreement to the extent of the realization of that security and MKM is estopped to that extent. For this reason this argument is dismissed.
+[28] At the opening and closing of the hearing Respondent’s counsel stated that the appeal should be allowed to credit the Appellant with the sum of $43,503.77 on account of this assessment and the assessment should be submitted to the MNR for reconsideration and reassessment on that basis. That is so adjudged.
+[29] The Respondent is awarded its party and party costs.
+Signed at Ottawa, Canada this 22nd day of May, 2008.
+“D.W. Beaubier”
+Beaubier, D.J.
+CITATION: 2008TCC287
+COURT FILE NO.: 2005-236(IT)G
+STYLE OF CAUSE: Kevin McKinney v. The Queen
+PLACE OF HEARING: Kelowna, British Columbia
+DATE OF HEARING: April 28, 29 and 30 and May 1, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier,
+Deputy Judge
+DATE OF JUDGMENT: May 22, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Timothy W. Clarke
+Counsel for the Respondent:
+Johanna Russell
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Timothy W. Clarke
+Firm: Bull, Housser & Tupper LLP
+Vancouver, British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

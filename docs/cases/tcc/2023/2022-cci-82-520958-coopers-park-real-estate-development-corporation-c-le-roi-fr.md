@@ -1,0 +1,502 @@
+---
+title: "Coopers Park Real Estate Development Corporation c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520958/index.do"
+last_modified: "2023-06-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 82"
+citation2: ""
+neutral_citation: "2022 CCI 82"
+decision_date: "2023-06-12"
+language: "fr"
+item_id: "520958"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4485
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:25:32.871000+00:00"
+cases_cited_count: 28
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bb25aa0dd093defcefa0e4fa926b6c343cd074e66f99f4c8bb0c3e1a14f346e3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Coopers Park Real Estate Development Corporation c. Le Roi
+
+- Citation: 2022 CCI 82
+- Decision date: 2023-06-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4485, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Coopers Park Real Estate Development Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-07-15
+Référence neutre
+2022 CCI 82
+Numéro de dossier
+2014-4504(IT)G
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-4504(IT)G
+ENTRE :
+COOPERS PARK REAL ESTATE
+DEVELOPMENT CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 10 mai 2022, à Toronto (Ontario)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocats de l’appelante :
+Me Martin Gentile
+Me Kristen Duerhammer
+Me Marta Porodko
+Avocats de l’intimée :
+Me Michael Taylor
+Me Alexander Wind
+ORDONNANCE
+ATTENDU QUE l’appelante a présenté une requête en vue d’obtenir :
+a)une ordonnance enjoignant à l’intimée de répondre, dans les 30 jours suivant la date de l’ordonnance, aux questions auxquelles elle a refusé de répondre lors de l’interrogatoire préalable ou auxquelles elle n’a donné que de vagues réponses;
+b)les dépens de la présente requête;
+c)toute autre mesure de réparation que l’avocat pourrait demander et que notre Cour pourrait estimer juste.
+ET APRÈS avoir examiné les éléments de preuve par affidavit et les observations orales et écrites des avocats de l’appelante et de l’intimée;
+CONFORMÉMENT aux motifs de l’ordonnance ci-joints (les « motifs »), la Cour ordonne :
+l’intimée devra fournir à l’appelante :
+les documents sous scellés (tels que définis dans les motifs), sous réserve du caviardage de tous les renseignements identificatoires de tiers;
+les documents du Comité de la règle générale anti-évitement (RGAÉ), tels que définis dans les motifs, sous réserve du caviardage de tous les renseignements identificatoires de tiers et sous réserve de toute prétention au privilège du secret professionnel de l’avocat que l’intimée pourrait invoquer;
+si l’intimée souhaite invoquer le secret professionnel de l’avocat relativement à un ou à plusieurs des documents mentionnés au paragraphe 1 de la présente ordonnance, l’intimée présentera le ou les documents à la Cour dans une enveloppe scellée afin que la Cour puisse déterminer si le privilège du secret professionnel de l’avocat s’applique;
+les dépens afférents à la présente requête suivront l’issue de l’instance.
+Signé à Ottawa, Canada, ce 15e jour de juillet 2022.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 17e jour d’avril 2023.
+François Brunet, réviseur
+Référence : 2022 CCI 82
+Date : 20220715
+Dossier : 2014-4504(IT)G
+ENTRE :
+COOPERS PARK REAL ESTATE
+DEVELOPMENT CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Owen
+I. Faits et procédures A. Les nouvelles cotisations visées par le présent appel Le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations pour les années d’imposition 2007, 2008 et 2009 de l’appelante (les « années d’imposition ») afin d’appliquer la règle générale anti-évitement (la « RGAÉ ») prévue à l’article 245 de la Loi de l’impôt sur le revenu (la « LIR »), ce qui a donné lieu au rejet de reports prospectifs de pertes, de reports prospectifs de crédits d’impôt à l’investissement (CII) ainsi que de déductions au titre des activités de recherche scientifique et de développement expérimental (RS&DE) qui avaient été demandés par l’appelante pour les années d’imposition en cause. Les sommes refusées sont décrites comme suit, au paragraphe 12 de la réponse modifiée déposée par le ministre :
+Année d’imposition
+Pertes autres que des pertes en capital
+RS&DE
+CII
+31 décembre 2007
+24 105 172 $
+Aucune
+219 679 $
+31 décembre 2008
+41 789 445 $
+Aucune
+Aucun
+31 décembre 2009
+389 429 $
+1 337 644 $
+262 979 $
+B. La requête L’appelante a présenté une requête en ordonnance :
+a)enjoignant à l’intimée de répondre, dans les 30 jours suivant la date de l’ordonnance, aux questions auxquelles elle a refusé de répondre lors de l’interrogatoire préalable ou auxquelles elle n’a donné que de vagues réponses;
+b)en dépens de la présente requête;
+c)toute autre mesure de réparation que l’avocat pourrait demander et que notre Cour pourrait estimer juste.
+Les motifs de la requête sont exposés ci-après :
+a)L’appelante a procédé à l’interrogatoire préalable de l’intimée les 18, 19 et 20 janvier 2021;
+b)l’intimée a refusé de répondre à des questions légitimes, qui ont été posées durant l’interrogatoire préalable et qui sont exposées dans l’annexe jointe;
+c)les questions sont pertinentes quant aux questions en litige exposées dans les actes de procédure;
+d)les réponses à ces questions permettront à l’appelante de connaître les moyens qui lui sont opposés;
+e)les réponses à ces questions permettront raisonnablement à l’appelante de rechercher les éléments qui pourraient, soit aller dans le sens de ses moyens, soit de réfuter ceux de l’intimée;
+f)il serait juste et approprié, dans les circonstances, d’accorder la mesure demandée par l’appelante;
+g)les articles 65, 95, 107 et 110 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »);
+h)toute autre motif que l’avocat pourrait invoquer et que notre Cour pourrait estimer juste.
+Le dossier de requête modifié de l’appelante a été signifié à l’intimée le 28 avril 2022. La table des matières comporte les éléments suivants :
+Onglet
+Document
+Page
+1.
+Avis de requête daté du 28 février 2022
+1
+2.
+Avis d’appel daté du 11 décembre 2014
+6
+3.
+Réponse modifiée datée du 10 mars 2022
+17
+4.
+Déclaration sous serment de Kristina Ilogon avec pièces, daté du 28 février 2022
+44
+5.
+Extraits de l’interrogatoire préalable de Robert Simms, tenu les 18, 19 et 20 janvier 2021
+103
+6.
+Pièces de l’interrogatoire préalable de Robert Simms, tenu les 18, 19 et 20 janvier 2021
+158
+L’onglet 1 du dossier de requête modifié de l’appelante comprend l’avis de requête. L’annexe I de l’avis de requête (l’« annexe ») décrit la requête de l’appelante en ces termes :
+No
+Question no
+Pages du dossier de requête
+Lignes
+Question
+Motif du refus de l’intimée
+1.
+63
+104 à 107
+3-1
+Fournir l’intégralité du dossier d’audit de l’Agence du revenu du Canada qui ne figure pas dans le dossier papier et qui n’a pas encore été produit.
+Pertinence et renseignements de tiers
+2.
+151
+112 à 115
+22-11
+Décrire la variante dont il est fait mention dans la réponse GA 4R de l’administration centrale.
+Pertinence
+3.
+171
+Suivi
+no 5
+120 à 122
+72
+18-8
+Fournir des documents utilisés par Dave Robbins pour comparer l’affaire de l’appelante à d’autres affaires.
+Pertinence
+4.
+171
+Suivi
+no 6
+120 à 122
+72 et 73
+18-8
+Fournir des documents renvoyant à une cause type, qui ont été produits durant des rencontres entre Dave Robbins et Len Lubbers.
+Pertinence
+No
+Question no
+Pages du dossier de requête
+Lignes
+Question
+Motif du refus de l’intimée
+5.
+171
+Suivi
+no 7
+120 à 122
+73
+18-8
+Fournir les documents renvoyant à une cause type, qui ont été produits durant des rencontres entre Dave Robbins et Tim Randall.
+Pertinence
+6.
+171
+Suivi
+no 8
+120 à 122
+74 et 75
+18-8
+Fournir des renseignements sur la typologie des méthodes couramment utilisées par l’Agence du revenu du Canada.
+Pertinence
+7.
+171
+Suivi
+no 11 et 12
+120 à 122
+76 et 77
+18-8
+Fournir des documents qui ont été produits lors de réunions du Comité de la RGAÉ et d’autres réunions, et au cours desquelles des dossiers portant sur la débâcle technologique ont fait l’objet de discussions, avec présentation de graphiques sur tableau blanc.
+Pertinence
+8.
+171
+Suivi
+no 13
+120 à 122
+77 et 78
+18-8
+Fournir des documents produits durant les réunions du Comité de la RGAÉ.
+Pertinence
+Je qualifierai les refus définis à l’annexe de « refus contestés ».
+II. Analyse A. Les Règles Les dispositions des Règles qui sont pertinentes quant à l’examen de la requête de l’appelante comprennent les articles 95, 105 et 110 ainsi que les paragraphes 4(1), 107(1) et 107(3), qui prévoient ce qui suit :
+4(1) Les présentes règles doivent recevoir une interprétation large afin d’assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse.
+95(1) La personne interrogée au préalable répond, soit au mieux de sa connaissance directe, soit des renseignements qu’elle tient pour véridiques, aux questions pertinentes à une question en litige. [...] Elle ne peut refuser de répondre pour les motifs suivants :
+a) le renseignement demandé est un élément de preuve ou du ouï-dire;
+b) la question constitue un contre-interrogatoire, à moins qu’elle ne vise uniquement la crédibilité du témoin;
+c) la question constitue un contre-interrogatoire sur la déclaration sous serment de documents déposée par la partie interrogée.
+95(2) Avant l’interrogatoire préalable, la personne interrogée doit faire toutes les recherches raisonnables portant sur les points en litige auprès de tous les dirigeants, préposés, agents et employés, passés ou présents, au Canada ou à l’étranger; si cela est nécessaire, la personne interrogée au préalable peut être tenue de se renseigner davantage et, à cette fin, l’interrogatoire préalable peut être ajourné.
+95(3) [Abrogé, DORS/2014-26, art. 10]
+95(4) Sauf ordonnance contraire de la Cour, une partie qui interroge au préalable peut obtenir la divulgation des noms et adresses des personnes dont on pourrait raisonnablement s’attendre à ce qu’elles aient connaissance des opérations ou des situations en litige en l’instance.
+105(1) Sauf consentement des parties ou directive contraire de la Cour, la personne qui doit être interrogée apporte à l’interrogatoire et produit, à des fins d’examen :
+a) lors d’un interrogatoire préalable, tous les documents qu’elle est tenue d’apporter en application du paragraphe 85(3);
+b) lors de tout autre interrogatoire, tous les documents qu’elle est tenue d’apporter en vertu du paragraphe 105(3).
+105(2) Sauf directive contraire de la Cour, si une personne reconnaît, au cours d’un interrogatoire, qu’un document non privilégié qui se rapporte à une question en litige dans l’instance se trouve en sa possession, sous son contrôle ou sous sa garde, elle le produit, à des fins d’examen par la partie interrogatrice, immédiatement, si elle l’a avec elle, sinon, dans un délai de dix jours.
+105(3) Sauf directive contraire de la Cour, l’avis de convocation ou le subpœna peut exiger que la personne qui doit être interrogée apporte à l’interrogatoire et produise, à des fins d’examen :
+a) soit tous les documents et objets non privilégiés pertinents à une question en litige dans l’instance et qui se trouvent en sa possession, sous son contrôle ou sous sa garde;
+b) soit les documents ou objets visés à l’alinéa a) et qui sont précisés dans l’avis ou le subpœna.
+107(1) La personne qui s’oppose à une question expose brièvement le motif de son objection. La question et l’exposé de l’opposant sont consignés.
+[...]
+107(3) La Cour peut, à la suite d’une requête, décider du bien-fondé d’une question qui a fait l’objet d’une objection et à laquelle il n’a pas été répondu.
+110 Si une personne ne se présente pas à l’heure, à la date et au lieu fixés pour un interrogatoire dans l’avis de convocation ou le subpœna, ou à l’heure, à la date et au lieu convenus par les parties, ou qu’elle refuse de prêter serment ou de faire une affirmation solennelle, de répondre à une question légitime, de produire un document ou un objet qu’elle est tenue de produire ou de se conformer à une directive rendue en application de l’article 108, la Cour peut :
+a) en cas d’objection jugée injustifiée à une question, ordonner ou permettre à la personne interrogée de se présenter à nouveau, à ses propres frais, pour répondre à la question, auquel cas elle doit répondre aussi aux autres questions légitimes qui découlent de sa réponse;
+b) rejeter ou accueillir l’appel, selon le cas, si cette personne est une partie ou, dans le cas d’un interrogatoire préalable, une personne interrogée à la place ou au nom d’une partie;
+c) radier, en totalité ou en partie, la déposition de cette personne, y compris une déclaration sous serment faite par cette personne;
+d) ordonner à toute partie ou à toute autre personne de payer sans délai et personnellement les dépens de la requête, ceux qui ont été engagés inutilement et ceux de la poursuite de l’interrogatoire.
+B. Interrogatoire préalable oral devant la Cour canadienne de l’impôt La requête de l’appelante soulève des questions quant à la portée admissible de l’interrogatoire préalable oral selon les Règles, ainsi qu’à l’interaction entre l’interrogatoire préalable oral et la communication préalable de documents. Dans une décision récente que j’ai rendue dans l’affaire Contractor c. La Reine, 2021 CCI 46, j’ai résumé en ces termes le droit régissant l’interrogatoire préalable oral :
+[16] Sous réserve de l’article 17.3 de la Loi sur la Cour canadienne de l’impôt (la « LCCI »), l’article 92 dispose que l’interrogatoire préalable est fait oralement ou par écrit, au gré de la partie interrogatrice. Que l’interrogatoire préalable soit fait oralement ou par écrit, il consiste à poser des questions et à obtenir des réponses. [Note de bas de page : voir, par exemple, les paragraphes 95(1), 96(1) et 98(1), ainsi que les articles 97 et 113 à 116.]
+[17] Dans l’arrêt Lehigh Cement Ltd. c. Canada, la Cour d’appel fédérale indique les objectifs de l’interrogatoire préalable oral : [note de bas de page : 2011 CAF 120 (« Lehigh »)]
+a) permettre à la partie qui interroge de connaître la thèse à laquelle elle doit répondre;
+b) permettre à la partie qui interroge d’obtenir des aveux qui la dispenseront de faire une preuve formelle;
+c) obtenir des aveux susceptibles de réfuter la thèse de la partie adverse;
+d) faciliter les règlements, le déroulement de la procédure préalable à l’instruction et la tenue de l’instruction elle-même;
+e) éliminer ou circonscrire les questions en litige;
+f) éviter les surprises à l’instruction.
+[18] Ces objectifs nous aident, mais n’énoncent pas clairement la portée de l’interrogatoire préalable oral selon les Règles, qui repose sur les termes du paragraphe 95(1) en tenant compte du principe de la proportionnalité. [Note de bas de page : Canada (Revenu national) c. Cameco Corporation, 2019 CAF 67, par. 42.]
+[19] Pour être autorisée aux termes du paragraphe 95(1), une question doit satisfaire à deux conditions : elle doit être légitime et elle doit être pertinente à une question en litige dans l’instance. Pour assurer une application cohérente de ces conditions ailleurs dans les Règles portant sur l’interrogatoire préalable, lorsque l’on utilise l’expression « question légitime » [note de bas de page : voir l’article 110 (passage introductif), les paragraphes 96(1) et 116(2) et 116(4) et les alinéas 100(6)d) et 110a). En outre, les alinéas 108(1)a) et 117a) renvoient à des « questions injustifiées », ce qui, dans le présent contexte, ne peuvent désigner que des questions qui ne sont pas légitimes], l’expression devrait être interprétée comme étant une question qui est à la fois légitime et pertinente. [Note de bas de page : voir, de façon générale, Charlebois c. Saint John (Ville), [2005] 3 R.C.S. 563, 2005 CSC 74, par. 21.]
+[20] Dans l’arrêt Lehigh, la Cour d’appel fédérale décrit ainsi la portée de l’interrogatoire préalable autorisé selon les Règles :
+Pour déterminer la portée de l’interrogatoire préalable autorisé, il convient d’examiner le contexte factuel et procédural de l’affaire, en tenant compte des principes juridiques applicables. [Note de bas de page : au paragraphe 24. Il n’est pas surprenant que cette approche générale soit très semblable à celle pour décider si une question est pertinente.]
+[21] Dans l’arrêt Lehigh, la Cour explique le pouvoir discrétionnaire de la Cour canadienne de l’impôt d’interdire des questions, même si elles sont « pertinentes » selon le paragraphe 95(1) des Règles :
+Lorsque la pertinence est établie, la Cour conserve le pouvoir discrétionnaire de refuser de permettre une question. Pour exercer ce pouvoir discrétionnaire, il convient de soupeser la valeur possible de la réponse au regard du risque qu’une partie abuse du processus de communication préalable. [...] La Cour peut refuser d’autoriser une question pertinente lorsque la réponse exigerait trop d’efforts et de dépenses de la part de la partie à laquelle elle est posée, lorsqu’il y a d’autres moyens d’obtenir les renseignements sollicités ou lorsque la question fait partie d’une « recherche à l’aveuglette » de portée vague et étendue. [Note de bas de page : au paragraphe 35.]
+[...]
+[23] En ce qui concerne l’exigence de la pertinence à une question en litige, la Cour de l’impôt a déclaré ce qui suit dans la décision Teelucksingh v. The Queen [note de bas de page : 2010 TCC 94 (« Teelucksingh »)] :
+[traduction] L’interrogatoire préalable est un interrogatoire au sujet de l’information et des croyances de l’autre partie quant aux faits pertinents aux questions en litige, telles qu’elles sont définies dans les actes de procédure. [Note de bas de page : au paragraphe 15, alinéa (i).]
+[24] Lors de l’examen des actes de procédure à cette fin, ils devraient être interprétés avec une latitude raisonnable [note de bas de page : Gordon D. Cudmore, Choate on Discovery, 2e éd. (Scarborough (Ontario), Carswell, 1993) (feuillets mobiles, mis à jour en 2018, version 6), à la section 2.16, page 2-76.12] et en tenant compte du droit de fond. [Note de bas de page : Sidney N. Lederman, Alan W. Bryant et Michelle K. Fuerst, Sopinka, Lederman & Bryant, The Law of Evidence in Canada, 5e éd. (Markham (Ontario), LexisNexis, 2018), au paragraphe 2.47.]
+[25] Les questions posées lors de l’interrogatoire préalable oral doivent être pertinentes aux questions en litige entre la partie interrogée [note de bas de page : en général, on interroge une partie s’il s’agit d’un particulier, et on interroge un représentant nommé par la partie s’il ne s’agit pas d’un particulier. Les paragraphes 93(5), (6) et (7) énoncent des exceptions] et la partie interrogatrice. Dans un appel en matière d’impôt sur le revenu aux termes du paragraphe 169(1) de la LIR, la question centrale entre l’appelant et l’intimée est le bien‐fondé de la cotisation ou de la nouvelle cotisation qui fait l’objet d’un appel [note de bas de page : Main Rehabilitation Co. Ltd c. La Reine, 2004 CAF 403, par. 6 à 8 et Johnson c. La Reine, 2015 CAF 52, par. 3 à 6] et, par conséquent, en règle générale, on peut poser des questions sur les faits qui, directement ou indirectement [note de bas de page : un fait indirectement pertinent est, par exemple, un fait qui est pertinent pour ce qui est de la crédibilité], sont pertinents à cette question centrale.
+[26] En ce qui concerne le lien qu’exige l’exigence qu’une question soit pertinente à une question en litige [note de bas de page : paragraphe 95(1)], dans l’arrêt Lehigh, la Cour d’appel fédérale déclare au paragraphe 34 :
+Il appert de la jurisprudence qu’une question est pertinente lorsqu’il est raisonnablement possible qu’elle mène à l’obtention de renseignements pouvant directement ou indirectement permettre à la partie qui sollicite la réponse de faire valoir ses arguments ou de réfuter ceux de son adversaire ou de la lancer dans une enquête qui pourra produire l’un ou l’autre de ces effets.
+[27] Récemment, dans l’arrêt Madison Pacific Properties Inc. c. La Reine [note de bas de page : 2019 CAF 19 (« Madison »)], la Cour d’appel fédérale a confirmé l’approche établie dans l’arrêt Lehigh :
+Dans l’arrêt Lehigh, notre Cour conclut que la Cour de l’impôt a appliqué le critère de communication préalable adéquat pour une affaire de cette nature, critère selon lequel est pertinente, à l’étape de la communication préalable, la question ou la demande de production en litige s’il est raisonnablement plausible qu’elle mène à l’obtention de renseignements susceptibles de permettre à la partie qui sollicite la réponse de faire valoir ses arguments ou de réfuter ceux de son adversaire. [...] [Note de bas de page : Madison, par. 23.]
+[28] L’interrogatoire préalable n’autorise pas une recherche à l’aveuglette. Plus précisément, les questions qui constituent une recherche à l’aveuglette ne sont pas légitimes, soit parce que leur portée est trop vaste ou qu’elles sont un recours abusif à l’interrogatoire préalable, soit parce qu’elles n’ont aucun lien avec les questions en litige dans l’instance, soit les deux. [Note de bas de page : voir, par exemple, Madison, par. 19, où la question en cause a été qualifiée de demande « vague, large et mal définie [...] à laquelle il aurait été difficile de répondre ».] Les faits et les circonstances permettront de tirer la conclusion appropriée. [Note de bas de page : Lehigh, par. 24.]
+[29] Les questions en litige dans une instance peuvent comprendre le droit ou une politique. Dans l’arrêt R. c. CHR Investment Corporation [note de bas de page : 2021 CAF 68 (« CHR »)], la Cour d’appel fédérale a déclaré, aux paragraphes 25 et 31, que le paragraphe 95(1) permettait de poser des questions pour déterminer la position juridique de la partie adverse et que la personne interrogée est tenue répondre aux questions. [Note de bas de page : voir aussi l’arrêt Teelucksingh, par. 15, alinéa (ix).]
+[30] Dans l’arrêt Madison, la Cour d’appel fédérale a fait observer que les documents qui expliquent une prétendue politique qui sous‐tend la LIR étaient peu pertinents et probablement irrecevables à l’audience parce que « la question de la politique qui sous-tend la LIR que le contribuable est présumé avoir contournée constitue, essentiellement, une question de droit ». [Note de bas de page : au paragraphe 28.]
+[31] D’après les arrêts CHR et Madison, l’interrogatoire préalable peut servir à établir les faits d’une position juridique donnée pertinente à une question en litige. En revanche, toute déclaration au sujet de cette position n’a aucune incidence sur la question de savoir si la position juridique est exacte ou pertinente.
+[32] Il sera souvent relativement facile de décider si une question satisfait ou non aux conditions prévues au paragraphe 95(1) des Règles, c’est‐à‐dire si elle est pertinente. Cependant, en cas de doute, conformément aux objectifs de l’interrogatoire préalable énoncés dans l’arrêt Lehigh, il est généralement préférable d’autoriser la question. Le juge du procès peut alors décider si la réponse (le cas échéant) à la question sont admissibles à l’audition de l’appel.
+L’appelante se fonde en grande partie sur les observations suivantes qui ont été formulées ou retenues par le juge de la Cour de l’impôt dans l’affaire HSBC Bank Canada v. R, 2010 TCC 228 (« HSBC ») :
+[traduction] 13 Les deux parties ont fourni des résumés utiles de la manière dont la Cour a réglé par le passé la question de la portée des interrogatoires préalables. La juge Valerie Miller a ainsi résumé récemment certains des principes dans la décision Kossow c. La Reine [note de bas de page : 2008 D.T.C. 4408] :
+[...]
+6. Une partie a droit à la communication intégrale de tous les documents sur lesquels le ministre s’est fondé pour établir sa cotisation : Amp of Canada Ltd. c. Canada.
+[...]
+15 Enfin, dans la décision récente 4145356 Canada Limited c. La Reine [note de bas de page : 2009 CCI 480], je suis arrivé aux conclusions suivantes :
+a) les documents ayant mené à la cotisation sont pertinents;
+b) les documents dans le dossier de l’ARC au sujet d’un contribuable sont en principe pertinents, et une demande visant la production de ces documents n’est pas en soi trop générale ou vague;
+[...]
+Comme pour tous les principes généraux qui portent sur des questions qui ne peuvent être résolues qu’en tenant compte des faits et des circonstances propres à une affaire, on peut appliquer ces principes littéralement pour contourner l’analyse des faits et des circonstances qui doit être faite afin de résoudre ces questions, ou pour se soustraire à cette analyse.
+À cet égard, il importe de tenir compte du contexte dans lequel chacun de ces principes a été formulé. Dans le jugement Kossow c. La Reine, 2008 CCI 422 (« Kossow »), par exemple, la juge de la Cour de l’impôt cite la jurisprudence Amp of Canada, Ltd. c. Canada, 1987 Carswell Nat 349 (C.F. 1re inst.) (« Amp »), pour faire valoir le principe selon lequel « [u]ne partie a droit à la communication intégrale de tous les documents sur lesquels le ministre s’est fondé pour établir sa cotisation[1] ». [Non souligné dans l’original.]
+En ce qui concerne l’affaire Amp, le juge Collier devait se prononcer sur le prix de transfert; le représentant du ministre avait alors déclaré, lors de l’interrogatoire préalable, [traduction] « que des analyses comparatives avaient été faites avec des concurrents du demandeur » et que « ces comparaisons étaient fondées sur les états financiers et les déclarations de revenus de ces trois entreprises[2] ». Les documents sur lesquels le représentant du ministre a reconnu s’être fondé pour établir les cotisations du contribuable étaient directement et largement pertinents quant à l’examen de la principale question de fait soulevée par l’appel interjeté par ce contribuable relativement au prix de transfert.
+Dans le jugement 4145356 Canada Limited c. La Reine, 2009 CCI 480 (« 4145356 »), le juge de la Cour de l’impôt a cité Kossow et Concept Plastics Limited c. La Reine, 2009 CCI 79 (« Concept Plastics »), pour étayer le principe selon lequel « les documents contenus dans les dossiers de l’Agence du revenu du Canada qui ont mené à la cotisation sont pertinents » (non souligné dans l’original) et pour étayer ses commentaires ultérieurs concernant la pertinence à première vue.
+Dans l’affaire Concept Plastics, il avait été demandé au juge de la Cour de l’impôt de rendre une ordonnance exigeant la communication intégrale des documents en application de l’article 82 des Règles. Dans l’examen de cette demande, le juge a formulé l’hypothèse suivante :
+[...] si l’ARC a pensé qu’un fait concernant l’appelante qui est survenu pendant l’année d’imposition en cause valait la peine d’être consigné et a décidé que le meilleur endroit pour ce faire était le dossier de l’appelante pour cette année bien précise, alors, de prime abord, le document dans lequel le fait en question est consigné atteint le niveau de pertinence voulu pour qu’il doive être communiqué au cours d’un interrogatoire préalable[3].
+[Non souligné dans l’original.]
+Selon la jurisprudence Concept Plastics, deux conditions doivent être réunies pour établir la pertinence de prime abord : il doit exister un fait « concernant l’appelante qui est survenu pendant l’année d’imposition » et ce fait doit valoir la peine d’être consigné.
+La conclusion selon laquelle un tel document est pertinent à première vue quant aux fins de l’interrogatoire préalable ne prête nullement à controverse. Le juge de la Cour de l’impôt n’a pas conclu que le document était pertinent à première vue parce qu’il avait été versé dans le dossier du contribuable, mais plutôt à cause d’une observation quant à la raison pour laquelle ce document avait été versé dans ce dossier : le dossier du contribuable était le meilleur endroit pour déposer un document consignant un fait concernant le contribuable durant l’année d’imposition en cause.
+Il est également important de reconnaître que la pertinence à première vue diffère de la pertinence. Selon l’expression « à première vue », un fait peut être considéré comme exact jusqu’à preuve contraire. Si la pertinence d’un document est contestée, il doit être établi que ce document est pertinent quant aux fins de l’interrogatoire préalable, compte tenu des faits et des circonstances propres à l’affaire, pour que le document soit communiqué.
+Dans l’affaire 4145356, les conclusions du juge de la Cour de l’impôt au sujet d’un dossier à première vue pertinent soulignent le caractère déterminant des faits et des circonstances :
+[...] La demande de communication des documents contenus dans un dossier de l’Agence du revenu du Canada, dossier à première vue pertinent puisqu’il s’agit d’un dossier du gouvernement relatif à ce contribuable, n’a pas une portée trop étendue ni un caractère trop vague. Si le dossier ne contenait qu’un seul document, l’on pourrait difficilement dire que la demande a une portée étendue. Non, ce n’est pas l’étendue de la réponse, mais la portée de la question. Je ne peux pas conclure que la demande de communication des documents contenus dans le dossier d’un contribuable donné, qui ont mené à une cotisation sur un point précis, est trop large[4].
+[Non souligné dans l’original.]
+Il ressort clairement de ce qui précède que les principes généraux invoqués par l’appelante exigent la prise en compte des faits et des circonstances propres à l’affaire, afin de déterminer si les documents demandés sont pertinents aux fins de l’interrogatoire préalable. Va dans ce sens la doctrine de la Cour d’appel fédérale, laquelle a conclu à maintes reprises que les décisions relatives à l’interrogatoire préalable soulèvent des questions de droit et de fait, susceptibles d’examen selon la norme de l’erreur manifeste et dominante[5].
+Il ne s’agit donc pas de déclarer simplement qu’un document est dans un dossier ou qu’un document a été examiné par le vérificateur de l’Agence du revenu du Canada (l’« ARC »). Quelle que soit la portée de la pertinence aux fins de l’interrogatoire préalable, aucun fait n’est en soi nécessairement suffisant pour conclure qu’un document est pertinent quant à cette fin.
+L’appelante soutient qu’il n’appartient pas au ministre de déterminer la pertinence d’un document. J’abonde dans le même sens.
+Dans l’affaire Paletta c. La Reine, 2017 CCI 233 (« Paletta »), les opérations en cause étaient non seulement dans l’ensemble semblables à des opérations menées par d’autres contribuables, mais il existait également des points communs entre les participants à ces opérations :
+L’ARC a réalisé la vérification d’autres contribuables ayant participé à des opérations semblables aux opérations de change, auxquelles ont également participé Tim et John Hodgins, UCAL, IFX ainsi qu’ODL. Ces vérifications faisaient partie d’un projet coordonné par les fonctionnaires travaillant à l’Administration centrale de l’ARC à Ottawa[6].
+Le juge de la Cour de l’impôt a examiné les questions et les documents connexes que l’appelant avait regroupés en cinq catégories. La première catégorie de questions et de documents connexes portait sur la pertinence d’un rapport préparé par RSD Solutions, qualifié de « rapport de RSD » dans le jugement Paletta. Voici ce que le juge de la Cour de l’impôt a déclaré au sujet du rapport de RSD :
+L’argument de l’avocat de l’intimée est semblable à celui qu’il a présenté concernant les autres questions et documents : l’intimée devrait être tenue de produire uniquement les documents ou, dans le cas du rapport de RSD, les parties de documents que Mme Andrews a examinés et estimé pertinents pour l’établissement de sa position en matière de cotisation. En d’autres termes, je devrais laisser à Mme Andrews le contrôle des documents qui devraient être fournis à la Cour. Je n’accepte pas cet argument, il n’a aucun fondement en droit.
+C’est à la Cour, et non à Mme Andrews, de décider si un document est pertinent. L’appelant a droit à tous les documents qui sont pertinents aux questions soulevées dans les actes de procédure, tant ceux qui appuient la cause de l’intimée que ceux qui y sont défavorables [...][7].
+Le juge de la Cour de l’impôt a conclu en ces termes :
+L’exposé de position constituait le fondement technique du rapport de vérification. Mme Andrews a joint des parties du rapport de RSD, en tant que pièce, à l’exposé de position. Elle a reconnu pendant l’interrogatoire préalable qu’elle s’était fiée au rapport de RSD lorsqu’elle avait élaboré le concept d’une instruction de change normal concernant les opérations de change[8].
+Le juge de la Cour de l’impôt a conclu que le rapport de RSD était « clairement pertinent[9] ».
+L’appelante cite le paragraphe 48 du jugement Paletta pour faire valoir également que l’utilisation d’un document précis pour élaborer une position en matière de cotisation ne constitue pas un facteur déterminant de la pertinence du document. Sur ce point également, je suis de cet avis.
+Le juge de la Cour de l’impôt a formulé l’observation invoquée dans le cadre de la deuxième catégorie de questions et de documents connexes, qui portait sur la communication par le ministre de « divers documents de travail de l’ARC, d’exposés de position et de lettres de proposition d’autres bureaux des services fiscaux (“BSF”) de l’ARC qui ont été examinés et invoqués par Mme Andrews, la vérificatrice de l’ARC qui a vérifié l’appelant[10] ».
+Le juge de la Cour de l’impôt décrit ces documents, de même que les thèses respectives de l’appelant et de l’intimée au sujet de la communication, en ces termes :
+Cette catégorie porte sur les demandes par l’appelant d’exposés de position préparés par les fonctionnaires de l’ARC travaillant à d’autres bureaux de celle-ci. Selon l’appelant, ces bureaux de l’ARC ont fourni les exposés de position en cause à Mme Andrews pour l’aider à faire la vérification de l’appelant.
+L’intimée fait valoir qu’elle ne devrait pas être tenue de produire les exposés de position, parce que Mme Andrews ne s’est pas fiée aux exposés de position en question[11].
+Le juge de la Cour de l’impôt a conclu :
+Mme Andrews a obtenu chacun des documents de cette catégorie afin de tenter de s’assurer que l’ARC avait établi une cotisation d’une [TRADUCTION] « manière uniforme ». Les documents visent clairement les questions soulevées dans les cotisations de l’appelant.
+En outre, Mme Andrews, à divers degrés, a examiné chacun des documents. La question de savoir si elle s’y est fiée au moment d’élaborer sa position en matière de cotisation n’est pas un facteur déterminant. L’appelant a droit aux renseignements qui appuient la position de l’intimée et ceux qui peuvent être défavorables à cette dernière.
+Je souhaite faire remarquer que, contrairement à ce qu’ont fait valoir les avocats de l’intimée, il ressort clairement du dossier que Mme Andrews s’est fiée aux renseignements figurant dans les exposés de position préparés par d’autres bureaux de l’ARC lorsqu’elle a établi la cotisation de l’appelant[12].
+[Non souligné dans l’original.]
+Le juge de la Cour de l’impôt reconnaît que si l’on se fie à un document, cela suppose qu’il comporte des éléments favorables à la cause de l’intimée. Cependant, comme l’a observé le juge de la Cour de l’impôt, l’appelant a droit non seulement aux renseignements qui appuient la position de l’intimée, mais aussi à ceux qui peuvent y être défavorables[13]. Par conséquent, le fait de se fonder sur un document ne constitue pas un facteur déterminant, car il ne porte que sur un aspect de la communication préalable.
+Le juge de la Cour de l’impôt a conclu que les documents avaient été fournis à la vérificatrice de l’ARC pour assurer une position uniforme en matière de cotisations et que la vérificatrice s’est fondée sur ces documents. Eu égard à ces conclusions, les documents étaient pertinents quant aux fins de la communication préalable.
+C. L’interrogatoire préalable oral diffère-t-il dans le cas d’un appel fondé sur la RGAÉ? Dans son appel, l’appelante conteste les nouvelles cotisations fondées sur la RGAÉ. Cela soulève la question de savoir si la portée de la communication diffère selon que l’affaire relève, ou non, de la RGAÉ.
+Comme dans bon nombre d’appels en matière fiscale, un appel portant sur l’application de la RGAÉ soulève des questions de fait, des questions de droit ainsi que des questions mélangées de droit et de fait[14]. L’appel fondé sur l’application de la RGAÉ se distingue principalement du fait que le ministre doit cerner « l’objet ou l’esprit des dispositions qui auraient été contournées[15] » (la « politique »), c’est-à-dire l’interprétation que le ministre fait du droit. Dans les appels non fondés sur la RGAÉ, le ministre n’a qu’à énoncer sa position légale ainsi que les dispositions législatives sur lesquelles il s’est fondé pour établir les cotisations faisant l’objet de l’appel[16].
+Cela signifie que, conformément au principe de longue date selon lequel une partie à un appel en matière fiscale peut utiliser l’interrogatoire préalable pour établir les moyens qu’elle aura à réfuter, l’appelante dans un appel fondé sur la RGAÉ a le droit de vérifier et d’examiner la thèse du ministre concernant la politique qui régit l’application de la RGAÉ à sa cause[17]. Il en est ainsi, même si la détermination d’une politique constitue une question de droit.
+Dans l’arrêt Madison, en confirmant la décision du juge de la Cour de l’impôt, la Cour d’appel fédérale a repris les principes en matière de communication qui avaient été consacrés par le juge de la Cour de l’impôt, puis elle a décrit en ces termes l’approche utilisée par ce juge pour décider de la communication d’une politique :
+La Cour de l’impôt a souligné que ces principes autorisent une communication élargie dans le contexte d’un appel fondé sur la RGAE que ce qui pourrait convenir dans d’autres cas. S’appuyant sur les jugements rendus par notre Cour dans l’affaire Canada c. Lehigh Cement Limited, 2011 CAF 120 (Lehigh) et l’affaire Canada c. Superior Plus Corp., 2015 CAF 241 (Superior Plus), la Cour de l’impôt a précisé que les documents qui ne concernent pas expressément un contribuable, mais qui sont liés à la politique qui sous-tend la LIR peuvent faire l’objet d’une ordonnance de divulgation dans certaines circonstances si l’affaire concerne la RGAE. La Cour de l’impôt a cité l’arrêt Lehigh comme exemple d’affaire où une communication élargie est justifiée (motifs, au paragraphe 29). Elle a également indiqué, au paragraphe 32 de ses motifs, que si les ébauches préparées par le ministre ou examinées par les fonctionnaires dans le cadre de la vérification fiscale d’un contribuable ne sont pas normalement visées par une ordonnance de divulgation dans une instance non fondée sur la RGAE, il y a lieu de communiquer les ébauches de documents dans les appels fondés sur la RGAE, car ces documents éclairent le raisonnement que suit le ministre avant d’établir une cotisation et peuvent également éclairer la manière dont le ministre conçoit la politique en question. Ces documents peuvent mener, ajoute-t-elle, à une série de questions qui répondent au critère moins strict de communication préalable dans une instance faisant intervenir la RGAE[18].
+La Cour d’appel fédérale n’a relevé aucune erreur de droit dans l’approche du juge de la Cour de l’impôt; il est donc juste de conclure qu’à la différence des appels non fondés sur la RGAÉ, les ébauches préparées par le ministre ou examinées par les fonctionnaires dans le cadre de la vérification fiscale d’un contribuable doivent être communiquées dans les appels fondés sur la RGAÉ, car elles « éclairent le raisonnement que suit le ministre avant d’établir une cotisation et peuvent également éclairer la manière dont le ministre conçoit la politique en question ».
+Il importe toutefois de souligner que la politique invoquée par le ministre est un fait et que c’est ce fait que le contribuable a le droit de connaître et d’examiner. Dans le jugement Superior Plus Corp. c. La Reine, 2015 CCI 132 (« Superior Plus CCI »), confirmé par 2015 CAF 241 (« Superior Plus »), le juge de la Cour de l’impôt a observé ce qui suit :
+Dans la décision Birchcliff, la Cour canadienne de l’impôt a conclu que la réponse de la Couronne devait obligatoirement énoncer [traduction] « le fait que le ministre se soit fondé sur telle ou telle politique qui sous‑tend les dispositions légales en cause ». La Cour a souligné que cela ne lie pas la Couronne, mais elle a déclaré que [traduction] l’« objectif ultime » consistait à veiller à ce qu’il n’y ait aucune surprise à l’audience. La décision Birchcliff énonce les exigences relatives aux actes de procédure à l’égard de la politique dans une instance mettant en cause la RGAÉ. Il est bien établi que la pertinence lors de la communication préalable est déterminée en fonction des actes de procédure. Il s’ensuit qu’un contribuable devrait avoir le droit de procéder à une enquête concernant la politique que le ministre affirme avoir prise en compte ou sur laquelle il dit s’être appuyé pour établir une cotisation fondée sur la RGAÉ[19].
+[Non souligné dans l’original.]
+En confirmant la décision du juge de la Cour de l’impôt, la Cour d’appel fédérale a observé ce qui suit :
+Comme l’a conclu la Cour dans l’arrêt R. c. Lehigh Cement Limited, 2011 CAF 120 (Lehigh), dans des circonstances analogues, les renseignements relatifs à la politique de la Loi, même s’ils ne portent pas sur un contribuable donné, peuvent être pertinents lors de l’interrogatoire préalable. Nous admettons qu’une considération importante dans cet arrêt était que la Couronne avait elle‑même établi la pertinence des documents dont la communication était demandée en produisant une note de service interne sur le sujet (arrêt Lehigh, au paragraphe 41). Cependant, la pertinence en l’espèce est établie par la conclusion du juge de la Cour de l’impôt que les documents en cause ont été soit préparés lors de la vérification de Superior Plus, soit examinés par des fonctionnaires qui participaient à la vérification (motifs, au paragraphe 19). Nous ne voyons aucune raison de faire une distinction avec l’arrêt Lehigh. Comme toujours, le juge de première instance sera l’arbitre ultime des renseignements recueillis lors de la communication préalable.
+On ne saurait non plus dire que la communication de ces renseignements constitue une intrusion injustifiée dans le processus de délibération de l’ARC, ce qui empêcherait les fonctionnaires de donner des conseils de manière ouverte et franche [...][20].
+L’obligation qu’a le ministre de communiquer les faits de la politique sur laquelle il s’est fondé pour appliquer la RGAÉ estompe forcément la distinction entre le fait (l’énoncé de la politique) et l’analyse juridique (la détermination de la politique). Dans les affaires ne relevant pas de la RGAÉ, l’analyse juridique du ministre ne serait généralement pas visée par l’obligation de communication. En revanche, dans les affaires fondées sur la RGAÉ, l’analyse juridique faite par le ministre pour étayer la politique sur laquelle il s’est fondé fait l’objet d’une communication. Sinon, le droit d’obtenir la communication de la politique se limiterait à la communication de l’énoncé de la politique du ministre, qui devrait déjà figurer dans la réponse.
+Ce droit général d’obtenir la communication de la politique sur laquelle s’est fondé le ministre ne s’étend toutefois pas aux arguments juridiques étayant l’existence de la politique ni à son application aux opérations du contribuable. Dans l’arrêt Ahamed c. Canada, 2020 CAF 213, la Cour d’appel fédérale a dit :
+[traduction] La Cour canadienne de l’impôt a refusé d’ordonner à l’intimée de fournir des renseignements sur les hypothèses de fait portant sur l’objet, l’esprit et le but des dispositions législatives en litige, ainsi que sur la politique qui sous-tend ces dispositions. La Cour s’est fondée en partie sur la notion selon laquelle l’appelante cherchait non seulement à connaître la thèse juridique de l’intimée, mais aussi à obtenir des renseignements sur les arguments juridiques de l’intimée (des renseignements auxquels elle n’a pas droit lors de l’interrogatoire préalable). La Cour canadienne de l’impôt avait conclu que l’intimée avait déjà clairement exposé sa thèse juridique.
+L’appelante est d’avis contraire et allègue que les renseignements qu’elle demande concernent la thèse de l’intimée et qu’ils sont pertinents.
+À mon avis, la Cour canadienne de l’impôt n’a pas commis d’erreur en déclarant que les hypothèses de fait sont des questions qui relèvent de l’acte de procédure, et non de l’interrogatoire préalable, ou en concluant que l’intimée avait déjà exposé sa thèse en droit. L’appelante ne m’a pas convaincu que la Cour canadienne de l’impôt a commis une erreur manifeste et dominante ou une erreur sur une question de droit isolable, en concluant que l’intimée avait déjà clairement exposé sa thèse et qu’ordonner à l’intimée de répondre aux questions en litige inviterait la formulation d’arguments juridiques.
+Au paragraphe 27 de sa décision (ainsi qu’au paragraphe 18 précité), la Cour canadienne de l’impôt renvoie à une observation incidente de l’arrêt Madison Pacific Properties Inc. c. Canada, 2019 CAF 19 (CAF), au paragraphe 28 (MP Properties) pour étayer la conclusion voulant que les questions en litige n’aient aucune pertinence, puisque la question d’interprétation de la loi en litige dans l’appel sous-jacent dont la Cour de l’impôt a été saisi constitue une question de droit, et non une question de fait :
+[27] [...] L’interprétation de ces textes légaux est une question de droit et non une question de fait que la Cour doit trancher en dernier ressort lors du procès, comme le signale la juge Gleason dans l’arrêt MP Properties, au paragraphe 28 mentionné précédemment. L’appelante a le droit de connaître la position de l’intimée sur le droit, mais non pas sur des éléments de preuve sur lesquels elle s’appuie ni son argument juridique. […]
+Je suis d’avis que les observations formulées dans MP Properties et par la Cour canadienne de l’impôt ne devraient pas être interprétées comme signifiant qu’une partie n’a pas le droit, durant l’interrogatoire préalable, d’obtenir des documents pertinents et de poser des questions sur ces documents, simplement parce que ceux-ci portent sur une question de droit. J’interprète plutôt ces observations comme signifiant qu’une partie ne peut pas utiliser l’interrogatoire préalable pour questionner la partie opposée sur les documents au dossier qui étayeront ses arguments juridiques. De telles questions visent essentiellement à connaître les arguments juridiques de la partie adverse, et non la thèse qu’elle cherche à défendre[21].
+En conséquence, les questions portant sur la position juridique de l’intimée sont admissibles, mais celles portant sur les arguments juridiques de l’intimée ne le sont pas. Les arguments juridiques étayant une question de droit[22] doivent uniquement être invoqués devant le juge de la Cour de l’impôt et les cours d’appel, et ils ne conviennent pas au contexte d’un interrogatoire préalable, même dans un appel fondé sur la RGAÉ.
+De plus, bien que l’appelante ait le droit de demander la communication de la politique sur laquelle s’est fondé le ministre pour appliquer la RGAÉ afin de connaître les moyens à réfuter, cette communication ne sera vraisemblablement pas admissible lors de l’instruction, car l’existence ou la non-existence de la politique est une question de droit :
+Je constate également que, de toute façon, les documents en litige sont peu pertinents et probablement irrecevables puisque, selon l’analyse fondée sur la RGAE, la question de la politique qui sous-tend la LIR que le contribuable est présumé avoir contournée constitue, essentiellement, une question de droit. [...][23].
+D. Production de documents lors de l’interrogatoire préalable oral L’alinéa 105(1)a) et le paragraphe 85(3) des Règles énoncent les documents qui doivent être produits lors de l’interrogatoire préalable[24]. Le paragraphe 85(3) renvoie à la liste de documents présentée par la partie interrogée aux termes de l’article 81 ou 82 des Règles, selon le cas, ainsi qu’aux documents produits antérieurement pour examen.
+Les parties à la présente requête souscrivent aux exigences relatives à la communication de documents, qui sont exposées à l’article 81 des Règles et que la Cour d’appel fédérale a décrit en ces termes dans l’arrêt 3488063 Canada Inc. c. Canada, 2016 CAF 233 (« 3488063 ») :
+Il convient de souligner la différence entre l’article 81 et l’article 82. Aux termes de l’article 81, les parties doivent seulement « produire et signifier l’une à l’autre une liste des documents dont chaque partie connaît actuellement l’existence et qui pourraient être présentés comme preuve : a) soit pour établir ou aider à établir une allégation de fait dans un acte de procédure déposé par la partie; b) soit pour réfuter ou aider à réfuter une allégation de fait dans un acte de procédure déposé par une autre partie ». Il s’ensuit que, en application de l’article 81, une partie est tenue de produire seulement une liste des documents sur lesquels elle entend se fonder pour établir ses prétentions ou pour réfuter celles de l’autre partie. L’article 81 n’établit aucune obligation de produire une liste de tous les documents pertinents pouvant se trouver en la possession ou sous le contrôle d’une partie[25].
+Le paragraphe 105(2) des Règles permet à une partie d’obtenir un document dont la production n’est pas autrement exigée aux termes de l’alinéa 105(1)a) et du paragraphe 85(3) des Règles[26]. Le paragraphe 105(2) des Règles est ainsi rédigé :
+Sauf directive contraire de la Cour, si une personne reconnaît, au cours d’un interrogatoire, qu’un document non privilégié qui se rapporte à une question en litige dans l’instance se trouve en sa possession, sous son contrôle ou sous sa garde, elle le produit, à des fins d’examen par la partie interrogatrice, immédiatement, si elle l’a avec elle, sinon, dans un délai de dix jours.
+Le paragraphe 105(2) des Règles impose trois conditions pour qu’une partie obtienne la production d’un document. Premièrement, la personne doit reconnaître, au cours d’un interrogatoire, que le document se trouve en sa possession, sous son contrôle ou sous sa garde. Deuxièmement, le document doit se rapporter à une question en litige dans l’instance[27]. Troisièmement, il ne doit pas s’agir d’un document privilégié. Une partie ne peut refuser de répondre à une question pour éviter que le paragraphe 105(2) s’applique à un document qui se trouve en sa possession[28].
+L’imposition des conditions exposées au paragraphe 105(2) est à la fois juste pour les parties qui acceptent de se soumettre à un interrogatoire aux termes de l’article 81 des Règles et conforme au principe de la proportionnalité. Comme aucune partie n’a soulevé la question de savoir si les conditions exposées au paragraphe 105(2) des Règles avaient été satisfaites en l’espèce, je ne discuterai pas cette question.
+E. Les refus controversés J’examinerai maintenant les questions de l’interrogatoire préalable (nos 63, 151 et 171), exposées dans l’annexe, en tenant compte des principes précités.
+Le point 1 de l’annexe porte sur six documents demandés par l’appelante. L’appelante et l’intimée ont convenu que l’intimée fournirait à la Cour les six documents dans une enveloppe scellée (les « documents sous scellés »), et que la Cour déterminerait ensuite si l’intimée est tenue de communiquer les documents sous scellés à l’appelante.
+Deux des documents sous scellés sont des propositions visant deux contribuables sans lien avec l’espèce, qui énoncent la manière dont l’ARC a interprété les faits dans ces affaires ainsi que l’analyse juridique que l’ARC en a faite. Un autre document sous scellés est une note de service du Comité de la RGAÉ concernant des opérations menées par un troisième contribuable sans lien avec l’espèce. Les deux propositions et la note de service sont structurées d’une manière similaire et elles énoncent la manière dont l’ARC a interprété les faits (notamment les éléments de preuve étayant certains faits) et l’analyse juridique qu’elle en a faite.
+Deux autres documents sous scellés décrivent des opérations menées par un quatrième contribuable sans lien avec l’espèce, mais n’en présentent aucune analyse. Un autre document sous scellés est un jeu de quatre diapositives dont deux décrivent des opérations menées par un cinquième contribuable sans lien avec l’espèce et deux autres diapositives exposent la jurisprudence Copthorne.
+L’appelante a le droit de connaître les moyens qu’elle doit réfuter dans son appel, et « les renseignements relatifs à la politique de la Loi, même s’ils ne portent pas sur un contribuable donné, peuvent être pertinents lors de l’interrogatoire préalable[29] ».
+Cependant, en appliquant ce principe général, il est important de rappeler que les circonstances de fait de ces contribuables n’ayant aucun lien avec l’espèce, et que l’analyse que l’ARC a faite de ces circonstances, n’ont aucune incidence sur les conséquences fiscales de l’appelante, lesquelles dépendent des circonstances de fait propres à l’appelante et de l’analyse qui en est faite. Dans l’arrêt Sinclair c. Canada, 2003 CAF 348, la Cour d’appel fédérale a dit :
+[...] La question dont la Cour de l’impôt est saisie est de savoir si Mme Sinclair a droit à une exonération fiscale en vertu de l’article 87. La Cour de l’impôt doit rendre sa décision en fonction de l’interprétation de cet article et de son application à la situation de l’appelante. Le fait que d’autres personnes aient bénéficié d’une exemption n’a aucune incidence sur l’appel de Mme Sinclair. [...][30].
+Par conséquent, le fait qu’il puisse exister des ressemblances entre les opérations de l’appelante et celles menées par un autre contribuable, ou le fait que l’ARC ait pu analyser ces autres opérations, ne rend pas en soi les renseignements sur ces autres opérations pertinents quant aux fins de l’interrogatoire préalable.
+Dans le jugement Superior Plus CCI, le juge de la Cour de l’impôt a conclu que « le dossier de requête indique que les documents refusés ont été soit préparés directement lors de la vérification effectuée à l’égard de l’appelante, soit examinés par des fonctionnaires de l’ARC qui étaient chargés de procéder à la vérification concernant l’appelante ou qui ont été consultés sur l’application de la RGAÉ[31] ». La Cour d’appel fédérale a expressément invoqué cette conclusion[32] lorsqu’elle a confirmé la décision de la Cour de l’impôt.
+Il ressort des décisions relatives à l’affaire Superior Plus que, pour que des renseignements de tiers soient jugés pertinents aux fins de l’interrogatoire préalable, il doit exister des éléments de preuve montrant que ces renseignements ont à tout le moins été examinés par les fonctionnaires de l’ARC qui ont été chargés de la vérification de l’appelante et de l’établissement de la cotisation à son égard, ou par les fonctionnaires de l’ARC qui ont été consultés au sujet de l’application de la RGAÉ à l’appelante.
+En l’absence de toute indication de pertinence, comme celle relevée par le juge de la Cour de l’impôt dans l’affaire Superior Plus, la recherche de renseignements sur des opérations menées par un contribuable sans lien avec l’affaire ou sur l’analyse que l’ARC a faite de ces autres opérations constitue une « recherche à l’aveuglette », laquelle est généralement considérée comme une demande de production présentée au hasard dans l’espoir de découvrir des renseignements utiles[33].
+Les documents sous scellés figuraient dans le dossier d’audit de l’appelante, bien que sous forme électronique. Dans une lettre adressée à l’avocat de l’appelante, l’avocat de l’intimée déclare que [traduction] « M. Simms dit qu’il a simplement lu ces documents et qu’il n’en a fait aucun usage durant l’audit de l’appelante et que ceux-ci n’ont nullement influencé la cotisation qui a été établie[34] ». L’intimée prétend que les documents sous scellés consistent en des renseignements de tiers et qu’ils ne sont pas pertinents.
+M. Simms[35] reconnaît avoir lu les documents sous scellés et dit que ces documents figuraient dans le dossier d’audit de l’appelante. Je déduis de ces deux faits que M. Simms a examiné les documents sous scellés mais qu’il n’en a pas tenu compte durant l’audit de l’appelante.
+Comme je l’ai mentionné précédemment, la fiabilité n’est pas le critère pour juger de la pertinence. Comme dans l’affaire Superior Plus, l’examen des documents dans le contexte de l’audit de l’appelante est suffisant pour rendre ces documents pertinents aux fins de l’interrogatoire préalable. De plus, bien que j’aie lu les documents sous scellés et que j’estime qu’ils n’ont qu’une faible pertinence, même aux fins de l’interrogatoire préalable, je suis d’avis qu’il est préférable de laisser à l’avocat de l’appelante le soin de juger de la valeur de ces documents.
+Par conséquent, je vais ordonner à l’intimée de fournir les documents sous scellés à l’appelante, sous réserve du caviardage de tous les renseignements identifiant des tiers.
+À la question formulée au point 2 de l’annexe (question no 151), il est demandé à M. Robbins de décrire la variante dont il est fait mention dans une note de service concernant l’appelante, que M. Robbins a envoyée à M. Simms le 24 juillet 2013 (la « note de service de M. Robbins »)[36]. À la première page de la note de service de M. Robbins, immédiatement sous la rubrique [traduction] « La question en litige », figure la mention suivante :
+[traduction] Comme vous l’avez mentionné dans votre renvoi, la question en litige en l’espèce est de savoir si une série d’opérations, comprenant une variante de ce qui est qualifié de débâcle technologique, constitue un échange de pertes abusif.
+[Non souligné dans l’original.]
+La « variante » renvoie manifestement à la version de ce que l’appelante qualifie de série d’opérations de la débâcle technologique. Je ne vois pas comment le fait que l’intimée communique à l’appelante les opérations menées par l’appelante puisse aider l’appelante ou nuire à l’intimée.
+Si l’appelante souhaite obtenir des précisions sur les différences entre les opérations qu’elle-même a menées et d’autres variantes, je ne vois pas comment le fait de connaître l’existence ou la nature de ces autres variantes puisse aider l’appelante ou nuire à l’intimée, en l’absence de faits et de circonstances en sens contraire. La question en litige dans le présent appel porte sur l’application de la RGAÉ aux opérations de l’appelante, et non sur l’application de cette règle à une variante de ces opérations.
+Je conclus donc que la question no 151, qui est énoncée au point 2 de l’annexe, n’est pas pertinente et que l’intimée n’est pas tenue d’y répondre.
+Les points 3 à 8 de l’annexe découlent des demandes de suivi numéros 5 à 8 et 11 à 13, lesquelles découlent d’une seule question (la question no 171) posée durant l’interrogatoire préalable de M. Simms. Les demandes de suivi et les réponses de l’intimée à ces demandes sont exposées dans une lettre datée du 10 décembre 2021, adressée par l’avocat de l’intimée à l’avocat de l’appelante[37].
+Le point 3 de l’annexe décrit la demande de suivi no 5, qui porte sur la production des documents utilisés par M. Robbins pour comparer la situation de l’appelante à celle d’autres contribuables. Les documents qui n’ont pas été communiqués consistent en six documents provenant de dossiers de contribuables sans lien avec l’espèce.
+M. Robbins n’a pas conservé de dossier et n’a fourni qu’une seule réponse aux questions qui lui ont été posées par l’intermédiaire de M. Simms :
+[traduction] Mon souvenir de cette affaire en particulier est très limité. Je ne peux répondre qu’en des termes très généraux et je ne peux pas commenter les aspects techniques des dernières questions, car je ne me rappelle pas les faits précis.
+À l’époque où le groupe de la planification fiscale abusive a été saisie de ce dossier, il avait déjà en main un grand nombre de dossiers liés à la débâcle technologique. À part moi, deux autres fonctionnaires (peut-être, trois, dont Patrice Mallet) travaillaient à ces dossiers. Nous discutions quotidiennement de ces dossiers entre nous (nos bureaux étaient adjacents) afin de nous aider mutuellement, en examinant des organigrammes comparables et en comparant nos interprétations. Aucun dossier n’a donc été étudié en vase clos. Chacun de nous avait une connaissance générale de tous les dossiers liés à la débâcle technologique. Plusieurs fois par semaine, nous rencontrions Len Lubbers, qui était mon gestionnaire à l’époque et qui assurait la direction de ces dossiers. Jim Randall était le gestionnaire d’un autre fonctionnaire affecté aux dossiers de la débâcle technologique et nous discutions également souvent avec lui. Il nous offrait une contre-expertise.
+La procédure à suivre pour que le Comité de la RGAÉ soit saisi d’un dossier n’était pas simple. Trouver un moment où les experts les plus qualifiés des sections des finances, de la justice, des appels, etc. étaient tous disponibles pour discuter d’un dossier particulier représentait tout un défi logistique. À l’époque, comme il y avait tellement de dossiers à l’étude en lien avec la débâcle technologique, lorsqu’un nouveau dossier était présenté, la première question que l’on posait était de se demander comment ce dossier se comparait aux autres et la seule approche logique était de séparer les dossiers entre les cinq (ou quel que soit le nombre) méthodes couramment utilisées pour contourner les règles relatives au changement de contrôle et de présenter les affaires de cette manière. Il n’en demeurait pas moins que chaque affaire était examinée en fonction des faits qui lui étaient propres et que les faits de chaque affaire faisaient régulièrement l’objet de discussions lors de réunions avec présentation de graphiques sur tableau blanc. Je me rappelle avoir assisté aux réunions du Comité de la RGAÉ lorsque ces dossiers étaient discutés[38].
+M. Robbins a déclaré que [traduction] « chaque affaire était examinée au regard des faits propres à chacune et que les faits de chaque affaire faisaient régulièrement l’objet de discussions lors de réunions avec présentation de graphiques sur tableau blanc ». M. Robbins n’a fourni aucun élément indiquant que les documents demandés au point 3 de l’annexe ont été pris en compte ou examinés dans le cadre de l’audit de l’appelante ou de la décision d’appliquer la RGAÉ à l’appelante.
+La note de service de M. Robbins est un résumé de ce qui, selon le ministre, constituent les faits et les circonstances de l’appelante, ainsi que de l’analyse fondée sur le RGAÉ que le ministre a faite de ces faits et circonstances. La politique sur laquelle s’est fondé le ministre est clairement énoncée dans la note de service de M. Robbins.
+Le fait que l’ARC a mis en place un processus de collaboration pour étudier les nombreux dossiers soi-disant liés à la débâcle technologique ne signifie pas, en soi, que les dossiers de contribuables sans lien avec l’espèce soient pertinents aux fins de l’interrogatoire préalable dans le cadre du présent appel. Les connaissances et l’expérience tirées de l’examen d’opérations semblables ne suffisent pas, en soi, pour rendre pertinents les faits substantiels propres à ces autres opérations.
+Je conclus donc que les documents décrits au point 3 de l’annexe ne sont pas pertinents aux fins de l’interrogatoire préalable et que l’intimée n’est pas tenue de les communiquer à l’appelante.
+Les points 4 et 5 de l’annexe consistent en des demandes visant la production de documents qui ont été présentés lors de rencontres entre M. Robbins et deux autres personnes[39] et qui renvoient à une cause type représentant la catégorie dans laquelle l’affaire de l’appelante a été classée.
+Le fait que l’ARC a tenu compte d’une cause type pour une catégorie d’opérations qui étaient semblables à celles menées par l’appelante ne suffit pas, en soi, pour en établir la pertinence aux fins de l’interrogatoire préalable. Il n’y a rien dans le dossier de requête modifié de l’appelante dont il ressort que des discussions que des fonctionnaires de l’ARC pourraient avoir eues au sujet d’une cause type ont été prises en compte durant l’audit de l’appelante ou dans la décision d’appliquer la RGAÉ à l’appelante.
+Je conclus donc que les documents demandés aux points 4 et 5 de l’annexe ne sont pas pertinents aux fins de l’interrogatoire préalable et que l’intimée n’est pas tenue de les communiquer à l’appelante.
+Le point 6 de l’annexe porte sur une demande de renseignements sur la manière dont l’ARC a divisé les différentes opérations en cinq catégories. L’appelante cherche en substance ait à obtenir des renseignements sur le processus d’audit retenu par l’ARC. Le processus d’audit, notamment le classement en catégories de l’ARC des différentes opérations menées par une multitude de contribuables, n’est pas pertinent quant à l’audit de l’appelante ou à la décision d’appliquer la RGAÉ à l’appelante.
+Je conclus donc que l’intimée n’est pas tenue de fournir à l’appelante les renseignements demandés.
+Le point 7 de l’annexe est une demande visant la communication de documents produits durant des rencontres au cours desquelles des dossiers liés à la débâcle technologique ont été discutés à l’aide de graphiques présentés sur un tableau blanc. Cette demande découle d’une déclaration qui a été reproduite ci-dessus et qui a été faite par M. Robbins au sujet du point 3 de l’annexe.
+Voici les réponses que l’intimée a données à cette demande :
+[traduction] Dans la mesure où l’appelante cherche à obtenir des précisions sur des discussions ayant porté sur d’autres contribuables, l’intimée s’oppose à ces demandes, car elle estime que ces renseignements ne sont pas pertinents. [...] Quant à savoir si le dossier particulier de l’appelante a fait l’objet d’une discussion durant ces rencontres, l’administration centrale de l’ARC a indiqué à M. Simms qu’aucune note, aucun dossier, aucun document, etc., portant sur les rencontres et discussions mentionnées par M. Robbins, n’ont été conservés. On ne peut donc pas affirmer avec certitude si le dossier de l’appelante a fait l’objet d’une discussion ou à quel moment, ni qui précisément – de M. Robbins, M. Lubbers, M. Randall, M. Mallet, M. Percival ou Mme Scott – a assisté à ces rencontres.
+[...]
+Dans la mesure où l’appelante cherche à obtenir des précisions sur des discussions ayant porté sur d’autres contribuables, l’intimée s’oppose à ces demandes, car elle estime que ces renseignements ne sont pas pertinents. [...] Quant aux discussions du Comité de la RGAÉ, le dossier de l’appelante n’a pas été expressément étudié lors des réunions de ce Comité (ainsi qu’il est indiqué dans l’exposé de position du vérificateur, qui correspond au document no 19 de l’intimée)[40].
+Je ne vois pas en quoi ces réponses n’offrent pas une réponse intégrale aux demandes de suivi 11 et 12. Dans sa réponse qui a été reproduite précédemment, M. Robbins a déclaré que les discussions à l’aide de graphiques présentés sur tableaux blancs avaient porté sur des affaires individuelles.
+Pour des raisons qui ont été mentionnées précédemment, des documents, qui ont été examinés dans le cadre de discussions portant sur les affaires de contribuables sans lien avec l’espèce, ne sont pertinents aux fins de l’interrogatoire préalable dans le cadre du présent appel que s’il existe des éléments de preuve dont il ressort que ces documents ont été examinés ou pris en compte dans le cadre de l’audit de l’appelante ou de la décision d’appliquer la RGAÉ à l’appelante.
+Plus précisément, cependant, même si les opérations de l’appelante avaient été discutées durant une ou plusieurs des réunions décrites par M. Robbins – un fait qui n’a pas été établi – il n’existe, selon l’intimée, aucune note, aucun dossier, aucun document, etc., sur ces réunions. Par conséquent, je comprends mal ce que l’appelante cherche à obtenir de l’intimée.
+Je conclus donc que l’intimée n’est pas tenue de communiquer à l’appelante les documents demandés au point 7 de l’annexe.
+Le point 8 de l’annexe porte sur la communication de documents qui ont été produits durant des réunions du Comité de la RGAÉ. À la page 2 de la note de service de M. Robbins, sous la rubrique [traduction] « Une affaire semblable », il est indiqué ce qui suit :
+[traduction] Au cours des derniers mois, nous avons examiné une affaire semblable, dans le cadre de laquelle les parties ont convenu d’un plan d’arrangement qui a donné lieu au transfert de la société déficitaire à une nouvelle société ainsi qu’au transfert de cette nouvelle société aux anciens actionnaires de la société déficitaire. [...] Le Comité de la RGAÉ a recommandé l’application de la RGAÉ à titre de position principale. Compte tenu des ressemblances entre cette affaire et la présente affaire, ainsi que de l’absence d’observations, nous n’avons pas soumis votre affaire au Comité de la RGAÉ.
+Je qualifierai cet extrait d’« extrait portant sur une affaire semblable ». Cet extrait montre que l’ARC s’est fondée sur l’analyse que le Comité de la RGAÉ avait faite d’une affaire semblable pour décider d’établir une cotisation à l’égard de l’appelante en appliquant la RGAÉ. L’approche adoptée par l’ARC a écarté la nécessité de soumettre les opérations de l’appelante à une évaluation par le Comité de la RGAÉ. Si le Comité de la RGAÉ avait examiné l’affaire de l’appelante, il ne fait aucun doute que l’appelante aurait eu droit à la communication de tous les documents non privilégiés qui auraient été examinés par le Comité de la RGAÉ pour décider d’établir la cotisation de l’appelante en fonction de la RGAÉ.
+De même, je suis d’avis que l’appelante a droit à tous les documents non privilégiés, qui ont été examinés par le Comité de la RGAÉ pour décider d’appliquer la RGAÉ pour établir la cotisation à l’égard de l’autre contribuable décrit dans l’extrait de l’affaire semblable, car cette décision a directement donné lieu à la décision subséquente d’établir la cotisation de l’appelante en fonction de la RGAÉ. Par conséquent, les documents examinés par le Comité de la RGAÉ pour rendre sa première décision ont en fait jeté les bases de la décision subséquente de l’ARC d’établir la cotisation de l’appelante en se fondant sur la RGAÉ, même si ces documents ne portent pas sur les opérations de l’appelante.
+Je conclus donc que les documents demandés par l’appelante au point 8 de l’annexe, qui ont été examinés lors de la réunion ou des réunions du Comité de la RGAÉ décrites dans l’extrait de l’affaire semblable (les « documents du Comité de la RGAÉ »), sont pertinents aux fins de l’interrogatoire préalable. J’ordonnerai à l’intimée de fournir les documents du Comité de la RGAÉ à l’appelante, sous réserve du caviardage de tous les renseignements identificatoires de tiers et sous réserve de toute prétention au privilège du secret professionnel de l’avocat que l’intimée pourrait invoquer. Dans ce dernier cas, chacun de ces documents devra être présenté à la Cour afin qu’elle détermine si le privilège du secret professionnel de l’avocat s’applique.
+F. Conclusion La requête est accueillie. Il est enjoint à l’intimée de fournir à l’appelante : (i) les documents sous scellés, sous réserve du caviardage de tous les renseignements identifiant des tiers, ainsi que (ii) les documents du Comité de la RGAÉ, sous réserve du caviardage de tous les renseignements identifiant des tiers et sous réserve de toute prétention au privilège du secret professionnel de l’avocat revendiquée par l’intimée. Si l’intimée souhaite invoquer le secret professionnel de l’avocat relativement à un ou à plusieurs documents, elle présentera le ou les documents à la Cour dans une enveloppe scellée afin que la Cour puisse déterminer si le privilège du secret professionnel de l’avocat s’applique.
+Les dépens afférents à la présente requête suivront l’issue de l’instance.
+Signé à Ottawa, Canada, ce 15e jour de juillet 2022.
+« J.R. Owen »
+Le juge Owen
+Traduction certifiée conforme
+ce 17e jour d’avril 2023.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022 CCI 82
+NO DU DOSSIER DE LA COUR :
+2014-4504(IT)G
+INTITULÉ :
+COOPERS PARK REAL ESTATE DEVELOPMENT CORPORATION c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 10 mai 2022
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge John R. Owen
+DATE DE L’ORDONNANCE :
+Le 15 juillet 2022
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Martin Gentile
+Me Kristen Duerhammer
+Me Marta Porodko
+Avocats de l’intimée :
+Me Michael Taylor
+Me Alexander Wind
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Martin Gentile
+Me Kristen Duerhammer
+Me Marta Porodko
+Cabinet :
+KPMG cabinet juridique s.r.l./S.E.N.C.R.L.
+Toronto (Ontario)
+Pour l’intimée :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] Kossow, par. 60, point 6.
+[2] Amp, par. 9 et 10.
+[3] Concept Plastics, par. 5.
+[4] Paragraphe 24.
+[5] Par exemple, Canada c. Lehigh Cement Limited, 2011 CAF 120 (« Lehigh »), par. 24 et 25, et Madison Pacific Properties Inc. c. Canada, 2019 CAF 19 (« Madison »), par. 22 à 25.
+[6] Paletta, par. 36.
+[7] Paletta, par. 22 et 23.
+[8] Paletta, par. 26.
+[9] Paletta, par. 27. Le juge de la Cour de l’impôt formule d’autres observations pour mieux étayer cette conclusion.
+[10] Paletta, par. 15b.
+[11] Paletta, par. 31 et 32.
+[12] Paletta, par. 47, 48 et 49.
+[13] Voir Owen Holdings Ltd v. R, [1997] ACF no 995 (CAF), par. 22, Smithkline Beecham Animal Health Inc. c. Canada, 2002 CAF 229, par. 24 à 26, Lehigh, par. 34 et Madison, par. 23.
+[14] Hypothèques Trustco Canada c. Canada, 2005 CSC 54 (« Trustco Canada »), par. 19, 29, 44 et 46.
+Trustco Canada, par. 64 et 65.
+[16] Voir l’alinéa 49(1)g) des Règles, ainsi que Canada c. CHR Investment Corporation, 2021 CAF 68, par. 25, qui renvoie à l’arrêt Cherevaty c. Canada, 2016 CAF 71, par. 18, lequel, à son tour, renvoie au paragraphe 13 de la décision HSBC qui, elle-même, invoque la décision Six Nations of the Grand River Band v Canada, [2000] OJ no 1431.
+[17] Voir, par exemple, Lehigh, par. 30.
+[18] Madison, par. 12.
+[19] Superior Plus CCI, par. 21.
+[20] Superior Plus, par. 8 et 9.
+[21] Paragraphes 39 à 43.
+[22] La détermination de la politique qui sous-tend la LIR est une question de droit qui doit être tranchée par la cour : Trustco Canada, par. 44. Le rôle de la cour est expliqué plus en détail dans l’arrêt Copthorne Holdings Ltd. c. Canada, 2011 CSC 63 (« Copthorne »), par. 66, 69 et 70.
+[23] Madison, par. 28.
+[24] Buhler Versatile Inc. c. Canada, 2016 CAF 68 (« Buhler Versatile »), par. 7 à 11.
+[25] Paragraphe 43. Voir également Shell Canada Ltd. v. R, [1997] CarswellNat 68, et General Electric Capital Canada Inc. c. La Reine, 2008 CCI 256, par. 27.
+[26] Buhler Versatile Inc. c. La Reine, 2014 CCI 364 (« Buhler Versatile CCI »), par. 19 et 20, confirmée par 2016 CAF 68 sans commentaire sur le paragraphe 105(2). En toute déférence, je ne souscris pas à l’observation incidente formulée au paragraphe 23 de la décision 4145356, voulant que le paragraphe 105(3) soit la règle qui s’applique et que cette disposition permette une communication intégrale à sens unique. L’alinéa 105(1)b) des Règles précise que le paragraphe 105(3) s’applique aux interrogatoires autres que l’interrogatoire préalable.
+[27] Les expressions « se rapporte à » et « est pertinent à l’égard de » ont un sens comparable : Lehigh, par. 32.
+[28] Buhler Versatile CCI, par. 21.
+Superior Plus, par. 8.
+[30] Au paragraphe 7. Voir également Canada c. Oxford Properties Group Inc., 2018 CAF 30, par. 95.
+[31] Superior Plus CCI, par. 19.
+[32] Superior Plus, par. 8.
+[33] Harris c. Canada, 2001 DTC 5322 (CF 1re inst.), p. 5328, par. 45.
+[34] Pièce « C » de la déclaration sous serment de Kristina Ilogon, onglet 4 du dossier de requête modifié de l’appelante.
+[35] M. Simms est le fonctionnaire de l’ARC qui a fait l’audit de l’appelante et qui a été interrogé au nom de l’intimée.
+[36] La note de service de M. Robbins se trouve à l’onglet 5, p. 156 et 157, du dossier de requête modifié de l’appelante. À l’époque, M. Robbins travaillait à l’administration centrale de l’ARC, au sein du groupe de la planification fiscale abusive, section de la RGAÉ, Évitement fiscal interprovincial et Soutien technique.
+[37] Pièce « E » de la déclaration sous serment de Kristina Ilogon, onglet 4 du dossier de requête modifiée de l’appelante.
+[38] Pièce « A » de la déclaration sous serment de Kristina Ilogon; réponse à l’engagement 4, p. 48 et 49.
+[39] Len Lubbers et Jim Randall.
+[40] Pièce « E » de la déclaration sous serment de Kristina Ilogon, onglet 4 du dossier de requête modifié de l’appelante, réponses aux demandes de suivi 11 et 12.

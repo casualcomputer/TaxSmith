@@ -1,0 +1,139 @@
+Title: Settee c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71807/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-173-71807-settee-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2014-05-26
+
+# Settee c. M.R.N.
+
+- Citation: 2014 CCI 173
+- Decision date: 2014-05-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5380, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Settee c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-26
+Référence neutre
+2014 CCI 173
+Numéro de dossier
+2013-2467(CPP), 2013-2468(EI)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossiers : 2013-2467(CPP)
+2013-2468(EI)
+ENTRE :
+HERBERT D. SETTEE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 27 février 2014, à Winnipeg (Manitoba).
+Devant: L’honorable juge Robert J. Hogan
+Comparutions :
+Représentant de l’appelant :
+M. Grant Settee
+Pour l’intimé :
+Me Larissa Benham
+M. Hugh Crawley (stagiaire en droit)
+JUGEMENT
+Les appels interjetés à l’égard des décisions que le ministre du Revenu national a rendues selon lesquelles Reginald Smith occupait auprès de l’appelant un emploi assurable et ouvrant droit à pension pendant les périodes en cause, et à l’égard des cotisations établies par suite de ces décisions au titre de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada, sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 26e jour de mai 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 20e jour de juin 2014.
+Alya Kaddour‑Lord, traductrice
+Référence : 2014 CCI 173
+Date : 20140526
+Dossiers : 2013-2467(CPP)
+2013-2468(EI)
+ENTRE :
+HERBERT D. SETTEE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Introduction [1] Il s’agit d’appels interjetés à l’égard de décisions rendues par le ministre du Revenu national (le « ministre ») selon lesquelles, en 2011 et en 2012, Reginald Smith (le « travailleur ») n’était pas un entrepreneur indépendant, mais plutôt un employé de Herbert D. Settee (l’« appelant ») au sens de la Loi sur l’assurance‑emploi et du Régime de pensions du Canada. Les appels portent également sur les cotisations qui ont découlé de ces décisions du ministre.
+[2] L’appelant fait valoir que le travailleur était un entrepreneur indépendant qui lui fournissait des services dans le contexte d’une entreprise que le travailleur exploitait pour son propre compte.
+II. Résumé des faits [3] Le seul témoin qui a comparu pour le compte de l’appelant était son fils, Grant Settee, qui travaillait avec l’appelant dans une entreprise en électricité et en réparations exploitée sous le nom commercial de Dale’s Electric & Desco Supplies. Le témoin a déclaré qu’il était copropriétaire de l’entreprise avec son père. Aucun élément de preuve n’a été produit pour contredire cette déclaration. L’appelant n’a pas comparu devant la Cour.
+[4] La preuve montre que l’appelant a engagé le travailleur comme électricien en passant avec lui un contrat verbal. Le travailleur travaillait en moyenne 20 heures par semaine, sur appel, selon les besoins de l’appelant.
+[5] L’appelant et son fils obtenaient de petits contrats pour effectuer des travaux électriques auprès de propriétaires ou de locataires, tant des particuliers que des commerces, à Selkirk, au Manitoba. En général, il s’agissait de contrats à prix déterminé incluant le travail et les fournitures. Le travailleur était appelé à travailler sur des projets à un taux horaire fixe de 14 $. Il ne participait pas à la négociation des conditions de travail avec les clients. Le travailleur ne facturait pas ses services à l’appelant.
+[6] L’appelant et son fils conduisaient le travailleur aux lieux de travail dans un véhicule qui leur appartenait. Le travailleur travaillait avec eux sur des projets.
+[7] L’intimé accepte que l’intention de l’appelant était que le travailleur travaille à son propre compte, mais il fait valoir que la réalité objective de la relation des parties n’appuie pas l’intention de l’appelant à cet égard.
+[8] Le travailleur a reçu 8 719 $ et 2 841 $ en 2011 et en 2012, respectivement.
+III. Analyse [9] La jurisprudence définit clairement le critère juridique qu’il convient d’appliquer pour établir si une personne est un employé ou si elle travaille à son propre compte.
+[10] La décision de principe sur cette question est l’arrêt Wiebe Door Services Ltd. c. Ministre du Revenu national[1], qui a été confirmé par la Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[2] La question centrale est de savoir si, oui ou non, le contribuable « fournit [les services] en tant que personne travaillant à son compte »[3]. L’arrêt Sagaz résume ainsi le critère énoncé dans l’arrêt Wiebe Door et les facteurs à prendre en considération pour connaître le type de relation auquel on a affaire :
+[47] […] Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+[48] Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire [4].
+[Non souligné dans l’original.]
+[11] Outre ces facteurs, il faut aussi considérer l’intention subjective des parties. S’il est possible de déceler l’existence d’une intention commune des parties à propos du genre de relation qu’elles entendaient établir, cette intention doit être examinée par la Cour dans son analyse des facteurs susmentionnés.
+[12] Il importe de garder à l’esprit toutefois que l’intention des parties n’est pertinente que si les faits de l’espèce permettent de la discerner. L’intention subjective des parties n’est pas en tant que telle déterminante. Le juge Mainville, de la Cour d’appel fédérale, faisait la mise au point suivante dans l’arrêt 1392644 Ontario Inc. s/n Connor Homes c. Ministre du Revenu national[5] :
+[37] […] La situation juridique d’entrepreneur indépendant ou d’employé ne se détermine donc pas seulement sur la base de l’intention déclarée des parties. Cette détermination doit aussi se fonder sur une réalité objective et vérifiable.
+[13] Il ressort aussi de l’arrêt Connor Homes que l’analyse requiert un processus en deux étapes. D’abord, il faut savoir quelle était l’intention des parties pour être en mesure de dire quel type de relation elles souhaitaient établir. Puis, compte tenu de cette intention, il faut analyser les faits pour savoir si elle est bien reflétée dans la réalité objective. À cette deuxième étape, la Cour doit appliquer les quatre critères de l’arrêt Wiebe Door, c’est-à-dire (i) le contrôle, (ii) la propriété des instruments de travail, (iii) les chances de bénéfice et (iv) les risques de perte, pour savoir si la réalité des faits traduit l’intention subjective des parties.
+[14] Il ressort clairement de la preuve que l’appelant souhaitait employer le travailleur à titre d’entrepreneur indépendant. On ne sait pas avec une entière certitude si le travailleur acceptait ce statut. Quoi qu’il en soit, la façon dont les parties ont qualifié leur relation n’est pas déterminante à l’égard de la question en litige. Les intentions des parties doivent aussi concorder avec la réalité objective de leur relation, qu’on définit en soupesant, entre autres choses, les facteurs suivants :
+1. Le degré de contrôle que l’employeur exerce sur les activités du travailleur;
+2. La question de savoir si le travailleur utilise ses propres outils;
+3. Le niveau de risque financier que le travailleur assume;
+4. Les chances de profit du travailleur.
+[15] Les facteurs énoncés ci‑dessus constituent une liste non exhaustive. Le poids relatif de chaque facteur dépendra des faits et des circonstances propres à l’affaire en cause.
+Le contrôle [16] C’est l’appelant qui trouvait les clients. L’appelant et son fils travaillaient aux côtés du travailleur sur le lieu de travail. C’est l’appelant qui était responsable de l’exécution des contrats du client. Compte tenu de la preuve dans son ensemble, je conclus que l’appelant pouvait dire au travailleur ce qu’il devait faire pour s’assurer que le travail effectué reçoive l’approbation de son client.
+Les outils [17] Le travailleur avait ses propres outils, mais, la plupart du temps, il se servait des outils et de l’équipement que l’appelant et son fils lui fournissaient. L’analyse de ce facteur donne à entendre qu’on était en présence d’une relation d’employeur à employé.
+Les risques financiers [18] Le travailleur n’assumait que peu, voire pas, de risques financiers. Si une erreur de calcul se glissait dans une estimation (à l’égard du coût des fournitures ou des heures requises pour effectuer le travail), c’était l’appelant et son fils qui assumaient la perte. L’analyse de ce facteur donne à entendre qu’on était en présence d’une relation d’employeur à employé.
+Les chances de profit [19] Le travailleur recevait un salaire horaire et rien n’indique qu’il avait des chances de profit par ailleurs. Quand le travailleur achetait des fournitures, il était remboursé. Quand il se servait de ses propres fournitures, il était remboursé ou on remplaçait les fournitures en question. Encore une fois, il n’avait aucune chance de profit en dehors de son salaire horaire. L’analyse de ce facteur donne par conséquent à entendre qu’on était en présence d’une relation d’employeur à employé.
+IV. Conclusion [20] Selon la prépondérance des probabilités, l’application des facteurs qui ont été définis dans l’arrêt Wiebe Door fait pencher la balance en faveur d’une conclusion selon laquelle le travailleur était un employé. Le travailleur ne travaillait pas à son propre compte.
+[21] Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 26e jour de mai 2014.
+« Robert J. Hogan »
+Juge Hogan
+Traduction certifiée conforme
+ce 20e jour de juin 2014.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE :
+2014 CCI 173
+NOS DES DOSSIERS DE LA COUR :
+2013-2467(CPP)
+2013-2468(EI)
+INTITULÉ :
+Herbert D. Settee c. Le ministre du Revenu national
+LIEU DE L’AUDIENCE :
+Winnipeg (Manitoba)
+DATE DE L’AUDIENCE :
+Le 27 février 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT :
+Le 26 mai 2014
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Grant Settee
+Pour l’intimé :
+Me Larissa Benham
+M. Hugh Crawley (stagiaire en droit)
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] [1986] 3 C.F. 553, 1986 CarswellNat 366.
+[2] [2001] 2 R.C.S. 983, 2001 CSC 59.
+[3] Ibid., au paragraphe 47.
+[4] Ibid.
+[5] 2013 CAF 85.

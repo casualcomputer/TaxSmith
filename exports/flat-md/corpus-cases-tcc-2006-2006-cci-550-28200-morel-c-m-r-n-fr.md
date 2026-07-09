@@ -1,0 +1,193 @@
+---
+title: "Morel c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28200/index.do"
+last_modified: "2006-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 550"
+citation2: ""
+neutral_citation: "2006 CCI 550"
+decision_date: "2006-11-14"
+language: "fr"
+item_id: "28200"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1981
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:34:04.096000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "240876c2a119d1ff10730f90b63c49d87a5c0775cc049a5993cb9f924a20b87b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morel c. M.R.N.
+
+- Citation: 2006 CCI 550
+- Decision date: 2006-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1981, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morel c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-14
+Référence neutre
+2006 CCI 550
+Numéro de dossier
+2005-4008(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-4008(EI)
+ENTRE :
+ÉRIC MOREL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 3 octobre 2006, à Roberval (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+L’appelant lui-même
+Avocate de l'intimé :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision rendue par le ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2006.
+« Paul Bédard »
+Juge Bédard
+Référence : 2006CCI550
+Date : 20061114
+Dossier : 2005-4008(EI)
+ENTRE :
+ÉRIC MOREL,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Monsieur Éric Morel (l’« appelant ») interjette appel d’une décision du ministre du Revenu national (le « ministre ») rendue en vertu de la Loi sur l’assurance-emploi (la « Loi »). Dans une lettre datée du 22 juin 2005, le ministre informa l’appelant de sa décision selon laquelle :
+i) en 1999, il avait travaillé du 24 mai au 8 octobre, accumulé 1 100 heures assurables et gagné une rémunération assurable totalisant 14 400 $;
+ii) en 2001, il avait travaillé du 6 août au 19 octobre, accumulé 545 heures assurables et gagné une rémunération assurable totalisant 6 750 $;
+iii) en 2002, il avait travaillé du 27 mai au 25 octobre, accumulé 950 heures assurables et gagné une rémunération assurable totalisant 13 500 $;
+iv) en 2003, il avait travaillé du 25 mai au 5 octobre, accumulé 1 350 heures assurables et gagné une rémunération assurable totalisant 18 000 $;
+[2] Lorsqu’il a rendu sa décision, le ministre s’est appuyé sur les faits suivants, énoncés au paragraphe 7 de la Réponse à l’avis d’appel :
+a) le payeur exploite une entreprise forestière se spécialisant dans le débroussaillage;
+b) les principaux clients du payeur étaient Bowater et Abitibi‑Consolidated;
+c) la période d’activités du payeur allait de la fonte des neiges jusqu’aux premières neiges (fin mai à octobre - novembre);
+d) le payeur embauchait entre 30 et 90 débroussailleurs par année;
+e) en 1999 et 2001, l’appelant a travaillé pour le payeur à titre de débroussailleur;
+f) en 2002 et 2003, l’appelant a travaillé pour le payeur à titre de compagnon; il devait montrer le travail aux nouveaux travailleurs;
+g) tant à titre de débroussailleur qu’à titre de compagnon, l’appelant travaillait 50 heures par semaine du lundi au vendredi midi;
+h) le payeur a plaidé coupable d’avoir émis de faux relevés d’emploi au nom de ses travailleurs, mais l’appelant prétend qu’il n’a pas fait de cumul d’heures et que les relevés d’emploi émis en son nom reflètent la réalité;
+i) en 1999, l’appelant prétend qu’il a travaillé du 25 mai au 24 septembre alors que, dans sa déclaration statutaire datée et signée le 25 février 2004, il mentionnait : "je n’ai certainement pas terminé de travailler le 24 septembre 1999, au meilleur de ma connaissance j’ai dû travailler encore deux semaines après le dernier jour inscrit sur le relevé d’emploi";
+j) en 2001, l’appelant prétend qu’il a travaillé du 6 août au 12 octobre alors que, dans sa déclaration statutaire datée et signée le 25 février 2004, il mentionnait : "j’ai retravaillé au moins une semaine plus tard que celle inscrite sur le relevé d’emploi, soit jusqu’au 19 octobre";
+k) en 2002, l’appelant prétend qu’il a travaillé du 27 mai au 18 octobre alors que, dans sa déclaration statutaire datée et signée le 25 février 2004, il mentionnait : "j’ai travaillé au moins une semaine plus tard que celle inscrite sur le relevé d’emploi";
+l) en 2003, l’appelant prétend qu’il a travaillé du 2 juin au 5 décembre 2003 alors que, dans sa déclaration statutaire datée et signée le 25 février 2004, il mentionnait : "c’est très clair dans ma tête, j’ai banqué une semaine en début de saison, j’ai commencé à travailler le 26 mai 2003 et non le 2 juin 2003 tel qu’indiqué au relevé d’emploi";
+m) les relevés d’emploi émis par le payeur ne reflètent pas la réalité quant aux périodes travaillées et aux heures assurables accumulées par l’appelant en 1999, 2001, 2002 et 2003 ni quant à la rémunération assurable gagnée par l’appelant en 2003;
+n) pour la période du 24 mai au 8 octobre 1999, le ministre a déterminé que l’appelant avait accumulé 1 100 heures assurables et une rémunération assurable totalisant 14 400 $;
+o) pour la période du 6 août au 19 octobre 2001, le ministre a déterminé que l’appelant avait accumulé 545 heures assurables et une rémunération assurable totalisant 6 750 $;
+p) pour la période du 27 mai au 25 octobre 2002, le ministre a déterminé que l’appelant avait accumulé 950 heures assurables et une rémunération assurable totalisant 13 500 $;
+q) pour la période du 25 mai au 5 décembre 2003, le ministre a déterminé que l’appelant avait accumulé 1 350 heures assurables et une rémunération assurable totalisant 18 000 $;
+[3] Parmi les faits énoncés au paragraphe 7 de la Réponse à l’avis d’appel, seuls les faits énoncés aux sous-paragraphes 7a), 7c), 7e) 7f), 7g) furent admis par l’appelant. Il a nié tous les autres.
+[4] Il convient immédiatement de souligner que les relevés d’emploi de l’appelant (pièce A-2) révèlent que :
+i) en 1999, il avait travaillé du 24 mai au 24 septembre, accumulé 990 heures assurables et gagné une rémunération assurable totalisant 10 500 $;
+ii) en 2001, il avait travaillé du 6 août au 12 octobre, accumulé 495 heures assurables et gagné une rémunération assurable totalisant 6 750 $;
+iii) en 2002, il avait travaillé du 27 mai au 19 octobre, accumulé 900 heures assurables et gagné une rémunération assurable totalisant 13 500 $;
+iv) en 2003, il avait travaillé du 2 mai au 5 décembre, accumulé 1 300 heures assurables et gagné une rémunération assurable totalisant 19 500 $.
+Contexte
+[5] Le payeur a plaidé coupable en 2004 d’avoir établi de faux relevés d’emploi au nom des travailleurs, notamment en 1999, 2001, 2002, 2003 et 2004, et a été condamné à payer une amende de 50 000 $. Le payeur avait notamment établi un système de « banquage » d’heures en plus d’établir des relevés pour des périodes pendant lesquelles ses employés ne fournissaient aucune prestation de travail. Dans le cadre de leur enquête sur les pratiques illégales du payeur, des agents de participation du RPC/AE ont rendu des décisions défavorables à l’encontre de 24 employés du payeur, dont 9 (y compris l’appelant) ont interjeté appel de la décision qui les concernait.
+[6] Dans la déclaration statutaire (pièce I-1) que l’appelant a signée le 25 février 2004 à 12h33 aux bureaux de Développement des ressources humaines Canada (DRHC) situés au 1500, rue des Érables, à Dolbeau, en présence de monsieur Réal Couture, agent enquêteur principal au DRHC, l’appelant reconnaissait avoir travaillé pour le payeur hors des périodes indiquées sur les relevés d’emploi. Il faut comprendre que c’est essentiellement sur cette base que le ministre a rendu la décision du 22 juin 2005 à l’encontre de l’appelant. Maintenant, l’appelant prétend que les aveux figurant dans la déclaration statutaire ont été obtenus par la menace et l’intimidation. En somme, dans la présente affaire, l’appelant, sur qui reposait le fardeau de la preuve, devait me convaincre que sa version des faits liée à la rencontre du 25 février 2004 était plus crédible que celle donnée par monsieur Couture.
+[7] Les passages pertinents de la déclaration statutaire se lisent ainsi :
+Je reconnais avoir fait la banque ou m’être gagné un revenu d’appoint lorsque je travaillais pour Aménagement Myr. C’est arrivé à la fin de la saison en 1999, je n’ai certainement pas terminé de travailler le 24 septembre 1999, au meilleur de ma connaissance j’ai dû travailler encore deux semaines après le dernier jour inscrit sur le relevé d’emploi, soit jusqu’au 08 octobre 1999, je me souviens que mes semaines de banque, ont servi à payer ma débroussailleuse à Mario Richard. En 2001, toujours au meilleur de ma connaissance, j’ai retravaillé au moins une semaine plus tard que celle inscrite sur le relevé d’emploi, soit jusqu’au 19 octobre 2001. En 2002 aussi, j’ai travaillé une semaine après la date inscrite sur le relevé d’emploi, j’ai donc terminé le 25 octobre 2002. Pour 2003, c’est très clair dans ma tête, j’ai banqué une semaine en début de saison, j’ai commencé à travailler le 26 mai 2003, et non le 02 juin 2003 tel qu’indiqué sur le relevé d’emploi. Pour les heures banquées ou travaillées au noir pendant que je faisais mes semaines d’attentes, j’ai été payé en argent liquide, il n’y a aucun témoin de cela, ça se passait seul avec Mario Richard à sa maison privé. Si j’ai fais cela, c’était parce que j’avais besoin d’argent, c’était Mario Richard qui me proposait cette façon de faire, il m’encourageait en disant que c’était plus payant pour moi, de ne pas embarquer au livre de paie tout de suite et j’ai accepté sa proposition. Je savais que je faisais de fausses déclarations en ne déclarant pas à l’assurance-emploi que je travaillais. Je n’ai aucune circonstances atténuantes pouvant justifier mes agissements, si non que je voulais plus d’argent.
+[8] Les paragraphes pertinents du rapport sur un appel (pièce I-2) se lisent ainsi :
+26. En 1999 et 2001, l’appelant a travaillé comme débroussailleur pour le payeur. En 2002 et 2003, il était compagnon ainsi qu’en 2004 et, il le sera aussi en 2005. Comme compagnon, il devait montrer le travail aux nouveaux travailleurs et faire le suivi de ceux-ci. […]
+27. En 1999, il a travaillé au chantier en Abitibi, en 2001 à Milot, en 2002 à Gérardville (Chibougamau) et en 2003 à Notre-Dame de la Lorette.
+28. Lorsqu’il travaillait comme débroussailleur, il signait un contrat avec le payeur détaillant le montant par hectare incluant le 4%.
+29. […]
+30. Pour le débroussaillage, il travaillait en moyenne 50 heures par semaine du lundi au vendredi midi. Il travaillait en 1999, quatorze (14) jours consécutifs et il était sept (7) jours sans travailler. Comme compagnon, il travaillait aussi 50 heures par semaine mais du lundi au vendredi.
+31. […]
+32. Une équipe régulière fait en moyenne 4 hectares par semaine soit 2 hectares par travailleur.
+33. En 1999, le payeur lui versait une paie de 800 $ soit des avances sur les montants par hectare. En 2001, c’était 750 $ par semaine. S’il restait un surplus entre le montant dus selon le nombre d’hectares et les salaires versés, l’appelant recevait un montant pour kilométrage correspondant à ce surplus.
+34. […]
+35. […]
+36. Contrairement à sa déclaration statutaire, l’appelant affirme ne pas avoir fait de cumul d’heures au cours des périodes en litige.
+37. À la lecture de sa déclaration statutaire, l’appelant réfute tous les passages concernant le banquage d’heures. Il se sentait alors coupable à l’avance et l’agent de RHDCC a mis ce qu’il a voulu. Il l’a signée car il était obligé de le faire. Il ajoute à cela que la preuve, c’est que c’est la même chose à la déclaration statutaire de son frère Carl. (Onglet A)
+38. Lors de cette déclaration statutaire, il n’avait pas de documents en main. Par la suite, il a recherché des documents pouvant attester ce qu’il a dit et il a fourni ces documents à une dame. Il ne se rappelle pas qui.
+(Onglet A)
+39. […]
+40. Le payeur lui versait des salaires fixes comme débroussailleur. Cependant, lorsqu’il l’ajustait à la fin selon les montants redevables en fonction des hectares, le payeur lui versait un chèque du surplus entre la somme due pour les hectares et les salaires versés sous la forme d’un chèque inscrivant kilométrage. Il s’agissait d’un montant de 1 000 $ à 1 200 $. Dans le fond, il n’était pas payé pour son kilométrage.
+41. […]
+42. […]
+43. L’appelant réfute avoir continué de travailler deux semaines à la suite de son relevé d’emploi, soit du 25 septembre au 12 octobre 1999. Il a déjà fourni une facture d’achat de meubles et d’une scie le 23 septembre 1999 prouvant qu’il n’était plus en forêt. (Onglet B)
+44. Pour 2001, l’appelant a retracé un document médical prouvant qu’il n’était plus en forêt après le 12 octobre. [Document joint à sa lettre]
+(Onglet C)
+45. En 2002, il n’a pas de document mais il affirme ne pas avoir travaillé du 20 au 26 octobre.
+46. Pour 2003, il confesse qu’il est allé dans le bois l’avant-midi un samedi pour voir l’état du terrain et qu’il s’est blessé. Il affirme qu’il n’a pas travaillé les autres jours entre le 18 et le 31 mai 2003.
+[Consultation médicale lundi le 26 mai, date d’accident samedi le 24 mai] (Onglet D)
+Témoignage de l’appelant
+[9] Le témoignage très succinct de l’appelant pourrait se résumer ainsi :
+Monsieur Couture et l’agent de la GRC m’ont à ce point intimidé et terrorisé que j’ai signé la déclaration statutaire même si j’étais conscient qu’elle était fausse. Je n’ai jamais déclaré aux deux enquêteurs avoir travaillé hors des périodes indiquées sur les relevés d’emploi.
+[10] L’appelant a témoigné qu’il n’avait pas travaillé pour le payeur pendant la semaine du 16 octobre 2001 parce qu’il avait dû se rendre pendant cette semaine à Alma pour y rencontrer le médecin Raymond Gagnon. À l’appui de ses prétentions à cet égard, l’appelant a déposé en preuve la pièce A-3 qui indique que le médecin Gagnon a rencontré et examiné l’appelant le 16 octobre 2001.
+[11] L’appelant a relaté qu’il n’avait pas travaillé pendant la semaine du 28 mai 2003 parce qu’il avait dû se rendre pendant cette semaine à Sagamie, Jonquière, pour rencontrer madame Colette Richard, de la Direction de la révision de la Société de l’assurance automobile du Québec. À l’appui de ses prétentions à cet égard, l’appelant a déposé en preuve les pièces A-5 et A-6 qui prouvent que l’appelant a bel et bien rencontré madame Richard.
+[12] Pour appuyer son témoignage selon lequel il n’avait pas travaillé pour le payeur pendant la semaine du 24 octobre 2002, l’appelant a déposé en preuve la pièce A-4 (reçu pour taxes municipales) qui démontre, selon lui, qu’il n’était pas dans la forêt et qu’il n’avait donc pas travaillé pour le payeur pendant la semaine du 24 octobre 2002.
+Témoignage de monsieur Couture
+[13] Monsieur Couture, dont la crédibilité n’a pas à être mise en doute dans le présent litige, a témoigné que :
+i) dans le cadre de son enquête sur les activités du payeur, il avait rencontré, en 2004, 24 employés de ce dernier dont l’appelant;
+ii) il avait rencontré l’appelant aux bureaux de RHDSC le 25 février 2004 dans l’avant-midi, en présence d’un agent de la GRC;
+iii) il avait rédigé la déclaration statutaire à partir des notes qu’il avait prises lors de l’entrevue.
+iv) il ne se souvenait pas que l’agent de la GRC ait posé quelque question que ce soit à l’appelant;
+v) l’entrevue s’était bien déroulée et ni lui ni l’agent de la GRC n’avaient intimidé l’appelant ou proféré directement ou indirectement quelque menace à son endroit, ni forcé l’appelant à signer la déclaration statutaire.
+Analyse et conclusion
+[14] Le fardeau de la preuve reposait sur les épaules de l’appelant. Il devait me convaincre, selon la prépondérance des probabilités, que le ministre avait eu tort de rendre la décision du 22 juin 2005. La position de l’appelant est à l’effet que les relevés d’emploi reflètent la réalité quant aux périodes de travail, aux heures assurables et à la rémunération assurable. La preuve de l’appelant à cet égard reposait essentiellement sur son témoignage contredit, je le rappelle, par la déclaration statutaire. Sa position à l’égard de la déclaration statutaire est à l’effet qu’elle avait été obtenue par la menace et l’intimidation.
+[15] L’appelant ne m’a absolument pas convaincu qu’il avait fait l’objet de menaces et d’intimidation lors de la rencontre du 25 juin 2004 à laquelle participait monsieur Couture et l’agent de la GRC. L’appelant s’est contenté de dire qu’il avait été menacé et intimidé sans qu’il puisse donner de détails sur le comportement menaçant et intimidant de monsieur Couture et de l’agent de la GRC, sur la nature exacte des menaces proférées par ces derniers ou encore sur le langage menaçant utilisé lors de cette rencontre.
+[16] Quant aux explications vagues, imprécises et illusoires de l’appelant à l’effet qu’il s’était absenté du travail pendant deux semaines complètes parce qu’il avait dû rencontrer pendant la première semaine le médecin Gagnon et pendant la deuxième semaine madame Richard, elles n’ont fait qu’alimenter mes doutes sur sa crédibilité. Ses explications m’ont parues pour le moins invraisemblables. En effet, les explications de l’appelant à l’effet qu’il ne valait pas la peine d’aller travailler pendant une semaine donnée parce qu’il avait un rendez-vous auraient peut-être été vraisemblables si les rendez-vous en question avaient eu lieu à des endroits très éloignés de son domicile. En l’espèce, la preuve a révélé que ces rendez-vous ont duré tout au plus quelques heures, et qu’ils avaient eu lieu à des endroits peu éloignés du domicile de l’appelant. La preuve a aussi révélé que l’appelant pouvait faire le trajet entre son domicile et son lieu de travail en forêt en 90 minutes ou moins.
+[17] En résumé, j’avais à choisir entre la version des faits donnée par monsieur Couture et celle de l’appelant. J’ai choisi la version des faits donnée par monsieur Couture tout simplement parce qu’il m’a paru plus crédible que l’appelant.
+[18] Pour ces motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 14e jour de novembre 2006.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2006CCI550
+Nº DU DOSSIER DE LA COUR : 2005-4008(EI)
+INTITULÉ DE LA CAUSE : ÉRIC MOREL ET M.R.N.
+LIEU DE L’AUDIENCE : Roberval (Québec)
+DATE DE L’AUDIENCE : le 3 octobre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 14 novembre 2006
+COMPARUTIONS :
+Pour l'appelant :
+L’appelant lui-même
+Avocate de l'intimé :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

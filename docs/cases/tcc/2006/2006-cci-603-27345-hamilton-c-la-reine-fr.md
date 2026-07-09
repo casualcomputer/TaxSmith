@@ -1,0 +1,175 @@
+---
+title: "Hamilton c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27345/index.do"
+last_modified: "2006-11-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 603"
+citation2: ""
+neutral_citation: "2006 CCI 603"
+decision_date: "2006-11-03"
+language: "fr"
+item_id: "27345"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 167
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:35:36.759000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "382d210eca2c6ef910407e1852379bad208373e7b11007d12ce7a4a22aa20729"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hamilton c. La Reine
+
+- Citation: 2006 CCI 603
+- Decision date: 2006-11-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 167, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hamilton c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-03
+Référence neutre
+2006 CCI 603
+Numéro de dossier
+2001-2696(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-2696(IT)G
+ENTRE :
+DEAN HAMILTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 4 octobre 2006 à Windsor (Ontario)
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat de l’appelant :
+Me Bruck R. Easton, c.r.
+Avocat de l’intimée :
+Me Steven D. Leckie
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation d’impôt établie en vertu du paragraphe 227.1(1) de la Loi de l’impôt sur le revenu, dont l’avis est daté du 12 mai 1999 et porte le numéro 11124, est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 3e jour de novembre 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 19e jour de novembre 2007.
+Jean David Robert, traducteur
+Référence : 2006CCI603
+Date : 20061103
+Dossier : 2001-2696(IT)G
+ENTRE :
+DEAN HAMILTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] La Cour est saisie d’un appel d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu[1] (la « Loi »). Cette cotisation a été établie à l’égard de M. Hamilton à titre d’administrateur de la société Savage Land Productions Ltd. (la « société »), en application du paragraphe 227.1(1) de la Loi, en raison de l’omission de la société de retenir et de verser au receveur général du Canada la somme représentant 15 % de certains paiements qu’elle a faits à des personnes non‑résidentes en contrepartie de services rendus au Canada lors de la production d’une œuvre cinématographique (le « film »).
+[2] L’instruction du présent appel a été perturbée par une longue et déplorable série de retards. Il ne m’est pas nécessaire d’entrer dans les détails, si ce n’est que pour dire que la date de l’audience, soit le 4 octobre 2006, a été fixée péremptoirement par le juge Miller lors d’une audience de justification tenue en juin de l’année en cours. M. Hamilton, qui habite maintenant la Californie, a décidé de ne pas comparaître devant moi. Au lieu de cela, il a retenu les services d’un avocat, qui a comparu à l’audience et qui a sollicité un ajournement. J’ai refusé d’accorder l’ajournement, et ce, essentiellement pour les motifs que j’ai rendus dans la décision Solomons v. The Queen[2].
+[3] Sont reproduites ci‑dessous les hypothèses de fait sur lesquelles s’est fondé le ministre du Revenu national (le « ministre ») en établissant la cotisation à l’égard de M. Hamilton et qui sont exposées aux alinéas 4b) à g) de la réponse à l’avis d’appel :
+[traduction]
+b) l’appelant était, pendant toute la période pertinente, un administrateur de la société;
+c) la société a omis de verser au receveur général du Canada la somme de 45 326,55 $ (la « somme ») représentant l’impôt sur le revenu fédéral qu’elle a retenu sur des paiements faits à des personnes non‑résidentes pour des services rendus au Canada;
+d) la société a omis de payer les intérêts de 1 400,58 $ se rapportant à la somme correspondant à l’impôt fédéral non versé;
+e) par suite de la signification de la saisie‑arrêt, des paiements totalisant 19 078,23 $ ont été reçus le 20 juin 1994, et un paiement de 5 240 $US (9 126,04 $CAN) a été fait par la société le 25 juillet 1994;
+f) un certificat précisant le montant de l’impôt sur le revenu fédéral et des intérêts dus par la société a été enregistré à la Cour fédérale du Canada le 23 septembre 1994 en vertu du paragraphe 223(2) de la Loi de l’impôt sur le revenu (la « Loi »), et il y a eu défaut d’exécution totale à l’égard de la somme en question;
+g) l’appelant n’a pas agi avec le degré de soin, de diligence et d’habileté nécessaire pour prévenir l’omission de la société de verser la somme qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[4] Les dispositions suivantes de la Loi et du Règlement de l’impôt sur le revenu (le « Règlement ») sont applicables en l’espèce :
+La Loi
+153(1) Toute personne qui verse au cours d’une année d’imposition l’un des montants suivants :
+a) un traitement, un salaire ou autre rémunération, à l’exception des sommes visées au paragraphe 212(5.1);
+[…]
+g) des honoraires, commissions ou autres sommes pour services, à l’exception des sommes visées au paragraphe 212(5.1);
+[…]
+doit en déduire ou en retenir la somme fixée selon les modalités réglementaires et doit, au moment fixé par règlement, remettre cette somme au receveur général au titre de l’impôt du bénéficiaire ou du dépositaire pour l’année en vertu de la présente partie ou de la partie XI.3. Toutefois, lorsque la personne est visée par règlement à ce moment, la somme est versée au compte du receveur général dans une institution financière désignée.
+153(1.1) Lorsque le ministre est convaincu que la déduction ou la retenue de la somme qui devrait par ailleurs, en vertu du paragraphe (1), être déduite d’un paiement ou retenue sur un tel paiement porterait indûment préjudice, il peut fixer une somme inférieure et cette dernière est réputée être la somme déterminée en vertu de ce paragraphe à titre de somme à déduire ou à retenir sur ce paiement.
+227.1(1) Lorsqu’une société a omis de déduire ou de retenir une somme, tel que prévu au paragraphe 135(3) ou à l’article 153 ou 215, ou a omis de remettre cette somme ou a omis de payer un montant d’impôt en vertu de la partie VII ou VIII pour une année d’imposition, les administrateurs de la société, au moment où celle-ci était tenue de déduire, de retenir, de verser ou de payer la somme, sont solidairement responsables, avec la société, du paiement de cette somme, y compris les intérêts et les pénalités s’y rapportant.
+227.1(2) Un administrateur n’encourt la responsabilité prévue au paragraphe (1) que dans l’un ou l’autre des cas suivants :
+a) un certificat précisant la somme pour laquelle la société est responsable selon ce paragraphe a été enregistré à la Cour fédérale en application de l’article 223 et il y a eu défaut d’exécution totale ou partielle à l’égard de cette somme;
+b) la société a engagé des procédures de liquidation ou de dissolution ou elle a fait l’objet d’une dissolution et l’existence de la créance à l’égard de laquelle elle encourt la responsabilité en vertu de ce paragraphe a été établie dans les six mois suivant le premier en date du jour où les procédures ont été engagées et du jour de la dissolution;
+c) la société a fait une cession ou une ordonnance de séquestre a été rendue contre elle en vertu de la Loi sur la faillite et l’insolvabilité et l’existence de la créance à l’égard de laquelle elle encourt la responsabilité en vertu de ce paragraphe a été établie dans les six mois suivant la date de la cession ou de l’ordonnance de séquestre.
+227.1(3) Un administrateur n’est pas responsable de l’omission visée au paragraphe (1) lorsqu’il a agi avec le degré de soin, de diligence et d’habileté pour prévenir le manquement qu’une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[…]
+Le Règlement
+105(1) Quiconque verse à une personne non-résidente un honoraire, commission ou autre montant à l’égard de services rendus au Canada, de quelque nature que ce soit, doit déduire ou retrancher 15 pour cent de ce versement.
+105(2) Le paragraphe (1) ne s’applique pas aux paiements mentionnés dans la définition « rémunération » figurant au paragraphe 100(1). DORS/94‑686, art. 49(F).
+La partie pertinente de la définition du terme « rémunération » donnée au paragraphe 100(1) du Règlement est la suivante :
+100(1) Dans la présente partie et dans l’annexe I,
+« rémunération » comprend tout paiement qui est
+a) relatif au versement
+(i) d’un traitement ou d’un salaire, ou
+(ii) de commissions ou d’autres montants semblables établis en fonction du chiffre de ventes ou des contrats négociés (appelés « commissions » dans la présente partie),
+à un agent ou employé ou à un ancien agent ou employé,
+[…]
+[5] Le seul témoin de l’appelant était Margaret Coe, qui est sa mère et qui a été elle aussi une administratrice de la société. Il était clair, au vu du témoignage de Mme Coe, que c’était uniquement pour des raisons de commodité qu’elle avait été désignée comme administratrice. À part le fait de savoir que la société avait été constituée en vue de produire un film intitulé « Savage Land », que celui‑ci avait été tourné en décor naturel au Canada, et que de nombreuses personnes, à la fois des acteurs et du personnel de production, y avaient pris part, Mme Coe n’avait aucune connaissance des activités de la société. La seule preuve qu’elle a pu présenter concernant des mesures que la société avait prises pour remplir les obligations qui lui étaient imposées par la Loi à l’égard de paiements faits à des personnes non‑résidentes consistait en son témoignage selon lequel la société avait embauché une société offrant des services de comptabilité de la paie pour que celle‑ci traite ces paiements.
+[6] Avec le consentement de l’avocat de l’intimée, j’ai admis comme élément de preuve un document consistant en quatre annexes, dont la première présente les noms des 33 personnes qui participaient à la production du film avec de brèves descriptions de leurs fonctions et un calcul du montant correspondant à 15 % des paiements faits à chacune d’elles. Il s’agit du calcul sous‑jacent à la cotisation établie à l’égard de la société. Selon les annexes, toutes ces personnes sont des citoyens des États‑Unis d’Amérique. Les annexes ne fournissent aucun renseignement quant à leur lieu de résidence. J’ai été informé que le document en question avait été rédigé par un ancien avocat de l’appelant, vraisemblablement dans le but de négocier un règlement de la présente affaire. Dans l’annexe B sont nommées 17 personnes qui, comme il y est indiqué, travaillaient [traduction] « derrière la caméra » et n’étaient pas assujetties à des retenues d’impôt, et il y est présenté une description des services qu’elles ont fournis, un sommaire de leur rémunération et le calcul du montant de la retenue de 15 %. Dans l’annexe C sont nommées 16 personnes qui auraient travaillé [traduction] « devant la caméra » et sont présentés le rôle joué par chacune d’elles, le revenu brut qu’elles ont tiré de la production et le calcul de la retenue de 15 %. L’annexe D fournit les mêmes renseignements relativement à cinq personnes qui auraient travaillé [traduction] « devant la caméra » et qui auraient gagné un revenu brut supérieur à 15 000 $.
+[7] C’était sur ce fondement probatoire que Me Easton avait construit deux arguments à l’encontre de la cotisation dérivée. Il a fait valoir que ce n’étaient pas toutes les personnes employées dans la production qui étaient tenues de payer de l’impôt sur le revenu au Canada, et donc que Sa Majesté s’enrichirait injustement si celle‑ci percevait de M. Hamilton toutes les sommes que la société a omis de retenir sur leur salaire. La position de l’appelant, telle que je l’ai comprise, était que seuls les cinq acteurs nommés dans l’annexe D de la pièce A‑1 seraient tenus de payer de l’impôt sur le revenu au Canada, et donc que la cotisation établie à l’égard de la société aurait dû se limiter à 15 % des revenus bruts reçus de la société par ces cinq acteurs, soit à un total de 23 656,71 $.
+[8] Il y a deux raisons évidentes pour lesquelles cet argument ne peut prospérer. La première est que je n’ai pas compétence pour accorder une réparation fondée seulement sur l’équité, et cet argument est, comme l’a admis franchement Me Easton, simplement un appel à l’équité. Ma compétence se réduit à l’application des dispositions de la Loi aux faits de l’affaire et à la vérification de l’exactitude de la cotisation du ministre. Je ne peux pas fonder ma décision sur l’équité[3]. Même si j’avais un tel pouvoir, il me serait impossible de décider si Sa Majesté s’était enrichie injustement, et, le cas échéant, de déterminer dans quelle mesure. L’argument de Me Easton est fondé sur la supposition qu’aucun des bénéficiaires des paiements effectués par la société, à part les cinq personnes nommées dans l’annexe D, ne serait tenu de payer de l’impôt sur le revenu au Canada sur ces paiements[4], de telle sorte que si la société avait retenu 15 % du revenu gagné par les autres bénéficiaires et qu’elle avait versé cette somme à Sa Majesté, cette dernière aurait été obligée de les rembourser de ces sommes en temps et lieu. Pour cette raison, Me Easton fait valoir que la somme perçue (19 078,23 $, plus 9 126,04 $) excède le montant de l’impôt auquel avait droit Sa Majesté, et donc qu’il n’y a aucun manque à gagner dont les administrateurs pourraient être redevables. Cependant, je ne peux pas en venir à cette conclusion sans éléments de preuve quant à la nature de la relation existant entre chaque bénéficiaire et la société et quant à d’autres circonstances, notamment les autres revenus que pourraient avoir gagnés les bénéficiaires de sources canadiennes pendant l’année où les paiements en cause ont été effectués. En fait, on me demande de fixer l’impôt qu’auraient dû payer ces 33 personnes et de déterminer les remboursements auxquels elles auraient eu droit si elles avaient produit des déclarations au Canada. Il m’est impossible de le faire compte tenu de l’absence totale d’éléments de preuve pertinents.
+[9] Bien qu’il soit maintenant établi qu’un administrateur d’une société peut contester la cotisation sous‑jacente établie à l’égard de celle‑ci dans le cadre d’un appel interjeté à l’encontre d’une cotisation établie en application de l’article 227.1 de la Loi, il a le fardeau de prouver que la cotisation est incorrecte. M. Hamilton ne s’est pas déchargé de ce fardeau. En application de l’article 153 de la Loi et de l’article 105 du Règlement de l’impôt sur le revenu[5], la société devait retenir 15 % des paiements et remettre cette somme au receveur général, à moins qu’il n’ait pu être démontré qu’une partie ou l’ensemble des paiements étaient des traitements ou des salaires, ou qu’ils étaient visés par la définition du terme « rémunération » donnée au paragraphe 100(1) du Règlement. Je ne peux tout simplement pas en venir à cette conclusion compte tenu de la preuve mince portée à ma connaissance.
+[10] L’autre argument présenté par Me Easton est que l’appelant a agi avec le degré de soin et de diligence qui est exigé d’un administrateur et que cette conduite lui permet de contester la cotisation en invoquant le paragraphe 227.1(3) de la Loi. Encore une fois, le fardeau de la preuve repose sur l’appelant.
+[11] La seule preuve que peut invoquer l’appelant à l’appui du plaidoyer de diligence raisonnable est l’affirmation de Mme Coe selon laquelle il a embauché une société offrant des services de comptabilité de la paie pour que cette dernière traite les paiements faits aux acteurs et à l’équipe de tournage du film. J’ai conclu, dans la décision Armstrong c. Sa Majesté la Reine[6], que, en embauchant dans sa société un comptable d’expérience ayant le titre de CGA pour qu’il s’occupe des fonctions de tenue de livres et de paiement de factures, l’appelant ne s’était pas dégagé de son obligation d’exercer un certain degré de surveillance. M. Hamilton a étudié la gestion des affaires à l’Université de l’État du Michigan et à l’Université de la Californie du Sud. Il produisait et réalisait des films depuis une dizaine d’années à l’époque en cause. Il était apparemment l’âme dirigeante de sa société, et il faut supposer qu’il avait une connaissance suffisante des affaires pour comprendre ses responsabilités à titre d’administrateur. Je ne considère pas que le simple fait que l’appelant ait veillé à ce que la société embauche une société offrant des services de comptabilité de la paie pour que celle‑ci traite les paiements suffise à établir qu’il a agi avec une diligence raisonnable.
+[12] L’appel est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 3e jour de novembre 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 19e jour de novembre 2007.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI603
+Nº DU DOSSIER DE LA COUR : 2001-2696(IT)G
+INTITULÉ : Dean Hamilton et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Windsor (Ontario)
+DATE DE L’AUDIENCE : Le 4 octobre 2006
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 3 novembre 2006
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Bruck R. Easton, c.r.
+Avocat de l’intimée :
+Me Steven D. Leckie
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Bruck R. Easton, c.r.
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. 1 (5e suppl.), modifiée.
+[2] 2003 DTC 505.
+[3] Chaya c. Canada, 2004 CAF 327; 2004 DTC 6676.
+[4] Voir la Convention entre le Canada et les États‑Unis d’Amérique en matière d’impôts sur le revenu et sur la fortune (1980), article XVI.
+[5] C.R.C. 1979, ch. 945, modifié.
+[6] 2002 CanLII 966 (C.C.I.); conf. par 2003 CAF 169.

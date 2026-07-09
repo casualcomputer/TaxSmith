@@ -1,0 +1,182 @@
+Title: Inrig v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26632/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-687-26632-inrig-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-10-20
+
+# Inrig v. The Queen
+
+- Citation: 2005 TCC 687
+- Decision date: 2005-10-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3640, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Inrig v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-20
+Neutral citation
+2005 TCC 687
+File numbers
+2001-4242(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-4242(IT)G
+BETWEEN:
+RICHARD INRIG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 6, 7 and September 28, 2005
+at Vancouver, British Columbia
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Douglas C. Morley
+Allen A. Soltan
+Counsel for the Respondent:
+Lisa M. Macdonell
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of assessments made under the Income Tax Act for the 1995, 1996 and 1997 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to deduct the following proportions of motor vehicle expenses: 3.40 percent for the 1995 taxation year, 2.94 percent for the 1996 taxation year and 2.00 percent for the 1997 taxation year.
+Costs are awarded to the respondent.
+Signed at Ottawa, Canada, this 20th day of October, 2005.
+"J. Woods"
+Woods J.
+Citation: 2005TCC687
+Date: 20051020
+Docket: 2001-4242(IT)G
+BETWEEN:
+RICHARD INRIG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an appeal from assessments under the Income Tax Act for the 1995, 1996 and 1997 taxation years whereby the Minister of National Revenue denied a deduction for motor vehicle expenses incurred by Richard Inrig in the course of his duties as a high school vice principal.
+[2] The relevant statutory provisions are paragraphs 8(1)(h.1) and (j) of the Act. In general they permit employment-related motor vehicle expenses (including capital cost allowance) to be deducted provided that they are not eligible for reimbursement.
+[3] Part of the way through the hearing, the parties agreed that 80 percent of the appellant's employment-related travel (on a mileage basis) did not qualify for deduction because the expenses could be reimbursed and that the remaining 20 percent did qualify for deduction. The question that remains concerns the method of allocation. Should the expenses be apportioned between personal and employment use on the basis of mileage, time, or some combination of the two?
+[4] The Crown submits that the expenses should be apportioned on a mileage basis. The appellant does not take issue with this for variable costs such as fuel and repairs but suggests that capital cost allowance and insurance costs should be apportioned on the basis of time rather than mileage. The appellant's position is based on two decisions: Cumming v. M.N.R., 67 D.T.C. 5312 (Ex. Ct.) and The Queen v. Mina, 88 D.T.C. 6245 (F.C.T.D.).
+[5] Although the amount in dispute is small, deductions of less than $400 in aggregate for all three taxation years, I understand that the issue is likely relevant for other teachers.
+[6] Two unrelated issues that had been raised in the notice of appeal were abandoned by the appellant at the commencement of the hearing.
+Facts
+[7] The appellant is a school administrator who lives in the Greater Vancouver Area. During the three taxation years under appeal, the appellant was employed as a vice principal at two large high schools in the Surrey School District, each school having over 1,300 students. One of the schools employed three administrative officers (two vice principals and one principal) and the other employed four (three vice principals and one principal).
+[8] The appellant's duties included teacher supervision, student interaction and initiating professional development activities. Although his employment was based at the schools, the appellant frequently traveled in connection with his employment. The reasons for this travel included attending meetings, dealing with staff or student problems and attending student athletic events. The appellant was quite involved with activities outside the school, and with athletic events in particular. According to his mileage log book (which did not record all trips), in an average month the appellant made about eight trips for employment purposes away from the school.
+[9] Part way through the hearing, the parties agreed that the appellant's motor vehicle expenses were eligible for reimbursement unless the travel involved the transport of students within the local vicinity.[1] They also agreed that 20 percent of the appellant's employment-related motor vehicle expenses (on a mileage basis) involved non-reimbursable student transportation and could be deducted.
+[10] The figures agreed upon by the parties are reflected in the following chart. It outlines total kilometers traveled, kilometers traveled for employment purposes and kilometers traveled for which the appellant is not entitled to reimbursement. The last column is equal to 20 percent of total employment-related kilometers.
+Total kilometers traveled
+Kilometers traveled for employment purposes (as a percent of total)
+Kilometers traveled for student transportation (as a percent of total)
+1995
+34,000
+17%
+3.40%
+1996
+34,000
+14.7%
+2.94%
+1997
+34,000
+10%
+2.00%
+Analysis
+[11] The question to be determined is how to reasonably apportion the total motor vehicle expenses between personal and employment-related use.
+[12] Where expenses relate partly to personal use and partly to employment, the preamble to subsection 8(1) permits the expenses to be apportioned on a reasonable basis. It reads:
+In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto [...]
+[13] As noted above, the position of the Crown is that the total motor vehicle expenses should be apportioned between personal and employment-related use on a mileage basis. The appellant does not take issue with this for variable costs such as fuel and repairs but he suggests that mileage is not a reasonable basis for apportioning insurance and capital cost allowance, the so-called "ownership costs." These costs should be apportioned, the appellant suggests, on the basis of the amount of time that the vehicle is available for use.
+[14] The respective positions of the parties are reflected in the following chart. It outlines the total motor vehicle expenses, as agreed by the parties, and the deductible portions that each of them suggests.
+1995
+1996
+1997
+Operating Expenses (fuel, maintenance and car wash)
+Total Expenses
+$2,713.00
+$3,565.00
+$2,685.00
+Deductible as per Crown
+$92.24
+(3.40%)
+$104.81
+(2.94%)
+$53.70
+(2.00%)
+Deductible as per Appellant
+$92.24
+(3.40%)
+$104.81
+(2.94%)
+$53.70
+(2.00%)
+Ownership Costs
+(insurance and capital cost
+allowance)
+Total Expenses
+$3,321.00
+$2,760.00
+$2,018.00
+Deductible as per Crown
+$112.91
+(3.40%)
+$81.14
+(2.94%)
+$40.36
+(2.00%)
+Deductible as per Appellant
+$249.08
+(7.5%)
+$207.00
+(7.5%)
+$151.35
+(7.5%)
+[15] The time-based allocation suggested by the appellant results in a deduction of 7.5 percent of "ownership costs." This is more than twice the amounts that are deductible on a mileage basis (i.e. 3.4, 2.94 and 2.0 percent).
+[16] The time-based allocation was calculated as follows. First, it was assumed that the motor vehicle was available for use for a total of 16 hours each day, which excludes eight hours for sleeping. It was then assumed that the motor vehicle was available for employment purposes during normal working hours (10 hours per day) on all school days (221 days per year).
+[17] Based on these assumptions suggested by the appellant, the motor vehicle was determined to be available for use for employment purposes for approximately 38 percent of the time, calculated as follows:
+[18] This percentage was then adjusted to take into account the fact that 80 percent of the appellant's employment-related use (on a mileage basis) was eligible for reimbursement and that the associated expenses do not qualify for deduction. The adjustment was made by apportioning the 38 percent calculated above between kilometers traveled for student transportation and kilometers traveled for other employment-related travel on the basis of mileage.
+[19] Since the parties had agreed that student transportation comprised 20 percent of all employment-related travel, computed on a mileage basis, the percentage of time apportioned to student transportation was determined by the appellant to be approximately 7.5 percent, calculated as follows:
+20% X 37.84% = 7.568%(7.5%)
+[20] I should perhaps note at this stage that the Crown takes issue with the assumption that the vehicle was available for use for only 16 hours a day and suggests that the denominator above should be 24 instead of 16. The Crown's position is presumably on the basis that the vehicle was available for family emergencies throughout the night.
+[21] The appellant's position is based on the decisions in Cumming and Mina. His counsel admits, however, that the time apportionment method that he proposes is more favourable to the appellant than what was allowed in Cumming and Mina. Both those decisions based the apportionment on a combination of time and mileage factors, whereas the appellant's methodology apportions personal and employment use on the basis of time only.
+[22] To be consistent with Cumming and Mina, counsel for the appellant suggests that it would be reasonable to reduce the apportionment below 7.5 percent to take mileage into account. He submits that the relative weight to be given to mileage and time is a matter for the court's discretion. It appears that in Cumming and Mina the courts calculated a reasonable weighting of both factors based on the particular facts of each case.[2]
+[23] The Crown submits that it is not appropriate to deviate from a mileage-based allocation in this case and suggests that the facts are materially different from those in Cumming and Mina. Counsel also suggests that the approach suggested by the appellant is too judgmental and will lead to uncertainty and disputes. She advocates limiting the approach taken in Cumming and Mina to their particular facts.
+[24] Notwithstanding that I am sympathetic to the Crown's suggestion of having an objective method of apportionment, the preamble to subsection 8(1) requires a "reasonable" apportionment and the term "reasonable" suggests that the allocation should be on a case by case basis. If a taxpayer can provide a factual foundation to support the reasonableness of an allocation method, it will satisfy subsection 8(1) even if it is partly subjective.
+[25] On the facts of this case, I have concluded that an allocation based on mileage gives the most reasonable result. Unlike the taxpayers in Cumming and Mina, the appellant did not use his vehicle for employment purposes on a regular basis during each working day. Further, the use of the appellant's vehicle for employment purposes on a mileage basis was small relative to his personal use.
+[26] The appellant argues that his vehicle was in fact used throughout each working day because it was important for the vehicle to be available for emergencies. Although the availability of several vehicles at the school is no doubt helpful in the case of emergencies, I am not satisfied that this justifies apportioning the appellant's expenses partly on the basis of time. In my view, an apportionment based on mileage gives the most reasonable result on the particular facts of this appeal.
+[27] The appeal will be allowed on the basis that the appellant is entitled to deduct the following proportions of his total motor vehicle expenses: 3.40 percent for the 1995 taxation year, 2.94 percent for the 1996 taxation year and 2.00 percent for the 1997 taxation year. Costs are awarded to the Crown as it was largely successful in the appeal.
+Signed at Ottawa, Canada, this 20th day of October, 2005.
+"J. Woods"
+Woods J.
+CITATION: 2005TCC687
+COURT FILE NO.: 2001-4242(IT)G
+STYLE OF CAUSE: Richard Inrig and Her Majesty the Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: June 6, 7, and September 28, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: October 20, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Douglas C. Morley
+Allen A. Soltan
+Counsel for the Respondent:
+Lisa M. Macdonell
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Douglas C. Morley
+Firm: Davis & Company LLP
+Vancouver, British Columbia
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario
+[1] Although neither party argued that it was relevant, the appellant never made a claim for reimbursement and it appears that this was typical of teachers and administrators in the school district.
+[2] I note that in Cumming, the combination approach was only used for capital cost allowance. In Mina, the combination approach was used for both insurance and capital cost allowance but the parties had agreed that a combination approach was appropriate and disagreed only as to the relative weighting of each.

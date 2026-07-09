@@ -1,0 +1,182 @@
+Title: Richardson v.M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28070/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-522-28070-richardson-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-09-11
+
+# Richardson v.M.N.R.
+
+- Citation: 2003 TCC 522
+- Decision date: 2003-09-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1590, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richardson v.M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-11
+Neutral citation
+2003 TCC 522
+File numbers
+2002-3894(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-3894(EI)
+BETWEEN:
+RONALD O.B. RICHARDSON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JOY E. WATSON,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Ronald B. Richardson (2002‑3895(CPP)) on May 29, 2003 at London, Ontario
+Before: The Honourable J.F. Somers, Deputy Judge
+Appearances:
+Counsel for the Appellant:
+Robert O. Richardson
+Counsel for the Respondent:
+Stephen Leckie
+For the Intervenor:
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of September 2003.
+"J.F. Somers"
+Somers, D.J.
+Citation:2003TCC522
+Date:20030911
+Docket: 2002-3894(EI)
+2002-3895(CPP)
+BETWEEN:
+RONALD O.B. RICHARDSON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+JOY E. WATSON,
+Intervenor.
+REASONS FOR JUDGMENT
+Somers, D.J.
+[1] These appeals were heard on common evidence in London, Ontario on May 27, 2003.
+[2] The Appellant is appealing from a decision made by the Minister of National Revenue (the "Minister") that the employment of Joy E. Watson, the Worker), held with Donald O.B. Richardson, the Payer, during the period of May 3, 1999 to October 14, 2001, is insurable and pensionable pursuant to paragraph 5(1)(a) of the Employment Insurance Act (the "Act") and paragraph 6(1)(a) of the Canada Pension Plan (the "Plan).
+[3] Paragraph 5(1)(a) of the Act reads as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+..."
+Paragraph 6(1)(a) of the Plan is to the same effect as paragraph 5(1)(a) of the Act above.
+[4] The burden of proof is on the Appellant. He must show on a balance of probabilities that the Minister erred in fact and in law in his decision. Each case stands on its own merits.
+[5] In making his decision, the Minister relied on the following assumptions of fact:
+(a) the Appellant does not operate a business; (admitted)
+(b) the Appellant operates an "in-home care service" for his wife, Gladys Richardson, at their residence; (admitted)
+(c) the Appellant hired specialised workers such as physiotherapy, speech therapy and nursing services to take care of his wife; (denied)
+(d) the Appellant's wife is 80 years old and completely paralysed on her right side; (admitted)
+(e) the Appellant's wife requires care 24 hours a day, 7 days a week; (admitted)
+(f) the Appellant hired a "Head Contractor", Darrell Richardson, unrelated to the family; (denied)
+(g) the Head Contractor is a nurse and normally works days, Monday to Friday, and looks after the daily schedules, appointments, physio, drugs, ongoing health issues and gives home care workers guidance; (admitted)
+(h) the Head Contractor posts a schedule on a periodic basis in order to find all the personnel required (individuals or incorporated companies or public healthcare agencies) to give the required care to the Appellant's wife; (denied)
+(i) the Worker had the required qualifications, HSW3-Home Support Worker; (denied)
+(j) the Worker generally worked the night shifts and was also on call, if needed; (denied)
+(k) the Worker had to advise the Head Contractor if not able to come in and sometimes, just changed shift with another worker; (denied)
+(l) at the beginning the Worker was paid on a semi-monthly basis by the Appellant, afterwards by "Richardson Family Trust"; (denied)
+(m) the Worker was paid $9.00 per hour at the beginning and starting in September 2000, she got an increase to $9.50 per hour; (denied)
+(n) the Worker had to invoice the Appellant outlining the days worked and the hours of service provided; (denied)
+(o) the Appellant paid for all expenses relating to the homecare of his wife; (denied)
+(p) the Appellant set a dress code for the workers; (denied)
+(q) the Appellant supervised the Worker either directly or by the head Contractor or any other family member; (denied)
+(r) the Worker had to perform her services personally; (denied)
+(s) the Worker received a Christmas bonus from the Appellant; (denied)
+(t) the Worker was one of many workers providing similar duties. (denied)
+[6] The Appellant operated an "In-home care service", for his wife, Gladys Richardson, at their residence. His wife was 80 years old and completely paralysed on her right side.
+[7] The Appellant hired specialized workers such as physiotherapist, speech therapist and nursing services to take care of his wife who needed care 24 hours a day, 7 days a week.
+[8] The Appellant hired a Head Contractor, Darrell Richardson, unrelated to the family. She is a nurse and normally works days, Monday to Friday and looks after the daily schedules, appointments, physio, drugs, ongoing health issues and gives home care workers guidance.
+[9] The head contractor, Darrell Richardson, testified that she kept a record of the problems that may occur. She made up a schedule for the home care supporters based on their availability. If one of the workers could not be at work, the Worker would have to find a replacement.
+[10] There were, according to the Head Contractor, information meetings which lasted one hour but were not mandatory. No dress code was demanded but they were not to wear jeans and uniforms were not supplied.
+[11] The Worker, Joy Watson, worked the night shift from 10:00 p.m. to 7:00 a.m. A schedule was posted every month which the workers were expected to follow or to find a replacement. If the workers had a particular problem they would report to the Head Contractor, Darrell Richardson.
+[12] The Head Contractor admitted that Joy Watson did some clerical work for the Appellant which was not within her job description. The workers did not receive statutory holidays.
+[13] Gayle Gagnon, a public support worker, testified that her services were accepted by the Appellant as an independent worker. She worked there for three years. She was one of eight workers who attended to Mrs. Richardson's needs. Some of the workers had an employment elsewhere and they worked for the Appellant during their days off.
+[14] The Appellant supplied the wheel chair, hospital bed and the other necessary items in caring for Mrs. Richardson.
+[15] According to this witness, no dress code was imposed but the workers were not to wear jeans. The information meetings were not mandatory. If she could not report to work as per the schedule, she had to find a replacement.
+[16] She prepared a billing twice a month and was paid by cheque accordingly. She did not have statutory holidays nor did she receive a bonus.
+[17] Joy Watson, the Intervenor, testified that she worked for the Appellant during the period in question. Her relationship with the Appellant was excellent but she ceased working for him as a result of an accident.
+[18] She agreed to work as an independent worker, she submitted invoices to the Appellant and was paid accordingly.
+[19] She was a home support worker and attended to Mrs. Richardson's needs at her residence. At the beginning, she had an orientation meeting as each shift had different requirements.
+[20] The Head Contractor usually worked day shifts from Monday to Friday. She arranged the schedules, appointments, physio, drugs, ongoing health issues and gave home care workers guidance. The workers considered her as a supervisor.
+[21] Joy Watson said she worked night shifts and was also on call if needed, as her schedule was flexible. Not having a part-time job elsewhere except in the year 2000, she worked full time for the Appellant in order to supplement her income.
+[22] She had to find a replacement if not able to fulfil her assignment. She was paid $9.00 per hour at the beginning and received an increase to $9.50 per hour in September 2000. The Appellant paid all the expenses to meet Mrs. Richardson's needs.
+[23] According to Joy Watson the workers had to dress appropriately. She stated she was supervised by the Appellant's daughter or the Head Contractor who made suggestions relating to Mrs. Richardson's caring.
+[24] Christmas of 1999 and 2000, she received a bonus of $100 and $200 respectively as well as a gold bracelet.
+[25] Joy Watson produced in evidence the minutes of a staff meeting (Exhibit I‑2) in which the needs of Mrs. Richardson were enumerated.
+[26] Paragraph 10 of the minutes of the staff meeting described the dress code as follows:
+Dress Code: When each staff member was hired Ron gave us his expectations of Staff Dress Code. A nurse's uniform or the nay and white Home Support Worker's dress code. He has moderated this to navy slacks or skirt and walking shorts in the hot weather or if you are wearing your own clothes they must be appropriately similar. No scoop necklines, tank tops, short shorts or cut offs and no denim jeans, and absolutely no bare feet. Shoes must be worn at all times. He wants us to look and act in a professional manner. There are times we must go out in public with Ron and Glad, and we should look like the professional health care workers we are. Everyone's co-operation in this is appreciated.
+[27] Staff meetings were expected for all as explained in paragraph 17 of the said document as follows (Exhibit I-2):
+STAFF MEETINGS ARE EXPECTED FOR ALL. IF YOU HAVE ANOTHER JOB THIS WILL EXCUSE YOU BUT YOU SHOULD TRY VERY HARD TO MAKE ARRANGEMENTS TO BE HERE, AS YOU WILL ALWAYS BE GIVEN PRIOR NOTICE IN TIME. THIS IS NOT SOMETHING YOU CAN SKIP JUST BECAUSE YOU DON'T WANT TO ATTEND. WE CANNOT WORK AS A TEAM IF SOME DO NOT KNOW ALL THE PROTOCOL OR CHANGES IN GLAD'S ROUTINE. WE WOULD LIKE ALL STAFF TO BE PRESENT.
+[28] Joy Watson added that she willingly did some clerical work for the Appellant at his residence using his equipment.
+[29] Joy Watson admitted that, as advised, she filled in her tax returns as an independent worker. She followed somebody's suggestion that she should obtain a ruling from Revenue Canada as to her status.
+[30] A contract of service necessarily implies that the employee works for the profit of the employer. The essential characteristics of a contract of service include features involving the nature of the services to be provided; fixed periodic wage; pre-arranged working hours and specific directions as to the work to be done.
+[31] In determining whether the parties have established an employer-employee relationship, the total relationship of the parties must be considered. The test to be used to distinguish a contract of service from a contract for services is a four‑in‑one test with emphasis on the one combined force of the whole scheme of operations.
+[32] Case law consistently admits four basic factors in distinguishing a contract of service from a contract for services.
+[33] In the case of Wiebe Door Services Ltd. v. M.N.R., 1987 DTC 5025, the Federal Court of Appeal enumerated the four basic tests:
+1. The degree of control.
+2. Ownership of tools.
+3. Chance of profit and risk of loss.
+4. Integration.
+[34] Control: Evidence shows that the Worker was supervised by the Head Contractor who prepared the work schedule and set up staff meetings. Even if attendance at these meetings was not mandatory for the workers, it was suggested that they be present.
+[35] The hours of work were monitored and the workers had to submit invoices. The workers had to dress appropriately which is a certain type of control. The Worker admitted she did some clerical work for the Appellant
+[36] Considering these facts there was sufficient control to conclude that there existed a contract of service between the Worker and the Appellant.
+[37] Ownership of tools: The work was performed at the Appellant's residence. The wheelchair, hospital bed, computer, printer as well as other items were supplied by the Appellant. The Worker did not supply any equipment of her own.
+[38] Based on the evidence applicable to this criteria the Worker was hired as an employee.
+[39] Chance of profit and risk of loss: The Worker was paid at an hourly rate. She did not incur expenses in the performance of her duties.
+[40] An employee receiving a regular salary on an hourly basis cannot be considered as an independent worker. We can conclude that there was no chance of profit or risk of loss.
+[41] Integration: The Worker was integrated into the needs of the Appellant and his wife. The Worker performed her duties on a regular basis during the period in question working for the Appellant except in 2000 when she had a part-time job to supplement her income. We can conclude that the Worker was integrated to the needs of the Appellant and his wife's.
+[42] Considering the four criteria enumerated by the Federal Court of Appeal in Wiebe Door (supra) the Worker was engaged by the Appellant in insurable and pensionable employment within the meaning of paragraph 5(1)(a) of the Act and paragraph 6(1)(a) of the Plan respectively for the period in question as there was a contract of service between the Worker and the Appellant.
+[43] The appeal is therefore dismissed and the decision of the Minister is confirmed.
+Signed at Ottawa, Canada, this 11th day of September 2003.
+"J.F. Somers"
+Somers, D.J.
+CITATION:
+2003TCC522
+COURT FILE NO.:
+2002-3894(EI) and 2002-3895(CPP)
+STYLE OF CAUSE:
+Ronald O.B. Richardson and M.N.R. and Joy E. Watson
+PLACE OF HEARING:
+London, Ontario
+DATE OF HEARING:
+May 29, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable J.F. Somers
+Deputy Judge
+DATE OF JUDGMENT:
+September 11, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Robert O. Richardson
+Counsel for the Respondent:
+Stephen Leckie
+For the Intervenor:
+The Intervenor herself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Robert O. Richardson
+Firm:
+Robert O. Richardson
+London, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

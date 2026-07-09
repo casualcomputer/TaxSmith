@@ -1,0 +1,155 @@
+Title: Promotions C.D. Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28649/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-216-28649-promotions-c-d-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2008-05-20
+
+# Promotions C.D. Inc. c. M.R.N.
+
+- Citation: 2008 CCI 216
+- Decision date: 2008-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1113, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Promotions C.D. Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-20
+Référence neutre
+2008 CCI 216
+Numéro de dossier
+2007-3931(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2007-3931(EI)
+ENTRE :
+PROMOTIONS C.D. INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 13 mars 2008, à Montréal (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Daniel Bourgeois
+Avocate de l'intimé :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et les décisions rendues par ministre du Revenu national sont infirmées, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 21e jour de mai 2008.
+« Paul Bédard »
+Juge Bédard
+Référence : 2008CCI216
+Date : 20080521
+Dossier : 2007-3931(EI)
+ENTRE :
+PROMOTIONS C.D. INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Dans la présente affaire, il s’agit de déterminer si les travailleurs suivants satisfaisaient aux exigences d’un contrat de louage de services au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi (la « Loi ») pendant les années 2005 et 2006 au cours desquelles ils étaient au service de l’appelante : Messieurs Michel Blais, Antoine Corbeil, David Franks, Robert Lavoie et Denis Pilon.
+[2] Pour rendre ces décisions, le ministre du Revenu national (le « ministre ») s’est appuyé sur les hypothèses de fait suivantes énoncées au paragraphe 23 de la Réponse à l’avis d’appel, lesquelles ont été admises ou niées par l’appelante comme il est indiqué entre parenthèses :
+a) l’appelante a été constituée en société le 29 août 1972; (admis)
+b) l’appelante exploitait une entreprise de distribution et de ventes de produits non alimentaires à l’intérieur de magasins d’alimentation et de pharmacies; (admis)
+c) l’appelante embauchait 60 employés salariés et 40 travailleurs qu’elle considérait comme des représentants, travailleurs autonomes; (admis)
+d) les cinq travailleurs au présent litige, étaient considérés comme représentants travailleurs indépendants par l’appelante car ils avaient accepté une telle offre de l’appelante; (nié tel rédigé)
+e) les travailleurs avaient signé des contrats avec l’appelante qui se renouvelaient automatiquement à chaque année; (admis)
+f) à l’agent des appels, la majorité des travailleurs ont déclaré avoir accepté les conditions de l’appelante afin de pouvoir travailler et gagner leur vie; (nié)
+g) Denis Pilon travaillait pour l’appelante depuis 12 ans, Michel Blais et David Franks travaillaient pour l’appelante depuis 8 ans; Antoine Corbeil et Robert Lavoie travaillaient pour l’appelante depuis 5 ans; (admis)
+h) certains travailleurs ne prenaient pas de semaine de vacances car ils avaient peur de perdre leur emploi s’ils en prenaient; (nié)
+i) les tâches des travailleurs consistaient à prendre les commandes des clients de l’appelante, à accueillir la marchandise à l’entrepôt régional de l’appelante, à livrer et à placer des marchandises comme des jouets ou de la papeterie dans les marchés d’alimentation ou dans les pharmacies; (nié tel que rédigé)
+j) les travailleurs recevaient une formation et des directives sur les présentoirs et la présentation des marchandises par l’appelante, ils devaient disposer les marchandises selon le « programme » fourni par l’appelante; (nié)
+k) l’appelante assignait un territoire aux travailleurs; (nié)
+l) l’appelante fournissait aux travailleurs la liste de commerces à desservir; (nié tel que rédigé)
+m) les clients étaient ceux de l’appelante et non ceux des travailleurs; (nié tel que rédigé)
+n) les travailleurs ne facturaient jamais les clients de l’appelante; (admis)
+o) c’est l’appelante et non les travailleurs qui réglaient les plaintes des clients; (nié)
+p) l’appelante fournissait aux travailleurs un ordinateur de poche ainsi que les marchandises et les équipements requis pour placer les marchandises tel que les présentoirs et les crochets; (admis)
+q) l’appelante avait des superviseurs qui vérifiaient la qualité de travail des travailleurs; (nié)
+r) à un représentant de l’intimé, Michel Blais, David Franks, Robert Lavoie et Denis Pilon déclarait qu’un superviseur de l’appelante leur donnait régulièrement des directives; (nié)
+s) pour sa part, Antoine Corbeil déclarait que le directeur des ventes de l’appelante supervisait son travail; (nié tel que rédigé)
+t) les travailleurs établissaient leur horaire respectif mais ils devaient respecter la fréquence des visites des commerces telle qu’établie par l’appelante; (nié)
+u) les travailleurs étaient rémunérés exclusivement à commission à un taux variable de 9 à 14 % de la valeur de ventes des marchandises; (nié tel que rédigé)
+v) l’appelante fixait seule le prix de ventes des marchandises; (nié tel que rédigé)
+w) les travailleurs devaient produire un rapport de ventes à chaque semaine à l’appelante; (nié)
+x) les travailleurs étaient rémunérés régulièrement aux deux semaines par chèque; (admis)
+y) les travailleurs avaient des cartes d’affaires fournie par l’appelante; (admis)
+z) à un représentant de l’intimé, René Cloutier, le contrôleur de l’appelante, déclarait que les travailleurs n’avaient rien investi dans l’entreprise de l’appelante et qu’ils n’avaient aucune responsabilité financière à part leur frais de déplacement; (nié tel que rédigé)
+aa) si les déplacements des travailleurs dépassaient 200 kilomètres, l’appelante remboursait le kilométrage et les frais de déplacement; (nié)
+bb) Michel Blais, Robert Lavoie et Denis Pilon déclaraient à un représentant de l’intimé qu’ils devaient faire le travail personnellement et qu’ils ne pouvaient pas embaucher d’assistant; (nié)
+Remarques préliminaires
+[3] Monsieur Henriot Cléophat, agent des appels de l’Agence des douanes et du revenu du Canada, a été le seul témoin de l’intimé.
+[4] Les témoins de l’appelante étaient monsieur Jacques Collette, le vice-président de l’appelante, messieurs Denis Pilon, Antoine Corbeil et David Franks, des travailleurs visés par les décisions du ministre. Je signale immédiatement que le témoignage des témoins qui appuyait la position de l’appelante m’a paru très crédible.
+Les faits
+[5] L’appelante exploite une entreprise de distribution et de vente de produits non alimentaires (produits chimiques d’usage ménager et industriel, jouets, papeterie, etc.). Les tâches des travailleurs consistaient notamment à prendre les commandes des clients de l’appelante (essentiellement des grandes chaînes d’alimentation, des chaînes pharmaceutiques et des chaînes de dépanneurs) et de leurs clients qu’ils avaient recrutés, à cueillir la marchandise (propriété de l’appelante) à un entrepôt (généralement l’entrepôt de l’appelante), à livrer et à placer cette marchandise chez les clients et à cueillir chez les mêmes clients la marchandise invendue pour la retourner à l’entrepôt de l’appelante ou la livrer à un transporteur public pour qu’il la livre à son tour à l’entrepôt de l’appelante.
+[6] Il ressort, par ailleurs, du témoignage des témoins appuyant la position l’appelante, et de la preuve documentaire soumise par l’appelante que :
+a) les travailleurs ont tous signé librement et en connaissance de cause le contrat. Ce contrat fixe les modalités des relations entre les parties et les conditions concernant la vente des produits de l’appelante par les travailleurs qui y sont décrits comme des entrepreneurs indépendants non exclusifs et non comme des employés de l’appelante. L’intention déclarée et sincèrement exprimée par les parties au contrat est claire : elles voulaient que le contrat qu’elles avaient signé soit de la nature d’un contrat d’entreprise;
+b) les travailleurs ont tous inscrit la rémunération de leur travail comme un revenu d’entreprise dans leurs déclarations de revenus. Ils ont immatriculé leurs entreprises chez l’inspecteur général des entreprises financières. Ils étaient aussi inscrits auprès des autorités fiscales aux fins de la TPS et de la TVQ et ces taxes étaient perçues et remises aux autorités;
+c) les travailleurs n’étaient rémunérés qu’à commission, sans plus. Ils devaient payer personnellement les frais et les dépenses liés à la vente. En outre, l’appelante ne fournissait pas aux travailleurs d’automobile ou de cellulaire et ne donnait aucune allocation pour frais d’utilisation. Finalement, l’appelant ne remboursait aucune dépense d’hébergement. Les travailleurs étaient responsables de toute perte ou vol de la marchandise, dès qu’elle était sous leur contrôle, c’est‑à‑dire dès qu’ils la cueillaient à l’entrepôt de l’appelante ou à l’entrepôt du transporteur public dont les services avaient été retenus par l’appelante ou encore dès qu’ils cueillaient chez les clients la marchandise invendue;
+d) l’appelante n’imposait aux travailleurs aucun quota de vente;
+e) les travailleurs étaient libres de vendre d’autres produits que ceux de l’appelante, pourvu que ces produits ne fassent pas concurrence à ceux de l’appelante. À cet égard, monsieur Franks a expliqué que, pendant les années visées, en plus de distribuer les produits de l’appelante, il avait pendant cette même période distribué pendant un certain temps du café en vrac auprès des clients de l’appelante et de ses clients. Monsieur Franks a aussi expliqué qu’il avait également exploité, durant la même période, une entreprise de nettoyage de planchers;
+f) en aucun temps les travailleurs devenaient‑ils propriétaires de la marchandise vendue. Ils n’en fixaient pas le prix et ne facturaient jamais les clients. Par ailleurs, certains travailleurs ont expliqué qu’ils avaient à l’occasion proposé à l’appelante de réduire leur commission sur certains produits, et ce, pour être en mesure de conserver des clients;
+g) les travailleurs pouvaient engager leur propre force de vente, et ce, sans l’assentiment ni l’intervention de l’appelante. À cet égard, monsieur Collette a expliqué que son distributeur pour la région de Québec et son distributeur pour la région de la Beauce avaient leur propre force de vente;
+h) les travailleurs étaient responsables de la planification de leur travail, décidaient du nombre d’heures travaillées ainsi que des journées de travail et choisissaient les clients à rencontrer et la fréquence de ces rencontres. Finalement, les travailleurs déterminaient le moment et la durée de leurs vacances;
+i) les travailleurs recrutaient leurs propres clients en plus de servir ceux de l’appelante. L’appelante assignait à chacun des travailleurs un territoire. Toutefois, ils pouvaient recruter et recrutaient dans les faits des clients en dehors du territoire assigné, et ce, sans l’assentiment de l’appelante. Les travailleurs ont expliqué que seul le coût du transport lié à la livraison de la marchandise freinait leurs efforts de vente en dehors du territoire qui leur était assigné. Monsieur Corbeil a même expliqué qu’il était libre de servir la clientèle de l’appelante sur le territoire qui lui avait été assigné. À cet égard, monsieur Corbeil a expliqué qu’il avait avisé l’appelante qu’il ne servirait plus les clients de l’appelante situés à l’extrémité du territoire qui lui avait été assigné (en l’espèce la région de La Tuque) parce qu’il avait constaté qu’il perdait de l’argent à les servir;
+j) l’appelante n’exigeait pas de ses travailleurs qu’ils rendent des comptes sur leurs activités, pas plus qu’elle ne remplissait des fiches d’évaluation du travail accompli par les travailleurs, en rencontrant ceux-ci pour leur communiquer les résultats de l’évaluation. L’appelante ne sanctionnait pas les travailleurs;
+k) les travailleurs ne travaillaient pas dans les locaux de l’appelante. Ils se rendaient essentiellement chez l’appelante pour cueillir la marchandise à l’entrepôt de cette dernière et pour retourner à ce même entrepôt la marchandise invendue que les clients voulaient retourner à l’appelante;
+l) c’étaient les travailleurs et non l’appelante qui réglaient les plaintes des clientes de l’appelante, plaintes par ailleurs très rares compte tenu de la qualité de leurs services et de leur longue expérience dans le domaine de la distribution;
+m) les travailleurs, règle générale, ne recevaient aucune directive ou formation de l’appelante. Les directives et la formation qu’ils recevaient de l’appelante avaient trait aux directives qu’elle-même recevait occasionnellement de certains de ses clients relativement à la disposition de la marchandise dans leurs points de vente. Les travailleurs qui ont témoigné ont tous déclaré qu’ils ne rencontraient que très rarement les deux superviseurs de l’appelante et que les seules directives qu’ils recevaient occasionnellement d’eux avaient trait encore une fois aux exigences des clients de l’appelante relativement à la disposition de la marchandise dans les établissements. Enfin, monsieur Corbeil a catégoriquement nié que le directeur des ventes de l’appelante supervisait son travail. Monsieur Corbeil a expliqué qu’il avait rencontré à l’occasion le directeur des ventes de l’appelante uniquement dans le but d’élaborer avec lui une stratégie dans le but de conserver un client que l’appelante était sur le point de perdre.
+n) l’appelante fournissait aux travailleurs un ordinateur de poche ainsi que l’équipement requis pour placer la marchandise, tels que des présentoirs et des crochets. Les travailleurs ont expliqué que l’utilisation de l’ordinateur de poche n’était toutefois pas imposée par l’appelante, mais que son utilisation facilitait grandement leur travail lié à la prise des commandes des clients et leur transmission à l’appelante. Il convient enfin de souligner que les travailleurs étaient responsables de la perte ou du vol de l’ordinateur de poche qui était mis à leur disposition.
+Analyse
+Le droit
+[7] Quand les tribunaux ont à définir des notions de droit privé québécois aux fins de l'application d'une loi fédérale, telle la Loi sur l'assurance-emploi, ils doivent se conformer à la règle d'interprétation à l'article 8.1 de la Loi d'interprétation. Pour déterminer la nature d'un contrat de travail québécois et le distinguer d'un contrat de service, il faut, tout au moins depuis le 1er juin 2001, se fonder sur les dispositions pertinentes du Code civil du Québec (« Code civil »). Ces règles sont incompatibles avec les règles énoncées dans des arrêts comme 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983 et Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553. Contrairement à la situation en common law, les éléments constitutifs du contrat de travail ont été codifiés et les tribunaux n'ont plus, depuis l'entrée en vigueur de l'article 2085 et de l'article 2099 du Code civil, le 1er janvier 1994, la latitude qu'ont les tribunaux de common law pour définir ce qui constitue un contrat de travail. S'il est nécessaire de s'appuyer sur des décisions jurisprudentielles pour déterminer s'il existait un contrat de travail, il faut choisir celles qui ont appliqué une approche conforme aux principes du droit civil.
+[8] Dans le Code civil, des chapitres distincts portent sur le « contrat de travail » (articles 2085 à 2097) et sur le « contrat d'entreprise et de service » (articles 2098 à 2129).
+[9] L'article 2085 porte que le contrat de travail :
+[...] est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+[10] L'article 2098 porte que le contrat d'entreprise :
+[...] est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+[11] L'article 2099 suit, rédigé dans les termes suivants :
+L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[12] On peut dire que ce qui distingue fondamentalement un contrat de service d'un contrat de travail est l'absence, dans le premier cas, d'un lien de subordination entre le prestataire de services et le client et la présence, dans le second cas, du droit de l'employeur de diriger et de contrôler l'employé. Il faut donc déterminer en l’espèce s'il y avait ou non un lien de subordination entre l'appelante et les travailleurs.
+[13] L'appelante a le fardeau de faire la preuve, selon la prépondérance des probabilités, des faits en litige pour établir son droit à l'annulation des décisions du ministre. Elle doit prouver le contrat que les parties ont conclu et établir leur intention commune quant à la nature de ce contrat. S'il n'y a pas de preuve directe de cette intention, l’appelante peut avoir recours à des indices conformément au contrat qui avait été convenu et aux dispositions du Code civil qui le régissaient. L’appelante devra en l’espèce prouver l’absence d'un lien de subordination si elle veut établir l’inexistence d'un contrat de travail et, pour ce faire, elle peut utiliser, si nécessaire, des indices d’autonomie tels que ceux qui ont été énoncés dans l’arrêt Wiebe Door, précité, soit la propriété des outils ainsi que le risque de perte et la possibilité de profit. Je suis d’avis toutefois que, contrairement à l’approche qui a cours en common law, une fois qu’un juge est en mesure de conclure à l’absence d’un lien de subordination, son analyse s’arrête là pour déterminer s’il s’agit d’un contrat de service. Il n’est pas nécessaire de considérer la pertinence de la propriété des outils ainsi que le risque de perte ou la possibilité de profit, puisqu’en vertu du Code civil, l’absence du lien de subordination constitue le seul élément constitutif du contrat de service qui le distingue du contrat de travail. Les éléments tels la propriété des outils et les risques de perte ou la possibilité de profit ne sont pas des éléments essentiels à un contrat de service. Par contre, l’absence d'un lien de subordination est un élément essentiel. À l’égard des deux formes de contrat, il faut décider s'il existe ou non un lien de subordination. Évidemment, le fait que le travailleur se comportait comme un entrepreneur pourrait être un indice de l’absence de lien de subordination.
+[14] En dernier ressort, c’est habituellement sur la base des faits révélés par la preuve au sujet de l’exécution du contrat qu’une décision devra être rendue par la Cour, et cela, même si l’intention manifestée par les parties indique le contraire. Si la preuve au sujet de l’exécution du contrat n’est pas concluante, une décision peut quand même être rendue selon l’intention des parties et la façon dont elles ont décrit le contrat, si la preuve est probante sur ces questions. Si cette preuve non plus n'est pas concluante, alors la sanction sera le rejet de l’appel de l’appelante pour cause de preuve insuffisante.
+[15] La question consiste alors à déterminer si, en l’espèce, les travailleurs travaillaient sous le contrôle ou la direction de l’appelante ou encore si l’appelante pouvait ou était en droit de contrôler ou de diriger les travailleurs.
+[16] Le contrat entre les travailleurs et l’appelante mentionne clairement que le contrat qui les lie est un contrat d’entreprise. Toutefois, même si les parties contractantes ont, en l’espèce, manifesté clairement, librement et en toute connaissance de cause leur intention dans leur contrat écrit, cela ne signifie pas que je dois considérer ce fait comme décisif. Encore faut-il que le contrat soit exécuté conformément à ce qui y est prévu. Ce n’est pas parce que les parties ont stipulé que le travail sera exécuté par un travailleur autonome qu’il n’existe pas de relation employeur‑employé. En définitive, je dois vérifier si la relation contractuelle correspond à la réalité.
+[17] À mon avis, le contrat qui liait les travailleurs à l’appelante est un contrat de service puisqu’il n’y avait pas de subordination. D’abord, les travailleurs se sont comportés comme des entrepreneurs. Je rappelle que l’appelante n’avait pas droit à l’exclusivité des services des travailleurs, que ces derniers pouvaient vendre d’autres produits que ceux de l’appelante et, finalement, qu’ils pouvaient engager leur propre force de vente, et ce, sans l’assentiment ni l’intervention de l’appelante. Les travailleurs étaient responsables de la planification de leur travail, décidaient du nombre d’heures travaillées ainsi que des journées de travail et choisissaient les clients à rencontrer et la fréquence de ces rencontres. Les travailleurs déterminaient le moment et la durée de leurs vacances. Les travailleurs recrutaient leurs propres clients en plus de servir ceux de l’appelante. Le recrutement de clients pouvait se faire et se faisait dans les faits sur des territoires consignés. Les travailleurs pouvaient refuser et refusaient dans les faits de servir les clients de l’appelante lorsqu’ils jugeaient qu’il n’était pas rentable de le faire. L’appelante n’exigeait pas de ses travailleurs qu’ils rendent des comptes concernant leurs activités. Les travailleurs ne travaillaient pas dans les locaux de l’appelante. Ils n’étaient rémunérés qu’à commission, sans plus. Ils devaient payer personnellement les frais et les dépenses liés à la vente. Ils étaient propriétaires de la quasi-totalité des outils nécessaires à l’exécution du travail. Certes, les travailleurs devaient disposer la marchandise dans les établissements de certains clients de l’appelante selon les directives de cette dernière. Je ne crois pas qu’on doive voir nécessairement dans ce fait un lien de subordination. Je suis d’avis que les spécificités des tâches à exécuter ne sont pas l’apanage et le propre d’un contrat de travail. En effet, un entrepreneur qui retient les services d’un sous‑traitant pour effectuer tout ou partie des tâches qu’il s’est engagé envers ses clients à effectuer va nécessairement préciser ce qu’ils ont à réaliser. Autrement, il faudrait sur cette base conclure que l’appelante est elle‑même liée à ses clients par un contrat de travail puisqu’elle s’est engagée à disposer la marchandise selon leurs directives. Rares sont les donneurs d’ouvrage qui ne s’assurent pas que le travail est exécuté en conformité avec leurs exigences. Certes, l’appelante détenait le contrôle sur le prix des marchandises demandé aux clients et sur la facturation. Même si je suis d’avis que ce fait est habituellement un indice de subordination plutôt que d’autonomie, je souligne que ce fait en soi ne rend pas probable l’existence d’un contrat de travail, puisque la quasi‑totalité des autres faits mis en preuve appuie l’existence d’un contrat de service. Il m’apparaît normal que l’appelante détermine le prix des marchandises puisque c’est elle qui contractait avec les clients. Les clients étaient donc des clients de l’appelante qui étaient tout simplement servis par des sous‑traitants indépendants, en l’espèce, les travailleurs.
+[18] Pour ces motifs, l’appel est accueilli.
+Signé à Ottawa, Canada, ce 21e jour de mai 2008.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2008CCI216
+Nº DU DOSSIER DE LA COUR : 2007-3931(EI)
+INTITULÉ DE LA CAUSE : PROMOTIONS C.D. INC. ET M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 13 mars 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 21 mai 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Daniel Bourgeois
+Avocate de l'intimé :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Daniel Bourgeois
+Cabinet : De Grandpré Chait
+Montréal, Québec
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

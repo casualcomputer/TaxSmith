@@ -1,0 +1,195 @@
+Title: Club de Golf Montcalm Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26338/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-481-26338-club-de-golf-montcalm-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-07-16
+
+# Club de Golf Montcalm Inc. c. M.R.N.
+
+- Citation: 2004 CCI 481
+- Decision date: 2004-07-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3285, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Club de Golf Montcalm Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-07-16
+Référence neutre
+2004 CCI 481
+Numéro de dossier
+2003-2588(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2003-2588(EI)
+ENTRE :
+CLUB DE GOLF MONTCALM INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 25 mars 2004 à Montréal (Québec)
+Devant : L'honorable juge suppléant S.J. Savoie
+Comparutions :
+Avocat de l'appelante :
+Me Serge Fournier
+Avocate de l'intimé :
+Me Antonia Paraherakis
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le Ministre est annulée selon les motifs de jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 16e jour de juillet 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2004CCI481
+Date : 20040716
+Dossier : 2003-2588(EI)
+ENTRE :
+CLUB DE GOLF MONTCALM INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Savoie,
+[1] Cet appel a été entendu à Montréal (Québec) le 25 mars 2004.
+[2] L'appelante a porté en appel la décision du ministre du Revenu national (le « Ministre » ) qui déterminait que l'emploi de monsieur Robert-André Gaudet, le travailleur, n'était pas assurable.
+[3] Le 5 juin 2003, le Ministre a informé l'appelante de sa décision selon laquelle cet emploi n'était pas assurable en raison de l'existence d'un lien de dépendance entre elle et le travailleur pendant la période en litige, c'est-à-dire, du 23 janvier 2002 au 4 janvier 2003.
+[4] En rendant sa décision, le Ministre s'est fondé sur les présomptions de fait suivantes énoncées au paragraphe 5 de la Réponse à l'avis d'appel :
+a) L'appelante exploite un terrain de golf comprenant un restaurant et une salle de réception; (admis)
+b) L'appelante a débuté ses opérations en 1977; (admis)
+c) L'entreprise est exploitée d'avril à novembre; (admis)
+d) Le chiffre d'affaires de l'appelante est d'environ 2.8 millions de dollars par année; (admis)
+e) M. Raymond Gaudet est le président du conseil d'administration et l'actionnaire principal de l'appelante avec 98 % des actions; (admis)
+f) Les autres actionnaires de l'appelante sont le travailleur, Sylvain, Claude et Ève Gaudet et Mme Évangeline Richard; (admis)
+g) Mme Évangeline Richard est la conjointe de M. Raymond Gaudet; (admis)
+h) Le travailleur, Sylvain, Claude et Ève Gaudet sont les enfants de M. Raymond Gaudet et de Mme Évangeline Richard; (admis)
+i) Mme Évangeline Richard administre les activités de l'appelante; (admis)
+j) M. Sylvain Gaudet s'occupe principalement de la boutique; (admis)
+k) M. Claude Gaudet est le surintendant de l'appelante et veille à l'entretien du terrain de golf; (admis)
+l) L'appelante compte environ 95 employés; (admis)
+m) Au cours de la période en litige, les tâches du travailleur consistaient à effectuer l'entretien de la machinerie, à tailler les pelouses et à effectuer divers travaux au restaurant; (nié)
+n) La rémunération du travailleur s'élevait à 680,00 $ par semaine pour 40 heures de travail; (nié)
+o) Le travailleur recevait aussi une paye de vacances correspondant à 6 % de son salaire annuel; (admis)
+p) Le travailleur est au service de l'appelante du mois d'avril au mois de janvier de chaque année; (admis)
+q) Le travailleur et les autres membres de sa famille ont reçu des bonis de 5 000 $ en 2001 et de 25 000 $ en 2002; (admis)
+r) Aucun autre employé de l'appelante n'a reçu de boni au cours des années 2001 et 2002. (admis)
+[5] L'appelante a admis toutes les présomptions de fait du Ministre sauf celles énoncées aux alinéas m) et n) qu'elle a niées.
+[6] Quelques précisions mineures ont été apportées en preuve quant aux alinéas m) et n). Le travailleur avait la tâche additionnelle de mettre la machinerie en opération. Son salaire, pendant la période en litige, était fixée à 680,00 $ par semaine pour 40 heures de travail. Il est maintenant fixé à 720,00 $ par semaine.
+[7] L'agent des appels a formulé opinion (pièce I-3) selon laquelle l'emploi du travailleur ne présentait rien d'anormal, sauf pour ce qui concerne la rémunération et plus spécifiquement encore le versement en 2002 du boni de 25 000,00 $ que lui a versé l'appelante.
+[8] En d'autres termes, le Ministre n'a pas mis en doute l'assurabilité de cet emploi, ne serait-ce que pour invoquer son exclusion en vertu de l'alinéa 5(2)i) de la Loi sur l'assurance-emploi (la « Loi » ), à cause du lien de dépendance.
+[9] Dans sa plaidoirie, l'avocate du Ministre a affirmé que celui-ci ne mettait pas en cause la légitimité de la mise à pied du travailleur pendant une certaine période de l'année. Ainsi, le Ministre n'a pas mis en cause la durée, la nature et l'importance du travail du travailleur, dans le contexte de l'alinéa 5(3)b) de la Loi.
+[10] Bref, le Ministre s'est accroché uniquement sur le critère de la « rétribution versée » spécifié à l'alinéa 5(3)b) de la Loi.
+[11] L'agent des appels a fait valoir dans son rapport sur un appel (pièce I-3) que :
+1. Personne d'autre dans l'industrie sans lien de dépendance n'a reçu ce boni;
+2. Même le président de l'appelante n'a pas reçu de boni;
+3. Le boni versé au travailleur en 2002 représente 85 % de son salaire;
+[12] Cependant à l'audition de cet appel l'agent des appels a été incapable de répondre à la question qui visait à déterminer si le travailleur était un employé-clé de l'entreprise. De plus, il a été incapable de répondre à la question qui visait à déterminer si le travailleur faisait partie de ceux qui avaient la charge de l'entreprise ou qui prenaient part à la gestion ainsi qu'a la question qui visait à comparer les employés de l'entreprise avec les mêmes responsabilités et les distinguer des autres.
+[13] La preuve a révélé que le Ministre a comparé le traitement, c'est-à-dire, le boni au travailleur, avec celui des autres employés de l'appelante, sans égard à leurs fonctions au sein de l'entreprise.
+[14] Le Ministre a mis beaucoup d'importance sur le fait que seuls le travailleur et les autres membres de sa famille avaient reçu des bonis.
+[15] L'argument de l'appelante est à l'effet que le Ministre compare les pommes avec les oranges puisque le travailleur est un employé cadre, qu'il oeuvre au sein de l'entreprise depuis son jeune âge, qu'il est rémunéré en fonction de l'importance de ses tâches dans l'entreprise, qu'il est considéré irremplaçable par l'appelante, qu'il a investi 10 000,00 $ dans l'entreprise il y a quelques années, suite à la demande de l'appelante pour assurer le get successoral, qu'il a reçu ce boni en reconnaissance des services bénévoles rendus alors qu'il était étudiant et en guise de cadeau à l'occasion du 25ième anniversaire de l'entreprise.
+[16] La comparaison du traitement du travailleur avec le président de l'entreprise, monsieur Raymond Gaudet, a paru étrange, puisque celui-ci, quoiqu'il possède 85 % des actions de l'appelante, ne travaille pas dans l'entreprise, puisqu'il exploite un cabinet de dentiste.
+[17] La preuve a révélé que les autres actionnaires de l'entreprise sont les suivants : Évangeline Richard, Sylvain, Claude, Ève et Robert-André Gaudet, le travailleur. Évangeline Richard est comptable agréée de formation et s'occupe principalement de l'aspect administratif du club de golf. Elle est payée à un taux horaire de 30,00 $, calculé sur une semaine de travail de 40 heures.
+[18] L'entreprise embauche tout près de 95 employés annuellement, rémunérés selon leurs qualifications et compétences respectives. L'appelante a payé une formation au travailleur ainsi qu'à d'autres employés de l'entreprise, à l'I.T.A. de Saint-Hyacinthe (culture agricole).
+[19] Le travailleur ainsi que les autres membres de la famille, c'est-à-dire Évangeline Richard, Sylvain, Claude et Ève Gaudet, ont eu droit à un boni de 5 000,00 $ en 2001 et 25 000,00 $ en 2002. L'appelante a expliqué que le boni a été donné afin de fêter le 25ième anniversaire de l'entreprise, pour rattraper l'échelle salariale des autres employés travaillant sur d'autres terrains de golf et finalement pour ne pas que ses enfants quittent l'entreprise familiale pour une autre entreprise qui offrirait davantage au niveau salarial. Il a établi que le travailleur était supervisé par son oncle, Roger Gaudet, et oeuvrait dans l'entreprise comme son frère Claude ainsi que le mécanicien de l'entreprise. Il a été établi, par ailleurs, que le travailleur assistait aux réunions mensuelles de l'entreprise.
+[20] L'agent des appels, dans son rapport sur un appel (pièce I-3), a décrit les modalités d'emploi des autres salariés de l'entreprise, comme suit :
+· Josée Gaudet (sans lien de dépendance)
+- horaire de 40 heures/semaine
+- salaire minimum plus pourboires (13 565 $ en 2001 et 13 363 $ en 2002)
+- fonctions : serveuse
+- période d'emploi : avril à novembre
+- aucun boni
+· Danielle Desrochers (sans lien de dépendance)
+- horaire de 40 heures/semaine
+- salaire : 13,00 $ de l'heure (14 513 $ en 2001 et 20 146 $ en 2002)
+- fonctions : préparation des paies
+- période d'emploi : avril à novembre
+- aucun boni
+· Nathalie Beaudoin (sans lien de dépendance)
+- horaire de 40 heures/semaine
+- salaire : 15,00 $ de l'heure (19 529 $ en 2001 et 22 152 $ en 2002)
+- fonctions : travail de bureau
+- période d'emploi : avril à décembre
+- aucun boni
+[21] En outre, l'agent des appels, dans son rapport, faisait la remarque suivante :
+REMARQUE : Robert-André Gaudet a reçu un revenu de salaire de 33 909 $ en 2001 et de 54 584 $ en 2002 (incluant les bonus).
+Sylvain Gaudet a reçu un revenu de salaire de 34 139 $ en 2001 et de 56 015 $ en 2002 (incluant les bonus).
+Claude Gaudet a reçu un salaire de 35 438 $ en 2001 et de 56 413 $ en 2002.
+Évangeline Richard a reçu un revenu de salaire de 35 151 $ en 2001 et de 60 398 $ en 2002 (incluant les bonus).
+[22] L'avocat de l'appelante reproche au Ministre d'avoir comparé la rémunération du travailleur avec les autres employés de l'entreprise n'occupant pas le même poste que lui et d'avoir négligé de faire cette comparaison avec des employés occupant des fonctions semblables dans l'industrie, dans d'autres terrains de golf, comme l'a fait l'appelante qui a voulu, en payant le boni, permettre à ses employés cadres de rattraper l'échelle salariale qui prévaut dans l'industrie, pour des emplois similaires.
+[23] L'appelante demande à cette Cour de renverser la décision du Ministre.
+[24] Pour rendre sa décision, le Ministre s'est appuyé sur les alinéas 5(1)a) et 5(2)i) et les paragraphes 5(3) et 93(3)de la Loi.
+[25] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[26] Les paragraphes 5(2) et (3) de la Loi sont libellés en partie comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[...]
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[27] Le Ministre soutient que l'emploi exercé par le travailleur n'était pas assurable, pendant la période en litige, puisqu'il existait un lien de dépendance entre celui-ci et l'appelante, conformément à la disposition de l'alinéa 5(2)i) de la Loi et des articles 251 et 252 de la Loi de l'impôt sur le revenu.
+[28] En outre, le Ministre soutient qu'il a exercé, à bon droit, son pouvoir discrétionnaire qui lui est conféré sous le paragraphe 5(3) de la Loi, et que les conditions de travail du travailleur n'auraient pas été semblables si l'appelante et le travailleur n'avaient pas eu, entre eux, de lien de dépendance.
+[29] La Cour d'appel fédérale a énoncé les principes d'application pour la solution du problème présenté à cette Cour dans l'arrêt Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878 dont voici un extrait :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[30] Dans le cas sous étude, la preuve a été faite que l'appelante a payé ce boni au travailleur pour fêter le 25ième anniversaire de l'entreprise, pour rattraper l'échelle salariale des employés oeuvrant dans la même capacité dans d'autres entreprises et pour garder le travailleur dans son entreprise. Elle a offert ces mêmes conditions salariales aux autres employés de la famille du travailleur oeuvrant comme employés cadres, ayant avec plus de responsabilités que les autres employés.
+[31] Il a été établi que le Ministre, lors de son enquête, n'est pas allé chercher les données lui permettant de faire la comparaison avec des employés de même catégorie, possédant le même niveau de compétence, d'expérience et d'importance au sein d'entreprises semblables ailleurs.
+[32] Il s'est contenté de faire la comparaison entre la rémunération du travailleur et celle des autres employés dans la même entreprise, oeuvrant à un niveau tout à fait différent.
+[33] Dans ce contexte, l'avocat de l'appelante a invité cette Cour à prendre connaissance du principe énoncé par le juge Desjardins, de la Cour d'appel fédérale, dans l'arrêt Landry c. Canada (ministre du Revenu national - M.R.N.), [2001] A.C.F. no 148 qui écrivait ce qui suit :
+... [Le juge] ne s'est jamais posé la question de savoir s'il y avait une relation entre les conditions d'emploi du demandeur et son lieu [sic] de dépendance avec le payeur.
+Eût-il adopté la bonne approche, le juge aurait constaté qu'en l'espèce, la preuve avait révélé que le demandeur était traité, en terme de conditions de travail, de la même manière que les autres employés du payeur. C'était là, nous en convenons, des conditions inhabituelles, mais il s'agit d'emplois saisonniers dans des régions éloignées qui peuvent aisément échapper aux règles normales.
+Ce que veut empêcher l'alinéa 3(2)c) de la Loi sur l'assurance-chomâge (devenue la Loi sur l'assurance-emploi), ce n'est pas la présence, en tant que telle, de conditions de travail inhabituelles; c'est la présence de conditions de travail qui ne s'expliquent que par un lien de dépendance entre le prestataire et le payeur.
+[34] L'appelante a fait la preuve que le boni touché par le travailleur servait à sa rémunération dans le but d'atteindre le niveau de compensation qui prévaut dans l'industrie pour un travail comparable. Non seulement le Ministre n'a-t-il pas réfuté cette preuve, mais l'agent des appels, à l'audition, a avoué qu'aucun effort n'avait été déployé pour trouver dans l'industrie les données qui auraient pu servir à supporter sa conclusion.
+[35] Le juge Marceau de la Cour d'appel fédérale, dans l'arrêt Légaré, précité, dans une cause à peu près semblable a écrit ce qui suit :
+Mais alors quels étaient donc ces faits qui avaient si mal impressionné le ministre? Il en mentionne cinq : 1- les demanderesses avaient un salaire de 10,00 $ l'heure alors que les autres employés ne touchaient que le salaire minimum de 6,00 $; 2- ce salaire des demanderesses était même supérieur à celui des actionnaires eux-mêmes; 3- en 1994 et 1995, ce salaire des demanderesses ne leur fut pas versé régulièrement à toutes les semaines comme ça avait été le cas auparavant et le fut par la suite, mais ne le fut qu'en deux étapes à la fin de l'année; 4- en 1996, alors que le salaire des employés était porté à 7,00 $, le salaire minimum, celui des demanderesses était resté à 10,00 $; et 5- les trois enfants en bas âge de l'une des demanderesses, dont le domicile est attenant aux serres, pouvaient parfois être présents das les serres ou sur les terrains qui les encadrent.
+Je viens de dire qu'à notre avis ces seuls faits nous paraissent en eux-mêmes peu aptes à expliquer et à défendre la réaction du ministre ou de son délégué. L'exclusion des emplois entre personnes liées au niveau de la Loi sur l'assurance-chômage repose évidemment sur l'idée qu'on peut difficilement se fier aux affirmations des intéressés et que la possibilité d'emplois fictifs, aux conditions farfelues, est trop présente entre personnes pouvant si facilement agir de connivence. Et l'exception de 1990 a simplement voulu diminuer la portée de la présomption de fait en acceptant d'exclure de la sanction (ce qui n'était que justice) les cas où la crainte d'abus n'avait plus raison d'être. C'est dans cet esprit qu'à notre avis, après avoir reconnu ici la réalité de l'emploi, l'importance de tâches, la normalité de la rémunération, il est difficile d'attacher l'importance que le ministre a attaché aux faits invoqués par lui pour exclure l'application de l'exception. Ce sont sur les éléments essentiels du contrat de louage de services qu'il faut s'attarder pour se convaincre que l'existence du lien de dépendance entre les contractants n'a pas eu sur la détermination des conditions de l'emploi une influence abusive. Dans cette optique, la pertinence des faits invoqués, même non expliqués, paraît fort douteuse. Mais inutile d'insister. Si les faits invoqués pouvaient légitimement laisser planer un doute suffisant quant au caractère objectif des conditions du contrat de travail des demanderesses, la mise en contexte de ces faits suite à la preuve devant la Cour canadienne de l'impôt - preuve acceptée presqu'intégralement par le juge de la Cour - ne peut que mettre à plein jour le caractère non raisonnable de la conclusion initiale du ministre. Il a, en effet, été clairement expliqué et prouvé que le salaire des demanderesses était supérieur au salaire minimum des autres employés à cause des tâches de responsabilité qu'elles assumaient et que c'était le salaire courant dans l'industrie pour des emplois similaires; et a été clairement expliqué et prouvé que les actionnaires avaient convenu de diminuer leur propre rémunération courante dans une réaction de participation aux besoins pécuniaires et au développement de l'entreprise; il a été clairement expliqué et prouvé qu'une tornade en 1994 avait détruit une grande partie des bâtiments de l'entreprise, d'où était résulté une période de confusion, puis de reconstruction et de difficultés financières; enfin, il a été expliqué et prouvé que la présence des enfants de l'une des demanderesses sur les terrains des serres n'était susceptible d'affecter en rien l'accomplissement des tâches assumées et la prestation des services convenus.
+[36] La lecture de l'extrait qui précède fait la lumière sur le litige devant cette Cour. En effet, le raisonnement du juge Marceau dans l'arrêt Légaré, précité, s'est avéré utile dans le dossier sous étude et l'application du principe qu'il a énoncé est justifiée, en l'espèce.
+[37] Après avoir pris connaissance de la preuve présentée à l'audition et entendu les plaidoiries, cette Cour, compte tenu de la législation applicable et de la jurisprudence citée, est d'avis que le Ministre, en faisant l'exercice prévu à l'alinéa 5(3)b) de la Loi, n'a pas fait une appréciation correcte des faits et, en conséquence, sa conclusion ne paraît plus raisonnable.
+[38] Donc, l'emploi du travailleur était assurable car il n'était pas visé par l'alinéa 5(2)i) de la Loi. En effet, le travailleur et l'appelante sont réputés ne pas avoir de lien de dépendance entre eux dans le cadre de cet emploi puisque cette Cour est convaincue qu'il était raisonnable de conclure, compte tenu de toutes les circonstances, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[39] L'appel est accueilli et la décision rendue par le Ministre est annulée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 16e jour de juillet 2004.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI481
+No DU DOSSIER DE LA COUR :
+2003-2588(EI)
+INTITULÉ DE LA CAUSE :
+Club de Golf Montcalm Inc. et le M.R.N.
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 25 mars 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge suppléant S.J. Savoie
+DATE DU JUGEMENT :
+le 16 juillet 2004
+COMPARUTIONS :
+Pour l'appelante :
+Me Serge Fournier
+Pour l'intimé :
+Me Antonia Paraherakis
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Serge Fournier
+Étude :
+Brouillette Charpentier Fortin
+Montréal (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

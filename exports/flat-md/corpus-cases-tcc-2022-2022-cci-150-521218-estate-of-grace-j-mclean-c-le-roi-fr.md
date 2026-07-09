@@ -1,0 +1,182 @@
+---
+title: "Estate of Grace J. McLean c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521218/index.do"
+last_modified: "2022-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 150"
+citation2: ""
+neutral_citation: "2022 CCI 150"
+decision_date: "2022-11-14"
+language: "fr"
+item_id: "521218"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5668
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T11:14:26.858000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fd2b7d6fd0e44328cfdbd3a901179a663eb52345749058acd0210bb46de47293"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Estate of Grace J. McLean c. Le Roi
+
+- Citation: 2022 CCI 150
+- Decision date: 2022-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5668, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McLean (Succession) c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-11-22
+Référence neutre
+2022 CCI 150
+Numéro de dossier
+2022-1740(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2022-1740(IT)I
+ENTRE :
+SUCCESSION DE GRACE J. MCLEAN,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 novembre 2022, à Kelowna (Colombie-Britannique)
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Représentant de l’appelante :
+Me David M. Pansegrau
+Avocate de l’intimé :
+Me Katherine Matthews
+ORDONNANCE
+ATTENDU QU’après avoir entendu les observations liminaires et le témoignage initial du représentant personnel et de l’exécuteur testamentaire de l’appelante, l’avocat de l’intimé a demandé l’annulation de l’appel en raison de l’absence de compétence pour entendre l’appel;
+ET ATTENDU QUE la Cour a étudié cette requête, a suspendu l’audience et s’est réunie de nouveau pour rendre oralement ses motifs de décision;
+LA COUR ORDONNE CE QUI SUIT :
+La requête de l’intimé est accueillie, sans dépens;
+2. L’appel est annulé parce que la Cour n’a pas compétence pour entendre un appel visant à renoncer à l’intérêt sur une cotisation.
+Signé à Ottawa, en Ontario, ce 22e jour de novembre 2022.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 20e jour de février 2024.
+Crystal Simard
+Dossier : 2022-1740(IT)I
+ENTRE :
+SUCCESSION DE GRACE J. MCLEAN,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+VERSION RÉVISÉE DE LA TRANSCRIPTION
+DES MOTIFS DE L’ORDONNANCE EXPOSÉS ORALEMENT
+Déposer la transcription révisée des motifs de l’ordonnance exposés oralement à l’audience du 14 novembre 2022, à Kelowna (Colombie-Britannique). La transcription (certifiée par le sténographe judiciaire) a été révisée du point de vue du style, de la clarté, de la grammaire et ne comporte que des corrections mineures; aucune modification importante n’a été apportée.
+Signé à Ottawa (Ontario), ce 25e jour de novembre 2022.
+« R.S. Bocock »
+Le juge Bocock
+Référence : 2022CCI150
+Date : 20221125
+Dossier : 2022-1740(IT)I
+ENTRE :
+SUCCESSION DE GRACE J. MCLEAN,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DE L’ORDONNANCE
+(Appel entendu et décision prononcée oralement à l’audience le
+14 novembre 2022, à Kelowna (Colombie-Britannique))
+Le juge Bocock
+[1] Comme je l’ai mentionné avant la pause, je vais maintenant exposer les motifs pour lesquels j’ai rendu une ordonnance à l’égard du présent appel. Les motifs répondent à la requête de la Couronne visant à annuler l’appel parce que la loi ne confère pas à la Cour le pouvoir d’accorder l’allègement demandé par la Succession de Grace McLean, la contribuable dans le présent appel.
+[2] Le contexte factuel du présent appel en fait ressortir son étrangeté. M. Pansegrau, fils de la défunte, Grace McLean, et exécuteur testamentaire et bénéficiaire, interjette le présent appel. Il le fait parce qu’en 2019, il a reçu un avis du Régime de pensions du Canada, tout à fait non sollicité compte tenu des faits devant la Cour, selon lequel une prestation supplémentaire était payable à Grace McLean.
+[3] Afin de comprendre la façon dont cette situation étrange survient, il faut comprendre le fait qu’en 2019, Grace McLean était décédée. Elle est décédée en 2017. Par conséquent, une prestation était accordée à une retraitée, en vertu du Régime de pensions du Canada, qui n’était plus en vie.
+[4] Ce qui complique davantage la situation, c’est que la prestation supplémentaire visait une période d’environ 20 ans. Comme il est normal de le faire, ces montants supplémentaires ont fait l’objet d’une cotisation collectivement à titre de revenu au cours de la dernière année d’imposition de Grace McLean, soit 2017.
+[5] À la suite d’une opposition déposée par M. Pansegrau, la ministre a établi une nouvelle cotisation et accordé un allègement. Mais il s’agissait d’un allègement partiel et non complet. En fait, l’avis de nouvelle cotisation fournit de nombreux éléments de contexte :
+[traduction] « Votre paiement forfaitaire de votre régime de pensions du Canada ou de votre régime de rentes du Québec »
+[Évidemment, il s’agissait du paiement forfaitaire de la défunte.]
+« – est admissible à un calcul d’impôt spécial. Si vous en tirez un avantage, nous considérons que le montant de 300 $ ou plus d’années antérieures comme si vous l’aviez reçu au cours de ces années. »
+« – plutôt que dans l’année au cours de laquelle vous l’avez effectivement reçue. »
+[6] Cela se fait logiquement parce que les montants de pension, s’ils avaient été payés correctement, auraient été reçus pendant toutes ces années. En effet, les taux progressifs pèseront plus lourdement sur les montants forfaitaires dans l’année unique actuelle au cours de laquelle ils ont été versés. Cela n’est pas équitable puisque, sans que ce soit la faute du contribuable, ces sommes sont devenues payables au cours d’une année plutôt que d’être reçues et réparties sur de nombreuses années d’imposition. En l’espèce, le nombre d’années au cours desquelles ces prestations auraient été versées était d’environ 20 ans. L’explication de la ministre se poursuit comme suit :
+[traduction] « À l’aide de ce calcul spécial […] »
+[la ministre poursuit par l’entremise de ses mandataires]
+« […] nous avons déterminé qu’il vous serait avantageux que le montant des années antérieures soit imposé de cette façon. Nous avons modifié votre revenu de pensions au titre du Régime de pensions du Canada à 7 422 $ afin d’éliminer les prestations des années antérieures. Nous avons calculé un rajustement d’impôt fédéral de 1 189,11 $ et un rajustement provincial de 588,50 $. Nous avons modifié le montant total à payer en fonction de ces montants. »
+[7] Il s’agissait de l’avantage de la nouvelle cotisation et maintenant le léger détriment.
+[traduction] « Nous vous avons imposé des intérêts sur des arriérés de 234,89 $ sur le solde que vous devez (notamment l’impôt additionnel). Nous avons calculé ces intérêts à la date de l’avis. »
+[8] La date de l’avis, aux fins du dossier, était le 4 juin 2020.
+[9] La période sur laquelle ces intérêts sont imputés commence à la date d’exigibilité du solde, non indiquée dans cette partie de la nouvelle cotisation, et se termine à la date de la nouvelle cotisation parce que l’impôt exigible de 2017 n’avait pas été remboursé à la date de la nouvelle cotisation.
+[10] D’après d’autres explications de la ministre, nous savons que la date d’exigibilité du solde utilisée était pertinente à la date de décès en 2017.
+[11] Du point de vue contextuel, il est important de se rappeler que la prestation n’a été versée qu’en 2019 et que la succession de la contribuable n’avait aucune idée que cette prestation existait avant 2019.
+[12] Cela étant dit, dans l’examen de la requête en annulation présentée par l’intimé, notre Cour a examiné le paragraphe 161(1) de la Loi de l’impôt sur le revenu, qui dispose ce qui suit :
+Dans le cas où le total visé à l’alinéa a) excède le total visé à l’alinéa b) à un moment postérieur à la date d’exigibilité du solde qui est applicable à un contribuable pour une année d’imposition, le contribuable est tenu de verser au receveur général des intérêts […]
+a) le total des impôts payables par le contribuable […] en vertu de la présente [Loi] dépasse la somme payée par le contribuable [...] […] – [J’utilise quelques extraits.]
+[...] le contribuable doit payer l’intérêt au receveur général.
+[13] La période d’intérêt pertinente s’étend de la date d’exigibilité du solde en 2017 jusqu’à la date de nouvelle cotisation, qui était en 2020. Par conséquent, la Loi prévoit que, pour cette période donnée, il y a un montant d’intérêts dû en vertu de la Loi.
+[14] Comme la Cour l’a affirmé lorsqu’elle a discuté de cette question avec l’appelante et l’avocat de l’intimé plus tôt aujourd’hui, cela paraît anormal à la Cour. Cela est anormal parce que la question stratégique qui sous-tend les intérêts est de s’assurer que les contribuables, qui reçoivent une prestation à partir de sommes qu’ils ont reçues à tort, qu’ils retiennent ou qu’ils ont reçues à tort à titre de remboursement, et qui conservent ces sommes, devraient rembourser au Trésor fédéral les intérêts sur les sommes qu’il aurait dû pouvoir utiliser. Toutefois, la question à trancher en l’espèce est la suivante : un contribuable qui, en 2019, reçoit une prestation dont il ignorait l’existence et pour laquelle il n’a présenté aucune demande, devrait-il être responsable des intérêts alors que, en raison de son statut juridique à l’époque, il doit déclarer ce revenu deux ans avant, soit en 2017?
+[15] Comme la véritable contribuable, Grace McLean, est décédée en 2017, sa succession doit déclarer ce revenu supplémentaire dans sa déclaration de revenus finale de 2017. Et ce, malgré le fait que les montants n’étaient connus comme étant payables, ou payables et reçus que deux ans plus tard.
+[16] Je reviens à la requête en annulation. La Cour est une cour créée par la loi. Elle n’a pas compétence en équité. Je peux vous assurer, M. Pansegrau, que si elle disposait de cette compétence, elle accueillerait votre appel. Cependant, elle ne dispose pas de cette compétence.
+[17] La Cour ne peut toutefois qu’examiner la Loi, l’interpréter et s’assurer qu’elle ne la bouleverse pas en raison d’une anomalie involontaire. Sinon, le bouleversement de la Loi pour régler une anomalie pourrait peut-être résoudre l’anomalie, cela constituerait une mauvaise interprétation intolérable du libellé clair de la Loi.
+[18] Vous pourriez donc vous demander, comme moi, quel processus est en place pour ces anomalies rares et claires? Puisque, comme je l’ai affirmé, la Cour doit accueillir la requête en annulation parce que la loi ne lui confère pas le pouvoir d’accorder l’allègement en équité que vous demandez sous forme de renonciation aux intérêts. De plus, en vertu de l’article 171 de la Loi, a-t-elle le pouvoir de déterminer si des intérêts ont été imputés de manière équitable? Elle ne peut que déterminer si la Loi permet au ministre d’imputer des intérêts, et la Loi permet au ministre, en ce qui concerne le solde dû à la date d’échéance de 2017, d’imputer des intérêts sur le solde dû à la date jusqu’au remboursement de l’impôt impayé. Il s’agit là de l’état du droit, déclaré clairement.
+[19] Il existe d’autres recours que vous pourriez poursuivre. Comme je l’ai souligné dans l’affaire Rajagopola c. SMR, 2022 CCI 8, et comme le juge McPhee l’a souligné dans Wiegers c. SMR, 2019 CCI 260, citée par le procureur de la Couronne aux paragraphes 18 à 24, il existe un processus selon lequel les contribuables peuvent demander un allègement.
+[20] Il existe certaines conditions qui s’y appliquent. Parfois, il s’agit de besoins financiers ou de difficultés financières. D’autres circonstances peuvent comprendre la renonciation aux intérêts pour des raisons d’équité, de retard ou de conséquences imprévues.
+[21] Les faits de l’espèce semblent convenir à une demande de réparation en équité. Ce n’est pas ma décision à prendre. Il incombe à la ministre de prendre cette décision. Et Wiegers vous l’indique. L’affaire Rajagopola vous l’indiquera. Vous souhaiterez peut-être toutefois examiner la circulaire d’information 07-1 et les dispositions d’allègement pour les contribuables énoncées à la partie II. Si vous le faites, vous pourrez présenter une demande à la ministre dans les circonstances et utiliser les présents motifs exposés oralement, qui seront publiés. Si vous en faites la demande, fournissez tous les renseignements dont vous disposez dans vos dossiers.
+[22] En conclusion, je n’ai d’autre choix, compte tenu de la Loi et de mon pouvoir, que d’accueillir, à bon droit et légalement, la requête en annulation de l’appel. Comme je l’ai souligné, M. Pansegrau, la succession peut profiter pleinement de l’occasion pour présenter une demande en vertu des dispositions d’allègement pour les contribuables contenues dans la partie II de la circulaire d’information; la disposition même, qui énonce cela, est l’article 223.1 de la Loi de l’impôt sur le revenu.
+Signé à Ottawa (Ontario), ce 25e jour de novembre 2022.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 20e jour de février 2024.
+Crystal Simard
+RÉFÉRENCE :
+2022CCI150
+NO DU DOSSIER DE LA COUR :
+2022-1740(IT)I
+INTITULÉ
+SUCCESSION DE GRACE J. MCLEAN ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Kelowna (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 14 novembre 2022
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Randall S. Bocock
+DATE DE L’ORDONNANCE :
+Le 22 novembre 2022
+COMPARUTIONS :
+Représentant de l’appelante :
+Me David M. Pansegrau
+Avocate de l’intimé :
+Me Katherine Matthews
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Vide
+Cabinet :
+Vide
+Pour l’intimé :
+Me François Guay
+Sous-procureur général du Canada
+Ottawa, Canada

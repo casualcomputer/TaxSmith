@@ -1,0 +1,213 @@
+Title: Malenfant c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27070/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-686-27070-malenfant-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-10-25
+
+# Malenfant c. M.R.N.
+
+- Citation: 2005 CCI 686
+- Decision date: 2005-10-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 613, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Malenfant c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-25
+Référence neutre
+2005 CCI 686
+Numéro de dossier
+2005-481(EI), 2005-482(EI)
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2005-481(EI)
+2005-482(EI)
+ENTRE :
+LORRAINE MALENFANT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus le 1er septembre 2005, à Québec (Québec)
+Devant : L'honorable juge Pierre R. Dussault
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Martin Gentile
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi sont rejetés et les décisions du ministre du Revenu national sont confirmées, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 25e jour d'octobre 2005.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2005CCI686
+Date : 20051025
+Dossiers : 2005-481(EI)
+2005-482(EI)
+ENTRE :
+LORRAINE MALENFANT,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Le dossier 2005-482(EI) concerne un appel d'une décision du ministre du Revenu national (le « ministre » ) selon laquelle l'appelante n'occupait pas un emploi assurable auprès de Jean-Yves Malenfant (le « payeur » ) pendant les périodes suivantes :
+· du 25 janvier au 14 mai 1999
+· du 26 juillet au 13 octobre 1999
+[2] Le dossier 2005-481(EI) concerne un appel d'une décision du ministre selon laquelle l'appelante n'occupait pas un emploi assurable auprès de la société Érablière Jean-Yves Malenfant inc. (le « payeur » ) pendant les périodes suivantes :
+· du 14 octobre au 17 décembre 1999
+· du 28 février au 26 mai 2000
+· du 1er février au 1er juin 2001
+· du 15 janvier au 21 juin 2002
+· du 16 septembre au 27 septembre 2002
+· du 26 janvier au 16 juin 2003
+· du 17 juillet 2003 au 4 décembre 2003
+· du 16 février 2004 au 11 juin 2004
+[3] Les faits sur lesquels s'est fondé le ministre pour rendre ces deux décisions sont essentiellement les mêmes, bien que les périodes soient différentes et que monsieur Jean-Yves Malenfant ait constitué une société pour l'exploitation de l'entreprise à compter du 14 octobre 1999. À des fins de commodité, je ne reproduirai donc que les paragraphes 5 et 6 de la Réponse à l'avis d'appel dans le dossier 2005-481(EI). Ces paragraphes se lisent ainsi :
+5. L'appelante et le payeur sont des personnes liées au sens de la Loi de l'impôt sur le revenu car :
+A) le payeur a été constitué en société le 14 octobre 1999;
+B) durant les périodes en litige, l'actionnaire unique du payeur était Jean-Yves Malenfant;
+C) Jean-Yves Malenfant est le conjoint de l'appelante;
+D) l'appelante est liée par mariage à une personne qui contrôle le payeur.
+6. Le ministre a déterminé que l'appelante et le payeur avaient un lien de dépendance entre eux dans le cadre de l'emploi. En effet, le ministre a été convaincu qu'il n'était pas raisonnable de conclure que l'appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblables s'ils n'avaient pas eu de lien de dépendance, compte tenu des circonstances suivantes :
+a) le payeur exploitait une érablière et une entreprise de vente de bois de chauffage;
+b) l'érablière du payeur comptait 13 000 entailles en 1999 et 33 000 entailles en 2004;
+c) le payeur était en exploitation à l'année longue;
+d) le payeur embauchait de 3 à 6 employés selon les années;
+e) les revenus du payeur s'établissait [sic] ainsi :
+produits de l'érable
+ventes de bois
+31/12/00
+31/12/01
+31/12/02
+31/12/03
+12 006 $
+85 766 $
+62 166 $
+91 791 $
+48 104 $
+24 479 $
+75 539 $
+66 647 $
+f) depuis 1981, l'appelante travaillait comme acéricultrice et comme gestionnaire et teneuse de livres comptables pour le payeur.
+g) durant la saison des sucres, les tâches de l'appelante consistaient à entailler, à laver le réservoir et la machinerie, à faire bouillir l'eau d'érable, à produire le sirop, le sucre et les produits finis, tout au long de l'année, l'appelante s'occupait de la comptabilité, des chèques, des factures, des dépôts, du contrôle des heures des employés et de la correspondance;
+h) le 28 juin 2004, dans une déclaration statutaire signée à la commission, l'appelante déclarait que « Jean-Yves Malenfant n'est pas capable de lire et d'écrire sauf pour signer son nom. Pour gérer l'entreprise c'est moi qui lui dit ce qu'il y a à faire. » ;
+i) l'appelante recevait un salaire hebdomadaire basé sur 40 heures de travail au taux horaire de 10 $ de l'heure qui a été majoré en 2004 à 11,58 $;
+j) le 27 mai 2004, dans une déclaration à un agent de DRHC, l'actionnaire unique du payeur déclarait que, durant la saison des sucres, l'appelante faisait 12 heures de travail par jour, 7 jours par semaine, les autres employés, qui ne sont pas liés à la famille, se limitaient à faire leurs heures régulières et que l'appelante n'était pas rémunérée pour la [sic] travail fait en surplus de ses heures régulières, elle faisait du bénévolat pour l'entreprise;
+k) l'appelante était rémunérée par chèque;
+l) à chaque année, l'appelante retardait l'encaissement de ses chèques de payes pour palier au manque de liquidités du payeur;
+m) l'appelante déposait ses chèques de payes dans son compte personnel, dans le compte de l'actionnaire unique ou dans un compte conjoint;
+n) le 27 mai 2004, dans une déclaration à un agent du DRHC, l'actionnaire unique du payeur déclarait que lorsqu'il a plus d'argent dans l'entreprise, l'appelante retardait ses chèques de paye, certains paiements sont ainsi faits en dehors des périodes d'emploi;
+o) le 28 juin 2004, l'appelante déclarait à un agent du DRHC, qu'un étranger n'accepterait pas de tels retards dans l'émission de ses payes et qu'il n'accepterait pas de faire plus d'heures sans être rémunéré en retour;
+p) le 28 juin 2004, l'appelante déclarait aussi qu'elle acceptait ces conditions car en gérant l'entreprise, elle voyait que le payeur n'avait pas les moyens de la payer;
+q) l'appelante ne tenait pas de registres pour les heures travaillées à la gestion et à la comptabilité;
+r) l'appelante rendait des services au payeur à l'année longue;
+s) des dépôts, des chèques, des factures et d'autres documents étaient produits à chaque semaine entre 1999 et 2003 par l'appelante;
+t) le 17 décembre 1999, Érablière Jean-Yves Malenfant (sic) remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 26 juillet 1999 (sic) et comme dernier jour de travail le 17 décembre 1999, et qui indiquait 882 heures assurables et 10 079,16 $ comme rémunération assurable;
+u) le 23 février 2001, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 28 février 2000 et comme dernier jour de travail le 26 mai 2000, et qui indiquait 546 heures assurables et 6 266,52 $ comme rémunération assurable;
+v) le 1er juin 2001, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 1er février 2001 et comme dernier jour de travail le 1er juin 2001, et qui indiquait 565 heures assurables et 6 800,56 $ comme rémunération assurable;
+w) le 21 juin 2002, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 15 février 2002 et comme dernier jour de travail le 21 juin 2002, et qui indiquait 641 heures assurables et 7 722,40 $ comme rémunération assurable;
+x) le 27 janvier 2003, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 16 septembre 2002 et comme dernier jour de travail le 27 septembre 2002, et qui indiquait 80 heures assurables et 964,08 $ comme rémunération assurable;
+y) le 17 juillet 2003, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 26 janvier 2003 et comme dernier jour de travail le 16 juin 2003, et qui indiquait 562 heures assurables et 6 720,56 $ comme rémunération assurable;
+z) le 26 février 2004, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 6 octobre 2004 (sic) et comme dernier jour de travail le 4 décembre 2004 (sic), et qui indiquait 21 heures assurables et 214 $ comme rémunération assurable;
+aa) le 12 juillet 2004, le DRHC émettait à l'appelante une correction des données du relevé d'emploi du 26 février 2004 qui indiquait comme premier jour de travail le 17 juillet 2003 et comme dernier jour de travail le 4 décembre 2003, et qui indiquait 22 heures assurables et 224 $ comme rémunération assurable;
+bb) le 11 juin 2004, le payeur remettait à l'appelante un relevé d'emploi qui indiquait comme premier jour de travail le 16 février 2004 et comme dernier jour de travail le 11 juin 2004, et qui indiquait 680 heures assurables et 8 194,68 $ comme rémunération assurable;
+cc) les heures prétendument travaillées par l'appelante ne correspondaient pas avec ses heures réellement travaillées;
+dd) les relevés d'emploi de l'appelante ne sont pas conformes à la réalité quant aux périodes travaillées ni quant aux nombres d'heures travaillées;
+ee) une personne, sans lien de dépendance, n'aurait pas eu une rémunération, ni une durée, ni des modalités d'emploi similaire à l'appelante.
+[4] Les alinéas 6f), g), h), j), l) à s), cc), dd) et ee) sont niés.
+[5] Monsieur Jean-Yves Malenfant, l'appelante et madame Jacynthe Bélanger, agente des appels concernant l'assurabilité, ont témoigné.
+[6] Dans son témoignage, monsieur Malenfant a décrit les activités liées à l'acériculture qui se déroulent principalement du 15 février à la fin mai de chaque année et auxquelles participe activement l'appelante depuis l'acquisition de l'érablière en 1980. Depuis l'an 2000, du milieu de juin au début de décembre, monsieur Malenfant, qui se décrit également comme travailleur forestier s'occupe principalement de la coupe de bois de sciage qu'il vend à différentes entreprises. Il produit aussi un peu de bois de chauffage pour les besoins de l'entreprise d'acériculture et de la famille.
+[7] Durant la saison des sucres, l'appelante participe à l'entaille des érables, à la vérification des tubulures, au lavage des réservoirs et à la fabrication des produits dérivés de l'érable. Elle exécute généralement toutes les tâches qui lui sont confiées par monsieur Malenfant car, selon lui, il y a toujours quelque chose à faire. Leur fils, René, travaille aussi à la cabane durant la saison des sucres. Sa tâche principale consiste à faire bouillir l'eau d'érable pour produire le sirop. De la fin février à la fin de mai, monsieur Malenfant et l'appelante demeurent à la cabane à sucre et l'appelante voit à l'entretien et à la préparation des repas pour la famille. Selon monsieur Malenfant, l'appelante travaillait généralement 40 heures par semaine durant la saison. Cependant, durant les deux semaines de la coulée de l'eau d'érable, l'appelante pouvait travailler jusqu'à 50 heures par semaine, ce dont on tenait compte au cours des autres semaines pour « équilibrer les heures » .
+[8] À la fin de la saison, vers la fin mai ou au début juin, l'appelante fendait aussi le bois de chauffage nécessaire pour la saison suivante. Le bois servait à faire fonctionner un poêle dont elle se servait pour fabriquer des produits dérivés de l'érable, dont le beurre d'érable, la tire, le sucre d'érable, les bonbons et le caramel.
+[9] Exceptionnellement, à l'automne 1999, l'appelante a aidé monsieur Malenfant à faire l'entaille des érables et l'installation de la tubulure chez deux autres acériculteurs.
+[10] Monsieur Malenfant a affirmé que l'appelante s'occupait également de la comptabilité de l'entreprise, mais que c'était leur fille qui demeurait à Québec qui enregistrait les données sur support informatique à l'aide du logiciel Fortune 1000. C'est aussi l'appelante qui préparait les chèques pour payer les factures et les salaires, qui s'occupait du courrier, qui préparait les bordereaux de dépôt et qui voyait à la remise des taxes.
+[11] Monsieur Malenfant a expliqué que la majeure partie du sirop d'érable produit était vendu à la Fédération des producteurs (la « Fédération » ) en barils de 32 gallons. Quand aux produits dérivés, les clients se présentaient à la cabane ou à la maison où les produits étaient gardés au congélateur après la saison.
+[12] Monsieur Malenfant a fait état que la Fédération ne payait pas ses achats immédiatement et qu'elle lui devait de l'argent pour le sirop acheté lors des saisons précédentes. Toutefois, il recevait généralement une avance ou un premier paiement lors de la livraison à la fin d'une saison, et c'est à ce moment seulement qu'ils pouvaient, lui et l'appelante, se verser un salaire pour le travail effectué durant la saison. Quant aux autres employés, monsieur Malenfant a admis qu'ils étaient payés régulièrement durant la saison et qu'il utilisait alors une marge de crédit de 20 000 $ pour les payer.
+[13] Monsieur Malenfant a affirmé que l'appelante ne travaillait pas pendant toute l'année pour l'entreprise, qu'elle ne faisait pas de bénévolat durant la saison des sucres et qu'elle était toujours payée pour son travail même si elle était payée plus tard.
+[14] Le 27 mai 2004, monsieur Malenfant signait une déclaration statutaire rédigée par un certain Paul Dessureault, enquêteur pour le ministère du Développement des ressources humaines Canada (pièce I-1). On peut notamment y lire ce qui suit aux pages 2 et 4.
+[...] Quand elle travaille pour moi durant la saison des sucres (Février, Mars, Avril, Mai [sic]) elle s'occupe de faire de l'entaillage, elle fait le lavage des réservoirs et de la machinerie, elle a à entretenir la cabane, voir au matériel et même elle a parlé qu'elle va probablement faire de la peinture en dehors de la cabane à sucre cette année. Elle fait du bouillage, elle produit du sucre et des produits finis et quand la saison est terminée elle s'occupe du lavage de tout ça.
+[...] C'est ma femme qui s'occupe de l'embauche, de verser les salaires, de la comptabilité de l'entreprise. [...] Il arrive que Lorraine travaille dans d'autres périodes que la période des sucres et à ce moment elle fait principalement de la réparation de [sic] lignes. Elle est capable de faire ça elle-même et moi je bûche du bois avec mon fils sur mes lots car depuis 2000, je dois faire des coupes de bois sur mes lots avec René pour arriver à joindre les 2 bouts à cause des problèmes qu'il y a à se faire payer par la Fédération qui me doit encore $10 000,00 pour 2001 et $23 000,00 pour 2003 pour un total de $33 000,00. Ça veut dire que moi j'ai payé mes dépenses pour arriver à produire tout le sirop. D'ailleurs cette année Lorraine ne s'était pas pris [sic] de payes, ne s'était pas payée de salaires faute d'argent et il y a à peu près une semaine nous avons eu de l'argent.
+[...]
+Ma femme, le surplus qu'elle fait c'est du bénévol [sic] tandis que mon fils lui, ma femme me dit « René a fait tant d'heures de surplus que ce qui est payé » et là on lui permet de bénéficier de son temps. Lorraine est comme moi, nous faisons du bénévol [sic] tous les deux. Les salaires des employés et même de Lorraine et René et moi aussi ça c'est toujours payé par chèques. Les périodes où il n'y avait pas d'argent pour que Lorraine et moi nous puissions nous verser des salaires, quand il rentre de l'argent assez pour le permettre, nous nous payons plus tard donc les chèques portent alors des dates plus loin que dans la période où le travail a été fait et les autres employés payés, à mon avis.
+[...]
+[15] Dans son témoignage, l'appelante a expliqué que c'est elle qui, durant la saison, fabriquait les produits dérivés tels le beurre d'érable, la tire, le sucre, les bonbons et le caramel et que ces produits étaient en majeure partie vendus au printemps. À la fin de la saison, elle s'occupait de fendre du bois pour la saison suivante, car la fabrication de ces produits dérivés se faisait à l'aide d'un poêle à bois, alors que pour produire le sirop d'érable, on utilisait plutôt des appareils chauffés à l'huile.
+[16] L'appelante a affirmé avoir toujours été payée pour le travail effectué pour le payeur, qu'elle ne faisait pas de bénévolat et que si elle avait travaillé 12 heures par jour au cours de certaines semaines durant la saison des sucres, cela comprenait le temps requis pour préparer les repas et pour faire le ménage et le lavage, puisqu'elle et monsieur Malenfant demeuraient dans la cabane durant la saison.
+[17] Quant au travail de gestion ou de comptabilité, et plus particulièrement la préparation des factures, des chèques et des bordereaux de dépôt à l'extérieur de ses périodes de travail, l'appelante a affirmé que si une tâche lui prenait cinq minutes, elle accumulait son temps pour faire une heure et que les heures ainsi accumulées étaient payées et déclarées, bien qu'elle ait admis avoir peut-être oublié d'être payée. Par ailleurs, elle a aussi affirmé que si elle n'était pas « payée tout de suite » , elle « reprenait les heures » durant l'automne.
+[18] L'appelante a confirmé que les autres employés étaient payés sur une base régulière durant la saison des sucres, mais que certains avaient pu être payés sous forme d'avances d'un montant moindre à l'occasion. Quant à son propre salaire, l'appelante a reconnu qu'elle émettait les chèques quelques mois en retard, mais qu'elle indiquait la date à laquelle ils auraient dû être émis. Elle a dit que, de toute évidence, même si les chèques avaient été émis régulièrement à toutes les semaines comme pour les autres employés, elle n'aurait pas eu le temps d'aller les encaisser. En 2004, le salaire de l'appelante pour la période s'échelonnant du mois de février au 21 mai a été payé par un seul chèque de 4 767,36 $ émis le 20 mai 2004. L'appelante a affirmé qu'elle aurait accepté d'être payé de la même façon par une autre société si celle-ci avait été solvable.
+[19] Par ailleurs, l'appelante a signé deux déclarations statutaires rédigées par l'enquêteur, monsieur Paul Dessureault. Dans la première déclaration, signée le 28 juin 2004, on peut notamment y lire ce qui suit aux pages 2 à 4 (pièce I-2) :
+[...] Je m'occupe de faire les chèques - payes et dépenses, je prend [sic] en note qu'un employé a travaillé dans telle semaine, tant d'heures et je donne ça à Martine Malenfant, ma fille, qui entre ça sur l'ordinateur. Je fais les Relevés d'Emploi, les T-4 et TP-4, je m'occupe des factures et pour les dépôts c'est moi qui les prépare et je vais les déposer mais des fois c'est Jean-Yves qui va les déposer.[...] Certains automnes je m'occupe de tubulures, de travailler dans l'installation, aussi, de la vérification des lignes à l'automne. Le gros de mon travaille [sic] s'échelonna en février, mars, avril et mai car je m'occupe du « désentaillage » aussi et du nettoyage final de tout ça quand ça ne coule plus. J'aide même à fendre du bois. S'il y a des besoins de peinturer à la Cabane ou autres, je m'en occupe et pour les commandes aussi. Je prépare les repas pour la famille à la Cabane mais pas pour les autres employés qui s'organisent. Pour ce qui est des payes aux employés ceux-ci reçoivent leurs salaires à chaque semaine sans aucun retard et cela, depuis des années que ça fonctionne comme ça, donc quand Jean-Yves parle de retard dans les salaires c'est seulement pour les membres de la famille et plus précisément, pour Jean-Yves et moi-même. Cette année, à cause de problèmes avec la fédération qui nous devait de l'argent j'ai reçu une seule paye en temps au début et aucune autre paye ne m'a été versée avant le mois d'avril 2004 où une autre somme provenant de la fédération nous a été versée et ça nous a permis de me verser mes salaires en retard et à date. En 2004 jusqu'à date, à cause de la mauvaise situation financière de l'entreprise Jean-Yves Malenfant ne s'est pris aucun salaire, donc nous vivons de mon salaire et éventuellement de mes prestations de chômage et de mon salaire de mairesse de la municipalité de Ste-Rita [...].
+Je reconnais qu'un employé étranger n'accepterait pas un retard dans ses payes versées et de faire un surplus d'heures de travail par rapport à celles payées en salaires et si j'accepte ça, i.e. de faire des heures de bénévolat c'est que je savais que je ne perdrais pas d'argent et pour les heures de bénévolat, ça me fait rien d'en faire. De plus en gérant l'entreprise je vois qu'elle n'avait pas les moyens de me payer, qu'il n'y avait pas d'argent. [...]
+[20] Dans la deuxième déclaration statutaire du 27 juillet 2004, les extraits suivants des pages 2 à 5 paraissent pertinents au sujet des tâches plus administratives de l'appelante (pièce I-3) :
+[...] La facturation aux clients, la préparation de produits, la préparation de commandes et la livraison ainsi que le suivi sur les factures non payées, ça fait parti [sic] de mes tâches pour lesquelles je suis payée. [...] Il y a d'autres tâches qui sont inclues dans le travail pour lequel je suis payé [sic] en comptabilité, à part les factures de commandes des clients pour de 99 à date. Je dois vérifier les factures avant de faire les chèques pour les payer et je les note par la suite, je vérifie les états de compte, je m'occupe des corrections à faire quand quelque chose n'est pas corect [sic], des communications avec les clients, je prépare les dépôts et je vais les faire et parfois c'est Jean-Yves qui y va, je prépare les Relevés d'Emploi, les T-4 et les TP4, et pour ce qui est des rapports de TPS et TVQ je reçois les papiers par la poste et il reste juste à écrire les chiffres que me donne ma fille, Martine, les remises et retenues sont calculées par Martine et je fais les paiements que je note : Mes tâches d'une année à l'autre c'est la gérance et la gestion de l'entreprise. [...] Je n'ai pas de périodes fixes pour faire la comptabilité, je fais ça selon la demande, je détermine mes propres heures de travail là-dedans et je n'ai pas de périodes déterminées de la journée. Je fais ça parfois le matin tôt, le soir, les fins de semaines [sic]. Je n'ai pas de bureau pour l'entreprise et je travaille la comptabilité sur la table de cuisine. Si je déclare une heure au chômage je me sors une paye. Des fois, j'attends pour rassembler 2 ou 3 payes à temps partiel avant de faire un chèque pour me payer car à 0.75 du chèque... Quand vous me dites que selon les compilations que vous avez faites je travaille beaucoup plus que l'équivalent d'un mois si je mets mon travail pour l'entreprise en comptabilité bout à bout... Selon moi, un mois c'est raisonnable pour ce que je fais comme travaille [sic] là-dedans. Quand vous me dites que sur plusieurs semaines de 99 à date et même plusieurs mois, on voit sur vos tableaux que je travaillais du moins à temps partiel alors que je ne me suis pas déclarée [sic] d'heures de travail et de payes, je ne peux vous expliquer car j'ai pas mes calendriers et aussi, j'ai pu accumuler le travail de plusieurs semaines avant de me sortir une paye, je sais pas. [...]
+[21] Lors de son témoignage, l'appelante a laissé entendre que certaines parties de ses déclarations statutaires ne seraient pas conformes à la réalité et qu'elle aurait été en quelque sorte obligée de les signer. Pourtant dans le rapport de madame Jacynthe Bélanger, agente des appels, celle-ci affirme avoir rencontré monsieur Jean-Yves Malenfant et l'appelante en présence de leur représentant Me Jérôme Carrier, le 22 décembre 2004. Lors de cette rencontre madame Bélanger a relu à monsieur Malenfant et à l'appelante les déclarations statutaires qu'ils avaient signées en mai, juin et juillet de la même année et n'a noté que quelques précisions apportées par l'un et l'autre (pièce A-6, Rapport CPT 110, paragraphes 43 et 44). Je retiens que pour l'essentiel, l'appelante a confirmé ses déclarations antérieures et qu'elle a précisé que ses heures de travail variaient selon les jours, mais qu'elle travaillait habituellement 40 heures par semaine. Comme je l'ai signalé, l'appelante a affirmé lors de l'audition qu'elle ne faisait pas de bénévolat pour l'entreprise et que si elle avait affirmé avoir travaillé 12 heures par jour au cours de certaines semaines de la saison des sucres, c'est qu'elle devait également s'occuper des repas et voir à l'entretien de la cabane et aux autres travaux ménagers lorsque monsieur Malenfant et elle-même y habitaient durant la saison des sucres.
+[22] Lors du contre-interrogatoire de l'appelante, plusieurs séries de documents ont été déposés en preuve pour démontrer l'ampleur du travail administratif exécuté par celle-ci tout au long de l'année (pièces I-5 à I-17). Il s'agit de chèques, de bordereaux de dépôts, de factures pour la vente de produits d'érable et de documents concernant les achats de l'entreprise pour les années 2000 à 2003. La plupart de ces documents, à l'exception de quelques chèques et des factures pour des achats, ont été rédigés par l'appelante elle-même. Les chèques sont, toutefois, signés par monsieur Malenfant. Les factures des achats sont signées par l'appelante. Comme monsieur Malenfant ne sait ni lire ni écrire, mais qu'il peut signer son nom, on comprend que c'est l'appelante qui s'occupait de la gestion de base de l'entreprise durant toute l'année.
+[23] Dans son rapport (pièce A-6, Rapport CPT 110, paragraphe 49), madame Bélanger a noté que « [m]algré la fréquence des services rendus à l'extérieur des périodes d'emploi à temps plein, très peu d'heures de travail à temps partiel ont été déclarées par la travailleuse » . Elle a constaté ce qui suit :
+· En 1999, la travailleuse a déclaré entre une et trois heures de travail dans les semaines du 24 janvier, du 31 janvier 1999, du 30 mai et du 6 juin 1999. Elle a travaillé à temps plein au printemps et entre le 25 juillet et le 18 décembre 1999. (onglet J1)
+· En 2000, aucune heure de travail à temps partiel n'a été déclarée par la travailleuse en dehors de sa période d'emploi à temps plein du printemps. Elle n'a pas travaillé à l'été ni à l'automne. (onglet J2)
+· En 2001, la travailleuse a déclaré une et deux heures de travail dans les semaines du 14 janvier, du 4 février et du 18 février 2001. Elle a travaillé à plein temps au printemps et entre le 21 octobre et le 3 novembre 2001. (onglet J3)
+· En 2002, la travailleuse a déclaré une heure de travail dans la semaine du 10 février 2002. Aucune autre heure de travail à temps partiel n'a été déclarée. Elle a travaillé à temps plein au printemps et entre le 15 septembre et le 28 septembre 2002. (onglet J4)
+· En 2003, la travailleuse a déclaré entre une et six heures de travail dans les semaines du 26 janvier, du 15 juin, du 13 juillet et du 12 octobre 2003. Elle a travaillé à temps plein au printemps seulement. (onglet J5)
+[24] Je signale qu'un résumé du livre des salaires indique un nombre inférieur d'heures de travail à temps partiel en 1999 et en 2003. Aucune heure de travail n'est indiquée à l'automne 2000, 2001 et 2003 (pièce I-19).
+[25] Lors de son témoignage, l'appelante a déclaré que les chèques en paiement de son salaire portaient la date à laquelle ils auraient dû être émis, mais qu'ils étaient en réalité émis plus tard lorsque les montants étaient disponibles et qu'elle pouvait les encaisser. Son témoignage à cet égard est confirmé à la déclaration statutaire signée le 28 juin 2004. Lors du témoignage de madame Bélanger, un tableau indiquant les chèques remis à l'appelante et leur date d'encaissement pour les années 2000 à 2004 a été produit (pièce I-18). Ce tableau démontre sans l'ombre d'un doute que les chèques étaient généralement encaissés plusieurs semaines et souvent même plus d'un mois après la date indiquée comme étant celle de leur émission. On remarque également qu'à chaque année plusieurs chèques portant des dates d'émission différentes ont été encaissés le même jour ce qui confirme tant la déclaration signée le 28 juin 2004 par l'appelante que son témoignage concernant le retard dans le paiement de son salaire puisque les chèques n'étaient émis que lorsque le payeur avait des rentrées de fonds. En 2004, un chèque de 368,38 $ a été remis à l'appelante en février et il a été encaissé le 25 mars. Aucun chèque n'a été émis en mars et avril, puis un chèque de 4 767,36 $ a été émis en date du 20 mai et il a été encaissé le 27 mai alors que l'appelante avait travaillé sans interruption depuis le 16 février de cette année (pièces I-4 et I-18).
+[26] Selon madame Bélanger, un seul autre employé, un certain Francis Jean, n'aurait pas reçu son plein salaire pendant deux semaines au début de sa période d'emploi en 2002 et 2003 bien qu'il ait alors reçu une avance importante sur son salaire.
+[27] Somme toute, madame Bélanger a constaté que l'appelante rendait des services au payeur tout au long de l'année et qu'elle était rarement rémunérée à l'extérieur de ses périodes d'emploi à temps complet durant la saison des sucres. Bien qu'elle n'ait pas elle-même quantifié l'importance de ce travail, madame Bélanger a affirmé avoir consulté un tableau préparé par l'enquêteur Dessureault et avoir confirmé cette information avec l'ensemble des documents préparés par l'appelante, ce qui démontrait, selon elle, que le travail de gestion de l'appelante n'était pas négligeable (pièces I-5 à I-17).
+[28] En ce qui concerne la rémunération, madame Bélanger a considéré que l'appelante était traitée comme monsieur Malenfant, le payeur jusqu'en octobre 1999 et l'unique actionnaire du payeur par la suite, en ce que le salaire de l'appelante était constamment versé en retard, souvent de plusieurs semaines et même de plusieurs mois, contrairement au salaire des autres employés.
+[29] L'avocat de l'appelante soutient que la discrétion de l'intimé n'a pas été exercée « de façon judiciaire » puisque madame Bélanger devait tenir compte de la spécificité de l'entreprise quant au moment où l'appelante pouvait recevoir sa rémunération, soit après que le payeur eut été payé par la Fédération pour le sirop d'érable vendu. Bien que le salaire de l'appelante ait pu être payé en retard, il signale qu'elle a toujours été payée pour le travail effectué.
+[30] Quant au travail pendant d'autres périodes, l'avocat de l'appelante signale qu'en 1999, les seuls mois au cours desquels l'appelante n'a pas travaillé sont les mois de juin et de juillet. Quant à l'année 2004, il soutient que l'intimé n'a apporté aucune preuve que l'appelante aurait travaillé pendant d'autres périodes. Quant aux autres années, il prétend qu'aucune analyse qualitative et quantitative n'a pas été faite pour évaluer vraiment l'importance du travail accompli pour la gestion de l'entreprise.
+[31] Au sujet de la conclusion selon laquelle le travail de gestion de l'appelante était essentiel au payeur, l'avocat de l'appelante souligne que c'est la fille de l'appelante qui faisait le travail de tenue de livres sur ordinateur à l'aide du logiciel Fortune 1000 et que ce travail n'a pas été quantifié par rapport à celui qui était accompli par l'appelante elle-même.
+[32] Pour sa part, l'avocat de l'intimé soutient que l'ensemble de la preuve soumise démontre que la décision prise par madame Bélanger est toujours raisonnable, d'abord parce qu'à chaque année le salaire de l'appelante lui était systématiquement versé avec plusieurs semaines de retard sinon plusieurs mois alors que les autres employés étaient payés en temps utile grâce à la marge de crédit dont bénéficiait le payeur.
+[33] De plus, selon l'avocat de l'intimé, les nombreux documents déposés en preuve tendent à démontrer que l'appelante s'occupait de la gestion de l'entreprise et de la vente des produits dérivés de l'érable tout au long de l'année et en dehors de ses périodes de travail à temps complet et que ce travail était loin d'être négligeable. Pourtant, à chaque année, très peu d'heures sont inscrites au livre des salaires après la cessation des activités liées à l'acériculture.
+[34] Selon l'avocat de l'intimé, une personne sans lien de dépendance avec le payeur n'aurait pas accepté des conditions de travail à peu près semblables.
+[35] L'alinéa 5(2)i) de la Loi sur l'assurance-emploi (la « Loi » ) prévoit que « l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance » n'est pas un emploi assurable.
+[36] Par ailleurs, le paragraphe 5(3) de la Loi précise ce qui suit :
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[37] Dans la présente affaire, l'appelante et le payeur étaient, selon les périodes en question, des personnes liées soit en vertu de l'alinéa 251(2)a), soit en vertu de l'alinéa 251(2)b) et du sous-alinéa 251(2)a)(iii) de la Loi de l'impôt sur le revenu. En vertu de l'alinéa 251(1)a) de la même loi, ces personnes étaient donc réputées avoir entre elles un lien de dépendance. Ceci étant, il y avait lieu pour le ministre de se prononcer quant à l'application de l'alinéa 5(3)b) de la Loi, ce qui a été fait. Au terme de l'analyse de la situation, il a été décidé « qu'il n'était pas raisonnable de conclure que l'appelante et le payeur auraient conclu un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance » .
+[38] Dans l'arrêt Légaré c. Canada (ministre du Revenu national - M.N.R.), [1999] A.C.F. no 878 (Q.L.), le juge Marceau de la Cour d'appel fédérale décrivait le rôle de la Cour canadienne de l'impôt dans les termes suivants, au paragraphe 4 des motifs du jugement :
+4. La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre: c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[39] Dans l'arrêt Pérusse c. Canada (ministre du Revenu national - M.N.R.), [2000] A.C.F. no 310 (Q.L.), le juge Marceau reprenait la même analyse. De plus, au paragraphe 15 des motifs du jugement, il ajoutait :
+15 Le rôle du juge d'appel n'est donc pas simplement de se demander si le ministre était fondé de conclure comme il l'a fait face aux données factuelles que les inspecteurs de la commission avaient pu recueillir et à l'interprétation que lui ou ses officiers pouvaient leur donner. Le rôle du juge est de s'enquérir de tous les faits auprès des parties et des témoins appelés pour la première fois à s'expliquer sous serment et de se demander si la conclusion du ministre, sous l'éclairage nouveau, paraît toujours « raisonnable » (le mot du législateur). La Loi prescrit au juge une certaine déférence à l'égard de l'appréciation initiale du ministre et lui prescrit, comme je disais, de ne pas purement et simplement substituer sa propre opinion à celle du ministre lorsqu'il n'y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus...
+[40] Ces propos ont été repris plus récemment par le juge en chef Richard de la Cour d'appel fédérale dans l'arrêt Denis c. Canada (ministre du Revenu national - M.R.N.), [2004] A.C.F. no 400 (Q.L.), au paragraphe 5 des motifs du jugement.
+[41] Les décisions de l'intimé portent sur des périodes précises d'emploi. Cependant, lorsqu'une personne rend des services au payeur toute l'année depuis plusieurs années, il s'agit d'un fait qui ne peut être ignoré dans l'évaluation de la relation entre les parties.
+[42] Les documents déposés en preuve établissent de façon non équivoque que l'appelante s'occupait de la gestion de l'entreprise du payeur tout au long de l'année. Toutefois, il n'est pas possible d'établir avec exactitude le temps réellement consacré à cette gestion par rapport au travail lié à la production comme telle durant la saison des sucres. Toutefois, dans la déclaration statutaire qu'elle a signée le 27 juillet 2004, l'appelante elle-même a estimé que ses tâches qu'elle décrit comme de la « comptabilité » pour l'entreprise pouvaient représenter l'équivalent d'un mois de travail. Les quelques heures déclarées ou qui sont indiquées au livre des salaires à l'extérieur des périodes de travail à temps complet, lorsqu'elles ont été ainsi déclarées ou indiquées au cours de certaines années, ne représentent sûrement pas le travail accompli par l'appelante en ce qui concerne la gestion de l'entreprise. La seule conclusion qui s'impose est que l'appelante n'a pas toujours été rémunérée pour les services rendus au payeur.
+[43] Par ailleurs, lors de l'audition tant monsieur Malenfant que l'appelante ont affirmé qu'elle n'avait pas fait de « bénévolat » et qu'elle avait toujours été payée pour ses services, ce qui contredit leurs déclarations antérieures à cet égard. On peut penser que ce revirement est dû au fait qu'ils se sont rendus compte après coup que ces déclarations pouvaient porter préjudice à leur cause. À tout le moins, de telles contradictions laissent planer un doute sérieux sur la question de savoir si l'appelante était réellement rémunérée pour toutes ses heures de travail au cours des périodes de travail à temps complet, généralement au printemps, à l'égard desquelles le ministre a rendu ses décisions.
+[44] L'autre élément important sur lequel se fondent les décisions du ministre concerne le retard systématique dans le paiement du salaire de l'appelante à chaque année. Cet élément a été abondamment démontré tant par les déclarations statutaires que par les témoignages et les documents déposés en preuve. Si l'on peut reconnaître qu'un employé puisse occasionnellement accepter ou tolérer un retard dans le paiement de son salaire, j'estime qu'un retard systématique de plusieurs semaines et même de plusieurs mois, année après année, n'est pas une situation qui serait acceptable par une personne n'ayant pas de lien de dépendance avec le payeur. D'ailleurs, monsieur Malenfant lui-même a affirmé que les autres employés étaient payés sur une base régulière grâce à une marge de crédit et non pas, comme lui-même et l'appelante, lorsqu'il recevait un paiement de la Fédération pour le sirop d'érable acheté par celle-ci.
+[45] J'estime que ces éléments sont suffisamment importants pour me permettre de conclure que les décisions rendues par le ministre paraissent toujours raisonnables et qu'une intervention de la Cour n'est pas justifiée dans les circonstances.
+[46] En conséquence, les appels sont rejetés et les décisions du ministre sont confirmées.
+Signé à Ottawa, Canada, ce 25e jour d'octobre 2005.
+« P. R. Dussault »
+Le juge Dussault
+RÉFÉRENCE : 2005CCI686
+N º DES DOSSIERS DE LA COUR : 2005-481(EI) et 2005-482(EI)
+INTITULÉ DE LA CAUSE : LORRAINE MALENFANT ET M.R.N.
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 1er septembre 2005
+MOTIFS DU JUGEMENT PAR : L'honorable juge Pierre R. Dussault
+DATE DU JUGEMENT : le 25 octobre 2005
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Martin Gentile
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me Jérôme Carrier, Avocat
+Ville : Lévis (Québec)
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

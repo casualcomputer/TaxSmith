@@ -1,0 +1,181 @@
+Title: Lutz v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26095/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-319-26095-lutz-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-04-29
+
+# Lutz v. M.N.R.
+
+- Citation: 2004 TCC 319
+- Decision date: 2004-04-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4156, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lutz v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-29
+Neutral citation
+2004 TCC 319
+File numbers
+2003-4586(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-4586(EI)
+BETWEEN:
+BARCLAY LUTZ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+BERNHARD FEHR,
+Intervenor.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of Barclay Lutz
+(2003-4587(CPP)) on April 21, 2004 at Lethbridge, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Belinda Schmid
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed is accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan this 29th day of April 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Docket: 2003-4587(CPP)
+BETWEEN:
+BARCLAY LUTZ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+BERNHARD FEHR,
+Intervenor.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of Barclay Lutz
+(2003-4586(EI)) on April 21, 2004 at Lethbridge, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Belinda Schmid
+For the Intervenor:
+The Intervenor himself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan this 29th day of April 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC319
+Date: 20040429
+Docket: 2003-4586(EI)
+2003-4587(CPP)
+BETWEEN:
+BARCLAY LUTZ,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+BERNHARD FEHR,
+Intervenor.
+____________________________________________________________________
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] These appeals were heard together on common evidence by consent of the parties. Barclay Lutz and Bernhard Fehr each testified on his own behalf.
+[2] The particulars of the appeals are contained in the Reply to the Notice of Appeal in 2003-4586(EI); paragraphs 3 to 7 inclusive read:
+3. By letter dated April 11, 2003 the Calgary Tax Service Office issued a ruling that the Worker was in insurable employment with the Appellant.
+4. By letter dated July 8, 2003, the Appellant appealed to the Minister for a reconsideration of the ruling.
+5. In response to the appeal, the Minister decided that the Worker was employed under a contract of service with the Appellant for the period of November 14, 2001 to January 8, 2003.
+6. In so deciding, the Minister relied on the following assumptions of fact:
+(a) the Appellant's operation included the processing, sale and delivery of hay;
+(b) the Worker was hired as a driver;
+(c) the Worker was normally paid by commission based on a percentage of the load;
+(d) the Worker was also paid an hourly rate ($12.00/hour) at times;
+(e) the Appellant determined the Worker's wage rates;
+(f) the Appellant paid the Worker;
+(g) the Appellant provided advances to the Worker;
+(h) the majority of the cheques issued by the Appellant to the Worker indicated "wages" or "advance"
+(i) the Appellant set the Worker's start and finish times and hours of work;
+(j) the Appellant exerted control over the Worker;
+(k) the Appellant obtained the clients;
+(l) the Worker was in contact with the Appellant on a daily basis;
+(m) the Appellant assigned/dispatched work to the Worker;
+(n) the Appellant provided the Worker with pick up and delivery instructions;
+(o) the Appellant made the decisions with regards to truck repairs;
+(p) the Appellant set the product prices;
+(q) the Worker was required to perform his services personally;
+(r) the Worker did not provide his own helpers;
+(s) the Worker was required to keep an invoice book and a logbook in the Appellant's name;
+(t) the Worker required the Appellant's approval for any leave;
+(u) the Worker did not work for others while performing services for the Appellant;
+(v) the Appellant provided all of the tools and equipment required including the truck, trailer, loader and tools;
+(w) the Worker did not provide any tools or equipment;
+(x) the Worker had no financial investment in the Appellant's business;
+(y) the Worker did not have a chance of profit or a risk of loss;
+(z) the Worker did not have a trade name;
+(aa) the Worker did not enter into a rental or lease agreement with the Appellant;
+(bb) the Appellant paid for all operating expenses including fuel, oil, washes, repairs, toll charges, insurance and licenses;
+(cc) the Appellant provided the Worker with fuel cards;
+(dd) the Appellant reimbursed the Worker for cell phone expenses, and
+(ee) the Worker did not charge the Appellant G.S.T.
+B. ISSUES TO BE DECIDED
+7. The issue is whether the Worker was employed under a contract of service with the Appellant during the period November 14, 2001 to January 8, 2003.
+[3] None of the assumptions were refuted by the evidence.
+[4] Using the criteria enunciated in Wiebe Door Services Ltd. v. M.N.R., 87 D.T.C. 5025, the Court finds:
+1. Control
+Mr. Fehr was under the control of Mr. Lutz at all times. There was one occasion when Mr. Fehr hauled an item that he bought from a Lutz customer back to his home on Lutz's truck. He was hired pursuant to Mr. Lutz's ad for "Drivers" in the Lethbridge Herald, for "24% of gross pay. Weekends off." (Exhibit A-1).
+2. Profit and Loss
+The Appellant was paid as advertised, but complained in detail about being paid amounts of less than 24% in percentages down to about 20%. They quarrelled frequently about these shortages. Eventually Mr. Lutz fired Mr. Fehr due to these increasing quarrels and an allegation that Mr. Fehr did not return a truck to the Lutz farm on a return journey late one night when he simply drove home to bed.
+3. Tools
+Were all owned by Mr. Lutz.
+4. Integration
+Mr. Fehr was simply a truck driver for Mr. Lutz who was fully integrated into Mr. Lutz's business. The business was owned and operated by Mr. Lutz.
+[5] The appeals are dismissed.
+Signed at Saskatoon, Saskatchewan this 29th day of April 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC319
+COURT FILE NO.:
+2003-4586(EI) and 21003-4587(CPP)
+STYLE OF CAUSE:
+Barclay Lutz v. M.N.R.
+PLACE OF HEARING:
+Lethbridge, Alberta
+DATE OF HEARING:
+April 21, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT:
+April 29, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Counsel for the Respondent:
+Belinda Schmid
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

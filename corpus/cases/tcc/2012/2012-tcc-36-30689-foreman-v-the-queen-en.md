@@ -1,0 +1,166 @@
+---
+title: "Foreman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30689/index.do"
+last_modified: "2012-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 36"
+citation2: ""
+neutral_citation: "2012 TCC 36"
+decision_date: "2012-01-30"
+language: "en"
+item_id: "30689"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7185
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:37:52.568000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "97436b3eab837ef07ba020875887e57a5b7c04f6ef2fdceca8b69a252e5659e8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Foreman v. The Queen
+
+- Citation: 2012 TCC 36
+- Decision date: 2012-01-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7185, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Foreman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-01-30
+Neutral citation
+2012 TCC 36
+File numbers
+2011-2309(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-2309(IT)I
+BETWEEN:
+COLIN FOREMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 16, 2011,
+at Prince George, British Columbia
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Kevin Christieson
+Counsel for the Respondent:
+Shankar Kamath
+____________________________________________________________________
+JUDGMENT
+The Appellant’s purported appeal in relation to the assessment of his tax liability for 2008 is quashed.
+The Appellant’s appeal in relation to the reassessment of his tax liability for 2009 is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 30th day of January 2012.
+“Wyman W. Webb”
+Webb J.
+Citation: 2012TCC36
+Date: 20120130
+Docket: 2011-2309(IT)I
+BETWEEN:
+COLIN FOREMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The Appellant filed a notice of appeal to this Court in which he indicated that he was appealing the assessment (or reassessment) of his tax liability for 2008 and 2009. At the commencement of the hearing the Respondent brought a motion to quash the Appellant’s purported appeal in relation to 2008 on the basis that the Appellant had not served a notice of objection to the assessment of his tax liability for 2008. An affidavit of an officer of the Canada Revenue Agency was filed with the Court. In this affidavit the officer stated that there was no record of the Appellant filing a notice of objection to the assessment of his 2008 taxation year.
+[2] Subsection 169(1) of the Income Tax Act (the “Act”) provides as follows:
+169. (1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+[3] In Bormann v. The Queen, 2006 DTC 6147, the Federal Court of Appeal stated as follows:
+3 Section 169(1) of the Income Tax Act obliges a taxpayer to serve Notice of Objection in order to appeal an assessment. In other words, service of a Notice is a condition precedent to the institution of an appeal.
+4 As mentioned, the appellant did not serve a Notice of Objection nor is there evidence that the appellant made an application to the Ministry to extend the time to file a Notice of Objection.
+5 Once it is clear that no application for an extension of time was made, the law is clear that there is no jurisdiction in the Tax Court to further extend the time for equitable reasons.
+Minister of National Revenue v. Minuteman Press of Canada Co., 88 DTC 6278, (F.C.A.).
+6 As a result, there is no basis upon which it can be said that the Tax Court Judge erred in quashing the appellant's appeals for the 1992 to 1998 taxation years.
+[4] The Appellant acknowledged that he did not serve a notice of objection in relation to the assessment of his tax liability for 2008. As a result the appeal related to the assessment of his 2008 taxation year is quashed.
+[5] The appeal in relation to the reassessment of the Appellant’s 2009 taxation year arises as a result of the claim by the Appellant for a tax credit as provided in paragraphs 118(1)(b) and 118(1)(b.1) of the Income Tax Act (the “Act”) in relation to his daughter. The Appellant’s claim was denied on the basis that the Appellant was required to pay child support in 2009.
+[6] Subsection 118(5) of the Act provides that:
+(5) No amount may be deducted under subsection (1) in computing an individual's tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (within the meaning assigned by subsection 56.1(4)) to the individual's spouse or common-law partner or former spouse or common-law partner in respect of the person and the individual
+(a) lives separate and apart from the spouse or common-law partner or former spouse or common-law partner throughout the year because of the breakdown of their marriage or common-law partnership; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse or common-law partner or former spouse or common-law partner.
+[7] Subsection 56.1(4) of the Act provides that:
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[8] Therefore if the Appellant was required to pay child support for his daughter in 2009 he is not entitled to claim a credit under subsection 118(1) of the Act in relation to his daughter for 2009. The issue in this appeal is whether the Appellant was required to pay a support amount in relation to his daughter in 2009.
+[9] The Appellant and his spouse separated in 2003. The Appellant introduced a copy of the Order of the Provincial Court of British Columbia that was filed on September 24, 2004 (the “2004 Order”). The 2004 Order is identified as a “Consent Order” and it provides in part as follows:
+THIS COURT ORDERS that the Orders made by Judge Chen on March 12, 2003 and July 16, 2003 shall be rescinded.
+THIS COURT FURTHER ORDERS that JO-ANN NADALIN and COLIN FOREMAN shall have joint custody and guardianship of the child, namely…
+THIS COURT FURTHER ORDERS that this primary residence of the said child shall be with JO-ANN NADALIN.
+THIS COURT FURTHER ORDERS that COLIN FOREMAN shall have access to the said child every Friday afternoon until Sunday afternoon and any other times as agreed to by the parties.
+UPON COLIN FOREMAN having been found to be a resident of British Columbia and to have an annual income of $13,653 for the purposes of determining the table amount of child support
+THIS COURT FURTHER ORDERS that pursuant to the child support guidelines COLIN FOREMAN shall pay to JO-ANN NADALIN for the maintenance of the said child the sum of $150 per month. Such payment shall commence on the 1st of September, 2004 and continue on the 1st of each and every month thereafter.
+[10] The only other Order that was introduced during the hearing was an Order of the Provincial Court of British Columbia as a result of a hearing held on March 2, 2011 (the “2011 Order”). The 2011 Order is described as an Interim Order. There is no indication that the 2011 Order rescinds the 2004 Order (as the 2004 Order stated that it rescinded the prior Orders of Judge Chen) nor does the 2011 Order address the issue of the child support payments. The 2011 Order only addresses the issues of custody, guardianship, residence and access.
+[11] The Appellant’s argument is that he was no longer required to pay child support in 2009 under the 2004 Order as the child had started to reside with him prior to 2009. He also stated that Jo-Ann Nadalin agreed that he was no longer required to pay child support but she denied that there was any such agreement. However, it is clear that the 2004 Order has not been changed in relation to the provision that required the Appellant to pay child support. While the Appellant may have a basis upon which he could have the requirement to pay child support removed, until this requirement to pay child support is removed by another Order of the Provincial Court of British Columbia (or by a higher Court with the authority to remove such requirement) the Appellant is still required to pay child support. The Appellant (even if he had Jo-Ann Nadalin’s consent) cannot change or rescind an Order of the Provincial Court of British Columbia by himself. Only the Provincial Court of British Columbia (or a higher Court with the authority to change an Order of the Provincial Court of British Columbia) can change an Order of that Court. This Court does not have the authority to change an Order of the Provincial Court of British Columbia.
+[12] In D.B.S. v. S.R.G., [2006] 2 S.C.R. 231, Justice Bastarache, writing on behalf of the majority of the Justices of the Supreme Court of Canada stated that:
+63 The immediate concern with such retroactive awards is that they disturb the certainty that a payor parent has come to expect: see Andries v. Andries (1998), 126 Man. R. (2d) 189 (C.A.), at para. 48. A payor parent who diligently follows the instructions of a court order may expect that (s)he would not be confronted with a claim that (s)he was deficient in meeting his/her obligations. After all, until it is varied, a court order is legally binding. It provides comfort and security to the recipient parent, but it also provides predictability to the payor parent. Put most simply, the payor parent's interest in certainty appears to be most compelling where (s)he has been following a court order.
+64 On the other hand, parents should not have the impression that child support orders are set in stone. Even where an order does not provide for automatic disclosure, variation or review, parents must understand that it is based upon a specific snapshot of circumstances which existed at the time the order was made. For this reason, there is always the possibility that orders may be varied when these underlying circumstances change: see s. 17 of the Divorce Act; s. 18(2) of the Parentage and Maintenance Act. But even if the parents choose not to seek variation of an order, depending on why (and how freely) this choice was made, the child may still have the right to receive support in the amount that should have been payable. The certainty offered by a court order does not absolve parents of their responsibility to continually ensure that their children receive the appropriate amount of support.
+65 In my view, a court order awarding a certain amount of child support must be considered presumptively valid. This presumption is necessary not only to maintain the certainty promised by a court order, but also to maintain respect for the legal system itself. It is inappropriate for a court, just as it is inappropriate for a parent, to assume that a previously ordered award is invalid.
+66 The presumption that a court order is valid, however, is not absolute. As noted above, the applicable legislation recognizes that a previously ordered award may merit being altered. This power will be triggered by a material change in circumstances. Notably, the coming into force of the Guidelines themselves constitutes such a change under the federal regime: s. 14(c) of the Guidelines. An increase in income that would alter the amount payable by a payor parent is also a material change in circumstances: s. 14 of the Guidelines; Willick, at p. 688; see also s. 18(2) of the Parentage and Maintenance Act. Thus, where the situations of the parents have changed materially since the original order was handed down, that original order may not be as helpful as it once was in defining the parents' obligations.
+(emphasis added)
+[13] As noted by Justice Bastarache above “until it is varied, a court order is legally binding”. Even if the circumstances have changed with respect to where the child was residing it is not clear whether the Appellant would be relieved of his obligation to pay child support for any period prior to the Appellant requesting a change. Although in Barthels v. The Queen, [2002] T.C.J. No. 256, [2003] 3 C.T.C. 2756 there is a reference to arrears being set aside as a result of a change in circumstances, the same relief was not granted in Barry v. Rogers, 213 Nfld. & P.E.I.R. 239. In Barry v. Rogers, Justice Handrigan of the Newfoundland and Labrador Supreme Court - Trial Division stated that:
+16 Urville Rogers has asked to be relieved of the arrears of support that have accumulated under the May 4, 2001 order. I am not prepared to allow this part of his application. He did not pay any support after August 20, 2001 and failed to apply to this court for any reconsideration until February 6, 2002. It is not open to him to stop paying support simply because the children were [sic] spend more time with him. The order is binding on him unless changed by this court. The support obligation created by that order remains in full force and effect until May 1, 2002. Then it will be replaced by the order arising from these proceedings.
+[14] Since the 2004 Order has not been varied in relation to the obligation of the Appellant to pay child support, he was still required to pay child support in 2009. The 2004 Order does not provide that the obligation to pay child support would cease at any particular time or in any particular circumstances.
+[15] The Appellant referred to the decisions of this Court in Biggs v. The Queen, [2001] T.C.J. No. 768, [2003] 2 C.T.C. 2438 and Barthels, supra. Both of these cases can be distinguished.
+[16] In Biggs, Justice Beaubier noted that:
+7 … More important, in assumption 4 d), the Respondent pleaded that the Order respecting support for Michael only continued in effect "so long as Michael resides with the Ex-Spouse on a full time basis ...". Thus, the obligation to pay support pursuant to the Order only existed as long as Michael resided with the Appellant's ex-spouse. Exhibit A-1 confirms the fact that after July 1, 1997, Michael resided with the Appellant and that support payments for Michael ceased at that time. Therefore the obligation to pay support pursuant to the Order ceased on July 1, 1997. During the 1999 taxation year no support amount was payable and all of the other requirements under s. 118 were met. Therefore the Appellant was entitled to the equivalent-to-spouse credit.
+[17] The decision in Biggs is distinguishable from the present case because the Order in that case provided that the obligation to pay support amounts would only continue “so long as Michael resides with the Ex-Spouse on a full time basis ...”. There is no such condition in the 2004 Order in this case.
+[18] In Barthels, Justice Hershfield noted that:
+12 Thirdly, I find that the First Order payment requirement was inherently conditional on the custody situation set out in that order. That situation changed in the year preceding the subject year and remained changed throughout the subject year. The First Order was not meant to apply to such case. The Second and Third Orders setting aside the arrears was, in my view, perfunctory and must be given the same effect as setting aside the order that gave rise to the arrears. The Second and Third Orders acknowledged the state of affairs, the legal arrangement, as agreed to when the First Order was made. They acknowledged the inherently conditional nature of the First Order and clarified that the requirement to pay child support for Stephanie was not to have effect when the premises on which that requirement was imposed ceased to exit. These Orders, while not expressly retroactive in vitiating that requirement, have that effect nonetheless, in my view.
+[19] There were subsequent Orders in Barthels that set aside arrears and which could be interpreted as setting aside the requirement to pay support. There are no such subsequent Orders in this case.
+[20] Since the 2004 Order was still in effect in 2009, the Appellant was still required to pay a support amount in 2009 and therefore he was not entitled to a tax credit as provided in paragraph 118(1)(b) or 118(1)(b.1) of the Act in 2009 as result of the provisions of subsection 118(5) of the Act. As a result the Appellant’s appeal from the reassessment of his tax liability for 2009 is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 30th day of January 2012.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2012TCC36
+COURT FILE NO.: 2011-2309(IT)I
+STYLE OF CAUSE: COLIN FOREMAN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Prince George, British Columbia
+DATE OF HEARING: December 16, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: January 30, 2012
+APPEARANCES:
+Agent for the Appellant:
+Kevin Christieson
+Counsel for the Respondent:
+Shankar Kamath
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

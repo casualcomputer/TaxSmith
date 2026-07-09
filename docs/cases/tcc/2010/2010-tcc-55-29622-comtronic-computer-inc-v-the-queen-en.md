@@ -1,0 +1,204 @@
+---
+title: "Comtronic Computer Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29622/index.do"
+last_modified: "2010-01-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 55"
+citation2: ""
+neutral_citation: "2010 TCC 55"
+decision_date: "2010-01-28"
+language: "en"
+item_id: "29622"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6161
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:42:33.253000+00:00"
+cases_cited_count: 6
+cases_citing_count: 19
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4fe9e9b3cca2c2486dcd6ed05354ae7f03458d0bd7f7ff053dec8c2edca7b8c1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Comtronic Computer Inc. v. The Queen
+
+- Citation: 2010 TCC 55
+- Decision date: 2010-01-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6161, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Comtronic Computer Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-01-28
+Neutral citation
+2010 TCC 55
+File numbers
+2008-398(GST)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-398(GST)G
+BETWEEN:
+COMTRONIC COMPUTER INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 18, 2009, at Montreal, Quebec.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the appellant:
+Daniel Bourgeois
+Counsel for the respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated June 7, 2006 and bears number M06-DV1-014AK, for the period from January 1, 2003 to December 31, 2005, is dismissed, with costs, in accordance with the reasons herein.
+Signed at Montreal, Quebec, this 28th day of January 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 2010 TCC 55
+Date: 20100128
+Docket: 2008-398(GST)G
+BETWEEN:
+COMTRONIC COMPUTER INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] The primary issue in this Goods and Services Tax (“GST”) appeal is whether the appellant Comtronic Computer Inc. (“Comtronic”) is entitled to input tax credits (“ITCs”) in respect of inputs where the GST registration number of the supplier shown on the invoice was not that of the supplier but was a validly issued number belonging to someone else. This appears to have involved a degree of what is commonly called identity theft. The question arises whether it is the Canadian purchaser or the Canadian government that bears the risk of supplier wrongdoing in such circumstances.
+[2] If Comtronic is not successful on the primary issue, the secondary related issue is whether Comtronic can maintain a successful due diligence defence to the section 280 penalties assessed.
+I. Facts
+[3] The parties filed an Agreed Partial Statement of Facts. In addition the Controller of Comtronic, a Vice-President of Comtronic, and the auditor from the “ministère du Revenu du Québec” (the “MRQ”) testified.
+[4] Comtronic is in the business of wholesaling computer parts and custom computer assembly. Its head office is in the Toronto area and it has branches in a number of cities across Canada including Montreal. Its customers include several major Canadian retailers as well as some Canadian school boards. Its annual revenues in the years in question, 2003 to 2005, were in the $65 million range. It buys the large majority of its parts inventory from non-Canadian sources. In the years in question it bought about 15 percent of its parts inventory from Canadian suppliers. Its annual expenses on inventory were in the $60 million range.
+[5] It has been determined that the invoices issued by five suppliers to Comtronic showed GST registration numbers that, while validly issued and current registration numbers, had been issued to persons other than the suppliers. This appears to be a case of wrongdoing on the suppliers’ part. There has been no suggestion that Comtronic was complicit or aware in any way of any supplier wrongdoing. It is agreed that Comtronic paid for these supplies together with GST and received them. Apparently the GST collected from Comtronic was never remitted by the suppliers. It is noted that by operation of law, the GST paid by Comtronic and received by the suppliers was received by the suppliers as the Crown’s agent.
+[6] From the sampling of invoices put in evidence, it appears that the GST paid by Comtronic was in the $1,500 to $2,000 range per invoice in question. The total amount of GST paid to these five suppliers over the three years in question aggregated almost $500,000.
+[7] Comtronic had its annual financial statements audited. As part of its ongoing relationship with its accountant, the Controller of Comtronic, Mr. Lau, would sit down at least annually with the accountant to discuss changes to tax and related requirements in order to be kept up to date.
+[8] The Controller had a system in place for GST compliance. One of his staff would prepare the necessary filings, in this case the recurring GST filings for GST collected and ITCs, for his review. As part of his review and before signing off to be filed and paid, he would typically check four or five invoices to confirm the data was correct.
+[9] The Comtronic Vice-President responsible for, among other things, purchasing, Mr. Tse, had a system in place to ensure centralized purchasing from Toronto. He would sign off on all invoices for payment only upon delivery and a physical count by him or, for purchases delivered to a branch location, his designate at that branch. Comtronic always paid by cheque whether the invoice was COD or had payment terms.
+[10] The Vice-President responsible for purchasing dealt with the same individual as contact person for each of these five suppliers, a Mr. Leung. The five suppliers, as described in the invoices to Comtronic are: Supertech Systems, RMD and RMD Inc., Greeno Trading, Rapid Memory Distribution and PC-Broker. The Vice‑President had known Mr. Leung since 2000 when the company Mr. Leung had been working for, RMD International Trading, was a Comtronic customer in Toronto. The Vice-President had been the sales representative at Comtronic responsible for the RMD International Trading account.
+[11] Mr. Leung initially contacted Mr. Tse at Comtronic from Montreal with a view to selling central processing units in 2002 or 2003. The pricing was satisfactory to Mr. Tse. He knew Mr. Leung and believed he would be reliable especially on timing. Mr. Tse began doing business with Mr. Leung in 2003 believing he was still at RMD International Trading.
+[12] When the initial invoice was received from Supertech Systems, Mr. Tse questioned Mr. Leung who explained he no longer worked for RMD International Trading but now worked for a different company.
+[13] The Supertech Systems invoices were issued between March 2003 and August 2003. They showed Supertech Systems as the supplier, showed a Montreal address on rue Saint‑Urbain and showed a GST registration number (as well as a Quebec Sales Tax (“QST”) registration number). As it turned out, the GST registration number was that of a third-party corporation. It also turned out that the trade name Supertech Systems was registered in Quebec to a different third-party corporation. It is not known whether these two were related to each other but it does not appear from the evidence that Mr. Leung had any legitimate connection to either corporation.
+[14] From September/October 2003 to September 2004 Comtronic purchase orders placed through Mr. Leung were invoiced by RMD (or, at times, RMD Inc.) and Greeno Trading. When questioned about the RMD and RMD Inc. invoices by Mr. Tse upon receipt, Mr. Leung assured him there were no worries, it was the same company as Supertech Systems at the same address and phone number and there had just been a change of trade name.
+[15] The RMD invoice in evidence shows a Montreal address on Rue Tait and showed the same GST and QST registration numbers as on the Supertech Systems invoices. The RMD Inc. invoices used the same Saint‑Urbain address as Supertech Systems as well as the same registration numbers.
+[16] The Greeno Trading invoices in evidence showed the same address on Tait as did the RMD invoice and again showed the same GST and QST registration numbers as did Supertech Systems, RMD and RMD Inc. invoices. Again Mr. Tse testified that Mr. Leung assured him this was just a different trade name and there was no cause for worry. It turns out that the trade name Greeno Trading is registered in Quebec to an individual other than Mr. Leung and it does not appear from the evidence that Mr. Leung had any legitimate connection to that individual.
+[17] From November 2004 to September 2005 orders by Comtronic through Mr. Leung were invoiced by Rapid Memory Distribution. The Rapid Memory Distribution invoices in evidence show a Quebec City address on Boulevard Charest and show different GST and QST registration numbers than the prior invoices. Again, it turns out that the GST registration number was not that of Rapid Memory Distribution but had been issued to an entity called Eve Informatique. The Boulevard Charest address was also that of Eve Informatique. There was little explanation in evidence of Eve Informatique other than that it was also a supplier to Comtronic during the final quarter of 2004 and that Comtronic was allowed its ITCs in respect of its purchases from Eve Informatique.
+[18] From July 2005 to November 2005 orders placed by Comtronic through Mr. Leung were invoiced by PC Broker. The PC‑Broker invoices showed a Montreal address on Boulevard René‑Lévesque and showed unique GST and QST registration numbers. Again, it turned out that those registration numbers were not issued to PC‑Broker but to a third‑party corporation that does not appear on the evidence to be legitimately related to Mr. Leung.
+[19] Mr. Tse had Comtronic stop dealing with Mr. Leung once problems with the MRQ came to light at Comtronic’s Montreal branch.
+[20] Upon discovery of the MRQ concerns, Mr. Leung initially assured Mr. Tse there was no problem that could not be straightened out. However, the following week Mr. Leung no longer answered or returned Mr. Tse’s calls. No one told me what became of Mr. Leung or the status of any collection proceedings against Mr. Leung and his supplier businesses for the GST collected from Comtronic that was not remitted to the Canada Revenue Agency (“CRA”). Comtronic’s evidence was that it has tried to reach Mr. Leung but has been unable to do so. The respondent was silent as to its knowledge of Mr. Leung’s whereabouts or financial or business situation. I did not even receive direct evidence that the amounts of GST paid by Comtronic remain uncollected from Mr. Leung and his supplier businesses.
+[21] The MRQ auditor testified that in the years in question the CRA did not maintain its website on which Canadian purchasers could confirm GST registrants’ names and registration numbers. The CRA started such a site in 2006. The MRQ had set up a similar website in 2002 but that did not provide any information on GST registration numbers nor did it list any trade names used by the QST registrant. While I did not hear any evidence on the point, the respondent’s counsel in argument did draw my attention to certain publications that indicate the CRA was able to provide some information on GST registrants and registration numbers by telephone in the years in question. I will return to that below.
+[22] Comtronic’s Controller testified that, prior to being told by the MRQ auditor in this matter, he was unaware of any requirement that GST registration numbers must be checked with the CRA in order to qualify for ITCs.
+II. Legislation
+[23] The relevant portions of the GST legislation are paragraph 169(4)(a) of the Excise Tax Act (the “Act”) and section 3 of the Input Tax Credit Information (GST/HST) Regulations (the “Regulations”) thereunder. The relevant portions of those read as follows:
+[Excise Tax Act]
+169(4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; and
+169(4) L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+[Input Tax Credit Information (GST/HST) Regulations]
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+. . .
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under subsection 241(1) of the Act to the supplier or the intermediary, as the case may be,
+. . .
+(c) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+3. Les renseignements visés à l’alinéa 169(4)a) de la Loi, sont les suivants :
+[…]
+b) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 30 $ ou plus et de moins de 150 $ :
+(i) le nom ou le nom commercial du fournisseur ou de l’intermédiaire et le numéro d’inscription attribué, conformément au paragraphe 241(1) de la Loi, au fournisseur ou à l’intermédiaire, selon le cas,
+[…]
+c) lorsque le montant total payé ou payable, selon la pièce justificative, à l’égard d’une ou de plusieurs fournitures est de 150 $ ou plus :
+(i) les renseignements visés aux alinéas a) et b),
+(ii) soit le nom de l’acquéreur ou son nom commercial, soit le nom de son mandataire ou de son représentant autorisé,
+(iii) les modalités de paiement,
+(iv) une description suffisante pour identifier chaque fourniture.
+[Excise Tax Act]
+280(1) Subject to this section and section 281, where a person fails to remit or pay an amount to the Receiver General when required under this Part, the person shall pay on the amount not remitted or paid
+(a) a penalty of 6% per year, and
+(b) interest at the prescribed rate,
+computed for the period beginning on the first day following the day on or before which the amount was required to be remitted or paid and ending on the day the amount is remitted or paid.
+280(1) Sous réserve du présent article et de l’article 281, la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer la pénalité et les intérêts suivants, calculés sur ce montant pour la période commençant le lendemain de l’expiration du délai et se terminant le jour du versement ou du paiement :
+a) une pénalité de 6 % par année;
+b) des intérêts au taux réglementaire.
+III. Analysis
+[24] Subsection 169(4) is clear that an ITC cannot be claimed unless the claimant has obtained prescribed information. Section 3 of the Regulations is clear that the prescribed information must include the name of the supplier or the name under which the supplier does business, and the registration number assigned to the supplier.
+[25] The Federal Court of Appeal in Systematix Technology Consultants Inc. v. Canada, 2007 FCA 226, [2007] G.S.T.C. 74, had occasion to consider this very issue in circumstances where an ITC claim had been made in similarly unfortunate circumstances where, for various reasons, the suppliers did not have valid GST registration numbers. The Court of Appeal wrote:
+4 We are of the view that the legislation is mandatory in that it requires persons who have paid GST to suppliers to have valid GST registration numbers from those suppliers when claiming input tax credits.
+[Emphasis added.]
+[26] Given the wording of paragraph 169(4)(a), as well as the Reasons for Judgment of Archambault J. in the Tax Court ( 2006 TCC 277, [2006] G.S.T.C. 120) with which the Federal Court of Appeal agreed, I take the court’s reference to “valid GST registration numbers from those suppliers” to mean GST registration numbers validly assigned to those suppliers.
+[27] The Court of Appeal went on in Systematix to quote approvingly from Key Property Management Corp. v. The Queen, 2004 TCC 210, [2004] G.S.T.C. 32, wherein Bowie J. wrote that paragraph 169(4)(a) and section 3 of the Regulations cannot succeed in their purpose of protecting the fisc against both fraudulent and innocent incursions unless they are considered to be mandatory requirements and strictly enforced. The Federal Court of Appeal emphasized the words “unless they are considered to be mandatory requirements and strictly enforced”.
+[28] The Federal Court of Appeal also quoted approvingly from Davis v. The Queen, 2004 TCC 662, [2004] G.S.T.C. 134, wherein Campbell J. wrote that, given the very specific way in which these provisions are worded, they are clearly mandatory and cannot be sidestepped.
+[29] In this case I am bound to follow the Federal Court of Appeal’s decision in Systematix. I should note, however, that (as noted by Archambault J. of this Court in deciding the Systematix case at first instance) this strict approach can result in unfairness to a purchaser who pays the GST in good faith. It leaves Canadian businesses bearing the risk of fraud, identity theft, and wrongdoing and effectively requires them to put into place risk management practices in dealing with new and continuing suppliers to identify supplier information that may require further investigation. A result such as this may prove harsh and unfair but it is open to Parliament to legislate such a regime and I am bound to apply that legislation as it has already been interpreted by the Federal Court of Appeal.
+[30] Whether it is the purchaser or the fisc that should bear the risk of supplier identity theft and wrongdoing in GST collection and remittance matters is a valid policy question to be debated. However, in circumstances such as those before me, the Federal Court of Appeal has ruled that Parliament has already turned its mind to this question. The Tax Court cannot reopen the question.
+[31] Counsel for the appellant sought to distinguish Systematix on the basis that it is clear from the facts described in Archambault J.’s trial judgment that Systematix involved valid registration numbers that had previously been revoked by the CRA, valid registration numbers issued after the relevant period, and invalid registration numbers that had never been issued to anyone. He also argued that Archambault J. did not disagree with or overrule this Court’s earlier decision in Joseph Ribkoff Inc. v. The Queen, 2003 TCC 397, [2003] G.S.T.C. 162, but instead distinguished it, and that the Ribkoff decision would be more directly on point with the appellant’s case.
+[32] It is not at all clear that the Systematix supplier registration number issues were materially different than those involved in this case. In paragraph 5 of his Reasons, Archambault J. writes that one of the supplier invoices involved a registration number that was only valid in a prior period and had also only ever been issued to a person other than the Systematix supplier. It is also not clear to me that the Ribkoff facts are necessarily more similar to those of Comtronic. The primary issue in Ribkoff was the fact that the invoicing suppliers, who were with one exception all registered with GST numbers, did not themselves provide the services but subcontracted them.
+[33] With respect to both of the appellant’s arguments, I am unable to see how the broad wording of the relevant provisions and the interpretation thereof by the Federal Court of Appeal that the wording is mandatory and should be strictly enforced, and which requires that the ITC claimant have the registration number assigned to the supplier, should result in any different outcome in this case. Similarly, while Archambault J. at trial in Systematix did distinguish Ribkoff and the Federal Court of Appeal found no error on the part of the trial judge, I cannot discern how this Court’s approach in Ribkoff and other earlier cases survive the Federal Court of Appeal’s decision in Systematix.
+IV. Due Diligence
+[34] In Corporation de l’École Polytechnique v. Canada, 2004 FCA 127, [2004] G.S.T.C. 102, the Federal Court of Appeal described the due diligence defence to a section 280 penalty as follows:
+27 This Court has held that there is no bar to the defence argument of due diligence, which a person may rely on against charges involving strict liability, being put forward in opposition to administrative penalties. In particular, it has held that section 280 of the Excise Tax Act, by its wording and content, gives rise to that defence: Canada (A.G.) v. Consolidated Canadian Contractors Inc., [1999] 1 F.C. 209 (F.C.A.). It may be worth reviewing the principles governing the defence of due diligence before applying them to the facts of the case at bar.
+28 The due diligence defence allows a person to avoid the imposition of a penalty if he or she presents evidence that he or she was not negligent. It involves considering whether the person believed on reasonable grounds in a non-existent state of facts which, if it had existed, would have made his or her act or omission innocent, or whether he or she took all reasonable precautions to avoid the event leading to imposition of the penalty. See The Queen v. Sault Ste-Marie, [1978] 2 S.C.R. 1299; The Queen v. Chapin, [1979] 2 S.C.R. 121. In other words, due diligence excuses either a reasonable error of fact, or the taking of reasonable precautions to comply with the Act.
+29 The defence of due diligence should not be confused with the defence of good faith, which applies in the area of criminal liability, requiring proof of intent or guilty knowledge. The good faith defence enables a person to be exonerated if he or she has made an error of fact in good faith, even if the latter was unreasonable, whereas the due diligence defence requires that the error be reasonable, namely, an error which a reasonable person would have made in the same circumstances. The due diligence defence, which requires a reasonable but erroneous belief in a situation of fact, is thus a higher standard than that of good faith, which only requires an honest, but equally erroneous, belief.
+30 A person relying on a reasonable mistake of fact must meet a twofold test: subjective and objective. It will not be sufficient to say that a reasonable person would have made the same mistake in the circumstances. The person must first establish that he or she was mistaken as to the factual situation: that is the subjective test. Clearly, the defence fails if there is no evidence that the person relying on it was in fact misled and that this mistake led to the act committed. He or she must then establish that the mistake was reasonable in the circumstances: that is the objective test.
+31 As soon as the defence of due diligence accepted for strict liability offences is raised, the question arises of whether the defence of error of law could also be relied on to avoid imposition of a penalty. That question does not arise only in connection with strict liability offences, although with the growth in regulations and the multiplication of statutory offences the field of strict liability has proven to be the most fertile for the emergence of this defence.
+. . .
+38 This brief review of the legislation and case law leads to the following conclusion. Apart from exceptions, mistakes in good faith and reasonable mistakes of law as to the existence and interpretation of legislation are not recognized as defences to criminal offences, nor to strict liability offences or prosecutions governed by the rules applicable in strict liability. However, two exceptions to the principle should be noted: officially induced mistake of law and invincible mistake of law.
+[35] I take from these words of the Federal Court of Appeal that:
+1. in order to establish a due diligence defence to a penalty an appellant must show he either (a) made a reasonable error in his or her understanding of the facts, or (b) took reasonable precautions to avoid the event leading to the penalty, and
+2. subject to very limited exceptions, mistakes of law as to the existence or interpretation of legislation are not recognized as an excuse or defence to a section 280 penalty. The exceptions are officially induced mistake of law and invincible mistake of law involving a defect in the promulgation or publication of the law.
+[36] With respect to the appellant’s position that it exercised due diligence to avoid its failure to have its suppliers’ registration numbers, I am not persuaded on the facts of this case. Firstly, I note that Comtronic in fact did nothing to verify or confirm the registration numbers printed on the invoices. These particular circumstances are not such that I am inclined to think that doing nothing to try to avoid the risk of failure to have correct registration numbers is sufficient. Mr. Leung had resurfaced in Montreal after a few years since being known to Comtronic in Toronto. Mr. Tse was not told by Mr. Leung that he was no longer at RMD International Trading until after the Supertech Systems invoices were issued. Nonetheless, later invoices came from entities described as RMD and RMD Inc. as well as Rapid Memory Distribution. While it may be reasonable to accept that a corporate entity operates under different trade names from the same address and with the same registration numbers, the re-emergence of RMD invoices after Mr. Leung said he had left RMD, combined with the fact that he only told Mr. Tse he left RMD when Mr. Leung questioned the Supertech Systems invoices and not when he reintroduced himself after several years to Mr. Tse, warranted further inquiry without which Comtronic’s mistaken understanding of the facts was not reasonable.
+[37] Comtronic cannot be excused from its section 280 penalty based upon the fact that it did not know the law required it to be responsible for the validity of suppliers’ registration numbers; that was a mistake of law.
+[38] While there was not an online verification system available to purchasers in the years in question maintained by the CRA for purposes of confirming supplier names and registration numbers, there was a CRA telephone inquiry service for this purpose. The MRQ did operate an online internet confirmation service throughout the years in question which, had it been consulted as regards the QST registration numbers shown on these five suppliers’ invoices, would have turned up the problem. I am not satisfied, in these circumstances, that Comtronic’s mistaken understanding or assumption as to the valid registration of these suppliers was reasonable, and, since it did not actively take any precautions to ensure these suppliers had valid registration numbers, it cannot be said to have taken reasonable precautions to ensure compliance or avoid the failure. This is not to say that failure to actively take additional precautions will always preclude an appellant that accepted the registration number on an invoice at face value from being considered to have taken reasonable precautions to comply with the GST legislation.
+[39] The appeal is dismissed, with costs.
+Signed at Montreal, Quebec, this 28th day of January 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 55
+COURT FILE NO.: 2008-398(GST)G
+STYLE OF CAUSE: COMTRONIC COMPUTER INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: November 18, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: January 28, 2010
+APPEARANCES:
+Counsel for the appellant:
+Daniel Bourgeois
+Counsel for the respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the appellant:
+Name: Daniel Bourgeois
+Firm: De Grandpré Chait s.e.n.c.r.l.
+Montreal, Quebec
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

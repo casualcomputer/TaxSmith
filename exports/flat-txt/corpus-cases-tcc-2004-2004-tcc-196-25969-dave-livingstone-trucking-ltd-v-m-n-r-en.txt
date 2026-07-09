@@ -1,0 +1,153 @@
+Title: Dave Livingstone Trucking Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25969/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-196-25969-dave-livingstone-trucking-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-03-04
+
+# Dave Livingstone Trucking Ltd. v. M.N.R.
+
+- Citation: 2004 TCC 196
+- Decision date: 2004-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3767, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dave Livingstone Trucking Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-04
+Neutral citation
+2004 TCC 196
+File numbers
+2003-2094(EI)
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-2094(EI)
+2003-2095(CPP)
+BETWEEN:
+DAVE LIVINGSTONE TRUCKING LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 28, 2004, at Belleville, Ontario,
+by the Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+Jeffrey Ayotte
+Counsel for the Respondent:
+Ronald MacPhee
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue on the appeal made to him under section 92 of that Act is confirmed.
+The appeal pursuant to section 28 of the Canada Pension Plan is dismissed; and the determination of the Minister of National Revenue on the application made to him under section 27.1 of the Plan is confirmed.
+Signed at Ottawa, Canada, this 4th day of March, 2004.
+"M.A. Mogan"
+Mogan J.
+Citation: 2004TCC196
+Date: 20040304
+Docket: 2003-2094(EI)
+2003-2095(CPP)
+BETWEEN:
+DAVE LIVINGSTONE TRUCKING LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan J.
+[1] The Appellant carries on business as a long-distance trucking broker for Sameday Right-O-Way (a division of Day & Ross Inc.). The Appellant and Sameday Right-O-Way ("Sameday") entered into a Linehaul Broker Agreement dated March 3, 1997 under which the Appellant agreed to provide certain equipment for the exclusive service of Sameday, and to provide a sufficient number of individuals to operate the equipment. Three particular individuals: Jim Bird, Steve Collins and Michael Livingstone were engaged by the Appellant to operate the equipment in question. The issue in this appeal is whether those three individuals were engaged in insurable employment within the meaning of the Employment Insurance Act or were independent contractors.
+[2] At the beginning of the hearing, counsel stated that they had agreed to some basic facts. To expedite the hearing, counsel for the Respondent read the basic facts into the record and counsel for the Appellant confirmed his agreement. The agreed facts may be summarized as follows:
+1. The individuals provided by the Appellant operated the equipment with Standard Operating Procedures and Dispatch Rules.
+2. The Appellant was incorporated on June 7, 1999. David Livingstone owns 98% of the Appellant's issued voting shares and his son Michael Livingstone owns the remaining 2%.
+3. The Appellant is the beneficial owner of the trucks (sometimes referred to as "tractors" or "cabs" used to pull trailers loaded with cargo) but the trucks are registered in the names of the Appellant and Day & Ross so that Day & Ross ("D & R") can obtain the insurance and licence.
+4. The Appellant hires workers to drive the trucks as long distance transport drivers. The workers provide their own boots and gloves, and pay for their own meals and cell phones.
+5. Under the Linehaul Broker Agreement (Exhibit 1), all drivers provided by the Appellant must be an "Approved Employee" by D & R.
+6. The Appellant pays all operating expenses and all maintenance of the trucks including fuel, oil, insurance and licence. The cost of fuel and oil is financed by D & R through a credit card provided to the driver. D & R pays the credit card amounts for a particular trip and then deducts those amounts from the fees payable to the Appellant. Similarly, D & R finances the cost of insurance and licence and then deducts that cost from amounts owing to the Appellant.
+7. The drivers are responsible for keeping the trucks washed and clean.
+8. The drivers report to D & R who set the hours of work, the deadlines and priorities; and who determine the hiring and firing of drivers, to which the Appellant must comply.
+9. The rate of pay is negotiated between the Appellant and the driver. Having regard to the three drivers who are the subject of this appeal, Michael was paid a flat rate of $155 per day. Steve Collins was paid a flat rate of $140 per day. And Jim Bird was paid by the route. His typical route - which he drove most often, almost exclusively - was from Toronto to Edmonton for which he was paid $850 per route.
+10. D & R provided a load and run schedule with which the drivers had to comply. The drivers could negotiate among themselves and with the Appellant as to which route each driver would take so long as the destination was reached within the time frame set by D & R. The drivers' hours and days of work were influenced by the needs of D & R.
+11. If a worker refused too many trips, the Appellant would be forced by D & R to finds a more reliable worker.
+12. The drivers could use the Appellant's trucks only for services to D & R.
+13. Each driver was required to provide dispatch reports and log sheets to D & R.
+14. The drivers were paid by cheque by the Appellant on the 1st and 15th day of each month.
+l5. The agreement between the Appellant and D & R provided for a flat rate of $900 per working day for linehaul trips, with wait time included in that flat rate. D & R recovered the cost of insurance at a rate of 5.1 cents per mile.
+16. Uniforms were supposed to be purchased and maintained by the Appellant but, in practice, the uniform policy was never enforced; and the drivers did not wear uniforms.
+17. D & R purchased the plates for each tractor and then recovered the cost of the plates over 24 pay periods by deducting 1/24 of the cost from amounts owing to the Appellant.
+18. The Appellant was responsible for workers' compensation.
+19. D & R had an insurance plan to which all drivers were required to contribute. D & R also had a medical and dental plan which was optional; a driver could join and pay in if he chose.
+20. The agreement between the Appellant and D & R keeps the Appellant's trucks running on a steady basis. A regular driver could arrange for a substitute driver but the substitute had to be approved by D & R. The regular driver could negotiate a separate rate of pay with his substitute driver different from the rate established as between the regular driver and the Appellant.
+21. A driver could work for some third party but the Appellant had first call on the driver's time.
+22. Each driver was required to provide a log sheet to the Appellant in order to be paid.
+[3] The above 22 items are the facts agreed to by counsel at the hearing. Exhibit 1 is the Linehaul Broker Agreement dated March 3, 1997 between the Appellant (referred to as the "Contractor") and Sameday Right-O-Way (a division of Day & Ross Inc.) (referred to as D & R.). The following portions of Exhibit 1 are particularly relevant:
+1. Definitions:
+In this Agreement the following terms have the following definitions:
+(a) "Approved Employee" means an employee of Contractor who has been approved by D & R to operate Equipment.
+(b) ...
+(c) "Dispatch Rules" means those rules established by D & R for the orderly dispatch of linehaul equipment.
+(d) ...
+(f) Standard Operating Procedures" ("SOP") means the policies and procedures contained in the D & R Standard Operating Procedures Manual and Drivers' Handbook. ...
+3. Employees
+(a) Contractor will present to D & R all applications by persons applying for employment as Approved Employees and D & R agrees to approve those applications which meet the standards set out in SOP.
+(b) All Approved Employees are employees of Contractor and not D & R and therefore Contractor is responsible for the payment of wages and the withholding of contributions with respect to and payment on behalf of Approved Employees under Unemployment Insurance Act, Canada Pension Act [sic], Income Tax Act, Workers' Compensation Actor any other applicable statute.
+(c) Contractor shall permit only Approved Employees to operate Equipment.
+(d) Contractor shall train and familiarize all Approved Employees with SOP and Dispatch Rules and shall ensure that all Approved Employees operate Equipment in accordance with SOP and Dispatch Rules. Contractor will ensure attendance of an Approved Employee at any training program scheduled by D & R for that Approved Employee and to distribute materials to Approved Employees as provided by D & R.
+(e) ...
+(f) If an Approved Employee materially or repeatedly breaches SOP or Dispatch Rules, D & R shall be entitled in its discretion to suspend or terminate its approval of that Approved Employee. Contractor shall be solely responsible for implementing such suspension or termination. ...
+[4] David Livingstone, the controlling shareholder of the Appellant, testified at the hearing. He confirmed the facts as agreed between counsel. He has owned his own trucking business since 1982. He signed the Linehaul Broker Agreement (Exhibit 1). Each driver was required to submit a Dispatch Sheet showing the trips (origin, destination, etc.) he had taken in a particular half month from 1st to the 15th or from 16th to last month day. Exhibit A-1 is the Dispatch Sheet for Steve Collins from April 16 to 30 (no year indicated) showing his trips from Port Hope to Toronto and other cities in southern Ontario west of Port Hope. The Dispatch Sheet was important because each driver was paid in accordance with the trips he had done in the half month he was reporting.
+[5] Each driver was required to keep a log and file it with D & R every seven days. The Appellant provided no training for any driver. If a load was delivered late, D & R could impose a penalty on the Appellant which would be passed on to the driver if the lateness was the driver's fault. D & R is the Appellant's only client. D & R provides forms for the drivers to fill out; and the Appellant's drivers know the D & R rules. Mr. Livingstone expected each driver to give him two weeks' notice of any planned vacation so that he could find a replacement. The Appellant issued paycheques to the drivers for their respective gross amounts without any source deductions.
+Analysis
+[6] For many years, the decision of the Federal Court of Appeal in Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025 was the best guide in distinguishing independent contractor from employee. More recently, the Supreme Court of Canada in671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, affirmed Wiebe Door and restated the standard tests as follows at paragraphs 47 and 48:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[7] The basic tests are control, ownership of tools, opportunity for profit/risk of loss, and integration. The first test, control, points strongly toward employment. The drivers were required to attend each morning at Port Hope to be assigned their routes, cargo destinations, and in some cases a deadline for the delivery of certain cargo. In the case of Jim Bird, his route was usually Port Hope to Edmonton and return - a trip of six or seven days - and so he would not report to Port Hope each day. In accordance with Exhibit 1, the drivers were required to follow Standard Operating Procedures and the Dispatch Rules. The drivers were clearly under the control of the Appellant and D & R.
+[8] The second test, tools, also points toward employment. The basic equipment was the trucks which were owned beneficially by the Appellant. The trailers were owned by D & R. The drivers provided their own personal property like boots and gloves but, effectively, the only important equipment and tools were provided by either the Appellant or D & R.
+[9] The drivers were paid by the Appellant twice each month: on the 1st and 15th days. The Appellant paid all of the operating costs of the trucks, and D & R maintained the trailers. If specific cargo was delivered late, if the lateness was the driver's fault and if D & R imposed a penalty which was passed down through the Appellant to the driver, then the driver was at risk to absorb a penalty but it was his only risk. The driver did not have any running expenses like advertising, stationery, rent, business telephone or invoicing. The driver's Dispatch Sheet (Exhibit A-1) was all he had to submit to the Appellant in order to be paid. The driver was paid a flat rate according to the trips on his log or Dispatch Sheet. He had no opportunity for profit or risk of loss in a business sense.
+[10] Under the fourth and last test, integration, the Courts have suggested that the following question be asked from the workers' perspective: Whose business is it? In the circumstances of this case, the answer is simple because the drivers had no business. They had no customers or clients. They had no revenue or expenses in a business sense. They were always paid twice each month by the same person, the Appellant.
+[11] Counsel for the Appellant relied on the decision of the Federal Court of Appeal in Wolf v. The Queen, 2002 DTC 6853. I am not inclined to follow the decision in Wolf for the following reasons. Mr. Wolf was a mechanical engineer specializing in aerospace. He had held a number of consulting contracts with aerospace companies before he agreed in 1990 to provide his services to Bombardier/Canadair. The drivers in this appeal do not possess the high professional skills of Mr. Wolf; nor do they have a track record of consulting in circumstances where their advice is sought. They provide the basic skill of driving a large truck/tractor hauling a trailer. In Wolf, the factors indicating employment or independent contractor were evenly balanced and it was an appropriate case for letting the parties determine the character of their relationship. This is what the Federal Court of Appeal meant by "contractual intent". All three appellate justices delivered concurring reasons in Wolf. Noël J.A. stated at page 6870, paragraph 122:
+[122] ... In my view, this is a case where the characterization which the parties have placed on their relationship ought to be given great weight. I acknowledge that the manner in which parties choose to describe their relationship is not usually determinative particularly where the applicable legal tests point in the other direction. But in a close case such as the present one, where the relevant factors point in both directions with equal force, the parties' contractual intent, and in particular their mutual understanding of the relationship cannot be disregarded. (emphasis added)
+The factors in this appeal do not point in both directions with equal force.
+[12] The Appellant relied on the decision of this Court in Doering v. M.N.R. (Court File No. 2001-1934(EI)) a decision of Beaubier J. dated February 27, 2003. I would distinguish that case because Charles Doering owned his own truck/tractor while the payor provided the trailer. Mr. Doering had a real risk of loss and provided the basic equipment and tools. And finally, the Appellant cited the decisions of this Court and the Federal Court of Appeal in Comeau's Sea Foods Ltd. v. M.N.R. (F.C.A. December 19, 2002). The facts in this case are unusual because 146 workers engaged in Comeau's vessels were held to be independent contractors. The four tests from Wiebe Door pointed in both directions but the trial judge (O'Connor J.) was particularly impressed by the fact that Comeau's, by sharing the proceeds of the catch, was sharing the proceeds of the business with the crew as a co-venturer. The Federal Court of Appeal affirmed Judge O'Connor. In this appeal, there was no sharing of proceeds between the Appellant and the drivers of the trucks. The drivers were paid a flat rate per trip.
+[13] After applying the common law tests from Wiebe Door and Sagaz, if I were in any doubt as to the outcome of this appeal (I hasten to state that I am not in doubt), I would still dismiss the appeal relying on the documents and agreed facts. In Exhibit 3 entitled "Contract for Services", the second recital states that the driver ("Subcontractor") is an independent contractor but that recital is in conflict with the type of controls which each driver, as an agent of the Appellant, accepts from D & R under the Linehaul Broker Agreement (Exhibit 1). Also, the agreed facts stated in paragraph 2 above point strongly toward each driver being an employee and not an independent contractor. The appeal is dismissed.
+Signed at Ottawa, Canada, this 4th day of March, 2004.
+"M.A. Mogan"
+Mogan J.
+CITATION:
+2004TCC196
+COURT FILE NO.:
+2003-2094(EI), 2003-2095(CPP)
+STYLE OF CAUSE:
+Dave Livingstone Trucking Ltd. v. The Minister of National Revenue
+PLACE OF HEARING:
+Belleville, Ontario
+DATE OF HEARING:
+January 28, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT:
+March 4, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Jeffrey Ayotte
+Counsel for the Respondent:
+Ronald MacPhee
+COUNSEL OF RECORD:
+For Thornbrook:
+Name:
+Jeffrey Ayotte
+Firm:
+McGillen, Ayotte, Dupuis
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

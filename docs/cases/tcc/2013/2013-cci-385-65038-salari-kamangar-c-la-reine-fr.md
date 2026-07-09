@@ -1,0 +1,152 @@
+---
+title: "Salari Kamangar c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/65038/index.do"
+last_modified: "2013-11-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 385"
+citation2: ""
+neutral_citation: "2013 CCI 385"
+decision_date: "2013-11-26"
+language: "fr"
+item_id: "65038"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5905
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:55:55.769000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "59b83acf5ddefe745fed1913a0c3f6b8a8ae812b138757adc3b1b4746cc27bc1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Salari Kamangar c. La Reine
+
+- Citation: 2013 CCI 385
+- Decision date: 2013-11-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5905, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Salari Kamangar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-11-26
+Référence neutre
+2013 CCI 385
+Numéro de dossier
+2011-4061(IT)
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-4061(IT)
+ENTRE :
+HAMID SALARI KAMANGAR,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 26 novembre 2013, à Windsor (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant du demandeur :
+M. Alexander R. Menzies
+Avocat de l’intimée :
+Me Ryan Gellings
+____________________________________________________________________
+ORDONNANCE
+La requête présentée par le demandeur en vue d’obtenir la réouverture du dossier de la Cour portant le numéro 2011-4061(IT)APP et la prorogation du délai imparti pour interjeter appel relativement aux années d’imposition 2005 et 2006 est rejetée.
+Signé à Ottawa, Canada, ce 4e jour de décembre 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 8e jour de janvier 2014.
+S. Tasset
+Référence : 2013CCI385
+Date : 20131204
+Dossier : 2011-4061(IT)
+ENTRE :
+HAMID SALARI KAMANGAR,
+demandeur,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge V.A. Miller
+[1] M. Kamangar demande à la Cour, par voie de requête, d’ordonner :
+a) d’une part, la réouverture du dossier portant le numéro 2011‑4061(IT)APP;
+b) d’autre part, la prorogation du délai imparti pour interjeter appel relativement aux années d’imposition 2005 et 2006, s’il y a lieu.
+[2] Dans les présents motifs, le terme « demandeur » désigne M. Kamangar.
+[3] Les motifs invoqués à l’appui de la requête sont les suivants :
+a) le dossier de la Cour portant le numéro 2011-4061(IT)APP a été clos au terme d’une procédure administrative et sans que le demandeur en soit avisé;
+b) il y a eu erreur de communication;
+c) l’Agence du revenu du Canada (l’« ARC ») a commis une erreur dans l’établissement de nouvelles cotisations à l’égard du demandeur relativement aux années d’imposition 2005 et 2006;
+d) le demandeur a toujours eu l’intention de faire appel de la décision de l’ARC.
+[4] Le demandeur n’était pas présent lors de l’audition de la présente requête. Il était représenté par M. Menzies, CA, CPA. Ce dernier le représente depuis décembre 2011.
+[5] Le demandeur a déposé un affidavit dans lequel il explique les circonstances entourant son défaut d’interjeter appel relativement aux années 2005 et 2006 dans le délai prévu par la Loi de l’impôt sur le revenu (la « LIR »).
+Les faits
+[6] Le 4 décembre 2009, de nouvelles cotisations ont été établies à l’égard du demandeur relativement aux années d’imposition 2005 et 2006. Les nouvelles cotisations ont été ratifiées par avis daté du 21 juillet 2011. Le 23 décembre 2011, le demandeur a déposé une demande de prorogation du délai prévu pour le dépôt d’un avis d’appel. Il avait joint à sa demande un document intitulé [traduction] « Avis d’appel ». L’intimée ne s’est pas opposée à la demande et, le 1er février 2012, la juge Lamarre a rendu une ordonnance prorogeant le délai imparti pour l’introduction de l’appel relatif aux années d’imposition 2005 et 2006. L’ordonnance était conditionnelle au dépôt à la Cour d’un [traduction] « avis d’appel en bonne et due forme » au plus tard le 12 mars 2012. Elle a été envoyée à M. Menzies par courrier recommandé le 2 février 2012. Il n’est pas allégué que M. Menzies n’a pas reçu l’ordonnance.
+[7] M. Menzies n’a pas répondu à l’ordonnance ni déposé d’avis d’appel en bonne et due forme. Le dossier du demandeur à la Cour a été fermé le 27 mars 2012.
+[8] Le demandeur a expliqué que lorsqu’il a reçu l’avis de cotisation relatif à l’année d’imposition 2012, il s’est rendu compte qu’il devait encore des sommes relativement à une cotisation antérieure. Cet avis de cotisation était daté du 2 mai 2013. Le 21 juin 2013, M. Menzies a écrit à la Cour pour savoir où en était son appel portant sur les années d’imposition 2005 et 2006 et il a appris que le dossier avait été clos.
+[9] Tout comme M. Menzies, le demandeur estime qu’il ne devrait pas perdre son droit d’appel du fait d’erreurs commises par M. Menzies.
+[10] La requête a été déposée à la Cour le 2 octobre 2013.
+[11] L’intimée a fait valoir que le demandeur avait déjà obtenu une prorogation de délai pour le dépôt de son avis d’appel et qu’il n’avait pas respecté ce nouveau délai fixé par la Cour. Par la présente requête, le demandeur cherche à obtenir une nouvelle prorogation de délai. Or, cette requête devrait être rejetée parce que le demandeur ne l’a pas présentée dans un délai d’un an et quatre-vingt-dix jours suivant la date à laquelle l’avis de ratification lui a été expédié par la poste. En effet, la requête a été déposée à la Cour le 2 octobre 2013, alors que le délai prévu pour demander la prorogation du délai a expiré le 19 octobre 2012. Invoquant la décision Moon c R, 2010 CCI 393, l’avocat de l’intimée a fait valoir que dès qu’il est constaté que la demande de prorogation de délai n’a pas été présentée dans un délai d’un an et quatre-vingt-dix jours suivant la date inscrite dans l’avis de ratification, la Cour n’a pas le pouvoir d’accorder une prorogation et la question de savoir s’il est juste et équitable de faire droit à la demande ne se pose pas.
+Analyse
+[12] Je souscris à ce qu’a dit l’avocat de l’intimée dans son exposé du droit. Toutefois, je suis d’avis que dans sa requête en réouverture du dossier no 2011-4061(IT)APP, le demandeur demande essentiellement l’annulation de l’ordonnance rendue par la juge Lamarre. Bien que la Loi sur la Cour canadienne de l’impôt (la « LCCI ») ne renferme aucune disposition s’appliquant précisément aux faits de l’espèce, je me suis inspirée des conditions énoncées au paragraphe 18.21(3) de la LCCI pour rendre ma décision. Ce paragraphe précise quels éléments la Cour peut prendre en compte pour annuler une ordonnance de rejet rendue en raison du défaut de l’appelant de se présenter à l’audition. Ce paragraphe est ainsi libellé :
+18.21(3) La Cour peut annuler l’ordonnance de rejet si les conditions suivantes sont réunies :
+a) compte tenu de toutes les circonstances, il n’était pas raisonnable de s’attendre à ce que l’appelant soit présent à l’audition;
+b) l’appelant a présenté sa demande d’annulation dès que cela a été possible, compte tenu des circonstances, mais dans tous les cas au plus tard cent quatre-vingts jours suivant la date de l’envoi par la poste de l’ordonnance rejetant son appel.
+[13] En l’espèce, la fermeture du dossier du demandeur est attribuable à l’omission de son représentant de déposer un [traduction] « avis d’appel en bonne et due forme » à la Cour dans le délai fixé par celle‑ci. Son représentant n’a pas motivé son défaut de déposer l’avis d’appel conformément aux conditions de l’ordonnance. De façon similaire, le demandeur n’a produit aucune preuve démontrant qu’il s’était enquis auprès de son représentant de l’état de son appel relatif aux années 2005 et 2006 avant juin 2013. Ce n’est qu’au moment où l’ARC l’a informé du fait qu’elle avait appliqué le montant de son remboursement pour l’année 2012 en réduction des sommes qu’il devait encore au titre de cotisations antérieures que le demandeur s'est demandé où en était son appel.
+[14] À l’audience, M. Menzies a affirmé qu’il avait joint l’avis d’appel à la demande de prorogation de délai. J’ai examiné ce document, qui se résume à trois phrases. Aucun des faits pertinents n’y est mentionné et la juge Lamarre a conclu qu’il ne s’agissait pas d’un avis d’appel en bonne et due forme. Je suis d’accord avec elle.
+[15] Si je me fie aux conditions du paragraphe 18.21(3) de la LCCI, j’arrive à la conclusion que la Cour ne peut annuler une ordonnance de rejet si l’annulation est demandée au-delà d’un délai de cent quatre-vingts jours suivant la mise à la poste de l’ordonnance à l’appelant. En l’espèce, la requête en annulation de l’ordonnance de la juge Lamarre a été présentée le 2 octobre 2013, soit plus de 600 jours après la mise à la poste de l’ordonnance. À mon sens, il s’agit d’un retard démesuré, la requête ayant été déposée plus d’un an et demi après la mise à la poste de l’ordonnance.
+[16] M. Menzies s’est plaint de ce que la Cour avait fermé le dossier du demandeur sans aviser ni le demandeur, ni lui. Or, à mon avis, la Cour n’était pas tenue d’aviser le demandeur avant de fermer son dossier puisqu’il n’avait pas respecté l’une des conditions essentielles de l’ordonnance. M. Menzies a été informé de l’obligation de déposer un avis en bonne et due forme à la Cour. Le 2 février 2012, un greffier lui a téléphoné pour lui faire part de la décision rendue par la juge Lamarre relativement à la demande de prorogation de délai ainsi que de la condition dont était assortie l’ordonnance. Toujours le 2 février 2012, cette ordonnance a été envoyée à M. Menzies par courrier recommandé. Par ailleurs, personne ne conteste le fait que M. Menzies a reçu l’ordonnance.
+[17] J’estime que le demandeur n’a pas fourni d’explication satisfaisante qui justifierait d’annuler l’ordonnance en cause et de rouvrir son dossier.
+[18] La requête est rejetée.
+Signé à Ottawa, Canada, ce 4e jour de décembre 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 8e jour de janvier 2014.
+S. Tasset
+RÉFÉRENCE : 2013CCI385
+No DU DOSSIER DE LA COUR : 2011-4061(IT)
+INTITULÉ : HAMID SALARI KAMANGAR ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Windsor (Ontario)
+DATE DE L’AUDIENCE : Le 26 novembre 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 4 décembre 2013
+COMPARUTIONS :
+Représentant de l’appelant :
+M. Alexander R. Menzies
+Avocat de l’intimée :
+Me Ryan Gellings
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

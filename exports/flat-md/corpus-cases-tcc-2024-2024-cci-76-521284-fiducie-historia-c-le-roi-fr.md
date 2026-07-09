@@ -1,0 +1,376 @@
+---
+title: "Fiducie Historia c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521284/index.do"
+last_modified: "2024-05-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 76"
+citation2: ""
+neutral_citation: "2024 CCI 76"
+decision_date: "2024-05-24"
+language: "fr"
+item_id: "521284"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5506
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-01-07T09:02:50.703000+00:00"
+cases_cited_count: 14
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd8ac4f7a3a63c6d5113d34dd8fa360644f20d196175dba89fe05f27d29ba29e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fiducie Historia c. Le Roi
+
+- Citation: 2024 CCI 76
+- Decision date: 2024-05-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5506, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fiducie Historia c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-05-24
+Référence neutre
+2024 CCI 76
+Numéro de dossier
+2019-1335(IT)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2019-1335(IT)G
+ENTRE :
+FIDUCIE HISTORIA,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Appel entendu les 17, 18, 19 et 20 octobre 2022, à Montréal (Québec), et observations écrites du 2 décembre 2022, 3 février 2023 et 23 février 2023
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Avocats de l'appelante :
+Me Paul Ryan
+Me Félix St-Vincent Gagné
+Avocats de l'intimé :
+Me Vlad Zolia
+Me Éliane Mandeville
+JUGEMENT
+Selon les motifs du jugement ci-joints, l'appel interjeté à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2013 et 2015 est accueilli, avec dépens.
+Signé à Ottawa (Ontario), ce 24 jour de mai 2024.
+« Guy R. Smith »
+Le juge Smith
+Référence : 2024 CCI 76
+Date : 20240524
+Dossier : 2019-1335(IT)G
+ENTRE :
+FIDUCIE HISTORIA,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Smith
+I. CONTEXTE
+[1] La Fiducie Historia (la « fiducie » ou « l’appelante »), est une fiducie discrétionnaire constituée en vertu des lois de la province du Québec. Pour les années d'imposition 2013 et 2015, elle a attribué 30 072 000 $ et 20 250 000 $, respectivement, à un de ses bénéficiaires. Elle a ensuite déduit ces montants de ses revenus pour chacune des années d'imposition en vertu du paragraphe 104(6) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (la « LIR »).
+[2] Le ministre du Revenu national (le « ministre ») a établi des nouvelles cotisations le 9 août 2017 et le 30 août 2017 pour refuser les déductions correspondantes réclamées par l’appelante pour les années d'imposition 2013 et 2015, respectivement, au motif que les attributions ne sont pas « devenue[s] payable[s] à un bénéficiaire au cours de l'année » tel que l’exige le paragraphe 104(6) de la LIR.
+[3] En bref, le ministre soutient que les attributions sont contraires aux dispositions de l'acte de fiducie et sont « invalides et frappées de nullité absolue » parce qu'elles sont contraires à l'article 1275 du Code civil du Québec, R.L.R.Q., ch. CCQ‑1991 (le « C.c.Q. »), qui est d'ordre public.
+[4] L'appelante, pour sa part, soutient qu'elle a droit à la déduction prévue au paragraphe 104(6) de la LIR du seul fait que les attributions ont été versées à son bénéficiaire, sans égard à une contravention quelconque, le cas échéant, à l'acte de fiducie, au C.c.Q., ou à d'autres lois provinciales et fédérales.
+[5] De manière subsidiaire, l ’appelante affirme i) qu'elle s'est toujours conformée aux exigences de l'article 1275 du C.c.Q. et que même si le ministre est de l'avis contraire, il n'a pas l'intérêt requis pour soulever la nullité des attributions, et ii) dans l’alternative, si la délégation de pouvoirs des fiduciaires en faveur de certains bénéficiaires est contraire à l’acte de fiducie ou à l’article 1337 C.c.Q., le ministre n’a pas l'intérêt requis pour soulever la nullité.
+[6] Pour les motifs qui suivent, l'appel est accueilli avec dépens.
+II. QUESTIONS EN LITIGE
+[7] La question en litige est de savoir si les attributions de 30 072 000 $ et de 20 250,000 $ faites par les fiduciaires pour les années d'imposition 2013 et 2015, respectivement, sont invalides et, en conséquence, si le refus par le ministre des déductions correspondantes réclamées par l'appelante pour les années d'imposition 2013 et 2015 en vertu du paragraphe 104(6) de la LIR était justifié.
+[8] Pour trancher le litige, la Cour fera l'analyse des questions suivantes :
+Question 1 : Est-ce que les montants sont « devenus payables » au sens du paragraphe 104(6) de la LIR du seul fait qu'ils ont été versés au bénéficiaire, sans égard à une contravention quelconque, le cas échéant, à l'acte de fiducie, au C.c.Q., ou à d'autres lois ?
+Question 2 : Est-ce que les frères Rémillard sont devenus fiduciaires de facto, en contravention à l'article 1275 du C.c.Q.?
+Question 3 : Si la Cour concluait qu'il y a eu une contravention à l'article 1275 C.c.Q., qui est d'ordre public, s'agirait-il d’une nullité absolue ou relative?
+III. DISPOSITIONS LÉGISLATIVES PERTINENTES
+[9] Les dispositions suivantes sont pertinentes au présent litige :
+Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (« LIR ») (version de 2013)
+104(6) Déduction dans le calcul du revenu d'une fiducie - Pour l'application de la présente partie, mais sous réserve des paragraphes (7) à (7.1), est déductible dans le calcul du revenu d'une fiducie pour une année d'imposition :
+a) [...]
+b) dans les autres cas, le montant dont la fiducie demande la déduction et ne dépassant pas l'excédent éventuel :
+(i) de la partie (appelée « montant de distribution rajusté » au présent article) du montant qui représenterait le revenu de la fiducie pour l'année en l'absence des dispositions ci-après, qui est devenu payable à un bénéficiaire au cours de l'année ou qui a été incluse en application du paragraphe 105(2) dans le calcul du revenu d'un bénéficiaire :
+[...]
+Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (« LIR ») (version de 2015)
+104(6) Déduction dans le calcul du revenu d'une fiducie - Pour l'application de la présente partie, mais sous réserve des paragraphes (7) à (7.1), est déductible dans le calcul du revenu d'une fiducie pour une année d'imposition :
+a) [...]
+b) dans les autres cas, la somme dont la fiducie demande la déduction et ne dépassant pas l'excédent établi selon la formule suivante :
+A – B
+où :
+A
+est la partie de son revenu (déterminé compte non tenu du présent paragraphe ni du paragraphe (12)) pour l'année qui est devenue à payer à un bénéficiaire au cours de l'année ou qui est incluse en application du paragraphe 105(2) dans le calcul du revenu d'un bénéficiaire [...]
+Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.) (« LIR ») (version de 2013 et de 2015)
+104(24) Somme devenue payable - Pour l'application des paragraphes (6), (7), (7.01), (13), (16) et (20) du sous-alinéa 53(2)h)(i.1) et des paragraphes 94(5.2) et (8), une somme est réputée ne pas être devenue payable à un bénéficiaire au cours d'une année d'imposition à moins qu'elle ne lui ait été payée au cours de l'année ou que le bénéficiaire n'eût le droit au cours de l'année d'en exiger le paiement.
+[Non souligné dans l'original]
+[...]
+Sociétés associées
+256 (1) Pour l’application de la présente loi, deux sociétés sont associées l’une à l’autre au cours d’une année d’imposition si, à un moment donné de l’année :
+[...]
+Contrôle réputé non acquis
+256(7) Pour l’application du présent paragraphe, de l’article 55, des paragraphes 66(11), 66.5(3), 66.7(10) et (11), 85(1.2), 88(1.1) et (1.2), 110.1(1.2) et 111(5.4) et de l’alinéa 251.2(2)a) et pour l’application du paragraphe 5905(5.2) du Règlement de l’impôt sur le revenu :
+a) le contrôle d’une société donnée est réputé ne pas avoir été acquis du seul fait :
+[...]
+(ii) soit du rachat ou de l’annulation, à un moment donné, d’actions de la société donnée ou d’une société qui la contrôle ou de la modification, à un moment donné, des droits, privilèges, restrictions ou conditions rattachés à de telles actions, dans le cas où chaque personne et chaque membre de chaque groupe de personnes qui contrôle la société donnée immédiatement après ce moment était lié à la société, autrement qu’à cause d’un droit visé à l’alinéa 251(5)b):
+(A) soit immédiatement avant ce moment,
+(B) soit immédiatement avant le décès d’une personne, dans le cas où les actions étaient détenues immédiatement avant le moment donné par une succession qui les a acquises par suite de ce décès;
+Code civil du Québec, R.L.R.Q., ch. CCQ-1991 (« C.c.Q.»)
+1260. La fiducie résulte d'un acte par lequel une personne, le constituant, transfère de son patrimoine à un autre patrimoine qu'il constitue, des biens qu'il affecte à une fin particulière et qu'un fiduciaire s'oblige, par le fait de son acceptation, à détenir et à administrer.
+1261. Le patrimoine fiduciaire, formé des biens transférés en fiducie, constitue un patrimoine d'affectation autonome et distinct de celui du constituant, du fiduciaire ou du bénéficiaire, sur lequel aucun d'entre eux n'a de droit réel.
+[...]
+1265. L'acceptation de la fiducie dessaisit le constituant des biens, charge le fiduciaire de veiller à leur affectation et à l'administration du patrimoine fiduciaire et suffit pour rendre certain le droit du bénéficiaire.
+[...]
+1275. Le constituant ou le bénéficiaire peut être fiduciaire, mais il doit agir conjointement avec un fiduciaire qui n'est ni constituant ni bénéficiaire.
+1276. Le constituant peut désigner un ou plusieurs fiduciaires ou pourvoir au mode de leur désignation ou de leur remplacement.
+1277. Le tribunal peut, à la demande d'un intéressé et après un avis donné aux personnes qu'il indique, désigner un fiduciaire lorsque le constituant a omis de le désigner ou qu'il est impossible de pourvoir à la désignation ou au remplacement d'un fiduciaire.
+Il peut, lorsque les conditions de l'administration l'exigent, désigner un ou plusieurs autres fiduciaires.
+1278. Le fiduciaire a la maîtrise et l'administration exclusive du patrimoine fiduciaire et les titres relatifs aux biens qui le composent sont établis à son nom; il exerce tous les droits afférents au patrimoine et peut prendre toute mesure propre à en assurer l'affectation.
+Il agit à titre d'administrateur du bien d'autrui chargé de la pleine administration.
+[...]
+1287. L'administration de la fiducie est soumise à la surveillance du constituant ou de ses héritiers, s'il est décédé, et du bénéficiaire, même éventuel.
+En outre, dans les cas prévus par la loi, l'administration des fiducies d'utilité privée ou sociale est soumise, suivant leur objet et leur fin, à la surveillance des personnes et organismes désignés par la loi.
+[...]
+1290. Le constituant, le bénéficiaire ou un autre intéressé peut, malgré toute stipulation contraire, agir contre le fiduciaire pour le contraindre à exécuter ses obligations ou à faire un acte nécessaire à la fiducie, pour lui enjoindre de s'abstenir de tout acte dommageable à la fiducie ou pour obtenir sa destitution.
+Il peut aussi attaquer les actes faits par le fiduciaire en fraude du patrimoine fiduciaire ou des droits du bénéficiaire.
+1291. Le tribunal peut autoriser le constituant, le bénéficiaire ou un autre intéressé à agir en justice à la place du fiduciaire, lorsque celui-ci, sans motif suffisant, refuse d'agir, néglige de le faire ou en est empêché.
+[...]
+1337. L'administrateur peut déléguer ses fonctions ou se faire représenter par un tiers pour un acte déterminé; toutefois, il ne peut déléguer généralement la conduite de l'administration ou l'exercice d'un pouvoir discrétionnaire, sauf à ses coadministrateurs.
+Il répond de la personne qu'il a choisie, entre autres, lorsqu'il n'était pas autorisé à le faire; s'il l'était, il ne répond alors que du soin avec lequel il a choisi cette personne et lui a donné ses instructions.
+[...]
+1416. Tout contrat qui n'est pas conforme aux conditions nécessaires à sa formation peut être frappé de nullité.
+1417. La nullité d'un contrat est absolue lorsque la condition de formation qu'elle sanctionne s'impose pour la protection de l'intérêt général.
+1418. La nullité absolue d'un contrat peut être invoquée par toute personne qui y a un intérêt né et actuel; le tribunal la soulève d'office.
+Le contrat frappé de nullité absolue n'est pas susceptible de confirmation.
+1419. La nullité d'un contrat est relative lorsque la condition de formation qu'elle sanctionne s'impose pour la protection d'intérêts particuliers; il en est ainsi lorsque le consentement des parties ou de l'une d'elles est vicié.
+1420. La nullité relative d'un contrat ne peut être invoquée que par la personne en faveur de qui elle est établie ou par son cocontractant, s'il est de bonne foi et en subit un préjudice sérieux; le tribunal ne peut la soulever d'office.
+Le contrat frappé de nullité relative est susceptible de confirmation.
+1421. À moins que la loi n'indique clairement le caractère de la nullité, le contrat qui n'est pas conforme aux conditions nécessaires à sa formation est présumé n'être frappé que de nullité relative.
+1422. Le contrat frappé de nullité est réputé n'avoir jamais existé.
+Chacune des parties est [...] tenue de restituer à l'autre les prestations qu'elle a reçues.
+[...]
+1425. Dans l'interprétation du contrat, on doit rechercher quelle a été la commune intention des parties plutôt que de s'arrêter au sens littéral des termes utilisés.
+1426. On tient compte, dans l'interprétation du contrat, de sa nature, des circonstances dans lesquelles il a été conclu, de l'interprétation que les parties lui ont déjà donnée ou qu'il peut avoir reçue, ainsi que des usages.
+[Non souligné dans l'original]
+IV. FAITS PERTINENTS
+[10] La fiducie est constituée par acte notarié du 22 août 2002. Il s'agit d'une fiducie discrétionnaire et les fiduciaires ont le droit d'ajouter les revenus au capital ou de répartir les revenus ou le capital parmi les bénéficiaires.
+[11] Lucien Rémillard (« LR ») est l’un des constituants de la fiducie. Il est bénéficiaire avec ses sœurs, ses descendants, dont ses fils Maxime Rémillard et Julien Rémillard (« les frères Rémillard ») et une société qui ne participe pas au litige. Il est aussi fiduciaire avec deux autres particuliers qui ne sont pas bénéficiaires de la fiducie.
+[12] L'acte de fiducie stipule qu'il doit y avoir trois fiduciaires et prévoit un mécanisme pour les remplacer en cas de démission ou d'incapacité. Les dispositions suivantes prévues à l’acte de fiducie sont pertinentes :
+1.2 Pouvoirs et discrétion du fiduciaire
+Toute détermination que LE FIDUCIAIRE est autorisé à effectuer et tout pouvoir et discrétion consentis aux FIDUCIAIRES devront être exercés par LE FIDUCIAIRE selon ce qu'il considère être le meilleur intérêt des BÉNÉFICIAIRES. Ces déterminations, pouvoirs et discrétion ne pourront en aucun cas être contrôlés ou révisés par les BÉNÉFICIAIRES ou les tribunaux.
+[...]
+2.4.1
+Pour fins de précisions, LE FIDUCIAIRE a totale discrétion de procéder à des distributions ou attributions de capital ou de revenus provenant des BIENS EN FIDUCIE ou des revenus de la FIDUCIE.
+[13] Maybach Corporation (« Maybach ») est une société de portefeuille qui possède divers actifs dans la région de Montréal, au Québec, dont des biens immobiliers détenus par ses filiales (ensemble, le « groupe Maybach »). Tout juste avant le début de la période qui fait l'objet du litige, la fiducie, LR et les frères Rémillard, détiennent les actions de Maybach.
+[14] RCI Environnement inc. (« RCI ») est une société de traitement des déchets constituée en 1997 et contrôlée directement ou indirectement par LR. À partir de 2010, RCI entreprend des démarches pour la vente de ses actifs; ces démarches se terminent le 13 juillet 2013. Elle fusionne ensuite avec Maybach le 1er août 2013.
+[15] La fusion a pour effet de transférer le compte de dividende en capital de RCI à Maybach. Le 16 octobre 2013, Maybach déclare un dividende en capital de 164 938 366 $ à la fiducie. Le même jour, la fiducie l'attribue à LR alors qu'il est encore fiduciaire. Cette attribution ne fait pas l’objet du présent litige.
+[16] À la suite de la vente des actifs de RCI, LR se retire de ses activités et entreprend des démarches pour devenir un non-résident du Canada et s'établir à la Barbade. L’intimé nie qu’il est devenu non-résident du Canada mais la Cour n’est pas saisie de cette question.
+[17] Au moment de procéder au rachat des actions de LR et des frères Rémillard, les conseillers de la fiducie et de Maybach constatent que le groupe Maybach a des pertes en capital inutilisées et que le rachat des actions de LR et des frères Rémillard mettrait la déduction future de ces pertes en péril en raison du changement de contrôle en faveur de personnes non liées agissant à titre de fiduciaires.
+[18] Pour contrecarrer cette éventualité, les conseillers proposent de conclure une entente dont le but est de permettre l'application du sous‑alinéa 256(7)a)(ii) de la LIR et faire en sorte que Maybach soit indirectement contrôlée, après le rachat des actions, par un groupe de personnes liées à LR, soit les frères Rémillard.
+[19] Le 15 novembre 2013, une entente intervient entre les fiduciaires et les frères Rémillard (« l'entente »), laquelle stipule notamment ce qui suit :
+2.1 ENGAGEMENT DES FIDUCIAIRES
+Les Fiduciaires s'engagent par la présente à exercer leurs pouvoirs à l'égard de la Fiducie Historia selon les directives transmises par les Frères et à ne prendre aucune décision visant la Fiducie Historia sans avoir préalablement obtenu l'accord des Frères Rémillard. Les Fiduciaires reconnaissent que cet engagement ne les libère pas de leurs obligations envers la Fiducie Historia et ne constitue pas une délégation de leurs pouvoirs fiduciaires. Les Fiduciaires continueront d'exercer tous leurs pouvoirs fiduciaires, mais ils devront le faire en adéquation avec leur engagement envers les Frères Rémillard
+2.2 DÉSACCORD
+Si les Fiduciaires ou certains d'entre eux sont en désaccord avec les directives reçues des Frères Rémillard, ils devront alors remettre leur démission à titre de fiduciaires de la Fiducie Historia et seront remplacés selon les modalités prévues à l'acte constitutif de la Fiducie Historia.
+2.3 INDEMNISATION
+Les Frères Rémillard indemniseront et tiendront indemne les Fiduciaires contre toute responsabilité, coût ou dépense pour lesquels les Fiduciaires peuvent devenir responsables en agissant selon les directives des Frères Rémillard.
+[Non souligné dans l'original]
+[20] Le 15 novembre 2013, Maybach rachète les actions avec droit de vote de LR de même que les actions sans droit de vote des frères Rémillard. La fiducie devient alors l'unique actionnaire de Maybach. LR démissionne comme fiduciaire et est remplacé par Julie Brosseau.
+[21] Au moyen de résolutions écrites du 4 décembre 2013 et du 12 décembre 2013, autorisées par les frères Rémillard , la fiducie attribue à LR un revenu de dividendes de 30 000 000 $ et un revenu de 72 000 $ respectivement, soit un total de 30 072 000 $ pour l’année d’imposition 2013. Au moment de ces attributions, les fiduciaires en poste sont Jacques Plante, Antonino Porrello et Julie Brosseau.
+[22] Au moyen de résolutions écrites du 29 octobre 2015 et du 27 novembre 2015, autorisées par les frères Rémillard , la fiducie attribue à LR un revenu de dividendes de 20 000 000 $ et de 250 000 $ respectivement, soit un total de 20 250 000 $ pour l’année d’imposition 2015. Au moment de ces attributions, les fiduciaires en poste sont Jacques Plante, Antonino Porrello et Tony Fionda.
+[23] Les attributions sont versées le même jour directement à LR, sous réserve de l'impôt de la partie XIII de la LIR, soit 15 % des sommes versées.
+[24] La fiducie déduit les sommes attribuées et payées à LR (y compris l'impôt de la partie XIII) de ses revenus pour chacune des années d’imposition en cause en vertu du paragraphe 104(6) de la LIR.
+[25] Ces attributions de dividendes de 30 072 000 $ et 20 250 000 $ ainsi que leur déduction du revenu de la fiducie pour les années d’imposition 2013 et 2015, respectivement, font l'objet des cotisations en litige.
+V. TÉMOIGNAGES
+[26] Cinq personnes ont témoigné pour le compte de l'appelante, soit Me Charles Gagnon, messieurs Jacques Plante, Antonino Porrello et Tony Fionda, tous fiduciaires de la fiducie, et enfin Maxime Rémillard, l’un des fils de LR et bénéficiaire de la fiducie.
+Me Charles Gagnon
+[27] Me Gagnon est avocat et travaille pour le cabinet BCF. Il a donné les conseils pour la planification fiscale menant à la vente des actifs de RCI, de Maybach et de leurs filiales, de même que la réorganisation de la société et la distribution du produit de la vente. Il est aussi l'auteur de l'entente.
+[28] Il explique que le plan d'ensemble était de vendre les actifs liés aux activités de RCI et de Maybach, de liquider les autres actifs, dont des immeubles à Montréal, et ensuite de distribuer le produit de la vente des entreprises à LR.
+[29] Peu de temps avant le départ de LR pour la Barbade, Me Gagnon apprend qu'il reste des pertes en capital inutilisées dans certaines entités du groupe Maybach, alors contrôlées par LR. Pour éviter que ces pertes ne puissent être utilisées en raison du changement de contrôle causé par le retrait de LR à titre de fiduciaire et le rachat de ses actions avec droit de vote de Maybach, il propose l'entente du 15 novembre 2013.
+[30] Selon Me Gagnon, en plus d'assurer l'utilisation des pertes, l'entente permet d'atteindre trois objectifs, dont le premier est de permettre à la famille Rémillard de conserver un certain contrôle sur l'ensemble du groupe Maybach.
+[31] Deuxièmement, elle permet aux fiduciaires d'obtenir le consentement des frères Rémillard pour les distributions qui seraient en grande partie versées à leur père, pour protéger les fiduciaires de possibles réclamations par les frères Rémillard.
+[32] Troisièmement, vu la valeur importante des sommes en question, l'entente permet à la famille Rémillard de participer à la prise de décisions relativement à la vente des actifs du groupe Maybach et les distributions de la fiducie.
+Jacques Plante
+[33] M. Plante indique qu'il est en quelque sorte « l'homme de confiance » de LR depuis plusieurs années et qu'il a occupé différents postes au sein du groupe, dont celui de président de Maybach. Il est considéré comme le chef de file des trois fiduciaires. Il a la charge notamment de choisir un fiduciaire pour combler une vacance et d’assurer le bon fonctionnement de la fiducie.
+[34] Selon ce qu'il a compris des conseillers fiscaux et juridiques, dont Me Gagnon, M. Plante témoigne que l'entente accorde un certain contrôle à la famille Rémillard, pour permettre le report des pertes en capital inutilisées du groupe Maybach. Cependant, il ajoute que les fiduciaires gardent tous leurs pouvoirs en vertu de l'acte de fiducie.
+[35] Selon lui, l’entente prévoit deux possibilités: soit les frères Rémillard transmettent une directive aux fiduciaires, soit les fiduciaires demandent l'approbation des frères Rémillard avant de prendre une décision en vue d'effectuer une distribution. Il considère que l'entente offre une certaine protection à la famille, étant donné que la fiducie ne peut effectuer d'attributions sans l'accord, d’une manière ou d’une autre, des frères Rémillard.
+[36] M. Plante précise que les frères Rémillard n'ont jamais participé à la gestion de la fiducie et n'ont jamais été en désaccord avec les décisions prises par les fiduciaires. Il affirme que la décision de distribuer les sommes à LR venait des fiduciaires, après consultation des conseillers fiscaux et juridiques.
+[37] M. Plante décrit le processus décisionnel qui précède l'attribution d'une somme à un bénéficiaire comme suit : i) tout d’abord, il consultait les conseillers fiscaux et juridiques, dont Me Gagnon; ii) ensuite, il communiquait avec les deux autres fiduciaires pour discuter de la décision à prendre; iii) enfin, il communiquait avec les frères Rémillard afin d'obtenir leur approbation et transmettre la lettre de directive qu'on leur demandait de signer en guise de consentement.
+[38] En contre‑interrogatoire, M. Plante explique que les lettres signées par les frères Rémillard étaient une « forme de consentement » et que le modèle de lettre avait été préparé par Me Gagnon et avait servi pour toutes les attributions.
+Tony Fionda et Antonino Porrello
+[39] Les deux autres fiduciaires, M. Fionda et M. Porrello, donnent un témoignage semblable. Ils confirment que M. Plante consultait d'abord les conseillers juridiques et fiscaux pour la décision à prendre et que par la suite il communiquait avec les frères Rémillard pour expliquer ce qui devait se faire et obtenir leur approbation. C'est seulement par la suite qu'il était question de signer les résolutions pour effectuer les attributions. Ils confirment d'ailleurs que les frères Rémillard n'ont pas participé à l'administration ou la gestion de la fiducie.
+[40] M. Fionda indique notamment qu'il est comptable agréé et a une maîtrise en finance. Il travaillait à la Financière Banque Nationale, au service des fusions et des acquisitions, lorsqu'il a fait la connaissance de LR en 2010 pour discuter de la vente de RCI et de ses filiales. Il confirme que le plan d'ensemble était de liquider les actifs de RCI et de Maybach et ensuite de verser les sommes « à la fiducie familiale ».
+[41] À la suite du départ de LR, il restait encore d'autres actifs au sein du groupe Maybach, soit un immeuble situé au 85, rue Saint-Paul, et l'hôtel Le St James à Montréal. La vente de ces actifs a donné lieu aux attributions dont il est question dans le présent litige.
+Maxime Rémillard
+[42] Maxime Rémillard explique que M. Plante lui a présenté l'entente et que celle‑ci avait pour but principal de préserver les pertes en capital du groupe Maybach.
+[43] Selon sa compréhension de l’entente, les fiduciaires devaient obtenir son consentement et celui de son frère avant d'effectuer une attribution, mais qu’il n'a jamais donné de directives aux fiduciaires. Il précise qu’il n'a pas participé aux activités de la fiducie et n'a jamais eu accès aux registres comptables, aux états financiers, ou encore aux déclarations de revenus.
+[44] Il ajoute que M. Plante communiquait avec lui pour expliquer la décision prise par les fiduciaires avant de faire une attribution, après quoi il donnait son accord. Il ne remettait pas en question la décision d'attribuer les revenus à LR, puisqu'il sait que ce dernier était à l'origine de cette richesse.
+[45] Lors du contre‑interrogatoire, il reconnaît que le 5 janvier 2015, la fiducie a reçu un dividende en capital de 8 751 903 $ de Maybach et que cette somme lui a été attribuée par la fiducie le 6 janvier 2015. Il indique que cette somme devait servir à rembourser des sommes qu'il devait à LR. Il précise que le processus décisionnel pour cette attribution était le même que pour les attributions à LR.
+[46] En réponse à une question hypothétique, il indique que s'il était question d'effectuer une attribution à l'une ou l'autre de ses tantes, par exemple, il aurait « posé des questions ». Mais il précise que cette situation ne s'est jamais présentée.
+[47] Dans l’ensemble, la Cour est d'avis que les témoins étaient crédibles. Ils ont témoigné de manière directe et sans hésitations ni réticences. Leurs témoignages ont été corroborés et n’ont pas été contredits en contre-interrogatoire.
+VI. ANALYSE DES QUESTIONS EN LITIGE
+QUESTION 1 : Est-ce que les montants sont « devenus payables » du seul fait qu'ils ont été versés au bénéficiaire, sans égard à une contravention quelconque, le cas échéant, à l'acte de fiducie, au C.c.Q. ou à d'autres lois provinciales ou fédérales?
+Thèse de l'appelante
+[48] L'appelante affirme que les règles applicables sont extrêmement simples et que la fiducie a le choix de conserver les revenus et de payer elle-même l'impôt ou de les distribuer à l'un ou l'autre de ses bénéficiaires, auquel cas le bénéficiaire paie l'impôt et la fiducie peut réclamer la déduction visée au paragraphe 104(6) de la LIR.
+[49] L'appelante prétend que le paragraphe 104(24) de la LIR vient préciser le sens de l'expression « devenu payable » que l’on retrouve au paragraphe 104(6) de la LIR. Puisque les attributions en question ont été versées à LR et indiquées dans la déclaration fiscale de la fiducie (formulaire T3) sous la rubrique « montants payés ou à payer aux bénéficiaires », l'appelante soutient qu'elle a réfuté la présomption prévue au paragraphe 104(24) de la LIR et que cela suffit pour donner droit aux déductions réclamées.
+[50] L'appelante rappelle l'importance des principes de prévisibilité, de certitude et d'équité, ainsi que le respect du droit à la réduction maximale de l'impôt reconnus par la Cour suprême du Canada dans Canada c. Alta Energy Luxembourg S.A.R.L., 2021 CSC 49 (par. 1). Elle soutient que lorsque le législateur a prévu certaines conditions pour l'obtention d'un résultat donné, un contribuable devrait pouvoir s'appuyer sur ces dispositions pour obtenir le résultat prévu : Hypothèques Trustco Canada c. Canada, 2005 CSC 54, [2005] 2 R.C.S. 601 (par. 11), et Canada (Procureur général) c. Collins Family Trust, 2022 CSC 26 (par. 25 et 26).
+[51] L'appelante soutient que l'intimé ne peut examiner l'administration interne des entités canadiennes pour s'assurer qu'elles respectent intégralement les autres lois provinciales et fédérales et les ententes contractuelles qui les régissent, car une telle approche serait contraire aux principes reconnus de droit fiscal. Elle soutient qu'elle a droit aux déductions réclamées « peu importe qu'elles soient licites ou illicites, morales ou immorales » : Continental Bank Leasing Corp. c. Canada, [1998] 2 R.C.S. 298 (par. 118), 65302 British Columbia Ltd. c. Canada, [1999] 3 R.C.S. 804 (par. 56), et Québec (Sous-ministre du Revenu) c. Parent, 2008 QCCA 1476 (par. 47).
+[52] L'appelante s'appuie notamment sur la décision Cooper c. La Reine, [1988] A.C.F. no 931 (QL) (C.F. 1re inst.) (« Cooper ») (par. 61), dans laquelle une fiducie testamentaire a prêté une somme d’argent à un bénéficiaire alors que le testament interdisait une distribution avant l'âge de 25 ans. Le ministre a contesté la légitimité de la transaction, mais la Cour a conclu que l'illégalité présumée de la transaction n'était pas pertinente pour l'établissement de l'obligation fiscale et que le ministre n'avait aucun intérêt dans la bonne administration de la fiducie, car cette fonction relevait du système judiciaire provincial, notamment des cours supérieures.
+Thèse de l'intimé
+[53] L'intimé prétend que la déduction prévue au paragraphe 104(6) de la LIR est permise seulement si, en plus d'être payé ou d'être exigible, le montant est « devenu payable », d'où l'intérêt du ministre en l'espèce. Selon l'intimé, un montant qui ne peut être légalement payé n'est pas « devenu payable » au sens du paragraphe 104(6) de la LIR, même s'il a été déboursé.
+[54] Autrement dit, une somme ne peut être « devenue payable » que s'il existe [TRADUCTION] « une obligation légale de verser cette somme » : The King c. Dominion Engineering Co. Ltd., [1944] S.C.R. 371 (« Dominion Engineering ») (page 375), Timagami Financial Services Ltd. c. La Reine, [1981] 2 C.F. 777 (C.F. 1re inst.) (« Timagami ») (page 779), et Aceti c. M.R.N., [1992] A.C.I. no 421 (QL).
+[55] L'intimé souligne que le paragraphe 104(24) de la LIR ne permet pas de réputer qu'une somme est payable puisqu'il énonce une présomption selon laquelle « une somme est réputée ne pas être devenue payable à un bénéficiaire », mais ne comprend pas de présomption voulant qu'une somme soit réputée devenue payable.
+[56] En fin de compte, l'intimé soutient que les attributions en cause sont contraires à l'acte de fiducie et à l’article 1275 du C.c.Q. et qu'elles sont frappées de nullité absolue. N’étant pas légalement « devenues payables », elles ne peuvent donc être déduites en vertu du paragraphe 104(6) de la LIR.
+Analyse
+[57] Le paragraphe 104(6) de la LIR permet à une fiducie de déduire une partie de son « revenu [...] qui est devenu payable à un bénéficiaire au cours de l'année », ou la « partie [...] qui est devenue à payer à un bénéficiaire » selon la version de la LIR en vigueur en 2015.
+[58] Le paragraphe 104(24) de la LIR précise quant à lui que la somme versée « est réputée ne pas être devenue payable à un bénéficiaire au cours d'une année d'imposition à moins que » i) la somme ait été payée au cours de l'année ou ii) le bénéficiaire n'eût le droit au cours de l'année d'en exiger le paiement (Herbert (première fiducie familiale) c. La Reine, 2001 CCI 476, par.6).
+[59] Plus récemment, dans Robillard (Succession) c. La Reine, 2022 CCI 13, le juge Hogan explique ce qui suit :
+[60] L'appelante, dans son avis d'appel, demande une déduction en vertu du paragraphe 104(6). Cette disposition prévoit que lorsqu'une partie du revenu de la succession « est devenue à payer », c'est‑à‑dire qu'elle a été payée au bénéficiaire ou que le bénéficiaire avait le droit d'en exiger le paiement, la succession a droit à une déduction. Il ne fait aucun doute qu'avant d'avoir été payée, la somme était payable.
+[60] Cependant, ces décisions ne se prononcent pas sur la légalité de l'attribution.
+[61] Certes, les décisions citées par l'intimé ne mettent pas en jeu les paragraphes 104(6) ou 104(24) de la LIR, mais ils convergent vers un point commun : une obligation de payer doit exister pour qu'une somme soit « devenue payable ».
+[62] Dans l'arrêt Dominion Engineering, précité, la Cour explique que l'expression [TRADUCTION]. « devenue payable » envisage aussi [TRADUCTION] « une obligation de payer découlant de l'effet juridique du contrat » (page 375), et dans la décision Timagami, précitée, la Cour confirme qu'il doit y avoir « une obligation de payer » (page 779).
+[63] Or, l'intimé prétend que l'entente est contraire à l'article 1275 du C.c.Q, « qui est d'ordre public », et que les attributions faites en violation de cette disposition sont frappées de nullité absolue pour les besoins du paragraphe 104(6) de la LIR. L'article 1422 du C.c.Q. précise qu'un « contrat frappé de nullité est réputé n'avoir jamais existé » et que chacune « des parties est [...] tenue de restituer à l'autre les prestations qu'elle a reçues ».
+[64] Dans Felix & Norton International Inc. c. Procureur général du Canada, 2009 QCCS 919 (Félix), des actionnaires cherchaient à obtenir « un jugement déclaratoire quant à la nullité d'une résolution adoptée par le conseil d'administration » (par. 1). La Cour supérieure a accueilli la requête en indiquant ce qui suit :
+[40] En réalité, ce dont il s'agit ici, ce n'est pas l'application des règles civilistes à un litige fiscal, mais l'application du droit civil à un acte juridique en vue de conclure à la nullité de l'acte. Ce n'est que par incidence que l'annulation de celui‑ci a des conséquences pour le ministère du Revenu : s'il n'y a plus d'acte juridique, les conséquences fiscales de l'acte n'existent plus.
+[Non souligné dans l'original]
+[65] De même, dans Durocher c. La Reine, 2016 CAF 299 (Durocher), il était question de la nullité d'une option d'achat. La Cour d'appel fédérale a indiqué ce qui suit :
+[21] D'entrée de jeu, le juge de la CCI a reconnu que c'est la Cour supérieure qui possède la compétence pour déclarer la nullité de l'option d'achat (Motifs, par. 45). Néanmoins, dans l'exercice de sa compétence pour statuer sur un appel d'une cotisation, la Cour canadienne de l'impôt (CCI) « doit tenir compte de la bonne foi des contrats, notamment de la validité d'un contrat et de l'ensemble de ses clauses » (Motifs, par. 46). Le juge de la CCI a donc procédé sur la base qu'il pouvait considérer la question entourant la nullité alléguée.
+[...]
+[40] La Couronne remet en question la compétence de la CCI de déclarer la nullité de l'option d'achat. En décidant du bien-fondé de la cotisation, le juge de la CCI s'est dit en droit de considérer si l'option d'achat sur laquelle s'était appuyé le ministre pour émettre la cotisation était frappée de nullité alors même qu'aucun tribunal compétent ne s'était prononcé à cet effet.
+[41] Il n'est pas nécessaire de vider cette question [...] Comme le juge de la CCI l'explique aux paragraphes 45 et 46 de ses motifs, il aurait été appelé à constater la nullité de l'option aux seules fins de déterminer la validité des cotisations sous appel.
+[42] Ainsi donc, le rôle de la CCI, lorsque confrontée à un argument basé sur la nullité dans le cadre d'un appel en vertu de la LIR, n'est pas assimilable à celui de la Cour supérieure qui elle a le pouvoir de « déclarer » la nullité d'un contrat [...]
+[Non souligné dans l'original]
+[66] En appliquant Durocher, la Cour doit conclure qu'il n'est pas du ressort de cette Cour de « déclarer » que l’entente ou les résolutions sont nulles. En revanche, elle peut constater la nullité d’une clause ou de l’ensemble de l’entente, afin d'être en mesure de déterminer la validité des cotisations sous appel.
+[67] En fin de compte, la Cour rejette la prétention de l'appelante que les montants sont « devenus payables » et peuvent donc être déduits en vertu du paragraphe 104(6) de la LIR du seul fait qu'ils ont été versés au bénéficiaire, sans égard à une violation éventuelle à l’acte de fiducie, au C.c.Q. ou à d'autres lois fédérales ou provinciales.
+QUESTION 2 : Est-ce que les frères Rémillard sont devenus fiduciaires de facto, en contravention à l'article 1275 du C.c.Q.?
+Thèse de l'appelante
+[68] L'appelante soutient qu'il n'y a pas eu de violation à l'article 1275 du C.c.Q., puisque les trois fiduciaires ont continué à respecter l'acte de fiducie, nonobstant l’entente.
+[69] En effet, malgré que la clause 2.1 de l’entente oblige les fiduciaires à exercer leurs pouvoirs décisionnels à l’égard de la fiducie « selon les directives » des frères Rémillard, en ayant « préalablement obtenu » leur accord, cette dernière précise aussi que « cet engagement » ne libère pas les fiduciaires « de leurs obligations envers la fiducie » et « ne constitue pas une délégation de leurs pouvoirs fiduciaires. »
+[70] Ainsi, même si les fiduciaires avaient à priori l’obligation contractuelle d’obtenir l’accord des frères Rémillard avant de prendre une décision eu égard à la fiducie, cela ne signifie pas pour autant qu'ils ont abdiqué leurs pleins pouvoirs fiduciaires. Dans les faits, les décisions étaient prises à l’initiative des fiduciaires, avec le consentement des frères Rémillard, qui autrement ne participaient pas à la gestion de la fiducie. La preuve a démontré que les fiduciaires ont continué à gérer et à administrer la fiducie conformément à leurs obligations légales impératives en vertu du C.c.Q.
+[71] L'appelante soutient que les frères Rémillard ne sont pas devenus fiduciaires dans les faits et que le concept de « fiduciaire de facto » n'est pas reconnu dans le droit civil du Québec.
+[72] Selon l'appelante, la clause 2.1 de l'entente confère tout simplement un droit de surveillance aux frères Rémillard, ce qui est explicitement permis par l'article 1287 du C.c.Q.
+Thèse de l'intimé
+[73] L'intimé soutient qu'il y a contravention à l'article 1275 du C.c.Q. parce que l'entente fait en sorte qu'il n'y a plus de fiduciaire indépendant et qu'à partir du 15 novembre 2013, les frères Rémillard sont devenus les seuls fiduciaires dans les faits.
+[74] L'intimé ajoute que les trois fiduciaires sont liés par l'entente qui stipule à la clause 2.1 qu'ils doivent obtenir l'approbation des frères Rémillard avant de prendre toute décision visant la fiducie. Si les fiduciaires ou certains d’entre eux sont en désaccord avec une directive des frères Rémillard, la clause 2.2 stipule qu’ils doivent démissionner pour être remplacés par un autre fiduciaire « selon les modalités prévues à l'acte constitutif de la fiducie ».
+[75] L'intimé indique qu'après la vente des actifs de Maybach, une « planification d'ensemble » a été mise en place pour la distribution du produit de la vente des actifs à LR et que le tout est « déterminé d'avance », une « considération essentielle » étant « de minimiser les coûts fiscaux ». Selon l'intimé, il y a très peu « d'interactions formelles » entre les trois fiduciaires, et le rôle des conseillers et des professionnels fiscalistes est fondamental pour donner suite à cette « planification d'ensemble ». L'intimé conclut que l'entente est globalement respectée puisque « les décisions de l'appelante se prennent selon la planification d'ensemble sous le contrôle de facto des frères Rémillard ».
+[76] L'intimé soutient que chaque fiduciaire en poste au moment des attributions est « un témoin loyal », « un proche de la famille Rémillard et de ses intérêts », ou encore, dans le cas de M. Rémillard, un témoin « économiquement redevable aux intérêts de la famille. » L’intimé soutient qu'il n'est « pas crédible » de penser que les fiduciaires décident d'effectuer une attribution et seulement par la suite obtiennent le consentement des frères Rémillard, puisque cela serait contraire à l’entente et que dans les faits, chaque lettre de directive commence avec le passage « Nous vous demandons », et que cette directive est respectée par les fiduciaires.
+[77] L'intimé ajoute que la position de l'appelante « est confondante », puisqu'elle « varie selon ses intérêts ». L'appelante prétend que les frères Rémillard « n'ont qu'un droit de regard sur les fiduciaires » dans le présent litige, mais lorsqu'il s'agit « de sauvegarder les pertes en capital des entreprises du groupe », elle affirme que les frères « contrôlent » la fiducie et donc la société Maybach dont la fiducie est l’unique actionnaire.
+[78] En fin de compte, l'intimé soutient que l'on ne peut interpréter l'entente comme conférant un simple droit de surveillance tel que le prétend l'appelante.
+Analyse
+[79] Avant de conclure que les clauses 2.1 et 2.2, ou l’entente entière est invalide, la Cour « doit rechercher quelle a été la commune intention des parties plutôt que de s'arrêter au sens littéral des termes utilisés », tel que dispose l'article 1425 du C.c.Q. La Cour doit aussi tenir compte « de l'interprétation que les parties lui ont déjà donnée ou qu'[elle] peut avoir reçue », comme l'indique l'article 1426 du C.c.Q.
+[80] Or, le témoignage des trois fiduciaires laisse peu de doute sur le fait qu'il y a eu des consultations avec les experts-conseils avant de procéder aux attributions en cause et que c'est seulement après la décision des fiduciaires que l'approbation des frères Rémillard a été obtenue dans tous les cas.
+[81] La Cour accepte aussi le témoignage de Maxime Rémillard selon lequel il n’a pas participé à la gestion de la fiducie. Il n'a pas été présent lors des réunions; il n'a pas eu accès aux registres comptables, aux états financiers ou encore aux déclarations de revenus.
+[82] Dans l'analyse de cette question, il est également important de noter qu'une résolution a été signée par les trois fiduciaires pour chacune des attributions en cause versées à LR. En vertu de l’article 1337 du C.c.Q, il est interdit aux fiduciaires de faire une « délégation générale » de leurs pouvoirs et en pratique, les fiduciaires ont continué d'exercer tous leurs pouvoirs fiduciaires de manière conforme au C.c.Q., nonobstant l’entente.
+[83] Même s'il est possible que les clauses 2.1 et 2.2 de l’entente sont contraires à l'acte de fiducie et à l’article 1275 du C.c.Q., comme le prétend l'intimé, la Cour conclut sur la prépondérance de la preuve soumise que les frères Rémillard n'ont pas dans les faits agi comme fiduciaires ou « fiduciaires de facto ».
+[84] Le témoignage de Me Gagnon et de M. Plante laisse peu de doute que le but premier de l'entente est de préserver les pertes en capital accumulées et d'éviter les conséquences d'un changement de contrôle à la suite du rachat des actions de Maybach détenues par LR et ainsi satisfaire au sous-alinéa 256(7)a)(ii) de la LIR.
+[85] Puisque la fiducie est « contrôlée » par trois fiduciaires indépendants, validement nommés en vertu de l’acte de fiducie, l'entente avait pour but de faire en sorte que les frères Rémillard fassent partie du « groupe de personnes qui contrôle » et qui « était lié à la société » immédiatement après le rachat des actions de LR de Maybach.
+[86] De toute évidence, le ministre a accepté l’effet voulu de l'entente au niveau du « groupe de personnes qui contrôle » en vertu de la LIR puisque Maybach a pu utiliser les pertes accumulées avant le rachat des actions de LR. Cependant, l’entente n’a pas pour autant fait des frères Rémillard des fiduciaires au sens du C.c.Q., et encore moins les « seuls fiduciaires » tels que le prétend l’intimé.
+[87] Avec égards, il n’y a pas lieu de confondre la notion de contrôle prévu par la disposition en question de la LIR avec les fonctions d’un fiduciaire en vertu des dispositions du C.c.Q.. Si la Cour doit décider si les frères Rémillard étaient fiduciaires, cela doit se faire au regard des dispositions du C.c.Q.
+[88] La Cour est d'avis que l'appelante a réussi à démolir les hypothèses de fait du ministre, soit que les frères Rémillard sont devenus « à la fois bénéficiaires et fiduciaires de facto de la fiducie » ou encore que « les fiduciaires ont abdiqué leur libre arbitre quant aux prises de décisions nécessaires à l'exercice de leurs pouvoirs discrétionnaires » en faveur des frères Rémillard : Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336 (par. 92 à 95), et House c. Canada, 2011 CAF 234, [2011] 4 R.C.F. F‑3 (par. 30 et 31)
+[89] La Cour conclut donc sur la base de la prépondérance de la preuve entendue que les frères Rémillard ne sont pas devenus fiduciaires de facto et que dans les faits, il n’y pas eu violation à l'article 1275 C.c.Q.
+QUESTION 3 : Si la Cour concluait qu'il y a eu une contravention à l'article 1275 du C.c.Q., qui est d'ordre public, s'agirait-il de nullité absolue ou relative?
+[90] La Cour a déjà conclu que nonobstant l’entente, il n'y a pas eu dans les faits de contravention à l'article 1275 du C.c.Q., puisque les frères Rémillard ne sont pas devenus fiduciaires dans les faits et que les trois fiduciaires indépendants ont continué à exercer leurs pouvoirs fiduciaires.
+[91] Or, même si la Cour venait à conclure que l'entente est contraire à l'acte de fiducie et aux exigences de l'article 1275 du C.c.Q., qui est d'ordre public, encore faut-il voir s'il s'agit d’une nullité absolue ou d’une nullité relative.
+[92] L'appelante soutient que l'article 1275 du C.c.Q. vise « la protection d'intérêts particuliers ». Dès lors, les clauses 2.1 et 2.2 de l’entente qui contreviendraient à cette disposition seraient frappées de nullité relative. En vertu de l'article 1420 du C.c.Q., la nullité relative ne peut être invoquée que par le bénéficiaire, ou par le constituant s'il est de bonne foi et a subi un préjudice. La Cour ne peut la soulever d'office.
+[93] L'intimé soutient que c'est plutôt la nullité absolue qui s'applique, puisque l'objet de l'article 1275 du C.c.Q. vise « la protection de l'intérêt général ». Étant donné que la nullité absolue peut être soulevée par tout intéressé, le ministre avait l'intérêt requis en l’espèce.
+Analyse
+[94] Les dispositions pertinentes portant sur la nullité sont les articles 1417, 1418, 1419 et 1420 du C.c.Q. Notons tout d'abord que l'article 1417 du C.c.Q. dispose que : « La nullité d'un contrat est absolue lorsque la condition de formation qu'elle sanctionne s'impose pour la protection de l'intérêt général. » L'article 1419 du C.c.Q. précise que : « La nullité d'un contrat est relative lorsque la condition de formation qu'elle sanctionne s'impose pour la protection d'intérêts particuliers ».
+[95] Le type de nullité d'un contrat dépend donc de « la condition de formation » sanctionnée, et notamment si celle-ci a pour but « la protection de l'intérêt général » ou « la protection d'intérêts particuliers ». Les commentaires du ministre de la Justice portant sur l'article 1417 du C.c.Q. (Commentaires du ministre de la Justice sur l'article 1417 C.c.Q., 1993), font notamment la distinction entre « l'ordre public économique de direction » et « l'ordre public économique de protection » :
+Cet article définit la nullité absolue, qui s'oppose à la nullité relative, sur la base du critère qui la caractérise en droit actuel : celui de l'intérêt général qui s'attache au respect de la condition de formation que la nullité vise à sanctionner.
+[...]
+On a, en effet, décelé plusieurs sortes d'ordre public : on reconnaît l'ordre public politique (voué à la défense des institutions essentielles de la société : l'État, la Famille, la Morale) et l'ordre public économique (voué à la réglementation directe des échanges de richesses et de services), ce dernier se divisant à son tour en l'ordre public économique de direction (pour assurer l'implantation d'une politique d'économie dirigée) et l'ordre public économique de protection (pour protéger des intérêts particuliers).
+[Non souligné dans l'original]
+[96] La Cour doit donc se demander si l'article 1275 du C.c.Q. vise « l'implantation d'une politique d'économie dirigée » ou bien la protection « des intérêts particuliers ».
+[97] Selon les commentaires du ministre de la Justice (Commentaires du ministre de la Justice sur l'article 1275 C.c.Q., 1993), l'article 1275 vise « à assurer une administration objective » de la fiducie et d’éviter « une division purement artificielle du patrimoine » qui « fournirait un moyen aisé d’éviter le paiement de certaines obligations ». Ces commentaires ajoutent aussi ce qui suit :
+[...]
+L’article ne retient pas la possibilité que le constituant ou le bénéficiaire puisse agir comme fiduciaire unique, car, même si, dans nombre de cas, un constituant ou un bénéficiaire peut désigner un fiduciaire conciliant envers ses propres besoins, lui permettre d’agir favoriserait une division purement artificielle du patrimoine et fournirait un moyen aisé d’éviter le paiement de certaines obligations.
+L’article 1275 permet au constituant de participer au fonctionnement de la fiducie à laquelle il a donné l’élan premier, et au bénéficiaire d’exercer un certain droit de regard dans la prise de décisions qui le concernent, tout en assurant à la gestion fiduciaire un minimum d’objectivité.
+[Non souligné dans l'original]
+[98] Dans Doré c. Verdun (Ville), [1997] 2 R.C.S. 862 (par. 12 à 14), la Cour suprême du Canada précise que les commentaires du ministre de la Justice « peuvent parfois constituer un élément utile pour cerner l'intention du législateur » mais ils « ne lient pas les tribunaux et leur poids pourra varier, notamment, au regard des autres éléments pouvant aider à l'interprétation des dispositions du Code civil. »
+[99] Dans Godoy Enriquez c. M.R.N., 2019 CCI 114, le juge Tardif s’est penché sur la question de l’ordre public économique de direction qui donne lieu à une nullité absolue. Il cite le passage suivant de l'arrêt Fortin c. Chrétien, 1998 CanLII 12628, [1998] J.Q. 4010 (QL), de la Cour d'appel du Québec, conf. par 2001 CSC 45, [2001] 2 R.C.S. 500 :
+[53] La décision Fortin c. Chrétien, 1998 CanLII 12628 (QCCA) (conf. 2001 CSC 45), fait ces commentaires plus détaillés sur l'ordre public de direction :
+On rattache généralement à l'ordre public politique et moral les lois portant sur l'administration de la justice, les lois sur l'organisation de l'État, les lois administratives et fiscales, les lois d'organisation des corporations professionnelles, les lois pénales, les lois du travail, les chartes des droits et libertés fondamentales. Les parties ne peuvent faire échec à ces lois ou s'y soustraire par convention particulière et le contrat qui a pour effet de le faire est frappé de nullité absolue. Ainsi, s'il y a exercice illégal de la profession d'architecte, de médecin, d'avocat, le contrevenant encourt non seulement une sanction pénale, mais le contrat basé sur la violation de la loi est jugé nul et illégal.
+Sous le titre de l'ordre public économique de direction, la jurisprudence et la doctrine regroupent les textes et arrêts jurisprudentiels qui tentent d'imprimer aux agissements des individus une direction publique, sociale ou économique déterminée. Il s'agit, donc, avant tout de règles posées dans l'intérêt de la société tout entière et de son bon gouvernement et qui s'attachent davantage, mais non exclusivement cependant, à l'intérêt collectif.
+[54] L'ordre public de direction vise donc à protéger « l'ensemble des institutions qui constituent la base des règles du jeu de la société ».
+[Souligné dans l'original]
+[100] Dans la décision Financière Transcapitale inc. c. Fiducie succession Jean-Marc Allaire, 2012 QCCS 5733 (par. 42 et 43) (Financière Transcapitale), la Cour supérieure du Québec conclut que trois fiduciaires, tous bénéficiaires d'une fiducie, ne pouvaient agir seuls en raison de l'article 1275 du C.c.Q., qui est « une stipulation d'ordre public ». En conséquence, les garanties données par la fiducie étaient nulles « de nullité absolue » et « n'étaient pas susceptibles de ratification ».
+[101] Curieusement, la Cour ne s’est pas attardée à la distinction entre l’ordre public économique de direction et l’ordre public économique de protection avant de conclure qu’il s’agissait d’une nullité absolue plutôt que d’une nullité relative.
+[102] Dans la décision Syndic de Banville, 2021 QCCS 5176 (Syndic de Banville), le syndic a demandé au tribunal de constater l'irrégularité de l'acte de fiducie, qui ne respectait pas les exigences de l'article 1275 C.c.Q. La Cour a indiqué en obiter ce qui suit (par. 80 à 85) :
+[80] Puisque l'acte de fiducie et l'acte de donation ne comportent pas de vices pouvant affecter leur existence, ceux-ci sont valides, tout comme l'acte d'hypothèque de 2011.
+[81] Mais, même si un vice avait affecté l'acte de fiducie ou l'acte de donation, cela n'aurait pas entraîné nécessairement la nullité absolue de ceux-ci.
+[82] À cet égard, l'article 1275 C.c.Q., bien que d'ordre public, vise à protéger avant tout les intérêts privés des bénéficiaires et du constituant, tel que le rappelle l'auteur Julien Busque :
+[...] L'article 1275 C.c.Q. vise essentiellement la protection des intérêts des bénéficiaires et du constituant, permettant notamment le respect des intentions de ce dernier formulées à l'acte, voire la protection du patrimoine fiduciaire lui‑même.
+[83] Il s'agit ici d'un ordre public de protection et non de direction. La sanction de nullité ne peut alors être soulevée que par les parties à l'acte et non par le syndic. Le Tribunal se range à cet égard du côté de la doctrine citée.
+[84] Rappelons que l'article 1420 C.c.Q. prévoit ce qui suit :
+Art. 1420. Bénéficiaire de la nullité La nullité relative d'un contrat ne peut être invoquée que par la personne en faveur de qui elle est établie ou par son cocontractant, s'il est de bonne foi et en subit un préjudice sérieux; le tribunal ne peut la soulever d'office.
+Confirmation Le contrat frappé de nullité relative est susceptible de confirmation.
+[85] Ainsi, même si le syndic avait eu raison de soulever les vices allégués, la nullité absolue des actes n'aurait pas été la sanction.
+[Non souligné dans l'original]
+[103] En citant les propos de l'auteur Julien Busque, à savoir que l'article 1275 du C.c.Q. vise « la protection des intérêts privés des bénéficiaires et du constituant », la Cour supérieure a conclu que l'article 1275 est « d'un ordre public de protection et non de direction ». Dès lors, un contrat fait en violation de cette disposition est sanctionné par une nullité relative, qui « ne peut être invoquée que par la personne en faveur de qui elle est établie », selon ce qui est prévu à l'article 1420 C.c.Q.
+[104] Les commentaires du ministre de la Justice (précités), soulèvent le danger « d’une division purement artificielle du patrimoine ». C’est peut-être ce qui a motivé la Cour dans Financière Transcapitale à déterminer que la sanction d’une contravention à l’article 1275 du C.c.Q. est la nullité absolue, puisque dans ce cas, les trois fiduciaires étaient aussi tous bénéficiaires. Or, dans cette instance, il y avait trois fiduciaires indépendants qui ont validement signé les résolutions pour effectuer les attributions en cause au bénéficiaire LR; malgré l’entente, les Frères Rémillard n’avaient pas dans les faits usurpé les pouvoirs des fiduciaires.
+[105] La Cour souscrit à l’analyse de la Cour supérieure dans Syndic de Banville et la doctrine citée à l’appui. D'ailleurs, s'il y a un doute quant au « caractère de la nullité », l'article 1421 du C.c.Q. dispose que « le contrat qui n'est pas conforme aux conditions nécessaires à sa formation est présumé n'être frappé que de nullité relative ».
+[106] Rappelons aussi que l'article 1287 du C.c.Q. dispose que « la fiducie est soumise à la surveillance du constituant ou de ses héritiers », ici, les frères Rémillard. L'article 1290 du C.c.Q. accorde au constituant, au bénéficiaire ou à « un autre intéressé » (je souligne) le droit d'agir contre le fiduciaire pour le contraindre à exécuter ses obligations. Ces dispositions viennent appuyer la thèse selon laquelle l'article 1275 du C.c.Q. vise « la protection des intérêts particuliers » plutôt que la protection de l’intérêt général.
+[107] Il en va de même pour l'article 1337 du C.c.Q. qui dispose qu'un fiduciaire ne peut déléguer un pouvoir discrétionnaire, « sauf à ses coadministrateurs ». La Cour est d’avis que cet article vise encore « la protection des intérêts particuliers ».
+[108] Or, l’argument subsidiaire de l’appelante est que si la délégation du pouvoir des fiduciaires en faveur des frères Rémillard est contraire à l’article 1337 du C.c.Q., il s’agit encore de nullité relative et le ministre n’a toujours pas l’intérêt requis pour la soulever.
+[109] Cependant, la Cour a déjà conclu que nonobstant l’entente, les fiduciaires indépendants n’ont dans les faits jamais délégué leurs pouvoirs discrétionnaires aux frères Rémillard. Ils ne faisaient qu’obtenir leur consentement quant à leur décision de procéder aux attributions en cause.
+[110] Il reste la question de l'indépendance ou de l'impartialité des fiduciaires en poste. Le ministre prétend que chaque fiduciaire est « un proche de la famille Rémillard et de ses intérêts » et suggère qu’aucun n’a l’indépendance requise. Or, l'article 1275 du C.c.Q. exige seulement qu'il y ait au moins un fiduciaire « qui n'est ni constituant ni bénéficiaire ». Cette disposition ne stipule pas d’exigences quant aux qualités des fiduciaires.
+[111] Dans Brassard c. Brassard, 2009 QCCA 898 (par. 110), la Cour d'appel du Québec précise que le choix d'un fiduciaire « ne reviens de droit qu'à une seule personne : le constituant. Seule sa confiance dans le fiduciaire importe. » D'ailleurs, les commentaires du ministre de la Justice sur l'article 1275 indiquent que le constituant est libre de « désigner un fiduciaire conciliant envers ses propres besoins ». La Cour doit donc rejeter les prétentions de l'intimé à cet égard.
+[112] À la lumière de ce qui précède, la Cour doit donc conclure que s'il y a contravention à l'article 1275 comme le prétend l'intimé, il s'agit de nullité relative et le ministre n'avait pas l'intérêt requis pour la soulever.
+VII. CONCLUSION
+[113] Pour conclure, la Cour est d'avis que les frères Rémillard ne sont jamais devenus fiduciaires dans les faits et que les trois fiduciaires n’ont jamais délégué leurs pouvoirs discrétionnaires, de sorte que les résolutions sont valides. Il n’y a pas eu de contravention à l’article 1275 du C.c.Q.
+[114] Les attributions sont donc « devenues payables » et ont été validement payées au bénéficiaire LR, de telle sorte que l'appelante avait droit à la déduction prévue au paragraphe 104(6) de la LIR pour chacune des années en litige.
+[115] Pour ces motifs, l'appel est accueilli avec dépens.
+Signé à Ottawa, Ontario, ce 24 jour de mai 2024.
+« Guy R. Smith »
+Le juge Smith
+RÉFÉRENCE :
+2024 CCI 76
+NO DU DOSSIER DE LA COUR :
+2019-1335(IT)G
+INTITULÉ :
+FIDUCIE HISTORIA ET SA MAJESTÉ LE ROI
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATES DE L'AUDIENCE :
+Les 17, 18, 19 et 20 décembre 2022
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 24 mai 2024
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Paul Ryan
+Me Félix St-Vincent Gagné
+Avocats de l'intimé :
+Me Vlad Zolia
+Me Éliane Mandeville
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Noms :
+Me Paul Ryan
+Me Félix St-Vincent Gagné
+Cabinet :
+Ravinsky Ryan Lemoine s.e.n.c.r.l.
+Pour l'intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada

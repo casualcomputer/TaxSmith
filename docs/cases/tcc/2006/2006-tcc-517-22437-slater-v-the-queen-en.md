@@ -1,0 +1,329 @@
+---
+title: "Slater v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22437/index.do"
+last_modified: "2006-09-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 517"
+citation2: ""
+neutral_citation: "2006 TCC 517"
+decision_date: "2006-09-26"
+language: "en"
+item_id: "22437"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2228
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:44:05.393000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "365d2cdf60d25bce29a52db80e1beb5ac2d29a40a4cd20a860d5b3345ca14579"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Slater v. The Queen
+
+- Citation: 2006 TCC 517
+- Decision date: 2006-09-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2228, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Slater v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-09-26
+Neutral citation
+2006 TCC 517
+File numbers
+2005-3840(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3840(IT)I
+BETWEEN:
+BEVAN EDWIN SLATER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 1, 2006, at Calgary, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tyler Lord
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2000 and 2001 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Saskatoon, Saskatchewan, this 26th day of September 2006.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2006TCC517
+Date: 20060926
+Docket: 2005-3840(IT)I
+BETWEEN:
+BEVAN EDWIN SLATER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Calgary, Alberta, on September 1, 2006. The Appellant was the only witness.
+[2] At the outset, the Appellant, a lawyer, moved for dismissal on the basis that he had been denied a fair hearing when the Canada Revenue Agency officials did not hear representations that he proposed to make to them after his Notice of Objection. The Court dismissed the motion on the basis that once he was reassessed, this Court's jurisdiction is limited to allowing or dismissing the appeal on the facts relating to the assessment itself in accordance with sections 169 and 171 of the Income Tax Act. A second motion by the Appellant was that the onus respecting the allegations that the Appellant did not engage in the activity for the pursuit of profit was on the Respondent. That allegation was first made by the Respondent in the Reply to the Notice of Appeal and that motion was granted.
+[3] The particulars in dispute are set out in paragraphs 10 to 20 of the Reply to the Notice of Appeal. They read:
+10. On filing his returns for the 2000 and 2001 years, the Appellant reported, among other things, net business losses from boat charters called "Boss Charters", (hereinafter the "Activity") of $8,020.73 in 2000 and $7,481.81 in 2001. Details of the losses claimed are as follows:
+2000
+2001
+Revenue
+1,650.00
+2,350.00
+Equipment
+586.80
+31.90
+Insurance
+840.79
+680.00
+Interest
+4,538.88
+4,264.80
+Maintenance and Repairs
+226.78
+187.01
+Operating
+1,088.73
+2,190.10
+Moorage
+2,388.75
+2,478.00
+Total Expenses
+9,670.73
+9,831.81
+Net Loss
+-8,020.73
+-7,481.81
+11. The 2000 and 2001 returns were initially assessed July 16, 2001 and July 22, 2002 respectively and the net business losses were assessed as filed by the Appellant.
+12. By Notices of Reassessment dated April 5, 2004, the Minister of National Revenue, (the "Minister") disallowed business expenses of $9,118.00 in 2000 and $9,340.00 in 2001 resulting in net business income assessed of $1,098.00 in 2000 and $1,859.00 in 2001. The expenses were reduced to allow about 5% of the expenses claimed as the boat was rented for about 5% of the year.
+13. The Appellant served on the Minister a Notice of Objection to the April 5, 2004 reassessments for the 2000 and 2001 years. The Notice of Objection was received July 5, 2004.
+14. In response to the Notice of Objection, the Minister varied the assessments by notices of reassessment dated March 3, 2005 for the 2000 and 2001 years to delete the net business income of $1,098.00 in 2000 and $1,859.00 in 2001. The assessments were varied as the Appellant did not have a source of income from the Activity.
+15. The Appellant served on the Minister a Notice of Objection to the March 3, 2005 reassessments for the 2000 and 2001 years. The Notice of Objection was received June 1, 2005.
+16. In response to the Notice of Objection filed on June 1, 2005, the Minister confirmed the assessments by Notice of Confirmation dated July 29, 2005. The assessments were confirmed as the Appellant did not have a source of income from the Activity.
+17. In reassessing the tax of the Appellant on March 3, 2005 and in confirming the tax of the Appellant on July 29, 2005, the Minister relied on the same assumptions of fact, as follows:
+(a) in 1986 the Appellant purchased a pleasure boat;
+(b) the boat cost $105,000 and the amount financed was $84,000 with a term of 25 years;
+(c) at all material times the boat was moored in Sidney, BC;
+(d) the Appellant has resided in Calgary, Alberta since 1987;
+(e) for the years 1987 to 2003, the Appellant has reported the following revenue, expenses and net losses from the Activity:
+Year
+Revenue
+Expenses
+Net Loss
+1987
+$ 2,297
+$ 46,603
+$ 44,306
+1988
+$ 7,367
+$ 30,133
+$ 22,766
+1989
+$10,237
+$ 18,690
+$ 8,453
+1990
+$ 4,985
+$ 18,961
+$ 13,976
+1991
+$ 720
+$ 13,190
+$ 12,470
+1992
+$ 2,070
+$ 10,770
+$ 8,700
+1993
+$ 690
+$ 8,414
+$ 7,724
+1994
+$ 1,568
+$ 7,882
+$ 6,314
+1995
+$ 1,100
+$ 8,977
+$ 7,877
+1996
+$ 4,373
+$ 10,618
+$ 6,245
+1997
+$ 4,180
+$ 9,139
+$ 4,959
+1998
+$ 4,900
+$ 10,226
+$ 5,326
+1999
+$ 2,250
+$ 9,947
+$ 7,697
+2000
+$ 1,650
+$ 9,670
+$ 8,020
+2001
+$ 2,350
+$ 9,831
+$ 7,481
+2002
+$ 3,890
+$ 8,470
+$ 4,580
+2003
+$ 2,805
+$ 8,235
+$ 5,430
+Total
+$57,432
+$239,756
+$ 182,324
+(f) the boat was chartered for 6 days in 2000 and for 8 days in 2001;
+(g) the Appellant rented only to family members or friends, or people referred by them;
+(h) the Appellant did not advertise the Activity to the general public;
+(i) the Appellant personally used the boat for 20 days in both 2000 and 2001;
+(j) the boat charter season in Sidney, BC is generally from April to September;
+(k) the Appellant purchased the boat for his personal use;
+(l) the Appellant purchased the boat for his retirement;
+(m) in the years 1998 to 2003, the Appellant reported revenue and expenses from the Activity as set out on the attached Schedule A;
+(n) if interest were excluded from the expenses claimed in 1998 to 2003, the Activity would still be in a net loss position;
+(o) renting the boat to family and friends was to help defer the costs of owning the boat and was not to produce a source of income;
+(p) in claiming expenses in the 2000 and 2001 years, the Appellant did not take into account any personal portion of expenses;
+(q) in years prior to 1998, the Appellant has written-off the cost of the boat through capital cost allowance;
+(r) the Appellant did not have a plan to make the Activity profitable;
+(s) the Appellant did not operate the Activity in a commercial fashion;
+(t) the expenses claimed were not incurred to gain or produce income from a business;
+(u) the Appellant did not carry on the Activity in pursuit of profit.
+B. ISSUES TO BE DECIDED
+18. The issue is whether the Appellant is entitled to losses from the Activity in computing his income for the 2000 and 2001 years.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+19. The Respondent relies on sections 3, 4 and 9 and subsection 248(1) and paragraphs 18(1)(a) and 18(1)(h) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.) as amended (the "Act").
+20. The Appellant had no source of income from the Activity. The Activity was not a business. The Appellant is not entitled to deduct the losses in computing income under section 3 of the Act.
+[4] The Appellant was born and raised in northern Saskatchewan, which has thousands of lakes, many of them very large. He joined the military, graduated from Royal Roads in 1971 and then spent 4 years in the Royal Canadian Navy. He qualified as a Destroyer Commissioned Officer, a scuba diver, and a ship's diving officer while serving in the Victoria and Halifax areas on various ships. He then attended law school, graduated and began practice in Calgary, where he has lived since 1978. In 1981, he and two other lawyers formed a firm doing oil and gas law. He left that firm after a dispute in 1986. He then became a sole practitioner. In 2000 and 2001 he practised out of his home, as he still does. He earns about $50,000 per year from his practice. He is married and now has 2 grown daughters and grandchildren, one of whose family lives about a five minute walk from his home. He is past President of the Calgary Branch of the Naval Officers Association of Canada and active in other Calgarynaval groups. He organized the original Calgary Regatta and remains active in it. His social activities appear to be with people in Calgarywho are interested in water and boating activities. He remains a qualified scuba diver. He is also engaged in mountain climbing.
+[5] Assumptions 17(b), (c), (d), (e), (f), (m), (n), (p) and (q) are not refuted.
+[6] Respecting the assumptions, the Court finds:
+(a)- The Appellant purchased the 35' sailboat in December, 1985, from the C & C yacht dealer in Calgary which, at that time, was the highest volume C & C dealer in Canada. C & C built yachts in Niagara-on-the-Lake, Ontario, and at that time Revenue Canadahad an accelerated depreciation and tax program to encourage Canadians to purchase Canadian boats for business purposes. They were called "certified vessels" and 6 or 7 percent of the cost could be written off against the Appellant's income tax. In summary, the Appellant purchased the yacht with the encouragement and incentives of the Government of Canada for the purpose of earning a profit and qualified for the entire program. These are the first years in which the Appellant has been assessed respecting the boat. The Appellant proved that he began contacting his Calgary friends and associates to lease the boat which he had moored at a Sidney, B.C. marina, a suburb of Victoria. He registered a trade name "Boss Charters", printed letterhead and a fax sheet and operated the business out of his home law office and, when in Sidney, from the boat itself. In 1987, he advertised it for charter for the only time. He also leased it to yachting schools in B.C. for two years but found that they cannibalized his boat to replace parts on their own boats. In addition, he learned that his insurance might be voided for this. Therefore, he returned to chartering to people who were recommended to him by word of mouth, and insured specific yachting charters for an extra premium per charter. The Court finds this to be a sensible responsible business practice because:
+1. It prevents damage by irresponsible or foolish characters.
+2. It avoids chartering to unknown people who might use the boat for illegal activities, such as smuggling, which might cause serious damage or forfeiture of the boat.
+3. It reduces expenses due to damage and higher insurance premiums.
+The Appellant has continued to charter in this fashion to this date. He gets chartering firms' brochures so that he can charge below their rates for competitive purposes. Other than Calgary customers, some are active or retired naval personnel from the Victoriaarea, or old acquaintances or their references.
+(g) - The Appellant also rented to Royal Canadian Navy personnel.
+(h) - The Appellant advertised for one year and did not receive satisfactory results. He also negotiated a form of joint venture with commercial charter firms operating out of Vancouver without success.
+(i) - The Appellant's "personal use" of the boat for the alleged 20 days in each year included 4 days of maintenance and repairs in 2000, and 8 days of maintenance and repairs in 2001. The Court accepts the fact that these must be done if the boat is to be fit for charters; they constitute business use. They do not include clean up days from charter contracts. The Appellant does his own maintenance, repairs and clean up and his wife assists from time to time. In addition the "personal use" sometimes included sailing the boat to a pick-up point, like Comox, for a charter pick-up.
+(j) - Mr. Slater described the season as being from May to September.
+(k) and (l) - Pursuant to the provisions of the program of the government of Canada, the Appellant purchased the boat for the purpose of earning a profit in the business of chartering, particularly amid the Gulf Islands in the Strait of Georgia. He continues to use it for that purpose.
+(o) - Is wrong. The Appellant's income is not sufficient for him to have a pleasure boat; he uses it for business purposes. He still has not paid off his loan for the boat or the mortgage on his home. He is still trying to earn a profit from the boat, but is subject to competition and the problems previously described or encountered when renting such a boat in British Columbia.
+(q) - Is correct. This was done pursuant to the provisions of the Income Tax Act and was so assessed at the time.
+(r) - Is wrong. The Appellant planned to lease the boat to retired and active naval personnel and to acquaintances in Calgary. After a few years he leased it to sailing schools in British Columbia with resulting missing parts. As a result he contacted chartering corporations in British Columbia for possible joint business ventures without result. He then reverted to his original plan but spent time cultivating Royal Canadian Navy personnel in the Victoria area with the expectation that it would result in more charters; that does not appear to have occurred to the end of 2003.
+(s) - Is wrong. In the Court's view the efforts described under "(r)" were done in a commercial fashion and appear to have been recognized as such by the Canada Revenue Agency. The Appellant's efforts at advertising were fruitless. His problem is to lease the boat to responsible customers, combined with the competition for these customers.
+(t) - The Court agrees and the evidence is that some use of the boat was personal. As a result some expenses were incurred to earn income from a business and some were personal in 2000 and 2001. The Court finds the ratio to be based on actual usage (and not the total calendar year, or the total season) as described herein, namely -
+Days
+2000
+2001
+1. Charter time
+(Assumption (f))
+6
+8
+2. Repair and maintenance testified
+to by the Appellant
+4
+8
+Sub-total
+10
+16
+It should be noted that cleaning time is not recorded or allowed for in the above. Therefore, it is allocated as personal because both repairs and maintenance and ordinary cleaning have mixed business and personal aspects. The result is that the Court finds business/personal use as follows based on actual time used:
+Days
+2000
+2001
+3. Personal use
+Assumed
+Subtract #2
+20
+4
+20
+8
+Net personal
+16
+12
+4. Ratio, business
+personal
+10
+16
+16
+12
+Total
+26
+28
+In view of the finding of mixed business and personal use, the tests for a reasonable expectation of profit must be met by the Appellant respecting the boat. Using the criteria set out by Dickson, J. in Moldowan v. The Queen [1978] 1 S.C.R. 480 at 486, the Court finds:
+(a) The Appellant's experience is of losses. The Appellant testified correctly that if, in 2000 and 2001, he had engaged four more charters of one week each, the charter business would have been profitable. Had he not owed interest, two charters would have sufficed.
+(b) The taxpayer had and has extensive training and experience both in operating a boat and a business. The Appellant operated the charter solicitations and contracts part of his business from his law office in his home and primarily from Calgary itself. It was a combined law and charter business and mode of earning an income. His social life in Calgary was with a boating group and, as any businessman knows, social contacts are a prime source of personal contacts for a business such as the practice of law (see Douglas G. Gunn v. The Queen 2006 FCA 281, esp. paras 83 and 91-94). The boat itself was named the "Legal Ease", a reference to his law practice.
+(c) The taxpayer's intended course of action in the charter business is set out in respect to assumption "(r)". The Appellant's time at his home office appears to have been spent primarily on his law practice. However, his time out of the office, at allegedly "social" or what the Court finds to be business contact activities appears to have been primarily associated with yachting or charter contact activities. When on the Legal Ease his time was also primarily associated with charter activities.
+(d) The capital committed is found by the Court to be largely on the charter business as the investment in the boat itself was, compared to an ordinary law practice, very large. There is no remaining depreciation to be charged.
+At this time, the law practice, while modest, is profitable. However, the Appellant appears to be in his late 50's and his legal income from his one-man home practice appears likely to decline in the near future, while his charter income shows a probability of increasing, particularly as his interest expense is reduced, and the years of solicitation and Calgary's economic boom raise the probability of more charters. The result is that the charter business showed a reasonable expectation of profit in 2000 and 2001 and the Appellant had a combined business, and a combined income from his legal practice and charter business in 2000 and 2001. He is struggling at each in a business-like fashion given the exigencies he has faced. He pays income tax on his legal income and he is entitled to deduct his business losses from the charter business. However, the Court finds that his losses are claimable in the following ratios:
+2000
+10 x $8,020.73 = $3,084.90
+26
+2001
+16 x $7,481.81 = $4,275.32
+28
+(u) - As a result, the Court finds that in 2000 and 2001 the Appellant carried on the activity in pursuit of profit; chartering the Legal Ease was a business. The Court finds that when the Appellant bought the boat both his expectation for a substantial income practising oil and gas law and for earning a profit from chartering the boat were reasonable. Once he had a one man law office, they became a combined business and combined business income.
+[7] The Court finds that the Appellant is entitled to deduct the following business losses from the chartering business in computing his income for the 2000 and 2001 years:
+2000: $3,084.90
+2001: $4,275.32
+The appeal is allowed accordingly and this matter is referred to the Minister of National Revenue for reconsideration and reassessment on the foregoing basis.
+Signed at Saskatoon, Saskatchewan, this 26th day of September 2006.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2006TCC517
+COURT FILE NO.: 2005-3840(IT)I
+STYLE OF CAUSE: Bevan Edwin Slater v. The Queen
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: September 1, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: September 26, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tyler Lord
+COUNSEL OF RECORD:
+For the :
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

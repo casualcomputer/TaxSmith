@@ -1,0 +1,107 @@
+Title: Kuresh v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25864/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-317-25864-kuresh-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-05-18
+
+# Kuresh v. The Queen
+
+- Citation: 2004 TCC 317
+- Decision date: 2004-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3858, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kuresh v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-18
+Neutral citation
+2004 TCC 317
+File numbers
+2003-4476(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-4476(IT)I
+BETWEEN:
+ALEX KURESH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 13, 2004 at Toronto, Ontario
+Before: The Honourable Justice Georgette Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrea Jackett
+Bari Crackower (Student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 18th day of May 2004.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2004TCC317
+Date: 20040518
+Docket: 2003-4476(IT)I
+BETWEEN:
+ALEX KURESH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] This is an appeal from the assessment of the Minister of National Revenue disallowing the Appellant's deduction of certain investment interest expenses in the taxation year 2000.
+[2] The Appellant, Mr. Alex Kuresh, was formerly known as "Satar Sadiqyar", a name which appears in some of the documents admitted as exhibits. In 2000, Mr. Kuresh invested $90,000 in "high-tech" stocks. He testified that these funds formed part of a loan of $145,000 made to him by his cousin, Ms. M. Nader. Ms. Nader lives in Germany. Two other individuals who figure in this story are his uncle, Mr. M.A. Raouf, who also resides in Germany and his brother, Mr. A.K. Sadiqyar, resident in Holland. Mr. Kuresh's evidence is that there was no written loan agreement between him and Ms. Nader, but that he had agreed to repay the loan funds received from Ms. Nader over 5 years in lump sum payments together with interest at 9% per annum. In 2000, he stated that he repaid $20,000 on the loan, which included interest for that year of $8,100.
+[3] In his 2000 tax return, he claimed an investment interest deduction for this amount. This deduction was disallowed and Mr. Kuresh objected to the Minister's assessment. After discussions with CCRA officials, it became clear that the difficulty Mr. Kuresh faced was his lack of documentation in support of his interest deduction claim. Specifically, there was nothing to show the loan had been made and the funds advanced from Ms. Nader to Mr. Kuresh, nor to establish his repayment of the loan to Ms. Nader. These deficiencies were not resolved to the Minister's satisfaction, resulting in Mr. Kuresh's appeal of the matter to this Court.
+[4] The issue in this case is whether, as a matter of fact, a valid loan existed between Mr. Kuresh and Ms. Nader on the terms set out above. The law is clear that Mr. Kuresh has the onus of proving the loan[1]. As was explained to Mr. Kuresh at the hearing, to succeed he must prove that the Minister's assumptions and assessments are wrong[2]. The Income Tax Act requires taxpayers to keep adequate books and records[3], a requirement that makes sense in a taxation system premised on the notion of a self-reporting taxpayer. Mr. Kuresh, like all other taxpayers, has a statutory obligation to keep records of the transactions involved in his business investments. Because he failed to do so regarding the dealings between him and Ms. Nader, the Court has no evidence before it other than his testimony that these transactions occurred.
+[5] The Federal Court of Appeal held in Njenga v. MNR[4] that "[s]elf-written receipts and assertion without proof are not sufficient. The problem of insufficient documentation is further compounded by the fact that the Trial Judge, who is the assessor of credibility, found the applicant to be lacking in this regard." I would not go so far as to say Mr. Kuresh was not credible, but his evidence was so incomplete as to be unconvincing. Mr. Kuresh represented himself. In support of his interest deduction claim, he offered his testimony of the loan transaction and produced a document which purported to reduce to writing the terms of the loan agreement. Entered as Exhibit A-1, it is a photocopy of a plain sheet of white paper dated April 7, 2003 on which the terms have been hand-printed. It came into existence some three years after the loan was supposed to have been made, and only as a result of CCRA's request for paper in support of Mr. Kuresh's claim. Mr. Kuresh did not prepare the document himself and could not say who had. He said it had been mailed to him from Europe but he could not produce the envelope in which it came. Mr. Kuresh's original signature appears in blue ink on the photocopied page under the words "Satar Sadiqyar (Alex Kuresh), Borrower". What seem to be the signatures of "Ms. M. Nader, Lender" and of "Mr. Raouf, Witness" appear at the bottom of the page. These individuals were not present at the hearing nor were Affidavits of Execution provided attesting to the April 7, 2003 document. For all of these reasons, even under the more relaxed rules of the Informal Procedure, Exhibit A-1 is of little evidentiary value.
+[6] Equally unconvincing was Mr. Kuresh's evidence regarding the repayment of the loan. Mr. Kuresh is a fairly sophisticated businessman, sophisticated enough to handle his own stock market investments and to know that the interest paid on money borrowed for that purpose is deductible. In making his submission to the Court, he stated that "numbers are what I do", and the Court accepts that he is comfortable and competent in the world of figures. In view of this and CCRA's prior demands for documentation, it is difficult to understand why, if he had any such material, Mr. Kuresh would not have produced it, either to CCRA officials or at the hearing. When cross-examined about bank statements showing the deposit of the loan proceeds, Mr. Kuresh said he had such records but "not with him". Nor was he able to provide any documentation to show the movement of funds from his account in payment of the stocks purchased with the loan funds. As for the repayment of the loan, in support of his having made payments to Ms. Nader, Mr. Kuresh provided a photocopy of a wire transfer for $20,000 dated December 7, 2000 payable, not to Ms. Nader, but to "A.K. Sadiqyar", his brother. Mr. A.K. Sadiqyar was not a party to the loan agreement. Mr. Kuresh's explanation of why he made this payment to his brother instead of Ms. Nader was not clear, having vaguely to do with proof of repayment "in case something happened to him". It seems to me that there are other more reliable and less complicated means of achieving this goal.
+[7] In any event, other than his bare assertions, Mr. Kuresh was unable to produce any reliable evidence to show the existence of the loan. If he had kept better records of his transactions, both a sensible thing to do and a legal requirement under the Income Tax Act, the outcome may have been different. But as it stands, Mr. Kuresh has not been able to prove wrong the assumptions upon which the Minister's assessment was based. Accordingly, I have no alternative than to dismiss the appeal.
+Signed at Ottawa, Canada, this 18th day of May 2004.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2004TCC317
+COURT FILE NO.:
+2003-4476(IT)I
+STYLE OF CAUSE:
+Alex Kuresh v. Her Majesty The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 13, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+May 18, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrea Jackett
+Bari Crackower (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Wellington Hotel Holdings Limited v. M.N.R., 73 DTC 5391
+[2] Johnstonv. M.N.R., [1948] S.C.R. 486
+[3] Holotnak v. Her Majesty the Queen, 87 DTC 5443 (F.C.T.D.)
+[4] [1996] F.C.J. No. 1218

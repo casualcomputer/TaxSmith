@@ -1,0 +1,264 @@
+---
+title: "Zhang v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28049/index.do"
+last_modified: "2007-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 634"
+citation2: ""
+neutral_citation: "2007 TCC 634"
+decision_date: "2007-10-24"
+language: "en"
+item_id: "28049"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1569
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:36:52.778000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4ad30bc29810604360bfc67fa79b4851ab72382e978fc3cd95657a0b171c14cc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zhang v. The Queen
+
+- Citation: 2007 TCC 634
+- Decision date: 2007-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1569, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zhang v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-24
+Neutral citation
+2007 TCC 634
+File numbers
+2005-3867(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3867(IT)I
+BETWEEN:
+WENCHENG ZHANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 26, 2007 at Windsor, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+Counsel for the Appellant:
+John Mill
+Counsel for the Respondent:
+Steven Leckie
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 24th day of October, 2007.
+"G. A. Sheridan"
+Sheridan, J.
+Citation: 2007TCC634
+Date: 20071024
+Docket: 2005-3867(IT)I
+BETWEEN:
+WENCHENG ZHANG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Wencheng Zhang, is appealing the assessment of the Minister of National Revenue of his 2002 taxation year.
+[2] The issue is the amount of the foreign tax credit the Appellant ought to be allowed to claim in respect of tax paid on his employment income in the United States.
+[3] The Appellant proposed Mr. Max Koss, a Certified Public Accountant[1], as an expert witness to testify in support of his interpretation of the applicable provisions of the United States tax legislation. The Respondent challenged Mr. Koss' competence to prove foreign law on the basis that he was an accountant, not a lawyer. That in itself, however, is not sufficient to disqualify Mr. Koss as an expert witness as that determination will depend on the factual context of each case[2]. Counsel for the Respondent cross-examined Mr. Koss extensively on his credentials. Given that this appeal was heard under the Informal Procedure and being satisfied that Mr. Koss was experienced with the practical operation of the relevant United States tax provisions, I ultimately qualified Mr. Koss as an expert witness. It became clear during his testimony, however, that Mr. Koss was not able to provide a legal analysis of the legislation or to express a useful opinion as to its proper interpretation. The provisions themselves were not in evidence. Thus, with the exception of his practical knowledge from an accounting perspective as mentioned above, I gave very little weight to Mr. Koss' evidence.
+[4] Although the parties disagree with their interpretation, the facts assumed by the Minister in making the assessment[3] are not in dispute:
+19. In so reassessing the Appellant's income tax return for the 2002 taxation year and in confirming said reassessment, the Minister relied on the following assumptions of fact:
+a) at all relevant times, the Appellant was a Canadian resident that resided in Windsor Ontario and was employed in Southfield Michigan U.S.A.;
+b) on his T-1 return for the 2002 taxation year, the Appellant duly reported other income of $104,529.19 based on the following computation:
+- total employment earnings -
+$ 66,566.38
+- converted to Canadian currency
+x $ 1.5704
+=
+$104,529.19
+c) in accordance with the "W-2 slip – Wage and Tax Statement", the Appellant's employer withheld the following amounts:
+- Federal income tax -
+$7,299.27
+- Social security tax -
+4,127.12
+- Medicare tax -
+965.21
+- State income tax -
+2,263.20;
+d) the Appellant filed a U.S. 1040A Individual tax return for the year 2002 and completed page 2 in the following manner:
+- Tax including any alternative minimum tax -
+$5,959.00
+- less: Child tax credit -
+(1,800.00)
+- total tax -
+4,159.00
+less: federal income tax withheld -
+(7,229.00)
+Amount refunded to Appellant -
+$3,070.00;
+[Emphasis as it appeared in the Reply to the Notice of Appeal.]
+e) the Appellant filed a 2002 Michigan state Mi-1040 tax return for the year 2002 and completed page 2 in the following manner:
+- Income Tax -
+$2,040.00
+- less: Michigan tax withheld -
+(2,263.00)
+- Amount refund to Appellant -
+$ 223.00;
+and
+f) the foreign taxes paid in the amount of $17,730.78 used by the Minister in computing the foreign tax credit as referred to in paragraph 9 herein were computed based on the following:
+- federal tax paid per U.S. 1040 return -
+$ 4,159.00
+- state tax per State 1040 return -
+2,040.00
+- social security tax withheld -
+4,127.12
+- medicare tax withheld -
+965.21
+- sub total -
+$11,291.33
+- exchange rate to Canadian currency -
+x 1.5704
+-
+$17,730.78
+[5] In filing his 2002 income tax return, the Appellant claimed a foreign tax credit pursuant to section 126(1) of the Income Tax Act:
+SECTION 126: Foreign tax deduction.
+(1) A taxpayer who was resident in Canada at any time in a taxation year may deduct from the tax for the year otherwise payable under this Part by the taxpayer an amount equal to
+(a) such part of any non-business-income tax paid by the taxpayer for the year to the government of a country other than Canada (except, where the taxpayer is a corporation, any such tax or part thereof that may reasonably be regarded as having been paid by the taxpayer in respect of income from a share of the capital stock of a foreign affiliate of the taxpayer) as the taxpayer may claim, ...
+[6] The phrase in issue in the above provision is "non-business income tax paid" by the Appellant within the meaning of paragraph 126(1)(a).
+[7] There is no dispute that entitlement to the Child Tax Benefit, the calculation of the amount payable to a taxpayer and the payment of that amount is governed by the United States tax legislation. Pursuant to the relevant provisions, where a taxpayer is entitled to a Child Tax Benefit, it must first be applied to the taxpayer's outstanding tax liability. The remaining balance, if any, of the Child Tax Credit is then "refunded" to the taxpayer. The relevant portion of the Appellant's 2002 United States federal income tax return was reproduced in Exhibit A-2:
+28
+Tax, including any alternative
+minimum tax (see instructions) ................................
+28
+5,959.
+29
+Credit for child and dependent care expenses
+Attach Schedule 2 ................
+29
+30
+Credit for the elderly or the disabled.
+Attach Schedule 3 ................
+30
+31
+Education credits.
+Attach Form 8863 ................
+31
+32
+Retirement savings contributions credit.
+Attach Form 8880 ................
+32
+33
+Child tax credit
+(see instructions) ..................
+33
+1,800.
+34
+Adoption credit.
+Attach Form 8839 ................
+34
+35
+Add lines 29 through 34.
+These are your total credits ....................................
+35
+1,800.
+36
+Subtract line 35 from line 28.
+If line 35 is more than line 28, enter 0 .......................
+36
+4,159.
+37
+Advance earned income credit payments from
+Form(s) W-2 ......................................................
+37
+38
+Add lines 36 and 37. This is your total tax ..............>
+38
+4,159.
+39
+Federal income tax withheld from Forms W-2 and 1099 ....
+39
+7,229.
+40
+2002 estimated tax payments and amount applied from
+2001 return .........................
+40
+41
+Earned income credit
+(EIC) ...............................
+41
+42
+Additional child tax credit.
+Attach Form 8812 ................
+42
+43
+Add lines 39 through 42.
+These are your total payments ..............................>
+43
+7,229.
+44
+If line 43 is more than line 38, subtract line 38 from line 43. This is the amount you overpaid ........................
+44
+3,070.
+45a
+Amount of line 44 you want refunded to you ............>
+45a
+3,070.
+[8] According to the Appellant, he ought to be able to claim $5,959, the amount shown in Line 28 as "tax", before the application of the Child Tax Credit. Under the tax legislation of the United States, he was obligated to pay this amount; by the same law, he was required to apply to that figure any Child Tax Benefit amount payable to him as well as the taxes already deducted at source. But his tax liability was nonetheless, $5,959 and accordingly, that is the amount he ought to be able to claim under paragraph 126(1)(a) of the Act.
+[9] The Minister argues that paragraph 126(1)(a) limits the amount of the foreign tax credit to the amount of tax actually paid by the taxpayer. Referring to the above calculations, the Respondent argues that "tax" of $5,959 set out in Line 28 does not represent the tax actually paid by the Appellant. By operation of the United States tax legislation, this amount was reduced by $1,800 following the application of the Child Tax Credit amount to which the Appellant was entitled in 2002. As shown in Lines 36 and 38 above, this left a "total tax" owing of $4,159. This amount was then subtracted from the federal income tax of $7,229 already withheld from the Appellant's 2002 employment income, resulting in a refund to the Appellant of $3,070. This amount is equal to the sum of $1,800, the maximum Child Tax Credit payable to the Appellant in 2002, and $1,270 ($7,229 - $5,959), the amount of the overpayment of taxes withheld at source for that year. I note that this amount is described in Line 44 as "the amount you [the taxpayer] overpaid". Accordingly, the amount of "non‑business income tax paid" by the Appellant, within the meaning of paragraph 126(1)(a), was $4,159.
+[10] In my view, the Respondent's interpretation is the correct one. The purpose of the foreign tax credit is to prevent double taxation[4] by permitting a deduction from a taxpayer's tax liability in Canada an amount equal to the income tax paid "to the government of a country other than Canada". A "tax" is a "… a levy, enforceable by law imposed under the authority of a legislature, imposed by a public body and levied for public purpose"[5]. In the present case, the amount of the levy ultimately imposed upon the Appellant by the authority of the United States government by operation of its tax legislation was $4,159. From this it follows that only this amount is deductible under the provisions of paragraph 126(1)(a) of the Act. Accordingly, the appeal is dismissed.
+Signed at Ottawa, Canada, this 24th day of October, 2007.
+"G. A. Sheridan"
+Sheridan, J.
+CITATION: 2007TCC634
+COURT FILE NO.: 2005-3867(IT)I
+STYLE OF CAUSE: WENCHENG ZHANG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: June 26, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: October 24, 2007
+APPEARANCES:
+Counsel for the Appellant:
+John Mill
+Counsel for the Respondent:
+Steven Leckie
+COUNSEL OF RECORD:
+For the Appellant:
+Name: John Mill
+Firm: Mill Professional Corporation
+Windsor, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibits A-1 and A-2.
+[2] Canada v. Capitol Life Insurance Co., [1986] 1 C.T.C. 388 (F.C.A.).
+[3] Paragraph 19 of the Reply to the Notice of Appeal.
+[4] Dagenais v. Canada, [2000] 2 C.T.C. 2022.
+[5] Kempe v. Canada, [2001] 1 C.T.C. 2060 at paragraph 9, referring to the Supreme Court of Canada decision, Lawson v. Interior Tree Fruit and Vegetable Committee of Direction, [1931] S.C.R. 357.

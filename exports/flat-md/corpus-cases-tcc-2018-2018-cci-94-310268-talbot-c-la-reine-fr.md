@@ -1,0 +1,152 @@
+---
+title: "Talbot c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/310268/index.do"
+last_modified: "2018-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 94"
+citation2: ""
+neutral_citation: "2018 CCI 94"
+decision_date: "2018-05-11"
+language: "fr"
+item_id: "310268"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4879
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:55:17.137000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "28cb7393fd2c58c25eac15be61a1227e089044ff91ec6f1d314bc13175ad8345"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Talbot c. La Reine
+
+- Citation: 2018 CCI 94
+- Decision date: 2018-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4879, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Talbot c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-05-11
+Référence neutre
+2018 CCI 94
+Numéro de dossier
+2017-3409(IT)I
+Juges et Officiers taxateurs
+Robert N. Fournier
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-3409(IT)I
+ENTRE :
+JÉRÔME TALBOT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 1er mai 2018, à Québec (Québec).
+Devant : L’honorable Robert N. Fournier, juge suppléant
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2015 est rejeté, sans frais, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 11e jour de mai 2018.
+« Robert N. Fournier »
+Juge suppléant Fournier
+Référence : 2018 CCI 94
+Date : 20180511
+Dossier : 2017-3409(IT)I
+ENTRE :
+JÉRÔME TALBOT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge suppléant Fournier
+[1] L’appelant, Jérôme Talbot, se pourvoit en appel de l’avis de cotisation initiale émis le 11 avril 2016, pour l’année d’imposition 2015, lui refusant une déduction en tant qu’habitant dans une région éloignée. Il soutient toujours avoir résidé dans une région visée par règlement, pendant une période d’au moins six mois d’affilée ou plus, conformément à l’article 110.7 de la Loi de l’impôt sur le revenu (la « Loi ») et l’article 7303.1 du Règlement de l’impôt sur le revenu. Donc le 14 décembre 2016, l’appelant a signifié au ministre du Revenu national (« le ministre ») son opposition à l’encontre de cet avis de cotisation, que le ministre a tout de même ratifié le 31 juillet 2017.
+[2] Pour établir et maintenir sa position, le ministre a tenu pour acquis que la résidence permanente de l’appelant était dans la ville de Québec et que durant ladite année d’imposition, il avait travaillé 158 jours pour Canadian Royalties Inc. comme opérateur de concasseur dans une zone nordique. En fait, le ministre prend pour acquis que l’appelant a passé la majorité de ses 207 jours non travaillés à Québec, en dehors d’une zone nordique. L’appelant pour sa part dispose de statistiques qui diffèrent et nous présente un tableau détaillé qui supporte sa position.
+[3] D’après son témoignage, bien que l’appelant travaillait dans une zone nordique, normalement il le faisait à raison de 22 jours de travail d’affilée suivis d’une période de congé de 20 jours d’affilée. Il va sans dire que durant la période de congé, il quittait son chantier de travail, retournait à sa résidence dans la ville de Québec, pour y vivre pendant les prochains 20 jours d’affilée. C’est ainsi que se déroulait la période du 26 mars 2015 jusqu’au 17 décembre 2015, ce que démontre très clairement le tableau déposé par l’intimée comme pièce I-1, onglet 3. Ainsi et d’après ses calculs, il s’agissait donc d’une période totale de 275 jours, durant laquelle il aurait travaillé pendant 161 jours dans une zone nordique, c’est-à-dire 58.5% du temps en question. C’est sur cette base que par la suite celui-ci aurait réclamé des crédits, que lui refusait le ministre.
+[4] Donc, la question en litige entre les parties consiste à déterminer si l’appelant a résidé dans une région qui était visée par règlement pendant une période d’au moins six mois d’affilée ou plus, pendant ladite période, à partir du 26 mars 2015 jusqu’au 17 décembre 2015. Dans un premier temps, l’appelant prend la position que ses absences du chantier de travail, lorsqu’il retournait chez lui dans la ville de Québec, ne devraient pas entraîner une rupture de continuité de résidence dans ladite région nordique. Par contre, il se donne la peine de calculer le pourcentage du temps qu’il aurait dédié au travail en comparaison au temps passé en congé, pour établir semble-t-il que bel et bien, il en travaillait plus que la moitié du temps! S’agit-il d’une nouvelle façon de calculer les crédits pour ceux qui travaillent en régions nordiques? On en discute plus tard! Cependant d’après ses propres admissions, son principal lieu d’habitation était dans la ville de Québec.
+[5] En ce qui a trait à son travail dans une zone nordique, pour toute fin pratique, l’appelant possédait un emploi permanent, durant lequel, il était logé et nourri par son employeur. Nécessairement, ses activités étaient très limitées, son chantier de travail étant dans une région très isolée. D’après l’appelant, il n’y a rien à faire sauf manger, dormir et travailler des heures de fous. En fin de compte, « c’est la guerre » dit-il. Or, on peut facilement comprendre pourquoi les salaires de tels travailleurs sont généralement plus élevés que la norme et même pourquoi la Loi permet certaines concessions à ces gens.
+[6] Or, dans l’instance, est-ce que l’appelant a renversé la présomption de validité de l’avis de cotisation? Est-ce qu’il peut bénéficier de la déduction pour résident d’une région éloignée?
+[7] En l’instance, il faut souligner que l’intimée ne conteste pas que l’appelant travaillait dans une région éloignée. Cependant, elle conteste que celui-ci ait habité ou résidé pendant une période de six mois consécutifs dans une région éloignée. Or premièrement, en ce qui a trait à la période prescrite de « six mois » on s’entend que l’appelant quittait son chantier de travail de temps à autre et que ces absences ne le disqualifient pas nécessairement de réclamer les crédits tel il a tenté de le faire. Dans l’affaire Morecroft c. M.R.N. [1] , le juge Rip de la Cour canadienne de l’impôt indique ce qui suit :
+[…] Le fait qu’il quittait la région visée par règlement deux jours à la fois afin d’acheter des fournitures, ainsi que pour visiter sa famille à Nanaimo ou se rendre à Nanaimo afin de participer à des fêtes de famille, ne constitue pas à mes yeux une interruption de résider dans la région visée par règlement -- pas plus qu’un habitant de Vancouver qui peut avoir une maison de campagne dans l’État de Washington cesse d’être résident du Canada lorsqu’il se rend pour deux jours dans l’État de Washington afin d’y acheter des fournitures destinées à sa résidence de Vancouver.
+L’expression « d’affilée » signifie de manière continue ou sans interruption. Cependant, cette expression s’applique à la période de six mois durant laquelle une personne a résidé dans une région visée par règlement. Pour résider n’importe où, une personne n’est pas obligée de se trouver de manière constante et ininterrompue dans une région particulière. Le résident d’une région donnée peut la quitter à diverses occasions, pour des périodes de temps variables, tout en restant un résident de la région. Par conséquent, pour l’application de l’article 110.7, une personne peut quitter une région visée par règlement dans laquelle elle réside afin de se procurer des fournitures et de rendre visite à sa famille sans que cela n’entraîne une rupture de continuité de résidence dans cette région. La déduction prévue à l’article 110.7 est basée sur une raison précise, à savoir l’éloignement de la région dans laquelle le contribuable réside et travaille.
+[8] À ce sujet, l’on retrouve aussi des discussions intéressantes dans la décision Éric Desrosiers c. ARQ [2] . Il s’agit là d’une décision de la Cour du Québec (Division des petites créances) rendue par l’Honorable Hermina Popescu, J.C.Q. On s’entend que les dispositions légales pertinentes dans cette instance, bien que semblables, ne sont tout de même pas identiques à celles qui nous importent dans le contexte fédéral. D’autant plus, la Cour du Québec avait à sa disposition un Bulletin d’interprétation et des pratiques administratives qui n’existent pas dans notre cas. De toute façon, en voici un extrait qui, bien que théorique, pourrait être à la fois instructif, sinon utile.
+Bien que la période « d’au moins six mois consécutifs » ne soit pas précisée davantage dans la loi, l’intimée a comme politique interne d’exercer une certaine flexibilité dans son interprétation de cette condition, afin de tenir compte de la réalité des travailleurs en région éloignée. À cet égard, le bulletin d’interprétation IMP.350.1-1 énonce quelques situations où l’intimée considère qu’il n’y a pas eu interruption de la période de six mois consécutifs. Par exemple, un travailleur qui a travaillé et habité 35 jours dans une région éloignée, puis est revenu pour 10 jours à son principal lieu d’habitation serait considéré comme n’ayant pas interrompu la période de 6 mois. Le seuil de tolérance de l’intimée est établi comme étant un cycle composé à au moins 75% de jours en région éloignée.
+[9] Or dans l’instance, l’appelant se serait-t-il inspiré de ces passages dans l’affaire Desrosiers alors qu’il s’est donné la peine de calculer que sur une totalité de 275 jours, il aurait travaillé 161 jours, donc 58.5% de son temps durant la période en question? Comme je le disais auparavant, c’est sur cette base qu’il avait réclamé les crédits que lui refuse le ministre. Alors voilà où nous en sommes rendus.
+[10] L’intimée ne conteste pas que l’appelant travaillait dans une région éloignée. De plus, son avocat ne s’oppose pas nécessairement à une interprétation moins rigide, en ce qui a trait à la détermination d’une période dite de six mois consécutifs, ou comme l’exprime le Juge Rip dans Morecroft « au moins six mois d’affilée ». Or, compte tenu de la réalité des travailleurs en région éloignée, si l’on accepte que l’appelant avait le droit de quitter la région visée par règlement de temps à autre, pour se procurer quoi que ce soit, ou simplement prendre une pause santé mentale, tout en visitant les membres de sa famille à Québec, la Cour est en mesure de conclure que ces absences n’entraînent pas une rupture de continuité de résidence dans cette région. À mon avis, les absences de l’appelant n’influent pas sur la situation de sa résidence en région éloignée. Plutôt, la vraie question en litige entre les parties consiste à déterminer si l’appelant a résidé dans une région éloignée visée par règlement. Ainsi voilà que « résidé » constitue le mot-clef!
+[11] Alors sur ce sujet, revenons donc à l’affaire Morecroft, précitée, où le Juge Rip constate que l’intimé avait refusé la demande de l’appelant parce que celui-ci revenait régulièrement au lieu de résidence de sa famille. En conséquence, l’avocat soutenait que l’appelant ne résidait pas à un autre endroit tout au long de la période de six mois. Le but de l’article 110.7 de la Loi, selon l’avocat, était donc d’offrir un allégement aux personnes qui résidaient « en permanence » dans des régions éloignées. Sur ce point, le Juge Rip réplique comme suit:
+On trouve, au début du paragraphe 110.7(1) le verbe « réside » sans aucun autre qualificatif; il n’y pas de mots tels « ordinairement » ou « en permanence » qui modifient de quelque façon que ce soit le sens habituel du verbe « résider », habiter en permanence ou pendant une longue durée, ou avoir sa résidence fixe ou habituelle ou vivre à ou dans un endroit particulier.
+La Loi établit à au moins six mois d’affilée la durée de résidence, qui permet au contribuable d’avoir droit à la déduction.
+[12] Par la suite, le Juge Rip élabore sur sa définition de « résidence » et conclut qu’une personne pourrait possiblement posséder plus d’une résidence à la fois :
+Les tribunaux ont jugé que, pour l’application de la Loi, une personne pouvait résider à plus d’un endroit à la fois : Thomson v. M.N.R. L’article 110.7 n’oblige pas le contribuable à résider dans une seule région. Pour avoir droit de demander la déduction, il faut qu’elle réside dans une région visée par règlement pendant une période de six mois d’affilée; il n’y a rien dans cette disposition qui l’empêche de résider simultanément dans une autre région.
+[13] En fin de compte, dans l’affaire Morecroft, le Juge Rip note que l’appelant s’était doté d’un établissement domestique autonome dans une région visée par règlement et qu’il avait résidé et travaillé dans cette région pendant sept mois et demi. Il en conclut comme suit :
+[…] Comme je l’ai déjà déclaré, les visites que l’on peut rendre occasionnellement à sa famille ne devraient pas influer -- et n’influent pas à mon avis --, sur la situation de résidence d’un contribuable pour l’application de l’article 110.7. Il est bien évident que l’appelant avait des liens à Nanaimo et il se peut que cette ville ait constitué son lieu de résidence ordinaire. Cependant en 1988, il a résidé dans une région visée par règlement pendant une période de plus de six mois d’affilée.
+[14] Je constate que dans l’affaire Morecroft, la Cour a admis l’appel avec frais, ayant conclu que le contribuable avait établi une « résidence » dans une région éloignée visée par règlement. Pour ce qui est de l’appelant, ce qui distingue sa cause, c’est qu’à mes yeux, il n’a pas démontré qu’il avait « résidé » comme tel, dans une région visée par règlement, pendant une période de plus de six mois d’affilée. Même si l’on emprunte une interprétation généreuse de l’article 110.7 de la Loi, tout en soutenant l’approche que nous recommande le Juge Rip dans la décision Morecroft, le fait demeure que l’appelant n’a pas réussi à établir une « résidence » autre que temporaire, dans le chantier de travail où il se retrouvait durant l’année d’imposition 2015. À ce sujet, je me penche sur les commentaires du Juge Linden dans la décision Dixon c. Canada [3] où il fait référence à l’arrêt Thomson v M.N.R. [4] , comme suit :
+[TRADUCTION]
+D’après le dictionnaire et d’après l’interprétation que les tribunaux donnent de ces termes, un individu est « résident habituel » du lieu où, dans sa vie de tous les jours, il habite d’une manière régulière, normale ou habituelle. On « séjourne » à un endroit que l’on visite ou dans un lieu où l’on demeure exceptionnellement, occasionnellement ou par intermittence. Dans le premier cas, c’est le caractère permanent qui prédomine et dans le second, le caractère temporaire. La différence ne peut être exprimée d’une manière claire et nette, chaque cas devant être déterminé compte tenu de tous les facteurs pertinents, mais ce qui précède indique d’une façon générale la différence essentielle. Ce n’est pas la longueur de la visite ou du séjour qui détermine la question.
+Bien que cette déclaration soit probablement obiter, cette définition du terme séjourner a résisté au passage du temps.
+[15] Or en l’instance, contrairement au contribuable dans Morecroft, l’appelant était nourri par son employeur et logé dans une chambre, qu’il devait céder à son remplaçant, lorsqu’il quittait son chantier de travail, durant une période de congé. C’est alors qu’il retournait à sa résidence ordinaire dans la ville de Québec. À toute les fois qu’il quittait les lieux de travail, il devait apporter ses biens personnels avec lui, car il ne disposait même pas d’entreposage. D’autant plus, en aucun temps il n’aurait possédé un établissement domestique autonome, dans une région visée par règlement. De plus l’appelant tente de démontrer qu’il a droit au crédit réclamé dans sa déclaration de revenus, basé sur un calcul de pourcentage. On va se rappeler que d’après lui, les 161 jours qu’il aurait travaillés sur 275 jours, constituait 58.5% du temps qu’il aurait passé dans ce chantier de travail, durant l’année d’imposition 2015. Je reconnais que d’après l’article 110.7, la Loi semble exiger une période de résidence d’au moins six mois d’affilée ou plus, ce qui se traduit à plus que 50% d’un an. Néanmoins, à mon avis, une telle façon d’établir un droit aux bénéfices contemplés à l’article 110.7 et basée sur le « pourcentage » n’existe toujours pas.
+[16] À mon avis, compte tenu de toutes les circonstances entourant la situation personnelle de l’appelant, celui-ci « séjournait » dans la région éloignée en question. Le plus que l’on puisse dire à son égard, c’est qu’il demeurait par intermittence sur ce chantier de travail, ne possédant même pas les moyens d’établir une « résidence » dans le sens de l’article 110.7 de la Loi et ceci, même si cela aurait été son intention. Le mieux auquel il pouvait s’attendre, c’était que son employeur lui offre une chambre lors de ces jours de travail. Lorsqu’il se retrouvait en congé, celui-ci n’avait aucun choix que de céder sa chambre à un collègue et de s’en aller chez lui à Québec. Bien qu’en général les avantages et bénéfices qu’un employé reçoit dans le cadre d’un emploi soient imposables, l’appelant pourrait peut-être obtenir un allégement en demandant que de tels bénéfices soient exclus de son revenu, si cela ne l’a pas déjà été fait.
+[17] Mais, pour les raisons sur lesquelles je viens d’élaborer dans l’instance, je me retrouve dans l’obligation de rejeter cet appel, et ce, sans frais.
+Signé à Ottawa, Canada, ce 11e jour de mai 2018.
+« Robert N. Fournier »
+Juge suppléant Fournier
+RÉFÉRENCE :
+2018 CCI 94
+Nº DU DOSSIER DE LA COUR :
+2017-3409(IT)I
+INTITULÉ DE LA CAUSE :
+JÉRÔME TALBOT c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+Le 1er mai 2018
+MOTIFS DE JUGEMENT PAR :
+L’honorable Robert N. Fournier, juge suppléant
+DATE DU JUGEMENT :
+Le 11 mai 2018
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Julien Dubé-Senécal
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] 1991 CarswellNat 587, [1991] 2 C.T.C. 2265, 91 D.T.C. 937.
+[2] 2015 QCCQ 14837.
+[3] [2001] CAF 216.
+[4] [1946] 2 DTC 812.

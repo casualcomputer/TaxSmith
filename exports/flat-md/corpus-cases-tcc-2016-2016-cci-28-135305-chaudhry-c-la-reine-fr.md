@@ -1,0 +1,160 @@
+---
+title: "Chaudhry c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/135305/index.do"
+last_modified: "2016-01-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 CCI 28"
+citation2: ""
+neutral_citation: "2016 CCI 28"
+decision_date: "2016-01-29"
+language: "fr"
+item_id: "135305"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3017
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:11:35.207000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "575cb29b94c4336bfc517943e66069cc80a8cb83ba0af75e6f62d4b0b5e047d2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chaudhry c. La Reine
+
+- Citation: 2016 CCI 28
+- Decision date: 2016-01-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3017, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chaudhry c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-01-29
+Référence neutre
+2016 CCI 28
+Numéro de dossier
+2015-2160(IT)I
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2160(IT)I
+ENTRE :
+NASEER AHMAD CHAUDHRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée
+[TRADUCTION FRANÇAISE]
+Appel entendu le 30 novembre 2015 à Winnipeg, au Canada.
+Devant : L’honorable juge Randall S. Bocock
+Comparutions :
+Représentant de l’appelant :
+Me Chris Shannon
+Avocate de l’intimée :
+Me Larissa Benham
+JUGEMENT
+CONFORMÉMENT aux motifs du jugement ci-joints, l’appel relatif à la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), pour l’année d’imposition 2012 est rejeté.
+Signé à Ottawa, Canada, ce 29e jour de janvier 2016.
+« R. S. Bocock »
+Juge Bocock
+Référence : 2016 CCI 28
+Date : 20160129
+Dossier : 2015-2160(IT)I
+ENTRE :
+NASEER AHMAD CHAUDHRY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bocock
+[1] La nature du présent appel peut être résumée brièvement. Aucun fait n’est contesté. Aucun argument n’a été présenté devant la Cour concernant les détails de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.) [la « Loi »]. L’argument purement juridique de l’appelant, avancé par son représentant, Me Chris Shannon, était plutôt que la question de la législation comprenant la Loi en soi n’avait pas été soulevée à bon droit devant la Cour.
+[2] Cet argument unique doit être expliqué de façon plus approfondie et résumé. L’appelant prétend que la Cour ne dispose d’aucun élément de preuve permettant de déterminer que le ministre avait établi la nouvelle cotisation (ou la cotisation, en l’espèce) de M. Chaudhry en vertu de la version officielle de la Loi adoptée par le Parlement et certifiée par le greffier du Parlement.
+[3] Le représentant de M. Chaudhry soutient que les articles 3, 4, 5, 6 et 7 de la Loi sur la publication des lois, L.R.C. (1985), ch. S-21 régit la façon dont les lois sont certifiées, gardées en dépôt et publiées après avoir été promulguées par le Parlement. Il conclut que ces exigences n’ont pas été respectées pour les motifs décrits ci-après.
+[4] D’abord, l’article 3 de la Loi sur la publication des lois prévoit que tous les originaux des lois adoptées par le Parlement et sanctionnées par le gouverneur général doivent être gardés en dépôt par le greffier du Sénat.
+[5] Le greffier du Sénat doit fournir à l’imprimeur de la Reine un exemplaire visé de chaque loi du Parlement, aussitôt qu’elle a reçu la sanction royale. L’imprimeur de la Reine doit ensuite imprimer et distribuer les lois en vertu des dispositions énoncées aux articles 9 à 14 de la Loi sur la publication des lois.
+[6] Le greffier du Sénat a un sceau d’office qu’il appose aux exemplaires visés de toutes les lois dont la production est requise devant les tribunaux judiciaires, soit au Canada, soit à l’étranger. Les exemplaires des lois sont réputés des doubles des originaux et font foi de ces lois. Plus particulièrement, les articles visés se lisent comme suit :
+4 Le greffier des Parlements a un sceau d’office qu’il appose aux exemplaires visés de toutes les lois dont la production est requise devant les tribunaux judiciaires, soit au Canada, soit à l’étranger, et dans tous les autres cas où il le juge à propos.
+5 Les exemplaires des lois, visés par le greffier des Parlements conformément à l’article 4, sont réputés des doubles des originaux et font foi de ces lois et de leur contenu comme s’ils avaient été imprimés sous l’autorité du Parlement par l’imprimeur de la Reine. [Non souligné dans l’original.]
+[7] De plus, le greffier du Sénat doit fournir un exemplaire visé de chacune des lois dont il a la garde à toute personne qui en fait la demande, en vertu de l’article 7 de la Loi sur la publication des lois. Chacun de ces exemplaires est considéré comme une copie conforme de la loi adoptée par le Parlement. Un extrait de la disposition se lit comme suit :
+7 Le greffier des Parlements fournit des exemplaires visés de chacune des lois mentionnées à l’article 3 [...] à toute personne qui en fait la demande [...].
+[8] En tenant compte des articles 4 et 5, le représentant de M. Chaudhry affirme ce qui suit :
+a) La production d’un exemplaire scellé de la Loi est requise devant les tribunaux judiciaires au Canada.
+b) Seuls les exemplaires des lois, visés par le greffier conformément à l’article 4, font foi de ces lois et de leur contenu comme s’ils avaient été imprimés sous l’autorité du Parlement par l’imprimeur de la Reine.
+[9] En bref, le représentant de l’appelant affirme que le ministre n’a pas produit un exemplaire certifié de la Loi devant la Cour et que l’avocate de l’intimée n’a pas demandé d’exemplaire au greffier du Sénat.
+[10] Sur ce fondement, la Cour ne dispose d’aucun élément de preuve indiquant que la nouvelle cotisation de l’appelant a été établie par le ministre en vertu d’une législation existante valablement promulguée. Les renvois aux exemplaires publiés par des tiers ou à des reproductions sur le Web sont tout simplement insuffisants pour être légalement conformes aux exigences établies dans la Loi sur la publication des lois.
+[11] En réponse aux questions de la Cour, le représentant de l’appelant a confirmé qu’à part une simple lecture des lois, aucun fondement juridique ne permettait d’appuyer cet argument. Il a également confirmé qu’il n’y avait aucun autre motif d’appel, y compris ceux cités dans l’avis d’appel, que le représentant a ignorés devant la Cour.
+[12] La question reste à déterminer si la production de l’exemplaire de la Loi ayant été certifié par le greffier du Sénat est requise devant la Cour. Si ce n’est pas le cas, une autre question à trancher demeure celle de savoir quel fondement juridique la Cour doit avoir pour établir un renvoi à d’autres sources et être saisie de telles sources à titre de version actuelle en vigueur de la Loi. La Cour a décidé d’examiner ces arguments dans un jugement écrit pour deux motifs : l’absence actuelle d’une décision à cet égard dans la jurisprudence ainsi que la fréquence à laquelle cette importante loi du Parlement a été modifiée et le nombre de modifications qui y ont été apportées.
+[13] Le présent appel est rejeté pour les motifs qui suivent. Il existe une sécurité juridique qui permet à la Cour de se fonder sur une version certifiée authentique et accessible par le public de la Loi et, ainsi, de toute autre législation et tout autre règlement du Parlement.
+[14] D’abord, les articles 2 et 26 de la Loi sur la révision et la codification des textes législatifs, L.R.C. (1985), ch. S-20 (la « LRCTL ») permet au ministre de la Justice et au procureur général du Canada (le « ministre ») de tenir une codification des lois publiques du Canada.
+2 Les définitions qui suivent s’appliquent à la présente loi.
+ministre Le ministre de la Justice et procureur général du Canada.
+26 Le ministre peut tenir une codification des lois publiques du Canada et une codification des règlements du Canada.
+[15] À cet égard, le ministre peut faire en sorte que les lois codifiées soient publiées sur support papier ou sur support électronique. Ce pouvoir est prévu par le paragraphe 28(1) de la LRCTL.
+28 (1) Le ministre peut faire en sorte que les lois codifiées ou les règlements codifiés soient publiés sur support papier ou sur support électronique, de la manière et selon la fréquence qu’il juge indiquées.
+[16] La codification des lois permet au ministre de publier une loi parlementaire et toutes les modifications subséquentes de manière cumulative. À titre d’exemple légèrement ironique, l’ancienne Loi sur la révision des lois, 1974-75-76, ch. 20, art. 1., a été révisée et promulguée en 1985. Le 31 décembre 2002, de nombreux articles de la Loi sur la révision des lois ont été modifiés, ajoutés ou abrogés. Cela s’est produit de nouveau le 1er juin 2009. Comme ces modifications sont combinées avec la version originale de la Loi sur la révision des lois, une version combinée de la loi codifiée figure sur le site Web du ministère de la Justice. Des exemples de modifications importantes comprennent l’ajout des articles 26 à 32 et le remplacement du titre Loi sur la révision des lois par le titre Loi sur la révision et la codification des textes législatifs. Le pouvoir de codifier l’ensemble de la législation fédérale (lois et règlements) est expressément accordé au ministre en vertu de l’article 26 de la LRCTL.
+[17] Il est tout aussi important de noter qu’en vertu du paragraphe 31(1) de la LRCTL, tout exemplaire d’une loi codifiée sur support papier ou sur support électronique publié par le ministre fait foi de cette loi.
+31 (1) Tout exemplaire d’une loi codifiée ou d’un règlement codifié, publié par le ministre en vertu de la présente loi sur support papier ou sur support électronique, fait foi de cette loi ou de ce règlement et de son contenu. Tout exemplaire donné comme publié par le ministre est réputé avoir été ainsi publié, sauf preuve contraire.
+[18] En cas d’incohérence entre les lois codifiées publiées par le ministre et la loi d’origine ou les modifications retenues par le greffier du Sénat, la loi d’origine ou les modifications prévalent. En effet, le paragraphe 31(2) de la LRCTL prévoit ce qui suit :
+31(2) Les dispositions de la loi d’origine avec ses modifications subséquentes par le greffier des Parlements en vertu de la Loi sur la publication des lois l’emportent sur les dispositions incompatibles de la loi codifiée publiée par le ministre en vertu de la présente loi.
+[19] L’article 18 de la Loi sur la preuve au Canada, L.R.C. (1985), ch. C-5, prévoit que toute loi parlementaire, d’intérêt public ou privé, n’a pas besoin d’être plaidée devant un tribunal pour qu’une preuve à cet égard soit établie.
+18 Sont admises d’office les lois fédérales, d’intérêt public ou privé, sans que ces lois soient spécialement plaidées.
+[20] En résumé, la Cour conclut ce qui suit :
+(i) Les exemplaires certifiés par le greffier du Sénat des lois publiques n’ont pas besoin d’être présentés devant la Cour.
+(ii) Les exemplaires de la Loi sur support électronique qui sont imprimés à partir du site Web du ministère de la Justice et qui contiennent l’imprimatur des paragraphes 31(1) et (2) de la LRCTL sont des exemplaires officiels des lois et règlements fédéraux.
+(iii) Après avoir été présentée devant la Cour, comme il est indiqué ci-dessus, la version constitue une loi du Parlement et est admise d’office.
+[21] En conclusion, la Cour peut se fonder sur l’extrait de la Loi ayant été présenté par l’intimée qui contient les paragraphes 31(1) et (2), lesquels sont imprimés automatiquement avec tout extrait. Aucun autre élément de preuve n’est requis. De plus, le représentant de l’appelant n’a pas affirmé que deux versions distinctes de la Loi devaient être rapprochées en vertu du paragraphe 31(2) de la LRCTL.
+[22] Par ces motifs, comme il a été déclaré, le présent appel est rejeté.
+Signé à Ottawa, Canada, ce 29e jour de janvier 2016.
+« R. S. Bocock »
+Juge Bocock
+RÉFÉRENCE :
+2016 CCI 28
+Nº DU DOSSIER DE LA COUR :
+2015-2160(IT)I
+INTITULÉ :
+NASEER AHMAD CHAUDHRY c. LA REINE
+LIEU DE L’AUDIENCE :
+Winnipeg (Manitoba)
+DATE DE L’AUDIENCE :
+Le 30 novembre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge Randall S. Bocock
+DATE DU JUGEMENT :
+Le 29 janvier 2016
+COMPARUTIONS :
+Représentant de l’appelant :
+Me Chris Shannon
+Avocate de l’intimée :
+Me Larissa Benham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

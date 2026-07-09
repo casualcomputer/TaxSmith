@@ -1,0 +1,232 @@
+Title: Hedzic c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31264/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-249-31264-hedzic-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-08-08
+
+# Hedzic c. La Reine
+
+- Citation: 2013 CCI 249
+- Decision date: 2013-08-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5105, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hedzic c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-08-08
+Référence neutre
+2013 CCI 249
+Numéro de dossier
+2012-1007(IT)I
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1007(IT)I
+ENTRE :
+HAJRUDIN HEDZIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Fikreta Hedzic (2012-1008(IT)I), les 22 et 23 avril 2013,
+à Québec (Québec).
+Devant : L'honorable juge Johanne D'Auray
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Simon Vincent
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2007 et 2008 est admis, sans frais, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations comme suit :
+- ajouter à l’avoir net conjoint un montant de 5 000 $ à l’actif à court terme « argent en mains – coffret de sûreté » pour l’année d’imposition 2007;
+- réduire à néant l’actif à court terme conjoint « argent en mains – coffret de sûreté » pour l’année d’imposition 2008;
+- soustraire de l’avoir net conjoint les montants de 2 427,72 $, 749,26 $ et 4 000,00 $ à titre de dépenses personnelles pour l’année d’imposition 2007;
+- soustraire de l’avoir net conjoint le montant de 1 061,45 $ à titre de dépenses de transport pour l’année d’imposition 2008;
+- soustraire de l’avoir net conjoint les montants de 2 441,00 $ et 12 576,77 $ à titre de dépenses personnelles pour l’année d’imposition 2008;
+- annuler les pénalités imposées par le ministre en vertu du paragraphe 163(2) de la Loi.
+Ce jugement modifié est émis en remplacement du jugement daté du 8e jour d’août 2013.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2013.
+« Johanne D’Auray »
+Juge D'Auray
+Dossier : 2012-1008(IT)I
+ENTRE :
+FIKRETA HEDZIC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Hajrudin Hedzic (2012-1007(IT)I), les 22 et 23 avril 2013,
+à Québec (Québec).
+Devant : L'honorable juge Johanne D'Auray
+Comparutions :
+Représentant de l'appelante :
+Hajrudin Hedzic
+Avocat de l'intimée :
+Me Simon Vincent
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2007 et 2008 est admis, sans frais, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations comme suit :
+- ajouter à l’avoir net conjoint un montant de 5 000 $ à l’actif à court terme « argent en mains – coffret de sûreté » pour l’année d’imposition 2007;
+- réduire à néant l’actif à court terme conjoint « argent en mains – coffret de sûreté » pour l’année d’imposition 2008;
+- soustraire de l’avoir net conjoint les montants de 2 427,72 $, 749,26 $ et 4 000,00 $ à titre de dépenses personnelles pour l’année d’imposition 2007;
+- soustraire de l’avoir net conjoint le montant de 1 061,45 $ à titre de dépenses de transport pour l’année d’imposition 2008;
+- soustraire de l’avoir net conjoint les montants de 2 441,00 $ et 12 576,77 $ à titre de dépenses personnelles pour l’année d’imposition 2008;
+- annuler les pénalités imposées par le ministre en vertu du paragraphe 163(2) de la Loi.
+Ce jugement modifié est émis en remplacement du jugement daté du 8e jour d’août 2013.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2013.
+« Johanne D’Auray »
+Juge D'Auray
+Référence : 2013 CCI 249
+Date : 20131108
+Dossier : 2012-1007(IT)I
+ENTRE :
+HAJRUDIN HEDZIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2012-1008(IT)I
+ENTRE :
+FIKRETA HEDZIC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+La juge D'Auray
+[1] Les appelants, M. Hajrudin Hedzic et Mme Fikreta Hedzic contestent les cotisations établies par le ministre du Revenu national (le « ministre ») pour les années d’imposition 2007 et 2008. Le ministre a ajouté au revenu de M. Hedzic et au revenu de Mme Hedzic des montants 15 790 $ pour 2007 et de 25 651 $ pour 2008 à titre de revenus non déclarés. M. Hedzic et Mme Hedzic (les « Hedzic ») avaient chacun déclaré 19 160 $ pour l’année d’imposition 2007 et 14 216 $ pour l’année d’imposition 2008.
+[2] Des pénalités ont aussi été imposées en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »). Selon le ministre, M. Hedzic et Mme Hedzic auraient fait sciemment ou dans des circonstances équivalant à une faute lourde, un faux énoncé ou une omission dans leurs déclarations de revenus pour les années 2007 et 2008.
+[3] Les appels ont été entendus sur preuve commune. M. Hedzic a agi à titre d’agent pour sa conjointe, Mme Fikreta Hedzic, et s’est représenté lui-même.
+Faits
+[4] M. Hedzic était juriste en Bosnie. En raison de la guerre en Bosnie, il est venu vivre avec sa conjointe au Québec. À son arrivée, il travaille à l’Île d’Orléans sur une ferme vouée à la culture de petits fruits. Il travaille aussi comme livreur pour une pizzeria, avant d’acheter une part dans un restaurant qu’il vend en 2003 pour 20 000 $.
+[5] En 2001, il achète une épicerie qui se spécialise dans la vente de produits européens. Il a vendu cette épicerie en 2003 pour 32 500 $.
+[6] Toujours en 2003, il ouvre avec sa conjointe une pizzeria sous la raison sociale, Pizza Jumelle 2003, située au 833, avenue Myrand à Québec.
+[7] Les Hedzic ont trois enfants; deux filles, Alma, Amra et un garçon, Amer. Pendant les années en litige, les Hedzic ne sont pas responsables financièrement de leurs enfants, bien qu’à l’occasion ils les assistent financièrement. Amer travaille à la pizzeria durant les années en litige.
+[8] Lors de l’audience, les Hedzic ont apporté huit boîtes de documents contenant les factures émises à la pizzeria et lors des livraisons, ainsi que tous les rubans Z de caisse pour les années en litige. Cependant, aucune conciliation entre les factures et les rubans Z de caisse n’a été mise en preuve par les Hedzic.
+[9] M. Garneau de l’agence du Revenu du Canada (« ARC ») a témoigné pour l’intimée. Il a fait la vérification dans les dossiers des Hedzic. Il est C.M.A et travaille à l’ARC depuis 4½ ans. Au préalable, il a travaillé pour l’Agence du revenu du Québec et dans le secteur privé.
+[10] Lors de l’examen des déclarations de revenus des Hedzic, M. Garneau a jugé que les revenus déclarés étaient faibles. Il a donc analysé différentes méthodes pour déterminer les revenus bruts de la pizzeria avant d’opter pour la méthode de l’avoir net. Il a examiné les ventes de la pizzeria sur une période de six jours et cette méthode n’a pas été concluante, car la somme des factures n’égalait pas le total des rubans Z de caisse. Il a aussi fait une analyse des dépôts qui s’est avérée non concluante, car M. Hedzic prenait de l’argent de la caisse pour payer certaines dépenses de la pizzeria ainsi, toutes les sommes gagnées n’étaient pas déposées. La méthode de calcul des boîtes de pizza a aussi été non concluante; la pizzeria avait un menu varié, de plus une boîte n’équivalait pas nécessairement à une vente. Il a donc procédé par la méthode de l’avoir net.
+[11] Suite à l’autorisation des Hedzic, M. Garneau a obtenu des institutions financières et organismes gouvernementaux les relevés de cartes de crédit, les relevés des comptes bancaires, le relevé des entrées et sorties au coffre de sûreté, le relevé des automobiles immatriculées au nom des Hedzic, un rapport d’Equifax Canada et autres documents pertinents à l’avoir net.
+[12] J’ai reproduit en annexe, l’avoir net établi par le ministre du Revenu national.
+[13] M. Hedzic fait valoir que le ministre a erré :
+ii) en ne tenant pas compte des montants qu’il détenait dans leur coffret de sûreté, suite à la vente des deux commerces en 2003 et en ne tenant pas compte de son salaire et celui de sa conjointe;
+iii) en ajoutant aux actifs à long terme en 2008, des actifs dont les Hedzic n’étaient pas les propriétaires;
+iv) en ajoutant erronément des dépenses personnelles. Ces dépenses sont inscrites à la rubrique « dépenses personnelles – autres dépenses » à l’annexe IV de l’avoir net.
+Analyse
+[14] Dans les dossiers impliquant des avoirs nets, ce sont les contribuables qui ont le fardeau de la preuve. Il revient au contribuable de faire la preuve que les montants composant l’avoir net établi par le ministre sont erronés.
+[15] Dans l’affaire Léger c Sa Majesté la Reine, 2001 DTC 471, [2003] 1 CTC 2437, mon collègue, le juge Archambault, traite du fardeau de la preuve en citant la décision Bastille rendue par le juge Favreau et Ramey rendue par le juge Bowman, aux paragraphes 13 et suivants:
+[13] Tout d'abord, il faut traiter du fardeau de la preuve qui incombe à monsieur Léger dans ses appels. Mon collègue le juge Tardif a eu l'occasion de traiter du fardeau de la preuve dans une affaire soulevant, comme c'est le cas ici, la question de l'application de la méthode de l'avoir net.
+[14] Dans l'affaire Bastille c. Sa Majesté la Reine, 99 DTC 431 ([1999] 4 C.T.C. 2155), il écrit aux paragraphes 5 et suivants :
+[5] Il m'apparaît important de rappeler qu'en cette matière, le fardeau de la preuve incombe aux appelants, à l'exception toutefois de la question des pénalités où le fardeau de preuve est imputable à l'intimée.
+[6] Une cotisation établie en vertu de la formule AVOIR NET ne peut jamais découler de la rigueur mathématique souhaitée et souhaitable en matière de cotisation. Il y a généralement une certaine partie d'arbitraire provenant de la détermination de la valeur des composantes. Le Tribunal doit décider de la raisonnabilité de cet arbitraire.
+[7] Le recours à ce procédé n'est d'ailleurs pas la règle. Il constitue en quelque sorte une exception utilisée dans les situations où le contribuable n'a pas en sa possession toutes les informations, documents et pièces justificatives pour permettre une vérification plus conforme aux règles de l'art et surtout plus précise quant au résultat.
+[8] Les assises ou fondements des calculs élaborés dans le cadre d'un avoir net sont tributaires en très grande partie des informations transmises par le contribuable faisant l'objet de la vérification.
+[9] La qualité, la vraisemblance, la raisonnabilité des informations ont donc une importance absolument fondamentale.
+[15] Un autre de mes collègues, le juge Bowman, tenait les propos suivants dans l'affaire Ramey c. la Reine, [1993] A.C.I. no 142 (QL) ([1993] 2 C.T.C. 2119, 93 DTC 791), au paragraphe 6 :
+Je ne sous-estime pas les difficultés énormes, sinon pratiquement insurmontables, auxquelles l'appelant et son avocat se heurtent dans leur tentative de contester les cotisations d'actif net établies à l'égard d'un contribuable décédé. Estimer le revenu annuel d'un contribuable à partir de la valeur de son actif net est une méthode insatisfaisante et imprécise. C'est un instrument grossier que le ministre doit utiliser en dernier ressort. Une cotisation d'actif net repose sur une comparaison de l'actif net du contribuable, à savoir la valeur de l'actif moins le passif au début d'une année, avec son actif net à la fin de l'année. À la différence ainsi obtenue, on ajoute les dépenses qu'il a engagées pendant l'année. Le montant obtenu est réputé être le revenu du contribuable, sauf preuve contraire. Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu'à preuve de leur inexactitude. Il est quasi impossible de les contester à la pièce. La seule façon vraiment efficace de les contester est de procéder à une reconstitution complète du revenu du contribuable pour l'année. Un contribuable dont les registres comptables et le mode de déclaration de revenus sont dans un tel fouillis que la cotisation d'actif net s'impose est souvent l'artisan de son propre malheur.
+[Note de bas de page omise]
+Actif à court terme au 31 décembre 2003
+[16] M. Hedzic allègue qu’au 31 décembre 2006, lui et son épouse avaient en argent en mains, la somme de 76 305,97 $ calculée de la façon suivante :
+En 2003
+Vente du restaurant en
+2003 :
+20 000,00 $
+Vente de l’épicerie en 2003:
+32 500,00 $
+Revenu de Mme Hedzic chez Légubec :
+8 394,00 $
+Total 2003
+61 394,00 $
+En 2002
+Revenu de M. Hedzic :
+20 602,00 $
+Revenu de Mme Hedzic 12 261 $ + 8 394.25 $ :
+12 621,00 $
+Total 2002
+94 617,29 $
+Mise de fonds pour le restaurant JumellePizza2003 :
+- 5 000,00 $
+Achat d’équipement pour la pizzeria :
+- 13 311,32 $
+76 305,97 $
+[17] Selon M. Hedzic, le montant de 76 305,97 $ a servi à payer les cartes de crédit en 2007 et à la mise de fonds sur la maison que lui et sa conjointe ont achetée en 2008. M. Hedzic fait valoir que cet argent était placé dans un coffret de sûreté, car il ne faisait pas confiance aux banques. Il dit avoir perdu un montant de 100 000 $ pendant la guerre, dans des banques en Bosnie. Cependant, lors du contre-interrogatoire, il a été démontré par le dépôt du relevé de l’institution financière, que les montants de 32 500 $ et 20 000 $ déposés en 2003 à la Caisse populaire Desjardins du Vallon pour la vente de l’épicerie et le restaurant ont surtout servi à payer des comptes. De plus, sauf pour un montant de 10 000 $ pour lequel les dates concordent, le registre des dates des entrées et des sorties au coffret de sûreté ne concorde pas avec les journées où M. Hedzic retire de l’argent de son compte à la Caisse populaire Desjardins pour le déposer dans son coffret de sûreté.
+[18] J’accepte que les Hedzic détenaient un montant de 10 000$ dans leur coffret de sûreté au 31 décembre 2006. Le témoignage de M. Hedzic est confirmé par la preuve documentaire démontrant la concordance entre la date de retrait du 10 000 $ et la date d’entrée au coffret de sûreté. Un montant de 5 000 $ avait déjà été accordé par le ministre sous la rubrique « argent en mains - coffret de sûreté », il faudra ainsi ajouter à l’avoir net des Hedzic un montant de 5 000 $ à la rubrique « argent en mains - coffret de sureté » au 31 décembre 2006 et au 31 décembre 2007. Cependant, en ce qui a trait l’avoir net au 31 décembre 2008, il ne devrait y avoir aucun montant sous la rubrique « argent en mains - coffret de sûreté », car les Hedzic ont utilisé ce montant pour l’achat de la maison en 2008. À part ces ajustements, il n’y aura pas d’autres ajustements sous la rubrique « argent en mains - coffret de sûreté ».
+[19] Je n’accepte pas la version de M. Hedzic quant aux montants des liquidités qu’il fait valoir que lui et sa conjointe détenaient au 31 décembre 2006. Le témoignage de M. Hedzic était particulièrement flexible sur cet aspect. M. Hedzic, après avoir fait valoir qu’ils détenaient environ 95 000 $ s’est ravisé suite au contre-interrogatoire, pour faire valoir qu’ils détenaient des liquidités d’environ 23 000 $ au 31 décembre 2006. Le compte des Hedzic à la Caisse populaire ne reflète pas ce montant et de plus, de ce montant de 23 000 $, aucun montant n’a été soustrait par les Hedzic pour le coût de la vie.
+Actif à long terme
+[20] En ce qui a trait à l’actif à long terme, les seuls montants contestés par les Hedzic sont des achats de mobilier chez Ameublements Tanguay et Meubles Léon en 2008. Selon M. Hedzic, ces montants ne devraient pas être inclus dans les actifs à long terme, car ces achats n’étaient pas pour lui et son épouse, mais pour ses enfants.
+[21] Aucune preuve n’a été présentée pour appuyer les prétentions de M. Hedzic. Toutes les factures sont faites en son nom. M. Hedzic n’a pas jugé nécessaire de faire témoigner sa conjointe et son fils Amer pour corroborer sa version des faits, bien que ces derniers étaient présents lors de l’audience. Je trouve important de citer un passage de la décision Léger quant à l’omission d’un contribuable de faire comparaître certains témoins pour corroborer son témoignage. Le juge Archambault écrit au paragraphe 16 de ses motifs le commentaire suivant :
+[16] Dans ces appels, seul monsieur Léger a témoigné à l'appui de sa position et, pour l'intimée, la vérificatrice qui était à l'origine des cotisations a témoigné. Dans l'appréciation de la preuve fournie par monsieur Léger, il est nécessaire de commenter l'omission de faire comparaître certains témoins qui auraient pu confirmer les affirmations de monsieur Léger. Dans l'affaire Huneault c. la Reine, 98 DTC 1488, ma collègue la juge Lamarre rappelle à la page 1491 certains propos que tiennent les auteurs Sopinka et Lederman dans leur livre The Law of Evidence in Civil Cases et qui sont cités par le juge Sarchuk de notre cour dans l'affaire Enns v. M.N.R., 87 DTC 208, à la page 210 :
+Dans l'ouvrage de Sopinka et Lederman, The Law of Evidence in Civil Cases, les auteurs font remarquer ce qui suit au sujet des conséquences de l'omission de faire comparaître un témoin, je cite :
+Dans l'affaire Blatch v. Archer, (1774) 1 Cowp 63, à la p. 65, Lord Mansfield a déclaré :
+Il existe certainement un principe voulant que tous les faits soient appréciés à la lumière de la preuve que l'une des parties était en mesure de produire et que l'autre partie était en mesure de réfuter.
+L'application de ce principe a conduit à établir une règle bien connue selon laquelle l'omission d'une partie ou d'un témoin de produire une preuve que la partie ou le témoin était en mesure de produire et qui aurait peut-être permis d'élucider les faits, fonde la Cour à déduire que la preuve de la partie ou du témoin en question aurait été défavorable à la partie à laquelle l'omission a été attribuée.
+Dans le cas d'un demandeur auquel il incombe d'établir un point, l'effet de cette déduction peut être que la preuve produite sera insuffisante pour s'acquitter du fardeau de la preuve. (Lévesque et al., c. Comeau et al. [1970] R.C.S. 1010, (1971), 16 D.L.R. (3e) édition 425.)
+[22] De plus, si les achats étaient effectivement pour les enfants, M. Hedzic n’a pas établi en preuve que ces derniers les avaient remboursés. Les achats sont faits en 2008, l’année où les Hedzic ont acheté leur maison. De plus, certaines factures d’Ameublement Tanguay déposées en preuve par M. Hedzic n’étaient pas incluses dans l’avoir net, le vérificateur n’avait pas ces factures lors de l’établissement de l’avoir net. L’avoir net des actifs à long terme était donc sous‑évalué pour 2008.
+[23] Ainsi, à la lumière de la preuve, M. Hedzic ne m’a pas convaincue du bien-fondé de sa position. Il n’y aura aucun changement apporté à l’avoir net quant aux actifs à long terme.
+Passif à court terme 2007 et 2008
+[24] Les Hedzic ne contestent aucun montant quant aux passifs à court terme. Cependant, il est à noter que la majeure partie des fluctuations de l’avoir net découle des passifs à court terme. Au 31 décembre 2006, les Hedzic ont des dettes découlant des cartes de crédit pour un montant de 39 830,73 $. Au 31 décembre 2007, ces dettes s’élevaient à 5 660,38 $. Donc, entre la fin 2006 et la fin 2007, les Hedzic ont payé un montant de 34 170,35 $ pour réduire les dettes relatives à leurs cartes de crédit, alors que leurs revenus combinés sont de 28 432 $ en 2007.
+Dépenses personnelles en 2007
+[25] Les Hedzic détiennent plusieurs cartes de crédit. Durant l’année 2007, M. Hedzic paye certaines cartes de crédit avec d’autres cartes de crédit afin de bénéficier d’un meilleur taux d’intérêt.
+[26] À cet effet, le 3 février 2007, M. Hedzic a payé la carte de crédit CIBC Visa Classique avec un chèque tiré sur la carte de crédit Mosaik-Mastercard, Banque de Montréal pour un montant de 2 427,72 $. Le 20 février 2007, il a payé la carte de crédit American Express avec un chèque tiré sur la carte de crédit Mosaik‑Mastercard, Banque de Montréal pour un montant de 749,26 $. Le 5 mars 2007, M. Hedzic a payé la carte de crédit American Express avec un chèque tiré sur la carte de crédit Mastercard-Canadian Tire pour un montant de 4 000 $.
+[27] Tous ces montants ont été ajoutés aux dépenses personnelles des Hedzic en 2007 à la rubrique « dépenses personnelles - autres » à l’annexe IV. M. Hedzic a mis en preuve tous les chèques prouvant les paiements, sauf pour un montant de 1 087,05 $.
+[28] L’intimée fait valoir que ces montants étaient des prêts via les cartes de crédit, à la fille des Hedzic, Amra. M. Hedzic fait valoir que ces paiements d’une carte de crédit à une autre carte de crédit étaient faits pour bénéficier d’un meilleur taux. J’accepte la version de M. Hedzic, je trouve acceptable que les Hedzic aient voulu bénéficier d’un meilleur taux d’intérêt.
+[29] Ces montants, sauf pour le montant de 1 087,05 $ devraient être retirés des montants composant les dépenses personnelles.
+Dépenses personnelles en 2008
+[30] En 2008, un montant de 1 601,45$ a été ajouté à titre de dépenses personnelles par le ministre à la rubrique « dépenses personnelles – transport Pontiac Sunfire » à l’annexe IV. Il est clair qu’en vertu de la facture déposée par M. Hedzic que cette dépense n’est pas pour son véhicule « Pontiac Sunfire », mais pour le véhicule de son gendre, « Dodge Intrepid ». M. Hedzic a indiqué que son gendre lui a remboursé le montant en question. Je n’ai aucune raison de ne pas croire le témoignage de M. Hedzic à cet effet. Ainsi, le montant de 1 601,45 $ devrait être retiré des dépenses personnelles, sous la rubrique transport pour l’année 2008.
+[31] Tout comme il avait fait en 2007, le 15 juin 2006, M. Hedzic a payé la carte de crédit Dividendes CIBC pour un montant de 2 441 $ avec un virement à taux spécial offert par la Banque Royale pour bénéficier d’un meilleur taux de crédit. Copie du virement a été déposée en preuve par M. Hedzic. Ce montant devrait être retiré des dépenses personnelles en 2008, ce n’est qu’un transfert d’un compte à un autre.
+[32] Un montant de 12 576,77 $ a aussi été ajouté en 2008 à titre de dépenses personnelles. Selon le ministre, M. Hedzic aurait versé comptant ce montant à titre d’acompte pour l’achat de la maison. Il ressort de la preuve documentaire qu’aucun comptant n’a été utilisé par les Hedzic pour l’achat de la maison. Par conséquent, le montant de 12 576,77 devrait être retiré des dépenses personnelles.
+Pénalités
+[33] Malgré les changements que j’ai apportés à l’avoir net des Hedzic, les écarts demeurent, mais ils ne sont pas substantiels.
+[34] Dans un jugement unanime de la Cour d’appel fédérale dans la décision Molenaar c Canada, 2004 CAF 349, le juge Létourneau fait le commentaire suivant au paragraphe 4, au sujet des pénalités :
+[4] À partir du moment où le ministère établi selon des données fiables un écart, substantiel dans le cas présent, entre les actifs d’un contribuable et ses dépenses et où cet écart demeure inexpliqué et inexplicable, le ministère a assumé son fardeau de preuve. Il appartient alors au contribuable d’identifier la source et d’établir la nature non imposable de ses revenus.
+[35] À la lumière des ajustements que j’ai apportés à l’avoir net, les écarts ne sont pas substantiels, par conséquent les pénalités imposées par le ministre en vertu du paragraphe 163(2) de la Loi sont annulées.
+[36] Les appels sont admis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations comme suit :
+- ajouter à l’avoir net conjoint un montant de 5 000 $ à l’actif à court terme « argent en mains – coffret de sûreté » pour l’année d’imposition 2007;
+- réduire à néant l’actif à court terme conjoint « argent en mains – coffret de sûreté » pour l’année d’imposition 2008;
+- soustraire de l’avoir net conjoint les montants de 2 427,72 $, 749,26 $ et 4 000,00 $ à titre de dépenses personnelles pour l’année d’imposition 2007;
+- soustraire de l’avoir net conjoint le montant de 1 061,45 $ à titre de dépenses de transport pour l’année d’imposition 2008;
+- soustraire de l’avoir net conjoint les montants de 2 441,00 $ et 12 576,77 $ à titre de dépenses personnelles pour l’année d’imposition 2008;
+- annuler les pénalités imposées par le ministre en vertu du paragraphe 163(2) de la Loi.
+[37] Le tout, sans frais.
+Ces motifs de jugement modifiés sont émis en remplacement des motifs de jugement datés du 8e jour d’août 2013.
+Signé à Ottawa, Canada, ce 8e jour de novembre 2013.
+« Johanne D’Auray »
+Juge D'Auray
+Annexe
+RÉFÉRENCE : 2013 CCI 249
+Nº DU DOSSIER DE LA COUR : 2012-1007(IT)I
+2012-1008(IT)I
+INTITULÉ DE LA CAUSE : HAJRUDIN HEDZIC c. SA MAJESTÉ LA REINE
+FIKRETA HEDZIC c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Les 22 et 23 avril 2013
+MOTIFS DU JUGEMENT
+MODIFIÉS PAR : L'honorable juge Johanne D'Auray
+DATE DU JUGEMENT MODIFIÉ : Le 8 novembre 2013
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Représentant de l’appelante
+Hajrudin Hedzic
+Avocat de l'intimée :
+Me Simon Vincent
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,217 @@
+Title: Snively v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30334/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-196-30334-snively-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-05-03
+
+# Snively v. The Queen
+
+- Citation: 2011 TCC 196
+- Decision date: 2011-05-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8051, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Snively v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-05-03
+Neutral citation
+2011 TCC 196
+File numbers
+2010-298(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2010-298(GST)I
+BETWEEN:
+DONALD SNIVELY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 26 and 27, 2011, at Hamilton, Ontario
+By: The Honourable Justice Brent Paris
+Appearances:
+Counsel for the Appellant:
+James R.W. McNeill
+Counsel for the Respondent:
+Kashayar Haghgouyan
+____________________________________________________________________
+JUDGMENT
+As conceded to by the Respondent, the appeal from the reassessment made under section 323 of the Excise Tax Act, notice of which is dated November 6, 2009, and bears number 47453, for the period December 1, 1999 to April 30, 2000 is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s liability for the GST that JDR Tools and Equipment (1994) Inc. failed to remit and interest and penalties thereon is reduced to $96,109.26.
+Signed at Ottawa, Canada, this 3rd day of May 2011.
+“B. Paris”
+Paris J.
+Citation: 2011 TCC 196
+Date: 20110503
+Docket: 2010-298(GST)I
+BETWEEN:
+DONALD SNIVELY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal from an assessment under section 323 of the Excise Tax Act[1] (ETA) of the Appellant as a director of JDR Tools and Equipment (1994) Inc. (JDR) for unremitted goods and services tax (GST) for the period December 1, 1999 to April 30, 2000, plus related penalties and interest.
+[2] Subsection 323(1) of the ETA imposes liability on a director of a corporation for any net tax that the corporation fails to remit, along with penalties and interest relating to that tax. Subsection 323(1) reads as follows:
+323(1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solitarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+[3] A director will not be liable under subsection 323(1), however, if he or she exercised due diligence to prevent the failure to remit the tax. This defence is set out in subsection 323(3):
+323(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[4] Also, pursuant to subsection 323(5), an assessment of a director for liability under subsection 323(1) may not be made more than two years after the person ceased to be a director of the corporation:
+323(5) An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+Appellant’s position
+[5] In this case, the Appellant says that the assessment under appeal is statute‑barred because it was made more than two years after he resigned as a director of JDR.
+[6] In the alternative, he says that if he was a director of JDR at the relevant time, he exercised due diligence to prevent the failure by JDR to remit the required GST.
+[7] The Appellant also contested the amount of JDR’s GST liability for which he could be held liable. At the hearing, however, counsel for the Respondent conceded that the amount of the assessment of the Appellant should be reduced from $229,821.35 to $96,109.26.[2] The Appellant did not contest the revised figures.
+Facts
+[8] The Appellant has worked in the construction industry since he completed high school. In 1985 he started his own construction company, but it ceased operations in 1992 after running into financial difficulties.
+[9] JDR was incorporated under the Ontario Business Corporations Act[3] (BCA) in December 1993. The Appellant was the sole shareholder of JDR and became its sole director in June 1994. The Appellant said that the company carried on the business of construction and heavy equipment rental in and around Hamilton, Ontario.
+[10] Sometime around late August 2002, JDR’s partner on a major construction project declared bankruptcy, seriously impacting JDR’s ability to continue operations. The Appellant said that at that time he consulted JDR’s corporate lawyer, Mr. John Hammond, and decided that the company should wind down its activities, sell off its equipment and use the money to pay its bills.
+[11] On September 3, 2002 the Appellant delivered his written resignation as officer and director of JDR to Mr. Hammond at the company’s registered office. The letter read as follows:
+Dear John:
+As per our phone conversation 2 wks. ago, I am writing this letter to you to resign as officer and director of JDR Tools & Equipment.
+As we discussed all of the equipment that is owned by JDR Tools & Equipment will be sold off this fall with the proceeds to be used to pay off debts of the company.
+I will continue on as an authorized signing officer until the existing work is completed which should be by the end of the year.
+Should you have any further instruction please call.
+Yours truly
+“John Snively”
+[12] Mr. Hammond confirmed that he received the Appellant’s letter on September 3, 2002 and testified that he gave the letter to a clerk in his office to be filed with the corporate records.
+[13] The Respondent’s counsel did not challenge the evidence concerning the Appellant’s resignation, and I find that he ceased to be a de jure director of JDR on the date he delivered the letter to Mr. Hammond.
+[14] The Appellant said that no one was appointed as director in his place after he resigned and that JDR had no director from that point on. He testified that all of JDR’s equipment was sold off by the end of November 2002, and any contracts that had not been completed by that point were transferred to a new numbered company, the shares of which were owned by two of JDR’s former employees. The Appellant was the sole director of the new company.
+[15] The Appellant, on behalf of JDR, continued to collect amounts that were due to JDR for work it had done for clients. These funds were deposited into JDR’s bank account and then used to pay off creditors. The Appellant said that these financial transactions were more or less completed by the end of July 2003, and that he believed the bank accounts were closed shortly thereafter.
+[16] Although JDR was never formally wound up, the Appellant said that it was inactive after the end of November 2002 when its equipment was sold off and its contracts were taken over by the new company.
+[17] In February 2004, JDR was reassessed under the ETA for amounts of GST that the Minister of National Revenue said JDR had failed to collect and remit on payments received from a client relating to the construction of a hotel for that client in Grimsby, Ontario during the period December 1, 1999 to April 30, 2000.
+[18] JDR objected to the reassessment. In November 2004, while the objection was still outstanding, JDR’s accountants prepared financial statements and filed income tax returns for JDR’s fiscal periods ending August 31, 2003 and August 31, 2004. The Appellant conceded that this was done on his instructions, and that he signed the tax returns as “authorized signing officer” for JDR. The financial statements for the year ending August 31, 2004 showed no revenue or expenses and no change in assets, liabilities or shareholder’s equity for the year. The Appellant said that “we were told to file returns or get fined $200 a day by the government.”
+[19] On March 31, 2005, the Appellant signed a Canada Revenue Agency form entitled “Business Consent Form” authorizing the release of account information relating to JDR to the law firm of Inch Hammond, which was shown as JDR’s representative. I assume that the consent form related to the objection that JDR had filed to the February 2004 reassessment since there was no evidence that Inch Hammond was representing JDR on any other matter at that time. The form stated that it required the signature of “an owner, partner, director, trustee or officer” and the Appellant listed his title as “owner.”
+[20] On October 11, 2005, the Appellant was assessed under section 323 of the ETA for the amount of GST that the Minister believed JDR had failed to remit. The Appellant objected to the assessment and was represented by Inch Hammond as well.
+[21] Next, on March 2, 2007, JDR’s objection was allowed in part to delete the GST that had been assessed on the payments received by JDR from its client. The Minister accepted JDR’s submission that it had acted as construction supervisor on the hotel project on behalf of the client, and that it had entered into contracts with suppliers of goods and services on the project as agent for the client. Therefore, the Minister accepted that the amounts paid by the client to JDR were reimbursements of amounts that JDR had paid to suppliers on behalf of the client and were exempt from GST.
+[22] However, this characterization of the legal relationship between JDR and its client led the Minister to disallow input tax credits of $288,366.06 that had been claimed by JDR in respect of GST it paid on the hotel contract supplies for which it was reimbursed by the client. Since JDR’s client reimbursed JDR for the payments JDR made to the suppliers, JDR had in fact paid the GST as agent for its client and not on its own behalf and was not entitled to any ITCs.
+[23] JDR did not contest the disallowance of the ITCs and the Appellant says that they were claimed in error. He testified that throughout the period that JDR operated, he relied completely on the company’s bookkeeper, Ms. Deb Ellis, to handle its GST matters. He said Ms. Ellis had worked for him for a number of years and that he had no reason to be concerned about her ability as a bookkeeper because in previous audits, the CRA had never found anything wrong with her work. He also stated that, prior to the reassessment against the company in February 2004, there was never an indication of any problem with JDR’s GST returns for the relevant periods.
+First Issue: Was the assessment against the Appellant out of time?
+[24] It is the Appellant’s position that the two-year time limit set out in subsection 323(5) elapsed prior to the initial assessment made against him on October 11, 2005, and therefore, that he is not liable for the failure of JDR to remit GST as required by the ETA.
+[25] Counsel for the Appellant maintains that the two-year time limit began to run from the Appellant’s resignation on September 3, 2002, and that any actions he carried out on behalf of the corporation after that date were merely to wind down its operations, and were “residual” in nature and in any event, were completed before October 11, 2003. Any other steps taken by the Appellant in the corporation’s name after that date were in his capacity as shareholder or authorized signing officer, but not as director of JDR .
+[26] The Respondent argues that the Appellant continued to manage and supervise the affairs of JDR after he resigned as director and was thereby a “deemed director” of the corporation pursuant to subsection 115(4) of the BCA. That provision reads as follows:
+115(4) Where all of the directors have resigned or have been removed by the shareholders without replacement, any person who manages or supervises the management of the business and affairs of the corporation shall be deemed to be a director for the purposes of this Act.
+[27] It is well established that, since “director” is not a defined term in the ETA, it is appropriate to look to a corporation’s incorporating legislation for determining whether a person was a director of a corporation at a particular time for the purposes of section 323.[4] I agree with the Respondent’s counsel that the Appellant’s situation fell within subsection 115(4) of the BCA and that after the Appellant’s resignation, he continued on as a deemed director.
+[28] It appears to me that the Appellant’s role as the sole director and manager of JDR did not change in any way after he delivered his resignation to Mr. Hammond. No other director was appointed in his place and there is no evidence that the management and supervision of JDR’s affairs were turned over to anyone else. JDR continued to operate and carry on with existing construction and rental contracts until the end of November 2002 with the Appellant managing those operations in the same way that he had prior to his resignation. I am unable to see any material change in the nature or degree of the Appellant’s involvement in JDR’s affairs after his resignation. The amount of work he did for the company declined after the company sold most of its equipment and transferred its contracts to the new company, but the Appellant clearly remained in charge.
+[29] In addition to arranging for the collection of amounts due to JDR, the Appellant supervised Ms. Ellis in 2003. The Appellant did not say when Ms. Ellis stopped working for JDR, but it was after the end of July 2003, because he said that she was the one who closed the bank accounts.
+[30] Since I have found that the Appellant was acting as deemed director of JDR after his resignation, I must determine whether the Appellant ceased to act in that capacity more than two years before he was assessed under section 323.
+[31] The question of when a deemed director ceases to act as such was considered by Rip C.J. in Bremner v. The Queen.[5] The Appellant was arguing that he was not liable under section 323 of the ETA because he had not been assessed within two years of ceasing to act as a director of the corporation. The Appellant had never formally been appointed as director of the company but admitted that he had acted as a deemed or de facto director of the corporation from the time of its incorporation. However, he said that he ceased to be a deemed or de facto director once the company ceased operating.
+[32] Rip C.J. held that, just as for a de jure director, a deemed director does not cease to be a director merely because a company’s commercial operations end, because “[d]irectors of corporations have duties that survive cessation of the business previously carried on.”[6] The Court cited with approval the following extract from Business Corporations in Canada – Legal and Practical Aspects:
+24 The general rule for de jure directors is that the director does not cease to be a director merely because commercial operations end. The corporation continues to exist even though its commercial activities have ended. Counsel for the respondent argued that "there is no reason why a de facto director, who has voluntarily chosen to hold himself out as a director to third parties, should be able to avoid liability on more favourable terms than a de jure director". This argument is quite persuasive. Paul Martel in Business Corporations in Canada – Legal and Practical Aspects loose-leaf[10] equates the liabilities of de facto and de jure directors at paragraph 21-16:
+A director who acts as such when the required formalities have not been fully complied with or who continues to act as a director notwithstanding the fact that he has resigned from his position is a de facto director subject to the same liabilities as de jure directors.
+As the term implies, a de facto director is considered to be a director if he acts as such by doing acts normally reserved for directors; for example, participating in board meetings, signing board resolutions, making or participating in administrative decisions or decisions to sell, giving instructions in the name of the corporation, representing to third parties that he is a director, etc.
+[Emphasis added.]
+[33] While finding that there was no fixed rule to determine when a deemed or de facto director ceases to be a director, Rip C.J. said:
+26 ... The course of conduct of the person is important.11 There will be something missing in the relationship between the individual and the corporation. As any director, a de facto or a "deemed" director will cease to be a director when the shareholders elect his or her replacement or if he or she resigns. Until that time a director remains in office. A de facto and a "deemed" director may also cease to be a director by giving notice to the corporation and actually stop managing or supervising the management of the company. In the appeal at bar the director's bond between Mr. Bremner and Excel was not broken. I acknowledge that it may be difficult for a person who is the only shareholder of a corporation to divorce himself or herself from activities normally carried on by a director but if that person is performing functions of a director, he or she is a director. In the appeal at bar, the following facts, for example, favour a finding that Mr. Bremner continued to be a de facto director after September 1 and into October, 2000: he was the sole shareholder of Excel and the only person who has ever managed and supervised Excel; there is no evidence that he informed third parties, creditors or others, except perhaps his son, who did not testify, that he was no longer holding himself out as a director of Excel; and he continued acting for Excel after September 2000; for example, payments were made on behalf of Excel against its GST arrears.
+27 In his letter of April 10, 2001, Mr. Bremner informed the tax authority that he "was" employed by Excel as manager and requested that the CCRA correct its records. The fact that he wrote to the tax authority suggests that he was still managing or supervising the management of Excel's actions, however minimal such actions may have been.
+[34] The decision in Bremner was upheld by the Federal Court of Appeal,[7] which said that “a directorship of a person arising by virtue of [subsection 115(4) of the BCA] must be considered to endure at least as long as that person manages or supervises the management of the affairs of the corporation in question”.[8]
+[35] The Court of Appeal also specifically endorsed the finding that the activities of the deemed director need not be extensive to show continued management of the corporation:
+6 The Tax Court Judge found that in corresponding with the CCRA, the appellant demonstrated that he was still managing the actions of the Corporation, however minimal those actions may have been.
+7 In our view, this finding is unassailable and is sufficient to dispose of the appeal, since it establishes that the two year limitation period for the assessment would not expire before April of 2003, a date subsequent to October 1, 2002, the date of the assessment.
+[36] In the case at bar, there is evidence to show that after October 10, 2003, the Appellant took a number of steps that I would characterize as management of JDR’s affairs:
+- he caused a Notice of Objection to be filed by JDR to the GST assessments that were made in February 2004 and instructed counsel on behalf of JDR in relation to the objection;
+- he instructed JDR’s accountants to prepare financial statements and tax returns for JDR;
+- he signed those tax returns; and
+- he signed the business consent form authorizing the CRA to disclose information about JDR to Inch Hammond;
+[37] There was also evidence that JDR filed GST returns between 2003 and 2005. The CRA officer who testified said that the returns were “nil returns’ showing no net tax owing by the company for the period of the return. The Appellant testified that Ms. Ellis must have filed the returns but I infer that Ms. Ellis was still acting under the Appellant’s direction in doing so.
+[38] The Appellant’s explanation that he was acting as authorized signing officer or as shareholder after September 3, 2002 is not convincing. Without proof that his authority was limited to signing documents on behalf of the corporation and that someone else was ultimately in charge of the company’s affairs, I find that the acts of the Appellant on behalf of JDR were carried out as deemed director. I also find that where there is only one person carrying out the management and supervision of the corporation’s affairs, this is sufficient to constitute that person a deemed director regardless of the name given to his or her position. The word “director” is defined in paragraph 2(1)(f) of the BCA as including “any person occupying the position of director by whatever name called.” (emphasis added)
+[39] In my view, the Appellant continued as a deemed director of JDR well past October 10, 2003 and for that reason, the assessment under appeal was made within the time limit set out in subsection 323(5) of the ETA.
+[40] While I believe that the actions carried out by the Appellant to which I have referred in paragraph 39 were sufficient to bring him within subsection 115(4) of the BCA, it also appears to me that the Appellant understated the extent of the company’s activities and his supervision and management of those activities after the end of July 2003.
+[41] Firstly, I find the Appellant’s evidence that JDR’s bank accounts were closed shortly after the end of July 2003 problematic. The Appellant testified that he believed that the July 2003 bank statement was the last statement for the account, but I note that the account had a closing balance of $64,645 on July 31, 2003. His assertion that he attempted to find out from the bank when the account was closed but “didn’t hear back” was unconvincing. No explanation was given why the final account statement was not produced: there was no suggestion that the company records could not be located or that any bank statements were missing from those records. The bank records of the company after July 2003 are important because they could shed light on the company’s activities and any supervision and management of any activities that may have occurred. Without some compelling proof that those records were not available, I draw the inference that those records would not have been favourable to the Appellant’s case.
+[42] There was also evidence that JDR had not disposed of all of its equipment by the end of November 2002 as claimed by the Appellant. The financial statements showed that JDR still owned capital assets with a book value of $88,574 on August 31, 2004. In cross-examination, the Appellant admitted that this “could have been something that hadn’t been sold yet.” It seems likely to me that those assets would have required some attention in 2003 and 2004, either to arrange for their safekeeping or to attempt to realize on them. It also seems to me that this activity would have fallen to the Appellant to manage, as was the case with the company’s tax affairs.
+Second Issue: Due Diligence:
+[43] The next issue is whether the Appellant has made out a due diligence defence as provided for in subsection 323(5) of the ETA.
+[44] The standard of care set out in subsection 323(5) involves both objective and subjective elements.[9] In Smith v. The Queen,[10] Sharlow J.A. described these elements as follows:
+10 The subjective aspect of the standard of care applicable to a particular director will depend on the director's personal attributes, including knowledge and experience. Generally, a person who is experienced in business and financial matters is likely to be held to a higher standard than a person with no business acumen or experience whose presence on the board of directors reflects nothing more, for example, than a family connection. However, the due diligence defence probably will not assist a director who is oblivious to the statutory obligations of directors, or who ignores a problem that was apparent to the director or should have been apparent to a reasonably prudent person in comparable circumstances (Hanson v. Canada 2000 CanLII 16336 (F.C.A.), (2000) 260 N.R. 79, [2000] 4 C.T.C. 215, 2000 D.T.C. 6564 (F.C.A.)).
+11 In assessing the objective reasonableness of the conduct of a director, the factors to be taken into account may include the size, nature and complexity of the business carried on by the corporation, and its customs and practices. The larger and more complex the business, the more reasonable it may be for directors to allocate responsibilities among themselves, or to leave certain matters to corporate staff and outside advisers, and to rely on them.
+[45] In this case, the Appellant was the only director of JDR and was solely responsible for the day-to-day management of the company. He was an experienced businessman, and had owned and operated another construction company prior to incorporating JDR.
+[46] With respect to the objective factors to be considered, few details concerning the size, nature and complexity of JDR’s business were provided at the hearing. However, a set of financial statements for the company that were produced shows that for the fiscal period ending August 31, 2002 JDR had net revenue[11] of $2.16 million, expenses of $2.44 million and a net loss of $280,000. With an operation of this size, it is reasonable to expect that the Appellant would delegate bookkeeping tasks to a qualified individual.
+[47] Despite the Appellant’s experience and role within the company, he says that he had no knowledge that the ITC claims were incorrect, nor did he have any reason to believe that an error had occurred. His claim to have exercised due diligence in this case therefore, is predicated upon his delegation of responsibility for GST remittances to Ms. Ellis, and his ignorance of any problems with her work.
+[48] In order to succeed in his due diligence defence, the Appellant must show that Ms. Ellis had of her own accord and without direction from him claimed the ITCs to which the company was not entitled. He must also show that she was qualified and competent, and that he exercised the appropriate degree of supervision over her work. As stated by Bowie J. in Stafford v. The Queen,[12] “delegation … needs to be accompanied by appropriate oversight.”
+[49] The Respondent’s counsel submits that the Appellant’s oversight of Ms. Ellis’ work was not sufficient to fulfill the duty of care imposed upon him by subsection 323(5). He points out the Appellant’s admission that he never sat down with Ms. Ellis to discuss any of the GST returns she prepared and filed on behalf of JDR. He also says that there was no evidence to show what particular qualifications and experience Ms. Ellis had, and therefore, it is not possible to determine whether it was reasonable for the Appellant to rely upon her to ensure the GST was correctly accounted for.
+[50] The Appellant’s counsel maintains that Ms. Ellis was a competent experienced bookkeeper and since there had never been a problem with the way in which Ms. Ellis had prepared the GST returns prior to the period in issue, it was reasonable that the Appellant did not scrutinize her work more closely. Counsel said that heightened diligence is only required where a director in these circumstances becomes aware of a problem with the GST remittances. Since JDR had been audited on previous occasions by CRA, and no problems had been detected with the way Ms. Ellis had maintained the books, counsel says the degree of oversight exercised by the Appellant cannot be faulted.
+[51] The difficulty that I have with respect to the Appellant’s position is that his testimony that it was due to an error by Ms. Ellis was uncorroborated. Ms. Ellis was not called as a witness. I have concerns about this point, because the claims for ITCs were inconsistent with the way in which JDR treated the Grimsby hotel project for the purpose of remitting GST. Specifically, JDR did not remit any GST on the amounts it received from its client on the project on the basis that it paid the suppliers as agent for the client, but it still claimed almost $300,000 of ITCs in relation to those same supplies, as if it had paid the suppliers as principal. I find it hard to believe that a person with as much experience in GST matters as the Appellant said Ms. Ellis could make such a mistake. How the claim for the ITCs could have been made in five consecutive monthly GST returns filed by JDR without being picked up on also remains unexplained. The best person to tell what happened was, of course, Ms. Ellis herself. The Appellant’s failure to call Ms. Ellis as a witness leads me to draw the inference that her evidence would have been unfavourable to him on this point.[13]
+[52] Even if I accepted that the claims for the ITCs were a result of an error by Ms. Ellis, the Appellant did not bring any evidence to show Ms. Ellis’ training and qualifications. Without this evidence, I am unable to tell whether it was reasonable of the Appellant to believe that she could competently calculate the company’s GST obligations in respect of the Grimsby hotel contract on her own. Furthermore, I cannot tell if Ms. Ellis was alerted to the fact that JDR was acting as agent for its client on the Grimsby hotel project nor can I tell whether that type of arrangement was one that JDR had entered into previously, such that Ms. Ellis would have known how to account for GST.
+[53] Subsection 323(3) mandates a consideration of the circumstances which led to the failure to remit the proper amount of GST. In the case of Worrell v. The Queen[14], the Federal Court of Appeal said that, after taking into account the characteristics of the directors whose conduct is in question, including their levels of relevant skill, experience and knowledge, the Court must then ask
+… whether, if faced with similar circumstances, a reasonably prudent director, with comparable levels of skill, experience and qualifications would have acted in the same way as these directors (emphasis added)
+The Appellant’s failure to bring evidence of the circumstances surrounding the calculation and claiming of the ITCs in issue makes it impossible for me to say that his conduct met the standard of care imposed by subsection 323(3) of the ETA, and he therefore has not met the onus on him to show he exercised due diligence to prevent the company’s failure to remit the correct amount of GST during the period December 1, 1999 to April 30, 2000.
+[54] For these reasons, the appeal is allowed in part and the matter is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant’s liability for the GST that JDR failed to remit and interest and penalties thereon is reduced to $96,109.26.
+Signed at Ottawa, Canada, this 3rd day of May 2011.
+« B.Paris »
+Paris J.
+CITATION: 2011 TCC 196
+COURT FILE NO.: 2010-298(GST)I
+STYLE OF CAUSE: DONALD SNIVELY and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: January 26 and 27, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT: May 3, 2011
+APPEARANCES:
+Counsel for the Appellant:
+James R.W. McNeill
+Counsel for the Respondent:
+Kashayar Haghgouyan
+COUNSEL OF RECORD:
+For the Appellant:
+Name: James R.W. McNeill
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.E-15, as amended.
+[2] The Respondent conceded that the Appellant was only liable with respect to the following amounts of GST that JDR failed to remit, as well as the interest and penalties on those amounts for which JDR was liable:
+Period Ending
+Tax
+Penalty
+Interest
+Total
+1999-12-31
+2000-01-31
+$38,345.40
+$8,339.95
+$13,774.91
+$60,460.26
+2000-02-29
+4,235.63
+2,543.95
+2,953.12
+9,732.70
+2000-03-31
+$0
+$0
+$0
+$0
+2000-04-30
+11,484.00
+6,660.25
+7,772.05
+25,916.30
+Total
+$54,064.63
+$17,544.15
+$24,500.08
+$96,109.26
+[3] R.S.O. 1990, c. B.16.
+[4] Kalef v. The Queen, 96 DTC 6132 (FCA) at para. 10.
+[5] 2007 TCC 509.
+[6] Supra at para. 28.
+[7] 2009 FCA 146.
+[8] Supra, at para. 8.
+[9] Soper v. The Queen, 97 DTC 5407.
+[10] 2001 FCA 84.
+[11] After deducting costs of construction. Exhibit A-7
+[12] 2009 TCC 247 at para. 16.
+[13] Blatch v. Archer (1774), 1 Cowp. 63; see also Léger c. R. (2000), 2001 D.T.C. 471, at para. 16.
+[14] Worrell v. R. 2000 DTC 6593 at para. 26.

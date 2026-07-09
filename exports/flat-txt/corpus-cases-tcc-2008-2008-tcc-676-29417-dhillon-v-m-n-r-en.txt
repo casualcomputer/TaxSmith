@@ -1,0 +1,94 @@
+Title: Dhillon v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29417/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-676-29417-dhillon-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-12-16
+
+# Dhillon v. M.N.R.
+
+- Citation: 2008 TCC 676
+- Decision date: 2008-12-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6969, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dhillon v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-16
+Neutral citation
+2008 TCC 676
+File numbers
+2006-3265(EI)
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2008TCC676
+Date: 20081216
+Docket: 2006-3265(EI), 2006-3266(EI),
+2006-3268(EI), 2006-3498(EI),
+2006-3853(EI), 2007-1041(EI),
+2007-2158(EI), 2007-4184(EI),
+2007-4324(EI), 2007-4576(EI)
+BETWEEN:
+SUKHDEV SINGH DHILLON, MUKAND SINGH GILL,
+SUKHMINDER KAUR DHALIWAL, DIAL S. SIDHU,
+NIRMAL S. SANDHU, GURDIP K. SANDHU,
+JOGINDER PADDA, RAJWINDER K. BAJWA,
+TARSEM S. GILL, DALJIT KAUR GILL,
+Appellants,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR ORDER AND ORDER
+Beaubier, D.J.
+[1] This motion by Appellants’ Counsel is to amend these Employment Insurance Notices of Appeal to add the following paragraph:
+“I was employed by B.C. Labour Contracting Ltd. in insurable employment at various times in 2001. I worked at least as many hours as stated in my Record of Employment and earned at least as much money as stated in my Record of Employment.”
+[2] The grounds are that if there is evidence that the Appellant farm workers worked in addition to the hours or earnings stated in the Records of Employment, they want to ensure that they will be awarded those additions.
+[3] The Motion is denied for two reasons.
+[4] The first and fundamental reason is that these are appeals from Rulings made by the Commission under Section 90 of the Employment Insurance Act; in turn, these Rulings were appealed to the Minister of National Revenue under Sections 91 and 93 of the Employment Insurance Act. The Decisions of the Minister respecting the Appellants’ Records of Employment were appealed to this Court under Section 103 of the Employment Insurance Act. All these proceedings are based on the Record of Employment (“ROE”) which sets out the number of hours and the amount in appeal. The ROE is the fundamental element or cause of these proceedings. To change it at this stage is analogous to someone suing for payment for delivery of 20 bicycles, and late in the lawsuit saying “I delivered 25 bicycles and I want payment for them.” Moreover that ROE is verified by the employer and is further verified by payment of employer and employee employment insurance premiums.
+[5] The second reason is related to the proceedings which have occurred in these appeals.
+1. They relate to employment in 2001.
+2. These appeals were commenced at this Court at the end of 2006 and in 2007.
+3. The Notices of Appeal were, at best, cursory.
+4. The Replies to the Notices of Appeal were extremely detailed and set out the sole issue in each appeal clearly; it is the number of hours worked based on the ROE.
+5. Unusually, Examinations for Discoveries were ordered and conducted in these appeals.
+6. On October 30 2008 these Appeals were ordered to proceed to Hearing on January 12, 2009 in Abbotsford, British Columbia, the location proposed by Appellants’ Counsel.
+7. This Motion by Appellants’ Counsel was dated December 5, 2008 for a return date of December 15, 2008.
+To raise questions of hours or earnings “beyond what was contained in the Appellants’ ROEs” or “outside of the ROE dates” after all of the recited proceedings and at this date is simply unacceptable. Any such allegations should have been made at the time the Commission investigated for the rulings or earlier by way of amendment to the actual ROEs.
+Signed at Saskatoon, Saskatchewan, this 16th day of December 2008.
+“D.W. Beaubier”
+Beaubier D.J.
+CITATION: 2008TCC676
+COURT FILE NO.: 2006-3265(EI), 2006-3266(EI),
+2006-3268(EI), 2006-3498(EI),
+2006-3853(EI), 2007-1041(EI),
+2007-2158(EI), 2007-4184(EI),
+2007-4324(EI), 2007-4576(EI)
+STYLE OF CAUSE: SUKHDEV SINGH DHILLON,
+MUKAND SINGH GILL,
+SUKHMINDER KAUR DHALIWAL,
+DIAL S. SIDHU, NIRMAL S. SANDHU, GURDIP K. SANDHU, JOGINDER PADDA, RAJWINDER K. BAJWA,
+TARSEM S. GILL, DALJIT KAUR GILL,
+AND M.N.R.
+DATE OF HEARING: December 15, 2008
+REASONS FOR ORDER BY: The Honourable Justice D.W. Beaubier
+DATE OF ORDER: December 16, 2008
+Counsel for the Appellant:
+Sarah Kahn, James Sayre
+Counsel for the Respondent:
+Andrew Majawa, Pavanjit Mahil, Matthew Turnell
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Sarah Kahn, James Sayre
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

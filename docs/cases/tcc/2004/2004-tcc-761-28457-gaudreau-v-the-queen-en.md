@@ -1,0 +1,178 @@
+---
+title: "Gaudreau v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28457/index.do"
+last_modified: "2004-11-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 761"
+citation2: ""
+neutral_citation: "2004 TCC 761"
+decision_date: "2004-11-25"
+language: "en"
+item_id: "28457"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1190
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:47:58.068000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ccef2df7dbfa4013b55c82d6b695b917d8710a8dc0e48e13b0e9023bb38bff3b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gaudreau v. The Queen
+
+- Citation: 2004 TCC 761
+- Decision date: 2004-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1190, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gaudreau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-25
+Neutral citation
+2004 TCC 761
+File numbers
+2004-1822(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1822(IT)I
+BETWEEN:
+CHANTAL GAUDREAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on November 4, 2004, at Montréal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Mélanie Danakas
+Counsel for the Respondent:
+Julie David
+JUDGMENT
+The appeal of the Canada Child Tax Benefit (CCTB) determination established for the 2000 base year under the Income Tax Act is allowed and the determination is transferred to the Minister of National Revenue for reconsideration and a new determination considering the fact that the Appellant was the eligible individual for the CCTB for the period of September 2001 to February 2002, all in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 25th day of November 2004.
+“François Angers”
+Angers J.
+Translation certified true
+on this 4th day of February 2005.
+Elizabeth Tan, Translator
+Citation: 2004TCC761
+Date: 20041125
+Docket: 2004-1822(IT)I
+BETWEEN:
+CHANTAL GAUDREAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] This is an appeal from a determination made by the Minister of National Revenue (the “Minister”) on September 19, 2003, requiring the Appellant to reimburse the $1,186 she received in Canada Child Tax Benefits (CCTB) for the period of September 2001 to February 2002, for the 2000 base year. The Appellant is appealing from the determination on the grounds that during the period in question, she was the admissible individual for the CCTB.
+[2] The Appellant admitted all the Minister’s assumptions of fact considered when the determination under appeal was established and approved. These statements of fact provide context and help us understand why this court is once again faced with the issue of which of two parents is the eligible individual for the CCTB. I will reproduce these assumptions here:
+[translation]
+By establishing and approving the new CCTB determination of September 19, 2003, for the 2000 base year, the Minister considered the same assumptions of fact:
+(a) The Appellant and Jean-Guy Trépanier (hereinafter, the “former spouse”) lived together from 1991 to 1995;
+(b) The Appellant and the former spouse had a child … born on May 20, 1993 (hereinafter the “child”);
+(c) In accordance with a judgment rendered April 16, 1999, by the Honourable Justice Gérard Turmel, J.C.S., of the Superior Court of Quebec, legal custody was granted to the Appellant;
+(d) In accordance with an order given May 12, 2000, by the Honourable Justice Andrée Ruffo, the child was entrusted to the former spouse;
+(e) As of June 2000, the Minister considered the former spouse to be the parent who took main responsibility for the care and education of the child;
+(f) On August 31, 2001, the Honourable Justice Pierre G. Dorion, of the Superior Court of Quebec, in response to a motion for review of an order in accordance with the provisions in subsection 95(1) of the Youth Protection Act, rendered a judgment that ordered, among other things, that the child spend an equal amount of time with the father and with the mother, including the possibility of one week at the mother’s and one week at the father’s;
+(g) On September 20, 2001, the Appellant sent the Minister a CCTB application for the child, retroactive to August 30, 2001;
+(h) Following an analysis of the case, the Minister granted the CCTB to the Appellant for the child, for the period of September 2001 to February 2002 for the 2000 base year;
+(i) As a result, the Minister revised the former spouse’s CCTB to nil for the period of September 2001 to February 2002 for the 2000 base year regarding the child…as of March 20, 2002;
+(j) On or around April 17, 2002, the former spouse served notice to the Minister of his opposition to the new CCTB determination of March 20, 2002, for the 2000 base year;
+(k) On May 28, 2002, the Minister confirmed the new CCTB determination of March 20, 2002 for the 2000 base year;
+(l) On October 25, 2002, the former spouse filed a notice of appeal with the Tax Court of Canada against the new CCTB determination of March 20, 2002, for the 2000 base year;
+(m) In the judgment rendered by the Honourable Justice Pierre Archambault dated July 21, 2003, (hereinafter the “judgment”), the former spouse was granted admissibility to the CCTB for the period of September 2001 to February 2002 for the 2000 base year;
+(n) On September 19, 2003, the Minister issued the Appellant a notice of reassessment of the CCTB, denying her admissibility to the CCTB for the child for the period of September 2001 to February 2002, for the 2000 base year, in accordance with the judgment.
+[3] Archambault J. rendered his decision from the bench and no written reasons were published. This decision was not under appeal.
+[4] During the hearing before Archambault J., the Appellant was not a party, since the Minister did not rely on the provisions of section 174 of the Income Tax Act (the “Act”). As a result, she had no status as a party and no power to appeal this decision if she had wanted to, although it directly affected her admissibility rights to the CCTB. Her only recourse was to appeal the Minister’s determination. As an aside, this leads me to wonder whether this determination was, for all intents and purposes, an enforcement of the Archambault J. decision by the Minister rather than a determination as such. After all, it was the Court that made the determination as to the eligible individual.
+[5] This state of events obviously favours the Appellant, since she has a recourse she did not have before. However, as a result, she would have to ask the Court to render a decision on the same issue for the same period with the same parents, with the former spouse not a party in the case. Could an assessment of the evidence, the weight given to this evidence, and issues of credibility lead to a different eligible individual, so that there would be two such individuals? Would such a result be contrary to the legal provisions?
+[6] It must be noted, however, that without the possibility for the Appellant to appeal the Minister’s determination, she would lose her rights with no possible recourse. To avoid such a situation, section 174 of the Act allows the Minister, when he feels that a same event leads to a question of law, fact or mixed law and fact, to ask the Tax Court of Canada to make a decision on the question regarding assessments related to several taxpayers following the event. Is there such an event in this case?
+[7] The relevant legal provisions in this case are:
+122.6 Definitions
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+…
+and for the purpose of this definition,
+…
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing.
+[8] These factors can be found in section 6302 of the Regulations:
+For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[9] It must therefore be determined whether the Appellant is the eligible individual for the period of September 2001 to February 2002.
+[10] The parents were the only people who testified at the hearing and there was no doubt that the period after their separation and their relationship with the child were very difficult. The Appellant was granted legal custody of the child by a Superior Court of Quebec order on August 16, 1999. Then, on August 30, 2001, Dorion J. of the Quebec Court ordered that the child spend an equal amount of time with the Appellant and with his father, namely one week with each, alternately. This order also stated that a person working for an institution or organization would provide aid, advice and assistance to the child, the father and the Appellant until June 30, 2002, and that parent/child contacts were under the control and supervision of the Director of Youth Protection (DYP). The order also stated that the child and parents were to actively participate in applying measures to bring an end to the situation that was detrimental to the safety and development of the child, and to try to ensure that it did not occur again.
+[11] During the period in question, the child therefore lived with both parents. Each testified to and gave a summary of the care and education they provided for their child during the period in question. Which of the two took main responsibility for this?
+[12] The Appellant testified that during the period in question, she took care of her child by obtaining all the material goods he needed. She therefore spent money to ensure that he was clothed, had school supplies and could participate in swimming and judo courses. Although she worked part time, the Appellant was available to participate in recreation and leisure activities with the child. She took care of her son’s health by ensuring medical care and accompanying him on visits to health professionals (pediatrician, dentist, ophthalmologist). She paid for medication and other such needs.
+[13] On a regular day, the Appellant prepared the child’s breakfast and lunch and then accompanied him to school. When her schedule allowed, she picked him up after classes; otherwise he went to daycare. During her days off, the child had lunch at home with the Appellant. She made sure the child had a healthy diet and consulted as required. She made sure he did his homework and helped him. She met with his teachers. The Appellant made sure the child was clean, and at bedtime, she went over his day and addressed any problems he had dealing with his parents’ separation.
+[14] The Appellant testified to the threats she received from her former spouse during the period in question and the reasons she was living with her father. All these problems led the child to have behavioural problems. She spent a lot of time with him, encouraging and rewarding him as needed. All this was in keeping with the instructions in the August 30, 2001, order to get the child to talk and to cooperate with the DYP.
+[15] As for the father, he had much of the same to say. Since he was at home all the time, the child went to his house at lunchtime. He made sure the child did his homework. He also met with his teachers. He took care of the child’s medical care and if the child was at his place when he had appointments, he went with him. He acknowledges, however, that the Appellant did more in terms of the child’s health care and that she was better at planning ahead.
+[16] The father also made sure the child had a healthy diet and he also made sure he could participate in his extra-curricular activities. As for behaviour, the father acknowledged that the child had some problems, and although he may have been more available to address this need, he did not cooperate with the DYP at all. He did not want to apply the points system the DYP proposed, saying himself that he was anti‑establishment. He told them not to show up at his place, although he says he did not prevent them from doing so. The evidence shows, however, that on October 4, 2001, the father received a letter from a legal advisor for a social worker at the Centres jeunesse de la Montérégie noting his refusal to cooperate and become involved, contrary to the directives set out in the August 30, 2001, court order. He stated in his testimony that he did not know what the problem was.
+[17] It is important to point out that both parents, according to their abilities and means, saw to the child’s well being. Their degree of involvement and their methods allow me to make a distinction between the two parents and determine who took main responsibility of the child’s care and education. By applying the factors set out in the Regulations and according to the testimony heard, the Appellant is, in my opinion, the person who best meets the definition of an eligible individual regarding the child.
+[18] She seemed to me to be a very sincere and credible person and had a healthy attitude regarding the child’s needs. Her cooperation and participation with the DYP to better manage the child’s difficult behaviour were remarkable. The time she dedicated to her child to stabilize him during this difficult period is a reflection of a responsible commitment to her child’s well being. Her attention to his hygiene and health is an element that makes the Appellant the one who primarily oversaw the care and education of the child. I am not dismissing the father’s participation, but his attitude and approach, which seem to have had a strong influence on the outcome of conflicts between the parties during their separation and on the child’s behaviour, surely slowed the child’s progression towards acceptable behaviour. On a balance of probabilities, the Appellant has satisfied the burden that was on her.
+[19] For these reasons, the appeal is allowed.
+Signed at Ottawa, Canada, this 25th day of November 2004.
+“François Angers”
+Angers J.
+Translation certified true
+on this 4th day of February 2005.
+Elizabeth Tan, Translator
+REFERENCE: 2004TCC761
+COURT FILE NUMBER: 2004-1822(IT)I
+STYLE OF CAUSE: Chantal Gaudreau and Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: November 4, 2004
+REASONS FOR JUDGMENT BY: François Angers
+DATE OF JUDGMENT: November 25, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Mélanie Danakas
+Counsel for the Respondent:
+Julie David
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Mélanie Danakas
+Firm: Lafontaine, Lapierre & Associés
+Counsel
+Longueuil, Quebec
+For the Respondent: Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Ontario

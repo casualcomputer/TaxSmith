@@ -1,0 +1,203 @@
+Title: Y S I's Yacht Sales International Ltd v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27659/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-306-27659-y-s-i-s-yacht-sales-international-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-05-23
+
+# Y S I's Yacht Sales International Ltd v. The Queen
+
+- Citation: 2007 TCC 306
+- Decision date: 2007-05-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 415, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Y S I's Yacht Sales International Ltd v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-23
+Neutral citation
+2007 TCC 306
+File numbers
+2005-1469(GST)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-1469(GST)G
+BETWEEN:
+Y.S.I.’s YACHT SALES INTERNATIONAL LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 22 and 23, 2007 at
+Vancouver, British Columbia
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+David Douglas Robertson
+Counsel for the Respondent:
+Victor Caux
+David Everett
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of an assessment made under the Excise Tax Act by notice dated January 21, 2004 is allowed, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that input tax credits should be allowed for the period from October 1 to December 31, 2002. The appellant is entitled to costs.
+Signed at Ottawa, Canada this 23rd day of May 2007.
+"J. Woods"
+Woods J.
+Citation: 2007TCC306
+Date: 20070523
+Docket: 2005-1469(GST)G
+BETWEEN:
+Y.S.I.’s YACHT SALES INTERNATIONAL LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an appeal by Y.S.I.’s Yacht Sales International Ltd. (“YSI”) in respect of an assessment under the Excise Tax Act for the period from October 1 to December 31, 2002. The dispute involves input tax credits (ITCs) in the amount of $106,761.54 in respect of goods and services purchased by YSI in connection with the construction of a luxury yacht.
+[2] The Crown put forth two arguments in support of the assessment. First, it submits that YSI does not qualify for ITCs because it purchased the goods and services in an agency capacity. Alternatively, even if there was no agency relationship, the Crown submits that the ITCs should not be allowed because the goods and services tax (GST) was not payable by YSI.
+[3] For the reasons below, I conclude that the appeal should be allowed.
+Factual background
+[4] YSI is a British Columbia company that provides services as a yacht broker and project and fleet manager. The corporation is managed by Sandy Huntingford, and he and his wife are its only employees. YSI is a GST registrant.
+[5] Palmer Yacht Sales Ltd. (“Palmer”) was at the relevant time a British Columbia company that carried on a business of building and reconstructing yachts. Paul Palmer was its principal.
+[6] Platinum Premier Corporation Limited (“Platinum”) is a company governed by the laws of Gibraltar. The shares of that company are beneficially owned by Tatiana Golovina, a resident of England who is married to a Texan by the name of Mike Sims.
+[7] In 1997, Palmer purchased a salvaged commercial vessel in Alaska for US$1,000. Palmer’s intention was to transport the vessel, the “Zopilote,” to Vancouver and reconstruct it.
+[8] Palmer retained YSI (a) to assist Palmer in arranging financing for the reconstruction work, and (b) to find a buyer for the finished product, which would become a luxury yacht.
+[9] As a result of YSI’s efforts, in September 1999 Palmer entered into an agreement with Platinum to reconstruct and sell the vessel to Platinum for a lump sum purchase price of $3,000,000. The yacht was to be acquired by Platinum for the personal use of Ms. Golovina and Mr. Sims.
+[10] The reconstruction work did not go smoothly, and after about six months the relationship between Palmer and the principals of Platinum had irretrievably broken down.
+[11] Mr. Huntingford, who had experience in the boat building industry, stepped into the breach and offered his assistance to Platinum in completing the project without Palmer’s involvement. For this purpose, YSI sent a memo to Mr. Sims dated March 1, 2000, which outlined the terms of a proposal under which YSI would oversee the project and use its wholesale accounts to purchase the necessary materials and equipment at a discount.
+[12] The memo, which was drafted by Mr. Huntingford without the assistance of a lawyer, provided that YSI would carry out the following:
+- manage the project;
+- provide timely reports to Mr. Sims;
+- prepare budgets;
+- contract with a marina for a construction shed;
+- request pricing from suppliers and negotiate with suppliers to obtain the best price;
+- purchase materials and equipment using YSI’s wholesale accounts;
+- assist with design, secure interior designers, seek proposals;
+- pay suppliers;
+- liaise with insurance underwriters;
+- liaise with Platinum’s lawyer;
+- arrange with surveyors to inspect the yacht on a monthly basis;
+- manage the activities of Platinum’s captain relating to the construction;
+- deal with Platinum’s bank to ensure necessary funding is in place to meet obligations;
+- apply for GST rebates;
+- act as a liaison between Platinum and Palmer to recover materials and equipment belonging to Platinum and to obtain paperwork to transfer title from Palmer to Platinum;
+- arrange for sea-trials;
+- deal with the Ship’s Registry in Vancouver upon export; and
+- any other tasks that may be assigned or requested by Platinum.
+[13] YSI was to be paid $50 per hour for its services and a mark up of five percent was to be charged when goods were purchased through YSI’s wholesale accounts.
+[14] The principals of Platinum had no previous experience with boats and they accepted YSI’s proposal, which basically handed over complete management of the project to YSI.
+[15] To complete the disengagement of Palmer, Platinum and Palmer entered into an agreement on or about May 1, 2000 which was titled “Yacht Delivery Agreement.” Under the agreement, Platinum was to pay the remainder of the $3,000,000 purchase price to Palmer, and Platinum was to take possession of the Zopilote in order to complete the construction work. Title was to remain with Palmer until the closing, however, which was to take place in international waters when the yacht was ready for sailing.
+[16] After Palmer gave up possession, YSI purchased the material and equipment necessary to complete the reconstruction. YSI’s wholesale accounts were used to make purchases with over 230 suppliers at substantial discounts. YSI also used its provincial sales tax registration to claim the resale exemption under the British Columbia legislation.
+[17] Payment for the goods was usually effected by cheques drawn on a Canadian bank account set up by Ms. Golovina. Almost all of the cheques were co-signed by Mr. Huntingford and by the Zopilote’s captain, who was employed by Mr. Sims.
+[18] After Palmer had exited from the scene (except for holding title to the vessel), the construction work was undertaken by the captain and subcontractors, under Mr. Huntingford’s supervision.
+[19] The Zopilote was competed and ready for sea trials approximately one year later, and a formal passing of title from Palmer to Platinum took place in July 2001. The closing occurred in international waters, with Ms. Golovina representing Platinum and Mr. Huntingford representing Palmer, with whom Mr. Huntingford continued to have business dealings.
+[20] Platinum’s original arrangement with Palmer was structured to take advantage of the zero-rating of exported goods under the Excise Tax Act. It was explained to me by counsel that exports are generally zero-rated, which enables a non-resident to purchase goods on a tax-exempt basis and it also enables the seller to receive ITCs on its inputs. The result in this case is that the original arrangement with Palmer would not attract any GST.
+[21] After YSI took over management of the project, Mr. Huntingford assumed that the transaction would continue to be a zero-rated export. However, he was concerned about a potential GST exposure to YSI if the deal with Platinum fell through and the Zopilote was not exported. He did not seek professional advice with respect to this concern but he did have an informal conversation with an auditor from the Canada Revenue Agency (the "CRA") who was conducting a GST audit of Palmer at the time.
+[22] Mr. Huntingford decided to control the perceived GST exposure by having Platinum claim a GST rebate after the Zopilote had been exported. The CRA auditor recommended to him that he keep all receipts, which he did. Mr. Huntingford testified that he thought that this minimized YSI’s exposure to GST. His evidence on this point was detailed and I accept his explanation for why Platinum, and not YSI, claimed the GST refund.
+[23] In 2002, Mr. Huntingford prepared a GST rebate application on behalf of Platinum, and provided to the CRA auditor all the relevant invoices for materials and goods which YSI had purchased.
+[24] Platinum’s application had a potential problem because the invoices were in YSI’s name. The auditor asked Mr. Huntingford to provide the agreement which set out the arrangement between YSI and Platinum. In response, Mr. Huntingford prepared a letter which was executed by Ms. Golovina on behalf of Platinum. The letter states that YSI was engaged to act as Platinum’s agent during the construction of the vessel, and that as part of the agency arrangement YSI was to procure materials and equipment for the construction.
+[25] The CRA auditor then sought an internal ruling concerning the rebate application and the claim was ultimately disallowed.
+[26] Upon being notified of the rejection, Mr. Huntingford sought legal advice from the law firm of Fasken Martineau DuMoulin LLP. Pursuant to their advice, Platinum did not object to the disallowance of Platinum’s rebate application and YSI claimed the ITCs that are at issue in this appeal.
+[27] By notice of assessment issued to YSI dated January 21, 2004, ITCs in the amount of $106,761.54 were disallowed.
+Analysis
+[28] As a preliminary matter, I note that the question of YSI’s ITC entitlement does not address what could be considered a more fundamental issue in this series of transactions, and that is whether the supply to Platinum is taxable or whether it is zero-rated. The GST is a tax that is generally imposed at the consumer level, and the consumer in this case is Platinum. Intermediaries such as YSI are not in the usual case subject to tax on their inputs. However, the tax consequences to Platinum are not at issue before me, and the parties did not address it, except to patiently answer my questions in that regard.
+[29] The question, then, is whether YSI is entitled to recover by way of ITCs the GST payable in respect of invoices issued to it in connection with the construction of the Zopilote.
+[30] The general scheme of the ITC legislation is to allow registrants under the Excise Tax Act to recover GST payable by them in respect of property and services acquired for their use in commercial activities.
+[31] Excerpts from the relevant statutory provision, s. 169(1) of the Excise Tax Act, provide:
+169. Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+[ … ]
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+(Emphasis added.)
+[32] The underlined text above makes clear the two issues in this appeal:
+(a) Did YSI acquire goods and services from suppliers for consumption, use or supply in the course of its commercial activities?
+and
+(b) Was GST payable by YSI?
+Issue 1 – Was there an acquisition in the course of commercial activities?
+[33] The Crown argues that YSI acted in an agency capacity when it entered into agreements to acquire materials and equipment used in the construction of the Zopilote. It follows, the Crown suggests, that YSI did not acquire goods or services for consumption, use or supply in the course of its own commercial activities, as required by clause (c) of s. 169(1).
+[34] The question, then, is whether YSI’s agreements with suppliers were entered into YSI, as agent on Platinum’s behalf, or whether the goods and services were purchased by YSI, on its own account.
+[35] Whether YSI acquired goods and services on its own behalf or on behalf of Platinum depends on the parties’ mutual intention: Bowstead and Reynolds on Agency, 17th edition, at s. 1-011. Accordingly, the essential question is whether Platinum agreed to be bound by YSI’s agreements with suppliers.
+[36] While there is some evidence to support either position, I have concluded that Platinum and YSI did not intend an agency relationship.
+[37] In my view, the clearest expression of the parties’ intentions is found in the agreement between YSI and Platinum, which is embodied in Mr. Huntingford’s memo to Mr. Sims, dated March 1, 2000. The arrangement was never formalized in a written agreement but the terms in the memo were verbally agreed upon.
+[38] The memo, which was written without the assistance of a lawyer, essentially provided that YSI would contract with suppliers, and that YSI would charge Platinum a five percent mark up to the extent that YSI’s wholesale accounts were used.
+[39] I have concluded that these terms do not, in any way, suggest that YSI would purchase goods and services in an agency capacity. Rather, in my view, they are more indicative of a buyer-seller relationship. There is nothing on the face of the memo that would lead me to believe that the parties intended otherwise.
+[40] Counsel for the Crown suggests that, despite the terms of the memo, other factors point to an intention to form an agency relationship. I do not agree. In my view, none of the factors, which I will detail further below, allow me to infer any other intention between the parties.
+[41] First, the Crown makes reference to Ms. Golovina’s letter, written as part of Platinum’s rebate application. However, this self-serving document was written at the prompting of the CRA auditor to enable the application to be processed. I am not convinced that it reflected the parties’ actual intentions at the time the agreement was entered into and performed. Accordingly, I have not given the letter any weight.
+[42] As well, the Crown points to the fact that the rebate application was made by Platinum and not YSI. However, Mr. Huntingford is not a lawyer, nor did he not impress me as being sophisticated in accounting or legal matters. I am unwilling to infer that the application, submitted well after the agreement was entered into, demonstrates any intention on the part of YSI or Platinum as to their legal relationship.
+[43] Further, the Crown argues that the broad range of tasks that YSI agreed to perform in connection with the project was also suggestive of agency, as well as the fact that Platinum appeared to have overall control. With respect, the other tasks are not relevant to the characterization of the agreements with suppliers. Regardless of the nature of the other tasks, they do not support finding an intention contrary to what I have concluded above. The same can be said regarding control. The extent to which Platinum had overall control of the project is not relevant to whether Platinum agreed to be bound by YSI’s agreements with suppliers.
+[44] The Crown also referred to the fact that Mr. Huntingford did not report a purchase and resale of goods in YSI’s financial statements or tax returns. Once again, I note that Mr. Huntingford is not a lawyer or accountant. I cannot conclude that his failure to adequately record his current accounts implies anything about the nature of the legal relationship between YSI and Platinum.
+[45] Lastly, the Crown submits that I should make a negative inference from the fact that the appellant did not call the principals of Platinum, or any of the other persons involved, to testify.
+[46] I am sympathetic to this argument as it relates to the principals of Platinum because Ms. Golovina signed a letter confirming an agency relationship. On the other hand, Platinum’s principals are not Canadian residents and there was some suggestion that it may have been difficult to obtain their testimony. Counsel for the appellant stated in argument that he had tried unsuccessfully to reach them.
+[47] In all the circumstances, I decline to draw a negative inference. I am not convinced that the testimony of either Ms. Golovina or Mr. Sims would be of assistance, given that it is highly unlikely that these individuals understood the technical distinction between agency and a purchase for resale when Platinum agreed to Mr. Huntingford’s proposal.
+[48] The Crown argued that Platinum’s principals could provide relevant testimony regarding the nature of the control that they had over YSI. I do not think that this factor has any relevance in determining whether Platinum intended to be directly bound by the contracts with suppliers.
+[49] For all of these reasons, I find that the nature of the relationship is defined by the memo dated March 1, 2000 and that this document supports YSI’s position. It follows that YSI was not acting in an agency capacity when it purchased goods and services. Rather, it acquired goods and services for supply in the course of its own commercial activities.
+Issue 2 - Was GST payable by YSI?
+[50] Section 169(1) stipulates that an ITC is only available to the person by whom GST is payable. The Crown suggests that, even if YSI entered into the agreements with suppliers on its own behalf, the GST was payable by Platinum and not YSI.
+[51] The starting point for the analysis is the general charging provision in s. 165, which provides that the GST is “payable” by a “recipient” of a supply. The relevant question, then, is whether YSI is a recipient.
+[52] The term “recipient” is defined in s. 123(1) as follows:
+"recipient" of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+(c) where no consideration is payable for the supply,
+(i) in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+(ii) in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+(iii) in the case of a supply of a service, the person to whom the service is rendered,
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply;
+(Emphasis added.)
+[53] The Crown submits that, although YSI is liable for the consideration under the agreements with suppliers, Platinum is the person that is ultimately liable for that consideration.
+[54] The Crown’s position is based on the fact that Platinum made funds available in a Canadian bank account that could be used to satisfy YSI’s obligation to suppliers.
+[55] The Crown suggested that its position was supported by the following decisions: 163410 Canada Inc. v. The Queen, [1998] G.S.T.C. 116 (T.C.C.); Immeubles Sansfacon Inc. v. The Queen, [2001] G.S.T.C. 10 (T.C.C.); Bondfield Construction Co. (1983) Ltd. v. The Queen, [2005] G.S.T.C. 110 (T.C.C.); and Bokrika Inc. v. The Queen, [2006] G.S.T.C. 78 (T.C.C.).
+[56] I do not agree with the Crown’s submission. In my view, YSI is the only person that is liable for the consideration under the agreements with suppliers. Mr. Huntingford testified that he requested that Platinum provide a source of funds up front so that he would not have to chase Platinum when YSI needed money to pay its suppliers. This banking arrangement was nothing more than a funding mechanism, which is entirely consistent with YSI purchasing for purpose of a resupply to Platinum.
+[57] The bottom line is this: A person is not a recipient under the Excise Tax Act unless they are liable to pay the consideration under the agreement. In this case, Platinum was not liable to pay the consideration under the agreements with suppliers.
+[58] The cases referred to above are all distinguishable on their facts and it is not necessary to review them in detail. None of the cases suggest that, in a purchase and resale arrangement, a buyer under the second sale is liable for GST that was payable on the first sale.
+[59] For this reason, I find that YSI was a “recipient” as that term is defined in s. 123, and accordingly that YSI was liable to pay the GST in respect of its agreements with suppliers.
+Conclusion
+[60] For the above reasons, I conclude that YSI is entitled to ITCs in respect of goods and services purchased by it in the course of the construction of the Zopilote. The appeal is allowed, with costs.
+Signed at Ottawa, Canada this 23rd day of May 2007.
+"J. Woods"
+Woods J.
+CITATION:
+2007TCC306
+COURT FILE NO.:
+2005-1469(GST)G
+STYLE OF CAUSE:
+YSI’s Yacht Sales International Ltd. and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATES OF HEARING:
+March 22 and 23, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+May 23, 2007
+APPEARANCES:
+Counsel for the Appellant:
+David Douglas Robertson
+Counsel for the Respondent:
+Victor Caux
+David Everett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David Douglas Robertson
+Firm:
+Fasken Martineau DuMoulin LLP
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,288 @@
+---
+title: "Tall v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29252/index.do"
+last_modified: "2008-12-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 677"
+citation2: ""
+neutral_citation: "2008 TCC 677"
+decision_date: "2008-12-19"
+language: "en"
+item_id: "29252"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6992
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:31:50.629000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9512ac6a7cdd7cf563b3ef99da3b84a93a7618e3cb226039782edf2621d0d7f8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tall v. The Queen
+
+- Citation: 2008 TCC 677
+- Decision date: 2008-12-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6992, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tall v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-19
+Neutral citation
+2008 TCC 677
+File numbers
+2004-2359(IT)I, 2004-657(IT)I, 2005-1354(IT)G, 2005-4108(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-657(IT)I
+2004-2359(IT)I
+2005-1354(IT)G
+2005-4108(IT)G
+BETWEEN:
+FRANKLIN D. TALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 22-29, 2007, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Scott I. Simser
+Counsel for the Respondent:
+Catherine Letellier de St-Just
+Brent Cuddy
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2001, 2002 and 2003 taxation years are dismissed with costs. The appeal for the 2004 taxation year is allowed, without costs, on the basis that the Appellant is allowed a METC for the cost of the shower head filter.
+Signed at Halifax, Nova Scotia, this 30th day of December 2008.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2008TCC677
+Date: 20081219
+Docket: 2004-657(IT)I
+2004-2359(IT)I
+2005-1354(IT)G
+2005-4108(IT)G
+BETWEEN:
+FRANKLIN D. TALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] These appeals are from assessments for the Appellant’s 2001, 2002, 2003 and 2004 taxation years. They were heard on common evidence.
+[2] The Appellant claimed a medical expense tax credit (“METC”) in each of the years under appeal. The medical expenses claimed were $43,791.64, $39,961.49, $16,144.68 and $26,696.37 in the 2001 to 2004 taxation years respectively. The Minister of National Revenue (“the Minister”) reassessed the Appellant’s income tax liability by various notices and allowed a METC for medical expenses of $37,617.96, $33,732.50, $9,355.98 and $18,866.67. He disallowed a METC for the following Products and Services on the basis that the expenses were not within the provisions of subsection 118.2(2) of the Income Tax Act (the “Act”):
+2001
+2002
+2003
+2004
+The Products
+Bottled water
+$ 489.46
+$ 527.37
+$ 331.02
+$ 537.94
+Organic food
+$ 449.71
+$1,213.95
+$1,197.37
+$3,402.16
+Vitamins, herbs, Homeopathic remedies,
+Health care products
+$5,234.51
+$4,257.67
+$4,770.31
+$3,500.64
+The Services*
+Mitzvah technique
+$ 240.00
+$ 340.00
+Reiki
+$ 1.00
+Breast massage treatment for nursing wife
+$ 250.00
+Acupuncture
+$ 230.00
+Shower head filter
+$ 47.96
+Total
+$6,173.68
+$6,228.99
+$6,788.70
+$7,829.70
+*The Services were provided to Tomoko Tall, the Appellant’s spouse.
+[3] After the hearing of these appeals, the Minister conceded that the cost of the shower head filter was an allowable medical expense and the Appellant stated that he was no longer contesting the disallowance of the cost of the Mitzvah Technique and the acupuncture services.
+The Facts
+[4] The Appellant is a professor of mathematics at the University of Toronto. In 1976 he was diagnosed by his medical doctor as having environmental illness. In particular, he suffered from multiple chemical sensitivities. At that time, his doctor recommended that he avoid chemical contaminants and the Appellant started to consume organic foods and bottled water. The evidence established that during the years under appeal, the Appellant’s naturopath, Dr. Mikhael Adams, recommended the use of the Products to address the Appellant’s environmental hypersensitivity. The bottled water and organic foods were purchased from health stores, grocery stores and a bottled water distributor. The vitamins, herbs, homeopathic remedies and natural health care products (the “remedies”) were purchased from the clinic where Dr. Adams practiced (the “clinic”).
+[5] The Appellant started to practice Buddhism and New Age spirituality sometime between 1977 and 1982. He stated that the main content of Buddhism is awareness. In order for him to be as aware as possible, it is necessary for him to avoid contaminants that can impair his awareness. He avoids additives. As an example he stated that he used water in glass bottles and organic foods. This is also compatible with his practice of New Age spirituality as one of its core beliefs is “natural is better”. It was his evidence that avoiding pharmaceuticals and using vitamins, herbs and homeopathic remedies are fundamental to New Age beliefs.
+[6] The Appellant testified that although he believes that “natural is better”, he does not think that it is the only way. In fact since 2002 he has been using prescription medication to address a viral infection. As well, he does consume some foods that are not organic.
+[7] It was also the Appellant’s evidence that neither Buddhism nor his New Age beliefs strictly forbid anything.
+[8] During the years under appeal, the Appellant resided in the Province of Ontario.
+[9] The Appellant’s claim for a METC also included expenses for Services received by his spouse, Tomoko Tall. She testified that she was born in Japan and moved to Canada in 2001 when she married the Appellant. She does not work outside of the home and therefore she does not file an income tax return. In 2003, Mrs. Tall had a son and she received breast massage to release the milk to feed her son. The breast massage was performed by one of her acquaintances who had practised as a midwife in Japan. In 2004, Mrs. Tall received Reiki from her husband, the Appellant. He is a Reiki Master and he received his training in the United States. The Services were received by Mrs. Tall in the province of Ontario.
+[10] It was Mrs. Tall’s evidence that all of the Services she received were widely used in Japan. She was accustomed to kompo in Japan. Kompo includes several types of alternative medicine such as energy healing techniques, Traditional Chinese Medicine and acupuncture. Reiki is one of the energy healing techniques.
+[11] The Appellant called five witnesses who were accepted as experts. In the main, their evidence dealt with the relationship between religion and medicine. Their evidence is summarized in the following paragraphs.
+[12] Dr. Naomi Adelson, a medical anthropologist and Chair of the Department of Anthropology at York University, testified that medical anthropologists have learned, from cultures all over the world, that religion, health and healing are inseparable. She gave three examples to illustrate how spiritual practice[1] and experiences of health and illness are closely linked in many medical systems. The examples were the Cree of Whapmagoostui, the Navajo and people in India who practice Ayurveda.
+[13] She stated that medicine as it is practised in Canada is biomedicine. She explained that biomedicine developed a split between mind and body in that the physical body is viewed as separate from mental or psychological processes and is considered treatable in isolation from its social and cultural context. In biomedicine the emphasis is on disease which is limited to the physical aspects of the body. Spiritual practices and experiences of health and illness are not linked in biomedicine.
+[14] Dr. Frances Garrett, a professor of Tibetan Buddhist Studies at the University of Toronto, was qualified as an expert in Buddhism and Tibetan medicine. She testified that there are five fundamental precepts which most Buddhists may consider as the basis for their practice. The most important of these precepts is to avoid the taking of intoxicants as they damage the clarity of the mind. Clarity of the mind is the foundation of all other Buddhist practices. It was her opinion that chemicals found in foods, if they have an intoxicating effect on the user, can be considered an intoxicant and should be avoided.
+[15] Another precept of Buddhism is to abstain from harming all living beings. Dr. Garrett stated that today, many Buddhist consider the use of pesticides as a violation of this precept. It was her evidence that some Buddhists interpret this precept to mean that they should consume only organic food. It was also her opinion, that for these Buddhists, consumption of organic foods may be central to what it means to be a practicing Buddhist.
+[16] Dr. Robert Campbell, a professor of religious studies at the University of Toronto, was qualified as an expert to give evidence on religion and sociology. The essence of his evidence that pertained to the appeal before the court was that the New Age movement embodies the belief that “natural is better”.
+[17] Dr. Peter Coyte, a professor of Health Economics in the Faculty of Medicine at the University of Toronto, was qualified as an expert in health care economics. A health economist gives advice on resource allocation in the health field. In giving that advice, the economist looks at the costs as well as the benefits related to the advice.
+[18] It was his opinion that if the expenses incurred for organic foods, natural health products and fees to complementary and alternative practitioners were eligible for the METC, there would be both short term and longer term costs and benefits to society. The short term costs would be the reduction in income tax revenues. In time, this would be offset by the increases in sales tax revenues that would result from the increased use of these products and services. He stated that the major beneficial implications would be improved health of the population and this would result in lower direct health care utilization and costs. A healthier population would also be more productive and this would enhance the income tax base of both the federal and provincial governments.
+[19] Dr. Coyte was not able to support his opinion with any statistical analysis or data.
+[20] Dr. Marti Kheel, a scholar with the Graduate Theological Union in Berkeley, California, was qualified as an expert in religious studies. It was her opinion that western medicine, which she called allopathic medicine, has a Judeo-Christian orientation that involves a negative attitude towards nature. Whereas, holistic forms of medicines such as homeopathy, acupuncture, Ayurveda, and naturopathy work with nature. Her qualifications did not allow her to give opinion evidence with respect to the use of drugs or natural substances and a person’s religious beliefs.
+[21] I have given no weight to any of the evidence given by the experts. I found that it did not assist me with the decision I had to make in this appeal.
+The Issues
+[22] The following issues have been raised by the parties:
+1) Is the Appellant entitled to a METC for the disallowed expenses pursuant
+to subsection 118.2(2) of the Act?
+2) Does paragraph 118.2(2)(n) violate section 15 of the Canadian Charter
+of Rights and Freedoms (the “Charter”) by discriminating against the
+Appellant on the basis of his religion?
+3) Does paragraph 118.2(4)(a), as applied to paragraph 118.2(2)(a) violate section 15 of the Charter by discriminating against the Appellant’s spouse on the basis of her national origin?
+4) In light of the above, does paragraph 118.2(2)(a) violate section 27 of the Charter?
+5) If paragraphs 118.2(2)(n) and 118.4(2)(a) violate section 15 of the Charter,
+can these paragraphs be saved under section 1 of the Charter as
+demonstrably justified in a free and democratic society?
+6) Does this Court have the power to grant a remedy under section 52 of the Constitution Act, 1982?
+Issue 1
+[23] It is first necessary to decide whether the claimed medical expenses are within the provisions of paragraphs 118.2(2)(n), 118.2(2)(a) and 118.4(2)(a) of the Act as it existed during the years under appeal.
+[24] The relevant portions of the Act read as follows:
+118.2(2) Medical expenses -- For the purposes of subsection (1), a medical expense of an individual is an amount paid
+(a) [medical and dental services] -- to a medical practitioner, dentist or nurse or a public or licensed private hospital in respect of medical or dental services provided to a person (in this subsection referred to as the "patient") who is the individual, the individual's spouse or common-law partner or a dependant of the individual (within the meaning assigned by subsection 118(6)) in the taxation year in which the expense was incurred;
+(…)
+(n) [drugs] – for drugs, medicaments or other preparations or substances (other than those described in paragraph (k)) manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder, abnormal physical state, or the symptoms thereof or in restoring, correcting or modifying an organic function, purchased for use by the patient as prescribed by a medical practitioner or dentist and as recorded by a pharmacist;
+118.4(2) Reference to medical practitioners, etc. -- For the purposes of sections 63, 118.2, 118.3 and 118.6, a reference to an audiologist, dentist, medical doctor, medical practitioner, nurse, occupational therapist, optometrist, pharmacist, psychologist or speech-language pathologist is a reference to a person authorized to practise as such,
+(a) where the reference is used in respect of a service rendered to a taxpayer, pursuant to the laws of the jurisdiction in which the service is rendered;
+(…)
+(c) where the reference is used in respect of a prescription issued by the person for property to be provided to or for the use of a taxpayer, pursuant to the laws of the jurisdiction in which the taxpayer resides, of a province or of the jurisdiction in which the property is provided.
+[25] The Appellant has met all of the requirements to claim a METC pursuant to paragraph 118.2(2)(n) of the Act except the requirement that the purchase of the Products be “recorded by a pharmacist”. It is settled law that this requirement is mandatory[2].
+[26] It is the Appellant’s position that this court should interpret “record” to mean the keeping of some record of a substance with a Drug Identification Number or Natural Product number.
+[27] The Federal Court of Appeal has already dealt with this argument[3]. It has decided that, the phrase is not ambiguous and its meaning is clear. Justice Sharlow of the Federal Court of Appeal stated the following at paragraphs 12 to 14 of the decision in Ray:
+12 In my view, it is reasonable to infer that the recording requirement in paragraph 118.2(2)(n) is intended to ensure that tax relief is not available for the cost of medications purchased off the shelf. There are laws throughout Canada that govern the practice of pharmacy. Although the laws are not identical for each province and territory, they have common features. Generally, they prohibit a pharmacist from dispensing certain medications without a medical prescription, and they describe the records that a pharmacist is required to keep for medications dispensed by prescription, including information that identifies the prescribing person and the patient. There is no evidence that pharmacists anywhere in Canada are required to keep such records for the substances in issue in this case.
+13 I cannot accept the suggestion that, in the case of a medication that is prescribed by a physician but is purchased at a pharmacy off the shelf, a sales slip or invoice from the pharmacist would be a sufficient "recording" to meet the statutory requirement. A record in that form cannot meet the apparent function of the recording requirement. There must be a record kept by the pharmacist in his or her capacity as pharmacist. That necessarily excludes substances, however useful or beneficial, that are purchased off the shelf.
+14 Nor do I think it relevant to the interpretation of paragraph 118.2(2)(n) that a physician may dispense prescription medicines, and even sell them, without breaching any legislation applicable to pharmacists. It appears that a patient who purchases prescription medications from a physician may not be entitled to a medical expense tax credit because there would be no recording by a pharmacist: see Dunn (cited above). Some may consider that to be an unfair or inappropriate result. Perhaps it is, but that cannot justify an interpretation of paragraph 118.2(2)(n) that ignores the words "as recorded by a pharmacist".
+[28] The decision in Ray states that “a patient who purchases medications from his medical practitioner may not be entitled to a METC as there is no recording by a pharmacist”. The Appellant acknowledged at the hearing that the organic food and bottled water were purchased “off the shelf”. The remedies purchased from the clinic were not “recorded by a pharmacist”[4]. The expenses for the Products do not meet the requirements of paragraph 118.2(2)(n).
+[29] The cost of the Services will be a medical expense if the following requirements are met:
+a) it is paid to a medical practitioner, dentist or nurse or a public or licensed
+private hospital in respect of medical or dental services;
+b) the services are provided to an individual, the individual’s spouse or
+common-law partner or dependant;
+c) the service is provided in the year that the expense is incurred; and
+d) the medical practitioner, dentist, or nurse is authorized to practise as such pursuant to the laws of the jurisdiction in which the service is rendered.
+[30] The Services that Mrs. Tall received were Reiki and Breast Massage for Nursing Mothers. Reiki practitioners are not recognized as medical practitioners[5] under Ontario legislation. Mrs. Tall testified that her friend who gave her Breast Massage for Nursing Mothers had practised as a midwife in Japan. She did not know if her friend had taken courses in Canada. There was no evidence that this person was a member of the College of Midwives of Ontario. As a result, I conclude that she was not such a member and therefore was not a medical practitioner pursuant to the laws of Ontario.
+[31] I am mindful of Justice Boyle’s decision in Couture v. The Queen[6] where he decided that in 2003 and 2004, Ontario acupuncturists were medical practitioners for purposes of the Act. As acupuncture was specifically excluded by regulation from the definition of controlled acts in subsection 27(2) of the Ontario Regulated Health Professions Act, Justice Boyle concluded that anyone was allowed to perform acupuncture in Ontario. He stated at paragraph 31:
+A specific provincial law which allows a person to do something authorizes a person to do it. There is no reason not to equate "authorized" with "permitted".
+[32] The facts in Couture are distinguishable from those in the present appeal. In that case, the service in issue was specifically excluded from the controlled acts in subsection 27(2) of the Ontario Regulated Health Professions Act. That exclusion was in the regulation, Controlled Acts, O.reg.107/96 at section 8. There is no such exclusion or exemption for the Services in issue in this appeal. It should be noted that the decision in Couture has been appealed to the Federal Court of Appeal.
+[33] I conclude that for a person to be a medical practitioner in Ontario for the purposes of the Act, that person must be authorized to practise in accordance with the Regulated Health Professions Act. As the expenses for the Services in this appeal were not paid to medical practitioners, they are not medical expenses and do not qualify for a METC pursuant to section 118.2 of the Act.
+Issue 2
+[34] It is the Appellant’s position that the requirement to be “recorded by a pharmacist” in paragraph 118.2(2)(n) constitutes a violation of his equality rights under subsection 15(1) of the Canadian Charter of Rights and Freedoms[7] (the “Charter”) and the phrase should be struck. It is his position that this requirement causes him to be treated differently from other taxpayers due to his religious beliefs.
+[35] The Appellant submits that alternatively, the cost of the remedies can be considered as part of the naturopath’s fees for services and is therefore deductible under paragraph 118.2(2)(a). In support of this position, counsel for the Appellant relied on rulings that had been given by the CRA in response to specific questions that had been asked by other taxpayers. These documents were obtained by counsel pursuant to the Access to Information Act.
+[36] Section 15 of the Charter provides:
+15. (1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[37] The Appellant seeks to extend the METC to cover the purchase of the Products not recorded by a pharmacist. As stated previously, this purchase included “off the shelf” foods and bottled water and remedies from a clinic. It is my opinion that this issue has already been decided by the Federal Court of Appeal in Ali v. The Queen[8].
+[38] In its decision in Ali, the Federal Court of Appeal found that the “recorded by a pharmacist” requirement in paragraph 118.2(2)(n) of the Act did not violate the equality rights guaranteed by section 15 of the Charter. Justice Ryer stated:
+12 In my view, this is a case in which the subsection 15(1) issue can be addressed in a simpler manner. In Auton, the Supreme Court of Canada held that subsection 15(1) of the Charter will not be infringed where the benefit that is sought is not one that is provided by the law that is being challenged. In the present case, the benefit claimed by the appellants is the METC in respect of the cost of Dietary Supplements that are purchased "off the shelf". That is what they claimed in their tax returns and it is the entitlement to that claim that they sought to establish in their notices of appeal to the Tax Court of Canada. In Ray, this Court confirmed that such a benefit is not one that is provided by paragraph 118.2(2)(n) of the ITA. How then can it be discriminatory to deny the appellants a benefit (the METC in respect of the cost of "off the shelf" drugs) that no one gets?
+13 The appellants wish to have the scope of the METC extended to cover "off the shelf" drugs but Parliament has not chosen to do so. In this regard, the words of Chief Justice McLachlin in paragraph 41 of Auton, are apposite:
+41 It is not open to Parliament or a legislature to enact a law whose policy objectives and provisions single out a disadvantaged group for inferior treatment; Corbiere v. Canada (Minister of Indian and Northern Affairs), [1999] 2 S.C.R. 203. On the other hand, a legislative choice not to accord a particular benefit absent demonstration of discriminatory purpose, policy or effect does not offend this principle and does not give rise to s. 15(1) review. This Court has repeatedly held that the legislature is under no obligation to create a particular benefit. It is free to target the social programs it wishes to fund as a matter of public policy, provided the benefit itself is not conferred in a discriminatory manner: Granovsky v. Canada (Minister of Employment and Immigration), [2000] 1 S.C.R. 703, 2000 SCC 28, at para. 61; Nova Scotia (Attorney General) v. Walsh, [2002] 4 S.C.R. 325, 2002 SCC 83, at para. 55; Hodge, supra, at para. 16.
+[Emphasis added.]
+14 It is apparent from the passage in Auton that a legislative choice to accord a particular benefit under the legislation under consideration can potentially give rise to a valid claim that subsection 15(1) of the Charter has been infringed. Paragraph 42 of Auton informs that such an infringement can arise if the legislation discriminates directly, by adopting a discriminatory policy, or indirectly, by effect. With respect to the more difficult issue of discrimination by effect, the Supreme Court of Canada stated, in that paragraph, that the non-inclusion of a benefit is unlikely to be discriminatory if that non-inclusion is consistent with the purpose and scheme of the relevant legislation.
+15 With respect to the matter of direct discrimination, the definition of medical expenses in subsection 118.2(2) of the ITA does not explicitly exclude the cost of Dietary Supplements. Moreover, nothing in the provisions of the ITA dealing with the METC points to the express adoption by Parliament of a discriminatory policy with respect to the non-availability of the METC in relation to the cost of Dietary Supplements. Accordingly, I conclude that the legislative choice not to extend the METC to include the cost of Dietary Supplements in the definition of medical expenses in subsection 118.2(2) of the ITA does not constitute direct discrimination.
+16 The matter of discrimination by effect requires a consideration of whether the non-inclusion of a particular benefit is consistent with the purpose and scheme of the impugned legislation. In Auton, Chief Justice McLachlin determined that the non-inclusion of the benefit that was sought was consistent with a legislative scheme that did not purport to be comprehensive, stating at paragraph 43:
+43 The legislative scheme in the case at bar, namely the CHA and the MPA, does not have as its purpose the meeting of all medical needs. As discussed, its only promise is to provide full funding for core services, defined as physician-delivered services. Beyond this, the provinces may, within their discretion, offer specified non-core services. It is, by its very terms, a partial health plan. It follows that exclusion of particular non-core services cannot, without more, be viewed as an adverse distinction based on an enumerated ground. Rather, it is an anticipated feature of the legislative scheme. It follows that one cannot infer from the fact of exclusion of ABA/IBI therapy for autistic children from non-core benefits that this amounts to discrimination. There is no discrimination by effect.
+17 With respect to the legislative scheme at issue in this case, the definition of "medical expense" in subsection 118.2(2) of the ITA contains an enumeration of the specific types of costs that are eligible for the METC. This indicates a legislative purpose of limiting the availability of the METC to a specific list of items. Paragraph 118.2(2)(n) of the ITA exemplifies this purpose by drawing a line between items that meet the "recorded by a pharmacist" requirement and those that do not. Thus, paragraph 118.2(2)(n) of the ITA is fully consistent with the purpose and scheme of the METC legislation which is to only provide the METC in respect of specifically enumerated types of medical expenses and not with respect to all types of medical expenses.
+18 This distinction was recognized by this Court in Ray, in which Sharlow J.A., at paragraph 12, stated:
+[12] In my view, it is reasonable to infer that the recording requirement in paragraph 118.2(2)(n) is intended to ensure that tax relief is not available for the cost of medications purchased off the shelf. There are laws throughout Canada that govern the practice of pharmacy. Although the laws are not identical for each province and territory, they have common features. Generally, they prohibit a pharmacist from dispensing certain medications without a medical prescription, and they describe the records that a pharmacist is required to keep for medications dispensed by prescription, including information that identifies the prescribing person and the patient. There is no evidence that pharmacists anywhere in Canada are required to keep such records for the substances in issue in this case.
+This conclusion was also reached by the Tax Court Judge who, at paragraph 136 of her reasons, stated:
+[136] In summary, in enacting s. 118.2(2)(n), Parliament had to decide where to draw the line between therapeutic substances that qualify for tax relief and those that do not.
+19 In my view, it cannot be said that the non-inclusion of the cost of the Dietary Supplements in the definition of medical expenses in subsection 118.2(2) of the ITA, in general, or paragraph 118.2(2)(n) of the ITA, in particular, is inconsistent with the purpose and scheme of the METC legislation. Rather, the non-inclusion of that benefit is fully consistent with the purpose of only extending the benefit of the METC to a specific enumeration of medical expenses. Accordingly, I am of the view that the non-inclusion of the benefit claimed by the appellants from the legislation in question does not constitute discrimination by effect.
+20 Having reached the conclusion that the benefit sought by the appellants is not a benefit provided by the law and that the legislative choice not to provide such a benefit does not give rise to direct discrimination or discrimination by effect, I am of the view that the appellants' subsection 15(1) argument need not be further considered. In so concluding, I note that a similar conclusion was reached by the Supreme Court of Canada in Auton, at paragraph 47:
+47 I conclude that the benefit claimed, no matter how it is viewed, is not a benefit provided by law. This is sufficient to end the enquiry.
+[39] The Federal Court of Appeal decision in Ali is directly applicable to the facts in the present appeal. It has concluded that paragraph 118.2(2)(n) does not violate the equality rights guaranteed by section 15 of the Charter. This paragraph does not make a distinction based on personal characteristics[9]. The benefit that the Appellant seeks (a METC for Products not recorded by a pharmacist) is a benefit that is not conferred by the Act on anyone, regardless of their religion or spiritual beliefs. The benefit sought is not provided by law.
+[40] It was the Appellant’s alternative argument that the costs of the remedies can be considered to be part of the fees for Dr. Adams’ services. This alternative argument is not supported by the evidence. It is apparent from the invoices issued by the clinic that the naturopath’s fees were itemized separately from the remedies. The Appellant has been allowed a METC for the naturopath’s fees.
+[41] In support of his alternative argument, the Appellant relied on rulings made by the CRA for other unknown taxpayers. These rulings are an opinion of CRA and are not binding on this court. As well, it is my opinion that counsel’s interpretation of these rulings is not correct.
+Issue 3
+[42] The Appellant argued that the phrase “pursuant to the laws of the jurisdiction in which the service is rendered” in paragraph 118.4(2)(a), as it relates to paragraph 118.2(2)(a), of the Act violates Mrs. Tall’s equality rights under section 15 of the Charter. It is his position that Euro-centric taxpayers can more easily claim medical expenses closely affiliated with their national origin or race.
+[43] As in the Federal Court of Appeal decision in Ali, I intend to address the application of section 15(1) to this issue by referring to the Auton[10] decision. The question to be answered is whether the benefit that is sought is one which is provided by the law that is being challenged[11].
+[44] It is the Appellant’s position that the benefit claimed is provided by law. In his Memorandum of Fact and Law, the Appellant submitted that the benefit provided by law is the METC which is intended to alleviate the tax burden of an individual who incurs significant medical expenses. He argued that this is a definite benefit as it lowers one’s tax payable and can be a significant tax saving.
+[45] The benefit which is claimed by the Appellant is a METC in respect of the cost of Services from individuals who were not authorized to practise as medical practitioners in Ontario. The Appellant asks that the phrase “pursuant to the laws of the jurisdiction in which the service is rendered” be struck from paragraph 118.4(2)(a). In essence, the Appellant seeks to extend the METC so that all health practices in all jurisdictions would entitle a taxpayer to benefit from the METC.
+[46] The benefit that the Appellant seeks is not one that is provided by law. This benefit is not conferred on anyone. Parliament has not chosen to allow a METC for all health services in all jurisdictions. It has chosen to recognize the effect of above-average medical and disability related expenses on an individual’s ability to pay tax[12]. The purpose of the METC is to provide tax relief for specific expenses[13].
+[47] The legislative history of sections 118.2 and 118.4 shows that when a deduction for a medical expense was first introduced in 1942, it covered only payments made in respect of a birth, an illness or an operation, or for full-time attendant care for a person confined to a bed or wheelchair, or who was totally blind[14].
+[48] Prior to 1988, a medical expense was allowed for payments made to a medical practitioner, dentist or nurse “qualified to practice under the laws of the place where the expenses were incurred”[15]. This wording was capable of a more liberal interpretation than the wording in the present 118.2(2)(a) and 118.4(2)(a). However, the specification that the medical practitioner must be authorized to practice as such in the jurisdiction where the services are provided, ensures the validity and safety of such services. It is also in accord with the purpose of providing tax relief for specific medical expenses. The legislative history of the METC also demonstrates that Parliament sought to limit the services covered by the METC.
+[49] In Auton, the Supreme Court of Canada stated that it was possible that a legislative choice to grant a benefit may discriminate directly, by adopting a discriminatory policy or purpose, or indirectly, by effect[16].
+[50] It is my opinion that the legislative choice not to extend the METC to include the cost of all health practices in all jurisdictions does not constitute direct discrimination. The wording of paragraphs 118.2(2)(a) and 118.4(2)(a) does not explicitly exclude the Services that Mrs. Tall received. Likewise the wording does not explicitly refer to any racial, national or ethnic group. Nothing in these provisions indicates that Parliament has adopted a discriminatory policy with respect to the METC and the cost of the Services or the METC and any racial, national or ethnic group. These paragraphs only make a distinction with respect to the laws applicable where the services are provided.
+[51] As well, the legislative choice not to extend the METC does not constitute discrimination by effect[17].
+[52] Both the history and the structure of the METC show that Parliament did not intend to provide a benefit which included all health-related expenses and services. The METC is a partial tax relief plan. The fact that Parliament has left it to the provinces and territories to authorize persons to practise as medical practitioners respects the division of constitutional powers. It is the provincial and territorial governments that have the right to regulate health professionals. It is my opinion that paragraphs 118.2(2)(a) and 118.4(2)(a) do not discriminate by effect.
+[53] As I have concluded that there was no discrimination under section 15 of the Charter, it is not necessary to consider issues 5 and 6.
+Issue 4
+[54] Section 27 of the Charter reads:
+27. This Charter shall be interpreted in a manner consistent with the preservation and enhancement of the multicultural heritage of Canadians.
+[55] This section is an interpretative aid when analyzing legislation in terms of the Charter. It is inapplicable in the present appeal as the legislative scheme in issue does not refer to any service or product that the Appellant can characterize as “ethnic”.
+[56] The appeals for the 2001, 2002 and 2003 taxation years are dismissed with costs. The appeal for the 2004 taxation year is allowed, without costs, on the basis that the Appellant is allowed a METC for the cost of the shower head filter.
+Signed at Halifax, Nova Scotia, this 30th day of December 2008.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2008TCC677
+COURT FILE NO.: 2004-657(IT)I
+STYLE OF CAUSE: FRANKLIN D. TALL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 22-29, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: December 30, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Scott I. Simser
+Counsel for the Respondent:
+Catherine Letellier de St-Just
+Brent Cuddy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Scott I. Simser
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Dr. Adelson used the term “spiritual practice” instead of “religion” because religion is usually associated with organized religion; whereas, spiritual practices encompass all beliefs.
+[2] Ray v. R., [2004] F.C.A. 1
+[3] Ibid
+[4] Dr. Adams, the Appellant’s naturopath is not a pharmacist as was the case in Ketchen v. The Queen, [2003] 2 C.T.C. 2510 (TCC).
+[5] Regulated Health Professions Act, 1991, S.O. 1991, c.18, Schedule 1
+[6] 2008 TCC 171
+[7] Part I of the Constitution Act, 1982
+[8] 2008 FCA 190
+[9] Herzig v. R.,2004 TCC 344 at paragraph 13
+[10] Auton (Guardian ad Litem of) v. B.C. (A.G.), 2004 SCC 78
+[11]Supra footnote 8 at paragraph 12
+[12] Canada, House of Commons, Debates, at 3580 (23 June 1942) (Minister of Finance Isley) and Canada, House of Commons, Debates, at 1255 (8 April 1952) (Minister of Finance)
+[13] Ali v. The Queen, 2006 TCC 287 at paragraph 113
+[14] An Act to amend the Income War Tax Act, S.C. 1942-1943, c.28, s.5(6)
+[15] See the former subparagraph 110(1)(c)(iii) of the Act.
+[16] Supra footnote 10 at paragraph 42.
+[17] Supra footnote 10 at paragraphs 42 and 43.

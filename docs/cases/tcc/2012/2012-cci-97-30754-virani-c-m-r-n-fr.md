@@ -1,0 +1,162 @@
+---
+title: "Virani c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30754/index.do"
+last_modified: "2012-03-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 97"
+citation2: ""
+neutral_citation: "2012 CCI 97"
+decision_date: "2012-03-27"
+language: "fr"
+item_id: "30754"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7492
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:43:39.051000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5308da5ab28116a312a0a46a60ed245f1e1d98a4c5d1b5458c8197bde01cc7d8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Virani c. M.R.N.
+
+- Citation: 2012 CCI 97
+- Decision date: 2012-03-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7492, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Virani c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-03-27
+Référence neutre
+2012 CCI 97
+Numéro de dossier
+2011-2079(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2011-2079(EI)
+ENTRE :
+SHIRAZ VIRANI,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 mars 2012 à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Jonathan Wittig
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre d’une décision rendue par le ministre du Revenu national en vertu de la Loi sur l’assurance‑emploi est accueilli, et la décision est modifiée compte tenu du fait que le nombre d’heures d’emploi assurable doit être déterminé selon le paragraphe 10(4) du Règlement sur l’assurance‑emploi.
+Chaque partie assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 27e jour de mars 2012.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 7e jour de mai 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2012 CCI 97
+Date : 20120327
+Dossier : 2011-2079(EI)
+ENTRE :
+SHIRAZ VIRANI,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Shiraz Virani était directeur des Finances à la bande indienne des Lax‑Kw’alaams (l’« employeur ») pour la période allant du 10 décembre 2008 au 11 mai 2009. Son traitement annuel était de 90 000 $, plus les avantages sociaux.
+[2] Congédié après une période de stage, M. Virani a présenté une demande de prestations au titre de la Loi sur l’assurance‑emploi ( la « LAE »). Sa demande a été rejetée au motif qu’il n’avait accumulé que 623 heures d’emploi assurable. Un nombre minimal de 910 heures est exigé pour avoir droit aux prestations.
+[3] M. Virani interjette appel de cette décision, et soutient qu’il avait accumulé 1 089 heures d’emploi assurable auprès de son employeur.
+[4] M. Virani a témoigné pour son propre compte à l’audience. Wayne Drury, qui avait embauché M. Virani et qui était administrateur de l’employeur, a été appelé à témoigner par le ministre du Revenu national (le « ministre »).
+Le régime législatif
+[5] Le régime législatif applicable est énoncé au paragraphe 6(3) et à l’article 55 de la LAE, ainsi qu’à l’article 10 du Règlement sur l’assurance‑emploi (le « Règlement »). Ces dispositions sont reproduites ci‑après :
+Loi sur l’assurance‑emploi
+6(3) Pour l’application de la présente partie, le nombre d’heures d’emploi assurable d’un prestataire pour une période donnée s’établit, sous réserve des règlements pris au titre de l’alinéa 54z.1), au titre de l’article 55.
+55(1) La Commission peut, avec l’agrément du gouverneur en conseil, prendre des règlements concernant l’établissement du nombre d’heures d’emploi assurable d’une personne et, notamment, prévoyant que les personnes dont la rémunération est versée sur une base autre que l’heure sont réputées avoir le nombre d’heures d’emploi assurable établi conformément aux règlements.
+(2) Lorsqu’elle estime qu’il est impossible d’appliquer les dispositions de ces règlements, la Commission peut autoriser un autre ou d’autres modes d’établissement du nombre d’heures d’emploi assurable.
+(3) La Commission peut, sous réserve des conditions qu’elle estime indiquées, modifier un mode qu’elle a autorisé ou retirer son autorisation.
+(4) La Commission peut conclure des accords avec des employeurs et des employés prévoyant d’autres modes d’établissement du nombre d’heures d’emploi assurable et y mettre fin unilatéralement.
+Règlement sur l’assurance‑emploi
+10(1) Lorsque la rémunération d’une personne est versée sur une base autre que l’heure et que l’employeur fournit la preuve du nombre d’heures effectivement travaillées par elle au cours de la période d’emploi et pour lesquelles elle a été rétribuée, celle-ci est réputée avoir travaillé ce nombre d’heures d’emploi assurable.
+(2) Sauf dans les cas où le paragraphe (1) et l’article 9.1 s’appliquent, si l’employeur ne peut établir avec certitude le nombre d’heures de travail effectivement accomplies par un travailleur ou un groupe de travailleurs et pour lesquelles ils ont été rémunérés, l’employeur et le travailleur ou le groupe de travailleurs peuvent, sous réserve du paragraphe (3) et si cela est raisonnable dans les circonstances, décider de concert que ce nombre est égal au nombre correspondant normalement à la rémunération visée au paragraphe (1), auquel cas chaque travailleur est réputé avoir travaillé ce nombre d’heures d’emploi assurable.
+(3) Lorsque le nombre d’heures convenu par l’employeur et le travailleur ou le groupe de travailleurs conformément au paragraphe (2) n’est pas raisonnable ou qu’ils ne parviennent pas à une entente, chaque travailleur est réputé avoir travaillé le nombre d’heures d’emploi assurable établi par le ministre du Revenu national d’après l’examen des conditions d’emploi et la comparaison avec le nombre d’heures de travail normalement accomplies par les travailleurs s’acquittant de tâches ou de fonctions analogues dans des professions ou des secteurs d’activité similaires.
+(4) Sauf dans les cas où le paragraphe (1) et l’article 9.1 s’appliquent, lorsque l’employeur ne peut établir avec certitude ni ne connaît le nombre réel d’heures d’emploi assurable accumulées par une personne pendant sa période d’emploi, la personne est réputée, sous réserve du paragraphe (5), avoir travaillé au cours de la période d’emploi le nombre d’heures d’emploi assurable obtenu par division de la rémunération totale pour cette période par le salaire minimum, en vigueur au 1er janvier de l’année dans laquelle la rémunération était payable, dans la province où le travail a été accompli.
+(5) En l’absence de preuve des heures travaillées en temps supplémentaire ou en surplus de l’horaire régulier, le nombre maximum d’heures d’emploi assurable qu’une personne est réputée avoir travaillées d’après le calcul prévu au paragraphe (4) est de 7 heures par jour sans dépasser 35 heures par semaine.
+(6) Les paragraphes (1) à (5) s’appliquent sous réserve de l’article 10.1.
+L’analyse
+[6] L’emploi de M.Virani en tant que directeur des Finances était un poste de direction pour lequel il était rémunéré sur une base annuelle. Les heures normales de travail de M.Virani coïncidaient avec les heures de bureau, qui étaient de sept heures par jour.
+[7] L’employeur ne s’attendait pas à ce qu’il y ait un grand nombre d’heures supplémentaires à effectuer. Toutefois, il était clairement stipulé dans le contrat de travail qu’étant donné que M.Virani occupait un poste de direction, il devait travailler des heures supplémentaires selon les besoins pour l’accomplissement de ses fonctions.
+[8] Le ministre soutient que le paragraphe 10(3) du Règlement est applicable, et que les heures d’emploi assurable sont réputées être celles établies par le ministre. Le ministre a établi qu’il y avait 623 heures assurables, compte tenu du relevé d’emploi établi par l’employeur et de l’hypothèse selon laquelle un grand nombre d’heures supplémentaires n’était ni exigé ni attendu.
+[9] M. Virani fait valoir qu’il avait plus de 1 000 heures d’emploi assurable. Il ne s’est pas prononcé sur la disposition légale qui devrait être applicable, et il a laissé à la Cour le soin d’en décider.
+[10] Là où le bât blesse au sujet de l’argument du ministre, c’est que le contrat de travail stipule clairement que M. Virani était tenu de travailler des heures supplémentaires, voire même un grand nombre d’heures supplémentaires, si cela était nécessaire à l’accomplissement de ses fonctions. L’employeur n’avait peut‑être pas envisagé qu’un grand nombre d’heures supplémentaires serait nécessaire, mais il était évident qu’on s’attendait à ce que des heures supplémentaires soient effectuées si les fonctions l’exigeaient.
+[11] Les circonstances étaient telles que, lorsque M. Virani avait commencé à travailler auprès de l’employeur, on lui avait remis une liste de projets dont il devait s’occuper.
+[12] Il est raisonnable de s’attendre à ce que M. Virani ait pu être tenu de travailler des heures additionnelles pour s’adapter durant les premiers mois de travail. M. Virani a déclaré qu’il en avait été ainsi. Il a donné un témoignage précis des problèmes avec lesquels il avait été aux prises et a déclaré qu’il avait travaillé de nombreuses heures supplémentaires pour essayer de comprendre des questions complexes qui se posaient à l’égard de plusieurs projets qu’il était censé gérer.
+[13] Au contraire, M. Drury a déclaré que M. Virani avait travaillé à un seul projet. Je suis convaincue que cette déclaration traduit l’état des connaissances de M. Drury. Toutefois, il était vraisemblablement impossible pour M. Drury de connaître l’ampleur du travail que M. Virani effectuait réellement, étant donné qu’il n’était pas en contact étroit avec lui.
+[14] M. Drury n’habitait pas au même endroit que M. Virani et ce n’est qu’occasionnellement qu’il se rendait au lieu de travail. De plus, il ressort plutôt clairement de la preuve que la relation d’emploi s’était détériorée presque dès le début. Bien que j’estime que le témoignage de M. Virani n’était pas convaincant en tous points, j’admets son témoignage selon lequel M. Drury ne lui avait guère donné de conseils dans l’accomplissement de son travail.
+[15] L’intimé soutient que M. Virani n’a pas travaillé de nombreuses heures supplémentaires parce que, selon M. Drury, M. Virani n’avait pas de clé pour le bureau ni ne connaissait le code de sécurité.
+[16] M. Virani a contesté ce témoignage, mais, même s’il n’avait pas de clé ou ne connaissait pas le code d’accès, on ne peut pas en déduire qu’il n’avait pas travaillé un grand nombre d’heures supplémentaires. M. Virani a produit en preuve des courriels envoyés en dehors des heures de service, démontrant qu’il avait bel et bien travaillé alors que le bureau était fermé.
+[17] Compte tenu de l’ensemble de la preuve, je conclus que l’employeur ne savait pas, et ne pouvait pas établir, les heures que M. Virani avait effectivement travaillées et pour lesquelles il avait été rémunéré.
+[18] Le paragraphe 10(4) du Règlement s’applique dans ces circonstances, et aboutit vraisemblablement à une issue plus favorable pour M. Virani que celle à laquelle je serais parvenue si j’avais tenu compte des éléments de preuve présentés à l’égard des heures effectivement travaillées.
+[19] Quant à l’application du paragraphe 10(3) du Règlement, je souscris au raisonnement du juge Boyle dans la décision Mackenzie c MRN, 2011 CCI 199, où il a fait observer qu’il y avait une ambiguïté sur la question de savoir si le paragraphe 10(3) ou (4) du Règlement avait préséance dans une affaire comme celle qui nous occupe. J’admets qu’il n’y a pas de bonne raison de préférer la solution la moins favorable pour M. Virani, et que le paragraphe 10(4) du Règlement doit donc être appliqué.
+[20] Par conséquent, l’appel est accueilli, et la décision du ministre est modifiée compte tenu du fait que les heures assurables doivent être déterminées selon le paragraphe 10(4) du Règlement.
+[21] Chaque partie assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 27e jour de mars 2012.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 7e jour de mai 2012.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2012 CCI 97
+NO DU DOSSIER DE LA COUR : 2011-2079(EI)
+INTITULÉ : SHIRAZ VIRANI
+c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Vancouver (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 19 mars 2012
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 27 mars 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Jonathan Wittig
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,192 @@
+---
+title: "First Choice Communications Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28147/index.do"
+last_modified: "2003-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 761"
+citation2: ""
+neutral_citation: "2003 CCI 761"
+decision_date: "2003-10-27"
+language: "fr"
+item_id: "28147"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1993
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:36:13.762000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c1644477b9eaae13d14a5e28c637d4f1aee9812ae94a93a05063cd79a34d76cc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# First Choice Communications Inc. c. M.R.N.
+
+- Citation: 2003 CCI 761
+- Decision date: 2003-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1993, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+First Choice Communications Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-10-27
+Référence neutre
+2003 CCI 761
+Numéro de dossier
+2003-1668(EI)
+Juges et Officiers taxateurs
+Dwayne W. Rowe
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003‑1668(EI)
+ENTRE :
+FIRST CHOICE COMMUNICATIONS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de First Choice Communications Inc. (2003‑1669(CPP)) le 31 juillet 2003 à
+Vancouver (Colombie‑Britannique)
+Devant : L'honorable juge D. W. Rowe, juge suppléant
+Comparutions
+Représentant de l’appelante :
+Robert B. Rieveley
+Avocat de l'intimé :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 27e jour d’octobre 2003.
+« D. W. Rowe »
+Juge suppléant Rowe
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Liette Girard, traductrice
+Dossier : 2003‑1669(CPP)
+ENTRE :
+FIRST CHOICE COMMUNICATIONS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de First Choice Communications Inc. (2003‑1668(EI)) le 31 juillet 2003 à
+Vancouver (Colombie‑Britannique)
+Devant : L'honorable juge D. W. Rowe, juge suppléant
+Comparutions
+Représentant de l’appelante :
+Robert B. Rieveley
+Avocat de l'intimé :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision du ministre est confirmée selon les motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 27e jour d’octobre 2003.
+« D. W. Rowe »
+Juge suppléant Rowe
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Liette Girard, traductrice
+Dossier : 2003‑1669(CPP)
+ENTRE :
+FIRST CHOICE COMMUNICATIONS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de First Choice Communications Inc. (2003‑1668(EI)) le 31 juillet 2003 à
+Vancouver (Colombie‑Britannique)
+Devant : L'honorable juge D. W. Rowe, juge suppléant
+Comparutions :
+Représentant de l’appelante :
+Robert B. Rieveley
+Avocat de l'intimé :
+Me Bruce Senkpiel
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté, et la décision du Ministre est confirmée selon les motifs du jugement ci‑joints.
+Signé à Vancouver (Colombie‑Britannique), ce 27e jour d’octobre 2003.
+« D. W. Rowe »
+Juge suppléant Rowe
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Liette Girard, traductrice
+Référence : 2003CCI761
+Date : 20031027
+Dossiers : 2003‑1668(EI)
+2003‑1669(CPP)
+ENTRE :
+FIRST CHOICE COMMUNICATIONS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Rowe
+[1] L’appelante, First Choice Communications Inc. (« Communications »), interjette appel à l’encontre de deux décisions, datées du 26 février 2003, dans le cadre desquelles le ministre du Revenu national (le « ministre ») a décidé que l’emploi d’Oluwakemi Adeoye (« Mme Adeoye » ou « la travailleuse ») auprès de Communications pendant la période du 1er février au 28 février 2002 représentait un emploi assurable et ouvrant droit à pension en vertu des dispositions pertinentes de la Loi sur l’assurance‑emploi (la « Loi ») et du Régime de pensions du Canada (le « Régime ») parce qu’elle était employée en vertu d’un contrat de louage de services.
+[2] L’avocat de l’intimé et M. Robert Rieveley, le représentant de l’appelante, ont accepté que les deux appels soient entendus sur preuve commune.
+[3] Robert Rieveley (« M. Rieveley ») a indiqué dans son témoignage qu’il résidait à Vancouver, en Colombie‑Britannique, qu’il est comptable agréé et qu’il agissait comme président‑directeur général (PDG) de Communications. Il est également un administrateur de la société appelante qui exploite une entreprise de service de communication dont le travail est de répondre à des appels téléphoniques, d’envoyer et de recevoir des courriels au nom de clients, de répondre à des demandes de renseignements au sujet de la diffusion de publicité à la télévision et d’entreprendre des campagnes de publicité pour des clients précis. Dans le cadre des présents appels, CHQM, une station de radio, a conclu un contrat avec l’appelante pour entreprendre une promotion dans le cadre de laquelle des travailleurs embauchés par Communications communiquent avec des membres du public afin d’obtenir de l’information au sujet des habitudes et des préférences d’écoute et de les inciter à choisir CHQM comme leur station préférée. M. Rieveley a déclaré que ce type d’activité de promotion se déroule habituellement pendant une période de deux ou trois semaines. Communications trouve le personnel nécessaire pour ces promotions en faisant de la publicité dans les journaux. Il a indiqué qu’il est très inhabituel pour Communications d’embaucher de nouveau un travailleur puisque la plupart des gens ne travaillaient que pendant les deux ou trois semaines nécessaires pour terminer un projet précis. M. Rieveley a déclaré que Mme Adeoye et Communications avaient conclu un contrat écrit, pièce A‑1, dans lequel les deux parties acceptaient que la première offrirait ses services en tant qu’entrepreneuse indépendante. Le taux horaire était de 10 $, et Mme Adeoye devait être payée toutes les deux semaines, selon les factures soumises au moins deux jours avant le quinzième ou le dernier jour du mois. M. Rieveley a déclaré que les heures d’ouverture de Communications étaient de 9 h à 17 h et que, même si chaque travailleur devait réaliser 300 appels par jour de travail, certains pouvaient en faire 600 alors que d’autres en faisaient 200. Il a déclaré qu’il existait un système de versement de primes au travailleur effectuant le plus d’appels pendant une certaine période et à celui ayant obtenu le plus grand nombre d’inscriptions selon lesquelles les gens répondant à l’appel acceptaient de participer à des promotions continues qui les obligeaient à écouter fréquemment cette station de radio. Le travail promotionnel était réalisé par 20 travailleurs dans des locaux qui avaient été loués par l’appelante. On fournissait à chaque travailleur un bureau et une chaise occupant un petit espace et séparé par une cloison, ainsi qu’un ordinateur, un téléphone et un casque d’écoute. Pour effectuer un appel, un travailleur devait signaler le 9 puis composer le numéro. Chaque numéro de téléphone devait être composé manuellement. M. Rieveley a déclaré que Communications était préoccupée principalement par l’obtention de résultats, et la plupart des travailleurs y consacraient toute la journée. La cliente, CHQM, avait fourni à Communications un scénario que les travailleurs devaient suivre lorsqu’ils effectuaient un appel, mais ils n’étaient pas supervisés et on ne leur donnait pas d’autres instructions sur la façon de remplir leurs fonctions. M. Rieveley a déclaré que certains travailleurs pouvaient continuellement produire les résultats escomptés en effectuant un grand nombre d’appels par jour. Aucun travailleur n’avait à engager de frais liés au travail. Il a déclaré que Mme Adeoye n’avait travaillé que pendant 15 jours pendant la période pertinente et qu’elle était libre d’embaucher quelqu’un pour effectuer les tâches découlant de son contrat conclu avec Communications. Il n’y avait pas de période de formation avant le début du travail. M. Rieveley a déclaré que le fait d’inscrire le nom des travailleurs sur une liste de paie régulière occasionnait trop de problèmes puisqu’ils n’avaient à travailler que pendant deux ou trois semaines. Il a indiqué que seuls deux travailleurs avaient été embauchés de nouveau pour travailler à une autre promotion entreprise par Communications au nom d’un autre client. Au début, les candidats étaient informés du fait que le travail ne durerait pas plus de trois semaines. M. Rieveley a déclaré que certaines hypothèses de fait sur lesquelles s’était fondé le ministre dans la Réponse à l’avis d’appel (« réponse »), déposée dans le cadre de l’appel 2002‑1668(EI), étaient incorrectes. À partir des observations écrites qu’il avait préparées, il a lu certains points qu’il souhaitait voir pris en considération, réfutant lesdites hypothèses, y compris le contenu des différentes conditions du contrat écrit conclu entre l’appelante et la travailleuse. M. Rieveley a reconnu que la travailleuse était tenue d’accomplir ses fonctions à l’intérieur des paramètres du contrat, mais il a fait remarquer qu’elle était libre de prendre des pauses déjeuner et des pauses café et de s’absenter brièvement de son bureau. Même si Mme Adeoye devait communiquer avec un certain nombre d’entreprises et de personnes pour remplir sa part du marché, le plus important facteur à son avis était son habileté à remplir la tâche conformément au scénario préparé et fourni par CHQM. M. Rieveley a reconnu que, conformément à la pratique standard de l’industrie, la travailleuse s’était vu assigner un nom de travail, Sandra, de façon à ce qu’elle ne puisse être identifiée s’il y avait un problème à la suite d’un appel téléphonique pendant l’activité de promotion. M. Rieveley a déclaré que trois employés réguliers de Communications se trouvaient dans les locaux et que les travailleurs pouvaient les consulter; il s’agissait d’une personne responsable de l’entretien des ordinateurs, Stevin Ditty (« M. Ditty »), qui est le président de Communications et de Chantal, qui avait entrepris une supervision limitée des travailleurs. Il a indiqué que le travail de Mme Adeoye était assujetti à une vérification au hasard, en vertu du paragraphe 8 du contrat (pièce A‑1). Selon M. Rieveley, comme Mme Adeoye recevait un salaire de 10 $ l’heure uniquement pour les heures qu’elle choisissait de travailler, elle pouvait augmenter son revenu en travaillant toute la journée et elle pouvait recevoir des primes en fonction de son rendement. À son avis, la pratique de l’appelante d’embaucher des travailleurs au motif qu’ils fournissaient leurs services en tant que travailleurs indépendants était adaptée à l’activité commerciale spéciale dans le cadre de laquelle des campagnes ou des sondages particuliers étaient réalisés pendant une courte période. Communications était en exploitation depuis 2001, et il avait été quelque peu surpris de recevoir les décisions du ministre au sujet de la relation de travail avec Mme Adeoye. Il a reconnu que cette dernière s’était présentée au bureau de Communications pour commencer à travailler à 9 h, mais il a déclaré qu’elle était libre de partir avant 16 h dans la mesure où elle avait effectué 300 appels, même si un départ hâtif aurait limité sa possibilité de recevoir des primes.
+[4] En contre‑interrogatoire, Robert Rieveley a reconnu que le contrat ne faisait pas mention de prime (pièce A‑1), mais qu’il comprenait que des prix en espèces étaient accordés chaque jour aux travailleurs atteignant certains objectifs. Il a déclaré que quatorze autres travailleurs avaient été embauchés le même jour que Mme Adeoye.
+[5] Cheryl Rieveley a témoigné qu’elle était responsable des comptes créditeurs chez Communications et qu’elle savait que des primes quotidiennes étaient versées à certains travailleurs. À son avis, le fait que les contrats ne mentionnent pas la méthode selon laquelle les travailleurs pouvaient gagner des primes constituait un oubli réalisé lors de la rédaction de ces derniers.
+[6] En contre‑interrogatoire, Cheryl Rieveley a déclaré qu’elle avait rempli le questionnaire, pièce R‑1, au nom de Communications et a reconnu que Mme Adeoye avait personnellement accompli les services décrits dans le contrat écrit, pièce A‑1, et elle a reconnu que la travailleuse devait se présenter tous les jours au bureau de l’appelante. Elle a reconnu que le contrat conclu par Communications et CHQM était fondé sur les résultats, puisque le montant du revenu gagné était lié au nombre d’appels effectués par ses travailleurs.
+[7] Oluwakemi (Kemi) Adeoye a indiqué dans son témoignage qu’elle résidait à Burnaby, en Colombie‑Britannique, et qu’elle était employée comme secrétaire administrative. C’est en naviguant dans Internet qu’elle a pris connaissance de la publicité de l’appelante qui invitait les parties intéressées à appeler à un numéro de téléphone précis. Mme Adeoye a appelé Communications et, dans le cours de la conversation, on lui a demandé de se présenter au bureau pour une entrevue. Le jour même où elle a passé l’entrevue, elle a reçu un appel de Communications qui lui offrait du travail. Mme Adeoye a indiqué qu’au bureau de l’appelante, il semblait que M. Ditty et une personne qu’elle ne connaissait que sous le nom de Chantal étaient les personnes responsables. Mme Adeoye a commencé à travailler à 9 h le 4 février 2002. On lui a fourni une liste de numéros de téléphone ainsi qu’un nom de travail, Sandra. Pendant son travail, Mme Adeoye entrait certains détails, comme le nom, l’âge, l’adresse et le sexe, dans l’ordinateur tout en parlant avec la personne qui avait répondu. Les personnes contactées de cette manière étaient informées que l’appel était effectué au nom de CHQM. Mme Adeoye a déclaré qu’un scénario lui avait été fourni et que M. Ditty lui avait dit, ainsi qu’aux autres travailleurs, qu’ils devaient suivre ledit scénario et qu’ils ne pouvaient improviser. Elle commençait à travailler à 9 h chaque matin en suivant les instructions que Chantal avait données à tous les travailleurs selon lesquelles ils pouvaient commencer à appeler les numéros figurant sur la liste qui leur avait été assignée. À 17 h, même si les travailleurs qui faisaient les appels partaient, M. Ditty et Chantal restaient. Pendant la journée, les travailleurs avaient deux pauses de 15 minutes et une pause de 30 minutes, annoncées par Chantal, qui inscrivait également l’heure d’arrivée et de départ de Mme Adeoye ainsi que le nombre d’heures travaillées par cette dernière. Mme Adeoye a déclaré que tous les travailleurs participant à l’activité de promotion de CHQM avaient été licenciés le 22 février 2002. À ce moment, elle avait travaillé pendant quinze jours. Elle a été payée conformément aux heures inscrites sur les deux feuilles de temps (pièce R‑2) et les deux factures jointes en annexe, l’une au montant de 542,50 $, représentant 54,25 heures de travail à 10 $ l’heure, et l’autre au montant de 470 $, représentant 47 heures de travail. Le 4 février 2002, son premier jour de travail, Mme Adeoye avait informé l’intervieweur qu’elle aurait bientôt un rendez‑vous chez le médecin et qu’elle n’avait donc travaillé que pendant 5,25 heures le 6 février. Avant de commencer à travailler, elle a reçu une feuille, pièce R‑3, imprimée sur du papier à en‑tête de Communications, indiquant le code de conduite devant être observé par les travailleurs. Sur ladite feuille, Mme Adeoye a fait remarquer la section traitant du code vestimentaire, y compris une description de ce que constituait une tenue de travail appropriée ou incorrecte, et le fait que le contrat indiquait que les travailleurs étaient des « employés ». Elle a déclaré que tous les travailleurs étaient dans la même pièce et que chacun utilisait un bureau, une chaise, un ordinateur et un téléphone qui étaient fournis par l’appelante. Selon elle, elle était tenue de rendre les services personnellement. Chaque jour, elle faisait apparaître sur son ordinateur une liste de numéros de téléphone, résidentiels, commerciaux ou institutionnels, et commençait à les composer en séquence. La nature de la promotion était telle que pour gagner un concours, les participants devaient écouter la station CHQM à un moment particulier durant la journée et, si leur nom était mentionné en onde, ils pouvaient gagner un prix. L’information recueillie pendant la conversation téléphonique était saisie à l’ordinateur par Mme Adeoye. Lorsqu’elle avait appelé à tous les numéros de la liste, elle en informait Chantal qui lui remettait une autre liste. Pour ce qui est de la question des primes versées aux travailleurs, Mme Adeoye a déclaré qu’il y avait des primes, versées toutes les deux semaines, dans trois catégories, à savoir au travailleur qui avait fait le plus d’appels, à celui qui avait obtenu le plus d’« inscriptions » ou à celui qui avait accumulé le plus grand nombre de « nouveaux noms ». Mme Adeoye a identifié le questionnaire, pièce R‑1, qu’elle a rempli.
+[8] En contre‑interrogatoire, Kemi Adeoye était d’accord avec Robert Rieveley pour dire que les travailleurs qui arrivaient en retard n’étaient pas congédiés, même si le travail devait commencer à 9 h chaque matin. Elle a déclaré qu’elle appelait à des numéros attribués à des églises, à des résidences privées, à des bureaux gouvernementaux et à des établissements commerciaux. Mme Adeoye a déclaré qu’elle n’avait pas reçu de prime puisqu’un seul gagnant était autorisé par catégorie. La plupart des travailleurs, elle y compris, faisaient plus de 500 appels par jour mais, puisque le logiciel utilisé par Communications n’enregistrait que les appels établis, définis par Communications comme des appels auxquels avait répondu une personne au numéro appelé, les numéros où il n’y avait pas de réponse devaient être recomposés par le travailleur en question. Mme Adeoye a déclaré qu’elle portait un casque d’écoute et qu’elle estimait qu’un appel établi, suivi d’un refus rapide, pouvait durer cinq secondes, mais qu’une conversation avec un participant consentant pouvait durer une minute. Pour appeler à des numéros de la grande région de Vancouver, les travailleurs devaient signaler le 9, puis composer le code régional 604 suivi du numéro complet de sept chiffres. Mme Adeoye a indiqué qu’elle avait fait des appels interurbains à des numéros en Colombie‑Britannique et que cette activité représentait environ 10 p. 100 de ses communications totales.
+[9] Robert Rieveley a témoigné, en contre‑preuve, que les travailleurs pouvaient arriver plus tard le matin dans la mesure où ils pouvaient faire le travail. Il a déclaré qu’il ne pouvait expliquer pourquoi la feuille, pièce R‑3, traitant de la présence personnelle et du comportement, avait été remise aux travailleurs. Il a déclaré qu’il ne se trouvait pas au bureau de Communications lorsque le travail était effectué pendant la période pertinente.
+[10] Dans le cadre de ses conclusions finales, Robert Rieveley, le représentant de l’appelante, a demandé à la Cour d’accepter que le contrat écrit conclu entre Communications et Mme Adeoye indiquait le statut d’emploi de cette dernière. Il a fait valoir que la travailleuse avait été engagée afin d’exécuter une simple mission pendant une courte période et qu’elle était libre d’obtenir des résultats si elle le choisissait, dans la mesure où son rendement correspondait aux conditions de son contrat.
+[11] L’avocat de l’intimé a soutenu que la preuve était conforme aux exigences de la jurisprudence actuelle puisque tous les facteurs du statut d’emploi convergeaient vers la conclusion selon laquelle Mme Adeoye avait été une employée et qu’elle fournissait des services en tant que personne travaillant à son compte.
+[12] La Cour suprême du Canada, dans un arrêt récent, 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983 – (« Sagaz ») s’est penchée sur une affaire de responsabilité du fait d’autrui et, dans le cadre de l’examen d’une gamme de questions pertinentes, elle a également été invitée à réfléchir à la définition d’entrepreneur indépendant. La décision de la Cour a été rendue par le juge Major, qui a examiné l’évolution de la jurisprudence dans le contexte de l’importance de la différence entre un employé et un entrepreneur indépendant puisqu’elle a une incidence sur la question de la responsabilité du fait d’autrui. Après avoir mentionné les motifs du juge d’appel MacGuigan dans l’arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 ([1986] 2 C.T.C. 200) ainsi que la référence qu’on y fait du critère d’organisation de lord Denning et la synthèse du juge Cooke dans la décision Market Investigations, Ltd. v. Minister of Social Security, [1968] 3 All E.R. 732, le juge Major, aux paragraphes 45 à 48, inclusivement, a déclaré ce qui suit :
+Enfin, un critère se rapportant à l'entreprise elle‑même est apparu. Flannigan, […] [« Entreprise control: The Separate-Independent Contractor Distinction », University of Toronto Law Journal, vol. 37, no 25, à la p. 29] énonce le [traduction] « critère de l'entreprise » à la p. 30 selon lequel l'employeur doit être tenu responsable du fait d'autrui pour les raisons suivantes : (1) il contrôle les activités du travailleur, (2) il est en mesure de réduire les risques de perte, (3) il tire profit des activités du travailleur, (4) le coût véritable d'un bien ou d'un service devrait être assumé par l'entreprise qui l'offre. Pour Flannigan, chaque justification a trait à la régulation du risque pris par l'employeur, et le contrôle est donc toujours l'élément crucial puisque c'est la capacité de contrôler l'entreprise qui permet à l'employeur de prendre des risques. Le juge La Forest a lui aussi formulé un « critère du risque de l'entreprise » dans l'opinion dissidente qu'il a exposée relativement au pourvoi incident dans l'arrêt London Drugs. Il a écrit, à la p. 339, que « [l]a responsabilité du fait d'autrui a pour fonction plus générale de transférer à l'entreprise elle‑même les risques créés par l'activité à laquelle se livrent ses mandataires. »
+À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l'arrêt Stevenson Jordan, […] [[1952] 1 The Times L.R. 101] qu'il peut être impossible d'établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [traduction] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d'apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l'opinion du juge MacGuigan lorsqu'il affirme – en citant Atiyah, […] [Vicarious Liability in the Law of Torts, Londres, Butterworths, 1967] à la p. 38, dans l'arrêt Wiebe Door, p. 563 – qu'il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[traduction] [N]ous doutons fortement qu'il soit encore utile de chercher à établir un critère unique permettant d'identifier les contrats de louage de services [...] La meilleure chose à faire est d'étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s'appliquent pas dans tous les cas et n'ont pas toujours la même importance. De la même façon, il n'est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+Bien qu'aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui‑même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n'y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l'affaire.
+[13] Je vais examiner les faits en rapport avec les facteurs établis par le juge Major dans l’arrêt Sagaz.
+Niveau de contrôle
+[14] Avant de commencer à examiner ce facteur, et les autres, se rapportant à la relation de travail en litige, je souligne le fait que Robert Rieveley, certainement, et Cheryl Rieveley, probablement, n’étaient pas présents dans le bureau de Communications lorsque le travail était réalisé pendant la période pertinente. Le témoignage de Mme Adeoye a révélé qu’on indiquait aux travailleurs à quel moment commencer et prendre une pause et qu’ils devaient respecter certains codes vestimentaires et de conduite conformément aux instructions contenues dans la feuille, pièce R‑3, que leur avait remise M. Ditty ou Chantal, les employés de Communications qui exerçaient les fonctions de gestionnaires et de superviseurs. On indiquait aux travailleurs de suivre un scénario qui avait été préparé par CHQM et qu’ils ne devaient pas s’en écarter pendant la sollicitation téléphonique. Mme Adeoye recevait, au moyen de l’ordinateur situé sur son bureau, une liste de numéros à appeler et lorsque cette liste était épuisée, on lui fournissait d’autres numéros. Les travailleurs, Mme Adeoye comprise, étaient amenés dans une pièce et travaillaient sous la supervision d’employés de l’appelante. Les appels étaient surveillés afin de s’assurer que les niveaux de rendement étaient maintenus et que le travail était terminé lorsque M. Ditty ou Chantal leur disait de déposer leur téléphone et leur casque d’écoute. Chantal inscrivait également l’heure d’arrivée et de départ de Mme Adeoye.
+Fourniture de l’équipement ou d’assistants
+[15] Les travailleurs n’étaient pas tenus de fournir de l’équipement. Tout le bureau, dont l’ameublement, les ordinateurs, les téléphones et l’équipement connexe, était loué ou possédé par l’appelante. Cheryl Rieveley a reconnu que les services de Mme Adeoye devaient être fournis personnellement pendant la courte période visée par le contrat écrit.
+Degré de risque financier et responsabilité en matière d’investissement et de gestion
+[16] Mme Adeoye n’a pas subi de risques financiers en raison de l’exécution des tâches imposées et se rapportant à la relation de travail. Elle a fourni ses services pendant un total de 15 jours de travail au cours d’une période de trois semaines. La nature de l’engagement régissait la durée de l’embauche, et Communications a eu recours aux services de son propre personnel pour superviser tous les travailleurs engagés pour le projet de courte durée.
+Possibilité de profit lors de la réalisation des tâches
+[17] La rémunération versée à Mme Adeoye était de 10 $ l’heure, non 8 $, comme l’a supposé le ministre dans la réponse. Elle a reçu ce taux pour chaque heure travaillée. Elle n’a pas été payée pour les heures où elle était absente, pour un rendez‑vous chez le médecin, du bureau de Communications. Le supposé système de primes quotidiennes ne semblait exister en majeure partie que dans la tête de M. Rieveley, puisqu’il n’était pas présent pendant la période pertinente. Il n’y avait pas de paiement quotidien, au contraire, Mme Adeoye a déclaré que les primes, dans chacune des trois catégories, n’étaient versées qu’à la fin de la deuxième semaine de la campagne de promotion. Chaque travailleur devait faire un minimum de 300 appels par jour. Un jour de travail typique, consistant en sept heures ou 420 minutes, en tenant compte des pauses totalisant une heure, représentait le nombre d’heures dont disposaient les travailleurs pour faire de 300 à 500 appels ou plus. Mme Adeoye a indiqué dans son témoignage que le fait de composer un numéro sans obtenir de réponse prenait cinq secondes de son temps. Lorsqu’une personne répondait à son appel, le temps écoulé par la suite pouvait varier entre cinq à dix secondes, dans le cas d’un refus rapide, ou pouvait durer au moins une minute si la personne ayant répondu était intéressée à participer à la promotion et fournissait différents renseignements personnels qui étaient saisis dans l’ordinateur par Mme Adeoye. Il n’est pas nécessaire d’être féru de mathématiques pour comprendre qu’il y a peu de place pour une gestion efficace du temps de la part du travailleur afin de maximiser ses gains.
+[18] Dans l’arrêt Le ministre du Revenu national c. Emily Standing, C.A.F., no A‑857‑90, 29 septembre 1992 (147 N.R. 238), le juge d’appel Stone a déclaré ce qui suit :
+[...] Rien dans la jurisprudence ne permet d’avancer l’existence d’une telle relation du simple fait que les parties ont choisi de la définir ainsi sans égards aux circonstances entourantes appréciées en fonction du critère de l’arrêt Wiebe Door [...]
+[19] Robert Rieveley, le représentant de l’appelante, a soutenu que Mme Adeoye était dans la même situation qu’un charpentier qui avait été embauché en vertu d’un contrat écrit afin de réaliser un projet précis à l’intérieur d’un délai estimé pour son exécution. La conduite réelle des parties durant la période de la relation de travail pertinente aux présents appels n’appuie pas l’affirmation de l’appelante selon laquelle Mme Adeoye était une entrepreneuse indépendante. Par comparaison, je crois que d’indiquer à un entrepreneur indépendant comme un charpentier ou un plombier précisément quand ramasser ou déposer ses outils ou prendre des pauses café ou déjeuner, tout en demandant le respect de codes vestimentaires très stricts et précis et un comportement non précisé dans ledit contrat, constituerait un faux pas gigantesque, destiné à provoquer une réponse brusque de la part du fournisseur de service, dont, probablement, la demande judicieuse d’un ou plusieurs outils manuels personnels communs à ces métiers.
+[20] Dans une décision récente de la Cour d’appel fédérale, Precision Gutters Ltd. c. Canada (Ministre du Revenu national – M.R.N.), [2002] A.C.F. no 771, la Cour a entendu l’appel interjeté par une société qui négociait des contrats avec le client puis embauchait des poseurs pour réaliser les travaux. En parvenant à la conclusion selon laquelle les poseurs de gouttières étaient des entrepreneurs indépendants et non des employés, le juge d’appel Sexton a conclu qu’il y avait deux entreprises, celle de Precision Gutters et celle des poseurs. Une entreprise visait la fabrication des gouttières et l’autre concernait leur installation physique. Le juge d’appel Sexton n’a pas abordé l’organisation opérationnelle complexe de Precision Gutters puisque l’on considérait qu’il s’agissait d’une entreprise distincte dont l’importance et le niveau de responsabilité ainsi que le lien financier avec l’utilisateur final étaient distincts de l’aspect commercial du processus de l’installation, dans le sens étroit, s’appliquant aux poseurs.
+[21] Je reviens à la question centrale, comme l’a mentionné le juge Major dans l’arrêt Sagaz, précité, qui est de déterminer la question de savoir si Mme Adeoye fournissait ses services à Communications en tant que personne travaillant à son compte. Quelle entreprise possédait‑elle? Elle a répondu à une annonce diffusée en ligne par l’appelante et, après une entrevue, elle a été embauchée pour travailler pendant une courte campagne de publicité et de marketing. De toute évidence, elle était une personne fournissant un service dans le contexte d’une relation employeur‑employé. Selon le point de vue de Mme Adeoye et, après l’examen des facteurs pertinents de façon objective, il est évident qu’il n’y avait qu’une entreprise en exploitation et qu’elle appartenait à l’appelante.
+[22] Je comprends la préoccupation exprimée par M. Rieveley selon laquelle le régime actuel d’assurance‑emploi, en vertu duquel chaque heure d’emploi est assurable, est lourd puisqu’il impose aux payeurs de respecter les exigences de la liste de paie ordinaire qui ne sont pas adaptées à certains types d’entreprises où les gens sont embauchés uniquement pour de courtes périodes afin de réaliser un projet précis. Cependant, en révisant la loi applicable, le législateur a éliminé l’obligation de travailler un nombre minimum d’heures pendant une période définie pour être assurable en vertu de la Loi.
+[23] Les décisions rendues par le ministre sont correctes et elles sont confirmées.
+[24] Les appels sont donc rejetés.
+Signé à Vancouver (Colombie‑Britannique), ce 27e jour d’octobre 2003.
+« D. W. Rowe »
+Juge suppléant Rowe
+Traduction certifiée conforme
+ce 26e jour de janvier 2004.
+Liette Girard, traductrice

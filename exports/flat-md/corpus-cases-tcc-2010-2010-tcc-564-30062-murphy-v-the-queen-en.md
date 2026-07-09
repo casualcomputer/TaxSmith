@@ -1,0 +1,414 @@
+---
+title: "Murphy v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30062/index.do"
+last_modified: "2010-11-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 564"
+citation2: ""
+neutral_citation: "2010 TCC 564"
+decision_date: "2010-11-04"
+language: "en"
+item_id: "30062"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7715
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:53:15.475000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a22f527ea985a9122ac6f111548d7e8aa443f88d4bdc138fab691d2d1513e506"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Murphy v. The Queen
+
+- Citation: 2010 TCC 564
+- Decision date: 2010-11-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7715, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Murphy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-04
+Neutral citation
+2010 TCC 564
+File numbers
+2009-1687(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1687(IT)I
+2009-1688(IT)I
+BETWEEN:
+CYNTHIA A. MURPHY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 18, 2010, at Edmonton, Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marla Teeling
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act (the “Act”) for the 2004 and 2005 taxation years are allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment as follows:
+1. In the 2004 taxation year:
+(a) the Appellant incurred business expenses totalling $4,729.07, which resulted in a business loss of $(529.07);
+(b) the Appellant incurred work space in home expenses of $1,459.01 that are not deductible in the 2004 taxation year pursuant to paragraph 18(12)(b) of the Act, but may be carried forward in accordance with paragraph 18(12)(c); and
+(c) the Appellant incurred an interest expense in the amount of $478.62 on her student loan.
+2. In the 2005 taxation year:
+(a) the Appellant incurred business expenses totalling $3,167.33 which resulted in a business loss of $(167.33);
+(b) the Appellant incurred work space in home expenses of $1,652.29 that are not deductible in the 2005 taxation year pursuant to paragraph 18(12)(b) of the Act but may be carried forward in accordance with paragraph 18(2)(c);
+(c) the Appellant incurred an interest expense in the amount of $1,503.69 on her student loan; and
+(d) the Appellant is allowed a deduction of $1,369.70 from income pursuant to subparagraph 8(1)(i)(i) of the Act.
+Signed at Ottawa, Canada, this 4th day of November 2010.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2010TCC564
+Date: 20101104
+Docket: 2009-1687(IT)I
+2009-1688(IT)I
+BETWEEN:
+CYNTHIA A. MURPHY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issues raised in the pleadings in these appeals were whether the Appellant was entitled to deduct expenses in excess of $2,300.36 and $841.72 in 2004 and 2005 respectively.
+[2] At the commencement of the hearing of these appeals, counsel for the Respondent submitted a Summary of Amounts Conceded which is reproduced below:
+1. For the 2004 taxation year:
+(a) the Appellant incurred business expenses totalling $4,253.89, as detailed in the attached Schedule A, and resulting in a business loss of $(53.89); and,
+(b) the Appellant incurred work space in home expenses of $1,459.01 that are not deductible in the 2004 taxation year pursuant to paragraph 18(12)(b) of the Income Tax Act, but may be carried forward in accordance with paragraph 18(12)(c).
+2. For the 2005 taxation year:
+(a) the Appellant incurred business expenses totalling $3,167.33, as detailed in the attached Schedule B, and resulting in a business loss of $(167.33);
+(b) the Appellant incurred work space in home expenses of $355.53 that are not deductible in the 2005 taxation year pursuant to paragraph 18(12)(b) of the Income Tax Act but may be carried forward in accordance with paragraph 18(12)(c); and
+(c) the Appellant is allowed a deduction of $1,369.70 from income pursuant to subparagraph 8(1)(i)(i) of the Income Tax Act.
+[3] As a result of these concessions, the Appellant is now disputing only those matters which I will discuss below.
+[4] A brief description of the Appellant’s work history as a lawyer is as follows. She started to practice law in 2000. From November 2000 to sometime in 2002, she practiced law in British Columbia. In 2002, she commenced to practice in Alberta as a sole practitioner. In addition to her practice, she did consulting work for the province of Alberta and research in the area of personal injury and corporate law for other lawyers. As a sole practitioner, she mainly did child welfare and criminal cases. Her clients did not go to her office which was in her home; she met them at the court house.
+[5] In October 2004, the Appellant became employed as a legal aid lawyer with the province of Saskatchewan. It was her evidence that she did not fully wind down her practice as a sole practitioner until March 2005 and her employment with the province of Saskatchewan ended in June 2005.
+Business Use of Home
+[6] The Appellant does not dispute the amounts conceded by the Minister of National Revenue (the “Minister”) for the utilities, insurance, property tax, condo fees and mortgage interest[1]. Her only disagreement is with the percentage of those amounts which were allowed by the Minister. It is her position that she used 26% of her home for business purposes; whereas, the Minister has conceded that she used 17% of her home for business purposes.
+[7] The Appellant’s only office was in her home. She used two of the three bedrooms as an office and together they measured 200 square feet. It is the Appellant’s position that her office space was 26% of the area of the living space in her home. The living space was 1259.4 square feet and it consisted of only the first and second floor in her home. She did not use her basement for business purposes and its area should not be considered when calculating the percentage of her home that was used for business.
+[8] It was the Respondent’s position that the Appellant used a room in her basement for storage of her files. This room measured 132 square feet. The total area of the Appellant’s home, including the basement, was 2,091 square feet. The Appellant used 332 square feet of her home for business purposes and this was approximately 16% of her home. However, the Minister has conceded that 17% of the Appellant’s home was used for business.
+[9] The Appellant’s calculations are incorrect. The result of her calculations is that 15.88% (200/1259.4) of her home was used for business. If I accept the Appellant’s evidence that she did not use her basement for storage, then the actual square footage of her home that was used for business was 9.56% (200/2091). She cannot ignore the basement area in the calculation of the square footage of her home.
+[10] In 2005 the Appellant did not include an amount for mortgage interest expense in her calculation for business use of home. At the hearing she estimated that this expense was $4,700 in 2005. Counsel for the Respondent accepted the estimation.
+Interest Expense for Student Loan
+[11] The Appellant submitted documents which confirmed that, in 2004 and 2005, she paid $478.62 and $1,503.69 respectively as interest on her student loans and these amounts will be allowed.
+Motor Vehicle
+[12] The Appellant stated that she no longer disputed the amounts allowed for motor vehicle expenses for 2005. However, it was her position that she incurred $1,009 as motor vehicle expenses in 2004. The Minister has conceded that the Appellant incurred motor vehicle expenses of $500 in 2004. I note that in her 2004 income tax return, the Appellant claimed a motor vehicle expense of $4,534.
+[13] The only receipts submitted by the Appellant for operating expenses for a motor vehicle were those for gas purchases and repairs for 2004 and 2005. Some of the receipts for 2004 were duplicates and some were illegible. The receipts for January to October 2004, which I could read, totalled $975.18. The Appellant is entitled to deduct this amount for motor vehicle expenses in 2004.
+Capital Cost Allowance
+[14] The Appellant has also disputed the amount of Capital Cost Allowance (CCA) which the Minister has conceded for the 2004 taxation year. In her 2004 income tax return, the Appellant claimed CCA of $10,446; whereas, the Minister has conceded total CCA of $271.99 for a computer and a fax machine. He has not allowed a deduction for CCA for the motor vehicle owned by the Appellant on the basis that she was no longer in business as of the end of 2004.
+[15] It was the Appellant’s evidence that, on May 4, 2004, she traded in her GMC truck for a Ford 250. She used the Ford 250 exclusively for business purposes. In August 2004, she acquired an Infiniti for personal use and it was this vehicle which she used when she was employed by Saskatchewan Legal Aid. She used the Infiniti to travel within Saskatchewan and between Saskatchewan and Alberta.
+[16] It was the Appellant’s position that her law practice did not cease when she became employed by Saskatchewan Legal Aid. She continued to have carriage of a litigation file from Nelson, British Columbia. This file was litigated in June 2004 and she appeared in court in March 2005 in Nelson, B.C. on the cost application for this file.
+[17] I find that the Appellant ceased her business as a sole practitioner in October 2004 when she became an employee of Legal Aid Saskatchewan. Although she stated that she was still performing tasks for her clients at the end of 2004, she was unable to substantiate her statement. In 2004, all income that she earned after October was employment income. The Appellant was not carrying on a business; she was tidying up her affairs after she took employment as a legal aid lawyer. She tendered a log book for 2004 but I have given no weight to this evidence as it was only produced in 2007 at the audit stage of this case.
+[18] Paragraph 13(7)(a) of the Income Tax Act and section 1100 of the Income Tax Regulations read as follows:
+13(7) Rules applicable -- Subject to subsection 70(13), for the purposes of paragraphs 8(1)(j) and (p), this section, section 20 and any regulations made for the purpose of paragraph 20(1)(a),
+(a) [change in use from income-producing] -- where a taxpayer, having acquired property for the purpose of gaining or producing income, has begun at a later time to use it for some other purpose, the taxpayer shall be deemed to have disposed of it at that later time for proceeds of disposition equal to its fair market value at that time and to have reacquired it immediately thereafter at a cost equal to that fair market value;
+…
+1100. (1) For the purposes of paragraphs 8(1)(j) and (p) and 20(1)(a) of the Act, the following deductions are allowed in computing a taxpayer's income for each taxation year:
+(a) rates -- subject to subsection (2), such amount as the taxpayer may claim in respect of property of each of the following classes in Schedule II not exceeding in respect of property
+(x) of Class 10, 30 per cent,
+…
+of the undepreciated capital cost to the taxpayer as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class;
+[19] As I have found that the Appellant was not carrying on a business after she took employment with Saskatchewan Legal Aid, it follows that she is not entitled to capital cost allowance for the Ford 250. The moment the Appellant ceased her business in October 2004, there was a change in use of the Ford 250. In accordance with paragraph 13(7)(a) of the Act, the Appellant is deemed to have disposed of the Ford 250 in October 2004. As a result, there is no undepreciated capital cost in class 10 as of the end of the 2004 taxation year from which the Appellant can claim CCA.
+Costs
+[20] The Respondent has made an application for costs in this appeal on the basis that the Appellant has unduly delayed the prompt and effective resolution of this appeal. In support of its application, the Respondent submitted the affidavit of Pat Chmilar, auditor with the Canada Revenue Agency (CRA). The Appellant did not ask for costs but opposed the Respondent’s cost application and she relied on her own affidavit. I told both parties that I would not read the affidavits until after I had made my decision on the issues raised by the Appellant.
+[21] On reading the affidavits, I am informed that counsel for the Respondent had sent several letters to the Appellant requesting the documents to support the expenses she claimed. The earliest letter was dated July 30, 2009 and the last letter was sent on January 22, 2010. The Appellant had problems locating the documents requested because she had moved in December 2008 and many documents were lost. However, on January 27, 2010, she did send counsel those documents which she had found.
+[22] These appeals were set for hearing before Pizzitelli J. on February 17, 2010. He changed the format of the hearing and held a pre-trial conference on that date. At the conclusion of the pre-trial conference, the parties were instructed to attempt to negotiate a settlement and report back to the Court by April 26, 2010. The parties met on March 22, 2010 and they reached an agreement subject to the Appellant furnishing further information and documentation to confirm student loan interest and mortgage interest.
+[23] Counsel for the Respondent drafted Minutes of Settlement (the “Minutes”) based on the agreement reached and sent the Minutes to the Appellant on April 14, 2010. The Appellant decided that she would not sign the Minutes as she wanted CCA for the Ford 250 in 2004. In response to the Appellant, Counsel for the Respondent wrote the following letter:
+Thank you for your letter dated April 18, 2010. I am writing to clarify the points raised in your letter.
+Capital Cost Allowance (“CCA”) – the disposal (change in use) of the class 10 asset in 2004 relates to the fact that you were an employee at the conclusion of 2004 and first six months of 2005, and not in business. As you will recall from our discussions at our meeting in March, it is irrelevant which vehicle is listed on the CCA schedule; the disposition (change of use) occurred because you were not in business at the end of the 2004 taxation year. While you did not benefit from a CCA deduction for 2004 (because there was no business at the conclusion of the year), you benefitted from a full year of depreciation in 2005, despite the fact that you were an employee for almost half the year. You will also recall that any receipts tendered with respect to the Nelson trip were allowed at 100%, despite our agreement that the vehicle was used (otherwise) 50% for business purposes.
+Mortgage – Please advise when you anticipate having this documentation. I am reluctant to delay the settlement beyond the date for us to communicate with the Court. This matter was originally scheduled in February; you have had an additional two months to procure the documents. Please note that the mortgage interest payments for your residence are calculated in the Business Use of Home amounts. As your expenses exceeded your business income, these amounts are not deductible in the 2004 or 2005 taxation years, and only available for carry-forward.
+Principal Payments – Payments towards principal (regardless of the reason) are not deductible expenses under the Income Tax Act. Furthermore, payments to redeem your mortgage, while an employee, because your husband was ill are personal living expenses, and disallowed pursuant to paragraph 18(1)(h) of the Income Tax Act.
+Kindly execute the documents enclosed with my previous letter or provide the requested additional documentation. We are required to communicate with the Court by April 26, 2010, as to whether the matters will settle or if we require a new hearing date. I look forward to hearing from you.
+[24] I have reviewed the Minutes and the amounts negotiated were more favourable to the Appellant than the outcome of this hearing. However, in an informal appeal, costs can only be granted to the Respondent in accordance with subsection 10(2) of the Tax Court of Canada Rules (Informal Procedure) which reads:
+10(2) The Court may award costs to the respondent, in an amount not exceeding the amounts listed in section 11, only if the actions of the appellant unduly delayed the prompt and effective resolution of the appeal.
+[25] I do not read subsection 10(2) as requiring the Court to consider a settlement offer when exercising its discretion to award costs. I acknowledge that the Appellant took considerable time to submit documents which supported the interest she paid on her mortgage. However, I accept her evidence about the personal difficulties which she faced both because of her husband’s illness and her own illness. The Appellant wrote to ING Mortgage in March 2010 to get confirmation of the amount of mortgage interest expense she had paid in 2004 and 2005. She received confirmation of the amount she had paid in 2004 only. According to the Appellant, in 2008, she had provided the CRA with the documents which proved the amount of interest she had paid on her student loans.
+[26] The Appellant would have been wise to accept the settlement proposal; but, under the circumstances, I decline to award costs to the Respondent.
+[27] The appeals are allowed to give effect to the concessions made by the Respondent; to increase the motor vehicle expenses to $975.18 in 2004; to include mortgage interest expense in the amount of $4,700 in the calculation for the business use of home in 2005; and, to allow a deduction for the student loan interest paid in the amount of $478.62 and $1,503.69 in 2004 and 2005 respectively.
+Signed at Ottawa, Canada, this 4th day of November 2010.
+“V.A. Miller”
+V.A. Miller J.
+SCHEDULE A
+2004 Taxation Year
+Description
+Submitted
+Allowed
+Concede
+Gross Sales:
+4,200.00
+4,200.00
+4,200.00
+Expenses:
+Advertising
+100.00
+-
+100.00
+Business Tax, Fees
+1,400.00
+-
+-
+Insurance
+3,576.00
+1,435.41
+1,435.41
+Maintenance & Repairs
+850.00
+-
+-
+Motor Vehicle
+4,534.00
+500.00
+500.00
+Office
+1,200.00
+-
+339.78
+Legal, acct.
+450.00
+-
+123.05
+Property Tax
+300.00
+-
+-
+Rent
+2,823.00
+-
+840.00
+Supplies
+500.00
+-
+149.72
+Telephone and Utilities
+2,280.00
+-
+493.94[1]
+Other
+1,850.00
+-
+Capital Cost Allowance
+10,446.00
+271.99
+Total Expenses and CCA
+$30,309.00
+$1,935.41
+$4,253.89
+BUOH
+-
+364.95
+*
+Net Business Income (Loss)
+$(26,109.00)
+$1,899.64
+$(53.89)
+Business Use of Home
+@ 15%
+@ 17%[2]
+Mortgage Interest
+5,039.51
+Heat (Direct Energy)
+562.93
+721.51
+Electricity (Epcor)
+460.07
+1,378.04
+Insurance
+410.00
+410.00
+Property Tax
+1,000.00
+1,281.02
+Condo Fees
+1,468.80
+Subtotal
+$2,433.00
+$10,298.88
+Less Personal Portion
+2,068.05
+$8,548.07
+Total BUOH
+$364.95
+$1,750.81
+BUOH prorated for 10/12 months
+*$1,459.01
+SCHEDULE B
+2005 Taxation Year
+Description
+Submitted
+Allowed
+Concede
+Gross Sales:
+3,000.00
+3,000.00
+3,000.00
+Expenses:
+Business Tax, Fees
+1,208.00
+-
+-
+Fuel
+650.00
+-
+-
+Interest
+110.00
+-
+-
+Maintenance & Repairs
+300.00
+-
+-
+Meals and Entertainment
+250.00
+-
+-
+Motor Vehicle
+3,504.63
+573.00
+573.00
+Rent
+-
+-
+840.00
+Property Tax
+300.00
+-
+-
+Supplies
+75.00
+-
+75.00
+Telephone and Utilities
+1,215.00
+-
+736.75[3]
+Other – Home Office
+2,745.00
+-
+-
+Capital Cost Allowance
+9.987.14
+-
+942.58
+Total Expenses and CCA
+$20,344.75
+$573.00
+$3,167.33
+BUOH
+-
+268.72
+*
+Net Business Income (Loss)
+$(17,344.77)
+$2,158.28
+$(167.33)
+Business Use of Home
+@ 15%
+@ 17%[4]
+Heat (Direct Energy)
+960.00
+167.67
+626.37
+Electricity (Epcor)
+1,500.00
+203.80
+1,185.16
+Insurance
+420.00
+420.00
+420.00
+Maintenance
+500.00
+-
+-
+Property Tax
+1,300.00
+1,000.00
+1,319.00
+Other
+900.00
+Condo Fees
+1,468.80
+Mortgage Interest[5]
+Subtotal
+$1,791.47
+$5,019.33
+Less Personal Portion
+1,522.75
+$4,166.04
+Total BUOH
+$268.72
+$853.29
+BUOH prorated for 5/12 months
+*$355.53
+CITATION: 2010TCC564
+COURT FILE NO.: 2009-1687(IT)I2009-1688(IT)I
+STYLE OF CAUSE: CYNTHIA A. MURPHY AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: October 18, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: November 4, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marla Teeling
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Telus - $326.48 Appellant has two telephone lines; concede 2nd line for March-October 2004. No
+receipts provided for January, February and June; concede only June as continuation of service shown
+by bills before/after.
+Bell - $7.46 Service started in October 2004. Allow 50% as business usage.
+Shaw (internet) – 160.00 Allow $20 (of $34.95) as business usage.
+[2] Note: 17% if use 332 / 1956 and just under 16% if use 200 / 1259. Square footage is 1259 sq feet
+main & 2nd floor; 697 sq feet basement.
+Business use as follows: 120 square foot room (12’ X 10’) to store legal books; 80 square foot room
+(8’ X 10’) used as an office; 132 square foot room (12’ X 11’) in the basement used for storage
+* The BUOH cannot be used as the business is in a loss position. The BUOH may be carried into the
+next year the business income exceed the business expenses. (Subsection 18(12))
+[3] Telus - $219.05 Appellant has two telephone lines; concede 2nd line ($43.81/month) for August –
+December 2005.
+Bell - $417.70 Service started in October 2004. Allow 50% of $835.40 s business usage.
+Shaw (internet) – 100.00 Allow $20 (of $34.95) for August-December as business usage.
+[4] Note: 17% if use 332 / 1956 and just under 16% if use 200 / 1259. Square footage is 1259 sq feet
+main & 2nd floor; 697 sq feet basement. See 2004 for further detail.
+[5] No documentation supplied for 2005 mortgage interest.
+* The BUOH cannot be used as the business is in a loss position. The BUOH may be carried into the
+next year the business income exceed the business expenses. (Subsection 18(12))
+[1] See Schedule A and Schedule B.

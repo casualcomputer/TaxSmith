@@ -1,0 +1,510 @@
+---
+title: "Moledina c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27817/index.do"
+last_modified: "2007-08-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 354"
+citation2: ""
+neutral_citation: "2007 CCI 354"
+decision_date: "2007-08-03"
+language: "fr"
+item_id: "27817"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 357
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:25:55.376000+00:00"
+cases_cited_count: 5
+cases_citing_count: 10
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "99ac73f9a5c0aa461865279c410b5d8ca5c959c433c6b57835ad09c9ded080a2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moledina c. La Reine
+
+- Citation: 2007 CCI 354
+- Decision date: 2007-08-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 357, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moledina c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-03
+Référence neutre
+2007 CCI 354
+Numéro de dossier
+98-2857(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 98-2857(IT)I
+98‑3366(IT)I
+2004-2436(IT)I
+ENTRE :
+MOHAMED MOLEDINA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus les 11, 12 et 13 juin 2007, à Toronto (Ontario).
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Représentant de l’appelant : Raza Khimji
+Avocat de l’intimée : Me Philippe Dupuis
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1989, 1990, 1991 et 1992 sont rejetés.
+Aucune ordonnance ne sera rendue quant aux dépens.
+Signé à Ottawa, Canada, ce 3e jour d’août 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Référence : 2007CCI354
+Date : 20070803
+Dossiers : 98-2857(IT)I
+98-3366(IT)I
+2004-2436(IT)I
+ENTRE :
+MOHAMED MOLEDINA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Les appels dont il s’agit ont été entendus ensemble. Ils ont été interjetés à l’encontre de nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 1989, 1990, 1991, 1992 et 1993. Ils portent sur le refus de la déduction des pertes que l’appelant a déclarées à l’égard d’investissements qu’il a faits dans des sociétés de personnes censées exercer des activités de recherche scientifique et de développement expérimental (« RS&DE »). Des crédits d’impôt à l’investissement (« CII ») ont également été demandés et refusés. Pour certaines des années en cause, aucun investissement n’a été fait, mais des pertes d’autres années ont fait l’objet d’un report prospectif ou rétrospectif.
+[2] Plusieurs raisons auraient pu être fournies pour expliquer le refus, dont les suivantes :
+a) il n’y avait pas de société de personnes;
+b) la société de personnes n’exploitait pas d’entreprise;
+c) l’appelant était un commanditaire;
+d) l’appelant était un « associé déterminé ».
+[3] Je ne m’attarderai pas sur ces arguments ni sur d’autres. L’appelant n’est qu’une personne parmi des milliers d’autres, principalement au Québec, qui ont investi dans des abris fiscaux dans le domaine de la RS&DE. Environ un millier d’appels ont été interjetés devant la Cour. Une décision a été rendue sur certains de ces appels, et un grand nombre ont été abandonnés. Dans aucun des appels qui ont été entendus le contribuable n’a eu gain de cause. À l’heure actuelle, il reste environ 160 appels, que la Cour s’efforce de traiter avec célérité. Dans certains cas, des groupes d’appels ont été tenus en suspens en attendant la décision de la juge Gauthier de la Cour fédérale dans l’affaire Angell et autres c. M.R.N. et autres, 2006 DTC 6582. Il s’agissait là d’un appel interjeté à l’encontre d’une décision d’un protonotaire accordant la radiation d’une demande de contrôle judiciaire présentée par M. Angell et un groupe important de contribuables afin d’obtenir que leurs cotisations d’impôt sur le revenu soient annulées parce que le ministre du Revenu national aurait indûment tardé à traiter leurs avis d’opposition. La juge Gauthier a rejeté l’appel et a statué que c’était la Cour canadienne de l’impôt qui avait compétence en la matière et non pas la Cour fédérale.
+[4] Les parties ont déposé la lettre d’entente suivante devant la Cour :
+[traduction]
+Le 5 juin 2007
+Raza Khimji
+Raza Khimji & Associates Inc.
+9011, rue Leslie, bureau 204
+Richmond Hill (Ontario)
+L4B 3B6
+Objet : Mohamed Moledina c. Sa Majesté la Reine
+Nos de dossier de la C.C.I. : 98‑2857(IT)I, 98‑3366(IT)I et 2004‑2436(IT)I Nos dossiers : 3-203714, 3-208810, 3-208944
+Monsieur,
+La présente fait suite à la conversation téléphonique que nous avons eue aujourd’hui et à la lettre que vous nous avez envoyée par télécopieur le 4 juin 2007. Veuillez prendre note que la présente annule et remplace la lettre signée par Me Simon Petit que nous avons envoyée plus tôt aujourd’hui. Comme nous en avons discuté, les deux parties conviennent de limiter, conformément à ce qui suit, la question à soulever devant la Cour canadienne de l’impôt dans le cadre des appels susmentionnés.
+En ce qui concerne les appels susmentionnés, il est convenu que l’appelant ne conteste plus que les cotisations pour les années d’imposition 1989, 1990, 1991, 1992 et 1993 ont été établies conformément aux dispositions de la Loi de l’impôt sur le revenu, compte tenu des faits pertinents et des dispositions législatives applicables. L’appelant admet donc que les cotisations sont exactes.
+Par conséquent, les parties conviennent qu’il n’est pas nécessaire de présenter de preuve concernant les montants d’impôt établis dans les cotisations ou les raisons pour lesquelles ces cotisations ont été établies, ou bien de présenter des arguments à cet égard.
+Il est entendu que, lors de l’audience, la seule question que l’appelant soumettra à la Cour canadienne de l’impôt sera celle de savoir si la Cour peut, en raison de retards que l’appelant prétend excessifs et inacceptables, accorder l’annulation des intérêts qui ont été calculés conformément aux dispositions de la Loi de l’impôt sur le revenu.
+L’appelant admet qu’il a déjà été informé, notamment, dans une lettre datée du 1er mai 2007, que la position de l’intimée à cet égard est que la Cour canadienne de l’impôt n’a compétence ni pour annuler les intérêts ni pour accueillir les appels pour le motif que les processus de vérification, d’opposition et ou d’appel auraient pris trop de temps.
+À l’appui de sa position, l’intimée se fondera, entre autres, sur la décision Raby c. Canada, 2006 CCI 406, de la Cour canadienne de l’impôt, que nous vous avons déjà envoyée par télécopieur. Nous vous renvoyons aux paragraphes 50 et 51 des motifs, qui sont pertinents relativement à cette question :
+[50] En terminant, je tiens à mentionner que les appelants ont adressé de nombreux reproches à Revenu Canada au sujet du traitement de leur dossier et même, plus généralement, au sujet de la gestion des dossiers de R & D. L'un des reproches les plus importants concerne les retards, que d'aucuns considèrent comme excessifs et inacceptables dans les circonstances. Les appelants demandent donc à la Cour l'annulation des intérêts dans l'hypothèse où leurs appels seraient rejetés.
+[51] Comme je l'ai fait lors de l'audience, je rappelle que l'annulation des intérêts relève du pouvoir discrétionnaire conféré au ministre par le paragraphe 220(3.1) de la Loi. La Cour canadienne de l'impôt n'a aucun pouvoir à cet égard, sa compétence se limitant à déterminer le bien-fondé d'une cotisation. Si un contribuable qui s'est adressé au ministre pour faire annuler les intérêts est insatisfait de la décision rendue, il peut formuler une demande de contrôle judiciaire en Cour fédérale.
+Toutefois, comme nous l’avons indiqué dans notre lettre du 4 juin 2007, on n’a pas encore rendu de décision concernant une demande de l’appelant que son dossier soit examiné du point de vue de l’équité en vertu du paragraphe 220(3.1) de la Loi de l’impôt sur le revenu.
+Compte tenu du fait que l’appelant a condédé que les cotisations établies pour les années d’imposition 1989, 1990, 1991, 1992 et 1993 sont exactes, l’intimée accepte de ne demander, relativement à la conduite des appels susmentionnés, ni les dépens ni l’imposition de la pénalité prévue à l’article 179.1 de la Loi de l’impôt sur le revenu.
+Pour confirmer auprès de la Cour la portée de notre accord, nous vous demandons de signer la présente lettre et de nous en envoyer une copie par télécopieur le plus rapidement possible. Nous en déposerons alors une copie à la Cour.
+Je vous prie d’agréer, Monsieur, mes salutations distinguées.
+Me Philippe Dupuis
+Avocat
+L’appelant accepte de limiter, conformément
+à ce qui est énoncé ci-dessus, la question soulevée
+devant la Cour canadienne de l’impôt
+dans les appels susmentionnés.
+______________________________
+Raza Khimji
+Représentant de l’appelant
+[5] Compte tenu de cet accord, il n’y a pas lieu d’examiner au fond les appels. Il est toutefois approprié, à ce stade‑ci, que je me penche brièvement sur la question de la compétence de la Cour à l’égard des intérêts. On dit parfois, à tort selon moi, que la Cour n’a aucune compétence dans les cas où un contribuable s’oppose à ce que soient exigés des intérêts sur l’impôt sur le revenu. Cela va trop loin. Si la question en litige est de savoir si les intérêts ont été calculés correctement, ou bien de savoir s’ils ont été exigés conformément aux dispositions de la Loi, de toute évidence, la Cour de l’impôt a compétence pour entendre l’appel. Les intérêts sont un élément de la cotisation, et la compétence de la Cour de l’impôt comprend le pouvoir d’entendre les appels interjetés à l’encontre de cotisations établies en vertu des diverses lois mentionnées à l’article 12 de la Loi sur la Cour canadienne de l’impôt. Voir l’arrêt Union Gas Limited c. La Reine, Cour d’appel fédérale, A-585-87, le 29 octobre 1990, 90 DTC 6659.
+[6] Je ne crois pas, cependant, que la Cour canadienne de l’impôt ait le pouvoir de contrôler la décision d’exercer ou de ne pas exercer le pouvoir discrétionnaire de renoncer aux intérêts conféré au ministre par le paragraphe 220(3.1) de la Loi, ni d’exercer elle‑même ce pouvoir discrétionnaire. Quant à savoir si ce pouvoir appartient à la Cour fédérale, voilà une question qu’il vaudrait mieux trancher à une autre occasion. Dans l’arrêt récent de la Cour suprême du Canada dans l’affaire Canada c. Addison & Leyten Ltd, [2007] A.C.S. no 33 (QL), 2007 CSC 33, les observations suivantes ont été faites :
+8 Nul besoin de s’engager dans une longue discussion théorique sur la question de la possibilité de se prévaloir de l’art. 18.5 pour faire contrôler l’exercice de pouvoirs ministériels discrétionnaires. Personne ne conteste que le ministre fasse partie de la catégorie de personnes et d’entités visée par l’exercice de la compétence de la Cour fédérale prévue à l’art. 18.5. Le recours au contrôle judiciaire demeure possible dans la mesure où la question n’est pas autrement susceptible d’appel. Il reste également possible en cas d’abus de pouvoir, notamment de délais abusifs. On peut élaborer des réparations adaptées aux faits pour corriger les injustices ou problèmes soulevés dans une affaire donnée.
+9 Toutefois, nous estimons qu’il n’était pas possible de recourir au contrôle judiciaire compte tenu des faits en cause. Comme l’a souligné le juge Rothstein, l’interprétation que la majorité de la Cour d’appel fédérale donne à l’art. 160 équivaut à ajouter dans cette disposition un délai de prescription qui n’y figure tout simplement pas. Le ministre peut en tout temps établir une nouvelle cotisation à l’égard d’un contribuable. Selon le juge Rothstein :
+Même si dans le sens retenu par les juges majoritaires, le paragraphe 160(1) peut être considéré comme un moyen de recouvrement draconien, il vise aussi une cible précise. Il ne vise que les transferts de biens à des personnes se trouvant dans des relations ou des situations particulières, et seulement lorsque le transfert est en contrepartie d’une valeur inférieure à la juste valeur marchande des biens transférés. Comme le paragraphe 160(1) s’applique dans des circonstances précises et limitées, l’intention du législateur n’est pas obscure. Le législateur voulait que le ministre puisse recouvrer les montants transférés dans ces circonstances limitées afin de régler l’obligation fiscale du premier contribuable, auteur du transfert. Compte tenu des circonstances entourant de telles transactions, il est clair que le législateur souhaitait qu’il n’y ait pas de délai de prescription ni aucune autre condition applicable au moment de l’établissement de la cotisation par le ministre. [par. 92]
+10 Le ministre dispose du pouvoir discrétionnaire d’établir une nouvelle cotisation à l’égard d’un contribuable en tout temps. Cela ne veut pas dire que l’exercice de ce pouvoir ne peut jamais faire l’objet d’un contrôle. Toutefois, en raison du terme « en tout temps » à l’art. 160 de la LIR, la longueur du délai écoulé avant qu’il soit décidé d’établir une cotisation à l’égard d’un contribuable ne suffit pas à fonder un contrôle judiciaire, sauf, peut‑être, s’il s’agit d’autoriser un recours comme le mandamus pour inciter le ministre à faire preuve de diligence raisonnable une fois l’avis d’opposition déposé. De plus, en l’espèce, les allégations de fait dans la déclaration n’expliquent pas pourquoi il aurait été impossible d’examiner les questions relatives à l’obligation fiscale, tant en ce qui a trait à la cotisation fiscale sous‑jacente établie à l’encontre de York qu’aux cotisations établies à l’égard des intimés au cours d’une procédure d’appel normale.
+11 Dans de telles circonstances, les tribunaux de révision ne doivent ouvrir la voie aux recours en contrôle judiciaire qu’avec beaucoup de circonspection. Il y a lieu de protéger l’intégrité et l’efficacité du système de cotisation et d’appel en matière fiscale. Le Parlement a édifié une structure complexe pour assurer le traitement d’une multitude de revendications se rapportant au fisc, et cette structure s’appuie sur un tribunal spécialisé et indépendant, la Cour canadienne de l’impôt. On ne saurait permettre que le contrôle judiciaire serve à créer une nouvelle forme de procédure connexe destinée à contourner le système d’appel établi par le Parlement en matière fiscale ainsi que la compétence de la Cour de l’impôt. Dans ce contexte, le contrôle judiciaire devrait demeurer un recours de dernier ressort.
+[7] En général, les retards dans le traitement d’un avis d’opposition ne constituent pas un motif d’annulation d’une cotisation ni, à plus forte raison, de suppression des intérêts. La raison pour laquelle une telle mesure de redressement n’est pas accordée n’est pas l’absence de compétence de la Cour canadienne de l’impôt[1] — parce que s’il existe un motif juridiquement valable d’annuler une cotisation, la Cour a le pouvoir de le faire — mais plutôt le fait que, dans la plupart des cas, le retard ne constitue pas un motif juridiquement valable de contester une cotisation, étant donné que le contribuable lui-même détient le pouvoir de mettre fin au retard.
+[8] Selon l’alinéa 169(1)b) de la Loi, si le ministre n’a pas répondu à un avis d’opposition en établissant une nouvelle cotisation ou bien en annulant ou en ratifiant la cotisation, le contribuable a le droit d’interjeter appel devant la Cour canadienne de l’impôt. Étant donné qu’il a manifestement le droit d'interjeter appel après l'expiration d’une période de 90 jours, (voir l’arrêt Bolton c. Canada, [1996] A.C.F. no 820 (QL), 96 DTC 6413,[2] il est difficile d'imaginer pourquoi, dans un cas où le ministre tarde à traiter une opposition, un contribuable chercherait à obtenir ou se verrait accorder un redressement extraordinaire comme le mandamus (cf. l’arrêt Ginsberg c. Canada, [1996] 3 C.F. 334, (96 DTC 6372) ou un autre type de contrôle judiciaire. Cela suffit pour trancher les appels dont je suis saisi. Toutefois, par respect, étant donné les arguments bien sentis qui ont été présentés par le représentant de l’appelant et l’avocat de l’intimée, je ferai un bref résumé des événements de cette saga malheureuse concernant les abris fiscaux de RS&DE au Québec. L’intimée a appelé à témoigner M. Serge Huppé, un agent supérieur de la Direction générale des appels de l’Agence du revenu du Canada (l’« ARC »). M. Huppé était un témoin impressionnant et bien informé, et je lui suis redevable de sa description très éclairante de la façon dont le ministre s’est occupé du problème des abris fiscaux de RS&DE.
+[9] En 1989, l’appelant, un ingénieur en sciences nucléaires et une personne manifestement très intelligente et très instruite, s’est fait persuader d’investir dans plusieurs sociétés de personnes qui exerçaient prétendument des activités de RS&DE. Aucune des sociétés de personnes dans lesquelles l’appelant a investi au cours des années 1989 à 1992 n’était une société en commandite, quoique certaine des ententes suivant lesquelles les investisseurs pouvaient revendre leur participation pour 50 % du prix d’achat un an plus tard, ont eu pour effet, selon le ministre, que les investisseurs sont devenus des commanditaires au sens du paragraphe 96(2.4) de la Loi et donc des associés déterminés selon la définition à l’article 248. Dans certains cas où les investisseurs ne répondaient pas à la définition de commanditaire, on prétendait quand même qu’ils étaient des « associés déterminés » parce qu’ils ne prenaient pas une part active aux activités de recherche scientifique leur participation était qualifiée de « passive » dans certaines notes de service du ministère). Cela a entraîné la réduction ou le refus, de la déduction de pertes demandée et des CII. Je joins aux présents motifs les annexes A et B qui sont des diagrammes faisant partie des pièces R‑5 et R‑6 et qui donnent une idée de l’ampleur de l’opération. En tout, il y avait plus de 10 000 investisseurs, et des déductions de pertes s’élevant à environ 263 000 000 $ ont été demandées pour les années d’imposition 1986 à 1993. Si, comme les diagrammes aux annexes A et B l’indiquent, la société Zuniq faisait de la recherche scientifique pour la multitude des sociétés de personnes, elle aurait eu besoin de vastes installations et d’un très grand nombre d’employés. Je n’ai rien vu de cela, mais je n’examine évidemment pas les appels au fond. Je ne serais toutefois pas surpris si l’appelant estimait avoir été dupé et trompé par des promoteurs sans scrupules, et avoir été amené ainsi à investir de l’argent dans un stratagème d’évitement fiscal qui constituait davantage un subterfuge que de la recherche scientifique. Il a dit que, selon ce qu’il avait compris, si un numéro d’inscription d’abri fiscal était attribué à une société de personnes (comme c’était le cas pour toutes les sociétés de personnes), cela voulait dire que l’ARC acceptait l’investissement comme légitime et que les investisseurs avaient le droit de déduire les pertes et de recevoir les CII afférents à l’investissement. Cela n’est bien sûr pas le cas. Il est obligatoire que l’abri fiscal ait un numéro d’inscription pour que les investisseurs puissent déduire certaines pertes et dépenses relatives à un abri fiscal, mais cela ne constitue aucune garantie quant aux conséquences fiscales promises par le promoteur. Il s’agit d’une condition préalable, pas d’une approbation officielle.
+[10] Voici certaines dates pertinentes :
+Date de production des déclarations
+Date d’établissement des nouvelles cotisations
+1989 – le 23 mai 1990
+le 16 mars 1994 (renonciation)
+1990 – le 6 juin 1991
+le 16 mars 1994
+1991 – le 18 août 1992
+le 15 mars 1996
+1992 – le 16 juillet 1993
+le 15 mars 1996
+1993 – le 16 avril 1994
+La déclaration a fait l’objet d’une cotisation telle quelle
+[11] Les cotisations pour les années d’imposition 1990, 1991 et 1992, auxquelles l’appelant s’était opposé, ont été ratifiées le 3 mars 2004, et l’appelant a personnellement interjeté appel devant la Cour en joignant au formulaire d’appel une copie du texte des avis d’appel pour les années d’imposition 1989 et 1992 qui avaient été déposés par le cabinet Bonhomme, Castonguay & Associés les 29 et 30 octobre 1998. Les avis d’appel pour les années d’imposition 1989 et 1992 étaient en français. L’appelant ne parle pas français.
+[12] En mars 1995, le sous‑ministre du Revenu national (le « sous‑ministre ») et d’autres hauts fonctionnaires du ministère du Revenu national se rendaient compte qu’il y avait un problème grave en ce qui concerne les sociétés de personnes utilisées comme des abris fiscaux de RS&DE. Le 15 mars 1995, le sous‑ministre a rencontré des représentants d’une association de contribuables qui avaient investi dans des projets de recherche et développement. Le résumé suivant de la réunion a été déposé en preuve :
+[traduction]
+LE 22 MARS 1995
+SOCIÉTÉS EN NOM COLLECTIF AU QUÉBEC
+SOCIÉTÉS DE PERSONNES L’ASSOCIATION DE RS&DE
+RÉUNION AVEC LE SM ET L’ASSOCIATION D’INVESTISSEURS LE 15 MARS 1995
+BREF COMPTE RENDU – POINTS PRINCIPAUX
+1) M. Jules Brossard indique que :
+a) L’association représente quelque 800 investisseurs, et ce nombre ne cesse d’augmenter.
+b) Le problème auquel les investisseurs sont confrontés n’est pas un problème d’ordre juridique; il s’agit plutôt d’un problème d’ordre social : faillite, échec du mariage, etc. Selon un sondage qu’ils ont effectué, la moitié des investisseurs risque de faire faillite, alors que l’autre moitié risque de perdre leur maison ou l’argent de leur REER.
+c) Les investisseurs étaient des employés moyens, et beaucoup d’entre eux ont perdu leur emploi depuis en raison de la récession.
+2) a décrit la situation dans laquelle il se trouve : il doit 9 400 $ aux deux ordres de gouvernement pour l’année 1990 et il s’attend à recevoir une cotisation d’environ 14 000 $ pour 1991. Il a dit qu’il ne peut pas payer une dette fiscale de 25 000 $.
+3) L’association a soulevé les points suivants :
+a) nous avons encouragé la R&D;
+b) ni Finances ni RC n’ont expliqué quelles conditions devaient être remplies pour qu’un contribuable soit considéré comme un « associé déterminé »;
+c) on a refusé de fournir des lignes directrices aux investisseurs;
+d) un numéro d’inscription d’abri fiscal avait été accordé;
+e) les investisseurs avaient été rassurés par les réponses fournies aux demandes de renseignements présentées au BD;
+f) RC aurait dû diffuser un communiqué;
+g) RC a accepté les déductions pendant bien des années et n’a réagi qu’en 1993;
+i) les investisseurs ont agi de bonne foi;
+j) le rôle du gouvernement était d’intervenir plus tôt; le gouvernement n’a même pas encore publié de lignes directrices relatives à la question de la participation « passive »;
+k) certains investisseurs n’ont pas fait l’objet de nouvelles cotisations parce que l’année en question était frappée de prescription;
+l) les investisseurs n’ont pas les moyens financiers de contester les cotisations devant la Cour;
+m) les investisseurs ont fourni l’exemple de , qui est maintenant une société viable comptant 50 employés; cette société a survécu grâce aux fonds de R&D.
+4) Le SM s’est vivement opposé à ce que la responsabilité soit rejetée sur RC. Il a mentionné qu’il interviendrait publiquement, s’il y avait lieu, pour rectifier les faits. Il a également mentionné l’obligation des fiscalistes. Il a ajouté que le ministère ne s’opposait pas à ce que les investisseurs poursuivent les promoteurs en justice et que nous ne ferions certainement rien pour nuire à leur cause.
+5) L’association a eu une rencontre avec le SM du Québec, et M. Brossard a dit que Québec est favorable à un règlement. M. Brossard a également mentionné des règlements antérieurs, comme dans le cas des CDC et du transfert de 200 000 $ à la génération suivante aux fins des gains en capital.
+6) L’association cherche une solution globale qui pourrait s’appliquer à tous les investisseurs, que des activités de R&D aient été exercées ou non. M. Brossard a concédé qu’il y avait un problème si aucune activité de R&D n’avait été exercée. Il a mentionné que, dans de tels cas, nous pourrions envisager d’accorder la déduction d’une perte d’entreprise, c.‑à‑d. dans la mesure où il y avait une attente raisonnable de profit.
+7) L’association tiendra une conférence de presse bientôt pour annoncer une réunion avec tous les investisseurs, qui aura lieu à Montréal, le 10 avril 1995. On ne va certainement pas s’en prendre à RC, mais on va plutôt expliquer l’état du dossier. Les employés de RC sont invités à assister à la réunion « incognito ». On a également mentionné que Revenu Québec a cessé toutes ses mesures de recouvrement.
+8) Pour terminer la réunion, le SM a fait les observations suivantes :
+a) Il s’agit seulement du début de l’échange de renseignements.
+b) RC mènera à terme ses vérifications et l’établissement de ses nouvelles cotisations pour protéger la position du ministère.
+c) RC examinera les divers abris et fera les distinctions qui s’imposent entre les cas, selon, entre autres, que des activités de R&D ont été exercées ou non.
+d) RC travaillera en collaboration avec Revenu Québec.
+e) RC tiendra compte des dispositions législatives en matière d’équité.
+g) RC gérera le dossier à partir de l’AC.
+h) Nos conclusions seront communiquées par la suite.
+J.C. Boucher
+[13] En réagissant au problème, le gouvernement s’est montré rapide, résolu et responsable. Le jour de la réunion, un plan d’action a été élaboré, comme il est indiqué dans les deux notes de service suivantes :
+[traduction]
+LE 22 MARS 1995
+GROUPE DE TRAVAIL
+SOCIÉTÉS EN NOM COLLECTIF AU QUÉBEC
+ABRIS FISCAUX DE RS&DE
+PLAN D’ACTION
+1) Envoyer une TÉLÉCOPIE pour rappeler aux bureaux locaux qu’ils doivent continuer de tenir en suspens toutes les oppositions et tous les appels. (Fait le 16 mars 1995.)
+2) D’ici le 24 mars, et compte tenu de la conférence de presse qui sera tenue prochainement par l’association des investisseurs, élaborer des Q et R, une infocapsule et un exposé de la question.
+3) Préparer une réponse pour l’association à signer par M. Gravelle, et, une fois le document signé, envoyer une lettre provisoire aux grands cabinets qui représentent les contribuables pour les aviser de l’état de la question, c.‑à‑d. :
+a) que la question fait actuellement l’objet d’un examen à l’AC;
+b) qu’ils peuvent soumettre toutes observations supplémentaires qu’ils jugent opportunes;
+c) que nous communiquerons avec eux avant qu’une décision ne soit prise;
+d) que, dans l’intervalle, toutes les oppositions reliées à ce dossier continueront d’être tenues en suspens;
+e) que le processus de vérification pour les années d’imposition 1991 à 1993 se poursuivra, et que, pour protéger la position du ministère, des nouvelles cotisations seront établies s’il y a lieu;
+f) que la question a fait, et continuera à faire, l’objet de discussions avec Revenu Québec, afin que les deux ministères puissent adopter une approche commune à l’égard des problèmes.
+4) Communiquer avec les directeurs de BD concernés et, pendant la semaine du 27 mars, faire faire à une équipe composée de représentants des Appels (J.C. Boucher et S. Huppé), de la Législation (M. Lambert et A. Marchand) et de la Vérification (C. Lamarche et M. Lefebvre), ainsi que de deux conseillers scientifiques, du travail supplémentaire à Montréal en collaboration avec le coordonnateur de la vérification (voir le plan de travail ci‑joint).
+5) D’ici le 31 mars, communiquer avec la Commission des valeurs mobilières du Québec, la Commission des valeurs mobilières de l’Ontario et la Sûreté du Québec concernant tout renseignement pertinent que ces organismes pourraient posséder sur les abris fiscaux en question.
+6) Envoyer un observateur du BD de Montréal à la réunion que l’association des investisseurs prévoit tenir le 10 avril.
+7) D’ici le 13 avril, présenter au GROUPE DE TRAVAIL un exposé de position traitant, entre autres, des éléments suivants :
+a) les règles de droit applicables et l’historique législatif;
+b) pour chacun des éléments suivants des règles de droit applicables, les forces et les faiblesses en ce qui concerne les dossiers en question :
+i) Projets non admissibles :
+A) admissibilité vs non‑admissibilité,
+B) question de l’« attente raisonnable de profit »,
+C) montant de la perte;
+ii) Projets admissibles :
+A) montant de la perte/recherche,
+B) question du risque,
+C) participation passive vs participation active;
+c) conclusions.
+8) Le groupe de travail considérera les prochaines étapes, notamment :
+a) réunion avec Revenu Québec;
+b) réunion avec les principaux représentants.
+9) Suivi auprès de Finances concernant toute déficience législative.
+10) Élaboration et diffusion sur une grande échelle d’un article sur les abris fiscaux.
+[TRADUCTION]
+LE 22 MARS 1995
+Étude sur les
+sociétés en nom collectif au Québec
+utilisées comme des abris fiscaux de RS&DE
+Plan de travail général
+Objet : Évaluer la preuve pour établir les forces et les faiblesses de notre position dans les cas de sociétés en nom collectif au Québec utilisées comme des abris fiscaux de RS&DE.
+Équipe :
+• l’étude sera menée conjointement par les Appels, la Législation, les Programmes de vérification spécialisée et l’Évitement fiscal de l’Administration centrale;
+• en collaboration avec le coordonnateur de la vérification en matière de RS&DE du bureau des services fiscaux de Montréal;
+• sous la direction des Appels.
+Questions à examiner :
+A. Admissibilité des projets
+I. Projets de RS&DE non admissibles
+1. À quel point sommes‑nous convaincus du bien-fondé de notre conclusion que le projet n’est pas admissible aux fins de la RS&DE?
+2. À quel point sommes‑nous convaincus du bien-fondé de notre conclusion qu’il n’y a pas d’attente raisonnable de profit?
+II. Projets de RS&DE admissibles
+1. Dépenses dont la déduction a été refusée
+a) Montant des dépenses dont la déduction a été refusée
+• Nature des dépenses dont la déduction a été refusée.
+• Motif du refus de la déduction.
+• Mesure dans laquelle le refus est bien documenté.
+• Problèmes du fait qu’on a sous-traité le travail de recherche.
+b) Pas d’attente de profit
+• Facteurs dont on a tenu compte pour prendre la décision.
+2. Question de la participation active vs la participation passive
+• Éléments sur lesquels on s’est fondé pour en arriver à une décision.
+3. Question du risque
+• Y a-t-il eu indication par les promoteurs que les risques étaient minimes?
+• A-t-on donné aux investisseurs une assurance raisonnable?
+4. Rachat
+• Y a-t-il indication que de l’argent a été mis de côté à cette fin par la société de recherche?
+• Rachat avant la fin de l’année en cours ou de l’année suivante.
+5. Salaires admissibles aux fins d’un crédit d’impôt possible du Québec
+• Salaires révisés qui pourraient être admissibles aux fins du crédit d’impôt du Québec.
+B. Liste des contribuables visés
+I. Projets non admissibles :
+• années d’imposition visées;
+• nombre de sociétés de personnes et noms de celles‑ci;
+• nombre d’associés pour chaque société de personnes;
+• montant des pertes déduites par chaque société de personnes;
+• dans le cas d’une nouvelle cotisation, montant des pertes dont la déduction a été accordée;
+• rachat et pourcentage pour chaque société de personnes.
+II. Projets admissibles :
+• années d’imposition visées;
+• nombre de sociétés de personnes et noms de celles‑ci;
+• nombre d’associés pour chaque société de personnes;
+• montant des pertes déduites par chaque société de personnes;
+• dans le cas d’une nouvelle cotisation, montant des pertes dont la déduction a été accordée;
+• rachat et pourcentage pour chaque société de personnes.
+C. Analyse
+1. À partir des éléments de preuve recueillis, décider si les constatations s’appliquent de façon générale à toutes les sociétés de personnes ou bien s’il existe des différences importantes entre, par exemple :
+• les divers promoteurs;
+• les diverses sociétés;
+• les sociétés de personnes.
+2. Préparer un « dossier type » pour chaque situation distincte à l’aide de tous les éléments de preuve dont on dispose.
+[14] Au 3 avril 1995, on avait élaborée une note de service détaillée énonçant les points principaux relatifs à l’abri fiscal. Je n’en reprendrai que les paragraphes liminaires :
+[traduction]
+LE 3 AVRIL 1995
+SOCIÉTÉS EN NOM COLLECTIF AU QUÉBEC
+ABRIS FISCAUX DE RS&DE
+CONTEXTE
+• Environ 10 000 investisseurs dans la province de Québec ont acheté au cours des années d’imposition 1989 à 1993 des participations dans des sociétés en nom collectif de RS&DE.
+• Jusqu’à maintenant, plus de 6 000 nouvelles cotisations ont été établies, et 9 000 autres pourraient l’être à la suite des vérifications en cours.
+• Huit contribuables ont interjeté appel devant la Cour canadienne de l’impôt.
+• Des remises d’impôt ont été demandées pour les investisseurs, et deux demandes de recours collectif ont été déposées, principalement contre les promoteurs, mais aussi contre le ministère.
+POINTS PRINCIPAUX
+• Le ministère a relevé certains domaines où la loi n’a pas été observée et, au moyen de vérifications approfondies, prend des mesures appropriées pour redresser la situation.
+• Une personne qui est un associé d’une telle société de personnes a droit à sa part de la perte et à sa part du crédit d’impôt à l’investissement (CII) à l’égard des dépenses admissibles, à condition qu’elle ait pris une part active aux activités de l’entreprise de la société de personnes et que le risque que comportait l’investissement n’ait pas été limité. Ce risque peut être limité, par exemple, par le fait qu’un investisseur a obtenu la garantie qu’il pourrait vendre sa participation dans la société de personnes pour une somme supérieure à la juste valeur marchande.
+• Pendant ses vérifications, le ministère a conclu que certains projets n’étaient pas admissibles aux incitatifs fiscaux, lesquels sont conçus pour encourager la R&D au Canada et favoriser l’économie canadienne, parce qu’aucune recherche n’avait été effectuée. Dans d’autres cas, les associés ne prenaient pas une part active aux activités de l’entreprise ou le risque que comportait l’investissement était limité.
+• Nous avons reçu des investisseurs et de leurs représentants des observations dans lesquelles ils présentent avec force leur point de vue.
+• Revenu Canada continue à examiner la validité des abris fiscaux pour s’assurer que les nouvelles cotisations sont correctes sur le plan juridique.
+• La loi doit être appliquée de façon juste et équitable. S’il est conclu que les dispositions de la Loi de l’impôt sur le revenu ont mal été appliquées dans un cas donné, la situation sera rectifiée. De plus, les dispositions en matière d’équité de la Loi de l’impôt sur le revenu, qui autorisent le ministère à renoncer aux intérêts dans certaines circonstances, seront appliquées s’il y a lieu.
+[15] Le 5 avril 1995, la note suivante a été rédigée à l’intention de l’honorable David Anderson, ministre du Revenu national :
+[traduction]
+NOTE À L’INTENTION DE L’HONORABLE DAVID ANDERSON
+OBJET : Sociétés en nom collectif au Québec
+utilisées comme des abris fiscaux de RS&DE
+La présente vise à vous informer de l’état des cas susmentionnés où sont en cause des investisseurs dans la province de Québec.
+CONTEXTE
+• Environ 10 000 investisseurs dans la province de Québec ont acheté des participations dans des sociétés en nom collectif de RS&DE.
+• Jusqu’à maintenant, plus de 6 000 nouvelles cotisations ont été établies; elles refusant les crédits d’impôt à l’investissement et soit refusant également la déduction au titre demandée des pertes ou réduisent le montant de celles-ci. Ces nouvelles cotisations font l’objet d’une opposition, et 9 000 autres nouvelles cotisations pourraient être établies à la suite des vérifications en cours. (Certains investisseurs ont accepté les nouvelles cotisations.)
+• Huit contribuables ont interjeté appel devant la Cour canadienne de l’impôt, alors que des remises d’impôt ont été demandées pour la plupart des investisseurs. De plus, deux demandes de recours collectif ont été déposées contre les promoteurs. Le ministère et Revenu Québec ont aussi été nommés codéfendeurs pour une partie de la revendication.
+• La Commission des valeurs mobilières du Québec a poursuivi certains promoteurs et a eu gain de cause.
+ÉTAT
+Les investisseurs ont formé une association et, le 15 mars 1995, j’ai rencontré des membres de celle-ci, notamment son président et son vice‑président, ainsi que son représentant. Mme Claudette Lévesque, l’adjointe de M. Jean Pelletier, directeur du cabinet du premier ministre, a aussi assisté à la réunion.
+Compte tenu du nombre de contribuables visés et des diverses observations reçues, j’ai mis sur pied un groupe de travail spécial composé de sous‑ministres adjoints pour qu’il examine la situation en priorité. De plus, nous travaillons en étroite collaboration avec Revenu Québec.
+Je joins à la présente une copie de l’infocapsule et des questions et réponses, qui ont été élaborées en prévision d’une éventuelle conférence de presse. Je joins également une copie d’une lettre qui sera envoyée sous peu au président de l’association. L’association prévoit tenir une réunion de ses membres le 10 avril 1995, auquel moment la lettre pourra être rendue publique.
+Je vous tiendrai au courant de l’évolution de la situation.
+Pierre Gravelle
+[16] Au 13 avril 1995, le groupe d’étude avait élaboré un rapport détaillé, dont le résumé est rédigé ainsi :
+[traduction]
+EXAMEN DES
+SOCIÉTÉS EN NOM COLLECTIF AU QUÉBEC
+UTILISÉES COMME DES ABRIS FISCAUX DE RS&DE
+RAPPORT DU GROUPE DE TRAVAIL
+RÉSUMÉ
+MANDAT
+À la suite d’un projet d’établissement de nouvelles cotisations visant quelque 10 000 contribuables, le sous‑ministre a mis sur pied un groupe de travail composé de sous‑ministres adjoints pour qu’il examine l’ensemble de la situation. Notre mandat était d’évaluer les forces et les faiblesses de la position du ministère sur le plan factuel et législatif et d’en rendre compte au groupe de travail.
+CONSTATATIONS
+Les participations dans les sociétés de personnes ont toutes été vendues (convention de rachat), en l’espace de quelques mois suivant leur achat, en contrepartie de 45 % ou 50 % du montant de l’investissement initial.
+Aucune activité n’a été exercée par les sociétés de personnes après le rachat.
+Le mot « mandat » est employé dans les ententes entre les sociétés de personnes et les sociétés de recherche, et les sociétés de personnes ont demandé la déduction des dépenses, qu’elles ont détaillées, qui auraient été faites pour elles par les sociétés de recherche. Cela a amené le ministère à examiner, pour la plupart des projets admissibles, les diverses dépenses dont la déduction a été accordée en tout ou en partie.
+La plupart des conventions de recherche sont probablement des contrats d’entreprise.
+Dans le cas des projets non admissibles, toutes les déductions de dépenses et tous les crédits d’impôt à l’investissement connexes ont été refusés.
+Dans le cas des projets admissibles, tous les associés étaient considérés comme des associés passifs, et le crédit d’impôt à l’investissement leur a donc été refusé.
+Les dispositions concernant la fraction à risques n’ont pas été invoquées.
+CONCLUSIONS
+1. PROJETS NON ADMISSIBLES
+Le ministère a des arguments solides à l’appui du point de vue selon lequel ces projets ne sont pas admissibles à titre de dépenses de RS&DE et selon lequel les sociétés de personnes n’exploitaient pas d’entreprise dans une attente raisonnable de profit.
+2. PROJETS ADMISSIBLES
+Compte tenu du rachat, nous avons de très solides arguments à l’appui de la position selon laquelle les pertes relatives à des activités de RS&DE ne peuvent pas être supérieures au montant « net » investi, c.‑à‑d. l’investissement initial moins le montant du rachat. De plus, tout CII accordé ne se rapporterait qu’au montant net.
+3. DISPOSITIONS LÉGISLATIVES EN MATIÈRE D’ÉQUITÉ
+Les faits des divers cas sont de ceux auxquels s’applique la politique du ministère en matière d’annulation des intérêts et de renonciation à ceux‑ci.
+Jean-Charles Boucher
+Chef du groupe d’étude
+[17] Par suite du rapport, le sous‑ministre adjoint, Appels, M. R.M. Beith, a écrit, le 12 mai 1995, une longue note de service à l’intention du sous‑ministre, M. Pierre Gravelle. Il a traité de toutes les questions, y compris celle des forces et des faiblesses de la position du ministère.
+[18] Le 30 juin 1995, le projet de règlement suivant a été rédigé :
+[traduction]
+SOCIÉTÉS EN NOM COLLECTIF AU QUÉBEC
+UTILISÉES COMME ABRIS FISCAUX DANS LA RS&DE
+PROJET DE RÈGLEMENT
+• Revenu Canada a maintenant terminé l’ÉTUDE GÉNÉRALE de ces abris fiscaux et propose le règlement suivant aux 6 300 contribuables ("GROUPE PRINCIPAL") qui ont investi durant les années 1989 à 1993 et qui ont réclamé un crédit d’impôt à l’investissement ("CII"), une perte provenant d’une société et qui ont disposé de leur participation dans l’année suivant celle où l’investissement a été fait.
+• En se fondant sur les résultats de cette étude, Revenu Canada a conclu que les investisseurs n’ont droit à aucun CII et à aucune perte de la société parce que le risque des investisseurs était limité Cette position est conforme à l’intention du législateur lorsque la notion d’«associé déterminé» a été introduite, e.g. pour limiter l’utilisation des sociétés dans des abris fiscaux sur la RS&DE.
+• Revenu Canada est prêt à accorder, aux investisseurs du GROUPE PRINCIPAL, une perte de nature courante sur la disposition de leur participation dans la société et, à l’égard d’un investisseur qui n’était ps un promoteur, à annuler les intérêts. Le tout est conditionnel à ce que l’investisseur accepte qu’il n’a pas droit au CII et à la perte provenant de la société et qu’il renonce à son droit d’opposition et d’appel à cet égard. Le projet d’entente est joint à la présente.
+• Tout investisseur du GROUPE PRINCIPAL qui croit avoir droit au CII et à la perte provenant de la société sur la base que sa situation est substantiellement différente des résultats de l’étude réalisée par Revenu Canada pourra voir son cas évalué au mérite. Dans une telle situation, l’exactitude de la nouvelle cotisation et toute annulation des intérêts seront fondées sur les faits propres à son investissement et sur la législation applicable dans les circonstances.
+• Un deuxième groupe (DEUXIÈME GROUPE) comprend 1 700 contribuables qui ont investi dans les années 1992 à 1994, qui ont réclamé une perte provenant d’une société mais aucun CII, et qui n’ont pas disposé de leur participation dans l’année suivant l’année de l’investissement. Les nouvelles cotisations fédérales reçues par les investisseurs de ce DEUXIÈME GROUPE seront gardées en attente de développement à survenir compte tenu des appels devant la Cour du Québec à l’égard des cotisations émises par la province de Québec.
+• Revenu Québec est d’accord avec la substance du projet de règlement exposée ci-haut. Aussi, sur réception d’une copie des cotisations fédérales donnant suite au règlement, Revenu Québec offrira aux contribuables concernés du GROUPE PRINCIPAL la possibilité de conclure un règlement semblable.
+• Pour toutes demander de renseignements auprès de Revenu Canada, vous pouvez communiquer directement ou à frais virés au Centre fiscal de Shawinigan‑Sud au 819‑536‑6489.
+SOCIÉTÉS EN NOM COLLECTIF AU QUÉBEC
+UTILISÉES COMME ABRIS FISCAUX DANS LA RS&DE
+DÉTAILS DU PROJET DE RÈGLEMENT
+• Tous les crédits d’impôt à l’investissement sont refusés.
+• Toutes les pertes d’entreprise sont refusées.
+• Le montant pour le crédit d’impôt provincial pour la recherche scientifique ajouté au revenu antérieurement est annulé.
+• Le gain ou la perte en capital réalisé à la suite de la disposition de la participation dans la société est annulé.
+• Une perte d’entreprise dans l’année du rachat, soit l’année immédiatement après l’année de l’investissement, équivalente au montant investi moins le rachat est accordée.
+• Ainsi, la perte monétaire sur un investissement de 10 000 $ avec rachat à 5 000 $ serait de 2 700 $ :
+Investissement 10 000 $
+Moins : Rachat 5 000 $
+Récupération d’impôt
+(46 % de 5 000 $) 2 300 7 300
+Perte monétaire 2 700 $
+• Les intérêts nets (les intérêts débiteurs moins les intérêts créditeurs) du 1er mai 1990 au 31 octobre 1995 imputables à l’impôt payable à la suite des redressements mentionnées ci-dessus sont annulés.
+• Aucun intérêt ne sera annulé pour les promoteurs qui ont investi dans ces abris fiscaux.
+• Les lettres d’entente devront être envoyées à Revenu Canada au plus tard le 30 septembre 1995.
+[19] Le 5 juillet 1995, M. Jean‑Charles Boucher a écrit à Me Sylvain Castonguay, l’avocat qui représentait l’appelant et de nombreuses autres personnes qui avaient investi dans les abris fiscaux de RS&DE, et a joint à sa lettre le projet de règlement. Une autre lettre a été envoyée à Me Castonguay le 7 juillet 1995. Ces lettres, sans les pièces jointes, étaient ainsi conçues :
+Monsieur Sylvain Castonguay
+Procom Fiscalité Conseil
+3030, boulevard Le Carrefour
+Bureau 1101
+Laval (Québec)
+H7T 2P5
+Le 5 juillet 1995
+Monsieur,
+Objet: Oppositions des contribuables ayant investi dans
+des sociétés de recherche utilisées comme abris fiscaux
+La présente fait suite à notre lettre du 7 avril 1995 ayant trait aux avis d’opposition mentionnés en rubrique.
+Le Ministère a maintenant terminé une étude générale de ces sociétés utilisées comme abris fiscaux. Le résultat de cette étude et la position du Ministère sont exposés au document ci-joint en date du 30 juin 1995.
+Si vous désirez des renseignements additionnels concernant la position générale du Ministère, vous pouvez communiquer avec Jean‑Charles Boucher au (613) 957‑2185 ou Serge Huppé au (613) 957‑4077. Pour toute demande concernant un cas spécifique, vous ou vos clients peuvent communiquer directement ou à frais virés au Centre fiscal de Shawinigan‑Sud au (819)536‑6489.
+Veuillez agréer, Monsieur, l’expression de nos sentiments distingués.
+Jean-Charles Boucher
+Chef de section
+Direction générale des appels
+Administration centrale.
+Monsieur Sylvain Castonguay
+Procom Fiscalité Conseil
+3030, boulevard Le Carrefour
+Bureau 1101
+Laval (Québec)
+H7T 2P5
+Le 7 juillet 1995
+Monsieur,
+Objet: Sociétés en nom collectif au Québec
+utilisées comme abris fiscaux de RS&ED [sic]
+La présente fait suite à notre lettre du 5 juillet 1995 dans laquelle je vous exposais la position du Ministère à l’égard des abris fiscaux mentionnés en titre.
+Au nom du Ministère, je désire confirmer que la solution proposée vaut pour tous les investisseurs et tous les regroupements d’investisseurs. Également, et contrairement à ce qui a pu être rapporté, il n’y a aucune négociation en cours avec quelque représentant ou regroupement que ce soit et le Ministère n’entend pas entamer de telles négociations. Toute rencontre qui peut avoir lieu a seulement pour objet d’expliquer la position du Ministère dans ce dossier.
+Je réitère donc que la solution proposée vaut pour tous les investisseurs et qu’elle est juste et équitable et conforme au droit applicable en la matière.
+Veuillez agréer, Monsieur, l’expression de nos sentiments les meilleurs.
+Jean-Charles Boucher
+Chef de section
+Direction générale des appels
+Administration centrale.
+[20] L’appelant a indiqué dans son témoignage que Me Castonguay lui avait conseillé (et, on peut le supposer, avait conseillé) aux autres investisseurs qu’il représentait de rejeter l’offre de règlement du ministère et lui avait également dit que les investisseurs pourraient faire mieux à la Cour fédérale. Ces conseils étaient erronés sur toute la ligne. Le 23 novembre 1995, une lettre a été envoyée à tous ceux qui avaient investi de l’argent dans les projets de RS&DE, qu’ils eussent déposé un avis d’opposition ou non et qu’ils fussent représentés ou non. La lettre était rédigée ainsi :
+[traduction]
+Le 23 novembre 1995
+Objet : Investissement dans des sociétés de personnes utilisées comme des abris fiscaux de recherche scientifique
+Madame, Monsieur,
+Nous nous adressons à vous en votre qualité d’investisseur dans une société de personne utilisée comme un abri fiscal de recherche scientifique.
+À la suite d’un examen conjoint, Revenu Canada et Revenu Québec ont annoncé leur position le 30 juin 1995, lorsqu’ils ont présenté une proposition de règlement. Vous trouverez ci‑joint les documents relatifs à l’offre de règlement, qui sont intitulés « Projet de règlement » et « Détails du projet de règlement ».
+Revenu Canada a pris sur lui d’être le premier à communiquer le règlement à tous les investisseurs qui n’étaient pas représentés et aux investisseurs qui l’étaient, leur donnant jusqu’au 30 septembre 1995 pour retourner la lettre d’entente. Cela s’est fait pour tous les investisseurs qui avaient déposé un avis d’opposition. Nous proposons le même règlement aux investisseurs qui n’ont pas déposé d’avis d’opposition à la nouvelle cotisation et aux investisseurs qui n’ont pas encore fait l’objet d’une nouvelle cotisation pour les années 1992 et 1993.
+La vaste majorité des investisseurs ont accepté le règlement, étant donné que presque la totalité des spécialités de la fiscalité le recommandait. Par souci d’équité et pour nous assurer que tous les investisseurs ont eu la possibilité d’examiner ce règlement et de prendre une décision y relative, nous avons accepté d’écrire à tous les investisseurs qui ne nous ont pas envoyé leur lettre d’entente.
+D’après nos dossiers, vous avez investi dans au moins une société de personnes à laquelle le règlement s’applique. Parmi les documents ci-joints figurent deux lettres d’entente différentes. La lettre A est destinée aux investisseurs qui n’étaient pas des promoteurs des abris fiscaux en question, et la lettre B est destinée aux promoteurs qui ont investi dans ces abris fiscaux. Si vous voulez vous prévaloir du règlement, veuillez envoyer la lettre d’entente appropriée au chef des appels du centre fiscal de Shawinigan‑Sud avant le 30 décembre 1995.
+Pour que vous puissiez prendre une décision éclairée, nous avons joint à la présente une série de questions et réponses. Vous trouverez également ci‑joint un tableau montrant des exemples des conséquences fiscales, intérêts compris, pour les années d’imposition 1989 à 1993 dans des situations où les crédits d’impôt à l’investissement et les déductions au titre de pertes d’entreprise d’une société de personnes ont été refusés en totalité, ainsi qu’un tableau pour les années d’imposition 1989 et 1990 portant sur des situations où les crédits d’impôt à l’investissement ont été refusés, mais les déductions au titre de pertes d’entreprise d’une société de personnes ont été accordées en totalité. Comme vous pourrez le constater, l’offre de règlement réduit votre dette fiscale de 21 % à 63 %, selon l’année d’imposition et votre situation particulière.
+Ce règlement constitue une solution globale et doit viser toutes les sociétés de personnes utilisées comme des abris fiscaux dans lesquelles vous avez investi. La seule exception est les sociétés de personnes à l’égard desquelles les crédits d’impôt à l’investissement et les déductions relatives aux pertes d’entreprise n’ont jamais été rajustés, dans des cas où l’année d’imposition est frappée de prescription.
+Compte tenu des circonstances, il s’agit du meilleur règlement possible. Il est juste et équitable et représente l’interprétation la plus favorable possible des dispositions législatives applicables. Ce règlement offre l’allégement des intérêts le plus généreux possible dans les circonstances. En effet, le ministère annule les intérêts non seulement jusqu’au 31 octobre 1995, comme le prévoit le règlement, mais jusqu’à la date à laquelle de nouvelles cotisations seront établies pour donner effet au règlement, à condition que vous ne soyez pas un promoteur. De plus, nous accepterons tout arrangement raisonnable pour ce qui est du paiement de la dette fiscale et cela comprend la renonciation aux intérêts futurs si votre situation financière le justifie.
+Si vous ne retournez pas votre lettre d’entente avant le 30 décembre 1995, nous tiendrons pour acquis que vous avez refusé le règlement. Le ministère procédera alors à un examen de votre dossier, qui sera traité conformément aux dispositions législatives applicables.
+Pour de plus amples renseignements, n’hésitez pas à communiquer directement avec le centre fiscal de Shawinigan‑Sud, au (819) 536‑6489 (appels à frais virés acceptés). Vous voudrez peut-être, le cas échéant, consulter votre conseiller financier ou votre fiscaliste.
+Veuillez agréer, Madame, Monsieur, mes meilleures salutations.
+Jean-Charles Boucher
+Direction générale des appels
+Administration centrale.
+[21] Même si les documents cités ci‑dessus sont longs, je les ai reproduits pour montrer jusqu’à quel point Revenu Canada a fait les choses à fond, avec rapidité et d’une manière équitable en réagissant au problème. On a fait parvenir aux investisseurs le « Projet de règlement », qui est reproduit ci‑dessus, de même qu’une « Feuille de renseignements » et d’autres renseignements détaillés. L’offre n’a manifestement pas été acceptée par l’appelant, et ses avocats n’ont fait aucune tentative pour soumettre la question à la Cour, apparemment parce qu’ils attendaient que d’autres causes soient entendues.
+[22] Le 26 juillet 1996, Revenu Canada a de nouveau écrit à l’appelant, par courrier recommandé, lui offrant d’effectuer un examen approfondi de sa situation particulière. Que ce soit sur les conseils de son avocat ou non, M. Moledina ne s’est pas prévalu de cette offre. En fait, il semble ne pas être allé chercher certaines lettres recommandées qui lui avaient été envoyées. La lettre du 26 juillet 1996 est rédigée ainsi :
+[traduction]
+Objet : Investissements dans des sociétés de personnes utilisées comme des abris fiscaux de recherche scientifique
+Monsieur,
+La présente fait suite à la lettre datée du 23 novembre 1995 que nous vous avons envoyée.
+Nous vous avons alors informé d’une offre de règlement aux termes de laquelle votre obligation fiscale au 28 juin 1996, qui s’élevait à 12 912,12 $ relativement aux sociétés de personnes visées par le règlement, serait passée à 6 151,97 $, ce qui constitue une réduction de 6 760,15 $.
+Vous vous souvenez sans doute que le ministère avait conclu, après avoir procédé à un examen général, que les investisseurs n’avaient droit ni à un crédit d’impôt à l’investissement ni à la déduction de pertes d’entreprise d’une société de personnes. Cependant, et pour permettre aux investisseurs de clore l’affaire, Revenu Canada leur a offert le règlement global, qui comprenait, entre autres choses, l’annulation des intérêts. Cette mesure était subordonnée à l’acceptation de l’offre de règlement. En effet, compte tenu des faits révélés par l’examen général, si on n’accepte pas le règlement, les intérêts ne seront pas annulés.
+Pour ce qui est des investisseurs qui croient que leur situation diffère sensiblement des faits qui se dégagent de l’examen général, le ministère leur a offert, au lieu qu’ils acceptent la proposition de règlement, de procéder à un examen approfondi de leur situation et de traiter leur dossier en fonction des faits qui lui sont propres. Si vous voulez qu’un tel examen soit effectué dans votre cas, nous vous demandons en premier lieu de remplir le questionnaire ci‑joint pour chaque société de personnes à l’égard de laquelle vous avez déposé un avis d’opposition et de l’envoyer à l’adresse suivante, utilisant à cette fin l’enveloppe préadressée ci‑jointe, si vous le désirez :
+Chef des Appels
+Revenu Canada
+Centre fiscal
+Shawinigan‑Sud
+G9N 7S6
+Les renseignements demandés concernent votre participation aux activités de l’entreprise de la société de personnes et la question de savoir si le risque que comportait votre investissement était limité. Ces renseignements nous permettront de saisir, le cas échéant, la distinction entre les faits particuliers de votre cas et ceux révélés par l’examen général. Nous communiquerons alors avec vous, ou, le cas échéant, votre représentant, concernant les résultats de l’examen et la poursuite du traitement de votre dossier.
+Afin que nous puissions commencer l’examen le plus rapidement possible, nous vous demandons de nous envoyer les questionnaires dûment remplis au plus tard le 6 septembre 1996. Si nous ne recevons pas les questionnaires d’ici cette date, et à moins que, entre‑temps, vous n’ayez, en envoyant votre lettre d’entente à l’adresse susmentionnée, accepté l’offre de règlement annulant les intérêts qui se sont accumulés jusqu’au 29 décembre 1995, nous conclurons que vous ne voulez pas nous fournir les renseignements demandés. En pareil cas, le ministère prendra une décision à l’égard de vos avis d’opposition en tenant pour acquis que votre situation n’est pas différente des faits révélés par l’examen général, de sorte que vous n’aurez droit ni au crédit d’impôt à l’investissement ni à la déduction des pertes d’entreprise de la société de personnes.
+Pour de plus amples renseignements au sujet de la position du ministère, n’hésitez pas à communiquer avec le centre fiscal de Shawinigan‑Sud, au 536‑0693, poste 6572. Pour les appels interurbains, veuillez composer le 1‑800‑511‑3774, poste 6572.
+Veuillez agréer, Monsieur, mes salutations distinguées.
+Jean-Charles Boucher
+Direction générale des appels
+Administration centrale.
+[23] Le 24 octobre 2002, Me Bonhomme, qui semble avoir été, à un moment donné, l’associé de Me Castonguay dans le cabinet Bonhomme, Castonguay & Associés, a cessé de représenter l’appelant à l’égard des appels relatifs aux années 1989 et 1992.
+[24] L’affaire a traîné. Le 3 mars 2004, l’Agence des douanes et du revenu du Canada (l’ « ADRC ») a ratifié les cotisations pour les années d’imposition 1990, 1991 et 1993. Le 21 mai 2004, l’appelant a déposé des avis d’appel à la Cour, y joignant des parties des avis d’appel rédigés en français pour les années 1989 et 1992, lesquels avaient précédemment été déposés par son avocat.
+[25] Le 23 janvier 2004, le greffe de la Cour a écrit à l’appelant, fixant au 4 mars 2004 la tenue d’une audience sur l’état de l’instance concernant l’appel pour l’année 1989, et, le 22 avril 2004, la tenue d’une audience sur l’état de l’instance concernant l’appel pour l’année 1992 a été fixée au 2 juin 2004. Dans un cas, l’appelant ne s’est pas présenté, parce qu’il n’était pas allé chercher son courrier. Un jugement a été rendu contre lui, puis a été annulé à la suite d’une demande à cet effet.
+[26] En juin 2004, l’appelant a retenu les services d’un avocat, Me Khalil, et, à la suite d’une audience sur l’état de l’instance tenue par conférence téléphonique, l’honorable juge en chef Alban Garon a fait droit à la demande de Me Khalil que l’appel de l’appelant soit tenu en suspens, avec un nombre important des dossiers de RS&DE, en attendant que la Cour de l’impôt statue sur certains autres cas.
+[27] Le 8 juin 2005, le greffe de la Cour a écrit à Me Khalil au sujet de sa demande d’ajournement des appels de M. Moledina afin de lui permettre d’étudier la décision du juge en chef Garon dans l’affaire McKeown c. Canada, [2001] A.C.I., no 236 (QL), 2001 DTC 511, qui avait été rendue en mars 2001. Le greffe lui a dit d’aviser la Cour au plus tard le 15 juillet 2005 s’il voulait que les appels soient entendus.
+[28] Le 28 juin 2005, l’ADRC a écrit à M. Moledina, lui indiquant qu’elle ne pouvait pas traiter sa demande faite en vertu des dispositions en matière d’équité, étant donné que sa cause était encore devant la Cour canadienne de l’impôt. Je suppose que le présent jugement aura pour effet de lever cet obstacle.
+[29] Le 13 juillet 2005, Me Khalil a écrit à la Cour, demandant que les appels de ses clients (dont ceux de M. Moledina) soient tenus en suspens en attendant que la Cour fédérale statue sur le dossier T‑2096‑04 (l’affaire Angell). Le 11 août 2005, le greffe de la Cour a répondu à Me Khalil que sa demande était rejetée. La décision de la juge Gauthier de la Cour fédérale dans l’affaire Angell, précitée, a été rendue le 14 septembre 2006.
+[30] Le 18 janvier 2007, Me Gonthier du cabinet de Me Khalil (Marchand Melançon Forget LLP) a écrit que [traduction] « l’avocat soussigné » cessait de représenter l’appelant. L’audition des appels a été fixée au 11 juin 2007, à Toronto, soit environ 14 ans après le dépôt des avis d’opposition. C’est moi qui les ai entendus.
+[31] Ce retard est inacceptable. Toutefois, je ne crois pas que je puisse accorder à l’appelant les mesures de redressement demandées. Abstraction faite de la question de compétence, il faut se demander qui est responsable du retard. Ce n’est certainement pas la faute du ministère du Revenu national. Le ministère a réagi au problème d’une manière rapide, résolue et responsable. Il a présenté une offre de règlement équitable et généreuse et a même prorogé le délai pour l’accepter. Je ne vois rien de critiquable dans le comportement du gouvernement, et, même si le retard pouvait constituer un fondement juridique d’une décision accordant les mesures de redressement demandées par l’appelant, je ne vois rien qui justifie l’imputation de ce retard au gouvernement. Le ministre a retardé la ratification des cotisations dans le but de régler les milliers d’oppositions déposées relativement aux abris fiscaux de RS&DE. N’importe lequel des contribuables pouvait interjeter appel devant la Cour 90 jours après avoir déposé un avis d’opposition. Une fois cette Cour saisie d’une affaire, le greffe a pour pratique de se montrer obligeant l’appelant qui veut expédier le traitement de son appel. Si les parties veulent une date d’audience, il est possible d’en fixer une dans un délai d’un mois. J’éprouve beaucoup de sympathie pour l’appelant. Il a agi de bonne foi et s’est fié aux conseils de ses avocats. Sa confiance était mal placée.
+[32] Les appels sont rejetés. Aucune ordonnance ne sera rendue quant aux dépens.
+[33] Le jugement en l’espèce a été retardé parce que, selon la Loi sur les langues officielles, si les débats se sont déroulées en partie dans les deux langues officielles ou si les actes de procédure ont été rédigés en partie dans les deux langues officielles, les motifs et le jugement doivent être rendus simultanément dans les deux langues.
+Signé à Ottawa, Canada, ce 3e jour d’août 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Pièce R‑5
+Pièce R‑6
+RÉFÉRENCE :
+2007CCI354
+NOS DES DOSSIERS :
+98-2857(IT)I
+98-3366(IT)I
+2004-2436(IT)I
+INTITULÉ :
+Mohamed Moledina c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATES DE L’AUDIENCE :
+Les 11, 12 et 13 juin 2007
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge en chef D.G.H. Bowman
+DATE DU JUGEMENT :
+Le 3 août 2007
+COMPARUTIONS :
+Représentant de l’appelant :
+Raza Khimji
+Avocat de l’intimée :
+Me Philippe Dupuis
+AVOCAT(S) INSCRIT(S) AU DOSSIER :
+Pour l’appelant :
+Nom :
+Raza Khimji
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Cf. l’arrêt Lassonde c. Canada, 2005 DTC 5622.
+[2] Voir l’arrêt Provincial Secretary of Prince Edward Island v. Egan, [1941] R.C.S. 396, où le juge en chef Duff déclare, à la page 399 :
+[TRADUCTION]
+Je pense que l'hypothèse de l'appelant d'après laquelle l'article (1) du chapitre 5 des Statuts de 1940 de l'Î.P.E. donne prima facie un droit d'appel à la Cour suprême (Î.P.E.) des décrets, jugements, ordonnances ou condamnations prononcés par un juge de comté agissant à titre judiciaire, mais en tant que persona designata et non pas en tant que cour de comté, en vertu d'une loi provinciale, est tout à fait fondée. Ceci ne prétend pas être un exposé complet de l'état du droit, mais en de telles circonstances, je pense qu'il est possible d'interjeter appel.
+Le fait que le juge de comté ait agi sans avoir compétence n'affecte pas, à mon avis, le droit d'appel. Si l'on admet que l'article entend conférer un droit d'appel à la Cour suprême, même dans le cas où le juge de comté exerce une juridiction spéciale et n'agit pas en tant que cour de comté, il n'y a aucune raison pour limiter la portée de ce droit d'appel de manière à en exclure les questions de compétence. Comme le faisait remarquer le procureur général dans sa plaidoirie, les avocats ont surtout l'habitude de soulever ces questions de compétence à l'occasion des demandes de brefs de certiorari et de prohibition. Un tribunal exerçant une compétence limitée en vertu d'une loi ne peut rendre de décision obligatoire au sujet de sa propre juridiction; dans le cas où il s'attribue à tort compétence, ses décisions sont nulles et ne peuvent donc en principe faire l'objet d'un appel. Or, en l'espèce nous avons une loi, et ces considérations n'ont de valeur que du point de vue de la signification et de la portée de la loi.
+Il m'a toujours semblé que la procédure d'appel serait le meilleur moyen de contester le jugement d'un tribunal judiciaire que l'on estime mal fondé, soit parce que le tribunal s'est à tort déclaré compétent, soit pour un autre motif. Bien sûr, seule la loi peut conférer un droit d'appel, et, je le répète, la question se limite donc à la portée et à l'effet de cette loi.
+Ce passage a été cité et suivi par le président Jackett (tel était alors son titre) dans M.R.N. c. Gunnar Mining Ltd., [1970] R.C.É. 329, 70 DTC 6135.

@@ -1,0 +1,557 @@
+---
+title: "The Royal Winnipeg Ballet v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26773/index.do"
+last_modified: "2004-06-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 390"
+citation2: ""
+neutral_citation: "2004 TCC 390"
+decision_date: "2004-06-03"
+language: "en"
+item_id: "26773"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3519
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:22:43.587000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4d5b163e6e76eb9f9bc246d2def1e22b48d7613a997c565c8f870509e661779a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# The Royal Winnipeg Ballet v. M.N.R.
+
+- Citation: 2004 TCC 390
+- Decision date: 2004-06-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3519, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The Royal Winnipeg Ballet v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-03
+Neutral citation
+2004 TCC 390
+File numbers
+2003-2569(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-2569(EI)
+2003-2580(CPP)
+BETWEEN:
+THE ROYAL WINNIPEG BALLET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Kerrie Souster, 2003-2570(EI), 2003-2571(CPP)) and
+John Wright, 2003-2572(EI), 2003-2573(CPP)) and
+Tara Birtwhistle, 2003-2574(EI), 2003-2575(CPP))
+on February 18 and 19, 2004, at Winnipeg, Manitoba,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Robert A. Watchman
+Counsel for the Respondent:
+Tracey Telford
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue, on the appeal made to him under section 92 of that Act, is confirmed.
+The appeal pursuant to section 28 of the Canada Pension Plan is dismissed; and the determination by the Minister of National Revenue on the application made to him under section 27 of that Plan is affirmed.
+Signed at Ottawa, Canada, this 3rd day of June, 2004.
+"Campbell J. Miller"
+Miller J.
+Docket: 2003-2570(EI)
+2003-2571(CPP)
+BETWEEN:
+KERRIE SOUSTER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+The Royal Winnipeg Ballet, 2003-2569(EI), 2003-2580(CPP)
+John Wright, 2003-2572(EI),2003-2573(CPP), and
+Tara Birtwhistle, 2003-2574(EI), 2003-2575(CPP)
+on February 18 and 19, 2004, at Winnipeg, Manitoba,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Douglas H Mathew and
+Sergio Rodriguez
+Counsel for the Respondent:
+Tracey Telford
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister on the appeal made to him under section 91 of the Act is confirmed.
+The appeal pursuant to section 28 of the Canada Pension Plan is dismissed; and the determination by the Minister of National Revenue on the application made to him under section 27 of that Plan is affirmed.
+Signed at Ottawa, Canada, this 3rd day of June, 2004.
+"Campbell J. Miller"
+Miller J.
+Docket: 2003-2572(EI)
+2003-2573(CPP)
+BETWEEN:
+JOHN WRIGHT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+The Royal Winnipeg Ballet, 2003-2569(EI), 2003-2580(CPP),
+Kerrie Souster, 2003-2570(EI), 2003-2571(CPP) and
+Tara Birtwhistle, 2003-2574(EI), 2003-2575(CPP)
+on February 18 and 19, 2004, at Winnipeg, Manitoba,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew and
+Sergio Rodriguez
+Counsel for the Respondent:
+Tracey Telford
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister on the appeal made to him under section 91 of the Act, is confirmed.
+The appeal pursuant to section 28 of the Canada Pension Plan is dismissed; and the determination by the Minister of National Revenue on the application made to him under section 27 of that Plan is affirmed.
+Signed at Ottawa, Canada, this 3rd day of June, 2004.
+"Campbell J. Miller"
+Miller J.
+Docket: 2003-2574(EI)
+2003-2575(CPP)
+BETWEEN:
+TARA BIRTWHISTLE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+The Royal Winnipeg Ballet, 2003-2569(EI), 2003-2580(CPP),
+Kerrie Souster, 2003-2570(EI), 2003-2571(CPP) and
+John Wright, 2003-2572(EI) 2003-2573(CPP)
+on February 18 and 19, 2004, at Winnipeg, Manitoba,
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Douglas H. Mathew and
+Sergio Rodriguez
+Counsel for the Respondent:
+Tracey Telford
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister on the appeal made to him under section 91 of the Act, is confirmed.
+The appeal pursuant to section 28 of the Canada Pension Plan is dismissed; and the determination by the Minister of National Revenue on the application made to him under section 27 of that Plan is affirmed.
+Signed at Ottawa, Canada, this 3rd day of June, 2004.
+"Campbell J. Miller"
+Miller J.
+Citation: 2004TCC390
+Date: 20040603
+Docket: 2003-2569(EI), 2003-2580(CPP)
+BETWEEN:
+THE ROYAL WINNIPEG BALLET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2003-2570(EI), 2003-2571(CPP)
+AND BETWEEN:
+KERRIE SOUSTER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2003-2572(EI), 2003-2573(CPP)
+AND BETWEEN:
+JOHN WRIGHT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2003-2574(EI), 2003-2575(CPP)
+AND BETWEEN:
+TARA BIRTWHISTLE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] The Royal Winnipeg Ballet has been synonymous with dancing excellence for decades. It has attracted outstanding dancers in its performances in Canada and throughout the world. This case deals with the status of three dancers during the period from January 2001 to July 2001 for purposes of their insurability under the Employment Insurance Act and pensionability under the Canada Pension Plan. Were the Appellants, Kerrie Souster, John Wright and Tara Birtwhistle (the "Dancers"), independent contractors under a contract for service with The Royal Winnipeg Ballet for the period in question, or were they employees under a contract of service with The Royal Winnipeg Ballet? The Dancers and The Royal Winnipeg Ballet maintain that those engaged in the visual performing arts are in a unique position, and the standard tests of employment can only be viewed in that light. When so viewed, appreciating this uniqueness, the arrangement is one of an independent contractor nature. Not so, says the Respondent. All working Canadians, including highly-skilled professionals, must be treated uniformly and fairly, and when the appropriate well-developed tests of employment are applied, there is little doubt this arrangement is one of employment.
+[2] The circumstances present indices of both an employment and an independent contractor arrangement. I find on balance however that, in their arrangement with The Royal Winnipeg Ballet, the Dancers did not carry on business on their own account.
+Facts
+Dancers' arrangement with The Royal Winnipeg Ballet
+[3] The Royal Winnipeg Ballet was established in 1939. It consists of two elements: a school, and the performance side, the ballet company itself. The ballet company's season generally runs from August to May though this can vary. Normally, the ballet company performs four series in Winnipeg, and then also tours Canada and the United States, and occasionally overseas. Planning for production starts two or three years in advance of the first performance, depending on whether it is a new performance or an archived piece.
+[4] The artistic director of The Royal Winnipeg Ballet, Mr. André Lewis, is in charge of selecting the dancers for an upcoming season. There are three sources for the dancers; the current complement of dancers with The Royal Winnipeg Ballet, recruits from The Royal Winnipeg Ballet's school, and dancers who audition while The Royal Winnipeg Ballet is on tour. Dancers performing for The Royal Winnipeg Ballet will be given a letter of intent from The Royal Winnipeg Ballet by the end of February in one season indicating whether the dancer will have a contract for the following season. He indicated he does so based on artistic merit and technical expertise, in discussion with the dancer. If Mr. Lewis does not see a position for a particular dancer in the upcoming season, that dancer will also be notified prior to the end of February. Mr. Lewis will discuss with the more experienced dancers the potential roles available for an upcoming season.
+[5] An average complement of dancers with The Royal Winnipeg Ballet for a season is approximately 25. This will be made up of dancers of the following levels: Apprentices, Corps 1-6, Second Soloist 1-2, First Soloist 1-5 and Principal. After the artistic director has determined whom he wishes to engage and in which category, letters of intent are sent to the dancers. Where a dancer has responded positively, The Royal Winnipeg Ballet and the dancer enter an "Engagement Contract". This occurs in April or May of each year. The contract is for a single season. It stipulates the level at which the dancers engage and at what compensation for rehearsals, Winnipeg performances, and out-of-town performances. It also states that the parties agree to be bound by the "Canadian Ballet Agreement", a collective bargaining agreement between The Royal Winnipeg Ballet and Canadian Actor's Equity Association ("CAEA"), negotiated every three years. Finally, there is provision for any special riders; for example, a common rider would be that new compensation rates would apply retroactively to the contract if the collective bargaining agreement between The Royal Winnipeg Ballet and CAEA is extended or a new one comes into force during the term of the contract. The dancers can negotiate other elements of the contracts, such as increased compensation above scale (that is the scale in the Canadian Ballet Agreement),[1] special leaves for other engagements, travelling with a pet, as negotiated by Ms. Birtwhistle, or early leave from rehearsals for family reasons.
+[6] As well as the corps complement of dancers, The Royal Winnipeg Ballet will occasionally hire a "local jobber", a dancer at any level engaged for a limited period of time during a season, and a "guest artist", a dancer at the principal or high soloist level, again contracted for a limited engagement. The "engagement contracts" for such dancers are similar to the engagement contracts for the dancers engaged for the entire season, other than with respect to the time period. It would not be unusual for a guest artist to negotiate compensation over-scale.
+[7] Though not required by the engagement contract between the dancer and The Royal Winnipeg Ballet or by the Canadian Ballet Agreement, the dancers contribute to a Dancer's Resource Transition Plan. This is a fund used to assist professional dancers move from their career in dancing to their next endeavour. If a dancer contributes to this fund, and Ms. Birtwhistle and Mr. Wright testified that they did, then The Royal Winnipeg Ballet will match such contribution. The dancers can have such payments deducted from their compensation.
+[8] The dancers can also opt to have federal income tax deducted from their compensation by The Royal Winnipeg Ballet at whatever percentage they so choose. No Canada Pension Plan contributions or Employment Insurance premiums are taken from the dancer's compensation. The Dancers all had a goods and services tax (GST) registration number and charged GST on the fees received. The Royal Winnipeg Ballet withheld deductions for CAEA dues and premiums for health benefits. The Dancers were responsible for 25% of the cost of premiums for disability benefits, with The Royal Winnipeg Ballet paying the balance of the premiums for health benefits.
+Collective Bargaining Agreement
+[9] Before reviewing the testimony of Tara Birtwhistle and John Wright, I shall highlight some of the provisions of the 42-page Canadian Ballet Agreement which governs the relationship between the Dancers and The Royal Winnipeg Ballet. Ms. Susan Wallace, executive director at CAEA, who was intimately involved with the negotiations of this agreement, provided useful insight into the terms of the agreement. The agreement does not just pertain to dancers, but also covers stage managers, choreographers and ballet masters and ballet mistresses. It does not govern recording performances, simply live performances. The negotiating team for CAEA includes a representative of the dancers, as well as stage managers. CAEA is a party to several similar agreements including the National Ballet Company, Alberta Ballet and Vancouver Opera. Ms. Wallace made it clear there has been a long-standing basic understanding with CAEA that the performing artists are independent contractors, who enter contracts for single engagements. She acknowledged two exceptions; first, stage managers are often employees, and second, Alberta Ballet in Calgary traditionally hires dancers as employees.
+[10] The following are some provisions of note in the Canadian Ballet Agreement.
+PROVISIONS
+Individual Artist's Contract
+7.01 No Artist may take part in any performances or rehearsals or do any work without first signing an individual Artist's contract. All contracts and agreements made by the Engager with the Artist engaged under this Basic Agreement shall conform in every respect to all the provisions of this Basic Agreement ... .
+Assignment of Artist's Contract
+8. The Engager agrees that the individual Artist's contract between the Engager and any Artist may be not assigned or transferred to any individual or corporation unless the written consent of CAEA and the Artist concerned shall have been endorsed on the face of the contract or the transfer of said individual contract without such written consent shall be deemed null and void.
+Exclusive Service of the Artist
+9. Except as otherwise provided in the Artist's contract, the Artist shall not accept any other engagement in a performance before a live audience from the date of beginning of rehearsal and until said contract is lawfully terminated, without the written consent of the Engager. The Artist shall, however, have the right to accept other engagements, not conflicting with the fulfilment of duties under said contract, provided the Artist obtains the written consent of Engager with reasonable advance notice to Engager.
+If the Artist is a Principal or Soloist in the term covered by said contract, the Artist may enter in to a written agreement to be annexed to said contract, agreeing not to accept any other engagement and to render services exclusively to the Engager and not to render services to any other person or corporation without the written consent of the Engager. The Artist shall recognize that it is the Artist's responsibility to perform under the CAEA contract in the live theatre. If during the term of engagement under the CAEA contract, a Principal dancer or Soloist receiving star or featured billing is also engaged for a radio or television broadcast, the Artist shall require, as a condition of that engagement, that any announcements, written or otherwise which publicize appearance on radio or television, must expressly mention that the Artist is currently appearing with the company.
+Lowering of Minimums and Waivers Prohibited
+10. The Engager agrees that the minimum terms and conditions governing the engagement of Artists in Canada by the Engager are those contained herein, and the Engager further agrees that it will not enter into any contract with or engage any Artists in Canada upon terms and conditions less favourable to the Artist than those set forth herein. ... and the Engager further agrees that nothing in this Basic Agreement shall be deemed to prevent any Artist from negotiating for or obtaining better terms than the minimum terms provided for herein.
+Security Deposit (Bond)
+15.01 Before contracting any Artists the Engager shall deposit with CAEA (Toronto, Ontario, Canada) cash, a certified cheque or other security of a bank chartered to do business in Canada equal to at least one (1) week's contractual financial obligation of the Engager to the Artists. The Engager shall not be deemed to have performed its obligation under this Basic Agreement until the same has been approved by CAEA.
+15.03 ... CAEA shall have the right to require the Engager to post such bond or bonds or such other security, including money, and in such amount as CAEA shall deem necessary to insure the safe transportation and return of the Artist.
+Fees and Other Compensation
+18.01 (A) Fees
+2000-2001
+2001-2002
+2002-2003
+Apprentice
+$349.94
+$360.44
+$371.25
+Corps 1
+$466.59
+$480.59
+$495.01
+Corps 2
+$491.31
+$506.05
+$521.23
+Corps 3
+$543.84
+$560.16
+$576.96
+Corps 4
+$561.35
+$578.19
+$595.54
+Corps 5
+$577.83
+$595.16
+$613.02
+Corps 6
+$599.46
+$617.44
+$635.97
+Second Soloist 1
+$634.48
+$653.51
+$673.12
+Second Soloist 2
+$653.02
+$672.61
+$692.79
+Second Soloist (3 to 5 years of seniority) + 2% additional per season
+Fist Soloist 1
+$668.47
+$688.52
+$709.18
+First Soloist 2
+$707.61
+$728.84
+$750.70
+First Soloist 3
+$744.69
+$767.03
+$790.04
+First Soloist 4
+$775.59
+$798.86
+$822.82
+First Soloist 5
+$805.46
+$829.62
+$854.51
+Principal
+$941.42
+$969.66
+$998.75
+18.02 Categories
+(A) The above categories - Corps de Ballet, Second Soloist, First Soloist and Principal - relate to the position of the Artist's billing in the overall billing of the entire company and do not relate to the casting in an individual ballet, or roles to be performed in any ballet.
+(B) A Principal dancer is one who is billed in the overall billing of the entire company in the largest type face; a Soloist is one so billed in the second largest type face, and a Corps de Ballet dancer is one who is so billed in the third largest type face.
+(D) The Engager agrees to pay at least the minimum fee stipulated in this Basic Agreement for the highest category under which the Artist is individually contracted.
+(E) The Engager may require an Artist to render services in any category, whether or not that category is specified on the Artist's individual contract, unless the Engager and Artist mutually agree, at the time of negotiation of the Artist's individual contract, that the Artist may be required to perform in one (1) or two (2) categories only. ...
+Vacation Pay
+18.04 All Artists engaged by the Engager shall receive or accrue vacation pay according to the following categories and rates ...
+18.05 Per Diem (Accommodation on Tour - Living Allowance)
+(A) ...
+(B) The meal allowance on tour for the period July 1, 2000 to June 30, 2001 shall be fifty-five dollars and thirty-five cents ($55.35) per day.
+General Provisions for All Rehearsals
+25.01 ...
+(C) The Artist shall not be required to rehearse more than two (2) hours of actual overtime in any one (1) day. Should the Artist rehearse more than two (2) hours of overtime, the Artist will be paid at double the overtime rate for each half (½) hour or portion thereof beyond the two (2) hours. (Also see Rule 25.02(B), (C) and (D) and Rule 25.03(D) and (E) concerning span.)
+Posting of Rehearsal and Performance Schedules
+27.02 ... In the event that the Artist does not inform the Engager that said Artist will be unable to attend a rehearsal or a performance (see Rule 27.05) or is late for a rehearsal call or a performance call, the person in charge of said rehearsal or performance shall advise the Engager who may deduct from the Artist's fee the half-hourly rate for each half (½) hour or portion thereof for the time missed. The Artist may appeal through CAEA the Engager's decision not to pay the Artist for the time missed CAEA's decision on any appealed case shall be final and binding. ...
+29.16 Extraordinary Risks
+(A) When the Artist is called upon to render services involving extraordinary risks and is injured in the performance thereof, either during rehearsal or performance, and is consequently unable to rehearse or perform, the Artist shall receive full fees until said Artist is able to return to the company and resume engagement or for a maximum of five (5) years, whichever occurs first.
+...
+(D) Artists shall have the right to refuse to perform extraordinary risks.
+Costumes, Wigs, Shoes, Make-Up, etc.
+31.01 The Engager agrees to supply all Artists with all properly fitted costumes including performance tights, wigs and wig hairpins, jewellery, beards, hairpieces, shoes, body paint and wet white and up to six (6) pairs of pointe shoe ribbons (female artists), and shoe elastics per season, for all performances and rehearsals and class, required by the Engager and prior to such performances and rehearsals. Except where prevented by an emergency, each female Artist will be assigned their own performance tights for the season.
+31.06 If at any time during a season an Artist's footwear becomes unfit for dancing, the Engager will replace from reserve stock, or else order to the dancer's specifications a replacement. In cases of dispute over the wearability of the footwear, the Engager, and the Ballet Master or Ballet Mistress shall make the final decision.
+34.02 Sick Leave
+The Engager agrees that the Artist, while engaged, shall be entitled to sick leave with full pay for not less than fourteen (14) days from July 1 to June 30 of the following year, and the maximum number of consecutive sick days taken per incident of illness or accident cannot exceed seven (7) calendar days.
+43. Guest Artist Engagement
+The Artist may be permitted at the Engager's discretion to accept Guest Artist engagements outside the company. Should the Engager grant such permission the Engager agrees to inform the Artist in writing of any cost with regard to the Artist's lost fees, costume or tape rental. It is the Artist's responsibility to obtain the Engager's written permission before concluding any agreement to accept such external Guest Artist appearances.
+49. Engager's Rules
+Artists will be subject to all Engager's rules which are not in conflict with this Basic Agreement.
+Testimony of John Wright
+[11] Mr. Wright was a second soloist with The Royal Winnipeg Ballet during the period in question. As a second soloist he could perform certain character or leading roles. He is currently a first soloist. Mr. Wright received his first contract with The Royal Winnipeg Ballet in 1997. Both he and his wife received engagement contracts from Mr. Lewis at the Corps 4 level in 1997. They negotiated moving expenses and the length of the contract in that first season contract. Mr. Wright is currently engaged under his seventh, single season contract.
+[12] Mr. Wright described a typical non-performance and typical performance day. On the non-performance day, he would participate in an hour and one-half warm-up class put on by The Royal Winnipeg Ballet. While The Royal Winnipeg Ballet was required to provide this class, coached by a ballet master or ballet mistress, the dancer was not required to attend, and could opt to forgo a warm-up, although this would be unlikely. The dancer could opt to warm up where and how he or she pleased. Mr. Wright always attended, for, as he put it, "he could not get through the day without it". The first mandatory rehearsal was from 11:00 a.m. to 2:00 p.m. It was up to the artistic staff, led by Mr. Lewis, to determine the nature of the rehearsal. The dancers could be rehearsing more than one ballet at a time; often three one-hour blocks, each for a different ballet. There is a minimum one-hour break and then a second three-hour rehearsal. While in Winnipeg, the dancers would rehearse five days per week.
+[13] On performance days, for an evening performance, the work day starts later in the day, at 12:30 or 1:00 p.m., again with a warm-up class followed by one rehearsal. Each dancer prepares differently for a performance but most would do some form of preparation starting an hour to an hour and one-half prior to the performance.
+[14] Special concessions would be made while on tour; for example, there might be a day off after a day flight, as only a certain number of hours per day could be spent travelling. Such matters would be specifically negotiated through CAEA.
+[15] Mr. Wright described the collaboration amongst the artistic director, choreographer and dancer. Each dancer brings his or her own strengths, diversity, movements, lifts and personality to a role. A choreographer attempts to capture the artistic director's vision, and works with a dancer to create movements to do so. The dancer provides nuances within the role from their own strengths and interpretation, though, as Mr. Lewis put it, that must be within the realm of what is appropriate. Mr. Wright suggested that a choreographer might rely on the dancer to modify or improve movements. Conversely, the choreographer may advise on certain movements to evoke certain emotions. The ballet master or the ballet mistress serves as a dancer's eyes, and instructs in such specifics as straighten here, or point there, though, according to Mr. Wright, the final interpretative call remains his.
+[16] Mr. Wright testified that he had negotiated his fee above the scale though not substantially so. He also contracted to do some modelling and movie work while under contract with The Royal Winnipeg Ballet. If Mr. Wright appeared as a guest with another troupe, mention would be made that he was from The Royal Winnipeg Ballet. During the relevant period, Mr. Wright performed as a guest artist with Ballet B.C. and also performed for the Queen under contract with the Province of Manitoba in a special jubilee presentation. Mr. Wright would seek Mr. Lewis' approval to ensure such engagements could work into his Royal Winnipeg Ballet schedule. Mr. Wright charged GST, thought no actual invoices were submitted to The Royal Winnipeg Ballet. He had The Royal Winnipeg Ballet withhold tax, but no Canada Pension Plan contributions or employment insurance premiums.
+[17] Mr. Wright had to look after the following expenses himself:
+- fitness wear;
+- rehearsal wear;
+- some shoes;
+- gym fees, pilates lessons;
+- back brace;
+- hernia belt;
+- chiropractor and massage above the $500 limit covered by the benefit plan;
+- makeup; and
+- classes with other troupes while on the road.
+[18] During The Royal Winnipeg Ballet's off-season, Mr. Wright would continue his training as well as carrying on other engagements, such as guest artist, film work or modelling.
+Testimony of Tara Birtwhistle
+[19] Ms. Birtwhistle started her dance career at age 14 and steadily advanced within The Royal Winnipeg Ballet to the position of principal in 1999, a position which she claimed meant she was a star. All her contracts with The Royal Winnipeg Ballet were one season contracts. The Canadian Ballet Agreement provides that a principal's contract must be for no less than 46 weeks.
+[20] Ms. Birtwhistle also attended the one and one-half hour warm-up classes described by Mr. Wright, on an unpaid basis. As a principal, her rehearsal time could be spent in a separate studio, also working on more than one role. On performance day, she conducts her own pre-performance routine commencing at six o'clock for an eight o'clock show.
+[21] With respect to the actual dancing itself, Ms. Birtwhistle, as a principal, has considerable input into how the artistic director's vision is performed on stage. She works closely with both the artistic director and choreographer in that regard, especially if it is a brand new piece. Archived pieces can be learned to some extent off videotape, though with assistance from the ballet master or ballet mistress. Ms. Birtwhistle described the activities in the development of a piece as a matter of collaboration. The final performance, however, depends very much on the dancer's artistic choices during the performance and how a dancer might feel that day, as well as the dancer's own particular style. As Ms. Birtwhistle pointed out, there could be a number of different Juliets.
+[22] With respect to her particular contract, Ms. Birtwhistle did not negotiate over scale compensation. She did negotiate concessions on tour (for example having her dog accompany her) as well as leaves to do other performances (for example, she toured with Julie Andrews and also performed with Christopher Plummer). Ms. Birtwhistle performed outside of The Royal Winnipeg Ballet in many galas, including a performance for the Queen. She danced in fundraising shows. She modelled and also did some film work. The film work required a separate contract through ACTRA.
+[23] Ms. Birtwhistle always filed as an independent contractor. She too charged GST. She too had The Royal Winnipeg Ballet withhold taxes. She described her own expenses as similar to those of Mr. Wright's, but also including:
+- bandages, lambswool;
+- needles;
+- ribbons;
+- Advil;
+- podiatry; and
+- cross-training.
+[24] Out of season, Ms. Birtwhistle continued to take daily classes at her expense. She travels overseas to receive lessons. She gave the example of flying to Italy for sessions with a particular teacher.
+[25] The Appellant, Ms. Souster, did not testify.
+The Law
+[26] The law with respect to the issue of employment versus independent contractor was extensively canvassed by Justice Major in the Supreme Court of Canada case of 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[2] It is unnecessary for me to undertake the same review, but rather use as my starting point, Justice Major's penultimate comments:
+47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[27] To ascertain whether a worker, in performing services for a payor, is in business on his or her own account, Justice Major suggests the following non-exclusive list of factors to consider:
+(a) control, which is always to be considered;
+(b) ownership of equipment;
+(c) whether a worker hires his or her own employees;
+(d) degree of financial risks;
+(e) degree of responsibility for investment and management; and
+(f) opportunity for profit.
+[28] Before considering whether there are any other factors relevant to this particular case, I make three observations regarding Justice Major's recommended approach. First, he does not list as a factor the intention of the parties - how they believe their relationship is to be characterized. Second, he does not rely on the integration test. Third, his factors, I suggest, can be neatly divided into two categories: control and economic. I will address each of these observations.
+[29] First, with respect to the import of the Parties' intention, I received differing views from counsel. Both the Respondent and counsel for The Royal Winnipeg Ballet suggested that intention is a factor to be considered in resolving the employee-independent contractor dilemma, along with all other factors. The weight to be given to this factor, as with the other factors, will depend on the particular facts and circumstances of the case. Counsel for the Dancers approached this factor differently, relying on Justice Noel's lead in Wolf v. Canada[3] where he stated at page 6871:
+123 ... My assessment of the total relationship of the parties yields no clear result which is why I believe regard must be had to how the parties viewed their relationship.
+124 This is not a case where the parties labelled their relationship in a certain way with a view of achieving a tax benefit. No sham or window dressing of any sort is suggested. It follows that the manner in which the parties viewed their agreement must prevail unless they can be shown to have been mistaken as to the true nature of their relationship. In this respect, the evidence when assessed in the light of the relevant legal tests is at best neutral. As the parties considered that they were engaged in an independent contractor relationship and as they acted in a manner that was consistent with this relationship, I do not believe that it was open to the Tax Court Judge to disregard their understanding (Compare Montreal v. Montreal Locomotive Works Ltd., [30] 1 D.L.R. 161 at 170.
+[31] Intent only becomes a factor in the event the relevant legal tests yield no definitive result, and where no sham or window dressing is suggested. I agree with this approach. In appropriate circumstances intention simply serves as a tie-breaker. This accords with Justice Major's approach; it does not elevate "intention" to a more primary role. If "intention" was given the prominence the Supreme Court of Canada appears to have reserved for the control factor, there would be a risk that payors, employers, employees and independent contractors might view it as some endorsement of a right to opt in or out of the employment insurance scheme. It should be borne in mind this is not a voluntary program.
+[32] Secondly, with respect to the integration test, whatever clarity can be attributed to that term, there has been considerable confusion as to whether it was part of the Wiebe Door Services Ltd. v. M.N.R.[4] test, a stand-alone test, or even an appropriate test at all. The Supreme Court of Canada has not offered the integration test as a factor to consider. I interpret this as the death knoll of this particular test, and will refer to it no more.
+[33] Thirdly, what are the critical, distinguishing control and economic factors in the context of a ballet company. With respect to control, I would break down this factor into a discussion of the following: who determines how the workers perform (this goes to the very question of artistic talent and independence of expression), who determines what role a dancer is to perform, who is responsible for management of the dancers generally (for example, who determines what engagements can be accepted). What might appear to be control factors, but do not have any bearing on distinguishing an employee from an independent contractor in the performing arts setting are those factors that would be the same regardless of the nature of the relationship; for example, who determines the timing of the rehearsals and the timing of performances, what shows are to be performed in a season, when should the season run, what costumes should be worn, and who can be substituted for a performer.[5] All these factors, by the very nature of the work, will always be within the control of the arts company, be it ballet, opera or theatre. To rely on those factors to find an employment arrangement, would effectively preclude any possibility of an independent contractor arrangement in a performing arts setting. I find that these type of factors do not assist in drawing a distinction between an employee and an independent contractor in the performing arts environment. Only those factors where there is room to manoeuvre to a position of more or less control should be assessed.
+[34] Similarly, the same approach can be taken in a review of the economic factors. Those factors that, by the nature of the work itself, are constant, regardless of the nature of the relationship cannot be viewed as distinguishing factors. This would include the provision of tools, not in the ordinary sense, as there are few tools the dancer brings to the work, but in the sense of the dancer's primary "tool" being the dancer's body. This factor does not distinguish employee from independent contractor, as in both relationships the dancer provides the primary tool of his or her body. The ballet company can never "own" that particular tool. The dancer will always provide the body, as the surgeon supplies the hands, the professor supplies the brains and the sommelier supplies the palate. Ownership of this "tool" does not distinguish an employee from an independent contractor.
+[35] Financial risks, chance of profit, degree of responsibility for investment and ownership of equipment (other than the body itself) however, can vary, and these are the economic factors that need to be considered to properly identify the true relationship.
+[36] In following this approach, I eliminate several factors as not indicative, in a ballet company setting, of one relationship or another. The result is that the distinction must be based on only a handful of critical factors, with an inherent risk that each may take on greater import. A second result is that the eliminated factors remove certain biases; the bias that because the ballet company controls the time of performance and rehearsals the arrangement must be employment, or the bias that because a dancer's body is the primary tool, the arrangement must be one of an independent contractor. The Respondent did not argue that because of the nature of the performing arts, and the inherent control of the ballet company, the artist must always necessarily be an employee. Nor did the Appellants argue that because of the nature of the performing arts, and the dancer's ownership of the primary tool, the artist must always necessarily be an independent contractor. The nature of the performing arts does not, in and of itself, provide the answer as to the real legal relationship; it is, therefore, necessary to explore those few critical distinguishing factors that can draw the distinction.
+[37] Are there other factors that might assist me? I agree with all counsel that the Canadian Ballet Agreement should be reviewed. It touches on all the other factors. There are no suggestions that the agreement did anything other than reflect the terms of the arrangement. The agreement should, however, be reviewed in light of the Status of The Artist Act.[6]
+[38] With this backdrop, I now turn to an analysis of the critical factors.
+Analysis
+Control factors
+Who determines how the worker performs?
+[39] How the dancer performs is a multi-faceted question. It is not simply a matter of freedom of artistic expression. "Control", in the context of how a dancer dances, is an awkward concept, because it deals with the dancer's talent, that undefinable combination of skill, flair, soul, beauty and grace - in many respects, the uncontrollable. But, again, it is more than just artistic expression at issue. I must also consider the dancer's technique, the coordination of the dance, the vision and artistic integrity of the performance, the differences in talent amongst dancers in a ballet troupe and the effect of the overall work environment on how the dancer performs.
+[40] I will deal first with artistic expression, that innate, individual creative artistry, the very essence of which is unique to each individual. The argument goes that any attempt to control this nebulous quality might be a stifling of creativity. The idea of "control" in this sense is an anathema to the performing artist. My impression is that The Royal Winnipeg Ballet recognizes this; indeed, certain dancers were chosen for certain roles to bring this very creativity to a role. That is not what is being subjected to control; neither the Dancers nor The Royal Winnipeg Ballet would want it to be. That artistic license is what can take a dancer from a good performance to a great performance. The fact it cannot, nor should not, be controlled does not lead to a conclusion that how the dancer performs is completely up to the dancer, and consequently that the dancer is an independent contractor. This one factor alone must be kept in context; first, that it is only one element of how the dancer performs; how the dancer performs is only one factor of control; and control is only one factor in determining the legal relationship.
+[41] Looking then to other elements of what constitutes how the dancer performs, I turn to the question of technique. Mr. Wright acknowledged that the ballet master would provide guidance for the actual physical technical moves required. He gave the example of a choreographer suggesting to a dancer that to evoke a sentiment of sorrow, he might turn his back and drop his shoulders. The dancers rehearse an average of six hours a day, five days a week throughout the season, with a reduced rehearsal time on performance days. They rehearse under the watchful eyes of ballet masters, ballet mistresses, choreographers and the artistic director. They are coached. I conclude from Mr. Wright's and Ms. Birtwhistle's evidence that they, as a soloist and principal, would have some input in discussions with the artistic director about movements and the portrayal of the role. I did not, however, take from this that the Dancers called the shots: the artistic staff did.
+[42] Similarly, with respect to coordination of the dance, there is no evidence to suggest the Dancers determine the timing, pacing and coordinating of movements with the other performers.
+[43] Further, the dance is rehearsed and performed to meet the artistic director's vision. Mr. Wright acknowledged it was the artistic director's vision that he attempted to create. The artistic director himself described part of his role as ensuring the artistic integrity of the piece. He may choose to listen to a senior dancer's suggestions, but he has the final word on what fits within his vision. This is not to suggest there is no collaboration. There is some. But it is quite different from the television production team such as in the case of Les Productions Petit Bonhomme Inc. v. M.N.R.,[7] in which Justice Angers described the arrangement as:
+104 All these features of each person's involvement in the production of the programs in question support the conclusion that a production of this type is the result of the ideas, talent, creativity, and know-how brought by all to the performance of their respective duties, which they carry out under the control of the producer in terms of how their work is to be done. Everything takes place in an atmosphere of collaboration among professionals. Thus, the situation of the workers in these appeals is more like that of self-employed workers.
+[44] In that case the hairstylists did not have any other hairstylists overseeing or coaching them, nor did the sound recorders have other sound recorders watching their every move. The Dancers, however, had a team of experienced professional dancers in the form of ballet masters, ballet mistresses, choreographers and the artistic director doing exactly that. Unlike the producer of the television show, the artistic director and staff of The Royal Winnipeg Ballet do far more than collaborate with the Dancers. The overall work environment is one more of subordination than collaboration, notwithstanding some element of the latter with senior dancers. This leads to the question of whether a principal, for example, has attained such a level of artistic independence that her arrangement is dissimilar from the other dancers, in that how she performs is not subjected to the control of The Royal Winnipeg Ballet.
+[45] Ms. Birtwhistle described herself as the star. She testified that what came from this status was her own studio within which to rehearse, discussions with the artistic director as to appropriate roles, some input on portrayal of those roles and concessions when travelling. Based on the evidence, it is impossible to quantify how much more input Ms. Birtwhistle had in the making of artistic decisions than the other dancers, though clearly, as a principal, she generally had more influence. I have not been convinced, however, that any such influence or input overrides an environment in which The Royal Winnipeg Ballet artistic staff coach, direct, scrutinize and effectively control many elements of how the dancers performs.
+Who determines what roles the Dancers are to perform?
+[46] Ultimately, it is the Artistic Director who decides which dancer performs which role. Yet, Ms. Birtwhistle's evidence was that she would discuss this with Mr. Lewis. She clearly knew her strengths and what role she would be suited for. It was less a matter of Mr. Lewis telling Ms. Birtwhistle that she was to play a certain role.
+[47] I did not get the same impression from Mr. Wright, as he testified he would love to play a certain role. In effect, if asked to perform that role by the Artistic Director, he would accept. There was no sense that he could demand such a role. This element of control really goes to the dancer's marketability. The dancer in business on his or her account has more say in what he or she does, and can push his or her strengths for a particular role. The employee is more likely to take what is given, with little or no opportunity to suggest otherwise. Only Ms. Birtwhistle's evidence supports an independent contractor on this aspect of control.
+Who is responsible for the management of the Dancers generally?
+[48] There are three aspects of the overall management of the Dancers which are relevant in assessing control. First, who is responsible for training; second, who controls managing the wear and tear on the Dancers' bodies; and third, who controls outside engagements?
+[49] The Royal Winnipeg Ballet provides coaching at rehearsals for specific performances and also offers an optional warm-up class. It does not offer fitness programs, pilates lessons or other training-related classes, either during the season, or in the off-season. The testimony of both Mr. Wright's and Ms. Birtwhistle' was that this sort of training, to keep the body in top condition necessary to perform at a level worthy of The Royal Winnipeg Ballet, was left to the Dancers themselves. In the off-season, according to Ms. Birtwhistle, she also sought, either home or abroad, additional technical training, quite apart from any instruction at The Royal Winnipeg Ballet. The Dancers had to remain fit, flexible and healthy. It was their obligation to do so.
+[50] The impact on a dancer's body from the hours and hours of training, rehearsing and performing must be enormous. This was evident from Ms. Birtwhistle's description of some of the expenses she herself had to cover - bandages, lambswool, needles, Advil and podiatry. Mr. Wright also mentioned back brace, hernia belt, chiropractor and massage, above the $500 limit covered by the benefit plan, of which there was considerable. Although ownership of the body does not imply employee or independent contractor, the maintenance of the body can influence the nature of the relationship. The Royal Winnipeg Ballet recognized the importance of maintenance and did provide benefits in that regard, including up to $500 for chiropractic and massage services.
+[51] With respect to outside engagements, both Mr. Wright and Ms. Birtwhistle did some considerable work in other capacities. It was their call what engagements they accepted, whether performing as a guest artist with another troupe, performing in a charitable fundraising show, doing modelling work or engaging in film work. There were, however, two provisos in connection with the outside work. One was that Mr. Lewis, as artistic director, had to approve these engagements; and, two, that the Dancers hold themselves out as being from The Royal Winnipeg Ballet.[8] These are two significant restrictions.
+[52] With respect to the outside engagements, Mr. Wright and Ms. Birtwhistle may well have been carrying on business on their own account. But, the two restrictions from The Royal Winnipeg Ballet suggest that The Royal Winnipeg Ballet was something more than just the Dancers' major customer. It points to a level of control indicative of a contract of service: you can work elsewhere when we say you can and, in certain circumstances, it must be clear you are connected to us. That is a heavy obligation to place on an independent contractor.
+[53] In summary of the control factor, though difficult to assess in relation to a highly-skilled professional, it is still appropriate and useful to do so. There are few enough real distinguishing factors to rely upon when dealing with a highly-skilled professional. The following suggests the Dancers were in business for themselves:
+(i) a dancer's artistic talent is unique to the individual and not subject to control;
+(ii) with respect to Ms. Birtwhistle only, the ability to discuss with the artistic director roles appropriate for her;
+(iii) responsibility for training to stay in top physical condition;
+(iv) responsibility for maintaining the body, health wise;
+(v) ability to work at other engagements; and
+(vi) ability to negotiate concessions.
+[54] The following suggest the Dancers were employees:
+(i) the determination by the artistic director of what roles the Dancers would perform;
+(ii) subordination to the direction and coaching of technique by The Royal Winnipeg Ballet artistic staff;
+(iii) coordination by the artistic staff of a performance, to ensure the dance meets the artistic director's vision and artistic integrity;
+(iv) the requirement for permission from The Royal Winnipeg Ballet to work elsewhere;
+(v) when working elsewhere, reference is made to The Royal Winnipeg Ballet connection;
+(vi) the provision of health benefits by The Royal Winnipeg Ballet; and
+(vii) the provision at no charge of warm-up classes by The Royal Winnipeg Ballet.
+[55] On balance, I find the element of control weighted more to The Royal Winnipeg Ballet than the Dancers.
+Economic Factors
+What financial risk is borne by the Dancers?
+[56] Little, if any, according to the Respondent: the Dancers received a salary based on seniority, which is unrelated to time actually spent. But, argues the Appellants, there is a significant risk of not being offered a contract for the next season. Both counsel for the Appellants relied on trial judge Legg's comments in Walden v. Danger Bay Productions Ltd. et al.;[9] that:
+There was a chance of profit under the arrangements with ACTRA, the performers' organization, and by the terms of the contracts between the actresses and the producer. There was no apparent risk of loss in the contracts. Again, this perspective is skewed towards looking at the matter from the standpoint of the producer. From the performers standpoint, the particular part is but one step in the career path. The degree of success achieved by her in the role may be just as important or more so to her career than to the series. Viewed in this way, there is both a chance of profit and a risk of loss for the actress.
+[57] The Dancers are subjected to little financial risk under the terms of the one season contract for The Royal Winnipeg Ballet. The Respondent is correct that the Dancers get paid regardless of hours danced. From the Dancers' perspective, there are, however, certain costs to be borne that impact on their net remuneration. These are primarily in relation to training and health care, in the broadest sense. There was little evidence of the extent of such costs. The Dancers presented no financial statements of a business. There was a suggestion from Mr. Wright that chiropractic and massage expenses might have been two or three times the amount covered by The Royal Winnipeg Ballet. The other costs of private instruction, fitness, bandages, Advil, etc. were likewise not quantified, but there was no suggestion they could be so substantial as to incur a business loss for the Dancers from The Royal Winnipeg Ballet contract. The Royal Winnipeg Ballet covered expenses in connection with all travel, benefits, vacation pay and certain leaves.
+[58] The more interesting position is that a one-season contract with The Royal Winnipeg Ballet is just one step along the professional dancer's career path, that might significantly impact on the future of that career. That may well be so: a season of rave reviews with The Royal Winnipeg Ballet will create greater future possibilities; a season of less than stellar performances could be career ending. But is not an employee subject to the same risk? Whether the Dancer is in a one-year job as an employee, or a one-year contract as a person in business, the "career risk" is the same. This appears to be one of those factors that are not variable depending on the legal relationship, and consequently offer little guidance in identifying the correct legal relationship. It is tantamount to saying to a professional dancer - you have chosen a risky career, therefore, you can only be an independent contractor. I do not believe that necessarily follows.
+What is the Dancer's chance of profit?
+[59] The flip side of managing risk is arranging affairs to maximize profits. Again, as with risk of loss, the chance of profit in any particular one season contract is limited. The remuneration is largely set by the seniority categorization laid out in the Canada Ballet Agreement. Soloist 1 gets so much. Yes, the evidence was that the Dancers could negotiate above scale; yet, the evidence was also that any such negotiation resulted in little, if any, increase.
+[60] The real chance of profit arises from getting better, becoming the star, as Ms. Birtwhistle put it. But such stardom, in Ms. Birtwhistle's case, does not appear to have translated into any greater profits over scale with The Royal Winnipeg Ballet. It may lead to lucrative guest appearances, film work or special engagements, but if The Royal Winnipeg Ballet is considered the Dancers' major client, taking the perspective of the independent contractor, there was no evidence that the major client itself would be the source of greater profits. The Royal Winnipeg Ballet, as a major client, might afford the Dancer the stage upon which to enhance a reputation that might yield more profitable results elsewhere. Such is the performing arts. But that form of chance of profit is not unique to an independent contractor.
+What degree of responsibility did the Dancers have for management and investment?
+[61] With respect to management of an independent business, there is little evidence of any such involvement, certainly in connection with the arrangement with The Royal Winnipeg Ballet. Management of non-Royal Winnipeg Ballet activities might suggest a dancer acted as an independent contractor vis-à-vis those activities, but they are not determinative of the nature of The Royal Winnipeg Ballet relationship.
+[62] The investment of time by a dancer in pursuing a professional dance career is exceptional. As already indicated, there is also an economic investment in training and maintenance. While these are significant, they are not the form of capital investment that distinguishes an employee from an independent contractor.
+Who provides the Dancers' equipment, the tools of the trade?
+[63] Having removed from the analysis the provision of the Dancer's body as "equipment" for reasons provided earlier, this economic factor becomes of marginal assistance. Mr. Wright and Ms. Birtwhistle both testified as to the variety of incidentals they provided at their own expense; fitness wear, rehearsal wear, back brace, hernia belt, makeup, bandages, needles and ribbons. With respect to a dancer's most fundamental piece of equipment, shoes, the obligation to provide was shared. Both The Royal Winnipeg Ballet and the Dancers provided shoes. With respect to the shoes provided by The Royal Winnipeg Ballet, it was The Royal Winnipeg Ballet, according to the collective agreement, that determined when shoes were sufficiently worn to require replacement. As well as shoes, The Royal Winnipeg Ballet provided a variety of other equipment, including ribbons, elastics, tights, wigs, hairpins, shoe bags and T-shirts.
+[64] In summary of the economic factors, the following points to an independent contractor arrangement with The Royal Winnipeg Ballet:
+(i) the Dancers incurred expenses for training, maintenance and incidental "equipment";
+(ii) the Dancers could negotiate above scale;
+(iii) contracts were only obtained on a one-season basis; and
+(iv) financial risk, viewed as a career risk beyond the confines of one-season contract, was susceptible to being managed by an experienced dancer.
+[65] The following suggests the Dancers were employees:
+(i) the remuneration received by the Dancers is primarily set by a seniority scale in the collective agreement: there was realistically no risk of loss;
+(ii) there was little movement from such scale;
+(iii) the expenses covered by the Dancers appeared low compared to expenses covered by The Royal Winnipeg Ballet;[10]
+(iv) a "career risk", in not obtaining a new contract, exists regardless of the nature of the relationship;
+(v) no opportunity for maximizing profits within The Royal Winnipeg Ballet contract;
+(vi) the Dancers displayed no management responsibilities of an independent business vis-à-vis The Royal Winnipeg Ballet work;
+(vii) the Dancers invested little capital in a "business";
+(viii) the determination of replacement of shoes was The Royal Winnipeg Ballet's economic decision; and
+(ix) The Royal Winnipeg Ballet provided equipment.
+On balance, I weigh the economic factors to support an employee relationship.
+[66] I turn now to the other factor that the Parties suggest might distinguish employees from independent contractors; that is, the extensive collective agreement between The Royal Winnipeg Ballet and CAEA, taking into account the impact of the Status of the Artist Act, supra.[11]
+Canadian Ballet Agreement
+[67] The existence of the Canadian Ballet Agreement, in and of itself, is not indicative of either an employment or independent contractor arrangement. Although the Respondent suggests the Agreement contains "hallmarks of employment", these are not factors which, in the context of an artists' collective agreement, are persuasive. This is because the agreement itself arises from the rights of artists entrenched in the Status of the Artist Act. Specifically, the following sections are of interest:
+3. Canada's policy on the professional status of the artist, as implemented by the Minister of Communications, is based on the following rights:
+(a) the right of artists and producers to freedom of association and expression;
+(b) the right of associations representing artists to be recognized in law and to promote the professional and socio-economic interests of their members; and
+...
+5. In this Part,
+"artist" means an independent contractor described in paragraph 6(2)(b);
+"scale agreement" means an agreement in writing between a producer and an artists' association respecting minimum terms and conditions for the provision of artists' services and other related matters;
+6(2) This Part applies
+...
+(b) to independent contractors determined to be professionals according to the criteria set out in paragraph 18(b), and who
+...
+(ii) perform, sing, recite, direct or act, in any manner, in a musical, literary or dramatic work, or in a circus, variety, mime or puppet show, or
+...
+9(3) This Part does not apply, in respect of work undertaken in the course of employment, to
+...
+(b) employees, within the meaning of Part I of the Canada Labour Code, including those determined to be employees by the Canada Labour Relations Board, and members of a bargaining unit that is certified by that Board.
+[68] The Government of Canada has endorsed the entering into of the very type of agreement that is before me. Indeed, it encourages the co-existence of a collective professional artists' agreement and independent contractors. This does not mean that the legislation determines whether an artist is an employee or an independent contractor, but it does suggest that artists, as independent contractors, can address economic issues collectively. They consequently should not be labelled "employees" simply because such issues might appear to be "hallmarks" of employment.
+[69] The negotiation of overtime, vacation pay, weekly indemnity, extended health, long-term disability, dental insurance, pregnancy leave, paternity leave and bereavement leave are presumably some of the socio-economic interests contemplated by the Status of the Artist Act to be promoted by CAEA on behalf of its members. In such light, I do not consider these negotiated benefits as hallmarks of employment. They do not represent a surrender by an artist of his or her status as an independent contractor. Neither, however, do they represent any affirmation of the status of an independent contractor. They are neutral factors.
+[70] Can every term in the Canadian Ballet Agreement be neutered by such an approach? No. I am referring only to those terms that are touted as being "hallmarks of employment"; that is, terms that might commonly be found in an employment agreement, yet do not go to the real crux of the difference between the professional artist employee and the professional artist in business on his or her own account.
+[71] The Appellants suggest that there are terms in the Canadian Ballet Agreement that simply do not belong in an employment arrangement. They identified the following terms as being inconsistent with an employment agreement:
+(i) individual negotiation of better terms (Article 10);
+(ii) the right of The Royal Winnipeg Ballet to assign the Dancers' contract (Article 8);
+(iii) the requirement that The Royal Winnipeg Ballet post a bond for contractual obligations (Article 15);
+(iv) the Dancer licensing the right to his or her image to The Royal Winnipeg Ballet for limited purposes (Article 33);
+(v) the ability to accept other engagements (Article 9); and
+(vi) speaking or singing roles requiring separate compensation (Article 24).
+I wish to examine each of these more closely.
+(i) Negotiation of better terms
+[72] A dancer does not knock on The Royal Winnipeg Ballet's door seeking work with a clean slate between them. The dancer must be a member of CAEA and the dancer will be governed by the pre-existing Canadian Ballet Agreement. The terms and conditions are already in place. The Canadian Ballet Agreement stipulates that the terms and conditions are minimum and the dancer may negotiate above scale. The Appellants suggest that this is not indicative of an employment arrangement. Why not? Can an employee not negotiate for salary increases? This is a good example of the nub of the problem in attempting to characterize a working arrangement in the performing arts field. The worker, dancer in this case, has an association negotiate almost all of the terms of the worker's arrangement. The association does so under the auspices of the Status of the Artist Act, on an understanding that the dancers are independent contractors. Yet, the protections it seeks to obtain for the workers are the same protections an employee would want in an employment arrangement. Establishing a base or minimum level of remuneration, with flexibility to seek above-scale pay, is not unique to the independent contractor. Room for manoeuvrability within a contract (in reality quite limited) is just as consistent with an employment arrangement.
+(ii) Right to assign the contract
+[73] This provision is drafted in the negative; that is, The Royal Winnipeg Ballet cannot assign the artist's contract without the consent of the artist and CAEA. There was no evidence this provision had ever come into play. There was also no evidence as to what The Royal Winnipeg Ballet or the Dancers took this provision to mean. The engagement contract between Tara Birtwhistle and The Royal Winnipeg Ballet is a standard form with just three areas filled in specifically for Ms. Birtwhistle: one, that she is the principal; two, the amount of her remuneration; three, the length of the contract being from early August to the end of June. She will remain in that position for that pay, for that period, unless both parties agree otherwise. The fact the parties can agree to alter the arrangement, by assignment or otherwise, is not conclusive that the arrangement must therefore be one of an independent contractor nature. Two parties to an agreement, whatever the nature of that agreement, can agree to change the terms.
+(iii) Posting a bond
+[74] Read in context, this obligation to provide security is to ensure the Dancers are not stranded away from Winnipeg without the resources to return home. Why is this a term that could only be negotiated on behalf of independent contractors? Whether an artists' association or a workers' union, this is an appropriate condition to impose upon a payor.
+(iv) Dancers licensing their image
+[75] If a dancer's image is used in a photo of three dancers or less, the dancer must approve. The Appellants imply that an employee's consent need not be obtained. No law was cited to that effect.
+(v) Ability to accept other engagements
+[76] As has already been discussed, this ability is controlled by The Royal Winnipeg Ballet, both as to timing and also as to the requirement for mention of The Royal Winnipeg Ballet in such other engagements.
+(vi) Speaking or singing roles
+[77] As with many other terms, this is not inconsistent with either an employee or independent contractor arrangement.
+[78] The existence of the Canadian Ballet Agreement is not determinative for reasons given earlier. Having reviewed the terms that the Appellants maintain are inconsistent with an employment arrangement, I find they are not inconsistent. They do not favour one relationship over the other. They are negotiated terms that would be appropriate in either relationship.
+[79] Having determined that neither the hallmarks of employment, nor terms alleged to be inconsistent with employment, are indicative of one relationship or the other, what can be gleaned from the Canadian Ballet Agreement to assist in the analysis? I would suggest that there are two items of significance from the Agreement, which have already been touched upon in reviewing the control and economic factors:
+(i) ability to work at other engagements though with restrictions from The Royal Winnipeg Ballet; and
+(ii) a remuneration scale based on seniority.
+These contractual terms confirm a level of control by The Royal Winnipeg Ballet with little risk of loss or chance of profit by the Dancers. The review of the contract, the "other factor" to be considered, has confirmed my weighing of the control and economic factors in favour of an employment arrangement.
+Conclusion
+[80] The traditional control and economic factors can be applied to the performing arts sector to determine the true nature of the overall relationship. But that nature should be determined from the Dancers' perspective, as it is their status at issue. Were the Dancers in the business of dancing; were they in that business on their own account; and was The Royal Winnipeg Ballet their major client in that business? Looking at the arrangement as a whole, I find the Dancers worked subordinately, more so than collaboratively, with The Royal Winnipeg Ballet. I distinguish this case in that respect from Les Productions Petit Bonhomme Inc. v. M.N.R.[12] I further find that, in the work arrangement with The Royal Winnipeg Ballet, there was no risk of loss and little chance of profit. It provided a steady income which allowed the Dancers to pursue, only with The Royal Winnipeg Ballet's permission, other perhaps more lucrative engagements. Those other engagements might well constitute the Dancer's business, but the engagement with The Royal Winnipeg Ballet was a contract of service - it was employment.
+[81] It has become apparent to me in reaching this conclusion that the line of demarcation between employee and independent contractor in the performing arts is fuzzy at best, especially with a principal, such as Mr. Birtwhistle, but a line must be drawn. As mentioned at the outset, the Respondent never suggested a performing artist could only be an employee; nor did the Appellants suggest the performing artist could only be an independent contractor. So, indeed, there must be a line between the two relationships. The line may have been easier to draw had I been dealing with members of the corps ballet. I also recognize that there may be a special guest artist engaged for just one performance, albeit governed by the same Canadian Ballet Agreement, who may work collaboratively more so than subordinately and who may negotiate considerably above scale, or negotiate a cut of the house proceeds. I would have no difficulty finding such an individual an independent contractor. But that is not the situation before me. Before me are three Dancers with full season contracts covering several performances, subject to a variety of controls by The Royal Winnipeg Ballet throughout the term of the engagement, with no financial risk normally associated with a business, and little responsibility for investment and management vis-à-vis The Royal Winnipeg Ballet contract.
+[82] Having found on balance the arrangement is one of employment it is unnecessary to review the intention of the parties, as there is no tie to be broken.[13]
+[83] I am mindful of the economic impact resulting from this decision. It is a telling commentary that support for the arts is such that contributions to employment insurance to provide artists the safety net available to all employees, is considered a factor in the economic viability of performing arts companies. The answer, however, is not to define the Dancers as something, which in this case, they are not.
+[84] The appeals are dismissed.
+Signed at Ottawa, Canada, this 3rd day of June, 2004.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2004TCC390
+COURT FILE NO.:
+2003-2569(EI), 2003-2580(CPP)
+2003-2570(EI), 2003-2571(CPP), 2003-2572(EI), 2003-2573(CPP),
+2003-2574(EI), 2003-2575(CPP)
+STYLE OF CAUSE:
+The Royal Winnipeg Ballet, Kerrie Souster, John Wright,
+Tara Birtwhistle and
+The Minister of National Revenue
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+February 18 and 19, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+June 3, 2004
+APPEARANCES:
+Counsel for The Royal Winnipeg Ballet:
+Robert A. Watchman
+Counsel for Kerrie Souster,
+John Wright and Tara Birtwhistle:
+Douglas H. Mathew and
+Sergio Rodriguez
+Counsel for the Respondent:
+Tracey Telford
+COUNSEL OF RECORD:
+For The Royal Winnipeg Ballet:
+Name:
+Robert A. Watchman
+Firm:
+PITBLADO
+For Kerrie Souster, John Wright, Tara Birtwhistle:
+Name:
+Douglas H. Mathew
+Firm:
+Thorsteinssons
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-5.
+[2] [2001] 2 S.C.R. 983.
+[3] 2002 DTC 6853 (FCA).
+[4] 87 DTC 5025 (FCA).
+[5] Note the ballet dancer, actor or opera singer of a major performing troupe are in a somewhat different position from the musician in an orchestra in a smaller centre; for example, see the case of Fathers of Confederation Buildings Trust v. Canada [2002]T.C.J. No. 505, where a musician in a Charlottetown orchestra could supply her own replacement.
+[6] S.C. 1992, c. 33.
+[7] [2002] T.C.J. No. 595.
+[8] See specifically paragraph 9 of the Canadian Ballet Agreement with respect to television and radio appearances.
+[9] 114 D.L.R. (4th) 85, (B.C.C.A.) at page 93.
+[10] Note, no financial data was presented by the Dancers setting out their expenses.
+[11] 1992, c. 33.
+[12]
+Supra.
+[13] Had it been necessary to consider intention, the stated intention of the Parties would have to have been reviewed in the context of the Canadian Ballet Agreement. I question whether, in such light, the Parties' intention is clear.

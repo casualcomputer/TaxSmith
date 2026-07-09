@@ -1,0 +1,160 @@
+---
+title: "Tchiakoua v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521650/index.do"
+last_modified: "2026-06-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 TCC 113"
+citation2: ""
+neutral_citation: "2026 TCC 113"
+decision_date: "2026-06-16"
+language: "en"
+item_id: "521650"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5519
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-06-19T09:03:02.715000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "39a9d7cb8191f66cd2b0936e3040a674c1aca9a5fce889ab35a280e674f04a7c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tchiakoua v. The King
+
+- Citation: 2026 TCC 113
+- Decision date: 2026-06-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5519, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tchiakoua v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2026-06-16
+Neutral citation
+2026 TCC 113
+File numbers
+2025-2047(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2025-2047(IT)I
+BETWEEN:
+MICHELE TCHIAKOUA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on January 20, 2026, at Halifax, Nova Scotia
+Before: The Honourable Justice Bruce Russell
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+James Whittier
+JUDGMENT
+The appeal of the reassessment of the appellant’s 2023 taxation year, raised September 3, 2025 per the federal Income Tax Act is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount of $5,423 is not taxable income, as addressed in the Reasons for Judgment associated herewith; the whole without costs.
+Signed this 16th day of June 2026.
+“B. Russell”
+Russell J.
+Citation: 2026 TCC 113
+Date: 20260616
+Docket: 2025-2047(IT)I
+BETWEEN:
+MICHELE TCHIAKOUA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+I. Introduction: [1] The appellant, Ms. M. Tchiakoua, appeals the reassessment of her 2023 taxation year, raised September 3, 2025 by the Minister of National Revenue (Minister) under the federal Income Tax Act (Act).
+[2] The appellant specifically appeals the amount of $5,423 being included in taxable income, as reflected in the appealed reassessment. That amount is what amount the Quebec government in 2023 remitted to the Quebec government’s student loan debt account for the appellant. The appellant did not receive this amount personally.
+[3] Currently the appellant works as a schoolteacher (having completed being a university student in 2021) and makes monthly payments reducing the balance of her Quebec student loan debt account.
+II. Issue: [4] The issue is whether the $5,423 remitted by the Quebec government in 2023 to the appellant’s Quebec student loan debt account is taxable income as reassessed by the Minister per paragraph 56(1)(n) of the Act.
+III. Law: [5] The Minister reassessed the remitted amount on the basis of paragraph 56(1)(n) of the Act. That provision provides:
+56(1) Amounts to be included in income for year -
+Without restricting the generality of section 3, there shall be included in computing the income of the taxpayer for a taxation year…
+(n) scholarships, bursaries, etc. - the amount if any by which
+(i) the total of all amounts (other than amounts described in paragraph (q), amounts received in the course of business, and amounts received in respect of, in the course of or by virtue of an office or employment) received by the taxpayer in the year, each of which is an amount received by the taxpayer as or on account of a scholarship, fellowship or bursary, or a prize for achievement in a field of endeavour ordinarily carried on by the taxpayer (other than a prescribed prize)
+exceeds (ii) the taxpayer's scholarship exemption for the year computed under subsection (3);
+IV. Analysis: [6] The respondent Crown submits that the subject 2023 student loan remission amount of $5,423 was, per paragraph 65(1)(n), “an amount received by the taxpayer as or on account of a scholarship, fellowship or bursary”.
+[7] Paragraph 56(1)(n) provides that each of a scholarship, fellowship and bursary is taxable. Of these three items - scholarship, fellowship and bursary - the Crown says that in the case at bar the subject amount was remitted, “as or on account of a…bursary”. The Act does not define the word “bursary”.
+[8] However, jurisprudence has addressed the meaning of “bursary” for purposes of paragraph 56(1)(n). In Simser v. R., 2004 FCA 41, the Federal Court of Appeal (FCA) at para. 32 approvingly reiterated from the below Tax Court decision (2003 TCC 36 at paras. 38 to 42) the following several definitions of “bursary”:
+38. The Concise Oxford English Dictionary - Tenth Edition, Revised, Oxford University Press - defines “bursary” as:
+1. a grant, especially one awarded to a student.
+39. The New Collegiate Dictionary - Thomas Allen & Son Limited, Toronto - defines “bursary” as:
+2. a monetary grant to a needy student.
+40. The Canadian Oxford Paperback Dictionary - Oxford University Press - contains the following definition of “bursary”:
+3. financial award to a university student made primarily on the basis of financial need or some other criterion in addition to academic merit.
+41. The same dictionary defines “grant” in this manner:
+a sum of money given by the state for any of various purposes, e.g. to finance education.
+42. The French version of the provision in question uses the terms, “bourse d’études” and “bourse”, although having other definitions, is also defined by Larousse - Dictionnaire General - 1994 - as follows:
+3. Pension accordée par l’État ou par une institution a un élève, a un étudiant ou à un chercheur pour l’aider a poursuivre ses études.
+9. In paras. 33 and 34 of the Federal Court of Appeal decision itself, Nadon JA for the Court added further definitions of “bursary”, as follow:
+33. To these definitions can be added the following:
+Le grand Robert - dictionnaire de la langue française, Dictionnaire le Robert - Paris, deuxième édition:
+3. Bourse d’études et. absolt, bourse: pension accordée à un élève, un étudiant, pour subvenir à ses besoins pendant le temps de ses études.
+The New Oxford Dictionary of English, Clarendon Press - Oxford 1998 p. 246:
+Bursary 1. a grant, especially one awarded to someone to enable them to study at university or college.
+Canadian Dictionary of English Language, ITP Nelson 1997 p. 188:
+Bursary: 1. a university scholarship based primarily on need
+Shorter Oxford English Dictionary, Oxford University Press 5th edition, 2002, p. 311:
+3. An endowment given to a student.
+34. These definitions of the word “bursary” highlight that bursaries are grants given to students in need of financial help so as to allow them to continue their studies.
+[9] I will proceed on the basis of the FCA conclusion (para. 34, immediately above), that “bursaries are grants given to students in need of financial help so as to allow them to continue their studies.”
+[10] The Crown asserts that the $5,423 amount of the 2023 remission to the appellant’s then balance of the appellant’s Quebec student loan account is taxable, asserting that the said amount remitted is a “bursary”, per paragraph 56(1)(n).
+[11] I do not accept this. First, the herein remittance is not a bursary, for the clear reason that in 2023 the appellant was not (since 2021), “a student in need of financial help so as to allow [her] to continue [her] studies.” Thus, the above-noted FCA definition of bursary was not met, thus rendering paragraph 56(1)(n) not applicable.
+[12] Second, paragraph 56(1)(n) would apply only if the said amount remitted in the year (of 2023), was “an amount received by the taxpayer as or on account of a …bursary.”
+[13] We have already identified that it was not a bursary. But was it received “on account of a bursary”?
+[14] The answer to that is also in the negative. The remission was not “received on account of” a bursary. The subject remission was “received on account of” a student loan. And who would or could plausibly assert that a student loan is a bursary?
+[15] Thus, for these reasons, the definition of bursary does not at all accord with the clear, factual circumstances of this appeal, thereby refuting the Minister’s herein attempted application of paragraph 56(1)(n). The appealed reassessment is mistaken insofar as it purports to include the remitted $5,423 amount as taxable income.
+V. Conclusion: [16] Accordingly, this informal procedure appeal will be allowed, without costs.
+Signed this 16th day of June 2026.
+“B. Russell”
+Russell J.
+CITATION:
+2026 TCC 113
+COURT FILE NO.:
+2025-2047(IT)I
+STYLE OF CAUSE:
+MICHELE TCHIAKOUA AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+January 20, 2026
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Bruce Russell
+DATE OF JUDGMENT:
+June 16, 2026
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+James Whittier
+COUNSEL OF RECORD:
+For the Respondent:
+Marie-Josée Hogue
+Deputy Attorney General of Canada
+Ottawa, Canada

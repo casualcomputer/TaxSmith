@@ -1,0 +1,179 @@
+---
+title: "BG Excel Plumbing & Heating Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/362749/index.do"
+last_modified: "2006-05-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 252"
+citation2: ""
+neutral_citation: "2006 TCC 252"
+decision_date: "2006-05-25"
+language: "en"
+item_id: "362749"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4354
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:04:03.305000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd555eae7c39f85da6aaa0e347eceb41cf0ab6ab8471a4313130a29cba2c724f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# BG Excel Plumbing & Heating Ltd. v. The Queen
+
+- Citation: 2006 TCC 252
+- Decision date: 2006-05-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4354, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+BG Excel Plumbing & Heating Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-25
+Neutral citation
+2006 TCC 252
+File numbers
+2005-2567(GST)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2006TCC252
+Date: 20060510
+Docket: 2005-2567(GST)I
+BETWEEN:
+BG EXCEL PLUMBING AND HEATING LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+(delivered orally from the Bench at
+Kelowna
+,
+British Columbia
+, on February 23, 2006)
+[1] This appeal pursuant to the Informal Procedure was heard at
+Kelowna ,
+British Columbia
+, on February 22, 2006. The Appellant called Patricia Matheson, the Appellant’s bookkeeper during the period, and her husband Blair Gautschi, a plumber and the operator of the Hummer H2 in question. The Respondent called the auditor on the file, Denise Somer.
+[2] Paragraphs 2 to 7 of the Reply to the Notice of Appeal outline the matters in dispute. They read:
+2. By the Assessment, the Minister of National Revenue (the “Minister”) assessed the Appellant for net tax in the amount of $1,239.88, penalty in the amount of $11.88 and interest in the amount of $4.72, in respect of the period May 1, 2004 to July 31, 2004 (the “Assessment Period”), as detailed in Schedule “B” as attached.
+3. By Notice of Objection received by the Minister on January 10, 2005, the Appellant objected to the Assessment.
+4. On April 21, 2005, the Minister confirmed the Assessment.
+5. In so assessing and confirming the Assessment, the Minister assumed the same facts as follows:
+a) the Appellant is a plumbing contractor who specializes in new residential construction;
+b) Robert Gautschi is the president and director of the Appellant (“Robert”);
+c) Blair Robin Gautschi is Robert’s son (“Blair”);
+d) Blair is an employee of the Appellant;
+e) Blair manages and operates the Appellant;
+f) the Appellant was registered under Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the “Act”) effective July 14, 1998, and was assigned the GST Registration number 86791 6165;
+g) the Appellant was required to file quarterly GST returns;
+h) at all material times, all or substantially all the Appellant’s supplies were taxable at the rate of 7 percent;
+i) the Appellant filed a quarterly GST return and reported taxable supplies in the amount of $104,889.00 for the Assessment Period, as set out in attached Schedule “A”;
+j) in filing his GST return for the Assessment Period, the Appellant reported GST collectible in the amount of $7,900.36 and claimed ITCs in the amount of $10,309.09, as detailed in attached Schedule “A”;
+k) the Appellant was only entitled to ITCs in the total amount of $6,660.48 for the Assessment Period;
+l) the Appellant overstated ITCs by $3,648.61 for the Assessment Period, as detailed in attached Schedule “B”;
+m) on May 6, 2004, the Appellant and Blair purchased the 2004 Hummer, serial number 5GRGN23U54H119100 (the “Hummer”) and paid the total purchase price of $92,561.91 which included GST in the amount of $5,748.61;
+n) in filing his GST return for the Assessment Period, the Appellant claimed ITCs in respect of 100% of the GST paid for the acquisition of the Hummer on the basis that the Hummer was acquired for an alleged 100% business use.
+o) during the material period, the Hummer was not used by the Appellant all or substantially all for the transportation of goods, equipment or passengers in the course of gaining or producing income;
+p) during the material period, the Hummer had at least 40% personal use by Robert, Blair and their respective extended family;
+q) the Hummer has a seating capacity to carry six to eight passengers with two removable seats;
+r) the Hummer had a seating capacity for more than a driver and two passengers;
+s) the Hummer is a passenger vehicle, as defined in the Act;
+t) there was no signage on the outside of the Hummer to advertise the Appellant’s business;
+u) the Hummer has a back seat and a middle bench that can be folded down when used for transporting larger items;
+v) the amount incurred by the Appellant to acquire the Hummer for alleged business use was not reasonable in the circumstances;
+w) during the material period, Blair and his wife owned an adult sized motorized go-kart, a boat, a skidoo and seadoo (the “Personal Assets”), that were all required to be transported by trailer;
+x) during the material period, Blair and his wife did not own a vehicle other than the Hummer, that had the power to tow any of the Personal Assets;
+y) Blair has won formula 80 racing trophies in his hobby of racing his adult-sized motorized go-kart;
+z) the Hummer has a heavy-duty hitch which has the ability to tow trailers containing the Personal Assets;
+aa) the Appellant did not maintain a mileage log to account for any use of the Hummer in the business; and
+bb) the amount deemed to be the capital cost of the Hummer for the material period is $30,000.00.
+B. ISSUES TO BE DECIDED
+6. The issues are whether:
+a) the Minister has properly assessed the Appellant for net tax, interest and penalty;
+b) the Hummer is a passenger vehicle as defined in the Act; and
+c) the Hummer was exclusively used in the Appellant’s commercial activity.
+C. STATUTORY PROVISIONS RELIED ON
+7. He relies on sections 123, 169, 170, 201, 225, 228, 280, 296 and 299 of the Act and the Input Tax Credit Information Regulations (SOR/91-45) enacted pursuant to the Act (the “Regulations”). He also relies on sections 6, 13, 15 and 248 of the Income Tax Act.
+[3] Assumptions 5 (a) to (j) inclusive, (m), (n), (q), (r), (t), (u), (x), (z) and (aa) were not refuted.
+[4] Respecting the remaining assumptions:
+(k) and (l) The auditor allowed an input tax credit respecting the Hummer of 7 percent of $30,000 or $2,100 on the Hummer claim for $5,748.61 and disallowed the remaining $3,648.61.
+(o) This assumption is an echo of subparagraph 248 (1) (e) (ii). Whether it was used substantially all for the transportation of the Appellant’s goods or equipment is the question before the Court. Decisions in the Tax Court of Canada have already confirmed that this refers to “transportation” in the Income Tax Act and not to the storage of goods or equipment.
+(p) Arises from the auditor’s testimony that Patricia Matheson or a former bookkeeper for the Appellant stated that an accountant for the Appellant had suggested a 60-40 apportionment of business-personal use of the Hummer by the Appellant. Robert has never used the Hummer. For all practical purposes, Blair has used it exclusively.
+(s) Is correct subject to the question of whether substantially all use of the Hummer was for business purposes to transport goods and equipment in order to earn a profit.
+(v) The concept of reasonableness of the Hummer’s price was answered by Blair Gautschi on the basis that the Hummer commonly contains a total of between $10,000 and $15,000 worth of the Appellant’s goods and equipment for plumbing construction purposes and has at least two security systems to protect these contents and is a secure vehicle. The Appellant installs plumbing in high end new housing construction in the
+Kelowna
+area and did so during the period. The Hummer is its only vehicle. The construction occurred in two new mountain or hillside areas in
+Kelowna
+during the period. Construction occurs year round and in snow or mud conditions. Most contractors’ vehicles are heavy duty four wheel drives because of this. Blair has become known as “The Plumber with the Hummer”, which has attracted business to the Appellant. Blair testified that the Hummer will get him to jobs that he couldn’t get to with his previous vehicle in similar terrain conditions. The Court finds that the amount incurred by the Appellant to acquire the Hummer was reasonable in the circumstances for its business.
+(w) Blair and his wife have never owned a seadoo or a skidoo. The trailer was not used to transport the boat.
+(y) Is true but these trophies were won years before the period. In the period’s calendar year, Blair raced in eleven go-cart races. He did use the Hummer to get to some of them and went to others with friends.
+(bb) The H2 Hummer is deemed to be a passenger automobile if “substantially all” of its use was not to transport goods and equipment in the course of gaining or producing income. That question will be answered in what follows.
+[5] The Appellant did not keep a current operating log for the Hummer. Exhibit A-2 is a business travel “log” for the Hummer to and from job sites and the office prepared by Patricia after the Respondent’s audit. Patricia Matheson denied the allegation that she had suggested the 60-40 business usage split respecting the Hummer. A-2 is itemized by jobs done by Blair and can be verified since it was taken from the Appellant’s business records. Blair confirmed its accuracy. He also testified that he picks up supplies from his suppliers daily. These figures were not refuted and the Court accepts Exhibit A-2 to be true and correct. It recorded the business usage of the Hummer from the date of purchase to the end of September 2004 at 92 percent.
+[6] The Respondent refused to accept Exhibit A-2 when it was presented to it after the auditor had visited the Respondent and examined the Hummer. That is understandable in most circumstances. However, Exhibit A-2 is based on jobs and can be verified from work orders and invoices issued by the Appellant at those times for those jobs. It is for this reason that the Court accepts it even if it is after the fact. It can be substantiated from pre-existing records and by third parties.
+[7] For these reasons the Court finds that for the period May 1, 2004 to July 31, 2004 substantially all the use of the Hummer was for the transportation of goods and equipment in the course of gaining or producing income for the Appellant. The Hummer is a motor vehicle commonly called a truck or similar vehicle.
+[8] The appeal is allowed and this matter is referred to the Minister for reconsideration and reassessment accordingly. The Appellant is awarded its costs in this appeal.
+These Amended Reasons for Judgment are issued in substitution for the Reasons for Judgment dated May 10, 2006.
+Signed at
+Ottawa ,
+Canada
+, this 25th day of May 2006.
+“D.W. Beaubier”
+Beaubier, J.
+CITATION:
+2006TCC252
+COURT
+FILE NO.:
+2005-2567(GST)I
+STYLE OF CAUSE:
+BG Excel Plumbing & Heating Ltd. v. The Queen
+PLACE OF HEARING:
+Kelowna
+,
+British Columbia
+DATE OF HEARING:
+February 22, 2006
+ORAL REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF
+ORAL REASONS:
+May 10, 2006
+APPEARANCES:
+Agent for the Appellant:
+Wayne Koch
+Counsel for the Respondent:
+John Gibb-Carsley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of
+Canada
+Ottawa
+,
+Canada

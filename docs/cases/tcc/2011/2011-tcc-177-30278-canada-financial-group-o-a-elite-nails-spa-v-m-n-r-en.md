@@ -1,0 +1,219 @@
+---
+title: "Canada Financial Group o/a Elite Nails & Spa v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30278/index.do"
+last_modified: "2011-03-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 177"
+citation2: ""
+neutral_citation: "2011 TCC 177"
+decision_date: "2011-03-21"
+language: "en"
+item_id: "30278"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7987
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:44:59.596000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "543e41ee5eed2a5dc7f5073ae3878f8e682f5998cf131c662a061ed00942e1c3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Canada Financial Group o/a Elite Nails & Spa v. M.N.R.
+
+- Citation: 2011 TCC 177
+- Decision date: 2011-03-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7987, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Canada Financial Group o/a Elite Nails & Spa v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-21
+Neutral citation
+2011 TCC 177
+File numbers
+2010-2842(EI)
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2010-2842(EI)
+BETWEEN:
+CANADA FINANCIAL GROUP
+O/A ELITE NAILS & SPA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+AIQIN (LUCY) ZHOU,
+Intervenor.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Canada Financial Group o/a Elite Nails & Spa (2010-2843(CPP))
+on January 26, 2011, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Jie Hu
+Counsel for the Respondent:
+Rishma Bhimji
+Agent for the Intervenor:
+Mr. Zhou
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision made under the Employment Insurance Act for the period from January 1, 2009 to September 12, 2009 is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 21st day of March 2011.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2010-2843(CPP)
+BETWEEN:
+CANADA FINANCIAL GROUP
+O/A ELITE NAILS & SPA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+AIQIN (LUCY) ZHOU,
+Intervenor.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Canada Financial Group o/a Elite Nails & Spa (2010-2842(EI))
+on January 26, 2011, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Jie Hu
+Counsel for the Respondent:
+Rishma Bhimji
+Agent for the Intervenor:
+Mr. Zhou
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision made under the Canada Pension Plan for the period from January 1, 2009 to September 12, 2009 is dismissed and the decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 21st day of March 2011.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2011TCC177
+Date: 20110321
+Docket: 2010-2842(EI)
+2010-2843(CPP)
+BETWEEN:
+CANADA FINANCIAL GROUP
+O/A ELITE NAILS & SPA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+AIQIN (LUCY) ZHOU,
+Intervenor.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The issue raised by the pleadings in these appeals was whether Aiqin (Lucy) Zhou was employed by the Appellant under a contract of service for purposes of the Employment Insurance Act and the Canada Pension Plan during the period January 1, 2009 to September 12, 2009. The Minister of National Revenue (the “Minister”) had determined that a contract of service existed between the Appellant and Lucy for the relevant period.
+[2] The Appellant was represented by Jie Hu who is the manager and owner of the Appellant. She made the major business decisions and controlled the daily operations of the Appellant.
+[3] At the beginning of the hearing, Ms. Hu stated that Lucy had been employed by the Appellant as an employee for the period June 1, 2009 to September 12, 2009; and therefore, the only period at issue was January 1, 2009 to May 31, 2009. The only witnesses at the hearing were Ms. Hu and Lucy. Their evidence, with respect to the terms of Lucy’s employment, was diametrically opposed.
+[4] The Appellant operated a spa in Barrie, Ontario under the trade name Elite Nails & Spa. The services it offered were manicures (including the application of artificial nails), pedicures, waxing, facial treatments and massage therapy. Its business hours were Monday to Friday – 9:30 to 9:00; Saturday – 9:30 to 6:00; and, Sunday – 12 to 5.
+[5] In the Appellant’s business, there were three categories of workers who performed spa services. There were those who were hired as trainees. They were taught by Ms. Hu. The second category of workers was the junior nail technicians who were paid 40% of their gross sales and worked fewer hours than senior nail technicians who received 60% of their gross sales. All workers received their entire tips.
+[6] Lucy was hired as a trainee on September 23, 2008. During the period October 20, 2008 to January 17, 2009, she worked 8 hours a day for one to three days weekly. She received training from Ms. Hu who told Lucy what to do and explained how to perform the services. Ms. Hu opened another spa in Pickering in November 2008 and she attended at the business in Barrie on Tuesday and Saturday. She gave training to Lucy only on Tuesdays as Lucy did not work on Saturday.
+[7] According to Ms. Hu, the cost of the training was $500 and Lucy was told that she could pay for the training by performing spa services. As a trainee, Lucy could only serve customers when the junior and senior nail technicians were busy. Lucy testified that she was told that $500 would be deducted from her earnings but that if she stayed with the Appellant for a year she would be reimbursed this amount. Ms. Hu disagreed that there was a promise to reimburse the training fee.
+[8] Lucy’s training was completed when her earnings were in excess of $500. This occurred on January 17, 2009. The Appellant kept $500 and gave Lucy a cheque for the balance. From this time, Lucy was classified as a junior nail technician.
+[9] During Ms. Hu’s absence from the Barrie spa, it was managed by Angela Gao.
+[10] According to Ms. Hu, the workers’ duties were to open the store; answer the phone; make appointments; greet clients; provide services to the clients; cash out; and, clean their own work station. She stated that each technician, except Lucy, had a key to open and close the store because they set their own hours and they made appointments with their customers. She said that Lucy did not have a key because she came to work late and left early and did not need a key.
+[11] Lucy was shocked to hear that each technician had a key to open the spa because to her knowledge, only two people had such a key. She was not asked if she wanted a key. According to Lucy, her duties were to provide manicures, pedicures, facials, massages and waxing services. She was also responsible for cleaning her work station. She stated that she wanted to provide the service of applying artificial nails but due to a conflict with Angela, she was not allowed to provide this service. Ms. Hu stated that Lucy did not own the tools necessary to apply artificial nails and she would not allow Lucy to use the tools owned by the Appellant.
+[12] According to Lucy, she worked 5 days a week and normally 8 hours a day from January 19 to March 14, 2009. She was paid a commission of 40% of her gross sales. Angela kept a record of the services performed and sales earned by Lucy who was paid by cheque on a weekly basis. From March 16 to September 12, 2009, Lucy worked 2 to 3 days a week. She was paid on a weekly basis until June, when she became an employee, and was then paid on a bi-weekly basis.
+[13] Lucy stated that when the spa was not busy, Angela told her to do additional tasks which the other technicians did not have to do. She complied with the manager’s instructions. This occurred during the period from January to March 14, 2009. Finally, when she refused to clean the floor of the entire spa, because she had cut her finger, Angela cut her hours of work. She was thereafter scheduled to work only 2 or 3 days each week.
+[14] It was Lucy’s evidence that, during the period January 1 to May 31, 2009, when Angela scheduled her to be at the spa, she was required to attend even if she had no appointments with clients. She needed to report to the manager if she was going to be late or couldn’t attend work and she could not leave the spa early without permission from the manager.
+[15] Ms. Hu stated that the technicians were free to decide their hours of work; and they could “could come and go” as they wished regardless of the Appellant’s needs. It was her evidence that Lucy could go shopping during her work hours and that Lucy’s work schedule was discussed and decided by both Lucy and the Appellant. The Appellant only coordinated the technicians’ schedules.
+[16] The Appellant supplied Lucy with a uniform which was custom made for her. She was required to wear it each day.
+[17] Lucy testified that, contrary to Ms. Hu’s evidence, the technicians could not offer the customers a discount unless the manager agreed to it. The fee for services was set by the Appellant and could not be altered by the technicians. To support her statement, Lucy submitted exhibit I-3 which was a brochure with the list of services offered by the Appellant. The cost for each service was also printed on the brochure.
+[18] The conflicting evidence offered by Lucy and Ms. Hu raises the issue of credibility and in making my decision as to whose evidence is more trustworthy, I am cognizant of the statements made, at paragraph 13, by Bowman CJ, as he then was, in Faulkner v MNR[1]:
+The power and obligation that a trial judge has to assess credibility is one of the heaviest responsibilities that a judge has. It is a responsibility that should be exercised with care and reflection because an adverse finding of credibility implies that someone is lying under oath. It is a power that should not be misused as an excuse for expeditiously getting rid of a case. The responsibility that rests on a trial judge to exercise extreme care in making findings of credibility is particularly onerous when one considers that a finding of credibility is virtually unappealable.
+[19] I have reviewed all of the evidence in this case and I have concluded that Lucy’s evidence is more reliable. My conclusion is based on the following facts:
+(a) Her work schedule (exhibit R-1, p. 7 and 34) supports her testimony that her days of work decreased from 5 each week in January, February and early March to 2 or 3 days each week for the rest of the year that she worked at the spa. The exception was the week of March 30 when Lucy worked only 1 day.
+(b) Ms. Hu stated that, when Lucy became an employee, she was paid an hourly wage and she had to work a specific number of hours each week. However, Ms. Hu did not know Lucy’s hourly wage. She pointed to the Record of Employment (exhibit R-1 p. 10) and stated that the hourly wage was the total insurable earnings divided by the total insurable hours. Whereas, Lucy stated that she was not told what her hourly wage was and her earnings continued to be 40% of her gross sales and the terms of her employment did not change when she became an employee. Lucy’s receipt book for the period September 10 to 12 (exhibit I-1) and the cheque that she received for this period (exhibit I-2) confirm that Lucy was indeed still paid 40% of her gross sales when she was classified as an employee.
+(c) I find some of Ms. Hu’s statements implausible. I especially find it unbelievable that the technicians could come and go as they liked regardless of the Appellant’s needs.
+[20] As a consequence of my finding, where there is a conflict in the evidence of the two witnesses, I accept Lucy’s evidence.
+[21] To determine whether Lucy was an employee or an independent contractor while employed by the Appellant during the period January 1, 2009 to May 31, 2009, it is necessary to determine if she was performing the services as a person in business on her own account. The factors from Wiebe Door[2] are used to analyze the work relationship between her and the Appellant. Those factors are control, ownership of tools, chance of profit and risk of loss. In Combined Insurance Company of America v M.N.R.[3], Nadon, J.A. reviewed the case law and stated the principles to be applied as follows:
+[35] In my view, the following principles emerge from these decisions:
+1. The relevant facts, including the parties’ intent regarding the nature of their contractual relationship, must be looked at in the light of the factors in Wiebe Door, supra, and in the light of any factor which may prove to be relevant in the particular circumstances of the case;
+2. There is no predetermined way of applying the relevant factors and their importance will depend on the circumstances and the particular facts of the case.
+Although as a general rule the control test is of special importance, the tests developed in Wiebe Door and Sagaz, supra, will nevertheless be useful in determining the real nature of the contract.
+[22] The test that was stated in Sagaz[4] is as follows:
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+[23] The contract between Lucy and the Appellant was oral. There was no common understanding between them as to the nature of their contract. According to the Appellant, Lucy was hired as an independent contractor; whereas, Lucy stated that she intended to be hired as an employee for the entire period that she worked for the Appellant.
+[24] Lucy stated that when she asked Ms. Hu why there were no deductions from her pay cheque, she was told that she was self-employed and not an employee. It was her evidence that she asked Ms. Hu to deduct the employment insurance and Canada Pension Plan premiums as she wanted to be an employee. It was not until May that Ms. Hu agreed. Ms. Hu stated that the business increased in May and she could hire Lucy as an employee.
+Control
+[25] Lucy reported to Angela who decided the days and hours that Lucy worked. Lucy stated that she was not allowed to leave the store early unless she received permission from the manager. Contrary to Ms. Hu’s statement, Lucy stated that she could not leave the spa to go shopping even if the spa was not busy. Likewise, she was required to attend at the spa on her scheduled days even if she had no scheduled appointments.
+[26] The Appellant told Lucy not only what her duties were but also how they were to be performed. The Appellant trained Lucy. If Angela was not pleased with a service that Lucy performed, she could tell Lucy to correct it.
+[27] Ms. Hu stated that the Appellant’s business was conducted on the basis that the first technician into the spa on any given day, served the first customer. It was Lucy’s evidence that there were occasions when Angela would not allow her to service a customer even when it was her turn.
+[28] Ms. Hu stated that she and Lucy negotiated Lucy’s commission rate. I find this implausible given that it was Ms. Hu who decided when Lucy was no longer a trainee; it was Ms. Hu who decided when Lucy could become a junior technician and a senior technician. The commission rates for each of these positions were set by Ms. Hu. Lucy’s evidence was that “The payer determined the percentage of commission”[5].
+[29] Based on my review of the above, I have concluded that Lucy was subject to the control and supervision of the Appellant. This factor indicates that she was an employee.
+Ownership of Tools
+[30] The Appellant provided the facility, the massage chairs, towels, tables, chairs, work stations, washing machine, dryer, sanitizer and, all supplies necessary to perform the services offered by it. Lucy supplied the small tools which she used to give a manicure and a pedicure. Her tools consisted of a cuticle cutter, nipper, clippers, skin scrubber, and gel brushes. The cost of these tools was $97.54.
+[31] In this appeal, the cost of tools owned by Lucy was negligible. However, in Precision Gutters Ltd. v Minister of National Revenue[6], the fact that workers supplied their own hand tools was considered by the Federal Court of Appeal to be an indication that they were independent contractors. Likewise, in this appeal, this factor does point to Lucy as being an independent contractor.
+Chance of Profit
+[32] The Appellant established the fees that could be charged for each service. Lucy could not change those fees. The only way Lucy could increase the commissions she earned with the Appellant was to increase the number of days she worked; the number of customers she served; and her status from junior technician to senior technician. She had no control over any of these factors. Her manager scheduled the days that she was allowed to work with the Appellant. She had to wait her turn to serve a customer as the Appellant operated on the basis that the first technician in the spa served the first customer. It was the Appellant who determined when Lucy would be promoted to a senior technician.
+[33] Lucy had no chance to make a profit in the entrepreneurial sense. The customers were those of the Appellant. Lucy had no client base; she was not holding herself out as carrying on a business[7].
+Risk of Loss
+[34] Lucy did not incur any expenses in the performance of her duties. Ms. Hu stated that if a customer was not pleased with Lucy’s services, Lucy or another technician would redo the service. Lucy would lose her commission. It was Lucy’s evidence that this never occurred but she assumed that Ms. Hu’s testimony in this regard was correct. Thus, Lucy had a potential risk of loss.
+[35] Lucy had no responsibility for investment in the business and her financial risk was minimal. It was limited to the cost of her tools which was $97.54.
+[36] When I ask the question whether Lucy was performing the services as a person in business on her own account, the unequivocal answer is no. Her services were fully integrated into the Appellant’s business. They were at the core of the Appellant’s business. The Appellant exercised control over how and when Lucy performed her services. Although she owned her own tools, this was insufficient for me to conclude that Lucy was an independent contractor. I have given little weight to the factor of ownership of tools. When I review all of the evidence, I conclude that Lucy was employed by the Appellant as an employee for the period January 1, 2009 to May 31, 2009.
+[37] The appeal is dismissed.
+Signed at Ottawa, Canada, this 21st day of March 2011.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2011TCC177
+COURT FILE NO.: 2010-2842(EI)
+STYLE OF CAUSE: CANADA FINANCIAL GROUP
+O/A ELITE NAILS & SPA AND
+M.N.R. AND
+AIQIN (LUCY) ZHOU
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 26, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: March 21, 2011
+APPEARANCES:
+Agent for the Appellant:
+Jie Hu
+Counsel for the Respondent:
+Rishma Bhimji
+Agent for the Intervenor:
+Mr. Zhou
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2006 TCC 239
+[2] Wiebe Door Services Ltd. v M.N.R., [1986] 3 F.C. 553 (FCA)
+[3] [2007] F.C.J. No. 124 at paragraph 35
+[4] 671122 Ontario Ltd. v Sagaz Industries Canada Inc., 2001 SCC 59
+[5] Exhibit R-1, page 29.
+[6] 2002 FCA 207
+[7]Vita Steiner v Minister of National Revenue. 2011 TCC 146 at paragraph 15

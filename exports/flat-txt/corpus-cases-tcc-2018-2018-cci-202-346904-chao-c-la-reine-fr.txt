@@ -1,0 +1,188 @@
+Title: Chao c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/346904/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-202-346904-chao-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-10-12
+
+# Chao c. La Reine
+
+- Citation: 2018 CCI 202
+- Decision date: 2018-10-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5010, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chao c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-10-12
+Référence neutre
+2018 CCI 202
+Numéro de dossier
+2016-942(IT)I
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-942(IT)I
+ENTRE :
+ANGELA CHAO,
+appelante
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE
+La demande est rejetée, sans frais, pour les motifs énoncés dans les motifs de l’ordonnance ci-joints.
+Signé à Ottawa, Ontario, ce 12e jour d’octobre 2018.
+« Gaston Jorré »
+Le juge suppléant Jorré
+Référence : 2018 CCI 202
+Date : 20181012
+Dossier : 2016-942(IT)I
+ENTRE :
+ANGELA CHAO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge suppléant Jorré
+[1] Les circonstances de cette demande sont inhabituelles.
+[2] La Cour a été saisie de deux questions dans le présent appel présenté par l’intimée à l’égard d’une nouvelle cotisation concernant son année d’imposition 2010. Premièrement, le ministre du Revenu national (le « ministre ») a-t-il commis une erreur en refusant à l’appelante de déduire quelque 1 149 $ [1] en dépenses d’emploi? Deuxièmement, le ministre a-t-il commis une erreur en refusant d’accorder à l’appelante un remboursement de TPS/TVH de 277,46 $?
+[3] L’affaire a été entendue sous le régime de la procédure informelle. L’avis d’appel écrit présenté par l’appelante était un très court paragraphe de sept lignes. La nouvelle réponse modifiée à l’avis d’appel [2] établit à la section C les questions à trancher, à savoir [traduction] « si l’appelante : b) a le droit de déduire des dépenses d’emploi pour l’année d’imposition 2010 et c) a le droit de demander le remboursement de TPS pour l’année d’imposition 2010. » [3]
+[4] J’ai rejeté l’appel concernant les dépenses d’emploi et, au motif que l’intimée avait concédé la question, j’ai accordé le remboursement demandé.
+[5] L’intimée a présenté une demande pour faire modifier le jugement. L’intimée soutient que le remboursement n’a jamais été concédé, et qu’il ne peut y avoir de remboursement, sauf dans la mesure où certaines dépenses d’emploi peuvent être déduites sous le régime de la Loi de l’impôt sur le revenu [4] . L’intimée soutient en outre qu’en raison de ma conclusion selon laquelle aucune dépense d’emploi n’était déductible, le jugement devrait être modifié pour rejeter l’appel dans son intégralité.
+[6] L’appelante s’oppose à la demande au motif que l’intimée a concédé la question.
+[7] Avant la présentation de la preuve, l’échange suivant a eu lieu [5] :
+[traduction]
+Me LIDHAR : En ce qui concerne le remboursement de TPS, M. Sone m’a remis ce matin le formulaire qu’il fallait présenter. Nous allons donc modifier nos actes de procédure pour donner à entendre que nous ne remettons plus le montant du remboursement en question, si la Cour vient à la conclusion que l’autre partie a le droit de déduire les dépenses.
+LE JUGE JORRE : D’accord. Donc, le montant du remboursement de TPS n’est pas en cause, mais son admissibilité l’est?
+Me LIDHAR : Non, Votre Honneur, nous allons concéder l’admissibilité du remboursement, étant donné que le formulaire qui aurait dû être présenté nous a été remis.
+LE JUGE JORRE : D’accord. J’avais mal compris
+Me LIDHAR : Ce sont uniquement les dépenses qui seront en cause aujourd’hui.
+LE JUGE JORRE : Vous concédez donc le remboursement de TPS de 27746? [6]
+Me LIDHAR : C’est exact.
+[8] L’audience a duré toute la journée. L’extrait ci-dessus dure environ 41 secondes dans l’enregistrement de l’audience. L’intimée n’a pas abordé le remboursement dans son argumentation [7] .
+[9] Au début de mes notes, j’ai écrit que l’intimée avait concédé la question relative au remboursement et, en rédigeant mes motifs, j’ai agi en conséquence [8] .
+[10] Pour des raisons qui deviendront évidentes ci-dessous, il est utile de noter les observations suivantes : Premièrement, en Ontario, avant le 1er juillet 2010, il n’y avait que la TPS à un taux de 5 %. Après l’instauration de la TVH à compter du 1er juillet 2010, le taux de taxe combiné s’élevait à 13 % (5 % pour la partie fédérale, et 8 % pour la partie ontarienne).
+[11] Deuxièmement, le montant des dépenses d’emploi réclamées en cause s’élevait à 1 149 $. Si toutes ces dépenses avaient été engagées avant le mois de juillet et qu’elles avaient toutes été assujetties à la TPS, le montant total de TPS sur ces dépenses aurait été de 57,45 $. Si elles avaient toutes été engagées le 1er juillet ou après et qu’elles avaient toutes été assujetties à la TVH, alors le montant total de TVH aurait été de 149,37 $. Par ailleurs, si les dépenses avaient été engagées avant et après juillet, la TPS/TVH payée sur ces dépenses se situerait quelque part entre ces deux montants.
+[12] Troisièmement, le remboursement demandé était de 277,46 $. À un taux de 5 %, un paiement de TPS de 277 $ exige des dépenses d’environ 5 549 $ assujetties à la TPS, tandis qu’à un taux de 13 % de TVH, un paiement de TVH de 277 $ exige des dépenses d’environ 2 134 $ assujetties à la TVH.
+[13] Quatrièmement, il semble qu’à la ligne 212 de sa déclaration de revenus, l’appelante ait demandé un montant de 1 866 $ en dépenses qui n’a pas été contesté par le ministre [9] . Cette ligne sert à indiquer les cotisations annuelles syndicales, professionnelles et semblables. Ces montants peuvent être des dépenses d’emploi, et il n’est pas nécessaire de préparer un formulaire T2200 pour en faire la demande [10] .
+[14] Normalement, une personne qui veut contester un jugement doit le faire au moyen d’un appel, étant donné qu’une fois le jugement rendu, le juge est dessaisi de l’affaire (functus officio), c’est-à-dire que le juge a rempli ses fonctions et qu’il n’a plus le pouvoir de trancher la question.
+[15] Il n’existe que très peu d’exceptions à cette règle. Par exemple, si le tribunal ne s’est pas encore acquitté de toutes ses obligations, il peut le faire. Si un jugement est rendu sur le fond de l’affaire, mais que la cour reporte les dépens à plus tard, le tribunal peut toujours régler les dépens après avoir rendu son jugement. De même, lorsque le tribunal s’est penché sur toutes les questions sauf une, il peut alors, dans ce cas, régler la question non résolue [11] .
+[16] D’autres exemples d’exceptions limitées sont la capacité du tribunal de corriger des erreurs découlant d’un lapsus ou d’une omission, et la capacité de révoquer des jugements obtenus par fraude.
+[17] Bien que la Cour est un tribunal créée par la loi et qu’il ne peut entendre que les recours qui relèvent de la compétence d’attribution conférée par la loi, elle est aussi une cour supérieure d’archives [12] .
+[18] Contrairement à une cour supérieure provinciale, la Cour n’a pas de compétence résiduelle dans les affaires qui ne sont pas attribuées par la loi à d’autres tribunaux, ainsi que pour les affaires qui découlent, en partie, de la Loi constitutionnelle de 1867 [13] . Cependant, en tant que cour supérieure d’archives, la Cour détient des pouvoirs inhérents à l’égard de sa pratique et de sa procédure dans la mesure où la pratique et la procédure pertinentes ne sont pas définies dans la loi.
+[19] Par conséquent, comme ni la loi ni les Règles de la Cour canadienne de l’impôt (procédure informelle) ne prévoient de dispositions relatives à des situations où les jugements peuvent être modifiés, il est bien établi que la Cour a la capacité de traiter de telles questions. Les dispositions des règles générales de procédure conjuguées à la jurisprudence que notre Cour applique à ces règles ainsi que celle appliquée par d’autres tribunaux à des règles semblables sont des guides utiles.
+[20] Voici les règles pertinentes des Règles de la Cour canadienne de l’impôt (procédure générale) :
+168. Nouvel examen d’un jugement disposant d’un appel — Lorsque la Cour a prononcé un jugement disposant d’un appel, toute partie peut, dans les dix jours de la date à laquelle elle a pris connaissance du prononcé du jugement, demander, par voie de requête, un nouvel examen des termes du prononcé du jugement, mais seulement pour l’une ou l’autre des raisons suivantes :
+a) le prononcé n’est pas en accord avec les motifs, le cas échéant;
+b) on a négligé ou accidentellement omis de traiter dans le jugement d’une question dont on aurait dû traiter.
+. . .
+172. Annulation ou modification du jugement en raison d’erreurs — général — (1) Le jugement qui :
+a) comporte une erreur découlant d’un lapsus ou d’une omission;
+b) doit être modifié relativement à une question sur laquelle la Cour n’a pas statué,
+peut être modifié par la Cour, sur demande ou de son propre chef.
+(2) Une partie peut demander, par voie de requête dans l’instance, selon le cas :
+a) l’annulation ou la modification d’un jugement en raison d’une fraude ou de faits survenus ou découverts après qu’il a été rendu;
+b) un sursis d’exécution d’un jugement;
+c) une mesure de redressement différente de celle qui a déjà été accordée.
+[21] Comme il n’y est pas de question de fraude, nous devons examiner si :
+le prononcé n’est pas en accord avec les motifs;
+on a négligé ou accidentellement omis dans le jugement de traiter d’une question dont on aurait dû traiter;
+le jugement comporte une erreur découlant d’un lapsus ou d’une omission;
+le jugement doit être modifié relativement à une question sur laquelle la Cour n’a pas statué;
+le jugement doit être annulé ou modifié en raison de faits survenus ou découverts après qu’il a été rendu.
+[22] De toute évidence, le prononcé est en accord avec les motifs selon lesquels l’intimée a concédé le remboursement, et le fait d’accorder le remboursement dans le jugement ne constitue pas un lapsus ou une omission.
+[23] La question du remboursement a-t-elle été négligée ou omise, ou y a-t-il une autre question sur laquelle la Cour n’a pas statué?
+[24] Statuer signifie prendre une décision sur un cas, une affaire [14] . Les motifs et le jugement portent tous deux sur la question du remboursement. De toute évidence, la question du remboursement n’a pas été négligée et la Cour a statué à cet égard.
+[25] La situation en l’espèce ne correspond pas à la dernière catégorie, à savoir des faits découverts après l’audience qui n’auraient pas pu être découverts même en faisant preuve de diligence raisonnable. En l’espèce, aucune question de fait n’a été soulevée après l’audience.
+[26] Par conséquent, la demande doit être rejetée parce que je me suis acquitté de mes obligations et qu’il ne s’agit pas d’une situation qui relève des exceptions reconnues au principe du caractère définitif des jugements [15] .
+[27] Même si cela n’avait pas été le cas, il y a deux autres raisons qui m’auraient amené à la même conclusion.
+[28] Je ferai remarquer qu’à ce stade-ci, après avoir lu la transcription, puis entendu et lu les observations de l’intimée, je peux accepter que l’intimée n’avait probablement pas l’intention de concéder la question liée au remboursement de 277,46 $.
+[29] Cependant, l’important, ce n’est pas l’intention, mais bien ce qui a été fait. Pour les motifs qui suivent, je suis convaincu que l’intimée a concédé la question en début d’audience.
+[30] Au début de l’extrait de la transcription ci-dessus, après avoir déclaré que le formulaire pertinent lui avait été remis le matin même, l’intimée a déclaré [traduction] « [...] nous allons donc modifier nos actes de procédure pour donner à entendre que nous ne remettons plus le montant du remboursement en question ». Dans la réponse à l’avis d’appel, les questions suivantes sont à déterminer :
+[traduction]
+« [...] a le droit de déduire des dépenses d’emploi pour l’année d’imposition 2010 »; et « [...] a le droit de demander le remboursement de TPS pour l’année d’imposition 2010. »
+[31] L’absence d’un formulaire pour le remboursement ne fait pas partie des questions à trancher; en effet, l’avis d’appel ne comporte aucune référence à l’absence d’un formulaire sous forme d’allégation ou d’hypothèse de fait [16] . Il s’agit manifestement d’une concession du remboursement, et non d’une question au sujet d’un formulaire à concéder.
+[32] Dans la transcription, la phrase suivante [traduction] « Dans le cas où ils auraient le droit de réclamer les dépenses » crée de l’ambiguïté par rapport à ce qui vient d’être dit. Cela a mené à ma question, à la réponse de l’intimée et à mon commentaire au sujet de la réponse, dans les six lignes suivantes.
+[33] L’intimée dit ensuite [traduction] « Ce sont uniquement les dépenses qui seront en cause aujourd’hui. » Étant donné que l’affaire comportait deux questions, la façon logique de comprendre cette déclaration est que l’intimée abandonnait la question au sujet du remboursement.
+[34] J’ai ensuite posé la question suivante à l’intimée [traduction] : « Vous concédez donc le remboursement de TPS de 27746? », à laquelle elle a répondu [traduction] « C’est exact ».
+[35] Ces deux dernières lignes concèdent manifestement le remboursement.
+[36] Étant donné que la question du remboursement a été concédée, il est clair que nous ne sommes pas dans une situation où la Cour devrait modifier le prononcé, même si cela était possible.
+[37] Dans ce contexte, il existe une autre raison de rejeter la demande, et ce, même si le remboursement n’avait pas été concédé dans des circonstances semblant indiquer qu’il avait été concédé, soit une question d’équité potentielle.
+[38] Pour déterminer si la Cour doit modifier un jugement lorsque les circonstances appartiennent à l’une des exceptions au principe du caractère définitif des jugements, d’autres facteurs peuvent être pertinents, dont le principe d’équité envers l’autre partie.
+[39] Les observations de l’intimée sont, bien sûr, exactes, lorsqu’elle dit qu’aucun remboursement de TPS ou de TVH n’est possible si aucune dépense n’est déductible en vertu de la Loi de l’impôt sur le revenu.
+[40] Cependant, malgré ma conclusion selon laquelle aucune des dépenses d’emploi de 1 149 $ en cause n’était déductible [17] , des dépenses d’emploi de 1 866 $ ont été réclamées à la ligne 212 et ont été accordées par le ministre.
+[41] Plus tôt dans les présents motifs, j’ai indiqué que le montant maximal de TPS ou de TVH qui pouvait être demandé sur les dépenses d’emploi de 1 149 $ à la ligne 229 de la déclaration de revenus de l’appelante s’élevait à 149,37 $ de TVH. En fait, le montant réel est probablement beaucoup moins élevé, soit entre 60 $ et 70 $, même s’il s’agissait de dépenses d’emploi admissibles, étant donné que presque toutes les dépenses réclamées ont été engagées au cours de la première moitié de l’année [18] .
+[42] Cela nous amène à la question de savoir à quoi se rapportait les quelque 200 $ restants du remboursement demandé [19] .
+[43] S’agissait-il d’un montant lié en grande partie à autre chose que les dépenses d’emploi de 1 149 $ en cause, peut-être le montant de 1 866 $ [20] ?
+[44] À la suite d’une question que j’ai posée au cours des observations sur la demande présentée par téléconférence, le représentant de l’appelante a évoqué le montant de 1 866 $ en cotisations syndicales. Bien qu’aucune preuve n’a été présentée à l’audience quant à la nature du montant de 1 866 $, nous savons qu’il a été réclamé et accordé [21] .
+[45] Dans ses observations écrites, l’intimée a déclaré qu’il incombait à l’appelante de démontrer la justesse du remboursement demandé au moyen d’un reçu à l’appui de sa demande.
+[46] Cependant, étant donné que la demande de remboursement a été concédée, même si elle semblait seulement avoir été concédée, il n’y avait aucune raison de présenter des éléments de preuve relatifs au montant de 1 866 $, étant donné que la dépense même avait été accordée [22] .
+[47] Par conséquent, avant que toute modification puisse être envisagée, et ce, même si le jugement pouvait être autrement modifié, l’obligation d’équité exigerait la réouverture du dossier pour déterminer la nature du montant de 1 866 $, et si l’appelante a payé la TPS ou la TVH applicable à ce montant.
+[48] Si le jugement pouvait être autrement modifié et si la Cour avait été saisie d’une requête portant sur la réouverture du dossier, je ne le ferais pas à ce stade, à la lumière des circonstances actuelles, dont le modeste montant en jeu, et compte tenu de la Loi sur la Cour canadienne de l’impôt dont le paragraphe 18.15(3) est ainsi rédigé :
+Par dérogation à la loi habilitante, la Cour n’est pas liée par les règles de preuve lors de l’audition de tels appels; ceux-ci sont entendus d’une manière informelle et le plus rapidement possible, dans la mesure où les circonstances et l’équité le permettent.
+[49] Pour ces motifs, la demande sera rejetée.
+Signé à Ottawa (Ontario), ce 12e jour d’octobre 2018.
+« Gaston Jorré »
+Le juge suppléant Jorré
+RÉFÉRENCE :
+2018 CCI 202
+NO DU DOSSIER DE LA COUR :
+2016-942(IT)I
+INTITULÉ :
+ANGELA CHAO c. SA MAJESTÉ LA REINE
+OBSERVATIONS PAR TÉLÉCONFÉRENCE :
+Le 17 juillet 2018
+OBSERVATIONS ÉCRITES DE L’INTIMÉE ET DE L’APPELANTE :
+Le 10 août 2018
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge suppléant Gaston Jorré
+DATE DE L’ORDONNANCE :
+Le 12 octobre 2018
+REPRÉSENTANTS :
+Représentant de l’appelante :
+Marshall B. Sone
+Avocate de l’intimée :
+Kieran Lidhar
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Ce montant a été demandé à la ligne 229 de la déclaration de revenus; se reporter à la pièce R-3.
+[2] Déposé le 16 février 2018, avec le consentement de l’appelante.
+[3] Possiblement en raison d’une coquille, il n’y avait pas de point « a) ». La plupart des hypothèses de fait par le ministre se rapportaient aux dépenses d’emploi. Voici en quoi consistent les deux derniers sous-alinéas des hypothèses de fait du ministre : [traduction] « j) l’appelante a demandé un remboursement de TPS de 277,46 $ pour l’année d’imposition 2010 et k) l’appelante n’a pas engagé de dépenses d’emploi admissibles relativement à sa demande de remboursement de TPS ».
+[4] Cette exigence se trouve dans la définition de la variable B dans la formule énoncée au paragraphe 253(1) de la Loi sur la taxe d’accise.
+[5] Ce passage se trouve aux pages 5 et 6 de la transcription de 176 pages.
+[6] Il est clair qu’il faut interpréter le nombre 27746 comme étant le montant de 277,46 $.
+[7] En effet, à la fin de son argumentation, l’intimée n’a pas demandé le rejet de l’appel, ce qui concorde avec le fait d’avoir concédé une partie de l’appel tout en contestant le reste; se reporter aux pages 153 à 170 et 175 à 176 de la transcription.
+[8] En rédigeant les motifs de mon jugement portant sur l’appel, j’ai consulté mes notes ainsi que les pièces, et j’ai annoté mes notes pendant l’écoute de certaines parties de l’enregistrement. Ce n’est qu’après avoir reçu la demande que j’ai écouté les portions de l’enregistrement de l’audience précédant la présentation de la preuve. Je n’avais pas commandé la transcription de l’audience, parce que je n’en voyais pas la nécessité. Après avoir reçu la présente demande, j’ai écouté la partie de l’enregistrement de l’audience précédant le début de la présentation de la preuve et j’ai ordonné la transcription.
+[9] Se reporter à la pièce R-3, qui est un imprimé de l’option C.
+[10] Le paragraphe 8(10) de la Loi de l’impôt sur le revenu ne s’applique pas aux types de dépenses prévues aux sous-alinéas 8(1)i)(i) ou (iv) à (vii) de la Loi de l’impôt sur le revenu.
+[11] Se reporter, par exemple, à l’alinéa 168b) des Règles de la Cour canadienne de l’impôt (procédure générale).
+[12] Se reporter à l’article 3 de la Loi sur la Cour canadienne de l’impôt.
+[13] La Constitution limite dans une certaine mesure les compétences d’attribution qui peuvent être conférées aux tribunaux qui ne sont pas des cours supérieures.
+[14] Se reporter à la définition de « statuer » dans le Petit Robert de la langue française, 2012.
+[15] En d’autres termes, je suis dessaisi de l’affaire (functus officio).
+[16] Le formulaire en question serait le TPS370.
+[17] Il s’agit des dépenses d’emploi réclamées à la ligne 229, comme l’indique l’imprimé « Option C », la pièce R-3.
+[18] Se reporter au paragraphe 40 des Motifs de jugement dans ce dossier.
+[19] Ce facteur sous-jacent à ce que j’ai dit à la note 50 des Motifs de jugement dans ce dossier n’a pas été considéré.
+[20] Du point de vue mathématique, le montant s’élèverait à environ 243 $, à 13 % de TVH sur 1 866 $. Comme je l’ai fait remarquer plus haut, il n’est pas nécessaire de présenter de formulaire T2200 pour ce type de dépenses.
+[21] En général, les cotisations syndicales, si c’est bien ce à quoi correspond ce montant, ne seraient pas assujetties à la TPS ou à la TVH, mais la question est de savoir s’il s’agit bien de cotisations syndicales ou de cotisations similaires qui peuvent être demandées sur cette ligne et auxquelles, en fait, la TPS ou la TVH auraient été appliquées. Il est impossible de se prononcer sur cette question à la lumière des éléments de preuve présentés.
+[22] Dans ses observations écrites, l’intimée a également fait référence au formulaire TPS370 et aux éléments manquant dans le formulaire. La Cour ne dispose pas d’une telle preuve, puisque le formulaire n’a pas été déposé.

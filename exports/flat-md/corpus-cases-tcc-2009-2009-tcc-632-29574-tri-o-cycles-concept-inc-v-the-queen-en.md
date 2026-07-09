@@ -1,0 +1,187 @@
+---
+title: "Tri-O-cycles Concept Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29574/index.do"
+last_modified: "2009-12-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 632"
+citation2: ""
+neutral_citation: "2009 TCC 632"
+decision_date: "2009-12-16"
+language: "en"
+item_id: "29574"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6330
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:41:16.812000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a7050e738abac21a622502ba9ce7e8ba4aa8833d38928410cb080e70f7810311"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tri-O-cycles Concept Inc. v. The Queen
+
+- Citation: 2009 TCC 632
+- Decision date: 2009-12-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6330, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tri-O-cycles Concept Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-12-16
+Neutral citation
+2009 TCC 632
+File numbers
+2007-2422(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2422(IT)G
+BETWEEN:
+TRI-O-CYCLES CONCEPT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on March 26 and 27, 2009, at Montreal, Quebec.
+Before: The Honourable Justice Brent Paris
+Appearances:
+Counsel for the Appellant:
+Soleil Tremblay
+Counsel for the Respondent:
+Nathalie Labbé
+____________________________________________________________________
+JUDGMENT
+The appeals from assessments made under the Income Tax Act for the 2002 and 2003 taxation years are allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was carrying on a business in 2002 and 2003 and was entitled to the investment tax credits and business loss deductions as claimed.
+Signed at Vancouver, British Columbia, this 16th day of December 2009.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 6th day of March 2013.
+Erich Klein, Revisor
+Citation: 2009 TCC 632
+Date: 20091216
+Docket: 2007-2422(IT)G
+BETWEEN:
+TRI-O-CYCLES CONCEPT INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] The issue in these appeals is whether the Appellant is entitled to business loss deductions and investment tax credits (ITCs) with respect to scientific research and experimental development (SR&ED) for its 2002 and 2003 taxation years.
+[2] The Minister of National Revenue denied the Appellant’s claims for business losses of $7,018 in 2002 and $9,567 in 2003 and for ITCs of $13,322 in 2002 and $19,321 in 2003 on the basis that the Appellant was not carrying on a business in those years. Before this Court, the Respondent also argued that certain amounts claimed as business expenses were unreasonable in the circumstances.
+Facts
+[3] The Appellant was incorporated in 1997. Its sole shareholder and director is Mr. Yves Brisson. Mr. Brisson has a background in business and industrial design.
+[4] The Appellant began operating in 1999, when it started the development of an adult tricycle designed for urban use. Almost all, if not all, the development work on the tricycle was carried out by Mr. Brisson, who was paid a salary by the Appellant. Mr. Brisson’s efforts were focused on designing two specific elements incorporating technological advances vis-à-vis existing adult tricycles: a pedal system and a steering system.
+[5] It was admitted by the Respondent that the work carried out by Mr. Brisson for the Appellant qualified as SR&ED.
+[6] Various prototypes of the pedal and steering systems were produced between 1999 and 2001, and in 2002 Mr. Brisson began work to integrate these components into a working tricycle. By 2003, he had developed what he referred to as a [TRANSLATION] “prototype that was very close to being marketable”. In 2004, he contacted a patent agent for the purpose of having the agent carry out a study of the potential patentability of the components. He said that, while the study was not conclusive, it appeared that there were no existing patents which could block a patent application by the Appellant.
+[7] Mr. Brisson testified that the Appellant intended to licence the technology once it obtained patent protection, and to earn income from royalties rather than through its own production and sale of tricycles. He explained that the cost of applying for patents in the jurisdictions contemplated by the Appellant would have been as much as $500,000 and that the patent process, once started, needed to be completed within two to three years. The Appellant’s plans were put on hold after it was denied the ITCs in issue, and because of the illness and subsequent death of Mr. Brisson’s parents. Mr. Brisson also indicated that he felt it would be difficult to obtain the necessary financing for the Appellant given the Minister’s refusal to allow the ITCs and business losses claimed.
+[8] According to the evidence, Mr. Brisson spent 1,000 hours per year working for the Appellant in 1999 and 2000, 500 hours in 2001, 700 hours in 2002 and 1,000 hours in 2003, and was paid $50 per hour.
+[9] The Appellant applied for and received ITCs in relation to SR&ED expenditures made in its 1999, 2000 and 2001 taxation years. In April 2004, it applied for ITCs in relation to SR&ED expenditures of $35,000 for 2002 and $50,457 for 2003, which consisted of Mr. Brisson’s salary (and the purchase of some materials in 2003). It also reported business losses for those years. Those claims were denied by the Minister in assessments dated April 15, 2005 because the Minister did not accept that the Appellant had commenced carrying on a business.
+[10] The key assumptions made by the Minister in assessing are set out in subparagraph 6(k) of the Reply to the Notice of Appeal, which reads as follows:
+[TRANSLATION]
+(k) During the years at issue, the Appellant had not begun carrying on a business;
+(i) the Appellant had not made any sales nor earned any revenue since its incorporation in 1997, nor did it do so during the years at issue;
+(ii) the Appellant was not carrying on any real commercial activity during the years at issue;
+(iii) the expenses, in particular those for equipment, materials and subcontracting, are general in nature and have nothing to do with carrying on a business;
+(iv) no organizational structure existed;
+(v) no market analysis or feasibility analysis had been done, and no structured business plan had been drawn up;
+(vi) there was no documentation, in the form of correspondence, a marketing agreement or anything else, establishing the existence of any regular revenue-producing activity or of any preliminary activities essential to the normal operation of a business;
+(vii) the Appellant obtained no financing other than the funds advanced by Mr. Brisson for the payment of his salary and certain provincial and federal SR&ED credits.
+Positions of the parties
+[11] Counsel for the Respondent argued that in 2002 and 2003, the Appellant had not yet put into place a structure for the business which it wished to carry on, and that its activities were merely preliminary to setting up a business.
+[12] Counsel submitted that the Appellant had not carried out any studies to determine the potential demand for an adult tricycle, or the costs associated with its production, that it had not met with any manufacturers to discuss possible production of the tricycle, that it had neither revenue nor an infrastructure that would enable it to earn revenue, and that it had not taken steps to obtain financing. Overall, the Respondent suggested, nothing concrete had been done by the Appellant to commercialize its product and it had made little progress on the project since its inception in 1999. Counsel described the Appellant’s plans as [TRANSLATION] “somewhat unrealistic”.
+[13] Alternatively, the Respondent submitted that the amounts paid by the Appellant to Mr. Brisson as salary were unreasonable and that the deductions should therefore be disallowed. The Respondent argued that the Appellant did not have the financial ability to pay those amounts to Mr. Brisson because it was not earning any revenue. The Respondent also submitted that the Appellant paid the salary out of advances made to it by Mr. Brisson, and suggested that the advances by Mr. Brisson and the payments by the Appellant to him, and then from him back to the Appellant, were repeated a number of times.
+[14] The Respondent also suggested that the Appellant only paid Mr. Brisson those amounts in order to generate ITCs, since the salary payments qualified as SR&ED expenditures. In these circumstances, the Respondent says, the salary expenses were not reasonable within the meaning of section 67 of the Income Tax Act (the Act).
+[15] The Appellant maintained that it had all the necessary elements in place to permit it to carry on business in 2002 and 2003 and that the design and development work preformed by Mr. Brisson was an integral part of its business activities. It stated that its business plan was reasonable and it was working towards obtaining a patent that would then put it in a position to approach bicycle manufacturers. Counsel for the Appellant suggested that, by allowing it ITCs in 1999, 2000 and 2001, the Minister had accepted that the Appellant had already commenced carrying on business. Counsel also pointed out that significant time and money had been spent by the Appellant on the development of an adult tricycle.
+[16] The Appellant maintained that the salary payments were reasonable given the nature of the work that was undertaken and the amount of time spent on it by Mr. Brisson.
+Relevant Legislation
+[17] According to subsection 127(5) of the Act, a taxpayer must be carrying on a business in order for that taxpayer to be entitled to claim SR&ED expenses that may be deducted under subsection 37(1). The opening words of subsection 37(1) read as follows:
+37(1) Where a taxpayer carried on a business in Canada in a taxation year, there may be deducted in computing the taxpayer’s income from the business for the year such amount as the taxpayer claims not exceeding the amount, if any, by which the total of . . . .
+[18] Section 67 of the Act prohibits the deduction of any amount except to the extent that the amount is reasonable in the circumstances. That provision reads as follows:
+67. In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+Analysis
+[19] The decisions in Gartry v. The Queen[1] and Samson et Frères Ltée v. Canada[2] provide useful guidance on how to determine whether a taxpayer has commenced carrying on a business.
+[20] In Gartry, the taxpayer had decided to go into business as a commercial fisherman, and to that end he agreed to purchase a boat, arranged to hire a crew, negotiated financing and obtained the necessary operating licenses. However, the boat sank before title to it passed to the taxpayer. His claim for business losses relating to the activities he had carried on prior to the loss of the vessel was denied by the Minister, and it was argued that the business had not commenced operating. Judge Bowman (as he then was) noted that, while each case depends on its own facts,
+. . . where a taxpayer has taken significant and essential steps that are necessary to the carrying on of the business it is fair to conclude that the business has started.
+[p. 1949]
+In that case, Judge Bowman held that the business had commenced operating and was well under way when the taxpayer incurred the expenses he sought to deduct.
+[21] In Samson et Frères Ltée v. Canada,[3] the Minister had denied the deduction of business losses on the basis that the taxpayer was not carrying on a business. The taxpayer had previously operated a meat-processing business but its plant had been largely destroyed by a fire two years before the first of the years in issue. After the fire, the taxpayer planned to build a new, larger facility in a different location. It sought government assistance in order to proceed with the project but was refused. The Court found that the efforts made by the taxpayer to obtain equipment and new premises were preliminary steps to commencing the business and that the plans to do so were abandoned when the necessary financing could not be obtained. As a result, the Court held that the taxpayer had not yet begun the new business during the years at issue.
+[22] At paragraph 22 of the decision in Samson et Frères Ltée, the Court made the following observations:
+22 It seems clear to me . . . that, for a business to exist and to have commenced, one must have gone beyond the stage of merely intending to commence it. A plan to do so, even a clearly-stated one, is in my view merely the expression of that intention and must be taken further. The essential elements relating to the very structure of the business, that is the necessary financing, assets and labour, must have been sought out and brought together before it can be stated that the business exists and that it has commenced. I will add that the decision to commence the business, as it may be detected from "significant" or "essential" steps taken by the taxpayer with a view to operating the business, is an important indicator that the business has commenced. That, in my view, is the meaning of the decision by Judge Bowman of this Court in Gartry, supra. It is indeed fairly difficult to conceive that a business has commenced before a firm decision has been made to that effect and before the essential elements relating to the very structure of such a business have been brought together.
+[Emphasis added.]
+[23] In the case before me, it appears that, during the years in issue, the Appellant had created a structure that incorporated all of the elements necessary for carrying on business. It had Mr. Brisson’s initial capital investment of approximately $130,000 (according to the Appellant’s 2002 and 2003 financial statements), as well as premises from which to operate. It had a qualified employee, Mr. Brisson, to perform the development and design work. It also had an operating plan and was executing that plan in an organized and methodical manner that involved significant expenditures of time and money. The Appellant had clearly progressed beyond the stage of studying the possibility of starting up a business, and beyond assembling the elements necessary to carry on the undertaking. The infrastructure necessary to develop the adult tricycle was in place and work had begun by 1999. This is in contrast to the situation in Samson et Frères, where the Court found that the taxpayer had not yet made a firm decision concerning the launch of the new business and that the project had always remained conditional on obtaining the required financing.
+[24] The fact that the Appellant had no revenues in 2002 and 2003 is not determinative of whether a business had begun operating. It must be kept in mind that by its very nature the Appellant’s business, that is, the development of a new product, involves a longer start-up time than is necessary for other kinds of businesses. As noted by Judge Bowman in Gartry, each case turns on its own facts, and:
+In determining when a business has commenced, it is not realistic to fix the time either at the moment when money starts being earned from the trading or manufacturing operation or the provision of services or, at the other extreme, when the intention to start the business is first formed.[4]
+[25] Nor is it fatal to the Appellant’s position that its only financing was obtained from Mr. Brisson and through tax credits received in 1999, 2000 and 2001. The intended purpose of the tax credits obtained by the Appellant would seem to me to be to provide financial assistance for research and development work, and such credits would appear to be a legitimate source of working capital for a business that is developing a new product, as in this case. Shareholder financing likewise is an accepted means of providing start-up capital for small businesses.
+[26] Many of the points raised by the Respondent relate to a concern whether the Appellant was carrying on its operations in a commercial manner, rather than having to do with whether it had commenced carrying on business at all. A review of the commerciality of the Appellant’s conduct is only appropriate, however, in circumstances where there is a personal element to its operations (Stewart v. The Queen[5]). The Respondent has neither pleaded nor argued here that the Appellant’s predominant intention was other than to make a profit, or that there was a personal element to its activities.
+[27] Having found that the Appellant was carrying on business in 2002 and 2003, I now turn to the Respondent’s alternative argument that the amounts paid to Mr. Brisson as salary–$35,000 in 2002 and $50,000 in 2003–were unreasonable.
+[28] The Courts have taken section 67 as being intended to mean the reasonableness of an expenditure in terms of its quantum or magnitude: Mohammad v. The Queen[6] and Gabco Ltd. v. M.N.R.[7] The Supreme Court of Canada has also held, in Stewart, that the determination of reasonableness for the purposes of section 67 can be based on consideration of the type of expense claimed and its relation to the business of the taxpayer. (See also Hammill v. The Queen.[8])
+[29] The onus in this case is on the Respondent to show that the salary expenses in issue are, either by virtue of their amount or by their nature, unreasonable in the context of the Appellant’s business.
+[30] Mr. Brisson was paid $50 per hour for his work. There was no evidence presented to show that this rate of pay was unreasonable for the type of design work done by Mr. Brisson. Mr. Brisson testified that he worked 700 hours in 2002 and 1,000 in 2003 for the Appellant. This testimony was unshaken in cross‑examination. The Respondent did not call any witnesses to show that the amount of time spent by Mr. Brisson on his work was inordinate or unreasonable in light of the results he produced.
+[31] Furthermore, I do not accept that the fact that the salary was paid out of money advanced to the Appellant by its shareholder or received as tax credits, rather than out of revenues, should lead to an inference that the expense was unreasonable. If such were the case, any salary paid for product development would arguably be unreasonable. I also reject the notion that the manner in which Mr. Brisson advanced the funds to the Appellant has a bearing on the issue of reasonableness.
+[32] Overall, I find that the Respondent has failed to show that, in the words of the Exchequer Court in Gabco Ltd.,[9] “no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind.”
+[33] For these reasons, the appeals are allowed, with costs.
+Signed at Vancouver, British Columbia, this 16th day of December 2009.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 6th day of March 2013.
+Erich Klein, Revisor
+CITATION: 2009 TCC 632
+COURT FILE NO.: 2007-2422(IT)G
+STYLE OF CAUSE: TRI-O-CYCLES CONCEPT INC. v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: March 26 and 27, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT: December 16, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Soleil Tremblay
+Counsel for the Respondent:
+Nathalie Labbé
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Soleil Tremblay
+Firm: Alepin, Gauthier
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 94 DTC 1947.
+[2] [1995] T.C.J. No. 1385 (QL).
+[3] Supra.
+[4] Supra, p. 1949.
+[5] 2002 SCC 46, [2002] 2 S.C.R. 645.
+[6] 97 DTC 5503 (FCA).
+[7] 68 DTC 5210 (Ex. Ct.).
+[8] 2005 F.C.J. No. 1197 (QL).
+[9] Supra, p. 5216.

@@ -1,0 +1,192 @@
+Title: Développement Priscilla Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28396/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-728-28396-d-veloppement-priscilla-inc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2007-05-01
+
+# Développement Priscilla Inc. c. La Reine
+
+- Citation: 2007 TCC 728
+- Decision date: 2007-05-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1915, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Développement Priscilla Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-05-01
+Neutral citation
+2007 TCC 728
+File numbers
+2006-1317(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-1317(GST)I
+BETWEEN:
+DÉVELOPPEMENT PRISCILLA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 30, 2007, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Piero Iannuzzi
+Counsel for the Respondent:
+Claudine Alcindor
+____________________________________________________________________
+JUDGMENT
+The Appellant's appeal against the notice of assessment dated February 15, 2005, bearing the reference number 2180751 and pertaining to the period from April 1, 2000, to March 31, 2004, is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of December 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 10th day of January 2008.
+Brian McCordick, Translator
+Citation: 2007TCC728
+Date: 20071204
+Docket: 2006-1317(GST)I
+BETWEEN:
+DÉVELOPPEMENT PRISCILLA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal against a notice of assessment dated February 15, 2005, bearing the reference number 2180751, and pertaining to the period from April 1, 2000, to March 31, 2004 ("the period in issue").
+[2] The amounts assessed in that notice of assessment are as follows:
+Adjustments made in the determination of the reported net tax
+=
+$11,688.85
+Interest
+=
+$1,176.33
+Penalties
+=
+$7,406.08
+Total amount due
+=
+$20,271.26
+[3] The breakdown of the adjustments made in the determination of the Appellant's reported net tax is as follows:
+Goods and Services Tax (GST) collected or collectible
+=
+$7,472.95
+Input Tax Credits (ITCs) claimed and overpaid or paid in error or without entitlement
+=
+$4,215.90
+__________
+Total
+=
+$11,688.85
+[4] The breakdown of the GST collected or collectible is as follows:
+GST collected or collectible and not reported in determining the net tax
+=
+$1,956.91
+Unremitted GST in respect of taxable benefits subject to GST
+=
+$1,083.73
+Discrepancies identified between reported amounts and amounts in the books (lease contract)
+=
+$4,432.31
+__________
+Total
+=
+$7,472.95
+[5] The breakdown of the ITCs over-claimed, or claimed in error or without entitlement, is as follows:
+ITCs claimed, and obtained without supporting documentation or overpaid or paid in error in determining the reported net tax (including ITCs on reimbursements of personal expenses)
+=
+$1,607.93
+Discrepancies between the ITCs claimed and the GST returns filed (periods from June 30, 2000, to December 31, 2001)
+=
+$2,607.97
+__________
+Total
+=
+$4,215.90
+Facts
+[6] The Appellant incorporated on December 15, 1999, under the Canada Business Corporations Act, for the purpose of purchasing and managing commercial buildings. During the period in issue, the Appellant was a registrant for the purposes of Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (hereinafter "the Act").
+[7] In December 1999, the Appellant and a partner named Toni Tutino purchased a commercial building bearing the civic address 237 Station Street, Belleville, Ontario, for $76,000. In 2000, the Appellant commenced cleaning and renovation work on the building with a view to making it into a bar and restaurant for adults. Mr. Tutino's interest in the building was bought back from him in 2001.
+[8] The bar and restaurant opened on October 28, 2002. They were managed by The Doc's Palace Inc., a corporation incorporated on June 1, 2001 under the Canada Business Corporations Act. The company is a wholly‑owned subsidiary of the Appellant, and was entrusted with the management of the bar and restaurant following the signing of a five-year lease that commenced on May 1, 2002, and ended on April 30, 2007 ("the lease"). The bar and restaurant remained in operation until January 18, 2004, when the building was razed by fire.
+[9] During the period in issue, the Appellant's only directors and shareholders were Mohamed Yahyaoui and Giuseppe Gaétani. Mr. Gaétani became a shareholder of the Appellant on August 31, 2002 by investing $250,000, which consisted of $5,000 for 5000 Class "A" shares representing 25% of the issued and outstanding shares of the Appellant, and $245,000 in the form of advances to the Appellant. The rights and obligations of the Appellant's shareholders were governed by a shareholders' agreement signed on August 31, 2002.
+[10] Mr. Gaétani remained a director and shareholder of the Appellant until January 16, 2006, when, as part of a transaction with Mr. Yahyaoui, he disposed of such shares of the Appellant as he owned, as well as advances to the Appellant in the amount of $252,000, in consideration of $72,500 and other forms of good and valuable consideration, including indemnification obligations.
+[11] During the period in issue, Mr. Yahyaoui, who resided in the Montréal area, looked after the renovations of the Belleville building on behalf of the Appellant and looked after the management of the bar and restaurant on behalf of The Doc's Palace Inc. On his weekly trips to Belleville, Mr. Yahyaoui used one of three vehicles registered under the Appellant's name: a 2003 Dodge Caravan leased under a contract signed on November 11, 2002; a 1981 Porsche 928; and a 1988 Honda Civic.
+[12] According to Mr. Yahyaoui, the cost of renovating the bar and restaurant was financed in part by $640,000 in private loans from Felice D'Agostino ($75,000), Tony Coccovia ($40,000), Roberto Bonifazi ($115,000), Mario Viviani ($295,000) and Meubles Avila Inc. ($55,000 and $60,000). Copies of loan confirmations and IOUs were produced, and Mr. Bonifazi and Mr. Viviani testified. The loans were mostly made in cash and were not memorialized by notes or other documents of any kind. In addition, they bore no interest and there were no terms of repayment. The last point that should be made about the loans is that they were not secured by pledges or other collateral.
+Analysis and conclusion
+[13] The amount of $1,956.91 sought on account of GST collected or collectible and not reported in the determination of net tax stems from additional revenues that were not entered in the accounting records for the period ended September 30, 2003. The figure of $1,956.91 was arrived at by comparing the Appellant's accounting records with cash receipts and reported tax amounts. The Appellant claims that these deposits are not attributable to taxable supplies and do not constitute unreported income because they consist of private loans made by friends of Mr. Yahyaoui's. Counsel for the Respondent alleges that the private loans have no probative value because there is no documentary evidence and there is a lack of clarity concerning the dates on which they were granted, the dates on which the loaned amounts were deposited, and the bank accounts into which they were deposited. In addition, counsel for the Respondent alleges that most of the loans were made outside the period ended September 30, 2003.
+[14] The amount of $4,432.31 sought on account of GST collected or collectible and not reported in the determination of net tax stems from discrepancies noted between the amounts reported and the amounts stated in the books —discrepancies that are primarily attributable to the lease between the Appellant and The Doc's Palace Inc. The lease in question is a triple-net lease under which the tenant had to pay a base rent plus an additional rent covering all expenses related to the building, including repairs, municipal tax, business tax, electricity, heating, insurance premiums, etc. Only the base rent was entered in the Appellant's books, and the additional rent was not paid during the 2003 taxation year, which ended on September 30, 2003.
+[15] The amount of $1,083.73 sought on account of GST collected or collectible and not reported in the determination of net tax stems from unremitted GST on taxable benefits arising from the personal use of the vehicles registered under the Appellant's name. Mr. Yahyaoui and his spouse did not have any vehicles registered under their personal names. The Appellant did not produce records based on which the annual distance driven by the vehicles and the extent of their business use could be determined. The Appellant's representations in this regard consisted in showing that Mr. Yahyaoui needed to be on the premises in Belleville to look after the renovation work and the management of the bar and restaurant.
+[16] The amount of $1,607.93 sought on account of ITCs that were claimed and obtained without supporting documentation, or overpaid or paid in error in determining the net tax reported during the period in issue (including ITCs on reimbursements of personal expenses) stems from unsubstantiated operating expenses. Counsel for the Appellant submits that the unsubstantiated expenses accounted for only 5 to 6% of the total expenses incurred. This is only a very small percentage of the disallowed expenses, and the taxpayer should have the benefit of the balance of probabilities.
+[17] The amount of $2,607.97 claimed on account of ITCs over-claimed, or claimed in error or without entitlement, consists of discrepancies between the ITCs claimed and the GST returns filed for the periods from June 30, 2000, to December 31, 2001. It is a reconciliation of the taxes stated in the returns with what is entered in the company's books.
+[18] Based on the foregoing, all the supplies made by the Appellant in the course of the commercial activities of the business that it carried on during the period in issue were taxable supplies on which GST was payable by the recipients, and the Appellant was under an obligation to collect that GST.
+[19] The Appellant, during the period in issue, made taxable supplies of services in respect of which it failed to collect the GST payable by the recipients, contrary to subsections 165(1) and 221(1) of the Act, which read:
+165. (1) Imposition of goods and services tax — Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 7% on the value of the consideration for the supply.
+221. (1) Collection — Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+[20] In determining its net tax as reported for the period in issue, the Appellant did not include the GST payable, contrary to subsection 225(1) of the Act, which reads:
+225. (1) Net tax -- Subject to this Subdivision, the net tax for a particular reporting period of a person is the positive or negative amount determined by the formula
+A – B
+where
+A is the total of
+(a) all amounts that became collectible and all other amounts collected by the person in the particular reporting period as or on account of tax under Division II, and
+(b) all amounts that are required under this Part to be added in determining the net tax of the person for the particular reporting period; and
+B is the total of
+(a) all amounts each of which is an input tax credit for the particular reporting period or a preceding reporting period of the person claimed by the person in the return under this Division filed by the person for the particular reporting period, and
+(b) all amounts each of which is an amount that may be deducted by the person under this Part in determining the net tax of the person for the particular reporting period and that is claimed by the person in the return under this Division filed by the person for the particular reporting period.
+[21] Paragraphs 18 to 20 of these reasons apply to the amounts set out in paragraphs 13, 14 and 15. The private loans cannot be used as justification for the unreported income for the period ended September 30, 2003, a period during which the bar and restaurant were operating. Most of these loans were disbursed in cash in order to pay the workers, painters, masons, etc., in cash. The loans from Meubles Avila, Felice D'Agostino, Toni Coccovia and Mario Viviani (except for $10,000) fall outside the relevant period and have no effect on the amounts assessed. The loans from Roberto Bonifazi, totalling $115,000, are not substantiated by any documentary evidence.
+[22] The GST on the additional rent payable to the Appellant by The Doc's Palace Inc. was not collected, but was collectible even though the additional rent was not paid to the Appellant.
+[23] As for the GST payable but not remitted in respect of the taxable benefits associated with the personal use of the vehicles registered under the Appellant's name, no evidence was submitted to establish that the personal use percentages for each vehicle, namely 100%, were unreasonable or inappropriate. No specific representation was made about the business use of the vehicles. No data concerning the distance driven annually by each vehicle were provided. Mr. Yahyaoui asserted that he travelled to Belleville many times during the renovations and when the bar and restaurant were operating, but little documentary evidence was provided in this regard. The Appellant's accounting records contain few Belleville lodging and restaurant bills. The Appellant's cellular phone call records showed that there were few Belleville area entries.
+[24] In computing its net tax for the period in issue, the Appellant over-claimed ITCs, or claimed them in error or without entitlement.
+[25] The amount of the ITC contemplated in paragraph 16 was obtained without supporting documentation, contrary to paragraph 169(4)(a) of the Act, which is worded as follows:
+169. (4) A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed; . . .
+The prescribed information is listed in section 3 of the Input Tax Credit Information (GST/HST) Regulations ("the Regulations"), and the term "supporting documentation", as used in section 3, includes an invoice, receipt, credit‑card receipt, debit note, book or ledger of account, written contract or agreement, any record contained in a computerized or electronic retrieval or data storage system, and any other document validly issued or signed by a registrant in respect of a supply made by the registrant in respect of which there is tax paid or payable.
+[26] In Brent Davis v. Her Majesty the Queen, 2004 TCC 662, Campbell J. of this Court expressed her agreement with the findings of Bowman C.J. in Helsi Construction Management Inc. v. Canada, [1997] T.C.J. No. 1194 (QL) in the following terms:
+(22) In that case, Justice Bowman concluded that the document requirements referred to in the Regulations are "mandatory", to use his wording, and not "directory".
+(23) I agree with Justice Bowman's conclusions in the Helsi case. Paragraph 169(4)(a) refers to the documentation required to support an ITC claim. Regulation 3 sets out in detail the prescribed information which is necessary to support a claim under that paragraph. These are technical requirements which are clearly set out and referred to in the relevant provisions and Regulations.
+(24) Because of the very specific way in which these provisions are worded, I do not believe they can be sidestepped. They are clearly mandatory and the Appellant has simply not met the technical requirements which the Act and the Regulations place upon him as a member of a self-assessing system.
+[27] I therefore conclude that, in the case at bar, the Minister is justified in seeking the repayment of the ITCs that the Appellant obtained without supporting documentation.
+[28] The ITC amount referred to in paragraph 17 stems from the keeping of inadequate accounting records that explain the discrepancies observed. The Appellant did not keep the records that it was required to keep under the terms of subsection 286(1) of the Act, which reads:
+286. (1) Every person who carries on a business or is engaged in a commercial activity in Canada, every person who is required under this Part to file a return and every person who makes an application for a rebate or refund shall keep records in English or in French in Canada, or at such other place and on such terms and conditions as the Minister may specify in writing, in such form and containing such information as will enable the determination of the person’s liabilities and obligations under this Part or the amount of any rebate or refund to which the person is entitled.
+[29] In the case at bar, there is no doubt that the Appellant had the burden of showing that the Minister's assessment is erroneous, because, under section 299 of the Act, an assessment is deemed to be valid and binding. The Appellant did not discharge this burden, because it was unable to fulfil its obligation to be in possession of such accounting records and supporting documentation as would enable its commercial activities to be audited at any time.
+[30] As Tardif J. stated in 2868-2656 Québec Inc. v. Her Majesty the Queen, 2003 TCC 277:
+(41) Acting as an agent for the collection of taxes calls for impeccable transparency that is untainted by any doubt and, most importantly, for the availability of all supporting documents so that impeccable, flawless management may be proven at all times.
+[31] It is appropriate to impose penalties under section 285 of the Act in the instant case because the Appellant knowingly, or in circumstances amounting to gross negligence, made a false statement or omission in the determination of its net tax for several reporting periods. The defence of due diligence cannot succeed here, because the evidence clearly showed that the Appellant was negligent in its bookkeeping and recordkeeping and made false statements and omissions in its tax returns.
+[32] For these reasons, the appeal is dismissed, with costs to the Respondent.
+Signed at Ottawa, Canada, this 4th day of December 2007.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 10th day of January 2008.
+Brian McCordick, Translator
+CITATION: 2007TCC728
+COURT FILE NO.: 2006-1317(GST)I
+STYLE OF CAUSE: DÉVELOPPEMENT PRISCILLA INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: April 30, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: December 4, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Piero Iannuzzi
+Counsel for the Respondent:
+Claudine Alcindor
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Piero Iannuzzi
+City: Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

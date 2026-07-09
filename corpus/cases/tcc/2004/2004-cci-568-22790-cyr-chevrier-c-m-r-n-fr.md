@@ -1,0 +1,194 @@
+---
+title: "Cyr Chevrier c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/22790/index.do"
+last_modified: "2004-10-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 568"
+citation2: ""
+neutral_citation: "2004 CCI 568"
+decision_date: "2004-10-29"
+language: "fr"
+item_id: "22790"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2240
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:52:58.772000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d26a1e4a63ee07abf2560e99b45282b51b8d0e4d307488a7b6aaa24e9d63afcf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cyr Chevrier c. M.R.N.
+
+- Citation: 2004 CCI 568
+- Decision date: 2004-10-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2240, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cyr Chevrier c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-10-29
+Référence neutre
+2004 CCI 568
+Numéro de dossier
+2003-4495(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2003-4495(EI)
+ENTRE :
+RÉJEANNE CYR CHEVRIER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SERGE CHEVRIER,
+intervenant.
+____________________________________________________________________
+Appel entendu le 12 août 2004 à Hâvre-Aubert (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Agathe Cavanagh
+Pour l'intervenant :
+L'intervenant lui-même
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision rendue par le ministre est annulée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour d'octobre 2004.
+« Paul Bédard »
+Juge Bédard
+Référence : 2004CCI568
+Date : 20041029
+Dossier : 2003-4495(EI)
+ENTRE :
+RÉJEANNE CYR CHEVRIER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+SERGE CHEVRIER,
+intervenant.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] L'appelante interjette appel de la décision du ministre du Revenu national (le « ministre » ) selon laquelle l'emploi exercé par elle au cours de la période en question, soit du 26 mai 2003 au 29 août 2003, lorsqu'elle était au service de monsieur Serge Chevrier (le « payeur » ), est exclu des emplois assurables au sens de la Loi sur l'assurance-emploi (la « Loi » ) au motif qu'il existait un lien de dépendance entre le payeur et l'appelante.
+[2] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[3] Les paragraphes 5(2) et 5(3) de la Loi se lisent en partie comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[4] L'article 251 de la Loi de l'impôt sur le revenu se lit en partie comme suit :
+Article 251 : Lien de dépendance.
+(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Définition de « personnes liées » . Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l'union de fait ou de l'adoption;
+[...]
+[5] En rendant sa décision, le ministre s'est basé sur les présomptions de fait suivantes énoncées au paragraphe 7 de la Réponse à l'avis d'appel :
+a) le payeur habitait au sous-sol de la résidence de l'appelante;
+b) depuis août 2001, le payeur ne versait pas de loyer à l'appelante pour son logement;
+c) selon le Guide des salaires des professions au Québec en 2002, le salaire moyen d'une gardienne d'enfants était de 256,10 $ par semaine;
+d) l'appelante a déterminé elle-même son salaire à 350 $ par semaine plus 4 %;
+e) la rémunération versée à l'appelante était déraisonnable compte tenu du marché;
+f) en novembre 2003, le payeur a déménagé et il a trouvé une garderie pour sa fille;
+g) après sa mise à pied, l'appelante a continué à garder sa petite-fille sans être inscrite au journal des salaires du payeur;
+h) la période prétendue d'emploi ne correspond pas avec la période réelle d'emploi;
+i) les modalités de l'emploi de l'appelante était déraisonnables;
+j) la prétendue mise à pied de l'appelante du 29 août 2003 ne coïncidait pas avec les besoins du payeur mais avec les besoins de l'appelante pour se qualifier aux prestations de chômage;
+k) la durée prétendue de l'emploi visait davantage à répondre aux besoins de l'appelante à se qualifier à l'assurance-emploi qu'aux besoins réels du payeur;
+l) la durée prétendue de l'emploi de l'appelante était déraisonnable;
+m) le payeur n'aurait pas accordé de telles conditions d'emploi à l'appelante sans le lien de dépendance.
+[6] La Cour d'appel fédérale a défini à plusieurs reprises le rôle confié par la Loi à un juge de la Cour canadienne de l'impôt. Ce rôle ne permet pas au juge de substituer sa discrétion à celle du ministre, mais il emporte l'obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, [...] décider si la conclusion dont le ministre était "convaincu" paraît toujours raisonnable » [1].
+[7] En d'autres termes, avant de décider si la conclusion dont le ministre était convaincu me paraît toujours raisonnable, je dois, à la lumière de la preuve dont je dispose, vérifier si les allégations du ministre s'avèrent, malgré tout, bien fondées en tout ou en partie, tenant compte des facteurs que mentionne l'alinéa 5(3)b) de la Loi.
+[8] La crédibilité de l'appelante et du payeur n'est pas mise en doute. Ils ont témoigné franchement, au meilleur de leur connaissance et avec beaucoup de clarté. Je tiens à souligner que personne n'a témoigné pour l'intimé.
+[9] Puisque l'avocate de l'intimé a admis que l'appelante exerçait un emploi aux termes d'un contrat de louage de services, il y a lieu de se demander si, n'eut été du lien de dépendance, le payeur et l'appelante auraient conclu un tel contrat de travail. Autrement dit, est-ce que les conditions d'emploi étaient plus avantageuses du fait que l'appelante était la mère du payeur?
+Témoignages
+[10] Le témoignage de l'appelante et du payeur a révélé :
+i) que, d'août 2001 à novembre 2003, le payeur, sa conjointe et leur petite fille, Anne-Virginie, née le 28 septembre 2002, habitaient gratuitement le sous-sol de la résidence de l'appelante;
+ii) que le payeur était employé à temps plein en informatique au CÉGEP de la Gaspésie/Les Îles;
+iii) que la conjointe du payeur gardait Anne-Virginie jusqu'à ce qu'elle trouve, en mai 2003, un emploi à temps plein comme archiviste;
+iv) que ce n'est qu'en dernier ressort qu'il avait retenu les services de l'appelante. En effet, le payeur a témoigné que, sa conjointe n'étant plus en mesure de garder Anne-Virginie, il avait multiplié les efforts pour trouver une gardienne ou une place en garderie pour sa fille, efforts qui toutefois s'étaient avérés infructueux. Il avait même offert 350 $ par semaine à madame Bourgeois qui, bien qu'elle avait accepté dans un premier temps de garder Anne-Virginie, avait décliné par la suite. Le payeur a expliqué que ses insuccès à trouver une place en garderie étaient dus à l'âge de sa petite fille (6 mois) et à la rareté de la main-d'oeuvre aux Îles pour la période en cause, soit la seule période de l'année où à peu près tout le monde travaille aux Îles. Il avait donc dû se résigner à demander à l'appelante de garder sa petite fille. Il a témoigné qu'il lui avait alors offert 350 $ par semaine en contrepartie de ses services qui consistaient non seulement à garder Anne-Virginie de 8 h à 17 h du lundi au vendredi, mais aussi à faire le ménage du sous-sol et à préparer les repas du soir. Il a déclaré qu'il avait dû se résigner à offrir une telle rémunération à l'appelante sans quoi elle aurait décliné son offre. Dans son témoignage, l'appelante a confirmé l'assertion du payeur à cet égard. Elle a ajouté qu'elle avait toujours travaillé les années précédentes durant cette même période, que c'était la seule période pendant l'année où elle pouvait facilement se trouver du travail aux Îles à 350 $ par semaine et que, si le payeur lui avait offert une rétribution moindre, elle aurait décliné l'offre du payeur et aurait travaillé ailleurs.
+v) que le payeur avait, le 15 août 2003, avisé l'appelante qu'il n'avait plus besoin de ses services, croyant avoir trouvé une place en garderie pour Anne-Virginie pour le début de septembre 2003. En effet, le payeur a expliqué que, le ou vers le 8 septembre 2003, madame Marthe Chiasson l'avait avisé finalement qu'elle ne garderait pas Anne-Virginie, préférant plutôt garder un autre enfant;
+vi) qu'en novembre 2003, l'appelant déménageait au Gros-Cap aux Îles et trouvait finalement une place en garderie pour Anne-Virginie. Le payeur a témoigné que, durant la période du 1er septembre 2003 au 30 octobre 2003, l'appelante, madame Claire Leblanc, sa tante et sa belle-mère avaient gardé bénévolement Anne-Virginie pendant une période de 3 jours, de 10 semaines et de quatre semaines respectivement.
+[11] Examinons maintenant les allégations du ministre à la lumière des faits mis en preuve. Je suis tout simplement d'avis que les alinéas a) et b) des allégations du ministre ne sont pas pertinents puisque la preuve a révélé que l'appelante avait hébergé, gratuitement dans le sous-sol de sa résidence, le payeur et sa famille, et ce, d'août 2001 à novembre 2003.
+[12] Je suis d'opinion que le ministre a erré en s'appuyant trop sur le fait que le Guide des salaires des professions au Québec en 2002 démontrait que le salaire moyen d'une gardienne était de 256 $ par semaine. À mon avis, le ministre a ignoré à tort les particularités de la situation; d'abord, il n'a pas tenu compte de la rareté de la main-d'oeuvre aux Îles durant la période en cause et de l'impossibilité pour le payeur de trouver une gardienne ou une place en garderie pour sa fille, et ce, malgré ses nombreuses tentatives. La preuve a démontré clairement que le payeur n'avait pas eu d'autre choix que d'engager sa mère et de lui offrir un tel salaire.
+[13] Est-ce que la statistique alléguée par le ministre était la même en 2002 pour une gardienne dont les tâches consistaient, en plus, à faire le ménage et à préparer les repas du soir? Il aurait été intéressant d'entendre la réponse d'un représentant de l'Agence des douanes et du revenu du Canada à cet égard. À mon avis, le ministre se devait de considérer toutes les particularités de la situation avant de porter un jugement, ce qu'il n'a pas fait de toute évidence. Ceci, à mon avis, est concluant quant aux alinéas 7c), d) et e) des allégations du ministre. Aucun de ces alinéas ne permet de conclure raisonnablement à l'existence d'un lien de dépendance.
+[14] De plus, je refuse de conclure que la mise à pied de l'appelante ne coïncidait pas avec les besoins du payeur mais avec le besoin de l'appelante de se rendre admissible aux prestations d'assurance-emploi et que la durée prétendue de l'emploi visait davantage à répondre au besoin de l'appelante de se rendre admissible à l'assurance-emploi qu'aux besoins réels du payeur. Certes, la preuve a démontré que l'appelante a travaillé le nombre de semaines requis pour maximiser le taux de ses prestations d'assurance-emploi. Néanmoins, le ministre a ignoré à tort les faits suivants mis en preuve :
+i) d'abord, le payeur avait congédié l'appelante parce qu'il croyait avoir trouvé une place en garderie pour sa fille;
+ii) le payeur, après avoir appris, le ou vers le 8 septembre 2003, que la place en garderie qu'il croyait avoir dénichée n'était plus disponible, était toujours à la recherche d'une place en garderie;
+iii) jusqu'à ce que le payeur trouve une place en garderie, soit au début de novembre 2003, l'appelante, la tante du payeur et la belle-mère de ce dernier avaient gardé bénévolement Anne-Virginie pendant trois jours, dix semaines et quatre semaines respectivement, et ce, pour dépanner le payeur.
+Donc, contrairement à ce qui est allégué par le ministre, l'appelante n'a pas continué à travailler pour le payeur si ce n'est que pendant trois jours. De plus, le témoignage de l'appelante et du payeur a révélé que la tante et la belle-mère de ce dernier avaient accepté de lui donner un coup de main puisque leur emploi saisonnier avait alors pris fin et qu'elles étaient donc disponibles pour ce faire. Cela, à mon avis, est concluant quant aux alinéas 7f), g), h), i), j), k) et l) des allégations du ministre.
+[15] À la lumière de la preuve dont je dispose, après examen des facteurs mentionnés à l'alinéa 5(3)b) de la Loi et après vérification du bien-fondé des allégations du ministre, la conclusion dont le ministre était convaincu me paraît déraisonnable.
+[16] Pour ces motifs, l'appel est accueilli et la décision du ministre est annulée.
+Signé à Ottawa, Canada, ce 29e jour d'octobre 2004.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2004CCI568
+No DU DOSSIER DE LA COUR :
+2003-4995(EI)
+INTITULÉ DE LA CAUSE :
+Réjeanne Cyr Chevrier et M.R.N.
+et Serge Chevrier
+LIEU DE L'AUDIENCE :
+Hâvre-Aubert (Québec)
+DATE DE L'AUDIENCE :
+le 12 août 2004
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Paul Bédard
+DATE DU JUGEMENT :
+Le 29 octobre 2004
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Pour l'intimé :
+Me Agathe Cavanagh
+Pour l'intervenant :
+L'intervenant lui-même
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+Pour l'intervenant :
+Nom :
+Étude :
+[1][1] Légaré c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 878 (Q.L.), paragraphe 4.

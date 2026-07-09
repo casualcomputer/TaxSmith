@@ -1,0 +1,282 @@
+Title: Rio Tinto Alcan Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/135354/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-31-135354-rio-tinto-alcan-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-02-16
+
+# Rio Tinto Alcan Inc. v. The Queen
+
+- Citation: 2016 TCC 31
+- Decision date: 2016-02-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3007, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rio Tinto Alcan Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-02-16
+Neutral citation
+2016 TCC 31
+File numbers
+2012-1020(IT)G, 2012-1921(IT)G, 2012-4808(IT)G
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2012-1020(IT)G
+2012-1921(IT)G
+2012-4808(IT)G
+BETWEEN:
+RIO TINTO ALCAN INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Application heard on September 14, 2015, at Montréal, Quebec.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Counsel for the applicant:
+Yves St-Cyr
+Counsel for the respondent:
+Nathalie Labbé
+Susan Shaughnessy
+ORDER
+Upon application by the applicant for the determination of the following two questions pursuant to section 58 of the Tax Court of Canada Rules (General Procedure):
+Question 1.
+(i) Did the Income Tax Act (ITA) authorize the Minister of National Revenue (Minister) to make reassessments for the periods at issue, by disallowing the expenditures and investment tax credits (ITCs) claimed by Rio Tinto Alcan Inc. (RTA) as scientific research and experimental development in respect of the activities of Aluminerie Alouette Inc. (AAI), without first reviewing the facts pertaining to the applicant to determine its tax liability and without assessing the amount of tax payable on the basis of such a determination?
+(ii) If the answer is negative, are the reassessments with respect to the disallowed expenditures and ITCs for AAI’s activities invalid?
+Question 2.
+(i) Did the ITA authorize the Minister to make reassessments outside the normal reassessment period in respect of RTA on April 19, 2013, September 3, 2013, and October 3, 2013, respectively, for its taxation years ending December 31, 2006, and October 31, 2007, relating to items other than those expressly listed in subsections 152(4) and 152(4.01) of the ITA, including, specifically, those set out in subparagraphs 152(4)(a)(ii), 152(4)(b)(iii), 152(4.01)(a)(ii) and 152(4.01)(b)(iii)?
+(ii) If the answer is negative, are said reassessments invalid with respect to the items that are not listed in subsections 152(4) and 152(4.01) of the ITA and, specifically, with respect to the expenditures and ITCs disallowed in their entirety for AAI’s activities and the carry-forward of non-capital losses for the 2005 taxation year to the taxation year ending October 31, 2007?
+AND upon hearing the parties;
+The application is granted. Signed at Ottawa, Canada, this 4th day of February, 2016.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 30th day of May 2016.
+François Brunet, Revisor
+Citation: 2016 TCC 31
+Date: 20160204
+Dockets: 2012-1020(IT)G
+2012-1921(IT)G
+2012-4808(IT)G
+BETWEEN:
+RIO TINTO ALCAN INC.,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR ORDER
+D’Auray J.
+I. Background [1] In this case, the applicant has filed an application with the Court pursuant to section 58 of the Tax Court of Canada Rules (General Procedure) (Rules) for the determination of questions of law and fact before the hearing.
+[2] The application follows the filing by the applicant of three appeals with this Court, that is, the appeal for the 2006 taxation year ending December 31, 2006 (2012-1020(IT)G), the appeal for the 2007 taxation year ending October 31, 2007 (2012‑4808(IT)G), and the appeal for the period from November 1, 2007, to December 31, 2007 (2012-1921(IT)G). I will call the periods covered by those three appeals the “periods at issue”.
+[3] In the notices of appeal for the periods at issue, the applicant challenges the reassessments made by the Minister of National Revenue (Minister), which, in particular, disallowed in their entirety the scientific research and experimental development (SR&ED) expenditures and the investment tax credits (ITCs) claimed by the applicant for the research undertaken by Aluminerie Alouette Inc. (AAI).
+[4] The applicant submits in its notices of appeal that the activities of AAI constitute SR&ED under the Income Tax Act (ITA). Consequently, it submits that it validly claimed the SR&ED expenditures and ITCs attributable to it for AAI’s SR&ED activities.
+[5] The applicant also contends that the Minister made reassessments for the periods at issue without first reviewing the facts pertaining to the applicant to determine its tax liability and without assessing the amount of tax payable. According to the applicant, the Minister did not follow the process set out in the ITA when she made the reassessments for the periods at issue. Consequently, the reassessments are arbitrary and invalid.
+[6] Furthermore, the applicant argues that, for the 2006 and 2007 taxation years, the Minister made reassessments outside the normal reassessment period.
+[7] The applicant submits that a determination on the questions raised pursuant to section 58 regarding the arbitrary assessments and the limitation period would completely dispose of those questions. It also submits that a hearing on the application would also result in a substantially shorter proceeding. There would also be a substantial saving of costs.
+[8] The respondent opposes the application based on section 58 of the Rules. The respondent argues that the application is not the [translation] “proper” avenue for the determination of the questions raised by the applicant. According to the respondent, the question of the arbitrary assessments raises important factual considerations on which the presiding judge will have to rule. Regarding the applicant’s allegation that the Minister made reassessments outside the normal reassessment period, the respondent argues that it is without merit because the order dated October 7, 2014, by Justice Favreau of this Court,[1] confirms the validity of the reassessments. Thus, the application will not result in a substantially shorter hearing or in a substantial saving of costs.
+II. Questions to determine under section 58 of the Rules [9] The questions to determine under section 58 of the Rules, as stated by the applicant, are as follows:
+[translation]
+A. Arbitrary assessments
+(i) Did the Income Tax Act (Canada) (ITA) authorize the Minister’s delegate to make reassessments for the period, by disallowing the expenditures and ITCs claimed by the applicant as SR&ED in respect of AAI’s activities, without first reviewing the facts pertaining to the applicant to determine its tax liability and without assessing the amount of tax payable on the basis of such a determination?
+If the answer is negative, are the reassessments with respect to the disallowed expenditures and ITCs for AAI’s activities invalid?
+B. Assessments invalid in part
+Did the ITA authorize the Minister to make “reassessments” outside the normal reassessment period (152(3.1)(a) of the ITA) in respect of the applicant on April 19, 2013, and October 3, 2013, respectively, for its taxation years ending December 31, 2006, and October 31, 2007, relating to items other than those expressly listed in subsections 152(4) and 152(4.01) of the ITA, including, specifically, those set out in subparagraphs 152(4)(a)(ii), 152(4)(b)(iii), 152(4.01)(a)(ii) and 152(4.01)(b)(iii) of the ITA?
+If the answer is negative, are said reassessments invalid with respect to the items assessed that are not listed in subsections 152(4) and 152(4.01) of the ITA and, specifically, with respect to the expenditures and ITCs disallowed in their entirety for AAI’s activities (for the taxation years ending December 31, 2006, and October 31, 2007) and the carry-forward of NCLs for the 2005 taxation year to the taxation year ending October 31, 2007?
+[10] The application is seeking the following relief:
+1. Arbitrary assessments
+An order declaring invalid the reassessments made in respect of the applicant for its taxation years ending December 31, 2006, October 31, 2007, and for the period of November and December 2007, in respect of the SR&ED expenditures and the ITCs claimed by the applicant as SR&ED for AAI’s activities, which were arbitrarily disallowed by the Canada Revenue Agency (CRA).
+2. Assessments invalid in part
+An order declaring invalid in part the reassessments made in respect of the applicant on April 19, 2013, and October 3, 2013, respectively, for the taxation years ending December 31, 2006, and October 31, 2007, on the ground that they were made outside the normal reassessment period.
+[11] I will first consider whether the question on the arbitrary assessments lends itself to a determination pursuant to section 58 of the Rules.
+III. Question 1 – Arbitrary assessments [12] The applicant is one of AAI’s corporate partners.
+[13] AAI was incorporated in 1989 to manage and operate aluminum production in Sept-Îles, Quebec.
+[14] During the periods at issue, AAI brought together five partners: the applicant (40%), Aluminium Austria Metall (Quebec) Inc. (20%), Hydro Aluminium Canada, a limited partnership (20%), Albecour Inc. (13.33%) and Marubeni Métaux & Minéraux (Canada) Inc. (6.67%).
+[15] AAI does SR&ED work on behalf of its partners.
+[16] According to the agreement entered into by AAI‘s partners, the inputs and aluminum produced by AAI remain the property of the partners, based on the proportion of their respective participation. Also under the agreement, the expenditures incurred by AAI for the SR&ED work and the ITCs are claimed by each of the partners based on the proportion of their participation in AAI.
+[17] For the periods at issue, the applicant claimed the expenditures as SR&ED and ITCs. Some of its expenditures were attributable to the SR&ED that the applicant itself had undertaken and some of the SR&ED expenditures were attributable to research activities conducted by AAI. The assessments in dispute in the application concern only the SR&ED undertaken by AAI.
+(a) Position of the applicant [18] The applicant submits that the Minister, in making the reassessments, did not follow the procedure set out in subsection 152(1) of the ITA, meaning that the Minister did not, with due dispatch, examine the returns of income, assess the tax for the periods at issue, or determine the amount of refund or the amount payable.
+[19] The applicant submits that, when the Minister made the reassessments, she had not yet started the assessment of AAI’s SR&ED work.
+[20] The applicant relies on the following facts:
+• On July 8, 2011, the Québec Tax Services Office (TSO) sent Mr. Nadeau, AAI’s contact person for the CRA, a letter stating that the review of the 2006 to 2009 taxation years regarding AAI’s SR&ED activities would start in the fall of 2011. According to the applicant, that letter dated July 8, 2011, from the Québec TSO, as well as a statement to the same effect in a T2020 by Mr. Fournier of the Québec TSO, confirmed the start of the review and audit process for the 2006, 2007, 2008 and 2009 fiscal periods regarding AAI’s SR&ED work.
+• On July 14, 2011, the Montréal TSO made a reassessment in respect of the applicant for the 2006 taxation year that allowed it a portion of its own SR&ED expenditures, but that disallowed in their entirety the SR&ED expenditures and ITCs claimed by the applicant in respect of AAI.
+• On September 22, 2011, for the 2007 taxation year, and on November 10, 2011, for the months of November and December 2007, the Montréal TSO made reassessments also disallowing the SR&ED expenditures and ITCs claimed by the applicant in respect of AAI.
+[21] According to the applicant, the Montréal TSO was responsible for its tax file; it was that office that made the assessments in respect of the applicant. The Québec TSO was responsible for the tax files of AAI and AAI’s other partners. Thus, whether or not AAI undertook SR&ED within the meaning of the ITA was reviewed by the Québec TSO. According to the applicant, the Montréal TSO was never involved in reviewing AAI’s SR&ED projects.
+[22] According to the applicant, the Montréal TSO reassessments dated July 14, 2011,[2] September 22, 2011,[3] and November 10, 2011,[4] were made before the Québec TSO started the review of AAI’s SR&ED work for the periods at issue. In this regard, the applicant argues that the reassessments by the Québec TSO in respect of AAI’s other partners took place during the months of October and November 2013.
+[23] According to the applicant, the review of AAI’s work to determine whether AAI undertook SR&ED within the meaning of the ITA started in 2012.
+[24] The applicant contends that assessments must result from a process by which tax is assessed; the amount established by an assessment must be representative of the product of that assessment.[5]
+[25] The product resulting from the assessment can only be determined on the basis of facts that are verified, complete, precise, accurate and honestly and truthfully stated so that the taxpayer knows exactly the case to meet. The taxpayer has a fundamental right to know the basis of an assessment to be able to validly challenge it.[6]
+[26] Consequently, the applicant submits that the reassessments disallowing, for the SR&ED expenditures and ITCs of AAI, the proportion corresponding to its participation in AAI are arbitrary and invalid assessments.
+[27] The applicant argues that, should the Court decide that the reassessments are not valid, [translation] “most of the time” scheduled for the hearing on the appeal files would no longer be necessary because the applicant would no longer have to prove, inter alia, through expert witnesses, that those expenditures are AAI’s SR&ED activities.
+[28] The applicant also submits that determining that question before the hearing may dispose of all or part of the proceeding or result in a substantially shorter hearing or in a substantial saving of costs.
+[29] The applicant argues that there is no material fact in dispute because it relies on the statements from the examinations for discovery, the T2020 and other documents from the CRA officers, including Ms. Martin, SR&ED Financial Advisor (FA) at the Montréal TSO, Mr. Dufour, SR&ED Technical
+Advisor (STA) at the Québec TSO and Mr. Fournier, FA at the Québec TSO.
+(b) Position of the respondent [30] The respondent argues that a determination under section 58 will not result in a substantially shorter hearing or in a substantial saving of costs because the lists of documents have been exchanged and the examinations for discovery have already taken place.
+[31] According to the respondent, the same persons will have to testify in the context of the section 58 determination under and before the judge who presides over the proceeding on the merits. In the respondent’s opinion, that would be repetitive.
+[32] Furthermore, the respondent argues that the question regarding the arbitrary assessments does not lend itself to a determination under section 58 because the material facts surrounding the reassessment process are in dispute.
+[33] The respondent contends that the case law pertaining to section 58 of the Rules is to the effect that it is preferable to submit questions of material facts to the judge who hears the case on the merits. According to the respondent, the determination under section 58 should never be a substitute for a hearing on the merits where there are material facts to weigh to determine a question of law.
+[34] At paragraph 18 of her written submissions, the respondent argues as follows:
+[translation]
+(a) The respondent disputes the applicant’s use of the qualifier “arbitrary” in Part A of its application to describe the assessments. On this point, the respondent intends to show that the disallowance of the applicant’s expenditure claims was based on the absence of supporting documentation submitted by the applicant despite the CRA’s repeated requests in this regard.
+(b) Paragraph 16 of affidavit A of Jocelyn Paradis states that it was on February 19, 2010, that the CRA requested supporting documentation from the applicant for the SR&ED expenditure claims for the Period. The respondent intends to prove that the CRA requested the supporting documentation from the applicant on February 10, 2009.
+(c) The CRA decided to review the applicant’s SR&ED expenditure claims for the Period when it was examining the applicant’s SR&ED expenditure claims for the 2003 to 2005 taxation years to establish the purpose of the equipment (18 pots).
+(d) Before making the assessments in dispute, the CRA asked the applicant several times to provide supporting documentation for its SR&ED claims for the Period.
+(e) The respondent intends to prove that the applicant refused to provide supporting documentation for its SR&ED claims for the Period because the production of documents depended on the CRA’s findings regarding the applicant’s SR&ED expenditure claims for the 2003 to 2005 taxation years.
+(c) Analysis [35] From 2004 until the amendment in 2014, section 58 of the Rules provided as follows:
+58 (1) A party may apply to the Court,
+(a) for the determination, before hearing, of a question of law, a question of fact or a question of mixed law and fact raised by a pleading in a proceeding where the determination of the question may dispose of all or part of the proceeding, substantially shorten the hearing or result in a substantial saving of costs, or
+(b) to strike out a pleading because it discloses no reasonable grounds for appeal or for opposing the appeal,
+and the Court may grant judgment accordingly.
+(2) No evidence is admissible on an application,
+(a) under paragraph (1)(a), except with leave of the Court or on consent of the parties, or
+(b) under paragraph (1)(b).
+(3) The respondent may apply to the Court to have an appeal dismissed on the ground that,
+(a) the Court has no jurisdiction over the subject matter of an appeal,
+(b) a condition precedent to instituting a valid appeal has not been met, or
+(c) the appellant is without legal capacity to commence or continue the proceeding,
+and the Court may grant judgment accordingly.
+[Emphasis added.]
+[36] In its current version, that applies in this case, section 58 of the Rules provides as follows:
+58. (1) On application by a party, the Court may grant an order that a question of law, fact or mixed law and fact raised in a pleading or a question as to the admissibility of any evidence be determined before the hearing.
+(2) On the application, the Court may grant an order if it appears that the determination of the question before the hearing may dispose of all or part of the proceeding or result in a substantially shorter hearing or a substantial saving of costs.
+(3) An order that is granted under subsection (1) shall
+(a) state the question to be determined before the hearing;
+(b) give directions relating to the determination of the question, including directions as to the evidence to be given — orally or otherwise — and as to the service and filing of documents;
+(c) fix time limits for the service and filing of a factum consisting of a concise statement of facts and law;
+(d) fix the time and place for the hearing of the question; and
+(e) give any other direction that the Court considers appropriate.
+[Emphasis added.]
+[37] It can be seen that subsections 58(1) and 58(2) of the current version, after the 2014 amendment, are comparable to paragraph 58(1)(a) of the 2004 version.
+[38] Substantially the same conditions are present for section 58 to apply, even though, in the current version, the phrase “if it appears” was added, that is to say: “the Court may grant an order if it appears that the determination of the question before the hearing may dispose of all or part of the proceeding”.
+[39] Because the parties did not present arguments regarding that amendment, I will not decide in this case whether the current version of section 58 is more permissive than the 2004 version.
+[40] However, there is a difference with respect to evidence. Pursuant to paragraph 58(2)(a) of the 2004 version, no evidence was admissible on an application under section 58, except with leave of the Court or on consent of the parties. Filing evidence was an exception. In my opinion, that language was restrictive because the version of section 58 in force in 2004 permitted only purely factual questions to be determined under section 58.[7]
+[41] Under the current version, filing evidence is no longer an obstacle at the second step of section 58. In an order granted under section 58, the Court will give directions relating to the determination of the question, including directions as to the evidence to be given, orally or otherwise, and as to the service and filing of documents.
+[42] It goes without saying that I must consider that amendment when reviewing the case law.
+[43] For section 58 of the Rules to apply, the applicant must satisfy the following conditions:
+(i) Establish that questions of law and of fact are raised in the pleadings;
+(ii) Establish that determining the question before the hearing could dispose of all or part of the proceeding, result in a substantially shorter hearing or a substantial saving of costs.
+[44] I will therefore analyze each condition.
+(i) Questions of law and of fact are raised in the pleadings.
+[45] The first condition is met. Questions of law and of fact are raised in the pleadings.
+[46] For the second condition, the following question must be answered:
+(ii) Would determining the questions under section 58 dispose of all or part of the proceeding, result in a substantially shorter hearing or a substantial saving of costs?
+[47] The applicant must show that it satisfies one of the conditions listed in subsection 58(2) of the Rules.
+[48] The applicant argues that it satisfies three conditions in subsection 58(2) of the Rules, even though one condition suffices. I will examine the three conditions.
+[49] In this case, the applicant argues that the response to question 1 would dispose of all or part of the proceeding.
+[50] I agree with the applicant that if the Court determined, at the second step of section 58, that the reassessments are valid or invalid, the applicant could not reargue the arbitrary assessment issue before the presiding judge, pursuant to the doctrine of res judicata. A decision under section 58 of the Rules will therefore dispose of all or part of the proceeding. I will explain.
+[51] In this case, if the Court determined at the second step of section 58 that the reassessments made by the Minister were invalid, the presiding judge would not have to dispose of the question of the so-called arbitrary assessments, but, in addition, the judge would not have to determine whether AAI undertook SR&ED within the meaning of the ITA. Therefore, the determination at the second step of section 58 would dispose of all of the proceeding with respect to the SR&ED questions.
+[52] However, if the Court determined at the second step of section 58 that the reassessments made by the Minister were valid, the applicant could not, before the presiding judge, raise question 1, that is, are the assessments arbitrary? However, the applicant would have to prove before the presiding judge that the work done by AAI was SR&ED within the meaning of the ITA. Thus, the determination at the second step of section 58 would dispose of part of the proceeding.
+[53] The applicant also submits that the hearing could be substantially shorter and that that would result in a substantial saving of costs.
+[54] I agree with the applicant. If at the second step of section 58 the Court determined that the reassessments were not valid, the presiding judge would not have to hear the SR&ED-related questions. It goes without saying that that would substantially shorten the hearing. The SR&ED questions concern several AAI projects. Furthermore, all of the costs associated with the litigation that have not yet been incurred would be avoided, including costs for expert witnesses.
+[55] That being said, the judge always has discretion and can decide, citing other grounds, that the question does not lend itself to a determination under section 58 of the Rules.[8]
+[56] The respondent argues that, even though questions of fact and of law can be determined under section 58, the issue of whether the assessments are arbitrary does not lend itself to such a determination because too many important factual considerations that surround the assessment process are in dispute. Furthermore, witnesses would need to be heard, and the judge presiding over the proceeding on the merits would have all of the relevant elements to assess the evidence and determine the merits of the applicant’s expenditure claims.
+[57] The respondent submits that at the time the assessments were made, the CRA asked Mr. Nadeau of AAI several times to provide supporting documentation for the work done by AAI. Because the CRA did not receive any documents justifying the expenditures claimed by the applicant, the Minister made the assessments for the periods at issue.
+[58] In response to the respondent, the applicant argues that the CRA never asked the applicant to provide it with documents justifying the SR&ED expenditures for the work done by AAI. It contends that all of the document requests were made to AAI. It acknowledges, however, that Mr. Nadeau was the person responsible for handling AAI’s tax matters with the CRA. Furthermore, the applicant maintains that the information requests that were made before July 2010 all pertained to the audit of the 2003 to 2005 taxation years and not to the audits of the 2006 and 2007 taxation years.
+[59] Therefore, according to the applicant, the audit started on July 8, 2011, and the review to determine whether the work done by AAI constituted SR&ED started in July 2012, while the respondent claims that the CRA officers requested documents regarding the periods at issue beginning in 2009.
+[60] As pointed out by the respondent, this Court has ruled in several cases that a question does not lend itself to a determination under section 58 of the Rules when the question to determine concerns contested facts. Thus, the respondent claims that a determination under section 58 in this case should not be allowed because the facts surrounding the reassessments are in dispute. Consequently, there would be no saving of costs, and a determination under section 58 would not result in a shorter hearing.
+[61] I reviewed the cases cited by the respondent.[9] In those cases, the judges of this Court did not allow a determination under section 58 because the disputed facts were related to facts that the trial judge had to determine in any event at the hearing or because the question proposed dealt with facts relating to the merits of the case.
+[62] However, I am of the opinion that that is not the case here. The facts surrounding the reassessments have nothing in common with the substantive issue, that is, whether AAI’s activities constituted SR&ED. The question to determine in this application is a preliminary question.
+[63] Moreover, it is also evident in some of the cases cited by the respondent that the judges declined to apply section 58 in the absence of evidence. It is important to note that those decisions involved the 2004 version where evidence was not admissible on an application under section 58 except with leave of the Court or on consent of the parties.
+[64] There are no longer any obstacles with respect to evidence in paragraph 58(3)(b) of the 2014 version. The judge may give directions as to the evidence to be given, documentary or oral.
+[65] In Suncor Energy Inc. v The Queen,[10] a case concerning the current version of section 58, Justice Rossiter stated that the existence of factual disputes is no longer an absolute bar to the granting of an application but will remain relevant to a court considering whether a determination will substantially shorten the hearing or save costs.
+[66] Thus, I am of the view that the only question the Court must consider under subsection 58(2) is the following: “Does it appear that the determination of the question before the hearing could dispose of all or part of the proceeding or result in a substantially shorter hearing or a substantial saving of costs?”
+[67] It is not because facts are in dispute that section 58 does not apply. That being said, when a question concerns facts that are contested and those facts underlie the question of law, it is quite possible that the criteria in subsection 58(2) will not be met.[11]
+[68] In the light of these comments, I am of the opinion that the question in this case lends itself to a determination under section 58 of the Rules. I am of the view that the applicant has shown that it meets the conditions set out in subsections 58(1) and 58(2) of the Rules.
+IV. Question 2 – Assessments invalid in part [69] On March 24, 2014, the applicant brought two motions with the consent of the respondent, seeking direction from this Court as to whether the reassessment dated April 19, 2013, for the 2006 taxation year and the reassessments dated September 3, 2013, and October 3, 2013, for the 2007 taxation year were reassessments or additional assessments.
+[70] During the hearing of the motion, the applicant argued that the reassessments were additional assessments while the respondent argued that they were reassessments.
+[71] On October 7, 2014, Justice Favreau decided that the reassessment dated April 19, 2013, for the 2006 taxation year and the reassessments dated September 3, 2013, and October 3, 2013, for the 2007 taxation year were reassessments and not additional assessments.
+[72] Despite the fact that the reassessment dated April 19, 2013, was made by the Minister outside the normal reassessment period, the applicant does not contest the Minister’s authority to make that assessment. The Minister had the authority to disallow the foreign affiliate losses deducted by the applicant pursuant to subparagraph 152(4)(b)(iii) of the ITA.
+[73] However, the applicant submits that the assessment dated April 19, 2013, is valid only in this respect. According to the applicant, the Minister did not have the authority, in making the reassessment dated April 19, 2013, to also disallow all of the SR&ED expenditures and ITCs that it claimed for AAI’s work for its 2006 taxation year. According to the applicant, there is no ITA provision allowing the Minister to make a reassessment after the normal reassessment period relating to items other than those listed in subparagraph 152(4)(b)(iii) of the ITA.
+[74] Regarding the 2007 taxation year, the applicant filed a waiver with the Minister pursuant to subparagraph 152(4)(a)(ii) of the ITA. In this regard, following the applicant’s request for adjustments, the reassessments dated September 3, 2013, and October 3, 2013, were made by the Minister outside the normal reassessment period. Those reassessments reduced the tax payable by the applicant.
+[75] The applicant claims that the Minister had the authority to make the reassessments dated September 3, 2013, and October 3, 2013, but only with respect to the items covered in the waiver.
+[76] The applicant submits that the waiver did not cover the deferral of the transaction fees related to the Novelis spin-off or the SR&ED and ITCs claimed in respect of AAI. As a result, the applicant submits that the Minister could not make a reassessment for those items. It thus argues that the reassessments dated September 3, 2013, and October 3, 2013, for its 2007 taxation year are valid only for the adjustments made by the Minister in the context of the waiver and that, for all of the other items, those reassessments are invalid.
+[77] According to the applicant, subsection 152(5) of the ITA does not allow for reassessments after the normal reassessment period. Furthermore, according to the applicant, the Minister could have made additional assessments to comply with subparagraph 152(4)(a)(ii) and the restriction imposed by subparagraph 152(4)(b)(iii) of the ITA, but she opted for reassessments, as evidenced by Justice Favreau’s order.
+[78] In addition, the applicant contends that it cannot be subject to two assessments, that is, in part, the assessment dated October 3, 2013 and, in part, the assessment made within the normal reassessment period.
+[79] The applicant also argues that a determination pursuant to section 58 would definitively dispose of the limitation period issue because it could not be raised again before the presiding judge. Furthermore, there would be a substantial saving of costs because the applicant would not have to pursue the SR&ED questions and the transaction fee deferral question for the periods at issue.
+[80] The respondent argues that a determination under section 58 is not necessary because there is no legal basis for the question.
+[81] According to the respondent, the Minister could not make an additional assessment in 2006 because the reassessments established the tax payable for the year and not additional tax. Regarding the 2007 taxation year, the Minister could not make an additional assessment because the assessment reduced the tax payable by the applicant.
+[82] According to the respondent, a reassessment made outside the normal reassessment period, namely under subparagraph 152(4)(a)(ii) of the ITA (waiver) or even under subparagraph 152(4)(b)(iii) of the ITA (foreign accrual property income), does not cancel the adjustments made by the previous assessment in the normal reassessment period.
+[83] The respondent argues that, if the applicant’s reasoning were correct, each time the Minister makes an assessment that she is authorized to make under the ITA after the normal reassessment period, a taxpayer would be released from the obligation to pay the tax assessed in an assessment made within the normal reassessment period. According to the respondent, that position is untenable.
+[84] In that regard, the respondent submits that subsection 152(5) of the ITA is clear. According to that subsection, when a reassessment is made, under subparagraphs 152(4)(a)(ii) or 152(4)(b)(iii) of the ITA, amounts relating to items that were not included in the assessments made during the normal reassessment period cannot be included. A contrario, it is clear from that subsection that amounts relating to items that were already assessed during the normal reassessment period must be included in the computation of the income of a taxpayer.
+[85] According to the respondent, the principle she is advancing emerges from Justice Favreau’s order, which states the following regarding the 2006 taxation year, at paragraph 12 of his reasons, and regarding the applicant’s 2007 taxation year at paragraphs 20 to 22 of his reasons:
+2006
+[12] As stated in form T7W-C, the starting point for the reassessment dated April 19, 2013, is the [translation] “previously assessed net income for income tax purposes” in the amount of $1,694,939,106, which included the adjustments made by the previous assessment dated July 14, 2011, for the applicant’s 2006 taxation year. No change was made to those adjustments.
+2007
+[20] Under the reassessment dated September 3, 2013, the total federal tax to be paid by the applicant under Part I of the Act was decreased by $5,492,114 with respect to the taxes payable according to the reassessment dated May 11, 2012.
+[21 According to the reassessment dated October 3, 2013, the total amount of federal tax to be paid by the applicant under Part I of the Act was decreased by an additional $1,053,087 with respect to the amount of tax payable according to the reassessment dated May 11, 2012.
+[22] Following those reassessments dated September 3, 2013, and October 3, 2013, the tax payable on the income under Part I of the Act went from $99,413,327 to $92,867,526, according to the reassessment dated May 11, 2012.
+[86] The respondent argues that neither the disallowance of the SR&ED expenditures in respect of AAI nor the disallowance of the carry-forward to the 2007 taxation year of the applicant’s 2005 non‑capital losses (NCL) from the Novelis spin-off were covered by the reassessments made by the Minister outside the normal reassessment period at the request of the applicant, that is, the reassessments dated September 3, 2013, and October 3, 2013. The amounts relating to the SR&ED expenditures in respect of AAI and the disallowance of the loss carry-forward in 2007 were assessed by the Minister during the normal reassessment period.
+[87] In addition, the respondent argues that, if the assessments dated April 19, 2013, September 3, 2013, and October 3, 2013, were vacated in part, the previous assessments would be restored. Therefore, the amount payable would remain the same, that is, the amount established by the valid part of the assessment and the amount related to the previous assessment.
+(a) Analysis [88] The parties brought to my attention several cases that address limitation periods. However, they acknowledged that there were no cases pertaining to the question proposed by the applicant. Thus, I cannot say that the applicant’s legal position has no reasonable chance of success. In my opinion, the question should be analyzed at the second step of section 58 if it meets the conditions set out in section 58.
+[89] As to the conditions in section 58 of the Rules, the limitation period for the reassessments was raised in the pleadings.
+[90] Furthermore, if the limitation period issue was determined under section 58, the decision would be final according to the doctrine of res judicata. Thus, the applicant could not raise that question before the presiding judge.
+[91] If the reassessments were deemed invalid because they were out of time and the previous assessments did not apply, I am of the opinion that a substantially shorter hearing and a substantial saving of costs would result. The questions related to the SR&ED undertaken by AAI would not have to be heard by the presiding judge. As argued by the respondent, I cannot assume that the applicant will have experts testify. That being said, the applicant, in its submissions, raised the substantial saving of costs and time that would result if it did not have to call expert witnesses.
+[92] In short, I agree with the applicant that it would be unfortunate to continue with a proceeding that would deal at the same time with the preliminary question, that is, the limitation period, and the substantive question, that is, the SR&ED, if the applicant was successful on the preliminary question.
+[93] I am of the opinion that the conditions in section 58 of the Rules have been met.
+V. Conclusion [94] The application is allowed; the questions to determine under section 58 of the Rules will be as follows:
+Question 1.
+(i) Did the ITA authorize the Minister to make reassessments for the periods at issue, by disallowing the expenditures and ITCs claimed by RTA as SR&ED in respect of the activities of AAI, without first reviewing the facts pertaining to the applicant to determine its tax liability and without assessing the amount of tax payable on the basis of such a determination?
+(ii) If the answer is negative, are the reassessments with respect to the disallowed expenditures and ITCs for AAI’s activities invalid?
+Question 2.
+(i) Did the ITA authorize the Minister to make reassessments outside the normal reassessment period in respect of RTA on April 19, 2013, September 3, 2013, and October 3, 2013, respectively, for its taxation years ending December 31, 2006, and October 31, 2007, relating to items other than those expressly listed in subsections 152(4) and 152(4.01) of the ITA, including, specifically, those set out in subparagraphs 152(4)(a)(ii), 152(4)(b)(iii), 152(4.01)(a)(ii) and 152(4.01)(b)(iii)?
+(ii) If the answer is negative, are said reassessments invalid with respect to the items that are not listed in subsections 152(4) and 152(4.01) of the ITA and, specifically, with respect to the expenditures and ITCs disallowed in their entirety for AAI’s activities and the carry-forward of the non-capital losses for the 2005 taxation year to the taxation year ending October 31, 2007?
+[95] The directions set out in paragraph (b) of subsection 58(3), that is, those concerning the evidence to be given, will be set out in a separate order that will also fix time limits for the service and filing of a factum, as well as the time and place for the hearing of the question.
+Signed at Ottawa, Canada, this 4th day of February 2016.
+“Johanne D’Auray”
+D’Auray J.
+Translation certified true
+on this 30th day of May 2016.
+François Brunet, Revisor
+CITATION:
+2016 TCC 31
+COURT FILE No.:
+2012-1020(IT)G
+2012-1921(IT)G
+2012-4808(IT)G
+STYLE OF CAUSE:
+RIO TINTO ALCAN INC. v THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+September 14, 2015
+REASONS FOR ORDER BY:
+The Honourable Justice Johanne D’Auray
+DATE OF ORDER:
+February 4, 2016
+APPEARANCES:
+Counsel for the applicant:
+Yves St-Cyr
+Counsel for the respondent:
+Nathalie Labbé
+Susan Shaughnessy
+COUNSEL OF RECORD:
+For the applicant:
+Name:
+Yves St-Cyr
+Firm:
+Dentons Canada LLP
+For the respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2014 TCC 288.
+[2] For the 2006 taxation year.
+[3] For the 2007 taxation year.
+[4] For the months of November and December 2007.
+[5] Paragraph 5 of the applicant’s application, under the heading “arbitrary assessments”.
+[6] Paragraph 6 of the applicant’s application, under the heading “arbitrary assessments”.
+[7] It is important to remember that the 1990 version did not allow questions of fact, only questions of law. According to that 1990 version, a party could apply to the Court to ask to adduce evidence.
+[8] Perera v Canada, [1998] 3 FC 381.
+[9] Those decisions involve the 2004 version of section 58 of the Rules.
+[10] 2015 TCC 210.
+[11] The Court could nonetheless use its discretion and conclude that the proposed question does not lend itself to a determination under section 58 of the Rules.

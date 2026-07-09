@@ -1,0 +1,129 @@
+Title: Théberge v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27354/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-561-27354-th-berge-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-11-14
+
+# Théberge v. The Queen
+
+- Citation: 2006 TCC 561
+- Decision date: 2006-11-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 176, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Théberge v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-14
+Neutral citation
+2006 TCC 561
+File numbers
+2006-912(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-912(IT)I
+BETWEEN:
+YVON THÉBERGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on October 4, 2006, at Roberval, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal of the assessment under the Income Tax Act for the 2004 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of November 2006.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 2nd day of May 2007.
+Gibson Boyd, Translator
+Citation: 2006TCC561
+Date: 20061114
+Docket: 2006-912(IT)I
+BETWEEN:
+YVON THÉBERGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal under the Informal Procedure of an assessment made on June 13, 2005, for the 2004 taxation year whereby the Minster of Revenue of Canada (the “Minister”) disallowed, in calculating the Appellant’s income, the deduction of $11,915 claimed as “other employment expenses.”
+[2] To assess the tax and confirm the assessment dated June 13, 2005, the Minister relied on the following facts, stated in paragraph 5 of the Reply to Notice of Appeal, which have all been admitted by the Appellant:
+[TRANSLATION]
+(a) during the 2004 taxation year, the Appellant was hired as a full-time teacher by the Conseil des Atikamekw d’Opitciwam;
+(b) under the employment contract between the Appellant and the Conseil des Atikamekw d’Opitciwam, for the period from August 16, 2004, to August 12, 2005, the salary included, inter alia, a cost-of-living bonus of $4,000.00 and a travel bonus of $5,000.00.
+(c) during the taxation year at issue, the Appellant worked at the Mikisiw school of Opitciwam;
+(d) the Appellant was remunerated exclusively in salary;
+(e) the Appellant, when filing his income tax return for the 2004 taxation year, reported $72,737.52 in employment income from the Conseil des Atikamekw d’Opitciwam, and claimed a deduction of $11,915 in “other employment expenses”;
+(f) the claim of the deduction for “other employment expenses” for the 2004 taxation year breaks down as follows:
+2004
+(i) 31 excursions of 700 kilometres (21 700km x 0.35) $7,295
+(ii) telephone and cable $840
+(iii) cost of lodging in Opitciwam $2,820
+(iv) high cost of living, with regard to food
+($4,800 x 20%) $960
+$11,915
+(g) the Appellant claimed, in his income tax return for the year at issue, the deduction for expenses that are related to a choice of life or a career plan rather than conditions of employment:
+(i) the Atikamekw reserve of Opitciwam is located near the Gouin reserve, 350 kilometres from the town of Normandin,
+(ii) rental of an additional dwelling and need to go on excursions to not suffer from culture shock,
+(iii) higher cost of living.
+[3] Only the Appellant witnessed in support of his position. The Appellant also filed his employment contract as evidence (Exhibit A-1).
+Appellant’s testimony
+[4] The Appellant described the very difficult living conditions existing on the reserve in 2004 and to this day. He explained that these conditions explain in large part the very high turnover rate for non-Aboriginal teachers seen at the time, and still today, on the reserve, which is located approximately 300 km from the closest town.
+[5] The Appellant rented a dwelling on the reserve that was barely fit for habitation. The monthly rent was approximately $235. He had not chosen this dwelling; it was chosen for him by the band council. He explained that a non-Aboriginal could not settle on a reserve. He explained that the band council had temporarily rented him this dwelling because he taught on the reserve, which was far from any town. The Appellant also testified that he had kept a residence in the town of Normandin, 300 km from the reserve, during the relevant period.
+[6] The Appellant testified that, had it not been for his excursions away from the reserve every two weekends, his mental health would have been affected to the point that he would have had to quit his job after a few months on the reserve like most of the teachers who had tried the experience on this reserve.
+Appellant’s position
+[7] At the hearing, the Appellant was unable to cite any provision of the Income Tax Act (the Act) allowing the deduction, in the calculation of his income for the 2004 taxation year, of these expenses that he deducted in that year. However, he did submit that the $5,000 bonus (travel bonus) and the $4,000 bonus (cost-of-living bonus) that he had received under his contract constituted non-taxable allowances within the meaning of subsection 6(6) of the Act.
+Analysis and conclusion
+[8] I am of the opinion that section 8 of the Act does not entitle the Appellant to deduct such expenses from his employment income for the 2004 taxation year.
+[9] Could the bonuses received by the Appellant constitute a non-taxable allowance? In general, all benefits that an employee receives or enjoys in the context of a job or an office are taxable. Subsection 6(6) of the Act sets out an exception to this general rule by allowing certain benefits related to employment in a remote location to be excluded from the employee’s income. When an employee meets the conditions set out in subsection 6(6) of the Act, the employee is entitled to exclude the following items from his or her income:
+(i) the value of the board or the lodging paid by the employer or an allowance received for board or lodging in the context of employment at a remote location;
+(ii) the value of transportation paid for by the employer or an allowance received for transportation.
+[10] The cost-of-living bonus of $4,000 received by the Appellant as part of his employment conditions did not constitute, in this case, a non-taxable benefit under subsection 6(6) of the Act, considering that it was not an allowance related to the expenses paid by the Appellant for his board and lodging in 2004 or an allowance related to the transportation costs that he had paid for that year.
+[11] The transportation bonus of $5,000 received by the Appellant as part of his employment conditions did not constitute, in my opinion, a non-taxable allowance under paragraph 6(6)(a) of the Act, which provides that the allowance must be related to costs paid by the Appellant for his board or lodging, while paragraph 6(6)(b) requires the taxpayer to have received an allowance for costs paid for board and lodging for the transportation allowance to be tax exempt. However, the Appellant, in this case, had not received an allowance for expenses paid for his board and lodging during the 2004 taxation year.
+[12] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of November 2006.
+“Paul Bédard”
+Bédard J.
+Translation certified true
+on this 2nd day of May 2007.
+Gibson Boyd, Translator
+CITATION: 2006TCC561
+COURT FILE NUMBER: 2006-912(IT)I
+STYLE OF CAUSE: YVON THÉBERGE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Roberval, Quebec
+DATE OF HEARING: October 4, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: November 14, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

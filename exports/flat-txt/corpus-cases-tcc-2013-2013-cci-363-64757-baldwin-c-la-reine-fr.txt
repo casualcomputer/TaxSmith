@@ -1,0 +1,222 @@
+Title: Baldwin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/64757/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-363-64757-baldwin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-11-19
+
+# Baldwin c. La Reine
+
+- Citation: 2013 CCI 363
+- Decision date: 2013-11-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5889, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baldwin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-11-19
+Référence neutre
+2013 CCI 363
+Numéro de dossier
+2012-2252(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2252(IT)I
+ENTRE :
+LAURA BALDWIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-1839(IT)I
+ET ENTRE :
+CHARLES CHAKASIM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2042(IT)I
+ET ENTRE :
+VIRGINIA FORSYTHE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2035(IT)I
+ET ENTRE :
+CARRIE MARTIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2609(IT)I
+ET ENTRE :
+DIANE SHERIDAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-1920(IT)I
+ET ENTRE :
+ART ZOCCOLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par conférence téléphonique le 5 novembre 2013
+à Ottawa (Ontario)
+Avocat des appelants :
+Me G. James Fyshe
+Avocat de l’intimée :
+Me Gordon Bourgard
+__________________________________________________________________
+ORDONNANCE
+Après examen d’une requête de l’intimée en vue d’obtenir une ordonnance :
+1. radiant le passage suivant : [traduction] « que l’ARC a considérée comme exonérée d’impôt » dans chaque nouvel avis d’appel, aux endroit suivants :
+a) 2012-2252(IT)I – Laura Baldwin : à l’alinéa 13h) et au paragraphe 22;
+b) 2012-1839(IT)I – Charles Chakasim : à l’alinéa 16h) et au paragraphe 25;
+c) 2012-2042(IT)I - Virginia Forsythe : à l’alinéa 12h) et au paragraphe 21;
+d) 2012-2035(IT)I – Carrie Martin : à l’alinéa 24h) et au paragraphe 33;
+e) 2012-2609(IT)I – Diane Sheridan : à l’alinéa 15h) et au paragraphe 24;
+f) 2012-1920(IT)I – Art Zoccole : à l’alinéa 11h) et au paragraphe 20;
+2. radiant les phrases suivantes : [traduction] « Si le fondement de ce facteur de rattachement est d’égaliser les règles du jeu pour les entreprises qui fournissent des services de louage de services d’employés à des organismes à but non lucratif et de bienfaisance situés en dehors des réserves, ce facteur de rattachement devrait donc faire pencher la balance en faveur du fait que NLS est située dans une réserve. Sinon, Native Leasing Services serait singulièrement défavorisée par rapport à ses concurrents », dans chaque nouvel avis d’appel, aux endroits suivants :
+a) 2012-2252(IT)I – Laura Baldwin : au paragraphe 22;
+b) 2012-1839(IT)I – Charles Chakasim : au paragraphe 25;
+c) 2012-2042(IT)I - Virginia Forsythe : au paragraphe 21;
+d) 2012-2035(IT)I – Carrie Martin : au paragraphe 33;
+e) 2012-2609(IT)I – Diane Sheridan : au paragraphe 24;
+f) 2012-1920(IT)I – Art Zoccole : au paragraphe 20.
+La requête est accueillie dans la mesure où le passage reproduit au point numéro 1 qui précède est radié dans chaque nouvel avis d’appel. Les phrases reproduites au point numéro 2 qui précède ne sont pas radiées. Aucuns dépens ne sont adjugés.
+Signé à Halifax (Nouvelle-Écosse), ce 19e jour de novembre 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 7e jour de janvier 2014 .
+S. Tasset
+Citation : 2013 CCI 363
+Date : 20131119
+Dossier : 2012-2252(IT)I
+ENTRE :
+LAURA BALDWIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-1839(IT)I
+ET ENTRE :
+CHARLES CHAKASIM,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2042(IT)I
+ET ENTRE :
+VIRGINIA FORSYTHE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2035(IT)I
+ET ENTRE :
+CARRIE MARTIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-2609(IT)I
+ET ENTRE :
+DIANE SHERIDAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2012-1920(IT)I
+ET ENTRE :
+ART ZOCCOLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+La juge V.A. Miller
+[1] L’intimée a présenté une requête en vue d’obtenir une ordonnance radiant un passage et certaines phrases figurant dans les nouveaux avis d’appel de chacun des appelants.
+[2] En particulier, l’intimée souhaite faire supprimer le passage souligné dans l’extrait ci-dessous qui figure dans chacun des nouveaux avis d’appel, au motif qu’il n’est pas pertinent et qu’il peut compromettre ou retarder l’instruction équitable des appels. Ce passage apparaît à deux reprises dans chaque nouvel avis d’appel.
+[traduction] Dans la présente affaire, les seuls concurrents de Native Leasing Services sont des entreprises de louage de services d’employés créées par des conseils de bande et, dans un cas, une autre entreprise de louage de services d’employés située dans une réserve que l’ARC a considérée comme exonérée d’impôt.
+[3] L’intimée cherche aussi à faire radier les phrases soulignées dans l’extrait ci-dessous qui figure dans chacun des nouveaux avis d’appel, au motif qu’elles ne sont pas pertinentes car les appels n’ont pas trait à la question de savoir comment traiter Native Leasing Services en ce qui concerne la concurrence ou l'impôt.
+[traduction] L’entreprise de louage de services d’employés qu’est Native Leasing Services avait pour but principal de fournir des services administratifs nécessaires à des employés qui travaillaient pour des organismes de services sociaux au sein de la collectivité des Premières Nations et qui ne fournissaient pas de services sur le marché commercial. Subsidiairement, dans Southwind, le doute qu’a exprimé la Cour d’appel fédérale au sujet de ce facteur de rattachement était qu’un contribuable indien devrait entrer sur le marché commercial aux mêmes conditions que les autres Canadiens auxquels il faisait concurrence. Dans la présente affaire, les seuls concurrents de Native Leasing Services sont des entreprises de louage de services d’employés créées par des conseils de bande et, dans un cas, une autre entreprise de louage de services d’employés située dans une réserve que l’ARC a considérée comme exonérée d’impôt. Si le fondement de ce facteur de rattachement est d’égaliser les règles du jeu pour les entreprises qui fournissent des services de louage de services d’employés à des organismes à but non lucratif et de bienfaisance situés en dehors des réserves, ce facteur de rattachement devrait donc faire pencher la balance en faveur du fait que NLS est située dans une réserve. Sinon, Native Leasing Services serait singulièrement défavorisée par rapport à ses concurrents.
+[4] Chacun des appels a été interjeté sous le régime de la procédure informelle. Bien que les Règles de la Cour canadienne de l’impôt (procédure informelle) ne prévoient pas la radiation d’actes de procédure, la Cour a compétence inhérente pour contrôler ses propres procédures : Garber c La Reine, 2005 CCI 635, au paragraphe 31; Sackaney c La Reine, 2013 CCI 303. Je suis d’avis que la Cour est compétente pour radier un acte de procédure en tout ou en partie dans un appel interjeté sous le régime de la procédure informelle, et ce, tout particulièrement quand cet acte de procédure n’est pas pertinent à l’égard des questions en litige.
+[5] Cependant, comme il s’agit de la procédure informelle, je ne veux pas encourager le ministère public à déposer une requête chaque fois qu’il y a dans un avis d’appel des déclarations qu’il juge non pertinentes. Dans la plupart des cas, il est possible de régler la question à l’audition de l’appel.
+[6] Dans l’arrêt R c Imperial Tobacco Canada Ltée, 2011 CSC 42, au paragraphe 17, la juge en chef MacLachlin a énoncé le critère qu’il convient d’appliquer pour radier un acte de procédure en tout ou en partie :
+[…] l’action ne sera rejetée que s’il est évident et manifeste, dans l’hypothèse où les faits allégués seraient avérés, que la déclaration ne révèle aucune cause d’action raisonnable : Succession Odhavji c. Woodhouse, 2003 CSC 69, [2003] 3 R.C.S. 263, par. 15; Hunt c. Carey Canada Inc., [1990] 2 R.C.S. 959, p. 980. Autrement dit, la demande doit n’avoir aucune possibilité raisonnable d’être accueillie. Sinon, il faut lui laisser suivre son cours : voir généralement Syl Apps Secure Treatment Centre c. B.D., 2007 CSC 38, [2007] 3 R.C.S. 83; Succession Odhavji; Hunt; Procureur général du Canada c. Inuit Tapirisat of Canada, [1980] 2 R.C.S. 735.
+[7] La question qui se pose consiste donc à savoir si, en présumant que le passage et les phrases que plaident les appelants sont véridiques, il est « évident et manifeste » qu’ils ne révèlent aucune cause d’action raisonnable.
+[8] La question en litige, dans chacun des appels dont il est question en l’espèce, consiste à savoir si le revenu que les appelants ont gagné, en tant qu’employés de Native Leasing Services (« NLS »), était un bien meuble d’un Indien situé sur une réserve au sens de l’article 87 de la Loi sur les Indiens et donc exonéré d’impôt sous le régime de la Loi de l’impôt sur le revenu (« LIR »).
+[9] NLS est une entreprise individuelle que possède et exploite Roger Obonsawin, un Indien inscrit. NLS a son siège social dans la réserve des Six Nations de la rivière Grand.
+La position des appelants
+[10] Les appelants sont d’avis que le passage et les phrases en question sont liés à des circonstances entourant le « critère des facteurs de rattachement » et, en particulier, à la question de savoir si leurs activités professionnelles constituent une participation sur le marché commercial. Selon leur avocat, si l’intimé concède que cette « participation sur le marché commercial » n’est pas un facteur dans les présents appels, les appelants supprimeront alors, sur consentement, le passage et les phrases en litige. Dans les observations des appelants, l’avocat a écrit :
+[traduction] L’expression « marché commercial » est considérée comme un aspect qui empêche les Indiens d’obtenir un avantage concurrentiel sur le marché commercial par rapport à d’autres contribuables. C’est la raison pour laquelle l’intimée a fait entrer en jeu la question de la concurrence et, plus précisément, celle de savoir qui sont les présumés concurrents.
+[11] En conclusion, les appelants ont fait valoir que si la « participation sur le marché commercial » est une question litigieuse, il ne faudrait donc pas les empêcher de déposer des preuves pour désigner [traduction] « leurs concurrents de façon à établir qu’il ne se présente aucun avantage concurrentiel injuste ».
+La décision
+a) que l’ARC a considérée comme exonérée d’impôt
+[12] Il est tout à fait hors de propos en l’espèce qu’une entreprise de louage de services d’employés située dans une réserve a été considérée comme « exonérée d’impôt » par l’Agence du revenu du Canada. La question de savoir si chaque appelant a droit à une exemption sous le régime de la LIR sera tranchée au vu des faits qui sont propres à chacune de leurs situations. Le fait que d’autres aient pu bénéficier de l’exemption n’est tout simplement pas pertinent : Sinclair c R, 2003 CAF 348. Les présents appels n’ont aucune chance de succès s’ils reposent sur le fait que l’ARC a conclu qu’une autre entité a droit à l’exemption. Comme l’a décrété le juge Noël dans l’arrêt RCI Environnement Inc. c R, 2008 CAF 419, au paragraphe 51 :
+[…] aucune logique ne peut justifier que le traitement fiscal d’un contribuable soit déterminé en fonction des circonstances relatives à un autre contribuable.
+[13] Le passage « que l’ARC a considérée comme exonérée d’impôt » doit être radié de chacun des nouveaux avis d’appel. Ce passage apparaît aux endroits suivants :
+a) 2012-2252(IT)I – Laura Baldwin : à l’alinéa 13h) et au paragraphe 22;
+b) 2012-1839(IT)I – Charles Chakasim : à l’alinéa 16h) et au paragraphe 25;
+c) 2012-2042(IT)I - Virginia Forsythe : à l’alinéa 12h) et au paragraphe 21;
+d) 2012-2035(IT)I – Carrie Martin : à l’alinéa 24h) et au paragraphe 33;
+e) 2012-2609(IT)I – Diane Sheridan : à l’alinéa 15h) et au paragraphe 24;
+f) 2012-1920(IT)I – Art Zoccole : à l’alinéa 11h) et au paragraphe 20;
+[14] Je suis au courant de la décision qui a été rendue dans le cadre de la requête dont il était question dans l’affaire Tuccaro c R, 2013 CCI 300, où le ministère public souhaitait faire radier un paragraphe de l’avis d’appel parce que l’on y plaidait des faits liés au traitement fiscal d’autres contribuables. Le juge Bocock a conclu qu’il était prématuré de radier ce paragraphe. Il a accepté qu’il soit conservé dans l’avis d’appel à la condition que l’appelant modifie ce dernier en vue de plaider des faits relatifs à l’application du critère des facteurs de rattachement à la tierce partie.
+[15] Ceci étant dit avec respect, je ne suis pas d’accord. J’estime que le fait de plaider les faits et les circonstances d’une tierce partie n’aidera pas les appelants à convaincre le juge du procès que le revenu qu’ils ont reçu de NLS était situé sur une réserve au sens de l’article 87 de la Loi sur les Indiens : Sinclair (précité). En principe, un contribuable doit prouver qu’il satisfait lui-même aux conditions prévues par la loi : Ford Motor Co of Canada c Ministre du Revenu national, [1997] 3 CF 103 (CAF), au paragraphe 48.
+b) Si le fondement de ce facteur de rattachement est d’égaliser les règles du jeu pour les entreprises qui fournissent des services de louage de services d’employés à des organismes à but non lucratif et de bienfaisance situés en dehors des réserves, ce facteur de rattachement devrait donc faire pencher la balance en faveur du fait que NLS est située dans une réserve. Sinon, Native Leasing Services serait singulièrement défavorisée par rapport à ses concurrents.
+[16] Avant de commenter ces phrases, je tiens à faire remarquer à l’avocat des appelants que, dans les présents appels, NLS n’est pas une appelante. Les appelants sont certaines des personnes qui étaient au service de NLS. Si la question du marché commercial en tant que facteur de rattachement est pertinente à l’égard de ces appels, ce sont les activités et les services des appelants qui doivent être pris en considération dans ce facteur de rattachement. L’accent n’est pas mis sur NLS ou sur une tierce partie : Bastien Estate c La Reine, 2011 CSC 38, au paragraphe 60. La question de savoir si NLS est située dans une réserve ou non doit être établie en fonction des faits qui lui sont propres, et non en fonction de la manière dont l’ARC a considéré une autre entreprise de louage de services d’employés.
+[17] Selon l’intimée, les phrases qui précèdent doivent être radiées parce que l’argument subsidiaire des appelants demande en fait que la Cour annule les cotisations pour des motifs d’équité. La compétence de la Cour canadienne de l’impôt n’inclut pas le pouvoir de faire des déclarations ou de donner des directives au ministre en vue de rectifier une situation qui n’est pas le résultat d’une cotisation.
+[18] Je suis d’avis que les phrases soulignées sont des arguments que les appelants entendent invoquer en se fondant sur leur interprétation de la décision rendue dans Southwind c Canada (1998), 98 DTC 6084 (CAF). Que je sois d’accord ou non avec l’interprétation que font les appelants de cet arrêt n’est réellement pas la question qui se pose à ce stade de l’instance. Je suis d’avis que l’argument que les appelants fondent sur la manière dont ils interprètent une décision ne devrait pas être radié des actes de procédure.
+[19] La requête est accueillie. Aucuns dépens ne sont adjugés.
+Signé à Halifax (Nouvelle-Écosse), ce 19e jour de novembre 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 7e jour de janvier 2014 .
+S. Tasset
+RÉFÉRENCE : 2013 CCI 363
+Nos DE DOSSIER DE LA COUR : 2012-2252(IT)I
+2012-1839(IT)I
+2012-2042(IT)I
+2012-2035(IT)I
+2012-2609(IT)I
+2012-1920(IT)I
+INTITULÉ : LAURA BALDWIN,
+CHARLES CHAKASIM,
+VIRGINIA FORSYTHE,
+CARRIE MARTIN,
+DIANE SHERIDAN,
+ART ZOCCOLE
+ET LA REINE
+LIEU DE L'AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 5 novembre 2013
+MOTIFS DE L’ORDONNANCE : L’honorable juge Valerie Miller
+DATE DE L’ORDONNANCE : Le 19 novembre 2013
+COMPARUTIONS :
+Avocat des appelants :
+G. James Fyshe
+Avocat de l’intimée :
+Me Gordon Bourgard
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour les appelants :
+Nom : Me G. James Fyshe
+Cabinet : Fyshe McMahon LLP
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

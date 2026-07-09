@@ -1,0 +1,115 @@
+Title: Wiley v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31260/index.do
+Corpus path: corpus/cases/tcc/2013/2013-tcc-237-31260-wiley-v-the-queen-en.md
+Document type: case_law
+Last modified: 2013-07-29
+
+# Wiley v. The Queen
+
+- Citation: 2013 TCC 237
+- Decision date: 2013-07-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5102, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wiley v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-29
+Neutral citation
+2013 TCC 237
+File numbers
+2012-4098(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4098(IT)I
+BETWEEN:
+ANNETTE WILEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 16, 2013, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Agent for the Appellant:
+Victoria-Lyn Wallace
+Counsel for the Respondent:
+Iris Kingston
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2011 taxation year is dismissed.
+Signed at Halifax, Nova Scotia, this 29th day of July 2013.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2013TCC237
+Date: 20130729
+Docket: 2012-4098(IT)I
+BETWEEN:
+ANNETTE WILEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The Appellant has suffered from fibromyalgia since 2004. This condition was exacerbated in January 2011 when she sustained severe nerve damage from breast surgery. The issue in this appeal is whether the effects of the Appellant’s physical impairment are such that her ability to perform the basic activity of dressing herself is markedly restricted such that she is entitled to the disability tax credit for the 2011 taxation year.
+[2] The Appellant was represented at the hearing by her daughter, Victoria-Lyn Wallace and both she and her daughter testified.
+[3] The Appellant has four children. Her daughter Victoria-Lyn is a university student at the University of Toronto in Mississauga, Ontario. Victoria-Lyn lives in Mississauga during the school year except for holidays and weekends when she lives with the Appellant so that she can assist her. The Appellant has two sons and another daughter who is 10.
+[4] The Appellant gave her present occupation as that of a homemaker. However prior to October 2012, she was employed as a manager at a Kentucky Fried Chicken outlet. She had to leave this work due to the complications she suffered as a result of her surgery in 2011.
+[5] According to the letters from her family doctor, Dr. Marion F. Arthur, the Appellant has neuropathic pain which has necessitated that she attend a pain clinic and take medication on a long term basis. Adverse effects from some of her pain medication and chronic reactive depression were so severe that the Appellant could no longer work. In a letter dated June 19, 2013, Dr. Arthur wrote that her current assessment is that the Appellant is not expected to recover sufficiently to return to the work force.
+[6] The Appellant explained that since her breast reduction operation, she has struggled with everyday life. She has difficulty getting out of the bathtub because of the pressure of her breasts. When she showers, she has to make sure that the water does not hit her breasts in any of the many sensitive areas because the pain is severe. When bathing, the change in temperature of the water causes pain. She requires help from one of her daughters to wash her hair and her back. When getting dressed, she is unable to wear a bra because the pressure from the material causes her pain. She has to try on different shirts and put them on slowly to ensure the least amount of pain. She cannot raise her arms over her head without experiencing pain and she requires help to brush her hair.
+[7] The Appellant stated that her daughter and son assist her with dressing daily. She can move her fingers but she experiences pain and tingling in her fingers. She can manipulate buttons and zippers. She can bend from the waist and she can put on her own slacks while sitting on a chair or the bed. It takes her approximately 20 to 25 minutes to dress each morning. This includes putting on her deodorant and clothes.
+[8] In the circumstances of this appeal, the Appellant will qualify to receive the disability tax credit if she satisfies the three criteria provided in section 118.3 of the Income Tax Act (the “Act”): (1) she has a severe and prolonged physical impairment; (2) the physical impairment markedly restricts her ability to dress herself; and, (3) a medical practitioner has certified in prescribed form that the impairment is severe and prolonged.
+[9] Section 118.4 of the Act gives meaning to the terms “prolonged” and “markedly restricted”. It provides that (a) an impairment is prolonged where it has lasted for a continuous period of at least 12 months; and, (b) an individual’s ability to perform a basic activity of daily living is markedly restricted only where all or substantially all of the time, the individual is unable or requires an inordinate amount of time to perform a basic activity of daily living.
+[10] On September 16, 2011, Dr. Arthur filled out the Disability Tax Credit Certificate (the “Certificate”) on behalf of the Appellant. In the form, she stated that the Appellant had been markedly restricted in dressing since January 2011 as a result of breast surgery reduction. With respect to the effects of the impairment, Dr. Arthur wrote that the Appellant suffered pain from her clothes. She also wrote that the Appellant’s impairment was expected to last for a continuous period of 12 months but that she was unsure if the impairment has or is likely to improve.
+[11] By letter dated December 23, 2011, the Minister of National Revenue asked Dr. Arthur for additional information with respect to the Appellant’s claim for the disability tax credit. In the letter, Dr. Arthur was asked to check one statement in each of two questions that best described her patient’s ability to dress herself. The questions posed and the answers checked were:
+With the use of appropriate therapy, medication and devices, your patient is:
+a) ____ able to dress herself;
+b) __x_ unable to dress herself at times (e.g., due to flare-ups)
+c) _____unable to dress herself, all or substantially all of the time.
+When “inordinate amount of time” is mentioned, it means that the activity must take significantly more time than for an average person of the same age who does not have the impairment.
+When your patient is able to dress herself with the use of appropriate therapy, medication and devices, your patient:
+a) ____ takes the same time to dress herself, but does not take an inordinate amount of time.
+b) ____ takes more time to dress herself, but does not take an inordinate amount of time.
+c)__x__ takes an inordinate amount of time to dress herself at times, but is able to dress herself without being markedly restricted between these periods (e.g., patient sometimes takes an inordinate amount of time to dress due to pain).
+d) ____ takes an inordinate amount of time to dress herself, all or substantially all of the time (e.g., due to constant and severe pain, your patient takes an inordinate amount of time to dress all or substantially all of the time, despite medication).
+[12] Dr. Arthur did not testify at the hearing but her affidavit was filed with the court. Her response to the request for additional information was attached as an exhibit to her affidavit. In her affidavit, Dr. Arthur clarified that “Annette Wiley takes an inordinate amount of time to dress herself at times, but is able to dress herself without being markedly restricted between these periods. In other words, Ms. Wiley sometimes takes an inordinate amount of time to dress herself due to pain.”
+[13] Paragraph 118.3(4)(b) of the Act deems the additional information provided by Dr. Arthur to be included in her Certificate in prescribed form.
+[14] Based on this additional information, I have concluded that the Certificate provided by Dr. Arthur is a negative certificate. She has, in effect, stated that the Appellant’s impairment does not markedly restrict her ability to perform the basic activity of dressing.
+[15] I note that the Certificate gives a list of activities not included in the term “dressing”. However, it does not include the notion that dressing oneself includes the ability to perform basic elementary personal hygiene such as bathing and grooming oneself: Johnston v R, [1998] 2 CTC 262 (FCA) at paragraph 37. If that definition had been included in the certificate, I question whether Dr. Arthur’s response would have been the same. There was evidence from both the Appellant and her daughter that the Appellant took a long time to bathe and/or shower and she needed help with bathing. However, neither witness discussed the time it took the Appellant to bathe.
+[16] A positive certificate is a prerequisite to receiving the disability tax credit and it is not open to me to ignore that requirement or to substitute my opinion for that of the medical practitioner: Buchanan v R, 2002 FCA 231 at paragraph 19
+[17] However, to ensure that a medical practitioner who signs the Certificate has fully considered the activities involved in the notion of dressing, I recommend that the Certificate be amended to include the definition of dressing as given in Johnston.
+[18] Unfortunately, I must dismiss this appeal.
+Signed at Halifax, Nova Scotia, this 29th day of July 2013.
+“V.A. Miller”
+V.A. Miller J.
+CITATION: 2013TCC237
+COURT FILE NO.: 2012-4098(IT)I
+STYLE OF CAUSE: ANNETTE WILEY AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 16, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: July 29, 2013
+APPEARANCES:
+Agent for the Appellant:
+Victoria-Lyn Wallace
+Counsel for the Respondent:
+Iris Kingston
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

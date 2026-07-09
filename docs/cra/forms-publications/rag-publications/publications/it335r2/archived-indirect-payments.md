@@ -1,0 +1,170 @@
+---
+title: "ARCHIVED - Indirect Payments"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it335r2/archived-indirect-payments.html
+last_modified: 2017-11-07
+---
+# ARCHIVED - Indirect Payments
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+## We have archived this page and will not be updating it.
+
+You can use it for research or reference.
+
+[What the "Archived Content" notice means for interpretation bulletins](https://www.canada.ca/en/revenue-agency/services/forms-publications/what-archived-content-notice-means-interpretation-bulletins.html)
+
+NO.: **IT-335R2**
+
+DATE: July 12, 2004
+
+SUBJECT: INCOME TAX ACT**Indirect Payments**
+
+REFERENCE: Subsection 56(2) (also subsection 15(1); paragraphs 69(1)(*b*) and 214(3)(*a*) of the *Income Tax Act* (the “Act”))
+
+**Notice to the reader:**
+
+- [Bulletins do not have the force of law](https://www.canada.ca/formspubs/pbs/tntc-eng.html).
+
+- This is an HTML version of the original document. It is also available in [other formats](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/it335r2.html), including PDF (which is an exact rendition of the original).
+
+- This version is only available electronically.
+
+## Contents
+
+- *[Application](#P39_847)*
+
+- *[Summary](#P41_1016)*
+
+- *[Discussion and Interpretation](#P43_1213)*
+
+    - [Conditions for the application of subsection 56(2)](#P44_1242) (¶s 1-4)
+
+    - [Exemption – Pension Benefits](#P54_3676) (¶ 5)
+
+    - [Exception – Split Income](#P56_4179) (¶ 6)
+
+    - [Examples of the application of subsection 56(2)](#P58_4524)
+
+          - [Gifts to Shareholders' Relatives](#P59_4571) (¶ 7)
+
+          - [Property Sold to Shareholder's Child below Fair Market Value](#P61_5912) (¶ 8)
+
+    - [Dividends](#P63_7297) (¶ 9)
+
+    - [Other comments](#P65_7982)
+
+          - [Income or capital treatment](#P66_7996) (¶ 10)
+
+          - [Application to arm's length or non-arm's length transactions](#P68_8364) (¶ 11)
+
+          - [Deemed payment for the purposes of Part XIII of the Act](#P70_8549) (¶ 12)
+
+          - [Inclusion of an amount in the income of a taxpayer and in the income of the recipient of the property](#P72_8947) (¶ 13)
+
+- *[Explanation of Changes](#P78_9681)*
+
+## Application
+
+This bulletin cancels and replaces IT-335R dated September 11, 1989. Unless otherwise stated, all statutory references throughout the bulletin are to the Act.
+
+## Summary
+
+This bulletin discusses a rule directed against tax avoidance which might result when amounts which would constitute income when received by a particular taxpayer are paid to another person.
+
+## Discussion and Interpretation
+
+### Conditions for the application of subsection 56(2)
+
+**¶ 1.** Subsection 56(2) will cause an amount not received by a taxpayer to be added to the taxpayer's income if the
+
+following conditions are met:
+
+(a) there is a payment or transfer of property to a person other than the taxpayer;
+
+(b) the payment or transfer is pursuant to the direction of, or with the concurrence of, the taxpayer (this may be implicit – see ¶ 3);
+
+(c) there is a benefit to the taxpayer or a benefit the taxpayer wishes to confer on the other person;
+
+(d) the taxpayer would have been taxable on the amount under some other section of the Act if the payment or transfer had been made directly to the taxpayer.
+
+**¶ 2.** Subsection 56(2) will not generally be applicable in a situation involving a *bona fide* loan between persons because such a loan does not constitute a “payment or transfer of property” within the meaning of that subsection. Whether a *bona fide* loan has been made in a particular situation is a mixed question of law and fact that will normally require, among other things, a review of the terms and conditions of the loan agreement. Factors to be considered would include whether the loan bears interest, the repayment terms, whether security is provided to the creditor, etc. However, if a loan is forgiven in a particular situation, the advance of funds may become a “payment or transfer” of property subject to subsection 56(2) at the time of the forgiveness of the said loan.
+
+**¶ 3.** The concurrence or participation of the taxpayer in the conferring of the benefit need not be active. It may be passive or implicit and can be inferred from all the circumstances of a particular situation (for example, the degree of control which the taxpayer is entitled to exercise over the corporation conferring the benefit).
+
+**¶ 4.** Except as indicated in ¶ 9 with respect to dividend income, a taxpayer to whom subsection 56(2) applies need not be legally entitled to the property paid or transferred but must have some degree of control over its payment or transfer. Thus a shareholder who does not specifically direct a payment that falls under subsection 56(2) to be made but acquiesces in its payment will be taxable on the portion of the payment equal to the proportion of the number of shares owned by the shareholder to the total number of shares. Whether or not a shareholder will be viewed as having acquiesced in the payment will depend on the facts of the particular case.
+
+### Exemption – Pension Benefits
+
+**¶ 5.** Subsection 56(2) does not apply to any portion of a retirement pension that the taxpayer assigns under section 65.1 of the *Canada Pension Plan* or under a comparable provision of a provincial pension plan as defined in section 3 of the *Canada Pension Plan* or of a prescribed provincial pension plan. The *Quebec Pension Plan* is a provincial pension plan that has a comparable provision. The *Saskatchewan Pension Plan* is the only provincial pension plan prescribed to date.
+
+### Exception – Split Income
+
+**¶ 6.** Pursuant to subsection 56(5), subsection 56(2) does not apply to any amount that is included in computing a specified individual's split income for a taxation year under section 120.4. Subsection 56(5) ensures that amounts taxed as split income in the hands of a minor child are not also attributed to another person.
+
+### Examples of the application of subsection 56(2)
+
+#### Gifts to Shareholders' Relatives
+
+**¶ 7.** Pursuant to the direction of, or with the concurrence of, its shareholders, a particular corporation makes gifts to relatives of the shareholders. These relatives are not shareholders or employees of the particular corporation. In such a situation, subsection 56(2) would apply to include in the shareholders' income the fair market value of the gifts made by the particular corporation. These gifts would constitute payments or transfers of property pursuant to the direction of, or with the concurrence of, the shareholders to some other persons (i.e. their relatives) as a benefit that the shareholders desired to have conferred on their relatives. Furthermore, an amount corresponding to the fair market value of the gifts would have been included in the shareholders' income under subsection 15(1) if the payments or transfers had been made by the particular corporation to the said shareholders. In this situation, each shareholder that directed or acquiesced in the payments or transfers would be taxable under subsection 56(2) on a portion of the payments or transfers made by the particular corporation that is equal to the proportion of the number of issued and outstanding shares of the corporation owned by the shareholder to the total number of shares that are in fact issued and outstanding.
+
+#### Property Sold to Shareholder's Child below Fair Market Value
+
+**¶ 8.** X owns all of the issued and outstanding shares of Xco. At the direction of X, Xco sells a piece of land for consideration that is less than fair market value in favour of Y, the child of X. These transactions would have the following tax consequences. First, subsection 56(2) would apply to include in X's income an amount corresponding to the difference between the fair market value of the property transferred and the consideration paid by Y. The transfer of the piece of land by Xco to some other person (i.e. Y) is made pursuant to the direction of X as a benefit that X desired to have conferred on Y and an amount corresponding to the difference between the fair market value of the property transferred and the consideration paid by X would have been included in X's income under subsection 15(1) if the transfer had been made by Xco to X. Furthermore, under paragraph 69(1)(*b*), Xco would be deemed to have received proceeds of disposition equal to the fair market value of the piece of land at the time of the transfer. Finally, the adjusted cost base of the piece of land to Y would, technically, be equal to the consideration he or she paid to Xco. See the current version of IT-405, *Inadequate Considerations – Acquisitions and Dispositions*, for additional discussions on the application of subsection 69(1).
+
+### Dividends
+
+**¶ 9.** Absent a sham, subterfuge or an artificial transaction and provided that proper consideration was given for the shares when issued, subsection 56(2) does not generally apply to dividend income since, until a dividend is declared, the profits belong to the corporation as retained earnings. However, subsection 56(2) may be applicable where dividends are paid to shareholders of a corporation who, having regard to the dividend entitlements of their shares as set out in the articles of incorporation, receive dividends to which they are not entitled and/or where another taxpayer has a pre-existing entitlement to the dividend income paid to shareholders of a corporation.
+
+### Other comments
+
+#### Income or capital treatment
+
+**¶ 10.** The amount to be included in the taxpayer's income is the amount that would have been included in the taxpayer's income if the payment or transfer had been made directly to the taxpayer. The amount is considered to be income or capital to the taxpayer in the same way it would have been if the taxpayer had received the amount directly.
+
+#### Application to arm's length or non-arm's length transactions
+
+**¶ 11.** Subsection 56(2) applies to both arm's-length and non-arm's length transactions if the conditions listed in ¶ 1 are met.
+
+#### Deemed payment for the purposes of Part XIII of the Act
+
+**¶ 12.** Under paragraph 214(3)(*a*), where a taxpayer is not a resident of Canada, any amount that would have been included in the taxpayer's income under subsection 56(2), if Part I of the Act applied, is to be treated as a dividend for the purposes of Part XIII of the Act. Non-resident withholding tax would therefore be exigible on that amount.
+
+#### Inclusion of an amount in the income of a taxpayer and in the income of the recipient of the property
+
+**¶ 13.** An amount to which subsection 56(2) applies could be included in the income of both the taxpayer and the person who receives the payment or the property. However, it is normally the Canada Revenue Agency's (CRA) practice not to assess the same income twice. Accordingly, where the taxpayer agrees to the reallocation, the recipient's income will be reduced. Where the taxpayer does not agree, the CRA will also reduce the recipient's income, without requiring a waiver, provided that at the time of the assessing action, the recipient's return was not about to become statute-barred; in those cases, the CRA will seek a waiver.
+
+## Explanation of Changes
+
+**Introduction**
+
+The purpose of the *Explanation of Changes* is to give the reasons for the revisions to an interpretation bulletin. It outlines revisions that we have made as a result of changes to the law, as well as changes reflecting new or revised interpretations of the CRA.
+
+**Reasons for the Revision**
+
+This bulletin updates the former IT-335R, which discussed the provisions of subsection 56(2). Subsection 56(2) is a rule directed against tax avoidance which might result when amounts which would constitute income when received by a particular person are paid to another person. This bulletin has been revised mainly to add interpretative comments*.*
+
+**Legislative and Other Changes**
+
+New ¶ 2 has been added to provide comments with respect to the first condition for the application of subsection 56(2).
+
+New ¶ 3 has been added to provide comments with respect to the second condition for the application of subsection 56(2).
+
+¶ 4 is the same as former ¶ 3. It provides comments with respect to the third and fourth conditions for the application of subsection 56(2) and is based on the decision of the Exchequer Court of Canada in *M.N.R. v.* *Allan Bronfman*, [1965] CTC 378, 65 DTC 5235.
+
+¶ 5 contains, in essence, the deleted comments from the last sentence of former ¶ 1. It has been revised to refer to section 65.1 of the *Canada Pension Plan* (instead of section 64.1), to indicate that the *Quebec Pension Plan* has now a comparable provision and to indicate that the *Saskatchewan Pension Plan* is the only provincial pension plan prescribed to date.
+
+The addition of new ¶ 6 is consequential on the introduction of the tax on split income (see section 120.4 of the Act).
+
+New ¶s 7 and 8 provide examples of the application of subsection 56(2).
+
+New ¶ 9 has been added to reflect the decisions of the Supreme Court of Canada in *Neuman v. M.N.R.*, [1998] 3 CTC 177, 98 DTC 6297, and in *The Queen v. McClurg*, [1991] 1 CTC 169, 91 DTC 5001.
+
+¶ 10 is the same as former ¶ 2.
+
+¶ 11 is the same as former ¶ 4.
+
+New ¶ 12 has been added to refer to the deeming provision contained in subsection 214(3).
+
+New ¶ 13 has been added to include an administrative position with respect to the application of subsection 56(2).

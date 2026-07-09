@@ -1,0 +1,218 @@
+Title: Sanclemente c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25095/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-450-25095-sanclemente-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-06-26
+
+# Sanclemente c. La Reine
+
+- Citation: 2003 CCI 450
+- Decision date: 2003-06-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2504, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sanclemente c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-26
+Référence neutre
+2003 CCI 450
+Numéro de dossier
+2002-4054(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4054(IT)I
+ENTRE :
+WALTER SANCLEMENTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 1er mai 2003, à Winnipeg (Manitoba).
+Devant : L’honorable juge Terrence O’Connor
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jim Doyle
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1997 et 1998 sont accueillis, sans dépens, et les nouvelles cotisations, datées du 19 mars 2001, sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 26e jour de juin 2003.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 31e jour de mars 2009.
+D. Laberge, LL.L.
+Référence : 2003CCI450
+Date : 20030626
+Dossier : 2002-4054(IT)I
+ENTRE :
+WALTER SANCLEMENTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Motifs du jugement
+Le juge O’Connor
+[1] Le présent appel a été entendu à Winnipeg (Manitoba), le 1er mai 2003.
+[2] Seul l’appelant a témoigné. Les questions consistent à savoir si, en 1997 et 1998, l’appelant en exécutant son travail à titre de « surveillant » au sein de Kelsey Construction (« Kelsey ») devait, pendant ces années, être considéré comme un employé suivant un contrat de louage de services ou comme un entrepreneur exerçant une activité suivant un contrat d’entreprise; dans ce dernier cas, la question consiste à savoir si toutes les dépenses déduites par l’appelant pendant les années en question étaient déductibles à juste titre.
+FAITS
+[3] La réponse à l’avis d’appel énonce essentiellement ce qui suit :
+[traduction]
+[…]
+8. Dans le calcul de son revenu pour les années d’imposition 1997 et 1998, l’appelant a déclaré un revenu d’entreprise net de 17 397,20 $ pour 1997 et de 21 826,66 $ pour 1998, selon ce qui est indiqué dans les annexes A, B, C et D jointes à la réponse à l’avis d’appel et en faisant partie.
+9. Les premiers avis de cotisation pour les années d’imposition 1997 et 1998 étaient datés du 22 mai 1998 pour 1997 et du 13 mai 1999 pour 1998 et ont été mis à la poste le même jour, respectivement.
+10. Lorsqu’il a établi les nouvelles cotisations de l’appelant pour les années d’imposition 1997 et 1998 le 19 mars 2001, le ministre du Revenu national (le « ministre ») :
+a) a supprimé le revenu d’entreprise net déclaré pour chaque année;
+b) a établi une cotisation de revenu d’emploi […] de 48 680,14 $ pour 1997 et de 46 507,27 $ pour 1998;
+c) a autorisé une déduction de dépenses du revenu d’emploi de 500 $ pour 1997 et de 500 $ pour 1998.
+11. Lorsqu’il a établi ces nouvelles cotisations à l’égard de l’appelant, le ministre s’est fondé sur les hypothèses de fait suivantes :
+a) au cours des années d’imposition 1997 et 1998, l’appelant était employé par l’employeur à titre de surveillant;
+b) l’employeur payait l’appelant selon un taux horaire, versé toutes les deux semaines;
+c) l’employeur remboursait à l’appelant les dépenses qu’il engageait lorsqu’il travaillait dans une autre ville;
+d) les dépenses remboursées à l’appelant par l’employeur comprenaient, sans s’y limiter, les repas, les hôtels et l’essence;
+e) l’employeur fournissait le matériel qu’utilisait l’appelant dans l’exécution de ses fonctions;
+f) il incombait à l’appelant d’engager les frais de déplacement aux chantiers locaux où il exerçait ses fonctions;
+g) l’appelant fournissait ses propres outils à main pour exercer ses fonctions;
+h) l’employeur fournissait les plus gros outils propres au métier dont l’appelant avait besoin pour exercer ses fonctions;
+i) l’employeur fournissait le matériel loué dont l’appelant avait besoin pour exercer ses fonctions;
+j) l’employeur garantissait la qualité du travail exécuté par l’appelant;
+k) l’employeur exigeait que l’appelant exerce lui‑même ses fonctions;
+l) l’employeur versait des primes pour l’indemnisation des accidents du travail à l’égard de l’appelant;
+m) les travailleurs que l’appelant supervisait étaient des employés de l’employeur;
+n) l’appelant était tenu de discuter avec l’employeur de l’embauche ou de la mise à pied des employés de l’employeur;
+o) l’appelant a été embauché par l’employeur pour une durée indéterminée;
+p) l’employeur savait que les conditions de l’emploi de l’appelant étaient telles que ce dernier était probablement employé suivant un contrat de louage de services plutôt que suivant un contrat d’entreprise;
+q) les fonctions qu’exerçait l’appelant étaient les mêmes que celles d’autres surveillants de l’employeur qui étaient employés suivant un contrat de louage de services;
+r) l’employeur a accédé à la demande de l’appelant d’être traité comme s’il était employé suivant un contrat d’entreprise puisque c’est ce que voulait l’appelant, et que l’employeur ne voulait pas perdre un employé précieux;
+s) les fonctions qu’exerçait l’appelant faisaient partie intégrante des activités de l’employeur;
+t) l’appelant était employé suivant un contrat de louage de services conclu avec l’employeur;
+u) l’appelant a reçu de l’employeur une rémunération de 48 680,14 $ en 1997 et de 46 507,27 $ en 1998 en contrepartie des fonctions qu’il exerçait pour l’employeur;
+v) outre les dépenses de réparations et d’entretien engagées pour son propre véhicule, l’appelant n’était pas tenu par l’employeur de payer les dépenses engagées dans l’exercice de ses fonctions;
+w) l’appelant ne consignait pas le nombre de kilomètres qu’il parcourait pour gagner un revenu chez son employeur;
+x) l’appelant a présenté au ministre des reçus concernant des dépenses d’essence, de réparations et d’entretien de la voiture, de repas et de divertissement et d’assurances pour chaque année comme suit :
+Postes
+1997
+1998
+Véhicule – Réparations/entretien
+2 946,35 $
+1 577,08 $
+Véhicule – essence
+3 229,78
+5 163,00
+Véhicule – assurances
+0,00
+881,00
+Repas et divertissement
+0,00
+4 449,29
+Total
+6 176,13 $
+12 070,37 $
+y) outre les reçus présentés comme l’indique l’alinéa 11x) ci-dessus, l’appelant n’a présenté aucun autre reçu, aucune autre pièce justificative ni autre document à l’appui des dépenses déduites et mentionnées aux annexes A et B;
+z) outre les reçus présentés comme l’indique l’alinéa 11x) ci-dessus, il n’a pas été prouvé que les dépenses déduites et mentionnées aux annexes A et B ont été engagées;
+aa) les dépenses de réparations et d’entretien supérieures à 500 $ et déduites pour chaque année n’étaient pas raisonnables dans les circonstances;
+bb) les dépenses supérieures au montant accepté, si elles ont été engagées, n’ont pas été engagées pour gagner un revenu chez l’employeur; il s’agissait plutôt des dépenses personnelles et de frais de subsistance de l’appelant.
+[4] L’appelant conteste les allégations et hypothèses qui précèdent et qui mènent, directement ou indirectement, à la conclusion selon laquelle il était un employé par opposition à un entrepreneur.
+[5] Dans son avis d’appel, l’appelant indique qu’il a été engagé pour ses connaissances et son sens de l’organisation, qu’il fixait ses propres heures de travail, qu’il embauchait et mettait à pied lui-même les employés sur le chantier sans en discuter avec quiconque. L’appelant indique de plus dans son avis d’appel que Kelsey n’a jamais vérifié s’il se trouvait sur le chantier. Il mentionne plus particulièrement le contrat conclu entre lui et Kelsey pour les années 1996 et 1997. La pièce A‑2 mentionne ce qui suit :
+[traduction]
+KELSEY CONSTRUCTION (1996) LTD
+201-356, rue Furby, Winnipeg (Manitoba) R38 2V5
+Tél. : 204-786-6557; téléc. : 204-786-6559
+Dest. : Walter Sanclemente
+Sanclemente Builders
+C.P. 1243 Date : Le 2 janvier 1996
+Beausejour (Manitoba) R0E 0C0
+Sous-contrat de surveillance ** qui entrera en vigueur
+à l’attribution de contrats individuels
+-----------------------------------------------------------------------------------------
+Le sous-traitant convient de fournir tous les matériaux et d’exécuter tous les travaux décrits conformément aux modalités du contrat entre le propriétaire et l’entrepreneur et conformément aux dessins et devis, dont les conditions générales, les dessins et les devis font partie d’un contrat entre l’entrepreneur et le propriétaire et font partie du présent contrat, y compris toutes les taxes provinciales et municipales.
+Objet : Divers projets
+Pour : Surveillance de chantier, menuiserie brute et de finition,
+coordination des horaires, transport de matériaux
+par le sous-traitant, au besoin,
+22,00 $ l’heure, TPS en sus
+Aucun travail supplémentaire n’est payé sans l’autorisation écrite du bureau.
+Le sous-traitant convient d’exécuter ou de livrer plusieurs parties ou la totalité des travaux sous-traités au besoin.
+Tous les sous-traitants en installation doivent présenter un certificat d’assurance avant la première demande de règlement.
+L’entrepreneur effectuera les paiements toutes les deux semaines (tous les paiements sont effectués en devises canadiennes en parité avec Winnipeg).
+La facture (comportant les numéros de projet) doit être reçue à l’adresse ci-dessus deux jours ouvrables avant la date prévue pour le paiement.
+Accepté par
+Par : __________________
+Signataire autorisé KELSEY CONSTRUCTION (1996) Ltd.
+Sceau ci-dessus ou témoin ci-dessous
+__________________ _______________________
+Signataire autorisé
+[6] La pièce A‑3 qui se rapporte à l’année 1997 est essentiellement la même que la pièce A‑2 et l’hypothèse est qu’une entente semblable existait en 1998. L’appelant a également présenté comme pièce A‑4 une facture sur le papier à en‑tête de « Sanclemente Builders », adressée à Kelsey, datée du 2 août 1997, pour des services rendus à Kelsey pendant une période de deux semaines se terminant le 2 août 1997, et s’élevant à 1 812,58 $.
+[7] De nombreux jugements ont examiné la question concernant l’employé par opposition à l’entrepreneur et la jurisprudence a établi les quatre critères suivants : (1) le contrôle; (2) la propriété des instruments de travail; (3) les chances de profit; (4) les risques de perte. Un autre critère, le critère de l’intégration, a également été appliqué. En ce qui concerne le critère de l’intégration, la question qui se pose est la suivante : « la personne qui s’est engagée à accomplir ces tâches les accomplit‑elle en tant que personne dans les affaires à son compte »? Autrement dit, les services de l’appelant doivent-ils être considérés comme une partie intégrante des activités exercées par le payeur. La Cour doit envisager l’analyse selon le point de vue du présumé employé (voir l’arrêt Precision Gutters Ltd. c. Ministre du Revenu national, 2002 C.A.F. 207, de la Cour d’appel fédérale).
+[8] En appliquant les quatre critères, on constate ce qui est ci‑après exposé. En ce qui a trait au contrôle, très peu de contrôle semble avoir été exercé sur les services fournis par l’appelant. Dans son avis d’appel, l’appelant déclare ce qui suit : [traduction] « personne chez Kelsey Construction n’a vérifié à quelque moment si j’étais là, ni ne m’a dit d’être présent à une heure ou à une date précise ».
+[9] En ce qui concerne la propriété des instruments de travail, il est clair que l’appelant était propriétaire de ses propres outils à main et, de plus, il était propriétaire de formes et d’échafaudages et, selon lui, de tout l’équipement nécessaire pour effectuer différents travaux. La preuve révèle toutefois que certains gros outils étaient détenus ou loués par Kelsey. En outre, l’appelant était propriétaire de ses propres véhicules, notamment un camion, et après que ce véhicule est tombé en panne, un véhicule Suburban. Il utilisait ces véhicules pour effectuer son travail et il payait les dépenses qui s’y rapportaient. Ces faits sont, à mon avis, assez importants et indiquent clairement qu’il ne s’agit pas d’un contrat de louage de services. En règle générale, les entrepreneurs indépendants qui font des travaux de cette nature ont leurs propres véhicules et paient leurs propres dépenses, mais à mon avis ce n’est pas ce qui se passe lorsque la personne est simplement un employé. Ainsi, les « instruments de travail » dont l’appelant est propriétaire sont relativement importants.
+[10] De plus, les contrats écrits conclus entre Kelsey et l’appelant visent clairement un contrat d’entreprise. Un contrat écrit n’est pas toujours un facteur déterminant, mais lorsqu’il en existe un il faut, pour établir que le contrat écrit est une tromperie et qu’il existe une relation d’employé, que la preuve et la totalité de la relation démontrent que le contrat écrit doit être écarté. Je ne crois pas qu’il soit possible de le faire en l’espèce.
+[11] En ce qui concerne les chances de profit, l’appelant semble avoir éveillé les soupçons du vérificateur et de toutes les autres personnes qui ont traité sa nouvelle cotisation du fait qu’il a déclaré ce qui suit dans son avis d’appel : [traduction] « Mes chances de profit étaient nulles, il n’y avait jamais de primes ou de cadeaux, etc. ». À cet égard, je mentionne l’échange suivant sur le sujet, qui a eu lieu au cours des observations :
+[traduction]
+[…]
+LE JUGE : Que vouliez-vous dire par la déclaration, « Je n’avais aucune chance de profit? »
+M. SANCLEMENTE : Bien, lorsque j’ai écrit cela, je ne pensais vraiment pas de façon claire. J’étais - - à ce moment-là, vous savez, j’ai simplement écrit quelque chose qui m’est venu à l’esprit et j’étais, j’imagine que vous pourriez dire, en colère, sous le choc, et lorsque j’ai écrit cela, je ne pensais pas clairement et - -
+LE JUGE : Parce que ce que je ne peux pas comprendre c’est si vous vous considérez comme un entrepreneur - -
+M. SANCLEMENTE : Oui.
+LE JUGE : - - un entrepreneur indépendant, de toute évidence vous deviez avoir des chances de profit?
+M. SANCLEMENTE : Bien, oui, j’en ai. Je ne sais pas pourquoi j’ai écrit cela et - - mais, non, j’ai fait des profits et j’ai eu des pertes avec des projets. Il y a des gens qui me doivent encore de l’argent et je tente de le percevoir, mais parfois le montant est trop faible pour aller en cour et vous devez continuer à insister auprès des gens pour l’obtenir. »
+[12] Sur cette question et sur presque toutes les questions importantes, je reconnais pleinement la crédibilité de l’appelant. En faisant la déclaration reprochée, l’appelant mentionne des primes ou des cadeaux ce qui, à mon avis, indique qu’il ne savait pas très bien ce que signifiait l’expression « chances de profit ». Quoi qu’il en soit, lorsqu’il présentait une soumission et qu’un chantier particulier lui était assigné pour travailler, il connaissait son taux de rémunération et était donc dans une position de déterminer si le travail particulier produirait un profit ou entraînerait une perte. Sous réserve de ce qui précède, il existe peu d’éléments de preuve portant directement sur la question des risques de perte et les commentaires concernant les chances de profit doivent être considérés comme englobant les deux notions.
+[13] La jurisprudence a élaboré un autre critère qui est mentionné ici comme un critère distinct des quatre critères discutés ci-dessus, soit le critère de l’intégration. Suivant ce critère, la question qui se pose est la suivante : « la personne qui s’est engagée à accomplir ces tâches les accomplit‑elle en tant que personne dans les affaires à son compte »? Si c’est le cas, cette personne était engagée suivant un contrat d’entreprise et non suivant un contrat de louage de services.
+[14] En résumé, j’ai été particulièrement influencé par les éléments suivants :
+1. le libellé des contrats conclus entre Kelsey et l’appelant;
+2. l’étendue de la propriété des instruments de travail par l’appelant (y compris les véhicules, les formes et les échafaudages);
+3. le degré limité de contrôle et la relation d’indépendance en général entre l’appelant et Kelsey;
+4. le ministre du Revenu national se concentrait uniquement sur la relation avec Kelsey et a conclu qu’il s’agissait d’un contrat de louage de services avec Kelsey. Cette conclusion ne tient pas compte du fait que, selon le témoignage de l’appelant, au cours des autres années que celles en cause, l’appelant avait des contrats avec d’autres parties que Kelsey;
+5. bien que la preuve ne soit pas absolument tout à fait convaincante, il est clair que l’appelant a en effet payé un salaire à certaines personnes, une autre indication du degré limité de contrôle qu’exerçait Kelsey;
+6. le critère de l’intégration est difficile à appliquer mais, à mon avis, il milite en faveur d’une conclusion de contrat d’entreprise.
+[15] Ainsi, à mon avis, l’appelant a été engagé suivant un contrat d’entreprise et non suivant un contrat de louage de services, c’est-à-dire non selon une relation employeur‑employé.
+[16] En ce qui concerne le montant des diverses dépenses déduites, l’appelant indique que les dépenses qu’il a déduites ont été véritablement engagées, qu’elles se rapportaient à l’entreprise et qu’elles n’étaient pas des dépenses personnelles. La jurisprudence a reconnu que des dépenses, dans des situations de cette nature, peuvent être prouvées par témoignage. Comme je l’ai mentionné plus haut, je reconnais la crédibilité de l’appelant et j’accepte les déductions de dépenses qu’il a demandées. De plus, le détail de ces dépenses est indiqué dans les annexes jointes à la réponse.
+[17] Pour les motifs qui précèdent, les appels sont accueillis. Il n’y aura pas d’adjudication des dépens.
+Signé à Ottawa, Canada, ce 26e jour de juin 2003.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 31e jour de mars 2009.
+D. Laberge, LL.L.
+RÉFÉRENCE :
+2003CCI450
+No DU DOSSIER DE LA COUR :
+2002-4054(IT)I
+INTITULÉ :
+Walter Sanclemente c. La Reine
+Lieu de l’audience :
+Winnipeg (Manitoba)
+DATE de l’audience :
+Le 1er mai 2003
+Motifs du jugement :
+L’honorable juge O’Connor
+DATE du jugement :
+Le 26 juin 2003
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Jim Doyle
+Avocats inscrits au dossier :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

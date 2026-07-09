@@ -1,0 +1,132 @@
+Title: Papp v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29570/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-621-29570-papp-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-12-14
+
+# Papp v. The Queen
+
+- Citation: 2009 TCC 621
+- Decision date: 2009-12-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6326, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Papp v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-12-14
+Neutral citation
+2009 TCC 621
+File numbers
+2007-1788(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1788(IT)I
+BETWEEN:
+VIC PAPP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on September 22, 2009, at Courtenay, British Columbia
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Natasha Reid
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment for the 2003 taxation year is allowed, without costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant’s income for the year is reduced by the amount of $2,000.
+The appeal from the reassessment made under the Act for the 2004 taxation year is dismissed.
+Signed at Ottawa, Canada, this 14th day of December, 2009.
+“E.A. Bowie”
+Bowie J.
+Citation: 2009 TCC 621
+Date: 20091214
+Docket: 2007-1788(IT)I
+BETWEEN:
+VIC PAPP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] Mr. Papp appeals from assessments under the Income Tax Act for the taxation years 2003 and 2004. He is a Certified General Accountant. For some time prior to 2003, during all of that year, and for the first four months of 2004 he was engaged as the Comptroller of a corporation called Fan Seafoods Ltd. (Fan). He also did some accounting work for others, in a relatively small way.
+[2] In filing his income tax returns for the 2003 and 2004 taxation years, Mr. Papp declared his income in this way:
+2003
+2004
+Gross income
+$27,800
+$7,037
+Expenses
+18,983
+12,222
+Net Professional Income (Loss)
+$8,817
+($5,185)
+Employment income
+Nil
+1,307
+Income from RRSP and dividends
+372
+4,153
+Total
+$9,189
+$275
+These numbers are rounded.
+[3] During 2003 and 2004, Fan took the position that the Mr. Papp was not an employee but an independent contractor, and it paid his compensation on that basis. In 2004, when he was no longer employed by Fan, Mr. Papp applied for unemployment insurance benefits. This led to a trust audit of Fan, and ultimately to the reassessments of Mr. Papp that are now the subject of the appeals. The reassessment for the 2003 taxation year is found at Tab 6 of Exhibit R-1, and that for 2004 is at Tab 7. In those reassessments the Minister took the position that Mr. Papp had no professional income or expenses in either year, and that his income was:
+2003
+2004
+Employment income from Fan
+$32,000
+$6,600
+Employment income from Incentive Depot Inc.
+1,307
+Income from RRSP and dividends
+371
+4,153
+Total
+$32,371
+$12,060
+[4] Exhibit A-3 is a summary prepared by Mr. Papp that compares the Minister’s calculation of his employment income from Fan with his own calculation of it. What it shows for 2003 is that the Minister based his assessment on the assumption that Mr. Papp was paid $3,000 per month by Fan for the first four months of 2003, and $2,500 per month for the remainder of the year, a total of $32,000. Mr. Papp’s evidence was that Fan paid him $2,500 per month throughout 2003, a total of $30,000. He testified that in 2004, Fan paid him $800 per month for the first four months of 2004, after which he was let go.
+[5] Exhibit A-1 is Mr. Papp’s bank statements for the months of January to May, 2003. It corroborates Mr. Papp’s evidence that Fan paid him $2,500 per month throughout the year 2003. The evidence is less clear for 2004. It does appear, however, that the Minister’s assessment for 2004 was largely based on a conversation between Mr. Papp and an employee of the Canada Revenue Agency named Tony Edwards. Mr. Edwards was not present to testify at the trial, and Mr. Papp denied the statement said to have been made by him to Mr. Edwards. I prefer Mr. Papp’s evidence to the unsubstantiated hearsay evidence of his conversation with Mr. Edwards that the Minister apparently relied on.
+[6] It seems that Mr. Papp, when he filed his returns for the years under appeal, was quite content to characterize his income from Fan as professional income, although he took a different view of it once he was terminated and applied for employment insurance benefits in 2004. I am of the view that he was correct in 2004, and the Minister apparently reached that conclusion too, as he treated the income from Fan as employment income after the payroll audit. Nothing turns on this, however, as the Minister assumed in assessing that in 2003 and 2004 the appellant did not incur any professional expenses, and this assumption was not displaced by any evidence before me. At the trial, Mr. Papp produced no evidence of his claimed expenses, and he requested that the matter be adjourned to another day so that he could bring that evidence. The Notice of Hearing that was sent to him 2½ months before the trial contains this statement in bold type:
+PLEASE NOTE that all relevant documents in support of the appeal must be available at the hearing of the appeal. In the absence of agreement between the parties about the facts relating to the appeal, they must be established by evidence given under oath or affirmation. All witnesses are subject to cross-examination.
+The Reply to the Notice of Appeal squarely puts in issue in three different places the Minister’s assertion that the appellant did not incur any professional expenses in 2003 and 2004. Appellants cannot expect that hearings will be adjourned simply because they fail to bring with them the evidence that they have been put on notice is required to be available.
+[7] In the result, then, the appellant’s income for 2003, other than the RRSP and dividend income, is $30,000, rather than the $32,000 assessed by the Minister. His income for 2004, other than that from Incentive Depot Inc., RRSP and dividends, is $7,037, as declared by him on his T1 return, rather than $6,600 as assessed. However I cannot increase the Minister’s assessment,[1] so the appeal for 2004 is simply dismissed. The appeal for 2003 is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant’s income for the year is to be reduced by the amount of $2,000. The parties will each bear their own costs.
+Signed at Ottawa, Canada, this 14th day of December, 2009.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2009 TCC 621
+COURT FILE NO.: 2007-1788(IT)I
+STYLE OF CAUSE: VIC PAPP and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Courtenay, British Columbia
+DATE OF HEARING: September 22, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: December 14, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Natasha Reid
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Harris v. M.N.R., [1965] 2 Ex. C.R. 653 ; 64 DTC 5332.

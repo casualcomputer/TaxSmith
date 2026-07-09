@@ -1,0 +1,399 @@
+---
+title: "M.R.N. c. McMahon"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/485272/index.do"
+last_modified: "2020-09-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 CCI 104"
+citation2: ""
+neutral_citation: "2020 CCI 104"
+decision_date: "2020-09-15"
+language: "fr"
+item_id: "485272"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4565
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:57:56.013000+00:00"
+cases_cited_count: 8
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2343ad66a2c874425f77301dd1d2b97d1ea636e77329853aa144f6db212f150a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# M.R.N. c. McMahon
+
+- Citation: 2020 CCI 104
+- Decision date: 2020-09-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4565, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+M.R.N. c. McMahon
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2020-09-15
+Référence neutre
+2020 CCI 104
+Numéro de dossier
+2015-2676(IT)G, 2016-5317(IT)I, 2017-1117(IT)G, 2017-3153(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2676(IT)G
+ENTRE :
+LE MINISTRE DU REVENU NATIONAL,
+demandeur,
+et
+DANIEL McMAHON,
+défendeur.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête tranchée par voie d’observations écrites
+Devant : L’honorable juge David E. Graham
+Participants :
+Avocats du demandeur :
+Me Jenna Clark
+Me Priya Bains
+Me John Chapman
+Me Sandra Tsui
+Avocat du défendeur :
+Me Charles Haworth
+ORDONNANCE
+Des dépens de 900 $ sont adjugés à M. McMahon relativement à la demande déposée aux termes de l’article 174 de la Loi de l’impôt sur le revenu par le ministre du Revenu national.
+Ces dépens sont payables par le ministre immédiatement.
+Aucuns dépens ne sont adjugés à l’égard des observations sur les dépens.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2020.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 13e jour de janvier 2021.
+Mario Lagacé, jurilinguiste
+Dossier : 2016-5317(IT)I
+ENTRE :
+LE MINISTRE DU REVENU NATIONAL,
+demandeur,
+et
+CHARLOTTE PINATE,
+défenderesse.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête tranchée par voie d’observations écrites
+Devant : L’honorable juge David E. Graham
+Participants :
+Avocats du demandeur :
+Me Jenna Clark
+Me Priya Bains
+Me John Chapman
+Me Sandra Tsui
+Avocat de la défenderesse :
+La défenderesse elle-même
+ORDONNANCE
+Des dépens de 131,08 $ sont adjugés à Mme Pinate relativement aux débours engagés à l’égard de la demande déposée aux termes de l’article 174 de la Loi de l’impôt sur le revenu par le ministre du Revenu national.
+Ces dépens sont payables par le ministre immédiatement.
+Aucuns dépens ne sont adjugés à l’égard des observations sur les dépens.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2020.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 13e jour de janvier 2021.
+Mario Lagacé, jurilinguiste
+Dossier : 2017-1117(IT)G
+ENTRE :
+LE MINISTRE DU REVENU NATIONAL,
+demandeur,
+et
+JASON FOROGLOU,
+défendeur.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête tranchée par voie d’observations écrites
+Devant : L’honorable juge David E. Graham
+Participants :
+Avocats du demandeur :
+Me Jenna Clark
+Me Priya Bains
+Me John Chapman
+Me Sandra Tsui
+Avocats du défendeur :
+Me Duane R. Milot
+Me Igor Kastelyanets
+ORDONNANCE
+Des dépens de 5 504 $ sont adjugés à M. Foroglou relativement à la demande déposée aux termes de l’article 174 de la Loi de l’impôt sur le revenu par le ministre du Revenu national.
+Ces dépens sont payables par le ministre immédiatement.
+Aucuns dépens ne sont adjugés parties à l’égard des observations sur les dépens.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2020.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 13e jour de janvier 2021.
+Mario Lagacé, jurilinguiste
+Dossier : 2017-3153(IT)G
+ENTRE :
+LE MINISTRE DU REVENU NATIONAL,
+demandeur,
+et
+NAISHADHSINH BIHOLA,
+défendeur.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête tranchée par voie d’observations écrites
+Devant : L’honorable juge David E. Graham
+Participants :
+Avocat du demandeur :
+Me David Silver
+Avocat du défendeur :
+Le défendeur lui-même
+ORDONNANCE
+Des dépens de 350 $ sont adjugés à M. Bihola relativement à la demande déposée aux termes de l’article 174 de la Loi de l’impôt sur le revenu par le ministre du Revenu national.
+Ces dépens sont payables par le ministre immédiatement.
+Aucuns dépens ne sont adjugés à l’égard des observations sur les dépens.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2020.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 13e jour de janvier 2021.
+Mario Lagacé, jurilinguiste
+Référence : 2020 CCI 104
+Date : 20200915
+Dossier : 2015-2676(IT)G
+ENTRE :
+LE MINISTRE DU REVENU NATIONAL,
+demandeur,
+et
+DANIEL McMAHON,
+défendeur;
+Dossier : 2016-5317(IT)I
+ET ENTRE :
+LE MINISTRE DU REVENU NATIONAL,
+demandeur,
+et
+CHARLOTTE PINATE,
+défenderesse;
+Dossier : 2017-1117(IT)G
+ET ENTRE :
+LE MINISTRE DU REVENU NATIONAL,
+demandeur,
+et
+JASON FOROGLOU,
+défendeur;
+Dossier : 2017-3153(IT)G
+ET ENTRE :
+LE MINISTRE DU REVENU NATIONAL,
+demandeur,
+et
+NAISHADHSINH BIHOLA,
+défendeur.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Graham
+[1] Le ministre du Revenu national a présenté une demande aux termes de l’article 174 de la Loi de l’impôt sur le revenu (la demande). Jason Foroglou, Naishadhsinh Bihola, Charlotte Pinate et Daniel McMahon (collectivement, les contribuables désignés) figuraient parmi les contribuables désignés dans la demande. Le ministre a ensuite retiré la demande. Les contribuables désignés demandent chacun le remboursement des dépens liés à la demande.
+[2] La principale question dont je suis saisi est de savoir si les dépens relatifs à la demande doivent être accordés maintenant ou lorsque les appels des contribuables désignés seront tranchés. Si les dépens devaient être accordés maintenant, la question secondaire est celle de savoir quel montant des dépens devrait être accordé à chacun des contribuables désignés.
+A. Résumé des faits
+[3] Les contribuables désignés ont demandé des crédits d’impôt pour les dons qu’ils affirment avoir faits par l’intermédiaire d’un abri fiscal connu sous le nom de Global Learning Gifting Initiative (programme GLGI). Le ministre du Revenu national a établi de nouvelles cotisations à l’égard de chacun des contribuables désignés, dans lesquelles il a refusé d’accorder ces crédits. Les contribuables désignés ont fait appel de ces refus.
+[4] Des dizaines de milliers d’autres contribuables ont également demandé des crédits d’impôt pour des dons prétendument faits au programme GLGI. La Couronne a instruit deux causes principales. Les contribuables désignés ont choisi de ne pas être liés par ces deux causes principales. Dans la décision Mariano c. La Reine (la décision « Mariano ») [1] , le juge Pizzitelli a rejeté les appels. Il a conclu, entre autres choses, que les appelants « n’avaient pas l’intention libérale de faire leurs dons, qu’ils n’ont pas possédé ou transféré les biens qui étaient l’objet du don en nature, [...] et que le programme était un trompe-l’œil » [2] .
+B. Historique de la demande
+[5] Le paragraphe 174(1) permet au ministre de demander à la Cour de se prononcer sur une question s’il est d’avis qu’elle se rapporte à des cotisations relatives à plusieurs contribuables et qu’il s’agit d’une question tenant à des opérations sensiblement semblables. Conformément au paragraphe 174(2), une demande présentée en application du paragraphe 174(1) doit notamment indiquer la question au sujet de laquelle le ministre demande une décision et le nom des contribuables qu’il souhaite voir liés par cette décision.
+[6] Le ministre a présenté la demande en mai 2016. La demande désignait initialement quatre contribuables et cherchait à déterminer si ces contribuables avaient fait des dons en espèces ou en biens au sens de l’article 118.1 de la Loi de l’impôt sur le revenu à la suite de leur participation au programme GLGI. Ces quatre contribuables avaient déjà déposé des appels concernant leurs nouvelles cotisations portant sur le programme GLGI.
+[7] La demande visait également à nommer environ 17 000 autres contribuables. Il s’agissait de contribuables qui s’étaient opposés aux nouvelles cotisations portant sur le programme GLGI, qui n’avaient pas accepté d’être liés par l’issue de la décision Mariano, qui n’avaient pas encore vu leurs oppositions confirmées par le ministre et qui n’avaient pas encore interjeté appel. Le ministre n’a jamais fourni à la Cour les noms de ces contribuables.
+[8] La demande a ensuite été modifiée à plusieurs reprises pour y ajouter d’autres contribuables particuliers qui avaient également déposé des appels concernant leurs nouvelles cotisations portant sur le programme GLGI.
+[9] M. McMahon était l’un des quatre premiers contribuables désignés dans la demande. M. Foroglou, Mme Pinate et M. Bihola ont été ajoutés à la demande en 2017.
+[10] J’ai été nommé juge chargé de la gestion de l’instance pour la demande et tous les appels interjetés concernant le programme GLGI au printemps 2019. J’avais des préoccupations importantes quant à la possibilité de traiter une demande visant des milliers de contribuables répartis dans tout le pays et qui n’étaient pas représentés de façon commune. J’ai décidé qu’avant de poursuivre, je voulais que le ministre me montre comment il pensait que la demande pouvait fonctionner. Comme il aurait été absurde d’organiser une conférence de gestion d’instance concernant environ 17 000 contribuables afin de déterminer s’il était pratique de traiter une affaire visant un si grand nombre de contribuables, j’ai décidé de procéder ex parte. J’ai demandé au greffe de déterminer la disponibilité du ministre pour une audience ex parte.
+[11] Le 15 avril 2019, peu après avoir reçu ma demande, le ministre a retiré sa demande.
+C. Permission de présenter des observations sur les dépens
+[12] J’ai donné aux 17 contribuables qui avaient été expressément désignés dans la demande la possibilité de présenter des observations concernant les dépens liés à la demande. Seuls les contribuables désignés ont choisi de présenter des observations.
+[13] Comme la Cour ne connaît pas les noms des quelque 17 000 contribuables non désignés auxquels il est fait référence dans la demande, il n’a pas été possible de leur demander de présenter des observations concernant les dépens. Quoi qu’il en soit, étant donné que le ministre n’a jamais informé ces contribuables qu’il souhaitait les inclure dans la demande, il serait difficile de soutenir qu’ils ont engagé des dépens.
+D. Moment de l’adjudication des dépens
+[14] Le ministre fait valoir que les contribuables désignés ont participé à la demande dans le cadre de leurs appels en cours et que, par conséquent, les dépens liés à la demande devraient être déterminés à la fin de l’instruction de ces appels et devraient être adjugés suivant l’issue de la cause. Je ne suis pas d’accord.
+[15] Le ministre confond la demande avec les appels des contribuables désignés. La demande n’était ni une étape dans les appels interjetés par les contribuables désignés ni une instance interlocutoire dans ces recours. Il s’agissait d’une instance totalement distincte que le ministre a introduite en vertu d’une disposition entièrement différente de la Loi sur l’impôt sur le revenu et visant des parties très différentes. Le ministre n’est même pas partie aux appels des contribuables désignés. Sa Majesté la Reine est l’intimée dans ces appels [3] .
+[16] Un appel n’est pas une condition préalable à une demande déposée en application de l’article 174. Les demandes fondées sur l’article 174 peuvent désigner des contribuables qui en sont encore à l’étape de l’opposition, qui ne se sont pas encore opposés ou qui n’ont même pas fait l’objet d’une cotisation. La question à trancher doit simplement « se rapporte[r] à des cotisations, réelles ou projetées, relatives à plusieurs contribuables » [4] .
+[17] Les Règles de la Cour canadienne de l’impôt (procédure générale) (les Règles) prévoient clairement que les dépens peuvent être accordés dans le cadre d’une demande présentée en application de l’article 174, non pas comme une étape d’un appel, mais comme une instance en soi. Le sous-alinéa 1b)(iii) du tarif A de l’annexe II classe le renvoi aux termes de l’article 174 comme une instance de catégorie B.
+[18] Il faut distinguer les demandes fondées sur l’article 174 des demandes présentées au titre de l’article 58 des Règles. Les deux demandes consistent à demander à la Cour de trancher une question précise de droit, de fait ou mixte de fait et de droit. Cependant, une requête fondée sur l’article 58 des Règles est une requête interlocutoire présentée au cours d’un appel existant. Elle ne concerne que les parties à l’appel. En revanche, une demande fondée sur l’article 174 est une instance distincte introduite par le ministre en dehors de tout appel existant. Elle concerne une multitude de parties. Ces parties peuvent intenter leurs propres recours séparément ou ne pas intenter de recours du tout.
+[19] L’alinéa 174(3)b) dispose que les contribuables désignés dans une demande fondée sur l’article 174 peuvent être joints à un appel existant à la discrétion du juge qui instruit la demande. Je peux comprendre que, si la question à trancher dans le cadre d’une demande au titre de l’article 174 était déterminée au cours d’un tel appel, il serait généralement à la fois pratique et approprié de traiter les dépens liés à la demande en même temps que les dépens liés à l’appel. En effet, tout contribuable joint à un appel devient partie à l’appel et, par conséquent, les contribuables qui étaient parties à la demande et à l’appel seraient identiques.
+[20] Toutefois, le raisonnement ci-dessus ne s’applique pas aux affaires dont je suis saisi. La demande n’a jamais été jointe à un appel, et encore moins aux appels des contribuables désignés. Depuis que le ministre a retiré la demande, cette instance est maintenant terminée. La demande n’aura aucune incidence sur l’issue des appels des contribuables désignés. Alors pourquoi les contribuables désignés devraient-ils attendre de recevoir les dépens et pourquoi leur succès ou leur échec dans leurs appels devrait-il avoir une incidence sur les dépens liés à la demande?
+[21] En affirmant que les dépens devraient être pris en compte, le ministre dit que, si les contribuables désignés perdent en appel, Sa Majesté la Reine devrait se voir adjuger les dépens liés à la demande. C’est illogique. Un exemple illustre pourquoi. Comme il est indiqué ci-dessus, la demande comprenait environ 17 000 contribuables non désignés qui avaient déposé des oppositions, mais qui n’avaient pas encore interjeté appel. Supposons que le ministre ait effectivement signifié la demande à ces 17 000 contribuables et que ces contribuables aient chacun pris des mesures pour traiter la demande avant que le ministre ne la retire. Ces contribuables auraient droit aux dépens relativement à la demande. Leur droit aux dépens existerait malgré le fait qu’ils n’aient jamais fait appel devant la Cour. Ils recevraient des dépens pour la demande parce qu’ils sont des parties à la demande. Leur droit à ces dépens ne changerait pas s’ils finissaient par déposer des appels devant la Cour ou si ces appels étaient rejetés. Pourquoi, alors, le droit des contribuables désignés aux mêmes dépens devrait-il dépendre de l’issue de leurs appels? Si les contribuables désignés perdent en appel, pourquoi cela devrait-il les empêcher de recevoir les dépens que j’aurais accordés aux 17 000 contribuables qui n’ont jamais déposé d’appel et, au lieu de cela, soumettre les contribuables désignés à l’obligation de payer des dépens relativement à la demande?
+[22] Compte tenu de tout ce qui précède, je conclus que les dépens de la demande devraient être traités maintenant.
+[23] Chacun des contribuables désignés demande des dépens très différents. Bien que les présents motifs concernent les contribuables désignés en tant que groupe, j’ai fondé l’adjudication des dépens sur le redressement particulier demandé par chacun des contribuables désignés.
+E. M. Foroglou
+[24] M. Foroglou demande des dépens s’élevant à 56 500 $. Le ministre soutient que des dépens de 900 $ seraient appropriés.
+[25] En juin 2019, M. Foroglou a présenté un mémoire de frais concernant la demande. Il a demandé des dépens s’élevant à 11 008,01 $. Ces dépens ont été calculés en fonction d’une indemnisation substantielle [5] . J’ai décidé que la question des dépens serait traitée ultérieurement. En décembre 2019, j’ai demandé à toutes les parties de présenter des observations sur les dépens. M. Foroglou a alors présenté un deuxième mémoire de frais. Il m’a demandé de ne pas tenir compte de son premier mémoire de frais et de lui accorder des frais s’élevant à 56 500 $ [6] . Là encore, il a calculé ces dépens en fonction d’une indemnisation substantielle. Pour les motifs suivants, j’estime que le premier mémoire de frais représente une déclaration plus précise des dépens de M. Foroglou liés à la demande que le deuxième mémoire de frais.
+[26] J’ai du mal à comprendre comment les dépens de M. Foroglou liés à la demande ont pu changer de façon aussi spectaculaire entre juin et décembre 2019. Le ministre avait déjà retiré la demande lorsque M. Foroglou a présenté son premier mémoire de frais, de sorte qu’aucuns frais supplémentaires liés à la demande n’auraient pu être engagés après cette période.
+[27] M. Foroglou fait valoir que le mémoire de frais initial [TRADUCTION] « ne tenait pas compte de toutes les conférences de gestion d’instance auxquelles il a participé et des trois années de litige qui se sont déjà écoulées depuis que le [ministre] a déposé la [...] demande ». Le mémoire de frais initial faisait référence à la [TRADUCTION] « participation aux conférences de gestion d’instance »; je dois donc supposer que le coût de la participation aux conférences de gestion d’instance liées à la demande a déjà été pris en compte dans le mémoire de frais initial. Bien qu’il y ait eu de nombreuses autres conférences de gestion d’instance liées à l’appel de M. Foroglou, la question dont je suis saisi ne concerne pas l’adjudication des dépens dans le cadre de son appel. La question qui se pose à moi est de savoir s’il convient d’accorder les dépens relatifs à la demande. Je n’accorde pas de dépens pour d’autres mesures que M. Foroglou a pu prendre en rapport avec son appel pendant la période où la demande était en instance.
+[28] Le deuxième mémoire de frais renvoie aux « clients ». Le renvoi aux « clients » suppose que le deuxième mémoire de frais puisse inclure des honoraires relatifs à des personnes autres que M. Foroglou.
+[29] Les observations de M. Foroglou sur les dépens renvoient également à la longueur de la réponse, au nombre de documents dans la liste des documents énumérés et à la longueur de cette liste. Ces éléments sont liés à l’appel de M. Foroglou. Ils n’ont rien à voir avec la demande. Le fait que des renvois à ces documents aient été inclus dans les observations de M. Foroglou suggère en outre que celui-ci demande le remboursement des dépens pour d’autres éléments que la demande.
+[30] L’affidavit de Heather Thompson déposé avec les observations de M. Foroglou fait référence aux points suivants, qui se rapportent tous à son appel plutôt qu’à la demande :
+a) une conférence de gestion d’instance tenue le 21 juin 2019;
+b) une conférence de gestion d’instance tenue le 17 décembre 2019;
+c) la correspondance relative à l’achèvement des prochaines étapes requises pour mettre en état le dossier d’appel;
+d) la correspondance relative au déroulement de son appel.
+[31] Là encore, le renvoi de Mme Thompson à ces questions suppose que les dépens présentés dans le deuxième mémoire de frais de M. Foroglou concernent des éléments autres que la demande.
+[32] Compte tenu de ce qui précède, j’estime que le premier mémoire de frais représente une déclaration plus précise des dépens de M. Foroglou liés à la demande que le deuxième mémoire de frais. Je vais donc utiliser le premier mémoire de frais pour le reste de mon analyse.
+[33] Le paragraphe 147(3) des Règles énonce les facteurs que la Cour peut prendre en considération lors de l’adjudication des dépens. Je vais examiner ces facteurs ci-dessous.
+Résultat de l’instance
+[34] Le ministre a retiré la demande. Très peu de choses se sont produites avant ce retrait. Cela plaide en faveur d’une réduction des dépens.
+La somme en cause
+[35] Si la demande avait été instruite, la question que le ministre cherchait à trancher aurait très probablement permis de résoudre les appels de M. Foroglou d’une manière ou d’une autre. Par conséquent, je considère que la somme en cause dans les appels de M. Foroglou est un facteur pertinent dans la détermination de ses dépens. M. Foroglou conteste environ 400 000 $ de taxes et d’intérêts. Cette somme plaide en faveur d’une légère augmentation des dépens.
+L’importance des questions en litige
+[36] Traditionnellement, la plupart des demandes fondées sur l’article 174 concernaient deux contribuables qui étaient liés d’une manière ou d’une autre (par exemple, un mari et son épouse; un acheteur et un vendeur). Ces dernières années, le ministre a commencé à utiliser les demandes fondées sur l’article 174 pour tenter de traiter avec des groupes importants de contribuables. Comme il s’agit d’un développement récent, il n’y avait pas de jurisprudence sur cette utilisation de l’article 174 au moment où le ministre a présenté la demande.
+[37] Si la demande avait été instruite, elle aurait permis de faire la lumière sur un certain nombre de questions procédurales importantes. Plus précisément, elle aurait contribué à l’évolution du droit concernant le type de questions qui sont à juste titre posées dans une demande au titre de l’article 174, les droits des contribuables désignés dans une demande fondée sur l’article 174 de comparaître devant la Cour dans le cadre de cette demande, la signification appropriée aux contribuables désignés dans une demande fondée sur l’article 174 et la mesure dans laquelle la Cour a le pouvoir discrétionnaire de rejeter une demande au titre de l’article 174 au motif qu’il n’est pas possible ni pratique d’assurer l’équité procédurale pour toutes les parties. Ces questions auraient certainement été importantes pour l’évolution du droit fiscal, pour l’intérêt du public et pour un grand nombre de personnes. Par conséquent, ce facteur plaide en faveur d’une augmentation des dépens.
+Les offres de règlement
+[38] Aucune offre de règlement n’a été échangée concernant la demande.
+La complexité des questions en litige
+[39] Comme il est indiqué ci-dessus, les questions de procédure soulevées dans la demande étaient à la fois nouvelles et complexes. Ce facteur plaide en faveur d’une augmentation des dépens.
+La charge de travail
+[40] Le mémoire de frais initial soumis par M. Foroglou couvre clairement plus que le simple temps que son avocat a passé à examiner la demande et à assister aux conférences de gestion d’instance. Bien que la demande n’ait pas été suffisamment approfondie pour traiter les questions de procédure décrites ci-dessus, il est tout à fait compréhensible que M. Foroglou ait dû engager des honoraires d’avocat pour essayer de comprendre ces questions et se préparer à les traiter. Il convient que les dépens attribués à M. Foroglou représentent ces honoraires.
+Les étapes accomplies de manière négligente, par erreur ou avec trop de circonspection
+[41] J’estime que la décision du ministre de présenter la demande était une erreur. Il aurait dû être clair et évident pour le ministre qu’il ne serait jamais pratique de poursuivre la demande.
+[42] Le ministre a tenté de désigner environ 17 000 contribuables dans la demande. Je ne dispose d’aucune information sur ces contribuables, mais, à en juger par le nombre de contribuables dont les appels concernant le programme GLGI ont été entendus par la Cour, il est juste de supposer qu’ils résident dans de nombreuses villes de différentes provinces et qu’ils agissent pour leur propre compte, ou qu’ils ont été représentés par un certain nombre d’avocats ou de représentants différents. La tenue d’une seule audience concernant un groupe aussi important et disparate de contribuables aurait été tout à fait impraticable.
+[43] Le ministre ne peut pas avoir pensé que la Cour pouvait tenir une audience à laquelle autant de parties seraient convoquées. Dans ces circonstances, la seule explication logique du dépôt de la demande par le ministre est qu’il a supposé à tort que les contribuables désignés dans une demande fondée sur l’article 174 n’auraient pas le droit de participer à la demande.
+[44] L’article 174 est un outil puissant et, correctement utilisé, il peut se révéler d’une importante efficacité, mais rien dans cet article ne laisse entendre que le législateur avait l’intention de priver les contribuables de leurs droits juridiques fondamentaux. Rien n’indique que le législateur avait l’intention de permettre au ministre de simplement désigner les contribuables dont les cotisations, selon lui, avaient en commun une question relative à plusieurs autres contribuables et, ce faisant, que ces contribuables désignés soient liés par ce que la Cour aurait déterminé comme étant la réponse à cette question sans jamais leur donner l’occasion :
+a) de contester la nécessité de les désigner;
+b) de contester la pertinence de la question;
+c) de présenter des observations sur la manière dont la question devrait être tranchée;
+d) de déterminer si, aux termes de l’alinéa 174(3)b), ils devraient être groupés comme parties à l’appel d’un autre contribuable et, s’ils étaient groupés, de participer à toutes les étapes de cet appel;
+e) et surtout, de participer au processus qui mènera à la décision sur la question.
+[45] Si le ministre avait pensé que tous les contribuables désignés dans la demande auraient eu le droit de participer au processus, elle n’aurait jamais présenté la demande. En ne le faisant pas, elle a fait en sorte que M. Foroglou a engagé des dépens inutiles importants. Ce facteur pèse très lourdement en faveur d’une adjudication plus élevée des dépens.
+La conduite d’une partie ayant abrégé ou prolongé la durée de l’instance
+[46] Il n’y a eu aucune preuve d’une quelconque conduite ayant abrégé ou prolongé la durée de l’instance.
+La dénégation d’un fait ou le refus de l’admettre
+[47] Rien n’indique que l’une ou l’autre des parties ait nié ou refusé d’admettre quoi que ce soit qui aurait dû être admis.
+Les étapes inappropriées, vexatoires ou inutiles
+[48] Aucun élément de preuve n’indique qu’une étape quelconque de l’instance était inappropriée, vexatoire ou inutile. L’absence de tels éléments de preuve est importante, car M. Foroglou a demandé des dépens en fonction d’une indemnisation substantielle.
+[49] Il existe une différence importante entre le fait de présenter une demande de bonne foi fondée sur une mauvaise compréhension des questions de procédure en jeu et le fait de présenter une demande de mauvaise foi. Rien n’indique que le ministre était de mauvaise foi. Au contraire, il semble que le ministre ait tenté de résoudre un nombre important de litiges fiscaux de la manière qu’il estimait la plus efficace possible.
+Les facteurs non pertinents
+[50] Je pense qu’il est important de souligner un certain nombre de facteurs qui ne sont pas pertinents dans ma décision sur les dépens.
+[51] M. Foroglou soutient que l’augmentation des dépens est justifiée parce que le ministre n’a pas délivré d’avis de ratification aux quelque 17 000 contribuables qui en sont encore au stade de l’opposition. La décision du ministre quant à la pertinence et à l’opportunité de délivrer des avis de ratification à d’autres contribuables n’a aucune incidence sur les dépens de M. Foroglou en ce qui concerne la demande. M. Foroglou a déposé une requête distincte sur cette question dans le cadre de son appel. Je répondrai à ses préoccupations sur la question lorsque je traiterai de cette requête.
+[52] M. Foroglou soutient également que l’augmentation des dépens est justifiée en raison des retards dans l’instruction de ses appels. L’avocat de l’intimée (Sa Majesté la Reine) dans le cadre de l’appel de M. Foroglou a demandé que l’appel soit mis en suspens et que l’intimée soit libérée de son obligation de déposer une réponse jusqu’à ce qu’il soit statué sur la demande. Cela a eu pour effet de retarder d’environ 25 mois la résolution de l’appel de M. Foroglou [7] . Étant donné que, dans un premier temps, la demande n’aurait pas dû être présentée, cette mise en suspens était inutile.
+[53] Toutefois, dans la mesure où le retard est un facteur qui devrait être pris en compte lors de la détermination des dépens, les dépens en question seraient les dépens relatifs à l’appel de M. Foroglou. Comme il est indiqué ci-dessus, la demande et l’appel sont deux instances distinctes. J’accorde les dépens relatifs à la demande, et non à l’appel. Les dépens relatifs à l’appel seront adjugés, le cas échéant, par le juge de première instance et dépendront en grande partie de la réussite ou non de M. Foroglou dans son appel. Dans la mesure où le juge de première instance décide d’adjuger les dépens à M. Foroglou, il sera mieux à même d’équilibrer la mise en suspend inutile et les autres facteurs liés aux dépens en ce qui concerne l’appel.
+[54] Le ministre a informé la Cour qu’il a déclaré à M. Foroglou qu’il renonçait à tout intérêt accumulé sur l’obligation fiscale de M. Foroglou pendant la période comprise entre le dépôt de la demande et son retrait. À mon avis, cette renonciation est appropriée.
+Résumé
+[55] M. Foroglou a demandé des dépens indemnitaires substantiels. La demande n’aurait jamais dû être présentée, mais rien n’indique que le ministre avait une mauvaise intention lorsqu’il l’a soumise. Il semble que le ministre ait tenté de résoudre un nombre important de litiges fiscaux de la manière qu’il estimait la plus efficace possible. Dans ces circonstances, des dépens indemnitaires substantiels ne sont pas appropriés, mais une augmentation des dépens l’est. J’accorde à M. Foroglou des dépens de 5 504 $, soit 40 % de ses dépens [8] .
+F. M. McMahon
+[56] M. McMahon demande 900 $ au titre des dépens. Il s’agit des dépens liés à l’examen de la demande et à la participation à trois conférences de gestion d’instance. Ces dépens sont calculés conformément au tarif établi pour une instance de catégorie B. Le ministre admet que, si j’estime que les dépens relatifs à la demande doivent être traités maintenant, la somme de 900 $ est un montant raisonnable de dépens à adjuger à M. McMahon. Par conséquent, je lui accorderai 900 $ au titre des dépens.
+[57] Je reconnais que les dépens accordés à M. McMahon sont sensiblement inférieurs à ceux accordés à M. Foroglou. Je présume que M. McMahon a demandé des dépens correspondant aux dépenses qu’il a engagées. Mon rôle est de déterminer si ces dépens doivent être adjugés. Il ne s’agit pas de remettre en cause les dépens réels qu’il a engagés ni de lui accorder des dépens qu’il n’a pas demandés [9] .
+G. Mme Pinate
+[58] Mme Pinate demande des dépens de 12 191,08 $ à titre de dépens, dont :
+a) 131,08 $ à titre de débours pour le coût d’une transcription d’une des conférences téléphoniques de gestion d’instance;
+b) 180 $ pour la participation à trois conférences de gestion d’instance;
+c) 180 $ pour la participation d’un « témoin » à ces conférences de gestion d’instance;
+d) 3 825 $ pour la lecture de toute la correspondance de l’ARC relative à la demande;
+e) 7 650 $ pour répondre à toute la correspondance de l’ARC relative à la demande;
+f) 225 $ pour des appels téléphoniques visant à obtenir des conseils et des renseignements juridiques sur l’article 174.
+Fixation des dépens
+[59] Le ministre accepte que Mme Pinate ait droit à la somme de 131,08 $ de dépens pour le coût d’une transcription d’une des conférences téléphoniques de gestion d’instance. Je lui accorderai des dépens à hauteur de cette somme.
+[60] Mme Pinate agit pour son propre compte. Le reste de sa demande concerne le temps qu’elle a elle-même consacré à son dossier. Elle évalue son temps à 30 $ l’heure. Le ministre estime que Mme Pinate ne devrait pas être indemnisée pour son propre temps.
+[61] L’adjudication des dépens aux parties qui agissent pour leur propre compte pour le temps qu’elles consacrent à leur dossier n’est ni automatique ni courante, mais est plutôt laissée à la discrétion du juge. Pour les raisons suivantes, j’estime que le dossier de Mme Pinate n’est pas un dossier dans lequel je devrais exercer ce pouvoir discrétionnaire.
+[62] Les principales décisions relatives à l’adjudication des dépens à des parties qui agissent pour leur propre compte sont les deux arrêts de la Cour d’appel fédérale dont l’intitulé est Sherman c. Canada (Ministre du Revenu national) [10] . M. Sherman était un avocat agissant pour son propre compte. La Cour d’appel fédérale lui a accordé des dépens pour le temps qu’il a passé « à faire le travail normalement accompli par l’avocat qui l’aurait représenté s’il avait eu recours à un avocat pour conduire le litige » et qui ne comprenait pas de démarches dans le litige qui auraient de toute façon nécessité sa présence [11] . La Cour a estimé que les dépens de ce type accordés à une partie qui agit pour son propre compte devraient généralement être inférieurs à ceux qui auraient été accordés à un avocat et ne devraient jamais dépasser le tarif prévu. La Cour a accordé à M. Sherman « un montant raisonnable pour le temps et les efforts que l’appelant a consacrés à la préparation et à la présentation de la cause [...] sur preuve que, ce faisant, [l’appelant] a engagé un coût d’opportunité en renonçant à une activité rémunératrice [12] ».
+[63] En accordant des dépens à M. Sherman, la Cour d’appel fédérale semble avoir été considérablement influencée par la valeur de sa contribution au processus. La Cour a fait référence au fait que M. Sherman était « un fiscaliste renommé », soulevant « de nouvelles questions d’intérêt public », qu’il avait eu « un comportement tout à fait approprié pendant tout le déroulement du litige », que son travail étant de « bonne qualité » et qu’il avait formulé des observations « bien documentées et [qui] lui ont été utiles » [13] .
+[64] Malgré le grand nombre de contribuables qui agissent pour leur propre compte devant la Cour, les arrêts Sherman n’ont pas été largement appliqués. Je n’ai connaissance de l’application de ces arrêts que dans le cadre de deux appels [14] . Ces deux appels concernaient des avocats agissant pour leur propre compte.
+[65] Je ne vois rien de particulier dans la situation de Mme Pinate qui justifierait l’adjudication de ses dépens pour le temps qu’elle a consacré à son dossier. Elle n’a fourni aucune assistance particulière à la Cour ni offert une expertise particulière. Dans la mesure où la Cour a examiné de nouvelles questions, ces questions ont été soulevées à la suite du dépôt de la demande par le ministre et non à la suite d’une mesure prise par Mme Pinate. En outre, rien n’indique que Mme Pinate ait perdu une quelconque activité rémunératrice.
+[66] Je comprends le fait que Mme Pinate a dû assumer un surcroît de travail parce que le ministre a cru à tort qu’il était approprié de présenter la demande. Mais cela ne me suffit pas pour accorder à Mme Pinate des dépens pour le temps qu’elle a personnellement consacré à son dossier. Mon point de vue sur cette question aurait été différent si j’avais constaté que le ministre avait présenté la demande de mauvaise foi. Dans ces circonstances, j’aurais envisagé d’accorder à Mme Pinate une petite somme au titre des dépens, non pas à titre de compensation pour le temps qu’elle aurait consacré, mais plutôt à titre dissuasif.
+[67] Compte tenu de tout ce qui précède, je n’accorderai pas de dépens à Mme Pinate pour le temps qu’elle a personnellement consacré à son dossier.
+Mesure de redressement subsidiaire
+[68] Si je me trompe et que des dépens doivent être attribués à Mme Pinate pour le temps qu’elle a personnellement consacré à son dossier, j’accorderais 300 $ au titre des dépens, soit 50 $ pour chacune des quatre conférences téléphoniques de gestion d’instance auxquelles elle a participé et 100 $ pour l’examen de la demande. J’en arrive à cette conclusion pour les deux motifs suivants.
+[69] Premièrement, j’ai des doutes au sujet des sommes demandées par Mme Pinate. Il semble que Mme Pinate ait tenté de réclamer des dépens non liés à la demande. Mme Pinate fait expressément référence au fait qu’elle a investi du temps [TRADUCTION] pendant « plus de 10 ans » [15] . Mme Pinate a déposé son avis d’appel en décembre 2016. Par conséquent, si elle demande des dépens relativement au temps qu’elle a consacré à son dossier pendant plus de 10 ans, je dois supposer qu’elle a inclus le temps qu’elle a passé à préparer son avis d’appel, à traiter les appels de l’ARC et, possiblement, à répondre à la vérification. J’accorde des dépens en ce qui concerne la demande, et non l’appel interjeté par Mme Pinate, et certainement pas pour ce qui est du temps consacré à son dossier avant de présenter son appel.
+[70] Deuxièmement, l’arrêt Sherman dispose que les dépens accordés doivent être généralement inférieurs à ceux qui seraient accordés aux avocats et ne devraient jamais dépasser le tarif prévu. Les sommes demandées par Mme Pinate dépassent de loin les 900 $ de droits judiciaires prévus au tarif que j’ai accordés à M. McMahon pour les services de son avocat et dépassent même les quelque 12 177 $ de frais judiciaires (avant la TVH) qui ont été engagés par M. Foroglou dans le cadre de la demande.
+Retard à instruire l’appel
+[71] Mme Pinate s’est vigoureusement opposée à ce que son appel soit mis en suspens pendant l’instruction de la demande. Elle a soulevé cette question à plusieurs reprises au cours de l’instance. J’estime que l’appel de Mme Pinate a été retardé de 27 mois en raison de la demande [16] . Étant donné que la demande n’aurait pas dû être présentée au départ, cette mise en suspens était inutile.
+[72] Comme il est indiqué dans mon analyse des dépens de M. Foroglou, tous les dépens découlant du retard à instruire l’appel seraient des dépens relatifs à l’appel de Mme Pinate. La demande et l’appel sont deux instances distinctes. J’accorde les dépens relatifs à la demande, et non à l’appel. Les dépens relatifs à l’appel seront adjugés, le cas échéant, par le juge de première instance et dépendront en grande partie de la réussite ou non de Mme Pinate dans son appel. Dans la mesure où le juge de première instance décide d’adjuger les dépens à Mme Pinate, il sera mieux à même d’équilibrer la mise en suspens inutile et les autres facteurs liés aux dépens en ce qui concerne l’appel.
+[73] Le ministre a informé la Cour qu’il renoncerait à tout intérêt accumulé sur l’obligation fiscale de Mme Pinate pendant la période comprise entre le dépôt de la demande et son retrait. À mon avis, cette renonciation est appropriée.
+Résumé
+[74] En fonction de ce qui précède, j’attribue des dépens de 131,08 $ à Mme Pinate.
+H. M. Bihola
+[75] M. Bihola agit également pour son propre compte. Ses observations ne précisent pas exactement les dépens qu’il demande. La plupart des éléments qu’il décrit dans ses observations semblent être l’impôt et les intérêts en litige dans son appel. La seule somme qui semble se rapporter aux dépens est une demande de 5 000 $ au titre [TRADUCTION] « des dépenses totales engagées de 2012 à déc. 2019 ». J’ai demandé à M. Bihola de fournir plus de détails sur cette somme. M. Bihola n’a fourni aucun autre renseignement. Étant donné que M. Bihola agit pour son propre compte, il semble très peu probable que la somme de 5 000 $ qu’il a réclamée se rapporte à autre chose qu’au temps qu’il a consacré personnellement à son dossier. La période à laquelle il fait référence indique également qu’il réclame des dépens à la fois pour son appel et pour des faits survenus avant son appel.
+[76] Comme je l’ai indiqué dans mon analyse des dépens de Mme Pinate, la Cour n’accorde normalement pas de dépens aux contribuables qui agissent pour leur propre compte pour le temps qu’ils ont consacré eux-mêmes au litige. Je juge que ce n’est pas une situation où il serait approprié de s’écarter de cette pratique générale. Par conséquent, dans des circonstances normales, je n’accorderais aucuns dépens à M. Bihola. Toutefois, le ministre a concédé que, si des dépens doivent être accordés maintenant, il serait approprié d’accorder la somme de 350 $ à ce titre à M. Bihola. Cela est étrange compte tenu de la position que le ministre a adoptée à l’égard de Mme Pinate [17] . Toutefois, il ne m’appartient pas de remettre en cause une concession faite par une partie. Par conséquent, j’accorderai 350 $ au titre des dépens à M. Bihola.
+[77] À l’instar de M. Foroglou et de Mme Pinate, M. Bihola s’est opposé à ce que son appel soit mis en suspens pendant l’instruction de la demande. Comme il est indiqué ci-dessus, M. Bihola est invité à soulever cette question auprès du juge de première instance une fois que les dépens auront été taxés en ce qui concerne l’appel.
+I. Résumé
+[78] Des dépens de 5 504 $ sont adjugés à M. Foroglou. Des dépens de 900 $ sont adjugés à M. McMahon. Des dépens de 131,08 $ sont adjugés à Mme Pinate. Des dépens de 350 $ sont adjugés à M. Bihola. Tous ces dépens sont exigibles immédiatement.
+[79] Aucuns dépens ne sont adjugés à l’égard des observations sur les dépens.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2020.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme,
+ce 13e jour de janvier 2021.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2020 CCI 104
+NOS DES DOSSIERS DE LA COUR :
+2015-2676(IT)G
+2016-5317(IT)I
+2017-1117(IT)G
+2017-3153(IT)G
+INTITULÉS :
+Le Ministre du Revenu national c. Daniel McMahon
+Le Ministre du Revenu national c. Charlotte Pinate
+Le Ministre du Revenu national c. Jason Foroglou
+Le Ministre du Revenu national c. Naishadhsinh Bihola
+LIEU DE L’AUDIENCE :
+Requête tranchée par voie d’observations écrites
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Graham
+DATE DE L’ORDONNANCE :
+Le 15 septembre 2020
+PARTICIPANTS :
+Avocats pour le demandeur en ce qui concerne Daniel McMahon, Jason Foroglou et Charlotte Pinate :
+Me Jenna Clark
+Me Priya Bains
+Me John Chapman
+Me Sandra Tsui
+Avocat pour le demandeur en ce qui concerne Naishadhsinh Bihola :
+Me David Silver
+Avocat pour le défendeur Daniel McMahon :
+Pour la défenderesse Charlotte Pinate :
+Pour le défendeur Naishadhsinh Bihola :
+Avocats pour le défendeur Jason Foroglou :
+Me Charles Haworth
+La défenderesse elle-même
+Le défendeur lui-même
+Me Duane R. Milot
+Me Igor Kastelyanets
+AVOCATS INSCRITS AU DOSSIER :
+Pour le demandeur :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+Pour le défendeur
+Daniel McMahon :
+Nom :
+Me Charles Haworth
+Cabinet :
+Radnoff Law Offices
+Pour le défendeur
+Jason Foroglou :
+Nom :
+Me Duane R. Milot
+Me Igor Kastelyanets
+Cabinet :
+Milot Law
+[1] 2015 CCI 244.
+[2] Décision Mariano, au paragraphe 146.
+[3] Pour des raisons de commodité administrative, ces affaires sont enregistrées dans le système de greffe de la Cour sous les numéros de dossier utilisés pour chacun des appels des contribuables désignés. Cela ne change rien au fait qu’il s’agit d’instances entièrement distinctes. Cette situation présente plutôt certains défis technologiques auxquels la Cour est confrontée dans le cadre de son système actuel de gestion d’instance.
+[4] Paragraphe 174(1).
+[5] M. Foroglou a demandé 80 % de ses dépens totaux (y compris la TVH) s’élevant à 13 760,01 $.
+[6] Cela représente environ 80 % des dépens totaux de M. Foroglou (y compris la TVH).
+[7] Il s’agit du nombre de mois entre la date qui se situait 60 jours après la date à laquelle le greffe a signifié l’avis d’appel de M. Foroglou au ministère de la Justice et la date à laquelle la réponse a été effectivement signifiée.
+[8] Les dépens de M. Foroglou s’élevaient à 13 760,01 $, TVH comprise.
+[9] Kibalian c. La Reine, 2019 CAF 160, aux paragraphes 14 à 17.
+[10] 2003 CAF 202 et 2004 CAF 29.
+[11] 2003 CAF 202, au paragraphe 52.
+[12] 2003 CAF 202, au paragraphe 52.
+[13] 2004 CAF 29, au paragraphe 15.
+[14] Landry c. La Reine (2009 CCI 154) et Wetzel c. La Reine (2004 CCI 767). Dans la décision Preston c. La Reine (2007 CCI 761), le juge en chef Bowman a renvoyé à l’arrêt Sherman, mais a déclaré que sa décision était finalement davantage conforme à la décision de la Cour d’appel fédérale dans l’arrêt Turner c. La Reine (2003 CAF 173).
+[15] Lettre de Mme Pinate à l’intimée contenant un mémoire de frais révisé daté du 5 mars 2020.
+[16] J’estime que l’appel a été mis en suspens de février 2017 à avril 2019.
+[17] Cette différence peut s’expliquer par le fait que les observations du ministre concernant Mme Pinate ont été présentées par un avocat différent de celui qui a présenté les observations concernant M. Bihola.

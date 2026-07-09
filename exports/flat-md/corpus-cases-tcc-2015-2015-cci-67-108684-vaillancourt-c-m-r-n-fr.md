@@ -1,0 +1,191 @@
+---
+title: "Vaillancourt c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/108684/index.do"
+last_modified: "2015-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 67"
+citation2: ""
+neutral_citation: "2015 CCI 67"
+decision_date: "2015-03-18"
+language: "fr"
+item_id: "108684"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2842
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:39:01.900000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "026461cf4f37e25c0a211d82046d1c1d0630289b55275372e70c136ec4972db9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vaillancourt c. M.R.N.
+
+- Citation: 2015 CCI 67
+- Decision date: 2015-03-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2842, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vaillancourt c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-03-18
+Référence neutre
+2015 CCI 67
+Numéro de dossier
+2008-1525(EI), 2008-1526(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-1525(EI)
+ENTRE :
+DAVE VAILLANCOURT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu sur preuve commune avec l’appel de 9158-3658 Québec inc. (2008-1526(EI)), le 15 janvier 2015, à Montréal (Québec).
+Devant : L’honorable juge suppléant Paul Bédard
+Comparutions :
+Avocat de l’appelant :
+Me Gilbert Nadon
+Avocat de l’intimé :
+Me Mounes Ayadi
+JUGEMENT
+Selon les motifs du jugement ci-joints, l’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté et la décision que le ministre du Revenu national a rendue le 18 février 2008 est confirmée.
+Signé à Ottawa, Canada, ce 18e jour de mars 2015.
+« Paul Bédard »
+Le juge suppléant Bédard
+Dossier : 2008-1526(EI)
+ENTRE :
+9158-3658 QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+Appel entendu sur preuve commune avec l’appel de Dave Vaillancourt (2008-1525(EI)), le 15 janvier 2015, à Montréal (Québec).
+Devant : L’honorable juge suppléant Paul Bédard
+Comparutions :
+Avocat de l’appelante :
+Me Gilbert Nadon
+Avocat de l’intimé :
+Me Mounes Ayadi
+JUGEMENT
+Selon les motifs du jugement ci-joints, l’appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi est rejeté et la décision que le ministre du Revenu national a rendue le 18 février 2008 est confirmée.
+Signé à Ottawa, Canada, ce 18e jour de mars 2015.
+« Paul Bédard »
+Le juge suppléant Bédard
+Référence : 2015 CCI 67
+Date : 20150318
+Dossiers : 2008-1525(EI)
+2008-1526(EI)
+ENTRE :
+DAVE VAILLANCOURT,
+9158-3658 QUÉBEC INC.,
+appelants,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Bédard
+[1] Il s’agit d’appels entendus sur preuve commune.
+[2] Le 31 décembre 2007, la société 9158-3658 Québec inc. (l’« appelante » ou le « payeur ») a demandé à l’intimé de statuer sur la question de savoir si messieurs Dave et Roger Vaillancourt (les « travailleurs ») avaient exercé un emploi assurable du 26 décembre 2005 au 2 juin 2006, et de plus, dans le cas de M. Roger Vaillancourt, du 2 juillet 2006 au 14 avril 2007, alors qu’ils étaient à son service. Par lettres du 18 février 2008, le ministre du Revenu national (le « ministre ») informa l’appelante et les travailleurs de ses décisions selon lesquelles ces derniers n’occupaient pas un emploi assurable. L’appelante appelle de la décision rendue à l’égard de M. Roger Vaillancourt et de M. Dave Vaillancourt et ce dernier appelle de la décision rendue à son égard.
+[3] Pour rendre ses décisions, le ministre a déterminé que les travailleurs n’exerçaient pas un emploi aux termes d’un contrat de louage de services en s’appuyant sur les hypothèses de fait suivantes :
+a) le payeur a été constitué en société le 5 juillet 2005;
+b) au moment de sa constitution, les actionnaires du payeur étaient :
+- Fernand Lebeau, actionnaire majoritaire,
+- Isabelle Gervais, 2ième actionnaire;
+c) le 1er mai 2006, Fernand Lebeau a remis sa démission à titre d’administrateur, de président et de secrétaire du payeur;
+d) le 1er mai 2006, Mme Isabelle Gervais devenait l’unique actionnaire du payeur;
+e) selon le registraire des entreprises, le payeur faisait la vente et la transformation de bois brut;
+f) selon la version fournie à l’agent de décision, le payeur achetait du bois aux États-Unis et il le revendait;
+g) selon la version de l’appelant et de Mme Isabelle Gervais, le payeur se spécialisait dans l’achat, la vente et la pose de plancher de bois franc;
+h) le payeur ne fabriquait pas et ne transformait pas le bois;
+i) la place d’affaires du payeur était située dans un local au 686, route Gagné à Saint-Justin;
+j) tous les documents du payeur étaient cependant situés dans la résidence de Mme Isabelle Gervais à Trois-Rivières;
+k) dans sa demande de prestations datée du 16 juin 2006, l’appelant a mentionné qu’il n’avait aucun lien de parenté avec les actionnaires du payeur alors que Mme Isabelle Gervais est sa conjointe de fait depuis plusieurs années;
+l) depuis le 10 janvier 2001, l’appelant exploitait, à parts égales avec son père Roger, la compagnie Les Équipements L.V. inc.;
+m) Les Équipements L.V. inc. fabriquait des panneaux de bois pour des industries fabriquant des meubles sous la raison sociale Boiserie Vaillancourt;
+n) Les Équipements L.V. inc. a fait faillite le 18 avril 2006;
+o) durant les périodes en litige, l’appelant prétend qu’il était vendeur de bois pour le payeur;
+p) l’appelant prétend qu’il recevait ses directives des clients du payeur par téléphone ou par internet;
+q) l’appelant n’avait aucun horaire de travail à respecter, il ne se rappelait pas de ses heures de travail;
+r) le payeur ne possédait aucun numéro de téléphone à sa place d’affaires mais l’appelant possédait un cellulaire où il pouvait être joint en tout temps;
+s) l’appelant pouvait donner les prix par téléphone aux clients ou il pouvait se rendre chez un client pour faire une soumission;
+t) l’appelant n’avait pas à être dirigé dans son travail car il avait de l’expérience;
+u) l’appelant ne pouvait préciser le salaire qu’il retirait en travaillant pour le payeur;
+v) un document du payeur (calendrier de l’année 2006) indique que l’appelant aurait reçu un salaire net de 565,69 $ du payeur de janvier 2006 au 2 juin 2006;
+w) des documents confirment que l’appelant a travaillé à plein temps, 40 heures par semaine, pour Les Équipements L.V. inc. entre octobre 2005 et la fin de mars 2006 (soit à l’intérieur des périodes en litige);
+x) un document de la compagnie Les Équipements L.V. inc. indique que l’appelant a touché un salaire de 1 000 $ brut par semaine, pour 40 heures de travail, au cours de la période d’octobre 2005 au 1er avril 2006;
+y) aucun document n’a été soumis par le payeur ou l’appelant pouvant confirmer la présence de l’appelant au travail;
+z) ni l’appelant ni le payeur n’ont pu produire les chèques de paie prétendument versés à l’appelant;
+aa) le 14 juin 2006, M. Fernand Lebeau a signé le relevé d’emploi émis par le payeur au nom de l’appelant, pour la période du 26 décembre 2005 au 2 juin 2006, alors qu’il avait remis sa démission à titre d’administrateur, de président et de secrétaire du payeur et qu’il n’était plus actionnaire du payeur depuis le 1er mai 2006;
+bb) le relevé d’emploi émis par le payeur au nom de l’appelant ne reflète pas la réalité quant à la période de travail, quant aux heures réellement travaillées et quant à la rémunération prétendument versée à l’appelant;
+cc) le 19 octobre 2007, le journal le Nouvelliste publiait un article dévoilant les véritables activités du payeur se déroulant à l’intérieur du local situé au 686, route Gagné à Saint-Justin;
+dd) les activités du payeur à cet endroit étaient de nature illégales [sic] et lors de la perquisition de la police, l’appelant se trouvait à l’intérieur du local;
+ee) les liens unissant l’appelant au payeur ne correspondaient pas à une relation d’employé avec un employeur;
+ff) il y a eu arrangement entre les parties dans l’unique but de permettre à l’appelant de pouvoir se qualifier pour obtenir des prestations d’assurance‑emploi.
+[4] Seul M. Roger Vaillancourt a témoigné à l’appui de la thèse des appelants.
+[5] Il convient de mentionner immédiatement que M. Roger Vaillancourt s’est désisté de son appel avant que la preuve ne soit close, et ce, après avoir admis qu’il n’exerçait pas un emploi assurable au sens de la Loi sur l’assurance-emploi (la « Loi »). Il convient aussi de mentionner que l’appelante s’est au même moment désistée de son appel à l’égard de M. Roger Vaillancourt. En effet, M. Roger Vaillancourt a témoigné qu’il était le véritable actionnaire, dirigeant et administrateur de l’appelante, et ce, pendant toute les périodes en cause. M. Roger Vaillancourt a aussi expliqué que M. Fernand Lebeau et Mme Isabelle Gervais n’étaient que des prête-noms, ce qui lui avait permis de cacher aux tiers qu’il était le véritable propriétaire des actions de l’appelante. Somme toute, la preuve a révélé que tout ce simulacre avait été créé par M. Roger Vaillancourt afin d’échapper notamment aux mesures de recouvrement des banquiers de la société Les Équipements L.V. inc. (« L.V. »), dont il avait cautionné les emprunts.
+[6] L’appréciation de la crédibilité de M. Roger Vaillancourt a joué un rôle important dans ma décision puisqu’il a été le seul témoin à l’appui de la thèse des appelants et vu la quasi‑absence de preuve documentaire ou objective quant à la prestation de travail réelle de M. Dave Vaillancourt. Je tiens à souligner que j’ai accordé peu de valeur probante au témoignage de M. Roger Vaillancourt, et ce, pour les raisons suivantes :
+i) Comment ajouter foi à une personne qui finit par admettre qu’elle a créé avec des tiers un simulacre afin d’échapper notamment aux mesures de recouvrement des banquiers de L.V., dont elle avait cautionné les emprunts?
+ii) Le fait que M. Roger Vaillancourt et son fils Dave aient été déclarés coupables par la Cour du Québec d’avoir commis des activités criminelles (voir la pièce I-6) dans les locaux de l’appelante n’a que confirmé mes doutes quant à la probité et la crédibilité de M. Roger Vaillancourt.
+[7] Le témoignage de M. Roger Vaillancourt à l’égard de la prestation de travail de son fils Dave fut pour le moins évasif, imprécis, ambigu, équivoque et laborieux. Ce témoignage ne nous a rien appris sur la nature exacte de la supposée prestation de travail de son fils Dave. Ce n’est certes pas par un tel témoignage que M. Roger Vaillancourt pouvait espérer me convaincre que son fils Dave avait réellement travaillé pendant 40 heures par semaine au cours de la période allant d’octobre 2005 au 1er avril 2006. J’ajouterai que ce témoignage m’apparaît d’autant plus invraisemblable que la preuve a révélé qu’en plus, M. Dave Vaillancourt a travaillé à temps plein pour L.V. pendant la période en cause. Je souligne que les tribunaux ne sont pas tenus de croire les témoins, même en l’absence de preuve contraire. En effet, leur témoignage peut être invraisemblable par suite des circonstances révélées ou par suite des règles du bon sens.
+[8] En l’espèce, M. Dave Vaillancourt aurait pu témoigner à l’appui de sa thèse. D’autres témoins, par exemple des employés, des fournisseurs ou encore des clients de l’appelante, auraient pu corroborer le témoignage de M. Roger Vaillancourt à l’égard de la prestation de travail de son fils Dave. Cela n’a pas été fait. J’en infère que cette preuve aurait été défavorable à M. Dave Vaillancourt.
+[9] Mon examen de la preuve m’amène à conclure qu’il est plus probable qu’improbable que M. Dave Vaillancourt n’a pas fourni la prestation de travail qu’il allègue et, ainsi, que les parties avaient organisé un stratagème dans l’unique but de permettre à M. Dave Vaillancourt d’avoir droit à des prestations d’assurance-emploi.
+[10] Pour ces motifs, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 18e jour de mars 2015.
+« Paul Bédard »
+Le juge suppléant Bédard
+RÉFÉRENCE :
+2015 CCI 67
+Nos DES DOSSIERS DE LA COUR :
+2008-1525(EI), 2008-1526(EI)
+INTITULÉS :
+DAVE VAILLANCOURT ET 9158-3658 QUÉBEC INC. c. M.R.N.
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 15 janvier 2015
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge suppléant Paul Bédard
+DATE DU JUGEMENT :
+Le 18 mars 2015
+COMPARUTIONS :
+Avocat des appelants :
+Me Gilbert Nadon
+Avocat de l’intimé :
+Me Mounes Ayadi
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour les appelants :
+Nom :
+Me Gilbert Nadon
+Cabinet :
+Ouellet, Nadon & Associés
+Montréal (Québec)
+Pour l’intimé :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

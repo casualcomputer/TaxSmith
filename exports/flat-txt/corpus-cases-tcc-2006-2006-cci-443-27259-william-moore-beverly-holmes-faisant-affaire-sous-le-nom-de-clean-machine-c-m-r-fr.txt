@@ -1,0 +1,148 @@
+Title: William Moore Beverly Holmes faisant affaire sous le nom de Clean Machine c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27259/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-443-27259-william-moore-beverly-holmes-faisant-affaire-sous-le-nom-de-clean-machine-c-m-r--fr.md
+Document type: case_law
+Last modified: 2006-08-04
+
+# William Moore Beverly Holmes faisant affaire sous le nom de Clean Machine c. M.R.N.
+
+- Citation: 2006 CCI 443
+- Decision date: 2006-08-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 800, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+William Moore Beverly Holmes faisant affaire sous le nom de Clean Machine c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-08-04
+Référence neutre
+2006 CCI 443
+Numéro de dossier
+2006-773(EI)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-773(EI)
+ENTRE :
+WILLIAM MOORE, BEVERLY HOLMES
+faisant affaire sous le nom de CLEAN MACHINE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de William Moore, Beverly Holmes faisant affaire sous le nom de Clean Machine (2006‑774(CPP)) le 21 juillet 2006 à Sudbury (Ontario).
+Devant : L’honorable juge Georgette Sheridan
+Comparutions :
+Pour l’appelante :
+Beverly Holmes
+Avocat de l’intimé :
+Me Nicolas Simard
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel est accueilli, et la décision du ministre du Revenu national est annulée compte tenu du fait que les travailleuses exécutaient des services de nettoyage par l’intermédiaire de l’appelante à titre d’entrepreneuses indépendantes et n’exerçaient pas un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi pendant la période du 1er janvier 2002 au 31 décembre 2004.
+Signé à Ottawa, Canada ce 4e jour d’août 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 14e jour de novembre 2006.
+Jean David Robert, traducteur
+Dossier : 2006-774(CPP)
+ENTRE :
+WILLIAM MOORE, BEVERLY HOLMES
+faisant affaire sous le nom de CLEAN MACHINE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de William Moore, Beverly Holmes faisant affaire sous le nom de Clean Machine (2006‑773(EI)) le 21 juillet 2006 à Sudbury (Ontario).
+Devant : L’honorable juge Georgette Sheridan
+Comparutions :
+Pour l’appelante :
+Beverly Holmes
+Avocat de l’intimé :
+Me Nicolas Simard
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel est accueilli, et la décision du ministre du Revenu national est annulée compte tenu du fait que les travailleuses exécutaient des services de nettoyage par l’intermédiaire de l’appelante à titre d’entrepreneuses indépendantes et n’exerçaient pas un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime de pensions du Canada pendant la période du 1er janvier 2002 au 31 décembre 2004.
+Signé à Ottawa, Canada ce 4e jour d’août 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 14e jour de novembre 2006.
+Jean David Robert, traducteur
+Référence : 2006CCI443
+Date : 20060804
+Dossiers : 2006-773(EI)
+2006-774(CPP)
+ENTRE :
+WILLIAM MOORE, BEVERLY HOLMES
+faisant affaire sous le nom de CLEAN MACHINE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, une société de personnes formée de Beverly Holmes et de William Moore faisant affaire sous le nom de Clean Machine, interjette appel des décisions du ministre du Revenu national (le « ministre ») selon lesquelles Darlene Lawrence, Joanne Levesque, Jennifer Fox et Aline Desgagnes (les « travailleuses ») exerçaient un emploi assurable[1] et ouvrant droit à pension[2] pendant la période du 1er janvier 2002 au 31 décembre 2004. Les appels ont été instruits sur preuve commune.
+[2] La position de l’appelante est que les travailleuses exécutaient des services pour le compte de Clean Machine à titre d’entrepreneuses indépendantes aux termes de contrats d’entreprise. Beverly Holmes, l’associée qui se charge de l’exploitation quotidienne de l’appelante, a représenté l’appelante et a témoigné à l’audience. Darlene Lawrence, qui, en plus d’exercer ses fonctions de nettoyeuse, aide quelquefois Mme Holmes à effectuer certaines de ses tâches administratives, a aussi témoigné pour le compte de l’appelante. Les trois autres travailleuses ont été appelées à témoigner pour le compte de la Couronne. Abstraction faite de certaines incohérences mineures, que j’explique par l’érosion des relations de travail jadis amicales, tous les témoins étaient dignes de foi.
+[3] Pendant la période en cause, l’appelante offrait des services de nettoyage, qu’elle exécutait principalement dans des résidences privées situées dans le Grand Sudbury et ses environs, en Ontario. Mme Holmes a une formation en administration et elle n’a jamais régulièrement effectué des services de nettoyage elle‑même. En 1979, elle a eu l’idée de démarrer une entreprise. Après avoir effectué une étude de faisabilité et vérifié auprès des responsables des retenues salariales à la source ce qui était nécessaire pour devenir travailleur indépendant, l’appelante s’est mise à exercer ses activités commerciales. Depuis lors, Mme Holmes a engagé et payé des nettoyeuses en supposant qu’elles étaient des entrepreneuses indépendantes engagées en vertu d’un contrat d’entreprise. Ce n’est que lorsque le ministre a entrepris une vérification du niveau d'observation des employeurs pour la période de 2002 à 2004 que Mme Holmes s’est demandée si cette pratique était appropriée.
+[4] La conclusion du ministre selon laquelle les travailleuses étaient des employées est fondée sur certaines hypothèses. Il incombe à l’appelante de les réfuter. En l’espèce, la tendance du rédacteur de la réponse à l’avis d’appel de qualifier d’« hypothèses de fait »[3] ce qui était en réalité des conclusions de droit a rendu encore plus difficile une tâche déjà susceptible de confondre une appelante qui se représentait elle‑même. En dépit de ces embûches, Mme Holmes a surmonté les difficultés auxquelles elle devait faire face, et je suis convaincue qu’elle a réussi à se décharger du fardeau de la preuve qui lui incombait.
+[5] La question de savoir si, dans des circonstances particulières, une relation de travail est régie par un contrat de louage de services (employeur‑employé) ou un contrat d’entreprise (entrepreneur indépendant) doit être tranchée conformément au critère « qui est composé de quatre parties intégrantes » énoncé par la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd. v. M.N.R.[4] :
+a) le degré, ou l’absence, de contrôle exercé par le prétendu employeur;
+b) la propriété des instruments de travail;
+c) les chances de bénéfice et les risques de perte;
+d) l’intégration des travaux effectués par les prétendus employés dans l’entreprise de l’employeur présumé.
+[6] Selon le juge MacGuigan, le critère qui est composé de quatre parties intégrantes a essentiellement pour objet « de déterminer quelle relation globale les parties entretiennent entre elles ». En parvenant à cette conclusion, le juge MacGuigan a insisté sur ce que lord Wright a appelé « l’ensemble des éléments qui entraient dans le cadre des opérations ». Par conséquent, aucun des quatre facteurs ne correspond à une formule magique. La nature de la relation dépendra entièrement des faits particuliers à chaque affaire.
+[7] En l’espèce, les activités de l’entreprise de l’appelante consistaient essentiellement à mettre en relation des nettoyeuses avec des clients et inversement. Il s’agissait d’une entente mutuellement satisfaisante : les personnes qui avaient un talent pour le nettoyage n’étaient pas nécessairement capables ni désireuses d’effectuer les tâches administratives et le marketing requis pour trouver des postes fiables, et, de même, les clients n’avaient souvent ni le temps ni les compétences requis pour trouver et engager des nettoyeuses auxquelles ils permettraient en toute confiance de travailler chez eux sans supervision pendant quelques heures toutes les semaines. Les besoins qu’a fait naître cette situation ont été comblés par Mme Holmes : une femme ayant la volonté et les compétences nécessaires pour gérer toutes ces choses pour le compte de la nettoyeuse comme du client.
+[8] Il ressort de la preuve que Mme Holmes exerçait un contrôle sur son entreprise, mais non un « contrôle » sur les nettoyeuses selon le sens donné à ce terme dans l’arrêt Wiebe Door. Mme Holmes a mis des annonces publicitaires de Clean Machine dans les pages jaunes pour attirer des clients. En même temps, elle lisait de façon régulière les messages placardés sur les tableaux d’affichage des centres communautaires, des épiceries et des lieux semblables pour y trouver des avis dans lesquels des nettoyeuses d’expérience indiquaient qu’elles cherchaient des occasions de travail. Mme Holmes avait une liste de clients et une liste de service de nettoyeuses. Sa pratique était de rencontrer un client potentiel dans la résidence de celui‑ci pour recevoir des instructions sur la nature du travail à accomplir, les produits ou les méthodes de nettoyage préférés par le client et le nombre d’heures de travail requises chaque semaine. Ces renseignements étaient dûment notés dans des bons de travail des clients. De même, elle rencontrait les nettoyeuses qu’elle avait trouvées pour discuter de la nature de leurs rôles respectifs. Si elles désiraient obtenir des clients par l’intermédiaire de Clean Machine, Mme Holmes demandait, aux frais de l’appelante, un certificat de police et ajoutait, une fois qu’elle l’avait reçu, le nom de la personne à la liste de service des nettoyeuses.
+[9] Le rôle de l’appelante consistait fondamentalement à trouver une nettoyeuse dont la disponibilité concordait avec les besoins d’un client. Lorsqu’un client appelait l’appelante, cherchant une nettoyeuse, Mme Holmes établissait un bon de travail et le présentait à l’une des nettoyeuses. Si la nettoyeuse acceptait d’exécuter le travail demandé par le client, celui‑ci lui était confié. Si la nettoyeuse refusait d’effectuer le travail (ce qu’elle était libre de faire), Mme Holmes l’offrait à une autre personne qui figurait sur la liste et ainsi de suite jusqu’à ce qu’elle trouvât quelqu’un qui était disposé à accepter d’exécuter le contrat proposé. Si une nettoyeuse était incapable de respecter le contrat qu’elle avait accepté, elle était tenue d’aviser l’appelante afin de permettre à celle‑ci d’offrir le travail à une autre nettoyeuse et d’éviter de contrarier le client. Malheureusement, lorsque le client résiliait le contrat ou qu’il oubliait tout simplement de fournir un moyen d’accès à la résidence, ni l’appelante ni la nettoyeuse n’étaient payées – tels sont les risques d’être travailleur indépendant.
+[10] Une fois qu’une nettoyeuse acceptait de remplir le contrat de nettoyage, il lui incombait d’exécuter comme bon lui semblait les tâches précisées par le client dans le bon de travail. Comme en ont témoigné chacune des travailleuses, elles savaient déjà comment nettoyer. Elles ne s’attendaient pas à ce que l’appelante leur dise comment exécuter leur travail. Mme Holmes n’insultait pas les nettoyeuses en essayant de les « former », elle leur offrait seulement une brève orientation chez un nouveau client. Mme Holmes ne faisait pas la tournée des résidences nettoyées pour vérifier si le nettoyage était bien fait. Il y avait quelques éléments de preuve selon lesquels Mme Lawrence surveillait le travail en cours, mais je ne suis pas persuadée qu’il s’agissait de « contrôle » selon le sens juridique de ce terme. D’abord, bien que Mme Lawrence ait aidé Mme Holmes à exécuter certaines des tâches administratives de l’appelante, la preuve ne permet pas de conclure que Mme Holmes lui a délégué quelque pouvoir que ce soit. À d’autres occasions, lorsque Mme Lawrence passait chez les clients, son intention n’était pas de vérifier le travail des nettoyeuses, mais de ramasser le chèque laissé par le client.
+[11] La collecte des chèques des clients et la distribution des paiements remis par les clients entre les nettoyeuses faisaient partie du rôle administratif de l’appelante. Cette répartition des tâches assurait aux nettoyeuses des paiements réguliers et en temps opportun et les dispensait d’avoir à retrouver les clients défaillants, une tâche que l’appelante était mieux outillée pour accomplir. Aucune retenue n’était faite sur les chèques sur lesquels Mme Holmes écrivait couramment [traduction] « frais de sous‑traitance ». Je souscris à l’argument de l’avocat de l’intimé selon lequel l’appelante ne pouvait pas, simplement en inscrivant ces quelques mots sur leurs chèques de paye, imposer unilatéralement cette qualification aux nettoyeuses. Cependant, il reste qu’aucune des travailleuses ne s’est opposée aux pratiques de l’appelante et qu’elles ont toutes produit leurs déclarations de revenus à titre de travailleuses indépendantes, déclarant dans certains cas des dépenses d’entreprise telles que des frais engagés pour l’achat d’essence et d’autres dépenses afférentes à un véhicule.
+[12] Un des facteurs qui a influencé la décision du ministre était que les nettoyeuses devaient effectuer elles‑mêmes le travail qu’elles s’étaient engagées à réaliser et qu’elles ne pouvaient embaucher personne d’autre pour le faire à leur place. En premier lieu, rien ne permet de conclure qu’elles n’avaient pas le droit de confier leur travail à des sous‑traitants si elles le voulaient. Cependant, la dure réalité est que la mince marge de profit d’une nettoyeuse fait en sorte qu’en pratique elle ne peut pas confier ses contrats de nettoyage à un sous‑traitant. Dans un même ordre d’idées, tout ce que l’on peut conclure du fait qu’aucune des travailleuses n’était inscrite aux fins de la TPS est que, malgré leur travail acharné, elles gagnaient moins de 30 000 $ annuellement et qu’elles n’étaient donc pas tenues de s’inscrire. Cette constatation n’a aucune incidence sur la question de savoir si elles étaient des employées ou des entrepreneuses indépendantes. En dernier lieu, le fait que l’appelante a versé des cotisations à la CSPAAT (pour l’indemnisation des accidentés du travail) pour le compte des travailleuses est tributaire de la compréhension qu’a Mme Holmes des exigences de la législation provinciale et ne permet pas de trancher la question soumise à la Cour.
+[13] Les instruments de travail en cause étaient les véhicules dont avaient besoin les travailleuses pour se rendre chez les clients et en revenir, les produits de nettoyage et l’équipement de nettoyage. La plupart des clients mettaient à la disposition des nettoyeuses des produits et de l’équipement qu’ils avaient chez eux. Lorsque rien n’était fourni, l’appelante donnait habituellement aux nettoyeuses les produits et quelquefois un aspirateur de réserve, sauf dans les rares cas où une nettoyeuse avait ses propres produits préférés qu’elle utilisait. Toutes les nettoyeuses utilisaient leurs propres voitures et payaient elles‑mêmes l’essence. La seule exception était le remboursement par l’appelante des frais que Mme Desgagnes engageait pour l’achat d’essence afin de se rendre à « la vallée », située plus loin que les maisons habituellement nettoyées dans les environs de Sudbury. J’accepte le témoignage de Mme Holmes selon lequel Mme Desgagnes était une nettoyeuse particulièrement compétente et une négociatrice habile. Les 10 $ supplémentaires payés dans ces circonstances restreintes avaient pour objet de la maintenir sur la liste de service[5].
+[14] Pour tous ces motifs, les appels sont accueillis, et les décisions du ministre sont annulées compte tenu du fait que les travailleuses exécutaient des services de nettoyage par l’intermédiaire de l’appelante à titre d’entrepreneuses indépendantes. En conséquence, elles n’exerçaient pas un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime de pensions du Canada ni un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance‑emploi pendant la période du 1er janvier 2002 au 31 décembre 2004.
+Signé à Ottawa, Canada ce 4e jour d’août 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 14e jour de novembre 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI443
+Nº DU DOSSIER DE LA COUR : 2006-773(EI)
+2006-774(CPP)
+INTITULÉ : William Moore, Beverly Holmes
+faisant affaire sous le nom de Clean Machine et le ministre du Revenu national
+LIEU DE L’AUDIENCE : Sudbury (Ontario)
+DATE DE L’AUDIENCE : Le 21 juillet 2006
+MOTIFS DU JUGEMENT : L’honorable juge Georgette Sheridan
+DATE DU JUGEMENT : Le 4 août 2006
+COMPARUTIONS :
+Pour l’appelante :
+Beverly Holmes
+Avocat de l’intimé :
+Me Nicolas Simard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+1 En application de l’article 93 de la Loi sur l’assurance‑emploi et au sens de l’alinéa 5(1)a) de celle‑ci.
+2 En application du paragraphe 27.2(3) du Régime de pensions du Canada et au sens de l’alinéa 6(1)a) de celui‑ci.
+[3] Je ne tiens pas responsable l’avocat de l’intimé, M. Simard, car j’ai cru comprendre que les avocats de l’intimé présents à l’audience sont rarement les auteurs de la réponse à l’avis d’appel. De plus, M. Simard n’a ménagé aucun effort pour contre‑interroger l’appelante d’une manière équitable et pour éviter d’employer des termes lourds de sens dans ses questions. Il est cependant dans l’intérêt de la justice que le ministère veille à ce que les hypothèses soient convenablement rédigées.
+[4] 87 DTC 5025 aux p. 5026 et 5027; 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983.
+[5] En fin de compte, ses efforts ont échoué puisque Mme Desgagnes a fini par quitter l’appelante pour lancer son propre service de nettoyage.

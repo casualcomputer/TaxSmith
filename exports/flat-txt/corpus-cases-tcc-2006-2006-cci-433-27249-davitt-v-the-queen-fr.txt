@@ -1,0 +1,87 @@
+Title: Davitt v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27249/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-433-27249-davitt-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-07-28
+
+# Davitt v. The Queen
+
+- Citation: 2006 CCI 433
+- Decision date: 2006-07-28
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 790, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Davitt v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-28
+Référence neutre
+2006 CCI 433
+Numéro de dossier
+2003-511(IT)G
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003‑511(IT)G
+ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+CERTIFICAT DE TAXATION DES DÉPENS
+Je CERTIFIE que j’ai taxé les dépens entre parties de l’intimée dans cette instance en vertu du paragraphe 153(1) des Règles de la Cour canadienne de l’impôt (procédure générale), et J’ACCORDE LA SOMME DE 1 842,61 $.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2006.
+« Raynald Chartrand »
+Officier taxateur
+Traduction certifiée conforme
+ce 1er jour d’août 2007.
+Jean David Robert, traducteur
+Référence : 2006CCI433
+Date : 20060728
+Dossier : 2003-511(IT)G
+ENTRE :
+WILLIAM SHAWN DAVITT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE LA TAXATION
+[1] L’audience portant sur la taxation des dépens s’est tenue par conférence téléphonique le 25 juillet 2006. La taxation découle d’une ordonnance rendue par le juge Little le 9 février 2004 par laquelle il a annulé l’appel interjeté par l’appelant et a accordé les dépens à l’intimée. Me Clarke représentait l’intimée, et M. Davitt se représentait lui‑même.
+[2] L’intimée n’avait aucune modification à apporter au mémoire de frais déposé le 19 avril 2006 et totalisant 1 842,61 $.
+[3] M. Davitt a contesté la totalité du mémoire de frais et a présenté de la jurisprudence à l’appui de sa position. Les décisions qu’il a invoquées soutenaient la thèse selon laquelle les dépens ne doivent pas être accordés lorsque l’action en justice de la partie perdante donne lieu à des changements de politique gouvernementale. Une autre décision appuyait la position selon laquelle les dépens ne doivent pas être alloués dans une cause type.
+[4] Me Clarke a fait valoir que la jurisprudence à laquelle M. Davitt avait renvoyé ne devait pas avoir d’incidence sur la taxation des dépens. Les dépens avaient été alloués par la Cour, l’intimée avait droit à ses dépens, et l’officier taxateur devait taxer les dépens en fonction du tarif B des Règles de la Cour canadienne de l’impôt (procédure générale).
+[5] J’ai examiné les documents soumis par M. Davitt et je tiens à souligner que la jurisprudence aurait dû être présentée au juge qui présidait l’audience, avant que le juge Little ne rende une ordonnance quant aux dépens.
+[6] L’ordonnance du juge Little énonce que :
+L’appel interjeté à l’encontre de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est annulé, avec dépens, conformément aux motifs de l’ordonnance ci‑joints.
+[7] L’article 154 des Règles de la Cour canadienne de l’impôt (procédure générale) est ainsi rédigé :
+Lorsque des dépens entre parties doivent être taxés, l’officier taxateur taxe et détermine les montants conformément au tarif B de l’annexe II et tient compte :
+a)
+des sommes en cause;
+b)
+de l’importance des questions en litige;
+c)
+de la complexité des questions en litige;
+d)
+de la charge de travail;
+e)
+de toute autre question qu’il doit prendre en considération conformément aux directives de la Cour.
+[8] Il est très clair qu’en qualité d’officier taxateur je dois taxer les dépens entre parties. Le tarif B de l’annexe II établit les sommes maximales que je peux accorder en fonction des critères énoncés à l’article 154.
+[9] En l’espèce, les sommes demandées sont raisonnables, et j’alloue par conséquent à l’intimée la somme totale demandée dans le mémoire de frais.
+Un certificat d’un montant de 1 842,61 $ sera délivré.
+Signé à Ottawa, Canada, ce 28e jour de juillet 2006.
+« Raynald Chartrand »
+Officier taxateur
+Traduction certifiée conforme
+ce 1er jour d’août 2007.
+Jean David Robert, traducteur

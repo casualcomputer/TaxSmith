@@ -1,0 +1,186 @@
+---
+title: "Free c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/98483/index.do"
+last_modified: "2014-11-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 329"
+citation2: ""
+neutral_citation: "2014 CCI 329"
+decision_date: "2014-11-07"
+language: "fr"
+item_id: "98483"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5266
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:39:57.790000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0801e405fac33397872eb368d4ab0b8d6b9459258dd5ca1dc641ffd65bd20f10"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Free c. La Reine
+
+- Citation: 2014 CCI 329
+- Decision date: 2014-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5266, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Free c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-11-07
+Référence neutre
+2014 CCI 329
+Numéro de dossier
+2010-309(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-309(IT)G
+ENTRE :
+DAVID FREE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 18 et 19 juillet 2013 et le 7 juillet 2014,
+à Toronto (Ontario)
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocate de l'intimée :
+Me Alisa Apostle
+JUGEMENT
+L'appel interjeté à l'encontre des nouvelles cotisations établies au titre de la Loi de l'impôt sur le revenu pour les années d'imposition 2005 et 2006 de l'appelant est rejeté.
+Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2014.
+« V.A. Miller »
+La juge V.A. Miller
+Traduction certifiée conforme
+ce 18e jour de février 2015.
+Yves Bellefeuille, réviseur
+Référence : 2014 CCI 329
+Date : 20141107
+Dossier : 2010-309(IT)G
+ENTRE :
+DAVID FREE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] L'appelant a omis de produire ses déclarations de revenus pour les années d'imposition 2005 et 2006, et le ministre du Revenu national (le « ministre ») a établi une cotisation à son égard au titre du paragraphe 152(7) de la Loi de l'impôt sur le revenu (la « LIR ») en tenant pour acquis que l'appelant avait touché un revenu d'emploi de 60 416 $ et de 92 700 $ en 2005 et en 2006, respectivement.
+[2] Dans le présent appel, l'appelant a fait valoir qu'en 2005 et en 2006, il n'était pas un employé, mais un entrepreneur indépendant, et que le revenu qu'il avait touché au cours de ces années était un revenu d'entreprise. Il a affirmé qu'il avait subi une perte d'entreprise nette de 67 338 $ et de 61 353 $ en 2005 et en 2006, respectivement.
+[3] À l'audience, l'avocate de l'intimée a déclaré que la seule question à trancher en l'espèce était de savoir si l'appelant avait le droit de déduire des dépenses de son revenu d'emploi. Cependant, dans la réponse à l'avis d'appel, les questions sont énoncées de la manière suivante :
+a) Le ministre a‑t‑il correctement déterminé que l'appelant était un employé de la municipalité de Meaford en 2005 et en 2006?
+b) L'appelant a-t-il le droit de déduire des dépenses du revenu qu'il a reçu de la municipalité de Meaford?
+[4] J'examinerai les deux questions qui ont été soulevées dans les actes de procédure.
+Les faits [5] Le 21 mars 2005, l'appelant a été embauché à titre de trésorier et directeur financier par la municipalité de Meaford (la « municipalité »). Conformément au règlement qui a été adopté pour donner effet à l'embauche, l'appelant a été nommé au poste en tant qu'entrepreneur indépendant, et le maire de la municipalité a été habileté à signer un contrat avec l'appelant sur ce fondement. Ce contrat (le « contrat ») a été signé par l'appelant et le maire le 21 mars 2005 et comportait les modalités suivantes :
+a) Le contrat était d'un an et il comportait une option de renouvellement.
+b) La rémunération annuelle était de 70 000 $, plus la TPS, et devait être versée en montants égaux deux fois par mois, le 15e jour et le dernier jour ouvrable du mois.
+c) Les frais de déplacement liés aux activités exercées pour le compte de la municipalité et pour lesquels il y avait des pièces justificatives devaient être remboursés.
+d) Le matériel informatique et les logiciels devaient être fournis par la municipalité.
+[6] L'appelant a fait valoir à l'audience que son contrat avait été modifié et qu'une entente de prestation de conseils en gestion (l'« entente ») avait été conclue par les parties le 22 mars 2005. Les principales modalités de l'entente étaient les suivantes :
+a) L'entente devait être d'au plus trois ans;
+b) Les conseils fournis par l'appelant comprenaient l'examen, l'analyse et la recommandation de structures organisationnelles, de procédures, de systèmes comptables et de processus. Il devait préparer des rapports et les présenter avec ses recommandations à la direction et au conseil municipal, puis voir à la mise en œuvre des recommandations approuvées par le conseil.
+c) Les honoraires pour services rendus étaient de 70 000 $ pour 2005 et de 100 000 $ pour 2006, plus la TPS. Les honoraires devaient être facturés en montants égaux le 15e jour et le 30e jour du mois.
+d) L'appelant serait remboursé des dépenses suivantes établies par des pièces justificatives : (i) déplacements, au taux de 0,45 $/km; (ii) téléphone; (iii) fournitures de bureau et autres dépenses; (iv) sous‑traitance.
+[7] Cependant, les factures que l'appelant a présentées à la municipalité n'étayent pas sa thèse selon laquelle le contrat avait été modifié et l'entente régissait la relation entre les parties. Contrairement à ce qu'il a affirmé dans son témoignage, l'appelant a présenté des factures à la municipalité pour la période allant d'octobre 2005 au 30 août 2006 en tenant pour acquis que sa rémunération annuelle était de 90 000 $. Par la suite, en 2006, l'appelant a présenté des factures à la municipalité en tenant pour acquis que sa rémunération annuelle était de 92 700 $. En 2005 et en 2006, l'appelant a facturé à la municipalité des frais de déplacement au taux de 0,40 $/km.
+[8] Le contrat de l'appelant avec la municipalité a été modifié par une résolution du conseil en octobre 2005, de sorte qu'il a été nommé directeur général (« DG ») ainsi que trésorier de la municipalité. Il a déclaré que les modalités de son contrat étaient restées les mêmes que celles dont il avait été convenu en mars 2005. On n'a pas présenté de copie de cette résolution à la Cour, mais je souligne que, du mois d'octobre 2005 au mois de décembre 2006, les factures que l'appelant a présentées à la municipalité font mention d'une résolution. Lorsque l'appelant a été nommé DG, sa rémunération a augmenté et est passée aux montants mentionnés dans le paragraphe précédent.
+[9] L'appelant a affirmé qu'en 2006, le maire avait soulevé la question de savoir si l'appelant devait être un employé à temps plein plutôt qu'un entrepreneur indépendant. J'ai déduit que ces discussions ont été précipitées par le rapport remis au conseil par le vérificateur de la municipalité, BDO Dunwoody. Dans son rapport au conseil du 7 juin 2006, Al White de BDO Dunwoody a mentionné ce qui suit :
+[TRADUCTION]
+Relation avec un employé/sous-traitant — À l'heure actuelle, un de vos cadres supérieurs est payé en tant que sous‑traitant. Comme il est sous‑traitant, aucune retenue n'est effectuée au titre de l'impôt sur le revenu, du Régime de pensions du Canada ou de l'assurance‑emploi. La question de savoir si la personne est un employé ou un entrepreneur indépendant est une question de fait. Si l'Agence du revenu du Canada décide que la personne est en fait un employé et non un sous‑traitant, la municipalité pourrait être tenue de verser les cotisations du RPC et de l'A.‑E. sur les paiements effectués à cette personne, ainsi que les intérêts applicables et les pénalités éventuelles. Comme les sommes en jeu pourraient être importantes, nous suggérons que la municipalité communique avec l'Agence du revenu du Canada pour obtenir une décision concernant la situation d'emploi de cette personne.
+[10] En janvier 2007, l'Agence du revenu du Canada (l'« ARC ») a effectué une vérification de la conformité en matière d'emploi de la municipalité et a conclu que l'appelant était un employé de la municipalité en 2005 et en 2006. L'ARC a délivré à l'appelant, pour le compte de la municipalité, des T4 de 60 416,71 $ pour 2005 et de 92 700 $ pour 2006.
+[11] L'appelant n'a pas porté en appel la décision du ministre. Il a plutôt entamé des discussions avec la municipalité concernant les modalités de son contrat de travail. En janvier ou en février 2007, l'appelant a été avisé qu'il devrait avoir recours aux services d'un avocat pour l'aider dans ses négociations avec la municipalité.
+[12] Dans une lettre du 23 mai 2007 adressée au maire et au directeur des ressources humaines de la municipalité, l'avocat de l'appelant a fait valoir que l'appelant était et avait toujours été un employé de la municipalité. Il a écrit qu'il souhaitait mettre la dernière main à [TRADUCTION] l'« entente de travail » de l'appelant et régler les questions en suspens à l'égard de l'appelant, comme l'impôt sur le revenu à payer pour les années 2005 et 2006, l'adhésion au Régime de retraite des employés municipaux de l'Ontario et la rémunération des heures supplémentaires. Selon cette lettre, lorsque l'appelant est devenu DG en octobre 2005, on ne lui a présenté ni entente de prestation de conseils ni contrat de travail, mais sa rémunération annuelle a augmenté et est passée à 92 700 $. L'avocat de l'appelant a écrit que la municipalité avait continué de traiter l'appelant comme un entrepreneur indépendant, alors que l'appelant avait toujours maintenu qu'il était un employé. Selon l'avocat de l'appelant, ce dernier exerçait de toute évidence un emploi à temps plein en tant que trésorier et directeur financier et de DG par intérim.
+[13] Peu de temps après que la municipalité eut reçu la lettre du 23 mai, celle‑ci a informé l'appelant qu'elle avait décidé de mettre fin à sa relation de travail avec lui. Pour régler leur différend, l'appelant et la municipalité ont eu recours à la médiation et, le 3 août 2007, ils ont conclu un procès‑verbal de transaction.
+[14] David Hunks, qui avait reçu une assignation à témoigner, a comparu pour le compte de l'appelant. M. Hunks a été trésorier adjoint pour la municipalité du mois d'août 2005 au mois de décembre 2009. Il était un employé de la municipalité. Il a témoigné que le nom de l'appelant ne figurait pas sur la liste de paye. L'appelant était payé en fonction des factures qu'il présentait, comme tout entrepreneur. L'appelant ne travaillait pas de 8 h 30 à 16 h 30 comme M. Hunks, et il avait la réputation d'envoyer des courriels à 3 h concernant divers projets auxquels M. Hunks travaillait. M. Hunks rendait alors compte à l'appelant, au conseil et au comité des finances concernant les progrès accomplis dans ces projets. Selon l'appelant et M. Hunks, l'appelant n'avait pas le pouvoir de signer des chèques au nom de la municipalité, mais M. Hunks, oui. M. Hunks supervisait les adjoints de la division de la trésorerie de la municipalité. M. Hunks a témoigné que l'appelant travaillait auprès de la municipalité comme consultant.
+[15] Bien que le témoignage de M. Hunks ait été incorrect en ce qui concerne la question de savoir si l'appelant était remboursé de l'utilisation d'un téléphone portable, j'ai jugé qu'il était un témoin digne de foi.
+Employé ou entrepreneur indépendant [16] Pour déterminer si l'appelant était un employé ou un entrepreneur indépendant lorsqu'il travaillait pour la municipalité, il est nécessaire d'établir s'il fournissait ses services en tant que personne travaillant à son compte : 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983. L'intention des parties est importante, et j'utiliserai les facteurs énoncés dans l'arrêt Wiebe Door Services Ltd. c. M.R.N., [1986] 3 C.F. 553 (C.A.F.), pour analyser la relation de travail qu'il y avait entre l'appelant et la municipalité dans le but de décider si leur relation de travail était compatible avec leur intention.
+[17] Il ressort clairement de la pièce A‑4, onglet 1, page 1, que l'appelant et la municipalité voulaient que l'appelant soit engagé à titre d'entrepreneur indépendant pour occuper le poste de trésorier. En outre, le procès‑verbal de la réunion du conseil tenue le 17 octobre 2005 (pièce A‑2) montrait que l'intention des parties était que l'appelant occupe le poste de DG en tant qu'entrepreneur indépendant.
+[18] Bien que le paragraphe 286(3) de la Loi de 2001 sur les municipalités, L.O. 2001, ch. 25, n'exige pas que le trésorier d'une municipalité soit un employé, il n'existe aucune disposition du genre au sujet du directeur général d'une municipalité. Les articles 227 et 229 de la Loi de 2001 sur les municipalités disposent :
+Administration municipale
+227. Les fonctionnaires et employés de la municipalité ont pour rôle de faire ce qui suit :
+a) mettre en œuvre les décisions du conseil et établir des pratiques et des procédures administratives pour les exécuter;
+b) faire des recherches et conseiller le conseil sur les politiques et les programmes de la municipalité;
+c) exercer les autres fonctions prévues par la présente loi ou toute autre loi et celles que leur assigne la municipalité.
+Directeur général
+229. Une municipalité peut nommer un directeur général qui est chargé de faire ce qui suit :
+a) assurer la gestion et le contrôle généraux des affaires de la municipalité afin d'en garantir le fonctionnement efficace et efficient;
+b) exercer les autres fonctions que lui assigne la municipalité.
+[19] Il ressort clairement du témoignage de M. Hunks qu'il pensait que l'appelant n'était pas un employé de la municipalité parce qu'il n'avait pas un nombre d'heures de travail fixe et que son nom ne figurait pas sur la liste de paye. Cependant, j'ai conclu que l'appelant était un employé lorsqu'il fournissait ses services à la municipalité. Ma conclusion est fondée sur la politique des ressources humaines de la municipalité (pièce R‑2, onglet 13) (la « politique ») et sur les fonctions que l'appelant exerçait selon ce que l'ancien avocat de l'appelant avait affirmé (pièce R‑2, onglet 17). Ces fonctions figuraient dans les notes que l'appelant avait rédigées lors des négociations qu'il avait menées avec la municipalité en vue de conclure un contrat de travail.
+La politique [20] Selon la politique, le DG était non seulement un membre essentiel du personnel de la municipalité, il était aussi responsable des cadres de la municipalité. Il faisait partie intégrante de la haute direction de la municipalité. Il relevait uniquement du conseil. Le DG, de concert avec d'autres personnes, veillait à l'application équitable des politiques de la municipalité. Le DG supervisait les chefs de service de la municipalité (voir la section 2:03 de la politique). Le comité approprié et lui étaient chargés de préparer l'évaluation du rendement de chacun des chefs de service.
+[21] Le DG et les chefs de service avaient pour tâche de recommander l'embauche de tous les employés municipaux à temps plein. Les employés temporaires, à temps partiel et saisonniers ne pouvaient être embauchés, remplacés ou renvoyés qu'avec l'approbation du DG. Les employés à temps plein ne pouvaient être renvoyés qu'avec l'approbation du DG et du conseil. Le DG ne pouvait être renvoyé qu'avec l'approbation du conseil.
+[22] Le DG devait assister à deux réunions ordinaires du conseil ou d'un comité par mois, tout au plus, en contrepartie de son traitement fixe. Pour les heures supplémentaires en sus de 80 heures par année civile, le DG avait le droit d'être rémunéré au taux de base ou se voyait accorder un congé compensatoire selon le taux de base.
+[23] Le DG rendait compte au conseil de la municipalité et ce dernier était chargé de veiller à ce qu'un [TRADUCTION] « rapport d'évaluation de l'employé » annuel soit préparé à l'égard du DG (voir le paragraphe 6.01 de la politique). Le conseil avait clairement le droit d'exercer un contrôle sur le DG : Procureure générale du Canada c. Groupe Desmarais Pinsonneault & Avard inc., 2002 CAF 144, au paragraphe 5.
+[24] Le DG était le grand responsable de la gestion du programme d'administration des salaires et traitements de la municipalité. Il prenait aussi part à l'approbation des descriptions de poste pour tous les postes de la municipalité. Les descriptions de poste de tous les postes étaient préparées par le chef de service approprié en collaboration avec le DG. Le DG et le conseil approuvaient les descriptions de poste.
+[25] Le DG établissait l'horaire de travail et approuvait les calendriers de vacances des chefs de service.
+[26] À mon avis, la municipalité ne pouvait pas engager l'appelant comme entrepreneur indépendant pour qu'il occupe le poste de DG. La politique énonce clairement que le DG doit être un employé de la municipalité.
+Les dossiers de l'appelant [27] L'appelant ne travaillait pas de 8 h 30 à 16 h 30 comme M. Hunks. Il n'avait pas non plus un nombre d'heures de travail hebdomadaires fixe lorsqu'il était trésorier ou après être devenu DG. En tant que membre de la haute direction, il effectuait le nombre d'heures nécessaires pour accomplir le travail. Il en va ainsi pour la plupart des postes de direction. Cependant, selon la politique, l'appelant avait droit à la rémunération des heures supplémentaires. Selon les dossiers de l'appelant, il a fait, au total, 3 491 heures supplémentaires du mois de mars 2005 au mois de décembre 2006.
+[28] Il ressort de ses dossiers que, lorsqu'il était trésorier, il accomplissait de nombreuses tâches, notamment montrer au personnel comment tenir les dossiers de la municipalité, mener des entrevues auprès des candidats pour le poste de trésorier adjoint, exercer les fonctions de trésorier adjoint de juillet 2005 à septembre 2005, et exercer les fonctions de divers membres du personnel pendant leurs vacances. Alors qu'il était DG, l'appelant a notamment : exercé les fonctions de divers postes lorsque ceux‑ci étaient vacants ou lorsque le titulaire du poste était en vacances; mis sur pied l'équipe de gestion et réglé de nombreux problèmes liés au personnel; participé au recrutement et à l'embauche de personnel; conçu des rapports d'évaluation de la municipalité; fourni des plans d'activités; restructuré les sites Web de la municipalité; vu aux questions de santé et sécurité au travail. Il a joué un rôle important dans l'élaboration d'un règlement municipal sur l'eau et a grandement contribué à faire en sorte que les employés administratifs cessent d'être rémunérés à l'heure et reçoivent des salaires.
+[29] L'appelant a reçu un traitement fixe en 2005 et en 2006. À mon avis, ce mode de paiement correspond davantage au type de paiement que reçoit un employé qui est membre de la direction qu'à celui que reçoit un entrepreneur indépendant. Les heures supplémentaires qu'il faisait n'étaient pas rémunérées.
+[30] L'appelant a déclaré qu'il utilisait son propre ordinateur. Cependant, selon son contrat, la municipalité lui fournissait un ordinateur et un bureau. C'est lui qui a choisi d'utiliser son propre ordinateur, et cela ne change rien au fait que la municipalité en mettait un à sa disposition.
+[31] Tous ces faits tirés de la politique et des dossiers de l'appelant m'amènent à conclure que l'appelant était un employé lorsqu'il exerçait les fonctions de trésorier et de DG pour la municipalité.
+Les dépenses [32] Après avoir fait l'objet d'une cotisation au titre du paragraphe 152(7) de la Loi, l'appelant a produit des déclarations de revenus pour les années 2005 et 2006. Même ces déclarations n'appuient pas la thèse qu'il a avancée dans le présent appel. Dans ces déclarations, il a déclaré un revenu d'emploi de 60 416 $ et de 92 700 $ en 2005 et en 2006, il a déclaré un revenu d'entreprise nul, mais il a déduit des pertes d'entreprise de 67 338 $ et de 61 353 $ en 2005 et en 2006.
+[33] Il y a des éléments de preuve selon lesquels la municipalité a remboursé à l'appelant les frais qu'il avait supportés relativement à l'utilisation de sa voiture et de son téléphone portable. Mis à part ces éléments de preuve, rien ne permet de penser que l'appelant a supporté quelque autre dépense que ce soit. Il n'a présenté aucun reçu à la Cour.
+[34] L'appel est rejeté et les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 7e jour de novembre 2014.
+« V.A. Miller »
+La juge V.A. Miller
+Traduction certifiée conforme
+ce 18e jour de février 2015.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2014 CCI 329
+NO DU DOSSIER DE LA COUR :
+2010-309(IT)G
+INTITULÉ :
+DAVID FREE c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Les 18 et 19 juillet 2013 et le 7 juillet 2014
+MOTIFS DU JUGEMENT :
+L'honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 7 novembre 2014
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui‑même
+Pour l'intimée :
+Me Alisa Apostle
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

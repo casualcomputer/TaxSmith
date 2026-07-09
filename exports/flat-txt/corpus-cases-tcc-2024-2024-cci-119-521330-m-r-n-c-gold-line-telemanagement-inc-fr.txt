@@ -1,0 +1,363 @@
+Title: M.R.N. c. Gold Line Telemanagement Inc.
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/521330/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-119-521330-m-r-n-c-gold-line-telemanagement-inc-fr.md
+Document type: case_law
+Last modified: 2024-09-12
+
+# M.R.N. c. Gold Line Telemanagement Inc.
+
+- Citation: 2024 CCI 119
+- Decision date: 2024-09-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5495, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+M.R.N. c. Gold Line Telemanagement Inc.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-09-12
+Référence neutre
+2024 CCI 119
+Numéro de dossier
+2023-1152(GST)G
+Juges et Officiers taxateurs
+Randall S. Bocock
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2023-1152(GST)G
+DANS L’AFFAIRE de la demande présentée par
+le ministre du Revenu national en vertu de l’article 311 de la Loi sur la taxe d’accise, pour obtenir une décision de la Cour
+ENTRE :
+LE MINISTRE DU REVENU NATIONAL,
+requérant,
+et
+LES PERSONNES NOMMÉES DANS LES ANNEXES A ET B DE LA PRÉSENTE ORDONNANCE
+intimées.
+Dossier : 2021-3115(GST)G
+ET ENTRE :
+GOLD LINE TELEMANAGEMENT INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 16 mai 2024 à Toronto (Ontario)
+Devant : l’honorable juge Randall S. Bocock
+Comparutions :
+Avocats du requérant :
+Me Darren Prevost
+Me Natasha Tso
+Me Christopher Ware
+Avocats des intimées :
+Énumérés à l’annexe A de la présente ordonnance
+ORDONNANCE RENDUE PAR SUITE D’UNE REQUÊTE EN RADIATION D’AFFIDAVITS
+ATTENDU QUE le ministre du Revenu national (le « ministre ») a déposé une demande en vertu de l’article 311 de la Loi sur la taxe d’accise (la « Loi ») (la « demande présentée en vertu de l’art. 311 ») d’une décision sur des questions proposées décrites dans la demande (les « questions communes »);
+ATTENDU QUE Gold Line Telemanagement Inc. (« Gold Line ») a signifié et déposé certains affidavits le 9 avril 2024. ou plus tôt (« les affidavits de Gold Line »);
+ATTENDU QUE le ministre, dans la présente requête datée du 26 avril 2024, demande la radiation de trois des affidavits de Gold Line (la « requête en radiation du ministre »);
+ATTENDU QUE la Cour a tenu une conférence de gestion de la demande le 16 mai 2024 et a, entre autres, entendu les observations du ministre et de Gold Line concernant la requête en radiation du ministre.
+ET ATTENDU QUE la Cour a rendu les motifs de son ordonnance en ce jour;
+LA COUR ORDONNE :
+Les paragraphes suivants de l’affidavit de Timo Vainionpaa daté du 9 avril 2024 sont radiés comme étant inadmissibles aux fins des parties I et II de la demande présentée en vertu de l’art. 311 :
+a)les paragraphes 26 à 30 inclusivement;
+b)les paragraphes 32 à 40 inclusivement;
+c)le paragraphe 156;
+d)les paragraphes 159 à 313 inclusivement.
+Les affidavits de Joel Bowers et d’Alexei Tretiakov, datés respectivement du 9 avril 2024 et du 29 février 2024, sont admissibles aux fins des parties I et II de la demande présentée en vertu de l’art. 311.
+L’ordonnance procédurale no 7 de la même date régit le reste de certaines procédures concernant la demande présentée en vertu de l’art. 311.
+Étant donné le résultat mitigé, aucuns dépens ne sont adjugés.
+Signé à Toronto (Ontario), ce 12e jour de septembre 2024.
+« R.S. Bocock »
+Le juge Bocock
+Traduction certifiée conforme
+ce 26e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+Référence : 2024 CCI 119
+Date : 20240912
+Dossier : 2023-1152(GST)G
+ENTRE :
+LE MINISTRE DU REVENU NATIONAL,
+requérant,
+et
+LES PERSONNES NOMMÉES DANS LES ANNEXES A ET B DE L’ORDONNANCE DE MÊME DATE,
+intimées.
+Dossier : 2021-3115(GST)G
+ET ENTRE :
+GOLD LINE TELEMANAGEMENT INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Bocock
+I. Introduction Les questions à l’origine de l’affaire
+[1] Le ministre du Revenu national (le « ministre ») a présenté, le 24 février 2023, et modifié, le 19 avril 2024, une demande en vertu de l’article 311 de la Loi sur la taxe d’accise[1] auprès de la Cour (la « demande ») afin que la Cour réponde aux questions communes suivantes concernant l’appelante, Gold Line Telemanagement Inc. (« Gold Line »), et d’autres contribuables :
+[traduction]
+Dans quelle mesure, le cas échéant, des minutes de voix par protocole Internet (VoIP) ont-elles été fournies dans la prétendue série d’opérations?
+Si la Cour détermine que des minutes VoIP ont été fournies, certaines de ces minutes VoIP ont-elles été fournies dans le cadre d’une « activité commerciale »?
+Dans quelle mesure les prétendus liens d’approvisionnement impliquant Gold Line, ses prétendus fournisseurs directs et les fournisseurs en amontétaient-ils des trompe-l’œil destinés à induire le ministre en erreur?
+Si la Cour détermine qu’aucune minute VoIP n’a été fournie, l’une des parties à la présente demande a-t-elle droit à un remboursement pour les taxes payées par erreur?
+Dans quelle mesure l’une ou l’autre des parties à la présente demande a-t-elle sciemment, ou dans des circonstances équivalant à une faute lourde, participé aux trompe-l’œil, de sorte qu’elle est passible de la pénalité prévue à l’article 285 de la Loi[2]?
+[Collectivement, les « questions communes ».]
+Trois parties : Répondre; dans l’affirmative, comment; et, en fin de compte, quoi?
+[2] Pour disposer correctement et efficacement de la demande, la Cour a fixé l’ordre de l’audition de la demande complète visant 16 contribuables, dont sept ont des appels connexes devant la Cour, en trois parties, soit les suivantes :
+la décision initiale sur la question de savoir si les questions communes sont correctement soumises à la Cour et, ensuite, si la Cour devrait exercer son pouvoir discrétionnaire pour examiner les questions communes (« partie I »);
+si la Cour doit exercer son pouvoir discrétionnaire dans le cadre de la partie I pour examiner les questions communes, quels sont le processus et la procédure appropriés pour examiner les questions communes et y répondre (« partie II »);
+la réponse concernant le fond des questions entre les parties (« partie III »).
+[3] Gold Line a déposé sept affidavits en opposition à la demande. Le 24 avril 2024, le ministre a déposé un dossier de requête en radiation de trois des affidavits (la « requête du ministre ») aux fins de répondre aux questions visées aux parties I et II de la demande, à savoir les affidavits de Timo Vainionpaa (l’« affidavit de M. Vainionpaa »), de Joel Bowers (l’« affidavit de M. Bowers ») et d’Alexei Tretiakov (l’« affidavit de M. Tretiakov ») (collectivement les « affidavits contestés »). Le 16 mai 2024, la Cour a entendu les observations de Gold Line et du ministre concernant la requête du ministre. Lors de l’audience, les parties ont convenu que la seule preuve d’expert présentée était celle de la pièce « A » jointe à l’affidavit de M. Vainionpaa, à savoir le rapport d’expert. Aucune autre partie ou aucun autre contribuable nommé dans la demande n’a présenté d’observations à la Cour à ce sujet.
+II. Positions des parties Observations du ministre
+[4] Le ministre s’oppose aux affidavits contestés parce qu’ils visent le fond des questions, et ne sont donc pas pertinents pour les parties I et II de la demande. Le ministre soutient plus précisément que l’affidavit de M. Vainionpaa court-circuite l’ordre normal de présentation de la preuve d’expert, que la preuve d’expert devrait être irrecevable à ce stade, car la Cour n’examine pas encore le fond de l’affaire. Par conséquent, l’affidavit de M. Vainionpaa ne satisfait pas au critère établi dans l’arrêt White Burgess[3], et devrait être pris en considération à l’audience sur le fond, et non dans le cadre d’un examen préliminaire.
+Observations de Gold Line
+[5] Gold Line est d’avis que le témoignage d’expert de M. Vainionpaa est particulièrement pertinent, car la capacité de la Cour de statuer sur les questions communes pour toutes les parties dans une seule procédure nécessite une compréhension du fonctionnement du secteur du commerce en gros de la VoIP, du type de données enregistrées dans les relevés de détails d’appels et de la manière d’interpréter les échantillons de relevés de détails d’appels soulevés dans l’exposé de position du ministre. De plus, Gold Line soutient que l’affidavit de M. Vainionpaa montre que les questions communes ne découlent pas des mêmes opérations :
+les questions communes ne sont pas communes à toutes les parties;
+la demande progressera de manière inefficace en l’absence de la preuve d’expert;
+M. Vainionpaa est un expert qualifié;
+rien n’empêche la Cour de prendre en compte la preuve de ce dernier à ce point-ci.
+III. Dispositions et principes légaux applicables à la présente requête Article 311 de la Loi
+[6] Le paragraphe 311(1) de la Loi prévoit que le ministre peut demander à la Cour de statuer sur une question qui, selon lui, découle d’une même opération, d’un même événement ou d’une même série d’opérations ou d’événements qui se rapporte à des cotisations, réelles ou projetées, à l’égard de plusieurs personnes.
+[7] Le paragraphe 311(3) de la Loi prévoit expressément :
+Dans le cas où la Cour canadienne de l’impôt est convaincue que la décision rendue sur la question exposée dans une demande a un effet sur les cotisations, réelles ou projetées, concernant plusieurs personnes à qui une copie de la demande a été signifiée et qui sont nommées dans une ordonnance de la Cour rendue en application du présent paragraphe, elle peut :
+a) si aucune des personnes ainsi nommées n’en a appelé d’une de ces cotisations, entreprendre de statuer sur la question selon les modalités qu’elle juge indiquées;
+b) si une ou plusieurs des personnes ainsi nommées ont interjeté appel, rendre une ordonnance groupant dans cet ou ces appels les parties appelantes comme elle le juge à-propos et entreprendre de statuer sur la question.
+[8] L’article 311 de la Loi est essentiellement semblable à l’article 174 de la Loi de l’impôt sur le revenu[4]. Dans Canada c. ACI Properties Ltd., la Cour d’appel fédérale (la « CAF ») a statué que les objectifs législatifs de l’article 174 de la LIR sont de favoriser une utilisation efficace des ressources de la Cour, permettent d’éviter que la Cour rende des décisions incompatibles dans des instances séparées, permettent à la Cour d’entendre des témoignages pertinents et garantissent le recouvrement de l’impôt à payer[5].
+[9] Dans Canada (Revenu national) c. Boguski, la CAF a statué que l’article 174 de la LIR n’oblige aucunement la Cour à rendre une quelconque ordonnance, mais autorise plutôt la Cour à rendre une ordonnance si les conditions légales sont remplies, et son application dépend en fin de compte du pouvoir discrétionnaire de la Cour d’examiner les questions[6]. En ce qui concerne le dernier point, même s’il existe une question commune, la Cour peut refuser d’exercer son pouvoir discrétionnaire de rendre une ordonnance si elle considère qu’une telle décision serait inefficace et inéquitable sur le plan de la procédure[7]. De plus, la Cour, en tant que tribunal de première instance, est dans une position idéale pour apprécier la dynamique du litige particulier en cours[8]. Dans cette position, la Cour peut rendre ou refuser de rendre une ordonnance aux fins de gérer ses propres pratiques et procédures[9]. Par analogie contextuelle, les mêmes conclusions concernant l’article 174 de la LIR mentionnées ci-dessus s’appliquent également à l’article 311 de la Loi.
+Critère à appliquer pour la radiation d’un affidavit
+[10] La jurisprudence définit les circonstances dans lesquelles la radiation d’un affidavit peut être justifiée. En somme :
+L’affidavit a pour but de présenter les faits pertinents ayant trait au litige sans commentaires ni explications.
+Mais la Cour peut radier des affidavits, ou des parties de ceux-ci, lorsque :
+ils sont abusifs ou n’ont clairement aucune pertinence;
+ils renferment une opinion, des arguments ou des conclusions de droit;
+la Cour est convaincue qu’il est préférable de régler la question de l’admissibilité au stade préliminaire de façon à permettre le déroulement ordonné de l’audience[10].
+[11] Le pouvoir discrétionnaire de radier un affidavit en partie ou en totalité doit être exercé avec modération et seulement dans des cas exceptionnels[11]. Le raisonnement derrière l’établissement de cette norme élevée est d’éviter de rendre par inadvertance une décision préventive sur le fond à un stade interlocutoire[12]. Des exemples de situations où la radiation d’un affidavit est appropriée incluent le cas où une partie subirait un préjudice important si l’affidavit n’est pas radié, si le fait de ne pas radier un affidavit nuirait à l’audition ordonnée de la demande ou s’il est dans l’intérêt de la justice de le radier, ou lorsque la question de l’admissibilité est claire[13].
+Admissibilité des rapports d’experts (joints à un affidavit)
+[12] La détermination de l’admissibilité de la preuve d’expert est en elle-même un processus en deux étapes :
+Seuil d’admissibilité : La preuve d’expert proposée doit satisfaire aux critères suivants : la pertinence, la nécessité, l’absence de toute règle d’exclusion et la qualification suffisante de l’expert[14]. La preuve est évaluée selon des réponses limitées à « oui ou non[15] » lors de la première étape. La preuve sera pertinente si elle établit l’existence ou la non-existence d’un fait en litige d’une manière plus ou moins probable qu’elle le serait sans cette preuve, évaluée comme une question d’expérience humaine et de logique[16]. La preuve sera raisonnablement nécessaire si elle est susceptible d’échapper à l’expérience et aux connaissances ordinaires du juge des faits[17].
+Fonction de gardien : La Cour doit être convaincue que la valeur probante de la preuve, si elle est admise, l’emporte sur les préjudices qui pourraient en résulter, la tarification horaire et le risque de confusion liés à son admission. Elle doit garder à l’esprit que les parties ont le droit de présenter le dossier de preuve le plus complet possible, conformément aux règles de preuve[18].
+[13] La principale raison pour laquelle un affidavit des faits est radié est que ce dernier contient une opinion qui ne se prête pas au témoignage d’opinion d’un expert. Le témoignage d’opinion d’un expert est admissible lorsqu’il est nécessaire pour fournir au juge des faits des éléments techniques ou scientifiques propres à lui permettre de valablement apprécier la preuve produite[19]; si, sur les faits prouvés, un juge peut à lui seul tirer ses propres conclusions, alors l’opinion de l’expert n’est pas nécessaire[20]. S’il n’est pas immédiatement évident que la preuve d’expert est inadmissible, il peut être préférable de déterminer son admissibilité lorsque la Cour se penche sur le fond de l’affaire[21].
+La Cour est saisie des questions suivantes :
+[14] La Cour devrait-elle radier en partie ou en totalité l’affidavit de M. Vainionpaa contenant le rapport d’expert?
+[15] La Cour devrait-elle radier en partie ou en totalité les affidavits de M. Bowers ou de M. Tretiakov?
+IV. Analyse La Cour devrait-elle radier l’affidavit de M. Vainionpaa?
+L’ordre de la procédure de radiation d’un affidavit contenant des preuves d’expert à ce stade préliminaire
+[16] La requête du ministre est une tentative de déterminer par anticipation l’admissibilité de la preuve d’expert proposée à un stade de la demande qui est, en soi, préliminaire. La Cour doit d’abord déterminer si la requête du ministre respecte la norme élevée applicable à la radiation en partie ou en totalité de l’affidavit de M. Vainionpaa. La seule décision finale concernant la preuve de M. Vainionpaa que la Cour peut rendre sur la requête du ministre est celle de l’inadmissibilité. Si la Cour ne radie pas l’affidavit de M. Vainionpaa comme inadmissible dans son intégralité, son admissibilité peut tout de même être contestée par le ministre lors d’un voir-dire, conformément à la procédure d’analyse établie dans l’arrêt White Burgess. En d’autres termes, la Cour n’a pas besoin, par déduction, de conclure, advenant le rejet de la requête du ministre, que la preuve de M. Vainionpaa est nécessairement admissible pour les parties I et II de la demande.
+[17] Bien que cela donne effectivement au ministre « une autre occasion de tenter sa chance » en ce qui concerne l’admissibilité, la Cour peut traiter toute contestation non méritée et répétitive à la lumière de la décision suivante, avec dépens.
+La Cour n’est pas empêchée par préclusion de prendre en compte la preuve de M. Vainionpaa à ce stade préliminaire.
+[18] Rien dans les Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») n’empêche la prise en compte de la preuve d’expert aux parties I et II de la demande. En excluant le rapport d’expert dans son intégralité pour le moment, la Cour risque de se priver de :
+l’ensemble du dossier de preuve qui devrait être pris en compte ou la base technique ou scientifique nécessaire pour parvenir à une conclusion;
+ou les deux, pour répondre aux questions des parties I et II de la demande.
+[19] Cependant, la jurisprudence, et non les Règles, guide l’analyse de l’opportunité d’accueillir la requête du ministre. Par conséquent, la mesure dans laquelle la requête du ministre respecte les critères applicables à la radiation des affidavits et de la preuve d’expert est ancrée dans la jurisprudence.
+Certaines parties de l’opinion d’expert de M. Vainionpaa contiennent-elles des arguments juridiques et des conclusions concernant les parties I et II de la demande?
+[20] Le but déclaré de M. Vainionpaa dans la préparation de son rapport est double. Tout d’abord, il cherche [traduction] « à fournir une opinion d’expert sur le fonctionnement de l’industrie de la voix par protocole Internet (“VoIP”) et, ensuite, évalue l’analyse de l’Agence du revenu du Canada sur les enregistrements détaillés des appels (“EDA”) de Gold Line[22]. » À première vue, le premier objectif ne compromet pas le rôle de la Cour; le second, cependant, met directement en doute les conclusions des agents du ministre qui sont au centre des questions communes que la Cour doit trancher.
+[21] Le premier objectif général de la preuve est d’expliquer que l’industrie de la VoIP consiste, du moins en partie, en l’achat et la vente de minutes de terminaison, qui fournissent un accès à un réseau de communication précis pour une période de temps mesurée[23]. Les EDA sont des enregistrements d’appel VoIP connectés au commutateur PortaOne de Gold Line[24]. Le deuxième objectif général de la preuve de M. Vainionpaa est de détailler comment, selon lui, l’ARC a mal interprété les données stockées dans le commutateur PortaOne de Gold Line pour conclure qu’il n’y avait pas d’appels réels dans le cadre du prétendu stratagème. Lorsque la preuve d’expert est si remplie d’opinions juridiques concernant les questions de fond qui surgiront finalement dans la partie III, la Cour doit la radier, car elle dépasse la limite des questions à trancher dans le cadre des parties I et II de la demande[25].
+[22] Dans les parties I et II de la demande, la Cour ne souhaite pas se pencher sur l’à-propos de l’interprétation que l’ARC a donnée aux EDA. Les questions sur lesquelles portent les parties I et II de la demande sont :
+La Cour peut-elle répondre logiquement aux questions communes sur une base commune compte tenu de l’esprit et du cadre de la Loi?
+Si la Cour peut répondre logiquement aux questions communes, les questions communes touchent-elles généralement les cotisations, réelles ou projetées, des parties que le ministre cherche à lier?
+La Cour devrait-elle exercer son pouvoir discrétionnaire pour répondre aux questions communes et lier les parties, en tenant compte des considérations d’efficacité et d’équité procédurale?
+[23] Cités en ordre numérique, les paragraphes 26, 27, 29, 30, 32 à 40, 156 et 159 à 313 du rapport visent et remettent directement ou indirectement en question l’analyse des EDA de Gold Line par l’ARC. On peut soutenir que, même lors d’une décision sur le fond des questions intéressant la partie III, ces conclusions usurpent probablement le rôle du juge et peuvent distraire la Cour de sa tâche principale[26]. À part cette question future, ces opinions d’expert ne sont pas nécessaires pour que la Cour puisse trouver la réponse aux questions soulevées dans le cadre des parties I et II décrites ci-dessus. En conséquence, la Cour radie ces paragraphes aux fins des parties I et II de la demande.
+Le reste de l’affidavit de M. Vainionpaa renferme-t-il des connaissances techniques ou scientifiques qui pourraient aider la Cour à trancher les questions soulevées dans le cadre des parties I et II de la demande?
+[24] Pour que la Cour puisse recevoir un rapport d’expert, celui-ci doit être nécessaire, et non simplement utile, au juge des faits, qui doit parvenir à une conclusion[27]. Cependant, pour disposer de la requête du ministre, la Cour n’a pas besoin de déterminer si la preuve de M. Vainionpaa est admissible, mais seulement si elle est inadmissible ou non par anticipation.
+[25] Les paragraphes 1 à 25, 28, 31 et 41 à 155 (le « reste de l’affidavit de M. Vainionpaa ») visent à expliquer :
+comment fonctionne l’industrie de la VoIP;
+comment le marché de la téléphonie VoIP en gros est unique;
+comment les EDA suivent l’approvisionnement en minutes de terminaison VoIP.
+Ces renseignements peuvent être pertinents pour répondre aux questions dans le cadre des parties I et II comme je l’indique plus haut. Contrairement à certaines sections de l’affidavit de M. Vainionpaa, ces paragraphes, à première vue, ne sont pas abusifs ou dénués de toute pertinence, et ne renferment pas des arguments ou des conclusions qui justifieraient la radiation par anticipation.
+[26] Il n’est pas immédiatement évident que ces paragraphes du reste de l’affidavit de M. Vainionpaa sont inadmissibles. La radiation à ce stade-ci risque de laisser la Cour avec un dossier de preuve appauvri pour trancher les questions intéressant les parties I et II de la demande, en particulier en ce qui concerne les opérations techniques du prétendu stratagème de type carrousel.
+Volet 1 – Seuil d’admissibilité
+[27] Pour que le reste de l’affidavit de M. Vainionpaa réponde au critère du seuil d’admissibilité :
+il doit être logiquement pertinent;
+il doit être nécessaire pour aider le juge des faits;
+il ne doit pas y avoir d’autres règles d’exclusion applicables;
+M. Vainionpaa doit être dûment qualifié en tant qu’expert.
+[28] Les motifs du litige en ce qui concerne le seuil d’admissibilité aux parties I et II reposent sur deux éléments : la nécessité et les qualifications appropriées. Dans le cas de la nécessité, si la Cour considère que la preuve technique et scientifique restante de M. Vainionpaa est nécessaire, et non simplement utile, pour arriver à une conclusion sur les questions soulevées dans le cadre des parties I et II de la demande, le seuil est atteint.
+[29] Le ministre a soulevé deux arguments concernant les qualifications de M. Vainionpaa en tant qu’expert. D’abord, le ministre soutient que de nombreuses parties du rapport contiennent une « expertise » qui n’est pas différente ou meilleure que celle du juge des faits. Au contraire, les opinions de M. Vainionpaa sont basées sur son expérience personnelle et ses connaissances générales[28]. Ensuite, le ministre soutient que M. Vainionpaa a un parti pris contre l’ARC et n’est pas impartial comme un expert devrait l’être[29].
+[30] Pour qu’un expert ait une expertise suffisante, il doit avoir « acquis des connaissances spéciales ou particulières grâce à des études ou à une expérience relatives aux questions visées dans son témoignage[30]. » Si ce seuil minimal est atteint, les lacunes sur le plan de l’expertise peuvent avoir une incidence sur la force probante de la preuve d’expert, mais non sur son admissibilité[31]. M. Vainionpaa possède une vaste expérience dans l’industrie, ce qui lui a clairement permis d’acquérir des connaissances particulières dans le secteur de la VoIP. Son expertise semble répondre à l’exigence minimale établie dans l’arrêt White Burgess, du moins à ce stade.
+[31] Pour qu’un expert soit suffisamment impartial, il doit être capable de fournir une opinion impartiale dans les circonstances propres à l’instance; sinon il sera disqualifié[32]. Si l’expert peut et veut s’acquitter de sa principale obligation envers le tribunal, soit d’être juste, objectif et impartial, il répond à l’exigence de l’admissibilité[33]. En arrivant à une conclusion, le tribunal tient compte des circonstances particulières, de la nature de la preuve proposée ainsi que de la nature et de l’étendue de tout lien entre l’expert et le litige ou l’une des parties[34]. De plus, la notion d’apparence de parti pris n’est pas pertinente lorsqu’il s’agit de déterminer si le témoin expert pourra ou voudra s’acquitter de sa principale obligation envers le tribunal[35]. La Cour convient des observations de Gold Line selon lesquelles il n’est pas clair que M. Vainionpaa est incapable de prouver un avis impartial, en particulier lorsque les conclusions, sans intérêt pour les parties I et II, sont mises de côté[36]. En général, M. Vainionpaa satisfait également à l’exigence du seuil à cet égard.
+[32] Par conséquent, la preuve de M. Vainionpaa répond aux exigences du seuil d’admissibilité.
+Étape 2 – Fonction de gardien
+[33] Le ministre soutient que la valeur probante potentielle à tirer de la preuve de M. Vainionpaa est éclipsée par le préjudice que son admission causerait, en se concentrant sur les vastes ressources judiciaires qui seraient nécessaires lors d’un voir-dire[37].
+[34] Si les exigences du seuil de la nécessité et de l’expertise sont respectées, la valeur probante de la preuve de M. Vainionpaa est évidente pour les raisons expliquées ci-dessus. Un voir-dire constitue une étape procédurale standard de filtrage – son coût à lui seul n’est pas une preuve de préjudice significatif à la lumière de la valeur probante potentielle de la preuve. Si M. Vainionpaa peut répondre aux préoccupations de la Cour et qu’aucune autre préoccupation préjudiciable majeure ne surgit en contre-interrogatoire, la Cour devrait disposer d’un dossier de preuve complet, incluant les parties de l’affidavit de M. Vainionpaa, pour répondre aux questions intéressant les parties I et II de la demande.
+La Cour devrait-elle radier en partie ou en totalité de l’affidavit de M. Bowers ou de M. Tretiakov?
+[35] Au départ, Gold Line a précisé dans ses observations écrites et orales que l’affidavit de M. Bowers n’est pas présenté comme une preuve d’expert[38].
+[36] Le ministre a fait valoir, dans ses observations tant écrites qu’orales, que la Cour devrait radier les affidavits de MM. Bowers et Tretiakov parce qu’ils constituent la base de la preuve de M. Vainionpaa, et qu’ils sont sans pertinence pour les mêmes raisons[39]. Il a en outre soutenu dans ses observations orales que si l’affidavit de M. Vainionpaa est intégralement radié, ces deux autres affidavits devraient également être radiés.
+[37] Ensemble et séparément, les affidavits de MM. Bowers et Tretiakov constituent une preuve des rôles du commutateur PortaOne et des EDA de Gold Line, respectivement, ainsi que de la manière dont les données brutes sont traitées. Gold Line soutient également à juste titre qu’il est approprié que la Cour permette la présentation des données brutes du rapport Kroll (inclus dans l’affidavit de M. Tretiakov), car le seul autre moyen serait d’avoir les EDA eux-mêmes devant la Cour[40]. La Cour convient qu’à ce stade, du moins, cela est justifié.
+[38] Au minimum, le traitement des données peut donner le ton à l’évaluation par la Cour de l’efficacité et de l’équité procédurale dans la recherche des réponses aux questions des parties I et II de la demande. Par conséquent, aucun des affidavits ne dépasse le seuil élevé pour radier un affidavit en raison de sa non-pertinence.
+[39] De plus, la Cour traite les affidavits de MM. Bowers et Tretiakov, qui sont des affidavits des faits, différemment de l’affidavit d’expert de M. Vainionpaa. Il est logique que les affidavits des faits servent de fondement à l’opinion d’expert. Il serait également logique de radier une opinion d’expert basée sur des preuves factuelles non pertinentes. Cependant, il n’est pas logique de radier des preuves factuelles simplement parce que la preuve d’expert peut ne pas être pertinente. Les preuves factuelles sont fondamentales en soi dans cette affaire; elles peuvent exister indépendamment de la manière dont Gold Line choisit de les utiliser comme base pour ses arguments.
+V. Conclusion [40] Pour les motifs qui précèdent, la Cour accueille en partie la requête du ministre de la façon suivante :
+Sont radiés comme étant inadmissibles les paragraphes suivants de l’affidavit de M. Vainionpaa pour les besoins des parties I et II de la demande :
+a)les paragraphes 26 à 30 inclusivement;
+b)les paragraphes 32 à 40 inclusivement;
+c)le paragraphe 156;
+d)les paragraphes 159 à 313 inclusivement.
+L’affidavit de M. Bowers et l’affidavit de M. Tretiakov demeurent comme preuve admissible.
+Le ministre peut déposer des affidavits en contre-preuve des paragraphes restants de l’affidavit de M. Vainionpaa et des affidavits entiers de MM. Bowers et Tretiakov.
+Étant donné le résultat mitigé, aucuns dépends ne sont adjugés.
+Signé à Toronto (Ontario), ce 12e jour de septembre 2024.
+« R.S. Bocock »
+Le juge
+Traduction certifiée conforme
+ce 26e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+RÉFÉRENCE :
+2024 CCI 119
+NO DU DOSSIER DE LA COUR :
+2023-1152(GST)G
+INTITULÉ :
+LE MINISTRE DU REVENU NATIONAL c. LES PERSONNES NOMMÉES AUX ANNEXES A ET B DE LA PRÉSENTE ORDONNANCE ET GOLD LINE TELEMANAGEMENT INC. c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 16 mai 2024
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Randall S. Bocock
+DATE DE L’ORDONNANCE :
+Le 12 septembre 2024
+COMPARUTIONS :
+Avocats du requérant :
+Me Darren Prevost
+Me Natasha Tso
+Me Christopher Ware
+Avocats des intimées :
+Énumérés à l’annexe A de la présente ordonnance
+AVOCATS INSCRITS AU DOSSIER :
+Pour le requérant :
+Nom :
+Me Darren Prevost
+Me Natasha Tso
+Me Christopher Ware
+Pour l’intimé :
+Me Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+Annexe A
+Liste des contribuables intimées nommées dans la demande présentée en vertu de l’art. 311 de la Loi et représentées par des avocats dans le dossier no 2023‑1152(GST)G ainsi que des contribuables qui ont depuis donné avis d’une représentation légale :
+Partie
+Avocats
+Gold Line Telemanagement Inc.
+KPMG Cabinet d’avocats S.E.N.C.R.L.
+Me Kristen Duerhammer
+Me Justin Kutyan
+Me Gordon Bourgard
+4600-333 Bay Street
+Toronto (Ontario) M5H 2S5
+Voice Tel Canada Inc.
+Cabinet Barrett Tax Law
+Me Jack Wang
+44-665 Millway Avenue
+Vaughan (Ontario) L4K 3T8
+Tel-Pal Comm Inc.
+Siegal Tax Law Professional Corporation
+Me Brandon Siegal
+First Canadian Place
+5700-100 King Street West
+Toronto (Ontario) M5X 1C7
+Newave Consulting Ltd.
+Ummat Tax Law PC
+Amit Ummat
+302-5500 North Service Road
+Burlington (Ontario) L7L 6W6
+NGTFZE Telecom Inc.
+Tax Chambers LLP
+Me David Piccolo
+300-155 University Avenue
+Toronto (Ontario) M5H 3B7
+Silktel Inc.
+BRS Tax Lawyers, LLP
+Me Jean Buote
+103-2150 Islington Avenue
+Toronto (Ontario) M9P 3V4
+Xirix Network Corporations
+Thorsteinssons LLP
+Me Marie-Eve Heming
+Me Rebecca Loo
+Bay Wellington Tower
+181 Bay Street, 33rd Floor
+Toronto (Ontario) M5J 2T3
+Joven Tel Inc.
+Bordon Ladner Gervais, S.E.N.C.R.L., S.R.L.
+Me Bobby Solhi
+22 Adelaide Street West
+Toronto (Ontario) M5H 4E3
+Echelon Global Inc.
+Taxpayer Law Professional Corporation
+Me Igor Kastelyanets
+1400-18 King Street East
+Toronto (Ontario) M5C 1C4
+Annexe B
+Liste des contribuables intimées nommées dans la demande présentée en vertu de l’art. 311 de la Loi dans le dossier no 2023-1152(GST)G qui ne sont pas représentées par des avocats, mais à qui les documents peuvent effectivement être signifiés conformément aux dispositions de la présente ordonnance et d’autres ordonnances applicables de la Cour :
+Partie
+Adresse
+Carrierzone Limited
+404-25 Trailwood Drive
+Mississauga (Ontario) L4Z 3K9
+Envision Connect Limited
+64 Cabaletta Crescent
+Woodbridge (Ontario) L4L 6K8
+APTX Communications Inc.
+5983 Brookhaven Way
+Mississauga (Ontario) L5V 2T9
+Telstats Networks Limited
+2932 Crescent Cape Hill
+Mississauga (Ontario) L4Z 1V9
+et
+3868 Arvona Place
+Mississauga (Ontario) L5M 6L4
+2352211 Ontario Inc., faisant affaire sous la raison sociale Telo Networks
+13-480 Beresford Path
+Oshawa (Ontario) L1H 0B2
+Envision Trading Inc.
+236 Pritchard Road
+Hamilton (Ontario) L8W 3P7
+À l’attention de : Mehran Sabouhi
+Callup Telcom Inc.
+237 Rodney Street
+Waterloo (Ontario) N2J 1G7
+À l’attention de : Omid Gotnaraghi
+NGTFZE Telecom Inc.
+735 Glencairn Avenue
+North York (Ontario) M6B 1Z9
+[1] L.R.C. (1985), ch. E-15 (la « Loi »).
+[2] Demande, par. 36.
+[3] White Burgess Langille Inman c. Abbott and Haliburton Co., 2015 CSC 23, par. 23 [White Burgess]; R. v. Abbey, 2009 ONCA 624, par. 82 [Abbey].
+[4] L.R.C. (1985), ch. 1 (5e suppl.) (la « LIR »).
+[5] 2014 CAF 45, par. 17.
+[6] 2021 CAF 118, par. 5.
+[7] Ibid., par. 6 et 8.
+[8] Ibid., par. 9.
+[9] Ibid., par. 8.
+[10] Lukács c. Canada (Office des transports), 2019 CF 1256, par. 22; Canada (Bureau de régie interne) c. Canada (Procureur général), 2017 CAF 43, par. 16 [CBRI]; Canada (Procureur général) c. Quadrini, 2010 CAF 47, par. 18; McConnell c. Commission canadienne des droits de la personne, 2004 CF 817, conf. par 2005 CAF 389; CBS Canada Holdings Co. c. La Reine, 2016 CCI 85, par. 19.
+[11] CBRI, précité, note 10, par. 29.
+[12] Fondation Milgram c. Canada (Procureur général), 2023 CF 1499, par. 5.
+[13] Ibid., par. 4.
+[14] White Burgess, précité, par. 23; Abbey, précitée, par. 82.
+[15] Compagnie de téléphone Bell du Canada c. Le Roi, 2023 CCI 45, annexe A, par. 6 [Bell].
+[16] Yao c. La Reine, 2022 CCI 23, par. 17 [Yao].
+[17] Bell, précitée, annexe A, par. 12; R. c. Mohan, 1994 CanLII 80 (CSC), [1994] 2 R.C.S. 9, p. 23 [Mohan].
+[18] Yao, précitée, note 16, par. 16; Bell, précitée, note 17, annexe A, par. 7 et 8.
+[19] CBRI, précité, note 10, par. 17.
+[20] Ibid., par. 18; Mohan, précité, note 17.
+[21] Association du transport aérien international c. Canada (Office des transports), 2020 CAF 172, par. 30.
+[22] Affidavit de M. Vainionpaa, par. 1.
+[23] Avis de demande modifié, par. 19 à 21; réponse modifiée, par. 32 et 33.
+[24] Avis de demande modifié, par. 48 et 51; réponse modifiée, par. 101 à 107; réplique, par. 43.
+[25] CBRI, précité, note 10, par. 30.
+[26] Ibid., par. 18 et 32.
+[27] Bell, précitée, note 17, annexe A, par. 11 à 14.
+[28] Observations du ministre, par. 60.
+[29] Ibid., par. 61 à 64.
+[30] Mohan, précité, note 17, p. 25.
+[31] E. G. c. Ministre des Ressources humaines et du Développement des compétences, 2014 TSSDA 25, par. 35.
+[32] Winkler c. Hendley, 2021 CF 498, par. 37.
+[33] Ibid.
+[34] Ibid., par. 38.
+[35] White Burgess, précité, note 14, par. 50.
+[36] Observations de Gold Line, par. 85.
+[37] Observations du ministre, par. 60.
+[38] Observations de Gold Line, par. 89 et 90.
+[39] Observations du ministre, par. 65 et 67.
+[40] Marchand c. La Reine, 1998 CanLII 322, par. 7.

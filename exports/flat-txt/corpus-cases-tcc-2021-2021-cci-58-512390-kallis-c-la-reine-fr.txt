@@ -1,0 +1,190 @@
+Title: Kallis c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/512390/index.do
+Corpus path: corpus/cases/tcc/2021/2021-cci-58-512390-kallis-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2021-09-01
+
+# Kallis c. La Reine
+
+- Citation: 2021 CCI 58
+- Decision date: 2021-09-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4466, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kallis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-09-01
+Référence neutre
+2021 CCI 58
+Numéro de dossier
+2017-4032(IT)G
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-4032(IT)G
+ENTRE :
+MICHAEL KALLIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 17 septembre 2020, à Calgary (Alberta).
+Observations écrites sur le paragraphe 98(3) de la Loi de l'impôt sur le revenu déposées le 1er octobre 2020 (par l'appelant) et le 8 octobre 2020 (par l'intimée)
+Devant : L'honorable juge Susan Wong
+Comparutions :
+Avocat de l'appelant :
+Me Matthew Clark
+Avocate de l'intimée :
+Me Valerie Meier
+JUGEMENT
+L'appel interjeté à l'encontre des nouvelles cotisations établies aux termes de la Loi de l'impôt sur le revenu pour les années d'imposition 2010, 2011, 2012, 2013 et 2014 de l'appelant est rejeté avec dépens.
+Les parties ont jusqu'au 29 octobre 2021 pour parvenir à un accord sur les dépens, faute de quoi l'intimée déposera des observations écrites au plus tard le 30 novembre 2021 et l'appelant aura jusqu'au 10 janvier 2022 pour déposer sa réponse par écrit. Ces observations ne doivent pas dépasser dix pages. Si les parties n'informent pas la Cour qu'elles sont parvenues à un accord et qu'il n'y a pas de dépôt d'observations dans les délais mentionnés précédemment, les dépens seront adjugés à l'intimée selon le tarif B.
+Signé à Ottawa, Canada, ce 1er jour de septembre 2021.
+« Susan Wong »
+La juge Wong
+Référence : 2021 CCI 58
+Date : 20210901
+Dossier : 2017-4032(IT)G
+ENTRE :
+MICHAEL KALLIS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+I. Introduction/survol
+[1] L'appelant est un homme d'affaires autodidacte qui a fondé une entreprise de tuyauterie prospère dans l'industrie pétrolière et gazière. Il a utilisé une partie de son revenu provenant de l'entreprise de tuyauterie pour consentir des prêts à intérêt à des emprunteurs. Ces prêts avaient notamment différentes formes, différentes durées et différents taux d'intérêt. Deux emprunteurs ont fini par faire faillite ou sont devenus insolvables et n'ont pu rembourser l'appelant. Ce dernier a cherché à déduire ses pertes à titre de pertes d'entreprise, mais le ministre du Revenu national affirme que ces pertes étaient imputables au capital plutôt qu'au revenu.
+II. Les questions
+[2] La question centrale est de savoir si l'appelant exploitait une entreprise de prêt d'argent ou s'il était un investisseur au cours des années d'imposition 2010 à 2014. Cela permettra de trancher la question de savoir si ses pertes liées à Assistive Financial Corporation (« AFC ») et à First Capital Management (« FCM ») sont imputables au revenu ou au capital.
+[3] Il y a aussi la question secondaire de savoir si les frais juridiques qu'il a versés afin de recouvrer de l'argent d'AFC sont déductibles.
+III. Les questions préliminaires
+a) La thèse subsidiaire de l'appelant — Pertes au titre d'un placement d'entreprise
+[4] Au début de l'audience, l'appelant (par l'entremise de son avocat) a indiqué qu'il retirait sa thèse subsidiaire selon laquelle les pertes en cause étaient des pertes au titre d'un placement d'entreprise[1]. Dans les nouvelles cotisations visées par l'appel, le ministre du Revenu national a reconnu une perte au titre d'un placement d'entreprise à l'égard de FCM, mais non d'AFC[2].
+b) L'article 98 des Règles de la procédure générale
+[5] Peu de temps avant le début de l'audience, une question s'est présentée au sujet de l'intention de l'appelant de témoigner au sujet de renseignements qui n'avaient pas été fournis à l'intimée pendant ou après les interrogatoires préalables écrits. L'intimée s'est opposée à cette preuve orale au motif que (1) l'appelant n'a pas pris les mesures correctives requises pour fournir immédiatement les renseignements par écrit[3], (2) comme les renseignements étaient favorables à sa cause, l'appelant ne devrait pas être autorisé à les présenter à l'audience[4]. L'avocat de l'appelant a demandé l'autorisation de faire des observations écrites sur la question, et aucune des parties n'a suggéré que l'on tienne des interrogatoires préalables complémentaires. Pour trouver l'équilibre entre la commodité et l'équité, j'ai permis à l'appelant de présenter son témoignage contesté sans me prononcer sur son admissibilité et j'ai accordé aux parties le temps de déposer des observations écrites par la suite.
+[6] Le témoignage contesté porte sur (1) des prêts qui n'étaient pas déjà décrits dans la réponse de l'intimée, (2) des emprunteurs éventuels. Lors de l'interrogatoire préalable écrit de l'intimée, l'appelant a été invité à fournir des précisions sur ces deux questions[5]. Étant donné que le paragraphe 2 de l'avis d'appel modifié affirme que l'appelant a consenti de nombreux prêts de différents types, ces questions posées lors de l'interrogatoire préalable constituaient un champ d'enquête logique.
+[7] En ce qui concerne la catégorie (1), la réponse écrite de l'appelant lors de l'interrogatoire préalable était la suivante : [TRADUCTION] « Je n'ai plus accès à ces renseignements. Cela fait très longtemps[6]. » En ce qui concerne la catégorie (2), sa réponse écrite a été la suivante : [TRADUCTION] « Je n'ai pas noté les noms des emprunteurs éventuels, donc je ne connais pas ces noms »[7]. Dans cette réponse, il a invité le ministre à revoir ses déclarations de revenus pour connaître les noms des personnes à qui il a prêté de l'argent[8].
+[8] Lors de l'audience, l'appelant a expliqué qu'au moment de répondre aux questions posées lors de l'interrogatoire préalable, il voyageait à l'étranger sans avoir accès à ses dossiers et il a donné sa réponse alors qu'il manquait de temps. Il a également expliqué qu'il ne se souvenait pas des détails d'il y a 20 ans et qu'au cours des dernières années, il s'était rafraîchi la mémoire, notamment en parlant avec sa femme.
+[9] Je ne peux pas admettre en preuve le témoignage contesté à la lumière de l'explication de l'appelant sur l'ensemble des circonstances. Même s'il n'était pas en mesure de donner une réponse détaillée lors de ses réponses écrites à l'interrogatoire préalable, il semble qu'il n'y ait eu aucune tentative de prendre les mesures correctives prescrites au paragraphe 98(1) des Règles ou de demander une prorogation du délai pour donner ses réponses. Lorsqu'une partie donne une réponse au cours de l'interrogatoire préalable et se rend compte par la suite que la réponse était inexacte ou incomplète, ou n'est plus exacte et complète, elle est tenue, aux termes du paragraphe 98(1), de fournir immédiatement les renseignements mis à jour par écrit.
+[10] Ce n'est pas un cas où on a découvert des renseignements par la suite : il semble qu'il s'agisse plutôt d'un cas où la recherche n'a été faite qu'à la dernière minute avant l'audience. L'exigence en matière d'avis prévue au paragraphe 98(1) met en évidence une différence entre la façon dont de nouveaux éléments de preuve peuvent être présentés sous le régime de la procédure générale (selon laquelle il y a plusieurs étapes préparatoires à l'audience) et de la procédure informelle (selon laquelle il n'y a pas d'étapes préparatoires à l'audience). Dans les circonstances de la présente instance introduite sous le régime de la procédure générale, il est injuste que ces renseignements soient communiqués par surprise à l'intimée le jour de l'audience, parce que cela aurait pu être fait plus tôt.
+IV. Les faits
+[11] L'appelant a obtenu un diplôme en technologie du génie pétrolier en 1978 et a travaillé pour diverses sociétés pétrolières jusqu'en 1990 environ, année où il a lancé sa propre entreprise de tuyauterie. En 1990, il s'est également inscrit à un programme universitaire de deux ans pendant lequel il a étudié les affaires, les finances et la mise en marché. Il a témoigné que son entreprise est devenue immédiatement très prospère. Il a commencé à réduire sa présence physique à l'entreprise vers 2004 et, en 2006, il a été en mesure de confier les opérations quotidiennes à son personnel. Il a affirmé qu'il avait alors commencé à envisager des façons d'utiliser ses fonds excédentaires.
+[12] Il a témoigné qu'il avait utilisé le bouche à oreille dans la région de Calgary pour promouvoir sa volonté de prêter de l'argent à des emprunteurs, et qu'il les avait évalués en parlant avec ses associés et en invitant d'éventuels candidats au restaurant pour le dîner ou le souper, ou à une partie de golf afin de discuter de leurs projets. Il a témoigné qu'il avait l'intention de recevoir un revenu continu ou une prime à la fin, selon le projet. Il a également affirmé que les intérêts et les autres modalités du prêt étaient négociés par lui et l'emprunteur; par exemple, certains prêts étaient remboursés mensuellement, tandis que d'autres comprenaient le versement d'un paiement final plus important. Il a témoigné qu'il avait essayé de rester discret et qu'il n'essayait pas de concurrencer les banques. Il a affirmé qu'il passait trois ou quatre heures par jour ou par semaine à cette activité de prêt d'argent et qu'il ne conservait pas de registres ou de relevés.
+a) Assistive Financial Corporation (« AFC »)
+[13] AFC était une société privée constituée en 2002[9] dont le capital provenait de dettes financées par l'émission de billets et de débentures non garantis[10]. Sa principale activité commerciale consistait à mobiliser des capitaux et à financer des prêts administrés par The Cash Store Financial Services Inc. (« Cash Store Financial »)[11]. Cash Store Financial était un prêteur sur salaire qui fournissait des prêts sur salaire à court terme et d'autres services de financement à ses clients[12]. L'argent des prêts sur salaire provenait de sommes qu'AFC prêtait à Cash Store Financial[13]. La principale source de revenus d'AFC était le revenu d'intérêts tiré de ses prêts à Cash Store Financial[14].
+[14] L'appelant a commencé à acheter des débentures non garanties d'AFC en 2004[15]. Au cours de la période de 2010 à 2014, il a souscrit à 16 débentures, dont trois avaient été émises en 2009 et avaient été prolongées jusqu'à la période visée par l'appel[16]. Les débentures avaient généralement des durées renouvelables d'un an[17] et un taux de 16 %[18], et les montants variaient de 500 000 $ à 5 660 000 $[19].
+[15] Par exemple, l'appelant a conclu une convention de souscription le 25 avril 2013 par laquelle il a convenu d'acheter une débenture subordonnée non garantie à 16 % d'AFC pour un montant de souscription global de 500 000 $[20]. La date d'échéance de la débenture était le 25 avril 2014[21] et, au titre de la convention, la débenture serait automatiquement renouvelée pour des périodes consécutives de 12 mois, à moins que l'appelant ou AFC ne donne un avis[22]. En contre‑interrogatoire, l'appelant a convenu que les conventions qu'il avait conclues avec AFC étaient semblables à celle du 25 avril 2013.
+[16] Le 9 mars 2011, Cash Store Financial a informé AFC qu'en raison de l'augmentation des coûts, il fallait réduire les intérêts versés aux prêteurs[23]. Le lendemain, AFC a envoyé une lettre aux investisseurs pour les informer d'une réduction de 2 % de son taux d'intérêt et a demandé à l'appelant de signer un accusé de réception à titre d'investisseur[24]. L'appelant l'a fait le 31 mars[25].
+[17] De 2010 à 2013, l'appelant a reçu des paiements d'intérêts de 6 445 468 $ d'AFC[26]. En janvier 2014, 174 détenteurs de débentures (dont lui) ont demandé une ordonnance de faillite contre AFC au motif qu'AFC avait fait défaut de payer les intérêts depuis septembre 2013[27]. En ce qui concerne l'appelant en particulier, AFC lui devait 10 025 000 $ en capital et intérêts impayés[28].
+b) First Capital Management (« FCM »)
+[18] FCM était une société privée de services bancaires d'investissement dont l'activité principale était des placements dans des entreprises en démarrage[29]. Elle finançait des entreprises en démarrage en échange d'actions de fondateurs, qu'elle détenait pour une croissance en capital à long terme et une vente future[30]. Elle finançait ses activités d'investissement en partie en émettant des billets à ordre garantis et non garantis à d'autres investisseurs[31]. FCM détenait plusieurs placements dans le secteur de l'énergie[32] et, en 2010, elle avait plus de cinq employés à temps plein[33].
+[19] L'appelant a consenti à FCM quatre prêts totalisant 3 500 000 $ le 28 février 2006, le 31 mars 2006, le 31 mai 2007 et le 31 août 2007[34]. Les prêts avaient des durées de cinq ans à un taux d'intérêt mensuel de 22,5 % qui lui était payable[35]. FCM est devenue insolvable en 2010 et l'appelant a perdu la totalité des 3 500 000 $ qu'il avait prêtés[36].
+c) Frais juridiques
+[20] L'appelant a témoigné que le syndic de faillite d'AFC avait demandé aux détenteurs de débentures de verser une contribution proportionnelle aux frais juridiques. Il a déclaré qu'en tant que plus important prêteur, il était tenu de verser une contribution de 75 000 $ et que 50 000 $ lui ont finalement été remis, c'est‑à‑dire qu'il a finalement dépensé 25 000 $ en frais juridiques[37].
+V. Analyse
+[21] La définition du terme « entreprise » dans la Loi de l'impôt sur le revenu comprend « les professions, métiers, commerces, industries ou activités de quelque genre que ce soit »[38]. Compte tenu de ce libellé large, la question de savoir si le revenu d'un contribuable donné provient d'une entreprise doit être tranchée en examinant sa conduite générale à la lumière des circonstances qui s'y rapportent[39]. Plus précisément, il faut examiner le nombre d'opérations, leur importance, leur fréquence, la rotation des placements et la nature des placements eux‑mêmes[40], c'est‑à‑dire le niveau d'activité[41].
+[22] Dans la décision Kaye, l'ancien juge en chef Bowman a déclaré ce qui suit :
+[...] C'est le caractère commercial de l'entreprise, révélé par sa structure, qui en fait une entreprise. L'intention subjective de faire de l'argent entre certes en ligne de compte, mais ce n'est pas le facteur déterminant, bien que l'absence d'une telle intention puisse nuire à l'assertion qu'une activité est une entreprise.
+[...] Il faut se demander : « Est‑ce qu'une personne raisonnable qui examine une activité en particulier et applique des normes courantes de gestion d'entreprise affirmerait qu'il s'agit bien d'une entreprise? » Pour répondre à la question, la personne raisonnable fictive examinerait entre autres choses la structure du capital, les connaissances du participant et le temps consacré à l'activité. Elle évaluerait également si la personne qui prétend exploiter une entreprise a procédé de façon ordonnée et méthodique, de la manière dont une personne en affaires procéderait normalement[42].
+[23] Certains facteurs qui peuvent indiquer l'absence d'une entreprise comprennent l'absence de publicité, de recherche active de nouveaux clients, d'un système comptable et d'« évaluation » des nouveaux emprunteurs[43]. D'autre part, certains facteurs qui étayent l'existence d'une entreprise comprennent l'acquisition des fonds à prêter (par exemple, emprunter à un faible taux d'intérêt et prêter à un taux plus élevé), le fait de prendre des garanties, ainsi que le niveau global et la complexité générale des prêts[44].
+[24] Le succès de l'appelant en tant qu'homme d'affaires autodidacte est admirable, et les pertes qu'il a subies relativement à ses prêts à AFC et à FCM sont très regrettables. Je ne peux toutefois pas conclure qu'il exploitait une entreprise de prêt d'argent pendant les années faisant l'objet de l'appel, parce que les indices de l'existence d'une entreprise étaient soit absents, soit minimes. Par exemple, il a utilisé ses propres fonds excédentaires pour les prêts, ses débentures d'AFC n'étaient pas garanties, son portefeuille d'emprunteurs était très limité, et aucun élément de preuve n'a été présenté pour appuyer la conclusion que le nombre de prêts était important dans les circonstances ou qu'ils étaient complexes. Il ne semble pas non plus qu'il ait négocié des modalités avec AFC, comme la durée et le taux d'intérêt; son choix semblait plutôt limité à décider de ne pas acheter ou de ne pas prolonger une débenture.
+[25] En ce qui concerne la publicité et la promotion, l'appelant s'est fié au bouche à oreille au sein de sa communauté de Calgary et il a évalué les emprunteurs éventuels en les invitant à participer à des activités sociales. S'il y avait d'autres emprunteurs réels ou éventuels, l'appelant n'a pas fourni de documents à l'intimée lors de l'interrogatoire préalable ni tenté de présenter des documents à l'audience. Cela m'amène à tirer une conclusion défavorable selon laquelle il n'a pas conservé de dossiers relativement à ses activités de prêt; la tenue de documents correspond plutôt à une activité non commerciale (c.‑à‑d. un placement). L'appelant a prouvé son sens des affaires avec son entreprise de tuyauterie et je ne peux conclure qu'il a mené ses activités de prêt d'une manière ordonnée et méthodique, de la manière dont une personne en affaires procéderait normalement.
+[26] Selon l'article 230 de la Loi, quiconque exploite une entreprise doit tenir des registres et des livres de comptes qui permettent d'établir le montant des impôts payables et les sommes qui auraient dû être déduites pendant six ans[45]. C'est le cœur d'un système fiscal d'autocotisation volontaire, et puisque les activités de prêt de l'appelant ne constituaient pas une entreprise, je ne m'attendrais pas à ce qu'il ait de tels registres. Au cours de son témoignage, il a affirmé que ses déclarations de revenus produites contiendraient des renseignements sur les indices commerciaux mentionnés ci‑dessus. Bien que je ne sache pas ce qu'indiquaient ses déclarations produites, il serait très inhabituel qu'une déclaration contienne de tels renseignements.
+[27] En ce qui concerne les frais juridiques versés par l'appelant pendant la faillite d'AFC, ils ont été versés dans le but de recouvrer 10 025 000 $ en capital et en intérêts impayés. La restriction générale à l'alinéa 18(1)a) de la Loi prévoit qu'une dépense doit avoir été engagée en vue de tirer un revenu d'une entreprise ou d'un bien pour être déductible. Peut‑être pourrait‑on faire valoir que les frais versés pour recouvrer les intérêts (c.‑à‑d. un revenu) pourraient être déductibles. Cependant, je ne suis pas en mesure de faire de distinctions subtiles compte tenu de l'absence de preuve présentée. Étant donné que le montant total du principal a été déclaré à titre de perte d'entreprise, je conclurais, selon la prépondérance des probabilités, que les frais juridiques étaient une dépense en capital et qu'ils n'étaient pas déductibles[46].
+[28] Les éléments de preuve exclus en raison de ma décision au titre de l'article 98 des Règles étaient des témoignages assez généraux et n'auraient pas modifié ma conclusion.
+VI. Conclusion
+[29] Les activités de prêt de l'appelant n'étaient pas une entreprise et, par conséquent, ses pertes à l'égard d'AFC et de FCM étaient imputables au capital au cours des années visées par l'appel. De plus, les frais juridiques versés pour tenter de recouvrer des sommes pendant la faillite d'AFC étaient une dépense en capital. Bien que l'appelant ait retiré sa thèse subsidiaire selon laquelle les pertes en litige étaient des pertes au titre d'un placement d'entreprise, ma décision ne devrait pas avoir d'incidence sur la perte au titre d'un placement d'entreprise déjà reconnue à l'égard de FCM dans les nouvelles cotisations du ministre.
+[30] Pour tous les motifs qui précèdent, l'appel est rejeté avec dépens.
+[31] Les parties ont jusqu'au 29 octobre 2021 pour parvenir à un accord sur les dépens, faute de quoi l'intimée déposera des observations écrites au plus tard le 30 novembre 2021 et l'appelant aura jusqu'au 10 janvier 2022 pour déposer sa réponse par écrit. Ces observations ne doivent pas dépasser dix pages. Si les parties n'informent pas la Cour qu'elles sont parvenues à un accord et qu'il n'y a pas de dépôt d'observations dans les délais mentionnés précédemment, les dépens seront adjugés à l'intimée selon le tarif B.
+Signé à Ottawa, Canada, ce 1er jour de septembre 2021.
+« Susan Wong »
+La juge Wong
+RÉFÉRENCE :
+2021 CCI 58
+NO DU DOSSIER DE LA COUR :
+2017-4032(IT)G
+INTITULÉ :
+MICHAEL KALLIS c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Calgary (Alberta)
+DATE DE L'AUDIENCE :
+Le 17 septembre 2020
+Observations écrites sur le paragraphe 98(3) de la Loi de l'impôt sur le revenu déposées le 1er octobre 2020 (par l'appelant) et le 8 octobre 2020 (par l'intimée)
+MOTIFS DU JUGEMENT :
+L'honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 1er septembre 2021
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Matthew Clark
+Avocate de l'intimée :
+Me Valerie Meier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me Matthew Clark
+Cabinet :
+Matthew Clark Professional Corporation
+Calgary (Alberta)
+Pour l'intimée :
+Me François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Avis d'appel modifié, par. 7.
+[2] Réponse à l'avis d'appel, par. 12.
+[3] Règles de la Cour canadienne de l'impôt (procédure générale), par. 98(1).
+[4] Règles de la Cour canadienne de l'impôt (procédure générale), par. 98(3).
+[5] Transcription de la procédure de la Cour canadienne de l'impôt, à la page 58 (lignes 14 à 26), page 60 (lignes 6 à 12); observations écrites de l'appelant déposées le 1er octobre 2020, aux paragraphes 5 et 6.
+[6] Transcription de la procédure de la Cour canadienne de l'impôt, à la page 59 (lignes 1 à 3); observations écrites de l'appelant déposées le 1er octobre 2020, au paragraphe 5.
+[7] Transcription de la procédure de la Cour canadienne de l'impôt, à la page 60 (lignes 14 à 16); observations écrites de l'appelant déposées le 1er octobre 2020, au paragraphe 6.
+[8] Observations écrites de l'appelant déposées le 1er octobre 2020, au paragraphe 6.
+[9] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, au paragraphe n); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[10] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, au paragraphe t); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[11] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, au paragraphe u); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[12] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, au paragraphe x); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[13] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, aux paragraphes v) et w); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[14] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, au paragraphe z); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[15] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, au paragraphe ee); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[16] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, aux paragraphes ii), jj), kk) et ll); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[17] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, aux paragraphes gg) et kk); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1; pièce R‑1, onglet 3 — Convention de souscription pour les débentures, pièce 1 (de la convention) et annexe A (définition du terme [TRADUCTION] « date d'échéance »).
+[18] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, aux paragraphes kk) et ll); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[19] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, aux paragraphes kk) et ll); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[20] Pièce R‑1, onglet 3 — Convention de souscription pour les débentures, page 1.
+[21] Pièce R‑1, onglet 3 — Convention de souscription pour les débentures, pièce 1 (de la convention).
+[22] Pièce R‑1, onglet 3 — Convention de souscription pour les débentures, annexe « A » (définition du terme [TRADUCTION] « date d'échéance »).
+[23] Pièce R‑1, onglet 4.
+[24] Pièce R‑1, onglet 4.
+[25] Pièce R‑1, onglet 4.
+[26] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, au paragraphe mm); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[27] Pièce R‑1, onglet 5, paragraphe 18 et annexe A.
+[28] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, au paragraphe nn); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1; pièce R‑1, onglet 5, paragraphe 18 et annexe A.
+[29] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, aux paragraphes tt) et uu); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[30] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, aux paragraphes vv) et ww); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[31] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, au paragraphe xx); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[32] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, aux paragraphes yy) et zz); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[33] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, au paragraphe ccc); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[34] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, au paragraphe eee); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[35] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, aux paragraphes fff), ggg) et hhh); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[36] Pièce R‑1, onglet 1 — Demande d'aveux de l'intimée, aux paragraphes jjj) et kkk); pièce R‑1, onglet 2 — Réponse à la demande d'aveux, au paragraphe 1.
+[37] Pièce R‑1, onglets 10 et 11.
+[38] Loi de l'impôt sur le revenu, par. 248(1), définition du terme « entreprise ».
+[39] Canadian Marconi Company c. La Reine, [1986] 2 R.C.S. 522, par. 12; Meilleur c. La Reine, 2016 CCI 287, par. 50.
+[40] Canadian Marconi Company c. La Reine, [1986] 2 R.C.S. 522, par. 12.
+[41] Langhammer c. La Reine, 2000 CanLII 473 (C.C.I.), par. 34 et 35.
+[42] Kaye c. La Reine, 1998 CanLII 182 (C.C.I.), par. 4 et 5.
+[43] Langhammer c. La Reine, 2000 CanLII 473 (C.C.I.), par. 36; Meilleur c. La Reine, 2016 CCI 287, par. 47.
+[44] Langhammer c. La Reine, 2000 CanLII 473 (C.C.I.), par. 35; Meilleur c. La Reine, 2016 CCI 287, par. 47.
+[45] Loi de l'impôt sur le revenu, par. 230(1) et 230(4).
+[46] Loi de l'impôt sur le revenu, al. 18(1)b).

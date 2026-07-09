@@ -1,0 +1,268 @@
+---
+title: "Kelly v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29167/index.do"
+last_modified: "2009-04-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 189"
+citation2: ""
+neutral_citation: "2009 TCC 189"
+decision_date: "2009-04-07"
+language: "en"
+item_id: "29167"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6727
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:23:44.928000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b4b2a687862b2106e10810cac33d05446ee73596f8fd99b9a08a9b1e5f0bd150"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kelly v. The Queen
+
+- Citation: 2009 TCC 189
+- Decision date: 2009-04-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6727, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kelly v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-07
+Neutral citation
+2009 TCC 189
+File numbers
+2005-1710(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1710(IT)G
+BETWEEN:
+FRED KELLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 24, 2007, at Winnipeg, Manitoba.
+Before: The Honourable Gerald J. Rip, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Patrick S. Riley and Brian D. Sexton
+Counsel for the Respondent:
+Gérald L. Chartier
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002 and 2003 taxation years are dismissed with costs.
+Signed at Ottawa, Canada, this 7th day of April 2009.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2009 TCC 189
+Date: 20090407
+Docket: 2005-1710(IT)G
+BETWEEN:
+FRED KELLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, C.J.
+[1] Fred Kelly, an Indian within the meaning of section 2 of the Indian Act, appeals from income tax assessments for taxation years 1994 to 2003 inclusive, on the basis that his business income is "personal property situated on a reserve" within the meaning of section 87 of the Indian Act ("IA") and is therefore exempt from tax pursuant to the application of section 81 of the Income Tax Act ("ITA").[1] Mr. Kelly's position is that there is a preponderance of weight of connecting factors between him and a reserve to indicate that his income during the years in appeal was situated on a reserve and is thus exempt from income tax.[2]
+[2] A detailed written description of Mr. Kelly's background and experiences and the nature of his consultations were produced at trial. Mr. Kelly described the work he did on most contracts in issue. He said his work was structured to service First Nations as "bands" under the IA. He provided advisory services to their leadership, institutions and organizations that are based on reserves. He says his work addresses in a holistic manner the social, cultural and economic and political spheres and issues of traditional life on the reserve. He is concerned with the preservation of the traditional way of life on reserves.
+[3] Mr. Kelly has lived an extraordinary life. He was raised on a reserve and attended residential schools from 1947 to 1956. He later attended secondary schools in Sudbury, North Bay and Fort Frances. After high school Mr. Kelly worked for Manitoba Hydro in dam construction and for the Ontario Department of Highways. He also taught school and was a social activist. He joined a movement to do away with the IA and was part of a First Nation team negotiating the Canada Constitution.
+[4] Mr. Kelly explained that he is a Traditional Elder of the Anishinaabe Nation with unique qualifications, skills and experience. He is a member and practioner of Medewe'in being the Sacred Law and Medicine Society of the Anishinaabe, and referred to by scholars as the Grand Medicine Society of the Ojibway. Mr. Kelly has keen knowledge and understanding of Anishinaabe culture, history, traditions, customs and ceremony. This, he stated, permits him to teach, provide guidance and counsel to First Nations and their members, institutions, organizations and groups.
+[5] In 1969 Mr. Kelly opened up a Western office of the National Indian Association in Winnipeg. In about 1979, he and his wife purchased in joint tenancy a home on Lakewood Boulevard in Winnipeg. In 2000 he transferred his interest in family home to Mrs. Kelly. During the years in appeal he resided in his home in Winnipeg.
+[6] In 1978 Mr. Kelly began his business as a self-employed consultant to First Nations and persons of First Nations and their aggregates, for example, schools and child training centres. He carries on business under his own name and "Fred Kelly Counselling". He called on his interests, background, experience and knowledge to carry on his work. The fundamentals of his business were traditional strategic planning and traditional governance.
+[7] During the years in appeal Mr. Kelly performed his work on reserves and in his home office, where he had the usual basic furniture including computer and as well, as a reference library and historical records. The books and records of the business are located at his residence in Winnipeg. He worked, he said, wherever he was. In fact, Mr. Kelly performed his services mainly off reserves; he estimated he spends 30 percent of his work time on a reserve. The actual services he researched, prepared and provided were carried out, the bulk of the time, from his office in his Winnipeg home.
+[8] No log of when and where he worked on a reserve was maintained by Mr. Kelly; he estimated his time on reserves from calendar notations based on his pattern of activity. He included travel time to and from reserves as time on a reserve. Counsel for the respondent estimated that Mr. Kelly's actual time on reserves was equal to about 15 percent of time carrying on business if one excludes travel time.
+[9] Mr. Kelly secures contracts by word-of-mouth. He does not advertise or promote his business. After performing services, he sends an invoice to the client. During the years in appeal clients paid him for his services by cheque mailed to him at his residence in Winnipeg. During the years in appeal his bank was the Canadian Imperial Bank of Commerce, Southdale Branch, in Winnipeg. He has another account with a Royal Bank branch in Winnipeg.
+[10] Mr. Kelly is a member of Medewe'in, a Sacred Law and Medicine Society of the Anishinaabe, which, he testified, traces the migrations, vast territory and spiritual history of the Anishinaabe and their interactions with other peoples. As such he says he is able to provide advice to all First Nations based on his understanding of indigenous principles. The Medewe'in is a sacred society. It is stored within the spirituality of Medewe'in, Mr. Kelly explained. Medewe'in provides access to an understanding of the laws of Pimatiziwin or Sacred Life in its completeness as given by the Creator. Pimatiziwin is an explanation of life itself since the beginning of time.
+[11] Mr. Kelly also is recognized as a Traditional Elder in Canada. He has served as the Personal Elder to Phil Fontaine when he first was the National Chief of the Assembly of First Nations and at trial continued to serve as an Elder to Charles Fox, Ontario Regional Vice Chief of the Assembly of First Nations and Personal Elder and consultant to Leon Jourdain, Grand Chief of Grand Council Treaty #3 which is the traditional governance of the Anishinaabe Nation #3. He also served as the principal Elder with other groups that have been given other honours in the Anishinaabe Nation. He declared that he is one of the Custodians to whom the ancient history of the universe and creation, life and spiritual teachings, and interpretations of messages are entrusted. The ancient language, Mr. Kelly explained, is the principal means of imparting this knowledge rather than through the use of colloquialisms. He also conducts traditional ceremonies. These include the daily and four seasonal feasting ceremonies; the sweat lodge; therapy, treatment and counselling; incidental and emergency treatments with special medicines, herbs, or healing ceremonies; name-giving ceremonies; traditional marriage ceremonies; funeral ceremonies; as well as teaching lodge ceremonies to provide instruction to men, women, children, and other Elders. He said that he is also a fluent speaker and teacher of the Anishinaabe language. In an oral society such as the Anishinaabe Nation and most First Nations, knowing the language intimately is critical and provides an exclusive insight into the traditional way of life.
+[12] The services provided by Mr. Kelly to the First Nations include the conceptualizing, drafting, analysing, explaining, translating, consecrating and teaching of traditional concepts, including orders of Anishinaabe law. He is not aware of any other person who has such in-depth understanding of Anishinaabe law proficient enough to draft aspects of customary law.
+[13] Mr. Kelly explained that his work is intrinsically connected to the First Nation self‑determination through self-government which, he declared, is by nature the very heart and pulse of the traditional way of life of his clients, the people of First Nations on reserves. The nature of his work in treaties and self‑government is predicated on the nation-to-nation government-to-government relationship. Due to his skills and unique life teachings and experiences, he said, he is requested to assist First Nations with a variety of other matters in addition to his work in treaties and self-government. As such, he testified, he is requested to draft Temporal Laws in treaties and self-government, to provide assistance with the reestablishment of traditional education and to provide traditional healing to survivors of the legacy of the residential school system. He is also consulted for assistance with negotiations for First Nations relating to charitable gaming, in particular to provide guidance as to traditional games carried on by Aboriginal people in order that First Nations are aware of their aboriginal rights such that they may exercise and protect those rights. I have only described several of Mr. Kelly's engagements which are in issue in the appeals at bar.
+[14] In 1994 Mr. Kelly contracted with the Wauzhushk Onigum Nation, a band in the meaning of the IA. The principal residence of its members is Rat Portage 38B reserve where the Band Office is located and where all business affairs are conducted. Upon his recommendation, the Band reverted from the Rat Portage First Nation to its traditional name Wauzhushk Onigum which is the community within the Traditional Constitution of the Anishinaabe Nation in Treaty #3. He was retained, he said, because of his expertise in the traditional way of life consistent with traditional law and jurisdiction. The Wauzhushk Onigum was seeking to build a casino and felt that for practical reasons they ought to negotiate a Gaming Agreement with the Province of Ontario. Mr. Kelly advised that they not negotiate inherent jurisdiction over gaming and that they not seek to exercise provincial jurisdiction. In Mr. Kelly's view, the Gaming Agreement would simply be a practical administrative arrangement with the Province to generate revenue but inherent aboriginal jurisdiction over gaming would remain intact. The Agreement would therefore be interim in nature pending a more permanent arrangement on gaming based on sovereignty, nationhood, the spirit of the treaty, and the inherent right of self-government.
+[15] In 1995 Mr. Kelly provided services to Naotkamegwaaning (Whitefish Bay First Nation) for approximately 50 days. He was responsible for the Whitefish Bay First Nation reverting to its traditional name, amongst other things. One of the matters he was consulted with by the Naotkamegwaaning Nation was to analyze the overall management of First Nation service delivery and completed the qualification for entry into an Alternative Funding Arrangement with the Department of Indian Affairs. This analysis, he explained, highlighted the major strengths and gave a general overview of leadership, organization, personnel management, program management and financial management. The key issues of the ultimate financial arrangements in terms of finance with greater authority to transfer funds within programs to better fit First Nations' financial needs, along with financial planning arising with up to five years and primary financial accountability belongs to the First Nations citizenship. The analysis, in Mr. Kelly's view, was a preparatory and transitory step back to traditional governance negotiation conducted at the same time.
+[16] In 1996 he was retained by the Grand Chief of Grand Council Treaty #3, to provide advisory services on the matter of traditional governance in the Treaty #3 territory. He participated in the drafting of the framework Agreement and personally gave it the name of "Bimiwinitizowin Omaa Akiing – Governance on Our Land". This continues to be the name of the process. Mr. Kelly explained that this governance initiative represents the very essence of the four orders of Anishinaabe Law. Through this process the Anishinaabe Nation in Treaty #3 is in transition back to traditional governance. Grand Council Treaty #3 takes the position that it is not interested in exercising federal or provincial jurisdiction; it is only interested in exercising its own inherent jurisdiction and the resources to do so. For practical arrangements that are consistent with the inherent right of self-government and Treaty #3, Mr. Kelly asserted, there must be a harmonization of the administration of Anishinaabe laws with the laws of Canada and this is where the services are brought to bear.
+[17] These are some of the services that Mr. Kelly provided to various reserves. He testified that he was engaged by individual reserves to advise them on how to secure or retain their distinct traditional and historic cultures. He said that he was instrumental in ensuring that these reserves had the capacity and resources to pursue their goals. A list of invoices Mr. Kelly sent to clients for the years in appeal was produced as well as a list where clients carried on their activities. One client was in the United States, another was a publicly traded corporation and another was not on a reserve. Mr. Kelly does not claim that the income from these clients is exempt. The other clients are located on reserves or connected to reserves and it is the income earned from them that is the subject of these appeals. A reconstructed list of where and when Mr. Kelly performed services on reserves based on available records is included as Annex A to these reasons.
+[18] The services he provides, Mr. Kelly declared, are not rendered in the commercial mainstream. He explained that while other First Nation consultants address Aboriginal law, he deals with Anishinaabe law, the difference is that the former is the practice of mainstream law that determines when and how the laws of Canada affect or do not affect First Nations. The latter is the knowledge and practice of indigenous law itself which can only be discerned by special skills, qualifications, knowledge and expertise that he possesses.
+[19] The work he carried on, Mr. Kelly explained, must be performed in ceremony. There is no separation of church and state. Any discussion of sacred law, for example, must be in ceremony.
+[20] The First Nations' history is not written. It is an oral history which Mr. Kelly shares with various First Nations. The actual cultural and traditional work he contracts for is done at home and on reserves.
+[21] The appellant submits that the preponderance of the weight of connecting factors indicates that his income during the years in appeal was situated on a reserve and is, therefore, exempt from tax under the combined application of paragraph 81(1)(a) of the ITA and section 87 of the IA.
+[22] Subsection 81(1) of the ITA exempts certain income from tax. The provision reads:
+There shall not be included in computing the income of a taxpayer for a taxation year,
+Ne sont pas inclus dans le calcul du revenu d'un contribuable pour une année d'imposition:
+(a) an amount that is declared to be exempt from income tax by any other enactment of Parliament, other than an amount received or receivable by an individual that is exempt by virtue of a provision contained in a tax convention or agreement with another country that has the force of law in Canada.
+a) une somme exonérée de l'impôt sur le revenu par toute autre loi fédérale, autre qu'un montant reçu ou à recevoir par un particulier qui est exonéré en vertu d'une disposition d'une convention ou d'un accord fiscal conclu avec un autre pays et qui a force de loi au Canada.
+[23] Section 87 of the IA provides that:
+(1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to s. 83, the following property is exempt from taxation, namely,
+(1) Nonobstant toute autre loi fédérale ou provinciale, mais sous réserve de l'article 83, les biens suivants sont exemptés de taxation:
+(a) the interest of an Indian or a band in reserve lands or surrendered lands.
+a) le droit d'un Indien ou d'une bande sur une réserve ou des terres cédées.
+(b) the personal property of an Indian or a band situated on a reserve.
+b) les biens meubles d'un Indien ou d'une bande situés sur une réserve.
+(2) No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property.
+(2) Nul Indien ou bande n'est assujetti à une taxation concernant la propriété, l'occupation, la possession ou l'usage d'un bien mentionné aux alinéas (1)a) ou b) ni autrement soumis à une taxation quant à l'un de ces biens.
+[24] Appellant's counsel reviewed many of the leading cases touching the issue in appeal. In Nowegijick v. R.,[3] the Supreme Court of Canada held that the situs of salary received by Mr. Nowegijick, an Indian as defined by section 2 of the IA, was the residence or place of the debtor, irrespective where the employment was carried on.
+[25] Williams v. Canada,[4] a decision of the Supreme Court of Canada, was concerned with the taxability of unemployment insurance benefits received by an Indian following employment on a reserve by an employer located on a reserve. Appellant's counsel described this case as the leading case on the interpretation of the phrase "situated on a reserve" in subsection 87(1) of the IA. The Crown had argued that the unemployment insurance benefits should be taxable on the basis that the situs of the income was located off the reserve, since the residence of the debtor (i.e. the Government of Canada) was located off the reserve. The Supreme Court disagreed and held that the unemployment insurance benefits were not taxable since its situs was located on the reserve. Gonthier J., speaking for the majority of the Court, stated that:
+. . . The test for situs under the Indian Act must be constructed according to its purposes, not the purposes of the conflict of laws. Therefore, the position that the residence of the debtor exclusively determines the situs of benefits such as those paid in this case must be closely re-examined in light of the purposes of the Indian Act. It may be that the residence of the debtor remains an important factor, or even the exclusive one. However, this conclusion cannot be directly drawn from an analysis of how the conflict of laws deals with such an issue.[5]
+[26] The Supreme Court in Williams sets out an approach, or a new test, a "connecting factors test", to determine situs: identify the various connecting factors which are potentially relevant and then analyze them to determine what weight should be given to each "in identifying the location of the property, in light of three considerations: (1) the purpose of the exemption under the Indian Act; (2) the type of property in question; and (3) the nature of the taxation of that property. The question with regard to each connecting factor is therefore what weight should be given that factor in answering the question whether to tax that form of property in that manner would amount to the erosion of the entitlement of the Indian qua Indian on a reserve".[6]
+[27] Gonthier J. expressed the following view with respect to sections 87, 89 and 90 of the IA:[7]
+[T]he purpose of these sections was to preserve the entitlements of Indians to their reserve lands and to ensure that the use of their property on their reserve lands was not eroded by the ability of governments to tax, or creditors to seize. The corollary of this conclusion was that the purpose of the sections was not to confer a general economic benefit upon the Indians.
+[28] Gonthier J., added:
+Therefore, under the Indian Act, an Indian has a choice with regard to his personal property. The Indian may situate this property on the reserve, in which case it is within the protected area and free from seizure and taxation, or the Indian may situate this property off the reserve, in which case it is outside the protected area, and more fully available for ordinary commercial purposes in society. Whether the Indian wishes to remain within the protected reserve system or integrate more fully into the larger commercial world is a choice left to the Indian.
+The purpose of the situs test in s. 87 is to determine whether the Indian holds the property in question as part of the entitlement of an Indian qua Indian on the reserve. Where it is necessary to decide amongst various methods of fixing the location of the relevant property, such a method must be selected having regard to this purpose.[8]
+[29] Earlier, in Mitchell v. Peguis Indian Band[9], LaForest J. stated that:
+In summary, the historical record makes it clear that ss. 87 and 89 of the Indian Act, the sections to which the deeming provision of s. 90 applies, constitute part of a legislative "package" which bears the impress of an obligation to native peoples which the Crown has recognized at least since the signing of the Royal Proclamation of 1763. From that time on, the Crown has always acknowledged that it is honour-bound to shield Indians from any efforts by non-natives to dispossess Indians of the property which they hold qua Indians, i.e., their land base and the chattels on that land base.
+It is also important to underscore the corollary to the conclusion I have just drawn. The fact that the modern-day legislation, like its historical counterparts, is so careful to underline that exemptions from taxation and distraint apply only in respect of personal property situated on reserves demonstrates that the purpose of the legislation is not to remedy the economically disadvantaged position of Indians by ensuring that Indians may acquire, hold, and deal with property in the commercial mainstream on different terms than their fellow citizens. An examination of the decisions bearing on these sections confirms that Indians who acquire and deal in property outside lands reserved for their use, deal with it on the same basis as all other Canadians.
+[30] LaForest J. also cautioned that:[10]
+. . . in the absence of a discernible nexus between the property concerned and the occupancy of reserve lands by the owner of that property, the protections and privileges of ss. 87 and 89 have no application.
+. . .
+I draw attention to these decisions by way of emphasizing once again that one must guard against ascribing an overly broad purpose to ss. 87 and 89. These provisions are not intended to confer privileges on Indians in respect of any property they may acquire and possess, wherever situated. Rather, their purpose is simply to insulate the property interests of Indians in their reserve lands from the intrusions and interference of the larger society so as to ensure that Indians are not dispossessed of their entitlements. The Alberta Court of Appeal in Bank of Nova Scotia v. Blood, [1990] 1 C.N.L.R. 16, captures the essence of the matter when it states, at p. 18, in reference to s. 87, that: "In its terms the section is intended to prevent interference with Indian property on a reserve."
+[31] The "connecting factors" test was considered by the Federal Court of Appeal in Canada v. Folster (sub nom. Clarke v. M.N.R.).[11] Linden J.A. writing for the Court of Appeal, referred to LaForest J.'s reasons in Mitchell who, Linden J.A. wrote, characterized the purpose of the tax exemption under section 87 of the IA as "an effort to preserve the traditional way of life in Indian communities by protecting property held by Indians qua Indians on a reserve"[12] and it was on this basis that the "connecting factors" text was developed. Counsel declared that the purpose of Mr. Kelly's work was to preserve the traditional way of life in Indian communities. Linden J.A., adopted the views of Gonthier J. in Williams who:
+. . . recognized that, although there are necessarily many factors which may be of assistance in determining the situs of intangible property such as unemployment insurance or employment income, the relevance of these "connecting factors" must be assessed on the basis of their ability to further the purpose of section 87. Further, the weight to be given to each factor may change from case to case.[13]
+[32] However, Linden J.A., cautioned:[14]
+This new test was not designed to extend the tax exemption benefit to all Indians. Nor was it aimed at exempting all Indians living on reserves. Rather, in suggesting reliance on a range of factors which may be relevant to determining the situs of the property, Gonthier J. sought to ensure that any tax exemption would serve the purpose it was meant to achieve, namely, the preservation of property held by Indians qua Indians on reserves so that their traditional way of life would not be jeopardized.
+. . .
+. . . It must be recalled that the connecting factors test is simply a way for courts to apply the situs principle in a principled way, by bringing some structure to the inquiry. It is an inquiry which has, as its basic question: having regard for the legislative purpose for which the section 87 tax exemption was enacted, where does it make the most sense to locate the situs of the personal property at issue? The test is no more magic than that.
+[33] Appellant's counsel argued that his client's work was connected to a reserve that was designed to protect the potential danger to the erosion of Native property. He again referred to the views of Linden J.A., this time, in his reasons in Recalma v. Canada:[15]
+In evaluating the various factors the Court must decide where it "makes the most sense" to locate the personal property in issue in order to avoid the "erosion of property held by Indians qua Indians" so as to protect the traditional Native way of life. It is also important in assessing the different factors to consider whether the activity generating the income was "intimately connected to" the Reserve, that is, an "integral part" of Reserve life, or whether it was more appropriate to consider it a part of "commercial mainstream" activity. (see Folster v. The Queen (1997), 97 D.T.C. 5315 (F.C.A.)) We should indicate that the concept of "commercial mainstream" is not a test for determining whether property is situated on a reserve; it is merely an aid to be used in evaluating the various factors being considered. It is by no means determinative. The primary reasoning exercise is to decide, looking at all the connecting factors and keeping in mind the purpose of the section, where the property is situated, that is, whether the income earned was "integral to the life of the Reserve", whether it was "intimately connected" to that life, and whether it should be protected to prevent the erosion of the property held by Natives qua Natives.
+[34] Linden J.A. stated that different factors may be given different weight in each case. What is "extremely important" is the type of income being considered as attracting tax. For example, "where business income is involved, most weight was placed on where the work was done and where the source of the income was situated".[16]
+[35] In his latter comments Linden J.A. referred to the reasons in Southwind v. The Queen,[17] which was released several months earlier by the Federal Court of Appeal and was concerned with whether a business carried on by an Indian residing on a reserve, was situated on a reserve. The business provided exclusive logging services to a non-Indian business not situated on a reserve. Both this Court and the Court of Appeal confirmed the assessment, that the business was not situated on a reserve. The Tax Court considered "connecting factors" to include the appellant's residence, the place where the appellant's income was paid (i.e., the bank used by the debtor) and where the income was earned or the work performed; the most weight was to the latter factor.
+[36] The Court of Appeal doubted the accuracy of the evaluation of the "connecting factors" applied by this Court. Linden J.A., in Southwind, accepted the Crown's set of factors to consider in deciding whether business income is situated on a reserve:
+. . . (1) the location of the business activities, (2) the location of the customers (debtors) of the business, (3) where decisions affecting the business are made, (4) the type of business and the nature of the work, (5) the place where the payment is made, (6) the degree to which the business is in the commercial mainstream, (7) the location of a fixed place of business and the location of the books and records, and (8) the residence of the business' owner.[18]
+[37] Linden J.A. then referred to Mitchell, supra, where, according to the Supreme Court:
+. . . where an Indian enters into the "commercial mainstream", he must do so on the same terms as other Canadians with whom he competes. Although the precise meaning of this phrase is far from clear, it is clear that it seeks to differentiate those Native business activities that deal with people mainly off the Reserve, not on it. It seeks to isolate those business activities that benefit the individual Native rather than his community as a whole, recognizing, of course, . . . [as appellant's counsel says], that a person benefits his or her community by earning a living for his family.[19]
+[Emphasis added.]
+[38] In Canada v. Monias,[20] Evans J.A. noted that:
+. . . while the employees' work may help to maintain and enhance the quality of life on the reserves for members of the bands living there, it does not necessarily connect the acquisition or use of their employment income to the reserves as physical locations.
+[39] In the appeal at bar, Mr. Kelly's counsel asserts, Mr. Kelly did not enter the "commercial mainstream" since, among other things, he did not deal with persons mainly off the reserve.
+[40] Appellant's counsel also referred to Employment Income Guidelines published by the Canada Revenue Agency ("CRA") in June 1994 with a view to assisting status Indians to determine whether employment income is exempt or not from taxation. The Guidelines incorporate "connecting factors" that describe various employment situations contemplated by section 5.87 of the IA. Guideline 4 reads as follows:
+WHEN:
+* THE EMPLOYER IS RESIDENT ON A RESERVE; AND
+* THE EMPLOYER IS:
+* AN INDIAN BAND WHICH HAS A RESERVE, OR A TRIBAL COUNCIL REPRESENTING ONE OR MORE INDIAN BANDS WHICH HAVE RESERVES, OR
+* AN INDIAN ORGANIZATION CONTROLLED BY ONE OR MORE SUCH BANDS OR TRIBAL COUNCILS, IF THE ORGANIZATION IS DEDICATED EXCLUSIVELY TO THE SOCIAL, CULTURAL, EDUCATIONAL, OR ECONOMIC DEVELOPMENT OF INDIANS WHO FOR THE MOST PART LIVE ON RESERVES; AND
+* THE DUTIES OF THE EMPLOYMENT ARE IN CONNECTION WITH THE EMPLOYER'S NON-COMMERCIAL ACTIVITIES CARRIED ON EXCLUSIVELY FOR THE BENEFIT OF INDIANS WHO FOR THE MOST PART LIVE ON RESERVES;
+ALL OF THE INCOME OF AN INDIAN FROM AN EMPLOYMENT WILL USUALLY BE EXEMPT FROM INCOME TAX.
+[41] The following are two of the examples the CRA states are exempt:
+Mr. N. works for the education department of a tribal council at an off-reserve location central to several reserves. Mr. N lives off reserve and the tribal council is resident on one of the reserves. Mr. N is exempt from income tax on his employment income because the duties he performs for the tribal council are connected to the reserves served by the council, and the employer is resident on a reserve.
+. . .
+Mr. P works for an Indian organization providing child and family related services to members of a large number of bands with reserves scattered over a large area within a province. Some of these services are provided in the provincial capital, where Mr. P works, and the organization's administrative office is at an off-reserve location central to the bands served. However, the organization's directors, consisting of the band chiefs, meet at each reserve in rotation. Mr. P is exempt from income tax on his employment income because the duties he performs for the Indian organization that employs him are connected to the reserves served by the Indian organization, and the employer is resident on a reserve.
+[42] While these guidelines and case law such as Bell v. Canada,[21] refer to employment income, principles applied to determine situs of employment income may be useful in analyzing the situs of business income as well.
+[43] There is no doubt that Mr. Kelly's knowledge, background and perseverance are valuable resources to the First Nations. However, notwithstanding that his business activity may be invaluable to the First Nations and he performed his work primarily for persons and organizations on a reserve to promote Indian tradition and custom, does it necessarily follow that his income from the business is "personal property [of Mr. Kelly] situated on a reserve" within the meaning of subsection 87(1) of the IA?
+[44] Mr. Kelly's clients, that is, the debtors from whom he earned the income in issue, resided on reserves. The clients were reserves, bands, Indian leaders, institutions, organizations and groups. His work is important to the economic and cultural life of the First Nations communities. However, Mr. Kelly spent only between 15 percent and 30 percent, probably the lesser amount, of his time on any reserve. He performed the greater portion of his work at home in Winnipeg.
+[45] Appellant's counsel submitted that the case law and CRA's administrative policy supported Mr. Kelly's position that his business income was situated on a reserve. He referred to Pete,[22] an Indian under the IA and a consultant with expertise in Indian matters and funding of Indian activities who assisted status Indians and Indian bands and groups as well as the Federal Department of Indian Affairs. Mr. Pete lived and resided in Saskatoon and like Mr. Kelly, maintained an office in his residence. In Pete, the trial judge was influenced by the situs of the debtor and held that income earned from the Department of Indian Affairs was not situated on a reserve since the Department was not located on a reserve. Income earned from consulting to Indian bands was exempt under section 87 of the IA. The trial judge relied on Nowogijick which, counsel submitted, is still good law depending on the circumstances.
+[46] Residence of the debtor may still be "an important factor, or even the exclusive one", as stated in paragraph 32 of Williams, counsel asserted. The reason the residence of the debtor was discarded as a significant factor in Williams was because of the conceptual difficulty in establishing the residence of the Crown in any one place in Canada. In Mr. Kelly's case, his counsel argued, the residence of the debtor, the First Nations and then members, organizations and groups, were resident on reserves. The "connecting factors" test described in Williams, then, must be applied in light of the purpose of the section 87 tax exemption, which counsel declared, was summarized in Folster "as an effort to preserve the traditional way of life in Indian communities by protecting property held by Indians qua Indians on a reserve".[23]
+[47] Appellant's counsel referred to the set of factors described by Linden J.A. in paragraph 36 of these reasons to consider in deciding whether business income is situated on a reserve. I shall deal with each of them.
+(a) The location of the business activities
+A relatively low portion of time during which Mr. Kelly performed his services for any client was actually on a reserve. Travel to and from a reserve is not time on a reserve. Mr. Kelly's research was performed in Winnipeg; the bulk of his work was performed in Winnipeg: providing translation, correspondence, drafting documents, preparing forums and presentations. In appellant counsel's view the fact Mr. Kelly worked from home should carry little weight since the work he did at home was integral to the life of reserves and intimately connected to that life. Also, counsel adds, the nature of his client's business did not involve dealing with tangible property such as fishing and logging, for example. Therefore counsel submits little weight should be given to this factor.
+(b) Location of the debtors of Mr. Kelly
+The debtors of the income in issue earned by Mr. Kelly resided on a reserve. Appellant submits that in light of the purpose of the tax exemption as summarized by Linden J.A. in Folster, "to preserve the traditional way of life in Indian communities", significant weight should be accorded to this factor.
+(c) The location where decisions are made
+The bulk of this factor occurs in Winnipeg. Counsel states that this factor need not take place in a particular location and therefore little weight should be given to it.
+Whether or not a business, or any of its components, may be carried on in any location is not relevant; what is relevant is where, in fact, the business, or a substantial part of it, is carried on.
+(d) Type of business and nature of the work
+This is perhaps the most significant favourable factor in the appellant's case.
+Mr. Kelly carried on the business to contribute to the preservation of the traditional life of First Nations people and their communities and, as I say earlier, was a valuable and significant contribution to the life of a reserve. That Mr. Kelly may have had clients who were not connected to a reserve cannot be ignored but does not detract from the overall nature of the business.
+(e) Place where payment was made
+Appellant's counsel states no weight should be granted to this factor since its relevance is questionable based on its inability to further the purpose of section 87 of the IA.
+(f) Degree to which the business is in the commercial mainstream
+The unique nature of Mr. Kelly's business and the services provided, counsel declares, are such that they are outside the commercial mainstream. Mr. Kelly's counsel says that his client was not competing in the commercial mainstream with other persons. His services were entrenched in the traditional, social and cultural integrity of life on reserves and promote the preservation and furtherance of the traditional way of life on reserves and are a benefit to the Native communities as a whole, such that section 87 of the IA applies.
+(g) Location of a fixed place of business and the location of the books and records
+This factor, Mr. Kelly's counsel states, should also be given little weight as it is inapt in Mr. Kelly's circumstances to further the purpose of the tax exemption. Factors such as this should not outweigh the really significant connecting factors in favour of Mr. Kelly's position.
+(h) Residence of the owner of the business
+Like in (g) above, counsel minimizes the importance of this factor on the overall scheme. This factor also is not apt in Mr. Kelly's circumstances to further the purpose of the tax exemption.
+Appellant's counsel submits that based on Mr. Kelly's unique qualifications, skills and experience, and his distinctive knowledge and understanding of Anishinaabe culture, history, traditions, customs and ceremonies, there is little doubt that the business income he earns is property that he holds as an Indian qua Indian. Therefore, he says, having regard to all the "connecting factors" identified in the context of business income and the proper weight to be accorded to them, and keeping in mind the purpose of the exemption from taxation under section 87 of the IA, Mr. Kelly's business income should be protected to prevent the erosion of property held by an Indian qua Indian as the services giving rise to this property were "integral to the life of reserves" and were "intimately connected" to that life.
+Counsel suggests that had Mr. Kelly been employed under a contract of service, rather than engaged under a contract for service, by the First Nations and their leaders, members, institutions, organizations and groups to whom he provided his services, the CRA would likely have exempted his income under Guideline 4. Counsel says that Guideline 4 the CRA expressly acknowledges that significant weight should be given to the nature of the employment duties performed by a status Indian when they are provided in connection with the employer's non-commercial activities carried on exclusively for the benefit of Indians who for the most part live on reserves. As Mr. Kelly was his own employer and his activities were non-commercial in nature and carried on exclusively for the benefit of Indians who for the most part live on reserves, it follows that significant weight should be given to the nature of the services he provided. According to appellant's counsel Guideline 4 implicitly acknowledges that strict requirements to the effect that a status Indian must live on reserve and that all of his duties or activities must be carried out on reserve are artificial and unreasonable restrictions in the application of section 87 of the IA. Therefore, the fact that Mr. Kelly did not live on reserve and carried out most of his activities off reserve should carry little weight in the circumstances.
+[48] Unfortunately for the appellant I cannot agree with him that his business income was situated on a reserve.
+[49] The purpose of section 87 of the IA, as stated earlier, is to preserve the traditional way of life in Indian communities by protecting property held by Indians qua Indians on a reserve and that government or creditors do not seize or erode the use of the land. In Union of New Brunswick Indians v. New Brunswick (Minister of Finance),[24] McLaughlin J. (as she then was) noted that the purpose of sections 87 and 89
+. . . is simply to insulate the property interests of Indians in their reserve lands from the intrusion and interference of the larger society so as to ensure that Indians are not dispossessed of their entitlements.
+On the other hand, section 87 does not confer a general economic benefit upon the Indians.
+[50] What we are considering in this appeal is whether the situs of Mr. Kelly's income, his personal property, is or is not on a reserve, notwithstanding the benefits that his services have endowed upon his clients. Section 87 of the IA addresses the "personal property on a reserve", not whether the individual resides on a reserve.
+[51] There are factors in Mr. Kelly's business that are connected to reserves. His debtors are reserves, bands, Indians and groups from reserves and reserve leaders. Also, the type of counselling Mr. Kelly makes available through his business to reserves and others aligned to the reserves is invaluable and meets the test of preserving the traditional way of life in Indian communities; this connection cannot be overemphasized. Appellant's counsel aggressively promotes the weight of these two factors. Counsel asks me to give very little, if any, weight to those factors that have little or no connection to a reserve and very little to do to preserving traditional way of life in Indian communities, but nevertheless influence Mr. Kelly's business operations.
+[52] Mr. Kelly carried on his business to a very large extent off reserves or "a reserve". Business decisions were made off a reserve. The research and the development of the work for which Mr. Kelly was consulted were performed at his residence in Winnipeg. He received payment for his work by mail addressed to him at his Winnipeg residence. Mr. Kelly maintained the business' books and records in Winnipeg. He also accepted contracts from non-status Indians. These are important characteristics colouring Mr. Kelly's business and how he approached his business. It is no doubt true that he possesses expertise in his chosen field that is of great value to preserving traditional way of life to Indian communities. However, one cannot ignore the manner in which the business was operated.
+[53] In Williams, Gonthier J. cautioned that:
+. . . it would be dangerous to balance connecting factors in an abstract manner, divorced from the purpose of the exemption under the Indian Act. A connecting factor is only relevant in so much as it identifies the location of the property in question for the purposes of the Indian Act. In particular categories of cases, therefore, one connecting factor may have much more weight than another. It would be easy in balancing connecting factors on a case by case basis to lose sight of this.[25]
+[54] Mr. Kelly carried on business from his residence in Winnipeg. His residence in Winnipeg was the centre or nucleus of his business operations. From Winnipeg he consulted with the many reserves and Indians who engaged his services to advance the preservation of their traditions. To this extent he carried on his business as any other consultant would: he had an expertise, he found a niche where he could exploit his expertise and offered and provided his services to persons who could make good and valued use of his expertise and he invoiced his clients for services performed. He was carrying on business as any other Canadian in a commercial mainstream.
+[55] I have noted the observations of the Federal Court of Appeal per Rothstein, Evans and Malone JJ.A. in The Queen v. Shilling,[26] who acknowledged that:
+42 . . . paragraph 87(1)(b) refers to personal property of an Indian that is situated on "a reserve" and not "the reserve" of the Indian in question. The Trial Judge inferred (paragraph73) from this that an Indian's property situated on any reserve is eligible for the tax exemption conferred under paragraph 87(1)(b). However, we are not convinced that this meaning is compelled by the language of paragraph87(1) (b), although we recognise [sic] that the personal property of an Indian may attract the benefits of section 87, even when, like Ms. Shilling, its owner does not reside on a reserve.
+43 In Desnomie v. The Queen,[27] . . . at paragraph 21, it was doubted whether section87 applies to personal property located on a reserve other than the taxpayer's own reserve. These doubts are reinforced by a passage in Leonard v. R. in Right of British Columbia (1984), 52 B.C.L.R. 389, at 395 (C.A.), where Macfarlane, J.A. seems to have taken the more restrictive view of the scope of section87:
+It is a reasonable interpretation of the section to say that a tax exemption on the personal property of an Indian will be confined to the place where the holder of such property is expected to have it, namely on the lands which an Indian occupies as an Indian, the reserve.
+[Emphasis added to the word "the"]
+[56] These comments imply a requirement that a taxpayer's personal property be connected to a particular reserve, whether or not the Indian resides on the reserve. There was no evidence linking Mr. Kelly's personal property to a particular reserve.
+[57] I cannot satisfy myself that Mr. Kelly's income from his business is protected from section 87 of the IA, that he held his income from business as part of the entitlement of an Indian qua Indian on a reserve. There is no nexus between the business income received by Mr. Kelly and the occupancy of reserve lands by him personally. While I have given some weight to the fact that his debtors were reserves or persons residing on reserves and significant weight to the services he provided to these persons, I cannot identify the location of Mr. Kelly's income as being on a reserve. Once the property, i.e., the amount of money invoiced and paid to Mr. Kelly, left a reserve it entered the economy off the reserve. The money, when received by Mr. Kelly, ceased to have anything to do with a reserve. The factors in favour of the income not being on a reserve have more weight than any factors that may arguably be connected to a reserve.
+[58] The appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 7th day of April 2009.
+"Gerald J. Rip"
+Rip C.J
+Annex A
+CITATION: 2009 TCC 189
+COURT FILE NO.: 2005-1710(IT)G
+STYLE OF CAUSE: FRED KELLY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATE OF HEARING: October 24, 2007
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: April 7, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Patrick S. Riley and Brian D. Sexton
+Counsel for the Respondent:
+Gérald L. Chartier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Patrick S. Riley and Brian D. Sexton
+Firm: Taylor McCaffrey
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In his notice of appeal Mr. Kelly submitted an alternative argument that the imposition of tax on his income is contrary to the spirit and interest of Treaty 3 Promise and a violation of his Treaty 3 right. Mr. Kelly abandoned this argument prior to trial. The treaty referred to as Treaty 3 is a treaty between the Crown and the Saulteaux tribe of the Ojibeway Indians affecting certain lands within Manitoba and Ontario ("Treaty 3 lands") and is known as the North-West Angle Treaty, Number 3.
+[2] Upon agreement of all parties, the reasons for judgment on these appeals awaited the decision of the Federal Court of Appeal in The Queen v. Margaret McKay, (2009 FCA 43), which was issued on February 12, 2009.
+[3] [1983] 1 S.C.R. 29, see also Pete v. M.N.R., 91 DTC 204 (TCC).
+[4] [1992] 1 S.C.R. 877.
+[5] Supra, para. 32.
+[6] Williams, supra, at para. 37.
+[7] Para. 16.
+[8] paras 18 and 19.
+[9] [1990] 2 S.C.R. 85, 131.
+[10] Supra, 133.
+[11] [1997] 3 F.C. 269 (FCA).
+[12] Para. 14.
+[13] Para. 16.
+[14] Para. 16.
+[15] [1998] 2 C.T.C. 403, 98 DTC 6239, 6239-40 (FCA).
+[16] Idem, p. 6240.
+[17] 98 DTC 6084 (FCA).
+[18] Idem, 6087, see also Bell v. Canada, [2000] 3 C.T.C. 181 (FCA), regarding situs of employment income, Cleary v. R., 2004 TCC 711, concerning situs of partnership income, Giguere v. R., 2005 TCC 257 and Desnomie v. Canada, (FCA) [2000] F.C.J. No. 528 (QL), paras 7 and 12, concerning situs of business income.
+[19] Southwind, supra, para. 14.
+[20] [2001] F.C.J. No. 1168 (FCA), para. 46 (leave to appeal to S.C.C. denied).
+[21] [2000] F.C.J. No. 680 (FCA).
+[22] Supra, note 2.
+[23] Supra, para. 14.
+[24] [1998] 1 S.C.R. 1161, para. 38.
+[25] Supra, para. 35.
+[26] 2001 DTC 5420 (FCA), paras 42-43.
+[27] The reasons for judgment by the Federal Court of Appeal in Desnomie were written by Rothstein J.A., as he then was. The French version of the IA uses the words "une réserve", not "la réserve".

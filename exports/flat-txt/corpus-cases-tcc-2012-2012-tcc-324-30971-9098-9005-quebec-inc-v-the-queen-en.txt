@@ -1,0 +1,207 @@
+Title: 9098-9005 Quebec Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30971/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-324-30971-9098-9005-quebec-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-10-02
+
+# 9098-9005 Quebec Inc. v. The Queen
+
+- Citation: 2012 TCC 324
+- Decision date: 2012-10-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4819, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+9098-9005 Quebec Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-02
+Neutral citation
+2012 TCC 324
+File numbers
+2008-2622(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2622(IT)G
+BETWEEN:
+9098-9005 QUEBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 18 and 19, 2012, at Montreal, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the Appellant:
+Larry Gitman
+Counsel for the Respondent:
+Grégoire Cadieux
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments and reassessments made under the Income Tax Act for the taxation years ending November 30, 2003, November 30, 2004 and November 30, 2005 are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 2nd day of October 2012.
+“Paul Bédard”
+Bédard J.
+Citation: 2012 TCC 324
+Date: 20121002
+Docket: 2008-2622(IT)G
+BETWEEN:
+9098-9005 QUEBEC INC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] By way of assessments and reassessments dated August 22, 2007, the Minister of National Revenue (the "Minister") disallowed small business deductions in the amounts of $16,830, $15,156 and $ 14,475 claimed by the Appellant for the taxation years ending November 30, 2003, November 30, 2004 and November 30, 2005 respectively. The Minister concluded that the Appellant was a personal services business during the taxation years under appeal and consequently disallowed the small business deductions claimed by the Appellant. The Minister concluded that the Appellant was a personal services business on the basis that, if it were not for the existence of the Appellant, Mr. Gitman could reasonably be regarded as an officer or employee of the entity to which the services were provided. The Appellant appealed the assessments and reassessments.
+[2] Essentially, the evidence submitted by the parties revealed the following:
+a) The Appellant was wholly owned by Larry Gitman.
+b) During the taxation years under appeal, the Appellant had fewer than six full-time employees.
+c) Mrs. Rywka Gitman died on December 14, 2002. In her will, she bequeathed her estate (essentially 13 rental properties, cash and a fur business) to her three children (Larry Gitman, Molly Gruman and Anita Eisenstat) in equal portions. In January 2004, the assets of Mrs. Rywka Gitman’s estate were transferred to her three children in equal portions. After the transfer of the said assets, the three children decided to pool the 13 rental properties and to use them to develop a real estate business. They also tried to develop together the fur business which they had inherited. They even attempted to buy a car dealership. In other words, they were involved in all kinds of businesses or business ventures. In fact, after the transfer of the said assets, the three children became partners in a de facto partnership ("De Facto Partnership").
+d) From Mrs. Rywka Gitman’s death to the transfer of her estate’s assets to her children, the sole client of the Appellant was Mrs. Rywka Gitman’s estate. After the transfer of the said assets, the sole client of the Appellant was the De Facto Partnership.
+e) In general, the services rendered by the Appellant to Mrs. Rywka Gitman’s estate and the De Facto Partnership consisted of managing the said real estate assets in order to develop the real estate business, managing and developing the fur business, and finally finding business opportunities to invest in. More specifically, the services rendered by the Appellant consisted of:
+i) assessing risk;
+ii) analyzing markets, including, but not limited to, real estate and furs;
+iii) gathering market data, including:
+(A) data with regard to products such as furs;
+(B) data with respect to real estate pricing, and rentals (which included the review of real estate listings and the analysis of potential returns); and
+(C) data on construction costs and availability of labour;
+iv) negotiation and preparation of contracts (including offers to purchase, renovation contracts, leases, insurance contracts);
+v) management of rental properties; and
+vi) record keeping.
+f) The services rendered by the Appellant to Mrs. Rywka Gitman’s estate and to the De Facto Partnership were essentially provided by its sole shareholder, that is, Mr. Gitman. Some of the services were also rendered by Mr. Mark Rintoul, who received from the Appellant for those services consulting fees of $39,750 in 2003, $47,550 in 2004 and $51,500 in 2005. Mr. Rintoul worked under the supervision of Mr. Gitman.
+g) Mr. Gitman’s two sisters were absolutely not involved in the exploitation and development of Mrs. Rywka Gitman’s estate and in the operation and development of the De Facto Partnership’s various businesses. In fact, the only involvement of Mr. Gitman’s sisters in Mrs. Rywka Gitman’s estate and in the De Facto Partnership consisted of voting on the sale or acquisition of properties or businesses. At all relevant times, the two sisters gave no instructions to their brother concerning the management or development of the real estate business or other businesses.
+h) The Appellant charged a yearly management fee of $150,000 to Mrs. Rywka Gitman’s estate and, after the transfer of the estate’s assets, to the De Facto Partnership.
+[3] The issues are the following:
+a) Did the Minister correctly conclude that the Appellant was a personal services business during the taxation years ended November 30, 2003, November 30, 2004 and November 30, 3005, in accordance with subsection 125(7) of the Income Tax Act (the "Act")?
+b) Did the Minister correctly disallow the small business deductions in the amounts of $16,830, $15,156 and $14,475 claimed by the Appellant for the taxation years ended November 30, 2003, November 30, 2004 and November 30, 2005 respectively under subsection 125(1) of the Act?
+[4] I note immediately that the Minister admitted that, if it were not for the existence of the Appellant, Mr. Gitman could not reasonably be regarded as an employee of the entity to which the services were provided. I would point out that the Minister contends only that Mr. Gitman could reasonably be regarded as an officer of the entity to which the services were provided. Consequently, the only issue to be decided is the following: if it were not for the existence of the Appellant, could Mr. Gitman be reasonably be regarded as an officer of the entity to which the services were rendered?
+Analysis
+Meaning of the terms “office”, “officer”, “employee” and “employment” as used in the Act
+Statutory definitions
+[5] Subsection 248(1) of the Act defines “office”, “officer”, “employee” and “employment” as follows:
+“office” means the position of an individual entitling the individual to a fixed or ascertainable stipend or remuneration and includes a judicial office, the office of a minister of the Crown, the office of a member of the Senate or House of Commons of Canada, a member of a legislative assembly or a member of a legislative or executive council and any other office, the incumbent of which is elected by popular vote or is elected or appointed in a representative capacity and also includes the position of a corporation director, and “officer” means a person holding such an office;
+“employee” includes officer;
+“employment”: means the position of an individual in the service of some other person (including Her Majesty or a foreign state or sovereign) and “servant” or “employee” means a person holding such a position.
+« charge » Poste qu’occupe un particulier et qui lui donne droit à un traitement ou à une rémunération fixes ou vérifiables, y compris une charge judiciaire, la charge de ministre de la Couronne, la charge de membre du Sénat ou de la Chambre des communes du Canada, de membre d’une assemblée législative ou de membre d’un conseil législatif ou exécutif et toute autre charge dont le titulaire est élu au suffrage universel ou bien choisi ou nommé à titre représentatif, et comprend aussi le poste d’administrateur de société; « fonctionnaire » ou « cadre » s’entend de la personne qui détient une charge de ce genre, y compris un conseiller municipal et un commissaire d’école.
+« employé » Sont compris parmi les employés les cadres ou fonctionnaires.
+« emploi » Poste qu’occupe un particulier, au service d’une autre personne (y compris Sa Majesté ou un État ou souverain étrangers); « préposé » ou « employé » s’entend de la personne occupant un tel poste.
+Clarification brought by the jurisprudence to the meaning of the terms “office” and “officer”
+[6] Because the Act simply defines an “officer” as being someone holding an “office”, it is not surprising to note that the courts have so far principally analyzed the definition of “office” set out in the Act. Three key decisions are of as a starting point for our analysis: Guérin v. M.N.R., 52 DTC 118 (I.T.A.B.); MacKeen v. M.N.R., 67 DTC 281 (T.A.B.); and Merchant v. The Queen, 84 DTC 6215 (F.C.T.D.).
+[7] In Guérin, the appellant, a judge of the Court of Sessions of the Peace, temporarily ceased acting in a judicial capacity to sit as chairman of various arbitration boards in labour disputes. The appellant’s remuneration was set at $12.50 for each sitting day. In the discharge of his duties, the appellant incurred travelling and personal expenses which he sought to deduct from his income as if his services had been rendered in the course of carrying on a business and not, as the Minister claimed, in the performance of the duties of an office or employment. Although Chairman Monet of the Income Tax Appeal Board quickly determined that the appellant was not an employee, the issue as to whether the appellant held an office was raised.
+[8] In his decision, Chairman Monet first noted that the appellant was expressly authorized by the Attorney General of Quebec to sit on the arbitration boards. Since the appellant was thus considered to be on leave without pay, he did not sit on the arbitration boards as a judge. Although the remuneration was a stipulated amount for each sitting day, the number of sittings the appellant was obliged to attend was not known in advance. As a result, Chairman Monet held that the remuneration was neither fixed nor ascertainable from the outset. In this regard, Chairman Monet wrote as follows, at page 121:
+According to the definition given above, a taxpayer should not be considered as holding an office merely because he occupies a position. The position must entitle him to a fixed or ascertainable stipend or remuneration. Failing this, the position is not an “office” within the meaning of The Income Tax Act. . . .
+By “position entitling one to a fixed or ascertainable stipend or remuneration” parliament, in my opinion, meant a position carrying such a remuneration that when accepting it a person knows exactly how much he will receive for the services he is called upon to render. I feel that this is the true meaning that must be given to “office” as defined in Section 127(1)(aa) quoted above, having regard to the persons listed whose duties constitute an office. I also believe that “office” as defined, implies continuity and permanence; it can certainly not be said that there is continuity or permanence in the duties of a member of an arbitration board.
+(Emphasis added.)
+[9] In MacKeen, at issue was whether the appellant, who had been appointed as a member of a royal commission of inquiry, held an office or employment or whether he had rather, provided his services as part of a business, as he claimed. Tax Appeal Board Member Boisvert decided that the appellant was not an employee and, furthermore, did not hold an office. In his reasons, Board Member Boisvert wrote as follows, at page 284:
+G. S. A. Wheatcroft in The Law of Income Tax, Surtax and Profits Tax, (1962), at page 1057, 1-107, says that: “The word ‘office’ denotes a subsisting, permanent, substantive position which has an existence independent of the person who fills it, and which goes on and is filled in succession by successive holders.” Acting as a commissioner on a special and limited commission, royal or other, limited as to terms and duration, has none of the characteristics of an office or an employment.
+(Emphasis added.)
+[10] In Merchant, Reed J. of the Federal Court, Trial Division, criticized the decisions in both Guérin and MacKeen. At issue in Merchant was whether the expenses incurred by a leadership candidate in a political party were deductible.
+[11] Reed J. stated that the opening words of the definition of “office” in subsection 248(1) of the Act are not inclusive in nature but impart a mandatory aspect to the definition. She stressed that in order to be classified as income from an “office” the remuneration must be fixed and ascertainable.
+[12] Reed J. then commented as follows on the decision in MacKeen, at page 6217:
+. . . This decision was reached for a number of reasons (e.g. the position of commissioner was not a permanent one and the taxpayer had agreed, at the time of his appointment, to the travel expense amounts provided for by the government). Accordingly, I do not place too much emphasis on that part of the judgment which held the taxpayer's income not to be ascertainable. Indeed, I think such income is ascertainable. I take that word to mean that the amount to be paid is capable of being made certain, or capable of being determined but not that a definite sum be known by the office holder at the commencement of holding office. The word has to have some meaning beyond “fixed” or else it is completely redundant.
+[13] Concerning Guérin, Reed J. made the following observations at pages 6217 and 6218:
+I am not convinced that at the time of taking office the taxpayer must know how much he will receive. It seems to me a per diem rate, or a specified amount per sitting renders the income sufficiently ascertainable to meet the definition in section 248(1). However, there are other factors in the Guérin case which make the income unascertainable and in my view should have served as the focus of that decision:
+It has been established that the appellant must himself pay for the services of a part-time secretary and that he must also pay for the stationery he needs, for the use of a typewriter and all other supplies. . . It has been further established that the appellant is often called upon to pay the transportation of his secretary and other persons acting as advisers and that often-times he has to pay for the meals of his assistants and advisers. These it seems to me are the crucial factors in making the remuneration received, as a result of holding the position of arbitrator, not ascertainable.
+[14] In Payette v. Canada (Minister of National Revenue), [2002] T.C.J. No. 386 (QL), Dussault J. heard the appeals of members of a provincial legal aid review committee and the issue was whether contributions were required under the Employment Insurance Act because the members held insurable employment. Even though it was an employment insurance case, Dussault J. meticulously reviewed in his reasons the previous relevant case law regarding the terms of “office” and “officer” as used in the Act. After having thoroughly canvassed the principal guidelines set out in Guérin and MacKeen, Dussault J. criticized the effect of the judgment of Reed J. in Merchant, and at paragraph 24 he commented:
+However, in commenting on the decision in Guérin (supra), Reed J. appears to assume that in that case the remuneration was not ascertainable mainly because of the expenses the appellant was obliged to incur. The Court does not agree with that position. The words “stipend” and “remuneration” mean gross income, not income net of expenses. This is clear from the wording of subsection 5(1) of the Income Tax Act. As well, the Court considers that the descriptor “ascertainable” must refer to something that can be ascertained a priori; otherwise it would have no meaning since everything can be ascertained a posteriori. Thus if the “stipend” or “remuneration” is not fixed, it must still be ascertainable in advance with at least some degree of accuracy by using some formula or by referring to certain set factors. The Court considers that this is the meaning of the decisions in Guérin and MacKeen (supra).
+(Emphasis added.)
+[15] The Tax Court of Canada has subsequently considered on several occasions the case law cited above. In Guyard v. Canada (Minister of National Revenue, [2007] T.C.J. No. 183 (QL), the Court first carefully reviewed the principles enunciated previously in Guérin and MacKeen. Angers J. stated that, in his view, when Parliament added a list of positions that it would consider to be offices after the words “entitling him to a fixed or ascertainable stipend or remuneration” (in the definition of “office” in subsection 2(1) of the Canada Pension Plan), it stated its intention to include only those taxpayers whose occupations were permanent in nature or had some element of permanence and continuity, if not exclusiveness (para. 27). Angers J. emphasized the fact that what really matters is that the office exist independently of its incumbents (para. 33).
+[16] Moreover, in Vachon (Estate v. Canada), 2009 FCA 375, [2009] F.C.J. No. 1630 (QL), the Federal Court of Appeal heard the appeal of 14 appellants who were union officials working for a central council. The issue involved the tax treatment of certain allowances paid by their unions, as the Minister had determined that these allowances were taxable under sections 5 and 6 of the Act. The Tax Court of Canada held that the allowances were neither taxable nor insurable because they were not paid in the course of an office or employment but were for the performance of union duties on a volunteer basis. At paragraph 38, Noël J.A. stated:
+There are two requirements for meeting this second test. The office or position held must “entitle” the individual to remuneration, and this remuneration must be “fixed or ascertainable”. The fixed or ascertainable aspect of the remuneration seems to have been met, since the union officials knew exactly what the monetary conditions associated with their union leave were when they applied for a union position (Testimony of Pierre Morel, appeal book, Vol. III, p. 707).
+(Emphasis added.)
+[17] The fact that the position must be one “entitling” the individual to a stipend or remuneration means nothing more than that it be a position held for pay; see Minister of National Revenue v. Real Estate Council of Alberta, 2012 FCA 121.
+[18] Finally, the problem of determining whether or not a party is holding an office arose once again in Nuclear Waste Management Organization v. Minister of National Revenue, 2012 TCC 217. In that case, the sole issue was whether the members of the appellant’s advisory council held an office.
+[19] Hershfield J. observed that the definition of the term “office”, in the Canada Pension Plan, (like the definition of that same term in the Act) starts off with a broad definition which is followed by some expressly enumerated examples. Acknowledging that the presumption against tautology dictates that the legislator never speaks for nothing, Hershfield J. concluded that the list of positions specifically enumerated is simply added “for greater certainty to include specific persons that due to their public service or somewhat unique way of attaining their position may have been seen as falling outside the initial broad definition of ‘office’” (see paras. 24-26).
+[20] Hershfield J. also stressed that “the duration of the term that a particular person occupies or holds [an office] should not, as a general rule at least, be relevant to either the determination of whether an office exists or whether the holder of it has the ‘tenure of an office’” (see para. 34).
+Distinction between an “office” and “employment”
+[21] The distinction between an “office” and “employment” is that the former does not require the individual to be in the service of some other person, which would imply an employment relationship. For example, judges, ministers of the Crown, and members of a legislative assembly or Parliament are “officers” and are not employees for tax purposes: see Vern Krishna, The Fundamentals of Canadian Income Tax, 8th ed. (Toronto Thomson Carswell, 2004). The best synthesis of the differences between an “office” and “employment” as those terms are used in the Act is found in Hogg, Magee and Li’s comments in Principles of Canadian Income Tax Law, 7th ed. (Toronto : Carswell, 2011), p. 115, which I reproduced in their entirety:
+The key to the difference is a phrase in the definition of employment that is missing from the definition of office, namely, “in the service of some other person”. This requires a contract of service (or employment) between the taxpayer and an employer; where such a contract exists, the taxpayer is “employed” and his or her remuneration will be income from employment. However, where there is a fixed or ascertainable remuneration but no contract of service, the taxpayer will be an “officer” and his or her remuneration will be income from an office. The examples of offices (which are given in the definition of office) are judges, ministers of the Crown, members of legislative bodies and directors of corporations. These examples illustrate that an office, unlike employment, is not created by or dependent upon a contract of service between an employer and the particular holder. The position is created by statute or some other instrument, independently of the person who fills the position, and the position is filled in succession by successive holders.
+Summary of the definition of “office”
+[22] In summary, an “office” as defined by the Act:
+· is a position entitling one to a fixed or ascertainable stipend or remuneration;
+· denotes a subsisting, permanent, substantive position which has an existence independent of the person who fills it;
+· does not require the individual to be in the service of some other person;
+· is created by statute or some other instrument instead of being created by or dependent upon a contract of service between an employer and the particular holder of the position.
+[23] The duration of the term that a particular person occupies a position is irrelevant.
+[24] The fact that the position must be one “entitling” the individual to a stipend or remuneration means nothing more than that the position is one held for pay.
+Can a partner be an “officer” of his own partnership?
+[25] Even though the answer to that question may seem to be unclear, I believe it must be answered in the affirmative.
+[26] First, it is true that the Act sets out several rules regarding partnerships in section 96. In particular in that provision, Parliament codified the principle that a partnership is not a separate person from its partners; see paragraphs 96 (1)(a) and (c) of the Act. Not only was this principle adopted by the common law long ago (see: The Queen v. Pinot Holdings Limited, 99 DTC 5772 (F.C.A.), at p. 5778; The Queen v. Lachance, 94 DTC 6360 (F.C.A.), at p. 6362; Metro-Can Construction Ltd.v. Canada, [1998] T.C.J. No. 888 (QL), conf. by [2000] F.C.J. No. 994 (QL) (F.C.A.), leave to appeal to the Supreme Court of Canada refused [2000] S.C.C.A. No. 445 (QL); and Molson Brewery B.C. Ltd. v. Canada., [2001] F.C.J. No. 87, (QL) (F.C.T.D.) at para. 9), but it is also accepted now in Quebec since the decision of the Court of Appeal of Quebec in Québec (Ville de) c. Compagnie d’immeubles Allard ltée, [1996] R.J.Q. 1566. Indeed, a number of judges and authors now seem to accept the lack of legal personality of partnerships in Quebec.[1] Unlike a joint stock company, a partnership's business is that of the partners and the partnership's assets belong to the partners.
+[27] Thus, it seems well established that a partner cannot be an employee in his own partnership.[2] A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer; see section 2085 of the Civil Code of Quebec. Since he participates in the decision-making of the partnership in pursuit of the common goal of the partnership and shares in profits and losses, a partner is automatically in control and therefore cannot at the same time act as a subordinate to himself, even if there are several partners. Furthermore, a partner cannot contract with himself.
+[28] However, the distinction between an “office” and “employment” is that the former does not require the individual to be in the service of some other person; see Krishna, supra. and Hogg, Magee and Li, supra, p. 115. Therefore, one could reasonably argue that a partner could be an “officer” of his own partnership since an “office” as defined in the Act is not created by or dependent upon a contract of employment between an employer and the particular holder of the office. An “office” is created by statute or some other instrument, independently of the person who fills the position.
+[29] Therefore, as long as the position occupied by a partner entitles him to a fixed or ascertainable stipend or remuneration and has a subsisting, permanent, substantive aspect, it could certainly be considered an “office” as that term is defined in the Act and interpreted by the relevant case law.
+Principles of interpretation applicable to subsection 125(7) of the Act
+[30] It is interesting to note that in drafting the definition of “personal services business” in subsection 125(7) of the Act, Parliament specified that it was in fact targeting the business of providing services where an individual who performs services on behalf of a corporation (incorporated employee) is a specified shareholder of the corporation and where the incorporated employee would reasonably be regarded as an officer or employee of the person or partnership to whom or to which the services were provided.
+[31] At trial, counsel for the Respondent observed to this Court that it was curious to see that Parliament had used both the terms “employee” and “officer” in the aforementioned definition since it is specified in subsection 248(1) of the Act that the term “employee” includes “officer”. At first glance, there was no apparent reason justifying the need for Parliament to distinguish between “officer” and “employee”.
+[32] Counsel for the Respondent reminded this Court of the presumption against tautology, which states that the legislature never speaks for nothing. Counsel suggested, therefore, that only for the purposes of subsection 125(7) of the Act, should a distinction be made between an “employee” and an “officer” notwithstanding the definition found in subsection 248(1) of the Act.
+[33] Indeed, it is presumed that the legislature avoids superfluous words and that it does not pointlessly repeat itself or speak in vain: McDiarmid Lumber Ltd. v. God’s Lake First Nation, [2006] 2 S.C.R. 846. Every word in a statute is presumed to have meaning and the Courts should construe statutes so as to ascribe some meaning to each and every word used by the legislature: M.N.R. v. Kitsch et al., 2003 DTC 5540 (F.C.A.) ; Trans World Oil & Gas Ltd. v. The Queen, 95 DTC 260 (T.C.C.).
+[34] However, it is also true that courts should avoid adopting interpretations that render any portion of a statute meaningless or redundant: Placer Dome Canada Ltd. v. Ontario (Minister of Finance), [2006] 1 S.C.R. 715. It is a subsidiary rule of statutory interpretation that each part of an enactment must be giving meaning and that the courts should interpret a disputed provision in the light of related statutory provisions in order to give a coherent meaning to the whole: Novak v. Bond, (1999), 172 D.L.R. (4th) 385 (S.C.C.); eBay Canada Limited et al. v. M.N.R., 2008 DTC 6728 (F.C.A.).
+[35] In Alberta Wheat Pool et al. v. The Queen., 99 DTC 5198, the Federal Court of Appeal declined to accept a proposed statutory interpretation which would have rendered another provision of the enactment ineffectual, stating that Parliament is not to be presumed to have enacted legislation that is without force and effect.
+[36] In Allcolour Chemicals Ltd. et al. v. The Queen, 93 DTC 1194 (T.C.C.), Bonner J. rejected an interpretation of the Act which would have resulted in either in granting a second right to claim certain deductions or in treating a section of the Act as superfluous and Bonner J. adopted the following passage from Construction of Statutes by Elmer A. Driedger:
+Not only must the whole Act be read, but every provision of the Act should, if possible, be given meaning; hence, if there are rival constructions the general principle is that the construction that gives effect to the whole of the statute, or to the provision under consideration, should be adopted in preference to one that renders part thereof meaningless. (p. 1196)
+See Elmer A. Driedger, Construction of Statutes 2nd ed.(Toronto: Butterworths, 1983) at pages 91–92.
+[37] In Re WykesWill Trusts, [1961] 1 All E.R. 470, Buckley J. made the following comments at p. 477:
+. . . The intention of the legislature, like the intention of a testator, is primarily to be ascertained by reading the language employed, and it is not for this court to corset that intention, if it be clearly expressed, into some shape which accords better with the fashion of professional legal thought than the natural meaning of the language employed. More particularly, I think, this must be so when one is concerned with a definition section, where one must presume that Parliament would be specially precise and careful in its choice of language.
+[38] Consequently, it seems to me to be trite law that an interpretation which does not require treating part of a statute as redundant is to be preferred over one which does: Shell Canada Resources Ltd. v. M.N.R., 84 DTC (F.C.A).
+[39] Nevertheless, even if in interpreting subsection 125(7) of the Act, I refuse to disregard the definition of “employee” found in subsection 248(1) it should still be stressed that the use of the word “includes” in a statutory definition does not diminish the broad scope of other words: Caisse populaire Desjardins de l’Est de Drummond v. The Queen, 2009 DTC 5951 (S.C.C.).
+[40] According to the standard rules of interpretation, a definition in an enactment is not exhaustive when the definition is preceded by the word “includes”: Zellers Inc. v. New Brunswick (Minister of Finance), [1998] 3 C.T.C. 55 (N.B.Q.B.); Séguin v. R., [1998] 1 C.T.C. 2453 (T.C.C.).
+[41] While the definition of “employee” states that it includes officers, the inclusion is not limited only to officers, but extends to such other things as the word signifies according to its natural meaning: Storrow v. The Queen, 78 DTC 6551 (F.C.T.D.).
+[42] Consequently, as has been explained above, there is a difference between an “officer” and an “employee”, the former being simply an inclusion in the definition of the latter. If Parliament had used only the word “officer” in the wording of its provision, then an “employee” hired under a regular contract of employment would not have fallen within the ambit of that provision.
+[43] Therefore, I conclude that the definition of “employee” in subsection 248(1) of the Act has to be taken into consideration in reading subsection 125(7) of the Act. However, one should keep in mind that there is indeed a distinction between an “officer” and an “employee”.
+[44] That being said, if it were not for the existence of the Appellant, could Mr. Gitman reasonably be considered as an officer of the entity to which the services were provided, considering the evidence submitted?
+[45] To summarize once again, an "officer" as defined in the Act:
+(i) is a position entitling one to a fixed or ascertainable stipend or remuneration;
+(ii) denotes a subsisting, permanent, substantive position which has an existence independent of the person who fills it;
+(iii) does not require the individual to be in the service of some other person;
+(iv) is created by statute or some other instrument instead of being created by or dependent upon a contract of service between an employer and the particular holder of the position.
+[46] I would also point out that the duration of the term that a particular person occupies a position is irrelevant and that the fact that the position must be one “entitling” the individual to stipend or remuneration means nothing more than that the position is one held for pay.
+[47] I am of the opinion that if it were not for the existence of the Appellant, Mr. Gitman could reasonably be regarded as a person appointed by the partners to manage the affairs of the De Facto Partnership, as provided for in articles 2212 and 2213 of the Civil Code of Quebec, which read as follows:
+2212. The partners may enter into such agreements between themselves as they consider appropriate with regard to their respective powers in the management of the affairs of the partnership.
+2213. The partners may appoint one or more fellow partners or even a third person to manage the affairs of the partnership.
+The manager, notwithstanding the opposition of the partners, may perform any act within his powers, provided he does not act fraudulently. The powers of management may not be revoked without a serious reason during the existence of the partnership, except where they were conferred by an act subsequent to the contract of partnership, in which case they may be revoked in the same manner as a simple mandate.
+The function held by Mr. Gitman in the De Facto Partnership was of the same nature as the function held by a director of a company.
+[48] Could the function held by Mr. Gitman in the De Facto Partnership be considered as an office as defined by the Act? I am of the opinion that, if it were not for the Appellant, Mr. Gitman could reasonably be regarded as an officer of the De Facto Partnership for the following reasons:
+(i) Mr. Gitman was entitled to a fixed remuneration (a yearly fee of $150,000).
+(ii) The function he held in the partnership was a subsisting, permanent, substantive position which had an existence independent of the person who filled it.
+(iii) The function was created by the partnership contract.
+[49] I am also of the opinion that, if it were not for the existence of the Appellant, Mr. Gitman could reasonably be regarded as the person appointed by the two co‑liquidators of Mrs. Rywka Gitman's estate to manage the affairs of the estate. The function held by Mr. Gitman in relation to the estate was also of the same nature as the function held by a director of a company.
+[50] Could the function held by Mr. Gitman in relation to the estate be considered as an office as defined by the Act? I am of the opinion that, it were not for the existence of the Appellant, Mr. Gitman could reasonably be regarded as an officer of the estate for the following reasons:
+(i) Mr. Gitman was entitled to a fixed remuneration (a yearly fee of $150,000).
+(ii) The function he held in relation to the estate was a subsisting (for the duration of the estate) and substantive position which had an existence independent of the person who filled it.
+(iii) The function was created by the will.
+[51] Consequently, I am of the opinion that the Minister correctly concluded that the Appellant was a personal services business for the taxation years ended November 30, 2003, November 30, 2004 and November 30, 2005 respectively, in accordance with subsection 125(7) of the Act. Consequently, the Minister correctly disallowed the small business deductions in the amounts of $16,830, $15,156 and $14,475 claimed by the Appellant for the taxation years ended November 30, 2003, November 30, 2004 and November 30, 2005 respectively under subsection 125(1) of the Act.
+[52] For these reasons, the appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 2nd day of October 2012.
+“Paul Bédard”
+Bédard J.
+CITATION: 2012 TCC 324
+COURT FILE NO.: 2008-2622(IT)G
+STYLE OF CAUSE: 9098-9005 QUEBEC INC AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Québec
+DATE OF HEARING: April 18 and 19, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 2, 2012
+APPEARANCES:
+Agent for the Appellant:
+Mr. Larry Gitman
+Counsel for the Respondent:
+Grégoire Cadieux
+COUNSEL OF RECORD:
+For the Appellant: n/a
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Coopérants, société mutuelle d'assurance-vie (liquidateur de), [2002] J.Q. No. 194 (QL) (Que. C.A.) at paras. 35-37; R.c. Paul, [1997] A.Q. No. 1643 (QL) (Que. S.C.) at paras. 5-11; Marion v.. Minister of National Revenue, 2003 TCC 456 (Employment Insurance) at paras. 20-24; Fredette v. Canada., [2001] T.C.J. No. 170 (QL), at para. 50; Parent v. Canada (Minister of National Revenue), [1999] T.C.J. No. 83 Employment Insurance; Molson Brewery B.C. Ltd. v. R., supra, at para. 10; René Roy, « Les sociétés de personnes: enjeux civils et répercussions fiscales », dans Congrès 2004, Association de planification fiscale et financière, 23:1-34; École du Barreau, Droit des affaires, faillite et insolvabilité, Collection de droit, 2003-2004, Vol.9, (Cowansville (Qc) : Éditions Yvon Blais), aux pp. 50-52; Générosa Bras Miranda, « La propriété collective. Est-ce grave docteur?—Réflexion à partir d'une relecture de l'arrêt Allard », Revue du Barreau, 2003, Vol. 63, No. 1, p.29; Charles P. Marquette, « Les sociétés de personnes, aspects civils 1998 », Revue de planification fiscale et successorale,Vol. 20, No. 2,247-303; et Nicole Prieur, « Règles fiscales affectant les sociétés de personnes » (1998), Revue de planification fiscale et successorale, Vol. 20, No. 2305-409 aux p. 314, 329 et 330.
+[2] For decisions of this Court applying this principle in Quebec, see Auray-Blais c. La Reine., 2005 CCI 417; Marion v. Minister of National Revenue, supra; Parent v. Canada (Minister of National Revenue), supra at para. 27. For examples coming from common law provinces: Crestglen Investments Ltd., [1993] T.C.J. No. 121 (QL), citing in support Re Thorne and New Brunswick see Workmen's Compensation Board (1962), 48 M.P.R. 56 (N.B. C.A.), affd. orally by the S.C.C.; Janicek v. M.N.R., 1992 DTC 1265 (T.C.C.), at p. 1270. See also : Paul K. Tamaki and Alisa Ruvinsky, « Salaried Partners and Old Interpretation Bulletin IT-138R », VIII(4) Business Vehicles (Federated Press: 2002) 416-18.

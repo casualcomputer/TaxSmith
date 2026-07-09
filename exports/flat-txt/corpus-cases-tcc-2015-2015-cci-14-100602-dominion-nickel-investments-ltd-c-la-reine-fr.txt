@@ -1,0 +1,265 @@
+Title: Dominion Nickel Investments Ltd c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/100602/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-14-100602-dominion-nickel-investments-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-01-20
+
+# Dominion Nickel Investments Ltd c. La Reine
+
+- Citation: 2015 CCI 14
+- Decision date: 2015-01-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2796, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dominion Nickel Investments Ltd c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-01-20
+Référence neutre
+2015 CCI 14
+Numéro de dossier
+2012-2176(IT)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-2176(IT)G
+ENTRE :
+DOMINION NICKEL INVESTMENTS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 14 mars 2014, à Montréal (Québec).
+Devant : L'honorable juge Gaston Jorré
+Comparutions :
+Avocats de l'appelante :
+Me Wilfrid Lefebvre, c.r.
+Me Jonathan Lafrance
+Avocat de l'intimée :
+Me Charles Camirand
+ORDONNANCE
+Vu la requête présentée par l'appelante en vue d'obtenir une ordonnance :
+1. enjoignant à l'intimée de communiquer à l'appelante une copie non expurgée de tous les documents mentionnés dans la réponse aux engagements du 28 novembre 2013, et plus précisément ceux qui se rapportent aux engagements nos 1 à 5 ou qui y sont mentionnés;
+2. enjoignant à l'intimée de communiquer à l'appelante une copie non expurgée de tous les documents qui se rapportent aux deux cotisations faisant l'objet de l'appel, et plus précisément les documents contenus dans les classeurs nos 10, 15, 16, 17, 21, 22, 23 et 25 du dossier de l'Agence du revenu du Canada;
+Pour les raisons indiquées dans les motifs de l'ordonnance ci‑joints, la requête est accueillie, sous réserve de conditions, et la Cour ordonne ce qui suit :
+1. En ce qui concerne (i) les documents figurant dans la pièce R‑2 qui contiennent des passages expurgés et (ii) les documents mentionnés dans les pièces H et I de l'affidavit d'Evanthia Markou[1], l'intimée en fournira des copies non expurgées, sous réserve des exceptions suivantes[2] :
+a) les numéros d'entreprise, les numéros d'assurance sociale, les numéros de société et les autres informations semblables demeureront expurgés, ou, dans le cas des documents mentionnés dans les pièces H et I de l'affidavit de Mme Markou, doivent être expurgés;
+b) les dates de naissance et l'état matrimonial resteront expurgés ou, dans le cas des documents mentionnés dans les pièces H et I, doivent être expurgés;
+c) les documents assujettis au secret professionnel de l'avocat ne doivent pas être produits; cela inclut la totalité de la pièce E de l'affidavit de Mme Markou;
+d) les comptes et les relevés bancaires des cabinets d'avocats qui ont déjà été produits demeureront expurgés; cela inclut les éléments de la pièce G qui sont expurgés;
+e) les comptes et les relevés bancaires des cabinets d'avocats qui sont contenus dans les documents mentionnés dans les pièces H et I ne seront produits que s'ils contiennent des inscriptions qui se rapportent à l'appelante; toute inscription non liée à l'appelante qui figure dans ces documents doit être expurgée;
+f) l'intimée n'aura pas à produire de copies non expurgées des imprimés du CORTAX, à l'exception de ce qui est expressément indiqué au paragraphe 2 ci‑après;
+g) il n'est pas nécessaire de produire un double des documents déjà fournis.
+2. Pour ce qui est des imprimés du CORTAX, comme on les a appelés, qui contiennent des informations tirées de déclarations de revenus, l'intimée fournira les informations suivantes au sujet des contribuables expressément nommés dans la réponse :
+Des copies non expurgées des imprimés du CORTAX seront fournies, sous réserve de ce qui suit :
+a) les numéros d'assurance sociale, les numéros d'identification, les dates de naissance et l'état matrimonial demeureront expurgés ou, dans le cas des documents mentionnés dans les pièces H et I de l'affidavit de Mme Markou, doivent être expurgés;
+b) les dates de cotisation et les autres informations semblables demeureront expurgées ou, dans le cas des documents mentionnés dans les pièces H et I, doivent être expurgées;
+c) tout ce qui concerne des déductions ou des crédits liés à des frais médicaux, une invalidité, des enfants, des études, une pension alimentaire pour conjoint, des frais de déménagement, les revenus agricoles et les revenus de pêche, l'assurance-emploi, le fractionnement d'une pension, les pensions, le RPC/RRQ, la SV, les REÉR et, de façon plus générale, les déductions non liées au fait de gagner un revenu demeurera expurgé ou, dans le cas des documents mentionnés dans les pièces H et I, doit être expurgé;
+d) le revenu total, net et imposable, de même que les montants établis par voie de cotisation, doivent demeurer expurgés ou, dans le cas des documents mentionnés dans les pièces H et I, doivent être expurgés;
+e) pour ce qui est de tous les éléments énumérés ci‑dessus, doivent demeurer expurgés non seulement les montants, mais aussi la ligne de l'imprimé qui décrit les éléments en question.
+3. L'intimée paiera les dépens de l'appelante.
+Signé à Ottawa (Ontario), ce 20e jour de janvier 2015.
+« Gaston Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 18e jour de juin 2015.
+Yves Bellefeuille, réviseur
+Référence : 2015 CCI 14
+Date : 20150120
+Dossier : 2012-2176(IT)G
+ENTRE :
+DOMINION NICKEL INVESTMENTS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Jorré
+Introduction [1] L'appelante a présenté une requête visant à obliger l'intimée à produire certains documents ainsi que des copies non expurgées d'autres documents déjà produits.
+[2] Ces documents peuvent être répartis comme suit :
+a) les documents partiellement expurgés;
+b) les documents entièrement expurgés;
+c) les documents non encore produits.
+[3] Il est également possible de répartir ces documents d'autres façons.
+[4] À l'audience, l'appelante a fait savoir qu'elle ne donnerait pas suite à certains aspects de sa requête; elle a indiqué, notamment, qu'elle ne souhaitait pas obtenir les documents pour lesquels le secret professionnel de l'avocat était revendiqué et qu'elle ne souhaitait pas que l'on supprime les expurgations de numéros d'identification, comme les numéros d'entreprise ou les numéros d'assurance sociale. Elle ne souhaitait pas non plus que l'on supprime les expurgations concernant les comptes en fiducie d'avocats.
+[5] Pour les motifs qui suivent, je souscris presque entièrement au résultat que l'appelante souhaite obtenir et je rendrai une ordonnance en ce sens.
+[6] Il faudrait que j'explique ce que j'entends par un document entièrement expurgé.
+[7] Ces documents comportent habituellement une page d'accompagnement, qui semble être une sorte de feuille de contrôle; elle porte un numéro dans sa partie supérieure et des informations telles que le nom de l'affaire, le numéro de l'affaire et le numéro de la boîte. Parfois, la feuille d'accompagnement comporte une seconde page. La feuille de contrôle semble avoir été établie quelque temps après que l'Agence du revenu du Canada a obtenu le document de fond et elle sert vraisemblablement à aider à organiser la totalité des documents. La feuille de contrôle ne contient aucune information essentielle.
+[8] Par exemple, il peut y avoir un document qui compte trois pages. La première est une feuille de contrôle et les deux suivantes sont, par exemple, une lettre. La lettre est le document de fond et la lettre tout entière a été expurgée. C'est ce que j'appelle un document entièrement expurgé.
+[9] Tous les documents en litige qui sont énumérés dans les catégories a) et b) du paragraphe 2 qui précède ont été inscrits dans la liste des documents de l'intimée, en vertu de l'article 81 (communication partielle) des Règles de la Cour canadienne de l'impôt (procédure générale)[3]. Les documents qui n'ont pas été produits, ceux de la catégorie c) qui précède, ne figuraient pas dans cette liste.
+[10] Aux termes de l'article 81 des Règles, une partie est tenue de produire :
+[...] une liste des documents dont chaque partie connaît actuellement l'existence et qui pourraient être présentés comme preuve,
+a) soit pour établir ou aider à établir une allégation de fait dans un acte de procédure déposé par la partie;
+b) soit pour réfuter ou aider à réfuter une allégation de fait dans un acte de procédure déposé par une autre partie.
+[11] L'article 81 est un élément important, et de longue date, de la procédure que la Cour a établie pour réduire le coût des litiges en supprimant l'obligation de produire automatiquement tous les documents pertinents. Il va sans dire qu'une partie peut présenter une demande en vue d'obtenir une liste complète en vertu de l'article 82.
+[12] Selon l'article 81, il suffit à une partie de produire les documents sur lesquels elle peut se fonder. Pour cette raison, il est surprenant que la liste comporte des documents que l'intimée a entièrement expurgés.
+La nature générale du litige [13] Pour les besoins des présents motifs, je vais décrire très brièvement la nature du litige.
+[14] L'appelante dit avoir fait l'acquisition d'une autre société et l'avoir ensuite liquidée. De ce fait, dit‑elle, par l'application de l'article 88 de la Loi de l'impôt sur le revenu, elle a acquis le droit de se prévaloir d'une déduction au titre d'un don de bienfaisance de 65 millions de dollars, versé à Banyan Tree Foundation par la société qu'elle avait acquise. La déduction a été réclamée dans l'année d'imposition 2004. Le ministre du Revenu national a par la suite établi une nouvelle cotisation en vue de refuser la déduction réclamée.
+[15] Diverses questions se posent, mais ce qui importe pour les besoins de l'espèce est que la validité du don de bienfaisance est en litige.
+[16] Un certain nombre de parties autres que l'appelante sont en cause, et un grand nombre d'entre elles se trouvent à l'extérieur du Canada.
+Les principes applicables à la requête [17] Le règlement des questions de preuve et de procédure qui se posent lors du déroulement d'un procès comporte souvent la mise en balance d'un certain nombre de principes et de facteurs. C'est le cas en l'espèce.
+[18] Ici, il est nécessaire de prendre en compte divers facteurs, dont les droits d'une partie à la communication préalable, la portée de la communication, des questions de protection de la vie privée, compte tenu surtout des principes qui sous-tendent l'article 241 de la Loi, l'engagement implicite, la proportionnalité, la situation dans laquelle se trouve un juge chargé des requêtes par opposition à celle d'un juge présidant un procès et le « besoin d'aller de l'avant ». Dans la présente affaire, il faut également tenir compte du fait qu'une bonne part des informations se trouvent entre les mains de parties autres que la contribuable, et certaines de ces parties se trouvent à l'étranger, où ont aussi eu lieu certains des faits pertinents.
+[19] La mise en balance de ces facteurs et, à vrai dire, le fait de déterminer lesquels de ces derniers sont pertinents dépendent dans une très large mesure des faits et des circonstances de chaque affaire, et cette tâche, de par sa nature, n'est pas une science exacte.
+[20] Il existe une abondante jurisprudence sur les questions relatives à la communication préalable[4].
+[21] Lors de l'audience, des considérations différentes peuvent entrer en jeu.
+[22] La communication préalable est d'une très large portée. Certains des principaux points qui s'appliquent ici, relativement à la communication préalable, sont énoncés dans les passages suivants, tirés de la décision Banque HSBC Canada c. La Reine[5] :
+[TRADUCTION]
+13 [...]
+1. [...]
+a) la question de la pertinence, dans le cadre de l'interrogatoire préalable, doit être interprétée d'une façon large et libérale et il faut accorder une grande latitude;
+[...]
+c) le juge des requêtes ne devrait pas chercher à imposer son opinion au sujet de la pertinence au juge qui entend l'affaire en excluant des questions qu'il estime non pertinentes, mais que ce dernier, dans le contexte de la preuve dans son ensemble, pourrait considérer comme pertinentes;
+[...]
+2. Bien que le critère de la pertinence à l'étape de la communication de la preuve soit très généreux, il ne permet pas une pure « recherche à l'aveuglette » : Lubrizol Corp. c. Compagnie Pétrolière Impériale Ltée.
+[...]
+6. Une partie a droit à la communication intégrale de tous les documents sur lesquels le ministre s'est fondé pour établir sa cotisation : Amp of Canada c. Canada.
+[...]
+14 [...]
+1. La partie qui interroge a droit « à tout renseignement et a le droit de consulter tout document qui pourrait raisonnablement la lancer dans une enquête qui pourra, directement ou indirectement, bénéficier à sa cause ou nuire à celle de la partie adverse » : Teelucksingh c. La Reine.
+2. La Cour ne devrait interdire que les questions « (1) qui constituent manifestement un abus; (2) qui sont manifestement dilatoires; (3) qui sont manifestement sans pertinence » : John Fluevog Boots & Shoes Ltd. c. La Reine.
+15 Enfin, dans la décision récente 4145356 Canada Limited c. La Reine, j'ai conclu que :
+a) les documents qui ont mené à la cotisation sont pertinents;
+b) les documents contenus dans un dossier de l'Agence du revenu du Canada à l'égard d'un contribuable sont à première vue pertinents, et la demande de communication de ces documents n'a pas en soi une portée trop étendue ou un caractère trop vague;
+c) les documents qu'une personne a examinés pour se préparer à l'interrogatoire préalable sont à première vue pertinents;
+d) le fait qu'une partie n'ait pas consenti à la divulgation intégrale en application de l'article 82 des Règles n'empêche pas une demande de documents qui peut sembler être une communication intégrale à sens unique.
+[Renvois omis.]
+[23] Certains des points qui précèdent doivent être lus sous l'angle de documents plutôt que de questions.
+[24] Il est évidemment bien admis que l'on doit juger la pertinence en se reportant aux actes de procédure.
+[25] Il est très important de ne pas perdre de vue qu'un juge des requêtes se trouve dans une situation nettement différente de celle du juge du procès, qui entend l'affaire tout entière et qui est mieux placé pour déterminer si un point est pertinent ou non.
+[26] À l'article 241 de la Loi, le législateur a clairement exprimé un solide principe qui protège la vie privée dans les affaires d'impôt sur le revenu. Cependant, l'alinéa 241(3)b) autorise clairement la production d'éléments de preuve dans les « procédures judiciaires ayant trait à l'application ou à l'exécution de » la Loi.
+[27] En conséquence, bien que le caractère privé des informations de nature fiscale soit, bien sûr, un aspect important, l'article 241 ne s'applique pas directement en l'espèce.
+[28] La règle générale est la suivante : si un document est pertinent, il doit être produit dans son intégralité. Toutefois, des éléments du document peuvent être expurgés s'ils sont « manifestement dénués de pertinence »[6].
+[29] La Cour a tenu compte des questions relatives à la vie privée au moment de décider s'il y avait lieu d'expurger des éléments d'un document. Dans l'affaire Cameco Corporation c. La Reine[7], l'appel portait sur le prix de transfert d'uranium et le juge en chef Rip, aujourd'hui juge surnuméraire, a fait droit à l'expurgation des salaires versés à des particuliers.
+[30] Dans le même ordre d'idées, dans la décision Heinig c. La Reine[8], le juge Webb, plus tard juge à la Cour d'appel fédérale, a conclu qu'il était approprié d'expurger les numéros d'assurance sociale de tierces parties.
+[31] Dans les affaires Cameco et Heinig, les éléments expurgés étaient des informations « manifestement dénuées de pertinence ».
+[32] Lorsqu'on examine les droits relatifs à la vie privée, il est important de garder à l'esprit qu'il existe aujourd'hui un solide engagement implicite[9] au Canada, à savoir que les informations que l'on obtient lors de la communication préalable ne peuvent être utilisées que pour l'action au cours de laquelle elles ont été obtenues. À moins que les informations deviennent publiques pendant le procès, l'engagement se poursuit après la fin de l'action.
+[33] Cet engagement limite en soi la divulgation ultérieure des informations et aide à protéger les droits relatifs à la vie privée d'autres parties.
+[34] Il est utile de se souvenir que, même si l'existence de l'engagement implicite est aujourd'hui clairement établie au Canada, cela n'a pas toujours été le cas. C'est au cours des années 1985 à 2000 environ qu'il est devenu fermement établi[10].
+[35] Avant que l'engagement implicite devienne fermement établi, il y avait plus de raison de se préoccuper de la confidentialité au cours du processus de la communication préalable.
+[36] À une époque où un litige peut facilement devenir très coûteux, les questions de proportionnalité sont pertinentes. Expurger des passages des documents est un processus qui demande un temps considérable à tous les intéressés et, de ce fait, il ne faudrait pas encourager les expurgations partielles, sauf si elles sont nécessaires.
+[37] Je crois qu'il est important aussi de garder à l'esprit qu'une bonne part des connaissances sur la nature de l'enjeu dans le présent appel sont entre les mains de tierces parties et que certaines d'entre elles se trouvent à l'étranger. Cela ne change pas le fardeau général de l'appelante, mais cela milite aussi en faveur du fait que cette dernière ait accès à toutes les connaissances et à tous les documents pertinents à la présente affaire que détient le ministre.
+Analyse [38] Après avoir passé en revue ces principes, voyons maintenant comment ils s'appliquent. Les éléments contestés sont mentionnés dans les pièces A à K de l'affidavit d'Evanthia Markou. Dans la plupart de ces pièces, il y a une liste des documents en question et, dans la colonne de gauche, ces documents sont numérotés à partir de 1 jusqu'à la fin de cette liste particulière[11].
+[39] Hormis le secret professionnel de l'avocat qui est revendiqué pour certains documents et qui n'est pas contesté, la position de l'intimée semble essentiellement reposer sur l'opinion selon laquelle les éléments qui ont été expurgés et ceux qui n'ont pas été produits ne sont pas pertinents et, de plus, qu'il ne faudrait pas les communiquer afin de protéger la vie privée.
+[40] Je signale également que même si, à l'audience, l'intimée n'a pas laissé entendre que l'article 241 s'appliquait dans ce contexte, il est évident lorsqu'on lit l'interrogatoire préalable de Mme Markou que cette dernière, en consultation avec son chef d'équipe, a expurgé des informations parce qu'elle se souciait de l'article 241[12].
+[41] À l'audience, Mme Markou a expliqué qu'il y avait deux raisons pour lesquelles les informations concernant d'autres contribuables étaient intégrées à celles qui étaient liées à l'opération de l'appelante.
+[42] Premièrement, l'intimée examinait un certain nombre d'opérations qui mettaient en cause des contribuables différents, mais qui avaient été organisées par les mêmes personnes. C'est la raison pour laquelle les demandes d'information adressées à des particuliers ou à des organismes portaient souvent sur un certain nombre d'opérations.
+[43] Il y a donc des documents qui traitent d'opérations concernant différentes personnes.
+[44] Deuxièmement, étant donné que l'on effectuait simultanément des examens relatifs à des contribuables différents et des opérations différentes, il y avait dans les mêmes classeurs de projet des documents qui se rapportaient à des particuliers différents.
+[45] Je commencerai par l'application des principes aux documents expurgés qui figurent dans le disque qui a été déposé en tant que pièce R‑2. Cela correspond au contenu des listes figurant dans les pièces A à G de l'affidavit de Mme Markou.
+[46] Je signale tout d'abord qu'il y a deux raisons de penser que les documents inclus dans la pièce R‑2 sont, à première vue, pertinents à l'appel. Premièrement, ils ont été produits dans la liste des documents de l'intimée en vertu de l'article 81 des Règles. Le fait qu'ils ont été produits dans cette liste dénote que l'intimée, à un certain moment, a pensé qu'ils étaient pertinents à l'appel.
+[47] Deuxièmement, la plupart des documents, y compris ceux qui sont entièrement expurgés, sont assortis d'une feuille d'accompagnement sur laquelle est inscrit le nom de l'affaire « Dominion Nickel Investments Ltd. ». Là encore, cela dénote qu'à un certain moment, on a pensé que ces documents étaient pertinents à la présente affaire ou, à tout le moins, qu'ils concernaient des renseignements qui, pensait‑on, étaient peut‑être pertinents à la présente affaire.
+[48] Étant donné que « les documents qui ont mené à la cotisation sont pertinents » et qu'une partie a droit aux documents susceptibles de « la lancer dans une enquête qui pourra, directement ou indirectement, bénéficier à sa cause »[13], je suis convaincu que l'appelante a le droit d'examiner les documents et de vérifier ce que l'on cherchait.
+[49] En conséquence, tous ces documents sont, à première vue, pertinents et le critère approprié est celui de savoir s'ils comportent des éléments « manifestement dénués de pertinence » qu'il y a lieu d'expurger.
+[50] Lorsque j'examine ces documents, comme je n'ai pas le genre de connaissance des faits et des questions en litige que peut avoir le juge du procès, et bien que je voie de nombreuses expurgations d'informations qui ne me semblent pas présenter une utilité probable, il m'est impossible de déterminer si elles sont « manifestement dénués de pertinence », sous réserve de certaines exceptions.
+[51] En conséquence, pour ce qui est des documents figurant dans la pièce R‑2, j'ordonnerai à l'intimée d'en fournir des copies non expurgées, sous réserve des exceptions qui suivent :
+a) les numéros d'entreprise, les numéros d'assurance sociale, les numéros de société et les autres informations semblables demeureront expurgés;
+b) les dates de naissance et l'état matrimonial resteront expurgés;
+c) les documents assujettis au secret professionnel de l'avocat ne seront pas produits, comme la pièce E de l'affidavit de Mme Markou;
+d) la pièce G contient des documents provenant de deux cabinets d'avocats. Il y a des lettres ainsi que des relevés bancaires, dont certains sont clairement désignés comme étant des comptes en fiducie. Les expurgations existantes doivent être conservées;
+e) les expurgations existantes des imprimés du CORTAX seront conservées, à l'exception de ce qui est indiqué au paragraphe 52 qui suit.
+[52] Pour ce qui est des imprimés du CORTAX[14], comme on les a appelés, qui contiennent des renseignements tirés de déclarations de revenus, l'intimée fournira les informations suivantes au sujet des contribuables expressément nommés dans la réponse :
+Des copies non expurgées des imprimés du CORTAX seront fournies, sous réserve des exigences suivantes :
+a) les numéros d'assurance sociale, les numéros d'identification, les dates de naissance et l'état matrimonial demeureront expurgés;
+b) les dates de cotisation et les autres informations semblables demeureront expurgées;
+c) il est bien clair que les éléments suivants sont manifestement dénués de pertinence : tout ce qui concerne les déductions ou les crédits liés à des frais médicaux, une invalidité, des enfants, des études, une pension alimentaire pour conjoint, des frais de déménagement, les revenus agricoles et les revenus de pêche, l'assurance‑emploi, le fractionnement d'une pension, les pensions, le RPC/RRQ, la SV, les REÉR et, de façon plus générale, les déductions non liées au fait de gagner un revenu. Tous ces éléments demeureront expurgés;
+d) en ce qui concerne tout ce qui précède, non seulement les montants demeureront expurgés, mais aussi la ligne de l'imprimé décrivant l'élément en question;
+e) le revenu total, net et imposable, de même que les montants établis par voie de cotisation, demeureront expurgés[15].
+[53] L'intimée s'est vivement préoccupée du fait que l'on puisse utiliser des documents en litige au procès, mais il s'agit là d'une question différente à laquelle je reviendrai.
+[54] La pièce F est une liste de documents qui ont été communiqués antérieurement mais que, dit l'intimée, il faudrait expurger en partie. Même si j'étais saisi d'une requête à cet effet de l'intimée, l'appelante a déjà reçu ces documents et, à moins de circonstances extraordinaires[16], il n'y a pas lieu de rendre une ordonnance quelconque à leur sujet, compte tenu surtout de l'engagement implicite.
+[55] Voyons maintenant les documents restants.
+[56] L'appelante ne demande pas que l'on produise les documents énumérés dans les pièces J et K de l'affidavit de Mme Markou et, en conséquence, il n'y a rien d'autre à produire à l'égard de ces classeurs[17].
+[57] Ce qui reste, ce sont les documents mentionnés dans les pièces H et I de l'affidavit de Mme Markou.
+[58] Les documents qui se trouvent dans les boîtes en question n'ont généralement pas été produits, même s'il semble qu'il y ait quelques répétitions avec ceux qui l'ont été.
+[59] L'intimée ne m'a pas fourni les documents qui se trouvent dans ces boîtes; j'en ai peut‑être bien quelques‑uns sous forme de copies, mais j'ignore lesquels sont des copies de ceux que visent les pièces H et I[18].
+[60] Il m'est donc impossible d'examiner ces documents moi-même. Tout ce que j'ai, ce sont les tables des matières indiquées dans les pièces H et I.
+[61] Je sais toutefois que Mme Markou a travaillé dans ce dossier ainsi que dans deux autres mettant en cause les mêmes personnes, qui organisaient des opérations différentes. D'autres membres de son groupe ont travaillé dans un certain nombre de dossiers, tout comme son superviseur. Comme je l'ai déjà déclaré, il y avait dans des documents des informations qui portaient souvent sur plus d'une opération, et certains documents portant sur des opérations différentes étaient rangés dans les mêmes boîtes.
+[62] Je sais aussi que lorsque Mme Markou s'occupait d'expurger les documents avec son superviseur, l'article 241 occupait une grande place dans son esprit. Cette disposition est extrêmement importante pour l'Agence et pour les Canadiens, mais il ne s'agit pas d'un critère de production pertinent dans les circonstances de l'espèce.
+[63] En outre, peu avant l'audience, l'intimée a fourni à l'appelante des copies révisées de nombreux documents déjà produits et, dans ces copies, les expurgations avaient été réduites.
+[64] Compte tenu de ces circonstances particulières ainsi que du passage extrait de la décision Teelucksingh que j'ai cité plus tôt, je suis convaincu qu'il est probable que l'on ait examiné de nombreux documents mentionnés dans les pièces H et I lors de la vérification de l'appelante et qu'ils sont de ce fait, à première vue, pertinents.
+[65] Étant donné que je ne puis examiner les documents, il m'est impossible de conclure que la totalité de ces documents, ou une partie d'entre eux, sont manifestement dénués de pertinence.
+[66] En conséquence, les documents mentionnés dans les pièces H et I devraient être fournis, sous réserve pour l'essentiel des mêmes exceptions qui s'appliquent aux documents faisant partie de la pièce R‑2; les détails seront précisés dans l'ordonnance. De plus, il n'est pas nécessaire de produire des copies de documents déjà fournis.
+Les préparations en vue du procès [67] L'intimée a semblé se préoccuper dans une large mesure de la protection de la vie privée des tierces parties, non seulement à ce stade‑ci, mais aussi au procès.
+[68] Pour ce qui est de la question qui se pose dans l'immédiat, comme je l'ai déjà indiqué, l'engagement implicite protégera les tierces parties puisque l'appelante ne peut se servir des informations obtenues lors de la communication préalable que pour les besoins du présent litige. Cela évite que l'on diffuse davantage les informations et, sauf pour celles qui deviendront publiques au procès, l'engagement se poursuit après la fin du litige et ne peut être levé que par une ordonnance de la Cour.
+[69] Quant aux préoccupations relatives à une divulgation au procès, je signale ce qui suit. Premièrement, il se peut fort bien que l'appelante ne se serve pas d'une grande partie des documents communiqués, de sorte que cela restreint les préoccupations qu'il peut y avoir en matière de respect de la vie privée.
+[70] Deuxièmement, pour ce qui est des documents qui seront utilisés, rien n'empêche les parties de négocier une entente selon laquelle elles s'échangeront dans un délai préalable raisonnable tous les documents qu'elles se proposent d'utiliser au procès et de soumettre à la Cour, avant le procès, un moyen de traiter cet aspect de façon à éviter de divulguer publiquement des documents qui suscitent des questions relatives à la vie privée[19], et ce, jusqu'à ce que la Cour décide si le document en question, ou une partie de ce dernier, doit rester confidentiel[20]. Si les parties ne parviennent pas à s'entendre sur de tels arrangements, l'une ou l'autre pourra demander des directives à la Cour.
+Conclusion [71] Pour les motifs qui précèdent, la requête est accueillie et l'intimée produira les documents supplémentaires qui ont été indiqués plus tôt.
+Signé à Ottawa (Ontario), ce 20e jour de janvier 2015.
+« Gaston Jorré »
+Le juge Jorré
+Traduction certifiée conforme
+ce 18e jour de juin 2015.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2015 CCI 14
+No DU DOSSIER DE LA COUR :
+2012-2176(IT)G
+INTITULÉ :
+DOMINION NICKEL INVESTMENTS LTD. c. LA REINE
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 14 mars 2014
+OBSERVATIONS ÉCRITES SUPPLÉMENTAIRES DES PARTIES :
+Le 4 avril 2014
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge Gaston Jorré
+DATE DE L'ORDONNANCE :
+Le 20 janvier 2015
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Wilfrid Lefebvre, c.r.
+Me Jonathan Lafrance
+Avocat de l'intimée :
+Me Charles Camirand
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Me Wilfrid Lefebvre, c.r.
+Me Jonathan Lafrance
+Cabinet :
+Norton Rose Fulbright Canada
+Montréal (Québec)
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Ceux‑ci correspondent aux classeurs nos 15, 16, 17, 21 et 22.
+[2] Pour plus de certitude, l'intimée n'a pas à produire les éléments énumérés dans les pièces J et K de l'affidavit de Mme Markou; l'intimée n'a pas à produire non plus d'éléments figurant dans ce que l'on appelle les classeurs nos 10, 23 et 25. Là encore, pour plus de certitude, rien dans la présente ordonnance n'oblige l'appelante à remettre un document déjà produit.
+[3] La liste des documents de l'intimée figure à la pièce A‑1 jointe à l'affidavit de Jonathan Lafrance. Une partie de cette liste est la liste initiale et l'autre partie, qui se trouve à la fin de la première, et qui commence par le no 1201, est une liste supplémentaire qui a été produite à une date ultérieure, avant l'interrogatoire préalable d'Evanthia Markou ou pendant celui‑ci.
+[4] Voir notamment Kossow c. La Reine, 2008 CCI 422, une décision de la juge Valerie Miller, aux paragraphes 50 et 51, Banque HSBC Canada c. La Reine, 2010 CCI 228, une décision du juge Campbell J. Miller, aux paragraphes 13 à 16, John Fluevog Boots & Shoes Ltd. c. La Reine, 2009 CCI 345, une décision de la juge Diane Campbell, et Sputek c. La Reine, 2010 CCI 540, une décision du juge Robert J. Hogan, aux paragraphes 6 à 12.
+[5] 2010 CCI 228.
+[6] Voir Obonsawin c. La Reine, 2006 CAF 234, au paragraphe 22. Dans le cas des dossiers volumineux, il est possible que des facteurs différents s'appliquent. Par exemple, il peut y avoir des facteurs différents qui entrent en jeu lorsque, au lieu de porter sur l'expurgation de certaines parties d'une seule page de, disons, un compte bancaire, un litige porte sur l'expurgation d'un dossier électronique contenant toutes les opérations faites dans un compte bancaire pendant une année civile qui, s'il était imprimé, s'étendrait sur plus d'un millier de pages, dont deux seules sont pertinentes au litige.
+[7] 2014 CCI 45, paragraphe 55.
+[8] 2009 CCI 47, paragraphes 9 à 12.
+[9] Parfois appelé « engagement réputé ».
+[10] La règle appliquée en Angleterre remonte assez loin dans le temps, mais la situation au Canada était différente.
+En 1994, dans la décision Goodman c. Rossi, 21 O.R. (3d) 112, [1994] O.J. no 2778 (QL), les juges majoritaires de la Cour divisionnaire de l'Ontario ont refusé d'adopter la règle anglaise de l'engagement implicite. S'exprimant au nom de la majorité, le juge O'Leary a déclaré, notamment :
+[TRADUCTION]
+24 En résumé, il a été conclu pour la première fois que la règle faisait partie du droit en Ontario dans l'arrêt Lac Minerals, en 1985, même si avant cela cette règle était inconnue des avocats de la province et n'avait été énoncée dans aucune affaire ontarienne. Depuis l'arrêt Lac Minerals, plusieurs juges de la province ont convenu que la règle existe en Ontario. La Cour divisionnaire ou la Cour d'appel ne se sont pas prononcées sur la validité de cette règle. […]
+En 1995, cette décision a été infirmée par la Cour d'appel de l'Ontario. Le juge en chef adjoint Morden, s'exprimant au nom de la Cour, a conclu :
+[TRADUCTION]
+17 [...] au vu de la jurisprudence et de la politique générale, il y aurait lieu de reconnaître en Ontario une version particulière de la règle de l'engagement implicite [...]
+(Goodman c. Rossi, 24 O.R. (3d) 359, [1995] O.J. no 1906 (QL))
+Dans l'arrêt Goodman, la Cour d'appel de l'Ontario a fait remarquer qu'il ne semblait pas y avoir d'engagements implicites de ce genre aux États‑Unis.
+Au Québec, en 1999, dans la décision Lac d'amiante du Québec ltée, [1999] R.J.Q. 970, [1999] J.Q. no 1043 (QL), les juges majoritaires de la Cour d'appel du Québec ont infirmé la décision de la Cour supérieure et ont conclu qu'il existait un engagement implicite. Cela a été confirmé par la Cour suprême du Canada, voir [2001] 2 R.C.S. 743, 2001 CSC 51.
+Je signale qu'au Québec, il ne pouvait y avoir d'engagement implicite avant 1983 car, comme l'a signalé le juge Fish, plus tard nommé à la Cour suprême du Canada, au premier paragraphe de ses motifs dans l'arrêt de la Cour d'appel du Québec Lac d'amiante du Québec ltée [TRADUCTION] : « Avant 1983, les dépositions recueillies faisaient partie, au Québec, du dossier de la Cour ».
+Aux termes de l'article 396 du Code de procédure civile, L.R.Q. 1977, ch. C‑25, tel qu'il était libellé à l'époque : « Les dépositions recueillies en vertu des dispositions du présent chapitre font partie du dossier [...] ». Les dépositions visées par ce chapitre comprenaient les interrogatoires préalables, la communication préalable de documents ainsi que les interrogatoires. Il est utile de signaler qu'il s'agissait là d'un système très différent du système actuel.
+[11] J'ai comparé les versions expurgées qui se trouvent dans la pièce R‑1 aux versions non expurgées qui figurent dans la pièce R‑2.
+[12] Tout juste avant ou peu de temps avant l'audition de la requête, l'intimée a fourni à l'appelante des copies d'un nombre considérable de documents dans lesquels les éléments expurgés avaient été soit retirés, soit réduits.
+[13] Voir les décisions 4145356 Canada Limited et Teelucksingh, précitées.
+[14] Des imprimés qui ressemblent à ceux que j'ai souvent entendu appeler des « imprimés option C ».
+[15] Je me suis efforcé d'imaginer ce qui serait une délimitation claire d'éléments manifestement dénués de pertinence, mais, à part certaines catégories que j'ai expressément énumérées, il est difficile de le faire dans l'abstrait. J'ai également songé à un processus en deux étapes où, tout d'abord, pour les éléments d'information restant dans les imprimés, on montrerait la description de l'élément et on supprimerait les chiffres proprement dits et, deuxièmement, on mettrait en place un processus permettant à l'appelante de désigner les lignes d'information particulières qu'elle croirait être pertinentes, de tenter de convaincre l'intimée de leur pertinence et, le cas échéant, de soumettre l'affaire de nouveau devant la Cour. J'ai conclu que ce serait trop fastidieux et, vu l'engagement implicite, inutile.
+[16] Comme mettre en danger la vie d'une personne.
+[17] Transcription, pages 28, 31 et 32. Je signale que le classeur no 25 n'est pas en litige. Il contient l'évaluation qui, selon l'appelante, est de la plus haute importance; elle a été entièrement divulguée dans la pièce R‑1, que l'appelante a reçue peu avant le procès (document EV.CRA.Folder.0001.pdf). Le classeur no 10 n'est pas non plus en litige, car son contenu comprend des documents dont on a traité ailleurs.
+[18] Je signale que dans la pièce R‑1 le dossier [TRADUCTION] « Tous documents » compte exactement un document de moins que dans la pièce R‑2. Cela confirme que la pièce R‑2 ne renferme pas tous les autres documents mentionnés dans les pièces H et I.
+[19] Je signale qu'il peut y avoir des documents dont la pertinence est le seul point en litige et qui ne suscitent aucune préoccupation supplémentaire en matière de respect de la vie privée.
+[20] Je signale que dans le cas de certaines expurgations partielles que j'ai vues, il m'a été difficile d'imaginer pourquoi elles causeraient un problème de respect de la vie privée dont la Cour devrait se préoccuper. Le fardeau pour convaincre un tribunal qu'une partie de la preuve dans un procès doit rester confidentielle est élevé : voir Sierra Club du Canada c. Canada (Ministre des Finances), [2002] 2 R.C.S. 522, 2002 CSC 41.

@@ -1,0 +1,97 @@
+Title: Burke v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29910/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-398-29910-burke-v-the-queen.md
+Document type: case_law
+Last modified: 2010-07-22
+
+# Burke v. The Queen
+
+- Citation: 2010 TCC 398
+- Decision date: 2010-07-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6400, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burke v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-22
+Neutral citation
+2010 TCC 398
+File numbers
+2009-1374(IT), 2010-656(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2010TCC398
+Date: 20100722
+Dockets: 2009-1374(IT)APP
+2010-656(IT)I
+BETWEEN:
+KURT BURKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on July 13, 2010, at Toronto, Ontario.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Agent for the Appellant:
+Thomas Rhoden
+Counsel for the Respondent:
+Rishma Bhimji
+Nathalie Wilson (student‑at‑law)
+ORDER AND REASONS FOR ORDER
+Whereas by an order dated August 6, 2009 Bowie J. extended the time to file a valid notice of appeal from reassessments for the 2001, 2002 and 2003 taxation years to September 4, 2009 (2009-1374(IT)APP);
+Whereas the Court’s files[1] show that no valid notice of appeal was filed on or before September 4, 2009;
+Whereas on February 16, 2010 the Appellant filed a purported notice of appeal with respect to the 2001, 2002 and 2003 taxation years;
+Whereas on February 16, 2010 the documents filed included both a purported Notice of Appeal — Informal Procedure (with the election box for the informal procedure checked off) signed by the Appellant’s agent and a purported Notice of Appeal — General Procedure also signed by the Appellant’s agent and, as a consequence it is not certain whether the informal procedure has been elected;
+Whereas on February 21, 2010 the Appellant’s agent wrote to the Court and asked for an extension of time “to apply for the Court Hearing” which request presumably was meant to seek an order extending the September 4, 2009 deadline contained in the order of August 6, 2009;
+Whereas the Appellant did not file a notice of appeal and did not seek a variation of the time set out in the order of August 6, 2009 prior to February 16, 2010 and February 21, 2010 respectively;
+Whereas the Registry on the receipt of the purported notice of appeal of February 16, 2010 opened file 2010-656(IT)I;
+Whereas the Respondent made a motion seeking an order quashing the purported appeal of the 2001, 2002 and 2003 taxation years;
+Upon simultaneous consideration of both the Appellant’s application to extend the September 4, 2009 deadline and the Respondent’s motion;
+Whereas the Appellant’s agent could not provide a satisfactory explanation for the failure to comply with the order of August 6, 2009 and whereas it appears that the Appellant’s agent does not understand the Court process;
+Whereas the Respondent’s motion would never have arisen if the Appellant had complied with the order of September 4, 2009 and the failure to do so has unduly delayed the prompt and effective resolution of the matter[2];
+Whereas, it is in the interests of justice that orders be complied with and the Court take measures to promote such compliance;
+Whereas it is inappropriate in the circumstances to deny the Appellant’s substantive rights due to the actions of the Appellant’s agent in the circumstances where it is not alleged that the delays are prejudicial to the Respondent’s ability to defend an appeal;
+In order to balance these considerations, the Court orders that:
+1. The date of September 4, 2009 in the order of August 6, 2009 is extended to the date of this order and the notice of appeal filed on February 16, 2010 is deemed to be a valid notice of appeal.
+2. The Appellant must advise the Court no later than August 24, 2010 whether or not he is electing the Informal Procedure.
+3. The Respondent’s motion is dismissed.
+4. Costs in the amount of $400 are payable to the Respondent no later than August 24, 2010.
+5. If the costs are not paid by August 24, 2010, then the Respondent may apply by a motion made in writing to have the appeal dismissed for a failure to comply with this order.
+6. If the Appellant fails to comply with 2. and clarify what procedure he is choosing, then the appeal will fall under the General Procedure. (The Court draws to the attention of the Appellant that if the matter proceeds under the General Procedure the Appellant can only be represented by a lawyer.)
+The Court further directs the Registry to send a copy of this order not only to the Appellant’s agent and the Respondent but also to the Appellant personally.
+Signed at Ottawa, Ontario, this 22nd day of July 2010.
+"Gaston Jorré"
+Jorré J.
+CITATION: 2010TCC398
+COURT FILE NOS.: 2009-1374(IT)APP, 2010-656(IT)I
+STYLE OF CAUSE: KURT BURKE V. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 13, 2010
+REASONS FOR ORDER BY: The Honourable Justice Gaston Jorré
+DATE OF ORDER: July 22, 2010
+APPEARANCES:
+Agent for the Appellant:
+Thomas Rhoden
+Counsel for the Respondent:
+Rishma Bhimji
+Nathalie Wilson (student‑at‑law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2009-1374(IT)APP & 2010-656(IT)I.
+[2] See Rule 11(2), Tax Court of Canada Rules (Informal Procedure).

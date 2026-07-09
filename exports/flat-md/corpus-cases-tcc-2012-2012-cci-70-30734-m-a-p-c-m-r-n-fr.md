@@ -1,0 +1,335 @@
+---
+title: "M.A.P. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30734/index.do"
+last_modified: "2012-03-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 70"
+citation2: ""
+neutral_citation: "2012 CCI 70"
+decision_date: "2012-03-02"
+language: "fr"
+item_id: "30734"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7529
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:46:38.677000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d1f7d5916f718d59bfbbb5019f04dca632bdff347f53d177b40dc6d46d33ad1a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# M.A.P. c. M.R.N.
+
+- Citation: 2012 CCI 70
+- Decision date: 2012-03-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7529, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+M.A.P. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-03-02
+Référence neutre
+2012 CCI 70
+Numéro de dossier
+2010-1560(EI)
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010-1560(EI)
+ENTRE :
+M.A.P. (Mentorship, Aftercare, Presence),
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de M.A.P. (Mentorship, Aftercare, Presence), 2010-1562(CPP), 2010-3404(IT)I, 2010-3719(CPP)
+et 2010-3720(EI), les 11 et 12 janvier 2012, à Ottawa (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l’appelante :
+M. Richard Hudson
+Avocat de l’intimé :
+Me Shane Aikat
+____________________________________________________________________
+JUGEMENT
+L’appel de l’évaluation datée du 31 mai 2007 pour la période allant du 1er janvier 2006 au 31 mars 2007 concernant des cotisations d’assurance-emploi et les intérêts connexes à payer en application des articles 67 et 82 de la Loi sur l’assurance-emploi est rejeté et l’évaluation est confirmée.
+Signé à Ottawa, Canada, ce 2e jour de mars 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 11e jour de mai 2012.
+Marie-Christine Gervais
+Dossier : 2010-1562(CPP)
+ENTRE :
+M.A.P. (Mentorship, Aftercare, Presence),
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de M.A.P. (Mentorship, Aftercare, Presence), 2010-1560(EI), 2010-3404(IT)I, 2010-3719(CPP)
+et 2010-3720(EI), les 11 et 12 janvier 2012, à Ottawa (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l’appelante :
+M. Richard Hudson
+Avocat de l’intimé :
+Me Shane Aikat
+____________________________________________________________________
+JUGEMENT
+L’appel de l’évaluation datée du 31 mai 2007 pour la période allant du 1er janvier 2006 au 31 mars 2007 concernant des cotisations au Régime de pensions du Canada et les intérêts connexes à payer en application des articles 8 et 21 du Régime de pensions du Canada est rejeté et l’évaluation est confirmée.
+Signé à Ottawa, Canada, ce 2e jour de mars 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 11e jour de mai 2012.
+Marie-Christine Gervais
+Dossier : 2010-3404(IT)I
+ENTRE :
+M.A.P. (Mentorship, Aftercare, Presence),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de M.A.P. (Mentorship, Aftercare, Presence), 2010-1560(EI), 2010-1562(CPP), 2010-3719 (CPP)
+et 2010-3720(EI), les 11 et 12 janvier 2012, à Ottawa (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l’appelante :
+M. Richard Hudson
+Avocat de l’intimée :
+Me Shane Aikat
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie le 25 mars 2009 par suite de l’omission de verser des retenues d’impôt sur le revenu à la source pour l’année d’imposition 2007 en vertu de l’article 153 de la Loi de l’impôt sur le revenu est rejeté.
+Signé à Ottawa, Canada, ce 2e jour de mars 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 11e jour de mai 2012.
+Marie-Christine Gervais
+Dossier : 2010-3719(CPP)
+ENTRE :
+M.A.P. (Mentorship, Aftercare, Presence),
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de M.A.P. (Mentorship, Aftercare, Presence), 2010-1560(EI), 2010-1562(CPP), 2010-3404(IT)I
+et 2010-3720(EI), les 11 et 12 janvier 2012, à Ottawa (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l’appelante :
+M. Richard Hudson
+Avocat de l’intimé :
+Me Shane Aikat
+____________________________________________________________________
+JUGEMENT
+L’appel de l’évaluation datée du 26 mars 2009 pour la période allant du 1er avril au 31 décembre 2007 concernant des cotisations au Régime de pensions du Canada et les intérêts connexes à payer en application des articles 8 et 21 du Régime de pensions du Canada est rejeté et l’évaluation est confirmée.
+Signé à Ottawa, Canada, ce 2e jour de mars 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 11e jour de mai 2012.
+Marie-Christine Gervais
+Dossier : 2010-3720(EI)
+ENTRE :
+M.A.P. (Mentorship, Aftercare, Presence),
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de M.A.P. (Mentorship, Aftercare, Presence), 2010-1560(EI), 2010-1562(CPP), 2010-3404(IT)I
+et 2010-3719(CPP), les 11 et 12 janvier 2012, à Ottawa (Ontario).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Représentant de l’appelante :
+M. Richard Hudson
+Avocat de l’intimé :
+Me Shane Aikat
+____________________________________________________________________
+JUGEMENT
+L’appel de l’évaluation datée du 26 mars 2009 pour la période allant du 1er avril au 31 décembre 2007 concernant des cotisations d’assurance-emploi et les intérêts connexes à payer en application des articles 67 et 82 de la Loi sur l’assurance‑emploi est rejeté et l’évaluation est confirmée.
+Signé à Ottawa, Canada, ce 2e jour de mars 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 11e jour de mai 2012.
+Marie-Christine Gervais
+Référence : 2012 CCI 70
+Date : 20120302
+Dossiers : 2010-1560(EI)
+2010-1562(CPP)
+2010-3719(CPP)
+2010-3720(EI)
+ENTRE :
+M.A.P. (Mentorship, Aftercare, Presence),
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+et
+Dossier : 2010-3404(IT)I
+ENTRE :
+M.A.P. (Mentorship, Aftercare, Presence),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Les cinq appels ici en cause se rapportent à des évaluations et à une cotisation datées du 31 mai 2007, du 25 mars 2009 ou du 26 mars 2009, selon le cas, lesquelles ont été établies par l’Agence du revenu du Canada (l’« ARC ») à l’égard de cotisations au Régime de pensions du Canada (« RPC »), de cotisations d’assurance-emploi (« AE ») et de retenues d’impôt sur le revenu à la source effectuées en vertu de la Loi de l’impôt sur le revenu (la « LIR ») à verser pour le compte de Fritz Clarke (le « travailleur ») pour les années 2006 et 2007. Ces évaluations et cette cotisation ont été établies pour la période en cause après qu’une décision portant que le travailleur, pendant qu’il travaillait pour l’appelante, occupait un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime de pensions du Canada (le « Régime ») et un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi (la « LAE ») eut été ratifiée par l’ARC le 6 mars 2006[1]. La décision du 6 mars 2006 de l’ARC n’a pas été portée en appel, de sorte que les évaluations concernant l’AE et le RPC, datées du 31 mai 2007 et du 26 mars 2009 pour les années 2006 et 2007, et que la cotisation relative aux retenues d’impôt sur le revenu à la source datée du 25 mars 2009 pour l’année d’imposition 2007 ont été établies. Ce sont ces évaluations et cette cotisation, plutôt que la décision, qui font l’objet de l’appel dont j’ai été saisie et c’est la raison pour laquelle ma décision portera sur les années 2006 et 2007 seulement.
+[2] L’appelante estime que le travailleur n’exerçait pas un emploi assurable ouvrant droit à pension, mais qu’il avait plutôt été embauché à titre d’entrepreneur indépendant travaillant à son compte, de sorte qu’aucune retenue à la source n’avait à être effectuée.
+[3] Les parties se sont entendues sur certains faits :
+a) l’appelante exploitait un petit organisme de bienfaisance à but non lucratif en vue de fournir du soutien et de l’aide postpénale à d'anciens détenus à leur sortie de prison;
+b) l’organisme était financé au moyen de dons privés et de subventions ainsi que par Service correctionnel Canada et par le gouvernement de l’Ontario;
+c) le conseil d’administration de l’appelante était composé de quatre ou cinq bénévoles;
+d) les tâches du travailleur consistaient entre autres choses à gérer l’organisme, à recruter de nouveaux membres pour l’équipe de bénévoles, à assurer la formation et le soutien des bénévoles ainsi qu’à organiser des campagnes de collecte de fonds pour le compte de l’appelante;
+e) le travailleur était un membre du clergé possédant de l’expérience lorsqu’il s’agissait de travailler avec des détenus;
+f) le fondateur de l’organisme, Bing Gallant, avait fourni les services avant que le travailleur les fournisse;
+g) le travailleur a été remplacé par Dan Kelly, qui possédait sa propre société, Johnstone Training and Consultation Inc.;
+h) le travailleur était signataire autorisé à l’égard du compte bancaire de l’appelante, mais il fallait deux signatures sur tous les chèques (la preuve a toutefois révélé que le travailleur avait parfois été la seule personne à signer pour le compte de l’appelante, et ce, même lorsque ses propres chèques de paie étaient en cause);
+i) l’appelante a mis fin aux services du travailleur le 31 août 2008 (pièce R‑2, onglet 3);
+j) le travailleur fournissait son propre véhicule et il était responsable de l’entretien et de la réparation du véhicule;
+k) le travailleur avait droit à trois semaines de vacances annuelles payées (transcription, page 24), mais la chose a été mise en question par la suite dans la preuve (transcription, pages 151 et 152);
+l) le travailleur avait droit à des congés occasionnels (absence ou maladie), la rémunération lui étant créditée à un taux représentant les ¾ d’une journée, chaque mois;
+m) l’appelante payait le kilométrage du travailleur au taux de 0,42 $ le kilomètre, lequel était basé sur les taux du gouvernement de l’Ontario;
+n) pendant une partie de la période ici en cause, le travailleur a remis des factures à l’appelante;
+o) le travailleur prélevait la taxe sur les produits et services (la « TPS ») pour les services fournis à l’appelante.
+[4] M. Charles Richard Hudson, vice-président du conseil d’administration, a expliqué à l’audience que l’appelante est un petit organisme de bienfaisance qui forme des bénévoles pour qu’ils aident les détenus à leur sortie de prison. Lorsque l’un des cofondateurs, Bing Gallant, est décédé du cancer, ils ont engagé le travailleur pour qu’il assure la formation des bénévoles. Ils avaient toujours eu l’intention d’embaucher quelqu’un sur une base contractuelle étant donné qu’ils n’étaient pas en mesure d’agir comme employeur (ils étaient bien souvent forcés de travailler sans argent, avec l’aide de bénévoles). Selon M. Hudson, la situation a toujours été fort clairement expliquée au travailleur avant qu’un contrat soit conclu avec lui. Deux comptables agréés ont été consultés et ils ont indiqué une méthode à suivre pour que le travailleur soit considéré comme un entrepreneur, méthode que MAP a suivie. Au début (avant la période ici en cause), le travailleur travaillait pour les Assemblées de la Pentecôte du Canada (les « ADPC »), et une entente avait apparemment été conclue entre les ADPC et MAP pour les services à fournir par le travailleur; il était entendu que les ADPC pouvaient parfois fournir d’autres pasteurs.
+[5] M. Hudson a déclaré que le travailleur était un pasteur qui connaissait mieux que les membres du conseil d’administration le travail à faire. Il servait de mentor auprès des détenus qui sortaient de prison, il trouvait des mentors, il encourageait les équipes de mentorat et il sollicitait des dons ou cherchait des possibilités de financement. Le travailleur était connu des tiers comme étant le directeur exécutif et un administrateur de MAP, mais il n’a jamais été membre du conseil d’administration de MAP.
+[6] Le travailleur fournissait des directives aux mentors de façon continue étant donné qu’il était leur principal contact avec MAP. Il devait également les jumeler avec les détenus dont il fallait assurer le mentorat (transcription, pages 84 et 85). Aucune supervision de quelque genre que ce soit n’était exercée (transcription, pages 42 et 86). Toutefois, le conseil d’administration indiquait la voie à suivre, compte tenu de documents de l’appelante précisant les limites des relations (transcription, pages 160 et 161). M. O’Gorman, président et cofondateur de MAP, a témoigné que ces documents avaient été rédigés en vue d’aider les mentors à se protéger lorsqu’ils s’occupaient des anciens détenus, de façon à assurer leur sécurité (transcription, page 239). Le conseil d’administration essayait également de donner des directives et d’aider à l’égard des finances de l’organisme, et le travailleur, bien qu’il n’ait pas été membre du conseil d’administration, prenait part aux prises de décisions concernant la ligne de conduite à suivre (transcription, page 242).
+[7] MAP était exploitée depuis un bureau composé d’une seule pièce qui lui avait été prêté, et utilisait du matériel qui lui avait été donné : des téléphones cellulaires, un vieil ordinateur, un classeur, une table et deux vieilles chaises. L’emplacement du bureau n’était pas annoncé, et ce, pour des raisons de sécurité. Le travailleur avait accès à ce bureau.
+[8] Le travailleur accomplissait lui-même presque tout le travail qu’il fallait faire, mais il pouvait parfois engager un autre pasteur des ADPC. Toutefois, M. Hudson ne savait pas si l’autre pasteur était rémunéré. En fait, le travailleur a engagé des pasteurs afin de fournir des services carcéraux, ainsi que des bénévoles pour donner des conférences lors de certains événements. Les membres du conseil d’administration avaient également à donner des conférences. M. Hudson a déclaré qu’il doutait qu’ils soient payés pour le faire (transcription, pages 43 et 44), sauf une fois, lorsque le travailleur, de sa propre initiative, avait engagé un conférencier qui avait demandé un montant de 7 500 $ de MAP, ce qui avait fort déplu au conseil d’administration (transcription, pages 213 et 214, et pièce R‑2, onglet 5).
+[9] Le contrat stipulait que le travailleur devait être rémunéré pour environ 40 heures de travail par semaine, mais le travailleur effectuait chaque semaine un nombre beaucoup plus élevé d’heures sans recevoir de rémunération additionnelle (transcription, page 45). Parfois, lorsqu’il n’y avait pas de fonds disponibles, le travailleur travaillait sans être rémunéré, sans se plaindre au conseil d’administration (transcription, page 49). Cependant, en fin de compte, le travailleur touchait le plein montant qu’il facturait (transcription, page 133). En ce qui concerne le paiement des fournisseurs, un grand nombre de chèques étaient signés uniquement par le travailleur sans que le conseil d’administration assure le suivi. M. Hudson a expliqué que les membres du conseil d’administration étaient tous des bénévoles et qu’ils n’étaient pas facilement disponibles. Il a déclaré qu’au départ, [traduction] « le conseil avait été créé afin d’élaborer les politiques et n’était pas le genre de conseil composé de volontaires qui s’occupaient directement des activités quotidiennes » (transcription, page 50).
+[10] Lors du contre-interrogatoire, il a été clairement dit que la première entente directement conclue entre MAP et le travailleur avait été signée le 15 octobre 2004 pour la période commençant le 1er septembre 2004 et prenant fin le 31 août 2005 (pièce R‑2, onglet 1). Aux termes de cette entente, le travailleur était embauché en vue de gérer MAP. Il devait toucher un montant fixe pour une semaine de travail de 42 heures, sans rémunération additionnelle pour les heures supplémentaires. On lui accordait 15 jours de congé au cours de la durée du contrat et les jours de maladie étaient payés. M. Hudson a déclaré sur ce point que MAP n’assurait pas le suivi des jours de congé du travailleur (transcription, page 152). Les chèques de paie devaient être émis deux fois par mois à la réception des factures du travailleur. Le travailleur était tenu d’avoir une voiture et un bureau en dehors des locaux. MAP devait payer le kilométrage.
+[11] Aux termes d’une seconde entente, intitulée [traduction] « Contrat de prestation de services », conclue entre MAP et le travailleur le 20 janvier 2006, le travailleur convenait de présenter une facture à l’organisme périodiquement selon un taux quotidien fixe, plus la TPS, sur la base [traduction] « nette de sept jours ». Il était stipulé que le travailleur devait avoir son propre bureau et qu’il devait notamment payer les frais y afférents et fournir le matériel informatique et le matériel de communication. Le travailleur devait également fournir sa propre voiture, mais le kilométrage lui était remboursé (pièce R‑2, onglet 2). Les deux contrats étaient rédigés différemment, mais M. Hudson a reconnu que les fonctions du travailleur n’avaient pas changé au fil des ans (transcription, page 136) et il était entendu qu’il aurait les mêmes conditions de travail qu’auparavant (transcription, pages 232, 235 et 236).
+[12] Au cours de la période en question, le financement de MAP provenait en partie du Ontario Multifaith Council (gouvernement de l’Ontario) et de Service correctionnel Canada[2]. Le travailleur, agissant de son propre chef, a pris l’initiative de signer des accords de contribution (voir par exemple la pièce R‑2, onglet 12, et voir également la transcription, pages 177 et 178) et d’envoyer des rapports à ces deux organismes pour le compte de MAP (transcription, pages 97 et 98). Le travailleur n’était pas expressément autorisé à agir de la sorte, mais le conseil d’administration était fort probablement au courant de la chose et il ne s’y opposait pas (transcription, page 178). En outre, M. Fitz Clarke a témoigné que Service correctionnel Canada et le Ontario Multifaith Council ne le laissaient pas avoir son propre bureau, à cause des renseignements confidentiels fournis à MAP au sujet des détenus. M. Hudson a témoigné qu’il n’en avait jamais entendu parler et que tout dossier concernant un contrevenant était conservé au bureau de libération conditionnelle (transcription, pages 144 et 145).
+[13] En outre, bien que M. Hudson eût dit que le travailleur n’était pas autorisé à le faire, le travailleur fournissait également des services administratifs de son propre chef, sans nécessairement informer le conseil d’administration de la chose. La plupart du temps, cela passait inaperçu, mais il arrivait parfois que le travailleur soit réprimandé par le conseil d’administration. C’est ce qui était arrivé, par exemple, lorsque le travailleur avait informé l’ARC que MAP avait retenu certaines sommes à la source sur sa rémunération, ce qui, selon M. Hudson, n’avait pas été fait. De plus, il arrivait que le travailleur signe des chèques (y compris ses propres chèques de paie) pour le compte de MAP sans demander à un membre du·conseil d’administration de les signer également (transcription, pages 105 à 113). Toutefois, M. Hudson a reconnu que le travailleur était celui qui accomplissait presque tout le travail pour MAP et qu’il fournissait à MAP la pleine valeur de l’argent qu’il touchait (transcription, pages 121 et 122).
+[14] La rémunération versée au travailleur constituait la principale dépense dans le budget (transcription, pages 102, 103 et 105, et voir le budget des années 2004, 2005 et 2006 de MAP, sous la rubrique [traduction] « salaires », pièce R‑2, onglet 12, annexe B, et l’état des résultats de l’année 2007, sous la rubrique [traduction] « employés », pièce R‑2, onglet 7, dernière page).
+[15] Lorsque le contrat du travailleur a été résilié, au mois d’août 2008, MAP a accordé à celui‑ci une indemnité de départ. M. Hudson a témoigné que le conseil d’administration de MAP ne se sentait pas légalement obligé de le faire, mais qu’il estimait qu’il était juste de le faire (transcription, page 154).
+[16] M. Chris O’Gorman, l’un des cofondateurs de MAP, a également témoigné. Il a expliqué que le conseil d’administration, qu’il préside, est composé de trois à cinq membres, qui travaillent tous ailleurs, mais qui consacrent du temps à cet organisme de bienfaisance. Aucun d’eux n’était en mesure de diriger réellement l’organisme et ils pouvaient uniquement donner des conseils et des directives. Après le décès de Bing Gallant, le pasteur qui était l’autre cofondateur, le conseil d’administration a décidé d’embaucher quelqu’un pour diriger à plein temps les activités. Ils ont eu des entrevues avec un certain nombre de candidats et le révérend Fritz Clarke a été embauché à cause de ses antécédents et de son bon cœur. Le conseil d’administration n’avait absolument aucun contrôle sur les activités quotidiennes de M. Clarke (transcription, page 204). Il tenait de temps en temps des réunions auxquelles M. Clarke assistait. Ces réunions portaient principalement sur la façon de trouver du financement et des bénévoles et sur la façon de faire avancer la cause de MAP. En signant le contrat avec le travailleur, MAP n’avait jamais voulu devenir un employeur. Le contrat avait été conçu afin de permettre à MAP de rémunérer le travailleur. Par la suite, ils ont découvert que M. Clarke avait pris un grand nombre de décisions financières peu judicieuses par suite desquelles MAP avait perdu de l’argent au lieu d’obtenir des fonds. Ainsi, le travailleur payait sa propre rémunération à l’aide d’avances en argent sur sa propre carte de crédit Visa en prévision des fonds qui allaient rentrer. Tout à coup, il a révélé l’existence d’une dette de 20 000 $, sans avoir antérieurement informé qui que ce soit de la situation (transcription, pages 225, 226 et 227). De fait, le conseil d’administration n’exerçait aucune supervision et de mauvaises décisions qui avaient occasionné un déficit énorme avaient été prises. Les membres du conseil d’administration rencontraient régulièrement le travailleur non pour qu’il rende compte de ce qui était fait, mais plutôt pour l’encourager, pour lui donner du soutien. Cependant, M. O’Gorman a affirmé que s’il avait su que le financement avait cessé, le contrat du travailleur aurait probablement été résilié plus tôt (transcription, pages 262 et 263).
+[17] M. Robert Gibbons Birch, un autre membre du conseil d’administration, a également témoigné. Il a déclaré que le travailleur avait été embauché à titre de consultant et que le conseil d’administration lui donnait les lignes directrices qu’il fallait suivre. M. Birch avait à quelques reprises soulevé auprès du conseil d’administration la question de savoir si le travailleur devait être considéré comme un employé, mais les autres membres du conseil d’administration s’y étaient opposés. M. Birch a confirmé qu’aucune directive quotidienne n’était donnée au travailleur (transcription, pages 289 à 292). M. Birch a reconnu que Fritz Clarke était le contact des mentors auprès de MAP (transcription, page 295) et le porte-parole pour l’obtention de dons (transcription, page 296), mais il a maintenu que, quel qu’ait été le titre que M. Clarke utilisait, celui‑ci agissait toujours pour MAP à titre de consultant (transcription, page 297). Il exerçait toutes sortes de fonctions : il s’occupait des détenus et organisait des équipes de mentors; il rendait compte au conseil d’administration de la façon dont il présentait MAP auprès d’agences externes ainsi que du travail effectué. M. Birch a convenu que M. Clarke dirigeait MAP (en supervisant notamment les documents et tout travail administratif), mais il a également déclaré, sans réellement savoir s’il en était ainsi, que M. Clarke avait peut-être également travaillé en même temps comme ministre pentecôtiste (transcription, pages 298 à 304). M. Birch a également admis que M. Clarke recevait du conseil d’administration des lignes directrices auxquelles il devait se conformer (transcription, pages 312 et 313).
+[18] Un affidavit signé par JoAnne Christie, un autre membre du conseil d’administration, a été produit sous la cote A‑7. Mme Christie était à l’extérieur de la ville lors de l’audience et elle n’a pas pu être contre-interrogée. Dans son affidavit, elle déclare essentiellement la même chose que ce que les autres membres du conseil d’administration ont dit à l’audience, et elle explique la raison pour laquelle ils considéraient tous M. Clarke comme un entrepreneur plutôt que comme un employé. Mme Christie mentionne que le conseil d’administration se réunissait tous les mois pour discuter de questions administratives et pour donner des directives et établir au besoin les priorités. Mme Christie a également parlé de réunions hebdomadaires entre M. Clarke et deux membres du conseil d’administration, ces réunions visant à assurer du soutien à M. Clarke et au travail que celui‑ci accomplissait, mais ces réunions n’avaient pas lieu pour que le travail de M. Clarke soit directement supervisé et examiné.
+[19] Mme Kathleen Elizabeth Buchan, qui travaillait à l’ARC, a expliqué que l’appelante avait fait l’objet d’une cotisation le 25 mars 2009 par suite de son omission de verser des retenues à la source à la suite de la réception d’un feuillet T4 délivré à M. Clarke le 14 août 2008 (selon le compte de retenues sur la paie produit sous la cote R‑3, pages 5 et 6 sur 17, et l’avis de cotisation produit sous la cote R‑l, onglet 3C). Il ressort également du compte de retenues sur la paie que des paiements d’arriéré avaient été effectués pour le compte de l’appelante du mois de juillet 2005 au mois de juin 2008 (pièce R‑3). La lettre que l’ARC a envoyée à M. Clarke le 19 avril 2006 (pièce A‑8) disait que l’ARC avait remarqué que M. Clarke avait déclaré des gains de travailleur autonome pour les années 2002, 2003 et 2004. Un sommaire du revenu et des retenues figurant dans les dossiers de l’ARC était joint à la lettre; il indiquait qu’un montant de 182,96 $ était dû pour ces années‑là. Mme Buchan a expliqué qu’après avoir examiné le dossier de M. Clarke, l’ARC avait conclu que celui‑ci était un employé au cours des années 2006 et 2007. Si je comprends bien, cette décision, qui est ici en litige, n’a pas eu d’incidence sur les années antérieures.
+[20] Enfin, j’ai entendu le témoignage du révérend Fritz Clarke[3]. M. Clarke a étudié la théologie et l’éthique à l’université et, avant de commencer à travailler pour MAP, il avait travaillé auprès de personnes ayant des problèmes de toxicomanie. M. Clarke a témoigné qu’il se considérait comme un entrepreneur lorsqu’il avait initialement été embauché, mais que son rôle avait par la suite changé. Il a déclaré que, lors de la signature du second contrat, au mois de janvier 2006 (pièce R‑2, onglet 2), il mettait en question la nature de son statut auprès de MAP. Il y avait eu un dialogue continu avec le conseil d’administration tant que M. Clarke n’a pas reçu de l’ARC, un mois après avoir signé le second contrat, la décision par laquelle il était conclu qu’il était de fait un employé. M. Clarke s’était inscrit aux fins de la TPS et il avait versé la TPS parce que, tant que la décision n’avait pas été rendue, il avait été obligé de se conformer à son contrat. Ses responsabilités n’étaient pas expressément énoncées dans le contrat, mais il avait cru comprendre qu’il devait accomplir toutes les fonctions qu’il exerçait (à savoir la formation et le recrutement de bénévoles, la sélection de candidats pour les mentorats, les tâches administratives – y compris le paiement des factures, les réponses aux courriels, la collecte de fonds, la présentation de propositions aux fins de l’approbation par le conseil d’administration (des exemples d’accords de contribution signés ont été produits sous la cote R‑2, onglets 12, 13 et 14) – et la présentation de rapports aux donateurs). Il avait travaillé à plein temps pour MAP jusqu’au début du mois de janvier 2008, où il avait alors commencé à travailler à temps partiel seulement, jusqu’à son licenciement. M. Clarke a déclaré qu’avant l’année 2008, il était la seule personne à travailler à plein temps afin de mener les activités quotidiennes, mais il y avait toujours quelqu’un qui l’aidait. Il suivait les lignes directrices établies par le conseil d’administration aux fins de la formation des bénévoles et il discutait des choses avec les membres du conseil d’administration. Il accomplissait son travail principalement au bureau de MAP, étant donné qu’il n’était pas approprié de travailler à domicile. Le conseil d’administration se réunissait au moins dix fois l’an et M. Clarke assistait à toutes les réunions.
+[21] Le premier contrat de M. Clarke l’obligeait à effectuer 42 heures de travail par semaine, mais il effectuait un plus grand nombre d’heures. Cela lui importait peu et les membres du conseil d’administration n’exerçaient aucun contrôle sur son horaire. Le second contrat n’avait rien changé. M. Clarke ne demandait pas de congés. Pour le premier contrat, il présentait des factures à MAP en divisant la rémunération globale prévue dans le contrat par le nombre de semaines au cours de l’année, et, en vertu du second contrat, il facturait un montant quotidien donné. Les frais qu’il supportait pour assister à des réunions à Service correctionnel Canada ou à des réunions du Ontario Multifaith Council étaient remboursés directement par ces deux organismes.
+[22] Pendant une période de huit mois, MAP était à court d’argent et M. Clarke avait avancé de l’argent en utilisant sa propre carte de crédit. Il l’avait fait par bonne volonté en croyant que le financement serait accordé et qu’on le rembourserait. En fin de compte, MAP l’a remboursé au complet. M. Clarke signait également ses propres chèques de paie lorsqu’il n’y avait personne d’autre qui soit disponible pour agir à titre de cosignataire, mais tous les chèques étaient enregistrés et accessibles aux membres du conseil d’administration.
+[23] Les membres du conseil d’administration étaient mis au courant de ce qui se passait; ils demandaient à M. Clarke s’il avait besoin d’aide et ils lui donnaient des conseils. Cependant, M. Clarke a reconnu qu’il fallait surtout obtenir l’approbation des donateurs et que c’étaient les donateurs qui avaient tendance à dire ce à quoi on s’attendait de MAP.
+[24] Dans ses déclarations de revenus personnelles, M. Clarke a déclaré son revenu à titre d’entrepreneur tant que la décision de l’ARC n’a pas été rendue. M. Clarke a ensuite pris sur lui de verser à l’ARC les retenues à la source sur sa rémunération au titre de l’assurance-emploi, du RPC et de l’impôt sur le revenu. Dans son témoignage, il a déclaré n’avoir pas payé plus de quelques milliers de dollars de cette manière. Il a également établi son propre relevé d’emploi lors de son licenciement. M. Clarke a déclaré avoir communiqué avec le conseil d’administration à quelques reprises au sujet de son statut d’emploi, mais la question n’avait pas été réglée. Il n’a jamais reçu de réponse formelle du conseil d’administration.
+Analyse
+[25] La question dont j’ai été saisie est de savoir si le travailleur, le révérend Fritz Clarke, exerçait un emploi auprès de MAP ou s’il agissait à titre d’entrepreneur indépendant pour la période allant du mois de janvier 2006 au mois de décembre 2007. Si M. Clarke était un employé, l’appelante était tenue de verser au receveur général des cotisations d’assurance-emploi conformément aux articles 67 et 82 de la LAE, des cotisations au RPC conformément aux articles 8 et 21 du Régime et des retenues d’impôt sur le revenu à la source conformément à l’article 153 de la LlR.
+[26] Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] A.C.S. no 61 (QL), 2001 CSC 59, la Cour suprême du Canada a énoncé en ces termes, aux paragraphes 46, 47 et 48, les principes applicables à la détermination du statut d’une personne :
+46 À mon avis, aucun critère universel ne permet de déterminer, de façon concluante, si une personne est un employé ou un entrepreneur indépendant. Lord Denning a affirmé, dans l’arrêt Stevenson Jordan, précité, qu’il peut être impossible d’établir une définition précise de la distinction (p. 111) et, de la même façon, Fleming signale que [traduction] « devant les nombreuses variables des relations de travail en constante mutation, aucun critère ne semble permettre d’apporter une réponse toujours claire et acceptable » (p. 416). Je partage en outre l’opinion du juge MacGuigan lorsqu’il affirme – en citant Atiyah, op. cit., p. 38, dans l’arrêt Wiebe Door, p. 563 – qu’il faut toujours déterminer quelle relation globale les parties entretiennent entre elles :
+[traduction] [N]ous doutons fortement qu’il soit encore utile de chercher à établir un critère unique permettant d’identifier les contrats de louage de services [...] La meilleure chose à faire est d’étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s’appliquent pas dans tous les cas et n’ont pas toujours la même importance. De la même façon, il n’est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48 Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[27] En outre, dans l’arrêt Royal Winnipeg Ballet c. M.R.N., [2006] A.C.F. no 339 (QL), 2006 CAF 87, la majorité des juges de la Cour d’appel fédérale ont également dit qu’il faut accorder du poids aux termes du contrat écrit conclu entre les parties s’ils reflètent exactement la relation qui les unit. Cela étant, il faut toujours examiner la preuve indiquant la façon dont les parties interprètent leur contrat, en tenant cependant compte du fait que la déclaration des parties quant à la nature juridique de leur contrat n’est pas nécessairement déterminante. Par conséquent, l’intention des parties est également un facteur à prendre en considération dans la détermination de la nature juridique de la relation existant entre les parties. La juge Sharlow a dit ce qui suit, aux paragraphes 59 à 62 :
+[59] Il me semble découler de l’arrêt Montreal Locomotive que, lorsqu’il s’agit de qualifier la nature juridique d’un contrat, l’exercice consiste en fait à rechercher l’intention commune des parties. La même idée est exprimée de la façon suivante dans les motifs du juge Décary dans l’arrêt Wolf, au paragraphe 117 :
+Je dirai, avec le plus grand respect, que les tribunaux, dans leur propension à créer des catégories juridiques artificielles, ont parfois tendance à ne pas tenir compte du facteur même qui est l’essence d’une relation contractuelle, à savoir l’intention des parties.
+[60] Le juge Décary n’affirmait pas que la nature juridique d’une relation donnée est toujours celle que lui prêtent les parties. Il faisait référence en particulier aux articles 1425 et 1426 du Code civil du Québec, qui énoncent des principes du droit des contrats que l’on retrouve également en common law. Un de ces principes veut que, lorsqu’il s’agit d’interpréter un contrat, il faut rechercher l’intention commune des parties plutôt que de s’en remettre uniquement au sens littéral des mots utilisés. Un autre principe est que, pour interpréter un contrat, il convient de tenir compte des circonstances dans lesquelles il a été conclu, de l’interprétation que lui ont déjà donnée les parties ou d’autres personnes, ainsi que de l’usage. La conclusion inévitable est qu’il faut toujours examiner les éléments de preuve qui reflètent la façon dont les parties ont compris leur contrat et leur accorder une force probante appropriée.
+[61] Je souligne, une fois de plus, que cela ne veut pas dire que les affirmations que font les parties quant à la nature juridique de leur contrat sont concluantes. Cela ne veut pas dire non plus que les déclarations que font les parties quant à leurs intentions doivent nécessairement amener le tribunal à conclure que leurs intentions ont été concrétisées. Pour paraphraser la juge Desjardins (au paragraphe 71 des motifs principaux de l’arrêt Wolf), lorsqu’il est prouvé que les modalités du contrat, examinées dans le contexte factuel approprié, ne reflètent pas la relation juridique que les parties affirment avoir souhaité établir, alors il ne faut pas tenir compte de leur intention déclarée.
+[62] La question de savoir si l’intention contractuelle qu’une des parties déclare avoir eue coïncide avec celle de l’autre partie donne fréquemment lieu à des différends. En particulier, dans les appels intentés aux termes du RPC et de la LAE, il arrive que les parties présentent des preuves contradictoires au sujet de la nature de la relation juridique qu’elles souhaitaient créer. Ce genre de différend prend habituellement naissance dans le cas où une personne est embauchée pour fournir des services et signe un formulaire de contrat présenté par l’employeur dans lequel la personne en question est qualifiée d’entrepreneur indépendant. L’employeur insère parfois une telle clause dans le contrat dans le but d’éviter de créer une relation employeur-employé. Il arrive que la personne en question affirme par la suite qu’elle était une employée. Elle pourrait déclarer qu’elle s’est sentie obligée d’indiquer son consentement sur le formulaire de contrat pour des raisons financières ou autres. Elle pourrait également déclarer qu’elle pensait, malgré le fait qu’elle a signé un contrat contenant ces termes, qu’elle serait traitée comme les autres travailleurs qui étaient manifestement des employés. Dans ce genre d’affaire, le tribunal pourrait fort bien conclure, en se fondant sur les facteurs exposés dans l’arrêt Wiebe Door, que la personne en question est une employée, mais cela ne veut pas dire que l’intention des parties n’est pas pertinente. En fait, les parties sont généralement d’accord sur le sens à donner à la plupart des modalités énoncées dans leur contrat. Cela veut simplement dire qu’une stipulation du contrat portant sur la nature juridique de la relation créée par celui‑ci n’est pas déterminante.
+[28] La question centrale est donc ici de savoir si la personne qui a été engagée pour fournir les services, à savoir le révérend Clarke, les fournissait en tant que personne travaillant à son compte. Pour répondre à cette question, je dois prendre en considération, le cas échéant, le degré de contrôle que MAP exerçait sur les activités du travailleur, si le travailleur fournissait son propre outillage, s’il engageait lui-même ses assistants, quelle était l’étendue de ses risques financiers, jusqu’à quel point il était responsable des mises de fonds et de la gestion et jusqu’à quel point il pouvait faire un profit. L’intention commune des parties aidera à déterminer le statut du travailleur, dans la mesure où les parties ne la contestent pas.
+[29] En l’espèce, l’intention du travailleur, lorsqu’il a signé le second contrat, au mois de janvier 2006, n’est pas tout à fait claire. M. Clarke a témoigné qu’il se conformait aux conditions de ce contrat en présentant des factures à MAP et en prélevant la TPS. Toutefois, en même temps, il avait eu des conversations avec des représentants de l’ARC et il attendait leur décision. M. Clarke a également témoigné avoir communiqué avec le conseil d’administration pour faire réévaluer son statut, mais la question n’a pas été réglée. D’autre part, M. Hudson et M. O’Gorman (ainsi que Mme JoAnne Christie dans l’affidavit qui a été produit sous la cote A‑7) étaient clairement d’avis que MAP n’était pas en mesure d’agir comme employeur et que l’on avait toujours eu l’intention d’embaucher quelqu’un sur une base contractuelle pour exécuter le travail que M. Clarke faisait. M. Birch s’est exprimé moins clairement sur ce point, mais il acceptait la décision des autres membres du conseil d’administration de considérer M. Clarke comme un consultant et non comme un employé.
+[30] Dans ce contexte, et puisqu’il faut examiner la preuve relative à la façon dont les parties interprétaient leur contrat et lui accorder le poids qui convient, je conclus que l’intention déclarée de chaque partie n’est pas concluante lorsqu’il s’agit de trancher la question.
+[31] J’analyserai donc les autres facteurs énoncés dans la jurisprudence afin de déterminer la nature de la relation existant entre MAP et M. Clarke.
+Le contrôle
+[32] Comme le juge Hershfield de la Cour de l’impôt l’a dit dans la décision W.B. Pletch Company Limited c. La Reine, 2005 CCI 400, paragraphe 9, l’application du critère du contrôle « soulève un problème qui se pose souvent, à savoir qu’il faut déterminer si l’indépendance du travailleur dans l’exécution de sa tâche est attribuable à la liberté qui découle de la nature de la relation, du fait que celui qui est en mesure d’exercer un contrôle décide de ne pas le faire, ou si elle est attribuable à la nature des tâches assignées et aux compétences particulières que possède le travailleur lorsqu’il s’agit d’accomplir ces tâches sans direction ».
+[33] Dans ce cas‑ci, M. Clarke a de toute évidence été embauché à cause de ses compétences lorsqu’il s’agissait de s’occuper d’anciens détenus à leur sortie de prison et à cause de ses habiletés et de ses relations à titre d’aumônier, lesquelles étaient utiles lorsqu’il s’agissait de solliciter des dons. Il ressort également d’une façon évidente de la preuve que les membres du conseil d’administration, qui travaillaient tous ailleurs et qui étaient tous des bénévoles partageant le même objectif, à savoir aider les gens par l’intermédiaire de l’organisme de bienfaisance, s’en remettaient presque entièrement à M. Clarke pour mener les activités de MAP, et ce, presque sans supervision.
+[34] En même temps, MAP a signé des accords de contribution avec le Ontario Multifaith Council et avec Service correctionnel Canada. Des exemples de pareils accords ont été produits (pièce R‑2, onglets 11, 12, 13, 14). Je crois comprendre que MAP devait faire rapport à ces deux services gouvernementaux sur la façon dont le financement était utilisé et qu’en fin de compte, MAP était responsable et devait démontrer que de bonnes pratiques de gestion étaient suivies dans l’affectation de ces fonds aux programmes subventionnés aux fins de la réinsertion des contrevenants dans la collectivité. Il en va de même pour d’autres donateurs, comme Telus et la Fondation communautaire d’Ottawa, comme le montrent les lettres de don produites sous la cote R‑2, onglet 8.
+[35] M. Clarke était la personne clé agissant pour MAP à cet égard, et bien qu’il ait joui d’une grande liberté d’action, il rendait finalement compte régulièrement au conseil d’administration, qui se réunissait une fois par mois. En fin de compte, c’était MAP qui était responsable des décisions quotidiennes que M. Clarke prenait au sujet de la façon de dépenser les fonds provenant des contributions. De fait, MAP s’engageait à faire rapport aux organismes de contribution afin de démontrer qu’elle suivait de bonnes pratiques de gestion dans sa planification financière à l’égard de ces fonds.
+[36] De fait, le président de MAP a témoigné qu’à deux reprises au moins, il avait réprimandé M. Clarke parce que celui-ci gérait mal les fonds de MAP (en effet, il avait versé un montant de 7 500 $ à un conférencier et avait consenti en sa faveur des avances s’élevant en tout à 20 000 $ pour sa rémunération). M. O’Gorman a témoigné que, s’il avait su que MAP était à court d’argent, il aurait résilié le contrat de M. Clarke avant le mois d’août 2008.
+[37] À mon avis, cela montre que, bien que M. Clarke ait été considéré comme un membre de fait du conseil d’administration à l’égard d’un grand nombre des décisions à prendre, le conseil d’administration supervisait néanmoins le travail de M. Clarke et gardait un œil sur ce travail. Toutefois, bien que ce type de contrôle puisse être assimilé à celui qu’un conseil d’administration exerce sur un cadre supérieur (comme l’a mentionné le juge Hershfield dans la décision Pletch, précitée), l’intimé a reconnu que le critère du contrôle était difficile à appliquer dans le cas des directeurs parce que, généralement, ceux‑ci se voient accorder énormément d’autonomie. De fait, il faut se rappeler qu’il ne faut pas confondre le contrôle du résultat et le contrôle du travailleur (voir Charbonneau c. Canada (M.R.N.), [1996] A.C.F. no 1337 (QL), paragraphe 10).
+[38] Je conclus donc qu’il s’agit ici d’un cas dans lequel le facteur « contrôle » n’est pas concluant d’une façon ou de l’autre et qu’il faut examiner les autres facteurs.
+La propriété des instruments de travail
+[39] M. Clarke faisait une grande utilisation d’un bureau et d’un ordinateur fournis par MAP, mais il utilisait également sa propre voiture afin de visiter des prisons et des donateurs éventuels et afin d’assister à des conférences (bien qu’aux termes du contrat, il ait eu le droit de se faire rembourser les frais se rattachant au véhicule en fonction du kilométrage). Le contrat de M. Clarke obligeait celui‑ci à avoir son propre bureau, mais il semble qu’on ne le laissait pas travailler à cet endroit à cause des exigences imposées par le Ontario Multifaith Council et par Service correctionnel Canada en matière de confidentialité. Dans son argumentation, l’avocat de l’intimé a reconnu qu’il faut considérer ce facteur comme neutre et je suis d’accord.
+La possibilité de profit et le risque de perte
+[40] En vertu du premier contrat, M. Clarke touchait un salaire fixe qui était divisé par le nombre de semaines au cours d’une année. En vertu du second contrat, M. Clarke était rémunéré en fonction du nombre de journées de travail effectuées. M. Clarke n’était pas rémunéré pour les heures supplémentaires effectuées. Il présentait une facture à MAP et il prélevait la TPS étant donné que les dispositions du contrat l’obligeaient à le faire. Néanmoins, la rémunération de M. Clarke était fixe et n’était pas fonction du nombre d’heures effectuées; de plus, il n’existait aucune façon réaliste pour M. Clarke de faire un profit en assurant une saine gestion dans l’exercice de ses fonctions.
+[41] En outre, M. Clarke travaillait à temps plein pour MAP, et il le faisait avec tant de dévouement qu’il n’avait pas le temps de se livrer à d’autres activités commerciales.
+[42] Il semble également que Service correctionnel Canada, le Ontario Multifaith Council et MAP payaient les frais (et notamment le kilométrage se rattachant au véhicule) associés à la participation de M. Clarke à des séances et à des séminaires de formation professionnelle. Le travailleur avait également apparemment droit à des congés occasionnels (absence ou maladie). En outre, même si elle n’était pas légalement tenue de le faire, MAP a remis à M. Clarke une indemnité de départ lorsque le contrat a été résilié.
+[43] Quant au facteur « risque de perte », M. Clarke consentait en sa faveur des avances sur sa propre rémunération lorsque MAP était à court d’argent. Toutefois, il le faisait de sa propre initiative, sans le dire au conseil d’administration, qui a exprimé son mécontentement lorsqu’il a été informé de la situation. MAP a finalement remboursé à M. Clarke les avances consenties.
+[44] Par conséquent, je suis d’avis qu’il n’y avait réellement pour M. Clarke aucune possibilité de faire un profit ni aucun risque de subir une perte. Ce facteur milite en faveur de l’existence d’une relation employeur-employé.
+Le critère de l’intégration
+[45] Dans l’arrêt Sagaz, précité, la Cour suprême du Canada a dit ce qui suit, au paragraphe 47 :
+La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte.
+[46] Dans ce cas‑ci, l’appelante a affirmé que la notion d’entreprise est difficile à appliquer à un organisme de bienfaisance. Cela est peut-être vrai, mais les gens qui travaillent pour un organisme de bienfaisance possèdent néanmoins les mêmes droits que toute personne travaillant pour un organisme à but lucratif. Si l’organisme de bienfaisance dit clairement au départ qu’il n’a pas les moyens de payer qui que ce soit, les gens qui veulent donner leur temps peuvent fort bien accepter de travailler pour l’organisme à titre de bénévoles.
+[47] Dès qu’un organisme de bienfaisance consent à rémunérer une personne qui travaille pour lui et qu’il signe un contrat avec cette personne, les règles de droit applicables à d’autres travailleurs s’appliquent également à ce travailleur.
+[48] Comme le juge Hershfield l’a dit dans la décision Art City in St. James (Ville) c. Ministre du Revenu national, 2006 CCI 507, paragraphe 41, les organismes à but non lucratif ne peuvent pas abuser de la situation des travailleurs en faisant valoir qu’ils ne disposent pas des fonds nécessaires pour leur offrir des avantages sociaux, ni que l’acceptation de ces conditions par le travailleur permet d’éviter de considérer ces travailleurs comme des employés.
+[49] En l’espèce, l’appelante recevait, entre autres, du financement de certains organismes gouvernementaux. Les accords de financement qui ont été produits en preuve stipulaient que MAP était responsable de toute retenue, notamment au titre du RPC, de l’AE et de l’impôt sur le revenu, qui devait être effectuée sur le revenu des employés, ainsi que de tout paiement effectué en faveur des employés. Le budget qui était joint à l’un de ces accords montrait que les salaires constituaient la principale dépense, et il a été admis en preuve que la rémunération de M. Clarke était incluse sous cette rubrique.
+[50] Le travail de M. Clarke faisait-il partie intégrante des activités de MAP? Il semble évident que MAP était une personne morale qui était en mesure d’obtenir du financement de diverses sources afin de mener son mandat à bonne fin, ce mandat consistant à encourager activement les anciens détenus à se réinsérer dans la collectivité et à les aider à le faire. Il est passablement clair qu’en l’absence de pareil financement, il n’aurait pas été nécessaire d’avoir recours au travailleur. En outre, M. Clarke agissait comme s’il était un administrateur de MAP, comme l’indiquaient ses cartes professionnelles, certaines lettres envoyées pour le compte de MAP, des brochures et des rapports annuels, et le conseil d’administration tolérait cette pratique.
+[51] L’entreprise, ou le mandat, était clairement celui de MAP, comme en font foi les accords de contribution conclus entre MAP d’une part et Service correctionnel Canada, le Ontario Multifaith Council ou tout autre donateur d’autre part. Comme il en a déjà était fait mention, c’était MAP plutôt que M. Clarke qui était en fin de compte responsable de la façon dont M. Clarke dépensait les fonds et qui en rendait compte aux donateurs. Les services du travailleur faisaient partie intégrante de la fonction principale de MAP plutôt que d’être simplement accessoires aux activités de MAP (voir Long-Term Immates Now in the Community v. Minister of National Revenue, 2002 CarswellNat 1028, paragraphe 22; la situation dans cette affaire‑là était fort semblable aux faits de la présente affaire; voir également Pluri Vox Media Corp. c. R., 2011 CCI 237; 2011 CarswellNat 1344, paragraphe 19).
+[52] En outre, et conformément aux observations que le juge Hershfield a faites à l’alinéa 12a) de la décision Pletch, précitée, le fait que le travailleur entretenait à plein temps une relation durable à long terme avec MAP n’est pas compatible avec le statut d’un entrepreneur indépendant qui exploite une entreprise à son compte, en particulier lorsque rien ne montre que le travailleur ait exercé des activités similaires auprès d’autres clients.
+[53] Je conclus donc que le critère de l’intégration milite en faveur du statut d’employé.
+[54] Je suis d’avis que, dans le contexte de la présente affaire dans son ensemble, il y a suffisamment de facteurs (en particulier le critère de l’intégration, qui constitue ici un aspect fort important de la relation) permettant de conclure à l’existence d’un contrat d’emploi.
+[55] Je conclus donc que le ministre n’a pas commis d’erreur en concluant que le travailleur fournissait des services conformément à un contrat de louage de services et qu’il exerçait donc un emploi assurable ouvrant droit à pension[4].
+[56] Avant de présenter ses observations en l’espèce, l’appelante a déclaré que l’ARC avait déjà reçu ce qui lui était dû et que, au cas où je conclurais que la rémunération du travailleur était assurable et ouvrait droit à pension, comme je l’ai conclu en l’espèce, l’ARC serait payée à deux reprises.
+[57] L’intimé a produit les documents de l’ARC montrant ce qui avait été crédité au compte de MAP au titre des versements, et Mme Buchan a témoigné que les évaluations et la cotisation en question étaient fondées sur ces chiffres. Je suis d’accord avec l’intimé lorsqu’il dit que l’appelante n’a présenté aucun élément de preuve en vue de démontrer que ces calculs étaient erronés ou en vue d’établir le montant réellement versé au fisc au titre des retenues à la source, montant qui serait différent de celui qui est indiqué dans l’état de compte produit en preuve.
+[58] Pour ces motifs, je conclus qu’au cours de la période en question, le révérend Fritz Clarke, le travailleur, était un employé de l’appelante et non un entrepreneur indépendant travaillant à son compte.
+[59] Par conséquent, les appels sont rejetés; les évaluations et la cotisation concernant les années d’imposition 2006 et 2007 qui font l’objet des présents appels sont confirmées.
+Signé à Ottawa, Canada, ce 2e jour de mars 2012.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 11e jour de mai 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012 CCI 70
+Nos DES DOSSIERS DE LA COUR : 2010-1560(EI), 2010-1562(CPP),
+2010-3404(IT)I, 2010-3719(CPP),
+2010-3720(EI)
+INTITULÉ : M.A.P. (Mentorship, Aftercare, Presence) c. M.R.N.
+M.A.P. (Mentorship, Aftercare, Presence) c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Les 11 et 12 janvier 2012
+MOTIFS DU JUGEMENT : L’honorable Lucie Lamarre
+DATE DU JUGEMENT : Le 2 mars 2012
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Richard Hudson
+Avocat des intimés :
+Me Shane Aikat
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour les intimés : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Paragraphe 9 de la réponse à l'avis d'appel (2010‑1560(El) et 2010‑1562(CPP)), pièce R‑l, onglets lB et 2B, et paragraphe 4 de la réponse à l'avis d'appel (2010‑3719(CPP) et 2010‑3720(EI)), pièce R-l, onglets 3B et 4B.
+[2] M. Hudson n'a pas voulu reconnaître que le financement était avant tout assuré par le gouvernement (transcription, pages 95 à 105). Toutefois, lorsque j'examine l'accord de contribution conclu entre MAP et Service correctionnel Canada, produit sous la cote R‑2, onglet 12, il semble que des paiements de contribution d'un montant d'au plus 146 000 $ se rapportant à des dépenses admissibles devaient être effectués pour une période de deux ans (articles 4 et 11 de l'accord de contribution), ce qui représente un montant annuel de 73 000 $. C'est le montant du revenu mentionné dans le budget des années 2005-2006 comme étant tiré de contributions, représentant 47 p. 100 du revenu total (156 000 $), du moins pour la période qui a pris fin le 31 mars 2006.
+[3] Une partie importante du témoignage de M. Clarke n'a pas été enregistrée à cause d'un problème technique, et les parties ont été informées de la situation lors de l'audience. Je me suis donc fondée sur mes notes manuscrites et c'est la raison pour laquelle il n'est pas fait mention de la transcription.
+[4] Je ne veux pas faire de remarques au sujet du statut contractuel de M. Dan Kelly, qui a remplacé le travailleur après les années ici en cause (voir les pièces A‑3 et A‑5), étant donné que cet arrangement contractuel était peut-être bien différent et qu'il n'est de toute façon pas ici en cause.

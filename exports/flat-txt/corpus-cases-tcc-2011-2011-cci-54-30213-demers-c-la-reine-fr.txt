@@ -1,0 +1,123 @@
+Title: Demers c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30213/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-54-30213-demers-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-02-16
+
+# Demers c. La Reine
+
+- Citation: 2011 CCI 54
+- Decision date: 2011-02-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7769, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Demers c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-02-16
+Référence neutre
+2011 CCI 54
+Numéro de dossier
+2010-130(IT)I
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-130(IT)I
+ENTRE :
+PIERRE DEMERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Lorraine Dubuc (2010‑134(IT)I), le 13 décembre 2010, à Sherbrooke (Québec).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles déterminations établies en vertu de la Loi de l’impôt sur le revenu, par lesquelles le ministre du Revenu national a révisé la prestation fiscale canadienne pour enfants relativement aux années de base 2005, 2006 et 2007, est accueilli, sans dépens, et l’affaire est déférée au ministre du Revenu national pour nouvel examen et nouvelles déterminations selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour de février 2011.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2011 CCI 54
+Date : 20110216
+Dossier : 2010-130(IT)I
+ENTRE :
+PIERRE DEMERS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+I. Introduction
+[1] L’appelant interjette appel des nouvelles déterminations établies par le ministre du Revenu national (le « ministre ») selon lesquelles il n’était pas le « particulier admissible » au sens de l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi ») relativement à la prestation fiscale canadienne pour enfants (la « PFCE ») réclamée par l’appelant à l’égard de sa fille (l’« enfant ») pour les années de base 2005, 2006 et 2007.
+[2] Mme Lorraine Dubuc, la mère de l’enfant, a également réclamé la PFCE relativement à l’enfant. Elle s’est également fait refuser la PFCE qu’elle avait réclamée et les deux appels ont été entendus sur preuve commune.
+II. Exposé sommaire des faits
+[3] Par avis de nouvelles déterminations daté du 19 juin 2009, le ministre a révisé la PFCE de l’appelant et a déterminé que les montants qu’il avait reçus en trop s’élevaient à 165,47 $, à 510,55 $ et à 432,82 $ respectivement pour les années de base 2005, 2006 et 2007. Pour établir les nouvelles déterminations, le ministre a allégué s’être fondé sur les faits suivants :
+a) l’appelant et son ex‑conjointe, Mme Lorraine Dubuc, vivaient séparés depuis le 17 janvier 2007;
+b) de leur union est née une fille en août 1991;
+c) en juillet 2008, l’appelant a fait une demande de PFCE puisqu’un jugement précisait qu’il était la personne qui assumait la garde de l’enfant depuis le 17 janvier 2007;
+d) en août 2008, le ministre a envoyé à l’appelant et à Mme Dubuc un questionnaire afin de déterminer le parent admissible à recevoir la PFCE pour la période débutant le 17 janvier 2007;
+e) le 20 novembre 2008, le ministre a déterminé que l’appelant était la personne admissible à recevoir les PFCE pour la période de janvier 2007 à juin 2007 pour l’année de base 2005 et de juillet 2007 à janvier 2008 pour l’année de base 2006;
+f) pour la période débutant en avril 2008, le ministre a déterminé que l’enfant habitait en alternance avec l’appelant et avec Mme Dubuc et que chacun participait également aux soins de l’enfant;
+g) conséquemment, à partir du mois de mai 2008, l’admissibilité était partagée entre les deux parents sur une base d’alternance de six mois;
+h) l’appelant était admissible à recevoir la PFCE de novembre 2008 à avril 2009 pour l’année de base 2007;
+i) suite à cette décision, Mme Dubuc a informé le ministre que, dans les faits, l’enfant habitait avec elle les trois quarts du temps, qu’elle payait les vêtements et tous les frais de scolarité;
+j) le 19 juin 2009, le ministre a déterminé qu’aucun parent ne serait admissible à recevoir la PFCE.
+[4] Mme Dubuc a témoigné qu’elle avait quitté la demeure familiale dans laquelle elle résidait avec l’appelant et l’enfant au début de l’année 2007 à la suite de la rupture de ses relations avec l’appelant. Mme Dubuc a expliqué qu’elle a loué un appartement près de la demeure familiale dans lequel elle est allée vivre avec sa fille aînée. Elle a admis que pendant l’année d’imposition 2007, l’enfant a vécu exclusivement avec l’appelant.
+[5] Mme Dubuc prétend qu’elle a eu la garde exclusive de l’enfant à compter de janvier 2008. Elle reconnaît que selon un jugement rendu par la Cour supérieure du Québec, elle aurait dû avoir la garde partagée de l’enfant à compter d’avril 2008. Nonobstant ce jugement, Mme Dubuc prétend que l’enfant a résidé exclusivement avec elle. Elle a toutefois reconnu que l’enfant avait pu séjourner chez des amis à quelques occasions.
+[6] L’appelant soutient qu’il avait la garde exclusive de l’enfant pendant l’année d’imposition 2007. Il semble admettre que Mme Dubuc avait la garde de l’enfant entre janvier et octobre 2008, mais il soutient que la garde était partagée à compter d’avril 2008. L’appelant prétend qu’il s’occupait principalement des soins médicaux et de l’éducation de l’enfant pendant toute la période en litige. En ce qui concerne l’éducation de l’enfant, l’appelant prétend qu’il faisait le suivi scolaire auprès de l’école secondaire que fréquentait l’enfant et qu’il l’aidait pour ses devoirs.
+III. Question en litige
+[7] La question en litige consiste à déterminer si le ministre a correctement révisé la PFCE de l’appelant et déterminé que les montants reçus en trop s’élevaient à 165,47 $ pour l’année de base 2005, à 510,55 $ pour l’année de base 2006 et à 432,82 $ pour l’année de base 2007.
+IV. Analyse
+[8] La définition du terme « particulier admissible » à l’article 122.6 de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), et ses modifications, était ainsi rédigée au cours de la période pertinente :
+« particulier admissible » S'agissant, à un moment donné, du particulier admissible à l'égard d'une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne — père ou mère de la personne à charge — qui assume principalement la responsabilité pour le soin et l'éducation de cette dernière;
+c) elle réside au Canada ou, si elle est l'époux ou le conjoint de fait visé d'une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l'année d'imposition qui comprend ce moment, y a résidé au cours d'une année d'imposition antérieure;
+d) elle n'est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés,
+(ii) résident temporaire ou titulaire d'un permis de séjour temporaire visés par la Loi sur l'immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l'immigration et la protection des réfugiés,
+(iv) quelqu'un qui fait partie d'une catégorie précisée dans le Règlement sur les catégories d'immigrants précisées pour des motifs d'ordre humanitaire pris en application de la Loi sur l'immigration.
+Pour l'application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l'alinéa f) ne s'applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l'éducation d'une personne.
+[9] Mme Dubuc a admis que l’enfant vivait exclusivement avec l’appelant pendant toute l’année d’imposition 2007. De plus, Mme Dubuc semble corroborer le témoignage de l’appelant voulant qu’elle n’était pas en mesure de prendre soin de l’enfant pendant l’année d’imposition 2007 en raison du stress causé par la rupture de sa relation avec l’appelant et le décès de ses deux parents. Par conséquent, je n’ai aucune difficulté à conclure que l’appelant était la personne admissible à recevoir la PFCE pour la période de janvier à juin 2007, relativement à l’année de base 2005, et pour la période de juillet 2007 à janvier 2008 relativement à l’année de base 2006. D’autre part, nonobstant les contradictions entre le témoignage de Mme Dubuc et celui de l’appelant, je conclus que l’enfant habitait en alternance avec l’appelant et avec Mme Dubuc à compter d’avril 2008 et que chacun participait également au soin de l’enfant. Par conséquent, je conclus que l’appelant était admissible à recevoir la PFCE de novembre 2008 à avril 2009 relativement à l’année de base 2007. Je note que le ministre est arrivé à la même conclusion concernant le droit de l’appelant à la PFCE pour cette période.
+Signé à Ottawa, Canada, ce 16e jour de février 2011.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2011 CCI 54
+Nº DU DOSSIER DE LA COUR : 2010-130(IT)I
+INTITULÉ DE LA CAUSE : PIERRE DEMERS c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : Le 13 décembre 2010
+MOTIFS DU JUGEMENT PAR : L'honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 16 février 2011
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,158 @@
+Title: Mathieu c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27518/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-276-27518-mathieu-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2005-05-05
+
+# Mathieu c. M.R.N.
+
+- Citation: 2005 CCI 276
+- Decision date: 2005-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 11, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mathieu c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-05
+Référence neutre
+2005 CCI 276
+Numéro de dossier
+2004-833(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-833(EI)
+ENTRE :
+ANDRÉ MATHIEU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 7 mars 2005, à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, Juge suppléant
+Comparutions :
+Représentante de l'appelant :
+Nathalie Ratthé
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 5e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2005CCI276
+Date : 20050505
+Dossier : 2004-833(EI)
+ENTRE :
+ANDRÉ MATHIEU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec) le 7 mars 2005.
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi de l'appelant lorsqu'au service de 9022‑2795 Québec Inc., le payeur, du 1er janvier au 31 décembre 2002, la période en litige. Le 5 février 2004, le ministre du Revenu national (le « Ministre »), a informé le payeur et l'appelant de sa décision selon laquelle l'appelant occupait un emploi assurable.
+[3] En rendant sa décision, le Ministre s'est appuyé sur les faits présumés suivants :
+a) Le payeur, constitué en société le 21 juin 1995, exploite une entreprise de reproduction de documents, d'expédition de colis et de location de boîtes postales. (nié)
+b) Le payeur était sous-traitant de la compagnie Fedex et, par le biais d'Internet, il louait des boîtes postales pour des clients résidant à l'étranger à qui il ré-acheminait leur courrier. (nié)
+c) Les actions comportant droit de vote du payeur étaient détenues par :
+- Robin Boudreault avec 60 % des actions;
+- Claire Delisle, épouse de M. Boudreault, avec 30 % des actions;
+- l'appelant avec 10 % des actions.
+(admis)
+d) L'appelant n'a aucun lien de parenté avec les 2 autres actionnaires du payeur. (admis)
+e) Les locaux du payeur sont situés à Laval mais ses clients, des particuliers et des entreprises, sont situés partout à travers le monde. (nié)
+f) Le payeur emploie 3 personnes (les 3 actionnaires) et exploite son entreprise du lundi au vendredi, de 8 h à 17 h 30. (nié)
+g) L'appelant rendait des services au payeur depuis 4 ou 5 ans; il s'occupait des relations avec les clients qui louaient les boîtes postales. (nié)
+h) L'appelant rendait ses services au payeur dans le local de ce dernier, sur la route ou, occasionnellement, à la maison. (admis avec précisions)
+i) Le payeur possédait une ligne WATT (1-800). (admis)
+j) L'appelant avait la responsabilité de répondre à cette ligne. (nié)
+k) Il devait être disponible pour répondre à cette ligne de 8 h à 23 h, 7 jours par semaine. (admis avec précisions)
+l) L'appelant n'avait pas à respecter un horaire de travail fixe, mais il travaillait au moins 40 heures, souvent 50 heures, par semaine. (admis)
+m) Le payeur prétend que le travail de l'appelant n'était pas supervisé alors que l'appelant devait lui remettre ses rapports de vente et que le payeur pouvait exercer un droit de regard sur le travail de l'appelant. (nié)
+n) Le payeur fournissait un local, un téléphone cellulaire et un ordinateur à l'appelant. (admis avec précisions)
+o) Quand l'appelant devait voyager dans le cadre de son travail, le payeur lui remboursait ses frais de véhicule, de repas et d'hôtel. (admis)
+p) L'appelant avait droit à 2 semaines de vacances et était rémunéré en cas de maladie. (nié)
+q) L'appelant recevait une rémunération fixe de 840 $ par semaine. (nié)
+r) Les tâches de l'appelant étaient intégrées aux activités du payeur et les clients étaient ceux du payeur et non ceux de l'appelant. (nié)
+[4] L'appelant, dans son témoignage, a affirmé que le payeur n'était pas un sous‑traitant de la compagnie Fedex mais offrait le service de celui-ci de la même façon que la pharmacie offre certains services de Postes Canada. Il a été démontré qu'au delà des tâches de l'appelant reconnues par le Ministre, on doit ajouter la comptabilité du payeur, la négociation des ententes avec les sociétés Canon et Konica, le service à la clientèle locale et internationale et les contrats de location. L'appelant a affirmé à l'audition qu'ils étaient deux à tout faire dans l'entreprise, lui et Robin Boudreault. Il a ajouté, cependant, qu'il n'avait aucun horaire fixe de travail. Il a été précisé que la tâche de répondre aux appels téléphoniques rentrant sur la ligne Watt reposait sur les trois actionnaires qui, à tour de rôle, assuraient le service sur leur téléphone cellulaire. Par ailleurs, l'appelant a affirmé à l'audition qu'il n'avait pas de comptes à rendre au payeur. Il se considère comme qu'actionnaire, il fait partie du payeur, et donc, il se voit sans contrainte par rapport à cette obligation à laquelle serait assujetti un employé ordinaire. Il s'identifie à l'entreprise en quelque sorte. L'appelant a affirmé, en outre, qu'il prend les vacances qu'il veut, que celles-ci sont payées de même que ses congés de maladie. Quant à sa rémunération, il a précisé qu'il n'avait pas de salaire fixe, mais que celui-ci était ajusté selon les profits de l'entreprise. Il a précisé dans son témoignage qu'il avertissait les autres, en cas d'absence. La preuve a établi que l'appelant, de même que Robin Boudreault, avait le pouvoir de signer seul sur les chèques de l'entreprise, peu importe le montant et qu'il pouvait embaucher les employés.
+[5] Les rencontres des actionnaires étaient informelles et se faisaient lors de la réception des rapports comptables qu'ils examinaient à trois. L'appelant a commencé à travailler pour le payeur en 1995, alors qu'il était aux études. Ses études terminées, il est devenu actionnaire de l'entreprise.
+[6] Le fardeau de la preuve repose sur l'appelant. Celui-ci a admis un bon nombre de faits présumés par le Ministre, tels qu'indiqués; il en a nuancé quelque uns, sans y apporter d'éléments susceptibles d'en contredire le sens et la portée. Il a apporté dans son témoignage certains éléments de preuve sur lesquels il a insisté et qui, en quelque sorte, constituent la position qu'il voulait faire connaître comme moyens d'appel.
+[7] L'appelant a affirmé, de façon assez catégorique, qu'il n'était aucunement supervisé; qu'il n'avait aucun horaire de travail; et que personne n'avait droit de regard sur lui. Il a affirmé, par ailleurs, qu'il prenait les vacances qu'il voulait. En outre, il a précisé que son salaire n'était pas fixe à 840 $ par semaine, comme le prétend le Ministre, mais que celui-ci était lié aux profits.
+[8] Il faut signaler que le témoignage de l'appelant constitue la seule preuve orale entendue au procès. Le payeur n'a aucunement corroboré les faits relatés par l'appelant sur la supervision de ce dernier, son horaire, ses vacances ou son salaire. En effet, le salaire de l'appelant n'a été aucunement documenté ou comptabilisé puisqu'aucun livre de paie n'a été produit. Cependant, l'appelant a admis que ses tâches étaient intégrées à celle du payeur.
+[9] Le Ministre a déterminé que l'appelant exerçait un emploi aux termes d'un contrat de louage de services au sens de l'alinéa 5(1)a) de la Loi sur l'assurance‑emploi et qu'il occupait donc un emploi assurable pendant la période en litige.
+[10] Voici donc le texte législatif sur lequel le Ministre s'est appuyé :
+EMPLOI ASSURABLE
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[…]
+[11] La façon d'appliquer cette disposition dans un litige comme celui‑ci a été établie dans la jurisprudence qui en a statué certains critères. Ceux‑ci sont énoncés dans l'arrêt Montreal v. Montreal Locomotive Works Ltd., [1947] 1 D.L.R. 161 aux pages 169 et 170 :
+[TRADUCTION] Dans les jugements antérieurs, on s'appuyait souvent sur un seul critère, comme l'existence ou l'absence de contrôle, pour décider s'il s'agissait d'un rapport de maître à préposé, la plupart du temps lorsque des questions de responsabilité délictuelle de la part du maître ou du supérieur étaient en cause. Dans les situations plus complexes de l'économie moderne, il faut souvent recourir à des critères plus compliqués. Il a été jugé plus convenable dans certains cas d'appliquer un critère qui comprendrait les quatre éléments suivants : (1) le contrôle; (2) la propriété des instruments de travail; (3) la possibilité de profit; (4) le risque de perte. Le contrôle en lui-même n'est pas toujours concluant. Ainsi, le capitaine d'un vaisseau affrété est généralement l'employé de l'armateur, bien que l'affréteur puisse diriger l'embauchage sur le navire. Encore une fois, la loi apporte souvent des limites aux droits de l'employeur de diriger la conduite de l'employé, comme le font les règlements relatifs aux syndicats ouvriers. Dans bien des cas, il faut, pour résoudre la question, examiner l'ensemble des divers éléments qui composent la relation entre les parties. Ainsi, il est dans certains cas possible de décider en posant la question "à qui appartient l'entreprise", en d'autres mots, en demandant si la partie exploite l'entreprise, c'est-à-dire qu'elle l'exploite pour elle-même ou pour son propre compte et pas seulement pour un supérieur. [...]
+[12] Il convient d'analyser l'emploi de l'appelant à la lumière des critères énoncés ci‑haut.
+1. LE CONTRÔLE
+[13] L'appelant oeuvrait au sein du payeur à titre d'actionnaire dont les tâches ont été décrites ci-haut. Il a commencé en 1996 alors qu'il était étudiant. Il est devenu actionnaire à la fin de ses études. Il a été établi qu'il avait les coudées franches. Il connaît son travail, possède plusieurs années d'expérience et on lui fait confiance. Son statut dans l'entreprise le place au rang des cadres dont les tâches n'exigent pas la supervision régulière des supérieurs. Cependant, il n'est actionnaire qu'à 10 %. À ce titre, il n'a pas le pouvoir d'engager les décisions majeures de l'entreprise. Bien qu'il ne se sente pas contrôlé ou supervisé dans l'exercice de son rôle, de ses fonctions ou de ses tâches, rien dans la preuve n'a indiqué que le payeur, par son conseil d'administration, a renoncé à son pouvoir de contrôle ou de regard sur celui‑ci. Le payeur ne perd pas son pouvoir de contrôle parce qu'il ne l'exerce pas. C'est le principe qui se dégage de l'arrêt Gallant c. le Ministre du Revenu national, [1986] A.C.F. No 330.
+[14] Le juge Tardif de cette Cour, à qui on avait confié un mandat semblable à celui, en l'espèce, l'a résolu de la façon suivante dans l'arrêt Roxboro Excavation Inc. c. Canada (ministre du Revenu national – M.R.N.), [1999] A.C.I. no 32, dont voici en résumé les faits et la résolution :
+¶ 8 Il a été établi que chacun des frères Théorêt avait une responsabilité précise et définie au sein de la compagnie Roxboro. Chacun des intervenants y consacrait la majeure partie de sa disponibilité, étant aussi marginalement impliqué dans la bonne marche des autres compagnies.
+¶ 9 À l'intérieur de leurs responsabilités respectives, les frères Théorêt étaient assez autonomes et dirigeaient assez librement leur domaine d'activités propres. Ils n'avaient pas à demander de permission pour décider de leur période de vacances; ils pouvaient s'absenter sans avoir de compte à rendre à qui que ce soit. Ils recevaient chacun sensiblement le même salaire dont une partie était payée par chèque hebdomadaire d'un montant égal et consécutif; l'autre partie de la rémunération était payée au moyen d'un bonus dont le montant variait en fonction de la performance financière de la compagnie Roxboro et/ou des autres compagnies.
+[...]
+¶ 18 La pierre angulaire de ce dossier est essentiellement de savoir s'il existait en 1996, un lien de subordination entre la compagnie qui payait la rémunération et les intervenants. En d'autres termes, la compagnie avait-elle le pouvoir de contrôler et d'intervenir sur le travail exécuté par les frères Théorêt?
+¶ 19 À cet égard, je crois important de rappeler que les tribunaux ont souvent répété qu'il n'était pas obligatoire ou nécessaire que le pouvoir de contrôler se soit manifesté dans les faits; en d'autres termes, un employeur qui n'exerce pas son droit de contrôle ne perd pas pour autant ce pouvoir tout à fait essentiel pour l'existence d'un contrat de louage de services.
+¶ 20 Le pouvoir de contrôle ou le droit d'intervention sur l'exécution d'un travail s'avère être la principale constituante du lien de subordination à l'origine d'un véritable contrat de louage de services.
+[...]
+¶ 22 Il est alors essentiel de faire une distinction très nette entre les faits et gestes exécutés ès-qualité d'actionnaires et/ou d'administrateurs et ceux effectués à titre de travailleurs ou d'exécutants. En l'espèce, cette démarcation est particulièrement importante.
+¶ 23 Bien que la jurisprudence ait identifié quatre critères pour faciliter la qualification d'un contrat de travail, le critère relatif au pouvoir de contrôle est le plus important; il est même essentiel.
+[...]
+¶ 25 Ce pouvoir de contrôler l'exécution du travail est à l'origine du lien de subordination tout à fait fondamental pour l'existence d'un contrat de louage de services au sens de la Loi sur l'assurance‑chômage.
+[...]
+¶ 28 Y avait-il un lien de subordination entre les intervenants et la compagnie dans et pour l'exercice du travail qu'ils accomplissaient à l'intérieur de leur mission respective? Je crois que la compagnie, qui chapeautait le travail exécuté par les frères Théorêt, avait pleinement le droit et le pouvoir d'intervention. Le fait que la compagnie n'ait pas exercé ce pouvoir de contrôle et le fait que ceux qui exécutaient et réalisaient le travail ne se croient pas assujettis à un tel pouvoir de contrôle et ne se sentent pas subordonnés dans et lors de l'exécution de leur travail n'ont pas pour effet de faire disparaître, réduire ou limiter le pouvoir d'intervention.
+[...]
+¶ 30 Je ne crois pas qu'il soit objectivement raisonnable d'exiger une rupture totale et absolue entre les responsabilités découlant du statut d'actionnaires et celles découlant du statut de travailleurs. Le cumul des deux chapeaux crée normalement, ce qui est tout à fait légitime, une plus grande tolérance, flexibilité dans les rapports découlant des deux fonctions. L'amalgamation des deux tâches génère cependant des effets qui sont souvent contraires aux exigences d'un véritable contrat de louage de services.
+¶ 31 En l'espèce, le fait que l'autorité ne semblait pas opposable aux frères Théorêt et le fait que les décisions ayant trait à la compagnie étaient prises dans le consensualisme et la collégialité n'enlevaient pas pour autant à la compagnie son autorité sur le travail exécuté par les intervenants. La preuve n'a pas démontré que la compagnie avait renoncé à son pouvoir d'intervention ou que ce droit avait été soit réduit, soit limité ou même annulé.
+[15] Le même principe a été formulé par la Cour d'appel fédérale dans l'arrêt Groupe Desmarais Pinsonneault & Avard Inc. c. Canada (ministre du Revenu national – M.R.N.), [2002] A.C.F. no 572, où le juge Noël s'est exprimé comme suit :
+¶ 4 Le premier juge, en concluant à l'absence d'un lien de subordination entre les travailleurs et la défenderesse, semble ne pas avoir tenu compte du principe bien établi à l'effet que la société a une personnalité juridique distincte de celle de ses actionnaires et que par voie de conséquence, les travailleurs étaient assujettis au pouvoir de contrôle de la défenderesse.
+¶ 5 La question que devait se poser le premier juge était de savoir si la société avait le pouvoir de contrôler l'exécution du travail des travailleurs et non pas si la société exerçait effectivement ce contrôle. Le fait que la société n'ait pas exercé ce contrôle ou le fait que les travailleurs ne s'y soit pas senti assujettis lors de l'exécution de leur travail n'a pas pour effet de faire disparaître, réduire ou limiter ce pouvoir d'intervention que la société possède, par le biais de son conseil d'administration.
+2. LA PROPRIÉTÉ DES OUTILS
+[16] L'appelant a admis que le payeur avait fourni les outils nécessaires à son travail, tout en précisant que ces outils étaient aussi fournis à tous les autres employés oeuvrant pour l'entreprise.
+3. RISQUES DE PERTE ET CHANCES DE PROFIT
+[17] Dans son témoignage, l'appelant a soutenu que son salaire était lié aux profits. Il n'a offert aucune autre preuve à cet effet. Cependant, le Ministre a identifié le salaire de l'appelant. Il l'a établi à 840 $ par semaine. L'appelant n'a fourni aucun livre de paie à l'appui de sa prétention à l'effet que son salaire a été ajusté selon les profits depuis quatre ou cinq ans. Donc, aucun élément de preuve, sauf l'affirmation de l'appelant, n'a été soumis au procès établissant que celui-ci a encouru des risques de perte ou réalisé des chances de profit.
+4. INTÉGRATION
+[18] L'appelant a admis que ses tâches étaient intégrées à celles du payeur. Il s'agit ici du critère d'intégration. Le juge Major, dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983 écrivait au paragraphe 44 ce qui suit :
+¶ 44 Selon le juge MacGuigan, c'est le juge Cooke qui a fait la meilleure synthèse du problème dans la décision Market Investigations, Ltd. c. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), p. 737-738 (suivie par le Conseil privé dans l'arrêt Lee Ting Sang c. Chung Chi‑Keung, [1990] 2 A.C. 374, lord Griffiths, p. 382) :
+[TRADUCTION] Les remarques de LORD WRIGHT, du LORD JUGE DENNING et des juges de la Cour suprême des États-Unis laissent à entendre que le critère fondamental à appliquer est celui-ci : "La personne qui s'est engagée à accomplir ces tâches les accomplit-elle en tant que personne à son compte?" Si la réponse à cette question est affirmative, alors il s'agit d'un contrat d'entreprise. Si la réponse est négative, alors il s'agit d'un contrat de service personnel. Aucune liste exhaustive des éléments qui sont pertinents pour trancher cette question n'a été dressée, peut-être n'est-il pas possible de le faire; on ne peut non plus établir de règles rigides quant à l'importance relative qu'il faudrait attacher à ces divers éléments dans un cas particulier. Tout ce qu'on peut dire, c'est qu'il faudra toujours tenir compte du contrôle même s'il ne peut plus être considéré comme le seul facteur déterminant; et que des facteurs qui peuvent avoir une certaine importance sont des questions comme [...] celles de savoir si celui qui accomplit la tâche fournit son propre outillage, s'il engage lui‑même ses aides, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion, et jusqu'à quel point il peut tirer profit d'une gestion saine dans l'accomplissement de sa tâche.
+[19] L'appelant avait le fardeau de prouver la fausseté des présomptions du Ministre et que la conclusion était erronée. Il ne l'a pas fait.
+[20] Cette Cour, au contraire, est convaincue du bien-fondé de cette décision qui s'appuie sur la Loi sur l'assurance-emploi, à l'alinéa 5(1)a) et sur une jurisprudence constante, telle que citée ci-haut.
+[21] En conséquence, l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 5e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2005CCI276
+Nº DU DOSSIER DE LA COUR : 2004-833(EI)
+INTITULÉ DE LA CAUSE : ANDRÉ MATHIEU ET M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 7 mars 2005
+MOTIFS DE JUGEMENT PAR : L'honorable S.J. Savoie, Juge suppléant
+DATE DU JUGEMENT : Le 5 mai 2005
+COMPARUTIONS :
+Représentante de l'appelant :
+Nathalie Ratthé
+Avocate de l'intimé :
+Me Emmanuelle Faulkner
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelant:
+Nom :
+Étude :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

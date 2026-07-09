@@ -1,0 +1,170 @@
+---
+title: "Muhammedi c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25908/index.do"
+last_modified: "2004-06-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 408"
+citation2: ""
+neutral_citation: "2004 CCI 408"
+decision_date: "2004-06-23"
+language: "fr"
+item_id: "25908"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3706
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:18:40.548000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f2c2cb75d9e6eb6b240d3dfc2de3972c3354db012bf9c24b6470f9531b032b19"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Muhammedi c. La Reine
+
+- Citation: 2004 CCI 408
+- Decision date: 2004-06-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3706, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Muhammedi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-23
+Référence neutre
+2004 CCI 408
+Numéro de dossier
+2003-2694(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2003-2694(IT)I
+ENTRE :
+SHAMIN MUHAMMEDI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 7 janvier 2004 à Ottawa (Ontario).
+Devant : M. le juge T. O'Connor
+Comparutions :
+Représentant de l’appelante :
+K.E. Koshy
+Avocat de l’intimée :
+Me John Shipley
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés relativement à des nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu pour les années d’imposition 1999 et 2000 sont rejetés conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 23e jour de juin 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2004CCI408
+Date : 20040623
+Dossier : 2003-2694(IT)I
+ENTRE :
+SHAMIN MUHAMMEDI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge O'Connor
+[1] Les principaux faits et questions en litige découlant des présents appels sont, de manière générale, ceux énoncés dans la réponse à l’avis d’appel. Voici le texte de cette réponse :
+[TRADUCTION]
+En réponse à l’avis d’appel relatif aux années d’imposition 1999 et 2000 qui a été déposé le 28 juillet 2003, le sous‑procureur général du Canada déclare :
+A. ÉNONCÉ DES FAITS
+1. Il admet les faits suivants, tels qu’ils sont exposés dans l’avis d’appel :
+a) le ministre du Revenu national (le « ministre ») a refusé les déductions de 12 000,00 $ et de 3 500,00 $ réclamées par l’appelante au titre de « main d’œuvre temporaire » pour les années d’imposition 1999 et 2000 respectivement;
+b) les sommes mentionnées à l’alinéa 1a) ont été refusées en partie parce que les paiements n’ont pas été faits en « termes absolus » et qu’ils n’étaient pas raisonnables;
+c) les cotisations visées ont été ratifiées en application de l’alinéa 18(1)a) et de l’article 67 de la Loi de l’impôt sur le revenu (la « Loi »).
+2. Il n’a pas connaissance des autres faits exposés dans l’avis d’appel et s’attend à ce que l’appelante en fasse la preuve absolue.
+3. Dans le calcul des revenus pour les années d’imposition 1999 et 2000, l’appelante a déclaré des revenus d’entreprise nets s’élevant à 332,00 $ et à 346,00 $ respectivement.
+4. Par les avis de nouvelle cotisation datés du 1er août 2002, le ministre a établi de nouvelles cotisations relativement aux déclarations de revenus de l’appelante pour les années d’imposition 1999 et 2000 et a augmenté les revenus d’entreprise nets mentionnés au paragraphe 3 des présentes d’une somme de 12 000,00 $ et de 3 500,00 $ respectivement.
+5. Lorsqu’il a établi ces nouvelles cotisations relativement aux déclarations de revenus pour les années d’imposition 1999 et 2000 de l’appelante, le ministre s’est appuyé sur les hypothèses de fait suivantes :
+a) les faits mentionnés et admis ci‑dessus;
+b) au cours de la période allant du 1er janvier 1999 au 31 décembre 2000 inclusivement, l’appelante a déclaré le revenu d’entreprise net mentionné au paragraphe 3 des présentes relativement à un « magasin de tabac et de cadeaux » (l’« entreprise »);
+c) c’est le mari de l’appelante, Karim Muhammedi (le « mari »), qui se chargeait des activités quotidiennes liées à l’exploitation de l’entreprise;
+d) aucun salaire n’a été versé au mari pendant les années d’imposition 1999 et 2000, mais il a reçu des « honoraires de gestion » de 3 500,00 $ en 1999 seulement;
+e) deux des enfants de l’appelante, Rizwan, né le 1er février 1982, et Faizan, né le 1er juillet 1987, (les « enfants ») contribuaient à l’exploitation de l’entreprise après la classe;
+f) des chèques à l’ordre des enfants ont été établis au cours des années d’imposition 1999 et 2000, comme le montre l’annexe A ci‑jointe;
+g) les chèques mentionnés à l’alinéa 5f) des présentes étaient déposés dans le compte bancaire de l’entreprise ou dans celui de l’appelante et de son mari;
+h) l’examen des chèques révèle qu’ils n’ont pas tous été endossés par les enfants;
+i) aucun contrat de prêt écrit en bonne et due forme n’a été conclu entre l’appelante et les enfants relativement aux sommes déposées dans les comptes bancaires comme il est mentionné à l’alinéa 5g) des présentes, ce qui constituait un prêt sans intérêt entre les parties susmentionnées.
+B. QUESTION EN LITIGE
+6. La question en litige consiste à savoir si l’appelante peut déduire, dans le calcul du revenu pour les années d’imposition 1999 et 2000, des dépenses liées à la main d’œuvre temporaire s’élevant à 12 000,00 $ et à 3 500,00 $ respectivement.
+C. DISPOSITIONS LÉGISLATIVES, MOYENS INVOQUÉS ET RÉPARATION DEMANDÉE
+7. Il s’appuie sur l’alinéa 18(1)a) et l’article 67 de la Loi.
+8. Il soutient que l’appelante ne peut pas déduire les sommes de 12 000,00 $ et de 3 500,00 $ à titre de dépenses liées à la main d’œuvre temporaire dans le calcul du revenu pour les années d’imposition 1999 et 2000 puisqu’elle n’a pas réussi à établir que ces sommes ont été engagées en vue de tirer un revenu au sens de l’alinéa 18(1)a) de la Loi.
+9. Il fait en outre valoir que l’appelante et les enfants n’ont pas conclu une entente commerciale authentique pour les raisons suivantes :
+a) les enfants travaillaient pour leurs parents et il existait donc un lien de dépendance;
+b) les chèques étaient déposés dans le compte bancaire de l’entreprise ou dans celui de l’appelante et de son mari; ils n’étaient donc pas considérés comme ayant été versés aux enfants, et ces derniers n’avaient ni la possession ni le contrôle de l’argent;
+c) aucun contrat de prêt écrit n’existait entre l’appelante et les enfants relativement aux sommes déposées dans les comptes bancaires, comme il est mentionné à l’alinéa 9b) des présentes.
+10. Dans l’éventualité où la Cour canadienne de l’impôt déciderait que les sommes de 12 000,00 $ et de 3 500,00 $ constituent, pour les années d’imposition 1999 et 2000, des salaires payés aux enfants, il avance également que ces paiements ne sont pas raisonnables suivant l’article 67 de la Loi compte tenu de l’âge des enfants, des dates où les paiements ont été faits et du montant des paiements par rapport aux sommes payées au mari pendant la même période.
+[2] L’appelante, son mari, son fils Faizan et Paul Lépine, agent des appels, ont tous témoigné, et de nombreuses pièces ont été versées au dossier. La preuve a également révélé que l’entreprise a été vendue en 2001; que les deux enfants n’ont produit qu’en 2002 des déclarations de revenus relatives à leur présumé salaire, après que l’entreprise a fait l’objet d’une vérification; que les enfants ont réellement travaillé; que selon les parents les présumés salaires constituaient en réalité des prêts consentis aux parents en vue d’être utilisés pour payer les futures études des enfants; qu’il y avait une certaine confusion quant aux heures travaillées par les enfants et aux sommes qui leur étaient censément versées; que l’entreprise était dirigée par le mari et que l’appelante, outre le fait qu’elle a acheté l’entreprise, contribuait très peu à l’exploitation de celle‑ci; que les chèques à l’intention des enfants n’étaient pas émis à des intervalles réguliers, mais uniquement lorsque les redressements effectués à la fin de l’exercice en décembre donnaient lieu à des liquidités.
+[3] J’estime que les facteurs suivants sont fondamentaux :
+1. Manifestement, les chèques émis au nom des enfants n’étaient pas payés à ces derniers ou, s’ils leur étaient payés, la somme versée était immédiatement déposée dans le compte bancaire de l’entreprise ou dans celui de l’un ou des deux parents. Par conséquent, ils ne constituaient pas un salaire payé aux enfants faisant en sorte que les sommes en jeu se trouvaient par la suite sous le contrôle ou en la possession des enfants. Les sommes demeuraient pour l’essentiel sous le contrôle des parents et/ou de l’entreprise.
+2. Même si les parents soutiennent que les sommes leur étaient prêtées, aucun document de prêt n’établit ce fait.
+3. Il est difficile de comprendre comment une entreprise qui a dégagé des revenus annuels supérieurs à 300 000,00 $ en 1999 et en 2000 a pu produire un bénéfice net de seulement 332,00 $ en 1999 et de 346,00 $ en 2000.
+4. En 1999, aucun salaire n’a été payé au mari, le principal responsable de l’exploitation de l’entreprise, et seuls des honoraires de gestion de 3 500,00 $ lui ont été versés en 2000. Cette situation a permis à l’appelante de déduire de son revenu certaines sommes au titre des aliments fournis à son mari. En d’autres termes, ce dernier travaillait mais ne recevait pas de salaire, et cela a donné lieu à des déductions en faveur de l’appelante.
+5. Les enfants, même s’ils allèguent avoir reçu un salaire, n’ont déclaré aucun revenu dans leurs déclarations de revenus pour 1999 et pour 2000, et n’ont en fait produit des déclarations qu’en 2002 pour déclarer ce revenu.
+6. On a l’impression qu’il s’agit d’une planification fiscale visant à réduire autant que possible l’ensemble du fardeau fiscal de la famille. Cela ne constitue peut‑être pas le fin mot de l’affaire, mais la façon dont ces opérations ont été exécutées donne à penser qu’il s’agit d’un trompe‑l’œil, et fait en sorte que les exigences prévues à l’alinéa 18(1)a) et à l’article 67 de la Loi de l’impôt sur le revenu ne sont pas remplies.
+[4] Les décisions invoquées par l’avocat de l’intimé, à savoir Blake v. M.N.R., 81 DTC 31 (CRI); Slingerland v. M.N.R., 78 DTC 1280 (CRI), et Clarke et al. v. M.N.R., 84 DTC 1839 (CCI), concernent toutes des cas où les enfants travaillaient pour leurs parents, recevaient des chèques en contrepartie de leur travail et où, comme en l’espèce, les sommes étaient remises à l’un des parents ou aux deux parents et ne demeuraient jamais entre les mains des enfants. Dans ces trois affaires, les appels des contribuables ont été rejetés.
+[5] Je ne vois aucune différence fondamentale entre les décisions rendues dans les appels susmentionnés et les faits du présent appel, et j’arrive à la même conclusion que celle tirée par les juges dans le cadre de ces appels.
+[6] En conséquence, les appels sont rejetés.
+Signé à Ottawa, Canada, ce 23e jour de juin 2004.
+« T. O'Connor »
+Juge O'Connor
+Traduction certifiée conforme
+Suzanne M. Gauthier, trad. a., LL.L.
+RÉFÉRENCE :
+2004CCI408
+NO DU DOSSIER DE LA COUR :
+2003-2694(IT)I
+INTITULÉ DE LA CAUSE :
+Shamin Muhammedi c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 janvier 2004
+MOTIFS DU JUGEMENT PAR :
+M. le juge T. O'Connor
+DATE DU JUGEMENT :
+Le 23 juin 2004
+COMPARUTIONS :
+Avocat de l’appelante :
+Avocat de l’intimée :
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

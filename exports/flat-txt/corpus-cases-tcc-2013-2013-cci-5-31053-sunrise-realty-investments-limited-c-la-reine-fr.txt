@@ -1,0 +1,356 @@
+Title: Sunrise Realty Investments Limited c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31053/index.do
+Corpus path: corpus/cases/tcc/2013/2013-cci-5-31053-sunrise-realty-investments-limited-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2013-01-10
+
+# Sunrise Realty Investments Limited c. La Reine
+
+- Citation: 2013 CCI 5
+- Decision date: 2013-01-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4876, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sunrise Realty Investments Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-01-10
+Référence neutre
+2013 CCI 5
+Numéro de dossier
+2012-1071(IT)I
+Juges et Officiers taxateurs
+Gerald J. Rip
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1071(IT)I
+ENTRE :
+SUNRISE REALTY INVESTMENTS LIMITED.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 13 novembre 2012, à Toronto (Ontario).
+Devant : L’honorable juge en chef Gerald J. Rip
+Comparutions :
+Représentant de l’appelante :
+M. Riaz Ahmad
+Avocate de l’intimée :
+Me Erin Strashin
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2005, 2006, 2007, 2008, 2009 et 2010 sont accueillis et les cotisations sont déférées au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que le prix d’achat du bien visé doit être réparti de la manière suivante : 731 081 $ pour le terrain vacant et 948 916 $ pour le bâtiment.
+Signé à Ottawa, Canada, ce 10e jour de janvier 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 25e jour de février 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2013 CCI 5
+Date : 20130110
+Dossier : 2012-1071(IT)I
+ENTRE :
+SUNRISE REALTY INVESTMENTS LIMITED.,
+appelante
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Rip
+[1] Sunrise Realty Investments Limited (la société « Sunrise ») interjette appel à l’encontre des cotisations établies à son égard pour les années d’imposition 2005, 2006, 2007, 2008, 2009 et 2010. La question en litige dans chacune de ces cotisations concerne la répartition du prix d’achat d’un bien immeuble acquis en 2004 quant au coût du terrain et au coût en capital de biens, plus précisément d’un bâtiment construit sur le terrain.
+[2] Le 23 août 2004, l’appelante a acheté un bien de placement au prix de 1 680 000 $ dont l’adresse municipale est le 2340 Council Ring Road, à Mississauga, en Ontario (le « bien visé »). Le bien consistait en un centre commercial comprenant huit unités à l’égard duquel l’appelant avait gagné des revenus de location pendant toute la période pertinente.
+[3] Dans ses déclarations de revenus pour ses années d’imposition 2005 et 2006, la société Sunrise a réparti le prix d’achat du bien visé entre le terrain et d’autres immobilisations corporelles de la manière suivante :
+[traduction]
+Terrain
+150 000 $
+Bâtiment
+1 429 484 $
+Parc de stationnement
+75 000 $
+Clôture
+20 000 $
+Signalisation
+25 000 $
+[4] Le montant de 1 429 484 $ attribué au coût du bâtiment a été réparti de la manière suivante :
+[traduction]
+Bâtiment
+1 400 000 $
+Droits de courtage hypothécaire
+4 650 $
+Droits de cession immobilière
+23 675 $
+Frais d’enregistrement foncier
+71 $
+Assurance de titres
+1 088 $
+29 484 $
+1 429 484 $
+[5] L’Agence du revenu du Canada (l’« ARC ») n’a pas souscrit à la répartition du prix d’achat du bien visé faite par l’appelante et, après trois évaluations du bien visé, en 2007, en 2009 et finalement en 2011, elle a établi des avis de cotisation pour les six années le 12 décembre 2011, en tenant compte de l’évaluation faite par M. Peter Petrovsky, un évaluateur de biens immobiliers de l’ARC et membre de l’Institut canadien des évaluateurs. M. Petrovsky a été reconnu comme expert pour ce qui est du présent appel.
+[6] L’évaluation du bien faite par M. Petrovsky a porté sur le terrain du bien qui était un terrain vacant au moment de la vente, et l’évaluateur a conclu que, le 23 août 2004, le terrain valait 760 000 $ et que le solde du prix d’achat de 1 680 000 $, soit 920 000 $ représentait la valeur des améliorations apportées au terrain vacant, à savoir le bâtiment, le parc de stationnement, la clôture, la signalisation ainsi que l’entretien paysager. Ce montant comprenait aussi 29 484 $ de frais de clôture et de frais hypothécaires[1].
+[7] Dans son avis d’appel, l’appelante ne fait pas valoir son point de vue quant à la valeur du terrain ou du bâtiment, elle déclare simplement que la valeur du terrain déterminée par M. Petrovsky et qui a été utilisée pour établir les cotisations [traduction] « n’était pas juste ou exacte », et avance les raisons suivantes :
+[traduction]
+· Pour déterminer la valeur du terrain, des comparaisons ont été effectuées avec d’autres ventes de terrains à usage commercial dans la zone, mais il n’a pas été tenu compte de l’emplacement du bien visé par rapport à d’autres biens comparables.
+· Je crois que l’emplacement, la démographie, l’accessibilité et d’autres facteurs jouent un rôle important dans la valeur de terrains, et ces éléments ont été de manière générale ignorés.
+· Des évaluations ont été faites à plusieurs reprises, à cause de lacunes et d’erreurs contenues dans les rapports; je crois quand même que la valeur du terrain n’est toujours pas une valeur juste.
+· Aucune raison n’a été fournie pour justifier le rejet de l’évaluation et de la valeur du terrain établies par notre évaluateur.
+[8] Le représentant de l’appelante, M. Riaz Ahmad, qui est également son président, a conclu ses observations, dont une copie a été produite, en disant que la valeur du terrain était de 557 000 $ à la date d’achat.
+[9] M. Riaz Ahmad a souhaité produire une évaluation préparée par une autre personne. Bien qu’il s’agisse d’un appel interjeté sous le régime de la procédure informelle, je n’ai pas autorisé la production du rapport. Il ne serait pas juste, à l’égard de l’autre partie, d’autoriser la production d’un document préparé par un prétendu expert sans que la partie adverse puisse interroger l’auteur de l’évaluation.
+[10] Les parties principales de l’évaluation faite par M. Petrovsky sont jointes aux présents motifs en tant qu’annexe I.
+[11] L’évaluation faite par M. Petrovsky, bien que j’estime qu’elle ne soit pas correcte, peut servir de base pour déterminer la valeur du terrain au moment de l’achat. M. Petrovsky a apporté des rajustements à six des sept ventes de terrains qu’il a comparés au bien visé. Il a effectué des rajustements quant à la taille du lot pour comparer le bien visé et les biens situés au 350 Burnhamthorpe (le « bien Burnhamthorpe »), au 3899 Trelawny (le « bien Trelawny »), au 5380‑90 Terry Fox (le « bien Terry Fox), au 33 Pearl (le « bien Pearl »), au 756‑60 Lakeshore (le « bien 756‑60 Lakeshore ») et au 120 Lakeshore (le bien « 120 Lakeshore »); il a effectué des rajustements concernant l’emplacement à l’égard du bien Pearl et de celui situé sur la rue Thomas (le « bien Thomas »), et un rajustement a été apporté sous la rubrique « autres » pour comparer le bien visé au bien Thomas et aux deux biens Lakeshore. En fait, il a augmenté et diminué la valeur du bien Pearl et du bien 753‑60 Lakeshore. Il y a eu des rajustements nets à la hausse pour comparer le bien visé aux biens Burnhamthorpe, Trelawny, Terry Fox et Thomas et à la baisse pour comparer le bien visé au bien 120 Lakeshore.
+[12] Enfin, M. Petrovsky a estimé que les biens comparables, à savoir Burnhamthorpe, Pearl et 756‑60 Lakeshore, présentaient les caractéristiques qui se rapprochaient le plus de celles du bien visé et il a [traduction] « présenté une fourchette plus restreinte non rajustée allant de 19,90 $ à 31,40 $ le pied carré ». Il a considéré que la valeur du bien visé était située au milieu de cette fourchette, c’est‑à‑dire, environ 26 $ le pied carré.
+[13] Toutefois, M. Petrovsky ne pouvait pas dire, en pourcentage ou autrement, la diminution ou l’augmentation de valeur qu’il avait attribuée à chaque rajustement. Il a simplement déclaré qu’il avait fait des rajustements. Je conclus qu’il s’agit là de la lacune importante que comporte son évaluation. Il a également mentionné des aménagements faits sur des terrains comparables après 2004. Je tiens à souligner qu’on a disposé du bien Burnhamthorpe en 2002, du bien Pearl en mai 2002 et du bien 756‑60 Lakeshore au milieu de l’année 2003. Cela me préoccupe, étant donné que je ne peux pas déterminer si les rajustements mêmes ou les montants de ces rajustements étaient valides. Y a‑t‑il eu augmentation ou diminution de la valeur des terrains dans la zone à la date d’achat du bien en cause? A‑t‑il raison de conclure qu’il fallait utiliser une [traduction] « une fourchette plus restreinte non rajustée »? À l’instar du président Jackett, dans la décision National Capital Commission v. Benjamin Marcus[2], cela me [traduction] « […] laisse dans l’ignorance totale quant à la manière dont ces ventes […] [rajustements] ont été effectués à l’égard de divers facteurs qui influent sur la valeur ». Le tribunal ne peut pas accepter une évaluation si [le ou la] juge ne peut pas comprendre le raisonnement qui sous-tend une conclusion qui a été tirée à partir des ventes de biens comparables.
+[14] Dans son témoignage, M. Ahmad a également critiqué le rapport établi par M. Petrovsky. Certaines des critiques qu’il a formulées sont fondées, sous réserve de la manière dont M. Petrovsky a effectué ses rajustements. Il estime que le bien Trelawny était le bien qui se rapprochait le plus du bien visé et qu’il [traduction] « aurait dû être utilisé pour calculer la valeur du terrain visé ». La façade du bien Trelawny est trois fois plus grande que celle du bien visé et sa superficie est de plus du double de celle du bien visé. M. Petrovsky a mentionné le bien Burnhamthorpe comme [traduction] « représentant les caractéristiques physiques les plus proches de celles du bien visé ». M. Ahmad n’était pas d’accord avec M. Petrovsky quant à la description de la visibilité et de l’exposition du bien Terry Fox, qu’il a qualifiées de moins bonnes que celles du bien visé. À son avis, même si le bien Terry Fox est supérieur au bien visé, [traduction] « c’est l’un des biens qui se prêtent le plus à une comparaison avec le bien visé si l’on tient compte du fait qu’il est situé dans le même voisinage » que le bien visé. Il a également émis des critiques à l’égard de la comparaison faite entre le bien 756‑60 Lakeshore Road, qui est sur une voie très fréquentée proche du Queen Elizabeth Highway, et un bien comportant un centre commercial de quartier. En bref, M. Ahmad soutient que les biens Trelawny et Terry Fox sont ceux qui se prêtent le plus à une comparaison avec le bien visé et que M. Petrovsky aurait dû leur accorder davantage de poids.
+[15] M. Ahmad a également estimé que le bien visé comportait certains inconvénients qui étaient de nature à réduire sa valeur marchande. En effet, M. Ahmad a diminué la valeur du bien visé. Une route sinueuse, ainsi qu’une [traduction] « rampe d’accès » à l’entrée sud du bien réduisaient la visibilité du bien visé pour les automobilistes venant en sens inverse et il y avait des feux de circulation à deux endroits situés à moins d’une rue plus loin du bien visé, sur une autre route proche. L’entrée nord du bien visé était bordée par une route en pente et une route principale menant au bien comportait des îlots séparateurs constitués, selon sa description, [traduction] « de larges espaces avec des arbres et une végétation arbustive dense ».
+[16] Comme je l’ai déjà mentionné, M. Petrovsky a bel et bien rajusté la valeur des biens que M. Ahmad considère comme se prêtant le mieux à une comparaison avec le bien visé, mais il ne pouvait pas dire la mesure dans laquelle il avait rajusté la valeur.
+[17] En l’espèce, je ne me penche pas sur les diverses questions dont le président Jacket était saisi dans la décision Marcus. Bien qu’il soit accordé un poids important à l’évaluation faite par M. Petrovsky, cette évaluation comporte des lacunes. De même, bien que l’appelante ait soulevé certaines préoccupations légitimes à l’égard de l’évaluation faite par M. Petrovsky, elle n’a fourni aucun élément pour justifier les valeurs sur lesquelles elle peut se fonder.
+[18] En conséquence, je dois déterminer la valeur du terrain du bien visé en fonction des renseignements incomplets dont je dispose, mais sans faire fi de l’évaluation faite par M. Petrovsky. J’utiliserai cette dernière comme point de départ et j’accorderai un certain poids aux préoccupations de M. Ahmad, bien qu’il soit une partie intéressée au présent litige, étant donné qu’il connaît le quartier. J’ai également eu l’occasion d’examiner des cartes Google du bien visé et des biens comparables que M. Ahmad a produites.
+[19] La taille du lot du bien visé, acheté le 23 avril 2004, est de 29 185 pieds carrés et la façade est de 134,63 pieds. Ces données sont du même ordre que celles des cinq biens suivants, qui sont comparables au bien visé, quoiqu’à des degrés divers :
+Superficie
+(pieds carrés)
+Façade (pieds)
+Date
+de vente
+Prix de vente $
+Prix par pied carré $
+Burnhamthorpe[3]
+40 128
+200,03
+Août 2002
+800 000
+19,90
+Pearl3
+10 355
+86,00
+Mai 2002
+325 000
+31,40
+756‑60 Lakeshore3
+17 750
+175,76
+Juillet 2003
+444 000
+17,75
+Trelawny3
+77 101
+306,06
+Mai 2004
+1 504 500
+19,50
+Terry Fox
+77 188
+305,17
+Juillet 2004
+1 432 000
+18,60
+[20] Je ferais des rajustements qui ne sont pas très différents de ceux effectués par M. Petrovsky, en gardant à l’esprit la concession légitime faite à l’égard de ses biens comparables par M. Ahmad.
+[21] M. Petrovsky déclare que [traduction] « Dans l’ensemble, la valeur du bien serait supérieure au prix de 19,90 $ le pied carré indiqué pour le bien Burnhamthorpe ». J’ajouterais 7,5 pour 100 à la valeur du bien visé, en fonction de l’époque et de la taille du lot, c’est‑à‑dire 21,39 $ le pied carré.
+[22] Pour effectuer une comparaison entre le bien Trelawny et le bien visé, il faudrait augmenter la valeur du bien visé à cause de la superficie et de la façade; j’augmenterais aussi le prix de 19,50 $ le pied carré de 2,5 pour 100, soit 19,99 $ le pied carré[4].
+[23] De même, il serait nécessaire d’effectuer une augmentation semblable de 2,5 pour 100 à l’égard du bien Pearl, c’est‑à‑dire de 31,40 $ à 32,19 $ le pied carré.
+[24] Je ne rajusterais pas la valeur du bien visé pour le comparer au bien 756‑60 Lakeshore, sauf pour le fait que ce dernier se trouve sur une voie très fréquentée. Pour cette raison, je rajusterais sa valeur à la baisse de 5 pour 100, soit 23,75 $ le pied carré.
+[25] En ce qui concerne le bien Terry Fox, sa superficie est plus du double de celle du bien visé et sa façade est environ deux fois et demie plus grande que celle du bien visé. Il faudrait rajuster à la hausse son prix par pied carré pour qu’il soit un bien comparable, d’au moins de 5 pour 100, ce qui donne 19,53 $ le pied carré.
+[26] L’on peut estimer que les biens qui présentent des caractéristiques plus proches de celles du bien visé, selon la description de M. Petrovsky et de M. Ahmad, sont les biens Burnhamthorpe, Trelawny, Terry Fox, Pearl et 756‑60 Lakeshore. La fourchette rajustée va de 19,50 $ à 30,61 $ le pied carré, le prix intermédiaire étant d’environ 25,05 $ le pied carré, ce qui ferait que la valeur du terrain du bien visé serait de 731 081 $.
+[27] L’appel est donc accueilli et l’affaire est déférée au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que la valeur du terrain vacant au moment de l’acquisition était de 25,05 $ le pied carré, ou de 731 081 $, et que la valeur du bâtiment était de 948 916 $.
+Signé à Ottawa, Canada, ce 10e jour de janvier 2013.
+« Gerald J. Rip »
+Juge en chef Rip
+Traduction certifiée conforme
+ce 25e jour de février 2013.
+Espérance Mabushi, M.A. Trad. Jur.
+[traduction]
+ANNEXE I
+MÉTHODE DE LA COMPARAISON DIRECTE
+La méthode de la comparaison directe est fondée sur le principe de la substitution, selon lequel l’acheteur prudent ne paierait pas plus pour un bien que ce qu’il lui en coûterait pour faire l’acquisition d’un bien de substitution tout aussi attrayant, en supposant que la substitution ne causerait pas de retard préjudiciable. Il s’agit, selon cette méthode, d’analyser les ventes récentes de biens semblables en fonction du bien visé afin de déterminer le comportement de vendeurs et d’acheteurs sur le marché. En l’absence de ventes réelles, une comparaison peut être faite avec des biens offerts en vente ou vendus sous certaines conditions. Toutefois, ces opérations ne sont pas, de manière générale, aussi fiables que des ventes réelles qui ont été réalisées. Étant donné que les biens sont rarement identiques, d’autres éléments sont pris en considération pour compenser les différences à l’égard du bien visé. Le bien le plus semblable au bien visé est généralement considéré comme comportant les renseignements les plus fiables quant à la valeur. L’analyse est généralement fondée sur la connaissance du marché que possède l’évaluateur. Par conséquent, la fiabilité de cette méthode dépend de la qualité des données relatives aux ventes et de la capacité de l’évaluateur à les interpréter.
+ANALYSE COMPARATIVE DE VENTES IMMOBILIÈRES
+ARTICLE
+COMP.1
+COMP.2
+COMP.3
+COMP.4
+COMP.5
+COMP.6
+COMP.7
+BIEN VISÉ
+Lieu
+350 Burnhamthorpe
+Road East
+3899 Trelawny
+Circle
+5380‑90 Terry Fox Way
+33 Pearl
+Street
+35 Thomas
+Street
+750‑60 Lakeshore
+Road East
+120 Lakeshore
+Road West
+2340 Council
+Ring Road
+Date de vente
+Août 2002
+Mai 2004
+Juillet 2004
+Mai 2002
+Juin 2004
+Juillet 2003
+Janvier 2003
+Août 2004
+Prix de vente :
+800, 00 $
+1 504 500 $
+1 432 000 $
+325 000 $
+385 000 $
+443 925 $
+410 000 $
+S/O
+Façade
+200,03
+306,06
+305,17
+86,00
+119,42
+175,78
+66,00
+134,63
+Profondeur
+200,60
+267,77
+475,75
+120,40
+Irrégulier
+105,00
+144,82
+Irrégulier
+Superficie du lot (pieds carrés)
+40 128
+77 101
+77 188
+10 355
+20 893
+17 750
+9 558
+29 185
+Prix au pied carré
+19,9 $
+19,5 $
+18,6 $
+31,4 $
+18,4 $
+25,0 $
+42,9$
+S/O
+GRILLE DE RAJUSTEMENT
+Conjoncture
+Lieu
+Superficie du lot
+Autres
+Rajustements nets
+0
+0
++
+0
++
+0
+0
++
+0
++
+0
+0
++
+0
++
+0
++
+-
+0
+0
+0
++
+0
++
++
+0
+0
+-
++
+0
+0
+0
+-
+-
+Rapprochement/Conclusions :
+Le terrain comparable 1 représentait une ancienne vente d’un terrain d’angle vacant plus grand que le terrain visé. En 2005, un centre commercial d’environ 13 865 pieds carrés a été construit sur ce terrain. Outre la taille, ce terrain comparable possédait les caractéristiques physiques les plus proches de celles du terrain visé. Dans l’ensemble, la valeur du terrain visé serait supérieure au prix de 19,90 $ le pied carré mentionné pour ce terrain comparable.
+Le terrain comparable 2 représentait la vente d’un terrain d’angle vacant plus grand que le terrain visé. Par la suite, un centre commercial d’environ 20 129 pieds carrés comportant des unités condominiales a été construit sur ce terrain. Dans l’ensemble, la valeur du terrain visé serait supérieure au prix de 19,50 $ le pied carré mentionné pour ce terrain comparable.
+Le terrain comparable 3 représentait la vente d’un terrain d’angle vacant plus grand que le terrain visé. En 2006, un centre commercial d’environ 17 330 pieds carrés comportant deux immeubles constitués d’unités condominiales a été construit sur ce terrain. Dans l’ensemble, la valeur du terrain visé serait supérieure au prix de 18,60 $ le pied carré mentionné pour ce terrain comparable.
+Le terrain comparable 4 représentait une ancienne vente d’un terrain d’angle plus petit que le terrain visé, situé dans une zone commerciale – commerce de détail et services. Une vieille maison de plain‑pied qui était sur le terrain avait été transformée en bureaux. La construction ne semblait pas contribuer à la valeur du terrain étant donné qu’elle a été par la suite démolie. En 2010, un nouvel immeuble de bureaux de trois étages d’environ 3 854 pieds carrés a été construit sur ce terrain. Dans l’ensemble, le prix de 31,40 $ le pied carré mentionné pour ce terrain comparable établit la limite supérieure de la valeur du terrain visé.
+Le terrain comparable 5 représentait la vente d’un terrain intérieur vacant légèrement plus petit que le terrain visé et situé dans une zone redésignée pour le secteur des services/commercial. Le terrain est bordé d’une emprise de chemin de fer de CFCP. En 2006, un immeuble de bureaux de trois étages constitué de cabinets médicaux et ayant une superficie d’environ 6 789 pieds carrés a été construit sur ce terrain. Dans l’ensemble, la valeur du terrain visé serait supérieure au prix de 18,60 $ le pied carré mentionné pour ce terrain comparable.
+Le terrain comparable 6 représentait la vente d’un terrain intérieur plus petit que le terrain visé, bordé par Waterworks Park. Sur ce terrain, il y avait un ou deux vieux bâtiments d’un seul étage qui ne semblaient pas contribuer à la valeur du terrain. En 2010, un permis de démolir a été délivré pour ces bâtiments relativement à une demande de permis de construire, sur ce terrain, un immeuble de quatre étages à usage mixte, c’est‑à‑dire commercial et résidentiel. Dans l’ensemble, le prix de 25 $ le pied carré mentionné pour ce terrain comparable établit la limite inférieure de la valeur du terrain visé.
+Le terrain comparable 7 représentait la vente d’un terrain d’angle plus petit que le terrain visé. En 2005, un nouvel immeuble à condominiums de trois étages à usage mixte, c’est‑à‑dire, commercial et résidentiel, d’environ 8 493 pieds carrés a été construit sur ce terrain. Il s’agit d’un bâtiment plus haut et d’une densité de construction supérieure de 0,89 fois la superficie du lot par rapport à la densité de construction du terrain visé, qui est de 0,29 fois la superficie du lot. Dans l’ensemble, la valeur du terrain visé serait inférieure au prix de 42,90 $ le pied carré mentionné pour ce terrain comparable.
+Compte tenu de l’analyse qui précède, les terrains comparables 1, 4 et 6 ont été considérés comme ayant les caractéristiques les plus proches du terrain visé et présentaient une fourchette plus restreinte non rajustée allant de 19,90 $ à 31,40 $ le pied carré. Il a été conclu que la valeur du terrain visé se situait au milieu de la fourchette mentionnée, c’est‑à‑dire, environ 26 $ le pied carré. La valeur marchande du terrain visé, dont la superficie est de 29 185 pieds carrés, a été calculée de la manière suivante : 26 $ x 29 185 pi.ca. = 760 000 $ (arrondi).
+OBSERVATIONS CONCERNANT LE DÉLAI RAISONNABLE D’EXPOSITION : Compte tenu d’observations générales concernant le marché, il a été établi que le délai d’exposition nécessaire pour vendre le bien visé à sa valeur marchande était de 3 à 6 mois. Cela est applicable à condition que le prix de vente du bien soit concurrentiel et que le bien fasse l’objet d’une bonne promotion.
+PORTÉE, DIVULGATION ET DÉFINITIONS
+PORTÉE DU RAPPORT
+La portée du rapport d’évaluation englobe la diligence raisonnable exercée par l’évaluateur (compatible avec le mandat reçu du client, l’objet et l’utilisation prévue du rapport), les recherches et l’analyse nécessaires pour préparer un rapport conformément aux Normes uniformes de pratique professionnelle en matière d’évaluation au Canada de l’Institut canadien des évaluateurs. Les commentaires suivants décrivent l’étendue du processus de collecte, de confirmation et de présentation de données ainsi que l’analyse de ce processus, décrivent les procédures pertinentes et donnent des précisions quant au raisonnement sur lequel l’analyse est fondée et fournissent une justification de l’exclusion de toute méthode d’évaluation habituelle.
+L’inspection du bien visé a été achevée le 6 mai 2011.
+L’enquête consistait notamment à faire des recherches dans les documents administratifs et auprès de services de vente disponibles (GEOWAREHOUSE et MPAC), à effectuer une visite externe de biens ayant fait l’objet de ventes comparables, à confirmer des données municipales et à analyser des renseignements concernant les caractéristiques du bâtiment et du terrain.
+DÉFINITION DE LA JUSTE VALEUR MARCHANDE
+La juste valeur marchande est le prix le plus élevé qui puisse être obtenu sur un marché libre entre des parties informées et prudentes qui traitent l’une avec l’autre sur un pied d’égalité et sans contrainte, exprimé en argent ou en valeur monétaire. Le juge Mahoney, dans la décision Connor v. Canada 78 D.T.C. 6497, à la page 6503.
+1 Le processus général de répartition de la valeur entre les éléments constitutifs d’un bien.
+2 Une méthode d’estimation de la valeur d’un terrain dans laquelle les ventes de biens ayant fait l’objet d’améliorations sont analysées pour établir un ratio type de la valeur du terrain sur la valeur totale du bien, et ce ratio est appliqué au bien faisant l’objet de l’évaluation ou au bien ayant fait l’objet d’une vente comparable qui est analysé. La répartition de la valeur d’expertise du bien entre le terrain et le bâtiment.
+HYPOTHÈSES ET CONDITIONS LIMITATIVES
+1. Le présent rapport est préparé à la demande du client et est destiné à l’utilisation précise mentionnée dans la présente. Il n’est pas raisonnable qu’un tiers se fonde sur la présente évaluation à moins d’obtenir au préalable une autorisation écrite du client, de l’auteur et de tout évaluateur superviseur, mises à part les réserves mentionnées au paragraphe 5 ci‑dessous. Nous déclinons expressément la responsabilité à l’égard de toute personne, autre que le client, les utilisateurs visés désignés et les personnes qui ont obtenu un consentement écrit et, en conséquence, nous n’assumons aucune responsabilité pour des dommages subis par de telles personnes en raison de décisions ou d’actions fondées sur le présent rapport. La diligence raisonnable est présumée à l’égard de tous les utilisateurs visés.
+2. Étant donné que la conjoncture, y compris des facteurs économiques, sociaux et politiques, change rapidement et, parfois, à l’improviste, l’estimation de la juste valeur marchande exprimée à la date de la présente évaluation ne peut servir de fondement pour une autre date, à moins d’obtenir un avis subséquent de l’évaluateur confirmé par écrit.
+3. Aucune responsabilité n’est assumée à l’égard de questions de nature juridique qui concernent le bien ou le titre du bien qui fait l’objet de l’évaluation. Il est présumé que le titre est valable et marchand et, par conséquent, aucune opinion n’est exprimée à l’égard du titre. Le bien visé doit être conforme aux normes du gouvernement, y compris le zonage, le code du bâtiment et les règlements sanitaires, à défaut de quoi sa valeur marchande pourrait s’en trouver diminuée. Une autre enquête peut être nécessaire pour vérifier la conformité. L’évaluation du bien est effectuée en tenant compte du fait que la possession est fondée sur la supposition que le propriétaire du bien s’en occupe de façon responsable.
+4. Aucun arpentage du bien n’a été effectué. Tout croquis inclus dans le rapport d’évaluation fait état de dimensions approximatives et n’a été inclus que pour aider le lecteur à se faire une représentation du bien.
+5. Sauf indication contraire dans le présent rapport, l’évaluateur n’a aucune connaissance d’une situation cachée ou non apparente concernant le bien (notamment ses sols, sa structure physique, ses systèmes opérationnels, mécaniques et autres, ses fondations, etc.) ou de conditions environnementales malsaines (sur le bien ou sur tout autre bien voisin, y compris la présence d’apports de ruissellement contenant des matières dangereuses, de substances toxiques, etc.) qui pourraient plus ou moins influer sur la valeur du bien. L’absence de telles conditions ou situations est présumée, à moins que celles‑ci n’aient été observées au moment de l’inspection ou qu’elles ne soient devenues apparentes au cours de la recherche faite normalement pour réaliser l’évaluation. Le présent rapport ne devrait pas être interprété comme une vérification environnementale ou un rapport détaillé sur l’état du bien, étant donné que l’élaboration de tels rapports dépasse la portée du présent rapport et/ou outrepasse les compétences de l’évaluateur. L’auteur n’offre aucune garantie, expresse ou implicite, concernant l’état du bien, et ne sera pas tenu responsable de l’existence de telles situations ou conditions ou de travaux techniques ou d’essais qui pourraient être nécessaires pour savoir si de telles situations ou conditions existent.
+6. Les renseignements, les estimations et les avis qui ont été consignés dans le rapport d’évaluation sont considérés comme fiables et sont tenus pour véridiques et exacts. Aucune responsabilité n’est assumée à l’égard de l’exactitude de tels éléments qui ont été fournis par d’autres parties.
+7. Les estimations concernant la valeur et les autres conclusions contenues dans le présent rapport supposent une exécution satisfaisante selon les règles de l’art de tous les travaux qui restent à faire. Il peut être nécessaire d’effectuer une autre inspection afin de confirmer l’exécution de tels travaux.
+8. L’utilisation du rapport d’évaluation (ou de toute partie du rapport) à une fin quelconque par une personne autre que le client précisé dans le rapport est subordonnée à l’obtention du consentement écrit de l’auteur. La Couronne a un droit de propriété sur tous les renseignements dont il a été tenu compte dans la préparation du présent rapport, et la diffusion et l’utilisation du rapport sans le consentement de la Couronne peut constituer une violation de la Loi sur le droit d’auteur. De même, la divulgation de renseignements confidentiels constituerait une violation de l’article 241 de la Loi de l’impôt sur le revenu et de l’article 295 de la Loi sur la taxe d’accise.
+9. L’évaluateur se réserve le droit d’examiner tout le contenu du présent rapport et de réviser les estimations de la valeur marchande si des faits, des tendances ou un changement de circonstances pertinents, qui existaient avant la date réelle sont portés à la connaissance de l’évaluateur après la présentation du rapport.
+10. L’évaluateur n’a pas les compétences nécessaires pour faire des observations sur des questions environnementales qui peuvent avoir une incidence sur la valeur marchande du bien faisant l’objet de l’évaluation, notamment la pollution ou la contamination du terrain, des bâtiments, de l’eau, de l’eau souterraine ou de l’air. Sauf indication expresse, le bien est réputé être complètement exempt de polluants et contaminants, notamment les moisissures ou toute condition qui pourrait en être à l’origine, être en conformité avec les exigences réglementaires environnementales, gouvernementales ou autres, et être exempt de toute condition environnementale passée, actuelle ou future susceptible d’avoir une incidence sur la valeur marchande du bien faisant l’objet de l’évaluation. Si une partie qui se fonde sur ce rapport a besoin d’obtenir des renseignements concernant des questions environnementales, elle devrait retenir les services d’un expert qualifié en la matière. Nous déclinons expressément toute responsabilité légale liée à l’effet de problèmes environnementaux sur la valeur marchande du bien.
+« FORMAT DU FORMULAIRE » ÉVALUATION FONCIÈRE
+DESCRIPTION DU TERRAIN
+Le terrain visé a une façade 134,63 pieds sur le côté sud de Council Ring Road. Le terrain est de forme irrégulière et est au niveau du sol. La superficie du terrain est d’environ 0,67 acre. L’espace de stationnement occupe la partie ouest du terrain devant l’immeuble, en bordure de la chaussée. L’aménagement paysager du terrain consiste principalement en des surfaces asphaltées et en une bande gazonnée qui s’étale en bordure de la chaussée. L’accès au site se fait par deux voies : à partir de Council Ring Road et de Glen Erin Drive. Le site semble doté de tous les services municipaux. Aucun rapport environnemental précis n’a été produit et aucune étude n’a été effectuée. L’estimation de la valeur du terrain suppose que le bien est complètement exempt de toute contamination du sol ou de l’environnement.
+DESCRIPTION DES AMÉLIORATIONS
+Les améliorations apportées au bien consistent en un centre commercial d’un seul étage ayant plusieurs locataires. Le bâtiment semble être une construction type faite d’une structure d’acier parée de briques d’argile.
+Surface de plancher ………………………… 8 504 pi.ca. Âge …………………… 1990
+Surface construite …………………….. + 29 % Nombre d’unités …………… 7
+Le bâtiment possède une ligne de toiture en pente et un passage piéton sous un auvent le long des vitrines. Le bâtiment ne dispose pas de voie de service arrière. Selon les renseignements obtenus au moment de l’évaluation, le bâtiment était en bon état.
+ANNEXE DESCRIPTIVE
+RÉFÉRENCE : 2013 CCI 5
+No DU DOSSIER DE LA COUR : 2012-1071(IT)I
+INTITULÉ : SUNRISE REALTY
+INVESTMENTS LTD c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 13 novembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge en chef Gerald J. Rip
+DATE DU JUGEMENT : Le 10 janvier 2013
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Riaz Ahmad
+Avocate de l’intimée :
+Me Erin Strashin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L’ARC a accepté le montant du prix d’achat que l’appelante avait attribué au parc de stationnement, à la clôture et à la signalisation, pour un total de 120 000 $, et a accepté que les frais totalisant 29 484 $ décrits au paragraphe 4 soient ajoutés au coût en capital du bâtiment. L’ARC a autorisé l’appelante à déduire les frais de 10 000 $ supportés pour l’entretien paysager dans le calcul de son revenu pour 2004, un montant qui a été inclus dans le prix d’achat.
+[2] [1969] 1 Ex. C.R. 327, 338.
+[3] Biens considérés par M. Ahmad comme étant ceux qui se prêtaient le mieux à une comparaison avec le bien visé.
+[4] Il n’existe aucun élément de preuve quant au changement de valeur des terrains dans la zone où est situé le bien visé de 2002 à 2004. Les rajustements que j’ai utilisés sont arbitraires, pour supposer une augmentation de valeur.

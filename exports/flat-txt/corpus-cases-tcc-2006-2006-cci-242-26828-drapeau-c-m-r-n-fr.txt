@@ -1,0 +1,209 @@
+Title: Drapeau c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26828/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-242-26828-drapeau-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-04-19
+
+# Drapeau c. M.R.N.
+
+- Citation: 2006 CCI 242
+- Decision date: 2006-04-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 699, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Drapeau c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-04-19
+Référence neutre
+2006 CCI 242
+Numéro de dossier
+2005-3175(EI)
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-3175(EI)
+ENTRE :
+MICHEL DRAPEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MÉDIA-FX INC.,
+intervenante.
+____________________________________________________________________
+Appel entendu le 20 mars 2006, à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Avocat de l'appelant :
+Me Gilbert Nadon
+Avocate de l'intimé :
+Me Christina Ham
+Représentant de l'intervenante :
+Paul Ahad
+____________________________________________________________________
+JUGEMENT
+L'appel en vertu du paragraphe 103(1) de la Loi sur l'assurance-emploi concernant la décision du ministre du Revenu national est accueilli et la décision du Ministre est infirmée.
+Signé à Ottawa, Canada, ce 19e jour d'avril 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2006CCI242
+Date : 20060419
+Dossier : 2005-3175(EI)
+ENTRE :
+MICHEL DRAPEAU,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+MÉDIA-FX INC.,
+intervenante.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] L'appelant en appelle de la décision du ministre du Revenu national (le « Ministre » ) voulant qu'il n'ait pas exercé un emploi assurable au cours des années 2002 et 2003 auprès de Média-FX Inc ( « Média-FX » ).
+[2] Les faits de cet appel sont décrits aux paragraphes 2 à 5 de la Réponse à l'avis d'appel (la « Réponse » ) comme suit :
+2. Par avis de cotisation datés du 6 novembre 2004, l'intimé cotisa Média-FX inc. (le payeur) relativement aux années 2002 et 2003 pour des cotisations impayées d'assurance-emploi à l'égard de l'appelant.
+3. Par lettre en date du 3 août 2005, l'intimé informa le payeur et l'appelant de sa décision d'annuler les cotisations en litige en considérant l'emploi de l'appelant non assurable.
+4. L'appelant en appelle de cette décision du ministre quant à la non assurabilité de son emploi pour les années 2002 et 2003.
+5. Pour rendre sa décision, le ministre a déterminé que l'appelant n'exerçait pas un emploi aux termes d'un contrat de louage de services, en s'appuyant sur les faits présumés suivants :
+a) le payeur a été constitué en société en 1997;
+b) le payeur se spécialise dans la production de spectacles multimédias (logiciels pour les musées et autres);
+c) le principal client du payeur était Idées au Cube qui recevait des commandes de musées pour la production de spectacles multimédias;
+d) M. Paul Ahad était l'unique actionnaire du payeur;
+e) le payeur embauchait de 2 à 4 personnes;
+f) l'appelant a rendu des services au payeur en 2000 et est revenu travailler pour le payeur en 2001 et durant les années en litige;
+g) l'appelant est compositeur, musicien et interprète; il travaillait pour le payeur comme directeur musical;
+h) l'appelant s'occupait de toute l'ambiance musicale et, comme technicien du son, il effectuait la conception sonore;
+i) l'appelant louait, pour 350 $ par mois, un studio situé dans les locaux du payeur;
+j) l'appelant n'avait aucun horaire de travail à respecter et il pouvait prendre des vacances sans en aviser le payeur à l'avance;
+k) la seule exigence du payeur consistait à respecter l'échéancier établi par son client pour la production confiée à l'appelant;
+l) l'appelant fournissait ses équipements et devait assumer certains frais non remboursés par le payeur;
+m) durant les années en litige, l'appelant recevait généralement 1 000 $ par semaine du payeur et ce, sans égard aux heures réellement travaillées;
+n) bien que le payeur ait émis des feuillets T4 au nom de l'appelant pour les années en litige, ils n'ont pas été expédiés au centre fiscal approprié.
+[3] Les motifs d'appel sont ainsi décrits à l'Avis d'appel :
+Dans le cadre de son appel, il sera au contraire démontré qu'il y avait bel et bien un lien de subordination entre lui et son employeur, que ce dernier lui a remis volontairement des T-4 à titre de salarié à la fin de chaque année fiscale et que tous les contrats clef en main obtenus par la compagnie Média FX inc. furent négociés directement par celle-ci avec des tiers sans interférence de celui-ci.
+Il sera enfin démontré que l'appelant a joué deux rôles au sein de l'entreprise, directeur musical responsable de la conception sonore et de la composition musicale sous la supervision de son employeur et responsable aussi des castings de production pendant de nombreuses semaines quand le premier rôle n'avait pas à être exercé faute de demande. L'employeur, dans tous ses cas, avait toujours le dernier mot. Il approuvait en dernier ressort tous travaux parachevés.
+[4] Les motifs de l'Avis d'intervention sont les suivants :
+1. Ce n'est que de manière sporadique que Michel Drapeau a travaillé chez Média-FX en tant qu'employé salarié. Quand cela s'imposait, Média-FX a toujours effectué les déductions à la source, les a déclarées et les a payées auprès des gouvernements concernés. Les chèques émis à Michel Drapeau sur une période de 3 ans ont été contrôlés en 2004 et en 2005 par les vérificateurs et agents de Revenu Canada et Revenu Québec. ... Ces chèques démontrent et délimitent clairement les périodes où Michel Drapeau était salarié de celles où il était à contrat.
+2. Il a déjà été démontré que, documents à l'appui, le travail effectué par Michel Drapeau pour le projet du Zoo de St-Félicien en tant que directeur musical responsable de la conception sonore et de la composition musicale était un réel contrat d'une durée d'un an qu'il devait effectuer pour une somme fixe de $25,000 et que ce contrat a été terminé par notre propre client, Idées au cube (l'entrepreneur général), à cause de leur insatisfaction du travail effectué par Michel Drapeau.
+3. Il a déjà été démontré, chèques émis à Michel Drapeau et documents à l'appui, qu'en date de la terminaison de son contrat, Média-FX avait avancé $7,000 de plus à Michel Drapeau que ne prévoyait le calendrier de production. Michel Drapeau ne pouvait rembourser à Média-FX les sommes versées en trop, ... Afin de récupérer notre perte et d'éviter des poursuites légales que Michel Drapeau menaçait alors d'intenter contre nous et notre client, pouvant de toute évidence porter de sérieux préjudices à notre réputation, à notre client et à tous les intervenants gravitant autour du projet, Média-FX n'a eu aucun choix que de lui attribuer des tâches semblables dans d'autres de ses projets. Autrement, cela nous aurait coûté une perte nette de $12,000, sans compter nos frais si Michel Drapeau aurait décidé d'aller de l'avant avec ses poursuites, car de toute évidence, il n'avait pas d'argent.
+...
+5. Média-FX ne pouvait ni gérer, ni coordonner les activités quotidiennes de Michel Drapeau à la manière d'un employeur pour diverses raisons :
+a. Pendant la période concernée, bien qu'il louait toujours un bureau dans les locaux de Média-FX comme studio de composition, Michel Drapeau avait temporairement déménagé ses équipements pendant plusieurs mois dans un chalet d'été qu'il louait dans les Laurentides et il ne revenait à Montréal que les fins de semaines quand il n'y avait personne dans les bureaux. De toute évidence, il était impossible de contrôler son emploi du temps. Cela a même été la cause de plusieurs plaintes de notre client car il n'était pas disponible à court terme pour des réunions de production de dernière minute et difficilement joignable par téléphone ou courriel car il n'y avait ni le câble, ni le téléphone dans le chalet et les ondes des téléphones cellulaires ne parvenaient pas à son chalet.
+b. Pendant la période concernée, Michel Drapeau a souvent quitté en vacances en Caroline du nord et au Mexique sans nous consulter ou nous en demander la permission. À une de ces occasions, nous avons appris son départ avec quelques heures d'avis.
+c. Pendant la période concernée, Michel Drapeau avait d'autres contrats avec d'autres clients sans que Média-FX soit ni concerné, ni lié d'aucune manière alors même qu'il louait un local dans nos bureaux.
+d. Aucun employeur n'aurait accepté ou supporté les situations et les événements mentionnés ici haut s'il avait eu une relation avec liens de dépendance (arm's length) du type employeur-employé.
+[5] Lors de son témoignage, l'appelant a expliqué qu'il est compositeur et fait du montage sonore. Il a affirmé que c'est pour ces fonctions qu'il a été embauché par Média-FX. Il a produit comme pièce A-1 les relevés d'emploi qui ont été émis à son égard par Média-FX pour trois périodes d'emploi. Ces périodes sont du 31 janvier 2000 au 28 juillet 2000, du 1er octobre 2001 au 29 mars 2002 et du 16 septembre 2002 au 18 avril 2003.
+[6] Monsieur Ahad, l'unique administrateur de Média-FX, le payeur, lors de son témoignage, n'a pas contesté que monsieur Drapeau était un employé de Média-FX pour les deux premières périodes de travail. Il conteste la dernière. Il fait valoir que ce n'est pas lui qui a signé le dernier relevé mais le comptable de Média-FX Inc. Le comptable n'est pas venu témoigner. Il faut remarquer qu'il s'agit d'un comptable agréé.
+[7] La pièce A-2 est un projet de cotisation d'impôt envoyé à l'appelant par l'Agence des douanes et du revenu du Canada ( « ADRC » ), en date du 20 décembre 2004, pour les années d'imposition 2002 et 2003. On y constate à la lecture du projet que l'appelant déclare son revenu comme un revenu d'emploi. Ceci n'est pas contesté par l'ADRC. Les éléments soulevés dans la Réponse comme le studio et le bureau à domicile ne sont pas contestés dans le projet de cotisation comme étant des éléments incompatibles avec le statut d'employé. Ils sont seulement balisés ou circonscrits quant aux montants pouvant être déduits à l'encontre du revenu d'emploi.
+[8] La pièce A-3 est une subvention accordée à Média-FX pour l'assistance à l'emploi accordée par le Québec relativement à l'appelant pour la période du 1er octobre 2001 au 26 avril 2002. Monsieur Ahad a confirmé que monsieur Drapeau était alors un employé de Média-FX. C'est, tel que déjà mentionné, pour la période du 16 septembre 2002 au 18 avril 2003, qu'il affirme que monsieur Drapeau n'était pas un employé.
+[9] La pièce A-4 est la copie d'un courriel envoyé par la productrice de « Idées au cube » à Paul Ahad, le 2 septembre 2002. Ce dernier a transféré le message à l'appelant. La liste d'équipe est attachée à ce courriel. On y lit le nom de Paul Ahad au titre de Directeur artistique/réalisateur scénographique. Ce document est produit pour démontrer que le contrat accordé par Idées au cube, relativement au Zoo de St-Félicien, avait bien été accordé à Média-FX et non à l'appelant.
+[10] Ceci est confirmé par monsieur Ahad tant dans son témoignage que dans son Avis d'intervention. C'est Média-FX qui payait l'appelant.
+[11] L'appelant a produit les T4 (pièces A-6 et A-7) qui ont été émis à son égard par Média-FX pour les années 2002 et 2003. Nous y lisons pour l'année 2002, que l'appelant a reçu comme revenu d'emploi 24 800 $, que l'impôt sur le revenu retenu est au montant de 2 848 $, les cotisations de l'employé au Régime de Rentes du Québec sont au montant de 1 069,91 $ et les cotisations de l'employé à l'assurance-emploi sont au montant de 545,60 $. Ces chiffres pour l'année 2003, pour les mêmes postes, sont 16 000 $, 2 028 $, 738,72 $ et 336 $.
+[12] Par la suite, des T4A (pièce A-6) ont été émis pour les années 2002 et 2003. Les revenus ne sont plus inscrits comme des revenus d'emploi mais autres revenus.
+[13] La pièce A-8 est constituée de deux documents intitulés « Déclaration des conditions de travail » . La période comprise dans la première déclaration est du 1er janvier 2002 au 30 mars 2002 et du 15 septembre 2002 au 31 décembre 2002. La période comprise dans la deuxième déclaration est du 1er janvier 2003 au 16 mai 2003. La première déclaration est en date du 7 octobre 2003. La deuxième n'est pas datée. Ces déclarations pour les fins de l'impôt sur le revenu, ont été signées par monsieur Ahad lui-même.
+[14] Dans ces déclarations on lit aux cases 2, 6, 8 et 9 ce qui suit :
+2. a) Demandiez-vous régulièrement que cet employé travaille ailleurs qu'à votre établissement ou à différents endroits?
+X oui
+non
+b) Si oui, quelle était la région de déplacement?
+Les Hautes Laurentides
+X oui
+non
+6. a) Avez-vous exigé que cet employé engage d'autres frais pour lesquels il n'a reçu ni allocation ni remboursement?
+X oui
+non
+b) Si oui, indiquez les genres de frais.
+Location Studion
+8. Les fonctions de cet employé l'obligeaient-il à rester au moins 12 heures à l'extérieur de la municipalité et de la région métropolitaine où est situé votre établissement et où cet employé se présentait habituellement au travail?
+X oui
+non
+9. a) Avez-vous exigé que cet employé, selon son contrat :
+· loue un bureau hors de votre établissement
+· embauche un adjoint ou un remplaçant?
+· achète les fournitures qui sont utilisées directement pour son emploi
+X oui
+oui
+oui
+non
+X non
+X non
+b) Avez-vous remboursé ou rembrouserez-vous une des dépenses ci-dessus?
+X oui
+non
+c) Si oui, indiquez le montant que vous avez remboursé/vous rembourserez.
+oui
+X non
+[15] La pièce A-9 est une attestation en date du 15 janvier 2003 envoyée par monsieur Ahad à la Caisse populaire Desjardins confirmant l'emploi de monsieur Drapeau par Média-FX. Le salaire brut mensuel indiqué est au montant de 4 000 $.
+[16] Monsieur Ahad a donné comme explication que monsieur Drapeau désirait acheter une voiture et qu'il s'agissait d'une attestation de complaisance.
+[17] L'appelant dit en essence que c'est Média-FX qui obtenait et passait les contrats et que lui, à titre d'employé, les exécutait en rendant compte à monsieur Ahad de ses progrès. Il était en contact constant avec ce dernier quand ce dernier était à son bureau. Chaque projet avait une échéance et il savait qu'il était important de les respecter pour les fins de Média-FX de qui il recevait sa rémunération. Il n'avait pas d'horaire fixe mais un horaire très régulier. Il était habituellement le premier arrivé et le dernier parti.
+[18] L'administrateur unique de l'intervenante, monsieur Ahad, s'est décrit comme un producteur d'effets spéciaux informatisés. Il admet que l'appelant a été son employé sauf pour la deuxième partie de 2002, période du contrat concernant le Zoo de St-Félicien. Quand il est revenu d'un voyage en Grèce, la relation de travail entre Idées au cube et monsieur Drapeau, s'était détériorée. Idées au cube a alors résilié son entente avec Média-FX. Monsieur Ahad a expliqué qu'il avait déjà versé 12 000 $ à monsieur Drapeau et que Idées au cube n'a pas voulu lui verser plus que 5 000 $ pour les services de composition ou de montage sonore rendus par monsieur Drapeau. Il a alors demandé à monsieur Drapeau, pour compenser le manque à gagner, de consacrer ses services à un autre projet, soit celui de « Quebec All Dressed » , sous la direction de monsieur Gregory Parks. Ce dernier faisait souvent affaires avec Média-FX et même gérait les affaires de Média-FX durant les absences de monsieur Ahad.
+[19] La pièce I-1 comprend une estimation de l'appelant concernant le travail exécuté pour Idées au cube avant que cette dernière ne mette fin à son contrat.
+Arguments
+[20] L'avocat de l'appelant a fait valoir que la description des relations de travail chez Média-FX pour les périodes où l'appelant était un employé de cette dernière et la période pour laquelle Média-FX prétend qu'il n'était pas un employé est identique. Les conditions de travail étaient essentiellement les mêmes. Avant que n'arrivent les vérificateurs de l'ADRC, lui demandant le versement des sommes déduites à la source, monsieur Ahad a affirmé dans tous les documents écrits que monsieur Drapeau était un employé de Média-FX.
+[21] L'avocate de l'intimé s'est référé à une décision du juge Dussault de cette Cour dans Lévesque c. Canada, [2005] A.C.I. no 183 (QL), et notamment au paragraphe 25, où le juge reprend les indices d'encadrement d'une juge de la Cour du Québec, comme suit :
+25 En l'espèce, existait-il un lien de subordination entre madame St-Jules et monsieur Lévesque nous permettant de conclure à la présence d'un contrat de travail? Plusieurs indices peuvent être pris en considération afin de détecter la présence ou l'absence d'un lien de subordination. Dans sa décision dans l'affaire Seitz c. Entraide populaire de Lanaudière inc., Cour du Québec (chambre civile), no 705-22-002935-003, 16 novembre 2001, [2001] J.Q. no 7635 (Q.L.), la juge Monique Fradette de la Cour du Québec a fourni une série d'indices pouvant permettre de déterminer s'il y a subordination ou non. Voici comment elle s'exprimait sur ce point aux paragraphes 60 à 62 du jugement :
+60 La jurisprudence exige, pour qu'il y ait un contrat de travail, l'existence d'un droit de surveillance et de direction immédiate. Le simple fait qu'une personne donne des instructions générales sur la manière d'effectuer le travail, ou qu'elle se réserve un droit d'inspection et de supervision sur le travail, ne suffit pas à convertir l'entente en un contrat de travail.
+61 Une série d'indices développée par la jurisprudence permet au tribunal de déterminer s'il y a présence ou non d'un lien de subordination dans la relation des parties.
+62 Les indices d'encadrement sont notamment :
+- la présence obligatoire à un lieu de travail
+- le respect de l'horaire de travail
+- le contrôle des absences du salarié pour des vacances
+- la remise de rapports d'activité
+- le contrôle de la quantité et de la qualité du travail
+- l'imposition des moyens d'exécution du travail
+- le pouvoir de sanction sur les performances de l'employé
+- les retenues à la source
+- les avantages sociaux
+- le statut du salarié dans ses déclarations de revenus
+- l'exclusivité des services pour l'employeur
+[22] C'était d'ailleurs la nature des questions qu'elle a posées à l'appelant lors du contre-interrogatoire, notamment les rapports d'activité, l'horaire fixe, la présence obligatoire à un lieu de travail.
+Analyse et conclusion
+[23] Les articles 2085, 2098 et 2099 du Code civil du Québec se lisent ainsi :
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[24] Je me réfère au premier paragraphe d'une décision de la Cour d'appel fédérale dans D & J Driveway Inc. c. Canada (Ministre du Revenu national - M.R.N.), [2003] A.C.F. no 1784 (QL) :
+Nous sommes encore une fois saisis de la difficile et élusive question de l'assurabilité d'un emploi. Comme c'est souvent le cas, elle se soulève dans un contexte où l'intention des parties n'est pas consignée par écrit et où cette dernière n'a pas été établie, ou n'a pas fait l'objet de recherche auprès des témoins, à l'audience devant la Cour canadienne de l'impôt.
+[25] L'enseignement récent de la Cour d'appel fédérale est que l'intention commune des parties est un élément important pour déterminer la nature d'un contrat. Voir Wolf c. Canada, 2002 4 C.F. 396 et Royal WinnipegBallet v. M.N.R., 2006 FCA 87. La cour d'appel précise toujours toutefois que cette intention ne doit pas avoir pour but de contourner de manière illicite l'application de la loi. Ici, il n'y a pas de telle prétention de la part de l'intimé.
+[26] L'intention des parties telle que clairement exprimée par les différentes pièces produites à l'audition de cet appel, est évidente. Il s'agit d'un contrat de travail. L'affirmation d'une des parties que pour la dernière période, la relation en était une d'entreprise est contredite par les documents signés par cette partie elle-même.
+[27] Les indices d'encadrement auxquels l'avocate de l'intimé s'est rapportée pour déterminer s'il s'agit d'un contrat de travail sont valables. Mais dans le cas d'un employé où la créativité est requise, on ne peut se fier en totalité à ces indices. Ainsi que l'a mentionné l'appelant, les périodes de créativité ne sont pas nécessairement de 8 h à 17 h. Tout de même, il travaillait de longues heures dans un local qui était situé au même endroit que le bureau de Média-FX et rencontrait quotidiennement monsieur Ahad quand ce dernier était à son bureau. Que monsieur Drapeau ait pu travailler ailleurs, cela avait été accepté et permis par Média-FX tel que mentionné dans les déclarations des conditions de travail émises pour les fins de l'impôt sur le revenu par le payeur.
+[28] La source de revenu de l'appelant était Média-FX et non pas les clients de cette dernière. Média-FX négociait les contrats et les faisait exécuter par son employé, monsieur Drapeau. Les clients payaient Média-FX selon certaines modalités. Média-FX payait monsieur Drapeau selon d'autres modalités. Les dépassements de coût admis par monsieur Ahad relativement au contrat du Zoo de St-Félicien montrent bien l'existence de ces conditions différentes. Média-FX recevait des honoraires et autres paiements pour services rendus de la part de ses clients. Monsieur Drapeau recevait un salaire de la part de Média-FX.
+[29] Monsieur Ahad avait la capacité et était en mesure de contrôler le travail exécuté par monsieur Drapeau. En fait, quand la relation de travail s'est détériorée avec son client Idées au cube, c'est lui qui a dirigé monsieur Drapeau vers un autre travail, soit celui de « Quebec All Dressed » . Il s'agissait de relations de travail fondées sur la confiance de Média-FX envers un employé dont le travail était dans le domaine de la création.
+[30] La rémunération était sous la forme d'un salaire. Le payeur dirigeait l'appelant. Le payeur exerçait ou pouvait exercer un contrôle sur l'appelant. Les modalités du travail de l'appelant étaient celles d'un employé dans une relation contractuelle de travail au sens de l'article 2085 du Code civil du Québec.
+[31] En conséquence, l'appel doit être accueilli.
+Signé à Ottawa, Canada, ce 19e jour d'avril 2006.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2006CCI242
+N º DU DOSSIER DE LA COUR : 2005-3175(EI)
+INTITULÉ DE LA CAUSE : Michel Drapeau c. M.R.N. et Média-Fx Inc.
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 20 mars 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 19 avril 2006
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Gilbert Nadon
+Avocate de l'intimé :
+Me Christina Ham
+Représentant de l'intervenante :
+Paul Ahad
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Gilbert Nadon
+Cabinet : Ouellet Nadon Cyr De Merchant Bernstein Cousineau Heap Palardy Gagnon Tremblay Leduc
+Montréal (Québec)
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

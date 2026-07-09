@@ -1,0 +1,174 @@
+---
+title: "Zanatta v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/97823/index.do"
+last_modified: "2014-10-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 293"
+citation2: ""
+neutral_citation: "2014 TCC 293"
+decision_date: "2014-10-01"
+language: "en"
+item_id: "97823"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5173
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:32:37.617000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ebc8047fac159e59d6e1a9ca04134ae31c0abfdaf3dee1d2ae0ec7eaf5a410c9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zanatta v. The Queen
+
+- Citation: 2014 TCC 293
+- Decision date: 2014-10-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5173, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zanatta v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-10-01
+Neutral citation
+2014 TCC 293
+File numbers
+2014-562(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-562(IT)I
+BETWEEN:
+Todd Edward Zanatta,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 11, 2014, at Vancouver, British Columbia.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Shankar Kamath
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2012 taxation year is dismissed.
+Signed at Ottawa, Canada, this 1st day of October 2014.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2014 TCC 293
+Date: 20141001
+Docket: 2014-562(IT)I
+BETWEEN:
+Todd Edward Zanatta,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant claimed a medical expense tax credit for medical expenses totalling $80,808 incurred during his 2012 taxation year.
+[2] The Minister of National Revenue (Minister) disallowed the amount of $63,721.10 paid as compensation to a surrogate and for medical expenses incurred by the surrogate.
+[3] Those expenses were disallowed on the basis that the fees paid to the surrogate to carry the embryo and to deliver the baby for the appellant and his spouse do not qualify as eligible medical expenses of the appellant for the purposes of the medical expense tax credit, as such fees are not described in paragraph 118.2(2)(a) of the Income Tax Act (ITA).
+[4] The Minister is also of the view that medical expenses paid by the appellant on behalf of the surrogate are not allowable medical expenses in respect of services provided to the appellant, to the appellant’s spouse or common-law partner, or to the appellant’s dependant as defined in subsection 118(6) of the ITA.
+[5] The Minister did, however, allow an amount of $16,675 with respect to the in-vitro process on the basis, it is my understanding, that those medical expenses related to services provided to the appellant (Exhibit R-I and paragraph 7b) of the Reply to the Notice of Appeal).
+[6] The relevant legislative provisions read as follows:
+118 (6) Definition of “dependant” — For the purposes of paragraphs (d) and (e) of the description of B in subsection 118(1) and paragraph 118(4)(e), “dependant” of an individual for a taxation year means a person who at any time in the year is dependent on the individual for support and is
+(a) the child or grandchild of the individual or of the individual’s spouse or common-law partner; or
+(b) the parent, grandparent, brother, sister, uncle, aunt, niece or nephew, if resident in Canada at any time in the year, of the individual or of the individual’s spouse or common-law partner.
+. . .
+118.2 (1) Medical expense credit — For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted the amount determined by the formula
+A x [(B - C) + D]
+where
+A is the appropriate percentage for the taxation year;
+B is the total of the individual’s medical expenses in respect of the individual, the individual’s spouse or common-law partner or a child of the individual who has not attained the age of 18 years before the end of the taxation year
+. . .
+C is the lesser of $1,813 and 3% of the individual’s income for the taxation year; and
+. . .
+118.2(2) Medical expenses — For the purposes of subsection 118.2(1), a medical expense of an individual is an amount paid
+(a) to a medical practitioner, dentist or nurse or a public or licensed private hospital in respect of medical or dental services provided to a person (in this subsection referred to as the “patient”) who is the individual, the individual’s spouse or common-law partner or a dependant of the individual (within the meaning assigned by subsection 118(6)) in the taxation year in which the expense was incurred;
+. . .
+(g) to a person engaged in the business of providing transportation services, to the extent that the payment is made for the transportation of
+(i) the patient, and
+(ii) one individual who accompanied the patient, where the patient was, and has been certified in writing by a medical practitioner to be, incapable of travelling without the assistance of an attendant
+from the locality where the patient dwells to a place, not less than 40 kilometres from that locality, where medical services are normally provided, or from that place to that locality, if
+(iii) substantially equivalent medical services are not available in that locality,
+(iv) the route travelled by the patient is, having regard to the circumstances, a reasonably direct route, and
+(v) the patient travels to that place to obtain medical services for himself or herself and it is reasonable, having regard to the circumstances, for the patient to travel to that place to obtain those services;
+(h) for reasonable travel expenses (other than expenses described in paragraph (g)) incurred in respect of the patient and, where the patient was, and has been certified in writing by a medical practitioner to be, incapable of travelling without the assistance of an attendant, in respect of one individual who accompanied the patient, to obtain medical services in a place that is not less than 80 km from the locality where the patient dwells if the circumstances described in subparagraphs (g)(iii) to (v) apply;
+. . .
+(l.1) on behalf of the patient who requires a bone marrow or organ transplant,
+(i) for reasonable expenses (other than expenses described in subparagraph 118.2(2)(l.1)(ii)), including legal fees and insurance premiums, to locate a compatible donor and to arrange for the transplant, and
+(ii) for reasonable travel, board and lodging expenses (other than expenses described in paragraphs 118.2(2)(g) and 118.2(2)(h)) of the donor (and one other person who accompanies the donor) and the patient (and one other person who accompanies the patient) incurred in respect of the transplant;
+(o) for laboratory, radiological or other diagnostic procedures or services together with necessary interpretations, for maintaining health, preventing disease or assisting in the diagnosis or treatment of any injury, illness or disability, for the patient as prescribed by a medical practitioner or dentist.
+[7] In Zieber v. The Queen, 2008 CarswellNat 1716, 2008 DTC 4175, 2008 TCC 328, an informal procedure case, the Court concluded that expenses related to a surrogacy arrangement qualified for the medical expense tax credit on the basis that an embryo transplant is an organ transplant for the purposes of paragraph 118.2(2)(l.1).
+[8] This decision was subsequently discussed but not followed in other cases before this Court (Warnock v. The Queen, 2014 CarswellNat 2957, 2014 TCC 240 and Carlson v. The Queen, 2012-3063 (IT)I, unreported oral reasons for judgment dated June 13, 2013).
+[9] In Warnock, Woods J. observed that the Zieber decision did not discuss all relevant aspects of paragraph 118.2(2)(l.1) of the ITA. She ultimately concluded that, considered as a whole, that provision does not apply to surrogacy arrangements, the main reason being that the surrogate who receives the transplant is not a patient as defined in paragraph 118.2(2)(a) of the ITA. The same conclusion was reached by Archambault J. in Carlson, supra. I agree with both decisions.
+[10] For the same reasons, the expenses for services otherwise qualifying for the credit, set out in paragraphs 118.2(2)(g), (h) and (o), were incurred on behalf of the surrogate and therefore do not qualify as the surrogate is not the patient as defined in paragraph 118.2(2)(a) of the ITA.
+Discrimination [11] The appellant also argued that gay male couples are being discriminated against by the application of paragraph 118.2(2)(a) of the ITA. He said that they deserve the same treatment as heterosexual and gay female couples who have the opportunity of claiming the medical expense tax credit in respect of in‑vitro fertilization treatments. In his words, because gay male couples do not have ovaries to produce eggs and wombs in which to gestate a foetus, they must work with surrogates, which heterosexual and female gay couples do not have to do.
+[12] The question is therefore whether paragraph 118.2(2)(a) infringes section 15 of the Canadian Charter of Rights and Freedoms (Charter).
+[13] Subsection 15(1) of the Charter provides:
+Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+[14] There is a two-step process in analyzing section 15 of the Charter. In Eldridge v. British Columbia (Attorney General), [1997] 3 S.C.R. 624 at paragraph 58, the two-step process is described as follows:
+. . . A person claiming a violation of s. 15(1) must first establish that, because of a distinction drawn between the claimant and others, the claimant has been denied “equal protection” or “equal benefit” of the law. Secondly, the claimant must show that the denial constitutes discrimination on the basis of one of the enumerated grounds listed in s. 15(1) or one analogous thereto. . . .
+[15] In Auton (Guardian ad litem of) v. British Columbia (Attorney General), [2004] 3 S.C.R. 657 at paragraph 27, the Supreme Court of Canada states that, in order to succeed, claimants must first show “unequal treatment under the law — more specifically that they failed to receive a benefit that the law provided, or was [sic] saddled with a burden the law did not impose on someone else”.
+[16] I agree with the respondent that the appellant in the present case did not demonstrate that he was unable to receive a benefit under the law that is provided to others. I am also of the view that the appellant was not saddled with a burden that the law did not impose on someone else.
+[17] Surrogacy fees are consistently non-deductible for anyone, whether heterosexual couples, female gay couples or male gay couples.
+[18] In both Warnock, supra, and Carlson, supra, it was a heterosexual couple who paid for the services of a surrogate mother (in Warnock, the taxpayer, and in Carlson, the taxpayer’s wife, being women with infertility problems and unable to carry a child).
+[19] In Ismael v. The Queen, 2014 CarswellNat 1817, 2014 DTC 1140, 2014 TCC 157, the female taxpayer underwent in-vitro fertilization using an egg provided by an egg donor, which, after being fertilized, was implanted into her body. All expenses related to the egg donor fees were disallowed.
+[20] These are examples of cases where a woman (either the taxpayer or the taxpayer’s wife), because of infertility, required the services of either a surrogate or an egg donor in order to have a child and where the taxpayers was not allowed to deduct the surrogacy or the egg donor fees.
+[21] The three cases referred to above show that, regardless of gender or sexual orientation, no one can deduct surrogacy fees under paragraph 118.2(2)(a). The burden imposed by the law on male gay couples is no greater than that imposed on anyone else.
+[22] I therefore conclude that paragraph 118.2(2)(a) of the ITA does not infringe section 15 of the Charter.
+[23] The appeal is dismissed.
+Signed at Ottawa, Canada, this 1st day of October 2014.
+“Lucie Lamarre”
+Lamarre J.
+CITATION:
+2014 TCC 293
+COURT FILE NO.:
+2014-562(IT)I
+STYLE OF CAUSE:
+Todd Edward Zanatta v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 11, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+October 1, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Shankar Kamath
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,214 @@
+---
+title: "Douglas Zeller and Leon Paroian Trustees of the Estate of Margorie Zeller v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29124/index.do"
+last_modified: "2009-03-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 135"
+citation2: ""
+neutral_citation: "2009 TCC 135"
+decision_date: "2009-03-04"
+language: "en"
+item_id: "29124"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6624
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:30:26.132000+00:00"
+cases_cited_count: 1
+cases_citing_count: 17
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aea9a36e0af7a2a2c04727a95bbef81bc1fe45458ca9eb3f52d5eda047e5003f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Douglas Zeller and Leon Paroian Trustees of the Estate of Margorie Zeller v. The Queen
+
+- Citation: 2009 TCC 135
+- Decision date: 2009-03-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6624, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Douglas Zeller and Leon Paroian Trustees of the Estate of Margorie Zeller v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-03-04
+Neutral citation
+2009 TCC 135
+File numbers
+2003-2892(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2009 TCC 135
+Date: 20090304
+Docket: 2003-2892(IT)G
+BETWEEN:
+DOUGLAS ZELLER AND LEON PAROIAN,
+TRUSTEES OF THE ESTATE OF MARJORIE ZELLER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS RESPECTING SUBMISSIONS ON COSTS
+Campbell J.
+[1] My Reasons for Judgment in this matter reserved the issue of costs pursuant to the request of both counsel. As the parties have not been able to reach an agreement on costs within the allotted timeframe, they have submitted written submissions setting out their respective positions.
+[2] The appeal itself involved the determination of the fair market value (“FMV”) of the shares of 701221 Ontario Limited (“701221”). On October 20, 1998, Marjorie Zeller, the sole shareholder of 701221, died. In filing the terminal tax return, the estate trustees reported the FMV as $958,548 pursuant to the deemed disposition provisions contained at subsection 70(5) of the Income Tax Act (the “Act”). The Minister of National Revenue (the “Minister”) reassessed the return and increased the FMV of 701221 to $5,524,548.00, based on an expert report (the “Albert Report”). The Appellant hired the Wise, Blackman firm to complete a valuation and that firm determined the value of the shares to be $2,200,000.00 (the “Wise Report”). The Minister then engaged another expert to complete a second report which assigned a value of $6,380,000.00 to the shares on October 20, 1998 (the “Dunham Report”). The value which I ultimately assigned to these shares was $3,394,345.00.
+[3] The Appellant submitted the following four options, listed below in the order of preference:
+Option 1: Lump Sum amount of $413,556.01 (as contemplated under subsection 147(4) of the Tax Court of Canada Rules (General Procedure) (the “Rules”)
+This amount is comprised of:
+a) Substantial indemnity for the services of Bruck Easton in the amount of $233,934.00 [$219,800.00 fees (at $400.00 per hour) + GST of $14,134.00] and
+b) Substantial indemnity for the disbursements by counsel for the Appellant and the costs of the Wise Report as paid by the Appellant, in the aggregate of $179,622.01, comprised of:
+· Substantial Indemnity for the costs of the Wise Report, the expert witnesses called to testify on the Appellant’s behalf. These costs include both the preparation of the Wise Report and the preparation and attendance at trial of both Mr. Wise and Mr. Dorweiler in the amount of $157,943.05.
+· Compensation for the other disbursements incurred by counsel for the Appellant in the amount of $13,125.25.
+· Compensation for the GST paid by the Appellant in the Wise, Blackman Invoices and in respect of other taxable disbursements paid by counsel for the Appellant in the amount of $8,553.71.
+Option 2: Lump sum amount of $226,189.51 (as contemplated under subsection 147(4) of the Rules)
+This amount is comprised of:
+· Indemnity to the Appellant for services of counsel rendered based on an estimate of party and party costs that would be taxable by the Appellant as provided in the Tariff B to the Tax Court Rules, in the amount of $46,567.50 (being $44,350.00 plus GST of $2,217.50); and
+· Compensation for the disbursements incurred by counsel for the Appellant and the costs of the Wise Report as paid by the Appellant, in the aggregate amount of $179,622.01 (refer to Option 1(b) for details of this amount).
+Option 3: Directions be given by this Court to the Taxing Officer, that the costs be awarded to the Appellant as follows: (as contemplated by subsection 147(6) of the Rules)
+· Taxed on a Solicitor-Client basis (plus GST) in respect of counsel fees for the Appellant; and
+· Shall include reimbursement of all of the Appellant’s disbursements and the costs of the Wise Report as paid by the Appellant, in the aggregate amount of $179,622.01 (refer to Option 1(b) for details of this amount).
+Option 4: Directions be given by this Court to the Taxing Officer, that the costs be awarded to the Appellant as follows: (as contemplated by subsection 147(6) of the Rules)
+· Taxed on a party and party basis (plus GST) in respect of counsel fees for the Appellant; and
+· Shall include reimbursement of all of the Appellant’s disbursements and the costs of the Wise Report as paid by the Appellant, in the aggregate amount of $179,622.01 (refer to Option 1(b) for details of this amount).
+[4] The Respondent’s position is that each party should pay their own costs. The Respondent submits that while both parties made offers to settle, the Respondent’s last two offers of $3,500,000.00 were more reasonable compared to the eventual outcome of the hearing which determined the value of the shares to be $3,394,345.00.
+[5] Under the Tax Court of Canada Act the following provisions are applicable concerning costs:
+18.26 (1) The Court may, subject to the rules, award costs. In particular, the Court may award costs to the appellant if the judgment reduces the aggregate of all amounts in issue or the amount of interest in issue, or increases the amount of loss in issue, as the case may be, by more than one half.
+18.26 (2) The Court may, in deciding whether to award costs, consider any written offer of settlement made at any time after the notice of appeal is filed.
+[6] Section 147 of the Rules gives the Court a very broad discretion in awarding costs. It states:
+147.(1) The Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.
+(2) Costs may be awarded to or against the Crown.
+(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+(6) The Court may give directions to the taxing officer and, without limiting the generality of the foregoing, the Court in any particular proceeding may give directions,
+(a) respecting increases over the amounts specified for the items in Schedule II, Tariff B,
+(b) respecting services rendered or disbursements incurred that are not included in Schedule II, Tariff B, and
+(c) to permit the taxing officer to consider factors other than those specified in section 154 when the costs are taxed.
+[7] Several relevant points have emerged from the caselaw. In Merchant v. Canada, [1998] 3 C.T.C. 2505, at paragraph 58, Bowman J. (as he was then) stated:
+…The general rule is that a successful litigant is entitled to party and party costs. Where success is divided it is not unusual for no order to be made for costs. … To award solicitor and client costs against a litigant who has achieved the degree of success that Mr. Merchant has requires a high degree of reprehensible conduct. There must, to use the words of McLachlin J. in Young (supra) at p. 134, be "reprehensible, scandalous or outrageous conduct on the part of one of the parties".
+[8] Party and party costs based on the Tariff Scale are intended to afford the party to whom they are awarded partial indemnity for the costs which must be paid to their own solicitor (Mark Orkin, The Law of Costs, 2nd ed., vol 1 (Aurora: Canada Law Book, 2008) at 1-9). However, in recent times, such costs have been used for more than indemnification:
+Traditionally, the purpose of an award of costs within our “loser pay” system was to partially or, in some limited circumstances, wholly indemnify the winning party for the legal costs it incurred. However, costs have more recently come to be recognized as an important tool in the hands of the court to influence the way the parties conduct themselves and to prevent abuse of the court’s process. Specifically, the three other recognized purposes of costs awards are to encourage settlement, to deter frivolous actions and defences, and to discourage unnecessary steps that unduly prolong the litigation (Mark Orkin, The Law of Costs, 2nd ed., vol 1 (Aurora: Canada Law Book, 2008) at 2-1)).
+[9] Traditionally, the degree of indemnification represented by partial indemnity costs has varied between 50% and 75% of solicitor-and-client or substantial indemnity costs (Mark Orkin, The Law of Costs, 2nd ed., vol 1 (Aurora: Canada Law Book, 2008) at 2-3).
+[10] As stated in Merchant, to depart from the usual rule requires unusual circumstances. For a successful or partially successful litigant
+(a) to be deprived of costs,
+(b) to be ordered to pay party and party costs,
+(c) to be ordered to pay costs to the other party on a solicitor and client costs,
+requires a measure of reprehensibility ([1998] 3 C.T.C. 2505, at paragraph 58).
+[11] The Supreme Court of Canada in Young v. Young, [1993] 4 S.C.R. 3, at page 134, established the test for awarding solicitor-client costs:
+…Solicitor-client costs are generally awarded only where there has been reprehensible, scandalous or outrageous conduct on the part of one of the parties.
+[12] I do not believe that an award of solicitor-client costs would be appropriate in the circumstances of this appeal. The Appellant’s main argument for requesting solicitor-client costs is focussed on the results of the proceeding, the settlement offers and the general idea that the approach taken by the Minister, including “high-balling” the valuations, created more work than would ordinarily have been required. Even if the Appellant is right in respect to the Minister’s use of this tactic, it does not warrant the application of solicitor-client costs. Valuations are, in general, difficult procedures to apply. They are by their very nature not an exact science. As noted in my Reasons at paragraph 39, in quoting Bowman C.J. in Western Securities Limited v. The Queen, 97 DTC 977, when expert valuators are hired by their respective clients, there may be a bias to ascertain as high a value as possible or as low a value as possible, depending on the desires of the party that hired them.
+[13] In paragraphs 46 and 48 of my Reasons, I noted that had Mr. Dunham, the Respondent’s expert, interviewed corporate management, he would have gained a better understanding of certain issues, such as the shareholder loans and salaries, and would have consequently incorporated a further adjustment in his analysis to reflect the true nature of the business. There were, however, factors which Mr. Dunham employed which I factored into my Reasons, including size premium, the company specific size premium, growth rates, marketability and minority discounts and allocation of goodwill to non-competition agreement. In the end, I took and applied those factors from each of the expert reports that I considered to be the most appropriate and reasonable under the circumstances. In determining FMV, I accepted four critical valuation criteria contained in the Wise Report, and one critical criteria contained in the Dunham Report while compromising between both Reports in respect to three other critical criteria.
+[14] While the Respondent’s expert witness could have met with the Appellant for further clarification as I noted in my Reasons, this is not similar to the facts in Hunter v. Canada, [2003] 1 C.T.C. 2652, where in reassessing the taxpayers, the Minister did not review the books of the taxpayers and did not contact the taxpayers respecting a proposed reassessment at any time prior to issuing the reassessment. It appears that the cases that have awarded solicitor-client costs contained facts that were far more extreme than the facts in this appeal where I do not consider that the Respondent’s conduct could in any respect fall within the category of reprehensible, scandalous or outrageous.
+[15] In this case, there were offers to settle made by both sides. The Appellant made three offers:
+· October 2005 - $1,580,000.00,
+· February 2006 - $2,200,000.00,
+· October 2006 - $2,200,000.00,
+while the Respondent made four offers:
+· February 13, 2006 - $4,600,000.00 and each party bearing its own costs,
+· August 2, 2006 - $3,790,000.00 and each party bearing its own costs,
+· October 4, 2006 - $3,500,000.00 and each party bearing its own costs,
+· October 31, 2006 - $3,500,000.00 and each party bearing its own costs.
+[16] The Appellant submits that the offers by the Respondent came well into the trial of the matter, some eight years after the death of the taxpayer, and after a good portion of the expenses of the litigation had already been incurred by the Appellant. Nonetheless, it is important to point out that the offers made by the Minister of $3,500,000.00 on both October 4 and 31, 2006 were much closer to the final result of $3,394,342.00, compared to the offer made by the Appellant of $2,200,000.00 Thus the Minister’s offer was quite reasonable under the circumstances. There were also supposedly informal discussions in October 2002, where attempts to settle the matter occurred. Regardless of the fact that this may be discounted because there was no written settlement offer and that Mr. Paroian is now deceased, it is fair to say, considering the original offers made by the Minister of $4,600,000.00 before the trial started, that it was only greater than the final value determined by the Court by $1,200,000.00. The last offer made by the Appellant of $2,200,000.00 was less than the final value determined by the Court by the same difference of $1,200,000.00. The fact that the Minister continued to make offers throughout 2006 shows a continuing attempt to resolve the matter. Thus, this supports the contention that the Respondent’s behaviour was not reprehensible or outrageous to warrant solicitor-client costs.
+[17] Another option suggested by the Appellant is to award lump sum amounts or amounts in excess of the Tariff. A lump sum award may be considered where solicitor-client costs are not warranted but the Tariff will not be sufficient (subsection 147(4) of the Rules). In Hunter, Bell J. awarded one set of costs, inclusive of fees and disbursements, or the sum of $25,000.00, after the Appellant sought $22,000.00. However, in that case, there was a finding of some reprehensible behaviour on the part of the Respondent.
+[18] In Bruhm v. The Queen, 94 DTC 1400, Sarchuk J. suggests that something more than just “indemnification” is required before a lump sum award is warranted. At pages 1404 and 1405, Sarchuk J. states:
+…I do not accept the Appellant's position that an “indemnification principle” is an appropriate consideration in determining whether a lump sum pursuant to 147(4) of the Tax Court of Canada Rules should be awarded in this case. I also confess to some difficulty with his proposition that financial disparity between litigants warrants an “adjustment of the traditional principles” with respect to costs.
+…
+…I have considered the criteria enumerated in the Rule and have concluded that a lump sum award is not warranted. I am not satisfied that the Respondent's conduct was such that it lengthened unnecessary the duration of the proceeding nor was the Respondent's conduct at any stage in the proceedings improper, vexatious or unnecessary. Furthermore, no offer of settlement in writing was made by the Appellant nor was any real discussion of settlement initiated by Doyle. Costs therefore are awarded to the Appellant to be taxed in accordance with Schedule II, Tariff B.
+[19] In Scavuzzo et al. v. The Queen, 2006 DTC 2311, Bowman C.J. did not award solicitor-client costs against the Minister but awarded costs in excess of party and party amounts provided in the Tariff. In fixing costs at $275,000.00, as partial reimbursement of expenses, he considered the existence of such factors as the Minister’s refusal to give effect to one taxpayer’s resignation as a director, obtaining a jeopardy collection order that was high-handed and oppressive, wrong assumptions pleaded by the Minister, rejection of the taxpayer’s settlement offer and providing a flawed counter offer, the amount exceeded two million dollars and finally the complexity of the matter.
+[20] Turning now to a consideration of the factors listed in subsection 147(3) of the Rules:
+(a) The Result of the Proceeding:
+My determination of the FMV of the shares to be $3,394,342.00 was certainly more favourable to the Appellant. The Respondent’s expert report had valued the shares at $6,380,000.00, which was almost double my final figure. The Appellant’s expert report valued the shares at $2,200,000.00 which was almost $1,200,000.00 less than my final determination.
+(b) The Amounts in Issue:
+It is undisputed that the amounts are significant. With a FMV of $3,394,342.00, the Appellant submits that the associated amount of income tax related to the deemed disposition of those shares is approximately $1,200,000.00.
+(c) The Importance of the Issues:
+From the Appellant’s perspective, the FMV of the shares made up a significant portion of the estate.
+(d) Any Offer of Settlement Made in Writing:
+The offers of settlement by each party have been discussed at paragraphs [14] and [15] herein. While both parties made attempts to settle, the Respondent’s offer was not unreasonable given the eventual outcome. However, although not unreasonable, it was still higher than my determination, and, more importantly, it came well into the commencement of the hearing of the appeal when much of the expenses of the litigation had already been incurred.
+(e) The Complexity of the Issues; and
+(f) The Volume of Work:
+Because the parties could not reach a settlement, experts were employed by each. The Wise Report consisted of almost 80 pages of facts, valuation analysis and calculations while the Dunham Report contained more than 40 pages. The hearing of the appeal took 15 days comprising four different sittings of the Court over one-and-one-half years. My Reasons for Judgment were over 30 pages long and included lengthy and detailed calculations.
+(g) The Conduct of any Party that Intended to Shorten or Lengthen
+Unnecessarily the Duration of the Proceeding:
+As noted in my Reasons, the Respondent should have talked directly with management to gain a better understanding of some of the items which they ended up factoring into their calculations. It therefore could be argued that if the Respondent’s expert had done so, it may have assisted in settlement negotiations being more successful.
+(h) The Denial or the Neglect or Refusal of any Party to
+Admit Anything that should have been Admitted:
+Not applicable.
+(i) Whether any Stage in the Proceeding was
+(I) Improper, Vexatious or Unnecessary, or
+(II) Taken Through Negligence, Mistake or Excessive Caution:
+With respect to (I) above, it could be argued that had the Respondent discussed some of the issues with the Appellant, there may have been a better understanding of these, resulting in a factoring of them into a valuation. This may have facilitated settlement discussions. If so, certain issues analyzed during the hearing may accordingly have been unnecessary.
+(j) Any Other Matter Relevant to the Question of Costs:
+Not applicable.
+[21] Based on a review of these factors and also my conclusion that solicitor‑client costs are not warranted, I believe that it is reasonable in these circumstances that a lump sum amount of $226,189.51 be awarded to the Appellant, for costs, in accordance with subsection 147(4) of the Rules, as per the Appellant’s proposed Option 2 as summarized in paragraph [3] herein.
+[22] Several days into this hearing it came to my knowledge that no pre-hearing conference had been held. It is unfortunate that one did not occur early on as I believe it may have gone a long way to settling the appeal thereby reducing the costs. I hope that in the future counsel would avail themselves of this avenue in similar appeals.
+Signed at Ottawa, Canada, this 4th day of March 2009.
+"Diane Campbell"
+Campbell J.
+CITATION:
+2009 TCC 135
+COURT FILE NO.:
+2003-2892(IT)G
+STYLE OF CAUSE:
+Douglas Zeller and Leon Paroian, Trustees of the Estate of Marjorie Zeller and Her Majesty the Queen
+PLACE OF HEARING:
+Windsor, Ontario
+DATES OF HEARING:
+February 27 and 28, March 1 and 2, 2006, October 23, 24, 25, 26 and 27, 2006, March 26, 27, 28 and 29, 2007 and July 17 and 18, 2007
+REASONS RESPECTING SUBMISSIONS ON COSTS:
+The Honourable Justice Diane Campbell
+DATE OF JUDGMENT:
+DATE OF REASONS RESPECTING SUBMISSIONS ON COSTS:
+July 30, 2008
+March 4, 2009
+SUBMISSIONS:
+Counsel for the Appellant:
+Gerald E. Skillings
+Counsel for the Respondent:
+Michael Ezri
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Gerald E. Skillings
+Firm:
+Ducharme Fox LLP
+Windsor, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

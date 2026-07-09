@@ -1,0 +1,198 @@
+---
+title: "Moll v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28619/index.do"
+last_modified: "2008-04-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 234"
+citation2: ""
+neutral_citation: "2008 TCC 234"
+decision_date: "2008-04-24"
+language: "en"
+item_id: "28619"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1151
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:17:56.394000+00:00"
+cases_cited_count: 1
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "063db7f62883286a12705264ff3e6cab9d0014b2b72e81d4ab395e29f44e9cc2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Moll v. The Queen
+
+- Citation: 2008 TCC 234
+- Decision date: 2008-04-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1151, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moll v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-24
+Neutral citation
+2008 TCC 234
+File numbers
+2007-2539(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2539(IT)I
+BETWEEN:
+RICHARD FERDINAND MOLL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 14, 2008 at Toronto, Ontario
+Before: The Honourable Justice Valerie A. Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kandia Aird
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act, notice of which is dated August 16, 2006 and bears number 44040, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 24th day of April, 2008.
+"V.A. Miller"
+V.A. Miller, J.
+Citation: 2008TCC234
+Date: 20080424
+Docket: 2007-2539(IT)I
+BETWEEN:
+RICHARD FERDINAND MOLL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] This is an appeal from an assessment made under section 227.1 of the Income Tax Act (“Act”). The Appellant was assessed by notice dated August 16, 2006 on the basis that he was a director of MFS Automation Ltd. (“MFS”) when it failed to remit source deductions to the Receiver General from January 1, 2002 to March 31, 2003. The amount of the assessment was $69,916.71 which included unremitted source deductions in the amount of $41,660.98 and interest and penalties thereon in the amount of $28,255.73.
+[2] The Appellant takes the position that he resigned as director of MFS on January 23, 2003 which was more than two years prior to being assessed under section 227.1 of the Act.
+[3] The Respondent takes the position that in accordance with section 119 of the Ontario Business Corporations Act, R.S.O. 1990, c. B.16, s. 56 (“OBCA”) the Appellant’s resignation is not effective.
+FACTS
+[4] The Appellant’s background is that of a general machinist. He has a license as a machinist and he graduated from college. MFS was incorporated on April 24, 1995 under the OBCA. The Appellant was the sole shareholder and the sole director of MFS. MFS built machinery for various companies both in Canada and in the United States. The Appellant stated that it required great outlays of cash to build the machinery and it always took a while to collect the accounts receivable. As a result, all payments of source deductions to the Canada Revenue Agency (“CRA”) were sporadic.
+[5] The Appellant stated that much of the financial difficulties of MFS can be traced to the downturn in the economy after September 11, 2001. It was his evidence that MFS lost most of its business with companies in the United States. Prior to September 11, 2001 MFS had sales of $85,786 with companies in the United States and after September 11, 2001 sales to the United States were $125. The Appellant also stated that from 2001 to 2003 there were many customers who failed to pay MFS.
+[6] It was the Appellant’s evidence that he had made an agreement with CRA in 2002 that MFS’s outstanding debt would be paid off prior to MFS ceasing to operate. He stated that at that time MFS owed CRA $32,000. MFS sold a machine to Conros Corporation (“Conros”) for $54,000. It was the Appellant’s evidence that CRA said it would collect the amount from Conros. He stated that he learned two and one half years later that CRA had not received the amount from Conros. At that time CRA started to pursue him for MFS’s debt.
+[7] The Appellant submitted three documents (Exhibit A-1) to support that he had resigned as director of MFS:
+1. a photocopy of a page entitled Directors’ Register. It shows that the Appellant was elected as director on April 24, 1995 and that he retired on January 23, 2003. No corporation is named on this document;
+2. a photocopy of a page entitled “Officers’ Register”. It as well shows that the Appellant held the office of President from April 24, 1995 to January 23, 2003. No corporation is named on this document;
+3. a letter from the Appellant to MFS dated January 23, 2003 wherein he wrote the following:
+Richard Moll 290 Brock Road
+Dundas
+Ontario L9G 2Y8
+January 23 2003
+MFS Automation Ltd.
+11 garden Ave unit #4
+Stoneycreek Ontario
+L8E 2Y8
+Dear : MFS Automation Ltd.
+IT is with deep regret that I am resigning after 16 years as Director of MFS Automation. This day January 23, 2003 following the complete closure of Mfs Automation Ltd. Which will never again open it’s doors for business. I have done the best I could to maintain this company it’s now time to quit.
+Sincerely,
+Richard Ferdinand Moll
+Now former Director of MFS
+[8] Leeanne Feltrin, a Collections Officer with CRA, gave evidence on behalf of the Respondent. She stated that MFS had seven employees in 2002 and two employees in 2003. MFS ceased to operate in February 2003. She stated that since November 1995, MFS had a history of not remitting its source deductions in a timely fashion. She outlined the history of MFS’s source deduction account with CRA; the contacts made by CRA to the Appellant; the contacts made by CRA to MFS’s accountant; and the assessments issued to MFS. Her evidence disclosed that remittances of source deductions to the CRA were only made after MFS was contacted by CRA. MFS made most of its payments to CRA by way of post-dated cheques some of which were not honoured by the bank.
+[9] She outlined the following contacts between the Appellant and CRA in 2003 and 2004:
+April 2003 – a follow-up examination was conducted with respect to the missing information for 2002 and 2003. There were no books and an arbitrary assessment was raised based on the prior numbers. The new balance was approximately $70,000. The Appellant gave the examiner three post-dated cheques. Each cheque was for the amount of $1,500. It was at this time that the Appellant advised CRA that the business had ceased to operate in February 2003.
+September 2003 – CRA contacted the Appellant and he promised to provide more payments. He advised that he had problems collecting the accounts receivable.
+September 2003 – Post-dated cheque returned and marked non-sufficient funds (NSF).
+November 2003 – The Appellant went to the Tax Services Office to give CRA six post-dated cheques. Each cheque was for the amount of $1,500 and they were dated for the period December 2003 to May 2004.
+November 2003 – A prior post-dated cheque was returned NSF.
+January 2004 – A post-dated cheque was returned NSF.
+January 2004 – CRA called the Appellant and left a message.
+January 2004 – CRA sent requirements to pay to all banks where MFS had accounts. All requirements were returned as there were no funds available.
+February 2004 – The remaining three post-dated cheques were returned to the Appellant as all previous cheques were returned to CRA marked NSF.
+February 2004 – The pre-assessment letter was issued to the Appellant.
+[10] Ms. Feltrin stated that CRA had never received any indication that the Appellant had resigned as director of MFS. As well, she stated that the Appellant’s statement that MFS’s financial difficulty was as a result of September 11, 2001 is unsupported. MFS had difficulties remitting source deductions in a timely fashion prior to this date.
+LEGISLATION
+[11] Section 227.1 of the Act reads as follows:
+227.1 (1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+(2) A director is not liable under subsection (1), unless
+(a) a certificate for the amount of the corporation's liability referred to in that subsection has been registered in the Federal Court under section 223 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation's liability referred to in that subsection has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation's liability referred to in that subsection has been proved within six months after the date of the assignment or bankruptcy order.
+(3) A director is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+(4) No action or proceedings to recover any amount payable by a director of a corporation under subsection (1) shall be commenced more than two years after the director last ceased to be a director of that corporation.
+ANALYSIS
+[12] There was nothing to support the Appellant’s statements that there was any type of agreement between him and CRA with respect to the outstanding debt of MFS. Regardless, the question is whether the Appellant resigned as director of MFS more than two years prior to the assessment dated August 16, 2006. If not, then did the Appellant exercise the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances?
+[13] It is clear from the jurisprudence that to determine when a director ceases to hold office one must examine the incorporating legislation. See The Queen v. Kalef, [1996] 2 C.T.C. 1 (F.C.A.) at paragraph 10:
+The Income Tax Act neither defines the term director, nor establishes any criteria for when a person ceases to hold such a position. Given the silence of the Income Tax Act, it only makes sense to look to the company's incorporating legislation for guidance. …
+[14] MFS was incorporated under the OBCA and section 121 outlines when a director ceases to hold office as follows:
+121. (1) A director of a corporation ceases to hold office when he or she,
+(a) dies or, subject to subsection 119(2), resigns;
+(b) is removed in accordance with section 122; or
+(c) becomes disqualified under subsection 118(1).
+(2) A resignation of a director becomes effective at the time a written resignation is received by the corporation or at the time specified in the resignation, whichever is later.
+[15] It is the Appellant’s position that he resigned as director of MFS on January 23, 2003 in accordance with subsection 121(2) of the OBCA. The letter was addressed to MFS. The Appellant was the President, sole director and sole shareholder of MFS. The Appellant gave the letter to himself; I assume as shareholder of MFS.
+[16] The Respondent has relied on subsection 119(2) of the OBCA to assert that the Appellant as sole director of MFS could not resign. Subsection 119(2) reads as follows:
+119. (1) Each director named in the articles shall hold office from the date of endorsement of the certificate of incorporation until the first meeting of shareholders.
+(2) Until the first meeting of shareholders, the resignation of a director named in the articles shall not be effective unless at the time the resignation is to become effective a successor has been elected or appointed.
+[17] Subsection 119(2) of the OBCA refers to the first directors, those named in the Articles of Incorporation (“Articles”). I do not know if the Appellant was named as a director in the Articles as they were not tendered as an exhibit in this appeal.
+[18] It is clear from the jurisprudence that a sole director can resign from a corporation by giving written notice to the corporation. In Netupsky v. The Queen, [2003] G.S.T.C. 15, Justice Bell (as he then was) found that a sole director had resigned and in fact subsection 131(3) of the Company Act (British Columbia) contemplated a situation in which a corporation has no directors. Subsection 115(4) of the OBCA as well contemplates the situation where all of the directors of a corporation have resigned or have been removed. However, this subsection deems the person who manages or supervises the management of the business to be the director of the corporation. Subsection 115(4) reads as follows:
+115. (4) Where all of the directors have resigned or have been removed by the shareholders without replacement, any person who manages or supervises the management of the business and affairs of the corporation shall be deemed to be a director for the purposes of this Act.
+[19] If the Appellant did resign as director on January 23, 2003 (I will speak to the letter of resignation later in these reasons.), then because he was the person who managed the affairs of the corporation after January 23, 2003 he is deemed to continue as director of the corporation. After January 23, 2003 the Appellant is deemed to be a director and did not cease in this capacity when MFS ceased operations as he continued to hold himself out as director.
+[20] In the appeal of Charles Bremner v. The Queen, 2007 TCC 509, Mr. Bremner admitted that he was a de facto director and deemed director as described in subsection 115(4) of the OBCA. Associate Chief Justice Rip had to decide when a de facto or a deemed director ceased to be a director. He said this at paragraph 26:
+[26] There is no fixed rule to determine when a de facto or a "deemed" director ceases to be a director. However, to paraphrase Mr. Justice Potter Stewart, one may know when a person ceases to be a director when one sees it. The course of conduct of the person is important.[11] There will be something missing in the relationship between the individual and the corporation. As any director, a de facto or a "deemed" director will cease to be a director when the shareholders elect his or her replacement or if he or she resigns. Until that time a director remains in office. A de facto and a "deemed" director may also cease to be a director by giving notice to the corporation and actually stop managing or supervising the management of the company. In the appeal at bar the director's bond between Mr. Bremner and Excel was not broken. I acknowledge that it may be difficult for a person who is the only shareholder of a corporation to divorce himself or herself from activities normally carried on by a director but if that person is performing functions of a director, he or she is a director. In the appeal at bar, the following facts, for example, favour a finding that Mr. Bremner continued to be a de facto director after September 1 and into October, 2000: he was the sole shareholder of Excel and the only person who has ever managed and supervised Excel; there is no evidence that he informed third parties, creditors or others, except perhaps his son, who did not testify, that he was no longer holding himself out as a director of Excel; and he continued acting for Excel after September 2000; for example, payments were made on behalf of Excel against its GST arrears.
+[27] In his letter of April 10, 2001, Mr. Bremner informed the tax authority that he "was" employed by Excel as manager and requested that the CCRA correct its records. The fact that he wrote to the tax authority suggests that he was still managing or supervising the management of Excel's actions, however minimal such actions may have been.
+[28] Mr. Bremner held himself out as director of Excel, even if not called director, and continued to be a de facto director after September 30, 2000. The fact that Excel ceased to carry on business in August is not really relevant. Directors of corporations have duties that survive the cessation of the business previously carried on. Mr. Bremner took it upon himself to arrange for the orderly winding-up of the company's business and its affairs that continued into October 2000.
+[21] As in Bremner, supra, the Appellant held himself out as director of MFS after he allegedly resigned as director. There was no evidence that he informed anyone, especially third party creditors, that he was no longer a director; he continued to act as director after January 23, 2003, for example he continued to meet with the CRA officials and to give them post-dated cheques as payments on behalf of MFS. The fact that MFS ceased operation in February 2003 is not relevant.
+[22] My conclusion above is sufficient to establish that the Appellant continued to be a director of MFS after January 23, 2003. However, I would like to comment on Exhibit A-1. It is my opinion that the Appellant did not resign on January 23, 2003. I do not accept his evidence for the following reasons:
+a) The pages from the alleged Minute Book are photocopies and do not refer to any corporation. They raise a suspicion of their authenticity.
+b) The CRA was in contact with the Appellant on four occasions after January 23, 2003 and at no time did the Appellant inform CRA that he had resigned. On cross-examination, the Appellant admitted that he had never told CRA that he resigned as a director. His letter of resignation was not provided to CRA until the hearing of this appeal.
+c) The Appellant continued to give post-dated cheques to CRA in 2003.
+d) The letter states that the Appellant was director of MFS for 16 years whereas the evidence disclosed that MFS was incorporated in 1995.
+e) The letter states that by January 23, 2003, MFS had completely ceased business. Whereas, the Appellant told CRA that MFS had ceased operations in February 2003.
+[23] The last issue in this appeal is whether the Appellant has made out a defence under subsection 227.1(3) of the Act.
+[24] In Soper v. Canada (C.A.), [1998] 1 F.C. 124 the Federal Court of Appeal stated the following:
+40 This is a convenient place to summarize my findings in respect of subsection 227.1(3) of the Income Tax Act. The standard of care laid down in subsection 227.1(3) of the Act is inherently flexible. Rather than treating directors as a homogeneous group of professionals whose conduct is governed by a single, unchanging standard, that provision embraces a subjective element which takes into account the personal knowledge and background of the director, as well as his or her corporate circumstances in the form of, inter alia, the company's organization, resources, customs and conduct. Thus, for example, more is expected of individuals with superior qualifications (e.g. experienced business-persons).
+41 The standard of care set out in subsection 227.1(3) of the Act is, therefore, not purely objective. Nor is it purely subjective. It is not enough for a director to say he or she did his or her best, for that is an invocation of the purely subjective standard. Equally clear is that honesty is not enough. However, the standard is not a professional one. Nor is it the negligence law standard that governs these cases. Rather, the Act contains both objective elements-embodied in the reasonable person language-and subjective elements-inherent in individual considerations like "skill" and the idea of "comparable circumstances". Accordingly, the standard can be properly described as "objective subjective".
+[25] The Appellant is a college graduate. He operated MFS since 1995. He was the only director and was involved in the day-to-day management of the company. He stated that he made all decisions and was responsible for remittances of source deductions.
+[26] During the period January 2002 to March 2003, MFS did not make any voluntary payments to CRA. It was only after he was contacted that the Appellant attempted to pay the source deductions by giving post-dated cheques to CRA. When he was asked if he took any steps to ensure that source deductions were remitted on time, the Appellant stated that he tried to screen his customers to those who could pay.
+[27] I find that the Appellant has not shown that he exercised the standard of care that is required by subsection 227.1(3) of the Act. He took no actions to prevent MFS’s failure to remit source deductions when they were due.
+[28] The appeal is dismissed.
+Signed at Ottawa, Canada this 24th day of April, 2008.
+"V.A. Miller"
+V.A. Miller, J.
+CITATION: 2008TCC234
+COURT FILE NO.: 2007-2539(IT)I
+STYLE OF CAUSE: Richard Ferdinand Moll v. The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 14, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie A. Miller
+DATE OF JUDGMENT: April 24, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Kandia Aird
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

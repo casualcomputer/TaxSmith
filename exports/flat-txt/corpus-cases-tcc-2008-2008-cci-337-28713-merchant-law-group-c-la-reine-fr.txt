@@ -1,0 +1,220 @@
+Title: Merchant Law Group c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28713/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-337-28713-merchant-law-group-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-06-13
+
+# Merchant Law Group c. La Reine
+
+- Citation: 2008 CCI 337
+- Decision date: 2008-06-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1438, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Merchant Law Group c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-13
+Référence neutre
+2008 CCI 337
+Numéro de dossier
+2004-4624(GST)G
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-4624(GST)G
+ENTRE :
+MERCHANT LAW GROUP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 28 et 29 avril 2008, à Regina (Saskatchewan)
+Devant l’honorable juge E. P. Rossiter
+Comparutions :
+Avocat de l’appelant :
+Me Anthony Merchant, c.r.
+Avocat de l’intimée :
+Me Lyle Bouvier
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise, relativement à la cotisation no 09ES0001653 se rapportant aux périodes de cotisation visant les années d’imposition 2000, 2001, 2002 et la période du 1er janvier au 30 avril 2003, est accueilli et l’affaire est renvoyée au ministre du Revenu national pour qu’il procède à un réexamen et à un nouveau calcul conformément aux motifs du jugement ci-joints.
+L’appelant a droit à ses dépens selon ce qui est établi aux présentes, auxquels s’ajoutent les débours et les taxes applicables.
+Signé à Ottawa, Canada, ce 13e jour de juin 2008.
+« E. P. Rossiter »
+Juge Rossiter
+Traduction certifiée conforme
+ce 2e jour de janvier 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2008CCI337
+Date : 20080613
+Dossier : 2004-4624(GST)G
+ENTRE :
+MERCHANT LAW GROUP,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Rossiter
+Introduction
+[1] Il s’agit d’un appel interjeté à l’égard d’une cotisation établie en vertu de la partie IX de la Loi sur la taxe d’accise (la « Loi ») pour les périodes de cotisation visant les années d’imposition 2000, 2001, 2002 et la période du 1er janvier au 30 avril 2003, pour lesquelles le ministre du Revenu national (le « ministre ») a établi à l’égard du cabinet d’avocats appelant une cotisation selon laquelle ce dernier doit approximativement 77 350 $ au titre de la taxe sur les produits et services (« TPS »). Le ministre a fait des ajustements quant à la TPS payable par l’appelant pour le motif que ce dernier a omis de percevoir et de verser la TPS sur les débours judiciaires, débours payés par l’appelant pour le compte de ses clients et presque exclusivement pris à même les fonds détenus en fiducie par l’appelant. Le ministre a en outre fait des ajustements quant aux crédits de taxe sur les intrants (« CTI ») de l’appelant et a soutenu qu’il y avait des erreurs comptables après avoir comparé le grand livre général de l’appelant et ses déclarations de TPS.
+Les faits
+[2] L’appelant est un cabinet d’avocats exerçant la pratique du droit, principalement en matière de litiges, notamment à Regina, en Saskatchewan. Il n’a pas perçu et versé la TPS sur certains débours judiciaires effectués pour le compte de ses clients, des débours qui ont ensuite été facturés aux clients ou payés à même les fonds des clients détenus en fiducie. Ces débours pour les clients étaient presque toujours payés à même les fonds des clients détenus en fiducie par l’appelant et ils incluaient des débours pour ce qui suit :
+1. des rapports d’évaluation;
+2. des rapports d’accidents de véhicules automobiles;
+3. des services de messagerie;
+4. des transcriptions;
+5. des rapports d’enquête;
+6. des dossiers d’hôpitaux;
+7. des rapports de sécurité et des certificats ou rapports de recherche;
+8. des rapports médicaux;
+9. des frais de stationnement;
+10. des frais de déplacement;
+11. des attestations de sécurité;
+12. des actes de mariage;
+13. des actes de naissance;
+14. des actes de décès.
+[3] Lorsqu’il a facturé ces débours à ses clients, l’appelant n’a pas ajouté de frais additionnels; il n’a modifié aucun des documents, c’est-à-dire les rapports, les transcriptions, les actes, qu’il a reçus par suite de ces débours. En pratique, tous les débours étaient payés à même les fonds versés à l’appelant par ses clients pour être détenus en fiducie, lesquels fonds étaient conservés séparément des fonds généraux du cabinet. Tous les débours étaient effectués selon les instructions du client et pour son compte pour la progression de l’affaire du client. Les documents obtenus par suite de ces débours demeuraient l’entière propriété des clients.
+[4] Dans certaines circonstances, lorsque les débours étaient peu élevés, comme des montants de 5 $ à 25 $ pour des actes, des frais de stationnement, etc., ils étaient payés à même les fonds du cabinet et étaient ensuite facturés au client; dans tous les autres cas, les débours étaient payés à même les fonds des clients détenus en fiducie. Les frais de messagerie, les frais de stationnement et les frais de déplacement étaient engagés par l’appelant expressément pour l’exécution de ses obligations légales pour le compte de ses clients; ils ne représentaient pas véritablement des dépenses pour le cabinet lui-même. Par exemple, si un avocat de l’appelant devait se rendre à Saskatoon en vue de procéder à un interrogatoire, les frais de déplacement étaient expressément les frais du client, alors que, lorsque l’avocat se déplaçait pour des affaires se rapportant au cabinet, comme des réunions du Barreau ou de la recherche de clients, il ne s’agissait pas de débours pour le client, mais plutôt de dépenses pour le cabinet.
+[5] L’appelant fournissait également des services professionnels pour le compte d’Aide juridique Manitoba. Aide juridique Manitoba a confirmé que les services fournis par l’appelant étaient payés par les fonds de la Couronne pour le compte du gouvernement du Manitoba et sont par conséquent exempts de TPS. Par conséquent, Aide juridique Manitoba ne payait pas à l’appelant la TPS qui lui était facturée sur certaines notes d’honoraires.
+[6] L’appelant engageait un comptable agréé externe après chaque fin d’exercice (31 décembre) pour procéder au rapprochement se rapportant à la TPS. En janvier de chaque année, ce comptable examinait les dossiers de TPS de l’appelant; il comparait les déclarations de TPS de l’appelant à son grand livre général. À la fin de l’examen, le comptable informait l’appelant si des montants additionnels de TPS étaient dus. Ce processus a été suivi en janvier 2004 pour l’exercice se terminant le 31 décembre 2003, et le comptable a conclu qu’un montant additionnel de TPS était dû; ce montant a été payé en janvier 2004.
+[7] Le comptable a en outre examiné la vérification faite par l’Agence du revenu du Canada (« ARC ») à l’égard des CTI de l’appelant pour 2000, 2001, 2002 et pour la période du 1er janvier au 30 avril 2003 et il a déterminé qu’un montant de 9 000 $ était dû à l’appelant. L’ARC a établi que le montant de CTI auquel l’appelant avait droit s’élevait à 25 515,66 $ plutôt qu’à 34 515,66 $ comme le soutenaient l’appelant et son comptable agréé externe.
+[8] Cet ajustement de 9 000 $ dans l’augmentation des CTI auxquels l’appelant soutient avoir droit résultait d’une analyse complète de toutes les factures en question pour toutes les années en cause, alors que la vérification de l’ARC s’appuyait seulement sur un échantillonnage de 40 p. 100 des factures.
+[9] L’intimée s’est fondée sur l’Énoncé de politique sur la TPS‑TVH no P‑209R de l’ARC lorsqu’elle a établi une nouvelle cotisation à l’égard de la TPS payable par l’appelant relativement aux débours judiciaires. Cet Énoncé de politique expose la différence entre les domaines de pratique du droit, puis énumère les débours pour lesquels l’avocat agit à titre de mandataire du client et n’a ainsi pas à percevoir et à verser la TPS. Apparemment, après que la vérification eut été achevée et qu’un avis d’opposition eut été déposé, l’appelant a fourni des renseignements additionnels et la cotisation a été ajustée pour tenir compte de CTI, la réduisant de 93 408,76 $ à 77 361,01 $. Les vérificateurs ont suivi la politique P‑209R sans y déroger.
+Les questions en litige
+[10] 1. L’appelant agissait-il à titre de mandataire de ses clients quant aux
+débours judiciaires effectués et, dans l’affirmative, ces débours étaient-ils assujettis à la TPS?
+2. Les services professionnels fournis par l’appelant à Aide juridique Manitoba sont-ils assujettis à la TPS?
+3. Quels sont les débours effectués par l’appelant, s’il y a lieu, exempts de TPS?
+4. À quels CTI additionnels, s’il y a lieu, l’appelant a-t-il droit?
+5. Quelles irrégularités comptables, s’il y a lieu, ont-elles été commises par l’ARC ou par l’appelant à l’égard des calculs de la TPS et des CTI?
+6. À quelle pénalité, s’il y a lieu, l’appelant est‑il tenu?
+[11] Les deux parties ont convenu que les questions 1 à 4 et la question 6 étaient les questions en litige qui avaient été soumises à la Cour au début de l’instance. Dans ses conclusions finales, l’appelant a soulevé la cinquième question.
+La position de l’appelant
+[12] L’appelant adopte la position selon laquelle il agissait, à tout moment, à titre de mandataire de ses clients et que, à cet égard, aucun des débours effectués pour le compte de ses clients n’était assujetti à la TPS. De plus, l’appelant adopte la position selon laquelle des notes d’honoraires adressées à l’aide juridique, notamment à Aide juridique Manitoba, sont exonérées de TPS suivant l’annexe V, de la partie V de la Loi. L’appelant soutient en outre qu’on ne lui a pas accordé le montant approprié de CTI. L’appelant avance de plus qu’il y avait des erreurs dans la comptabilité effectuée lors de la vérification par l’ARC lorsqu’elle a fait une comparaison entre son grand livre général et ses déclarations de TPS qui auraient dû être reflétées dans sa vérification. L’appelant soutient en outre que, compte tenu de tout ce qui précède et du fait qu’il n’y a eu aucune négligence ou action fautive volontaire de sa part, il n’est assujetti à aucune pénalité contrairement à ce qu’a avancé l’intimée.
+La position de l’intimée
+[13] L’intimée soutient que, bien qu’il y ait pu y avoir une relation de mandat entre le cabinet d’avocats appelant et ses clients, il y a certains débours judiciaires qui sont assujettis à la TPS, dont l’un inclut des comptes aux autorités de l’Aide juridique. L’intimée affirme en outre qu’on a accordé à l’appelant le montant approprié de CTI et elle nie de plus toute allégation d’erreurs comptables dans la vérification effectuée par l’ARC. Finalement, l’intimée prétend que l’appelant est assujetti à des pénalités pour avoir omis de verser le montant approprié de TPS.
+Le droit et l’analyse
+[14] Au début de l’instruction et dans ses conclusions finales, l’appelant a passé énormément de temps sur les hypothèses sur lesquelles se fondait le ministre et sur ce qu’est le fardeau initial et comment il peut être renversé. Ce domaine du droit a été établi dans Hickman Motors Ltd. c. Canada, [1997] 2 R.C.S. 336, un arrêt de la Cour suprême du Canada dans lequel madame la juge L’Heureux-Dubé, en commençant au paragraphe 92, a déclaré en partie ce qui suit :
+92 Il est bien établi en droit que, dans le domaine de la fiscalité, la norme de preuve est la prépondérance des probabilités : […], et que, à l’intérieur de cette norme, différents degrés de preuve peuvent être exigés, selon le sujet en cause, pour que soit acquittée la charge de la preuve : […]. En établissant des cotisations, le ministre se fonde sur des présomptions : […], et la charge initiale de « démolir » les présomptions formulées par le ministre dans sa cotisation est imposée au contribuable […]. Le fardeau initial consiste seulement à « démolir » les présomptions exactes qu’a utilisées le ministre, mais rien de plus : […].
+93 L’appelant s’acquitte de cette charge initiale de « démolir » l’exactitude des présomptions du ministre lorsqu’il présente au moins une preuve prima facie: […]. Il est établi en droit qu’une preuve non contestée ni contredite « démolit » les présomptions du ministre : […].
+94 Lorsque l’appelant a « démoli » les présomptions du ministre, le « fardeau de la preuve […] passe […] au ministre qui doit réfuter la preuve prima facie » faite par l’appelant et prouver les présomptions : […].
+95 Lorsque le fardeau est passé au ministre et que celui-ci ne produit absolument aucune preuve, le contribuable est fondé à obtenir gain de cause: […].
+La deuxième question en litige
+[15] Les services professionnels fournis par l’appelant à Aide juridique Manitoba sont-ils assujettis à la TPS?
+[16] Pendant les conclusions finales de l’appelant, l’intimée a reconnu que l’ARC avait eu tort d’établir une cotisation incluant la TPS sur les services professionnels fournis par l’appelant à Aide juridique Manitoba. L’intimée a reconnu qu’une révision à la baisse de 7 112,50 $ (feuille de travail #5500) était nécessaire dans la cotisation, plus l’intérêt, pour refléter le fait que la TPS ne s’appliquait pas aux services professionnels fournis par l’appelant à Aide juridique Manitoba.
+[17] Cette question particulière n’aurait jamais dû être soumise à la Cour. Elle aurait pu être facilement réglée, et elle aurait dû être ainsi réglée, par une simple demande de renseignements du ministre. Le ministre savait ou aurait dû savoir que la fourniture de services juridiques rendus dans le cadre d’un programme d’aide juridique administré ou autorisé par un gouvernement provincial et effectuée par l’administrateur du programme est exonérée de TPS, suivant l’annexe V de la partie V de la Loi. L’intimée a effectué une vérification incluant l’examen des factures de TPS et, par conséquent, elle aurait dû être tout à fait au courant des paiements faits par Aide juridique Manitoba; il s’agit clairement d’un aspect pour lequel l’intimée aurait dû se renseigner au cours du processus de vérification.
+Les première et troisième questions en litige
+[18] L’appelant agissait-il à titre de mandataire de ses clients quant aux débours judiciaires et, dans l’affirmative, ces débours étaient-ils assujettis à la TPS? Quels sont les débours effectués par l’appelant, s’il y a lieu, exempts de TPS?
+[19] L’ARC a révisé l’Énoncé de politique sur la TPS/TVH no P‑182R en juillet 2003 et elle a examiné le sens de l’expression « relation de mandat ». Cet énoncé remplace l’Énoncé de politique P‑182R daté du 23 juin 1995. Cet énoncé de politique administrative actuel expose expressément que les qualités essentielles d’une relation de mandat sont les suivantes :
+1. le consentement des deux parties;
+2. le pouvoir de la personne d’influer sur la situation juridique de l’autre partie;
+3. le contrôle de l’autre partie sur les actes de la personne.
+Les indices suivants sont des indices additionnels d’une relation de mandat :
+1. l’acceptation des risques;
+2. les pratiques comptables;
+3. la rémunération;
+4. l’obligation de moyens;
+5. l’altération du bien acquis;
+6. l’utilisation du bien ou du service;
+7. la responsabilité en vertu d’un contrat ou à l’égard d’un paiement;
+8. la propriété des biens.
+[20] Il va sans dire que la relation qui existe entre un avocat et son client est une relation de mandant et de mandataire. En l’espèce, la preuve montre que toutes les qualités essentielles qui constituent une relation de mandat sont présentes. L’appelant a fourni des éléments de preuve précis à l’égard de ses pratiques portant sur les débours judiciaires et sur la relation qui existe entre les avocats et leurs clients respectifs. La preuve a servi à établir qu’il existait une relation de mandat dans le présent cas particulier, comme il en existerait habituellement une dans tous les cas concernant un avocat et ses clients. La relation de mandat est encore plus présente dans le cas particulier qui nous occupe parce que presque tous les débours judiciaires ont été payés directement à même les fonds confiés en fiducie à l’appelant par les clients. La preuve établissait clairement que les types de débours suivants, effectués par l’appelant pour le compte de ses clients, ont été payés directement à même les fonds détenus en fiducie et qu’ils ont été effectués pour les clients et suivant leurs instructions sur consentement des deux parties, à savoir :
+des rapports d’évaluation;
+des rapports d’accidents de véhicules automobiles;
+des frais de messagerie;
+des frais de transcription;
+des rapports d’enquête;
+des dossiers d’hôpitaux;
+des rapports portant sur la sécurité;
+des rapports médicaux;
+des frais de stationnement;
+des frais de déplacement;
+des certificats de sécurité et de recherche;
+des actes de naissance;
+des actes de mariage;
+des actes de décès.
+[21] La preuve établit également clairement qu’aucun élément n’a été ajouté à ces débours et que l’appelant n’y a pas non plus fait d’altérations. De plus, les rapports, les actes, etc., que l’appelant a reçus demeurent la propriété du client et tous les frais ont été payés à même les fonds détenus en fiducie, sauf les débours peu élevés.
+[22] Lorsqu’il a établi la cotisation à l’égard de l’appelant, le ministre s’est fondé sur l’Énoncé de politique sur la TPS/TVH no P209R intitulé « Débours effectués par les avocats » qui énonce en partie ce qui suit :
+Décision En règle générale, l’Agence du revenu du Canada traite un débours décrit dans le présent énoncé de politique de la façon indiquée, à moins de preuves valables à l’effet contraire. Si, dans un cas précis, il existe des preuves valables selon lesquelles un débours donné devrait être traité différemment, la position générale adoptée dans le présent énoncé de politique ne s’appliquera pas à ce débours dans ce cas précis et une analyse distincte des faits entourant le débours en question devra être effectuée.[…] [Non souligné dans l’original.].
+La politique traite ensuite des débours qui seront effectués à titre de mandataire, ou qui ne seront pas effectués à titre de mandataire, dans divers domaines de la pratique du droit, notamment les biens immobiliers, la propriété intellectuelle, le droit commercial, le contentieux civil et les testaments et successions. Les débours courants désignés comme des débours « non effectués à titre de mandataire », – dans le domaine du contentieux civil constituent une préoccupation particulière dans cette politique. Dans ce domaine, la politique est irrationnelle et dénuée de sens. Par exemple, il est difficile de comprendre pourquoi des frais payés à un témoin, des frais payés pour la signification d’un document, des frais afférents aux services d’enregistrement, des frais de transcription, des frais de préparation de rapports d’experts, des frais de présence pour des témoins experts, des frais afférents à l’obtention d’une transcription de l’audience ou tous autres frais de cette nature, sont considérés comme moins effectués par un avocat à titre de mandataire de son client que le sont les frais pour le dépôt des actes de procédure à la Cour ou des frais d’enregistrement ou quoi que ce soit de cette nature. Il s’agit de dépenses nécessaires qui ne sont engagées qu’avec le consentement du client. La ligne de démarcation établie par l’ARC dans son Énoncé de politique P-209R entre les débours judiciaires « non effectués à titre de mandataire » et les débours judiciaires « effectués à titre de mandataire » semble être arbitraire et ne pas être étayée sur le plan juridique ou de façon évidente ne pas avoir fait l’objet de prévoyance. En fait, le seul témoin appelé par l’intimée lors de l’instruction, l’agent des appels, a fondamentalement dit, et l’intimée l’a admis, que cette politique était reine. On n’a demandé aucun avis à l’égard de l’application de cette politique ni aucune directive quant à la façon selon laquelle la politique s’applique au cas par cas. La politique a été appliquée automatiquement comme le vérificateur ou l’agent des appels l’ont estimé approprié sans tenir compte de la nature des débours ou d’autres facteurs résultant de la relation entre le mandant et son mandataire. Lorsqu’un débours n’est pas décrit dans l’énoncé de politique comme étant un débours exempt de TPS, l’ARC conclut automatiquement que la TPS s’applique. La politique a été suivie aveuglément sans tenir compte de la force de la preuve qui indiquerait le contraire. On aurait pu consulter quelqu’un possédant une certaine expérience dans le contentieux civil à l’égard de la question de savoir si les principes d’une relation de mandat s’appliquent dans une affaire comme celle soumise à la Cour.
+[23] Il ne fait aucun doute que l’appelant s’est acquitté du fardeau quant à la première question et que, ainsi, il a répondu à la troisième question. Après avoir examiné les débours effectués par les avocats pour chaque année faisant l’objet d’un appel, je suis convaincu que tous les débours des avocats présentés par l’appelant comme des débours qui sont contestés n’auraient pas dû être assujettis à la TPS et, à cet égard, l’appel sera accueilli (sauf pour ce qui a été déclaré aux présentes), relativement aux montants de 10 139,65 $ pour 2000, (feuille de travail no 5005), de 8 697,87 $ pour 2001, (feuille de travail no 5000), de 32 041,50 $ pour 2002, (feuille de travail no 5003), et de 9 795,16 $, (feuille de travail no 5004), pour la période du 1er janvier au 30 avril 2003. Après examen des diverses pièces produites relativement à cette question, presque tous les débours sont ventilés en frais de messagerie, de recherches, de rapports médicaux, de rapports d’évaluation, de rapports d’enquête, d’actes de mariage ou d’actes similaires, de transcriptions, de transcription des délibérations, de cotisation et d’une variété d’évaluations. On mentionne des frais de bureau et l’appel à l’égard de ces frais n’est pas accueilli, étant donné qu’aucun élément de preuve ni aucune explication n’ont été présentés à cet égard. Par conséquent, les débours judiciaires consistant en des frais de bureau sont assujettis à la TPS.
+Quatrième question en litige
+[24] À quels CTI additionnels, s’il y a lieu, l’appelant a-t-il droit?
+M. Brian Reynard, un comptable agréé externe, a été engagé par l’appelant pour examiner les CTI auxquels l’appelant croyait avoir droit pour les années en question. Son témoignage était clair et non contredit. Il a déclaré dans son témoignage que l’appelant a droit à 9 000 $ de plus en CTI que ce que l’ARC a accordé pour la période en question. Il a souligné qu’il avait calculé ce 9 000 $ en analysant la totalité des factures applicables, alors que l’ARC ne s’appuyait que sur l’analyse d’un échantillon de 40 p. 100 des factures. L’ARC a refusé d’ajuster les CTI admissibles à l’égard du demandeur après que l’analyse de M. Reynard eut été achevée. Je conclus que l’appelant s’est acquitté de son fardeau quant à cette question; l’intimée n’a pas contredit la preuve de l’appelant. L’appel à l’égard de cette question est accueilli dans la mesure où l’appelant se verra accorder des CTI d’un montant de 9 000 $ pour les années en question.
+La cinquième question en litige
+[25] Quelles irrégularités comptables, s’il y a lieu, ont-elles été commises par l’ARC ou par l’appelant relativement aux calculs de la TPS et des CTI?
+L’appelant faisait examiner ses livres chaque mois de janvier par un comptable agréé externe afin de savoir si le cabinet devait ou non de la TPS et, dans l’affirmative, un paiement était fait au cours du mois de janvier pour couvrir le solde dû en date du 31 décembre précédent. La Cour n’est pas en position de décider si des erreurs ont été commises dans la vérification de l’ARC sur ce point particulier. La preuve de l’appelant se rapportait à l’année se terminant le 31 décembre 2003, un paiement ayant été effectué à l’ARC en janvier 2004 pour un montant additionnel de TPS dû par l’appelant en date du 31 décembre 2003. La cotisation soumise à la Cour ne se rapporte pas à l’année se terminant le 31 décembre 2003, mais aux années 2000, 2001, 2002 et à la période du 1er janvier au 30 avril 2003. Il n’a été présenté à la Cour aucun élément de preuve permettant de réfuter la validité de la cotisation en ce qui concerne des erreurs comptables qui auraient été commises dans la vérification effectuée par l’ARC.
+La sixième question en litige
+[26] L’intimée avait demandé le paiement d’une pénalité suivant le paragraphe 280(1) de la Loi. Pour les années faisant l’objet d’un appel, ce paragraphe est rédigé comme suit :
+280.(1) Pénalité et intérêts -- Sous réserve du présent article et de l’article 281, la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer la pénalité et les intérêts suivants, calculés sur ce montant pour la période commençant le lendemain de l’expiration du délai et se terminant le jour du versement ou du paiement :
+a) une pénalité de 6 % par année;
+b) des intérêts au taux réglementaire.
+[27] Cette pénalité découle d’une obligation stricte et peut être contestée lorsque le contribuable démontre qu’il a agi avec une diligence raisonnable. L’appelant a relativement eu gain de cause dans l’appel et je crois que la preuve démontre que l’appelant a effectivement exercé une diligence raisonnable. L’appelant a demandé des directives à l’ARC lorsque le régime de la TPS a initialement été instauré et il n’a reçu que peu ou pas de réponses. L’appelant a produit ses déclarations de TPS avec régularité et il a fait les versements appropriés – parfois au-delà de ce qu’il devait. L’appelant faisait examiner annuellement son statut quant à la TPS à la fin de l’exercice et il faisait alors tous les ajustements additionnels requis. Par conséquent, je conclus qu’aucune pénalité ne s’applique suivant l’alinéa 280(1)a) de la Loi. Je confirme la cotisation au montant de 25 622,08 $ qui se rapporte à de la TPS impayée, sous réserve des ajustements sur les débours mentionnés aux présentes, des CTI additionnels accordés et de la TPS sur les frais de bureau, tous assujettis à un nouveau calcul des intérêts (aucune pénalité en vertu du paragraphe 280(1) n’est toutefois imposée) par conséquent dus sur le montant ajusté final, quel qu’il soit.
+Les dépens
+[28] L’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale) indique que la Cour a entière discrétion pour adjuger les frais et dépens aux parties à une instance, pour en déterminer la somme, pour les répartir et pour désigner les personnes qui doivent les supporter.
+[29] Dans l’exercice de ce pouvoir discrétionnaire, la Cour tient compte de divers facteurs, en particulier de ceux énumérés au paragraphe 147(3) des Règles de la Cour canadienne de l’impôt (procédure générale).
+a) Le résultat de l’instance :
+Des six questions soumises à la Cour (en fait, il y en avait seulement cinq puisque les première et troisième questions étaient liées), l’appelant a eu gain de cause quant à trois d’entre elles, dont l’une a fait l’objet d’une reconnaissance dans le cours de ses conclusions finales, et la deuxième, à savoir celle portant sur les débours judiciaires effectués à titre de mandataire n’aurait pas dû faire l’objet d’un débat lors de l’instance. La troisième question était la question du droit de l’appelant à des CTI additionnels. Étant donné que l’appelant a eu gain de cause sur ces trois points, la cotisation a dans les faits été réduite d’environ 60 700 $ sans tenir compte des intérêts.
+b) Les sommes en cause :
+Les sommes en cause étaient importantes, plus de 77 360 $, auxquels s’ajoutaient les pénalités et les intérêts.
+c) L’importance des questions en litige :
+Les questions en litige sont d’une extrême importance pour l’appelant, notamment compte tenu de la manière selon laquelle l’intimée a si rapidement perçu les fonds en question. L’intimée a bloqué le compte bancaire de l’appelant dans les 9 jours de la nouvelle cotisation; elle a pris la mesure à cet égard avant même que la période d’opposition dont bénéficiait l’appelant soit expirée. Il faut souligner que, bien que les mesures prises par l’intimée puissent sembler sévères, il est possible qu’elles aient résulté du manque de coopération de l’appelant. Il semble y avoir une preuve établissant qu’il y a eu deux appels téléphoniques de courtoisie faits à l’appelant, restés sans réponse, avant que la Couronne ne prenne des mesures quant aux comptes bancaires de l’appelant.
+d) Offre de règlement présentée par écrit :
+Rien n’indique que quelque offre de règlement ait été présentée par écrit par l’une ou l’autre partie.
+e) Charge de travail :
+La présente affaire a nécessité une quantité appréciable de travail de préparation pour l’instance. Il s’agissait d’une affaire complexe quant à la quantité de documents et de documents liés qui devaient être présentés afin d’assurer un déroulement approprié quant à la preuve.
+f) La complexité des questions en litige :
+La question en litige portant sur la TPS applicable sur les notes d’honoraires adressées à l’aide juridique et la question se rapportant aux débours judiciaires effectués par un avocat à titre de mandataire de son client n’étaient pas des questions complexes et ne devraient pas être classifiées comme des questions complexes. La question se rapportant au droit à des CTI additionnels et la question traitant des erreurs qui auraient été commises dans la vérification de l’ARC n’étaient pas non plus des questions complexes. Toutefois, il y avait certains points complexes dans la préparation et la présentation de la preuve lors de l’instruction par les témoins de deux parties.
+g) La conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance :
+Je crois que l’intimée a contribué inutilement à la durée de l’instance du fait de ne pas avoir admis plus tôt la question de la TPS sur les notes d’honoraires de l’aide juridique et du fait de ne pas avoir effectué une analyse en profondeur à l’égard de l’applicabilité de la relation de mandant-mandataire à la situation de l’appelant et de ses clients, une question qui a occupé la majeure partie de l’instruction. L’appelant a contribué inutilement à la durée de l’instance du fait de sa requête préliminaire et de sa plaidoirie portant sur le fardeau de la preuve, la nature de ce fardeau et le moment où il est renversé.
+h) La dénégation d’un fait par une partie ou sa négligence ou son refus de l’admettre, lorsque ce fait aurait dû être admis :
+Mes commentaires à l’égard du point g) s’appliquent et je ne les répéterai pas.
+i) La question de savoir si une étape de l’instance était inappropriée, vexatoire ou inutile ou a été accomplie de manière négligente, par erreur ou avec trop de circonspection :
+Je crois que la requête présentée par l’appelant au début de l’instruction était inutile quant à la question du fardeau étant donné que ce point est clairement établi en droit et a été tranché par la Cour suprême du Canada.
+j) Toute autre question pouvant influer sur la détermination des dépens :
+Je suis d’avis que les parties auraient pu régler la présente affaire sans s’adresser à la Cour ou, à défaut, qu’elles auraient certainement pu réduire la durée de l’instruction si elles avaient présenté les deux versions des faits d’une manière plus structurée.
+[30] Compte tenu de tout ce qui précède, j’accorde à l’appelant ses dépens s’élevant à 5 500 $, qui représentent 55 p. 100 de ce que la Cour estime être les dépens taxés entre parties de l’appelant suivant le tarif B, auxquels s’ajoutent des débours raisonnables et les taxes applicables.
+[31] L’appel est accueilli en partie et l’affaire est renvoyée au ministre pour qu’il procède à un réexamen et à un nouveau calcul prenant en compte ce qui suit :
+(1) L’appelant n’est pas tenu de payer la TPS sur les débours comme cela est décrit dans les feuilles de travail portant les numéros 5005, 5000, 5003 et 5004 de la vérification, selon la pièce R‑2, et selon ce qui est mentionné au paragraphe 23 des présentes, à l’exception des éléments décrits dans les feuilles de travail comme des frais de bureau et à l’exception des ajustements additionnels qui ont déjà été effectués au crédit de l’appelant à l’égard des débours.
+(2) L’appelant n’est pas tenu de payer la TPS sur les notes d’honoraires de l’aide juridique selon ce qui est décrit dans la feuille de travail no 5500 de la vérification, selon la pièce R‑2;
+(3) L’appelant aura droit à des CTI d’un montant additionnel de 9 000 $ pour les années d’imposition 2000, 2001, 2002 et pour la période du 1er janvier au 30 avril 2003, en plus de ceux lui ayant déjà été accordés.
+(4) L’appelant n’est pas assujetti à des pénalités suivant l’alinéa 280(1)a) de la Loi, mais des intérêts sont payables suivant l’alinéa 280(1)b) et seront calculés en conséquence.
+(5) L’appelant a droit à ses dépens selon ce qui est établi aux présentes, auxquels s’ajouteront les débours et les taxes applicables.
+Signé à Ottawa, Canada, ce 13e jour de juin 2008.
+« E. P. Rossiter »
+Juge Rossiter
+Traduction certifiée conforme
+ce 2e jour de janvier 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2008CCI337
+No DU DOSSIER DE LA COUR : 2004-4624(GST)G
+INTITULÉ : MERCHANT LAW GROUP ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Regina (Saskatchewan)
+DATE DE L’AUDIENCE : Les 28 et 29 avril 2008
+MOTIFS DU JUGEMENT : L’honorable juge E. P. Rossiter
+DATE DU JUGEMENT : Le 13 juin 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Anthony Merchant, c.r.
+Avocat de l’intimée :
+Me Lyle Bouvier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Anthony Merchant, c.r.
+Cabinet : Merchant Law Group
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

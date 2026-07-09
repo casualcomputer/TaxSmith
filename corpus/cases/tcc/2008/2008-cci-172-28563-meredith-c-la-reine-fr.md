@@ -1,0 +1,155 @@
+---
+title: "Meredith c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28563/index.do"
+last_modified: "2008-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 172"
+citation2: ""
+neutral_citation: "2008 CCI 172"
+decision_date: "2008-03-26"
+language: "fr"
+item_id: "28563"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1096
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:58:13.252000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5234cdedfa7e5dd44e90f20b7c27c5495668370faae23e3cec00ab95853968bc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Meredith c. La Reine
+
+- Citation: 2008 CCI 172
+- Decision date: 2008-03-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1096, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Meredith c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-03-26
+Référence neutre
+2008 CCI 172
+Numéro de dossier
+2006-3353(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3353(IT)G
+ENTRE :
+JOAN M. MEREDITH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 5 mars 2008, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Samantha Hurst
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par l’intimée afin d’obtenir une ordonnance de la Cour annulant l’appel déposé par l’appelante contre la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 de l’appelante;
+La requête est accueillie, sans frais, et l’appel de l’appelante est annulé.
+Signé à Halifax (Nouvelle-Écosse), ce 26e jour de mars 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 8e jour de mai 2008.
+Aleksandra Koziorowska
+Référence : 2008CCI172
+Date : 20080326
+Dossier : 2006-3353(IT)G
+ENTRE :
+JOAN M. MEREDITH,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] La question en l’espèce consiste à savoir si l’appel déposé par l’appelante contre la cotisation établie à son égard pour l’année d’imposition 2001 devrait être annulé parce que le montant déduit par l’appelante au titre du crédit d’impôt pour frais médicaux en 2001 se fondait sur un montant déjà pris en considération par la Cour dans une décision rendue en 2005 au sujet d’un crédit d’impôt pour frais médicaux demandé par l’appelante en 2000.
+[2] Le point soulevé par l’appelante dans l’appel visant la cotisation établie à son égard pour l’année d’imposition 2001 est le suivant :
+[TRADUCTION]
+Il faut décider en l’espèce si j’ai droit à un crédit d’impôt non remboursable pour frais médicaux relativement à une fraction quelconque des frais médicaux de 112 547,45 $ dont la déduction a été refusée pour l’année d’imposition 2001.
+Ce montant de 112 547,45 $ est le solde du montant payé en 2001 pour un logement accessible en fauteuil roulant, qui peut être ventilé comme suit :
+Solde dû 232 247,45 $ - ce montant n’inclut pas les frais médicaux acceptés pour l’année 2000
+Moins 120 000 $, soit la valeur marchande de l’ancien condo à la date de la vente
+Ce qui donne un solde de 112 547,45 $ payé en 2001.
+[3] Je présume que le montant à payer de 232 247,45 $ devrait se lire 232 547,45 $.
+[4] L’appelante a confirmé que les montants susmentionnés précisés dans son avis d’appel pour l’année 2001 ont trait à l’achat d’une unité condominiale au prix de 302 000 $ et qu’il s’agit de la même unité condominiale qui a été l’objet du crédit d’impôt pour frais médicaux demandé par l’appelante en 2000. La date de clôture provisoire pour l’achat de cette unité condominiale était le 14 août 2000. À cette date, l’appelante a fourni au vendeur une première hypothèque de 226 500 $ qui a été réglée par l’appelante en janvier 2001. Le montant qu’elle indique dans sa déclaration de revenu pour 2001 se fonde sur ce qu’elle a payé en janvier au vendeur en vertu de cette première hypothèque. Il semble que le montant versé (232 547,45 $) représentait le principal de 226 500 $ plus les intérêts.
+[5] L’appelante avait antérieurement déduit un montant au titre des frais médicaux engagés en 2000 relativement à l’achat de cette même unité condominiale. Cette déduction a fait l’objet d’un appel devant la Cour, et la décision de celle‑ci a été publiée sous les références [2005] A.C.I. no 669, 2007 CCI 694, 2008 DTC 2135 et 162 A.C.W.S. (3d) 848. Dans sa décision, le juge Paris s’est exprimé en ces termes :
+[14] Dans sa déclaration de revenus de l’an 2000, Mme Meredith a déduit la différence entre le coût de la nouvelle unité condominiale, de 302 000 $, et la valeur de son ancienne unité condominiale, qui s’élevait à 122 500 $, au titre de frais médicaux en vertu du paragraphe 118.2(2)l.21) de la Loi de l’impôt sur le revenu […]
+[38] L’appelante soutient que la valeur ou le coût de l’ancienne résidence devrait être considéré comme le montant de base et que les frais supplémentaires ou additionnels mentionnés au paragraphe 118.2(2)l.21) correspondent aux frais de construction d’une nouvelle résidence que le contribuable doit engager en sus du montant qu’il aurait réalisé par suite de la vente de l’ancienne résidence.
+[39] En l’espèce, l’appelante a payé la différence entre le prix de la nouvelle résidence et la valeur de l’ancienne résidence uniquement afin d’avoir accès à sa résidence, de s’y déplacer ou d’y accomplir les tâches de la vie quotidienne.
+[40] À mon avis, il faut retenir l’interprétation proposée par l’avocat de l’intimée. Cette interprétation tient compte du fait que ce ne sont pas tous les frais de construction d’une résidence conçue pour une personne ayant un handicap moteur qui peuvent être considérés comme ayant été engagés afin de permettre à cette personne d’avoir accès à sa résidence, de s’y déplacer ou d’y accomplir les tâches de la vie quotidienne.
+[41] Il semble que l’objet législatif soit d’accorder un certain allégement pour les frais afférents aux modifications et commodités nécessaires qu’il faut engager en construisant une résidence pour une personne ayant un handicap moteur, plutôt que pour la totalité des frais de construction.
+[42] Mme Meredith cherche uniquement à déduire la différence entre la valeur de son ancienne résidence et le coût de la nouvelle résidence, mais, selon l’interprétation de la disposition qu’elle préconise, la totalité des frais de construction serait déductible dans le cas d’une personne qui n’était pas antérieurement propriétaire d’une résidence.
+[43] Tous les frais de construction seraient des frais supplémentaires pour une personne se trouvant dans cette situation. Je ne crois pas que telle était l’intention du législateur lorsqu’il a édicté le paragraphe 118.2(2)l.21).
+[44] En l’espèce, il s’agit de déterminer les frais supplémentaires que Mme Meredith a engagés pour ce que j’appellerai les équipements facilitant l’accès à sa nouvelle résidence.
+[45] Ces équipements étaient importants, et je reconnais que les frais y afférents seraient élevés.
+[46] Selon la preuve, Mme Meredith a visité un grand nombre d’appartements situés dans son quartier lorsqu’elle a décidé qu’elle devait déménager. Elle a déclaré que les unités condominiales existantes de deux chambres à coucher étaient semblables à sa nouvelle résidence, quant à la superficie et à l’emplacement, mais qu’elles ne comportaient pas d’équipements facilitant l’accès et que leur prix de vente variait de 210 000 à 230 000 $.
+[47] Je reconnais que la différence de prix entre ces appartements et la nouvelle unité condominiale était en bonne partie attribuable aux équipements additionnels qui ont été mentionnés et que le coût de ces équipements additionnels allait de 72 000 à 92 000 $.
+[48] Je retiens la limite inférieure de cette fourchette comme représentant le coût le plus probable, étant donné qu’il faut effectuer certains rajustements compte tenu du fait que la résidence de Mme Meredith était neuve, alors que les appartements comparables dont Mme Meredith a fait mention n’étaient pas neufs, ainsi que du fait que l’acquéreur d’une nouvelle résidence paie un certain supplément pour une construction neuve.
+[49] Par conséquent, eu égard à la preuve dans son ensemble, je conclus que Mme Meredith a droit à un crédit d’impôt additionnel pour frais médicaux au motif qu’un montant de 72 000 $ sur le coût de la nouvelle résidence est admissible au titre des frais médicaux en vertu du paragraphe 118.2(2)l.21) de la Loi.
+[6] Par conséquent, il est clair à la lecture de la décision du juge Paris qu’il a fixé la partie du prix d’achat de 302 000 $ à payer par l’appelante pour son unité condominiale qui devait être admise à titre de frais médicaux pour l’année 2000. En conséquence, le présent appel, qui est basé sur le montant payable pour la même unité condominiale qui a été inclus dans le prix d’achat de 302 000 $, soulève une question qui a déjà été tranchée. L’appelante ne peut traiter le montant payé sur sa première hypothèque comme s’il s’agissait d’un montant séparé, parce qu’il est relié à l’acquisition de la même unité condominiale qui a été l’objet d’une instance antérieure instruite par la Cour et que ce montant a déjà été inclus dans le prix d’achat de 302 000 $ pris en considération par le juge Paris.
+[7] Dans l’arrêt Apotex Inc. v. Merck & Co., 19 C.P.R. (4th) 163, la Cour d’appel fédérale a déclaré ce qui suit :
+[24] Les principes concernant l’autorité de la chose jugée ont été établis par deux arrêts de principe de la Cour suprême du Canada : Angle c. M.R.N., [1975] 2 R.C.S. 248, 47 D.L.R. (3d) 544, et Grandview (Ville de) c. Doering, [1976] 2 R.C.S. 621, 61 D.L.R. (3d) 455. Dans l’arrêt Angle, précité, le juge Dickson a noté, à la page 254, que la chose jugée s’applique fondamentalement à deux formes d’irrecevabilité, soit l’irrecevabilité pour identité des causes d’action et l’irrecevabilité pour identité des questions en litige, qui reposent toutes les deux sur des principes similaires. Premièrement, tout litige doit avoir une fin et deuxièmement, une personne ne doit pas être poursuivie deux fois pour la même cause d’action.
+[25] Ces deux formes d’irrecevabilité, identiques au plan des principes, sont différentes dans leur application. L’irrecevabilité pour identité des causes d’action interdit à une personne d’intenter une action contre une autre personne dans le cas où la cause d’action a fait l’objet d’une décision finale d’un tribunal compétent. L’irrecevabilité pour identité des questions en litige est plus large et s’applique à des causes d’action distinctes. Elle est censée intervenir lorsqu’une même question a déjà été tranchée, que la décision judiciaire donnant lieu à l’irrecevabilité est finale et que les parties à la décision judiciaire ou leurs ayants droit sont les mêmes que les parties à l’instance où est soulevée la question de l’irrecevabilité (voir l’arrêt Carl Zeiss Stiftung v. Rayner & Keeler Ltd. (No. 2), [1967] 1 A.C. 853, à la page 93, cité par le juge Dickson dans l’arrêt Angle, précité, à la page 254).
+[8] L’autorisation de former un pourvoi contre cet arrêt devant la Cour suprême du Canada a été refusée ([2002] C.S.C.R. no 323).
+[9] Dans la présente affaire, puisque la partie du prix d’achat de 302 000 $ de la nouvelle unité condominiale qui peut être déduite à titre de frais médicaux a déjà été fixée dans une décision de la Cour, tout autre recours exercé par l’appelante visant l’utilisation du crédit d’impôt pour frais médicaux relativement à une partie quelconque du prix d’achat de 302 000 $ de cette unité condominiale est irrecevable.
+[10] Par conséquent, la requête de l’intimée est accueillie, sans frais, et l’appel de l’appelante à l’égard de son année d’imposition 2001 est annulé.
+Signé à Halifax (Nouvelle-Écosse), ce 26e jour de mars 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 8e jour de mai 2008.
+Aleksandra Koziorowska
+RÉFÉRENCE : 2008CCI172
+NO DU DOSSIER DE LA COUR : 2006-3353(IT)G
+INTITULÉ : Joan M. Meredith et La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 5 mars 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 26 mars 2008
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Samantha Hurst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

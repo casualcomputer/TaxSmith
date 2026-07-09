@@ -1,0 +1,137 @@
+Title: Madhollal c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30043/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-524-30043-madhollal-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-10-27
+
+# Madhollal c. La Reine
+
+- Citation: 2010 CCI 524
+- Decision date: 2010-10-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7705, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Madhollal c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-10-27
+Référence neutre
+2010 CCI 524
+Numéro de dossier
+2010-1714(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1714(IT)I
+ENTRE :
+SEETA MADHOLLAL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 6 et 7 octobre 2010, à Toronto (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelante :
+M. Glen Lancaster
+Avocate de l’intimée :
+Me Samantha Hurst
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 est rejeté.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2010.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 17e jour de décembre 2010.
+Marie-Christine Gervais
+Référence : 2010 CCI 524
+Date : 20101027
+Dossier : 2010-1714(IT)I
+ENTRE :
+SEETA MADHOLLAL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 7 octobre 2010, à Toronto, Ontario.)
+La juge V.A. Miller [1] L’appelante a fait l’objet, pour les années d’imposition 2004 et 2005, d’une nouvelle cotisation d’impôt établie selon la méthode de la valeur nette qui visait à inclure dans ses revenus des montants de 24 688 $ et de 36 834 $, respectivement. Elle s’est aussi vue imposer des pénalités pour faute lourde au titre du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Dans ses déclarations de revenus de 2004 et de 2005, l’appelante a déclaré les revenus totaux suivants :
+2004
+2005
+Revenu de location
+3 721,91 $
+-
+Revenu net d’entreprise
+14 662,32 $
+8 067,00 $
+Revenu total
+18 384,23 $
+8 067,00 $
+[3] L’appelante était représentée par son comptable, Glen Lancaster. L’appelante, son époux, Puran Lall, et Josephine Datu, vérificatrice à l’Agence du revenu du Canada (l’« ARC »), ont témoigné à l’audience.
+[4] L’appelante conteste les calculs effectués dans le cadre de l’analyse de sa valeur nette et elle renvoie à plusieurs écritures. Elle soutient que la Lexus et la fourgonnette GMC figurant dans la liste de ses biens personnels n’étaient pas immatriculées à son nom et devaient être supprimées du relevé de la valeur nette. Jusqu’à ce qu’elle fasse l’achat de la Mercedes-Benz en 2005, elle n’était propriétaire d’aucun véhicule. En 2003 et en 2004, le relevé de la valeur nette devrait tenir compte du fait qu’elle détenait la résidence sise au 7283, rue Sigsbee, (l’« ancienne résidence ») conjointement avec son frère, Rabindra, et qu’elle n’en était pas l’unique propriétaire. Elle conteste aussi de nombreux montants inscrits dans la feuille de calcul des dépenses personnelles, affirmant qu’ils étaient trop élevés, et afin d’appuyer ses dires elle a présenté des factures d’électricité, de gaz et d’eau pour la période en cause.
+[5] Dans son témoignage, l’appelante a déclaré qu’elle avait eu accès à des fonds qui ne figuraient pas dans les relevés de la valeur nette. En 2004 et en 2005, elle a reçu un revenu pour la location de trois des étages de son ancienne résidence à une autre famille. Toujours en 2005, elle a reçu 15 000 $ en héritage de sa mère. Elle a reçu cet héritage par l’entremise de son frère et a déposé les fonds dans son compte bancaire personnel. En 2005, elle a utilisé cet argent pour faire l’achat de la Mercedes-Benz.
+[6] En novembre 2005, son frère et elle ont vendu l’ancienne résidence à son fils aîné et à son autre frère, Rameshwar. Avec les profits réalisés sur la vente de l’ancienne résidence (96 000 $) et une marge de crédit personnelle de 15 000 $, l’appelante a fait l’achat d’une maison située au 6860, Golden Hills Way (la « nouvelle résidence »). Son frère lui a prêté sa part des profits, laquelle devrait apparaître, avec la marge de crédit, dans le relevé de la valeur nette en tant qu’élément de passif.
+[7] L’appelante a déclaré qu’en 2004 et en 2005, elle exploitait une entreprise appelée AOL Appliances Service (« AOL »). En 2004, elle était l’unique propriétaire de cette entreprise alors qu’en 2005, elle exploitait l’entreprise avec des associés. AOL effectuait l’entretien et la réparation de gros appareils ménagers comme des cuisinières, des réfrigérateurs, des machines à laver, des sécheuses et des lave‑vaisselle. L’entreprise avait pour seuls employés l’appelante, son époux et ses deux fils. L’appelante répondait aux appels des clients et son époux effectuait les réparations avec l’aide de leurs fils.
+[8] D’après le témoignage de l’appelante, elle et son époux s’étaient séparés en 2001 et avaient repris la vie commune en 2005. Avant leur réconciliation, il arrivait à époux de donner de l’argent à leurs fils. En 2004, ces derniers étaient âgés de 18 et 15 ans.
+Analyse
+[9] La méthode de la valeur nette en est une qu’utilise le ministre du Revenu national (le « ministre ») lorsqu’un contribuable a omis de produire une déclaration de revenus ou qu’il a produit une déclaration manifestement inexacte et qu’il n’a pas conservé de documents, ou seulement des documents incomplets. Il s’agit d’une méthode insatisfaisante pour calculer le revenu d’un contribuable mais, parfois, c’est la seule qui s’offre au ministre. Comme le remarque le juge Bowman, devenu plus tard juge en chef, dans l’affaire Bigayan v. La Reine, [2000] 1 C.T.C. 2229, au paragraphe 2 :
+[2] [...] C’est un instrument imprécis, exact à l’intérieur d’un registre dont le champ est indéterminé. Elle repose sur le postulat selon lequel, si l’on soustrait la valeur nette d’un contribuable en début d’année à sa valeur nette en fin d’année, si l’on ajoute les dépenses du contribuable durant l’année et si l’on soustrait les encaissements non imposables et les plus-values d’actifs existants, alors le résultat net, après déduction de toute somme déclarée par le contribuable, doit être attribuable au revenu non déclaré gagné durant l’année, sauf si le contribuable peut apporter une preuve contraire. C’est au mieux une méthode insatisfaisante, qui est arbitraire et inexacte, mais quelquefois c’est le seul moyen d’arriver à un chiffre qui se rapproche du revenu d’un contribuable.
+[3] Le meilleur moyen de contester une cotisation fondée sur la valeur nette est de produire la preuve de ce qu’est véritablement le revenu du contribuable. Un moyen moins satisfaisant, mais néanmoins acceptable, est décrit par le juge Cameron dans l’affaire Chernenkoff v. Minister of National Revenue, 49 DTC 680, à la page 683 :
+[Traduction]
+En l’absence de documents, l’autre moyen offert à l’appelant consistait à prouver que, même après une application en règle de la formule de la valeur nette, les cotisations étaient erronées.
+[10] Il suffit au ministre de montrer que la valeur nette du contribuable a augmenté entre deux dates données. Il n’a pas à prouver l’existence d’une source de revenu imposable[1].
+[11] Dans bien des cas, lorsqu’il est fait appel à la cotisation de valeur nette, l’affaire est tranchée en fonction de la crédibilité de la partie appelante et des témoins ainsi que des raisons qu’ils fournissent pour expliquer pourquoi les calculs du ministre sont incorrects. Nous avons affaire, en l’espèce, à un cas du genre, et ma décision dépendra de l’appréciation que je ferai de la crédibilité des témoins, car l’appelante n’a fourni que peu de documents. Au paragraphe 23 de l’affaire Nichols c. La Reine, 2009 CCI 334, je traite des critères dont il est possible de tenir compte pour évaluer la crédibilité du témoin :
+[23] En matière de crédibilité, je peux tenir compte des incohérences ou des faiblesses que comporte le témoignage des témoins, y compris les incohérences internes (si le témoignage change pendant que le témoin est à la barre ou s’il diverge du témoignage rendu à l’interrogatoire préalable), les déclarations antérieures contradictoires et les incohérences externes (soit lorsque le témoignage est incompatible avec des éléments de preuve indépendants que j’ai acceptés). Il m’est ensuite loisible d’apprécier l’attitude et le comportement du témoin. Troisièmement, je peux rechercher si le témoin a des raisons de rendre un faux témoignage ou d’induire la Cour en erreur. Enfin, je peux prendre en compte la teneur générale de la preuve. C’est-à-dire que j’ai toute la latitude pour rechercher si l’examen du témoignage à la lumière du sens commun donne à penser que les faits exposés sont impossibles ou hautement improbables.
+[12] Appliquant ces critères aux témoignages, j’en conclus que l’appelante n’a pas produit de preuve convaincante permettant de contester le relevé de la valeur nette. Après avoir examiné la preuve, je constate que de nombreuses questions restent sans réponse. L’appelante a fait des déclarations et son représentant a présenté des arguments qui auraient dû être appuyés par des documents, si de tels documents existaient.
+[13] L’époux de l’appelante, Puran Lall, est technicien en entretien et en réparation d’appareils ménagers. Avant 2004, il exploitait une entreprise individuelle portant le nom d’AOL Canada Refrigeration. Cette entreprise offrait elle aussi des services de réparation d’appareils ménagers.
+[14] Le 30 juillet 2004, M. Lall a fait cession de ses biens à un syndic de faillite; il a été libéré de sa faillite en juillet 2005. Dans son témoignage, l’appelante a mentionné qu’après avoir fait faillite, son époux avait travaillé pour elle, et ce, jusqu’à ce qu’il soit libéré. En revanche, M. Lall a témoigné qu’en 2004, il travaillait pour son frère et qu’en 2005, il travaillait pour l’appelante.
+[15] La déclaration de revenus produite pour la période de 2004 antérieure à la faillite par le syndic pour le compte de M. Lall montre qu’il a déclaré des revenus de 6 765 $ provenant d’AOL Canada Refrigeration. La déclaration de 2004 relative à la période de 2004 postérieure à la faillite montre que M. Lall a reçu des revenus d’emploi de 12 795 $ d’AOL Appliances Service. La déclaration de revenus de l’appelante pour 2004 montre que AOL Appliances Service a versé 12 795 $ à un employé pour l’année. J’en conclus que M. Lall a travaillé pour l’appelante en 2004.
+[16] Le ministre a calculé les dépenses personnelles de l’appelante en fonction d’un ménage de quatre personnes. Dans son témoignage, l’appelante a affirmé qu’en 2004, son époux et elle étaient séparés et qu’ils l’avaient été jusqu’à la fin de 2005. Les dépenses personnelles auraient donc dû être calculées en fonction d’un ménage de trois personnes. M. Lall a déclaré que l’appelante et lui s’étaient séparés en 1994, alors que, selon l’appelante, la séparation a eu lieu en 2001. Je note que l’adresse qui figure dans la déclaration de 2004 produite avant la faillite pour le compte de M. Lall est celle de l’ancienne résidence et le numéro de téléphone, celui de l’appelante[2]. J’ai donc conclu que l’appelante et M. Lall vivaient ensemble en 2004 et en 2005 et que le ministre a eu raison d’effectuer ses calculs en fonction d’un ménage de quatre personnes.
+[17] Le représentant de l’appelante a fait valoir que la valeur de la Lexus et de la fourgonnette GMC ne devraient pas figurer dans les calculs du relevé de la valeur nette. Cependant, leur valeur est constante pour chacune des années de sorte qu’ils ne font pas augmenter l’écart quant à la valeur nette. De plus, j’ai conclu que M. Lall faisait partie du ménage de l’appelante pendant les années en cause et que les calculs relatifs à la valeur nette devaient tenir compte de tous les membres du ménage.
+[18] Si j’acquiesçais à la demande de l’appelante de retrancher la moitié de la valeur de l’ancienne résidence du calcul de la valeur nette, il faudrait aussi que je retranche la moitié des dettes associées à ce bien, ce qui aurait comme conséquence que les revenus non déclarés en 2004 seraient réduits à 23 904,22 $ tandis que les revenus non déclarés en 2005 passeraient à 83 177,40 $. Cette forte augmentation est attribuable à la diminution de la valeur nette de l’appelante en 2004 et de l’accroissement de sa valeur nette en 2005 par suite de l’achat d’une Mercedes-Benz d’une valeur de 73 692 $ et d’une nouvelle résidence évaluée à 554 136 $.
+[19] À un moment, dans son témoignage, l’appelante a déclaré avoir reçu une somme en héritage de sa mère, somme qu’elle aurait déposée dans son compte bancaire. On ne m’a pas montré les relevés bancaires permettant de vérifier cette affirmation. Plus tard, l’appelante a mentionné qu’elle avait reçu les 15 000 $ d’héritage sous forme d’un échange dont elle a décrit la méthode. Elle aurait reçu l’héritage en argent comptant et en paiements de 500 $ échelonnés sur une certaine période.
+[20] Mme Datu a déclaré avoir rencontré l’appelante et son époux. L’appelante ne lui a pas mentionné l’héritage reçu.
+[21] Soit dit en passant, j’ai trouvé curieux qu’au moment où l’appelante et son frère ont vendu l’ancienne résidence, leur avocat ait adressé toutes ses lettres à M. et Mme Madhollal. L’appelante et Rabindra Madhollal ont signé la formule de reconnaissance et de directive dans laquelle ils ont confirmé être mari et femme. Après avoir passé en revue l’ensemble de la preuve, je reste avec l’impression gênante que toute la vérité n’a pas été révélée dans cette affaire.
+[22] L’appelante n’a pu me convaincre que l’estimation de ses dépenses personnelles était incorrecte. Dans son témoignage, Mme Datu a déclaré s’être servie des estimations que l’appelante et son époux lui avaient remises. Les estimations utilisées pour le logement ont été tirées de la déclaration de revenus produite par l’appelante pour 2005.
+Pénalités
+[23] Par rapport au revenu déclaré, le montant des revenus non déclarés est considérable. Dans son rapport recommandant une pénalité, Mme Datu note que les revenus non déclarés représentent respectivement 39 % et 56 % des revenus déclarés en 2004 et en 2005. De plus, l’appelante a fait appel aux services d’un spécialiste en déclarations de revenus. Elle a exercé un contrôle sur l’information fournie pour établir ses déclarations de revenus. Compte tenu de l’ensemble de la preuve, je suis convaincue que l’omission de l’appelante de déclarer ses revenus « est attribuable à une tromperie délibérée […] de l’état véritable de ses affaires, et qu’il y a eu l’intention de dissimuler des sources imposables de revenu »[3].
+[24] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 27e jour d’octobre 2010.
+« V.A. Miller »
+Juge V.A. Miller
+RÉFÉRENCE : 2010 CCI 524
+NO DU DOSSIER DE LA COUR : 2010-1714(IT)I
+INTITULÉ : SEETA MADHOLLAL c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Les 6 et 7 octobre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 27 octobre 2010
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Glen Lancaster
+Avocate de l’intimée :
+Me Samantha Hurst
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Hsu v. The Queen, 2001 D.T.C. 5459
+[2] Voir le formulaire d’identification de faillite, pièce R-2, et la facture de l’achat de la Mercedes‑Benz.
+[3] Dao c. La Reine, 2010 CCI 84

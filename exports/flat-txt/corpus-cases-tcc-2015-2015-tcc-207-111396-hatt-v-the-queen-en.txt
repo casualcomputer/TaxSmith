@@ -1,0 +1,225 @@
+Title: Hatt v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/111396/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-207-111396-hatt-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-08-19
+
+# Hatt v. The Queen
+
+- Citation: 2015 TCC 207
+- Decision date: 2015-08-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2630, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hatt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-08-19
+Neutral citation
+2015 TCC 207
+File numbers
+2013-2904(IT)I
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2904(IT)I
+BETWEEN:
+JANET HATT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 14, 2013 and September 3, 2014, at Yarmouth, Nova Scotia, and written submissions filed on October 30, 2014 and January 5, 2015.
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marcel Prevost
+Emma Baasch
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal with respect to the reassessment made under the Income Tax Act for the Appellant’s 2010 taxation year is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was entitled to deduct a non-capital loss of $20,302 when determining her 2010 taxable income.
+The Appellant is awarded costs of $500 plus disbursements.
+Signed at Antigonish, Nova Scotia, this 19th day of August 2015.
+“S. D’Arcy”
+D'Arcy J.
+Citation: 2015 TCC 207
+Date: 20150819
+Docket: 2013-2904(IT)I
+BETWEEN:
+JANET HATT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Arcy J.
+[1] The issue in this appeal is whether the Appellant is entitled to deduct for her 2010 taxation year a non-capital loss from employment.
+Summary of Facts [2] The Government of Canada employed the Appellant from July 1978 to October 2007. She worked in various government departments, namely the Office of the Auditor General, Public Works and Government Services and Citizenship and Immigration.
+[3] From July 26, 2003 until her retirement on October 18, 2007, the Appellant was on leave without pay. During this period, she worked outside of Canada for an international agency.
+[4] The Appellant left Canada in 2003 and did not return until March 2010. Both parties accept that during this period the Appellant was a non-resident of Canada for the purposes of the Income Tax Act (“the Act”).
+[5] In 2007 the Appellant received the following two payments from the federal government upon her retirement:
+- A payment of $2,497.44 in respect of unused annual leave credits (the “$2,497.44 Annual Leave Income”).[1]
+- A severance payment of $43,255 that was also referred to as a retiring allowance (the “$43,255 Retiring Allowance”).
+[6] The Appellant contributed $22,384 of the $43,255 Retiring Allowance to her registered pension plan (the“$22,384 RPP Payment”). The Appellant explained that she made this payment in order for the years that she was on unpaid leave to count towards the determination of her annual pension.[2]
+[7] The federal government subsequently issued two information slips in respect of the two payments. The first slip was a T4, which included the $2,497.44 Annual Leave Income and the $22,384 RPP Payment. The second slip was a T4A, which showed the $43,255 Retiring Allowance and an income tax deduction of $6,261.47.[3]
+[8] The Appellant believed, after reviewing the T4 and T4A, that the federal government had withheld an incorrect amount of tax from the $43,255 Retiring Allowance. As a result, while a non-resident of Canada, she submitted an income tax return for her 2007 tax year on which she reported the $2,497.44 Annual Leave Income, the $43,255 Retiring Allowance and pension income she received in 2007 after her retirement. She also reported the $22,384 RPP Payment and $6,261.47 of income tax deducted from the $43,255 Retiring Allowance.[4]
+[9] The Minister subsequently issued three separate notices of assessment in respect of the items reported on the Appellant’s 2007 income tax return.
+[10] The first “notice of assessment” is dated April 30, 2009 and is a nil assessment (the “Nil Assessment”). The Nil Assessment shows the following in respect of the Appellant’s 2007 tax year:
+- Total income: $2,497
+- Deductions from total income: $22,799
+- Net income: 0
+- Taxable income: 0
+- CPP overpayment: $123.62[5]
+[11] The evidence before me, which the parties accept, is that the $2,497 represents employment income, namely, the $2,497.44 Annual Leave Income, and the $22,799 represents amounts allowed as deductions from that employment income under subsection 8(1) of the Act. The $22,799 is comprised of the $22,384 RPP Payment and $415 of annual union, professional or like dues.[6]
+[12] The Nil Assessment contains two pages of written comments entitled “Explanation of changes and other important information”. One of the comments states the following: “Our records show that you have unused non-capital losses of other years. The amount that is available to apply to the other years is $20,302.”[7] This amount is equal to the difference between the total income assessed ($2,497) and the assessed deductions from total income ($22,799).
+[13] The second notice of assessment is dated July 22, 2009 and assesses Part XIII tax (the “Part XIII Assessment”). Specifically, the assessment assesses Part XIII tax of $10,814 on the $43,255 Retiring Allowance (25% x $43,255.57). The Appellant is given credit for the $6,261.47 of tax withheld by the “Canadian payor”, namely the Government of Canada.[8]
+[14] The third notice of assessment, also dated July 22, 2009, assesses Part XIII tax on the pension income the Appellant received in 2007.[9]
+[15] The Appellant does not accept the Minister’s calculation of Part XIII tax on the $43,255 Retiring Allowance. She believes the Minister should have levied the Part XIII tax on an amount equal to the $43,255 Retiring Allowance minus the $22,384 RPP Payment. However, the Appellant did not file a notice of objection in respect of the Part XIII Assessment.
+[16] I explained to the Appellant during the hearing of the appeal that in such a situation the Part XIII assessment is not properly before the Court. Since the Appellant did not file a notice of objection and the Minister has not reassessed, both the Appellant and the Minister are bound by the assessment.
+[17] The Appellant returned to Canada on March 4, 2010 and became a resident of Canada on that day. When filing her tax return for the 2010 taxation year the Appellant claimed a $22,384 deduction. She explained to the Court that she was not sure which line of the return she should use to claim the deduction. She decided to claim the deduction on line 207 as a registered pension plan deduction. The Appellant included with her return a letter requesting the Canada Revenue Agency (the “CRA”) to review the return and determine if she had claimed the deduction on the proper line.
+[18] When assessing the Appellant on June 23, 2011, the Minister allowed the $22,384 deduction. On October 6, 2011, the Minister reassessed the Appellant and denied the $22,384 deduction.
+[19] The Appellant filed a notice of objection.
+[20] On July 10, 2012, Mr. Dylan Dinardo, a CRA appeals officer, wrote a letter to the Appellant stating that she would not be given a deduction for the full $22,384, however she would be allowed a deduction of $20,302 as a carry-forward of a non-capital loss she incurred in 2007. Mr. Dinardo explained the $20,302 non-capital loss carry-forward as follows:
+The RPP contributions that you incurred in the 2007 taxation year in the amount of $22,384 were deducted on your 2007 T1 Income Tax Return. Your total income in 2007 was $2,497. Your total deductions were $22,799 which was an incorporation of $22,384 of RPP contributions and $415 of Annual union, professional, or like dues. Once your taxable income was reduced to $0, you had $20,302 of unused non-capital losses available to be carried forward to be applied to other years. As a result, pursuant to paragraph 111(1)(a) of the Income Tax Act, the Appeals Division will allow you a non-capital loss on line 252 on your 2010 T1 Income Tax Return in the amount of $20,302 to reduce your taxable income to $11,164.[10]
+[21] On August 24, 2012, the Appellant wrote to Mr. Dinardo accepting the CRA’s position. The Appellant believed that the Minister would reassess her 2010 taxation year to allow a deduction of $20,302.
+[22] However, on September 7, 2012 she received from Mr. Dinardo a second letter, the purport of which was that the CRA had changed its mind and concluded that the Appellant was not entitled to claim a deduction for a non-capital loss carry-forward or to claim any additional deductions in respect of her 2010 taxation year.
+[23] The letter states the CRA’s new position as follows:
+After further consideration, it has been determined that your unused RPP contributions from the 2007 taxation year in the amount of $20,302 cannot be converted into a non-capital loss to [be] deducted on your 2010 T1 Income Tax and Benefit Return. Paragraph 147.2(4)(a) of the Income Tax Act states that … .
+The Appeals Division is taking the position that an employee’s contributions must be made in the year in respect of which the deduction is deemed. Past service contributions cannot be carried forward to claim in a future year nor are they convertible into a non-capital loss to be used to reduce taxable income of a future year.[11]
+[24] The Minister subsequently confirmed the October 6, 2011 reassessment.
+[25] The only issue before the Court is whether the Appellant is entitled to the deduction of a non-capital loss carry-forward of $20,302 when calculating her 2010 taxable income.
+The Appellant’s Position [26] The Appellant argued that, pursuant to the definition of non-capital loss in subsection 111(8) of the Act, non-capital losses are determined according to a formula. The relevant value in her situation is her loss for the year from employment.
+[27] Subsection 5(2) sets out the basic rules with regard to a loss from employment. Section 6 sets outs the amounts to be included as income from employment and section 8 sets out the deductions allowed in computing a taxpayer’s income for a taxation year from employment.
+[28] These sections result in the Appellant incurring in 2007 a non-capital loss from employment of $20,302, calculated as the $2,497 Annual Leave Payment minus the $22,384 RPP Payment and the $415 deduction in respect of union dues.
+[29] Subsection 111(1)(a) allows the $20,302 non-capital loss to be carried forward for 20 years.
+The Respondent’s Position [30] The Respondent argued that there was no non-capital loss available to the Appellant to carry forward from 2007 to apply against income in the 2010 taxation year.
+[31] Counsel for the Respondent accepted during her argument at the hearing that the Minister concluded that in 2007 the Appellant had $2,497 of employment income under Part I of the Act and deductions from that employment income of $22,799 under subsection 8(1). However, counsel argued that the $22,384 RPP Payment that was allowed as a deduction under paragraph 8(1)(m) should not be used in 2007 to calculate a non-capital loss from employment under section 111.
+[32] The Respondent argued that the $22,799 deduction allowed in 2010 resulted from a registered pension plan (“RPP”) contribution and must be treated pursuant to the statutory limits on that form of deduction.
+[33] She argued that the deduction of contributions to RPPs is only allowed under paragraph 8(1)(m). Because of the wording of 8(1)(m), the qualifying factors in subsection 147.2(4) apply to such a deduction.
+[34] One of the qualifying factors is that only amounts which represent contributions made by the individual to a registered pension plan in a particular year may be deducted in that year. Subsection 147.2(4) does not permit the carry-forward of RPP contributions.
+[35] She argued that the limitation in subsection 147.2(4) must be adhered to or its purpose would be frustrated by the availability of non-capital losses under section 111. The specific wording “in the year” precludes deduction in later years outright. If the deduction could be applied without reference to this limit regarding timing, that portion of the section would be rendered meaningless.
+[36] With respect to the statement in the Nil Assessment that the Appellant had unused non-capital losses, she argued that this was an error of legal representation of the nature of the deduction for 2007. Such an error cannot bind the Crown. Counsel relied on the comments of Associate Chief Judge Bowman (as he then was) comments in Moulton v. R., [2002] C.T.C. 2395 at paragraph 11, where he stated, “the court cannot be bound by erroneous departmental interpretations. Any other conclusion would lead to inconsistency and confusion.”
+The Court’s Decision [37] I accept the Respondent’s argument that the Court is not bound by departmental interpretations. As a result, the statements in the Nil Assessment and Mr. Dinardo’s July 10, 2012 letter that the Appellant had a non‑capital loss of $20,302 are not binding on the Court.
+[38] I do not accept the Respondent’s argument that the $22,384 RPP Payment that the Minister allowed as a deduction in 2007 under paragraph 8(1)(m) should not be used to calculate a non-capital loss from the Appellant’s employment.
+[39] In order for the taxpayer to determine her income for a taxation year under section 3, she must determine under paragraph 3(d) her losses from an office or employment.
+[40] Subsection 5(2) of the Act reads as follows:
+A taxpayer's loss for a taxation year from an office or employment is the amount of the taxpayer's loss, if any, for the taxation year from that source computed by applying, with such modifications as the circumstances require, the provisions of this Act respecting the computation of income from that source.
+[41] The Minister concluded, as reflected in the Nil Assessment, that the Appellant had employment income of $2,497 and allowable subsection 8(1) deductions from such employment income of $22,799.
+[42] Included in the $22,799 in deductions is the $22,384 RPP Payment that the Minister found was deductible under paragraph 8(1)(m). I agree with counsel for the Respondent that if the Minister concluded that the latter amount was deductible under paragraph 8(1)(m) then she also concluded that the qualifying factors in subsection 147.2(4) were satisfied. Appendix A to these reasons contains the wording of those provisions.
+[43] Once the Minister allowed the Appellant a deduction under paragraph 8(1)(m) for the $22,384 RPP Payment, this amount must be used, for the purposes of subsection 5(2), to calculate her loss from employment for the particular taxation year. Neither paragraph 8(1)(m) nor paragraph 147.2(4)(a) contains wording that would exclude the $22,384 RPP Payment from the calculation of the Appellant’s loss from employment.
+[44] If one takes the employment income and the deductions therefrom determined by the Minister and applies subsection 5(2), the result is that the Appellant incurred a loss from employment in her 2007 taxation year of $20,302.
+[45] The non-capital loss available to the Appellant in 2010 is determined under paragraph 111(1)(a) and subsections 111(8) and (9). The relevant portions of these provisions are included in Appendix A.
+[46] Subsection 111(9) sets out the rules for determining a non-resident’s non‑capital loss. The subsection allows a non-resident to include his/her non‑capital loss a loss from carrying out the duties of an office or employment only if the duties are performed in Canada. The Respondent did not, in either her oral argument or her written submissions filed after the conclusion of the hearing, argue that this provision applied to preclude the creation of a non-capital loss for the Appellant’s 2007 taxation year. Further, I assume that, when the Minister included the $2,497 of employment income in the Appellant’s Part I income for 2007, she concluded, for the purposes of subsection 115(1), that the employment income arose from employment performed by the Appellant in Canada.
+[47] Subsection 111(8) defines non-capital loss of a taxpayer for a taxation year to mean the amount determined by the formula (A+B)-(D+D.1+D.2). A taxpayer’s loss for the year from employment is included in A. Since the only source of income covered by the Minister’s assessment was the Appellant’s employment with the Government of Canada, the remaining parts of the formula do not apply to the determination of the Appellant’s non-capital loss for her 2007 taxation year.
+[48] As a result, pursuant to the definition in subsection 111(8), the Appellant incurred a non-capital loss from employment of $20,302 in her 2007 taxation year. Pursuant to subsection 111(1)(a), such loss may be carried forward and deducted when determining the Appellant’s 2010 taxable income.
+[49] For the foregoing reasons, the appeal is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was entitled to deduct a non-capital loss of $20,302 when determining her 2010 taxable income. The Appellant is awarded costs of $500 plus disbursements.
+Signed at Antigonish, Nova Scotia, this 19th day of August 2015.
+“S. D’Arcy”
+D'Arcy J.
+Appendix A
+8(1) In computing a taxpayer’s income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto:
+. . .
+(m) the amount in respect of contributions to registered pension plans that, by reason of subsection 147.2(4), is deductible in computing the taxpayer’s income for the year;
+. . .
+111(1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such portion as the taxpayer may claim of the taxpayer’s
+(a) non-capital losses for the 20 taxation years immediately preceding and the 3 taxation years immediately following the year;
+111(8) In this section,
+. . .
+“non-capital loss” of a taxpayer for a taxation year means, at any time, the amount determined by the formula
+(A + B) - (D + D.1 + D.2)
+where
+A is the amount determined by the formula
+E - F
+where
+E is the total of all amounts each of which is
+(a) the taxpayer’s loss for the year from an office, employment, business or property,
+(a.1) an amount deductible under paragraph 104(6)(a.4) in computing the taxpayer’s income for the year,
+(b) an amount deducted under paragraph (1)(b) or section 110.6, or deductible under any of paragraphs 110(1)(d) to (d.3), (f), (g), (j) and (k), section 112 and subsections 113(1) and 138(6), in computing the taxpayer’s taxable income for the year, or
+(c) if that time is before the taxpayer’s eleventh following taxation year, the taxpayer’s allowable business investment loss for the year, and
+F is the amount determined under paragraph 3(c) in respect of the taxpayer for the year,
+B is the amount, if any, determined in respect of the taxpayer for the year under section 110.5 or subparagraph 115(1)(a)(vii),
+D is the amount that would be the taxpayer’s farm loss for the year if the amount determined for B in the definition “farm loss” in this subsection were zero,
+D.1 is the total of all amounts deducted under subsection (10) in respect of the taxpayer for the year, and
+D.2 is the total of all amounts by which the non-capital loss of the taxpayer for the year is required to be reduced because of section 80;
+. . .
+111(9) In this section, a taxpayer’s non-capital loss, net capital loss, restricted farm loss, farm loss and limited partnership loss for a taxation year during which the taxpayer was not resident in Canada shall be determined as if
+(a) in the part of the year throughout which the taxpayer was non-resident, if section 114 applies to the taxpayer in respect of the year, and
+(b) throughout the year, in any other case,
+the taxpayer had no income other than income described in any of subparagraphs 115(1)(a)(i) to (vi), the taxpayer’s only taxable capital gains, allowable capital losses and allowable business investment losses were from dispositions of taxable Canadian property (other than treaty-protected property) and the taxpayer’s only other losses were losses from the duties of an office or employment performed by the taxpayer in Canada and businesses (other than treaty-protected businesses) carried on by the taxpayer in Canada.
+147.2(4) There may be deducted in computing the income of an individual for a taxation year ending after 1990 an amount equal to the total of
+(a) the total of all amounts each of which is a contribution (other than a prescribed contribution) made by the individual in the year to a registered pension plan that is in respect of a period after 1989 or that is a prescribed eligible contribution, to the extent that the contribution was made in accordance with the plan as registered,
+(b) the least of
+(i) the amount, if any, by which
+(A) the total of all amounts each of which is a contribution (other than an additional voluntary contribution or a prescribed contribution) made by the individual in the year or a preceding taxation year and after 1945 to a registered pension plan in respect of a particular year before 1990, if all or any part of the particular year is included in the individual’s eligible service under the plan and if
+(I) in the case of a contribution that the individual made before March 28, 1988 or was obliged to make under the terms of an agreement in writing entered into before March 28, 1988, the individual was not a contributor to the plan in the particular year, or
+(II) in any other case, the individual was not a contributor to any registered pension plan in the particular year
+exceeds
+(B) the total of all amounts each of which is an amount deducted, in computing the individual’s income for a preceding taxation year, in respect of contributions included in the total determined in respect of the individual for the year under clause (A),
+(ii) $3,500, and
+(iii) the amount determined by the formula
+($3,500 × Y) - Z
+where
+Y is the number of calendar years before 1990 each of which is a year
+(A) all or any part of which is included in the individual’s eligible service under a registered pension plan to which the individual has made a contribution that is included in the total determined under clause (i)(A) and in which the individual was not a contributor to any registered pension plan, or
+(B) all or any part of which is included in the individual’s eligible service under a registered pension plan to which the individual has made a contribution
+(I) that is included in the total determined under clause (i)(A), and
+(II) that the individual made before March 28, 1988 or was obliged to make under the terms of an agreement in writing entered into before March 28, 1988, and in which the individual was not a contributor to the plan, and
+Z is the total of all amounts each of which is an amount deducted, in computing the individual’s income for a preceding taxation year,
+(A) in respect of contributions included in the total determined in respect of the individual for the year under clause (i)(A), or
+(B) where the preceding year was before 1987, under subparagraph 8(1)(m)(ii) (as it read in its application to that preceding year) in respect of additional voluntary contributions made in respect of a year that satisfies the conditions in the description of Y, and
+(c) the lesser of
+(i) the amount, if any, by which
+(A) the total of all amounts each of which is a contribution (other than an additional voluntary contribution, a prescribed contribution or a contribution included in the total determined in respect of the individual for the year under clause (b)(i)(A)) made by the individual in the year or a preceding taxation year and after 1962 to a registered pension plan in respect of a particular year before 1990 that is included, in whole or in part, in the individual’s eligible service under the plan
+exceeds
+(B) the total of all amounts each of which is an amount deducted, in computing the individual’s income for a preceding taxation year, in respect of contributions included in the total determined in respect of the individual for the year under clause (A), and
+(ii) the amount, if any, by which $3,500 exceeds the total of the amounts deducted by reason of paragraphs (a) and (b) in computing the individual’s income for the year.
+CITATION:
+2015 TCC 207
+COURT FILE NO.:
+2013-2904(IT)I
+STYLE OF CAUSE:
+JANET HATT v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Yarmouth, Nova Scotia
+DATE OF HEARING:
+November 14, 2013 and September 3, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D'Arcy
+DATE OF JUDGMENT:
+August 19, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marcel Prevost
+Emma Baasch
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-1; Transcript, page 9, Testimony of Janet Hatt.
+[2] Transcript, pages 10 and 30, Testimony of Janet Hatt; Exhibits A-2 and A-3.
+[3] Exhibit A-3.
+[4] Transcript, page 12, Testimony of Janet Hatt.
+[5] Exhibit A-4.
+[6] Exhibits A-7, A-4 and A-3.
+[7] Exhibit A-4, page 2.
+[8] Exhibit A-5.
+[9] Exhibit A-6.
+[10] Exhibit A-7.
+[11] Exhibit A-9.

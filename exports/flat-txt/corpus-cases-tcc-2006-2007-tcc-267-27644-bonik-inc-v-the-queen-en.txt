@@ -1,0 +1,125 @@
+Title: Bonik Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27644/index.do
+Corpus path: corpus/cases/tcc/2006/2007-tcc-267-27644-bonik-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-11-22
+
+# Bonik Inc. v. The Queen
+
+- Citation: 2007 TCC 267
+- Decision date: 2006-11-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 400, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bonik Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-22
+Neutral citation
+2007 TCC 267
+File numbers
+2000-3494(GST)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2000-3494(GST)G, 2000-3495(GST)G
+2000-3496(GST)G, 2000-3497(GST)G
+BETWEEN:
+BONIK INC., BOKRIKA INC., SERBCAN INC.,
+and THE NIKOLIC CHILDREN TRUST,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on November 22, 2006, at Toronto, Ontario
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellants:
+Ronald B. Moldaver, Q.C.
+Counsel for the Respondent:
+Bobby Sood
+____________________________________________________________________
+ORDER
+Upon motion by counsel for the Appellants for an Order for costs of the proceedings and related proceedings; for an amendment to the Reasons for Judgment in appeal no. 2000-3494(GST)G of Bonik Inc.; and for direction as to further argument in the event the Reasons for Judgement are amended;
+And upon reading the affidavit of Marty Johnson, filed, and the further materials filed, and upon hearing counsel for the parties;
+It is ordered that the Appellants’ motion is denied, with costs to the Respondent.
+Signed at Ottawa, Canada, this 3rd day of May, 2007.
+“C.H. McArthur”
+McArthur J.
+Citation: 2007TCC267
+Date: 20070503
+Docket: 2000-3494(GST)G, 2000-3495(GST)
+2000-3496(GST)G, 2000-3497(GST)G
+BETWEEN:
+BONIK INC., BOKRIKA INC., SERBCAN INC.,
+and THE NIKOLIC CHILDREN TRUST,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+McArthur J.
+[1] This motion by the Appellants is for an Order for costs in the hearing of the appeals, for an amendment to the Reasons for Judgment in appeal no. 2000‑3494(GST)G of Bonik Inc., and for further argument in the event the Reasons for Judgment are amended, on the following grounds:
+1. The Appellants were successful.
+2. The results achieved are better than the pre-hearing offer to compromise made by the Appellants.
+3. The Respondent at the outset and throughout the hearing of the appeals made several unsuccessful challenges to the standing of the Appellants and to the ability of the principal witnesses of the Appellants to have conduct of or otherwise have influence in the prosecution of the appeals and that this, together with undue cross-examination, improperly elongated the time taken to present evidence and make argument.
+4. With respect to the Appellant Bonik in court file No. 2000-3494(GST)G, by inadvertence, the Honourable Justice McArthur misapprehended said Reasons of Justice Loukidelis and his orders and if the Appellant’s contention in this regard is correct, the result in this case would be different and more beneficial for the Appellant.
+[2] I will first deal with the request for costs. No award for costs was granted to the Appellants for many reasons, which I will attempt to set out. According to the Respondent’s calculation, which I accept, the aggregate success of the Appellants was less than 5%. There were four related Appellants and four appeals. Three were heard on common evidence and the fourth, Bokrica, was heard separately and the appeal was allowed. It dealt with an amount of $32,470, which was insignificant in comparison to the overall amounts totalling approximately $873,000 in the four appeals. I considered the four appeals together when making no order for costs to either side.
+[3] The four Appellants had been treated as a single unit up to the date of hearing. I find as a fact that they were the cause of most of the delays from the commencement of the appeals in 2000 until the hearing in 2006. Hearings had been set down for trial six times with five adjournments being granted. There were three status hearings, and a hearing before Bowman J. in July 2005 requiring the Appellants to establish why the appeals should not be dismissed on account of their delays. The Appellants changed lawyers at least four times over the period of five or six years.
+[4] While Bokrika was successful and the Respondent’s motions for summary judgment were unsuccessful, the overall conduct of the Appellants cannot be ignored, notwithstanding the written offer of settlement. Further no costs were awarded to the Respondent who was overwhelmingly successful. The Appellants filed documents that were often duplicitous and in disorder. The general rule is that the successful litigant is entitled to party and party costs. Where success is divided, it is not unusual for no order of costs to be made as is the present situation.[1]
+[6] Rule 147 of the Tax Court of Canada Rules (General Procedure), gives the Court wide discretionary powers. That Rule provides:
+147(1) Subject to the provisions of the Act, the Court shall have full discretionary power over the payment of the costs of all parties involved in any proceeding, the amount and allocation of those costs and determining the persons by whom they are to be paid.
+147(2) Costs may be awarded to or against the Crown.
+147(3) In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.[2]
+147(4) The Court may fix all or part of the costs with or without reference to Schedule II, Tariff B and, further, it may award a lump sum in lieu of or in addition to any taxed costs.
+147(5) Notwithstanding any other provision in these rules, the Court has the discretionary power,
+(a) to award or refuse costs in respect of a particular issue or part of a proceeding,
+(b) to award a percentage of taxed costs or award taxed costs up to and for a particular stage of a proceeding, or
+(c) to award all or part of the costs on a solicitor and client basis.
+Counsel for the Respondent has requested that $20,000 in costs be awarded to the Minister of National Revenue. While I find the Respondent more deserving that the Appellants, in exercising my discretion, I find the fairest conclusion is to award no costs.
+[7] With respect to the Appellant’s second request, I agree with counsel for the Respondent that the Rules of the Court do not provide for an amendment of the Reasons for Judgment. The Appellants are not requesting an amendment of the Order, and the amendment requested would not alter the Order. My findings were consistent with the trial evidence. Further, the Bonik appeal was not dismissed on whether the building was used residential. It was dismissed on the ground that the Appellant failed to establish the input tax credits claimed, and not because of a finding with respect to the decision of Justice Loukidelis. For these reasons, the motion is denied, with costs to the Respondent.
+Signed at Ottawa, Canada, this 3rd day of May, 2007.
+“C.H. McArthur”
+McArthur J.
+CITATION: 2007TCC267
+COURT FILE NO.: 2000-3494(GST)G, 2000-3495(GST)G 2000‑3496(GST)G, 2000-3497(GST)G
+STYLE OF CAUSE: BONIK INC., BOKRIKA INC., SERBCAN INC. and THE NIKOLIC CHILDREN TRUST, and THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 22, 2006
+REASONS FOR ORDER BY: The Honourable Justice C.H. McArthur
+DATE OF ORDER: May 3, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Ronald B. Moldaver, Q.C.
+Counsel for the Respondent:
+Bobby Sood
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Ronald B. Moldaver, Q.C.
+Firm: Traub, Moldaver
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Bowman J. in Merchant v. The Queen, [1998] 3 C.T.C. 3205, p. 58.
+[2] I have considered all of these criteria.

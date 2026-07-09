@@ -1,0 +1,137 @@
+---
+title: "Sandhu v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29191/index.do"
+last_modified: "2009-04-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 217"
+citation2: ""
+neutral_citation: "2009 TCC 217"
+decision_date: "2009-04-22"
+language: "en"
+item_id: "29191"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6687
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:21:39.006000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ba42dd5607af9ae472326c283028280b04da3c7354290a503000a31a0cf266e0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sandhu v. M.N.R.
+
+- Citation: 2009 TCC 217
+- Decision date: 2009-04-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6687, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sandhu v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-22
+Neutral citation
+2009 TCC 217
+File numbers
+2007-840(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2007-840(EI)
+2007-841(CPP)
+BETWEEN:
+SURINDER KAUR SANDHU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 2, 2009 at Edmonton, Alberta
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Gursewak Sandhu
+Counsel for the Respondent:
+Valerie Meier
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to decisions of the Minister of National Revenue made under the Employment Insurance Act and the Canada Pension Plan is dismissed, and the decisions that the appellant was not engaged in pensionable or insurable employment with The Indo Canadian Phulwari Publications Incorporated during the period from February 11 to 23, 2005 are confirmed.
+Signed at Ottawa, Canada this 22nd day of April 2009.
+“J. Woods”
+Woods J.
+Citation: 2009 TCC 217
+Date: 20090422
+Dockets: 2007-840(EI)
+2007-841(CPP)
+BETWEEN:
+SURINDER KAUR SANDHU,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The question in this appeal is whether Surinder Sandhu was engaged in insurable and pensionable employment with The Indo Canadian Phulwari Publications Incorporated (“Indo Canadian”) during the period from February 11 to 23, 2005.
+[2] The Minister determined that Mrs. Sandhu was not an employee of Indo Canadian during this time. In fact, it is the position of the Minister that Mrs. Sandhu did not work for Indo Canadian at all during this period, whether as an employee or otherwise.
+[3] The Minister suggests that the purported engagement was a fabrication that was designed to enable Mrs. Sandhu to accumulate sufficient insurable hours to qualify for employment insurance benefits. She had previously applied for employment insurance benefits and it was determined that she was about 39 hours short. The purported engagement with Indo Canadian, if accepted, would give her an additional 55 hours.
+[4] Mrs. Sandhu, who required the assistance of an interpreter, was represented by her husband at the hearing.
+[5] By way of background, this is the second time that this issue has come before the Court.
+[6] On May 13, 2008, the issue came before Rossiter ACJ in Vancouver by way of appeals by Mrs. Sandhu and Indo Canadian.
+[7] At the request of the Minister, the appeals were heard separately so that witnesses could be excluded from the courtroom. The Minister took no position as to which appeal should be heard first and at the request of the appellants the appeal of Indo Canadian proceeded first.
+[8] With the benefit of hindsight, I question whether the Minister should have asked for Mrs. Sandhu’s appeal to proceed first since she was the one seeking employment insurance benefits. In any event, the appeal of Mrs. Sandhu was adjourned, and it came before me in Edmonton almost a year later.
+[9] I will begin the analysis by briefly reviewing the findings of Rossiter ACJ, who agreed with the Minister’s position. According to the transcript of his oral reasons, Rossiter ACJ found that there were too many inconsistencies in the evidence of Mrs. Sandhu and Mr. Mahli, the owner of Indo Canadian, with what they had told other people at different times and that there were unsatisfactory explanations on some other matters.
+[10] The witnesses for the appellant at the hearing before me were Mrs. Sandhu and Kashmir Hayer, who had a business in the same building as Indo Canadian. Mr. Mahli did not testify.
+[11] Mrs. Sandhu’s evidence in chief consisted of a written statement which included clarification of some of the prior inconsistencies that Rossiter ACJ had referred to.
+[12] Based on the evidence as a whole, I am not satisfied that Mrs. Sandhu was engaged by Indo Canadian during the period at issue.
+[13] My reasons can be stated briefly.
+[14] First, the evidence presented by Mrs. Sandhu regarding the work that she purportedly did was far too vague and imprecise to satisfy me that there was any relationship between her and Indo Canadian.
+[15] Second, the explanations of the inconsistencies that were provided by Mrs. Sandhu in her written statement (Exhibit A-1) were not persuasive. For example, Mrs. Sandhu states that her prior statement to an investigator about starting work in the afternoon was misunderstood because of translation problems. The prior statement was quite detailed, however, and it is unlikely that it was a simple translation problem.
+[16] Third, there were inconsistencies in the evidence of Mrs. Sandhu and Mr. Hayer. Mrs. Sandhu suggested that Mr. Hayer had come to her home on his afternoon break a few times to relay a message as to whether she was required to come to work the next day. Mr. Hayer testified that he came to Mrs. Sandhu’s home a few times but that this was never at his afternoon break. He stated that he came after he closed up shop around seven.
+[17] Fourth, Mrs. Sandhu chose not to call Mr. Mahli as a witness. His testimony would have been much more probative than Mr. Hayer’s. I make a negative inference from the failure to call Mr. Mahli in the circumstances of this case. It is appropriate to conclude that his testimony would not have been helpful to Mrs. Sandhu. I also note that Rossiter ACJ found Mr. Mahli’s evidence to be unsatisfactory.
+[18] As a result, the appeal with respect to Mrs. Sandhu’s insurable and pensionable employment with Indo Canadian will be dismissed, and the decisions of the Minister of National Revenue will be confirmed.
+Signed at Ottawa, Canada this 22nd day of April 2009.
+“J. Woods”
+Woods J.
+CITATION: 2009 TCC 217
+COURT FILE NOs.: 2007-840(EI)
+2007-841(CPP)
+STYLE OF CAUSE: SURINDER KAUR SANDHU AND
+THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: April 2, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Woods
+DATE OF JUDGMENT: April 22, 2009
+APPEARANCES:
+Agent for the Appellant:
+Gursewak Sandhu
+Counsel for the Respondent:
+Valerie Meier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

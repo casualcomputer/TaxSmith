@@ -1,0 +1,244 @@
+Title: La ville de Brandon c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29317/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-369-29317-la-ville-de-brandon-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-07-17
+
+# La ville de Brandon c. La Reine
+
+- Citation: 2009 CCI 369
+- Decision date: 2009-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7056, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+La ville de Brandon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-07-17
+Référence neutre
+2009 CCI 369
+Numéro de dossier
+2007-4144(GST)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-4144(GST)G
+ENTRE :
+LA VILLE DE BRANDON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 15 juin 2009
+à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocate de l’appelante : Me Counsel for the appelante :
+Me Kimberley L. Cook
+Avocates de l’intimée :
+Me Lynn Burch
+Me Christa Akey
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise visant la période du 1er au 31 janvier 2004, dont l’avis est daté du 16 juillet 2004, est rejeté avec dépens conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2009.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 25e jour de novembre 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009 CCI 369
+Date : 20090717
+Dossier : 2007-4144(GST)G
+ENTRE :
+LA VILLE DE BRANDON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] Au milieu des années quatre-vingt-dix, Maple Leaf Meats Inc. a lancé un appel d’offres sur tout le territoire canadien en vue de trouver un emplacement pour construire une usine de transformation de la viande de porc.
+[2] La ville de Brandon (la ville) a estimé que la construction d’une telle usine à Brandon offrirait des avantages importants sur le plan économique et permettrait notamment de créer un grand nombre de nouveaux emplois.
+[3] Souhaitant encourager la construction de l’usine à Brandon, la ville et la province du Manitoba ont signé un protocole d’entente avec Maple Leaf en décembre 1997. Une des questions abordées dans le protocole d’entente était celle du traitement des eaux usées de Maple Leaf.
+[4] L’usine existante de traitement des eaux usées de la municipalité n’était pas en mesure de traiter les eaux usées provenant de l’usine projetée de Maple Leaf, de sorte qu’à la suite du protocole d’entente et d’autres ententes intervenues entre la ville et la province, Maple Leaf et la ville ont conclu, le 31 mars 1999, une entente sur le traitement des eaux usées[1].
+[5] Aux termes de cette entente, la ville s’engageait à construire, posséder et exploiter une usine de traitement des eaux usées (la « nouvelle usine de traitement des eaux usées ») juste à côté de l’usine de transformation de la viande de porc que Maple Leaf construirait. La ville accepterait et traiterait les eaux usées provenant de l’usine. Maple Leaf convenait par ailleurs que les eaux usées feraient l’objet d’un prétraitement et que les eaux usées qui seraient acheminées vers l’usine de la ville respecteraient certaines normes[2]. Maple Leaf a également accepté certaines restrictions quant à la quantité d’eau transportée quotidiennement et hebdomadairement.
+[6] L’entente prévoyait que la ville prendrait à son compte les coûts de construction de l’usine de traitement des eaux usées[3] et que Maple Leaf se chargerait de tous les frais d’exploitation, lesquels comprendraient un certain montant pour les frais d’administration.
+Question en litige
+[7] La ville a demandé[4] des crédits de taxe sur les intrants (« CTI ») relativement à la taxe sur les produits et services (la « TPS ») qu’elle avait payée sur les dépenses engagées pour construire l’usine de traitement des eaux usées[5]. Il n’y a pas de différend important entre les parties au sujet des chiffres[6].
+[8] L’intimée affirme que la ville n’a pas le droit de demander les CTI en litige parce que les services de traitement des eaux usées fournis à Maple Leaf sont des fournitures exonérées.
+[9] La ville ne peut demander des CTI que dans la mesure où elle a acquis des biens ou des services sur lesquels elle a payé la TPS et qui sont susceptibles d’ouvrir droit à des CTI pour utilisation dans le cadre de ses « activités commerciales[7] ». Aux termes de la Loi, constitue notamment une « activité commerciale » exercée par une personne l’exploitation d’une entreprise, sauf dans la mesure où l’entreprise comporte la réalisation par la personne de « fournitures exonérées[8] ». Par « fourniture exonérée », on entend une « fourniture figurant à l’annexe V[9] ».
+[10] L’intimée affirme que les fournitures effectuées par la ville à Maple Leaf sont des fournitures exonérées parce qu’elles tombent sous le coup de l’article 21 de la partie VI de l’annexe V de la Loi sur la taxe d’accise (la « LTA ») :
+21. La fourniture d’un service municipal si, à la fois :
+a) la fourniture est effectuée :
+(i) soit par un gouvernement ou une municipalité au profit d’un acquéreur qui est le propriétaire ou l’occupant d’un immeuble situé dans une région géographique donnée,
+(ii) soit pour le compte d’un gouvernement ou d’une municipalité au profit d’un acquéreur, autre que le gouvernement ou la municipalité, qui est le propriétaire ou l’occupant d’un immeuble situé dans une région géographique donnée;
+b) il s’agit d’un service, selon le cas :
+(i) que le propriétaire ou l’occupant ne peut refuser,
+(ii) qui est fourni du fait que le propriétaire ou l’occupant a manqué à une obligation imposée par une loi;
+c) il ne s’agit pas d’un service d’essai ou d’inspection d’un bien pour vérifier s’il est conforme à certaines normes de qualité ou s’il se prête à un certain mode de consommation, d’utilisation ou de fourniture, ou pour le confirmer[10].
+À titre subsidiaire, l’intimée affirme que les fournitures sont exonérées parce qu’elles tombent sous le coup de l’article 22 de la partie VI de l’annexe V :
+22. La fourniture d’un service, effectuée par une municipalité ou par une administration qui exploite un réseau de distribution d’eau ou un système d’égouts ou de drainage et que le ministre désigne comme municipalité pour l’application du présent article, qui consiste à installer, à réparer ou à entretenir un tel réseau ou système ou à en interrompre le fonctionnement.
+[11] Voici, dans le cadre du présent appel, les passages clés des deux articles en question :
+21. La fourniture d’un service municipal si, à la fois :
+a) la fourniture est effectuée :
+(i) […] par […] une municipalité au profit d’un acquéreur qui est le propriétaire ou l’occupant d’un immeuble situé dans une région géographique donnée,
+b) il s’agit d’un service, selon le cas :
+(i) que le propriétaire ou l’occupant ne peut refuser […]
+22. La fourniture d’un service, effectuée par une municipalité […] qui exploite un réseau de distribution d’eau ou un système d’égouts ou de drainage […] qui consiste à installer, à réparer ou à entretenir un tel réseau ou système ou à en interrompre le fonctionnement.
+[Non souligné dans l’original.]
+Faits et analyse[11]
+[12] Les parties s’entendent pour l’essentiel sur les faits.
+[13] La Cour a entendu un seul témoin, M. Theodore Snure. M. Snure est titulaire d’un baccalauréat ès sciences en génie civil. Il est un ingénieur professionnel agréé du Manitoba. Il a commencé à travailler pour la ville en 1981 comme ingénieur municipal adjoint. Il est par la suite devenu ingénieur municipal, puis directeur général des Services au développement. Au moment des faits, il était ingénieur municipal et il était notamment chargé de la distribution d’eau, du traitement des eaux usées et du transport.
+[14] M. Snure a expliqué qu’au départ, Maple Leaf devait être propriétaire de l’usine de traitement des eaux usées et qu’elle devait en assurer l’exploitation. Maple Leaf a finalement décidé que le traitement des eaux usées ne faisait pas partie de sa mission et il a été convenu que la ville construirait l’usine, l’exploiterait et en serait propriétaire.
+[15] Rien ne permet de penser que Maple Leaf n’aurait pas pu décider de mettre sur pied son propre système de traitement des eaux usées ou choisir de signer un contrat avec une entreprise privée pour le traitement de ses eaux usées.
+[16] L’entente du 31 mars 1999 intervenue entre Maple Leaf et la ville prévoyait la possibilité pour la ville de recevoir les eaux usées d’autres entreprises pour les traiter à la nouvelle usine de traitement des eaux usées construite pour l’usine de transformation de la viande de porc de Maple Leaf[12].
+[17] L’entente prévoyait des situations dans lesquelles Maple Leaf pouvait se charger de l’exploitation de l’usine de traitement des eaux usées, sans être propriétaire de cette usine. Avant que Maple Leaf puisse prendre à sa charge l’exploitation de l’usine, elle devait remplir un certain nombre de conditions. Maple Leaf devait démontrer qu’elle était en mesure d’exploiter l’usine d’une façon plus économique ou efficace que la ville et satisfaire à certaines des exigences des autres clients (tiers) que la ville pouvait alors avoir et qui étaient des usagers de la nouvelle usine de traitement des eaux usées.
+[18] M. Snure a également expliqué que la nouvelle usine de traitement des eaux usées coûtait entre 10 et 12 millions de dollars, que les frais annuels que la ville exigeait de Maple Leaf s’élevaient à environ un million de dollars et qu’il fallait de deux à quatre employés pour faire fonctionner l’usine.
+Article 21, partie VI, annexe V
+[19] Il est acquis aux débats que la condition prévue à l’alinéa 21a) est remplie en l’espèce : la fourniture a été effectuée par une municipalité.
+[20] L’expression « service municipal » n’est pas définie dans la LTA. Je suis convaincu qu’en recevant et en traitant les eaux usées de Maple Leaf, la ville fournissait un service qui correspond tant à ce que l’on entend couramment par « service municipal » qu’au sens que l’article 21 donne à cette expression. La ville ne conteste pas cette interprétation[13].
+[21] La ville n’est cependant pas d’accord pour dire que le fait de recevoir et de traiter des eaux usées constitue intrinsèquement un service municipal au sens de l’article 21 si ce service est fourni par une entreprise privée.
+[22] Personne n’a laissé entendre que le sous-alinéa 21b)(ii) ou l’alinéa 21c) trouvaient application en l’espèce.
+[23] En conséquence, le litige concernant l’article 21 tourne essentiellement autour de l’interprétation du sous-alinéa 21b)(i) et de la question de savoir s’il s’agit d’un service que Maple Leaf « ne peut refuser […] ».
+[24] Aux termes des dispositions législatives applicables du Manitoba, Maple Leaf ne pouvait exploiter l’usine projetée de transformation de la viande de porc à moins que l’eau ne soit traitée conformément aux normes environnementales, ce que la ville ne conteste pas.
+[25] Tout en admettant que Maple Leaf devait traiter l’eau, la ville soutient que Maple Leaf n’était pas obligée de recevoir le service de la municipalité; Maple Leaf avait le choix : elle pouvait se charger elle-même du traitement, elle pouvait confier le travail à une entreprise privée par contrat ou encore signer un contrat en ce sens avec la municipalité.
+[26] L’intimée soutient que la ville interpole en fait au sous-alinéa 21b)(i) une exigence qui ne s’y trouve pas, en l’occurrence l’obligation qu’il s’agisse d’un service que le propriétaire ou l’occupant ne peut refuser de la municipalité. L’intimée affirme que la loi ne prévoit pas une telle obligation et qu’il suffit que le propriétaire ait l’obligation de traiter les eaux usées et que la municipalité fournisse les services, et ce, même si le propriétaire (Maple Leaf) aurait pu choisir un autre fournisseur de services.
+[27] Le raisonnement suivi par l’intimée suppose l’existence d’une série de « services municipaux » qui constituent intrinsèquement des services municipaux, indépendamment de l’identité de celui qui les fournit. Il en découle également que, si le propriétaire doit recevoir le « service municipal » en cause de quelqu’un, le service est exonéré s’il est fourni par la municipalité ou par le gouvernement, mais est taxable s’il est fourni par une entité du secteur privé. L’approche préconisée par la ville laisse entendre que le service en cause serait taxable, qu’il soit fourni par une municipalité ou par une entreprise privée.
+[28] Le raisonnement de l’intimée comporte à mon avis deux failles. En premier lieu, on a affaire manifestement à une exonération portant sur des « services municipaux ». L’expression « services municipaux » n’est pas définie et, bien que plusieurs services soient habituellement considérés comme des « services municipaux » — comme la cueillette des ordures —, il ne s’ensuit pas que chacun de ces services constitue nécessairement un service municipal lorsqu’il est fourni par une entité du secteur privé.
+[29] L’évacuation et le traitement des eaux usées ne constituent pas de façon intrinsèque un service municipal si ce service n’est pas fourni par la municipalité ou en son nom[14].
+[30] En second lieu, une simple lecture du sous-alinéa 21b)(i) montre que celui-ci vise simplement à soustraire de l’exonération en question les services fournis par les municipalités qui sont optionnels et qui, sans ce sous-alinéa, tomberaient sous le coup de l’exonération[15]. Il s’agit là d’une interprétation plus plausible que celle qui impute au législateur la double intention :
+a) d’exclure la fourniture optionnelle, par les municipalités, de services qui ne sont obligatoires aux termes d’aucune loi;
+b) d’ajouter à l’exonération des services que la loi oblige le propriétaire à recevoir de quelqu’un s’il s’avère que ces services sont fournis par la municipalité, et ce, même si ces services auraient été taxables s’ils avaient été fournis par une entreprise privée.
+[31] À mon avis, l’article 21 ne s’applique pas dans les cas où, comme en l’espèce, l’entreprise aurait pu choisir un fournisseur privé. Je constate qu’il en découle une situation de neutralité sur le plan de la concurrence entre le fournisseur municipal et le fournisseur privé[16].
+Article 22, partie VI, annexe V
+[32] En ce qui concerne cet article, la ville soutient que :
+a) la fourniture effectuée par la ville consistait en l’exploitation de la nouvelle usine de traitement des eaux usées, ce qui ne peut être considéré comme un service consistant « à installer, à réparer ou à entretenir un tel […] système ou à en interrompre le fonctionnement »;
+b) un « système d’égouts » est un réseau de conduites servant à la collecte des eaux usées et il ne comprend pas le traitement des eaux usées.
+Portée de l’expression « système d’égouts »
+[33] La ville soutient que l’article en question ne peut s’appliquer parce qu’un système d’égouts se limite à une série de conduites servant à collecter les eaux usées et ne comprend pas le traitement des eaux usées.
+[34] En réponse, l’intimée, citant la définition des termes « sewage », « sewage works », « sewerage » et « system » [« égout », « système d’égouts », « réseau d’égouts » et « système »] que l’on trouve dans le Pocket Oxford Dictionary of Current English[17], réimprimé en 1985, explique qu’un réseau d’égout [« sewerage »] consiste en un ensemble d’ouvrages servant à l’écoulement des eaux usées, qu’un système [« system »] est un ensemble complexe de parties liées entre elles et que, suivant le sens courant actuel de cette expression, un système d’égouts [« sewerage system »] comprend le traitement des eaux usées. Je relève que l’expression [traduction] « station d’épuration des eaux d’égouts » [« sewage works »] désigne le lieu où les eaux usées sont traitées.
+[35] Bien que je sois d’accord avec la ville pour dire que ce facteur n’est pas déterminant, il peut être utile d’examiner la législation provinciale pour s’assurer du sens des mots[18]. Les réseaux d’égouts et les eaux usées relèvent en grande partie de la législation provinciale.
+[36] Au Manitoba, province dans laquelle l’usine de traitement des eaux usées en question est située, le Règlement sur les ouvrages de purification de l’eau, les systèmes d’égouts et l’évacuation des eaux usées[19] dispose, dans sa rédaction actuelle :
+« système d’égouts » Égouts, accessoires, stations de pompage, ouvrages de traitement ainsi que toutes les installations physiques du réseau, à l’exclusion des prolongements aux réseaux de collecte. ("sewerage system").
+Je relève par ailleurs qu’en Colombie-Britannique, où l’instruction de la présente affaire a eu lieu, l’article 1 du Sewerage System Regulations[20] dispose :
+[traduction] « système d’égouts » Système de traitement des eaux ménagères comportant l’utilisation d’une ou de plusieurs méthodes de traitement et un bassin d’évacuation, à l’exclusion des bassins de rétention et des latrines.
+[37] La ville fait observer que le règlement de la Colombie-Britannique ne mentionne que les eaux ménagères, alors que l’usine en question visait expressément les eaux usées industrielles de Maple Leaf.
+[38] Bien que le règlement de la Colombie-Britannique vise expressément les eaux ménagères, il permet quand même de penser que le système d’égouts sert non seulement à évacuer les eaux usées, mais aussi à les traiter pour les rendre dans un état acceptable avant de les déverser dans des cours d’eau. Je ne vois pas comment on peut déduire que l’usine et les conduites ne constituent pas un « système d’égouts » au motif que l’usine en question ne servait principalement qu’au traitement des eaux usées industrielles[21] ou qu’elle ne servait au moment des faits qu’un seul usager, avec l’ajout possible d’autres clients par la suite. Je constate que l’autre usine de traitement des eaux usées de la ville, qui s’occupait de toutes les eaux usées, sauf de celles de Maple Leaf, collectait les eaux usées provenant d’un autre client industriel et les traitait dans un réservoir servant expressément à cet autre client industriel.
+[39] Je suis convaincu que le Règlement sur les ouvrages de purification de l’eau, les systèmes d’égouts et l’évacuation des eaux usées du Manitoba reflète le sens contemporain de l’expression « système d’égouts » [« sewerage system »] et qu’en conséquence, le traitement des eaux usées fait partie du système d’égouts.
+« Installer, réparer, entretenir ou interrompre le fonctionnement »
+[40] Le service que Maple Leaf reçoit est essentiellement le suivant : la ville recueille ses eaux usées, les traite pour s’assurer de leur conformité avec les normes environnementales et en dispose. La ville affirme que ce service équivaut dans les faits à « exploiter » un système d’égouts.
+[41] Se fondant sur les définitions que l’on trouve dans les dictionnaires au sujet des termes « install », « repair », « maintain » et « interrupt » [« installer », « réparer », « entretenir » et « interrompre »], la ville soutient qu’aucun de ces mots ne vise l’exploitation effective de l’usine. La ville appelle mon attention sur la définition suivante du terme « maintain » extraite du Merriam-Webster’s Collegiate Dictionary, dixième édition, 2001 :
+[traduction] 1 : Conserver dans son état actuel (état de réparation, d’efficacité ou de validité) : empêcher la détérioration ou l’usure <~ une machine> 2 : Affirmer devant l’opposition ou le danger : soutenir et défendre <~ une position> 3 : Continuer ou persévérer : CONSERVER, GARDER (<être incapable de ~ son sang‑froid> 4 a : Subvenir aux besoins de (sa famille) > b : SUSTENTER <nourriture nécessaire pour ~ en vie> 5 : Affirmer ou argumenter : PRÉTENDRE (~ que la terre est plate)
+[42] La ville souligne par ailleurs que l’article 22 commence en parlant des exploitants d’un réseau de distribution d’eau ou un système d’égouts, ce qui démontre que le législateur était tout à fait conscient de la différence qui existe entre « l’exploitation » d’une usine et « l’installation, la réparation ou l’entretien » d’un tel système ou « l’interruption » de son fonctionnement.
+L’intimée affirme qu’aux termes de l’entente du 31 mars 1999, la ville doit [traduction] « exploiter, entretenir et réparer » la nouvelle usine de traitement des eaux usées, ce qui entre dans la définition de « réparer, entretenir ou interrompre ». À l’appui de cet argument, l’intimée fait valoir qu’une des acceptions du verbe anglais « maintain » est celle de [traduction] « faire durer » et cite le Pocket Oxford Dictionary of Current English, réimprimé en 1985, qui définit comme suit ce verbe :
+[traduction] Faire durer, continuer l’action de, conserver; prendre des mesures pour garder en bon état (une machine, une maison, etc.); supporter, sustenter; fournir ce qui est nécessaire pour; certifier la véracité de.
+[43] Le Canadian Oxford Dictionary, deuxième édition, 2004, définit comme suit le mot « maintain » :
+[traduction] 1 Faire durer; continuer, conserver (un état de fait, une activité, etc.) (maintenir des relations amicales). 2 Entretenir (son existence), sustenter au moyen du travail, de l’alimentation, de la dépense (maintenir qqn dans un état confortable). 3 Affirmer ou soutenir, spéc. dans un discours ou un débat (maintenir qu’elle avait été la meilleure; son histoire était vraie, maintenait‑il). 4 Conserver ou garder en bon état (un bâtiment, une machine, une route, etc.). 5 Soutenir (une cause, un parti, etc.) 6 Payer pour l’entretien, la réparation ou l’équipement de (une garnison, etc.).
+[44] Lorsqu’on les considère individuellement sans tenir compte des acceptions plus larges du verbe anglais « maintain », les mots « installer », « réparer », « entretenir » et « interrompre » ne semblent pas englober l’« exploitation » ou le « fonctionnement ».
+[45] Mais lorsqu’on interprète l’article 22 comme un tout (« [la] fourniture d’un service […] qui consiste à installer, à réparer ou à entretenir un [réseau de distribution d’eau ou un système d’égouts ou de drainage] ou à en interrompre le fonctionnement ») en tenant compte des acceptions plus larges du verbe « maintain » ([traduction] « faire durer », [traduction] « sustenter au moyen du travail » comme dans [traduction] « maintenir en vie »), on peut aussi interpréter l’article 22 en considérant qu’il couvre tous les aspects de l’exploitation d’un réseau de distribution d’eau ou d’un système d’égouts municipaux[22]. Il convient donc d’appliquer la méthode téléologique et une approche contextuelle et d’examiner l’économie et l’objet de la LTA[23].
+[46] Il y a d’autres facteurs qui s’avèrent utiles pour interpréter ces termes.
+[47] Il est admis que, bien qu’elle ne soit pas déterminante, l’opinion d’un administrateur a un certain poids et qu’on peut en tenir compte[24]. Il est également reconnu que, bien qu’elles ne soient pas déterminantes, les notes techniques peuvent être prises en considération[25].
+[48] Dans un document publié en 2009 et intitulé Renseignements sur la TPS/TVH pour les municipalités, l’Agence du revenu du Canada (l’ARC) précise ce qui suit :
+La fourniture d’un service d’installation, de réparation, d’entretien ou d’interruption de l’opération d’un système de distribution d’eau, d’égouts ou de drainage n’est pas assujettie à la TPS/TVH si elle est effectuée par une municipalité ou par un organisme désigné comme une municipalité à cette fin.
+Les frais distincts imposés à un propriétaire ou à l’occupant d’un bien pour un service de réparation ou d’entretien d’une partie d’un égout existant ou d’une canalisation d’alimentation sont exonérés.
+Remarque
+La fourniture d’un service d’exploitation ou de gestion d’un système de distribution d’eau, d’égouts ou de drainage d’une autre personne ou de la collecte des eaux usées est assujettie à la TPS/TVH. De plus, les fournitures dans les cas où des frais d’utilisateur ou de raccordement sont facturés à un propriétaire ou à un occupant d’un bien [r]accordé à un système de distribution d’eau sont assujetties à la TPS/TVH à moins que les fournitures soient effectuées au nom d’une municipalité. Pour en savoir plus, lisez « Services résidentiels » à la page précédente[26].
+[49] Bien qu’on ne puisse l’affirmer avec certitude, il semble que le passage précité vise l’article 22. La note précise clairement que le fait d’exploiter le réseau de distribution d’eau d’une autre personne ou de collecter des eaux usées est taxable. Il s’ensuit que la fourniture d’un service d’installation, de réparation, d’entretien ou d’interruption du fonctionnement du système de distribution d’eau d’une autre personne est exonérée si elle est effectuée par une municipalité, ce qui semble appuyer la prétention de la ville que l’article 22 établit une distinction entre l’« exploitation » et le fait « d’installer, de réparer, d’entretenir ou d’interrompre le fonctionnement », de sorte que cet article ne viserait pas l’« exploitation » d’un système d’égouts.
+[50] Voici un extrait des notes techniques de mai 1990[27] portant sur l’article 22 et les dispositions législatives relatives à la TPS :
+L’article 22 exonère les frais de distribution d’eau ou de tout-à-l’égout, y compris les droits d’installation ou de branchement. Toutefois, lorsqu’une municipalité facture des frais distincts à un propriétaire pour réparer ou entretenir une section d’une canalisation en place réservée à l’usage exclusif du propriétaire, la TPS est applicable[28].
+[Non souligné dans l’original.]
+[51] L’exonération des frais de distribution d’eau et de tout‑à‑l’égout vise de toute évidence les frais habituellement payés par les propriétaires pour les services de distribution d’eau et d’évacuation des eaux usées, ce qui implique manifestement que l’article 22 vise l’exploitation des systèmes d’égouts.
+[52] Voici l’article 22 de la LTA, dans sa rédaction originale :
+La fourniture d’un service effectuée par une municipalité ou par une administration […] que le ministre désigne comme municipalité pour l’application du présent article, qui consiste à installer, à réparer ou à entretenir un […] réseau [de distribution d’eau] ou [un] système [d’égouts ou de drainage] à l’usage des occupants et des propriétaires d’immeubles situés dans une région géographique donnée. N’est pas exonérée la fourniture d’un service, facturée exclusivement à l’acquéreur, qui consiste à réparer ou à entretenir une partie d’un tel réseau ou système, dans le cas où l’acquéreur est le propriétaire ou l’occupant d’une parcelle d’immeuble située dans la région géographique donnée et où les occupants et les propriétaires de cette parcelle sont les utilisateurs exclusifs de la partie de réseau ou de système en question.
+Je constate que, dans sa rédaction originale, l’article 22 ne contient pas les mots « fonctionnement » ou « exploiter »[29].
+[53] Il est étonnant qu’une publication de l’ARC semble laisser entendre qu’on doive exclure l’« exploitation » de l’article 22 alors que les notes techniques du ministère des Finances indiquent le contraire. Bien que le document de l’ARC ait été publié après l’année en cause, que les notes techniques soient antérieures à celle-ci et que l’article 22 ait été modifié au fil des ans, le passage pertinent de l’article 22, c’est-à-dire les mots « installer, réparer ou entretenir [un réseau de distribution d’eau ou un système d’égouts] ou en interrompre le fonctionnement » sont demeurés inchangés, sauf pour l’ajout ultérieur des mots « ou en interrompre le fonctionnement ». On voit mal comment l’ajout de ces mots pourrait justifier de modifier la méthode d’interprétation permettant de savoir si l’installation, la réparation ou l’entretien englobe le « fonctionnement » ou l’« exploitation »[30]. Il n’y a rien d’autre dans l’évolution de l’article 22 qui permette de penser que le sens de l’extrait qui nous intéresse a changé.
+[54] Toutefois, en cas de conflit entre les deux documents, il faut accorder plus de poids aux notes techniques qu’à l’avis déclaré de l’administrateur, compte tenu du fait que le Parlement fédéral a le pouvoir de légiférer et qu’il disposait des notes techniques lorsqu’il a édicté la LTA.
+[55] Compte tenu des notes techniques, je conclus que l’exploitation du système d’égouts tombe sous le coup de l’article 22. Il y a toutefois un autre facteur qui m’amène à tirer cette conclusion.
+[56] Dans sa rédaction initiale, l’article 22 peut être scindé en trois parties :
+1. La fourniture d’un service effectuée par une municipalité ou par une administration que le ministre désigne comme municipalité pour l’application du présent article, qui consiste à installer, à réparer ou à entretenir un réseau de distribution d’eau ou un système d’égouts ou de drainage
+2. à l’usage des occupants et des propriétaires d’immeubles situés dans une région géographique donnée.
+3. N’est pas exonérée la fourniture d’un service, facturée exclusivement à l’acquéreur, qui consiste à réparer ou à entretenir une partie d’un tel réseau ou système, dans le cas où l’acquéreur est le propriétaire ou l’occupant d’une parcelle d’immeuble située dans la région géographique donnée et où les occupants et les propriétaires de cette parcelle sont les utilisateurs exclusifs de la partie de réseau ou de système en question.
+Comme je l’ai déjà signalé, la première partie correspond pour l’essentiel au texte qui s’applique au présent appel, du moins pour ce qui est des dispositions qui nous intéressent, à l’exception de l’ajout ultérieur de l’expression « en interrompre le fonctionnement ».
+[57] Les deuxième et troisième parties revêtent toutefois un intérêt particulier. Si les mots « installer, réparer ou entretenir un réseau de distribution d’eau ou un système d’égouts » que l’on trouve dans la première partie n’englobaient pas les frais d’« exploitation » du système d’évacuation et de traitement des eaux usées, l’exonération initiale serait très limitée compte tenu de l’obligation prévue dans la deuxième partie et de la restriction énoncée dans la troisième. D’ailleurs, les seules fournitures qui auraient été exonérées auraient été celles consistant en la fourniture de services d’installation, de réparation et d’entretien qui avaient été expressément facturés et qui étaient destinés à l’usage de tous dans une région géographique donnée.
+[58] Je ne puis accepter une interprétation aussi étroite de la version originale de l’article 22, car elle mènerait au résultat surprenant suivant : les frais habituels de distribution d’eau et de traitement des eaux usées seraient taxables, tout comme les réparations effectuées aux conduites servant exclusivement un propriétaire individuel et facturées séparément, alors que les réparations visant des conduites servant tous les habitants d’une région géographique déterminée seraient exonérées si elles sont facturées séparément[31].
+[59] Vu ma conclusion que l’article 22 exempte l’exploitation d’un système d’égouts, les fournitures en question effectuées par la ville à Maple Leaf sont des fournitures exonérées[32].
+Conclusion
+[60] L’appel sera par conséquent rejeté avec dépens.
+Signé à Ottawa, Canada, ce 17e jour de juillet 2009.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 25e jour de novembre 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2009 CCI 369
+NO DU DOSSIER DE LA COUR : 2007-4144(GST)G
+INTITULÉ : VILLE DE BRANDON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 15 juin 2009
+MOTIFS DU JUGEMENT : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 17 juillet 2009
+COMPARUTIONS :
+Pour l’appelante :
+Me Kimberley L. Cook
+Pour l’intimée :
+Me Lynn Burch
+Me Christa Akey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Kimberley L. Cook
+Cabinet : Thorsteinssons
+Vancouver (Colombie-Britannique)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1, onglet 7.
+[2] Par exemple, des restrictions sur la quantité de solides et d’azote dans les eaux usées par jour et par semaine.
+[3] La province du Manitoba a payé environ la moitié des coûts de construction engagés par la municipalité.
+[4] Dans sa déclaration de janvier 2004.
+[5] La ville a fait le choix prévu à l’article 211 de la LTA lors de la production de sa déclaration de janvier 2004, ce qui a donné lieu aux CTI en litige qu’elle revendique.
+[6] Le montant se situe autour de 388 000 $. L’avis d’appel faisait état d’une réclamation totalisant 745 345,20 $, mais les parties m’ont informé au procès qu’elles avaient convenu que ce montant devait être réduit parce que la ville avait déjà reçu 57,14 % des CTI sous forme de remises aux municipalités. Les parties ont informé la Cour qu’il faudrait peut-être procéder à quelques rajustements mineurs du montant d’environ 388 000 $, mais elles ont ajouté que, si l’appel était accueilli, elles souhaitaient que la Cour énonce le principe applicable et laisse le soin au ministre de procéder aux rajustements mineurs en question lors de l’établissement de la nouvelle cotisation.
+[7] Paragraphe 169(1) de la LTA.
+[8] Paragraphe 123(1) de la LTA.
+[9] Paragraphe 123(1) de la LTA.
+[10] Il s’agit de l’article 21 de la partie VI de l’annexe V, modifié par L.C. 2003, ch. 15, art. 65. Il est réputé être entré en vigueur le 17 décembre 1990 par application du paragraphe 65(2).
+[11] Les parties m’ont cité les sources suivantes : Municipal District of Spirit River No. 133 c. La Reine, 2009 CCI 42; Canada c. 398722 Alberta Ltd., A-706-98, 11 mai 2000 (CAF); Hidden Valley Golf Resort Assn. c. Canada, A-524-98, 13 juin 2000 (CAF); Ville de Calgary c. La Reine, 2009 CCI 272; North Shore Health Region c. Canada, 2008 CAF 2; Ville de Gatineau (Communauté urbaine de l’Outaouais) c. La Reine, 2005 CCI 358; Ville de Gatineau c. La Reine, 2009 CCI 130; extraits de la LTA : articles 123, 169, 211, 221, 306 et articles 21 et 22 de la partie VI de l’annexe V; Loi sur l’environnement (Manitoba), C.P.L.M., ch. E125 : articles 1, 2, 3, 11, 13, 14 et 41, et Règlement sur les exploitants d’installations de traitement des eaux, Règl. Man. 77/2003; Loi sur les municipalités (Manitoba), C.P.L.M., ch. M225, articles 1, 3, 118, 161, 298, 304, 310 à 317 et 320; Loi sur la régie des services publics (Manitoba), C.P.L.M., ch. P280, article 1 et paragraphe 2(6); Ministère des Finances, Notes techniques (juin 2003, juillet 1997 et mai 1990) au sujet de l’article 21 de la partie VI de l’annexe V; Pocket Oxford Dictionary of Current English, septième édition, 1985, définition de « maintain », « sewage », « sewer », « sewerage », « system »; Merriam‑Webster’s Collegiate Dictionary, dixième édition, 2001, définition de « install », « maintain », « option »; Webster’s Revised Unabridged Dictionary, c. 1996, 1998, définition tirée du lexique du MICRA Inc. : « operate », glossaire de termes, www.crd.bc.ca/wastewater/marine/glossary.htm, définitions de « effluent », « sanitary sewers », « sewage » et « wasterwater ».
+[12] Article 4.1 de l’entente, pièce A-1, onglet 7. Advenant le cas où l’usine acceptait les eaux provenant d’autres parties, on tenait compte de la partie des coûts payés par les autres usagers.
+[13] Pour trancher le présent appel, il n’est pas nécessaire de décider si les « services municipaux » ont une portée limitée ni, dans l’affirmative, de déterminer en quoi pourrait consister cette limite. Indépendamment de la réponse à ces questions, les services qui ont été fournis dans le cas qui nous occupe répondent clairement à la définition des services municipaux.
+[14] Les dispositions législatives qui ont été portées à mon attention appuient certainement la thèse suivant laquelle, au Manitoba, la collecte et le traitement des eaux usées constituent un service municipal. Toutefois, suivant mon interprétation, la loi n’empêche pas les entreprises privées de fournir ce service dans certaines circonstances.
+[15] Voici ce qu’on lit dans les Notes techniques de mai 1990 sur les dispositions législatives relatives à la TPS :
+L’article 21 vise à fournir une exonération générale applicable aux services municipaux usuels assurés aux propriétaires de biens-fonds dans un lieu particulier. Cette rubrique inclut des services comme la construction des routes et l’enlèvement de la neige. Dans la plupart des municipalités, ces services sont financés à partir des recettes générales. Toutefois, dans certains cas, la municipalité peut préciser le coût du service séparément aux résidents. Cette disposition vise à faire en sorte que de tels frais ne soient pas taxables. Toutefois, les services facultatifs fournis aux familles sur une base payante ne sont pas exonérés. Cette catégorie comprend, par exemple, les frais d’enlèvement de la neige sur une propriété privée, le pavage d’une entrée et l’enlèvement d’arbres — qui sont essentiellement des activités commerciales qui sont en concurrence avec celles du secteur privé. Les services d’essais ou d’inspection sont aussi exclus de l’exonération lorsqu’ils ont pour but de vérifier les normes de qualité d’un bien ou s’il se prête à un certain mode de consommation, d’utilisation ou de fourniture.
+[Non souligné dans l’original.]
+[16] À titre subsidiaire, l’intimée affirme que, si j’ai bien compris, Maple Leaf s’était contractuellement engagée aux termes de l’entente du 31 mars 1999 conclue avec la ville et qu’elle ne pouvait refuser le service fourni par la ville.
+L’intimée a passé en revue les conditions de l’entente que Maple Leaf devait remplir pour prendre à sa charge l’exploitation de l’usine de traitement des eaux usées – voir l’article 5 de cette entente, pièce A-1, onglet 7. J’accepte : (i) qu’on ne sait pas avec certitude si Maple Leaf pouvait remplir ces conditions; (ii) qu’en cas de prise en charge par Maple Leaf, un certain temps pouvait s’écouler avant que cette prise en charge ne se matérialise. J’accepte aussi que les dispositions relatives à la « prise en charge » visaient à rassurer Maple Leaf que la ville ne pouvait laisser les coûts monter en flèche et qu’elles ne s’expliquent pas par le fait que Maple Leaf avait effectivement l’intention de prendre en charge l’exploitation de l’usine.
+Toutefois, rien de tout ce qui précède ne tire à conséquence. Même si le contrat avait bloqué Maple Leaf pendant la période de 15 ans sur laquelle la ville avait prévu d’étaler le remboursement de la dette qu’elle avait contractée pour construire l’usine de traitement des eaux usées, cela n’aurait eu aucune incidence sur l’application de l’article 21. Dans ce contexte, le critère prévu au sous-alinéa 21b)(i) ne consiste pas à se demander si le propriétaire pouvait exercer un choix au cours d’une période déterminée, mais plutôt à se demander si, au départ, le propriétaire pouvait exercer un choix.
+[17] Le même dictionnaire définit « égout » comme suit : [traduction] « Canalisation servant à l’écoulement et à l’évacuation des eaux de drainage et des eaux usées ».
+[18] Voir, par exemple, l’arrêt North Shore Health Region c. La Reine, 2006 CCI 585, aux paragraphes 24 à 29. Cette décision a été infirmée en appel pour des motifs qui ne sont pas abordés dans ces paragraphes.
+[19] Règl. 331/88 du Manitoba pris en application de la Loi sur la santé publique, C.P.L.M., ch. P210.
+[20] Règl. 326/2004 de la Colombie-Britannique pris en application de la Public Health Act, S.B.C. 2008, ch. 28.
+[21] M. Snure a expliqué que l’usine produisait une certaine quantité d’eaux usées non industrielles.
+[22] Il est possible de considérer que, dans la version anglaise de l’article 22, « maintaining » modifie le passage « operation of a . . . sewerage . . . system » [« fonctionnement [… ] d’un système d’égout »], mais la version française n’appuie pas une telle interprétation.
+Compte tenu du fait que les réseaux de distribution d’eau et les systèmes d’égouts ou de drainage fonctionnent en grande partie automatiquement, l’aspect « fonctionnement » ou « exploitation » peut être négligeable par rapport à l’aspect réparation et entretien; en ce sens, l’installation, la réparation et l’entretien peuvent représenter la plus grande partie des opérations. D’ailleurs, on considère normalement que la réparation et l’entretien font partie des activités d’une entreprise. En l’espèce, on ne sait pas quelle est la portée relative des « opérations » autres que la réparation et l’entretien.
+[23] Placer Dome Canada Ltd. c. Ontario (Ministre des Finances), 2006 CSC 20, [2006] 1 R.C.S. 715, aux paragraphes 21 à 24.
+[24] Harel v. The Deputy Minister of Revenue of the Province of Quebec, 77 DTC 5438 (CSC); Nowegijick v. The Queen, 83 DTC 5041 (CSC).
+[25] Silicon Graphics Ltd. c. Canada, 2002 CAF 260, paragraphe 50 :
+Bien entendu, les notes techniques ne lient pas les tribunaux, mais elles peuvent être examinées. Voir Canada c. Succession Ast, [1997] 3 C.F. 86 (C.A.), au paragraphe 27 :
+Les interprétations administratives, comme les notes techniques, ne lient pas les tribunaux, mais elles peuvent avoir un certain poids et même constituer un facteur important dans l’interprétation des lois. Les notes techniques sont très largement acceptées par les tribunaux pour aider à l’interprétation des lois. L’importance accordée aux notes techniques au niveau de l’interprétation est particulièrement grande lorsque, au moment où une modification était à l’étude, le législateur était conscient que cette modification pouvait donner lieu à une interprétation administrative particulière, et qu’il a néanmoins décidé de l’adopter.
+[26] Renseignements sur la TPS/TVH pour les municipalités, R.C. 4049(F) Rév. 09, page 16.
+[27] Ministère des Finances, Notes techniques, mai 1990, concernant l’article 22 de la partie VI de l’annexe V, citées dans l’ouvrage GST Partner, version 2009, numéro 5.
+[28] La ville soutient que la deuxième phrase des notes techniques permet de penser que la fourniture du service est taxable lorsqu’elle vise l’usage exclusif du propriétaire, et que seules les fournitures visant le grand public sont exonérées. Toutefois, lorsqu’on examine l’article 22 dans sa rédaction originale en vigueur à l’époque où les notes techniques ont été publiées (voir le paragraphe 53), il est évident que la deuxième phrase ne permet pas de tirer une telle conclusion et que cette phrase s’explique par l’exclusion expresse de l’exonération dans la dernière partie du texte original de l’article 22 (voir la troisième partie du paragraphe 57).
+[29] Bien qu’il faut noter qu’aux termes de l’art. 173 du chap. 27 des L.C. 1993, l’article 22 a été modifié rétroactivement à la date d’entrée en vigueur de la TPS par l’ajout des mots « qui exploite un réseau de distribution d’eau ou un système d’égouts ou de drainage et […] » immédiatement après le mot « administration », il n’en demeure pas moins que la disposition d’entrée en vigueur prévoyait qu’en ce qui concerne les fournitures effectuées avant le 1er octobre 1992, l’article 22 devait être interprété sans tenir compte du passage ajouté.
+[30] Aucun de ces documents n’a été mentionné par les parties. Lors de la rédaction de mes motifs, je suis tombé sur ces documents et j’ai invité les parties à formuler des observations à leur sujet.
+[31] Bien que, suivant cette interprétation, les réparations seraient effectivement taxables si la municipalité incluait de telles réparations sur un vaste territoire dans les frais généraux facturés pour les services de distribution d’eau et de traitement des eaux usées.
+[32] Je tiens à signaler que, si la ville avait raison, bien que les frais généraux facturés pour les services de distribution d’eau et de traitement des eaux usées fournis aux résidents par la municipalité ou en son nom pourraient également être exonérés en vertu de l’article 21, ce dernier ne pourrait s’appliquer si les services en question étaient fournis par une administration que le ministre désigne comme municipalité pour l’application de l’article 22.

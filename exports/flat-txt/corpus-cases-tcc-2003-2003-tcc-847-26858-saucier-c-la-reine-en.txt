@@ -1,0 +1,154 @@
+Title: Saucier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26858/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-847-26858-saucier-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-12-12
+
+# Saucier c. La Reine
+
+- Citation: 2003 TCC 847
+- Decision date: 2003-12-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 665, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saucier c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-12-12
+Neutral citation
+2003 TCC 847
+File numbers
+2000-2235(GST)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2000-2235(GST)I
+BETWEEN:
+VITAL SAUCIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on June 27, 2003 at Rivière-du-Loup, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+Counsel for the Appellant:
+Gilles Moreau
+Counsel for the Respondent:
+Robert Poupart
+____________________________________________________________________
+JUDGMENT
+The appeal from an assessment made under Part IX of the Excise Tax Act regarding the goods and services tax for the period from January 1, 1994 to December 31, 1996, for which assessment the notice is dated November 13, 1998 and numbered 0253024, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Edmundston, Canada, this 12th day of December 2003.
+"François Angers"
+Angers, J.
+Translation certified true
+on this 22nd day of March 2004.
+Gerald Woodard, Translator
+Citation: 2003CCI847
+Date: 20031212
+Docket: 2000-2235(GST)I
+BETWEEN:
+VITAL SAUCIER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.
+[1] The Appellant is appealing an assessment made regarding him and one Robin Saucier pursuant to the provisions of section 296 of the Excise Tax Act (the "Act"). Robin Saucier and the Appellant were partners operating a business under the name Le Maître de l'Aubaine enr. The assessment is for the period from January 1, 1994 to December 31, 1996.
+[2] The Appellant has been a professional hairdresser for 35 years. In January 1992, he partnered with his nephew, Robin Saucier, to help the latter to set up a business selling used appliances. The Appellant did not work with his nephew in the business, but provided start-up capital of $3,000. Even though Robin Saucier ran the business, the Appellant co-signed the company cheques until January 1, 1995.
+[3] In late 1994, Robin Saucier allegedly asked that the Appellant help him by spending more time on the business. Unable to do so, it was then that the Appellant requested repayment of the capital and sold his share in the business to his nephew for $1. A demand note in the Appellant's name was signed by Robin Saucier on January 1, 1995 and was paid in full on December 23, 1999.
+[4] On the advice of his accountant, the Appellant wanted a written agreement attesting to the dissolution of the partnership between him and his nephew and his release, after the sale, from all liabilities stemming from the partnership. Robin Saucier found the cost of preparing such an agreement high, to the extent that a dissolution agreement was only signed before a notary on October 24, 1995. The agreement indicates, however, that the partnership is deemed to have been dissolved on January 1, 1995.
+[5] To better understand the context of the events, the parties to the case agreed to admit to the facts set forth in correspondence between Counsel. These facts are as follows (Exhibit I-3):
+[translation]
+Civil Aspects
+1.- On January 17, 1992, the Appellant and Robin Saucier became partners in a partnership within the meaning of the Civil Code of Lower Canada, as it appears in a firm name declaration signed on January 17, 1992 and filed on January 23, 1992 as number 250-15-000038-926 with the office of the Prothonotary at the Superior Court in Kamouraska district (Document 7 from the Respondent);
+2.- The name of that partnership was "Le maître de l'Aubaine enr." (Document 7 from the Respondent);
+3.- Pursuant to the transitional provisions, former partnerships, both civil and commercial, become general partnerships upon the entry into force of the new Act on January 1, 1994, insofar as they are declared (or registered) prior to January 1, 1995. Otherwise, the become undeclared partnerships;
+4.- " Le Maître de l'Aubaine enr." was registered on September 15, 1994. The company is legally a general partnership;
+5.- On October 24, 1995, Mr. Vital Saucier and Mr. Robin Saucier signed a notarial act (Document 7 from the Respondent) that stated:
+"1. The aforementioned partnership between the parties is deemed to have been retroactively dissolved for all legal purposes on January first, one thousand nine hundred and ninety-five."
+6.- Mr. Vital Saucier believed that the notary preparing the act on October 24, 1995 would take the necessary steps, i.e., register a declaration of dissolution or similar document with the Inspector General of Financial Institutions;
+7.- No such registration was made with the Inspector General of Financial Institutions;
+Tax Aspects
+8.- On or about June 16, 1999, the Respondent received a Notice of Objection (Document 1 from the Respondent) regarding notice of assessment number 0253024 (Document 2 from the Respondent);
+9.- On May 1, 2000, the Respondent made the following decision regarding the Notice of Objection (Document 3 from the Respondent), leading to the appeal before this Court:
+"The assessment was made in accordance with the provisions of the Act, particularly, but not limiting the generality of the foregoing, in that the assessment regarding Mr. Robin Saucier and Mr. Vital Saucier of the partnership 'Le maître de l'Aubaine Enr.' was made in accordance with the provisions of the Excise Tax Act, the partners being jointly and severally liable under the Civil Code of Quebec."
+10.- The notice of assessment at issue (Document 2 from the Respondent) was issued to:
+Mr. Robin Saucier and Mr. Vital Saucier
+Le maître de l'Aubaine enr.
+590 Lafontaine Street
+Rivière-du-Loup, Quebec G5R 3C6
+11.- The notice of assessment regarding the Quebec sales tax referred to in file 250-02-001364-005 of the court of Quebec was issued to:
+"Saucier Robin & Vital";
+12.- On February 27, 1992, the Appellant signed and gave to the Respondent [sic] the form registering "Le maître de l'Aubaine enr." for Quebec sales tax purposes (Document 4 from the Respondent);
+13.- On April 16, 1992, the Appellant signed and submitted to the ministère du Revenu du Québec an information return regarding source deductions (Document 5 from the Respondent);
+14.- On December 30, 1992, the Appellant signed and submitted to the ministère du Revenu du Québec a form to choose the Quebec sales tax reporting period (Document 6 from the Respondent);
+15.- On October 24, 1995, the Appellant signed a document before the notary Mr. Michel Ouellet that deemed the partnership "Le maître de l'Aubaine enr." to be dissolved as of January 1, 1995 (Document 7 from the Respondent);
+16.- On December 13, 1996, a representative of Mr. Robin Saucier signed and submitted to the Respondent a request to cancel the registration of the partnership "Le maître de l'Aubaine enr." (Document 8 from the Respondent);
+17.- That request for cancellation of the registration was effective December 31.
+[6] Furthermore, testimony by Ms. Georgette Dicks, a representative of the ministère du Revenu du Québec ("MRQ"), before the Court of Quebec on May 16, 2001 was produced and is part of the evidence in the case. Ms. Dicks had testified before Guy Ringuet J. of the Court of Quebec, who was asked to consider a motion by the Appellant appealing a decision by the MRQ on May 1, 2000 regarding the objection.
+[7] Ms. Dicks explained the adjustment calculations made during the audit for the period at issue and submitted a table as evidence to that end. She also submitted returns, also known as remittance reports, that the agent must forward every quarter to the MRQ. Those filed in evidence are for 1995 and 1996. They are signed by Ms. Carolle Saucier, the Appellant's wife, who handled the tax remissions.
+[8] Ms. Dicks testified that the return forms were sent to the agent already printed. In the case at bar, the agents indicated are "Saucier Robin & Vital". This was, according to Ms. Dicks, how they were registered in the computer system and she stated that it was the legal name used by the MRQ. She added that, unless the agent is changed, the return form is not modified.
+[9] The Respondent filed three forms signed by the Appellant and filed in 1992 to register the company with the MRQ for Quebec sales tax ("QST") and goods and services tax ("GST") purposes. The registration forms for businesses or service agencies for the Quebec sales tax (QST) (Exhibit I-2, Tab 4) distinguishes between an individual, a partnership and a corporation. In the case of a partnership, the form requests the partnership's name and the address of its main place of business, as well as the name, address and social insurance number of each partner.
+[10] In the case at bar, the name of the partnership was indicated as "LE MAITRE DE L'AUBAINE ENR." and the two partners named were Vital and Robin Saucier. The partnership name, however, was then crossed out and replaced with "Saucier Robin & Vital". The form also includes a box for the company or agency name, where "LE MAITRE DE L'AUBAINE ENR" was indicated.
+[11] The return form (Tab 5) is in the name of the partnership and indicates the names of the two partners. Box 1, "Identification", of the form for choosing the QST return period indicates the Appellant's name and "Le Maître de l'Aubaine enr".
+[12] These three forms were signed by the Appellant at intervals of a few months. It was based on these forms that the MRQ computer system created pre-printed returns in the name of Saucier, Robin and Vital until January 1997.
+[13] The issue is thus to determine whether or not the Appellant is liable for the partnership's tax debt for the period from January 1, 1994 to December 31, 1996. The Appellant, in the facts, is asking that his liability be limited to the period ending on December 31, 1994, the last period prior to dissolution of the partnership.
+[14] The Appellant filed in evidence, without objection by Counsel for the Respondent, the decision by Ringuet J. of the Court of Quebec. That decision was used by Counsel for the Appellant as an argument to support his claims regarding the Appellant's case. The Tax Court of Canada is not bound by that decision, neither in law nor in the doctrine of the issue ruled upon. In my opinion, it can only be used as a reference to support the claims by Counsel for the Appellant, as Counsel has done in the case at bar.
+[15] What I find important in this case, and what must be remembered, is that a general partnership has no legal personality. The courts in Quebec ruled on this issue under the old Civil Code of Quebec ("C.C.Q.") and maintained their position in the context of the new Code: see Lévesque c. MFQ-Vie, [1996] R.J.Q. 1701 and Le sous-ministre du Revenu du Québec c. Donald Paul, C.S. no 200-36-000415-976.
+[16] This same caselaw finds that, because a general partnership has no legal personality, it cannot hold property or be subject to liabilities. Furthermore, it is simply the agent of its partners. Notwithstanding this, under article 2225 of the C.C.Q., a partnership may sue and be sued in a civil action under the name it declares. Without going into an in-depth analysis of the consequences of such a possibility, it is enough to mention that a judgment obtained against such a partnership is a judgment against each partner personally under the rules stemming from advertising requirements now applicable to general partnerships. Furthermore, Pierre Chevalier J. of the Court of Quebec, in Québec (Sous-ministre du Revenu) c. Lacasse Lebel, [2000] R.D.F.Q. 113, arrived at a similar conclusion when he stated:
+[translation]
+The principles by which a general partnership is not a legal person (and has no legal personality) and the fact that it thus has no assets of its own only supports the principle that the judgment is against all partners and that their property, whether collective or personal, is a performance guarantee for third parties. All that the following statement in article 2221 of the C.C.Q. states
+"Before instituting proceedings for payment against a partner, the creditors shall first discuss the property of the partnership... "
+is that a member may require that collective property be discussed prior to seizing personal property.
+[17] Subsection 272.1(5) of the Act, among others, reflects this state of law. Furthermore, the entire subdivision (b.1) of division VII, which came into effect on April 24, 1996, clarifies the situation of general partnerships and joint ventures. The obligations of a partnership are those of its members and cannot be assigned to the company name or commercial name used by them.
+[18] Notwithstanding this, the Act provides that a general partnership is a person within the meaning of the Act and thus becomes a registrant for the purposes thereof. In my opinion, based on the aforementioned principles, this does not release the member from his obligation to the department in question. Furthermore, in the case at bar, the assessment was made in the names of the members of Le Maître de l'Aubaine enr.
+[19] Subsections 299(2), 299(4) and 299(5) of the Act seem to indicate a concern to protect against the consequences of potential errors in an assessment by making it valid and enforceable, particularly in a case such as the case at bar, where the assessment is directed at both the members and the partnership, designated by its business name.
+[20] That being said, I return to the question at issue. It is obvious, based on the evidence, that, as regards the two partners, the general partnership was dissolved on January 1, 1995, as indicated in the dissolution document signed by them on October 24, 1995. This is also in accordance with the requirements set forth in article 2230 of the C.C.Q., which reads as follows:
+2230. A partnership is dissolved by the causes of dissolution provided in the contract, by the accomplishment of its object or the impossibility of accomplishing it, or by consent of all the partners. It may also be dissolved by the court for a legitimate cause.
+Liquidation of the partnership is then proceeded with.
+[21] Robin Saucier, acting as an individual, continued commercial operations and continued to use the partnership's registered business name.
+[22] The MRQ was never advised of this state of affairs. In fact, it was only on December 13, 1996 that a representative of Robin Saucier sent the Respondent a request to cancel the partnership's registration. Furthermore, no declaration of dissolution of the partnership in question was registered with the Inspector General of Financial Institutions. Such registration is public notice that a partnership has been dissolved.
+[23] Section 272.1 of the Act came into force on April 24, 1996. According to the Department of Finance, this section was added to clarify the rules applicable to a partnership when a member joins the existing members, when a member leaves or when the partnership ceases to exist. Section 272.1 deals only with a part of the period at issue, as it was not in force at the time of the dissolution on January 1, 1995. Its relevant provisions read as follows:
+272.1(5) Joint and several liability
+A partnership and each member or former member (each of which is referred to in this subsection as the "member") of the partnership (other than a member who is a limited partner and is not a general partner) are jointly and severally liable for
+(a) the payment or remittance of all amounts that become payable or remittable by the partnership under this Part before or during the period during which the member is a member of the partnership or, where the member was a member of the partnership at the time the partnership was dissolved, after the dissolution of the partnership, except that
+(i) the member is liable for the payment or remittance of amounts that become payable or remittable before the period only to the extent of the property and money that is regarded as property or money of the partnership under the relevant laws of general application in force in a province relating to partnerships, and
+(ii) the payment or remittance by the partnership or by any member thereof of an amount in respect of the liability discharges the joint liability to the extent of that amount; and
+(b) all other obligations under this Part that arose before or during that period for which the partnership is liable or, where the member was a member of the partnership at the time the partnership was dissolved, the obligations that arose upon or as a consequence of the dissolution.
+(6) Where a partnership would, but for this subsection, be regarded as having ceased to exist, the partnership is deemed for the purposes of this Part not to have ceased to exist until the registration of the partnership is cancelled.
+[24] The relevant articles of the Excise Tax Act that were in force prior to April 24, 1996 are sections 145(1) and (2), which read as follows:
+145. (1) For the purposes of this Part, an activity engaged in by a person as a member of a partnership shall be deemed
+(a) to be an activity of the partnership; and
+(b) not to be an activity of the person.
+(2) Notwithstanding subsection (1), where a corporation that is a member of a partnership acquires or imports, at the time when the corporation is registered under Subdivision d of Division V, property or a service for consumption, use or supply in the course of an activity of the partnership, except where the property or service was acquired or imported by the partnership, for the purpose of determining an input tax credit in respect of the acquisition or importation of the property or service,
+a) the corporation shall be deemed to be engaged in that activity; and
+b) The partnership shall be deemed not to have acquired or imported the property or service at that time.
+[25] Under such circumstances, it is necessary, in my opinion, to determine the conditions set forth in civil law regarding the situation of third parties in the event of dissolution of a partnership as regards third parties.
+[26] Article 2234 of the C.C.Q. clearly states that dissolution of a partnership does not affect the rights of third persons in good faith who subsequently enter into a contract with a partner. Furthermore, article 2196 of the C.C.Q. provides that members are liable towards third persons if no amending declaration is made following a change in the partnership. It is appropriate here to cite articles 2234 and 2196 of the C.C.Q.:
+2234. Dissolution of the partnership does not affect the rights of third persons in good faith who subsequently enter into a contract with a partner or a mandatary acting on behalf of the partnership.
+2196. If the declaration of partnership is incomplete, inaccurate or irregular or if, although a change has been made in the partnership, no amending declaration has been made, the partners are liable towards third persons for the resulting obligations of the partnership; however, special partners who are not otherwise liable for the obligations of the partnership are not liable under this article.
+[27] The courts in Quebec and this Court have always upheld the rule by which dissolution of a partnership, to be effective toward third persons, must be recorded in a duly registered declaration signed by all members of the partnership. See Archambault c. La Fontaine, [2000] J.Q. no 1384, J.E. 2000-940 (CAQ), Brasserie Labatt Ltée c. Lizotte, [2001] J.Q. no 160 (CQ) and Banque de Nouvelle-Écosse c. Makovsky, [2002] J.Q. no 902 (CSQ).
+[28] In Lasalle v. Canada, [1995] T.C.J. No. 130, Lamarre J. wrote the following at paragraph 21:
+. . . It may be said more categorically that a duly registered partnership exists as long as a declaration of dissolution has not been registered. Thus, a dissolution of partnership must be registered before a partner can register a declaration that he will henceforth do business alone. If persons do business under the registered trade name and subsequently separate, they are considered as partners with respect to third parties. This is what arises from article 1835 of the Civil Code of Lower Canada. Thus, settled case law has established the rule that, to be effective with respect to third parties, a dissolution of partnership must be evidenced by a declaration duly registered and signed by all the partners. By third parties is meant all those who are not included in the partnership agreement.
+[29] Finally, the Supreme Court of Canada upheld this principle when Iacobucci and Bastarache JJ. stated the following at paragraph 44 of Backman v. Canada, [2001] 1 S.C.R. 367:
+44 Finally, after having said this, it is important to mention that, if a person or group of persons hold themselves out as partners in a partnership, but subsequently claim not to be partners for failure to meet the essential ingredients of a valid partnership, third parties dealing with such a non-entity may well have contractual and tortious remedies against the alleged partner(s). Thus, third parties need not look behind representations of partnership in order to be assured of a remedy against the alleged partners.
+[30] Having no evidence that the Department was not a third person in good faith, I find that the dissolution of the partnership cannot be invoked against the Department for the years at issue and that, as a result, the Appellant is liable for payment of the partnership's tax debt for the period from January 1, 1994 to December 31, 1996.
+Signed at Edmundston, Canada, this 12th day of December 2003.
+"François Angers"
+Angers, J.
+Translation certified true
+on this 22nd day of March 2004.
+Gerald Woodard, Translator

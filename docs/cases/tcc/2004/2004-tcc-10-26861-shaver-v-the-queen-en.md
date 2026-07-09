@@ -1,0 +1,243 @@
+---
+title: "Shaver v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26861/index.do"
+last_modified: "2004-01-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 10"
+citation2: ""
+neutral_citation: "2004 TCC 10"
+decision_date: "2004-01-06"
+language: "en"
+item_id: "26861"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 667
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:58:34.590000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8026f050419413c060544bd252f9b198b30526aba4f3eabca1885b041a847736"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shaver v. The Queen
+
+- Citation: 2004 TCC 10
+- Decision date: 2004-01-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 667, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shaver v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-06
+Neutral citation
+2004 TCC 10
+File numbers
+2001-2584(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-2584(IT)G
+BETWEEN:
+CHARLES S. SHAVER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on May 12, 2003, at Ottawa, Ontario
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Emilio S. Binavince
+Counsel for the Respondent:
+Natalie Goulard
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1996 and 1997 taxation years are dismissed with costs.
+Signed at Ottawa, Canada, this 6th day of January 2004.
+"Lucie Lamarre"
+Lamarre, J.
+Citation: 2004TCC10
+Date: 20040106
+Docket: 2001-2584(IT)G
+BETWEEN:
+CHARLES S. SHAVER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre, J.
+[1] These are appeals against assessments made by the Minister of National Revenue ("Minister") under the Income Tax Act ("Act") for the appellant's 1996 and 1997 taxation years. The appellant is a self-employed professional, practising internal medicine in the city of Ottawa. The appellant is also an independent business owner ("IBO") with Amway of Canada Ltd. ("Amway").
+[2] In computing his business income for the years at issue, the appellant deducted the amounts of $10,403.33 and $21,121.11 respectively as business expenses for the operation of an Amway distributorship. Those business expenses included travel expenses in the amount of $4,568.64 in 1996 and $6,411.19 in 1997, as well as an amount of $5,562.19 as a special promotion expense with respect to a trip to Las Vegas, Nevada, U.S.A. in 1997. The travel expenses claimed are itemized in Exhibit R-1, Tab 8 and are in respect of hotel accommodation, food, gas, accident insurance, parking and one airfare to Tampa, Florida. All of these expenses were incurred to attend meetings organized by Amway in Canada and in the U.S.A.
+[3] In reassessing the appellant, the Minister disallowed the following expenses, which are the subject of the present appeals:
+For 1996:
+Business Income
+Claimed*
+Disallowed**
+Allowed**
+Travel Expenses
+$4,568.64
+$3,606.72
+$ 961.92
+For 1997:
+Business Income
+Claimed*
+Disallowed**
+Allowed**
+Travel Expenses
+$6,411.19
+$4,669.29
+$1,742.00
+Course (417.74)/Special Promotion (5562.19)
+$5,979.23
+$5,562.19
+$ 417.74
+* See Statement of Business Activities in Exhibit R-1, Tabs 1 and 2.
+** See paragraph 9 of the Amended Reply to the Notice of Appeal.
+[4] In so reassessing the appellant, the Minister relied on the following assumptions of fact stated in paragraph 11 of the Amended Reply to the Notice of Appeal:
+(a) during the 1996 and 1997 taxation years, the appellant reported business income from a sole proprietorship engaged in distributing Amway products (the "Business");
+(b) with respect to the Business, during the 1996 and 1997 taxation years, the Appellant claimed the travel expenses mentioned above;
+(c) during the 1996 and 1997 taxation years, the Appellant travelled on average once a month to Business functions;
+(d) the said Business functions represented meetings of members that fell within the definition and rules on "conventions";
+(e) the convention expenses are limited to two per taxation year;
+(f) with respect to the Business, during the 1997 taxation year, the Appellant also claimed special promotion expenses as outlined above;
+(g) these special promotion expenses consisted for the Appellant, his spouse and 3 other persons of the cost to fly to Las Vegas, Nevada, USA, and for the duration of their stay in Las Vegas, (October 30, 1997 to November 2, 1997), of the cost of car rental, accommodation and a few meals;
+(h) the expenses were incurred for a motivational meeting with successful Amway members in the United States of America;
+(i) again, the motivational meeting fell within the definition and rules of "Conventions";
+(j) the convention expenses being limited to two per year and having been already claimed against travel expenses for the same taxation year, the special promotion expense shown above was disallowed;
+(k) furthermore, the Appellant did not incur this special promotion expense for the purpose of gaining or producing income from a business or property.
+[5] The Minister considered the business functions or the "business training seminars" referred to by the appellant in his Notice of Appeal as conventions within the meaning of subsection 20(10) of the Act. That provision reads as follows:
+SECTION 20: Deductions permitted in computing income from business or property.
+420(10)3
+(10) Convention expenses. Notwithstanding paragraph 18(1)(b), there may be deducted in computing a taxpayer's income for a taxation year from a business an amount paid by the taxpayer in the year as or on account of expenses incurred by the taxpayer in attending, in connection with the business, not more than two conventions held during the year by a business or professional organization at a location that may reasonably be regarded as consistent with the territorial scope of that organization.
+[6] Pursuant to that provision of the Act, convention expenses are limited to two conventions per taxation year and that is why amounts of $961.92 and $1,742.00 were allowed for 1996 and 1997 respectively in respect of travel expenses incurred by the appellant to attend two of the meetings in question. The balance of the travel expenses was disallowed.
+[7] With respect to the special promotion expense for the trip to Las Vegas in 1997, the Minister also alleges that it was not incurred for the purpose of gaining or producing income from a business or property pursuant to paragraph 18(1)(a) of the Act. Paragraphs 18(1)(a) and (b) read as follows:
+Deductions
+SECTION 18: General limitations.
+(1) In computing the income of a taxpayer from a business or property no deduction shall be made in respect of
+(a) General limitation - an outlay or expense except to the extent that it was made or incurred by the taxpayer for the purpose of gaining or producing income from the business or property;
+418(1)(b)3
+(b) Capital outlay or loss - an outlay, loss or replacement of capital, a payment on account of capital or an allowance in respect of depreciation, obsolescence or depletion except as expressly permitted by this Part.
+[8] In the alternative, the respondent submits that the travel and special promotion expenses claimed by the appellant in excess of the amounts allowed by the Minister were unreasonable in the circumstances and not deductible pursuant to section 67 of the Act, which reads as follows:
+SECTION 67: General limitation re expenses.
+In computing income, no deduction shall be made in respect of an outlay or expense in respect of which any amount is otherwise deductible under this Act, except to the extent that the outlay or expense was reasonable in the circumstances.
+Issue
+[9] The appellant takes issue with the position taken by the Minister. In the appellant's view, the travel expenses for attending the business training seminars and the special promotion expense with regard to the trip to Las Vegas were reasonable current expenses incurred for the purpose of gaining or producing income from a business and are deductible pursuant to paragraph 18(1)(a) of the Act. In his view, the business training seminars are not conventions within the meaning of subsection 20(10) of the Act. He submits that subsection 20(10) applies only to permit the deductibility of a capital expense, which otherwise would not be deductible by virtue of paragraph 18(1)(b) of the Act. This is why a distinction has to be made between a convention and the business seminars attended by the appellant. In the appellant's view, while expenses incurred to attend a convention have been traditionally treated as capital expenses in the case law, expenses incurred to attend monthly business training seminars are more in the nature of current expenses. Accordingly, subsection 20(10) should not apply to limit the deductibility of such expenses to a maximum of two seminars.
+[10] The issue therefore is whether the Minister erred in treating the travel and special promotion expenses incurred by the appellant during the 1996 and 1997 taxation years as expenses incurred for attending a "convention" within the meaning of subsection 20(10) of the Act, and in limiting as a consequence such expenses to two conventions per taxation year. This Court will also have to determine whether the special promotion expense related to the Las Vegas trip in 1997 was incurred for the purpose of gaining or producing income from a business pursuant to paragraph 18(1)(a) of the Act. Finally, if the Minister erred on the first two issues, it must be decided whether the travel and special promotion expenses claimed by the appellant in excess of the amounts allowed by the Minister were unreasonable and therefore not deductible pursuant to section 67 of the Act.
+Facts
+[11] Dr. Shaver, the appellant, testified that he joined Amway (which became Quixtar in 1999) in 1995. He was sponsored at the time by Dr. S. Gardee, also an IBO and a physician practising in the Ottawa area. The appellant and Dr. Gardee belong to the "upline" organization (as it is referred to in the Amway organization) of Mr. Roy Bulmer, a retired police officer and an IBO living in Windsor, Ontario. Dr. Gardee and Mr. Bulmer also testified.
+[12] In paragraph 3 of section C of his Notice of Appeal, the appellant said that an IBO will be successful with Amway if, besides doing direct selling, he tries to interact with others and interest them in becoming Amway distributors, who then become known as "downline" distributors. The appellant contends that such interaction is facilitated through various "business training seminars" available to Amway distributors. In 1996 and 1997, the business and sales meetings attended by the appellant were organized and sponsored by Mr. Bulmer's organization. They were held in Windsor, Hamilton, London and Toronto in Ontario, and in the United States (namely in Cleveland, Ohio; Florence, Kentucky; Pittsburgh, Pennsylvania; and Ada and Grand Rapids, Michigan; there was also one in Tampa, Florida. See Exhibit R-1, Tab 8). Apart from the one he attended in Tampa, the appellant drove to all the seminars.
+[13] Mr. Bulmer, who is at the top level of the Amway distributorship hierarchy, being a Diamond IBO, as it is referred to in the Amway organization, testified that the purpose of those business and sales meetings is to teach the attendees how to personally use the products to be sold, how to promote the sale of those products, and how to sponsor and encourage new people joining the organization in order to increase sales volume. Thus, depending on needs at the time, the emphasis at those meetings is put on product knowledge, sales techniques and sponsoring, all for the purpose of ultimately encouraging the maximization of sales through sponsoring. It is my understanding that the whole concept of the Amway distributorship system is to give discounts and points to members when they purchase a certain volume of products from the organization; at the same time, the buyers' sponsors get points on those purchases. The points earned by a lower-level IBO help maximize the income of the higher-level IBOs. Indeed, after enough points are accumulated, Amway pays the IBOs bonuses out of the overall sales.
+[14] In the present case, it is my understanding that meetings were organized by the Diamond IBOs once a month and that the schedule at such meetings was very intensive. Different speakers from outside or inside the organization were invited to make onstage presentations dealing with specialized products, sales techniques, how to build that type of business and how the speakers personally succeeded in that field. Speakers were limited as to the length of their presentations and the meetings could last until two or three o'clock in the morning.
+[15] According to Mr. Bulmer, it is in the best interests of the IBOs to attend these meetings if they want to grow. Indeed, one purpose of the meetings is to encourage growth so that the person attending can advance to higher levels in the organization by encouraging people recruited into the organization to sell, thereby enabling that attendee to eventually increase his or her income. The meetings are organized by Amway for IBOs associated with Amway only. There are no social, for-pleasure activities at those meetings and attendees pay for their own food (usually fast food at concession stands, with no alcoholic beverages). Training books and tapes are also available for purchase at the meetings. Videos on the promotion of key products or on motivational subjects are presented between speakers. No sale of products occurs at the meetings.
+[16] Mr. Bulmer testified that although no direct profit is made from those meetings, it was observed that an increase in sales income usually happens soon after such an event.
+[17] Mr. Bulmer said that they organize three or four larger meetings (with 30,000 people attending) and approximately eight local events (with 5,000 to 6,000 people attending) throughout the year in different locales, usually in the state of Ohio or in Canada. He emphasized the fact that all the events (the major ones and the local ones) are organized with the same goal, which is promoting sales and teaching how to sponsor people in order to generate income. He described a major event as giving "a larger picture of what can be achieved" but at a cost for the organization that is much greater than for a small event, which is the type that "kind of helps keep the business together" (see transcript at page 84).
+[18] Dr. Gardee, who is also a physician and works with the appellant, testified that he joined Amway in 1994 and that since then he has achieved the Emerald level in the Amway organization (which is one level under Mr. Bulmer). It was he who recruited the appellant into the organization. He explained that the concept of the business is to form distribution organizations and to move the products in volume to a very large distribution organization. He said that his commission on product sales increased significantly as he built up a larger distribution organization. The knowledge required to achieve this was acquired through a training system by attending the business seminars on a monthly basis. He described those seminars as very intensive "product learning" sessions at which there are product promotions for new products coming out and instruction on techniques for moving those products in the organization and on what groups to target for each product. He said that a monthly meeting is necessary because it is an evolving business with new products and new techniques coming out all the time. There are also new people joining the business regularly who want to attend the meetings to learn about the business as soon as possible. As a sponsor, one would have to accompany the recruits to meetings. He also confirmed Mr. Bulmer's testimony that the promotion of a product in a specific manner presented at those meetings would result in a significant increase in the volume of sales within a short time. He also said that the rate of registration of new people by sponsors rose after those seminars. He concluded his testimony by saying that only those who attend the seminars become successful in that business. It is hard work to which one has to be dedicated, he said.
+[19] In the case of the appellant, it does not seem that he was as successful as Dr. Gardee or Mr. Bulmer. Although he has achieved the Platinum level (which is two levels under the Emerald level attained by Dr. Gardee), he has always suffered losses from the business. For 1996, he declared a gross profit of $5,580 and a net loss of $4,823 (taking into account travel expenses in the amount of $4,568 he claimed). For 1997, he declared a gross profit of $16,574 and a net loss of $4,546 (taking into account travel expenses of $6,411 and the special promotion expense of $5,562). He said that his wife was working with him in the business, but the whole of the business losses was claimed in his tax return against his professional income. He said that he sponsored nine IBOs in 1996 and six in 1997 (Exhibit R-2). There have been no new sponsorships since then. He said that one of the reasons for this stagnation was that he was disadvantaged in Canada by being limited to two conventions per year.
+[20] With respect to the trip to Las Vegas in 1997, the appellant testified that he invited five IBOs to reward them for their work, and he thought it would help improve their and his own profitability. They were hosted in Las Vegas by people standing very high in the Amway hierarchy ("Double Diamond" IBOs). The appellant was accompanied by his wife, and he claimed the travel expenses for the two of them and for the five IBOs that he invited. The appellant testified that it was an event given over totally to socializing and that they did not attend any lectures there. He explained that two of the IBOs invited were sponsored by him and that they were approaching a certain level in the Amway hierarchy. The purpose of inviting them was purportedly to motivate them and persuade them to achieve a higher level.
+[21] Mr. Robert Cardinal, the appellant's accountant, testified that he considered that expense as a promotional expense, as it was his understanding that its purpose was to reward brand new IBOs under the appellant's sponsorship for work performed or to be performed with a view to achieving increased production numbers. The appellant had told him that this reward would enhance his ability to earn income from the business.
+[22] With respect to the monthly meetings, Mr. Cardinal considered them as being of a training nature and the costs related thereto were claimed as current business expenses.
+Analysis
+Travel expenses
+[23] The question raised is whether the travel expenses incurred by the appellant to attend the monthly business seminars may be deducted in their entirety as current business expenses or whether the deduction is limited by the application of subsection 20(10) of the Act.
+[24] The respondent obviously does not dispute that the travel expenses were incurred by the appellant in connection with his Amway business. Indeed the Minister has accepted the deduction of travel expenses incurred to attend two of the meetings for each taxation year at issue. The only reason the travel expenses for attending the other meetings were disallowed is that the Minister was of the opinion that the deduction of those expenses was restricted by the application of subsection 20(10) of the Act.
+[25] Subsection 20(10) was incorporated into the Act to overrule the judgment of the Exchequer Court of Canada in H. Griffith v. M.N.R., [1956] C.T.C. 47, a case in which it was held that convention expenses incurred by a professional person could not be considered to have been incurred for the purpose of earning income (see Canada Tax Service, Thomson Carswell, Volume 4, page 20-2451).
+[26] In Griffith, supra, the taxpayer was a medical doctor specializing in the field of anaesthesia and was one of the outstanding specialists in that field. He had deducted expenses incurred for attending conventions at which he delivered addresses and presented lectures. The deduction was disallowed on the basis that the expenses were not incurred for the purpose of earning income. The appellant contended that his attendance at conventions was not for the purpose of furthering his education, but for the purpose of keeping his name before the public, which was a form of advertising, and that the expenses with respect thereto were incurred to produce income.
+[27] The Exchequer Court of Canada confirmed the decision of the Tax Appeal Board (reported at 54 DTC 470) and was in complete agreement with the Board's conclusions of fact and law. The Tax Appeal Board had put the question as follows at page 473:
+Do expenses incurred by a taxpayer to attend conventions come within the exception set out in section 12(1)(a) [now paragraph 18(1)(a)] of the Act?
+What are conventions and what is their purpose? They are gatherings of people in the same calling, profession or trade who meet to discuss matters of common interest, exchange opinions on recent discoveries liable to affect their field of action and consider the problems raised by the constant evolution of science and the demands of modern living. These conventions make it possible for those who follow the discussions to acquire new knowledge, or at least to increase that they already have, thus putting them in a better position to meet the needs of those they have chosen to serve in their respective fields. A convention, therefore, provides the person attending it with an opportunity to increase his knowledge, and I agree with the respondent's submission that it is akin to a post-graduate course in that those who attend increase their knowledge, and that the expenditures made by those who attend are of a capital nature. That such is the effect of conventions seems to be acknowledged by the appellant himself who admitted that, although in attending conventions it was not his primary purpose to increase his knowledge, nevertheless he might incidentally have done so, and he recognized that conventions are a medium through which one is kept aware of the progress being made in the field in which one's specialty lies.
+The Tax Appeal Board concluded at page 474:
+After a most serious consideration of the question in issue, I have reached the conclusion that the expenditure made by the appellant to attend conventions is not an expenditure made for the purpose of earning income from his profession, but is rather an expenditure of a capital nature and, as such, not deductible in view of the provisions of section 12(1)(b) [now paragraph 18(1)(b)] of the Act.
+[28] The Exchequer Court was also of the view that the expenses for attending a convention were not incurred with the object of obtaining actual or immediate gain or profit. The Court concluded that the fact that attending the meetings in question would eventually lead to gaining or producing profit in the future was too remote for consideration. So, in the Court's view, the expenses were capital in nature and therefore not deductible pursuant to former paragraph 12(1)(b) (now 18(1)(b)) of the Act. Furthermore, there was no direct immediate profit deriving from the outlay, and therefore the expense was not deductible pursuant to former paragraph 12(1)(a) (now 18(1)(a)) of the Act either.
+[29] However, the restrictive approach taken by the Exchequer Court with respect to paragraph 18(1)(a) of the Act has since been rejected by the courts. An expense may thus be incurred for the purpose of gaining or producing income from a source referred to in paragraph 18(1)(a) of the Act, even though it is not incurred with the object of obtaining actual or immediate gain or profit. As long as an activity is undertaken by a taxpayer in pursuit of profit and it is not a personal endeavour, there is a source of income and the profitability of the activity to which the expense relates does not affect the deductibility of the expense if that expense is reasonable in the circumstances (see Stewart v. Canada, 2002 SCC 46, at paragraphs 51-58).
+[30] The question now remains whether the expenses incurred by the appellant to attend the business seminars are capital in nature. In Griffith, supra, it was decided that the conventions attended by the taxpayer were akin to a post-graduate course in that those who attended increased their knowledge and therefore the expenditures made by them were of a capital nature.
+[31] In the present case, I am of the view that although the seminars attended by the IBOs were not akin to post-graduate courses, they nonetheless show most of the characteristics of conventions as defined in the case law. In Griffith, supra, conventions were described as "gatherings of people in the same calling, profession or trade who meet to discuss matters of common interest, exchange opinions on recent discoveries liable to affect their field of action and consider the problems raised by the constant evolution of science and the demands of modern living. These conventions make it possible for those who follow the discussions to acquire new knowledge, or at least to increase that they already have, thus putting them in a better position to meet the needs of those they have chosen to serve in their respective fields".
+[32] This, in my view, is very similar to the present situation, except that instead of gaining expertise in the medical field, the appellant gained expertise in the business of selling Amway products. The appellant admitted that he did not have any knowledge of that business when he became involved in it in 1995 and that he learnt business skills through the monthly meetings. Dr. Gardee gave similar testimony. He said that the knowledge required to build a large distribution organization was acquired through a training system, by attending the business seminars on a monthly basis.
+[33] Dr. Gardee described those seminars as very intensive "product learning" sessions and said that monthly meetings are necessary due to the fact that it is an evolving business with new products and new techniques coming out all the time. Similarly, Mr. Bulmer testified that the purpose of those meetings is to teach the attendees how to promote the sale of the products, how to recruit new members and how to build a business. All the seminars are attended by IBOs, who discuss there matters of common interest in the same field of activity. The seminars all deal with issues raised by the constant evolution in products and sales techniques and, in a way, by the demands of modern living.
+[34] A very similar situation existed in Graves (G.) v. Canada, [1990] 1 C.T.C. 357 (F.C.T.D.), a case in which the plaintiffs operated their own business, buying and selling Amway products on their own account and sponsoring other distributors whose sales contributed ultimately to their own success. The plaintiffs had submitted in essence that their involvement with the Amway organization involved two aspects, the selling of Amway products and the extension, by recruiting other distributors, of the Amway network (see Graves, supra, at page 365). The plaintiffs had claimed that the reason they attended meetings arranged by their line of distributorship was to enhance their ability to "sell" the business to others. Those meetings were described as follows in pages 365 and 366 of the decision:
+The plaintiffs described in considerable detail what transpired at the U.S. meetings. The trips to the U.S., as claimed by the plaintiffs, were not an example of vacations or holidays masquerading as business meetings. These sessions, held primarily during the weekends, were intensive, with large group meetings, smaller seminars, training sessions and only limited social gatherings. These took up most of the day and, with the exception of breaks for eating, continued with seminars and meetings into the evening and often past midnight. . . . The plaintiffs testified that an essential element of these trips was to be able to hear from and speak to other members in the organization who had achieved high rank and financial success through successfully engaging more distributors.
+The Graves were less articulate about the actual benefits reaped from attending such events. They spoke abstractly of motivation, enthusiasm and vision; they were not effective in describing the application of these themes to their business except in the most general sense.
+[35] In deciding the case, the court analysed the situation as follows at page 366:
+The emphasis on motivation and leadership at these events was not, in my view, strictly personal to the participants but was related to the development of skills that would ultimately affect growth of the business, which in the long run depends very significantly on the extension of networks of successful distributors. The worth of these skills to the business is not easily measurable and it is not readily apparent how exposure to these sessions specifically benefited the plaintiffs' business. However, I accept that they were seen as important factors in enabling one to successfully advance within the organization, particularly during the years of concern in this appeal when the plaintiffs were relative newcomers to the business and obviously eager to succeed in its development. In my view, in this case, the trips to the U.S. were made in connection with the business.
+[36] Having said this, the court came to the conclusion that the awareness gained by attending the meetings in question was a capital asset, and the deductibility of expenses incurred to attend those meetings was limited by the application of subsection 20(10) of the Act. In that regard, the court said at page 367:
+. . . I do not doubt that the plaintiffs believe they acquired awareness of how others had been successful and even techniques useful in motivating others to participate and to succeed in the Amway network. But that awareness and their ability to convert that into useful skills for their business, of direct sales and maintaining and developing their part of the network, can best be interpreted as long-term assets, capital assets under the Income Tax Act not allowable as an expense except within the limits of subsection 20(10). . . .
+The word "convention" is not defined in the Act. Generally, a convention is defined as being an "act of convening"; "formal assembly" (Concise Oxford Dictionary); or as "an assembly or meeting of members or representatives of political, legislative, fraternal, etc. organizations" (Black's Law Dictionary. 5th Ed. 1979). In this case, the plaintiffs attended meetings arranged by their particular line of distributorship which involved the assembly or convening of members of the distributorship line. They were not loose gatherings of people. They were organized in order to bring together members of the line of distributorship, and other interested persons, for business purposes. In my view these gatherings could be categorized best, under the Income Tax Act, as conventions.
+[37] The existence of a significant element of socializing, an element lacking in the meetings in Graves, was not considered a necessary factor for categorizing such meetings as conventions within the meaning of subsection 20(10) of the Act (see Graves, supra, page 367).
+[38] In Michayluk v. Canada, [1988] T.C.J. No. 733 (Q.L.), the court concluded that the expenses incurred by the taxpayers, who were Amway distributors, to attend meetings outside Canada in an attempt to move beyond their own direct sales business into the larger, more lucrative field of a network surrounding and supporting them, were deductible pursuant to subsection 20(10) of the Act. The court concluded that those meetings were conventions within the meaning of the Act. Interestingly enough, the court did not view the meetings in Canada in the same light: it did not "regard the circumstances surrounding [those] particular in-Canada expenditures as falling under subsection 20(10) of the Act - as some form of convention expenses" (page 9).
+[39] In the present case, I am not able to make such a distinction. Indeed the evidence clearly demonstrates that all the meetings attended by the IBOs, whether in Canada or in the U.S.A., had more or less the same purpose.
+[40] Similarly, in Wees v. Canada, [1994] T.C.J. No. 1192 (Q.L.), and in Roche v. Canada, [1989] T.C.J. No. 105 (Q.L.), travel expenses incurred by Amway distributors to attend several Amway meetings were considered by the court as having been incurred to develop long-term assets and therefore as being capital expenses. As a result, only the expenses incurred for two conventions were allowed in accordance with subsection 20(10) of the Act.
+[41] Furthermore, a distinction is made between training costs and costs incurred in connection with attending a convention in Interpretation Bulletin IT-357R2. In that bulletin, it is explained that some training costs are deductible as current expenses if they are not capital in nature. Expenses are considered to be capital in nature where the training results in a lasting benefit to the taxpayer, i.e. where a new skill or qualification is acquired. Where, on the other hand, the training is taken merely to maintain, update or upgrade an already existing skill or qualification, the related costs are not considered to be capital in nature. The distinction between a training course and a convention and between a training course and business meetings is made in paragraphs 9 and 10 of IT-357R2 as follows:
+9. A training course should be distinguished from a convention, which may be described as a formal meeting of members of an organization or association for professional or business purposes. Unlike a training course which generally has a classroom format for teaching a subject in accordance with a formal course of study, a convention does not normally have a classroom format and those attending are normally not expected to study text-books, prepare assignments or take tests. A convention does not become a training course when some of its sessions take the form of workshops. It is a question of fact whether a "seminar" is a convention or a training course. While conventions usually result in the acquisition of knowledge by those attending them, the deduction of convention expenses is specifically covered by subsection 20(10) and is subject to the limitations contained in the provisions of that subsection (see the current version of IT-131).
+10. A training course should also be distinguished from a meeting of a group of employees or owners of a business where no formal training occurs. An employer's costs incurred in connection with employee meetings of this nature are usually allowable, as are costs of similar meetings of the owners of a business, provided that such costs are reasonable in the circumstances and are incurred for the purpose of carrying on the business.
+[42] While Interpretation Bulletin definitions cannot override the legal meaning of a word or an expression used in the Act, in the present case I find nonetheless that the monthly seminars attended by the appellant fit better within the IT-357R2 definition of a convention than within the definitions of a training course or of a meeting of owners of a business where no formal training occurs, also contained in that Interpretation Bulletin. According to the evidence presented at trial, the seminars in question herein can very well be defined as formal meetings of members of an organization (Amway) that are held for business purposes and that result in the acquisition of knowledge by those attending them. Accordingly, in my view, these seminars are conventions within the meaning of the Act, as defined in the case law and, incidentally, in the Interpretation Bulletin.
+[43] Finally, it is my understanding from the evidence that although there is a profit-making component involved in attending the seminars in question, the acquisition of new skills and increased knowledge by the attendees forms an integral part of those seminars. The fact that some members may already possess some of those skills is not a bar to classifying the expenses incurred by them as being capital in nature. On this point, I reiterate what the Income Tax Appeal Board said (subsequently confirmed by the Exchequer Court of Canada) in Griffith, supra, at page 473, before concluding that the expenses at issue there were capital expenditures:
+. . . That such is the effect of conventions seems to be acknowledged by the appellant himself who admitted that, although in attending conventions it was not his primary purpose to increase his knowledge, nevertheless he might incidentally have done so, and he recognized that conventions are a medium through which one is kept aware of the progress being made in the field in which one's specialty lies.
+[44] I therefore conclude on the first issue of travel expenses that the Minister did not err in treating them as expenses incurred in the course of a "convention" within the meaning of subsection 20(10) of the Act and consequently in limiting such expenses to two conventions per taxation year.
+Las Vegas Trip
+[45] The appellant has acknowledged that this trip was a purely social event. There were no lectures and no seminars. It was not a convention. The question therefore is whether the expenses claimed by the appellant in respect of that trip were incurred for the purpose of gaining or producing income from a business.
+[46] The expenses consist of seven airline tickets to travel to Las Vegas, accommodation in four rooms, car rental, and gas for a three-day stay (see Exhibit R-1, Tab 9). The appellant testified that two of his guests were sponsored by him in the Amway organization. The appellant was himself accompanied by his wife.
+[47] In Rovan v. M.N.R., 86 DTC 1791 (T.C.C.), it was said that convention expenses would be deductible in computing income if the primary purpose of attending the convention was the enhancement of the taxpayer's business as a source of income. The court said, at pages 1794-95:
+. . . Expenditures made for what is a vacation under the guise of attending a convention for business purposes are not deductible in computing income. If they were, this would in effect be allowing certain taxpayers to have other taxpayers share the cost of their vacations. This cannot be what the legislation intends. This is not to suggest that indulgence at a convention in activities normally associated with a vacation precludes the deductibility of expenses incurred, but those activities must be clearly subservient to the overriding business purposes of the meeting.
+[48] In my view, the same reasoning applies to expenses claimed for attendance at a social event in a vacation area like Las Vegas. The fact that the appellant purported to promote his business through a vacation trip to Las Vegas organized as a reward to IBOs who might help improve his profitability is, in my view, too remote to justify the deduction of the claimed expenses pursuant to paragraph 18(1)(a) of the Act. Amounts paid out purely for social entertainment and perhaps as a contribution to fostering pride in a certain achievement are not deductible expenses pursuant to paragraph 18(1)(a) of the Act. This is particularly so as the evidence adduced is very inconclusive as to whether the expenses incurred were actually for the purpose of gaining or producing income from the business (see H.A. Brown Limited v. M.N.R., 61 DTC 177 (T.A.B.); Leffler v. M.N.R., [1971] Tax A.B.C. 717). One must remember here that only two of the five IBOs invited were sponsored by the appellant and that the involvement of the appellant's wife in the business is far from clear. Also, the evidence presented is silent as to the role the appellant's guests played in enabling the appellant to earn income from his business. I therefore conclude that the appellant has not proven that the primary purpose of incurring the expenses related to the Las Vegas trip was the enhancement of his business per se. The expenses are consequently not deductible pursuant to paragraph 18(1)(a) of the Act.
+[49] Furthermore, the Tax Appeal Board said in Brown, supra, at page 181, that:
+In cases of this kind a rule to be remembered is that when a taxpayer intends to absorb the cost personally it matters not, of course, how he spends his money but when he proposes deducting the cost from his taxable income and actually does so, then the reasonableness of the expenditure at once comes under scrutiny. (See Roebuck v. Minister of National Revenue, 26 Tax A.B.C. 11, at page 19, 61 DTC 72, at page 77.) On this point also there will be a finding unfavourable to the appellant.
+[50] In my view, this is an instance where, even if I concluded that the expense claimed is deductible pursuant to paragraph 18(1)(a) of the Act, that expense is so excessive as to be unreasonable and therefore non-deductible by virtue of section 67. (See Mohammad v. The Queen, 97 DTC 5503 (F.C.A.); Cipollone v. Canada, [1994] T.C.J. No. 862 (Q.L.).) The expense incurred for the trip to Las Vegas in 1997 represents one third of gross income for that year. This, I find, is excessive and unreasonable in the circumstances. As Cattanach J. said in Gabco Ltd. v. M.N.R., 68 DTC 5210 (Ex. Ct.) at page 5216:
+It is not a question of the Minister or [t]his Court substituting its judgment for what is a reasonable amount to pay, but rather a case of the Minister or the Court coming to the conclusion that no reasonable business man would have contracted to pay such an amount having only the business consideration of the appellant in mind.
+[51] I therefore conclude that the special promotion expense claimed in relation to the trip to Las Vegas in the 1997 taxation year is not a deductible expense.
+[52] The appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 6th day of January 2004.
+"Lucie Lamarre"
+Lamarre, J.
+CITATION:
+2004TCC10
+COURT FILE NO.:
+2001-2584(IT)G
+STYLE OF CAUSE:
+Charles S. Shaver v. The Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+May 12, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+January 6, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Emilio S. Binavince
+Counsel for the Respondent:
+Natalie Goulard
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Emilio S. Binavince
+Firm:
+Binavince Smith
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

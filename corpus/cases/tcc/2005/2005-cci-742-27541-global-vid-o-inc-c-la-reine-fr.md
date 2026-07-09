@@ -1,0 +1,219 @@
+---
+title: "Global Vidéo Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27541/index.do"
+last_modified: "2005-11-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 742"
+citation2: ""
+neutral_citation: "2005 CCI 742"
+decision_date: "2005-11-29"
+language: "fr"
+item_id: "27541"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 103
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:16:09.849000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "68ee50649f9773b8258e81180415d00aae168c0224fc13f45fd1bb2223e7222e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Global Vidéo Inc. c. La Reine
+
+- Citation: 2005 CCI 742
+- Decision date: 2005-11-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 103, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Global Vidéo Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-11-29
+Référence neutre
+2005 CCI 742
+Numéro de dossier
+2003-1630(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-1630(IT)I
+ENTRE :
+GLOBAL VIDEO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 8 juillet 2005, à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Représentant de l'appelante :
+Mario Turcotte
+Avocate de l'intimée :
+Me Valérie Tardif
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition se terminant le 31 août 2001, dont l'avis est en date du 14 juin 2002, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2005CCI742
+Date : 20051129
+Dossier : 2003-1630(IT)I
+ENTRE :
+GLOBAL VIDEO INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel concernant l'année d'imposition se terminant le 31 août 2001.
+[2] Au début de l'audience, les parties ont informé la Cour que le seul point en litige était de savoir si l'appelante était une société admissible au sens de l'article 125.4 de la Loi de l'impôt sur le revenu (la « Loi » ) et ainsi avoir droit, en vertu de la même disposition, à un crédit d'impôt pour production cinématographique ou magnétoscopique canadienne pour l'année d'imposition en cause.
+[3] Pour les fins du débat, je cite les parties pertinentes de l'article 125.4 de la Loi et de l'article 1106 du Règlement de l'impôt sur le revenu (le « Règlement » ).
+125.4(1) Les définitions qui suivent s'appliquent au présent article.
+« certificat de production cinématographique ou magnétoscopique canadienne » Certificat délivré par le ministre du Patrimoine canadien relativement à une production et renfermant :
+a) une attestation portant que la production est une production cinématographique ou magnétoscopique canadienne;
+b) une estimation des montants entrant dans le calcul du montant qui est réputé, par le paragraphe (3), avoir été payé relativement à la production.
+« production cinématographique ou magnétoscopique canadienne » S'entend au sens du Règlement de l'impôt sur le revenu.
+« société admissible » Société qui, tout au long d'une année d'imposition, est une société canadienne imposable visée par règlement dont les activités au cours de l'année consistent principalement à exploiter, par l'entremise d'un établissement stable au Canada, au sens du Règlement de l'impôt sur le revenu, une entreprise qui est une entreprise de production cinématographique ou magnétoscopique canadienne.
+125.4(3) Crédit d'impôt
+La société qui est une société admissible pour une année d'imposition est réputée avoir payé, à la date d'exigibilité du solde qui lui est applicable pour l'année, un montant au titre de son impôt payable pour l'année en vertu de la présente partie égal à 25 % de sa dépense de main-d'oeuvre admissible pour l'année relativement à une production cinématographique ou magnétoscopique canadienne, si les conditions suivantes sont réunies :
+a) la société joint les documents suivants à la déclaration de revenu qu'elle produit pour l'année :
+(i) le certificat de production cinématographique ou magnétoscopique canadienne délivré relativement à la production,
+(ii) un formulaire prescrit contenant les renseignements prescrits,
+(iii) tout autre document visé par règlement relativement à la production;
+b) les principaux travaux de prise de vue ou d'enregistrement de la production ont commencé avant la fin de l'année.
+La partie pertinente du paragraphe 1106(4) du Règlement se lit comme suit :
+Production cinématographique ou magnétoscopique canadienne
+1106(4) Sous réserve des paragraphes (6) à (9), pour l'application de l'article 125.4 de la Loi, de la présente partie et de l'annexe II, « production cinématographique ou magnétoscopique canadienne » s'entend d'une production cinématographique ou magnétoscopique, à l'exception d'une production exclue, d'une société canadienne imposable visée, à l'égard de laquelle le ministre du Patrimoine canadien a délivré un certificat (sauf un certificat qui a été révoqué en vertu paragraphe 125.4(6) de la Loi) et qui, selon le cas :
+...
+La partie pertinente de la définition de « production exclue » se lit comme suit au paragraphe 1106(1) du Règlement :
+« Production exclue » Production cinématographique ou magnétoscopique d'une société canadienne imposable visée (appelée « société donnée » à la présente définition), qui, selon le cas :
+...
+b) est une production qui est, selon le cas :
+(i) une émission d'information, d'actualités ou d'affaires publiques ou une émission qui comprend des bulletins sur la météo ou les marchés boursiers,
+(ii) une interview-variétés,
+(iii) une production comportant un jeu, un questionnaire ou un concours, sauf celle qui s'adresse principalement aux personnes mineures,
+(iv) la présentation d'une activité ou d'un événement sportif,
+(v) la présentation d'un gala ou d'une remise de prix,
+(vi) une production visant à lever des fonds,
+(vii) de la télévision vérité,
+(viii) de la pornographie,
+(ix) de la publicité,
+(x) une production produite principalement à des fins industrielles ou institutionnelles,
+(xi) une production, sauf un documentaire, qui consiste en totalité ou en presque totalité en métrage d'archives.
+Le paragraphe 1106(2) du Règlement se lit comme suit :
+Société canadienne imposable visée
+(2) Pour l'application de l'article 125.4 de la Loi et de la présente section, est une « société canadienne imposable visée » la société canadienne imposable qui a la qualité de Canadien, à l'exception de toute société qui, selon le cas :
+a) est contrôlée directement ou indirectement, de quelque manière que ce soit, par une ou plusieurs personnes dont tout ou partie du revenu imposable est exonéré de l'impôt en vertu de la partie I de la Loi;
+b) est une société à capital de risque de travailleurs visés à l'article 6701.
+La définition de « Canadien » au paragraphe 1106(1) du Règlement se lit comme suit :
+« Canadien »
+a) Particulier qui est, selon le cas :
+(i) un citoyen au sens du paragraphe 2(1) de la Loi sur la citoyenneté,
+(ii) un résident permanent au sens du paragraphe 2(1) de la Loi sur l'immigration et la protection des réfugiés;
+b) société qui est une unité sous contrôle canadien, selon ce qui est prévu aux articles 26 à 28 de la Loi sur Investissement Canada.
+L'article 28(2) de la Loi budgétaire concernant l'impôt sur le revenu (sanctionnée le 20 juin 1996) se lit comme suit :
+(2) Le paragraphe (1) s'applique aux années d'imposition 1995 et suivantes. Toutefois, pour l'application de la définition de « société admissible » au paragraphe 125.4(1) de la même loi, édictée par le paragraphe (1), à une production cinématographique ou magnétoscopique canadienne dont les principaux travaux de prise de vue ont commencé avant juillet 1996, le mot « principalement » dans cette définition est remplacé par « notamment » .
+[4] Les faits sur lesquels s'est fondé le ministre du Revenu national (le « Ministre » ) pour établir sa cotisation sont décrits aux paragraphes 11 et 11.1 de la Réponse modifiée à l'avis d'appel. Je reproduis ceux qui concernent la question en litige :
+a) dans sa déclaration de revenu pour l'année d'imposition se terminant le 31 août 2001, l'appelante a déclaré, pour la production « Aujourd'hui Pelchat » , un coût de production de 125 047 $ et, aux fins du calcul du crédit d'impôt pour production cinématographique ou magnétoscopique canadienne, des dépenses de 60 023 $ (48% x 125 047 $);
+b) l'appelante a ainsi réclamé un crédit d'impôt pour production cinématographique ou magnétoscopique canadienne de 15 006 $ (60 023 $ x 25%), qui lui a été refusé par le ministre du Revenu national;
+c) ...
+d) l'appelante n'est pas une société dont les activités au cours de l'année d'imposition 2001 consistaient principalement à exploiter une entreprise qui est une entreprise de production cinématographique ou magnétoscopique canadienne;
+e) la majorité des productions de l'appelante ne sont pas des productions cinématographiques ou magnétoscopiques canadiennes;
+f) la production « Aujourd'hui Pelchat » pour laquelle une demande de crédit d'impôt pour production cinématographique ou magnétoscopique canadienne a été faite pour l'année d'imposition 2001, est la seule production cinématographique ou magnétoscopique canadienne de l'appelante, certifiée par le ministre du Patrimoine canadien;
+g) cette seule production certifiée ne représente qu'un faible pourcentage des activités de l'appelante pour l'année d'imposition 2001, soit moins de 25%, puisque le coût de cette production, net de l'aide reçue, est de 102 539 $ alors que les coûts de production totaux pour l'année sont de 435 669 $;
+h) ...
+11.1 Le sous-procureur général du Canada ajoute que pendant l'année d'imposition 2001 l'appelante a fait principalement des films publicitaires dans le cadre de son entreprise.
+[5] De l'Avis d'appel, je cite les paragraphes 16 à 19 comme suit :
+16. Qui plus est, l'interprétation de l'Agence est totalement contraire aux principes d'équité fiscale devant guider le législateur face aux contribuables.
+17. En effet, l'interprétation de l'Agence amène qu'il deviendra la norme pour les producteurs de faire indirectement ce qui ne peut être fait directement.
+18. En effet, l'interprétation de l'Agence amène l'incorporation de compagnies « coquilles » dont le seul actif théorique est une production cinématographique spécifique amenant, par le fait même, la qualification automatique pour le crédit d'impôt PCMC.
+19. Or, l'Appelante, à titre de compagnie opérante, se trouve injustement pénalisée puisque la majorité de ses productions n'ont pas été qualifiées par le Ministère du patrimoine canadien mais elle est en fait, bel et bien, une entreprise de production cinématographique ou magnétoscopique.
+[6] Monsieur Mario Turcotte, président de l'appelante, la représentait à l'audience. Monsieur Turcotte explique que l'appelante, une société privée sous contrôle canadien, exerce dans la production cinématographique ou magnétoscopique depuis mai 1996. La société produit notamment des documentaires ou des films publicitaires pour des sociétés privées ou d'État.
+[7] Durant l'année d'imposition en cause, l'appelante a réclamé le crédit d'impôt pour production cinématographique ou magnétoscopique canadienne ( « PCMC » ) pour la production intitulée : « Aujourd'hui Pelchat » . Cette production a été dûment certifiée par le ministre du Patrimoine canadien.
+[8] Monsieur Turcotte a expliqué les démarches à suivre pour financer une production. La première étape est d'offrir le projet de l'émission de télévision à un diffuseur. Si un diffuseur est intéressé, le producteur établit le budget. Il détermine combien va coûter la production et si la société productrice a droit à des crédits d'impôt fédéral et provincial et autres subventions possibles. Il a fait une demande de certification auprès de la Société de développement des entreprises culturelles ( « Sodec » ) qui a émis le certificat approprié. La même demande a été faite auprès du Bureau de certification des produits audiovisuels canadiens ( « BCPAC » ) du Patrimoine canadien. Ce dernier a émis en date du 7 septembre 2001 un certificat de production cinématographique ou magnétoscopique canadienne (pièce A-1). L'appelante a commencé la production après avoir eu l'approbation des diffuseurs et obtenu les certifications de la Sodec et du BCPAC. Monsieur Turcotte fait état que les crédits d'impôt sont importants dans le financement d'une production. Ainsi, sur un budget de 100 000 $ pour la production, une société de production peut s'attendre à recevoir 30 000 $ d'aide en crédits d'impôt provenant des deux gouvernements.
+[9] La production « Aujourd'hui Pelchat » était une émission d'une heure. Le témoin relate que l'émission a été diffusée au mois de novembre 2001 à TVA avec la mention du gouvernement du Canada pour le crédit d'impôt fédéral et la mention du gouvernement provincial pour le crédit d'impôt provincial.
+[10] L'appelante produit comme pièce A-3 le Certificat d'achèvement. Il est en date du 22 janvier 2004.
+[11] En mars 2002, l'appelante reçoit de l'Agence des douanes et du revenu du Canada ( « ADRC » ) une lettre et un projet de cotisation. La lettre a comme objet : « Réclamation du crédit de l'impôt pour production cinématographique ou magnétoscopique canadienne (PCMC) pour l'exercice se terminant le 31 août 2001 » . Elle dit : « ... Compte tenu des renseignements qui nous ont été transmis, nous sommes d'avis que la réclamation pour la période ci-dessus mentionnée n'est pas admissible en vertu de la Loi de l'impôt sur le revenu. » (pièce I-3).
+[12] L'avis de cotisation pour l'année 2001 porte la date du 14 juin 2002 (pièce I-5).
+[13] La déclaration de revenu de l'appelante pour l'année se terminant le 31 août 2001 a été déposée comme pièce I-1. Elle inclut les états financiers. À la page 2 de ces états financiers, les coûts totaux de production sont indiqués être au montant de 435 669 $. Environ 125 000 $ sont attribuables à la production « Aujourd'hui Pelchat » . La balance correspond à des activités de publicité et de vidéos corporatifs. Il s'agit de la seule production certifiée par le BCPAC.
+[14] Monsieur René Pétrin, le vérificateur à l'Agence du revenu du Canada ( « ARC » ) a témoigné. Il travaille à l'ARC depuis plus de 17 ans et depuis plus de quatre ans à la vérification des demandes du crédit d'impôt de PCMC. Le dossier de l'appelante lui a été assigné au moment de la cotisation initiale. Sa tâche est de s'assurer que la société est une société admissible. Si c'est le cas, il lui faut établir le montant des crédits et les autres attributs fiscaux reliés à cette question.
+[15] Le témoin explique que selon lui, la société n'était pas admissible en vertu des dispositions de l'article 125.4 bien que la production ait été admissible. Les activités de la société ne répondaient pas à l'exigence du « principalement » de la définition de « société admissible » . Le crédit d'impôt a été refusé.
+[16] Le témoin relate que lorsqu'il a reçu le dossier, il a regardé les états financiers. Les coûts de production totaux étaient de 400 000 $ environ et il y avait environ 100 000 $ pour la production certifiée par le BCPAC. Il a téléphoné à monsieur Turcotte ou à son comptable pour leur demander si c'était la seule production certifiée. La réponse a été affirmative. Il leur a alors expliqué que la société n'était pas une société admissible en vertu de l'article 125.4.
+[17] Pour l'ARC, le terme « principalement » est interprété comme étant de 50% et plus. Le témoin explique qu'en général, dans l'industrie cinématographique, pour se conformer au critère de « principalement » de l'article 125.4, il y a une société qui exerce ses activités à l'égard des productions certifiées et, le cas échéant, une autre du même groupe, qui exerce ses activités dans les productions exclues.
+[18] Le « Guide du formulaire T1131 » pour les fins de la « Demande de crédit d'impôt pour production cinématographique ou magnétoscopique canadienne » a été déposé comme pièce I-8. L'expression « principalement » est ainsi commentée à la page 14 du guide :
+... Pour qu'une société soit admissible aux fins du CIP, ses activités doivent consister principalement (plus de 50% du temps) à exploiter une entreprise qui est une entreprise de PCMC.
+Pour déterminer si les activités de la société consistent principalement à exploiter une entreprise de PCMC, nous examinerons, entre autres, toutes les sources de recettes générées par la société. La société peut ne pas être considérée comme une SA aux fins du programme du CIP si elle génère des recettes importantes à partir d'activités telles que :
+- la location de matériel ou de studios;
+- la distribution de films ou de vidéos;
+- la production de films ou de vidéos qui ne sont pas des PCMC.
+[19] Le vérificateur relate que le mot « notamment » utilisé dans la disposition transitoire de l'article 28(2) de la Loi budgétaire concernant l'impôt sur le revenu, ci-dessus, était interprété comme exigeant 20%, alors que « principalement » requiert 50% et plus.
+Plaidoiries
+[20] Monsieur Turcotte doute que l'on doive interpréter la Loi comme demandant des sociétés distinctes pour les activités cinématographiques certifiées. Il considère que le BCPAC l'a induit en erreur en acceptant son projet cinématographique sans le mettre en garde sur la notion de société admissible. Il aurait souhaité que l'on trouve au certificat de production cinématographique ou magnétoscopique canadienne qui lui a été émis le 7 septembre 2001, et qui est quand même assez détaillé en ce qui concerne les différentes dispositions de la Loi, l'avertissement que sa société devait également être une société admissible au sens du paragraphe 125.4(1) de la Loi pour avoir droit au crédit d'impôt pour production cinématographique ou magnétoscopique canadienne.
+[21] L'avocate de l'intimée se réfère à une décision du juge Dussault de cette Cour dans Transport Jacques Lemieux Inc. c. M.R.N., 91 DTC 500, où le juge a analysé le terme « principalement » à la page 501 :
+Si l'expression « principalement » semble causer peu de difficulté en ce qu'elle signifie en majeure partie, ou exprimée en pourcentage, plus de 50 %, c'est sur les facteurs utilisés pour la décrire qu'il semble y avoir des divergences. Alors que l'espace est un facteur pertinent lorsque l'on parle de l'utilisation d'un immeuble (voir Mother's Pizza parlour [88 DTC 6397]) et que le nombre d'heures de vol l'est aussi lorsqu'il est question de l'utilisation d'un avion (voir Yorkton Broadcasting Co. Limited [87 DTC 165]) [causes citées par le procureur de l'appelante], qu'en est-il en ce qui concerne l'utilisation d'un véhicule et plus particulièrement d'un camion-citerne?
+[22] Elle soumet qu'il est clair que ce doit être plus de 50%. Plus de 50% de quel élément? Dans certains cas, on peut penser que ce sont les tâches des employés, dans d'autres, le temps consacré. Dans ce cas-ci, le Ministre prend en considération les coûts de production. Les coûts de la production admissible sont environ 25% du coût total des productions, ce qui veut dire que 75% de la production de la société est faite pour des productions non admissibles.
+[23] L'avocate croit que des critères autres que les coûts de production pourraient être pris en compte mais il faudrait que ces critères soient justifiés ou raisonnables.
+Conclusion
+[24] Je me réfère à l'ouvrage de Pierre-André Côté, Interprétation des lois, 3e éd., aux pages 358 et 365 :
+Cette directive [Si la loi est claire, on ne doit pas l'interpréter] est consacrée par une maxime peu usitée chez nous : Interpretatio cessat in claris. Un adage, que le projet de livre préliminaire du Code civil français avait repris, lui donne une forme lapidaire : « Quand une loi est claire, il ne faut pas en éluder la lettre, sous prétexte d'en pénétrer l'esprit » .
+...
+Dans l'arrêt R.c. Multiform Manufacturing Co., le juge Lamer l'a énoncée ainsi [la règle du sens clair des textes] :
+« Lorsque le texte de la loi est clair et sans ambiguïté, aucune autre démarche n'est nécessaire pour établir l'intention du législateur. Nul n'est besoin d'une interprétation plus poussée lorsque le législateur a clairement exprimé son intention par les mots qu'il a employés dans la loi. »
+[25] Récemment, la Cour suprême du Canada s'est à nouveau prononcée sur les principes d'interprétation des lois fiscales dans l'arrêt Hypothèques Trustco Canada c. Canada, 2005 CSC 54, et je cite des extraits aux paragraphes 10 et 11 :
+L'interprétation d'une disposition législative doit être fondée sur une analyse textuelle, contextuelle et téléologique destinée à dégager un sens qui s'harmonise avec la Loi dans son ensemble. Lorsque le libellé d'une disposition est précis et non équivoque, le sens ordinaire des mots joue un rôle primordial dans le processus d'interprétation. Par contre, lorsque les mots utilisés peuvent avoir plus d'un sens raisonnable, leur sens ordinaire joue un rôle moins important. L'incidence relative du sens ordinaire, du contexte et de l'objet sur le processus d'interprétation peut varier, mais les tribunaux doivent, dans tous les cas, chercher à interpréter les dispositions d'une loi comme formant un tout harmonieux.
+...
+Lorsque le législateur précise les conditions à remplir pour obtenir un résultat donné, on peut raisonnablement supposer qu'il a voulu que le contribuable s'appuie sur ces dispositions pour obtenir le résultat qu'elles prescrivent.
+[26] Il peut être utile de se référer aux Notes explicatives émises par le Ministre des Finances sur les propositions législatives des modifications à la Loi. Celles de décembre 1995 concernant la proposition de définition de « société admissible » ne révèle rien quant aux raisons qui ont poussé le législateur à inclure le terme « principalement » .
+[27] Voici le texte des Notes explicatives :
+« société admissible »
+Est une société admissible la société canadienne imposable visée par règlement dont les activités, au cours d'une année, consistent principalement à exploiter, par l'entremise d'un établissement stable au Canada, au sens du règlement, une entreprise qui est une entreprise de production cinématographique ou magnétoscopique canadienne. Le Règlement de l'impôt sur le revenu sera modifié afin de faire état des conditions précises qu'une société canadienne imposable doit remplir pour être considérée comme une « société admissible » .
+[28] Je ne vois rien non plus dans les autres dispositions législatives de la Loi qui pourraient m'inciter à modifier le sens ordinaire du terme principalement. Je suis d'avis que le libellé de la disposition est précis et non équivoque et que le sens ordinaire du terme « principalement » doit être attribué à cette disposition. Le dictionnaire Petit Robert définit l'adjectif « principal » comme ce qui est le plus important, le premier parmi plusieurs. Le Ministre a choisi comme critère le coût consacré aux productions. L'appelante n'a proposé aucun autre critère car je crois qu'à elle aussi, il lui est clairement apparu que ses activités au cours de l'année, n'ont pas consisté principalement à exploiter une entreprise de production cinématographique ou magnétoscopique canadienne.
+[29] L'appel est en conséquence rejeté.
+Signé à Ottawa, Canada, ce 29e jour de novembre 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE : 2005CCI742
+N º DU DOSSIER DE LA COUR : 2003-1630(IT)I
+INTITULÉ DE LA CAUSE : GLOBAL VIDEO INC. ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 8 juillet 2005
+MOTIFS DE JUGEMENT PAR : L'honorable juge Louise Lamarre Proulx
+DATE DU JUGEMENT : le 29 novembre 2005
+COMPARUTIONS :
+Représentant de l'appelante :
+Mario Turcotte
+Avocate de l'intimée :
+Me Valérie Tardif
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

@@ -1,0 +1,235 @@
+---
+title: "Melançon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/309484/index.do"
+last_modified: "2018-04-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 73"
+citation2: ""
+neutral_citation: "2018 CCI 73"
+decision_date: "2018-04-19"
+language: "fr"
+item_id: "309484"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4822
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:57:29.216000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "08ef5aa0adaac796db3ffd92c03d5da156fca8941d4b6dd9735f1afafb20e7e5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Melançon c. La Reine
+
+- Citation: 2018 CCI 73
+- Decision date: 2018-04-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4822, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Melançon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-04-19
+Référence neutre
+2018 CCI 73
+Numéro de dossier
+2015-2479(IT)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-2479(IT)G
+ENTRE :
+GABRIEL MELANÇON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 16 novembre 2017, à Québec (Québec).
+Devant : L'honorable juge Guy R. Smith
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Marie-Claude Landry
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2007, 2008, 2009 et 2010, est rejeté, avec dépens en faveur de l’intimée, que la Cour fixe à 1 800 $.
+Signé à Ottawa, Canada, ce 19e jour d'avril 2018.
+« Guy Smith »
+Juge Smith
+Référence : 2018 CCI 73
+Date : 20180419
+Dossier : 2015-2479(IT)G
+ENTRE :
+GABRIEL MELANÇON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Smith
+I. INTRODUCTION
+[1] Gabriel Melançon, l’appelant dans cette instance, interjette appel à l’encontre des avis de nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») en date du 9 mars 2015 en vertu de la Loi de l’impôt sur le revenu, L.R.C., 1985, ch. 1 (5e suppl.), telle que modifiée (la « Loi »), à l’égard des années d’imposition 2007, 2008, 2009 et 2010.
+[2] Le ministre a ajouté au revenu de l’appelant des montants à titre d’avantages conférés à un actionnaire en vertu du paragraphe 15(1) de la Loi ainsi que des revenus de location non déclarés. Pour l’année d’imposition 2009, le ministre a appliqué la pénalité prévue au paragraphe 163(2) de la Loi. Les nouvelles cotisations pour les années d’impositions 2007 et 2008 ont été établies au-delà de la période normale de cotisation en vertu du sous-alinéa 152(4)a)(i) de la Loi.
+[3] Il est pertinent de noter que le ministre avait préalablement établi des nouvelles cotisations en date du 25 mars 2013 et que, suite à l’opposition de l’appelant, de nouvelles cotisations ont été établie en date du 9 mars 2015, prévoyant les montants suivants :
+2007
+2008
+2009
+2010
+Avantage :
+résidence personnelle
+32 876 $
+Avantage :
+dépenses de sous‑traitants
+13 519 $
+5 355 $
+Avantage : aménagement
+paysagé et piscine
+40 629 $
+Avantage :
+amélioration au sous‑sol
+28 500 $
+Revenus de location
+non‑déclarées
+4 000 $
+4 000 $
+4 000 $
+Pénalité – en vertu du
+paragraphe 163(2)
+4 151 $
+[4] Pour les fins de cet appel, l’appelant ne conteste pas les revenus de locations non‑déclarés, ni l’avantage conféré à l’actionnaire de 40 629 $ pour l’année d’imposition 2009. Au début de l’audience, l’appelant a indiqué qu’il ne contestait plus la pénalité rattachée à ce montant.
+[5] Conséquemment, seuls les montants suivants, inclus dans le revenu de l’appelant à titre d’avantages conférés à un actionnaire, sont en litige :
+1. La somme de 32 876 $ relatif à la construction de la résidence personnelle de l’appelant pour l’année d’imposition 2007;
+2. La somme de 28 500 $ relatif à des améliorations locatives au sous‑sol de ladite résidence pour l’année d’imposition 2010;
+3. Les sommes de 13 519 $ et 5 355 $, identifiés comme étant des dépenses de sous‑traitants, pour les années d’imposition 2007 et 2008;
+[6] En plus de revoir ces questions, la Cour doit déterminer si le ministre avait raison de cotiser l’appelant au‑delà de la période normale de cotisation, conformément au sous-alinéa 152(4)a)(i).
+[7] À l’audience, l’appelant s’est représenté lui‑même et a témoigné pour son propre compte. Monsieur Mathieu Lebel, qui avait agi à titre de vérificateur dans le dossier de l’appelant, a témoigné pour le compte de l’intimé.
+II. SOMMAIRE DES FAITS
+[8] L’appelant est détenteur d’un titre comptable CPA‑CMA. Depuis son entrée sur le marché du travail en 1995, il occupe plusieurs postes dans le domaine de la construction, soit comme contrôleur ainsi que gestionnaire de projet.
+[9] Il est le seul actionnaire de Gexco inc. (« Gexco »), une société œuvrant dans le domaine de la construction. Depuis le 1er janvier 2010, Gexco a pour seul actionnaire la société de gestion 9215‑3626 Québec inc. dont l’appelant est l’unique actionnaire.
+[10] L’appelant est également actionnaire à 50 % de la société 9180‑7537 Québec inc. (« 9180 »), laquelle œuvre dans le domaine du développement immobilier.
+Résidence personnelle de l’appelant
+[11] Entre les mois de novembre 2006 et d’août 2007, l’appelant a fait construire sa résidence personnelle située au 2325 rue Philippe Brodeur, à Québec (la « résidence »). Le terrain vague avait préalablement été acheté par sa mère vers la fin de l’année de 2005.
+[12] Aux fins de la construction de la résidence, l’appelant a transigé auprès de fournisseurs de matériaux de construction, d’entreprises de services de location et de sous‑traitants par le biais de la société Gexco, considérant que cette dernière avait des comptes ouverts auprès de nombreux intervenants en construction. Le coût des contrats a été facturé d’abord à Gexco, pour ensuite être refacturé à l’appelant personnellement.
+[13] La société Gexco a payé un total de 400 624 $, avant taxes, pour les dépenses relatives à la construction de la résidence, incluant un montant de 93 111 $ payés en salaire aux employés de la société, moins la valeur des améliorations au sous‑sol de la résidence, évaluées à 44 000 $.
+[14] Selon le vérificateur, plusieurs raisons indiquent que l’appelant a été bénéficiaire d’un avantage à titre d’actionnaire relativement à la construction de sa résidence personnelle.
+[15] D’abord, il estime que les factures de « ventes » de Gexco, émises à l’appelant, ne constituent pas une simple refacturation de dépenses encourues par la société.
+[16] Plus de neuf employés de Gexco ont travaillé sur la construction de la résidence. Selon le vérificateur, Gexco est donc très impliqué et les ressources utilisées sur la construction ne peuvent, entre‑temps, servir à la réalisation d’autres projets.
+[17] Dans les livres de Gexco, les sommes reçues de l’appelant sont inscrits comme des « revenus de contrats », mais ils ne génèrent aucune marge de profit. L’appelant reconnaît que Gexco n’a facturé aucun frais de gestion. Selon le vérificateur, la marge de profit de Gexco relativement à l’ensemble de ses autres projets de construction en 2007 s’élevait à au moins 8,09 %. Ainsi, il a imputé ce taux au coût de la résidence pour une somme équivalant à 32 876 $.
+[18] Le vérificateur a aussi noté que la résidence en question est présentée sur le site internet de Gexco comme étant une réalisation de la société.
+Dépenses de sous‑traitants
+[19] Au cours des années d’imposition 2007 et 2008, la société 9180 a émis des chèques à l’appelant totalisant respectivement, 13 518 $ et 5 355 $. Pour plusieurs raisons, le vérificateur estime que ces montants constituent des avantages conférés à un actionnaire et non des dépenses de sous-traitants.
+[20] À cet égard, il importe de noter que pour les années d’imposition 2008 et 2009, la société 9180 a été cotisée arbitrairement le 30 septembre 2010. Suite à cette cotisation, la société 9180 a produit des déclarations amendées, en date du 17 février 2011, y joignant ses états financiers et la comptabilité, pour les années en cause. À la lecture de la comptabilité, le vérificateur constate que les montants correspondant aux chèques en question sont inscrits au débit à titre de dépense de « sous‑contrats » et que le montant correspondant en crédit est attribuable à un compte fournisseur nommé « petite caisse ‑ Gabriel Melançon ». Il note par ailleurs que ces montants ne figurent pas au compte « avance de l’actionnaire » ou « dû à l’actionnaire ».
+[21] Toutefois, en date du 10 août 2011, la société fait parvenir au vérificateur un tableau révisé des avances aux actionnaires. Les montants, correspondant aux chèques, ont été modifiés, et ajoutés comme étant « avance à l’actionnaire ».
+[22] L’appelant prétend alors qu’il y a eu erreur et tente de démontrer que les chèques avaient plutôt été émis à titre de remboursement d’avances qu’il avait faites à la société 9180.
+[23] Le vérificateur informe alors l’appelant qu’il ne peut accepter ces modifications puisqu’il s’agit de corrections rétroactives, puisque les états financiers initiaux ont déjà été produits.
+Améliorations locatives
+[24] Au cours des années d’imposition 2007 à 2010, cinq employés de Gexco, incluant l’appelant, occupaient le sous-sol de la résidence de l’appelant aux fins d’affaires. Au moment de la construction de la résidence, des améliorations sont effectuées au sous-sol par Gexco pour les besoins commerciaux de l’entreprise. Le coût de ces améliorations s’élève à au moins 44 000 $.
+[25] Le 2 avril 2010, Gexco quitte les lieux afin de s’installer ailleurs. Suite à son départ, des travaux sont effectués au sous‑sol de la résidence aux fins personnelles de l’appelant. Le coût des améliorations locatives n’est pas remboursé à Gexco. L’appelant bénéficie donc d’un sous‑sol aménagé et disponible pour son occupation personnelle.
+[26] Lors de son témoignage, l’appelant a expliqué le traitement comptable appliqué aux améliorations locatives par la société Gexco. Celles‑ci étant un actif amortissable, elles ont été amorties à chaque année d’opération, soit de 2007 à 2010. Ensuite, lors du départ de Gexco, le résiduel non amorti est passé à titre de dépense considérant qu’il ne servait plus à l’usage de l’entreprise.
+[27] Au cours de la vérification, les services d’un évaluateur immobilier ont été retenu afin d’évaluer la valeur des améliorations au sous‑sol. L’évaluateur a conclu que la juste valeur marchande des améliorations était au moins de 28 500 $, incluant les taxes.
+III. DROIT APPLICABLE ET ANALYSE
+A. Avantage à l’actionnaire en vertu du paragraphe 15(1) de la Loi
+[28] Le paragraphe 15(1) de la Loi vise à imposer la valeur des avantages reçus par un actionnaire d’une société lorsque cet avantage n’a pas été inclus à son revenu. Dans la décision Post c. La Reine, 2016 CCI 92, par. 30, la juge V. Miller a indiqué que l’« [u]n des objectifs de l’article 15 de la LIR consiste à éviter que les sociétés utilisent des moyens détournés pour conférer un avantage économique non imposé à ses actionnaires ».
+[29] Cette disposition se lit ainsi :
+15 (1) Avantages aux actionnaires ‑ La valeur de l’avantage qu’une société confère, à un moment donné, à son actionnaire, à un associé d’une société de personnes qui compte parmi ses actionnaires ou à son actionnaire pressenti est incluse dans le calcul du revenu de l’actionnaire, de l’associé ou de l’actionnaire pressenti, selon le cas, pour son année d’imposition qui comprend ce moment, sauf dans la mesure où cette valeur est réputée en vertu de l’article 84 constituer un dividende ou dans la mesure où cet avantage est conféré à l’actionnaire au moyen de l’une des opérations suivantes […]
+[Mon soulignement.]
+i. Construction de la résidence personnelle de l’appelant
+[30] L’appelant prétend qu’il a bâti sa résidence dans le cadre d’un projet personnel d’auto‑construction, et que, conséquemment, Gexco n’a agi qu’à titre d’intermédiaire auprès des fournisseurs pour l’achèvement des travaux. Il soumet donc n’avoir bénéficié d’aucun avantage à titre d’actionnaire de la société Gexco.
+[31] L’appelant maintient que la société Gexco possède une licence de construction émise par la Régie du Bâtiment du Québec et qu’il est indiqué comme étant le « répondant ». L’appelant soumet que le ministre ne peut prétendre lui attribuer quelconque avantage imposable, puisqu’il est lui-même spécialiste de gestion de projet dans le domaine de la construction. En effet, il prétend que sans lui, à titre de « répondant », Gexco ne peut exécuter quelques travaux que ce soit. Conséquemment, elle ne peut lui avoir conféré un avantage, puisque c’est lui qui confère à Gexco sa légitimité en tant qu’entrepreneur général, sur le marché de la construction.
+[32] L’appelant soumet aussi que l’utilisation des travailleurs de la société Gexco pour la construction de sa résidence n’est pas un facteur pertinent, permettant de déterminer s’il a bénéficié d’un avantage.
+[33] Il faut d’abord noter que l’expérience et les compétences de l’appelant, qui ne sont d’ailleurs pas contestées, doivent être distinguées de ce que constitue un avantage au sens de la Loi.
+[34] L’appelant admet que la résidence avait été construite pour ses fins personnelles, mais que, pour des raisons purement pratiques, Gexco a été impliquée.
+[35] Toutefois, comme il a expressément été démontré dans les livres de Gexco, le traitement comptable appliqué à la construction de sa résidence était considéré comme des « revenus de contrats » et aucuns frais de gestion n’a été calculé et aucun profit n’a été comptabilisé.
+[36] D’ailleurs, il a été démontré que la marge de profit de Gexco relativement à l’ensemble de ses autres projets de construction s’élève à au moins 8,09 %.
+[37] Dans la décision Park Haven Designs Inc. c. La Reine, 2006 CCI 685, il était question d’un avantage à l’actionnaire dans un cas où celui-ci a bénéficié d’une résidence construite par la société dont il était l’actionnaire principal. Selon le juge C. Miller :
+[29] Il ne m’est pas difficile de décider que M. Jacques a reçu un avantage de Park Haven. Comment pouvait-il en être autrement? M. Jacques a reçu une habitation construite sur demande sans avoir à payer les frais de gestion de 10 p. 100 que tout autre client aurait eu à payer. L’avantage est facilement déterminé. Il s’agit des frais de gestion de 10 p. 100, représentant 10 p. 100 des frais de construction, qui s’élevaient à 259 293 $, soit un montant de 25 929 $. Cela constitue clairement un avantage qui n’est pas offert aux clients réguliers et dont seul M. Jacques peut se prévaloir en sa qualité d’actionnaire.
+[Mon soulignement.]
+[38] Je suis d’accord avec cette analyse. Ainsi, je conclus que l’appelant a bénéficié d’un avantage à titre d’actionnaire de Gexco et l’évaluation de cet avantage à 8,09 % sur le coût total de la résidence, est justifiée.
+ii. Améliorations locatives
+[39] L’appelant prétend également qu’il n’a pas bénéficié d’un avantage conféré à titre d’actionnaire de la société Gexco relativement aux améliorations locatives effectuées au sous‑sol de sa résidence, puisqu’elles ont été réalisées pour les fins d’affaires de la société Gexco.
+[40] L’appelant soutient que ces améliorations ont été faites pour le seul bénéfice de Gexco, à titre de locataire commerciale des lieux. Il affirme par ailleurs que le coût relatif à ces améliorations a été amorti durant l’occupation de Gexco et par conséquent avaient une valeur nulle au moment où la société a quitté les locaux de la résidence.
+[41] L’appelant affirme ne pas avoir bénéficié d’un avantage à titre d’actionnaire puisqu’il a appliqué un traitement comptable et fiscal adéquat lorsque Gexco a quitté les bureaux. Toutefois, même si j’accepte que le traitement était adéquat au niveau de la société, ceci n’a pas nécessairement pour effet d’annuler l’avantage à l’actionnaire.
+[42] La preuve démontre aucun remboursement ou cession pour la juste valeur marchande des améliorations ou, à tout le moins, pour la valeur dépréciée ou non‑amortie.
+[43] Ces améliorations sont demeurées dans la résidence de l’appelant. Ainsi, n’ayant rien déboursé ou remboursé, l’appelant bénéficie d’un sous‑sol entièrement fini d’une valeur de 28 500 $ (selon l’évaluation du ministre) sans comptabiliser l’augmentation potentielle de la valeur de la résidence avec un sous‑sol fini.
+[44] Bien que l’appelant ait tenté de contester l’évaluation du ministre, il n’a soumis aucune preuve contraire mettant en doute l’évaluation de 28 500 $. De plus, en dépit de ses propos, il n’a soumis aucune facture de rénovations effectuées suite au départ de Gexco.
+[45] Je conclus donc que l’appelant a bénéficié d’un avantage à titre d’actionnaire de la société Gexco d’une valeur clairement identifiable et quantifiable, de 28 500 $.
+iii. Dépenses de sous‑traitances
+[46] Le ministre prétend que l’appelant a bénéficié d’un avantage en étant actionnaire de la société 9180, en lien avec des appropriations de fonds, identifiés dans les livres de la société comme étant des dépenses de sous‑traitants.
+[47] L’appelant pour sa part, prétend que le ministre a, injustement et unilatéralement, décidé que ces montants représentaient des dépenses de sous‑traitances refusées à 9180 et qu’il s’agissait d’un avantage à l’actionnaire. À cet égard, il soutient que ces montants constituaient plutôt des remboursements d’avance qu’il a effectués antérieurement à la société 9180. Il soumet également que les états financiers comportaient des erreurs et qu’il y a apporté des correctifs, en toute bonne foi.
+[48] Sur ce point, la séquence des évènements est importante. Rappelons que la société 9180 a été cotisée arbitrairement le 30 septembre 2010, pour les années d’imposition 2007 et 2008. Par la suite, soit le 17 février 2011, une déclaration amendée a été soumise par l’appelant avec, à l’appui, des états financiers et la comptabilité de la société.
+[49] Suite à ceci, soit le 10 août 2011, des correctifs sont apportés sous prétexte que les états financiers initiaux comportaient des erreurs. Le vérificateur n’a toutefois pas tenu compte de ces corrections rétroactives et a refusé de les accepter.
+[50] Il est pourtant bien établi, qu’en matière de déclaration, on ne peut, après coup, modifier ses affaires pour établir une position moins préjudiciable. Dans l’affaire décision Bibby c. La Reine, 2009 CCI 588, le juge Bowie s’exprime comme suit :
+[14] L’appelante s’est également fondée sur plusieurs autres décisions portant sur la possibilité pour les employeurs de déduire une rémunération qui s’est accumulée, mais qui n’a pas été versée, en général pour des raisons liées à la capacité de payer de l’employeur. Toutefois, aucune de ces décisions n’étaye la thèse de l’appelant selon laquelle des rajustements apportés aux dépenses d’un exercice antérieur, et des modifications concomitantes apportées au revenu de l’employé pour une année antérieure peuvent être effectués sur une base rétroactive comme Rabco et M. Bibby ont cherché à le faire dans ce cas‑ci. Bien sûr, une seconde opération du genre de celle qui était en cause dans l’affaire Brazelot peut être effectuée, dans la mesure où elle est comptabilisée au cours de l’exercice où elle a lieu. Cependant, il n’est pas permis de mettre en œuvre rétroactivement des mesures de planification fiscale pour tenter d’annuler l’effet d’opérations qui ont eu lieu au cours d’un exercice antérieur, ou pour tenter de modifier pareilles opérations.
+[Mes soulignements.]
+[51] En l’espèce, c’est plutôt au moment de la production des déclarations amendées pour les années d’imposition 2007 et 2008 que l’appelant devait indiquer que les montants déboursés étaient des avances à l’actionnaire. Ce n’est pas ce qui s’est produit.
+[52] Au moment de la production des déclarations amendées le 17 février 2011, les états financiers appuyant ces déclarations démontrent plutôt qu’il s’agit de dépenses de sous-traitances. Ce n’est qu’après avoir été questionné par le vérificateur sur ces dépenses, que l’appelant a effectué des correctifs aux états financiers initiaux.
+[53] À la lumière de ce qui précède, je conclus que l’appelant a bénéficié d’un avantage à titre d’actionnaire de la société 9180 en rapport aux chèques qui lui ont été émis personnellement mais indiqué au départ comme étant des dépenses de sous‑traitances.
+B. Cotisation au‑delà de la période normale de cotisation
+[54] La dernière question porte sur le droit du ministre d’établir les avis de nouvelles cotisations après la période normale de cotisation pour les années d’imposition 2007 et 2008, et ce, conformément au sous‑alinéa 152(4)a)(i) de la Loi.
+[55] Cette disposition prévoit que le ministre peut établir une nouvelle cotisation, ainsi que des intérêts et pénalités, au-delà de la période normale de cotisation dans une situation où le contribuable « a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration (…) ». Il est établi que le fardeau en cette matière, incombe au ministre.
+[56] La présentation erronée des faits doit être faite lors de la production de la déclaration et non à un autre moment : Succession de Vine c. Canada, 2015 CAF 125, par. 33‑34 et Nesbitt c. Canada, 96 DTC 6588 (CAF). Dans la décision College Park Motors Ltd c. Canada, 2009 CCI 409 le juge Bowie a expliqué ce qui suit :
+[20] Au risque de me répéter, je tiens à souligner encore une fois que le sous‑alinéa 152(4)a)(i) est une disposition réparatrice, et non pénale. Elle concilie la nécessité, pour le contribuable, que son obligation fiscale afférente à une année d’imposition soit arrêtée de façon définitive, avec les exigences propres à un système autodéclaratif faisant en sorte que le fisc ne soit pas empêché d’établir une nouvelle cotisation lorsque, en raison de sa conduite, un contribuable a bénéficié d’une cotisation plus avantageuse que celle qui aurait dû être établie, au mieux, par manque de diligence ou d’attention ou, au pire, par fraude volontaire. […]
+[57] L’appelant prétend qu’il n’y a aucune preuve d’une présentation erronée des faits et aucune preuve de négligence, d’inattention ou d'omission volontaire de sa part et qu’il n’a commis aucune fraude en produisant sa déclaration de revenus pour 2007 et 2008 ou en fournissant quelque renseignement s’y rattachant. Il soutient qu’il a toujours agi de bonne foi et ainsi que le ministre ne pouvait émettre de nouvelles cotisations étant donné la prescription.
+[58] Avant de traiter cette question, il importe d’examiner le contexte et d’évaluer la crédibilité de l’appelant. Je note qu’il a été cotisé pour un avantage de 40 629 $ pour l’année d’imposition 2009 en rapport avec des dépenses personnelles, soit des travaux d’aménagement paysager et la construction d’une piscine à sa résidence. Ce montant avait pourtant été inscrit comme dépense de sous-traitances et de matériaux de Gexco.
+[59] Ce n’est qu’après maintes demandes de la part du vérificateur, que l’appelant a finalement remis une facture justifiant les montants en question. Cependant, après enquête, le vérificateur a constaté que les services n’avaient pas été rendus à l’adresse indiquée et que le sous-traitant n’existait pas. Confronté à ces faits, l’appelant a dû admettre qu’il s’agissait d’une fausse facture. C’est sans doute pour cette raison, qu’il a décidé, mais seulement au moment de l’audience, de ne pas contester la pénalité pour faute lourde au sens du paragraphe 163(2).
+[60] Il est évident que la préparation de la fausse facture était intentionnelle et délibérée. Contrairement aux prétentions de l’appelant, il est inconcevable qu’il croyait réellement avoir agi de bonne foi et dans les intérêts de Gexco, sous prétexte de protéger une mauvaise créance. À mon avis, c’est à juste titre que le ministre a imposé la pénalité pour faute lourde. Ces faits ne sont pas directement liés à la question de la prescription, mais ils minent la crédibilité de l’appelant.
+[61] J’arrive à la conclusion que l’appelant a fait une présentation erronée des faits en ne déclarant pas un avantage relatif à la construction de sa résidence et qu’il l’a fait « par négligence, inattention ou omission volontaire » au sens du sous‑alinéa 152(4)a)(i). Cette conclusion m’apparait plutôt évidente puisque la juste valeur marchande de la résidence devait nécessairement refléter non seulement le coût de la main‑d’œuvre et des matériaux qu’il a remboursé à Gexco, mais aussi la valeur des frais administratifs qui s’imposaient, une valeur qui d’ailleurs serait, lors d’une vente éventuelle, exempt d’impôt en raison de l’exemption pour résidence principale. Étant donné les connaissances de l’appelant, cela lui était sans doute très apparent. Je n’ai pas de doute que la manœuvre était calculée et délibérée.
+[62] D’autre part, l’appelant a tenté de mettre en preuve un tableau indiquant le nom des travailleurs, les heures travaillées et leur tarif horaire ajusté. À mon avis, ce tableau n’a pas été confectionné de façon contemporaine aux travaux, mais bien pour les fins de l’audience. Je ne lui accorde aucune valeur.
+[63] Il reste les montants payés directement à l’appelant en 2007 et 2008 mais inscrits comme dépenses de sous-traitants dans les livres de 9180. En dépit des documents remis à la Cour lors de l’audience, je n’accepte pas la prétention de l’appelant qu’il a tout simplement fait une erreur et qu’il s’agissait en réalité du remboursement d’une avance de l’actionnaire. Eu égard à ma conclusion quant à la crédibilité de l’appelant, je suis plutôt d’avis qu’il s’agissait encore une fois d’une manoeuvre de camouflage de sa part.
+[64] Dans les deux cas, la Cour doit considérer que l’appelant est un homme d’affaires dans le domaine de la construction, et qu’il exerce des fonctions de gestionnaire. Il détient un titre professionnel de comptable. Il n’est pas sans connaitre la comptabilité et ses aboutissements.
+[65] J’arrive donc à la conclusion que l’appelant a fait une présentation erronée des faits dans ses déclarations pour les années 2007 et 2008 et qu’il l’a fait « par négligence, inattention ou omission volontaire » au sens du sous‑alinéa 152(4)a)(i). Par conséquent, le ministre était justifié d’établir, à l’égard des années d’imposition 2007 et 2008, de nouvelles cotisations en dehors de la période normale de cotisation pour ces deux années.
+IV. CONCLUSION
+[66] Ayant conclu que c’est à juste titre que le ministre a établi les nouvelles cotisations pour les années 2007 et 2008, l’appelant avait le fardeau de convaincre la Cour que les hypothèses de faits formulées par le ministre étaient erronées. Il se devait notamment de convaincre la Cour qu’il n’a pas bénéficié d’avantages à titre d’actionnaire des sociétés Gexco et 9180 pour les années d’imposition 2007, 2008 et 2010. À mon avis, il n’a pas réussi.
+[67] Pour ces motifs, l’appel est rejeté avec dépens en faveur de l’intimée que la Cour fixe à 1 800 $, selon le Tarif B des Règles de la Cour canadienne de l’impôt (Procédure générale).
+Signé à Ottawa, Canada, ce 19e jour d'avril 2018.
+« Guy Smith »
+Juge Smith
+RÉFÉRENCE :
+2018 CCI 73
+Nº DU DOSSIER DE LA COUR :
+2015-2479(IT)G
+INTITULÉ DE LA CAUSE :
+GABRIEL MELANÇON c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec (Québec)
+DATE DE L’AUDIENCE :
+le 16 novembre 2017
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+le 19 avril 2018
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

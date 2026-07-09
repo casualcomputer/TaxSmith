@@ -1,0 +1,184 @@
+---
+title: "Smith c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521001/index.do"
+last_modified: "2022-11-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 145"
+citation2: ""
+neutral_citation: "2022 CCI 145"
+decision_date: "2022-11-14"
+language: "fr"
+item_id: "521001"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5802
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T12:02:27.662000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e3a3b7cddc0d6cfccb450293fa50f8de8964c1e4161ea18e271a528ee50ad8b7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Smith c. Le Roi
+
+- Citation: 2022 CCI 145
+- Decision date: 2022-11-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5802, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Smith c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-11-14
+Référence neutre
+2022 CCI 145
+Numéro de dossier
+2022-74(IT)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2022-74(IT)I
+ENTRE :
+LINDELL SMITH,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 25 octobre 2022, à Halifax (Nouvelle-Écosse)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimé :
+Me Tanner McInnis
+Me Sophie Dupré
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2019 de l’appelant est rejeté, sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 14e jour de novembre 2022.
+« Susan Wong »
+La juge Wong
+Référence : 2022CCI145
+Date : 20221114
+Dossier : 2022-74(IT)I
+ENTRE :
+LINDELL SMITH,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+Introduction/survol
+[1] La question en litige dans le présent appel est de savoir si le ministre du Revenu national a refusé à juste titre le crédit pour personne entièrement à charge (également connu sous le nom de crédit « équivalent du montant pour conjoint » ou pour « personne à charge admissible ») à M. Smith pour son année d’imposition 2019.
+Cadre législatif
+[2] L’alinéa 118(1)b) de la Loi de l’impôt sur le revenu énonce les critères précis d’admissibilité au crédit. Il s’agit de facteurs tels que l’état civil, l’établissement domestique autonome (c’est-à-dire le lieu où le demandeur et la personne entièrement à charge vivent), la résidence, la relation entre le demandeur et la personne entièrement à charge, et le fait que la personne entièrement à charge soit âgée de moins de 18 ans ou dépendante en raison d’une infirmité mentale ou physique.
+[3] Le paragraphe 118(5) interdit la déclaration du crédit lorsque le demandeur paie une pension alimentaire à l’égard de la personne entièrement à charge, et est rédigé en ces termes :
+(5) Aucun montant n’est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition si le particulier, d’une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait pour la personne et, d’autre part, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait tout au long de l’année pour cause d’échec de leur mariage ou union de fait;
+b) demande une déduction pour l’année par l’effet de l’article 60 au titre de la pension alimentaire versée à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait.
+[4] Une « pension alimentaire » au sens du paragraphe 56.1(4) consiste essentiellement en une pension alimentaire pour époux ou pour enfants découlant soit d’un accord écrit, soit d’une ordonnance du tribunal, et est payable de manière périodique. La définition complète est rédigée en ces termes :
+pension alimentaire Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+(a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+(b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[5] En ce qui concerne la déduction d’une pension alimentaire en vertu de l’article 60, l’effet pratique de la formule énoncée à l’alinéa 60b) entraîne généralement une déduction de la pension alimentaire pour époux et non de la pension alimentaire pour enfants, lorsque l’ordonnance initiale du tribunal ou l’accord écrit traitant de la pension alimentaire pour enfants est postérieur à avril 1997 [1] . Étant donné que nous sommes maintenant en 2022, ce serait probablement la plupart des situations.
+[6] Enfin, le paragraphe 118(5.1) dispose que si, en vertu de l’interdiction prévue au paragraphe 118(5), personne n’a droit au crédit, l’interdiction ne s’applique pas, c’est-à-dire que le crédit pour personne entièrement à charge peut être déclaré. Cet article est ainsi rédigé :
+Non-application du par. (5) (5.1) À supposer que la présente loi s’applique compte non tenu du présent paragraphe, dans le cas où personne n’a droit, par le seul effet du paragraphe (5), à la déduction prévue aux alinéas (1)b) ou b.1) pour une année d’imposition relativement à un enfant, le paragraphe (5) ne s’applique pas relativement à l’enfant pour l’année en cause.
+Question en litige
+[7] Le litige dans le présent appel ne porte pas sur les critères d’admissibilité de l’alinéa 118(1)b). Il s’agit plutôt de savoir si l’interdiction prévue au paragraphe 118(5) ou l’exemption prévue au paragraphe 118(5.1) s’applique à l’année d’imposition 2019 de M. Smith.
+Résumé des faits
+[8] M. Smith et son ancienne conjointe de fait sont les parents d’un enfant (« JS ») né en 2009. Il a témoigné qu’ils ont mis fin à leur union de fait et se sont séparés vers 2011 ou 2012. Il a affirmé que leur relation est restée cordiale et qu’ils ont convenu de ne pas se verser de pension alimentaire pour le conjoint ou les enfants. À cette fin, ils ont signé un simple accord le 10 octobre 2012, confirmant qu’ils partageraient la garde des enfants et qu’il n’y aurait pas de versement de pension alimentaire [2] .
+[9] Il a affirmé qu’ils partageaient la garde de manière égale, mais qu’ils conservaient une certaine souplesse en fonction de leurs emplois du temps respectifs. À l’époque, M. Smith travaillait à temps plein et son ex-conjointe de fait était étudiante. En ce qui concerne les frais relatifs à JS, ils ont convenu de partager les coûts tels que l’école et les vêtements, tandis que M. Smith paie les dépenses extrascolaires et la garde des enfants. Il a décrit qu’il a toujours assumé un coût plus important en raison de cet accord et que cela a fonctionné pour eux depuis leur séparation en 2011/2012 jusqu’en 2018.
+[10] Le 27 mars 2019, son ex-conjointe de fait a déposé une demande de pension alimentaire pour enfants auprès de la Cour suprême de la Nouvelle-Écosse. Ils se sont représentés eux-mêmes et ont participé à une conférence de règlement devant le tribunal en juin 2020. Une ordonnance de consentement a été accordée à la fin de la conférence de règlement en juin, puis émise par écrit le 17 juillet 2020 [3] .
+[11] Le préambule de l’ordonnance de consentement du 17 juillet 2020 énonce ce qui suit : [traduction] 1) leurs revenus respectifs aux fins de la détermination de la pension alimentaire pour enfants (en vertu des Lignes directrices fédérales sur les pensions alimentaires pour enfants [4] ), 2) qu’ils ont convenu d’un arrangement parental partagé, et 3) qu’ils ont convenu d’utiliser le montant de compensation en ce qui concerne la pension alimentaire pour enfants.
+[12] L’ordonnance de consentement du 17 juillet 2020 énonce elle-même ce qui suit (entre autres) en ce qui concerne la pension alimentaire pour enfants : [traduction]
+a) le montant mensuel de la pension alimentaire prévu dans les tables pour un enfant était de 747,27 $;
+b) le montant de la compensation de la pension alimentaire pour enfants était de 440,00 $ payable par M. Smith mensuellement à compter du 1er juillet 2020;
+c) une conférence de suivi du règlement en août 2020 pour discuter des arriérés et du paiement des dépenses spéciales (en vertu de la section 7 des Lignes directrices).
+[13] En ce qui concerne la conférence de règlement de juin qui a conduit à l’ordonnance de consentement du 17 juillet 2020, M. Smith a expliqué que le juge n’était pas d’accord avec leur approche historique de la pension alimentaire pour enfants et s’est plutôt appuyé sur les lignes directrices, ce qui a entraîné les arriérés qui ont fait l’objet de discussions lors de la conférence de règlement d’août.
+[14] Lors de la conférence de règlement du mois d’août, M. Smith et son ex-conjointe de fait se sont à nouveau représentés eux-mêmes. Une ordonnance de consentement a été accordée à la fin de la conférence de règlement et émise par écrit le 28 août 2020 [5] .
+[15] Le préambule de l’ordonnance de consentement du 28 août 2020 était en grande partie inchangé par rapport à celui de juillet et renvoyait aux mêmes revenus respectifs de M. Smith et de son ex-conjointe de fait aux fins de la détermination de la pension alimentaire pour enfants. L’ordonnance de consentement énonce elle-même ce qui suit (entre autres) en ce qui concerne la pension alimentaire pour enfants : [traduction]
+a) le montant mensuel de la pension alimentaire pour enfants prévu dans les tables et payable par l’ex-conjointe de fait de M. Smith était de 321,15 $;
+b) le montant mensuel de la pension alimentaire pour enfants prévu dans les tables et payable par M. Smith était de 760,53 $;
+c) le montant de la compensation de la pension alimentaire pour enfants était de 440,00 $ payable par M. Smith mensuellement à compter du 1er juillet 2020;
+d) le montant convenu des arriérés de pension alimentaire pour enfants dus par M. Smith était de 17 550 $;
+e) à compter du 1er octobre 2020, M. Smith paiera 598 $ par mois, soit 440 $ de pension alimentaire continue pour enfants et 158 $ d’arriérés de pension alimentaire pour enfants.
+[16] M. Smith a témoigné que lors de la conférence de règlement d’août 2020, le juge a utilisé les tables standard de pension alimentaire pour enfants pour arriver au montant des arriérés. Il a également affirmé que les modalités de l’ordonnance de consentement n’ont pas été modifiées depuis lors.
+Analyse et discussion
+[17] J’ai conclu que M. Smith était une personne très crédible et la teneur des ordonnances sur consentement me donne à penser que la relation entre lui et son ex-conjointe de fait était et continue d’être cordiale. Il a habilement fait valoir que le fait que les arriérés de pension alimentaire pour enfants ont été déterminés en août 2020 ne devrait pas remplacer le fait qu’en 2019, il s’est comporté en se basant sur la compréhension authentique qu’aucune pension alimentaire pour enfants n’était payable en vertu de l’accord avec son ex-conjointe de fait. En d’autres termes, l’interdiction prévue au paragraphe 118(5) ne devrait pas s’appliquer parce qu’il ne versait pas de pension alimentaire à l’égard d’une personne entièrement à charge.
+[18] Dans l’arrêt Tossell [6] (également connu sous le nom de Peterson), la Cour d’appel fédérale a établi une distinction nuancée entre l’obligation légale de verser une pension alimentaire rétroactive et l’obligation légale de verser des arriérés de pension alimentaire, la première étant une nouvelle obligation. Ce faisant, le tribunal a tenu compte du fait qu’en Ontario, le terme « rétroactif » dans le contexte des paiements de pension alimentaire était une référence temporelle (c.-à-d. une pension alimentaire à verser à l’égard d’une période antérieure à la date de l’ordonnance du tribunal) et ne visait pas à changer l’historique [7] . Dans cette affaire, le litige portait sur le sens de l’expression « [paiement] rétroact[if] [d’]une pension alimentaire pour enfants supplémentaire périodique » figurant dans le procès-verbal de transaction et l’ordonnance judiciaire qui en découle [8] .
+[19] La Cour d’appel fédérale a également affirmé que pour qu’une ordonnance judiciaire oblige une personne à payer des arriérés de pension alimentaire pour enfants, il doit y avoir (au moment où l’ordonnance judiciaire est rendue) : 1) une reconnaissance expresse ou implicite d’une obligation préexistante de payer une pension alimentaire pour enfants à l’égard d’une période antérieure, 2) une reconnaissance expresse ou implicite d’un manquement total ou partiel à cette obligation, qui donne lieu à des arriérés de pension alimentaire pour enfants, et 3) une obligation, énoncée dans l’accord écrit ou dans l’ordonnance judiciaire, de payer les arriérés en tout ou en partie [9] .
+[20] Dans le présent appel, le libellé de l’ordonnance d’août 2020 répond à tous les critères d’une ordonnance mentionnés ci-dessus obligeant une personne à payer des arriérés de pension alimentaire. Je dois supposer que les juges qui ont rendu les ordonnances de consentement de juillet et août 2020 avaient l’intention de qualifier le montant supplémentaire de la pension alimentaire d’arriéré, c’est-à-dire de créer non seulement une obligation préexistante, mais aussi un manquement à cette obligation [10] . Soit dit en passant, je ne vois pas de terminologie temporelle dans la Parenting and Support Act de la Nouvelle-Écosse [11] ou dans les Provincial Child Support Guidelines de la Nouvelle-Écosse [12] , semblable à ce qui a été mentionné à propos de l’Ontario dans l’arrêt Tossell.
+[21] L’ordonnance d’août 2020 ne précise pas la période couverte par les arriérés et, étant donné que le montant des arriérés est un chiffre arrondi, j’en déduirais, tout bien considéré, qu’elle était intentionnellement non précise et qu’elle visait probablement toute la période suivant la fin de l’union de fait en 2011/2012.
+[22] Par conséquent, je dois conclure que M. Smith payait une pension alimentaire pour une personne entièrement à charge en 2019 et que, conformément au paragraphe 118(5), il ne peut pas avoir droit au crédit pour personne entièrement à charge cette année-là.
+[23] J’ajouterais toutefois que le libellé de l’ordonnance d’août 2020 semble envisager l’application possible de l’exemption prévue au paragraphe 118(5.1) à l’avenir, puisque le paragraphe 2 de l’ordonnance renvoie à la pension alimentaire pour enfants payable par les deux parents. Il semble qu’il s’agisse d’un changement délibéré de formulation par rapport à l’ordonnance de juillet 2020 et je serais à nouveau enclin à déduire une intention de la part du juge saisi.
+Conclusion
+[24] L’appel est rejeté sans dépens.
+Signé à Vancouver (Colombie-Britannique), ce 14e jour de novembre 2022.
+« Susan Wong »
+La juge Wong
+RÉFÉRENCE :
+2022 CCI 145
+NO DU DOSSIER DE LA COUR :
+2022-74(IT)I
+INTITULÉ :
+Lindell Smith c. Sa Majesté le Roi
+LIEU DE L’AUDIENCE :
+Halifax (Nouvelle-Écosse)
+DATE DE L’AUDIENCE :
+Le 25 octobre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 14 novembre 2022
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimé :
+Me Tanner McInnis
+Me Sophie Dupré
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimé :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Définition de « date d’exécution », paragraphes 56.1(4) et 60.1(4)
+[2] Pièce A-1.
+[3] Pièce R-1.
+[4] DORS/97-175.
+[5] Pièce R-2.
+[6] Tossell c. Canada, 2005 CAF 223
+[7] Tossell c. Canada, 2005 CAF 223, par. 41 et 42.
+[8] Tossell c. Canada, 2005 CAF 223, par. 29.
+[9] Tossell c. Canada, 2005 CAF 223, par. 36.
+[10] Bayliss v. The Queen, 2007 CCI 387, par. 10
+[11] RSNS 1989, ch. 160
+[12] NS Reg. 53/1998, modifié par voie du décret 2022-75 (en vigueur le 1er avril 2022), NS Reg. 49/2022

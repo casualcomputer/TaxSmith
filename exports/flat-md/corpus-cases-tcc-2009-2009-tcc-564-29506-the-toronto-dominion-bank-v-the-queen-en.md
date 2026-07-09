@@ -1,0 +1,158 @@
+---
+title: "The Toronto-Dominion Bank v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29506/index.do"
+last_modified: "2009-10-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 564"
+citation2: ""
+neutral_citation: "2009 TCC 564"
+decision_date: "2009-10-09"
+language: "en"
+item_id: "29506"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6263
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:52:38.376000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6b5fc4db0209b8cc77465b4796548af64ee02c5b3f3346ca57d64b1af8a86692"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# The Toronto-Dominion Bank v. The Queen
+
+- Citation: 2009 TCC 564
+- Decision date: 2009-10-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6263, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The Toronto-Dominion Bank v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-09
+Neutral citation
+2009 TCC 564
+File numbers
+2006-2996(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2996(IT)G
+BETWEEN:
+THE TORONTO-DOMINION BANK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Parties:
+Counsel for the Appellant:
+Al Meghji
+Counsel for the Respondent:
+Donald G. Gibson
+____________________________________________________________________
+ORDER
+UPON receiving a letter from counsel for the Respondent dated October 14, 2009 in which counsel requested that the Court permit him to prepare and submit a written argument in the above appeal;
+AND UPON considering the position adopted by counsel for the Appellant opposing the request made by counsel for the Respondent;
+AND UPON considering the matter in detail;
+IT IS HEREBY ORDERED THAT:
+1. The application by counsel for the Respondent is allowed on the basis that the trial will be reopened for the purpose of permitting counsel for the Respondent to file a written argument.
+2. The written argument of counsel for the Respondent must not exceed 25 pages in length (letter size) and the written argument must be filed with the Court within 15 days of the date of this Order.
+3. Counsel for the Appellant will be permitted to file a written Reply within 15 days of the date of receipt of the Respondent’s written argument. The Reply of the Appellant will not exceed 25 pages (letter size).
+4. The Respondent will pay $10,000.00 to the Appellant within one month of the date of this Order.
+Signed at Vancouver, British Columbia, this 2nd day of November 2009.
+“L.M. Little”
+Little J.
+Citation: 2009 TCC 564
+Date: 20091102
+Docket: 2006-2996(IT)G
+BETWEEN:
+THE TORONTO-DOMINION BANK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Little J.
+[1] The trial of this matter took place in Toronto from October 5, 2009 to October 9, 2009.
+[2] On October 9, 2009 I reserved judgment and I have not yet pronounced judgment.
+[3] On October 14, 2009 (two business days after I reserved judgment), the Court received a letter from counsel for the Respondent.
+[4] In his letter, counsel for the Respondent requested the Court’s permission to file a Memorandum of Fact and Law on behalf of the Respondent.
+[5] By letter dated October 15, 2009 counsel for the Appellant submitted that the Court should refuse the request of the Crown.
+[6] The issue of whether a Judge should re-open a trial has been considered many times by various courts.
+[7] In the case of The British Columbia Assn. of Optometrists v. Clearbrook Optic Ltd. (c.o.b. United Optical), [1998] B.C.J. No. 2929, Madam Justice Quijano said:
+[3] The threshold question on this application is whether I should exercise my discretion and grant leave to re-open, then hear full argument and determine the result.
+[4] The test as to how to exercise my discretion to re-open argument in these circumstances is set out in Vance v. Vance 34 B.C.L.R. 209, in which Spencer J. of this court said:
+I think it lies upon the applicant to satisfy me on the balance of probabilities that a miscarriage of justice would probably occur without the rehearing and that the evidence or argument he now wishes to present would probably change the result of the trial. That is not to say that at this stage the applicant must satisfy me that a change in the result would be inevitable.
+(Underlining added)
+[8] In Clayton v. British American Securities Ltd., [1935] 1 D.L.R. 432, MacDonald J.A., speaking for the British Columbia Court of Appeal, said at page 295:
+… It is, I think, a salutary rule to leave unfettered discretion to the trial judge. He would, of course, discourage unwarranted attempts to bring forward new evidence available at the trial to disturb the basis of a judgment delivered, or to permit a litigant after discovering the effect of a judgment to re-establish a broken-down case with the aid of further proof. If the power is not exercised sparingly and with the greatest care, fraud and abuse of the Court’s processes would likely result.
+This passage was cited with approval by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., 2001 SCC 59, [2001] S.C.J. No. 61.
+[9] It is to be noted these cases dealt with applications to re-open after the Judge’s reasons had been released, but before judgment was formally entered, which is not the case here where I reserved judgment. In any event, the court decisions emphasize the broad discretion in the trial judge to decide the matter, after considering all the relevant factors.
+[10] I also refer to section 138 of the Tax Court of Canada Rules, which reads as follows:
+138. (1) The judge may reopen a hearing before judgment has been pronounced for such purposes and upon such terms as are just.
+(2) The judge may, at any time before judgment, draw the attention of the parties to any failure to prove some fact or document material to a party's case, or to any defect in the proceeding, and permit a party to remedy the failure or defect for such purposes and upon such terms as are just.
+[11] It will be noted that Rule 138 expressly permits the Judge to re-open a hearing before judgment has been pronounced for such purposes and upon such terms as are just.
+[12] In my opinion, this rule contemplates a situation such as the situation before the Court today and would encompass the granting of the request of counsel for the Respondent within reasonable parameters in order to assist the Court in reaching its decision.
+[13] I have concluded that it is essential, given the complexities of the matter before the Court, to grant the request of counsel for the Respondent.
+[14] The trial will be re-opened for the purpose of permitting counsel for the Respondent to file a written argument.
+[15] The written argument of counsel for the Respondent must not exceed 25 pages in length (letter size) and the written argument must be filed with the Court within 15 days of the date of this Order.
+[16] Counsel for the Appellant will be permitted to file a written Reply within 15 days of the date of receipt of the Respondent’s written argument. The Reply of the Appellant will not exceed 25 pages (letter size).
+[17] The Respondent will pay $10,000.00 to the Appellant within one month of the date of this Order.
+Signed at Vancouver, British Columbia, this 2nd day of November 2009.
+“L.M. Little”
+Little J.
+CITATION:
+2009 TCC 564
+COURT FILE NO.:
+2006-2996(IT)G
+STYLE OF CAUSE:
+The Toronto-Dominion Bank and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+October 5, 6, 7, 8, and 9, 2009
+REASONS FOR ORDER BY:
+The Honourable Justice L.M. Little
+DATE OF ORDER:
+November 2, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji
+Counsel for the Respondent:
+Donald G. Gibson
+COUNSEL OF RECORD:
+Counsel for the Appellants:
+Name:
+Al Meghji
+Firm:
+Osler, Hoskin & Harcourt LLP
+Barristers & Solicitors
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

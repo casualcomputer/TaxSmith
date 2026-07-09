@@ -1,0 +1,162 @@
+---
+title: "Butters v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28576/index.do"
+last_modified: "2008-04-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 205"
+citation2: ""
+neutral_citation: "2008 TCC 205"
+decision_date: "2008-04-09"
+language: "en"
+item_id: "28576"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1044
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:22:07.336000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d869621d3e7ebdff4cfd90a843107f13cc092118c6df9dced0d1224f7c607716"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Butters v. The Queen
+
+- Citation: 2008 TCC 205
+- Decision date: 2008-04-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1044, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Butters v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-09
+Neutral citation
+2008 TCC 205
+File numbers
+2006-3870(IT)I
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3870(IT)I
+BETWEEN:
+JANET BUTTERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 25, 2008, at Hamilton, Ontario
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+Michael A. Ballantyne
+Counsel for the Respondent:
+Annie Paré
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment of tax made under the Income Tax Act for the 2004 taxation year is dismissed.
+Signed at Ottawa, Canada, this 9th day of April 2008.
+“M.A. Mogan”
+Mogan D.J.
+Citation: 2008TCC205
+Date: 20080409
+Docket: 2006-3870(IT)I
+BETWEEN:
+JANET BUTTERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan D.J.
+[1] The Appellant and Joao Soares are the biological and legal parents of John Adrian Soares who was born on June 7, 1994. The Appellant and Mr. Soares never cohabited with one another. They were not, and are not, spouses or common-law partners. On June 17, 1996, the Appellant and Mr. Soares entered into a Paternity Agreement within the meaning of the Ontario Family Law Act (“FLAO”). The Paternity Agreement is Exhibit A-1 in this appeal.
+[2] Under paragraph 6 of Exhibit A-1, Mr. Soares agreed to pay to the Appellant the sum of $225.00 per week for the support of the child born in June 1994. In the year 2004, the Appellant received from Mr. Soares child support payments in the aggregate amount of $12,850. The Appellant did not include the amount of $12,850 in computing her income for 2004 because she was advised in 1996 by her family law lawyer that the child support payments were not taxable in her hands. By Notice of Reassessment dated January 30, 2006, the Minister of National Revenue added the amount $12,850 to the Appellant’s reported income. The Appellant has appealed from that reassessment and has elected the informal procedure.
+[3] The only issue in this appeal is whether the Appellant is required to include in computing her income for 2004 the aggregate child support payments of $12,850. The question of taxing child support payments or spousal support payments in the hands of the recipient has come before this Court and its predecessor Board countless times over the past 50 years. In 1997, Parliament amended the Income Tax Act to provide a new scheme for the taxation or non‑taxation of such payments. As a general rule, under the new scheme, payments of child support are not deductible to the payor and not taxable to the recipient; but payments of spousal amount are deductible to the payor and taxable to the recipient.
+[4] The issue in this appeal may be restated as to whether, and perhaps how, the amount of $12,850 fits into the new scheme. In argument, counsel for both parties asked me to consider the relevant provisions of the Income Tax Act (the “Act”) and certain provisions of the FLAO. First to consider are the relevant provisions of the Act:
+56.1(4) The definitions in this subsection apply to this section and section 56.
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+“child support amount” means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a legal parent.
+“commencement day” at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+(a) …
+(b) the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount received after 1996 and before the end of the year by the taxpayer from a particular person where the taxpayer and the particular person were living separate and apart at the time the amount was received,
+B is the total of all amounts each of which is a child support amount that became receivable by the taxpayer from the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount received after 1996 by the taxpayer from the particular person and included in the taxpayer’s income for a preceding taxation year;
+[5] The Paternity Agreement was made on June 17, 1996. There is no evidence that it has ever been amended or varied. Also, the affidavit (sworn by the Appellant) attached to Exhibit A-1 is dated October 9, 1996 indicating that it was filed with the Ontario Court at that time. The box in the upper right corner of the affidavit shows that it was assigned “Court file no. D1620/96”. In other words, there is no evidence that there is a “commencement day” for the Paternity Agreement or any order made thereunder. If there is no “commencement day”, there is no amount to subtract as item “B” in the formula contained in paragraph 56(1)(b); and the Appellant would be required to include in her income as item “A” in the same formula all support amounts she received. The real question is whether the Appellant received any “support amount” in 2004.
+[6] The Appellant stated in evidence that, after the signing of the Paternity Agreement (Exhibit A-1), Mr. Soares fell behind in the required weekly payments. There was at least one occasion when he was approximately $15,000 in arrears. The Appellant was advised by her family law lawyer to file the agreement with the Ontario Court under the FLAO to enforce payment rather than try to sue on her own under the agreement. The Appellant accepted that advice and filed the agreement with the Ontario Court. Mr. Soares paid up his large amount of arrears after he was required by the Ontario Court to attend a default hearing. It was the director of the Family Responsibility Office who required Mr. Soares to attend the default hearing.
+[7] This appeal was argued on the interpretation of paragraph (b) within the definition of “support amount” in subsection 56.1(4) of the Act. See paragraph 4 above. The Appellant argued that the child support payments in question were not receivable “under an order made by a competent tribunal” but under the Paternity Agreement dated June 17, 1996. Therefore, those payments were not “support amounts” and were not within item A of the formula in paragraph 56(1)(b). The Respondent argued that the Paternity Agreement became an order when the Appellant filed it with the Ontario Court under the FLAO to enforce payment. Therefore, the payments in question were “support amounts” and were within item A of the formula in paragraph 56(1)(b) of the Act.
+[8] Appeals concerning similar payments under other paternity agreements have previously come to Court. In Fraser v. The Queen, 2004 DTC 2154, Mr. Fraser was attempting to deduct in computing income certain child support payments which he made to the mother of his child. He and the child’s mother had never been married and had never been common-law partners. They had entered into a maintenance agreement on June 30, 1992 under section 6 of the Alberta Parentage and Maintenance Act. On July 9, 1992, the maintenance agreement was filed with the Alberta Director of Maintenance Enforcement and later (August 4) filed with the Court of Queen’s Bench under section 12 of the Alberta Maintenance Enforcement Act which reads in part:
+1(2) An agreement entered into under section 6 of the Parentage and Maintenance Act … is deemed to be a maintenance order under this Act.
+12(1) The Director ... may file with the Court of Queen's Bench a maintenance order that is not otherwise filed with the Court and, on being filed, the parts of the maintenance order that relate to maintenance are deemed to be a judgment of the Court of Queen's Bench.
+[9] Mr. Fraser’s appeal to this Court was dismissed because my colleague, Bowie J., concluded that the deeming rules in subsections 1(2) and 12(1) of the Alberta Maintenance and Enforcement Act apply only for the purposes of that statute. The Federal Court of Appeal reversed the decision of this Court and allowed Mr. Fraser’s appeal, [2004] F.C.J. 550. The reasons for judgment in the Federal Court of Appeal stated in part:
+5 It is common ground that, for the purposes of the Alberta Maintenance Enforcement Act, the maintenance agreement became a judgment of the Court of Queen's Bench when it was filed with that Court, with the same legal effect as if it were a judgment made by that Court. It is also common ground that the Court of Queen's Bench is competent to make orders for the payment of child support in circumstances like those of Mr. Fraser.
+9 The relevant part of the statutory definition of "support amount" in the Income Tax Act asks whether child support payments have been made under "an order made by a competent tribunal in accordance with the laws of a province". Parliament has thus indicated that the question of whether there is an order meeting that description is a matter of provincial law.
+10 Laws respecting child support are within the legislative authority of the provinces, as are the laws establishing the formalities for obtaining court orders for child support. In my view, the phrase "in accordance with the laws of a province" is broad enough to refer to all provincial laws regarding the legal obligation to pay child support, including the provincial laws governing the procedure by which such a legal obligation is made enforceable. The interpretation proposed by the Crown would limit those words in a manner that excludes some procedural aspects of the provincial law relating to child support. I see no justification for such a narrow interpretation.
+11 This is not a case where a provincial legislature has attempted to amend the Income Tax Act, or alter its effect, to meet some provincial objective that does not accord with the objectives of the Income Tax Act. On the contrary, the Legislature of Alberta has simply streamlined the procedure for obtaining court orders for child support so that a "deemed" judgment of the Court of Queen's Bench, as in this case, is the legal equivalent of an "actual" judgment made by that Court on consent. …
+[10] In this appeal, counsel for the Appellant relied on the decision in Ambury v. The Queen, [2002] 4 C.T.C. 2001, another decision of Bowie J. Mr. Ambury was attempting to deduct in computing income for 1998 and 1999 certain payments made to the mother of his child for the support of the child. Mr. Ambury and the mother had never been married to each other or lived together in a conjugal relationship. In 1996, they had entered into a written agreement providing for child support. That agreement was filed in the Ontario Court of Justice. The payments in question were made by Mr. Ambury under that agreement.
+[11] Section 35 of the FLAO contains the following provisions:
+35(1) A person who is a party to a domestic contract or paternity agreement may file the contract or agreement with the clerk of the Ontario Court (Provincial Division) or of the Unified Family Court together with the person's affidavit stating that the contract or agreement is in effect and has not been set aside or varied by a court or agreement.
+35(2) A provision for support or maintenance contained in a contract or agreement that is filed in this manner,
+(a) may be enforced;
+(b) …
+as if it were an order of the court where it is filed.
+When a paternity agreement has been filed in the Ontario Court of Justice, it may be enforced by the Director of Family Responsibility Office under the Family Responsibility and Support Arrears Enforcement Act, an Ontario statute. Bowie J. dismissed Mr. Ambury’s appeal holding, as he later did in Fraser, that the deeming provisions in the FLAO were restricted to that statute.
+[12] In my opinion, the decisions of this Court in Ambury and Fraser have been superseded by the more recent decision of the Federal Court of Appeal in Fraser, quoted in paragraph 9 above. Also, the Interpretation Bulletin published by Revenue Canada, IT-530R, July 17, 2003, relied on by counsel for the Appellant, has been similarly superseded.
+[13] The words in section 35 of the FLAO are clear. If a paternity agreement is filed with the clerk of the Ontario Court and then enforced “as if it were an order of the court where it is filed”, that paternity agreement has acquired the character of an order “made by a competent tribunal in accordance with the laws” of Ontario. This is what the Federal Court of Appeal had in mind when it stated in paragraph 5 of its reasons in Fraser: “… the maintenance agreement became a judgment of the Court of Queen’s Bench when it was filed with that Court, with the same legal effect as if it were a judgment of that Court”.
+[14] I conclude that when the Appellant filed her paternity agreement with the Ontario Court to enforce payments by Mr. Soares, her paternity agreement became “an order made by a competent tribunal” within the meaning of paragraph (b) of the definition of “support amount” in subsection 56.1(4) of the Act. Accordingly, the aggregate payments of $12,850 received by the Appellant in 2004 were “support amounts” under the Act. There was no “commencement day” for the paternity agreement under which those payments were received. The appeal is dismissed.
+Signed at Ottawa, Canada, this 9th day of April, 2008.
+“M.A. Mogan”
+Mogan D.J.
+CITATION: 2008TCC205
+COURT FILE NO.: 2006-3870(IT)I
+STYLE OF CAUSE: JANET BUTTERS and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: March 25, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT: April 9, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Michael A. Ballantyne
+Counsel for the Respondent:
+Annie Paré
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Michael A. Ballantyne
+Firm: Gowling Lafleur Henderson LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

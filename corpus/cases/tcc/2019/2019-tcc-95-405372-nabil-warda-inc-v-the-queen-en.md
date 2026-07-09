@@ -1,0 +1,183 @@
+---
+title: "Nabil Warda Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/405372/index.do"
+last_modified: "2019-04-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 95"
+citation2: ""
+neutral_citation: "2019 TCC 95"
+decision_date: "2019-04-30"
+language: "en"
+item_id: "405372"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4400
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:14:37.908000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "664ab9a70968f3c33a0ac1444cc650ec2afd713412074f64185e33ae23d5fb95"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nabil Warda Inc. v. The Queen
+
+- Citation: 2019 TCC 95
+- Decision date: 2019-04-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4400, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nabil Warda Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-04-30
+Neutral citation
+2019 TCC 95
+File numbers
+2018-35(IT)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-35(IT)I
+BETWEEN:
+NABIL WARDA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal to be heard on January 9, 2019, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the appellant:
+Nabil Warda
+Counsel for the respondent:
+Annie Laflamme (student-at-law)
+JUDGMENT
+The appeal from a reassessment made by the Minister of National Revenue under the Income Tax Act, R.S.C., (1985), c. 1 (5th Supp.), as amended, (the “Act”) dated February 23, 2016 is dismissed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 30th day of April 2019.
+“Réal Favreau”
+Favreau J.
+Citation: 2019 TCC 95
+Date: 20190430
+Docket: 2018-35(IT)I
+BETWEEN:
+NABIL WARDA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a reassessment made by the Minister of National Revenue (the “Minister”) under the Income Tax Act, R.S.C., (1985), c. 1 (5th Supp.), as amended, (the”Act”) dated February 23, 2016 in which the Minister disallowed the deduction for a $100,343 business investment loss (“BIL”) claimed by the appellant for its 2014 taxation year.
+[2] Nabil Warda, a chartered professional accountant, who has a master’s degree in taxation, testified at the hearing to explain the circumstances under which the $100,343 capital loss was incurred. The respondent does not dispute the calculation of the amount of the loss, but the designation of the loss as a BIL is in dispute.
+[3] The appellant was incorporated on January 25, 1999 and provided accounting, bookkeeping and taxation services. Its fiscal years ended on January 31. According to the information in the income tax return and schedules filed by the appellant for the fiscal year ended January 31, 2014, Nabil Warda was the sole holder of the issued and outstanding common shares of the corporation. At the hearing, Mr. Warda claimed that the appellant’s common shares were held by the Nabil Warda family trust, but he did not provide proof.
+[4] On January 11, 2005, “Gestion Nabil Warda Inc.” (“Gestion Warda”) was incorporated to operate a holding company. Gestion Warda was a Canadian-controlled private corporation, and based on the information in the income tax return and schedules produced by Gestion Warda for the fiscal year ended December 31, 2014, Mr. Warda held all the issued and outstanding common shares while his spouse, Wadad Mady, held all of the issued and outstanding preferred shares of Gestion Warda. At the hearing, Mr. Warda denied this information and claimed that the Gestion Warda common shares belonged to the Nabil Warda family trust, but he did not provide proof.
+[5] On May 20, 2010, Gestion Warda purchased a building located at 1461-1465 Provencher Blvd. in Brossard. Gestion Warda intended to rent the space on the second floor to the appellant, who would operate an accounting firm there and the main floor to numbered company 9193-1162 Québec Inc., which already operated a food market in the adjacent building located at 1445 and 1445A. Only a common wall separated the two buildings. The parties intended to open the common wall to join the two premises on the ground floor of the two buildings in order to expand the food market operating under the name “Marché Watan”.
+[6] On January 28, 2011, Gestion Warda signed a rental contract with numbered company 9193-1162 Québec Inc. (“Société 1162”) for the space located at 1461-1465 Provencher Blvd. in Brossard.
+[7] Société 1162 was incorporated on February 26, 2008 and, according to the income tax return and schedules filed for the fiscal year ended January 31, 2012, its last income tax return, the holders of the issued and outstanding common shares were Hameed Khushal (25%), Ziauddin Khusal (25%), and Habilbullah Khushal (50%).
+[8] A few months after the lease agreement was signed, Société 1162 failed to make rental payments to Gestion Warda. As a result, on August 9, 2011, Gestion Warda had to place a $48,000 chattel mortgage on Société 1162’s property to guarantee payment of the unpaid rent.
+[9] On September 14, 2012, Société 1162 signed an agreement with 9257-9911 Québec Inc. (“Société 9111”) to purchase the property and rights that Société 1162 had in Marché Watan. Société 1162’s assets were sold for $400,001 payable within 24 months after the signing of the purchase agreement less advances, disbursements, fees and accessories, plus 4% interest on all advances, disbursements, fees and accessories.
+[10] On September 17, 2012, Société 1162 transferred to Société 9911 its rights in the lease on the “commercial space located at 1445-1445A Provencher Blvd. in Brossard”.
+[11] Société 9911 was incorporated on February 6, 2012 to operate Marché Watan. The holders of Société 9911’s issued and outstanding common shares were Nabil Warda (50%) and Habibullah Khushal (50%). Société 9911’s fiscal years ended on August 31; Société 9911 has not filed any income tax returns since August 31, 2013.
+[12] The BIL claimed by the appellant was incurred from advances made to Gestion Warda, which itself financed Société 1162’s operations to run Watan Market.
+[13] When Société 1162 sold its business to Société 9911 on September 14, 2012, Société 9911 assumed Société 1162’s debt, which was then $186,480. The debt consisted of unpaid wages, deductions at source owed to governments and $61,222 owing to a supplier, as well as $125,258 for unpaid rent and renovations.
+[14] After the business was sold to Société 9911, the balance of the debts assumed by Société 9911 from Société 1162 was reduced to $100,343 as a result of tax refunds, salary credits and rent reductions and cancellations. Rents for the period from October 1, 2011 to December 1, 2012 (until September 1, 2012 for rents due to Gestion Warda) were cancelled.
+[15] As at January 31, 2014, the appellant recorded in its books the advances made to Société 1162 to operate Marché Watan granted by Gestion Warda and Nabil Warda for a net amount totalling $100,343. This is the amount of the loss incurred in respect of the advances after they were cancelled on January 31, 2014. According to Mr. Warda, the appellant disposed of its debt at the end of its January 31, 2014 fiscal year by electing to apply subsection 50(1) of the Act. Consequently, the appellant is deemed to have disposed of its debt at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+I. Analysis
+[16] The relevant provisions of the Act to determine entitlement to a BIL are reproduced below:
+Subdivision C – Taxable Capital Gains and Allowable Capital Losses
+For the purposes of this Act,
+[...]
+(c) a taxpayer’s allowable business investment loss for a taxation year from the disposition of any property is 1/2 of the taxpayer’s business investment loss for the year from the disposition of that property.
+Section 39: Meaning of capital gain and capital loss
+For the purposes of this Act,
+[...]
+(c) a taxpayer’s business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer’s capital loss for the year from a disposition after 1977
+(i) to which subsection 50(1) applies, or
+(ii) to a person with whom the taxpayer was dealing at arm’s length of any property that is
+(iii) a share of the capital stock of a small business corporation, or
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm’s length) that is
+(A) a small business corporation,
+(B) a bankrupt that was a small business corporation at the time it last became a bankrupt, or
+(C) a corporation referred to in section 6 of the Winding-up Act that was insolvent (within the meaning of that Act) and was a small business corporation at the time a winding-up order under that Act was made in respect of the corporation,
+Section 40: General rules
+(2) Limitations Notwithstanding subsection 40(1),
+[...]
+(g) a taxpayer’s loss, if any, from the disposition of a property (other than, for the purposes of computing the exempt surplus or exempt deficit, hybrid surplus or hybrid deficit, and taxable surplus or taxable deficit of the taxpayer in respect of another taxpayer, where the taxpayer or, if the taxpayer is a partnership, a member of the taxpayer is a foreign affiliate of the other taxpayer, a property that is, or would be, if the taxpayer were a foreign affiliate of the other taxpayer, excluded property (within the meaning assigned by subsection 95(1)), of the taxpayer), to the extent that it is
+[...]
+(ii) a loss from the disposition of a debt or other right to receive an amount, unless the debt or right, as the case may be, was acquired by the taxpayer for the purpose of gaining or producing income from a business or property (other than exempt income) or as consideration for the disposition of capital property to a person with whom the taxpayer was dealing at arm’s length, is nil;
+Section 50: Debts established to be bad debts and shares of bankrupt corporation
+(1) For the purposes of this subdivision, where
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to the taxpayer in respect of the disposition of personal-use property) is established by the taxpayer to have become a bad debt in the year, or
+(b) a share (other than a share received by a taxpayer as consideration in respect of the disposition of personal-use property) of the capital stock of a corporation is owned by the taxpayer at the end of a taxation year and
+(i) the corporation has during the year become a bankrupt,
+(ii) the corporation is a corporation referred to in section 6 of the Winding-up Act that is insolvent (within the meaning of that Act) and in respect of which a winding-up order under that Act has been made in the year, or
+(iii) at the end of the year,
+(A) the corporation is insolvent,
+(B) neither the corporation nor a corporation controlled by it carries on business,
+(C) the fair market value of the share is nil, and
+(D) it is reasonable to expect that the corporation will be dissolved or wound up and will not commence to carry on business
+and the taxpayer elects in the taxpayer’s return of income for the year to have this subsection apply in respect of the debt or the share, as the case may be, the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+[17] To be eligible to deduct a BIL pursuant to sections 38 and 39 of the Act, the appellant must show that it has incurred a capital loss from the disposition of a property. Under section 50 of the Act, a taxpayer is deemed to have disposed of a debt owed to him at the end of the year for proceeds equal to nil if the debt has been shown to have become a bad debt in the year.
+[18] In this case, subparagraph 40(2)(g)(ii) and subsection 50(1) of the Act are involved, and the evidence is that the appellant was never a shareholder of Gestion Warda, Société 1162 or Société 9911.
+[19] To prevent the loss incurred by the appellant in respect of advances to Gestion Warda Management and Société 1162 from being deemed void under subparagraph 40(2)(g)(ii) of the Act, the appellant must show that the debt was acquired by the appellant for the purpose of gaining income from a business or property.
+[20] In this proceeding, the advances were made without any documentation (loan agreements, notes, cheques or other evidence of money transfers) and without specific terms regarding the interest rate, duration of the advances or the terms and conditions of repayment. In addition, the appellant has not demonstrated that it has reported interest income generated by these advances in its income tax returns and that it has taken steps to recover the principal and interest on these advances.
+[21] Under the circumstances, I fail to see how I could find that the appellant could expect to earn income from the $100,343 in total advances granted to Gestion Warda. My understanding of the facts is that the advances made by the appellant were used to maintain Watan Market’s operations in order to allow Gestion Warda to continue to collect rents from Société 1162. Gestion Warda was the corporation that incurred the loss and was not paid for arrears in rent. These rents were erased from Société 1162’s books when its business was sold in September 2012.
+[22] Consequently, the appellant cannot be entitled to the $100,343 deduction for a BIL in respect of advances made to Gestion Warda because this loss is deemed to be nil under subparagraph 40(2)(g)(ii) of the Act.
+[23] In closing, it should be noted that even though the appellant’s $100,343 debt was not deemed void under the previous paragraph, the appellant could not rely on subsection 50(1) of the Act because it did not provide evidence that this debt became a bad debt in the year.
+[24] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 30th day of April 2019.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2019 TCC 95
+DOCKET:
+2018-35(IT)I
+STYLE OF CAUSE:
+NABIL WARDA INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+January 9, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+April 30, 2019
+APPEARANCES:
+Agent for the appellant:
+Nabil Warda
+Counsel for the respondent:
+Annie Laflamme (student-at-law)
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

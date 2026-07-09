@@ -1,0 +1,235 @@
+---
+title: "Fox v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/306915/index.do"
+last_modified: "2018-02-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 43"
+citation2: ""
+neutral_citation: "2018 TCC 43"
+decision_date: "2018-02-28"
+language: "en"
+item_id: "306915"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7191
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:52:55.106000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "00d7866a803a18c7e395073419f8f142e33ee84bdb3b9866891285d1cd5ca81a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fox v. The Queen
+
+- Citation: 2018 TCC 43
+- Decision date: 2018-02-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7191, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fox v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-02-28
+Neutral citation
+2018 TCC 43
+File numbers
+2017-928(IT)I, 2017-930(GST)I, 2017-932(IT)I
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-928(IT)I
+BETWEEN:
+MICHAEL FOX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Michael Fox 2017-930(GST)I and Michael Fox 2017-932(IT)I
+on September 13, 2017, at Vancouver, British Columbia
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jamie Hansen
+JUDGMENT
+The appeal from the assessment of the Appellant as a director of Foxtrot Communications Ltd. (Company), raised May 22, 2015 under the federal Income Tax Act (ITA) for non-remittance by the Company of employees’ federal and provincial income taxes during the Company’s 2009, 2010, 2011 and 2012 taxation years is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 28th day of February 2018.
+“B. Russell”
+Russell J.
+Docket: 2017-930(GST)I
+BETWEEN:
+MICHAEL FOX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Michael Fox 2017-928(IT)I and Michael Fox 2017-932(IT)I
+on September 13, 2017, at Vancouver, British Columbia
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jamie Hansen
+JUDGMENT
+The appeal from assessment of the Appellant as a director of Foxtrot Communications Ltd. (Company), raised May 27, 2015 under the federal Excise Tax Act (ETA), for non-remittance by the Company of net goods and services tax/harmonized sales tax (GST/HST) within the period April 1, 2010 to September 30, 2012 is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 28th day of February 2018.
+“B. Russell”
+Russell J.
+Docket: 2017-932(IT)I
+BETWEEN:
+MICHAEL FOX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeals of Michael Fox 2017-928(IT)I and Michael Fox 2017-930(GST)I
+on September 13, 2017, at Vancouver, British Columbia
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jamie Hansen
+JUDGMENT
+The appeal from the assessment of the Appellant as a director of Foxtrot Communications Ltd. (Company), raised May 22, 2015 under the federal Income Tax Act (ITA), the Canada Pension Plan (Canada) (CPP) and Employment Insurance Act (Canada) (EIA) for non-remittance by the Company of employment insurance premiums and CPP contributions for the Company’s 2009, 2010, 2011 and 2012 taxation years is dismissed, without costs, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 28th day of February 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC43
+Date: 20180228
+Docket: 2017-928(IT)I
+2017-930(GST)I
+2017-932(IT)I
+BETWEEN:
+MICHAEL FOX,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+Introduction:
+[1] These are reasons for judgment applicable to the three herein informal procedure appeals of the self-represented Appellant, Michael Fox, all in respect of director’s liability assessments. The appeals were heard on common evidence. In each the sole issue is whether the available statutory “due diligence defence” is applicable.
+[2] The appealed assessments are:
+a) in appeal 2017-928(IT)I, an assessment of the Appellant as a director of Foxtrot Communications Ltd. (Company), raised May 22, 2015 under the federal Income Tax Act (ITA) for non-remittance by the Company of employees’ federal and provincial income taxes during the Company’s 2009, 2010, 2011 and 2012 taxation years, totaling including interest and penalty $23,794 as of dates between and including April 30, 2010 and April 24, 2013 on which the Minister of National Revenue (Minister) raised eight non-remittance assessments against the Company. These eight assessments were for the Company’s 2009 taxation year (one), its 2010 taxation year (two), its 2011 taxation year (two) and its 2012 taxation year (three);
+b) in appeal 2017-930(GST)I, an assessment of the Appellant as a director of the Company, raised May 27, 2015 under the federal Excise Tax Act (ETA), for non-remittance by the Company of net goods and services tax/harmonized sales tax (GST/HST) within the period April 1, 2010 to September 30, 2012, totaling including interest and penalty $40,047 as of dates between and including October 20, 2011 and July 8, 2013 on which the Minister raised against ten non-remittance assessments against the Company; and
+c) in appeal 2017-932(IT)I, an assessment of the Appellant as a director of the Company, raised May 22, 2015 under the ITA, the Canada Pension Plan (Canada) (CPP) and Employment Insurance Act (Canada) (EIA) for non-remittance by the Company of employment insurance premiums and CPP contributions for the Company’s 2009, 2010, 2011 and 2012 taxation years, totaling including interest and penalty $26,249 as of dates between and including January 18, 2010 and April 24, 2013 on which the Minister raised against ten non-remittance assessments against the Company.
+Minister’s Assumptions of Fact:
+[3] In the Respondent’s three Replies are pleaded the assumptions the Minister made in raising the three appealed director’s liability assessments. The three sets of assumptions are identical in substance. In summary they are that the Company was incorporated June 2, 2000; its fiscal year was the same as the calendar year; the Appellant was the sole director and directing mind of the Company; during the relevant period the Company paid its employees wages net of the source deductions required to be withheld and remitted and also generated net GST/HST that was to be remitted; the Company did not remit various of these amounts; the Appellant did not make reasonable efforts to prevent the Company’s failure to remit the withheld amounts; the Appellant decided that the Company would pay the Company’s suppliers and other creditors prior to the deductions or other amounts required by law to be withheld and remitted during the applicable period; the non-remitted amounts are as particularized in the preceding paragraph.
+[4] The Minister’s pleaded assumptions are here set out as jurisprudence has established that they are presumed correct absent the particular appellant taxpayer establishing a prima facie case otherwise.
+[5] In each of the three notices of appeal the Appellant has pleaded entitlement to the benefit of the available statutory due diligence defence in respect of the said non-remittances.
+Evidence:
+[6] The Appellant testified that he was self-employed and had been the sole shareholder and director of the Company, incorporated in 2000. The Company was in the publishing business. In September 2008 it purchased from another publishing company the on-going publications, Independent Times and The Prospector News (Prospector News). The purpose of Prospector News was, the Appellant said, to help junior mining companies tell their stories so as to attract investors. Two weeks later, in mid-September, what is known as the 2008 market crash commenced. This led fairly promptly to a 40 to 60% drop in value in the junior mining industry shares, he testified. He said the Company’s revenue from Prospector News was closely tied to market performance in the resource market sector. The Company’s cash flows in the form of subscription payments for Prospector News thus suffered.
+[7] The Appellant did not challenge the amounts pleaded by the Respondent as not having been remitted. Two staff of the Company were cut in early 2009. The Appellant testified that he paid Company employees from his own resources, drawing on personal lines of credit. He went to his bank to seek to extend his credit line but was turned down plus the bank closed the credit line he did have. Then in June/July 2009 his computer failed. In 2010 the computer apparently again malfunctioned and with these failures the Appellant testified he had no mechanism to keep track of the Company’s obligations as to source deductions and net GST/HST remittances due.
+[8] In September 2010 Canada Revenue Agency (CRA) contacted the Appellant about the non-remittances. The Appellant testified that throughout 2010, 2011 and 2012 he tried to satisfy CRA while he was in debt and seeking financing options. He unsuccessfully sought to borrow $100,000 to pay CRA, pay off his lines of credit and become and remain current with remittances due CRA on a go-forward basis. The mining industry market was on a long, slow downturn, until mid-2016. Prospector News subscribers were leaving the mining business. The Appellant tried without success to interest various acquaintances in acquiring an interest in the Company.
+[9] In dealing with CRA from September 2010 forward, director’s liability was referenced by a CRA Collections officer to the Appellant on August 30, 2011, per CRA diary records known as “T2020s”. The Appellant sought to mortgage his Vancouver condo, but was turned down in May 2012. He said that by the end of 2012 he was out of financial options. In 2013 his bank accounts were seized. In the 2010 to 2012 period he had laid-off several Company staff, and had shut down the Company’s entertainment publication called City Reels.
+[10] In cross-examination the Appellant testified that while he was seeking to obtain financing, the Company had to be continuing in business as a going concern. He said he was doing the barest minimum to move the Company forward. He testified he used all personal funds and access to personal credit to pay employees. Business dropped 65% from 2007. He never resigned as director. He tried to settle with CRA.
+[11] For the Respondent, CRA Collections officer Crystal Isaac testified. She took over CRA’s collection file regarding the Company in mid-2013. She caused the appealed assessments to be raised. There was in total a $2,600 payment for non-remitted net GST/HST. She testified that paying CRA was not a priority of the Appellant. She caused writs of seizure and sale to be issued against the Company in respect of certificates filed in Federal Court in August 2014 for $48,048 ITA debt plus interest, and for $40,259 ETA debt plus penalty and interest. The writs were sought to be served at the Company’s address in early November 2014, but there was no response when the bailiff attended at that address. The writs were returned to CRA endorsed, “unable to locate exigible assets”.
+[12] The Appellant’s Ex. A-14, being a CRA memorandum dated May 13, 2015 from Ms. Isaac to another CRA individual, stated as being for the purpose of requesting authorization to assess the Appellant for director’s liability, states in part in respect of “Collection Activity” that “Voluntary arrangements have been sought without success.” The memorandum notes also that the Company “is inoperative and without assets.”
+[13] Exhibit A-4, submitted by the Appellant, is a copy of CRA Collections’ minutes of contacts with the Appellant in respect of the Company over the period June 24, 2010 to December 6, 2012. It indicates the Appellant advised a CRA trust examiner in January 2011 that remittances had not been made “due to serious cash flow problem” and that there were one or two employees and 2010 had been economically better than 2009 and the Appellant intended to clear this debt in 2011. The Appellant advised CRA in November 2010 that he was having “problems with his computer and unable to pay to have it fixed due to difficult times”. The Company’s GST returns for 2009 had then not yet been filed. The CRA trust exam was mandatory as there was a history of more than three months of non-remittances.
+[14] The Appellant was contacted by CRA Collections in March 2011. He advised a payment could be made in two weeks but he was not sure what amount. CRA sought monthly payments and in May 2011 the Appellant advised all remittances and GST/HST would be filed and paid by June 30th. In July 2011 CRA followed up and the Appellant advised, “he had large computer meltdown in 08/09 which is causing delays. On top of this he is busy and short staffed and had to do everything himself.” CRA responded to the Appellant that 2008/2009 computer issues had nothing to do with 2011 remittances. The Appellant also was told that un-paid remittances were due by July 25 and that GST returns must be filed as soon as possible, and he was advised that a corporation has to file a T2 whether or not tax was owing. Payments continued not to be made. In September 2011 CRA requested the Appellant to seek personal financing based on $158,000 home equity and also unlocking a portion of his LIRA, and also that he look into factoring the Company’s receivables. Also there is a comment that a director’s liability assessment would be considered if there were no acceptance of the foregoing financing steps. In the interim a monthly payment of $1,200 was agreed to, but it is unclear to what extent this arrangement proceeded.
+[15] These Collections notes continue in this vein. By October 2012 the Appellant was, “hoping to find new investors to inject cash into the business.”
+[16] The Company’s 2002 registration in British Columbia was cancelled, ostensibly on the Appellant’s initiative, effective January 1, 2014. CRA thereafter had the Company’s dissolution date extended by two years while it continued its review of the company’s unremitted source deductions and net GST/HST.
+Issue and Parties’ Positions:
+[17] As stated the issue for each of the three appealed director’s liability assessments is whether the available statutory due diligence defence is applicable. For the assessment of the Appellant for un-remitted income tax, a director’s liability is established per subsection 227.1(1) of the ITA and the due diligence defence is per subsection 227.1(3). These two provisions provide as follows:
+Liability of directors for failure to deduct
+227.1 (1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or 135.1(7) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+…
+Idem [due diligence defence]
+(3) A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[18] For the assessment for un-remitted net GST/HST, the director’s liability is established per subsection 323(1) of the ETA, and the due diligence defence is articulated at subsection 323(3). These two provisions provide:
+Liability of directors
+323 (1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+…
+Diligence
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[19] Similarly, subsections 21.1(1) and (2) of the CPP provide for a director's liability and due diligence defence as follows:
+Liability
+21.1 (1) If an employer who fails to deduct or remit an amount as and when required under subsection 21(1) is a corporation, the persons who were the directors of the corporation at the time when the failure occurred are jointly and severally or solidarily liable, together with the corporation, to pay to Her Majesty that amount and any interest or penalties relating to it.
+Application of Income Tax Act provisions
+(2) Subsections 227.1(2) to (7) of the Income Tax Act apply, with such modifications as the circumstances require, in respect of a director of a corporation referred to in subsection (1).
+[20] And, subsections 83(1) and (2) of the EIA provide for a director’s liability and due diligence defence as follows:
+Liability of directors
+83 (1) If an employer who fails to deduct or remit an amount as and when required under subsection 82(1) is a corporation, the persons who were the directors of the corporation at the time when the failure occurred are jointly and severally, or solidarily, liable, together with the corporation, to pay Her Majesty that amount and any related interest or penalties.
+Application of Income Tax Act provisions
+(2) Subsections 227.1(2) to (7) of the Income Tax Act apply, with such modifications as the circumstances require, to a director of the corporation.
+[21] The Appellant submits that the Appellant did take sufficient steps to render applicable the due diligence defence in response to the director’s liability assessments against him. He particularly cites as a supportive precedent the decision of this Court in William Campbell v. R., 2010 TCC 100. The Respondent’s position is that the Appellant is not entitled to the due diligence defence, the assessments against the Appellant are appropriate and these three appeals should be dismissed.
+Analysis:
+[22] The Federal Court of Appeal (FCA) decision of R. v. Buckingham, 2011 FCA 142 remains the lead case regarding applicability of the due diligence defence in director’s liability assessment appeals. Buckingham established, in light of the Supreme Court of Canada decision of Peoples Department Stores et al. v. Wise, 2004 SCC 68, that the “objective subjective” test the FCA previously had set out in Soper v. Canada, [1998] 1 FC 124 (CA) for measuring the standard of care, diligence and skill required by the statutory due diligence defences had evolved into a purely “objective” standard. This permits “stricter standards” to be applied in determining application of the defence (Buckingham, para. 38). Still, “…the particular circumstances of a director…must be taken into account, but…[now]…against an objective ‘reasonably prudent person’ standard.” (para. 39).
+[23] Also Buckingham emphasized that the defence only applies in respect of efforts to ensure the remittances are made on a timely basis, and it does not extend to efforts to repay missed remittances. At para. 56:
+[56] A director…cannot justify a defence under…subsection 227.1(3) of the [ITA] where he condones the continued operation of the corporation by diverting employee source deductions to other purposes. The entire scheme of section 227.1 of the [ITA], read as a whole, is precisely designed to avoid such situations. In this case, though the respondent had a reasonable (but erroneous) expectation that the sale of the online course development division could result in a large payment which could be used to satisfy creditors, he consciously transferred part of the risks associated with this transaction to the Crown by continuing operations knowing that employee source deductions would not be remitted. This is precisely the mischief which subsection 227.1 of the [ITA] seeks to avoid.
+[24] Several months later the FCA had occasion to echo Buckingham, in Balthazard v. R., 2011 FCA 331. In this case the FCA particularly noted (para. 37) that the director appellant, “concerned himself with [the corporation’s] tax remittances as soon as this business began having financial difficulties and that he made a number of arrangements, both to turn the business around and to ensure that the GST-related net tax was remitted.” These included requiring the corporation’s chief of financial arrangements to report regularly to the board of directors that tax deductions and remittances of GST-related net tax were carried out on time. Also, when difficulties did arise, the director personally took charge of discussions with CRA to ensure remittances were made by instalments to ensure complete payment by June 30, 2006.
+[25] But there was in the view of the FCA a lapse of time of three months when the director apparently did little or nothing to stem the continued corporate failure to make remittances. The FCA found this “show[ed] a lack of due diligence” (para. 51), for which period the Court accordingly did not permit the appellant the benefit of the due diligence defence. The FCA however noted (para. 56) that for other relevant periods:
+…a number of facts weigh in favour of such a defence being successful in this case. I note in particular the appellant’s constant concern for his corporation’s tax remittances, his numerous efforts since the beginning of [the corporation’s] financial difficulties to ensure remittance of the net tax, his numerous additional capital contributions to support the corporation throughout the period of its financial difficulties, the fact that the tax was remitted in full for [a] period...
+[26] The Respondent cited also the 2012 Tax Court decision of Kevin D’Amore v. R., 2012 TCC 373. In D’Amore the director appellant acknowledged he had paid creditors to keep the corporate business “afloat”. The director did not let the corporation make source deductions and net GST/HST remittances. He injected $22,000 to pay for business supplies (“no liquor, no food – no business”), rather than to pay remittances. Justice C. Miller did not find this conduct sufficient to allow the director to avoid the director’s liability assessment against him by virtue of the due diligence defence, because of the director’s efforts to continue the business notwithstanding the continuing failures to remit. The Court cited Buckingham and Balthazard in so finding. And, at paras. 27 and 28 the Court considered the above-cited Campbell decision as follows, distinguishing it on the basis that the director in that case was focused at least in part on “trying to meet CRA remittances”:
+[27] I was not made aware of any case in which a director successfully relied on a due diligence defence in circumstances where the director of a corporation in financial difficulties intentionally had the corporation pay creditors, other than the CRA, to keep the business afloat, in the hope that the business will ultimately turn profits and then be in a position to pay Government remittances. I put this to the Appellant’s counsel and he referred me to the case of Campbell v. The Queen. With respect, that case is not close to the situation before me. The following describes what steps the director took in Campbell:
+42. … At this point, the Appellant proposed a further informal arrangement in which CRL would pay $1,000 three times monthly. This was accepted by Jim Fitzgerald, a collections officer at CRA. The Appellant testified that he was in constant contact with CRA, and particularly Mr. Fitzgerald, throughout this period. To honour some of these cheques, the Appellant testified that he engaged in a strategy in which he would ensure that client payments to CRL were deposited to the corporate account on the same day that payment to CRA would be clearing. This ensured that the bank would not have time to stop the payment on the cheques earmarked for CRA. Up until the time that the bank stopped this practice, the Appellant testified that this practice included watching and hoping for bad weather so that the planes carrying the cheques to a Nova Scotia clearing house would be delayed by the weather which frequently occurred in the province. This provided a further day's grace period to ensure CRA's cheques cleared. Steve Lawlor confirmed this practice as well as the ongoing involvement of the Appellant in ensuring that CRA was paid. In addition, the Appellant stated that he assisted CRA by proposing that a requirement to pay be placed against one of CRL's larger debtors, likely the Hibernia account. In addition, he ensured that CRL facilitated CRA's efforts to collect directly from other third-party accounts of the company.
+43. In a further attempt to ensure priority to CRA, the Appellant testified that CRL maintained a separate account for its source deductions, number 106-2017, which was closed in December, 2000. Generally, funds would be deposited into CRL's general account and then transferred immediately to the account designated for remittances. According to the Appellant, the bank, however, would not permit transfers to this account unless the company was current with its loan obligations.
+44. During 1995, the Appellant convinced CRL's account manager at the Royal Bank to allow the company to go into an overdraft in order that source deductions could be made. Later, in 1996, the bank's auditors put a stop to this and converted the overdraft to a secured loan. The bank suggested that CRL seek professional accounting advice, which it subsequently did. However, CRL was unable to continue those services due to the higher fees which were being charged to CRL.
+…
+46. The Appellant also considered having cheques being paid to CRL from its customers endorsed directly over to CRA, but because the bank was monitoring the company receivables so closely, the Appellant felt the bank would simply stop this practice if it were to be initiated.
+…
+49. Throughout this period, the Appellant invested over $140,000 of his personal savings into the company to meet CRA remittances and loan payments and, in addition, made attempts to obtain funding from other sources. The Appellant also testified that he voluntarily did not take a salary from CRL so that priority again could be given to the CRA remittances. The Appellant's name is not in fact present on any of the corporate payroll lists for 1996 (Exhibit A-1, Tab 7), 1997 (Exhibit A-1, Tab 15), 1998 (Exhibit A-1, Tab 17) and 1999 (Exhibit A-1, Tab 23).
+[28] The last paragraph quoted is most significant. The director in the Campbell case injected funds "to meet CRA remittances". Mr. D’Amore acknowledged that he injected funds to pay other creditors. This is the very mischief the Federal Court of Appeal described in the Buckingham case that the provision in the Act and the ETA are designed to address. No, Mr. D’Amore, during the second period, took no steps to prevent the failure but intentionally continued the company’s failure to remit. It is clear from his lawyer’s letter in August 2008 that Mr. D’Amore indeed acknowledged this responsibility and ensuing liability.
+[27] The above-cited portions of Campbell describe a variety of initiatives made by the director in that case, “to meet CRA remittances”, as highlighted by that Court. They include providing a series of post-dated cheques, ensuring that client payments would be deposited to the corporate account on day of receipt so as to help ensure the bank could not block the money being used for remittances, watching for bad weather which could provide an extra day before client cheques went to bank’s clearing–house in Nova Scotia, advising CRA to place a requirement to pay against one of the pertinent company’s larger debtors and other third party accounts, maintenance of a separate account for source deductions, and convincing the bank to allow the corporate account to go into overdraft so that source deductions could be made.
+[28] The Appellant argued that Campbell is an apt precedent for the case at bar. In his submission, in both cases external factors created the cash-flow challenge, in both cases corporate records were inadvertently destroyed, in both cases the director contributed personal funds, in both cases corporate staff were reduced and expenses controlled, in both cases the director took no salary, in both cases the directors sought to negotiate a bank loan (in Campbell the director was successful). The Appellant urged that in both cases the directors “did everything reasonably possible”.
+[29] The Respondent submitted that the Company had a history of delayed GST/HST filing and T2 corporate tax filing, and that the Appellant’s first priority was to keep the Company operating. There was no evidence the Appellant took any steps to stop failures to make remittances. The Respondent said this was not due diligence. There were no separate accounts for remittances in the case at bar, unlike in Campbell. The saved money through non-remittances in the case at bar was used to keep the Company running. In the case at bar there were no net GST/HST payments other than for $2,600 total.
+[30] I am in agreement with the Respondent that here the Appellant has not established entitlement to the available defence of due diligence in response to the director’s liability assessments against him. Citing Buckingham and Belthazard, I do not observe the general focus of the Appellant as seeking to stop non-remittances, as opposed to continuing with non-remittances while keeping his Company going so that in the longer term someone might buy the Company or invest in it and thus provide funding to presumably reimburse CRA. Reading the Collections minutes in respect of the Appellant shows that CRA was seeking to contact and generally pursuing the Appellant for solutions and payments well more than the Appellant was engaged in initiatives seeking to satisfy CRA regarding continued non-remittances. In this regard the efforts made by the director in Campbell, noted above, compare quite more favourably in terms of self-initiative in engaging in actions to curb non-remittances, that at least somewhat placated CRA.
+[31] Furthermore, insofar as the Appellant prominently cites and relies upon Campbell, in fact that decision shortly preceded the FCA’s seminal decision of Buckingham, which included language encouraging “stricter standards” to be utilized in applying the defence to due diligence in director’s liability cases. Buckingham is the governing jurisprudence - not Campbell.
+[32] On the basis of the foregoing I find that the Appellant has been unsuccessful in establishing entitlement to the due diligence defence in any of these three appeals, heard on common evidence.
+Signed at Ottawa, Canada, this 28th day of February 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC43
+COURT FILE NO.:
+2017-928(IT)I
+2017-930(GST)I
+2017-932(IT)I
+STYLE OF CAUSE:
+MICHAEL FOX AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+September 13, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+February 28, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jamie Hansen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

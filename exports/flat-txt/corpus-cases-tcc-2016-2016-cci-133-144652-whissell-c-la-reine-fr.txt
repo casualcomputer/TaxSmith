@@ -1,0 +1,284 @@
+Title: Whissell  c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144652/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-133-144652-whissell-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-05-30
+
+# Whissell  c. La Reine
+
+- Citation: 2016 CCI 133
+- Decision date: 2016-05-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3089, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Whissell c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-30
+Référence neutre
+2016 CCI 133
+Numéro de dossier
+2013-2846(IT)G
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013‑2846(IT)G
+ENTRE :
+GEORGE WHISSELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 13 avril 2016, à Edmonton (Alberta)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocat de l’appelant :
+Me Douglas J. Forer
+Avocat de l’intimée :
+Me Gregory Perlinski
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté contre les nouvelles cotisations établies sous le régime de la Loi de l’impôt sur le revenu (la « LIR ») pour les années d’imposition 2007, 2008, 2009 et 2010, dont les avis sont, respectivement, datés du 16 janvier 2012, du 23 janvier 2012, du 3 février 2012 et du 30 janvier 2012, est rejeté avec dépens en faveur de l’intimée.
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté contre la nouvelle cotisation établie sous le régime de la LIR pour l’année 2006, dont l’avis porte la date du 12 décembre 2011, est accueilli, et cette nouvelle cotisation est renvoyée au ministre du Revenu national afin qu’il procède à un nouvel examen et établisse une nouvelle cotisation en partant du principe que l’appelant a le droit de déduire un montant additionnel de 150 $ au titre d’un don de bienfaisance qu’il a fait au cours de son année d’imposition 2006.
+Signé à Ottawa, Canada, ce 30e jour de mai 2016.
+« J.R. Owen »
+Juge Owen
+Traduction certifiée conforme
+ce 24e jour de mai 2017.
+Mario Lagacé, jurilinguiste
+Référence : 2016 CCI 133
+Date : 20160530
+Dossier : 2013‑2846(IT)G
+ENTRE :
+GEORGE WHISSELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Owen
+[1] La Cour est saisie d’un appel formé par M. George Whissel contre les nouvelles cotisations établies à son égard par le ministre du Revenu national (le « ministre ») pour les années d’imposition 2006, 2007, 2008, 2009 et 2010 (collectivement désignées ci‑après les « années d’imposition en cause »), cotisations qui incluent dans le calcul du revenu de l’appelant des sommes non déclarées et qui lui imposent, pour chacune des années d’imposition en cause sauf celle de 2006, une pénalité aux termes du paragraphe 163(1) de la Loi de l’impôt sur le revenu (la « LIR »).
+[2] Au début de l’audience, l’avocat de l’appelant et celui de l’intimée, après avoir produit un exposé conjoint des faits (l’« ECF ») et un recueil commun de documents (le « recueil commun »), ont déclaré à la Cour qu’ils avaient l’intention de n’invoquer que les faits exposés dans l’ECF et étayés par ceux des documents du recueil commun dont les parties reconnaissaient explicitement dans l’ECF la véracité du contenu. Ces documents (ci‑après désignés les « documents ») se trouvent sous les cotes 11 à 21 du recueil commun. L’ECF est reproduit en annexe A des présents motifs.
+[3] En outre, l’avocat de l’appelant a confirmé que, en conséquence des faits exposés dans l’ECF, son client admettait avoir omis de déclarer des revenus dans chacune des déclarations qu’il avait produites pour les années d’imposition en cause, et qu’il reconnaissait la validité des nouvelles cotisations correspondant à ces années d’imposition, par lesquelles le fisc avait ajouté les montants non déclarés à ses revenus. L’avocat de l’intimée a quant à lui concédé que l’appelant avait fait un don de bienfaisance de 150 $ en 2006 et qu’il y avait lieu, sous le seul rapport de ce don, d’accueillir l’appel contestant la nouvelle cotisation relative à cette année d’imposition.
+[4] L’ECF porte que l’appelant a produit, le 5 avril 2011, ses déclarations de revenus afférentes aux années d’imposition en cause et qu’il a fait l’objet, par avis datés du 21 avril 2011, de cotisations initiales conformes à ces déclarations. Cependant, le ministre a par la suite établi, pour les années d’imposition en cause, de nouvelles cotisations (ci‑après désignées les « nouvelles cotisations »), dont les avis portent respectivement les dates du 12 décembre 2011, du 16 janvier 2012, du 23 janvier 2012, du 3 février 2012 et du 30 janvier 2012. Ces nouvelles cotisations avaient les effets suivants :
+1. Pour l’année d’imposition 2006, une augmentation de 4 871 $ du revenu de l’appelant provenant d’un REER.
+2. Pour l’année d’imposition 2007, une augmentation de 21 725 $ du revenu d’emploi de l’appelant, de 2 090 $ de ses autres revenus de pension, et de 9 024 $ de son revenu en intérêts.
+3. Pour l’année d’imposition 2008, une augmentation de 2 170 $ des autres revenus de pension de l’appelant, et de 1 463 $ de son revenu en intérêts.
+4. Pour l’année d’imposition 2009, une augmentation de 3 157 $ des autres revenus de pension de l’appelant, et de 131 961 $ de son revenu en dividendes.
+5. Pour l’année d’imposition 2010, une augmentation de 3 052 $ des autres revenus de pension de l’appelant, et de 7 025 de son revenu provenant d’un REER.
+[5] Dans les nouvelles cotisations établies à l’égard de l’appelant pour les années d’imposition 2007 à 2010 inclusivement, le ministre lui imposait aussi des pénalités aux termes du paragraphe 163(1) de la LIR. Les avocats des deux parties ont convenu que, étant donné les points concédés par l’appelant dans l’ECF, la seule question à trancher par la Cour est celle de la validité des pénalités imposées en vertu du paragraphe 163(1).
+[6] Le paragraphe 163(1) de la LIR est libellé comme suit :
+163 (1) Toute personne qui ne déclare pas un montant à inclure dans le calcul de son revenu dans une déclaration produite conformément à l’article 150 pour une année d’imposition donnée et qui a déjà omis de déclarer un tel montant dans une telle déclaration pour une des trois années d’imposition précédentes est passible d’une pénalité égale à 10 % du montant à inclure dans le calcul de son revenu dans une telle déclaration, sauf si elle est passible d’une pénalité en application du paragraphe (2) sur ce montant.
+[7] Le paragraphe 163(1) de la LIR sanctionne ce qu’il est convenu d’appeler une infraction de responsabilité stricte. Sous le régime de ce paragraphe, le fisc peut imposer une pénalité à l’appelant pour une année d’imposition donnée (que je désignerai ci‑après l’« année de la pénalité ») s’il omet de déclarer un montant à inclure dans le calcul de son revenu dans la déclaration qu’il a produite pour l’année de la pénalité et s’il a déjà omis de déclarer un tel montant dans une déclaration produite pour l'une des trois années d’imposition ayant précédé ladite année de la pénalité.
+[8] L’emploi du présent et du passé composé au paragraphe 163(1) représente le rapport temporel entre l’année de la pénalité (le présent) et les trois années d’imposition précédentes (le passé). Cependant, ce changement de temps verbal ne concerne en rien l’ordre dans lequel sont effectivement produites les déclarations de revenu correspondant aux années d’imposition visées. Par conséquent, la déclaration relative à l’année de la pénalité peut être produite avant ou après les déclarations afférentes aux trois années d’imposition précédentes, ou encore en même temps que celles-ci. Dans la présente espèce, les déclarations relatives aux années d’imposition en cause ont été produites simultanément.
+[9] Le paragraphe 163(3) de la LIR dispose que la charge d’établir les faits qui justifient l’imposition d’une pénalité en vertu du paragraphe 163(1) de la même loi pèse sur le ministre. L’intimée fait valoir que les faits exposés aux paragraphes 11 à 15 inclusivement de l’ECF établissent que l’appelant a omis de déclarer des revenus dans les déclarations qu’il a produites pour les années d’imposition en cause. Ces paragraphes donnent un état détaillé des montants que l’appelant a déclarés et n’a pas déclarés dans lesdites déclarations. En outre, les calculs dont rendent compte les paragraphes 11 à 15 de l’ECF sont étayés par les documents.
+[10] L’avocat de l’intimée soutient que ces faits justifient l’imposition d’une pénalité pour chacune des années d’imposition 2007, 2008, 2009 et 2010 de l’appelant. Je signale que l’imposition d’une pénalité ne se justifie pas pour l’année d’imposition 2006 de l’appelant, au motif qu’aucun élément n’établit que ce dernier a omis de déclarer des revenus dans les déclarations qu’il a produites pour ses années d’imposition 2003, 2004 ou 2005.
+[11] Je pense comme l’avocat de l’intimée que les faits exposés dans l’ECF et étayés par les documents acquittent le ministre de la charge que lui prescrit le paragraphe 163(1) d’établir, selon la prépondérance des probabilités, les faits justifiant l’imposition d’une pénalité à l’appelant au titre des années d’imposition 2007 à 2010.
+[12] L’avocat de l’appelant n’a pas contesté le fait que l’appelant ait omis de déclarer des revenus dans les déclarations qu’il a produites pour chacune des années d’imposition en cause. Il a plutôt soutenu que les faits exposés dans l’ECF et étayés par les documents viennent à l’appui d’une défense basée sur la diligence raisonnable. Il a invoqué les faits suivants au soutien de cette thèse :
+1. L’appelant a produit simultanément, le 5 avril 2011, ses déclarations relatives aux années d’imposition en cause.
+2. L’appelant n’avait fait l’objet de cotisation pour aucune des années d’imposition en cause au moment de la production de ces déclarations, de sorte qu’il n’avait été avisé d’aucun défaut dont aurait été entachée l’une quelconque des déclarations produites le 5 avril 2011.
+3. À l’exception de l’omission du dividende de 131 961 $ dans la déclaration de l’appelant pour 2009, l’omission de déclarer des revenus suivait un modèle ou schéma constant, qui consistait en la déclaration partielle d’une catégorie déterminée de revenus. L’avocat assimile à un tel schéma constant l’omission systématique de déclarer certaines catégories de revenus de pension pour toutes les années d’imposition en cause, et il voit une omission partielle dans le fait que l’appelant n’ait pas déclaré la totalité de ses revenus d’emploi et de placements en 2007.
+4. Les revenus de pension non déclarés ne représentaient qu’une faible proportion du revenu total de l’appelant. Les pourcentages applicables aux années d’imposition 2007, 2008, 2009 et 2010 étaient respectivement de 2,0 %, de 0,8 %, de 0,7 % et de 7,0 %.
+5. Le montant de l’impôt non payé résultant de l’omission de déclarer des revenus pour chacune des années d’imposition en cause n’était pas élevé.
+6. C’est relativement peu de temps après la cotisation initiale afférente aux années d’imposition en cause que l’appelant a fait l’objet d’une nouvelle cotisation par laquelle le fisc a inclus dans le calcul de son revenu les montants qu’il avait omis de déclarer.
+7. Les montants omis figuraient tous sur les feuillets de renseignements en la possession de l’Agence du revenu du Canada (l’« ARC »). Cela signifie que l’ARC disposait de tous les renseignements dont elle avait besoin pour calculer ces montants aux fins des nouvelles cotisations, et cela explique aussi pourquoi elle a établi de nouvelles cotisations pour chacune des années d’imposition en cause peu après les cotisations initiales.
+8. Il n’existait aucun élément de nature à établir que l’appelant eût reçu ou n’eût pas reçu les feuillets de renseignements susdits.
+[13] L’avocat de l’intimée a avancé l’argument qu’aucun de ces faits ne vient à l’appui d’une défense basée sur la diligence raisonnable. Je souscris à sa thèse.
+[14] La Cour suprême du Canada explique dans son arrêt R. c. Sault Ste. Marie, [1978] 2 R.C.S. 1299, que la défense basée sur la diligence raisonnable, s’agissant d’une infraction de responsabilité stricte, est recevable dans l’un ou l’autre de deux cas :
+• l’accusé a commis une erreur de fait raisonnable, c’est‑à‑dire qu’il croyait honnêtement, pour des motifs raisonnables, à un état de fait inexistant qui, s’il avait existé, aurait rendu l’acte ou l’omission innocent;
+• il s’est efforcé de se conformer à la loi avec une diligence raisonnable, c’est‑à‑dire qu’il a pris toutes les précautions raisonnables pour éviter l’événement qui constitue une infraction.
+[15] Plus récemment, la Cour d’appel fédérale a formulé à ce sujet les observations suivantes dans l’arrêt Corporation de l’école polytechnique c. Canada, 2004 CAF 127 :
+[28] La défense de diligence raisonnable permet à une personne d’éviter l’imposition d’une pénalité si elle fait la preuve qu’elle n’a pas été négligente. Elle consiste à se demander si cette personne a cru, pour des motifs raisonnables, à un état de fait inexistant qui, s’il eût existé, aurait rendu son acte ou son omission innocent ou si elle a pris toutes les précautions raisonnables pour éviter l’événement qui mène à l’imposition de la peine? Voir La Reine c. Sault Ste‑Marie, [1978] 2 R.C.S. 1299; La Reine c. Chapin, [1979] 2 R.C.S. 121. En d’autres termes, la diligence raisonnable excuse soit l’erreur de fait raisonnable, soit la prise de précautions raisonnables pour se conformer à la loi.
+[29] La défense de diligence raisonnable ne doit pas être confondue avec la défense de bonne foi qui a cours dans le régime de responsabilité pénale exigeant la preuve d’une intention ou d’une connaissance coupable. La défense de bonne foi permet l’exonération d’une personne qui a commis une erreur de fait de bonne foi, même si celle-ci est déraisonnable, alors que la défense de diligence raisonnable exige que cette erreur soit raisonnable, c’est-à-dire une erreur qu’une personne raisonnable aurait aussi commise dans les mêmes circonstances. La défense de diligence raisonnable qui requiert une croyance raisonnable, mais erronée, en une situation de fait est donc plus exigeante que celle de bonne foi qui se contente d’une croyance honnête, mais tout aussi erronée.
+[16] La Cour d’appel fédérale a développé l’analyse de la défense fondée sur l’erreur de fait raisonnable dans l’arrêt Résidences Majeau Inc. c. Canada, 2010 CAF 28 :
+[9] L’erreur de fait raisonnable emporte un double test : subjectif et objectif. Le test subjectif est satisfait si le défendeur établit qu’il s’est mépris en ce qu’il a cru en une situation de fait qui, si elle avait existé, aurait éliminé le caractère fautif de son geste ou de son omission. En outre, pour que cet aspect de la défense opère, il faut aussi que l’erreur soit raisonnable, i.e. une erreur qu’une personne raisonnable placée dans les mêmes circonstances aurait commise. Il s’agit là du test objectif.
+[17] Considérés dans leur ensemble, ni les faits invoqués par l’avocat de l’appelant, ni les faits exposés dans l’ECF et appuyés par les documents ne viennent au soutien de la conclusion selon laquelle l’appelant aurait cru, pour des motifs raisonnables, à un état de fait inexistant qui, s’il avait existé, aurait rendu son acte ou son omission innocent.
+[18] Ces mêmes faits n’étayent pas non plus la thèse que l’appelant aurait fait preuve de diligence raisonnable. Bien au contraire, les faits que révèlent l’ECF et les documents établissent à l’évidence que l’appelant a omis de déclarer des montants de revenu importants dans les déclarations qu’il a produites pour les années d’imposition en cause, alors que ces montants figuraient sur les feuillets de renseignements qui lui étaient adressés. Comme on ne m’a présenté aucune explication de ces omissions, je me vois obligé de conclure que l’appelant n’en a aucune à proposer.
+[19] Contrairement aux conclusions de l’avocat de l’appelant, la simultanéité de la production des déclarations n’explique pas les omissions dont elles sont entachées. Le fait que l’appelant n’ait pas reçu de cotisations pour les années d’imposition en cause avant la production de ces déclarations n’explique pas non plus lesdites omissions.
+[20] L’avocat de l’appelant a avancé l’argument que ce dernier devrait bénéficier d’une charge de preuve allégée aux fins de l’établissement de la diligence raisonnable, au motif qu’il a produit ses déclarations en même temps et que, par conséquent, il n’avait reçu aucune cotisation pour les années d’imposition en cause au moment de cette production. Il ne me paraît pas justifié de soutenir qu’un contribuable qui a omis de produire ses déclarations de revenus pour 2006, 2007, 2008 et 2009 dans les délais respectivement prescrits pour ces années d’imposition devrait, aux fins de l’établissement de la diligence raisonnable, bénéficier d’une charge de preuve plus légère qu’un contribuable qui a produit ses déclarations ponctuellement.
+[21] L’avocat de l’appelant et celui de l’intimée ont tous deux souligné le fait que ni l’ECF ni les documents ne répondent à la question de savoir si l’appelant a ou non effectivement reçu les feuillets de renseignements où figurent les revenus omis dans ses déclarations. Cependant, ces feuillets de renseignements sont tous adressés à l’appelant et, compte tenu du fait qu’il n’a proposé aucun élément tendant à prouver qu’il ne les ait pas reçus ou ne les ait reçus qu’après avoir produit ses déclarations pour les années d’imposition en cause, je suis amené à tirer l’inférence négative selon laquelle il les avait bel et bien reçus et les avait en sa possession au moment où il a produit lesdites déclarations.
+[22] Quant au schéma constant qui, aux dires de l’avocat de l’appelant, établirait la diligence raisonnable, le seul schéma constant et pertinent que je puisse dégager des faits est que l’appelant a omis de déclarer des revenus dans chacune des déclarations qu’il a produites pour les années d’imposition en cause. À défaut de plus amples explications, ce schéma constant me donne à penser que l’appelant n’a fait preuve de diligence dans la production d’aucune de ces déclarations.
+[23] Il va sans dire que le système fiscal canadien repose sur l’autodéclaration. Or, exception faite de 2010, l’appelant n’a pas produit dans les délais prescrits ses déclarations de revenus pour les années d’imposition en cause, et lorsqu'il les a enfin produites, il a omis dans chacune d’elles de déclarer des montants importants de revenu, sans donner aucune explication raisonnable de ces manquements. En conséquence, l’appelant n’a établi à l’égard d’aucune des années d’imposition en cause la défense de diligence raisonnable qu’il avait soulevée. Je suis prêt à admettre que la pénalité qui s’ensuit en application du paragraphe 163(1) paraît sévère, mais c’est là une question qui relève du législateur.
+[24] J’ai été amené à cette conclusion après avoir pris en considération les précédents cités par les deux avocats dans leur recueil commun de jurisprudence, notamment la décision de la Cour intitulée Galachiuk c. La Reine, 2014 CCI 188[1]. Dans cette décision, la Cour a conclu que le contribuable avait fait preuve de diligence à l’égard de l’une des deux années d’imposition pertinentes pour l’application de la pénalité prévue au paragraphe 163(1) et elle a jugé que cette conclusion suffisait à l’exempter de cette pénalité. Étant donné ma propre conclusion selon laquelle l’appelant n’a pas établi avoir fait preuve de diligence raisonnable lorsqu’il a produit ses déclarations pour les années d’imposition en cause, je ne vois pas la nécessité d’examiner le point de savoir si la défense de diligence raisonnable peut s’appliquer à la seule année de la pénalité ou si elle s’applique à la fois à celle‑ci et aux trois années d’imposition précédentes.
+[25] Pour les motifs dont l’exposé précède, la Cour rejette, avec dépens en faveur de l’intimée, l’appel formé contre les nouvelles cotisations établies à l’égard de l’appelant pour les années d’imposition 2007, 2008, 2009 et 2010. Pour ce qui concerne la nouvelle cotisation dont l’appelant a fait l’objet pour l’année d’imposition 2006, la Cour accueille l’appel sans dépens, et renvoie cette nouvelle cotisation au ministre afin qu’il procède à un nouvel examen et établisse une nouvelle cotisation en partant du principe que l’appelant a le droit de déduire un montant additionnel de 150 $ au titre d’un don de bienfaisance qu’il a fait au cours de son année d’imposition 2006.
+Signé à Ottawa, Canada, ce 30e jour de mai 2016.
+« J.R. Owen »
+Juge Owen
+Traduction certifiée conforme
+ce 24e jour de mai 2017.
+Mario Lagacé, jurilinguiste
+ANNEXE A
+[TRADUCTION]
+2013‑2846(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+GEORGE ERIC WHISSELL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+EXPOSÉ CONJOINT DES FAITS
+L’appelant et l’intimée conviennent des faits suivants aux fins de l’audition du présent appel. Ils conviennent également, aux mêmes fins, de l’admissibilité des documents énumérés ci‑dessous. Les deux parties conviennent en outre qu’aucune d’elles ne citera de témoins dans le présent appel, ni ne produira en preuve d’autres faits ou documents que ceux sur lesquels elles expriment leur accord dans le présent exposé conjoint des faits.
+CONCESSIONS
+1. L’appelant reconnaît la validité du calcul suivant de ses revenus non déclarés des années d’imposition 2006 à 2010, tels qu'ils ont été établis dans ses cotisations :
+Année d’imposition 2006 :
+4 871,00 $
+Année d’imposition 2007 :
+32 839,93 $
+Année d’imposition 2008 :
+3 634,30 $
+Année d’imposition 2009 :
+135 118,48 $
+Année d’imposition 2010 :
+10 077,38 $
+2. L’appelant concède que la Cour n’a aucune modification à apporter aux nouvelles cotisations établies par le ministre touchant ses revenus pour les années d’imposition 2006, 2007, 2008, 2009 et 2010.
+3. L’appelant admet ne pas avoir engagé de frais médicaux suffisants pour pouvoir déduire de tels frais au titre des années d’imposition 2006, 2007, 2008, 2009 et 2010.
+4. L’intimée concède que l’appelant a le droit, non encore exercé, de déduire un don de bienfaisance de 150 $ pour l’année d’imposition 2006.
+LA SEULE QUESTION RESTANT EN LITIGE
+5. L’appelant et l’intimée conviennent que la seule question qu’il reste à trancher dans le présent appel est celle de savoir si le ministre a valablement imposé à l’appelant, en vertu du paragraphe 163(1) de la Loi de l’impôt sur le revenu, des pénalités pour « omission répétée de déclarer un revenu » au titre de chacune des années d’imposition 2007, 2008, 2009 et 2010.
+LES FAITS CONVENUS CONCERNANT LA QUESTION QUI RESTE EN LITIGE
+6. L’appelant n’a pas produit sa déclaration de revenus T1 pour l’année d’imposition 2006 dans le délai ayant pris fin le 30 avril 2007.
+7. L’appelant n’a pas produit sa déclaration de revenus T1 pour l’année d’imposition 2007 dans le délai ayant pris fin le 30 avril 2008.
+8. L’appelant n’a pas produit sa déclaration de revenus T1 pour l’année d’imposition 2008 dans le délai ayant pris fin le 30 avril 2009.
+9. L’appelant n’a pas produit sa déclaration de revenus T1 pour l’année d’imposition 2009 dans le délai ayant pris fin le 30 avril 2010.
+10. L’appelant a produit le 5 avril 2011 la totalité de ses déclarations de revenus T1 pour les années d’imposition 2006, 2007, 2008, 2009 et 2010.
+11. Pour l’année d’imposition 2006, le revenu exact de l’appelant était de 62 999 $, somme qui se répartit comme suit :
+Revenu déclaré par l’appelant
+58 128 $
+Revenu non déclaré provenant d’un REER
+4 871 $
+Revenu total
+62 999 $
+12. Pour l’année d’imposition 2007, le revenu exact de l’appelant était de 101 117 $, somme qui se répartit comme suit :
+Revenu déclaré par l’appelant
+68 278 $
+Revenu d’emploi non déclaré
+21 725 $
+Revenu de pension non déclaré
+2 090 $
+Revenu de placements non déclaré
+9 024 $
+Revenu total
+101 117 $
+13. Pour l’année d’imposition 2008, le revenu exact de l’appelant était de 257 671 $, somme qui se répartit comme suit :
+Revenu déclaré par l’appelant
+254 038 $
+Revenu de pension non déclaré
+2 170 $
+Revenu de placements non déclaré
+1 463 $
+Revenu total
+257 671 $
+14. Pour l’année d’imposition 2009, le revenu exact de l’appelant était de 468 132 $, somme qui se répartit comme suit :
+Revenu déclaré par l’appelant
+333 014 $
+Revenu de pension non déclaré
+3 157 $
+Revenu en dividendes non déclaré
+131 961 $
+Revenu total
+468 132 $
+15. Pour l’année d’imposition 2010, le revenu exact de l’appelant était de 139 144 $, somme qui se répartit comme suit :
+Revenu déclaré par l’appelant
+129,067 $
+Revenu de pension non déclaré
+3 052 $
+Revenu non déclaré provenant d’un REER
+7 025 $
+Revenu total
+139 144 $
+16. Le ministre du Revenu national (le « ministre ») a établi à l’égard de l’appelant, pour les années d’imposition 2006, 2007, 2008, 2009 et 2010, des cotisations initiales conformes aux déclarations de ce dernier, cotisations dont les avis sont tous datés du 21 avril 2011.
+17. Le ministre a établi à l’égard de l’appelant, pour l’année d’imposition 2006, une nouvelle cotisation dont l’avis est daté du 12 décembre 2011. Cette nouvelle cotisation ajoutait une somme de 4 871 $ au revenu de l’appelant provenant d’un REER.
+18. Le ministre a établi à l’égard de l’appelant, pour l’année d’imposition 2007, une nouvelle cotisation dont l’avis est daté du 16 janvier 2012. Cette nouvelle cotisation augmentait de 21 725 $ le revenu d’emploi de l’appelant, de 2 090 $ ses autres revenus de pension, et de 9 024 $ son revenu en intérêts, et lui imposait en outre, relativement aux montants qu’il avait omis de déclarer, des pénalités pour omission répétée de déclarer un revenu.
+19. Le ministre a établi à l’égard de l’appelant, pour l’année d’imposition 2008, une nouvelle cotisation dont l’avis est daté du 23 janvier 2012. Cette nouvelle cotisation augmentait de 2 170 $ les autres revenus de pension de l’appelant, et de 1 463 $ son revenu en intérêts, et lui imposait en outre, relativement aux montants qu’il avait omis de déclarer, des pénalités pour omission répétée de déclarer un revenu.
+20. Le ministre a établi à l’égard de l’appelant, pour l’année d’imposition 2009, une nouvelle cotisation dont l’avis est daté du 3 février 2012. Cette nouvelle cotisation augmentait de 3 157 $ les autres revenus de pension de l’appelant, et de 131 961 $ son revenu en dividendes, et lui imposait en outre, relativement aux montants qu’il avait omis de déclarer, des pénalités pour omission répétée de déclarer un revenu.
+21. Le ministre a établi à l’égard de l’appelant, pour l’année d’imposition 2010, une nouvelle cotisation dont l’avis est daté du 30 janvier 2012. Cette nouvelle cotisation augmentait de 3 052 $ les autres revenus de pension de l’appelant, et de 7 025 $ ses revenus provenant d’un REER, et lui imposait en outre, relativement aux montants qu’il avait omis de déclarer, des pénalités pour omission répétée de déclarer un revenu.
+22. Pour chacune des années d’imposition 2006, 2007, 2008, 2009 et 2010, l’appelant a omis de déclarer les montants que le ministre a inclus dans le calcul de son revenu.
+LES DOCUMENTS CONJOINTS CONCERNANT LA QUESTION QUI RESTE EN LITIGE
+23. Les parties conviennent que les documents suivants sont admissibles en preuve concernant la question qu’il reste à trancher dans l’appel; elles conviennent en outre de la véracité du contenu des documents « k » à « u », inclusivement :
+a. la déclaration de revenus T1 de l’appelant pour l’année d’imposition 2006, datée du 29 mars 2011 et produite auprès de l’Agence du revenu du Canada le 5 avril 2011;
+b. la déclaration de revenus T1 de l’appelant pour l’année d’imposition 2007, datée du 29 mars 2011 et produite auprès de l’Agence du revenu du Canada le 5 avril 2011;
+c. la déclaration de revenus T1 de l’appelant pour l’année d’imposition 2008, datée du 29 mars 2011 et produite auprès de l’Agence du revenu du Canada le 5 avril 2011;
+d. la déclaration de revenus T1 de l’appelant pour l’année d’imposition 2009, datée du 29 mars 2011 et produite auprès de l’Agence du revenu du Canada le 5 avril 2011;
+e. la déclaration de revenus T1 de l’appelant pour l’année d’imposition 2010, datée du 29 mars 2011 et produite auprès de l’Agence du revenu du Canada le 5 avril 2011;
+f. l’avis de nouvelle cotisation de l’appelant pour l’année d’imposition 2006, daté du 12 décembre 2011;
+g. l’avis de nouvelle cotisation de l’appelant pour l’année d’imposition 2007, daté du 16 janvier 2012;
+h. l’avis de nouvelle cotisation de l’appelant pour l’année d’imposition 2008, daté du 23 janvier 2012;
+i. l’avis de nouvelle cotisation de l’appelant pour l’année d’imposition 2009, daté du 3 février 2012;
+j. l’avis de nouvelle cotisation de l’appelant pour l’année d’imposition 2010, daté du 30 janvier 2012;
+k. un feuillet T4RSP (État du revenu provenant d’un REER) portant la somme de 4 871,00 $, établi par la Compagnie d’Assurance‑Vie Manufacturers pour l’année d’imposition 2006;
+l. un feuillet T4RIF (État du revenu provenant d’un fonds enregistré de revenu de retraite) portant la somme de 2 090,21 $, établi par la Compagnie d’Assurance‑Vie Manufacturers pour l’année d’imposition 2007;
+m. un feuillet T5 (État des revenus de placements) portant la somme de 11 014,63 $, établi par Rapid Concrete Ltd. pour l’année d’imposition 2007;
+n. un feuillet T4 (État de la rémunération payée) modifié portant la somme de 56 370,00 $, établi par la Canadian Coal Corporation pour l’année d’imposition 2007;
+o. un feuillet T4 (État de la rémunération payée) portant la somme de 30 000,00 $, établi par Rapid Concrete Ltd. pour l’année d’imposition 2007;
+p. un feuillet T4RIF (État du revenu provenant d’un fonds enregistré de revenu de retraite) portant la somme de 2 170,95 $, établi par la Compagnie d’Assurance‑Vie Manufacturers pour l’année d’imposition 2008;
+q. un feuillet T5 (État des revenus de placements) portant la somme de 3 407,91 $, établi par Rapid Concrete Ltd. pour l’année d’imposition 2008;
+r. un feuillet T4RIF (État du revenu provenant d’un fonds enregistré de revenu de retraite) portant la somme de 3 157,14 $, établi par la Compagnie d’Assurance‑Vie Manufacturers pour l’année d’imposition 2009;
+s. un feuillet T5 (État des revenus de placements) indiquant un montant imposable de dividendes de 132 161,34 $, établi par W.C. Holdings Ltd. pour l’année d’imposition 2009;
+t. un feuillet T4RIF (État du revenu provenant d’un fonds enregistré de revenu de retraite) portant la somme de 3 052,22 $, établi par la Compagnie d’Assurance‑Vie Manufacturers pour l’année d’imposition 2010;
+u. un feuillet T4RSP (État du revenu provenant d’un REER) portant la somme de 7 025,16 $, établi par la Compagnie d’Assurance‑Vie Transamerica du Canada pour l’année d’imposition 2010.
+Fait le 8 avril 2016 à Edmonton (Alberta).
+Fait le 8 avril 2016 à Edmonton (Alberta).
+William F. Pentney
+Sous-procureur général du Canada
+Avocat de l’intimée
+Me Douglas J. Forer
+Avocat de l’appelant
+Me Gregory Perlinski
+Avocat de l’intimée
+Tax Law LLP
+Bureau 208
+10301, 109e Rue
+Edmonton (Alberta)
+T5J 1N4
+Ministère de la Justice du Canada
+Région des Prairies
+Bureau 300
+Tour EPCOR
+10423, 101e Rue
+Edmonton (Alberta)
+T5H 0E7
+Téléphone : 780‑217‑3667
+Télécopieur : 780‑437‑1499
+Téléphone : 780‑495‑4207
+Télécopieur : 780‑495‑3319
+RÉFÉRENCE :
+2016 CCI 133
+NO DU DOSSIER DE LA COUR :
+2013‑2846(IT)G
+INTITULÉ :
+GEORGE WHISSELL c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 13 avril 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge John R. Owen
+DATE DU JUGEMENT :
+Le 30 mai 2016
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Douglas J. Forer
+Avocat de l’intimée :
+Me Gregory Perlinski
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Douglas J. Forer
+Cabinet :
+Tax Law LLP
+Edmonton (Alberta)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] J’ai aussi pris en considération le dépôt d’un projet de modification du paragraphe 163(1) dans le cadre du budget fédéral de 2015. Ce projet vise les années d’imposition commençant après 2014 et ne s’applique donc pas aux années d’imposition en cause dans la présente espèce.

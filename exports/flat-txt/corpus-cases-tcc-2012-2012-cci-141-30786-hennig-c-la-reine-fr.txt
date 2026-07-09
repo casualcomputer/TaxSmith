@@ -1,0 +1,122 @@
+Title: Hennig c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30786/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-141-30786-hennig-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-04-27
+
+# Hennig c. La Reine
+
+- Citation: 2012 CCI 141
+- Decision date: 2012-04-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7589, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hennig c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-04-27
+Référence neutre
+2012 CCI 141
+Numéro de dossier
+2011-1225(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-1225(IT)I
+ENTRE :
+SIGNA HENNIG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu à Edmonton (Alberta), le 12 décembre 2011.
+Devant : L'honorable juge J. M. Woods
+Comparutions :
+Représentant de l'appelante :
+M. Ronald J. Agar
+Avocat de l'intimée :
+Me Gregory Perlinski
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation établie en vertu de la Loi de l'impôt sur le revenu et dont l'avis porte le numéro 714144 est rejeté. Chaque partie assume ses propres dépens.
+Signé à Ottawa (Ontario), ce 27e jour d'avril 2012.
+« J. M. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 3e jour de juillet 2012.
+Yves Bellefeuille, réviseur
+Référence : 2012 CCI 141
+Date : 20120427
+Dossier : 2011-1225(IT)I
+ENTRE :
+SIGNA HENNIG,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Il s'agit de savoir en l'espèce si Signa Hennig a, à juste titre, fait l'objet d'une cotisation fondée sur l'article 160 de la Loi de l'impôt sur le revenu en ce qui concerne des dividendes qui lui ont été versés par une société qui avait une dette fiscale impayée.
+[2] La somme en litige, excluant l'intérêt, s'élève à 22 230,02 $.
+[3] À titre préliminaire, au début de l'audience, j'ai soulevé la question de savoir s'il n'y avait pas lieu d'entendre l'appel sous le régime de la procédure générale plutôt que de la procédure informelle, compte tenu du fait que la somme en litige est supérieure à 12 000 $. Avec le consentement des parties, j'ai ordonné que la procédure générale s'applique à l'appel.
+[4] Les hypothèses de fait formulées par le ministre du Revenu national lorsqu'il a établi la cotisation sont reproduites ci‑dessous. Ces faits ne sont pas contestés.
+[TRADUCTION]
+13. Pour établir le montant de la dette fiscale de l'appelante au titre de la dette fiscale de la société, le ministre s'est appuyé sur les hypothèses de fait suivantes :
+a) Hennig Trucking Ltd (la « société ») était une entreprise de camionnage;
+b) l'époux de l'appelante est décédé le 9 décembre 1992;
+c) l'appelante a continué d'exploiter la société pendant environ dix ans;
+d) l'appelante détenait l'ensemble des actions de la société au cours des exercices ayant pris fin le 31 mars 2001 et le 31 mars 2002;
+e) la société a mis fin à ses activités en 2002 et un dividende de 108 000 $ a été versé à l'appelante;
+f) au moment où elle a versé le dividende à l'appelante, la société était endettée envers le ministre au titre de l'impôt sur le revenu des sociétés, comme il est indiqué à l'annexe A ci‑jointe;
+g) aucune contrepartie n'a été donnée par l'appelante au titre du dividende de 108 000 $.
+Analyse
+[5] Les exigences techniques permettant de retenir la responsabilité d'une personne suivant l'article 160 sont remplies en l'espèce compte tenu des hypothèses formulées par le ministre, lesquelles n'ont pas été contestées par Mme Hennig.
+[6] Ronald Agar, l'expert‑comptable qui a représenté Mme Hennig à l'audience, soutient que la cotisation est prescrite parce qu'elle a été établie après l'expiration du délai de prescription de trois ans.
+[7] L'intimée fait valoir que le délai de prescription ne s'applique pas aux cotisations fondées sur l'article 160 : Canada c. Addison & Leyen Ltd., [2007] 2 R.C.S. 793, 2007 CSC 33.
+[8] Je suis d'accord avec l'intimée sur ce point et je renvoie au paragraphe 9 de l'arrêt Addison & Leyen :
+9 Toutefois, nous estimons qu'il n'était pas possible de recourir au contrôle judiciaire compte tenu des faits en cause. Comme l'a souligné le juge Rothstein, l'interprétation que la majorité de la Cour d'appel fédérale donne à l'art. 160 équivaut à ajouter dans cette disposition un délai de prescription qui n'y figure tout simplement pas. Le ministre peut en tout temps établir une cotisation à l'égard d'un contribuable. Selon le juge Rothstein :
+Même si dans le sens retenu par les juges majoritaires, le paragraphe 160(1) peut être considéré comme un moyen de recouvrement draconien, il vise aussi une cible précise. Il ne vise que les transferts de biens à des personnes se trouvant dans des relations ou des situations particulières, et seulement lorsque le transfert est en contrepartie d'une valeur inférieure à la juste valeur marchande des biens transférés. Comme le paragraphe 160(1) s'applique dans des circonstances précises et limitées, l'intention du législateur n'est pas obscure. Le législateur voulait que le ministre puisse recouvrer les montants transférés dans ces circonstances limitées afin de régler l'obligation fiscale du premier contribuable, auteur du transfert. Compte tenu des circonstances entourant de telles transactions, il est clair que le législateur souhaitait qu'il n'y ait pas de délai de prescription ni aucune autre condition applicable au moment de l'établissement de la cotisation par le ministre. [par. 92]
+[9] Monsieur Agar affirme en outre que la cotisation ne tient pas compte de certaines dépenses d'entreprise que Mme Hennig a réglées au moyen du dividende.
+[10] Cet argument doit aussi être rejeté. Pour justifier une réduction de la cotisation, il faut établir que le dividende était moindre que le montant visé par la cotisation. Cela n'a pas été fait. Il convient également de signaler que Mme Hennig n'a pas réussi à prouver que le montant visé par la cotisation excédait la partie du dividende ayant servi à des fins personnelles.
+[11] Selon M. Agar, la cotisation doit être annulée parce que les actes de l'Agence du revenu du Canada (l'« ARC ») étaient injustes.
+[12] Dans son témoignage, M. Agar a déclaré qu'il avait supposé que l'ARC avait accepté de régler le litige lorsqu'elle avait encaissé un chèque par suite d'une offre de règlement. Il semble qu'il ait commis une erreur en faisant cette supposition.
+[13] Monsieur Agar soutient en outre que la conduite de l'ARC était injuste parce qu'elle a refusé de remettre l'argent à Mme Hennig après la découverte de l'erreur. Par suite de ce refus, de l'intérêt a couru sur l'argent emprunté pour financer le paiement. L'ARC a également refusé de renoncer à l'intérêt malgré la demande qui lui a été faite en ce sens.
+[14] À la lumière de la preuve limitée dont je suis saisie, les circonstances en l'espèce paraissent dignes de compassion. Mme Hennig a dû exploiter l'entreprise de camionnage de son époux après le décès de celui‑ci. Elle n'était pas en mesure de le faire et l'entreprise en a subi les contrecoups. J'ajouterais qu'il ne s'agit pas d'une affaire où le revenu a été déclaré en partie seulement. La déclaration de revenus a été établie par un comptable agréé et le revenu a été déclaré.
+[15] Malheureusement pour Mme Hennig, la Cour n'a pas le pouvoir discrétionnaire d'annuler une cotisation pour des raisons liées à l'équité, peu importe à quel point la situation suscite de la compassion.
+[16] À l'audience, j'ai donné aux parties un certain temps pour tenter de régler l'appel. Comme aucun règlement n'a été conclu, l'appel doit être rejeté.
+Signé à Ottawa (Ontario), ce 27e jour d'avril 2012.
+« J. M. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 3e jour de juillet 2012.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2012 CCI 141
+NO DU DOSSIER DE LA COUR : 2011-1225(IT)I
+INTITULÉ : Signa Hennig c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Edmonton (Alberta)
+DATE DE L'AUDIENCE : Le 12 décembre 2011
+MOTIFS DU JUGEMENT : L'honorable juge J. M. Woods
+DATE DU JUGEMENT : Le 27 avril 2012
+COMPARUTIONS :
+Représentant de l'appelante :
+M. Ronald J. Agar
+Avocat de l'intimée :
+Me Gregory Perlinski
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)

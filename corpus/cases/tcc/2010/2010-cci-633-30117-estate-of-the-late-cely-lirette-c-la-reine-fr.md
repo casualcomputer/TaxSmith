@@ -1,0 +1,214 @@
+---
+title: "Estate of the Late Cely Lirette c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30117/index.do"
+last_modified: "2010-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 633"
+citation2: ""
+neutral_citation: "2010 CCI 633"
+decision_date: "2010-12-09"
+language: "fr"
+item_id: "30117"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7628
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:22:17.565000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "eb975ed30d8163d139cbc43efb492768a1bc18edab6bdb74640aecddccd60195"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Estate of the Late Cely Lirette c. La Reine
+
+- Citation: 2010 CCI 633
+- Decision date: 2010-12-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7628, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Estate of the Late Cely Lirette c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-12-09
+Référence neutre
+2010 CCI 633
+Numéro de dossier
+2008-522(IT)I, 2008-523(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-522(IT)I
+ENTRE :
+SUCCESSION DE FEU CELY LIRETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requêtes entendues en même temps sur preuve commune avec les requêtes de Lionel C. Lirette, 2008-523(IT)I, le 18 octobre 2010 à Edmonton (Alberta)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Représentant de l’appelante :
+Lionel C. Lirette
+Avocat de l’intimée :
+Me Robert Neilson
+____________________________________________________________________
+JUGEMENT
+Après examen d’une requête des appelants en vue d’obtenir une ordonnance dans laquelle :
+a) le ministre du Revenu national (le « ministre ») est déclaré coupable d’outrage à cette Cour;
+b) le ministre est tenu d’établir une évaluation du dossier de Lionel Lirette et de la succession de feu Cely Lirette conformément au jugement du juge Webb daté du 29 octobre 2008; et
+c) Lionel Lirette se voit adjuger 149 905 $ en espèces;
+Après avoir entendu les observations de l’avocat de l’intimée;
+Et après avoir entendu les observations de Lionel C. Lirette pour les appelants;
+Les requêtes sont rejetées.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2010.
+« V.A. Miller »
+La juge V. A. Miller
+Dossier : 2008-523(IT)I
+ENTRE :
+LIONEL C. LIRETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requêtes entendues en même temps sur preuve commune avec les requêtes de la Succession de feu Cely Lirette, 2008-522(IT)I, le 18 octobre 2010 à
+Edmonton (Alberta)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Robert Neilson
+____________________________________________________________________
+JUGEMENT
+Après examen de requêtes des appelants en vue d’obtenir une ordonnance dans laquelle :
+a) le ministre du Revenu national (le « ministre ») est déclaré coupable d’outrage à cette Cour;
+b) le ministre est tenu d’établir une évaluation du dossier de Lionel Lirette et de la succession de feu Cely Lirette conformément au jugement du juge Webb daté du 29 octobre 2008; et
+c) Lionel Lirette se voit adjuger 149 905 $ en espèces;
+Après avoir entendu les observations de l’avocat de l’intimée;
+Et après avoir entendu les observations de l’appelant;
+Les requêtes sont rejetées.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2010.
+______« V.A. Miller »_______
+La juge V. A. Miller
+Référence : 2010TCC633
+Date : 20101209
+Dossier : 2008-522(IT)I
+ENTRE :
+SUCCESSION DE FEU CELY LIRETTE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2008-523(IT)I
+ENTRE :
+LIONEL C. LIRETTE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge V. A. Miller
+[1] Les appelants ont présenté ces requêtes en vue d’obtenir une ordonnance dans laquelle :
+a) le ministre du Revenu national (le « ministre ») est déclaré coupable d’outrage à cette Cour;
+b) le ministre est tenu d’établir une évaluation du dossier de Lionel Lirette et de la succession de feu Cely Lirette conformément au jugement du juge Webb daté du 29 octobre 2008; et
+c) Lionel Lirette se voit adjuger 149 905 $ en espèces.
+[2] Les appelants se sont fondés sur les motifs suivants :
+a) Article 13 de la Loi sur la Cour canadienne de l’impôt, libellé comme suit :
+13. Outrage au tribunal – La Cour est compétente pour connaître de tout outrage commis au cours de ses audiences ou en dehors de celles-ci.
+b) Les alinéas 22(1)b) et c) des Règles de la Cour canadienne de l’impôt (procédure informelle), libellés comme suit :
+22. (1) Est coupable d’outrage au tribunal quiconque, selon le cas :
+b) désobéit volontairement à un moyen de contrainte ou à une ordonnance de la Cour;
+c) agit de façon à entraver la bonne administration de la justice ou à porter atteinte à l’autorité ou à la dignité de la Cour;
+c) Les articles 2 et 167 et les alinéas 172.4(1)b) et c) des Règles de la Cour canadienne de l’impôt (procédure générale), libellés comme suit :
+2. Définitions – Les définitions qui suivent s’appliquent aux présentes règles.
+« jugement » Est assimilée à un jugement l’ordonnance;
+167. Prononcé et dépôt des jugements – (1) Dans le cas d’un appel, d’une requête interlocutoire ou de toute autre demande ayant pour objet de statuer au fond, en tout ou en partie, sur un droit en litige entre les parties, la Cour rend un jugement et, dans le cas de toute autre demande ou requête interlocutoire, elle rend une ordonnance.
+172.4 (1) Est coupable d’outrage au tribunal quiconque, selon le cas :
+b) désobéit volontairement à un moyen de contrainte ou à une ordonnance de la Cour;
+c) agit de façon à entraver la bonne administration de la justice ou à porter atteinte à l’autorité ou à la dignité de la Cour;
+[3] En 2008, les appelants ont déposé auprès de la Cour des avis d’appel dans lesquels ils décident que la procédure informelle s’appliquera à leurs appels. Les appels ont été entendus et accueillis en partie par le juge Webb sous le régime de la procédure informelle.
+[4] Les questions en litige dont a été saisi le juge Webb dans l’appel de la succession de feu Cely Lirette (la « succession ») étaient le montant de perte déductible au titre d’un placement d’entreprise (PDTPE) que la succession pouvait réclamer en 1998 et le montant de la perte en capital qu’elle pouvait réclamer en 2005 en ce qui concerne les actions de Taylor Venture Ltd. (les « actions »). Le ministre a accordé une PDTPE de 117 878 $ pour 1998, et aucune perte en capital pour 2005. Le jugement, daté du 29 octobre 2008 (le « jugement »), obligeait le ministre à établir une évaluation révisée de la succession en tenant compte du fait que le montant de perte déductible au titre d’un placement d’entreprise (PDTPE) en 1998 était de 231 874 $ et que sa PDTPE relativement aux actions était de 173 905 $. L’appel portant sur l’année d’imposition 2005 a été rejeté.
+[5] En ce qui concerne l’appel de Lionel Lirette, la question que devait trancher le juge Webb était le montant de la PTPE relativement aux actions en 1998. L’appel a été admis en partie, sans frais, et la question a été renvoyée au ministre pour l’établissement d’une évaluation révisée, au motif que la PTPE de Monsieur Lirette en 1998 était de 29 619 $. Le ministre a précédemment accordé une PTPE de 17 120 $.
+[6] Le ministre a établi une évaluation révisée à la suite du jugement pour augmenter la PDTPE de la succession de 24 000 $ pour l’année d’imposition 1998 et la PDTPE de Lionel Lirette de 5 190 $ pour l’année d’imposition 1998. Par conséquent, la succession s’est vue accorder une PDTPE de 141 878 $ et Lionel Lirette, une PDTPE de 22 310 $.
+[7] Les appelants ont indiqué que, malgré leur décision d’utiliser la procédure informelle, ils n’ont jamais eu l’intention de limiter leur appel à une perte de 24 000 $ et n’ont ainsi pas pris une décision éclairée. Pour le compte des appelants, M. Lirette a affirmé que puisque le jugement ne mentionnait aucunement le plafond de 24 000 $, les appelants ont droit à l’intégralité de la PDTPE accordée par le juge Webb. Il a ajouté que le ministre devrait être déclaré coupable d’outrage au tribunal étant donné qu’il n’a pas établi d’évaluation révisée de la succession conformément au jugement de cette Cour. En conclusion, M. Lirette déclare que puisque le juge Webb connaissait le paragraphe 18.13 de la Loi sur la Cour canadienne de l’impôt et les montants en cause dans les appels, il n’avait pas à déclarer officiellement que la procédure générale s’applique. Selon M. Lirette, l’article 9 des Règles de la Cour canadienne de l’impôt (procédure générale) a conféré au juge Webb le pouvoir illimité de dispenser de l’observation de la règle selon laquelle il devait ordonner officiellement l’application de la procédure générale.
+[8] Le motif des appelants selon lequel le ministre a commis un outrage à cette Cour est entièrement sans fondement. Comme l’a déclaré le juge Bowie au paragraphe 5 de l’arrêt Kumar c. Sa Majesté la Reine [1] :
+Je dois préciser d’emblée que la requête ne peut pas être accueillie à l’égard du « ministre du Revenu national ». Il est bien établi qu’un ministre de la Couronne ne peut pas être condamné pour outrage en raison d’actes ou d’omissions d’un fonctionnaire de son ministère (voir Bhatnager c. Canada, [1990] 2 R.C.S. 217.
+[9] Par ailleurs, les fonctionnaires du ministre n’ont pas commis d’outrage à cette Cour. Ils ont établi une évaluation révisée de la requête des appelants conformément au jugement et à la Loi sur la Cour canadienne de l’impôt (la « loi »).
+[10] Bien que le jugement ne mentionne pas le plafond de 24 000 $, l’article 18 et le paragraphe 18.1 de la loi limitent le montant accordé dans le jugement d’un appel soumis à la procédure informelle. Le jugement est réputé contenir la déclaration « le montant de la perte en litige n’est pas augmenté de plus de 24 000 $ ». Ces passages sont libellés ainsi :
+18. (1) Les articles 18.1 à 18.28 s’appliquent, si le contribuable l’a demandé dans son avis d’appel ou à toute date ultérieure prévue dans les règles de la Cour, aux appels interjetés en vertu de la Loi de l’impôt sur le revenu dans les cas suivants :
+a) le total de tous les montants en cause est égal ou inférieur à 12 000 $; ou
+b) le montant de la perte en cause déterminé aux termes du paragraphe 152(1.1) de cette loi est égal ou inférieur à 24 000 $.
+Autres appels — Loi de l’impôt sur le revenu
+(2) Les articles 18.1 à 18.28 s’appliquent, si le contribuable l’a demandé dans son avis d’appel ou à toute date ultérieure prévue dans les règles de la Cour, relativement à tout appel qui ne porte que sur l’une des questions suivantes :
+a) le montant des intérêts déterminés en vertu de la Loi de l’impôt sur le revenu; ou
+b) la validité d’une suspension prévue au paragraphe 188.2(2) de cette loi.
+Limite
+18.1 Le jugement qui fait droit à un appel visé au paragraphe 18(1) est réputé comporter une disposition ordonnant que le total de tous les montants en cause ne soit pas réduit de plus de 12 000 $ ou, selon le cas, que le montant de la perte en cause ne soit pas augmenté de plus de 24 000 $. [Non en gras dans l’original.]
+[11] La procédure générale ne peut s’appliquer automatiquement quand il est déterminé en appel que le montant d’une perte dépasse 24 000 $. Il existe une différence importante entre la procédure informelle et la procédure générale. La différence concerne notamment les frais pour déposer une demande d’appel, la capacité de procéder à un interrogatoire préalable dans le cadre de la procédure générale, les règles qui encadrent la preuve à l’audience et les frais qui peuvent être accordés [2] . En outre, l’article 9 des Règles de la Cour canadienne de l’impôt (procédure générale) ne peut l’emporter sur le paragraphe 18.1 de la loi. Pour que la procédure générale s’applique au jugement émis par le juge Webb, il aurait été nécessaire qu’une ordonnance soit émise expressément en ce sens.
+[12] M. Lirette a invoqué que la succession n’avait pas l’intention de limiter le montant de la perte à 24 000 $. Toutefois, il savait que la perte était limitée à 24 000 $ au moment d’opter pour la procédure informelle. Je suis parvenu à une telle déduction à partir de l’avis de requête dans lequel M. Lirette affirme qu’il s’attendait à ce que le juge apporte un changement et passe à la procédure générale en constatant que la PDTPE dépassait 24 000 $ [3] .
+[13] Il a été également invoqué que le paragraphe 18.13 de la loi obligeait le juge Webb à ordonner l’application de la procédure générale. Le paragraphe 18.13 est libellé comme suit :
+18.13 Ordonnance d’application pendant l’audition – La Cour doit, à la demande d’une partie, ou peut de sa propre initiative, ordonner que l’appel visé au paragraphe 18(1) soit régi par les articles 17.1 à 17.8 si, en cours d’audition, mais avant que le jugement ne soit rendu sur l’appel, elle est d’avis, selon le cas :
+a) que le total de tous les montants en cause est supérieur à 12 000 $;
+b) que le montant de la perte en cause est supérieur à 24 000 $
+Selon le cas, la Cour doit, à la demande d’une partie, ou peut de sa propre initiative, ordonner l’application des paragraphes 17.1 à 17.8 relativement à l’appel, à moins que les appelants ne choisissent de limiter l’appel à 12 000 $ ou à 24 000 $, selon le cas, ou à moins que le montant excédentaire soit trop petit pour justifier une nouvelle audience conformément à la procédure générale compte tenu des inconvénients et des frais qui en résulteraient pour les parties et de l’intérêt de la justice et de l’équité.
+[14] Les motifs du jugement ne comportent aucune indication à savoir si la procédure générale a été envisagée par les parties ou par le juge Webb. Toutefois, cette Cour n’a pas compétence pour accorder un redressement aux appelants en s’appuyant sur cet argument, car il en résulterait une modification du jugement émis par le juge Webb. Conformément au paragraphe 18,24 de la loi, toute instance pour modifier une ordonnance de cette Cour doit être entendue par la cour d’appel fédérale. Le paragraphe 18.24 de la loi est libellé comme suit :
+18.24 Appels à la Cour d’appel fédérale – Appel d’un jugement de la Cour peut être interjeté auprès de la Cour d’appel fédérale en conformité avec l’article 27 de la Loi sur les cours fédérales.
+Cette disposition a été confirmée par la Cour d’appel fédérale dans l’arrêt Breslaw c. Canada (CAF), [4] dans lequel il est déclaré :
+30 En règle générale, un juge ne doit pas réviser le bien-fondé de la décision d’un juge d’une juridiction coordonnée. Voir Bubla c. Canada (Solliciteur Général), [1995] 2 C.F. 680 (CAF), au paragraphe 18. Par conséquent, toute procédure pour mettre en doute ou annuler une ordonnance de la cour canadienne de l’impôt doit être prise en charge par la cour d’appel fédérale.
+[15] Les requêtes sont rejetées.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2010.
+« V.A. Miller »
+La juge V. A. Miller
+RÉFÉRENCE : 2010TCC633
+NO DU DOSSIER DE LA COUR : 2008-522(IT)I
+INTITULÉ : SUCCESSION DE FEU CELY LIRETTE c. SA MAJESTÉ LA REINE
+NO DU DOSSIER DE LA COUR : 2008-523(IT)I
+INTITULÉ : LIONEL C. LIRETTE
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 18 octobre 2010
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 9 décembre 2010
+COMPARUTIONS :
+Pour les appelants :
+Lionel C. Lirette
+Avocat de l’intimée :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2004 CCI 521
+[2] Innovations & Integrations Brassicoles Inc. c. Sa Majesté la Reine, 2008 CCI 339, au paragraphe 7; confirmé dans 2009 CAF 302
+[3] Voir le dernier paragraphe à la page 3 de l’avis de requête
+[4] 2005 CAF 355, au paragraphe 30

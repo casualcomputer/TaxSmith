@@ -1,0 +1,160 @@
+---
+title: "Okoroze v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30991/index.do"
+last_modified: "2012-10-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 360"
+citation2: ""
+neutral_citation: "2012 TCC 360"
+decision_date: "2012-10-16"
+language: "en"
+item_id: "30991"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4810
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:06:39.357000+00:00"
+cases_cited_count: 7
+cases_citing_count: 9
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "02c70f9b13a9f38b1f431eb3eb90d2fb68d7b8b84f3baab399d50b45f3021e71"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Okoroze v. The Queen
+
+- Citation: 2012 TCC 360
+- Decision date: 2012-10-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4810, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Okoroze v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-10-16
+Neutral citation
+2012 TCC 360
+File numbers
+2012-2889(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-2889(IT)G
+BETWEEN:
+OBARO OKOROZE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion in writing
+The Honourable Justice B. Paris
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alain Gareau
+____________________________________________________________________
+ORDER
+Upon motion in writing made by the respondent for an order to set aside the appellant’s notice of appeal and to allow the appellant 60 days from the motion to file and serve a notice of appeal in the proper form;
+Upon reading the written submissions made by the parties;
+It is ordered that the motion is granted and the appellant shall have 60 days from the date of this order to file a fresh notice of appeal that complies with paragraph 21(1)(a) of the Tax Court of Canada Rules (General Procedure).
+Signed at Ottawa, Canada this 16th day of October 2012.
+“B.Paris”
+Paris J.
+Citation: 2012 TCC 360
+Date: 20121016
+Docket: 2012-2889(IT)G
+BETWEEN:
+OBARO OKOROZE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Paris J.
+[1] The respondent is seeking an order pursuant to sections 7 and 8 of the Tax Court of Canada Rules (General Procedure) (“Rules”)[1] setting aside the notice of appeal herein and granting the appellant 60 days to file a new notice of appeal. The motion is being decided on the basis of written submissions filed by the parties.
+[2] Sections 7 and 8 of the Rules read:
+NON-COMPLIANCE WITH THE RULES
+Effect of Non-compliance
+7. A failure to comply with these rules is an irregularity and does not render a proceeding or a step, document or direction in a proceeding a nullity, and the Court,
+(a) may grant all necessary amendments or other relief, on such terms as are just, to secure the just determination of the real matters in dispute, or
+(b) only where and as necessary in the interests of justice, may set aside the proceeding or a step, document or direction in the proceeding in whole or part.
+Attacking Irregularity
+8. A motion to attack a proceeding or a step, document or direction in a proceeding for irregularity shall not be made,
+(a) after the expiry of a reasonable time after the moving party knows or ought reasonably to have known of the irregularity, or
+(b) if the moving party has taken any further step in the proceeding after obtaining knowledge of the irregularity,
+except with leave of the Court.
+[3] The respondent asserts that the notice of appeal fails to comply with paragraph 21(1)(a) of the Rules because it does not set out the material facts upon which the appellant intends to rely to the issues to be decided or the reasons upon which the appellant intends to rely.
+[4] Paragraph 21(1)(a) of the Rules requires the originating document in an appeal from an assessment under the Income Tax Act (“ITA”)[2] to be filed in Form 21(1)(a). That form, which the appellant attached to his notice of appeal, lists the information that a notice of appeal must contain, including the material facts, statutory provisions and reasons to be relied on, the issues to be decided, and the relief sought.
+[5] In response to the respondent’s application, the appellant says that he has provided all the necessary facts in his notice of appeal.
+[6] In his notice of appeal, the appellant indicates that he is appealing from reassessments of his 2004 to 2009 taxation years. I find, though, that he has included a great deal of material in his notice of appeal that is not properly part of a notice of appeal. Some of that material concerns matters not within the jurisdiction of this Court to decide.
+[7] For instance, the appellant challenges certain collection procedures undertaken by the Canada Revenue Agency (“CRA”) to collect on the reassessments. In Moss v. the Queen, [3] the Federal Court of Appeal stated:
+If unlawful or improper tax collection actions occur, and are proved, it may be possible to obtain a remedy by commencing appropriate proceedings in the Federal Court, but as a matter of law, the Tax Court of Canada has no jurisdiction to set aside or vacate a reassessment because of such actions.
+[8] The appellant also alleges improper conduct by the CRA officers handling his file. However, the conduct of officials of the CRA are not grounds for challenging an assessment: see Main Rehabilitation Co. v. Canada:
+. . . it is also plain and obvious that the Tax Court does not have the jurisdiction to set aside an assessment on the basis of an abuse of process at common law… and to the “taxpayer relief” provisions of the ITA. [4]
+[9] As well, the appellant refers to the “taxpayer relief provisions” of the ITA in his notice of appeal. I understand this to be a reference to the fairness provisions in subsection 220(3.1) of the ITA. However, this Court decided in Palin v. The Queen that decisions of the Minister under those provisions must be made “by way of judicial review to the Federal Court of Canada.” [5]
+[10] The appellant also puts in issue the reassessment of his spouse whereby she was disallowed Child Tax Benefits. If the appellant’s spouse disagrees with that reassessment she must take the steps set out in the ITA to object to and appeal it herself.
+[11] These matters are not within the Court’s jurisdiction and are improperly pleaded.
+[12] The appellant’s notice of appeal also refers to a number of documents that he says support his case. The documents to be relied on are evidence, because the appellant will be using them to prove the facts he is relying on to show that the reassessments are incorrect. If the appellant wishes to rely on them, he should list them in the list of documents that he is required to file once the pleadings are closed. It is not proper to refer in a pleading to evidence upon which a party intends to rely[6].
+[13] If the portions of the notice of appeal to which I refer above are disregarded, what remains does not meet the requirements of paragraph 21(1)(a) of the Rules. The remainder of the notice of appeal does not set out clearly in what respect(s) the appellant believes the reassessments to be incorrect nor does it provide a concise statement of the material facts and reasons that he intends to rely on to support his position that the reassessments are incorrect.
+[14] In Zelinski v. The Queen,[7] Bowie J. of this Court stated:
+The purpose of pleadings is to define the issues in dispute between the parties for the purposes of production, discovery and trial. What is required of a party pleading is to set forth a concise statement of the material facts upon which she relies. Material facts are those facts which, if established at the trial, will tend to show that the party pleading is entitled to the relief sought. . . .
+[15] This Court has held that improper pleadings are an irregularity within the meaning of section 7 of the Rules (see Kossow v. The Queen) [8] The Rules also specifically provide at section 53 for striking out pleadings. Section 53 reads:
+Striking out a Pleading or other Document
+53. The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+[16] I agree with the respondent that the deficiencies in the notice of appeal are so extensive that the proper remedy is to set it aside and to allow the appellant 60 days from the date of my order to file and serve a new notice of appeal that meets the requirements of paragraph 21(1)(a) of the Rules, and that does not include material related to those issues noted above which are not within this Court’s jurisdiction to decide. This was the approach endorsed by the Ontario Court of Appeal in Lysko v. Braley. [9] At paragraph 11 of that decision, the Court wrote:
+I agree with the motions judge’s statement at para. 63 that the statement of claim “includes a plethora both of evidence and of irrelevant material and fails to be concise to the point that the defendants are hindered in developing a responsive pleading.” Thus, I agree with the motions judge that although certain of the causes of action are to go forward, the appropriate remedy is to strike the pleading in its entirety and grant the appellant leave to deliver a fresh statement of claim.
+[17] Likewise, in this case, the respondent is hindered in preparing a responsive pleading by the inclusion by the appellant of large amounts of facts, information and evidence related to matters outside of the Court’s jurisdiction, and by the lack of precision regarding his objections to the reassessments he wishes to appeal and the facts he intends to rely on. Self‑represented taxpayers who bring appeals under the General Procedure must be held to a reasonable standard of compliance with the Rules in order to ensure that the litigation proceeds in an orderly, efficient and fair manner. It is a basic requirement of pleading in the General Procedure that an appellant set out clearly what issues he or she is putting in dispute and the material facts that will be relied upon.
+[18] I will allow the respondent’s motion, and the notice of appeal is struck and the appellant shall have 60 days from the date of my order to file a fresh notice of appeal that complies with paragraph 21(1)(a) of the Rules.
+Signed at Ottawa, Canada, this 16th day of October 2012.
+“B.Paris”
+Paris J.
+CITATION NO: 2012 TCC 360
+COURT FILE NO.: 2012-2889(IT)G
+STYLE OF CAUSE: OBARO OKOROZE AND THE QUEEN
+REASONS FOR ORDER BY: The Honourable Justice B. Paris
+DATE OF ORDER: October 16, 2012
+PARTIES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] SOR/2008-303.
+[2] R.S.C., 1985, c.1 (5th Supp.)
+[3] [2006] F.C.J. No 665 (QL) at paragraph 5, 2006 FCA 150.
+[4] 2004 FCA 403 at paragraph 6.
+[5] 2007 TCC 255 at paragraph 9.
+[6] Globtek Inc. v. The Queen, 2005 TCC 727.
+[7] 2002 DTC 1204.
+[8] 2008 TCC 422, confirmed by the Federal Court of Appeal, 2009 FCA 83.
+[9] (2006) 79 O.R. 3d 721.

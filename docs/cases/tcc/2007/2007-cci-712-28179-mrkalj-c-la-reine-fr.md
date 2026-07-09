@@ -1,0 +1,250 @@
+---
+title: "Mrkalj c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28179/index.do"
+last_modified: "2007-07-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 712"
+citation2: ""
+neutral_citation: "2007 CCI 712"
+decision_date: "2007-07-11"
+language: "fr"
+item_id: "28179"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1960
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:30:14.777000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6c7c0914df94853455f3cb7acec5323d2f82d9fc73bd9505307d66d34645bd89"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mrkalj c. La Reine
+
+- Citation: 2007 CCI 712
+- Decision date: 2007-07-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1960, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mrkalj c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-07-11
+Référence neutre
+2007 CCI 712
+Numéro de dossier
+2003-4555(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-4555(IT)G
+ENTRE :
+JOVO MRKALJ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Milik Mrkalj, 2003‑4557(IT)G, les 26 et 27 mars 2007,
+à St. Catharines (Ontario),
+ainsi que le 12 avril 2007 et le 11 juillet 2007, à Toronto (Ontario)
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Avocat de l’appelant :
+Me Guy Ungaro
+Avocat de l’intimée :
+Me Ronald MacPhee
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard de l’année d’imposition 1995 est accueilli sans dépens, et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en partant du principe que l’appelant n’avait pas de revenus non déclarés en ce qui a trait à son entreprise, The Daily Planet Tap and Eatery, pour l’année 1995, et les pénalités sont donc annulées.
+Les appels interjetés à l’encontre des nouvelles cotisations établies en application de la Loi à l’égard des années d’imposition 1996, 1997 et 1998 sont rejetés avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 23e jour de novembre 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 7e jour de janvier 2008.
+Hélène Tremblay, traductrice
+Dossier : 2003-4557(IT)G
+ENTRE :
+MILIK MRKALJ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec les appels de
+Jovo Mrkalj, 2003-4555(IT)G, les 26 et 27 mars 2007,
+à St. Catharines (Ontario),
+ainsi que le 12 avril 2007 et le 11 juillet 2007, à Toronto (Ontario)
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Avocat de l’appelant :
+Me Guy Ungaro
+Avocat de l’intimée :
+Me Ronald MacPhee
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard de l’année d’imposition 1995 est accueilli sans dépens, et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en partant du principe que l’appelant n’avait pas de revenus non déclarés en ce qui a trait à son entreprise, The Daily Planet Tap and Eatery, pour l’année 1995, et les pénalités sont donc annulées.
+Les appels interjetés à l’encontre des nouvelles cotisations établies en application de la Loi à l’égard des années d’imposition 1996, 1997 et 1998 sont rejetés avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 23e jour de novembre 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 7e jour de janvier 2008.
+Hélène Tremblay, traductrice
+Référence : 2007CCI712
+Date : 20071123
+Dossiers : 2003-4555(IT)G
+et 2003-4557(IT)G
+ENTRE :
+JOVO MRKALJ et MILIK MRKALJ,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Les présents appels sont interjetés à l’encontre des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») à l’égard des années d’imposition 1995, 1996, 1997 et 1998 des appelants. Les avis d’appel et les réponses aux avis d’appel sont identiques dans les cas des deux appelants, et Jovo Mrkalj (ci‑après « Joe ») a été le principal témoin à comparaître à l’audience au nom des deux appelants.
+[2] Le ministre a établi de nouvelles cotisations à l’égard des appelants afin d’inclure des revenus non déclarés s’élevant à 8 062 $ en 1995, à 44 484 $ en 1996, à 46 695 $ en 1997 et à 16 110 $ en 1998 suivant le paragraphe 5(1) de la Loi de l’impôt sur le revenu (la « Loi »), et afin d’appliquer des pénalités, suivant le paragraphe 163(2) de la Loi, s’élevant à 726 $, à 5 070 $, à 6 194 $ et à 2 147 $, respectivement, pour chacune des quatre années en cause.
+[3] Les appelants étaient des employés de la société 1083290 Ontario Limited (la « société ») qui était propriétaire du resto-bar connu sous le nom « The Daily Planet Tap & Eatery » (le resto‑bar « Planet Tap »), et ils l’exploitaient. Les appelants sont les fils de Simo Mrkalj (ci‑après « Sam »), anciennement unique actionnaire de la société, qui est décédé en 2006. La société a plaidé coupable à des accusations au criminel concernant des ventes non déclarées et a payé des arriérés d’impôts, des intérêts et une amende. Les accusations au criminel qui avaient été portées contre les appelants ont été retirées, et ces derniers ont fait l’objet de nouvelles cotisations, comme cela a été expliqué ci‑dessus.
+[4] Avant de fonder Planet Tap, les appelants avaient déclaré faillite à la suite de l’échec d’une entreprise précédente. Pendant les années en cause, Planet Tap était pratiquement leur seule source de revenu.
+[5] Planet Tap a ouvert ses portes en février 1995. Au départ, c’était Sam, un restaurateur expérimenté, qui s’occupait en grande partie des travaux d’écriture et de la gestion. Au fil du temps, c’est Joe qui s’est mis à s’occuper davantage d’une grande partie des travaux d’écritures, alors que Milik (ci‑après « Mike ») se chargeait principalement du service au bar. Les deux fils travaillaient de longues heures, soit souvent plus de 10 heures par jour. En peu de temps, ils ont pris la charge des activités quotidiennes et l’entreprise a remporté un vif succès. La citation ci‑dessous est tirée d’une ordonnance rendue par la Commission des permis d’alcool de l’Ontario (la « CPAO ») le 9 mai 1997 comprise dans la pièce A et fournissant un certain contexte.
+[traduction]
+Témoignage de Joe Mrkalj
+M. Mrkalj a affirmé qu’il était âgé de 31 ans, qu’il était diplômé de l’Université de Toronto et qu’il était gérant dans un établissement pourvu de permis au nom de son père, le propriétaire. Il a affirmé que son père était titulaire de permis depuis 1974, qu’il détenait actuellement deux permis d’alcool, et qu’il n’avait jamais eu de dossier défavorable auprès de la CPAO.
+Il a affirmé que son père et lui font les commandes relatives à l’alcool et à la nourriture pour l’établissement et qu’ils suivent de près les activités quotidiennes. En tant que gérant de l’endroit, il est effectivement présent sur les lieux environ 75 à 80 heures par semaine.
+L’établissement a ouvert ses portes en février 1995 après avoir fait l’objet d’importants travaux de rénovation ayant duré plus de six mois et coûté plus de 150 000 $. L’établissement est ouvert sept jours sur sept et vise une clientèle universitaire provenant tant des États‑Unis que du Canada. M. Mrkalj a affirmé qu’il se chargeait de voir à l’observation des règles de la CPAO. Il tenait des réunions mensuelles avec tous les employés et des réunions hebdomadaires avec des groupes d’employés, et il rencontrait lui‑même les employés de chaque quart de travail à mesure qu’ils arrivaient. Il a indiqué que tous les employés ont reçu la consigne selon laquelle les personnes âgées de moins de 19 ans ne peuvent pas entrer dans l’établissement et toutes les personnes qui semblent être âgées de moins de 30 ans doivent présenter une pièce d’identité. L’établissement compte 24 employés à temps plein et à temps partiel. Chacun d’entre eux a suivi la formation Smart Serve, y compris les cuisiniers.
+[6] Les appelants ont négligé la comptabilité et la tenue d’inventaire. Ils n’ont pas tenu de registre adéquat de leurs ventes et n’ont pas noté les rabais, les promotions et les cadeaux publicitaires accordés. Planet Tap comptait deux caisses enregistreuses. Toutefois, pendant les années en cause, des bandes sommaires n’étaient conservées que pour la caisse principale. Les bandes détaillées sur lesquelles chaque vente était indiquée individuellement étaient jetées aux poubelles et aucune bande sommaire ou détaillée n’a été conservée pour la deuxième caisse enregistreuse. Selon les appelants, la somme des ventes enregistrées dans la deuxième caisse était entrée dans la caisse principale.
+[7] En 1997, on a agrandi Planet Tap en l’annexant à un édifice adjacent, ce qui a fait doubler sa capacité. Malgré cet agrandissement et le succès apparent de l’établissement, surtout auprès des étudiants de la région de Niagara Falls et des États‑Unis, les appelants ont déclaré des revenus assez modestes pour les années en cause[1].
+[8] M. Doug Bronson de la Division des enquêtes de l’Agence du revenu du Canada (l’« ARC ») a affirmé dans son témoignage qu’au départ, la personne visée par les cotisations était Sam Mrkalj. À la suite de l’enquête, on a établi des cotisations à l’égard des appelants leur attribuant les revenus non déclarés à titre d’employés de la société et non à titre d’actionnaires ou de dirigeants de fait de Planet Tap, même s’ils avaient le contrôle total de tous les aspects de l’entreprise pendant les années en cause.
+[9] Je traiterai maintenant de la première question soulevée par les appelants. Je crois que leur argument était que c’était leur père, maintenant décédé, qui aurait dû être visé par la cotisation, pas eux. Je conclus que les appelants étaient bel et bien les personnes qui devaient être visées par les cotisations, mais seulement pour celles établies à l’égard des années d’imposition 1996, 1997 et 1998. C’était Mike, et surtout Joe, qui étaient en contrôle pendant ces années‑là. Pendant la première année d’exploitation de l’entreprise, soit en 1995, Sam partageait une partie du contrôle des activités avec ses fils.
+[10] Personne ne conteste le fait que le père, Sam, était le propriétaire en droit du bar en sa qualité d’unique actionnaire de la société. Le ministre soutient que Joe et Mike, agissant à titre d’employés, ont pris de l’argent non déclaré de la société Planet Tap et lui en ont ensuite prêté une partie, libre d’impôt. De plus, ils entreposaient de l’argent dans les deux coffres-forts situés à l’étage.
+[11] Comme il a déjà été mentionné, les appelants ont commencé à s’occuper davantage des activités quotidiennes de Planet Tap après 1995. Ceci a été confirmé par plusieurs témoins. À titre d’exemple, après avoir examiné les registres de Planet Tap, M. Bronson a conclu que Sam n’était qu’actionnaire et que c’était en fait les appelants qui s’occupaient des finances et des activités quotidiennes. Je suis du même avis que M. Bronson sur cette question, surtout en ce qui concerne les années après 1995. Le témoignage de Sherry Ann Shortland, commis comptable auprès de Padgett Business Services, vient également confirmer le fait que les fils étaient les personnes responsables. Ses instructions lui venaient d’eux, et surtout de Joe. De plus, c’est Joe, et non Sam, qui a signé les déclarations de revenus des sociétés T2 pour les années en cause. Aussi, la principale chose qui est ressortie des témoignages des serveuses du Planet Tap est qu’elles prenaient leurs instructions des appelants, et non de Sam. Enfin, lorsqu’ils ont mené leur vérification de la société, les vérificateurs de l’ARC ont traité exclusivement avec les appelants, et non avec Sam, parce que ces derniers avaient affirmé détenir le contrôle total, sinon être les propriétaires de fait.
+[12] Le ministre a avancé une hypothèse selon laquelle Sam avait consenti à être l’unique actionnaire parce que les appelants n’étaient pas en mesure d’obtenir un permis d’alcool en raison d’une faillite antérieure et d’accusations au criminel pesant contre eux[2]. Que ce soit le cas ou non, ceci n’a aucune incidence sur la conclusion que je tire. Les appelants étaient chargés d’ouvrir le bar et de faire la caisse à la fin de chaque journée. Ils s’occupaient aussi de faire toutes les transactions bancaires. Au départ, des accusations au criminel avaient été portées contre eux, mais elles ont été retirées après que la société ait plaidé coupable. Ils ont ensuite fait l’objet de nouvelles cotisations à titre de particuliers pour des revenus non déclarés. Ils n’ont pas contesté l’assertion selon laquelle ils auraient réparti le produit des revenus non déclarés de façon égale entre eux.
+[13] M. Bronson a calculé les ventes prévues de Planet Tap, ce qui représente l’estimation faite par le ministre des ventes effectuées pendant les années en cause. Le témoignage de M. Bronson était impressionnant et est cité en partie ci‑dessous :
+[traduction]
+Rapprochement avec les revenus déclarés
+Les vérificateurs ont constaté qu’il y avait deux caisses enregistreuses sur les lieux et ont été informés qu’aucune bande n’était conservée pour la deuxième caisse. La somme des ventes effectuées dans cette caisse était plutôt entrée dans la caisse principale. Nous n’avons cependant trouvé aucun élément de preuve appuyant cette suite. En ce qui concerne la caisse principale, on ne conservait que les bandes sommaires quotidiennes et mensuelles. Les bandes détaillées de cette caisse étaient jetées à la poubelle.
+Le revenu déclaré par le contribuable est fondé sur le montant total des bandes sommaires mensuelles que les deux frères fournissaient à la commis comptable de Padgett Business Services. Cette dernière prenait le total brut et en soustrayait toutes les taxes (TVP et TPS). Le montant restant était imputé aux ventes d’alcool et de nourriture pour chaque mois. La commis comptable faisait alors la somme des montants mensuels afin d’obtenir le total des ventes pour l’année. La commission de la taxe de vente et le revenu de location constituaient les revenus variés. Tous ces montants combinés correspondent aux montants indiqués dans les états financiers.
+Les prix de vente moyens utilisés dans les prévisions étaient déterminés à partir de la moyenne du total des bandes sommaires mensuelles. La valeur totale des ventes était divisée par la quantité de spiritueux et de bières en bouteille vendus. Pour ce qui est de la bière pression, ce sont les pichets qui étaient considérés comme les articles vendus et non les verres, étant donné que les pichets donnent un montant de prévision plus bas, ce qui correspond à la méthode prudente que nous avons adoptée pour faire les prévisions. Les gérants ont fourni les prix de vente ordinaires pour la bière pression et ces prix ont été confirmés par l’examen des bandes sommaires. C’était le gérant qui fournissait au comptable les chiffres pour le stock de clôture et les articles de promotion (consommations gratuites). Les taxes étaient soustraites des prix de vente. Nous avons comparé les prix coûtants auxquels nous sommes arrivés aux prix indiqués dans les états financiers afin de voir s’ils avaient été sous‑estimés, c’est‑à‑dire, si les fonds supplémentaires avaient été utilisés pour acheter du stock qui n’aurait pas été déclaré dans les états financiers.
+Prévisions
+Bière
+Par souci d’exactitude, les chiffres ont été recueillis de diverses sources. Les véritables factures d’achat que possèdent les contribuables ont été obtenues au moyen d’un mandat de perquisition, et nous en avons fait la somme. Ceci couvrait la période de février 1995 au 31 janvier 1998. Ensuite, une liste du total des achats pour chaque mois a été obtenue directement du siège social de Brewer’s Retail. Elle indiquait les achats faits depuis janvier 1995. Nous avons alors fait une comparaison et un rapprochement des résultats.
+Achats faits à la LCBO
+Les calculs sont fondés sur des dossiers saisis. La LCBO ne conserve pas les dossiers des clients et aucun dossier n’est informatisé pour en faire une impression. Il est difficile de calculer les achats en raison de leur caractère varié, p. ex. les panachés et autres boissons spéciales. De plus, les diverses quantités et les emballages variés viennent mêler les calculs. Par conséquent, seules les bouteilles de 26, 40 et 60 onces ont été comprises dans le calcul. C’est‑à‑dire que les ventes de vin, de panachés et d’autres boissons spéciales (p. ex., Mike’s Hard Lemonade) ne sont pas comprises dans nos prévisions en raison des fluctuations des prix de vente. Nous avons délibérément sous‑estimé nos prévisions en excluant le vin et les spiritueux.
+Dans le cas de la bière et des spiritueux, nous avons délibérément surestimé les pertes. Les fûts de la bière pression faisaient l’objet d’un entretien régulier et, après la première année, n’ont pas causé de problème (blocage, surplus d’écume).
+[14] M. Bronson a affirmé que c’est principalement grâce aux factures saisies sur les lieux qu’il a pu déterminer les achats de bière et d’alcool de Planet Tap. En plus des factures saisies, il a utilisé les dossiers de la LCBO et de Brewer’s Warehouse pour déterminer les quantités de bière et de spiritueux achetés. Afin d’obtenir le montant des ventes prévues, ces achats ont été multipliés par le prix de vente moyen. Les ventes prévues ont ensuite été comparées aux ventes déclarées. S’il manquait une facture, dans la plupart des cas, un chèque oblitéré fait par Planet Tap venait confirmer l’achat. M. Bronson affirme que ses prévisions étaient non seulement appuyées par l’information obtenue de Brewer’s Retail, mais aussi par l’information de Planet Tap obtenue grâce aux factures, aux chèques oblitérés et aux dossiers de comptabilité saisis. Selon ses calculs, le prix de vente moyen pour une consommation (spiritueux) se situait entre 2,38 $ et 2,52 $, et entre 2,12 $ et 2,27 $ pour une bière. Dans ses calculs, il a tenu compte des pertes, du stock de clôture et des taxes. Il a utilisé une méthode prudente. Il n’a pas inclus le vin et les panachés et a fait pencher les prévisions en faveur des appelants. De plus, la cotisation a été diminuée de 20 % à la suite d’une entente conclue dans le cadre de l’affaire au criminel visant la société.
+[15] L’avocat des appelants a présenté plusieurs explications concernant l’écart entre les ventes prévues et les ventes déclarées. Il a entre autres évoqué les consommations gratuites qui étaient souvent offertes à certains clients, le fait que les spéciaux offerts lors des cinq à sept ont été écartés des calculs, le fait que les caisses enregistraient de façon erronée un pichet de bière au lieu d’une seule bière, et le fait que le numéro de permis d’alcool dans les dossiers de la LCBO pourrait bien avoir été utilisé pour des achats faits par des tiers n’ayant aucun lien avec l’entreprise. Ce sont là des éléments qui auraient bien pu avoir une certaine incidence sur les prévisions de M. Bronson, mais ils ont été évoqués de façon abstraite, sans montant précis et sans preuve à l’appui. Je ne peux pas deviner les répercussions qu’auraient pu avoir ces éléments, mais je conclus que M. Bronson a été juste et prudent dans ses calculs. Les appelants sont les seuls responsables de leur malheur et ils ne se sont, de toute évidence, pas acquittés du fardeau de la preuve qui leur incombait. De surcroît, même s’ils ont affirmé que le calcul du prix moyen fait par M. Bronson était imparfait, ils n’ont donné aucune indication probante de ce que le prix moyen aurait dû être.
+[16] Je conclus que les appelants ont détourné l’écart entre les ventes prévues et les ventes déclarées de la société. Cet argent a soit été investi de nouveau dans Planet Tap sous forme de prêts d’actionnaires, soit été stocké dans des coffres‑forts dans les bureaux, à l’étage, soit été utilisé pour acheter l’édifice adjacent, en 1997.
+[17] En 1997, les appelants ont acheté l’édifice adjacent à Planet Tap pour un montant de 88 000 $. On se perd dans les détails de cet achat. Un document portant le numéro d’enregistrement 749730 représente une cession immobilière faite par la société 1083278 Ontario Limited, par l’entremise de son président, Simo Mrkalj (Sam), en faveur des appelants, enregistrée le 7 juillet 1998. La contrepartie indiquée s’élève à 80 000 $ et l’affidavit concernant le droit de cession immobilière révèle que les acheteurs (les appelants) ont assumé une hypothèque de 57 000 $ et transféré des titres d’une valeur de 31 000 $. Les sommes versées en espèces ont été entrées comme néant.
+[18] Selon les témoignages, le bien a été acheté en 1997, possiblement par la société 1083278, mais aucun document d’enregistrement ou autre n’a été présenté. Dans ses observations, l’avocat des appelants n’a pas contesté l’affirmation du ministre selon laquelle [traduction] « ils ont acheté un édifice en 1997, mais le prix d’achat indiqué était de 88 000 $, et non de 90 000 $, et il y avait une hypothèque de 57 000 $, et le montant de 31 000 $ provenait de prêts ». Il n’y avait pas de preuve corroborante concernant les prêts. Il aurait été facile de rendre les choses plus claires au moyen d’une simple recherche complémentaire du titre par l’une ou l’autre des parties. Je suis donc obligé de conjecturer. C’est aux appelants qu’il incombe de prouver qu’ils n’ont pas omis de déclarer un montant important de revenus. Ils semblaient davantage prêts à laisser le ministre prouver ces hypothèses, comme on le ferait dans une affaire au criminel. Voici donc les éléments qu’il me reste à examiner en ce qui concerne la question de l’édifice adjacent :
+a) les appelants ont acheté le bien en 1997;
+b) l’acte ou la cession a été faite par leur père en juillet 1998;
+c) la cession indique qu’ils ont assumé une hypothèque de 57 000 $, payé en espèces une somme qualifiée de « néant », et transféré des titres d’une valeur de 31 000 $;
+d) l’avocat des appelants a cité l’avocat du ministre qui aurait dit [traduction] « les appelants ont acheté le terrain en 1997 et ont payé en espèces »[3];
+e) l’avocat des appelants maintient sa position selon laquelle les appelants avaient assumé une hypothèque de 57 000 $, et les appelants avaient expliqué, lors de l’interrogatoire préalable, que les 31 000 $ provenaient de prêts. Cependant, aucune preuve corroborante n’est venue appuyer cette prétention. Les appelants rejettent la responsabilité sur leur père qui n’a pas su bien tenir les livres et les registres[4].
+[19] Lorsqu’il présentait ses observations, l’avocat des appelants a souligné, à plusieurs occasions, l’inexactitude et l’ineptitude des éléments de preuve fournis par M. Bronson. À la page 75 de la transcription, l’avocat affirme ce qui suit :
+[traduction]
+Il n’a examiné que les éléments venant appuyer sa théorie, qui n’a d’ailleurs pas de fondement. S’il avait brossé le tableau complet de la situation, j’ai le sentiment que vous auriez été en mesure de tirer une conclusion quant à la question de savoir qui est le véritable propriétaire. Si l’on ne tient pas compte de l’enquête de Sam, avec tout le respect que je vous dois, je tiens à souligner qu’ils vous demandent de passer outre à certaines choses et de rendre un jugement inapproprié. Ceci fait partie de ce que nous avons déjà fait valoir.
+J’ai dit que l’examen de M. Bronson était erroné sur toute la ligne. Nous essayons d’en tirer ce que nous pouvons, mais il n’est pas possible de corriger les imperfections. Les témoins ont été appelés de façon très sélective.
+L’examen mené par M. Bronson comporte peut‑être certaines imperfections, et M. Bronson a clairement tiré certaines conclusions, mais ce n’était qu’en dernier recours. Les appelants n’ont présenté aucune preuve permettant de corriger les éventuelles imperfections. Les appelants tenaient des dossiers insuffisants et ils ont négligé de fournir certains renseignements à leurs comptables[5].
+[20] Je conclus qu’en général, M. Bronson a fait le meilleur travail possible compte tenu de l’information dont il disposait. Dans le cas où il existerait des discordances, et il y en a ici un grand nombre, j’accepte le témoignage donné par le témoin du ministre plutôt que celui des appelants. Les appelants n’ont pas réussi à établir que les hypothèses ci‑dessous sont erronées :
+[traduction]
+[…]
+d) pendant les années en cause, Milic Mrkalj et l’appelant n’avaient aucune source de revenus autre que leur travail auprès de l’entreprise;
+[…]
+f) les ventes non déclarées de l’entreprise pour les années en cause ont été bien calculées en fonction des ventes déclarées par rapport aux achats effectués;
+g) l’appelant et son frère, Milic Mrkalj, exploitaient l’entreprise pendant toute la période en cause. Ils étaient chargés du fonctionnement du bar et s’occupaient de faire la caisse chaque jour. Ils s’occupaient également des opérations bancaires, y compris des dépôts et du paiement des dépenses en espèces ou par chèque;
+[…]
+i) pour les années 1995 à 1997, les montants suivants ont été déposés dans le compte de prêt d’actionnaires par Milic Mrkalj et Joe Mrkalj :
+1995
+62 367 $
+1996
+18 490 $
+1997
+338 $
+j) les revenus non déclarés de l’entreprise sont à la source des dépôts effectués dans le compte de prêt d’actionnaires par l’appelant et Milic Mrkalj;
+k) bon nombre de bandes quotidiennes des caisses enregistreuses n’étaient pas dans les registres de l’entreprise. Aucune vente n’a donc été enregistrée par l’entreprise pour bon nombre de journées;
+l) lors d’une perquisition effectuée le 8 avril 1999 sur les lieux et dans la demeure adjacente de Milic Mrkalj et de l’appelant, on a trouvé environ 80 000 $ dans un coffre-fort. Milic Mrkalj et l’appelant étaient les seules personnes au courant de l’existence du coffre‑fort et y ayant accès;
+m) les 80 000 $ trouvés dans le coffre‑fort représentaient de l’argent non déclaré par l’entreprise pris par Milic Mrkalj et par l’appelant;
+n) Milic Mrkalj et l’appelant ont partagé entre eux le produit des revenus non déclarés.
+[21] Même si aucun des deux appelants n’était un actionnaire, un compte de passif, qualifié de compte de « prêt d’actionnaires », avait été créé à leur nom et était compris dans les états financiers de Planet Tap. Le titre « prêt d’actionnaires » est devenu « comptes créditeurs » en 1999. Malgré le fait que Sam était, d’un point de vue juridique, l’unique actionnaire, les appelants étaient souvent qualifiés d’actionnaires, comme en témoigne le fait que les prêts étaient déposés dans le compte de « prêt d’actionnaires » jusqu’à ce que le nom du compte soit changé en 1999.
+[22] Les montants suivants ont été déposés dans le compte de « prêt d’actionnaires » pendant les années en cause : 62 367 $ en 1995, 18 490 $ en 1996 et 338 $ en 1997. Ces prêts d’actionnaires faits par les appelants à Planet Tap provenaient de revenus non déclarés de l’entreprise. J’accepte les observations de l’avocat de l’intimée, notamment ce qui suit :
+a) les appelants n’avaient presque pas d’actif à la suite de leur faillite en 1994, mais ils ont effectué d’importants prêts d’actionnaires à Planet Tap dans les années qui ont suivi;
+b) normalement, c’est par chèque qu’on fait un prêt d’actionnaires, mais dans ce cas-ci, les prêts étaient fait en espèces – dans des coupures semblables à ce qu’on trouvait normalement dans un dépôt en espèces pour le bar.
+[23] Les appelants n’ont pas fourni beaucoup d’explications quant à la source des prêts d’actionnaires. Ils ont affirmé prendre leurs pourboires afin de les investir de nouveau dans Planet Tap (les pourboires sont imposables). Cependant, ceci ne vient pas expliquer les montants importants que les appelants ont contribué à Planet Tap. De plus, les appelants prétendent que la source de ces prêts pourrait bien être leur père. Ils n’ont cependant fourni aucune preuve pour appuyer cette prétention. Ils ont aussi fait valoir que l’argent comptant avait été donné par des invités au mariage de Joe, en novembre 1998. Ici non plus, aucun témoin n’a été appelé pour venir corroborer cette prétention.
+[24] Le bureau situé à l’étage, au‑dessus de Planet Tap, comportait deux coffres‑forts, dont un sous le bureau de travail et un sous les lames de parquet. Les appelants étaient les deux seules personnes qui avaient accès à ces coffres‑forts. Sam y avait peut-être accès, mais les éléments de preuve sont contradictoires sur cette question. Le coffre‑fort situé sous les lames de parquet contenait plus de 80 000 $ en espèces, et celui sous le bureau de travail en contenait 21 270 $. Pour les raisons exposées ci‑dessous, je conclus que ces montants constituent des revenus non déclarés.
+[25] Les témoignages des appelants quant à la source de cet argent étaient contradictoires. Au départ, lors de l’interrogatoire préalable, Joe avait affirmé que l’argent contenu dans les coffres‑forts était issu du produit des ventes de Planet Tap. Cependant, lors de l’audience, il a affirmé que l’argent provenait des ventes de Planet Tap et de dons faits par des amis et des membres de la famille à l’occasion de son mariage. Aucun témoin n’a été appelé et aucun élément de preuve n’a été produit par les appelants afin d’appuyer cette prétention, à part une liste des dons en espèces qui ont été reçus. Joe n’était pas en mesure d’expliquer pourquoi il avait combiné l’argent qui avait été donné à lui et à son épouse et le produit des ventes de l’entreprise, qui était divisé en parts égales entre lui et son frère. Ceci va à l’encontre du bon sens et ne semble pas du tout raisonnable.
+[26] L’avocat des appelants a soutenu qu’étant donné que le ministre n’avait pas établi de cotisation sur l’avoir net, on pouvait conclure que sa position n’était pas très solide. Je ne suis pas du même avis. La cotisation sur l’avoir net est une méthode utilisée en dernier recours seulement. En l’espèce, le ministre avait accès à des documents comme des factures saisies et des registres de la LCBO, ce qui lui a permis de calculer de façon plus exacte les ventes non déclarées que s’il avait eu recours à la méthode de la cotisation sur l’avoir net. Le ministre a bien établi que les appelants étaient chargés du fonctionnement du bar. Il s’est également servi des données à sa disposition pour calculer les ventes prévues de Planet Tap pour les années en cause, qui se sont avérées plus élevées que les ventes qui avaient été déclarées. De plus, le ministre a fourni des explications plausibles quant à l’écart entre les ventes prévues et les ventes déclarées. Il a notamment expliqué que les revenus non déclarés étaient la source des « prêts d’actionnaires » et de l’argent comptant trouvé dans les coffres‑forts. C’était aux appelants qu’il incombait de réfuter les hypothèses formulées par le ministre. À l’exception du témoignage de Joe, aucun élément de preuve n’a été fourni par les appelants. Le témoignage de Mike n’a pas vraiment aidé. Il a lui‑même admis être un ancien toxicomane et avoir très peu de souvenirs de la période en cause.
+[27] Il est très bien établi dans l’arrêt Voitures Orly Inc./Orly Automobiles Inc. c. La Reine[6] que le fardeau de réfuter les hypothèses du ministre repose sur les appelants :
+En résumé, nous ne trouvons aucun mérite aux prétentions de l'appelante selon lesquelles celle-ci n'a plus la charge de réfuter les hypothèses faites par le ministre. Nous souhaitons réaffirmer fermement et fortement le principe selon lequel le fardeau de la preuve imposé au contribuable ne doit pas être renversé à la légère ou arbitrairement. L'attribution du fardeau de la preuve au contribuable repose sur un motif très simple et concret énoncé il y a plus de 80 ans dans les arrêts Anderson Logging Co. c. British Columbia, [1925] R.C.S. 45; Pollock c. Canada (Ministre du Revenu National) (1993), 161 N.R. 232 (C.A.F.); Vacation Villas of Collingwood Inc. c. Canada, (1996) 133 D.L.R. (4th) 374 (C.A.F.); Anchor Pointe Energy Ltd. c. Canada, 2003 CAF 294. Ce motif est qu'il s'agit de l'entreprise du contribuable. C'est lui qui sait comment et pourquoi son entreprise fonctionne comme elle le fait et pas autrement. Il connaît et possède des renseignements dont le ministre ne dispose pas. Il possède des renseignements qui sont à sa portée et sur lesquels il exerce un contrôle. Le système fiscal est fondé sur l'autocotisation. Tout renversement de la charge du contribuable de fournir et de rapporter les renseignements dont il a connaissance ou qu'il contrôle peut mettre en danger l'intégrité, le caractère contraignant et, par conséquent, la crédibilité du système. Ceci dit, nous reconnaissons que dans certaines circonstances le renversement du fardeau de la preuve peut être justifié, mais ce n'est pas le cas en l'espèce.
+[28] Les revenus non déclarés de Planet Tap lui ont été prêtés à nouveau par les appelants, entreposés dans des coffres‑forts à l’étage et utilisés pour acheter l’édifice adjacent, le tout au profit des appelants. De toute évidence, ces revenus auraient dû être déclarés au titre de revenus imposables suivant le paragraphe 6(1) de la Loi, à l’exception de l’année d’imposition 1995 au cours laquelle il est possible que leur père exerçait un certain contrôle sur l’entreprise.
+Pénalités
+[29] Des pénalités ont été imposées aux deux appelants suivant le paragraphe 163(2) de la Loi. Je conclus que, pour les motifs susmentionnés, ils ont sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans leurs déclarations de revenus pour les années 1996, 1997 et 1998, ou y ont participé.
+[30] En ce qui concerne le fardeau de la preuve relatif aux pénalités imposées en application du paragraphe 163(2) de la Loi, c’est au ministre d’établir que les appelants ont sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans leurs déclarations de revenus pour les années 1996, 1997 et 1998, ou y ont participé.
+[31] Dans la décision Farm Business Consultants Inc. v. R.[7], le juge Bowman aborde les principes qui doivent être appliqués dans les instances traitant de pénalités :
+Une cour doit faire preuve d'une prudence extrême lorsqu'elle sanctionne l'imposition de pénalités prévues au paragraphe 163(2). Une conduite qui légitime l'établissement d'une nouvelle cotisation à l'égard d'une année frappée de prescription ne justifie pas d'office l'imposition d'une pénalité, et l'imposition systématique de pénalités, par le ministre, est une pratique qui est à déconseiller. Une conduite du genre de celle qui est envisagée au sous-alinéa 152(4)a)(i) peut, dans certaines circonstances, servir aussi de fondement à l'imposition d'une pénalité prévue au paragraphe 163(2), qui implique la pénalisation d'une conduite plus répréhensible. Dans un tel cas, une cour doit, même en appliquant une norme de preuve civile, étudier soigneusement la preuve et chercher un degré de probabilité supérieur à celui auquel on s'attendrait dans les situations où l'on cherche à établir le bien-fondé d'allégations moins sérieuses. Par ailleurs, quand une pénalité est imposée en vertu du paragraphe 163(2) même si une norme de preuve civile est exigée, lorsque la conduite d'un contribuable cadre avec deux hypothèses viables et raisonnables, l'une qui justifie la pénalité et l'autre pas, il convient d'accorder le bénéfice du doute au contribuable, et de supprimer la pénalité. Je crois qu'en l'espèce, l'intimée a fait la preuve du degré de probabilité requis, et qu'au vu de la preuve produite, aucune hypothèse incompatible avec celle que l'intimée a avancée ne peut être défendue.
+Si j'avais pu interpréter la loi, ou considérer la preuve, d'une manière qui m'aurait permis d'accorder à l'appelante le bénéfice du doute, je l'aurais fait. Mais cela m'est impossible. La description qu'a faite l'appelante de la relation juridique qui l'unit à Agricultural, à savoir qu'il s'agissait d'un arrangement de consultation, dépasse la simple négligence.
+[32] De plus, dans la décision DeCosta v. R.[8], le juge Bowman a résumé en ces termes les facteurs à examiner :
+Pour établir la distinction entre la faute « ordinaire » ou la négligence et la faute « lourde », il faut examiner plusieurs facteurs. Un de ces facteurs est bien entendu l’importance de l’omission relative au revenu déclaré. Il y a aussi la faculté du contribuable de découvrir l’erreur, ainsi que le niveau d’instruction du contribuable et son intelligence apparente. Il n’existe aucun facteur qui soit prédominant. Il faut accorder à chacun des facteurs le poids qu’il convient dans le contexte de l’ensemble de la preuve.
+[33] Le contexte qui ressort des présents appels est évident. Le comportement des appelants a dépassé la simple négligence. Les appelants ont délibérément et à plusieurs reprises omis de déclarer, en bonne et due forme, les ventes de l’entreprise dans le but de faire de faux énoncés dans leurs déclarations de revenus pour les années d’imposition 1996, 1997 et 1998. Il s’agit‑là d’un comportement bien plus répréhensible que la simple négligence.
+[34] Seuls les appels interjetés à l’égard de l’année d’imposition 1995 sont accueillis. Les appels interjetés à l’égard des années d’imposition 1996, 1997 et 1998 sont rejetés avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 23e jour de novembre 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 7e jour de janvier 2008.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2007CCI712
+Nos DES DOSSIERS : 2003-4555(IT)G et 2003-4557(IT)G
+INTITULÉ : JOVO MRKALJ ET MILIK MRKALJ et SA MAJESTÉ LA REINE
+LIEUX DE L’AUDIENCE : St. Catharines (Ontario) et Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 26 et 27 mars 2007, le 12 avril 2007 et le 11 juillet 2007
+MOTIFS DU JUGEMENT PAR : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 23 novembre 2007
+COMPARUTIONS :
+Avocat des appelants :
+Me Guy Ungaro
+Avocat de l’intimée :
+Me Ronald MacPhee
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Me Guy Ungaro
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] On renvoie à la pièce A-2, onglets 154 à 163, et plus particulièrement, aux impressions électroniques des déclarations de revenus produites par les appelants, que l’on retrouve aux onglets 155 à 161, inclusivement.
+[2] Des accusations au criminel ont été portées contre Mike à la suite d’une fusillade qui a eu lieu avant 1995.
+[3] Page 49 de la transcription.
+[4] Pages 66 et 67 de la transcription.
+[5] Il est décevant de constater que le comptable des appelants ne semble avoir pris aucune mesure corrective lorsqu’il a établi les états financiers.
+[6] 2005 CAF 425, G.T.C. 115 (angl.)(C.A.F.), au paragraphe 20.
+[7] 95 DTC 200 (C.C.I.), confirmée dans 96 DTC 6085 (C.A.F.).
+[8] 2005 DTC 1436 (TCC).

@@ -1,0 +1,142 @@
+Title: Sljivar v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29519/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-581-29519-sljivar-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-11-10
+
+# Sljivar v. The Queen
+
+- Citation: 2009 TCC 581
+- Decision date: 2009-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6276, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sljivar v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-10
+Neutral citation
+2009 TCC 581
+File numbers
+2008-597(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-597(IT)G
+BETWEEN:
+MEJRAM SLJIVAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 26, 2009, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Bryan J. Tham
+Counsel for the Respondent:
+Laurent Bartleman
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years are dismissed.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 10th day of November 2009.
+“G.J. Rip”
+Rip C.J.
+Citation: 2009 TCC 581
+Date: 20091110
+Docket: 2008-597(IT)G
+BETWEEN:
+MEJRAM SLJIVAR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, C.J.
+[1] The issue in this appeal from an assessment for 2002[1] is whether a notice of waiver in respect of the normal reassessment period for the 2002 taxation year ("waiver"), signed by the appellant Mejram Sljivar on April 5, 2006, is valid: paragraphs 152(3.1)(b) and subparagraph 152(4)(a)(ii) of the Income Tax Act. At trial the appellant questioned the validity of the assessment, not its quantum. A second issue would come into play if I find the waiver invalid, namely, whether the appellant made any misrepresentation in filing his tax return for 2002 that is attributable to neglect, carelessness or wilful default so as to permit the Minister of National Revenue ("Minister") to reassess after the normal reassessment period: paragraph 152(3.1)(b).
+[2] Mr. Sljivar was born and raised in Bosnia where he had a grade 8 education. He immigrated to Canada in 1993 and during 2002 was a partner in an aluminium siding business, installing siding and eavestroughs. At time of trial he was 36 years old.
+[3] On his arrival in Canada, Mr. Sljivar did not speak, read or understand English. He did attend courses where he was taught English as a second language. He says he can now read "simple" words in English. He can read "simple letters"; if there is a problem he says he asks his wife to read for him. However, while the appellant conducts business in English, his partner signs business documents. He declared that he never signs any contract.
+[4] Mr. Sljivar signed his income tax return for 2002 on April 11, 2003 and the return was filed with the Canada Revenue Agency ("CRA") soon thereafter. The return was prepared by Paul S. Snider Consulting Inc. The notice of assessment for 2002 was dated May 8, 2003 and was sent to Mr. Sljivar. The Minister assessed as filed.
+[5] The "normal reassessment period", as defined by paragraph 152(3.1)(b) of the Income Tax Act ("Act") during which the Minister may reassess Mr. Sljivar was to expire on May 8, 2006.
+[6] The sequence of events leading to this appeal may assist the reader:
+a) March 14, 2006: Mr. R. Sharma of the CRA informed Mr. Sljivar that he was being audited for 2002;
+b) March 20, 2006: A meeting arranged between Mr. Sljivar, his accountant at the time, Mr. Snider, and Mr. Sharma for March 27 at the offices of the CRA in Mississauga, Ontario. The meeting was subsequently rescheduled to March 28.
+c) March 28, 2006: Meeting between Mr. Sljivar, his accountant and Mr. Sharma. Various matters relating to Mr. Sljivar's business were discussed. Mr. Sljivar undertook to provide CRA with bank statements, deposit books, sales invoices, etc. No mention was made of a possible request for Mr. Sljivar to sign a form of waiver in respect of 2002. The meeting lasted between one and two hours.
+d) March 31 and April 3, 2006: Telephone calls between Mr. Sljivar and Mr. Sharma concerning the records Mr. Sljivar undertook to provide and when he would provide them.
+e) April 4, 2006: Mr. Sljivar brought records to CRA in Mississauga.
+[7] According to Mr. Sljivar, he received a call on April 5, 2006 from Mr. Sharma asking him to attend at CRA's office "to sign something". Mr. Sljivar says he was not told what that something was. He had been at the CRA the day before and nothing was mentioned about signing a document.
+[8] Mr. Sljivar recalled he was very busy on April 5. Closings were taking place at a subdivision where he was working and he complained he had lost three or four days of work dealing with the CRA. In any event, he "went with my working clothes around lunch" to CRA's offices to sign what Mr. Sharma requested. He parked in front of the building and phoned Mr. Sharma to tell him he was in the building. "Mr. Sharma came (down to the lobby) with the file, showed me where to sign … I wrote “taxpayer” (under my name) … Mr. Sharma helped me spell 'taxpayer'".
+[9] Mr. Sljivar said Mr. Sharma put his finger on the place on the form where a signature was required. Mr. Sharma had prepared the form earlier. Mr. Sljivar again stated he was busy at work on April 5, did not read even the title on the form and did not ask to take the form home to review.
+[10] Mr. Sljivar insists that Mr. Sharma did not tell him what the document was. He says he thought his signature was "part of the process". He signed the waiver in the lobby of the building, next to the exit. Mr. Sharma did not explain what the document was nor did Mr. Sharma advise him to speak to his accountant before signing, Mr. Sljivar declared. Mr. Sljivar admitted that he simply signed the waiver form without reading it. He repeated that he was in a rush to get back to work.
+[11] Appellant's counsel reviewed the waiver with him during examination‑in‑chief. He explained that while he wrote "tax" under his name, in the line describing the signatory’s title, Mr. Sharma spelt out "p‑a‑y‑e‑r" to complete the word “taxpayer”. At Mr. Sharma's request, Mr. Sljivar wrote the date on the form, correcting an earlier date entered by Mr. Sharma.
+[12] When he signed the form of waiver, Mr. Sljivar testified, he did not know what a waiver was. It was only later on, when he received the notice of reassessment, that he was told by his new accountant, James Simpson, that he had signed a waiver and was told its purpose. Mr. Sljivar said he was angry when he learned what had taken place; had he known what a waiver was, he would not have signed the form.
+[13] In cross-examination Mr. Sljivar could not recall if Mr. Sharma told him on the telephone that he was running out of time and would have to close the file if a waiver were not signed.
+[14] Mr. Simpson was referred to the appellant by Mr. Snider. Mr. Simpson is an income tax preparer. He testified that both Mr. Sljivar and his partner were being audited by the CRA in March 2006. Mr. Simpson stated that on May 4, 2006 Mr. Sljivar had received a 30 day letter, a letter from CRA explaining a proposed assessment and giving the taxpayer 30 days to make further representations. Mr. Simpson realized the CRA was close to the end of the three‑year period to reassess 2002. He did not meet with Mr. Sljivar and his partner until May 9, 2006 and then arranged a meeting with CRA. It was then that he learned of the waiver.
+[15] On June 5, 2006, Mr. Simpson met with Mr. Sharma. On June 15, Mr. Simpson wrote Mr. Sharma to inform him that his clients, Mr. Sljivar and his partner, had no recollection of signing a waiver. At a second meeting on June 29, Mr. Simpson said he was told that CRA had the waivers and "that's it".
+[16] Mr. Sharma denied any “trickery”, as alleged by appellant's counsel, in having Mr. Sljivar sign the form of waiver. He stated that after the meeting of March 28, Mr. Snider never contacted him again and any dealings he had concerning the audit was with Mr. Sljivar personally.
+[17] On April 5, Mr. Sharma insisted, before Mr. Sljivar came to his office, he told Mr. Sljivar that the CRA had three years to assess and if Mr. Sljivar required more time to obtain supporting documents that he should sign the waiver; otherwise CRA would assess. Mr. Sljivar said that he would come to the CRA's office to sign. Mr. Sharma agreed that Mr. Sljivar signed the waiver in the CRA's building's lobby and that he told him where to sign.
+[18] Mr. Sharma had prepared the waiver on March 21. This, he said, was "normal procedure" to follow "if the date was approaching … just in case".
+[19] Mr. Sharma could not remember if Mr. Sljivar may have asked for help in signing the waiver. He did ask, according to Mr. Sharma, "where do I sign"? Mr. Sharma stated that he did offer to fax the form of waiver to Mr. Sljivar.
+[20] Appellant's counsel asked Mr. Sharma why he did not present the form of waiver to Mr. Sljivar on March 28, when they met for about two hours. Mr. Sharma replied that he did not have the records available then. "I didn't mention the waiver." Mr. Sharma said he "waited to see something" and how long it would take Mr. Sljivar to get his records before he mentioned the waiver. Mr. Sharma repeated that he did explain the significance of the waiver to Mr. Sljivar on April 5. Mr. Sharma said he understood Mr. Sljivar's English. He said he required the waiver so as to give Mr. Sljivar more time to provide documents and information.
+[21] Mr. Sljivar gave his accountant, Mr. Snider at the time, all his papers for Mr. Snider to prepare his tax return for 2002. Once the return was prepared and ready for signature he attended at Mr. Snider’s office. He did not verify or look over the return for errors or omissions. He only checked to see how much tax he had to pay. As he said, he checked the result. Mr. Sljivar did not ask Mr. Snider any questions or ask him to explain the return.
+[22] As far as Mr. Sljivar was concerned all business and personal income and amounts that could be deducted from income were determined by Mr. Snider. The claim for an office at his residence was Mr. Snider’s decision as was a claim for capital cost allowance for a sofa which was purchased in 2000 for $2,319 for Mr. Sljivar’s home.
+[23] In his submissions appellant’s counsel concentrated on what Mr. Sharma should have and could have done to prevent Mr. Sljivar signing the waiver. For example, counsel stated that Mr. Sharma “could have” presented the waiver form at the meeting of March 23 and if Mr. Sharma had done so, Mr. Snider “could have” informed Mr. Sljivar of the consequences of signing a savvier. I note Mr. Snider did not appear as a witness.
+[24] Counsel also submitted that Mr. Sharma knew of Mr. Sljivar’s limited English and wanted to deal with him as opposed to Mr. Snider. There was absolutely no evidence of the truth of this allegation. Counsel ought to be more cautious and avoid making such reckless accusations.
+[25] Finally, counsel for the appellant argued that the appellant was “new to Canada” – he had been in Canada for 13 years – and did not understand what was happening, that signing the document was part of the process. Counsel added that even after signing the waiver his client continued to provide Mr. Sharma with documents. Only later, when he met with Mr. Simpson, did Mr. Sljivar realize was he signed.
+[26] The appellant referred to Saunders v. Anglia Building Society[2] in support of his argument that the appellant was not capable of both reading the form of waiver and sufficiently understanding it and therefore the waiver was invalid. He cited Lord Pearson:
+In my opinion, the plea of non est factum ought to be available in a proper case for the relief of a person who for permanent or temporary reasons (not limited to blindness of illiteracy) is not capable of both reading and sufficiently understanding the deed or other document to be signed. By “sufficient understanding” I mean understanding at least to the point of detecting a fundamental difference between the actual document and the document as the signer had believed it to be. There must be a proper case for such relief. There would not be a proper case if: (a) the signature of the document was brought about by negligence of the signer in failing to take precautions which he ought to have taken; or (b) the actual document was not fundamentally different from the document as the signer believed it to be. I will say something later about negligence and about fundamental difference.
+[27] In counsel’s view his client was incapable of reading and understanding the waiver. Also, he said, Mr. Sharma was negligent in not cautioning Mr. Sljivar before he signed the waiver.
+[28] Counsel also referred to Canadian Bank of Commerce v. Shotbolt et al[3] where at page 747, Kroft J. stated that:
+… On the one hand, it is of importance particularly in the world of commerce that documents apparently signed and executed in the ordinary course should be relied upon. On the other, there is a reluctance to impose a burden on someone who probably would never have affixed his signature to a document had he understood its true nature and intent. This is particularly so when the gain or benefit attached to the signing is small in relation to the burden imposed.
+[29] Finally, in Northside Economic Development Assistance Corporation (“NEDAC”) v. James Andrew Strickland and Robena Elizabeth Strickland, a decision of the Supreme Court of Nova Scotia, Trial Division, by Glube, C.J., as she then was, the Court found that there was a responsibility by the Royal Bank of Canada and NEDAC to ensure that the parties to loans secured by two chattel mortgages and promissory notes understood what they were signing, in particular the person who was not involved in the negotiation of the loans. The evidence before the Chief Justice was that one of the defendants had no knowledge and did not understand that she was personally responsible. She believed she had to sign because she was the other defendant’s wife. She did not understand what a chattel mortgage was at the time she signed the mortgages and related documents.
+[30] However, a year later, Estey J. writing for the Supreme Court[4] held that:
+… As between an innocent party (the appellant) and the respondents, the law must take into account the fact that the appellant was completely innocent of any negligence, carelessness or wrongdoing, whereas the respondents by their careless conduct have made it possible for the wrongdoers to inflict a loss. As between the appellant and the respondents, simple justice requires that the party, who by the application of reasonable care was in a position to avoid a loss to any of the parties, should bear any loss that results when the only alternative available to the courts would be to place the loss upon the innocent appellant. …
+[31] When Mr. Sljivar went to the CRA on April 5, 2006, he was in a rush to get back to work. Even if I accept that at the time his English was weak, he did have the ability to read the title of the form, that is “waiver”, and if he did not understand what it meant, he could have asked Mr. Sharma what the word meant if Mr. Sharma had not already explained the document. My impression of Mr. Sljivar’s evidence is that he was in a hurry and wanted to get back to work as soon as possible. Hence, he neglected to take simple precautions before signing the waiver.
+[32] Mr. Sljivar was not in the same position as Mr. and Mrs. Strickland where interests of the debtor and creditor are opposite. Here, we are dealing with a waiver and signing a waiver may be just as much to the interest of the taxpayer as the fisc. As Joyal J. commented in Cal Investments[5]:
+A waiver of the sort at issue in this case, might be interpreted as an accommodation between the Crown and a taxpayer for the better administration of the Income Tax Act and to provide a more efficient determination of any liability thereunder. In the light of the limitations on assessments under s. 152 of the Act, the Crown requests a waiver so that it may continue its assessment or audit work in a normal administrative mode without having to worry about limitations. The taxpayer, on the other hand, knows full well that on an assessment being made, he alone has the burden of proving it wrong. That burden becomes much heavier if the Crown, facing the end of the limitation period, issues what might be termed a premature assessment which, for purposes of abundant caution, would include many sundry items which the taxpayer would have to traverse one by one. The taxpayer in those circumstances would look upon a waiver as being to his own benefit as well as the Crown's and would ordinarily comply with the Crown's request.
+In many cases, also, the waiver might be limited to specified issues, i.e., those where assessing or auditing processes have not been completed and which in fact remain the only outstanding items on which the Crown can ultimately decide to assess or reassess. This narrows the field of the assessment and again provides mutual advantages to both the Crown and the taxpayer.
+[33] There is no evidence that Mr. Sharma resorted to trickery to have Mr. Sljivar sign the waiver. The CRA could have assessed on the day the waiver was signed and in any event before May 8, 2006. It did not require the waiver. And that Mr. Sljivar continued to provide documents to Mr. Sharma after he signed the waiver demonstrates that the waiver was serving its purpose – to permit the taxpayer to provide additional information to prevent the proposed assessment.
+[34] If the waiver was invalid and therefore the reassessment was made outside the normal reassessment period, the second issue would arise. On the facts before me, Mr. Sljivar was negligent in not even making a cursory review of his tax return for 2002, accepting everything his accountant reported in, or omitted from, the return.
+[35] Appellant’s counsel submitted that since the Minister did not assess a penalty under subsection 163(2) of the Act, the Minister cannot reassess after the normal reassessment period. The negligence required for a penalty under subsection 163(2) is gross negligence, that is, negligence that involves greater neglect than simply a failure to use reasonable care[6]. In the appeal at bar Mr. Sljivar did not use reasonable care in checking his return to make sure that he did not claim expenses he clearly was not entitled to, for example, an office in his home and capital cost allowance on personal property.
+[36] In such circumstances Mr. Sljivar was negligent or careless in filing his return of income for 2002 and it was open for the Minister to reassess after the normal reassessment period: subsection 152(4).
+[37] The appeals are therefore dismissed. Costs in favour of the respondent.
+Signed at Ottawa, Canada, this 10th day of November 2009.
+“G.J. Rip”
+Rip C.J.
+CITATION: 2009 TCC 581
+COURT FILE NO.: 2008-597(IT)G
+STYLE OF CAUSE: MEJRAM SLJIVAR AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 26, 2009
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: November 10, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Bryan J. Tham
+Counsel for the Respondent:
+Laurent Bartleman
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bryan J. Tham
+Firm: Bryan J. Tham
+Barrister & Solicitor
+Kitchener, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Originally the appellant appealed assessments for 2002 and 2003. At trial of the appeals the appellant's counsel advised that the appellant wished to withdraw his appeal for 2003.
+[2] Saunders (Executrix of the estate of Rose Maud Gallie (deceased)) v. Anglia Building Society (formerly Northampton Town and Country Building Society [1970] 3 all E.R. 961 (H.L.), p. 979.
+[3] Canadian Imperial Bank of Commerce v. Shotbolt, Boulanger and Insta-matic Finance Ltd. [1981] 5 W.W.R. 783 (Man. Q.B.). See also Karakas v. R. , 1995 Carswell Nat. 1946 where this and the Saunders cases are cited.
+[4] Marvco Colour Research Ltd. v. Harris, [1982] 2 S.C.R. 774, p. 785.
+[5] Cal Investments Ltd. v. Canada (Minister of National Revenue), [1990] F.C.J. No. 811, 90 D.T.C. 6556 at p. 6552. See also Charron v. Canada, [1997] T.C.J. No. 303 and Arpeg Holdings Ltd. v. R., [2007] 1 D.T.C. 2447 (T.C.C.), [2008] 2 C.T.C. 140 (F.C.A.)
+[6] Venne v. The Queen, [1984] C.T.C. 223, (F.C.T.D.) at p. 234 per Strayer, J., as he then was.

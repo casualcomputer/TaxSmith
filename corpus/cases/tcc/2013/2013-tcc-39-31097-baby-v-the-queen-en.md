@@ -1,0 +1,163 @@
+---
+title: "Baby v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31097/index.do"
+last_modified: "2013-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 39"
+citation2: ""
+neutral_citation: "2013 TCC 39"
+decision_date: "2013-02-19"
+language: "en"
+item_id: "31097"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4683
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:17:05.696000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "03d0c842938f333fe0976e26a6140fd2ebfd5df6f983ab78aea7cf6c40d01494"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Baby v. The Queen
+
+- Citation: 2013 TCC 39
+- Decision date: 2013-02-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4683, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Baby v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-02-19
+Neutral citation
+2013 TCC 39
+File numbers
+2012-626(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-626(GST)I
+BETWEEN:
+ANTOINE BABY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 25, 2013, at Québec, Quebec
+Before: The Honourable Justice B. Paris
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Pier-Olivier Julien
+____________________________________________________________________
+JUDGMENT
+The appeal from an assessment against the appellant under the Excise Tax Act, notice of which is dated February 3, 2011, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 19th day of February 2013.
+“B. Paris”
+Paris
+Translation certified true
+on this 3rd day of April 2013
+Janine Anderson, Translator
+Citation: 2013 TCC 39
+Date: 20130219
+Docket: 2012-626(GST)I
+BETWEEN:
+ANTOINE BABY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Paris J.
+[1] Mr. Baby is appealing from an assessment made under the Excise Tax Act,[1] (Act), by which the Minister of National Revenue denied him the tax rebate for new housing or substantial renovations.
+[2] The tax rebate is set out in paragraph 256(2)(a) of the Act. The provision reads as follows:
+Where
+(a) a particular individual constructs or substantially renovates, or engages another person to construct or substantially renovate for the particular individual, a residential complex that is a single unit residential complex or a residential condominium unit for use as the primary place of residence of the particular
+individual or a relation of the particular individual;
+the Minister shall . . . pay a rebate to the particular individual . . . .
+[3] The expression “substantial renovation” is defined in subsection 123(1) of the Act as follows:
+“substantial renovation” of a residential complex means the renovation or alteration of a building to such an extent that all or substantially all of the building that existed immediately before the renovation or alteration was begun, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, has been removed or replaced where, after completion of the renovation or alteration, the building is, or forms part of, a residential complex;
+Position of the appellant
+[4] Mr. Baby is challenging the Minister’s interpretation of the expression “substantial renovation” that appears in paragraph 256(2)(a) of the Act. He claims that the renovations he had done on his house between July 1, 2006, and December 31, 2007, were substantial renovations under the Act.
+[5] Furthermore, Mr. Baby argues that he was misled by the information that he found on the Revenu Québec Internet site about the conditions that needed to be met in order to obtain the tax rebate.
+Facts
+[6] Mr. Baby’s house has two floors and a basement; the basement floor was a dirt floor. The area of each floor is 26 feet by 28 feet.
+[7] Mr. Baby did the following renovations on his house:
+- added an all season, 15 by 20 foot, solarium that is attached and open to the kitchen. Part of the kitchen’s external wall was removed;
+- transformed the dining room into three smaller rooms: an office, a bathroom and a powder room. Before the renovations, there were no bathrooms or powder rooms on the main floor. The walls of each of those rooms were rebuilt and the bathroom and powder room floors were rebuilt;
+- rebuilt the foundation and added a cement floor to replace the dirt floor in the basement;
+- changed the electrical connection point and the heating system.
+[8] Mr. Baby did not make changes to the bedroom or living room on the main floor or anything on the second floor.
+[9] Mr. Baby testified that he did the renovations to place all household services on the main floor because he had suffered permanent injuries to his right leg in a car accident. Before starting the renovations, he did research on the Revenu Québec Internet site, where he found a publication entitled “QST and GST/HST Rebates: New or Substantially Renovated Housing, New or Substantially Renovated Residential Rental Property”. The part on substantial renovations starts at page 12 and reads as follows:
+You may be entitled to a rebate, provided all the following conditions are met:
+· The unit must be a single-unit residential complex* or a residential unit held in co-ownership.
+· You (or a relation) must be the first occupant of the unit after renovations began.
+· The unit must be your primary place of residence (or that of a relation).
+· The fair market value of the property must be under $450,000 for GST purposes and under $225,000 for QST purposes at the time renovations are substantially completed.
+[10] It was only after the appellant finished the renovations and was denied his tax rebate request to Revenu Québec that he was sent the definition of “substantial renovation” in the Act. Even though the expression is defined in the publication that Mr. Baby found on the Revenu Québec site, the definition is on page 7, and not noted on page 12, where the conditions for entitlement to a tax rebate for substantial renovations are listed.
+Analysis
+[11] Therefore, the remaining issue before me is whether, in light of the wording of the definition of “substantial renovation”, all or substantially all of Mr. Baby’s building that existed before the renovation, other than the foundation, external walls, interior supporting walls, floors, roof and staircases, were removed or replaced.
+[12] The Minister interprets “all or substantially all” as being 90% or more of the existing house with the exception of the elements noted.
+[13] Mr. Baby states that the renovations in this case were to 90% of the area of the house that was [translation] “actually used” and that the money he paid is equivalent to well over 90% of the house’s value before the renovations, according to the municipal assessment.
+[14] In my opinion, neither of Mr. Baby’s interpretations of “substantial renovation” is based on the language of the definition. First, the definition talks about “all or substantially all of the building that existed immediately before the renovation” and not [translation] “the part of the building actually used immediately before the renovations”. The Court must not add words to Parliament’s definition. In my opinion, it is clear that the expression “building that existed” means the whole building. Furthermore, there is nothing in the definition that suggests that Parliament intended to take renovation costs into account. In that respect, I refer to the following comments by Justice O’Connor of this Court in McLean v. The Queen,[2] (at paragraph 6):
+The definition of substantial renovation is restrictive. Firstly, it has no reference to the total costs of the renovation in relation to the value of the home. . . .
+[15] In light of all of the evidence, it is clear that Mr. Baby did not have all or substantially all of his house as it existed before the renovations, other than the supporting walls, floors and staircases, removed or replaced. The whole second floor and a significant part of the first floor were not renovated. As a result, the renovations of Mr. Baby’s house were not substantial renovations under the Act.
+[16] Finally, even if I agree with Mr. Baby that the publication that he found on the Revenu Québec site can easily be confusing, the fact that he was misled is not a valid reason to allow his appeal. I am bound to apply the provisions of the Act as written by Parliament, and not as interpreted by the Minister or his officials. On this point, Justice Sarchuk of this Court wrote the following in Waldron v. The Queen,[3] at paragraph 7:
+[7] The issue of estoppel has been considered in a number of cases and the principle which generally can be taken therefrom is that no representation involving an interpretation of law by a servant or officer of the Crown can bind it. The rationale for that position was admirably set out by Bowman T.C.C.J. in Goldstein v. The Queen:
+It is sometimes said that estoppel does not lie against the Crown. The statement is not accurate and seems to stem from a misapplication of the term estoppel. The principle of estoppel binds the Crown, as do other principles of law. Estoppel in pais, as it applies to Crown, involves representations of fact made by officials of the Crown and relied and acted on by the subject to his or her detriment. The doctrine has no application where a particular interpretation of a statute has been communicated to a subject by an official of the government, relied upon by that subject to his or her detriment and then withdrawn or changed by the government. In such a case a taxpayer sometimes seeks to invoke the doctrine of estoppel. It is inappropriate to do so not because such representations give rise to an estoppel that does not bind the Crown, but rather, because no estoppel can arise where such representations are not in accordance with the law. Although estoppel is now a principle of substantive law it had its origins in the law of evidence and as such relates to representations of fact. It has no role to play where questions of interpretation of the law are involved, because estoppels cannot override the law.
+[17] For these reasons, the appeal must be dismissed.
+Signed at Ottawa, Canada, this 19th day of February 2013.
+“B. Paris”
+Paris J.
+Translation certified true
+on this 3rd day of April 2013
+Janine Anderson, Translator
+CITATION: 2013 TCC 39
+COURT FILE NO.: 2012-626(GST)I
+STYLE OF CAUSE: Antoine Baby and Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: January 25, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Brent Paris
+DATE OF JUDGMENT: February 19, 2013
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Pier-Olivier Julien
+COUNSEL OF RECORD:
+For the appellant:
+Name: The appellant himself
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S.C. (1985), c. E-15.
+[2] 1998 CanLII 364.
+[3] 1999 CanLII 19110.

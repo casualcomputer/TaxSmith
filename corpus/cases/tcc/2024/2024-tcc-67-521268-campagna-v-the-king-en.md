@@ -1,0 +1,184 @@
+---
+title: "Campagna v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521268/index.do"
+last_modified: "2024-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 67"
+citation2: ""
+neutral_citation: "2024 TCC 67"
+decision_date: "2024-05-10"
+language: "en"
+item_id: "521268"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5512
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-05-14T09:03:33.599000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2da4a8c13eca9433a843586624c06f2983efc0a7f3b6cd7e524334b1fd62c698"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Campagna v. The King
+
+- Citation: 2024 TCC 67
+- Decision date: 2024-05-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5512, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Campagna v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-05-10
+Neutral citation
+2024 TCC 67
+File numbers
+2021-2717(IT)G, 2022-203(IT)G, 2022-636(IT)
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-2717(IT)G
+BETWEEN:
+IRENE CAMPAGNA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+The Honourable Justice David E. Graham
+ORDER
+THIS COURT ORDERS THAT:
+1. The Appellant’s adjournment request is denied.
+The Appellant’s request to have her appeal heard together with the appeal of Fernando Campagna (2022-203(IT)G) is granted. As a result, the Appellant’s appeal will now be heard at the Tax Court of Canada, Federal Judicial Centre, 180 Queen Street West, 6th Floor, Toronto, Ontario, M5V 3L6, commencing at 9:30 a.m. on Monday, May 13, 2024, for an estimated duration of one to two days.
+Signed at Ottawa, Canada, this 10th day of May 2024.
+“David E. Graham”
+Graham J.
+Docket: 2022-203(IT)G
+BETWEEN:
+FERNANDO CAMPAGNA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+The Honourable Justice David E. Graham
+ORDER
+THIS COURT ORDERS THAT:
+1. The Appellant’s adjournment request is denied.
+2. The Appellant’s request to have his appeal hear together with the appeal of Irene Campagna (2021-2717(IT)G) is granted. The appeals will be heard together at the Tax Court of Canada, Federal Judicial Centre, 180 Queen Street West, 6th Floor, Toronto, Ontario, M5V 3L6, commencing at 9:30 a.m. on Monday, May 13, 2024, for an estimated duration of one to two days.
+Signed at Ottawa, Canada, this 10th day of May 2024.
+“David E. Graham”
+Graham J.
+Docket: 2022-636(IT)G
+BETWEEN:
+EDDY FURLAN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+The Honourable Justice David E. Graham
+ORDER
+THIS COURT ORDERS THAT the Appellant’s adjournment request is denied.
+Signed at Ottawa, Canada, this 10th day of May 2024.
+“David E. Graham”
+Graham J.
+Citation: 2024 TCC 67
+Date: 20240510
+Docket: 2021-2717(IT)G
+BETWEEN:
+IRENE CAMPAGNA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2022-203(IT)G
+AND BETWEEN:
+FERNANDO CAMPAGNA,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2022-636(IT)G
+AND BETWEEN:
+EDDY FURLAN,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Graham J
+[1] The appeals of Fernando Campagna, Irene Campagna and Eddy Furlan are scheduled for trial on May 13, 14 and 15, 2024 respectively. All three appeals involve a charitable donation program known as the Global Learning Gifting Initiative (“GLGI”).
+[2] It appears that the Campagnas and Mr. Furlan have some connection as, last May, Ms. Campagna attempted to file discovery questions and answers with the registry on behalf of Mr. Furlan. It also appears that the Appellants are all receiving advice from an individual named Kevin Johnston.
+Adjournment Requests
+[3] On May 8, 2024, Mr. Johnston contacted the registry seeking an adjournment on behalf of Mr. Furlan. Mr. Furlan subsequently faxed the registry a letter signed by Mr. Johnston requesting that Mr. Furlan’s trial be adjourned for 120 days “to allow for full disclosure to be sent”. The letter stated that “In that time Mr. Furlan will seek legal counsel in the form of a tax lawyer and be fully prepared for the next Tax Court appeal date.”
+[4] On that same day, the Campagnas filed a joint letter with the registry similarly requesting that their trials be adjourned for 120 days “to allow for full disclosure to be sent” to them. They stated that “In that time [they] will seek legal counsel in the form of a lawyer and be fully prepared for the next tax court appeal date.”
+[5] As case management judge for the GLGI group of appeals, I have previously issued timetable orders for Mr. Furlan’s appeal setting out the steps that the parties needed to complete before trial. Those steps included exchanging lists of documents and the opportunity for each side to conduct written examinations for discovery.
+[6] I issued similar timetable orders on the Campagnas’ appeals.
+[7] The steps in the timetable orders gave the Appellants plenty of opportunities to obtain disclosure in respect of their appeals from the Respondent. If they did not take advantage of those opportunities, it is too late to do so now.
+[8] The Appellants all signed joint requests for hearing in August 2023 in which they indicted that their appeals were ready for hearing. They have known about their trial dates since late 2023. It is far too late now to seek additional disclosure.
+[9] In addition, the materials that the Campagnas claim to want appear to have nothing to do with their tax disputes. Their request simply consists of a list of various “communications and information”. It makes no reference to the tax years in issue, the donations in issue, GLGI, or any of the transactions relating to GLGI. It contains several items that have nothing to do with tax and ultimately ends with an unfathomably wide request for “All things”.
+[10] Mr. Furlan’s request for adjournment does not specify what additional disclosure he is seeking.
+[11] Mr. Johnston asserts that Mr. Furlan “was unaware of the fact that a lawyer was representing the Canada Revenue Agency in this appeal”. This is a ludicrous assertion. The court file clearly shows that the Respondent sent Mr. Furlan a letter on May 20, 2022 telling him that Allan Mason had conduct of the file and advising him of Mr. Mason’s contact information. Mr. Mason signed the Reply and again repeated his contact information. Mr. Furlan signed a joint letter prepared by Mr. Mason that proposed litigation deadlines. The Respondent’s list of documents again contained Mr. Mason’s name and contact information. The Respondent served a motion on Mr. Furlan which again repeated Mr. Mason’s name and contact information. Mr. Furlan and Mr. Mason both attended a case management call that I held.
+[12] In June 2023, Rhoda Lemphers took over as counsel for the Respondent on Mr. Furlan’s appeal. Mr. Johnston asserts that Mr. Furlan was not aware that Rhoda Lemphers was counsel for the Respondent. Again, this is a ludicrous assertion. The court file clearly shows that the Respondent sent Mr. Furlan a letter advising him that Ms. Lemphers now had conduct of the appeal and advising him of her contact information. The joint application for a hearing date that Mr. Furlan signed contained Ms. Lemphers’ name, phone number, address and email.
+[13] Based on all of the foregoing, I find that Mr. Furlan was, at all times, fully aware of the fact that the Respondent was represented by counsel and who that counsel was. If he wanted to obtain additional disclosure, it was clear who he needed to speak to.
+[14] The Campagnas also inexplicably assert that they had no way of acquiring disclosure since they did not know that counsel for the Respondent was Rhoda Lemphers. That would be because Ms. Lemphers has never been counsel for the Respondent on the Campagnas’ appeals. Counsel for the Respondent on their appeals is, and has always been, Iris Kingston and Colin McArthur. Again, the court file shows that the Campagnas would have been well aware of that.
+[15] The Appellants also say that they would like adjournments so that they can hire lawyers. The Appellants have all had more than enough time to retain counsel if that was what they wanted. Instead they appear to have sought Mr. Johnston’s advice. While Mr. Johnston certainly has personal experience with the Canadian judicial system,[1] he is not the type of person (i.e. an accountant or lawyer) that I would expect taxpayers who truly wanted help with their appeals to seek advice from.
+Conclusion
+[16] On the basis of all of the foregoing, the Appellants’ adjournment requests are denied.
+Appeals Heard Together
+[17] The Campagnas have requested that their appeals be heard together on common evidence. I will grant that request. As it is unclear whether the Campagnas now expect that they will need one or two days for their trial, I will order that their appeals be heard starting on May 13, 2024 for a duration of one to two days.
+[18] Mr. Furlan’s appeal will remain on May 15, 2024 as scheduled.
+Representation
+[19] I would like to emphasize that taxpayers using the Tax Court’s general procedure can either represent themselves or be represented by a lawyer. Since Mr. Johnston is not a lawyer, he cannot represent the Appellants.
+Caution re: Organized Pseudo-Legal Commercial Arguments
+[20] The following paragraphs have nothing to do with my decision not to adjourn the Appellants’ appeals. I have included them out of concern for the Appellants.
+[21] Taxpayers sometimes rely on nonsensical arguments promoted online or by various individuals. These arguments are known as “organized pseudo-legal commercial arguments”.[2] The people who pursue them are known as “OPCA litigants”. OPCA litigants focus on baseless conspiracy theories with no legal merit and attempt to obstruct the Court’s processes through meaningless procedural steps.
+[22] None of the Appellants raised organized pseudo-legal commercial arguments in their notices of appeal.
+[23] I held a case management call with Mr. Furlan in May 2023. At no point in that call did he act in any way that suggested he was an OPCA litigant.
+[24] I held a similar case management call with Ms. Campagna in October 2022 and with the Campagnas in May 2023. At no point in those calls did they act in any way that suggested that they were OPCA litigants.
+[25] I have taken the time to write these additional paragraphs because there has been a change in the Appellants’ behaviour. It appears to me that the Appellants may be thinking about going down the path of organized pseudo-legal commercial arguments or may unwittingly be being led down that path. If that is the case, I want to alert them before it is too late.
+[26] The following are the reasons why I am concerned that they may be heading down that disastrous path:
+(a)The Campagnas’ purported requests for disclosure contain the following phrases in very large bold letters: “WITHOUT PREJUDICE FOI REQUEST” and “WITHOUT PREJUDICE DEMAND FOR FULL DISCLOSURE SECOND REQUEST”. OPCA litigants commonly make demands of third parties and misuse the legal term “without prejudice”.
+(b)The Campagnas’ purported requests for disclosure are addressed to Bob Hamilton, the Commissioner of the Canada Revenue Agency and threaten litigation against him personally if he fails to comply. Similarly, Mr. Johnston’s letter on Mr. Furlan’s appeal refers to sending two disclosure requests to Commissioner Hamilton. Sending demands of one sort or another to Commissioner Hamilton is a common, albeit totally unsuccessful, technique used by tax OPCA litigants.
+(c)Sending inappropriate demands to third parties and then insisting that their tax appeals be allowed or delayed due to the failure of those third parties to comply with their demands are the types of meaningless procedural steps that OPCA litigants will use to try to disrupt the Court’s normal processes.
+(d)The Appellants’ adjournment requests place inappropriate reliance on the Supreme Court of Canada’s decision in R. v. Stinchcombe.[3] OPCA litigants sometimes rely on Stinchcombe despite the fact that it dealt with Crown disclosure to defendants in criminal cases and has no application in the civil tax context.
+[27] I have set out all of the above because I felt that it was in the Appellants’ interest that I make them aware of what it appeared to me was happening. I hope that my concerns are unfounded, that the Appellants have no intention of making organized pseudo-legal commercial arguments at trial and that they will simply argue their appeals on the merits as their pleadings and previous actions have indicated they intended to do.
+Signed at Ottawa, Canada, this 10th day of May 2024.
+“David E. Graham”
+Graham J
+CITATION:
+2024 TCC 67
+COURT FILE NOs.:
+2021-2717(IT)G
+2022-203(IT)G 2022-636(IT)
+STYLES OF CAUSE:
+IRENE CAMPAGNA v. HIS MAJESTY THE KING
+FERNANDO CAMPAGNA v. HIS MAJESTY THE KING
+EDDY FURLAN v. HIS MAJESTY THE KING
+REASONS FOR ORDER BY:
+The Honourable Justice David E Graham
+DATE OF ORDER:
+May 10, 2024
+[1] See, for example, Paramount v. Kevin J. Johnston (2019 ONSC 2910) and Alberta Health Services v. Johnston (2023 ABKB 209).
+[2] See Meads v. Meads, 2012 ABQB 571.
+[3] [1991] 3 SCR 326.

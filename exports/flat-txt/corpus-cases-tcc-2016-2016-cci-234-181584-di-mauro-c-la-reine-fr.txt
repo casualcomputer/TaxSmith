@@ -1,0 +1,297 @@
+Title: Di Mauro c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/181584/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-234-181584-di-mauro-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-10-21
+
+# Di Mauro c. La Reine
+
+- Citation: 2016 CCI 234
+- Decision date: 2016-10-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2980, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Di Mauro c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-10-21
+Référence neutre
+2016 CCI 234
+Numéro de dossier
+2012-3399(IT)I, 2012-4035(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2012-3399(IT)I
+2012-4035(IT)G
+ENTRE :
+ALEXANDER DI MAURO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+Audience sur l’état de l’instance tenue le 23 août 2016, à Toronto (Ontario)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Rishma Bhimji
+ORDONNANCE
+Conformément aux motifs de l’ordonnance ci-joints, l’appelant paiera 50 $ au titre des dépens à chacun des sept autres appelants qui étaient présents en Cour lorsque son audience sur l’état de l’instance s’est tenue. Les dépens sont payables dans les 30 jours suivant la date de la présente ordonnance et doivent être versés à la Cour afin d’être remis aux appelants.
+Signé à Ottawa, Canada, ce 21e jour d’octobre 2016.
+« Patrick Boyle »
+Le juge Boyle
+Référence : 2016 CCI 234
+Date : 20161021
+Dossiers : 2012-3399(IT)I
+2012-4035(IT)G
+ENTRE :
+ALEXANDER DI MAURO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE]
+MOTIFS DE L’ORDONNANCE RELATIVE AUX DÉPENS
+Le juge Boyle
+[1] Les appels en matière fiscale interjetés par M. Di Mauro à l’égard de ses déclarations préparées par Fiscal Arbitrators ont fait l’objet d’une audience sur l’état de l’instance dans le cadre d’une gestion d’instance tenue à Toronto (Ontario), le 23 août 2016. Ce jour-là, une vingtaine de dossiers de Fiscal Arbitrators avaient été inscrits au rôle pour conférences préparatoires aux audiences ou audiences sur l’état de l’instance. Un certain nombre de contribuables se représentaient eux-mêmes, tandis que d’autres étaient représentés par avocat. M. Di Mauro se représentait lui-même. Bien qu’un seul de ses appels ait été inscrit au rôle pour une audience sur l’état de l’instance, il a présenté une demande conjointe à la Cour afin que soit également entendu son autre appel soumis à la procédure générale; cette demande conjointe a été accueillie.
+[2] La Cour a d’abord demandé à entendre les appels où personne ne comparaissait pour les appelants. Elle a ensuite demandé à entendre les appelants dont seuls des appels soumis à la procédure informelle étaient en instance. Elle a enfin demandé à entendre les appels où les parties avaient déjà convenu d’un échéancier quant à l’achèvement des étapes préparatoires à l’appel qui était prêt à être présenté à la Cour.
+[3] Par la suite, la Cour a demandé à entendre ensemble les huit appels qui restaient afin qu’une seule approche soit adoptée pour chacun. C’est à ce moment-là que les appels de M. Di Mauro ont été appelés, de même que les appels interjetés par les sept autres appelants. Un échéancier cible commun a d’abord été traité et établi, puis on a examiné et modifié l’échéance qui ne convenait pas aux appelants. Par la suite, les parties ont pu faire part de leurs préoccupations personnelles concernant la préparation de leurs appels pour l’instruction.
+[4] Au cours de cette étape finale, l’intimée a demandé à M. Di Mauro de bien vouloir confirmer officiellement que malgré ses avis d’appel déposés devant la Cour, il se limitait maintenant à interjeter appel de l’imposition des pénalités et se désistait de son appel portant sur la cotisation d’impôt qui refusait ses déductions demandées par Fiscal Arbitrators.
+[5] Ainsi, l’appelant devait simplement reconnaître qu’il avait déjà confirmé à la Cour d’appel fédérale le rétablissement de ses appels à l’encontre de la décision Di Mauro c. Canada, 2015 CAF 210, rejetée par notre Cour (Di Mauro v. The Queen, 25 octobre 2013, 2012-3399(IT)I et 2012-4035(IT)G), et confirmer que même s’il n’avait depuis apporté aucune autre modification à ses avis d’appel, il en appelait maintenant des pénalités imposées. L’intimée demandait à l’appelant de confirmer que même s’il n’avait apporté aucune modification à ses avis d’appel, il n’avait pas changé d’idée depuis la tenue de l’audience devant la Cour d’appel fédérale.
+[6] À la place, M. Di Mauro a plutôt choisi de faire perdre du temps à tous en agissant de manière égoïste et manipulatrice et en jouant au plus fin de façon suffisante et trompeuse. La transcription des parties pertinentes de ses propos échangés avec la Cour est jointe. Avant que l’avocate de l’intimée n’intervienne pour informer la Cour des instances engagées antérieurement devant la Cour d’appel fédérale, M. Di Mauro est allé jusqu’à déclarer catégoriquement à notre Cour qu’il n’avait jamais eu l’intention de limiter ses appels aux pénalités. M. Di Mauro s’est comporté de façon injustifiée, impolie et incompréhensible pendant au moins 20 minutes.
+[7] La Cour a le pouvoir d’adjuger des dépens à l’encontre d’une partie dont la conduite entraîne des délais inutiles. Il s’agit de l’une des considérations expressément énumérées à l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale).
+[8] La Cour a le pouvoir d’adjuger des dépens à l’encontre d’une partie qui exerce un recours abusif à la Cour. Voir notamment l’arrêt Fournier c. Canada, 2005 CAF 131, de la Cour d’appel fédérale. Il n’y a rien dans les motifs énoncés par la Cour d’appel fédérale dans les arrêts Brown c. Canada, 2014 CAF 301, ou Di Mauro c. Canada, 2015 CAF 210, qui permet aux appelants dont l’appel ne se rapporte qu’à des pénalités d’éviter d’être assujettis aux mêmes considérations s’ils exercent un recours abusif que n’importe quelle autre partie devant la Cour.
+[9] Il ne s’agit pas d’une affaire où un appelant a seulement fait perdre du temps à la Cour et à l’intimée. Les juges, les greffiers, les sténographes judiciaires et l’avocat du ministère de la Justice sont eux aussi tous payés pour se présenter en cour et écouter les prétentions d’un appelant. Dans une telle situation, la conduite de M. Di Mauro ne justifierait peut-être pas une adjudication des dépens à son encontre.
+[10] En l’espèce, par contre, M. Di Mauro a intentionnellement et à des fins personnelles fait perdre du temps à sept autres Canadiens dont les audiences sur l’état de l’instance étaient fixées en même temps. La conduite de M. Di Mauro ne pouvait faire avancer le règlement de ses appels, ni ne répondait à la question pour laquelle l’intimée avait demandé à la Cour d’obtenir une réponse ou des précisions de sa part. Les sept autres Canadiens avaient d’autres responsabilités et devaient vaquer à d’autres occupations. Ils avaient pris congé de leur travail ou avaient délaissé leurs activités, quelques-uns avaient rémunéré leur avocat pour qu’il assiste à l’audience, certains avaient sans aucun doute payé des frais de garde et d’autres s’étaient acquittés des frais de stationnement facturés à la demi-heure dans le quartier financier du centre-ville de Toronto.
+[11] Au nom de la Cour, je tiens à présenter mes excuses à ces appelants.
+[12] La Cour a également le pouvoir d’ordonner que des dépens soient versés par ou à toute personne n’étant pas partie au présent appel. Voir, par exemple, la décision Mariano c. La Reine, 2016 CCI 161, rendue par le juge Pizzitelli. Je suis convaincu que la présente affaire se prête à ce que les dépens adjugés à l’encontre de M. Di Mauro soient versés non pas à l’autre partie, mais à chacun des autres appelants dont les audiences étaient fixées et devaient être entendues au même moment.
+[13] M. Di Mauro sera condamné à payer des dépens de 50 $ à chacun des sept autres appelants. Ces dépens, qui s’élèvent à 350 $, doivent être payés dans les 30 jours. Les autres appelants visés sont :
+- Angela Stanley v. The Queen, 2014-4029(IT)I, 2012-3678(IT)G;
+- Timothy Stanley v. The Queen, 2012-3565(IT)G;
+- Marc Dupéré v. The Queen, 2011-2367(IT)G;
+- Janet Frez v. The Queen, 2014-3865(IT)G;
+- Yongwoo Kim v. The Queen, 2011-4095(IT)G, 2012-4057(IT)G;
+- Layton Plummer v. The Queen, 2014-697(IT)G;
+- Barbara Adjei v. The Queen, 2013-1340(IT)I.
+[14] Le montant total de 350 $ doit être payé à la Cour afin d’être remis aux appelants susmentionnés. La Cour dispose de leurs coordonnées, contrairement à M. Di Mauro.
+Signé à Ottawa, Canada, ce 21e jour d’octobre 2016.
+« Patrick Boyle »
+Le juge Boyle
+Transcription des parties pertinentes des propos de M. Di Mauro échangés avec la Cour au cours de l’audience tenue le 23 août 2016
+[...]
+LE JUGE BOYLE : Puis-je faire autre chose ce matin pour aider à faire avancer le présent dossier ou pour vous aider à comprendre en quoi il consiste?
+Me BHIMJI : Puis-je?
+LE JUGE BOYLE : Oui.
+Me BHIMJI : En ce qui concerne l’appel interjeté par M. Di Mauro, puis‑je clarifier aux fins du dossier en quoi consiste exactement la question en litige, à savoir est-ce que seule la pénalité est visée, ou les pertes d’entreprise également?
+LE JUGE BOYLE : La question est de savoir si vous pouvez demander à ce que cela soit clarifié? Ou si vous pouvez me dire.... me fournir des précisions?
+Me BHIMJI : Je vous demande si cette question peut être clarifiée pour la Cour, par les appelants, si ces derniers peuvent l’indiquer au dossier.
+LE JUGE BOYLE : D’accord. M. Di Mauro?
+M. DI MAURO : C’est déjà indiqué au dossier, n’est-ce pas? Ce n’est pas indiqué au dossier?
+Me BHIMJI : Ce n’est pas...
+M. DI MAURO : Je ne comprends pas exactement ce que vous souhaitez que je clarifie.
+LE JUGE BOYLE : Je vous demande pardon?
+M. DI MAURO : Je ne sais pas trop ce qu’elle... ce... ce que l’intimée souhaite que je clarifie. Je...
+LE JUGE BOYLE : Votre appel porte-t-il seulement sur les pénalités imposées, ou également sur le rejet de votre demande concernant la déduction fiscale et le remboursement?
+M. DI MAURO : Eh bien, puisque vous me posez cette question maintenant...
+LE JUGE BOYLE : Je ne vous pose pas cette question.
+M. DI MAURO : Oh, pardon.
+LE JUGE BOYLE : Vous m’avez demandé de préciser ce qu’elle vous demandait.
+M. DI MAURO : Oui. Au départ, j’interjetais appel de ce qui a entraîné les pénalités.
+LE JUGE BOYLE : C’est exact.
+M. DI MAURO : D’accord? Pourriez-vous clarifier ce qui suit, M. le juge : si la Cour est saisie d’une affaire portant sur des pénalités, cela signifie-t-il que l’avis de cotisation a partiellement été accepté? En fait, je ne comprends pas très bien l’objectif de limiter l’appel aux pénalités. S’agit-il en réalité d’une procédure de fractionnement de... une procédure limitée?
+LE JUGE BOYLE : Oh, il s’agirait très bien d’une procédure limitée.
+M. DI MAURO : Je vous demande pardon?
+LE JUGE BOYLE : Donc... il s’agirait très bien d’une procédure limitée. Par conséquent, je ne retirerai pas votre avis d’appel et je ne l’examinerai pas, mais je considère que vous vous opposez, de façon intentionnelle ou ambiguë, à la nouvelle cotisation d’impôt et à la pénalité imposée.
+M. DI MAURO : Oui.
+LE JUGE BOYLE : Et si votre appel ne porte que sur... sur la question dont fait l’objet votre appel, le reste de l’avis de cotisation est exact.
+M. DI MAURO : Je vois.
+LE JUGE BOYLE : Donc, si au départ votre appel ne portait que sur la pénalité, ou que votre appel s’y limite maintenant, vous acceptez la nouvelle cotisation relative à la déduction fiscale.
+M. DI MAURO : Je n’en ai jamais eu l’intention.
+LE JUGE BOYLE : D’accord.
+M. DI MAURO : En ce qui concerne mes pénalités, puisque le fardeau de la preuve s’y rapportant incombe au ministre, j’estime que c’est à ce dernier de produire des documents à l’appui des pénalités et des éléments de preuve à leur égard.
+LE JUGE BOYLE : C’est exact.
+M. DI MAURO : Autrement dit, nous...
+LE JUGE BOYLE : Mais si vous vous opposez aux deux questions, il vous incombe alors...
+M. DI MAURO : Puis-je terminer, M. le juge?
+LE JUGE BOYLE : Oui, certainement.
+M. DI MAURO : Il incomberait au ministre de produire la preuve à l’appui des pénalités et, par conséquent, de préciser les motifs pour lesquels elles ont été imposées. De plus, toutes les dispositions de la loi que j’ai consultées font référence à une fausse déclaration et à ce qui donne lieu à celle-ci.
+Ma suggestion est donc que je ne me limite pas l’appel à l’aspect pécuniaire de l’avis de cotisation, mais plutôt à ce qui a entraîné celle-ci en premier lieu. D’une certaine manière, l’intimée présente en fait la question de la perte d’entreprise devant la Cour, car si elle ne peut pas... et je ne veux pas me limiter à cette question. Compte tenu des renseignements que j’ai examinés récemment, je suis dans les faits préparé à... En réalité, je suis prêt à défendre les deux questions à ce stade-ci.
+Ainsi, s’il s’agit d’un aspect limité des pénalités...
+LE JUGE BOYLE : Je ne suis pas certain de bien comprendre ce que vous voulez dire par aspect limité des pénalités.
+M. DI MAURO : D’accord. Sur...
+LE JUGE BOYLE : J’ai du mal à comprendre.
+M. DI MAURO : D’accord. Permettez-moi d’attirer votre attention sur... un avis de cotisation contient des montants. L’un d’eux constituerait les pénalités.
+LE JUGE BOYLE : D’accord.
+M. DI MAURO : Si l’on considère les chiffres d’un point de vue littéral, le montant de la pénalité en lui-même indiquerait à l’intimée qu’il existe en quelque sorte un accord quant à la partie restante de la cotisation, à savoir l’autre partie pécuniaire de celle-ci.
+Par contre, si nous élargissons la portée de l’opposition quant aux pénalités, c’est-à-dire que si vous ne pouvez pas produire la... Ce que je veux dire, c’est que si vous ne pouvez pas produire la preuve, vous acquitter du fardeau de... si vous ne pouvez pas vous acquitter du fardeau de la preuve à l’égard des pénalités, alors cela doit vouloir dire que la déclaration initiale était exacte.
+LE JUGE BOYLE : Non.
+M. DI MAURO : C’est tout ce que je...
+LE JUGE BOYLE : Vois? Sur ce point, vous avez complètement tort, monsieur.
+M. DI MAURO : D’accord.
+LE JUGE BOYLE : D’accord?
+M. DI MAURO : Bien, c’est ce que je voulais clarifier.
+LE JUGE BOYLE : D’accord.
+M. DI MAURO : Parce que...
+LE JUGE BOYLE : C’est...
+M. DI MAURO :... tout, toute cette question au sujet des pénalités me laisse perplexe, par conséquent, puisqu’il semble que nous mettions l’accent sur l’aspect financier...
+LE JUGE BOYLE : Non, non. Non, nous...
+M. DI MAURO : D’accord.
+LE JUGE BOYLE : Et s’il vous plaît, permettez-moi de fournir des précisions.
+M. DI MAURO : D’accord.
+LE JUGE BOYLE : Certaines choses sont très simples, alors que d’autres facteurs viennent compliquer la situation. En bref, une pénalité est fixée séparément de l’impôt. Ainsi, ils refusent votre déduction d’impôt.
+M. DI MAURO : Oui.
+LE JUGE BOYLE : Et par la suite, ils prennent la décision d’imposer ou non une pénalité également. Ils n’imposent une pénalité que lorsqu’ils estiment pouvoir établir que vous avez fait une présentation erronée des faits dans votre déclaration constituant une faute lourde, sinon une négligence volontaire. Il s’agit de ce qu’on appelle une pénalité pour faute lourde. Ils doivent établir cela; ils le savent lorsqu’ils imposent une pénalité.
+Toutefois, même s’ils n’imposent aucune pénalité, ou si la Cour décide que vous n’avez commis aucune faute lourde, mais plutôt une faute modérée ou raisonnable, ou que vous avez agi raisonnablement en faisant une déclaration inexacte, vous n’obtenez pas pour autant le montant d’impôt que vous vouliez.
+Par conséquent, il existe deux questions distinctes. Ainsi, l’avis de cotisation indique un montant, appelons-le montant d’impôt, qui annule la déduction que vous avez demandée.
+M. DI MAURO : En effet...
+LE JUGE BOYLE : Il indique les intérêts accumulés en date de l’avis de cotisation ainsi que le montant de la pénalité imposée, le cas échéant. Le fardeau de la preuve vous incombe si vous souhaitez contester le montant d’impôt ou les intérêts, alors qu’il incombe à la Couronne en ce qui concerne les pénalités.
+Par conséquent, si vous contestez... si la Cour décide finalement que la pénalité imposée n’est pas appropriée, cela ne signifie pas pour autant que vous obtenez la déduction d’impôt demandée.
+En réalité, ce qui vient compliquer la situation, c’est le fait que le fardeau de la preuve quant à la déduction d’impôt demandé incombe au contribuable; si ce dernier croit réellement qu’il a droit à cette déduction, il doit essentiellement prendre les devants et en fournir la preuve, ce qui laisse... ce qui peut lui être d’aucune utilité pour ce qui est de démontrer s’il a commis ou non une faute lourde en ce qui concerne la pénalité.
+M. DI MAURO : En effet...
+LE JUGE BOYLE : Si votre contestation se limite à la pénalité, et ne concerne pas le montant d’impôt...
+M. DI MAURO : C’est exact.
+LE JUGE BOYLE :... vous n’avez pas à prendre les devants, puisque le fardeau ne vous incombe pas. Vous devez tout de même répondre aux questions posées lors de l’interrogatoire préalable, sous serment. Vous pourriez tout de même être assigné à comparaître, être cité comme témoin, mais le fardeau de la preuve ne vous incombe pas en premier.
+Toutefois, si vous contestez le montant d’impôt, le contribuable doit alors invariablement prendre les devants, puisque si vous pouvez convaincre le juge de votre droit à la déduction fiscale, la question de la pénalité n’aura pas à être abordée devant la Cour.
+M. DI MAURO : C’est exact.
+LE JUGE BOYLE : La Couronne s’est gravement trompée.
+M. DI MAURO : D’accord. Il existe deux affaires, dont l’une est soumise à la procédure informelle. Elle ne se rapporte qu’aux pénalités. Par conséquent, en ce qui la concerne, je m’en tiendrai aux pénalités, puisque le montant d’impôt a déjà été payé.
+LE JUGE BOYLE : D’accord.
+M. DI MAURO : C’est bien. Et bien que j’aie tenté de la retirer, il y a longtemps déjà, ils ont refusé, donc...
+Donc sur ce point, je m’en tiens aux pénalités. Mais pour ce qui est de...
+LE JUGE BOYLE : Je vous demande pardon? Vous avez tenté de vous désister de cette affaire et ils ont refusé? Qui a refusé? C’est la Cour qui ne vous a pas permis de retirer votre procédure informelle?
+M. DI MAURO : L’Agence du revenu du Canada ne voulait pas la retirer; elle a en fait envoyé un... elle s’appuyait sur un redressement d’impôt remontant à mille neuf cent quatre-vingt-...
+LE JUGE BOYLE : D’accord. Donc il s’agissait plutôt d’une discussion sur le règlement...
+M. DI MAURO : Pour qu’une discussion sur le règlement...
+LE JUGE BOYLE :...et non pas d’un retrait pur et simple de votre part?
+M. DI MAURO : Eh bien, il s’agissait d’un retrait pur et simple, puisque j’avais présenté quelques autres...
+LE JUGE BOYLE : Seulement si l’Agence du revenu du Canada a fait quelque chose.
+M. DI MAURO : Oui. Non, j’avais présenté...
+LE JUGE BOYLE : Donc il ne s’agissait pas d’un retrait pur et simple, n’est-ce pas?
+M. DI MAURO : J’avais présenté une demande de rajustement, et l’Agence du revenu du Canada a déclaré « [o]n ne l’accepte pas ».
+LE JUGE BOYLE : D’accord.
+M. DI MAURO : « On va t’imposer une pénalité. »
+LE JUGE BOYLE : D’accord.
+M. DI MAURO : C’est alors que je leur ai dit : « Pourquoi ne pas la retirer? Je ne vois pas quel est le problème, n’est-ce pas? » Le montant d’impôt avait déjà été payé. Et c’est pour cette raison que nous sommes ici, au sujet de cette affaire. Ainsi, je m’en tiendrai aux pénalités en ce qui concerne cette affaire.
+LE JUGE BOYLE : D’accord. Donc, à propos de la procédure informelle...
+M. DI MAURO : La procédure informelle...
+LE JUGE BOYLE :... Elle ne se rapporte qu’aux pénalités.
+M. DI MAURO : Seulement aux pénalités.
+LE JUGE BOYLE : D’accord. Et qu’en est-il de votre procédure générale?
+M. DI MAURO : En ce qui concerne la procédure générale, j’aimerais que la question des pertes soit soulevée devant la Cour.
+LE JUGE BOYLE : D’accord. Permettez-moi simplement de...
+M. DI MAURO : La déduction.
+LE JUGE BOYLE :... Sortir votre...
+M. DI MAURO : La déduction des dépenses, peu importe.
+LE JUGE BOYLE :... dossier, M. Di Mauro. J’ai donc...
+M. DI MAURO : C’est vraiment ce que je souhaite faire.
+LE JUGE BOYLE : Vous avez votre dossier lié à la procédure générale... et j’en ai deux, mais ils sont.... non, non, ils concernent tous les deux la même... la procédure informelle. Et la présente procédure générale se rapporte-t-elle à l’instance que nous n’avons pas encore fixée?
+M. DI MAURO : Elle concerne l’instance que vous n’avez pas encore fixée, oui.
+LE JUGE BOYLE : D’accord. Donc convenez-vous d’aborder cette question et de la régler préalablement à l’instance?
+M. DI MAURO : Oui.
+LE JUGE BOYLE : D’accord, parfait.
+M. DI MAURO : Oui.
+LE JUGE BOYLE : Je ne sais pas pourquoi cette instance n’a pas été fixée, mais je crois que cela signifie que je n’ai pas le dossier à ma disposition et vous ne l’avez pas ici non plus.
+Est-ce que l’un de vous dispose d’une copie de l’avis d’appel que je pourrais examiner, à cet égard? Et la greffière peut-elle simplement appeler l’affaire afin que nous l’instruisions en bonne et due forme?
+Me BHIMJI : Non, nous n’avons que le dossier lié à la procédure informelle avec nous, puisque je n’ai pensé qu’à la procédure générale ce matin.
+LE JUGE BOYLE : D’accord.
+Me BHIMJI : Je suis désolée.
+LE JUGE BOYLE : Connaissons-nous le numéro du dossier? D’accord.
+Me BHIMJI : J’ai le numéro de dossier, oui.
+LE JUGE BOYLE : D’accord. Donc nous pouvons l’appeler, dans ce cas.
+LA GREFFIÈRE : D’accord. La Cour appelle le dossier nº 2012‑4035(IT)G, dans l’affaire opposant Alexander Di Mauro, l’appelant, et Sa Majesté la Reine, l’intimée. L’appelant comparaît pour lui-même et l’intimée est représentée par Me Rishma Bhimji.
+LE JUGE BOYLE : Merci. Donc nous discutons officiellement de la procédure informelle et de la procédure générale.
+M. DI MAURO : Et je vous suis vraiment reconnaissant M. le juge de clarifier le processus. Donc...
+LE JUGE BOYLE : Avez-vous votre avis d’appel concernant votre procédure générale avec vous? Non? D’accord.
+M. DI MAURO : Non, je n’ai rien apporté, puisque je...
+LE JUGE BOYLE : D’accord.
+M. DI MAURO : Les choses sont un peu confuses.
+LE JUGE BOYLE : Me Bhimji?
+M. DI MAURO : Je m’attendais simplement à avoir les dates aujourd’hui.
+LE JUGE BOYLE : Non, ça va. Me Bhimji?
+Me BHIMJI : Si je peux me permettre, je voulais simplement... donc je souhaitais clarifier cette question pour la Cour parce que nous avons déjà eu à la clarifier auparavant; l’affaire a été entendue devant la Cour d’appel fédérale, et nous sommes de retour. Et nous en arrivons...
+LE JUGE BOYLE : Est-ce que j’ai déjà traité ce dossier? Le nom me semble familier, c’est tout, mais...
+Me BHIMJI : Alexander Di Mauro...
+LE JUGE BOYLE :... Ça pourrait simplement être...
+Me BHIMJI : Non. Ce dossier?
+LE JUGE BOYLE : D’accord.
+ME BHIMJI : Non... non. Vous n’avez jamais traité ce dossier.
+LE JUGE BOYLE : D’accord.
+Me BHIMJI : Nous ne nous sommes pas présentés devant vous. Cependant, je souhaitais vous faire part de l’arrêt rendu par la Cour d’appel fédérale afin que vous puissiez l’examiner.
+LE JUGE BOYLE : Dans la présente affaire relevant de la procédure générale?
+Me BHIMJI : Les deux. L’affaire concernait la procédure informelle et la procédure générale.
+LE JUGE BOYLE : Donc, à la lecture de l’arrêt rendu par la Cour d’appel fédérale, je constate que le juge Webb mentionne :
+« L’appelant a confirmé à l’audition du présent appel qu’il limite maintenant son appel à la radiation des passages de ses avis d’appel [...] »
+... donc dans les deux...
+« [...] qui portent sur l’imposition de pénalités en vertu du paragraphe 163(2) de la Loi. »
+[...]
+Par conséquent, selon ce qui est indiqué, la Cour d’appel a rétabli les appels concernant la radiation antérieure de vos appels. Donc elle ne les a rétablis que parce que vous lui avez affirmé que vous limitiez vos deux appels aux pénalités imposées.
+M. DI MAURO : Bien, c’est pour cette raison que je comprenais mal la position de l’intimée en ce qui concerne la clarification de ce que je souhaitais. C’est... pour ma part, il m’a semblé qu’il me restait toujours une option...
+LE JUGE BOYLE : Alors, expliquez-moi la raison pour laquelle vous jouiez au plus fin avec moi...
+M. DI MAURO : Ce n’est pas le cas, monsieur.
+LE JUGE BOYLE :... et avec tout le monde depuis 30 minutes, monsieur?
+M. DI MAURO : Je... Ce n’est pas le cas, M. le juge. Je ne joue pas au plus fin. Elle...
+LE JUGE BOYLE : Non. La question était très claire...
+M. DI MAURO : Oui.
+LE JUGE BOYLE :... La question posée par Me Bhimji...
+M. DI MAURO : Oui.
+LE JUGE BOYLE :... et vous avez d’abord répondu en posant la question de pure forme suivante : « J’ai déjà répondu à cette question, pourquoi dois-je y répondre? » Je vous ai cru sur parole tout en faisant fi de l’évidente question de pure forme, de sorte que nous avons tourné autour du pot pendant 20 minutes, monsieur, pour que finalement, vous déclariez : « Bien sûr que je savais que j’avais fait cela. C’est pour cette raison que j’ai affirmé dès le départ que je ne comprenais pas la question. »
+M. DI MAURO : Je ne comprends pas...
+LE JUGE BOYLE : Vraiment?
+M. DI MAURO :... la raison pour laquelle vous êtes fâché contre moi.
+LE JUGE BOYLE : Oui, je suis fâché.
+M. DI MAURO : Mais c’est elle qui l’a soulevée. Me Bhimji a soulevé...
+LE JUGE BOYLE : Non, Me Bhimji avait une question...
+M. DI MAURO : Qu’elle me demandait de clarifier...
+LE JUGE BOYLE :... à laquelle vous avez répondu par une question de pure forme. Je vous ai donné le bénéfice du doute et j’ai tenu pour acquis que vous ne vous comporteriez pas ainsi, M. Di Mauro, car je donne à tous les Canadiens le bénéfice du doute, même à ceux qui se sont déjà présentés devant moi auparavant.
+M. DI MAURO : Mais...
+LE JUGE BOYLE : Tout le monde peut se lever un jour et être métamorphosé.
+M. DI MAURO : M. le juge, je n’avais pas l’intention de... vous savez, de...
+LE JUGE BOYLE : Bien, mettons fin à cette affaire...
+M. DI MAURO :... de vexer la Cour.
+LE JUGE BOYLE :... dès maintenant.
+M. DI MAURO : Que...
+LE JUGE BOYLE : Je ne pense pas à moi, mais plutôt aux nombreux Canadiens qui ont mieux à faire que d’écouter toutes ces bêtises. C’est à eux que je pense, monsieur. En ce qui concerne la greffière, Me Bhimji et moi-même, il s’agit de notre travail. Par contre, il y a dans la salle des Canadiens qui ont d’autres occupations, à savoir prendre soin de leurs enfants, exercer un emploi, diriger une entreprise et probablement vous fournir des services, parfois. Et vous n’avez aucun respect pour eux.
+Donc...
+M. DI MAURO : Puis-je...
+LE JUGE BOYLE :... Voulez-vous ajouter autre chose Me Bhimji? Car de toute évidence, il ne fait aucun doute que les appels de M. Di Mauro ont été restreints et que c’est pour cette unique raison qu’ils ne sont pas réglés.
+Me BHIMJI : Non.
+LE JUGE BOYLE : D’accord.
+ME BHIMJI : Je n’ai rien à ajouter.
+[...]
+RÉFÉRENCE :
+2016 CCI 234
+NOS DES DOSSIERS DE LA COUR :
+2012-3399(IT)I, 2012-4035(IT)G
+INTITULÉ :
+ALEXANDER DI MAURO c. LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 23 août 2016
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE :
+Le 21 octobre 2016
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Rishma Bhimji
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

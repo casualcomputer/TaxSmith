@@ -1,0 +1,134 @@
+---
+title: "Mark v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26850/index.do"
+last_modified: "2006-01-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 35"
+citation2: ""
+neutral_citation: "2006 TCC 35"
+decision_date: "2006-01-19"
+language: "en"
+item_id: "26850"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 656
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:25:09.664000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "02edcdaa24b49e10462ded2627487b7d496fb1e36ff1413b939ef0c4b1fe47bd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mark v. The Queen
+
+- Citation: 2006 TCC 35
+- Decision date: 2006-01-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 656, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mark v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-19
+Neutral citation
+2006 TCC 35
+File numbers
+2001-2007(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC35
+Date: 20060119
+Docket: 2001-2007(IT)G
+BETWEEN:
+HENRY MARK,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+For the Appellant: The Appellant himself Counsel for the Respondent: Carol Calabrese
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at
+Toronto, Ontario, on February 5, 2004)
+McArthur J.
+[1] The Appellant appeals from assessments issued by the Minister of National Revenue increasing his business income by $120,000 and $5,000 in the 1993 and 1994 taxation years, respectively, and from the disallowance of expenses of approximately $50,000 in 1993. Additionally, the Minister imposed a federal penalty in 1993, pursuant to subsection 163(2) of the Income Tax Act, in the amount of $23,297.
+[2] The Appellant emigrated to Canada from China in 1969 when he was 20 years old. He worked in restaurants until 1991 or 1992, and then opened an herbal-products resale business at 793 Dundas Street West, in Toronto. In addition to his herbal business, he received $60,000 from Manny Fashion Contractors Inc. by cheque dated January 21, 1993, and a further $60,000 from Ling May Fashion by cheque dated December 28, 1993. I will refer to these corporations as "Fashion". These amounts are described as royalty payments for sewing contracts with Alfred Sung Clothing, which the Appellant obtained for the two Fashion corporations. Both amounts, totalling $120,000, were added to the Appellant's 1993 business income.
+[3] I accept the Appellant's evidence that he worked very hard to earn these payments, and that the $60,000 paid to him in January 1993 was for services rendered in 1992. He testified that he reported this amount in his 1992 income tax return, commingled with his herbal-business income.
+[4] The Appellant presented his own appeal. A Cantonese-English interpreter was provided by the Court to translate for the Appellant, although he did at times express himself ably in English.
+[5] I have no difficulty accepting his evidence that the January 21, 1993 payment was for services rendered in 1992. Counsel for the Respondent also accepted that the first $60,000 in 1993 was for services rendered in 1992, and that it was not to be included in his 1993 income. I make no decision as to whether the amount was included in his 1992 income, as was a $25,000 amount from Fashion included in his income in 1991. That was not before me.
+[6] There was an oral agreement between the Appellant and Fashion that he would receive money based on sales of Fashion, relating to their contract with Alfred Sung. Obviously, this calculation could not have been made for sales during the first three weeks of January 1993. It is more reasonable and evident to conclude that it was for the 1992 fiscal year. It was business income which was earned in 1992, and on the accrual basis, to be included in that business income for 1992. The Appellant states that it was, in fact, included in his 1992 income. The 1992 taxation year is not before the Court, and I am in no position to deal with it.
+[7] The question for the 1993 taxation year is whether the December 28, 1993 Fashion cheque should be added to the Appellant's 1993 business income, and whether the loss incurred from the Appellant's herbal inventory was $65,000, as represented by the Appellant, or $15,150 as represented by the Minister, or somewhere in between.
+[8] Stefan Miskovsky, an investigator with Canada Customs and Revenue Agency, testified on the Minister's behalf. For the reasons that follow, I accept his evidence, and find that the Appellant understated his income by $60,000 in 1993, and that the inventory business loss suffered by the Appellant in that year was $15,150 as allowed by the Minister, and not the $65,000 as claimed.
+[9] The Appellant's pleadings were prepared on his behalf by a friend who was present in Court during the hearing, and who was fluent in both English and Cantonese. Although invited to testify, she did not, yet she coached the Appellant from the sidelines. The Appellant was given the freedom to advance his position without procedural interruption.
+[10] While his evidence was at times confusing, for the most part he represented his arguments coherently. He unwaveringly maintained that the $60,000 in December 1993 was included with his herbal-business income in his 1993 return. In that return, he was described as an herbalist, and reported gross sales of $72,541. He maintains that $60,000 of this was from Fashion, and approximately $12,500 from the sale of herbs.
+[11] The following figures are taken from his 1993 return, and specifically, statement of income contained in Exhibit R-1, Tab 2. Gross sales reported were $72,541. From this, I deduct the $60,000 from Fashion, leaving $12,500 for the sale of his herbal products, for which his return indicates he paid $73,700. To accept the Appellant's position, I would have to find that he sold $73,700 of his herbal-related products for $12,500. As Mr. Miskovsky said, "unbelievable", and I agree. The Appellant offered no explanation, other than that the business was poor, partly because he was situated in a Portuguese-populated area, rather than in Chinatown, and he was running two businesses by himself. He did not suggest he sold his products at a loss.
+[12] There was no reference in his 1993 return to the Fashion $60,000. I find the Appellant failed to report this amount in income in 1993 which was received from Ling May Fashion, by cheque dated December 28, 1993.
+[13] I will now deal with the expense for loss of inventory in 1993. The Appellant claimed $65,000. The Minister allowed $15,150, which is the amount the Appellant calculated for the police, in the preparation of their report, immediately after the break and enter. On October 30, 1993, the Appellant's herbal store was broken into. Some stock-in-trade and personal items were stolen. The police report made on the day of the break-in, was completed with information provided by the Appellant and indicated $15,150 in inventory loss.
+[14] The Appellant did not provide any documents, nor bank statements, etc., to substantiate his later amount claimed of $65,000. He was unable to provide invoices to substantiate the inventory loss. He stated his 1993 return was prepared by a friend, Mr. Yung (phonetic), who now resides in Hong Kong. Invoices provided to substantiate a $65,000 figure were, for the most part, for 1992, except for one dated October 9, 1993 for US$15,470. The unsold items purchased in 1992 amounted to $8,000, as reflected in the ending inventory as of December 31, 1992. The invoices, again, do not support $65,000. I accept the Minister's position that the more reasonable amount is that contained in the police report of $15,150.
+[15] Now turning to the $5,000 in the 1994 taxation year, the Appellant agrees with the assumption of fact contained in the Minister's Reply to the Notice of Appeal to the effect that the Appellant had an insurance policy with Dominion of Canada General Insurance. This policy included a crime rider, with a maximum limit of $5,000 for stolen inventory and the Appellant did in fact receive insurance proceeds of $5,000 from the insurance company. The Appellant was not able to refute the Minister's assumption that he failed to include the insurance proceeds in his 1994 income, and therefore, I accept the Minister's position that in fact it was not included.
+[16] Now turning to the question of penalties, subsection 163(2) of the Income Tax Act reads:
+163(2) Every person who knowingly or under circumstances amounting to gross negligence in carrying out of any duty or obligation imposed by or under this Act has made or participated in, assented to, or acquiesced in the making of a false statement or admission in a return, form, certificate, statement, or answer, filed or made in respect of a taxation year as required, is liable to a penalty.
+The Minister relied on Mr. Miskovsky's determination. In his report filed as Tab 12 of Exhibit R-1, he concluded that the Appellant met the criteria under subsection 163(2), and was liable for penalty. The Appellant's 1993 reporting of his income was far from being accurate. He kept no apparent records to assist his position. He blames the inaccuracies on the preparer of his returns, and states in his Notice of Appeal:
+As I had been suffering from major deficits, I could not afford to hire any representative to complete my returns on my behalf. This is unfortunately another mistake. Because I cannot read/write in English, I asked a friend who was then an accounting student and a relative to complete the return for me in 1992 to 1994. However, now I know that the help I had from the friend and relative was far from "professional". Various errors since were noted in the Return. Appendix "C" compares the information from the Returns filed and what the amounts that should be completed properly. Please note that some expenses were not deducted e.g. property tax, legal fees, etc.
+He presented no evidence to support the above, other than that Mr. Yung who prepared his returns, was no longer in Canada. There is no doubt that his English reading skills are limited.
+[17] Counsel for the Respondent referred to the decision of the Federal Court Trial Division in Venne v. Canada, [1984] F.C.J. 314, and the comments of Strayer J. as follows:
+... Further it is hard to believe that he was consciously and effectively supervising his bookkeepers since a number of the errors made in his returns were to his disadvantage, even though more of them were to his advantage. I am therefore not able to conclude that the misstatements in the returns were made 'knowingly' by the plaintiff.
+With respect to the possibility of gross negligence, I have with some difficulty come to the conclusion that this has not been established either. 'Gross negligence' must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. I do not find that high degree of negligence in connection with the misstatements of business income. To be sure, the plaintiff did not exercise the care of a reasonable man and ... should have at least reviewed his tax returns before signing them. A reasonable man in doing so, having regard to other information available to him, would have been led to believe that something was amiss and would have pursued the matter further with his bookkeeper.
+[18] I find the above decision helpful in the present situation, and it applies equally to the facts in this case. Here we have a taxpayer whose herbal business was failing. He suffered a serious break-in and theft of substantial product, and he lacked the English communicating skills to defend himself by fully articulating his thoughts and position. He relied on a friend to prepare his returns.
+[19] While it is close to the line, I conclude that the Minister has not satisfied the onus of establishing gross negligence, and has not satisfied me that the Appellant intentionally did not declare $60,000 in 1993. This is not inconsistent with the earlier finding that he did not declare the $60,000 in that he was restricted or limited in his ability to understand his income tax returns, and relied on others to prepare them for him. I give him the benefit of the doubt.
+[20] The appeal is allowed and returned to the Minister for reconsideration and reassessment on the basis that the Appellant understated his income from business by the amounts of $60,000 in 1993, and $5,000 in 1994. Also, the Appellant is not entitled to deduct expenses for loss of inventory in excess of $15,150 allowed by the Minister for the break-in to the store in the 1993 taxation year. In addition, no penalties are to be assessed in the 1993 taxation year.
+Signed at Ottawa, Canada, this 19th day of January, 2006.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2006TCC35
+COURT FILE NO.:
+2001-2007(IT)G
+STYLE OF CAUSE:
+Henry Mark and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 4, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+February 11, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Carol Calabrese
+COUNSEL OF RECORD:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

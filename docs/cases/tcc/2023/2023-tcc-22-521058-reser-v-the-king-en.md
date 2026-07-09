@@ -1,0 +1,228 @@
+---
+title: "Reser v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521058/index.do"
+last_modified: "2023-02-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 22"
+citation2: ""
+neutral_citation: "2023 TCC 22"
+decision_date: "2023-02-13"
+language: "en"
+item_id: "521058"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5788
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:51:40.487000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "53f8f914bbae88ead6701e52b77c64da150d4b56184f94154dd6289036b59fce"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Reser v. The King
+
+- Citation: 2023 TCC 22
+- Decision date: 2023-02-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5788, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Reser v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-02-13
+Neutral citation
+2023 TCC 22
+File numbers
+2019-3821(IT)I, 2019-3850(IT)I
+Judges and Taxing Officers
+Joanna Hill
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-3821(IT)I
+BETWEEN:
+VIVIANA RESER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on common evidence with the appeal of Clarence Reser – 2019-3850(IT)I on September 15, 2022, at Victoria, British Columbia.
+Before: The Honourable Justice Joanna Hill
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Tawni Proctor
+JUDGMENT
+The appeal from the Notice of Redetermination dated August 3, 2018 with respect to the Appellant’s entitlement to the GST credit for the payment periods from July 1, 2018 to June 30, 2019 is allowed, without costs. The matter is referred back to the Minister of National Revenue for reconsideration and redetermination on the basis that the Appellant had non-resident income of $45,000 in the 2017 taxation year.
+Signed at Ottawa, Ontario, this 13th day of February 2023.
+“Joanna Hill”
+Hill J.
+Citation: 2023 TCC 22
+Date: 20230213
+Docket: 2019-3821(IT)I
+BETWEEN:
+VIVIANA RESER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Docket: 2019-3850(IT)I
+AND BETWEEN:
+CLARENCE RESER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Hill J.
+I. Introduction
+[1] The fundamental issue in these appeals is whether Viviana Reser’s income earned outside of Canada while she and her husband, Clarence Reser, were separated can be used to establish their respective entitlements to the GST credit for payment periods after they reconciled.
+[2] The appeals were heard together on common evidence provided through the testimony of Mr. and Mrs. Reser. I found them to be credible and reliable witnesses who did not dispute the key, relevant facts in this matter. As a result, the real dispute between the parties is a legal one, namely the proper interpretation of the GST credit provisions of the Income Tax Act.
+[3] Contrary to the Resers’ position in their appeals, Mrs. Reser’s income as a non-resident was required information pursuant to the relevant definitions and calculations under section 122.5 of the Income Tax Act. Eligibility for the GST credit is based on a taxpayer’s net family income in specific taxation years and Parliament clearly intended for non-resident income to be included in that calculation.
+II. Background – Change in marital status
+[4] Mr. and Mrs. Reser separated on or around September 1, 2003. The final factor for the breakdown of their relationship was that Mrs. Reser had received an employment offer overseas. Mrs. Reser wanted to go and Mr. Reser did not.
+[5] Mrs. Reser moved to the United Arab Emirates where she was employed full-time teaching English as a second language. She retired in July 2017 and returned to Canada on or around July 27, 2017 to be near her elderly parents in Victoria. She also reconciled with Mr. Reser shortly thereafter.
+[6] In filing their 2017 income tax returns, Mr. and Mrs. Reser reported their marital status as “married”. In 2016, Mr. Reser had reported his marital status as “separated”.
+[7] The Minister of National Revenue initially determined that Mr. Reser was entitled to the GST credit for the payment periods from July 1, 2017 to June 30, 2018 and that Mrs. Reser was entitled to the GST credit for the payment periods from July 1, 2018 to June 30, 2019.
+[8] The Minister subsequently sought additional information from the Resers, based on their changed marital status. The Minister asked Mr. Reser to disclose his wife’s income outside of Canada in the 2016 taxation year, and asked Mrs. Reser to disclose her income outside of Canada for the beginning of the 2017 taxation year.
+[9] The Resers refused to provide this information to the Minister on the basis that, during that 18-month period, (1) they were separated, and (2) Mrs. Reser was a non-resident whose income was not subject to Canadian tax. The Minister concluded that the Resers’ eligibility for the GST credit could not be calculated without that information and, on August 3, 2018, issued redeterminations reducing the credits already paid to nil.
+[10] The Resers maintain their two-fold position in their appeals from those redeterminations. However, that position runs contrary to the relevant GST credit provisions of the Income Tax Act.
+[11] The Resers understandably had difficulty navigating the application of these somewhat complex provisions. In her oral submissions, counsel for the Respondent effectively summarized how the various definitions and calculations under section 122.5 apply in these appeals. I have included the key provisions in Appendix “A” and will attempt to further simplify them as follows.
+[12] Fundamentally, the GST credit is calculated based on net family income in a prior year, even if a taxpayer was neither married nor resident in Canada during that time.
+III. Eligibility for the GST credit is based on family income
+[13] Parliament introduced the GST credit to provide some relief to low-income families for GST that they pay. As a result, entitlement to the GST credit is based on a taxpayer’s income.
+[14] To manage the implementation of the credit, a taxpayer’s eligibility is automatically determined based on the income reported in their income tax return for the previous year or two years, sometimes referred to as the “base years”. [1] The GST credit is calculated based on that prior income, even though it is not paid in either of those years.
+[15] The GST credit is paid quarterly, with respect to specified periods beginning in July, October, January, and April. [2] As a result, a full year of payment periods runs from July 1 of one year to June 30 of the following year.
+[16] If a taxpayer is married, then their eligibility for the GST credit is based on their net family income, i.e., income reported by the taxpayer and their cohabitating spouse. [3]
+[17] In McFadyen, this Court summarized the purpose and rationale for taking into account a taxpayer’s marital status in the calculation as follows: [4]
+The credit is made available on the basis of family income, in recognition of the fact that much of the spending on the basic necessities of life is done on the basis of the family unit, rather than at the individual level. For this reason, the GST credit is given on a family unit, means-tested basis.
+[18] As a result, taxpayers are required to notify the Minister of changes in their marital status, pursuant to paragraph 122.5(6.1)(b) of the Income Tax Act.
+[19] Using the present case as an example, the Minister used information from Mr. Reser’s 2016 income tax return to initially determine his eligibility for the GST credit for the payment periods beginning July 1, 2017 and ending June 30, 2018. Mr. Reser reported his marital status as “separated” and income of $18,103.
+[20] The Minister also used the Resers’ 2017 income tax returns to initially determine Mrs. Reser’s eligibility for the GST credit for the payment periods beginning July 1, 2018 and ending June 30, 2019. Mrs. Reser reported nil income from when she returned as a Canadian resident in July 2017, while Mr. Reser reported earning $18,850 for the full year.
+[21] The calculations under section 122.5 assume that circumstances in a particular taxation year will remain the same in the following two taxation years. [5] However, if there is a change in circumstances, a taxpayer may no longer be eligible for amounts already paid. This is what the Minister attempted to determine in the present case, after Mr. Reser changed his marital status from “separated” to “married”.
+[22] Mr. Reser’s marital status changed effective July 27, 2017. As a result, the Minister needed to redetermine Mr. Reser’s entitlement to the GST credit.
+[23] By operation of the relevant definitions and calculations under section 122.5, the required information included both Mr. and Mrs. Reser’s income in 2016, notwithstanding the fact that they were separated during that taxation year.
+[24] A similar disconnect occurred in the Frenna appeal decided by this Court. [6] Mr. Frenna married in June 2009. His entitlement for the GST credit for the payment periods from July 1, 2009 to June 30, 2010 had initially been calculated based on his 2008 income as a single man. This Court held that his eligibility for the GST credit had to be recalculated to include his spouse’s income from the 2008 taxation year, even though they were not married at that time. [7]
+[25] Mr. Reser’s change in marital status on July 27, 2017 had a similar impact on the calculation of his entitlement to the GST credit. However, contrary to the Respondent’s position, it does not impact the calculations for all the payment periods at issue.
+IV. Change in marital status must be “at the beginning” of each of the four specified payment periods
+[26] As stated above, the GST credit is paid quarterly, for specified periods beginning in July, October, January, and April. Considering the date of reconciliation, Mr. Reser’s change in marital status did not occur at the beginning of the specified period commencing July 1, 2017. It only impacts the beginning of the next specified period commencing October 1.
+[27] The definition of “qualified relation” in subsection 122.5(1) refers to a spouse “at the beginning of the specified month”, not “during” the specified month:
+qualified relation of an individual, in relation to a month specified for a taxation year, means the person, if any, who, at the beginning of the specified month, is the individual’s cohabiting spouse or common-law partner. [emphasis added]
+[28] Eligibility for the GST credit for a particular specified month is based on family circumstances that occurred before the end of the previous specified monthly period. [8]
+[29] As a result, the Resers’ change in marital status at the end of July 2017 only impacted the specified month beginning October 1, 2017. Mrs. Reser’s 2016 income therefore had to be included in the calculation of Mr. Reser’s entitlement for the GST credit for the three payment periods beginning October 1, 2017 and ending June 30, 2018.
+[30] However, this matter is further complicated by the fact that Mrs. Reser was not resident in Canada in 2016.
+V. Non-resident income is required for the GST credit calculation
+[31] Although the Resers disagree with the application of subsection 122.5(6.2), this provision deems Mrs. Reser’s non-resident income to be part of her income for the year, for the purpose of calculating their respective entitlements for the GST credit:
+Non-residents and part-year residents
+122.5(6.2) For the purpose of this section, the income of a person who is non-resident at any time in a taxation year is deemed to be equal to the amount that would, if the person were resident in Canada throughout the year, be the person’s income for the year.
+[32] The Department of Finance’s Explanatory Note for the provision outlines Parliament’s intention that a taxpayer’s worldwide income must be used in GST credit calculations: [9]
+New subsection 122.5(6.2) of the Act clarifies that, where a person is not resident in Canada throughout a taxation year, that person's income for the year for the purposes of the GSTC calculations is, for greater certainty, equal to the amount that would have been the person's income for the year had the person been resident in Canada throughout the year.
+[33] As a result, Mrs. Reser’s non-resident income in the 2016 taxation year must be included in the calculation of her husband’s entitlement to the GST credit for the payment periods beginning October 1, 2017 and ending June 30, 2018.
+[34] In addition, Mrs. Reser’s non-resident income in the 2017 taxation year must be included in the calculation of her own entitlement to the GST credit for the payment periods beginning July 1, 2018 and ending June 30, 2019.
+[35] In support of their position in the appeals, the Resers attempted to rely on general tax principles regarding residency, as well as income amounts determined in separate guaranteed income supplement appeals they previously filed with this Court. [10] However, these general assessing principles and amounts calculated under separate legislation are not relevant to the calculations required for the GST credit. The GST credit provisions in the Income Tax Act clearly outline what amounts are required to calculate a taxpayer’s eligibility for this specific purpose.
+VI. Conclusion – New GST credit calculations are required
+[36] The Minister reduced the Resers’ GST credits to nil on the basis that they refused to provide information regarding Mrs. Reser’s non-resident income for 2016 and 2017.
+[37] However, during cross-examination, Mrs. Reser estimated that her housing benefits and salary in the United Arab Emirates for 2016 amounted to $90,000. She estimated the same annual amount for 2017, but discounted for part of the year before she returned to Canada in July.
+[38] I accept these amounts, despite counsel for the Respondent’s submission that further information and supporting documents were required. As previously stated, I found Mrs. Reser to be a credible and reliable witness. Counsel for the Respondent did not probe or cast doubt on the estimate Mrs. Reser provided. Counsel should not have asked the question, if she was not willing to accept the answer. [11]
+[39] As a result, the Minister can no longer state that she does not have all the necessary information to calculate the Resers’ net family income for the 2016 and 2017 taxation years.
+[40] I am therefore referring the matters back to the Minister for reconsideration and redetermination of:
+(a) Mr. Reser’s eligibility for the GST credit for the payment periods from October 1, 2017 to June 30, 2018, taking into account Mrs. Reser’s 2016 non-resident income of $90,000; and
+(b) Mrs. Reser’s eligibility for the GST credit for the payment periods from July 1, 2018 to June 30, 2019, taking into account her 2017 non-resident income of $45,000. [12]
+[41] In doing so, I do not presuppose that the Resers will be entitled to the GST credit. [13] Rather, this decision is based on my finding that the amounts of Mrs. Reser’s non-resident income are now known and final determinations can be issued to resolve the issues in these appeals.
+Signed at Ottawa, Canada, this 13th day of February 2023.
+“Joanna Hill”
+Hill J.
+Appendix “A”
+122.5(1) definitions for “adjusted income” and “qualified relation”:
+adjusted income, of an individual for a taxation year in relation to a month specified for the taxation year, means the total of the individual’s income for the taxation year and the income for the taxation year of the individual’s qualified relation, if any, in relation to the specified month, both calculated as if in computing that income no amount were
+(a) included
+(i) under paragraph 56(1)(q.1) or subsection 56(6),
+(ii) in respect of any gain from a disposition of property to which section 79 applies, or
+(iii) in respect of a gain described in subsection 40(3.21); or
+(b) deductible under paragraph 20(1)(ww) or 60(y) or (z).
+qualified relation of an individual, in relation to a month specified for a taxation year, means the person, if any, who, at the beginning of the specified month, is the individual’s cohabiting spouse or common-law partner.
+Deemed payment on account of tax
+122.5(3) An eligible individual in relation to a month specified for a taxation year who files a return of income for the taxation year is deemed to have paid during the specified month on account of their tax payable under this Part for the taxation year an amount equal to ¼ of the amount, if any, determined by the formula
+A - B
+where
+A
+is the total of
+(a) $213,
+(b) $213 for the qualified relation, if any, of the individual in relation to the specified month,
+(c) if the individual has no qualified relation in relation to the specified month and is entitled to deduct an amount for the taxation year under subsection 118(1) because of paragraph (b) of the description of B in that subsection in respect of a qualified dependant of the individual in relation to the specified month, $213,
+(d) $112 times the number of qualified dependants of the individual in relation to the specified month, other than a qualified dependant in respect of whom an amount is included under paragraph (c) in computing the total for the specified month,
+(e) if the individual has no qualified relation and has one or more qualified dependants, in relation to the specified month, $112, and
+(f) if the individual has no qualified relation and no qualified dependant, in relation to the specified month, the lesser of $112 and 2% of the amount, if any, by which the individual’s income for the taxation year exceeds $6,911; and
+B
+is 5% of the amount, if any, by which the individual’s adjusted income for the taxation year in relation to the specified month exceeds $27,749.
+Months specified
+122.5(4) For the purposes of this section, the months specified for a taxation year are July and October of the immediately following taxation year and January and April of the second immediately following taxation year.
+Notification to Minister
+122.5(6.1) An individual shall notify the Minister of the occurrence of any of the following events before the end of the month following the month in which the event occurs:
+(a) the individual ceases to be an eligible individual;
+(b) a person becomes or ceases to be the individual’s qualified relation; and
+(c) a person ceases to be a qualified dependant of the individual, otherwise than because of attaining the age of 19 years.
+Non-residents and part-year residents
+122.5(6.2) For the purpose of this section, the income of a person who is non-resident at any time in a taxation year is deemed to be equal to the amount that would, if the person were resident in Canada throughout the year, be the person’s income for the year.
+CITATION:
+2023 TCC 22
+COURT FILE NO.:
+2019-3850(IT)I and 2019-3821(IT)I
+STYLE OF CAUSE:
+VIVIANA RESER & CLARENCE RESER v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Victoria, British Columbia
+DATE OF HEARING:
+September 15, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Joanna Hill
+DATE OF JUDGMENT:
+February 13, 2023
+APPEARANCES:
+For the Appellants:
+The Appellants themselves
+Counsel for the Respondent:
+Tawni Proctor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See the s. 122.5(4) definition of “months specified” and the s. 122.5(3) formula for calculating the credit.
+[2] See the s. 122.5(4) definition of “months specified”.
+[3] See the s. 122.5(1) definitions of “adjusted income”, “qualified relation”, and “cohabiting spouse or common-law partner”, and the s. 122.5(3) formula for calculating the credit.
+[4] McFadyen v Canada, [2000] TCJ No 145, para 10.
+[5] Frenna v HMTQ, 2011 TCC 411, para 8.
+[6] Ibid, paras 8-10.
+[7] Ibid, paras 10-11.
+[8] Kervin v HMTQ, 2006 TCC 697, para 9.
+[9] Historical Explanatory Notes, Non-residents and part-year residents, Bill C-49; SC 2002, c 9, s 38(2), published by CCH AnswerConnect.
+[10] The Resers’ guaranteed income supplement appeals, 2019-3366(OAS) and 2019‑3367(OAS), were settled through Consents to Judgment outlining their joint income for specific payment periods for the purpose of that particular legislative benefit scheme.
+[11] Notably, Mrs. Reser did not want to answer the question, but I required her to do so on the basis that the information was relevant to the appeals.
+[12] $90,000 divided by 2, for the 6 months from January through June 2017, before Mrs. Reser retired.
+[13] The Respondent did not adduce any evidence regarding the maximum net family income level amounts for the years at issue that would otherwise make the Resers ineligible for the GST credit.

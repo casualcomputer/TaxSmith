@@ -1,0 +1,172 @@
+Title: C-Mar Services (Canada) Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/23184/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-208-23184-c-mar-services-canada-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-03-09
+
+# C-Mar Services (Canada) Ltd. v. M.N.R.
+
+- Citation: 2004 TCC 208
+- Decision date: 2004-03-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2147, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+C-Mar Services (Canada) Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-03-09
+Neutral citation
+2004 TCC 208
+File numbers
+2002-2689(EI)
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2004TCC208
+Date: 20040309
+Docket: 2002-2689(EI), 2002-2690(CPP), 2002-3218(EI), 2002-3219(CPP)
+2002-3223(EI), 2002-3224(CPP), 2002-3225(EI), 2002-3226(CPP)
+2002-3227(EI), 2002-3228(CPP), 2002-3230(EI), 2002-3231(CPP)
+2002-3232(EI), 2002-3234(CPP), 2002-3238(EI), 2002-3239(CPP)
+2002-3240(EI), 2002-3241(CPP), 2002-3242(EI), 2002-3243(CPP)
+2002-3245(EI), 2002-3246(CPP), 2002-3248(EI), 2002-3249(CPP)
+2002-3251(EI), 2002-3252(CPP), 2002-3253(EI), 2002-3254(CPP)
+2002-3255(EI), 2002-3256(CPP), 2002-3258(EI), 2002-3259(CPP)
+2002-3261(EI), 2002-3262(CPP), 2002-3263(EI), 2002-3264(CPP)
+and 2002-3276(EI), 2002-3278(CPP)
+BETWEEN:
+C-MAR SERVICES (CANADA) LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan J.
+[1] The issues in these appeals are whether two individuals, Kevin Walsh and Jeffrey Langille, were engaged in insurable employment under the Employment Insurance Act ("EI Act") and engaged in pensionable employment under the Canada Pension Plan ("CPP"). The Appellant has commenced 19 appeals under the EI Act with respect to 19 individuals, and 19 appeals under the CPP with respect to the same 19 individuals. Kevin Walsh and Jeffrey Langille are two of those 19 individuals. At the beginning of the hearing, counsel for both parties agreed that we would proceed with only the appeals concerning Kevin Walsh and Jeffrey Langille; and that all appeals concerning the other 17 individuals would abide the result of the Walsh and Langille appeals.
+[2] The Appellant is part of an organization centred in the United Kingdom and known as the C-Mar Group, formed around 1987 to provide services to the North Sea offshore oil industry. It later expanded into Canada and, by 2003, had offices in six or seven different countries with about 100 shore staff and 500 seagoing staff. The only witness to testify was Denis Mair who is president and a director and a shareholder of the Appellant. Mr. Mair's background is seafaring. He was raised in the U.K. and apprenticed to an international shipping company. He qualified as a third officer; climbed the ranks to captain; and holds a Master's licence. He served as a ship's Master for approximately eight years until the mid‑1990s. He worked on the Northumberland Bridge joining Prince Edward Island and New Brunswick until 1996 when the Appellant corporation was formed as the Canadian arm of the C‑Mar Group (U.K.).
+[3] The Appellant offers a range of marine services to clients who would likely be a ship owner, charterer or manager; or an oil company. Mr. Mair stated that, in a negative sense, the Appellant will do anything to or for a ship except own it. In a positive sense, the Appellant can provide management, crewing, consultancy and repairs. It will broker the sale of a ship; charter it but not own it. In Canada, the Appellant has been particularly successful in providing marine personnel, audits, surveys and dynamic positioning (a relatively new technology). The Appellant established the first dynamic positioning training centre in Canada. The Appellant has a pool of personnel who have trained and qualified in Canada and who reside here. Mr. Mair quickly learned that, on the international market, Canadian officers are well respected and in demand as long as they are cost effective vis à vis other nationalities.
+[4] In a typical scenario, the Appellant would receive a request from a client (ship owner, ship manager or oil company) by telephone or email for an individual with specific qualifications (e.g. a second engineer officer or third navigating officer) needed on short notice – perhaps 24 hours. If the need is short notice, there has likely been an illness, injury or sudden termination of a similarly qualified person on the ship. If the client needs a warm body quickly, Mr. Mair will go to his database of available personnel and start calling to see who is available for this particular request. The search for a worker may take up to half a day. He then offers a potential candidate the terms and conditions of the job plus any other information he may have from the client: how long is the job; where is it; what is the ship. If the potential candidate says "Yes", Mr. Mair will promise to call him back within the hour to provide flight details, final airport destination, and the name of the ship's agent who will meet the worker at the airport and take him to the ship. If time permits, Mr. Mair will discuss a contract and try to fax a contract for the worker to sign if he has a fax machine at home. Otherwise, the worker verbally accepts the contract and they tidy up the paperwork at a later date. The paperwork is a "Contract of Employment" between the Appellant and the worker.
+[5] Exhibit A-1 is a binder of documents comprising 19 contracts of employment or employer/employee agreements between the Appellant and the 19 respective workers who are the subject of 19 double (EI and CPP) appeals to this Court. Exhibit A-1, Tab 2 is the agreement with Kevin Walsh which was put forward as a typical agreement. The basic document is six pages with space to sign on page six. It is too long to set out in full but the first three paragraphs are:
+1. NATURE OF EMPLOYMENT:
+The employer shall employ the Employee as set out in this contract and the latest Appendix I hereto. The Employee further agrees to comply with the Employer's Safety and Drugs and Alcohol Policies as attached hereto or as amended by the Employer form time to time.
+2. REMOTE WORK LOCATIOIN:
+Employment requires the Employee to travel to employment for six week intervals or such other periods as may be notified to the Employee from time to time. The location of the employment will be determined by the employer and set down in the latest Appendix I hereto or be at such site as the Employer may notify to the Employee from time to time.
+3. DURATION OF EMPLOYMENT:
+The Employee's employment with the Employer shall be deemed to have commenced on the date set out in the latest Appendix I hereto and will continue until the date specified in the latest appendix hereto or in the event that no date for the termination of employment is set out in the latest appendix hereto will continue until the Employee's service is no longer required on the project on which the Employee's services have been utilized, subject to a notice period of three days.
+[6] The above three paragraphs from the Kevin Walsh contract all refer to "the latest Appendix I" because there is a fresh Appendix I prepared and initialled each time a particular worker is assigned to a new ship. At Tab 2, Appendix I, Kevin Walsh has been assigned to the ship "DSV Balmoral Sea" and the following particulars are set out in Appendix I:
+APPENDIX I
+This Appendix will form part of the Contract of Employment between the Employee name hereunder and C-MAR Services (Canada) Limited.
+Employment Agreement for:
+Kevin Walsh
+Position
+3rd Marine Engineer
+Location:
+* DSV Balmoral Sea
+Start Date:
+September 17th, 1998
+Duration
+6 weeks on / 6 weeks off
+Termination of Contact:
+At client's discretion
+Day Rate:
+$315.00 Per Day Worked, Paid on a Door to Door Basis
+The Employee agrees that if the vessel is to work in Norwegian Waters, Norwegian taxes will be deducted according to Norwegian tax laws.
+Initial here for C-MAR __"D.M."__
+Initial here for Employee __________
+* DSV – Diving Support Vessel
+[7] Mr. Mair explained that the phrase "paid on a door to door basis" was an industry standard. It meant that the worker was paid a day rate from the time he left his home (usually on the Atlantic coast of Canada) until he returned to his home after a four or six or eight week term aboard the ship. Each worker was paid by the Appellant but the worker performed his services on a ship owned, managed or chartered by the Appellant's client; and the worker received his daily instructions directly or indirectly from the Master of the ship. The general policy was that for every day that a person worked, he would have a day off. In a typical situation, if a six-week contract had developed into a full-time position, a person would work for six weeks and then come home for six weeks. Mr. Mair said that some of the Appellant's workers had been on the same ship for two or three years doing a six-week rotation. In cross-examination, Mr. Mair was asked about the period of employment and his response is at pages 67-68 of the transcript:
+Q. Now, you mentioned this morning that these contracts were for a period of – in particular ones for a period of six weeks. Is that right?
+A. Well, basically the contracts are open ended. The period of duty that could be quoted in any particular contract could be six weeks, it could be eight weeks, but at the same time you must understand that during that period if the client determines that after four weeks he doesn't require this gentleman's duties any more he can send the gentleman home.
+[8] Having regard to the 19 workers who are the subject of the appeals involved herein, the ships to which they were assigned were not located in Canadian waters and did not operate in Canadian waters at any time in the workers' respective pay periods. Also, those ships were not Canadian owned or Canadian registered or controlled by persons resident in Canada at any relevant time. It is the worker's responsibility to obtain his required certification and keep it up-to-date but the Appellant will, on occasion, with some long-term workers, provide financial assistance to upgrade or renew a particular certificate.
+[9] Mr. Mair was asked by counsel for the Appellant if any of the 19 workers would have to sign an agreement with the ship as to working on the ship. The following exchange took place at pages 52-53 of the transcript:
+Q. Now, sir, just getting back to when these individuals travel out to the ship to which they've been assigned by C-MAR, okay, is there any time during that period or otherwise, just before or just after, when these individuals would have to sign an agreement with the ship or with the crew, an agreement with the ship as to working on the ship?
+A. Yes.
+Q. Explain.
+A. Ship's crew per se, officers and ratings who are an integral part of manning the vessel or ship, sign what is called articles of agreement with the Master.
+Q. When does that occur in relation to the sequence you've described that C‑MAR follows?
+A. Basically it should occur as soon as they walk off the gangway or get on board that vessel and present themselves to the Master.
+Q. So does it occur in Canada, or outside Canada?
+A. These – all these employees are outside Canada, so the vessels are outside Canada, so this takes place outside Canada. May I just add that certain personnel that we also provide to vessels are not integral part of a ship's crew. For example, technicians, company representatives, they're aboard the vessel helping with the vessel's duty, but they are not part of the ship's crew, hence, they do not sign articles of agreement.
+Q. Very well. And why aren't they considered part of the ship's crew?
+A. Because I suppose the ship, to sail it from A to B safely and efficiently needs X amount of crew, but in the offshore industry this vessel may be doing sub-sea operations where you need additional personnel over and above the ship's crew.
+Q. So the ship that these technicians are assigned to may require an agreement with the crew for appropriate crew members and officers, but these technicians aren't those – aren't included in that class of people.
+A. They would not be, no.
+The "technicians" and "offshore industry" which Mr. Mair referred to are persons working in the exploration for oil and gas, and not directly involved in operating the ship from point A to point B.
+[10] Other clauses in the "Contract of Employment" (Exhibit A-1, Tab 2) which I find relevant are:
+5. REMUNERATION
+5.3 In the event that the Employee is employed outside Canada or required for the time being to perform his/her duties at a place or places other than the Employer's premises and fails to perform his/her duties by reason of absence for any reason other than sickness or terminates his employment hereof in circumstances where the Employer owes a contractual duty to any Third Party then in the event that the Employer incurs a cost in order to send out a replacement for the Employee to such place as may be required then it is hereby agreed and declared that without prejudice to any other rights and remedies of the Employer it shall be lawful for the Employer to deduct from any monies then owing or outstanding to the Employee the travel cost of sending out and bringing back such replacement.
+11. GROSS MISCONDUCT AND RELATED MATTERS:
+11.1 If the Employee shall:
+11.1.7 Be found to be in possession of or under the influence of drugs or alcohol whilst at the work site or travelling to or from the work site, or fail to take a drugs or alcohol test when required to do so by the safety rules currently force at the work site.
+Then the Employer may dismiss the Employee forthwith without notice or pay in lieu of notice.
+Analysis
+[11] In the Reply, the Respondent relied on sections 4 and 5 of the EI Regulations but, at the hearing, Respondent's counsel acknowledged that the Appellant did not come within section 4. Therefore, under the EI Act, I am concerned only with section 5 of the Regulations which states:
+5. Employment outside Canada, other than employment on a ship described in section 4, is included in insurable employment if
+(a) the person so employed ordinarily resides in Canada;
+(b) that employment is outside Canada or partly outside Canada by an employer who is resident or has a place of business in Canada;
+(c) the employment would be insurable employment if it were in Canada; and
+(d) the employment is not insurable employment under the laws of the country in which it takes place.
+[12] I will consider only the first two conditions of section 5. There is no question that all of the workers in these appeals ordinarily reside in Canada. It is the second condition which creates a problem:
+(b) that employment is outside Canada or partly outside Canada by an employer who is resident or has a place of business in Canada;
+Notwithstanding the words used in the 19 agreements contained in Exhibit A-1, I have concluded that the Appellant was not the employer of the 19 workers who are the subject of these appeals. The employer of any one of those 19 workers was the owner or operator of the ship to which the worker was assigned. There is no evidence that any person who owned or operated a ship (to which any one of the 19 workers was assigned) was resident in Canada or had a place of business in Canada at any relevant time.
+[13] To put the matter simply, the Appellant does not meet the common law tests for employer status. The basic tests are summarized by the Federal Court of Appeal in Wiebe Door Services Ltd. v. Minister of National Revenue, 87 DTC 5025 and, more recently, by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983. The Supreme Court stated at paragraph 47 that "control" will always be a factor. The Appellant had no control over where or when or how the worker performed his services. The Appellant, in my opinion, is an agent or broker willing to provide a service for qualified marine workers and persons who operate ships in international waters.
+[14] In the agreements in Exhibit A-1, the Appellant characterized itself as "Employer" and the worker as "Employee" but it is the operator of the ship who determines where the worker will report for work; when the worker will report; and how the worker will perform his services. Mr. Mair was not examined or cross-examined on the Appellant's attempt to characterize itself as "Employer" and, therefore, I can only speculate about the reasons for such nomenclature. I can think of two reasons. First, to protect the ship operators and its own reputation for reliability, the Appellant wants the worker to accept a policy of "no drugs or alcohol" (see paragraph 11.1.7 of the standard agreement); and the Appellant wants to review the worker's certificate of up-to-date qualifications.
+[15] And second, to protect the worker from an irresponsible or dishonest ship operator who might leave a worker without pay on a foreign shore, the Appellant secures payment from the ship operator and then pays the worker at the agreed daily rate. It is probably easier for the Appellant, as agent or broker, to perform these services for both of its clients (ship operators and workers) if it wears the mask of "Employer" even when it is not, in law, the employer. As a last comment on control, I refer to Mr. Mair's answer quoted in paragraph 8 above where he states that the ship operator can send the worker home.
+[16] In paragraphs 14 and 15 above, I considered only the test of "control". The other tests also deny employment of the workers by the Appellant. With respect to tools, the Appellant in substance provided none. The worker provided his own certificate of qualification, and the ship operator provided the ship and all of the equipment aboard. With respect to opportunity for profit and risk of loss, the worker had none in a business sense because he had no clients or customers and no overhead. All of his travel expenses were paid by the Appellant who was reimbursed by the ship operator. I will not consider the factor of "integration" because this case is not a choice between employee and independent contractor. The parties acknowledge that the worker is an employee. The issue as I see it is identifying the employer. I find that the ship operator is the employer.
+[17] The agreements in Exhibit A-1 all identify the Appellant as "Employer" and a worker as "Employee". Therefore, I will comment briefly on the recent decision of the Federal Court of Appeal in Wolf v. The Queen, 2002 DTC 6853. Although Wolf is a case arising under the Income Tax Act, it was important in that case to determine whether Mr. Wolf was an employee or an independent contractor. In his 1990 contract with Canadair, Mr. Wolf was described as an "independent contractor". When allowing Mr. Wolf's appeal and concluding that he was an independent contractor, the Federal Court of Appeal gave particular weight to the contractual intent of the parties (i.e. Mr. Wolf and Canadair). It is important to note, however, that the applicable legal tests in Wolf were evenly balanced. In my opinion, the following statement by Noël J.A. at paragraph 122 is essential to understand the result in Wolf:
+[122] … I acknowledge that the manner in which parties choose to describe their relationship is not usually determinative particularly where the applicable legal tests point in the other direction. But in a close case such as the present one, where the relevant factors point in both directions with equal force, the parties' contractual intent, and in particular their mutual understanding of the relationship cannot be disregarded. (emphasis added)
+[18] When Noël J.A. referred to "applicable legal tests" and "relevant factors", I think he was referring to the factors recited in Wiebe Door and confirmed in Sagaz: control, equipment/tools, chance of profit/risk of loss, management of assets and (possibly) integration. It is only in circumstances where those factors point in both directions with equal force that one may look to the contractual intent of the parties. Otherwise, the parties could always dictate the result.
+[19] In these appeals, the issue was not between employee and independent contractor because all parties agreed that the workers were employees. The issue was whether the Appellant was the employer or whether the operator of a foreign ship was the employer. All of the factors point to the operator of a foreign ship as the employer.
+[20] The CPP legislation is quite different from the EI Act and Regulations. Set out below are the relevant parts of sections 15 and 16 of the CPP Regulations.
+15(1) In this Part,
+"employment in international transportation" means the employment of a person in a pay period
+(a) on a ship,
+(b) on an aircraft used in the operation of a commercial air service by a person who is classified under the Air Carrier Regulations as an international air carrier,
+(c) on a freight or passenger train, or
+(d) in respect of a motor vehicle that is licensed to operate in one or more provinces of Canada and in one or more states of the United States,
+where such employment is the employment primarily engaged in by that person in the pay period and is performed partly within and partly without Canada;
+16(1) Pensionable employment includes employment outside Canada (except employment in international transportation) that would be pensionable employment if it were in Canada, if the employee employed therein
+(a) ordinarily reports for work at an establishment in Canada of his employer;
+(b) is resident in Canada and is paid at or from an establishment in Canada of his employer;
+(c) …
+[21] The CPP Regulations do not apply to Kevin Walsh or Jeffrey Langille or any of the other 17 workers for the following reasons. I have already decided that each worker is employed by the operator of a foreign ship outside Canada and not by the Appellant. Under paragraph 16(1)(a), the worker does not ordinarily report for work at his employer's establishment in Canada because the operator of the foreign ship does not have an establishment in Canada. Similarly, under paragraph 16(1)(b), the worker is not paid from his employer's establishment in Canada because the operator of the foreign ship does not have an establishment in Canada. The appeals are allowed.
+Signed at Ottawa, Canada, this 9th day of March, 2004.
+"M.A. Mogan"
+Mogan J.
+CITATION:
+2004TCC208
+COURT FILE NO.:
+2002-2689(EI), 2002-2690(CPP), 2002-3218(EI), 2002-3219(CPP) et al
+STYLE OF CAUSE:
+C-Mar Services (Canada) Ltd. and The Minister of National Revenue
+PLACE OF HEARING:
+Charlottetown, Prince Edward Island
+DATE OF HEARING:
+August 25, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT:
+March 9, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Bruce S. Russell
+Counsel for the Respondent:
+John Shipley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Bruce S. Russell
+Firm:
+McInnes Cooper
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

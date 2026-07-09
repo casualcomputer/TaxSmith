@@ -1,0 +1,216 @@
+---
+title: "Von Teichman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25590/index.do"
+last_modified: "2003-09-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 512"
+citation2: ""
+neutral_citation: "2003 TCC 512"
+decision_date: "2003-09-05"
+language: "en"
+item_id: "25590"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2468
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:46:44.513000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7cce4075f135bc743403f40039a9c4cac392d44e72361fc80b1228be31497630"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Von Teichman v. The Queen
+
+- Citation: 2003 TCC 512
+- Decision date: 2003-09-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2468, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Von Teichman v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-05
+Neutral citation
+2003 TCC 512
+File numbers
+2003-645(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-645(IT)G
+BETWEEN:
+WOLF VON TEICHMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Motion heard together with the motion of Gillian Von Teichman (2003-585(IT)G) on June 17, 2003 at Toronto, Ontario
+By: The Honourable Justice J. M. Woods
+Appearances:
+Counsel for the Appellant:
+Kevin A. Johnson
+Barry Webster
+Counsel for the Respondent:
+Eric Sherbert
+James Rhodes
+_______________________________________________________________
+ORDER
+Upon motion by the Respondent for an Order to dismiss the appeal in respect of assessments made under the Income Tax Act for the 1993, 1994, 1995, 1996, 1997 and 1998 taxation years;
+And upon hearing counsel for the parties;
+IT IS ORDERED THAT:
+1. The Appellant's purported appeal with respect to the 1993 taxation year is quashed;
+2. The Appellant is allowed 30 days from the date of this Order in which to file an amended notice of appeal for the 1994, 1995, 1996, 1997 and 1998 taxation years;
+3. The Respondent shall have 45 days following service of the amended Notice of Appeal within which to deliver a Reply.
+Signed at Ottawa, Canada this 5th day of September, 2003.
+"J.M. Woods"
+J.M. Woods J.
+Docket: 2003-585(IT)G
+BETWEEN:
+GILLIAN VON TEICHMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Motion heard together with the motion of Wolf Von Teichman (2003-645(IT)G)
+on June 17, 2003 at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+Counsel for the Appellant:
+Kevin A. Johnson
+Barry Webster
+Counsel for the Respondent:
+Eric Sherbert
+James Rhodes
+_______________________________________________________________
+ORDER
+Upon motion by the Respondent for an Order to dismiss the appeal in respect of assessments made under the Income Tax Act for the 1993, 1994, 1995, 1996, 1997 and 1998 taxation years;
+And upon hearing counsel for the parties;
+IT IS ORDERED THAT:
+1. The Appellant's purported appeal with respect to the 1993 taxation year is quashed;
+2. The Appellant is allowed 30 days from the date of this Order in which to file an amended notice of appeal for the 1994, 1995, 1996, 1997 and 1998 taxation years;
+3. The Respondent shall have 45 days following service of the amended Notice of Appeal within which to deliver a Reply.
+Signed at Ottawa, Canada this 5th day of September, 2003.
+"J.M. Woods"
+J. M. Woods J.
+Citation: 2003TCC512
+Date: 20030905
+Docket: 2003-645(IT)G
+BETWEEN:
+WOLF VON TEICHMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+Docket: 2003-585(IT)G
+GILLIAN VON TEICHMAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDERS
+Woods J.
+[1] The Crown seeks orders to dismiss the appeals of Wolf Von Teichman and Gillian Von Teichman for the 1993 taxation year. The ground upon which the orders are sought is that the Notices of Appeal were not filed within 90 days from the date of mailing of the notices of confirmation as required by subsection 169(1) of the Income Tax Act, R.S.C. 1985 (5th Supp.), c. 1 (the "Act"). The Appellants submit that the Crown should be estopped from taking this position based on a misrepresentation of fact that was relied on to their detriment.
+Facts
+[2] The following facts pertain to the appeal of Wolf Von Teichman. The facts relating to Gillian Von Teichman's appeal are sufficiently similar for the purposes of this issue that it is not necessary to outline them here.
+[3] The Minister of National Revenue (the "Minister") issued a Notice of Assessment dated June 13, 1994 in respect of the 1993 taxation year of Wolf Von Teichman. A reassessment for the same taxation year was made by a Notice of Reassessment dated March 20, 1997.
+[4] A Notice of Objection to the reassessment was received by the Minister on June 23, 1997. In it Mr. Von Teichman objected to the imposition of arrears interest and the reduction of the capital gains deduction and asked for a general explanation of the "interest and other calculations which went into the determination of the amount now claimed owing."
+[5] In a letter to Mr. Von Teichman dated January 13, 1999, Revenue Canada stated that it had provided an explanation of the recalculation of the capital gains deduction and that the assessment would be confirmed. The letter also addressed the matter of arrears interest. The relevant paragraph from the letter reads:
+We will agree to the request to cancel arrears interest on the 1993 balance for the period of March 20, 1997 to March 20, 1998 under subsection 220(3.1). This action will be completed after the appeal period on the Objection expires, unless you wish to withdraw the objection now.
+The Minister confirmed the reassessment by Notice of Confirmation dated February 3, 1999.
+[6] By letter dated March 17, 1999, Mr. Von Teichman withdrew his objection for the 1993 taxation year.
+[7] The cancellation of arrears interest was not immediately processed by the Canada Customs and Revenue Agency (the "CCRA"). In response to this inaction Mr. Von Teichman refiled a Notice of Objection dated May 17, 2000. In it, Mr. Von Teichman objected to the inclusion in income of an amount of $2,139,636. This item had not been specifically referred to in the original Notice of Objection received on June 23, 1997.
+[8] By letter dated September 27, 2002, the CCRA stated that, pursuant to subsection 165(1.1) of the Act, it could not accept the later Notice of Objection.
+[9] By letter to Mr. Von Teichman dated December 6, 2002, the CCRA explained the failure to deal with the cancellation of arrears interest as follows:
+After [the January 13, 1999] letter was sent out, we were advised by the Auditor, Jim Lowes that there was further Audit work to be done, and another reassessment to be issued for your 1993 return.
+...
+If further reassessments or other litigation are still pending for the year involved, the fairness request is usually not processed, as the final tax owing, and interest on the tax payable, are still not known.
+Once the final balance of tax and interest are determined for your 1993 return, we suggest you request this one year interest (plus any other periods you feel the interest should not be charged for) be cancelled.
+[10] A Notice of Appeal in respect of several taxation years, including 1993, was filed on January 29, 2003.
+Submissions of Parties
+[11] The Von Teichmans submit that they made a deal with the Minister in 1999 to cancel the arrears interest and that they acted on this deal by withdrawing their objections. It is suggested that the Minister subsequently broke the deal by not cancelling the interest arrears forthwith and by indicating in the December 6, 2002 letter that the CCRA intends to reconsider the matter afresh.
+[12] It is submitted that these circumstances satisfy the criteria for the application of the doctrine of estoppel. These criteria were set out by Bowman J. (as he then was) in Goldstein v. The Queen, 96 DTC 1029 (T.C.C.) at page 1034:
+The essential factors giving rise to an estoppel are I think:
+(1) A representation or conduct amounting to a representation intended to induce a course of conduct on the part of the person to whom the representation is made.
+(2) An act or omission resulting from the representation, whether actual or by conduct, by the person to whom the representation is made.
+(3) Detriment to such person as a consequence of the act or omission.
+[13] Counsel for the Von Teichmans suggests that there was a misrepresentation (i.e., the promise to cancel interest which was to be effected forthwith if the objections were withdrawn), a reliance on the misrepresentation (i.e., the filing of the withdrawals) and detriment (i.e., losing all appeal rights that would have followed if the notices of objection had not been withdrawn). It is suggested that the taxpayers should be put in the same position as if those appeal rights had not expired. Thus the taxpayers should have the right to file notices of appeal and raise new issues in them.
+[14] The Crown submits that estoppel cannot override a statutory duty and that this applies to the statutory time period for filing a notice of appeal under subsection 169(1): Mount Sinai Hospital Center v. Quebec, [2001] 2 S.C.R. 281. Moreover, it is suggested that the appeal process would be in havoc if estoppel were to apply in these circumstances. It is conceded that the Minister's letter of December 6, 2002 was poorly drafted but it is suggested that, if taxpayers could avoid statutory time periods as a result of poorly worded letters, the CCRA would have a serious problem.
+[15] Counsel for the Von Teichmans concedes that estoppel cannot override a clear statutory duty but suggests that this principle is limited to statutory duties that are fundamental to a statute. It is submitted that the time period for filing a notice of appeal is not a fundamental provision in the Act. Further, reference was made to a case that applied estoppel to a statutory filing period under the Ontario Retail Sales Tax Act: Molson Ontario Breweries v. Ontario, [1985] O.J. No. 295. In that case, it was ordered by way of an oral judgment that notices of appeal not filed within the statutory time period were properly filed and that the Ministry of Revenue was estopped from asserting the contrary. The misrepresentation that gave rise to this relief was an incorrect statement by an official of the Ministry to the taxpayer's consultant that the time period for filing an appeal had passed.
+Analysis
+[16] The question in this application concerns the law of estoppel by representation. A definition of estoppel by representation can be found in an article by Glen Loutzenhiser, Holding Revenue Canada to its Word: Estoppel in Tax Law: [1]
+Where one person (the "representor") has made a representation to another person ("the representee") in words or by acts or conduct, or (being under a duty to the representee to speak or act) by silence or inaction, with the intention (actual or presumptive), and with the result, of inducing the representee on the faith of such representation to alter his position to his detriment, the representor, in any litigation which may afterwards take place between him and the representee, is estopped, as against the representee, from making, or attempting to establish by evidence, any averment substantially at variance with his former representation, if the representee at the proper time, and in the proper manner, objects thereto.[2]
+[17] Mr. Loutzenhiser states that this doctrine is based on a principle of justice that may be colloquially referred to as "you cannot send someone out on a limb, and saw that limb off."[3]
+[18] In this particular case, it may have been that the CCRA sent the Von Teichmans out on a limb, but it cannot be said that the limb has yet been sawn off. The Von Teichmans have not yet suffered detriment, the third requirement for the application of estoppel. In my view there would not be a material detriment to the Von Teichmans unless and until the CCRA refuses to cancel the interest arrears.
+[19] It has not been suggested the CCRA is refusing to cancel the interest arrears. At most, the December 6, 2002 letter could be interpreted that the CCRA intends to consider this matter afresh. However, the letter could also be interpreted as merely requiring the procedural step of a letter of request. Either way, the CCRA is not at this stage refusing to cancel the interest arrears.
+[20] Counsel for the Von Teichmans suggests that the failure of CCRA to act promptly to cancel the interest arrears after the letter of March 17, 1999 is one instance of a misrepresentation and another is the December 6, 2002 letter that implies that the matter will be considered afresh. If these are misrepresentations, no detriment has been suffered as a result.
+[21] Although this should dispose of the question raised on the motions, it may be useful to comment on whether the relief sought is appropriate even if all the elements of estoppel had been met. The relief for estoppel by representation described above is that the party being estopped is prevented from taking a position substantially at variance with the representation. In this case, the appropriate relief would be that the CCRA could not refuse to cancel the interest arrears. The remedy sought by the Von Teichmans goes much further than that and tries to treat the original "deal" as void ab initio so that the Von Teichmans can institute appeals for the 1993 taxation year afresh and raise new grounds of appeal. I have not been referred to any authorities that would support this type of relief and this distinguishes the Molson Breweries case.
+Conclusion
+[22] Other matters were raised at the hearing of the motions and as a result the following are ordered:
+1. The Appellants' purported appeals with respect to the 1993 taxation year are quashed;
+2. The Appellants are allowed 30 days from the date of the Orders in which to file amended notices of appeal for the 1994 through 1998 taxation years, inclusive;
+3. The Respondent shall have 45 days following service of each amended Notice of Appeal within which to deliver a Reply.
+Signed at Ottawa, Canada this 5th day of September, 2003.
+"J.M. Woods"
+J. M. Woods J.
+CITATION:
+2003TCC512
+COURT FILE NO.:
+2003-645(IT)G and 2003-585(IT)G
+STYLE OF CAUSE:
+Wolf Von Teichman v. The Queen
+Gillian Von Teichman v. The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING
+June 17, 2003
+REASONS FOR ORDER BY:
+The Honourable Justice J.M. Woods
+DATE OF ORDER:
+September 5, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Kevin A. Johnson
+Barry Webster
+Counsel for the Respondent:
+Eric Sherbert
+James Rhodes
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Kevin A. Johnson
+Firm:
+Lette Whittaker
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] (1999) 57(2) U.T. Fac. L. Rev 127-164.
+[2] G.S. Bower & A.K. Turner, The Law Relating to Estoppel by Representation, 3rd ed. (Toronto: Butterworths, 1997) at 4.
+[3]
+Supra note 1, at para. 5.

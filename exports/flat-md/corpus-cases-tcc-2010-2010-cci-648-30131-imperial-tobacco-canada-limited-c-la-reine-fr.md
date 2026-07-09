@@ -1,0 +1,200 @@
+---
+title: "Imperial Tobacco Canada Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30131/index.do"
+last_modified: "2010-12-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 648"
+citation2: ""
+neutral_citation: "2010 CCI 648"
+decision_date: "2010-12-21"
+language: "fr"
+item_id: "30131"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7798
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:20:52.830000+00:00"
+cases_cited_count: 4
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dec3d19f5647fe5429d704436f01390eac132e4322f7b29f94b36dfabd099f13"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Imperial Tobacco Canada Limited c. La Reine
+
+- Citation: 2010 CCI 648
+- Decision date: 2010-12-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7798, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Imperial Tobacco Canada Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-12-21
+Référence neutre
+2010 CCI 648
+Numéro de dossier
+2008-402(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-402(IT)G
+ENTRE :
+IMPERIAL TOBACCO CANADA LIMITÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 20 octobre 2009, à Toronto (Ontario).
+Devant : L’honorable juge E. A. Bowie
+Comparutions :
+Avocats de l’appelante :
+Me Al Meghji et Me Patrick Marley
+Avocats de l’intimée :
+Me Marie-Thérèse Boris et Me Bobby Sood
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’égard des cotisations établies en vertu de la Loi de l’impôt sur le revenu relativement aux années d’imposition se terminant le 31 décembre 1999 et le 1er février 2000 sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 21e jour de décembre 2010.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 9e jour de mars 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 648
+Date : 20101221
+Dossier : 2008-402(IT)G
+ENTRE :
+IMPERIAL TOBACCO CANADA LIMITÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Les présents appels intéressent des cotisations d’impôt sur le revenu visant les deux années d’imposition de l’appelante qui se terminent le 31 décembre 1999 et le 1er février 2000, respectivement. L’appel interjeté relativement à l’année d’imposition 2000 concerne l’assertion de l’appelante voulant qu’elle puisse, dans le calcul de son revenu d’entreprise pour cette année‑là, déduire des sommes totalisant 118 575 528 $ à titre de rémunération qu’elle aurait versée aux employés afin d’honorer ses obligations en vertu d’un régime d’options d’achat d’actions qui leur était offert. Lorsqu’il a établi les cotisations à l’égard de l’appelante, le ministre du Revenu national (le « ministre ») a estimé que ces sommes n’étaient pas déductibles. Il affirme qu’il ne s’agit nullement de sommes payées à titre de rémunération des employés et que l’appelante les a plutôt versées dans le cadre d’une réorganisation de la société afin de se débarrasser du régime d’options d’achat d’actions offert à ses employés. Il soutient en outre que la déduction de ces sommes est interdite selon l’alinéa 18(1)b) de la Loi de l’impôt sur le revenu[1] (la « Loi »). Cette disposition est ainsi rédigée :
+18(1) Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) […]
+b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[2] L’appel relatif à l’année d’imposition 1999 découle de la demande de l’appelante visant à reporter à un exercice antérieur une perte subie en 2000. La Cour répondra favorablement ou défavorablement à sa demande suivant l’issue de l’appel relatif à l’année d’imposition 2000.
+[3] Le contexte dans lequel les paiements en cause ont été faits est présenté dans un exposé conjoint des faits détaillé ainsi que dans les documents qui l’accompagnent et auxquels renvoie l’exposé. L’ensemble de ces documents a été produit au début de l’instruction. On a également déposé des extraits tirés des interrogatoires préalables des deux parties. L’avocate de l’intimée a contesté l’admissibilité de deux documents figurant aux onglets 10 et 11 de l’extrait de l’interrogatoire du représentant de l’intimée en l’espèce, invoquant qu’ils n’étaient pas pertinents. Ces documents résumaient les paiements effectués par l’appelante à ses employés dans le cadre de divers programmes d’encouragement qui leur étaient destinés. J’ai différé ma décision sur ce point. Je conclus que les documents doivent être admis, mais uniquement comme preuve du fait que les paiements ont été faits et non de la façon dont le ministre a traité ces paiements, ce qui n’a pas de pertinence au regard de la question dont je suis saisi. En effet, ils n’ajoutent rien d’utile aux faits exposés conjointement par les parties.
+[4] Je reproduis ici l’intégralité de l’exposé conjoint des faits.
+[traduction]
+EXPOSÉ CONJOINT DES FAITS
+Les parties à l’instance reconnaissent, pour les besoins de la présente instance uniquement, la véracité des faits suivants :
+1. L’appelante, Imperial Tobacco Canada Limitée (« ITCL »), a remplacé, par suite d’une fusion, Imasco Limitée (« Imasco »). Imasco était une société ouverte et une société canadienne imposable pour l’application de la Loi de l’impôt sur le revenu (Canada) (la « Loi ») pendant ses années d’imposition se terminant le 31 décembre 1999 et le 1er février 2000.
+2. Pendant la période pertinente, les activités d’Imasco et de ses filiales intéressaient les secteurs des services financiers, du tabac, de la pharmacie et de la promotion foncière.
+3. Au 14 décembre 1999, British American Tobacco, société ouverte à responsabilité limitée, (« BAT ») était une société ouverte non résidente du Canada. BAT détenait indirectement 42,5 pour 100 des actions ordinaires en circulation d’Imasco.
+4. British American Tobacco (Canada) Limited (« BAT CAN ») a été constituée en société le 27 juillet 1999 en vue en l’acquisition de la totalité des actions ordinaires d’Imasco dont BAT et ses filiales n’étaient pas les titulaires bénéficiaires.
+5. Vers le mois de décembre 1998, BAT et la Banque Toronto‑Dominion (la « TD ») ont entamé des discussions relatives à l’acquisition, par cette dernière, des actions de CT Financial Services Inc. (« CTFS ») alors détenues par Imasco; on proposait, dans le cadre de ces discussions, que la vente à la TD des actions de CTFS détenues par Imasco soit réciproquement conditionnelle à l’acquisition, par BAT, de toutes les actions d’Imasco détenues par des actionnaires publics et soit conclue immédiatement après cette acquisition. Ces discussions entre BAT et la TD ont été portées à la connaissance d’Imasco.
+6. En mars 1999, BAT a communiqué avec Imasco afin de discuter d’une proposition selon laquelle BAT se porterait acquéreur de la totalité des actions ordinaires d’Imasco détenues par les actionnaires publics de cette dernière.
+7. Le 7 juin 1999, BAT a annoncé dans un communiqué de presse (ci‑joint à l’onglet 1) qu’elle discutait avec Imasco de la possibilité d’augmenter la participation de BAT dans l’entreprise de tabac d’Imasco au moyen d’une offre d’achat au comptant visant les actions ordinaires d’Imasco détenues par le public, mais que l’éventuelle réalisation de cette opération était incertaine (notamment parce qu’on se demandait si elle pouvait avoir lieu à des conditions acceptables).
+8. Le régime d’options d’achat d’actions (le « ROAA ») d’Imasco a été mis en place le 11 mai 1983. Il s’agissait d’un régime dans le cadre duquel des options d’achat des actions d’Imasco étaient accordées aux membres de la direction et au personnel clé d’Imasco et de ses filiales (les « employés »). L’article 2 du ROAA d’Imasco énonce l’objet du régime de la façon suivante :
+Le Régime a été établi afin de permettre à certains employés
+d’acquérir des actions directement de la société.
+9. Selon les conditions du ROAA d’Imasco, avec ses modifications du 27 octobre 1995 (le ROAA modifié d’Imasco est joint aux présentes à l’onglet 2), les titulaires d’options acquises pouvaient choisir à n’importe quel moment de lever leurs options et de recevoir des actions ordinaires nouvellement émises d’Imasco sur paiement du prix de levée. Les employés ne pouvaient céder les options. De plus, pour lever les options, les employés devaient être au service d’Imasco au moment d’exercer leur droit.
+10. Le 9 juin 1999, le conseil d’administration d’Imasco a adopté une résolution visant à modifier l’article 10 du ROAA de la société (le ROAA modifié est joint aux présentes à l’onglet 3) pour permettre aux titulaires d’options de choisir, à leur gré, d’abandonner l’option au lieu de la lever, et de recevoir dès l’abandon un paiement comptant égal à l’excédent de la valeur marchande courante d’une action ordinaire d’Imasco sur le prix d’achat par action précisé dans l’option, multiplié par le nombre d’actions pouvant être achetées à la levée de l’option ainsi abandonnée.
+11. Le 2 août 1999, une entente relative à une proposition d’opération a été conclue entre BAT, BAT CAN et Imasco afin de proposer une modification à la proposition décrite au paragraphe 5 ci‑dessus (l’entente relative à une proposition d’opération, telle qu’elle a été modifiée et libellée à nouveau, est jointe à l’onglet 4).
+12. Le 18 novembre 1999, Imasco, BAT et BAT CAN ont conclu une entente modificative de l’entente relative à une proposition d’opération (ci‑jointe à l’onglet 5) qui fixait le prix d’achat par action ordinaire d’Imasco à 41,60 $ et qui comportait une recommandation favorable du conseil d’administration d’Imasco.
+13. Comme il est mentionné à l’article 5.8 de l’entente relative à une proposition d’opération, Imasco s’engageait à ce que son conseil d’administration adopte une résolution encourageant les personnes titulaires d’options dans le cadre du ROAA d’Imasco à lever ou à abandonner leurs options immédiatement avant la conclusion de l’opération proposée avec BAT. Imasco s’engageait en outre à ce que son conseil d’administration l’autorise à accélérer l’acquisition des options dans le cadre du ROAA d’Imasco – de sorte que toutes les options d’achat d’actions en circulation puissent être levées avant la conclusion de l’opération –, lui donne instructions à cet effet et adopte une résolution en conséquence.
+14. Le 8 décembre 1999, la Bourse de Toronto a été avisée de l’acquisition par anticipation mentionnée au paragraphe 13 ci‑dessus et du fait que, si certaines étapes de la clôture de la réorganisation n’étaient pas terminées, l’acquisition par anticipation serait réputée n’avoir jamais eu lieu (la lettre du 8 décembre 1999 adressée à la Bourse de Toronto est jointe aux présentes à l’onglet 6).
+15. Le 14 décembre 1999, Imasco a informé ses actionnaires de la tenue d’une assemblée extraordinaire pour voter sur l’acquisition proposée, par BAT CAN, de la totalité des actions d’Imasco non détenues par le groupe BAT (l’avis d’assemblée extraordinaire ainsi que la circulaire de la direction sollicitant des procurations sont joints aux présentes à l’onglet 7).
+16. Le 14 décembre 1999, Imasco a fait en sorte que les options accordées dans le cadre du ROAA d’Imasco qui n’avaient pas encore été acquises par anticipation soient ainsi acquises (comme il est décrit aux paragraphes 13 et 14 ci‑dessus) de manière à ce que toutes les options accordées aux employés puissent être levées avant la conclusion de l’opération proposée avec BAT. Cette acquisition par anticipation dépendait de la réalisation de toutes les étapes de clôture, et les titulaires d’options étaient encouragés, conformément à l’entente relative à la proposition d’opération, à abandonner ou à lever leurs options au plus tard le 28 janvier 2000. Si l’opération proposée n’avait pas lieu, les options d’achat d’actions ayant fait l’objet d’une acquisition par anticipation reprendraient alors leurs caractéristiques antérieures (les lettres de Denis Faucher du 3 août 1999, du 22 décembre 1999, du 10 janvier 2000 et du 18 janvier 2000 adressées aux employés sont jointes aux présentes à l’onglet 8).
+17. La levée ou l’abandon des options par les employés au plus tard le 28 janvier 2000 était conditionnel à la conclusion de l’opération.
+18. Le 28 janvier 2000, les détenteurs d’actions ordinaires d’Imasco ont voté en faveur de l’opération proposée à l’occasion d’une assemblée extraordinaire des actionnaires tenue à cette date.
+19. En janvier 2000, des titulaires d’options détenant 70 000[2] options dans le cadre du ROAA d’Imasco ont levé leurs options et reçu des actions ordinaires d’Imasco.
+20. Le 28 janvier 2000, des employés d’Imasco détenant ensemble 4 848 600 options ont choisi d’abandonner leurs options en échange de paiements comptants correspondant à la différence entre le cours de clôture des actions d’Imasco à la Bourse de Toronto (41,40 $) et le prix de levée des options (les « paiements en espèces au titre de l’abandon »). Ces employés ont signé une formule (ci‑jointe à l’onglet 9) énonçant la condition suivante :
+Malgré ce qui précède, mes options seront réputées n’avoir jamais fait l’objet d’un abandon si Imasco omet de réaliser certaines opérations internes de réorganisation en vue du remaniement du capital, comme il est prévu dans l’entente relative à une proposition d’opération intervenue entre Imasco et British American Tobacco, société ouverte à responsabilité limitée.
+21. La totalité des options d’achat d’actions alors en circulation et émises dans le cadre du ROAA d’Imasco a été levée ou abandonnée en janvier 2000. La totalité des options d’achat d’actions abandonnées a été annulée.
+22. Des paiements correspondant à la différence entre le prix d’achat par action d’Imasco offert par BAT (41,60 $) et le cours de clôture à la Bourse de Toronto de ces mêmes actions à la date de l’abandon (41,40 $), et majorés pour refléter le fait que, selon Imasco, la déduction prévue à l’alinéa 110(1)d) ne s’appliquait pas à ces paiements (les « paiements de compensation »), ont été faits aux titulaires d’options qui avaient choisi d’abandonner leurs options en échange de paiements comptant. Les sommes ainsi versées aux employés totalisaient 118 575 527,95 $.
+23. Après la clôture, aucune option d’achat d’actions n’a été émise dans le cadre du régime d’options d’achat d’actions d’Imasco. Aucune opération ou activité relative à ce régime n’a eu lieu depuis la clôture, le 1er février 2000. Les parties aux présentes conviennent que le présent exposé conjoint des faits n’empêche aucune d’entre elles de produire des éléments de preuve pour compléter les faits reconnus aux présentes, étant entendu que ces éléments de preuve ne peuvent contredire les faits admis.
+[5] L’appelante soutient que les paiements en l’espèce ont simplement été faits par Imasco dans le cours normal de ses activités et, plus précisément, dans le cours normal des activités liées à l’administration du régime d’options d’achat d’actions offert à ses employés (le « ROAA »). À ce titre, lorsqu’elle a versé ces sommes, Imasco ne faisait que [traduction] « régler la situation » avec ses employés ou [traduction] « honorer des obligations qui lui incombaient dans le cadre de son régime de rémunération »[3]. Pour voir l’affaire sous cet angle, il faudrait examiner la décision d’accélérer l’acquisition des options non acquises, la décision de modifier le ROAA afin de donner aux titulaires d’options toute latitude pour les abandonner en échange d’un paiement comptant et le fait de ne plus accorder d’options, indépendamment de l’opération de fermeture par laquelle BAT Canada tentait d’acquérir l’ensemble des actions en circulation d’Imasco. Or, procéder ainsi reviendrait à faire abstraction de la remarque incidente souvent citée que lord Pearce a formulée dans l’arrêt B.P. Australia Ltd. v. Commissioner of Taxation[4] voulant que la résolution des cas de ce genre passe par [traduction] « une appréciation saine de toutes les caractéristiques directrices » de l’affaire. Ce passage a été cité avec approbation (et souligné) par le juge Estey, qui a rédigé les motifs unanimes de la Cour suprême du Canada dans l’arrêt Johns‑Manville c. La Reine[5].
+[6] Au même paragraphe, lord Pearce poursuit en souscrivant aux commentaires antérieurs formulés par le juge Dixon dans l’arrêt Hallstroms Pty. Ltd. v. Federal Commissioner of Taxation[6] selon lesquels la réponse à la question de savoir si une dépense doit être considérée comme une dépense en capital ou une dépense courante :
+[traduction]
+« dépend de l’effet envisagé de la dépense d’un point de vue pratique et commercial plutôt que de la classification juridique des droits, s’il en est, garantis, employés ou épuisés en cours de route.
+Ce passage a également été cité avec approbation dans l’arrêt Johns‑Manville. Je suis donc tenu, pour me prononcer sur la situation dont je suis saisi, de prendre en compte l’ensemble des « caractéristiques directrices », ou des circonstances, de l’affaire, et de décider d’un point de vue pratique et commercial quel était l’objet visé par les paiements en cause. Si je comprends bien, c’est ce qu’a fait la Cour d’appel fédérale lorsqu’elle a tranché l’affaire dans l’arrêt Kaiser Petroleum Ltd. c. Canada[7], sur lequel s’appuie principalement l’intimée en l’espèce.
+[7] Dans l’arrêt Kaiser, la Cour d’appel fédérale a conclu qu’un paiement effectué par la contribuable pour mettre fin à un régime d’options d’achat d’actions offert aux employés constituait un paiement au titre du capital. Ashland Oil Canada (« AOC ») était contrôlée par Ashland Oil Inc. (« AOI »), société des États‑Unis qui détenait environ 85 pour 100 de ses actions. AOI s’est engagée à vendre sa participation dans AOC à Kaiser Resources pour la somme de 33,50 $ par action. AOC offrait un régime d’options d’achat d’actions dans le cadre duquel les employés de la société étaient titulaires d’options d’achat visant un total de 126 370 actions. Au nombre de ces options, seules 108 650 ont été acquises. Le contrat de vente des actions d’AOI à Kaiser stipulait qu’AOC devait offrir aux titulaires des options la possibilité d’abandonner celles‑ci en échange d’un paiement, pour chaque option, de 33,50 $ moins le prix de l’option, et que la même offre soit faite tant aux titulaires d’options non acquises qu’aux titulaires d’options acquises. L’offre a été présentée et, par suite de celle‑ci, 120 970 options ont été abandonnées et annulées en contrepartie de paiements totalisant 2 772 317 $. Quelque temps après, le régime d’options d’achat d’actions a été annulé. AOC (maintenant Kaiser Petroleum) a tenté de déduire les 2 772 317 $ à titre de rémunération du personnel dans le calcul de son revenu pour l’année.
+[8] Le juge de première instance a conclu que la somme avait été à juste titre qualifiée de rémunération du personnel et qu’elle était donc déductible. La Cour d’appel fédérale n’était pas de cet avis. Rédigeant l’opinion unanime de la Cour d’appel, le juge Desjardins a renvoyé à la question posée par lord Pearce dans l’arrêt B.P. Australia[8] :
+[traduction]
+Enfin, ces dépenses ont‑elles été faites au titre des installations à l’intérieur desquelles l’entreprise était exploitée ou faisaient‑elles partie du processus d’exploitation lui‑même?
+La Cour d’appel a conclu plus loin que, même si la rémunération était initialement à l’origine de la mise en œuvre du régime d’options d’achat d’actions et qu’elle était l’un des éléments visés au moment où l’on a mis fin à ce régime :
+[…] l’intimée a fait cette rétribution au moyen d’une restructuration de son capital. À mon sens, cette particularité domine toute la série de circonstances que la preuve révèle, et constitue l’élément directeur en vertu du critère énoncé dans l’affaire B.P. Australia Ltd. précitée[9].
+[9] L’appelante a invoqué avec insistance la décision Imperial Tobacco Canada Limitée (successeur de Shoppers Drug Mart Limitée) c. La Reine[10] (ci‑après Shoppers Drug Mart) rendue par le juge en chef Bowman. Cette affaire découlait de la même opération de fermeture que celle visée en l’espèce. Shoppers Drug Mart (« SDM ») était une filiale d’Imasco et, avant l’opération en 1999, certains de ses employés avaient participé au ROAA de cette dernière. À l’instar des employés d’Imasco, ceux de SDM qui étaient titulaires d’options ont été encouragés à lever ou à abandonner leurs options. En janvier 2000, les employés de SDM ont levé 70 000 options. Le 28 janvier 2000, les employés de SDM titulaires d’un total de 2 190 380 options ont choisi d’abandonner leurs options en échange de paiements qui totalisaient 54 984 104 $. Cette somme correspondait à la différence entre le prix d’une option et le cours de clôture de chaque option à la Bourse de Toronto, plus 0,20 $, afin que le prix au titre de l’abandon soit le même que le prix de clôture de l’opération de fermeture, majoré d’une somme visant à indemniser les titulaires d’options pour le fait qu’ils ne pouvaient bénéficier du traitement fiscal avantageux prévu à l’alinéa 110(1)d) de la Loi. Ces sommes ont été payées aux employés de SDM par Imasco. SDM a fait à Imasco un paiement de 54 984 104 $ à titre de remboursement. Le juge en chef Bowman a établi une distinction entre l’affaire dont il était saisi et l’affaire Kaiser Petroleum parce que le paiement n’avait pas été fait pour réorganiser la structure financière de SDM, alors que ce facteur avait été prédominant dans l’affaire Kaiser Petroleum. Or, c’est la structure financière de la contribuable, Imasco, qui a fait l’objet d’une réorganisation en l’espèce.
+[10] L’avocat de l’appelante a tenté d’écarter l’affaire Kaiser Petroleum en faisant valoir un certain nombre de raisons.
+· Dans l’affaire Kaiser, les paiements ont été faits pour les besoins de l’opération en capital. Ashland était tenue, en vertu de la convention d’achat, de modifier son régime d’options d’achat d’actions, de présenter une offre d’achat des options en circulation, puis d’annuler le régime. Imasco s’était uniquement engagée à encourager l’abandon ou la levée des options. Imasco a effectué les paiements pour honorer ses obligations envers ses employés, non pour rendre l’opération en capital possible.
+· Dans l’affaire Kaiser, les paiements visaient à mettre fin au régime d’options d’achat d’action. Imasco n’était pas tenue par l’entente de mettre fin au régime, et celui‑ci n’a pas été annulé en bonne et due forme.
+· Dans l’affaire Kaiser, on a fait les paiements pour s’assurer de conserver le personnel clé, tandis que les paiements en l’espèce ne visaient nullement la conservation de l’effectif.
+· Dans l’affaire Kaiser, l’obligation d’Ashland d’effectuer les paiements découlait de la convention d’achat. Imasco a assumé et honoré son obligation de faire les paiements en vertu du ROAA.
+· Dans l’affaire Kaiser, le droit des employés d’abandonner leurs options en échange d’une somme en espèces était conditionnel à la clôture de l’opération en capital. Après la modification du ROAA d’Imasco, les employés avaient le droit d’abandonner contre de l’argent des options acquises, que l’opération de fermeture soit réalisée ou non.
+· Les titulaires d’options dans l’affaire Kaiser étaient tenus d’abandonner leurs options en échange d’une somme en espèces ou les options étaient annulées. Les titulaires d’options d’Imasco avaient le droit de choisir, à leur gré, de lever ou d’abandonner leurs options, ou de les conserver.
+· Ashland était tenue, selon la convention d’achat, de modifier son ROAA pour permettre les acquisitions par anticipation. Le ROAA d’Imasco autorisait depuis 1995 les acquisitions par anticipation et l’abandon des options en échange d’une somme en espèces.
+[11] Ces distinctions sont toutes vides de sens. Il est loin d’être clair, à la lumière des faits dont je suis saisi, que les paiements faits aux titulaires d’options en l’espèce visaient, comme le soutient l’appelante, à régler la situation avec ses employés ou à honorer son obligation envers eux. Les titulaires d’options acquises auraient pu lever celles‑ci pour ensuite vendre les actions sur le marché ou les offrir à BAT lorsque l’opération aurait été terminée, s’ils l’avaient souhaité. Les administrateurs d’Imasco estimaient peut‑être, compte tenu de l’opération de fermeture imminente, qu’Imasco, pour être juste envers les employés, devait accélérer l’acquisition des options non acquises, mais l’équité n’obligeait certainement pas la société à faire les paiements en cause. Il ressort sans équivoque de l’article 5.8 de l’entente relative à la proposition d’opération que BAT et Imasco voulaient toutes les deux que l’ensemble des options d’achat d’actions en circulation soit, dans la mesure du possible, éliminé avant la conclusion de l’opération. Si la rémunération était un des facteurs à l’origine de la décision de faire les paiements, il n’en demeure pas moins que, comme dans l’affaire Kaiser Petroleum, la réorganisation de la structure financière de l’appelante [traduction] « domin[ait] toute la série de circonstances […] et constitu[ait] l’élément directeur […] ».
+[12] La véritable question que doit trancher la Cour dans chaque cas est la suivante : « Quel était l’effet envisagé de la dépense d’un point de vue pratique et commercial? ». Comme la modification du ROAA et la diffusion du communiqué de presse de BAT annonçant que des discussions étaient en cours ont eu lieu le même jour, soit le 7 juin 1999, et comme l’entente relative à une proposition d’opération, dont l’article 5.8 énonce les paramètres touchant l’élimination, dans la mesure du possible, des options en circulation, a été signée le 2 août 1999, on ne peut sérieusement douter de l’effet envisagé de la dépense. Celle‑ci visait à donner à BAT une certaine assurance qu’au moment de la conclusion de l’opération de fermeture, il ne resterait que peu ou pas d’options en circulation entre les mains des employés d’Imasco. Si Imasco avait eu pour seul objectif de régler la situation avec ses employés, comme l’affirme l’avocat, elle aurait alors pu se contenter d’accélérer l’acquisition des options non acquises, ce qui aurait permis aux employés de les lever à leur gré.
+[13] Il est vrai que le ROAA d’Imasco permettait à la société, depuis la modification de 1995, d’accélérer l’acquisition des options. L’important c’est que, concurremment à l’opération de fermeture, Imasco a pris les dispositions nécessaires pour permettre l’acquisition par anticipation, notamment lorsqu’elle a obtenu l’approbation de la Bourse de Toronto. Il convient de signaler que l’acquisition par anticipation était conditionnelle à la conclusion de l’opération[11], tout comme l’étaient la levée ou l’abandon, par les employés, de leurs options[12]. Bien qu’on n’ait pas mis fin en bonne et due forme au ROAA d’Imasco, ce régime est inactif depuis la conclusion de l’opération de fermeture[13], ce qui revient au même.
+[14] Le juge en chef Bowman a établi entre les affaires Shoppers Drug Mart et Kaiser Petroleum une distinction fondée uniquement sur le fait que c’est la structure financière d’Imasco, et non celle de SDM, qui avait fait l’objet d’une réorganisation. Cette distinction ne s’applique pas en l’espèce, et il n’en existe aucune autre. En conséquence, je n’ai d’autre choix que d’appliquer l’arrêt Kaiser Petroleum.
+[15] L’avocat de l’appelante a soutenu que trois récentes décisions de la Cour[14] portant sur des dépenses qui découlent de réorganisations de sociétés militent toutes en faveur de la conclusion selon laquelle les paiements en l’espèce ont été faits au titre du revenu. Toutes ces affaires intéressent des situations qui sont sensiblement différentes des faits en l’espèce et de ceux de l’affaire Kaiser Petroleum. Comme je suis lié par la décision qu’a rendue la Cour d’appel fédérale dans l’arrêt Kaiser, il est inutile que je me demande dans quelle mesure ces affaires auraient par ailleurs pu influer sur ma décision.
+[16] Les appels sont rejetés avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 21e jour de décembre 2010.
+« E. A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 9e jour de mars 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 648
+No DU DOSSIER DE LA COUR : 2008-402(IT)G
+INTITULÉ : Imperial Tobacco Canada Limitée c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 20 octobre 2009
+MOTIFS DU JUGEMENT : L’honorable juge E. A. Bowie
+DATE DU JUGEMENT : Le 21 décembre 2010
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Al Meghji et Me Patrick Marley
+Avocats de l’intimée :
+Me Marie-Thérèse Boris et Me Bobby Sood
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Al Meghji
+Cabinet : Osler, Hoskin & Harcourt
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R. 1985, ch. 1 (5e suppl.), et ses modifications.
+[2] Ce chiffre a été modifié. Il est passé de 62 800 à 70 000 après entente entre les avocats au début de l’instruction.
+[3] Mémoire des faits et du droit de l’appelante, par. 4.
+[4] [1966] A.C. 224, p. 264 (CJCP).
+[5] [1985] 2 R.C.S. 46, p. 57.
+[6] (1946) 72 C.L.R. 634, p. 648 (H.C. Aust.).
+[7] 90 D.T.C. 6603 (CAF); infirmant 90 D.T.C. 6034 (C.F. 1re inst.).
+[8] Précité, note 4, p. 271.
+[9] 90 DTC 6603, p. 6606.
+[10] 2007 CCI 636; 2008 DTC 2043.
+[11] Exposé conjoint des faits, par. 16, et lettres à la pièce A-1, onglet 8.
+[12] Exposé conjoint des faits, par. 17, et lettres à la pièce A-1, onglet 8.
+[13] Exposé conjoint des faits, par. 23.
+[14] Boulangerie St-Augustin Inc. c. La Reine, 95 DTC 164, conf. par 97 DTC 5012; International Colin Energy Corp. c. La Reine, 2002 DTC 2185; BJ Services Company Canada c. La Reine, 2004 DTC 2032.

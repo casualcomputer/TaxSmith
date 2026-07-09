@@ -1,0 +1,179 @@
+Title: Maya Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26637/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-502-26637-maya-inc-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-07-16
+
+# Maya Inc. c. La Reine
+
+- Citation: 2003 CCI 502
+- Decision date: 2003-07-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3645, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maya Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-16
+Référence neutre
+2003 CCI 502
+Numéro de dossier
+2000-963(IT)G
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2000-963(IT)G
+ENTRE :
+MAYA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 28 mai 2003 à Montréal (Québec)
+Devant : L'honorable juge P.R. Dussault
+Comparutions :
+Avocat de l'appelante :
+Me Pierre Paradis
+Avocate de l'intimée :
+Me Marie Bélanger
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour l'année d'imposition 1995 est admis et la cotisation est annulée.
+L'appel de la cotisation établie pour l'année d'imposition 1996 est rejeté.
+L'appel de la cotisation établie pour l'année d'imposition 1997 est admis et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant pour acquis que le montant de la contrepartie reçue ou à recevoir au cours de l'année, aux fins de l'application du paragraphe 237.1(7.4) de la Loi, est de 726 000 $ au lieu de 771 000 $.
+Le tout avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada ce 16e jour de juillet 2003.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2003CCI502
+Date : 20030716
+Dossier : 2000-963(IT)G
+ENTRE :
+MAYA INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Il s'agit d'appels de cotisations établies en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour les années d'imposition 1995, 1996 et 1997 de l'appelante.
+[2] D'emblée, l'intimée reconnaît que la cotisation pour l'année 1995 doit être annulée.
+[3] Quant aux cotisations pour les années 1996 et 1997, elles ont été établies en vertu du paragraphe 237.1(7.4) de la Loi. La pénalité cotisée a été calculée comme étant égale à 25 p. 100 du montant de la contrepartie reçue ou à recevoir d'une personne pour chacune des années relativement à un abri fiscal avant qu'un numéro d'inscription ait été attribué à cet abri fiscal. Aux fins des cotisations, la contrepartie a été calculée comme étant de 549 500 $ et de 771 000 $ pour chacune des années 1996 et 1997 respectivement.
+[4] Pour établir les cotisations, le ministre du Revenu national (le « Ministre » ) a tenu pour acquis les faits énoncés aux alinéas a) à k) du paragraphe 9 de la Réponse à l'avis d'appel. Ces alinéas se lisent :
+a) L'appelante est une société privée sous contrôle canadien;
+b) L'appelante fait la promotion d'un investissement dans une ferme ou plantation de bois de Teck au Costa Rica à titre de mandataire pour Maya Forestales S.A., (ci-après nommée, « la Compagnie » );
+c) Selon la déclaration ou l'annonce (ci-après nommée, « la Déclaration » ) faite par la compagnie, l'investisseur acquiert un lot de boisé à reforester au Costa Rica et les droits de plantation sur ce lot pour un montant de 100 $;
+d) Selon la Déclaration, l'investisseur donne un mandat à la compagnie pour faire l'aménagement du lot, herbiciser, fertiliser, préparer les plantules, les planter sur le lot, etc. et lui paie des frais d'aménagement et des honoraires au montant de 9 900 $;
+e) Selon la Déclaration, le montant de 9 900 $ mentionné au sous paragraphe d) est déductible dans l'année où les dépenses mentionnées au sous paragraphe d) sont exécutées;
+f) Selon la Déclaration, la compagnie émet une offre de rachat dont la valeur minimum (70 %) de la dépense est accompagnée par une lettre de garantie bancaire;
+g) Le montant nécessaire à l'exécution de la garantie est déposé dans un compte en fidéicommis au nom de l'investisseur dans une institution financière canadienne;
+h) Selon la Déclaration, l'acquisition d'une part dans la plantation de teck donnerait droit à une déduction la première année de l'achat égale à 99 % du coût d'une part dans la plantation de teck, ce qui est supérieur au coût d'une part (100 %) moins l'offre de rachat de 70 % d'une part et par conséquent, une part dans la plantation de teck représente un abri fiscal;
+i) Aucune demande visant à obtenir un numéro d'enregistrement concernant l'abri fiscal tel que décrit au sous paragraphe h), n'a été produite auprès du Ministre;
+j) Les montants de la contrepartie reçus ou à recevoir d'un investisseur relativement à l'abri fiscal décrit au sous paragraphe h) sont les suivants :
+1996:
+549 500 $
+1997 :
+771 000 $
+k) Selon la Déclaration, dans le cas d'un investissement de 10 000 $, le montant déductible dans les quatre premières années, serait de 9 900 $, montant qui serait supérieur à l'excédent du coût de 10 000 $ moins la garantie de 7 000 $.
+9 900 $ > 10 000 $ - (70 % de 10 000 $) = 3 000 $
+9 900 $ > 3 000 $
+[5] Lors de l'audition, les parties se sont entendues sur le fait que la contrepartie totale reçue ou à recevoir était plutôt de 566 000 $ pour l'année d'imposition terminée le 30 juin 1996 et de 726 000 $ pour l'année d'imposition terminée le 30 juin 1997. Pour 1996, la cotisation ne peut être augmentée. Pour 1997, même si l'appelante n'a pas gain de cause au mérite, il y aura lieu d'admettre l'appel de façon à ce que la pénalité de 25 p. 100 soit rajustée en fonction du montant de 726 000 $ au lieu de 771 000 $.
+[6] Les dispositions législatives et réglementaires pertinentes sont les paragraphes 237.1(1), (4) et (7.4) de la Loi ainsi que le paragraphe 231(6) et l'alinéa 231(6)c) du Règlement de l'impôt sur le revenu (le « Règlement » ).
+· Les paragraphes 237.1(1), (4) et (7.4) se lisent :
+237.1 (1) Définitions - Les définitions qui suivent s'appliquent au présent article.
+« abri fiscal » Bien (y compris, pour plus de certitude, le droit à un revenu) pour lequel il est raisonnable de considérer, compte tenu de déclarations ou d'annonces faites ou envisagées relativement au bien, que si une personne acquérait une part dans ce bien, le montant visé à l'alinéa a) serait à la fin d'une année d'imposition qui se termine dans les quatre ans suivant le jour où la part est acquise, égal ou supérieur au montant visé à l'alinéa b) :
+a) le total des montants représentant chacun :
+(i) un montant ou, dans le cas d'une participation dans une société de personne, une perte qui est annoncé comme étant déductible dans le calcul du revenu, au titre de la part (y compris, si le bien est un droit à un revenu, un montant ou une perte afférant à ce droit qui est annoncé comme étant déductible), et qui pourrait être engagé ou subie par la personne ou attribué à celle-ci pour l'année ou pour une année d'imposition antérieure,
+(ii) un autre montant qui est annoncé comme étant déductible dans le calcul du revenu ou du revenu imposable, au titre de cette part, et qui pourrait être engagé par la personne ou attribué à celle-ci pour l'année ou pour une année d'imposition antérieure, à l'exclusion d'un montant inclus dans le calcul d'une perte visée au sous-alinéa (i);
+b) l'excédent éventuel du montant visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+(i) le coût de la part pour la personne à la fin de l'année, déterminé compte non tenu de l'article 143.2,
+(ii) la valeur totale des avantages visés par règlement que la personne ou toute personne avec laquelle elle a un lien de dépendance pourrait recevoir, directement ou indirectement, au titre de la part.
+Les actions accréditives et les biens visés par règlement ne sont toutefois pas considérés comme des abris fiscaux.
+« personne » Comprend une société de personnes.
+« promoteur » Personne qui, quant à un abri fiscal et dans le cours des activités d'une entreprise :
+a) émet ou vend des parts dans cet abri fiscal ou fait la promotion de leur émission, de sa vente ou de son acquisition;
+b) agit, à titre de mandataire ou de conseiller, en ce qui concerne l'émission ou la vente de parts dans cet abri fiscal ou la promotion de leur émission, de leur vente ou de leur acquisition.
+c) accepte, à titre de principal ou de mandataire, une contrepartie relativement à l'abri fiscal.
+Au même abri fiscal peuvent correspondre plus d'un promoteur d'abris fiscaux.
+...
+(4) Numéro obligatoire pour vendre un abri fiscal - Nul ne peut, que ce soit à titre de principal ou de mandataire, émettre ou vendre une part dans un abri fiscal, ou accepter une contrepartie relativement à un abri fiscal, avant que le ministre n'ait attribué à cet abri fiscal un numéro d'inscription.
+...
+(7.4) Pénalité - Toute personne qui, relativement à un abri fiscal, fournit des renseignements faux ou trompeurs au ministre dans la demande visée au paragraphe (2) ou contrevient au paragraphe (4) est passible d'une pénalité égale au plus élevé des montants suivants :
+a) 500 $;
+b) 25 % du total des montants représentant chacun la contrepartie reçue ou à recevoir d'une personne relativement à l'abri fiscal avant que les renseignements corrigés aient été fournis au ministre ou avant qu'un numéro d'inscription ait été attribué à l'abri fiscal, selon le cas.
+· Le paragraphe 231(6) et l'alinéa 231(6)c) du Règlement se lisent :
+(6) Pour l'application de l'alinéa b) de la définition d' « abri fiscal » au paragraphe 237.1(1) de la Loi, l'avantage à recevoir au titre d'une part dans un abri fiscal est un montant que, compte tenu des déclarations ou annonces faites au sujet de cet abri fiscal, la personne qui acquiert cette part - appelée « l'acheteur » au présent paragraphe - ou une personne avec laquelle l'acheteur a un lien de dépendance peut raisonnablement s'attendre à recevoir ou à avoir à sa disposition, ce qui a pour conséquence de réduire l'effet d'une perte que l'acheteur pourrait subir en acquérant ou en détenant cette part ou encore en en disposant. Sont notamment des avantages :
+...
+c) le produit de disposition auquel l'acheteur peut avoir droit aux termes d'une convention ou d'un arrangement qui lui confère le droit, conditionnel ou non, de disposer de sa part dans l'abri fiscal - autrement que par suite de son décès - , y compris la juste valeur marchande d'un bien dont l'acquisition est prévue dans la convention ou l'arrangement, en échange de tout ou partie de la part dans l'abri fiscal;
+...
+[7] Monsieur Pierre Roberge, président de l'appelante ainsi que madame Madeleine Lapointe et monsieur Daniel Beaudoin, tous deux vérificateurs à l'Agence des douanes et du revenu du Canada, ont témoigné.
+[8] Lors de son témoignage, monsieur Roberge a déposé en preuve plusieurs modèles de contrats pré-imprimés utilisés au cours des années par Maya Forestales S.A. ( « Maya S.A. » ) représentée par l'appelante (d'abord désignée comme étant 2861-3883 Québec Inc.). Ces contrats tantôt séparés tantôt réunis en un seul document couvrent le mandat donné par l'investisseur à Maya S.A. pour l'achat du lot et des droits de plantation, celui qui lui est donné pour faire la plantation des arbres et exécuter les autres travaux nécessaires ainsi que celui qui lui est octroyé pour faire les coupes et voir à la commercialisation du bois (pièces A-2 à A-6).
+[9] Les contrats contiennent une clause selon laquelle Maya S.A. s'engage à racheter de l'investisseur, à son option, le lot boisé qu'elle aura aménagé, et ce, entre la huitième année à partir de la date de la plantation des arbres et les 180 jours suivants pour un montant représentant 70 p. 100 du coût du terrain et des frais d'aménagement. Le dépôt d'un montant équivalent à cette somme dans un compte en fidéicommis au nom de l'investisseur est également prévu afin de garantir le rachat.
+[10] Selon monsieur Roberge, un certain nombre d'investisseurs, dont lui-même, ont renoncé à cette option de rachat et à cette garantie de paiement (voir pièces A-6, A-11 et A-13).
+[11] Les documents de publicité utilisés au cours des deux années en litige (pièces A-7 et A-8) précisent que 99 p. 100 des dépenses d'entreprise sont déductibles et que Maya S. A. offre de racheter le lot acquis par l'investisseur pour un montant minimum égal à 70 p. 100 de la mise de fonds initiale. Il est prévu que ce rachat est garanti par le dépôt des sommes nécessaires dans un compte spécial en fidéicommis (pièce A-7, page 9) ou par une lettre de garantie bancaire ou l'équivalent (pièce A-8, page 2).
+[12] L'avocat de l'appelante soutient que dans le cas où un investisseur aurait renoncé à la garantie de rachat, on ne peut prétendre alors qu'on lui aurait vendu un abri fiscal. Selon lui, la pénalité imposée à l'appelante ne serait pas justifiée dans de telles circonstances.
+[13] J'estime que cet argument n'est pas fondé vu la définition d' « abri fiscal » au paragraphe 237.1(1) de la Loi. En effet, dans la définition, la relation établie entre le montant déductible dans les quatre ans de l'acquisition d'une part dans un bien et le coût de cette part diminué de la valeur totale des avantages visés par règlement est avant tout en fonction des « déclarations ou d'annonces faites ou envisagées » , c'est-à-dire en fonction de ce qui est proposé à l'investisseur. Plus particulièrement, selon la définition, on doit tenir compte d'un « ... montant qui est annoncé comme étant déductible dans le calcul du revenu ou du revenu imposable, au titre de la part, ... » selon les termes mêmes du sous alinéa 237.1(1)a)(ii) de la définition d' « abri fiscal » . De même, par référence au paragraphe 231(6) du Règlement, il faut aussi tenir compte du montant que, « compte tenu des déclarations ou annonces faites au sujet de cet abri fiscal, » ... « l'acheteur ... peut raisonnablement s'attendre à recevoir ou à avoir à sa disposition, ce qui a pour conséquence de réduire l'effet d'une perte que l'acheteur pourrait subir en acquérant ou en détenant cette part ou encore en en disposant » . Ce dernier montant est ici celui annoncé comme étant le prix de rachat garanti si l'investisseur exerce l'option de rachat prévue, c'est-à-dire un montant égal à 70 p. 100 du coût initial, soit le prix du lot et des frais d'aménagement. Ainsi, bien que cet avantage soit couvert par le libellé du paragraphe 231(6), j'estime que l'on pourrait aussi conclure qu'il est plus spécifiquement visé à l'alinéa 231(6)c) du Règlement. Le fait qu'un investisseur ou un autre décide de renoncer à la garantie de rachat n'est pas pertinent.
+[14] À mon avis, il est raisonnable de considérer, compte tenu des déclarations ou annonces faites dans les documents soumis aux investisseurs, c'est-à-dire tant dans les documents publicitaires que dans les contrats proposés, qu'un investisseur pourrait effectivement déduire 99 p. 100 de sa mise de fonds alors que celle-ci est par ailleurs garantie à 70 p. 100, ce qui correspond à la définition d'un abri fiscal telle qu'énoncée au paragraphe 237.1(1) de la Loi, pour autant que l'on détermine que l'investissement proposé constitue effectivement l'acquisition « d'une part dans un bien » . Ce point est contesté par l'avocat de l'appelante qui prétend que les investisseurs n'ont pas acquis « une part dans un bien » , mais qu'ils ont chacun acquis la totalité d'un terrain ou d'un lot ainsi que les droits de plantation et non une partie ou une parcelle d'un terrain ou d'une plantation comme le soutient l'intimée.
+[15] L'argument de l'avocat de l'appelante doit être rejeté. Le Petit Robert, dictionnaire de langue française, (le « Robert » ) donne au mot « part » le sens premier de « ce qui revient à qqn..., ce qu'une personne possède ou acquiert en propre » . Il est aussi à noter que dans le texte anglais de la Loi, au paragraphe 237.1(1), on utilise l'expression « an interest in the property » comme l'équivalent de « une part dans le bien » . L'acquisition d'un droit de propriété dans un lot est très certainement couverte par l'expression anglaise. De plus, si on voulait donner au mot « part » son sens de « partie d'un tout ou d'un ensemble » que lui attribue le Robert en deuxième lieu, il n'est pas possible de conclure qu'une personne qui détiendrait 100 p. 100 ou la totalité des parts dans un bien ne détiendrait pas de part dans ce bien.
+[16] Finalement, je conclurai sur ce point en reprenant l'argument de l'avocate de l'intimée qui prétend que Maya S.A. et l'appelante, son mandataire, vendaient à un investisseur une part dans une plantation. Dans une copie de la lettre de garantie irrévocable donnée par Maya S.A. à un investisseur (pièce I-2) on retrouve notamment la déclaration suivante :
+...
+· Déclaration de donneur d'ordre : Maya Forestales S.A.
+Je, soussigné, donneur d'ordre déclare par la présente, avoir acquis, au nom du bénéficiaire, aux termes d'un CONTRAT DE MANDAT signé le 18 décembre 1996, un lot et des Droits de plantation de Maya Forestales S.A., désignés sous les lots 71-45, partie de la ferme # 263233, située à :
+Las Delicias, District 3, San Juan de Mata, Canton 16, Turrubares, Province de San Jose, Costa Rica, REGISTRO NACIONAL CADASTRO NACIONAL, COSTA RICA.
+ARBRES NO 050896 MICNOR 12136 à O50896 MICNOR 12235
+(signature)
+______________________
+MAYA FORESTALES S.A. Témoin (signature)
+Date
+...
+[17] D'après cette déclaration, il semble donc que Maya S.A. était déjà au départ propriétaire du lot que l'investisseur lui donnait mandat d'acquérir en son nom et que ce lot était effectivement partie d'une ferme ou d'une plantation comme le prétend l'avocate de l'intimée. Par ailleurs, certains documents démontrent que le propriétaire enregistré de la plantation est toujours Maya S.A. et qu'un investisseur acquiert un secteur de la plantation où sont plantés un certain nombre d'arbres qui sont identifiés et numérotés grâce à un système de repérage par triangulation GPS ( « Global Positioning System » ). Les arbres ainsi identifiés et numérotés sont attribués à l'investisseur propriétaire de ce secteur ou de cette partie de la plantation. (Voir les documents accompagnant le contrat de mandat de la Pièce A-6.)
+[18] Dans une lettre qu'il faisait parvenir à madame Lapointe en date du 15 mai 1998, monsieur Roberge confirme que Maya S.A. « est bien le propriétaire du terrain » et que « pour ce qui est de l'enregistrement de la propriété des lots des investisseurs canadiens la désignation a été faite par GPS et enregistrée sous seing privé auprès de Me Loria » . En fait, Me Loria est notaire et administrateur de Maya S.A. au Costa Rica.
+[19] Selon les documents soumis en preuve, il ne fait pas de doute que chaque lot constitue un secteur, une partie ou une part d'une plantation dont Maya S.A. est le propriétaire officiel enregistré.
+[20] Ainsi, quelle que soit la façon dont on voit les choses et quel que soit le sens que l'on attribue au mot « part » , j'estime que l'investissement proposé par Maya S.A. et l'appelante au cours des années en litige consistait en l'acquisition d'une part dans un bien.
+[21] Le dernier point soulevé concerne l'obtention d'un numéro d'inscription d'abri fiscal. Dans leur témoignage, tant monsieur Roberge pour l'appelante que madame Lapointe et monsieur Beaudoin pour l'intimée ont fait état des démarches et communications nombreuses dans le but d'obtenir un numéro d'inscription d'abri fiscal. Plusieurs documents, dont la correspondance échangée, ont également été soumis en preuve. Deux éléments ressortent de la preuve présentée. Premièrement, selon monsieur Roberge, la première demande pour l'obtention d'un numéro d'inscription d'abri fiscal au niveau fédéral n'a été faite que le 26 juin 1998 (pièce A-18), soit longtemps après la fin des années en litige. Je signale simplement qu'une telle demande avait pourtant été faite le 16 décembre 1997 auprès de Revenu Québec et que l'appelante avait obtenu un numéro d'inscription le 20 janvier 1998 (pièce A-16). Deuxièmement, selon monsieur Beaudoin, l'appelante n'a jamais obtenu de numéro d'inscription d'abri fiscal parce que son dossier était incomplet et plus particulièrement parce que l'appelante n'a pu signer d'engagement à tenir les livres et registres de Maya S.A. et non seulement les siens au Canada.
+[22] Comme l'appelante, à titre de mandataire de Maya S.A., a vendu au cours des années en litige des parts dans un abri fiscal sans obtenir de numéro d'inscription, elle est donc passible de la pénalité prévue au paragraphe 237.1(7.4) de la Loi.
+[23] En conséquence de ce qui précède :
+l'appel de la cotisation établie pour l'année d'imposition 1995 est admis et la cotisation est annulée; l'appel de la cotisation établie pour l'année d'imposition 1996 est rejeté; et l'appel de la cotisation établie pour l'année d'imposition 1997 est admis et la cotisation est déférée au Ministre pour nouvel examen et nouvelle cotisation en tenant pour acquis que le montant de la contrepartie reçue ou à recevoir au cours de l'année aux fins de l'application du paragraphe 237.1(7.4) de la Loi est de 726 000 $ au lieu de 771 000 $; le tout avec dépens en faveur de l'intimée.
+Signé à Ottawa, Canada ce 16e jour de juillet 2003.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE :
+2003CCI502
+No DU DOSSIER DE LA COUR :
+2000-963(IT)G
+INTITULÉ DE LA CAUSE :
+Maya Inc. et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 28 mai 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P. R. Dussault
+DATE DU JUGEMENT :
+le 16 juillet 2003
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Pierre Paradis
+Avocate de l'intimée :
+Me Marie Bélanger
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Étude :
+Ville :
+Me Pierre Paradis
+Paradis Dionne
+Thetford Mines (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

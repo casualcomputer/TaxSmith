@@ -1,0 +1,234 @@
+---
+title: "Nixon v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521146/index.do"
+last_modified: "2023-08-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 124"
+citation2: ""
+neutral_citation: "2023 TCC 124"
+decision_date: "2023-08-22"
+language: "en"
+item_id: "521146"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5676
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:45:59.867000+00:00"
+cases_cited_count: 6
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a68ad9dbea21d61947f4cbf78ebe74adb82cb75860fb10174ff15e45f5ac7efb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Nixon v. The King
+
+- Citation: 2023 TCC 124
+- Decision date: 2023-08-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5676, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nixon v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-08-22
+Neutral citation
+2023 TCC 124
+File numbers
+2014-4399(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-4399(IT)G
+BETWEEN:
+RICHARD JOHN NIXON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on May 8-11, 2023, at Toronto, Ontario
+By The Honourable Justice Ronald MacPhee
+Appearances:
+For the Appellant:
+David Davies
+Vivian Esper
+Counsel for the Respondent:
+Aaron Tallon
+Jasmeen Mann
+JUDGMENT
+The Appeal from the reassessments made under the Income Tax Act for the Appellant’s 2002 and 2003 taxation years is dismissed. Costs are payable by the Appellant to the Respondent.
+If the parties are unable to agree upon costs, the Respondent shall file written submissions concerning costs on or before September 29, 2023. The Appellant shall have until October 31, 2023 to file any responding written
+submissions they wish the Court to consider. Neither party’s submissions shall exceed 10 pages.
+Signed at Sydney, Nova Scotia, this 22nd day of August 2023.
+“R. MacPhee”
+MacPhee J.
+Citation: 2023 TCC 124
+Date: August 22, 2023
+Docket: 2014-4399(IT)G
+BETWEEN:
+RICHARD JOHN NIXON,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+I. BACKGROUND [1] Richard John Nixon (the “Appellant”) appeals the reassessments for his 2002 and 2003 taxation years. During these years the Appellant was a participant in the Berkshire Funding Initiatives Limited and Talisker Funding Limited (“The Berkshire Program” or “Berkshire”). As a participant, the Appellant has received a charitable tax receipt from Ideas Canada Foundation (“Ideas”) on the premise that he made a cash donation of $300,000 in both the 2002 and 2003 taxation years. The Minister of National Revenue (“Minister”) disallowed the entire claim on several bases. Most specifically because the Minister has determined that the Appellant received a benefit as a result of his participation in Berkshire, the benefit being in the form of an interest-free loan. The Minister concluded that as a result of the benefit no gift was made by the Appellant.
+[2] The Berkshire Program was previously reviewed by this Court in Kossow v. Her Majesty the Queen [1] wherein the Court found that Ms. Kossow had not made a gift because of the significant benefit she received as a result of her participation in The Berkshire Program. That decision was affirmed by the Federal Court of Appeal.[2]
+[3] At the outset of trial, the Appellant’s counsel stated that the Appellant “did not follow the template” as set out in Kossow. The Appellant submits that his fact situation is distinguishable from Kossow, and as a result of these distinguishing factors, the appeal should be allowed.
+[4] The many facts concerning the Berkshire Program are largely set out in the Crown’s assumptions, which describe the various participants in the Berkshire Program, the flow of funds, and other related matters concerning the many components of the arrangement. I do not intend to set out those facts because they were not in contention at trial. I will focus on the specific facts surrounding the Appellant’s participation in Berkshire.
+[5] The Appellant was the only witness. He is a lawyer with over 40 years at the bar. For many years he was a partner at a major Toronto firm. The Appellant was articulate and well prepared at trial. I also find that the Appellant’s testimony was not reliable and was an attempt to mislead the Court concerning specific facts.
+[6] Given the Appellant’s background as an officer of the Court[3], I find it disappointing that it is my conclusion that the Appellant attempted to mislead the Court. At times, the Appellant’s testimony defied common sense, and in particular concerning the loan from Talisker (described in detail below), bordered on the ridiculous.
+[7] Talisker Funding Limited (“Talisker”) and Berkshire Funding Initiatives Limited jointly promoted and operated Ideas, which the Respondent describes as a leveraged-donation program. As described in the documents before the Court, Talisker provided 25-year interest-free loans to participants of Ideas for the sole purpose of making donations to Ideas. Each of these loans equaled 80% of the participant’s purported donation to Ideas. The following requirements were generally required to obtain such a loan and be a participant in Ideas:
+(i)Sign a pledge to Ideas in the amount the participant purports to donate;
+(ii)Complete a loan application and power of attorney;
+(iii)Complete a promissory note for the amount of the applied-for loan;
+(iv)Write a cheque to Talisker “as agent” for his 20% contribution toward the donation to Ideas; and
+(v)Write cheques to Talisker (in its own right) for loan processing fees of 1-5% of the donation and security deposit equal to 10% of the donation.
+[8] In 2002 the Appellant was approached by his investment advisor Warren Fergus about participating in Berkshire. As described in the Berkshire Program promotional material, there were several registered Canadian charities listed that the Appellant would be donating to through the Program. At trial the Appellant became emotional when testifying of the importance for him of donating to one of those listed charities, the MacLaren Art Centre. He claimed the MacLaren Art Centre was very important to him because he had connections to the person responsible for establishing it, the Gallery was in his hometown, and he had a lifetime appreciation for art.
+[9] While not much turns on this, I find the Appellant’s claimed interest in assisting the MacLaren Art Centre dubious, and most likely constructed at the time of trial. This conclusion is made, in part, because during the objection stage, when asked where the funds he claimed to have contributed to Berkshire were distributed, the Appellant wrote that his contributions were mingled, and he could not trace where they went. In cross-examination, he admitted that he never investigated whether he could have donated to MacLaren directly, and it appears that the Appellant has never donated to MacLaren in any form, despite, (by his own description) being very wealthy and interested in making donations.
+[10] Prior to participating in the Berkshire program, the Appellant received promotional material, which included detailed calculations of the benefit of a $300,000 gift in 2002. These calculations indicated that the Appellant would only initially be out of pocket a total of $96,000 in 2002, yet still be credited with making a $300,000 gift. Additionally, as a result of the tax credit provided on his donation, he would have an “annual cash flow benefit” in 2002 of $73,200. This amount would be reduced to $43,200 in 2003 as a result of a $30,000 payment due. Other documents in the promotional material referred to the $73,200 and $43,200 amounts as the “Cumulative Total Cash Flow advantage to the Donor”. In the entirety of the promotional material, it was made clear to the Appellant that he would be financially enriched as a result of his participation in the Berkshire program.
+A. 2002 Participation
+[11] The first claimed donation was made by the Appellant on September 18, 2002 in the amount of $300,000, the same day on which he received $300,000 in return from Talisker. The details relating to the claimed donation are as follows.
+[12] On August 13, 2002, Mr. Fergus met with Mr. Nixon in the Appellant’s office. Mr. Fergus presented the Appellant with an Ideas pledge and a standard template from Talisker (i.e., a loan application and associated promissory note, similar to the template Ideas package) (“Original Loan Application”). Mr. Nixon signed the Ideas pledge for $300,000, and a loan application requesting $240,000. The amounts required in the Original Loan Application were:
+(a)Pledge amount: $300,000;
+(b)Deposit amount: $3,000;
+(c)Initial loan amount: $300,000;
+(d)Initial security: $30,000; and
+(e)Process fee: $6,000.
+[13] The Appellant was supposed to pay $12,000 immediately upon signing the documents on August 13, 2002, and deliver postdated cheques for $54,000 (dated December 16, 2002) and $30,000 (dated March 14, 2003). Mr. Nixon wrote these three cheques, made payable to Ideas, and gave them to Mr. Fergus along with the Original Loan Application and pledge to Ideas.
+B. The Amended Loan Application – 2002
+[14] On August 13, 2002, Mr. Fergus advised Mr. Nixon that Talisker would not accept cheques made payable to Ideas. By August 16, 2002, Mr. Fergus reiterated to Mr. Nixon the cheques would have to be made out in the name of “Talisker Funding Limited, as agent”. Mr. Nixon wrote a letter on August 16, 2002 that was sent to Mr. Fergus by courier, enclosing copies of the documents he had signed earlier in the week, along with three new cheques made payable to “Talisker Funding Limited, as agent” in the same amounts as before (i.e., $12,000, $54,000, and $30,000). The details of the cheques are as follows:
+(a)Cheque 331 for $300,000 written on Mr. Nixon’s TD Bank chequing account dated September 12, 2002, payable to “Ideas Canada Foundation” (this cheque was eventually replaced by a certified cheque, for the same amount from the Appellant, dated September 18, 2002);
+(b)Cheque 332 for $12,000 written on Mr. Nixon’s TD Bank chequing account dated September 12, 2002, payable to “Talisker Funding Limited”;
+(c)Cheque 334 for $30,000 written on Mr. Nixon’s TD Bank chequing account dated March 14, 2002, payable to “Talisker Funding Limited”; and
+(d)Cheque 333 for $54,000 written on Mr. Nixon’s TD Bank chequing account dated December 16, 2002, payable to “Talisker Funding Limited”
+[15] In an email to Mr. Fergus dated August 16, 2002, the Appellant expressed concerns about the possibility of his donation being questioned by the CCRA (as it was at the time) because his $300,000 cheque was not made to Ideas directly. In response to this concern, on September 13, 2002 Mr. Fergus gave an amended Loan Application, power of attorney, and promissory note to Mr. Nixon (“Amended Loan Application”), which Mr. Nixon signed that same day. The Amended Loan Application contained revised provisions of the Original Loan Application to, inter alia, remove the loan’s connection to the Ideas donation, which Mr. Nixon argues is an important distinguishing factor from other participants of Berkshire[4].
+[16] The Amended Loan Application needed to be accepted by Talisker prior to 60 days following September 13, 2002, as per Section 2.1 of the Amended Loan Application. On November 22, 2002, Talisker accepted the Amended Loan Application 70 days after September 13, 2002. Mr. Nixon’s position at trial was that this rendered the Amended Loan Application void. He was also clear that he only became aware of the deficiency in the contract as part of his trial preparation.
+[17] On September 18, 2002, two key transactions occurred. The Appellant provided a certified cheque for $300,000 payable to Ideas. On the same day, Mr. Fergus delivered to Mr. Nixon a cheque from Talisker in the amount of $300,000. This is the 2002 loan from Talisker. Mr. Nixon deposited the cheque from Talisker at 4:03 p.m. on September 18, 2002 into his TD Bank account.
+[18] Mr. Nixon’s position concerning his obligation to repay any outstanding obligation to Talisker (an undefined amount at the time of trial) was somewhat unclear and a bit of a moving target.
+[19] Mr. Nixon testified that the security deposit of $30,000 he paid to Talisker would be invested over the duration of the loan and was expected to grow enough to cover Mr. Nixon’s loan repayment obligations to Talisker.[5] This is consistent with the Ideas Program promotional documents. Although it was not made clear, I understood this to be his position in 2002 and 2003.
+[20] Over the course of trial the Appellant’s position amended to the point where he felt he may still owe amounts to Talisker. He had no details as to what the amounts were, or even if Talisker still existed.
+[21] Mr. Nixon received by mail an official receipt from Ideas dated December 4, 2002 in respect of his claimed cash donation of $300,000. Mr. Nixon claimed a federal charitable donation tax credit of $87,000 and a provincial tax credit of $33,408 in the 2002 taxation year. The date of the donation receipt is December 4, 2002. It showed the date of the donation as being September 18, 2002.
+C. 2003 Donation
+[22] The 2003 claimed donation occurred on February 17, 2003. The following details relate to the second claimed donation:
+Mr. Nixon did not sign a pledge for his 2003 donation to Ideas;
+By certified cheque dated February 17, 2003, Mr. Nixon paid Ideas $300,000;
+Talisker advanced Mr. Nixon $297,000, by certified cheque, on February 17, 2003. This was despite the fact that the Appellant had not filled out a loan application with Talisker, an organization that he claims not to have known prior to receiving the Berkshire information, and it appeared he had no history with, outside of the Berkshire arrangement. The difference between the amount paid to Ideas and the amount advanced to Mr. Nixon from Talisker, or $3,000, represented a loan processing fee;
+Mr. Nixon later paid Talisker $60,000 (or 20% of the amount advanced) and $30,000 (10% of the purported donation) as a security deposit.
+Mr. Nixon sent Talisker a signed amended loan application on March 11, 2003 which was 22 days after he received his 2003 loan from Talisker in the amount of $297,000.
+On June 24, 2003, Ideas issued a charitable donation tax receipt for $300,000, recording the donation date as February 17, 2003.
+Mr. Nixon claimed a federal charitable donation tax credit of $87,000 and a provincial credit presumably of $33,408 in the 2003 taxation year (the provincial credit amount was not clearly provided at trial).
+[23] If the 2002 and 2003 loans Mr. Nixon received from Talisker are bound by the terms of the loan application/loan agreement signed by Mr. Nixon, then Mr. Nixon must repay outstanding amounts owing on the loans by December 31, 2027 and December 31, 2028 respectively. The loans, in their application documents, are stated to be interest free until time of maturity.
+[24] As was made clear in the promotional material, the 10% security Mr. Nixon paid to Talisker was expected to be invested and cover the cost of the loan by the loan’s maturity date.
+[25] Mr. Nixon has received no correspondence from Talisker since 2009 concerning whether there is still a balance owing on his loans. He has made no payments on either the 2002 or 2003 loan, other than his initial cheques. The Appellant does not know whether Talisker still exists. Another organization may have purchased the loans of Talisker. I base this upon a comment which was made by the Crown during cross-examination.
+[26] As noted above, the Appellant argues that the changes made to the loan documentation, as well as the fact that the Appellant wrote his $300,000 cheque directly to Ideas, using his own funds, distinguishes the Appellant from other participants in the Berkshire program.
+[27] It is my finding that the arrangement reached between the Appellant and Talisker (or whomever negotiated on behalf of the promoters of Berkshire), demonstrate the absolute cynicism of the promoters, and the Appellant in this specific arrangement. The transactions particular to the Appellant seem to have occurred simply to create the appearance that the Appellant was impoverished as a result of his participation in Ideas, while ensuring that was not the case. The changes in the supporting documentation were also made to create the appearance that the loan transaction between the Appellant and Talisker was not related to his claimed gift to Ideas. A review of the objective evidence at trial show that this was not the case.[6]
+[28] The Appellant’s counsel argues that “form matters”, and that I should not ignore the changes made to the loan document by the Appellant and Talisker, as well as the fact that the Appellant’s cheque went directly to Ideas. This argument carries very little weight. The evidence at trial showed that Talisker and the Appellant had no concern about the legal relationships created by the loan documentation. In 2002, Talisker provided $300,000 to the Appellant without accepting his loan application. In 2003 Talisker provided $297,000 to the Appellant without any documentation specific to the loan from the Appellant. Both amounts were transferred to the Appellant simultaneously with the delivery by the Appellant of his $300,000 cheque. Weeks later the Appellant completed a loan application for the funds he had already received.
+II. ISSUE: [29] At issue is whether the Appellant's alleged donations of $300,000 in both 2002 and 2003 were gifts within the meaning of 118.1(1) of the Income Tax Act (the “Act”).
+A. Appellant’s position:
+[30] Appellant’s counsel argues that the distinction between the present appeal and Kossow[7] is that the Appellant did not follow the template that the other participants of The Berkshire Program were required to follow. The Appellant had the resources to afford making a charitable gift directly to Ideas, and did in fact made payments directly to Ideas from his bank account. The Appellant claims that the funds that were obtained from Talisker were independent from his donation to Ideas. Therefore, the Court should see the withdrawals of $300,000 from his bank account on September 18, 2002 and February 17, 2003 as impoverishments. The Appellant argues that the (claimed) loan from Talisker on these same dates are separate transactions unrelated to his gift. Therefore the Appellant received no benefit as a result of his participation in Berkshire and the claimed donation amounts of $300,000 in 2002 and 2003 should be allowed.
+B. Respondent’s position:
+[31] The Respondent submits Mr. Nixon did not make a charitable gift because he received a sizeable benefit as a result of his participation in Berkshire. The benefit was the interest-free loan of $300,000 in 2002 and 2003. This is the same benefit as identified in Kossow which put the purported gifts offside. The Appellant’s participation in this arrangement was mostly the same as any other participant. By way of example, he, as all other participants:
+(a)paid 20% back to Talisker;
+(b)paid a loan processing fee;
+(c)paid 10% security on his loans; and
+(d)Mr. Nixon received a long-term interest-free loan from Talisker for 80% of his donation.
+[32] Further, the Respondent argues the amended loan application was changed to distance the Appellant’s loan from his participation in the Berkshire program. The purpose of the Appellant receiving the Talisker loan did not change. The Appellant obtained (for the same purpose as other participants) the loans from Talisker to ensure his “Cumulative Cash Flow Advantage” obtained as a result of his participation in Berkshire.
+III. ANALYSIS [33] In Maréchaux v. Her Majesty the Queen, 2010 FCA 287 (F.C.A.), the Federal Court of Appeal dealt with a leveraged-charitable donation program. The Court agreed with the definition of gift adopted by the trial judge from Friedberg v. Her Majesty the Queen (1991), 92 D.T.C. 6031 (Fed. C.A.), at 6032 which stated that for the purposes of section 118.1[8]:
+...a gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor …
+[34] The Kossow decision, from the Federal Court of Appeal, cited and applied Maréchaux.[9] In doing so, the Appeal Court articulated two legal conclusions applicable to the facts before this Court. They are:
+a long-term interest-free loan is a significant financial benefit to the borrower; and
+a benefit received in return for making a gift will vitiate the gift, whether the benefit comes from the donee or another person.[10]
+[35] I must therefore determine whether the Appellant received a benefit as a result of his participation in this transaction. At the outset of my analysis I can say that the answer to that question is a resounding yes.
+[36] I will first focus on the transactions between Talisker and the Appellant, occurring on September 18, 2002 and February 17, 2003.
+[37] I find it difficult to determine what the reality of the 2002 and 2003 transactions between the Appellant and Talisker was. I have concluded that, most likely, the transaction between the parties was simply an agreement to reimburse the Appellant for the $300,000 amount he provided in 2002 and 2003. In return, the Appellant would receive a charitable receipt for $300,000 in both years. The Appellant would then make a series of payments to Talisker.
+[38] The amounts provided by Talisker and the claimed gift of $300,000 by the Appellant were part of one predetermined set of transactions in both 2002 and 2003. I come to this determination based upon the following:
+(i)The original loan documents describing the donation scheme made it clear the loan and the donation were linked as part of a series of transactions;[11]
+(ii)The Appellant initially agreed to enter the series of transactions as required by the promoters of Berkshire based upon these original documents;
+(iii)Changes were only made to the original Berkshire documents after a request by the Appellant (the email from the Appellant dated August 16, 2002). In the email it was clear these changes were only requested because of concerns that the CCRA may challenge the Appellant’s claimed gift. Particularly in 2002, these changes did not eliminate all the references to the connections between Ideas and the loan from Talisker;
+(iv)The Appellant’s participation was different than other donors. These differences were: (i) the already referenced changes which were made in the wording of the Talisker loan application; (ii) the Appellant made his $300,000 cheque to Ideas, momentarily using his own funds; and (iii) the Appellant received $300,000 from Talisker on the same day as he provided his cheque to Ideas. The remainder of the transactions proceeded exactly as anticipated for all Ideas donors;
+(v)Most telling was the simultaneous exchange of funds between the Appellant and the Berkshire program in 2002 and 2003. In both instances the Appellant provided a certified cheque. While he is not sure if the cheque he received from Talisker in 2002 was certified, it was in 2003.
+(vi)The Appellant and the lender did not take the time to properly paper the loans in 2002 and 2003. In 2002, the Appellant filled out a loan application, and received a cheque for $300,000 70 days before he received a response on his loan application. In 2003 the Appellant did not fill out a loan application yet received a certified cheque for $297,000. The lack of acceptance of the loan application by Talisker in 2002, and the lack of any loan application or documents to support the loan transaction in 2003 illuminate what was most likely the ultimate transaction; which was an agreed upon exchange of cheques between the Appellant and Talisker, to give the false appearance that a $300,000 gift was made by the Appellant. This was done in both 2002 and 2003; and
+(vii)Ex post facto, no additional payments (other than the amounts set out in paragraph 14 above) were ever made by the Appellant on the purported Talisker loans. No reports describing the balance owing on the loans have been provided to the Appellant since 2009. The Appellant does not know if the lender is still in existence.
+[39] There is no commercial reality to the conclusion the Appellant wishes the Court to reach, specifically that the loan from Talisker was a separate arm’s length transaction from his gift to Ideas. Furthermore, not that my ultimate decision turns on it, but the objective facts contradict the Appellant’s position that he has the intention to pay back a loan amount to Talisker.
+[40] The objective evidence at trial supports the conclusion that the Appellant and the promoters of the Berkshire Program reached an arrangement, whereby the Appellant would immediately be reimbursed for claimed donations of $300,000 in 2002 and 2003. He then made payments as follows in 2002 (similar payments were made in 2003):
+(a)A Cheque for $12,000 written on Mr. Nixon’s TD Bank chequing account dated September 12, 2002, payable to “Talisker Funding Limited”;
+(b)A Cheque 334 for $30,000 written on Mr. Nixon’s TD Bank chequing account dated March 14, 2002, payable to “Talisker Funding Limited”; and
+(c)A Cheque 333 for $54,000 written on Mr. Nixon’s TD Bank chequing account dated December 16, 2002, payable to “Talisker Funding Limited”.
+[41] The payments to Talisker set out above are not part of a charitable gifts. They are payments to Talisker as part of what appears to be an investment by the Appellant. They have the appearance of a participation fee.
+[42] A pre-determined reimbursement of funds for a monetary gift is surely a benefit. On this basis I find that the Appellant made no gift to Ideas in either 2002 or 2003.
+[43] In the alternative, if I were to accept that a valid loan between Talisker and the Appellant occurred in both 2002 and 2003, I would still find that the interest free loan provided by Talisker to the Appellant was a benefit to the Appellant. The same conclusion was reached in Kossow. On this basis, I again find that the Appellant made no gift to Ideas in either 2002 or 2003.
+[44] I am also bound by the legal findings made in Markou[12] at the Federal Court of Appeal. A gift requires an impoverishment. The promotional material behind Berkshire indicate that the Appellant’s participation in this arrangements was to be an investment, with significant returns, and a small charitable gift occurring as a result.
+As Friedberg makes clear, the fact that a tax benefit is received as a result of making a gift cannot, in and of itself, invalidate the gift as to hold otherwise would mean that Parliament would have spoken in vain in providing for tax benefits consequential on making qualified gifts. However, where a person anticipates receiving tax benefits that exceed the amount or value of an alleged gift, the donative intent is necessarily lacking. Impoverishment being an essential element of a gift under both the civil law and the common law, the purported gift constituted by the cash contribution would fail on this account as well (Martin , at paras. 28-31; Burns v. Minister of National Revenue (1988), 88 D.T.C. 6101 (Fed. T.D.) , at p. 6105, affirmed in Burns v. Minister of National Revenue (1990), 90 D.T.C. 6335 (Fed. C.A.) ; Berg , at para. 29; Castro v. R., 2015 FCA 225, 2015 D.T.C. 5113 (F.C.A.), leave to appeal to S.C.C. refused, 36781 (April 14, 2016) [2016 CarswellNat 1067 (S.C.C.)], at para. 42, and Canada, Department of Finance, “Explanatory Notes Relation to the Income Tax Act, The Excise Tax Act and Related Legislation” (October 2012)), Joint Book of Authorities, Tab 11, pp. 476-477).
+[45] Based upon the analysis set out above, I find that the Appellant, in both 2002 and 2003, did not make a gift entitling him to tax credits pursuant to section 118.1 of the Act.
+[46] The Appeal is denied. Costs are payable by the Appellant.
+Signed at Sydney, Nova Scotia, this 22nd day of August 2023.
+“R. MacPhee”
+MacPhee J.
+.
+CITATION:
+2023 TCC 124
+COURT FILE NO.:
+2014-4399(IT)G
+STYLE OF CAUSE:
+RICHARD JOHN NIXON AND
+HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 8-11, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+August 22, 2023
+APPEARANCES:
+For the Appellant:
+David Davies
+Vivian Esper
+Counsel for the Respondent:
+Aaron Tallon
+Jasmeen Mann
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David Davies
+Vivian Esper
+Firm:
+Thorsteinssons LLP
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Kossow v. Her Majesty the Queen, 2012 TCC 325.
+[2] Kossow v. Her Majesty the Queen, 2013 FCA 283.
+[3] Section 29 of the Law Society Act of Ontario provides that every person who is licensed to practise law in Ontario as a barrister and solicitor is an officer of every court of record in Ontario. Black’s Law Dictionary, 8th ed., defines “officer of the court” as “a person who is charged with upholding the law and administering the judicial system.”
+[4] The Appellant’s counsel, in closing submissions, provided a detail chart of all the changes made to the Berkshire documentation. These have been reviewed in preparing my decision.
+[5] Transcript, Examination by Mr. Davies, (8 May 2023) at 102.
+[6] See Symes v. The Queen [1993] 4 SCR 695, paragraph 74 which states:
+As in other areas of the law where purpose or intention behind actions is to be ascertained, it must not be supposed that in responding to this question courts will be guided only by a taxpayer’s statement ex post facto or otherwise, as to the subjective purpose of a particular expenditure. Courts will look instead for objective manifestations of purpose, and purpose is ultimately a question of fact to be decided with due regard for all of the circumstances.
+[7] Kossow v Her Majesty the Queen, 2013 FCA 283 [Kossow].
+[8] As written at paragraph 67 in Kossow v. Her Majesty the Queen, (2012), 2012 TCC 325.
+[9] Maréchaux v. Her Majesty the Queen, 2010 FCA 287 [Maréchaux].
+Note: Kossow applied judicial comity in following the legal treatment in Maréchaux because both decisions are at the same level of court, the Federal Court of Appeal.
+[10] Kossow, supra note 7 at paragraph 25.
+[11] This finding was made at both the Tax Court and the Federal Court of Appeal in Kossow.
+[12] Markou v. Her Majesty The Queen, 2019 CarswellNat 7409, 2019 FCA 299, 2019 CAF 299, 2019 D.T.C. 5140 (Federal Court of Appeal) at paragraph 60.

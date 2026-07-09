@@ -1,0 +1,200 @@
+---
+title: "Whissell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/99649/index.do"
+last_modified: "2014-11-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 350"
+citation2: ""
+neutral_citation: "2014 TCC 350"
+decision_date: "2014-11-21"
+language: "en"
+item_id: "99649"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5220
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:26:55.244000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ba07cd1ce6aaccfaf8a4bb127689ee3b4421a17e2d182d237210d178006a7a2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Whissell v. The Queen
+
+- Citation: 2014 TCC 350
+- Decision date: 2014-11-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5220, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Whissell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-11-21
+Neutral citation
+2014 TCC 350
+File numbers
+2012-4374(GST)G, 2012-4375(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-4374(GST)G
+BETWEEN:
+JOHN WHISSELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 17, 2014, at Edmonton, Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Douglas J. Forer
+Counsel for the Respondent:
+Valerie Meier
+JUDGMENT
+The appeal from the assessment under the Excise Tax Act, Notice of Assessment No. 1387235 dated April 27, 2011, is dismissed and the decision of the Minister of National Revenue is confirmed.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 21st day of November 2014.
+“V.A. Miller”
+V.A. Miller J.
+Docket: 2012-4375(IT)G
+BETWEEN:
+JOHN WHISSELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 17, 2014, at Edmonton, Alberta
+Before: The Honourable Justice Valerie Miller
+Appearances:
+Counsel for the Appellant:
+Douglas J. Forer
+Counsel for the Respondent:
+Valerie Meier
+JUDGMENT
+The appeal from the assessment under the Income Tax Act, Notice of Assessment No. 1398067 dated May 11, 2011 is dismissed.
+Costs are awarded to the Respondent.
+Signed at Ottawa, Canada, this 21st day of November 2014.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2014TCC350
+Date: 20141121
+Docket: 2012-4374(GST)G
+2012-4375(IT)G
+BETWEEN:
+JOHN WHISSELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The Appellant appeals from an assessment dated May 11, 2011 which imposed liability for unpaid payroll source deductions of federal and provincial income taxes, Employment Insurance and Canada Pension Plan premiums, as well as interest and penalties. The total amount of the assessment was $513,644.70 and the amount assessed pursuant to section 227.1 of the Income Tax Act (“ITA”) was $151,890.62. The Appellant was assessed on the basis that he was a director of Canadian Aggregate Co. Ltd. (the “Corporation”) at the time it failed to make remittances to the Receiver General in 2002, 2003, 2004 and 2005. He also appeals from an assessment dated April 27, 2011 made pursuant to section 323 of the Excise Tax Act (“ETA”) which imposed liability on him for un-remitted net tax, penalty and interest in the amount of $103,181.60 which the Corporation failed to remit for periods in 2003 and 2004.
+[2] The underlying assessments and the amount of the assessments are not in dispute. The only issue in these appeals is whether the Appellant exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[3] The Appellant submitted no documents at the hearing and apparently his list of documents was empty. The Respondent submitted one document – the Appellant’s affidavit dated August 13, 2001. The witnesses at the hearing were the Appellant and his father, George Whissell.
+[4] George Whissell gave a brief history of the circumstances under which the Appellant became the director of the Corporation. He also described the Whissell family’s participation in the aggregate and construction business in Alberta.
+[5] George Whissell stated that he, his father and siblings started to work in the road construction industry in the fall of 1954. Originally, they did business under the name of Whissell Enterprises Ltd. Over the years, their business grew so that it became one of the larger construction companies in northern Alberta. By 1978, the family became involved in the aggregate business which is the supply of sand and gravel. As the business grew, George Whissell had new corporations created to carry on various projects (the “Whissell Group of Companies”). His father and siblings were not involved in these new corporations.
+[6] When the recession occurred in the early 1980s, the sales for the Whissell Group of Companies fell from a high of $90,000,000 in 1980 to approximately $20,000,000 in 1982-83. The sales continued to fall into the 1990s. However, George Whissell continued to have new corporations incorporated so that by the early 1990s, there were 8 to 10 active corporations in the construction business within the Whissell Group of Companies. These corporations scaled back as much as they could but they had problems meeting their commitments. By the mid 1990s they owed in excess of $20,000,000 to third parties and their revenue was approximately $25,000,000. George Whissell shut down the operations in some of his corporations and had the Corporation incorporated in 1994.
+[7] The only shareholders in the Corporation were George Whissell’s sons, Brian and the Appellant, who each owed 50% of the Corporation. Brian was the only director. Apparently, it was only in 2010 that the Appellant was told that he was a shareholder of the Corporation.
+[8] On October 2, 1995, George Whissell was petitioned into bankruptcy. He was not discharged from bankruptcy until July 29, 2002. However, throughout this period and after, he continued to have corporations incorporated and to operate the Whissell Group of Companies.
+[9] In 2001, the Corporation had a GST debt in the amount of $175,636.79 and on June 6, 2001, the Canada Revenue Agency (“CRA”) seized equipment from five or six sites where the Whissell companies were working. Apparently, most of the equipment seized by the CRA belonged to the Whissell Group but some of it was owned by strangers. When the seizure was finally resolved, the baliff, the CRA and the Whissell family had to pay for the storage charges for the equipment.
+[10] In 2001, the Corporation’s bank “asked it to leave”; that is, it refused to do business with the Corporation. Brian had resigned as director in 1998 and the Corporation had to open a bank account. It needed a director who could sign on its behalf. George Whissell asked the Appellant to be the director of the Corporation. The Appellant agreed and had a stamp made with his signature which he gave to George Whissell and Laurie Sabatier, the accountant for the Corporation.
+[11] The Corporation operated until 2005. No income tax returns were ever filed by the Corporation. It did file some GST returns. No financial statements were ever produced for the Corporation. No business records existed for the Corporation. When it ceased to operate, its business was carried on by Keephills Aggregate Company Ltd. (“Keephills”), another corporation in the Whissell Group. Keephills had been incorporated on December 12, 2001 with the Appellant as the only director.
+[12] According to George Whissell, whenever there was a fear that a piece of equipment was going to be seized or that “someone would pull the plug”, the resources were diverted so that the business could continue. I have interpreted this to mean that the equipment was transferred to another corporation or the business was continued under another corporate name or the Corporations funds were diverted and hence the reason for incorporating numerous corporations. There was evidence that the Appellant opened several business bank accounts during this period.
+[13] It was George Whissell’s evidence that he and Laurie Sabatier ran the Whissell Group of Companies. He did not advise the Appellant about any liabilities the Corporation owed to the CRA.
+[14] It was the Appellant’s evidence that he started to work in the family business shortly after he completed high school. He always worked as a labourer. His first experience with business financing occurred in 2001 when he incorporated Canadian Transportation Systems which purchased three GMC pickup trucks for use in the Corporation’s business.
+[15] In 2001, the Appellant lived with his parents and he worked at a gravel pit for the Corporation.
+[16] The Appellant described a situation which occurred on June 6, 2001, the day CRA seized equipment belonging to the Whissell Companies. He stated that he went to the Corporation’s office and tried to ask questions. He was excluded from the meeting which was taking place.
+[17] It was his evidence that he only became a director of the Corporation so that he could open a bank account for it as requested by his father. He became the Corporation’s director on June 21, 2001. He thought that initially he had signed some cheques for the Corporation but later he had a signature stamp made which he gave to George Whissell or Laurie Sabatier so that they could run the Corporation’s business.
+[18] The Appellant stated that at that time he did not know what it meant to be a director. He completely trusted his father and Laurie Sabatier who was like a mother to him. He did not know the financial circumstances of the Corporation and he did not ask but he thought the business was viable. He knew that CRA had seized the Corporation’s equipment and he assumed the CRA had also seized its bank account. However, he thought that the problem with the CRA was in the past.
+[19] The Appellant stated that he was a labourer with the Corporation. He supervised the other labourers who worked at the gravel pit with him and he signed off on their timesheets. He was not involved in the payroll or any financial decisions with respect to the Corporation. Laurie Sabatier and George Whissell ran the businesses of the Whissell Group of Companies. His father was the controlling force in the Corporation’s business.
+[20] It was the Appellant’s evidence that he was just a “trustworthy soldier” for his family who did whatever his family asked of him.
+[21] In 2007, the Appellant started to take over some of his father’s duties and he began to meet with the CRA with respect to the tax liability of 20 or 25 corporations within the Whissell Group of Companies. He stated that by 2011 he was in control of all the corporations within the Group.
+The Statutes [22] The wording of section 227.1 of the ITA is almost identical to that in section 323 of the ETA. The relevant provisions in section 227.1 read:
+Liability of directors for failure to deduct
+227.1 (1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest or penalties relating thereto.
+…
+(3) A director is not liable for a failure under subsection 227.1(1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[23] The relevant provisions in section 323 of the ETA read:
+323. (1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+…
+Diligence
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+Appellant’s Position [24] Counsel for the Appellant submitted that the standard of care contained in subsections 227.1(3) of the ITA and 323(3) of the ETA is an objective one. However, in deciding whether the Appellant has exercised the requisite standard of care, I must also have regard for the circumstances that existed at the time the Corporation failed to remit monies to the Minister of National Revenue. A contextual approach to these subsections requires me to consider the “prevailing socio-economic conditions”. Counsel relied on paragraphs 63 and 64 of People’s Department Stores Ltd (1992) Inc, Re, 2004 SCC 68 as follows:
+63 The standard of care embodied in s. 122(1)(b) of the CBCA was described by Robertson J.A. of the Federal Court of Appeal in Soper v. R. (1997), [1998] 1 F.C. 124 (Fed. C.A.), at para. 41, as being “objective subjective”. Although that case concerned the interpretation of a provision of the Income Tax Act , it is relevant here because the language of the provision establishing the standard of care was identical to that of s. 122(1)(b) of the CBCA. With respect, we feel that Robertson J.A.'s characterization of the standard as an “objective subjective” one could lead to confusion. We prefer to describe it as an objective standard. To say that the standard is objective makes it clear that the factual aspects of the circumstances surrounding the actions of the director or officer are important in the case of the s. 122(1)(b) duty of care, as opposed to the subjective motivation of the director or officer, which is the central focus of the statutory fiduciary duty of s. 122(1)(a) of the CBCA.
+64 The contextual approach dictated by s.122(1)(b) of the CBCA not only emphasizes the primary facts but also permits prevailing socio-economic conditions to be taken into consideration…
+[25] Counsel argued that the socio-economic conditions in the present case are that the Appellant did not disregard his responsibilities; if he was asked to do something like open a bank account, he did it. He did whatever his family and close advisors asked him to do. He didn’t abdicate his duties. He was just unaware of his responsibilities as a director.
+[26] The circumstances which existed at the time were that the CRA had seized equipment from the Whissell Group of Companies but the equipment was later released. The Corporation, CRA and the baliff were required to pay the storage costs and the Appellant was under the impression that the CRA was picking on George Whissell. The Appellant did not know that remittances were not being made and he thought that the tax debt had been taken care of because the Corporation’s equipment had been released.
+Respondent’s Position [27] The Respondent submitted that the Appellant did nothing to prevent the Corporation’s failure to remit source deductions and GST net tax. There was no evidence that the Appellant made any decisions; there was no evidence that the Appellant asked any questions. There was evidence that the Corporation had financial difficulties in 2001 and the Appellant still did not make any enquiries or turn his attention to preventing the failure to remit. The Appellant did nothing and that cannot satisfy the obligation to prevent the failure to remit source deductions and GST net tax.
+Analysis [28] In Buckingham v R, 2011 FCA 142, Mainville J.A. thoroughly analyzed the decision in People’s Department Stores as it applied to subsections 227.1(3) of the ITA and 323(3) of the ETA. He compared these subsections to paragraph 122(1)(b) of the Canada Business Corporations Act, R.S.C. 1985, c. C-44 and stated:
+31 Though similar, the provisions of paragraph 122(1)(b) of the CBCA and of subsections 227.1(3) of the Income Tax Act and 323(3) of the Excise Tax Act have fundamentally different purposes. The different purposes to which these various provisions relate must inform the application of the standard of care, diligence and skill in each case.
+[29] At paragraph 37 of his decision, Mainville J.A. concluded that the standard of care, skill and diligence required under subsections 227.1(3) of the ITA and 323(3) of the ETA is an objective standard. He further stated:
+38…Consequently, a person who is appointed as a director must carry out the duties of that function on an active basis and will not be allowed to defend a claim for malfeasance in the discharge of his or her duties by relying on his or her own inaction: Kevin P. McGuinness, Canadian Business Corporations Law, 2nd ed. (Markham, Ontario: LexisNexis Canada, 2007) at 11.9.
+39 An objective standard does not however entail that the particular circumstances of a director are to be ignored. These circumstances must be taken into account, but must be considered against an objective “reasonably prudent person” standard…
+…
+40 The focus of the inquiry under subsections 227.1(3) of the Income Tax Act and 323(3) of the Excise Tax Act will however be different than that under 122(1)(b) of the CBCA, since the former require that the director's duty of care, diligence and skill be exercised to prevent failures to remit. In order to rely on these defences, a director must thus establish that he turned his attention to the required remittances and that he exercised his duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts. (emphasis added)
+[30] The objective standard has set aside the principle that a director’s actions are “to be judged according to his own personal skills, knowledge, abilities and capacities”: Buckingham (supra) at paragraph 38. However, sections 227.1 of the ITA and 323 of the ETA do not impose absolute liability. Mainville J.A. wrote:
+52 Parliament did not require that directors be subject to an absolute liability for the remittances of their corporations. Consequently, Parliament has accepted that a corporation may, in certain circumstances, fail to effect remittances without its directors incurring liability. What is required is that the directors establish that they were specifically concerned with the tax remittances and that they exercised their duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts.
+[31] Therefore, the Appellant will have established a “due diligence defence” if he has presented evidence to demonstrate that he tried to prevent the Corporation’s failure to remit source deductions or net GST during the relevant periods.
+[32] In this case, the Appellant took no steps to try to prevent the failure to remit during the relevant period and, it is my view, that he has not made out a “due diligence defence”.
+[33] The Appellant was 23 years old when he became director of the Corporation on June 21, 2001. He stated that he knew nothing about source deductions. In his mind, GST was something one paid at the store when something was purchased. He knew nothing about the duties of a director until his counsel advised him concerning director’s liability in “late 2001 or 2002”. However, even after he was advised about his obligations, the Appellant did nothing. He cannot now rest his defence on the fact that he was just a labourer. According to his own evidence, his counsel advised him in 2001 and 2002 of his duties as a director.
+[34] The circumstances of this case are that the Appellant knew that the Corporation had an outstanding tax debt. There was evidence that the CRA had seized the Corporation’s equipment on June 6, 2001. There was no evidence with respect to the date that this equipment was released. However, the Appellant also knew as early as August 13, 2001 that the Corporation had objected to an assessment of net GST and that the CRA had issued Requirements to Pay to two of the Corporation’s clients. He signed an affidavit on that date in support of the Corporation’s application in the Federal Court to have CRA’s Requirements to Pay quashed. A “reasonably prudent person” would have enquired about the outcome of the application and the outcome of the objection to the assessment. Instead, he would have me believe that he did nothing because he was the “faithful family soldier”.
+[35] It is my view that since the Federal Court of Appeal decision in Buckingham, a director cannot make out a “due diligence defence” by stating that he was just a labourer and he relied on another family member or he just did as he was told. The standard of care is an objective one of the reasonably prudent person in the circumstances.
+[36] In the circumstances which existed in this case, it is not sufficient or reasonable for the Appellant to say that he relied on his father and Laurie Sabatier. A director has a higher duty to ensure remittances are made when a company is experiencing financial difficulties: D’Amore v R, 2012 TCC 373 at paragraph 31. Here, the Appellant relinquished all of his duties as a director and gave a signature stamp to his father to use as he saw fit.
+[37] The “due diligence defence” is met when a director establishes that he took positive steps to prevent the failure to remit. In the present case, the Appellant, by his own evidence, did nothing. He has not met the standard of care required by subsections 227.1(3) of the ITA and 323(3) of the ETA.
+[38] The appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 21st day of November 2014.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2014TCC350
+COURT FILE NO.:
+2012-4374(GST)G
+2012-4375(IT)G
+STYLE OF CAUSE:
+JOHN WHISSELL AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+April 17, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+November 21, 2014
+APPEARANCES:
+Counsel for the Appellant:
+Douglas J. Forer
+Counsel for the Respondent:
+Valerie Meier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Douglas J. Forer
+Firm:
+McLennan Ross LLP
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,135 @@
+Title: Slade c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28539/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-151-28539-slade-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-03-13
+
+# Slade c. La Reine
+
+- Citation: 2008 CCI 151
+- Decision date: 2008-03-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1173, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Slade c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-03-13
+Référence neutre
+2008 CCI 151
+Numéro de dossier
+2007-1575(GST)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-1575(GST)I
+ENTRE :
+BILL SLADE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 1er février 2008 à Kingston (Ontario)
+Devant : L’honorable juge Valerie A. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimé :
+Me Julian Malone
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 5 juin 2006 et porte le numéro 04DP0100624, est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 13e jour de mars 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 6e jour de mai 2008.
+Aleksandra Koziorowska
+Référence : 2008CCI151
+Date : 20080313
+Dossier : 2007-1575(GST)I
+ENTRE :
+BILL SLADE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] En établissant la cotisation à l’égard de l’appelant en vertu de la Loi sur la taxe d’accise (la « Loi ») pour la période allant du 1er octobre 2004 au 31 mars 2005, le ministre du Revenu national (le « ministre ») a calculé un montant de 13 064,70 $ au titre de la taxe sur les produits et services (la « TPS ») sur la vente d’un immeuble d’habitation et a refusé les crédits de taxe sur les intrants (les « CTI ») de 3 217,05 $ qui avaient été demandés.
+[2] À l’audition de l’appel, l’appelant a déclaré qu’il avait en main de la documentation justifiant les CTI demandés. Cependant, il n’a pas présenté quoi que ce soit à cette fin. L’appel relatif aux CTI est rejeté. Le seul point à trancher dans le cadre du présent appel consiste à décider si le ministre a eu raison d’établir une cotisation au titre de la TPS sur la maison et le lot.
+LES FAITS
+[3] En janvier 2004, l’appelant et Harold Westendorp ont convenu de former une société de personnes pour acheter une maison, la déplacer sur un lot dont l’appelant ferait l’acquisition, la reconstruire, puis la vendre. L’achat de la maison n’incluait pas le fonds sur lequel la maison était située. Dans une entente datée du 23 janvier 2004, ils ont convenu que c’est l’appelant qui fournirait l’argent pour déplacer et reconstruire la maison sur le nouveau lot. Les associés avaient décidé que l’appelant ferait l’acquisition du lot décrit comme étant [TRADUCTION] « une partie des îlots Q et S sur le plan enregistré 194 ». En contrepartie de sa part de 50 % du projet, l’entreprise de Harol Westendorp, Harold’s Demolition & Recycling (« HDR »), préparerait la maison pour son déplacement, puis procéderait au déplacement et à la reconstruction de la maison sur le nouveau lot. L’appelant détiendrait le titre de propriété à l’égard de la maison et du lot.
+[4] Le 24 janvier 2004, l’appelant a appris que les propriétaires du lot ne le lui vendraient pas à lui mais à Harold Westendorp. Les associés ont convenu qu’HDR achèterait le lot puis le vendrait à l’appelant. Dans une entente datée du 26 janvier 2004, HDR aurait supposément vendu le lot à l’appelant. Le 28 janvier 2004, l’appelant a remis 20 000 $ à Harold Westendorp pour l’achat de la maison. Celle‑ci a été déplacée et la reconstruction s’est enclenchée. Les frais de reconstruction ont dépassé notablement les montants convenus à l’origine dans l’entente du 23 janvier 2004. L’appelant a précisé dans son témoignage qu’il avait dépensé environ 190 000 $ en matériaux pour reconstruire la maison.
+[5] Les problèmes ont commencé quand l’appelant a tenté de vendre la maison. Les associés ont eu une mésentente. Le 5 novembre 2004, l’appelant a effectué une recherche de titre relativement à la maison pour s’apercevoir finalement que le lot n’avait jamais été transféré à HDR. Il a introduit une action contre Harold Westendorp, HDR et les propriétaires du lot. L’action a fait l’objet d’un règlement, et l’appelant a reçu le titre de propriété à l’égard du lot le 15 mars 2005. Il a ensuite vendu la maison et le lot à un certain M. Running le 15 mars 2005.
+[6] Après avoir été reconstruite sur le lot, la maison n’a pas été occupée jusqu’à sa vente à M. Running.
+[7] La question à trancher dans le présent appel est de savoir si la vente de l’immeuble d’habitation est assujettie à la TPS ou s’il s’agit d’une fourniture exonérée.
+[8] Afin de répondre à cette question, il est nécessaire d’examiner la définition de plusieurs termes utilisés dans la Loi. En vertu du paragraphe 123(1) de la Loi, une « fourniture » s’entend entre autres de la livraison de biens, notamment par vente. Ce même paragraphe définit la « fourniture taxable » comme étant une fourniture effectuée dans le cadre d’une activité commerciale. La Loi définit ensuite l’activité commerciale et la fourniture exonérée de la manière suivante :
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+[…]
+c) la réalisation de fournitures, sauf des fournitures exonérées, d’immeubles appartenant à la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures.
+« fourniture exonérée » Fourniture figurant à l’annexe V.
+[9] Selon l’appelant, la vente était une fourniture exonérée parce qu’elle visait un immeuble résidentiel non neuf. L’article 2 de la partie I de l’annexe V exonère de la TPS la vente d’un immeuble d’habitation non neuf :
+2. La fourniture par vente d’un immeuble d’habitation, ou d’un droit dans un tel immeuble, (appelée « fourniture donnée » au présent paragraphe) effectuée par une personne donnée autre que le constructeur de l’immeuble ou, si l’immeuble est un immeuble d’habitation à logements multiples, d’une adjonction à celui‑ci, sauf si, selon le cas :
+a) la personne donnée a demandé un crédit de taxe sur les intrants relativement à sa dernière acquisition de l’immeuble ou relativement à des améliorations apportées à celui‑ci, qu’elle a acquises, importées, ou transférées dans une province participante après sa dernière acquisition de l’immeuble;
+b) l’acquéreur est inscrit aux termes de la sous‑section d de la section V de la partie IX de la loi et les conditions suivantes sont réunies :
+(i) l’acquéreur a effectué une fourniture taxable par vente de l’immeuble ou du droit (appelée « fourniture antérieure » au présent alinéa) au profit d’une personne (appelée « acquéreur antérieur » au présent alinéa) qui est soit la personne donnée, soit, si celle‑ci est une fiducie personnelle autre qu’une fiducie testamentaire, l’auteur de la fiducie, soit, dans le cas d’une fiducie testamentaire découlant du décès d’un particulier, le particulier décédé,
+(ii) la fourniture antérieure était la dernière fourniture par vente de l’immeuble ou du droit effectuée au profit de l’acquéreur antérieur,
+(iii) la fourniture donnée n’est pas effectuée plus d’un an après le jour qui correspond soit au jour où l’acquéreur antérieur a acquis le droit, soit au premier en date du jour où il a acquis la propriété de l’immeuble aux termes de la convention portant sur la fourniture antérieure ou du jour où il en a pris possession aux termes de cette convention,
+(iv) l’immeuble n’a pas été occupé à titre résidentiel ou d’hébergement une fois achevées en grande partie sa construction ou les dernières rénovations majeures dont il a fait l’objet,
+(v) la fourniture donnée est effectuée conformément au droit ou à l’obligation de l’acquéreur d’acheter l’immeuble ou le droit, qui est prévu dans la convention portant sur la fourniture antérieure,
+(vi) l’acquéreur fait, en vertu du présent article, un choix conjoint avec la personne donnée dans un document contenant les renseignements requis par le ministre et présenté en la forme déterminée par celui‑ci avec la déclaration dans laquelle il est tenu de déclarer la taxe relative à la fourniture donnée.
+[10] L’appelant a fait valoir qu’il avait acheté une maison qui était un immeuble résidentiel non neuf; il l’a rénovée avec des matériaux non neufs et l’a vendue en tant qu’immeuble d’habitation non neuf. La maison que l’appelant a achetée était différente de celle qu’il a vendue. Les preuves documentaires montrent qu’il a payé la maison 20 000 $ et dépensé environ 190 000 $ pour acheter des matériaux en vue de construire l’immeuble qu’il a finalement vendu.
+[11] La Loi ne définit pas l’expression « immeuble résidentiel » mais contient une définition des termes « immeuble d’habitation », qui sont utilisés à l’article 2 de la partie I de l’annexe V. Un extrait de cette définition est rédigé comme suit :
+« immeuble d’habitation »
+a) La partie constitutive d’un bâtiment qui comporte au moins une habitation, y compris :
+(i) la fraction des parties communes et des dépendances et du fonds contigu au bâtiment qui est raisonnablement nécessaire à l’usage résidentiel du bâtiment,
+(ii) la proportion du fonds sous‑jacent au bâtiment correspondant au rapport entre cette partie constitutive et l’ensemble du bâtiment;
+[12] Pour nos besoins ici, l’immeuble d’habitation s’entend du bâtiment, du fonds sous‑jacent au bâtiment et du fonds contigu au bâtiment qui est raisonnablement nécessaire à l’usage résidentiel du bâtiment. Selon ce point de vue, l’appelant n’a pas acheté un immeuble d’habitation quand il a fait l’acquisition de la maison ou d’un droit dans la maison sans le lot le 28 janvier 2004. Il a seulement acquis un droit dans l’immeuble d’habitation quand il a acheté le lot le 15 mars 2005. Par conséquent, quand il a vendu la maison et le lot le 15 mars 2005, l’appelant a vendu un immeuble d’habitation. Pour que la vente puisse être considérée comme une fourniture exonérée, l’appelant ne doit pas être un constructeur au sens de la Loi.
+[13] Les alinéas 123(1)d) et e) de la Loi définissent le « constructeur » d’un immeuble d’habitation comme étant la personne qui :
+d) acquiert un droit sur l’immeuble d’habitation […] en vue principalement soit d’effectuer par vente des fournitures de tout ou partie de l’immeuble, ou de droits sur celui‑ci,
+[…]
+(ii) dans les autres cas, avant qu’il soit occupé à titre résidentiel ou d’hébergement;
+e) dans tous les cas, est réputée par le paragraphe 190(1) être le constructeur de l’immeuble.
+[14] L’appelant a acquis un droit sur l’immeuble le 15 mars 2005 en vue principalement d’effectuer par vente une fourniture de ce droit. Il est un constructeur aux termes de la Loi et, par conséquent, la vente de l’immeuble n’était pas une fourniture exonérée.
+[15] L’appelant a expliqué qu’avant d’effectuer la transaction avec Harold Westendorp, il avait consulté l’Agence du revenu du Canada (l’« ARC ») dans le but de vérifier si la TPS était exigible sur la vente de l’immeuble. Il avait été avisé que la vente n’était pas taxable, et c’est pourquoi il n’avait pas perçu la TPS lors de la vente de l’immeuble. Il a déclaré également que, le 22 juin 2005, l’ARC l’avait informé qu’une erreur avait été commise durant la vérification. On lui a offert la possibilité de ne plus recevoir de CTI et de ne pas verser de TPS à l’égard de la maison. Il n’avait donc pas demandé d’autres CTI.
+[16] Selon mon interprétation des propos de l’appelant, celui‑ci invoque la préclusion. La jurisprudence indique clairement qu’une cotisation doit être établie en vertu des dispositions de la Loi et qu’il n’est pas loisible à un contribuable de soulever la préclusion pour empêcher l’application de la loi. Voir par exemple la décision Woon v. M.N.R., [1950] C.T.C. 263, au paragraphe 17, où le juge Cameron s’était exprimé ainsi :
+[TRADUCTION]
+[17] Il n’est pas nécessaire en l’espèce, toutefois, d’examiner l’effet des jugements qui viennent d’être invoqués. Il suffit de dire que la cotisation visée par le présent appel a été établie conformément à une loi et, donc, qu’il n’est pas possible pour l’appelant de faire valoir la préclusion pour en empêcher l’application.
+[17] En conclusion, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 13e jour de mars 2008.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 6e jour de mai 2008.
+Aleksandra Koziorowska
+RÉFÉRENCE : 2008CCI151
+NO DU DOSSIER DE LA COUR : 2007-1575(GST)I
+INTITULÉ : Bill Slade et La Reine
+LIEU DE L’AUDIENCE : Kingston (Ontario)
+DATE DE L’AUDIENCE : Le 1er février 2008
+MOTIFS DU JUGEMENT : L’honorable juge Valerie A. Miller
+DATE DU JUGEMENT : Le 13 mars 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Julian Malone
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

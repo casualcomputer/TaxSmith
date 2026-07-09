@@ -1,0 +1,167 @@
+---
+title: "Holliday c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/423400/index.do"
+last_modified: "2019-10-24"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 232"
+citation2: ""
+neutral_citation: "2019 CCI 232"
+decision_date: "2019-10-24"
+language: "fr"
+item_id: "423400"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4199
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:08:26.022000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "322779190ca40641b1c8dbe89d8c3e0a533cee24e8e432611a0926f1f65678c3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Holliday c. La Reine
+
+- Citation: 2019 CCI 232
+- Decision date: 2019-10-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4199, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Holliday c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-10-24
+Référence neutre
+2019 CCI 232
+Numéro de dossier
+2016-5346(GST)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-5346(GST)G
+ENTRE :
+PAUL MURRAY HOLLIDAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 17 mai 2019, à Toronto (Ontario)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocat de l’appelant :
+Me James N. Aitchison
+Avocate de l’intimée :
+Me Rini Rashid
+JUGEMENT
+L’appel de la cotisation établie le 4 septembre 2015 en application de la Loi sur la taxe d’accise (la Loi) est accueilli, sans dépens. L’affaire est renvoyée au ministre du Revenu national en vue d’un réexamen et de l’établissement d’une nouvelle cotisation dans le seul but de supprimer une partie de la cotisation établie à l’encontre de l’entreprise Holliday Ltd. relativement à sa période de déclaration qui a pris fin le 31 décembre 2002.
+Signé à Toronto (Ontario), ce 21e jour d’octobre 2019.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 16e jour de janvier 2020.
+Mario Lagacé, jurilinguiste
+Référence : 2019 CCI 232
+Date : 20191024
+Dossier : 2016-5346(GST)G
+ENTRE :
+PAUL MURRAY HOLLIDAY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Russell
+I. Introduction :
+[1] L’appelant, Paul Murray Holliday, a interjeté appel d’une cotisation établie le 4 septembre 2015 par le ministre du Revenu national (le ministre) en vertu de la Loi sur la taxe d’accise (la Loi). La cotisation vise la responsabilité personnelle de l’appelant à titre d’administrateur de la société Holliday Home Exteriors Ltd. (Holliday Ltd.) pour une TPS/TVH non versée de 87 829,26 $, plus les intérêts et les pénalités, payables par Holliday Ltd. pour les périodes de déclaration prenant fin le 31 décembre de 2002 à 2011 inclusivement.
+II. Résumé des faits
+[2] Selon la preuve présentée lors de l’audience par deux témoins, soit l’appelant et A. Chinni, l’agent de cas complexes de l’Agence du Revenu du Canada (Agence), l’appelant, à titre de propriétaire unique, a exploité une entreprise de rénovation extérieure résidentielle (soit habituellement la pose et la réparation de revêtement extérieur résidentiel) pendant de nombreuses années avant le milieu de l’année 2002. Durant cette période, il a eu des démêlés avec l’Agence relativement au non-versement de la TPS/TVH nette applicable à ses ventes de biens et services à ses clients. La société Holliday Ltd. a été constituée le 26 juillet 2002, selon les directives de l’appelant, qui a poursuivi ses activités de rénovation extérieure par l’entremise de celle-ci. L’appelant a toujours été le seul administrateur de Holliday Ltd. qui a été inscrite à la TPS/TVH de façon rétroactive en date de sa constitution. Holliday Ltd. était tenue de produire des déclarations de TPS/TVH une fois par année, la période annuelle se terminant le 31 décembre. L’exercice de la société Holliday Ltd. se terminait le 30 juin aux fins de ses déclarations d’impôt sur le revenu.
+[3] L’appelant a témoigné avoir engagé un comptable, Joe Trentadue, d’abord pour constituer la société Holliday Ltd., puis pour produire les déclarations fiscales de l’entreprise. Le comptable, qui n’a pas été appelé à témoigner, a ainsi préparé des déclarations de revenus annuelles pour Holliday Ltd., dont l’exercice se terminait le 30 juin. Or, après plusieurs années, l’appelant a pris connaissance, dans la correspondance que lui a fait parvenir l’Agence, qu’aucune déclaration de TPS/TVH n’avait été produite pour Holliday Ltd. L’appelant a affirmé en avoir parlé à son comptable. Toutefois, Holliday Ltd. n’a jamais produit ou tenté de produire ses déclarations de TPS/TVH, et ce, à aucun moment avant le début du présent appel.
+III. Questions en litige :
+[4] Les questions en litige sont les suivantes :
+1) L’appelant a-t-il établi une défense fondée sur la diligence raisonnable relativement à la cotisation?
+2) La cotisation relative à la taxe établie est-elle excessive? Cette question comporte trois éléments, comme l’a expliqué l’avocat de l’appelant. Ces éléments sont les suivants :
+a) La cotisation sous-jacente établie à l’égard de la société Holliday Ltd. pour la période de production se terminant le 31 décembre 2002 est viciée, car, selon l’appelant, l’intimée n’a fait valoir aucun renseignement au sujet de celle-ci dans sa réponse.
+b) La cotisation sous-jacente établie à l’égard de la société Holliday Ltd. pour la période de production se terminant le 31 décembre 2003 est excessive, compte tenu du revenu déclaré de Holliday Ltd. de seulement 44 $ pour l’exercice se terminant le 30 juin 2003.
+c) Conformément au témoignage de l’appelant, Holliday Ltd. a cessé ses activités à compter d’octobre 2010 en raison des problèmes de santé de l’appelant. Par conséquent, la cotisation établie à l’égard de la société Holliday Ltd., pour la période de production annuelle se terminant le 31 décembre 2011, devrait être annulée.
+IV. La cotisation établie à l’égard de Holliday Ltd. pour la période de production se terminant le 31 décembre 2002 est-elle viciée, puisque, selon l’appelant, l’intimée n’a fait valoir aucun renseignement relativement à cette période dans sa réponse?
+[5] L’appelant affirme que la cotisation établie à l’égard de Holliday Ltd. pour la période de production se terminant le 31 décembre 2002 est viciée, puisque, selon lui, l’intimée n’a fait valoir aucun renseignement au sujet de celle-ci dans sa réponse. Selon l’annexe A de la réponse, la cotisation relative à la taxe établie pour cette période de déclaration est fixée à 5 000 $. Il est entendu qu’il s’agit d’une cotisation arbitraire, car Holliday Ltd. n’a produit aucune déclaration de TPS/TVH pour quelque période que ce soit. Au sous-paragraphe 7h) de la réponse, le ministre formule notamment l’hypothèse selon laquelle Holliday Ltd. aurait, entre autres, [traduction] « déclaré le commerce de biens et de services dans sa déclaration de revenus T2 » s’élevant à 44 $ pour son année d’imposition se terminant le 30 juin 2003.
+[6] Puis, au sous-paragraphe 7i) de la réponse, le ministre présente une autre hypothèse selon laquelle [traduction] « [Holliday Ltd.] a effectué des fournitures taxables équivalentes aux montants d’argent déclarés dans sa déclaration T2 ». On constate à la simple lecture de cette hypothèse selon laquelle le ministre a admis le revenu déclaré de 44 $ à titre de montant des fournitures taxables effectuées par Holliday Ltd. pour l’année d’imposition allant du 26 juillet 2002, soit la date de constitution de la société, au 30 juin 2003.
+[7] Plus particulièrement, cette dernière hypothèse fait référence à des renseignements relatifs à la période de déclaration de la TPS/TVH se terminant le 31 décembre 2002. L’avocat de l’appelant a donc tort de prétendre qu’aucun renseignement n’a été présenté relativement à cette période de déclaration. Toutefois, ces renseignements semblent irrémédiablement incompatibles avec la TPS/TVH de 5 000 $ établie arbitrairement pour la première période de déclaration de la TPS/TVH de Holliday Ltd. débutant le 26 juillet 2002 et se terminant le 31 décembre 2002. Des ventes de seulement 44 $ ne peuvent pas servir de fondement à une taxe nette aux termes de la Loi s’élevant à 50 $, encore moins à 5 000 $. Holliday Ltd. existait depuis un peu moins longtemps que la première moitié de l’exercice pour lequel l’entreprise a déclaré un revenu total de 44 $ aux fins de l’impôt sur le revenu pour la période débutant à la même date, soit le 26 juin 2002, mais se terminant six mois après la date du 31 décembre 2002, soit le 30 juin 2003.
+[8] En conséquence, une partie de la cotisation totale portée en appel à l’égard de la période de déclaration de TPS/TVH de Holliday Ltd. se terminant le 31 décembre 2002 devrait être retirée de la cotisation portée en appel. Le montant d’argent à supprimer engloberait la taxe de 5 000 $, ainsi que les pénalités et les intérêts connexes. Le montant d’argent total en question établi pour la période de déclaration de la TPS/TVH se terminant le 31 décembre 2002 figure à l’annexe A de la réponse, soit 11 577,91 $ en date de la cotisation du 4 septembre 2015.
+V. La cotisation relative à la taxe pour l’année de déclaration de la TPS/TVH se terminant le 31 décembre 2003 est-elle excessive compte tenu du revenu déclaré de Holliday Ltd. de seulement 44 $ pour l’exercice se terminant le 30 juin 2003?
+[9] La deuxième question en litige portant sur le montant de la cotisation établie vise la période de déclaration de la TPS/TVH suivante, soit celle se terminant le 31 décembre 2003. Pour cette période, Holliday Ltd. a encore une fois fait l’objet d’une cotisation arbitraire de 5 000 $ assortie d’une pénalité et des intérêts, tel que cela est indiqué dans l’annexe « A » de la réponse. Comme je l’ai déjà mentionné, les 44 $ déclarés comme revenu total par Holliday Ltd. aux fins de l’impôt sur le revenu pour son exercice se terminant le 30 juin 2003 ont été admis par le ministre, tel que cela est indiqué au sous-paragraphe 7(i) de la réponse, à titre de montant des fournitures taxables effectuées pour cette période d’imposition d’une année se terminant le 30 juin 2003.
+[10] Or, qu’en est-il des six derniers mois de l’année de déclaration se terminant le 31 décembre 2003? Il s’agirait de la première moitié de l’année d’imposition se terminant le 30 juin 2003, et Holliday Ltd. a déclaré un revenu total de 217 737 $ au cours de cet exercice d’une année, comme l’indique le sous-paragraphe 7h) de la réponse. Encore une fois, le sous-paragraphe 7i) de la réponse indique que le ministre a formulé l’hypothèse selon laquelle Holliday Ltd. a effectué des fournitures taxables au cours de cette même période de douze mois se terminant le 30 juin 2004, totalisant aussi 217 737 $. Il n’y a pas d’incompatibilité en l’espèce ni dans le dossier de l’audience quant à savoir pourquoi une large portion des 217 737 $ n’aurait pas été des fournitures taxables effectuées durant la première moitié de cette période de douze mois, la dernière moitié portant sur la période de déclaration de la TPS/TVH se terminant le 31 décembre 2002.
+[11] De plus, aucun élément de preuve établi à première vue, voire aucun élément de preuve du tout, permettant de contredire les deux hypothèses formulées par le ministre, n’a été produit à l’audience. En conséquence, l’appelant n’obtient pas gain de cause quant à la deuxième question en litige sur le montant figurant dans la cotisation.
+VI. A-t-il été démontré que la société Holliday Ltd. a cessé ses activités à compter d’octobre 2010 en raison des problèmes de santé de l’appelant et qu’en conséquence, la cotisation établie à l’égard d’Holliday Ltd., pour la période annuelle de production se terminant le 31 décembre 2011, devrait être annulée?
+[12] Selon certains éléments de preuve produits à l’audience, Holliday Ltd. a poursuivi ses activités après octobre 2010. Un de ces éléments de preuve est notamment une entrée dans le journal de la section du recouvrement de l’Agence (pièce R-1) faisant état d’une conversation téléphonique du 20 mars 2013 entre un agent de l’Agence et le comptable de Holliday Ltd., M. Trentadue, lequel aurait indiqué que la société avait cessé ses activités en octobre 2011 (et non en octobre 2010). L’appelant n’a pas appelé M. Trentadue à témoigner relativement à quoi que ce soit en l’espèce, bien qu’il en soit un acteur central selon le témoignage de l’appelant.
+[13] Quoi qu’il en soit, la preuve au dossier vient appuyer la deuxième prétention selon laquelle la plus récente des dates marque la fin des activités de l’entreprise. En conséquence, je refuse de conclure que l’entreprise a mis fin à ses activités en octobre 2010; elle a plutôt poursuivi ses activités jusqu’en octobre 2011.
+VII. L’appelant a-t-il établi une défense fondée sur la diligence raisonnable relativement à la cotisation portée en appel?
+[14] L’appelant soutient qu’il peut invoquer la défense fondée sur la diligence raisonnable prévue au paragraphe 323(3) de la Loi, rédigé ainsi :
+L’administrateur n’encourt pas de responsabilité s’il a agi avec autant de soin, de diligence et de compétence pour prévenir le manquement visé au paragraphe (1) [c’est-à-dire, le défaut de verser un montant de taxe nette] que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances.
+[15] Or, selon les éléments de preuve au dossier, l’appelant avait éprouvé des difficultés liées à la TPS/TVH à titre de propriétaire unique avant la constitution de Holliday Ltd. Il était dès lors bien informé de la nécessité de produire des déclarations de TPS/TVH. Toutefois, le comptable de Holliday Ltd. aurait, de manière inexplicable, omis pendant plusieurs années de produire des déclarations de TPS/TVH sans que l’appelant cherche à confirmer la production de celles-ci et le versement des montants exigés, en temps opportun.
+[16] Par ailleurs, à ce jour, l’appelant n’a produit aucun livre ni aucun registre relativement aux activités de Holliday Ltd. en vue d’établir la TPS/TVH à percevoir pour les périodes de déclaration visées. Plus particulièrement, l’appelant n’a pas appelé son comptable, M. Trentadue, à témoigner, que ce soit par la voie d’une assignation à produire ou non, afin qu’il fournisse son propre témoignage quant aux instructions qu’il avait reçues au sujet de la production de déclarations de TPS/TVH, ainsi que sur l’emplacement des livres et des registres de Holliday Ltd.
+[17] En conséquence, qui plus est compte tenu de l’absence de preuve de la part du comptable à partir de laquelle je tire une conclusion défavorable, j’estime que l’appelant n’a pas démontré qu’il a « agi avec autant de soin, de diligence et de compétence pour prévenir le manquement [effectuer les versements de la TPS/TVH nette établis dans les cotisations à l’exception de la période de déclaration se terminant le 31 décembre 2002] que ne l’aurait fait une personne raisonnablement prudente dans les mêmes circonstances » de façon à pouvoir invoquer la défense fondée sur la diligence raisonnable prévue au paragraphe 323(3) de la Loi.
+VIII. Conclusion
+[18] En conclusion, le présent appel est accueilli et la cotisation portée en appel est renvoyée au ministre du Revenu national en vue d’un réexamen et de l’établissement d’une nouvelle cotisation dans le seul but de supprimer une partie de la cotisation établie à l’encontre de l’entreprise Holliday Ltd. relativement à sa période de déclaration initiale se terminant le 31 décembre 2002 examinée en l’espèce. À tout autre égard, la cotisation portée en appel est valide. Les deux parties ayant obtenu un succès mitigé, aucuns dépens ne seront adjugés.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement datés du 21 octobre 2019.
+Signé à Toronto (Ontario), ce 24e jour d’octobre 2019.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 16e jour de janvier 2020.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2019 CCI 232
+NO DU DOSSIER DE LA COUR :
+2016-5346(GST)G
+INTITULÉ :
+PAUL MURRAY HOLLIDAY c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 17 mai 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 21 octobre 2019
+DATE DES MOTIFS DU
+JUGEMENT MODIFIÉS :
+Le 24 octobre 2019
+COMPARUTIONS :
+Avocat de l’appelant :
+Me James N. Aitchison
+Avocate de l’intimée :
+Me Rini Rashid
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me James N. Aitchison
+Cabinet :
+Aitchison Law Office
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

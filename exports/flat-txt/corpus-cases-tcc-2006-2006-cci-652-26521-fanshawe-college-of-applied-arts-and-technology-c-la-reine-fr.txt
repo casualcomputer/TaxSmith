@@ -1,0 +1,249 @@
+Title: Fanshawe College of Applied Arts and Technology c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26521/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-652-26521-fanshawe-college-of-applied-arts-and-technology-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-11-23
+
+# Fanshawe College of Applied Arts and Technology c. La Reine
+
+- Citation: 2006 CCI 652
+- Decision date: 2006-11-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3204, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fanshawe College of Applied Arts and Technology c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-23
+Référence neutre
+2006 CCI 652
+Numéro de dossier
+2002-4702(GST)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2002-4702(GST)G
+ENTRE :
+FANSHAWE COLLEGE OF APPLIED ARTS AND TECHNOLOGY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu les 19 et 23 juin 2006, à London (Ontario).
+Devant : L'honorable juge Judith Woods
+Comparutions :
+Avocate de l'appelante :
+Me Susan Fincher-Stoll
+Avocat de l'intimée :
+Me Michael Ezri
+_____________________________________________________________
+JUGEMENT
+La Cour ordonne que l'appel interjeté à l'encontre d'une cotisation établie en vertu de la Loi sur la taxe d'accise soit rejeté.
+L'intimée a droit aux dépens.
+Signé à Toronto (Ontario), ce 23e jour de novembre 2006.
+« J. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 26e jour de juin 2008.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI652
+Date : 20061123
+Dossier : 2002-4702(GST)G
+ENTRE :
+FANSHAWE COLLEGE OF APPLIED ARTS AND TECHNOLOGY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Woods
+[1] Le présent appel interjeté en vertu de la Loi sur la taxe d'accise (LTA) porte sur l'interaction entre les régimes légaux applicables aux biens retournés, en vertu de l'article 232, et aux remboursements pour organismes de services publics (OSP), en vertu de l'article 259.
+[2] L'appelante, Fanshawe College of Applied Arts and Technology (le Collège Fanshawe d'arts appliqués et de technologie), conteste la décision relative au remboursement pour OSP de la taxe sur les produits et services (TPS) payée sur les livres achetés pour sa librairie pour la période allant du 1er juillet 1999 au 31 juillet 1999. Le montant en litige se chiffre à 118 696,69 $.
+[3] Deux questions doivent être tranchées :
+(1) La demande de remboursement est‑elle conforme aux règles de procédure applicables à un remboursement pour OSP?
+(2) Le montant en litige a‑t‑il déjà été remboursé? Si tel est le cas, un autre remboursement est interdit en vertu de l'article 263 de la LTA.
+[4] Pour les motifs qui suivent, je conclus que l'appel devrait être rejeté à l'égard de ces deux questions.
+I. Contexte
+[5] Les circonstances qui ont donné lieu au présent litige sont plutôt compliquées, mais les faits ne sont pas contestés. Je remercie les parties d'avoir préparé un exposé conjoint des faits, reproduit en partie à l'annexe des présents motifs, qui décrit la plupart des faits pertinents.
+[6] Je vais commencer par décrire les régimes légaux visant les remboursements pour OSP et les biens retournés, lesquels sont applicables au collège. Je décrirai ensuite les circonstances inhabituelles qui ont donné lieu à l'appel.
+[7] Le régime légal général applicable aux remboursements pour OSP n'est pas compliqué. Les collèges publics et les autres organismes de services publics ont droit, en vertu de l'article 259 de la LTA, à des remboursements qui leur permettent de récupérer une partie de la TPS payable sur certains intrants.
+[8] Le collège a droit à ces remboursements à l'égard des livres achetés pour sa librairie. En général, il peut récupérer 67 p. 100 de la TPS payable.
+[9] Les remboursements pour OSP sont payables relativement à une « période de demande » et une demande doit être produite pour que l'organisme ait le droit de recevoir le remboursement à l'égard d'une période donnée. Une seule demande peut être produite pour chaque période de demande.
+[10] La « période de demande » coïncide généralement avec la « période de déclaration » pour laquelle une déclaration de TPS doit être produite. Dans le présent cas, le collège a une période de déclaration mensuelle de même qu'une période de demande mensuelle.
+[11] Les remboursements pour OSP sont donc simplement des remboursements d'une partie de la TPS payable par les organismes de services publics et sont accordés à l'égard d'une période de demande, à la demande de l'organisme. D'autres détails au sujet de la procédure à suivre pour la demande seront exposés plus loin lorsqu'il sera discuté de la question particulière dont la Cour est saisie.
+[12] C'est l'article 232 de la LTA qui prévoit les règles applicables aux « biens retournés ».
+[13] De façon générale, l'article 232 prévoit que, si un fournisseur rembourse le prix d'achat des biens retournés, il peut également rembourser la TPS payée et se faire rembourser par le fisc.
+[14] Il semble que l'article 261, même s'il n'est pas pertinent au présent appel, offre à l'organisme de services publics un autre moyen de récupérer la TPS sur les biens retournés en autorisant la présentation d'une demande directement au fisc. Cet autre moyen est nécessaire parce que l'article 232 n'exige pas que le fournisseur effectue le remboursement.
+[15] Les biens retournés qui sont au coeur du présent litige sont des livres retournés à des éditeurs par le collège pour obtenir un crédit du prix d'achat et de la TPS.
+[16] Lorsque les régimes légaux concernant les remboursements pour OSP et pour biens retournés sont considérés ensemble, une question évidente se pose. Qu'arrive‑t‑il si un fournisseur rembourse la TPS, mais que l'organisme a déjà recouvré une partie de la TPS au titre d'un remboursement pour OSP? Bien entendu, l'acheteur ne devrait pas pouvoir récupérer plus de 100 p. 100 de la taxe payée.
+[17] En vertu de ce qui ne peut être décrit que comme une omission du législateur, un organisme de services publics qui avait obtenu un remboursement pour OSP et qui retournait subséquemment les biens était également en mesure de retenir la TPS récupérée du fournisseur. Dans le cas du collège, il s'ensuivrait qu'il pourrait récupérer un total de 167 p. 100 de la TPS payée sur les livres retournés, c'est-à-dire 67 p. 100 en remboursement pour OSP et 100 p. 100 en remboursement du fournisseur.
+[18] Inévitablement, il a été mis un terme à cette situation le 10 décembre 1998. Ce jour‑là, le gouvernement a annoncé des modifications aux articles 232, 259 et 263 de la LTA, dans le but de limiter à 100 p. 100 le montant de TPS pouvant être récupéré par les organismes de services publics sur les biens retournés. Les modifications ont été édictées le 20 octobre 2000, avec effet au 10 décembre 1998.
+[19] Je me penche maintenant sur les circonstances qui ont donné lieu au présent appel.
+[20] Le collège aurait pu tirer avantage, de la manière décrite précédemment, du gain fortuit à l'égard des livres retournés, mais il ne l'a pas fait.
+[21] Il a plutôt remis ces gains fortuits au fisc. Lorsqu'un éditeur remboursait la TPS sur un livre retourné, le collège retournait le remboursement pour OSP (67 p. 100 de la TPS) au fisc en effectuant une écriture de redressement dans sa demande de remboursement mensuelle suivante.
+[22] Ce redressement n'était pas requis par la loi. Néanmoins, le ministre établissait une cotisation en fonction de la demande de remboursement produite et il n'inversait pas les écritures de redressement.
+[23] En 1999, quelques mois après l'annonce des modifications visant à corriger les échappatoires de la LTA, le cabinet comptable KPMG a conseillé au collège de demander la correction des redressements antérieurs. Il a recommandé que le collège augmente le montant demandé dans sa demande de remboursement à venir d'un montant égal à l'ensemble des redressements antérieurs demandés par erreur pour toutes les périodes ouvertes. Il en résulterait que le collège tirerait avantage du gain fortuit auquel le gouvernement venait d'annoncer qu'il mettait fin.
+[24] Conformément à cette recommandation, le collège a augmenté de 118 696,69 $ le montant demandé dans sa demande de remboursement du mois de juillet 1999. Ce montant est une estimation du total des redressements que le collège a effectués pour les livres retournés dans ses demandes de remboursement produites pour les périodes de demande mensuelles allant de juin 1995 à décembre 1998. Il excluait les redressements dans les cas où le remboursement pour OSP et le redressement correspondant figuraient dans la même demande, ce qui, je présume, se produisait lorsque les livres étaient retournés peu de temps après l'achat.
+[25] En établissant la « cotisation » visant le montant du remboursement pour la période de demande du mois de juillet 1999, en vertu de l'article 297 de la LTA, le ministre a exclu le montant demandé de 118 696,69 $.
+[26] Le fondement de la cotisation a été énoncé dans l'avis de décision ratifiant la cotisation dans les termes suivants :
+[TRADUCTION]
+L'Agence a toujours été d'avis qu'un remboursement ne peut être demandé dans des circonstances où la taxe payée peut être récupérée d'une quelque autre manière. Les modifications déposées le 10 décembre 1998 et adoptées le 20 octobre 2000 visaient à clarifier l'application de la TPS en ce qui a trait aux remboursements accordés aux organismes de services publics et ne dictent pas une nouvelle politique. En outre, le nouvel alinéa 263d), qui ajoute expressément la condition voulant qu'un remboursement de la taxe ne soit pas effectué si une note de crédit a été reçue, est devenu applicable avec effet au 10 décembre 1998 et la demande de Fanshawe a été reçue le 31 août 1999. L'alinéa d) était donc en vigueur au moment où la demande a été reçue.
+[27] À l'audition de l'appel, la Couronne a soulevé un autre argument lié à la procédure de présentation de la demande. Elle soutient que la demande est viciée sur le plan de la procédure parce qu'il n'était pas indiqué d'inclure ce montant dans la demande de remboursement correspondant à la période du mois de juillet 1999. Cet argument a été soulevé la première fois dans une réponse modifiée de la Couronne qui a été déposée sur consentement.
+II. La demande est‑elle conforme aux règles de procédure?
+[28] La première question est de savoir s'il était indiqué d'inclure le montant en litige de 118 696,69 $ dans le remboursement correspondant à la période de demande de juillet 1999.
+[29] Je vais commencer l'analyse en décrivant de manière plus détaillée la procédure de présentation d'une demande de remboursement pour OSP qui est énoncée dans la LTA.
+[30] À l'époque pertinente, le paragraphe 259(3) exigeait que le ministre paie un remboursement égal à un pourcentage réglementaire d'un montant décrit comme étant la « taxe exigée non admise au crédit ». Le pourcentage réglementaire pour le collège est généralement de 67 p. 100. La « taxe exigée non admise au crédit » est définie par une formule énoncée au paragraphe 259(1) et il en est traité plus loin.
+[31] Le paragraphe 259(3) prévoyait ce qui suit :
+259(3) Sous réserve des paragraphes (4.1), (4.2) et (5), le ministre rembourse la personne [...] qui, le dernier jour de sa période de demande ou de son exercice qui comprend cette période, est un organisme déterminé de services publics, un organisme de bienfaisance ou un organisme à but non lucratif admissible. Le montant remboursable est égal au pourcentage réglementaire de la taxe exigée non admise au crédit relativement à un bien ou à un service, sauf un bien ou un service visés par règlement, pour la période de demande.
+[32] Conformément à cette disposition, le remboursement pour OSP doit être déterminé pour une « période de demande », qui est définie au paragraphe 259(1) comme suit :
+« période de demande » S'agissant de la période de demande d'une personne à un moment donné :
+a) si la personne est un inscrit à ce moment, sa période de déclaration qui comprend ce moment;
+[...]
+[33] Tel qu'il a été mentionné précédemment, le collège est assujetti à une période mensuelle de déclaration et de demande.
+[34] Bien qu'il constitue une disposition impérative et qu'il exige que le ministre paie le remboursement, le paragraphe 259(3) s'applique sous réserve du paragraphe 259(5), qui interdit le paiement d'un remboursement pour une période de demande à moins qu'une demande visant cette période n'ait été produite. Cette disposition établit également la période à l'intérieur de laquelle une demande peut être produite.
+[35] Le paragraphe 259(5) est rédigé comme suit :
+259(5) Un remboursement prévu au présent article relativement à une période de demande de l'exercice d'une personne est accordé si la personne en fait la demande après le premier jour de cet exercice où elle est un organisme déterminé de services publics, un organisme de bienfaisance ou un organisme à but non lucratif admissible et dans les quatre ans suivant le jour ci‑après :
+a) si la personne est un inscrit, le jour où elle est tenue de produire une déclaration aux termes de la section V pour la période de demande;
+[...]
+[36] En vertu de cette disposition, le délai prévu pour présenter une demande dans le cas d'un inscrit, comme le collège, est de quatre ans suivant le jour où il est tenu de produire une déclaration de TPS.
+[37] Je crois que les déclarations de TPS du collège doivent être produites au plus tard à la fin du mois suivant la fin de chaque période de déclaration. Si tel est le cas, le délai pour faire une demande de remboursement est de quatre ans et un mois après la fin d'une période de demande donnée. Par exemple, la date limite pour demander un remboursement de TPS pour OSP à l'égard de la période de demande de janvier 2001 serait le 28 février 2005.
+[38] Comme autre exigence, il est prévu qu'une seule demande peut être produite par période de demande. Le paragraphe 259(6) prévoit ce qui suit :
+259(6) Sauf en cas d'application des paragraphes (10) ou (11), une personne ne peut faire plus d'une demande de remboursement par période de demande.
+[39] Finalement, je note que le ministre est tenu d'établir une « cotisation » visant le montant du remboursement et de le payer. Les paragraphes 297(1) et (3) sont rédigés comme suit :
+297(1) Sur réception de la demande de remboursement d'une personne selon l'article 215.1 ou la section VI, le ministre examine, avec diligence, la demande et établit une cotisation visant le montant du remboursement.
+[...]
+(3) Le ministre rembourse un montant à une personne s'il détermine, lors de l'établissement d'une cotisation en application du présent article, que le montant est payable à cette personne.
+[40] Le processus de « cotisation » à l'égard des remboursements et de contestation des cotisations semble s'apparenter à la procédure de cotisation et d'appel prévue dans la Loi de l'impôt sur le revenu.
+[41] En vertu du paragraphe 298(2) de la LTA, le ministre peut établir une nouvelle cotisation dans un délai de quatre ans suivant la date de production de la demande.
+[42] De plus, en vertu du paragraphe 299(3), une cotisation est réputée « valide » à moins qu'une nouvelle cotisation ne soit établie ou que la cotisation soit annulée par suite d'une opposition ou d'un appel. Le paragraphe 299(3) est rédigé comme suit :
+299(3) Sous réserve d'une nouvelle cotisation et d'une annulation prononcée par suite d'une opposition ou d'un appel fait selon la présente partie, une cotisation est réputée valide et exécutoire.
+[43] Je me penche maintenant sur le calcul du remboursement, lequel est défini au paragraphe 259(3) comme un pourcentage réglementaire de la « taxe exigée non admise au crédit relativement à un bien ou à un service [...] pour la période de demande ».
+[44] La « taxe exigée non admise au crédit » est définie par une formule décrite au paragraphe 259(1). Elle inclut généralement la TPS payable ou payée au cours d'une période de demande.
+[45] Les passages pertinents de la définition de « taxe exigée non admise au crédit » énoncée au paragraphe 259(1) sont rédigés comme suit :
+« taxe exigée non admise au crédit » L'excédent éventuel du montant visé à l'alinéa a) sur le montant visé à l'alinéa b) relativement à un bien ou à un service pour la période de demande d'une personne :
+a) le total (appelé « total de la taxe applicable au bien ou au service » au présent article) des montants représentant chacun l'un des montants suivants :
+(i) la taxe relative à la fourniture ou à l'importation du bien ou du service, ou à son transfert dans une province participante, qui est devenue payable par la personne au cours de la période ou qui a été payée par elle au cours de la période sans qu'elle soit devenue payable, sauf la taxe réputée avoir été payée par la personne ou pour laquelle celle‑ci ne peut, par le seul effet du paragraphe 226(4), demander de crédit de taxe sur les intrants,
+[...]
+b) le total des montants dont chacun est inclus dans le total visé à l'alinéa a) et qui, selon le cas :
+(i) entre dans le calcul du crédit de taxe sur les intrants de la personne relativement au bien ou au service pour la période,
+(ii) est un montant à l'égard duquel il est raisonnable de considérer que la personne a obtenu, ou a droit d'obtenir, un remboursement ou une remise en vertu d'un autre article de la présente loi ou d'une autre loi fédérale,
+(iii) est inclus dans un montant remboursé à la personne, redressé en sa faveur ou porté à son crédit, pour lequel elle reçoit une note de crédit visée au paragraphe 232(3), ou remet une note de débit visée à ce paragraphe.
+[Non souligné dans l'original.]
+[46] Je ferai deux observations concernant cette formule.
+[47] Premièrement, le sous‑alinéa b)(iii), qui exclut de la formule les montants pour lesquels une note de crédit est reçue, n'est pas pertinent dans le présent appel. Ce sous‑alinéa a été ajouté à la formule lors des modifications du 10 décembre 1998 concernant les biens retournés et il s'applique aux montants relatifs aux notes de crédit reçues après le 10 décembre 1998. La demande du collège n'inclut aucun montant de cette nature.
+[48] De la même manière, le sous‑alinéa b)(ii), qui exclut de la taxe exigée non admise au crédit à l'égard de la période de demande les montants qui ont été remboursés autrement, n'est pas non plus pertinent. Aucun montant de cette nature n'a été demandé.
+[49] Le calcul de la « taxe exigée non admise au crédit » pour la période de demande de juillet 1999 du collège est assez simple, du moins en ce qui a trait au présent appel. Il inclut seulement la TPS payée ou payable dans cette période.
+[50] La Couronne soutient que le collège ne peut pas inclure dans la demande de remboursement de la période de juillet 1999 les montants de TPS associés à des périodes antérieures.
+[51] Cette position semble être correcte compte tenu du libellé du paragraphe 259(3) et de la définition de « taxe exigée non admise au crédit ». Conformément à cette définition, la TPS qui doit être remboursée à l'égard d'une période de demande donnée est limitée à la « taxe […] qui est devenue payable [...] au cours de la période ou qui a été payée [...] au cours de la période ».
+[52] Même si la loi semble soutenir l'argumentation de la Couronne, il est troublant de constater que cette dernière a adopté cette position, compte tenu du fait que le gouvernement a lui‑même proposé une autre position dans les notes techniques publiées par le ministère des Finances.
+[53] Je reproduis, par exemple, la note explicative du paragraphe 259(5.1) qui a été publiée en décembre 1999. Il existe des déclarations semblables dans des notes explicatives antérieures, mais j'ai utilisé la plus récente parce que certaines des notes antérieures ont été publiées avant l'introduction de la notion de « taxe exigée non admise au crédit ». Le passage pertinent de la note explicative visant le paragraphe 259(5.1) est rédigé comme suit :
+Aux termes du paragraphe 259(5), les personnes qui n'ont pas demandé de remboursement au titre de la taxe devenue payable durant une période de demande donnée au moyen d'une demande présentée pour cette période ont jusqu'à quatre ans pour demander ce remboursement dans une autre demande.
+[Non souligné dans l'original.]
+[54] Si le présent appel intéressait une situation dans laquelle un organisme de services publics avait oublié de demander la TPS relative à un bien ou un service dans la demande correspondant à la période de demande appropriée, il serait nécessaire de décider si le libellé de la loi devrait être appliqué rigoureusement, malgré le fait qu'il semble que le ministère des Finances ait affirmé son intention de faire preuve d'une plus grande souplesse.
+[55] Toutefois, ce n'est pas le cas en l'espèce. Il s'agit plutôt d'une demande visant des montants de TPS dont le remboursement a déjà été demandé dans des périodes antérieures. Cette demande ne pourrait être acceptée, même si j'interprétais la loi conformément à la note explicative précédente, parce que d'autres exigences prévues par la loi l'interdisent.
+[56] L'une des dispositions invoquées par la Couronne est le paragraphe 262(2) qui prescrit ce qui suit :
+262(2) L'objet d'un remboursement ne peut être visé par plus d'une demande selon la présente section.
+[57] Le collège soutient que cette disposition ne s'applique pas parce que sa demande se rattache à des montants dont il n'a pas demandé le remboursement antérieurement. Selon son interprétation de l'article 262, le mot « objet » évoque un montant de TPS.
+[58] Je ne souscris pas à cette opinion. Le mot « objet » à l'article 262, à mon sens, se rattache à une opération – en l'espèce l'achat d'un livre. Si, par exemple, le collège a droit à un remboursement de 10 $ relativement à l'achat d'un livre, mais que, par erreur, il demande seulement 8 $, l'article 262 l'empêche d'inclure le 2 $ restant dans une autre demande de remboursement. Pour corriger sa demande concernant la TPS relative au livre, le collège doit s'opposer à la cotisation qui établissait le remboursement, dans le délai prévu pour le dépôt des oppositions.
+[59] Dans la présente affaire, le collège n'a pas omis d'opérations dans ses demandes de remboursement. Il a plutôt fait une série de déductions incorrectes en calculant le montant du remboursement payable.
+[60] La façon appropriée de corriger ces erreurs consiste à s'opposer aux cotisations correspondant aux périodes de demande à l'égard desquelles ces erreurs ont été commises. Ce moyen n'a pas été utilisé et, comme l'a souligné la Couronne dans son argumentation, les cotisations en question sont maintenant réputées valides en vertu du paragraphe 299(3).
+[61] Pour les motifs énoncés, j'estime que la demande du collège est déficiente sur le plan de la procédure.
+III. L'article 263 s'applique‑t‑il?
+[62] La Couronne propose subsidiairement que le paiement du montant demandé est interdit par l'article 263. Il s'agit d'une disposition d'application générale visant à prévenir les remboursements multiples à l'égard du même montant.
+[63] L'article 263 est rédigé comme suit :
+263. Le remboursement d'un montant en application des paragraphes 215.1(1) ou (2), du paragraphe 216(6) ou de l'un des articles 252 à 261.31 ou le remboursement ou l'abattement d'un montant qui, par l'effet des paragraphes 215.1(3) ou 216(7), peut être accordé en vertu des articles 69, 73, 74 ou 76 de la Loi sur les douanes n'est pas effectué au profit d'une personne dans la mesure où il est raisonnable de considérer qu'une des situations suivantes existe :
+a) le montant lui a déjà été remboursé ou versé en application de la présente loi ou d'une autre loi fédérale;
+b) elle a demandé, ou a le droit de demander, un crédit de taxe sur les intrants relativement au montant;
+c) elle a obtenu, ou a le droit d'obtenir, un remboursement ou une remise du montant en application d'un autre article de la présente loi ou d'une autre loi fédérale;
+d) elle a reçu une note de crédit visée au paragraphe 232(3) ou a remis une note de débit visée à ce paragraphe relativement à un montant de redressement, de remboursement ou de crédit qui comprend le montant.
+[64] La Couronne soutient que l'alinéa a) ou l'alinéa d) de l'article 263 interdit le paiement du remboursement en l'espèce.
+[65] L'alinéa d) a été ajouté à l'article 263 avec effet au 10 décembre 1998 lors des modifications de la LTA dont il a été question précédemment. Il interdit le paiement d'un remboursement si une note de crédit « qui comprend le montant » a été remise par un fournisseur.
+[66] L'alinéa a) est une disposition plus générale. Il interdit le paiement d'un remboursement si le « montant » a déjà été remboursé en application de la LTA.
+[67] L'une et l'autre de ces dispositions s'appliquent aux circonstances de la présente affaire, à mon avis.
+[68] L'avocate du collège souligne que l'article 232 est une disposition de nature facultative. En vertu de cette disposition, les fournisseurs peuvent rembourser la TPS pour les biens retournés, mais ils ne sont pas obligés de le faire. Elle prétend que les remboursements effectués par les fournisseurs ne sont donc pas faits « en application de » la LTA et que l'alinéa a) ne s'applique pas.
+[69] Je ne partage pas son opinion. L'article 232 prévoit un mécanisme d'origine légale qui permet aux fournisseurs de rembourser la TPS et d'être remboursés par le fisc. De toute évidence, la TPS ne serait pas remboursée par les fournisseurs si pareil régime légal n'existait pas. En donnant à l'alinéa a) l'interprétation téléologique requise, je n'hésite pas à conclure que les remboursements de TPS par les fournisseurs ont été faits « en application de » la LTA.
+[70] Le collège allègue également que l'alinéa d) ne s'applique pas. Comme j'ai de la difficulté à comprendre cet argument, je reproduis ci‑dessous les passages pertinents des observations écrites.
+[TRADUCTION]
+69. L'appelante reconnaît que le nouvel alinéa 263d) exige que, lorsqu'une facture est remise dans un mois donné et qu'une note de crédit est accordée relativement à cette facture le même mois, le remboursement de TPS doit être réduit de 67 p. 100 de la TPS inscrite sur la note de crédit. Toutefois, l'alinéa 263d) prévoit qu'un montant ne doit pas être payé si une note de crédit qui comprend le montant a été reçue.
+70. Ainsi, si une facture de 10,70 $ (TPS de 70 cents incluse) de XYZ est compensée par une note de crédit de 10,70 $ de XYZ remise au cours de la même période de déclaration, l'alinéa 263d) empêche que le remboursement de la TPS inscrite sur la facture originale soit effectué. Si toutefois la facture a été remise, par exemple, au mois d'avril 1995, mais que la note de crédit applicable à cette facture n'a été remise qu'en juillet 1995, l'alinéa 263d) n'empêche pas que le remboursement de la TPS inscrite sur la facture d'avril 1995 soit effectué.
+[71] De l'avis de l'appelante, l'alinéa d) s'applique seulement si la facture et la note de crédit correspondante sont remises dans la même période de demande. L'alinéa d) ne se limite pas à cette situation. Il interdit clairement le paiement d'un remboursement pour OSP si une note de crédit applicable aux mêmes biens a été reçue à n'importe quelle période auparavant.
+[72] Je discuterais également brièvement d'un autre argument présenté dans l'avis d'opposition du collège. Il a été allégué que le remboursement demandé concerne la TPS qui est devenue payable durant la même période de demande que celle pendant laquelle la note de crédit a été reçue. Il ne se rattache pas du tout à la TPS sur les livres retournés et par conséquent l'article 263 ne s'applique pas.
+[73] Cet argument peut être illustré en reprenant les faits présentés comme hypothèse au paragraphe 70 des observations de l'appelante citées précédemment, selon laquelle une facture est remise en avril 1995 et une note de crédit applicable à cette facture est remise en juillet 1995. Suivant cet argument, l'appel se rapporte aux factures remises en juillet 1995, soit à la même période que celle pendant laquelle la note de crédit a été reçue. Il ne se rapporte pas aux factures des livres retournés qui ont été remises en avril 1995.
+[74] À mon avis, cet argument dénature la demande du collège pour la période de demande de juillet 1995. Il laisse croire que le collège a reçu des remboursements insuffisants en ce qui concerne les factures remises en juillet 1995 et il ne tient pas compte de ce qui est réellement arrivé. Si l'on prend en considération la façon suivant laquelle le collège a calculé le montant de son remboursement pour juillet 1995, on peut dire qu'il a reçu le remboursement approprié pour les factures remises en juillet 1995 et qu'il a retourné au fisc la partie des gains fortuits de TPS qu'il a reçus à l'égard des biens retournés. Le présent appel ne se rapporte pas aux factures reçues pendant la même période de demande que les notes de crédit.
+[75] Finalement, je ferais remarquer que la Couronne a présenté des observations concernant la date d'entrée en vigueur du paragraphe 263d). Elle a allégué que cette disposition est devenue applicable avec effet au 10 décembre 1998, même si elle a été édictée plus tard. Comme le collège n'a pas soulevé cette question, je ne crois pas qu'il soit nécessaire d'en discuter dans les présents motifs.
+IV. Dispositif
+[76] L'appel est rejeté avec dépens en faveur de l'intimée.
+Signé à Toronto (Ontario), ce 23e jour de novembre 2006.
+« J. Woods »
+Le juge Woods
+Traduction certifiée conforme
+ce 26e jour de juin 2008.
+Yves Bellefeuille, réviseur
+ANNEXE A
+[TRADUCTION]
+EXTRAIT DE L'EXPOSÉ CONJOINT PARTIEL DES FAITS
+[...]
+1. La cotisation contestée est la cotisation numéro 000 000 00756, datée du 7 février 2000, à l'égard de la période de demande de remboursement du 1er juillet 1999 au 31 juillet 1999.
+2. L'appelante est un collège public d'arts appliqués et de technologie établi dans le Sud‑Ouest de l'Ontario.
+3. L'appelante est un « organisme de services publics » (OSP) au sens de la Loi sur la taxe d'accise (la Loi) et son numéro d'entreprise est le 10737 6576 RT.
+4. L'appelante produit mensuellement une déclaration de taxe sur les produits et services (TPS).
+5. La période de demande mensuelle de remboursement de l'appelante correspond à sa période de déclaration mensuelle de TPS et elle produit mensuellement une demande de remboursement pour OSP.
+6. L'appelante avait choisi, en vertu la LTA, d'utiliser la méthode rapide spéciale de comptabilité pour calculer la TPS et, en conséquence, elle a demandé des remboursements pour les frais d'exploitation liés aux activités assujetties à la TPS, plutôt que des crédits de taxe sur les intrants, durant la période visée.
+7. Chaque période de demande, avec possiblement des exceptions pour la période d'octobre 1996 et d'octobre 1997, a donné lieu à l'établissement d'une cotisation par le ministre. La cotisation établie pour chaque période de demande correspondait à la demande produite ou tenait compte de corrections mineures.
+8. Aucun avis d'opposition n'a été déposé relativement à ces cotisations à l'égard des périodes de demande de l'appelante entre juin 1995 et décembre 1998.
+9. Au sein de ses activités, l'appelante exploite une librairie. Elle y vend des livres et des fournitures éducatives connexes aux étudiants, aux enseignants et à d'autres clients.
+10. La plupart des marchandises que se procure l'appelante sont achetées et, par conséquent, facturées au début de l'année universitaire.
+11. À la fin de chaque session au cours de l'année universitaire, l'appelante retourne souvent les marchandises invendues aux fournisseurs et elle obtient des notes de crédit pour les biens retournés. En conséquence, les notes de crédit lui parviennent souvent durant un mois autre que le mois de la facture initiale.
+12. À la réception d'une facture pour la fourniture de produits et services, 67 p. 100 de la TPS payable était inscrite dans le compte de TPS à recevoir de l'appelante. Celle‑ci demandait alors un remboursement des montants inscrits au compte dans sa demande mensuelle de remboursement pour OSP[1]. Le montant du remboursement était déduit du montant de taxe nette inscrit sur la déclaration de TPS de l'appelante pour la période de déclaration correspondante. La plupart du temps, le montant du remboursement dépassait le montant de taxe nette payable et la différence était remboursée à l'appelante.
+13. Si une note de crédit était reçue le même mois que la facture, 67 p. 100 de la TPS inscrite sur la note de crédit était soustraite du compte de TPS à recevoir et, par conséquent, aucun montant n'était inclus, relativement à cette facture, dans la demande de remboursement de TPS pour OSP.
+14. Si la note de crédit des livres était reçue dans un mois autre que le mois où la facture avait été remise, la méthode comptable appliquée était la suivante : un remboursement de 67 p. 100 de la TPS inscrite sur cette facture était demandé durant la période de déclaration pendant laquelle la facture était reçue. Le mois où la note de crédit était reçue, 67 p. 100 de la TPS inscrite sur cette note était débitée du compte de TPS à recevoir, ce qui avait pour effet de compenser le remboursement applicable à la TPS payable sur d'autres factures reçues le même mois.
+15. L'appelante a reçu des notes de crédit des fournisseurs au cours de la période allant de juin 1995 à décembre 1998.
+16. Subséquemment, en juillet 1999, l'appelante a été avisée par son comptable qu'elle avait réduit par erreur de 118 696,69 $ les remboursements pour les périodes allant de juin 1995 à décembre 1998. Par conséquent, dans sa demande de remboursement de TPS pour OSP du mois de juillet 1999, l'appelante a demandé un redressement de 118 696,69 $ au montant de son remboursement. Le redressement tenait compte seulement de la TPS inscrite sur les notes de crédit reçues dans un mois autre que le mois où la TPS pour l'achat correspondant devenait payable.
+17. Pour la période de demande de juillet 1999, la TPS payée ou payable pour les produits et services que l'appelante s'était procurée se chiffrait à 233 938,72 $ auquel s'ajoutait un montant de 7 090,39 $ pour les livres de la bibliothèque.
+18. L'appelante a calculé le remboursement demandé pour juillet 1999 comme suit :
+TPS payée ou payable en juillet 1999 :
+233 938,72 $ x 67 % =
+156 738,94 $
+TPS payée ou payable sur les livres de bibliothèque :
+7 090,39 $ x 100 % =
+7 090,39 $
+Redressement du remboursement demandé :
+118 696,69 $
+Remboursement demandé :
+282 526,02 $
+19. Le 7 février 2000, le ministre a envoyé un avis de cotisation à l'appelante par lequel il refusait la demande de remboursement de TPS pour OSP au montant de 118 696,69 $.
+20. L'appelante a déposé un avis d'opposition le 11 avril 2000.
+21. Le ministre a examiné l'avis d'opposition de l'appelante et a donné un avis de décision, en date du 10 septembre 2002, par lequel il rejetait l'opposition et ratifiait la cotisation.
+[...]
+RÉFÉRENCE : 2006CCI652
+No DU DOSSIER DE LA COUR : 2002-4702(GST)G
+INTITULÉ : Fanshawe College of Applied Arts and Technology c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE London (Ontario)
+DATE DE L'AUDIENCE : Les 19 et 23 juin 2006
+MOTIFS DU JUGEMENT : L'honorable juge Judith Woods
+DATE DU JUGEMENT : Le 23 novembre 2006
+COMPARUTIONS :
+Avocate de l'appelant
+Me Susan Fincher-Stoll
+Avocat de l'intimé :
+Me Michael Ezri
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Me Susan Fincher-Stoll
+Cabinet : Harrison Pensa LLP
+London (Ontario)
+Pour l'intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Un remboursement de 100 p. 100 de la taxe payée était applicable aux livres achetés par l'appelante pour sa bibliothèque.

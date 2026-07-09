@@ -1,0 +1,204 @@
+---
+title: "Braithwaite v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66639/index.do"
+last_modified: "2014-01-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 29"
+citation2: ""
+neutral_citation: "2014 TCC 29"
+decision_date: "2014-01-28"
+language: "en"
+item_id: "66639"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6001
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:58:54.639000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6a20728a124e40dd95a3f0920bfeacdce8208be6804a1bd7ca52c49e7c45c2d2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Braithwaite v. The Queen
+
+- Citation: 2014 TCC 29
+- Decision date: 2014-01-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6001, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Braithwaite v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-01-28
+Neutral citation
+2014 TCC 29
+File numbers
+2012-912(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-912(GST)I
+BETWEEN:
+LYLE BRAITHWAITE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appellant’s appeal
+(2012-911(IT)I) on March 19, 2013, at Nanaimo, British Columbia.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rob Whittaker
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise tax Act for the period from January 1, 2005 to December 31, 2006 is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to an additional input tax credit in the amount of $219.32 for the period from January 1 to December 31, 2006, with adjustments to interest and penalties.
+Signed at Ottawa, Canada, this 28th day of January 2014.
+"Réal Favreau"
+Favreau J.
+Citation: 2014 TCC 29
+Date: 20140128
+Docket: 2012-912(GST)I
+BETWEEN:
+LYLE BRAITHWAITE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This goods and services tax appeal was heard on common evidence with the appellant’s income tax appeal (2012-911(IT)I).
+[2] The issue to be decided in this appeal is whether the appellant is entitled to claim input tax credits (“ITCs”) for the period from January 1, 2005 to December 31, 2006 (the “Period”) in excess of the amounts allowed by the Minister of National Revenue (the “Minister”) by way of the reassessment dated October 25, 2010, made under Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended (the “ETA”).
+[3] By way of the October 25, 2010 reassessment, the Minister:
+(a) disallowed ITCs in the amount of $1,168.72 for the period from January 1, 2005 to December 31, 2005 (the “Year 2005”);
+(b) disallowed ITCs in the amount of $1,002.83 for the period from January 1, 2006 to December 31, 2006 (the “Year 2006”);
+(c) assessed arrears of interest in the amount of $510.59 for the Period; and
+(d) assessed late remitting and failure to file penalties of $19.15 for the Period.
+[4] In determining the appellant’s liability for the Goods and Services Tax (the “GST”) for the Period, the Minister made the following assumptions of fact, set out in paragraph 11 of the Reply to the Notice of Appeal:
+a) the Appellant was carrying on business as a real estate agent and consultant (the ”Business Activity”); (admitted)
+b) in the course of his Business Activity, the Appellant was a commercial real estate agent operating out of the office of Sutton group Resource Realty in Duncan, BC; (admitted)
+c) in the course of his Business Activity, the Appellant also operated Braithwaite & Co. Real Estate Consulting out of his home; (admitted)
+d) the Appellant was a registrant for GST purposes; (admitted)
+e) the Appellant was required to file GST returns on an annual basis; (admitted)
+f) the Appellant made taxable supplies in his Business Activity; (admitted)
+g) from January 1, 2005 to June 30, 2006, the Appellant’s supplies were taxable at the rate of 7 percent; (admitted)
+h) from July 1, 2006 to December 31, 2006, the Appellant’s supplies were taxable at the rate of 6 percent; (admitted)
+Advertising Expenses
+i) the Appellant claimed ITCs in respect of advertising services in the Period; (admitted)
+j) the Appellant claimed ITCs in 2006 in respect of advertising services that were obtained in 2004 and 2005, and for which ITCs had already been claimed in 2004 and 2005; (denied)
+Interest Expenses
+k) the Appellant claimed ITCs in the interest expense category in respect of payments made to the Royal Bank during the Period; (denied)
+l) the Appellant failed to provide supporting documents for ITCs claimed in respect of payments made to Royal Bank during the Period; (denied)
+Motor Vehicle Expenses
+m) the Appellant claimed ITCs in respect of motor vehicle expense in the Period; (admitted)
+n) during the Period, the Appellant operated a Buick Rendezvous (the “Vehicle”); (admitted)
+o) the Appellant claimed ITCs for expenses in the motor vehicle category that were not related to his Business Activity, including payment of a speeding ticket, membership fees at the Union Club in Victoria, and the Appellant’s personal use of the Vehicle; (denied except for the speeding ticket only which is admitted)
+p) the Appellant did not maintain a mileage or vehicle log in respect of the usage of the Vehicle; (admitted);
+q) the Appellant was unable to provide sufficient documentation to fully support the ITCs claimed on the use of his vehicle and for maintenance of his vehicle in the Period; (denied)
+Travel Expenses
+r) the Appellant claimed ITCs for travel expenses in the Period; (admitted)
+s) the Appellant claimed ITCs in the Period for travel expenses that were not related to his Business Activity, including:
+i) Christmas dinner purchases;
+ii) wine purchases;
+iii) airplane and train tickets for his children;
+iv) expenses for the Appellant’s personal travel to Ontario and Quebec;
+v) expenses for boarding the Appellant’s dog in a kennel;
+vi) clothing purchases in Toronto; and
+vii) fees at a golf course;
+(all denied except for the dog boarding in a kennel which is admitted)
+t) the Appellant was unable to provide sufficient documentation to fully support the ITCs claimed on his travel expenses in the Period;
+Office, Telephone and Other Expenses
+u) the Appellant claimed ITCs on office, telephone and other expenses for the Period; (admitted)
+v) the Appellant claimed ITCs on expenses in the office, telephone and oher expenses category that were not related to his Business Activity, including:
+i) purchases at the University of Toronto for the Appellant’s son;
+ii) expenses for a graduation party;
+iii) medications;
+iv) home telephone and internet bills; and
+v) personal cellular phone bills;
+(all denied)
+w) the Appellant was unable to provide sufficient documentation for ITCs claimed on several items in the telephone, office, and other category; (denied)
+Capital Cost Allowance Additions
+x) the Appellant claimed ITCs on a computer purchased for his son in 2005; (denied)
+Summary of ITCs Disallowed in the Period
+y) the Appellant claimed ITCs of $2,592.98 for 2005; (admitted)
+z) in 2005, $1,168.72 of the ITCs claimed by the Appellant were either not incurred in acquiring properties and services respecting the supplies he made through the Business Activity, or were not supported by documentation, as set out in the attached Schedule “C”; (denied)
+aa) the Appellant claimed ITCs of $2,885.10 for 2006; (admitted)
+bb) in 2006, $1,002.83 of the ITCs claimed by the Appellant were either not incurred in acquiring properties and services respecting the supplies he made through the Business Activity, or were not supported by documentation, as set out in the attached Schedule “C”. (denied)
+Analysis and Conclusion
+[5] The adjustments to ITCs made by the Canada Revenue Agency (the “CRA”) in respect of the appellant’s 2005 and 2006 taxation years are as follows:
+2005
+2006
+$
+$
+Advertising
+—
+219.32
+Interest
+246.40
+—
+Telephone/office/other
+385.13
+360.51
+Travel
+286.58
+347.23
+Motor Vehicles
+116.52
+75.77
+CCA Addition
+134.09
+—
+________
+_________
+Total:
+$1,168.72
+$1,002.83
+[6] The ITC adjustments resulted from adjustments to the appellant’s business expenses for the 2005 and 2006 taxation years. All income tax audit adjustments regarding the business expenses claimed by the appellant in the Year 2006 were also made in respect of the business expenses claimed by the appellant in the Year 2005 on the same basis and for the same reasons (either the expenses were not incurred in the course of commercial activities or were not corroborated by sufficient documentation).
+[7] Considering my reasons and decision in the appellant’s income tax appeal (2012-911(IT)I), the appeal is allowed and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the appellant is entitled to an additional ITC in the amount of $219.32 for the period from January 1 to December 31, 2006, with adjustments to interest and penalties.
+Signed at Ottawa, Canada, this 28th day of January 2014.
+"Réal Favreau"
+Favreau J.
+CITATION: 2014 TCC 29
+COURT FILE NO.: 2012-912(GST)I
+STYLE OF CAUSE: Lyle Braithwaite and Her Majesty the Queen
+PLACE OF HEARING: Nanaimo, British Columbia
+DATE OF HEARING: March 19, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: January 28, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rob Whittaker
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,104 @@
+Title: Giguère c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/349043/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-211-349043-gigu-re-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-10-30
+
+# Giguère c. La Reine
+
+- Citation: 2018 CCI 211
+- Decision date: 2018-10-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5014, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Giguère c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-10-30
+Référence neutre
+2018 CCI 211
+Numéro de dossier
+2017-4088(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-4088(IT)I
+ENTRE :
+JONATHAN GIGUÈRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 9 octobre 2018, à Montréal (Québec).
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Représentante de l'appelant :
+Angélique Bouchard
+Avocat de l'intimée :
+Me Alain Gareau
+JUGEMENT
+L’appel de la cotisation en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2016 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 30e jour d'octobre 2018.
+« Alain Tardif »
+Juge Tardif
+Référence : 2018 CCI 211
+Date : 20181030
+Dossier : 2017-4088(IT)I
+ENTRE :
+JONATHAN GIGUÈRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel relatif au crédit d’impôt pour personne handicapée.
+[2] Le 5 octobre 2018, la représentante de l’appelant demandait une remise alléguant ne pas être en mesure de procéder; à l’appui de ses prétentions, elle a produit le certificat médical dont le contenu est le suivant :
+[3] La demande fut refusée avec indication et instruction claires de se présenter pour procéder.
+[4] En retard à l’appel du rôle, la représentante a réitéré son incapacité; elle a cependant fait plusieurs commentaires, observations, descriptions et fourni certaines explications permettant de mettre en doute le contenu du certificat médical déjà douteux à sa face même.
+[5] Elle a admis être à l’origine de l’absence de l’appelant et cela sans aucune raison. D’ailleurs les motifs à l’appui de son appel sont pour le moins très peu convaincants eu égard aux exigences légales requises pour bénéficier du crédit réclamé.
+[6] Il m’apparaît manifeste que la représentante de l’appelant a agi d’une manière désinvolte et irresponsable. Elle a tout au moins bafoué les obligations qui lui incombaient à l’endroit du mandat que lui avait confié l’appelant. L’appelant pourra et devra sans doute apprécier la qualité des services de sa mandataire et tirer les conclusions qui s’imposent.
+[7] J’ai dû rappeler la représentante de l’appelant à l’ordre à quelques reprises étant donné qu’elle décrivait et expliquait ses nombreux problèmes de nature essentiellement personnelle et sans aucune pertinence quant au dossier dont la Cour était saisi.
+[8] Bien que non pertinents, ses propos ont cependant permis de constater que la situation décrite, particulièrement quant à ses problèmes personnels, durait depuis plusieurs mois démontrant ainsi d’une façon très éloquente qu’elle aurait eu tout le temps pour présenter la demande de remise bien avant et aurait très bien pu depuis des mois avisé l’appelant qu’elle n’était pas ou plus en mesure de le représenter.
+[9] Elle a plutôt choisi de présenter une demande de remise quelques heures avant la date prévue pour l’audition. Bien que la demande de remise fut formellement refusée et bien que l’appelant ait reçu formellement instruction de se présenter devant le Tribunal tel que cédulé, elle a choisi délibérément de se présenter seule sans sa présence.
+[10] Il s’agit là du seul dossier inscrit au rôle pour cette journée. Tout comme au sein des autres cours au Canada, les autorités prennent toute sorte d’initiatives pour réduire les temps d’attentes pour obtenir une audition. Il s’agit là d’un problème très réel et abondamment soulevé avec raison et pertinence. Par contre, l’amélioration n’incombe pas seulement aux gestionnaires mais aussi aux justiciables.
+[11] En l’espèce, je considère l’attitude de la représentante de l’appelant insouciante et irresponsable. Les nombreux justiciables en attente d’une date d’audition pour leur dossier n’ont pas à assumer les conséquences d’une pareille inconduite.
+[12] Compte tenu de la preuve et de la requête de l’intimée, la demande de remise est rejetée et l’appel est également rejeté, le tout sans frais.
+Signé à Ottawa, Canada, ce 30e jour d'octobre 2018.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2018 CCI 211
+Nº DU DOSSIER DE LA COUR :
+2017-4088(IT)I
+INTITULÉ DE LA CAUSE :
+JONATHAN GIGUÈRE c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 9 octobre 2018
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 30 octobre 2018
+COMPARUTIONS :
+Représentante de l'appelant :
+Angélique Bouchard
+Avocat de l'intimée :
+Me Alain Gareau
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureur générale du Canada
+Ottawa, Canada

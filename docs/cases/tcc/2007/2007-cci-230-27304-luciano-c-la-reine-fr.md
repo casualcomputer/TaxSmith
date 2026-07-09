@@ -1,0 +1,193 @@
+---
+title: "Luciano c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27304/index.do"
+last_modified: "2007-04-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 230"
+citation2: ""
+neutral_citation: "2007 CCI 230"
+decision_date: "2007-04-18"
+language: "fr"
+item_id: "27304"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 909
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:45:21.089000+00:00"
+cases_cited_count: 5
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ed958b4c162d2c506781597799788156d3416f35b624844c88bb49b2fbeb1d67"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Luciano c. La Reine
+
+- Citation: 2007 CCI 230
+- Decision date: 2007-04-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 909, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Luciano c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-18
+Référence neutre
+2007 CCI 230
+Numéro de dossier
+2005-2151(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2151(IT)G
+ENTRE :
+NANCY LUCIANO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 11 avril 2007, à Toronto (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante :
+M. Peter Martin
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+____________________________________________________________________
+ORDONNANCE
+L’intimée ayant présenté une requête pour l’obtention d’une ordonnance radiant certains passages de l’avis d’appel déposé pour le compte de l’appelante;
+L’avocate de l’intimée ayant été entendue;
+L’avocat de l’appelante ayant été entendu;
+Les documents qui ont été produits ayant été lus;
+La requête de l’intimée est accueillie, avec dépens, et il est ordonné que ce qui suit soit radié de l’avis d’appel :
+(a) Tout le paragraphe 8;
+(b) Tout l’alinéa 12c);
+(c) Tout l’alinéa 13b);
+(d) Tout l’alinéa 14e).
+Signé à Ottawa, Canada, ce 18e jour d’avril 2007.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 28e jour de mars 2008.
+Maurice Audet, réviseur
+Référence : 2007CCI230
+Date : 20070418
+Dossier : 2005-2151(IT)G
+ENTRE :
+NANCY LUCIANO,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] L’intimée a présenté cette requête pour faire radier certains passages de l’avis d’appel. Les passages dont l’intimée a demandé la radiation sont les suivants :
+(a) Tout le paragraphe 8, qui est ainsi rédigé :
+[traduction]
+8. À la suite de l’avis d’opposition, l’agent des appels a refusé d’examiner le fait que l’intimée avait erré relativement au bien, aux fonds ainsi qu’à la question de savoir quel « Antonio Miniaci » était lequel.
+(b) Tout l’alinéa 12c) qui, avec la partie liminaire du paragraphe 12, est ainsi rédigé :
+[traduction]
+12. La ou les questions à trancher dans cet appel sont les suivantes :
+c) L’intimée est-elle responsable d’un recours abusif à la Cour du fait de son refus d’examiner et de corriger l’erreur ou les erreurs évidentes?
+(c) Tout l’alinéa 13b) qui, avec la partie liminaire du paragraphe 13, est ainsi rédigé :
+[traduction]
+13. L’appelante invoque les dispositions législatives et légales suivantes :
+b) l’art. 7 de la Charte;
+(d) Tout l’alinéa 14e) qui, avec la partie liminaire du paragraphe 14, est ainsi rédigé :
+[traduction]
+14. L’appel se fonde sur les motifs suivants :
+e) la cotisation et la procédure de l’intimée constituent un recours abusif recours (sic) à la Cour.
+[2] Dans l’affaire Zelinski c. R. (2002 DTC 1204, [2002] 1 C.T.C. 2422 (C.C.I.), confirmée par la Cour d’appel fédérale, 2002 DTC 7395, [2003] 1 C.T.C. 53), le juge Bowie a affirmé que :
+4 L’acte de procédure a pour but de définir les questions faisant l’objet du litige entre les parties aux fins de production et de communication préalable ainsi qu’en prévision du procès. Il incombe aux parties de présenter un exposé concis des faits pertinents sur lesquels elles se fondent. Les faits pertinents sont ceux qui, dans l’éventualité où ils sont établis au cours du procès, concourront à démontrer que la partie ayant déposé l’acte de procédure a droit au redressement demandé. De façon générale, il convient que la modification d’un acte de procédure soit autorisée, dans la mesure où cela n’est pas préjudiciable à l’autre partie – qui n’a pas droit à une contrepartie sous forme de dépens ou sous une autre forme –, les Règles visant à assurer, dans la mesure du possible, un procès équitable portant sur les vraies questions en litige entre les parties.
+5 Le principe applicable est formulé ainsi par Holmsted et Watson :
+[TRADUCTION]
+Il s’agit de « la » règle par excellence en matière d’actes de procédure; toutes les autres règles sont essentiellement des règles accessoires ou des réserves à cette règle de base selon laquelle le plaideur doit exposer les faits pertinents sur lesquels il fonde sa demande ou sa défense. Cette règle comporte quatre composantes distinctes : (1) chaque acte de procédure doit exposer des faits, et non pas simplement des conclusions de droit; (2) il doit exposer les faits pertinents et ne pas contenir de faits dénués de pertinence; (3) il doit exposer des faits et non les éléments de preuve qui serviront à étayer ces faits; (4) il doit exposer les faits avec concision.
+[3] Par conséquent, les faits exposés dans l’avis d’appel doivent avoir rapport au redressement demandé. Dans un appel auprès de la Cour, la partie appelante demande soit l’annulation ou la modification d’une cotisation établie sous le régime de la Loi de l’impôt sur le revenu (la « Loi »). L’article 169 de la Loi dispose :
+(1) Lorsqu'un contribuable a signifié un avis d'opposition à une cotisation, prévu à l'article 165, il peut interjeter appel auprès de la Cour canadienne de l'impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l'expiration des 90 jours qui suivent la signification de l'avis d'opposition sans que le ministre ait notifié au contribuable le fait qu'il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l'expiration des 90 jours qui suivent la date où avis a été expédié par la poste au contribuable, en vertu de l'article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+[…]
+[4] L’article 171 de la Loi dispose :
+(1) La Cour canadienne de l'impôt peut statuer sur un appel :
+a) en le rejetant;
+b) en l'admettant et en :
+(i) annulant la cotisation,
+(ii) modifiant la cotisation,
+(iii) déférant la cotisation au ministre pour nouvel examen et nouvelle cotisation.
+[…]
+[5] Dans l’arrêt de la Cour d’appel fédérale dans l’affaire Main Rehabilitation Co. c. R. (2004 CAF 403) (autorisation de pourvoi devant la Cour suprême du Canada refusée (343 N.R. 196 (note)), la Cour d’appel fédérale a formulé les commentaires suivants :
+6 Quoi qu’il en soit, il est également évident et manifeste que la Cour de l’impôt n’a pas compétence pour statuer qu’un avis de cotisation est nul parce qu’il constitue un abus de procédure reconnu en common law ou en violation de l’article 7 de la Charte.
+7 Comme le signale à juste titre le juge la Cour de l’impôt, même si cette cour a compétence pour suspendre une procédure constituant un abus de ses procédures (voir à titre d’exemple Yacyshyn c. Canada, 1999 D.T.C. 5133 (C.A.F.)), il est de jurisprudence constante qu’on ne peut tenir compte des actions de l’ADRC dans le cadre d’appels interjetés à l’encontre d’un avis de cotisation.
+8 Il en est ainsi parce que l’appel interjeté sur le fondement de l’article 169 met en cause la validité de la cotisation et non du processus ayant conduit à l’établir (voir à titre d’exemple Canada c. The Consumers’ Gas Company Ltd., 87 D.T.C. 5008 (C.A.F.), à la page 5012). Autrement dit, il ne s’agit pas de déterminer si les fonctionnaires de l’ADRC ont correctement exercé leurs pouvoirs, mais plutôt de déterminer si les montants pouvaient valablement être cotisés sous le régime de la Loi (Ludco Enterprises Ltd. c. R., [1996] 3 C.T.C. 74 (C.A.F.), à la page 84).
+[6] L’affaire Main Rehabilitation Co. concernait une requête pour obtenir la radiation de certaines parties de l’avis d’appel reliées à des prétentions selon lesquelles les actes du vérificateur de l’Agence du revenu du Canada avaient entraîné un abus de procédure. L’avocat inscrit au dossier pour l’appelante dans la présente affaire est la même personne qui a agi comme avocat pour l’appelante dans l’affaire Main Rehabilitation Co. Le critère à appliquer en matière de radiation de passages d’actes de procédures a également été énoncé dans l’affaire Main Rehabilitation Co., et ce, en ces termes :
+3 Le critère à appliquer en matière de radiation consiste à déterminer s’il est évident et manifeste que l’avis d’appel que Main a déposé devant la Cour de l’impôt ne révèle aucun moyen raisonnable d’appel. Les passages en cause de son acte de procédure ne seront radiés que s’il est certain que son appel est voué à l’échec. Comme nous l’avons déjà signalé, les allégations de l’avis d’appel sont tenues pour avérées : voir Hunt c. Carey Canada Inc., [1990] 2 R.C.S. 959.
+[7] Étant donné que, comme il est noté plus haut, la seule question que la Cour peut trancher dans le cadre d’un appel interjeté en vertu de l’article 169 de la Loi est la validité de la cotisation elle-même, les passages de l’avis d’appel qui traitent de la conduite de l’agent des appels ou de l’intimée ne sont pas pertinents pour statuer sur la validité de la cotisation, et par conséquent, ne sont pas des faits pertinents qui se rapportent au redressement demandé en vertu de l’article 171 de la Loi.
+[8] En ce qui concerne les passages relatifs à l’article 7 de la Charte canadienne des droits et libertés (la « Charte »), le juge Rothstein (tel était alors son titre) a formulé les commentaires suivants au sujet de l’article 7 de la Charte relativement à l’établissement de nouvelles cotisations sous le régime de la Loi dans l’arrêt Mathew c. R. (2003 CAF 371) :
+29 Je reconnais que le pouvoir d’établir une nouvelle cotisation pour un contribuable met en cause l’administration de la justice. Je ne reconnais toutefois pas qu’établir une nouvelle cotisation donne lieu à une atteinte à la liberté ou à la sécurité de la personne.
+30 Si un droit entre en jeu lorsqu’on établit de nouvelles cotisations, c’est d’un droit économique qu’il s’agit. S’exprimant au nom de la majorité dans Gosselin, la juge en chef McLachlin a fait observer que, dans Irwin Toy Ltd. c. Québec (P.G.), [1989] 1 R.C.S. 927, à la page 1003, le juge en chef Dickson, s’exprimant au nom de la majorité, n’avait pas répondu à la question de savoir si l’article 7 pouvait être invoqué pour protéger les « droits économiques, fondamentaux à [...] la survie [de la personne] ». On ne laisse toutefois pas entendre dans Gosselin que l’article 7 est d’assez large portée pour englober les droits économiques de manière générale ou, plus particulièrement, l’établissement de nouvelles cotisations. Je suis d’avis, par conséquent, que les appelants n’ont pas démontré l’atteinte à un droit quelconque garanti par l’article 7 de la Charte.
+[9] La Cour suprême du Canada a confirmé (2005 CSC 55) l’arrêt Mathew, mais elle n’a pas formulé de commentaires au sujet de l’application de l’article 7 de la Charte à l’établissement de nouvelles cotisations sous le régime de la Loi.
+[10] Vu les commentaires de la Cour d’appel fédérale dans l’arrêt Mathew, les passages invoquant l’article 7 de la Charte ne sont pas pertinents au regard de la validité de la cotisation établie à l’égard de l’appelante.
+[11] L’avocat de l’appelante a reconnu que les faits allégués au paragraphe 8 de l’avis d’appel et que les autres paragraphes en question ne se rapportaient pas à la validité de la cotisation, mais il a soutenu qu’ils se rapportaient plutôt à la demande de l’appelante visant à obtenir l’adjudication des dépens en sa faveur sur une base procureur-client.
+[12] Dans l’arrêt Colombie-Britannique (Ministre des Forêts) c. Bande indienne Okanagan, [2003] 3 R.C.S. 371, la Cour suprême du Canada a affirmé que :
+19 La compétence des tribunaux d’ordonner le paiement des dépens afférents à une procédure judiciaire existe depuis fort longtemps. Les cours anglaises de common law n’avaient pas de compétence inhérente pour statuer sur les dépens mais, dès la fin du 13e siècle, la loi leur a conféré le pouvoir d’adjuger les dépens à la partie gagnante. De plus, les cours d’equity détenaient une compétence entièrement discrétionnaire pour accorder les dépens au gré de leur conscience (voir M. M. Orkin, The Law of Costs (2e éd. (feuilles mobiles)), p. 1‑1). Dans le système juridique canadien moderne, ce pouvoir discrétionnaire fondé sur l’equity existe toujours et est reconnu par les diverses lois et règles de procédure civile provinciales, qui laissent la question des dépens à la discrétion de la cour.
+20 Normalement, les dépens sont accordés à la partie gagnante après le prononcé du jugement. Dans Re Regional Municipality of Hamilton‑Wentworth and Hamilton‑Wentworth Save the Valley Committee, Inc. (1985), 51 O.R. (2d) 23, p. 32, la Cour divisionnaire de la Haute Cour de justice de l’Ontario résume ainsi les caractéristiques habituelles de l’octroi des dépens :
+[traduction]
+(1) Les dépens sont alloués à la partie victorieuse ou méritoire et sont payables par la partie qui succombe.
+(2) Par la force des choses, les dépens ne sont accordés qu’à la fin de l’instance étant donné qu’on ne peut savoir d’avance qui aura gain de cause.
+(3) Ils sont payables à titre d’indemnité pour les dépenses et les services admissibles afférents à l’instance.
+(4) Ils ne sont pas versés dans le but de garantir la participation à l’instance. [En italique dans l’original.]
+[13] Puisque les dépens sont adjugés par le juge du procès une fois un appel tranché, il serait prématuré, lors d’une audience sur la validité d’une cotisation, de présenter une preuve qui, en supposant qu’elle ait une quelconque pertinence, est pertinente seulement au regard de la question de savoir si des dépens sur une base procureur-client devraient être adjugés en rapport avec ce qui constitue l’objet même de l’audience. Puisque la conduite de l’agent des appels n’est pas pertinente aux fins de trancher la question de la validité de la cotisation, aucun élément de preuve relatif à la conduite de l’agent des appels ne serait admissible à l’audience relative à la validité de la cotisation étant donné qu’il serait dénué de pertinence. Puisque l’avis d’appel doit inclure uniquement des faits pertinents qui ont rapport à la question à trancher, seuls les faits pertinents qui ont rapport à la question de la validité de la cotisation doivent y être inclus.
+[14] La question de savoir si des dépens seront accordés sur une base procureur-client n’est pas une question à trancher dans le contexte de l’article 169 de la Loi, mais plutôt une question que le juge du procès tranche à sa discrétion, conformément à l’article 147 des Règles de la Cour canadienne de l’impôt (procédure générale), à la suite de la conclusion de la procédure relative à la validité de la cotisation. À mon avis, permettre à l’appelante de produire à l’audience des éléments de preuve qui ne sont pas pertinents au regard de la validité de la cotisation elle-même prolongerait inutilement l’audience. Si l’appelante est déboutée de sa contestation de la validité de la cotisation, la question de savoir si elle a droit aux dépens sur une base procureur-client sera vraisemblablement sans objet. L’adjudication des dépens relève du pouvoir discrétionnaire du juge du procès et, par conséquent, il se pourrait que les dépens soient accordés à l’appelante même si elle perd sa cause à l’audience, mais seules des circonstances exceptionnelles pourraient conduire à un tel résultat.
+[15] La requête de l’intimée est accueillie, et les passages de l’avis d’appel cités plus haut, dont l’intimée a demandé la radiation, sont par les présentes radiés de l’avis d’appel.
+[16] Puisque l’avocat inscrit au dossier pour l’appelante était le même que celui qui a comparu pour l’appelante dans l’affaire Main Rehabilitation Co., l’intimée a droit aux dépens relativement à la présente requête.
+Signé à Ottawa, Canada, ce 18e jour d’avril 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 28e jour de mars 2008.
+Maurice Audet, réviseur
+RÉFÉRENCE : 2007CCI230
+NO DU DOSSIER DE LA COUR : 2005-2151(IT)G
+INTITULÉ : Nancy Luciano
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 11 avril 2007
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 18 avril 2007
+COMPARUTIONS :
+Pour l’appelante :
+M. Peter Martin
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Rocco Galati
+Cabinet : Rocco Galati
+Law Firm Professional Corporation
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

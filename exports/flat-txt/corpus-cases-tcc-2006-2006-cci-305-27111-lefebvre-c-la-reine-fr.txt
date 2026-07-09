@@ -1,0 +1,161 @@
+Title: Lefebvre c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27111/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-305-27111-lefebvre-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-06-05
+
+# Lefebvre c. La Reine
+
+- Citation: 2006 CCI 305
+- Decision date: 2006-06-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 916, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lefebvre c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-05
+Référence neutre
+2006 CCI 305
+Numéro de dossier
+2003-3205(IT)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3205(IT)I
+ENTRE :
+KATHLEEN LEFEBVRE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+BRIAN VICTOR DENNING,
+mis en cause.
+____________________________________________________________________
+Appels entendus les 24 et 27 octobre 2005, à London (Ontario)
+Devant : l'honorable juge C. H. McArthur
+Comparutions :
+Avocat de l'appelante :
+Me Keith M. Trussler
+Avocat de l'intimée :
+Me Boyd Aitken
+Pour le mis en cause :
+Le mis en cause lui-même
+____________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+JUGEMENT CONCERNANT LA DÉCISION SUR LES QUESTIONS EN VERTU DE L'ARTICLE 174 DE LA LOI DE L'IMPÔT SUR LE REVENU
+En vertu d'une ordonnance datée du 6 mai 2005, Brian Victor Denning a été groupé à l'appel de Kathleen Lefebvre en tant que mis en cause dans le but de statuer sur les questions suivantes :
+1. Les paiements de pension alimentaire versés par Brian V. Denning à Kathleen Lefebvre au cours des années d'imposition 1999 et 2000 doivent‑ils être inclus lors du calcul du revenu de Kathleen Lefebvre sur le fondement qu'ils étaient des paiements au sens de l'alinéa 56(1)b) de la Loi de l'impôt sur le revenu?
+2. Les paiements de pension alimentaire pour enfants versés par Brian V. Denning à Kathleen Lefebvre au cours de l'année d'imposition 2000 sont-ils déductibles lors du calcul du revenu de Brian V. Denning au sens de l'alinéa 60b) de la Loi?
+Après audition de la preuve de l'appelante et du mis en cause et des observations des trois parties;
+La Cour statue que :
+(a) Pour répondre à la première question, les montants de 11 550 $ et de 9 759 $ versés par Brian V. Denning à Kathleen Lefebvre durant les années d'imposition 1999 et 2000 respectivement sont à inclure lors du calcul du revenu de cette dernière;
+(b) Pour répondre à la deuxième question, le montant de 9 759 $ est déductible lors du calcul du revenu de Brian V. Denning pour son année d'imposition 2000.
+Les appels des nouvelles cotisations d'impôt établies en vertu de la Loi pour les années d'imposition 1999 et 2000 sont rejetés.
+Signé à Ottawa, Canada, ce 5e jour de juin 2006.
+« C. H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 24e jour d'août 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI305
+Date : 20060605
+Dossier : 2003-3205(IT)I
+ENTRE :
+KATHLEEN LEFEBVRE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+BRIAN VICTOR DENNING,
+mis en cause.
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Le 19 avril 2004, le ministre du Revenu national a fait une demande en vertu de l'article 174 de la Loi de l'impôt sur le revenu pour grouper Brian Victor Denning aux appels de Kathleen Lefebvre afin de statuer sur les questions relatives :
+(a) aux avis de nouvelle cotisation de Kathleen Lefebvre datés du 16 septembre 2002 relativement à ses années d'imposition 1999 et 2000 respectivement;
+(b) à l'avis de nouvelle cotisation de Brian V. Denning daté du 16 septembre 2002 relativement à son année d'imposition 2000.
+Le 6 mai 2005, la juge Sheridan a rendu une ordonnance groupant Brian Victor Denning aux appels de Kathleen Lefebvre.
+[2] La décision recherchée est relative aux questions suivantes :
+(i) Les paiements de pension alimentaire versés par Brian V. Denning à Kathleen Lefebvre au cours des années d'imposition 1999 et 2000 doivent-ils être inclus lors du calcul du revenu de Kathleen Lefebvre sur le fondement qu'ils étaient des paiements au sens de l'alinéa 56(1)b) de la Loi de l'impôt sur le revenu?
+(ii) Les paiements de pension alimentaire pour enfants versés par Brian V. Denning à Kathleen Lefebvre au cours de l'année d'imposition 2000 sont‑ils déductibles lors du calcul du revenu de Brian V. Denning au sens de l'alinéa 60b) de la Loi?
+Faits
+[3] Les présents appels sont relatifs à l'échec du mariage de l'appelante et Brian Victor Denning. L'appelante et M. Denning ont été mariés pendant treize ans, ils ont eu quatre enfants et ils sont séparés depuis 1996. Après leur séparation, l'appelante et M. Denning ont discuté de leurs dispositions financières, y compris les paiements de pension alimentaire pour enfants et le partage des biens matrimoniaux. À l'issue de leurs discussions, les deux parties ont convenu d'un accord verbal d'après lequel M. Denning s'engageait à payer 1 100 $ de pension alimentaire pour enfants à l'appelante, au moins pour le mois de septembre 1996. Il n'y pas suffisamment de preuve pour établir une obligation permanente de payer 1 100 $ par mois. Cette conclusion est étayée par le fait que l'appelante n'a reçu qu'un seul chèque de 1 100 $ avant l'accord écrit. Un accord écrit daté du 7 septembre 1996 stipule notamment que M. Denning doit payer à l'appelante une pension alimentaire mensuelle pour enfants de 1 100 $ à compter du 1er septembre 1996.
+[4] L'appelante n'a pas inclus les paiements de pension alimentaire pour enfants qu'elle a reçus pendant les années d'imposition 1999 et 2000 lors du calcul de ses revenus. Lorsqu'il a établi la nouvelle cotisation de l'appelante pour ces années d'imposition, le ministre a inclus dans les revenus de cette dernière les montants de la pension alimentaire pour enfants de 11 550 $ et de 9 759 $ respectivement. Subséquemment, à la demande du ministre comme exposé ci-dessus, notre cour a ordonné que M. Denning soit groupé au présent appel de la nouvelle cotisation pour l'année d'imposition 2000, selon l'alinéa 174(3)b) de la Loi.
+[5] En 1997, des amendements ont été apportés à la Loi de l'impôt sur le revenu; ils prévoient un changement dans le traitement des paiements de pension alimentaire pour enfants. Le juge Bowman décrit ces changements dans la décision Kovarik c. Canada[1] de la façon suivante :
+En vertu de ce que je pourrais décrire comme l'ancien régime (antérieur à mai 1997), les conjoints effectuant des paiements à leurs conjoints dont ils étaient séparés ou à leurs anciens conjoints à titre d'aliments pour les enfants pouvaient déduire ces paiements et les bénéficiaires devaient les inclure dans leur revenu. À la suite de la décision de la Cour suprême du Canada dans l'affaire Thibaudeau c. Canada, [1995] 2 R.C.S. 627, la loi a changé. Tant qu'un accord antérieur à mai 1997 demeurait inchangé, le système de déduction et d'inclusion en vertu de l'ancien régime prévalait.
+Si un nouvel accord était conclu ou si un ancien accord était modifié d'une manière particulière, le régime de déduction et d'inclusion cessait, et seuls les paiements effectués à la « date d'exécution », ainsi qu'elle est définie, étaient déductibles par le payeur et devaient être inclus par le bénéficiaire dans son revenu.
+[6] Le calcul des montants de pension alimentaire qui doivent être inclus dans le revenu en vertu du nouveau régime est exposé à l'alinéa 56(1)b) de la Loi, qui dispose :
+56(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+a) […]
+b) le total des montants représentant chacun le résultat du calcul suivant : […]
+Le calcul indique que les montants de pension alimentaire pour enfants qui sont à verser « aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement » et « relativement à une période ayant commencé à cette date ou postérieurement » sont exclus du revenu du bénéficiaire selon la définition de l'élément B du calcul. De plus, le paragraphe 56.1(4) contient les définitions suivantes qui s'appliquent aux articles 56 et 56.1 :
+« date d'exécution » Quant à un accord ou une ordonnance :
+a) si l'accord ou l'ordonnance est établi après avril 1997, la date de son établissement;
+b) si l'accord ou l'ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l'accord ou de l'ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l'accord ou l'ordonnance fait l'objet d'une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d'exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l'accord ou l'ordonnance, ou dans toute modification s'y rapportant, pour l'application de la présente loi.
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+(Je souligne.)
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+« pension alimentaire pour enfants » Pension alimentaire qui, d'après l'accord ou l'ordonnance aux termes duquel elle est à recevoir, n'est pas destinée uniquement à subvenir aux besoins d'un bénéficiaire qui est soit l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur, soit le père ou la mère d'un enfant dont le payeur est le père naturel ou la mère naturelle.
+Position de l'appelante
+[7] L'appelante soutient que les paiements de pension alimentaire pour enfants qu'elle a reçus de M. Denning pour les années d'imposition 1999 et 2000 ne devraient pas être inclus dans le calcul de son revenu, car l'alinéa 56(1)b) exige qu'un contribuable inclue les paiements de pension alimentaire dans son revenu lorsque ces paiements sont à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit conclu avant mai 1997. Elle prétend que les paiements de pension alimentaire pour enfants ont été versés conformément à un accord verbal dont les détails ont été ultérieurement consignés par écrit le 7 septembre 1996.
+[8] L'appelante soutient que l'accord verbal précisait que M. Denning devait payer 1 100 $ le premier jour de chaque mois. Selon elle, le fait que M. Denning a envoyé sans tarder des chèques au montant indiqué, aux dates précises et qu'il n'a pas attendu la signature de l'accord pour ce faire démontre qu'il reconnaissait l'accord verbal et qu'il s'y soumettait. En outre, puisque ni l'accord écrit, ni une ordonnance d'un tribunal compétent n'a modifié le montant de la pension alimentaire pour enfants, et ce, jusqu'à la fin de la période en litige, cela ne peut signifier qu'une chose : les montants ont été versés en raison de l'obligation née de l'accord verbal.
+Position de l'intimée
+[9] L'intimée soutient que les paiements de pension alimentaire pour enfants perçus par l'appelante au cours des années d'imposition 1999 et 2000 doivent être inclus lors du calcul de son revenu, car ils ont été versés en vertu de l'accord écrit du 7 septembre 1996. Puisque ces paiements étaient à recevoir selon un accord écrit conclu avant mai 1997, sans « date d'exécution » selon la définition au paragraphe 56.1(4) de la Loi, l'appelante devait inclure les montants en cause dans son revenu. L'intimée fait remarquer qu'aucune date exacte ne peut être déterminée comme étant celle à laquelle l'obligation de verser les paiements de pension alimentaire pour enfants a commencé conformément à un prétendu accord verbal. Les discussions qui ont eu lieu avant l'accord écrit étaient simplement des négociations informelles et il n'y a aucune certitude quant aux obligations, s'il en existe, qui sont résultées de ces discussions.
+[10] L'intimée ajoute en outre que, dans la présente affaire, il existe un accord écrit sans ambiguïté et un prétendu accord verbal dont les termes et les détails sont flous. L'intimée conclut que les paiements de pension alimentaire pour enfants ont été versés en vertu d'un accord écrit et que l'appelante est donc obligée d'inclure ces paiements dans son revenu.
+Analyse
+[11] L'appelante demande à notre cour de conclure que les paiements de pension alimentaire pour enfants ne sont pas une « pension alimentaire » au sens de la définition du paragraphe 56.1(4) de la Loi, car ils étaient à recevoir aux termes d'un accord verbal et non pas aux termes d'une ordonnance ou d'un accord écrit. Pour appuyer sa position, l'appelante se fonde sur la décision Poirier c. Canada[2] dans laquelle la Cour d'appel fédérale a confirmé la décision du juge Archambault, et l'appelante cite abondamment cette décision, y compris ce qui suit :
+[…] Il faut d'abord s'interroger si la convention du 28 avril 1997 est bel et bien un « accord » au sens des dispositions pertinentes de la Loi. Pour bien saisir la portée de la notion, il faut analyser sa raison d'être, son utilité dans la Loi. Toute la pertinence de la notion se trouve dans la définition de pension alimentaire citée plus haut. Pour qu'une telle pension soit déductible en vertu de l'alinéa 60b) de la Loi et qu'elle soit incluse dans le revenu d'un bénéficiaire en vertu de l'alinéa 56(1)b), il est essentiel qu'elle ait été versée soit aux termes de l'ordonnance d'un tribunal compétent ou aux termes d'un accord écrit. De toute évidence, un simple accord verbal ne serait pas suffisant pour permettre la déduction d'une pension alimentaire. Il faut nécessairement un accord écrit ou une ordonnance d'un tribunal compétent. Le but évident poursuivi par la Loi est de s'assurer qu'un contribuable est tenu de verser ou a le droit de recevoir une telle pension en raison d'une obligation découlant soit d'une ordonnance d'un tribunal, soit d'un accord qui crée une telle obligation, et que cette obligation est consignée dans un document écrit. Même si, dans la définition de « date d'exécution » il n'est question que d'un « accord », il s'agit d'un accord écrit. Un accord verbal n'aurait aucune pertinence.
+[12] L'appelante prétend que bien qu'un simple accord verbal ne suffise pas à justifier l'inclusion ou la déduction des paiements de pension alimentaire pour enfants, ce même accord suffit cependant à créer une obligation de verser les paiements de pension alimentaire. Ainsi, l'accord écrit du 7 septembre 1996 n'a pas créé d'obligation juridique de payer ou de recevoir les paiements de pension alimentaire; il a simplement confirmé l'obligation créée par le prétendu accord verbal.
+[13] Je ne peux pas me rallier à la conclusion de l'appelante. Même s'il y avait un accord verbal portant sur les paiements de pension alimentaire pour enfants, l'appelante a néanmoins le droit de recevoir les paiements en vertu de l'accord écrit, ce qui en fait une « pension alimentaire » selon la définition de la Loi. La présente affaire est différente de la cause Poirier, où le contrat en litige n'avait pas crée d'obligation juridique de verser une pension alimentaire puisqu'il y était expressément précisé que cela dépendrait d'une ordonnance du tribunal. Dans la présente affaire, le libellé de l'accord écrit crée, sans ambiguïté, une obligation juridique de verser la pension alimentaire; il fait que la pension est à recevoir. Il ne s'agit pas seulement de la confirmation d'un accord verbal qui manque de certitude et qui peut avoir créé ou non une obligation juridique distincte de verser la pension alimentaire. En outre, il faudrait remarquer que l'appelante n'a pas vigoureusement contesté la validité de l'accord écrit lors de l'audience des présents appels.
+[14] En ce qui concerne l'allégation de l'appelante selon laquelle M. Denning a reconnu l'existence de l'accord verbal et qu'il s'y est soumis car il a envoyé des chèques pour la pension alimentaire pour enfants et qu'il n'a pas attendu la signature de l'accord écrit pour ce faire, j'accepte le témoignage de M. Denning selon lequel il n'a donné qu'un seul chèque à l'appelante avant l'accord écrit, soit le 1er septembre 1996. En fait, l'accord écrit stipule que les paiements devaient commencer le 1er septembre 1996; il s'ensuit que les paiements peuvent être interprétés comme ayant été versés en vertu de cet accord et non pas en vertu d'un prétendu accord verbal. Quoi qu'il en soit, je suis convaincu que ce type d'accord verbal est inexécutoire en Ontario selon le paragraphe 55(1) de la Loi sur le droit de la famille[3], qui dispose :
+55(1) Le contrat familial et l'accord conclu afin de modifier ou de rescinder un contrat familial sont inexécutables à moins qu'ils ne soient faits par écrit et signés par les parties devant témoins.
+[15] Bien que l'avis d'appel indique qu'une ordonnance de la Cour de l'Ontario (Division générale) datée du 22 septembre 1999 modifiait la pension alimentaire pour enfants, ce qui soumettrait les paiements au nouveau système en tant qu'ordonnance ou accord conclu après le 1er mai 1997, cette thèse n'a pas été exposée lors du procès, probablement en raison du fait que le montant de la pension alimentaire pour enfants n'a pas été modifié par l'ordonnance en question, ce qui aurait été nécessaire pour constituer une modification.
+[16] La position de l'avocat de l'appelante est très claire. Il ne conteste pas l'existence d'un accord écrit daté du 7 septembre 1996 qui prévoit notamment des paiements mensuels de pension alimentaire de 1 100 $. Il a déclaré que cette obligation de paiement était née d'un accord verbal, comme le prouve le paiement de 1 100 $ effectué le 1er septembre 1996. L'accord écrit du 7 septembre 1996 était une simple reconnaissance de l'accord verbal, qui avait créé l'obligation avant le 7 septembre 1996. Pour appuyer son argument selon lequel l'accord écrit était une simple confirmation d'une obligation créée antérieurement, l'appelante s'est fondée sur la décision Poirier.
+[17] Monsieur Denning a témoigné que : [TRADUCTION] « J'ai donné à Kathy un chèque daté du 1er septembre 1996, car elle avait besoin d'argent. Je ne lui ai pas donné une série de chèques ce jour-là, je lui en ai donné un. » Après l'accord du 7 septembre 1996, elle a reçu une série de chèques. Sans l'accord écrit, il n'y aurait certainement eu ni déductibilité, ni inclusion. Tout accord verbal serait trop vague pour créer une obligation juridique de payer mensuellement 1 100 $. La décision Poirier n'apporte aucun appui à l'appelante.
+[18] Il s'ensuit que les montants de 11 550 $ et 9 759 $ versés par Brian à Kathleen au cours des années d'imposition 1999 et 2000 respectivement doivent être inclus lors du calcul du revenu de Kathleen pour ces années, selon l'alinéa 56(1)b) de la Loi, et le montant de 9 759 $ est déductible lors du calcul du revenu de Brian pour l'année d'imposition 2000, selon l'alinéa 60b) de la Loi.
+[19] Les appels des nouvelles cotisations établies en vertu de la Loi pour les années d'imposition 1999 et 2000 sont rejetés.
+Signé à Ottawa, Canada, ce 5e jour de juin 2006.
+« C.H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 24e jour d'août 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2006CCI305
+NUMÉRO DU DOSSIER DE LA COUR : 2003-3205(IT)I
+INTITULÉ DE LA CAUSE : KATHLEEN LEFEBVRE ET SA MAJESTÉ LA REINE ET BRIAN VICTOR DENNING
+LIEU DE L'AUDIENCE : London (Ontario)
+DATE DE L'AUDIENCE : les 24 et 27 octobre 2005
+MOTIFS DU JUGEMENT PAR : l'honorable juge C. H. McArthur
+DATE DU JUGEMENT : le 5 juin 2006
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Keith M. Trussler
+Avocat de l'intimée :
+Me Boyd Aitken
+Représentant du mis en cause :
+Le mis en cause lui-même
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom : Me Keith M. Trussler
+Étude : Giffen & Partners
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2001 DTC 3716, n° 2000-4906(IT)I, 27 mars 2001.
+[2] sub nom. Martin c. Canada, 205 CAF 297, [2005] A.C.F. n° 1585; n° A‑514‑04, 15 septembre 2005, conf. [2004] A.C.I. n° 556, n° 2003‑4201(IT)I, 4 novembre 2004.
+[3] L.R.O. 1990, ch. F.3.

@@ -1,0 +1,243 @@
+Title: Moriyama v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26053/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-311-26053-moriyama-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-09-17
+
+# Moriyama v. The Queen
+
+- Citation: 2004 TCC 311
+- Decision date: 2004-09-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4062, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Moriyama v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-09-17
+Neutral citation
+2004 TCC 311
+File numbers
+2001-1954(GST)G
+Judges and Taxing Officers
+Michael J. Bonner
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2001-1954(GST)G
+BETWEEN:
+ROBERT ALAN MORIYAMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 5 and 6, 2004 at Toronto, Ontario
+Before: The Honourable Justice Michael J. Bonner
+Appearances:
+Counsel for the Appellant:
+David D. Robertson
+Counsel for the Respondent:
+Andrea Jackett
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed with costs.
+Signed at Toronto, Ontario, this 17th day of September 2004.
+"Michael J. Bonner"
+Bonner, J.
+Citation: 2004TCC311
+Date: 20040917
+Docket: 2001-1954(GST)G
+BETWEEN:
+ROBERT ALAN MORIYAMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bonner, J.
+[1] This is an appeal from an assessment under s. 323 of the Excise Tax Act (the "Act"). The assessment arises from the failure of Jetcom Communications Inc. ("Jetcom") to remit net tax as required by ss. 228(2) of the Act for periods listed in Schedule A to the Notice of Assessment as follows:
+Period Ending
+Net Tax
+Interest
+Penalty
+Balance
+31-Oct-97
+$44,553.11
+$2,105.43
+$3,066.69
+$49,725.23
+30-Nov-97
+42,008.68
+1,697.75
+2,443.84
+46,150.27
+31-Dec-97
+12,616.58
+464.03
+659.44
+13,740.05
+31-Jan-98
+25,040.34
+844.30
+1,184.36
+27,069.00
+28-Feb-98
+33,160.17
+1,013.77
+1,398.98
+35,572.92
+31-Jul-98
+18,498.02
+232.42
+292.91
+19,023.35
+31-Aug-98
+24,200.92
+207.13
+261.04
+24,669.09
+31-Oct-98
+31,517.40
+16.45
+20.73
+31,554.58
+30-Nov-98
+28,773.45
+0.00
+0.00
+28,773.45
+Total
+$260,368.67
+$6,581.28
+$9,327.99
+$276,277.94
+[2] The Appellant was at all relevant times sole director of Jetcom. Subsection 323(1) of the Act imposes vicarious liability on directors in respect of corporate failure to remit. It provides:
+Where a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3), the directors of the corporation at the time the corporation was required to remit the amount are jointly and severally liable, together with the corporation, to pay that amount and any interest thereon or penalties relating thereto.
+Subsection 323(3) limits the circumstances in which ss. (1) can apply as follows:
+A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[3] There are several issues to be decided. First, there is a preliminary application on behalf of the Appellant to vacate the assessment on the ground that the individual who issued it was not authorized to do so. Second, the Appellant raises a due diligence defence under under ss. 323(3). Finally, there is a question whether a claim for the amount of Jetcom's liability was proved within the six-month period laid down in paragraph 323(2)(c) of the Act.
+[4] I turn first to the preliminary issue. The notice of assessment under appeal was not signed but it bore the title of the Deputy Minister of National Revenue. It was in fact prepared and issued by Christopher Ball, a collections officer with the Collections Division of the Toronto North Taxes Services Office of the Canada Customs & Revenue Agency ("CCRA"). Once Mr. Ball decided to assess the Appellant he informed the Appellant of his decision. He prepared a memorandum to Michelle Douglas, his team leader, and obtained her concurrence with his decision.
+[5] The question whether the Appellant should be assessed was never considered by any official holding a position with the CCRA higher than Mr. Ball and Ms. Douglas
+[6] In deciding to assess and in preparing his memorandum to his team leader, Ms. Douglas, Mr. Ball focused on the question whether the Appellant was a director of Jetcom and whether, if assessed, the Appellant had the ability or assets to pay. Mr. Ball had limited experience and very little instruction in dealing with and deciding the question whether a director should be assessed pursuant to ss. 323(4) and 296(1) of the Act.
+[7] Counsel for the Appellant argued that the "discretionary"[1] power to assess granted to the Minister of National Revenue by ss. 323(4) was not exercised by the Minister, by the Commissioner of Customs and Revenue, or by a designated officer or agent or class of officers or agents authorized by the Minister. Therefore, it was said, the assessment and notice of assessment were of no force or effect. The Appellant relied upon s. 275 and 323 of the Act.
+[8] Section 275 of the Act reads in part as follows:
+275.(1) The Minister shall administer and enforce this Part and the Commissioner may exercise all the powers and perform the duties of the Minister under this Part.
+(2) Such officers, agents and employees as are necessary to administer and enforce this Part shall be appointed or employed in the manner authorized by law.
+(3) The Minister may authorize a designated officer or agent or a class of officers or agents to exercise powers or perform duties of the Minister under this Part.
+Counsel for the Appellant noted that on September 27, 1999, the then Minister of National Revenue signed a document entitled Delegation of the Minister of National Revenue's Powers and Duties - Excise Tax Act (the "Delegation Instrument"). The delegation instrument authorizes persons holding the position of Associate Deputy Minister and Assistant Deputy Minister of National Revenue to exercise all the powers of the Minister under the Act. It further authorizes other officers to perform powers specifically assigned to them. Nothing in the instrument specifically addresses or assigns to "complex case officers", Mr. Ball's classification at the relevant time, the authority to assess which is conferred on the Minister by ss. 323(4).
+[9] Counsel's argument proceeded
+a) the Act and delegation instrument set out an explicit scheme of delegation of the Minister's powers under the Act. The delegation instrument clearly demonstrates that the Minister specifically considered each of the powers granted to him by the Act. With respect to each power that he did choose to delegate, he specifically named the class of officers who would have the appropriate capacity and experience to exercise them;
+b) Because neither ss. 323(4) nor 296(1) appear in the Schedule to the Delegation Instrument, it is evident that the Minister chose not to delegate the discretionary powers contained in these ss.;
+c) The only persons who are entitled to exercise the Minister's discretionary power to assess under the Act are: (collectively referred to hereinafter as the "Delegates"):
+The Minister of National Revenue
+- Act ss. 275(1)
+The Commissioner of the Canada Customs & Revenue Agency
+- Act ss. 275(1)
+The Deputy Minister of National Revenue
+- Interpretation Act paragraph 24(2)(c)
+The Assistant Deputy Minister of National Revenue
+- Delegation Instrument, paragraph 2
+The Associate Deputy Minister of National Revenue
+- Delegation Instrument, paragraph 2
+[10] The nature of the act of assessing is described by Thorson, P. in Pure Spring Ltd. v. M.N.R.[2] as follows:
+... The assessment, as I see it, is the summation of all the factors representing tax liability, ascertained in a variety of ways, and the fixation of the total after all the necessary computations have been made.
+[11] In my view, nothing in the language of the statute or in the nature of the power which is exercised when a s. 323 assessment is to be issued suggests that the legislature intended that the Minister must exercise the power personally or that the power be exercised only by the delegates referred to above. The issuance of such an assessment is a simple administrative function forming part of the ordinary day-to-day administration and enforcement of the Act. The fact that the Minister has exercised his ss. 275(3) power by signing the delegation instrument does not support an inference that "officers, agents and employees" employed under ss. 275(2), as Mr. Ball obviously was, require an express grant of specific ministerial authority to perform routine administrative acts. Even if the power exercised when a s. 323 assessment is issued could be regarded as discretionary in nature, the legislation must be interpreted in light of the common sense principle referred to in R. v. Harrison:[3]
+...Although there is a general rule of construction in law that a person endowed with a discretionary power should exercise it personally (delegatus non potest delegare) that rule can be displaced by the language, scope or object of a particular administrative scheme.
+...A power to delegate is often implicit in a scheme empowering a Minister to act. As Professor Willis remarked in "Delegatus Non Potest Delegare", (1943), 21 Can. Bar Rev. 257 at p. 264:
+...in their application of the maxim delegatus non potest delegare to modern governmental agencies the Courts have in most cases preferred to depart from the literal construction of the words of the statute which would require them to read in the word "personally" and to adopt such a construction as will best accord with the facts of modern government which, being carried on in theory by elected representatives but in practice by civil servants or local government officers, undoubtedly requires them to read in the words "or any person authorized by it".
+See also S.A. DeSmith, Judicial Review of Administrative Action, 3d ed., at p. 271. Thus, where the exercise of a discretionary power is entrusted to a Minister of the Crown it may be presumed that the acts will be performed, not by the Minister in person, but by responsible officials in his department: Carltona, Ltd. v. Commissioners of Works [[1943] 2 All E.R. 560 (C.A.)]. The tasks of a Minister of the Crown in modern times are so many and varied that it is unreasonable to expect them to be performed personally. It is to be supposed that the Minister will select deputies and departmental officials of experience and competence, and that such appointees, for whose conduct the Minister is accountable to the Legislature, will act on behalf of the Minister, within the bounds of their respective grants and authority, in the discharge of ministerial responsibilities. Any other approach would but lead to administrative chaos and inefficiency. ...
+[12] There is no foundation in the evidence for a conclusion that the issuance of the assessment fell outside the scope of the very sort of function which Mr. Ball was hired to perform. The case is not analogous to that of the issuance of an assessment by a person hired, for example, as a window cleaner. The matter is governed by ss. 275(2) and (3) of the Act. In my view, Mr. Ball had authority to issue the assessment.
+[13] I turn next to the question of the due diligence defence. The Respondent took the position that the Appellant:
+...did not exercise the degree of care, diligence and skill that a reasonably prudent person would have exercised in comparable circumstances to prevent the failure of Jetcom to remit to the Receiver General of Canada the net tax, interest and penalties, stated above ..., that a reasonably prudent person would have exercised in comparable circumstances.
+and he pleaded that supposed "fact" as an assumption made on assessment. The Respondent also pleaded as assumptions made on assessment a number of specific facts which, if correct, would support the assessment.
+[14] Normally the onus is on the Appellant to establish, if he can, error in the Minister's findings or assumptions of fact.[4] In this case Mr. Ball's testimony made it clear that he did not consider facts relevant to a conclusion whether an assessment might not be warranted having regard to ss. 323(3). Rather, before proceeding to assess, he considered only the question whether the Appellant filed a submission on the point. In the circumstances the burden of disproving the pleaded assumptions bearing on ss. 323(3) has not shifted to the Appellant.
+[15] Mr. Moriyama testified at the hearing of the appeal. In my view, he was a credible witness. He had three years of post-secondary education but no formal training in business or law. He is now 49 years old. Jetcom was incorporated in 1985. For a number of years during the period leading up to 1997 and 1998 Jetcom operated a substantial and successful business selling large dishes and ancillary equipment used for receiving satellite television signals. Jetcom developed a network of dealers who resold its equipment to resale customers.
+[16] In 1995 the legal framework governing the distribution of satellite broadcasting services changed. It became apparent that the future prospects of Jetcom's business were uncertain. In response Jetcom sought align itself with holders of direct broadcast satellite (DBS) licenses who, under the new framework, were entitled to distribute signals to the public. The plan involved the use of Jetcom's distribution network for the sale to the public of satellite signal receiving hardware.
+[17] In 1995 and 1996 when the signing of agreements with DBS licensees was underway it was recognized that Jetcom required further financial resources. Accordingly, Jetcom arranged to raise money by a public issue of securities.
+[18] At the beginning of 1997 there was a falling out between Jetcom and the financial advisors responsible for implementing the financing. At this time Jetcom had sales of the old style equipment of $100,000 per month but the sales were drying up and revenues did not cover expenses. In the meantime the DBS licensees with whom Jetcom hoped to do business experienced delays in launching their services. One licensee went into bankruptcy.
+[19] Clearly from the beginning of 1997 onward Jetcom was in financial peril. Throughout the year Jetcom operated on a line of credit from a bank. In the second half of the year the bank began to monitor payments and to pull funds from Jetcom's account.
+[20] Senior management at Jetcom consisted of Justin Mason, the Chief Financial Officer, Susan Coles, the Controller, and the Appellant. From January to December of 1997 almost all of Jetcom's GST returns were late filed and no payments were remitted. In August 1997 the Appellant learned for the first time of GST remittance problems. The Appellant testified that he made it clear to Coles and Mason that payment of GST was a priority. In October 1997 a series of cheques were issued to pay arrears. There is no suggestion however that the Appellant intervened personally to ensure that the remittances were made on time thereafter.
+[21] Jetcom's financial situation continued to deteriorate. In December of 1997 the bank appointed a consultant to prepare a report on the performance and operations of Jetcom. The terms of the appointment, to which the Appellant reluctantly agreed, stripped him of all management responsibility and control over business operations. The bank took steps to collect Jetcom's receivables and to apply them to reduce the business debt. There is no suggestion that the Appellant asked the new manager, who had the authority to direct Mason and Coles, to comply with the requirement to file returns and remit tax.
+[22] On December 23, 1997, the bank called its loan. Negotiations for settlement of the debt ensued. Both the Appellant and the company borrowed money and paid it to the bank in settlement of its claims. At that point, in February 1998, the Appellant planned to cause Jetcom to diversify and put together a new business plan.
+[23] It will be noted that Jetcom failed to remit from October 1997 to February 1998.
+[24] In the spring of 1998 the Appellant had discussions with a Revenue official. He explained Jetcom's difficulties and made a commitment that Jetcom would remain current and retire its arrears. Post-dated cheques were issued. The June and July 1998 remittances were made on time and some payments were made on account of arrears. The Appellant testified that he was "overseeing" the filing and payment of GST returns during this period.
+[25] The return for the period ending July 31, 1998 was filed two and a half months late although payments on account were being made.
+[26] In the fall of 1998 Jetcom's business was still struggling. Further discussions were held with Revenue and an agreement was made for a reduction in the rate of payment on account of arrears. Jetcom provided Revenue with a list of its receivables in order to facilitate garnishee proceedings.
+[27] On December 4, 1998 Jetcom became bankrupt.
+[28] It will be noted that all of the failures to remit which gave rise to the assessment under appeal took place many months after Jetcom's financial distress had become evident and, as well, two months after the Appellant discovered that the officials on whom he relied had failed to comply with ss. 228(2).
+[29] In Soper v. Canada, [1998] 1 F.C. 124, the Federal Court of Appeal analyzed the ambit of ss. 227.1(3) of the Act, a provision analogous to ss. 323(3). At page 155, Robertson J.A., speaking for the majority stated:
+40. This is a convenient place to summarize my findings in respect of subsection 227.1(3) of the Income Tax Act. The standard of care laid down in subsection 227.1(3) of the Act is inherently flexible. Rather than treating directors as a homogeneous group of professionals whose conduct is governed by a single, unchanging standard, that provision embraces a subjective element which takes into account the personal knowledge and background of the director, as well as his or her corporate circumstances in the form of, inter alia, the company's organization, resources, customs and conduct. Thus, for example, more is expected of individuals with superior qualifications (e.g. experienced business-persons).
+41. The standard of care set out in subsection 227.1(3) of the Act is, therefore, not purely objective. Nor is it purely subjective. It is not enough for a director to say he or she did his or her best, for that is an invocation of the purely subjective standard. Equally clear is that honesty is not enough. However, the standard is not a professional one. Nor is it the negligence law standard that governs these cases. Rather, the Act contains both objective elements - embodied in the reasonable person language - and subjective elements - inherent in individual considerations like "skill" and the idea of "comparable circumstances". Accordingly, the standard can be properly described as "objective subjective".
+[30] At page 156, Robertson J.A. considered the position of the inside directors. He said:
+44. At the outset, I wish to emphasize that in adopting this analytical approach I am not suggesting that liability is dependent simply upon whether a person is classified as an inside as opposed to an outside director. Rather, that characterization is simply the starting point of my analysis. At the same time, however, it is difficult to deny that inside directors, meaning those involved in the day-to-day management of the company and who influence the conduct of its business affairs, will have the most difficulty in establishing the due diligence defence. For such individuals, it will be a challenge to argue convincingly that, despite their daily role in corporate management, they lacked business acumen to the extent that that factor should overtake the assumption that they did know, or ought to have known, of both remittance requirements and any problem in this regard. In short, inside directors will face a significant hurdle when arguing that the subjective element of the standard of care should predominate over its objective aspect.
+[31] Finally, at page 157, he characterized as "inattentive" an inside director who, after learning that his company was in arrears with Revenue Canada, did nothing more than rely on assurances from the inside directors responsible for the financial side of the business. He said:
+46. Similarly, the taxpayer in Fraser (Trustee of) v. M.N.R. (1987), 37 B.L.R. 309 (T.C.C.), provides a good example of an inattentive inside director upon whom liability was justifiably visited. The taxpayer in that case was a director, minority shareholder and vice-president of manufacturing operations of a corporation. As of a certain time, he was apprised of the fact that the company was in arrears with Revenue Canada. Nevertheless, the taxpayer did nothing more in respect of that problem than rely on assurances, from the inside directors responsible for the financial side of the business, to the effect that there was no need to worry. Having made no efforts to prevent further defaults, the taxpayer was held personally responsible for the amounts that should have been remitted to the Crown by the corporation.
+[32] In my view, the Appellant was not in any way deficient in the skill, experience and knowledge required to ensure fulfilment of Jetcom's obligation to remit GST in a timely fashion. It is true, as counsel pointed out, that his post-secondary education was in an unrelated field but the Appellant's experience in overseeing the operation of Jetcom for many years more than compensates for any lack of formal education.
+[33] Moreover, the Appellant clearly fell into the category described in the case law as 'inside director'. He was sole director of Jetcom and there were no circumstances which impeded discovery and elimination of the recurring failures to remit.
+[34] Prior to the period ending October 31, 1997 it was evident that Jetcom was in financial distress. Its business was in decline and revenue from sales did not cover expenses. The company was operating on a line of credit and its creditor, the bank, had appointed a special loans officer, a clear indication of its concern. The Appellant discovered in August of 1997 that Mason and Coles, the senior officials on whom he relied to file returns and remit tax, had failed to remit. The return for October 1997 which was due on November 30, 1997 was not filed until April 1998. The Appellant admitted that he had made no enquiries of Mason and Coles because at the time he "knew we were in trouble". In my opinion, in such circumstances, the failure to verify on a monthly basis that payments were remitted on time falls below the statutory standard of care.
+[35] The evidence indicates that between the end of August 1997 and November 18, 1998 the total GST outstanding increased only slightly from $211,240 to $215,949. It appears that as a result of arrangements made between the Appellant and Revenue officials at least some payments were made which were applied to arrears. In the meantime the requirement to make current remittances was not fulfilled. While this is evidence of a sincere effort to pay the arrears, it is not, as I see it, evidence of an attempt to prevent the failures to remit which did occur during the period. In my view, the Appellant's conduct, though sincere, did not measure up to the standard laid down in Ruffo v. Canada, [2000] 4 C.T.C. 39 per Létourneau J.A. at page 42:
+The appellant's duty as a director was to anticipate and prevent the failure to pay the sums owing and not to commit such failure or perpetuate it as he did from March 1992 on in the hope that at the end of the day the firm would again become profitable or there would be enough money, even if it were wound up, to pay all the creditors.
+The due diligence defence therefore fails.
+[36] Finally, the Appellant argued that the Minister failed to satisfy paragraph 323(2)(c) which provides:
+(2) A director of a corporation is not liable under subsection (1) unless
+(c) the corporation has made an assignment or a receiving order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation's liability referred to in subsection (1) has been proved within six months after the date of the assignment or receiving order.
+[37] On December 4, 1998, Jetcom filed an assignment in bankcuptcy. On December 23, 1998, Revenue Canada filed a proof of claim on account of GST in the amount of $233,288.70 with the Trustee. The Proof of Claim related to reporting periods between August 1997 and August 1998. The proof of claim did not include Jetcom's liability for tax, interest and penalties for the periods ended October 31, 1998 and November 30, 1998 because at December 23, 1998, Jetcom had not filed its GST returns for those periods; on January 11, 2000, the Minister submitted an amended proof of claim to the Trustee in Bankruptcy in the amount of $276,277.94 to include Jetcom's liability for the October 31 to November 30, 1998 periods.
+[38] The Respondent's position was that the amended proof of claim satisfied the paragraph 323(2)(c) requirement which was directory in nature only. Counsel argued that the assessment under appeal is saved by ss. 299(5) of the Act which reads:
+(5) An appeal from an assessment shall not be allowed by reasons only of an irregularity, informality, omission or error on the part of any person in the observation of any directory provision of this Part.
+[39] In Kyte v. The Queen 97 DTC 5022, the Federal Court of Appeal dealt with a directors liability case under s. 227.1 of the Income Tax Act in which a taxpayer sought to shelter under paragraph 227.1(2)(a). Subsection 227.1(2) reads:
+(2) A director is not liable under subsection (1), unless
+(a) a certificate for the amount of the corporation's liability referred to in that subsection has been registered in the Federal Court under section 223 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation's liability referred to in that subsection has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a receiving order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation's liability referred to in that subsection has been proved within six months after the date of the assignment or receiving order.
+In Kyte, the Minister had registered a certificate against the corporation for $500,000 but assessed the taxpayer under ss. 227.1(1) for a smaller amount by reason of a refund which reduced the liability of the corporation. The taxpayer argued that the failure to register a certificate in the correct amount was fatal. That argument was rejected on the basis that paragraph 227.1(2)(a) was directory in nature and that the assessment of the taxpayer was saved by s. 166, a provision which is virtually identical to ss. 299(5). In Kyte, supra, Robertson J.A. stated at page 5024:
+Thus, we have to consider whether the error here was in respect of a directory provision of the Act, namely the reference to stating the amount of the corporation's liability in the certificate. To the extent that a determination as to whether a provision in the Act is mandatory or directory involves a balancing test, as set out in Ginsberg v. The Queen 96 DTC 6372 (F.C.A.), we are of the view that that test has been met. Having regard to the fact that the amount owing in many cases will be fluid (this is particularly true in cases involving a determination of a refund) and in cases such as the one under appeal the error in the certificate will cause no prejudice to a taxpayer, it seems to us that the Trial Judge's finding, that the requirement to state the amount of the tax liability of the corporation in the certificate is directory rather than mandatory, is correct in law. (emphasis added)
+Paragraph 323(2)(c) of the Act falls in the same category. The late filing of the amended proof of claim is therefore not fatal.
+[40] The appeal will therefore be dismissed with costs.
+Signed at Toronto, Ontario, this 17th day of September 2004.
+"Michael J. Bonner"
+Bonner, J.
+CITATION:
+2004TCC311
+COURT FILE NO.:
+2001-1954(GST)G
+STYLE OF CAUSE:
+Robert Alan Moriyama and
+Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+April 5 and 6, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice
+Michael J. Bonner
+DATE OF JUDGMENT:
+September 17, 2004
+APPEARANCES:
+Counsel for the Appellant:
+David D. Robertson
+Counsel for the Respondent:
+Andrea Jackett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David D. Robertson
+Firm:
+Fasken Martineau, DuMoulin
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This is counsel's description. The making of an assessment is an operation of an administrative nature. Pure Spring Co. v. M.N.R. 1946 C.T.C. 169 at 197.
+[2]
+Supra at 198.
+[3] [1977] 1 S.C.R. 238
+[4]
+M.N.R. v. Pillsbury Holdings Ltd., 64 DTC 5184

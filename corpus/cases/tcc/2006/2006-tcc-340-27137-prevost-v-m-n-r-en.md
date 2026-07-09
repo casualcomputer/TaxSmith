@@ -1,0 +1,237 @@
+---
+title: "Prevost v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27137/index.do"
+last_modified: "2006-06-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 340"
+citation2: ""
+neutral_citation: "2006 TCC 340"
+decision_date: "2006-06-14"
+language: "en"
+item_id: "27137"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 940
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:01:01.484000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ce93d5572e8dc9190ca7daf1365890f10773c973b1b9a01cdd3a1a60c940163a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Prevost v. M.N.R.
+
+- Citation: 2006 TCC 340
+- Decision date: 2006-06-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 940, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Prevost v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-14
+Neutral citation
+2006 TCC 340
+File numbers
+2005-4473(EI)
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2005-4473(EI)
+BETWEEN:
+NATHALIE PRÉVOST,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+FRÉDÉRIC DORGEBRAY,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on May 11, 2006, at Chicoutimi, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Claude Desbiens
+Counsel for the Respondent:
+Martin Gentile
+For the Intervener:
+The Intervener himself
+____________________________________________________________________
+JUDGMENT
+The appeal from the decision of the Minister of National Revenue dated December 5, 2005, is allowed, and the decision of the Minister is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of June 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 27th day of June, 2007.
+Brian McCordick, Translator
+Citation: 2006TCC340
+Date: 20060614
+Docket: 2005-4473(EI)
+BETWEEN:
+NATHALIE PRÉVOST,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+FRÉDÉRIC DORGEBRAY,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] This is an appeal from a decision of the Minister of National Revenue ("the Minister") dated December 5, 2005, that the Appellant was not employed in insurable employment by Frédéric Dorgebray (doing business as "Les Chiens et Gîte du Grand Nord") from November 20, 2004, to May 20, 2005.
+[2] The Appellant is Mr. Dorgebray's wife. The facts are set out as follows at paragraphs 5 and 6 of the Reply to the Notice of Appeal ("the Reply"):
+[TRANSLATION]
+5 . . .
+(a) The payor operated his business under the name "Les chiens et Gîte du Grand Nord".
+(b) The payor was the sole proprietor of the business.
+(c) The Appellant is the payor's wife.
+(d) The Appellant is related to a person who controls the payor.
+6.
+(a) The payor offers packages that feature accommodations in a cottage and meals in a lodge.
+(b) According to the payor, outside the Appellant's normal periods of employment there are few visitors, and he looks after everything on his own.
+(c) The Appellant's principal duties could be summarized as follows:
+—
+welcome the guests
+—
+prepare the packages
+—
+set the guides' schedules
+—
+answer the telephone
+—
+keep the cottages and lodge in good order
+—
+prepare the meals
+—
+look after quality control to ensure that the Bureau de normalisation du Québec's standards are met
+(d) The Appellant had to report to the payor daily with respect to her activities and duties.
+(e) She needed to have the payor approve certain packages that she prepared.
+(f) Unlike the other workers' hours, the Appellant's hours were not calculated or recorded by the payor.
+(g) The Appellant claims that she worked 40 hours per week during the period in issue; we were unable to determine a precise work schedule due to the payor’s and the worker's differing accounts.
+(h) During the period in issue, the Appellant was paid a fixed wage of $400 per week (40 hours at $10 per hour) every two weeks.
+(i) The payor specifically stated that during the three years prior to the period in issue, the Appellant was paid as a subcontractor for 20 hours per week with the same duties.
+(j) The payor claims that the Appellant's hours increased from 20 to 40 hours per week because the number of guests increased, yet the number of guests was 160 during the 2003‑2004 season and 186 during the 2004-2005 season.
+(k) From April 5 to May 20, 2005, a period when there were no longer any guests, the Appellant was the only person in the payor's payroll journal.
+(l) During this period, the Appellant, with her husband's help, allegedly cleaned two cottages and the restaurant, sorted and cleaned the clothing and equipment, and updated the pricing information.
+(m) The Appellant continued to receive a fixed wage of $400 per week during this period, and she only cashed her last paycheque on July 7, 2005, after the business was sold.
+(n) The contract for the sale of the payor's business, dated July 7, 2005, sets forth several obligations toward the Appellant and makes no reference to the other workers (except the payor).
+[3] The second and third paragraphs of the Notice of Appeal read as follows:
+[TRANSLATION]
+. . .
+Indeed, while I held that job, my employer, Frédéric Dorgebray, was the owner of "Les Chiens et Gîte du Grand Nord" and was my husband. He employed me as a secretary and quality assurance officer from 29/11/2004 to 20/05/2005, 40 hours per week.
+Ms. Laberge did not take account of one fact that I believe to be of paramount importance in this case: Mr. Dorgebray sold his business in June 2005, and the new owners called upon me, effective November 14, 2005, to perform the same duties, at the same salary, for the same number of hours. This clearly shows that even when the employer and the employee were dealing with each other at arm's length, my employment contract was renewed, and I therefore submit that the decision of the Canada Customs and Revenue Agency is unfounded.
+[4] The contract for the sale of the business, dated July 7, 2005, was produced as Exhibit A‑6. The employer and the Appellant referred to clause 4.4.10 of the contract, in which the purchaser agrees to retain their services. I quote:
+[TRANSLATION]
+. . .
+For a minimum of three (3) years, the purchasers shall use the services of the seller and his spouse on a priority basis before hiring other employees, and shall negotiate determinate employment contracts in good faith (full-year contracts as employees) . . .
+[5] On November 14, 2005, the new owners signed a certification of employment, which was produced as Exhibit A‑7. Counsel for the Respondent objected to the production of the certification because the people who signed it were not present to testify. The objection was taken under advisement.
+[6] The certification reads:
+[TRANSLATION]
+CERTIFICATION OF EMPLOYMENT
+We the undersigned, Fabienne Noorts, President, and Dirk Segers, Vice‑President of Les Chiens et Gîte du Grand Nord, hereby certify that Nathalie Prévost has been our employee since November 14, 2005, and shall remain our employee until late April 2006 as secretary and quality assurance officer with the following duties:
+–
+quality program coordination
+–
+cleaning of cottages and lodge
+–
+breakfast preparation and service
+–
+office work
+Fabienne Noorts
+Dirk Segers
+President
+Vice‑President
+(signature)
+(signature)
+[7] Ms. Prévost's Record of Employment, which was issued by the new owners on April 20, 2006, was produced as Exhibit A‑8. It covers the period from November 14, 2005, to April 29, 2006. The document describes her as an office worker. It states that she worked 880 hours for $9,152 in remuneration, including $352 in vacation pay, which means that she worked 22 forty-hour weeks at a rate of $10 per hour.
+[8] Mr. Dorgebray explained that he started up an adventure tourism business in the French Alps. In 1994, he began operating the same type of business in Saint‑David‑de‑Falardeau, Quebec. The business focuses on winter activities such as dogsledding, snowmobiling and snowshoeing. In addition to winter activities, it offers lodging and food. The season begins in late November and ends in mid‑April. Eighty per cent of the clientele is European.
+[9] In 2001 and 2002, the business became more profitable. On February 4, 2004, it obtained a certificate of compliance from the Bureau de normalisation du Québec [the Quebec standards bureau] for nature and adventure tourism.
+[10] According to Mr. Dorgebray, standardization required greater effort because of the rules that needed to be respected. A summary of these rules was produced as Exhibit A‑3. The increase in customers and the additional efforts required by standardization were the main factors that allegedly led Mr. Dorgebray to decide that Ms. Prévost should devote more hours to the business and that it would be preferable for her to be an employee instead of an independent contractor. This, it is claimed, is when he drafted the determinate employment contract produced as Exhibit A‑2. The duties set out in article 4 are as follows:
+[TRANSLATION]
+SECTION 4: DUTIES
+Nathalie PREVOST shall have the following duties:
+—
+coordinate the quality program
+—
+welcome the guests
+—
+clean the cottages and lodge
+—
+prepare and serve the breakfasts
+—
+prepare the guides' lunches
+—
+prepare the suppers
+—
+office work
+[11] The term of the contract is from November 29, 2004, to May 20, 2005.
+[12] Mr. Dorgebray stated that the other employees are guides. Their pay rate is $11.25 per hour in the first year and $13.00 per hour in the second year.
+[13] Ms. Prévost is from Nancy, France, where she obtained a management secretary diploma. Mr. Dorgebray and Ms. Prévost got married on June 14, 2003. They have known each other since 2001. There are no children of the marriage. Mr. Dorgebray had three children from a previous marriage who range from 13 to 20 years of age. He had shared custody of those children.
+Analysis and conclusion
+[14] The objection made by counsel for the Respondent to the production of the certification of Ms. Prévost's employment is valid. However, in my opinion, since the new owners produced the Appellant's Record of Employment, I must admit the certification. Otherwise, I would have to deny everything. The Respondent did not object to the Record of Employment. Both documents could have been accompanied by paycheques issued to Ms. Prévost. This would have provided more solid proof of employment. In any event, in the absence of evidence to the contrary, I believe that the people who signed the certification were in good faith.
+[15] One of the Respondent's main points is that the last customer departed on April 5, 2005. Paragraph (k) states that the Appellant was the only person in the payor's payroll journal from April 5 to May 20, 2005. The employer and the employee testified that the cottages and lodge needed to be cleaned, the equipment needed to be maintained, and things had to be organized and stored. This description is repeated at paragraph (l), with the added task of updating the pricing information.
+[16] Another point is that the Appellant only worked 20 hours per week when she was an independent contractor for her husband's business during the three prior years. This is stated in paragraph (i) of the Reply. Both the employer and the employee respond that the work duties increased, as described in paragraph (j) of the Reply. There were more customers, more packages to submit to agencies, and more reports to submit to the government.
+[17] I shall go over a few other facts on which the Minister also based his decision to continue to consider the employment excluded.
+[18] Paragraph 6(f) states: [TRANSLATION] "Unlike the other workers' hours, the Appellant's hours were not calculated or recorded by the payor." My understanding of the facts is that the Appellant's job was different from that of the guides. Hers was a full‑time job. This explains why the hours were not recorded.
+[19] Paragraph (m) states: [TRANSLATION] "The Appellant continued to receive a fixed wage of $400 per week during this period, and she only cashed her last paycheque on July 7, 2005, after the business was sold." In my view, this statement actually proves that this was a genuine employment contract.
+[20] Paragraph (n) states: [TRANSLATION] "The contract for the sale of the payor's business, dated July 7, 2005, sets forth several obligations toward the Appellant and makes no reference to the other workers (except the payor)." I do not understand what negative impact this could have on the Appellant's employment. The employer and the Appellant did not deny that they were related. I do not think that it is out of the ordinary for the seller to wish to protect or guarantee himself two jobs and two incomes.
+[21] In my opinion, the evidence discloses that this was a situation in which the business genuinely paid the Appellant while she was an independent contractor and while she was an employee. This is not a case in which the business did not have the means to pay an employee's salary, or in which the employee was paid, but put all the money back into the business. In fact, the allegation in paragraph (m) of the Reply confirms this.
+[22] In her Notice of Appeal, the Appellant stated that she worked for the new owners for the same salary and for the same period. There was no evidence to the contrary. The new owners did not testify, but they signed the certification and the Record of Employment.
+[23] I can only find that the remuneration was very reasonable. As far as the duration is concerned, the Appellant continued to work for about a month after the last guest left. The employment contract specified the duration from the outset. In addition, the business was to be sold. Thus, it was normal to make a special effort to show it in a good light. I must also note that the accounts of the facts did not change, and that they made sense given the nature of the business.
+[24] In conclusion, I am of the opinion that the employer would have entered into a substantially similar contract with another person under the circumstances described in the instant case.
+[25] Consequently, the appeal is allowed and the decision of the Minister is vacated.
+Signed at Ottawa, Canada, this 14th day of June 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 27th day of June, 2007.
+Brian McCordick, Translator
+CITATION: 2006TCC340
+COURT FILE NO.: 2005-4473(EI)
+STYLE OF CAUSE: NATHALIE PRÉVOST v. M.N.R. AND FRÉDÉRIC DORGEBRAY
+PLACE OF HEARING: Chicoutimi, Quebec
+DATE OF HEARING: May 11, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice
+Louise Lamarre Proulx
+DATE OF JUDGMENT: June 14, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Claude Desbiens
+Counsel for the Respondent:
+Martin Gentile
+For the Intervener:
+The Intervener himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Claude Desbiens
+Firm: Aubin Girard Côté
+Chicoutimi, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

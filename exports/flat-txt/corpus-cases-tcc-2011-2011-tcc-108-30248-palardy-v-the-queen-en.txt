@@ -1,0 +1,174 @@
+Title: Palardy v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30248/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-108-30248-palardy-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-03-07
+
+# Palardy v. The Queen
+
+- Citation: 2011 TCC 108
+- Decision date: 2011-03-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8017, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Palardy v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-07
+Neutral citation
+2011 TCC 108
+File numbers
+2008-4065(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-4065(IT)G
+BETWEEN:
+SOLANGE PALARDY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on December 14, 2010, at Sherbrooke, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Antonia Paraherakis
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made pursuant to the Income Tax Act for the 2003 taxation year is allowed, with costs in favour of the appellant, and the reassessment is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of March 2011.
+" Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 9th day of May 2011.
+François Brunet, Revisor
+Citation: 2011 TCC 108
+Date: 20110307
+Docket: 2008-4065(IT)G
+BETWEEN:
+SOLANGE PALARDY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction
+[1] This is an appeal by Solange Palardy (the appellant) from a reassessment made December 3, 2007, pursuant to the Income Tax Act (the ITA) for the 2003 taxation year.
+[2] In making the reassessment, the Minister of National Revenue (the Minister) included a gain of $69,111 in the appellant's income as business income from the sale of a house located in Sherbrooke.
+[3] The appellant submits that the assessment is incorrect because the gain resulted from the disposition of a house that was her principal residence. Paragraph 40(2)(b) of the ITA provides a calculation that can reduce a capital gain resulting from the sale of a taxpayer's principal residence to zero. However, this provision only applies if the gain is on a capital account. The Minister submits that the gain constitutes a gain in the nature of trade. The appellant submits that the respondent has admitted that the assessment had been made after the normal assessment period and it is for the respondent to show, in accordance with subparagraph 152(4)(a)(i), that the appellant made a "misrepresentation that is attributable to neglect, carelessness or wilful default" in order for the Minister to reopen the 2003 taxation year. The appellant submits that the issue in this case falls in a grey area and she should be given the benefit of the doubt.
+II. Summary of facts
+[4] To determine the appellant's tax payable for the 2003 taxation year, the Minister relied on the following presumptions of fact (paragraph 8 of the Reply to the Notice of Appeal):
+[translation]
+a) The appellant's principal residence during the year in question was 657 Patricia Street, in Sherbrooke.
+b) During the same period, the appellant was also the owner of a secondary residence located at Lac Aylmer, in Sherbrooke.
+c) The appellant has knowledge of and experience with property transactions.
+d) The appellant's son, Marc Cameron, has been working in the residential construction field for many years.
+e) On April 29, 2002, the appellant purchased a lot on Alfred‑Desrochers Street, in Rock Forest for $22,000 (the lot).
+f) The appellant built a residence on the lot, with the address 3593 Alfred‑Desrochers Street (the property).
+g) The residence was built in part by her son for free, and in part by third party contractors.
+h) Construction of the residence was completed in the fall of 2002.
+i) On December 16, 2002, the appellant transferred, by deed of gift, half of the lot on Alfred‑Desrochers Street to her son.
+j) The appellant sold the property on August 27, 2003, for $155,000.
+[5] To reach the conclusion that the appellant had made a misrepresentation attributable to neglect, carelessness or wilful default when she filed her income tax report for the 2003 taxation year, the Minister states that he relied on the following facts (paragraph 9 of the Reply to the Notice of Appeal):
+[translation]
+a) The appellant has experience in, and knowledge of, real estate transactions.
+b) The appellant's gain represents 65% of her taxable income for the year in question.
+A. Appellant's testimony
+[6] The appellant explained that it was her dream to build a residence on the shore of the Magog River in Sherbrooke. To do so, she purchased a large empty lot at 3593 Alfred‑Desrochers Street. The appellant testified that family members volunteered to build the residence. Her son, Marc Cameron, had experience building houses and he contributed the most time building the appellant's residence. Other family members helped her son complete the job.
+[7] The appellant stated that from the start of the construction work, she was harassed by the Commission de la construction du Québec (the CCQ) that claimed she was working as a general construction contractor without the appropriate licence. The CCQ wanted to stop the construction on the basis of violations of the relevant regulations. The appellant was required to hire a lawyer to defend herself and had to pay $10,000 in fees.
+[8] During the construction, she decided to divide the lot into two parcels and give one to her son, Marc Cameron. She explained that it was a dream of hers to live in a building next to her son's so she could see her grandchildren every day. After moving into her new house and living there for a while, she now claims that, in view of her physical and financial capacities, she could no longer continue living in that house. As a result, she decided to sell the property and go back to live in the part of the duplex she previously inhabited. She had rented her former residence to a medical student for a short period of time so she was able to move back at the end of the lease.
+B. Jacques Savard's testimony
+[9] The testimony of Jacques Savard, auditor for the Canada Revenue Agency (CRA), is essentially found in his memo under Exhibit I-4, Tab 4. Counsel for the respondent invokes this interpretation of the facts as a basis for his argument that the assessment should stand. The summary of facts states:
+[translation]
+The activity of buying and selling property is considered a "business" pursuant to the definition of the term at subsection 248(1). As a result, the profit of $69,111 you made upon the sale of the residence located at 3593 Alfred‑Desrochers Street in Sherbrooke, is considered business income pursuant to subsection 9(1). This amount was therefore included in your income pursuant to section 3.
+III. Issues
+[10] Was the Minister justified in making a reassessment for the 2003 taxation year after the normal assessment period?
+[11] Was the Minister justified in adding business income of $69,111 to the appellant's income for the 2003 taxation year?
+IV. Analysis
+[12] The issue is whether, in her income tax report for the 2003 taxation year, the appellant made a misrepresentation attributable to neglect, carelessness or wilful default such that the Minister may, pursuant to subparagraph 152(4)(a)(i) of the ITA, make the assessment in question after the expiry of the normal reassessment period. Subparagraph 152(4)(a)(i) provides:
+152(4) Assessment or reassessment [period of limitation] — The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if:
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+…
+[13] Under this provision, aside from a misrepresentation, the Minister must also show on a balance of evidence that the misrepresentation is attributable to neglect, carelessness or wilful default by the appellant.
+[14] The respondent submits that the appellant made a misrepresentation by treating the profit from the disposition of the property in question as a capital gain rather than a taxable income gain. The minister relied on the fact the appellant had knowledge of property operations and that the gain represents 65% of the appellant's income.
+[15] Regarding immovable property, the Act does not provide any criteria to distinguish a capital gain from business income resulting from a commercial transaction. Each case is unique and we must review the circumstances surrounding it to address the issue. In Happy Valley Farms Ltd. v. The Queen,[1] the Court considered the following factors in determining whether the sale of real property was income:
+a) The nature of the property sold and how the taxpayer used it;
+b) The length of the ownership period;
+c) The frequency or number of other similar transactions by the taxpayer;
+d) The work expended on or in connection with the property;
+e) The circumstances giving rise to the sale of the property; and
+f) The taxpayer's motive regarding the sale of the property at the time of purchase.
+[16] The CRA auditor focused on the second and third factors to justify his findings. Even if the circumstances that led to the sale could be interpreted as supporting the respondent's position, the real question is whether subparagraph 152(4)(a)(i) applies to a taxation year that is otherwise time-barred when the facts considered incorrect are presented because the taxpayer interpreted the circumstances to favour the non-taxation theory since they fall in the grey zone of tax law. I believe, in view of the case law, this question can be answered in the negative where the taxpayer's position is not unreasonable.
+[17] The starting point is Regina Shoppers Mall Limited v. The Queen.[2], a Federal Court case, where the central issue was whether the taxpayer should have included the profit of the sale of a lot in its income tax return as a capital gain or as income. The taxpayer had included it as a capital gain, and the Minister found that there was a misrepresentation that allowed him to assess after the normal period. Addy J., at paragraph 10 of the decision, explained that when a taxpayer files an income tax return on what he believes to be the proper method, after thoughtful, deliberate and careful assessment, there can be no misrepresentation. This ruling was accepted by the Federal Court of Appeal at paragraph 7 of its decision.[3]
+[18] Moreover, at paragraph 15 of his judgement, Addy J. explained that the legislation does not impose on taxpayers a duty to report in a manner which the Minister prefers. If the taxpayer carefully considers his position and does not attempt to deceive the Minister, there is no misrepresentation.
+[19] Petric v. The Queen[4] shows that the courts have broadly interpreted the principle established in Regina Shoppers Mall. This case was not about an issue of capital gain or income, but the fair market value of the property. Madam Justice Lamarre stated:
+38 …The matter of fair market value is a controversial issue, to be settled on the basis of the interpretation of the facts in evidence, as is the question of whether proceeds of disposition should be characterized as income or as a capital gain (Regina Shoppers Mall Limited) or of whether corporations are associated (1056 Enterprises Ltd.)…
+[20] And later, she added:
+40 Although fair market value is ultimately a question of fact to be resolved by the trier of fact, it is mostly a question of opinion answered by analysing different methodological approaches. Certainly the Minister is entitled to disagree with a taxpayer's view of fair market value and can reassess, within the limitation period, on the basis of his own evaluation. However, where the issue is whether the Minister should be allowed the benefit of an exception to the application of the limitation period, it must be shown that the taxpayer made a misrepresentation in filing his or its tax return. In the case at bar, I am of the view that unless it can be said that the appellants' view of fair market value was so unreasonable that it could not have been honestly held, there was no real misstatement.
+[Emphasis added]
+[21] In Savard v. The Queen,[5] the Tax Court of Canada stated again that taxpayers have the right to disagree with the Minister in their interpretation of the Act, and that will not necessarily be considered as a misrepresentation. Tardif J. stated:
+78 Does a person have to include, when he or she fills out a tax return, everything that might be income, based not on his or her own analysis but on speculation as to what the Agency might want to attribute to him or her? I do not believe so. In this case, there was enough information to justify the interpretation adopted by the Appellant: that he had no obligation to declare the payments of fees by his employer as taxable benefits. In fact, the debate as to who really benefited from the services for which the fees were paid is clear evidence of how complex the case was and how much confusion surrounded it.
+[Emphasis added]
+[22] Recently, in Chaumont v. The Queen,[6] the taxpayer's interpretation of the legislation was clearly incorrect, but since he had acted in good faith, the Court held that there had been no misrepresentation. Tardif J. stated:
+15 Although the appellant's submissions were unusual and even surprising, they were neither far-fetched nor unreasonable enough for it to be concluded that he made a wilful default or mistake with the intent to escape from his Canadian tax obligations.
+16 Firstly, he expressed his objection, and secondly, he took initiatives to show that his allegations had merit, while taking into consideration the fact that certain income, specifically, pension income paid to a citizen who lives in a country other than the one that pays the pension, is not taxed.
+…
+18 To conclude that the appellant's conduct was a wilful default or that it constituted a sufficient error to permit the Minister to assess beyond the normal period, would affect any taxpayer's right to contest the merits of an assessment, and would cause the limitation period imposed by Parliament to be essentially theoretical.
+[23] In the light of the above-noted case law, it appears that the adoption, by the taxpayer, of a thoughtfully considered position that contradicts the Minister's position does not in itself mean that he has made a misrepresentation that would allow the Minister to assess outside the normal period.
+[24] I do not believe the appellant's interpretation of the facts can be considered unreasonable. First, I think the CRA auditor exaggerated a great deal about the appellant's real estate experience. Mr. Savard noted that the appellant told him she had previously been a real estate agent. The appellant confirmed this, but stated that this was back in 1978 when she was a newlywed. When the building in question in this appeal was sold, the appellant was around 60 years old. She had stopped working as a real estate agent at least 25 years earlier. Since then, many things have changed in the real estate field and in tax matters. The appellant's subject knowledge is rather far in the past.
+[25] Additionally, the respondent exaggerated the taxpayer's experience with buying and selling real estate. The evidence shows that the appellant was the owner of a duplex on Patricia Street in Sherbrooke. This building had been acquired more than 40 years earlier. The appellant lived in the apartment on the main floor, from the acquisition date to the date she moved into the building in question in this case. During the entire period, this apartment was the appellant's principal residence. The appellant was also the owner of a cottage in the same region on the shore of Lake Aylmer for at least 40 years. Aside from the building in question in the present case, the only other property operation the appellant made was to purchase a 15-unit apartment building. The appellant stated that she purchased this building to generate income since her husband died when she was only 55 years old. The appellant has not worked since she was 50 years old. At the time her husband died, the estate was made up of the buildings on Patricia Street and at Lake Aylmer. The building on Patricia Street provided rental income of around $400 a month, a fact the appellant did not contest. The appellant also received liquid assets totalling $30,000. This was not a sufficient annual net income that would meet the appellant's needs. Her goal was to sell the building on Patricia Street to help finance the purchase of the 15-unit building and finance the construction cost of the building in question in the present case. According to the appellant, the 15-unit building provided her with adequate income during the period she was not yet eligible for her old age security. This explanation is completely reasonable in the light of the appellant's circumstances; she could rely on her son's help with maintenance of the multiplex building and rent collection.
+[26] What was the change that led to the sale of her residence on Alfred-Desrochers Street? The appellant explained that the dream she had of living near her son and her grandchildren was harder than her physical and financial abilities allowed. The appellant wanted to divide the vacant lot she had purchased into two and sell one of the lots to finance the construction of her building. Part of the lot was very steep which complicated the construction of the building; moreover, the lot was not suitable for a family with children. The appellant finally gave the lot to her son, I believe in part to thank him for the construction services he had provided. Therefore, the appellant's operation was not in the nature of trade. This is also true in part because of the manner in which the appellant financed the acquisition of the building. The appellant testified that the harassment the by the CCQ spoiled her dream. I have no trouble believing that a 60-year-old may have found it difficult to oversee this project. The evidence that indicated the appellant had to defend herself against the CCQ actions was not challenged. This experience may have left the appellant bitter. It is not unreasonable for her to have considered the profit as a capital gain, considering the failure of her project to live in the residence on Alfred-Desrochers Street in the long term.
+[27] I must review the last point raised by the respondent. The CRA auditor submits that the appellant did not live in the house in question or did not live in it long enough for it to be considered her principal residence. On this, I note that Interpretation Bulletin IT-120R6, "Principal Residence" published by the CRA on July 17, 2003, comments as follows on the issue:
+5. Another requirement is that the housing unit must be "ordinarily inhabited" in the year by the taxpayer or by his or her spouse or common-law partner, former spouse or common-law partner, or child.
+The question of whether a housing unit is ordinarily inhabited in the year by a person must be resolved on the basis of the facts in each particular case. Even if a person inhabits a housing unit only for a short period of time in the year, this is sufficient for the housing unit to be considered "ordinarily inhabited in the year" by that person. For example, even if a person disposes of his or her residence early in the year or acquires it late in the year, the housing unit can be considered to be ordinarily inhabited in the year by that person by virtue of his or her living in it in the year before such sale or after such acquisition, as the case may be. Or, for example, a seasonal residence can be considered to be ordinarily inhabited in the year by a person who occupies it only during his or her vacation, provided that the main reason for owning the property is not to gain or produce income. With regard to the latter stipulation, a person receiving only incidental rental income from a seasonal residence is not considered to own the property mainly for the purpose of gaining or producing income.
+[Emphasis added]
+[28] This confirms the state of the law on the subject: even if a person occupies a building for a short time, it can be considered his or her principal residence. The respondent wanted to show using circumstantial evidence that the appellant did not occupy the building. However, the respondent does not challenge the fact that the appellant leased the residence she occupied on Patricia Street to a medical student. She challenges the duration of the rental. I find the appellant credible on this point. I infer from the appellant's actions that she was intimidated by the audit procedures and the process in the courtroom. I feel that such is the explanation for the appellant's hesitations. Moreover, the respondent noted that the building was not insured, relying on the fact the auditor verified with the insurance company Industrial Alliance. The appellant's building on Alfred-Desrochers Street was mortgaged and I have no trouble believing that the financial lending institution required the building to be insured. The appellant's explanation that she had been required to take out insurance with another company is very plausible because insurance companies are not always willing to take higher risks, as is the case during the construction of a building, especially for the same premium.
+[29] Lastly, the auditor insisted on two other facts. First, he noted the lack of telephone lines at the new residence. The appellant explained that she used her cellular phone. This is plausible because many people now prefer cellular phones to land lines, as they are a more convenient means of communication. Second, he noted that in the notarized contract of sale for the building the appellant indicated that the Patricia Street residence was her principal residence. I note that the Interpretation Bulletin recognizes that a taxpayer may have more than one principal residence. A secondary residence may be considered a principal residence under the legislation. Also, it is very likely that the notary put this information in the contract of sale, which appears to be of little importance. The buyer and seller were much more concerned with the conditions of the operation, in particular the price and payment terms. In the end, the benefit of the doubt should be given to the appellant because she is a credible witness.
+[30] For all these reasons, the appeal is allowed, the assessment is vacated and the costs awarded in favour of the appellant.
+Signed at Ottawa, Canada, this 7th day of March 2011.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 9th day of May 2011.
+François Brunet, Revisor
+CITATION: 2011 TCC 108
+COURT FILE NO.: 2008-4065(IT)G
+STYLE OF CAUSE: SOLANGE PALARDY v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: December 14, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF HEARING: March 7, 2011
+APPEARANCES:
+For the appellant:
+The appellant herself
+Counsel for the respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] No. T‑6632‑82, 16 July 1986, 86 DTC 6421.
+[2] Nos. T‑1199‑88 and T‑2085‑88, 26 June 1990, 90 DTC 6427.
+[3] [1991] F.C.J. No. 52 [Regina Shoppers Mall].
+[4] 2006 TCC 306, [2006] T.C.J. No. 230.
+[5] 2008 TCC 62, 2008 DTC 2741.
+[6]2009 TCC 493, 2009 DTC 1813 (informal procedure).

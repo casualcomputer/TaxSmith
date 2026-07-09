@@ -1,0 +1,118 @@
+---
+title: "Sherritt v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27104/index.do"
+last_modified: "2006-05-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 303"
+citation2: ""
+neutral_citation: "2006 TCC 303"
+decision_date: "2006-05-30"
+language: "en"
+item_id: "27104"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 944
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:03:38.077000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b06be6f44eb00a3a74d4cdb8a2102c332430b8cca2fee2395845646c80d1e615"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sherritt v. The Queen
+
+- Citation: 2006 TCC 303
+- Decision date: 2006-05-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 944, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sherritt v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-05-30
+Neutral citation
+2006 TCC 303
+File numbers
+2004-4678(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2006TCC303
+Date: 20060530
+Docket: 2004-4678(IT)I
+BETWEEN:
+GLEN ALAN SHERRITT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench
+on November 4, 2005 at Hamilton, Ontario)
+Woods J.
+[1] This is a judgment in the appeal of Glen Alan Sherritt relating to assessments under the Income Tax Act for the 1999, 2000, 2001, 2002 and 2003 taxation years. The issue concerns the deductibility of payments that Mr. Sherritt made to his former spouse on account of child support for their two children. The payments that are at issue in this appeal total $8,580 and were made by Mr. Sherritt as child support payments to his former spouse.
+[2] The Crown made a preliminary objection on procedural grounds and suggested that the appeal for all years except 2003 be quashed. Mr. Sherritt did not disagree with this and withdrew his appeal for the years before 2003.
+[3] The deductibility of the child support payments turns on whether they were payable under a written agreement or court order. The Crown agrees that the payments would be deductible except for this particular requirement.
+[4] The requirement to have a written agreement or court order is contained in the definition of "support amount" in subsection 56.1(4). The definition provides the support payment be, and I quote, "receivable under an order of a competent tribunal or under a written agreement."
+[5] The effect of this provision is to deny a deduction for support payments unless there is enforceable obligation to pay them. The obligation must either be by way of agreement in writing or under an order of a tribunal.
+[6] There were three documents introduced into evidence. The first document is a judgment of a court relating to the divorce. The judgment makes three orders: first it orders the divorce; second it provides for custody and access of the children; and third it deals with possession of the home. I would also note that it provides that there is to be no order of costs.
+[7] The second document that was introduced is the application for divorce filed in court by Mr. Sherritt's former spouse. It is called a notice of hearing and is on a standard form. The application acknowledges that Mr. Sherritt has agreed to pay monthly support of $800. The application is stated to have a Schedule A appended that sets out the grounds for the divorce.
+[8] The third document that was introduced is headed Schedule A. It was on the court file and it appears to be the schedule referred to in the application. It does indeed give the grounds for the divorce application but it also deals with other matters. Specifically, under the schedule the former spouse seeks an order regarding custody, division of property, possession of the matrimonial home and her costs. The schedule also mentions support but does not expressly ask for an order as to support. The schedule states that Mr. Sherritt is voluntarily paying $800 per month and goes on to state that the spouse is "content that this continue."
+[9] Mr. Sherritt submits that the support payments were made under the court order. The basis for this argument is that schedule A became part of the divorce decree. I do not agree with this. Schedule A sets out what the spouse was requesting in the divorce proceeding. The divorce judgment grants some of the requests and it did not grant others, such as costs and a division of property. It is clear that the schedule was not intended to be part of the divorce decree. Accordingly I find that the child support payments were not receivable under a court order.
+[10] Mr. Sherritt also submits that the payments were made under a written agreement. The basis for this argument is that the three documents introduced into evidence constitute a written agreement, either on their own or together with papers that Mr. Sherritt signed in connection with the divorce. Mr. Sherritt testified that he could not locate these papers and could not remember the name of his lawyer and so he could not check the lawyer's records.
+[11] In my view, the evidence as a whole does not establish that the child support payments were made under a written agreement. The divorce application states that there is an agreement to make support payments but it does not state whether that agreement was oral or in writing. None of the documents that were introduced binds Mr. Sherritt to make support payments.
+[12] Mr. Sherritt testified that he agreed to the application made by his former spouse and that he signed papers to that effect at his lawyer's office. In my view, this oral testimony is not sufficient to establish the nature of the papers that he signed. Without seeing this documentation it is not possible to know what the exact legal effect is. I would also note that it is not clear from the evidence that there was complete agreement between Mr. Sherritt and his former spouse on the details of the divorce. I note that the divorce judgment did not grant everything that the spouse had sought in her application.
+[13] Accordingly I conclude that the child support payments were not receivable under a written agreement.
+[14] The appeal is dismissed.
+Signed at Toronto, Ontario this 30th day of May, 2006.
+"J. Woods"
+Woods J.
+CITATION:
+2006TCC303
+COURT FILE NO.:
+2004-4678(IT)I
+STYLE OF CAUSE:
+Glen Alan Sherritt and Her Majesty the Queen
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+November 3, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+November 8, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Eric Sherbert
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

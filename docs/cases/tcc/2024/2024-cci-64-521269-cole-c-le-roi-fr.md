@@ -1,0 +1,338 @@
+---
+title: "Cole c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521269/index.do"
+last_modified: "2024-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 64"
+citation2: ""
+neutral_citation: "2024 CCI 64"
+decision_date: "2024-05-10"
+language: "fr"
+item_id: "521269"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5761
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:46:38.355000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d9504a59ae0846a53ad039ff52ec5e8063fba07111584aa17797cbd66b4ebf19"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cole c. Le Roi
+
+- Citation: 2024 CCI 64
+- Decision date: 2024-05-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5761, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cole c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-05-10
+Référence neutre
+2024 CCI 64
+Numéro de dossier
+2021-2000(IT)G
+Juges et Officiers taxateurs
+Joanna Hill
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-2000(IT)G
+ENTRE :
+ELIZABETH COLE,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[traduction française officielle]
+Requête jugée sur dossier.
+Devant : l’honorable juge Joanna Hill.
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Terence Katerynych
+JUGEMENT
+Conformément aux motifs ci-joints :
+La requête de l’appelante est rejetée, sans dépens.
+La requête de l’intimé est accueillie, sans dépens, et l’appel interjeté par l’appelante à l’encontre de l’avis de nouvelle cotisation daté du 21 septembre 2020 pour l’année d’imposition 2011 est annulé en vertu de l’alinéa 53(3)a) des Règles de la Cour canadienne de l’impôt (procédure générale).
+Signé à Ottawa, Canada, ce 10ᵉ jour de mai 2024.
+« Joanna Hill »
+La juge Hill
+Traduction certifiée conforme
+ce 18e jour de décembre 2024.
+Sophie Reid-Triantafyllos, jurilinguiste principale
+Référence : 2024 CCI 64
+Date : 20240510
+Dossier : 2021-2000(IT)G
+ENTRE :
+ELIZABETH COLE,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Hill
+I. Introduction
+[1] L’appelante a passé la majeure partie des dix dernières années à tenter de convaincre le ministre du Revenu national de soustraire une somme de plus de 240 000 $ qui avait été ajoutée à son revenu imposable pour l’année d’imposition 2011. Après un certain temps, le ministre a commencé à considérer les démarches de l’appelante comme des demandes d’allègement pour les contribuables présentées après le délai prévu par la loi afin qu’il établisse de nouvelles cotisations à son égard. Malheureusement, le ministre l’a fait sans expliquer en détail le changement d’orientation à l’appelante.
+[2] Le ministre a partiellement accueilli les demandes de redressement de l’appelante et a établi trois nouvelles cotisations en conséquence. Dans le premier avis de nouvelle cotisation, le ministre a explicitement informé l’appelante qu’elle n’avait pas le droit de s’opposer à une nouvelle cotisation établie après la période normale de nouvelle cotisation. Toutefois, les deux autres avis de nouvelle cotisation contenaient à tort l’information standard selon laquelle l’appelante pouvait présenter des avis d’opposition. Le ministre a multiplié les erreurs en délivrant un avis de confirmation indiquant que l’appelante pouvait interjeter appel devant notre Cour.
+[3] Lorsque l’appelante a interjeté appel, l’intimé a déposé une requête en annulation de l’appel au motif que la Cour n’a pas compétence pour entendre l’appel d’une cotisation établie conformément aux dispositions d’allègement pour les contribuables de la Loi de l’impôt sur le revenu (la « Loi »).
+[4] L’appelante n’est pas d’accord, puisqu’elle estime ne pas avoir présenté de demandes d’allègement au ministre après la période normale de nouvelle cotisation afin qu’il établisse de nouvelles cotisations à son égard. Bien que la position de l’appelante à cet égard soit conforme aux faits, celle de l’intimé est techniquement fondée en droit. Après la fin de la période normale de nouvelle cotisation pour l’année d’imposition 2011, le ministre ne pouvait pas établir de nouvelle cotisation à l’égard de l’appelante, à moins qu’il ne considère ses démarches comme des demandes d’allègement présentées au titre de l’alinéa 152(4.2)a) de la Loi.
+[5] L’appelante n’a aucun droit d’opposition ni d’appel à l’égard des nouvelles cotisations établies par suite de l’exercice par le ministre du pouvoir discrétionnaire que lui confère cette disposition. Il en est ainsi même si l’Agence du revenu du Canada (l’« ARC ») a demandé par erreur à l’appelante de suivre les procédures normales d’opposition et d’appel.
+[6] L’intimé a correctement déterminé que la bonne façon de procéder était de demander à la Cour d’annuler l’appel, plutôt que de déposer une réponse à l’avis d’appel de l’appelante. Contrairement à ce qu’affirme l’appelante dans sa requête, l’intimé n’a pas omis de respecter les délais applicables prévus par les Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »).
+II. Contexte
+[7] L’historique procédural de la présente affaire est complexe parce que : a) l’appelante a présenté de nombreux avis d’opposition, demandes de redressement d’une T1 et demandes d’allègement des intérêts et des pénalités; b) le ministre a établi cinq nouvelles cotisations; et c) l’ARC a parfois fourni à l’appelante des renseignements flous, contradictoires ou erronés.
+[8] L’exposé de l’historique procédural suivant est nécessaire parce que ni l’appelante ni l’intimé n’ont résumé correctement la séquence des événements[1]. L’appelante n’a pas compris, et c’est compréhensible, les nuances et les répercussions de certains événements relatés dans cet historique procédural, et elle nie avoir présenté au ministre des demandes d’allègement après la période normale de nouvelle cotisation afin qu’il établisse de nouvelles cotisations à son égard.
+[9] Toutefois, les inexactitudes relevées dans le dossier de requête de l’intimé sont moins compréhensibles. L’affidavit et les observations écrites de l’intimé contiennent des inexactitudes ou des omissions concernant des faits pertinents qui ressortent clairement à la lecture attentive des documents joints comme pièces à son propre affidavit[2]. La plus importante omission est de ne pas avoir reconnu que l’appelante n’avait pas explicitement présenté de demandes d’allègement au titre de l’alinéa 152(4.2)a) de la Loi.
+[10] Bien que les multiples demandes et dépôts de l’appelante expliquent en partie la confusion, il n’est pas étonnant qu’elle ne fasse pas confiance à ce que lui ont dit l’ARC ou l’intimé et qu’elle demande à la Cour de trancher l’affaire.
+A. Historique procédural avec l’ARC
+[11] L’appelante a produit sa déclaration de revenu de 2011 le 23 février 2012, et le ministre a délivré un avis de cotisation le 5 mars 2012[3].
+[12] Par avis de nouvelle cotisation daté du 5 novembre 2012, le ministre a établi une nouvelle cotisation à l’égard de l’appelante pour ajouter un revenu net d’entreprise de 247 143 $, ce qui a entraîné une dette fiscale importante pour l’appelante (la « première nouvelle cotisation »[4]).
+[13] Peu après, par avis de nouvelle cotisation daté du 26 novembre 2012, le ministre a établi une nouvelle cotisation à l’égard de l’appelante afin d’apporter des redressements mineurs sans lien avec le revenu d’entreprise supplémentaire (la « deuxième nouvelle cotisation »[5]).
+[14] Le 23 octobre 2013, l’appelante a présenté une demande d’allègement afin d’obtenir l’annulation des pénalités et des intérêts ou la renonciation à ceux-ci (la « première demande d’allègement »[6]). L’appelante a aussi demandé à l’ARC de [traduction] « corriger son erreur dans la cotisation établie pour les années d’imposition 2010 et 2011 en effectuant immédiatement une vérification par écrit[7] ». Elle n’a toutefois pas coché la case [traduction] « Remboursement ou réduction des montants payables après la période normale de trois ans (particuliers et fiducies testamentaires) » dans le formulaire Demande d’allègement pour les contribuables.
+[15] Le 19 février 2015, l’appelante a présenté une demande de redressement d’une T1 au motif que l’ARC avait ajouté à tort à son revenu imposable personnel un revenu net d’entreprise de 247 143 $ provenant de l’entreprise de son époux[8].
+[16] Dans une lettre datée du 10 mars 2015, l’ARC a rejeté la première demande d’allègement de l’appelante[9].
+[17] Dans une lettre datée du 13 octobre 2015, l’ARC a rejeté la demande de redressement d’une T1 de l’appelante au motif qu’aucun redressement n’était justifié[10].
+[18] Dans une lettre datée du 19 décembre 2016, l’ARC a rendu une décision par laquelle elle a rejeté ce qu’elle considérait comme la demande de [traduction] « remboursement présentée [par l’appelante] après la période normale de nouvelle cotisation de trois ans prévue par les dispositions d’allègement pour les contribuables[11] ». Dans sa décision, l’ARC n’a pas précisé si elle répondait à une demande précise de l’appelante et n’a pas expliqué pourquoi elle examinait les demandes de l’appelante sous le régime de ce type distinct d’allègement pour les contribuables.
+[19] Dans sa décision, l’ARC a plutôt informé l’appelante que des documents supplémentaires étaient nécessaires et que, si elle fournissait à l’avenir un dossier complet à l’appui de sa demande, l’ARC rouvrirait son dossier et examinerait alors ces documents[12].
+[20] Le 18 juin 2018, l’appelante a présenté une deuxième demande d’allègement des intérêts et des pénalités (la « deuxième demande d’allègement »[13]). Dans les pièces jointes à la demande, l’appelante a également demandé que la cotisation soit annulée en entier.
+[21] Dans une décision datée du 18 juin 2019, l’ARC a partiellement accueilli la [traduction] « demande de remboursement présentée après la période normale de nouvelle cotisation de trois ans prévue par les dispositions d’allègement pour les contribuables », probablement en réponse à la deuxième demande d’allègement[14]. Dans sa décision, l’ARC a expressément indiqué que l’appelante n’aurait pas le droit de s’opposer à la nouvelle cotisation établie conformément aux dispositions d’allègement pour les contribuables :
+[traduction]
+Lorsque nous délivrons un avis de nouvelle cotisation après la période normale de nouvelle cotisation, le contribuable n’a pas le droit de contester une décision rendue en vertu des dispositions d’allègement pour les contribuables. Toutefois, si vous estimez que nous n’avons pas exercé notre pouvoir discrétionnaire de façon juste et raisonnable, vous pouvez demander par écrit que le directeur adjoint de la Division de la vérification du Bureau des services fiscaux de la Nouvelle-Écosse réexamine la situation.
+[22] Un avis de nouvelle cotisation a par la suite été délivré le 6 septembre 2019 afin de soustraire 70 865 $ du revenu net d’entreprise de l’appelante (la « troisième nouvelle cotisation »[15]). Suivant la décision du 18 juin 2019, l’avis indiquait que l’appelante n’avait pas le droit de s’opposer à la cotisation puisque celle-ci avait été établie conformément aux dispositions d’allègement pour les contribuables de la Loi.
+[23] L’appelante n’était pas satisfaite de sa dette fiscale restante et a demandé un réexamen, comme le proposait l’ARC dans sa décision du 18 juin 2019[16].
+[24] Dans une décision datée du 12 novembre 2019, l’ARC a autorisé un autre redressement pour tenir compte d’une dépense supplémentaire de 653 $[17]. Dans sa lettre, l’ARC a informé l’appelante qu’elle pouvait contester la décision devant la Cour fédérale :
+[traduction]
+Si vous estimez que le pouvoir discrétionnaire n’a pas été exercé correctement au cours de l’examen de la demande d’allègement, vous pouvez présenter une demande de contrôle judiciaire devant la Cour fédérale du Canada dans les trente (30) jours suivant la date de la présente lettre.
+[25] Ce redressement a été traité par avis de nouvelle cotisation délivré le 10 février 2020 (la « quatrième nouvelle cotisation »[18]). Malgré l’information fournie dans la lettre de décision, l’avis contenait des renseignements types sur le dépôt d’un avis d’opposition à la nouvelle cotisation.
+[26] L’appelante s’est fiée à ces renseignements et a déposé un avis d’opposition le 13 mars 2020[19].
+[27] Dans une lettre datée du 8 septembre 2020, la Direction générale des appels de l’ARC a informé l’appelante qu’un autre redressement serait effectué en réponse à son avis d’opposition[20]. Bien que l’ARC ait ainsi considéré avoir accueilli [traduction] « intégralement » l’opposition de l’appelante, une seule erreur a été corrigée à la suite du redressement, ce qui n’a entraîné qu’une réduction de 1 306 $ de son revenu net d’entreprise.
+[28] Dans un avis de nouvelle cotisation daté du 21 septembre 2020, l’ARC a rajusté le revenu imposable de l’appelante en conséquence (la « cinquième nouvelle cotisation »[21]). Cet avis contenait également les renseignements types sur le dépôt d’un avis d’opposition si l’appelante souhaitait contester la nouvelle cotisation. Comme elle n’approuvait toujours pas le résultat, l’appelante a déposé un autre avis d’opposition le 7 octobre 2020[22].
+[29] Dans une lettre datée du 9 décembre 2020, l’ARC a indiqué que l’opposition serait rejetée, mais a accordé à l’appelante trente jours pour présenter des documents ou des explications supplémentaires[23]. L’appelante a présenté d’autres observations le 28 janvier 2021, le 1er février 2021 et le 8 février 2021[24]. L’ARC a confirmé la nouvelle cotisation du 21 septembre 2020 par avis daté du 9 février 2021[25]. L’avis de confirmation contenait le paragraphe type indiquant que, si elle souhaitait contester la décision, l’appelante pouvait interjeter appel devant notre Cour dans les 90 jours.
+[30] L’appelante a déposé l’avis d’appel le 6 mai 2021, auquel elle a joint une copie de l’avis de confirmation du 9 février 2021.
+B. Instance devant notre Cour
+[31] Après que la Cour a communiqué avec elle au sujet du paiement du droit de dépôt requis, l’appelante a déposé un nouvel avis d’appel et une demande de renonciation au droit de dépôt le 14 septembre 2021. Le 20 septembre 2021, la Cour a rendu une ordonnance la dispensant du droit de dépôt. Le greffe a signifié l’avis d’appel à l’intimé le 23 septembre 2021[26].
+[32] Le 9 novembre 2021, l’intimé a envoyé à l’appelante une lettre sur le déroulement (dont une copie a été envoyée à la Cour) énonçant sa position selon laquelle l’appel ne pouvait être entendu et indiquant qu’il déposerait une requête à cet effet.
+[33] Le 17 novembre 2021, au lieu de déposer une réponse, l’intimé a présenté par écrit une requête en annulation de l’appel. En réponse, l’appelante a demandé que la requête soit entendue en personne[27].
+[34] Le 12 avril 2022, l’appelante a déposé sa propre requête visant à obtenir une réparation en raison de la signification tardive ou de l’absence de signification de la requête en annulation de l’intimé.
+[35] La Cour a tenté à plusieurs reprises d’accéder à la demande de l’appelante visant à ce que les requêtes soient entendues en personne, de sorte qu’elles ont été inscrites au rôle pour audition le 24 août 2023 à Halifax. L’appelante ne s’est pas présentée à l’audience en raison de l’état de santé de son époux. En conséquence, j’ai ordonné que les requêtes soient jugées sur dossier et j’ai accordé aux parties un délai pour déposer tout document écrit supplémentaire[28].
+III. Analyse
+[36] Deux requêtes doivent être tranchées. Comme je l’indique plus loin, la requête de l’appelante est rejetée et celle de l’intimé est accueillie[29].
+A. Requête de l’appelante
+[37] L’appelante soutient que l’intimé n’a pas respecté les délais prévus par les Règles. L’argument de l’appelante ne saurait être retenu pour plusieurs motifs.
+[38] Premièrement, l’intimé n’avait pas de délai pour signifier l’avis de requête, puisqu’il avait demandé que la requête soit jugée sur dossier, en vertu de l’article 69 des Règles[30]. Cette disposition ne précise aucun délai pour la signification de l’avis de requête. Elle prévoit plutôt un délai de vingt jours après la signification pour que l’appelante produise sa réponse.
+[39] Deuxièmement, l’article 67 n’exige pas la signification à personne de l’avis de requête. Par conséquent, l’intimé avait le droit de l’envoyer par messager à l’adresse de l’appelante. De même, l’intimé pouvait se fier à la confirmation de Purolator indiquant que l’avis de requête avait été laissé à la porte d’entrée de l’appelante le 19 novembre 2021.
+[40] Troisièmement, l’intimé a signifié une deuxième fois l’avis de requête à l’appelante, après que celle-ci a déclaré ne pas l’avoir reçu par messager. L’intimé a retenu les services d’un huissier, qui en a directement fourni une copie à l’époux de l’appelante le 18 janvier 2022[31]. Par conséquent, l’avis de requête a été signifié bien avant le premier jour d’audience, soit le 9 février 2023, comme l’exige le paragraphe 67(6) des Règles[32].
+[41] Enfin, comme l’appelante conteste également la date limite du 22 novembre 2021 pour le dépôt par l’intimé d’une réponse à l’avis d’appel, cette date limite est actuellement en litige devant la Cour[33]. Dans son avis de requête, l’intimé a demandé une prolongation du délai pour déposer une réponse, dans le cas où sa requête en annulation de l’appel était rejetée. L’article 44 des Règles permet à l’intimé de demander à la Cour une prolongation avant ou après l’expiration du délai pour déposer une réponse. Comme je l’indique plus haut, cette prolongation de délai n’est pas nécessaire, car l’appel ne peut être entendu.
+B. Requête en annulation de l’intimé
+[42] L’intimé soutient que l’appel devrait être annulé en application de l’alinéa 53(3)a) des Règles au motif que la Cour n’a pas compétence pour entendre l’appel. Bien que je remette en question certains aspects de l’exposé des faits pertinents de l’intimé, je reconnais qu’il a correctement établi le droit applicable. En l’espèce, en raison de l’interaction entre diverses dispositions de la Loi, l’appelante ne dispose pas d’un droit d’appel[34].
+1. Aucun droit d’appel des nouvelles cotisations établies après la période normale de nouvelle cotisation
+[43] Suivant la définition de l’expression « période normale de nouvelle cotisation » prévue à l’alinéa 152(3.1)b) de la Loi, le ministre dispose d’un délai de trois ans suivant la date du premier avis de cotisation pour établir une nouvelle cotisation à l’égard d’un contribuable. Comme le délai est prévu par la Loi, l’année d’imposition en cause est parfois qualifiée de [traduction] « prescrite ».
+[44] À l’expiration de ce délai, le ministre ne peut établir de nouvelle cotisation à l’égard d’un contribuable que dans les circonstances limitées prévues par des dispositions bien précises de la Loi[35]. L’alinéa 152(4.2)a) permet au contribuable de demander au ministre d’établir une nouvelle cotisation après la fin de la période normale de nouvelle cotisation, mais n’oblige pas ce dernier à y faire droit. Il s’agit d’une décision discrétionnaire pouvant être prise en vertu de l’une des dispositions d’allègement pour les contribuables de la Loi.
+[45] Cette distinction est importante parce que les droits d’appel du contribuable changent lorsque le ministre exerce son pouvoir discrétionnaire à cet égard. Si le ministre accueille la demande du contribuable, le paragraphe 165(1.2) de la Loi ne permet pas au contribuable de s’opposer à la nouvelle cotisation ultérieurement établie.
+[46] En l’absence d’un droit d’opposition, il n’existe pas non plus de droit d’appel devant la Cour. En vertu du paragraphe 169(1) de la Loi, le contribuable ne peut interjeter appel auprès de la Cour canadienne de l’impôt que s’il a signifié l’avis d’opposition prévu à l’article 165[36].
+[47] Pour l’année d’imposition 2011, la « période normale de nouvelle cotisation » de l’appelante prenait fin le 5 mars 2015, soit trois ans après la date où l’avis de cotisation a été délivré, le 5 mars 2012[37].
+[48] À l’expiration de ce délai, le ministre a considéré les demandes de redressement de l’appelante comme des demandes d’allègement présentées au titre de l’alinéa 152(4.2)a). L’ARC a traité de ce changement d’orientation pour la première fois dans sa lettre du 19 décembre 2016[38] :
+[traduction]
+Nous répondons à votre demande de remboursement visant les années susmentionnées et présentée au titre des dispositions d’allègement pour les contribuables après la période normale de nouvelle cotisation de trois ans.
+Les dispositions d’allègement pour les contribuables confèrent à l’Agence du revenu du Canada (ARC) le pouvoir discrétionnaire de rembourser ou de réduire le montant dû après la période normale de trois ans si la demande a été faite à temps et que la cotisation à établir est conforme à la loi et n’a pas déjà été accordée.
+[49] Malheureusement, l’ARC n’a pas expressément informé l’appelante que la période normale de nouvelle cotisation était expirée et que ses demandes de redressement seraient considérées comme des demandes d’allègement présentées au titre de l’alinéa 152(4.2)a) de la Loi.
+[50] Comme je l’indique plus haut dans l’historique procédural, l’appelante n’a pas explicitement présenté de telles demandes.
+[51] Toutefois, je dois reconnaître que le changement d’orientation a permis au ministre de réexaminer les demandes de redressement de l’appelante et, en fin de compte, d’établir de nouvelles cotisations, ce qui aurait sinon été interdit par la Loi.
+[52] Les nouvelles cotisations suivantes ont donc été établies par suite de l’exercice du pouvoir discrétionnaire prévu à l’alinéa 152(4.2)a), après l’expiration de la période normale de nouvelle cotisation, soit le 5 mars 2015 :
+troisième nouvelle cotisation, établie le 6 septembre 2019[39];
+quatrième nouvelle cotisation, établie le 10 février 2020[40];
+cinquième nouvelle cotisation, établie le 21 septembre 2020[41].
+[53] La période normale de nouvelle cotisation de trois ans n’a pas recommencé à zéro à l’établissement de chaque nouvelle cotisation. La date limite a été fixée à partir de la date du premier avis de cotisation.
+[54] D’après les faits exposés et le droit applicable, c’est par suite de plusieurs décisions discrétionnaires que le ministre a, en vertu du paragraphe 152(4.2), établi ces trois nouvelles cotisations après la période normale de nouvelle cotisation. Conclure autrement aurait pour effet d’invalider ces nouvelles cotisations et de ramener la dette fiscale de l’appelante au montant de la deuxième nouvelle cotisation, établie le 26 novembre 2012.
+[55] Par conséquent, la Cour n’a pas compétence pour entendre l’appel de l’appelante.
+2. Les erreurs de l’ARC ne changent pas le droit applicable
+[56] Les dispositions de la Loi mentionnées plus haut s’appliquent même si l’ARC a informé à tort l’appelante qu’elle disposait d’un droit d’opposition et d’un droit d’appel. La loi ne change pas même si les erreurs de l’ARC ont mené au dépôt de l’appel[42].
+[57] Dans le troisième avis de nouvelle cotisation et la décision connexe, l’ARC a informé l’appelante qu’elle n’avait pas de droit d’opposition, car la nouvelle cotisation avait été établie conformément aux dispositions d’allègement pour les contribuables :
+[traduction]
+Comme nous l’avons expliqué dans notre récente lettre, nous avons modifié votre déclaration de revenu. Auparavant, vous deviez demander une modification dans les trois ans suivant la date à laquelle nous vous avions posté l’avis de cotisation fondé sur cette déclaration. Mais maintenant, les dispositions d’allègement pour les contribuables de la Loi de l’impôt sur le revenu nous permettent d’apporter des modifications après la période normale de trois ans. Comme nous avons apporté la modification en vertu de ces dispositions, vous ne pouvez pas déposer d’avis d’opposition à cette nouvelle cotisation[43].
+[58] Malheureusement, le quatrième avis de nouvelle cotisation ne contenait pas de déclaration semblable et contenait à tort l’information standard sur le dépôt d’un avis d’opposition. Il s’agissait de la troisième option sous la rubrique [traduction] « Si vous n’approuvez pas la présente nouvelle cotisation » :
+[traduction]
+3. Vous pouvez vous opposer à la présente nouvelle cotisation
+Si vous souhaitez contester le présent avis, vous pouvez déposer un avis d’opposition. Pour ce faire, rendez-vous sur le site canada.ca/guide-mon-dossier-arc, ou envoyez soit le formulaire T400A Avis d’opposition – Loi de l’impôt sur le revenu, soit une lettre signée au chef des appels. Vous trouverez l’adresse à l’annexe B de la publication P148, Régler votre différend : Vos droits d’opposition selon la Loi de l’impôt sur le revenu[44].
+[59] Je ferai référence à cette erreur comme étant la « première erreur de l’ARC ».
+[60] L’ARC a commis une autre erreur en acceptant l’avis d’opposition déposé par l’appelante le 13 mars 2020[45]. Il s’agissait de la deuxième erreur de l’ARC.
+[61] Dans le cinquième avis de nouvelle cotisation, délivré le 21 septembre 2020 et visant à apporter un redressement mineur, l’ARC a commis sa troisième erreur, car cet avis contenait encore une fois l’information standard sur le dépôt d’un avis d’opposition[46].
+[62] L’ARC a commis sa quatrième erreur en acceptant l’avis d’opposition déposé par l’appelante le 7 octobre 2020 et en l’invitant à présenter des observations à l’appui d’autres redressements[47].
+[63] L’ARC a commis sa cinquième erreur en délivrant l’avis de confirmation, daté du 9 février 2021, avec des instructions sur la possibilité d’interjeter appel devant la Cour canadienne de l’impôt dans les 90 jours, si l’appelante voulait contester la décision[48] :
+[traduction]
+En vertu de l’article 169 de la Loi de l’impôt sur le revenu, si vous souhaitez contester cette décision, vous pouvez interjeter appel devant la Cour canadienne de l’impôt dans les 90 jours suivant la date du présent avis de confirmation. Pour plus de renseignements sur la façon de déposer un appel, consultez la publication RC4443-2. Vous pouvez également obtenir des renseignements à jour en visitant le site Web de la Cour canadienne de l’impôt à l’adresse tcc-cci.gc.ca.
+[64] Cette information a été répétée dans une lettre datée du 11 mars 2021 (sixième erreur de l’ARC[49]). Sans surprise, l’appelante a interjeté le présent appel le 6 mai 2021 relativement à la cinquième nouvelle cotisation.
+[65] L’intimé reconnaît que l’ARC a commis une erreur en tenant compte de l’avis d’opposition et en délivrant l’avis de confirmation[50]. Bien que cette reconnaissance minimise le nombre d’erreurs et d’échecs commis dans sa communication avec l’appelante, le résultat de la présente requête est le même.
+[66] Comme l’a récemment fait remarquer notre Cour dans la décision Dutka, même si l’ARC fournit des renseignements erronés, je suis tenue d’appliquer les dispositions de la Loi[51]. Ce principe a été appliqué dans plusieurs décisions où il a finalement été conclu que le contribuable ne pouvait pas s’opposer à une nouvelle cotisation ou en interjeter appel.
+[67] Par conséquent, l’appel ne peut être entendu.
+[68] Comme l’a indiqué l’ARC dans sa décision du 12 novembre 2019, le recours approprié de l’appelante est de contester les décisions relatives à l’allègement pour les contribuables, plutôt que les nouvelles cotisations établies par la suite. Pareille contestation se fait par voie de demande de contrôle judiciaire devant la Cour fédérale plutôt que par voie d’appel devant notre Cour. Notre Cour n’a pas compétence pour entendre les contestations visant l’exercice par le ministre du pouvoir discrétionnaire que lui confèrent les dispositions d’allègement pour les contribuables de la Loi[52].
+IV. Conclusion
+[69] L’appelante a suivi les indications fournies par l’ARC dans ses décisions et avis. Comme l’ARC a redéfini ses demandes et a fourni des renseignements flous et incohérents, l’appelante ne comprenait pas qu’elle contestait les décisions du ministre devant la mauvaise cour.
+[70] Bien que l’intimé ait, à juste titre, présenté une requête en annulation de l’appel avant que d’autres mesures inutiles ne soient prises dans l’instance, l’avocat aurait pu faire plus attention pour fournir une explication claire à l’appelante, d’autant plus que, contrairement aux renseignements les plus récents fournis par l’ARC à l’appelante, cette dernière n’a pas de droit d’appel devant notre Cour.
+[71] La requête de l’appelante est rejetée et la requête de l’intimé est accueillie, toutes deux sans dépens. L’appel interjeté par l’appelante à l’encontre de l’avis de nouvelle cotisation daté du 21 septembre 2020 pour l’année d’imposition 2011 est annulé.
+Signé à Ottawa, Canada, ce 10ᵉ jour de mai 2024.
+« Joanna Hill »
+La juge Hill
+Traduction certifiée conforme
+ce 18e jour de décembre 2024.
+Sophie Reid-Triantafyllos, jurilinguiste principale Annexe A
+Règles de la Cour canadienne de l’impôt (procédure générale), DORS/90-688a
+Signification de documents
+35 (1) La signification à personne n’est requise pour aucun document, sauf dispositions contraires des présentes règles ou directive contraire.
+(2) Tout document dont la signification à personne n’est pas requise peut être signifié à l’adresse aux fins de signification de la partie intéressée.
+Signification à l’adresse aux fins de signification
+38 (1) L’adresse aux fins de signification d’une partie est,
+[…]
+c) s’il s’agit de toute autre partie qui n’est pas représentée par avocat, son adresse telle qu’elle figure dans le dernier document qu’elle a déposé et où figure son adresse, laquelle doit se trouver au Canada;
+[…]
+(2) La signification d’un document à l’adresse aux fins de signification s’effectue :
+a) soit par la poste;
+b) soit par remise du document à cette adresse.
+Délai pour produire la réponse à l’avis d’appel
+44 (1) La réponse à l’avis d’appel doit être déposée au greffe dans les 60 jours suivant la signification de l’avis d’appel, à moins que :
+[…]
+b) la Cour ne permette, sur demande présentée avant ou après l’expiration de ce délai, le dépôt de la réponse dans un délai déterminé suivant l’expiration de celui-ci.
+[…]
+(3) La réponse doit être signifiée :
+a) soit dans les cinq jours suivant l’expiration du délai de 60 jours prescrit au paragraphe (1);
+b) soit dans le délai imparti aux termes d’un consentement accordé par l’appelant en vertu du paragraphe (1);
+c) soit dans le délai imparti aux termes d’une prolongation de délai accordée par la Cour en vertu du paragraphe (1).
+Radiation d’un acte de procédure ou d’un autre document
+53 (3) À la demande de l’intimé, la Cour peut casser un appel si :
+a) elle n’a pas compétence sur l’objet de l’appel;
+b) une condition préalable pour interjeter appel n’a pas été satisfaite;
+c) l’appelant n’a pas la capacité juridique d’introduire ou de continuer l’instance.
+Avis de requête
+65 Toutes les requêtes interlocutoires et autres demandes doivent être présentées au moyen d’un avis de requête. (Formule 65)
+Signification de l’avis de requête
+67 (1) L’avis de requête et les déclarations sous serment ou autres éléments de preuve documentaire qui seront utilisés lors de l’audition de la requête sont signifiés aux personnes ou aux parties sur lesquelles la directive demandée peut avoir une incidence.
+[…]
+(6) L’avis de requête présenté sur préavis est déposé et signifié, avec les déclarations sous serment ou autres éléments de preuve documentaire qui seront utilisés lors de l’audition de la requête, au moins sept jours avant la date à laquelle la requête doit être entendue.
+(7) La preuve de la signification de l’avis de requête est déposée à la Cour au moins trois jours avant l’audition de la requête.
+Observations écrites
+69 (1) La partie qui dépose un avis de requête peut, au moment du dépôt ou par la suite, présenter une demande écrite pour que la requête soit tranchée sur la base des observations écrites et sans comparution des parties.
+(2) Une copie de la demande et des observations écrites doit être signifiée à toutes les parties visées par l’avis de requête.
+(3) Une partie à qui la requête a été signifiée dispose de vingt jours pour
+a) produire et signifier des observations écrites en opposition à la requête;
+b) déposer et signifier une demande écrite d’audience.
+(4) Lorsque toutes les parties à qui la requête a été signifiée ont donné leur réponse ou que le délai est expiré, la Cour peut
+a) accorder le jugement sans audience;
+b) ordonner la tenue d’une audience;
+c) ordonner le dépôt d’observations écrites.
+Annexe B
+Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), dans sa version modifiée.
+Définition de période normale de nouvelle cotisation
+152(3.1) Pour l’application des paragraphes (4), (4.01), (4.2), (4.3), (5) et (9), la période normale de nouvelle cotisation applicable à un contribuable pour une année d’imposition s’étend sur les périodes suivantes :
+a) quatre ans suivant soit la date d’envoi d’un avis de première cotisation en vertu de la présente partie le concernant pour l’année, soit, si elle est antérieure, la date d’envoi d’une première notification portant qu’aucun impôt n’est payable par lui pour l’année, si, à la fin de l’année, le contribuable est une fiducie de fonds commun de placement ou une société autre qu’une société privée sous contrôle canadien;
+b) trois ans suivant celle de ces dates qui est antérieure à l’autre, dans les autres cas.
+Cotisation et nouvelle cotisation
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+[…]
+Nouvelle cotisation et nouvelle détermination
+152(4.2) Malgré les paragraphes (4), (4.1) et (5), pour déterminer, à un moment donné après la fin de la période normale de nouvelle cotisation applicable à un contribuable — particulier (sauf une fiducie) ou succession assujettie à l’imposition à taux progressifs — pour une année d’imposition, le remboursement auquel le contribuable a droit à ce moment pour l’année ou la réduction d’un montant payable par le contribuable pour l’année en vertu de la présente partie, le ministre peut, si le contribuable demande pareille détermination au plus tard le jour qui suit de dix années civiles la fin de cette année d’imposition, à la fois :
+a) établir de nouvelles cotisations concernant l’impôt, les intérêts ou les pénalités payables par le contribuable pour l’année en vertu de la présente partie;
+[…]
+Restriction
+165(1.2) Malgré les paragraphes (1) et (1.1), aucune opposition ne peut être faite par un contribuable à une cotisation établie en application des paragraphes 118.1(11), 152(4.2), 169(3) ou 220(3.1). Il est entendu que cette interdiction vaut pour les oppositions relatives à une question pour laquelle le contribuable a renoncé par écrit à son droit d’opposition.
+Appel
+169 (1) Lorsqu’un contribuable a signifié un avis d’opposition à une cotisation, prévu à l’article 165, il peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier la cotisation :
+a) après que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation;
+b) après l’expiration des 90 jours qui suivent la signification de l’avis d’opposition sans que le ministre ait notifié au contribuable le fait qu’il a annulé ou ratifié la cotisation ou procédé à une nouvelle cotisation;
+toutefois, nul appel prévu au présent article ne peut être interjeté après l’expiration des 90 jours qui suivent la date où avis a été envoyé au contribuable, en vertu de l’article 165, portant que le ministre a ratifié la cotisation ou procédé à une nouvelle cotisation.
+RÉFÉRENCE :
+2024 CCI 64
+NO DU DOSSIER DE LA COUR :
+2021-2000(IT)G
+INTITULÉ :
+Elizabeth Cole c. Sa Majesté Le Roi
+MOTIFS DU JUGEMENT :
+L’honorable juge Joanna Hill
+DATE DU JUGEMENT :
+Le 10 mai 2024
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimé :
+Me Terence Katerynych
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Seuls les faits se rapportant aux requêtes sont mentionnés dans le résumé.
+[2] Dans les présents motifs, je fais référence aux documents joints comme pièces à l’affidavit d’Aicha Barry, souscrit le 6 septembre 2023 (l’« affidavit de Mme Barry »), puisqu’ils sont les mêmes que ceux sur lesquels l’appelante s’est appuyée dans les diverses observations qu’elle a présentées depuis que l’intimé a déposé sa requête en annulation, mais dans un ordre chronologique et plus clair.
+[3] Affidavit de Mme Barry, pièce A : Copie des renseignements tirés de la déclaration de revenu pour l’année d’imposition 2011, qui exposent la cotisation initiale et les nouvelles cotisations subséquentes. L’appelante s’est opposée à la cotisation initiale, et le ministre a confirmé la cotisation le 26 octobre 2012 (pièce E). Il n’y a aucun détail concernant l’avis d’opposition et l’avis de confirmation dans les documents ou les observations présentés par les parties dans le cadre de la requête.
+[4] Affidavit de Mme Barry, pièce A.
+[5] Affidavit de Mme Barry, pièce A.
+[6] Affidavit de Mme Barry, pièce B.
+[7] Affidavit de Mme Barry, pièce B.
+[8] Affidavit de Mme Barry, pièce C.
+[9] Affidavit de Mme Barry, pièce D.
+[10] Affidavit de Mme Barry, pièce E.
+[11] Affidavit de Mme Barry, pièce F.
+[12] Des copies de la correspondance de l’appelante avec l’ARC à ce sujet datée du 6 juillet 2016 se trouvent parmi les documents joints à la pièce G, soit la demande de prolongation du délai pour signifier un avis d’opposition présentée par l’appelante devant la Cour canadienne de l’impôt en 2017.
+[13] Affidavit de Mme Barry, pièce I : Demande d’allègement pour les contribuables – Annuler des pénalités et des intérêts ou y renoncer.
+[14] Affidavit de Mme Barry, pièce J.
+[15] Affidavit de Mme Barry, pièce K.
+[16] Affidavit de Mme Barry, pièce L. Cette lettre de décision de l’ARC fait référence à la [traduction] « demande de deuxième examen visant la demande d’allègement pour les contribuables » de l’appelante. Contrairement à ce que l’intimé affirme au paragraphe 4 de ses observations écrites modifiées, l’appelante n’a pas présenté d’avis d’opposition à l’avis de nouvelle cotisation du 6 septembre 2019. Elle a plutôt demandé un deuxième examen administratif, comme l’indiquait la lettre de décision de l’ARC datée du 18 juin 2019. La décision de l’ARC en réponse à cette demande de deuxième examen a donné lieu à la nouvelle cotisation du 21 septembre 2020.
+[17] Affidavit de Mme Barry, pièce L.
+[18] Affidavit de Mme Barry, pièce M.
+[19] Affidavit de Mme Barry, pièce N.
+[20] Affidavit de Mme Barry, pièce O.
+[21] Affidavit de Mme Barry, pièce P.
+[22] Affidavit de Mme Barry, pièce Q.
+[23] Affidavit de Mme Barry, pièce R.
+[24] Voir le contenu de la lettre de l’appelante datée du 8 février 2021, affidavit de Mme Barry, pièce S. Contrairement à ce qui est indiqué au paragraphe 22 de l’affidavit de Mme Barry, ce document n’est pas un avis d’opposition. L’appelante répondait plutôt directement à l’auteur de la lettre de l’ARC datée du 9 décembre 2020 en mentionnant le même numéro de dossier.
+[25] Affidavit de Mme Barry, pièce T. Dans une lettre datée du 11 mars 2021 (affidavit de Mme Barry, pièce U), l’ARC a informé l’appelante que sa lettre du 8 février 2021 ne pouvait pas être considérée comme un avis d’opposition valide, puisque la Direction générale des appels de l’ARC avait déjà examiné et confirmé l’avis d’opposition du 7 octobre 2020. On ne sait trop pourquoi l’ARC a considéré la lettre du 8 février 2021 comme un avis d’opposition distinct compte tenu de l’ensemble de la chaîne de communication et du contenu de la lettre.
+[26] Certificat de signification de la Cour canadienne de l’impôt, dossier de la Cour.
+[27] Lettre de l’appelante datée du 26 janvier 2022, dossier de la Cour.
+[28] Ordonnance datée du 28 août 2023.
+[29] Puisque la question de fond concernant le bien-fondé de la cotisation n’était pas véritablement en litige dans les présentes requêtes, je n’ai pas tenu compte des arguments et de la preuve présentés par l’appelante à l’appui de sa demande de réduction supplémentaire de son revenu imposable pour 2011.
+[30] Avis de requête de l’intimé, daté du 17 novembre 2021. Des extraits des dispositions pertinentes des Règles de la Cour canadienne de l’impôt (procédure générale) sont reproduits à l’annexe A des présents motifs.
+[31] Affidavit de signification, souscrit le 19 janvier 2022, dossier de la Cour.
+[32] Après que la Cour accepte d’entendre les requêtes en personne, le paragraphe 67(6) des Règles impose un délai de signification de sept jours avant la date prévue de l’audience. Toutefois, la Cour a également fixé des délais précis dans une ordonnance de gestion de l’instance datée du 26 juillet 2022.
+[33] Conformément au paragraphe 44(1) des Règles.
+[34] Des extraits des dispositions pertinentes de la Loi sont reproduits à l’annexe B des présents motifs.
+[35] Paragraphe 152(4.1).
+[36] Reyes c. The King, 2023 TCC 31, par. 20 à 22; Groulx c. Canada, 2009 CAF 10, par. 2 et 5.
+[37] L’intimé a omis de souligner ce point de départ important et a plutôt simplement déclaré que l’année d’imposition 2011 était prescrite (observations écrites modifiées, par. 7).
+[38] Affidavit de Mme Barry, pièce F.
+[39] Affidavit de Mme Barry, pièce K.
+[40] Affidavit de Mme Barry, pièce M.
+[41] Affidavit de Mme Barry, pièce P.
+[42] Voir les diverses décisions invoquées par l’intimé aux paragraphes 14 à 16 de ses observations écrites modifiées.
+[43] Avis de nouvelle cotisation daté du 6 septembre 2019, affidavit de Mme Barry, pièce K. Dans la lettre de décision du 18 juin 2019, affidavit de Mme Barry, pièce J, il est indiqué ce qui suit : [traduction] « Lorsque nous établissons un avis de nouvelle cotisation après la période normale de nouvelle cotisation, le contribuable n’a pas le droit de contester une décision rendue en vertu des dispositions d’allègement pour les contribuables. »
+[44] Affidavit de Mme Barry, pièce M; en gras dans l’original.
+[45] Lettre datée du 8 septembre 2020, affidavit de Mme Barry, pièce O.
+[46] Affidavit de Mme Barry, pièce P.
+[47] Lettre datée du 9 décembre 2020, affidavit de Mme Barry, pièce R.
+[48] Affidavit de Mme Barry, pièce T.
+[49] Affidavit de Mme Barry, pièce U.
+[50] Observations écrites modifiées de l’intimé, par. 13.
+[51] Dutka c. La Reine, 2020 CCI 21, par. 30. Voir aussi les paragraphes 27 à 32.
+[52] Canada (Revenu national) c. Sifto Canada Corp., 2014 CAF 140, par. 23

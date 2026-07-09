@@ -1,0 +1,277 @@
+Title: Burchat v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30375/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-285-30375-burchat-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-06-02
+
+# Burchat v. The Queen
+
+- Citation: 2011 TCC 285
+- Decision date: 2011-06-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7893, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burchat v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-02
+Neutral citation
+2011 TCC 285
+File numbers
+2010-3546(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3546(IT)I
+BETWEEN:
+ANNE BURCHAT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Nelson Burchat (2010-3547(IT)I)
+on May 18, 2011 at Ottawa, Canada
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Nelson Burchat
+Counsel for the Respondent:
+Natasha Wallace
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s income for 2008 is reduced by the amount of $14,227 as set out in the attached Reasons for Judgment.
+The Respondent shall pay $300 in costs to the Appellant.
+Signed at Halifax, Nova Scotia, this 2nd day of June 2011.
+“Wyman W. Webb”
+Webb, J.
+Docket: 2010-3547(IT)I
+BETWEEN:
+NELSON BURCHAT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeal of
+Anne Burchat (2010-3546(IT)I)
+on May 18, 2011 at Ottawa, Canada
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Natasha Wallace
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s income for 2008 is reduced by the amount of $7,002 as set out in the attached Reasons for Judgment.
+The Respondent shall pay $300 in costs to the Appellant.
+Signed at Halifax, Nova Scotia, this 2nd day of June 2011.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2011TCC285
+Date: 20110602
+Docket: 2010-3546(IT)I
+BETWEEN:
+ANNE BURCHAT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2010-3547(IT)I
+AND BETWEEN:
+NELSON BURCHAT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] The Appellants, who are married to each other, acquired 300 units in Fording Canadian Coal Trust in 2006. The Appellants had two separate accounts at TD Waterhouse. One account was in the name of both Appellants and the other account was in Anne Burchat’s name alone. The units were acquired as follows:
+Account in the names of Nelson Burchat and Anne Burchat
+Date
+Number of Units
+Purchase Price (including commission paid)
+May 8, 2006
+100
+$4,096
+August 9, 2006
+100
+$3,214
+Total:
+200
+$7,310
+Account in the name of Anne Burchat
+Date
+Number of Units
+Purchase Price (including commission paid)
+May 8, 2006
+100
+$4,106
+Total:
+100
+$4,106
+[2] In 2008 Teck Cominco Limited acquired all the assets and assumed all of the liabilities of Fording Canadian Coal Trust. As a result certain amounts were distributed to the unitholders of Fording Canadian Coal Trust. The Appellants received T3 slips indicating that the following amounts were to be included in their income:
+Nelson Burchat or Anne Burchat
+Anne Burchat
+Total
+Amount:
+$20,659
+$10,330
+$30,989
+[3] In filing their income tax returns for 2008, the Appellants reported the following amounts as “other income” on line 130:
+Nelson Burchat
+Anne Burchat
+Total
+Amount:
+$11,165
+$21,430
+$32,595
+[4] There were also some other smaller amounts that were to be included as “other income” for 2008. It is obvious, and it was not disputed by the Respondent, that all of the amounts that were indicated as income on the T3 slips were reported by the Appellants. Anne Burchat reported all of the amount from the T3 slip for the investment in Fording Canadian Coal Trust held in the account in her name alone and one-half of the amount for the investments held in the other account. Nelson Burchat reported one-half of the amount from the T3 slip for the investment in Fording Canadian Coal Trust held in the account that was in both their names.
+[5] The Appellants (who are 81 and 82 years old) do not understand why they are not entitled to treat the amount received in relation to the transactions between Fording Canadian Coal Trust and Teck Cominco Limited as proceeds of disposition of a capital asset and therefore report a capital gain in the amount equal to the difference between the amount received and the amount they paid for the units. One-half of the capital gain would then be included in income as a taxable capital gain. They filed notices of objection that raised this issue.
+[6] In the Notification of Confirmation by the Minister that the Appellants received in response to their Notices of Objection, the only explanation that was provided in relation to why the amounts were to be included in income was the following:
+[y]ou have not shown that $10,329.56 is a capital gain according to paragraphs 38(a), 39 (1)(a), and 40(1)(a). It has been included in your income according to section 3.
+[7] Stating that an amount has been included in income under section 3 of the Income Tax Act (the “Act”) is of no assistance in explaining why an amount has been included in income as this is the general section that determines that income is to be determined in accordance with the Act.
+[8] It seems to me that the Appellants are simply seeking an explanation of why an amount received in relation to the termination of an investment that the Appellants had purchased on the stock exchange should be reported as income and not as a capital gain.
+[9] In order to answer this question it seems to me that it is very important to understand the nature of the investment that the Appellants had made in the units of Fording Canadian Coal Trust. These were units of a trust, not shares of a corporation. The tax treatment of a trust is different from that of a corporation. The assets of the trust are held for the benefit of the beneficiaries, which, in this case, would be the holders of the units of the trust. A trust is taxed as an individual (subsection 104(2) of the Act), which means that a trust will file its own tax return and pay taxes on its income. If any part of the income earned by a trust is payable in the year to a beneficiary, the trust is entitled to deduct the amount of such income in determining its income for the purposes of the Act (subsection 104(6) of the Act) and that beneficiary will include the amount of such income in his, her or its income for the purposes of the Act (subsection 104(13) of the Act).
+[10] There was very little information that was presented at the hearing in relation to the transactions between Fording Canadian Coal Trust and Teck Cominco Limited or how the amount included on the T3 slips that were sent to the Appellants was determined. However, it does appear, based on the limited information that was submitted during the hearing, that the principal assets of Fording Canadian Coal Trust may have been Canadian resource properties as defined in subsection 66(15) of the Act. In particular, the definition of Canadian resource property provides that:
+“Canadian resource property” of a taxpayer means any property of the taxpayer that is
+…
+(b) any right, licence or privilege to
+…
+(ii) prospect, explore, drill or mine for minerals in a mineral resource in Canada,
+…
+(f) any real property in Canada the principal value of which depends on its mineral resource content (but not including any depreciable property), or
+[11] Subsection 248(1) of the Act provides that “mineral” includes coal and “mineral resource” means, among other things, a coal deposit. Paragraph 39(1)(a) of the Act provides that a person will not have a capital gain as a result of a sale of a Canadian resource property as such a property is not included, pursuant to subparagraph 39(1)(a)(ii) of the Act, as a property that, if sold for a gain, would result in such gain being a capital gain. A disposition of a Canadian resource property, if sold for sufficient proceeds, will result in an income gain, not a capital gain. Any amount received on the sale of a Canadian resource property that is described in paragraphs (b) or (f) of the definition of Canadian resource property referred to above, will be deducted in determining the cumulative Canadian development expense of the holder of that property as it will be included in F in the formula as set out in the definition of cumulative Canadian development expense in subsection 66.2(5) of the Act. If the amounts deducted on a cumulative basis in determining the cumulative Canadian development expense (including any amount for F) exceed the amounts added on a cumulative basis in determining the cumulative Canadian development expense then the resulting surplus is income as provided in paragraph 59(3.2)(c) and subsection 66.2(1) of the Act.
+[12] It would appear that since Teck Cominco Limited acquired the assets of Fording Canadian Coal Trust that Fording Canadian Coal Trust realized significant gains on the disposition of its Canadian resource properties and hence significant income gains. Any part of the income of Fording Canadian Coal Trust, as a trust, that was payable to its beneficiaries would have been deductible by Fording Canadian Coal Trust in determining its income for the purposes of the Act and included by the beneficiaries in determining their income for the purposes of the Act. As holders of trust units in Fording Canadian Coal Trust the Appellants were beneficiaries of this trust and therefore they would have been required to report their share of the income realized by Fording Canadian Coal Trust on the disposition of its Canadian resource properties. The T3 slips that the Appellants had received simply reflected the amount of the income realized by Fording Canadian Coal Trust that was payable to them.
+[13] The Replies that were filed in these Appeals are identical, except with respect to such changes as were required to reflect the amounts reported by each Appellant. In paragraph 9 of the Reply in relation to the Appeal of Nelson Burchat, it is stated that:
+9. In determining the appellant's tax liability for the 2008 taxation year, the Minister made the following assumptions of fact:
+(a) the appellant and his wife owned 300 shares of Fording Canadian Coal Trust (“Fording Trust”): 200 of those units were jointly held by the appellant and his wife at 50-50 and the other 100 units were solely held by the wife;
+(b) the appellant and his wife received other income in the amount of $30,988.69 and return of capital in the amount of $273.71 from Fording Trust in the 2008 taxation year;
+(c) the other income in the amount of $30,988.69 and return of capital in the amount of $273.71 distributed by Fording Trust were a result of an arrangement that took effect on October 30, 2008 involving the acquisition of the assets and liabilities of Fording Trust by Teck Cominco Limited;
+(d) of total other income distributed, an amount of $20,659.13 pertained to the 200 Fording Trust units and an another of $10,329.56 pertained to the 100 Fording Trust units;
+(e) a T3 slip and Summary of Trust Income relating to other income of $30,988.69 and return of capital $273.71 were issued by TD Waterhouse, the appellant's agent for investment;
+(f) the T3 slip and Summary of Trust Income stated the amount of $30,988.69 as “other income” in box 26;
+(g) Fording Trust directed all financial institutions, including TD Waterhouse, that the consideration paid to its unit holders be taxed as mostly “other income” in box 26 with a small portion as “return of capital” in box 42;
+(h) the appellant reported 50% of the $20,659.13 with respect to the 200 units of Fording Trust as “other income” on line 130 of his tax return for the 2008 taxation year; and
+(i) the amount of $30,988.69 distributed to the appellant and his wife is “other income” as prescribed by Fording Trust.
+[14] Under the heading “STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT” in the Reply it is stated that:
+11. He relies on sections 3, 9, 108, 118 and 126 of the Act, R.S.C. 1985, c.1, (5th Suppl.) as amended (the “Act”).
+12. He submits that the Minister properly assessed the appellant’s income in respect of his 2008 taxation year in accordance with sections 3, 118, and 126 of the Act.
+13. He further submits that the amount of $30,988.69 distributed to the appellant and [sic] her husband represents “other income”, and the Minister has correctly assessed the appellant's income from [sic] the Fording Trust units in such a way that the income was reported by Fording Trust in the 2008 taxation year.
+[15] The statutory references in the Replies are not relevant and are misleading in this particular case. As noted above it appears that the amount that the Appellants should have reported and did report as income were related to the income amounts payable to them as beneficiaries of the Fording Canadian Coal Trust. However, none of these sections listed in the Replies would require the Appellants to include in their income, any amounts of income of a trust that were payable to them as beneficiaries of that trust. Paragraph 12(1)(m) and subsection 104(13) of the Act would require such amounts to be included in income but there is no reference to either one of these provisions in the Replies. There is no reference in the Replies to the requirement that beneficiaries of a trust must include in their income, any amount of income payable by that trust to such beneficiaries. The basis for the assessment is stated to be sections 3, 118 and 126 of the Act. To add further confusion, the first reference to the investment in the paragraph that lists the assumptions of fact, describes the investment as “shares of Fording Canadian Coal Trust” and in paragraph 9(g) there is a reference to the “consideration paid” which would suggest that the amount paid was proceeds of disposition.
+[16] Section 3 is a general section of the Act that does not provide any assistance to any person in determining why an amount is required to be included in income. Section 118 of the Act provides personal tax credits that are available to individuals. There would be nothing in section 118 that would require the amounts received by the Appellants from Fording Canadian Coal Trust to be included in income. Section 126 of the Act provides a foreign tax credit. Both sections 118 and 126 provide credits that may be deducted in determining taxes payable – they do not provide for amounts to be included in income by beneficiaries of a trust. Sections 118 and 126 of the Act have no relevance to the issue in this appeal and would mislead any self-represented taxpayer. It appears as if random unrelated section numbers were included as part of the basis for the assessment.
+[17] The references to sections 9 and 108 in paragraph 11 are equally of little assistance to anyone reading the Replies. Section 9 is the general section related to income from a business or property and provides that a taxpayer’s income from a business or property is the taxpayer’s profit from such business or property. While section 108 at least does relate to a trust, it only sets out various definitions and includes other subsections that are not relevant in this matter.
+[18] The appeal was heard on a Wednesday. On Monday of the same week counsel for the Respondent realized that the sections that were referred to in the Replies were not relevant in relation to this matter and that the relevant sections were not included among those sections that were listed. She informed the Appellants that she would be asking to amend the Replies. The Appellants did not see the proposed amended Replies until the commencement of the hearing as they had to travel approximately 100 miles to attend the hearing and therefore had left their home prior to the time that the Respondent could send them a copy of the proposed amended Replies. Prior to the commencement of the hearing, counsel for the Respondent made the request to amend the Replies.
+[19] The request to amend the Replies was denied. In Burton v. The Queen, 2006 FCA 67, [2006] 2 C.T.C. 286, 2006 DTC 6133, the Federal Court of Appeal addressed the situation where a request had been made at the commencement of the hearing to amend the Reply. There was no advance notice of the proposed amendment nor was there any formal motion. Justice Rothstein (as he then was) writing on behalf of the Federal Court of Appeal, stated as follows:
+11 The appellant says that the Tax Court judge should have refused the Minister's application to file an amended Reply on the morning of the trial. In not doing so and in offering him only the choice of a short recess or adjournment, there was breach of the rules of procedural fairness. He relies on the decision of Bowman A.C.J.T.C. (as he then was) in Poulton v. R., [2002] 2 C.T.C. 2405. In Poulton, after citing authority to the effect that the Court will normally be permissive in granting leave to amend pleadings, Bowman A.C.J.T.C. explained why he refused to allow the amendment in that case.
+12 As I understand his reasoning, Bowman A.C.J.T.C. was of the view that in cases governed by the informal procedure, the Tax Court should not always be willing to grant a motion by the Crown "at the eleventh hour to spring a brand new argument on a taxpayer". Where an adjournment results "in undue delay" of "relatively small informal appeals", the Tax Court judge must carefully exercise his or her discretion in deciding whether to allow the amendment and the consequent adjournment. He notes that in informal appeals, denying the Crown the opportunity to amend at the last minute would not result in a "jurisprudential or fiscal catastrophe".
+13 At paragraphs 16, 17 and 18 Bowman A.C.J.T.C. wrote:
+16. Why then did I not allow the amendment here as was done in the above cases? Well, there is a world of difference between large public corporations, and multinationals with batteries of senior counsel to protect them and millions of dollars at stake and small taxpayers, unrepresented by lawyers, with relatively small amounts of money in issue.
+17. Procedural fairness requires that in cases governed by the informal procedure the Crown not be permitted at the 11th hour to spring a brand new argument on a taxpayer. Had the appellants known from the outset or at least a reasonable time before trial that the Crown was going to rely on paragraph 6(1)(b) their approach might have been entirely different and they could have called evidence to rebut the assertion that the amounts were "allowances" within the meaning of paragraph 6(1)(b) or that they were exempted from the operation of that paragraph by subsection 6(6). Had I granted the Crown's motions and allowed the amendment the appellants would have been entirely justified in requesting an adjournment and this would have resulted in an undue delay of these relatively small informal appeals. I cannot emphasize too strongly that it is of consummate importance that the court in the informal procedure be vigilant to ensure that the unrepresented taxpayer not be deprived of procedural fairness.
+18. I quite agree that by denying the Crown's motion to amend to refer to paragraph 6(1)(b) I may have deprived it of what might be a very potent argument. However the Crown's loss of these appeals because it slipped up and failed to refer to a provision that might have helped it is not, in the scheme of things, a jurisprudential or fiscal catastrophe. What is far more important is that unrepresented taxpayers in the informal procedure be given every benefit of procedural fairness. To force them to confront the complexities of paragraph 6(1)(b) and subsection 6(6) on the eve of trial would do the administration of justice irreparable damage.
+14 The question of whether to allow an amendment to pleadings and if so whether a recess or adjournment is appropriate is, of course, a matter of discretion. I do not read Bowman A.C.J.T.C. to purport to lay down fixed rules for dealing with such occurrences. However I do think he was providing some guidance as to the practical considerations to be taken into account by a Tax Court judge in exercising discretion in these cases.
+…
+17 The relevant considerations are, first, that the taxable benefits at issue are $6,348.00 for the year 2000 and $4,801.00 for the year 2001. The amounts of tax involved are of course, only a percentage of these figures -- according to the appellant about forty percent. The amounts involved therefore are relatively small.
+18 Second, the matter involved taxation years that were some four and five years old at the time of trial.
+19 Third, the appellant is self-represented. He was justified in expecting that the Minister's original Reply was the basis for the assessment and restricting his preparation to the statutory provisions relied upon by the Minister in that Reply. Section 6 of the Income Tax Act is drafted in a manner that contains exceptions and exceptions to exceptions and is therefore not straightforward. This is not a case in which the Minister's error in not referring to paragraph 6(1)(l) in the original Reply was self-evident and in respect of which, the appellant should have anticipated an amendment.
+[20] In this case Counsel for the Respondent had written to the Court the day before the hearing to advise that a request would be made to amend the Replies. The Appellants, however, did not receive copies of the amended Replies until just before the commencement of the hearing.
+[21] Justice Rothstein indicated that the relevant considerations in Burton, referred to above, were the amount of income in dispute, the length of time from the taxation years in dispute to the date of hearing and the fact that the Appellant was self-represented.
+[22] In this case, the Appellants submitted that they should be entitled to claim a capital gain in relation to the amount that they had received. Since there were two separate accounts, the adjusted cost base of the 100 units held in the account in Anne Burchat’s name will be calculated separately from the adjusted cost base of the 200 units held in the other account. The adjusted cost base of the 100 units held in the account in Anne Burchat’s name was $4,106. The adjusted cost base of the 200 units held in the other account was $7,310 and therefore the adjusted cost base of each unit held in that account was $7,310 / 200 = $36.55.
+[23] Anne Burchat reported all of the amount received in relation to the 100 units held in the account in her name and one-half of the amount received for the units in the other account and this was not challenged or questioned by the Respondent, although this may have related to the lack of knowledge on the part of the Respondent in relation to the facts related to the accounts, which were apparently not disclosed until the hearing. If the amounts received would have been proceeds of disposition of a capital property, the amounts that the Appellants would be claiming as the amounts that should have been included in their incomes as taxable capital gains (also based on two-thirds of the amount being reported by Anne Burchat) would be the following:
+Nelson Burchat
+Anne Burchat
+Proceeds[1]:
+$10,312
+$20,624
+Adjusted cost base[2]:
+$3,655
+$7,761
+Capital Gain:
+$6,657
+$12,863
+Taxable capital gain:
+$3,328
+$6,432
+[24] This would result in total proceeds of $30,936 ($10,312 + $20,624). The amounts as shown on the T3 slips (and therefore the amounts reported as income) were slightly greater. Based on the amounts as shown on the T3 slips and using the same allocation, the following were the amounts reported by each of the Appellants and assessed by the Canada Revenue Agency:
+Nelson Burchat
+Anne Burchat
+Total
+Amount:
+$10,330
+$20,659
+$30,989
+[25] As a result the income amounts in dispute in this case are the following:
+Nelson Burchat
+Anne Burchat
+Amount assessed:
+$10,330
+$20,659
+Taxable capital gain amount:
+$3,328
+$6,432
+Difference (amount in dispute)
+$7,002
+$14,227
+[26] In the Burton case the income amounts in dispute were $6,348 for one year and $4,801 for another year or $11,149 over two years for one taxpayer. In this appeal there are two taxpayers and the amount for one Appellant is less than the total amount in dispute in Burton and the amount for the other Appellant is $3,078 more than the total amount in dispute in Burton. In my opinion, this greater amount is not significant enough to distinguish the Burton case.
+[27] In Burton the taxation years under appeal predated the hearing date by 4 and 5 years. In this appeal the taxation year in issue was 2008 which was three years prior to the hearing date. This is not sufficient to distinguish Burton.
+[28] In both the Burton case and this appeal, the taxpayers were self-represented. It seems to me that this is an important consideration. The random unrelated collection of section references in the Replies in this case would be bound to add confusion and frustration to any self-represented litigant. How reading sections 118 and 126 of the Act would assist the Appellants in this appeal is inexplicable.
+[29] As noted above, the request to amend the Replies was denied. Counsel for the Respondent then asked for an adjournment. The Appellants, as noted above, are 81 and 82 years old. Nelson Burchat stated that they had to drive approximately 100 miles to attend the hearing and had to arrive the day before. The Replies in these appeals were filed on January 31, 2011, approximately 3 months after the Notices of Appeal were filed on October 29, 2010 and more than 3 and one-half months before the scheduled hearing date. The Respondent had plenty of time to prepare and review the Replies. The amounts in issue in these appeals are small. The request to adjourn was denied.
+[30] As a result, the assessment of the Appellants cannot be sustained based on the random unrelated sections referred to in the Replies as the basis for the assessment. The Appellants are therefore to be reassessed to reduce their incomes to the amounts that would be included in their incomes if the amounts received were to be treated as proceeds of disposition of a capital property with a resulting capital gain, after the amount paid for the units is taken into account.
+[31] During the course of the hearing, Nelson Burchat was clear that the account in both of their names was his account and that his wife’s name was only added so that she could have signing authority. It appears therefore that she did not have any property interest in the investments held in this account and there does not appear to be any basis for Anne Burchat to report income earned in relation to the investments in this account. Even if she did have a property interest, the attribution rules in sections 74.1 and 74.2 of the Act may apply. In this case, the Respondent did not make any submissions in relation to the allocation of one-half of the income earned in relation to the investments held in the account in both their names and in the Replies the Respondent assumed that the investments in this account were held equally by the two of them.
+[32] In Pedwell v. The Queen, 2000 DTC 6405, [2000] 3 C.T.C. 246, Justice Rothstein, writing on behalf of the Federal Court of Appeal, stated as follows:
+15 While the parties referred to a number of older authorities on the issue, Continental Bank of Canada now makes it clear (subject to subsection 152(9) which applies to appeals disposed of after June 17, 1999 and is not relevant here in any event) that the Minister is bound by his basis of assessment. While this case does not involve the Minister advancing a different basis of assessment, I think the principle in Continental Bank of Canada is applicable to a judicial determination on a basis different from that in the notice of reassessment.
+16 First, if the Crown is not able to change the basis of reassessment after a limitation period expires, the Tax Court is not in any different position. The same prejudice to the taxpayer results - the deprivation of the benefit of the limitation period. It is not open to that Court or indeed this Court, to construct its own basis of assessment when that has not been the basis of the Minister's reassessment of the taxpayer.
+17 Second, while it is open to the Minister to change the basis of assessment before the limitation period expires, where he does not do so, in my respectful opinion, the Tax Court Judge is bound by the assessment at issue before the Court. Fairness requires that the taxpayer be given a reasonable opportunity to contest a new basis of assessment. If the Tax Court Judge decides on a basis of assessment not at issue during the court proceedings, the taxpayer is deprived of that opportunity.
+18 Here, on his own motion, the Tax Court Judge, in his decision and after the completion of the evidence and argument directed to the Minister's basis of assessment, changed the basis of that assessment without the appellant having the opportunity to address the change. This is clear because the Tax Court judgment allowed the appellant's appeal, i.e. found that there was no appropriation of property which was the basis of the Minister's assessment, but then referred the matter back to the Minister to reassess on the basis that the Euler proceeds and the Landpark deposit were appropriated. What has taken place is tantamount to allowing the Minister to appeal his own reassessment.
+19 I do not say that the Minister cannot assess in the alternative. However, that was not done here.
+[33] While subsection 152(9) of the Act (to which Justice Rothstein refers) may have been available to the Minister to advance an alternative argument in support of the reassessment of the Appellant, this subsection is only available if the Minister advances such alternative argument. Since the Minister did not advance any alternative argument to include all of the income earned on the investments held in the account that was in both of their names in Nelson Burchat’s income, it is not open for me to do so. As a result, no adjustment will be made to the allocation of the amounts as between the two Appellants.
+[34] As a result, the adjustments that will be made to the income of the Appellants is as follows:
+Nelson Burchat
+Anne Burchat
+Amount assessed:
+($10,330)
+($20,659)
+Taxable capital gain[3]:
+$3,328
+$6,432
+Amount of the reduction in income:
+$7,002
+$14,227
+[35] The appeals are therefore allowed and the matters are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Anne Burchat’s income for 2008 is reduced by the amount of $14,227 and Nelson Burchat’s income for 2008 is reduced by the amount of $7,002.
+[36] The Respondent shall pay each Appellant the amount of $300 in costs.
+Signed at Halifax, Nova Scotia, this 2nd day of June 2011.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2011TCC285
+COURT FILE NOS.: 2010-3546(IT)I
+2010-3547(IT)I
+STYLE OF CAUSE: ANNE BURCHAT AND H.M.Q. AND BETWEEN NELSON BURCHAT AND H.M.Q.
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: May 18, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: June 2, 2011
+APPEARANCES:
+For the Appellants:
+Nelson Burchat
+Counsel for the Respondent:
+Natasha Wallace
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Based on the amounts paid to the TD Waterhouse accounts. For Nelson Burchat, one-half of $20,624 and for Anne Burchat, $10,312 + one-half of $20,624.
+[2] For Nelson Burchat, 100 units x $36.55 / unit = $3,655. For Anne Burchat, $4,106 + (100 units x $36.55 / unit) = $7,761.
+[3] This the amount that would have been a taxable capital gain if the amount that had been received would have been received as proceeds of disposition of a capital property.

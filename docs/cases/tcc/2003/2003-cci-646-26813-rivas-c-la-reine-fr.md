@@ -1,0 +1,184 @@
+---
+title: "Rivas c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26813/index.do"
+last_modified: "2003-09-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 646"
+citation2: ""
+neutral_citation: "2003 CCI 646"
+decision_date: "2003-09-16"
+language: "fr"
+item_id: "26813"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 683
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:45:22.011000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "249aba47a707d3043326a23596d1bfde77c14afa4dc72c5877fe579a4d055d57"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rivas c. La Reine
+
+- Citation: 2003 CCI 646
+- Decision date: 2003-09-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 683, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rivas c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-16
+Référence neutre
+2003 CCI 646
+Numéro de dossier
+2002-4763(IT)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4763(IT)I
+ENTRE :
+JOSÉ ARNULFO RIVAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu le 15 août 2003 à Montréal (Québec)
+Devant : L'honorable juge P. R. Dussault
+Comparutions :
+Avocat de l'appelant :
+Me Gilles R. Pelletier
+Avocate de l'intimée :
+Me Emmanuelle Faulkner
+_______________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2003.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2003CCI646
+Date : 20030916
+Dossier : 2002-4763(IT)I
+ENTRE :
+JOSÉ ARNULFO RIVAS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Cet appel a été entendu selon la procédure informelle. Il s'agit d'un appel d'une cotisation établie en vertu de la Loi de l'impôt sur le revenu ( « Loi » )pour l'année d'imposition 2000 par laquelle le ministre du Revenu national ( « Ministre » ) a refusé à l'appelant la déduction d'une pension alimentaire de 21 386,88 $ qu'il aurait versée à Madame Cristina De Soreto Diaz de Sandi Hernandez ( « Mme Diaz » ) résidant au Mexique.
+[2] La déduction d'une autre pension alimentaire au montant de 12 783,84 $ payée à madame Claudette Hachez n'est pas en litige.
+[3] Aux fins d'établir la cotisation, le Ministre a tenu pour acquis les hypothèses des faits que l'on retrouve aux alinéas a) à o) du paragraphe 10 de la Réponse à l'avis d'appel ( « Réponse » ). Ces alinéas se lisent :
+a) pour l'année d'imposition 2000, l'appelant a réclamé la somme de 34 170,72 $, au titre de pension alimentaire versée à deux ex-conjointes, et ce montant se répartirait ainsi :
+i) le montant de 12 783,84 $ payé, selon le formulaire PPA-10 du Ministère du Revenu du Québec (MRQ), à Madame Claudette Hachez pour l'enfant Olivier, né le 30 janvier 1990;
+ii) le montant de 21 386,88 $ soit-disant payé à madame Cristina De Loreto Diaz de Sandi Hernandez (Mme Diaz), résidant au Mexique;
+b) selon l'appelant, la somme de 21 386,88 $ consiste en douze paiements mensuels de 1 200 $ US chacun, basés sur un taux de change canadien de 1,4852;
+c) l'appelant n'a fourni aucun document officiel à l'effet que Mme Diaz et lui-même aient été mariés;
+d) l'appelant n'a fourni aucun document attestant qu'il était divorcé de Mme Diaz ou séparé d'elle pour cause d'échec de leur mariage ou union de fait;
+e) aucune entente écrite, aucune ordonnance ou jugement d'un tribunal compétent n'ont été soumis par l'appelant attestant qu'il devait payer une pension alimentaire à Mme Diaz;
+f) aucune preuve de paiement n'a été soumise supportant les montants soi-disant versés par l'appelant à Mme Diaz;
+g) l'appelant aurait signé au Canada le 2 octobre 2002 et Mme Diaz aurait signé au Mexique le 9 octobre 2002, un document à l'effet qu'ils se seraient épousés à Guadalajara le 12 octobre 1966 et qu'ils seraient séparés depuis le 17 septembre 1968 mais ce document n'est pas émis par un tribunal, n'a pas été certifié par une personne compétente et ne porte la signature d'aucun témoin.
+h) de la brève union de l'appelant et de Mme Diaz, deux enfants seraient nés mais aucun document n'a été fourni à cet effet;
+i) dans un document, écrit en espagnol mais traduit en anglais, Mme Diaz, assermentée le 6 mars 1987 par M. Allan C. Rose, consul canadien au Mexique, on peut lire ceci :
+« The named Ma. Cristina Diaz de Sandi Hernandez, married, architect and lives on Ave. del Sur No. 2520-2 in Guadalajara, Jalisco, Mexico.
+I manifiest (sic) that I received since January 1 of 1986 to December 31 of 1986, from my husband José Rivas Gutiérrez Md., who lives on 900 Seminaire St. Jean, Quebec, Canada, an amount of 400.00 U.S.D. (FOUR HUNDRED AMERICAN DOLLARS). The amount mentioned before was head up for my tuition (sic) as both agreed monthly as pension. »
+j) le 5 mars 2002, Mme Diaz aurait signé au Mexique et le 29 mars 2002, l'appelant aurait signé au Canada un autre document, écrit en anglais seulement mais non certifié et ne portant la signature d'aucun témoin.
+k) il est mentionné dans le document, mentionné à l'alinéa précédent, que les sommes payées à Mme Diaz par l'appelant, lui ont été versées aux termes d'une entente écrite intervenue entre eux avant le 1er mai 1997, que le document original est introuvable et que l'entente prévoyait un paiement mensuel de 1 000 $ US;
+l) la date de la soi-disant entente n'est pas connue ni l'endroit où cette entente aurait été signée;
+m) l'appelant a également soumis plusieurs autres documents, signés par Mme Diaz, mais tous écrits en espagnol et sans traduction dans une des deux langues officielles du Canada;
+n) un employé de l'Agence des Douanes et du Revenu du Canada (ADRC), maîtrisant bien la langue espagnole, a fourni une traduction verbale non-officielle des documents soumis par l'appelant et parmi ces documents deux semblaient pertinents, à savoir :
+i) celui du 10 avril 2000 mentionne que Mme Diaz est mariée, qu'elle est architecte et qu'elle a reçu de son époux, l'appelant pour la période du 1 mars 1999 au 28 février 2000, la somme de 1 200 $ US par mois pour subvenir à ses besoins personnels et à ceux de ses deux filles;
+ii) celui du 4 mai 2001 soumis par l'appelant, mentionne que Mme Diaz est mariée, qu'elle est architecte et qu'elle a reçu de son époux, l'appelant, pour la période du 1 mars 2000 au 28 février 2001, la somme de 1 200 $ US par mois pour subvenir à ses besoins personnels et à ceux de ses deux filles;
+o) parmi les autres documents fournis par l'appelant, deux sont certifiés par un notaire mexicain et confirment, entre autres, l'identité de Mme Diaz.
+[4] L'appelant et Mme Diaz se sont mariés à Guadalajara au Mexique. Selon le certificat de mariage obtenu par l'appelant à la demande des autorités fiscales, la date du mariage est le 29 juin 1967 (pièces A-1 et A-2).
+[5] Lors de son témoignage, l'appelant a affirmé qu'il n'a jamais fait vie commune avec Mme Diaz, mais qu'il est le père de ses deux enfants. L'appelant a dit ne pas se souvenir si Mme Diaz était enceinte ou si le premier enfant était déjà né lors du mariage.
+[6] C'est au début des années 70 alors que les enfants avaient deux et trois ans que l'appelant aurait signé avec Mme Diaz, dans le but d'accorder une protection aux enfants, une entente prévoyant le paiement à cette dernière d'une pension alimentaire de 1 000 $ US par mois.
+[7] L'appelant a affirmé avoir toujours versé un minimum de 1 000 $ US par mois à Mme Diaz depuis la signature de cette entente écrite, que ni l'un ni l'autre n'ont pu retracer. L'appelant a dit avoir à l'occasion payé plus, soit 1 200 $ US par mois, lorsqu'il le pouvait.
+[8] Les paiements auraient été faits par l'appelant sous forme de traites bancaires ou remis en argent comptant aux enfants lorsque ceux-ci venaient le visiter de deux à trois fois par année. L'appelant n'a pu retracer qu'une seule copie d'une traite bancaire. Celle-ci est datée du 16 février 2002 (pièce A-7). Selon l'appelant, les enfants sont aujourd'hui âgés de 32 et 33 ans.
+[9] Je noterai d'abord que si un enfant était déjà né au moment du mariage ou qu'il est né peu après, il serait aujourd'hui plutôt âgé de 36 ans. Le deuxième enfant serait alors âgé de 35 ans.
+[10] En octobre 2003, l'appelant et Mme Diaz ont signé un document (pièce A-4) qui se lit comme suit :
+...
+CONSIDÉRANT QUE les parties se sont épousées à Guadalajara le 12 octobre 1966.
+CONSIDÉRANT QUE les parties vivent séparées l'une de l'autre depuis le 17 septembre 1968.
+CONSIDÉRANT QUE depuis la date de séparation, l'époux a continué de verser à l'épouse de façon régulière, selon les termes d'une entente écrite qu'elles ont maintenant égarée, une pension alimentaire;
+CONSIDÉRANT la situation actuelle et la durée du mariage;
+POURQUOI LES PARTIES CONSENTENT ET CONVIENNENT COMME SUIT :
+1. L'époux a payé, paie et continuera de payer à l'épouse une pension alimentaire de 1 000 $ en fonds américains par mois;
+2. Cette pension continuera à être versée, comme elle l'a été par le passé, au moyen de chèques mensuels que l'époux fait parvenir à l'épouse à l'avance;
+3. L'épouse reconnaît avoir reçu régulièrement la pension alimentaire convenue depuis la séparation;
+4. L'épouse reconnaît plus particulièrement avoir reçu pour l'année 2000, 12 000 $ US, et pour l'année 2001, 12 000 $ US.
+ET J'AI SIGNÉ À ST-JEAN-SUR-RICHELIEU, ce 2ième jour du mois d'octobre 2002.
+(signature)
+JOSÉ RIVAS
+ET J'AI SIGNÉ À GUADALAJARA, ce 9ième jour du mois d'octobre 2002.
+(signature)
+CRISTINA DE LORETO DIAZ DE SANDI HERNANDEZ
+[11] On aura remarqué que la date du mariage n'est pas celle indiquée sur le certificat de mariage produit. De plus, les parties affirment qu'ils vivent séparés l'une de l'autre depuis le 17 septembre 1968. Ceci est peu compatible avec l'affirmation de l'appelant selon laquelle il n'a jamais fait vie commune avec Mme Diaz.
+[12] La pièce A-4 fait état d'une pension alimentaire payée de 12 000 $ US en 2000 et 2001. Ceci est conforme, quant au montant versé, à un autre document signé par l'appelant et Mme Diaz en mars 2002 (pièce A-3). La pièce A-4 mentionne aussi que l'appelant a versé une pension alimentaire de « façon régulière » à Mme Diaz depuis la date de la séparation, soit le 17 septembre 1968, selon les termes d'une entente écrite. Ainsi, selon ce document, l'entente écrite n'aurait pas été exécutée vers le début des années 70 alors que les enfants avaient deux et trois ans, comme l'a affirmé l'appelant.
+[13] Toutefois, le document (pièce A-4) est en contradiction directe avec d'autres documents signés par Mme Diaz. D'abord, la pièce A-6 contient un premier document écrit en espagnol, ainsi qu'une version en anglais, les deux documents sont datés du 4 mai 2001 et sont signés par Mme Diaz. Ils font état de la réception d'une somme mensuelle de 1 200 $ US du 1er mars 2000 au 28 février 2001.
+[14] Un autre document, partie de la pièce A-6, est en date du 6 novembre 2001. Il est écrit en espagnol et il est aussi accompagné d'une version en anglais. Les documents font état d'une pension alimentaire reçue de 1 200 $ US par mois du 1er janvier 2000 au 31 octobre 2001.
+[15] Il est clair, en ce qui concerne l'année en litige, soit l'année d'imposition 2000, que les documents de la pièce A-6 font état d'une pension totale de 14 400 $ US, soit de 21 386,88 $ CAN que l'appelant a d'ailleurs réclamé comme déduction pour l'année d'imposition 2000 (voir l'alinéa 10 b) de la Réponse).
+[16] Dans un autre document en date du 2 mars 1987 signé par Mme Diaz, celle-ci a affirmé avoir reçu la somme de 400 $ US pour la période du 1er janvier 1986 au 31 décembre 1986 (pièce I-1). On ne sait trop s'il s'agit d'une somme mensuelle ou s'il s'agit du montant total reçu durant l'année. En tout état de cause, ce document vient en contradiction directe avec l'affirmation de l'appelant qui a prétendu avoir toujours payé un minimum de 1 000 $ US par mois à Mme Diaz depuis la signature de leur entente au début des années 70.
+[17] Devant ces nombreuses déclarations contradictoires, on en vient à douter sérieusement de l'existence même d'une entente écrite entre l'appelant et Mme Diaz ou à tout le moins d'une entente écrite aux termes de laquelle une pension alimentaire mensuelle fixe de 1 000 $ US aurait été payable par l'appelant à Mme Diaz. Il est difficile d'accorder beaucoup de crédibilité au témoignage de l'appelant.
+[18] L'appelant connaissait l'existence de l'ensemble de ces documents et plus particulièrement de la pièce I-1, qu'il a probablement remis lui-même aux autorités fiscales il y a plusieurs années. C'est entre autres à cause des contradictions contenues dans les documents signés par Mme Diaz que la déduction de la pension alimentaire a été refusée. Il est possible que les doutes soulevés par ces contradictions auraient pu être dissipés par le témoignage de Mme Diaz. Toutefois, l'appelant n'a pas cru opportun de l'appeler à témoigner. On ne peut en tirer qu'une inférence négative.
+[19] Dans les circonstances, j'estime que l'appelant n'a pas démontré, selon la prépondérance des probabilités, comme il était requis de le faire, qu'il a payé à Mme Diaz une pension alimentaire de 1 000 $ US par mois au cours de l'année d'imposition 2000, et ce, en vertu d'une entente écrite comme l'exige l'alinéa a) de la définition de « Pension alimentaire » au paragraphe 56.1(4) de la Loi. Cette définition est rendue applicable aux fins de la déduction prévue à l'alinéa 60 b) par le paragraphe 60.1(4) de la Loi.
+[20] En conséquence, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 16e jour de septembre 2003.
+« P. R. Dussault »
+Juge Dussault
+RÉRÉRENCE :
+2003CCI646
+No DU DOSSIER DE LA COUR :
+2002-4763(IT)I
+INTITULÉ DE LA CAUSE :
+José Arnulfo Rivas et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE
+le 15 août 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P.R. Dussault
+DATE DU JUGEMENT :
+le 16 septembre 2003
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Gilles R. Pelletier
+Avocate de l'intimée :
+Me Antonia Paraherakis
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Gilles R. Pelletier
+Étude :
+Ville :
+Avocat
+Chambly (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

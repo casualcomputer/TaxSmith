@@ -1,0 +1,171 @@
+---
+title: "Zong v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/453586/index.do"
+last_modified: "2019-11-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 270"
+citation2: ""
+neutral_citation: "2019 TCC 270"
+decision_date: "2019-11-28"
+language: "en"
+item_id: "453586"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4284
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:58:21.527000+00:00"
+cases_cited_count: 1
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4dbb4d37a9d68aa0f2624aa4160fd8543ba5773929f92f70d17128bcd0ba3245"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zong v. The Queen
+
+- Citation: 2019 TCC 270
+- Decision date: 2019-11-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4284, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zong v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-11-28
+Neutral citation
+2019 TCC 270
+File numbers
+2018-2958(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-2958(IT)I
+BETWEEN:
+PING ZONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 25, 2019, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rebecca L. Louis
+JUDGMENT
+WHEREAS the Court has on this date issued Reasons for Judgment in this appeal;
+NOW THEREFORE the appeal from reassessment made under the Income Tax Act in respect of the 2016 taxation year is dismissed, without costs.
+Signed at Edmonton, Alberta, this 28th day of November 2019.
+“R.S. Bocock”
+Bocock J.
+Citation: 2019TCC270
+Date: 20191128
+Docket: 2018-2958(IT)I
+BETWEEN:
+PING ZONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. BACKGROUND
+[1] Generally, taxpayers in Canada are permitted to deduct, as foreign tax credits, taxes paid to a foreign government where taxes are paid on the same income otherwise taxable in Canada. Certain contributions analogous to CPP and EI are also deductible. The Appellant, Mr. Zong argues amounts “paid to the UK government” in 2016 should qualify for a foreign tax credit (“FTC”). The Minister disagrees. Hence, this appeal.
+[2] Mr. Zong is a resident of both Canada and the United Kingdom. He has been employed full-time in the UK for several years. Mr. Zong claimed a FTC under subsection 126(1) in respect of his 2016 taxation year. The Minister reassessed Mr. Zong and reduced his FTC on the basis that the mandatory contributions he made to the UK’s national insurance scheme were not a “tax” and were therefore ineligible for the FTC.
+[3] In appealing the Minister’s characterization, Mr. Zong asserts that the contributions to the national insurance scheme are equivalent to an income tax and should therefore be eligible for relief from double taxation under subsection 126(1). If not a tax, such contributions are equivalent to CPP premiums. Even if not, Mr. Zong should be entitled to further relief under the Convention between the Government of Canada and the Government of the United Kingdom of Great Britain and Northern Ireland (the “Convention”).
+[4] The issues before the Court are as follows:
+Are the mandatory national insurance contributions (the “contributions”) an income or profits tax paid to a foreign government and, as such, do the contributions qualify for a FTC.
+In any event, is Mr. Zong eligible for relief against double taxation under the Convention.
+II. ANALYSIS
+Are the contributions an income or profits tax paid to a foreign government?
+[5] Canada taxes Canadian residents on their worldwide income. [1] To avoid double taxation on income earned from foreign sources, section 126 of the Act allows taxpayers to deduct from their taxes otherwise payable an amount equal to the tax paid to the foreign jurisdiction. This amount is capped at the maximum otherwise payable in Canada which the taxpayer would have paid. In short, the FTC will not exceed total Canadian tax. [2]
+[6] Mr. Zong’s contributions must be an income or profits tax on non-business income paid to a foreign government to afford him a deduction from Canadian tax payable.
+[7] Under subsection 126(1), tax is deducted against “tax for the year otherwise payable under this Part”. [3] Foreign source income must first be included in income. As a Canadian resident, Mr. Zong is taxed on his worldwide income pursuant to section 3 of the Act. Of note, Section 8, which allows specific deductions from employment income, does not allow deductions for contributions to foreign pension plans. Although, taxpayers may deduct contributions to registered pension plans, the national insurance scheme is not a registered pension plan. [4]
+[8] Additionally, section 118.7 provides a specific credit for EI premiums and CPP contributions, which are otherwise not deductible from employment income. Directly to Mr. Zong’s appeal, the Act does not provide a deduction or credit for contributions to foreign insurance or social security schemes, as it does for contributions to the domestic CPP. There is a legislative divide on this point. Therefore, Mr. Zong must include his gross UK employment income in taxable income before considering the calculation of the foreign tax deduction under subsection 126(1).
+Are contributions to the national insurance scheme a “tax”?
+[9] Subsection 126(1) provides Canadian residents relief from taxation in Canada of certain income that has already been taxed in another country. Mr. Zong’s asserts that the contributions are equivalent to an income tax and therefore are deductible from income.
+[10] Almost 90 years ago, the Supreme Court of Canada, in the Lawson case, listed the following four characteristics of a “tax” [5] ; namely, that the levy is:
+a) enforceable by law;
+b) imposed under the authority of the legislature;
+c) imposed by a public body; and
+d) made for a public purpose.
+[11] Although the mandatory contributions deducted from Mr. Zong’s UK employment income meet three requirements of the Lawson test, they prima facie do not meet the fourth: made for a public purpose. Because the payor receives a direct personal and financial benefit from his or her contributions in the future, the Minister [6] and this Court have held that such contributions are not a tax for public purposes. In the case of Yates, the Tax Court was clear that the Act contains no provision to allow a deduction of contributions paid to a foreign insurance plan. [7] The court also likened national insurance contributions to CPP contributions or RSP premiums, which are not considered a “tax” in Canada. Such contributions are only deductible from income because there are particular and specific provisions prescribing them so within the Act. In the absence of a broader exemption, individuals are “not entitled to a like deduction for contributions made to a foreign insurance plan.” [8]
+[12] Returning to the public spending requirement, there is no indication that the contributions are used for the “public spending” items indicated in Mr. Zong’s notice of appeal. An amount is not a tax simply because it is deducted from a source of income – it must meet the four conditions set out in Lawson.
+[13] Mr. Zong’s national insurance contributions go towards funding a pension scheme from which he may eventually obtain a direct economic benefit. They do not meet the definition of a “tax” and are therefore not eligible for the foreign tax deduction under subsection 126(1).
+Is Mr. Zong entitled to relief against double taxation under the Convention?
+[14] Mr. Zong made much of a letter he obtained from the UK national pension financial department. The letter explains that contributions are deducted from gross employment income before calculating income tax. He asserts this supports the proposition that Article 27(5) of the Convention mandates that the amount be treated the same way in Canada and be deductible from income. The general purpose of the Convention is to prevent double taxation. [9] Because the amount has not yet been subject to tax in the UK (because it has been deducted from income before calculating income tax) there is no requirement under the Convention or section 126 of the Act to provide relief in Canada. When Mr. Zong ultimately receives his pension in the UK, it may be subject to UK income tax and he may be eligible for relief in Canada through the FTC at such time, but not now. A present deduction would provide tax relief in anticipation of a future foreign tax not yet levied. Further a present full deduction in the amount of the contributions may mean that Mr. Zong would possibly receive a present deduction in Canada greatly exceeding the amount of tax he may eventually pay in the UK; the UK income tax will be imposed against pension income, not his present employment income.
+[15] Lastly, the issue of prospective tax has been considered. Years ago, the Tax Appeal Board wrote in Ledwidge stated: [10]
+There is nothing in the Canadian Income Tax Act which permits the deduction of a tax in future. What is deductible is the tax paid during or for the taxation year involved. A contribution to a pension plan is not assimilated to a tax. It may or may not, in the years to come, give rise to a levy because when the taxpayer receives the pension he contributed to, he receives an income which is taxable. Let's wait until then. For income tax purposes, the possibility of an event produces no relief. [11]
+[16] Mr. Zong has conflated another exception which does not apply to him. Article 27(5) of the Convention provides some relief to certain transitory or transient employees working in one contracting state, but paying into a pension arrangement established in the other contracting state. [12] Article 27(5) reads:
+5. Contributions paid in a year by, or on behalf of, an individual who exercises employment in a Contracting State in that year to a pension arrangement established in the other Contracting State (including an arrangement created under the social security legislation in that other State) and in which the individual participates in order to secure retirement benefits in respect of those services shall, during a period not exceeding in the aggregate 60 months, and if the contributions to the arrangement would qualify for tax relief if they had been made in that other State, be treated in the same way for tax purposes in the first-mentioned State as contributions paid to a pension arrangement that is recognised for tax purposes in the first-mentioned State, provided that:
+(a) immediately before the individual began to exercise employment in the first-mentioned State, that individual was not a resident of that State and contributions had been paid by or on behalf of that individual to the pension arrangement; and
+(b) the pension arrangement is accepted by the competent authority of the first-mentioned State as generally corresponding to a pension arrangement recognised as such for tax purposes by that State. [13]
+[17] This appeal relates to Mr. Zong’s contributions to the UK’s pension arrangement through his permanent full-time employment in the UK. As such, firstly, the contributions do not invoke Article 27(5). Secondly, the provision is intended to benefit temporary employees. It is only available for a 60-month period. Mr. Zong acknowledges having worked full-time in the UK for more than 60 months. The facts do not fit. Mr. Zong is ineligible for relief under Article 27(5).
+[18] In conclusion, Mr. Zong’s contributions are not a tax. They do not qualify as a FTC. Further, if not a tax, double taxation by definition cannot occur. As for an Article 27(5) exception, Mr. Zong has been a UK employee in excess of the maximum 60 months and makes contributions to that state and not a different one.
+[19] For these reasons, the appeal is dismissed without costs.
+Signed at Edmonton, Alberta, this 28th day of November 2019.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2019TCC270
+COURT FILE NO.:
+2018-2958(IT)I
+STYLE OF CAUSE:
+PING ZONG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto , Ontario
+DATE OF HEARING:
+October 25, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+November 28, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rebecca L. Louis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Blank
+Firm:
+Blank
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] ITA, supra note 1 at ss 2-3.
+[2] Dagenais c R, [2000] 2 CTC 2022, 1999 CarswellNat 401 (TCC) at paragraph 7.
+[3] ITA, supra note 1 at s 126(1).
+[4] See ITA, supra note 1 at 248(1) (a registered pension plan is a pension plan that has been registered by the Minister for the purposes of the Act and whose registration has not been revoked).
+[5] Lawson v. Interior Tree Fruit & Vegetable Committee of Direction, [1931] SCR 357, 1930 CanLII 91 (SCC).
+[6] Canada Revenue Agency, Income Tax Technical News ITTN-30, “Social Security Taxes and the Foreign Tax Credit” (21 May 2004), online: <https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/itnews-30/archived-income-tax-technical-news-no-30.html>.
+[7] Yates v R, [2001] 3 CTC 2565, 2001 DTC 761 (TCC).
+[8] Ibid at paragraph 46.
+[9] Vern Krishna & Pamela Cross, The Canada-UK Tax Treaty: Text and Commentary, (Toronto: LexisNexis Canada Inc, 2005).
+[10] Ledwidge v MNR, (1971) 71 DTC 188 (Tax Appeal Board).
+[11] Ibid at paragraph 5
+[12] Krishna & Cross, supra note 19.
+[13] Convention, supra note 2 at Article 27(5).

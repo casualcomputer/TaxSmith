@@ -1,0 +1,301 @@
+---
+title: "Cudmore v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29850/index.do"
+last_modified: "2010-06-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 318"
+citation2: ""
+neutral_citation: "2010 TCC 318"
+decision_date: "2010-06-16"
+language: "en"
+item_id: "29850"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6407
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:15:40.953000+00:00"
+cases_cited_count: 0
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6ca245c49db59b7624de14e715fe19e347485dc131aafab334e8083406f2eaa1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cudmore v. The Queen
+
+- Citation: 2010 TCC 318
+- Decision date: 2010-06-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6407, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cudmore v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-16
+Neutral citation
+2010 TCC 318
+File numbers
+2009-1659(IT)G
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1659(IT)G
+BETWEEN:
+STEPHEN CUDMORE,
+Appellant,
+(Applicant in the Motion)
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appellant’s Motion heard on March 17, 2010
+at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Gavin Laird
+Counsel for the Respondent:
+Selena Sit
+____________________________________________________________________
+ORDER
+Having heard the Appellant’s motion to have the Respondent’s Reply to the Notice of Appeal struck on the basis that it discloses no reasonable grounds for opposing the appeal pursuant to Tax Court of Canada Rules (General Procedure), Rule 58(1)(b);
+And having heard and considered the oral and written submissions of the counsel for the parties;
+IT IS ORDERED THAT:
+1. The Motion is dismissed for the reasons set out in the attached Reasons for Order.
+2. Costs in respect of the motion shall be in the cause.
+Signed at Ottawa, Canada this 16th day of June 2010.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2010 TCC 318
+Date: 20100616
+Docket: 2009-1659(IT)G
+BETWEEN:
+STEPHEN CUDMORE,
+Appellant,
+(Applicant in the Motion)
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hershfield J.
+The Motion
+[1] The Appellant (Applicant in the Motion) brings a Motion for the Reply to the Notice of Appeal (“Reply”) to be struck on the basis that it discloses no reasonable grounds for opposing the appeal.
+[2] The Motion is brought under the Tax Court of Canada Rules (General Procedure) - Rule 58(1)(b).
+58. (1) A party may apply to the Court,
+[…]
+(b) to strike out a pleading because it discloses no reasonable grounds for appeal or for opposing the appeal,
+[…]
+[3] Striking the Reply will have the effect of allowing the appeal. To succeed, the defects in the Respondent’s pleading must be plain and obvious and the threshold required to find that it reveals no reasonable grounds for opposing the appeal is well-established to be high.
+The Underlying Transactions, Factual Assertions and Assumptions
+[4] The transactions that are the subject of the appeal are described in the Notice of Appeal. The following is a summary of the relevant elements of those transactions as described by the Appellant:
+- The Appellant and his wife carried on business in common with a view of profit as members of Pacific North West Business Connections (a “Partnership” or “PNW”);
+- The Partnership provided sales and management services to Direct Equipment West Ltd. (“DEW”), a British Columbia company which carried on the business of designing, manufacturing, engineering, marketing and selling certain systems and equipment;
+- The Appellant and his wife had a two-thirds, one-third interest in the Partnership, respectively;
+- Both the Appellant and his wife provided services to the Partnership. Mrs. Cudmore provided administrative, bookkeeping, general office services and a variety of other services. The Appellant met with customers or potential customers of DEW, provided sales and marketing ideas and services and completed other duties required for the Partnership’s overall operation;
+- During the relevant period, the Partnership earned net income in excess of $200,000 in 2002, $300,000 in 2003 and $400,000 in 2004;
+- For his 2002, 2003 and 2004 taxation years, the Appellant reported net Partnership income of two-thirds of the Partnership’s net income; and
+- The Minister reassessed the Appellant’s 2002, 2003 and 2004 taxation years to reduce the Appellant’s Partnership income to nil for each of 2002, 2003 and 2004 and for each such year added employment income, allegedly earned from DEW, in the amounts paid to the Partnership for that year (referred to by the Appellant as the “Alleged Employment Income”).
+[5] The Notice of Appeal then describes the issue as follows:
+The issue to be decided on this appeal is whether the Appellant earned from an office or employment the Alleged Employment Income.
+[6] In the Reply, the Respondent admitted that:
+- the Appellant and his wife agreed to a two-thirds, one-third interest in the Partnership, respectively;
+- the Appellant and his wife set up a Partnership called Pacific North West Business Connections;
+- the Appellant met with customers or potential customers of DEW, provided sales and marketing ideas and services and completed other duties;
+- the Appellant reported Partnership income; and
+- the Minister reassessed the Appellant to reduce his Partnership income to nil for each of 2002, 2003 and 2004 and for each such year added employment income earned from DEW in the amounts being referred to as the Alleged Employment Income.
+[7] In the Reply, the Respondent denied that:
+- the Partnership provided sales and management services to DEW;
+- the Partnership earned any income in 2002, 2003 and 2004;
+- the Partnership set up by the Appellant and his wife called Pacific North West Business Connections carried on business in common with a view to profit;
+- any of the services provided by the Appellant were for the Partnership’s overall operation; and
+- the Appellant reported the net business incomes for 2003 and 2004 as pleaded by the Appellant.[1]
+[8] Further, the Reply sets out the assumptions relied on by the Minister:
+14. In determining the Appellant’s tax liabilities for the 2002, 2003 and 2004 taxation years, the Minister made the following assumptions of fact:
+a) at all material times, the Appellant was married to Marilyn Cudmore (the “Spouse”);
+Pacific North West Business Connections
+b) during the 2002, 2003 and 2004 taxation years, the Appellant and the Spouse had a partnership called Pacific North West Business Connections (“PNW”);
+c) the Appellant had a 2/3 interest in PNW and the Spouse had a 1/3 interest in PNW;
+d) in computing his income for the 2002, 2003 and 2004 taxation years, the Appellant reported net business income of $142,900, $218,922 and $260,371, respectively (the “Reported Amounts”) from PNW;
+e) the Reported Amounts represented the Appellant’s 2/3 interest in PNW;
+f) the Appellant reported gross partnership income of $239,822, $406,021 and $472,764 and net partnership income of $213,284, $347,926 and $411,705 for the 2002, 2003 and 2004 taxation years, respectively, for PNW;
+g) PNW was not set up as a separate business entity;
+h) at all material times, PNW’s only client was Direct Equipment West Ltd. (“DEW”);
+Direct Equipment West Ltd.
+i) during the 2002, 2003 and 2004 taxation years, DEW was involved in the business of equipment rentals, sales and manufacturing;
+j) the Appellant was a 25% shareholder of DEW;
+k) Rick Garland was the other 75% shareholder of DEW;
+l) the Appellant was a director and officer of DEW and held the position of president;
+m) during the 2002, 2003 and 2004 taxation years, PNW had a contract with DEW for the Appellant to provide services to DEW;
+n) the Appellant was responsible for the day to day operations of DEW;
+o) the Appellant directed that cheques be issued to PNW by DEW;
+p) DEW issued cheques payable to PNW totalling at least $256,610, $384,850 and $463,808 in the 2002, 2003 and 2004 taxation years, respectively (the “Amounts”);[2]
+q) the Amounts were given to PNW in respect of services performed by the Appellant;
+r) the Appellant received the Amounts as employment income from DEW for the 2002, 2003 and 2004 taxation years;
+s) the Appellant was an employee of DEW during the 2002, 2003 and 2004 taxation years;
+t) the Appellant did not earn management fees from DEW paid via PNW;
+u) the Appellant did not incur any expenses or provide any tools in the performance of his services for DEW;
+v) the Appellant used DEW staff for work related to PNW;
+w) DEW paid for all of the Appellant’s travel and business expenses, including a replacement worker while the Appellant was on vacation;
+x) the Appellant received benefits that were available to all employees of DEW, such as extended medical and dental benefits, group pension plan, annual vacations, and bonuses;
+y) any amounts that the Appellant invested in DEW was due to his shareholdings in DEW and were not investments in PNW; and
+z) the Spouse did not perform any services for DEW.
+[9] The Reply states the issue to be decided as follows:
+The issue is whether the Appellant received the Amounts as employment income from DEW.
+[10] The Reply states that the grounds relied on are that the Appellant received the Amounts as income from an office or employment under subsection 5(1) of the Income Tax Act (the “Act”).
+The Appellant’s Argument
+[11] The Appellant submits that the Reply does not disclose any reasonable grounds for opposing the appeal.
+[12] The assumptions of the Minister, taken to be proven, are:
+- the Appellant and his wife had a Partnership in which he had a two-thirds interest; assumptions 14(b) and (c)
+- the Partnership’s net income was reported and the Appellant reported business income which represented his two-thirds share in the Partnership; assumptions 14(d),(e) and (f)
+- the Partnership’s client was DEW; assumption 14(h)
+- during the subject years the Partnership had a contract with DEW for the Appellant to provide services to DEW; assumption 14(m)
+- the Appellant provided services to DEW; assumption 14(q); and
+- DEW issued cheques to the Partnership in the amounts reported as the Partnership’s gross income and were given in respect to services provided by the Appellant; assumptions 14(p) and (q).
+The Appellant argues that these facts, taken to be true, reveal there is no basis for the assessment. The Crown does not dispute the existence of the Partnership nor does it dispute that the Partnership was paid compensation by DEW under an agreement for services performed for it by a member of the Partnership. Everything the Appellant would have been required to prove has been admitted to be true. Further, it was argued that amendments to the pleadings could only contradict the factual basis of the assessment and should not be allowed.
+[13] The Appellant alleged 4 defects in the Reply that alone or together would demonstrate that it did not reveal a basis, or explain the reasons, for not accepting the plain and obvious tax result that flowed from the transactions admitted to in the pleadings. The pleadings simply establish the outcome sought. Without more, the Appellant does not know what the case is that he must meet.
+[14] The first alleged defect was that the Reply does not provide any explanation of how the Alleged Employment Income was received by the Appellant as employment income when the Amounts were paid to the Partnership. An elaboration of this alleged defect was presented largely as a series of questions with some possible answers which were not in the Reply and the absence of which is purported to underline the significance of the defect. A summary of such elaboration is as follows:
+- It appears the assessments were effected as if the Partnership did not exist. Is the existence of the Partnership being contested?
+- What are the facts and arguments that the Respondent relies on to defend the correctness of the assessment? The absence of such facts and arguments is a plain and obvious defect.
+- Why was Partnership income effectively eliminated? Why is the form of the transactions being ignored?
+- The Appellant needs to know the answer to these questions to advance proper evidence to challenge the assessment. Possible answers not included in the Reply are:
+a. The Reply does not allege that the contract between the Partnership and DEW was defective, inoperable, a sham, or in any other way legally or factually ineffective;
+b. The Reply does not allege that the Partnership was:
+i. a sham;
+ii. a simulacrum;
+iii. a mere puppet of the Appellant;
+iv. the Appellant’s alter ego;
+v. acting as the Appellant’s agent;
+vi. receiving indirect payments for the Appellant;
+vii. receiving the Amounts for the Appellant in trust; or
+viii. receiving payments that logistically were received by the Appellant as employment income;
+and,
+c. The Reply does not raise or rely upon any re-characterization provisions of the Act such as subsection 103(1.1) or the general anti-avoidance rule (the “GAAR”) to support the reassessment of Partnership income.
+[15] The second alleged defect, which purports to illustrate that the Appellant does not know the case he has to meet, is that the assessment might be taken as resting on the theory that the Appellant is an employee of the Partnership. Is the Minister challenging the line of authorities that say payments made by a partnership to a partner cannot be employment income? That is, the Reply is so defective it does not identify the underlying basis of the assessment.
+[16] The third alleged defect suggests another possible theory that the Respondent might be relying on as the basis for the assessment. If the Partnership was not set up as a business entity (assumption 14(g)), was it a flow-through entity by which the alleged character of the payment as employment income was maintained? Such an underlining issue, for which there is no legal authority, has not been identified.
+[17] The last alleged defect is that a contract between the Appellant and DEW has not been alleged. The assumption that the Appellant was an employee of DEW (assumption 14(s)) is a question of law and cannot be pleaded as an assumption. Even where it is a question of mixed fact and law the Minister can only assume the factual components relating to the question.[3] Without an allegation of a contract between the Appellant and DEW (the nature of which might have been in dispute) there is no case to meet.
+[18] The Appellant argued that saving the Reply by allowing the Respondent to redraft it would not be appropriate in this case. The Appellant referred to the “Sweet Factors”[4] in suggesting that the defects in the case at bar did not warrant my allowing amendments to the Reply.
+[19] The Appellant also referred to subsection 152(9) of the Act which allows the Minister to advance an alternative argument in support of an assessment at any time. It was submitted that such arguments still need to be expressed in the Reply in order for the Appellant to know the case he has to meet.[5] Unless the Sweet Factors permit it, the failure to plead in express terms the case to be met should not be rectified by allowing the pleadings to be redrafted. The Appellant suggests that the decisions in Continental Bank of Canada v. Canada[6] and Johnston v. Canada (Minister of National Revenue - M.N.R.)[7] still carry weight and the duty to disclose set out in those cases should not be taken as overridden by subsection 152(9) in all cases.
+[20] The Appellant also points out that the defects in the Reply are not open to being cured by a demand for particulars. Rule 52 allows such a demand in respect of an allegation made in a pleading. It does not allow for particulars of allegations not made. The Appellant is not expected to have to ask for the allegations it must meet. If they are the basis of the assessment, they must be disclosed to avoid what has happened here; namely, pleadings that give a notion of the issue but no idea of the case to meet.
+[21] Considering that there has been no request for an Order for Particulars and that the Respondent did not argue for such an Order as an alternative to my granting the Appellant’s Motion, I will not deal with the question other than to say that I am of the view that the Appellant is correct on this point. Particulars should not be resorted to as a means of discovering the underlying basis of an assessment. If the basis is missing or unclear, providing it, or even expounding on it in some cases, better comes under a discussion of amendments to pleadings.
+[22] The Appellant also argued that the Motion was not being brought too late. However, the Respondent has not questioned the timeliness of the Motion. Accordingly, I will not deal with the Appellant’s argument on this point although I see no compelling reason, in any event, in this case, to think the Motion should fail simply because it was brought after the close of pleadings.
+The Respondent’s Argument
+[23] The Respondent argued that the Reply was not deficient and submitted that the Appellant is simply arguing the strength of his case, which is a matter for the trial judge to determine.
+[24] As well, the Respondent argues:
+1. Rule 58(1)(b) should not be used unless allowing the case to go forward amounts to an abuse of process.[8]
+2. The Appellant wants the Respondent to plead arguments and evidence as assumptions, which the Respondent argues is not the purpose of the pleadings.[9] As well, it was observed that evidence that supports the Minister’s position that the services purportedly performed by the Partnership were not, in fact, performed by it, may yet be obtained during discoveries or otherwise and can be brought at trial.
+3. The Minister has pled as assumptions the factual components concerning the relationship between the Appellant and DEW that were relied on. Based on these assumptions (for example, assumptions 14(l), (n) and (u) through (x)) it is open for the trial judge to make a finding that the Appellant was an employee of DEW.
+4. The Respondent alleges that it is improper to strike an entire pleading on the basis of essentially one defect. There is a valid and justiciable issue raised in the Reply; namely, whether the Appellant received the Alleged Employment Income as employment income from DEW. The Respondent’s ability to seek adjudication of this issue should not taken away merely because more information could have been provided.
+5. The Respondent submitted that the Appellant has not met the high threshold required to succeed on the Motion.
+[25] The Respondent also made an alternative request in the event I agreed with the Appellant that the Reply did not identify the case to be met. As an alternative to allowing the Motion, the Respondent sought an Order that the Respondent be allowed to amend the Reply. As noted, the Appellant opposed the appropriateness of such an Order.
+Analysis
+[26] The Respondent is correct. The Motion seeks to have me decide the case based on the strength of the Appellant’s arguments which are aimed at defeating the assessments.
+[27] While I acknowledge that the Reply is not without its weaknesses, that is not to say that it is so deficient that it discloses no reasonable grounds for opposing the appeal.
+[28] It is clear that the form of the transactions as documented is not being recognized by the Respondent. The case I draw from the Reply is that the Appellant is being treated as the constructive recipient of the Amounts. While I cannot bind the trial judge as to the issue to be addressed, I feel sufficiently comfortable with that finding to at least say that it is not plain and obvious to me that the Minister will inevitably fail in upholding the assessments. It remains open for the Appellant to prove that the transactions were carried out in accordance with and pursuant to the documented arrangements and argue that the generally accepted law governing the tax consequences arising from those transactions should thereby be recognized.[10]
+[29] That is, it is open for the Appellant to argue that the form of the transactions in this case should mean that the taxpayer will not be regarded as an employee of DEW simply because he would be so regarded if the form were different.
+[30] Further, while I have suggested the case the Appellant might have to meet, it is open for the Respondent to argue that the Reply raises a different basis for the assessment and that, in any event, subsection 152(9) should permit an alternate basis to be raised at any time. In such circumstances it is pre-mature for me to strike the Reply.
+[31] As well, an action should not be struck simply because it might be novel in terms of there being no previous authority to support it.[11] It is always open for a court to allow an appeal to proceed simply as a means to test whether a fresh approach to this type of arrangement is possible. That, in this case, may be sufficient reason alone to allow the appeal to proceed.
+[32] Still, I feel compelled to elaborate on my suggestion that the Appellant is being treated as the constructive recipient of the Amounts. As I have said, I appreciate that, as the Motion’s Judge in this matter, I can neither dictate the issue to be resolved nor bind the hands of a trial judge who might hear this appeal. On the other hand, given that I have relied to some extent on this view of the Respondent’s case, I feel it is appropriate to elaborate somewhat on my reasons for arriving at this understanding.
+[33] Consider the following facts that are taken to be true:
+- the Partnership was not set up as a separate business entity; assumption 14(g)
+- the Appellant directed that cheques be issued to the Partnership by DEW; assumption 14(o)
+- the Amounts were given to the Partnership in respect of services performed by the Appellant; assumption 14(q)
+- the Appellant received the Amounts; assumption 14(r)[12]
+[34] If the assumptions said nothing more, would the Appellant be able to suggest that those facts do not disclose the basis for the assessment? I think not.
+[35] To defeat the assessment, the Appellant’s evidentiary task would be:
+- to establish the existence of the Partnership as a separate business entity; and
+- to refute that the cheques were merely “directed” to the Partnership but rather were paid to the Partnership as consideration for services provided by it pursuant to the contract.
+[36] The question then is whether other assumptions of the Minister sufficiently relieve the Appellant of these evidentiary burdens so as to make the Respondent’s case clearly futile; for example, the assumption that DEW was a client of the Partnership (assumption 14(h)).
+[37] It is not plain and obvious to me that any such other assumptions of the Minister are sufficient to make the Respondent’s case clearly futile. Further, even if such other assumptions assist the Appellant, it is not certain that the Respondent will not be able to bring evidence, if it exists, to support new damaging assertions, even ones contradicting those assumptions.
+[38] As well I note, looking beyond the assumptions, that the denials in the Reply set out in paragraph 7 of these Reasons, deny that the Partnership provided services to DEW, that it earned any income from DEW or that the Appellant provided services to the Partnership. These are assertions that support the view that the Appellant earned the income in question and, having directed how it was to be paid, is properly treated as the constructive recipient. They might also be assertions in respect of which the Appellant will argue the burden of proof rests with the Respondent.
+[39] Indeed, much of the challenge in this appeal may turn on issues in respect of the burden of proof considering that the Appellant may simply rely, at his risk, on the position that the Minister’s own assumptions have prima facie demolished any factual basis for supporting the assessment thereby shifting the entire burden of proof in the appeal on the Respondent. This remains to be seen as that issue cannot be resolved by me.
+[40] Before concluding these Reasons it is necessary that I deal with the issue of the Respondent still being able to raise fresh arguments in support of the assessment. I have noted that it is open for the Respondent to argue that this can still be done pursuant to subsection 152(9) which was added in response to an issue raised in Continental Bank of Canada.
+[41] In that case Bastarache J. wrote:
+10 The applicable limitation period under the Act for assessing a taxpayer is four years from the date of issuance of Revenue Canada’s Notice of Reassessment (ss. 152(3.1) and 152(4) of the Act). As a result, the latest that the Minister could have reassessed the Bank for the recapture of cost allowance was October 12, 1993. The Crown is not permitted to advance a new basis for reassessment after the limitation period has expired. The proper approach was expressed in The Queen v. McLeod, 90 D.T.C. 6281 (F.C.T.D.), at p. 6286. In that case, the court rejected the Crown’s motion for leave to amend its pleadings to include a new statutory basis for Revenue Canada’s assessment. The court refused leave on the basis that the Crown’s attempt to plead a new section of the Act was, in effect, an attempt to change the basis of the assessment appealed from, and “tantamount to allowing the Minister to appeal his own assessment, a notion which has specifically been rejected by the courts”. Similarly, the Federal Court of Appeal has described such attempts by the Crown as “a belated attempt to put the appellant’s case on a new footing” (British Columbia Telephone Co. v. Minister of National Revenue (1994), 167 N.R. 112, at p. 116).
+[42] Subsection 152(9) was enacted to ensure that the basis of an assessment could be changed by adding new or alternative arguments at any time, even beyond the normal assessing period:[13]
+152(9) Alternative basis for assessment -- The Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period unless, on an appeal under this Act
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+[43] While this provision seems quite broad, the Appellant argued that limitations on its use have been imposed that would prevent the Respondent from changing the basis of the assessment in the present case.
+[44] I agree there are circumstances in which an alternate argument could not be appropriately raised. Such limitations were set out in Anchor Pointe Energy Ltd..
+[39] [ …] This case is unlike cases such as Pedwell v. The Queen, 2000 D.T.C. 6405 (F.C.A.), where the Minister sought to take into account different transactions than the ones that formed the basis of the reassessments that were made within the normal reassessment period. I do not say that taking into account other transactions is the only thing the Minister cannot do after expiry of the normal reassessment period. Anything that increases tax payable from what would have been the case prior to expiry of the normal reassessment period would be objectionable.[14]
+[45] There is no suggestion in the case at bar that any new basis for the assessment would either take into account other transactions or increase tax payable relative to the assessments in issue. Time sensitivity to raising a new basis for the assessments therefore does not seem to be an issue.
+[46] That being the case, it might be suggested that this Court allow or require as early advance notice as possible of a change on the basis of an assessment so as to inform an appellant of the case to meet and thereby minimize the prejudice imposed by such a permissive regime.
+[47] However, I tend to agree with the Appellant in this case. I do not agree that subsection 152(9) can be given such scope as to give the Minister a free hand to amend pleadings after pleadings have closed. Considerations for allowing amendments to pleadings have been considered by this Court and have not been necessarily altered by the introduction of subsection 152(9).[15]
+[48] The leading authority on whether or not an amendment should be allowed to save a defective pleading is Sweet.[16] In that case Justice Décary set out considerations for allowing amendments that have, as noted above, become known as the Sweet Factors. The question posed was whether the pleading was "so defective that it cannot be cured by simple amendment". On this question he wrote:
+[21] It is not the duty of a judge to redraft pleadings. It is his or her duty, however, to closely examine a proceeding before determining that it cannot be saved through proper amendments. To use the words of my brother Stone in Krause (supra at 493), the judge seized with a motion under rule 419(1)(b) and (c) must decide whether the document is “so defective that it cannot be cured by simple amendment”. This determination requires a balancing act which cannot be subject to any definite norms. Each proceeding is to be assessed on its own merits, with consideration being given to, inter alia, the personal situation of the party, the issues and arguments raised, the manner and tone in which they are raised, the number and proportion of allegations that are defective and the readiness of the amendments needed. (Emphasis added.)
+[49] The Respondent in the case at bar was not ready to put forward an amended Reply. After being served with the Motion to strike the Reply, no motion was filed or served seeking an Order to permit the Minister to amend the Reply in order to advance a specific basis to support the assessment that would answer the Appellant’s concerns. No such Order was believed to be necessary. Indeed, no attempt was even made at the hearing to suggest an alternate basis to support the assessment. What was requested at the hearing of the Appellant’s Motion was only that I allow the Respondent to amend the Reply as an alternative to my simply allowing the Motion if I agreed that the Reply was that deficient. That is, if I thought the Minister needed help to save the assessment, I should give counsel for the Respondent the opportunity to review her client’s files and see what assertions, and possibly fresh assumptions, might now be made.[17] To allow this as a response to the Motion would be an abuse of process and violate the requirement of procedural fairness. Indeed, the requirement of procedural fairness, in my view, goes to the heart of the “appropriateness” limitation on the use of subsection 152(9) as prescribed in paragraph 152(9)(b).[18] One cannot use an amendment to a pleading, obtained under the umbrella of that subsection, where its application would otherwise be inappropriate.
+[50] Further, in this case, where some assumptions actually assist the Appellant, it is, in my view, best left to the trial judge to assess the wiggle room the Respondent should be allowed as it relates to burden and evidentiary onus issues in respect of new assertions that contradict those assumptions. That is, where the Reply by express admissions narrows the grounds upon which the appeal need be opposed, any leeway to expressly broaden the basis for the assessment should be left with the trial judge.
+[51] Put another way, I see no compelling reason to afford the Minister any opportunity to attempt to cooper-up its case with amendments after having the benefit of seeing the Appellant’s argument on the Motion. The Reply must be taken as accurately setting out the Minister’s assessing position. Indeed, as noted, it was the Respondent’s position that the Reply was not defective. Accordingly, if, in fact, the Reply assists the Appellant’s cause, that will remain the case at least for the time being.
+[52] Having added “for the time being”, I again recognize that I cannot bind the hands of the trial Judge or this Court should a Motion to amend the Reply be forthcoming at a future date. The authorities that speak of costs as remedying the prejudice of amending pleadings might, for example, be followed as opposed to the views I have just expressed.[19]
+[53] Lastly, I note that in not allowing the Motion, I am recognizing the height of the bar that must be met to allow striking an entire pleading so as to award one party a victory before the evidence is in and final arguments are made. The height of the bar was confirmed by the Federal Court of Appeal in Sweet as that laid out in Creaghan Estate:[20]
+[…] a presiding judge should not make such an order unless it be obvious that the plaintiff's action is so clearly futile that it has not the slightest chance of succeeding […]
+[54] Such high threshold was also expressed by the Supreme Court of Canada in Canada (Attorney General) v. Inuit Tapirisat of Canada[21] where Estey J. wrote:
+[…] On a motion such as this a court should, of course, dismiss the action or strike out any claim made by the plaintiff only in plain and obvious cases and where the court is satisfied that ‘the case is beyond doubt.’[…]
+[55] As I have said, the Respondent’s case is not clearly futile and its outcome is not beyond doubt. Striking a pleading so as to award one party a victory at this stage of an appeal is a severe measure only to be taken in circumstances that speak loudly for its invocation such as, for example, the case in Hovey Ventures Inc. v. Canada.[22] In that case the appellant raised a “natural person” argument presented in a “manner and tone” more in keeping with the advancement of an anti‑tax campaign than an assertion of the incorrectness of the assessment. There, the striking of the appeal was warranted as the outcome was “beyond doubt”.
+[56] Accordingly, for all these reasons, the Motion is dismissed. Costs shall be in the cause.
+Signed at Ottawa, Canada this 16th day of June 2010.
+"J.E. Hershfield"
+Hershfield J.
+CITATION: 2010 TCC 318
+COURT FILE NO.: 2009-1659(IT)G
+STYLE OF CAUSE: STEPHEN CUDMORE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: March 17, 2010
+REASONS FOR ORDER BY: The Honourable Justice J.E. Hershfield
+DATE OF ORDER: June 16, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Gavin Laird
+Counsel for the Respondent:
+Selena Sit
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Gavin Laird
+Firm: Smetheram & Company
+600 – 1090 West Georgia Street
+Vancouver, British Columbia, V6E 3V7
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Respondent asserts the net business income reported in those years by the Appellant was less than pleaded by the Appellant. Since the issue before me was who earned the compensation for services rendered, such differences were not addressed at the hearing.
+[2] The “Amounts” are the amounts paid by DEW to the Partnership each year. While they should be the same as the “Alleged Employment Income” amounts for each year as defined by the Appellant, a comparison of assumptions 14(f) and (p) shows that there is an underlying issue as to the Partnership’s gross receipts. As noted above, since the issue before me was who earned the compensation for services rendered, such differences were not addressed at the hearing.
+[3] See Anchor Pointe Energy Ltd. v. Canada, 2003 F.C.A. 294, Rothstein J.A., as he was then, at paragraph 26.
+[4] See Sweet v. Canada, [1999] F.C.J. No. 1539 (F.C.A.).
+[5] Reliance is placed on Canada v. Loewen, 2004 F.C.A. 146, paragraph 4 in which Sharlow J.A. writes: “The Crown responds to the appeal on behalf of the Minister of National Revenue by filing a ‘reply’. The Reply states the Crown’s position with respect to each factual allegation and argument in the notice of appeal, and also states the facts and arguments upon which the Crown relies to defend the correctness of the assessment.” See footnote 9 to these Reasons.
+[6] [1998] 2 S.C.R. 358.
+[7] [1948] S.C.R. 486.
+[8] Glenmaroon Holdings (1986) Ltd. v. Canada, [1997] 2 C.T.C. 2426.
+[9] Foss v. The Queen, 2007 T.C.C. 201; Mastronardi v. The Queen, 2010 T.C.C. 57. I note here that the cases relied on by the Respondent clearly are authoritative for the position that the function of the pleadings is not to set out the evidence on which a party will rely. However, these cases and others like them are far from authoritative as to whether arguments need to be pleaded. In Mastronardi the suggestion was that pleadings should not go so far as to show the opposing side “how it intends to argue the purpose, object and spirit of these provisions as well as their potential misuse and abuse under section 245 of the Act.” On the facts of that case each party took a different position with respect to whether the requirements of section 245 were met. The legal issue was sufficiently identified for the purposes of identifying the case to be met. The pleadings did not have to elaborate further. That is, the requirement laid out in cases like Johnston was met. In Johnston, Rand J. writing for the majority found at page 4, in the penultimate paragraph of his reasons, that the Crown had a duty to fully disclose “the precise findings of fact and rulings of law which have given rise to the controversy.” In Loewen, Sharlow J.A. makes a broader statement that the Crown should state the arguments relied upon. It appears that the need, if any, to plead arguments and, if needed, the extent to which they should be pleaded, depends on what is necessary to identify the issue to be resolved. The overarching consideration must be whether the taxpayer knows the basis upon which they are being assessed so they may adduce the proper evidence to challenge the assessment. See Continental Bank of Canada v. Canada at paragraph 13. If identifying the issue requires some indication of the argument relied on, it might well be necessary for it to be included in the pleadings. If the inclusion is a new argument being raised after the close of pleadings, permitting it would likely not only be subject to the limitations discussed in cases like Sweet, but would be subject to limitations raised in the context of subsection 152(9) as discussed later in these Reasons.
+[10] See Shell Canada v. The Queen, [1999] 3 S.C.R. 622, McLachlin J. (as she was then) at paragraph 39 and The Queen v. Friedberg, [1992] 1 CTC 1 at paragraph 5.
+[11] See Hunt v. Carey Canada, [1990] 2 S.C.R. 959, and Gilbert Surgical Supply Co. v. Frank W. Horner Ltd., [1960] O.J. No. 158.
+[12] I have not included here that part of the assumption in 14(r) that states that the Appellant received the Amounts “as employment income” as that is clearly a question of law that must be disregarded. Similarly assumption 14(s) has no place in the Reply, however, the Motion does not include a request to strike such questions of law from the Reply. Nonetheless, it should go without saying that they cannot be taken as proven or true. As to the amounts received by the Appellant’s spouse, it seems consistent to suggest that the Reply regards the Appellant as the constructive recipient of those as well; assumptions 14(r) and (z).
+[13] Loewen, at paragraph 47 in which Sharlow J.A. held that there was no distinction between a new argument raised at the conclusion of the objection stage and a new argument raised at the pleadings stage.
+[14] This case was disposed of well after the introduction of subsection 152(9).
+[15] While subsection 152(9) permits raising an alternative argument after the normal assessment period, the inference is that the subsection does not have to be relied on to permit an alternative argument before the expiry of the normal assessment period. As well, the coming into force provision for this subsection gives it effect for all appeals disposed after June 17, 1999. The inference there is that an alternative argument can be brought at any point in the proceedings until the case is finally disposed of. That is the latitude required to fully respond to limitations suggested in Continental Bank.
+[16] Sweet was disposed of a few months after the coming into force date of subsection 152(9). However, no mention of that provision is made in the Judgment.
+[17] Such opportunity was expressly requested at the hearing as an alternative to my striking the Reply.
+[18] Support for this is found in Walsh v. Canada, 2007 F.C.A. 222, Richard C.J. at paragraph 18.
+[19] Motions to amend pleadings are generally granted so long as the Appellant is not prejudiced or is compensated through an award of costs. In The Queen v. Canderel, [1993] 1 F.C. 3 at paragraph 9, Décary J.A. stated that “the general rule is that an amendment should be allowed at any stage of an action for the purpose of determining the real questions in controversy between the parties, provided, notably that the allowance would not result in an injustice to the other party not capable of being compensated by an award of costs and that it would serve the interests of justice.” (Emphasis added.).
+[20] [1972] F.C. 732.
+[21] [1980] 2 S.C.R. 735.
+[22] 2007 T.C.C. 139.

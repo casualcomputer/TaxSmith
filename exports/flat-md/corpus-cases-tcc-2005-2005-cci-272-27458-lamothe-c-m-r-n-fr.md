@@ -1,0 +1,212 @@
+---
+title: "Lamothe c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27458/index.do"
+last_modified: "2005-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 272"
+citation2: ""
+neutral_citation: "2005 CCI 272"
+decision_date: "2005-05-02"
+language: "fr"
+item_id: "27458"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 214
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:57:41.421000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "28e0e5c6b746cdb6ec0bfe3389180295c4580d2b32bbff7a26389b9ee8300260"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lamothe c. M.R.N.
+
+- Citation: 2005 CCI 272
+- Decision date: 2005-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 214, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lamothe c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-02
+Référence neutre
+2005 CCI 272
+Numéro de dossier
+2004-3329(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-3329(EI)
+ENTRE :
+DANIEL LAMOTHE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+PHILIPPE LAMOTHE INC.
+intervenante.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Philippe Lamothe inc. (2004‑2997(EI)) le 30 mars 2005 à Sherbrooke (Québec)
+Devant : L’honorable juge Paul Bédard
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l'intimé :
+Me Nancy Dagenais
+Représentant de l’intervenante :
+Philippe Lamothe
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision rendue par le ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de mai 2005.
+« PaulBédard »
+Juge Bédard
+Référence : 2005CCI272
+Date : 20050502
+Dossier : 2004-3329(EI)
+ENTRE :
+DANIEL LAMOTHE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+PHILIPPE LAMOTHE INC.
+intervenante,
+ET
+Dossier : 2004-2997(EI)
+PHILIPPE LAMOTHE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Les appelants interjettent appel de la décision du ministre du Revenu national (le « ministre ») selon laquelle l’emploi exercé par monsieur Daniel Lamothe (l'« employé ») au cours de la période pertinente, soit du 1er juin au 21 novembre 2003, lorsqu’il était au service de Philippe Lamothe inc. (le « payeur ») est exclu des emplois assurables au sens de la Loi sur l’assurance‑emploi (la « Loi ») au motif qu’il existait un lien de dépendance entre le payeur et l’employé.
+[2] Le paragraphe 5(1) de la Loi se lit en partie comme suit :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[3] Les paragraphes 5(2) et 5(3) de la Loi se lisent en partie comme suit :
+(2) N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+(3) Pour l'application de l'alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l'impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[4] L’article 251 de la Loi de l’impôt sur le revenu se lit en partie comme suit :
+(1) Pour l'application de la présente loi :
+a) des personnes liées sont réputées avoir entre elles un lien de dépendance;
+[...]
+(2) Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l'union de fait ou de l'adoption;
+b) une société et :
+(i) une personne qui contrôle la société si cette dernière est contrôlée par une personne,
+(ii) une personne qui est membre d’un groupe lié qui contrôle la société,
+(iii) toute personne liée à une personne visée au sous‑alinéa (i) ou (ii);
+[…]
+(3) Lorsque deux sociétés sont liées à une même société au sens du paragraphe (2), elles sont, pour l’application des paragraphes (1) et (2), réputées être liées entre elles.
+[...]
+(6) Pour l’application de la présente loi :
+a) des personnes sont unies par les liens du sang si l’une est l’enfant ou un autre descendant de l’autre ou si l’une est le frère ou la sœur de l’autre;
+b) des personnes sont unies par les liens du mariage si l’une est mariée à l’autre ou à une personne qui est ainsi unie à l’autre par les liens du sang;
+b.1) des personnes sont unies par les liens d’une union de fait si l’une vit en union de fait avec l’autre ou avec une personne qui est unie à l’autre par les liens du sang;
+c) des personnes sont unies par les liens de l’adoption si l’une a été adoptée, en droit ou de fait, comme enfant de l’autre ou comme enfant d’une personne ainsi unie à l’autre par les liens du sang (autrement qu’en qualité de frère ou de sœur).
+[5] Le ministre a soutenu que le payeur et l’employé sont des personnes liées au sens de la Loi de l’impôt sur le revenu car :
+5.a) l’unique actionnaire du payeur était la société 2173‑5659 Québec inc.;
+b) les actionnaires de 2173-5659 Québec inc. étaient :
+- 2173-5816 Québec inc. avec 58 % des actions;
+- Jocelyne Lamothe avec 14 % des actions;
+- Linda Lamothe avec 14 % des actions;
+- l’appelant avec 14 % des actions;
+c) Philippe Lamothe était l’unique actionnaire de 2173-5816 Québec inc.;
+d) l’appelant, Jocelyne et Linda Lamothe sont les enfants de Philippe Lamothe;
+e) l’appelant est lié à Philippe Lamothe qui contrôlait le payeur.
+[6] Le ministre s’est aussi appuyé sur les hypothèses de fait suivantes énoncées au paragraphe 6 de la Réponse à l’avis d’appel :
+a) le payeur exploite une carrière;
+b) l’entreprise est saisonnière;
+c) l’entreprise employait cinq personnes dont trois à la carrière;
+d) durant la période en litige, l’appelant a rendu des services au payeur principalement comme opérateur de machinerie lourde;
+e) de plus, il faisait de l’entretien mécanique et opérait une scie mécanique;
+f) il travaillait 40 heures par semaine;
+g) le payeur versait à l’appelant une rémunération de 374,40 $ brut par semaine;
+h) le 4 septembre 2003, le payeur a versé à l’appelant, en plus de son salaire hebdomadaire, un boni de 10 000,00 $;
+i) durant la période en litige, le payeur a versé à l’appelant une rémunération totale de 19 360 $ soit 25 semaines à 374,40 $ plus 10 000 $;
+j) le salaire versé à l’appelant était déraisonnable compte tenu des tâches effectuées;
+k) le 24 novembre 2003, le payeur a émis un relevé d’emploi au nom à l’appelant indiquant le 1erjuin 2003 comme premier jour de travail, le 21 novembre 2003 comme dernier jour payé et 1 000 heures assurables, soit 25 semaines de 40 heures;
+l) l’appelant avait besoin de 910 heures d’emploi assurable pour pouvoir se qualifier aux prestations de chômage;
+m) l’appelant a été inscrit au registre des salaires du payeur jusqu’au 21 novembre 2003 alors que le payeur avait mis à pied le contremaître de la carrière le ou vers le 21 septembre 2003;
+n) durant le dernier trimestre de l’année (septembre, octobre et novembre) le payeur ne déclarait que 170 $ de revenu brut;
+o) la période d’emploi de l’appelant ne correspond pas à la période d’activités du payeur.
+Analyse
+[7] D’abord, je suis d’avis que le payeur et l’employé sont des personnes liées en vertu de l'article 251 de la Loi de l’impôt sur le revenu et sont donc réputés avoir entre eux un lien de dépendance.
+[8] La Cour d’appel fédérale a défini à plusieurs reprises le rôle confié par la Loi à un juge de la Cour canadienne de l’impôt. Ce rôle ne permet pas au juge de substituer sa décision à celle du ministre, mais il emporte l’obligation de « vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, […] décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable »[1].
+[9] En d’autres termes, avant de décider si la conclusion dont le ministre était convaincu me paraît toujours raisonnable, je dois, à la lumière de la preuve dont je dispose, vérifier si les hypothèses de fait du ministre sont, malgré tout, bien fondées en tout ou en partie compte tenu des facteurs que mentionne l’alinéa 5(3)b) de la Loi.
+[10] Il y a lieu de se demander si, n’eût été du lien de dépendance, le payeur et l’employé auraient conclu un tel contrat de travail. Autrement dit, est-ce que les conditions d’emploi étaient plus avantageuses du fait que le payeur et l’employé avaient un lien de dépendance?
+[11] La preuve a révélé que :
+i) le payeur était propriétaire de machinerie lourde (chargeur pneumatique, camion, etc.) et d’équipement (concasseur) normalement utilisés dans l’exploitation d’une carrière. Le payeur était aussi propriétaire d’un garage;
+ii) la principale activité du payeur consistait à louer l’équipement et la machinerie lourde (l’« équipement ») et à fournir le personnel nécessaire au fonctionnement de l’équipement à Construction Frontenac inc., une société contrôlée par le frère de l’employé et qui exploitait notamment une carrière dont elle était propriétaire;
+iii) le payeur avait versé à l’employé une rémunération de 374,40 $ brut par semaine, et ce, pendant les 25 semaines de la période en litige;
+iv) le 4 septembre 2003, le payeur avait versé à l’employé, en plus de son salaire hebdomadaire, une prime de 10 000 $. En effet, le 31 juillet 2003, les administrateurs déclaraient par résolution (pièce I-3) les primes suivantes en contrepartie des services rendus au cours de l’exercice :
+a) 10 000 $ à l’employé;
+b) 600 $ à monsieur Jean-Denis Vachon, le contremaître qui supervisait l’employé;
+v) durant la période pertinente, le payeur avait ainsi versé à l’employé une rémunération globale de 19 360 $, soit 374,40 $ par semaine pendant 25 semaines, plus une prime de 10 000 $;
+vi) le salaire des autres employés du payeur variait entre 10 $ et 14 $ l’heure (pièce A-6);
+vii) les revenus d’exploitation du payeur pour la période du 30 juin au 30 septembre 2003 étaient de 30 772 $ et, pour la période du 30 septembre au 31 décembre 2003, ils étaient de 170 $. De plus, le payeur avait subi une perte avant impôts de 50 515 $ durant son exercice se terminant le 30 novembre 2003.
+Témoignage de l’employé
+[12] L’employé a témoigné que, pendant la période du 1er juin au 21 septembre 2003, il avait rendu des services au payeur principalement comme opérateur de l’équipement. Il a affirmé qu’il avait travaillé 40 heures par semaine pendant cette période. Le témoignage de l’employé à cet égard a été corroboré par le témoignage de monsieur Denis Vachon, le superviseur immédiat de l’employé. Il a relaté que l’employé avait travaillé sous sa direction pendant cette période, et ce, 40 heures par semaine. Il a ajouté qu’il avait pris en note les heures de travail de l’employé pendant cette période.
+[13] Pour la période du 21 septembre au 21 novembre 2003, l’employé a témoigné qu’il avait travaillé 40 heures par semaine. Ses activités avaient consisté essentiellement à faire l’entretien du garage du payeur, à trier et classer les pièces de remplacement pour l’équipement dans l'entrepôt de pièces du payeur et à faire l'isolation du garage. Pour appuyer son témoignage à l’égard de l’isolation du garage, l’employé a déposé en preuve des factures et des états de compte qui devaient démontrer qu’il avait bel et bien acheté les matériaux requis pour isoler le garage.
+[14] Enfin, l’employé a témoigné que la prime de 10 000 $ qu’il avait reçue avait servi à rembourser une dette due au payeur par une société qu’il contrôlait.
+[15] L’appelant m’a convaincu qu’il avait bel et bien travaillé 40 heures par semaine pour le payeur pendant la période du 1er juin au 21 septembre 2003. D’ailleurs, le témoignage de l’employé a été corroboré à cet égard par le témoignage crédible de monsieur Vachon. Toutefois, je doute fort que l’employé ait travaillé quarante heures par semaine pendant la période du 21 septembre au 21 novembre 2003. D’abord, rappelons que l’employé a témoigné qu’il avait notamment fait l'isolation du garage du payeur pendant cette période et qu’il avait déposé en preuve des factures et des états de compte pour appuyer son témoignage. L’examen de ces factures et états de compte a démontré que les matériaux avaient été achetés par Construction Frontenac inc. et non par le payeur en décembre 2003, donc après la période pertinente, ce qui laisse planer un sérieux doute sur la prestation réelle de travail pendant cette période. Comment puis-je ajouter foi par la suite au témoignage de l’employé quand il n’est pas appuyé par un témoignage indépendant et crédible ou par une preuve objective sérieuse? D’ailleurs, le témoignage de l’employé à l’égard de ses activités pour cette période ne fut pas appuyé par quelque témoignage indépendant et crédible, à l’exception de celui de monsieur Vachon, qui a relaté avoir vu à l’occasion l’employé couper des arbres à la carrière pour élargir la zone d’exploitation de cette dernière et faire du ménage dans le garage. Je tiens à souligner que l’employé n’avait nullement fait mention dans son témoignage de la coupe d’arbres avant que monsieur Vachon n'en fasse état dans son témoignage. J’en conclus donc que l’employé n’a pas satisfait au fardeau de la preuve qui reposait sur lui de démontrer, selon la prépondérance des probabilités, qu’il y a eu une prestation réelle de travail, et ce, pendant toute la période. Ce n’est certes pas en déposant en preuve des pièces justificatives qui vont à l’encontre de son témoignage qu’il pouvait se décharger du fardeau de la preuve qui reposait sur lui.
+[16] De plus, je suis d’avis que la rémunération que l’employé a reçue pour les services qu’il aurait rendus est tout à fait déraisonnable. Rappelons que l’employé avait reçu du payeur pendant la période pertinente une rémunération globale de 19 360 $ pour 1 000 heures de travail, représentant une rémunération horaire de 19 $. Je suis d’avis que le payeur, n’eût été du lien de dépendance, n’aurait pas versé une telle rémunération à l’employé. Rappelons d’abord que la preuve a révélé que la rémunération horaire des autres employés du payeur variait entre 10 $ et 14 $. De plus, le père de l’employé, qui contrôlait le payeur, n’avait-il pas témoigné que le payeur avait versé une rémunération horaire de 11 $ à monsieur Serge Caron, la personne qui avait remplacé l’employé? L’employé a prétendu que sa rémunération horaire était plus que raisonnable puisqu’elle avait été d’environ 9 $. Il a soutenu que je ne devais pas tenir compte de la prime de 10 000 $ parce que cette prime avait servi à rembourser un prêt que la société qu’il contrôlait devait au payeur. Je suis d’avis que la prime que l’employé a reçue faisait partie de sa rémunération pendant la période pertinente. Je suis aussi d’avis que l’utilisation que l’employé avait faite de la prime n’est absolument pas pertinente en l’espèce.
+[17] À la lumière de la preuve dont je dispose, après examen des facteurs mentionnés à l’alinéa 5(3)b) de la Loi et après vérification du bien-fondé des hypothèses de fait du ministre, la conclusion dont le ministre était convaincu me paraît raisonnable.
+[18] Pour ces motifs, l’appel est rejeté et la décision du ministre est confirmée.
+Signé a Ottawa, Canada, ce 2e jour de mai 2005.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2005CCI272
+Nº DU DOSSIER DE LA COUR : 2004-3329(EI) et 2004-2997(EI)
+INTITULÉ DE LA CAUSE : Daniel Lamothe et M.R.N. et
+Philippe Lamothe inc.; Philippe Lamothe inc. c. M.R.N.
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : le 30 mars2005
+MOTIFS DE JUGEMENT PAR : L’honorable juge Paul Bédard
+DATE DU JUGEMENT : le 2 mai 2005
+COMPARUTIONS :
+Pour l’appelant :
+L’L’appelant lui-même
+Avocate de l'intimé :
+Me Nancy Dagenais
+Pour l’intervenante :
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Étude :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario
+Pour l’intervenante :
+[1] Légaré c. Canada (ministre du Revenu national – M.R.N.), C.A.F., no A-392-98, 28 mai 1999, [1999] A.C.F. no 878 (Q.L.), au paragraphe 4.

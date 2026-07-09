@@ -1,0 +1,171 @@
+Title: Burstein c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29113/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-103-29113-burstein-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-02-20
+
+# Burstein c. La Reine
+
+- Citation: 2009 CCI 103
+- Decision date: 2009-02-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6674, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Burstein c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-20
+Référence neutre
+2009 CCI 103
+Numéro de dossier
+2005-315(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-315(IT)G
+ENTRE :
+HARRY BURSTEIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Requête entendue le 20 novembre 2008, à Montréal (Québec).
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me André P. Gauthier
+Avocats de l'intimée :
+Me Bernard Lafontaine
+Me Chantal Roberge
+____________________________________________________________________
+JUGEMENT
+VU le mémoire conjoint des parties demandant à la Cour de se prononcer sur deux questions de droit et de faits en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (Procédure générale) :
+a)Nonobstant le fait que les avis de nouvelles cotisations n’ont pas été postés à l’adresse de l’appelant en Israël, l’appelant est-il préclus de prétendre que le processus de nouvelle cotisation n’a pas été complété en conformité avec le paragraphe 152(2) de la Loi de l’impôt sur le revenu?
+b) Est-ce que le processus de cotisation a été complété avant que la révocation de la renonciation à l’application de la période normale de nouvelle cotisation ne prenne effet?
+La réponse aux deux questions se répond dans la négative, le tout selon les motifs du jugement ci‑joints. Chaque partie prend ses propres frais à sa charge.
+Signé à Edmundston (Nouveau-Brunswick), ce 20e jour de février 2009.
+« François Angers »
+Juge Angers
+Référence : 2009 CCI 103
+Date : 20090220
+Dossier : 2005-315(IT)G
+ENTRE :
+HARRY BURSTEIN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Les parties ont demandé à la Cour de se prononcer sur deux questions de droit et de faits soulevées dans la présente instance en vertu des dispositions de la Règle 58 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») et la Cour a acquiescé à cette demande. La Cour a également autorisé les parties à exposer la preuve jugée nécessaire dans la détermination des questions soumises à la Cour ce à quoi d’ailleurs les parties ont consenti. Le mémoire exposant les faits se lit comme suit :
+1. L’appelant a produit ses déclarations de revenus pour les années d’imposition 1997 et 1998 dans les délais prescrits, indiquant qu’il avait comme adresse « c/o Bruce Greenberg, 25 The Bridle Path, North York, Ontario, M2L 1C9 ».
+2. Les cotisations initiales pour les années d’imposition 1997 et 1998 ont été établies les 15 juin 1998 et 8 novembre 1999, respectivement.
+3. Le 27 avril 2001, l’Appelant a fait parvenir à l’Agence du revenu du Canada (ci-après l’« ARC ») une demande de détermination de résidence (formulaire NR73) indiquant qu’il avait quitté le Canada depuis le 4 avril 1998 et qu’il demeurait au 46 Sharet, Tel Aviv, Apt. 4, Israël 62910.
+4. Le 29 mai 2001, l’appelant a fait parvenir un formulaire intitulé « Waiver in respect of the normal reassessment period » pour son année d’imposition 1997, donnant son adresse comme étant c/o Bruce Greenberg, 25 the Bridle Path, Toronto, Ontario M2L 1C9, soit l’adresse qui apparaît sur sa déclaration de revenus.
+5. Une lettre datée du 22 octobre 2002 a été envoyée par la vérificatrice, Judith Heath de l’ARC, à l’appelant, à l’adresse de son fils, Jay Burstein, au 55 Banncockburn Avenue, Toronto, ON M5M 2M9 concernant un projet de nouvelle cotisation.
+6. Me Josée Vigeant, du cabinet d’avocats Heenan Blaikie, est entrée en contact téléphonique avec la vérificatrice Mme Heath pour discuter du projet de nouvelle cotisation et a indiqué qu’elle fournirait un formulaire T1013 dûment signé par l’Appelant à l’égard de l’année 1997.
+7. Le 22 novembre 2002, l’appelant a transmis à l’ARC le formulaire T1013 indiquant son adresse en Israël, soit 46 Sharet, Tel Aviv, Apt. 4, Israël 62910. Le formulaire T1013 indique également à titre de représentants dûment autorisés Mes Josée Vigeant et André P. Gauthier de Heenan Blaikie et leur adresse à savoir, 1250, boul. René-Lévesque O., suite 2500, Montréal, Québec H3B 4Y1.
+8. Les procureurs de l’appelant ont transmis un mémoire de représentations à Mme Heath à l’égard du projet de nouvelle cotisation. Par la suite, il n’y a pas eu de communication entre ces personnes. La question de l’adresse à laquelle les avis de nouvelles cotisations devaient être envoyés n’a jamais fait l’objet de discussions entre Mme Heath et les procureurs de l’intimée ni entre Mme Heath et l’appelant ou un autre de ses représentants.
+9. Après que Mme Heath eut terminé son analyse des représentations faites par les procureurs de l’appelant et, par le fait même, sa vérification, et croyant rendre service à l’appelant, elle a fait en sorte que les avis de nouvelles cotisations datés du 30 septembre 2003 pour les années d’imposition 1997 et 1998 soient adressés par le ministre du Revenu national à l’appelant comme suit :
+Harry Burstein
+c/o Heenan Blaikie
+1250 René-Lévesque Blvd. West, Suite 2500
+Montréal QC
+H3B 4Y1
+10. Sous réserve de l’interprétation à donner au formulaire T-1013, l’Appelant n’a jamais autorisé l’ARC à envoyer les avis de cotisation à l’adresse mentionnée au paragraphe précédent.
+11. Les avis de nouvelle cotisation n’ont pas été retournés à l’expéditeur par le cabinet Heenan Blaikie.
+12. Le ou vers le 8 octobre 2003, un état de compte était adressé à Me André P. Gauthier concernant l’appelant réclamant le paiement d’une dette s’élevant à 6 806 666,80 $ relativement aux années 1997 et 1998 pour lesquelles des cotisations auraient été émises le 30 novembre 2003.
+13. Le 14 octobre 2003, un courriel était envoyé par Mme Joceline Pruneau, adjointe de Me Gauthier, à Me John Fuke, un avocat du bureau de Toronto du cabinet Heenan Blaikie, lui demandant d’obtenir de l’appelant les avis de cotisation le plus rapidement possible.
+14. L’appelant était un client de Me Fuke, à l’époque où ce dernier était un associé au sein du cabinet Heenan Blaikie. Me Fuke, qui est maintenant à la retraite, avait, à l’époque de la vérification, cessé d’être associé et confié ses clients à une autre associée, à savoir Me Bueschkens.
+15. Compte tenu du fait que l’appelant n’a jamais reçu les cotisations et donc ne pouvait les transmettre à ses procureurs, ces derniers ont communiqué avec la section du recouvrement des recettes du bureau des services fiscaux de Montréal le 28 octobre 2003 afin d’obtenir un relevé détaillé des dettes affectant les années 1997 et 1998.
+16. Le 28 octobre 2003, les procureurs de l’appelant recevaient par télécopieur un état de compte détaillé, tel que demandé.
+17. Le 20 novembre 2003, Me Josée Vigeant s’est rendue à la division du Service à la clientèle du bureau des services fiscaux de Montréal et a obtenu un imprimé informatique des cotisations relatives aux années 1997 et 1998 puisque jusqu’à cette date, ni Me Gauthier ni elle-même n’avait reçu les avis de cotisation transmis par l’ARC.
+18. À cette même occasion, Me Vigeant a livré de la main à la main au Ministre le formulaire T652 signé par l’appelant révoquant la renonciation à l’application de la période normale de nouvelle cotisation concernant l’année d’imposition 1997.
+19. Ce n’est qu’à partir de ce moment et après avoir demandé un historique des adresses au système de l’ARC que Me Vigeant a entamé des recherches plus actives au sein de son propre cabinet pour retracer les cotisations.
+20. Le cabinet Heenan Blaikie fait affaire avec une entreprise externe pour la réception du courrier. Les personnes travaillant pour cette entreprise ne sont pas autorisées à ouvrir le courrier. Dans la mesure où une enveloppe n’est pas adressée à un avocat mais plutôt à un client, le service de courrier fait une recherche au sein du système de gestion de la clientèle du cabinet afin de connaître le nom de l’associé responsable du client. Dans le cas de l’appelant, l’enveloppe contenant les avis de nouvelle cotisation s’est retrouvée au dossier de Me Bueschkens du cabinet Heenan Blaikie, laquelle n’était nullement mandatée par l’appelant dans le cadre de ce litige, pas plus qu’elle n’était son représentant autorisé. Bien que Me Gauthier et Me Vigeant aient été les seuls avocats chez Heenan Blaikie à Montréal qui agissaient pour l’appelant, et ce, depuis au moins novembre 2002, le système de gestion de la clientèle n’a pas permis que les avis de nouvelles cotisations leur soit transmis, n’étant pas conçu pour ce faire.
+21. Me Gauthier et Me Vigeant ignorent à quel moment les originaux des cotisations leur ont été transmis è la suite de ces recherches. Me Gauthier et Me Vigeant étaient mandatés pour faire opposition et pour soulever tout moyen et tout motif à leur disposition.
+22. Me Gauthier et Me Vigeant son des avocats spécialisés en matière fiscale et l’ARC est chargée de l’application de la Loi de I’impôt sur le revenu (« L.I.R. »).
+23. L’appelant s’est dûment opposé au cours du mois de décembre 2003, soit à l’intérieur des délais pour ce faire, aux nouvelles cotisations pour les années d’imposition 1997 et 1998 en indiquant à nouveau sur les formulaires prescrits (T400A) signés par lui, son adresse de correspondance du 46 Sharet, Apt. 4 Tel Aviv , Israël, 62910. La date des avis de nouvelle cotisation y est indiquée comme le 30 septembre 2003. Dans la case pré-imprimée « name and address of any authorised representative, if applicable » est inscrit « Heenan Blaikie L.L.P., 1250 René-Lévesque Blvd. West, Suite 2500, Montréal Quebec H3B 4Y1, Mtres Andre P. Gauthier and Josee Vigeant. ».
+24. Le mémoire de faits et de droit joint aux avis d’opposition détaillait certains des faits sur lesquels s’appuyait l’appelant quant aux redressements effectués et il y était indiqué à un endroit qu’une des question était : « Whether the reassessment process in respect of both taxation years was completed on September 30th, 2003 » et la seule représentation faite à cet égard était : « Further we submit that the Minister has not completed the reassessment in respect of both taxation years. ».
+25. Par lettre en date au 14 janvier 2004 adressée au 46 Sharet, Apt. 4, Tel Aviv, Israël 62910, le chef des Appels du bureau des Services fiscaux de Toronto Nord avisait l’Appelant que son dossier était assigné à monsieur Tom Kung.
+26. Par lettre en date du 30 janvier 2004 adressée aux procureurs de l’Appelant, avec copie à l’Appelant à son adresse de Tel Aviv en Israël, l’agent des appels, monsieur Tom Kung, accordait 30 jours pour fournir de la documentation ou faire des représentations additionnelles à défaut de quoi les oppositions seraient traitées sur la base des informations apparaissant au dossier. Aucun contact n’a été effectué ni information fournie par l’appelant ou par ses procureurs à M. Kung durant ladite période de trente jours, ou avant le 26 mars 2004.
+27. Le 26 mars 2004, Me Vigeant a communiqué avec monsieur Tom Kung. M. Kung lui a indiqué que le dossier serait assigné à quelqu’un d’autre vu le type de questions soulevées. Me Vigeant n’a pas fourni de détails quant à l’avis d’opposition. La conversation a duré au maximum une minute.
+28. Le 5 avril 2004, madame Vonda Yantsis, de la division des appels, a pris l’initiative de communiquer par téléphone avec Me Vigeant pour lui faire part qu’elle était maintenant l’agente chargée de revoir le dossier de l’appelant. A cette fin, elle a laissé un message dans la boîte vocale de Me Vigeant et a signalé qu’elle référait le dossier à l’administration centrale tout en lui laissant ses coordonnées et en l’invitant à communiquer avec elle si elle désirait quelque information.
+29. Le 8 octobre 2004, Mme Yantsis a communiqué par téléphone la position du Ministre et son intention de ratifier les cotisations à Me Vigeant. Cette dernière a demandé d’obtenir certains documents que Mme Yantsis s’est engagée à lui fournir.
+30. Quelques minutes plus tard, Mme Yantsis a rappelé Me Vigeant pour l’informer que certains documents n’étaient pas au dossier et qu’ils ne pourraient lui être fournis.
+31. Selon Mme Yantsis, c’est lors de cette deuxième conversation téléphonique que Me Vigeant a dit que l’appelant n’avait pas autorisé l’envoi des avis de nouvelles cotisations à l’adresse de Heenan Blaikie. Selon Me Vigeant, c’est plutôt lors de la première conversation téléphonique que cette discussion a eu lieu.
+32. Le 8 octobre 2004, c’était la première fois que l’appelant ou l’un quelconque de ses représentants donnait des informations indiquant ou expliquant au Ministre ou à l’un de ses représentants en quoi le processus de nouvelle cotisation n’aurait pas été complété le 30 septembre 2003. Aucune autre explication n’a été donnée à Mme Yantsis ou par la suite avant la production de l’avis d’appel.
+33. Dans son rapport traitant de la façon dont elle dispose des avis d’opposition, Mme Yantsis n’a pas traité de la question de savoir si les avis d’appel auraient dû être envoyés en Israël, mais plutôt si le processus de nouvelle cotisation a été complété par l’envoi de l’avis de nouvelle cotisation.
+34. Selon Mme Yantsis, si elle avait su que les procureurs de l’appelant prenaient la position que les avis de nouvelles cotisations auraient dû être envoyés à l’appelant à une adresse donnée en Israël, elle aurait fait en sorte que des avis soit envoyés à cette adresse.
+35. Par lettre en date du 21 octobre 2004, la division des Appels a transmis la décision du ministre ratifiant les nouvelles cotisations pour les années d’imposition 1997 et 1998. Cette lettre a été adressée à :
+Harry Burstein
+C/O Heenan Blaikie – A. Gauthier
+2500 – 1250 Boul. Rene-Levesque
+Montreal Quebec
+H3B 4Y1
+36. Une copie de cette lettre et des avis de ratification a été envoyée à « Mtres Andre P. Gauthier and Josee Vigeant Heenan Blaikie L.L.P., 1250 Rene-Levesque Blvd. Suite 2500, Montréal, Québec H3B 4Y1 ».
+37. Au paragraphe 15 de son avis d’appel, l’appelant indique que « Le 21 octobre 2004, le ministre du Revenu national confirmait les nouvelles cotisations pour les années 1997 et 1998. »
+38. Dans son paragraphe 27 de l’avis d’appel, l’appelant indique que « le processus de cotisation pour les années 1997 et 1998 n’a jamais été complété puisque les cotisations n’ont pas été envoyées à l’Appelant conformément au paragraphe 152(2) L.I.R. »
+39. Aucune allégation de présentation erronée de faits, par négligence, inattention ou omission volontaire ou de fraude dans la production de déclarations de revenus par l’appelant n’a été alléguée dans la Réponse à l’Avis d’Appel de l’Intimée donnant ouverture à l’application du paragraphe 152(4) L.I.R.
+[2] Un extrait du témoignage de l’appelant et de madame Judith Heath, représentante de l’intimée et vérificatrice au dossier de l’appelant, lors de leur interrogatoire préalable, a été déposé et fait partie de la preuve. L’agente des appels, madame Vonda Yantsis, a témoigné également.
+[3] Dans leur mémoire conjoint, les parties ont libellé les questions en litige comme suit :
+a) Nonobstant le fait que les avis de nouvelles cotisations n’ont pas été postés à l’adresse de l’appelant en Israël, l’appelant est-il préclus de prétendre que le processus de nouvelle cotisation n’a pas été complété en conformité avec le paragraphe 152(2) L.I.R.?
+b) Est-ce que le processus de cotisation a été complété avant que la révocation de la renonciation à l’application de la période normale de nouvelle cotisation ne prenne effet?
+[4] Il est donc admis, dès le départ, que les avis de nouvelles cotisations n’ont pas été postés à l’adresse de l’appelant en Israël mais plutôt à l’attention du cabinet d’avocats à Montréal sans référence aux avocats qui représentaient l’appelant. Ce dernier soutient donc que le processus de cotisation n’a jamais été complété et invoque les dispositions du paragraphe 152(2) de la Loi de l’impôt sur le revenu (la « Loi ») à l’appui de sa prétention. De son côté, l’intimée soutient que l’appelant avait l’obligation de soulever cette question dans son avis d’opposition et, étant donné que l’appelant s’est opposé aux cotisations à l’intérieur des délais, il n’a pas subi de préjudice et il est maintenant dans l’impossibilité d’attaquer le processus.
+[5] Le paragraphe 152(2) de la Loi exige du ministre du Revenu national (le « Ministre »), après examen d’une déclaration, qu’il envoie un avis de cotisation à la personne qui a produit la déclaration. D’autre part, les paragraphes 244(14) et 244(15) créent des présomptions quant aux dates d’établissement et de mise à la poste d’une cotisation. Ces paragraphes se lisent comme suit :
+244(14) Pour l’application de la présente loi, la date de mise à la poste d’un avis ou d’une notification, prévus aux paragraphes 149.1(6.3), 152(3.1), 165(3) ou 166.1(5), ou d’un avis de cotisation ou de détermination est présumée être la date apparaissant sur cet avis ou sur cette notification.
+244(15) Lorsqu’un avis de cotisation ou de détermination a été envoyé par le ministre comme le prévoit la présente loi, la cotisation est réputée avoir été établie et le montant, déterminé à la date de mise à la poste de l’avis de cotisation ou de détermination.
+[6] Lorsque le ministre établit une cotisation initiale qui ne modifie en rien la déclaration de revenu d’un contribuable, elle est, à toutes fins pratiques, sans conséquence. Cependant, lorsque le ministre établit une cotisation initiale ou une nouvelle cotisation qui modifie la déclaration de revenu d’un contribuable, particulièrement lorsque ce dernier a fait l’objet d’une vérification, cela peut créer entre le contribuable et le ministre un conflit potentiel dont l’ultime résolution se traduit par une opposition et, éventuellement, un appel devant cette Cour. Le point de départ de ce processus de contestation du contribuable repose sur un simple geste qui est celui d’envoyer la cotisation à la personne qui a produit la déclaration.
+[7] Le juge Rothstein de la Cour d’appel fédérale a dit ce qui suit dans Grunwald c. Canada, 2005 CAF 421 au sujet du terme « envoie » utilisé au paragraphe 152(2) :
+Le paragraphe 152(2) ne parle pas de mise à la poste. Il utilise le terme « envoie », beaucoup plus large que l’expression « mise à la poste ». Certes, un envoi peut se faire par la poste, mais il pourrait également se faire par signification à personne, au contribuable, par un employé de l’ADRC, comme en l’espèce.
+[8] Il suffit donc de mettre à la poste l’avis de cotisation à l’adresse du contribuable ou de le lui signifier personnellement et la cotisation est établie à la date qui apparaît sur l’avis. L’étape suivante consiste alors à faire le dépôt d’un avis d’opposition et ensuite d’interjeter appel devant cette Cour à l’intérieur du délai prescrit. On ne peut donc s’opposer ou interjeter appel sans passer par cet envoi.
+[9] De plus, si le ministre peut démontrer qu’il a effectivement mis à la poste l’avis de cotisation à la bonne adresse, l’avis est réputé avoir été reçu (voir le paragraphe 248(7)) et établi (voir le paragraphe 244(15) ci-haut).
+[10] La Cour d’appel fédérale, dans l’arrêt 236130 British Columbia Ltd. c. Canada, [2006] A.C.F. no 1667, a adopté la position suivante sur cette question :
+20 À mon avis, il n'est pas nécessaire ici de savoir si -- même en reconnaissant que la procédure en vigueur aurait eu pour résultat l'envoi par la poste des avis de nouvelle cotisation dans le délai requis -- le juge de la Cour de l'impôt pouvait conclure que le ministre n'avait pas produit la preuve requise. Les avis de nouvelle cotisation ont été envoyés à la mauvaise adresse, et cela revient à dire qu'ils n'ont pas été délivrés du tout.
+21 Sur ce point, il m'est impossible de souscrire à l'argument de l'appelante pour qui l'erreur à l'origine de l'envoi des avis de nouvelle cotisation à la mauvaise adresse est imputable à l'intimée, et qui dit que, par conséquent, on ne pouvait « en imputer la responsabilité au ministre » (P.G. du Canada c. Bowen, 91 D.T.C. 5594 (CAF), page 5596). Ainsi que l'exige le formulaire réglementaire de déclaration de revenus, trois adresses figuraient sur la déclaration de revenus de l'intimée : une adresse postale, l'adresse de l'endroit où sont conservés les livres et registres, et l'adresse du siège social. L'adresse du siège social et l'adresse postale ont été inscrites correctement. Toutefois, les avis de nouvelle cotisation ont été envoyés à l'adresse des livres et registres qui, comme je l'ai mentionné, ne contenait pas le bon code postal.
+22 En définitive, les avis de nouvelle cotisation ont été envoyés à la mauvaise adresse, par deux fois. Comme on peut le lire dans la décision L.B. Scott c. M.R.N. [1960] C.T.C. 402 (C.É.), à la page 417 :
+· [TRADUCTION] « [...] on doit aussi en déduire, à mon avis, que le législateur n'a jamais voulu qu'un tel avis puisse être effectivement donné au moyen de son « envoi par la poste » au contribuable à une mauvaise adresse ou à une adresse fictive et je ne trouve rien dans la loi rien qui donne à entendre que le législateur ait voulu que le contribuable soit lié par un avis de cotisation au moment de la mise à la poste d'un avis y afférent qui lui est adressé ailleurs qu'à sa véritable adresse ou à une adresse qu'il a d'une façon ou d'une autre autorisée ou adoptée comme adresse à cette fin. »
+23 L'appelante a fait valoir que les trois adresses indiquées par l'intimée dans sa déclaration de revenus sont « d'une façon ou d'une autre autorisées ou adoptées » par elle pour les envois postaux. Bien entendu, cela ne tient pas compte du formulaire réglementaire qui oblige expressément un contribuable à indiquer une adresse à des fins postales. En l'espèce, il se trouve que cette adresse diffère de l'adresse du siège social et de l'adresse des livres et registres. À l'évidence, l'adresse postale est la seule adresse autorisée et adoptée pour les envois postaux.
+24 Je reconnais avec l'intimée que, sauf indication contraire, l'adresse postale est celle à laquelle les lettres doivent être envoyées, y compris les avis de nouvelle cotisation dont il est question ici. Si les avis en question avaient été envoyés à cette adresse plutôt qu'à l'adresse indiquée pour les livres et registres, alors ils auraient été envoyés à temps. L'erreur est totalement imputable aux fonctionnaires du ministre, qui, lorsque les premiers avis furent retournés, ont négligé de vérifier l'adresse postale de l'intimée en examinant les déclarations de revenus
+[11] Le ministre, en l’espèce, a donc choisi d’envoyer par la poste les avis de cotisation pour les années 1997 et 1998 à la personne qui a produit la déclaration, soit l’appelant. L’appelant a communiqué au ministre son adresse d’envoi dans ses déclarations de revenus pour chacune des années en question et par la suite dans une demande de détermination de résidence (formulaire NR73), lors de la signature d’une renonciation permettant au ministre de cotiser l’appelant en dehors de la période normale de cotisation pour l’année 1997 et une dernière fois lors de l’envoi du formulaire T1013 en date du 22 novembre 2002. Les avis de nouvelle cotisation n’ont donc pas été envoyés à la bonne adresse de l’appelant et, à mon avis, le processus des nouvelles cotisations n’a pas été complété en conformité avec le paragraphe 152(2) de la Loi. En d’autres mots, le ministre ne s’est pas acquitté des obligations que lui imposait le paragraphe 152(2) de la Loi. Cette position d’ailleurs a été maintenue depuis fort longtemps. La Cour de l’Échiquier, dans Scott v. M.N.R., [1960] C.T.C. 402 a interprété le paragraphe 46(2) de l’ancienne version de la Loi dont le libellé était le même que le paragraphe 152(2) de la façon suivante :
+28. In this view, “the day of … original assessment” referred to in Section 46(4) was in the present case May 28, 1953, and it remains to be considered whether the re-assessment under appeal was made within four years from that day. This, it seems to me, turns on whether what was on May 28, 1957 — which was the last day of the four year period — completed the re-assessment and it raises the question whether the mailing of the notice to the appellant in care of Mr. Wolfe Goodman was a valid discharge of the Minister’s duty to give notice to the appellant and thereby to complete the re-assessment. It was not disputed that Section 46(2), which requires the Minister to send “a notice of assessment to the taxpayer”, applies as well as to a reassessment as to an original assessment. Now, nowhere in the statute is there any express definition of what Parliament intended by the word “send” in Section 46(2), but inferentially from the references in Sections 51(1), 52(1), 57(1) and 58(1) to the “mailing of notice of assessment” and the prescription of times by reference thereto, it would seem apparent that Parliament intended that such notices should be given by post. This, however, being itself an inference from language used in the statute, it is in my opinion also to be inferred that Parliament never intended that such a notice could be given effectively by the “mailing” of it to the taxpayer at some wrong or fictitious address and I find nothing in the statute to suggest that Parliament intended that a taxpayer should be bound by an assessment or fixed with notice of an assessment upon the posting of a notice thereof addressed to him elsewhere than at his actual address or at an address which he has in some manner authorized or adopted as his address for that purpose. Vide Societa Principessa Iolanda Margherita di Savoia (fondata dai Bonitesi), Inc. v. Broderick (1932), 183 N.E. 382, where in a different context Kellogg, J. , speaking for the Court of Appeals of New York, said at page 384:
+When the statute says that the superintendent ‘shall cause said notice to be mailed’ to all creditors ‘whose names appear … upon the books’, we think the intent clear that the notice must be ‘mailed’ with an appropriate address upon the envelope,”
+29. In the present case, the notice of re-assessment which was put in the mail on May 28, 1957, while directed to the appellant, was not directed to his actual address nor was it directed to either of the addresses stated in his 1952 income tax return. Had it been so directed – despite the fact that the appellant no longer lived at the residential address or carried on business at the business address – and even despite the fact that the assessor was aware of these facts – it might well be that in the absence of any act on the part of the appellant to notify the Minister of a change of address, he would be bound by the sending of a notice to either of the addresses so given. That, however, was not done and it is accordingly unnecessary to decide what might have been the effect if the notice had been directed to that address. These, however, were the only addresses which the appellant had indicated to the Department and it is not shown that Mr. Wolfe Goodman or any other person was in fact authorized to receive notices on his behalf. In this situation, while it was open to the appellant to adopt and ratify and thus give effect to the sending of notice to that address as a valid notice to him, he was under no obligation to adopt or ratify it and on the evidence I do not think he ever did so. Nor does it appear that the notice so sent in fact reached him as a result of the mailing of it on May 28, 1957, either in the ordinary course of post, or later. In my opinion, such a mailing or sending was not a valid mailing or sending of the notice within the meaning of Section 46 (2) of the Act, and it follows that the re-assessment was not made within the four year period limited by Section 46(4). Nor, in my opinion, can the requirement of Section 46(2), that a notice of assessment be sent to the taxpayer, be regarded as a directory provision of the Act. Vide Nicholls v. Cummings (1877), 1 S.C.R. 395.
+[12] Est-ce que l’appelant est préclus de prétendre que le processus de nouvelles cotisations n’a pas été respecté vu l’envoi d’un avis d’opposition? Le ministre soutient que, non seulement l’appelant n’a pas subi de préjudice, mais que ce dernier aurait dû clairement soulever cette question au moment où il a produit son avis d’opposition ou avant que la révocation ne prenne effet.
+[13] Au paragraphe 45 des avis d’opposition de l’appelant, ce dernier soutient clairement que le ministre n’a pas complété le processus de cotisation pour les deux années en question. De son côté, le ministre dans son avis de ratification et, plus particulièrement, dans son rapport sur opposition, a abordé cette question au paragraphe 2 de la page 16 en blâmant l’appelant de ne pas avoir informé le ministre de son changement d’adresse. Le ministre était donc bien familier avec les motifs soutenant le point en question. À mon avis, le ministre a été suffisamment alerté et il pouvait tout simplement remédier à cette lacune en envoyant la cotisation à l’appelant conformément au paragraphe 152(2) de la Loi à l’adresse de l’appelant qu’il avait en sa possession, ce qu’il n’a pas fait.
+[14] Il n’y a aucune disposition dans la Loi ni dans les Règles qui dispose que l’appelant, en signifiant un avis d’opposition au ministre, se trouve à parfaire le processus de cotisation et à remédier au manquement du ministre. En l’espèce, ce n’est que par un pur hasard que l’appelant a été informé de l’existence d’une cotisation et le dépôt d’un avis d’opposition a servi uniquement à protéger son intérêt et non à parfaire le processus. Si le contribuable, une fois qu’il est au courant d’une cotisation possible, ne s’oppose pas à la cotisation parce qu’il croit que le processus est défectueux et qu’il a tort, il préjudicie sa cause. En l’espèce, l’appelant a soulevé la question dans son avis d’opposition et le ministre a choisi de ne pas faire l’envoi à nouveau en utilisant l’adresse de l’appelant. Qui plus est, l’appelant, en renonçant à l’application de la période normale de nouvelle cotisation, a encore d’une certaine façon informé le ministre que quelque chose n’allait pas malgré l’envoi présumé de la nouvelle cotisation. Le ministre n’a pas modifié sa façon de faire dans les deux cas.
+[15] La réponse aux deux questions est donc négative. Le ministre n’ayant jamais envoyé à l’appelant les nouvelles cotisations d’une façon conforme au paragraphe 152(2) de la Loi, ces nouvelles cotisations n’ont pas été établies. Cela nous ramène donc aux dates des cotisations initiales établies le 15 juin 1998 pour l’année d’imposition 1997 et le 8 novembre 1999 pour l’année d’imposition 1998, de sorte que toutes nouvelles cotisations seraient établies en dehors de la période normale de cotisation à moins que le ministre puisse établir une présentation erronée des faits, par négligence, inattention ou omission volontaire ou une fraude dans la production des déclarations de revenus par l’appelant, ce qui ne semble pas être le cas en l’espèce à la lumière de ses plaidoiries écrites.
+[16] Chaque partie prend ses propres frais à sa charge.
+Signé à Edmundston, Nouveau-Brunswick, ce 20e jour de février 2009.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2009 CCI 103
+Nº DU DOSSIER DE LA COUR : 2005-315(IT)G
+INTITULÉ DE LA CAUSE : Harry Burstein c. Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 20 novembre 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le février 2009
+COMPARUTIONS :
+Avocat de l'appelant :
+Me André P. Gauthier
+Avocats de l'intimée :
+Me Bernard Fontaine et
+Me Chantal Roberge
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant :
+Nom : Me André P. Gauthier
+Cabinet : Heenan Blaikie, S.E.N.C.R.L.
+Ville : Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

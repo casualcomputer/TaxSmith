@@ -1,0 +1,171 @@
+Title: Jolly Farmer Products Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28764/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-409-28764-jolly-farmer-products-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-07-11
+
+# Jolly Farmer Products Inc. v. The Queen
+
+- Citation: 2008 TCC 409
+- Decision date: 2008-07-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1551, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jolly Farmer Products Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-11
+Neutral citation
+2008 TCC 409
+File numbers
+2005-1804(IT)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1804(IT)G
+BETWEEN:
+JOLLY FARMER PRODUCTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 23, 24, 25, 26 and 27, 2008,
+at Fredericton, New Brunswick.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant:
+John D. Townsend
+Craig Wilson
+Counsel for the Respondent:
+Cecil S. Woon
+Lindsay Holland
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1998, 1999, 2000, 2001, 2002 and 2003 taxation years are allowed with costs and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+The statute‑barred reassessment for 2000 is vacated.
+Signed at Ottawa, Canada, this 11th day of July 2008.
+“D.G.H. Bowman”
+Bowman, C.J.
+Citation: 2008TCC409
+Date: 20080711
+Docket: 2005-1804(IT)G
+BETWEEN:
+JOLLY FARMER PRODUCTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] These appeals are from assessments for the appellant’s 1998, 1999, 2000, 2001, 2002 and 2003 taxation years. The central question is whether the appellant is entitled to claim capital cost allowance (“CCA”) on houses and a large building called the “Commons” which the appellant owned on the farm which it owned and operated. The houses (collectively referred to as “the Village”) were occupied by the employees of the appellant who were also shareholders. The Commons was a large building of which approximately 25% was for the use of the shareholder/employees at least on one sketch put in evidence and 75% was for storage of and processing of meat and dairy products and other farming produce. This percentage is a matter of dispute. The respondent says that 95% was for the shareholder/employees. For the reasons that follow I have concluded that the entire building, whatever portion may have been used by the shareholder/employees, was acquired by the appellant for its business purposes.
+[2] The denial of the CCA on the Village and the Commons including the equipment is based on the single assumption that these properties were not acquired for the purpose of gaining or producing income. If they were not acquired for the purpose of gaining or producing income they are excluded from the classes of property in respect of which capital cost allowance may be claimed. Paragraph 1102(1)(c) of the Income Tax Regulations provides:
+1102. (1) The classes of property described in this Part and in Schedule II shall be deemed not to include property
+. . . . .
+(c) that was not acquired by the taxpayer for the purpose of gaining or producing income;
+[3] There are some preliminary points that should be disposed of before dealing with the main issue:
+a) It is alleged that the 1999 assessment was made beyond the normal reassessment period and was therefore statute-barred. The appellant now agrees that a waiver was signed and that therefore the Minister was entitled to reassess the 1999 taxation year beyond the normal reassessment period;
+b) The respondent however now concedes that the reassessment for 2000 was statute-barred and that therefore it should be vacated. This removes one of the issues from the case, the deductibility of the wages paid relating to the Commons in 2000 as well as the claim for CCA;
+c) The treatment of the land clearing costs in respect of the Commons in 1998 is no longer in issue. The parties agree that of the $85,392 claimed for this item, $70,392 should be added to the capital cost of the Commons building and its treatment will depend upon the disposition of the issue whether the Commons is depreciable property. The parties agree that the remaining $15,000 land cleaning costs will form part of the capital cost of the land; and
+d) CCA on a house called the “Farmhouse” has been allowed by the respondent and is no longer in issue.
+[4] This leaves then the question whether the Village and the Commons were acquired for the purpose of gaining or producing income within the meaning of paragraph 1102(1)(c) of the Income Tax Regulations.
+[5] The appellant was incorporated on December 1, 1995 under the New Brunswick Business Corporations Act. It was formed in contemplation of its carrying on substantially the same business as was carried on in New Hampshire by a “non profit corporation” called Jolly Farmer Products. I do not know what a non‑profit corporation means under United States law. Mr. English, a director of the appellant testified that it had “members” instead of shareholders and paid United States income taxes. The members received payments on which they paid tax.
+[6] The United States corporation carried on an extensive and profitable horticultural operation in which plant cuttings and plants were grown in a large greenhouse. It ran out of space for expansion and, after investigating a number of locations in Maine, Quebec, Nova Scotia and New Brunswick, the directors chose a location near Woodstock, New Brunswick.
+[7] All but one or two of the original members that ran the operation in New Hampshire moved to New Brunswick.
+[8] The appellant acquired two farms, the south farm and the north farm. On the south farm are located the greenhouse, the outside farming operations, the gardens used by the shareholder/employees and the Commons. It now has a third farm.
+[9] Since 1996 the greenhouse operation has grown from 3 acres to 10 acres. It ships cuttings and plugs throughout North America and is the biggest operation of its type in New Brunswick. Its agricultural operations outside of the greenhouse continue to grow and expand so that it is an integrated agricultural operation consisting of beef cattle, pigs, sheep, chickens and dairy products.
+[10] The financial statements for the corporation from December 1, 1995 to April 30, 2003 were put in evidence (Exhibit A-1, Tabs 8-15) show sales that have grown from $5,884 in 1996 to $25,000,700 in 1999 and $21,677,294 in 2003. It is a large, profitable and highly successful operation.
+[11] The trial lasted five days. The principal witness for the appellant was Mr. Robert English, a director and Vice‑President of the appellant. Also, three expert witnesses were called, two for the appellant and one for the respondent. The respondent also called Ms. Keeler, the bookkeeper of the appellant and Mr. Leblanc, an appeals officer of the Canada Revenue Agency (“CRA”). The issue is, however, far less complex than the length of the trial would indicate. I think the focal point of the problem is evident from Schedule A to the articles of incorporation of the appellant. It reads as follows:
+The holders of all classes of shares shall be limited to those persons who willingly submit to the disciplines of the commandments of the Lord Jesus Christ and who also will make their permanent residence in one of the communities established by the Corporation (the “Community”) in accordance with above disciplines. A shareholder can be dismissed who does not keep the peace of the community in accordance with the disciplines of the commandments of the Lord Jesus Christ. A person can become a shareholder through the Directors’ approval and general shareholder acceptance after a probationary period, not to exceed three (3) years, by a majority vote.
+[12] Many paragraphs of the Reply to the Notice of Appeal are devoted to assumptions about the religious beliefs and practices of the shareholders and their desire to live a simple Christian life in their own community. The Minister seems to see the shareholder/employees as some sort of a quasi-monastic religious organization whose purpose in living on the farm is in furtherance of their religious beliefs and practices and not for commercial reasons. I do not see religious beliefs and practices as being inconsistent with commercial motivation.
+[13] Mr. Leblanc, the appeals officer called as a witness by the respondent, stated that he saw the shareholder/employees as wanting to live “separate and apart”. This, I think, goes beyond being an overstatement. It is simply not accurate. The members are very active in the community. Mr. Leblanc struck me as a conscientious and honest public servant but I think his views reflect a ministerial mindset that is out of touch with commercial reality. While it is acknowledged that the appeals officer’s evidence is hearsay (in some cases, second or third degree) it is useful in determining the thinking that went into making or confirming the assessment. Here, I think the CRA has become fixated (counsel for the appellant used the word “mesmerized”) on two things — the fact the employees are shareholders, and the fact that they profess and adhere to certain basic Christian beliefs reminiscent of the early Church. These facts are, in my view, of no significance. Once we get rid of these two red herrings and focus on the fact that the appellant provides its employees with living and other facilities, the provision of those facilities becomes a perfectly normal and ordinary cost of carrying on the appellant’s business.
+[14] I think the Minister’s approach to this problem results from a confusion between (or perhaps a melding of) two or more concepts. An individual cannot deduct in computing his or her income “personal or living expenses”. The Minister seems to think, I gather, that the cost to an employer of providing to its employees living amenities (or the capital cost of property used for that purpose) falls equally within that prohibition. Moving on from this fallacious inarticulate premise the Minister then seeks to require the employer to show that its business decision to provide accommodation to its employees is commercially justifiable and is a better way of doing business than some other method. In this way the fallacy of the original premise is compounded and is exacerbated by the fact that the Minister, in some way that I cannot fathom, throws into the mix the fact that the employees are also shareholders and also have strong religious beliefs. Then, even after the employer, Jolly Farmer Products Inc., overwhelmingly demonstrates (unnecessarily in my view) that its business organization results in a resounding commercial success, the Minister still hangs on with the tenacity of grim death to his original error and argues that the appellant should have adopted a way of doing business that the Minister finds more palatable, even though it is less economic. Mit der Dummheit kämpfen Götter selbst vergebens.
+[15] It is true, the shareholders seek to lead a simple Christian life somewhat removed from the hurly burly of materialistic pursuits. This does not, however, prevent them from running a commercially oriented, highly successful operation. One of the reasons for the success of the operation is the very fact that the shareholders who are all employees and who are paid salaries by the appellant, live on site where they can take care of the horticultural operation. One example is of course the fact that they all serve on the fire brigade where the response time in case of a fire is a fraction of the time taken for the Woodstock fire department to respond. This prevented a small fire in May 2008 from getting out of control and destroying the greenhouse and the millions of dollars of equipment and plants in a conflagration of the type that occurred in 1996.
+[16] The respondent argues that the cost of keeping the shareholder/employees on‑site and providing them with houses in which to live and facilities such as a dining room and gymnasium in the Commons is not a cost of property acquired for the purpose of gaining or producing income. That is, with respect, not a commercially viable proposition. The shareholder/employees pay rent and nonetheless have been assessed for taxable benefits in respect of their homes. The operation is clearly more successful than it would have been if the appellant had followed the unsolicited commercial views of the CRA and done the following:
+a) Not provided housing and other facilities for its shareholder/employees on‑site;
+b) Hired employees from the outside and paid wages to a much larger workforce at a higher rate than the salaries paid to the shareholder/employees;
+c) Got rid of the on‑site fire brigade and relied on the Woodstock fire brigade to get to the fire after it had spread to the adjacent buildings and greenhouse; and
+d) Taken out crop insurance in the hope that it might cover a part of the value of the property and crops destroyed.
+I should mention briefly the expert testimony of Gary Daneff. He is a professional engineer and a co-owner of Point of Origin Consultants Ltd. He is an expert in fire and explosion investigations and fire protection.
+[17] The following statements in his report relating to the fire in the lab on May 13, 2008 are self-explanatory:
+Fire-resistance and fire-protection ratings for building materials and assemblies are determined on the basis of their performance under laboratory fire conditions. These fire tests follow a standard time-temperature curve which models compartment temperatures achieved during uncontrolled fires. The standard time‑temperature curve shows that compartment temperatures of 538oC (1000oF) will be achieved after 5 minutes, 704oC (1300oF) after 10 minutes and 843oC (1550oF) after 30 minutes. In contrast, the fire which occurred within the soils lab on May 13, 2008, did not spread beyond the work bench to adjacent furnishings and did not continue to grow. As a result of early intervention by the Jolly Farmer fire brigade and possibly other factors which limited the fire’s growth, such as air supply, fuel loading and arrangement, fire damage was principally contained to the soils lab.
+. . . . .
+The entrance to the Jolly Farmer Products operation is located south of Woodstock on the opposite side of the St. John River, requiring the Woodstock Fire Department (WFD) to travel a minimum distance of about 14 km during a response to a fire event on the grounds of Jolly Farmer Products. According to Chief Ricky Nicholson, the WFD received a call directly from personnel at Jolly Farmer Products at 4:47 am on May 13, 2008, and the first WFD apparatus arrived at the property of Jolly Farmer Products at 5:04 am, about 17 minutes later. According to the incident log maintained by Jolly Farmer personnel, the Jolly Farmer fire brigade and subsequently the WFD were notified of the fire after its discovery at 4:41 am. The Jolly Farmer fire brigade assembled at the scene between 4:44 and 4:54 am and the first charged hose was advanced at 4:58 am, approximately 17 minutes after fire discovery. According to Jolly Farmer records, at approximately 5:15 am the first WFD apparatus arrived with two men on board and between 5:20 and 5:23 am the WFD service van arrived with 6 fire fighters. At 5:25 am the WFD personnel were equipped to enter the building, approximately 44 minutes after fire discovery.
+. . . . .
+The following statements can be made regarding early intervention by fire fighting personnel.
+1. The response of trained fire fighting personnel is an assumption on which provisions of the NBC pertaining to life safety and property protection from fire are based. The NBC acknowledges that a fully developed compartment fire and associated high fire radiation levels can occur within 10 minutes from the outbreak of fire.
+2. Early intervention by trained fire fighting personnel is essential in arresting fire growth and spread.
+3. Based on the fire event which occurred on May 13, 2008, on the premises of the Jolly Farmer Products operation, times recorded by Jolly Farmer personnel indicate that the Jolly Farmer fire brigade advanced a charged hose line within 17 minutes of the discovery of fire, prior to the arrival of personnel from the WFD (Woodstock Fire Department).
+4. During the fire event on May 13, 2008, the early intervention by the Jolly Farmer fire brigade served to contain the fire to the soils lab and likely prevented it from spreading from that room to the remainder of the east warehouse.
+[18] The conclusions expressed by Mr. Daneff are unassailable. Clearly the on-site fire brigade was a commercial necessity. While I do not think the appellant has to justify its business decisions, the existence of the Jolly Farmer fire brigade does so.
+[19] The same is true of the expert reports of the two accounting firms. The appellant put in an expert report by Paul Bradley of PriceWaterhouseCoopers, LLP. The respondent put in a report by Daniel Jennings of Deloitte & Touche, LLP.
+[20] Although I shall quote from parts of the two reports for reasons set out below, I do not consider them particularly helpful in answering the question before me. However, since both counsel saw fit to retain the services of highly qualified business valuators, I shall deal with their evidence.
+[21] Mr. Bradley’s report reads in part as follows:
+1. You have requested us, as professional advisors experienced in business investigations and loss quantifications, to assist you in quantifying the estimated economic benefits to Jolly Farmer Products Inc. (“JFPI” or “the Company”) related to certain assets known as “the Village” and a portion of “the Commons”.
+2. We understand that:
+• JFPI was incorporated in 1995 and its principal business activities include horticultural and agricultural operations.
+• JFPI constructed housing (“the Village”) and certain other structures on its lands, including a barn and a building known as “the Commons”.
+• On April 12, 2002, the Canada Revenue Agency (“CRA”) advised JFPI that an audit would be undertaken for the tax years ended June 30, 2000 and 2001. The period under review was expanded to include the tax years ended June 30, 1998 to 2003.
+- As a result of the audits, CRA took the position that JFPI’s expenditures to construct the Village and the Commons were not related to gaining or producing income and therefore, CRA disallowed the deduction of certain expenses reported in the Company’s income tax returns for years during the 1998-2003 period, including capital cost allowance (“CCA”) related to the Village and the Commons.
+3. JFPI’s position is that the Village and Commons make economic contributions to the Company’s business. We understand that you require assistance with regard to quantifying certain of the economic benefits.
+4. We understand that Counsel will argue that JFPI’s economic benefits from the Village and the Commons include limiting the potential loss of profits related to customer attrition, which may occur if the Company were to experience an interruption of business operations. We have considered this from the perspective of calculating the potential impact on JFPI of the loss of a major customer. However, our calculation of potential loss of profits is not included in the overall quantum of economic benefits that have been calculated herein, and we express no opinion regarding this potential loss.
+5. We also understand that Counsel will argue that the expenditures to construct the Commons and the purchase of its equipment were made for the purpose of gaining or producing income from the JFPI Agricultural Division (with the exception that 25% of the Commons is considered to be used personally by the shareholders, for which rental income is charged). We understand that the decision to construct the Commons was independent of the decision to construct the Village, the latter of which primarily supports the Horticultural Division.
+. . . . .
+76. Due to the Company’s remote location relative to major centres, Management believes that the following employee costs are positively impacted by the existence of the on-site residents:
+- Lower than average absenteeism
+- Reduced payroll costs for overtime or shift work
+- Lower than average employee turnover and resulting training costs
+- Improved operating efficiencies, relative to the industry
+77. We understand that the proximity of the Village residents to the operating facilities provides the Company with a pool of labour, which is available to perform essential services beyond the standard operating hours of the business. Employees may work overtime, split shifts, or unusual schedules (including statutory holidays and filling in for vacation leave) to accommodate such essential services as crop care, farming obligations and shipping outside of normal business hours.
+78. We understand that all non-shareholder employees are compensated as entitled in accordance with the New Brunswick Labour Standards Act and Regulations, while employees that are also shareholders (“shareholder employees”) are not subject to the same statutory entitlements. Thus, certain shareholder employees earn a salary based upon a standard working week, but participate in work activities beyond their job description and these services are available at no incremental cost to JFPI.
+79. The premise of this calculation is that, without the participation of the shareholder employees, Company employees would be required to be on call, work split shifts and / or receive paid overtime to compensate for commuting costs and inconvenience of being on call, working split shifts, time away from families, including weekends and statutory holidays. Further, employee shifts would have to be scheduled for services that are currently on an ‘on-call’ basis, provided by employees who reside on-site, such as the farming foreman and maintenance positions.
+80. We received payroll and scheduling information from the Management of JFPI and obtained industry wage information from private and public sources to calculate the cost of filling positions that require attendance beyond normal operating hours that, we understand, is currently fulfilled by on-site, salaried employees.
+. . . . .
+86. Based upon the information that we have reviewed and relied upon, and subject to the assumptions, restrictions and qualifications set out herein, we concluded that the estimated economic benefit of the expenses as calculated was in the ranges set out below, and as set out at Schedule 1:
+Estimated economic benefit due to:
+Insurance and security $807,072 to $964,225
+Benefit of overtime/shift payroll costs foregone $1,596,972 $1,596,972
+Total $2,404,044 to $2,561,197
+87. Based upon our calculations in the specific areas considered for purposes of this analysis, the economic benefits quantified herein represent approximately 81% of the net capital cost deductions denied as set out at Line 9 of Schedule 1.
+[22] Mr. Jennings disagrees with Mr. Bradley, as follows:
+In our view, PWC neglected to include $322,061 of Village renovation costs in 2001 in their analysis of disallowed capital additions. The impact of this change would be to decrease PWC’s conclusion that the economic benefits quantified represent 81% of the capital cost deduction denied.
+In our opinion, discount/capitalization rates of 18/15% (as opposed to PWC’s 14/11%) better reflect the risk in the stream of avoided costs in the Company. The impact of this change would be to decrease PWC’s conclusion as to the quantum of economic benefit.
+In our view, because of the shareholders’ decision not to take economic salaries, PWC should not have assumed that management’s assertion as to incremental payroll costs avoided by the existence of the Village and Commons was correct. The impact of this change would be to decrease PWC’s conclusion as to the quantum of economic benefit.
+In our view, the fact that PWC’s conclusion of economic benefit is less than 100% of the capital costs denied implies that the Company may have incurred the least economical alternative by building the Village and Commons (as opposed to incurring the alleged incremental costs).
+Even though the PWC calculation of lost profits from customer attrition is not part of their conclusion, we offer commentary that supports our view that this quantification is not appropriate in this matter.
+[23] Mr. Jennings did not state how much lower his quantification of the economic benefit was than Mr. Bradley’s. It is however clear that he believed there was an economic benefit to the way the appellant conducted its business affairs. Whether I accept one report or another or whether I come up with some figure that differs from both of them is not the point. Even if there were no economic benefit — and clearly there is — I would still have held that the business decision of the appellant on the manner in which it conducts its business must be respected. For what it is worth, I find Mr. Bradley’s report more persuasive. I repeat, however, that this is not a contest between two experts on the best way to carry on business. Obviously the appellant has chosen a method that succeeds. Once I conclude that it is a business decision to house the employees in company-owned houses and to provide other facilities in the Commons it is not up to me or the Minister to question that decision, even if I were to disagree with it, which I do not. It is clear that providing facilities to the shareholder/employees such as housing and a portion of the Commons was a business decision that in the present case was a commercially advantageous one.
+[24] This case is an excellent example of the CRA seeking to substitute its business judgment for that of the taxpayer. The alternatives suggested by the respondent would have made the operation far less profitable. The way in which the appellant chooses to carry on its highly successful commercial operation is a business decision and the Minister of National Revenue has no right to substitute his business judgment and advance other alternatives that are more palatable to him. (See for example Gabco Limited v. M.N.R., 68 DTC 5210.) Clearly the provision of housing for the shareholder/employees and of facilities in the Commons is an integral part of the way the Appellant carries on business and of its income earning process. The Village and the entire Commons were acquired for the purpose of gaining or producing income. Accordingly, despite Mr. Woon’s very thorough and careful argument, I have concluded that they are not excluded by reason of paragraph 1102(1)(c) of the Income Tax Regulations from the classes of depreciable property in respect of which CCA may be claimed.
+[25] The appeals are allowed with costs and the assessments referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons. The statute-barred reassessment for 2000 is vacated.
+Signed at Ottawa, Canada, this 11th day of July 2008.
+“D.G.H. Bowman”
+Bowman C.J.
+CITATION: 2008TCC409
+COURT FILE NO.: 2005-1804(IT)G
+STYLE OF CAUSE: JOLLY FARMER PRODUCTS INC. AND THE QUEEN
+PLACE OF HEARING: Fredericton, New Brunswick
+DATE OF HEARING: June 23, 24, 25, 26, and 27, 2008
+REASONS FOR ORDER BY: The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT &
+REASONS FOR JUDGMENT: July 11, 2008
+APPEARANCES:
+Counsel for the Appellant:
+John D. Townsend
+Craig Wilson
+Counsel for the Respondent:
+Cecil S. Woon
+Lindsay Holland
+COUNSEL OF RECORD:
+For the Appellant:
+Name: John D. Townsend
+Firm: Cox & Palmer
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,131 @@
+---
+title: "Fuerth v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28029/index.do"
+last_modified: "2007-10-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 588"
+citation2: ""
+neutral_citation: "2007 TCC 588"
+decision_date: "2007-10-03"
+language: "en"
+item_id: "28029"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1615
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:39:46.104000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b5fc2c825980f99d68b48785a3397ec353d4e5c59ff6c6655398ebfad52933df"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fuerth v. The Queen
+
+- Citation: 2007 TCC 588
+- Decision date: 2007-10-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1615, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fuerth v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-03
+Neutral citation
+2007 TCC 588
+File numbers
+2006-3909(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3909(IT)I
+BETWEEN:
+CAROLYN FUERTH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 26, 2007, at Windsor, Ontario
+Before: The Honourable Justice Valerie A. Miller
+Appearances:
+Agent for the Appellant:
+Terrence Loebach
+Counsel for the Respondent:
+Andrew Miller
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 1999 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Toronto, Ontario this 3rd day of October, 2007.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2007TCC588
+Date: 20071003
+Docket: 2006-3909(IT)I
+BETWEEN:
+CAROLYN FUERTH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The Appellant is appealing whether the Minister of National Revenue (the “Minister”) properly assessed a repeat late filing penalty in respect of her 1999 taxation year pursuant to subsection 162(2) of the Income Tax Act (the “Act”).
+[2] The Appellant and her husband are farmers with a farming operation in Woodslee, Ontario. Their income each year is low and the Appellant does strategic marketing and fundraising with non-governmental organizations on a contract basis to supplement her income. In 1998 and 1999 she received a commission contract that was larger than her normal contracts. She stated that she knew she would owe taxes for the 1998 and 1999 taxation years so she called her accountant who advised her to send $4,000 to the Canada Revenue Agency (“CRA”). On April 30, 1999 the Appellant sent CRA a cheque for $4,000. Her evidence was that she gave CRA no instructions with respect to this cheque and she did not file her 1998 income tax return at this time.
+[3] The Appellant stated that she had late filed all except one of her income tax returns for the years from 1996 to 2004. The evidence disclosed that the Appellant mailed her 1998 tax return to CRA on February 3, 2006. In her return she made no mention of the $4,000 which she had remitted to CRA in 1999 and she calculated that she had a balance of taxes outstanding in the amount of $909.72. The Appellant’s 1998 taxation year was assessed on March 9, 2006 and a refund of $2,565.80 was issued. The CRA received the Appellant’s 1999 tax return on March 21, 2006 and the return indicated a balance of taxes outstanding in the amount of $2,479.10. On April 24, 2006 a Notice of Assessment for the 1999 taxation year was issued to the Appellant which indicated a tax liability in the amount of $1,419.64.
+[4] The Appellant’s position is that she sent CRA the amount of $4,000 on April 30, 1999. CRA had been in touch with her and knew that she had not filed her 1998 and 1999 returns. CRA had demanded on February 22, 2000 and February 2, 2006 that she file her 1998 return. On February 20, 2001 and February 2, 2006, CRA demanded that the Appellant file her 1999 return. The Appellant thus argued that CRA should not have issued a refund to her on March 9, 2006 but should have credited her account with the amount of $2,565.80 to pay her tax liability for 1999.
+[5] It was not incumbent on CRA to allocate the amount of $2,565.80 to the Appellant’s account for her 1999 taxation year unless the Appellant requested this action be taken. There was a duty on the Appellant in making a payment to advise the Minister what to do with the payment. Likewise there was a duty on the Appellant in filing her 1998 return to advise the Minister that if there was a refund it should be allocated to her 1999 taxation year.
+[6] It is trite to say that the Appellant had an obligation to pay income tax and this obligation arises on the earning of income. However the quantum of the taxes is crystallized by an assessment. The definition of “tax payable” in subsection 248(2) shows that the term means that taxes are payable by a taxpayer “as fixed by an assessment”. The Appellant filed her income tax return for 1999 on March 21, 2006 and was assessed on April 24, 2006. It was only on April 24, 2006 that the taxes payable were known for the 1999 taxation year.
+[6] Subsection 162(2) of the Act reads as follows:
+(2) Repeated failure to file -- Every person
+(a) who fails to file a return of income for a taxation year as and when required by subsection 150(1),
+(b) on whom a demand for a return for the year has been served under subsection 150(2), and
+(c) by whom, before the time of failure, a penalty was payable under this subsection or subsection (1) in respect of a return of income for any of the 3 preceding taxation years
+is liable to a penalty equal to the total of
+(d) an amount equal to 10% of the person's tax payable under this Part for the year that was unpaid when the return was required to be filed, and
+(e) the product obtained when 2% of the tax payable under this Part for the year that was unpaid when the return was required to be filed is multiplied by the number of complete months, not exceeding 20, from the date on which the return was required to be filed to the date on which the return was filed.
+[7] The amount of penalty that may be assessed under subsection 162(2) can be substantial. As a result, there are three conditions that must be met before a taxpayer is liable to pay a repeat late filing penalty. In this case the Appellant failed to file her 1999 return of income on April 30, 2000. She admitted on cross-examination that a demand to file the return was served on her on February 20, 2001 and again on February 2, 2006. Exhibit A-3, a statement of account filed by the Appellant, showed that on March 2, 1998 she was assessed a late filing penalty for the 1996 taxation year. Consequently, all three conditions of subsection 162(2) are met.
+[8] The appeal is dismissed.
+Signed at Toronto, Ontario this 3rd day of October, 2007.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2007TCC588
+COURT FILE NO.: 2006-3909(IT)I
+STYLE OF CAUSE: Carolyn Fuerth v. The Queen
+PLACE OF HEARING: Windsor, Ontario
+DATE OF HEARING: September 26, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: October 3, 2007
+APPEARANCES:
+Agent for the Appellant:
+Terrence Loebach
+Counsel for the Respondent:
+Andrew Miller
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,160 @@
+---
+title: "Merchants of Green Coffee Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29681/index.do"
+last_modified: "2010-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 151"
+citation2: ""
+neutral_citation: "2010 TCC 151"
+decision_date: "2010-03-15"
+language: "en"
+item_id: "29681"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6247
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:33:11.867000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "988a3d5bf2ff86c1aa747be567fc2db2d9009c92eeab690e6baf92a1d98e70c6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Merchants of Green Coffee Inc. v. M.N.R.
+
+- Citation: 2010 TCC 151
+- Decision date: 2010-03-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6247, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Merchants of Green Coffee Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-15
+Neutral citation
+2010 TCC 151
+File numbers
+2009-2786(EI)
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2009-2786(EI)
+2009-2787(CPP)
+BETWEEN:
+MERCHANTS OF GREEN COFFEE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 12, 2010 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Robert Zavislake
+Counsel for the Respondent:
+Iris Kingston
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Employment Insurance Act and Canada Pension Plan by notice dated January 22, 2009 for the period from January 1 to December 31, 2007 is allowed, and the assessments are vacated.
+Each party shall bear their own costs.
+Signed at Ottawa, Canada this 15th day of March 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 151
+Date: 20100315
+Dockets: 2009-2786(EI)
+2009-2787(CPP)
+BETWEEN:
+MERCHANTS OF GREEN COFFEE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This is an appeal by Merchants of Green Coffee Inc. (MGC) in respect of assessments for failure to remit premiums under the Employment Insurance Act and the Canada Pension Plan. The total amount assessed was slightly under $2,000.
+[2] The question to be decided is whether Ms. Qian Duan was engaged in pensionable and insurable employment when she provided bookkeeping/accounting services for MGC.
+[3] Both MGC and Ms. Duan take the position that Ms. Duan was engaged as an independent contractor and not an employee.
+[4] The relevant period is the 2007 taxation year, which I was informed was the calendar year.
+Background facts
+[5] MGC is a small company based in Toronto that at the relevant time was in the business of buying and selling coffee beans and roasters. The company is owned by the Zavislake family and is managed by Mr. Brad Zavislake.
+[6] Brad Zavislake was not able to attend the hearing because of illness. Testimony was provided by his father, Mr. Robert Zavislake, who also represented MGC at the hearing.
+[7] Ms. Duan provided testimony pursuant to a subpoena issued by the respondent.
+[8] Ms. Duan was born in China and came to Canada in 2004. Beginning in 2005, she was hired by MGC pursuant to a government-subsidized job training program. It appears that Ms. Duan was hired as a full-time employee (Ex. A-4).
+[9] At the time of this engagement, MGC was starting to convert its accounting system to a more sophisticated computer program called Business Visions. It appears that the conversion work done by Ms. Duan was time-intensive because data had to be entered into the system from prior years.
+[10] Ms. Duan taught herself how to use the Business Visions software program and she followed accounting procedures which had been prepared for MGC by a professional accountant (Ex. A-3).
+[11] Upon completion of the job training program in May 2006, Ms. Duan and MGC entered into a written contract to continue her services on a contract basis from July 2006 to the end of that year.
+[12] The new arrangement was set up as an independent contractor relationship and both parties intended this result. Ms. Duan was to provide invoices and time sheets and would be paid $11 per hour. The contract provided that Ms. Duan would determine the time required to complete the work and she would determine her own work schedule. It was anticipated that the work would involve approximately 2 days a week.
+[13] The arrangement continued after 2006 and in fact it continues to the present time. Apparently, the conversion is just now fully complete.
+[14] For 2007, which is the relevant period, Ms. Duan was paid in the neighborhood of $15,000. Her rate of pay at that time was $17.50 per hour.
+[15] Ms. Duan did not work for any other persons in 2007 and attended school for part of the time.
+Discussion
+[16] Counsel for the respondent submits that this arrangement has all the usual earmarks of an employment relationship: the ability of MGC to control how the work is done, the provision of tools, a computer, by MGC, and no opportunity for profit or loss. It is suggested that the factor of intention should not be given much weight because the parties did not have a good understanding of the difference between an employment and independent contractor relationship.
+[17] Mr. Zavislake submits that the Minister has incorrectly characterized the relationship as employment by rigidly applying the factors which have historically been used and not taking into account modern methods of doing business.
+[18] I agree with this submission.
+[19] MGC and Ms. Duan had a clear understanding that they did not want Ms. Duan to be an employee. Assuming that their relationship was consistent with this understanding, it should be respected.
+[20] The relationship was one in which Ms. Duan had significantly more flexibility than is typical in an employment relationship. Ms. Duan determined her own working hours and she took extended time off on one occasion.
+[21] In addition, Ms. Duan had much less job security than a typical employment relationship because the work flow varied from day to day.
+[22] Further, Ms. Duan had the opportunity to take on other jobs because the work only required about 20 hours per week, on average.
+[23] Ms. Duan was provided with a detailed list of bookkeeping procedures. At first blush, this appears to give considerable control to MGC. However, the purpose of these procedures was to protect the financial interests of MGC. For example, it was required that any purchase over $300 was to be made by Brad Zavislake. The fact that MGC had developed detailed accounting procedures does not negate an independent contractor relationship in the circumstances.
+[24] Ms. Duan had little oversight from Mr. Zavislake. She trained herself, and when a problem was encountered, she contacted the supplier of Business Visions.
+[25] As for tools and the opportunity for profit/loss, I view these factors to be neutral in this case. A computer was provided by MGC and there was no real opportunity for profit or risk of loss. This would be common in many employment and independent contractor relationships.
+[26] It is common for bookkeeping services to be provided to small businesses on an independent contractor basis. I would expect that the arrangement between MGC and Ms. Duan is typical of these arrangements.
+[27] Finally, I would comment that several of the assumptions made by the Minister as set out in the Reply were demolished by the evidence. These are:
+(g) the Worker reported to the Appellant on an ongoing basis to provide information status of her work and if work needed to be redone;
+(i) the Appellant provided on-the-job training to the Worker when she began working for the Appellant;
+(j) the Worker was required to attend meetings to discuss how to handle issues;
+(k) the Worker was required to obtain the Appellant’s approval for time off;
+(l) the Appellant provided the Worker with the facilities, tools, equipment and materials (such as a computer, software, desk, phone, stationary and calculators) at no cost to the Worker; [According to the evidence, there was only a computer, software and desk provided to Ms. Duan.]
+(n) the Worker’s name was listed on the automated company telephone directory at extension 60;
+(s) the Worker normally worked 10:00 am to 5:00 pm or 11:00 am to 6 pm, Monday to Friday;
+(y) the Appellant was responsible for resolving customer complaints; [Ms. Duan did not interact with customers.]
+(cc) the Worker did not charge the Appellant GST. [GST was not required at Ms. Duan’s level of earnings.]
+[28] In my view, the relationship that was agreed between the parties should be respected in this case. Ms. Duan commenced her relationship with MGC as an employee, but it is clear that the relationship fundamentally changed once the government training program had ended.
+[29] The appeal is allowed, and the assessments issued for failure to remit premiums under the Employment Insurance Act and the Canada Pension Plan should be vacated.
+[30] Each party should bear their own costs.
+Signed at Ottawa, Canada this 15th day of March 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 151
+COURT FILE NOS.: 2009-2786(EI)
+2009-2787(CPP)
+STYLE OF CAUSE: MERCHANTS OF GREEN COFFEE INC. and THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: March 12, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: March 15, 2010
+APPEARANCES:
+Agent for the Appellant:
+Robert Zavislake
+Counsel for the Respondent:
+Iris Kingston
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,127 @@
+---
+title: "McIntyre v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28349/index.do"
+last_modified: "2007-12-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 756"
+citation2: ""
+neutral_citation: "2007 TCC 756"
+decision_date: "2007-12-18"
+language: "en"
+item_id: "28349"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1934
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:28:01.981000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e7d975ce9fde8db10b011934ca8195ec70d14ccc1be7bdaf8042ed16c60306ef"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McIntyre v. The Queen
+
+- Citation: 2007 TCC 756
+- Decision date: 2007-12-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1934, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McIntyre v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-12-18
+Neutral citation
+2007 TCC 756
+File numbers
+2005-651(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-651(IT)I
+2007-364(IT)I
+BETWEEN:
+GILBERT IGNATIUS McINTYRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+The Honourable Justice Campbell J. Miller
+____________________________________________________________________
+ORDER
+UPON application by the Appellant requesting that the Judgment dated November 7, 2007 dismissing his appeals be set aside;
+IT IS ORDERED THAT the Appellant’s application is dismissed and the Judgment dated November 7, 2007 stands in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 17th day of December, 2007.
+“Campbell J. Miller”
+Miller J.
+Citation: 2007TCC756
+Date: 20071217
+Docket: 2005-651(IT)I
+2007-364(IT)I
+BETWEEN:
+GILBERT IGNATIUS McINTYRE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Mr. McIntyre seeks to have an Order for dismissal set aside pursuant to subsections 18.21(1), (2) and (3) of the Tax Court of Canada Act. I had ordered his appeals dismissed when he did not appear in Court at his scheduled trial date of October 31, 2007. Mr. McIntyre has provided me with no further information to support setting aside my order than he had provided prior to October 31, 2007.
+[2] These matters have quite a history. The case was originally set to be heard on August 10, 2005 which was adjourned to February 7, 2006. Mr. McIntyre sought another adjournment on February 7, 2006 but I asked the Respondent and Mr. McIntyre to appear on February 7th so we could discuss the future handling of this matter. Mr. McIntyre did not appear and I dismissed his appeal. He brought an application to have that order set aside, but notwithstanding requests from the Court, he did not provide any additional information as to why he did not attend in February until July 2006, when he provided some further information from some physicians concerning his medical problems. This included a letter confirming that he was advised on February 1, 2006 by his doctor to rest for a few days. On this basis I allowed his application and set a new hearing date of October 10, 2006 on a peremptory basis.
+[3] On October 10, 2006 the Appellant started to give his evidence but it became clear to me that he did not have the vital documents which would assist me in determining the deductibility of child support payments. I adjourned the matter to April 5, 2007 to allow time to obtain the necessary evidence (court orders and proof of payments).
+[4] On April 5, 2007 Mr. McIntyre arrived late and sought an adjournment on the basis that he had been ill. He did however provide some documents confirming some payments, but provided no copies of court orders. I again adjourned the matter and asked the Respondent to assist in tracking down the court orders that dealt with the child support payments. A continuation of the trial was set for October 31, 2007.
+[5] In August, Mr. McIntyre again sought an adjournment for medical reasons, being that surgery had been scheduled for September 11, 2007. I denied the request, but suggested to Mr. McIntyre that he renew his request in early October, presumably after the surgery. The Court received a letter from Dr. Ismail dated October 29, 2007 which reads:
+TO WHOM IT MAY CONCERN
+Re: Gilbert McIntyre
+Date of Birth: August 1, 1941
+Mr. McIntyre has been under my care for essential hypertension, diabetes Type II, carcinoma of the prostate, macular degeneration of the retina, osteoarthritis of his knees, degenerative disc disease of the spine and psoriasis.
+He is on several medications including Norvasc 10 mg, Dimicron MR 30Mg, Diovan HC, Zocor, Altace and ASA.
+Mr. McIntyre underwent a prostate biopsy in May 2007, and feels very depressed and dejected since he has known his biopsy result.
+He is being followed at Sunnybrook Cancer Centre and is scheduled to see Dr. Baral, Psychiatrist at St. Michael’s to help him cope with his severe depression.
+S.H. Ismail
+Family Physician
+October 29, 2007
+[6] I did not grant an adjournment. The letter made no mention of any surgery in September, or anything that related specifically to Mr. McIntyre’s inability to appear on October 31, 2007. He indeed did not show up on October 31, 2007.
+[7] On October 31, 2007 Mr. Bartleman for the Respondent applied to have the matter dismissed, but also advised the Court that he had obtained the relevant court orders with respect to Mr. McIntyre’s child support payments and wished to amend the Reply. A court order dated January 22, 1998 clearly established a commencement date that would render Mr. McIntyre’s child support payments non-deductible. I allowed the amendment and then, after considerable representations from Mr. Bartleman, I dismissed Mr. McIntyre’s appeals for non appearance.
+[8] As is clear from the transcript, this decision was not made without consideration of possible alternative approaches to Mr. McIntyre’s appeal, but for the reasons given at that time I was convinced dismissal was in order.
+[9] For Mr. McIntyre to successfully get this dismissal set aside he must, in accordance with subsection 18.21(3) of the Tax Court of Canada Act satisfy me that it would have been unreasonable in all the circumstances to have attended on October 31, 2007. He has not convinced me on that score, as he has relied solely on two letters from physicians which the Court had already received prior to October 31, 2007, Dr. Ismail’s letter cited earlier being one of them. While I have sympathy for someone suffering the medical woes that Mr. McIntyre suffers the letters do not address specifically his condition on October 31st. He was not a well man, I accept that, but without intending to be too harsh, he was not described as recuperating from surgery, or being advised to stay in bed, or being hospitalized.
+[10] Had I found that his medical condition did truly prevent him from appearing (which I have not found) it is still within my discretion whether or not to set aside the dismissal and I would still have set it aside. The Appellant has been given every opportunity to bring forward materials to support his case. He has not done so. The Respondent has indeed made the effort to track down the documents that might have supported Mr. McIntyre’s position. As it turned out, they do not. Given the several delays, the concessions already made to accommodate him, the failure to provide materials that should have been in his possession and the most likely outcome of these appeals in the circumstances, it would serve no purpose to allow this matter to continue.
+[11] For these reasons, I dismiss Mr. McIntyre’s application to set aside the judgment of November 7, 2007.
+Signed at Ottawa, Canada, this 17th day of December, 2007.
+“Campbell J. Miller”
+Miller J.
+CITATION: 2007TCC756
+COURT FILE NO.: 2005-651(IT)I 2007-364(IT)I
+STYLE OF CAUSE: Gilbert Ignatius McIntyre v. The Queen
+REASONS FOR ORDER BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: December, 17, 2007
+APPEARANCES:
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

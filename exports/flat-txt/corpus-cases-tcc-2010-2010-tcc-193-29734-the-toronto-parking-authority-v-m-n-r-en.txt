@@ -1,0 +1,384 @@
+Title: The Toronto Parking Authority v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29734/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-193-29734-the-toronto-parking-authority-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2010-04-12
+
+# The Toronto Parking Authority v. M.N.R.
+
+- Citation: 2010 TCC 193
+- Decision date: 2010-04-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6541, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+The Toronto Parking Authority v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-04-12
+Neutral citation
+2010 TCC 193
+File numbers
+2008-1496(CPP)
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Canada Pension Plan
+Decision Content
+Docket: 2008-1496(CPP)
+BETWEEN:
+THE TORONTO PARKING AUTHORITY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SAADATOLLAH AKBARIAN-BORUJENI, LEMMA BEDADA,
+LENNOX CLARKE, KEVIN JAMES GAUTHIER,
+ZEWDU GEBRE-HIWET, D. CHARMAINE HUNTER,
+GEORGE MANDRAPILIAS, MARY CLARE MAYO,
+JIM McMAHON, THOMAS PHILLIPS, JEMBERE SEYOUM,
+TOM TSANIS, ABDOLREZA MILANINIA, MICHAEL KOO,
+MANUEL CORDEIRO, LILY LEE, MOZHTTN MARCA,
+GINA TUCCIARONE, DEBORAH KEANE, ALICIA NGUYEN,
+NANCY McCART and GUS GEORGAKOPOULOS
+Intervenors.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Lorne Bolte, 2007-4359(IT)I and 2008-1522(CPP) on June 15, 16 and 17 and November 12, 2009, at Toronto, Ontario
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+Counsel for the Appellant:
+David Brady
+Counsel for the Respondent:
+Samantha Hurst
+Counsel for the Intervenors:
+David Brady
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeals pursuant to section 28 of the Canada Pension Plan are dismissed, and the decision of the Minister of National Revenue on the appeal made to him under section 27 of the Plan is confirmed, with costs to the Respondent.
+Signed at New Glasgow, Nova Scotia, this 12th day of April 2010.
+“T.E. Margeson”
+Margeson J.
+Docket: 2007-4359(IT)I
+BETWEEN:
+LORNE BOLTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+The Toronto Parking Authority, 2008-1496(CPP) and Lorne Bolte,
+2008-1522(CPP) on June 15, 16 and 17 and November 12, 2009,
+at Toronto, Ontario
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+Counsel for the Appellant:
+David Brady
+Counsel for the Respondent:
+Samantha Hurst
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2003, 2004 and 2005 taxation years are dismissed, and the Minister’s reassessments are confirmed, with costs to the Respondent.
+Signed at New Glasgow, Nova Scotia, this 12th day of April 2010.
+“T.E. Margeson”
+Margeson J.
+Docket: 2008-1522(CPP)
+BETWEEN:
+LORNE BOLTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+THE TORONTO PARKING AUTHORITY,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+The Toronto Parking Authority, 2008-1496(CPP) and Lorne Bolte,
+2007-4359(IT)I on June 15, 16 and 17 and November 12, 2009,
+at Toronto, Ontario
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+Counsel for the Appellant:
+David Brady
+Counsel for the Respondent:
+Samantha Hurst
+Counsel for the Intervenor:
+David Brady
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal pursuant to section 28 of the Canada Pension Plan is dismissed, and the decision of the Minister of National Revenue on the appeal made to him under section 27 of the Plan is confirmed, with costs to the Respondent.
+Signed at New Glasgow, Nova Scotia, this 12th day of April 2010.
+“T.E. Margeson”
+Margeson J.
+Citation: 2010 TCC 193
+Date: 20100412
+Docket: 2008-1496(CPP)
+BETWEEN:
+THE TORONTO PARKING AUTHORITY,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+SAADATOLLAH AKBARIAN-BORUJENI, LEMMA BEDADA,
+LENNOX CLARKE, KEVIN JAMES GAUTHIER,
+ZEWDU GEBRE-HIWET, D. CHARMAINE HUNTER,
+GEORGE MANDRAPILIAS, MARY CLARE MAYO,
+JIM McMAHON, THOMAS PHILLIPS, JEMBERE SEYOUM,
+TOM TSANIS, ABDOLREZA MILANINIA, MICHAEL KOO,
+MANUEL CORDEIRO, LILY LEE, MOZHTTN MARCA,
+GINA TUCCIARONE, DEBORAH KEANE, ALICIA NGUYEN,
+NANCY McCART and GUS GEORGAKOPOULOS
+Intervenors.
+Docket: 2007-4359(IT)I
+AND BETWEEN:
+LORNE BOLTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2008-1522(CPP)
+AND BETWEEN:
+LORNE BOLTE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+THE TORONTO PARKING AUTHORITY
+Intervenor.
+AMENDED REASONS FOR JUDGMENT
+Margeson J.
+[1] These cases were all heard on common evidence. Neither Lorne Bolte nor any intervenors wished to take part in the hearing although being advised of their rights to do so.
+[2] The Minister of National Revenue assessed the Appellants for the taxation years 2003, 2004 and 2005 for “parking benefits” on the basis that they were taxable benefits and as such attracted Canada Pension Plan contributions, pursuant to paragraph 6(1)(a) and subsection 12(1) of the Canada Pension Plan (the “Plan”) and paragraph 6(1)(a) of the Income Tax Act (the “ITA”).
+[3] Except for Lorne Bolte, the expenses relate to the Toronto Parking Authority’s share of the contributions. Mr. Bolte’s appeal relates to both income tax and Canada Pension Plan.
+Evidence
+[4] Gwyn Thomas testified that he has been employed by the Toronto Parking Authority (“TPA”) for 34 years. He has been President since 2007 and Vice‑President from 2003 to 2007 and before that he was a manager and other managers reported to him. The TPA has attended parking garages and unattended parking facilities; as well, it has on-street parking machines and formerly had parking meters.
+[5] The TPA is a city board and operates independently from the City of Toronto. It has its own board of directors which is appointed by the City.
+[6] The board operates as a business and turns over 75% of its profits to the City and 25% is retained by the board for its capital program. In 2009, it generated $50 million in revenue.
+[7] He identified exhibits A-1, A-2 and A-3 which were admitted by consent. The map indicates the unattended lots (yellow), the attended lots (green) and the Toronto Transit Commission lots (red) operated by the TPA under a management agreement.
+[8] Under the Collective Agreement, there are two classifications of employees, attendants and maintenance employees. Electricians and technicians are classified as M1 category, the less skilled are classified as M2 category, who look after the equipment, and the labour level, M3 category.
+[9] The agreement provides for the limited supply of passes to the employees to be used during their off-time but it is silent as to parking during the employees’ work periods. It was never discussed as a benefit to the employees. If a worker does not drive to work he receives no allowance.
+[10] During the years in issue, the TPA had 30 attended lots and 170 unattended lots.
+[11] The rates charged vary according to the lots. There are monthly rates and event rates.
+[12] Sometimes the workers are on standby and go directly to the work site. Their tools are in their cars. They receive no allowance for this trip. Sometimes the M1s may pick up parts on their way to a job using their own cars. Maintenance workers work five eight-hour shifts and attendants work five eight-hour shifts or four ten‑hour shifts.
+[13] Sometimes the workers cannot use the TTC so if they have no car an attempt is made not to assign those workers to that period. When a worker is acting as a “spare”, they may have to go from one lot to another and use their own car. They are not reimbursed.
+[14] The attendants are rotated from one location for revenue control. They also go from one location to another to give attendants a lunch break, use their own cars and are not reimbursed.
+[15] There is a monitoring system for all of their locations and a monitoring station where there are two workers 24 hours a day for seven days a week.
+[16] Since 1952-1953, there has been no charge parking for attendants but not for personal use. However, the TPA does not lose money because the lots are not full. No employee is guaranteed a space. At the St. Lawrence lot, there are spaces blocked off for the TPA’s vans and service vehicles and the attendants work part‑time. The lot operates 24 hours, seven days a week.
+[17] The money collected is put in a cash drawer and the attendant is responsible for closing, reconciling accounts and deposit slips and delivering the money to the manager’s office. They carry their float with them.
+[18] They collect thousands of dollars per day and they must deliver the collections to one of five management offices in their area. The attendants walk or drive to these offices. There have been some robberies.
+[19] In 2003, 2004 and 2005, they had a drop place at a bank.
+[20] At night, there is no demand for the spaces from the public. The lots are mostly empty.
+[21] The TPA agreed to appeal the ruling which indicated that parking privileges were taxable.
+[22] The witness opined that the only benefit derived from the employees’ parking was to the TPA as it facilitated the authority in responding to any situation.
+[23] In cross-examination, he said that he does not do the scheduling and is not aware of each employee’s circumstances at work. He was unaware of which attendants had cars.
+[24] There was no requirement for an attendant to have a car. There was no term in the contract that provided for free parking by the attendants.
+[25] At the City Hall parking lot, the booth attendants may work at different booths at the same location or in different locations.
+[26] In 200 facilities, they have had five thefts. They have security cameras and some security officers. The private security officers do not accompany the attendant when he/she is making the deposit.
+[27] The attendants go directly to their assigned location and punch in a time clock. They do not contact headquarters. They would likely only go to other locations if they were a “spare”. Finding a parking space did not seem to be a problem.
+[28] Most of the employees’ expenses are covered in the Collective Agreement but not parking as it was never an issue. “Standbys” are expected to have a car. They are not reimbursed for gas. Persons working at the monitoring station do not receive money or meet customers but they are entitled to free parking. The lots have a constant turnover and are never full.
+[29] In re-direct, the witness said that supervisors are reimbursed for travel.
+[30] He did not know if TTC services were available for those employees at the monitoring stations.
+[31] Lorne Bolte was an attendant for 24 years and is one of the Appellants here. He is now a maintenance worker.
+[32] At the beginning of a shift, he was given a float of $200 which he kept with him at all times except when he goes on vacation. He drives to work. There is no “drop safe” in the booths, but perhaps a drawer and a cash register. They are supposed to make two drops a shift. Until then, he puts the money in the trunk of his car. Others do as well.
+[33] When he arrives for work at the lot he gives himself a parking ticket and at the end of the day has it rung off by the person taking over.
+[34] He indicated that he cannot take the TTC at 5:30 in the morning when he arrives for work. He does the inventory by using his car. It is fast and beneficial to the TPA.
+[35] At the end of the night shift, there is no TTC service nor on the early morning shift on Sundays. He has acted as a spare and he may have to go to other districts. He uses his car and receives no reimbursement. He does not pay for parking. It is just a verbal agreement.
+[36] He makes his first deposit around lunch time. He is away for 45 minutes and the lunch person looks after his booth. He usually makes two deposits during his shift depending on the amount of business. He is not required to have a car. A person who has no car walks. He does not use the TTC because it is slower and there is the security factor. He wears a uniform.
+[37] Before the drop centres were available, they used the bank or he took the deposit home.
+[38] He works at the Air Canada Centre lot and parks there. He may park on the diagonal lines if it is busy. Sometimes the supervisor makes the deposit.
+[39] The deposit could range from $500 to $3,000 for the shift. He has a green deposit bag. The Parking Authority is not losing any money because of his parking. He was assessed a benefit in 2003 of $960. He did not complete the declaration.
+[40] In 2004 and 2005, he was taxed on the basis of the number of days that he worked. He does not believe that he has received a benefit. It may be a convenience. There is no loss to the TPA.
+[41] In cross-examination, he said that not all booths had cameras but they had a telephone and a panic button. A supervisor came in once per shift. He was told that he had free parking the first night that he was there. He could not get from his residence to work without a car. The parking is a convenience to him and the security is important. There is no expense to the TPA. He is not allowed to save a parking space.
+[42] He never heard of anyone being in trouble because they did not have a car and he never heard of anyone complaining about making a deposit without a car. His lot is at the high end of the parking fees.
+[43] At the present time, he is a semi-skilled worker and drives the truck owned by the TPA. He parks his own vehicle where the TPA’s vehicle was.
+[44] If he could not park for free on the lots, he would take the TTC but it is not normally operating.
+[45] In re-direct, he said that he does not need a public space and only uses the lot about 160 days per year.
+[46] Barry Martin was the Director of Human Resources for the TPA. He has worked for the TPA for 29 years. The TPA has union and non-union employees. “No charge parking” has never been considered by them to be a benefit. It was never discussed.
+[47] They had discussions with the employees about the banking and deposit concerns, especially about night deposits. The TPA has seven locations for deposits in their garages. They also have monitored, secure deposit rooms.
+[48] They have had robberies in the past, some of which are not on the list provided for this case. One worker was stabbed and hospitalized and received Workers’ Compensation benefits. The TPA had to make good by paying $218,637.09 in assessments to the Workers’ Compensation Fund between 2002 and 2005.
+[49] Supervisors use their own cars during the day and receive mileage. The technicians and maintenance workers do not.
+[50] In the event of an attendant not having a vehicle during a late shift, he will call for a supervisor or call a family member to take him to make the deposit. Sometimes security people will take the attendant.
+[51] In 2003 and 2004, the TPA had an audit by Canada Revenue Agency (CRA) in regards to the free parking by the attendants. The TPA took the position that since it was “scramble parking” (no guaranteed space), it was not a benefit to the employees. There was always excess space. This was shown to CRA by walking through the lot at 33 Queen Street East at 11:00 a.m. There were many empty parking spaces. There was no loss to the TPA financially and therefore no benefit to the employees.
+[52] CRA said that there was no market value to the Rockcliffe lot and no benefit even though there were no other parking lots there. They even assessed the workers at Lot 43 which is not even open to the public.
+[53] It was his position that the beneficiary was the TPA. It allowed them to move a person quickly from one place to another in the collection of fees.
+[54] In cross-examination, he said the situation has always been the same. He did not know which attendants had a car. Each attendant had to carry his float and make deposits whether he had a car or not if he was working.
+[55] The Collective Agreement is comprehensive and sets out what reimbursements are available to the attendants.
+[56] There may have been one “day incident” in 2002. Several attendants have told him about their concerns and getting a family member to pick them up at night to enable a deposit to be made. The stabbing incident referred to was in the 1980s.
+[57] The document located at Exhibit A-1 at Tab 10 was not a complete list of major criminal occurrences and it does not refer to incidents regarding customers.
+[58] There is no way of knowing whether more money would be stolen if the attendant did not put his money in the trunk of his car. The attendants’ fears are somewhat alleviated if they have a car. Some floats are left in the booth overnight.
+[59] When the Minister assessed the workers, he took the higher monthly rates and it resulted in a higher benefit.
+[60] With respect to Lot No. 43, there are lots near there that are typical and not operated by the TPA.
+[61] In re-direct, he said that there is no tracking of employee parking except for the daily reconciliations to account for all spaces used.
+[62] CRA used TPA’s rates and did not accept their excess inventory argument.
+[63] The spaces at 33 Queen Street, Lot No. 26, were not used by the public. There is no demand for them.
+[64] Rossana Minichiello began working full‑time for the TPA in 1986. He was an attendant and then became a Grade One maintenance employee. Free parking was always understood to be the situation. At one time, he was a probationary supervisor and used his car to perform his duties and was paid $0.23 per kilometre for the business portion.
+[65] There were three parking lots where they could not park: Lots 16, 34 and 108 (the St. Lawrence Market lot). Lots 16 and 108 were very small and had a high turnover rate. The spaces were always in use. He was required to park in nearby lots. He was responsible for the float and all amounts collected. He had to balance all transactions for his shift. This might take until 1:00 a.m. or 2:00 a.m., and then he had to deposit the money to the bank at Spadina Avenue and Bloor Street West.
+[66] He would turn off some lights in the booth so he could see outside. He put the money in a bag and then drove in his car past the bank before making his deposit. His car was invaluable to him in making his deposit. He would lock the money away in his trunk. When he worked as a spare, he would use his car to go to the other area. He considered that he had an advantage over those without a car. They are responsible for the float at all times and must have it with them.
+[67] They preferred to walk to make the deposit rather than use public transportation. If you are asked to go to another area because someone is sick, it is much easier if you have a car. It is faster and the sick person can leave. It benefits the Parking Authority.
+[68] Sometimes the TPA designated spots are used by the public. Some of the employees use the TPA service spot for their own vehicles. It saves you from using a revenue-generating spot.
+[69] He uses the car for carrying his supplies and takes them home for the night, returning them to the garage the next day or using them in his work. This is a benefit to the employer because there is no loss of time. He also carries tools in his car because of the call-out procedure, where he might go to a booth to meet the attendant because the ticket machine is not working. He gives the parking ticket to the customer free and he is happy and does not have to wait too long. They have cleaners who clean the booths during periods when TTC services are not available.
+[70] It is common for the night maintenance to lock up the float and transaction money in their cars. They are responsible for the money from the time they start until they sign off. A lot of the night maintainers use their vehicles to go to site deposits and to check the surroundings before they put the money in the slot. There have been many occasions when night maintainers have been held up and assaulted.
+[71] He referred to a letter he wrote to CRA indicating that the method of calculating the benefit was arbitrary and he objected to being assessed retroactively.
+[72] There was no revenue loss to the TPA when he parked his vehicle where a TPA vehicle had been.
+[73] In cross-examination, he said that he was an attendant from 1984 to 1987 and is familiar with the standard operating procedure which is employed at every cashier’s booth.
+[74] The extra shifts are a benefit to him and the use of his car was a benefit to him in going to a new location. It is also a service to him and the TPA if he has to go home and then come back in.
+[75] He works at Lot 36 and rarely parks in the space occupied by the service vehicles because there are usually other spaces available.
+[76] There were more occurrences involving the money than those reported in Exhibit A‑1 at Tab 10. He never heard of a person being fired because his money was stolen. It is not a requirement that the money be put into the trunk of the car. He never had to pay for parking while at work during his whole career.
+[77] He opined that if he did not have a free parking space he would look for a free space or a cheaper lot. It is significant for him because his wife parks free as well.
+[78] The Respondent called Judy Graham who was an Employer Compliance Officer with CRA. She has been with CRA for 32 years and has been a compliance officer for eight years. Her job is to review the records of the employer to determine if all proper deductions and remittances have been made. She tries to obtain all information from the employer by use of interviews and correspondence.
+[79] She checked expense amounts against the payroll records and prepared a work sheet and a spread sheet. She spoke to the employer several times. She did a statement of account and wrote a proposal letter. She started this work in January of 2005.
+[80] There was another auditor involved before her. It was a routine audit. She reviewed those declarations that the auditor and the TPA had completed.
+[81] Her interaction with the TPA was cordial. To calculate the value of the benefit, she used the TPA rates for the different lots. They used a minimum rate for attendants and a full benefit rate for office staff and maintenance workers.
+[82] She referred to Exhibit R-1 and explained how she calculated the benefits. She provided documents to the TPA and they discussed her calculations and made some suggestions. After discussions, she deducted the benefits for the Rockcliffe lot since it was in an outlying area and there were no other parking lots there. Their office did the CPP only and the income tax was done by another office.
+[83] She explained how she calculated the benefit for the Appellant Lorne Bolte. She used a five-day week and he used a seven-day week. She then multiplied that by the number of months. She did not accept Mr. Bolte’s position on the number of days he used the lots.
+[84] In cross-examination, she said that she had many meetings with Mr. Martin at his head office on Queen Street near Yonge Street, and did a walk-through of the lot. It was not full. They said that there was no loss of income to the TPA. She did not talk to the maintenance people.
+[85] She was open to making adjustments if they received information.
+[86] The TPA did not tell her where the bank was located when they raised the security issue and discussed the primary benefit argument.
+[87] The Collective Agreement did not come into play as far as she was concerned. She returned to the spread sheets and said that she became aware that there would be vacations involved which would change the figures but she received no information about the vacations. She used the $220 figure which was based on the highest monthly rate for twelve months. She did not think that this was unreasonable. She had to do the best she could with what information she had.
+[88] She talked to Mr. Martin about an Air Canada standby charge but did not get back to him because she believed it to be irrelevant.
+[89] She used a reduced rate when people were working at night. If she knew they were working at night, she used the lower rate.
+Argument on Behalf of the Appellant
+[90] The evidence given by the witnesses called by the Appellant was accurate, current and relevant to this case.
+[91] The no-charge parking had been in effect for a long time and was not negotiated as a benefit and was not considered to be a benefit at all. It was not a form of extra remuneration where people who did not use it got anything in lieu thereof.
+[92] It was not a form of remuneration. The Collective Agreement covered all aspects of the relations between the workers and the TPA and no charge-parking was not mentioned. There was not even a written policy about it. It was an understanding only. This has to be given some weight.
+[93] There was no guaranteed space and there was no loss to the TPA because there were always available spaces.
+[94] The methodology for calculating the benefit was unfair and arbitrary, according to the letter at Tab 14 of Exhibit R-1. If the worker had known that he would have been assessed a benefit he could have made other arrangements or parked at a lot with lower rates. The workers were told not to park at the high turnover lots where the TPA would have lost revenue.
+[95] If it was scramble parking there was no benefit according to the CRA bulletins. Here the characteristics are the same. The issue should not turn on whether it is scramble parking or not.
+[96] With respect to the maintenance workers, they use their vehicles for storing their tools and also to pick up supplies. Mobility is important as well as efficiency.
+[97] It is a quid pro quo situation because there is no reimbursement for using their vehicle and the benefit goes to the TPA.
+[98] There is a tight schedule for the different jobs. Maintenance people have to attend some lots before transit service is available. The night maintainers start at different times. There can be no market value for the garages because there is no demand for the spaces. The cars are used for security reasons, for the storing of money and to enable the deposits to be made in safety by checking out the deposit sites before making the deposit. Sometimes there is upwards of $2,000 involved.
+[99] There is a risk of crimes being committed against the workers. The crime events list provided was not an exhaustive one. The workers were aware of the danger.
+[100] The use of a car by spares is a necessity or requisite or at least a great convenience to them. Their work is done more efficiently.
+[101] This is not an employee benefit or quirk, nor part of the compensation package.
+[102] The Court should find that the TPA is the primary beneficiary of the relationship and that the employees obtain no benefit except in an ancillary way. When one is not reimbursed, it is only a privilege. No one has ever associated it with a benefit.
+[103] The so-called benefit has not been calculated properly. The CRA have used such a “broad brush” in calculating the benefit that it cannot be relied upon. It was an arbitrary calculation. There is no way that they can be assessed retroactively.
+[104] There was no market value because there were no takers for the spaces.
+[105] The CRA used twelve months as a punishment for those who did not provide information about their vacation days or sick days. Further, the CRA representative did not talk to a single maintenance worker. It underscores an arbitrariness that is not subtle.
+[106] Mr. Bolte said that the CRA agent was not prepared to listen. The fundamental decision was made and it was not changed. It produced unreliable results.
+[107] Counsel cited and relied upon the case of Adler v. Canada, 2007 TCC 272, 2007 DTC 783, and said that in the present case as well as there, there was evidence that the primary beneficiary was the TPA and not the workers.
+[108] Here there was no economic advantage to the workers. They had to pay their gas, insurance and operating expenses. The benefit could not be measured.
+[109] In Lowe v. Canada, [1996] 2 C.T.C. 33 (FCA), the question of whether the advantage accrued primarily to the employer or the worker was considered. In the case at bar, the primary benefit was to the TPA.
+[110] As in Saskatchewan Telecommunications v. Her Majesty the Queen, 99 DTC 1306, there was a quid pro quo in the case at bar. They got back what they gave. There was no basis for making an assessment. It sorted itself out over the years.
+[111] In the case at bar, as in Chow et al v. Her Majesty the Queen, 2001 DTC 164, the economic advantage was to the employer and not the worker.
+[112] The onus is on the Minister to identify a set of facts that can give rise to a proper analysis. He could have taken into account the list of factors referred to at paragraph 159 of the Adler case in determining if the benefit was primarily to the worker or to the employer.
+[113] In effect, there is scramble parking, even though the employees are always able to park. The employees use their vehicles regularly for business.
+[114] The Minister’s determinations are full of suppositions. The calculations cannot be relied upon. The appeals should be allowed with costs.
+Argument on behalf of the Respondent
+[115] Counsel said that there are two legal issues here:
+(i) Was the parking a taxable benefit; and
+(ii) If it was taxable, was the amount paid to the employees by the employer?
+[116] There were 255 full-time employees at the TPA but only 66 cases are before the Court. Only the maintenance workers and the attendants are in issue. The CPP assessment should be upheld against those listed in the Reply.
+[117] The workers were not required by their employer to have a car and use it in their work. Any use of the cars was incidental and not a duty that could be enforced. The Collective Agreement was the whole agreement between the TPA and the workers and it did not address the issue.
+[118] There were many other workers at the TPA that did not use a car and did not need one. There was nothing in the Collective Agreement about making deposits. It is a neutral factor.
+[119] The TPA did not know who had cars and the workers did not have to say whether they had a car or not. If having a car was so important to the employer, why did they not keep track of who had one so that they could assign them to certain places? It was a neutral factor.
+[120] Insofar as security at the deposit chute was concerned, whether you walked or drove you ended up there alone.
+[121] There was no evidence that the employer complained about any worker not having a car, whether the TPA’s insurance rates went up if there was no car used, or whether there was a saving to the TPA when the employees used a car.
+[122] It was more of a concern that deposits were lost in the bank chute rather than security that led to the establishment of deposit centres on the property of the TPA.
+[123] According to Exhibit A-1, Tab 10, the major criminal occurrences took place at the lots and not on the way to do the deposit.
+[124] The use of the car did not facilitate overtime or standby services. It was more convenient but did not amount to a benefit to the employer. It was a convenience to the employee.
+[125] Mr. Bolte’s evidence about the Air Canada Centre lot is not germane to his appeal because he did not work there.
+[126] Scramble parking is not an issue here because there were always spaces available. The system used here was not akin to scramble parking.
+[127] There were some lots that were off-limits to the employees. If a car was so important to the employer, why would it not ensure a space for the workers there?
+[128] The prime motive of the TPA was profit and therefore any benefit accruing to the employer was mainly ancillary.
+[129] Exhibit A-3 was not definitive of the availability of buses or other public transportation to the lots early in the morning or late at night. The Appellants have not established that public transportation was not available.
+[130] In the Adler case above, 14 out of 16 claimants had their cases dismissed. In every such case, the Court found it was a benefit to the employee. This was not a “quid pro quo” case, it was a case of “primary benefit”. Only two employees in the case at bar gave evidence about benefits. In Richmond v. Her Majesty the Queen, 98 DTC 1804, it was decided that if there was a value to it, it was a benefit.
+[131] With respect to the CPP issue, the Court must find that the payment was a direct payment from the employer to the employee. There is no issue about that in this case. The property (the spaces) were held by the TPA and were transferred directly to the workers.
+[132] With respect to evaluations, there is no better indication of rates that those charged by the TPA to the public. CRA charged the night rate and asked for feedback from the TPA but there was none given respecting valuation.
+[133] This is a self-assessing system and the taxpayer must provide information to ensure the best treatment possible.
+[134] The question of valuation was considered in the case of Schutz v. Canada, 2008 TCC 523, [2009] 2 C.T.C. 2183. There the Court held that the onus is on the Appellant to show that the method used by the Minister was either inaccurate or inappropriate or that another mechanism or formula was more reasonable (adopting the reasoning in Dunlap v. Canada, [1998] 4 C.T.C. 2644).
+[135] In the case at bar, there was no evidence tendered about a more appropriate method.
+[136] Several witnesses testified that they worked twelve months. The monthly rate was the most reasonable according to the witness called by the CRA. There was no evidence that it would result in an over-valuation of the benefit.
+[137] Because the employer also enjoys an advantage, that does not reduce the value of the benefit to the employee.
+[138] In the Chow case above, the parking spaces were full sometimes but that is not the case here. The spaces were always available. If the employee parked in a non‑parking space, it was a convenience for him.
+[139] In the Adler and Chow cases, there was evidence that they could not get to work by public transit.
+[140] The appeals should be dismissed.
+[141] In reply, counsel for the Appellants said that the witness did not say that he never used a car pool with his wife. He said he uses the car and not his wife so this is not evidence that the car is not too important to him.
+[142] Counsel for the Respondent said that the car was not required by the TPA but that does not mean that there was not a benefit to the Authority. The evidence was that it was a benefit and it was a primary benefit.
+[143] From Exhibit R-2 at Tabs 1, 2 and 3 you can see who have cars and who do not. The majority of the workers had cars and used them.
+[144] The supervisors know who have cars and those who do not were not assigned to the Air Canada Centre lot and could not act as spares.
+[145] To say that the security factor is neutral is not correct. There is a big decrease in risk when making a deposit by using their cars.
+[146] It is more efficient to have a car when doing overtime or when on standby as they can go directly to their work and the Authority gains more revenue.
+[147] The transportation schedule was introduced in a TTC document and from it you can see that employees have to work at times when service is not available.
+[148] Regarding the valuation, to say that there were nine or ten adjustments does not mean that the assessments were correct.
+[149] For everyone who did not respond, the Minister assumed that they worked twelve months.
+Analysis and Decision
+[150] There are two legal issues in these appeals:
+(i) Was the parking a taxable benefit?
+(ii) If so, what was the value of the benefit? Has the Minister properly calculated the value of that benefit?
+[151] The appropriate portion of the Income Tax Act that is in play in these appeals is paragraph 6(1)(a) which without defining benefit says:
+Amounts to be included as income from office or employment
+6(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+Value of benefits
+(a) the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment, except any benefit …
+[152] This is obviously a wide ranging and very inclusive provision. The Courts have tried to apply this section in many cases and the results are as varied as the factual situations in each of those cases dictate.
+[153] Professor Vern Krishna in his book, Fundamentals of Canadian Income Tax (9th ed.) (Carswell, 1996) at pages 229-230 attempted to define the term a little more precisely than any guidance given in the section itself by saying:
+A benefit is an economic advantage or material acquisition, measurable in monetary terms, that one confers on an employee in his or her capacity as an employee.
+[154] One of the elements considered by Professor Krishna was the question, was the economic advantage for the benefit of the employee or for the benefit of his or her employer?
+[155] This element has been relied upon heavily by counsel for the Appellants in this case. He took the position that the key question was, who is the primary beneficiary of the payment? But there is difficulty in the cases at bar by relying too heavily on that question, because here, there were benefits to both the employer and the employee and it is impossible to say who benefited most from it.
+[156] Of considerable importance is the consideration as to whether the personal element is incidental (see McGoldrick v. Canada, 2003 TCC 427, 2003 DTC 1735).
+[157] This Court agrees with Rowe D.J. in the case above at paragraph 159 when he said:
+159 With regret, I doubt any magic formula or template is capable of resolving the central issue in most circumstances but there are some factors that could be considered by employers prior to providing a benefit to an employee if the matter of taxation is a matter of concern.
+[158] In the cases at bar, no consideration was given by the employer to any of the factors listed by Rowe D.J. because the matter was never discussed between the employer and the workers and the matter of parking was always considered to be a privilege that each worker who had a car was entitled to enjoy, neither the employer nor the workers considered it to be a benefit and it was not the subject matter of any clause in the Collective Agreement.
+[159] In Pezzelato v. Her Majesty the Queen, 96 DTC 1285 at page 1288, Bowman J. (as he then was) said:
+It is easy to point to extremes at either end of the spectrum, but the cases that come with increasing frequency before the courts are not at either end. They fall somewhere in between. The courts must decide on which side of the line each case falls.
+[160] To do that the Court must look at the facts in each particular case and give to each factor the weight that it deserves in the context of the total set of facts elicited from the evidence. From the evidence given in the cases at bar, it is clear that the workers were not required by their employers to take their car to work or even to have a car. Some did not. They were not required to use their car in their work. The use of the car facilitated their work and was of some benefit to the employer but that benefit to the employer was merely incidental because otherwise the employer would have made the availability and use of the cars mandatory.
+[161] It was clear that if the employee did not have a car he was able to carry out his responsibilities satisfactorily and no person was ever refused employment or fired because he did not have a car at his disposal.
+[162] With respect to the security issue, the Court is satisfied that the workers probably felt more secure in driving to the deposit stations in their own cars, rather than walking, but some workers obviously walked and the employer and the employees must have accepted any risk as part of their work routine because they could choose to have a car or not and the employer accepted their decision.
+[163] Under the circumstances, the Court has difficulty in deciding that the security factor could help it decide whether it was a benefit or not.
+[164] Further, the Court has difficulty in concluding that the use of a car was a benefit to the employer because in the end the employer received the same service from the employer whether he had a car or not. If the security factor was so important to the employer then surely he would have made the use of a car mandatory.
+[165] The most that can be said is that the use of the car was a convenience for the employer in scheduling employees at different work locations, in providing standby services and in arranging overtime.
+[166] The Court is satisfied that the so called “scramble parking” is not relevant here because this was not scramble parking. There was always a space available for the employees except on rare occasions when the lots might have been full.
+[167] As argued by Counsel for the Respondent, the main motive of the TPA was profit and therefore any other benefit it received by virtue of the employees using their cars was ancillary.
+[168] The evidence did show that sometimes public transportation was not readily available to the employees but this does not mean that the availability of the free parking space was any the less a benefit.
+[169] The ease or difficulty of going to work was a matter that could have been addressed by the parties in their Collective Agreement and certainly at the time of hiring if it was a concern to either party.
+[170] The Court is satisfied that the workers in this case received a free parking space at work and this allowed them to drive to work and back home without paying for their parking space. It is immaterial that neither the employer nor the employee considered it to be a form of extra remuneration and did not include it in their Collective Agreement.
+[171] The Court is satisfied that what the workers enjoyed was more than an understanding. They had the right or privilege to park at the lots free of charge except on the rare occasion when the lot was full.
+[172] Further, the Court sees no merit in the Appellants’ argument that there was no economic loss to the TPA because the lots were never full. The Court does not accept the “quid pro quo” argument of the Appellants as being relevant. If they used their cars and were not reimbursed and incidentally the employer received a benefit then that does not mean that the workers did not receive a benefit. Both parties are capable of receiving a benefit at the same time.
+[173] The Court is satisfied that the primary beneficiaries were the employees and that any benefit obtained by the employer was ancillary. The Court is satisfied that what the workers obtained was indeed a “quirk” even though not covered in the Collective Agreement.
+[174] The Court does not accept the Appellants’ argument that any benefit received was not calculated properly. There was no evidence given which would allow the Court to conclude that some other method of calculation was preferable or that the result was inaccurate. As the agent from CRA indicated, they used the best information and method available and they gave a reasonable opportunity for the Appellants to have input that might have changed the calculations.
+[175] The Court is satisfied that the employees did enjoy or receive an economic advantage. That economic advantage was the value of the parking spaces that they occupied and is measurable in economic terms. There can be no doubt that their economic advantage was conferred upon the employees in respect of, in the course of, or by virtue of the employment relationship with the employees.
+[176] With respect to the C.P.P. issue, the Court is satisfied that the payment was a direct payment from the employer to the employee.
+[177] The appeals are dismissed and the Minister’s assessments are confirmed, with costs to the Respondent.
+Signed at New Glasgow, Nova Scotia, this 12th day of April 2010.
+“T.E. Margeson”
+Margeson J.
+CITATION: 2010 TCC 193
+COURT FILE NOS.: 2008-1496(CPP), 2008-1522(CPP) and 2007-4359(IT)I
+STYLE OF CAUSE: THE TORONTO PARKING AUTHORITY and THE MINISTER OF NATIONAL REVENUE and SAADATOLLAH AKBARIAN-BORUJENI, LEMMA BEDADA, LENNOX CLARKE, KEVIN JAMES GAUTHIER, ZEWDU GEBRE-HIWET, D. CHARMAINE HUNTER, GEORGE MANDRAPILIAS, MARY CLARE MAYO, JIM McMAHON, THOMAS PHILLIPS, JEMBERE SEYOUM, TOM TSANIS, ABDOLREZA MILANINIA, MICHAEL KOO, MANUEL CORDEIRO, LILY LEE, MOZHTTN MARCA, GINA TUCCIARONE, DEBORAH KEANE, ALICIA NGUYEN, NANCY McCART and GUS GEORGAKOPOULOS
+LORNE BOLTE and HER MAJESTY THE QUEEN
+LORNE BOLTE and THE MINISTER OF NATIONAL REVENUE and THE TORONTO PARKING AUTHORITY
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 15, 16 and 17 and November 12, 2009
+AMENDED REASONS FOR
+JUDGMENT BY: The Honourable Justice T. E. Margeson
+DATE OF AMENDED
+JUDGMENT: April 12, 2010
+APPEARANCES:
+Counsel for the Appellant:
+David Brady
+Counsel for the Respondent:
+Samantha Hurst
+Counsel for the Intervenors:
+David Brady
+COUNSEL OF RECORD:
+For the Appellant:
+Name: David Brady
+Firm: Hicks Morley
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Intervenors:
+Name: David Brady
+Firm: Hicks Morley
+Toronto, Ontario

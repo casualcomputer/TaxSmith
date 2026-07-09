@@ -1,0 +1,163 @@
+---
+title: "Cira v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29405/index.do"
+last_modified: "2009-07-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 439"
+citation2: ""
+neutral_citation: "2009 TCC 439"
+decision_date: "2009-07-13"
+language: "en"
+item_id: "29405"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6957
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:07:44.300000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "855e818618b2615b39c68dbc9e2fa0a02e66caaa4217c66f78229b3e1b0f864c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cira v. The Queen
+
+- Citation: 2009 TCC 439
+- Decision date: 2009-07-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6957, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cira v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-07-13
+Neutral citation
+2009 TCC 439
+File numbers
+2008-1548(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1548(IT)I
+BETWEEN:
+FRANK CIRA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 13, 2009,
+and decision rendered orally on July 15, 2009, at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Andrew Jun (student-at-law)
+Aleksandrs Zemdegs
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act with respect to the appellant’s 2005 taxation year is allowed, with costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons herein.
+Signed at Ottawa, Canada, this 14th day of September 2009.
+"Patrick Boyle"
+Boyle J.
+Citation: 2009 TCC 439
+Date: 20090914
+Docket: 2008-1548(IT)I
+BETWEEN:
+FRANK CIRA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered from the Bench on July 15, 2009, in Toronto, Ontario
+and modified for clarity and accuracy.)
+Boyle J.
+[1] These are my reasons for judgment allowing the informal tax appeal of Mr. Cira heard on Monday in Toronto.
+[2] This case concerns Mr. Cira’s claim to deductions of child support for 2005. In his objection and appeal he initially claimed that he had paid $6,354 of child support in 2005, but he now agrees he only paid $5,932, the difference being a late payment made in January 2006.
+[3] Mr. Cira and his wife had one child when they separated and subsequently divorced. They signed a separation agreement in 1988 and divorce proceedings commenced the following year.
+[4] In 1988, the separation agreement provided that Mr. Cira would pay child support of $350 per month.
+[5] On April 3, 1997, an Ontario court ordered Mr. Cira to pay child support of $450 per month commencing on May 1, 1997.
+[6] The Court further ordered that child support would increase for cost of living increases in accordance with the family law statutory régime based on Toronto statistics.
+[7] The following day, April 4, 1997, a support deduction order was also made providing for payment of the child support through Ontario’s Family Responsibility Office.
+[8] The Crown accepts that the amount of $5,932 was paid by Mr. Cira in 2005 pursuant to the April 3, 1997 order. The only remaining issue in this case then is whether the April 3, 1997 order has a “commencement day” for purposes of the Income Tax Act (the “Act”) as defined in subsection 56.1(4) of the Act. It is Mr. Cira’s position that it does not because the April 3, 1997 order is before May 1997.
+[9] It is the Crown’s position that the April 3, 1997 order has a commencement day because it requires that the first payment of the increased $450 amount commence May 1, 1997.
+[10] Mr. Cira testified that his child support payments were always payable on the first of month. This is confirmed by the 1988 separation agreement.
+[11] He testified that during the April 1997 hearing, the Ontario judge alerted his ex-wife to the imminent coming into force of the new régime for child support payments, that his ex-wife chose to proceed and not wait, and that the judge said that the status quo would therefore be maintained.
+[12] Mr. Cira explained that he tried to obtain transcripts but Ontario does not keep them beyond ten years.
+[13] Mr. Cira said the increase of child support to $450 in 1997 was to reflect that it had not been increased from $350 for cost of living since 1988. Mr. Cira’s ex‑wife is not a party to this proceeding and was not called to testify.
+[14] No evidence was submitted to show what child support would have been payable based upon Mr. Cira’s income under the new régime’s child support guidelines had it been applied or intended to apply.
+[15] The Canada Revenue Agency’s (“CRA”) rejection of Mr. Cira’s claim was not based upon the dispute framed in the pleadings to be resolved by the Court, but was because he originally sent the CRA a copy of correspondence from the Family Responsibility Office referring to the April 1997 order and not a copy of the order itself.
+[16] He next submitted to the CRA a copy of the 1989 Petition for Divorce and the April 4, 1997 support deduction order, but still not the April 3, 1997 order.
+[17] In its first letter responding to the Family Responsibility Office correspondence, the CRA says in part:
+Child support payments paid under court order or written agreement dated May 1, 1997, or later are not deductible.
+[Emphasis added.]
+[18] It is clear that the April 1997 order cannot have a commencement day by virtue of any of paragraph (a) or subparagraphs (b)(i), (ii) or (iii) of the definition of commencement day.
+[19] The Crown’s position is that even though the order is dated early April 1997 and has never been varied or replaced by another order or by agreement, the order has a commencement day of May 1 under subparagraph (b)(iv) of the definition because it provides that the $450 payments commence May 1, 1997.
+[20] Subparagraph (b)(iv) of the definition of commencement day provides:
+“commencement day” at any time of an . . . order means
+. . .
+(b) where the . . . order is made before May 1997, the day, if any, that is after April 1997 and is . . .
+(iv) the day specified in the . . . order . . . as the commencement day of the . . . order for the purposes of this Act.
+[21] For subparagraph (b)(iv) to apply to Mr. Cira’s April 3, 1997 order, there must be a day specified in the order as the commencement day of the order and that the commencement day be specified for purposes of the Act.
+[22] The question in this case is whether the 1997 order satisfies these two requirements. It is the Crown’s position that it does because the April 1997 order provides the payments will commence May 1, 1997.
+[23] The Crown relies upon the Federal Court of Appeal’s decision in Dangerfield v. The Queen, 2003 FCA 480, 2004 DTC 6025, to support its position. In Dangerfield, the court order for child support was also made in April 1997 and provided:
+There will be an order of child support in the amount of $250 a month commencing May 1st. . . .
+[24] The order was signed in May. It provided that the respondent would pay to the petitioner for the support of the said child the sum of $250 per month payable on the first day of each and every month commencing May 1, 1997.
+[25] In Dangerfield, the Federal Court of Appeal noted that it was clear from the record that the family court judge understood and intended that the child support amounts be under the new régime.
+[26] It was also clear the applicant mother, who was the appellant taxpayer, also understood and intended the new régime to apply. Further, the father was also aware that the mother was seeking to have the new régime apply.
+[27] The Federal Court of Appeal in Dangerfield found on those facts that the specified payment commencement day could constitute the commencement day of the order and that the order need not expressly say the commencement day was for purposes of the Income Tax Act.
+[28] The Court wrote in paragraph 15:
+The argument that the provision requires express reference in the agreement or order to the effect that the commencement day is being specified “for the purposes of this Act” is without merit. The jurisprudence is clear that such a technical requirement is unnecessary. The requirement is only that the commencement day be included in the order for the purposes of the Act; the order need not expressly state that it is for the purposes of the Act. It is often perfectly obvious, as it was here, that the date is specified for purposes of the Act, and, if it is not, evidence may be led to that effect, as was done in this case.
+[Emphasis added.]
+[29] The facts in Mr. Cira’s case are significantly different. The Crown could not point to any evidence that the judge making the April 1997 order or the mother or father intended the new régime to apply. The taxpayer’s evidence is that they were all aware the new régime would begin May 1 but chose to proceed under the old régime.
+[30] The child support amount was increased to $450. Had it been intended that the new régime apply, even though it was not yet May, one might expect the amount to be reduced instead to reflect that it was not in the deductible to payor and taxable to payee régime, unless the new support guidelines required an increase. I have no such evidence.
+[31] As the Federal Court of Appeal said at the end of the paragraph I just quoted from, when it is not obvious from the order or earlier proceedings that there is a commencement day specified for purposes of the Act, it is open to the Crown in this case to introduce evidence. It may have done this by calling the mother or otherwise, perhaps by joining her to the proceedings. It did not.
+[32] The Crown did not challenge the credibility of the father’s testimony on this or any other point. It did not describe some of his evidence on this point as hearsay or, given this is an informal hearing, as not the best evidence nor self-serving.
+[33] In these circumstances, I am satisfied that based upon the evidence before me, the April 3, 1997 order does not have a May 1 or later commencement day for purposes of the Income Tax Act. It does not have a commencement day at all.
+[34] Mr. Cira’s appeal is allowed with costs.
+Signed at Ottawa, Canada, this 14th day of September 2009.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2009 TCC 439
+COURT FILE NO.: 2008-1548(IT)I
+STYLE OF CAUSE: FRANK CIRA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: July 13 and 15, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: September 14, 2009
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Andrew Jun (student-at-law)
+Aleksandrs Zemdegs
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

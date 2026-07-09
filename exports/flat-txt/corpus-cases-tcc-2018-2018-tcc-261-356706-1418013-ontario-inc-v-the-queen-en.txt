@@ -1,0 +1,194 @@
+Title: 1418013 Ontario Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/356706/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-261-356706-1418013-ontario-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-12-21
+
+# 1418013 Ontario Inc. v. The Queen
+
+- Citation: 2018 TCC 261
+- Decision date: 2018-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4995, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1418013 Ontario Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-12-21
+Neutral citation
+2018 TCC 261
+File numbers
+2014-1889(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2014-1889(GST)I
+BETWEEN:
+1418013 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 6, 2018, at Toronto, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Rizwan Wancho
+Counsel for the Respondent:
+Kieran Lidhar
+JUDGMENT
+The appeal from the assessment dated October 16, 2012 made under Part IX of the Excise Tax Act for the appellant’s yearly reporting periods ending December 31, 2009 and December 31, 2010 is allowed and the assessment is referred back to Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+The appeal from the assessment dated October 16, 2012 made under Part IX of the Excise Tax Act for the appellant’s yearly reporting period ending December 31, 2007 is dismissed.
+Signed at Mont St-Hilaire, Quebec, this 21st day of December 2018.
+“Réal Favreau”
+Favreau J.
+Citation: 2018TCC261
+Date: 20181221
+Docket: 2014-1889(GST)I
+BETWEEN:
+1418013 ONTARIO INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from the assessment dated October 16, 2012 made under Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended, (The “ETA”) for the appellant’s yearly reporting periods ending December 31, 2007, December 31, 2009 and December 31, 2010.
+[2] By way of the assessment dated October 16, 2012, the Minister of National Revenue (The “Minister”) assessed the appellant Good and Services Tax (“GST”) for the yearly reporting periods ending December 31, 2007, December 31, 2009 and December 31, 2010 as follows:
+a) by assessing underreported GST in the amount of $1,201.98 and denying input tax credits (“ITCs”) in the amount of $857.32 for the yearly reporting period ending December 31, 2007;
+b) by assessing underreported GST in the amount of $2,703.27 and denying ITCs in the amount of $2,896,82 for the yearly reporting period ending December 31, 2009; and
+c) by assessing underreported GST in the amount of $2,821,35 and denying ITCs in the amount of $2,675.63 for the yearly reporting period ending December 31, 2010.
+[3] In assessing the appellant’s net tax for his yearly reporting periods ending December 31, 2007, December 31, 2009 and December 31, 2010, the Minister relied on the following assumption of facts :
+a) the facts stated and admitted above;
+b) at all material times, the Appellant was a GST registrant with GST Registration No. 86742 XXXX RT000;
+GST Collectible
+c) at all material times, the Appellant provided clerical, secretarial and paralegal work for other paralegals and lawyers using the business name NFP Group Consultants;
+d) at all material times, the Appellant referred clients to other paralegals or lawyers and received a referral fee;
+e) at all material times, Heselden, Khan and other paralegals or lawyers issued cheques to the Appellant which were deposited into the Appellant’s bank account, as detailed in Schedule “A”, attached hereto and forming part of this Reply;
+f) the amounts received by the Appellant from Heselden, Khan and other paralegals or lawyers related to the supply of paralegal and referral services provided by the appellant;
+g) the Appellant made supplies of paralegal and referral services in the amount of $31,318.34 in 2007, $100,600.47 in 2009 and $67,571.84 in 2010;
+h) the Appellant did not collect or remit GST in respect of the supply of paralegal and referral services in the amount of $1,201.98 for the period ending December 31, 2007, $2,703.27 for the period ending December 31, 2009 and $2,821.35 for the period ending December 31, 2010;
+ITCs
+i) the Appellant made errors in calculating ITCs which resulted in the Appellant claiming ITCs to which it was not entitled in the amount of $303.11 in the yearly period ending December 31, 2007 and $1,151.56 in the yearly period ending December 31, 2009;
+j) the Appellant claimed ITCs with respect to expenses for which the Appellant did not pay GST as follows :
+Description
+Period ending December 31, 2007
+Period ending December 31, 2009
+Period ending December 31, 2010
+Rental expenses
+$ 51.71
+$ 453.43
+$ 805.81
+Insurance expenses
+$ 48.91
+$ 28.98
+$ 84.99
+Professional expenses
+$ 225.55
+$ 258.96
+Travel expenses
+$ 84.91
+$ 162.21
+$ 157.18
+Construction expenses
+$ 610.68
+$ 727.26
+Financial and medical expenses
+$ 227.28
+k) the Appellant claimed ITCs for amounts paid for office and communication expenses which included provincial sale tax of $37.66 in the yearly period ending December 31, 2007, $36.84 in the yearly period ending December 31, 2009 and $16.67 in the yearly period ending December 31, 2010;
+l) the Appellant used the motor vehicle 80 percent of the time in the course of the Appellant’s commercial activity during the yearly periods ending December 31, 2007, December 31, 2009 and December 31, 2010;
+m) the Appellant claimed ITCs which were in respect of the personal use of the motor vehicle in the amount of $30.87 in the yearly period ending December 31, 2007;
+n) the Appellant claimed ITCs for motor vehicle expenses for which the appellant did not pay GST in the amount of $74.60 in the yearly period ending December 31, 2007, $194.91 in the yearly period ending December 31, 2009 and $397.59 in the yearly period ending December 31, 2010; and
+o) the Appellant claimed ITCs for advertising expenses in the amount of $285.85 in the period ending December 31, 2010 with respect to invoices issued not to the Appellant.
+[4] At the hearing, counsel for the respondent conceded the appeal in respect of the reporting periods ending December 31, 2009 and December 31, 2010 for both the GST and the ITCs because the Appellant was dissolved on November 17, 2008 and lost its registration for GST purposes.
+[5] As a result of the concession made by the Minister, the issues are whether:
+a) the appellant underreported GST in the amount of $1,201.98 in respect of supply of paralegal and referral services for the period ending December 31, 2007; and
+b) the appellant overstated its entitlement to ITCs in the amount of $857.32 for the period ending December 31, 2007.
+[6] Mr. Rizwam Wancho (“Mr. Wancho”) an officer of the appellant, testified at the hearing to explain his business relationship with Mr. Mohammed Zulfigar Khan (“Mr. Khan”), another paralegal and Mr. Paul Heselden (“Mr. Heselden”) a tort lawyer practicing in Pickering, Ontario;
+[7] Mr. Wancho explained that he was operating his paralegal business through the appellant under the tradename NFP Group Consultants (“NFP”). From 2002 to 2009, he worked with Mr. Khan who was not registered as a paralegal. Mr. Khan acted as an independent contractor and was not an employee of the appellant. The financial arrangements made with Mr. Khan was a 50%-50% sharing of the net revenues generated by their work. In 2007, the sharing arrangement was changed to 60% for Mr. Wancho and 40% for Mr. Khan.
+[8] Mr. Wancho explained that NFP referred Mr. Wancho’s and Mr. Khan’s clients’ files that could qualify for a third party claim to Mr. Heselden. The agreement with Mr. Heselden was that he would pay NFP 25% of the fees he would receive on settling such files.
+[9] After referring a client file to Mr. Heselden, Messrs. Wancho and Khan continued to provide services to the client by acting as an intermediary between the client and Mr. Heselden. Such services could include processing work on the file (i.e. investigating and collecting information and data, arranging, compiling, grouping information and data, processing various matters for the file, filling out various forms, translation and interpretation services and organizing medical examinations and assessments at the expense of the accident benefit insurer).
+[10] According to Mr. Wancho, the 25% referral fee payable by Mr. Heselden to NFP was supposed to be net of GST and, in fact, Mr. Heselden never paid any GST to NFP. Mr. Wancho stated that NFP had no written contract with Mr. Heselden and that NFP never sent an invoice to Mr. Heselden for the services provided. Mr. Heselden showed Mr. Wancho the settlement accounts of clients’ files which were referred to him by NFP. The referral fees payable to NFP were computed in reference to these settlement accounts. The cheques made by Mr. Heselden to the order of NFP were deposited in the appellant’s bank account as detailed in Schedule “A”, attached to the respondent’s Reply to the Notice of of Appeal.
+[11] Concerning the ITCs claimed by the appellant in respect of the rental expenses, Mr. Wancho admitted that no documents were submitted to support the claims but he mentioned that the appellant had copies of the cheques evidencing the rental payments made to the landlord and that the said copies of the cheques were subsequently submitted to the Canada Revenue Agency (“CRA”). At trial, Mr. Wancho did not contest the other amounts of ITCs the Minister disallowed for the reporting period ending December 31, 2007.
+[12] Mr. Paul Heselden also testified at the hearing. He explained that he had a business relationship with Messrs. Wancho and Khan from 2001 to 2010 because paralegals were not registered with the Law Society of Ontario at that time. They referred to him clients having tort claims, such as car accidents. Mr. Heselden recognized that both Messrs. Wancho and Khan provided services to assist clients in their claims. However, Mr. Heselden asserted that he never billed the clients referred to him by NFP for the services rendered by Messrs Wancho and Khan in helping for the preparation of their files. He was categorical in saying that he has always charged clients for the cost of his services only.
+[13] Mr. Heselden further explained that the files referred to him by NFP were taken on a contingency basis. It was a joint effort and there was no compensation or referral fees to NFP if the files were not successful. Mr. Heselden further added that the referral fees payable to NFP were not necessarily 25% of the legal fees generated by the files. The percentage varied based on the actual value of the services performed by Messrs Wancho and Khan. Mr. Heselden said that he knew what services were rendered and that he had meetings on a weekly basis with Mr. Wancho and/or Mr. Khan to discuss the progress and the outcome of the files.
+[14] Mr. Heselden confirmed that he charged GST on the services to his clients and that he paid the referral fees by cheques made to the order of NFP inclusive of GST. He said that he knew that the appellant was a GST registrant and that he claimed ITCs on the payments to NFP. Mr. Heselden did not recall if the appellant ever invoiced him for the referral fees.
+[15] Finally, Mr. Khan testified at the hearing. He worked with Mr. Wancho for the appellant from 2002 to 2009. He was not legally registered as a paralegal. The arrangement was to split the referral fees received from lawyers after deducting the expenses. His share was 50% at the beginning. At the end of each month, the expenses were deducted from the fees received during the month and the net amount was split according to the agreed percentage. He was paid by the appellant by cheque without GST because he was not a GST registrant and his income was less than $30,000 in 2007. He never invoiced NFP nor the appellant for his share of the referral fees.
+Analysis and Conclusion
+[16] The supply of paralegal and referral services made by the appellant in 2007 was a taxable supply within the meaning of subsection 123(1) of the ETA:
+“taxable supply” means a supply that is made in the course of a commercial activity;
+[17] The appellant was required to collect and remit the GST on the referral fees received from Mr. Heselden or other lawyers pursuant to subsections 221(1), 228(1) and 228(2) of the ETA which read as follows:
+221(1) Collection of tax
+Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+228(1) Calculation of net tax
+Every person who is required to file a return under this Division shall, in the return, calculate the net tax of the person for the reporting period for which the return is required to be filed, except where subsection (2.1) or (2.3) applies in respect of the reporting period.
+228(2) Remittance
+Where the net tax for a reporting period of a person is a positive amount, the person shall, except where subsection (2.1) or (2.3) applies in respect of the reporting period, remit that amount to the Receiver General,
+(a) where the person is an individual to whom subparagraph 238(1)(a)(ii) applies in respect of the reporting period, on or before April 30 of the year following the end of the reporting period; and
+(b) in any other case, on or before the day on or before which the return for that period is required to be filed.
+[18] Based on the evidence before me, it is clear to me that the appellant underreported the GST collectible in respect of the supply of paralegal and referral services that was incorporated in the referral fees that the appellant received, in the amount of $1,201.98 for the period ending December 31, 2007.
+[19] The liability of the appellant for the GST not collected and not remitted is not limited by the fact that he was not aware that the referral fees received were inclusive of GST.
+[20] Concerning the ITCs claimed by the appellant in respect of his office rental expenses, the respondent alleges that the appellant did not comply with the documentation requirements of section 169(4) of the ETA and section 3 of the Input Tax Credit Information (GST/HST) Regulations, SOR/91-45 (the “Regulations”), at the time of filing his GST return for the period ending December 31, 2007.
+[21] Subsection 169(4) of the ETA and section 3 of the Regulations provides, in part, as follows:
+169(4) Required documentation - A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed;
+. . .
+3. For the purposes of paragraph 169(4)(a) of the Act, the following information is prescribed information:
+(a) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is less than $30,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business,
+(ii) where an invoice is issued in respect of the supply or the supplies, the date of the invoice,
+(iii) where an invoice is not issued in respect of the supply or the supplies, the date on which there is tax paid or payable in respect thereof, and
+(iv) the total amount paid or payable for all of the supplies;
+(b) where the total amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $30 or more and less than $150,
+(i) the name of the supplier or the intermediary in respect of the supply, or the name under which the supplier or the intermediary does business, and the registration number assigned under section 241 of the Act to the supplier or the intermediary, as the case may be,
+(ii) the information set out in subparagraphs (a)(ii) to (iv),
+. . .
+(c) where the amount paid or payable shown on the supporting documentation in respect of the supply or, if the supporting documentation is in respect of more than one supply, the supplies, is $150 or more,
+(i) the information set out in paragraphs (a) and (b),
+(ii) the recipient’s name, the name under which the recipient does business or the name of the recipient’s duly authorized agent or representative,
+(iii) the terms of payment, and
+(iv) a description of each supply sufficient to identify it.
+[22] The required documentation under subsection 169(4) of the ETA and section 3 of the Regulations are mandatory and must be obtained “before filing the return in which the credit is claimed”.
+[23] In this instance, the appellant has claimed ITCs in respect of rental expenses without filing any document from the corporate landlord but he has provided the CRA with copies of the cheques evidencing the payment of the rent.
+[24] The said cheques were not accepted by CRA for reasons that were not disclosed in Court. As the cheques were not entered into evidence before me, I can only assume that the front of the cheques did not contain the required information, such as the invoice number, the GST registration number of the landlord, the amount of tax paid or payable in respect of the supply or the date of payment of the tax.
+[25] In the circumstances, the appellant has not satisfied the onus on him to establish that he did have the required documentation when he filed his GST returns in order to claim the contested ITCs.
+[26] For all these reasons, the appeal in respect of the reporting periods ending December 31, 2009 and December 31, 2010 is allowed and the matter is referred back to the Minister for reconsideration and reassessment on the basis that for these periods, the appellant did not underreport GST in respect of the supply of paralegal and referral services in the amounts of $2,703.27 and $2,821.35 respectively and did not overstate its entitlement to ITCs in the amounts of $2,896.88 and $2,675.63 respectively.
+[27] The appeal in respect of the reporting period ending December 31, 2007 is dismissed.
+Signed at Mont St-Hilaire, Quebec, this 21st day of December 2018.
+“Réal Favreau”
+Favreau J.
+CITATION:
+2018TCC261
+COURT FILE NO.:
+2014-1889(GST)I
+STYLE OF CAUSE:
+1418013 Ontario Inc. and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 6, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+December 21, 2018
+APPEARANCES:
+Agent for the Appellant:
+Réjean Wencho
+Counsel for the Respondent:
+Kieran Lidhar
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,148 @@
+---
+title: "Campbell c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30995/index.do"
+last_modified: "2012-10-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 363"
+citation2: ""
+neutral_citation: "2012 CCI 363"
+decision_date: "2012-10-16"
+language: "fr"
+item_id: "30995"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4847
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:20:47.306000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5ec1c35936445b2a37af1ba66cb442854fae79fbdf03d798e895e20832c28e13"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Campbell c. La Reine
+
+- Citation: 2012 CCI 363
+- Decision date: 2012-10-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4847, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Campbell c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-16
+Référence neutre
+2012 CCI 363
+Numéro de dossier
+2012-1170(IT)APP
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-1170(IT)APP
+ENTRE :
+MICHELLE CAMPBELL,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande entendue les 15 mai et 12 octobre 2012, à London (Ontario).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour la requérante :
+La requérante elle‑même
+Avocate de l’intimée :
+Me Serena Sial
+____________________________________________________________________
+ORDONNANCE
+La demande présentée par la requérante en vue de proroger le délai pour signifier un avis d’opposition relativement à la nouvelle cotisation établie à son égard pour l’année d’imposition 2007 est rejetée, sans dépens.
+Signé à Ottawa, Canada, ce 16e jour d’octobre 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 20e jour de novembre 2012.
+Alya Kaddour, traductrice
+Référence : 2012CCI363
+Date : 20121016
+Dossier : 2012-1170(IT)APP
+ENTRE :
+MICHELLE CAMPBELL,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Webb
+[1] Il s’agit d’une demande en prorogation du délai pour signifier un avis d’opposition. En février 2009, la requérante a déménagé dans une nouvelle maison avec celui qui était alors son fiancé. Elle a affirmé qu’à l’époque, c’est le comptable de son ex‑fiancé qui préparait ses déclarations de revenus. Bien que la requérante ne soit pas certaine de savoir quelles déclarations avaient été préparées par ce comptable, elle a déclaré que le comptable de son ex‑fiancé avait probablement préparé ses déclarations de revenus pour 2007 et 2008 en même temps. Dans l’avis d’opposition qui a été envoyé pour le compte de la requérante, il était indiqué que l’année d’imposition qui faisait l’objet de l’opposition était 2008. Toutefois, dans l’affidavit que l’intimée a produit, il est dit que la déclaration de revenus de la requérante pour 2007 avait fait l’objet d’une nouvelle cotisation le 7 septembre 2010, nouvelle cotisation par laquelle la requérante s’est vu refuser la déduction de dons de bienfaisance s’élevant à 84 041 $. La requérante a clairement fait savoir qu’elle voulait faire appel de ce refus qui lui avait été fait de déduire de son revenu les dons de bienfaisance en cause, et, par conséquent, ce serait à l’égard de la nouvelle cotisation établie à son égard pour 2007 que la requérante souhaite interjeter appel.
+[2] La requérante a affirmé ne pas avoir été consciente du fait que sa déclaration de revenus posait problème jusqu’au moment où elle a reçu un avis, en octobre 2011, l’informant qu’elle avait une importante dette fiscale. Elle a déclaré qu’elle avait alors rompu avec son fiancé et qu’il avait quitté la maison. Elle était restée dans la maison et son adresse était la même que celle qu’elle avait utilisée quand elle avait produit sa déclaration de revenus pour 2007. La requérante a expliqué qu’elle n’était pas au courant du fait qu’une cotisation avait été établie à son égard pour l’année d’imposition 2007 parce que son ex‑fiancé avait subtilisé son courrier. Après que la requérante eut reçu l’avis l’informant qu’elle avait une dette fiscale, un avis d’opposition a été envoyé en son nom le 19 décembre 2011. Le ministre a fait savoir à la requérante qu’elle n’avait pas signifié son avis d’opposition dans les délais impartis à cette fin, et qu’en outre, une prorogation du délai imparti pour signifier un avis d’opposition ne pourrait pas lui être accordé vu qu'elle avait fait part de son opposition plus d’un an et 90 jours suivant la date d’envoi de l’avis de nouvelle cotisation. La requérante a ensuite demandé à la Cour de proroger le délai prévu pour signifier un avis d’opposition à la nouvelle cotisation établie à son égard pour l’année d’imposition 2007, en application de l’article 166.2 de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] Les paragraphes 166.2(1) et (5) de la Loi sont ainsi rédigés :
+166.2 (1) Le contribuable qui a présenté une demande en application de l’article 166.1 peut demander à la Cour canadienne de l’impôt d’y faire droit après :
+a) le rejet de la demande par le ministre;
+b) l’expiration d’un délai de 90 jours suivant la présentation de la demande, si le ministre n’a pas avisé le contribuable de sa décision,
+Toutefois, une telle demande ne peut être présentée après l’expiration d’un délai de 90 jours suivant la date de la mise à la poste de l’avis de la décision au contribuable.
+[…]
+(5) Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+a) la demande a été présentée en application du paragraphe 166.1(1) dans l’année suivant l’expiration du délai par ailleurs imparti pour signifier un avis d’opposition ou présenter une requête;
+b) le contribuable démontre ce qui suit :
+(i) dans le délai par ailleurs imparti pour signifier l’avis ou présenter la requête, il n’a pu ni agir ni charger quelqu’un d’agir en son nom, ou il avait véritablement l’intention de faire opposition à la cotisation ou de présenter la requête,
+(ii) compte tenu des raisons indiquées dans la demande et des circonstances de l’espèce, il est juste et équitable de faire droit à la demande,
+(iii) la demande a été présentée dès que les circonstances le permettaient.
+[4] La demande présentée en application du paragraphe 166.1(1) de la Loi est la demande que la requérante a présentée au ministre pour demander une prorogation du délai pour signifier l’avis d’opposition qu’elle a signifié le 19 décembre 2011. Compte tenu des dispositions de l’alinéa 166.2(5)a) de la Loi, la Cour ne peut faire droit à la demande de prorogation du délai pour signifier un avis d’opposition qui lui a été présentée à moins que la demande de prorogation du délai pour signifier l’avis d’opposition ait été présentée au ministre dans l’année suivant l’expiration du délai pour signifier un avis d’opposition sans prorogation de délai. Il est question du délai imparti pour signifier un avis d’opposition (sans qu’une prorogation soit accordée) au paragraphe 165(1) de la Loi. Avant le 15 décembre 2010, cette disposition était libellée de la manière suivante[1] :
+165 (1) Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu’il s’agit d’une cotisation relative à un contribuable qui est un particulier […] pour une année d’imposition, au plus tard le dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année,
+(ii) le 90e jour suivant la date de mise à la poste de l’avis de cotisation;
+b) dans les autres cas, au plus tard le 90e jour suivant la date de mise à la poste de l’avis de cotisation.
+[5] La date à laquelle l’avis de nouvelle cotisation a été posté à la requérante a marqué le moment à partir duquel le délai pour signifier un avis d’opposition a commencé à courir. Par conséquent, il aurait fallu que la requérante présente au ministre sa demande de prorogation du délai pour signifier un avis d’opposition dans un délai d’un an et 90 jours suivant la date à laquelle l’avis de nouvelle cotisation lui a été posté. L’intimée a produit l’affidavit d’un agent des litiges de l’Agence du revenu du Canada (l’« ARC »), qui a déclaré que l’avis de nouvelle cotisation avait été envoyé le 7 septembre 2010. Sur la foi de cet affidavit, je conclus qu’il est plus probable qu’improbable que l’avis de nouvelle cotisation ait été posté à la requérante le 7 septembre 2010.
+[6] La requérante a soutenu que son ex‑fiancé avait subtilisé son courrier. Cela signifierait alors qu’elle devrait porter plainte contre son ex‑fiancé. L’avis a été envoyé à l’adresse qu’elle a fournie à l’ARC, et l’ARC n’aurait rien pu faire de plus. L’ARC ne pouvait pas savoir que l’ex‑fiancé de la requérante subtiliserait le courrier de celle‑ci.
+[7] Malheureusement, la Cour n’a pas le pouvoir discrétionnaire de proroger les délais fixés par la Loi, et les dispositions du paragraphe 166.2(5) de la Loi sont claires : la Cour ne peut faire droit à aucune demande à moins que les conditions énoncées aux alinéas a) et b) soient remplies. En l’espèce, la requérante ne remplit pas la condition énoncée à l’alinéa 166.2(5)a) de la Loi.
+[8] Par conséquent, la demande de prorogation du délai pour signifier un avis d’opposition que la requérante a présentée relativement à la nouvelle cotisation qui a été établie à son égard pour l’année d’imposition 2007 est rejetée, sans dépens.
+Signé à Ottawa, Canada, ce 16e jour d’octobre 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 20e jour de novembre 2012.
+Alya Kaddour, traductrice
+RÉFÉRENCE : 2012 CCI 363
+NO DU DOSSIER DE LA COUR : 2012-1170(IT)APP
+INTITULÉ : Michelle Campbell c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : London (Ontario)
+DATE DE L’AUDIENCE : Les 15 mai et 12 octobre 2012
+MOTIFS DE L’ORDONNANCE : L’honorable juge Wyman W. Webb
+DATE DE L’ORDONNANCE : Le 16 octobre 2012
+COMPARUTIONS :
+Pour la requérante :
+La requérante elle‑même
+Avocate de l’intimée :
+Me Serena Sial
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] À compter du 15 décembre 2010, l’expression « date de mise à la poste » a été remplacée par « date d’envoi ».

@@ -1,0 +1,368 @@
+Title: Liu v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/232213/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-117-232213-liu-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-06-21
+
+# Liu v. The Queen
+
+- Citation: 2017 TCC 117
+- Decision date: 2017-06-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2103, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Liu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-06-21
+Neutral citation
+2017 TCC 117
+File numbers
+2014-3457(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2014-3457(IT)G
+BETWEEN:
+FENG LIU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 17, 2017, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tony Cheung
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, this COURT ORDERS THAT:
+the appeal in respect of the 2010 and 2011 taxation years is allowed on the following basis:
+a) the Appellant’s unreported business income is $65,865.63 and $43,011.00 for taxation years 2010 and 2011, respectively;
+b) the Appellant’s disallowed business expenses are $10,175.18 and $44,156.21 for taxation years 2010 and 2011, respectively; and,
+c) the gross negligence penalties assessed under subsection 163(2) of the Income Tax Act, RSC 1985, c.1, are cancelled;
+there shall be no costs.
+Signed at Ottawa, Canada, this 21st day of June 2017.
+“R.S. Bocock”
+Bocock J.
+Citation: 2017 TCC 117
+Date: 20170621
+Docket: 2014-3457(IT)G
+BETWEEN:
+FENG LIU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction and Preliminary Issues:
+[1] The Appellant, Mr. Liu, operates a heating and air conditioning business, a sole proprietorship named Sun Star Enterprises (“Sun Star”).
+[2] The Minister of National Revenue (the “Minister”) reassessed Mr. Liu for the 2010 and 2011 taxation years. The reassessment includes undeclared income and disallowed expenses. The quanta of the revised reassessments are as follows:
+Taxation Year
+Undeclared Business Income
+Disallowed Business Expenses
+2010
+$76,665.00
+$17,297.00
+2011
+$43,011.00
+$53,782.00
+[3] The Minister also imposed gross negligence penalties under 163(2) of the Income Tax Act, RSC 1985, c.1, as amended (the “ITA”) in respect to the undeclared income and disallowed expenses.
+a) Methodology of Alternative Reassessment
+[4] The Minister determined the reassessment based upon an alternative assessment under subsections 152(7) and (8) of the Act. The Minister argues this was necessary because Mr. Liu’s books and records were a shambles: there were neither reliable records of revenue receipts from customers nor disbursements on account of payments to suppliers. A bank deposit analysis was undertaken. The methodology followed, according to the Canada Revenue Agency (the “CRA”) witness at trial, was as follows:
+Unexplained Deposits into Business and Personal Bank Accounts
+Less
+(-)
+Reported Business Income
+Less
+(-)
+Applicable GST/HST
+Equals
+(=)
+Amount of Undeclared Income
+[5] Similarly, where Mr. Liu produced invoices, receipts or vouchers for disbursements and expenses paid for business expenses, the Minister generally revised the reassessment to decrease the unreported income or increase expenses, as the case may be.
+b) Supplementary Documentation regarding Specific Expenses
+[6] During the trial, Mr. Liu asserted that there were specific additional expenses for which he could produce (but not at trial) paid invoices to suppliers and others for business related expenses. These related to office expenses, meals and entertainment, advertising, car and business insurance, car repairs, fuel, parking and cellphone (the “specific expenses”). The Minister had otherwise not deducted these amounts.
+[7] At this point in the proceedings, Mr. Liu conceded the reassessments for unreported income were his fault. His lack of records and consistent bookkeeping needed to be corrected. He had learned from the reassessment and appeal process that these practices must change. However, he was adamant that expense records for the specific expenses did exist. Further, he indicated he appreciated presently the importance of producing them. He said he would do so for certain specific expenses immediately following the date set for the hearing of the appeal. While a somewhat extraordinary request, Respondent’s counsel was not opposed. A post-hearing order was issued giving Mr. Liu 30 days to produce invoices or receipts and brief submissions relating to the specific expenses referenced at the hearing. He was to provide identical copies to the Court and Respondent’s counsel.
+[8] The Respondent was given 15 days further to reply. The Court would then render its decision. Such specific expenses related solely to the second issue of disallowed expenses.
+c) RSP Home Buyer Plan Withdrawal
+[9] A distinct issue concerning a RSP home buyer plan withdrawal reflected in Mr. Liu’s 2010 tax return arose before the Court. Mr. Liu attached a T4 RSP for $8,046.17 to his 2010 tax return. The return was apparently prepared by a tax preparer. The amount was included in line 247 of schedule 7 referencing the a home buyer’s plan withdrawal. The T4 RSP reflects such a withdrawal for such purposes. Mr. Liu testified he purchased a house in 2010 and used the RSP withdrawal as part of a home buyer plan. The Court believes this testimony and relies on the notation of a “HBP withdrawal” within the T4. The exact amount of the withdrawal is further referenced by the CRA’s witness as an unexplained deposit. The Respondent led no contrary evidence. It was also clear at the hearing from the Respondent’s submissions and evidence of the CRA that such withdrawal was included within the alternative assessment as unreported income. It was not subsequently excluded in the concessions of the Respondent culminating in the reduced reassessment before the Court. Therefore, the Court reduces the alternatively assessed undeclared income in 2010 by the amount of $8,046.17 which pursuant to the provisions of the Act should not be included in income during that year where the withdrawal was otherwise used for a home purchase.
+[10] Three remaining issues were before the Court: the unreported income, the disallowed expenses and the gross negligence penalties.
+II. the hearing, evidence generally and main issues:
+a) Unreported Income
+[11] During the audit, representation and hearing stage of the reassessment, Mr. Liu had an opportunity to provide books and records buttressing his declared and reported income. He produced no such records.
+[12] As to the specific methodology employed by the Minister for the alternative assessment, Mr. Liu did not present a challenge to the calculations employed. The testimony of the CRA witness remained resolute and unassailed on the need and method used by the Minister. Although much was made by Mr. Liu of rental deposits relating to a property Mr. Liu owned, the Minister gave credit for the rental income declared. Further undeclared rent would still be undeclared income, whether income from property or income from business. Moreover, no rental agreement, rent receipts or copies of tenant cheques were produced as evidence by Mr. Liu of further detail to his assertion of such deposits relating to declared income.
+[13] As to non-taxable sources of income, Mr. Liu testified that he borrowed $22,000.00 from someone in 2011. No promissory note, cheque or memorandum regarding the lender, term or interest rate was offered by Mr. Liu.
+[14] In Golden v HMQ, 2009 TCC 396, Justice Boyle summarized a taxpayer’s strategy for attacking an alternative assessment as follows:
+[11] In the case of a net worth assessment, it is open to the taxpayer to attack whether the net worth assessment is needed or the most appropriate method of computing the taxpayer’s income from any source. In this case the taxpayer is not doing that. If the taxpayer does attack whether a net worth assessment is needed or the most appropriate, a taxpayer would need to prove to the satisfaction of the Court with what evidence there is, what records there are and other credible evidence, what the income of the taxpayer is from the source or sources in question. The taxpayer has not done that nor laid the groundwork in the evidence for that.
+[12] The alternative is for the taxpayer to challenge specific aspects of the net
+worth assessment calculations.
+[15] In this appeal, no countervailing evidence has been adduced by Mr. Liu to challenge the need, the methodology or non-taxable sources of the alternatively assessed income allocated by the Minister. On balance, the Court concludes that Mr. Liu had undeclared income in the amounts of $65,865.63 (including the Home Buyers’ Plan Reduction) and $43,011.00 for taxation years 2010 and 2011, respectively.
+b) Additional Specific Expenses
+(i) Post-Trial Deliveries by Mr. Liu of Documentation re: Specific Expenses
+[16] The Court’s post-hearing order specifically afforded Mr. Liu an opportunity to submit documentation referencing specific expenses relating to specific categories: office, meals, entertainment, advertising, car and business insurance, car repairs, fuel, parking and cellular phone (the “described categories”). The records were to be in the form of expense receipts, invoices or other documentation as described in the testimony of Mr. Liu at trial.
+[17] Upon receipt of the documentation relating to the specific expenses, it was clear Mr. Liu exceeded the scope of this already exceptional opportunity to provide documentation past the hearing date. At the hearing, the Court limited the specific expenses to the described categories. Respondent’s counsel agreed with the process of the Court’s examination of the documentation concerning the specific expenses within the specific categories, but nothing beyond. Mr. Liu also confirmed his agreement with that process. On that basis, the documentation and summaries related to credit card interest, books and gifts have been excluded from the Court’s consideration. The parties agreed to such and it formed the basis for the corresponding post-hearing order. The court will deal separately such with additional internet charges.
+(ii) Review of Specific Expenses
+[18] With respect to the balance of the specific expenses relating to the specific categories, the Court conducted a review of the supplementary documentation by specific category. In doing so, the Court allowed expenses where the following referable documentation evidenced, more likely than not, that an expense had been incurred to generate or earn income for Sun Star:
+(i) credit card payments identifying a purchase from a vendor selling a specific supply, such as a charge at a gas station for fuel;
+(ii) a bank statement identifying a payee in respect of a payment for a usual business expense, such as business insurance;
+(iii) specific invoices from usual suppliers identifying usual business supplies such as stationery, tools supplies and computer supplies; and,
+(iv) invoices which identified the business, Sun Star, as the purchaser of supplies or services normally connected with a business, such as yellow pages advertising.
+a. inclusion percentage of vehicle related expenses
+[19] Mr. Liu testified at the hearing that he used his motor vehicle 70% of the time for business. Respondent’s counsel submitted that no more than the ratio of 70% of any such expense should be properly deductible in respect of vehicle related expenses. Vehicle related expenses logically include: car insurance, car repairs, parking and fuel. On that basis, only 70% of the value of such expenses have been included in the specific expense deduction related to motor vehicle.
+b. inclusion percentage of meals
+[20] Similarly, the Act only permits the deduction of 50% of meals on the basis that the taxpayer must account for the personal nature of food she or he would consume. This inclusion rate is specially provided for subsection 67.1(1) of the Act.
+c. inclusion of internet charges
+[21] Mr. Liu did not specifically suggest internet charges were included within the specific expenses during the trial. However, it is also probable there was some confusion concerning the source of this expense at trial. Mr. Liu’s internet provider and cellular phone provider were the same entity. The invoices bear a striking similarity. Invoices for both cellular phone and internet were submitted. Mr. Liu is the subscriber of both sources. The Court also acknowledged that there is a personal use portion of any internet expense for entertainment and use by other family members. However, modern businesses do not function without internet. Based upon the evidence submitted and that reality, it is reasonable for the Court to allow 50% of the costs incurred by Mr. Liu in respect of the internet for which he produced invoices or other evidence of expenses.
+(iii) Calculation of Additional Specific Expenses
+[22] The following represents in table form the Court’s allowance of additional business expenses for Mr. Liu in the 2010 and 2011 taxation years.
+2010
+Specified Category
+Specific Expenses
+Inclusion Rate
+Allowed Additional Business Expenses
+Fuel
+$3,842.46
+70%
+$2,689.72
+Car Repair
+$1,199.45
+70%
+$839.62
+Car Insurance
+$2,265.70
+70%
+$1,585.99
+Parking
+$59.56
+70%
+$41.69
+Office Expense Supplies
+$546.95
+100%
+$546.95
+Business Insurance
+$204.27
+100%
+$204.27
+Advertising
+$56.60
+100%
+$56.60
+Meals
+$409.32
+50%
+$204.66
+Internet
+$1,149.84
+50%
+$574.92
+Cell Phone
+$377.40
+100%
+$377.40
+Total
+$10,111.55
+-
+$7,121.82
+2011
+Specified Category
+Specific Expenses
+Inclusion Rate
+Allowed Additional Business Expenses
+Fuel
+$7,103.88
+70%
+$4,972.72
+Car Repair
+-
+70%
+-
+Car Insurance
+$3,277.08
+70%
+$2,293.96
+Parking
+$56.85
+70%
+$39.80
+Office Expense Supplies
+$21.16
+100%
+$21.16
+Business Insurance
+$346.90
+100%
+$346.90
+Advertising
+$878.67
+100%
+$878.67
+Meals
+$342.01
+50%
+$171.01
+Internet
+$979.20
+50%
+$489.60
+Cell Phone
+$411.96
+100%
+$411.96
+Total
+$13,417.71
+-
+$9,625.78
+[23] Therefore, Mr. Liu is entitled to deduct the additional business expenses described above. Based upon the evidence, these expenses were not previously allowed by CRA in the alternative assessment. The invoices were produced by Mr. Liu. Respondent’s counsel agreed with the Court that such invoices should be accepted where same identify what on balance are reasonable business expenses. Therefore, Mr. Liu’s testimony and documentation in this regard are accepted.
+[24] In aggregate, Mr. Liu is entitled to additional business expenses of $7,121.82 in 2010 and $9,628.78 in 2011.
+c) Gross Negligence Penalties
+[25] The issue of gross negligence penalties remains.
+(i) The Evidence
+a. submissions and evidence of the respondent
+[26] Counsel for the Respondent submitted that the primary factor in determining the issue of gross negligence in the appeal is the materiality of the undisclosed income and disallowed business expenses. While there was a considerable concession concerning income in 2010 by the Respondent, no such concession was made for 2011.
+b. the changing magnitude
+[27] In terms of these concessions and findings of the Court, the magnitude may be summarized as follows:
+Year and Category
+Original Reassessment Appealed
+Concession by Respondent at or before Trial
+Income Reductions or Additional Specific Expenses
+Result After Appeal
+2010 Unreported Income
+$114,830.00
+($40,918.00)
+($8,046.17) Home Buyer’s Plan
+$65,865.63
+2010 Disallowed Expenses
+$17,297.00
+Nil
+($7,121.82) Additional Specific Expenses
+$10,175.18
+2011 Unreported Income
+$43,011.00
+Nil
+Nil
+$43,011.00
+2011 Disallowed Expenses
+$166,685.00
+($112,903.01)
+($9,625.78) Additional Specific Expenses
+$44,156.21
+[28] Generally, save for 2011, it is observed that in each taxation year and category of undeclared revenue and disallowed expenses there has been a sizeable adjustment in Mr. Liu’s favour from those amounts alternatively assessed.
+c. no knowing omission
+[29] For the penalties to remain, the question is whether the omission of undeclared income and unincurred expenses was a knowing act or one arising from circumstances amounting to gross negligence. Based upon the evidence led by the Respondent’s witness and confirmed by Mr. Liu, the issue of his knowingly omitting income or misrepresenting expenses was not asserted. Further, the evidence did not support a finding of knowing omission of income or overstatement of expenses. The issue remains whether Mr. Liu’s actions or omissions in the circumstances amount to gross negligence.
+(ii) The Law
+a. the act
+[30] Section 163(2) of the Act provides as follows:
+(2) False statements or omissions - Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty…
+[31] There are two necessary elements that must be established in order to find liability for penalties under 163(2) of the Act:
+(i) a false statement in a return; and
+(ii) … gross negligence.
+[32] There is no question of the existence a false statement in the return. Mr. Liu admitted the errors.
+b. meaning of gross negligence
+[33] With respect to gross negligence, the test is more nuanced. In Venne v. R., [1984] 84 DTC 6247 (FCTD) CTC 223, “gross negligence” was defined by Justice Strayer to mean:
+“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. (emphasis added)
+[34] Any determination to apply such penalties in each appeal is directly linked to the evidence before the Court in that case. Such a finding is entirely based upon the circumstances, facts and issues before the Court at the conclusion of the evidence. The onus or burden of proof to show gross negligence remains the Minister’s to the evidentiary standard or threshold of a balance of probabilities.
+c. gross negligence to include “wilful blindness”
+[35] It is also well settled law that gross negligence can include “wilful blindness”. The concept of “wilful blindness”, well known to the criminal law, was explained by Justice Cory of the Supreme Court of Canada in the decision in Hinchey: R. v. Hinchey, [1996] 3 SCR 1128 at paragraph 112. The rule is that if a party has his suspicion engaged, but then deliberately omits to make further inquiries, seeking to remain in ignorance, he is deemed to have knowledge. “Wilful blindness” occurs where a person who has become aware of the need for some inquiry declines to so inquire because he does not wish to know the truth, preferring ignorance.
+[36] The concept of “wilful blindness” is applicable to tax cases: Villeneuve v. Her Majesty the Queen, 2004 FCA 20 at paragraph 6, and Panini v. Her Majesty the Queen, 2006 FCA 224 at paragraph 43. In Panini, Justice Nadon made it clear that the concept of “wilful blindness” is included in “gross negligence” as that term is used in subsection 163(2) of the Act. He stated:
+43 ... the law will impute knowledge to a taxpayer who, in circumstances that dictate or strongly suggest that an inquiry should be made with respect to his or her tax situation, refuses or fails to commence such an inquiry without proper justification.
+d. legal analysis of gross negligence
+[37] It has been held that in drawing the line between “ordinary” negligence or neglect and “gross” negligence, a number of factors have to be considered:
+(a) the magnitude of the omission in relation to the income declared,
+(b) the opportunity the taxpayer had to detect the error,
+(c) the taxpayer’s education and apparent intelligence,
+(d) genuine effort to comply.
+[38] No single factor supercedes. Each must be assigned its proper weight in the context of the overall picture that emerges from the evidence (see DeCosta v. Her Majesty the Queen, 2005 TCC 545 at paragraph 11; Bhatti v. Her Majesty the Queen, 2013 TCC 143 at paragraph 24; and McLeod v. Her Majesty the Queen, 2013 TCC 228 at paragraph 14).
+(iii) Gross Negligence Factors vis-a-vis the Evidence
+[39] Since no factor predominates, the Court chooses to analyze the factors in the following sequence:
+a. taxpayer’s education and apparent intelligence
+[40] Mr. Liu was not knowledgeable or sophisticated in matters related to tax or accountancy. He testified as such. The CRA auditor, in the penalty report, had no knowledge of such and stated so. No evidence was led by the Respondent at the hearing to suggest Mr. Liu had additional or even average knowledge or skills in this regard. Mr. Liu admitted he had to learn such and has since learned much in the area of tax compliance and maintenance of business records. The Court believes Mr. Liu was a capable tradesman and provider of heating and air-conditioning services and systems. It is obvious the same cannot be said of his accounting and recording systems and for his business skills.
+b. opportunity the taxpayer had to detect the error
+[41] The errors within the tax returns and the ability to detect same must be analyzed in the context of the factual comparisons between the amounts originally alternatively assessed by the Minister and the ultimate amounts of taxable income found to exist at the conclusion of the Respondent’s concessions, removal of assessment errors and the agreed deduction of the Specific Expenses from business income. Along with the not necessarily simplistic nature of the tax returns which encompassed Mr. Liu employment income, business income and expenses, rental income and spousal tax credit transfers, detection of the error by him was not a straight forward proposition even when reviewing the third party prepared tax return.
+c. genuine effort to comply
+[42] Mr. Liu testified that he attempted to comply with the process to the extent he understood it. He hired an accountant. He provided the information he gathered and retained. He filed his tax returns. He paid the tax as indicated. However, his deficiency was manifest in the area of keeping accurate books and records. This was the root cause of the alternative assessment and the correlated magnitude of assessed unreported income and disallowed expenses. It was also the reason Mr. Liu, with the indulgence of Respondent’s counsel, was able to introduce and have deducted certain “11th hour” Specific Expenses for the business. He had many invoices for these expenses, they simply existed in an erzatz and unorganized fashion. Such an effort to comply is very much after the fact once the necessity and process was revealed, even if borne of unfamiliarity and naivety.
+d. magnitude of omission
+[43] The magnitude and materiality of the omission was dynamic. The penalty report highlighted the magnitude of the discrepancy as both the primary and overriding basis for the imposition of gross negligence penalties. Respondent’s counsel in submissions stated “materiality is the only factor” for the penalty.
+[44] The following chart traces the changing quanta of unreported income and disallowed expenses from the time of preparation of the penalty report until the final determination by this Court. The table includes rounded percentages correlating to ultimate tax liability found by this Court in relation to the Minister’s initially assessed tax liability.
+Tax Year and Category
+Initial Alternative Assessment from Penalty Report
+Amount of Reduction of Income/ increase in Expenses
+Ultimate Amount of Unreported Income/ Disallowed Expenses
+Reported Business Income/ Expenses
+Percentage of Unreported to Reported Amount
+Percentage Decrease in Initial Assessment After Appeal
+2010 Unreported Income
+$114,830.00
+($48,964.17)
+$65,865.63
+$47,577.19
+138%
+43%
+2010 Disallowed Expenses
+$17,297.00
+($7,121.82)
+$10,175.18
+$18,806.55
+54%
+41%
+2011 Unreported Income
+$43,011.00
+Nil
+$43,011.00
+$186,663.00
+23%
+0%
+2011 Disallowed Expenses
+$166,685.00
+($122,528.79)
+$44,156.21
+$168,752.00
+26%
+74%
+[45] As always, the particular challenge for the Court arises in cases when the consideration of penalties occurs in the absence of knowledge or actual intent. The calculations above and the existence before the Court reveal the vain efforts of a hardworking small entrepreneur, hopelessly lost in the accounting and records side of a business he owned and operated alone. At the conclusion of the evidence and findings, the omissions of income and inclusion of undocumented expenses and costs persist. However the amounts declared initially, conceded by the Respondent and otherwise proven by the Appellant, cumulatively present a challenge factually to the conclusion that a high level of recklessness and indifference exist.
+(iv) Conclusion
+[46] Altogether, the analysis of the factors above leave the Court with a certain uneasiness in concluding that Mr. Liu was indifferent to complying with the law or reckless to the point of reprehensible behaviour. He was unsophisticated, admitted his failings, attempted to comply, but through his ignorance, lack of knowledge and inexperience simply failed to do so. This was not the case of having no records or invoices, but merely keeping or mislaying them in an unhelpful, unorganised and unsorted manner. This was evident, when at the end of the hearing, Mr. Liu realized such documents existed, could be and were produced. Through the real-time explanatory process of the hearing, Mr. Liu gained an understanding of what was and is ultimately required. Such a revelation satisfied that Court that an abject lack of understanding and not gross negligence was the cause of the inaccurate returns. This lack of appreciation by Mr. Liu causes a gap in the imputation of a high enough degree of negligence to achieve the elevated level of intentional action or wrongful intent. As a result, the penalties are cancelled.
+III. Costs:
+[47] In light of the mixed result, the general condition and unpreparedness of Mr. Liu’s documents at the outset of the hearing and the very helpful and useful efforts of Respondent’s counsel, the Court shall apply its discretion and award no costs in the appeal.
+Signed at Ottawa, Canada, this 21st day of June 2017.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2017 TCC 117
+COURT FILE NOs.:
+2014-3457(IT)G
+STYLE OF CAUSE:
+FENG LIU AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+February 17, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall
+S. Bocock
+DATE OF JUDGMENT:
+June 21, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Tony Cheung
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

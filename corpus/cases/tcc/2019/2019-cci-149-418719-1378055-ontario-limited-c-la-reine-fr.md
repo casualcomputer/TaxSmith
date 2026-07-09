@@ -1,0 +1,695 @@
+---
+title: "1378055 Ontario Limited c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/418719/index.do"
+last_modified: "2019-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 149"
+citation2: ""
+neutral_citation: "2019 CCI 149"
+decision_date: "2019-07-16"
+language: "fr"
+item_id: "418719"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4301
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:13:49.045000+00:00"
+cases_cited_count: 24
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0f15f3180ce245d89c87d0a9cd351da157fac4d3ce1308ca265cd886eb572c8e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1378055 Ontario Limited c. La Reine
+
+- Citation: 2019 CCI 149
+- Decision date: 2019-07-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4301, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1378055 Ontario Limited c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-07-16
+Référence neutre
+2019 CCI 149
+Numéro de dossier
+2016-3232(GST)G
+Juges et Officiers taxateurs
+Don R. Sommerfeldt
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2016-3232(GST)G
+ENTRE :
+1378055 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels inscrits pour audition le 1er mai 2018, à Toronto (Ontario).
+Observations écrites subséquentes de l'appelante déposées le 12 juillet 2018, et observations écrites de l'intimée déposées le 13 juillet 2018.
+Conférence de gestion de l'instance tenue le 17 juin 2019.
+Devant : L'honorable juge Don R. Sommerfeldt
+Comparutions :
+Avocat de l'appelante :
+Me James N. Aitchison
+Avocate de l'intimée :
+Me Devon E. Peavoy
+JUGEMENT
+Vu la preuve produite à l'audience et les observations des avocats, la Cour ordonne :
+1. Les appels relatifs aux périodes de déclaration trimestrielles terminées les 31 décembre 2013, 30 juin 2014 et 31 mars 2015 sont accueillis, et les nouvelles cotisations établies pour ces périodes de déclaration sont renvoyées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que l'appelante a droit aux crédits de taxe sur les intrants (CTI) suivants pour ces périodes de déclaration :
+Période terminée le
+CTI
+31 décembre 2013
+17 452,50 $
+30 juin 2014
+5 655,00
+31 mars 2015
+14 722,50
+Total
+37 830,00 $
+2. Les appels relatifs aux périodes de déclaration trimestrielles terminées les 30 septembre 2014 et 31 décembre 2014 sont rejetés.
+3. L'appelante et l'intimée disposent d'une période de 30 jours après la date du présent jugement pour parvenir à un accord sur les dépens et en informer la Cour, faute de quoi l'appelante disposera d'une période additionnelle de 30 jours pour déposer des observations écrites sur les dépens, et l'intimée d'une période de 30 jours en sus pour déposer sa réponse par écrit. Les observations des parties n'excéderont pas cinq pages. Si les parties n'informent pas la Cour qu'elles sont parvenues à un accord sur les dépens et ne déposent pas leurs observations dans les délais impartis, aucuns dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2019.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+Référence : 2019 CCI 149
+Date : 20190716
+Dossier : 2016-3232(GST)G
+ENTRE :
+1378055 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sommerfeldt
+I. INTRODUCTION
+[1] Les présents motifs se rapportent aux appels interjetés par la société 1378055 Ontario Limited (la société 137) contre les nouvelles cotisations établies par l'Agence du revenu du Canada (l'Agence) au nom du ministre du Revenu national (le ministre) en application de la Loi sur la taxe d'accise (la LTA) [1] à l'égard des périodes de déclaration trimestrielles s'étendant du 1er octobre 2013 au 31 mars 2015 (exception faite de la période terminée le 31 mars 2014).
+II. LES QUESTIONS EN LITIGE
+[2] Les questions en litige dans les présents appels sont les suivantes :
+a) La société 137 a‑t‑elle acquis les services visés par les présents appels pour consommation ou utilisation dans le cadre de ses activités commerciales et, le cas échéant, dans quelle mesure?
+b) Les factures visées par les présents appels sont-elles conformes aux exigences documentaires du paragraphe 169(4) de la LTA et de l'article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants (TPS/TVH) (le Règlement)?
+III. LES FAITS
+A. Les personnes, les immeubles et les rapports
+[3] La société 137 exerce des activités de location résidentielle et d'aménagement immobilier dans la ville d'Oshawa, en Ontario, et dans les environs. Au cours des périodes de déclaration en cause, les activités d'aménagement immobilier se divisaient en trois volets :
+a) l'aménagement de la parcelle de 10 acres décrite au paragraphe suivant;
+b) la fourniture de services d'aménagement, d'urbanisme et d'administration dans le domaine immobilier;
+c) la recherche et l'acquisition de terrains à aménager [2] .
+[4] Au cours des périodes de déclaration en cause, la société 137 possédait 10 immeubles locatifs comptant au total de 50 à 60 logements occupés par des locataires [3] . L'un de ces immeubles locatifs était une maison située sur une parcelle de 10 acres située dans la partie nord d'Oshawa et dont l'adresse est le 1590, chemin Stevenson Nord (l'immeuble en cause). La maison se trouve près de la limite Est de l'immeuble en cause et près de la route. Aux termes du bail qu'il a conclu avec la société 137, le locataire peut occuper la maison et utiliser le terrain autour. Le bail s'applique exclusivement au terrain autour de la maison; il n'accorde pas au locataire un droit d'usage et de jouissance de la totalité de la superficie de la parcelle de 10 acres. La partie Ouest de l'immeuble en cause se trouve à proximité d'un affluent du ruisseau Oshawa et fait partie d'une zone de protection de la nature, de sorte qu'on ne peut y construire.
+[5] Lorsque la société 137 a acheté l'immeuble en cause en 1993, son zonage était résidentiel et la société projetait d'y aménager un lotissement résidentiel. Cependant, quelque temps après l'acquisition, la municipalité régionale de Durham a modifié le zonage de l'immeuble en cause pour en faire un « secteur d'emploi » ou un « bien‑fonds réservé à l'emploi » [4] . Désormais, l'immeuble pouvait servir uniquement à des fins industrielles ou commerciales ou à une autre fin non résidentielle. La ville d'Oshawa avait établi que l'immeuble en cause se trouve dans une zone « résidentielle urbaine », mais elle n'y autorise plus la construction de nouveaux immeubles résidentiels. La maison érigée sur l'immeuble en cause est protégée par un droit d'usage dérogatoire. Si jamais elle est démolie, elle ne pourra pas être remplacée par un autre immeuble résidentiel [5] .
+[6] Depuis que la société 137 a acquis l'immeuble en cause en 1993, elle a tenté de l'aménager, d'abord comme lotissement résidentiel, puis, après le changement de zonage, comme terrain commercial. Elle a cependant fait face à plusieurs embûches alors que les agences et les organismes gouvernementaux, dont la municipalité régionale de Durham, la ville d'Oshawa et l'office de protection de la nature du lac Ontario centre, ont mené de nombreuses études et évaluations.
+[7] Aucun élément de preuve précis n'a été produit au sujet de la propriété de la société 137. Il semble toutefois qu'elle appartient à des membres de la famille Foley, ou à des personnes associées, qui semble très active dans les secteurs de l'aménagement, de la construction, de la location et de la gestion immobilière dans la région d'Oshawa. Seul Mark Foley [6] , le directeur général de la société 137, a témoigné à l'audience. Sa femme, Deborah Foley, travaille aussi pour la société 137. Elle fournit des services généraux d'administration de bureau. Cole Foley, le fils de Mark et de Deborah, a, semble‑t‑il, fourni des services de planification, d'administration, de conseils et de gestion à la société 137 au cours de certaines ou de la totalité des périodes de déclaration en cause.
+[8] Il a aussi été question d'autres membres de la famille lors de l'audience. Mark et Deborah ont quatre fils : Cole, Brent et deux autres dont les noms n'ont pas été mentionnés. Cole a fourni des services à la société 137, probablement en 2012. Brent est un courtier immobilier. Le frère de Mark, Michael Foley, exploite l'entreprise Woodland Durham, spécialisée en construction de maisons neuves. La mère de Mark et de Michael, Betty Foley, est propriétaire de l'immeuble où se trouvent les bureaux de la société 137, de Woodland Durham et de Brent. Une partie ou la totalité de cet immeuble est louée par Betty à la société Lanmark Management Limited (Lanmark), qui appartient apparemment à une ou plusieurs fiducies familiales et est liée d'une façon quelconque à la famille Foley [7] . Mark est le président de Lanmark.
+B. Les activités de location
+[9] D'après les fichiers des loyers produits à l'audience, la société 137 possédait en 2015, à Oshawa ou dans les environs, neuf maisons qu'elle louait à des locataires. La société 137 était aussi propriétaire d'un immeuble de 48 logements [8] .
+C. Les activités d'aménagement
+[10] Les éléments de preuve documentaires présentés à l'audience donnent certaines indications concernant les démarches entreprises par la société 137 pour aménager la partie inoccupée de l'immeuble en cause. À l'aide de cartes et de photographies aériennes [9] , M. Foley a expliqué que le terrain au nord de l'immeuble en cause servait à l'entreposage à ciel ouvert d'autocaravanes, de bateaux et d'autres véhicules du genre, alors que le terrain au sud de l'immeuble en cause servait à l'entreposage de camions de transport (de type semi‑remorque) [10] . M. Foley a affirmé qu'après que l'aménagement d'un lotissement résidentiel était devenu interdit en raison du nouveau zonage, il a conçu l'idée d'y construire des installations d'entreposage libre‑service. Il a cependant mis ce projet de côté et a décidé d'aménager l'immeuble en y installant des conteneurs d'entreposage ou « PODS » [11] .
+[11] Certaines des activités et des démarches entreprises par M. Foley sont résumées dans les documents produits en preuve. Voici un extrait du procès‑verbal de la réunion du 28 mai 2012 du comité des services de l'urbanisme :
+[TRADUCTION]
+Mark Foley, au nom du groupe Foley, a fait part au comité de son opposition aux annexes 3, 4 et 5 du rapport DS‑12‑175 qui traitent du terrain de la société au 1590, chemin Stevenson Nord. Mark Foley a demandé qu'on envisage de réduire les « espaces libres » pour le terrain en cause; il a souligné qu'une étude externe antérieure avait conclu que la désignation « espaces libres » devrait s'appliquer à 10 % seulement du terrain, et la désignation « zone industrielle » à la partie restante [12] .
+L'extrait précité du procès‑verbal de la réunion du comité de l'urbanisme indique qu'au milieu de 2012, M. Foley poursuivait assidûment le projet d'aménagement de l'immeuble en cause pour le compte du groupe Foley (qui englobe probablement la société 137).
+[12] L'extrait suivant est tiré du rapport du commissaire des services de l'urbanisme d'Oshawa au comité de l'urbanisme le 13 novembre 2012, probablement en vue de la réunion du 19 novembre 2012 : [TRADUCTION] « Le propriétaire du 1590, chemin Stevenson Nord a demandé qu'on envisage de réduire les espaces libres et les terrains de loisir dans la zone en général, et au 1590, chemin Stevenson Nord en particulier [13] . »
+[13] Dans une lettre du 29 novembre 2012, Warren Munro, l'urbaniste‑chef des services de l'urbanisme de la ville d'Oshawa, confirme qu'en 2012, M. Foley s'était adressé à lui pour obtenir l'autorisation d'aménager l'immeuble en cause. Dans sa lettre, M. Munro mentionne que le conseil municipal s'était prononcé en faveur du remplacement de la désignation [TRADUCTION] « zone d'étude spéciale A » s'appliquant à l'immeuble en cause et aux biens adjacents par la désignation [TRADUCTION] « zone industrielle, espaces libres et loisirs ». Il ajoute toutefois dans sa lettre qu'il faudrait d'abord divers rapports, notamment sur les eaux pluviales, sur les services régionaux, sur les modifications au plan d'urbanisme du parc industriel Northwood et sur une réunion publique, et une recommandation concernant la modification du règlement de zonage applicable [14] .
+[14] D'autres documents révèlent que les démarches et les activités se sont poursuivies jusqu'en 2015. Ainsi, en avril 2015, M. Foley a communiqué avec M. Munro (des services de l'urbanisme d'Oshawa) au sujet de l'utilisation de l'immeuble en cause [TRADUCTION] « pour l'entreposage à la demande de conteneurs d'entreposage » [15] . Le 17 août 2015, le cabinet d'ingénieurs et d'urbanistes‑conseils D.G. Biddle & Associates Limited a remis à M. Foley un plan conceptuel pour l'installation de 430 conteneurs d'entreposage environ sur la partie aménageable de l'immeuble en cause [16] . Le lendemain, M. Foley a transmis le plan conceptuel à M. Munro et à d'autres intéressés [17] . Le 14 septembre 2015, M. Foley a reçu de Valery Hendry, urbaniste à la ville d'Oshawa, un courriel énonçant les questions à résoudre avant qu'une demande de modification du zonage puisse être présentée [18] .
+[15] À l'audience, quand il a été souligné à M. Foley que les documents qu'il avait produits portaient sur l'année 2012 et le milieu de 2015, soit avant et après les périodes de déclaration visées, il a expliqué qu'au cours de ses démarches afin d'aménager l'immeuble en cause (et assurément de 2012 à 2015), il avait rencontré des responsables de l'urbanisme et d'autres fonctionnaires, il s'était présenté à divers comités et avait assisté à leurs réunions, il avait participé à plusieurs audiences publiques et il avait pris d'autres mesures pour faire avancer le projet [19] . M. Foley a ajouté que chaque année, notamment celles en cause ici, il examinait divers emplacements et étudiait leur potentiel d'aménagement, il examinait les plans officiels et les documents de zonage, et il discutait avec l'office de protection de la nature du lac Ontario centre au sujet de la vocation envisagée pour chaque emplacement [20] .
+D. Les CTI demandés
+[16] Les CTI en litige dans les présents appels ont été demandés pour les périodes de déclaration trimestrielles suivantes [21] :
+Tableau 1
+Période terminée le
+CTI
+31 décembre 2013
+26 437,88 $
+31 mars 2014
+s.o.
+30 juin 2014
+17 905,91
+30 septembre 2014
+48,52
+31 décembre 2014
+166,92
+31 mars 2015
+20 577,84
+Total
+65 137,07 $
+[17] À l'audience le 31 mai 2018, à l'appui d'une partie importante des CTI demandés pour le quatrième trimestre de 2013 et le premier trimestre de 2015, la société 137 a produit les copies de factures qu'elle a reçues de Mark Foley, de Deborah Foley, de Cole Foley et de Lanmark. Toutefois, elle n'a produit aucun document étayant ses demandes de CTI pour les deuxième, troisième et quatrième trimestres de 2014. Quand j'ai dit à l'avocat de la société 137 que son recueil de documents (pièce A‑1) ne contenait aucune copie de facture à l'appui des demandes de CTI pour 2014 [22] , il s'est déclaré surpris et a affirmé que le recueil contenait trois groupes de factures (aux onglets 11, 16 et 21). Je lui ai ensuite dit que les factures à l'onglet 21 sont les factures originales du 31 mars 2015 et que les factures à l'onglet 16 étaient les factures révisées demandées par l'Agence, qui portent la même date, mais ont été établies ultérieurement. L'avocat de la société 137 a alors dit que lorsqu'il avait préparé le recueil avant l'audience, il avait constaté qu'il contenait trois groupes de factures et il avait présumé à tort que les factures des trois années s'y trouvaient. Étant donné que la pièce A‑1 ne contient pas les factures de l'année 2014, l'avocat a décidé de retirer les demandes de CTI pour les troisième et quatrième trimestres de 2014, dont les montants sont relativement modestes (48,52 $ et 166,92 $, respectivement). L'avocat de la société 137 a néanmoins demandé l'autorisation de déposer, après l'audience, les documents à l'appui des CTI de 17 905,91 $ demandés pour le deuxième trimestre de 2014. L'avocate de la Couronne s'est opposée à cette demande.
+E. Les services
+(1) Les factures de 2013
+[18] Mark Foley s'est présenté comme étant le directeur général de la société 137, pour laquelle il exerce diverses activités. Il lui fournit aussi des services à titre personnel. La facture du 31 décembre 2013 remise par M. Foley indique qu'il a fourni des services d'administration, de conseils et de gestion, sans autre détail [23] . Les honoraires facturés pour ces services s'établissent à 42 000 $, plus la TVH de 5 460 $. Durant son témoignage, M. Foley a expliqué qu'à titre personnel, il effectue des recherches de terrains que la société 137 pourrait acquérir; il ne fournit pas ces services au nom de Lanmark [24] . Il a ajouté qu'une fois la décision prise par la société 137 d'acquérir un terrain en particulier, tous les services liés à son aménagement sont fournis par Lanmark [25] .
+[19] Le 31 décembre 2013, Lanmark a remis à la société 137 une facture de 110 000 $ (plus la TVH de 14 300 $) pour des services d'administration, de conseils et de gestion. Comme il a été mentionné précédemment, Lanmark était locataire d'un immeuble appartenant à Betty Foley. Lanmark sous‑louait une partie de ces locaux à divers sous‑locataires, dont la société 137. Lanmark fournissait en outre un [TRADUCTION] « forfait bureau » qui englobait des fournitures et des services de base en sus des locaux. Lanmark fournissait des locaux et des services connexes à la société 137 et à d'autres sous‑locataires. Sur la facture de 110 000 $ remise par Lanmark à la société 137, la partie des frais facturés pour la fourniture de locaux et de services s'établissait à 53 000 $ [26] .
+[20] Les 57 000 $ restants (110 000 $ − 53 000 $) se rapportent aux services de recherche de terrains à aménager. M. Foley a précisé que Lanmark fournissait à la société 137 des services de recherche de terrains à aménager [27] . Selon les explications de M. Foley au sujet des services qu'il fournissait à titre personnel à la société 137 et des services que Lanmark fournissait à la société 137, il semble que les deux fournissaient des services de recherche de terrains à aménager. Si j'ai bien compris, une très grande partie des services fournis par Lanmark, sinon la totalité, l'ont été par M. Foley au nom de Lanmark. M. Foley n'a pas expliqué comment les services fournis étaient répartis entre les factures remises pour son propre compte et celles qu'il remettait à titre d'employé de Lanmark.
+[21] Lanmark fournit des locaux et des services connexes (frais de 53 000 $) ainsi que des services de recherche de terrains à aménager (frais de 57 000 $) à la société 137, mais sa facture du 31 décembre 2013 mentionne uniquement [TRADUCTION] « services d'administration, de conseils et de gestion » [28] et un montant global de 110 000 $, plus la TVH de 14 300 $.
+[22] Deborah Foley s'occupait principalement des immeubles loués et des activités de location de la société 137. C'est généralement elle qui avait affaire avec les locataires de la société 137. Sur sa facture du 31 décembre 2013, Mme Foley fait référence à des [TRADUCTION] « services d'administration, de conseils et de gestion » [29] . L'en‑tête de la facture indique [TRADUCTION] « DEBORAH M. FOLEY – REVENUS DE LOCATION » [30] . Les honoraires facturés pour ces services s'établissent à 24 000 $, plus la TVH de 3 120 $.
+[23] Sur chacune des factures du 31 décembre 2013 qu'ont remises Mark Foley, Lanmark et Deborah Foley, le numéro de facture est « 2012 ». M. Foley n'a pas été en mesure d'expliquer pourquoi les trois factures portent le même numéro. Lors de son témoignage, il a suggéré que « 2012 » n'est pas un numéro de facture, mais plutôt une date [31] . Apparemment, les membres de la famille Foley produisaient des factures pour les services fournis au cours d'une année seulement l'année suivante. Par conséquent, il semble que sur les factures du 31 décembre 2013, « 2012 » renvoie à l'année au cours de laquelle les services facturés ont été fournis. J'en déduis que « 2012 » n'est pas un numéro de facture, mais une indication de l'année au cours de laquelle les services ont été fournis.
+[24] Cole Foley a remis une facture à la société 137, dont une copie a été produite à l'audience, avec les trois factures susmentionnées du 31 décembre 2013 remises par Mark Foley, Deborah Foley et Lanmark. Pour appuyer la demande de la société 137 pour des CTI relatifs à cette facture, il a été avancé que Cole Foley avait probablement fourni les services durant l'année 2013. Toutefois, il est indiqué sur la facture qu'elle vise des [TRADUCTION] « services de planification, d'administration, de conseils et de gestion fournis en 2012 » [32] . La facture remise par Cole Foley n'étant pas datée, rien n'indique que les services qui y sont décrits ont été facturés en 2013 plutôt qu'en 2012. Les honoraires inscrits sur la facture s'élèvent à 20 000 $, plus la TVH de 2 260 $.
+[25] Le numéro d'inscription à la TPS du fournisseur de services ne figure sur aucune des quatre factures de Mark Foley, de Deborah Foley, de Lanmark et de Cole Foley que la société 137 a présentées à l'appui de ses demandes de CTI pour 2013.
+[26] Les quatre factures susmentionnées sont les seules qui ont été présentées à l'appui des demandes de CTI pour 2013. Les montants de TVH inscrits sur ces factures s'établissent comme suit :
+Tableau 2
+Fournisseur de services
+TVH
+Mark Foley
+5 460 $
+Lanmark
+14 300
+Deborah Foley
+3 120
+Cole Foley
+2 260
+25 140 $
+(2) Les factures de 2014
+[27] Comme il a été mentionné ci‑dessus, après l'audience du 1er mai 2018 (et dans les délais impartis), la société 137 a présenté à la Cour des photocopies des trois factures établies pour le deuxième trimestre de 2014 et a transmis des copies à la Couronne. Pour les motifs que j'exposerai ci‑après, j'ai admis ces trois documents en preuve.
+[28] Le 6 mai 2014, Mark Foley a remis à la société 137 une facture de 50 000 $, plus la TVH de 6 500 $. Selon la description qui y est donnée, la facture a été établie au titre de services d'administration, de conseils et de gestion fournis au cours de la période terminée le 31 décembre 2013. Le numéro d'inscription de M. Foley à la TVH figure sur cette facture.
+[29] Le 6 mai 2014, Deborah Foley a remis à la société 137 une facture de 24 000 $, plus la TVH de 3 120 $. Selon la description qui y est donnée, la facture a été établie au titre de services d'administration, de conseils et de gestion fournis au cours de la période terminée le 1er décembre 2013. Le numéro d'inscription de Mme Foley à la TVH figure sur la facture.
+[30] Le 30 juin 2014, Lanmark a remis à la société 137 une facture de 62 000 $, plus la TVH de 8 060 $. Le montant n'étant pas détaillé, il est difficile de savoir s'il s'agit d'honoraires ou non. La facture ne donne pas non plus de description des services fournis par Lanmark et n'indique aucun numéro d'inscription à la TVH.
+[31] Le montant total de TVH pour le deuxième trimestre de 2014 selon les trois factures remises est le suivant :
+Tableau 3
+Fournisseur de services
+TVH
+Mark Foley
+6 500 $
+Deborah Foley
+3 120
+Lanmark
+8 060
+17 680 $
+(3) Les factures de 2015
+[32] Mark Foley, Deborah Foley et Lanmark ont remis à la société 137 des factures le 31 mars 2015 pour des services fournis en 2014. Sur chacune de ces factures, il est indiqué qu'elles visent des [TRADUCTION] « services de gestion, de planification et d'administration fournis en 2014 » [33] . L'Agence a par la suite informé M. Foley ou l'un de ses associés que les factures n'étaient pas suffisamment détaillées, et des factures révisées, également du 31 mars 2015, ont été établies [34] . La facture révisée de Deborah Foley indique de nouveau qu'elle vise des [TRADUCTION] « services de gestion, de planification et d'administration fournis en 2014 », mais la ventilation suivante y est ajoutée :
+Tableau 4
+[TRADUCTION]
+Description
+Montant
+Comptabilité générale (comptes fournisseurs, opérations bancaires, paiements aux consultants)
+8 400 $
+Activités générales – Bureau et administration
+10 800
+Courrier (collecte et distribution) et transmission de documents aux autorités municipales et gouvernementales
+4 800
+24 000 $
+La facture révisée de Mme Foley indique un montant de TVH de 3 120 $.
+[33] La facture révisée de Lanmark indique qu'elle a été établie pour des services généraux [TRADUCTION] « de gestion, de planification et d'administration fournis en 2014 », répartis comme suit :
+Tableau 5
+[TRADUCTION]
+Description
+Montant
+Loyer, services publics, fournitures de bureau
+53 000 $
+Services de planification et d'aménagement pour le 1590, chemin Stevenson Nord, à Oshawa (réunions avec des consultants et des fonctionnaires municipaux et avec l'office de protection de la nature)
+Examen d'autres propositions d'aménagement, etc.
+30 000 $
+83 000 $
+La facture révisée de Lanmark indique un montant de TVH de 10 790 $.
+[34] La facture révisée de Mark Foley indique qu'elle a été établie pour des [TRADUCTION] « services de planification et d'aménagement fournis en 2014 », puis ajoute la description suivante : [TRADUCTION] « examen de projets d'aménagement ». La liste suivante d'immeubles apparaît ensuite [35] :
+- 2452, chemin Nash, Bowmanville – terrains à aménager
+- 3253, rue Liberty N., Bowmanville – terrains à aménager
+- 3145, avenue Meanrs N., Bowmanville – terrains à aménager
+- 2212, chemin Trulls, Courtice – terrains à aménager
+- 5264, rue Liberty N., Bowmanville – terrains à aménager
+- 3640, rue Liberty N., Bowmanville – terrains à aménager
+- rue Liberty N. et chemin Taunton, Bowmanville – terrains à aménager
+- 306, chemin Admiral, Oshawa – maison à 2 logements
+- 1595, chemin Nash, Courtice – terrains à aménager
+- 1608, chemin Nash, Courtice – terrains à aménager
+- 2455, chemin Nash, Courtice – terrains à aménager
+- 377, chemin Taunton E., Oshawa – aménagement commercial
+- 940, chemin Taunton E., Whitby – aménagement commercial
+- rue Live Oak, Oshawa – terrain à bâtir
+- 2002, chemin Rossland E., Whitby –immeuble de 43 logements
+- Orillia (Ontario) – terrains à aménager
+- 2770, rue prestonvale, Courtice – terrains à aménager
+- 1410, chemin Stevenson N., Oshawa – terrains à aménager
+- plusieurs emplacements pour immeubles d'habitation, maisons en rangée et duplex (Grand Toronto)
+Mark Foley a facturé des honoraires globaux de 50 000 $ (plus la TVH de 6 500 $) pour les services décrits ci‑dessus.
+[35] Le montant total de TVH des trois factures du 31 mars 2015 décrites ci‑dessus est le suivant :
+Tableau 6
+Fournisseur de services
+TVH
+Mark Foley
+6 500 $
+Deborah Foley
+3 120
+Lanmark
+10 790
+20 410 $
+[36] Dans ses déclarations de TPS/TVH produites pour le quatrième trimestre de 2013, le deuxième trimestre de 2014 et le premier trimestre de 2015, la société 137 demande un CTI pour les montants indiqués sur les factures susmentionnées. Lors de l'audition des présents appels, M. Foley a reconnu que les services fournis par Deborah Foley et Lanmark auraient dû être ventilés entre les activités de location et d'aménagement de la société 137. M. Foley a expliqué que lui et le comptable de la société 137 (ou peut‑être le contrôleur‑comptable) se sont entendus pour dire que 75 % des services que Mme Foley a fournis à la société 137 étaient liés à des activités de location résidentielle, et 25 % à des activités d'aménagement commercial [36] .
+[37] Après avoir invoqué l'importante quantité de documents accumulés par la société 137 à l'égard de ses activités d'aménagement, M. Foley a laissé entendre que la superficie des locaux que la société loue pour ses activités d'aménagement dépasse celle utilisée pour ses activités de location. Tout de suite après avoir fait cette remarque, il a ajouté que [TRADUCTION] « la superficie du bureau pour le côté résidentiel et le côté commercial ne changera pas, mais le volume de travail est beaucoup plus important pour le côté commercial » [37] . Il a ensuite précisé que les frais de 53 000 $ facturés pour le loyer, les services publics et les fournitures de bureau en 2014 auraient dû être répartis comme suit : 75 % pour les activités commerciales et 25 % pour les activités de location résidentielle [38] . Il a affirmé que les honoraires de 30 000 $ facturés pour les services d'urbanisme et d'aménagement se rapportent entièrement aux activités commerciales [39] .
+[38] M. Foley a déclaré que tous les services qu'il a fournis à la société 137 se rapportaient aux activités commerciales. J'ai des doutes à ce sujet. M. Foley était le directeur général de la société 137, et puisque ses revenus en 2013, 2014 et 2015 provenaient uniquement de l'entreprise de location résidentielle, je m'attendrais à ce qu'une partie des services de M. Foley à la société 137 porte sur ces activités. Qui plus est, la maison unifamiliale située au 306, chemin Admiral, à Oshawa, compte parmi les terrains énumérés dans la facture révisée du 31 mars 2015 de M. Foley. À l'époque, cette maison faisait l'objet de travaux visant à la convertir en un immeuble à deux logements [40] et, si elle avait été acquise par la société 137, elle aurait sans doute pu être vouée à la location résidentielle [41] . Pour cette raison, j'estime qu'au moins 25 % des services que M. Foley a fournis à la société 137 avaient trait à des activités de location résidentielle. Autrement dit, à mon avis, seulement 75 % des honoraires facturés par M. Foley à la société 137 visent des activités commerciales.
+F. La mise en vente de l'immeuble en cause
+[39] Probablement en 2015 ou aux alentours, la société 137 a mis l'immeuble en cause en vente [42] . S'il avait été vendu, la vente aurait constitué une activité commerciale [43] .
+IV. ANALYSE
+A. Les CTI et les activités commerciales
+[40] La disposition légale qui prévoit les demandes de CTI est le paragraphe 169(1) de la LTA, et plus précisément le passage suivant :
+169(1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d'une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu'elle acquiert, [...] correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture [...] devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable :
+A × B
+où :
+A représente la taxe relative à la fourniture [...] qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable;
+B a) [...]
+b) dans le cas où le bien ou le service est acquis [...] par la personne pour utilisation dans le cadre d'améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l'immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition [...] de tout ou partie de l'immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis [...] le bien ou le service [...] pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[41] Dans les présents appels, trois conditions énoncées au paragraphe 169(1) de la LTA doivent être remplies pour que l'appelante ait droit à un CTI :
+a) le demandeur a acquis un bien ou un service;
+b) la TPS relative à la fourniture devient payable ou a été payée;
+c) le demandeur a acquis le bien ou le service pour utilisation dans le cadre d'améliorations apportées à une de ses immobilisations ou pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales [44] .
+[42] Le terme « activité commerciale » est défini comme suit au paragraphe 123(1) de la LTA :
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l'exploitation d'une entreprise [...], sauf dans la mesure où l'entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial [...], sauf dans la mesure où le projet ou l'affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures, sauf des fournitures exonérées, d'immeubles appartenant à la personne, y compris les actes qu'elle accomplit dans le cadre ou à l'occasion des fournitures.
+Comme il est précisé dans la définition qui précède, la réalisation de fournitures exonérées ne constitue pas une « activité commerciale ».
+[43] Le paragraphe 123(1) de la LTA indique qu'une « fourniture exonérée » s'entend d'une fourniture figurant à l'annexe V. L'alinéa 6a) de la partie I de l'annexe V de la LTA dispose que la fourniture « d'un immeuble d'habitation ou d'une habitation dans un tel immeuble, par bail, licence ou accord semblable, en vue de son occupation continue à titre résidentiel ou d'hébergement par le même particulier dans le cadre de l'accord pour une durée d'au moins un mois » constitue une fourniture exonérée. Par conséquent, les activités de location résidentielle de la société 137 n'étaient pas des activités commerciales.
+[44] Vu le témoignage de M. Foley et les éléments de preuve documentaires, les démarches de la société 137 pour aménager l'immeuble en cause et trouver d'autres immeubles à aménager représentent des activités commerciales. Je constate par surcroît que ces activités commerciales se sont déroulées pendant plusieurs années, et notamment en 2013, 2014 et 2015. En revanche, comme je l'ai fait observer au paragraphe précédent, les activités de location résidentielle de la société 137 n'étaient pas des activités commerciales.
+[45] Le paragraphe 169(1) de la LTA exige qu'on établisse une proportion. Un CTI peut être demandé seulement pour la fraction (exprimée en pourcentage) qui représente la mesure dans laquelle la personne utilisait l'immobilisation visée dans le cadre de ses activités commerciales ou dans laquelle elle a acquis le bien ou le service pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales. Il faut donc répartir les intrants de la société (soit la contrepartie payée par la société pour les biens ou les services acquis) entre ses activités commerciales et ses activités de location résidentielle.
+[46] Le paragraphe 141.01(5) de la LTA énonce les règles de la répartition :
+Sous réserve de l'article 141.02, seules des méthodes justes et raisonnables et suivies tout au long d'un exercice peuvent être employées par une personne au cours de l'exercice pour déterminer la mesure dans laquelle :
+a) la personne acquiert [...] des biens ou des services afin d'effectuer une fourniture taxable pour une contrepartie ou à d'autres fins;
+b) des biens ou des services sont consommés ou utilisés en vue de la réalisation d'une fourniture taxable pour une contrepartie ou à d'autres fins.
+La Loi impose donc de suivre une méthode juste et raisonnable pour déterminer la mesure dans laquelle la société 137 a utilisé l'immeuble en cause dans le cadre de ses activités commerciales, ou la mesure dans laquelle elle a acquis les services de M. Foley, de Mme Foley et de Lanmark pour consommation ou utilisation dans le cadre de ses activités commerciales.
+[47] Pour en arriver à une répartition juste, il faut déterminer si la disposition applicable est l'alinéa b) ou l'alinéa c) de la description du facteur B de la formule énoncée au paragraphe 169(1) de la LTA. L'alinéa b) s'applique si l'immeuble en cause était l'une des immobilisations de la société 137, si elle l'utilisait dans le cadre de ses activités commerciales et si elle avait acquis les services en cause pour utilisation dans le cadre d'améliorations apportées à cette immobilisation. Sinon, l'alinéa c) s'applique.
+[48] La question de savoir si l'immeuble en cause était une immobilisation pour l'application de l'alinéa b) du facteur B de la formule énoncée au paragraphe 169(1) de la LTA n'a pas vraiment été abordée dans les témoignages et les observations lors de l'audience. En d'autres mots, aucune des parties ne s'est prononcée sur la question de savoir si la disposition applicable dans les présents appels est l'alinéa b) ou l'alinéa c) du facteur B du paragraphe 169(1). Selon la définition du terme « immobilisation » donnée au paragraphe 123(1), un bien qui est une « immobilisation » au sens de la Loi de l'impôt sur le revenu (LIR) est en général une immobilisation au sens de la LTA. La question de savoir si l'immeuble en cause était une immobilisation ou un élément d'inventaire au sens de la LTA ou de la LIR n'a pas été abordée au cours de l'audience. Cependant, en raison des témoignages (notamment quant à la période pendant laquelle la société 137 a été propriétaire de l'immeuble en cause et quant à ses efforts soutenus pour l'aménager après son acquisition), je conclus qu'il constituait une immobilisation et non un élément d'inventaire au cours des périodes de déclaration visées par les présents appels [45] .
+[49] Même si l'immeuble en cause était une immobilisation de la société 137 au cours des périodes de déclaration visées, la société poursuivait ses démarches pour obtenir les autorisations requises en vue d'y construire des installations d'entreposage et elle n'avait donc pas commencé à l'utiliser dans le cadre de ses activités commerciales [46] . Par conséquent, l'alinéa b) du facteur B de la formule énoncée au paragraphe 169(1) de la LTA ne s'applique pas. La disposition applicable en l'espèce est donc l'alinéa c). Celui-ci exige d'établir le pourcentage qui représente la mesure dans laquelle la société 137 a acquis les services de Mark Foley, de Deborah Foley, de Cole Foley et de Lanmark pour consommation ou utilisation dans le cadre de ses activités commerciales et non de ses activités de location résidentielle.
+[50] Rien dans la preuve me permet de mettre en doute la répartition que M. Foley et le comptable de la société 137 ont proposée pour les services fournis par Mme Foley, à savoir 75 % pour les activités de location résidentielle et 25 % pour les activités d'aménagement commercial. De même, rien dans la preuve ne donne à penser qu'il faudrait modifier la répartition qu'ils ont proposée pour les frais globaux facturés chaque année par Lanmark à la société 137 pour le loyer, les services publics et les fournitures de bureau, à savoir 75 % pour les activités commerciales et 25 % pour les activités de location résidentielle. Comme je l'ai expliqué au paragraphe 38, à mon avis, seulement 75 % des honoraires facturés par M. Foley à la société 137 se rapportaient à des activités commerciales. Très peu d'éléments de preuve ont été soumis concernant la nature des services fournis par Cole Foley, et pratiquement aucun élément de preuve pour ce qui est de la répartition entre les activités commerciales et les activités de location résidentielle des honoraires facturés pour ces services.
+B. Les documents à l'appui des demandes de CTI
+[51] J'examinerai maintenant la conformité des 10 factures présentées à la Cour lors des présents appels. Quatre d'entre elles (les factures de 2013) se rapportent au quatrième trimestre de 2013, trois (les factures de 2014) au deuxième trimestre de 2014, et trois autres (les factures de 2015) au premier trimestre de 2015 [47] .
+[52] Pour demander un CTI, l'inscrit à la TPS doit satisfaire aux exigences en matière de documents qui sont énoncées au paragraphe 169(4) de la LTA et à l'article 3 du Règlement. Plus précisément, l'alinéa 169(4)a) de la LTA dispose que l'inscrit doit, avant de produire une déclaration dans laquelle il demande un CTI pour une période de déclaration donnée, obtenir « les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement ». L'article 3 du Règlement précise les renseignements exigés en application de l'alinéa 169(4)a) de la LTA. Les exigences établies aux alinéas a), b) et c) de l'article 3 varient selon le montant payé ou payable à l'égard d'une fourniture donnée. Dans les présents appels, les renseignements exigés sont les suivants :
+Disposition
+Renseignements exigés
+3a)(i)
+le nom du fournisseur;
+3a)(ii)
+la date de la facture remise pour la fourniture, le cas échéant;
+3a)(iv)
+le montant total payé ou payable pour la fourniture;
+3b)(i)
+le nom du fournisseur et le numéro d'inscription attribué à celui‑ci;
+3b)(iii)
+dans le cas où la taxe payée ou payable n'est pas comprise dans le montant payé ou payable pour la fourniture, la taxe payée ou payable;
+3c)(ii)
+le nom de l'acquéreur;
+3c)(iii)
+les modalités de paiement;
+3c)(iv)
+une description suffisante pour identifier chaque fourniture [48] .
+[53] À l'article 2 du Règlement, le terme « pièce justificative » est défini comme suit : « Document qui contient les renseignements exigés à l'article 3 [...] ». Il n'est pas nécessaire qu'un seul document renferme tous les renseignements visés au paragraphe 169(4) de la LTA; ils peuvent figurer collectivement dans plusieurs documents [49] . Toutefois, pour être admis à titre de pièce justificative, un document doit avoir été signé ou délivré par le fournisseur [50] .
+[54] Même si le paragraphe 169(4) de la LTA oblige l'inscrit à obtenir une pièce justificative contenant les renseignements prescrits avant de produire la déclaration de TPS dans laquelle il demande le crédit, si la pièce n'a pas été remise à l'ARC au cours de la vérification, il semble acceptable (mais non souhaitable) que l'on produise la pièce lors de l'audition de l'appel [51] . Étant donné les rapports étroits entre la société 137, Lanmark et les membres de la famille Foley, je suis d'avis que la société avait obtenu les factures avant de produire les déclarations de TPS dans lesquelles elle a demandé les CTI en cause dans les présents appels. De toute façon, le ministre n'a pas supposé, et la Couronne n'a pas non plus prétendu, que la société 137 n'avait pas obtenu les factures avant de produire les déclarations de TPS dans lesquelles les CTI sont demandés.
+C. L'admissibilité des factures de 2014
+(1) Le paragraphe 138(1) des Règles
+[55] L'avocat de la société 137 était convaincu d'avoir inclus les factures de 2014 dans le recueil de documents qu'il a constitué [52] . Elles ne s'y trouvaient pas, en raison d'une erreur. Ni la société 137 ni son avocat n'ont négligé de chercher les factures de 2014 avant le début de l'audience. L'absence des factures de 2014 découlait d'une erreur commise lors de l'assemblage du recueil.
+[56] Le paragraphe 138(1) des Règles de la Cour canadienne de l'impôt (procédure générale) (les Règles) dispose que :
+Le juge peut rouvrir l'audience avant que le jugement n'ait été prononcé aux fins et aux conditions qui sont appropriées.
+Lors d'un examen des principes régissant les requêtes en réouverture de procès dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., la Cour suprême du Canada renvoie au critère à deux volets énoncé dans la décision Scott c. Cook, qu'elle résume comme suit :
+[...] Premièrement, l'issue du procès aurait-elle vraisemblablement été différente si l'élément de preuve en cause avait été présenté? Deuxièmement, aurait-il été possible d'obtenir l'élément de preuve avant le procès en faisant preuve de diligence raisonnable [53] ?
+Dans l'arrêt Sagaz, la Cour suprême affirme que le juge de première instance doit exercer son pouvoir discrétionnaire de rouvrir le procès « avec modération et la plus grande prudence » [54] . Cela dit, le paragraphe 138(1) des Règles accorde un pouvoir discrétionnaire assez large [55] .
+[57] À mon avis, si l'on applique le premier volet du critère énoncé dans la décision Scott, les factures de 2014 remises par M. et Mme Foley changeraient l'issue des appels. En raison du paragraphe 169(4) de la LTA, si la société 137 ne peut produire les factures de 2014, elle ne peut pas obtenir des CTI à l'égard des frais qui y sont indiqués. Étant donné que la facture de 2014 remise par Lanmark a certaines lacunes (comme il sera expliqué ultérieurement), son admission ne changera pas l'issue des appels pour les frais facturés par Lanmark en 2014. Cependant, par souci d'exhaustivité, il m'apparaît nécessaire d'admettre les trois factures de 2014 ensemble.
+[58] Pour ce qui est du second volet du critère énoncé dans la décision Scott, je crois comprendre que la société 137 avait obtenu les factures de 2014 avant le début de l'audience. Autrement dit, on ne peut pas reprocher à la société 137 ou à son avocat de s'être mal préparé en vue de l'audience. L'omission en cause était involontaire, et je ne crois pas que cette erreur contrevient au second volet du critère énoncé dans la décision Scott [56] .
+[59] Comme il a été mentionné précédemment, le paragraphe 138(1) des Règles autorise le juge à rouvrir une audience « aux fins [...] qui sont appropriées ». L'article 9 des Règles prévoit en outre : « La Cour peut, en tout temps, dispenser de l'observation de toute règle si l'intérêt de la justice l'exige. » Dans l'arrêt Sagaz, la Cour suprême recommande de déterminer notamment si « l'équité exige de faire un accroc au caractère définitif du procès et de le rouvrir » [57] . L'omission lors de la constitution du recueil de documents de la société 137 était involontaire et innocente, et je ne crois pas qu'il serait juste ou équitable d'exclure les factures de 2014 des éléments de preuve à considérer pour statuer sur les présents appels.
+[60] Il est également énoncé au paragraphe 138(1) des Règles que la réouverture d'une audience est possible « aux conditions qui sont appropriées ». Il ne serait ni juste ni équitable d'admettre en preuve les factures de 2014 sans accorder à l'avocate de la Couronne la possibilité de contre‑interroger M. Foley à leur sujet [58] .
+[61] Durant la conférence de gestion de l'instance tenue par conférence téléphonique le 17 juin 2019, j'ai informé les deux avocats de ma décision d'admettre en preuve les factures de 2014. J'ai également dit que les frais indiqués sur les factures de 2014 de M. et Mme Foley seraient répartis entre les activités commerciales et les activités de location résidentielle de la façon exposée dans les présents motifs, et que les frais indiqués sur la facture de 2014 de Lanmark ne pouvaient pas donner droit à un CTI parce qu'il y manque des renseignements exigés qui ne se retrouvent dans aucun autre élément de preuve documentaire mis à la disposition de la Cour. J'ai de plus informé l'avocate de la Couronne que je lui accordais la possibilité de contre‑interroger M. Foley au sujet des factures de 2014. Après avoir tenu compte de mes observations sur le fait que je n'acceptais les factures de 2014 qu'à une fin limitée, l'avocate de la Couronne a dit qu'elle ne souhaitait pas contre‑interroger M. Foley au sujet des factures de 2014.
+(2) Le paragraphe 89(1) des Règles
+[62] Les factures de 2014 ne figurent pas dans la liste de documents (communication partielle) que la société 137 a préparée en application du paragraphe 81(1) des Règles [59] .
+[63] Le paragraphe 89(1) des Règles dispose :
+89(1) Sauf directive contraire de la Cour, ou sauf si les autres parties ont renoncé au droit d'obtenir communication de documents ou ont consenti par écrit à ce que des documents soient utilisés en preuve, aucun document ne doit être utilisé en preuve par une partie à moins, selon le cas :
+a) qu'il ne soit mentionné dans les actes de procédure, ou dans une liste ou une déclaration sous serment déposée et signifiée par une partie à l'instance;
+b) qu'il n'ait été produit par l'une des parties, ou par quelques personnes interrogées pour le compte de l'une des parties, au cours d'un interrogatoire préalable;
+c) qu'il n'ait été produit par un témoin qui n'est pas, de l'avis de la Cour, sous le contrôle de la partie.
+[64] Le paragraphe 89(1) des Règles a un objectif souhaitable, soit de limiter les possibilités de prendre l'autre partie au dépourvu [60] . La règle générale est donc d'écarter de la preuve tout document qui n'est pas mentionné dans les actes de procédure ou la liste de documents de la partie qui cherche à le faire admettre [61] . À moins d'un accord entre les parties, il ne faut pas d'emblée faire fi du paragraphe 89(1) des Règles [62] . Tout écart par rapport à la règle générale doit être justifié [63] ou être appuyé sur un motif quelconque [64] .
+[65] Le passage introductif du paragraphe 89(1) des Règles attribue à la Cour le pouvoir discrétionnaire d'admettre un document en preuve même si les exigences de cette disposition n'ont pas été remplies [65] . Pour que la Cour exerce son pouvoir discrétionnaire, il doit y avoir une raison d'admettre en preuve un document non déclaré jusque‑là [66] . La Cour doit exercer ce pouvoir de façon judiciaire, suivant les règles de la raison et de la justice. Elle ne doit pas le faire de manière arbitraire [67] . Pour décider s'il faut admettre un document nouveau, il faut soupeser les intérêts contradictoires des deux parties afin d'éviter tout déni de justice [68] . Par ailleurs, la Cour doit tenir compte de l'intérêt de la justice et de l'importance prépondérante d'avoir à sa disposition tous les renseignements pertinents pour être en mesure de trancher un appel de manière juste et convenable [69] . Enfin, la Cour doit constamment revenir au paragraphe 4(1) des Règles, qui lui commande de donner à celles‑ci « une interprétation large afin d'assurer la résolution équitable sur le fond de chaque instance de la façon la plus expéditive et la moins onéreuse » [70] .
+[66] À mon avis, le caractère involontaire de l'omission des factures justifie un écart par rapport à la règle générale qui écarterait tout document qui n'est pas mentionné dans les actes de procédure ou la liste de documents de la partie qui demande l'autorisation de le produire [71] . En arrivant à cette conclusion, j'ai tenté de mettre en balance les intérêts des deux parties et j'ai pris en considération l'importance prépondérante d'avoir à ma disposition tous les renseignements pertinents pour être en mesure de trancher les présents appels de manière juste et convenable. Pour éviter toute iniquité ou tout déni de justice envers la Couronne, j'ai offert à son avocate la possibilité de contre‑interroger M. Foley au sujet des factures de 2014, mais elle l'a déclinée.
+D. L'examen des factures
+[67] Il sera question maintenant de l'examen qui a été fait des 10 factures qui ont été produites en preuve dans les présents appels afin d'établir si elles renferment tous les renseignements exigés par le Règlement. Les résultats de cet examen sont présentés dans l'annexe A, dans laquelle j'indique les exigences du Règlement énoncées précédemment au paragraphe 52, après quoi j'indique si elles ont été remplies ou non. Dans plusieurs cas, par exemple le sous‑alinéa 3a)(i), le respect des exigences n'est pas en litige. Dans les paragraphes suivants, je vais me concentrer sur les exigences qui ont suscité une certaine controverse [72] .
+[68] Les factures de 2014 et de 2015 remises par Mark Foley et Deborah Foley, de même que la facture de 2015 remise par Lanmark, contiennent tous les renseignements exigés par le Règlement. Il n'y a donc rien à redire à leur sujet quant aux exigences en matière de documents.
+[69] Pour ce qui est du sous‑alinéa 3a)(ii) du Règlement, aucune date n'apparaît sur la facture de 2013 de Cole Foley. Il s'agit d'une lacune importante.
+[70] Pour ce qui est du sous‑alinéa 3b)(i), les quatre factures remises pour 2013 et celle remise pour 2014 par Lanmark ne mentionnent pas le numéro d'inscription à la TPS du fournisseur. Cependant, comme il a été vu précédemment, les renseignements exigés au paragraphe 169(4) de la LTA peuvent apparaître dans plus d'un document [73] . Étant donné que les factures de 2014 de Mark et de Deborah, ainsi que les factures de 2015 de Mark, de Deborah et de Lanmark, donnent les numéros d'inscription à la TPS des fournisseurs respectifs, j'estime qu'il est satisfait à l'exigence de donner les numéros d'inscription à la TPS de ces trois fournisseurs pour les factures de 2013 [74] . En revanche, aucun des documents versés en preuve n'indique le numéro d'inscription à la TPS de Cole Foley. Il s'agit d'une lacune dans sa facture de 2013.
+[71] Le sous-alinéa 3c)(iii) du Règlement dispose que les modalités de paiement doivent apparaître. La facture de 2013 de Cole Foley porte la mention [TRADUCTION] « PAYABLE IMMÉDIATEMENT ». Sauf la facture de 2013 de Cole Foley, aucune des factures ne mentionne expressément les « modalités de paiement » (autres que le montant des frais à verser). Selon ce que je comprends, si un document contractuel (y compris les factures, je présume) ne mentionne pas expressément les modalités de paiement, les frais ou le prix qui y figure est payable en espèces sur‑le‑champ, ou à tout le moins dans un délai raisonnable [75] . Si un fournisseur est disposé à accepter des versements échelonnés ou un règlement dans un délai relativement lointain, avec ou sans intérêts (selon le cas) ou garantie, ces modalités de paiement devraient être précisées. Toutefois, si j'ai bien compris, les frais indiqués sur les factures en cause devaient être réglés dans un délai raisonnable, sinon sur‑le‑champ. Par conséquent, je suis d'avis que l'indication du montant des frais à régler sur chacune des factures, et la condition implicite que le règlement se fasse en espèces dans un délai raisonnable, remplissent l'exigence du sous‑alinéa 3c)(iii) concernant les modalités de paiement.
+[72] Le sous‑alinéa 3c)(iv) du Règlement exige une description de la fourniture, qui fait défaut sur la facture de 2014 de Lanmark.
+[73] Même si la société 137 n'a pas respecté toutes les exigences du paragraphe 169(4) de la LTA et de l'article 3 du Règlement, elle les a observées pour l'essentiel. On pourrait donc prétendre que sa demande de CTI à l'égard de la facture de 2013 de Cole Foley et de la facture de 2014 de Lanmark ne devrait pas être refusée pour le simple fait qu'au moment de sa demande, elle n'avait peut‑être pas en main les pièces justificatives contenant tous les renseignements exigés. Cependant, les tribunaux ont constamment soutenu que l'article 3 du Règlement doit être appliqué rigoureusement. La Cour d'appel fédérale s'est prononcée comme suit dans l'arrêt Systematix Technology Consultants Inc. :
+[4] Nous sommes d'avis que la Loi [le paragraphe 169(4) de la LTA et l'article 3 du Règlement] exige que les personnes ayant versé des sommes au titre de la TPS à des fournisseurs veillent à fournir des numéros d'inscription des fournisseurs valides lorsqu'elles demandent un crédit de taxe sur les intrants.
+[5] Nous sommes d'accord avec le juge Bowie lorsqu'il affirme ce qui suit dans l'affaire Key Property Management Corp. c. R., [2004] G.S.T.C. 32 (CCI) :
+Le but même de l'alinéa 169(4)a) et du Règlement est de protéger le Trésor contre les violations tant frauduleuses qu'innocentes. Ce but ne peut être atteint que si les exigences sont considérées comme étant obligatoires et sont rigoureusement appliquées. Le fait de les envisager simplement comme une indication ne serait pas seulement malencontreux, mais serait une grave violation de l'intégrité du texte législatif. [Non souligné dans l'original.]
+[6] Nous sommes également d'accord avec la juge Campbell lorsqu'elle affirme ce qui suit dans l'affaire Davis c. R., [2004] G.S.T.C. 134 (CCI) :
+Je ne pense pas qu'il est possible de contourner ces dispositions, étant donné que leur libellé est très précis. Elles sont manifestement obligatoires, et l'appelant n'a tout simplement pas respecté les exigences techniques que la Loi et le Règlement lui imposent à titre de participant à un régime d'autocotisation. [Non souligné dans l'original [76] .]
+[74] Dans Oak Ridges Lumber Corp., l'appelante a fait valoir que certains paiements comprenaient la TPS, mais les pièces justificatives ont été jugées insuffisantes. Voici une observation du juge en chef Bowman à ce sujet :
+Je crois qu'il est juste de dire qu'aucun document de la sorte [les documents énumérés dans la définition de « pièce justificative » à l'article 2 du Règlement] n'a été présenté à l'Agence du revenu du Canada ou à la Cour. L'exigence de présentation de pièces justificatives n'est ni déraisonnable, ni particulièrement lourde. Il s'agit d'ailleurs d'une exigence déjà prévue dans la LTA [77] .
+Le juge en chef Bowman a ensuite cité le passage suivant de sa décision Helsi Construction Management :
+Les raisons principales du rejet étaient que les numéros d'inscription des fournisseurs n'étaient pas indiqués sur les factures. Il s'agit d'une condition prévue par l'article 3 du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants. Bien qu'il puisse être justifié, dans certains cas, de considérer les conditions techniques ou mécaniques comme indicatives plutôt qu'obligatoires [...], ce n'est pas le cas pour ce qui est des dispositions relatives à la TPS de la Loi sur la taxe d'accise [78] .
+[75] Par conséquent, puisque la société 137 n'a pas observé intégralement le paragraphe 169(4) de la LTA et l'article 3 du Règlement, elle n'a pas droit aux CTI à l'égard de la facture de 2013 de Cole Foley et de la facture de 2014 de Lanmark.
+[76] Les huit factures autres que la facture de 2013 de Cole Foley et la facture de 2014 de Lanmark se rapportaient notamment à des services acquis par la société 137 pour consommation ou utilisation dans le cadre de ses activités commerciales. Les frais indiqués sur ces huit factures doivent être répartis entre les activités commerciales et les activités de location résidentielle de la société 137. Les montants des CTI étayés par ces factures s'établissent comme suit :
+Tableau 7
+Fournisseur
+Date de la facture
+Frais
+TVH totale
+Activités commerciales
+CTI
+Mark
+31 déc. 2013
+42 000 $
+5 460 $
+75 %
+4 095,00 $
+Deborah
+31 déc. 2013
+24 000
+3 120
+25 %
+780,00
+Lanmark
+31 déc. 2013
+53 000
+57 000
+6 890
+7 410
+75 %
+100 %
+5 167,50
+7 410,00
+Mark
+6 mai 2014
+50 000
+6 500
+75 %
+4 875,00
+Deborah
+6 mai 2014
+24 000
+3 120
+25 %
+780,00
+Mark
+31 mars 2015
+50 000
+6 500
+75 %
+4 875,00
+Deborah
+31 mars 2015
+24 000
+3 120
+25 %
+780,00
+Lanmark
+31 mars 2015
+53 000
+30 000
+6 890
+3 900
+75 %
+100 %
+5 167,50
+3 900,00
+Total
+37 830,00 $
+[77] La société 137 a donc droit à des CTI de 37 830 $ pour les périodes de déclaration en cause. La répartition du montant total des CTI entre les différentes périodes de déclaration est présentée au tableau 8 qui suit.
+V. CONCLUSION
+[78] Les appels relatifs aux périodes de déclaration trimestrielles terminées le 31 décembre 2013, le 30 juin 2014 et le 31 mars 2015 sont accueillis, et les nouvelles cotisations établies pour ces périodes de déclaration sont renvoyées au ministre pour nouvel examen et nouvelles cotisations en tenant compte du fait que la société 137 a droit aux CTI suivants pour ces périodes de déclaration :
+Tableau 8
+Période terminée le
+CTI
+Total pour la période
+31 décembre 2013
+4 095,00 $
+780,00
+5 167,50
+7 410,00
+Total pour la période
+17 452,50 $
+17 452,50 $
+30 juin 2014
+4 875,00 $
+780,00
+Total pour la période
+5 655,00 $
+5 655,00
+31 mars 2015
+4 875,00 $
+780,00
+5 167,50
+3 900,00
+Total pour la période
+14 722,50 $
+14 722,50 $
+Total pour toutes les périodes
+37 830,00 $
+[79] Les appels relatifs aux périodes de déclaration trimestrielles terminées les 30 septembre 2014 et 31 décembre 2014 sont rejetés [79] .
+[80] Comme les deux parties ont eu en partie gain de cause, je serais porté à ne pas adjuger de dépens. Néanmoins, si les parties ne sont pas d'accord, elles disposeront d'une période de 30 jours après la date du jugement à l'égard des présents appels pour parvenir à un accord sur les dépens et en informer la Cour, faute de quoi la société 137 disposera d'une période additionnelle de 30 jours pour déposer des observations écrites sur les dépens, et la Couronne d'une période de 30 jours en sus pour déposer sa réponse par écrit. Les observations des parties n'excéderont pas cinq pages. Si les parties n'informent pas la Cour qu'elles sont parvenues à un accord sur les dépens et ne déposent pas leurs observations dans les délais impartis, aucuns dépens ne seront adjugés.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2019.
+« Don R. Sommerfeldt »
+Le juge Sommerfeldt
+ANNEXE A
+Renseignements prescrits à l'article 3 du Règlement
+3a)(i)
+3a)(ii)
+3a)(iv)
+3b)(i)
+3b)(iii)
+3c)(ii)
+3c)(iii)
+3c)(iv)
+Facture
+Nom du fournisseur
+Date de la facture
+Montant payable
+Numéro de TPS du fournisseur
+Montant de la TVH
+Nom de l'acquéreur
+Modalités de paiement
+Description des services
+Conforme au paragraphe 169(4)?
+Mark 2013
+Oui
+Oui
+Oui
+Non*
+Oui
+Oui
+Oui
+Oui
+Oui
+Deborah 2013
+Oui
+Oui
+Oui
+Non*
+Oui
+Oui
+Oui
+Oui
+Oui
+Cole 2013
+Oui
+Non
+Oui
+Non
+Oui
+Oui
+Oui
+Oui
+Non
+Lanmark 2013
+Oui
+Oui
+Oui
+Non*
+Oui
+Oui
+Oui
+Oui
+Oui
+Mark 2014
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Deborah 2014
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Lanmark 2014
+Oui
+Oui
+Oui
+Non*
+Oui
+Oui
+Oui
+Non
+Non
+Mark 2015
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Deborah 2015
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Lanmark 2015
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+Oui
+* Les numéros d'inscription à la TPS figurent sur d'autres factures.
+RÉFÉRENCE :
+2019 CCI 149
+NO DE DOSSIER DE LA COUR :
+2016-3232(GST)G
+INTITULÉ :
+1378055 ONTARIO LIMITED ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 1er mai 2018
+DÉPÔT DES OBSERVATIONS DE L'APPELANTE :
+Le 12 juillet 2018
+DÉPÔT DES OBSERVATIONS DE L'INTIMÉE :
+Le 13 juillet 2018
+CONFÉRENCE DE GESTION DE L'INSTANCE :
+Le 17 juin 2019
+MOTIFS DU JUGEMENT :
+L'honorable juge Don R. Sommerfeldt
+DATE DU JUGEMENT :
+Le 16 juillet 2019
+COMPARUTIONS :
+Avocat de l'appelante :
+Me James N. Aitchison
+Avocate de l'intimée :
+Me Devon E. Peavoy
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me James N. Aitchison
+Cabinet :
+Aitchison Law Office
+Pour l'intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Loi sur la taxe d'accise, L.R.C. 1985, ch. E‑15, partie IX, édictée par L.C. 1990, ch. 45, et modifiée par la suite.
+[2] Pièce A-1, onglet 15, p. 1, et onglet 18, p. 1.
+[3] Pièce A-1, onglet 21, p. 3.
+[4] Dans ses remarques préliminaires, le service de l'urbanisme de la municipalité régionale de Durham utilise l'expression [TRADUCTION] « secteur d'emploi » (pièce A‑1, onglet 8, p. 4), mais M. Foley a plutôt utilisé l'expression [TRADUCTION] « bien‑fonds réservé à l'emploi » (transcription, p. 6, ligne 9).
+[5] Transcription, p. 32, ligne 22, à p. 23, ligne 7, et p. 44, lignes 17 à 20.
+[6] Dans les présents motifs, je désignerai Mark Foley et Deborah Foley par leur prénom ou par « M. Foley » et « Mme Foley », selon le contexte.
+[7] Transcription, p. 70, lignes 2 à 25. Aucun élément de preuve n'explique précisément à qui appartient Lanmark ou ses liens avec la famille Foley.
+[8] Pièce A-1, onglet 21, p. 3 à 5.
+[9] Pièce A‑1, onglets 1 à 4 et 6.
+[10] Transcription, p. 10, lignes 17 à 22.
+[11] Même si ce point n'a pas été soulevé lors des témoignages, le projet de la société 137 de construire un immeuble ou des immeubles sur l'immeuble en cause semble avoir été bloqué par le Règlement de l'Ontario 42/06, qui interdisait le nivellement, le remblayage ou toute autre activité modifiant un site, y compris la construction d'édifices, sans permis de l'office de protection de la nature du lac Ontario centre (voir le courriel du 27 août 2015, pièce A‑1, onglet 8, p. 1). Le passage suivant est extrait d'un document non daté du service de l'urbanisme de la municipalité régionale de Durham :
+[TRADUCTION]
+Selon le plan régional officiel de Durham, le terrain comprend d'importants éléments hydrologiques ou naturels. Il est interdit de procéder à des aménagements ou à des modifications en présence de tels éléments. Le plan régional officiel prévoit de plus une modification du tracé du chemin Stevenson Nord qui le ferait traverser le terrain en cause.
+Si la demanderesse [la société 137] parvient à convaincre la municipalité régionale (après avoir consulté la municipalité régionale et l'office de protection de la nature du lac Ontario centre) que le projet d'aménagement ne nuira pas aux importants éléments hydrologiques ou naturels en cause et qu'il ne nuira pas à la modification du tracé du chemin Stevenson Nord, la proposition de la demanderesse de construire des installations d'entreposage extérieures accessibles au public pourrait être prise en considération dans le cadre du plan régional officiel. (Pièce A‑1, onglet 8, p. 4.)
+[12] Pièce A-1, onglet 10 (3 numéros de page y figurent : 15 au milieu en haut de la page; 414 au coin supérieur droit, et 121 au bas).
+[13] Pièce A‑1, onglet 10; la page en question porte 2 numéros : 4 au haut et 99 au bas.
+[14] Pièce A‑1, onglet 10, p. 1 et 2.
+[15] Pièce A‑1, onglet 5, p. 1.
+[16] Pièce A‑1, onglet 7.
+[17] Pièce A‑1, onglet 8, p. 2 et 3.
+[18] Pièce A‑1, onglet 8 (quatrième page à partir de la fin des documents sous cet onglet).
+[19] Transcription, p. 30, lignes 17 à 22; p. 43, lignes 18 à 27; p. 46, lignes 14 à 22; p. 70, ligne 26, à p. 74, ligne 1, et p. 79, lignes 9 à 19.
+[20] Transcription, p. 27, ligne 16, à p. 28, ligne 13.
+[21] Les CTI demandés en 2014 totalisaient 18 121,35 $ (17 905,21 $ + 48,52 $ + 166,92 $).
+[22] Voir le paragraphe 138(2) des Règles de la Cour canadienne de l'impôt (procédure générale), DORS/90‑688, dans leur version modifiée.
+[23] Pièce A‑1, onglet 11, p. 1.
+[24] Transcription, p. 51, lignes 3 et 4; p. 75, lignes 1 à 15, et p. 76, lignes 9 à 17.
+[25] Pièce A‑1, onglet 21, p. 2. Transcription, p. 27, lignes 6 à 8; p. 30, lignes 19 à 22; p. 45, lignes 13 à 17, et p. 51, lignes 4 à 8.
+[26] Transcription, p. 23, lignes 21 à 27.
+[27] Transcription, p. 22, ligne 14, à p. 23, ligne 10, et p. 24, lignes 11 à 13.
+[28] Pièce A‑1, onglet 11, p. 3, et onglet 21, p. 1.
+[29] Pièce A‑1, onglet 11, p. 2, et onglet 21, p. 1.
+[30] L'en‑tête est en lettres majuscules sur la facture originale.
+[31] Transcription, p. 62, ligne 3, à p. 63, ligne 7. Tel qu'il a été mentionné précédemment, les trois factures sont du 31 décembre 2013.
+[32] Pièce A‑1, onglet 11, p. 4.
+[33] Pièce A‑1, onglet 21, p. 24 à 26.
+[34] Pièce A‑1, onglet 16, p. 2 à 4.
+[35] Les adresses sont reproduites telles qu'elles apparaissent sur la facture.
+[36] Transcription, p. 25, lignes 7 à 13; p. 26, lignes 20 à 27; p. 65, lignes 7 et 8; p. 77, lignes 7 à 15, et p. 78, lignes 3 à 10.
+[37] Transcription, p. 25, lignes 21 à 25.
+[38] Transcription, p. 25, ligne 26, à p. 26, ligne 3, et p. 78, ligne 26, à p. 79, ligne 4.
+[39] Transcription, p. 77, lignes 16 à 24.
+[40] Transcription, p. 67, lignes 25 à 28.
+[41] En fin de compte, la société 137 n'a pas acquis la maison du 306, chemin Admiral. Cependant, comme le fils de Mark Foley, Brent Foley, était courtier immobilier, il l'a fait visiter à un client qui était à la recherche d'un immeuble à deux logements. Voir la transcription, p. 68, ligne 10, à p. 69, ligne 10, et p. 76, ligne 18, à p. 77, ligne 2.
+[42] Le sommaire de l'avis de vente a été déposé en tant que pièce R‑1. Voir aussi la transcription, p. 57, ligne 2, à p. 60, ligne 17.
+[43] Voir l'alinéa c) de la définition du terme « activité commerciale » au paragraphe 123(1) de la LTA.
+[44] Voir la décision General Motors du Canada ltée c. La Reine, 2008 CCI 117, au paragraphe 30, conf. par 2009 CAF 114, [2010] 2 R.C.F. 344, au paragraphe 30.
+[45] Cette conclusion vaut uniquement pour les présents appels; elle ne doit pas être invoquée afin de déterminer si, aux termes de la LIR, le gain ou la perte découlant de l'éventuelle aliénation de l'immeuble en cause devrait être imputé au capital ou au revenu.
+[46] Les paragraphes 13(26) et 13(27) de la LIR établissent une distinction nette entre l'acquisition et l'utilisation d'un bien. Je suis d'avis que la même distinction s'impose pour l'application de la LTA.
+[47] Dans la présente partie de l'analyse, je n'ai pas tenu compte des factures initiales, mais des factures révisées du 31 mars 2015.
+[48] La colonne de gauche de la liste des renseignements exigés renvoie aux dispositions de l'article 3 du Règlement.
+[49] Westborough Place Inc. c. La Reine, 2007 CCI 155, au paragraphe 32.
+[50] Alinéa 2h) de la définition du terme « pièce justificative » du Règlement. Voir aussi la décision Westborough Place, ibid., au paragraphe 34.
+[51] Appels dans lesquels les pièces justificatives n'ont été produites qu'à l'audience : Wing Construction Ltd. c. La Reine, [2000] A.C.I. no 791 (QL); Willis c. La Reine, [2000] A.C.I. no 847 (QL); Helsi Construction Management Inc. c. La Reine, [2001] A.C.I. no 149 (QL), conf. par 2002 CAF 358; 603262 BC Ltd. c. La Reine, 2011 CCI 334.
+[52] Le recueil de documents a été déposé en tant que pièce A‑1.
+[53] 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 R.C.S. 983, au paragraphe 20. Voir aussi les décisions Scott v. Cook, [1970] 2 O.R. 769 (H.C.J. Ont.); Benaroch c. La Reine, 2015 CCI 91, et Freitas c. La Reine, 2017 CCI 46.
+[54] Ibid., au paragraphe 61.
+[55] Banque Toronto‑Dominion c. Canada, 2011 CAF 221, [2011] 4 R.C.F. F‑7, au paragraphe 24. Voir aussi la décision Vander Ende v. Vander Ende, 2010 BCSC 597, au paragraphe 84.
+[56] Au paragraphe 21 de la décision Mitsubishi Heavy Industries Ltd. v. Canadian National Railway, 2011 BCSC 1536, la Cour laisse entendre que le dépôt d'une requête en admission de nouveaux éléments de preuve avant que le juge de première instance énonce ses motifs peut compromettre l'application des principes établis dans l'arrêt Sagaz, qui porte sur une requête déposée après que les motifs du juge de première instance ont été rendus, mais avant le jugement lui‑même. Aux paragraphes 26 et 41 de la décision Mitsubishi, la Cour laisse entendre que dans certains cas, il pourrait être injuste de ne pas accorder à une partie le redressement demandé uniquement en raison d'une omission ou d'une erreur de son avocat. Voir aussi la décision Vander Ende, précitée à la note 55, au paragraphe 84.
+[57] Sagaz, précité à la note 53, au paragraphe 60. Voir l'arrêt Degroote v. Canadian Imperial Bank of Commerce (1991), 121 O.A.C. 327, au paragraphe 3. La Cour d'appel de l'Ontario a fait observer dans cet arrêt que l'exigence de diligence raisonnable du second volet du critère énoncé dans la décision Scott peut [TRADUCTION] « être assouplie dans des circonstances exceptionnelles, pour éviter un déni de justice ». Voir aussi la décision Lo v. Ho, 2010 ONSC 662, aux paragraphes 25 et 26.
+[58] Voir la décision Mitsubishi, précitée à la note 56, aux paragraphes 35 et 36.
+[59] La liste de documents est la table des matières du recueil de documents de la société 137; il est donc vraisemblable que l'omission involontaire des factures de 2014 s'est produite durant la préparation de la liste de documents et du recueil de documents.
+[60] Au paragraphe 5 de la décision Scavuzzo c. La Reine, 2004 CCI 806, le juge en chef Bowman a souligné qu'une partie qui présente un grand nombre de documents qui n'étaient pas mentionnés dans sa liste de documents risque de prendre l'autre partie au dépourvu et de la placer dans une situation très désavantageuse, peut‑être même injuste.
+[61] Walsh c. La Reine, 2009 CCI 557, au paragraphe 25. Voir aussi la décision Canadian Economic Consultants Ltd. c. La Reine, [2000] A.C.F. no 1959 (QL) (C.A.F.), et la décision 568864 B.C. Ltd. c. La Reine, 2014 CCI 373, au paragraphe 107.
+[62] Savoy c. La Reine, 2011 CCI 35, au paragraphe 23 et à la note de bas de page 6 de cette décision.
+[63] Walsh, précité à la note 61, au paragraphe 25.
+[64] Myrdan Investments Inc. c. La Reine, 2013 CCI 35, au paragraphe 26.
+[65] Ibid., au paragraphe 27. Voir aussi la décision Sydney Mines Firemen's Club c. La Reine, 2011 CCI 403, au paragraphe 17.
+[66] Myrdan Investments, précité à la note 64, au paragraphe 26.
+[67] Sydney Mines, précité à la note 65, au paragraphe 18. Voir aussi les arrêts Doiron c. Haché, 2005 NBCA 75, au paragraphe 57, et Province du Nouveau‑Brunswick c. Stephen Moffett Ltd., 2008 NBCA 9, au paragraphe 10.
+[68] Sydney Mines, précité à la note 65, au paragraphe 17.
+[69] Ibid., au paragraphe 21.
+[70] Myrdan Investments, précité à la note 64, au paragraphe 27, et Sydney Mines, précité à la note 65, au paragraphe 22.
+[71] Cette conclusion ne signifie pas que les avocats ne devraient pas donner tout le soin voulu à la préparation de la liste de documents ou du recueil de documents. Je ne fais que reconnaître que des erreurs anodines sont possibles et que si la réparation demandée peut être accordée d'une manière juste et équitable à l'égard de l'autre partie lorsque les circonstances s'y prêtent, on peut accéder à la demande.
+[72] L'avocate de la Couronne a intégré à ses observations écrites un tableau bien structuré, détaillé et exhaustif des résultats d'un examen analogue. La Couronne semble être d'avis qu'il faut suivre à la fois les sous‑alinéas 3b)(iii) et (iv) du Règlement. Je n'interprète pas ces deux dispositions de la même manière. À mon avis, si le prix payé pour une fourniture ne comprend pas la TPS ou la TVH, le sous‑alinéa 3b)(iii) exige que le montant de la TPS ou de la TVH soit indiqué. Cependant, si la TPS ou la TVH est comprise, le sous‑alinéa 3b)(iv) exige qu'on indique que la taxe est comprise et qu'on en indique le taux. Dans les présents appels, les frais indiqués sur les factures ne comprenaient pas la TVH.
+[73] Westborough Place, précité à la note 49, au paragraphe 32. Voir aussi le paragraphe 53 ci‑dessus.
+[74] Bien qu'il ne s'agisse pas d'un point déterminant, les liens entre la société 137 d'une part et Mark Foley, Deborah Foley et Lanmark d'autre part me portent à croire que pendant toutes les périodes pertinentes, la société 137 connaissait les numéros d'inscription à la TPS de Mark, de Deborah et de Lanmark et que l'un de ses administrateurs ou dirigeants les avait en main.
+[75] G.H.L. Fridman, The Law of Contract in Canada, 5e éd., Toronto, Thomson Carswell, 2006, p. 533 et 541. Voir aussi G.H.L. Fridman, Sale of Goods in Canada, 5e éd., Toronto, Thomson Carswell, 2004, p. 238 et 239. Bien que cet ouvrage traite de la vente de biens, les passages sur les délais et les modalités de paiement énoncent à mon avis des principes généraux qui pourraient s'appliquer à un contrat relatif à la fourniture de services.
+[76] Systematix Technology Consultants Inc. c. La Reine, 2007 CAF 226, aux paragraphes 4 à 6. Voir aussi la décision Services d'entretien L.C. Inc. c. La Reine, 2013 CCI 46, au paragraphe 12, et Comtronic Computer Inc. c. La Reine, 2010 CCI 55, aux paragraphes 24 à 33.
+[77] Oak Ridges Lumber Corp. c. La Reine, 2008 CCI 259, au paragraphe 11.
+[78] Helsi Construction Management, précité à la note 51, au paragraphe 11. Voir aussi la décision Oak Ridges Lumber, ibid., au paragraphe 11.
+[79] Si je comprends bien, le ministre n'a pas refusé d'accorder des CTI pour la période trimestrielle terminée le 31 mars 2014, et la société 137 ne demande aucun redressement pour cette période.

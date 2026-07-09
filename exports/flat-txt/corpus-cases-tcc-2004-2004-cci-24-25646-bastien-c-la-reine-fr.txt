@@ -1,0 +1,121 @@
+Title: Bastien c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25646/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-24-25646-bastien-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-01-16
+
+# Bastien c. La Reine
+
+- Citation: 2004 CCI 24
+- Decision date: 2004-01-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3822, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bastien c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-01-16
+Référence neutre
+2004 CCI 24
+Numéro de dossier
+2002-2801(IT)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2004CCI24
+Date : 20040116
+Dossier : 2002-2801(IT)I
+ENTRE :
+JEAN-MARIE BASTIEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Motifs prononcés oralement le 2 décembre 2003 à Montréal (Québec)
+et révisés à Ottawa (Ontario) le 16 janvier 2004)
+Le juge Dussault
+[1] Je pense que j'ai suivi au fur et à mesure tout ce qui a pu être présenté de part et d'autre comme preuve tant testimoniale que documentaire et je ne pense pas qu'une décision dans ce dossier exige une très longue réflexion sur les principes applicables.
+[2] Alors, je crois que je suis en mesure de rendre ma décision maintenant et je veux d'abord faire quelques remarques concernant les observations présentées par monsieur Bastien sur la responsabilité des autorités fiscales.
+[3] D'abord, je dirai que la juridiction de la Cour en matière d'impôt sur le revenu est essentiellement, sauf quelques procédures accessoires, de vérifier la validité des cotisations. Si des contribuables ont des récriminations à faire à l'endroit des autorités fiscales, dans la mesure où les agissements de ces autorités n'ont pas d'impact comme tel sur la cotisation, cela n'est pas la responsabilité de la Cour. Alors, j'ai essentiellement, moi, à décider de la validité des cotisations pour 1990, 1991 et 1992. Je vais y revenir dans un instant.
+[4] Donc, ceci étant dit et cela, je pense que c'est extrêmement important, Maître Leduc a fait état des délais dont monsieur Bastien a affirmé avoir été victime, des délais des autorités fiscales pour confirmer les cotisations. Je pense que la Loi de l'impôt sur le revenu ( « Loi » ) est très claire lorsqu'un contribuable s'est opposé à une cotisation, il a le droit absolu d'en appeler de cette cotisation si le ministre du Revenu national ( « Ministre » ) ne répond pas dans les 90 jours. Il lui est loisible de le faire dès le lendemain de l'expiration du délai ou il peut décider d'attendre six mois, un an, un an et demi, deux ans. La décision n'appartient qu'au seul contribuable.
+[5] J'en arrive à vos observations, Monsieur Bastien, sur les recommandations ou les conclusions du Protecteur du citoyen. D'abord, le Protecteur du citoyen a examiné la situation en fonction de ce que les autorités fiscales du Québec ont fait et les dispositions législatives auxquelles il fait référence, dont l'article 94, sont en vertu de la Loi sur le ministère du Revenu (du Québec) et non en vertu de la Loi de l'impôt sur le revenu (fédérale).
+[6] De mémoire, je crois que l'article 94 a son pendant à l'article 220(3.1) de la Loi (la loi fédérale, on s'entend) où le Ministre a discrétion pour annuler ou réduire les intérêts ou les pénalités.
+[7] D'abord, il faut faire une demande en référence à ce qu'on appelle le dossier équité. Il faut faire une demande au Ministre et je pense que dès le départ hier matin, j'avais fait part de ce point. Donc, dans la mesure où on fait une demande au Ministre en vertu du paragraphe 220(3.1) de la Loi, c'est-à-dire de réduire, par exemple, les intérêts puisqu'on a pris un temps considérable à émettre les confirmations des cotisations, vu le grand nombre de dossiers à traiter et la complexité de ces dossiers, et que l'on n'est pas satisfait du résultat, il est possible de faire réviser cette décision par la Cour fédérale.
+[8] Alors, malgré le fait que la Cour canadienne de l'impôt ait acquis un statut de Cour supérieure le 2 juillet 2003, sa juridiction à cet égard-là n'a pas été modifiée. Elle le sera peut-être dans le futur, qui sait, mais pour le moment, la révision d'une décision du Ministre dans la mesure où il y a exercice d'une discrétion est révisable par la Cour fédérale et non par la Cour canadienne de l'impôt.
+[9] J'en arrive maintenant aux cotisations. Alors, il s'agit de cotisations pour les années 1990, 1991 et 1992. Pour 1990, l'appelant a fait un investissement de 14 000 $ dans la société de recherches Système Expert enregistrée (Système Expert). L'appelant a réclamé dans sa déclaration de revenu pour cette année 1990, un montant de 11 760 $ à titre de perte d'entreprise et un montant de 2 352 $ à titre de crédit d'impôt à l'investissement. Par une nouvelle cotisation du 28 avril 1994 pour l'année 1990, on refusait la perte de 11 760 $ réclamée, on refusait le crédit d'impôt à l'investissement réclamé et on accordait une perte de 14 000 $, soit un montant égal à l'investissement puisqu'on considérait l'appelant associé d'une société, mais un associé qui était non engagé de façon active.
+[10] En date du 29 août 1994, par une nouvelle cotisation pour 1991, il y a eu refus par cette nouvelle cotisation d'une perte en capital de 1 960 $ qui avait été réclamée et on a ajouté 6 300 $ de gain en capital pour l'année, suite à la disposition des parts dans Système Expert.
+[11] La cotisation a été établie sur la base que l'appelant est un associé déterminé, qu'il ne prenait pas de façon régulière, continue et importante tout au long de la partie de l'exercice ou de l'année de la société, une part active dans les activités de la société, sauf dans celles qui ont trait au financement. Il faut voir à cet égard le paragraphe 248(1) de la définition de « associé déterminé » à l'alinéa b).
+[12] Les nouveaux motifs pour refuser à l'appelant, notamment, le crédit à l'investissement puisqu'une perte de 14 000 $ a quand même été accordée, c'est qu'il n'y avait pas de véritable société, car il n'y avait pas intention d'agir en commun pour le bénéfice de l'ensemble des membres de la société et qu'il n'y avait pas poursuite d'un profit commercial, mais simplement recherche d'une réduction d'impôt.
+[13] Motif additionnel. Il n'y avait pas de véritable entreprise, la société n'avait aucune activité, donc pas d'entreprise.
+[14] Pour 1991, l'appelant a fait un investissement de 14 000 $ dans la société de recherches Systèmes Interactifs enregistrée (Systèmes Interactifs) et a réclamé une perte d'entreprise de 12 768 $ et un crédit d'impôt à l'investissement de 2 553 $. Par nouvelle cotisation, dont l'avis est en date du 7 avril 1995 pour l'année d'imposition 1991, on a refusé cette perte de 12 768 $ réclamée, on a refusé le crédit d'impôt à l'investissement de 2 553 $ et on a accordé à l'appelant une perte de société de 14 000 $ à titre d'associé non engagé de façon active.
+[15] Pour 1992, on a ajouté un gain de capital de 6 860 $ suite à la disposition de ses parts dans la société par l'appelant.
+[16] Le motif initial est identique que pour Système Expert et les nouveaux motifs invoqués sont identiques à ceux invoqués pour Système Expert.
+[17] Il y a entente entre les parties sur le traitement fiscal de Systèmes Interactifs en ce sens que les parties s'entendent pour que le traitement fiscal applicable à l'égard de l'investissement dans Systèmes Interactifs soit aussi applicable pour l'investissement dans Système Expert. La preuve a donc été restreinte en conséquence et seules les caractéristiques de l'investissement dans Systèmes Interactifs ont été examinées.
+[18] Pour 1992, à l'égard de la société Alcapoly II, l'appelant a fait un investissement de 20 000 $ et a réclamé une perte de 20 000 $. Par nouvelle cotisation dont l'avis est en date du 28 février 1996, la perte a été refusée.
+[19] Ici est invoqué un stratagème d'achat et de rachat d'actions de société où l'investisseur récupère 68 p. 100 de son investissement initial par un mécanisme parallèle d'achat et de rachat d'actions. Il est invoqué que l'appelant ne verse finalement que 32 p. 100 de la perte réclamée. Il est invoqué ici qu'aucune recherche n'a été effectuée, qu'il n'y a pas de véritable société puisqu'il n'y a pas d'intention, comme dans les deux autres cas, qu'il n'y a pas de recherche de profit non plus et qu'il n'y a pas de véritable entreprise, car il ne s'agit que de la recherche d'une réduction d'impôt ou de l'obtention d'un avantage fiscal. De plus, dans ce cas-ci, on n'a pas obtenu des autorités un numéro d'abri fiscal.
+[20] L'intimée a présenté par de nombreux témoins et par une preuve documentaire imposante tous les tenants et aboutissants des investissements dans les sociétés mentionnées.
+[21] La preuve documentaire est assez impressionnante et on peut voir, notamment, le cheminement des fonds et leurs utilisations.
+[22] En ce qui concerne Systèmes Interactifs, la conclusion est que, effectivement, selon les critères énoncés et analysés par le juge Garon dans l'affaire McKeown c. Canada, [2001] A.C.I. no 236 (Q.L.), il n'y a effectivement pas de véritable société. Il y a beaucoup de paperasse, mais on ne retrouve pas les éléments essentiels pour la formation d'une véritable société, c'est-à-dire l'intention d'abord et deuxièmement, la recherche de ce qu'on pourrait appeler un profit commercial et non la recherche d'une réduction d'impôt.
+[23] On constate aussi que Systèmes Interactifs n'a, comme tel, aucune activité sauf celle de recruter des investisseurs et amasser de l'argent puisqu'un mandat de recherche a été confié à la compagnie Intersuivi presque immédiatement après la formation de Systèmes Interactifs.
+[24] Ceci étant, cela me dispense de traiter évidemment des autres aspects. Dans un tel cas, l'appelant n'aurait pas dû avoir droit à quelque déduction que ce soit. C'est ma conclusion. Cependant, comme la Cour n'a pas le pouvoir d'augmenter les cotisations, ce qui a déjà été accordé à l'appelant, lui reste évidemment.
+[25] Si on voulait pousser plus loin et reconnaître qu'il y a une société et que cette société a une activité, il faudrait, comme maître Dupuis l'a signalé, s'engager dans une analyse pour déterminer si l'appelant a été un associé dit actif, c'est-à-dire selon les termes de la définition d'un « associé déterminé » au paragraphe 248(1) à l'alinéa b) de la définition de la Loi. Il s'agirait de déterminer s'il a participé de façon régulière, continue et importante aux activités de la société. S'il fallait que l'on procède à l'analyse jusque là, je crois que la réponse serait négative. Ceci, contrairement à l'opinion donnée par le bureau de comptables qui n'énonce que très peu de faits. En effet, dans l'opinion donnée par le bureau Arel Drouin et associés, si on lit le dernier paragraphe de la page 1, on s'aperçoit que le langage utilisé est extrêmement vague et n'apporte aucune précision véritable sur la nature des activités. Je cite :
+Dès leur adhésion à la société, chacun des associés a participé non seulement aux activités de la société mais également à certaines activités de définition et de validation des caractéristiques du logiciel et de l'interface usager.
+[26] C'est une affirmation qui est tellement générale, tellement vague. Je poursuis la lecture :
+Ces activités ont été sollicitées par les fournisseurs des sociétés afin de leur permettre de parfaire leurs travaux de recherche scientifique et du développement expérimental. Afin de bien comprendre les activités effectuées par les associés en relation avec celles des sociétés, nous avons préparé un tableau schématique que vous trouverez en annexe. Compte tenu des informations mentionnées à la page précédente, nous croyons que les associés ne peuvent être considérés comme associés déterminés au sens de l'article 1 de la Loi sur les impôts pour les raisons suivantes.
+Et là, on nous parle de l'article 1 de la Loi sur les impôts, on dit :
+a) les associés ne sont pas membres d'une société à responsabilité limitée de la société au sens de l'article 613.6. Les associés ne peuvent pas être considérés comme des membres d'une société qui ne prennent pas une part active dans les activités de la société autres que celles concernant le financement.
+[27] Parler d'associés qui ne prennent pas une part active dans une opinion, ce n'est pas tout à fait assez rigoureux puisque la Loi nous parle d'une participation qui est; je vais donc prendre le texte au paragraphe 248(1) de la Loi, sous l'alinéa b), à la définition de « Associé déterminé » , on y lit :
+« Associé déterminé » s'entend, dans un exercice financier ou une année d'imposition, selon le cas, d'une société, de tout associé qui :
+a) [...]
+b) soit, de façon régulière, continue et importante tout au long de la partie de l'exercice ou de l'année où la société exploite habituellement son entreprise :
+(i) ne prend pas une part active dans les activités de la société de personnes, sauf dans celles qui ont trait au financement de l'entreprise de la société, ou
+(ii) n'exploite pas une entreprise semblable à celle que la société exploitait au cours de l'exercice ou de l'année, sauf à titre d'associé d'une société;
+[28] Alors, quand on dit simplement dans une opinion « une part active dans les activités de la société » , on a oublié trois mots importants, ce sont « régulière, continue et importante » . Je ne pense pas que trois réunions dont deux se rapportent plutôt au financement et le fait de répondre à deux questionnaires qui ont d'ailleurs été soumis en preuve, même si on veut y répondre de façon sérieuse en plus de quelques communications téléphoniques sont des éléments suffisants pour remplir les conditions qui sont énoncées dans la définition de « associé déterminé » . Toutefois, je pense que l'on n'a pas besoin d'aller jusque là, comme je l'ai dit tout à l'heure.
+[29] Les arguments qu'a fait valoir maître Leduc, compte tenu de la preuve qui a été présentée, sont les arguments les plus importants et je suis entièrement d'accord avec lui.
+[30] En ce qui concerne le traitement qui a été accordé par le Ministre, je crois, comme l'a souligné maître Leduc, qu'il a été généreux dans les circonstances. En réalité, j'estime qu'effectivement, si c'était à refaire aujourd'hui, monsieur Bastien n'aurait droit à aucune perte.
+[31] En ce qui concerne la société Alcapoly II en 1992, il ne s'agit pas ici tout à fait du même système. L'investissement est ici différent en ce que parallèlement à cet investissement, il y a un système, si je peux l'appeler ainsi, ou une mécanique, comme l'avait appelée, monsieur Bastien, d'achat et de rachat d'actions, mécanique où tout est exécuté dans un très court laps de temps, en dedans d'un mois en réalité et où l'investissement, les achats d'actions et les rachats sont tous faits en deux temps. Le tout est complété à l'intérieur d'un mois de telle sorte que les investisseurs et monsieur Bastien en particulier n'ont en réalité dû débourser que 32 p. 100 de l'investissement initial ou du montant initial lequel est équivalent au montant de la perte réclamée.
+[32] Ici encore, il n'y a aucune preuve qui ait pu être apportée qu'il s'agissait d'une véritable société de personnes en ce sens qu'on avait l'intention d'agir en société pour le bien commun des membres de celle-ci et dans la recherche d'un profit commercial. Deuxièmement, il n'y a aucune preuve de quelque nature que ce soit que cette société ait eu quelque activité que ce soit. Elle n'a même pas reçu les chèques. Ceux-ci ont été faits par les investisseurs aux sociétés de gestion de recherche.
+[33] La preuve a démontré le cheminement des fonds et force est de constater qu'il n'y a pas de fonds non plus qui sont investis pour la recherche scientifique. Ce sont les vendeurs et plusieurs sociétés qui ramassent l'argent qui reste, c'est-à-dire le 32 p. 100, pour toutes sortes de fins. Finalement, il n'y a véritablement rien qu'on ait pu démontrer qui allait à la recherche scientifique.
+[34] Le point final de tout ça, c'est l'absence de numéro d'abri fiscal. Il est évident que le système ou la mécanique dans Alcapoly II, tel que présenté aux investisseurs et tel qu'exécuté dans un si court laps de temps, ne peut laisser de doute sur le fait qu'il s'agisse d'un abri fiscal où l'investisseur, compte tenu des annonces ou déclarations faites, peut s'attendre à ce que sa perte soit d'un montant très supérieur à son coût diminué de l'avantage qui résulte du système ou de la mécanique d'achat et de rachat d'actions.
+[35] Comme il n'y a pas de numéro d'abri fiscal qui a été accordé ou qui a même été demandé dans les circonstances, l'article 237.1 de la Loi, au sixième paragraphe nous donne la réponse dans un cas semblable. Il n'y a aucune possibilité de réclamer une déduction quelconque. Le paragraphe 237.1(6) de la Loi, se lit :
+Une personne ne peut demander ou déduire un montant au titre d'un abri fiscal que si elle présente au ministre un formulaire prescrit contenant les renseignements prescrits, incluant le numéro d'inscription attribué à l'abri fiscal.
+[36] Ainsi, j'estime que pour ces raisons les appels des cotisations pour les trois années doivent être rejetés.
+Signé à Ottawa (Canada) ce 16e jour de janvier 2004.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE :
+2004CCI24
+No DU DOSSIER DE LA COUR :
+2002-2801(IT)I
+INTITULÉ DE LA CAUSE :
+Jean-Marie Bastien c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATES DE L'AUDIENCE :
+les 1 et 2 décembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Pierre R. Dussault
+DATE DU JUGEMENT :
+DATE DES MOTIFS :
+le 2 décembre 2003
+le 16 janvier 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocats de l'intimée :
+Me Dany Leduc et Me Philippe Dupuis
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

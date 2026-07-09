@@ -1,0 +1,294 @@
+Title: Mony v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520983/index.do
+Corpus path: corpus/cases/tcc/2022/2022-tcc-120-520983-mony-v-the-king-en.md
+Document type: case_law
+Last modified: 2022-10-27
+
+# Mony v. The King
+
+- Citation: 2022 TCC 120
+- Decision date: 2022-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4505, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mony v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-10-27
+Neutral citation
+2022 TCC 120
+File numbers
+2019-2585(IT)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-2585(IT)G
+BETWEEN:
+CHARLES MONY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 25 and 26, 2022 at Québec, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Counsel for the Appellant:
+Bernard Gaudreau
+Émile Bresse
+Counsel for the respondent:
+Michel Lamarre
+JUDGMENT
+The appeal against the reassessment made by the Minister of National Revenue under the Income Tax Act, dated October 13, 2017, with respect to the appellant’s 2009 taxation year is dismissed with costs in accordance with the attached reasons for judgment.
+Signed at Québec, Quebec, this 27th day of October 2022.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 5tht day of June 2024.
+François Brunet, Revisor
+Citation: 2022 TCC 120
+Date: 20221027
+Docket: 2019-2585(IT)G
+BETWEEN:
+CHARLES MONY,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+(1) Charles Mony (the appellant) is appealing against a reassessment made by the Minister of National Revenue (the Minister) on October 13, 2017, which added a $225,187 taxable capital gain to his income for the 2009 taxation year.
+(2) This amount arose from a capital gain realized by his spouse, Isabella Vitté, on the disposition of Creaform Inc. (Creaform) capital stock shares, which the Minister attributed to the appellant pursuant to the General Anti Avoidance Rule (the GAAR) set out in section 245 of the Income Tax Act, R.S.C., 1985, c. 1 (5th Supp.) (the ITA).
+(3) The appellant waived the normal reassessment period under subsection 152(4) of the ITA.
+FACTS
+(4) Creaform is a Canadian-controlled private corporation incorporated in 2002 in which the appellant was a shareholder. The corporation operated a business selling digital 3D measurement technology.
+(5) Ms. Vitté has been involved in Creaform’s business since it was incorporated. Other than participating in a stock option plan, she was not compensated for her contribution until June 25, 2009.
+(6) The appellant and Ms. Vitté provided personal assets as security for the loans contracted by Creaform.
+(7) On March 23, 2009, investors offered to buy the appellant’s shares of Creaform capital stock. This offer was accepted.
+(8) On June 25, 2009, the appellant made a gift to Ms. Vitté of 114,907 class B shares of Creaform . The fair market value (FMV) of these shares was $985,728, and their adjusted cost base (ACB) was $1,242.
+(9) On the same day, the appellant sold the same number of shares with the same FMV and ACB to Ms. Vitté in exchange for a note for $985,728 bearing interest at the prescribed rate.
+(10) The appellant filed an election under subsection 73(1) of the ITA to have exempted the sale of the shares to his spouse from the application of this provision. Consequently, the appellant realized a taxable capital gain of $984,486.
+(11) Again on the same day, Ms. Vitté sold the 229,814 shares received from the appellant to third-party investors for $1,971,455. Half of the capital gain realized by this transaction, $450,373, was attributed to the appellant pursuant to subsection 74.2(1) of the ITA.
+(12) On or about June 25, 2009, Ms. Vitté paid the note that the appellant received for the sale of shares to Ms. Vitté.
+(13) The appellant and Ms. Vitté each claimed the capital gains deduction under subsection 110.6(2.1) of the ITA.
+(14) By reassessing the appellant on October 13, 2017, the Minister sought to attribute the entire capital gain realized by Ms. Vitté to the appellant under the GAAR.
+(15) The appellant also sold shares to investors without their being traded by Ms. Vitté. He remained a Creaform shareholder after June 25, 2009.
+POSITIONS OF THE PARTIES
+Position of the appellant
+(16) The appellant conceded that the series of transactions carried out on June 25, 2009, provided him with a tax benefit under subsection 245(1) of the ITA.
+(17) However, he alleged that the series of transactions did not include any avoidance transactions pursuant to subsection 245(3) of the ITA.
+(18) The appellant alleged that the sole purpose of the transactions was to acknowledge Ms. Vitté’s contribution to Creaform by allowing her to benefit from sales to investors. Instructions were given to the investors’ advisors who arranged the series of transactions. Since no tax benefits were sought, all transactions were carried out primarily for bona fide purposes.
+(19) The appellant also argued that the series of transactions did not result in an abuse of the provisions of the ITA under subsection 245(4). Since the series of transactions was carried out primarily for bona fide purposes, it cannot be an abuse. This distinguishes the case at bar from Gervais v. Canada, 2018 FCA 3 (Gervais).
+Position of the respondent
+(20) The respondent relied primarily on the Federal Court of Appeal’s decision in Gervais to demonstrate that there was an abuse of the provisions of the ITA under subsection 245(4). The facts in Gervais were essentially the same as the ones in this case.
+(21) The respondent argued that the sale of the shares to Ms. Vitté could only have been undertaken to obtain a tax benefit. It is therefore an avoidance transaction within the meaning of subsection 245(3) of the ITA. This is also the conclusion that the Federal Court of Appeal reached in Gervais.
+ISSUES
+(22) The issues are:
+1. Is there an avoidance transaction in the series of transactions that led to a tax benefit?
+Does the series of transactions result in an abuse of the application of the provisions of the ITA?
+ANALYSIS
+The law
+(23) For the purposes of this case, the relevant provisions of the ITA are subsections 47(1), 73(1), 74.1(1), 74.2(1), 74.5(1), 110.6(1) for the definition of “qualified small business corporation share”, 110.6(2.1) for the capital gains deduction for qualified small business corporation shares and subsections 245(1) to (5). For reference purposes, these provisions are reproduced at the end of the judgment.
+(24) Three requirements govern the application of the GAAR. The test developed by the Supreme Court in Canada Trustco Mortgage Co. v. Canada, 2005 SCC 54 (Trustco), at paragraph 66(1) must be satisfied:
+(1) A tax benefit resulting from a transaction or part of a series of transactions (s. 245(1) and (2));
+(2) that the transaction is an avoidance transaction in the sense that it cannot be said to have been reasonably undertaken or arranged primarily for a bona fide purpose other than to obtain a tax benefit; and
+(3) that there was abusive tax avoidance in the sense that it cannot be reasonably concluded that a tax benefit would be consistent with the object, spirit or purpose of the provisions relied upon by the taxpayer.
+Tax Benefit
+(25) Although the appellant conceded that there was a tax benefit, it is useful to identify the benefit for the remainder of the analysis. The existence of the tax benefit must often be established by comparing different arrangements.
+(26) In this case, on June 25, 2009, the appellant first gifted Ms. Vitté 114,907 shares with an FMV of $985,728 and an ACB of $1,242. Unless otherwise elected, under subsections 73(1) and (1.01) of the ITA, the transfer of shares to a spouse is deemed to have been made for proceeds of disposition (PD) equal to the ACB of the shares, and said shares are deemed to have been acquired for an amount equal to these proceeds. There are therefore no tax consequences for the appellant pursuant to this transaction.
+(27) The appellant then sold Ms. Vitté 114,907 shares, the sale of which would trigger the same tax consequences, for an amount equal to their FMV. Since the appellant filed an election to prevent the application of subsection 73(1) of the ITA, the PD were $985,728, and the ACB of these shares for Ms. Vitté was an amount equal to these proceeds. The appellant realized a capital gain of $984,486, computed as follows:
+PD – ACB = Capital gain
+$985,728 – $1,242 = $984,486
+(28) Prior to the application of subsection 47(1) of the ITA, the tax consequences of the disposal of Ms. Vitté’s shares were as follows:
+Blank/Vide
+114,907 shares received as a gift
+114,907 shares purchased
+ACB
+$1,242
+$985,728
+FMV
+$985,728
+$985,728
+(29) Since the shares received by Ms. Vitté are identical property, subsection 47(1) of the ITA deems that the shares all have the same ACB, regardless of how they were transferred, in accordance with the mid-point rule. The tax consequences of the disposal of Ms. Vitté’s shares therefore became:
+Blank/Vide
+114,907 shares received as a gift
+114,907 shares purchased
+ACB
+$493,485
+$493,485
+FMV
+$985,728
+$985,728
+(30) Under subsection 74.2(1) of the ITA, when an individual transfers shares to his spouse and the spouse disposes of them, the capital gain realized by the spouse on the disposition of these shares is deemed to have been realized by the individual who is the transferor. Pursuant to subsection 74.5(1) of the ITA, these attribution rules do not apply if the individual receives consideration equal to the FMV in exchange for the shares.
+(31) Thus, only the capital gain that Ms. Vitté realized on the disposition of the shares gifted to her must be attributed to the appellant pursuant to subsection 74.2(1) of the ITA, while the capital gain from the shares that she purchased remains taxable in his hands.
+(32) When Ms. Vitté sold all her shares to the third-party investors ($1,971,455 in PD and $83,740 in expenses), a capital gain of $450,373 was attributed to the appellant. The balance of the $450,373 capital gain remained taxable in Ms. Vitté’s hands.
+(33) If the mid-point rule in subsection 47(1) of the ITA had not applied, the entire $900,745 capital gain would have been attributed to the appellant because the capital gain would only have been realized upon the sale of the shares gifted to Ms. Vitté. Indeed, the disposition of the shares purchased by Ms. Vitté would not have generated a capital gain because their ACB would have been equal to or greater than the PD.
+(34) The two-step (gift and sale) transfer to Ms. Vitté, filing an election under subsection 73(1) of the ITA, and using the mid-point rule of subsection 47(1) of the ITA resulted in a $225,187 ($450,373 / 2) decrease in what would otherwise have been the appellant’s income.
+Avoidance transaction
+(35) In this case, the tax benefit does not arise from a single transaction, but from a series of transactions. The Court must therefore examine each transaction in the series to determine whether the series contains an avoidance transaction. A transaction is deemed to be an avoidance transaction when it is carried out primarily for tax purposes.
+(36) The appellant argued that the entire series of transactions was carried out solely for commercial reasons (sale of shares to third-party investors) and to acknowledge Ms. Vitté’s contribution to Creaform. However, the Court should not assess the series of transactions as a whole, but each transaction in the series. The second requirement of the GAAR test is satisfied when one of the transactions in the series is an avoidance transaction.
+(37) It is therefore necessary first to identify the transactions in the series and then determine whether each transaction was undertaken primarily for bona fide purposes.
+(38) There is no doubt that the transactions carried out on June 25, 2009, are part of a series of transactions within the meaning of subsections 245(2) and (3) of the ITA that led to the tax benefit. Indeed, as the memorandum prepared by the appellant’s advisors demonstrated, these transactions were arranged in advance to produce the given result, and there was no practical probability that these transactions would not be executed as expected.
+(39) It is nevertheless necessary to clearly identify these transactions. The definition of the word “transaction” in subsection 245(1) of the ITA is particularly broad because a “transaction includes an arrangement or event.” Despite this broad definition, each transaction must be considered as a whole; a transaction cannot be split in order to isolate its commercial and tax purposes.
+(40) In this case, the series of transactions included the following transactions carried out on June 25, 2009:
+-the appellant’s gift of 114,907 shares to Ms. Vitté;
+-the appellant’s sale of 114,907 shares to Ms. Vitté and election to circumvent the application of subsection 73(1) of the ITA;
+-Ms. Vitté’s sale of 229,814 shares to third-party investors.
+(41) The next step is to determine whether at least one of these transactions is an avoidance transaction. According to subsection 245(3) of the ITA, an avoidance transaction means any transaction “unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit”, that is to say for non-tax purposes.
+(42) It seems clear that Ms. Vitté’s sale of shares to third parties is not an avoidance transaction. The main purpose of this transaction was to make a profit from the sale of shares and to integrate new partners into Creaform.
+(43) Regarding the gift, the evidence showed that Ms. Vitté was actively involved in Creaform’s business and that her compensation was minimal prior to June 25, 2009. The idea that the appellant wanted to compensate Ms. Vitté through the transaction with third parties is reasonable. The fact that she was not compensated earlier does not affect this reasoning. The purchase of shares by third parties did, in fact, produce an opportunity for Ms. Vitté to benefit monetarily, which did not seem possible before.
+(44) It is true that the appellant could have sold these shares directly to third parties and then transferred the money to Ms. Vitté. Instead, the appellant chose to gift her the shares, probably for tax reasons. However, as the Supreme Court of Canada explained in Trustco, the GAAR avoidance transaction test makes it possible to respect the Westminster principle propounded in Duke of Westminster; Parliament wanted to avoid obliging taxpayers to always choose the transaction leading to the highest tax burden. The Westminster principle is recognized as the “foundation stone of Canadian law on tax avoidance.”
+(45) Subsection 245(3) of the ITA “does not permit a transaction to be considered to be an avoidance transaction because some alternative transaction that might have achieved an equivalent result would have resulted in higher taxes” (see Trustco, at paragraph 30).
+(46) Even though the choice to make a gift of the shares instead of proceeding otherwise was likely based on tax considerations, it is reasonable to assume that the main purpose of the gift was really to provide Ms. Vitté with a consideration for services rendered to Creaform.
+(47) Despite this, contradictions in the testimony provided by the appellant and Ms. Vitté may suggest that the main purpose of this transaction was in fact tax-related. Indeed, both witnesses considered that the appellant’s shares were held jointly by the couple. According to their testimony, they did not make any distinction between the assets of the appellant and those of Ms. Vitté because they were married under the French legal regime of community of property. If the witnesses really considered that the couple’s assets were held jointly rather than individually, why was it necessary to acknowledge Ms. Vitté’s contribution within Creaform with a monetary gift?
+(48) Therefore, it is not clear whether this transaction was an avoidance transaction.
+(49) On the other hand, it is not essential to make such a determination because the sale of shares by the appellant to Ms. Vitté is clearly an avoidance transaction. This transaction could only have been made for tax purposes.
+(50) According to the appellant and Ms. Vitté, they were simply following their tax advisors’ instructions. They said the purpose of the transaction was always to recognize Ms. Vitté’s contribution by having her participate in the profit from the sale of shares.
+(51) However, it is unlikely that the appellant really believed that this transaction was not made for tax purposes. After all, he did complete the transactions, as suggested, in a memorandum prepared by tax advisors that he personally retained. The fact that he did not really understand the mechanisms underlying this transaction is of no consequence.
+(52) Even if he sincerely believed that this transaction was not carried out for tax purposes, “[t]he taxpayer cannot avoid the application of the GAAR by merely stating that the transaction was undertaken or arranged primarily for a non-tax purpose” (see Trustco, at paragraph 29). The words “unless the transaction may reasonably be considered” in subsection 245(3) of the ITA demonstrate that this test is not only subjective but also partly objective.
+(53) In this instance, the sale of shares by the appellant to his spouse was definitely a tax-motivated transaction. Ms. Vitté acted only as an intermediary and did not obtain any benefit from this transaction. Indeed, the proceeds from the sale of the shares that she had purchased were remitted in full to repay the note she issued to the appellant in consideration for the shares. The appellant received the same amount from selling these shares to Ms. Vitté as he would have from selling them directly to third parties. The benefit he obtained from this transaction arose from the application of the mid-point rule pursuant to subsection 47(1) of the ITA, maintenance of the $985,728 ACB of the shares gifted to Ms. Vitté pursuant to the election under subsection 73(1) of the ITA, and the allocation to the appellant of half of the capital gain realized by Ms. Vitté on the sale of these shares under subsection 74.2 of the ITA.
+(54) It is unreasonable to consider this a transaction with a primarily non-tax purpose. This is an avoidance transaction within the meaning of subsection 245(3) of the ITA, which is part of a series of transactions that produced a tax benefit.
+(55) The onus was on the appellant to demonstrate a non-tax purpose. In this case, he failed to demonstrate that this transaction was required to execute the transaction with the third-party investors or to acknowledge Ms. Vitté’s contribution.
+Abuse
+(56) The facts in this case are very similar to those in Gervais. In Gervais, virtually the same series of transactions was involved, i.e., a gift of shares by the taxpayer to his spouse where subsection 73(1) of the ITA applied, a sale of shares at FMV by the taxpayer to his spouse in respect of which the appellant elected not to have subsection 73(1) of the ITA apply, and the sale of these shares at FMV by the spouse to third parties. The tax consequences were also similar, i.e., a reduced attribution of the capital gain to the taxpayer through the application of the mid-point rule under subsection 47(1) of the ITA.
+(57) The Federal Court of Appeal held that such an outcome resulted in an abuse of subsections 73(1) and 74.2(1) of the ITA:
+“That result, although it flows from the text of the relevant provisions, is contrary to the object, spirit and purpose of subsections 73(1) and 74.2(1), the purpose of which is to ensure that a gain (or loss) deferred by reason of a rollover between spouses or common-law partners be attributed back to the transferor. Maintaining the transferor’s ACB as provided for in subsection 73(1) and then attributing the gain (or loss) to the transferor, under subsection 74.2(1), evidences this objective. In this case, the offer to purchase made by BW Technologies before the series of transactions was initiated demonstrates unequivocally that the gifted shares had an accrued gain of $1,000,000.00 when they were transferred to Ms. Gendron. Because the rollover provided for in subsection 73(1) deferred this accrued gain in its entirety, the whole of the gain realized on the sale to BW Technologies had to be attributed back to Mr. Gervais when regard is had to the object, spirit and purpose of subsection 74.2(1). It follows that the splitting of that gain, by reason of the astute use that was made of subsection 47(1), frustrates the rationale underlying these provisions or their reason for being (at paragraph 51).”
+(58) Overall, the differences between this case and Gervais are minor. In Gervais, there was a reorganization of the share capital at the beginning of the series of transactions and only the spouse claimed the deduction pursuant to subsection 110.6(2.1) of the ITA. The proportion of shares gifted versus shares sold was not the same, and the series of transactions was carried out over several days rather than just one. None of these differences distinguishes Gervais from the case at bar. In both cases, the series of transactions leads to the same abusive result, namely the splitting of the capital gain. The same reasoning must therefore apply in this instance.
+(59) According to the appellant, there is a difference between Gervais and this case because there can be no abuse if he was not aware of the tax consequences of the series of transactions and subjectively did not intend to realize a tax benefit. Unfortunately for the appellant, the issue of the purpose of the transactions concerns only the avoidance transaction test, which has already been discussed. When an avoidance transaction does in fact occur, the GAAR applies where such a transaction achieves an outcome that the statute seeks to prevent; defeats the underlying rationale of the provisions that are relied upon; or circumvents the application of certain provisions in a manner that frustrates or defeats the object, spirit or purpose of those provisions. The appellant’s state of mind is irrelevant at this stage of the analysis.
+(60) In accordance with Gervais, the avoidance transaction produced an outcome that resulted in the abuse of subsections 73(1) and 74.2(1) of the ITA, which triggered the application of GAAR.
+(61) For all these reasons, the appeal must be dismissed with costs.
+Signed at Québec, Quebec, this 27th day of October, 2022.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 5tht day of June 2024.
+François Brunet, Revisor
+CITATION:
+2022 TCC 120
+DOCKET:
+2019-2585(IT)G
+STYLE OF CAUSE:
+CHARLES MONY AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Quebec City, Quebec
+DATE OF HEARING:
+May 25 and 26, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Réal Favreau
+DATE OF JUDGMENT:
+October 27, 2022
+APPEARANCES:
+Counsel for the appellant:
+Bernard Gaudreau
+Émile Bresse
+Counsel for the respondent:
+Michel Lamarre
+COUNSEL OF RECORD:
+For :
+Name:
+Bernard Gaudreau Émile Bresse
+Law firm:
+Norton Rose Fulbright LLP
+For the respondent:
+François Daigle Deputy Attorney General of Canada Ottawa, Canada
+Appendix
+47(1) Identical properties
+Where at any particular time after 1971 a taxpayer who owns one property that was or two or more identical properties each of which was, as the case may be, acquired by the taxpayer after 1971, acquires one or more other properties (in this subsection referred to as “newly-acquired properties”) each of which is identical to each such previously-acquired property, for the purposes of computing, at any subsequent time, the adjusted cost base of the taxpayer of each such identical property,
+(a)the taxpayer shall be deemed to have disposed of each such previously-acquired property immediately before the particular time for proceeds equal to its adjusted cost base to the taxpayer immediately before the particular time;
+(b)the taxpayer shall be deemed to have acquired the identical property at the particular time at a cost equal to the quotient obtained when
+(i)the total of the adjusted cost bases to the taxpayer immediately before the particular time of the previously-acquired properties, and the cost to the taxpayer (determined without reference to this section) of the newly-acquired properties
+is divided by
+(ii)the number of the identical properties owned by the taxpayer immediately after the particular time;
+(c)there shall be deducted, after the particular time, in computing the adjusted cost base to the taxpayer of each such identical property, the amount determined by the formula
+A/B
+where
+A is the total of all amounts deducted under paragraph 53(2)(g.1) in computing immediately before the particular time the adjusted cost base to the taxpayer of the previously-acquired properties, and
+B is the number of such identical properties owned by the taxpayer immediately after the particular time or, where subsection 47(2) applies, the quotient determined under that subsection in respect of the acquisition; and
+(d) there shall be added, after the particular time, in computing the adjusted cost base to the taxpayer of each such identical property the amount determined under paragraph 47(1)(c) in respect of the identical property.
+73(1) Inter vivos transfers by individuals
+For the purposes of this Part, where at any time any particular capital property of an individual (other than a trust) has been transferred in circumstances to which subsection (1.01) applies and both the individual and the transferee are resident in Canada at that time, unless the individual elects in the individual’s return of income under this Part for the taxation year in which the property was transferred that the provisions of this subsection not apply, the particular property is deemed
+(a)to have been disposed of at that time by the individual for proceeds equal to,
+(i)where the particular property is depreciable property of a prescribed class, that proportion of the undepreciated capital cost to the individual immediately before that time of all property of that class that the fair market value immediately before that time of the particular property is of the fair market value immediately before that time of all of that property of that class, and
+(ii)in any other case, the adjusted cost base to the individual of the particular property immediately before that time; and
+(b)to have been acquired at that time by the transferee for an amount equal to those proceeds.
+74.1(1) Transfers and loans to spouse or common-law partner
+If an individual has transferred or lent property (otherwise than by an assignment of any portion of a retirement pension under section 65.1 of the Canada Pension Plan or a comparable provision of a provincial pension plan as defined in section 3 of that Act), either directly or indirectly, by means of a trust or by any other means whatever, to or for the benefit of a person who is the individual’s spouse or common-law partner or who has since become the individual’s spouse or common-law partner, any income or loss, as the case may be, of that person for a taxation year from the property or from property substituted therefor, that relates to the period in the year throughout which the individual is resident in Canada and that person is the individual’s spouse or common-law partner, is deemed to be income or a loss, as the case may be, of the individual for the year and not of that person.
+74.2(1) Gain or loss deemed that of lender or transferor
+Where an individual has lent or transferred property (in this section referred to as “lent or transferred property”), either directly or indirectly, by means of a trust or by any other means whatever, to or for the benefit of a person (in this subsection referred to as the “recipient”) who is the individual’s spouse or common-law partner or who has since become the individual’s spouse or common-law partner, the following rules apply for the purposes of computing the income of the individual and the recipient for a taxation year:
+(a)the amount, if any, by which
+(i)the total of the recipient’s taxable capital gains for the year from dispositions of property (other than listed personal property) that is lent or transferred property or property substituted therefor occurring in the period (in this subsection referred to as the “attribution period”) throughout which the individual is resident in Canada and the recipient is the individual’s spouse or common-law partner exceeds
+(ii)the total of the recipient’s allowable capital losses for the year from dispositions occurring in the attribution period of property (other than listed personal property) that is lent or transferred property or property substituted therefor shall be deemed to be a taxable capital gain of the individual for the year from the disposition of property other than listed personal property;
+(b)the amount, if any, by which the total determined under subparagraph 74.2(1)(a)(ii) exceeds the total determined under subparagraph 74.2(1)(a)(i) shall be deemed to be an allowable capital loss of the individual for the year from the disposition of property other than listed personal property;
+(c)the amount, if any, by which
+(i)the amount that the total of the recipient’s gains for the year from dispositions occurring in the attribution period of listed personal property that is lent or transferred property or property substituted therefor would be if the recipient had at no time owned listed personal property other than listed personal property that was lent or transferred property or property substituted therefor exceeds
+(ii)the amount that the total of the recipient’s losses for the year from dispositions of listed personal property that is lent or transferred property or property substituted therefor would be if the recipient had at no time owned listed personal property other than listed personal property that was lent or transferred property or property substituted therefor, shall be deemed to be a gain of the individual for the year from the disposition of listed personal property;
+(d)the amount, if any, by which the total determined under subparagraph 74.2(1)(c)(ii) exceeds the total determined under subparagraph 74.2(1)(c)(i) shall be deemed to be a loss of the individual for the year from the disposition of listed personal property; and
+(e)any taxable capital gain or allowable capital loss or any gain or loss taken into account in computing an amount described in paragraph 74.2(1)(a), 74.2(1)(b), 74.2(1)(c) or 74.2(1)(d) shall, except for the purposes of those paragraphs and to the extent that the amount so described is deemed by virtue of this subsection to be a taxable capital gain or an allowable capital loss or a gain or loss of the individual, be deemed not to be a taxable capital gain or an allowable capital loss or a gain or loss, as the case may be, of the recipient.
+74.5(1) Transfers for fair market consideration
+Notwithstanding any other provision of this Act, subsections 74.1(1) and (2) and section 74.2 do not apply to any income, gain or loss derived in a particular taxation year from transferred property or from property substituted therefor if
+(a) at the time of the transfer the fair market value of the transferred property did not exceed the fair market value of the property received by the transferor as consideration for the transferred property;
+(b) where the consideration received by the transferor included indebtedness,
+(i) interest was charged on the indebtedness at a rate equal to or greater than the lesser of
+(A) the prescribed rate that was in effect at the time the indebtedness was incurred, and
+(B) the rate that would, having regard to all the circumstances, have been agreed on, at the time the indebtedness was incurred, between parties dealing with each other at arm’s length,
+(ii) the amount of interest that was payable in respect of the particular year in respect of the indebtedness was paid not later than 30 days after the end of the particular year, and
+(iii)the amount of interest that was payable in respect of each taxation year preceding the particular year in respect of the indebtedness was paid not later than 30 days after the end of each such taxation year; and
+(c)where the property was transferred to or for the benefit of the transferor’s spouse or common-law partner, the transferor elected in the transferor’s return of income under this Part for the taxation year in which the property was transferred not to have the provisions of subsection 73(1) apply.
+Subsection 110.6(1) Capital gains deduction — qualified small business corporation shares
+qualified small business corporation share of an individual (other than a trust that is not a personal trust) at any time (in this definition referred to as the “determination time”) means a share of the capital stock of a corporation that,
+(a)at the determination time, is a share of the capital stock of a small business corporation owned by the individual, the individual’s spouse or common-law partner or a partnership related to the individual,
+(b)throughout the 24 months immediately preceding the determination time, was not owned by anyone other than the individual or a person or partnership related to the individual, and
+(c)throughout that part of the 24 months immediately preceding the determination time while it was owned by the individual or a person or partnership related to the individual, was a share of the capital stock of a Canadian-controlled private corporation more than 50% of the fair market value of the assets of which was attributable to
+(i)assets used principally in an active business carried on primarily in Canada by the corporation or by a corporation related to it,
+(ii)shares of the capital stock or indebtedness of one or more other corporations that were connected (within the meaning of subsection 186(4) on the assumption that each of the other corporations was a payer corporation within the meaning of that subsection) with the corporation where
+(A) throughout that part of the 24 months immediately preceding the determination time that ends at the time the corporation acquired such a share or indebtedness, the share or indebtedness was not owned by anyone other than the corporation, a person or partnership related to the corporation or a person or partnership related to such a person or partnership, and
+(B) throughout that part of the 24 months immediately preceding the determination time while such a share or indebtedness was owned by the corporation, a person or partnership related to the corporation or a person or partnership related to such a person or partnership, it was a share or indebtedness of a Canadian-controlled private corporation more than 50% of the fair market value of the assets of which was attributable to assets described in subparagraph (iii), or (iii) assets described in either of subparagraph (i) or (ii)
+except that
+(d)where, for any particular period of time in the 24-month period ending at the determination time, all or substantially all of the fair market value of the assets of a particular corporation that is the corporation or another corporation that was connected with the corporation cannot be attributed to assets described in subparagraph (i), shares or indebtedness of corporations described in clause (B), or any combination thereof, the reference in clause (B) to “more than 50%” shall, for the particular period of time, be read as a reference to “all or substantially all” in respect of each other corporation that was connected with the particular corporation and, for the purpose of this paragraph, a corporation is connected with another corporation only where
+(i)the corporation is connected (within the meaning of subsection 186(4) on the assumption that the corporation was a payer corporation within the meaning of that subsection) with the other corporation, and
+(ii)the other corporation owns shares of the capital stock of the corporation and, for the purpose of this subparagraph, the other corporation shall be deemed to own the shares of the capital stock of any corporation that are owned by a corporation any shares of the capital stock of which are owned or are deemed by this subparagraph to be owned by the other corporation,
+(e)where, at any time in the 24-month period ending at the determination time, the share was substituted for another share, the share shall be considered to have met the requirements of this definition only where the other share
+(i)was not owned by any person or partnership other than a person or partnership described in paragraph (b) throughout the period beginning 24 months before the determination time and ending at the time of substitution, and
+(ii)was a share of the capital stock of a corporation described in paragraph (c) throughout that part of the period referred to in subparagraph (i) during which such share was owned by a person or partnership described in paragraph (b), and
+(f)where, at any time in the 24-month period ending at the determination time, a share referred to in subparagraph (ii) is substituted for another share, that share shall be considered to meet the requirements of subparagraph (ii) only where the other share
+(i)was not owned by any person or partnership other than a person or partnership described in clause (A) throughout the period beginning 24 months before the determination time and ending at the time of substitution, and
+(ii)was a share of the capital stock of a corporation described in paragraph (c) throughout that part of the period referred to in subparagraph (i) during which the share was owned by a person or partnership described in clause (A).
+Subsection 110.6(2.1) Capital gains deduction — qualified small business corporation shares
+In computing the taxable income for a taxation year of an individual (other than a trust) who was resident in Canada throughout the year and who disposed of a share of a corporation in the year or a preceding taxation year and after June 17, 1987 that, at the time of disposition, was a qualified small business corporation share of the individual, there may be deducted such amount as the individual may claim not exceeding the least of
+(a) the amount determined by the formula in paragraph (2)(a) in respect of the individual for the year,
+(b)the amount, if any, by which the individual’s cumulative gains limit at the end of the year exceeds the amount deducted under subsection 110.6(2) in computing the individual’s taxable income for the year,
+(c)the amount, if any, by which the individual’s annual gains limit for the year exceeds the amount deducted under subsection 110.6(2) in computing the individual’s taxable income for the year, and
+(d)the amount that would be determined in respect of the individual for the year under paragraph 3(b) (to the extent that that amount is not included in computing the amount determined under paragraph (2)(d) in respect of the individual) in respect of capital gains and capital losses if the only properties referred to in paragraph 3(b) were qualified small business corporation shares of the individual.
+Tax Avoidance
+245(1) In this section
+tax consequences to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount;
+tax benefit means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act, and includes a reduction, avoidance or deferral of tax or other amount that would be payable under this Act but for a tax treaty or an increase in a refund of tax or other amount under this Act as a result of a tax treaty;
+transaction includes an arrangement or event.
+Subsection 245(2) General anti-avoidance provision
+Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+Subsection 245(3) Avoidance transaction
+An avoidance transaction means any transaction
+(a)that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+(b)that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+Subsection 245(4) Application of subsection (2) Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a)would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of any one or more of
+(i)this Act,
+(ii)the Income Tax Regulations,
+(iii)the Income Tax Application Rules,
+(iv) a tax treaty, or
+(iv)any other enactment that is relevant in computing tax or any other amount payable by or refundable to a person under this Act or in determining any amount that is relevant for the purposes of that computation; or
+(b)would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.
+Subsection 245(5) Determination of tax consequences. Without restricting the generality of subsection (2), and notwithstanding any other enactment,
+(a)any deduction, exemption or exclusion in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+(b)any such deduction, exemption or exclusion, any income, loss or other amount or part thereof may be allocated to any person,
+(c)the nature of any payment or other amount may be recharacterized, and
+(d)the tax effects that would otherwise result from the application of other provisions of this Act may be ignored, in determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.

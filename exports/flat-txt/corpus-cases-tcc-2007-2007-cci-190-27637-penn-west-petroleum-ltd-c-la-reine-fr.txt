@@ -1,0 +1,427 @@
+Title: Penn West Petroleum Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27637/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-190-27637-penn-west-petroleum-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-04-11
+
+# Penn West Petroleum Ltd. c. La Reine
+
+- Citation: 2007 CCI 190
+- Decision date: 2007-04-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 393, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Penn West Petroleum Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-11
+Référence neutre
+2007 CCI 190
+Numéro de dossier
+2003-3539(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2003‑3539(IT)G
+2003‑3541(IT)G
+ENTRE :
+PENN WEST PETROLEUM LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appels entendus les 29, 30 et 31 janvier 2007, à Calgary (Alberta).
+Devant : L’honorable juge en chef D. G. H. Bowman
+Comparutions :
+Avocats de l’appelante : Mes Barry R. Crump et
+Heather DiGregorio
+Avocats de l’intimée : Mes William L. Softley et
+John O’Callaghan
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1996 et 1997 sont rejetés, avec dépens.
+Signé à Ottawa, Canada, ce 11e jour d’avril 2007.
+« D. G. H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 3e jour de décembre 2008.
+Mario Lagacé, jurilinguiste
+Référence : 2007CCI190
+Date : 20070411
+Dossier : 2003‑3539(IT)G
+2003‑3541(IT)G
+ENTRE :
+PENN WEST PETROLEUM LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Ces appels relatifs aux années d’imposition 1996 et 1997 de l’appelante ont été entendus ensemble. Ils découlent de l’application du paragraphe 103(1) de la Loi de l’impôt sur le revenu à la suite d’une transaction qui a eu lieu au cours de l’année d’imposition 1996 de l’appelante.
+[2] Les parties se sont entendues sur un exposé conjoint des faits (« ECF »). Il constitue l’annexe A des présents motifs. L’annexe B correspond aux documents produits sous l’onglet 51 du recueil conjoint de documents, soit une série de schémas des transactions évoquées dans l’ECF. Ce contexte factuel de base ne soulève pour ainsi dire aucune contestation.
+La question en litige
+[3] Les faits qui ont mené à la transaction ayant donné lieu aux cotisations sont quelque peu complexes, mais la question elle‑même s’avère relativement simple. Je l’exposerai brièvement dans le présent paragraphe. L’appelante est devenue une associée au sein de Penn West Petroleum Partnership [la « société Penn West Petroleum »] avec deux de ses filiales. La société Penn West Petroleum possédait des biens relatifs au pétrole et au gaz, notamment dans la région de Blueberry en Colombie‑Britannique. Ces biens avaient appartenu auparavant à Petro‑Canada, qui les avait transférés à deux des associées (ou à leurs prédécesseurs) de la société Penn West Petroleum. Les biens Blueberry étaient assujettis à des droits de premier refus (« DPR ») détenus par Phillips Petroleum Resources Ltd., Suncor Inc. et B.C. Star Partners. Penn West savait que les DPR grevaient les biens, et elle reconnaissait son obligation de céder les biens Blueberry aux titulaires des DPR si ceux‑ci choisissaient d’exercer leurs droits. Petro‑Canada a avisé Phillips du transfert des biens à la société de personnes. Penn West était réticente à céder les biens directement à Phillips (peut‑être à cause de l’effet négatif qu’une telle vente aurait sur son ensemble de « frais à l’égard de biens canadiens relatifs au pétrole et au gaz » (« FBCPG »)). Quoi qu’il en soit, Phillips s’est opposée au prix énoncé dans les avis donnés par Petro‑Canada au titre des DPR. Penn West a donc proposé à Phillips d’acquérir les biens indirectement en devenant une associée de la société Penn West Petroleum. Le contrat de société de Penn West Petroleum stipulait que, advenant la cession de biens sociaux à un associé, tout revenu gagné (ou toute perte subie) par la société par suite de cette cession devait être alloué à la partie à qui les biens étaient cédés. C’est ce qui s’est produit. Les biens Blueberry ont été cédés à Phillips. Suivant les dispositions du contrat de société, les conséquences fiscales de cette cession, plus précisément la réduction des FBCPG, ont suivi les biens, et c’est Phillips, et non Penn West, qui a subi une réduction de ses FBCPG. L’intimée soutient que ce résultat contrevient à l’article 103 de la Loi de l’impôt sur le revenu. Le ministre a attribué à l’appelante, à titre de membre de la société Penn West Petroleum, sa part proportionnelle du produit et a réduit ses FBCPG en conséquence.
+Les faits
+[4] Dans le résumé des faits qui suit, j’utiliserai les mêmes abréviations que dans l’ECF. En date du 1er avril 1993, Petro‑Canada a transféré certains biens relatifs au pétrole et au gaz (les « actifs TroCana ») à une société de personnes, TroCana Resources. Cette société se composait de Petro‑Canada et de TroCana Resources Inc. (« TRI »), sa filiale à 100 %. Cette société de personnes a été dissoute le 30 novembre 1993. Petro‑Canada et TRI ont acquis respectivement un intérêt de 97 % et de 3 % dans les biens.
+[5] L’étape suivante a été la constitution de 594159 Alberta Ltd. (« 594 »), détenue à 1 % par Petro‑Canada et à 99 % par 552792 Alberta Inc. (« 552 »). L’avocat de l’appelante m’a informé que 552 était détenue par un certain Murray Edwards, qui n’était pas lié à Petro‑Canada. L’intimée n’a pas contesté cette affirmation.
+[6] En date du 17 février 1994, Petro‑Canada a vendu son intérêt dans les actifs TroCana à 594 au prix de 155 050 000 $, et ses actions de TRI à 552, au prix de 14 750 000 $. Ainsi, 594 et TRI, les deux filiales de 552, détenaient respectivement 97 % et 3 % des actifs TroCana. Elles ont constitué la société de personnes TroCana [la « société TroCana »] le 21 février 1994 et ont cédé leurs intérêts dans les actifs TroCana à la société TroCana sous le régime du paragraphe 97(2) de la Loi de l’impôt sur le revenu. En contrepartie, 594 a reçu 145 500 000 parts sociales, et TRI a reçu 4 500 000 parts.
+[7] La conséquence du choix de l’application du paragraphe 97(2) a été que les coûts réputés des actifs corporels pétroliers et gaziers transférés par 594 et TRI étaient respectivement de 14 425 313 $ et de 413 555 $. Le coût réputé des avoirs miniers (concessions pétrolières et gazières) était nul. La participation de 594 dans la société de personnes était de 97 % et celle de TRI, de 3 %.
+[8] Puisque le contrat de société de TroCana daté du 21 février 1994 conclu entre TRI et 594 est un des documents qui sont au cœur du débat dans ces appels, j’en reproduis certaines des dispositions :
+[traduction]
+3.5 RÉPARTITIONS
+Tous les profits nets, pertes nettes, revenus imposables et pertes fiscales de la société et tous les autres éléments de revenu, de gain, de perte, de déduction, de récupération et de crédit de la société qui peuvent être répartis pour l’application de la Loi de l’impôt sur le revenu seront répartis entre les associés suivant les taux de partage énoncés à l’article 3.10. Tous les profits nets et pertes nettes seront déterminés par l’associé directeur général en conformité avec les principes comptables généralement reconnus.
+[…]
+3.10 TAUX DE PARTAGE
+Les répartitions entre associés et les attributions aux associés en vertu du présent contrat se feront en fonction du taux de partage respectif de chaque associé; ce taux de partage sera déterminé par les associés à la fin de chaque année financière de la société, en fonction du nombre de parts sociales que détient chaque associé par rapport au nombre total de parts sociales en circulation.
+[…]
+3.15 REVENUS ET PERTES AUX FINS DE L’IMPÔT SUR LE REVENU
+Sous réserve de l’article 3.5, les revenus et les pertes aux fins de l’impôt sur le revenu de la société, les produits de la disposition d’avoirs miniers canadiens (au sens de la Loi de l’impôt sur le revenu) que la société reçoit ou qui lui sont dus, les redevances dues à la Couronne par la société au titre de la production de substances pétrolières, les frais d’exploration au Canada, les frais d’aménagement au Canada, les frais à l’égard de biens canadiens relatifs au pétrole ou au gaz et les crédits d’impôt à l’investissement (le tout, au sens de la Loi de l’impôt sur le revenu) découlant des dépenses de la société et tous les autres montants qui peuvent être autorisés à titre distinct pour l’application de la Loi de l’impôt sur le revenu ou de toute autre loi provinciale applicable seront répartis entre les associés en fonction de leurs participations respectives dans la société, et toutes ces répartitions se feront à la fin de chaque année financière de la société.
+[9] L’article 9 traitait du rachat de parts.
+[traduction]
+9.1 RACHAT DE PARTS
+Un associé peut, moyennant un avis à l’associé directeur général, faire racheter la totalité ou une partie de ses parts par la société, aux frais de l’associé, si toutes ces parts, à l’exception d’une part que cet associé détiendra conformément aux dispositions de l’article 9.3 du présent contrat, (les « parts désignées ») sont rachetées en échange d’un intérêt précisé dans un ou plusieurs des biens sociaux désignés par cet associé (les « biens désignés ») aux conditions suivantes :
+a) l’associé directeur général est convaincu que les parts désignées représentent un pourcentage de toutes les parts qui est égal au pourcentage de tous les biens sociaux que représentent les biens désignés (le « pourcentage »), le tout déterminé selon la juste valeur marchande relative;
+b) l’associé conclut, relativement à l’attribution des biens désignés, les conventions que l’associé directeur général estime satisfaisantes quant à la forme et au fond;
+c) les biens désignés comprennent un billet à ordre de la société d’un montant égal au pourcentage du fonds de roulement de la société au moment de l’attribution.
+9.2 MODE D’ATTRIBUTION
+Tout associé peut exercer les droits d’attribution prévus à l’article 9.1 en avisant l’associé directeur général de son choix de faire racheter les parts désignées par la société et en précisant quels sont les biens désignés. L’associé directeur général a 10 jours à compter de la réception d’un tel avis pour accepter ou rejeter l’avis. Sur acceptation d’un tel avis par l’associé directeur général, le choix exercé par l’associé devient irrévocable. La date de prise d’effet du choix est le premier jour du mois suivant la réception de l’avis ou toute autre date dont peut convenir l’associé directeur général. L’associé directeur général fait en sorte que les biens désignés soient cédés en vertu d’une convention qu’il estime satisfaisante quant à la forme et au fond, laquelle convention est rédigée et présentée à l’associé à des fins de signature avec toute formule exigée en vertu de la Loi de l’impôt sur le revenu. Après la cession, sous réserve de l’article 3.17 du présent contrat, l’associé qui se retire cesse d’avoir quelque intérêt que ce soit dans la société ou dans l’un quelconque de ses éléments d’actif restants au titre des parts désignées. Le rachat et le transfert s’effectueront en conformité avec toute disposition de la Loi de l’impôt sur le revenu relative au report d’impôt qui est applicable à la date du transfert, et toutes les parties conviennent de collaborer à la prise de toutes les mesures et à la signature de tous les documents nécessaires à cette fin. Lors de l’attribution de biens désignés en vertu du présent article 9, le produit de la disposition, les revenus ou les pertes, les crédits et les dépenses que la société perçoit, qu’elle encourt, qui lui sont dévolus ou qu’elle engage, selon le cas, seront répartis conformément aux dispositions de l’article 3.17 du présent contrat.
+9.3 ATTRIBUTIONS
+Malgré l’article 9.2, en cas d’attribution de biens désignés en vertu de l’article 9.1, les associés qui reçoivent des biens désignés sont réputés demeurer associés et titulaires du nombre de parts désignées aussi longtemps que nécessaire pour permettre l’attribution effective des montants visés à l’article 3.17. Après l’attribution des montants visés à l’article 3.17, la part unique que conserve un associé lors de l’exercice de son droit de faire racheter toutes ses parts, sauf une, en vertu de l’article 9.1, sera rachetée par la société au prix de 1,00 $ et sera annulée sans donner lieu au paiement d’aucune autre contrepartie ni à la prise d’aucune mesure ni par l’associé ni par la société.
+[…]
+3.17 ATTRIBUTION DE BIENS
+Lorsqu’un intérêt dans un ou plusieurs biens sociaux est attribué à un associé en vertu de l’article 9 du présent contrat :
+a) tout revenu (ou toute perte) réalisé, ou réputé réalisé, par suite de cette attribution par la société pour l’application de la Loi de l’impôt sur le revenu et, dans le cas d’avoirs miniers canadiens, tout produit de la disposition réputé avoir été reçu par la société, en rapport avec cette attribution, sont attribués à l’associé à qui cette attribution est faite, sous réserve de toute convention entre l’associé directeur général agissant pour le compte de la société et l’associé attributaire;
+b) les montants de la société qui sont pertinents au regard de l’impôt sur le revenu et qui peuvent par ailleurs être autorisés en vertu de l’article 3.15 du présent contrat seront attribués à cet associé dans la mesure des parts rachetées en fonction de la proportion de ces montants par rapport à la portion de l’année financière de la société se terminant le dernier jour du mois suivant la date de prise d’effet du choix relatif au rachat de parts en vertu de l’article 9.2, sous réserve de toute convention entre l’associé directeur général pour le compte de la société et l’associé attributaire.
+[10] En date du 22 avril 1994, l’appelante a acquis de 552 les actions ordinaires de 594 et toutes les actions de TRI en contrepartie de 14 750 000 $ et d’actions ordinaires.
+[11] Pour récapituler la situation au 22 avril 1994, donc, l’appelante détenait les actions ordinaires de 594 et toutes les actions de TRI qui, par l’entremise de la société TroCana, était propriétaire des actifs TroCana. Petro‑Canada, par suite de sa vente des actifs TroCana à 594, détenait 10 000 000 actions privilégiées de 594 et était créancière de cette dernière à hauteur de 145 050 000 $, sous forme de billets à ordre et de débentures.
+[12] Cette situation a été modifiée notamment par suite des transactions suivantes :
+a) l’appelante a donné à Petro‑Canada 1 403 508 bons de souscription d’actions ordinaires de l’appelante en échange des 10 000 000 d’actions privilégiées de 594 que détenait Petro‑Canada;
+b) l’appelante a donné à Chancellor, une filiale de Petro‑Canada, 1 955 828 bons de souscription en échange de la débenture de 2e rang de 18 000 000 $ émise par 594 que détenait Petro‑Canada.
+[13] La convention d’acquisition par Penn West datée du 22 avril 1994 comportait d’autres dispositions, mais elles ne nous apparaissent pas importantes au regard de la question en litige en l’espèce. Qu’il suffise de dire que, à la suite des différentes transactions prévues aux termes de la convention d’acquisition par Penn West, TRI et 594 sont devenues des filiales à 100 % de l’appelante au coût d’environ 170 000 000 $. Les parties conviennent que l’acquisition des actifs TroCana a considérablement augmenté la valeur des actions de l’appelante et que les actifs TroCana valaient, selon une évaluation indépendante, environ 253 000 000 $.
+[14] En date du 1er juillet 1994, l’appelante a transféré ses biens relatifs au pétrole et au gaz à la société TroCana par suite d’un choix fait sous le régime du paragraphe 97(2) de la Loi de l’impôt sur le revenu, en échange de parts sociales. Le nom de la société TroCana a été remplacé par « Penn West Petroleum Partnership » [la « société Penn West Petroleum »].
+[15] Le contrat de société a été modifié six fois. Les trois premières modifications sont les suivantes :
+a) no 1 : modification ayant pour objet de changer la dénomination sociale et de tenir compte du fait que l’appelante devenait une associée détenant 85 000 000 parts;
+b) no 2 : modification visant à tenir compte de l’apport d’actifs additionnels par 594 en échange de 598 290 parts additionnelles;
+c) no 3 : modification visant à tenir compte du fait que 626360 Alberta Ltd. (« 626 »), une filiale à 100 % de l’appelante, était devenue une associée de Penn West Petroleum après qu’elle eut acquis les actions de 594 et que 594 eut été liquidée et eut cédé ses actifs à 626, dont ses 146 098 290 parts sociales.
+[16] Le 31 janvier 1995, 626 et l’appelante ont fusionné. Comme mentionné ci‑dessus, certains des actifs TroCana, connus comme les actifs Blueberry, étaient assujettis à des DPR au profit de Phillips, Suncor et B.C. Star. Petro‑Canada a avisé ces compagnies qu’elle avait vendu son intérêt dans les actifs Blueberry à 594.
+[17] Les prix d’exercice des DPR étaient énoncés dans les avis et sont énoncés au paragraphe 29 de l’ECF. Suncor, Phillips et B.C. Star se sont opposées aux prix d’exercice indiqués dans les avis. Petro‑Canada a émis un nouvel avis.
+[18] Le 29 décembre 1994, l’appelante a envoyé une lettre d’entente à Phillips qui comportait une offre de vente de parts de Penn West Petroleum à Phillips. L’entente, que Phillips a acceptée, est au cœur de la question en litige en l’espèce.
+[19] Les articles 1 à 7 de l’entente sont ainsi rédigés :
+[traduction]
+1. Les définitions qui suivent s’appliquent à la présente lettre.
+a) « actifs » Tout droit, titre, domaine et intérêt de la société dans l’intérêt Blueberry et l’intérêt dans le pipeline.
+b) « intérêt Blueberry » Tous les intérêts pétroliers et gaziers et les intérêts connexes de la société dans la zone géographique décrite à l’annexe « A » des présentes, notamment:
+i. tous les puits, établissements, équipements et matériel qui s’y rattachent;
+ii. tout droit de redevance dérogatoire brut que reçoit la société en rapport avec l’intérêt Blueberry;
+iii. les intérêts divers liés à ces actifs et à la production qui en provient, à l’exclusion des canalisations de collecte et de transport de gaz brut et des installations de traitement de Westcoast liées à la production provenant de l’intérêt Blueberry;
+sous réserve seulement des redevances de bailleur, des redevances de bailleur de la Couronne et des charges et des redevances assumées en vertu de la vente Petro‑Canada et décrites et énoncées expressément à l’annexe « B » des présentes.
+c) « vente Petro‑Canada » La vente de certains actifs, dont les « actifs » cédés à Alberta en vertu d’une entente de cession de droits relatifs au pétrole et au gaz et de droits divers, conclue le 17 février 1994, lesquels actifs ont été éventuellement cédés à la société.
+d) « intérêt dans le pipeline » Tout l’intérêt acquis par Alberta en vertu de la vente Petro‑Canada (et maintenant détenu par la société) dans le pipeline exploité en vertu de la convention d’exploitation de pipeline datée du 31 juillet 1969 et modifiée par une convention de clarification datée du 1er avril 1993, y compris, sans restriction aucune, l’embranchement Aitken Creek.
+2. Penn West Petroleum Ltd. (« Penn West ») prévoit que certaines parts de Penn West Petroleum (la « société »), actuellement constituée de Penn West, de 594159 Alberta Ltd. (« Alberta ») et de TroCana Resources Inc., seront acquises par sa filiale à 100 % 626360 Alberta Ltd. (la « vendeuse ») lors de la liquidation d’Alberta. Une partie de ces parts (les « parts ») confère à leur titulaire le droit à 5,27 %, tel que rajusté, des revenus de la société. Sous réserve des conditions stipulées à la présente, Penn West, à titre de mandataire de la vendeuse, offre par la présente de vendre les parts à Phillips Petroleum Resources Ltd. (l’« acheteuse ») en date du 20 janvier 1995. Le prix d’achat des parts (le « prix d’achat ») sera de 14 500 000 $, tel que rajusté, payable au moyen d’un billet à ordre selon les modalités suivantes :
+a) le billet à ordre sera non négociable et incessible;
+b) le principal et les intérêts seront garantis au moyen de la mise en gage des parts (la « sûreté »), et il sera donné mainlevée de la sûreté sur paiement du billet à ordre;
+c) le principal et les intérêts pourront être payés par anticipation à tout moment;
+d) le principal et les intérêts échoiront le 24 février 1995;
+e) le principal portera intérêt au taux préférentiel de la CIBC jusqu’au 24 février 1995, puis au taux préférentiel de la CIBC plus 2 % après cette date.
+3. Nous savons que l’acheteuse s’est dite intéressée à acheter les actifs que détient actuellement la société en échange d’une contrepartie en argent. Malheureusement, la société n’est pas disposée à vendre les actifs selon ces modalités. En considérant l’opportunité d’acquérir des parts, l’acheteuse devrait noter que le contrat régissant la société (le « contrat de société ») comporte, à l’article 9.1, des dispositions permettant à un associé de demander le rachat de ses parts en contrepartie d’une participation dans les actifs de la société. Une telle demande doit être acceptée par Penn West, à titre d’associée directrice générale de la société. Dans le cadre de tout achat de parts de la vendeuse, Penn West est prête à s’engager, à titre d’associée directrice générale de la société, dans l’hypothèse où l’acheteuse demanderait un rachat des parts pendant la période commençant le 1er février 1995 et se terminant le 1er mars 1995 et demanderait en échange qu’on lui cède les actifs conformément à l’article 9.1, à accepter pareil rachat aux conditions proposées, sous réserve des conditions énoncées à la présente lettre et de la conclusion d’une convention définitive de rachat avec la société, et étant entendu qu’advenant pareil rachat le prix de rachat des actifs se répartira comme suit : 90 % – droits relatifs au pétrole et au gaz; 10 % – biens corporels; montant nominal – tout autre actif. Si l’acheteuse demande un tel rachat en conformité avec la présente entente et le contrat de société et que ce rachat ne va pas de l’avant, Penn West, à titre d’associée directrice générale de la société, et Alberta, à titre d’associée au sein de la société, feront en sorte que les parts soient rachetées par la société pour un montant égal au prix d’achat plus tout montant d’intérêt payable au titre du billet à ordre jusqu’à la date de rachat.
+4. Le contrat de société prévoit actuellement que, dans l’hypothèse où l’acheteuse ferait racheter ses parts et demanderait qu’on lui attribue les actifs, tout produit de la disposition réputé avoir été reçu par la société serait attribué à l’acheteuse aux fins de l’impôt de manière à refléter cette attribution. Si, pour quelque motif que ce soit, l’autorité fiscale compétente refuse une telle attribution en totalité ou en partie avant le 30 décembre 1999, et que ce refus est confirmé par un jugement final d’un tribunal compétent ou en vertu d’une entente entre l’autorité fiscale et Penn West, l’acheteuse convient de payer à la société un montant égal à 7 % du montant non attribué ainsi, à titre de contrepartie additionnelle de l’attribution des actifs à l’acheteuse. Il est reconnu et convenu que le montant du produit de la disposition devant être attribué à l’acheteuse en vertu du contrat de société relativement à l’attribution des actifs ne dépassera pas 90 % du prix d’achat.
+5. L’acheteuse ne sera tenue de payer aucun montant en vertu de l’article 4 de la présente à titre de contrepartie additionnelle de l’attribution des actifs en rapport avec aucun revenu (le « revenu excédentaire ») attribué à l’acheteuse à des fins fiscales relativement à l’année financière de la société débutant le 1er février 1995, sauf le produit de la disposition lié à l’attribution des actifs.
+Penn West s’engage à indemniser l’acheteuse de tout impôt sur le revenu payable par l’acheteuse au titre du revenu excédentaire calculé selon l’hypothèse que l’acheteuse est pleinement imposable.
+6. Si l’acheteuse ne fait pas racheter les parts avant le 30 juin 1995, l’acheteuse accorde à Penn West une option d’achat des parts à compter du 30 juin 1995 inclusivement et jusqu’au 30 juin 1998 exclusivement, au prix d’achat.
+7. Penn West s’engage à faire apporter les modifications nécessaires au contrat de société pour tenir compte des dispositions de la présente entente.
+[20] En somme, voici : Phillips, en son nom propre et au nom de Suncor et de B.C. Star, voulait les actifs Blueberry, et l’appelante savait que Phillips pouvait insister pour les avoir à cause des DPR. L’appelante savait que, si la société vendait les actifs Blueberry directement à Phillips, cela diminuerait sa part proportionnelle de FBCPG. Elle a donc proposé à Phillips d’acquérir des parts sociales. Cela permettrait à Phillips de se prévaloir des dispositions contenues dans le contrat de société de TroCana concernant le rachat de parts et l’attribution d’actifs, et en particulier de l’article 3.17 qui est énoncé plus haut. Cet article a essentiellement pour effet d’attribuer à l’associé à qui des biens sociaux sont attribués les conséquences de cette attribution au plan de l’impôt sur le revenu.
+[21] Le 30 janvier 1995, 626 a vendu 12 416 030 parts sociales à Phillips au prix de 14 168 716 $, et Phillips a donné à 626 un billet à ordre de ce montant. Phillips est devenue une associée détenant 12 416 030 parts. En date du 30 janvier 1995, le contrat de société a été modifié de manière à tenir compte de l’accession de Phillips à la société. Il a aussi été modifié de manière à supprimer les articles 9.1 et 9.3 pour y substituer les dispositions suivantes :
+[traduction]
+2.2 Les dispositions de l’article 9.1 sont par les présentes supprimées et remplacées par ce qui suit :
+9.1 Rachat de parts
+Malgré toute autre disposition du présent contrat, un associé peut, moyennant un avis à l’associé directeur général, faire racheter la totalité ou une partie de ses parts par la société (les « parts désignées ») en échange d’un intérêt précisé dans un ou plusieurs des biens sociaux désignés par cet associé (les « biens désignés ») aux conditions suivantes :
+a) l’associé directeur général est convaincu que les parts désignées représentent un pourcentage de toutes les parts qui est égal au pourcentage de tous les biens sociaux que représentent les biens désignés (le « pourcentage »), le tout déterminé selon la juste valeur marchande relative;
+b) l’associé conclut, relativement à l’attribution des biens désignés, les conventions que l’associé directeur général estime satisfaisantes quant à la forme et au fond;
+2.3 Les dispositions de l’article 9.3 sont par les présentes supprimées et remplacées par ce qui suit :
+Malgré l’article 9.2, l’article 96(1.1) de la Loi de l’impôt sur le revenu s’applique en cas d’attribution de biens désignés en vertu de l’article 9.1, et les associés qui reçoivent des biens désignés sont réputés demeurer des associés en vertu de l’article 96(1.1) précité aux fins de l’impôt sur le revenu jusqu’à la fin de l’année financière suivante de la société.
+[22] Le 17 février 1995, Phillips a avisé l’appelante à titre d’associée directrice générale qu’elle choisissait de faire racheter ses parts le 24 février 1995. Le 24 février 1995, Phillips a payé à 626 la somme de 14 255 086,94 $ à titre de paiement du billet à ordre. Le 24 février 1995, 626 et l’appelante avaient déjà fusionné.
+[23] Toujours le 24 février 1995, Phillips, la société, l’appelante et TRI ont signé une convention en vertu de laquelle les actifs Blueberry étaient transférés à Phillips en paiement de la participation de Phillips dans la société. Phillips se voyait attribuer des droits relatifs au pétrole et au gaz évalués au montant de 12 751 844,40 $ et des biens corporels évalués au montant de 1 416 870,60 $.
+[24] Les paragraphes 41 à 44 de l’ECF décrivent comment la disposition des actifs Blueberry a été répartie aux fins des états financiers et aux fins de l’impôt sur le revenu. Les annexes « A » et « B » des réponses à l’avis d’appel se lisent comme suit :
+ANNEXE « A »
+FBCPG RÉVISÉS
+Penn West
+Northern Reef
+TroCana
+Phillips
+(% original)
+85,96 %
+12,37 %
+1,67 %
+0,00 %
+FBCPG
+40 678 528 $
+5 853 809 $
+790 288 $
+(12 751 844) $
+PDD révisé*
+(11 836 261) $
+_______0 $
+(243 560) $
+(672 203) $
+FBCPG révisés
+28 842 267 $
+5 853 809 $
+546 560 $
+s/o
+* Répartition effectuée en fonction des pourcentages respectifs suivants : 92,82 %, 0 %, 1,91 % et 5,27 %.
+ANNEXE « B »
+RÉDUCTION DES FBCPG DÉDUITS PAR L’APPELANTE
+1996
+1997
+Non affecté
+Non affecté
+Solde d’ouverture
+22 589 990 $
+46 289 031 $
+Attribués par la société (après révision)
+28 842 267 $
+36 734 902 $
+____________
+____________
+Solde avant déduction
+51 432 257 $
+83 023 933 $
+Déduction (10 %)
+(5 143 226) $
+(8 302 383) $
+____________
+____________
+Solde de clôture
+46 289 031 $
+____________
+74 721 540 $
+____________
+Déduction initiale de FBCPG
+6 326 582 $
+9 367 657 $
+FBCPG révisés
+(5 143 226) $
+(8 302 393) $
+Réduction de la déduction des FBCPG
+1 183 626 $
+1 065 264 $
+[25] Au risque de simplifier à l’excès, voici ce qui s’est passé. Lorsque les actifs Blueberry ont été attribués à Phillips en contrepartie de sa participation dans la société, il y a eu, en vertu du paragraphe 98(2), une disposition réputée de ces actifs et une réduction correspondante des FBCPG qui, en l’absence de l’article 3.17 du contrat, auraient été répartis entre les associés en proportion de leurs participations respectives dans la société : 36,08 % pour l’appelante; 1,91 % pour TRI; 56,74 % pour 626; et 5,27 % pour Phillips. Après la fusion de l’appelante et de 626, le pourcentage de participation de l’appelante est passé à 92,82 %. Ces pourcentages auront changé par suite de l’accession à la société d’une nouvelle associée, Northern Reef Exploration Ltd., en date du 30 août 1995. Je n’ai pas réussi à rapprocher le pourcentage de participation de Northern Reef dans la 6e convention modificatrice, soit 3,50 %, et celui indiqué dans la réponse, soit 12,37 %. On ne m’a pas fourni d’explications sur ce point, et je l’ignorerai puisqu’il n’est pas pertinent au regard de la question qui nous intéresse ici. L’annexe « A » de la réponse indique que l’appelante détient une participation de 85,96 %.
+[26] La question consiste à savoir si la totalité des produits de la disposition réputée des actifs Blueberry peut être attribuée à Phillips aux fins de l’impôt en vertu de l’article 3.17, malgré le fait qu’au plan comptable Phillips détenait seulement une participation de 5,27 %.
+[27] Pour déterminer les droits de l’appelante au titre des FBCPG, le ministre du Revenu national a réparti le produit de la disposition des actifs Blueberry en fonction des taux de participation respectifs des associées dans la société, au motif que répartir le produit autrement que de la manière prévue dans le contrat de société (ailleurs qu’à l’article 3.17) contreviendrait au paragraphe 103(1) de la Loi. Ce paragraphe énonce :
+(1) Lorsque les associés d’une société de personnes sont convenus de partager en proportions déterminées tout revenu ou perte de la société de personnes provenant d’une source donnée ou de sources situées dans un endroit déterminé ou tout autre montant qui se rapporte à une activité quelconque de la société de personnes et qui doit entrer en ligne de compte dans le calcul du revenu ou du revenu imposable de tout associé de cette société de personnes et lorsqu’il est raisonnable de considérer que cette convention a pour objet principal de réduire les impôts ou de différer le paiement des impôts qui auraient pu être ou devenir payables par ailleurs en vertu de la présente loi, la part du revenu ou de la perte, selon le cas, ou de l’autre montant, revenant à chaque associé de la société de personnes est le montant qui est raisonnable, compte tenu des circonstances, y compris les proportions dans lesquelles les associés sont convenus de partager les profits et les pertes de la société de personnes provenant d’autres sources ou de sources situées à d’autres endroits.
+[28] La convention sur laquelle nous devons concentrer notre attention se compose essentiellement des articles 3.17 et 9.1, tels qu’ils ont été modifiés par la convention modificatrice de la société et de la lettre d’entente entre l’appelante et Phillips datée du 29 décembre 1994. Peut‑on dire qu’« il est raisonnable de considérer que [ces dispositions contractuelles ont] pour objet principal de réduire les impôts ou de différer le paiement des impôts qui auraient pu être ou devenir payables par ailleurs en vertu de la [Loi de l’impôt sur le revenu] »?
+[29] L’avocat de l’appelante a plaidé qu’il n’y avait aucune convention à laquelle le paragraphe 103(1) pouvait s’appliquer. En particulier, il prétend que l’on ne peut pas « greffer » la lettre d’entente à l’article 3.17 du contrat de société. Au moment de la lettre d’entente du 29 décembre 1994, Phillips n’était pas une associée. Elle est devenue associée le 30 janvier 1995. Lorsque Phillips est devenue associée, la lettre d’entente est demeurée en vigueur, et à compter du 30 janvier 1995 la convention entre les parties consistait dans les rapports contractuels qui subsistaient entre eux de manière globale, et ce sont ces rapports contractuels qu’il faut examiner pour déterminer si le paragraphe 103(1) s’applique ou non. L’idée voulant qu’il faille tenir compte de l’ensemble des rapports contractuels va de soi, mais, s’il faut citer des précédents, il en est de nombreux, et établis de longue date. Dans O’Donohoe v. Stammers, (1884) XI C.S.C. 358, le juge en chef Ritchie a dit, à la page 375 :
+[traduction]
+De nombreux précédents peuvent être cités, mais je crois qu’il est seulement nécessaire d’en citer un. Ridgway v. Wharton (1)
+Le lord chancelier dit :
+Les précédents m’amènent à la conclusion suivante : s’il y a une convention ayant pour objet de faire quelque chose, qui n’est pas exprimée dans le texte de la convention signée, mais que la chose qui doit être faite est prévue dans quelque autre écrit, une preuve testimoniale peut être admise pour démontrer quel est cet écrit, de sorte que les deux pris ensemble puissent constituer une convention obligatoire au sens de la loi relative aux preuves littérales.
+* * * * * *
+Puis, mes lords, il y a eu le jugement Dobell v. Hutchison (2), dans lequel on a suivi exactement le même principe. Dans cette affaire, le défendeur ayant mis une chose à la vente aux enchères, le demandeur avait conclu une convention écrite, signée par lui‑même, ayant pour objet l’achat de cette chose selon certaines conditions précisées. Il s’est avéré que M. Hutchison, le défendeur, ne possédait pas un titre qui l’autorisait à vendre et que, par conséquent, il ne pouvait pas parfaire la vente. Cependant, dans la correspondance qui a été échangée par la suite, plusieurs lettres mentionnèrent les conditions qui avaient été signées par Dobell, le demandeur, comme étant les conditions qui subsistaient alors entre eux, et la Cour du Banc de la Reine a statué, après qu’une preuve testimoniale eut été produite pour démontrer quelles étaient les conditions auxquelles Hutchison renvoyait dans ses lettres, que les deux pouvaient être pris ensemble, de manière à lier Hutchison et à démontrer que cela constituait le document écrit, signé par le demandeur, auquel il renvoyait comme étant les conditions du contrat.
+______________________
+(1) 6 H. L. 257. (2) 3 A. & E. 355.
+[30] Commençons par le contrat de société pris dans son ensemble. Il est irréprochable, sauf peut‑être pour ce qui est de l’article 3.17. Normalement, lorsqu’un bien appartenant à une société est attribué à un associé, la société est réputée avoir disposé du bien à sa juste valeur marchande. Le paragraphe 98(2) de la Loi de l’impôt sur le revenu énonce :
+(2) Sous réserve des paragraphes (3) et (5) et 85(3), lorsque, après 1971, une société de personnes a disposé de biens en faveur d’un contribuable qui, immédiatement avant le moment de la disposition, en était un associé, la société de personnes est réputée avoir tiré de cette disposition un produit égal à la juste valeur marchande de ces biens à ce moment et le contribuable est réputé les avoir acquis à un prix égal à cette juste valeur marchande.
+[31] Cela réduirait les FBCPG de l’associé en raison de l’alinéa a) de la description de « F » dans la définition de « frais cumulatifs à l’égard de biens canadiens relatifs au pétrole et au gaz », au paragraphe 66.4(5). Il n’est pas nécessaire que j’expose la formule algébrique complexe dans la définition des FBCPG. Qu’il suffise de dire que, si une société dispose d’avoirs miniers canadiens, le produit de la disposition réduit les FBCPG de l’associé en proportion de la participation de l’associé dans la société par application du paragraphe 66.4(6). C’est précisément ce que font les cotisations établies à l’égard de Penn West. Comment, donc, l’article 3.17 modifie‑t‑il ce résultat? Il prévoit que le produit d’une disposition réputé avoir été reçu par la société relativement à l’attribution d’avoirs miniers canadiens par la société à un associé sera attribué à cet associé attributaire.
+[32] Une question qui n’a pas été débattue était celle de savoir si la loi autorise les membres d’une société à modifier par voie contractuelle l’incidence de l’impôt d’une manière qui lie le ministre sans changer les conséquences civiles. Il paraît clair que des associés peuvent convenir entre eux, dans le cadre de leurs rapports contractuels, que différentes sources de revenu peuvent être attribuées à différents associés. Prenons, par exemple, une société qui exploite différentes entreprises – disons, des locations immobilières, du commerce de valeurs mobilières, de la consultation et de la construction de maisons –, je ne vois aucun empêchement juridique à ce que les associés conviennent que les revenus provenant d’une entreprise pourront être attribués à un associé et les revenus provenant d’une autre entreprise pourront être attribués à un autre associé. Dans Lindley & Banks on Partnership, dix‑huitième édition, on peut lire ce qui suit aux pages 897‑898 : (notes de bas de page omises)
+[traduction]
+(c) Autres conventions conclues entre associés. Il découle de ce qui précède que toute convention qui cherche à modifier la situation ou les droits d’un associé ex post facto peut fort bien être mise en œuvre entre les associés, que ce soit à des fins comptables ou autres, mais elle ne liera pas le fisc. Ainsi, dans un cas où des associés avaient convenu de modifier la répartition entre eux du revenu du cabinet plusieurs années après que ce revenu eut été généré, de manière à profiter au maximum des allégements d’impôt disponibles, la nouvelle répartition a été jugée sans effet vis‑à‑vis du fisc.
+En revanche, une convention de bonne foi qui régit les rapports présents et futurs des associés et qui ne cherche pas à avoir quelque effet rétroactif sera tout aussi valide entre les associés eux‑mêmes qu’entre eux et le fisc, pour autant que ses dispositions soient respectées. Ainsi, par exemple, il est loisible aux associés de convenir que la totalité d’un amortissement fiscalement autorisé ou d’une charge compensatrice reliée à un bien spécifique de la société sera au profit ou à la charge de un ou de plusieurs parmi eux; ou même qu’un associé indemnisera les autres dans le cas où la société engagerait sa responsabilité civile, sans influer sur la déductibilité de la dette au titre de cette responsabilité lors du calcul des profits du cabinet à des fins fiscales. L’on tirera souvent d’importants avantages fiscaux d’une planification minutieuse combinée au recours à de pareilles conventions.
+[33] La situation décrite dans le passage ci‑dessus ne correspond pas tout à fait à la situation à laquelle nous avons affaire ici. L’article 3.17 vise à attribuer ce qui est un produit de la disposition purement théorique découlant d’une disposition déterminative énoncée au paragraphe 98(2) de la Loi de l’impôt sur le revenu. Suivant cette disposition, la société est réputée avoir disposé des biens en contrepartie d’un produit égal à leur juste valeur marchande. L’article 3.17 du contrat de société cherche à faire en sorte que la disposition réputée qui revient à la société selon la Loi de l’impôt sur le revenu puisse être réattribuée par voie contractuelle à un des associés même si rien n’a changé au plan civil. J’ai de sérieuses réserves quant à savoir si le droit permet une telle chose. Évidemment, des associés peuvent contracter de manière à se partager une vraie tarte comme bon leur semble, mais j’ai du mal à concevoir comment une tarte qui n’existe que parce qu’elle est réputée exister et appartenir à la société en vertu de la Loi de l’impôt sur le revenu peut, par contrat, être donnée à un des associés avec les conséquences fiscales qui découlent de cette propriété théorique. Comparons l’effet de l’article 3.17 avec l’exemple hypothétique suivant. Soit trois associés, A, B et C, qui se partagent habituellement les profits à parts égales. Pour réaliser un objectif fiscal particulier, ils conviennent que les deux tiers des revenus de la société seront attribués à l’associé C. Ils peuvent évidemment le faire si la convention est authentique et juridiquement contraignante et ne constitue pas une fiction. L’associé C peut garder les deux tiers des revenus de la société. Si la répartition est déraisonnable et motivée par des considérations d’ordre fiscal, le ministre peut réattribuer une partie du revenu aux associés A et B en vertu du paragraphe 103(1). Cela a une incidence sur l’impôt, mais cela n’influe d’aucune manière sur les conséquences civiles de la convention entre les associés. Ce qu’il faut souligner, toutefois, c’est que le paragraphe 103(1) suppose l’existence d’une convention juridiquement contraignante ayant d’authentiques conséquences civiles. En l’espèce, je me trouve devant l’application du paragraphe 103(1), par le ministre, à ce qui constitue, pourrait‑on dire, sur le plan civil, une impossibilité juridique. Évidemment, les cotisations du ministre se sont fondées sur l’hypothèse que les dispositions contractuelles déployaient leurs effets. Je suis conscient que les réserves que j’ai exprimées provisoirement au sujet de l’efficacité juridique, vis‑à‑vis du ministre, de l’article 3.17 du contrat de société, qui vise à transférer à un associé à qui sont attribués des biens sociaux les conséquences fiscales d’une disposition théorique que la Loi de l’impôt sur le revenu attribue à la société, sont peut‑être incompatibles avec la pratique administrative exprimée dans deux décisions ministérielles produites sous les onglets 49 et 50 du recueil conjoint de documents. En outre, je n’ai entendu aucune observation des avocats sur ce point, et je n’ai vu aucune preuve du traitement comptable. Les états financiers n’ont pas été produits en preuve, et je ne sais pas comment une attribution de biens sociaux à un associé qui se retire est traitée à des fins comptables. Une question sur laquelle j’aurais besoin de commentaires est la suivante : il semble à tout le moins hautement artificiel, sinon juridiquement impossible, d’attribuer une recette réputée à un associé, particulièrement lorsque cette recette réputée ne serait, selon toute vraisemblance, pas prise en compte dans l’état des revenus et des dépenses à des fins comptables. D’aucuns pourraient se demander, incidemment : pourquoi alors n’est‑il pas tout aussi problématique d’attribuer aux associés leurs parts proportionnelles du produit réputé, en l’espèce 5,27 % à Phillips et 98,82 % à l’appelante?
+[34] J’ai songé à faire comparaître de nouveau les avocats parce que les deux parties ont plaidé leur cause en tenant pour acquis que l’article 3.17 était susceptible de produire ses effets juridiques, la seule question étant celle de savoir si le paragraphe 103(1) s’appliquait. La Cour n’est évidemment pas liée par les ententes entre les parties ou les hypothèses qu’elles tiennent pour bien fondées en ce qui a trait à des questions de droit (voir L.I.U.N.A. Local 527 Members’ Training Trust Fund v. The Queen, 92 DTC 2365, aux pages 2368 à 2369). Il se pourrait bien que, lorsque les revenus d’une société sont comptabilisés à des fins fiscales, les recettes réputées ou autres montants théoriques dont la Loi de l’impôt sur le revenu exige la prise en compte soient reconnus. En d’autres mots, l’argument consisterait à dire que nous devons admettre que la Loi de l’impôt sur le revenu elle‑même crée, à l’alinéa 96(1)a), un artifice ou une fiction juridique auquel il faut donner effet pour l’application de l’article 103 de la Loi de l’impôt sur le revenu.
+[35] Il y a trois hypothèses envisageables à examiner :
+a) Pour l’application de l’article 103, les revenus s’entendent des revenus à des fins comptables indépendamment de la Loi de l’impôt sur le revenu.
+b) Il est juridiquement impossible d’attribuer des recettes réputées à un associé lorsque de tels montants sont théoriques et n’existent qu’en vertu d’une disposition de la Loi de l’impôt sur le revenu. Les conséquences fiscales réputées, positives ou négatives, découlant de certaines transactions ne sont tout simplement pas des biens qui peuvent être transférés d’une personne à une autre.
+c) Les revenus d’une société pour l’application de l’article 103 s’entendent des revenus calculés au moyen des règles de la Loi de l’impôt sur le revenu, y compris les éléments de revenus, déductions ou restrictions théoriques prévus aux règles de la sous‑section j) de la section B de la partie I de la Loi de l’impôt sur le revenu.
+[36] Je serais plutôt enclin à penser que l’hypothèse (c) semble être celle qui s’accorde le mieux avec le régime général de la Loi.
+[37] Cependant, puisque la question n’a pas été débattue, je renonce à exprimer une opinion définitive et je m’efforcerai plutôt de disposer de l’affaire en acceptant l’hypothèse tenue pour acquise par les avocats qui l’ont plaidée, à savoir que l’article 3.17 est susceptible de produire ses effets juridiques de manière à permettre que certaines incidences fiscales de dispositions ou de dispositions réputées d’avoirs miniers par des sociétés soient attribuées à des associés d’une manière qui diffère de leurs droits proportionnels en vertu du contrat de société, même si, pour cela, je dois laisser de côté une certaine incrédulité juridique. Je pourrais faire remarquer que le résultat est le même que les dispositions contractuelles puissent ou non déployer leurs effets juridiques. En effet, si elles le peuvent, le paragraphe 103(1) peut être invoqué; dans le cas contraire, point n’est besoin de recourir au paragraphe 103(1).
+[38] Même si au plan civil contractuel les parties peuvent faire ce que l’article 3.17 vise à faire, je ne pense pas qu’il est raisonnable dans les circonstances qui prévalent ici d’attribuer les produits réputés – et effectivement théoriques – de la disposition à Phillips, avec les conséquences fiscales qui s’ensuivent. Il faut garder à l’esprit que Phillips a accédé à la société dans l’intention évidente de s’en retirer tout de suite. Bien qu’il soit admis que Phillips a été associée malgré le caractère quelque peu éphémère de sa participation[1], l’on ne peut faire abstraction du fait qu’elle est devenue une associée uniquement pour pouvoir obtenir les actifs Blueberry d’une manière qui soit acceptable pour l’appelante.
+[39] L’intimée admet, et, je crois, à juste titre, que l’article 3.17 a peut‑être eu à l’origine un but commercial qui est justifiable dans certaines circonstances, et, comme l’a affirmé dans son témoignage M. Elms, le contrôleur de l’appelante à l’époque, de telles dispositions dans des contrats de société n’ont rien d’exceptionnel dans l’industrie. Lorsqu’un associé transfère des avoirs miniers à une société et fait un choix visé au paragraphe 97(2) de telle sorte que la société acquiert les actifs avec report d’impôt, il n’est pas déraisonnable que le contrat comporte une disposition prévoyant que, lorsque ce même associé retire ces actifs, cet associé, plutôt que les autres, devrait assumer le coût fiscal lié à la disposition par la société de ces actifs bénéficiant d’un report d’impôt. Par conséquent, le résultat de l’application de l’article 3.17 pourrait ne pas être déraisonnable dans certaines circonstances. Cependant, la situation que je viens de décrire ne correspond pas à celle à laquelle nous avons affaire ici. Pour déterminer le caractère raisonnable, il y a lieu de prendre en compte plusieurs facteurs. Premièrement, Phillips n’a jamais apporté aucun actif du tout à la société, ni en vertu du paragraphe 97(2) ni autrement. Par conséquent, le fardeau fiscal de la disposition réputée ne retombe pas sur la personne sur qui, d’après la raison d’être de l’article 3.17 dont il est question ci‑dessus, il devrait retomber en toute équité. Deuxièmement, Phillips a accédé à la société uniquement pour obtenir les actifs Blueberry. Troisièmement, il ne s’est pas agi simplement de ce que Phillips se joigne à la société et se prévale d’un article 3.17 préexistant. Le contrat de société a dû être modifié de manière à permettre à Phillips de réaliser son objectif précis. En particulier, l’article 9.1 du contrat a dû être modifié de manière à permettre à Phillips de désigner les biens (vraisemblablement les actifs Blueberry) qu’elle voulait retirer de la société. Quatrièmement, la participation de Phillips ne présentait aucun risque, étant donné la convention d’indemnisation entre Phillips et les autres associés.
+[40] L’avocat de l’intimée invoque l’article 4 de la lettre d’entente du 29 décembre 1994 entre l’appelante et Phillips comme preuve d’un avantage fiscal pour l’appelante découlant de l’entente. L’article 4 ne fait que démontrer que des conseillers juridiques minutieux ont reconnu qu’il se pourrait que l’article 3.17 ne permette pas de réaliser l’objectif qu’il visait. De toute évidence, si l’article 3.17 ne fonctionnait pas et que l’appelante se trouvait à devoir assumer les conséquences fiscales et le produit de la disposition réputée, elle comptait recevoir un prix plus élevé en compensation. La disposition prévoyant un paiement additionnel de 7 % n’était que prudente.
+[41] Je reviens donc à la question de savoir s’il est raisonnable de considérer que la convention entre Phillips et l’appelante avait pour objet principal de réduire les impôts ou de différer le paiement des impôts qui auraient pu être ou devenir payables par ailleurs en vertu de la Loi de l’impôt sur le revenu.
+[42] Certes, l’aliénation des actifs Blueberry par la société avait un but purement commercial et n’avait rien à voir avec l’impôt. D’ailleurs, Me Crump, avocat de l’appelante, et M. Elms, contrôleur de l’appelante à l’époque, ont eu l’échange suivant :
+[traduction]
+(Q) Et donc, en fin de compte, quelle était la raison principale pour laquelle vous avez conclu la transaction avec Phillips de la manière dont vous l’avez conclue?
+(R) Eh bien, nous voulions tenter d’éviter la poursuite en justice – la poursuite en justice dont nous risquions de faire l’objet.
+[43] Je ne considère pas ces affirmations comme déterminantes. Il faut tenir compte de tous les éléments de preuve, et non uniquement d’une affirmation isolée faite par un témoin. J’admets que l’appelante voulait régler le différend avec Phillips concernant les actifs Blueberry. Cela constituait une motivation commerciale. Cela n’empêche pas, à mon avis, qu’ils ont choisi une entente qui, si elle déployait ses effets, avait pour objet une répartition disproportionnée d’un revenu de la société (fût‑ce un revenu réputé) découlant d’une transaction. Phillips ne concluait pas l’entente pour des motifs d’ordre fiscal. Elle voulait les actifs au moindre coût possible. Elle était apparemment disposée à accepter le désavantage fiscal éventuel, le cas échéant, découlant de l’application de l’article 3.17 du contrat de société. Dans un sens, la présente affaire ressemble, à tout le moins sous certains aspects, à l’affaire XCO Investments Ltd. v. The Queen, 2006 1 C.T.C. 2220, confirmée par 2006 C.A.F. 53, une cause que les deux parties ont citée. Dans XCO, il y avait un objectif commercial clair – la vente d’un bien immobilier. De même, il y avait aussi un associé, Woodwards, pour qui les conséquences fiscales étaient indifférentes.
+[44] Il se peut que le même scénario se présente dans bien des cas où le paragraphe 103(1) pourrait s’appliquer – une transaction commerciale et un associé pour qui les conséquences fiscales soit sont sans importance, soit revêtent moins d’importance.
+[45] Il y a trois autres arguments qu’il faudrait mentionner brièvement. Selon le premier, il n’y a pas eu de réduction d’impôt parce que les conséquences fiscales ont simplement été transférées à Phillips. Or, l’entente avait certainement pour objet de réduire l’impôt de l’appelante. Et je n’ai aucune idée de ce que pouvait être la situation fiscale de Phillips à l’époque, mais, si l’objet consiste à réduire l’impôt d’un contribuable, cela me paraît suffisant pour invoquer le paragraphe 103(1).
+[46] Selon le deuxième argument, si une disposition d’un contrat de société comme l’article 3.17 a à l’origine un objet « innocent » au plan fiscal, c.-à-d. un objet qui n’est pas celui de réduire de manière déraisonnable le revenu d’un associé, elle ne peut pas acquérir plus tard un objet reprochable au plan fiscal justifiant l’application du paragraphe 103(1). Avec égards, je ne puis admettre ce point de vue. Je pense qu’il faut examiner le but pour lequel on a recours au contrat, en l’espèce au moment où Phillips a accédé à la société.
+[47] Troisièmement, il a été avancé que, puisque le paragraphe 103(1) constitue une disposition anti‑évitement comme l’article 245, l’intimée aurait le fardeau de démontrer un abus de la même façon que la Cour suprême du Canada, dans Hypothèques Trustco Canada c. Canada, [2005] 2 R.C.S. 601, a affirmé que la Couronne avait le fardeau d’établir un évitement fiscal abusif. Je ne suis pas d’accord pour dire que, lorsque l’on a affaire à une disposition anti‑évitement telle que le paragraphe 103(1), la Couronne a le fardeau additionnel de démontrer un abus. Il ne fait aucun doute que l’existence ou l’inexistence d’un abus est un facteur dont la Cour peut tenir compte pour déterminer si l’évitement fiscal que vise le paragraphe existe de manière à justifier l’application de la disposition. Il ne s’agit pas cependant d’imposer un fardeau additionnel à la Couronne. Il s’agit plutôt d’un facteur qui peut être pris en compte ou non dans le contexte de l’interprétation et de l’application de la disposition.
+[48] Je pense que la principale raison pour laquelle la convention entre l’appelante et Phillips a pris la forme qu’elle a prise (c.‑à‑d. l’accession de Phillips à la société et son retrait tout de suite après, et le rachat presque immédiat de ses parts et l’attribution à Phillips des actifs Blueberry) était que l’appelante voulait réduire l’impôt qu’elle aurait eu à payer autrement. La convention n’avait d’autre raison d’être que de rendre acceptable pour l’appelante le prix inférieur que Phillips était prête à payer. Autrement, l’appelante aurait pu simplement vendre les actifs directement à Phillips. L’attribution du produit réputé en vertu de l’article 3.17 et le transfert consécutif de l’incidence fiscale à Phillips ont entraîné une répartition disproportionnée du produit réputé et, de ce fait, une réduction de l’impôt de l’appelante, étant donné que les participations respectives de l’appelante et de Phillips étaient de 92,82 % et de 5,27 %. La réattribution par le ministre du produit de la disposition des avoirs miniers aux associés selon leur participation dans la société est raisonnable, tandis qu’il est très déraisonnable de faire d’une personne une associée à hauteur de 5,27 % pendant 25 jours (du 30 janvier 1995 au 24 février 1995), de lui verser 5,27 % des autres revenus, mais d’attribuer à cette associée 14 168 716 $ (100 %) du produit réputé de la disposition d’actifs attribués à cette associée.
+[49] Les appels sont rejetés, avec dépens.
+Signé à Ottawa, Canada, ce 11e jour d’avril 2007.
+« D. G. H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 3e jour de décembre 2008.
+Mario Lagacé, jurilinguiste
+ANNEXE « A »
+2003‑3539(IT)G
+2003‑3541(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+PENN WEST PETROLEUM LTD.
+appelante
+– et –
+SA MAJESTÉ LA REINE
+intimée
+_______________________________________________________________________________
+EXPOSÉ CONJOINT DES FAITS
+_______________________________________________________________________________
+Les parties conviennent que ce qui suit est un exposé des faits sur lesquels la Cour pourra fonder sa décision, uniquement aux fins de la présente instance. Il sera loisible aux parties de mettre en preuve d’autres faits au procès, pour autant qu’ils ne contredisent pas ceux qui sont énoncés ci‑après. Dans la présente entente, « Loi » s’entend de la Loi de l’impôt sur le revenu.
+1. L’appelante est une société par actions constituée en vertu des lois de l’Alberta et résidant au Canada pour l’application de la Loi.
+2. TroCana Resources Inc. (« TRI »), 594159 Alberta Ltd. (« 594 »), 552792 Alberta Inc. (« 552 ») et 626360 Alberta Ltd. (« 626 ») sont toutes des sociétés par actions constituées en vertu des lois de l’Alberta, et Petro‑Canada Inc. (« Petro‑Canada ») est une société par actions constituée en vertu des lois du Canada.
+3. En date du 1er avril 1993, Petro‑Canada a transféré son intérêt dans certaines concessions pétrolières et gazières, y compris des établissements de production et de transmission connexes, situés principalement dans le nord‑est de la Colombie‑Britannique (les « actifs TroCana ») à TroCana Resources, une société de personnes composée de Petro‑Canada et TRI, une filiale à 100 % de Petro‑Canada (la « première société de personnes TroCana Resources »). La première société de personnes TroCana Resources a été dissoute le 30 novembre 1993, et un intérêt indivis de 97 % dans les actifs TroCana a été dévolu à Petro‑Canada tandis qu’un intérêt indivis de 3 % dans les actifs TroCana a été dévolu à TRI.
+4. 594 a été constituée en société par actions en Alberta le 4 janvier 1994. Les actionnaires de 594 étaient 552 (99 %) et Petro‑Canada (1 %).
+5. En date du 17 février 1994, Petro‑Canada a vendu son intérêt dans les actifs TroCana à 594 pour la somme de 155 050 000 $. En contrepartie, elle a reçu :
+Des actions privilégiées 10 000 000
+Un billet à ordre 15 200 000
+Une débenture de 1er rang 113 380 000
+Une débenture de 2e rang 18 000 000
+6. En date du 17 février 1994, Petro‑Canada a vendu ses actions de TRI à 552 pour la somme d’environ 14 750 000 $.
+7. TRI et 594 étaient copropriétaires des actifs TroCana, qui comprenaient des biens appelés les actifs Blueberry, TRI détenant une participation directe indivise de 3 %, et 594, une participation directe indivise de 97 %.
+Transfert des actifs à la société de personnes TroCana
+8. TRI et 594 ont formé la société de personnes TroCana Resources (la « société TroCana ») le 21 février 1994 en vertu d’un contrat visant à faire en sorte que la société détienne et exploite les actifs TroCana (« le contrat de société de TroCana »). Le contrat de société de TroCana est produit sous la cote 1, sous l’onglet 26.
+9. Le 21 février 1994, 594 a transféré son intérêt dans les actifs TroCana à la société TroCana en échange de 145 500 000 parts sociales. 594 et la société TroCana ont fait conjointement le choix de l’application du paragraphe 97(2) de la Loi au transfert, dans le cadre duquel le coût réputé des actifs corporels pétroliers et gaziers était de 14 425 313 $ et le coût réputé des avoirs miniers (concessions pétrolières et gazières) était nul.
+10. Toujours le 21 février 1994, TRI a transféré les actifs TroCana à la société TroCana en échange de 4 500 000 parts sociales. TRI et la société TroCana ont fait conjointement le choix de l’application du paragraphe 97(2) de la Loi au transfert, dans le cadre duquel le coût réputé des actifs corporels pétroliers et gaziers était de 413 555 $ et le coût réputé des avoirs miniers (concessions pétrolières et gazières) était nul.
+11. En date du 21 février 1994, 594 et TRI détenaient respectivement une participation de 97 % et de 3 % dans la société TroCana.
+Le contrat de société de TroCana
+12. L’article 3.5 du contrat de société de TroCana stipulait que tous les revenus, gains, pertes, déductions, récupérations et crédits de la société TroCana seraient répartis entre les associés selon les taux de partage énoncés à l’article 3.10 du contrat de société de TroCana.
+13. L’article 3.10 du contrat de société de TroCana prévoyait que les répartitions et attributions se feraient en proportion du nombre de parts que chaque associé possédait dans la société TroCana.
+14. L’article 3.15 du contrat de société de TroCana prévoyait que tous les produits de la disposition d’avoirs miniers canadiens (au sens de la Loi) que la société recevrait ou qui lui seraient dus, devaient être répartis entre les associés en proportion de leurs participations respectives dans la société.
+15. L’article 9 du contrat de société de TroCana portait sur le rachat de parts sociales. L’article 9.2 précisait la méthode d’attribution applicable au rachat de parts sociales et énonçait notamment :
+[traduction]
+« Le rachat et le transfert s’effectueront en conformité avec toute disposition de la Loi de l’impôt sur le revenu relative au report d’impôt qui est applicable à la date du transfert, et toutes les parties conviennent de collaborer à la prise de toutes les mesures et à la signature de tous les documents nécessaires à cette fin. Lors de l’attribution de biens désignés en vertu du présent article 9, le produit de la disposition, les revenus ou les pertes, les crédits et les dépenses que la société perçoit, qu’elle encourt, qui lui sont dévolus ou qu’elle engage, selon le cas, seront répartis conformément aux dispositions de l’article 3.17 du présent contrat. »
+16. L’article 3.17 du contrat de société de TroCana énonçait :
+[traduction]
+Lorsqu’un intérêt dans un ou plusieurs biens sociaux est attribué à un associé en vertu de l’article 9 du présent contrat :
+a) tout revenu (ou toute perte) réalisé, ou réputé réalisé, par suite de cette attribution par la société pour l’application de la Loi de l’impôt sur le revenu et, dans le cas d’avoirs miniers canadiens, tout produit de la disposition réputé avoir été reçu par la société, en rapport avec cette attribution, sont attribués à l’associé à qui cette attribution est faite, sous réserve de toute convention entre l’associé directeur général agissant pour le compte de la société et l’associé attributaire [...]
+Penn West Petroleum Ltd. acquiert des actions de TRI et de 594
+17. En date du 22 avril 1994, l’appelante a acquis les actions ordinaires de 594 et toutes les actions émises de TRI que possédait 552, au prix d’achat de 14 750 000 $, payable sous la forme de 1 000 000 $ en argent comptant et de l’émission de 2 500 000 actions ordinaires de la trésorerie de l’appelante à un prix de 5,50 $ par action. La convention d’achat d’actions entre l’appelante et 552 faisant état de cette transaction est produite à la pièce 1, sous l’onglet 28.
+18. Aux termes d’un contrat d’échange daté du 22 avril 1994, l’appelante a convenu d’échanger les 10 000 000 actions privilégiées de catégorie « A » de 594 que détenait Petro‑Canada contre 1 403 508 bons de souscription d’actions ordinaires de l’appelante à un prix de 7,125 $ pour chaque bon de souscription. De plus, l’appelante a convenu qu’une filiale à 100 % de Petro‑Canada, Chancellor Holdings Corporation (« Chancellor ») échangerait une débenture de 2e rang émise par 594 au montant initial de 18 000 000 $ contre 1 955 828 bons de souscription d’actions ordinaires de l’appelante à un prix de 7,125 $ pour chaque bon de souscription. Le contrat d’échange entre l’appelante, Petro‑Canada et Chancellor faisant état de cette transaction est produit sous la cote 1, sous l’onglet 31.
+19. Les conditions régissant l’acquisition par l’appelante de toutes les actions émises et en circulation de 594 et de TRI, y compris le paiement, au moyen de certains instruments d’emprunt, de certaines dettes que 594 avait envers Petro‑Canada et Chancellor, sont énoncées dans les dispositions de la « convention d’acquisition par Penn West » conclue entre l’appelante, Chancellor, Petro‑Canada, 552 et 398559 Alberta Ltd. en date du 22 avril 1994. La convention d’acquisition par Penn West est produite sous la cote 1, sous l’onglet 30.
+20. À la suite des transactions décrites aux paragraphes 17 à 19 ci‑dessus, l’appelante a acquis les actifs TroCana en acquérant TRI et 594, qui sont devenues des filiales à 100 % de l’appelante. Le coût d’acquisition pour l’appelante s’est élevé à environ 170 millions de dollars, une somme qu’elle a réunie grâce à un financement bancaire (100 millions de dollars) et au placement privé d’environ 10 475 000 actions ou bons de souscription à un prix de 7,125 $ par action ou par bon (environ 74 600 000 $). La Bourse de Toronto a approuvé les transactions et les financements de l’appelante ainsi qu’une inscription additionnelle d’au plus 13 475 000 de ses actions le 11 mai 1994. Une copie de la lettre de la Bourse de Toronto approuvant sous condition l’inscription d’au plus 13 525 000 actions ordinaires, datée du 11 mai 1994, et une lettre de Martin Lambert de Bennett Jones Verchere corrigeant le nombre de 13 525 000 pour y substituer 13 475 000, datée du 17 mai 1994, sont produites sous la cote 1, sous l’onglet 16.
+21. Suite à l’annonce par l’appelante de son intention d’acquérir les actifs TroCana en acquérant TRI et 594, la valeur des actions de l’appelante a grimpé de 50 %, passant de 5,50 $ à 8,25 $ par action. La valeur des actifs TroCana s’élevait, selon une évaluation indépendante, à environ 253 millions de dollars au moment où l’appelante a acquis la société TroCana. La lettre de Martin Lambert de Bennett Jones Verchere à la Bourse de Toronto, datée du 3 mai 1994, qui expose ces faits, est produite sous la cote 1, sous l’onglet 15.
+22. L’appelante a transféré tous ses avoirs pétroliers et gaziers (valant environ 85 millions de dollars) à la société TroCana, avec report d’impôt en vertu du paragraphe 97(2) de la Loi, en date du 1er juillet 1994. En échange, l’appelante a reçu les parts de la société TroCana ainsi que la juste valeur marchande des biens transférés. L’ajout de l’appelante comme associée et le changement de nom de la société TroCana pour « Penn West Petroleum Partnership » [la « société Penn West Petroleum »] sont constatés dans la 1re convention modificatrice de la société, datée du 1er juillet 1994, dont une copie est produite sous la cote 1, sous l’onglet 46.
+Constitution de 626 en société par actions
+23. 626 a été constituée en société par actions en Alberta, le 27 septembre 1994, à titre de filiale à 100 % de l’appelante. Pendant toutes les périodes pertinentes, l’appelante a détenu toutes les actions émises et en circulation de 626. À la suite de plusieurs transactions effectuées au cours de son exercice financier s’étant terminé le 31 janvier 1995, 626 est devenue l’unique actionnaire de 594.
+Liquidation de 594
+24. En date du 1er janvier 1995, 626 et 594 ont conclu une entente de distribution de l’actif et de prise en charge de dettes en vertu de laquelle 626 a acquis tous les actifs de 594 et a pris en charge toutes les dettes de 594. L’entente est produite sous la cote 1, sous l’onglet 33.
+25. En date du 1er janvier 1995, le contrat de société de TroCana a été modifié de manière à ce que 626 remplace 594 comme associée. Une copie de la 3e convention modificatrice de la société est produite sous la cote 1, sous l’onglet 46.
+26. Le 31 janvier 1995, 594 a été liquidée volontairement.
+Fusion de 626 et de l’appelante
+27. Le 31 janvier 1995, 626 et l’appelante ont fusionné en conformité avec le paragraphe 178(1) de la Business Corporations Act de l’Alberta.
+Accession de Phillips Petroleum Company Western Hemisphere (« Phillips ») à la société Penn West Petroleum
+28. Une partie des actifs TroCana, appelée les actifs Blueberry (les « actifs Blueberry »), était l’objet d’un droit de premier refus (« DPR ») en faveur de Phillips Petroleum Resources Ltd., Suncor Inc. (« Suncor ») et B.C. Star Partners (« B.C. Star »). Par lettres datées du 23 août 1994, Petro‑Canada a donné des avis au titre du DPR à Phillips, Suncor et B.C. Star concernant l’aliénation par Petro‑Canada, le 17 février 1994, de son intérêt indivis de 97 % dans les actifs Blueberry à 594 (collectivement les « avis au titre du DPR »).
+29. Les prix d’exercice des DPR énoncés dans les avis au titre du DPR peuvent se résumer comme suit :
+a. Dossier Petro‑Canada no 1502-01 16 250 000,00 $
+b. Dossier Petro‑Canada no 1502-01-06 1 928 000,00 $
+c. Dossier Petro‑Canada no 1502-01-07 250 000,00 $
+d. Dossier Petro‑Canada no 1502-01-15 115 000,00 $
+e. Dossier Petro‑Canada no B‑38 (Pipeline et actifs connexes) 1 988 000,00 $
+Prix d’exercice total des DPR : 20 531 000,00 $
+30. Les lettres de notification au titre du DPR concernant chacun des dossiers susmentionnés de Petro‑Canada sont produites sous la cote 1, sous les onglets 7 à 11.
+31. Par lettres datées du 7 septembre 1994, Suncor, Phillips et B.C. Star ont exprimé l’avis que les avis au titre du DPR du 23 août 1994 étaient invalides et que les prix d’exercice proposés ne traduisaient pas la véritable contrepartie reçue par Petro‑Canada pour les actifs Blueberry. Un échantillon représentatif des lettres du 7 septembre 1994 écrites par Suncor en son nom propre ainsi qu’au nom de Phillips et de B.C. Star. concernant les avis au titre du DPR est produit sous la cote 1, sous l’onglet 12.
+32. Petro‑Canada a retiré ses avis au titre du DPR concernant son dossier 1502‑01 et a émis de nouveaux avis au titre du DPR à Phillips, Suncor et B.C. Star dans une lettre datée du 14 octobre 1994. Cette lettre est produite sous la cote 1, sous l’onglet 13.
+33. Le 29 décembre 1994, l’appelante a envoyé une lettre à Phillips dans laquelle l’appelante offrait de vendre, à titre de mandataire de 626, des parts dans la société Penn West Petroleum à Phillips (la « lettre d’entente du 29 décembre 1994 »). Une copie de la lettre d’entente du 29 décembre 1994 est produite sous la cote 1, sous l’onglet 17.
+34. Le 30 janvier 1995, 626 a vendu 12 416 030 parts (les « parts ») dans la société Penn West Petroleum à Phillips au prix d’achat de 14 168 716 $. Les parts acquises par Phillips représentaient une participation de 5,27 % dans la société Penn West Petroleum. Une copie de la convention de vente de parts est produite sous la cote 1, sous l’onglet 37.
+35. Phillips a payé le prix d’achat en signant un billet à ordre au montant de 14 168 716 $ en faveur de 626. L’ajout de Phillips comme associée est constaté dans la 4e convention modificatrice de la société, datée du 30 janvier 1995. Une copie du billet à ordre est produite sous la cote 1, sous l’onglet 35, et la 4e convention modificatrice de la société est produite sous la cote 1, sous l’onglet 46.
+Rachat des parts sociales détenues par Phillips
+36. Le 17 février 1995, Phillips a envoyé à l’appelante (à titre d’associée directrice générale de la société Penn West Petroleum) un avis aux termes duquel Phillips choisissait de faire racheter ses parts par la société Penn West Petroleum. La date d’effet du rachat était précisée comme étant le 24 février 1995. Une copie de cet avis est produite sous la cote 1, sous l’onglet 40.
+37. Par traite bancaire datée du 24 février 1995, Phillips a payé 14 255 086,94 $ à 626 à titre de paiement complet de tous les montants dus en vertu du billet à ordre. Une copie de l’accusé de réception du paiement du billet à ordre est produite sous la cote 1, sous l’onglet 22.
+38. Le 24 février 1995, Phillips, la société Penn West Petroleum, l’appelante et TRI ont conclu une convention de distribution d’actifs sociaux en vertu de laquelle certains droits d’exploitation relatifs au pétrole et au gaz et certains biens corporels, en l’occurrence les actifs Blueberry, étaient transférés à Phillips en contrepartie des parts rachetées de Phillips dans la société Penn West Petroleum. Le retrait de Phillips de la société a été constaté dans la 5e convention modificatrice de la société, datée du 24 février 1995. Une copie de la convention de distribution d’actifs sociaux est produite sous la cote 1, sous l’onglet 41, et la 5e convention modificatrice de la société est produite sous la cote 1, sous l’onglet 46.
+39. Voici les valeurs respectives des différents avoirs transférés à Phillips :
+Droits d’exploitation – pétrole et gaz 12 751 844,40 $ Biens corporels 1 416 870,60 $
+Intérêts divers 1,00 $
+Total 14 168 716,00 $
+40. Le 24 février 1995, Phillips, la société Penn West Petroleum, l’appelante et TRI ont conclu une convention d’indemnisation. Une copie de la convention d’indemnisation est produite sous la cote 1, sous l’onglet 42.
+Déclarations fiscales produites par la société Penn West Petroleum (rachat des parts dans la société Penn West Petroleum)
+41. Conformément au contrat de société de Penn West Petroleum, Phillips s’est vue allouer 100 % du produit de la disposition des actifs Blueberry ainsi qu’une part proportionnelle des autres revenus et des frais relatifs à l’exploitation des ressources pour l’année financière de la société Penn West Petroleum se terminant le 31 janvier 1996.
+42. Dans ses états financiers relatifs à la période se terminant le 31 janvier 1995 (et dans les annexes complémentaires s’y rapportant), la société Penn West Petroleum a réparti les éléments et les montants pertinents aux fins de l’impôt sur le revenu dans les proportions suivantes :
+Phillips 5,27 %
+Penn West 92,82 %
+TroCana 1,91 %
+43. Dans ses états financiers relatifs à la période se terminant le 31 janvier 1996 (et dans les annexes complémentaires s’y rapportant), la société Penn West Petroleum a réparti les éléments et les montants pertinents aux fins de l’impôt sur le revenu dans les proportions suivantes :
+Penn West 85,96 %
+Northern Reef 12,37 % TroCana 1,67 %
+Phillips 0,00 %
+44. Dans ses états financiers relatifs à la période se terminant le 31 janvier 1996, la société Penn West Petroleum a réparti les frais à l’égard de biens canadiens relatifs au pétrole et au gaz (FBCPG) comme suit, en dollars :
+Penn West 40 678 528 $
+Northern Reef 5 853 809 $ TroCana 790 288 $
+Phillips (12 751 844) $
+Total 34 570 781 $
+45. Les parties conviennent qu’il n’y a pas de contestation relative aux calculs des montants et que les annexes « A » et « B » de la réponse rendent compte fidèlement de la manière dont le ministre a révisé les FBCPG de l’appelante et a réduit la déduction de l’appelante au titre des FBCPG.
+FAIT à Calgary (Alberta), le 29 janvier 2007
+Par : ___________(Signé par)________________
+Me Barry R. Crump / Me Heather DiGregorio
+Avocats de l’appelante
+Burnet, Duckworth & Palmer LLP
+Avocats
+First Canadian Centre, bureau 1400
+350, 7e avenue S.O.
+Calgary (Alberta) T2P 3N9
+Téléphone : 403‑260‑0352
+Télécopieur : 403‑260‑0332
+FAIT à Calgary (Alberta), le 29 janvier 2007
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Avocat de l’intimée
+Par : __________(Signé par)________________
+Me William L. Softley / Me John C. O’Callaghan
+Avocats de l’intimée
+Ministère de la Justice du Canada
+Bureau d’Edmonton, Région des Prairies
+Bank of Montreal Building, bureau 211
+10199, 101e rue
+Edmonton (Alberta) T5J 3Y4
+Téléphone : 780‑495‑8351/495‑4530
+Télécopieur : 780‑495‑3319
+RÉFÉRENCE :
+2007CCI190
+NOS DE DOSSIER DE LA COUR :
+2003‑3539(IT)G
+2003‑3541(IT)G
+INTITULÉ DE LA CAUSE :
+Penn West Petroleum Ltd.
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Calgary (Alberta)
+DATE DE L’AUDIENCE :
+Les 29, 30 et 31 janvier 2007
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge en chef D. G. H. Bowman
+DATE DU JUGEMENT :
+Le 11 avril 2007
+COMPARUTIONS :
+Avocats de l’appelante :
+Mes Barry R. Crump et
+Heather DiGregorio
+Avocats de l’intimée :
+Mes William L. Softley et
+John O’Callaghan
+AVOCAT(E)S INSCRIT(E)S AU DOSSIER :
+Pour l’appelante :
+Nom :
+Burnet, Duckworth & Palmer LL.P
+Cabinet :
+First Canadian Centre, bureau 1400
+350, 7e avenue S.O.
+Calgary (Alberta) T2P 3N9
+Pour l’intimée :
+John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L’admission selon laquelle Phillips a été une associée était évidemment bien fondée à la lumière de la décision de la Cour suprême dans Continental Bank Leasing Corporation v. The Queen, 98 DTC 6505. D’ailleurs, si Phillips n’avait pas été une associée, le paragraphe 103(1) n’aurait pas pu s’appliquer.

@@ -1,0 +1,114 @@
+Title: Fortin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28440/index.do
+Corpus path: corpus/cases/tcc/2006/2007-cci-98-28440-fortin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-11-07
+
+# Fortin c. La Reine
+
+- Citation: 2007 CCI 98
+- Decision date: 2006-11-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1187, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fortin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-11-07
+Référence neutre
+2007 CCI 98
+Numéro de dossier
+2004-4109(IT)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2007CCI98
+Date : 20070219
+Dossiers : 2004-4109(IT)G
+2004-4110(IT)G
+2004-4111(IT)G
+ENTRE :
+JEAN-LUC FORTIN,
+ROBERTE BOULANGER FORTIN,
+FRANÇOIS PROTEAU,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+(Prononcés oralement à l'audience le 7 novembre 2006
+à Sherbrooke (Québec) et modifiés pour plus de clarté et de précision.)
+Le juge Archambault
+[1] Messieurs Jean‑Luc Fortin et François Proteau ainsi que madame Roberte Boulanger Fortin ont fait l'objet de cotisations établies par le ministre du Revenu national (ministre) en vertu de l'article 227.1 de la Loi de l'impôt sur le revenu (Loi) et l'article 83 de la Loi sur l'assurance‑emploi. Ils ont été tenus solidairement responsables des retenues à la source (RAS) que différentes sociétés (Groupe St‑Romain) dans lesquelles monsieur Fortin détenait des intérêts n'ont pas remises au ministre. Les sociétés du Groupe St‑Romain dont monsieur Fortin était administrateur sont : 9025‑0481 Québec Inc., Confection St‑Romain (1983) Inc. (Confection SR) et Confection Thetford Inc. (Confection TD). Monsieur François Proteau était administrateur de Confection SR. Quant à madame Boulanger Fortin, elle était administratrice de 92113 Canada Ltée (92113).
+[2] Dans les avis d'appel des appelants, plusieurs motifs ont été invoqués pour attaquer les cotisations du ministre. Au début de l'audience, leur procureur a indiqué à la Cour que le seul moyen de défense qu'il retenait était celui prévu au paragraphe 227.1(3) de la Loi, à savoir que ses clients avaient agi avec le degré de soin, de diligence et d'habileté pour prévenir le manquement qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[3] Il est à noter que ni monsieur Proteau ni madame Boulanger Fortin ne se sont présentés devant la Cour pour témoigner; ils ont comparu par l'intermédiaire de leur procureur, qui représentait également monsieur Fortin. Seulement ce dernier et sa fille, Claudia Fortin, ont témoigné. Madame Fortin était impliquée dans l'administration du Groupe St‑Romain, notamment relativement au paiement des factures et des salaires et à la perception des comptes de tiers débiteurs.
+[4] Il faut noter également que les représentants de la Banque Nationale du Canada qui ont offert un financement au Groupe St‑Romain et qui ont participé à son redressement n'ont pas témoigné, nonobstant le fait que des subpoenas leur avaient été signifiés. Toutefois, ces subpoenas n'avaient pas été signifiés dans les délais prescrits par les règles de la Cour. Un des représentants en question, dont le témoignage aurait été important, n'a pas reçu de subpoena puisqu'il avait pris sa retraite de la banque.
+[5] La preuve documentaire provenant de la banque a révélé qu'elle avait mis à la disposition du Groupe St‑Romain un financement de 1 M$ pour ses besoins courants d'exploitation et pour l'acquisition de nouvel équipement (pièce A‑1, lettre du 7 décembre 2001).
+[6] La preuve est plutôt incomplète en ce qui a trait aux événements survenus entre le 7 décembre 2001 et le 8 juillet 2002. Selon monsieur Fortin, il s'attendait à obtenir le financement offert pour lui permettre de faire l'acquisition d'équipement dont le coût était estimé à 150 000 $. Il avait même obtenu l'autorisation verbale de la banque de commander et de se faire livrer une partie de cet équipement, dont le coût s'élevait à 65 000 $.
+[7] Le 8 juillet 2002, monsieur Fortin apprend que certains chèques du Groupe St‑Romain ne sont plus honorés par la banque et que monsieur Lapointe, la personne responsable du compte, a été remplacé par un monsieur Gérard Gagner, un agent de réalisation des actifs. Quelques jours plus tard, soit le 12 juillet 2002, monsieur Gagner informe par lettre le Groupe St‑Romain au sujet des nouvelles modalités applicables aux prêts consentis par la Banque Nationale (pièce A‑7). Le paragraphe 1 de cette lettre stipule que le montant maximum autorisé en vertu de la marge de crédit « ne doit pas excéder 275 000 $ en plus de respecter les conditions de margination applicables, c'est-à-dire 75 % des comptes à recevoir admissibles. L'Emprunteur doit déployer ses meilleurs efforts afin que dans les prochains jours, l'excédent d'utilisation de 202 371 $ [...] soit remboursé afin de ramener et de maintenir les utilisations à l'intérieur du maximum autorisé ».
+[8] La preuve n'a pas révélé non plus ce qui avait pu amener l'agent de réalisation à déclarer que, si monsieur Fortin n'avait pas appelé le 7 juillet 2002, il aurait procédé à la liquidation des actifs du Groupe St‑Romain. Ce que la Cour doit inférer de la lettre du 12 juillet 2002, c'est que la marge de crédit dépassait largement ce que la banque avait consenti à avancer et que, de façon évidente, celle‑ci était, sinon paniquée, au moins très inquiète du recouvrement de ses prêts. La lettre du 12 juillet 2002 mentionne également que tous les chèques que le Groupe St‑Romain entendait mettre en circulation devaient être au préalable approuvés par la banque. À cette fin, une liste détaillée des chèques devait être transmise à la banque au moins 24 heures à l'avance pour obtenir son approbation écrite. Il est stipulé au paragraphe 3 de la lettre « qu'il ne doit y avoir aucun traitement préférentiel des créanciers de l'Emprunteur ».
+[9] Lors de leur témoignage, monsieur Fortin et madame Claudia Fortin ont dit que — contrairement à ce qui est indiqué dans la lettre du 12 juillet 2002 —monsieur Gagner les avait informés qu'il n'était pas question de payer l'arriéré de RAS et que, par conséquent, d'autres créanciers devaient être payés en priorité. L'analyse de la pièce A‑10 révèle que madame Claudia Fortin a été en contact avec monsieur Gagner ou un de ses collègues à compter du 12 juillet 2002 pour obtenir l'autorisation d'émettre les chèques nécessaires pour payer les créanciers du Groupe St‑Romain. Il ressort clairement de l'analyse de cette pièce qu'avant le mois de septembre 2002 les créanciers autres que les autorités fiscales étaient payés en priorité.
+[10] Monsieur Fortin a reconnu qu'il fallait privilégier certains créanciers, soit ceux dont les produits ou services étaient absolument essentiels à la continuation de l'exploitation de l'entreprise du Groupe St‑Romain. Madame Fortin a corroboré le témoignage de son père. Lorsqu'elle dressait sa liste des gens à être payés en priorité, elle inscrivait les « fournisseurs qui sont plus criants que d'autres »[1]. Il va de soi, comme l'a reconnu madame Fortin, qu'elle avait intérêt à payer les créanciers qui communiquaient régulièrement avec le Groupe St‑Romain et que, durant cette période, le ministre ne faisait pas partie de cette catégorie. Au contraire, il ne se manifestait pas.
+[11] Monsieur Fortin a décrit, lors de son témoignage, quelles démarches il avait entreprises pour prévenir le manquement du Groupe St‑Romain à ses obligations de remettre les RAS. Il a déclaré que c'est sa fille, Claudia, qui déterminait quels créanciers devaient être payés et qu'elle savait ce qui devait être fait. Tous les deux savaient également que les administrateurs du Groupe St‑Romain pouvaient être tenus solidairement responsables si ce groupe ne remettait pas les RAS aux autorités fiscales. Par contre, la preuve ne révèle pas quelles mesures précises ont été prises pour éviter le manquement à l'obligation de remettre les RAS. Selon monsieur Fortin, le banquier n'avait pas permis le paiement des salaires ou des paies de vacances des employés cadres du Groupe St‑Romain et il avait dû emprunter à sa fille et à deux de ses belles-soeurs pour s'acquitter de l'obligation de les payer.
+[12] Jusqu'à l'époque où monsieur Fortin a obtenu pour le Groupe St‑Romain une garantie financière de 100 000 $ du Groupe Ranger, les RAS n'ont pas été versées aux autorités fiscales. Le Groupe Ranger, qui désirait donner une partie de sa production en sous‑traitance au Groupe St‑Romain, utilisait le même banquier que celui du Groupe St‑Romain. Grâce à la garantie du Groupe Ranger, le Groupe St‑Romain a pu effectuer des versements aux autorités fiscales à partir du mois de septembre 2002, comme on le constate à la télécopie du 23 septembre 2002[2].
+Position des appelants
+[13] Pour établir que les appelants ont agi avec le degré de soin et de diligence requis, le procureur des appelants a soutenu que la Banque Nationale avait pris le contrôle effectif des opérations du Groupe St‑Romain et que les appelants, en tant qu'administrateurs de ce groupe, n'étaient plus en mesure d'exercer leur contrôle sur les opérations du groupe. Compte tenu du rôle prépondérant de la banque, ils avaient fait tout ce qu'ils pouvaient dans les circonstances pour voir au versement des RAS.
+Analyse
+[14] Au paragraphe 26 de la décision de la Cour d'appel fédérale dans Canada (Procureur général) c. McKinnon, [2001] 2 C.F. 203, [2001] 1 C.T.C. 79 et [2000] G.S.T.C. 91, on cite les propos du juge Robertson dans l'affaire Soper c. Canada, [1998] 1 C.F. 124 au paragraphe 11, où il décrit la raison d'être de l'article 227.1 :
+[...] Pendant la récession, il n'était pas rare non plus que des sociétés omettent de verser des retenues d'impôt faites au nom d'un tiers. Face à l'alternative de verser ces montants à la Couronne ou de les prendre pour rembourser d'importants créanciers dont les biens ou les services étaient nécessaires pour continuer d'exploiter l'entreprise, les administrateurs ont souvent choisi la deuxième voie. Cet abus et cette mauvaise gestion manifestes de la part des administrateurs constituaient la "situation irrégulière" que l'article 227.1 visait à corriger. [...]
+[Je souligne.]
+[15] Si on étudie l'ensemble de la jurisprudence relative à l'article 227.1 de la Loi, on constate, de façon générale, que les tribunaux ont conclu à son application quand un contribuable avait de bonne foi tenté de sauver une entreprise en privilégiant certains créanciers plutôt que de remettre aux autorités fiscales les RAS ou les taxes perçues. Je crois que l'article 227.1 vise effectivement le genre de situation dans laquelle les administrateurs décident de verser des salaires à des salariés qu'ils jugent essentiels à l'exploitation de l'entreprise, mais n'en versent que la fraction due à ces salariés omettant de remettre aux autorités fiscales la fraction représentée par les RAS. On se trouve ainsi à « emprunter » au fisc une somme équivalant aux RAS pour payer d'autres créanciers de l'entreprise. Lorsque des administrateurs ont autorisé une telle conduite ou n'ont pas pris les mesures nécessaires pour l'empêcher — malgré qu'ils aient agi de bonne foi pour sauver une entreprise et le travail d'un grand nombre de salariés — et que cette démarche a échoué, on doit, malheureusement pour les administrateurs, appliquer le paragraphe 227.1(1) de la Loi et les tenir responsables de cet « emprunt ».
+[16] Il est clair que la Loi ne vise pas à rendre tous les administrateurs responsables des RAS qui n'ont pas été remises par la société pour laquelle ils agissent. Si un administrateur a agi avec un degré de diligence suffisant pour éviter le manquement à l'obligation de remettre les RAS, il pourra éviter l'application du paragraphe 227.1(1) de la Loi. Par exemple, un administrateur externe qui se serait enquis des mesures raisonnables mises en place pour verser les RAS et à qui on aurait affirmé qu'on avait vu à tout — alors que dans les faits tel n'était pas le cas — ne serait pas tenu responsable des RAS.
+[17] En outre, dans les cas où un tiers prend le contrôle des opérations de l'entreprise et que les administrateurs cessent d'avoir le contrôle effectif de ces opérations, il est bien évident que l'on ne saurait tenir un administrateur responsable du défaut subséquent de l'entreprise de remettre les RAS, puisqu'il n'est plus en mesure d'influencer la conduite de l'entreprise fautive.
+[18] Ici, j'en viens à la conclusion que la défense du paragraphe 227.1(3) n'a pas été établie de façon convaincante, et cela pour plusieurs motifs. Le premier est qu'on n'a pas établi que la Banque Nationale avait pris le contrôle des opérations du Groupe St‑Romain et qu'elle seule était en mesure de décider qui devait être payé ou pas. La preuve n'établit même pas que la banque avait le droit de prendre possession des actifs du groupe. Les actes de garantie de la Banque Nationale n'ont pas été mis en preuve. La Cour n'est pas en mesure de déterminer non plus quels droits la banque pouvait exercer. Tout ce que la banque a fait a été d'informer monsieur Jean‑Luc Fortin qu'elle s'apprêtait à demander la liquidation du groupe et qu'elle l'aurait fait si monsieur Fortin n'avait pas communiqué avec elle le 7 juillet 2002.
+[19] Tel que l'a soutenu la procureure de l'intimée, la preuve n'est pas suffisante pour indiquer qu'il y avait eu perte de contrôle effective des administrateurs sur les opérations du Groupe St‑Romain. La Cour est également déconcertée par les témoignages de monsieur Fortin et de sa fille selon lesquels la banque avait adopté une conduite contraire à celle qui est indiquée au paragraphe 3 de la lettre du 12 juillet 2002. Dans cette lettre, on stipulait qu'il ne devait pas y avoir de traitement préférentiel de créanciers. Il n'est pas impossible que la banque ne se soit pas conformée à sa propre directive. Par contre, il aurait été certainement utile, sinon nécessaire, de faire corroborer les témoignages des Fortin par ceux des représentants de la banque, en particulier monsieur Gagner, pour contredire cet écrit.
+[20] Toutefois, je m'empresse d'ajouter que, même si on avait fait cette preuve, j'aurais eu de la difficulté à distinguer la conduite d'un créancier comme la banque, qui désire que le recouvrement de tous ses prêts ait priorité sur la remise des RAS et qui exerce à cette fin des pressions énormes sur son débiteur, et celle d'un autre créancier important du Groupe St‑Romain, qui fournit notamment tous les tissus nécessaires pour la fabrication des vêtements de confection. Dans les deux cas, la pression du créancier influe sur le comportement du débiteur pour qu'il le privilégie au détriment des autorités fiscales. Dans ces circonstances, il y a une espèce de contrôle factuel de ces créanciers sur la conduite du débiteur en difficulté financière. Par contre, la situation aurait été tout autre si la banque avait pris le contrôle légal des opérations, notamment en nommant un séquestre.
+[21] Je ne vois pas pourquoi il faudrait conclure que, si le fournisseur de matériaux de base exerçait une telle influence, on pourrait conclure à la responsabilité des administrateurs, alors qu'on ne le pourrait pas si c'était la banque qui exerçait une influence pour se faire rembourser ses prêts avant la remise des RAS.
+[22] À mon avis, cela irait à l'encontre de l'intention qu'a eue le législateur en ajoutant l'article 227.1 à la Loi, à savoir celle de protéger les autorités fiscales lorsque des administrateurs, comme monsieur Fortin, laissent une entreprise utiliser des sommes qui appartiennent aux autorités fiscales pour privilégier d'autres créanciers de l'entreprise.
+[23] Je n'ai aucun doute que monsieur Fortin a agi de bonne foi. Il a agi comme n'importe quel autre homme d'affaires qui a bâti son entreprise à bout de bras. Il a contribué à créer 250 emplois qui ont permis à des hommes et des femmes de subvenir aux besoins de leur famille. Je ne crois pas que la Loi oblige nécessairement les contribuables à faire faillite, mais c'était certainement une des façons possibles d'éviter la responsabilité des appelants. Si un administrateur qui a investi des sommes importantes dans son entreprise, comme l'a fait monsieur Fortin, prend le risque d'emprunter l'argent du fisc pour financer cette entreprise dans l'espoir de rétablir la situation de celle‑ci et que, malheureusement, il échoue, la Cour n'a pas d'autre choix que d'appliquer la Loi. Cela m'attriste que monsieur Fortin ait perdu des sommes colossales dans le Groupe St‑Romain et qu'il soit maintenant tenu responsable pour les RAS, mais tel est le régime légal dans lequel les entreprises fonctionnent au Canada.
+[24] En ce qui a trait à madame Fortin, la preuve a révélé que cette dernière était l'épouse de monsieur Fortin. Quoiqu'elle fût administratrice de 92113, elle ne s'est pas impliquée dans l'administration de cette société. Son travail consistait à contrôler la qualité de la production dans les ateliers de l'entreprise. Malheureusement, la preuve n'a pas révélé si madame Fortin avait pris quelque mesure que ce soit pour éviter le manquement de 92113 à son obligation de remettre les RAS.
+[25] À la page trois de son avis d'appel « amendé », le procureur de monsieur Proteau affirme :
+L'appelant a cédé depuis plusieurs années les intérêts qu'il détenait dans la compagnie précédemment nommée au bénéfice de monsieur Jean‑Luc Fortin et/ou de compagnies contrôlées par ce dernier.
+De façon concomitante à la cession décrite au paragraphe précédent, l'appelant a démissionné de son poste d'administrateur.
+Monsieur Proteau ne s'est pas présenté personnellement en Cour et la preuve produite à l'audience n'a pas démoli l'hypothèse de fait formulée par l'intimée, selon laquelle monsieur Proteau était administrateur de Confection SR. Il semble plutôt que monsieur Proteau a omis de démissionner; or, la démission aurait pu le décharger de toute responsabilité.
+[26] D'un point de vue juridique, monsieur Proteau était toujours administrateur de Confection SR et, par conséquent, avait lui aussi une obligation, même après la prétendue vente de ses intérêts, d'agir avec un degré de diligence pour prévenir le manquement à l'obligation de remettre les RAS au ministre. Comme la preuve est insuffisante quant aux démarches qu'il a entreprises en ce sens, je n'ai pas d'autre choix que de conclure qu'il n'a pas réussi, lui non plus, à démontrer que la cotisation du ministre était mal fondée.
+[27] Pour tous ces motifs, les appels des trois appelants sont rejetés. Par compassion, étant donné la situation dans laquelle se trouvent les appelants, je n'accorderai pas de dépens en faveur du ministre.
+Signé à Ottawa, Canada, ce 19e jour de février 2007.
+« Pierre Archambault »
+Juge Archambault
+RÉFÉRENCE : 2007CCI98
+Nos DES DOSSIERS DE LA COUR : 2004-4109(IT)G, 2004-4110(IT)G et 2004-4111(IT)G
+INTITULÉS DES CAUSES : JEAN-LUC FORTIN c. LA REINE
+ROBERTE BOULANGER FORTIN c. LA REINE et
+FRANÇOIS PROTEAU c. LA REINE
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : le 7 novembre 2006
+MOTIFS DU JUGEMENT PAR : L'hon. juge Pierre Archambault
+DATE DU JUGEMENT : le 16 novembre 2006
+DÉCISION RENDUE ORALEMENT :
+le 7 novembre 2006
+MOTIFS DU JUGEMENT :
+le 19 février 2007
+COMPARUTIONS :
+Avocat des appelants :
+Me Robert Jodoin
+Avocate de l'intimée:
+Me Natalie Goulard
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelants :
+Nom : Me Robert Jodoin
+Cabinet : Jodoin Huppé, S.E.N.C.
+Granby (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir notamment la télécopie du 28 août 2002, à la pièce A‑10.
+[2] Pièce A‑10. Cela ressort également de plusieurs autres télécopies, soit celles du 30 septembre 2002, du 10 octobre 2002, du 11 octobre 2002, du 15 octobre 2002, du 31 octobre 2002 et du 12 novembre 2002.

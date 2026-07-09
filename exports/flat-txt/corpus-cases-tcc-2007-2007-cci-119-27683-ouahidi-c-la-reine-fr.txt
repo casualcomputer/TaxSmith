@@ -1,0 +1,131 @@
+Title: Ouahidi c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27683/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-119-27683-ouahidi-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-03-22
+
+# Ouahidi c. La Reine
+
+- Citation: 2007 CCI 119
+- Decision date: 2007-03-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 503, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouahidi c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-03-22
+Référence neutre
+2007 CCI 119
+Numéro de dossier
+2006-2222(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-2222(GST)I
+ENTRE :
+ESTHER OUAHIDI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 16 janvier 2007, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Avocat de l'appelante :
+Me Pierre Gonthier
+Avocat de l'intimée :
+Me Denis Émond
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation en vertu du paragraphe 323(1) de la Loi sur la taxe d'accise, portant le numéro LO 04 0494 émise en date du 4 juin 2004 à l’endroit de l’appelante, relativement à la période du 31 juillet 1998 au 31 janvier 2004 au montant de 2 407 359,16 $, est accueilli avec dépens, à l’exclusion des frais d’expertise, et la cotisation est annulée, selon les motifs du jugement ci‑joints.
+Signé à Montréal, Québec, ce 22e jour de mars 2007.
+« Réal Favreau »
+Juge Favreau
+Référence : 2007CCI119
+Date : 200703222
+Dossier : 2006-2222(GST)I
+ENTRE :
+ESTHER OUAHIDI,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Pour la période de remise du 31 juillet 1998 au 31 janvier 2004 (la « période visée »), Climatisation G.R. inc. (« G.R. »), une société constituée le 30 janvier 1995 en vertu de la partie 1A de la Loi sur les compagnies (L.R.Q. c. C‑38), a fait défaut de verser au ministre du Revenu du Québec (le « ministre ») une taxe nette s’élevant à 1 479 560,97 $ comme l’exige le paragraphe 228(1) de la Loi sur la taxe d’accise (la « Loi »). G.R. s’est également vu imposer des intérêts de 205 995,42 $ et des pénalités de 721 802,77 $. Le 3 juin 2004 ou vers cette date, G.R. a effectué une cession de ses biens en vertu de la Loi sur la faillite et l’insolvabilité, et la preuve de la créance de la Couronne, en ce qui concerne la taxe nette, les intérêts et les pénalités, a été faite.
+[2] Pendant la partie de la période visée débutant le 31 juillet 1998 et se terminant le 31 décembre 2000, l’appelante était à l’emploi de G.R. et s’occupait des activités de télémarketing de la société pour la vente et l’installation de thermopompes et pour la vente de contrats d’entretien de longue durée et était habilitée à signer les chèques de la société avec son ex-conjoint, Ralph Abergel, alors seul administrateur et seul actionnaire de G.R.
+[3] Pendant la partie de la période visée débutant le 1er janvier 2001 et se terminant le 31 janvier 2004, l’appelante était administratrice et vice-présidente de G.R. et était actionnaire de G.R. suite à l’acquisition en date du 1er janvier 2001 de 5 000 actions de catégorie A de G.R. alors détenues par Ralph Abergel, soit 50 % des actions émises et en cours, pour un montant de 5 000 $.
+[4] Le 1er juin 2004, l’appelante a démissionné à titre d’administratrice de G.R., laquelle démission devant prendre effet à compter du 15 décembre 2003, tel qu’il appert de la lettre de démission, de la résolution du conseil d’administration de G.R. lui donnant effet, et du Règlement général de G.R. Le 1er juin 2004, Ralph Abergel a signé une déclaration modificative au Registraire des entreprises du Québec visant à retirer l’appelante à titre d’administratrice et vice-présidente de la déclaration annuelle de 2003 de G.R.
+[5] Le ministre a établi une cotisation à l’égard de l’appelante en vertu du paragraphe 323(1) de la Loi au moyen d’un avis de cotisation daté du 4 juin 2004 lui réclamant la somme de 2 407 359,16 $. L’appelante interjette appel à l’encontre de la cotisation au motif qu’elle a agi avec autant de soin, de diligence et de compétence, pour prévenir le défaut de G.R. de verser la taxe, que l’aurait fait une personne raisonnablement prudente dans ces mêmes circonstances, comme l’exige le paragraphe 323(3) de la Loi.
+[6] L’appelante soutient qu’elle n’est pas responsable du défaut de G.R. de verser la taxe, puisque, entre autres choses, elle n’était qu’une administratrice à titre nominal ou passif de G.R., elle ne participait pas aux décisions administratives de la société, elle ne connaissait pas la situation financière réelle de la société et elle a elle-même été victime de fraude de la part de son ex‑conjoint. L’appelante soutient qu’elle a fait preuve de la diligence requise par le paragraphe 323(3) de la Loi pour prévenir le défaut de G.R. de verser la taxe en réinvestissant une partie importante de son revenu tiré de G.R. pour maintenir l’entreprise en opérations.
+[7] L’appelante n’est pas une femme d’affaires aguerrie. Elle a entrepris un baccalauréat en psychologie à l’Université de Montréal qu’elle n’a pas terminé. Avant de se joindre à G.R., elle a été serveuse dans un restaurant et elle a appris le télémarketing chez Brouillard Lepage Inc., une société dont toutes les actions étaient, à l’origine, la propriété de Ralph Abergel et de l’appelante à parts égales.
+[8] L’appelante est devenue la conjointe de fait de Ralph Abergel en 1989 et s’est mariée avec ce dernier le 19 décembre 1998 sous le régime de la société d’acquêts. Aucun enfant n’est issu de ce mariage. L'appelante et Ralph Abergel se sont séparés en janvier 2004 et se sont divorcés par la suite.
+[9] La gestion de G.R. était, depuis sa création, le ou vers le 30 janvier 1995, sous le contrôle exclusif de Ralph Abergel, qui en tout temps, en faisait la gestion quotidienne alors que l’appelante s’occupait du département de télémarketing. En tant que directrice du département de télémarketing, l’appelante travaillait le soir alors que Ralph Abergel dirigeait les affaires de G.R. durant le jour. L’appelante recevait pour ses services un salaire de base et une commission sur les ventes.
+[10] Pendant la période visée, la société G.R. était bien structurée et comptait plusieurs départements, soit un département de télémarketing, un département des ventes, un département de services pour les installations et l’entretien, un département de comptabilité et un département d’informatique. Tous les chefs de départements relevaient directement de Ralph Abergel. L’appelante s’occupait de l’embauche du personnel de sollicitation et interagissait avec les vendeurs et installateurs. L’appelante ne s’occupait d’aucun autre aspect de la gestion de l’entreprise. Elle ne s’occupait pas de la comptabilité de l’entreprise et n’était pas impliquée dans la préparation des états financiers, des déclarations de revenus et des rapports de taxes. Pour tous les aspects administratifs de l’entreprise, l’appelante s’en remettait entièrement à Ralph Abergel en qui elle avait une confiance aveugle.
+[11] Selon les témoignages obtenus, il appert que Ralph Abergel était un très bon vendeur, qu’il avait une personnalité très agréable, qu’il était manipulateur en ce sens qu’il savait comment obtenir des choses et qu'il avait l’estime de ses employés qu’il traitait bien.
+[12] Peu d’explications ont été fournies sur les raisons pour lesquelles, le 1er janvier 2001, l’appelante a accepté de devenir administratrice et actionnaire de G.R. À la lumière des documents de crédit de la Banque nationale du Canada, signés par l'appelante en février 2001, produits en liasse (pièce I-5), on peut croire qu’il s’agissait-là d’une exigence de la banque pour l’octroi d’un crédit d’exploitation à G.R. jusqu’à concurrence de 1 100 000 $. L’appelante a d’ailleurs dû fournir avec Ralph Abergel un cautionnement de 400 000 $ pour garantir les obligations de G.R. auprès de la banque, lequel cautionnement était sécurisé par des garanties sur des dépôts et par une hypothèque sur un placement CGP indiciel auprès de la société de fiducie Natcan inc.
+[13] La prise de participation de l’appelante dans G.R. en janvier 2001 à la hauteur de 50 % du capital-actions émis et en cours semble être conforme à la façon d’opérer de l’appelante et de Ralph Abergel. En effet dans l’entente de règlement du divorce intervenue le 14 novembre 2006 entre l’appelante et Ralph Abergel, produite à l’onglet 6 de la pièce A-1, on constate que :
+a) l’appelante a détenu à l’origine une participation de 50 % dans le capital-actions émis et en cours de la société Estéral Inc., l’autre 50 % appartenant à Ralph Abergel;
+b) l’appelante a détenu à l’origine une participation de 50 % dans le capital-actions émis et en cours de la société Brouillard Lepage Inc., l’autre 50 % appartenant à Ralph Abergel;
+c) l’appelante a, le 25 septembre 2005, acquis avec Ralph Abergel, en copropriété 50/50 trois lots vacants situés dans la ville de Longueuil et connus sous les numéros de lots 2588664, 2588665 et 2588666, cadastre du Québec, circonscription foncière de Chambly, (les « Propriétés du Cerf »);
+d) l’appelante a également acquis en copropriété avec Ralph Abergel sur la base de 50/50 un immeuble commercial situé au 2220, boul. Marie‑Victorin à Longueuil;
+e) le 28 juillet 1998, Ralph Abergel a octroyé à l’appelante une hypothèque de second rang sur un immeuble commercial situé au 2174, boul. Marie‑Victorin à Longueuil.
+[14] Dans l’avis d’appel, l’appelante allègue avoir réinvesti dans G.R. sous forme d’avances ou de remboursement de dettes une partie importante des sommes que G.R. lui versait pour ses services, compte tenu du manque de liquidités de G.R., le tout sur les insistances de Ralph Abergel. Dans l’affidavit que l’appelante a produit le 7 mai 2004 au soutien de sa réquisition d’un bref de saisie avant jugement en mains tierces, produit sous la cote I-1, l’appelante allègue que Ralph Abergel l’a incité à investir des sommes considérables dans G.R. à même ses épargnes personnelles, alors qu’elle ne savait pas à quel point G.R. était en difficulté, qu’elle a évalué à 2 700 000 $ entre les années 2001 et 2003, pour garder les employés et assurer la survie de la société.
+[15] Vers la fin de l’année 2002, l’appelante a appris de sa femme de ménage que Ralph Abergel, son mari, avait une relation extra‑conjugale, et ce, depuis l’année 2000. L’appelante a alors engagé les services d’enquêteurs et de détectives privés afin de faire la lumière sur les activités professionnelles et personnelles de Ralph Abergel.
+[16] Suite aux rapports d’enquête et aux informations obtenues auprès d’employés de G.R., l’appelante a notamment découvert ce qui suit :
+a) que des sommes d'argent importantes appartenant à G.R. manquaient et que le responsable était Ralph Abergel suite à des détournements de fonds pour ses fins personnelles;
+b) qu’un stratagème savamment orchestré avait été mis sur pied par Ralph Abergel depuis l’année 2000 et que G.R. avait été frauduleusement administré par Ralph Abergel;
+c) que Ralph Abergel avait, à plusieurs reprises, forgé les signatures de l’appelante sur les chèques de G.R. aux endroits où la signature de deux administrateurs était requise, ce qui lui a permis de tirer des chèques sur le compte de banque de G.R. notamment, pour son bénéfice personnel. Un rapport d'expert montrant les fausses signatures a d’ailleurs été produit sous la cote A-2;
+d) que Ralph Abergel versait des salaires faramineux, des sommes d’argent comptant non-déclarées et donnait des « cadeaux luxueux » à certains employés-clés de G.R. afin d’acheter leur collaboration et leur silence à l’égard de l’appelante quant à ses agissements frauduleux. Alertée par ces faits, l’appelante a remarqué que lorsqu’elle demandait des informations aux employés de G.R., ceux‑ci lui répondaient souvent qu’ils n’étaient pas autorisés à fournir telle ou telle information sans avoir préalablement obtenu l’autorisation de Ralph Abergel.
+[17] Il a été établi en preuve que le stratagème consistait à faire encaisser les chèques payables comptant ou au porteur remis par les clients de G.R. lors de l’achat de produits ou services offerts par G.R. par des employés ou ex-employés de G.R. qui remettaient l’argent à Ralph Abergel ou qui le déposaient dans des comptes de banque désignés par Ralph Abergel.
+[18] L’appelante a démontré que Ralph Abergel avait détourné les fonds de G.R. pour notamment acquérir une résidence pour personnes âgées, le Manoir Laval, un condominium à Brossard pour sa concubine et une voiture de marque Porsche qu’il utilisait.
+[19] Dans la requête introductive d’instance que l’appelante a produite le 27 juillet 2004 que l’on retrouve à l’onglet 5 de la pièce produite sous la cote A-1, il est mentionné au paragraphe 47 ce qui suit :
+De plus, dans la « requête pour permission d’une Ordonnance de séquestre », pièce R-8 qui sera produite lors de l’audition, le sous-ministre du Revenu du Québec, à ses 10e et 11e paragraphes qui sont reproduits ci-bas, expose et soumet qu’en effet le défendeur, M. Abergel, dans les faits, gère Climatisation G.R. et que les activités comptables de ce dernier étaient connues seulement par Ralph Abergel et son comptable externe, monsieur Haïm :
+10. La débitrice opère à partir de trois systèmes de comptabilité différents sans relation les uns avec les autres de sorte qu’elle peut ainsi créer une confusion qui empêche ceux qui sont chargés d’en assurer la gestion quotidienne de connaître la teneur des opérations réelles, de les contrôler et d’en rendre compte avec précision. Il n’y a d’ailleurs aucun contrôleur interne chez la débitrice.
+11. Cette façon de faire permet à ceux qui contrôlent véritablement la débitrice, notamment monsieur Ralph Abergel, qui dans les faits gère, avec son comptable externe, monsieur Haïm Pinto, les activités comptables de la débitrice, d’être les seuls à connaître les opérations réelles. Ils font alors en sorte que la débitrice présente au requérant une réalité différente de ce qui se passe réellement dans l’entreprise.
+[20] Dans l’affidavit auquel il est fait référence au paragraphe 14 ci‑dessus, l’appelante allègue que Ralph Abergel répandait des rumeurs à l’effet qu’elle était folle et qu’elle ne savait pas ce qu’elle faisait dans l’administration de G.R., et ce, devant les banquiers et employés de G.R. afin de miner sa crédibilité et de la ridiculiser.
+[21] À la fin de l’année 2002, les relations entre l’appelante et Ralph Abergel étaient passablement orageuses et suite à une altercation dans les bureaux de G.R., la police est intervenue et Ralph Abergel a alors été expulsé. À compter de cette date, il a continué d’opérer les activités de G.R. à partir de sa résidence. L’appelante a tenté de gérer G.R. et a fait confiance aux employés. Comme elle n’avait pas suffisamment d’expérience, les employés ont continué de se rapporter à Ralph Abergel de sorte qu’il exerçait toujours son influence sur la gestion de l’entreprise même s’il n’était plus présent dans les bureaux de la société.
+[22] L’appelante a vécu séparée de Ralph Abergel depuis octobre 2002, mais a repris la vie commune le ou vers le 15 septembre 2003 suite aux promesses de Ralph Abergel de sauver la société et d’améliorer leurs relations personnelles et professionnelles. Dans ce contexte, l’appelante s’est alors désistée de ses réclamations en dommages et a accordé main levée aux saisies avant jugement. La vie commune est vite devenue insupportable et le couple s’est de nouveau séparé en janvier 2004.
+Application de la norme de prudence et de diligence
+[23] En l’instance, l’appelante n’a participé d’aucune façon à l’omission de retenir et de remettre les sommes dues à Sa Majesté.
+[24] En tout état de cause, l’appelante était systématiquement tenue à l’écart de la gestion des affaires de G.R., ce qui a fait en sorte qu’elle n’a pu avoir connaissance de l’omission à l’origine de la cotisation en litige.
+[25] L’appelante a été victime d’agissements frauduleux intentionnels de la part de son ex-conjoint et elle a investi des sommes d’argent importantes dans G.R. pour lui permettre de payer les salaires aux employés, les fournisseurs et les créanciers de l’entreprise.
+[26] Même si l’appelante peut être considérée comme une administratrice interne, son expérience financière limitée et l’influence plus que restreinte qu’elle pouvait exercer sur la gestion des affaires de la société font en sorte qu’elle ne pouvait prévenir le manquement, ni y remédier.
+[27] Tout comme madame Ciriello dans l'affaire Ciriello c. Canada, [2000] A.C.I. no 829, l'appelante n'était pas au courant du défaut de G.R. de verser la TPS et n'était pas en position de faire quoi que ce soit à ce sujet, même si elle en avait été au courant, car son conjoint avait alors le contrôle total de la gestion des affaires de G.R.
+[28] Pour la période précédant le 1er janvier 2001, rien de permet de conclure que l’appelante agissait en tant qu’administratrice de fait. Elle n’avait pas plus d’influence sur la gestion de l’entreprise qu’elle n’en a eu à compter du 1er janvier 2001. Le fait d’être signataire autorisé sur des comptes bancaires d’une entreprise n’est pas suffisant en soi pour que le signataire puisse être considéré comme un administrateur.
+[29] Pour toutes ces raisons, je crois que l'appelante a relevé le fardeau de la preuve et a démontré, à la satisfaction du tribunal, qu'elle avait agi avec soin, diligence et compétence pour prévenir les manquements à l'origine de la cotisation dont fait l'objet le présent appel.
+[30] Conséquemment, l'appel de madame Ouahidi est accueilli, avec dépens, à l'exclusion des frais d'expertise parce qu’ils ont été encourus dans le cadre d'une autre procédure judiciaire, et la cotisation est annulée.
+[31] Compte tenu du résultat de l'appel, le tribunal n'a pas à se prononcer sur la date à laquelle la démission de madame Ouahidi, à titre d'administratrice de G.R., a pris effet.
+Signé à Montréal, Québec, ce 22e jour de mars 2007.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2007CCI119
+Nº DU DOSSIER DE LA COUR : 2006-2222(GST)I
+INTITULÉ DE LA CAUSE : Esther Ouahidi et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 16 janvier 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 22 mars 2007
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Pierre Gonthier
+Avocat de l'intimée :
+Me Denis Émond
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Pierre Gonthier
+Cabinet : Marchand, Melançon, Forget s.e.n.c.r.l.
+Ville : Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

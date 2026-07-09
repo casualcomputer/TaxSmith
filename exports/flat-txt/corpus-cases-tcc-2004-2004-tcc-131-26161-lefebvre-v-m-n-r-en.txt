@@ -1,0 +1,120 @@
+Title: Lefebvre v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26161/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-131-26161-lefebvre-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-02-09
+
+# Lefebvre v. M.N.R.
+
+- Citation: 2004 TCC 131
+- Decision date: 2004-02-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3959, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lefebvre v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-09
+Neutral citation
+2004 TCC 131
+File numbers
+2003-1148(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-1148(EI)
+BETWEEN:
+SOPHIE LEFEBVRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on January 28, 2004, at Montréal, Quebec
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Richard Baillargeon
+Counsel for the Respondent:
+Mélanie Bélec
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision rendered by the Minister on February 20, 2003, regarding the appeal brought before him for the period of February 1 to December 20, 2002, is affirmed.
+Signed at Ottawa, Canada, this 9th day of February 2004.
+“Lucie Lamarre”
+Lamarre J
+Translation certified true
+on this 31st day of December 2004.
+Julie Oliveira, Translator
+Citation: 2004TCC131
+Date: 20040209
+Docket: 2003-1148(EI)
+BETWEEN:
+SOPHIE LEFEBVRE,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal of a decision rendered by the Minister of National Revenue (“Minister”) in which it was decided that the Appellant held an insurable employment at the early years centre, CPE Au Village des Petits Lutins Inc. (“the employer”) from February 1 to November 1, 2002, and that her total insurable earnings for the period was determined to be $7,467.93 for a total of 623.75 insurable hours.
+[2] The Appellant argued that she was dismissed from her employment on November 1, 2002. However, following a number of complaints filed under the Labour Code, particularly one where she contested her dismissal and the awarding of the position to another employee, the employer agreed by a signed agreement with the Appellant on December 20, 2002, to cancel the dismissal of November 1, 2002, and to terminate the employment only as of December 20, 2002, because the Appellant would not have passed her probation period.
+[3] In this agreement ratified by arbitration award, the employer attributed to the Appellant 225 working hours in the teacher’s assistant position which she aspired to and agreed to pay a gross amount of $2,700 for the 225 hours she would have worked if she had not actually been dismissed (Exhibit A-2). Through this same agreement, the employer agreed to correct the Appellant’s employment record to take into account the hours attributed above as actual time worked (see Exhibits A-2 and A-4). In reality, the Appellant received a net amount of $2,000 from this agreement, after all the source deductions, including the employment insurance premiums (Exhibit A-5).
+[4] The Appellant therefore considered her employment to have terminated only on December 20, 2002, and the 225 hours thus attributed had to be counted as insurable hours and that the earnings for these 225 hours ($2,700) had to be part of the insurable earnings.
+[5] The Respondent acknowledged in paragraph 10 of the Reply to the Notice of Appeal that the employment relationship only ceased on December 20, 2002. He argued, however, that because the Appellant did not actually render any services during the 225 hours in question, she is not considered to have worked in insurable employment over this period within the terms of sections 9.1, 9.2 and 10.2 of the Employment Insurance Regulations. In addition, he argued that she did not receive the amount of $2,700 until her employment was terminated. This amount is therefore not part of the insurable earnings because it is a retiring allowance. The Respondent relied on sections 1 and 2 of the Insurable Earnings and Collection of Premiums Regulations, which exclude a retiring allowance from insurable earnings.
+[6] The applicable regulatory provisions are as follows:
+Employment Insurance Regulations
+9.1 Where a person's earnings are paid on an hourly basis, the person is considered to have worked in insurable employment for the number of hours that the person actually worked and for which the person was remunerated.
+9.2 Subject to section 10, where a person's earnings or a portion of a person's earnings for a period of insurable employment remains unpaid for the reasons described in subsection 2(2) of the Insurable Earnings and Collection of Premiums Regulations, the person is deemed to have worked in insurable employment for the number of hours that the person actually worked in the period, whether or not the person was remunerated.
+10.1 (1) Where an insured person is remunerated by the employer for a period of paid leave, the person is deemed to have worked in insurable employment for the number of hours that the person would normally have worked and for which the person would normally have been remunerated during that period.
+(2) Where an insured person is remunerated by the employer for a period of leave in the form of a lump sum payment calculated without regard to the length of the period of leave, the person is deemed to have worked in insurable employment for the lesser of
+(a) the number of hours that the person would normally have worked and for which the person would normally have been remunerated during the period, and
+(b) the number of hours obtained by dividing the lump sum amount by the normal hourly rate of pay.
+(3) Where an insured person is remunerated by the employer for a non-working day and
+(a) works on that day, the person is deemed to have worked in insurable employment for the greater of the number of hours that the person actually worked and the number of hours that the person would normally have worked on that day; and
+(b) does not work on that day, the person is deemed to have worked in insurable employment for the number of hours that the person would normally have worked on that day.
+10.2 For the purposes of sections 9.1, 10, 10.01, 10.1 and 22,
+(a) an hour of work performed in insurable employment is considered to be a single hour of insurable employment, even if the hour is remunerated at an overtime rate of pay; and
+(b) if the addition of hours of insurable employment falling between the first day and the last day worked in a given period of employment results in a total number of hours that contains a fraction of an hour, the fraction shall be counted as a whole hour.
+Insurable Earnings and Collection of Premiums Regulations
+DEFINITIONS AND INTERPRETATION
+1. (1) The definitions in this subsection apply in these Regulations.
+"retiring allowance" means an amount received by a person
+(a) on or after retirement of the person from an office or employment in recognition of the person's long service, or
+(b) in respect of a loss of an office or employment of the person, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal. (allocation de retraite).
+PART I
+INSURABLE EARNINGS
+Earnings from Insurable Employment
+2. (1) For the purposes of the definition "insurable earnings" in subsection 2(1) of the Act and for the purposes of these Regulations, the total amount of earnings that an insured person has from insurable employment is
+(a) the total of all amounts, whether wholly or partly pecuniary, received or enjoyed by the insured person that are paid to the person by the person's employer in respect of that employment, and
+(b) the amount of any gratuities that the insured person is required to declare to the person's employer under provincial legislation.
+(2) For the purposes of this Part, the total amount of earnings that an insured person has from insurable employment includes the portion of any amount of such earnings that remains unpaid because of the employer's bankruptcy, receivership, impending receivership or non‑payment of remuneration for which the person has filed a complaint with the federal or provincial labour authorities, except for any unpaid amount that is in respect of overtime or that would have been paid by reason of termination of the employment.
+(3) For the purposes of subsections (1) and (2), "earnings" does not include
+…
+(b) a retiring allowance
+[7] Therefore, based on section 9.1 of the Employment Insurance Regulations, a person is considered to have worked in insurable employment for the number of hours that the person actually worked and for which the person was remunerated.
+[8] The Appellant acknowledged that she did not actually work the 225 hours for which she was remunerated following an arbitration award.
+[9] Furthermore, according to the definition of insurable earnings, it consists of the total amount of earnings from an insurable employment, that is, the earnings that the insured receives from the employer for this employment, but does not include a retiring allowance. A retiring allowance is defined as an amount received in respect of the loss of an employment, whether or not this amount is received as payment of damages.
+[10] The Appellant acknowledged that the employer did not want to reinstate her in her employment. Under the terms of the settlement, the employer agreed to compensate the Appellant for the 225 hours of work that she would have completed if she had obtained the position she wanted. This is not a case where the employee was remunerated during a certain period of leave, as the Appellant did not later return to her employer’s employment. This is also not a case where a person has actually worked during a period without being remunerated. These cases are covered by sections 9.2 and 10.1 of the Employment Insurance Regulations and by subsection 2(2) of the Insurable Earnings and Collection of Premiums Regulations.
+[11] I believe that this involves an amount paid to the Appellant in respect of the loss of her employment. The employer agreed to settle for the amount of $2,700 because the Appellant agreed to withdraw her complaints and leave her employment. Moreover, the agreement repeated in the arbitration award clearly stipulates that the agreement terminated the Appellant’s employment. Under the circumstances, I believe that it does indeed involve a retiring allowance within the meaning of the Insurable Earnings and Collection of Premiums Regulations.
+[12] The Appellant referred to the Federal Court of Appeal decision in R. v. Sirois, [1999] F.C.A. No. 523 (Q.L.). This decision only acknowledges that a contract of service exists as long as the employment relationship is not broken. In this case, the Respondent was not contesting this point. The Respondent was instead relying on the regulatory provisions to determine the amount of insurable earnings and to quantify the number of insurable hours. Moreover, in Sirois, the Federal Court of Appeal clearly indicated that no regulatory provisions were at issue in this case. However, it recognized that when this is the case, these provisions must be analyzed to determine an employment’s insurability. This was the case in Canada v. Therrien-Beaupré (F.C.A.), [1994] F.C.J. No. 715 (Q.L.) where it had to be determined whether an employment was insurable within the meaning of the former subsection 13(1) of the Unemployment Insurance Regulations (which excepted from insurable employment an employment of less than 15 hours per week and for which the weekly earnings were less than a certain amount). Therefore, despite the existence of an employment relationship, the Court decided that the employee who had not worked during a certain period worked in an employment that consisted of less than 15 hours per week, and, thus, did not work in an insurable employment during this period within the meaning of subsection 13(1) of the Unemployment Insurance Regulations.
+[13] In the same vein, the regulatory provisions applicable here must be analyzed to determine whether an employment period is insurable or whether earnings are insurable, even if, as in this case, the employment relationship was only broken on December 20, 2002.
+[14] I therefore find that the Minister’s decision is well-founded with respect to the number of insurable hours and establishing the insurable earnings, which do not include the amount of $2,700 paid to the Appellant as compensation for the 225 hours of work associated with the position she wanted but did not obtain, pursuant to section 9.1 of the Employment Insurance Regulations and sections 1 and 2 of the Insurable Earnings and Collection of Premium Regulations.
+[15] The appeal is therefore dismissed.
+[16] Furthermore, the amount of $2,700 should not have been subject to source deductions with regard to employment insurance premiums. An amount of $59.40 was thus retained (Exhibit A-5). The Appellant can therefore request a refund of $59.40 within the time prescribed by section 96 of the Act.
+Signed at Ottawa, Canada, this 9th day of February 2004.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 31st day of December 2004.
+Julie Oliveira, Translator

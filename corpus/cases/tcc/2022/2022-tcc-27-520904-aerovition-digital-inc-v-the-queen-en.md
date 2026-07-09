@@ -1,0 +1,214 @@
+---
+title: "Aerovition Digital Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/520904/index.do"
+last_modified: "2022-02-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 27"
+citation2: ""
+neutral_citation: "2022 TCC 27"
+decision_date: "2022-02-08"
+language: "en"
+item_id: "520904"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4440
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:15:08.234000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "ef80842b3edd84867b4df598a8171781875693fdfb0fb8a22241709ffbc069c3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Aerovition Digital Inc. v. The Queen
+
+- Citation: 2022 TCC 27
+- Decision date: 2022-02-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4440, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Aerovition Digital Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-02-08
+Neutral citation
+2022 TCC 27
+File numbers
+2021-2237(IT)I
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-2237(IT)I
+BETWEEN:
+AEROVITION DIGITAL INC.,
+AN AEROVITION CORP.,
+Appellant,
+(Applicant/Respondent)
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+(Applicant/Respondent)
+Motions considered by Written Representations
+Before: The Honourable Justice David E. Spiro
+Participants:
+Agent for the Appellant:
+Shaw Rahman
+Counsel for the Respondent:
+Katherine T. Shelley
+AMENDED ORDER
+UPON motion of the Appellant to strike out the Reply to the Notice of Appeal;
+AND UPON motion of the Respondent for an extension of time for the Minister of National Revenue to file the Reply to the Notice of Appeal;
+UPON READING the written material filed by the Appellant in support of its motion and in response to the Respondent’s motion;
+AND UPON READING the written material filed by the Respondent in support of her motion and in response to the Appellant’s motion;
+THIS COURT ORDERS that:
+The Appellant’s motion to strike out the Reply is dismissed, without costs; and
+The Respondent’s motion to extend the time for the Minister of National Revenue to file the Reply is granted, without costs, and the time for filing the Reply is extended to November 17, 2021.
+This Amended Order is issued in substitution of the Order dated February 3, 2022.
+Signed at Toronto, Ontario, this 8th day of February 2022.
+“David E. Spiro”
+Spiro J.
+Citation: 2022 TCC 27
+Date: 20220203
+Docket: 2021-2237(IT)I
+BETWEEN:
+AEROVITION DIGITAL INC.,
+AN AEROVITION CORP.,
+Appellant,
+(Applicant/Respondent)
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+(Applicant/Respondent)
+REASONS FOR ORDER
+Spiro J.
+[1] This appeal deals with the Appellant’s entitlement to the Canada Emergency Wage Subsidy (“CEWS”) under the Income Tax Act (the “ITA”). The appeal was instituted under the Informal Procedure and is, therefore, governed by sections 18 to 18.28 of the Tax Court of Canada Act (the “TCC Act”). [1]
+[2] Through inadvertence, the Minister of National Revenue (the “Minister”) filed the Reply to the Appellant’s Notice of Appeal two days late. On account of this delay, the Appellant moves to strike out the Reply and the Respondent moves to extend the time for the Minister to file the Reply by two days.
+[3] Under subsection 18.16(1) of the TCC Act, the Minister has 60 days to file a reply after the Registry of this Court transmits the notice of appeal to the Minister. If the Minister does not file the reply by then, she may seek the appellant’s consent to the late filing of the reply or apply to the Court for an Order allowing her to file the reply late. If she receives the appellant’s consent, or an Order extending the time for filing, the litigation will proceed in the ordinary course. Subsection 18.16(1) of the TCC Act provides:
+18.16(1) The Minister of National Revenue shall file a reply to a notice of appeal within sixty days after the day on which the Registry of the Court transmits to that Minister the notice of appeal unless the appellant consents, before or after the expiration of the sixty day period, to the filing of that reply after the sixty day period or the Court allows the Minister, on application made before or after the expiration of the sixty day period, to file the reply after that period.
+[4] But if the reply is filed beyond the 60-day deadline and the Minister has not obtained the appellant’s consent or an Order extending the time to file the reply, the facts alleged in the appellant’s notice of appeal are presumed to be true for purposes of the appeal. Subsection 18.16(4) of the TCC Act provides:
+18.16(4) The Minister of National Revenue may file a reply to a notice of appeal after the period limited under subsection (1) . . . and where that Minister files the reply after that period or after the extension of time consented to by the appellant or granted by the Court, the allegations of fact contained in the notice of appeal are presumed to be true for the purposes of the appeal.
+[5] In this case, an employee of the Canada Revenue Agency (the “CRA”) made a mistake in computing the deadline for filing the Reply. As a result, the Reply was filed two days late. Consent to the late filing of the Reply was sought by the Minister and refused by the Appellant. Hence, the Respondent’s motion to extend the time for the Minister to file the Reply.
+Background and Chronology of Events
+[6] By way of background, the Appellant applied for the CEWS for three separate periods from March 15, 2020, to June 6, 2020. The Minister disallowed the applications on the basis that the Appellant did not suffer the revenue reduction required to qualify for the CEWS. In particular, the Minister determined that the Appellant was not a “qualifying entity” within the meaning of subsection 125.7(1) of the ITA and did not employ and pay eligible remuneration to an eligible employee. [2]
+[7] Here is a brief summary of the events relating to both motions:
+Notice of Appeal is filed
+July 8, 2021
+Notice of Appeal is forwarded to the Minister
+September 16, 2021
+The litigation officer at the Canada Revenue Agency who eventually drafts the Reply is assigned the task after another officer made a mistake in computing the deadline for filing the Reply
+October 19, 2021
+Deadline for the Minister to file the Reply
+November 15, 2021
+Reply filed by the Minister two days late
+November 17, 2021
+Reply sent to the Appellant by Canada Post
+November 18, 2021
+Minister seeks the Appellant’s consent to the late filing of the Reply
+November 22, 2021
+Appellant refuses to consent to the late filing of the Reply
+November 22, 2021
+Respondent notifies the Appellant and the Court that a motion will be filed to apply for an extension of time to file the Reply
+November 23, 2021
+Appellant moves to strike out the Reply
+November 25, 2021
+Appellant files a detailed point-by-point rebuttal to the Reply
+November 30, 2021
+Appellant responds to the Respondent’s anticipated motion for an extension of time to file the Reply
+December 3, 2021
+Respondent moves for an extension of time to file the Reply
+December 10, 2021
+Appellant responds to the Respondent’s motion for an extension of time to file the Reply
+December 12, 2021
+Respondent responds to the Appellant’s motion to strike out the Reply
+January 7, 2022
+Appellant’s Motion to Strike Out the Reply
+Appellant’s Argument
+[8] The Appellant contends that the Reply should be struck because:
+(a) the Respondent asked the Court for permission to late file the Reply after the Reply was due and after it was actually filed; and
+(b) the Reply was not served on the Appellant within three days of filing.
+Respondent’s Argument
+[9] In response, the Respondent argues that the Reply should not be struck as none of the grounds for striking out a pleading has been satisfied. [3] The Respondent contends that a reply should not be struck out unless it is so clearly futile that the positions advanced therein have no chance of success. [4]
+Respondent’s Motion to Allow a Late-Filed Reply
+Respondent’s Argument
+[10] The Respondent contends that:
+(a) the Minister always intended to defend the assessment and there is a reasonable explanation for the delay;
+(b) the delay was minimal and caused no apparent prejudice to the Appellant;
+(c) the Appellant was aware of the contents of the Reply as it had time to prepare and send a detailed rebuttal to the Reply on November 30, 2021;
+(d) the Minister acted with all due dispatch to correct the error and seek the consent of the Appellant;
+(e) the Reply helps clarify the issues between the parties, informs the Appellant of the case it must meet, and focuses the litigation before the Court; and
+(f) it is in the interests of justice to grant the motion extending the time for the Reply to be filed to November 17, 2021, to ensure a fair resolution on the merits of the real issues in dispute.
+Appellant’s Argument
+[11] In response, the Appellant argues that the Minister’s late filing of the Reply not only violated the rule regarding the timely filing of the Reply but was prejudicial to the Appellant.
+Analysis
+[12] In response to the Respondent’s motion to allow the late filing of the Reply, the Appellant argues that an application to late file a reply must be made before the time expires for filing the reply. But section 18.16 of the TCC Act makes it clear that such an application may be made before or after time expires for filing the reply. Subsection 18.16(1) of the TCC Act provides:
+18.16(1) The Minister of National Revenue shall file a reply to a notice of appeal within sixty days after the day on which the Registry of the Court transmits to that Minister the notice of appeal unless the appellant consents, before or after the expiration of the sixty day period, to the filing of that reply after the sixty day period or the Court allows the Minister, on application made before or after the expiration of the sixty day period, to file the reply after that period.
+[Emphasis added]
+[13] In its motion to strike, the Appellant alleges that the Minister’s filing of the Reply on November 17, 2021, rather than November 15, 2021, as required, has caused it prejudice. However, it offers no evidence to support this allegation. Before a hearing date has been fixed, prejudice cannot be presumed from a mere two-day delay in filing the Reply. Indeed, the Appellant was familiar enough with the Reply to be able to prepare a point-by-point rebuttal to it on November 30, 2021, less than two weeks after the Reply was filed. [5]
+[14] I find that the Minister’s explanation for the delay is reasonable in the circumstances and that the duration of the delay was relatively insignificant in the context of this litigation – a context in which a hearing date had not yet been fixed.
+[15] There is no doubt that the statutory scheme dealing with Informal Procedure appeals is designed to facilitate the expeditious resolution of such appeals. [6] A number of examples reflect the intent of the statutory scheme. The appellant’s originating document need only set out, in general terms, the reasons for the appeal and the relevant facts. [7] The Minister has 60 days to file a reply to the originating document and, absent exceptional circumstances, the Court will fix a hearing date no later than six months to a year after that deadline. [8] No lists of documents are exchanged and no examinations for discovery are held. Absent exceptional circumstances, the Court will render judgment not later than 90 days after the hearing. [9] But even in the context of a statutory scheme that is clearly intended to facilitate access to justice, a delay of two days is of little moment.
+[16] The Appellant asks that the Court strike out the Reply, but there is no basis for doing so. It argues that the Reply should be struck as the Minister failed to serve the Reply within three days of filing. The Minister is under no such obligation. [10]
+Conclusion
+[17] For the reasons described above, I grant the Respondent’s motion to extend time for the Minister to file the Reply under subsection 18.16(1) of the TCC Act to November 17, 2021, and I dismiss the Appellant’s motion to strike out the Reply, all without costs.
+Signed at Toronto, Ontario, this 3rd day of February 2022.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2022 TCC 27
+COURT FILE NO.:
+2021-2237(IT)I
+STYLE OF CAUSE:
+AEROVITION DIGITAL INC., AN AEROVITION CORP. AND THE QUEEN
+PLACE OF HEARING:
+N/A
+DATE OF HEARING:
+Motions considered by Written Representations
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Spiro
+DATE OF AMENDED ORDER:
+February 8, 2022
+APPEARANCES:
+Agent for the Appellant:
+Shaw Rahman
+Counsel for the Respondent:
+Katherine T. Shelley
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In respect of appeals of assessments made under the ITA, subsection 18(1) of the TCC Act provides that the Informal Procedure is available to appellants where the aggregate of all amounts in issue is equal to or less than $25,000 and where the amount of a loss determination in issue is equal to or less than $50,000.
+[2] This information is derived from the Minister’s Notice of Confirmation which the Appellant attached to its Notice of Appeal.
+[3] In this regard, the Respondent relies on the grounds listed in subsection 53(1) of the Tax Court of Canada Rules (General Procedure).
+[4] The Respondent relies on Cudmore v The Queen, 2010 TCC 318 at paragraph 53 for this proposition.
+[5] In its material, the Appellant implies that prejudice was caused by not having received a copy of the Reply until November 26, 2021. Subsection 6(2) of the Tax Court of Canada Rules (Informal Procedure) requires the Minister to serve a copy of a reply by registered mail within five days of filing it with the Court. To the extent the Appellant complains about the timing of service of the Reply, no remedy is available (see, for example, Jackson v The Queen, 2019 TCC 63). In any event, regardless of when the Reply was served, the Appellant was able to prepare a point-by-point rebuttal to the Reply by November 30, 2021. In light of that fact, it is difficult to discern any possible prejudice to the Appellant.
+[6] Parliament’s intention is best reflected in subsection 18.15(3) of the TCC Act:
+18.15(3) Notwithstanding the provisions of the Act under which the appeal arises, the Court is not bound by any legal or technical rules of evidence in conducting a hearing and the appeal shall be dealt with by the Court as informally and expeditiously as the circumstances and considerations of fairness permit.
+[7] Subsection 18.15(1) of the TCC Act.
+[8] Subsection 18.17(1) of the TCC Act.
+[9] Subsection 18.22(1) of the TCC Act.
+[10] The Minister’s only obligation is to serve the Reply by registered mail within five days of its filing as described in footnote 5 above.

@@ -1,0 +1,179 @@
+---
+title: "Montréal Timbres et Monnaies Champagne Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25153/index.do"
+last_modified: "2005-06-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 186"
+citation2: ""
+neutral_citation: "2005 TCC 186"
+decision_date: "2005-06-10"
+language: "en"
+item_id: "25153"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2599
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:39:05.433000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8d0284cdc6ff4f0cefb179d4f57e6a39f16ddf061363e40469deffa1a1608573"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Montréal Timbres et Monnaies Champagne Inc. v. The Queen
+
+- Citation: 2005 TCC 186
+- Decision date: 2005-06-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2599, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Montréal Timbres et Monnaies Champagne Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-10
+Neutral citation
+2005 TCC 186
+File numbers
+2000-1023(GST)G
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2000-1023(GST)G
+BETWEEN:
+MONTRÉAL TIMBRES ET MONNAIES CHAMPAGNE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 17, 2004 and on November 18 and 19, 2004
+at Montréal, Quebec.
+Before: The Honourable D.G.H. Bowman, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Edward J. Druker
+Counsel for the Respondent:
+Pierre Zemaitis
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated December 1, 1995 and bears number 0314115, is allowed with costs and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the reasons for judgment.
+Signed at Ottawa, Canada, this 10th day of June 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+Citation: 2005TCC186
+Date: 20050610
+Docket: 2000-1023(GST)G
+BETWEEN:
+MONTRÉAL TIMBRES ET MONNAIES CHAMPAGNE INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, C.J.
+[1] This appeal is from an assessment made under the Goods and Services Tax ("GST") provisions of the Excise Tax Act ("E.T.A.") for the period from July 1, 1991 to March 31, 1995.
+[2] The issue appears to be purely factual and it has to do with the appellant's computation of the GST payable by it and of the input tax credits ("ITCs") to which it was entitled.
+[3] In the period in question the appellant carried on the business of buying and selling postage stamps, coins, jewellery and other collectibles.
+[4] The respondent's position is that:
+(a) the appellant had understated the GST payable by it by $79,794.00;
+(b) the appellant had overstated the ITCs to which it was entitled by $44,936.94. The figure of $44,936.94 consisted of $66,761.14 "fictitious" ITCs claimed by the appellant less $21,824.20 additional ITCs allowed by the auditor. Both the notice of appeal and the reply (which are in English) use the word "fictitious". I believe that what is meant is "notional".
+[5] The case came on originally before Archambault J. who, before hearing evidence, suggested that counsel meet and attempt to settle it. The attempt was unsuccessful and the matter came on again before me in May 2004. Some evidence was heard but again I sent counsel away with the suggestion that they either try to settle the case or if it was to proceed to put some order in the unsatisfactory state of the evidence. I also suggested, since it appeared that the court was going to be inundated with boxes of documents, that counsel consider what was said in Merchant v. The Queen, 98 DTC 1734 at 1735-6.
+[7] Where a large number of documents, such as invoices, have to be proved it is a waste of the court's time to put them in evidence seriatim. The approach set out in Wigmore on Evidence (3rd Ed.) Vol IV, at s. 1230 commends itself:
+s. 1230(11): . . . Where a fact could be ascertained only by the inspection of a large number of documents made up of very numerous detailed statements - as, the net balance resulting from a year's vouchers of a treasurer or a year's accounts in a bank-ledger - it is obvious that it would often be practically out of the question to apply the present principle by requiring the production of the entire mass of documents and entries to be perused by the jury or read aloud to them. The convenience of trials demands that other evidence be allowed to be offered, in the shape of the testimony of a competent witness who has perused the entire mass and will state summarily the net result. Such a practice is well-established to be proper.
+[8] This passage was cited with approval by Wakeling, J.A. in Sunnyside Nursing Home v. Builders Contract Management Ltd. et al., (1990) 75 S.R. 1 at p. 24 (Sask. C.A.) and by MacPherson, J. in R. v. Fichter, Kaufmann et al., 37 S.R. 128 (Sask. Q.B.) at p. 129. I am in respectful agreement.
+[6] When the case resumed, after a second unsuccessful attempt to resolve it, the boxes of documents, which loomed ominously at the back of the courtroom throughout the trial, were not put into evidence but neither was the summary of the documents envisaged by Wigmore adduced.
+[7] Paragraph 12 of the Reply to the Notice of Appeal reads:
+12. Auditor established the undeclared GST of 79 794,00 $ by three methods:
+a) a reconciliation of the amounts of GST declared by the appellant to Revenue Quebec with the GST amounts actually entered in appellant's own books; by this method it was established that an amount of GST of 32 392,87 $ had not been declared by appellant;
+b) a reconciliation of the amounts of GST calculated on the sales indicated in appellant's financial statements with the amounts of GST indicated in appellant's own accounting books; by this method, it was established that an amount of GST of 14 339,92 $ had not been declared by appellant;
+c) a reconciliation of the amounts of GST calculated on the bank and Caisse populaire deposits of the appellant for the relevant period and the amount of GST calculated on the sales indicated in the appellant's financial statements for the relevant period; by this method, it was established that an amount of GST of 33 061,24 $ hand [sic] not been declared by the appellant;
+[8] Whatever may be the merits of these three methods one thing stands out: the auditor has aggregated the result of each method to arrive at a total of $79,794.
+[9] I think it is reasonably well established that bank deposits are an acceptable method of determining sales that are subject to GST, in the absence of evidence to the contrary. The cases are conveniently summarized in an editorial comment by Mr. David Sherman in the case of Davis v. R., [2004] G.S.T.C. 134
+In the absence of evidence to the contrary, the Tax Court will accept an audit methodology that is based on a registrant's bank deposits. See Louie, [2002] G.S.T.C. 34; Uranus Auto Sales Inc., [2002] G.S.T.C. 39; Khullar Au Gourmet International Ltd., [2003] G.S.T.C. 100; Prévot, [2003] G.S.T.C. 134; and 2868-2656 Québec Inc., [2004] G.S.T.C. 156. However, if there is credible evidence as to another source of the deposits, the Court will delete the amounts in question, as happened here and also in Melis, [2000] G.S.T.C. 38, Shvartsman, [2002] G.S.T.C. 30, and Hare, [2002] G.S.T.C. 114.
+[10] For reasons that I shall develop more fully below I do not think that the bank deposits that were used here as a basis of the assessment are a reliable source of information. One must balance their prima facie evidentiary value against other evidence that casts doubt on their reliability.
+[11] Although some of the bank deposits may represent sales I think that in this case they are inherently unreliable. Mr. Beaulieu, a chartered accountant, explained why, in his view, the deposits used by the assessor in determining sales did not provide a solid foundation on which to base a determination of sales. His evidence is set out at some length at pages 93 to 100 of the transcript of November 19 but, in summary, in a business of this type, where purchases and sales are frequently in cash, deposits and withdrawals of petty cash are made on an ongoing basis. Cash is frequently withdrawn and then redeposited at the end of the day or the following day. The evidence does not permit me to determine precisely what portion of the deposits represents sales but the deposits that are not attributable to sales are so substantial that I consider it unsafe to base a determination of sales on deposits alone.
+[12] A second reason for rejecting bank deposits as a reliable method of determining sales is that the appellant's business included in a fairly substantial measure the cashing of cheques for a fee. The president of the appellant, Mr. Champagne, testified that in some years he cashed $200,000 to $300,000 in cheques. I do not think his evidence of the amount is sufficiently reliable that I could make a precise determination of the amount of cheques that were deposited, but the evidence is sufficient for me to decide that the amount of cheques that were cashed and deposited cast serious doubt on the method used by the auditor in treating deposits as an accurate reflection of sales.
+[13] There is a further reason, quite apart from the reasons given above, for rejecting the deposits in the calculation of the understated GST. Where three methods of determining a discrepancy between the GST declared and that revealed by other evidence are used, it is inappropriate to total the results of all three methods. To say that method A shows a discrepancy of $X, method B a discrepancy of $Y and method C a discrepancy of $Z and therefore the discrepancy is X+Y+Z dollars is fundamentally erroneous. Unless the assessor verifies that the discrepancies revealed by one method are not wholly or partly duplications of the others I think it is, as a matter of common sense, fair to conclude that they are.
+[14] Therefore, when three different methods reveal three different amounts of a discrepancy and it is not determined that the three calculations do not in whole or in part contain the same numbers, the most appropriate method should be chosen. The most appropriate method in my view is that set out in paragraph 12(a) of the reply to the notice of appeal, $32,392.87. The method in paragraph 12(c) is, for the reasons stated above, inappropriate and should be rejected. The amount arrived at by the method in paragraph 12(a) obviously subsumes the amount calculated in paragraph 12(b). Therefore, the additional GST of $79,794.00 should be reduced by $14,339.92 and $33,061.24 to $32,392.87.
+[15] The Crown has conceded on page 19 of the transcript for November 18 that the appellant is entitled to additional ITCs of $26,158.65.
+[16] Subject to what follows, the appeal would in any event have to be allowed therefore to take these adjustments into account.
+[17] The next question is whether the appellant has demonstrated that any further relief should be granted. This requires an examination of the manner in which the assessor, Ms. Beauclair, approached the audit. I have taken much of what follows from Exhibit R-4, the assessor's working papers as well as the transcript of her testimony.
+[18] On page 2 of Exhibit R-4, she compares the GST discrepancy of $39,021.66 with the ITC discrepancy of negative $21,824.24 for a net tax discrepancy of $17,197.42. The calculations start with 1991.03.31. However, a note to the analysis (p. 2 of Exhibit R-4) states that the assessor is making adjustments only for the period commencing on September 1, 1991. What is also noteworthy is that the amounts of GST declared and the amounts verified in many cases are precisely the same and in two instances the amount verified by the assessor is less than that declared.
+[19] Similarly in the case of the ITCs the amount claimed in four instances is less than that verified by the assessor so that the net discrepancy is negative $21,824.24 with the result that the net tax for the period ending March 31, 1991 to the period ending March 31, 1995 is increased by $17,197.42. It must be recognized that these figures include a calculation by the assessor of the GST and the ITCs for the period ending March 31, 1995. The amounts of GST and ITCs declared for this period were shown as zero because the appellant had not, at the time of the audit, filed its return. The GST for the period calculated by the assessor was $29,050.95 and the ITCs were calculated as $21,720.13, resulting in a net tax for the period of $7,330.82. It is impossible to compare this with the appellant's figures because I do not have the amounts declared by the appellant in its return for the period.
+[20] Page 6 of Exhibit R-4 determines that for the period ending 1991.12.31 the taxable sales are $729,701.00 and at page 7 the tax at 7% is $51,079.07. The GST shown in the books, according to page 7 of Exhibit R-4 is $23,279.04, resulting in a discrepancy of $27,800.03. This evidently was for the full year but because of limitation periods the assessment was said to be for the period commencing 1991.10.01.
+[21] Therefore a percentage of 31.6 was applied to the sales for the last three months to arrive at a figure of $8,795.92. The assessor then concludes on page 8 that adjustments have to be made to the GST in the amount of $12,840.82. This does not correspond to the figure on page 2 of Exhibit R-4 which shows a discrepancy of $1,470.05 for the period ending 1991.09.30.
+[22] On page 51 of Exhibit R-4 there is a discrepancy for 1992 of $53,701.59 in GST, based upon the difference of GST of $69,567 in the books and $15,866 GST invoiced. The total amount declared for 1993 on page 2 of Exhibit R-4 is $69,584 and a total discrepancy of $1,358.
+[23] Why then does page 51 state that changes will have to be made in the amount of GST in the amount of $53,701.59 in 1992 whereas the net tax adjustment shown on page 2 amounts to a net total of $1,358.89. Indeed Ms. Beauclair stated that of the $69,567 shown on the books as ITCs, she allowed only $15,866, which accounts for the difference of $53,701. Yet on page 2 we find for 1993 a discrepancy between the ITCs declared and verified of nil.
+[24] Coming next to 1994 we see on page 53 that $77,101 ITCs were to be refused. They are part of a total of $148,437 out of $149,894 ITCs that were refused. If we consider the figure for 1993 and 1994 shown on page 54 we find for 1993 a discrepancy in ITCs claimed of $12,407 and for 1994 negative $7,899. If we compare these figures with the figures on page 2 of Exhibit R-4 we find for 1994 a discrepancy of negative $104 in ITCs and a discrepancy in net tax between the amount declared and that verified of $408.
+[25] For the period ending March 31, 1995 we find a discrepancy on page 57 of negative $2,186 whereas on page 2 we find a calculation of net tax for the period of $7,330. This as I noted above is not really a discrepancy between the assessor's figures and the amount declared by the appellant because the appellant had not filed a GST return for 1995.
+[26] On page 54 of Exhibit R-4 we find Ms. Beauclair's calculations of the discrepancy in ITCs for 1993 and 1994. She testified that after meeting with Mr. Gagné, an accountant, she revised the ITCs that she had refused from $148,000 to $12,407 and for 1995 she arrived at a difference of negative $2,186 which was in the appellant's favour. In this respect the revised figure for GST for the three years 1993, 1994 and 1995 should be $12,396.
+[27] What does all this boil down to? The case involves a substantial mass of figures which are not readily susceptible of reconciliation, if at all, from which the parties expect me to make some sense. Their expectations are, I am afraid, somewhat optimistic.
+[28] I shall start by observing that I am not unappreciative of the difficulties facing an assessor performing an audit of a business such as that of the appellant's. We are not dealing with automobiles, appliances or heavy machinery. Rather, we are dealing with a business in which stamps, coins and used jewellery are bought and sold, frequently for cash. Moreover, the appellant cashes cheques for a fee. To compound the problem some goods are sold to the United Statesand are presumably zero-rated. Some of the appellant's goods are bought at auctions, others are bought from people who wander in from the streets and want cash. Also there was some testimony that used jewellery was transformed or altered in some way by the removal, substitution or addition of precious or semi precious stones.
+[29] I am equally sympathetic to an accountant or in-house bookkeeper who tries to keep track of the multiplicity of transactions. A case of this sort would have required a good deal more organization than was apparent here. Twice the parties were sent away with the suggestion that they try to settle. Failing settlement, charts and schedules should have been put in evidence showing precisely where the appellant and the tax authorities differed.
+[30] At all events, I have to start somewhere and make some type of determination based on what is before me. I shall start with the assessment.
+[31] Exhibit R-2 is the notice of assessment and Exhibit R-3 is the Décision sur opposition(s).
+[32] The assessment shows a net tax of $113,752.00 plus interest and penalties of $29,855.00 and $30,277.00 respectively. This totals $173,884 but the amount shown as owing is $184,863.25. The Décision sur opposition(s) refers to an adjustment of $124,730.94. This is one of the rare instances in this case in which I have been able to reconcile two figures in the documents. The $124,730.94 mentioned in the Décision is exactly equal to the total of $79,794.00 in paragraph 12 of the Reply to the notice of appeal and $44,936.94 mentioned in paragraph 17. I have been unable to determine the basis for the figure of $113,752.00 in the notice of assessment.
+[33] It is not clear whether the penalties of $30,277 are imposed under section 280 or section 285 of the E.T.A. To the extent that the penalties are imposed under section 280 they should stand because the appellant has not demonstrated due diligence. (Pillar Oilfield Projects Ltd. v. Canada, [1993] G.S.T.C. 49, as confirmed in the Federal Court of Appeal in Consolidated Canadian Contractors Inc. v. Canada [1998] G.S.T.C. 91). The section 280 penalties will, however, have to be reduced in accordance with the reduction in the net tax resulting from the judgment herein. To the extent that the penalties are imposed under section 285 of the E.T.A. they should be deleted. The onus was upon the Crown to establish the requisite willfulness or gross negligence. (Farm Business Consultants Inc. v. The Queen, 95 DTC 200, affd. 96 DTC 6085; Alex Excavating Inc. v. Canada, [1995] G.S.T.C. 57; 897366 Ontario Ltd. v. The Queen, [2000] G.S.T.C. 13; Willis v. The Queen, [2000] G.S.T.C. 110.) Those elements have not been established.
+[34] So far as the tax is concerned the additional GST of $79,794.00 assessed should, as indicated above, at least be reduced to $32,292.87 and the ITCs disallowed should be reduced from $44,936.94 by $26,158.65 to $18,778.29. The result of these adjustments should be the additional net tax that should have been assessed amounts to $51,069.00 rather than $124,730.00. This works out to more than the $17,197.42 net tax calculated at page 2 of Exhibit R-4. It seems, therefore, that I have two irreconcilable figures both of which are based upon the Crown's own calculations. We have gone well beyond questions of onus of proof. We have, rather, the taxing authority putting forward two sets of figures which result in an increase of tax. In such circumstances it is fundamental that the lower figure is to be chosen.
+[35] I do not wish to leave this case without making a few general comments about the conduct of GST appeals and this one in particular. In this court my fellow judges and I are seeing increasing numbers of cases in which the issue is simply the calculation of the amount of supplies giving rise to GST or purchases giving rise to ITCs. Such calculations, at the risk of over-simplification, involve the purely mechanical process of adding up the consideration for the supplies, including the GST collected, deducting the ITCs applicable and thereby determining the net tax exigible. While of course in some cases difficult and important questions of law arise that require adjudication by the court, that is not the case here. When the issue is purely the calculation of net tax, the vast majority of such cases should never come to court. In cases governed by the general procedure it is extremely important that examinations for discovery be held, as well as pre-trial conferences. If this were done I have very little doubt that most cases of this type would be resolved before trial.
+[36] If the attempts to resolve the case before trial fail, the appellant should put in evidence, through an accountant or other person qualified to do so, schedules setting out the transactions giving rise to the GST or the ITCs claimed. Increasingly litigants come into court with boxes of invoices or receipts with the story that they gave them all to the Canada Revenue Agency officials who ignored them. If the documents are put forward in such a state of disorder that the CRA officials cannot make head or tail of them it is a little much to expect the court to do any better.
+[37] The appeal is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons. The appellant is entitled to its costs.
+Signed at Ottawa, Canada, this 10th day of June 2005.
+"D.G.H. Bowman"
+Bowman, C.J.
+CITATION:
+2005TCC186
+COURT FILE NO.:
+2000-1023(GST)G
+STYLE OF CAUSE:
+Montréal Timbres et Monnaies
+Champagne Inc. and
+Her Majesty The Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+May 17, 2004 and
+November 18 and 19, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+June 10, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Edward J. Druker
+Counsel for the Respondent:
+Pierre Zemaitis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Edward J. Druker
+Firm:
+Druker, Zilbert, Schwartz
+Barristers & Solicitors
+1255 Phillips Square, Suite 605
+Montreal, Quebec H3B 3G5
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,147 @@
+---
+title: "Roy c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26365/index.do"
+last_modified: "2005-01-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 27"
+citation2: ""
+neutral_citation: "2005 CCI 27"
+decision_date: "2005-01-06"
+language: "fr"
+item_id: "26365"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3378
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:24:21.493000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "71703a603cea3148d7979422a22a552129b70387c2af2f29776d4537e5704a08"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Roy c. La Reine
+
+- Citation: 2005 CCI 27
+- Decision date: 2005-01-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3378, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-06
+Référence neutre
+2005 CCI 27
+Numéro de dossier
+2004-1165(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI27
+Date : 20050106
+Dossier : 2004-1165(IT)I
+ENTRE :
+JOSÉE ROY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE JUGEMENT
+(Prononcés oralement le 3 décembre 2004, à Québec (Québec).)
+La juge Lamarre Proulx
+[1] Il s'agit d'un appel de détermination de prestation fiscale pour enfants relativement au fils André de l'appelante.
+[2] Le ministre du Revenu national (le « Ministre » ) a déterminé que pour la période de février à juin 2003, l'appelante n'était pas le particulier admissible à l'égard de son fils André.
+[3] Les faits sur lesquels le Ministre s'est fondé pour établir cette détermination sont décrits au paragraphe 5 de la Réponse à l'avis d'appel (la « Réponse » ) comme suit :
+a) L'appelante est la mère de André né le 9 juillet 1986;
+b) Au cours de la période en litige, André habitait avec son père, M. Guy Marcoux dont la résidence était située près de l'école fréquentée par André;
+c) Au cours de la période en litige, André visitait sa mère pendant les fins de semaine et durant les congés pédagogiques;
+d) Le Ministre a déterminé que l'appelante n'était pas le particulier admissible à l'égard de son fils André pour la période débutant en février 2003 pour l'année de base 2001, conformément à l'article 122.6 de la Loi de l'impôt sur le revenu (ci-après la « Loi » );
+e) Subséquemment, à la fin de l'année scolaire, André est retourné vivre avec l'appelante et le Ministre a déterminé que celle-ci était le particulier admissible à partir du mois de juillet 2003 pour l'année de base 2002.
+[4] L'appelante a nié les alinéas 5 b) et 5 c).
+[5] L'appelante a produit comme pièce A-1 un jugement de divorce et de convention sur mesures accessoires. Cette convention mentionne que l'appelante a la garde de ses deux enfants mineurs soit André et Jessica.
+[6] Elle produit certains documents comme pièce A-2. Un de ces documents montre que durant la période en litige, elle a payé des frais de scolarité au montant de 60,07 $. Les autres documents sont hors période. Elle a expliqué qu'André venait toutes les fins de semaine chez elle, que c'était parce que l'école fréquentée par André était beaucoup plus près de son père, que les deux parents avaient jugé bon qu'il habite durant l'année scolaire chez son père. Elle a témoigné qu'André partait le dimanche avec de la nourriture surgelée qu'elle avait préparée, que c'était elle qui lavait son linge et que, somme toute, c'était elle qui continuait à s'en occuper principalement.
+[7] Elle a admis avoir signé le 27 janvier 2003 une entente à l'amiable où les parties acceptent qu'André habite chez son père durant la semaine. Cette entente a été déposée comme pièce I-1. En ce qui concerne l'alimentation, elle a indiqué qu'à partir de février 2003, André partait de chez elle avec moins de nourriture.
+[8] Le père d'André, monsieur Guy Marcoux a témoigné. Il a mentionné qu'il préparait les repas de son fils durant la semaine, qu'il faisait avec lui, des marches, du vélo, pouvait aller au cinéma ou à l'occasion au restaurant. Il a aussi mentionné que les fins de semaine, il l'amenait fréquemment en voiture au Centre de la Réserve de l'armée canadienne.
+[9] Il lui a acheté des bottes de travail et quelques autres articles. Il admet que les vêtements d'André étaient chez madame Roy et qu'André n'apportait avec lui que ce dont il aurait besoin pour la semaine. Il a admis aussi qu'André aimait retourner les fins de semaine chez sa mère parce que c'était dans ce quartier qu'il avait ses amis.
+[10] Le père est allé au moins deux fois rencontrer les autorités scolaires pour des problèmes auxquels André faisait face.
+Analyse et conclusion
+[11] La définition de « particulier admissible » , à l'article 122.6 de la Loi de l'impôt sur le revenu (la « Loi » ) requiert que le particulier réside avec la personne à charge et qu'elle soit la personne qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge.
+[12] L'avocat de l'appelante fait valoir que le fils André de l'appelante n'a pas cessé de résider avec cette dernière. Il avait gardé sa chambre, ses effets personnels s'y retrouvaient et il y avait tout autour ses amis. Sa résidence chez son père n'en était qu'une d'accommodement comme si André avait été pensionnaire chez ce dernier durant la semaine.
+[13] L'argument n'est pas sans intérêt. On pourrait considérer d'une certaine manière que André a continué à résider chez sa mère. Il peut s'agir d'un cas de double résidence.
+[14] Dans ces circonstances, il faut se demander quel est le particulier qui assume principalement la responsabilité pour le soin et l'éducation de la personne à charge. Il faut alors considérer les critères mentionnés à l'article 6302 du Règlement de l'impôt sur le revenu, qui se lit comme suit :
+6302 Critères - Pour l'application de l'alinéa h) de la définition de « particulier admissible » à l'article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l'éducation d'une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d'un milieu sécuritaire là où elle réside;
+c) l'obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l'organisation pour elle d'activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu'elle est malade ou a besoin de l'assistance d'une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d'être présent auprès d'elle et de la guider;
+h) l'existence d'une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+[15] Le fait qu'un enfant habite chez un de ses parents cinq jours sur sept est normalement un indicateur qu'en ce qui concerne les activités quotidiennes c'est ce parent qui s'en occupe le plus. C'est le père qui, de février à juin 2003, avait ce rôle.
+[16] Pendant ces cinq jours, c'est le père qui fournissait à son compte le logis et l'alimentation. On ne peut pas alors comparer cela à un pensionnat.
+[17] Durant la semaine, le père était présent auprès de son fils. Ils prenaient leurs repas ensemble, ils faisaient des marches, allaient au cinéma et au restaurant.
+[18] Même les fins de semaine, il lui arrivait fréquemment de conduire André à ses activités de la Réserve.
+[19] Il avait obtenu pour André un carnet de réclamation pour fins de santé.
+[20] Je suis donc d'avis que selon la preuve présentée, durant la période en litige, soit de février à juin 2003, le père était celui qui s'occupait principalement du fils André.
+[21] L'appel est en conséquence rejeté.
+Signé à Ottawa, Canada, ce 6e jour de janvier 2005.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2005CCI27
+No DU DOSSIER DE LA COUR :
+2004-1165(IT)I
+INTITULÉ DE LA CAUSE :
+Josée Roy et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 2 décembre 2004
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT:
+le 8 décembre 2004
+DÉCISION RENDUE
+ORALEMENT :
+le 3 décembre 2004
+MOTIFS DU JUGEMENT :
+le 6 janvier 2005
+COMPARUTIONS :
+Avocat de l'appelante:
+Me Jean-H. Lemire
+Avocate de l'intimée :
+Me Nancy Dagenais
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Jean-H. Lemire
+Étude :
+Picard, Lemire, Asselin, Demers, Brochu, Laliberté, avocats
+Charlesbourg (Québec)
+Pour l'intimé(e) :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

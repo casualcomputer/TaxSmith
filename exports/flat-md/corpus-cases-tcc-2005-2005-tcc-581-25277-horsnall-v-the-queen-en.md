@@ -1,0 +1,202 @@
+---
+title: "Horsnall v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25277/index.do"
+last_modified: "2005-09-06"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 581"
+citation2: ""
+neutral_citation: "2005 TCC 581"
+decision_date: "2005-09-06"
+language: "en"
+item_id: "25277"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2396
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:22:07.705000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0da9d866792a3761d9d077e78112b32580d5a25dc8d89e2d237f262afdc112cb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Horsnall v. The Queen
+
+- Citation: 2005 TCC 581
+- Decision date: 2005-09-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2396, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Horsnall v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-06
+Neutral citation
+2005 TCC 581
+File numbers
+2004-4263(GST)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-4263(GST)I
+BETWEEN:
+ROD HORSNALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 22, 2005, at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+Counsel for the Appellant:
+Kevin Mellor
+Counsel for the Respondent:
+Gerald Chartier
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated April 5, 2004 and bears number 09ES20040601, is dismissed in accordance with the attached Reasons for Judgment.
+The appeal of the penalties and interest levied thereon is also dismissed in accordance with the attached Reasons for Judgment.
+Signed at Sault Ste-Marie, Ontario, this 6th day of September 2005.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2005TCC581
+Date: 20050906
+Docket: 2004-4263(GST)I
+BETWEEN:
+ROD HORSNALL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Regina, Saskatchewan, on August 22, 2005. The Appellant testified and called his office accountant, Denise Caplette.
+[2] Paragraphs 10 to 14 of the Reply to the Notice of Appeal describe the matters in dispute. They read:
+10. The Appellant objected to Notice of Assessment number 09ES0000458 by a Notice of Objection received July 29, 2002.
+11. By a Notice of Decision, which was dated January 6, 2004, the Minister allowed the objection in part and, by the Reassessment reassessed the Appellant net tax of $90,280.19, penalty of $6,684.34 and interest of $5,175.21. The net tax reassessed was calculated as follows:
+net tax reported on returns
+42,479.71
+adjustments to tax collected/collectible, at issue
+42,346.09
+adjustments to tax collected/collectible, not at issue
+9,014.75
+adjustments to input tax credits, not at issue
+(3,560.36)
+net tax assessed
+90,280.19
+12. In reassessing the Appellant's net tax for the Relevant Period the Minister made the following assumptions of fact:
+(a) the Appellant was engaged in commercial activity;
+(b) the Appellant was a registrant;
+(c) the Appellant was required to file his returns on a quarterly basis;
+(d) since 1990 the Appellant has operated a used car lot (the "Activity");
+(e) at all material times the Appellant carried on the Activity under the trade name Pudge's Auto Sales;
+(f) all of the supplies made by the Appellant in the course of the Activity were taxable at 7%;
+(g) the Activity was originally carried out only on a consignment basis;
+(h) at all material times the Activity involved:
+(i) the supply of used vehicles that were acquired by the Appellant, either as trade-ins or by purchasing them; and
+(ii) the supply of used vehicles that were owned by another person (the "Consignor");
+(i) the Consignors were non-registrants;
+(j) the Consignor delivered his/her vehicle (the "Vehicle") to the Appellant for the purpose of having the Appellant find a third party to purchase the Vehicle (the "Purchaser");
+(k) the Appellant and the Consignor entered into a consignment agreement for the sale of the Vehicle;
+(l) the Consignor transferred possession of the Vehicle to the Appellant;
+(m) the Consignor did not transfer ownership of the Vehicle until it was sold;
+(n) the Vehicle was displayed for sale on the Appellant's used car lot;
+(o) where the Appellant could not find a purchaser for the Vehicle the Appellant returned the Vehicle to the Consignor;
+(p) whenever the Appellant was able to find a Purchaser for a Vehicle the Appellant charged the Consignor a commission of between $200.00 and $1,070.00;
+(q) the Purchasers were not charged tax on the supplies of the Vehicles that were made during the Relevant Period;
+(r) the supplies of the Vehicles were taxable at 7%;
+(s) the Consignors were not required to charge tax on the supplies of the Vehicles;
+(t) whenever the Appellant sold a Vehicle to a Purchaser the Appellant prepared a Bill of Sale (the "Bill of Sale");
+(u) the Bills of Sale were not pre-numbered;
+(v) the Appellant disclosed the Consignor's name on the Bill of Sale;
+(w) the Appellant did not retain copies of the Bills of Sale for the Vehicles that were supplied to Purchasers between January 1, 1998 and December 31, 1998;
+(x) the Appellant retained a summary of the number of Vehicles supplied between January 1, 1998 and December 31, 1998;
+(y) between January 1, 1998 and December 31, 1998, the Appellant sold at least 22 Vehicles;
+(z) consideration totalling at least $134,432.10 was paid by the Purchasers for the Vehicles that were supplied between January 1, 1998 and December 31, 1998;
+(aa) the Appellant failed to account for tax collected/collectible of at least $9,410.24 with respect to the Vehicles that were supplied between January 1, 1998 and December 31, 1998;
+(bb) the Appellant retained copies of Bills of Sale for the Vehicles that were supplied to Purchasers between January 1, 1999 and December 31, 1999;
+(cc) the Bills of Sale referred to in the previous subparagraph were provided to the auditor for review;
+(dd) between January 1, 1999 and December 31, 1999, the Appellant sold at least 23 Vehicles;
+(ee) consideration of at least $155,432.00 was paid by the Purchasers for the Vehicles that were supplied between January 1, 1999 and December 31, 1999;
+(ff) the Appellant failed to account for tax collected/collectible in the amount of $10,880.24 with respect to the Vehicles that were supplied between January 1, 1999 and December 31, 1999;
+(gg) the Appellant retained copies of the Bills of Sale for the Vehicles that were supplied to Purchasers between January 1, 2000 and December 31, 2000;
+(hh) the Bills of Sale referred to in the previous subparagraph were provided to the auditor for review;
+(ii) between January 1, 2000 and December 31, 2000, the Appellant sold at least 25 Vehicles;
+(jj) consideration of at least $137,874.14 was paid by the Purchasers for the Vehicles that were supplied between January 1, 2000 and December 31, 2000;
+(kk) the Appellant failed to account for tax collected/collectible in the amount of $9,651.19 with respect to the Vehicles that were supplied between January 1, 2000 and December 31, 2000;
+(ll) the Appellant retained copies of the Bills of Sale for the Vehicles that were supplied to the Purchasers between January 1, 2001 and September 30, 2001;
+(mm) the copies of the Bills of Sale referred to in the previous subparagraph were not provided to the auditor for review;
+(nn) between January 1, 2001 and September 30, 2001, the Appellant sold at least 29 Vehicles;
+(oo) consideration of at least $177,205.95 was paid by the Purchasers for the Vehicles that were supplied between January 1, 2001 and September 30, 2001; and
+(pp) the Appellant failed to account for tax collected/collectible of at least $12,404.42 with respect to the Vehicles that were supplied between January 1, 2001 and September 30, 2001;
+B. ISSUE TO BE DECIDED
+13. The issue to be decided in this appeal is whether the Appellant was required to account for tax on the supplies of the Vehicles; and, if so, the amount of tax collected/collectible on those supplies.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON ANDRELIEF SOUGHT
+14. He relies, among other things, on subsections 123(1), 165(1), 221(1), 225(1), 177(1), and 177(1.1) and sections 148, 166, 228, 280, 281.1 and 296 of the Excise Tax Act, R.S.C. 1985, c. E-15, as amended and section 18.3009 of the Tax Court of Canada Act.
+[3] None of the assumptions in paragraph 12 were refuted except (f), (h)(ii), (r), (aa), (ff), (kk) and (pp), all of which are in dispute. That dispute arises from the nature of the consignment agreement between the Appellant and the Sellers and the way that the Appellant dealt with the Buyers when arranging a sale.
+[4] Ms. Caplette confirmed the evidence that the actual sale price of consignment sales never was paid to the Appellant or processed through his banks and records. The sales cheque was made out by the buyer into the seller's name. Then the buyer or the seller paid a separate cheque to the Appellant for the sales commission and the GST on that commission. The commission was not a percentage of the sales price. Rather it was set by the Appellant and the seller at the time the seller consigned the vehicle to the Appellant. At the same time the "Consignment Agreement" (Exhibit A-4) was signed by the Appellant and the seller. It set the minimum price. The Appellant was also entitled to receive the amount above the minimum price and the commission. The seller also signed a blank Bill of Sale for the Appellant to use if the vehicle sold for that minimum. Thereupon the Appellant received possession of the vehicle to sell. The Bills of Sale were never made in favour of the Appellant at any time. Ninety percent of the vehicles sold for less than the minimum price, so the seller had to sign a new Bill of Sale. Sometimes the Appellant signed such a Bill of Sale "as agent" when the seller was not in Moose Jaw to sign; on occasion, the Appellant stated that on occasion he signed an imitation of the seller's signature on such a Bill of Sale with the seller's permission. When the buyer paid the cheque (or cheques) for the sale price in favour of the seller (and, if necessary, the commission and GST) to the Appellant, the Appellant delivered possession of the vehicle from his used car lot to the buyer.
+[5] Subsection 177(1) of the Excise Tax Act is at issue. For the period in question, January 1, 1998 to September 30, 2001, it reads:
+177. (1) Where
+(a) a person (in this subsection referred to as the "principal") makes a supply (other than an exempt or zero-rated supply) of tangible personal property to a recipient (otherwise than by auction),
+(b) the principal is not required to collect tax in respect of the supply except as provided in this subsection, and
+(c) a registrant (in this subsection referred to as the "agent"), in the course of a commercial activity of the agent, acts as agent in making the supply on behalf of the principal,
+the following rules apply:
+...
+(e) in any other case, the supply of the property to the recipient is deemed, for the purposes of this Part, to be a taxable supply made by the agent and not by the principal and the agent is deemed, for the purposes of this Part other than section 180, not to have made a supply to the principal of services relating to the supply of the property to the recipient.
+[6] Appellant's counsel agreed that the decision of Dick Irwin Group Ltd. v. The Queen, 2002-4366(GST)I ("Irwin") applied in this case however that decision concerned a "broker" and there are a number of factual distinctions between Irwin and this case:
+1. Irwin did not have possession of the sale goods.
+2. Irwin did not obtain a blank signed Bill of Sale.
+3. Irwin never signed a Bill of Sale as agent or as the seller.
+4. Irwin did not have possession of the vehicle. The seller turned possession of the vehicle over to the buyer.
+[7] Paragraphs [13] and [14] of the Reasons for Judgment in Irwin refer to Section 177(1)(c) (described as "117(1)(c)" therein). They say:
+[13] Paragraphs 117(1)(c) of the Excise Tax Act describes a person who "is making the supply on behalf of the principal". That is not what a broker does, nor is it what the Appellant did in this case. The Appellant could accept an offer for the exact terms of the listing, but such an offer need not even be accepted. Rather, in such a case, the listing principal is making a general offer which the purchaser merely accepts. In any other case, the Appellant had to take an offer back to the lister for acceptance, all as set forth in the brokerage agreement. Moreover a broker does not have possession and the Appellant did not have possession.
+[14] All of these exceptions to an agency are as envisioned by Section 177 to take the Appellant outside of the Section. That is so because the Section envisages the Appellant to receive payment for the supply so as to pay the tax. That is perfectly logical respecting an agent who has possession of the goods and receives the payment of consideration for the sale of goods. It is not logical respecting a broker such as the Appellant who is not "intrusted" to fix terms, to have possession, to receive payment for, and to execute a transfer of the goods, which is what a fully qualified "agent" could and would do. That is the kind of agent envisaged by Section 177. In other words, a broker is not an agent within the meaning of paragraph 177(1)(c), because he does not make a supply.
+[8] Referring to paragraph [14] of Irwin as quoted, in this case the Appellant had possession of the vehicles and a blank signed Bill of Sale from the seller. Even where the sale price was below the minimum, he has signed Bills of Sale for the seller as agent or signed the seller's signature. The Appellant received the cheque in the seller's name and had possession of that cheque. The Appellant released possession of the vehicle to the buyer. Sarchuk, J. in Moran v. The Queen, 2005 G.T.C. 879 at paragraph [15] concluded:
+... the Appellants had possession of the goods, received payment therefor, executed a transfer of the goods, all acts that a fully qualified agent would normally do.
+[9] In this case the distinctions from Moran are that the Appellant received possession of a cheque to the seller, which he need not deliver to the seller until his commission was paid. The Bill of Sale was signed in blank by the seller for the Appellant to fill out or, in a number of cases, the Appellant signed a Bill of Sale himself.
+[10] In these circumstances, the Appellant was an agent within the meaning of paragraphs 177(1)(c) and (e). He made the supply and, through his possession of the buyer's cheque in favour of the seller, he could cause the seller to pay the G.S.T. For these reasons, the appeal of reassessment of G.S.T. is dismissed.
+[11] In these circumstances, the penalty levied under Section 280 and the interest levied are also due. The appeal of these is also dismissed.
+Signed at Sault Ste Marie, Ontario, this 6th day of September 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2005TCC581
+COURT FILE NO.: 2004-4263(GST)I
+STYLE OF CAUSE: Rod Horsnall v. The Queen
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: August 22, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: September 6, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Kevin C. Mellor
+Counsel for the Respondent:
+Gerald Chartier
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Kevin C. Mellor
+Firm: Mellor Law Firm
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

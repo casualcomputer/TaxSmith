@@ -1,0 +1,188 @@
+Title: Herroug c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28128/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-672-28128-herroug-c-la-reine-en.md
+Document type: case_law
+Last modified: 2007-11-16
+
+# Herroug c. La Reine
+
+- Citation: 2007 TCC 672
+- Decision date: 2007-11-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1648, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Herroug c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-16
+Neutral citation
+2007 TCC 672
+File numbers
+2004-4795(GST)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-4795(GST)G
+BETWEEN:
+RABAH HERROUG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 20, 2007, at Montréal, Quebec.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+The appeal from a notice of assessment dated October 10, 2003, bearing the number 03402031 for the period from July 1, 1999, to December 31, 2002, claiming an amount of $41,104.12 under Part IX of the Excise Tax Act is dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of November 2007.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 20th day of February 2008.
+François Brunet, Revisor
+Citation: 2007TCC672
+Date: 20071116
+Docket: 2004-4795(GST)G
+BETWEEN:
+RABAH HERROUG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from a notice of assessment issued to the Appellant under Part IX of the Excise Tax Act R.S.C. (1985), c. E‑15, as amended (hereinafter the Act), which bears the number 03402031, is dated October 10, 2003, and covers the period from July 1, 1999, to December 31, 2002 (hereinafter the period in issue).
+[2] By this notice of assessment, the Respondent is claiming from the Appellant the sum of $41,104.12 $, itemized as follows:
+(a) adjustments to the reported net tax calculation in the amount of $32,150.02;
+(b) penalties in the amount of $5,728.36; and
+(c) net interest in the amount of $3,225.74.
+[3] The amount of the adjustments to the reported net tax calculation, that is $32,150.02, represents the goods and services tax (hereinafter the GST) the Appellant collected but neither reported nor remitted to the Minister of Revenue of Quebec as an agent for the Respondent (hereinafter the Minister) in the amount of $29,700.46 and an amount of $2,449.57 claimed and obtained by the Appellant as input tax credits for the quarters ending on September 30, 1999, and December 31, 1999, which were disallowed in the absence of supporting documentation.
+[4] The GST in the amount of $29,700.46 collected by the Appellant that was neither reported nor remitted to the Minister is attributable to 2000 for an amount of $17,922.40, to 2001 for an amount of $10,184.42 and to 2002 for an amount of $1,593.64.
+[5] In issuing the notice of assessment of October 10, 2003, the Minister relied, in particular, on the following facts:
+(a) the Appellant worked for a company specializing in the sale of heat pumps and other heating and cooling equipment, that is Climatisation GR Inc. (hereinafter “GR”);
+(b) during the period in issue, the Appellant sold heat pumps on behalf of GR;
+(c) in addition to acting on behalf of GR, the Appellant engaged in business activities under the name Chalet Électronique;
+(d) the Appellant is a registrant for the purposes of Part IX of the Act;
+(e) the Appellant did not file any net tax return for the period between January 1, 2000, and December 31, 2002;
+(f) the Appellant claimed a commission from GR for each sale of a heat pump, or other system, by means of invoices, including GST and Quebec sales tax, addressed to GR;
+(g) GR then issued a cheque to the Appellant in the amount indicated on the invoice, which included the GST and Quebec sales tax;
+(h) during the period in issue, the Appellant collected, otherwise than as salary, the following amounts, excluding the GST and Quebec sales tax, either under his personal name or the name Chalet Électronique:
+i. $256,034.36 between January 1, 2000, and December 31, 2000, including $164,014.41 from GR;
+ii. $145,222.57 between January 1, 2001, and December 31, 2001, including $140,222.57 from GR;
+iii. $22,766.36 between January 1, 2002, and December 31, 2002, from an unknown source.
+[6] The Appellant disagrees with the assessment, as established, on the basis of, inter alia, the following facts:
+(a) during the period in issue, the Appellant also acted as a sales director for GR in that he was responsible for training sales representatives;
+(b) the Appellant was always an employee with GR;
+(c) as such, the Appellant received a base salary and commissions based on the sales made on behalf of GR;
+(d) the Appellant drove a car provided by the company;
+(e) for the 2000, 2001, 2002 and 2003 taxation years, the Appellant filed his income tax returns as an employee of the company;
+(f) the company made source deductions form the Appellant’s wages;
+(g) the company directly billed its customers for the sales made by the Appellant;
+(h) the Appellant always indicated to customers that he worked for the company;
+(i) at all relevant times, the company collected taxes from its customers on sales made by the Appellant;
+(j) as an employee, the Appellant never collected taxes on the sales he made.
+[7] The issues are as follows:
+(a) whether the Appellant collected GST as consideration for the commissions he billed to GR and as consideration for the supply of other goods and services not related to GR;
+(b) whether, if the GST was collected by the Appellant, that tax had to be remitted to the Minister by the Appellant; and
+(c) whether the Appellant is entitled to the amount of $2,449.57 as input tax credits that he previously claimed and obtained for the quarters ending on September 30, 1999, and December 31, 1999.
+[8] The Appellant testified and explained that he was a businessperson who operated an electronic repair business until December 1999 under the name “Chalet Électronique.” He was therefore a tax registrant but cancelled his tax numbers on January 1, 2000.
+[9] The Appellant stated that he became an employee of GR in January 2000 and that he left GR on December 31, 2001. In that respect, he produced a letter from the Ministère du Revenu du Québec dated August 30, 2004 (Exhibit A-1), which confirms that the Appellant was considered an employee for the services rendered from January 1, 1999, to December 31, 2001, to GR and that, as a result, GR had to pay his Québec Pension Plan contributions. The Appellant also produced a letter of confirmation of employment from GR dated August 14, 2001 (Exhibit A-2). Finally, the Appellant produced a copy of his Income Tax and Benefit Return (T1 General) for the year 2000 showing a total income of $272,659.60 which included a base salary of $44,000 and commissions in the amount of $228,659.60 (Exhibit A-3).
+[10] The Appellant explained that, during his first year of employment with GR, he received commissions on the sales he himself made and a percentage on the sales made by other GR salespersons. The Appellant also explained that, during that period, he received the total amount of his income by cheque, without tax adjustments, billing and source deductions.
+[11] The Appellant is not challenging the accuracy of the amounts received by GR as the amounts received represent the amounts appearing on the invoices. The Appellant also explained that GR gave advances to the salespersons to take into account incomplete sales and that GR did not provide any information pertaining to how the remuneration was calculated.
+[12] The Appellant explained that, after the tax authorities began auditing the affairs of GR in 2002, the company put in place a fictitious billing system under which the taxes were added to the salespersons’ remuneration. The Appellant stated that he never prepared or saw such invoices. The Appellant also stated that the income invoices were prepared by the company’s bookkeeper.
+[13] The auditor for the Ministère du Revenu du Québec, Danièle Fleury, testified and explained how she validated the total amount of the sales made by the Appellant at GR. She had access to the company’s ledger and to the Appellant’s bank statements following the issuance of letters of requirement to the banks. She obtained a copy of the invoices relating to the Appellant, a copy of the paycheques issued to the Appellant and a copy of the company’s accounts payable.
+[14] The auditor also explained that the input tax credits sought from the Appellant were paid to him without supporting documentation for the periods ending September 30, 1999, and December 31, 1999.
+[15] When cross-examined, the auditor acknowledged that the Appellant’s invoice numbers were sequential whereas the Appellant’s cheque numbers were not. The Appellant pointed out that it was really strange that the invoice numbers pertaining to the Appellant’s remuneration were sequential when the company had sales in excess of $45 million at the time.
+[16] The Appellant submitted as follows:
+(a) the Appellant was recognized by Quebec tax authorities as being a GR employee since 1999;
+(b) the president of GR stated that the Appellant was a GR employee in his letter of August 14, 2001;
+(c) the fact that the manual invoice numbers pertaining to the Appellant’s remuneration are sequential demonstrates that this is a fabrication after the fact;
+(d) the lack of documents relating to the Appellant’s remuneration;
+(e) the context in which the invoices were prepared shows that it is fraud. GR went bankrupt and its president, Ralph Abergel, was prosecuted for fraud;
+(f) the amount of the cheques received by the Appellant is not disputed and, following a four-year audit, the Appellant was never personally implicated in the fraudulent activities of GR and its president;
+(g) the Appellant’s bank accounts were seized and he still cannot access them.
+[17] Counsel for the Respondent pointed out that the Appellant did not report all his income in his 2000 income tax return. The 2000 income tax return filed with the Ministère du Revenu du Québec showed a total income of $39,215.25, including employment income of $4,177.53. That tax return was accompanied by a Relevé 1 indicating employment income for that amount. An amended 2000 income tax return was filed by the Appellant in 2004 with the Ministère du Revenu du Québec, this time showing employment income of $272,659.60. No Relevé 1 accompanied that income tax return. An Income Tax and Benefit Return for the year 2000 was filed in 2004 by the Appellant, which showed employment income of $272,659.60. No information slip (T4) was included with the tax return and no document was provided to show that a source deduction in the amount of $62,758.21 had been made. Moreover, the Income Tax and Benefit Return was not signed.
+[18] The following are some of the submissions of the Respondent in support of the assessment:
+(a) all the amounts on which the assessment is based are supported by documents;
+(b) taxes collected, including those to which a person is not entitled, must be remitted to tax authorities;
+(c) the Appellant was not entitled to input tax credits as he did not produce the supporting documentation required by the Input Tax Credit Information (GST/HST) Regulations (the Regulations);
+(d) no witness corroborated the fabrication of invoices by GR’s accounting department;
+(e) the Appellant is not credible as he failed to report significant income for the year 2000.
+[19] The Act requires that the amounts collected by a person “as or on account of tax” must be paid to the Receiver General. Subsections 221(1), 222(1) and 225(1) of the Act clearly indicate Parliament’s intent in that respect. The provisions read as follows:
+221(1) Collection of tax - Every person who makes a taxable supply shall, as agent of Her Majesty in right of Canada, collect the tax under Division II payable by the recipient in respect of the supply.
+. . .
+222(1) Trust for amounts collected - Subject to subsection (1.1), every person who collects an amount as or on account of tax under Division II is deemed, for all purposes and despite any security interest in the amount, to hold the amount in trust for Her Majesty in right of Canada, separate and apart from the property of the person and from property held by any secured creditor of the person that, but for a security interest, would be property of the person, until the amount is remitted to the Receiver General or withdrawn under subsection (2).
+. . .
+225(1) Net tax -- (1) Subject to this Subdivision, the net tax for a particular reporting period of a person is the positive or negative amount determined by the formula
+A - B
+where
+A is the total of
+(a) all amounts that became collectible and all other amounts collected by the person in the particular reporting period as or on account of tax under Division II, and
+(b) all amounts that are required under this Part to be added in determining the net tax of the person for the particular reporting period; and
+B is the total of
+(a) all amounts each of which is an input tax credit for the particular reporting period or a preceding reporting period of the person claimed by the person in the return under this Division filed by the person for the particular reporting period, and
+(b) all amounts each of which is an amount that may be deducted by the person under this Part in determining the net tax of the person for the particular reporting period and that is claimed by the person in the return under this Division filed by the person for the particular reporting period.
+[20] The Federal Court of Appeal has on numerous occasions upheld the principle that a person who collects tax, whether payable or not, must add it to the amount of the net tax under subsection 225(1) of the Act and remit it to the Receiver General. It is pertinent to refer to the decisions rendered in Gastown Actors Studio Ltd. v. Canada, (2000) G.S.T.C. 108, [2000] F.C.J. No. 2047, ITA International Travel Agency Ltd. v. Canada, (2002) G.S.T.C. 58 (F.C.A.), [2002] F.C.J. No. 733, and 800537 Ontario Inc. v. Canada, (2005) G.S.T.C. 165, [2005] F.C.J. 1732. In the latter decision, Sexton J.A. reproduced paragraph 10 of the reasons of Sharlow J.A. in Gastown Actors Studio Ltd., supra, in which she observed that:
+. . . a taxpayer who has in fact collected GST, whether for services that are taxable or for services that are later determined to be exempt supplies, must remit those amounts and is liable to be assessed if they are not remitted.
+[21] In Lorraine McDonell v. The Queen, [2005] T.C.J. No. 302, 2005 TCC 301, Bowman C.J. of this Court again confirmed the duty of every person who collects an amount as GST to remit it to the Receiver General even though it was collected in error. At paragraph 34, he made the following observation:
+Once a supplier collects an amount as GST, the supplier has an obligation to remit it even though it was collected in error. Therefore, it cannot be said that GST mistakenly collected from a recipient is not remittable by the supplier.
+[22] If the tax was paid in error, the person who paid the tax, rightly or wrongly, may obtain a reimbursement if the requirements of subsection 261(1) of the Act are met. According to paragraph 21 of the decision rendered by Bowman C.J. in the case cited above, it is the person who paid the tax who is entitled to a reimbursement and not the supplier who must simply remit it:
+. . . The purchaser is the person who has paid the tax, rightly or wrongly, and the supplier has simply remitted it. This strikes me as the plain meaning of the words in subsection 261(1).
+[23] Based on the evidence in the case, I am not convinced that the GST amounts stated on the invoices in the Appellant’s name were paid in error. The Appellant’s tax status within GR is very confusing.
+[24] According to Exhibit A-1, GR filed a notice of objection whereby it refused to pay the Appellant’s Québec Pension Plan contributions on the ground that the Appellant acted on its behalf as a self-employed worker for the services rendered to GR from January 1, 1999, to December 31, 2001. The objections officer of the Ministère du Revenu du Québec denied GR’s objection and concluded on August 30, 2004, that the Appellant was an employee and that the company had to pay his Québec Pension Plan contributions. It is important to note here that the decision was rendered after the 2000, 2001 and 2002 taxation years and after the amounts as or on account of GST were paid to the Appellant.
+[25] Exhibit A-2 entitled “Confirmation of Employment” dated August 14, 2001, adds to the confusion by confirming that the Appellant had been employed with GR since March 1, 2000, and not since January 1, 1999, and that the Appellant’s position, as indicated in Exhibit A-1, became permanent on January 1, 2001, at an annual salary of $44,200.00.
+[26] The Appellant did not report all his income for 2000 and did not include the T4 information slip with his federal income tax return.
+[27] The fact that the invoices were prepared by GR and not by the Appellant does not render them invalid. Self-assessment is not contrary to the Act and is also a procedure required by the Act under certain circumstances.
+[28] The Appellant did not file any tax returns in respect of the tax collected from GR and from recipients of all other goods and services provided by the Appellant outside of GR. The Minister determined the amount of GST collected based on GR’s invoices, cheques issued by GR in payment of said invoices and deposits made by the Appellant in his various bank accounts between January 1, 2000, and December 31, 2002.
+[29] The use of bank deposits to determine sales that are subject to GST is acceptable. Bowman C.J. observed at paragraph 9 of the decision in Montréal Timbres et Monnaies Champagne Inc. v. The Queen, 2005 TCC 186:
+. . . it is reasonably well established that bank deposits are an acceptable method of determining sales that are subject to GST, in the absence of evidence to the contrary.
+[30] As for the $2,449.57 claimed and obtained by the Appellant as input tax credits for the quarters ending on September 30, 1999, and December 31, 1999, the Appellant did not produce any supporting documentation. Bédard J. of this Court had an opportunity to address that issue and observed at paragraph 28 of the decision in Bobby Lee Baker v. The Queen, 2007 TCC 106:
+Subsection 169(4) of the Act and the Regulations are clear and the courts have adopted the position that a registrant is not entitled to receive the ITCs requested before filing the required supporting documentation. In this case, the Appellant did not produce the required supporting documentation as evidence and, therefore, he was not entitled to receive the ITCs claimed.
+[31] The information prescribed in section 3 of the Regulations is comprehensive and very onerous on the Appellant. In the case at bar, the Appellant did not discharge its duty to produce the supporting documentation necessary to obtain input tax credits.
+[32] The following excerpt from paragraph 3 of the judgment rendered by Bédard J. in Richard Gélinas v. The Queen, 2004 TCC 327, is entirely apposite in the case at bar:
+The evidence presented by the Appellant in support of his appeal relies essentially on his testimony and is unsupported, with the occasional exception, by any documentary evidence nor by any independent and credible testimony. . . .
+[33] The Appellant’s allegations that GR issued fake invoices to the Appellant and certain other salespersons, that GR went bankrupt following the execution of a search warrant issued following a sworn information and finally, that the president of GR is being prosecuted for fraud were not supported by any supporting documentation during the hearing. Those allegations cannot constitute sufficient evidence to rebut the presumptions as to the validity of the notice of assessment under subsection 299(4) of the Act, which reads as follows:
+An assessment shall, subject to being reassessed or vacated as a result of an objection or appeal under this Part, be deemed to be valid and binding, notwithstanding any error, defect or omission therein or in any proceeding under this Part relating thereto.
+[34] Considering that no submission was made by the Appellant concerning the imposition of the penalties, there is no need to address that issue.
+[35] For these reasons, the appeal is dismissed with costs.
+Signed at Ottawa, Canada, this 16th day of November 2007.
+“Réal Favreau”
+Favreau J.
+Translation certified true
+on this 20th day of February 2008.
+François Brunet, Revisor
+CITATION: 2007TCC672
+COURT FILE NO.: 2004-4795(GST)G
+STYLE OF CAUSE: Rabah Herroug and Her Majesty The Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: April 20, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: November 16, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Benoît Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

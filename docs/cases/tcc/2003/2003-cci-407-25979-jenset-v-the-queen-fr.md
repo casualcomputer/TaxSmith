@@ -1,0 +1,162 @@
+---
+title: "Jenset v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25979/index.do"
+last_modified: "2003-06-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 407"
+citation2: ""
+neutral_citation: "2003 CCI 407"
+decision_date: "2003-06-11"
+language: "fr"
+item_id: "25979"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3777
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:05:03.213000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0ef942e5cb2ecd47ebc56f5b1b200f0b7a2a1cca0b41ac6447fee27d24fc71e4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jenset v. The Queen
+
+- Citation: 2003 CCI 407
+- Decision date: 2003-06-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3777, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jenset v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-11
+Référence neutre
+2003 CCI 407
+Numéro de dossier
+98-2820(IT)I
+Juges et Officiers taxateurs
+Murray A. Mogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 98-2820(IT)I
+ENTRE :
+PETER ANTON JENSET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus les 29 et 30 août 2002, à Toronto (Ontario)
+Par : l'honorable juge M. A. Mogan
+Comparutions :
+Avocates de l'appelant :
+Mes A. Christina Tari et Marcella Aroca
+Avocate de l'intimée :
+Me Brianna Caryll
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations d'impôt établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1992, 1993 et 1994 sont admis, avec dépens, et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant compte du fait que l'appelant a droit à une perte déductible au titre d'un placement d'entreprise de 38 119 $ pour 1985 et de 77 533 $ pour 1990.
+Signé à Ottawa, Canada, ce 11e jour de juin 2003.
+« M. A. Mogan »
+J.C.C.I.
+Traduction certifiée conforme
+ce 4e jour d'avril 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI407
+Date: 20030611
+Dossier: 98-2820(IT)I
+ENTRE :
+PETER ANTON JENSET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Mogan
+[1] Les années d'imposition qui font l'objet du présent appel sont 1992, 1993 et 1994. L'appelant soutient qu'il est en droit de reporter prospectivement sur les années en cause et de déduire dans le calcul de son revenu imposable pour ces années des pertes autres qu'en capital subies au cours d'années antérieures. Plus précisément, l'appelant affirme qu'il a subi une perte déductible au titre d'un placement d'entreprise ( « PDTPE » ) en 1985 et en 1986, qu'il n'a pas pu déduire ces PDTPE en 1985 et 1986 et qu'il ne les a pas déduites durant les années antérieures à 1992. L'intimée refuse d'admettre que l'appelant a subi une PDTPE en 1985 et en 1986.
+[2] La principale question en litige dans cet appel est de savoir si l'appelant a subi une perte au titre d'un placement d'entreprise ( « PTPE » ) en 1985 ou en 1986. La PTPE est définie à l'alinéa 39(1)c) de la Loi. Dans la langue des affaires, il s'agit d'une perte en capital résultant de la disposition (i) d'une action d'une société exploitant une petite entreprise; ou (ii) d'une créance sur une société privée sous contrôle canadien exploitant une petite entreprise. La PDTPE est décrite à l'alinéa 38c) de la Loi comme étant une fraction d'une PTPE. Pour les années 1985 et 1986, une PDTPE correspond à la moitié de la PTPE subie durant l'année. La PTPE et la PDTPE déclarées par l'appelant pour 1985 et 1986 découlent d'un achat d'actions de Skinner Sports (1976) Limited, une société de l'Ontario, et d'un prêt consenti à celle-ci. Les parties ne contestent pas que Skinner Sports (1976) Limited (la « Société » ) était, à toutes les époques pertinentes, une société privée sous contrôle canadien et une société exploitant une petite entreprise. Ainsi, les seules questions de fait à trancher sont celles de savoir si l'appelant a investi de l'argent (par le biais d'un achat d'actions ou d'un prêt) dans la Société et si l'appelant a subi une perte découlant d'un tel investissement en 1985, en 1986 ou au cours de toute autre année antérieure à 1992.
+[3] En vertu de la Loi de l'impôt sur le revenu, si le contribuable, pour une année donnée, a subi une PDTPE qui n'a pas été déduite dans le calcul de son revenu pour l'année en question, le montant de cette PDTPE fait alors partie de la « perte autre qu'une perte en capital » du contribuable en application de l'alinéa 111(8)b) de la Loi; ledit montant peut être déduit du revenu imposable d'années antérieures ou postérieures en vertu de l'alinéa 111(1)a) de la Loi. Une perte autre qu'en capital peut être reportée rétrospectivement de trois ans et prospectivement de sept ans.
+[4] Au début de l'audition, les parties ont déposé des actes de procédure modifiés. Les avocates de l'appelant ont produit un nouvel avis d'appel, soit un [TRADUCTION] « avis d'appel modifié modifié » , et l'avocate de l'intimée a produit une réponse audit avis. Les avocates de l'appelant ont en outre déposé sous la cote A-1 un recueil de documents comportant 13 onglets. Les 13 documents ont été acceptés comme s'ils avaient été prouvés. Dans l'exposé des faits qui suit, je me fonde sur ce recueil de documents (pièce A-1) en faisant référence aux numéros d'onglets, et sur le témoignage oral de l'appelant, qui m'a donné l'impression d'être un témoin totalement crédible.
+Les faits
+[5] La Société exploitait à Toronto un magasin de vente d'équipement de chasse et de pêche au détail. En décembre 1980, l'appelant a acquis 50 % des actions de la Société. L'onglet 5 contient deux talons de chèques de 5 000 $ et de 12 500 $. L'appelant a affirmé que la somme de 5 000 $ avait été payée le 25 novembre 1980 à Bussin & Bussin (un cabinet d'avocats de Toronto) et qu'elle représentait une fraction du coût de sa part de 50 %. Il a déclaré que la somme de 12 500 $ avait été payée le 15 décembre 1980 à Cassels, Brock (un cabinet d'avocats de Toronto) et qu'elle constituait un prêt qui avait été consenti à la Société. Chaque talon de chèque comporte la mention [traduction] « Objet : Skinners » . L'onglet 1 contient le registre des actionnaires de la Société et montre que l'appelant a acquis deux actions ordinaires le 15 décembre 1980. Donald M. Rogers était l'autre actionnaire détenant deux actions ordinaires, soit l'autre part de 50 %. L'onglet 4 est une lettre de Cassels, Brock, datée du 3 juin 1981, confirmant que l'appelant a acquis 50 % des actions ordinaires et a consenti un prêt de 12 500 $ à la Société.
+[6] Après deux années rentables (1981 et 1982), la Société a commencé à perdre de l'argent en 1983 et en 1984. L'appelant et Donald Rogers ont consenti des prêts à la Société en 1984. L'onglet 2 correspond aux états financiers de la Société au 31 octobre 1984 et montre que les actionnaires ont prêté 225 737 $ (260 567 $ moins 34 830 $) au cours des 12 mois précédant le 31 octobre 1984. L'onglet 3 montre que Donald M. Rogers a prêté 167 000 $ à la Société du 1er janvier au 31 octobre 1984. En déduisant le montant prêté par Donald Rogers (167 000 $) du montant total des prêts consentis par les actionnaires (225 737 $), l'appelant soutient qu'il a prêté la somme de 58 737 $ à la Société durant l'exercice de 1984.
+Montant total prêté par les actionnaires
+225 737 $
+Prêts de D. M. Rogers
+167 000 $
+Prêts de l'appelant
+_58 737 $
+[7] Aucun élément de preuve ne vient contredire les déclarations de l'appelant et les documents. Je conclus donc que, jusqu'au 31 octobre 1984, l'appelant a investi dans la Société une somme d'au moins 76 237 $, répartie comme suit :
+Coût des actions en 1980
+5 000 $
+Prêt en 1980
+12 500 $
+Prêts en 1984
+58 737 $
+Coût des actions en 1980
+76 237 $
+[8] L'appelant et Donald Rogers ont donné des garanties à la Banque Royale du Canada relativement à la dette de la Société envers la Banque. Le 1er avril 1985, la Banque a demandé le paiement de tous les montants en souffrance. D'après une lettre de Donald Rogers datée du 9 avril 1985 (onglet 8), celui-ci avait versé à la Banque la somme de 180 417,73 $, avait acquis les créances garanties de la banque et avait nommé Dunwoody Limited comme administrateur-séquestre de l'actif et de l'entreprise de la Société, lui donnant le pouvoir de vendre ledit actif et ladite entreprise. D'après une lettre subséquente de Borden & Elliot, les procureurs de M. Rogers (onglet 9), datée du
+13 mai 1985, l'administrateur-séquestre avait réalisé 80 000 $ sur l'actif de la Société, ce qui laissait un déficit de 100 417,73 $.
+[9] La lettre de Borden & Elliot (onglet 9) sollicitait le versement de 50 208,61 $ par l'appelant à titre de contribution de 50 % pour couvrir le déficit. Comme l'appelant n'avait pas les moyens de payer 50 208,61 $, M. Rogers a présenté une requête de mise en faillite le 11 juin 1985 (onglet 7, partie A). L'appelant a contesté la requête par un document daté du 12 novembre 1985 (onglet 7, partie B), mais une ordonnance de séquestre a été rendue par un tribunal de l'Ontario le 20 novembre 1985 (onglet 7, partie C), tenant l'appelant pour failli et désignant Dunwoody Limited comme syndic de faillite. L'appelant a déclaré qu'il n'était pas insolvable en 1985 car il possédait un droit dans la succession de son père dont la valeur dépassait en 1985 le montant total de ses dettes.
+[10] D'après une déclaration sous serment de l'appelant de février 2002 (onglet 7) au soutien de sa requête visant l'annulation de l'ordonnance de séquestre du 20 novembre 1985, le syndic de faillite aurait reçu 366 808 $ en règlement d'un droit de l'appelant à l'égard de la succession de son père et aurait déboursé 315 813 $ en honoraires d'avocats et en frais judiciaires (onglet 7, partie E). La déclaration indiquait également que, après le règlement du droit de l'appelant à l'égard de la succession de son père au cours de l'été 1990, Borden & Elliot avait émis les deux chèques suivants à l'ordre de Donald Rogers (onglet 7, partie D) :
+24 juillet 1990
+362 689 $
+14 décembre 1990
+264 812 $
+L'appelant a cru comprendre que ces chèques réglaient la créance de M. Rogers à l'encontre des biens en faillite de l'appelant. Donald Rogers n'a pas contesté la requête de l'appelant visant l'annulation de l'ordonnance de séquestre. La Cour supérieure de justice de l'Ontario a rendu une ordonnance le 28 février 2002 (onglet 12) annulant l'ordonnance de séquestre du 20 novembre 1985.
+[11] L'appelant soutient que le montant de 50 208,61 $ qu'il devait à Donald Rogers au titre de sa contribution de 50 % à la dette payable à la Banque Royale correspondait en fait à la somme qui avait été payée à M. Rogers par l'intermédiaire du syndic de faillite et aux montants versés par Borden & Elliot en 1990 après le règlement de l'action intentée à l'encontre de la succession du père de l'appelant. Voir l'onglet 7, parties D et E, et la déclaration assermentée de l'appelant, onglet 7, paragraphes 17, 18, 19 et 20. Il me semble que toutes les créances des créanciers ordinaires de l'appelant ont été payées intégralement, sous réserve du prélèvement du surintendant. Compte tenu du fait que Donald Rogers et la Société ont renoncé à leur revendications à l'égard des biens en faillite de l'appelant, je conclus que la somme de 50 208,61 $ payable à Donald Rogers a été payée intégralement par le syndic de faillite en sa qualité de mandataire de l'appelant.
+[12] L'appelant soutient qu'il a investi indirectement dans la Société par le biais d'une troisième opération. En décembre 1980, la succession de E. Fryer a fait l'acquisition de 100 actions privilégiées de la Société au coût de 100 000 $; toutefois, en raison d'un conflit d'intérêt entre l'appelant et la succession Fryer, l'appelant et Donald Rogers ont été obligés de garantir le rachat des actions privilégiées. Comme la Société a été mise sous séquestre en avril 1985 et qu'elle n'a pas été en mesure de procéder au rachat des actions privilégiées, l'appelant et Donald Rogers ont dû s'acquitter de leur engagement en tant que cautions. Les actions privilégiées durent être rachetées comme suit :
+1er juillet 1985
+20 000 $
+2 janvier 1986
+30 000
+30 juin 1986
+50 000
+[13] Donald Rogers a écrit à l'appelant le 28 juin 1985 (onglet 10) pour lui demander de verser sa contribution de 10 000 $ (50 %) en vue de racheter les actions privilégiées, pour la somme de 20 000 $, le 1er juillet 1985. L'appelant croit avoir payé sa part de 50 % (10 000 $) en 1985, mais la pièce A-1 (onglet 11) qu'il a lui-même déposée indique le contraire. Dans une lettre datée du 3 mars 1987, provenant de Borden & Elliot et adressée au syndic de faillite (onglet 11), la somme de 25 609,37 $ était réclamée relativement à la somme payée par M. Rogers le 30 juin 1986 en vue de racheter des actions privilégiées, et une somme de 27 559,37 $ relativement aux montants payés le 1er juillet 1985 et le 2 janvier 1986 en vue de racheter des actions privilégiées. D'après l'affidavit de l'appelant et d'autres documents de l'onglet 7, je comprends que ces montants ont été payés intégralement par le syndic de faillite de l'appelant au cours des six derniers mois de 1990, lorsque toutes les créances de M. Rogers à l'encontre des biens en faillite de l'appelant ont été réglées en entier.
+[14] Sur la foi des faits résumés précédemment, j'ai conclu que l'appelant a investi les sommes suivantes dans la Société par le biais d'achat d'actions, de prêts consentis à la Société et de l'argent donné à Donald Rogers par l'intermédiaire du syndic de faillite afin de l'indemniser relativement aux garanties que M. Rogers avait données avec l'appelant à la Banque Royale du Canada et à la succession Fryer :
+Achat d'actions ordinaires en 1980
+5 000 $
+Prêt consenti à la Société en 1980
+12 500 $
+Prêt consenti à la Société en 1984
+58 737 $
+Cautionnement donné à la Banque Royale
+50 208,61 $
+Succession Fryer (1er juillet 1985 et 2 janvier 1986)
+27 559,37 $
+Succession Fryer (30 juin 1986)
+25 609,37 $
+Analyse
+[15] Soulignons le fait que les trois premières sommes du tableau qui précède ont été payées par l'appelant en 1980 et 1984. Ainsi, lorsque la Société a été mise sous séquestre en avril 1985, l'appelant a subi une PTPE de 76 237 $ en 1985 (le total des trois premières sommes). Les trois dernières sommes qui figurent au tableau n'ont pas été directement versées par l'appelant mais ont été payées en son nom par le syndic de faillite vers la fin des années 1990, après que le syndic a réglé l'action intentée à l'encontre de la succession du père de l'appelant. Malgré le fait que le syndic agit au nom des créanciers, on peut dire, dans les circonstances ici, que le syndic agissait également au nom de l'appelant, puisque tous les créanciers semblent avoir été payés intégralement. À mon avis, l'appelant a subi une PTPE de 103 377 $ en 1990 (le total des trois dernières sommes).
+[16] En vertu de l'alinéa 38c) de la Loi, la PDTPE d'un contribuable en 1985 est égale à la moitié de sa PTPE en 1985. Et, en 1990, la PDTPE d'un contribuable est égale aux trois quarts de sa PTPE en 1990. Par conséquent, pour ce qui est de mes conclusions au paragraphe 15 qui précède, je conclus que l'appelant avait une perte déductible au titre d'un placement d'entreprise de 38 119 $ en 1985 (la moitié de 76 237 $) et une perte déductible au titre d'un placement d'entreprise de 77 533 $ en 1990 (les trois quarts de 103 377 $). Bien que l'appelant ait été en droit considéré failli à compter du 20 novembre 1985 lorsque l'ordonnance de séquestre a été rendue (onglet 7, partie C) jusqu'au 26 février 1988 lorsqu'il a été libéré (onglet 7, partie F), je suis d'avis que le syndic de faillite était le mandataire de l'appelant pour le paiement de ses dettes étant donné que (i) la preuve fournie par l'appelant selon laquelle ses dettes envers Donald Rogers et la Société avaient été payées intégralement n'a pas été contredite; et (ii) l'ordonnance de séquestre a été annulée (sans que Donald Rogers ne s'y oppose) en février 2002 (onglet 12).
+[17] L'avocate de l'intimée a soutenu dans son argumentation qu'elle ne remettait pas en cause la crédibilité de l'appelant, mais qu'elle estimait que sa mémoire lui faisait défaut. Elle a confirmé mon impression selon laquelle l'appelant était totalement crédible. J'ai tenté de ne pas me fonder sur ce que l'appelant se souvient au sujet des faits importants, à moins qu'il n'existe un document contemporain à l'appui.
+[18] Les appels ont été interjetés sous le régime de la procédure informelle pour les années d'imposition 1992, 1993 et 1994. Je suis convaincu que les PDTPE de l'appelant de 38 119 $ pour 1985 et de 77 533 $ pour 1990 n'ont pas été « utilisées » comme pertes autres qu'en capital en application de l'alinéa 111(1)a) de la Loi au cours d'années antérieures à 1992. Comme il s'agit d'appels entendus sous le régime de la procédure informelle, certaines restrictions financières s'imposent quant à la mesure de redressement que l'appelant peut obtenir pour une année donnée. J'ai conclu que l'appelant avait une PDTPE de 38 119 $ pour 1985 et de 77 533 $ pour 1990 et, partant, j'accueille les appels. Par ailleurs, je laisse les parties s'entendre au sujet du montant de la « perte autre qu'une perte en capital » que l'appelant est en droit de reporter prospectivement et d'appliquer à chaque année en cause. Je comprends qu'une perte autre qu'en capital subie en 1985 ne peut être reportée prospectivement sur une année postérieure à 1992. Les parties peuvent se présenter à nouveau devant cette cour, par voie de requête, s'ils n'arrivent pas à s'entendre sur l'application des pertes autres qu'en capital.
+Signé à Ottawa, Canada, ce 11e jour de juin 2003.
+« M. A. Mogan »
+J.C.C.I.
+Traduction certifiée conforme
+ce 4e jour d'avril 2005.
+Sophie Debbané, réviseure

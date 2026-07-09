@@ -1,0 +1,194 @@
+---
+title: "Maslanka c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26455/index.do"
+last_modified: "2004-06-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 158"
+citation2: ""
+neutral_citation: "2004 TCC 158"
+decision_date: "2004-06-16"
+language: "en"
+item_id: "26455"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3140
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:19:52.687000+00:00"
+cases_cited_count: 1
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1532bcdf93cab284d7bb81e7ebb1b0b6757c29223d47fd91d2633b2fe5718036"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Maslanka c. La Reine
+
+- Citation: 2004 TCC 158
+- Decision date: 2004-06-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3140, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maslanka c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-16
+Neutral citation
+2004 TCC 158
+File numbers
+2002-2649(IT)I
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC158
+Date: 20040616
+Dockets: 2002-2649(IT)I
+2002-2652(IT)I
+BETWEEN:
+ROLANDE MASLANKA,
+JOHN MASLANKA,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+(Given orally at the hearing on January 13, 2004, at Montréal, Quebec,
+and amended for clarity.)
+Archambault J.
+[1] The Appellants are challenging the assessments by the Minister of National Revenue (Minister) with respect to the 1990 and 1991 taxation years. With respect to 1990, the Minister disallowed investment tax credits (ITC) related to scientific research and experimental development expenditures (research expenses) incurred during the year by an alleged general partnership, the Société de recherche Incotel enr. (Incotel). With respect to 1991, the Minister added a taxable capital gain to the Appellants' income. However, the reasons invoked in the Notices of Appeal dealt only with the rejection of the ITCs and the argument at the hearing also dealt only with the ITCs.
+[2] It is important to mention that the Minister did not disallow the business losses deducted by the Appellants in calculating their income from Incotel. Only the ITCs attributable to the research expenses incurred by Incotel were disallowed.
+[3] In this case, the Appellants' right to the ITCs depends on the determination of whether a genuine general partnership was formed and whether it operated a business during the relevant period.[1] If this is the case, their right therefore depends upon the application of subsection 127(8) of the Income Tax Act (Act). This subsection essentially provides that a member of a general partnership can deduct ITCs in an amount equal to the percentage appropriate to his share of the research expenses incurred by the partnership. However, members who are "specified members" within the meaning of subsection 248(1) of the Act do not have a right to ITCs related to these expenses.[2] The definition of "specified member" is found in subsection 248(1) of the Act:
+"specified member" of a partnership in a fiscal period or taxation year of the partnership, as the case may be, means
+(a) any member of the partnership who is a limited partner (within the meaning assigned by subsection 96(2.4)) of the partnership at any time in the period or year, and
+(b) any member of the partnership, other than a member who is
+(i) actively engaged in those activities of the partnership business which are other than the financing of the partnership business, or
+(ii) carrying on a similar business as that carried on by the partnership in its taxation year, otherwise than as a member of a partnership,
+on a regular, continuous and substantial basis throughout that part of the period or year during which the business of the partnership is ordinarily carried on and during which the member is a member of the partnership.
+[My emphasis.]
+[4] As indicated in my emphasis, paragraphs (a) and (b) of this definition are what pose the problem here. At the beginning of the hearing, I asked the Appellants to admit or deny the truthfulness of the facts assumed by the Minister when establishing the assessment for each of the Appellants. Since these facts are essentially the same in both appeals, I will only reproduce those appearing in Ms. Rollande Maslanka's Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) The purported general partnership "Société de recherche Incotel enr."(hereinafter referred to as "the Partnership") was created in 1990. There is a partnership agreement dated September 7, 1990, on which the names of Maurice Bougie (manager) and Jacques Doyon (secretary) appear;
+(b) The Partnership collected $670,000 from 40 purported shareholders;
+(c) The Partnership used two bank accounts at the Caisse populaire des Sources and at Laurentian Trust;
+(d) The Caisse populaire bank account was opened on December 28, 1990. A withdrawal of $208,000 (equal to the balance) was made from that account on January 9, 1991. This account became inactive in January 1991 and was closed due to inactivity on February 8, 1994;
+(e) The Partnership's financial statements, produced by the Appellant with her 1990 tax return, indicate zero gross income and a net loss of $663,373;
+(f) A document attached to the Appellant's tax return for 1990 indicates that she acquired 16,000 units at $1 each for a total cost of $15,841.76;
+(g) On her tax return for 1990, the Appellant claimed a business loss of $13,782 and an investment tax credit of $ 2,756.47;
+(h) A contract was granted by the Partnership to "Les Systèmes de communication Incotel ltée." With this contract the Partnership authorized the company to carry out a supposed research project for between $420,000 and $1,000,000. This contact was signed on February 15, 1990, by Maurice Bougie for the Partnership and by Serge Doyon for "Les systèmes de communication Incotel ltée." The contract duration was from February 15, 1990, to December 12, 1990;
+(i) The organizational chart appearing below shows the shareholders in "Système de communication Incotel inc.";
+[[diagram translation:
+162454 Canada Inc.
+37,5% = 37.5%
+62,5% = 62.5%
+128065 Canada Inc.
+autres = others
+Système de communication Incotel inc. = same]]
+(j) A purchase agreement dated May 24, 1991, indicated that "Les systèmes de communication Incotel" would pay $301,500 for the purchase of shares and technology by issuing cheques submitted directly to each shareholder for this purchase. This purchase agreement was signed by Maurice Bougie for "Les systèmes de communication Incotel ltée." and by Jacques Doyon for the Partnership;
+(k) The amount paid for the purchase of the [limited partnership] interests is equal to 45% of the amount that was supposed to have been invested by the alleged members;
+(l) The cheques paid to the members for the purchase of their interest were dated January 10, 1991;
+(m) The funds were drawn from a bank account belonging to "Les systèmes de communication Incotel ltée" located at the Caisse populaire des Sources;
+(n) The project presented by the Partnership was assessed by a Revenue Canada scientific advisor, who believed that the project met the criteria outlined in subsection 2900(1) of the Income Tax Regulations;
+(o) However, the scientific advisor established that a portion of the expenses claimed were ineligible because they were not directly related to research.
+[5] The Appellants indicated that they could not admit or deny the truthfulness of these paragraphs (except paragraphs (a) and (n), which they admitted), because they were unaware of the facts outlined therein.
+[6] The evidence presented during the hearing indicates that, when the underwriting of the interest in Incotel was promoted, the possibility of generous tax deductions was dangled in front of potential investors, and these deductions were connected to two important factors: the deduction of losses related to research expenses, and deduction of ITCs related to these expenses. In addition, investors were told that they could benefit not only from these tax deductions, but also as a result of the disposal of their Incotel interest for a return equal to 45% of their purchase cost. This disposal would occur several weeks after their investment in Incotel. Taking all of this into consideration, a benefit of approximately 10% could be realized.
+[7] All this evidence was provided by one of the Incotel investors, a Mr. Davignon, who indicated that he had realized a benefit of at least $910, which he calculated as follows: since he had borrowed to fund the purchase of his interest, at a cost of $10,000, the total disbursement of capital and interest was $10,588.29. If his federal and provincial income tax savings of $3,384 and $3,694 are added to the $4,420 in proceeds from the sale of his interest, which was offered as enticement, the total is $11,498. The difference between $11,498 and $10,588 is $910. Yet Mr. Davignon, upon sale of his interest, received $80 more than the figure used in hiscalculations. In fact, according to the cheque submitted as evidence, he received an amount of $4,500, which corresponds to exactly 45% of his initial $10,000 investment.
+[8] Mr. Davignon confirmed that even before investing $10,000 in Incotel, he knew that 45% of this amount would be returned to him upon sale of his interest, which was planned for several weeks later. In fact, he acquired his interest on December 6, 1990, and, on January 16, 1991, he deposited into his Caisse populaireaccount the proceeds of the sale of this interest, which he received in the form of a cheque dated January 10, 1991. The same date appeared on each of the cheques payable to the 39 other members of Incotel. These 40 cheques totalling $300,825 were drawn on an account which Systèmes de communication Incotel inc. (Communication) held at the Caisse populaire. This amount was composed of two deposits to this account: the first, of $207,225 was made on December 18, 1990, and the second, of $93,600, on January 9, 1991. This represents 45% of the amounts totalling $668,500 deposited on December 28 and 31, 1990.
+[9] An agency agreement between Incotel and Communication, dated February 15, 1990, under which Communication would incur research expenses on behalf of Incotel, was filed as evidence. This is quite disturbing, since the Incotel partnership agreement was not signed until September 7, 1990, which was seven months after the date of the agency agreement. Moreover, the Incotel financial statements as of December 31, 1990, that were provided to its alleged members and were attached to the Appelants' tax returns, indicate that Incotel is a general partnership that was formed on September 7, 1990.
+[10] During his testimony, Mr. Davignon stated that he did not recall having participated in any meetings whatsoever from the time of his investment on December 6, 1990, to the time he disposed of his interests on January 9, 1991. He confirmed that, at that time, he had no intention of becoming part of a general partnership, nor of operating a business. His goal was to realize the previously described benefit, through the mechanism of tax refunds and the reimbursement of 45% of his purchase price.
+[11] In their testimonies, the Appellants essentially corroborated the version of events presented by Mr. Davignon. This version corresponds to the events they themselves had experienced, except that the Appellants, especially Ms. Maslanka, had participated in at least two of three meetings. Ms. Maslanka remembered probably having filled out a questionnaire during these meetings, but she was unable to recognize the blank questionnaire which Counsel for the Respondent showed her during her examination. She remembered having visited the facilities as part of these meetings, but could remember neither the address of the facilities nor the Montréal neighbourhood in which they were located. She believed that she might have been told about the progress of the research. The Appellants acknowledged that they probably had been encouraged to invest in Incotel by their financial planning advisor.
+[12] The cheques representing the proceeds of the sale of the interest in Incotel were dated January 10, 1991. The cheque of $7,200 payable to Rolande Maslanka bears the number 11, and that of $6,750 payable to John Maslanka bears the number 10.
+[13] There is no lack of disturbing facts in these appeals, and yet one more must be added to the list. Although it seems that all the members sold their alleged interests in Incotel to Communication on or around January 15, 1994,[3] there is a contract of sale dated May 24, 1991, between Incotel (described as the Vendor) and Communication (described as the Purchaser), under which Communication acquired "member shares" from Incotel, as well as "all the plans, documentation, codes, sources, libraries, concepts, prototypes and software." How could Incotel have sold shares that belonged to members? Furthermore, since all the members had sold their interest in Incotel to Communication on or around January 15, 1991, Incotel could no longer have properly existed as a general partnership after that date, since only one individual held all the interest in Incotel.[4] It would therefore be on or around January 15, 1991 (and not on May 24, 1991) that Communication became the owner of all assets allegedly belonging to Incotel, and specifically all the rights Incotel may have had in the research it had (perhaps) funded under the agency agreement of February 15, 1990 (although Incotel did not yet exist!).[5]
+[14] Another no less astonishing fact (given the curious facts already mentioned): found among the individual agreements to purchase, dated May 24, 1991, for Communication's purchase of interests in Incotel, was that of the purchase of a $20,000 interest by a Mr. Émond, whereas this amount in reality represents his initial purchase cost. As Exhibit I-12 reveals, the amount he received was in fact $9,000. The same observation must be made with respect to the agreement to purchase related to the interest of Mr. Pierre Huot. This agreement indicates a purchase price of $10,000, whereas the cheque issued to him on or about January 15, 1991, was in the amount of $4,500. Therefore, not only does it seem that the purchase agreements do not appropriately reflect the legal reality of the operations taking place between the various actors in this saga, but it also seems that the other documents to which I have already referred do not do so either.
+Analysis
+Legal non-existence of Incotel
+[15] As I mentioned above (see note 1), in order for the Appellants to deduct ITCs, they must have incurred research expenses "in connection with a business." Yet the Appellants are only employees. A legitimate way for them to have created such a business would have been to invest in a genuine general partnership operating an actual business.[6] Inasmuch as the company incurs research expenses "in connection with" its business and inasmuch as its members are not specified members, the members may deduct ITCs related to such expenses. As a result, the first condition the Appellants must satisfy here is that of being members of a company operating a business.
+[16] All the facts presented as evidence give rise to serious doubt as to the existence of Incotel as a general partnership. First, according to the documentation prepared by the proponents of this fiasco, this alleged partnership did not even exist in February 1990, when it supposedly gave Communication a mandate. It was not incorporated until September 7, 1990. The expenses incurred prior to this date might only have been incurred for Maurice Bougie, who claimed to be acting for a general partnership that did not exist.
+[17] Furthermore, I do not even believe that Incotel was validly set up seven months later, on September 7, 1990. In my opinion, the conclusion reached by Chief Justice Garon in McKeown v. R., 2001 CarswellNat 811, 2001 DTC 511 (Fr.), [2001] 4 C.T.C. 2197 (Eng.), 2001 CarswellNat 1726 (Eng.) para. 393 also applies here:
+393 On the evidence, I conclude that the investors in question were merely seeking substantial tax benefits and never demonstrated any intention of working together to undertake scientific research and experimental development activities. In short, they had no intention of forming a genuine partnership.
+[18] The testimony of Mr. Davignon is quite revealing: he never had any intention of investing in a general partnership. He was only interested in deducting his financial losses and his ITCs, in other words, his tax refunds. All the evidence leads to a conclusion that the alleged partnership agreement was only a mechanism by which to give Communication the money necessary to fund its research expenses.[7] From the start, it was anticipated that the interest would be bought from the members a few weeks after their investment to fund the research project, and that is what happened. On or about January 15, 1991, each member's interest was bought and, from that time onward, Incotel had no further raison d'être. Let us also add that, even if it had been a partnership according to the Civil Code of Lower Canada, Incotel did not operate a business within the meaning of the Act for the same reasons as those I have just outlined.
+[19] If this conclusion is correct, we must conclude that the two Appellants were entitled neither to the ITCs nor to the Incotel losses they deducted. Nonetheless, the Minister granted the right to deduct them. Since Communication's research expenses incurred in 1990 were not related to any business of the Appellants (who did not operate a business because they were employees) or of a general partnership (since the alleged Incotel partnership did not operate a business), they cannot be deducted under section 37 of the Act. However this Court has no jurisdiction to increase the Appellants' taxes, and, as a result, can only confirm the Minister's assessment.
+The Appellants are specified members.
+[20] Even if, contrary to my belief, Incotel did constitute a general partnership operating a business, the Appellants would still have no right to ITCs because in 1990 they were specified members within the meaning of subsection 248(1) of the Act, not only because they were not actively engaged on a regular, continuous and substantial basis in the activities of Incotel, but also because they were each "limited partners." The definition of this expression can be found in subsection 96(2.4) of the Act, which reads:
+96(2.4) Limited partner. For the purposes of this section and sections 111 and 127, a taxpayer who is a member of a partnership at a particular time is a limited partner of that partnership at that time if his partnership interest is not an exempt interest at that time (within the meaning assigned by subsection (2.5)) and if, at that time or within three years after that time,
+(a) by operation of any law which governs the partnership arrangement, the liability of the taxpayer in his capacity as a member of the partnership, is limited;
+(b) the taxpayer or a person with whom the taxpayer does not deal at arm's length is entitled to receive an amount or obtain a benefit that would be described in paragraph (2.2)(d) if it were read without reference to subparagraphs (ii) and (vi) thereof;
+(c) one of the reasons for the existence of the taxpayer who owns the interest
+(i) may reasonably be considered to be to limit the liability of any other person with respect to that interest, and
+(ii) may not reasonably be considered to be to permit any person who has an interest in the taxpayer to carry on his business (other than an investment business) in the most effective manner; or
+(d) there is an agreement or other arrangement for the disposition of an interest in the partnership and one of the main reasons for the agreement or arrangement may reasonably be considered to be to attempt to avoid the application of this subsection to the taxpayer.
+[My emphasis.]
+[21] It is useful to refer once again to the words of Chief Justice Garon in McKeown,which are still relevant:
+406 Here, in view of the facts of this case, it seems to me that only the application of paragraph 96(2.4)(b) need be considered. That paragraph refers to paragraph 96(2.2)(d) but states that it must be read without reference to subparagraphs (ii) and (vi) thereof.
+407 The relevant part of paragraph 96(2.2)(d) of the Act reads as follows:
+96(2.2) For the purposes of this section . . . the at-risk amount of a taxpayer, in respect of a partnership of which he is a limited partner, at any particular time is the amount, if any, by which the aggregate of
+. . .
+exceeds the aggregate of
+. . .
+(d) where the taxpayer . . . is entitled, either immediately or in the future and either absolutely or contingently, to receive or obtain any amount or benefit, whether by way of reimbursement, compensation, revenue guarantee or proceeds of disposition or in any other form or manner whatever, granted or to be granted for the purpose of reducing the impact, in whole or in part, of any loss that the taxpayer may sustain by reason of being a member of the partnership or by reason of holding or disposing of an interest in the partnership, the amount or benefit, as the case may be, that the taxpayer . . . is or will be so entitled to receive or obtain, except to the extent that . . . the entitlement arises
+. . .
+(iv) by virtue of an agreement under which the taxpayer may dispose of the partnership interest for an amount not exceeding its fair market value, determined without reference to the agreement, at the time of the disposition.
+It follows from paragraphs 96(2.4)(b) and 96(2.2)(d) (subject to the restriction I have just referred to in the case of the latter) that a member is a limited partner where, at the time in question or within three years after that time, the member is entitled to receive or obtain, in any form or manner whatever, any amount or benefit referred to in paragraph 96(2.2)(d) if that amount or benefit is granted or to be granted "for the purpose of reducing the impact, in whole or in part, of any loss that the taxpayer may sustain by reason of being a member of the partnership or by reason of holding or disposing of an interest in the partnership".
+408 According to the respondent, the appellant had such an entitlement because it [TRANSLATION] "was anticipated and planned, at least tacitly, that the investors would dispose of their shares for a fixed amount exceeding their fair market value, which amount was determined in advance without reference to the value at the time of the disposition."
+[My emphasis.]
+[22] To encourage people to invest in Incotel, they were told that their interest would be bought for an amount equal to 45% of their investment, and that is what occurred. Furthermore, the letter dated January 14, 1991, mentions this explicitly: [TRANSLATION] "Following up on your investment in [Incotel], as agreed at the time of your purchase, please find a cheque enclosed, which represents your right of first refusal, [8] which is equal to 45% of the amount invested." [My emphasis.] They all sold their interest at this price. None of the purchase agreements produced at the hearing contained any price adjustment clause that could have been applied if the fair market value of the interest had been below 45% of the purchase price; if there had been such a clause, the agreement would have qualified for the exclusion found in subsection 96(2.2)(d)(iv) of the Act. As a result, since each of the Appellants had the right to benefits granted them [TRANSLATION] "in order to eliminate or reduce the effects of a loss due to the fact that he is a member of the company, that he has an interest in the company, or that he has access thereto." They were limited partners and specified members.
+[23] In addition to being specified members as a result of their status as limited partners, they were specified members because they were not actively engaged on a regular, continuous and substantial basis in the activities of Incotel. Their only interest was to attend two meetings at which, in a ridiculous attempt to establish that they took an active part in the activities of Incotel, they were asked to fill out a questionnaire that Ms. Maslanka was not even able to recognize. I do not hesitate to conclude, as did Chief Justice Garon in McKeown, at paragraph 424, that the Appelants' participation in the alleged company "was purely symbolic and artificial." Furthermore, since the Appellants had practically no knowledge of Incotel's activities, they were unable to admit almost all of the facts related to this alleged company, which were assumed by the Minister in his reply to the Notice of Appeal.
+[24] For all these reasons, the appeals are dismissed.
+Signed at Ottawa, Ontario, this 16th day of June 2004.
+"Pierre Archambault"
+Archambault J.
+Translation certified true
+on this 11th day of November 2004.
+Shulamit Day, Translator
+[1] As mentioned in the following note, in order for the Appellants to have a right to the ITCs, it is essential that the research expenses be incurred "in connection with a business" of the Appellants. Yet the Appellants were simply employees who did not themselves operate any business. The Appellants' tax returns, produced as Exhibits I-13 and I-14, indicate only employment income. The only business possible is Incotel. They could have had a right to the ITCs if they had been members of a general partnership operating a business and if the research expenses were "in connection with [this] business." However, other conditions must be fulfilled: specifically, they must have not have been specified members.
+[2] This subsection provides:
+127(8) Investment tax credit of partnership. Where, in a particular taxation year of a taxpayer who is a member of a partnership, an amount would, if the partnership were a person and its fiscal period were its taxation year, be determined in respect of the partnership, for its taxation year ending in that particular taxation year, under paragraph (a), (b) or (e.1) of the definition "investment tax credit" in subsection (9), if
+(a) Paragraph (a) of that definition were read without reference to subparagraph (iii) thereof, and
+(b) in the case of a taxpayer who is a specified member of the partnership in the taxation year of the partnership, (i) paragraph (a) of that definition were read without reference to subparagraph (ii) thereof . . .
+the portion of that amount that may reasonably be considered to be the taxpayer's share thereof shall be added in computing the investment tax credit of the taxpayer at the end of that particular taxation year.
+Subparagraph (9)(a)(ii) provides the following as a definition of ITCs:
+"investment tax credit" "investment tax credit of a taxpayer" at the end of a taxation year means the amount, if any, by which the aggregate of
+(a) the aggregate of all amounts each of which is the specified percentage of
+. . .
+(ii) a qualified expenditure made by him in the year,
+Subsection (9) defines a qualified expenditure as follows:
+"qualified expenditure" means an expenditure in respect of scientific research and experimental development made by a taxpayer after March 31, 1977 that qualifies as an expenditure described in paragraph 37(1)(a) or subparagraph 37(1)(b)(i), but does not include
+. . .
+The expenditure in paragraph 37(1)(a) is:
+37. Scientific Research and Experimental Development
+(1) Where a taxpayer carried on a business in Canada in a taxation year and files with his return of income under this Part for the year a prescribed form containing prescribed information, there may be deducted in computing his income from the business for the year such amount as he may claim not exceeding the amount, if any, by which the aggregate of
+(a) the aggregate of all amounts each of which is an expenditure of a current nature made by the taxpayer in the year or in a preceding taxation year ending after 1973
+(i) on scientific research and experimental development carried on in Canada, directly undertaken by or on behalf of the taxpayer, and related to a business of the taxpayer,
+. . .
+[My emphasis.]
+[3] As shown by the cheques (Exhibit I-12) and the letter sent with these cheques, dated January 14, 1991 (Exhibit I-9) produced as evidence.
+[4] All the cheques are dated January 10, 1991, and the cheque payable to Mr. Davignon was deposited to his account at the Caisse populaire on January 16, 1991. If Incotel had ever existed as a general partnership, it ceased to exist when as soon as it had only one member. For a general partnership to have any legal basis, there must be a minimum of two members, since the partnership is a contract between at least two people. According to the former Civil Code of Lower Canada (C.C.L.C.), the holding of all of the shares in the hands of one single partner results in the dissolution of the partnership, contrary to the provisions of article 2232 of the new Civil Code of Québec (C.C.Q.) in effect since 1994. Here are the Minister's comments regarding this section (submitted in the fall of 1991 to the sub-committee responsible for reviewing the bill):
+[TRANSLATION]
+This section is new law. Although it maintains the previous condition that there be at least two members, which is essential to all partnerships, it will temporarily delay the consequences arising from that which such a condition has just weakened, in order to grant the remaining member a period of time to interest one or several new members.
+[My emphasis.]
+[5] Clearly the Incotel proponents did not know what they were doing: this entire affair resembles the work, if not of charlatans, then at least of incompetent individuals.
+[6] Unlike common law requirements, it is not necessary in civil law for a partnership to operate a business. It is sufficient for the partnership to have been formed "for the common profit of the partners" (Article 1830 C.C.L.C.). This is even clearer in Article 2186 C.C.Q., which provides that "a contract of partnership is a contract by which the parties . . . agree to carry out an activity including the operation of an enterprise. Here are the comments of the Minister in this respect:
+[TRANSLATION]
+Furthermore, the idea of the carrying on of an enterprise-a larger notion than that of operating a business-is defined in article 1525. it should be noted that this concept does not exhaust all possible activities of a partnership, so some associations may constitute real partnerships but not carrying on an enterprise, such as securities investment groups, to give just one example.
+[7]
+Furthermore, it gained the ownership of the rights to the research.
+[8] An unsigned draft agreement produced as Exhibit I-10 grants Communication a right of first refusal [TRANSLATION] "for the assets that arise from investment contract No ­­­___, from [Incotel]. The sale price shall be equal to the fair market value as established after December 31, 1990." The purpose of this agreement does not therefore affect the interests in Incotel.

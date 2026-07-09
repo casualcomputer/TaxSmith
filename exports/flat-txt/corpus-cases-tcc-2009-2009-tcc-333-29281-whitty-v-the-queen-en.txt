@@ -1,0 +1,152 @@
+Title: Whitty v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29281/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-333-29281-whitty-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-06-18
+
+# Whitty v. The Queen
+
+- Citation: 2009 TCC 333
+- Decision date: 2009-06-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7082, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Whitty v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-06-18
+Neutral citation
+2009 TCC 333
+File numbers
+2008-1631(IT)I
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1631(IT)I
+BETWEEN:
+SHAWN T. G. WHITTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 18, 2009, at Ottawa, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ageliki Apostolakos
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2006 taxation year is dismissed.
+Signed at Ottawa, Canada, this 19th day of June 2009.
+“V.A. Miller”
+V.A. Miller, J.
+Citation: 2009TCC333
+Date: 20090619
+Docket: 2008-1631(IT)I
+BETWEEN:
+SHAWN T. G. WHITTY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller, J.
+[1] The issue in this appeal is whether subsection 118(5) of the Income Tax Act (the “Act”) precludes the Appellant from claiming the equivalent-to-spouse credit for his son Dylan in the 2006 taxation year.
+[2] The Appellant represented himself at the hearing of this appeal.
+[3] The parties submitted a Statement of Agreed Facts as follows:
+1. The Appellant and his former spouse, namely Christine Mair (the “Former Spouse”) had two children, namely Curtis Alexander Whitty, born February 13, 1990 and Dylan John Whitty, born January 15, 1993 (the “Children”).
+2. The Appellant and his Former Spouse have been living separate and apart since 1994.
+3. On March 9, 1995, Mr. Justice Millette of the Ontario Court (General Division), ordered that the Appellant pay his Former Spouse, by way of interim support for the two Children of the marriage, the sum of two hundred fifty dollars ($250.00) per month per child, commencing May 1, 1994, and on the first of each month thereafter, in advance.
+4. On February 15, 1996, Justice M. Métivier of the Ontario Court (General Division) ordered that, as of June 1, 1996, the Appellant shall pay an increased interim child support amount of seven hundred fifty dollars ($750.00) per month for the two Children of the marriage.
+5. On February 21, 1997, Mr. Justice R.C. Desmarais of the Ontario Court of Justice (General Division) granted a divorce judgment to the Appellant and his Former Spouse.
+6. On February 21, 1997, Mr. Justice R.C. Desmarais of the Ontario Court of Justice (General Division) stated at page 11 of his reasons that the Appellant has never paid the child support payments of seven hundred fifty dollars ($750.00) per month ordered on February 15, 1996, by Justice M. Métivier.
+7. At the time the consent order of $500 a month was made, the petitioner father was employed making some $38,000 a year. As of September 1996, he is no longer employed and is receiving unemployment insurance which provides him with a monthly income of $1,511.17, or some $18,000 for the year. This is confirmed by his most recent financial statement, dated February the 10th, 1997.
+8. On February 21, 1997, Mr. Justice R.C. Demarais of the Ontario Court of Justice (General Division) stated at p. 11 of his reasons that the Appellant was in arrears of child support payments in the amount of $3,445.17 as of February 1st, 1997.
+9. Mr. Justice R.C. Desmarais ordered on February 21, 1997, that arrears of child support in the amount of $3,445.17 are not to be rescinded.
+10. On February 21, 1997, Mr. Justice R.C. Desmarais also ordered that the Appellant pay by way of child support to his Former Spouse the sum of four hundred dollars ($400.00) per month for the two Children of the marriage, such support payments to commence on March 1, 1997.
+11. On January 26, 2006, Justice Linhares De Sousa of the Ontario Superior Court of Justice, Family Court ordered that Curtis Alexander Whitty shall live primarily with the Former Spouse and that Dylan John Whitty shall live primarily with the Appellant.
+12. In paragraph 3 of the reasons for judgment given by Justice Linhares De Sousa on January 26, 2006, it is stated that the Appellant’s ongoing child support obligation with respect to the Children was terminated effective January 26, 2006.
+13. In paragraph 4 of the reasons for judgment given by Justice Linhares De Sousa on January 26, 2006, it is stated that the Appellant’s child support arrears owed with respect to the two Children shall be fixed at $8,500.00, effective January 26, 2006.
+14. In paragraph 4 of the reasons for judgment given by Justice Linhares De Sousa on January 26, 2006, it is stated that the court costs payable by the Appellant and associated with the previous order of Mr. Justice R.C. Desmarais shall be fixed at $1,500.00.
+15. In paragraph 4 of the reasons for judgment given by Justice Linhares De Sousa on January 26, 2006, it is stated that the court costs payable by the Appellant and associated with the previous order of Mr. Justice R.C. Desmarais shall be fixed at $1,500.00.
+16. On January 1, 2006, the Appellant paid child support in respect of his son Dylan.
+17. In computing his income tax payable for the 2006 taxation year, the Appellant claimed an amount for an eligible dependent of $7505.00 for one of his children, Dylan John Whitty.
+18. By Notice of Assessment dated March 1, 2007, the Minister of National Revenue (the “Minister”) initially assessed the tax liability for the 2006 taxation year as filed by the Appellant.
+19. By Notice of Reassessment dated January 28, 2008, the Minister disallowed the amount for an eligible dependant referred to in paragraph 15 herein.
+[4] The Orders of the Ontario Court (General Division) and the Ontario Superior Court of Justice, Family Court, which are referred to in the Statement of Agreed Facts, were submitted to this court in an Agreed Book of Documents.
+[5] The relevant statutory provisions are subsections 56.1(4) and 118(5) and paragraph 118(1)(b) of the Act.
+56.1(4) "commencement day" at any time of an agreement or order means
+(a) where the agreement or order is made after April 1997, the day it is made; and
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+(i) the day specified as the commencement day of the agreement or order by the payer and recipient under the agreement or order in a joint election filed with the Minister in prescribed form and manner,
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+(iii) where a subsequent agreement or order is made after April 1997, the effect of which is to change the total child support amounts payable to the recipient by the payer, the commencement day of the first such subsequent agreement or order, and
+(iv) the day specified in the agreement or order, or any variation thereof, as the commencement day of the agreement or order for the purposes of this Act.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+118(b) wholly dependent person ["equivalent to spouse" credit] -- in the case of an individual who does not claim a deduction for the year because of paragraph (a) and who, at any time in the year,
+(i) is
+(A) a person who is unmarried and who does not live in a common-law partnership, or
+(B) a person who is married or in a common-law partnership, who neither supported nor lived with their spouse or common-law partner and who is not supported by that spouse or common-law partner, and
+(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+(A) except in the case of a child of the individual, resident in Canada,
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be,
+(C) related to the individual, and
+(D) except in the case of a parent or grandparent of the individual, either under 18 years of age or so dependent by reason of mental or physical infirmity,
+118(5) Support -- No amount may be deducted under subsection (1) in computing an individual's tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (within the meaning assigned by subsection 56.1(4)) to the individual's spouse or common-law partner or former spouse or common-law partner in respect of the person and the individual
+(a) lives separate and apart from the spouse or common-law partner or former spouse or common-law partner throughout the year because of the breakdown of their marriage or common-law partnership; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse or common-law partner or former spouse or common-law partner.
+[6] It is agreed by the Respondent that the Appellant meets all the conditions in paragraph 118(1)(b) of the Act. However, it is the Respondent’s position that, in 2006, the Appellant was required to pay a support amount to his former spouse and subsection 118(5) prohibits the Appellant from receiving the tax credit that is allowed under paragraph 118(1)(b).
+[7] It is agreed in this appeal that the Appellant paid child support on January 1, 2006.
+[8] The Appellant was in arrears of his child support payments and by the Order of Justice De Sousa which was dated January 26, 2006, these arrears were fixed at $8500. The court costs were added to these arrears so that the total the Appellant had to pay was $10,000. By this same Order, the Appellant was required to pay these arrears in monthly instalments of $141.
+[9] The amount of child support paid by the Appellant on January 1, 2006 is a “support amount” as that term is defined in subsection 56.1(4).
+[10] The accumulated arrears in the amount of $10,000 that the Appellant was required to pay also constitute a “support amount”[1].
+[11] The fact that the Appellant was required to pay the amount of arrears is sufficient to disentitle the Appellant from claiming the credit provided for in paragraph 118(1)(b) of the Act[2]. It is immaterial whether the Appellant in fact paid the amount of arrears.
+[12] The facts in this appeal were very similar to those in the case of LeClair v. R, 2005 TCC 363. In that case, the only issue before Justice Bowie was whether subsection 118(5) operated to deprive the taxpayer of a tax credit under paragraph 118(1)(b). Justice Bowie stated at paragraphs 4 and 5.
+[4] The Appellant's position is that subsection 118(5) does not operate to disentitle him to the credit under paragraph 118(1)(b) because he was not required to pay child support in respect of the year in question. The support that he paid was arrears relating to an earlier year, and therefore not within the purview of that provision.
+[5] Unfortunately for the Appellant, there is no room for doubt that his situation is caught by the plain words of subsection 118(5) of the Act. That provision operates where the taxpayer is required to pay a support amount in respect of the dependant for whom he claims the personal credit if either of two other conditions is met. Those are that the Appellant and the former spouse are living apart, or that the Appellant claims a deduction for the child support payments in the year. It is clear from the Appellant's own notice of appeal and from his evidence that all three conditions are met in this case. There is no doubt that the payment of arrears of child support ordered or agreed to be paid in respect of an earlier year, but remaining unpaid until the year in question, falls within the definition of a "support amount”.
+[13] Justice Bowie found that subsection 118(5) applied and he dismissed the appeal.
+[14] In the present appeal, counsel for the Respondent also submitted that the amendment made in 1998 to the Income Tax Budget Amendments Act, 1996 did not assist the Appellant.
+[15] If that provision applied, the amount of the arrears would not be included in the definition of support amount if
+i) it was received under a decree, order or judgment that does not have a commencement day, and
+ii) the amount, if paid and received would, but for this Act, not be included in computing the income of the recipient.
+[16] On the facts in this appeal there is a commencement day and it is January 26, 2006. Unfortunately for the Appellant, I must dismiss this appeal.
+[17] The Appellant raised the issue of fairness and he did mention the word Charter. I do not take it that a Charter issue has been raised merely by the Appellant using the word “Charter”. As well, I must make my decision in accordance with the Act. The Tax Court does not have jurisdiction to make a decision based on equity.
+[18] The appeal is dismissed.
+Signed at Ottawa, Canada, this 19th day of June 2009.
+“V.A. Miller”
+V.A. Miller, J.
+CITATION: 2009TCC333
+COURT FILE NO.: 2008-1631(IT)I
+STYLE OF CAUSE: SHAWN T. G. WHITTY AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: June 18, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Valerie Miller
+DATE OF JUDGMENT: June 19, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ageliki Apostolakos
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Mymryk v. R., 2003 TCC 760
+[2] Szuch v. R., 2005 TCC 188; affirmed 2006 FCA 383

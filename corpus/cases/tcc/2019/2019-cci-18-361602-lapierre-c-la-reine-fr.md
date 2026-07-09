@@ -1,0 +1,212 @@
+---
+title: "Lapierre c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/361602/index.do"
+last_modified: "2019-01-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 18"
+citation2: ""
+neutral_citation: "2019 CCI 18"
+decision_date: "2019-01-18"
+language: "fr"
+item_id: "361602"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4340
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:27:16.288000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "fdf5aed0c90ecb8d8be4309e37d9573d44b95e683830ff80ebcff20d390f1aee"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lapierre c. La Reine
+
+- Citation: 2019 CCI 18
+- Decision date: 2019-01-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4340, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lapierre c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-01-18
+Référence neutre
+2019 CCI 18
+Numéro de dossier
+2016-5158(IT)G
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-5158(IT)G
+ENTRE :
+LOUIS LAPIERRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 23 novembre 2018, à Montréal (Québec).
+Devant : L'honorable juge en chef adjointe Lucie Lamarre
+Comparutions :
+Pour l'appelant :
+L'appelant lui‑même
+Avocate de l'intimée :
+Me Marie-France Camiré
+JUGEMENT
+L'appel à l'encontre de la nouvelle cotisation établie par le ministre du Revenu national à l'égard de l'année d'imposition 2013 de l'appelant est rejeté avec dépens à l'intimée selon le tarif des Règles de la Cour canadienne de l'impôt (procédure générale).
+Signé à Ottawa, Canada, ce 18e jour de janvier 2019.
+« Lucie Lamarre »
+La juge en chef adjointe Lamarre
+Référence : 2019 CCI 18
+Date : 20190118
+Dossier : 2016-5158(IT)G
+ENTRE :
+LOUIS LAPIERRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge en chef adjointe Lamarre
+[1] L'appelant interjette appel de la nouvelle cotisation établie par le ministre du Revenu national dans laquelle ce dernier a refusé une déduction du revenu de 200 879 $ relativement au traitement que l'appelant a reçu de la Force internationale d'assistance à la sécurité (FIAS) au cours de l'année d'imposition 2013.
+[2] La thèse de l'intimée comporte deux volets. L'intimée déclare d'abord que le revenu de l'appelant n'est pas déductible au titre du sous‑alinéa 110(1)f)(iii) de la Loi de l'impôt sur le revenu (la « Loi ») au motif que l'appelant n'était pas un employé d'une organisation internationale visée par règlement.
+[3] Le deuxième argument de l'intimée est que le revenu de l'appelant n'est pas exonéré de l'impôt au titre de l'alinéa 81(1)a) de la Loi parce que le revenu n'est exonéré de l'impôt sur le revenu par aucune autre loi fédérale.
+Exposé des faits
+[4] Il n'est pas contesté que l'appelant a résidé au Canada au cours de l'année d'imposition 2013.
+[5] Il est également admis que l'appelant était un employé de la FIAS en Afghanistan aux termes d'un contrat de travail avec le quartier général de la FIAS (QG FIAS) à titre de consultant civil international à Kaboul, en Afghanistan, pour la période du 23 juin 2012 au 22 juin 2013 (pièce R‑1, onglet 6).
+[6] Les modalités du contrat étaient assujetties au Règlement du personnel civil (pièce R‑1, onglet 15) qui s'applique aux consultants civils internationaux de la FIAS dirigée par l'Organisation du Traité de l'Atlantique Nord (OTAN).
+[7] Ce règlement décrit les consultants civils internationaux comme des civils au service de la FIAS pour fournir des services spécialisés lors de missions, fonctions qui sont normalement exécutées par des militaires ou par des fonctionnaires civils de l'OTAN aux quartiers généraux en temps de paix. Les consultants civils internationaux font partie de la FIAS, comme il est indiqué dans l'accord militaro‑technique (pièce R‑1, onglet 15, page 7).
+[8] L'intimée a déposé la pièce R‑1, onglet 14, pages 2 et 3, une lettre de Steven Hill, conseiller juridique et directeur du contentieux de l'OTAN, à Bradley Bates, conseiller juridique à la section Nations Unies, droits de la personne et droit économique du ministère des Affaires étrangères. M. Bates a témoigné au sujet du contenu de cette lettre.
+[9] La lettre a été rédigée en réponse à la demande de M. Bates concernant les rapports entre la FIAS, y compris le QG FIAS, et la Convention sur le statut de l'Organisation du Traité de l'Atlantique Nord, des représentants nationaux et du personnel international (la Convention d'Ottawa).
+[10] La lettre dit que l'article 1 de la Convention d'Ottawa explique que l'OTAN se compose du Conseil et des organismes subsidiaires. En revanche, la FIAS était une opération ayant reçu un mandat de l'Organisation des Nations Unies (ONU) et était dirigée par l'OTAN sur le territoire de l'Afghanistan, sous l'autorité du Conseil de sécurité de l'ONU.
+[11] Le Conseil de sécurité de l'ONU a adopté des résolutions autorisant la création de la FIAS pour aider à maintenir la sécurité à Kaboul et dans les environs (pièce R‑1, onglet 12, résolution 1386 (2001) et résolution 1510 (2003)).
+[12] Le statut de la présence de la FIAS et de son personnel de soutien était régi par l'accord militaro‑technique conclu entre la FIAS et le gouvernement intérimaire afghan (pièce R‑1, onglet 11). Selon l'accord militaro‑technique (aux pages 3 et 10), les ententes concernant le statut de la FIAS étaient assujetties aux dispositions de la Convention sur les privilèges et immunités des Nations Unies concernant les experts qui accomplissent des missions, et ces dispositions s'appliquent, avec les modifications nécessaires, à la FIAS et au personnel de soutien.
+[13] Selon la lettre de M. Hill, l'OTAN n'a pris aucune décision pour que le QG FIAS soit un organisme subsidiaire de l'OTAN au sens de la Convention d'Ottawa.
+[14] De plus, la FIAS n'apparaît pas comme organisme subsidiaire assujetti à la Convention d'Ottawa sur la liste des organismes de l'OTAN auxquels s'applique le Règlement du personnel civil de l'OTAN (pièce R‑1, onglet 16, page 308).
+[15] La FIAS ne figure pas non plus au site Web de l'ONU comme l'une de ses institutions spécialisées (pièce R‑1, onglet 9).
+[16] En réponse à une question posée par l'appelant en contre‑interrogatoire, M. Bates a expliqué que le fait que le Règlement du personnel civil s'applique aux consultants civils internationaux de la FIAS dirigée par l'OTAN (selon la pièce R‑1, onglet 15) ne fait pas de la FIAS un organisme subsidiaire de l'OTAN. La FIAS comprenait des troupes provenant de nombreux pays contributeurs, dont certains ne font pas partie de l'OTAN (transcription, aux pages 57 et 58).
+Analyse
+1. La déduction au titre du sous‑alinéa 110(1)f)(iii) de la Loi
+[17] Le sous‑alinéa 110(1)f)(iii) de la Loi est ainsi rédigé :
+SECTION C
+Calcul du revenu imposable
+Déductions
+110(1) Pour le calcul du revenu imposable d'un contribuable pour une année d'imposition, il peut être déduit celles des sommes suivantes qui sont appropriées :
+[...]
+Déduction des paiements
+f) toute prestation d'assistance sociale payée après examen des ressources, des besoins ou du revenu et incluse en application de la division 56(1)a)(i)(A) ou de l'alinéa 56(1)u) dans le calcul du revenu du contribuable pour l'année ou toute somme dans la mesure où elle a été incluse dans le calcul du revenu du contribuable pour l'année, représentant, selon le cas :
+[...]
+(iii) un revenu tiré d'un emploi auprès d'une organisation internationale visée par règlement;
+[Non souligné dans l'original.]
+[18] Le paragraphe 8900(1) du Règlement de l'impôt sur le revenu définit ainsi les organisations internationales visées au sous‑alinéa 110(1)f)(iii) :
+PARTIE LXXXIX
+Entités visées par rapport à certaines règles
+Organisations internationales
+8900(1) Pour l'application du sous-alinéa 110(1)f)(iii) et de l'alinéa 126(3)a) de la Loi, les organisations internationales ci‑après sont visées :
+a) les Nations Unies;
+b) toute organisation internationale qui est une institution spécialisée reliée aux Nations Unies conformément à l'article 63 de la Charte des Nations Unies.
+[19] Voici le libellé de l'article 63 de la Charte des Nations Unies :
+Article 63
+1. Le Conseil économique et social peut conclure, avec toute institution visée à l'Article 57, des accords fixant les conditions dans lesquelles cette institution sera reliée à l'Organisation. Ces accords sont soumis à l'approbation de l'Assemblée générale.
+2. Il peut coordonner l'activité des institutions spécialisées en se concertant avec elles, en leur adressant des recommandations, ainsi qu'en adressant des recommandations à l'Assemblée générale et aux Membres des Nations Unies.
+[20] L'article 57 est ainsi rédigé :
+Article 57
+1. Les diverses institutions spécialisées créées par accords intergouvernementaux et pourvues, aux termes de leurs statuts, d'attributions internationales étendues dans les domaines économique, social, de la culture intellectuelle et de l'éducation, de la santé publique et autres domaines connexes sont reliées à l'Organisation conformément aux dispositions de l'Article 63.
+2. Les institutions ainsi reliées à l'Organisation sont désignées ci‑après par l'expression « institutions spécialisées ».
+[21] Les institutions spécialisées susmentionnées sont énumérées dans la liste au site Web de l'ONU déposée à titre de pièce R‑1, à l'onglet 9. Comme l'a mentionné M. Bates dans son témoignage et comme le démontre le site Web de l'ONU, la FIAS n'est pas considérée comme une institution spécialisée des Nations Unies. Bien que la FIAS soit autorisée par l'ONU, il s'agit d'une entité distincte de l'ONU. En ce qui concerne les éléments de preuve susmentionnés, l'appelant n'a présenté aucun autre élément de preuve démontrant que la FIAS est une institution spécialisée de l'ONU.
+[22] Il s'ensuit que le revenu d'emploi versé à l'appelant par la FIAS n'est pas un revenu tiré d'un emploi auprès d'une organisation internationale visée par règlement au sens du sous‑alinéa 110(1)f)(iii) de la Loi, et n'est donc pas déductible dans le calcul de son revenu imposable.
+[23] L'appelant a également soulevé l'iniquité de son traitement fiscal sous le régime de la Loi en tant qu'employé civil travaillant à l'étranger par rapport au traitement dont il faisait l'objet lorsqu'il était un militaire des Forces canadiennes à l'étranger, même si ses fonctions étaient très semblables.
+[24] La Cour canadienne de l'impôt n'est pas une cour d'equity; elle est liée par la Loi. La question de savoir si le législateur accorde à certains membres des Forces canadiennes à l'étranger une déduction dans le calcul du revenu d'emploi au titre de l'alinéa 110(1)f) et si le législateur n'accorde pas aux employés civils une déduction semblable, même lorsqu'ils exercent des fonctions semblables, n'est pas une question dont je suis saisie; je ne me prononcerai donc pas à ce sujet. L'appelant doit exercer son recours, s'il existe, auprès du législateur et non pas de la Cour.
+2. L'exonération de l'impôt sur le revenu au titre de l'alinéa 81(1)a) de la Loi
+[25] L'alinéa 81(1)a) de la Loi est ainsi rédigé :
+SOUS-SECTION G
+Sommes exclues du calcul du revenu
+Sommes à exclure du revenu
+81(1) Ne sont pas inclus dans le calcul du revenu d'un contribuable pour une année d'imposition :
+Exemptions prévues par une autre loi
+a) une somme exonérée de l'impôt sur le revenu par toute autre loi fédérale, autre qu'un montant reçu ou à recevoir par un particulier qui est exonéré en vertu d'une disposition d'une convention ou d'un accord fiscal conclu avec un autre pays et qui a force de loi au Canada;
+[26] Selon l'appelant, la Convention d'Ottawa (qui est intégrée à la Loi sur les privilèges et immunités de l'Organisation du Traité de l'Atlantique Nord) est une loi fédérale qui lui accorde une exonération de l'impôt sur son revenu d'emploi provenant de la FIAS. L'intimée affirme que la Convention d'Ottawa ne s'applique pas en l'espèce.
+[27] L'article 2 de la Loi sur les privilèges et immunités de l'Organisation du Traité de l'Atlantique Nord est ainsi rédigé :
+Approbation de la Convention
+2. Est approuvée et confirmée la Convention sur le statut de l'Organisation du Traité de l'Atlantique Nord, des représentants nationaux et du personnel international, reproduite en annexe.
+[28] La convention visée à l'article 2 est la Convention d'Ottawa.
+[29] La Convention d'Ottawa est reproduite dans l'annexe de la Loi sur les privilèges et immunités de l'Organisation du Traité de l'Atlantique Nord. Voici le libellé des articles 1, 2, 17 et 19 de la Convention d'Ottawa :
+TITRE I
+Généralités
+Article 1
+Dans la présente Convention,
+a) « l'Organisation » désigne l'Organisation du Traité de l'Atlantique Nord se composant du Conseil et des organismes subsidiaires;
+b) « le Conseil » signifie le Conseil prévu à l'Article 9 du Traité de l'Atlantique Nord et les Suppléants du Conseil;
+c) « organismes subsidiaires » désigne tout autre organisme, comité ou service créé par le Conseil ou placé sous son autorité, à l'exception de ceux auxquels, en vertu des dispositions de l'Article 2, la présente Convention ne s'applique pas;
+d) « Président des Suppléants du Conseil » désigne également, en son absence, le Vice-Président agissant à sa place.
+Article 2
+La présente Convention ne s'applique pas aux quartiers généraux créés en exécution du Traité de l'Atlantique Nord, non plus qu'aux autres organismes militaires, à moins que le Conseil n'en décide autrement.
+TITRE IV
+Personnel international et experts en mission pour le compte de l'Organisation
+Article 17
+Les catégories de fonctionnaires auxquelles s'appliquent les Articles 18 à 20 feront l'objet d'un accord entre le Président des Suppléants du Conseil et chacun des Gouvernements des États membres intéressés. Le Président des Suppléants du Conseil communiquera aux États membres les noms des personnes comprises dans ces catégories.
+Article 19
+Les fonctionnaires de l'Organisation visés à l'Article 17 seront exempts d'impôts sur les appointements et émoluments qui leur seront payés par l'Organisation en leur qualité de fonctionnaires de celle‑ci. Toutefois, un État membre pourra conclure avec le Conseil, agissant au nom de l'Organisation, des arrangements permettant audit État membre de recruter et d'affecter à l'Organisation ses propres ressortissants (exception faite, si cet État membre le désire, de tout ressortissant ne résidant pas habituellement sur son territoire), devant faire partie du personnel international de l'Organisation. Il paiera dans ce cas les salaires et émoluments desdites personnes sur ses propres fonds selon un barème déterminé par lui. Ces salaires et émoluments pourront faire l'objet d'une imposition de la part de l'État membre en question, mais ne pourront être imposés par un autre État membre. Si un arrangement de cette nature conclu par un État membre est par la suite modifié, ou dénoncé, les États membres ne seront plus obligés en vertu de la première clause de cet Article d'exonérer de l'impôt les salaires et émoluments payés à leurs propres ressortissants.
+[30] Selon l'intimée, la Convention d'Ottawa ne s'applique qu'à l'OTAN, c'est‑à‑dire au Conseil et à ses organismes subsidiaires. L'intimée affirme que la FIAS n'est pas un organisme subsidiaire au sens de l'article 1 de la Convention d'Ottawa, puisque la FIAS n'est pas sous l'autorité du Conseil. Même si la FIAS faisait partie d'une opération menée par l'OTAN en Afghanistan, l'intimée soutient que la FIAS est sous l'autorité du Conseil de sécurité de l'ONU. La constitution de la FIAS a été autorisée par les Nations Unies et aucune décision de l'OTAN n'établit que le QG FIAS est un organisme subsidiaire de l'OTAN au sens de la Convention d'Ottawa. Par ailleurs, l'intimée soutient que même si la FIAS est un organisme subsidiaire de l'OTAN, la Convention d'Ottawa ne s'applique pas à la FIAS et, par conséquent, à l'appelant, parce que la FIAS est un organisme militaire.
+[31] Aux paragraphes 17 et 19 de son avis d'appel, l'appelant soutient que l'article 19 de la Convention d'Ottawa exonère son revenu de l'impôt parce que la FIAS est un organisme subsidiaire de l'OTAN, et parce qu'il occupait un poste qui le plaçait dans l'une des « catégories de fonctionnaires [...] [qui font] l'objet d'un accord entre le Président des Suppléants du Conseil et chacun des Gouvernements des États membres intéressés » au sens de l'article 17 de la Convention d'Ottawa. L'appelant fait valoir que telle était la nature de son poste parce que l'OTAN a supervisé le processus d'embauche pour le poste et a effectué une vérification de sécurité. Son salaire aurait également été payé grâce au budget commun de financement de l'OTAN.
+[32] L'intimée a répondu que l'appelant n'avait pas de contrat d'emploi avec l'OTAN, mais qu'il avait été embauché comme consultant civil international pour le QG FIAS. Selon son contrat, il n'est pas un fonctionnaire civil international de l'OTAN (pièce R‑1, onglets 5, 6 et 7). Le Règlement du personnel civil applicable à l'appelant ne prévoit aucune exonération fiscale pour les consultants civils internationaux (pièce R‑1, onglet 15).
+[33] Je conviens avec l'intimée que la Convention d'Ottawa ne s'applique pas de façon à exonérer le revenu de l'appelant de l'impôt canadien. La preuve montre clairement que l'appelant était un employé de la FIAS, et non de l'OTAN.
+[34] L'appelant n'a pas établi que la FIAS est l'un des organismes subsidiaires de l'OTAN. La preuve établit plutôt que la FIAS a été créée par résolution du Conseil de sécurité des Nations Unies pour aider à maintenir la sécurité lors de la reconstruction de l'Afghanistan (résolution 1386 (2001) et résolution 1510 (2003), pièce R‑1, onglet 12).
+[35] Subsidiairement, même si la FIAS devait être considérée comme un organisme subsidiaire de l'OTAN, je conviens avec l'intimée qu'il s'agit d'un organisme militaire auquel la Convention d'Ottawa ne s'applique pas. Selon la preuve présentée, la FIAS est régie par l'accord militaro‑technique, dont le libellé suggère fortement que la FIAS est un organisme militaire. Même si la FIAS emploie du personnel civil comme l'appelant, elle demeure un organisme militaire. Il ressort clairement de l'article 2 de la Convention d'Ottawa que la Convention ne s'applique pas aux quartiers généraux militaires créés en exécution du Traité de l'Atlantique Nord ni à aucun autre organisme militaire, à moins que le Conseil n'en décide autrement. Rien n'indique que le Conseil en ait décidé autrement.
+[36] Par conséquent, je conclus que le revenu de l'appelant n'est pas exonéré de l'impôt au titre de l'alinéa 81(1)a) de la Loi.
+[37] L'appel est rejeté.
+Signé à Ottawa, Canada, ce 18e jour de janvier 2019.
+« Lucie Lamarre »
+La juge en chef adjointe Lamarre
+RÉFÉRENCE :
+2019 CCI 18
+NO DU DOSSIER DE LA COUR :
+2016-5158(IT)G
+INTITULÉ :
+Louis Lapierre c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+Le 23 novembre 2018
+MOTIFS DU JUGEMENT :
+L'honorable juge en chef adjointe Lucie Lamarre
+DATE DU JUGEMENT :
+Le 18 janvier 2019
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Marie-France Camiré
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l'intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

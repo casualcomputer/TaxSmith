@@ -1,0 +1,177 @@
+---
+title: "Raposo v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/309701/index.do"
+last_modified: "2018-04-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 81"
+citation2: ""
+neutral_citation: "2018 TCC 81"
+decision_date: "2018-04-26"
+language: "en"
+item_id: "309701"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4846
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:49:03.187000+00:00"
+cases_cited_count: 9
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c5e2860fb6cda1a71100a05ed908c0b2d42d3c75ec0c1178fa4a22cc9a32abd6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Raposo v. The Queen
+
+- Citation: 2018 TCC 81
+- Decision date: 2018-04-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4846, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Raposo v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-04-26
+Neutral citation
+2018 TCC 81
+File numbers
+2015-2983(GST)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2015-2983(GST)G
+BETWEEN:
+DANIEL RAPOSO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on April 6 and 7, 2017, at Ottawa, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the appellant:
+Chantal Donaldson
+Counsel for the respondent:
+Marc Lesage
+JUDGMENT
+The appeal from the assessment made pursuant to Part IX of the Excise Tax Act, the notice of which is dated March 25, 2013, is allowed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of April 2018.
+“B. Paris”
+Paris J.
+Citation: 2018 TCC 81
+Date: 20180426
+Docket: 2015-2983(GST)G
+BETWEEN:
+DANIEL RAPOSO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] The appellant is appealing from an assessment dated March 25, 2013 made by the Minister of Revenue of Quebec (the Minister) pursuant to Part IX of the Excise Tax Act (ETA). The assessment, in the amount of $63,706.38 (including interest and a penalty), is for the period from January 1, 2009 to December 31, 2010. According to the Minister, the appellant belonged to a group called the [translation] “Raposo clan” that was involved in selling drugs. The Minister concluded that the appellant was accordingly jointly and severally liable with the other Raposo clan members for the payment of goods and services tax (GST) of $40,200.00 collectible on the sales of drugs.
+[2] The issue is whether the appellant and the other Raposo clan members are jointly and severally liable, such that the appellant is liable for the GST not collected and remitted on the sales of drugs by the clan in 2009 and 2010.
+Facts
+[3] During an investigation that began in January 2009, police officers of the Outaouais Joint Regional Squad (the JRS) learned that two groups, including the Raposo clan, were involved in drug trafficking in the Gatineau region. The Raposo clan is composed of four members: the appellant, his brother Emmanuel Raposo, Denis Lecompte and Gilles Poiré. Emmanuel Raposo was identified as the leader of the clan.
+[4] According to the JRS investigator who testified in this case, the Raposo clan bought from the Montreal Hells Angels and then sold to the Lalonde clan in Gatineau. The investigator concluded that, from May 2009 to March 2010, the Raposo clan sold 10 kilos of cocaine to the Lalonde clan.
+[5] The JRS’s investigation led to the arrest of 23 individuals in June 2010, including the members of the Raposo clan.
+[6] Charges of conspiracy and possession of drugs for the purpose of trafficking were brought against the appellant; he pleaded guilty on January 7, 2014. He received a conditional prison sentence of two years less a day.
+[7] Despite his guilty plea, the appellant says that his involvement in the Raposo clan’s activities was very limited and that he did not share in the profits from these activities. According to the appellant, in May 2009, his brother asked him to help by delivering verbal messages to André Verdon and by delivering packages. His errands never took longer than 20 minutes. The subject of the messages was the place and time of future meetings. The appellant states that he did not know at the time what the packages contained, but the JRS investigator presumed that the purpose of the deliveries was to transfer money. Still, the appellant confirmed that, for each of the six or seven errands that he ran, his brother gave him between $200 and $250.
+[8] The evidence supports the appellant’s claim that his income related to the clan’s activities was limited to those payments received from his brother. Neither the police searches at the appellant’s home nor Revenu Québec’s [translation] “cash flow” analysis supported a finding that Daniel Raposo shared in the revenue from the cocaine business, aside from the payments for the errands that he ran.
+[9] In December 2009, the appellant decided to stop working with his brother. As for the reasons that prompted him to stop, the appellant explained that he was afraid and that he knew that it was “dirty business”. After December 2009, the appellant was no longer involved in the Raposo clan’s activities.
+[10] In making the assessment in question, the Minister relied on information gathered by the JRS, namely that the Raposo clan had sold nine kilos of cocaine in 2009 and three kilos in 2010, at the price of $67,000 per kilo. The Minister assumed that the appellant and the other members of the Raposo clan had conspired and made joint efforts to purchase and sell drugs, that they participated in these activities and that, on that basis, they were jointly and severally liable for payment of the GST collectible on the supplies made.
+The respondent’s position
+[11] At the hearing of the appeal, counsel for the respondent argued that the joint and several liability of the Raposo clan members, including the appellant, for the payment of the clan’s tax debt flowed from article 1525, paragraph 2 of the Civil Code of Québec, 1991, c. 64 (“C.C.Q.”). Article 1525 reads as follows:
+1525. Solidarity between debtors is not presumed; it exists only where it is expressly stipulated by the parties or provided for by law.
+Solidarity between debtors is presumed, however, where an obligation is contracted for the service or operation of an enterprise.
+The carrying on by one or more persons of an organized economic activity, whether or not it is commercial in nature, consisting of producing, administering or alienating property, or providing a service, constitutes the operation of an enterprise.
+[Emphasis added.]
+[12] In French, article 1525 provides:
+1525. La solidarité entre les débiteurs ne se présume pas; elle n’existe que lorsqu’elle est expressément stipulée par les parties ou prévue par la loi.
+Elle est, au contraire, présumée entre les débiteurs d’une obligation contractée pour le service ou l’exploitation d’une entreprise.
+Constitue l’exploitation d’une entreprise l’exercice, par une ou plusieurs personnes, d’une activité économique organisée, qu’elle soit ou non à caractère commercial, consistant dans la production ou la réalisation de biens, leur administration ou leur aliénation, ou dans la prestation de services.
+[13] The respondent argued that solidarity must be presumed because Daniel Raposo had contracted an obligation by participating in the trafficking of cocaine. However, when questioned on this, the respondent could not specify the nature of the obligation or explain the relationship between article 1525 of the C.C.Q. and article 1413 of the C.C.Q., under which any contract that is contrary to public order is null. The Court therefore invited the respondent to provide a written textual, contextual and purposive analysis of paragraph 2 of article 1525 of the C.C.Q., that is, an analysis dealing with the question of whether a tax debt could constitute “an obligation . . . contracted for the service or operation of an enterprise.”
+[14] Rather than complying with this request, the respondent, in her written submissions, abandoned the argument that there was solidarity under article 1525 of the C.C.Q. Instead, it was decided that the assessment would be based only on the joint and several liability arising under subsection 272.1(5) of the ETA, pursuant to which an assessment based on the joint and several liability of the members may be issued against a member of a partnership.
+[15] Subsection 272.1(5) of the ETA provides:
+Joint and several liability
+(5) A partnership and each member or former member (each of which is referred to in this subsection as the “member”) of the partnership (other than a member who is a limited partner and is not a general partner) are jointly and severally, or solidarily, liable for
+(a) the payment or remittance of all amounts that become payable or remittable by the partnership under this Part before or during the period during which the member is a member of the partnership or, where the member was a member of the partnership at the time the partnership was dissolved, after the dissolution of the partnership, except that
+(i) the member is liable for the payment or remittance of amounts that become payable or remittable before the period only to the extent of the property and money that is regarded as property or money of the partnership under the relevant laws of general application in force in a province relating to partnerships, and
+(ii) the payment or remittance by the partnership or by any member thereof of an amount in respect of the liability discharges their liability to the extent of that amount; and
+(b) all other obligations under this Part that arose before or during that period for which the partnership is liable or, where the member was a member of the partnership at the time the partnership was dissolved, the obligations that arose upon or as a consequence of the dissolution.
+[Emphasis added.]
+[16] In this case, the respondent maintains that, for the purposes of the ETA, the clan is a “partnership” carrying on a cocaine business and that the clan members must accordingly be recognized as “members” of the partnership.
+[17] The respondent argues that Daniel Raposo would therefore be a member of the partnership that is the “Raposo clan” and that the evidence shows that his participation in the supply of drugs (12 kilos) was both direct and necessary, and also shows his participation in the payment for this supply. The respondent states that the appellant made his contribution in a spirit of cooperation, using his own car, his gas, his cellphone and especially his time, and that he participated in the fruits of this commerce by receiving payment in cash.
+[18] The respondent submits that the unlawfulness of the clan’s activities has no bearing on the application of subsection 272.1(5). On this point, the respondent refers the Court to three decisions.
+[19] First, the respondent argues that in 65302 British Columbia Ltd. v. Canada, [1999] 3 S.C.R. 804, the Supreme Court of Canada established the principle of neutrality requiring that tax authorities not consider the unlawfulness of an activity.
+[20] Second, the respondent submits that the decision of the Court of Québec in Robitaille v. Québec, 2010 QCCQ 9283 confirmed that grounds of public order cannot be relied upon in the application of a tax rule.
+[21] And third, the respondent refers to the decision in DiFlorio v. The Queen, 2014 TCC 67 of this Court, where the notion of partnership was applied in the context of the illegal sale of drugs. The respondent, relying on the jurisprudential principles mentioned above, argues that the criminal nature of the clan’s activities in no way undermines the finding that there was indeed a partnership.
+Analysis
+[22] The main point of disagreement between the parties involves the issue of whether the clan members are jointly and severally liable for the payment of the clan’s tax debt such that Daniel Raposo is a co-debtor with the other members.
+[23] It is clear that subsection 272.1(5) of the ETA will only apply to the facts of this case if the Raposo clan can be considered a partnership and Daniel Raposo is recognized as having been a member of that alleged partnership. For the reasons set out below, I find that the clan was not a partnership under Quebec law, and it follows from this that the appellant was not a member and could therefore not be held jointly and severally liable for the clan’s tax debt.
+[24] The term “partnership” is not defined in the ETA. However, the Supreme Court of Canada has indicated that the relevant law of the province in which the partnership agreement was concluded must be considered first: Backman v. Canada, 2001 SCC 10, [2001] 1 S.C.R. 367 at paragraph 17. Therefore, the prerequisite for the existence of a partnership for the purposes of the ETA is that the partnership have been created in accordance with provincial rules. In this case, the application of subsection 272.1(5) therefore requires the existence of a partnership contract that was concluded in accordance with Quebec civil law.
+[25] The contract of partnership is defined in article 2186 of the C.C.Q., which establishes three conditions for its creation, namely a spirit of cooperation, a contribution, and the sharing of profits. However, the fact that these three conditions are met does not guarantee that a partnership has been formed, since the application of article 2186 of the C.C.Q. may be subject to the rules of obligations in general (C.C.Q., Book Five, Title One). In this regard, it is important to consider here article 1413 of the C.C.Q., which provides that any contract “whose object is prohibited by law or contrary to public order” is null.
+[26] Given that the object of the contract creating the alleged partnership in this case was the cocaine trade, article 1413 of the C.C.Q. applies. Furthermore, article 1417 of the C.C.Q. states that “[a] contract is absolutely null where the condition of formation sanctioned by its nullity is necessary for the protection of the general interest.” It has been pointed out many times in the case law that an object that is contrary to public order or that violates a rule of a penal nature, in this case a Criminal Code rule, results in the absolute nullity of the contract in accordance with article 1417 of the C.C.Q.: Pauzé v. Gauvin, [1954] S.C.R. 15; Laurentienne-vie c. Empire, [2000] R.J.Q. 1708 at paragraphs 71 and 72; Elge Financialease inc. c. Marché Montcalm, [1993] R.J.Q. 1233 to 1249.
+[27] Finally, article 1422 of the C.C.Q. provides that any contract “that is null is deemed never to have existed.”
+[28] In support of her position, the Minister referred to the Court of Québec’s decision in Robitaille, supra, where that court determined that there was a partnership for the purposes of the Act respecting the Québec sales tax, despite the contract’s unlawful object. In that case, the two plaintiffs, Julie Robitaille and Jacques Lachance, were arrested for drug trafficking and Revenu Québec subsequently issued a notice of assessment claiming from them payment of unpaid Quebec sales tax on sales of drugs, for which Revenu Québec held them jointly and severally liable.
+[29] One issue was whether the plaintiffs had formed a partnership to sell drugs.
+[30] As the term “partnership” is not defined in the Act respecting the Québec sales tax, the judge turned to civil law notions as constituting a suppletive scheme. Applying article 2186 of the C.C.Q., he determined that there was a common goal, a contribution by each of the plaintiffs and a sharing of pecuniary profits, and found that Ms. Robitaille and Mr. Lachance had in fact formed a partnership. However, he did not address article 1413 of the C.C.Q. nor did he consider the impact of the unlawful object on the validity of the contract because he had already concluded that the tax authorities are not required to take into account the unlawfulness of an activity in applying tax rules. In this regard, he cited decisions that refer to the Supreme Court of Canada’s decision in 65302 British Columbia, above.
+[31] With all due respect to the Court of Québec judge, I find that 65302 British Columbia does not apply when it is a matter of determining whether there is a partnership under provincial law. As the Supreme Court of Canada points out in Backman, the issue as to whether a partnership agreement exists is exclusively a matter of private law. A principle of tax law jurisprudence therefore has no effect on the specific application of Quebec civil law rules.
+[32] In his decision, the Court of Québec judge also refers to the Quebec Court of Appeal decision in Sous‑ministre du Revenu du Québec c. Parent, 2008 QCCA 1476. In that case, however, the Quebec Court of Appeal did not apply the 65302 British Columbia principle to the determination of whether a partnership exists, but instead applied it to the taxation of a taxable supply (paragraphs 45 to 47). The Quebec Court of Appeal also referred to 65302 British Columbia in Armeni c. Agence du revenu du Québec, 2014 QCCA 1746, in rejecting the argument that illegal revenue is not taxable. Neither one of these decisions suggests that the existence of a partnership under Quebec civil law is to be determined without taking into account the unlawfulness of the object of the contract.
+[33] Moreover, this Court’s decisions that refer to Robitaille do not support the proposition that the Supreme Court of Canada’s judgment in 65302 British Columbia allows the unlawful object of the contract to be disregarded when determining whether a partnership exists in private law: Boisvert v. The Queen, 2016 TCC 195, Bailey v. The Queen, 2011 TCC 233, Desroches v. The Queen, 2013 TCC 81 and Hedges v. The Queen, 2014 TCC 270.
+[34] It therefore follows from Quebec civil law that the Raposo clan was not a partnership. Accordingly, I find that the appellant cannot be held jointly and severally liable under subsection 272.1(5) of the ETA for the tax debt resulting from the commercial activities of the Raposo clan. As that is the only ground put forward by the respondent in support of the assessment, the appeal is allowed.
+[35] Since the amount at issue is greater than $7,000, no costs will be awarded.
+Signed at Ottawa, Canada, this 26th day of April 2018.
+“B. Paris”
+Paris J.
+CITATION:
+2018 TCC 81
+COURT FILE NO.:
+2015-2983(GST)G
+STYLE OF CAUSE:
+DANIEL RAPOSO v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATES OF HEARING:
+April 6 and 7, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+April 26, 2018
+APPEARANCES:
+Counsel for the Appellant:
+Chantal Donaldson
+Counsel for the Respondent:
+Marc Lesage
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Chantal Donaldson
+Firm:
+LeBlanc Donaldson
+Gatineau, Quebec
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

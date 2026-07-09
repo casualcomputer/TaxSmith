@@ -1,0 +1,302 @@
+Title: McLaughlin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29270/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-300-29270-mclaughlin-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-03-27
+
+# McLaughlin c. La Reine
+
+- Citation: 2009 CCI 300
+- Decision date: 2009-03-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7010, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McLaughlin c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-03-27
+Référence neutre
+2009 CCI 300
+Numéro de dossier
+2008-1983(IT)I
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1983(IT)I
+ENTRE :
+MARILYN MAY MCLAUGHLIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 27 mars 2009, à Nanaimo (Colombie‑Britannique)
+Devant : L’honorable juge L. M. Little
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Matthew W. Turnell
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la détermination effectuée en vertu de la Loi de l’impôt sur le revenu pour l’année de base 2005 est accueilli sans dépens, et la détermination est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation conformément aux motifs de jugement ci‑joints.
+L’appel interjeté à l’encontre de la détermination effectuée en vertu de la Loi de l’impôt sur le revenu pour l’année de base 2006 est rejeté sans dépens.
+La Cour ordonne également que les droits de dépôt de 100 $ soient remboursés à l’appelante.
+Signé à Vancouver (Colombie‑Britannique), ce 5e jour de juin 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 18e jour d’août 2009.
+Mario Lagacé, jurilinguiste
+Référence : 2009 CCI 300
+Date : 20090605
+Dossier : 2008-1983(IT)I
+ENTRE :
+MARILYN MAY MCLAUGHLIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. Faits
+[1] Du mois d’avril 2003 au 27 janvier 2006, l’appelante et Graham John Willis (ci‑après « M. Willis ») ont vécu en union de fait.
+[2] L’appelante et M. Willis sont les parents de deux enfants :
+a) une fille née le 8 décembre 2004 (la « fille aînée »);
+b) une fille née le 15 juillet 2006 (la « fille cadette »).
+(Les filles sont ci‑après appelées collectivement les « enfants ».)
+[3] L’appelante et M. Willis se sont séparés en janvier 2006.
+[4] Par une ordonnance sur consentement rendue le 18 mai 2006, la Cour suprême de la Colombie‑Britannique a accordé à l’appelante et à M. Willis la garde partagée de la fille aînée, laquelle devait passer une semaine sur deux avec chacun des parents.
+[5] Par une ordonnance rendue le 25 juin 2007, la Cour suprême de la Colombie‑Britannique a accordé à l’appelante et à M. Willis la garde partagée des enfants, lesquels devaient passer une semaine sur deux avec chacun des parents.
+[6] En septembre 2006, l’appelante a demandé la Prestation fiscale canadienne pour enfants (la « PFCE ») à l’égard de la fille cadette.
+[7] En janvier 2008, l’appelante a demandé la PFCE à l’égard de la fille aînée.
+[8] La preuve dont la Cour a été saisie donne à penser que, du 1er septembre 2006 au 15 juin 2007, M. Willis avait pris un congé parental de son emploi auprès de la British Columbia Ferry Corporation (la société « BC Ferries »). (Voir la pièce R‑2, onglet 5.)
+[9] Le ministre du Revenu national (le « ministre ») a déterminé que l’appelante était la principale responsable des soins de la fille cadette pendant les mois d’août et de septembre 2006 pour l’année de base 2005 et pendant la période allant de février 2008 à juin 2008, inclusivement, pour l’année de base 2006.
+[10] Le ministre a déterminé que M. Willis était le principal responsable des soins de la fille cadette du mois d’octobre 2006 au mois de juin 2007, inclusivement, pour l’année de base 2005 et pendant la période allant de juillet 2007 à janvier 2008, inclusivement, pour l’année de base 2006.
+[11] Le ministre a déterminé que l’appelante était la principale responsable des soins de la fille aînée pendant la période allant de février 2008 à juin 2008, inclusivement, pour l’année de base 2006.
+[12] Le ministre a également déterminé que M. Willis était le principal responsable des soins de la fille aînée pendant la période allant de juillet 2006 à juin 2007, inclusivement, pour l’année de base 2005 et pendant la période allant de juillet 2007 à janvier 2008, inclusivement, pour l’année de base 2006.
+B. Point en litige
+[13] La question en litige en l’espèce est de savoir si le ministre a correctement calculé les montants auxquels l’appelante avait droit au titre de la PFCE à l’égard des enfants pour les années de base 2005 et 2006.
+C. Analyse et décision
+[14] Au cours de l’audience, l’avocat de l’intimée a déposé un document intitulé [traduction] « Sommaire de la détermination du ministre » (Pièce R‑1). Le document est rédigé ainsi :
+[traduction]
+Marilyn May McLaughlin 2008-1983(IT)I
+Sommaire de la détermination du ministre
+Mois
+Année de base
+Principal responsable des soins pour Julia
+Principal responsable des soins pour Keltie
+Remarques
+Juill. 2006
+2005
+Graham Willis
+s.o.
+Réponse au paragraphe 13m)
+Août 2006
+Appelante
+Réponse au paragraphe 13j)
+Sept. 2006
+Oct. 2006
+Graham Willis
+Réponse au paragraphe 13k)
+Nov. 2006
+Déc. 2006
+Janv. 2007
+Fév. 2007
+Mars 2007
+Avr. 2007
+Mai 2007
+Juin 2007
+Juill. 2007
+2006
+Graham Willis
+Graham Willis
+Réponse aux paragraphes 13k) et m)
+Août 2007
+Sept. 2007
+Oct. 2007
+Nov. 2007
+Déc. 2007
+Janv. 2008
+Févr. 2008
+Appelante
+Appelante
+Réponse aux paragraphes 13l) et j)
+Mars 2008
+Avr. 2008
+Mai 2008
+Juin 2008
+[15] La demande de l’appelante au titre de la PFCE concerne les années de base 2005 et 2006. Conformément à la définition de l’expression « année de base » figurant à l’article 122.6 de la Loi de l’impôt sur le revenu (la « Loi »), le ministre a examiné les périodes suivantes :
+a) du 1er juillet 2006 au 30 juin 2007 (l’« année de base 2005 »);
+b) du 1er juillet 2007 au 30 juin 2008 (l’« année de base 2006 »).
+[16] L’article 122.6 de la Loi est rédigé ainsi :
+Définitions
+122.6. Les définitions qui suivent s’appliquent à la présente sous‑section.
+« année de base » “base taxation year”
+« année de base » S’entend, par rapport à un mois, de l’année d’imposition suivante :
+a) si le mois compte parmi les six premiers mois d’une année civile, celle qui a pris fin le 31 décembre de la deuxième année civile précédente;
+b) si le mois compte parmi les six derniers mois d’une année civile, celle qui a pris fin le 31 décembre de l’année civile précédente.
+« déclaration de revenu » “return of income”
+« déclaration de revenu » Le document suivant produit par un particulier pour une année d’imposition :
+a) si le particulier a résidé au Canada tout au long de l’année, sa déclaration de revenu (sauf celle produite en vertu des paragraphes 70(2) ou 104(23), de l’alinéa 128(2)e) ou du paragraphe 150(4)) produite ou à produire pour l’année en vertu de la présente partie;
+b) dans les autres cas, un formulaire prescrit contenant les renseignements prescrits, présenté au ministre.
+« époux ou conjoint de fait visé » “cohabiting spouse or common-law partner”
+« époux ou conjoint de fait visé » Personne qui, à un moment donné, est l’époux ou conjoint de fait d’un particulier dont il ne vit pas séparé à ce moment. Pour l’application de la présente définition, une personne n’est considérée comme vivant séparée d’un particulier à un moment donné que si elle vit séparée du particulier à ce moment, pour cause d’échec de leur mariage ou union de fait, pendant une période d’au moins 90 jours qui comprend ce moment.
+« particulier admissible » “eligible individual”
+« particulier admissible » S’agissant, à un moment donné, du particulier admissible à l’égard d’une personne à charge admissible, personne qui répond aux conditions suivantes à ce moment :
+a) elle réside avec la personne à charge;
+b) elle est la personne — père ou mère de la personne à charge — qui assume principalement la responsabilité pour le soin et l’éducation de cette dernière;
+c) elle réside au Canada ou, si elle est l’époux ou conjoint de fait visé d’une personne qui est réputée, par le paragraphe 250(1), résider au Canada tout au long de l’année d’imposition qui comprend ce moment, y a résidé au cours d’une année d’imposition antérieure;
+d) elle n’est pas visée aux alinéas 149(1)a) ou b);
+e) elle est, ou son époux ou conjoint de fait visé est, soit citoyen canadien, soit :
+(i) résident permanent au sens du paragraphe 2(1) de la Loi sur l’immigration et la protection des réfugiés,
+(ii) résident temporaire ou titulaire d’un permis de séjour temporaire visés par la Loi sur l’immigration et la protection des réfugiés ayant résidé au Canada durant la période de 18 mois précédant ce moment,
+(iii) personne protégée au titre de la Loi sur l’immigration et la protection des réfugiés,
+(iv) quelqu’un qui fait partie d’une catégorie précisée dans le Règlement sur les catégories d’immigrants précisées pour des motifs d’ordre humanitaire pris en application de la Loi sur l’immigration.
+Pour l’application de la présente définition :
+f) si la personne à charge réside avec sa mère, la personne qui assume principalement la responsabilité pour le soin et l’éducation de la personne à charge est présumée être la mère;
+g) la présomption visée à l’alinéa f) ne s’applique pas dans les circonstances prévues par règlement;
+h) les critères prévus par règlement serviront à déterminer en quoi consistent le soin et l’éducation d’une personne.
+« personne à charge admissible » “qualified dependant”
+« personne à charge admissible » S’agissant de la personne à charge admissible d’un particulier à un moment donné, personne qui répond aux conditions suivantes à ce moment :
+a) elle est âgée de moins de 18 ans;
+b) elle n’est pas quelqu’un pour qui un montant a été déduit en application de l’alinéa 118(1)a) dans le calcul de l’impôt payable par son époux ou conjoint de fait en vertu de la présente partie pour l’année de base se rapportant au mois qui comprend ce moment;
+c) elle n’est pas quelqu’un pour qui une allocation spéciale prévue par la Loi sur les allocations spéciales pour enfants est payable pour le mois qui comprend ce moment.
+« revenu gagné »
+[Abrogée, 1998, ch. 21, art. 92(1)]
+« revenu gagné modifié »
+[Abrogée, 1998, ch. 21, art. 92(1)]
+« revenu modifié » “adjusted income”
+« revenu modifié » En ce qui concerne un particulier pour une année d’imposition, le total des sommes qui représenteraient chacune le revenu pour l’année du particulier ou de la personne qui était son conjoint visé à la fin de l’année si, dans le calcul de ce revenu, aucune somme n’était incluse en application de l’alinéa 56(1)q.1) ou du paragraphe 56(6) ou au titre d’un gain provenant d’une disposition de bien à laquelle s’applique l’article 79 et comme si aucune somme n’était déductible en application des alinéas 60y) ou z) dans le calcul de ce même revenu.
+Admissibilité à la PFCE selon la Loi
+[17] Comme je l’ai mentionné plus haut, les dispositions législatives afférentes à la PFCE figurent aux articles 122.6 à 122.64 de la Loi. L’admissibilité d’une personne à la PFCE dépend, en partie, de la question de savoir si cette personne est considérée comme le « particulier admissible ».
+[18] Selon les alinéas a) et b) de la définition, il y a deux conditions essentielles auxquelles une personne doit répondre pour être considérée comme un particulier admissible :
+1. Premièrement, l’enfant doit résider avec la personne à charge;
+2. Deuxièmement, la personne doit assumer principalement la responsabilité pour le soin et l’éducation de l’enfant.
+Les alinéas c) à e) de la définition ne sont pas pertinents en l’espèce, étant donné que l’intimée ne conteste pas le fait que l’appelant répondait à ces conditions. De plus, la présomption figurant à l’alinéa f) ne s’applique pas dans ce cas‑ci parce que l’appelante et M. Willis ont tous les deux déposé des avis à l’égard des enfants.
+(Voir le Règlement de l’impôt sur le revenu, C.R.C. 1978, ch. 945, alinéa 6301(1)d).)
+[19] L’intimée soutient que l’appelante n’était pas le « particulier admissible » pendant les périodes pour lesquelles le ministre a déterminé que M. Willis était le principal responsable des soins, étant donné qu’il ne peut y avoir qu’un seul « particulier admissible » pendant une période donnée. À cet égard, l’intimée se fonde sur la décision rendue par la Cour d’appel fédérale dans l’arrêt The Queen v. Marshall et al., 96 DTC 6292, où la Cour a dit ce qui suit :
+Cet article de la Loi prévoit qu’un seul des deux parents est un « particulier admissible » aux fins d’admissibilité aux avantages. L’article ne prévoit aucun partage proportionnel entre deux parents qui prétendent être des parents admissibles. Seul, le Parlement peut prévoir le partage proportionnel des avantages, mais il ne l’a pas fait.
+[20] L’intimée allègue que, pour s’acquitter de son fardeau de la preuve, l’appelante doit prouver, selon la prépondérance des probabilités, que les enfants résidaient avec elle pendant chacune des périodes en litige.
+Principal responsable des soins et critères prescrits
+[21] Pour être considérée comme le « particulier admissible », en plus de prouver qu’elle résidait avec les enfants, l’appelante doit également prouver que c’est elle qui assumait principalement la responsabilité pour le soin et l’éducation des enfants pendant la période visée. Les critères dont il faut tenir compte pour établir ce qui constitue le « soin et l’éducation » sont énoncés à l’article 6302 du Règlement de l’impôt sur le revenu (le « Règlement »), qui est rédigé ainsi :
+Critères
+6302. Pour l’application de l’alinéa h) de la définition de « particulier admissible » à l’article 122.6 de la Loi, les critères suivants servent à déterminer en quoi consistent le soin et l’éducation d’une personne à charge admissible :
+a) le fait de surveiller les activités quotidiennes de la personne à charge admissible et de voir à ses besoins quotidiens;
+b) le maintien d’un milieu sécuritaire là où elle réside;
+c) l’obtention de soins médicaux pour elle à intervalles réguliers et en cas de besoin, ainsi que son transport aux endroits où ces soins sont offerts;
+d) l’organisation pour elle d’activités éducatives, récréatives, athlétiques ou semblables, sa participation à de telles activités et son transport à cette fin;
+e) le fait de subvenir à ses besoins lorsqu’elle est malade ou a besoin de l’assistance d’une autre personne;
+f) le fait de veiller à son hygiène corporelle de façon régulière;
+g) de façon générale, le fait d’être présent auprès d’elle et de la guider;
+h) l’existence d’une ordonnance rendue à son égard par un tribunal qui est valide dans la juridiction où elle réside.
+Règlement de l’impôt sur le revenu, C.R.C. 1978, ch. 945
+(Voir l’onglet 2 des sources invoquées par l’intimée.)
+[22] C’est à l’appelante qu’il incombe de prouver qu’elle assumait principalement la responsabilité pour le soin et l’éducation des enfants pendant les périodes en litige. La juge Lamarre-Proulx a mentionné ce qui suit dans la décision Robitaille c. La Reine :
+Pour obtenir une décision contraire à cette détermination, selon les règles de la preuve en litige fiscal depuis longtemps établies, il appartenait à l’appelante de faire la preuve que c’était elle qui s’occupait principalement des enfants à charge admissibles. Or, son témoignage était à l’effet que le partage était égal. Devant cette absence de preuve et le tribunal étant lié par la décision de la Cour d’appel fédérale ci-avant citée qui a affirmé qu’un seul des deux parents peut être un particulier admissible, la détermination du Ministre doit être maintenue.
+(Voir la décision Robitaille c. La Reine, 1997 CarswellNat 2845, [1997] A.C.I. no 6, au paragraphe 15.)
+[23] L’avocat de l’intimée admet que, si on examine la preuve en tenant compte de ces critères, il est évident que les deux parents contribuaient au soin et à l’éducation des enfants. Toutefois, l’avocat de l’intimée soutient que c’était M. Willis qui assumait principalement la responsabilité pour le soin et l’éducation des enfants pendant les périodes en litige.
+A. Position de l’appelante au sujet de la PFCE
+[24] L’appelante dit qu’elle subvient aux besoins des enfants depuis leur naissance et qu’elle a le droit de demander les avantages fiscaux prévus pour eux. (Transcription, page 11, lignes 3‑7.)
+[25] L’appelante a dit : [traduction] « Ils ont vécu dans les deux résidences. Il s’agissait d’un arrangement prévoyant une garde égale. » (Transcription, page 11, lignes 11‑12.)
+[26] L’appelante a déposé une ordonnance sur consentement datée du 18 mai 2006 (pièce A‑5). (Remarque : Dans l’ordonnance sur consentement, il était mentionné que l’appelante et M. Willis auraient la garde partagée de l’enfant (« Julia »).) (Transcription, page 18, lignes 14‑15.)
+[27] L’appelante a dit ce qui suit :
+[traduction]
+[…] Graham et moi avons suivi à la lettre cette ordonnance de garde jusque vers la fin du mois d’août. (2006)
+(Transcription, page 18, lignes 18‑19.)
+[traduction]
+[…]
+[…] Bien, j’ai reçu la prestation fiscale pour enfants en février 2008, soit le moment où je suis devenue le particulier admissible selon leur petit tableau. J’ai l’ai reçue de février 2008 à juillet 2008. Apparemment, personne ne l’a reçue de juillet 2008 à décembre 2008, […]
+(Transcription, page 57, lignes 16‑21.)
+[28] L’appelante a également dit : [traduction] « Je n’ai jamais renoncé à mon rôle de principale responsable des soins. M. Willis et moi avions des domiciles distincts, mais nous formions une cellule familiale. » (Transcription, page 26, lignes 8‑10.)
+[29] L’appelante a également renvoyé à l’affidavit déposé par M. Willis et a dit ce qui suit :
+[traduction]
+OK, depuis le 25 juin 2007, cette ordonnance de garde a été suivie à la lettre. Les enfants passent une semaine chez leur père, puis une semaine chez moi. À cet effet, j’ai un affidavit de M. Willis où celui‑ci admet, au paragraphe 8 de son affidavit, qu’il – il faut que je le trouve, désolée. « Depuis l’ordonnance du juge... » Désolée, le paragraphe 10 :
+« Depuis l’ordonnance de la juge Bracken, Marilyn et moi avons continué d’exercer la garde conjointe des deux enfants. Nous prenons soins des enfants chacun notre tour, en alternant environ chaque semaine. »
+C’est‑à‑dire depuis le 25 juin 2007.
+(Transcription, page 51, lignes 22‑25, et page 52, lignes 1‑9.)
+[30] Pendant l’audience, j’ai demandé ce qui suit à l’appelante :
+[traduction]
+JUGE : […] D’après vous, qu’est-ce qui constituerait une réponse équitable à cela?
+A. J’aimerais – bien, je crois encore que la prestation fiscale pour enfants devrait être séparée entre nous. Au moment où je vous parle, je n’ai été considérée comme le particulier admissible que depuis février 2008, ainsi que pendant une brève période de temps pour Julia pendant que j’étais avec Graham. […]
+JUGE : Lorsque vous dites «séparée», vous voulez dire –
+A. Six mois pour lui et six mois pour moi.
+JUGE : Pour les deux enfants?
+A. Oui.
+(Transcription, page 60, lignes 21‑25, et page 61, lignes 1‑8)
+B. Position de l’intimée au sujet de la PFCE
+[31] L’intimée soutient que M. Willis était le principal responsable des soins pour Julia et Keltie pendant la période suivante :
+Julia
+Keltie
+Année de base 2005
+1er juillet 2006
+30 juin 2007
+1er octobre 2006
+30 juin 2007
+Partie de l’année de base 2006
+1er juillet 2007
+31 janvier 2008
+1er juillet 2007
+31 janvier 2008
+[32] L’avocat de l’intimée a admis que le ministre avait déterminé que M. Willis était le principal responsable des soins pendant les sept premiers mois de l’année de base 2006 pour les deux enfants et que l’appelante était la principale responsable des soins pendant cinq mois au cours de l’année de base 2006. (Transcription, page 70, lignes 16‑22.)
+[33] L’avocat de l’intimée a renvoyé à une lettre de l’Agence du revenu du Canada (l’« ARC ») (pièce R‑2, onglet 4) et a cité le passage suivant :
+[traduction]
+Un nouvel avis pour l’année de base 2006, qui concerne les prestations pour les mois de juillet 2007 à mars 2008, vous sera envoyé le 20 mars 2008. Dans cet avis, vous serez avisé que vous êtes le particulier admissible (principal responsable des soins) à l’égard de Julia et de Keltie pour les mois de février à juillet 2008, étant donné qu’il a été déterminé que vous et l’autre personne responsable des soins preniez soin des enfants à parts égales. Par conséquent, à moins que nous soyons avisés d’un changement de circonstances, les prestations seront versées à chacun des parents sur une base semestrielle.
+(Transcription, page 74, lignes 4‑16.)
+[34] En d’autres mots, l’intimée convient maintenant que l’appelante et M. Willis se partageront la PFCE pour les enfants – M. Willis la recevra pour une période de six mois et l’appelante la recevra également pour six mois, même si M. Willis a reçu la PFCE pour sept mois à l’égard de l’année de base 2006 et l’appelante l’a reçu seulement pour cinq mois parce que le ministre a tardé à tirer sa conclusion.
+[35] Il semble donc que le problème relatif à la PFCE pour l’année de base 2006 a été réglé. J’ai conclu que je souscris à la position de l’intimée à l’égard de l’année de base 2006.
+[36] Pour mon examen de la question, je dois tenir compte du fait que, pour l’année de base 2005, M. Willis a reçu la totalité de la PFCE à l’égard de Julia ainsi que la PFCE pour 10 mois à l’égard de Keltie.
+[37] Le problème est épineux parce que l’appelante et M. Willis affirment tous les deux être le principal responsable des soins à l’égard des enfants pour les années de base 2005 et 2006.
+[38] Après avoir examiné attentivement la preuve, j’ai conclu ce qui suit :
+Année de base 2005
+a) L’appelante était la principale responsable des soins de Julia du 1er juillet 2006 au 31 août 2006;
+b) L’appelante était la principale responsable des soins de Keltie du 1er août 2006 au 30 septembre 2006;
+c) M. Willis était le principal responsable des soins de Julia du 1er septembre 2006 au 30 juin 2007;
+d) M. Willis était le principal responsable des soins de Keltie du 1er octobre 2006 au 30 juin 2007.
+[39] J’ai tiré cette conclusion pour les raisons suivantes :
+1. Congé parental : M. Willis a mentionné dans son témoignage qu’il avait obtenu un congé parental de BC Ferries du 1er septembre 2006 au 15 juin 2007. (Transcription, page 120, lignes 5‑6.) (Remarque : Voir aussi la demande de congé parental, pièce R‑2, onglet 5.)
+M. Willis a également dit : [traduction] « J’ai reçu des prestations (congé parental) jusqu’au 1er juin (2007). » (Transcription, page 121, ligne 16.)
+2. À compter d’octobre 2006, l’appelante travaillait auprès de BC Ferries à temps plein – 8 heures par jour – 21 jours par mois. (Transcription, page 85, lignes 8‑13.)
+3. L’appelante a versé à M. Willis 600 $ par mois de pension alimentaire pour enfants du mois d’octobre 2006 au 18 avril 2007. (Transcription, page 34, lignes 14‑15.)
+En d’autres mots, l’appelante versait de l’argent à M. Willis pour l’aider financièrement, étant donné qu’il était en congé parental et qu’il dépensait de l’argent pour subvenir aux besoins des enfants. (Transcription, page 171, lignes 5‑6.)
+En d’autres mots, M. Willis était en congé parental du 1er septembre 2006 au 15 juin 2007 et l’appelante travaillait à temps plein (8 heures par jour, 21 jours par mois à partir d’octobre 2006).
+4. Après avoir examiné le témoignage sous serment de M. Willis, j’ai conclu que c’était M. Willis qui s’occupait principalement de prendre les rendez‑vous chez le médecin pour les enfants pendant les périodes en litige. (Transcription, page 184, lignes 13‑16.) (Voir l’alinéa 6302d) du Règlement – page 8 ci‑dessus.)
+(Remarque : Les avis d’appel portent seulement sur les années de base 2005 et 2006. Toutefois, l’avocat de l’intimée m’a informé que, à moins d’un changement de circonstances, la PFCE sera versée à tour de rôle à chacun des parents sur une base semestrielle. Le versement de la PFCE suivant ce cycle de six mois se fera ainsi à compter du 1er juillet 2008, c.‑à‑d. pour l’année de base 2007.)
+[40] Avant de terminer, je tiens à dire que j’ai été très impressionné par les commentaires que l’appelante et M. Willis ont faits à l’égard des enfants. L’appelante et M. Willis m’ont donné l’impression qu’ils étaient des parents bienveillants et pleins de compassion qui appuyaient leurs enfants à tous les égards.
+[41] L’appel interjeté à l’égard de l’année de base 2005 est accueilli sans dépens, afin que la PFCE relative à la fille aînée pour les mois de juillet et d’août 2006 soit versée à l’appelante. L’appel interjeté à l’égard de l’année de base 2006 est rejeté.
+[42] La Cour ordonne également que les droits de dépôt de 100 $ soient remboursés à l’appelante.
+Signé à Vancouver (Colombie‑Britannique), ce 5e jour de juin 2009.
+« L. M. Little »
+Juge Little
+Traduction certifiée conforme
+ce 18e jour d’août 2009.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2009 CCI 300
+NO DU DOSSIER DE LA COUR : 2008-1983(IT)I
+INTITULÉ : Marilyn May McLaughlin et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Nanaimo (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 27 mars 2009
+MOTIFS DU JUGEMENT : L’honorable juge L. M. Little
+DATE DU JUGEMENT : Le 5 juin 2009
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocat de l’intimée :
+Me Matthew W. Turnell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

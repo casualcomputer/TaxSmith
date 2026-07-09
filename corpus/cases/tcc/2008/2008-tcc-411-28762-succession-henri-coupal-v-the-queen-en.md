@@ -1,0 +1,183 @@
+---
+title: "Succession Henri Coupal v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28762/index.do"
+last_modified: "2008-07-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 411"
+citation2: ""
+neutral_citation: "2008 TCC 411"
+decision_date: "2008-07-10"
+language: "en"
+item_id: "28762"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1549
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:01:05.157000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5a75de1f4489f81704e144bad3367d30c01d822ad7174dfa2522e9d777366a18"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Succession Henri Coupal v. The Queen
+
+- Citation: 2008 TCC 411
+- Decision date: 2008-07-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1549, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Succession Henri Coupal v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-10
+Neutral citation
+2008 TCC 411
+File numbers
+2006-2770(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2770(IT)G
+BETWEEN:
+THE ESTATE OF HENRI COUPAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 3, 2008, at Montréal, Quebec
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Louis Frédérick Côté
+Counsel for the Respondent:
+Simon Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2000 taxation year is allowed, with costs in accordance with the regular tariff in the Tax Court of Canada Rules (General Procedure), and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the taxable capital gain of $49,607 added to the Appellant’s income for the 2000 taxation year must be removed from his income.
+Signed at Ottawa, Canada, this 10th day of July 2008.
+“Lucie Lamarre”
+Lamarre J.
+Citation: 2008 TCC 411
+Date: 20080710
+Docket: 2006-2770(IT)G
+BETWEEN:
+THE ESTATE OF HENRI COUPAL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The Appellant is appealing from an assessment in which the Canada Revenue Agency (CRA) imputed a taxable capital gain of $49,607 to it for the 2000 taxation year as a result of the disposition, by the late Henri Coupal, of an immovable located at 230‑234 Ostiguy Street, in Chambly, to his son Jean‑François Coupal, for $150,000. The disposition took place on July 20, 2000, and the Respondent submits that the fair market value of the immovable at that date was $240,000.
+[2] The CRA, relying on paragraph 69(1)(b) of the Income Tax Act (ITA), asserts that the proceeds of disposition are deemed to be equal to the fair market value, thereby triggering the taxation of the capital gain at issue in the instant appeal.
+[3] Paragraph 69(1)(b) reads as follows:
+SECTION 69: Inadequate considerations
+(1) Except as expressly otherwise provided in this Act,
+. . .
+(b) where a taxpayer has disposed of anything
+(i) to a person with whom the taxpayer was not dealing at arm’s length for no proceeds or for proceeds less than the fair market value thereof at the time the taxpayer so disposed of it,
+(ii) to any person by way of gift inter vivos, or
+(iii) to a trust because of a disposition of a property that does not result in a change in the beneficial ownership of the property; and
+the taxpayer shall be deemed to have received proceeds of disposition therefor equal to that fair market value; and
+. . .
+[4] The entire debate turns on whether Henri Coupal sold the property to his son Jean‑François for its fair market value at the time of the disposition. Mr. Coupal’s son contends that he did, because he paid an amount that was $10,000 more than the municipal assessment.
+[5] The Respondent submits that the fair market value in question was actually $240,000 at the time of the sale. The Respondent relies in this regard on seven real estate transactions that took place in July 2000. The transactions involved properties next to or within the same zone as the property at issue, and the average selling price was $20-22 per square foot. If this average price of $20-22 per square foot is applied to the property in issue, it results in a value of $240,000. All seven sales were to Provigo Ltée (Provigo), which intended to build a Maxi supermarket in the area and did so in 2002.
+[6] The evidence does not reveal that the late Henri Coupal received an offer by Provigo to purchase his property at any time prior to the sale to his son. One year later, the son received an unsigned option to purchase from one Robert Mongeau—apparently acting as a proxy for Provigo—in the amount of $275,000 (Exhhibit A‑1, tab 6), but the purchase option was never exercised because Jean‑François Coupal did not act on it and Mr. Mongeau never came forward again.
+[7] Jean‑François Coupal explained that the property in question has four units, that he was born there, and that he has always lived in one of the four units. The other units are rented out. The building in question was built by his father in 1954 and has been well-maintained ever since. In 1993, the town of Chambly designated the zone in which the property is located as commercial, meaning that residential buildings could remain residential only by virtue of acquired rights. The property is located on a small, quiet street, but is surrounded by two major commercial thoroughfares.
+[8] In March 2000, his father getting on in age, Jean‑François Coupal made him an offer to purchase the property. He checked the selling prices of similar buildings in the area, and noted that the average price was roughly $10,000 below municipal assessment value. He therefore offered $10,000 above municipal assessment value (which he asserts was $139,000 at the time),[1] that is to say, $150,000, in order to ensure that his brother and sister would not be treated unfairly. He financed 75% of the purchase through Caisse populaire Desjardins, which did not require any specific valuation of the property. Jean‑François Coupal explained that he purchased the property because it would be a good source of retirement income—apartment housing having always been lucrative in the past—and, moreover, given the family connection, the building held sentimental value for him.
+[9] His father died in December 2000, at 83 years of age.
+[10] Jean‑François Coupal states that Provigo did not quote an offering price to either him or his father in 2000.
+[11] In April 2001, his uncle and next-door neighbour Hercule Coupal got an offer from Provigo to purchase the property, and he accepted it. The uncle sold his property on April 17, 2001 for $210,000, or $20.68 per square foot. As for Jean‑François Coupal, as stated above, he received a purchase option from Provigo in 2001, but he never followed up on it, and Provigo showed no more interest after it was issued. Mr. Coupal explained that this option was subject to several restrictive conditions. For example, Provigo required a right of first refusal over the property for six months, asked that Mr. Coupal evict all tenants at his expense, and arrogated unto itself the right to enter and inspect the premises, take measurements, and excavate all on 48 hours’ notice. Nothing ever became of the purchase option, and in any event, Mr. Coupal was not interested in selling. In fact, Jean‑François Coupal is still the owner of the property today; he lives in one of the units and rents out the other three.
+[12] The Appellant called its expert, Jean‑Luc Bélanger, as a witness. Mr. Bélanger, a certified appraiser, determined that the market value of the property on July 20, 2000 was $148,000. In making that determination, he inspected the property, looked at the surrounding area, and reviewed the zoning by-laws to ascertain the most profitable use of the property on the valuation date. In his opinion, residential use was the most profitable use of the property at the time of the valuation. Indeed, he said that even though the town of Chambly decided in 1993 that it wanted to transform the zone where the property was located into a “restricted commercial” zone—in respect of which the zoning by-law, reproduced in Exhibit A-2 (Appellant’s expert report, p. 7), permits restaurants, traveller accommodations and businesses offering recreational, professional, financial, technical, communications and educational services—there are still several well‑maintained residential properties in the area, including the property at issue. According to Mr. Bélanger, the area was not ripe for exclusively commercial use in 2000, and is still not ripe for it today. It remains very viable for people who have acquired rights and wish to stay there. In his view, a wholesale transformation would have to take place to eliminate the residential aspect of its character. While the arrival of Provigo continues the planned commercialization of the zone, it does not signal the end of residential use. In his opinion, the jury is still out on whether converting the property at issue to commercial use is economically viable. The residential vocation remains the most appropriate one for the property, he believes.
+[13] Having made this determination that residential use remains the most profitable one, Mr. Bélanger estimated the property’s value using two methods: the cost method and the comparison method. He determined that the value on July 20, 2000, was $148,000, or $12.84 per square foot.
+[14] Mr. Bélanger acknowledges that, for the purposes of his comparison-method appraisal, there were few similar sales between individuals during the same period near the property at issue. He says that this was not a bustling real estate market. He was able to find three sales: one in December 1998, one in February 2000, and a third in May 2000. All three sales involved triplexes in residential zones.
+[15] As for the cost method, it yields a value of $162,000. Mr. Bélanger explains that economic obsolescence accounts for the difference between this value and the $148,000 comparison-method value, hence his choice of the latter.
+[16] As for André Verreault, the Respondent’s expert, he is of the opinion that the most profitable use of the property is commercial, non-residential use, because the property is in an area that has been zoned commercial since 1993. He believes that the arrival of Provigo only reinforces this view.
+[17] The only method used by Mr. Verreault for his appraisal was the comparison method. The only sales he considered were sales to Provigo of abutting or nearby land. All of those sales took place in July 2000, concomitantly with the sale in the case at bar. Of the seven sales selected for analysis, Mr. Verreault eliminated two in which the prices were very high in relation to the others, and one in which the price was much lower. He thus used the median of the other four sales and arrived at an average price of $20-22 per square foot, resulting in a value of $240,000 for the property at issue. He did not analyze two other sales to Provigo that took place in 2001.
+[18] Mr. Verreault acknowledged that Provigo had purchased all these properties as part of its plan to assemble 250,000 square feet of land in order to build its Maxi supermarket.
+[19] Provigo had to acquire several properties over a short period of time in order to carry out its plan. Although there is no evidence that Henri Coupal or his son received a purchase offer from Provigo in 2000, Mr. Verreault was of the opinion that Provigo was doing a sweep through the area and that Mr. Coupal’s property could very well have been sold to Provigo for $20-22 per square foot.
+[20] The backyard of Mr. Coupal’s property became adjacent to the Maxi supermarket. The house next door to Jean-François Coupal’s, which belonged to his uncle Hercule, was sold to Provigo in 2001. However, the property at issue was not.
+[21] Mr. Bélanger, the Appellant’s expert, expressed strong reservations about the Respondent’s expert’s position. He submits that Provigo is a special purchaser that bought under special circumstances. In his view, none of Provigo’s transactions are representative of the fair market value of the property in the context of the free and open competitive market in 2000. In his opinion, only Provigo could have agreed to pay such a price. Mr. Coupal did not share in the benefits of this “transient boom,” so he could not have claimed that his property was worth $240,000. Mr. Bélanger explained that since Provigo had a special interest in acquiring the properties it did, it had to persuade the owners of the buildings in the surrounding area to sell. The only way for Provigo to do this was to offer prices that the owners would not otherwise have been able to obtain in the ordinary market. Thus, in order to achieve its objectives, Provigo had to pay premiums to the owners of the desired real estate that another buyer, under normal circumstances, would not have been required to pay—including all of the seller’s relocation costs. For example, Mr. Bélanger cited two transactions in which Provigo had to buy a second parcel of land belonging to the seller of the land that interested Provigo (even though it was of no use to Provigo) so that the seller would agree to sell the parcel that Provigo wanted. In one of these cases, the second parcel was purchased by Provigo in 2000 for $210,000, or $62.19 per square foot, and resold in 2000 for $50,000, or $14.80 per square foot. In the second case, the second parcel was purchased by Provigo in July 2000 for $225,000, and resold in 2002 for $200,000, at a much more realistic rate of $10.00 per square foot. Mr. Bélanger explained that, during that same period, vacant commercial land in Chambly was fetching $3.00 to $6.00 per square foot in the open market. If we look at the plan of the perimeter around Provigo’s Maxi site, found in Schedule A of the Appellant’s expert’s report (Exhibit A‑2), we see that Provigo did not acquire all of the parcels of land neighbouring the property at issue. Several lots, the Appellant’s included, are not under Provigo ownership. All the sales to Provigo were made as part of a site-assembly process and therefore cannot be used in appraising fair market value.
+[22] Mr. Bélanger also questions the average price of $20-22 per square foot established by the Respondent’s expert for the sales to Provigo. According to his calculations, the average price of all the properties is $15 per square foot. Mr. Verreault took into account only the sales of residential properties to Provigo, and he disregarded the sales made by the municipalities. This resulted in an average price of $20-22. However, what interested Provigo was the land, not the buildings or the rental properties thereon. Thus, there was no reason to make a selection of this kind. Although the municipality did sell one lot at a deep discount because it was in its interest to sell to Provigo—a future source of economic opportunity for the town—it is also true that certain individuals sold at exaggeratedly high prices because, in those instances, it was in Provigo’s interest to buy. Accordingly, he asserts, it is not realistic to set a $20-22 average for sales to Provigo based solely on residential sales.
+The parties’ arguments
+[23] The Appellant submits as follows. What needs to be ascertained is the fair market value of the property—not its value to Provigo if Provigo had wished to acquire it.
+[24] While it is true that the property is in an area zoned commercial since 1993, one cannot disregard the fact that the property is on a small street that remained partly residential, and that the people who live on that street continue to thrive. Provigo’s arrival has in no way altered the residential lifestyle of the people who kept their property.
+[25] The price that Provigo paid for the neighbouring properties is not representative of the fair market value in a free market under normal conditions. Provigo was a special buyer in a specific context.
+[26] As for the $275,000 purchase option submitted to Jean‑François Coupal in 2001, first of all, no one acted on it, and secondly, all the conditions of the option suggested that Provigo was willing to pay a premium above market value, hence the $275,000 price. The purchase option cannot be considered probative of the fair market value of the property in 2000.
+[27] The Respondent points out that Mr. Coupal’s property was situated within the quadrilateral sought by Provigo and that, accordingly, it became more valuable than the more distant properties. The Respondent submits that Henri Coupal made a choice to sell to his son, but could just as well have sold to Provigo. Counsel for the Respondent asks the following question: Would Henri Coupal have agreed to sell to a third party for $150,000 knowing that he could sell to Provigo for a much higher price? He submits that one cannot overlook the existence of a special buyer in determining fair market value. He cites Morneau v. Canada, [1998] T.C.J. No. 680 (QL), 98 DTC 2199 (T.C.C.) at paragraph 43:
+43 Since in our law the concept of market value presupposes an open and unrestricted market, it is also wrong to say that the value which property would have for a potential purchaser desiring to use it for different purposes can be disregarded on the ground that he is the only one who wants to use it for those purposes, there is no competition in the market for this use and the value is thus purely subjective. To do so would be to disregard one aspect of the situation, with the result that the appraisal exercise would become highly theoretical, disconnected from the specific circumstances of the case under consideration and so very questionable.
+[28] In our specific case, counsel for the Respondent submits that the sale between related persons has connotations of sentimental value and that the selling price was well below fair market value. For this reason, he questions the comparable sales used by the Appellant’s expert. All of those sales were in residential zones and involved triplexes, whereas the property at issue is a quadruplex in a commercial zone. In his opinion, the value computed by his expert is more appropriate because it is based on concurrent sales in the same sector in a relatively free market—not forced, as in the case of an expropriation.
+Analysis
+[29] The definition of fair market value that has been accepted by the courts was reiterated by Joyal J. of the Federal Court (Trial Division) in Dominion Metal & Refining Works Ltd. v. Canada, [1986] F.C.J. No. 318 (QL), 86 DTC 6311, at page 6314, and was cited by counsel for the Respondent:
+. . . Fair market value has been defined in Minister of Finance v. Mann Estate, [1972], 5 W.W.R. 2327 (B.C.S.C.); aff’d [1973] C.T.C. 561 (B.C.C.A.); aff’d [1974] C.T.C. 222 (S.C.C.) as:
+. . . the highest price available estimated in terms of money which a willing seller may obtain for the property in an open and unrestricted market from a knowledgeable purchaser acting at arm’s length.
+The term was the subject of further elaboration by Mr. Justice Cattanach in Henderson Estate and Bank of New York v. M.N.R. (1973), 73 DTC 5471. In a matter dealing with the Dominion Succession Duty Act, R.S.C. 1952 c. 89, His Lordship said at page 5476:
+The statute does not define the expression ‘fair market value’, but the expression has been defined in many different ways depending generally on the subject matter which the person seeking to define it had in mind. I do not think it necessary to attempt an exact definition of the expression as used in the statute other than to say that the words must be construed in accordance with the common understanding of them. That common understanding I take to mean the highest price an asset might reasonably be expected to bring if sold by the owner in the normal method applicable to the asset in question in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm’s length and under no compulsion to buy or sell. I would add that the foregoing understanding as I have expressed it in a general way includes what I conceive to be the essential element which is an open and unrestricted market in which the price is hammered out between willing and informed buyers and sellers on the anvil of supply and demand. These definitions are equally applicable to ‘fair market value’ and ‘market value’ and it is doubtful if the use of the word ‘fair’ adds anything to the words ‘market value’.
+Later in his judgment, Mr. Justice Cattanach relented a bit as to the redundancy of the word ‘fair’ in the definition of fair market value. He repeated the comment of Mr. Justice Mignault in Untermeyer Estate v. Attorney-General for British Columbia, [1929] S.C.R. 84 that:
+. . . It may, perhaps, be open to question whether the expression ‘fair’ adds anything to the meaning of the words ‘market value,’ except possibly to this extent that the market price [His Lordship was dealing with publicly traded shares] must have some consistency and not be the effect of a transient boom or a sudden panic on the market.
+[Emphasis added.]
+[30] At page 6314, Joyal J., before stating the definition of fair market value, acknowledged the “special purchaser” approach, which takes account of the premium that a special purchaser is willing to pay over and above fair market value. He thus drew a distinction between fair market value and value to a special purchaser.
+[31] Further on, Joyal J. cited Inland Revenue Commissioners v. Clay and Buchanan, [1914] 3 K.B. 466 (Eng. C.A.), where it was acknowledged that there were speculators who were willing to pay more than normal value with the intent of reselling at a profit to a special purchaser. In other words, knowledge of a special purchaser’s special need could influence the market price if others “join in competing for the property with a view to obtaining it at a price less than that at which the opinion would be formed that it would be worth the while of the special buyer to purchase” (see, at page 6315, the excerpt from the judgment of Swinfen Eady L.J.).
+[32] In addition, Joyal J. acknowledged, at page 6318, that facts arising after the valuation date may be considered for the purposes of the valuation process. Because value, for income tax purposes, is generally determined in a “notional” market, one may consider an actual sale subsequent to the valuation date in order to determine whether the valuation was reasonable.
+[33] In the instant proceedings, the sales used by the Respondent’s expert are the result of a special purchaser (Provigo) in the market, a purchaser who inflated the price to such a degree that it gave special value to the lands thereby purchased. However, when Provigo itself sought to sell two of those lots less than two years later, it sold at a markedly deflated price, comparable to the price paid by Jean‑François Coupal to purchase his father’s property. The price paid by Provigo, as part of its plan to assemble a 250,000 square foot site, was clearly speculative, and much higher than what an ordinary purchaser would have been willing to pay for the same property.
+[34] In Morneau, a decision that was also cited by counsel for the Respondent, our Court had to determine whether the shareholder of the corporation that bought his property was conferred a benefit under subsection 15(1) of the ITA. The Minister of National Revenue submitted that the corporation had paid the shareholder a price that was too high in relation to the property’s fair market value. The corporation was the special purchaser in that instance because it needed the shareholder’s land for its business purposes, and it offered the shareholder a price that would enable him to relocate. The shareholder accepted the offer. Dussault J., of our Court, held that the shareholder did not receive any benefit within the meaning of subsection 15(1) of the ITA from the sale of the property to the corporation because he was actually impoverished by the transaction, not enriched by it.
+[35] In obiter dictum, Dussault J. addressed the issue of fair market value where a special purchaser exists. In addition to the above passage from paragraph 43 of his judgment, quoted by counsel for the Respondent, he stated, at paragraph 44, that it is impossible to disregard the special interest a potential purchaser may have in acquiring property for a value higher than what others would be prepared to pay, in view of the special circumstances in which it finds itself and the use that it intends to make of the property.
+[36] It is important to place ourselves in the context. In Morneau, the Court was ruling on the value of the property to a special purchaser. It acknowledged that the property was of greater value to that particular purchaser. In this sense, his decision is in line with what Joyal J. stated in Dominion Metal & Refining Works Ltd., supra, drawing a distinction between fair market value and the higher value to a special purchaser. In addition, Dussault J. held as follows in Morneau, at paragraph 46:
+. . . When the interests of a seller can be reconciled with those of a buyer, albeit a special one, after a mutual compromise consistent with each side’s bargaining power, a price which has been negotiated and finally accepted may be regarded as representing a value which could be obtained on the market.
+[37] The instant case does not involve interests of a seller that can be reconciled with those of a special buyer after a mutual compromise consistent with each side’s bargaining power because, on the valuation date, Provigo was showing no interest in the property. There was no price negotiated between and finally accepted by Mr. Coupal and Provigo equal to the price that two individuals would have negotiated. The proof is that when Provigo resold two of the parcels that it had purchased to ordinary buyers, the average market value at which it sold them was no higher than the price that Jean‑François Coupal paid for his father’s property.
+[38] As for the theory that speculators would have been willing to pay a higher price so that they could resell to Provigo at a profit, such an exercise is too hypothetical to approximate reality in this instance. There was no evidence that such speculators existed. Had Jean‑François Coupal purchased from his father for speculative purposes, it seems to me he would have acted on the purchase option submitted by Provigo’s proxy. Instead, he simply ignored it. Lastly, the Respondent’s expert’s valuation is based on the assumption that the most profitable use of the property was commercial. The evidence discloses that there are still several residential properties in the area, and that the area is zoned “restricted commercial.” This zoning makes it very possible for residential and commercial uses to coexist, as authorized by the city. I find therefore that the Respondent’s expert’s appraisal is not realistic.
+[39] In my opinion, the Appellant’s expert is much more persuasive when he says that such a property would never sell for $240,000 in a normal market. The evidence clearly shows that Provigo’s arrival temporarily inflated prices, albeit only for those who were within its sights. As for the other owners, I agree with the Appellant’s expert that the value of their properties was not dramatically increased. Mr. Bélanger used sales in residential areas for his valuation. The valuation is verified by the cost-method appraisal, which is slightly higher. The expert explains that economic obsolescence accounts for the difference, and this explanation is satisfactory. In my view, this value represents the higher price that Mr. Coupal could reasonably expect to get in a normal sale in the ordinary course of business, without regard to the unusual pressures made by Provigo as part of its site assembly project.
+[40] For these reasons, I agree with the Appellant’s expert’s valuation of $148,000. The appeal is allowed, with costs in accordance with the regular tariff under the rules of this Court, and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the $49,607 taxable capital gain added to the Appellant’s income for the 2000 taxation year must be removed from his income.
+Signed at Ottawa, Canada, this 10th day of July 2008.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 17th day of September 2008
+Stefan Winfield, Reviser
+CITATION: 2008 TCC 411
+COURT FILE NO.: 2006-2770(IT)G
+STYLE OF CAUSE: THE ESTATE OF HENRI COUPAL v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 3, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: July 10, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Louis Frédérick Côté
+Counsel for the Respondent:
+Simon Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Louis Frédérick Côté
+Firm: Spiegel Sohmer
+Montréal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I would note that, according to Exhibit A‑2, the expert report submitted by the Appellant, the value on the municipal assessment roll for the 1999-2001 year was $120,800—so actually $30,000 less than Jean-François’ offering price.

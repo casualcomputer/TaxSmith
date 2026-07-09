@@ -1,0 +1,189 @@
+---
+title: "Whitty c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29281/index.do"
+last_modified: "2009-06-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 333"
+citation2: ""
+neutral_citation: "2009 CCI 333"
+decision_date: "2009-06-18"
+language: "fr"
+item_id: "29281"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7082
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:48:47.797000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "76f5e6f01c3475e641419d659027dc1b960592f89d7bb1a74a48bbd21b30babf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Whitty c. La Reine
+
+- Citation: 2009 CCI 333
+- Decision date: 2009-06-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7082, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Whitty c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-06-18
+Référence neutre
+2009 CCI 333
+Numéro de dossier
+2008-1631(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1631(IT)I
+ENTRE :
+SHAWN T. G. WHITTY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 18 juin 2009, à Ottawa (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Ageliki Apostolakos
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2006 est rejeté.
+Signé à Ottawa, Canada, ce 19e jour de juin 2009.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 15e jour de juillet 2009.
+Marie-Christine Gervais, traductrice
+Référence : 2009 CCI 333
+Date : 20090619
+Dossier : 2008-1631(IT)I
+ENTRE :
+SHAWN T. G. WHITTY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] La question à trancher dans le présent appel est de savoir si le paragraphe 118(5) de la Loi de l’impôt sur le revenu (la « Loi ») prive l’appelant du crédit pour l’équivalent du montant pour conjoint à l’égard de son fils, Dylan, pour l’année d’imposition 2006.
+[2] L’appelant s’est représenté lui‑même lors de l’instruction de l’appel.
+[3] Les parties ont déposé l’exposé conjoint des faits suivant :
+[TRADUCTION]
+1. L’appelant et son ex‑épouse, à savoir Christine Mair (l’« ex‑épouse ») ont eu deux enfants, soit Curtis Alexander Whitty, né le 13 février 1990, et Dylan John Whitty, né le 15 janvier 1993 (les « enfants »).
+2. L’appelant et son ex‑épouse vivent séparément depuis 1994.
+3. Le 9 mars 1995, M. le juge Millette de la Cour de l’Ontario (Division générale), a ordonné que l’appelant verse à son ex‑épouse, à titre de pension alimentaire provisoire pour les deux enfants issus du mariage, la somme de deux cent cinquante dollars (250 $) par mois par enfant, à compter du 1er mai 1994, et le premier jour de chaque mois par la suite, en avance.
+4. Le 15 février 1996, la juge M. Métivier de la Cour de l’Ontario (Division générale) a ordonné que, à compter du 1er juin 1996, l’appelant paye une pension alimentaire pour enfants provisoire plus élevée, soit la somme de sept cent cinquante dollars (750 $) par mois pour les deux enfants issus du mariage.
+5. Le 21 février 1997, le juge R.C. Desmarais de la Cour de justice de l’Ontario (Division générale) a prononcé un jugement de divorce à l’égard de l’appelant et de son ex‑épouse.
+6. Le 21 février 1997, le juge R.C. Desmarais de la Cour de justice de l’Ontario (Division générale) a mentionné à la page 11 de ses motifs que l’appelant n’avait jamais payé la pension alimentaire pour enfants de sept cent cinquante dollars (750 $) par mois que la juge M. Métivier lui avait ordonné de payer le 15 février 1996.
+7. Au moment où l’ordonnance sur consentement de 500 $ par mois avait été rendue, le père occupait un emploi et avait un salaire annuel d’environ 38 000 $. En septembre 1996, il n’avait plus d’emploi et il recevait des prestations d’assurance‑emploi, ce qui lui donnait un revenu mensuel de 1 511,17 $, ou un revenu annuel de quelque 18 000 $. Ce fait est confirmé par son état financier le plus récent, qui est daté du 10 février 1997.
+8. Le 21 février 1997, le juge R.C. Desmarais de la Cour de justice de l’Ontario (Division générale) a mentionné à la page 11 de ses motifs que l’appelant avait un arriéré de 3 445,17 $ au titre de la pension alimentaire pour enfants en date du 1er février 1997.
+9. Le 21 février 1997, le juge R.C. Desmarais a ordonné que l’arriéré de 3 445,17 $ au titre de la pension alimentaire pour enfants ne soit pas annulé.
+10. Le 21 février 1997, le juge R.C. Desmarais a également ordonné que l’appelant paye à son ex‑épouse à titre de pension alimentaire pour enfants la somme de quatre cent dollars (400 $) par mois pour les deux enfants issus du mariage et que les paiements de pension alimentaire commencent le 1er mars 1997.
+11. Le 26 janvier 2006, la juge Linhares De Sousa de la Cour supérieure de justice de l’Ontario, Cour de la famille, a ordonné que Curtis Alexander Whitty vive principalement avec l’ex‑épouse et que Dylan John Whitty vive principalement avec l’appelant.
+12. Au paragraphe 3 des motifs du jugement rendu par la juge Linhares De Sousa le 26 janvier 2006, il est mentionné que l’obligation continue relative à la pension alimentaire pour enfants de l’appelant à l’égard des enfants a pris fin le 26 janvier 2006.
+13. Au paragraphe 4 des motifs du jugement rendu par la juge Linhares De Sousa le 26 janvier 2006, il est mentionné que l’arriéré de pension alimentaire pour enfants de l’appelant dû à l’égard des deux enfants est de 8 500 $, à compter du 26 janvier 2006.
+14. Au paragraphe 4 des motifs du jugement rendu par la juge Linhares De Sousa le 26 janvier 2006, il est mentionné que les frais de justice que l’appelant doit payer relativement à l’ordonnance précédente du juge R.C. Desmarais sont de 1 500 $.
+15. Au paragraphe 4 des motifs du jugement rendu par la juge Linhares De Sousa le 26 janvier 2006, il est mentionné que les frais de justice que l’appelant doit payer relativement à l’ordonnance précédente du juge R.C. Desmarais sont de 1 500 $.
+16. Le 1er janvier 2006, l’appelant a payé une pension alimentaire pour enfants à l’égard de son fils, Dylan.
+17. Dans le calcul de son impôt à payer pour l’année d’imposition 2006, l’appelant a demandé une déduction de 7 505 $ pour personne à charge admissible à l’égard de l’un de ses enfants, Dylan John Whitty.
+18. Dans un avis de cotisation daté du 1er mars 2007, le ministre du Revenu national (le « ministre ») a établi une cotisation initiale d’impôt à payer pour l’année d’imposition 2006 conformément à la déclaration que l’appelant avait produite.
+19. Dans un avis de nouvelle cotisation daté du 28 janvier 2008, le ministre a refusé d’accorder la déduction pour personne à charge admissible mentionnée au paragraphe 1[7] ci‑dessus.
+[4] Les ordonnances de la Cour de l’Ontario (Division générale) et de la Cour supérieure de justice de l’Ontario, Cour de la famille, qui sont mentionnées dans l’exposé conjoint des faits, ont été soumises à la présente cour dans un recueil conjoint de documents.
+[5] Les dispositions législatives pertinentes sont les paragraphes 56.1(4) et 118(5) ainsi que l’alinéa 118(1)b) de la Loi.
+56.1(4) « date d’exécution » Quant à un accord ou une ordonnance :
+a) si l’accord ou l’ordonnance est établi après avril 1997, la date de son établissement;
+b) si l’accord ou l’ordonnance est établi avant mai 1997, le premier en date des jours suivants, postérieur à avril 1997 :
+(i) le jour précisé par le payeur et le bénéficiaire aux termes de l’accord ou de l’ordonnance dans un choix conjoint présenté au ministre sur le formulaire et selon les modalités prescrits,
+(ii) si l’accord ou l’ordonnance fait l’objet d’une modification après avril 1997 touchant le montant de la pension alimentaire pour enfants qui est payable au bénéficiaire, le jour où le montant modifié est à verser pour la première fois,
+(iii) si un accord ou une ordonnance subséquent est établi après avril 1997 et a pour effet de changer le total des montants de pension alimentaire pour enfants qui sont payables au bénéficiaire par le payeur, la date d’exécution du premier semblable accord ou de la première semblable ordonnance,
+(iv) le jour précisé dans l’accord ou l’ordonnance, ou dans toute modification s’y rapportant, pour l’application de la présente loi.
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+118(1)b) Crédit équivalent pour personne entièrement à charge [« équivalent du montant pour conjoint »] – […]
+si le particulier ne demande pas de déduction pour l’année par l’effet de l’alinéa a) et si, à un moment de l’année :
+(i) d’une part, il n’est pas marié ou ne vit pas en union de fait ou, dans le cas contraire, ne vit pas avec son époux ou conjoint de fait ni ne subvient aux besoins de celui‑ci, pas plus que son époux ou conjoint de fait ne subvient à ses besoins,
+(ii) d’autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient réellement aux besoins d’une personne qui, à ce moment, remplit les conditions suivantes :
+(A) elle réside au Canada, sauf s’il s’agit d’un enfant du particulier,
+(B) elle est entièrement à la charge soit du particulier, soit du particulier et d’une ou plusieurs de ces autres personnes,
+(C) elle est liée au particulier,
+(D) sauf s’il s’agit du père, de la mère, du grand‑père ou de la grand‑mère du particulier, elle est soit âgée de moins de 18 ans, soit à charge en raison d’une infirmité mentale ou physique;
+118(5) Pension alimentaire – Aucun montant n’est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition si le particulier, d’une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex‑époux ou ancien conjoint de fait pour la personne et, d’autre part, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex‑époux ou ancien conjoint de fait tout au long de l’année pour cause d’échec de leur mariage ou union de fait;
+b) demande une déduction pour l’année par l’effet de l’article 60 au titre de la pension alimentaire versée à son époux ou conjoint de fait ou ex‑époux ou ancien conjoint de fait.
+[6] L’intimée convient que l’appelant remplit toutes les conditions énoncées à l’alinéa 118(1)b) de la Loi. Toutefois, l’intimée soutient que, en 2006, l’appelant était tenu de verser une pension alimentaire à son ex‑épouse et que le paragraphe 118(5) prive l’appelant du crédit d’impôt qui est accordé en application de l’alinéa 118(1)b).
+[7] Dans le présent appel, les deux parties conviennent que l’appelant a versé une pension alimentaire pour enfants le 1er janvier 2006.
+[8] L’appelant avait un arriéré de pension alimentaire pour enfants, et dans l’ordonnance rendue par la juge De Sousa, laquelle était datée du 26 janvier 2006, cet arriéré avait été fixé à 8 500 $. Les frais de justice avaient été ajoutés à l’arriéré, portant le total du montant que l’appelant devait payer à 10 000 $. Dans la même ordonnance, la juge avait ordonné que l’appelant paye l’arriéré au moyen de versements mensuels de 141 $.
+[9] Le montant de pension alimentaire pour enfants payé par l’appelant le 1er janvier 2006 constitue une « pension alimentaire » au sens du paragraphe 56.1(4).
+[10] L’arriéré accumulé de 10 000 $ que l’appelant était tenu de payer constituait également une « pension alimentaire »[1].
+[11] Le fait que l’appelant était tenu de payer l’arriéré suffit pour priver l’appelant du droit de demander le crédit prévu à l’alinéa 118(1)b) de la Loi[2]. Il importe peu de savoir si l’appelant a effectivement payé l’arriéré.
+[12] Les faits en l’espèce étaient très semblables à ceux dans la décision LeClair c. R., 2005 CCI 363. Dans cette affaire, la seule question que le juge Bowie devait trancher était de savoir si le paragraphe 118(5) avait pour effet de priver l’appelant du crédit d’impôt prévu à l’alinéa 118(1)b). Le juge Bowie a mentionné ce qui suit aux paragraphes 4 et 5.
+[4] L’appelant est d’avis que le paragraphe 118(5) n’a pas pour effet de le rendre inadmissible aux fins du crédit prévu à l’alinéa 118(1)b) parce qu’il n’était pas tenu de verser une pension alimentaire pour l’enfant pour l’année en question. La pension qu’il a payée constituait des arriérés se rapportant à une année antérieure, et ne relève donc pas de cette disposition.
+[5] Malheureusement pour l’appelant, que son cas soit visé par les termes simples du paragraphe 118(5) de la Loi ne fait aucun doute. Cette disposition produit ses effets lorsque le contribuable est tenu de verser une pension alimentaire relativement à la personne à charge pour laquelle il demande le crédit personnel si l’une des deux autres conditions est remplie. Ces conditions sont les suivantes : l’appelant et l’ex‑époux vivent séparés, ou l’appelant demande une déduction au titre des paiements de pension alimentaire faits dans l’année pour l’enfant. Il ressort clairement de l’avis d’appel même de l’appelant et de son témoignage qu’en l’espèce, les trois conditions sont remplies. Il ne fait aucun doute que les arriérés de pension alimentaire pour l’enfant à payer aux termes d’une ordonnance ou d’un accord concernant une année antérieure, mais demeurés impayés jusqu’à l’année en question, correspondent à la définition de « pension alimentaire ».
+[13] Le juge Bowie a conclu que le paragraphe 118(5) s’appliquait et a rejeté l’appel.
+[14] En l’espèce, l’avocate de l’intimée a également affirmé que la modification apportée en 1998 à la Loi budgétaire de 1996 concernant l’impôt sur le revenu n’aidait pas l’appelant.
+[15] Si la disposition s’appliquait, le montant de l’arriéré ne serait pas inclus dans la définition de l’expression pension alimentaire dans les cas suivants :
+i) le montant a été reçu en vertu d’une ordonnance ou d’un jugement qui ne comporte pas de date d’exécution;
+ii) le montant, s’il a été payé et reçu, ne serait pas inclus, si ce n’était la présente loi, dans le calcul du revenu du bénéficiaire.
+[16] Compte tenu des faits en l’espèce, je conclus qu’il y a une date d’exécution et qu’il s’agit du 26 janvier 2006. Malheureusement pour l’appelant, je dois rejeter l’appel.
+[17] L’appelant a soulevé la question de l’équité et il a mentionné la Charte. Je ne crois pas qu’une question relative à la Charte a été soulevée tout simplement parce que l’appelant a dit le mot « Charte ». Je dois également rendre ma décision conformément à la Loi. La Cour de l’impôt n’a pas compétence pour rendre des décisions fondées sur l’équité.
+[18] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 19e jour de juin 2009.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 15e jour de juillet 2009.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE : 2009 CCI 333
+NO DU DOSSIER DE LA COUR : 2008-1631(IT)I
+INTITULÉ : SHAWN T. G. WHITTY et
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 18 juin 2009
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 19 juin 2009
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Ageliki Apostolakos
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Mymryk c. R., 2003 CCI 760
+[2] Szuch c. R., 2005 CCI 188; confirmée 2006 CAF 383

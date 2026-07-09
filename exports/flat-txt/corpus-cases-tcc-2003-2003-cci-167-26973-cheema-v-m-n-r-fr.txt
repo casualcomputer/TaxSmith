@@ -1,0 +1,193 @@
+Title: Cheema v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26973/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-167-26973-cheema-v-m-n-r-fr.md
+Document type: case_law
+Last modified: 2003-03-27
+
+# Cheema v. M.N.R.
+
+- Citation: 2003 CCI 167
+- Decision date: 2003-03-27
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 551, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cheema v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-27
+Référence neutre
+2003 CCI 167
+Numéro de dossier
+2002-2984(EI)
+Juges et Officiers taxateurs
+Leslie M. Little
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-2984(EI)
+ENTRE :
+SARBJEET CHEEMA,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+WARIA HOLDINGS LTD.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu avec l'appel de Sarbjeet Cheema (2002-2986(CPP)) le 25 février 2003 à Kelowna (Colombie-Britannique)
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Représentant de l'appelante :
+Balbir Wariach
+Avocate de l'intimé :
+Représentant de l'intervenante :
+Me Jasmine Sidhu
+Balbir Wariach
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision du ministre est annulée selon les motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 27e jour de mars 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de juin 2004.
+Ingrid B. Miranda, traductrice
+Dossier : 2002-2986(CPP)
+ENTRE :
+SARBJEET CHEEMA,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+WARIA HOLDINGS LTD.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus avec l'appel de Sarbjeet Cheema (2002-2984(EI)) le 25 février 2003 à Kelowna (Colombie-Britannique)
+Devant : L'honorable juge L. M. Little
+Comparutions :
+Représentant de l'appelante :
+Balbir Wariach
+Avocate de l'intimé :
+Représentant de l'intervenante :
+Me Jasmine Sidhu
+Balbir Wariach
+____________________________________________________________________
+JUGEMENT
+L'appel est accueilli et la décision du ministre est annulée selon les motifs du jugement ci-joints.
+Signé à Vancouver (Colombie-Britannique) ce 27e jour de mars 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de juin 2004.
+Ingrid B. Miranda, traductrice
+Référence : 2003CCI167
+Date : 20030327
+Dossiers : 2002-2984(EI)
+2002-2986(CPP)
+ENTRE :
+SARBJEET CHEEMA,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+WARIA HOLDINGS LTD.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Little
+A. LES FAITS
+[1] L'appelante est née en Inde.
+[2] L'appelante a épousé Balbir Wariach ( « Balbir » ) en Inde en 1982, et ils ont eu trois enfants.
+[3] L'appelante, Balbir et leurs enfants ont immigré au Canada en 1986.
+[4] L'appelante et Balbir ont divorcé en 1989.
+[5] L'appelante a vécu dans les localités suivantes, au Canada :
+Calgary
+1986 - 1995
+Penticton
+1995 - 1997
+Kelowna
+1997 -
+[6] En 1993, Balbir a épousé Preminderjeet Wariach ( « Preminderjeet » ).
+[7] Waria Holdings Ltd. ( « Waria » ) a été constituée en personne morale en vertu de la British Columbia Company Act en 1999. Les actions de Waria étaient réparties ainsi :
+Balbir
+50 %
+Preminderjeet
+50 %
+[8] En août 1999, une propriété de 90 acres située sur l'avenue MacKenzie à Kelowna (la « propriété MacKenzie » ) a été achetée. Le titre de la propriété MacKenzie était réparti ainsi :
+Balbir
+50 %
+Preminderjeet
+50 %
+[9] La propriété MacKenzie consistait approximativement en deux acres de terre consacrés à la culture de pommiers et de cerisiers, et 88 acres de terres agricoles accidentées. Le témoignage a démontré que les pommes poussaient sur 60 à 70 pommiers MacIntosh arrivé à maturité.
+[10] En 1999 et jusqu'en juillet 2000, l'appelante était domiciliée au 421, Wigglesworth Crescent à Kelowna. L'appelante a témoigné que la propriété située au 421, Wigglesworth Crescent appartenait à son ex-époux, Balbir, et qu'elle y vivait dans un logement séparé et privé.
+[11] En juillet 2000, Waria a acheté 10 acres de terre sur le chemin Webster à Kelowna (la « propriété Webster » ). La propriété Webster consistait en 10 acres de terre, dont deux acres et demi étaient consacrés à la culture de prunes à pruneau et environ sept acres et demi étaient consacrés à la luzerne.
+[12] L'appelante a déposé verbalement ce qui suit :
+a) à partir du 27 mars 2000, l'appelante travaillait six jours par semaine, environ huit heures par jour, au taux de 10 $ de l'heure, comme manoeuvre agricole dans la propriété MacKenzie;
+b) l'appelante a dit qu'elle était chargée des tâches suivantes dans la propriété MacKenzie;
+- réparer la clôture qui entoure la propriété MacKenzie, laquelle s'étend sur 90 acres,
+- tailler les 60 à 70 pommiers MacIntosh, anciens et étendus, et jeter les branches émondées,
+- aider à l'irrigation des deux acres de verger,
+- fertiliser à la main,
+- émonder les pommiers,
+- cueillir les pommes et les cerises,
+- nettoyer les champs après la récolte.
+c) Vers la fin du mois de juillet 2000, l'appelante a déménagé dans une maison située dans la propriété Webster où elle a vécu jusqu'à la fin de l'année 2000. L'appelante a dit qu'à partir de la fin de juillet 2000, elle a accompli les tâches suivantes dans la propriété Webster :
+(i) irriguer la luzerne qui poussait sur une parcelle de sept acres et demi;
+(ii) fertiliser à la main la luzerne;
+(iii) tailler certains pruniers et jeter les branches émondées;
+(iv) cueillir les prunes à pruneau;
+(v) nettoyer après la récolte.
+[13] L'appelante a témoigné que Balbir lui donnait des directives au sujet des tâches qu'elle devait accomplir durant sa journée de travail dans la propriété MacKenzie ou dans la propriété Webster.
+[14] L'appelante a témoigné qu'elle a été rémunérée 14 400 $ pour les services qu'elle a fournis dans les propriétés MacKenzie et Webster durant l'année 2000. Elle a produit un formulaire T-4 (Pièce A-1). L'appelante a produit une déclaration de revenus où la somme de 14 400 $ a été rapportée comme revenu correspondant à l'année 2000.
+[15] L'appelante a demandé des prestations en vertu de la Loi sur l'assurance-emploi pour l'année 2000 et le ministre a décidé que l'appelante n'était pas admissible à ces prestations.
+B. QUESTIONS EN LITIGE :
+[16] L'appelante est-elle admissible à des prestations en vertu de la Loi sur l'assurance-emploi pour l'année 2000?
+[17] L'appelante occupait-elle un emploi ouvrant droit à pension aux termes des paragraphes 2(1) et 6(2) du Régime de pensions du Canada?
+C. ANALYSE :
+[18] Dans une lettre envoyée à l'appelante par Mme Ruth Elsworth, de l'Agence des douanes et du revenu du Canada ( « ADRC » ), le 5 novembre 2001, on peut lire :
+[traduction]
+Votre relation avec Waria Holdings Ltd. pendant la période en question ne peut être considérée comme un emploi assurable, puisque vous n'étiez pas une employée qui rendait des services en application d'un contrat de louage de services.
+Il a été décidé que vous n'étiez pas une employée, sur la base des raisons suivantes :
+Waria Holdings Ltd. n'exerçait pas de contrôle sur vous ni sur votre travail parce que
+- Vous n'avez pas fourni de preuve concluante que vous étiez une employée travaillant en vertu d'un contrat de louage de services auprès de Waria Holdings Ltd.
+[19] L'appelante a interjeté appel auprès de l'ADRC. Voici les commentaires qui figurent dans une lettre datée du 26 juin 2002 envoyée par M. Rodger Mack de la Division des appels de l'ADRC :
+[traduction]
+Il a été décidé que cet emploi n'ouvrait pas droit à pension et n'était pas assurable pour la raison suivante : Sarbjeet Cheema n'était pas employée en vertu d'un contrat de louage de services et, par conséquent, celle-ci n'est pas considérée comme ayant été employée.
+[...]
+La décision indiquée dans la présente lettre est émise en application du paragraphe 27.2(3) du Régime de pensions du Canada et du paragraphe 93(3) de la Loi sur l'assurance-emploi. Elle se base aussi sur l'alinéa 6(1)a) du Régime de pensions du Canada et l'alinéa 5(1)a) de la Loi sur l'assurance-emploi.
+[20] L'appelante a déposé des avis d'appel auprès de la Cour.
+[21] La Réponse présentée par le représentant de l'appelante comprend les déclarations suivantes :
+[traduction]
+4(b) Waria n'a pas demandé de déductions relatives à des charges salariales dans sa déclaration de revenus de l'année 2000.
+Commentaire - Waria a déposé une déclaration modifiée (Pièce -9) auprès de l'ADRC, déclarant avoir payé un montant de 7 200 $ pour des travaux sur commande effectués sous contrat, en 2000. Balbir a témoigné que cette dépense visait le travail effectué par l'appelante auprès de Waria.
+Note : M. Paul Neustaedter, C.A., a témoigné pour le compte de l'appelante. M. Neustaedter a déclaré que le 7e jour de novembre 2001, une demande de redressement relative à l'année d'imposition 2000 a été déposée auprès de l'ADRC. Ce document indiquait que la somme de 7 200 $ concernait le travail effectué sous contrat. M. Neustaedter a déclaré que ce redressement était nécessaire pour prouver qu'une moitié du salaire de l'appelante a été déboursée par la ferme appartenant à Balbir et Preminderjeet, et que l'autre moitié a été déboursée par Waria.
+[22] La Réponse contenait aussi les déclarations suivantes :
+[traduction]
+4(m) Waria n'a pas de justificatifs des jours et des heures auxquels l'appelante aurait travaillé.
+Commentaire - La pièce A-1 est un formulaire T-4 modifié produit par Waria, indiquant que Waria a payé à l'appelante 14 400 $ en 2000.
+La pièce I-1 est une copie de 18 formules contenant des renseignements au sujet du nombre de jours ouvrés par l'appelante entre le 27 mars et le 21 octobre 2000.
+[23] M. Brad Novikoff, un agent du Développement des ressources humaines Canada, a été cité à témoigner par l'avocate de l'intimé. M. Novikoff a déposé un Rapport daté du 19 avril 2001(Pièce R-5) qu'il a préparé à la suite d'une réunion avec M. Wariach. Le rapport de M. Novikoff indique qu'il a posé beaucoup de questions à M. Wariach pour confirmer les déclarations faites par l'appelante lors d'une réunion avec des agents de l'ADRC le 13 mars 2001. (Note - Il y a aussi un rapport préparé par Narinder Bansel du Développement des ressources humaines Canada le 13 mars 2001 (voir pièce I-2).)
+[24] Dans les pièces R-5 et I-2, il est rapporté que l'appelante n'a travaillé que dans la propriété MacKenzie. En d'autres mots, l'ADRC n'admet pas que l'appelante ait travaillé dans la propriété Webster pendant l'année 2000. Cependant, les dépositions de l'appelante et de Balbir démontrent clairement que l'appelante a travaillé dans la propriété MacKenzie et dans la propriété Webster en 2000.
+[25] Il est important de remarquer aussi que Balbir a déposé que Waria a versé à l'ADRC un montant de 6 042,56 $ concernant des déductions en relation avec l'appelante. Balbir a témoigné que des agents de l'ADRC se sont opposés à ce que Waria paye toutes les déductions, puisque la moitié du travail accompli par l'appelante a été effectué dans la propriété appartenant à Balbir et à sa femme (la propriété Webster) et que l'autre moitié du travail accompli par l'appelante a été effectué dans la propriété MacKenzie (appartenant à Waria). Balbir a témoigné qu'un redressement des déclarations de revenus a été effectué afin d'annuler la moitié du montant versé par Waria à l'appelante, et de transférer la moitié du salaire au compte de Balbir et de sa femme Preminderjeet en relation avec la propriété Webster.
+[26] Compte tenu de l'ensemble de la preuve, j'ai admis le témoignage de l'appelante qu'elle a travaillé pour Waria, ainsi que pour Balbir et Preminderjeet, durant l'année 2000. J'ai aussi admis les heures rapportées pour l'année 2000.
+[27] Je conclus, par conséquent, qu'il existait un contrat de louage de services entre l'appelante et Waria pendant l'année d'imposition 2000.
+[28] La présente décision s'applique aux faits pertinents concernant l'année d'imposition 2000. Balbir a déclaré que l'année 2000 est la première pour laquelle Waria a produit des déclarations de revenus. Je voudrais faire remarquer que Waria et Balbir doivent, dans le futur, s'assurer que tous les renseignements déposés auprès de l'ADRC pour les années ultérieures à 2000 sont produits dans les délais et de manière détaillée, de sorte que les problèmes soulevés dans le présent appel ne se reproduisent plus.
+[29] Avant de conclure mes observations, je voudrais souligner que M. Novikoff et Mme Bansel, ainsi que leurs collègues au Développement des ressources humaines Canada, accomplissent un travail très important et très difficile. Leur tâche est d'autant plus difficile que beaucoup d'employeurs de l'industrie des vergers ne tiennent pas de registres adéquats. Je fais référence à la décision de mon collègue, le juge Campbell Miller, dans Khunkhun c. La Reine, [2002] A.C.I. no 483, où celui-ci fait des observations au sujet des problèmes qu'il a dû résoudre dans le cadre d'une demande pour calculer le nombre d'heures de travail ouvrées par un employé. Si les employeurs dans l'industrie du verger ne reconnaissent pas leur obligation de tenir des registres adéquats, ils ne pourront s'en prendre à personne sinon à eux-mêmes si des agents de Développement des ressources humaines Canada et de l'ADRC contestent les documents qu'ils ont déposés.
+[30] L'appel est accueilli et la décision du ministre est annulée. La présente décision s'applique à l'appel interjeté en vertu du Régime de pensions du Canada et à l'appel interjeté en vertu de la Loi sur l'assurance-emploi.
+Signé à Vancouver (Colombie-Britannique) ce 27e jour de mars 2003.
+« L. M. Little »
+J.C.C.I.
+Traduction certifiée conforme
+ce 14e jour de juin 2004.
+Ingrid B. Miranda, traductrice

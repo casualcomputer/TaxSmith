@@ -1,0 +1,162 @@
+---
+title: "Revah v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28335/index.do"
+last_modified: "2004-05-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 312"
+citation2: ""
+neutral_citation: "2004 TCC 312"
+decision_date: "2004-05-17"
+language: "en"
+item_id: "28335"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1854
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:27:17.749000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "57613877d7afb030c00c015f5979ae7e5f0ce88af6590f036d9201dec78e9a99"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Revah v. The Queen
+
+- Citation: 2004 TCC 312
+- Decision date: 2004-05-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1854, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Revah v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-17
+Neutral citation
+2004 TCC 312
+File numbers
+2004-4351(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Case: 2000-4351(IT)G
+BETWEEN:
+SALOMON REVAH,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+____________________________________________________________________
+Appeals heard on February 10, 2004 at Montreal, Quebec
+Before: The Honourable Justice Gerald Rip
+Appearing:
+Counsel for the appellant:
+Me Pierre Martel
+Counsel for the respondent:
+Me Simon Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments under the Income Tax Act for the 1993 and 1994 taxation years are allowed with costs, and the assessments are referred back to the Minister for reconsideration and reassessment, on the ground that the appellant was not resident in Canada during 1993 and 1994.
+Signed at Ottawa, Canada, this 17th day of May 2004.
+"Gerald Rip"
+Rip, J.
+Citation: 2004TCC312
+Date: 20040517
+Case: 2000-4351(IT)G
+BETWEEN:
+SALOMON REVAH,
+appellant,
+and
+HER MAJESTY THE QUEEN,
+respondent.
+REASONS FOR JUDGMENT
+Justice Rip
+[1] The principal issue in these appeals against assessments for the 1993 and 1994 taxation years is whether the appellant, Salomon Revah, was a resident of Canada during the years in dispute. In the event that he was resident in Canada, his income would be taxable under section 2(1) of the Income Tax Act (the “Act”).
+[2] If I find that the appellant was resident in Canada in the 1993 and 1994 taxation years, I must then determine whether there was income in the amounts of $62,067 and $49,637 that he did not report in his Canadian income tax returns for the 1993 and 1994 taxation years respectively.
+[3] The third issue is whether the penalties provided for in subsection 163(2) of the Act, imposed by the Minister of National Revenue (the “Minister”) on the appellant with respect to the 1993 and 1994 years, namely the sums of $8,855.44 and $6,522.28 respectively, were justified.
+[4] The last issue was based on the assumption that the appellant was resident in Canada. Under such circumstances, will the appellant be eligible for tax credits paid in the United States?
+[5] The appellant believes that he was resident in the United States during 1993 and 1994 and that he accordingly ceased to be resident in Canada in 1992.
+[6] On September 27, 1992, the appellant sold his residence on rue Nantel in Ville Saint-Laurent, a suburb of Montreal, and moved to the United States. The residence on rue Nantel was the only immovable property he owned in Canada. He lived in a leased apartment and with his daughter in Florida during his first six months in the United States, awaiting completion of the construction of the house in Boca Raton, Florida, that he owned. The appellant and his wife, his daughter with her three children and her husband moved to the house in Boca Raton in 1993. Since 1993, he has changed his residence in Florida four times. When he sold a house, he paid off the mortgage on the house and took out a new mortgage on the next house he purchased.
+[7] Before leaving Canada, he sold his car and cancelled his Quebec driver’s licence. He leased several cars in the United States and obtained a Florida driver’s licence. Furthermore, Mr. Revah, who was 77 years of age at the time of the hearing, cancelled his Quebec health insurance card and replaced it with a card from an American insurance plan. Mr. Revah also cancelled his credit cards from Canadian banks and other financial institutions and replaced them, with credit cards from American institutions.
+[8] Mr. Revah is not a member of any club or association in Canada, even though he made charitable donations to religious organizations located in Canada. During the years in dispute he had and still has two bank accounts in Canada, which, as he testified, were generally used solely for his pension payments, that is to say payments from the Canada and Quebec pension plans and from his registered retirement savings plan (“RRSP”).
+[9] On September 10, 1992, Mr. Revah obtained a United States visa that allowed him to work temporarily in the United States until September 9, 1995, for Basatchi Uomo Inc. of Champlain, New York. Mr. Revah was the principal shareholder of this corporation. He applied for an American work permit (“green card”) on September 25, 1992. The appellant obtained this permit, which was valid for five years, on January 5, 1995. The appellant was not able to file his American work permit (“green card”) because that document was taken away from him when he received his American citizenship and his American passport on April 1, 2003. He retained his Canadian citizenship.
+[10] The appellant admitted that he paid visits from time to time, [TRANSLATION] “maybe once a year” to Canada to visit his family in the Montreal area.
+[11] On his tax returns for 1993 and 1994 submitted to the Canada Customs and Revenue Agency (the “CCRA”), the appellant gave as his residential address 351 Tait in Ville Saint-Laurent, which is the address of his brother David. The appellant, the son of the appellant David Revah and the accountant Léon Levy all testified that the indication of 351 Tait in Ville Saint-Laurent as the address of the appellant’s residence in Canada was an error made by the accounting firm responsible for preparing the appellant’s income tax returns. Furthermore, in the appellant’s Canadian tax return for 1993, we find that he ceased to be a resident of Canada in 1993. In the same return, however, Mrs. Revah’s province of residence as of December 31, 1993 was given as Quebec. In the 1992 tax return, it is stated that the appellant’s province of residence as of December 31, 1992 was Quebec. In the same return, we find that he ceased to be resident in Canada in 1992. Daniel Revah explained that he signed the tax returns on behalf of his father and did not check his father’s residence: [TRANSLATION] “To say that I checked the location of his residence and everything -- I did not do it; I apologize and that, in my view, was my mistake”. The appeal stated that he left Canada in the month of September 1992.
+[12] In assessing Mr. Revah, the Minister presumed that the appellant had not filed his American income tax returns (form 1040K) for 1993 and 1994. The appellant submitted copies of these American returns, which he filed with the Internal Revenue Service of the United States for 1993 and 1994.
+[13] From 1993 to 1997, the appellant’s spouse was registered as the owner of a residence located at 840, Place Stewart in Ville Saint‑Laurent, even though she spent most of her time in the United States in the company of the appellant. This residence had been purchased by Mrs. Revah in 1993 from her son Daniel Revah. The appellant and the son explained that Mrs. Revah had served as a front for Daniel Revah during the latter’s divorce. From 1993 to 1997, Daniel Revah lived in the residence in question without paying any rent.
+[14] The appellant owns one-half of the shares of an American company, MJ Apparel Inc. He received a salary from MJ Apparel Inc. The other half of the shares of this American company are owned by Cécile Revah, the appellant’s daughter. The appellant was registered as the owner of all the shares of two Canadian corporations (2754380 Canada Inc. and 2757800 Canada Inc.). He explained, however, that he held these shares solely because he acted as a front for his son Daniel. Daniel is resident in Canada. Léon Levy, the accountant for both Canadian corporations, who prepared the appellant’s tax returns, also testified. He admitted making an error in Mr. Revah’s tax returns; the computer in his office did not record the data in 1992 when the appellant left Canada.
+[15] CCRA auditor Pierre Thibodeau testified that since the appellant was resident in Canada for the purposes of his income tax returns, it was possible to consider the two corporations of which he held one-half of the shares to be treated as Canadian-controlled private corporations. Consequently, these two corporations were eligible for the small business deduction under section 125 of the Act. As 2754380 Canada Inc — a Canadian corporation of which the appellant holds one-half of the shares — recorded a profit during the 1993 taxation year, it was granted the small business deduction. It should be noted that Mr. Thibodeau did not consider the fact that the corporation would be granted this deduction even though Daniel was registered as a shareholder. In fact, Daniel was the usufructuary of the shares in both corporations.
+[16] The appellant argued that an individual’s residence was a question of fact and that he was an American resident during the taxation years in dispute because his principal residence was in the United States and the preponderance of his social and economic ties were with that country. If Mr. Revah was found to have been a resident of both Canada and the United States, the appellant felt that the tie-breaker rules in article 4 of the Convention between Canada and the United States of America with Respect to Taxes on Income and on Capital (hereinafter the “Convention”) made him an American resident during the years in dispute.
+[17] Counsel for the respondent felt that form was important in tax law and that the secret agreement between the appellant, the appellant’s spouse and the appellant’s son could not be relied upon against third parties, including the CCRA. The respondent also felt that if the rules in article 4 of the Convention must be applied, the appellant was a Canadian and not an American resident under those rules.
+[18] Residence of a taxpayer is a question fact.[1]
+[19] The "facts in each case", Noel, J. explained in Schujahn[2]:
+... must be examined closely to see whether they are covered by the very diverse and varying elements of the terms and words "ordinary resident" or "resident" ... A change of residence depends on facts external to [the individuals] will or desires. The length of stay or the time present within the jurisdiction, although an element, is not always conclusive. Personal presence, at sometime during the year, either by the husband or by the wife and family, may be essential to establish residence within it. A residence elsewhere may be of no importance as a man may have several residences from a taxation point of view and mode of life, the length of stay and reason for being in the jurisdiction might counteract his residence outside the jurisdiction.
+[20] In Thomson[3], Rand, J. stated at pages 224-225:
+For the purposes of income tax legislation, it must be assumed that every person has at all times a residence. It is not necessary to this that he should have a home or a particular place of abode or even a shelter. He may sleep in the open. It is important only to ascertain the spatial bounds within which he spends his life or to which his ordered or customary living is related. Ordinary residence can best be appreciated by considering its antithesis, occasional or casual or deviatory residence. The latter would seem clearly to be not only temporary in time and exceptional in circumstance, but also accompanied by a sense of transitoriness and of return.
+But in the different situations of so-called "permanent residence", "temporary residence", "ordinary residence", "principal residence" and the like, the adjectives do not affect the fact that there is in all cases residence; and that quality is chiefly a matter of the degree to which a person in mind and fact settles into or maintains or centralizes his ordinary mode of living with its accessories in social relations, interests and conveniences at or in the place in question. It may be limited in time from the outset, or it may be indefinite, or so far as it is thought of, unlimited...
+[21] Earlier, Rand, J. held that:
+It is quite impossible to give [the word] "residing" a precise and inclusive definition. It is highly flexible, and its many shades of meaning vary not only in the contexts of different matters, but also in different aspects of the same matter. In one case it is satisfied by certain elements, in another by others, some common, some new.
+[22] In the appeal at bar what is important in determining whether the appellant resided in Canada are the spatial bounds within which Mr. Revah spent his life or to which his ordered or customary living was related and the degree to which Mr. Revah in mind and in fact settled into or maintained or centralized his ordinary mode of living with its accessories and social relations, interests and conveniences.
+[23] The appellant and his witnesses, his son and accountant, were cross‑examined carefully and, on the whole, their testimony on cross‑examination did not put in serious doubt their evidence in chief. There are, however, two matters that disturb me and these are that in filing his Canadian and United States income tax returns Mr. Revah reported only the income he earned in the particular country, not his world income, and that his province of residence in the relevant Canadian income tax returns is Quebec and his address was 351 Tait in Ville Saint-Laurent.
+[24] If I find that Mr. Revah was not resident of Canada, the fact that he reported only his United States income in his United States income tax return is a matter for the Internal Revenue Service and not for me or the Canadian Revenue Agency ("CRA"). The fact that his Canadian income tax returns for 1993 and 1994 show his province of residence as Quebec ought to be compared to his United States tax returns for the same years which show his home address in Florida. Also, his Canadian tax return for 1993 states he ceased to be a resident of Canada in 1993; his Canadian tax return for 1994 states he ceased to be resident of Canada in 1994. While this is sloppy reporting on behalf of the tax preparer, it does indicate to some degree that Mr. Revah did not consider himself a resident of Canada in those years.
+[25] Based on this information, Mr. Levy's explanation that his office erred is not unreasonable. He stated that he never made changes to Mr. Revah's address in the computer software he used to prepare the tax returns of Mr. Revah. With respect to Mr. Revah's tax returns for later years, he said he generally received information for the returns in mid‑April of the following year and preparation of the returns is done quickly with the same address error continuing year after year. Mr. Levy has prepared Mr. Revah's tax returns since 1989.
+[26] Respondent's counsel expressed concern that Mrs. Revah was the registered owner of the house on Place Stewart where Daniel Revah resided and that Mrs. Revah, his mother, was the registered owner of that property. He also expressed concern that Mr. Revah was owner of shares of the corporation that qualified as a Canadian‑controlled private corporation. In both cases, witnesses testified that Daniel Revah was the beneficial owner of the residential property on Place Stewart and of the shares; his parents were his nominees during his divorce proceedings.
+[27] Respondent's counsel submitted that by virtue of Article 1212 of the Civil Code of Lower Canada, the appellant could not rely, against the respondent, on the arrangements between Daniel Revah and the appellant and Mrs. Revah. Counsel referred to Bolduc v. The Queen,[4] a judgment of the Federal Court of Appeal to support his submission. I do not believe Article 1212 is relevant to the appeal at bar. In determining residence of a taxpayer for tax purposes one looks at the totality of facts and circumstances affecting the taxpayer. There is no question of any counter-letters being proof against anyone. That the appellant and his wife may have entered into certain arrangements, whether legitimate or not, to protect their son's assets from his wife at the time cannot detract from my consideration of facts determining Mr. Revah's country of residence. The beneficial ownership of the properties is a factor I must consider. In these cases, there is no evidence to contradict the testimony of the appellant or his son that the son was the true owner of the residence on Place Stewart and of the shares. Indeed, the corporation would have been classed as a Canadian‑controlled private corporation even if Daniel Revah were the registered owner of these shares since he was a resident of Canada.
+[28] In this case, the appellant was resident in the United States and spent time in Montreal only to visit his family once or twice a year. In his testimony, however, the appellant did not indicate the duration of his visits to Canada in the 1993 and 1994 taxation years. The appellant did not have a residence in Canada. In effect, the appellant cut the great majority of his ties with Canada. He has two bank accounts in Canada and they contain the sums he accumulated as pension and RRSP benefits. He made charitable donations to organizations located in Canada. The fact that the appellant had several links with Canada did not make the appellant a Canadian resident indefinitely. The links that Mr. Revah had with the United States were even more substantial than those he had with Canada. He usually lived in the United States, which is where most of his property was located. In 1992, the appellant intended to leave Canada permanently and he actually left this country.
+[29] The appellant was not therefore resident in Canada during the 1993 and 1994 taxation years. The appeal is allowed with costs.
+Signed at Ottawa, Canada, this 17th day of May 2004.
+"Gerald Rip"
+Rip, J.
+CITATION:
+2004TCC312
+COURT FILE NO.:
+2004-4351(IT)G
+STYLE OF CAUSE:
+Salomon Revah v. The Queen
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+February 10, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT:
+May 17, 2004
+APPEARANCES:
+For the Appellant:
+Me Pierre Martel
+Counsel for the Respondent:
+Me Simon Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Me Pierre Martel
+Firm:
+Stikeman Elliott LLP
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Beament v. M.N.R., 52 DTC 1183 (S.C.C.).
+[2] Schujahn v. M.N.R., 62 DTC 1225 (Ex.Ct.) per Noel, J. at p. 1227.
+[3] Thomson v. M.N.R., [1946] S.C.R. 209.
+[4] Bolduc v. The Queen, 2003 F.C.A. 411 ([2003] A.C.F. No 1623 (Q.L.)).

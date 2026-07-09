@@ -1,0 +1,153 @@
+Title: Ouellet v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26054/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-357-26054-ouellet-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-05-20
+
+# Ouellet v. M.N.R.
+
+- Citation: 2004 TCC 357
+- Decision date: 2004-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4049, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouellet v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-20
+Neutral citation
+2004 TCC 357
+File numbers
+2003-2015(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-2015(EI)
+BETWEEN:
+NADA OUELLET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard February 23, 2004, at Montréal, Quebec
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+Agent for the Appellant:
+Pierre Garraud
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 20th day of May 2004.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 31st day of March 2009.
+Elizabeth Tan, Translator
+Citation: 2004TCC357
+Date: 20040520
+Docket: 2003-2015(EI)
+BETWEEN:
+NADA OUELLET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] This appeal was heard at Montréal, Quebec, on February 23, 2004.
+[2] This is an appeal regarding the insurability of the Appellant's employment while working for the Groupe Montoni (1995) Division Construction Inc., the Payor, within the meaning of the Employment Insurance Act (the Act), during the period in question, April 10, 2000, to October 12, 2001,.
+[3] On February 11, 2003, the Minister of National Revenue (the Minister) informed the Appellant of his decision that the employment was not insurable because she was not employed under a contract for services.
+[4] When rendering his decision, the Minister relied on the following presumptions of fact, listed at paragraph 5 of the Reply to the Notice of Appeal, which were admitted or denied by the Agent for the Appellant:
+[translation]
+(a) The Payor, Groupe Montoni (1995) Division Construction Inc., specializes in construction and renovation. (admitted)
+(b) Its sole shareholder is Dario Montoni. (admitted)
+(c) There is an arm's length relationship between the Payor and the Appellant. (admitted)
+(d) The Appellant was hired to clean the premises of the business owned by the Payor. (admitted)
+(e) There was no written contract of employment between the parties. (admitted)
+(f) The Appellant's duties were to wash the floors, clean the windows, dust the offices, empty garbage cans, clean the employee kitchen and clean the toilets. (admitted)
+(g) She worked outside the Payor's business hours and was neither controlled nor directed by the Payor in the performance of her work. (denied)
+(h) The Appellant had the key to the business and the access code to the Payor's premises. (admitted)
+(i) She did not have a set schedule to respect because what mattered was the final result. (denied)
+(j) The Appellant provided all the cleaning products required for her work. (denied)
+(k) The Payor provided the cleaning apparatus, such as the vacuum and mop. (admitted)
+(l) The Payor paid the Appellant a weekly fee of $430 for the cleaning contract. (admitted)
+[5] The evidence shows that, as the Minister claimed, the Appellant was to carry out her duties after business hours and that this is the only restriction or control imposed by the Payor over her work.
+[6] The Appellant received a regular weekly pay from the Payor, which was subject to source deductions for employment insurance, federal and provincial taxes and contributions to the Régime des rentes du Québec. The Minister admitted that the Appellant had received the prescribed 4% vacation pay.
+[7] It was established that the Appellant did not have a set schedule, as long as she carried out her work outside the Payor's business hours. The evidence shows that the only control the Payor had over the Appellant's work was assessing the final product, which, according to the case law, is not considered control by the employer over the employee's work.
+[8] The evidence also shows that the Payor provided the Appellant with a vacuum, mop and certain cleaning products. It was also shown that the Appellant provided certain products used in her work but never claimed any reimbursements from the Payor because the amounts were minimal.
+[9] It must be noted that the Appellant was not present at the hearing. Her agent, Pierre Garaud, explained that she had medical problems.
+[10] In these circumstances, it is relevant to reproduce certain elements of the Appellant's statutory declaration, made to an employee of Human Resources Development Canada (Exhibit I-1) on January 27, 2003, which state:
+[translation]
+...I worked at this place evenings or weekends and I set my own hours of work, except I could not work during the day on weekdays. I was paid a fixed salary of $430.00 gross per week, regardless of the number of hours of work I performed. On average, I worked 20 hours a week. The company provided me with a vacuum and certain products but I sometimes had to provide products I purchased myself, which I did not claim from the employer because the amounts were so low. I admit I gave erroneous information in my application for benefits, in regard to my type of work and my work schedule, as well as on my statutory declaration of May 29, 2002, because I was surprised at the reason I was called in…
+[11] It is of note that the evidence submitted by the Appellant did not show that the Minister's presumptions were false. On the contrary, the Appellant's evidence, the statutory declaration (Exhibit I-1), including the citation above, corroborated the Minister's presumptions.
+[12] The Agent for the Appellant, Pierre Garraud, claims that Ms. Montoni, spouse of the Payor's sole shareholder, was the one who set the Appellant's work schedule. This statement, however, was not supported by the evidence.
+[13] The tests with which we must assess the Appellant's work to determine whether the employment is insurable, was established in Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553, in which the Federal Court of Appeal stated:
+The case law has established a series of tests to determine whether a contract is one of service or for the provision of services. While not exhaustive, the following are four tests most commonly referred to:
+(a) the degree or absence of control exercised by the alleged employer;
+(b) ownership of tools;
+(c) chance of profit and risks of loss;
+(d) integration of the alleged employee's work into the alleged employer's business.
+[14] Regarding the first test, control, the evidence shows that this was nonexistent. No relationship of subordination, an essential characteristic for any contract for services, was established; what was important was the result. The Appellant operated as a self-employed worker, she herself decided when and how she would carry out her work. The only instruction: her work was to be done outside the Payor's business hours.
+[15] In a recent decision rendered February 13, 2004, by the Federal Court of Appeal, Livreur Plus Inc. v. Canada (Minister of National Revenue - M.N.R.), [2004] F.C.J. No. 267, Létourneau J. stated:
+In these circumstances, the tests mentioned in Wiebe Door Services Ltd. v. M.N.R., 87 D.T.C. 5025, namely the degree of control, ownership of the work tools, the chance of profit and risk of loss, and finally integration, are only points of reference: Charbonneau v. Canada (Minister of National Revenue - M.N.R.) (1996), 207 N.R. 299, paragraph 3. Where a real contract exists, the Court must determine whether there is between the parties a relationship of subordination which is characteristic of a contract of employment, or whether there is instead a degree of independence which indicates a contract of enterprise: ibid.
+Having said that, in terms of control the Court should not confuse control over the result or quality of the work with control over its performance by the worker responsible for doing it: Vulcain Alarme Inc. v. The Minister of National Revenue, A-376-98, May 11, 1999, paragraph 10, (F.C.A.); D & J Driveway Inc. v. The Minister of National Revenue…at paragraph 9. As our colleague Décary J.A. said in Charbonneau v. Canada (Minister of National Revenue - M.N.R.)…followed in Jaillet v. Canada (Minister of National Revenue - M.N.R.), 2002 FCA 394, "It is indeed rare for a person to give out work and not to ensure that the work is performed in accordance with his or her requirements and at the locations agreed upon. Monitoring the result must not be confused with controlling the worker".
+[16] A review using the test of ownership of tools leads to a result that is more or less null, since the Appellant and the Payor shared them.
+[17] As for integration, if it were true that the Appellant did not work for the Payor, the evidence would lead us to conclude that nothing would have prevented her from offering her services to other businesses. Moreover, we could conclude that the work she performed for the Payor could very well have been offered to a sub-contractor.
+[18] The Appellant had the burden of proof. She had to show that the Minister's presumptions were false, and she did not do this. Moreover, most of the Minister's presumptions were admitted.
+[19] In these circumstances, it must be noted that the Court can draw a negative inference from the Appellant's absence from the hearing. This Court, in Nicolas A. Enns and M.N.R. (App-1992(IT)), in similar circumstances, stated:
+In The Law of Evidence in Civil Cases, by Sopinka and Lederman, the authors comment on the effect of failure to call a witness and I quote:
+In Blatch v. Archer, (1774), 1 Cowp. 63, at p. 65, Lord Mansfield
+stated:
+'It is certainly a maxim that all evidence is to be weighed according to the proof which it was in the power of one side to have produced, and in the power of the other to have contradicted.'
+The application of this maxim has led to a well-recognized rule that the failure of a party or a witness to give evidence, which it was in the power of the party or witness to give and by which the facts might have been elucidated, justifies the court in drawing the inference that the evidence of the party or witness would have been unfavourable to the party to whom the failure was attributed.
+In the case of a plaintiff who has the evidentiary burden of establishing an issue, the effect of such an inference may be that the evidence led will be insufficient to discharge the burden. (Levesque et al. v. Comeau et al. [1970] S.C.R. 1010…
+[20] In this context, the following passage from the Appellant's statutory declaration (Exhibit I-1) warrants restating:
+I admit I gave erroneous information in my application for benefits, in regard to my type of work and my work schedule, as well as on my statutory declaration of May 29, 2002, because I was surprised at the reason I was called in…
+[21] This Court does not feel that the Appellant established the validity of its intervention. It must therefore support the Minister's decision and finds that he correctly concluded that the Appellant's appeal was unfounded in fact and in law. Therefore, the Appellant did not hold insurable employment during the period in question because she and the Payor were not linked by a contract for services within the meaning of paragraph 5(1)(a) of the Act.
+[22] As a result, the appeal is dismissed and the Minister's decision is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 20th day of May 2004.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 31st day of March 2009.
+Elizabeth Tan, Translator
+CITATION:
+2004TCC357
+COURT FILE NO.:
+2003-2015(EI)
+STYLE OF CAUSE:
+Nada Ouellet and M.N.R.
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+February 23, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable S.J. Savoie,
+Deputy Judge
+DATE OF JUDGMENT:
+May 20, 2004
+APPEARANCES:
+Agent for the Appellant:
+Pierre Garraud
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

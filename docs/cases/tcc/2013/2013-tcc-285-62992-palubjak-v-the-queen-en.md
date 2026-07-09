@@ -1,0 +1,180 @@
+---
+title: "Palubjak v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/62992/index.do"
+last_modified: "2013-09-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 285"
+citation2: ""
+neutral_citation: "2013 TCC 285"
+decision_date: "2013-09-13"
+language: "en"
+item_id: "62992"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6073
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:53:04.421000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cc2e77cdaed34a599983c64e3fe53d81ea18749f4aaa184f122b3750c88be8a7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Palubjak v. The Queen
+
+- Citation: 2013 TCC 285
+- Decision date: 2013-09-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6073, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Palubjak v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-09-13
+Neutral citation
+2013 TCC 285
+File numbers
+2013-931(IT)APP
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-931(IT)APP
+BETWEEN:
+MARTHA PALUBJAK,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on June 26 and July 15, 2013 at Toronto, Ontario
+By: The Honourable Justice Judith M. Woods
+Appearances:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Rita Araujo
+____________________________________________________________________
+ORDER
+The application for an order extending the time to file a notice of objection with respect to an assessment made under the Income Tax Act for the 2008 taxation year is dismissed. Each party shall bear their own costs.
+Signed at Ottawa, Ontario this 13th day of September 2013.
+“J. M. Woods”
+Woods J.
+Citation: 2013 TCC 285
+Date: 20130913
+Docket: 2013-931(IT)APP
+BETWEEN:
+MARTHA PALUBJAK,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] The applicant, Martha Palubjak, seeks an order to extend the time for serving a notice of objection. The Crown opposes the application on the ground that the applicant did not make a timely application to the Minister of National Revenue beforehand as required by paragraph 166.2(5)(a) of the Income Tax Act.
+[2] The objection is with respect to an assessment made under the Act for the 2008 taxation year. The issue in the objection is whether Ms. Palubjak made a valid charitable donation pursuant to a donation arrangement referred to as the “Global Learning Donation Program.”
+Applicable legislation
+[3] The requirements that must be satisfied for this Court to grant the application are set out in subsection 166.2 of the Act. By virtue of paragraph 166.2(5)(a), Ms. Palubjak must have applied for an extension of time to the Minister of National Revenue within one year from the expiry of the normal deadline for serving a notice of objection.
+[4] Subsections 166.1 and 166.2 are both relevant and they are reproduced in part below.
+166.1(1) Extension of time by Minister. Where no notice of objection to an assessment has been served under section 165, nor any request under subsection 245(6) made, within the time limited by those provisions for doing so, the taxpayer may apply to the Minister to extend the time for serving the notice of objection or making the request.
+(2) Contents of application. An application made under subsection (1) shall set out the reasons why the notice of objection or the request was not served or made, as the case may be, within the time otherwise limited by this Act for doing so.
+(3) How application made. An application under subsection (1) shall be made by being addressed to the Chief of Appeals in a District Office or a Taxation Centre of the Canada Revenue Agency and delivered or mailed to that Office or Centre, accompanied by a copy of the notice of objection or a copy of the request, as the case may be.
+[…]
+(7) When order to be made - No application shall be granted under this section unless
+(a) the application is made within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; and
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made as soon as circumstances permitted.
+[…]
+166.2(1) Extension of time by Tax Court. A taxpayer who has made an application under subsection 166.1 may apply to the Tax Court of Canada to have the application granted after either
+(a) the Minister has refused the application, or
+(b) 90 days have elapsed after service of the application under subsection 166.1(1) and the Minister has not notified the taxpayer of the Minister’s decision,
+but no application under this section may be made after the expiration of 90 days after the day on which notification of the decision was mailed to the taxpayer.
+(2) How application made. An application under subsection (1) shall be made by filing in the Registry of the Tax Court of Canada, in accordance with the provisions of the Tax Court of Canada Act, three copies of the documents referred to in subsection 166.1(3) and three copies of the notification, if any, referred to in subsection 166.1(5).
+[…]
+(5) When application to be granted. No application shall be granted under this section unless
+(a) the application was made under subsection 166.1(1) within one year after the expiration of the time otherwise limited by this Act for serving a notice of objection or making a request, as the case may be; […]
+(b) the taxpayer demonstrates that
+(i) within the time otherwise limited by this Act for serving such a notice or making such a request, as the case may be, the taxpayer
+(A) was unable to act or to instruct another to act in the taxpayer’s name, or
+(B) had a bona fide intention to object to the assessment or make the request,
+(ii) given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
+(iii) the application was made under subsection 166.1(1) as soon as circumstances permitted.
+[Emphasis added]
+Background facts
+[5] The assessment history relating to the 2008 taxation year is quite extensive. A chronology of these events as revealed by the evidence is set out below. Some of the dates are approximate.
+(a) March 26, 2009 – initial assessment issued
+(b) April 1, 2010 – reassessment issued
+(c) August 23, 2010 – further reassessment issued
+(d) October 6, 2010 – notice of objection filed
+(e) April 7, 2011 – further reassessment issued
+(f) April or May, 2012 – notice of objection filed
+(g) May 22, 2012 – The Canada Revenue Agency (CRA) acknowledges that a notice of objection for the 2008 taxation year was filed on April 21, 2012, and states that the objection is not accepted as it is out of time. The CRA further advises that an application could be made for an extension of time and that the deadline for the application is July 6, 2012.
+(h) November 30, 2012 – notice of objection filed
+(i) January 24, 2013 - The CRA informs Ms. Palubjak that the notice of objection is not accepted as it is out of time. The correspondence also informs Ms. Palubjak that she is out of time to apply for an extension.
+(j) March 14, 2013 – Ms. Palubjak applies to the Tax Court of Canada for an extension of time to file a notice of objection.
+Analysis
+[6] In order for this application to be granted, Ms. Palubjak must have made a similar application to the Minister of National Revenue no later than July 6, 2012 (s. 116.2(5)(a)). This deadline is one year after the time for filing a notice of objection to the reassessment which was made on April 7, 2011.
+[7] As I understand Ms. Palubjak’s submission, she argues that she did the best she could to comply with the law. She submits that she was dealing with objections for several taxation years and that the procedures were difficult. She testified that, when she received the third reassessment for the 2008 taxation year dated April 7, 2011, she was informed that further correspondence would be coming and that she filed a notice of objection in May, 2012 as soon as the correspondence was received.
+[8] I do agree with Ms. Palubjak that the circumstances surrounding her tax affairs were complicated. She was dealing with objections for several taxation years at the same time, and there were four assessments issued for the 2008 taxation year alone. Each assessment that was disputed had to be the subject of a separate notice of objection. Further, in addition to dealing with the appeals division, it appears that Ms. Palubjak was also dealing with the collections department.
+[9] Ms. Palubjak’s circumstances are by no means unique. Parliament has enacted a complex objection procedure which taxpayers and their advisers sometimes fail to navigate properly. The legislative requirements are strict and relief cannot be granted on the basis of fairness alone. However, the applicable legislative provisions should be interpreted in a manner which encourages the resolution of disputes on their merits.
+[10] In this case, I have concluded that Ms. Palubjak did not satisfy the requirement in s. 166.2(5)(a) that an application to extend time be made to the Minister within the time required.
+[11] The first correspondence that was received after the relevant reassessment was a notice of objection filed around April or May, 2012. The CRA informed Ms. Palubjak by letter dated May 22, 2012 that her objection dated April 21, 2012 was out of time and that an application to extend time was required. A portion of the CRA’s letter is reproduced below.
+You can apply for an extension of time to file your objection for 2008. To do so, please submit the following:
+- a letter addressed to the Chief of Appeals providing reasons why the notice of objection was not filed on time; and
+- a copy of the notice of objection, stating the facts and reasons for the objection.
+Your application must be made as soon as possible, but not later than July 6, 2012, which is one year after the date you had to file your objection.
+[12] This letter was a reasonable action for the CRA to take. In order for the Minister to grant an extension, the Minister must consider why the taxpayer did not file a notice of objection in time. The Minister invited Ms. Palubjak to provide this information before the deadline and she failed to do so.
+[13] Ms. Palubjak testified that she found the letter of May 22, 2012 confusing, especially since it referred to the date of her notice of objection being April 21, 2012. She submits that the objection was filed on May 9, 2012.
+[14] I do not find this explanation to be satisfactory. It is clear from the CRA letter that an application to extend time was required which gave reasons for not filing the objection on time. Even if Ms. Palubjak filed the notice of objection on May 9, 2012, as she submits, the CRA letter of May 22, 2012 put her on notice that this objection likely was not adequate.
+[15] Although I have some sympathy for Ms. Palubjak having difficulty navigating the objection requirements, the evidence does not persuade me that she has satisfied the requirement in s. 166.2(5)(a).
+[16] The application will be dismissed.
+[17] Finally, I would comment that at the hearing I asked the parties to address whether the notice of objection should be considered as an application to extend time.
+[18] Shortly after the hearing, counsel for the Crown brought to my attention a decision of the Federal Court of Appeal which had a bearing on this issue: Pereira v The Queen, 2008 FCA 264. The appeal was reopened to hear submissions regarding this decision.
+[19] In light of the conclusion that I have reached, it is not necessary that I consider the possible application of the Pereira decision, which involves facts that are quite different from this case. That consideration is best left for another day, but I would take the opportunity to thank counsel for the Crown for bringing this decision to my attention.
+Signed at Ottawa, Ontario this 13th day of September 2013.
+“J. M. Woods”
+Woods J.
+CITATION: 2013 TCC 285
+COURT FILE NO.: 2013-931(IT)APP
+STYLE OF CAUSE: MARTHA PALUBJAK and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 26 and July 15, 2013
+REASONS FOR ORDER BY: The Honourable Justice J.M. Woods
+DATE OF ORDER: September 13, 2013
+APPEARANCES:
+For the Applicant:
+The Applicant herself
+Counsel for the Respondent:
+Rita Araujo
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

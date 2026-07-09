@@ -1,0 +1,122 @@
+---
+title: "King v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28653/index.do"
+last_modified: "2008-02-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 79"
+citation2: ""
+neutral_citation: "2008 TCC 79"
+decision_date: "2008-02-08"
+language: "en"
+item_id: "28653"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1117
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:33:08.586000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "33cbcf681f27d993c9733b7f42f8834b7ccaa90d9d970147596e5ef893e0b812"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# King v. The Queen
+
+- Citation: 2008 TCC 79
+- Decision date: 2008-02-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1117, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+King v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-02-08
+Neutral citation
+2008 TCC 79
+File numbers
+2007-2602(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2008TCC79
+Date: 20080208
+Docket: 2007-2602(IT)I
+BETWEEN:
+BOB KING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on January 17, 2008,
+in Moncton, New Brunswick.)
+Angers J.
+[1] This is an appeal of the appellant's 2005 taxation year assessment which was confirmed on March 14, 2007. The appellant was initially assessed on October 23, 2006.
+[2] In calculating his income tax liability for the 2005 taxation year, the appellant claimed meals and other employment expenses in the amount of $14,490.
+[3] The Minister has in fact reviewed the appellant's claim for meals as described above and has reassessed the appellant based on a $45 per day expense, obviously reduced by the 50% provision provided for in the Income Tax Act (the "Act").
+[4] The facts are summarized as follows:
+- The appellant was at all material times, i.e. during the year 2005, a transport employee.
+- In claiming his meal expenses, the appellant had the option of using the simplified method or keeping a detailed record of his actual meal expenses. For taxation year 2005, the appellant has chosen the simplified method.
+- The appellant, during the year 2005, took 207 trips and as such, has consumed 621 meals during the trips in that taxation year.
+- In his tax return for 2005, the appellant claimed a deduction of $70 per day for the 207 days for a total of $14,490 and the appellant did not reduce his meal claim in his tax return by the 50% provided for in section 67.1 of the Act.
+[5] The relevant sections of the Act are paragraphs 8.1(g) and section 67.1.
+[6] A simple analysis of the 50% reduction in this fact situation is that, as I have mentioned during the trial, there is nothing that I can do concerning the 50% reduction. It is provided for in section 67.1 of the Act.
+[7] As for the method of calculating the meal expenses, it is well explained in a decision rendered by Mr. Justice Bowie of this Court in the Kasaboski v. R., which is found at 2005 D.T.C., page 846.
+[8] Justice Bowie has explained it by saying that:
+While it has no legal foundation, the Minister's willingness to accept meal claims by transport employees on the so-called simplified basis is a recognition of the injustice that would result if claims were to be totally denied if the taxpayer could not produce a corroborating log. The $33 per day that he allows is a recognition of what I consider to be a truism - a taxpayer should never benefit from a failure to keep proper records.
+[9] Obviously, the truth of the matter is that even though no records are being kept, an amount is still allowed, to permit as in the present case, a deduction for meal expenses.
+[10] In this instance, it is clear that the appellant has not kept any records or any receipts for his meals and has therefore chosen the simplified method.
+[11] Obviously, if one wants to be reimbursed for the entire amounts of money spent on meals, the solution is to keep the receipts and claim the exact amounts as deductions, but this is not the case here.
+[12] What the appellant has done in this case is, claimed his meal expenses based on $70 a day. Now the answer that I have heard on a question that was asked to the appellant regarding the amount of money that he actually spent on meals out of the $14,490 that was claimed, was actually half of that amount.
+[13] If I make a quick calculation, what was originally claimed was 207 days at $70 a day for a total of $14,490. If I go with the evidence, the actual expense would have been half of that amount, so the actual amount, had receipts been kept by the appellant, would be $7,245.
+[15] Given the fact that the Act provides for a 50% deduction, the appellant, had he kept his actual receipts, from the evidence and from his own admissions that only half of that went to meals, means that the claim would have been half of $7,245.
+[16] The reason I am going through this is because if I take the numbers that the Canada Revenue Agency (CRA) used in this instance; they have allowed $45 a day, so 207 days at $45 equals a total of $9,315. Therefore, the amount that CRA has allowed the appellant is actually almost $2,000 more than the actual expense the appellant would have spent on meals.
+[17] The evidence does not disclose if other expenses were made on things other than meals, because the tax returns for 2005 clearly indicate that the $70 a day claim was specifically for meals.
+[18] In my opinion, the $45 a day in this particular instance has to be reasonable in the circumstances, and to my knowledge, it does satisfy the test established by this Court in the Kasaboski decision rendered by Mr. Justice Bowie; that test being what would a reasonable trucker have spent in these circumstances based on the Gabco Ltd. v. Canada, 68 DTC 5210, decision.
+[19] As I have mentioned, by his own admission, if half of that $14,490 was his actual expense, it means that he would have been able to claim less than what CRA is actually allowing him in their assessment.
+[20] As for the argument raised by the appellant concerning the civil servants, I can only refer back to the quote by Mr. Justice Bowie that allowances paid to public servants are established as a term of their employment and as such, they are not relevant in determining this matter unless it would be a possible test of reasonableness for the purpose of section 67.1.
+[21] Since I have come to the conclusion that the amount allowed by CRA far exceeds what the appellant himself says was his actual expense, I cannot come to another conclusion than to say that the amount allowed by CRA is reasonable in the circumstances.
+[22] On the basis of this conclusion, I have no other choice but to dismiss the appeal.
+Signed at Edmundston, New Brunswick, this 8th day of February 2008.
+"François Angers"
+Angers J.
+CITATION: 2008TCC79
+COURT FILE NO.: 2007-2602)IT)I
+STYLE OF CAUSE: Bob King and The Queen
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: January 17, 2008
+REASONS FOR JUDGEMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: February 8, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Andrew Miller
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

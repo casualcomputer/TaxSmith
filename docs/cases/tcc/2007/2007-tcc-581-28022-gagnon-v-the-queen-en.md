@@ -1,0 +1,180 @@
+---
+title: "Gagnon v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28022/index.do"
+last_modified: "2007-10-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 581"
+citation2: ""
+neutral_citation: "2007 TCC 581"
+decision_date: "2007-10-01"
+language: "en"
+item_id: "28022"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1608
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:40:12.474000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "02d27ac117946709d03e6c356c8a274a4d84e059c0a0815d626fbb935661e781"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gagnon v. The Queen
+
+- Citation: 2007 TCC 581
+- Decision date: 2007-10-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1608, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagnon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-01
+Neutral citation
+2007 TCC 581
+File numbers
+2007-1805(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1805(IT)I
+BETWEEN:
+CAROLE GAGNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+LIBORIO MORMINA,
+Added party.
+[official english translation]
+____________________________________________________________________
+Appeals heard on September 17, 2007, at Montréal, Quebec.
+Before : The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Annick Provencher
+For the Added party:
+Liborio Mormina
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments under the Income Tax Act for the 2002, 2003 and 2004 are granted and the assessments are referred back to the Minister of National Revenue for reconsideration, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 1st day of October 2007.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 13th day of November, 2007
+Gibson Boyd, Translator
+Citation: 2007TCC581
+Date: 20071001
+Docket: 2007-1805(IT)I
+BETWEEN:
+CAROLE GAGNON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+LIBORIO MORMINA,
+Added party.
+[official english translation]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] Ms. Gagnon appealed the reassessments for 2002 to 2004. Mr. Mormina was bound to these assessments under section 174 of the Income Tax Act (the “Act”). The issue is whether the amounts paid to the Appellant by Mr. Mormina, as support for the children, are deductible by him in the computation of his income under subsection 60(b) of the Act and must be included by the Appellant in the computation of her revenue under paragraph 56(1)(b) of the Act.
+[2] The Minister of National Revenue (the “Minister”) added to the Appellant’s income for 2002, 2003 and 2004 the respective amounts of $7,750, $5,613 and $3,812 in support.
+[3] To determine the reassessments, the Minister relied on the facts described in paragraph 6 of the Reply to Notice of Appeal as follows:
+[TRANSLATION]
+(a) The Appellant and Liborio Mormina were married on November 6, 1982;
+(b) Two children were born of their union, François Mormina, born July 11, 1986, and Marie‑Lise Mormina, born January 23, 1991;
+(c) The Appellant and Liborio Mormina were separated on December 27, 1991;
+(d) Paragraph 5 of the agreement signed in 1992 between the Appellant and her ex-husband set the support payments to be made to the Appellant at $250 every two weeks;
+(e) Paragraph 6 of this agreement provided that this support be indexed each year;
+(f) The divorce judgment of January 13, 2000, confirmed a new agreement on corollary relief, of which paragraph 5 sets the support at $125 per week.
+(g) Paragraph 7 of this agreement indicates that the support is to be indexed each year;
+(h) Mr. Mormina paid support to the Appellant in the amounts of $7,750 for the 2002 taxation year, $5,613 for the 2003 taxation year and $3,812 for the 2004 taxation year.
+[4] In her testimony, the Appellant admitted all of these facts. She submitted however that the payments were made and received as a result of the divorce judgment, dated January 13, 2000, which confirmed a consent signed by the parties in 1999, and as a result of the Memorandum of understanding signed by the couple in 1992.
+[5] Ms. Gagnon said in her testimony that her ex-husband hardly ever paid anything under the agreement of 1992. At the time of the divorce, she wanted to make sure she came under the Quebec law: an Act to facilitate the Payment of Support.
+[6] Paragraphs 5 and 6 of the Memorandum of understanding of 1992 read as follows:
+[TRANSLATION]
+5. Liborio Mormina will pay Carole Gagnon child support in the amount of two hundred and fifty dollars ($250.00) every two weeks, on every second Monday, starting on April 13, 1992. In addition, he will contribute, based on his ability, to covering the costs of clothing for the children as well as the costs of their sports and cultural activities.
+6. The support will be indexed each year on January 1st, at the rate determined by the Régie des Rentes du Québec.
+[7] The divorce judgment of January 13, 2000, confirmed the Agreement on corollary relief signed in July 1999. Paragraphs 5 to 7 of this agreement read as follows:
+[TRANSLATION]
+SUPPORT OBLIGATIONS TOWARDS MINOR CHILDREN:
+5. The defendant, Liborio Mormina, shall pay, for the benefit of the minor children, $125.00 per week in support as established in the Child Support Determination Form attached hereto;
+6. Said support shall be payable by the defendant in accordance with the provisions of the Act to facilitate the Payment of Support;
+7. Said support shall be indexed on January 1st of each year, in accordance with article 590 C.C.Q.;
+[8] Paragraphs 22 and 25 of this agreement should also be quoted:
+ACQUITTANCE AND RELEASES:
+22. The parties fully and reciprocally release each other from any claim that either one may have against the other for advances, contributions, loans, lump sums, compensatory allowances, gross sums, or any rights that may be conferred on him or her or resulting from the marriage and its break-up, from conjugal life, the family patrimony, the matrimonial regime, the marriage contract or any other contract agreed to between them;
+25. This agreement shall come into force when all parties have signed it and shall become the sole valid agreement between the parties;
+[9] On May 27, 2005, a consent to judgment was agreed to between the ex-spouses and the Ministère du revenu du Québec, third party. This was a joint application to amend the corrolary relief and to determine the support. It should be noted that the payments are only calculated from January 13, 2000, date of the divorce judgment.
+[10] Mr. Mormina, submitted in his testimony that the divorce judgment replicated the support provision from the agreement signed in 1992. According to him, it was an exact copy.
+[11] Counsel for the Respondent refers to paragraphs 12, 13 and 15 of the Federal Court of Appeal decision Kennedy v. Canada, [2004] F.C.J. No. 2122 (QL):
+12 I cannot accept this interpretation of the legislation. The obligation to pay the support payments was created by the Order of the Court in 1991. The obligation to pay the cost of living increases was created by the Minutes of Settlement which were signed in 1991. The 1997 Judgment did not alter either of those obligations. It may have made collection procedures simpler for Ms. Kennedy but the obligations themselves existed well prior to April 1997. Ms. Kennedy did not need to obtain the 1997 Judgment to enforce payment. She could have obtained relief in the Ontario Court by bringing an action to enforce the terms of the Minutes of Settlement.
+13 It seems to me that, although the statutory definition of "commencement day" in subsection 56.1(4) might be more clearly drafted, the intention of the legislation is that orders or agreements made after April 1997 which actually create new obligations will be subject to the new regime. Obligations created under the old regime will remain subject to the old provisions. This intention is borne out by subparagraph (b)(ii) which specifies that agreements or orders which are varied after April 1997 so as to change child support amounts payable, will qualify as creating a commencement day. In such a case, a new obligation will have been created by the variance after April 1997. The same can be said of subparagraph (b)(iii) which provides that a subsequent agreement or order made after April 1997 which changes the total amount of child support payments creates a commencement day.
+. . .
+15 I conclude then that the 1997 Order does not create a commencement day so as to free Ms. Kennedy from being taxed on the payments received from her husband in 1997 and 1998.
+[12] She relies on this decision to argue that the child support amounts being the same in the two agreements between the spouses, that of 1992 and that of 1999, the date of the agreement of 1992 is the commencement day within the meaning of the definition of this expression in subsection 56.1(4) of the Act.
+Analysis and conclusion
+[13] Immediately, it can be questioned whether the two agreements are identical. Indeed, the second agreement did not begin with an amount including the indexation provided for in the agreement of 1992. It simply kept the same original amount. This has a certain importance, but is not what I shall base my decision on.
+[14] The Kennedy v. Canada decision, above, has been explained and put in its true legal perspective by Sharlow J. in Holbrook v. Canada, [2007] F.C.J. No. 508 (QL), at paragraphs 16 to 18:
+16 The Judge determined that all child support amounts payable to Ms. Holbrook were subject to the old regime. He reached that conclusion because he considered himself bound to follow the decision of this Court in Kennedy v. Canada, 2004 FCA 437. He interpreted that case as establishing a principle to the effect that where the amount of a child support obligation is established in a pre-May 1997 agreement or order, the new regime can never apply unless there is an agreement or order that changes the total child support amounts payable.
+17 In my view, Kennedy establishes no such principle. The existence of that supposed principle is based on subparagraph (iii) of the definition of “commencement day’ in subsection 56.1(4) (quoted above), which establishes a commencement day for a “subsequent agreement or order” made after April 1997 that changes total child support amounts payable. In Kennedy, there was an interim order for child support in 1991, followed by minutes of settlement entered into in 1991 stipulating the same payments plus a cost of living adjustment. In September of 1997, a final order was made incorporating the terms set out in the minutes of settlement. Not only were the amounts unchanged, the obligation itself continued to be grounded in the 1991 minutes of settlement. That obligation was confirmed by the court order, not replaced.
+18 Kennedy did not consider the situation where a post-April 1997 agreement or order terminates the child support obligation in a pre-May 1997 agreement or order, and replaces it with a new child support obligation. In that situation, it is not relevant to ask whether there has been a change to the child support amount payable because the pre-May 1997 agreement or order has ceased to have effect.
+[15] The issue is to determine which agreement is enforceable or, in other words, under which agreement the child support payments can be claimed. It is the date of this enforceable agreement that determines the commencement day within the meaning of the term in the Act.
+[16] There is no doubt here that the agreement of 1992 became null and void, or ceased to have effect, at the signing of the agreement of 1999. This agreement in no way renewed the support obligation of the agreement of 1992. On the contrary, it clearly specified that the parties gave each other acquittance for any claim that either one of them may have against the other for any right resulting from a past contract between them. The agreement of 1999 also clearly specified that this agreement would be the only valid agreement between the parties.
+[17] The legal circumstances of this matter are therefore completely different from those of Kennedy, in which the support obligation had been created by the original and the subsequent judgment relative to the mode of collection had not modified the enforceability of the first agreement with regard to the support payments.
+[18] In this case – and I am repeating myself – the agreement on corollary relief of July 1999, confirmed by the divorce judgment of 1992, is a new agreement. It is this agreement that is enforceable. It completely superseded the Memorandum of understanding of 1992. The agreement on corollary relief signed in July 1999 became the sole agreement between the parties. This means that there are no more rights arising from the agreement of 1992.
+[19] This new agreement, dated July 1999, was established after April 1997. Accordingly, the Appellant need not include in the computation of her revenue the amounts paid to her by Mr. Mormina in child support. He cannot deduct them in the computation of his income.
+Signed at Ottawa, Canada, this 1st day of October 2007.
+“Louise Lamarre Proulx”
+Lamarre Proulx J.
+Translation certified true
+on this 13th day of November, 2007
+Gibson Boyd, Translator
+CITATION: 2007TCC581
+COURT FILE NUMBER: 2007-1805(IT)I
+STYLE OF CAUSE: CAROLE GAGNON v. HER MAJESTY THE QUEEN and LIBORIO MORMINA
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: September 17, 2007
+REASONS FOR JUDGMENT BY: The Honourable Louise Lamarre Proulx J.
+DATE OF JUDGMENT: October 1, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Annick Provencher
+For the added party:
+Liborio Mormina
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

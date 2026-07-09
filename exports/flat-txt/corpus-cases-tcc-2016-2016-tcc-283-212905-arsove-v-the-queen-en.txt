@@ -1,0 +1,177 @@
+Title: Arsove v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/212905/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-283-212905-arsove-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-12-06
+
+# Arsove v. The Queen
+
+- Citation: 2016 TCC 283
+- Decision date: 2016-12-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2947, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arsove v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-12-06
+Neutral citation
+2016 TCC 283
+File numbers
+2016-1418(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-1418(IT)I
+BETWEEN:
+SALLY T. ARSOVE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November 14, 2016, at Ottawa, Ontario.
+Before: The Honourable Lucie Lamarre, Associate Chief Justice
+Appearances:
+Agent for the Appellant:
+Jack R. Bowerman
+Counsel for the Respondent:
+Kiel Walker
+Shubir (Shane) Aikat
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2013 taxation year is dismissed.
+Signed at Ottawa, Canada, this 6th day of December 2016.
+“Lucie Lamarre”
+Lamarre A.C.J.
+Citation: 2016 TCC 283
+Date: 20161206
+Docket: 2016-1418(IT)I
+BETWEEN:
+SALLY T. ARSOVE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent
+REASONS FOR JUDGMENT
+Lamarre A.C.J.
+[1] This is an appeal from a reassessment made by the Minister of National Revenue (Minister) on February 20, 2015, whereby the foreign tax credit of CAN$867.67 the appellant had claimed in the computation of her tax payable for the 2013 taxation year was disallowed. In so reassessing, the Minister made the following assumptions of fact:
+a) in 2013, the Appellant was a resident of Canada; (admitted)
+b) in 2013, the Appellant was a citizen of the United States of America (“US”); (admitted)
+2013 US Tax Return
+c) the Appellant received an IRA distribution in the amount of $5,617.78 (USD) less taxes withheld of $561.78 (USD) from The Village Bank in respect of the 2013 taxation year; (admitted)
+d) the Appellant filed the 2013 US Tax Return; (admitted)
+e) in filing the 2013 US Tax Return, in addition to other amounts, the Appellant:
+i) reported the IRA distribution in the amount of $5,617.78 (USD); (admitted)
+ii) reported taxable income of $69,487.00 (USD); (admitted)
+iii) reported $561.78 (USD) in respect of taxes withheld on the IRA distribution; (admitted)
+iv) claimed a foreign tax credit of $13,298.00 (USD) in respect of her Canadian sourced income;
+v) reported nil tax payable; and
+vi) claimed a refund of $561.78 (USD) for tax overpaid;
+f) the Appellant received a refund of the $561.78 (USD) of tax withheld in respect of the IRA distribution; (admitted)
+g) the Appellant did not pay any non-business‑income tax to the IRS; and
+Canadian Income Tax and Benefit Return
+h) in filing the 2013 income tax return, in addition to other amounts, the Appellant:
+i) reported $5,785.00 of foreign non‑business‑income in respect of the IRA distribution; and (admitted)
+ii) claimed a foreign tax credit in the amount of $867.67 in respect of the IRA distribution. (admitted)
+[2] Mr. Jack R. Bowerman, CPA, who prepared the Canadian and American 2013 tax returns for the appellant, also acted as her agent at the hearing before the Court.
+[3] The issue is whether the appellant is entitled to claim a foreign tax credit in the computation of her Canadian tax for the 2013 taxation year.
+[4] The Minister submits that the appellant did not pay any non‑business‑income tax to the Internal Revenue Service (IRS) in 2013 (which is denied by the appellant), and so she is not entitled to a foreign tax credit pursuant to subsections 126(1) and 126(7) of the Income Tax Act (ITA). The relevant portions of those provisions read as follows:
+Foreign tax deduction
+126 (1) A taxpayer who was resident in Canada at any time in a taxation year may deduct from the tax for the year otherwise payable under this Part by the taxpayer an amount equal to
+(a) such part of any non-business-income tax paid by the taxpayer for the year to the government of a country other than Canada (except, where the taxpayer is a corporation, any such tax or part thereof that may reasonably be regarded as having been paid by the taxpayer in respect of income from a share of the capital stock of a foreign affiliate of the taxpayer) as the taxpayer may claim,
+not exceeding, however . . .
+Definitions
+(7) In this section,
+. . .
+non-business-income tax paid by a taxpayer for a taxation year to the government of a country other than Canada means, subject to subsections (4.1) to (4.2), the portion of any income or profits tax paid by the taxpayer for the year to the government of that country that
+(a) was not included in computing the taxpayer’s business-income tax for the year in respect of any business carried on by the taxpayer in any country other than Canada,
+(b) was not deductible by virtue of subsection 20(11) in computing the taxpayer’s income for the year, and
+(c) was not deducted by virtue of subsection 20(12) in computing the taxpayer’s income for the year,
+but does not include a tax, or the portion of a tax,
+(c.1) that is in respect of an amount deducted because of subsection 104(22.3) in computing the taxpayer’s business-income tax,
+(d) that would not have been payable had the taxpayer not been a citizen of that country and that cannot reasonably be regarded as attributable to income from a source outside Canada,
+(e) that may reasonably be regarded as relating to an amount that any other person or partnership has received or is entitled to receive from that government,
+(f) that, where the taxpayer deducted an amount under subsection 122.3(1) from the taxpayer’s tax otherwise payable under this Part for the year, may reasonably be regarded as attributable to the taxpayer’s income from employment to the extent of the lesser of the amounts determined in respect thereof under paragraphs 122.3(1)(c) and 122.3(1)(d) for the year,
+(g) that can reasonably be attributed to a taxable capital gain or a portion thereof in respect of which the taxpayer or a spouse or common-law partner of the taxpayer has claimed a deduction under section 110.6, or
+(h) [Repealed, 2013, c. 33, s. 13]
+(i) that can reasonably be regarded as relating to an amount that was deductible under subparagraph 110(1)(f)(i) in computing the taxpayer’s taxable income for the year; (impôt sur le revenu ne provenant pas d’une entreprise)
+[Emphasis added.]
+[5] The appellant argues that she was entitled to claim against her Canadian tax payable for 2013 a foreign tax credit of CAN$867.67, which is equivalent to 15% of her U.S.‑sourced income (a periodic pension payment received from an individual retirement account (IRA) distribution in the amount of US$5,617.78), in accordance with Article XVIII (paragraphs 1 and 2(a)) and Article XXIV (paragraphs 2(a), 4 and 6) of the 1984 Convention Between Canada and the United States of America With Respect to Taxes on Income and on Capital (treaty), S.C. 1984, c. 20. Those provisions read as follows:
+ARTICLE XVIII
+Pensions and Annuities
+1 Pensions and annuities arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State, but the amount of any pension included in income for the purposes of taxation in that other State shall not exceed the amount that would be included in the first-mentioned State if the recipient were a resident thereof.
+2 However:
+(a) Pensions may also be taxed in the Contracting State in which they arise and according to the laws of that State; but if a resident of the other Contracting State is the beneficial owner of a periodic pension payment, the tax so charged shall not exceed 15 per cent of the gross amount of such payment; and
+. . .
+ARTICLE XXIV
+Elimination of Double Taxation
+. . .
+2. In the case of Canada, subject to the provisions of paragraphs 4, 5 and 6, double taxation shall be avoided as follows:
+(a) Subject to the provisions of the law of Canada regarding the deduction from tax payable in Canada of tax paid in a territory outside Canada and to any subsequent modification of those provisions (which shall not affect the general principle hereof),
+(i) income tax paid or accrued to the United States on profits, income or gains arising in the United States, and
+(ii) in the case of an individual, any social security taxes paid to the United States (other than taxes relating to unemployment insurance benefits) by the individual on such profits, income or gains
+shall be deducted from any Canadian tax payable in respect of such profits, income or gains;
+. . .
+4. Where a United States citizen is a resident of Canada, the following rules shall apply:
+(a) Canada shall allow a deduction from the Canadian tax in respect of income tax paid or accrued to the United States in respect of profits, income or gains which arise (within the meaning of paragraph 3) in the United States, except that such deduction need not exceed the amount of the tax that would be paid to the United States if the resident were not a United States citizen; and
+(b) For the purposes of computing the United States tax, the United States shall allow as a credit against United States tax the income tax paid or accrued to Canada after the deduction referred to in subparagraph (a). The credit so allowed shall not reduce that portion of the United States tax that is deductible from Canadian tax in accordance with subparagraph (a).
+. . .
+6. Where a United States citizen is a resident of Canada, items of income referred to in paragraph 4 or 5 shall, notwithstanding the provisions of paragraph 3, be deemed to arise in Canada to the extent necessary to avoid the double taxation of such income under paragraph 4(b) or paragraph 5(c).
+[Emphasis added.]
+[6] The appellant declared in her 1040 U.S. Individual Income Tax Return for 2013 adjusted gross income of US$79,487, which included the total IRA distribution amount of US$5,618, which arose in the United States, received by her in that year. When she withdrew that amount, U.S. federal income tax of US$562 was withheld. The balance of the income declared by the appellant arose in Canada.
+[7] In her U.S. tax return, tax of US$13,298 was calculated, but the total tax payable was nil after deduction of a foreign tax credit of the same amount. The federal tax withheld on the IRA distribution was refunded to the appellant. (IRS Tax Return Transcript for the 2013 tax period, Exhibit A‑1, Tab 3, document #1.)
+[8] According to the IRS Account Transcript for the 2013 tax period, issued on August 6, 2013 (Exhibit A‑1, Tab 3, document #2), which provides a summary of the appellant’s tax return and of subsequent actions taken (including corrections made by the IRS to the original return), the account balance plus accruals of tax after the closure of the examination of the tax return was nil.
+[9] In filing her Canadian tax return, the appellant claimed a foreign tax credit in the amount of $867.87 against her Canadian tax as if the United States had collected the 15% tax that it was entitled to levy pursuant to Article XVIII of the treaty.
+[10] However, it appears that, in filing her tax return in the United States, the appellant treated the total amount of the U.S.‑sourced IRA distribution as being deemed to be sourced in Canada pursuant to paragraph 6 of Article XXIV of the treaty. As a result, she claimed a foreign tax credit in the United States as though she had paid Canadian tax on the full amount (US$5,617.78) of the IRA distribution. Thus she did not pay any U.S. tax on that amount, and the IRS, for some reason, did not make any corrections in this regard and therefore accepted the return as filed. In the end, no U.S. tax was paid on that pension income.
+[11] It is my understanding that, had the appellant properly interpreted paragraph 6 of Article XXIV of the treaty, the portion of the IRA distribution income that should have been deemed to be sourced in Canada would only have been that portion on which U.S. tax exceeding 15% would have been levied.
+[12] Thus, the appellant would normally have paid to the U.S. government 15% of the amount received from the IRA distribution (15% X US$5,617.78), as provided in Article XVIII of the treaty, for which she would have been entitled to a foreign tax credit in the computation of her tax in Canada.
+[13] If the U.S. tax levied had exceeded 15%, the appellant would have had the right to claim in the computation of her U.S. tax a foreign tax credit for the tax paid in Canada in excess of 15% on the basis that the excess tax was levied on income deemed to be sourced in Canada by the application of paragraph 6 of Article XXIV of the treaty.
+[14] In simpler terms, when a U.S. citizen who is also resident in Canada earns pension income the source of which is in the United States, under the treaty the United States is allowed to tax the first 15% of that income, and the excess is taxable in Canada. This is why, to avoid double taxation, a taxpayer is allowed, in computing the Canadian tax, to claim a foreign tax credit for the 15% tax paid in the United States, and that taxpayer is entitled to a foreign tax credit against his U.S. tax for the tax paid in Canada over and above 15%.
+[15] Now, as mentioned previously, in filing her U.S. tax return for the year 2013, the appellant treated the total amount received from the IRA distribution as being sourced and taxable in Canada and she accordingly claimed a foreign tax credit against her U.S. tax payable as though she had paid tax in Canada on the total amount and not just on the portion on which tax over 15% was levied. As a consequence, she did not pay any tax in the United States, and the IRS accepted the return as filed and did not make any corrections after having reviewed it (Exhibit A‑1, Tab 3, document #2).
+[16] Paragraph 126(1)(a) of the ITA provides that a Canadian resident may deduct from the tax for the year otherwise payable an amount equal to the non‑business‑income tax paid by the taxpayer to the government of another country.
+[17] The appellant argued that the amount of tax paid is the amount of tax that is calculated prior to the deduction of the foreign tax credit (in the present case, the U.S. tax before the deduction of the foreign tax credit was US$13,298).
+[18] In Zhang v. The Q ueen, 2007 TCC 634, 2007 DTC 1744, aff’d. by 2008 FCA 198, 2008 DTC 6458, the non‑business‑income tax paid within the meaning of paragraph 126(1)(a) of the ITA was determined to be the amount of the levy ultimately imposed upon the appellant by the authority of the United States government by the operation of its tax legislation, which, in that particular case, was the total tax payable after deduction of the child tax credit.
+[19] In the present case, there was no tax or levy ultimately imposed upon the appellant by the U.S. government after the deduction of the foreign tax credit.
+[20] As stated in Zhang (TCC), supra, at paragraph 10, the purpose of the foreign tax credit is to prevent double taxation.
+[21] Here, since no taxes were paid, nor did any accrue, according to the IRS Account Transcript for the year 2013, the treaty does not come into play as no double taxation has occurred.
+[22] It follows that no amount was deductible under the provisions of paragraph 126(1)(a) of the ITA.
+[23] The appeal is dismissed.
+Signed at Ottawa, Canada, this 6th day of December 2016.
+“Lucie Lamarre”
+Lamarre A.C.J.
+CITATION:
+2016 TCC 283
+COURT FILE NO.:
+2016-1418(IT)I
+STYLE OF CAUSE:
+SALLY T. ARSOVE v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+November 14, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Lucie Lamarre, Associate Chief Justice
+DATE OF JUDGMENT:
+December 6, 2016
+APPEARANCES:
+Agent for the Appellant:
+Jack R. Bowerman
+Counsel for the Respondent:
+Kiel Walker
+Shubir (Shane) Aikat
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

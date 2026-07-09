@@ -1,0 +1,217 @@
+---
+title: "Lawrence v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29999/index.do"
+last_modified: "2010-09-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 480"
+citation2: ""
+neutral_citation: "2010 CCI 480"
+decision_date: "2010-09-23"
+language: "fr"
+item_id: "29999"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7839
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:34:48.743000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "60c710482f57e9b83b38ce60bc5c4685ced48fe8b3c79107042566bcb5120af5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lawrence v. The Queen
+
+- Citation: 2010 CCI 480
+- Decision date: 2010-09-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7839, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lawrence v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-09-23
+Référence neutre
+2010 CCI 480
+Numéro de dossier
+2007-3710(IT)G
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3710(IT)G
+ENTRE :
+MARTHA LAWRENCE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 8 février 2010, à Winnipeg (Manitoba).
+Devant : L’honorable juge C. H. McArthur.
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Melissa Danish
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2000, 2001, 2002 et 2003 sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 23e jour de septembre 2010.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 12e jour de janvier 2011.
+Mario Lagacé, jurilinguiste
+Référence : 2010 CCI 480
+Date : 20100923
+Dossier : 2007-3710(IT)G
+ENTRE :
+MARTHA LAWRENCE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge McArthur
+[1] Il s’agit d’appels de nouvelles cotisations par lesquelles le ministre du Revenu national (le « ministre »), en utilisant la méthode de la valeur nette, a ajouté au revenu de l’appelante un montant de 11 663,50 $, de 10 969,19 $, de 190 997,63 $ et de 70 211,04 $ pour les années d’imposition 2000, 2001, 2002 et 2003 respectivement. Le ministre a ajouté à ces montants des intérêts et des pénalités conformément au paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »).
+[2] Les faits inhabituels, tels qu’ils ont été présentés par l’appelante et par son époux ainsi que par le vérificateur du ministre, sont difficiles à démêler et à accepter. La mémoire des témoins était sans aucun doute sélective. Il me reste à découvrir ce qui s’est réellement passé. Les appels sont centrés sur les faits y afférents.
+Les faits en bref
+[3] L’appelante faisait des affaires avec une certaine Ann Didur (« Mme Didur »), qui semble s’être livrée à une escroquerie ou avoir ourdi une combine à la Ponzie modifiée. Mme Didur recueillait de l’argent de diverses personnes, censément en vue de le placer dans des actions cotées en cents par l’entremise d’un avocat, à Las Vegas (Nevada). Pour des raisons inconnues, Mme Didur ne pouvait pas avoir son propre compte de banque et elle a réussi à convaincre l’appelante à l’autoriser à utiliser son compte de banque ou elle a enjôlé l’appelante à le faire. L’appelante et son époux ont rencontré, avec Mme Didur, l’avocat en cause à Las Vegas, Me Drange, qui a apparemment réussi à convaincre l’appelante du moins de la légitimité de l’entreprise. Au départ, certains bénéfices apparents ont été remis aux investisseurs trompés, mais par la suite, ceux-ci n’ont obtenu aucun rendement. Les autorités policières canadiennes ont entamé une enquête. Au cours de cette période, Mme Didur s’est suicidée et on n’a plus entendu parler de l’avocat, à Las Vegas.
+[4] Voici une version révisée des hypothèses de fait émises par le ministre. Pendant toute la période pertinente, l’appelante était mariée à Virden Lawrence; les époux détenaient des lignes de crédit et des comptes bancaires conjoints avec leur fils. Au cours de la période en question, l’appelante a conclu des opérations financières avec Mme Didur, et de nombreux dépôts ont notamment été effectués dans les comptes bancaires de l’appelante. Mme Didur, en fait, concluait la plupart de ses opérations bancaires par l’entremise de la banque de l’appelante. Pour des raisons inexplicables, Mme Didur ne pouvait pas avoir ses propres facilités bancaires. Ce fait à lui seul aurait dû mettre la puce à l’oreille de l’appelante.
+[5] L’appelante a effectué un grand nombre de dépôts bancaires, la plupart des paiements provenant de ses comptes, apparemment pour Mme Didur. L’appelante n’a pas inclus ces dépôts dans ses déclarations de revenus. Je ne puis comprendre qu’il n’existait aucune trace écrite quelle qu’elle soit documentant les opérations de plus de 200 000 $ se rapportant au compte bancaire de l’appelante, sauf pour les documents que le ministre a obtenus de la banque. Les hypothèses suivantes sont énoncées dans la réponse à l’avis d’appel :
+[traduction]
+j) le revenu déclaré en moins au cours de chaque année a été déterminé au moyen de la méthode de la valeur nette [...];
+k) l’appelante a reçu, par suite de la relation qu’elle entretenait avec Ann Didur sur le plan financier, un montant de 11 663,50 $ en 2000, de 10 969,19 $ en 2001, de 190 997,63 $ en 2002 et de 70 211,04 $ en 2003.
+De plus, les hypothèses que le ministre a émises en déterminant l’obligation de l’appelante à l’égard des pénalités établies en vertu du paragraphe 163(2) de la Loi sont les suivantes:
+[traduction]
+a) […]
+b) l’appelante participe à des projets d’investissement depuis au moins 1998;
+c) l’appelante était antérieurement propriétaire d’une entreprise de buanderie;
+d) l’appelante possédait de l’expérience en matière de financement d’une entreprise;
+e) l’appelante possédait de l’expérience en matière de placements;
+f) des montants élevés passaient par le compte de banque et par les cartes de crédit de l’appelante;
+g) l’appelante ne tenait pas de livres ni de registres;
+h) l’appelante était chargée de virer les fonds entre les comptes et d’effectuer les retraits en argent des comptes de banque;
+i) l’appelante était en tout temps au courant de sa situation financière;
+j) l’appelante aurait dû savoir que son revenu était déclaré en moins au cours des années visées par les appels étant donné que les dépenses personnelles connues s’élevaient à au moins 76 900,34 $ en 2000, à au moins 64 212,45 $ en 2001, à au moins 210 071,61 $ en 2002 et à au moins 94 231,75 $ en 2003;
+k) le revenu non déclaré de 11 663,50 $ en 2000, de 10 969,19 $ en 2001, de 190 997,63 $ en 2002 et de 70 211,04 $ en 2003 représente des montants importants.
+[6] Aux pages 16, 19 et 20 de la transcription, l’appelante déclare ce qui suit :
+[traduction]
+À un moment donné, nous avions réellement, réellement besoin de plus d’argent, de sorte que nous leur avons demandé de nous remettre notre argent, de nous remettre tout simplement notre argent, c’était tout ce que nous voulions. Elle a répondu, eh bien, non, parce que l’argent est entièrement investi dans des actions cotées en cents et qu’il sera entièrement, que nous le récupérerons au complet.
+Toutefois, elle ne l’a pas fait, elle voulait – elle a dit qu’il y avait beaucoup de possibilités dont on pouvait tirer parti, de sorte qu’elle a communiqué avec Terry Bell, qui est l’un de mes témoins, et elle lui a demandé s’il voulait placer de l’argent, ce qu’il a fait, et par son entremise, il était – d’autres personnes effectuaient des placements par son entremise parce qu’elles voulaient obtenir un bon rendement, ce qui allait censément être le rendement.
+Cependant, dans l’intervalle, je dois dire qu’avant tout ceci, nous avions rencontré l’avocat, aux États-Unis, avec qui elle effectuait des placements. Il s’appelait Me Drange, et il nous a dit que tout était en règle. Nous sommes allés le rencontrer aux États-Unis. Ann Didur nous a amenés là-bas. Elle voulait que nous le rencontrions. Il a dit que tout était en règle. Il a dit que les actions avaient atteint leur cours plancher et que nous nous en tirions.
+Eh bien, et ces gens, tous ces autres gens placent de l’argent, des relations de Terry, par l’entremise de mon compte. Je retirais l’argent et je le remettais à Ann pour qu’elle le place.
+Il a depuis lors remboursé tout cet argent à ces gens, parce qu’Ann Didur, je suppose que cela s’est passé il y a près de trois ans, s’est suicidée parce que l’avocat, aux États-Unis, a pris l’argent et il a dit qu’il n’y avait pas – en d’autres termes, il nous a roulés. Je ne sais comment le dire autrement. Il a pris tout notre argent et nous n’avons rien eu.
+Et c’est tout, c’est réellement tout ce que je peux dire en ce moment. Par conséquent, tout le monde a perdu son argent. Nous avons perdu notre argent, et nous avions placé 367 000 $. Nous n’avons rien obtenu en retour. Elle nous remettait un peu d’argent de temps à autre, mais jamais rien de comparable à ce que nous avions placé[1].
+[7] Terry Bell, un homme d’affaires chevronné (un herboriste) qui a avancé plus de 100 000 $ à l’appelante dans le cadre du stratagème ourdi par Mme Didur, a témoigné. Il a notamment déclaré ce qui suit :
+[traduction]
+J’avais donc ces 1 500 $. Je lui ai remis un autre montant de 1 500 $, soit 3 000 $, et telle était la combine. Cela a commencé à prendre plus d’importance, la ruse; Ann Didur revenait toujours sur la question, elle revenait chaque fois avec une cagnotte de plus en plus élevée, mais en même temps, elle me racontait comment elle donnait à Martha, elle plaçait l’argent et Martha était au courant de la chose et je croyais, eh bien, nous avions fortement confiance en Martha.
+[…] Ah, mon Dieu, étais-je stupide, elle ne peut pas avoir de compte de banque parce que les banques ont suspendu son compte de banque. Elle me demandait donc de remettre l’argent à Martha pour que celle‑ci le dépose à la banque et Martha allait immédiatement à la banque, la CIBC, à Selkirk. Je l’ai donc suivie parce que je voulais voir si elle le faisait, si elle allait à la banque, si elle prenait l’argent et revenait ensuite le remettre à Ann, et c’était toujours comme ça.
+J’ai finalement retenu les services d’un détective privé parce qu’elle m’aurait vu la suivre, n’est‑ce pas? Elle commençait à être passablement adroite. Elle a toujours été adroite. Et le détective l’a suivie et a découvert, elle a dit qu’elle se rendait chez l’avocat pour remettre l’argent. Eh bien, le détective a découvert qu’elle n’allait pas chez l’avocat, elle allait simplement chez Sobeys, à un autre endroit, et elle retournait chez elle.
+Mais est-ce que je croyais que Martha conservait l’argent? Non, je le sais à cause de choses qui se passaient pour découvrir si elle le faisait. Elle allait directement à la banque. Je l’ai fait suivre par une autre dame, qui entrait dans la banque où elle allait, et je partais en voiture et elle se tenait là, elle s’appelle Wanda, et elle sortait et prenait place dans la voiture et remettait tout l’argent à Ann Didur dans la voiture et elles le comptaient dans la voiture.
+Et l’un des types qui l’ont également suivie, il s’appelait Marcel, et il a dit que c’était une escroquerie, une fichue bonne escroquerie. Eh bien, c’en était une.
+Mais, comme je le dis, je ris, pourquoi suis-je – pourquoi suis‑je si stupide de continuer, parce que j’avais placé de l’argent et que je croyais qu’en en plaçant un peu plus, je récupérerais du moins mon argent. Je ne serais pas aussi sot.
+Et si je ris, ce n’est pas intentionnellement. Je pensais simplement à quel point j’étais stupide. Je suis simplement nerveux[2].
+[8] De plus, l’époux de l’appelante, Virden Lawrence, a notamment déclaré ce qui suit dans son témoignage :
+[traduction]
+[...] Je crois qu’au départ, nous avons placé mille ou deux mille dollars, et nous recevions ensuite un certain montant, et elle voulait ensuite encore plus d’argent, et la situation a commencé à s’intensifier[3].
+Et j’ai ensuite commencé, Ann et ma femme ont commencé à effectuer d’autres placements, ce qui était censément des placements, mais qui s’est avéré être une fraude, et elle a rencontré certaines de ces personnes, la plupart de ces gens, je ne les connais pas. Il y a simplement Terry que je connais bien.
+Et les choses allaient en s’intensifiant, et une fois que j’ai découvert combien d’argent nous avions mis, nous avons essayé de trouver une façon de récupérer une partie de l’argent, en essayant d’obtenir des renseignements d’Ann et en essayant d’obtenir des documents indiquant où était allé l’argent, et de toute évidence, nous n’y sommes pas arrivés.
+Puis, soudainement, je savais que je – soudainement, j’avais un découvert de 100 000 $ à la banque et ma femme avait encaissé tout ce qui était dans ses REER, et il a finalement fallu que je vende ma maison pour rester à flot et rembourser la banque et, à l’âge de 66 ans, je dois retourner travailler pour gagner notre pain[4].
+[9] L’appelante a produit en preuve une lettre datée du 22 février 2007, que Mme Didur aurait censément envoyée à l’Agence du revenu du Canada, laquelle est libellée comme suit :
+[traduction]
+À QUI DE DROIT :
+La présente lettre vise à vous informer que le solde dû de 202 392,49 $ exigé de Martha Lawrence, montant a l’égard duquel elle interjette appel, devrait m’être imputé étant donné que toutes les sommes qui étaient dans le compte de Mme Lawrence ont été transférées en ma faveur.
+Pour de plus amples renseignements, n’hésitez pas à communiquer avec moi au XXX-XXXX.
+Merci.
+(Ann Didur) « Ann Didur »
+De toute évidence, cela ajoute peu de choses à la preuve, mais je reconnais que la lettre a été rédigée par la défunte. Je n’accorde aucun poids à la véracité de son contenu. Les déclarations de l’appelante, qui affirmait s’être montrée naïve et qui proclamait son innocence complète en ce qui concerne le stratagème frauduleux, ont été plus ou moins corroborées en partie par Terry Bell, par son époux et par la lettre de Mme Didur. Tous ces éléments de preuve étaient douteux.
+[10] La position prise par le ministre est notamment que l’appelante travaillait comme aide‑comptable, qu’elle avait aidé à l’exploitation d’une buanderie pendant presque tout le temps où elle avait travaillé, et que son époux exploitait avec succès une entreprise de distributeurs automatiques qu’il avait vendue, si je ne me trompe, parce qu’il était malade.
+Analyse
+[11] J’examinerai d’abord la question de savoir si le ministre a eu raison d’établir de nouvelles cotisations à l’égard de l’appelante après l’expiration de la période normale de nouvelle cotisation pour les années d’imposition 2000 et 2001. Il incombe au ministre de justifier l’application du paragraphe 152(4) de la Loi. Il n’y a pas eu de contestation de la part de l’appelante. Quoi qu’il en soit, il existe un nombre suffisant d’éléments de preuve, présentés par l’entremise du vérificateur du ministre, M. Kozyra, ainsi qu’au moyen du contre-interrogatoire de l’appelante, pour rouvrir les années 2000 et 2001, frappées de prescription. La simple négligence est suffisante, par opposition à la faute lourde exigée aux fins de l’imposition des pénalités prévues au paragraphe 163(2). L’appelante aurait convenu qu’elle avait été négligente.
+[12] L’appelante a retiré des milliers de dollars de son compte de banque et y a déposé des milliers de dollars, sans quelque document identificateur que ce soit, sauf les documents des banques. Le paragraphe 152(7) autorise le ministre à utiliser, en dernier ressort, la méthode de la valeur nette en vue d’établir une cotisation. En résumé, le ministre compare la valeur nette du contribuable au début de l’année et sa valeur nette à la fin de l’année. Le montant de l’augmentation, s’il y en a une après rajustement, est présumé constituer le revenu du contribuable. En l’espèce, M. Kozyra a obtenu et examiné attentivement les relevés bancaires de l’appelante, de son époux et de son fils, Parish, ainsi que des renseignements se rapportant aux cartes de crédit.
+[13] L’appelante a témoigné que l’argent des investisseurs était déposé dans son compte et qu’elle allait voir Mme Didur le jour même du dépôt ou peu de temps après. Cela n’arrivait pas régulièrement. Ainsi, à un moment donné, un montant de 60 000 $ a été déposé dans le compte de l’appelante, mais il est difficile de savoir à quel moment il a été remis. L’appelante a expliqué que Mme Didur lui avait remis un chèque de 15 000 $ qui était sans provision et qu’elle avait déduit les 15 000 $ de l’argent qu’elle avait reçu pour les placements. Cependant, cela s’est produit plusieurs mois après que les 60 000 $ eurent été déposés dans son compte. On nous avait dit antérieurement que Mme Didur n’avait pas de privilèges bancaires.
+[14] J’ai devant moi fort peu d’éléments de preuve de fond à l’appui du témoignage de l’appelante qui puissent satisfaire à l’obligation incombant à celle‑ci de réfuter l’hypothèse émise par le ministre, à savoir que les dépôts non identifiés lui étaient remis par des investisseurs et qu’ils étaient sans tarder remis à Mme Didur. L’appelante a fourni certaines traites bancaires payables en faveur de Mme Didur, lesquelles ont peu de valeur puisqu’elles se rapportent aux années 1998 et 1999. L’argent en question a été déposé dans le compte bancaire personnel de l’appelante et il a été mêlé à ses propres fonds sans aucune tentative apparente pour le conserver à l’écart et permettre de l’identifier. Cela est particulièrement surprenant puisque l’appelante était une aide‑comptable d’expérience et que son époux possédait de l’expérience en tant que propriétaire d’une petite entreprise. L’appelante est obligée, en vertu de l’article 30 de la Loi, de tenir des livres et registres appropriés. Or, en l’espèce, il n’y en a pas.
+[15] Lors du contre-interrogatoire, l’avocate du ministre a demandé à l’appelante d’identifier les montants qui avaient été déposés dans son compte bancaire personnel, d’environ 343 000 $ sur la période de quatre ans ici en cause. L’appelante a répondu qu’elle ne pouvait pas le faire, mais elle a ajouté que, de toute évidence, il s’agissait d’argent placé par des gens par l’entremise de son compte.
+[16] Les fonds étaient mêlés aux fonds personnels de l’appelante et celle-ci a déclaré qu’elle ne savait pas ce qui lui appartenait et ce qui appartenait aux investisseurs. Elle ne tenait pas de registres. M. Bell ne savait pas trop ce qui était arrivé à l’argent qu’il avait avancé à l’appelante pour qu’elle le place par l’entremise de Mme Didur. Ses soupçons ont été éveillés au point où il a suivi l’appelante et Mme Didur et a vu l’appelante qui semblait remettre l’argent. Il a également demandé à un enquêteur privé de suivre les deux femmes. Ses enquêtes étaient limitées, mais son témoignage était compatible avec celui de l’appelante, et M. Bell avait confiance en l’appelante et croyait que Mme Didur verserait un montant dix fois plus élevé que l’argent avancé. L’appelante n’était pas la première à être prise dans une combine visant à l’enrichir rapidement. En rétrospective, je ne doute pas que sa version fût dans une certaine mesure exacte, aussi simpliste et aussi fantaisiste qu’elle semble l’être. Mais il s’agit d’essayer de dégager les faits de la fiction.
+[17] Le témoignage de l’époux de l’appelante était peu utile. Ce dernier a déclaré que son épouse s’occupait des opérations bancaires.
+[18] L’appelante a souscrit aux hypothèses de fait du ministre, sauf celles qui étaient énoncées aux alinéas 11g) et j) ainsi qu’à l’alinéa 12j). L’appelante a déclaré que Mme Didur avait détruit presque tous les documents.
+[traduction]
+11g) en déclarant son revenu des années 2000, 2001, 2002 et 2003, l’appelante a omis d’inclure la totalité du revenu qu’elle avait reçu ces années‑là;
+[...]
+11j) l’appelante a reçu, par suite de la relation qu’elle entretenait avec Ann Didur sur le plan financier, un montant de 11 663,50 $ en 2000, de 10 969,19 $ en 2001, de 190 997,63 $ en 2002 et de 70 211,04 $ en 2003;
+[...]
+12j) l’appelante aurait dû savoir que le revenu était déclaré en moins au cours des années visées par les appels étant donné que les dépenses personnelles connues s’élevaient à au moins 76 900,34 $ en 2000, à 64 612,45 $ en 2001, à 210 071,61 $ en 2002 et à 94 231,75 $ en 2003;
+Ces énoncés sont examinés dans les présents motifs.
+[19] Il ne m’est pas difficile de conclure que le ministre a eu raison d’établir une cotisation conformément au paragraphe 152(7) et d’utiliser la méthode de la valeur nette, étant donné que l’appelante n’avait pas de registres et de documents expliquant le montant de plus de 300 000 $ qui était passé par son compte au cours des années pertinentes.
+[20] L’appelante et son époux ont maintenant environ 65 ans. La preuve de l’appelante, qu’elle ait été admise ou telle que je l’interprète, est notamment composée de ce qui suit. L’appelante, M. Bell et d’autres personnes ont été attirés, sinon envoûtés, par la promesse de Mme Didur, qui affirmait qu’ils obtiendraient un rendement correspondant à dix fois le montant placé. Nathan Grange était l’avocat américain. L’appelante et son époux l’ont rencontré à Las Vegas. Mme Didur a payé leur voyage.
+[21] Comme il en a été fait mention, la crédibilité de l’appelante était renforcée compte tenu a) du témoignage de l’époux; b) du témoignage de Terry Bell; c) du fait que les époux sont pour ainsi dire sans le sou; d) du fait que les époux ont perdu leur maison et e) de la lettre de Mme Didur. Je reconnais que Mme Didur était fort convaincante. L’appelante a déclaré : [traduction] « Il fallait connaître Ann. » Elle avait vu les certificats d’actions cotées en cents que Mme Didur conservait. Si les actions cotées en cents étaient achetées à l’aide de l’argent de l’appelante, on peut se demander pourquoi l’appelante ne pouvait pas avoir les certificats en sa possession.
+[22] La conclusion à laquelle M. Kozyra est arrivé après son analyse minutieuse est que, même si nous acceptons l’explication de l’appelante, lorsqu’elle affirme avoir remis tout l’argent en question à Mme Didur, il reste dans son compte, pour ses frais de subsistance personnels, un montant de 120 000 $ qui n’est pas expliqué. L’appelante a répondu qu’elle ne pouvait pas donner d’explications et qu’elle ne pouvait pas suivre le témoignage de M. Kozyra. Je retiens le témoignage de M. Kozyra, qui était parfois difficile de suivre, puisque je ne dispose de presque rien d’autre. M. Kozyra et ses collègues ont conclu que l’appelante et son époux ont utilisé un montant de 120 000 $ sur les mystérieux dépôts pour leurs dépenses personnelles et que ce montant n’a pas été remis à Mme Didur pour être placé. Cela m’amène à conclure que l’appelante était rémunérée pour les opérations bancaires qu’elle effectuait.
+[23] La position primordiale de l’appelante, selon son avis d’appel, est la suivante :
+[traduction]
+Toutes les sommes qui étaient déposées dans notre compte de banque étaient retirées le même jour et remises à Ann Didur pour être placées dans des actions cotées en cents aux États-Unis.
+Je conclus qu’en fait, les sommes déposées dans le compte de l’appelante n’étaient pas toutes retirées le même jour et qu’aucuns fonds n’ont été placés dans des actions cotées en cents.
+[24] La preuve générale de l’appelante, le manque de précisions au sujet des dépôts effectués dans son compte de banque et des retraits effectués de son compte de banque ainsi que l’omission de tenir des livres sont ahurissants. Il reste que l’appelante a participé à un stratagème visant à l’enrichir, avec une amie, Mme Didur, maintenant décédée, et un mystérieux avocat américain. Je reconnais que Mme Didur ou l’avocat ont soutiré à l’appelante et à d’autres personnes un montant qui n’est toujours pas connu. L’appelante a pris la position selon laquelle elle agissait simplement comme intermédiaire ou comme banquier pour Mme Didur et que, lorsqu’elle recevait l’argent, elle le remettait immédiatement à cette dernière. Cette assertion est réfutée par la preuve. Premièrement, les 120 000 $ sur les dépôts inexpliqués sont restés dans le compte de l’appelante, qui s’en est servie à des fins personnelles. Deuxièmement, si l’appelante était simplement le banquier de Mme Didur, pourquoi est-elle allée voir l’avocat américain à Las Vegas avec son époux? Troisièmement, contrairement à ce que l’appelante a affirmé, M. Kozyra a clairement établi qu’une bonne partie de l’argent au sujet duquel aucune explication n’a été donnée n’était pas remis en l’espace de quelques jours. Une partie de l’argent n’était remise que plusieurs mois plus tard, et une partie de l’argent (120 000 $) n’a pas du tout été remise. Je suis certain qu’une partie du montant visé par les cotisations n’a pas été ajoutée d’une façon appropriée au revenu de l’appelante, mais nous ne sommes pas en mesure de calculer quel est ce montant. La preuve de l’appelante renferme un trop grand nombre d’incohérences pour qu’il soit possible de reconnaître qu’elle participait en toute innocence au stratagème sans être rémunérée. Je ne suis pas prêt à estimer le montant qui peut être exact.
+[25] Pendant presque tout le temps où elle a travaillé, l’appelante était aide‑comptable; pourtant, elle n’a pas tenu de registres ou établi d’autres documents. De plus, elle a mêlé les fonds détenus en fiducie à des fins de placement avec ses propres fonds et avec les fonds personnels de son époux et elle ne savait pas à qui appartenait l’argent ni quel était le montant en cause. Je ne crois pas qu’une personne ordinaire (la personne raisonnable) accepterait l’histoire de l’appelante. Je ne doute pas que la preuve de l’appelante fût une combinaison de faits et de fiction. L’appelante avait une mémoire sélective qui ne coïncidait pas toujours avec la réalité.
+[26] Quant aux pénalités, l’appelante ne s’est pas acquittée de l’obligation qui lui incombait d’établir que les hypothèses émises par le ministre au paragraphe 12 de la réponse étaient inexactes. L’appelante possédait de l’expérience en matière de tenue de livres et elle savait sans aucun doute jusqu’à quel point il est important de conserver séparément l’argent de tiers et ses fonds personnels.
+[27] Je conclus donc ce qui suit :
+[traduction]
+16. […] l’appelante a omis d’inclure dans son revenu un montant de 11 663,50 $ en 2000, de 10 969,19 $ en 2001, de 190 997,63 $ en 2002 et de 70 211,04 $ en 2003.
+17. En produisant ses déclarations de revenus pour les années 2000, 2001, 2002 et 2003, l’appelante, sciemment, ou encore dans des circonstances équivalant à faute lourde, dans l’exécution d’une obligation imposée par la Loi, a fait de faux énoncés ou des omissions, ou y a participé, y a consenti ou y a acquiescé, de sorte que l’impôt établi dans la cotisation était inférieur à l’impôt qui était en fait payable, au sens du paragraphe 163(2) de la Loi. [...] les pénalités imposées conformément au paragraphe 163(2) de la Loi ayant été à juste titre établies;
+18. […] en produisant ses déclarations de revenus pour les années 2000 et 2001, l’appelante a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, en n’incluant pas un montant de 11 663,50 $ en 2000 et de 10 969,19 $ en 2001. Le ministre pouvait donc à bon droit établir de nouvelles cotisations à l’égard de l’appelante après l’expiration de la période normale de nouvelle cotisation conformément au paragraphe 152(4) de la Loi[5].
+[28] Les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 4e jour de janvier 2011.
+« C. H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 31e jour de janvier 2011.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2010 CCI 480
+No DU DOSSIER DE LA COUR : 2007-3710(IT)G
+INTITULÉ : MARTHA LAWRENCE
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Winnipeg (Manitoba)
+DATE DE L’AUDIENCE : Le 8 février 2010
+MOTIFS DU JUGEMENT : L’honorable C. H. McArthur
+DATE DU JUGEMENT : Le 23 septembre 2010
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimée :
+Me Melissa Danish
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : S/O
+Cabinet : S/O
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Transcription, pages 16, 19 et 20.
+[2] Transcription, pages 169, 170, 171 et 172.
+[3] Le montant que Mme Didur leur a retourné n’a pas été établi et rien ne montre que l’appelante ait déclaré ces montants dans sa déclaration.
+[4] Transcription, pages 213 et 214.
+[5] Passage tiré de la réponse à l’avis d’appel.

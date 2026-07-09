@@ -1,0 +1,184 @@
+---
+title: "Da Ponte c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25829/index.do"
+last_modified: "2003-08-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 523"
+citation2: ""
+neutral_citation: "2003 CCI 523"
+decision_date: "2003-08-12"
+language: "fr"
+item_id: "25829"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3900
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:52:45.461000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1ca9c2f9e3c16c3393b3d975f03f0f528f029791439e93fc5a94267f1bd6004f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Da Ponte c. M.R.N.
+
+- Citation: 2003 CCI 523
+- Decision date: 2003-08-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3900, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Da Ponte c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-12
+Référence neutre
+2003 CCI 523
+Numéro de dossier
+2002-4757(EI)
+Juges et Officiers taxateurs
+Jerome F. Somers
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier: 2002-4757(EI)
+ENTRE :
+JOE DA PONTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Joe Da Ponte (2002-4758(CPP)) le 26 mai 2003 à London (Ontario),
+Devant : L'honorable juge suppléant J. F. Somers
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Stephen Leckie
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour d'août 2003.
+« J. F. Somers »
+Juge suppléant Somers
+Traduction certifiée conforme
+ce 15e jour de janvier 2004.
+Nancy Bouchard, traductrice
+Dossier: 2002-4758(CPP)
+ENTRE :
+JOE DA PONTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Joe Da Ponte (2002-4757(EI)) le 26 mai 2003 à London (Ontario),
+Devant : L'honorable juge suppléant J. F. Somers
+Comparutions
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimé :
+Me Stephen Leckie
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour d'août 2003.
+« J. F. Somers »
+Juge suppléant Somers
+Traduction certifiée conforme
+ce 15e jour de janvier 2004.
+Nancy Bouchard, traductrice
+Référence: 2003CCI523
+Date: 20030812
+Dossiers: 2002-4757(EI)
+2002-4758(CPP)
+ENTRE :
+JOE DA PONTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Somers
+[1] Les présents appels ont été entendus sur preuve commune à London, en Ontario, le 26 mai 2003.
+[2] L'appelant interjette appel à l'encontre d'une décision qu'a rendue le ministre du Revenu national (le « ministre » ) selon laquelle l'emploi qu'exerçait, Michael Lloyd, le travailleur, auprès de l'appelant pendant la période en cause, soit du 13 juillet au 31 août 2001, était un emploi assurable et ouvrant droit à pension aux termes de l'alinéa 5(1)a) de la Loi sur l'assurance-emploi (la « Loi » ) et de l'alinéa 6(1)a) du Régime de pensions du Canada (le « Régime » ) respectivement.
+[3] L'alinéa 5(1)a) de la Loi est ainsi rédigé :
+5. (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+Le libellé de l'alinéa 6(1)a) du Régime fournit la même définition que celui de l'alinéa 5(1)a) de la Loi précité.
+[4] Le fardeau de la preuve incombe à l'appelant. Il doit démontrer, selon la prépondérance des probabilités que le ministre a commis une erreur de fait et de droit en rendant sa décision. Chaque cas est un cas d'espèce.
+[5] En rendant sa décision, le ministre s'est appuyé sur les hypothèses de fait suivantes que l'appelant a admises ou niées :
+[traduction]
+a) le payeur exploite une entreprise qui fournit des services d'installation de cloisons sèches; (admise)
+b) le travailleur a été engagé comme « poseur de cloisons sèches » en vertu d'une entente verbale; (admise)
+c) les tâches du travailleur consistaient à installer des cloisons sèches, notamment à prendre les mesures ainsi qu'à couper et à clouer les cloisons; (admise)
+d) le travailleur exécutait son travail à différents chantiers de construction; (admise)
+e) l'appelant versait au travailleur une rémunération variant de 8,25 $ à 9 $ l'heure; (niée)
+f) l'appelant rémunérait le travailleur toutes les semaines sous forme de chèque; (admise)
+g) l'appelant supervisait le travailleur; (admise)
+h) l'appelant fournissait tout le matériel et l'équipement nécessaires, tandis que le travailleur ne fournissait que ses propres petits outils; (niée)
+i) le travailleur travaillait en général huit heures par jour, cinq jours par semaine; (niée)
+j) l'appelant établissait les heures de travail du travailleur parce qu'ils voyageaient ensemble; (admise)
+k) l'appelant a fourni au travailleur une certaine formation; (admise)
+l) c'est l'appelant qui obtenait les contrats de travail; (admise)
+m) l'appelant s'assurait de fournir du travail; (niée)
+n) l'appelant était responsable de régler les plaintes que formulaient les clients; (niée)
+o) l'appelant avait le droit de congédier le travailleur; (admise)
+p) le travailleur devait fournir ses services personnellement; (niée)
+q) les services que fournissait le travailleur faisaient partie intégrante de l'entreprise de l'appelant. (niée)
+[6] Le payeur exploite une entreprise qui fournit des services d'installation de cloisons sèches. Le travailleur a été engagé comme poseur de cloisons sèches en vertu d'une entente verbale à la suite d'une annonce d'offre d'emploi qu'avait fait paraître le payeur.
+[7] Lorsque l'appelant a reçu le curriculum vitæ du travailleur, il a communiqué avec ce dernier pour fixer une entrevue. Comme il l'a déclaré dans sa lettre datée du 25 mai 2003 adressée à la présente Cour, l'appelant a expliqué au travailleur les modalités du contrat de travail en vertu duquel il serait engagé comme sous-traitant et, conséquemment, inadmissible à des prestations d'assurance-chômage ou du RPC (pièce A-1).
+[8] Les tâches du travailleur consistaient à installer des cloisons sèches, notamment à prendre des mesures ainsi qu'à couper et à clouer les cloisons. L'appelant était un sous-traitant qui fournissait ses services dans divers chantiers de construction.
+[9] Selon l'appelant, le travailleur percevait une rémunération correspondant à 0,10 $ du pied carré, ce qui équivaut à environ 9 $ l'heure. L'appelant rémunérait le travailleur toutes les semaines sous forme de chèque, comme semblent l'indiquer les copies de chèques déposées en preuve sous la cote A-2.
+[10] L'appelant a admis qu'il supervisait le travailleur lorsque ce dernier accomplissait son travail.
+[11] L'entrepreneur général fournissait les matériaux, mais selon l'appelant, le travailleur possédait certains petits outils, tels qu'un ruban à mesurer, une pochette à clous ainsi que d'autres petits outils.
+[12] Les heures de travail du travailleur variaient selon les travaux à exécuter dans les différents chantiers de construction.
+[13] L'entrepreneur général s'occupait de régler les plaintes que formulaient les clients.
+[14] L'appelant établissait les heures de travail parce que le travailleur voyageait avec lui.
+[15] L'appelant a admis qu'il avait fourni au travailleur une certaine formation. Il a également admis que le travailleur exécutait ses fonctions dans différents chantiers de construction. Il a reconnu que le travailleur ne possédait pas beaucoup d'expérience et qu'il était peu fiable.
+[16] Le travailleur a témoigné qu'il n'était ni un entrepreneur ni un sous-traitant. Il a déclaré qu'il avait rempli environ 50 demandes d'emploi comme manoeuvre générale. Il a vu une annonce d'offre d'emploi et a postulé, et l'appelant a communiqué avec lui.
+[17] Le travailleur a déclaré qu'il percevait une rémunération de 10 $ l'heure et qu'il n'était pas rémunéré à la pièce. Le travailleur a ajouté que les seuls outils qu'il possédait étaient des bottes de sécurité, une ceinture à outils et peut-être un ruban gradué, mais il ne fournissait ni marteau, ni visseuse, ni cordeau traceur, ni couteau.
+[18] Le travailleur a déclaré qu'il n'était pas responsable de garantir du travail ou de régler les plaintes de clients.
+[19] Un contrat de louage de services sous-entend nécessairement que l'employé travaille au profit de l'employeur. Les principales caractéristiques d'un contrat de louage de services concernent la nature des services fournis, le salaire périodique fixe, les heures de travail préétablies et les directives particulières concernant le travail à accomplir.
+[20] Pour déterminer si les parties ont établi entre elles une relation employeur-employé, il est nécessaire d'examiner la relation dans son ensemble. Le critère à appliquer pour faire la distinction entre un contrat de louage de services et un contrat d'entreprise est celui composé de quatre parties intégrantes qui mettent l'accent sur l'ensemble des éléments qui entraient dans le cadre des opérations.
+[21] La jurisprudence admet systématiquement les quatre facteurs de base lorsqu'il s'agit de distinguer un contrat de louage de services d'un contrat d'entreprise. Dans la décision Wiebe Door Services Ltd. c. M.R.N., 3 C.F. 553 (87 DTC 5025), la Cour d'appel fédérale énumère les quatre volets du critère de base, soit :
+1. le degré de contrôle;
+2. la propriété des instruments de travail;
+3. les chances de bénéfice et les risques de perte;
+4. l'intégration.
+[22] Le contrôle : Le contrôle est un critère dont il faut toujours tenir compte lorsqu'il s'agit de déterminer si un travailleur est un employé ou un entrepreneur indépendant. Dans l'affaire en l'espèce, le payeur supervisait le travailleur étant donné qu'ils travaillaient tous les deux ensemble en tout temps et qu'ils voyageaient même ensemble pour se rendre aux divers chantiers de construction. Le payeur avait le droit de congédier le travailleur. Il exerçait un contrôle total sur le rendement du travailleur. Si l'on tient compte de ce fait, le travailleur était engagé en vertu d'un contrat de louage de services.
+[23] Les instruments de travail : L'entrepreneur général fournissait les matériaux. Le travailleur ne possédait que des petits outils qui n'étaient pas suffisants pour exécuter les tâches liées à l'installation de cloisons sèches. Ce critère démontre que le travailleur et l'appelant avaient conclu un contrat de louage de services.
+[24] Les chances de bénéfice et les risques de perte : Les témoignages sont contradictoires en ce qui concerne le taux de rémunération qu'avaient négocié le payeur et le travailleur. Le payeur a indiqué que le travailleur était rémunéré à la pièce tandis que ce dernier a affirmé qu'il percevait un taux de rémunération de 10 $ l'heure. Le travailleur a également déclaré qu'il n'exploitait aucune entreprise à son compte. Il était à la recherche d'un emploi comme manoeuvre générale. Il a rempli environ 50 demandes d'emploi. Il a vu l'annonce qu'avait fait paraître le payeur et il a postulé. Le payeur a admis que le travailleur ne possédait aucune expérience. On ne peut pas considérer le travailleur comme un entrepreneur puisqu'il ne possédait pas son propre véhicule. Il était rémunéré toutes les semaines. Aucune preuve démontrant qu'il aurait généré un profit ou subi une perte n'a été présentée à la Cour. Ainsi, si l'on tient compte de ce critère, le travailleur devrait être considéré comme un employé.
+[25] L'intégration : L'entreprise était celle du payeur et non celle du travailleur. Le payeur agissait comme agent de liaison entre les clients et l'entrepreneur ou le sous-traitant d'établir une relation. L'entrepreneur général ou le payeur s'occupait de régler les plaintes de clients. Le travailleur fournissait ses services personnellement. La preuve a démontré que les services que fournissait le travailleur faisaient partie intégrante de l'entreprise du payeur.
+[26] Si l'on applique tous les critères, tels qu'ils sont énoncés dans l'arrêt Wiebe Door (précité), manifestement c'est un contrat de louage de services qu'ont conclu le travailleur et l'appelant.
+[27] L'emploi qu'exerçait le travailleur auprès de l'appelant était un emploi assurable et ouvrant droit à pension aux termes de l'alinéa 5(1)a) de la Loi et de l'alinéa 6(1)a) du Régime pendant la période en question puisque les parties avaient conclu entre elles un contrat de louage de services.
+[28] Par conséquent, les appels sont rejetés et la décision du ministre est confirmée.
+Signé à Ottawa, Canada, ce 12e jour d'août 2003.
+« J. F. Somers »
+Juge suppléant Somers
+Traduction certifiée conforme
+ce 15e jour de janvier 2004.
+Nancy Bouchard, traductrice

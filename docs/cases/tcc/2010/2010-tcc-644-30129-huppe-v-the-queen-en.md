@@ -1,0 +1,183 @@
+---
+title: "Huppe v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30129/index.do"
+last_modified: "2010-12-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 644"
+citation2: ""
+neutral_citation: "2010 TCC 644"
+decision_date: "2010-12-20"
+language: "en"
+item_id: "30129"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7800
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:45:19.775000+00:00"
+cases_cited_count: 2
+cases_citing_count: 13
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a0c227f3d77441f3be1fcf9d799c8fd12cd6f845f88d9234945a11063e770714"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Huppe v. The Queen
+
+- Citation: 2010 TCC 644
+- Decision date: 2010-12-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7800, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Huppe v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-20
+Neutral citation
+2010 TCC 644
+File numbers
+2009-398(IT)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-398(IT)G
+BETWEEN:
+ALLAN McEWAN HUPPE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on June 30, 2010 at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Frédéric Morand
+____________________________________________________________________
+ORDER
+The Appellant’s motion to seek enforcement of the settlement agreement that the Appellant alleges was reached with the Respondent is not summarily dismissed on the basis that even if an agreement to settle the appeal is established this Court does not have the jurisdiction to enforce such agreement. The Appellant’s motion is therefore to be scheduled to be heard. The issue of whether Frédéric Morand will be an advocate at the hearing of this motion should be resolved prior to the commencement of the hearing of this motion.
+Signed at Halifax, Nova Scotia, this 20th day of December, 2010.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2010TCC644
+Date: 20101220
+Docket: 2009-398(IT)G
+BETWEEN:
+ALLAN McEWAN HUPPE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb, J.
+[1] The Appellant brought a motion to enforce an agreement to settle his appeal that the Appellant alleges was made between the Appellant and the Respondent.
+[2] The Respondent does not agree that the parties had reached an agreement to settle this appeal and in any event it is the position of the Respondent that even if an agreement had been reached to settle this appeal that the Respondent is not bound by any such agreement.
+[3] The Appellant filed an affidavit which sets out the facts as alleged by the Appellant in relation to the settlement agreement that the Appellant states was reached between the Appellant and the Respondent. A status hearing was scheduled for the Appeal and at the commencement of the status hearing the Appellant raised the issue of the motion that he had filed. The Respondent was clearly taking the position that even if a settlement agreement had been reached, it was not bound by any such agreement. It therefore seemed to me that the preliminary question of whether the Respondent is correct should be addressed before witnesses were subjected to examination and cross examination. As well there is an additional issue of whether counsel for the Respondent may also be a witness.
+[4] The following question was submitted to the parties:
+Assume that an agreement to settle an appeal (that has been filed with this Court) has been reached between a taxpayer and the Respondent. Assume that this agreement was not reached at or following a settlement conference with a Judge of this Court but by the parties negotiating on their own. Assume that the Respondent subsequently notifies the taxpayer that the Respondent will not be following the agreement and is taking the position that the Respondent is not bound by the agreement. Does this Court have the jurisdiction to enforce the agreement?
+[5] The parties agreed to provide written submissions in relation to this question on or before the following dates:
+By the Appellant – on or before August 31, 2010;
+By the Respondent – on or before September 30, 2010; and
+If the Appellant chooses to make submissions in response to the written submissions of the Respondent, such submissions shall be filed on or before October 15, 2010.
+[6] The Appellant and the Respondent each provided written submissions. However both parties provided submissions before Justice Bowie rendered his decision in 1390758 Ontario Corporation v. The Queen, 2010 TCC 572 on November 4, 2010. In his decision, Justice Bowie noted that:
+16 The question whether the Minister and a taxpayer may enter into a binding settlement agreement in respect of the taxpayer's liability for tax under the Act has arisen in at least seven cases since 1972. As has been observed by others, some of the decisions are difficult to reconcile.
+[7] After reviewing the various decisions, Justice Bowie stated as follows:
+35 I agree with Bowman C.J. and the authors Hogg, Magee and Li that there are sound policy reasons to uphold negotiated settlements of tax disputes freely arrived at between taxpayers and the Minister's representatives. The addition of subsection 169(3) to the Act in 1994 is recognition by Parliament of that. It is not for the Courts to purport to review the propriety of such settlements. That task properly belongs to the Auditor General.
+36 The reality is that tax disputes are settled every day in this country. If they were not, and every difference had to be litigated to judgment, unmanageable backlogs would quickly accumulate and the system would break down.
+37 The Crown settles tort and contract claims brought by and against it on a regular basis. There is no reason why it should not settle tax disputes as well. Both sides of a dispute are entitled to know that if they invest the time and effort required to negotiate a settlement, then their agreement will bind both parties.
+38 I have come to the conclusion, contrary to the views of Bowman C.J. and Professor Hogg to which I have referred, that it is possible to reconcile the decision in Smerchanski and Cohen.
+39 The decisions in Galway and Cohen are grounded in the perceived illegality of the assessments that the Minister would have to make in order to consummate those settlements. In Smerchanski there was no suggestion that the assessments were anything other than the result that flowed from the application of the law to the facts that were revealed by the audit. It is obvious, surely, that in the course of the litigation process additional facts may come to light, and some facts that the Minister may have thought to be true turn out not to be. It is even possible that the Minster may, in the course of negotiations, be persuaded that his initial view of the law was not totally correct.
+40 In the present case, I have no reason to believe that the reassessments that the Minister has already made of both the corporation and Peter Tindall, or the redeterminations that will be made of Susan Tindall's CTB entitlements, are not justifiable on the facts and the law. Put another way, the results agreed to are results that could be arrived at following the trial of all three cases on their merits. That being so, it is Smerchanksi, and not Cohen and Galway, that applies.
+[8] In Galway v. Minister of National Revenue, [1974] 1 F.C. 600 (FCA) the issue was whether the amount of $200,500 should have been included in the taxpayer’s income. Either the full amount would have been included in income or no portion of it would have been included in income. In Cohen v. The Queen, 78 DTC 6099 (FCTD); affirmed 80 DTC 6250, the issue was whether the gain of $105,603.75[1] realized on the sale of certain lands should be included in the taxpayer’s income as income from a business or not included in his income on the basis that it was a non-taxable capital gain. In both cases either the full amount would have been included in income or no amount would have been included in income. There was no middle ground.
+[9] In Garber v. The Queen, 2006 FCA 177, the Appellants had alleged that a settlement agreement that had been reached in 1994 but which was repudiated shortly thereafter by the Crown, was still enforceable. The Appellants had accepted the repudiation and continued to negotiate with the Crown. It appears that the Appellants did not attempt to enforce the settlement agreement until the matter continued to this Court following the discontinuance of the settlement discussions in 2005.
+[10] Given the absence of any attempt to enforce the agreement reached in 1994 until after the expiration of over 10 years and after the apparent acceptance by the Appellants of the repudiation, it does not seem surprising that the agreement reached in 1994 was not found to be enforceable against the Crown.
+[11] In this case the Appellant was reassessed to deny the following expenses that the Appellant had claimed in computing his income for 1998:
+Item
+Amount
+Office expenses
+$12,000.00
+Legal, accounting and other professional fees
+$104,918.14
+Rent
+$77,121.20
+Travel
+$45,000.00
+Telephone and utilities
+$12,000.00
+Investment expense (Loss)
+$89,655.00
+Total:
+$340,694.34
+[12] The Appellant was also reassessed to deny the expenses claimed in 1998 in the amount of $26,821.70 that the Appellant claimed were expenses related to the business use of his home that were carried forward from his 1997 taxation year.
+[13] It seems to me that this case can be distinguished from Galway, Cohen and Garber. This is not a case whether it is all or nothing and this is not a case where the Appellant continued to negotiate following the repudiation by the Crown. As a result I do not agree with the position of the Crown that the Crown is simply not bound even if there was an agreement to settle this Appeal.
+[14] If the Appellant should be able to establish that there was an agreement to settle the appeal, the remedy that the Appellant would be seeking is specific performance, which is generally an equitable remedy. In Pro Swing Inc. v. Elta Golf Inc., [2006] 2 S.C.R. 612, Justice Deschamps, writing on behalf of a majority of the Justices of the Supreme Court of Canada, stated that:
+22 At common law, the typical remedy is an award for damages. However, a wide range of equitable remedies are available, and they take various forms. Their commonality is that they are awarded at the judge's discretion. Judges do not apply strict rules, but follow general guidelines illustrated by such maxims as "Equity follows the law", "Delay defeats equities", "Where the equities are equal the law prevails", "He who comes to equity must come with clean hands" and "Equity acts in personam" (Hanbury & Martin Modern Equity (17th ed. 2005), at paras. 1-024 to 1-036, and I. C. F. Spry, The Principles of Equitable Remedies: Specific Performance, Injunctions, Rectification and Equitable Damages (6th ed. 2001), at p. 6). The application of equitable principles is largely dependent on the social fabric. As Spry puts it:
+... the maxims of equity are of significance, for they reflect the ethical quality of the body of principles that has tended not so much to the formation of fixed and immutable rules, as rather to a determination of the conscionability or justice of the behaviour of the parties according to recognised moral principles. This ethical quality remains, and its presence explains to a large extent the adoption by courts of equity of broad general principles that may be applied with flexibility to new situations as they arise.[p. 6]
+23 The traditional rule does not leave any room for discretion as regards such considerations or forms of relief. In contrast, equitable orders are crafted in accordance with the specific circumstances of each case. The most relevant equitable remedies for the purposes of the present case are specific performance, that is, an order by the court to a party to perform its contractual obligations, and the injunction, that is, an order to a party to do or refrain from doing a particular act.
+[15] Justice Sobier made the following comments on whether this Court is a court of equity in Sunil Lighting Products v. Minister of National Revenue, [1993] T.C.J. No. 666:
+18 The jurisprudence clearly affirms that the Tax Court of Canada is not a court of equity and its jurisdiction is based within its enabling statute*. In addition, the Court cannot grant declaratory relief given that such relief is beyond the jurisdiction of the Court*. In an income tax appeal, the Court's powers are spelled out in subsection 171(1) of the Income Tax Act. Consequently, these powers essentially entail the determination of whether the assessment was made in accordance with the provisions of the Income Tax Act*.
+(* denotes a footnote reference that was in the original text but which has not been included.)
+[16] This Court is not a Court of equity and therefore, absent some specific authority, cannot grant the remedy of specific performance. The jurisdiction of this Court is specified by section 12 of the Tax Court of Canada Act. This section provides in part that:
+12. (1) The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the Air Travellers Security Charge Act, the Canada Pension Plan, the Cultural Property Export and Import Act, Part V.1 of the Customs Act, the Employment Insurance Act, the Excise Act, 2001, Part IX of the Excise Tax Act, the Income Tax Act, the Old Age Security Act, the Petroleum and Gas Revenue Tax Act and the Softwood Lumber Products Export Charge Act, 2006 when references or appeals to the Court are provided for in those Acts.
+(emphasis added)
+[17] Subsection 171(1) of the Income Tax Act (the “Act”) provides that:
+171. (1) The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[18] Therefore this Court has been granted the jurisdiction to determine appeals under the Act and in relation to such appeals has been granted the power to allow an appeal and to grant the remedies provided in paragraph 171(1)(b) of the Act including the power to vary the assessment or refer the assessment back to the Minister for reconsideration and reassessment. Since the remedy that the Appellant would be seeking (since the Appellant indicated that the matter was settled) would be to vary the assessment or to refer the matter back to the Minister for reconsideration and reassessment, and since this Court has been specifically granted the power to order this remedy in disposing of an appeal, it seems to me that this Court does have the jurisdiction to enforce the agreement (by allowing the appeal and varying the assessment or referring the assessment back to the Minister for reconsideration and reassessment), if the Appellant can establish that such an agreement was made in this case. For any of the remedies as provided in paragraph 171(1)(b) of the Act, this Court does not need to be a court of equity to grant such remedy as this Court has been granted the power to grant these specific remedies. If, however, specific performance of the contract would require the granting of any remedy other than one of the remedies as provided in paragraph 171(1)(b) of the Act, then this Court would not have the jurisdiction to grant such remedy.
+[19] There is one other matter that the parties should consider. It will be necessary to hear evidence to determine whether an agreement was reached in this case. It appears from the affidavit of the Appellant that Frédéric Morand, who appeared on behalf of the Respondent, could be a witness at the hearing as the Appellant has indicated that the settlement discussions took place between the Appellant and Frédéric Morand. Mr. Morand indicated that he would not be testifying as the auditor knew as much as he did. However, there is no rule that would allow a person who is subpoenaed or who is called as a witness in a hearing to appoint someone else to testify in their place.
+[20] In the Rules of Professional Conduct of the Law Society of Upper Canada, Rule 4.02(2) and the commentary that follows provide as follows:
+4.02 THE LAWYER AS WITNESS
+Submission of Testimony
+(2) Subject to any contrary provisions of the law or the discretion of the tribunal before which a lawyer is appearing, a lawyer who appears as advocate shall not testify before the tribunal unless permitted to do so by the rules of court or the rules of procedure of the tribunal, or unless the matter is purely formal or uncontroverted.
+Commentary
+A lawyer should not express personal opinions or beliefs or assert as a fact anything that is properly subject to legal proof, cross-examination, or challenge. The lawyer should not in effect appear as an unsworn witness or put the lawyer's own credibility in issue. The lawyer who is a necessary witness should testify and entrust the conduct of the case to another lawyer. There are no restrictions on the advocate's right to cross-examine another lawyer, however, and the lawyer who does appear as a witness should not expect to receive special treatment because of professional status.
+[21] It seems to me that it would not be appropriate for Frédéric Morand to be both an advocate and a witness at the same hearing. It also seems to me that given the direct involvement of Frédéric Morand in the negotiations with the Appellant there is a significant risk that he will either be subpoenaed or called to testify or that he will want to testify. The Appellant could subpoena Frédéric Morand or could call him as a witness if he is attendance without being subpoenaed. Therefore, it is not entirely the decision of Frédéric Morand whether he will testify. If he is subpoenaed or is called to testify he cannot designate someone else to testify instead of himself. Even if he is not subpoenaed or called to testify there is a risk that after the commencement of the hearing he may want to testify. What will happen if Frédéric Morand should call the auditor to testify but either the auditor does not recall a particular part of what was said or the recollection of the auditor of what was said is not the same as that of Frédéric Morand?
+[22] As a result, the Appellant’s motion to seek enforcement of the settlement agreement that the Appellant alleges was reached with the Respondent is not summarily dismissed on the basis that even if an agreement to settle the appeal is established this Court does not have the jurisdiction to enforce such agreement. The Appellant’s motion is therefore to be scheduled to be heard. The issue of whether Frédéric Morand will be an advocate at the hearing of this motion should be resolved prior to the commencement of the hearing of this motion.
+Signed at Halifax, Nova Scotia, this 20th day of December, 2010.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2010TCC644
+COURT FILE NO.: 2009-398(IT)G
+STYLE OF CAUSE: ALLAN McEWAN HUPPE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 30, 2010
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: December 20, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Frédéric Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In the decision of Justice Décary of the Federal Court – Trial Division the amount of the gain in issue is stated to be $105,603.75. In the decision of the Federal Court of Appeal the amount is stated to be $105,608.75.

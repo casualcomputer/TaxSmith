@@ -1,0 +1,142 @@
+Title: Cloutier c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25108/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-511-25108-cloutier-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-07-23
+
+# Cloutier c. La Reine
+
+- Citation: 2003 CCI 511
+- Decision date: 2003-07-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2544, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cloutier c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-07-23
+Référence neutre
+2003 CCI 511
+Numéro de dossier
+2001-3025(IT)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-3025(IT)I
+ENTRE :
+HENRY CLOUTIER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sous preuve commune avec les appels de
+Pauline Fortin (2001-3026(IT)I) le 17 juin 2003 à Québec (Québec)
+Devant : L'honorable juge P.R. Dussault
+Comparutions :
+Avocat de l'appelant :
+Me Marc Gilbert
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu ( « Loi » ) pour les années d'imposition 1997 et 1998 sont admis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant pour acquis que les dépenses personnelles communes aux deux appelants sont de 17 340 $ et de 16 822 $ pour les années 1997 et 1998 respectivement, que ces dépenses doivent leur être attribuées chacun pour moitié et que les pénalités cotisées en vertu du paragraphe 163(2) de la Loi doivent être rajustées en conséquence.
+Signé à Ottawa, Canada ce 23e jour de juillet 2003.
+« P. R. Dussault »
+Juge Dussault
+Dossier : 2001-3026(IT)I
+ENTRE :
+PAULINE FORTIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus sous preuve commune avec les appels de
+Henry Cloutier (2001-3025(IT)I) le 17 juin 2003 à Québec (Québec)
+Devant : L'honorable juge P.R. Dussault
+Comparutions :
+Avocat de l'appelante :
+Me Marc Gilbert
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu ( « Loi » ) pour les années d'imposition 1997 et 1998 sont admis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelles cotisations en tenant pour acquis que les dépenses personnelles communes aux deux appelants sont de 17 340 $ et de 16 822 $ pour les années 1997 et 1998 respectivement, que ces dépenses doivent leur être attribuées chacun pour moitié et que les pénalités cotisées en vertu du paragraphe 163(2) de la Loi doivent être rajustées en conséquence.
+Signé à Ottawa, Canada ce 23e jour de juillet 2003.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2003CCI511
+Date : 20030723
+Dossiers : 2001-3025(IT)I
+2001-3026(IT)I
+ENTRE :
+HENRY CLOUTIER,
+PAULINE FORTIN,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Ces appels ont été entendus sur preuve commune en vertu de la procédure informelle.
+[2] Les appelants sont conjoints et exploitaient deux entreprises, l'une de vente d'automobiles usagées et l'autre de vente de meubles et accessoires pour bébés. Ils ont été cotisés pour les années 1997 et 1998 selon la méthode de l'avoir net. Des pénalités ont également été cotisées en vertu du paragraphe 163(2) de la Loi de l'impôt sur le revenu ( « Loi » ). Les seuls montants contestés sont ceux établis comme étant leurs dépenses personnelles pour chacune des années, soit un montant de 25 421,16 $ pour l'année 1997 et un montant de 22 613,39 $ pour l'année 1998.
+[3] Dans chacune des Réponses à l'avis d'appel ( « Réponses » ) on indique la partie de l'écart par la méthode de l'avoir net attribué à chacun des appelants et on fait référence à « l'Annexe » . Celle-ci est fort incomplète puisqu'elle ne comporte pas les annexes 3 à 11. L'annexe 11 est celle donnant le détail des dépenses personnelles. Enfin, seul le total des dépenses personnelles des appelants, mentionné plus haut pour chacune des années, est indiqué à l'annexe 2 jointe aux Réponses.
+[4] Dès le début du témoignage de l'appelant, monsieur Henri Cloutier, l'avocate de l'intimée a mis à sa disposition le document complet du calcul de l'écart par l'avoir net concernant sa conjointe, madame Pauline Fortin et plus particulièrement l'annexe 11 établissant le sommaire de leurs dépenses personnelles communes établi par le vérificateur. Le document lui-même ne contient aucune indication concernant la provenance des chiffres que l'on y trouve et personne n'a témoigné pour en expliquer la teneur.
+[5] Les deux appelants ainsi que leur comptable, monsieur Réal Girard, ont témoigné. Lors de son témoignage, monsieur Cloutier, a déposé en preuve son propre sommaire des dépenses personnelles du couple préparé avec l'aide du comptable (pièce A-1). Le total des dépenses personnelles a été fixé à 17 340 $ et à 16 822 $ pour les années 1997 et 1998 respectivement.
+[6] Certains montants indiqués par le vérificateur à l'annexe 11 ne sont pas contestés par les appelants et se retrouvent tels quels à leur sommaire. C'est le cas par exemple pour le coût du logement, les dépenses de logement et l'assurance-vie.
+[7] D'autres montants inscrits par le vérificateur sont contestés par les appelants comme étant tout simplement non applicables à leur situation. Il s'agit des montants inscrits sur les rubriques « Journaux, revues, livres, etc. » ainsi que « Tabac et alcool » . Monsieur Cloutier a affirmé d'une part qu'il ne lit qu'un seul journal local lequel est gratuit et, d'autre part que ni sa conjointe ni lui ne fument ou ne consomment de l'alcool.
+[8] Enfin, selon le témoignage de monsieur Cloutier, d'autres montants, ceux inscrits par le vérificateur sous les rubriques « Nourriture, Vêtements » , « Transport » , « Soins santé » , « Soins personnels » , « Divertissement » , « Cadeaux et contributions » sont exagérés et il s'en remet pour les dépenses concernant ces rubriques aux montants indiqués à son propre sommaire.
+[9] Les témoignages des appelants et de leur comptable ne sont appuyés d'aucun document. J'ai eu l'impression, je dis bien l'impression, que tant monsieur Cloutier que madame Fortin avaient tendance à minimiser l'importance de certaines dépenses pour la nourriture, le transport, les soins personnels et les soins de santé par exemple. De combien ? Je ne saurais le dire.
+[10] Par ailleurs, la présentation du dossier à la Cour par l'Agence des douanes et du revenu du Canada ( « A.D.R.C. » ) souffre de lacunes sérieuses. D'abord, les Réponses sont incomplètes en ce que la presque totalité des annexes concernant le calcul de l'écart par la méthode de l'avoir net et plus particulièrement l'annexe 11 concernant les dépenses personnelles n'a pas été jointe au document.
+[11] Bien que les appelants aient déjà pris connaissance de cette annexe 11 pour préparer leur propre sommaire de leur dépenses personnelles, il appert que la provenance des chiffres sous certaines rubriques ne leur aurait jamais été expliquée. Elle ne l'a pas été non plus lors de l'audition puisque personne n'a témoigné pour l'intimée. Or, la preuve démontre que non seulement les chiffres, mais également l'existence de certaines rubriques de cette annexe 11 n'est même pas applicable à la situation des appelants. C'est dire que tout le poids que l'on peut accorder à ce document en l'absence d'explications qui se seraient avérées essentielles.
+[12] Mais, il y a plus. À la base le processus est vicié par des Réponses incomplètes qui n'énoncent aucunement les hypothèses de fait exactes sur lesquelles le ministre du Revenu national ( « Ministre » ) s'est fondé pour établir les dépenses personnelles des appelants. Il ne suffit pas d'écrire sur une ligne que le total des dépenses personnelles est de tant pour satisfaire à l'obligation de dévoiler les hypothèses de fait à la base même de la cotisation et qu'un appelant a normalement le fardeau de démolir (voir inter alia Johnston v. M.N.R., [1948], S.C.R. 486, aux pages 489/90 et Hickman Motors Ltd. c. Canada, [1997], 2 R.C.S. 336, aux pages 378 et suivantes).
+[13] Dans le cas présent, le total des dépenses pour chacune des années est la seule information à laquelle on faisait référence dans les Réponses, puisque l'annexe 11 n'était pas jointe à celle-ci. L'aurait-elle été qu'elle ne nous instruit pas plus sur les rubriques et les chiffres qui y sont inscrits, puisque manifestement certaines rubriques n'ont rien à voir avec le mode de vie des appelants en ce qui concerne le tabac et l'alcool par exemple. Si le vérificateur a utilisé certaines rubriques ou certains chiffres qui proviennent de statistiques nationales, régionales, ou autres, pour évaluer les dépenses personnelles des appelants - et c'est là la seule inférence que je peux tirer dans les circonstances - on aurait dû l'indiquer clairement dans chacune des Réponses ou dans des documents qui y sont joints et auxquels on fait référence.
+[14] À mon avis, les appelants n'ont pas le fardeau de démolir des hypothèses de fait qui n'ont pas été énoncées ou qui ne l'ont pas été de façon claire et complète. Dans un tel cas, le fardeau incombe au Ministre.
+[15] Les autorités sont nombreuses sur cette question. Qu'il suffise de mentionner la décision de la Cour d'appel fédérale dans l'affaire Pollock v. Canada, [1994] 1 C.T.C. 3, 94 DTC 6050, version française [1993] A.C.F. no 1055 (Q.L.). Au paragraphe 18 de la version française, le juge Hugessen s'exprimait pour la Cour dans les termes suivants :
+18. Le cas spécial des suppositions faites par le Ministre en matières fiscales est complètement différent. Il se fonde sur la nature même d'un système d'autodéclaration et d'autocalcul de la cotisation, un système dans lequel les autorités sont obligées de se fier aux déclarations du contribuable concernant les faits et les choses dont il a particulièrement connaissance. En établissant la cotisation, le Ministre peut avoir à supposer certaines choses qui diffèrent de ce que le contribuable a déclaré ou qui le complètent. Dans ce cas, il le fait généralement dans ses plaidoiries, mais ce n'est pas toujours ainsi et nous avons vu, en l'espèce, un exemple où le contribuable s'est efforcé de démolir une supposition que le Ministre n'a pas plaidée. Toutefois, lorsqu'une supposition est plaidée, elle a pour effet d'inverser le fardeau de la preuve et d'imposer au contribuable l'obligation de réfuter ce que le Ministre a supposé. Naturellement, les suppositions qui n'ont pas été plaidées ne peuvent produire un tel effet et, à mon avis, ne nous concernent pas en l'espèce.
+(Le souligné est de moi.)
+[16] Le principe a été énoncé encore plus récemment par la Cour d'appel fédérale dans l'affaire Roseland Farms Ltd. v. Canada, [2001] 3 C.T.C. 124, 2001 DTC 5392, version française [2001] A.C.F. no 842 (Q.L.).
+[17] Les explications fournies par les appelants quant au niveau de certaines dépenses personnelles ne sont pas tout à fait convaincantes. Toutefois, c'est la seule preuve dont je dispose.
+[18] En conséquence de ce qui précède, les appels des cotisations établies pour les années d'imposition 1997 et 1998 sont admis et les cotisations sont déférées au Ministre pour nouvel examen et nouvelles cotisations en tenant pour acquis que les dépenses personnelles communes aux deux appelants sont de 17 340 $ et de 16 822 $ pour les années 1997 et 1998 respectivement, que ces dépenses doivent leur être attribuées chacun pour moitié et que les pénalités cotisées en vertu du paragraphe 163(2) de la Loi doivent être rajustées en conséquence.
+Signé à Ottawa, Canada ce 23e jour de juillet 2003.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE :
+2003CCI511
+Nos DES DOSSIERS DE LA COUR :
+2001-3025(IT)I et 2001-3026(IT)I
+INTITULÉS DES CAUSES :
+Henry Cloutier et Sa Majesté la Reine
+Pauline Fortin et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 17 juin 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P. R. Dussault
+DATE DU JUGEMENT :
+le 23 juillet 2003
+COMPARUTIONS :
+Avocat des appelants :
+Me Marc Gilbert
+Avocate de l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER:
+Pour les appelants :
+Nom :
+Ville :
+Me Marc Gilbert, Avocat
+Sainte-Foy (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

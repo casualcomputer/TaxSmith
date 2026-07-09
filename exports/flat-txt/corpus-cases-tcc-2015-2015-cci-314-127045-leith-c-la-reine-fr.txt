@@ -1,0 +1,154 @@
+Title: Leith c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/127045/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-314-127045-leith-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-12-03
+
+# Leith c. La Reine
+
+- Citation: 2015 CCI 314
+- Decision date: 2015-12-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2702, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Leith c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-12-03
+Référence neutre
+2015 CCI 314
+Numéro de dossier
+2012-4842(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-4842(IT)G
+ENTRE :
+IAN LEITH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu les 21 et 22 septembre 2015, à Toronto (Ontario).
+Devant : L'honorable juge David E. Graham
+Comparutions :
+Avocate de l'appelant :
+Me Louise R. Summerhill
+Avocate de l'intimée :
+Me Jenny P. Mboutsiadis
+JUGEMENT
+L'appel interjeté à l'endroit des années d'imposition 2006 et 2007 de l'appelant est rejeté.
+Les dépens sont adjugés à l'intimée. Si les parties ne parviennent pas à s'entendre sur les dépens dans les 30 jours, elles peuvent déposer et signifier des observations écrites sur les dépens dans un délai supplémentaire de 30 jours.
+Signé à Vancouver, Canada, ce 3e jour de décembre 2015.
+« David E. Graham »
+Le juge Graham
+Référence : 2015 CCI 314
+Date : 20151203
+Dossier : 2012-4842(IT)G
+ENTRE :
+IAN LEITH,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Ian Leith est un conseiller en placements chez BMO Nesbitt Burns. Pour ses années d'imposition 2006 et 2007, M. Leith a réclamé diverses déductions de son revenu d'emploi. Le ministre du Revenu national a refusé ces déductions pour un certain nombre de raisons, et M. Leith a interjeté appel[1]. M. Leith a aussi réclamé des pertes agricoles dans ses déclarations de revenus de 2006 et 2007. Le ministre a refusé ces pertes étant donné que M. Leith n'exploitait pas une entreprise agricole. Le ministre est d'avis que les activités agricoles de M. Leith étaient des activités personnelles. M. Leith a interjeté appel du refus de ses pertes agricoles[2].
+Dépenses d'emploi [2] Pour ce qui est des dépenses d'emploi, je dois trancher les questions suivantes :
+a) M. Leith s'est­il conformé aux obligations prévues par la Loi de l'impôt sur le revenu relativement à la production du formulaire T2200, « Déclaration des conditions de travail »?
+b) Si M. Leith s'est conformé à ses obligations relativement à la production des T2200, a‑t‑il engagé les dépenses d'emploi en vue de tirer un revenu d'emploi?
+c) Si M. Leith a engagé les dépenses d'emploi en vue de tirer un revenu d'emploi, a‑t‑il respecté les autres conditions énoncées à l'alinéa 8(1)f) de la Loi qui lui permettraient de déduire ces dépenses?
+M. Leith s'est‑t‑il conformé à ses obligations relativement à la production des T2200? [3] Le paragraphe 8(1) autorise certains employés à déduire certaines dépenses de leur revenu d'emploi. Le paragraphe 8(10) impose toutefois certaines restrictions relatives à ces déductions. Il énonce :
+Un contribuable ne peut déduire un montant pour une année d'imposition en application des alinéas (1)c), f), h) ou h.1) ou des sous‑alinéas (1)i)(ii) ou (iii) que s'il joint à sa déclaration de revenu pour l'année un formulaire prescrit, signé par son employeur, qui atteste que les conditions énoncées à la disposition applicable ont été remplies quant au contribuable au cours de l'année.
+[Non souligné dans l'original]
+[4] Pour l'application du paragraphe 8(10), le formulaire prescrit est le formulaire T2200, « Déclaration des conditions de travail ». M. Leith n'a pas joint les T2200 à ses déclarations de revenus de 2006 et de 2007. Il semblerait, à la lecture du paragraphe 8(10), qu'une demande de déduction de dépenses visées par ce paragraphe serait refusée si un T2200 n'était pas joint à la déclaration de revenus. Comme je l'explique ci‑après, j'estime que ce n'est toutefois pas le cas.
+[5] Le fait que M. Leith n'ait pas joint de formulaires T2200 à ses déclarations de revenus n'est pas surprenant. Les formulaires lui ont explicitement dit qu'il n'avait pas à le faire. Les deuxième et troisième phrases des T2200 énoncent clairement que : « L'employé n'a pas à joindre ce formulaire à sa déclaration. Cependant, il doit le conserver pour pouvoir le fournir sur demande. »
+[6] Le paragraphe 220(2.1) de la Loi énonce ce qui suit :
+Le ministre peut renoncer à exiger qu'une personne produise un formulaire prescrit, un reçu ou autre document ou fournisse des renseignements prescrits, aux termes d'une disposition de la présente loi ou de son règlement d'application. La personne est néanmoins tenue de fournir le document ou les renseignements à la demande du ministre.
+[7] J'estime que les deuxième et troisième phrases du formulaire T2200 ont pour effet, en application du paragraphe 220(2.1), de dispenser le contribuable de l'obligation, prévue au paragraphe 8(10), de joindre un T2200 à sa déclaration de revenus, en autant que le contribuable fournisse le T2200 au ministre sur demande. En conséquence, M. Leith n'était pas tenu de joindre des T2200 à ses déclarations de revenus de 2006 et de 2007, et le fait qu'il n'ait pas produit de T2200 n'élimine pas la possibilité pour lui de déduire les dépenses d'emploi.
+[8] Carol Nourdine était la vérificatrice de l'ARC affectée à la vérification de M. Leith. Mme Nourdine a témoigné au procès. J'ai trouvé qu'il s'agissait d'un témoin crédible. Elle a déclaré qu'elle avait demandé au comptable de M. Leith de lui fournir les T2200 pour 2006 et 2007. Elle a identifié deux T2200 que le comptable de M. Leith lui avait envoyés à la suite de sa demande[3]. J'estime que le fait que le comptable de M. Leith ait fourni ces T2200 à Mme Nourdine répond à la condition énoncée au paragraphe 220(2.1), selon laquelle les formulaires doivent être fournis à la demande du ministre.
+[9] Compte tenu de tout ce qui précède, je conclus que M. Leith s'est conformé aux obligations prévues au paragraphe 8(10) relativement à la production des T2200.
+M. Leith a‑t‑il engagé les dépenses d'emploi en vue de tirer un revenu d'emploi? [10] Le ministre s'est fondé sur l'hypothèse de fait selon laquelle M. Leith n'a pas engagé les dépenses d'emploi pour les besoins d'un emploi ou d'une entreprise[4]. Pendant son témoignage, M. Leith a parlé en détail des dépenses qu'il dit avoir engagées pour les besoins d'un emploi, mais je ne l'ai pas trouvé crédible. En conséquence, je conclus que M. Leith n'a pas réussi à démolir l'hypothèse de fait du ministre et qu'il ne peut donc pas déduire les dépenses d'emploi.
+[11] Mes conclusions au sujet de la crédibilité de M. Leith sont fondées en partie sur diverses déclarations peu plausibles qu'il a faites pendant son témoignage au sujet de certaines dépenses, mais surtout sur deux séries de documents qui ont été produits en preuve, à savoir des T2200 modifiés et des versions antidatées de ses calendriers personnels.
+T2200 modifiés [12] Monsieur Leith a produit comme pièces au procès[5] des T2200 qui étaient différents des T2200 que son comptable avait fournis à Mme Nourdine. Je désignerai les T2200 que M. Leith a produits comme pièces comme étant les « T2200 du procès » et ceux qui ont été fournis à Mme Nourdine comme étant les « T2200 de la vérification ». Dans son témoignage, Mme Nourdine a déclaré que les T2200 de la vérification étaient les seuls T2200 qu'elle avait reçus de M. Leith. M. Leith n'a fait aucune mention des T2200 de la vérification dans son témoignage principal.
+[13] John Casey était le directeur de la succursale de BMO Nesbitt Burns où travaillait M. Leith en 2006 et 2007 et c'est lui qui a signé les T2200 de M. Leith. M. Casey a témoigné. Je l'ai trouvé crédible. Il a expliqué le processus de préparation des T2200 à la succursale en 2006 et en 2007. Le service de la comptabilité de BMO Nesbitt Burns fournissait à la succursale les formulaires nécessaires ainsi qu'une note de service expliquant comment ils devaient être remplis. La personne responsable de l'administration de la succursale remplissait les formulaires selon les explications de la note de service. Les T2200 remplis étaient ensuite remis aux conseillers en placements. Ces derniers passaient en revue les formulaires et, au besoin, apportaient des changements. Les conseillers en placements remettaient ensuite les formulaires à M. Casey. Ce dernier revoyait les formulaires, les signait et les retournait aux conseillers en placements. En signant les T2200, M. Casey certifiait, au nom de BMO Nesbitt Burns, qu'ils étaient à sa connaissance exacts et complets. À la lumière du témoignage de M. Casey, je considère que je ne devrais pas m'inquiéter si les T2200 de M. Leith pour 2006 et 2007 contiennent des modifications apportées par M. Leith, en autant que je sois confiant que les modifications ont été apportées avant que M. Casey signe les formulaires.
+[14] Monsieur Leith a apporté des modifications à la main à tous les T2200. Il a apporté aux T2200 de la vérification des changements qui sont différents de ceux qu'il a apportés aux T2200 du procès. La signature de M. Casey apparaît autant sur les T2200 de la vérification que sur les T2200 du procès. À la lumière de son témoignage, il était implicite que M. Casey n'aurait pas signé plus d'un T2200 pour un même conseiller en placements pour une même année ni approuvé un formulaire déjà signé après qu'il eut été modifié[6]. Comme les T2200 de la vérification et les T2200 du procès sont différents pour chaque année, ils ne devraient pas porter tous les deux la signature de M. Casey. Il existe deux explications possibles. Soit un des documents a été modifié après que M. Casey l'eut signé, soit les deux ont été modifiés après que M. Casey eut signé un autre document original. En modifiant les documents après que M. Casey les eut signés, M. Leith a rendu invalide la certification de M. Casey. Chose plus importante encore, en présentant les documents comme s'ils avaient été dûment certifiés, M. Leith a gravement porté atteinte à sa crédibilité. Les modifications apportées ainsi que mes conclusions sont expliquées en détail ci‑après.
+[15] Le T2200 de la vérification de 2006 contient une modification apportée à la main par M. Leith. À la question 6 du T2200, on demande si l'employé était tenu d'engager certains frais. Dans sa réponse, BMO Nesbitt Burns indique que M. Leith était tenu de payer des dépenses de [TRADUCTION] « ventes, promotions et représentation ». M. Leith a ajouté la mention [TRADUCTION] « FORMATION » à la réponse à la question 6. Il n'est pas possible de déterminer, à partir du T2200 de la vérification de 2006, si cet ajout a été fait avant ou après que M. Casey eut signé le formulaire.
+[16] Le T2200 du procès de 2006 contient un certain nombre d'autres modifications qui ont été apportées à la main par M. Leith :
+a) à la question 8, on demande si l'employé devait rester au moins 12 heures consécutives à l'extérieur de la municipalité où il se présentait habituellement au travail et, si oui, à quelle fréquence. La réponse « Non » a été cochée sur le T2200 de la vérification de 2006. Sur le T2200 du procès de 2006, le trait dans la boîte « Non » a été effacé, et un nouveau trait a été mis dans la boîte « Oui ». J'en déduis que le T2200 de la vérification de 2006 n'a pas pu être créé par la modification du T2200 du procès de 2006. La mention [TRADUCTION] « AU BESOIN SELON SON AVIS » a aussi été ajoutée pour indiquer la fréquence des déplacements de M. Leith;
+b) la mention [TRADUCTION] « FORMATION » ajoutée par M. Leith à la question 6 dans le T2200 de la vérification de 2006 est absente dans le T2200 du procès de 2006. Elle y a été remplacée par la mention [TRADUCTION] « DÉPLACEMENTS + VOITURE + DÉPENSES »;
+c) à la question 2, on demande si l'employé devait travailler à différents endroits. Dans le T2200 de la vérification de 2006, BMO Nesbitt Burns a rédigé la réponse suivante : [TRADUCTION] « ONTARIO ». Dans le T2200 du procès de 2006, on a ajouté ce qui suit : « + CANADA + MASS. + CALIFORNIE, OÙ IL EST AGRÉÉ + OÙ IL A DES CLIENTS + AVEC DES CLIENTS ».
+[17] D'après ce qui précède, je conclus que soit le T2200 du procès de 2006 résulte de la modification du T2200 de la vérification de 2006 après que M. Casey l'eut signé, soit le T2200 de la vérification de 2006 et le T2200 du procès de 2006 ont tous deux résulté de la modification d'un T2200 original commun après que le document eut été signé par M. Casey. Dans les deux cas, nous arrivons à l'inévitable conclusion que M. Leith a modifié le T2200 du procès de 2006 après qu'il eut été signé par M. Casey. Il a peut‑être aussi modifié le T2200 de la vérification de 2006 après qu'il eut été signé.
+[18] Le T2200 de la vérification de 2007 contient les modifications suivantes apportées à la main par M. Leith :
+a) l'adresse de M. Leith a été modifiée;
+b) la mention [TRADUCTION] « GESTIONNAIRE DE PORTEFEUILLE, CONSEILLER EN PLACEMENTS » a été ajoutée dans le champ prévu pour le titre de l'emploi de M. Leith;
+c) à la question 2, on demande si l'employé devait travailler à différents endroits. Dans le T2200 de la vérification de 2007, BMO Nesbitt Burns a répondu : [TRADUCTION] « Ontario ». La mention « + C.‑B. + » a été ajoutée;
+d) à la question 6, on demande si l'employé était tenu d'engager certains frais. Dans sa réponse, BMO Nesbitt Burns indique que M. Leith était tenu de payer des frais de [TRADUCTION] « ventes, promotions et représentation ». La mention « FRAIS DE DÉPLACEMENT, DE VOITURE » a été ajoutée.
+[19] Il n'est pas possible de déterminer, à partir du T2200 de la vérification de 2007, si les ajouts en question ont été apportés avant ou après que M. Casey eut signé le formulaire.
+[20] Le T2200 du procès de 2007 contient un certain nombre de modifications manuscrites additionnelles :
+a) à la réponse à la question 2, M. Leith a ajouté ce qui suit : [TRADUCTION] « CANADA, OÙ IL EST AGRÉÉ + OÙ IL A DES CLIENTS + AVEC DES CLIENTS ». Cet énoncé suit la mention [TRADUCTION] « + C.‑B. + », qui est inscrite dans le T2200 de la vérification de 2007[7];
+b) à la question 8, on demande si l'employé devait rester au moins 12 heures consécutives à l'extérieur de la municipalité où il se présentait habituellement au travail et, si oui, à quelle fréquence. La mention [TRADUCTION] « AU BESOIN SELON SON AVIS » a été ajoutée pour indiquer la fréquence des déplacements de M. Leith;
+c) le numéro d'assurance sociale de M. Leith a été ajouté.
+[21] D'après ce qui précède, j'en conclus que M. Leith a modifié le T2200 de la vérification de 2007 ou le T2200 du procès de 2007, ou les deux, après que M. Casey les eut signés.
+[22] Monsieur Leith a nié avoir modifié les T2200 pour les besoins du litige qui l'oppose au ministre. Il semble prétendre que les modifications qu'il a apportées visaient à refléter la réalité de son emploi et non à influer sur le résultat du procès. C'est comme si M. Leith voulait me faire croire que c'est par altruisme, et non seulement pour les besoins de son litige fiscal, qu'il voulait que les T2200 donnent un portrait plus précis des événements. La simple réalité, c'est que dans son témoignage principal, M. Leith a présenté faussement le T2200 du procès de 2006 comme s'il avait été modifié avant d'être signé par M. Casey, qu'il n'a pas attiré mon attention sur le fait qu'il avait fourni des T2200 différents à son comptable et qu'il n'a pas attiré mon attention sur le fait que les deux T2200 de 2007, ou l'un des deux, avaient été modifiés après avoir été signés par M. Casey. En contre‑interrogatoire, lorsqu'il a été interrogé sur les différents T2200 pour chacune des deux années, M. Leith s'est montré évasif et hésitant dans ses explications. La position exacte de M. Leith n'était pas claire. Il a d'abord semblé affirmer que les modifications qu'il avait apportées avaient été approuvées par M. Casey et avaient été apportées avant le 30 avril des années visées. Cela n'explique évidemment pas pourquoi il aurait remis à son comptable des documents différents de ceux qu'il a déposés au tribunal. À un autre moment pendant son témoignage, il a soutenu que les T2200 de la vérification étaient inexacts, bien qu'il n'ait pas expliqué pourquoi il aurait remis des T2200 inexacts à son comptable. Il a finalement semblé reconnaître qu'il avait peut‑être modifié certains des T2200 après que M. Casey les eut signés, mais il a soutenu qu'il avait apporté les modifications uniquement pour refléter précisément sa situation d'emploi. L'impression générale que j'ai eue, c'est que M. Leith se noyait dans ses propres tromperies et qu'il cherchait désespérément à s'accrocher à tout ce qui pourrait le sauver. Un témoin qui présente faussement des documents modifiés à l'ARC ou comme éléments de preuve pendant un procès ne peut pas raisonnablement s'attendre à ce qu'on le juge crédible ou à ce qu'on conclue qu'il a présenté les documents pour une raison autre que d'influer sur le résultat de son litige avec le ministre.
+[23] Il est par ailleurs possible qu'au moins certaines des modifications aux T2200 de la vérification aient été apportées par M. Leith après que M. Casey eut signé les T2200. Selon le témoignage de M. Casey sur la préparation des T2200, il est toutefois aussi possible que ces modifications aient été apportées avant que les T2200 aient été signés. Le ministre n'a formulé aucune hypothèse de fait sur ce point. Je suis incapable de déterminer, en examinant les T2200, si les T2200 de la vérification ont été modifiés avant que M. Casey les ait signés. Si j'avais conclu que cela avait été le cas, j'aurais rendu une décision défavorable à M. Leith sur la question précédente, car le fait de fournir au ministre de faux T2200 n'aurait pas permis à M. Leith de se conformer à son obligation de fournir les T2200 sur demande conformément au paragraphe 220(2.1).
+Calendriers antidatés [24] Monsieur Leith a aussi déposé en preuve deux calendriers annotés, un pour 2006 et un pour 2007. Il a déclaré qu'il avait imprimé ces calendriers à la fin des années en question et qu'il avait noté à la main, aux jours pertinents, la distance qu'il avait parcourue en voiture pour les besoins de son emploi. M. Leith a expliqué en détail qu'il notait la distance au verso des reçus pour les repas, qu'il mettait les reçus dans un sac jusqu'à la fin du mois, qu'il mettait ensuite les reçus dans des enveloppes mensuelles et, finalement, qu'à la fin de l'année, il copiait l'information du verso des reçus sur le calendrier.
+[25] La date du 14 mai 2010 est indiquée au coin inférieur droit des deux calendriers. Il semblait très improbable qu'une telle date soit indiquée sur des calendriers prétendument imprimés en 2006 et en 2007. Pour être certain de ne pas tirer de conclusion erronée de cette date, à la fin de son témoignage, j'ai demandé à M. Leith quelle était cette date. Il a répondu qu'il s'agissait de la date d'impression des calendriers. Non seulement cela contredit‑il son propre témoignage au sujet de la date à laquelle il avait imprimé les calendriers, mais cela soulève aussi des doutes sur toutes ses explications détaillées sur la tenue de ses dossiers et laisse supposer qu'il tentait d'antidater des éléments de preuve. Le fait que la vérificatrice ait parlé au comptable de M. Leith pour la première fois le 12 mai 2010 et que les calendriers aient été imprimés le 14 mai 2010 laisse de plus supposer que les calendriers n'ont pas été créés lors des activités habituelles de tenue de dossiers de M. Leith, mais plutôt pour répondre à la demande de la vérificatrice. Tout cela a une incidence sur ma perception de la crédibilité de M. Leith.
+M. Leith a‑t‑il respecté les autres conditions énoncées à l'alinéa 8(1)f)? [26] Comme j'ai conclu que M. Leith n'a pas réussi à démolir l'hypothèse de fait du ministre selon laquelle il a engagé les dépenses d'emploi en vue de tirer un revenu d'emploi, je n'ai pas à déterminer si M. Leith a respecté les autres conditions énoncées à l'alinéa 8(1)f) pour pouvoir déduire les dépenses en question.
+Pertes agricoles [27] En 2006, M. Leith a acheté une ferme à Duncan, en Ontario. Les bâtiments et les clôtures de la ferme étaient en mauvais état. M. Leith a dépensé un montant considérable pour réparer et améliorer la ferme. Les pertes qu'il réclame découlent principalement de ces coûts.
+[28] Monsieur Leith prétend qu'il exploitait une entreprise agricole et qu'il pouvait donc déduire de son revenu d'emploi le montant total de ses pertes agricoles.
+[29] Je n'accepte pas l'affirmation voulant que M. Leith exploitait une entreprise agricole. Même si M. Leith nie toute motivation personnelle dans l'achat de la ferme, compte tenu de mes conclusions sur sa crédibilité, je ne suis pas disposé à accepter d'emblée ses affirmations. Je considère que l'achat de la ferme résultait en grande partie d'un intérêt personnel. Il y a une maison sur la ferme. M. Leith a déclaré que son intention ultime était d'y habiter à plein temps. La ferme est située à environ 20 minutes des stations de ski de Blue Mountain et de Beaver Valley. M. Leith était un fervent skieur, même s'il ne peut plus skier maintenant. Dans son témoignage, il s'est montré vague sur le moment où il n'a plus été capable de skier, mais je note que dans le calendrier de 2007, il a indiqué qu'il avait skié pendant quatre jours en janvier à ce qui semble être Denver. J'en conclus donc qu'il pouvait skier lorsqu'il a acheté la ferme en 2006 et qu'il a continué à skier en 2007. M. Leith a déclaré qu'il passait généralement les fins de semaine à la ferme. M. Leith a un certain nombre d'amis dans la région. Certaines de ces personnes étaient peut‑être des clients ou des clients éventuels, mais leur relation semblait être beaucoup plus de nature sociale.
+[30] Comme il existait une dimension personnelle relativement à la ferme, j'estime opportun de me demander si l'intention principale de M. Leith était de tirer un profit de son entreprise agricole et s'il exploitait l'entreprise agricole selon des normes objectives de comportement d'homme d'affaires sérieux[8].
+[31] Monsieur Leith n'a pas possédé, vendu ni acheté de bovins en 2006 et en 2007. Il n'a pas élevé de bovins pendant ces années. Il n'a pas cultivé les champs. Il n'a pas acheté de stocks agricoles ni d'aliments pour animaux. Il n'avait aucun plan d'entreprise écrit. Il a déclaré qu'il savait exactement ce qu'il avait prévu faire, mais il n'a fourni aucune précision à ce sujet, ni n'a fourni de projections financières précisant comment et quand la ferme atteindrait la rentabilité. M. Leith n'a pas démontré qu'il possédait des connaissances en agriculture ni, en l'absence de telles connaissances, comment il avait l'intention de les acquérir. Même s'il a autorisé certains voisins à faire brouter leurs bovins dans ses champs en échange de 1 000 $ par année, les bovins n'ont pas utilisé la grange, et la participation de M. Leith s'est limitée, au plus, à surveiller les bovins les fins de semaine lorsqu'il était à la ferme.
+[32] Compte tenu de ce qui précède, j'arrive à la conclusion que les activités agricoles de M. Leith en 2006 et en 2007 étaient des activités personnelles. Au mieux, il préparait la ferme en vue d'exploiter un jour une entreprise agricole, qui n'existait pas encore.
+[33] Monsieur Leith a fait des observations additionnelles au sujet des pertes agricoles restreintes. Comme j'ai conclu qu'il n'exploitait pas une entreprise agricole, je n'ai pas à examiner ces observations.
+Dépens [34] Les dépens sont adjugés à l'intimée. L'avocate de l'intimée a demandé que cette dernière puisse présenter des observations au sujet des dépens. Si les parties ne parviennent pas à s'entendre sur les dépens dans les 30 jours, elles peuvent déposer et signifier des observations écrites sur les dépens dans un délai supplémentaire de 30 jours.
+Signé à Vancouver, Canada, ce 3e jour de décembre 2015.
+« David E. Graham »
+Le juge Graham
+RÉFÉRENCE :
+2015 CCI 314
+NO DU DOSSIER DE LA COUR :
+2012-4842(IT)G
+INTITULÉ :
+IAN LEITH ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Les 21 et 22 septembre 2015
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 3 décembre 2015
+COMPARUTIONS :
+Avocate de l'appelant :
+Me Louise R. Summerhill
+Avocate de l'intimée :
+Me Jenny P. Mboutsiadis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Me Louise R. Summerhill
+Cabinet :
+Aird & Berlis LLP
+Toronto (Ontario)
+Pour l'intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Comme M. Leith a fait plusieurs concessions lors du procès, les seules dépenses d'emploi qui demeuraient litigieuses étaient des frais comptables de 5 804 $ en 2006, des frais comptables, des frais de consultation et des frais de renvois de clients de 70 880 $ en 2007, et des dépenses de publicité et de promotion de 5 034 $ en 2007.
+[2] M. Leith a aussi interjeté appel du refus des pertes d'une entreprise de location immobilière pour les années d'imposition 2006 et 2007. Il a abandonné cette demande au début du procès.
+[3] Pièces R-2 et R-3.
+[4] Réponse à l'avis d'appel modifié, paragraphes 13.12 et 13.19.
+[5] ièce A-1, onglets 2 et 11.
+[6] Lorsqu'on lui a demandé lequel des deux formulaires il avait signé pour chaque année, M. Casey a mentionné le formulaire qu'il pensait avoir signé ou il a répondu qu'il ne le savait pas. Il n'a pas dit qu'il avait signé les deux ou qu'il avait peut-être signé les deux, et il n'a pas dit non plus qu'il avait peut-être approuvé des modifications au formulaire après qu'il l'eut signé.
+[7] Je ne peux tirer, en me fondant sur ce fait, aucune conclusion au sujet de l'ordre des documents. Il est possible que le T2200 du procès de 2007 résulte de l'ajout de la mention commençant par le terme « CANADA » à la version déjà modifiée du T2200 de la vérification de 2007, ou encore que le T2200 de la vérification de 2007 résulte de la suppression de la mention commençant par le terme « CANADA » du T2200 du procès de 2007. Il est aussi possible que les deux documents aient été produits à partir d'un document original qui ne contenait aucun des énoncés, qui contenait les deux ou encore qui contenait seulement la mention [TRADUCTION] « + C.‑B. + ».
+[8] Stewart c. Canada, 2002 CSC 46, [2002] 2 R.C.S. 645.

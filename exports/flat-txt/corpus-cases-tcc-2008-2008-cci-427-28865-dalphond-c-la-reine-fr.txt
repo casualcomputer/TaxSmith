@@ -1,0 +1,148 @@
+Title: Dalphond c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28865/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-427-28865-dalphond-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-09-08
+
+# Dalphond c. La Reine
+
+- Citation: 2008 CCI 427
+- Decision date: 2008-09-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1308, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dalphond c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-08
+Référence neutre
+2008 CCI 427
+Numéro de dossier
+2006-3317(IT)G
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3317(IT)G
+ENTRE :
+CLAUDE DALPHOND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 1er mai 2008, à Montréal (Québec)
+Devant : L'honorable juge François Angers
+Comparutions :
+Avocat de l'appelant :
+Me Serge Fournier
+Avocat de l'intimée :
+Me Mounes Ayadi
+____________________________________________________________________
+JUGEMENT
+L'appel de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l’année d'imposition 2000 est rejeté avec dépens, selon les motifs du jugement ci-joints.
+Signé à Montréal (Québec), ce 8e jour de septembre 2008.
+« François Angers »
+Juge Angers
+Référence : 2008 CCI 427
+Date : 20080908
+Dossier : 2006-3317(IT)G
+ENTRE :
+CLAUDE DALPHOND,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] En produisant sa déclaration de revenus pour l’année d’imposition 2000, l’appelant a déclaré, entre autres, le gain en capital imposable résultant de la disposition de 50 000 actions de la société Tigertel au montant de 277 875 $ et a demandé dans le calcul de son revenu imposable une déduction pour gain en capital à l’égard des actions admissibles de petite entreprise en vertu du paragraphe 110.6(2.1) de la Loi de l’impôt sur le revenu (la « Loi ») s’élevant à 277 875 $.
+[2] Le 28 juin 2001, le ministre du Revenu national (le « Ministre ») a établi à l’égard de l’appelant une cotisation initiale lui permettant, entre autres, de déduire, dans le calcul de son revenu imposable, le montant de 223 088 $ au titre des gains en capital à l’égard des actions admissibles de petite entreprise.
+[3] À la suite d’une vérification effectuée par le Ministère du Revenu du Québec, le Ministre a été informé que, durant l’année d’imposition 1999, l’appelant détenait des actions de la société Contour Telecom et que, durant cette même année, la société Contour Telecom s’est fusionnée avec la société Tigertel. Après cette fusion, la nouvelle société Tigertel est devenue une filiale à 100% d’une société publique américaine du nom de « Applied Digital ». Par conséquent, les actions de la société Tigertel ne pouvaient être considérées comme des actions d’une société privée sous contrôle canadien de sorte que la disposition des actions de Tigertel effectuée par l’appelant en janvier 2000 ne donne pas droit à la déduction pour gain en capital qu’il a demandé en vertu du paragraphe 110.6(2.1) de la Loi.
+[4] Le Ministre a donc effectué des redressements pour les années d’imposition 1999 et 2000 pour tenir compte de la fusion de Tigertel avec la société Contour Telecom en 1999. Les redressements suivants ont été faits :
+Pour l’année d’imposition 1999 :
+(i) À la suite de la fusion des sociétés en 1999, le Ministre a établi un gain en capital imposable de 163 500 $ après la disposition par l’appelant des actions qu’il détenait dans la société Contour Telecom et il lui a accordé la déduction pour gain en capital à l’égard des actions admissibles de petite entreprise au montant de 163 500 $;
+Pour l’année d’imposition 2000 :
+(ii) Le Ministre a calculé un gain en capital imposable résultant de la disposition par l’appelant de ses actions dans la société Tigertel, en date du 10 janvier 2000, en tenant compte d’un prix de base rajusté plus élevé;
+(iii) Aucune déduction pour gain en capital n’a été accordée à l’appelant pour l’année d’imposition 2000 puisque les actions qui ont fait l’objet de la disposition n’étaient pas des actions admissibles de petite entreprise.
+[5] C’est ainsi qu’en date du 25 février 2005, le ministre a établi à l’égard de l’appelant une nouvelle cotisation pour l’année d’imposition 2000 en dehors de la période normale de nouvelle cotisation fixant le montant du gain en capital imposable à 90 639 $ et refusant la déduction pour gain en capital à l’égard des actions admissibles de petite entreprise au montant de 223 088 $.
+[6] L’appelant a signifié au Ministre un avis d’opposition le 20 avril 2005 à l’encontre de la nouvelle cotisation établie à son égard pour l’année d’imposition 2000. Le 25 août 2006, le Ministre a ratifié la nouvelle cotisation, d’où le présent appel.
+[7] Le seul point en litige dans cet appel consiste à déterminer si le Ministre était justifié d’établir, à l’égard de l’appelant, une nouvelle cotisation en dehors de la période normale de nouvelle cotisation pour l’année d’imposition 2000 afin de fixer le montant du gain en capital imposable à 90 639 $ et de refuser la déduction pour gain en capital à l’égard des actions admissibles de petite entreprise au montant de 223 088 $ au motif que les actions de la société Tigertel n’étaient pas des actions d’une société privée sous contrôle canadien et qu’elles n’étaient pas déductibles en vertu du paragraphe 110.6(2.1) de la Loi.
+[8] La disposition de la Loi qui permet au Ministre d’établir une nouvelle cotisation en dehors de la période normale de nouvelle cotisation est le paragraphe 152(4) qui se lit comme suit :
+152(4) Cotisation ou nouvelle cotisation
+Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi.
+[9] L’appelant a pris sa retraite en l’an 2000 après une carrière d’une trentaine d’années à titre de patron du régime de retraite de la STM. Il était titulaire d’un baccalauréat en commerce des Hautes Études Commerciales de Montréal et a obtenu un prix d’économie durant sa carrière.
+[10] En tant que patron du régime de retraite, il avait la responsabilité de gérer les revenus de placements de près de 3 500 retraités. Il travaillait avec une équipe de gestionnaires, il embauchait des actuaires et veillait à la diversification des placements. Il semble que son implication fut profitable puisque les actifs du fonds de retraite sont passés de 30 millions à deux milliards et demi de dollars sous sa direction.
+[11] Sur le plan personnel, c’est en 1995 que l’appelant a commencé à gérer son propre portefeuille. L’appelant a toujours possédé un portefeuille personnel. Il déclare d’ailleurs être familier avec tout ça puisque c’était son métier. Par l’entremise de courtiers, il s’est mis à acheter des actions dans différentes sociétés. C’était l’époque de ce qu’il a appelé les « médias technologies », qu’il qualifie de genre de centres d’appel. La société Contour Telecom Management Inc. en était une qui semblait prometteuse. C’est ainsi qu’en 1997 et 1998, il a fait l’acquisition de plus de 200 000 actions de Contour Telecom. Il a acheté en tout 233 000 actions entre le 28 mai 1997 et le 26 octobre 1998. En voici les détails :
+Le 28 mai 1997 10 000 actions achetées
+Le 29 mai 1997 10 000 actions achetées
+Le 9 juin 1997 7 000 actions achetées
+Le 23 juillet 1997 11 000 actions achetées
+Le 29 juillet 1997 10 000 actions achetées
+Le 15 octobre 1997 10 000 actions achetées
+Le 4 mars 1998 50 000 actions achetées
+Le 30 mars 1998 100 000 actions achetées
+Le 26 octobre 1998 25 000 actions achetées
+Le 13 janvier 1997 25 000 actions vendues
+En 1997 8 000 actions vendues
+Le 13 janvier 1999, il a vendu 33 000 actions et détenait donc à ce moment là 200 000 actions au total.
+[12] Les actions de Contour Telecom ont toutes été achetées par l’entremise de courtiers du Groupe financier Banque Royale du Canada ou de Canadian Investors Protection Fund. C’est un dénommé Leblanc qui aurait parlé à l’appelant de Contour Telecom. Monsieur Leblanc est gestionnaire et spécialiste dans la constitution de portefeuilles de petites et moyennes entreprises. Les actions de Contour Telecom se transigeaient à travers le Canadian Dealing Network (CDN) et le CDN n’est pas coté à la bourse. Les sociétés dont les actions sont transigées par CDN ne sont donc pas considérées comme étant des sociétés publiques aux fins de la Loi. Contour Telecom était donc une société canadienne.
+[13] En septembre 1999, Contour Telecom et Tigertel se sont fusionnées. L’appelant aurait appris la nouvelle du courtier Leblanc. Selon l’appelant, cet évènement n’a pas fait la manchette des journaux. Il en est résulté que les 200 000 actions de Contour Telecom sont devenues 50 000 actions de Tigertel et, selon l’appelant, il ne s’est pas posé de questions à ce sujet. Il a ajouté que, s’il y avait des Américains dans le décor, il n’a pas été mis au courant de cela. L’appelant reconnaît toutefois qu’il a reçu une trentaine de documents de différentes sociétés et qu’il a peut être reçu de la documentation concernant la fusion mais qu’il ne lisait pas toute cette documentation. Selon l’appelant, la période en question se situait au tournant de l’an 2000 et, dans ce contexte, les évènements se bousculaient.
+[14] En novembre 1999, il a reçu une offre d’achat pour ses 50 000 actions de Tigertel et, le 10 janvier 2000, l’appelant a vendu ses actions, réalisant ainsi un gain assez important.
+[15] L’appelant remplit ses propres déclarations de revenu. Selon son témoignage, il suit le formulaire ligne par ligne et consulte le guide. Il a déclaré pouvoir en apprendre à ceux dont le métier est de préparer les déclarations de revenus et ne voyait pas pourquoi il payerait des spécialistes pour préparer la sienne.
+[16] L’appelant a témoigné qu’il s’est fondé sur un article publié dans le journal Globe and Mail en septembre 1999 pour choisir le traitement fiscal à accorder à sa vente d’actions de Tigertel. Selon lui, Contour Telecom était une compagnie canadienne qui le rendait admissible à une exemption sur le gain en capital jusqu’à 500 000 $. Il avait conservé cet article dans ses dossiers depuis sa publication et, en consultant le guide lors de la préparation de sa déclaration de revenus pour l’an 2000, il croyait avoir droit à cette exemption. Il a ajouté dans son témoignage que, jusqu’à la vente de ses actions de Tigertel, il ne connaissait rien de cette société, n’ayant jamais rien reçu de Tigertel. Il recevait cependant des rapports trimestriels de ses placements de monsieur Leblanc.
+[17] La déclaration de revenus de l’appelant a été déposée en preuve. À la ligne 127 de sa déclaration où l’on inscrit le gain en capital imposable, on demande de remplir et de joindre l’annexe 3. L’appelant n’a pas rempli l’annexe 3, préférant soumettre une feuille jointe à sa déclaration où il a indiqué la vente des actions de Tigertel et le gain réalisé. Il a affirmé, que la plupart du temps, il n’a jamais rempli l’annexe 3 parce qu’il n’y avait pas assez d’espace et qu’il faisait ça à sa manière depuis plusieurs années. Selon l’appelant, il a consulté le guide qui renseigne le lecteur au sujet d’une déduction pour gain en capital à la ligne 254, qui renvoit à la déduction pour gains en capital sur les gains réalisés sur des dispositions d’actions admissibles d’une petite entreprise.
+[18] L’intimée a déposé en preuve le formulaire T-657 qui permet le calcul de la déduction pour gains en capital pour l’année d’imposition 2000. L’Agence du Revenu recommande d’utiliser le formulaire si un contribuable dispose de biens agricoles admissibles ou d’actions admissibles de petites entreprises. Le formulaire contient également des renseignements importants pour le contribuable, tel que celui voulant que, si un contribuable a un revenu de placement, il devrait remplir un autre formulaire, soit le T-936, qui est le calcul de la perte nette cumulative sur placements (PNCP) au 31 décembre 2000. L’appelant n’a pu dire s’il avait pris connaissance du formulaire T-657. Il ne l’avait pas utilisé au motif que, selon lui, tout était transparent. Il a aussi admis ne pas avoir rempli l’autre formulaire, soit le T‑936. Il a déclaré avoir fait sa déclaration de façon méthodique.
+[19] Interrogé sur sa déclaration, il a reconnu ne pas avoir fait le calcul de son revenu imposable à la ligne 260, préférant laisser au Ministère du Revenu le soin de finaliser les calculs et de l’établir à 227 075 $.
+[20] Au moment de la vérification par Revenu Québec, l’appelant a été informé, le 1er avril 2004, du fait qu’il n’avait pas droit à cette déduction au motif que les actions de Tigertel n’étaient pas des actions d’une société privée sous contrôle canadien. Dans sa réponse, l’appelant demandait un délai pour effectuer ses propres recherches et consulter un spécialiste qui lui aurait confirmé ce fait par la suite.
+[21] Du côté de l’intimée, le vérificateur de Revenu Québec est venu expliquer son travail et surtout le résultat de la vérification. C’est après une discussion avec le représentant de l’appelant que des redressements pour 1999 et 2000 ont été effectués; le premier visant la conséquence fiscale de la fusion et le deuxième visant l’éxonération. Revenu Québec a aussi obtenu de l’appelant une renonciation lui permettant de cotiser après la période normale de cotisation. Le vérificateur a fait remarquer que le dossier de l’appelant était complexe mais que la déduction d’une perte importante déclarée par l’appelant dans un de ses placements était assez particulière compte tenu de l’application des critères permettant l’exonération des gains en capital pour les actions de Tigertel. L’attention du vérificateur s’est portée également sur la question de savoir si le contribuable déclarait tous ses revenus. Le dossier fut par la suite remis à Revenu Canada.
+[22] Le dossier de l’appelant a été confié à madame Maryse Lévesque, agent d’examen au bureau de l’Agence du Revenu. Elle a examiné la déclaration de l’appelant, ses gains et pertes en capital et les exonérations demandées. Elle a vérifié les annexes et a constaté que l’annexe 3 n’avait pas été remplie. Selon son témoignage, si l’annexe 3 avait été remplie, elle aurait pu facilement constater les erreurs dans les chiffres et les calculs qui étaient différents. Elle a également réalisé que la déduction demandée représentait un gros montant et que le fait qu’elle ne soit pas applicable allait augmenter considérablement le gain en capital du contribuable.
+[23] Elle a donc préparé un projet de cotisation et a fait parvenir une lettre à l’appelant et son représentant et n’a reçu aucune nouvelle de ces derniers. Elle a donc cotisé l’appelant en conséquence.
+[24] Il s’agit donc de déterminer si l’appelant a fait une présentation erronée des faits par négligence, inattention ou omission volontaire en produisant sa déclaration de revenus pour l’année 2000. Dans l’affirmative, le Ministre serait ainsi autorisé à le cotiser après la période normale de cotisation. Il incombe au Ministre de faire cette preuve selon la prépondérance des probabilités.
+[25] L’objectif visé par le paragraphe 152(4) a été très bien résumé par le juge Strayer de la Cour d’appel fédérale dans l’arrêt Nesbitt c. Canada, [1999] A.C.F. no 1470 où, au paragraphe 8 de la décision, il écrit :
+Il me semble que l'un des objets du paragraphe 152(4) est de favoriser l'établissement soigné et exact des déclarations de revenus. C'est au moment où la déclaration est produite que l'on peut déterminer s'il y a eu ou non présentation erronée de faits par négligence ou inattention en remplissant la déclaration. Des faits ont été présentés erronément s'il se trouve un élément inexact dans la déclaration, du moins un élément qui est important pour les fins de la déclaration ainsi que de toute nouvelle cotisation ultérieure. Cela demeure une présentation erronée de fait même si le ministre pourrait relever ou relève effectivement l'erreur dans la déclaration en procédant à une analyse attentive des documents justificatifs. Le caractère autodéclaratif du système fiscal serait miné si les contribuables pouvaient remplir avec négligence les déclarations tout en fournissant dans les documents de travail des données de base exactes, en espérant que le ministre ne trouve pas l'erreur mais que, si cela arrivait dans les quatre années suivantes, la pire conséquence serait l'établissement d'une nouvelle cotisation exacte à ce moment-là.
+[26] Il ne fait aucun doute, en l’espèce, qu’il y a eu présentation erronée des faits par l’appelant lorsqu’il a produit sa déclaration de revenus pour l’année d’imposition 2000. Non seulement y a-t-il des calculs laissés incomplets et une annexe non remplie mais, d’abord et avant tout, il y a eu déduction non admissible de gains en capital résultant de la disposition d’actions. S’agit-il en l’espèce d’une erreur de bonne foi?
+[27] L’avocat de l’appelant a fait valoir que son client avait agi avec soin et prudence en produisant sa déclaration de revenu pour l’année en question. Il s’agit d’une erreur honnête qui visait la qualification d’un produit, à savoir que ses actions dans Tigertel n’étaient pas admissibles à l’exonération. Il a poursuivi en affirmant que l’appelant est un contribuable instruit qui croyait avoir droit à cette exonération à la lumière des conseils que lui avait prodigués monsieur Leblanc et de l’article paru dans le Globe and Mail. Il a ajouté que la Loi n’exige pas du contribuable qu’il ait recours à un expert comptable pour préparer sa déclaration de revenus ni oblige-t-elle un contribuable à effectuer des recherches sur Internet et à se renseigner sur la question du contrôle de la société dont il est actionnaire. En l’espèce, l’appelant n’avait aucune raison de croire que la société Tigertel était contrôlée par des intérêts américains en raison du fait que la fusion de Contour Telecom et de Tigertel avait été effectuée par des tiers et que cette fusion échappait au contrôle de l’appelant.
+[28] De son côté, l’avocat de l’intimé a fait valoir que la formation et l’expérience de travail de l’appelant dans le domaine de la gestion des placements appuient la thèse qu’il a fait preuve de négligence. La formation en économie de l’appelant et sa carrière lui permettent d’être au courant des évènements et font de l’appelant un contribuable averti. Il s’agit en l’espèce d’un gain en capital important ce qui fait que l’enjeu, soit la question de savoir si le contribuable est admissible à l’exonération, est de taille. L’avocat de l’intimée a fait valoir également que l’appelant n’a pas suivi le guide ni rempli l’annexe 3 qui permet à l’Agence d’inscrire les données dans son système et qu’il ne s’agit pas en l’espèce que d’une simple erreur. En conclusion, il a soutenu que l’appelant ne traitait pas ses affaires fiscales avec diligence.
+[29] Le jugement qui est cité dans presque toutes les décisions sur cette question est la décision Venne c. Canada, [1984] A.C.F. no 314, où le juge Strayer, qui était juge de la Cour fédérale à l’époque, a résumé les pouvoirs du ministre en vertu du paragraphe 152(4) de la Loi comme suit :
+Je suis convaincu qu'il suffit au Ministre, pour invoquer son pouvoir en vertu de l'alinéa 152(4) a)(i) de la Loi, de démontrer la négligence du contribuable, à l'égard d'un ou plusieurs éléments de sa déclaration de revenus au titre d'une année donnée. Cette négligence est établie s'il est démontré que le contribuable n'a pas fait preuve de diligence raisonnable. C'est sûrement là le sens des termes "présentation erronée des faits, par négligence", en particulier avec d'autres motifs comme l'inattention ou l'omission volontaire qui font référence à un degré de négligence plus élevé ou à une mauvaise conduite délibérée. Sauf si ces termes étaient superflus dans cet article, hypothèse que je ne puis accepter, le terme "négligence" impose un critère moins strict de faute, semblable à celui qui est utilisé dans les autres domaines du droit, comme la responsabilité délictuelle. Voir Jet Metal Products Limited c. le ministre du Revenu national (1979) 79 DTC 624, pp. 636-37 (C.R.I.).
+[30] Les contribuables canadiens ont donc tous une obligation de faire preuve de diligence raisonnable et de s’assurer, au moment de produire leur déclaration, que les renseignements donnés dans leur déclaration et les documents sont exacts, complets et révèlent la totalité de leurs revenus. Le contribuable d’ailleurs atteste ce fait en signant sa déclaration. C’est donc le manquement à cette obligation qui constitue la négligence ou l’inattention visée au paragraphe 152(4) et qui permet au Ministre de cotiser en dehors de la période normale de cotisation. La présentation erronée de faits doit porter sur un élément important pour les fins de la déclaration ainsi que de toute nouvelle cotisation ultérieure comme le dit le juge Strayer dans l’arrêt Nesbitt, précité.
+[31] En l’espèce, l’appelant a signé sa déclaration de revenu le 27 avril 2001, soit près de 14 mois après la vente de ses actions dans Tigertel. Il a affirmé avoir demandé la déduction après s’être fié aux propos de monsieur Leblanc et à un article paru dans le Globe and Mail en septembre 1999 et qu’il l’avait conservé jusqu’à la préparation de sa déclaration. Par ailleurs, il a dit qu’il ignorait que Tigertel était une filiale à 100% d’une société publique américaine, soit Applied Digital Solutions Inc.
+[32] J’ai devant moi un contribuable qui a passé toute sa carrière professionnelle à gérer des fonds de pension et à effectuer divers placements dans l’exécution de ses fonctions et qui gère lui-même depuis plusieurs années son propre portefeuille de placements. Il est difficile de croire qu’une personne oeuvrant dans ce domaine ne connaisse pas le rouage de certains placements et surtout les avantages fiscaux ou les conséquences fiscales de ces placements. Il ne fait aucun doute que l’achat d’actions admissibles de petites entreprises comporte parfois un risque élevé mais n’oublions pas que l’incitatif que représente la déduction prévue au paragraphe 110.6(2.1) de la Loi les rend tout de même considérablement intéressantes.
+[33] À mon avis, l’appelant, lors de l’acquisition de toutes ses actions de Contour Telecom, n’était pas sans connaître la déduction disponible au cas où il réaliserait un gain lors de leur disposition. Il est difficile de croire qu’à la réalisation d’un gain aussi substantiel lors de la disposition de ses actions de Tigertel, l’appelant ne se soit pas questionné sur son admissibilité à cette déduction entre ce moment, soit le 10 janvier 1999, et la signature de sa déclaration de revenu, le 27 avril 2001. L’appelant est loin d’être un néophyte dans ce domaine.
+[34] L’appelant a choisi de préparer lui-même sa déclaration de revenus pour l’année d’imposition 2000 et ce choix lui appartient. Il a témoigné être aussi compétent qu’un préparateur de déclarations de revenus et qu’il ne voyait pas pourquoi il payerait des spécialistes et c’est son choix également. L’appelant doit cependant fournir tous les renseignements exigés et remplir le formulaire de déclaration de revenu et les annexes qui l’accompagnent et effectuer les calculs. Même si l’appelant soutient qu’il prépare sa déclaration ligne par ligne en suivant le guide, il est évident en l’espèce qu’il ne l’a pas fait. Dans la préparation d’une déclaration de revenus, il ne suffit pas de simplement donner l’information à l’Agence et lui laisser le soin de faire les calculs ou encore de demander des déductions sans se soucier de savoir si on y a réellement droit.
+[35] À mon avis, l’appelant n’était pas sans savoir que, pour avoir droit à la déduction, ses actions devaient être admissibles et, s’il avait en sa possession, lors de la préparation de sa déclaration de revenu, l’article du Globe and Mail, il aurait sûrement constaté qu’il lui fallait détenir les actions pendant 2 ans avant de pouvoir demander la déduction en vertu du paragraphe 110.b(1). Or, la majeure partie de ses actions, soit au total 175 000 actions, ont été achetées à partir du 4 mars 1998.
+[36] Il est du devoir de chaque contribuable de préparer sa déclaration de revenus avec soin en fournissant des renseignements qui sont exacts et complets, comme il doit d’ailleurs l’attester en signant sa déclaration de revenu. Lorsqu’un contribuable demande une déduction, il doit faire plus que simplement penser qu’il y a droit, particulièrement lorsque l’avantage que lui procure cette déduction est important. Une simple vérification en l’espèce aurait permis à l’appelant de constater que la conséquence de cette fusion rendait ses nouvelles actions inadmissibles en vertu du paragraphe 110.6(2.1) de la Loi.
+[37] Je réitère les propos du juge Strayer dans l’arrêt Nesbitt, précité, que j’ai reproduits au paragraphe 25 des présents motifs et je conclus en l’espèce, qu’à mon avis, il y a eu présentation erronée de la part de l’appelant au moment où il a produit sa déclaration de revenus pour l’année d’imposition en question en ce sens qu’il a demandé une déduction à laquelle il n’avait pas droit et que cette présentation erronée a été faite par négligence de sa part. À mon avis, si on exige des contribuables un effort raisonnable de déclarer tous leurs revenus, il en va de même lorsqu’il s’agit de réclamer des déductions.
+[38] L’appel est rejeté avec dépens.
+Signé à Montréal (Québec), ce 8e jour de septembre 2008.
+« François Angers »
+Juge Angers
+RÉFÉRENCE : 2008 CCI 427
+Nº DU DOSSIER DE LA COUR : 2006-3317(IT)G
+INTITULÉ DE LA CAUSE : Claude Dalphond et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 1er mai 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : le 8 septembre 2008
+COMPARUTIONS :
+Avocat de l'appelant :
+Me Serge Fournier
+Avocat de l'intimée :
+Me Mounes Ayadi
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom : Me Serge Fournier
+Cabinet : BCF s.e.n.c.r.l.
+Montréal (Québec)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

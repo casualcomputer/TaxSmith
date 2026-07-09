@@ -1,0 +1,111 @@
+Title: King v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27997/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-437-27997-king-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-07-02
+
+# King v. M.N.R.
+
+- Citation: 2003 TCC 437
+- Decision date: 2003-07-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1779, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+King v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-02
+Neutral citation
+2003 TCC 437
+File numbers
+2002-4298(EI)
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4298(EI)
+BETWEEN:
+LAURIE KING,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 18, 2003 at Fredericton, New Brunswick
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Dorena Gillis
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister, on the appeal made to him under section 91 of that Act, is confirmed.
+Signed at Ottawa, Canada, this 2nd day of July, 2003.
+"Gerald J. Rip"
+Rip, J.
+Citation: 2003TCC437
+Date: 20030702
+Docket: 2002-4298(EI)
+BETWEEN:
+LAURIE KING,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, J
+[1] Laurie King has appealed from a decision of the Minister of National Revenue ("Minister") dated August 2, 2002, that her employment by Michael Cleghorn operating as M.C. Hammer during the period December 24, 2001 to January 11, 2002 ("relevant period") was not insurable or pensionable employment "because the contract of employment between [her] and Michael Cleghorn was not genuine". The Minister concluded, based on information provided, that Ms. King and Mr. Cleghorn were not dealing with each other at arm's length because the terms and conditions of employment were not the result of real bargaining by an employer and an employee with separate interests in a functioning labour market.
+[2] Before December 24, 2001, Ms. King had been employed by two other employers during the year, Hoyt Orchards Ltd. for the period May 9 to June 29 and A.D. Fiander Associates Ltd. for the period September 7 to December 19. She declared that she sought employment with Mr. Cleghorn, her first cousin, because she wished to earn money for Christmas and not, as the Minister alleges, for the purpose of working an additional 82.5 insurable hours to qualify for employment insurance benefits. Apparently Ms. King had records of employment for 827.5 insurable hours, she required 910 hours to qualify for benefits.
+[3] Ms. King stated that she worked eight hours a day for 13 days during the relevant period. During the six days in the period December 24, 2001 to January 2, 2002, inclusive, except for Christmas, Saturday and Sunday, she said her first job with Mr. Cleghorn was to paint a three-bedroom house on Connaught Street in Fredericton, New Brunswick. Because she had no prior painting experience, it took her longer to paint the apartment than it would an experienced painter. On January 3, 2002, Ms. King painted some cabinetry and a bathroom in Mr. Cleghorn's shop. She took two days; on one day she spent one‑half day painting and the afternoon doing other work. On January 7, 2002, she started work as a jobsite helper, lugging materials around a jobsite on York Street in Fredericton and cleaning up. She was laid off on January 11, 2002 because, she said, there was no work for her. A few days later, Ms. King said, Mr. Cleghorn laid off his two other employees.
+[4] Ms. King testified Mr. Cleghorn offered her a job because he was looking for someone to replace one of his employees, Shawn Bourque, who planned to take a few days off. Mr. Bourque did take five days off from work, the last five days Ms. King worked for Mr. Cleghorn. On the other days that she worked for Mr. Cleghorn, Mr. Bourque also worked.
+[5] According to Ms. King all of Mr. Cleghorn's employees, including her, received $10 an hour for their work, even though two of the other employees had more experience than she did. The other employees, Shawn Bourque and Chris Nicholson did renovation work and carpentry: they were not licensed carpenters. Ms. King described them as "carpenter's helpers", "labourers". Mr. Nicholson had worked for Mr. Cleghorn since he started his business about seven years earlier. Ms. King asserted she was able to do carpentry as well.
+[6] The Ruling Officer from the Canada Customs and Revenue Agency ("CCRA"), Mr. Tim Lawton, questioned Ms. King and Mr. Cleghorn in separate telephone calls. There were some conflicts in their interviews, according to Mr. Lawton. For example, at first Ms. King said she worked on only one job, on Connaught Street. She said she painted the wall and ceilings of three rooms. Mr. Cleghorn said she painted the whole Connaught Street apartment consisting of five rooms, as well as cabinets and the bathroom in his shop. Mr. Lawton testified Mr. Cleghorn told him this only took one-half day. She also worked on the construction site on York Street. Ms. King did not know what rooms she painted on the Connaught Street property because the apartment was empty of furnishings. Ms. King only painted walls and ceilings, she did not paint any trim. Mr. Cleghorn did not supervise Ms. King's work at Connaught Street, but only checked her work at the end of the day.
+[7] Ms. King also denied she originally informed Mr. Lawton that Mr. Cleghorn was present with her on the Connaught Street worksite. However, he was on the York Street site during the five days she worked there. Mr. Cleghorn told Mr. Lawton he was not sure of Ms. King's hours. Ms. King acknowledged that she set her own hours of work, from 8:00 a.m. to 4:30 p.m. or 5:00 p.m., depending on how long she took for lunch. She kept track of her hours at the Connaught Street site, Mr. Cleghorn kept track of her hours on York Street.
+[8] In making the ruling, Mr. Lawton questioned why 13 days of employment were required to paint six rooms and a cabinet.
+[9] The CCRA also questioned whether Ms. King was paid for her services. She said she was. Her fiance, Mr. David Anderson, recalled taking her to the bank one day to cash a cheque; he also visited the York Street site during lunch on two occasions to deliver coffee to Ms. King. Ms. King had the T-4 tax form with her at trial as proof she received payment but did not have any cheque stub, bank book or other record to confirm payment of the wages.
+[10] The Minister also assumed that in his 2001 taxation year. Mr. Cleghorn reported business income of $20,135 and a net loss of $2,554. Therefore, the respondent's agent questioned whether Mr. Cleghorn would pay an inexperienced person, Ms. King, the same hourly wage as his experienced employees at a time when he was suffering financially.
+[11] Mr. Cleghorn was not called as a witness.
+[12] The first question I must answer is whether Ms. King was employed by Mr. Cleghorn under a contract of service and therefore was employed in insurable employment with Mr. Cleghorn within the meaning of paragraph 5(1)(a) of the Employment Insurance Act ("Act"). If I find that they were so engaged I must then consider if, on the facts, whether or not they were dealing with each other at arm's length.
+[13] On the evidence before me, namely the testimony of Ms. King, herself, and the information Mr. Lawton was able to obtain from Ms. King and Mr. Cleghorn, I find that Ms. King did work for Mr. Cleghorn during the relevant period. Ms. King declared she got paid for her work; there is no evidence to the contrary except for the Minister assuming she did not. I am reluctant to adopt the Minister's assumption of fact as an absolute fact when a taxpayer denies the assumption and the Minister's counsel does not lead evidence attacking the taxpayer's credibility. In such a circumstance, the appellant has satisfied the onus. I therefore conclude that Ms. King worked for Mr. Cleghorn for wages and her earnings were calculated by time at $10 per hour. She was therefore engaged in employment, as defined by subsection 5(1) of the Act, during the relevant period.
+[14] However, there is no evidence that the Minister did not exercise her discretion properly when she concluded that Ms. King and Mr. Cleghorn were not engaged in insurable employment because they were not dealing with each other at arm's length: paragraph 5(2)(e) of the Act.
+[15] I agree with the Minister's conclusion that having regard to all of the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and nature of the work, it was reasonable to conclude that Mr. Cleghorn would not have entered into a substantially similar contract of employment if he and Ms. King had been dealing with each other at arm's length: subsection 5(3) of the Act.
+[16] In the first place, I doubt whether Mr. Cleghorn would have hired someone with Ms. King's skills - or lack thereof - to paint the Connaught Street apartment and pay her for six days work when he could have the job done in less time and pay the same hourly rate. Secondly, Ms. King said she was hired to replace Mr. Bourque who was scheduled to be away for five days. But for eight days she worked at the same time as did Mr. Bourque; it was during the last five days of her employment that Mr. Bourque was absent. Thirdly, Ms. King was paid the same hourly rate as Mr. Cleghorn's other two employees who were with him longer and were more experienced than Ms. King. Fourthly, as a new employee, Ms. King was not supervised, and she set her own hours, at least for the first six days of her employment. This is not indicative of an arm's length employment relationship.
+[17] The appeal is therefore dismissed.
+Signed at Ottawa, Canada, this 2nd day of July, 2003.
+"Gerald J. Rip"
+Rip, J.
+CITATION:
+2003TCC437
+COURT FILE NO.:
+2002-4298(EI)
+STYLE OF CAUSE:
+Laurie King v. The Minister of National Revenue
+PLACE OF HEARING:
+Fredericton, New Brunswick
+DATE OF HEARING:
+June 18, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. J. Rip
+DATE OF JUDGMENT:
+July 2, 2003
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Dorena Gillis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

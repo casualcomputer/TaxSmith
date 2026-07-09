@@ -1,0 +1,149 @@
+Title: Deoram v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521523/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-151-521523-deoram-v-the-king.md
+Document type: case_law
+Last modified: 2025-10-17
+
+# Deoram v. The King
+
+- Citation: 2025 TCC 151
+- Decision date: 2025-10-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5431, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Deoram v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-10-17
+Neutral citation
+2025 TCC 151
+File numbers
+2024-1700(IT)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-1700(IT)I
+BETWEEN:
+MUNESHWAR DEORAM,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on September 16, 2025, at Toronto, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jacky Chiu
+Iris Kingston
+JUDGMENT
+The Appellant’s appeal of the reassessment of his 2018 taxation year is dismissed.
+Signed this 17th day of October 2025.
+“David E. Graham”
+Graham J.
+Citation: 2025 TCC 151
+Date: 20251017
+Docket: 2024-1700(IT)I
+BETWEEN:
+MUNESHWAR DEORAM,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] In 2018, Muneshwar Deoram participated in a scheme known as the WayPoint Vacation Program. He spent $20,390 to purchase a membership in what he understood to be a timeshare vacation program offered by WayPoint Vacation Co-operative Ltd. (“WayPoint”). He was told that every year he would receive one week of free accommodation at a selection of resort properties around the world. He also understood that, because the scheme involved some sort of investment in an RSP, he would be able to claim an RSP deduction.
+[2] The Minister of National Revenue reassessed Mr. Deoram to deny his RSP deduction on the basis that the WayPoint Vacation Program was an unregistered tax shelter.
+[3] I will first review the transactions that Mr. Deoram entered into and then determine whether the reassessment was appropriate.
+A. The Transactions [4] In December 2018, Mr. Deoram’s wife told him she had received a phone call inviting her to attend a seminar on vacation timeshares. She explained that she had been promised a free one-week vacation if she stayed through the entire presentation. They decided to attend.
+[5] Mr. Deoram liked what he heard at the seminar. He signed a number of documents on the spot and paid the purchase price with his credit card.
+[6] I found Mr. Deoram to be credible, though not always reliable. He has very little understanding of the specific transactions that he entered into. Where there was a conflict between Mr. Deoram’s testimony and the description of the transactions in the documents that he signed, I have preferred the description set out in the transaction documents.
+[7] The Respondent called Allen Schepens as a witness. Mr. Schepens is the Canada Revenue Agency compliance specialist who oversaw the audit of the WayPoint Vacation Program and all of its participants. I found him to be credible and reliable. I was, however, forced to exclude much of the evidence that the Respondent wanted to enter through Mr. Schepens on the grounds that it was hearsay. That said, I did accept his general description of how the WayPoint Vacation Program worked. That description matched Mr. Deoram’s transaction documents.
+[8] Based on Mr. Schepens’ description, Mr. Deoram’s transaction documents and the little information that Mr. Deoram was able to provide, I find that the following transactions occurred:
+(a)Mr. Deoram paid $20,390 to acquire a WayPoint membership. The membership entitled him to an annual allotment of points. He was supposed to be able to redeem those points for vacations at any of the timeshare properties covered by the program.
+(b)WayPoint then purported to issue a patronage dividend to Mr. Deoram for the same amount that he had just paid to acquire his membership. In other words, WayPoint purportedly returned to Mr. Deoram not simply its profits on the sale of his membership, but rather all of its revenue.
+(c)WayPoint purported to hold back $3,058 in withholding tax on the patronage dividend and issued a T4A slip to Mr. Deoram for that amount. The evidence suggests that WayPoint did not remit that amount to the CRA.[1]
+(d)Mr. Deoram then purchased 17,332 Class A preferred shares in WayPoint. He purported to pay for those shares using the $17,332 in net proceeds from the purported patronage dividend.[2]
+(e)Finally, Mr. Deoram contributed those shares to an RSP that WayPoint had arranged to be set up in his name for that purpose.
+(f)Mr. Deoram ultimately received an RSP contribution slip for $17,332 which he deducted when he filed his 2018 tax return.
+B. Issue [9] The sole issue in this appeal is whether the Minister was entitled to reassess Mr. Deoram after the end of his normal reassessment period.
+C. Was the statute barred issue raised? [10] The Respondent is not required to plead or establish the facts necessary for the Minister to have reassessed a taxpayer after the end of the normal reassessment period unless the taxpayer puts the late reassessment in issue (Naguib v. The Queen[3]).
+[11] Mr. Deoram did not raise that issue in his Notice of Appeal.
+[12] However, in the Reply, the Respondent specifically raised the issue of whether “the Minister was entitled to reassess the Appellant’s 2018 taxation year after the normal reassessment period”. Therefore, the issue is before me and I will consider it.
+[13] I would add that, in my view, it was appropriate for counsel for the Respondent to raise this issue in the Reply. In the Informal Procedure, it seems unbecoming the Crown to rely on taxpayers' ignorance of the normal reassessment period to allow the Minister to reassess with impunity. In my experience, the Respondent’s normal practice is to raise statute barred issues the same way that counsel for the Respondent did in this case. I applaud that approach.
+D. Burden of proof in opening a statute barred year [14] Subsection 152(4) of the Income Tax Act prevents the Minister from reassessing a taxpayer after the taxpayer’s normal reassessment period unless the Minister can fit into one of the numerous exceptions set out in the Act.
+[15] If the Minister wants to reassess beyond the normal reassessment period, the Respondent bears the burden of proving that one of those exceptions has been met (Vine Estate v. The Queen[4]). The Minister cannot rely on his assumptions of fact to do so.
+[16] The Respondent relies on the tax shelter provisions in paragraph 152(4)(b.1) to extend the period within which the Minister can reassess. In the alternative, the Respondent relies on the usual provisions in subparagraph 152(4)(a)(i) to extend the normal reassessment period as a result of a misrepresentation due to carelessness, neglect or wilful default.
+E. Requirements to use paragraph 152(4)(b.1) are not met [17] The Respondent says that the Minister was entitled to reassess Mr. Deoram beyond his normal reassessment period under paragraph 152(4)(b.1). That paragraph allows the Minister to reassess a taxpayer beyond the normal reassessment period if the taxpayer participated in a tax shelter and the tax shelter did not file a T5003 information return in accordance with subsection 237.1(7) as and when required.
+[18] Combining the requirements set out in those two provisions, I find that the Respondent bears the burden of proving the following:
+(a)the Waypoint Vacation Program is a “tax shelter”;
+(b)a promoter accepted consideration in respect of the tax shelter in 2018 or acted as a principal or agent in respect of the tax shelter in 2018;
+(c)the promoter did not file a T5003 as and when required;
+(d)no T5003 had previously been filed; and
+(e)either no T5003 has since been filed or the Minister reassessed Mr. Deoram within three years of the date a T5003 was filed.
+[19] I do not have to consider whether the Respondent has proven that the WayPoint Vacation Program was a tax shelter or that a promoter accepted consideration, because, even if it was and they did, the Respondent has not proven that WayPoint did not file a T5003.
+[20] The Respondent attempted to enter evidence through Mr. Schepens that WayPoint had never applied for a tax shelter identification number and therefore could not have filed a T5003. Mr. Schepens had no personal knowledge of this matter. He explained, however, that he had been informed by other employees of the CRA who had access to that information that it was true. This is hearsay so I did not allow the evidence in.
+[21] The Respondent asked that I relax the hearsay rules because Mr. Deoram’s appeal was brought under the Informal Procedure. While there are some limited circumstances where I am willing to relax the hearsay rules in Informal Procedure appeals, I only do so for relatively inconsequential matters, not for the key facts that a party needs to prove their case.
+[22] The Respondent further asked that I allow the evidence in through the principled approach to hearsay. That approach involves considering both necessity and reliability. I was unwilling to do so as there was no evidence of either. The Respondent was confusing expediency with necessity and the Minister’s trust of his own employees with reliability.
+[23] The Respondent could have entered this evidence directly through the other CRA employees. Alternatively, if Mr. Schepens had access to the relevant systems, he could have ascertained the information himself.
+[24] On the basis of all of the foregoing, I find that the Minister has not proven the facts necessary to rely on paragraph 152(4)(b.1) to reassess Mr. Deoram beyond the normal reassessment period.
+F. Application to subparagraph 152(4)(a)(i) [25] The Respondent argues, in the alternative, that the Minister was entitled to reassess Mr. Deoram under subparagraph 152(4)(a)(i).
+[26] Subparagraph 152(4)(a)(i) is the most common exception that the Minister uses to reassess beyond the normal reassessment period. It allows the Minister to do so if the taxpayer has made a misrepresentation attributable to carelessness, neglect or wilful default. The Minister has the burden of proving both that the taxpayer made a misrepresentation and that that misrepresentation was attributable to carelessness, neglect or wilful default (Vine Estate).
+Failing to file a T5004 is not a misrepresentation [27] The Respondent submits that Mr. Deoram made a misrepresentation by not filing a T5004 form.
+[28] Subsection 237.1(6) states that no amount may be deducted or claimed by a taxpayer in respect of a tax shelter unless the taxpayer files a T5004. That form contains certain prescribed information including the tax shelter’s identification number.
+[29] I do not have to decide whether the Respondent has proven that Mr. Deoram was required to file a T5004 because, even if he was, his failure to do so does not amount to a misrepresentation. Subparagraph 152(4)(a)(i) specifically refers to a misrepresentation made in filing a return or in supplying any information under the Act. It says nothing about not filing a prescribed form.
+[30] A contextual analysis of subsection 152(4) supports this interpretation. Paragraphs 152(4)(b.2), (b.5), (b.6), (b.7), (b.8), (b.91), (b.92) and (b.93) all provide for extensions to the normal reassessment period where a prescribed form has not been filed. If Parliament had intended that failing to file any prescribed form would be a misrepresentation, then there would be no need to include those paragraphs in the Act. Similarly, if Parliament had intended that failing to file a T5004 would extend the normal reassessment period, Parliament could easily have provided for such a failure in a similar paragraph. Presumably, Parliament did not think it was necessary to do so as the Minister could normally rely on paragraph 152(4)(b.2) to reassess beyond the normal reassessment period when a promoter did not file a T5003.
+[31] Based on all of the foregoing, I find that, even if Mr. Deoram was required to file a T5004, his failure to do so was not a misrepresentation. Therefore, the Minister could not use that failure to reassess Mr. Deoram’s 2018 tax year beyond the normal reassessment period.
+Claiming the RSP deduction was a misrepresentation [32] Based on the evidence that emerged at trial, the Respondent argued in the further alternative, that Mr. Deoram made a misrepresentation by claiming that he had contributed shares worth $17,332 to his RSP when, in fact, those shares were worthless. I agree.
+[33] Mr. Deoram believes he is a victim of fraud. He thinks that he was being conned from the minute someone from WayPoint phoned his wife. Based on the totality of the evidence, I find it more likely than not that he is right.
+[34] The evidence indicates that, from the moment Mr. Deoram gave WayPoint his $20,390, the money was gone. The membership, WayPoints, patronage dividend, withholding tax, Class A preferred shares and RSP contribution that followed appear to have been nothing more than paper. Mr. Deoram never received a vacation - not even the free trip his wife was promised for attending the sales seminar. His membership is worthless. The Class A preferred shares are worthless. The tax that was purportedly withheld on his behalf was never remitted.
+[35] Based on all of the foregoing, I find that the Class A preferred shares that Mr. Deoram contributed to his RSP were worth nothing right from the beginning. Therefore, Mr. Deoram made a misrepresentation when he claimed a $17,332 RSP deduction for transferring those shares to his RSP.
+[36] Having found that Mr. Deoram made a misrepresentation on his 2018 tax return, I must now determine whether that misrepresentation was attributable to carelessness, neglect or wilful default. I find that it was.
+[37] Mr. Deoram was more than careless. He did not read the transaction documents that he signed. He had little understanding of the transactions that he entered into. He sought no independent advice. He did not discuss the WayPoint Vacation Program with his accountant either before entering into it or when filing his return. He simply passed on the tax-filing instructions he had received from the promoters without question. He did not review his tax return prior to filing it.
+[38] A reasonable person would have suspected that the WayPoint Vacation Program was too good to be true. A reasonable person whose spouse had received an unsolicited phone call offering them the opportunity to buy a vacation timeshare would have approached the opportunity with caution. When that same person attended a meeting and learned that, if they bought the timeshare membership, they would somehow also be entitled to a tax deduction for making an RSP contribution, alarm bells would have begun ringing in their head. A reasonable person would know that they have to make a choice between saving for their retirement and going on vacation. They cannot use the same money to do both. The promise of such an unusual deduction would have put a reasonable person on alert that they needed to ask questions, needed to seek independent advice, needed to do anything but offer their credit card and their blind faith.
+[39] Accordingly, I find that the Minister can open Mr. Deoram’s 2018 tax year to deny his RSP deduction.
+G. Conclusion [40] Based on all of the foregoing, the appeal is dismissed.
+Signed this 17th day of October 2025.
+“David E. Graham”
+Graham J.
+CITATION:
+2025 TCC 151
+COURT FILE NO.:
+2024-1700(IT)I
+STYLE OF CAUSE:
+MUNESHWAR DEORAM v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 16, 2025
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+October 17, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Jacky Chiu
+Iris Kingston
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+BLANK
+Firm:
+BLANK
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] I reach this conclusion from Mr. Schepens' testimony that the entire proceeds of sale of the WayPoint memberships were transferred to a holding company and the fact that, when reassessing, the Minister reversed Mr. Deoram’s claim that $3,058 in tax had already been remitted on his behalf. It is unclear to me whether Mr. Deoram is also appealing whether the Minister was correct to reverse this amount. To the extent that he is appealing that change, he is raising the question of whether or not he has already paid some of his tax owing. This Court does not have jurisdiction to determine that issue (Neuhaus v. The Queen (2002 FCA 391)).
+[2] $17,332 = $20,390 patronage dividend paid less $3,058 in tax withheld.
+[3] 2004 FCA 40.
+[4] 2015 FCA 125, at para. 24 (cited with approval in Deyab v. The Queen, 2020 FCA 222, at para. 23).

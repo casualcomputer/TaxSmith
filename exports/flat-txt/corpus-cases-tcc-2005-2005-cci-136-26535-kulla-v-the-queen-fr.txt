@@ -1,0 +1,127 @@
+Title: Kulla v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26535/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-136-26535-kulla-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-02-25
+
+# Kulla v. The Queen
+
+- Citation: 2005 CCI 136
+- Decision date: 2005-02-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3217, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kulla v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-25
+Référence neutre
+2005 CCI 136
+Numéro de dossier
+2003-1672(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI136
+Date : 20050225
+Dossiers : 2003-1672(IT)G
+2003-1686(IT)G
+ENTRE :
+SANDIA MOUNTAIN HOLDINGS INC.
+et ELIZABETH KULLA,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Avocats des appelantes : Me Richard Fitzsimmons et Greg Baba (stagiaire)
+Avocat de l'intimée : Me Bobby Sood
+____________________________________________________________________
+MOTIFS DE L'ORDONNANCE
+(Rendus oralement à l'audience à
+Toronto (Ontario), le 15 décembre 2004)
+Le juge Miller
+[1] Au début d'une demande présentée par les appelantes, Sandia Mountain Holdings Inc. et Elizabeth Kulla, visant à obtenir la radiation de certaines parties de la réponse modifiée de l'intimée, en application de l'article 53 des Règles, l'intimée a invoqué l'applicabilité de l'article 8 des Règles, qui se lit comme suit :
+8 La requête qui vise à contester, pour cause d'irrégularité, une instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle-ci, ne peut être présentée, sauf avec l'autorisation de la Cour,
+a) après l'expiration d'un délai raisonnable après que l'auteur de la requête a pris ou aurait raisonnablement dû prendre connaissance de l'irrégularité, ou,
+b) si l'auteur de la requête a pris une autre mesure dans le cadre de l'instance après avoir pris connaissance de l'irrégularité.
+La position de l'intimée était que l'article 8 des Règles s'appliquait à ces questions et que la requête des appelantes ne pouvait pas être déposée, étant donné qu'elle n'a pas été présentée dans un délai raisonnable après que les appelantes eurent pris connaissance des irrégularités des actes de procédure. Quoi qu'il en soit, les appelantes avaient fait plusieurs autres démarches dans le cadre de l'instance.
+[2] La position des appelantes était que l'article 8 des Règles traitait des irrégularités et ce que les appelantes qualifient d'actes de procédures inappropriés vont au-delà des irrégularités. Par conséquent, l'article 8 ne s'applique pas et je devrais entendre leur demande sur le fond.
+[3] Il est utile d'examiner la chronologie des actes de procédure jusqu'à maintenant dans cette affaire. Les appelantes ont présenté leurs avis d'appel le 30 avril 2003. L'intimée a présenté sa réponse le 7 juillet 2003. Ensuite, le 28 juillet 2003, les appelantes ont présenté des demandes de précisions et des avis de requête visant à obtenir la radiation de certaines parties des réponses. Je souligne qu'un bon nombre des parties de réponses dont on a demandé la radiation en juillet 2003 sont les mêmes que celles mentionnées dans la requête actuelle des appelantes.
+[4] L'intimée a répondu aux demandes de précisions avant le 5 septembre 2003 et a produit des réponses modifiées le 1er octobre 2003. Le 15 octobre, les appelantes ont retiré leurs requêtes visant à obtenir la radiation de certaines parties des actes de procédure. En janvier 2004, les appelantes ont présenté leur liste de documents. En février, l'intimée a présenté sa liste de documents. En avril 2004, Me Sood a remplacé Me Calabrese à titre d'avocat de l'intimée.
+[5] Les parties ont tenu des interrogatoires préalables les 22 et 23 juin 2004. L'intimée a interrogé Mme Kulla pendant deux jours et les appelantes ont interrogé le témoin de l'intimée, M. Maciel, une soirée, pendant deux heures et demie. Des engagements ont été pris avant la fin d'août 2004. Le 30 novembre 2004, les appelantes ont présenté des avis de requête visant à obtenir la radiation de certaines parties des réponses modifiées.
+[6] Je conclus que les appelantes ont attendu trop longtemps et ont fait trop de démarches pour se voir accorder l'autorisation de la Cour aux termes de l'article 8 des Règles. Je suis convaincu que l'article 8 peut s'appliquer à une requête présentée aux termes de l'article 53. C'est-à-dire qu'une demande de radiation de certaines parties des actes de procédure est assujettie à ce qu'on appelle la règle de la nouvelle démarche.
+[7] Dans la décision Gee c. La Reine,[1] le juge Rip, après avoir fait mention de l'article 8 des Règles, affirme ce qui suit :
+En règle générale, lorsque le retard d'une requérante est aussi long que celui de l'appelante relativement à la présentation d'une requête en radiation ou qu'elle a pris des nouvelles démarches après que l'acte de procédure lui a été signifié, je rejette la requête de la requérante. [...]
+Dans le même ordre d'idées, le juge Bowman, dans la décision Imperial OilLimited et autres c. La Reine,[2] a mentionné ce qui suit :
+La règle de la « nouvelle démarche » fait partie des règles de pratique et de procédure au Canada et au Royaume-Uni depuis de longues années. La jurisprudence abonde sur ce qui constitue une nouvelle démarche, mais la règle se fonde sur l'idée que, si une partie répond à un acte de procédure, cela implique la renonciation à une irrégularité qui eût autrement pu être attaquée. [...]
+Cependant, le juge Rip et le juge Bowman ont tous deux examiné la requête en radiation des actes de procédure et n'ont pas appliqué l'article 8. Dans la décision Gee, le juge Rip a affirmé :
+[...] Toutefois, en l'espèce, la Réponse [à l'avis d'appel] comporte tant de lacunes que le fait de rejeter la requête mènerait à un interrogatoire préalable conflictuel et il prolongerait indûment l'instruction de l'appel. [...]
+De son côté, le juge Bowman a affirmé ce qui suit :[3]
+[...] une attaque élargie sur le droit d'appel des appelantes, contenant des allégations selon lesquelles cette cour n'est pas compétente, que les appels sont non fondés, vexatoires et constituent un recours abusif, ne représente pas simplement une contestation pour cause d'irrégularité.
+Je conclus que mes collègues considèrent les lacunes évidentes comme étant plus importantes que des irrégularités et que, pour ce motif, l'article 8 n'entre pas en jeu.
+[8] Est-ce que les appréhensions des appelantes concernant les actes de procédure de l'intimée dans ce cas-ci sont telles qu'elles vont au-delà des irrégularités, ce qui justifierait le recours à une demande de modification, après que les listes de documents ont été échangées et que des interrogatoires ont même eu lieu?
+[9] Le juge Rip s'inquiétait, entre autres, que si on refusait la demande de radiationdes actes de procédure, cela mènerait à des interrogatoires conflictuels. Il semble que la stratégie adoptée par les appelantes était de d'abord procéder aux interrogatoires conflictuels et, ensuite, de demander des modifications. Je crains que l'occasion se soit présentée aux appelantes au moment approprié (soit au cours de l'été 2003), mais qu'à ce moment-là, au lieu de donner suite à leur demande de radiation, elles ont décidé de poursuivre avec les deux étapes suivantes de la procédure.
+[10] À mon avis, à cette étape-ci, reprendre la demande de radiation serait une grave et importante transgression des règles régissant les actes de procédure, ce qui, à vrai dire, constituerait un abus de procédure.
+[11] Donc, examinons les préoccupations des appelantes concernant les actes de procédure. Bien qu'elles aient présenté neuf arguments venant contester le bien-fondé des actes de procédure, je relève quatre critiques majeures : (i) les observations de l'intimée ne correspondent pas exactement aux allégations des appelantes; (ii) les conclusions de droit ont été mal exposées lorsqu'elles ont été utilisées comme des hypothèses ou qu'elles n'ont pas été étayées par des faits; (iii) il y a eu de fausses déclarations vagues, surtout dans le cas de l'expression [TRADUCTION] « dépenses personnelles » ; (iii) il y a des éléments non pertinents.
+[12] Tout d'abord, je vais traiter de la question des admissions qui ne correspondent pas tout à fait aux allégations. Par exemple, dans le cas où les appelantes ont prétendu avoir fait des imputations de rajustement de fin d'exercice, l'intimée a admis les rajustements de fin d'exercice, mais a ajouté les mots [TRADUCTION] « pour réduire ses revenus » , qui ne font pas partie des allégations des appelantes. Bien qu'il puisse s'agir ici d'un exposé non convenable, je ne suis pas d'avis que ce soit plus grave qu'une irrégularité et c'est certainement quelque chose qu'un juge de première instance peut distinguer facilement.
+[13] Ensuite, en ce qui a trait aux conclusions de droit, malheureusement, c'est une erreur assez courante dans les actes de procédures. En l'espèce, je ne considère pas l'allégation des appelantes, selon laquelle il y a eu un exposé non convenablede conclusions de droit, comme étant importante ou grave. À titre d'exemple, les appelantes s'opposent à l'hypothèse de l'intimée selon laquelle les appelantes se sont vues conférer un avantage en tant qu'actionnaires. La position des appelantes est que la question de savoir si on leur a conféré des avantages en tant qu'actionnaires est une conclusion de droit. L'intimée soutient que c'est davantage une question de fait.
+[14] Je donne cet exemple non pas pour trancher la question, mais bien pour démontrer que l'opposition n'est pas à ce point incomplète qu'elle constitue un abus de procédure. Les autres préoccupations à ce sujet sont de nature semblable. Si on examine les actes de procédure que l'on peut, selon les appelantes, placer dans l'ensemble dans la même catégorie, je conclus qu'on peut plus facilement les considérer comme des irrégularités.
+[15] Troisièmement, la contestation qu'ont faite les appelantes des actes de procédure pour manque de précision aurait été traitée plus facilement si elle avait été faite par l'entremise d'une demande de précisions. Il s'agit ici d'une préoccupation qui concerne l'utilisation de l'expression [TRADUCTION] « dépenses personnelles » par l'intimée. Par exemple, l'hypothèse 15s) mentionne ce qui suit :
+[TRADUCTION]
+s) les entrées de fin d'exercice ont eu pour conséquence que Sandia a imputé à l'exercice les dépenses personnelles des appelantes dans ses livres pour les années d'imposition 1993 et 1994.
+Même si j'étais d'avis qu'il s'agissait d'une formulation vague, encore une fois, ce n'est pas une énorme erreur justifiant d'esquiver l'article 8 des Règles.
+[16] Enfin, en ce qui a trait aux oppositions fondées sur la non-pertinence, je n'admets pas l'affirmation des appelantes selon laquelle ces actes de procédure sont scandaleux. À vrai dire, je ne crois pas, en tant que juge des requêtes, être le mieux placé pour même trancher la question de la pertinence.
+[17] Je souligne ici les commentaires du juge Bowman dans la décision Niagara Helicopter c. Canada,[4] où il a conclu qu'il n'était pas opportun pour un juge des requêtes qui n'avait pas entendu de témoignages de décider de la pertinence des allégations contenues dans les actes de procédure. Le juge Bowman mentionne que ceci relève plutôt du juge présidant l'instruction.
+[18] Si j'examine la réponse de l'intimée dans son ensemble et que je tiens compte de toutes les oppositions des appelantes, je ne réussis tout simplement pas à déceler des erreurs abusives ou vexatoires justifiant d'accorder aux appelantes une deuxième possibilité de radier les actes de procédure. Il peut en effet y avoir des irrégularités, mais les appelantes ont décidé, il y a de cela un an, de ne pas contester ces dispositions. À mon avis, elles doivent maintenant assumer les conséquences de leur décision. L'article 8 des Règles les empêche, à cette étape-ci, de présenter une demande de radiation de certaines parties de la réponse.
+[19] Pour ces motifs, la requête en radiation des appelantes est rejetée. Les dépens de la demande sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 25e jour de février 2005.
+« Campbell J. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 24e jour d'avril 2006.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2005CCI136
+DOSSIERS DE LA COUR :
+2003-1672(IT)G et 2003-1686(IT)G
+INTITULÉ :
+Sandia Mountain Holdings Inc. et
+Elizabeth Kulla c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Les 14 et 15 décembre 2004
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge Campbell J. Miller
+DATE DE L'ORDONNACE :
+Le 18 janvier 2005
+COMPARUTIONS :
+Avocats des appelantes :
+Me Richard Fitzsimmons et
+M. Greg Baba (stagiaire)
+Avocat de l'intimée :
+Me Bobby Sood
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Nom :
+Me Richard Fitzsimmons
+Cabinet :
+Fitzsimmons & Company
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2003 DTC 1020, au paragraphe 11.
+[2] 2003 DTC 179, au paragraphe 20.
+[3] Précitée, au paragraphe 20.
+[4] [2003] C.C.I. No 65.

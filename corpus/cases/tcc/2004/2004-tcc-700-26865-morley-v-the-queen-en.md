@@ -1,0 +1,143 @@
+---
+title: "Morley v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26865/index.do"
+last_modified: "2004-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 700"
+citation2: ""
+neutral_citation: "2004 TCC 700"
+decision_date: "2004-10-15"
+language: "en"
+item_id: "26865"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 671
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:55:46.799000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "62c29639c58e83b69cf0ca968c8bea0d5a2c99c6379e9ddf5f7c4097fcbf4ced"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Morley v. The Queen
+
+- Citation: 2004 TCC 700
+- Decision date: 2004-10-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 671, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morley v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-15
+Neutral citation
+2004 TCC 700
+File numbers
+2000-3716(IT)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2000-3716(IT)G
+BETWEEN:
+DAVID MORLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeals heard on September 15, 16, 17, 18, 19, 22, 23, 24, 25, 26, 29
+and 30 and October 2 and 3, 2003, at Toronto, Ontario
+Before: The Honourable Justice Pierre Archambault
+Appearances
+Counsel for the Appellant:
+Sheldon Silver
+David Poore
+Counsel for the Respondent:
+Elizabeth Chasson
+Joel Oliphant
+Eric Noble
+_______________________________________________________________
+ORDER FOR COSTS
+The Respondent is entitled to all of her disbursements and two thirds of her other costs, in accordance with the attached Reasons for Order for Costs.
+Signed at Ottawa, Canada, this 15th day of October 2004.
+"Pierre Archambault"
+Archambault, J.
+Citation:2004TCC700
+Date: 20041015
+Docket:2000-3716(IT)G
+BETWEEN:
+DAVID MORLEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER FOR COSTS
+Archambault, J.
+[1] In my reasons for judgment issued in these appeals on April 13, 2004, I said that I would not be issuing an order as to costs prior to having given both sides an opportunity to make representations. A telephone conference was held on May 18, 2004. During that conference, the appellant's counsel offered to provide written submissions dealing with the issue of costs. The appellant's written submissions respecting costs were received on June 4, 2004. Those of the respondent were sent on June 14, 2004.
+[2] Despite the very able presentation made by counsel for the appellant and notwithstanding the best possible "spin" he could put on the facts of this case by arguing in particular that each party should bear its own costs of the appeal in view of the appellant's success in obtaining approximately 43%[1] of the total reassessment amount, the harsh reality is that the appellant lost badly in his appeal. This is so because, prior to the three-week hearing, the appellant was made an offer to settle the appeal out of court on the basis that the cost of the Software for the purpose of calculating capital cost allowance would be $1,984,750, but when I rendered judgment, I estimated that this cost could not exceed $960,000. The original offer was made on a without costs basis. The offer by the respondent was turned down through a counteroffer proposing a figure of $9 million as the cost and no assessment of penalties. So, not only was the appellant not successful in achieving recognition of a cost close to the $9 million figure, but he also got less than half of the amount offered by the respondent just prior to the hearing.
+[3] It is true that the original offer made by the respondent did not include an offer to abandon the penalties assessed pursuant to subsection 163(2) of the Income Tax Act (Act), but I do not have any doubt in my mind that had the appellant made a counteroffer to settle the appeals on the basis of a cost of $1,984,750 without penalties and with each party to bear its own costs, that counteroffer would have been accepted. This conclusion is supported by the fact that counsel for the respondent volunteered to drop the penalties before all the evidence had been entered.
+[4] Not only did the appellant lose more than half of the cost amount offered by the respondent prior to the hearing, but he also had to admit during the course of the hearing that the Software was acquired in 1993 and not 1992 and therefore would be subject to the half-year rule. In addition, he lost any claim to capital cost allowance for 1993, the year under appeal, as a result of the Software not being considered to be then available for use. Therefore, in my view, the gamble taken by the appellant in prosecuting his appeal turned out to be a very bad decision.
+[5] Counsel for the appellant also made a strong case that the appellant should be given special consideration in view of the harmful nature of the allegation of fraud or gross negligence underlying the assessment of penalties under subsection 163(2). The main source of authorities supporting this position is civil litigation. Like counsel for the minister, I believe that subsection 163(2) penalties are an administrative sanction designed to ensure compliance with the Act under Canada's self-assessing tax regime. Therefore, that situation is entirely different from the case of allegations made by a private individual in the context of civil litigation. I believe that, unfortunately, most people would not consider an allegation of fraud in tax matters to be very serious. It should also be stressed that the penalties under subsection 163(2) are assessed not only for fraud but also for gross negligence.
+[6] I should add that the appellant also accused the minister of violating his constitutional rights. Not only was that allegation never supported by any evidence, but the appellant, adopting a course of conduct different to the respondent's, did not consider it appropriate to abandon that line of argument. In the end, the introduction of evidence on the issue proved a waste of time, given that the evidence so introduced failed to support the violation of rights allegation. I also find it unfortunate that counsel for the appellant, having argued that the issue of the violation of the appellant's constitutional rights was more an issue to be dealt with in relation to the determination of costs, did not even raise it in his written submissions on costs.
+[7] Finally, I do believe that the respondent should not be entitled to 100% of its costs. A distinction must be made between her disbursements and her other costs. Given the failure of the appellant to consider favourably the offer made by counsel for the respondent, the main issue that had to be debated before this Court was the valuation of the Software. I believe that the disbursements incurred by the respondent were really necessary to advance its case. However, I do not believe that the respondent should be entitled to 100% of her other costs.
+[8] Counsel for the respondent made a fairly good case on the issue of valuation. However, I do not believe that the arguments put forward by counsel for the respondent were very helpful in pursuing the other issues, such as the available for use issue, the issue as to whether the Partnership carried on a business and the issue of the credibility of some of the appellant's witnesses, especially Mr. Morley and Mr. Gamble. I do not find acceptable that the respondent filed some 200 documents included in the Joint Book of Documents and yet counsel for the respondent in his argument only referred to one of them. I have nothing against parties believing over 400 documents to be relevant. However, one would expect that reference be made to these documents in arguing crucial issues such as whether or not the Partnership carried on a business and whether the Software was available for use in the 1993 taxation year. Not only did counsel for the respondent make only one reference to a particular exhibit, but he wrote only two short paragraphs on the issue of availability for use while devoting more than twice that number to an issue he decided to abandon in the middle of his argument. I believe that a strong message should be sent to any counsel representing any party: the courts expect counsel to refer to the documents introduced in a major trial such as this one in which the parties filed hundreds of exhibits representing several thousands of pages. It is unfair to just dump them on the table of the judge without subsequently referring to them. Given that one counsel for the respondent was not even aware of the content of some of these documents, one has to conclude that better preparation would certainly have shortened the hearing of this case. Thus, the respondent should be entitled to all of her disbursements and two thirds of her other costs.
+Signed at Ottawa, Canada, this 15th day of October 2004.
+"Pierre Archambault"
+Archambault, J.
+CITATION:
+2004TCC700
+COURT FILE NO.:
+2000-3716(IT)G
+STYLE OF CAUSE:
+David Morley and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+September 15, 16, 17, 18, 19, 22, 23,24, 25, 26, 29 and 30
+and October 2 and 3, 2003
+REASONS FOR ORDER BY:
+The Hon. Justice Pierre Archambault
+DATE OF ORDER:
+October 15, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Sheldon Silver
+and David Poore
+Counsel for the Respondent:
+Elizabeth Chasson
+Joel Oliphant
+and Eric Noble
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Sheldon Silver
+Firm:
+Goodmans, LLP, Barristers and Solicitors
+Toronto, Ontario
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] This 43% is made up of the penalty (33 1/3%), which was abandoned by the respondent during the course of the hearing, and of the $960,000 (10%), which the appellant thinks he will be able to amortize over future taxation years.

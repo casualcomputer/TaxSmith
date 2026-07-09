@@ -1,0 +1,805 @@
+Title: Lippert c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30081/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-484-30081-lippert-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-11-12
+
+# Lippert c. La Reine
+
+- Citation: 2010 CCI 484
+- Decision date: 2010-11-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7605, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lippert c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-12
+Référence neutre
+2010 CCI 484
+Numéro de dossier
+2009-2765(IT)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2765(IT)I
+ENTRE :
+MICHAEL LIPPERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus par conférence téléphonique les 7 et 8 juillet 2010 et en cour le 9 juillet 2010, à Calgary (Alberta).
+Devant : L’honorable juge François Angers
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Gregory Perlinski
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard de l’année d’imposition 2004 est rejeté conformément aux motifs du jugement ci‑joints.
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi à l’égard de l’année d’imposition 2005 est accueilli en partie, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation conformément aux motifs du jugement ci‑joints.
+Signé ce 12e jour de novembre 2010.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 6e jour de janvier 2011.
+Nathalie Gadbois, LL. L., LL. B.
+Référence : 2010 CCI 484
+Date : 20101112
+Dossier : 2009-2765(IT)I
+ENTRE :
+MICHAEL LIPPERT,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] L’appelant interjette appel des nouvelles cotisations concernant ses années d’imposition 2004 et 2005. Ses déclarations de revenus ont initialement fait l’objet d’une cotisation le 28 juin 2005 et le 10 juillet 2006 respectivement. Dans le calcul de son revenu pour les deux années d’imposition, l’appelant a déclaré des revenus d’entreprise nets de 31 111,55 $ et de 30 029,47 $ respectivement, tel que décrit plus bas.
+Voir les tableaux aux pages 2 et 3.
+Annexe a
+michael lippert
+Tableau comparatif des revenus et des dépenses d’entreprise
+Vérification
+de 2004
+vérification
+de 2005
+déduits
+refusés
+déduits
+refusés
+Revenu brut
+Ventes
+134 838,38
+134 838, 38
+-
+114 991,28
+114 991,28
+-
+Dépenses recouvrées
+-
+-
+-
+2 315,15
+2 315,15
+-
+total du revenu brut
+134 838,38
+134 838,38
+-
+117 306,43
+117 306,43
+-
+Coût des biens vendus
+stock d’ouverture
+-
+-
+-
+-
+-
+-
+achats
+-
+-
+-
+-
+sous‑traitance
+6 150,00
+7 028,00
+878,00
+760,00
+760,00
+-
+stock de clôture
+-
+-
+-
+-
+coût des biens vendus
+6 150,00
+7 028,00
+(878,00)
+760,00
+760,00
+-
+profit brut
+128 688,38
+127 810,38
+878,00
+116 546,43
+116 546,43
+-
+dépenses
+taxes et frais d’affaires
+1 984,53
+964,53
+1 020,00
+440,88
+1 272,88
+832,00
+coût de l’ordinateur
+779,95
+52,95
+727,00
+-
+livraison et transport
+3,50
+3,50
+-
+149,80
+149,80
+-
+location d’équipement
+10 503,78
+-
+10 503,78
+2 448,00
+-
+2 448,00
+prix de l’essence
+6 567,82
+6 321,82
+246,00
+8 866,54
+6 969,54
+1 897,00
+assurance
+8 380,80
+2 553,80
+5 827,00
+7 198,86
+3 189,86
+4 009,00
+intérêts
+23 337,38
+6 029,38
+17 308,00
+17 811,27
+4 639,27
+13 172,00
+frais juridiques et
+comptables
+-
+316,00
+316,00
+entretien et réparations
+4 205,01
+5 346,01
+1 141,00
+8 705,24
+5 360,24
+3 345,00
+frais de gestion et
+d’administration
+25 000,00
+-
+25 000,00
+2 000,00
+-
+2 000,00
+repas et frais de
+représentation
+1 271,95
+-
+1 271,95
+115,00
+115,00
+frais de bureau
+86,19
+86,19
+-
+7 704,10
+910,10
+6 794,00
+location
+525,00
+-
+525,00
+-
+fournitures
+240,39
+240,39
+-
+5 014,03
+-
+5 014,03
+sécurité
+-
+545,42
+-
+545,42
+téléphone et services
+publics
+1 611,20
+1 611,20
+-
+3 771,82
+-
+3 771,82
+frais de subsistance
+-
+9 100,00
+-
+9 100,00
+déduction pour
+amortissement
+9 271,21
+9 271,21
+-
+6 489,85
+6 489,85
+-
+total des dépenses
+93 768,71
+32 796,98
+60 971,73
+80 245,81
+29 096,54
+51 149,27
+Annexe a
+michael lippert
+Tableau comparatif des revenus et des dépenses d’entreprise
+Vérification
+de 2004
+vérification
+de 2005
+déduits
+refusés
+déduits
+refusés
+dépenses totales de
+93 768,71
+32 796,98
+60 971,73
+80 245,81
+29 096,54
+51 149,27
+revenu net avant les ajustements
+34 919,67
+95 013,40
+60 093,73
+36 300,62
+87 449,89
+51 149,27
+utilisation de la résidence à des fins professionnelles
+3 808,12
+790,05
+3 018,07
+6 271,15
+851,17
+5 419,98
+revenu net après les ajustements
+31 111,55
+94 223,55
+63 111,80
+30 029,47
+86 598,72
+56 569,25
+utilisation de la résidence à des fins professionnelles
+chauffage
+993,66
+992,66
+1,00
+2 756,53
+1 131,19
+1 625,34
+électricité
+1 648,92
+1 790,17
+141,25
+1 625,34
+1 625,34
+assurance
+349,40
+456,00
+106,60
+400,00
+494,00
+94,00
+internet
+519,35
+519,35
+600,00
+600,00
+câble
+780,46
+780,45
+800,00
+800,00
+entretien
+7 559,89
+7 559,89
+6 000,00
+6 000,00
+intérêt hypothécaire
+5 007,27
+3 968,82
+1 038,45
+18 349,24
+4 637,13
+13 712,11
+taxes foncières
+1 570,70
+1 570,70
+1 750,00
+1 569,83
+180,17
+téléphone
+610,97
+610,97
+700,00
+700,00
+total de l’utilisation de
+la résidence à des fins
+professionnelles
+19 040,62
+8 778,35
+10 262,27
+31 335,77
+9 457,49
+21 898,28
+moins : la portion
+personnelle
+15 232,50
+7 988,30
+7 244,20
+25 084,62
+8 606,32
+16 478,30
+plus : cf de l’année
+précédente
+-
+-
+-
+-
+-
+-
+utilisation nette de la
+résidence à des fins
+professionnelles
+3 808,12
+790,05
+3 018,07
+6 271,15
+851,17
+5 419,98
+montant déduit
+3 808,12
+790,05
+3 018,07
+6 271,15
+851,17
+5 419,98
+montant reporté
+-
+0,00
+0,00
+-
+0,00
+0,00
+20 %
+9 %
+20 %
+9 %
+montants assujettis à la pénalité prévue au par. 163(2)
+location d’équipement
+10 503,78
+2 448,00
+intérêt
+17 308,00
+13 172,00
+frais de gestion et
+d’administration
+25 000,00
+2 000,00
+fournitures
+-
+5 014,03
+utilisation de la résidence
+à des fins professionnelles
+3 018,07
+5 419,00
+55 829,85
+28 053,03
+paiement en trop au titre
+de la prestation fiscale
+pour enfants
+1 641,40
+1 601,20
+[2] Le 3 mai 2007, le ministre du Revenu national (le « ministre ») a établi de nouvelles cotisations à l’égard de l’appelant pour les deux années d’imposition et, se faisant, a augmenté le revenu d’entreprise net de l’appelant à 94 223,35 $ et 86 598,72 $ respectivement en réduisant le montant total des dépenses, tel que démontré ci‑dessus. Les dépenses ont été refusées par le ministre, soit parce qu’elles n’ont pas été payées, soit, si elles l’ont été, parce qu’elles n’ont pas été utilisées principalement en vue de tirer un revenu ou de tirer un revenu d’entreprise.
+[3] Le ministre a aussi imposé des pénalités, en application du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « Loi »), de 7 065,03 $ et de 3 544,76 $ pour les années d’imposition 2004 et 2005 respectivement, tel qu’indiqué plus haut, sur les montants de 55 829,85 $ et de 28 053,03 $. De plus, il a établi de nouvelles cotisations de 1 641,40 $ et de 1 601,20 $ pour les paiements en trop au titre de la prestation fiscale pour enfants à l’égard de l’épouse de l’appelant.
+[4] Dans les avis d’opposition qu’il a déposés, l’appelant a soumis, à l’appui de son opposition, des relevés de revenus et de dépenses d’entreprise modifiés, selon lesquels ses revenus nets d’entreprise révisés se chiffraient à 26 250,24 $ et à 15 190,62 $ pour les années d’imposition 2004 et 2005 respectivement, tel qu’illustré plus bas. Ces modifications sont devenues nécessaires lorsque l’appelant a perdu les données de son ordinateur.
+Voir les tableaux aux pages 5 et 6.
+Annexe B
+michael lippert
+Tableau comparatif des revenus et des dépenses d’entreprise
+2004 2005
+vérifiés
+déduits
+vérifiés
+déduits
+Revenu brut
+Ventes
+134 838,38
+134 838,28
+114 991,28
+114 991,28
+Dépenses recouvrées
+-
+-
+2 315,15
+2 315,15
+total du revenu brut
+134 838,38
+134 838,38
+117 306,43
+117 306,43
+Coût des biens vendus
+stock d’ouverture
+-
+-
+-
+-
+achats
+-
+-
+-
+sous‑traitance
+7 028,00
+7 587,50
+760,00
+-
+stock de clôture
+-
+-
+coût des biens vendus
+7 028,00
+7 587,50
+760,00
+profit brut
+127 810,38
+127 250,88
+116 546,43
+117 306,43
+dépenses
+taxes et frais
+d’affaires
+964,53
+-
+1 2725,88
+-
+coût de l’ordinateur
+52,95
+-
+-
+-
+livraison et frais de
+transport
+3,50
+-
+149,80
+-
+location d’équipement
+-
+4 986,14
+-
+129,14
+prix de l’essence
+6 321,82
+6 725,15
+6 969,54
+7 499,47
+assurance
+2 553,80
+5 906,16
+3 189,86
+5 560,12
+intérêts
+6 029,38
+29 142,92
+4 639,27
+49 932,13
+frais juridiques et
+comptables
+316,00
+-
+-
+-
+entretien et
+réparations
+5 346,01
+8 997,59
+5 360,24
+10 797,64
+frais d’administration
+-
+25 000,00
+-
+2 000,00
+repas et frais de
+représentation
+-
+-
+115,00
+-
+frais de bureau
+86,19
+4 023,63
+910,10
+5 890,25
+fournitures
+240,39
+2 099,77
+-
+6 455,67
+sécurité
+280,38
+-
+524,05
+téléphones et services
+publics
+1 611,20
+2 868,01
+-
+2 320,48
+frais de subsistance
+9 000,00
+-
+9 000,00
+déduction pour
+amortissements
+9 271,21
+-
+6 489,85
+-
+total des dépenses
+32 796,98
+99 009,75
+29 096,54
+100 108,95
+perte nette avant les ajustements
+95 013,40
+28 241,13
+87 449,89
+17 197,46
+utilisation nette de la résidence à des fins professionnelles
+790,05
+1 990,89
+851,17
+2 006,86
+perte nette après les
+ajustements
+94 223,35
+26 250,24
+86 598,72
+15 190,62
+Annexe B
+michael lippert
+Tableau comparatif des revenus et des dépenses d’entreprise
+2004 2005
+vérifiés
+déduits
+vérifiés
+déduits
+utilisation de la résidence à des fins professionnelles
+chauffage
+992,66
+993,66
+1 131,19
+1 134,19
+électricité
+1 790,17
+1 790,17
+1 625,34
+1 625,34
+assurance
+456,00
+492,00
+494,00
+494,00
+internet
+-
+-
+-
+-
+câble
+-
+-
+-
+-
+entretien
+-
+-
+-
+-
+intérêt hypothécaire
+3 968,82
+4 678,95
+4 637,13
+4 608,80
+taxes foncières
+1 570,70
+1 570,70
+1 569,83
+1 569,83
+téléphone
+-
+428,97
+-
+602,14
+utilisation de la
+résidence à des fins
+professionnelles
+8 778,35
+9 954,45
+9 457,49
+10 034,30
+moins : la portion
+professionnelle
+7 988,30
+7 963,56
+8 606,32
+8 027,44
+plus : cf de l’année
+précédente
+-
+-
+-
+-
+utilisation nette de la
+résidence à des fins
+professionnelles
+790,05
+1 990,89
+851,17
+2 006,86
+Montant déduit
+790,05
+1 990,89
+851,17
+2 006,86
+montant reporté
+0,00
+-
+0,00
+-
+% pour les affaires
+9 %
+20 %
+9 %
+20 %
+montant assujetti à la pénalité prévue au par. 163(2)
+location d’équipement
+10 503,78
+2 448,00
+intérêt
+17 308,00
+13 172,00
+frais de gestion et
+d’administration
+25 000,00
+2 000,00
+fournitures
+-
+5 014,03
+utilisation de la
+résidence à des fins
+professionnelles
+3 018,07
+5 419,00
+55 829,85
+28 053,03
+paiement en trop au
+titre de la prestation
+fiscale pour enfants
+1 641,40
+1 601,20
+[5] Le 27 mai 2009, le ministre a ratifié les nouvelles cotisations en partant du principe que les montants des dépenses de 63 111,80 $ et de 56 569,25 $ que l’appelant avait déclarés au départ n’avaient pas été utilisés en vue de tirer un revenu d’une entreprise ou d’un bien au sens de l’alinéa 18(1)a) de la Loi, et que l’appelant, sciemment ou dans des circonstances équivalant à faute lourde, a fait un faux énoncé ou une omission dans ses déclarations de revenus pour les années d’imposition 2004 et 2005, au sens du paragraphe 163(2) de la Loi.
+[6] L’appelant fournit des services de messagerie et exploite son entreprise en tant que propriétaire unique, sous le nom de Lippert Transportation. Il travaille dans le cadre d’un contrat de services auprès de DHL Express (Canada) Ltd. Il possède un petit bureau dans son domicile, dont il sera question ci‑dessous dans les présents motifs, ainsi qu’un entrepôt situé à environ 15 kilomètres de son domicile. Pour fournir ses services, l’appelant utilise différents véhicules. Un camion Freightliner, qui est stationné à l’entrepôt. Il utilisait également un autre véhicule du nom de Hino, mais seulement depuis mars 2004. L’appelant n’a jamais utilisé ce véhicule à des fins commerciales pendant les années d’imposition frappées d’appel. Les deux autres véhicules utilisés par l’appelant sont un Toyota 4Runner et une Toyota Matrix. Au moment de la vérification, l’appelant a dit au vérificateur que le Toyota 4Runner était utilisé à des fins commerciales 65 p. 100 du temps, et que la Toyota Matrix n’était pas utilisée à des fins commerciales parce qu’elle était utilisée par son épouse. À l’audience, il a déclaré qu’il conduisait la Matrix et que son épouse conduisait le 4Runner. Il utilisait la Matrix pour se rendre de son bureau à l’entrepôt.
+[7] L’épouse de l’appelant a déclaré que le 4Runner était son véhicule pendant les deux années d’imposition, qu’il était utilisé à des fins personnelles et pour la famille, mais que parfois elle l’utilisait à des fins commerciales pour aider l’appelant à faire des livraisons. Elle n’a pas tenu de carnet de route et a été incapable de déterminer le pourcentage d’utilisation personnelle du véhicule, par rapport à l’utilisation du véhicule à des fins commerciales. Si l’appelant a fait erreur lorsqu’il a dit au vérificateur quel véhicule il utilisait à des fins commerciales, je ne peux que supposer que, malgré son erreur, le véhicule qui était utilisé l’était 65 p. 100 du temps à des fins commerciales, puisqu’il a admis le pourcentage inscrit à l’alinéa 8h) de la réponse, lequel devrait faire référence à la Matrix plutôt qu’au 4Runner.
+[8] Les revenus bruts déclarés par l’appelant ne sont pas contestés, ni les dépenses relatives au marché de sous‑traitance, comme le vérificateur l’a déterminé durant la vérification. J’examinerai successivement chacune de ces dépenses dans l’ordre selon lequel elles apparaissent dans la réponse à l’avis d’appel.
+Taxes et frais d’affaires
+[9] L’appelant a admis qu’il a seulement payé 964,53 $ et 1 272,88 $ en taxes et frais d’affaires, tels que le vérificateur les a déterminés pour les années d’imposition 2004 et 2005 respectivement, pour tirer un revenu d’une entreprise ou d’un bien. Les dépenses dont la déduction a été refusée avaient été payées pour des suppléments nutritifs, des abonnements à Costco, des vêtements, des souliers, des réparations, des billets de loterie et des frais d’abonnement à des clubs d’entraînement. L’appelant a déclaré que des uniformes ont été fournis, mais a mentionné qu’il avait fourni des chapeaux, des gants et des souliers. Il ne pouvait pas expliquer pourquoi les frais de deux abonnements à des clubs d’entraînement avaient été déduits pour 2004. Il a admis avoir acheté des biens personnels et des provisions chez Costco et ne pouvait pas expliquer les billets de loterie. Aucun chiffre n’a été fourni à la Cour afin de l’aider à cet égard. Par conséquent, la déduction de ces dépenses a été refusée à juste titre.
+Coûts de l’ordinateur
+[10] La déduction des coûts de l’ordinateur se chiffrant à 779,95 $ pour l’année d’imposition 2004 a été refusée à l’appelant et réduite à 52,95 $. Aucune dépense n’a été déduite pour l’année d’imposition 2005. L’appelant ne pouvait pas donner à la Cour des explications pour justifier les montants déduits sous la rubrique Coûts de l’ordinateur; il n’a pas été non plus capable d’apporter des explications au sujet de l’équipement informatique utilisé à des fins commerciales en 2004. Le montant des dépenses déduites a été réduit à juste titre, et la cotisation a été établie à juste titre.
+Livraison et frais de transport
+[11] Il n’y a pas de contestation au sujet de cette question.
+Dépenses en location d’équipement, assurance, entretien et réparations
+[12] L’appelant a admis les alinéas q), r), s) et t) de la réponse à l’avis d’appel concernant cette dépense. Ces alinéas sont rédigés ainsi :
+[traduction]
+q) l’appelant a payé 2 211,12 $ et 2 199,12 $ pour les assurances du camion Freightliner, pour les années d’imposition 2004 et 2005 respectivement;
+r) l’appelant a payé 342,98 $ et 991,90 $ pour les années d’imposition 2004 et 2005 respectivement pour les assurances du Toyota 4Runner en vue de tirer un revenu;
+s) le montant de 135 $ d’assurance‑responsabilité civile générale payé en 2005 a été admis comme faisant partie du total des dépenses admissibles de 29 096,54 $;
+t) l’appelant a payé 5 346,01 $ et 5 360,24 $ pour l’entretien et les réparations pour 2004 et 2005 respectivement, pour le camion Freightliner et le Toyota 4Runner.
+[13] L’alinéa p) a été rejeté au motif que les dépenses en location d’équipement pour l’Hino et le Toyota Matrix n’étaient pas, d’après l’appelant, effectuées pour tirer un revenu. Il ressort de la preuve que l’Hino n’a été utilisée à des fins commerciales dans aucune des années d’imposition et il appert que c’est la Toyota Matrix et non la 4Runner qui était utilisée par l’appelant à des fins commerciales, puisque l’appelant a fourni de fausses informations au vérificateur au sujet du 4Runner. Par conséquent, le Toyota 4Runner est le véhicule qui n’a pas été utilisé à des fins commerciales, à l’exception de certaines occasions que ni l’appelant ni son épouse ne peuvent préciser. Le vérificateur a accordé la totalité des dépenses relatives au 4Runner et aucune pour la Toyota Matrix. Afin que la déduction des dépenses payées pour la Matrix soit accordée, il sera nécessaire de réduire le montant des dépenses dont la déduction a été accordée pour le 4Runner. Je n’ai été saisi d’aucune preuve qui pourrait m’aider à en venir à une telle conclusion et je suis convaincu que l’appelant s’est vu autoriser la déduction d’une dépense d’un montant d’une valeur équitable. Pour ce qui est du camion Freightliner, les dépenses admises pour les assurances, l’entretien et les réparations pour les deux années d’imposition en cause demeureront les mêmes. Par conséquent, la cotisation, relativement à cet item, a été établie à juste titre.
+Prix de l’essence
+[14] L’appelant a admis toutes les hypothèses formulées par le ministre sous cette rubrique. Le montant admis demeurera inchangé.
+Frais d’intérêt
+[15] En ce qui concerne cette rubrique, l’appelant a admis en partie que le montant déduit à l’égard du prêt relatif au camion Freightliner concernait des paiements du principal et il souscrit à l’ajustement effectué par le vérificateur. La déduction d’autres intérêts quant à un prêt de la Banque Canadienne Impériale de Commerce a été refusée en partant du principe que le prêt ne visait pas à tirer un revenu d’une entreprise ou d’un bien. L’appelant était incapable d’expliquer pour quelle raison et dans quel but le prêt a été contracté.
+[16] La déduction des intérêts sur les cartes de crédit a été refusée par le vérificateur pour la même raison. L’appelant est d’avis que l’intérêt a été exigé sur des achats d’essence, mais il n’a présenté aucune déclaration qui pourrait confirmer cet avis et permettre à la Cour de déterminer le montant d’intérêt qui pourrait être attribué aux frais d’essence et le véhicule auxquels ces frais se rapportent. Pour ce qui est des frais bancaires concernant les frais de découvert et les intérêts sur découvert, l’appelant avait, pour les années d’imposition 2004 et 2005, seulement un compte bancaire pour son entreprise et pour son utilisation personnelle. Aucune preuve ne permet à la Cour de déterminer quel intérêt était relatif à chacune des utilisations. L’appelant ne s’est pas acquitté de ce fardeau de la preuve, et les frais d’intérêt, tels qu’établis dans le cadre de la vérification, doivent demeurer inchangés.
+Frais juridiques et comptables
+[17] L’appelant a admis le montant établi dans le cadre de la vérification sous cette rubrique.
+Services de consultation (frais de gestion et d’administration)
+[18] Sous cette rubrique, l’appelant a déduit des dépenses de 25 000 $ pour l’année d’imposition 2004 et de 2 000 $ pour l’année d’imposition 2005. Ces deux déductions ont été refusées par le vérificateur parce qu’elles concernaient des dépenses qui n’avaient pas été engagées en vue de tirer un revenu d’une entreprise ou d’un bien.
+[19] L’appelant était incapable d’expliquer la dépense de 25 000 $ pour l’année d’imposition 2004, sauf pour dire qu’il s’agissait d’un montant payé à Northern Igloo Computers Ltd., qu’il avait constituée en société. La facture (pièce R‑1) est datée du 31 décembre 2004 et avait été payée pour des services de consultation, comme l’indique le contrat pour l’année se terminant le 31 décembre 2004. Le comptable de l’appelant a témoigné que l’appelant souhaitait diversifier ses activités en raison de sa santé chancelante et aussi parce qu’une société peut profiter de meilleurs avantages fiscaux. Le comptable et l’appelant ont convenu que Northern Igloo Computers Ltd. facturerait des frais de consultation, mais aucun service de consultation n’a été fourni. Northern Igloo Computers Ltd. n’a pas produit de déclaration de revenus pour 2004 et, dans les faits, elle a été dissoute en 1997, l’année où elle a produit sa déclaration de revenus et a fait annuler son inscription aux fins de la TPS. La société n’existait pas au moment où le contrat a été conclu. Le montant de 25 000 $ n’a jamais été payé à Northern Igloo Computers Ltd. et, par conséquent, la déduction a été refusée à juste titre.
+[20] Pour ce qui est des services de consultation de 2 000 $ pour l’année d’imposition 2005, l’appelant a déclaré qu’il s’agissait d’un salaire payé à son épouse pour son aide apportée durant cette année. Il se trouve que la facture de 2 000 $ fournie au vérificateur à l’appui de cette dépense a été émise par Northern Igloo Computers Ltd. à l’épouse de l’appelant. Comme je l’ai dit précédemment, Northern Igloo Computers Ltd. n’existait pas en 2005 et aucun fonds n’a été transféré dans les faits. Par conséquent, la déduction de la dépense a été refusée à juste titre puisque cette dernière n’avait rien à voir avec la société de l’appelant.
+Repas, frais de représentation et frais de subsistance
+[21] L’appelant a déduit un montant de 1 271,95 $ sous cette rubrique pour l’année d’imposition 2004, laquelle déduction a été refusée. Il n’a rien déduit pour l’année d’imposition 2005, mais le vérificateur a accepté un montant de 115 $ pour cette année. L’appelant a déclaré qu’il marche environ huit kilomètres par jour et fait des livraisons à pied. Il ne pouvait pas déterminer le montant d’argent qu’il dépense en nourriture en une journée, sauf pour affirmer qu’il mange davantage lorsqu’il travaille. Dans son témoignage, le comptable a déclaré qu’il a simplement fait une estimation du montant de cette dépense. Le vérificateur n’était pas convaincu que l’appelant utilisait la nourriture et les boissons pour remplacer le carburant automobile lorsqu’il faisait ses livraisons à pied. À la lumière de la preuve dont je suis saisi, je ne suis pas non plus convaincu sur ce point. La déduction de cette dépense a donc été refusée à juste titre.
+Frais de bureau
+[22] Il n’y a pas de contestation au sujet de ce point pour l’année d’imposition 2004. Pour ce qui est de l’année d’imposition 2005, le vérificateur a considérablement réduit le montant déduit par l’appelant, et celui‑ci n’était pas en mesure de justifier une seule des dépenses refusées, laissant ainsi la Cour avec nul autre choix que de conclure que la déduction a été refusée à juste titre.
+Loyer
+[23] L’appelant reconnaît qu’aucune dépense n’a été faite pour le loyer pendant l’année d’imposition 2004. L’appelant avait déduit 525 $ sous cette rubrique. Par conséquent, la déduction a été refusée à juste titre. Aucune dépense n’a été déduite pour 2005.
+Fournitures
+[24] Les dépenses en fournitures déduites par l’appelant pour l’année d’imposition 2004 ont été admises par le vérificateur. Pour ce qui est de l’année d’imposition 2005, l’appelant a déduit un montant de 5 014,03 $, dont la totalité a été refusée. L’appelant n’a pas fourni à la Cour de documents visant à justifier les dépenses déduites sous cette rubrique pour l’année d’imposition 2005, mais il a simplement mentionné qu’il a payé des frais pour des fournitures. Par conséquent, la déduction a été refusée à juste titre.
+Dépense en sécurité
+[25] L’appelant reconnaît que la dépense qu’il a déduite pour l’année d’imposition 2005 n’a pas été faite pour tirer un revenu d’une entreprise ou d’un bien. Aucune dépense en sécurité n’a été déduite pour l’année d’imposition 2004. La déduction a donc été refusée à juste titre.
+Frais de téléphone
+[26] La dépense de 1 611,20 $ déduite par l’appelant sous la présente rubrique pour son année d’imposition 2004 pour l’utilisation de son téléphone cellulaire a été accordée. Pour son année d’imposition 2005, l’appelant a déduit la somme de 3 771,82 $, dont la totalité a été rejetée parce qu’elle incluait les frais relatifs à son téléphone à domicile ainsi que d’autres frais personnels ou de subsistance. L’appelant n’a produit aucun élément de preuve pour justifier le montant qu’il avait déduit, ni pour établir que le montant en question incluait ses frais liés au téléphone cellulaire. Il a également admis qu’il avait déduit cette dépense pour l’ensemble de sa maison et pas seulement pour son bureau à domicile. Les éléments de preuve soumis par l’appelant était insuffisants pour me permettre de répartir le montant entre les dépenses payées à des fins commerciales et celles payées à des fins personnelles. Toutefois, j’accepterais un montant pour frais de téléphone à l’égard de l’année d’imposition 2005 égal au montant déduit pour l’année d’imposition 2004, soit 1 611,20 $.
+Frais liés à l’utilisation de la résidence à des fins professionnelles
+[27] La demande présentée sous la présente rubrique a été divisée en deux points, mais c’est le pourcentage alloué à la portion personnelle et à la portion professionnelle que l’appelant a contesté. Le bureau utilisé à des fins commerciales est situé dans le sous‑sol de la résidence de l’appelant. Le sous‑sol a une superficie approximative de 700 pieds carrés dans une résidence de deux étages qui, selon l’appelant, possède une surface de plancher de 1 495 pieds carrés. L’appelant a déduit 20 p. 100 de ses frais liés à l’utilisation de sa résidence en tant que dépense d’entreprise.
+[28] Lorsqu’il a rencontré le vérificateur, l’appelant lui a dit qu’il utilisait le tiers de la surface de plancher totale pour son bureau à domicile mais qu’il croyait que son comptable n’avait déduit que 10 p. 100.
+[29] Cependant, il semble qu’une partie du sous‑sol est utilisée comme buanderie et comme salle de rangement, qu’une autre partie est utilisée comme garde‑manger et qu’une grande partie du sous‑sol est vide. Le vérificateur a utilisé les chiffres fournis par l’appelant de 20 p. 100 de la surface de 1 000 pieds carrés pour le sous‑sol, ou 200 pieds carrés, mais il a utilisé la totalité des pieds carrés de la résidence, soit 2 195 pieds carrés, pour arriver à 9 p. 100 d’utilisation à des fins commerciales. Cette utilisation de 9 p. 100 à des fins commerciales me semble appropriée dans les circonstances, et le total des frais liés à l’utilisation de la résidence à des fins professionnelles a été calculé de façon appropriée par le vérificateur, puisque l’appelant n’a produit aucun élément de preuve permettant de démontrer que les dépenses dont la déduction a été refusée ont été faites ou, si elles avaient été faites, qu’elles avaient été supportées pour tirer un revenu d’une entreprise ou d’un bien.
+Pénalités
+[30] Afin d’établir le montant de la pénalité prévue au paragraphe 163(2) de la Loi, le ministre doit établir, selon la prépondérance des probabilités, si l’appelant, sciemment ou dans des circonstances équivalant à faute lourde, a fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la Loi.
+[31] L’appelant a tenu les registres comptables et il a mentionné qu’il l’a fait du mieux qu’il pouvait, même s’il a reconnu que sa comptabilité laissait à désirer. En ce qui concerne les déclarations de revenus, elles ont été établies par son comptable, mais elles étaient fondées sur les renseignements et les données fournis par l’appelant. L’appelant a admis qu’il devait conserver ses dossiers afin de justifier les dépenses déduites.
+[32] La preuve révèle clairement que l’appelant a déduit des dépenses qui n’ont pas été faites, a déclaré des dépenses personnelles en tant que dépenses commerciales, a surévalué des dépenses commerciales et a déduit en tant que frais de gestion des montants payés à son épouse ou à une société qui avait été dissoute depuis 1997 et qui était, à toutes fins utiles, fictive.
+[33] Des pénalités ont été établies pour cinq dépenses dont la déduction est refusée, soit les frais d’intérêt déduits, qui comprenaient les paiements du principal, les frais de gestion qui étaient fondés sur des factures fictives, les dépenses en fournitures qui n’ont pas été étayées, l’utilisation de la résidence à des fins professionnelles et les frais de location d’équipement. À mon avis, ce type de demandes de remboursement est clairement inadmissible et aucune explication ne pourrait me porter à croire qu’il s’agissait simplement d’une erreur de bonne foi. Je suis d’avis que l’appelant était totalement indifférent. Le vérificateur n’a pas calculé de pénalités à l’égard des autres dépenses dont la déduction a été refusée. En ce qui concerne ces dépenses, il a donné à l’appelant le bénéfice du doute, puisque leur déduction a peut‑être été proposée par son comptable.
+[34] Compte tenu de toutes les circonstances, l’intimée a établi que, selon la prépondérance des probabilités, le comportement de l’appelant équivalait à faute lourde en ce qu’il a soit participé, soit acquiescé à la fabrication de faux énoncés dans ses déclarations de revenus de 2004 et de 2005 et qu’il était totalement indifférent au fait qu’il pouvait ou non déduire certaines des dépenses qu’il a déduites. Le ministre a eu raison d’établir des pénalités pour les déductions refusées. L’appel à l’égard de 2004 est rejeté. L’appel à l’égard de 2005 est accueilli en partie, et la cotisation est déférée au ministre pour nouvel examen et nouvelle cotisation.
+Signé ce 12e jour de novembre 2010.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 6e jour de janvier 2011.
+Nathalie Gadbois, LL. L., LL. B.
+RÉFÉRENCE : 2010 CCI 484
+NO DU DOSSIER DE LA COUR : 2009-2765(IT)I
+INTITULÉ : Michael Lippert c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATE DE L’AUDIENCE : Les 7, 8 et 9 juillet 2010
+MOTIFS DU JUGEMENT : L’honorable juge François Angers
+DATE DU JUGEMENT : Le 12 novembre 2010
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Gregory Perlinski
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,171 @@
+Title: L'Écuyer v. the Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/364381/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-41-364381-l-cuyer-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-02-22
+
+# L'Écuyer v. the Queen
+
+- Citation: 2019 TCC 41
+- Decision date: 2019-02-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4314, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+L'Écuyer v. the Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-02-22
+Neutral citation
+2019 TCC 41
+File numbers
+2018-79(GST)I
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2018-79(GST)I
+BETWEEN:
+YVON L’ÉCUYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on January 8, 2019, at Montreal, Quebec.
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+Representative of the Appellant:
+Kathy Leblanc
+Counsel for the Respondent:
+Ms. Marie-Pier Lauzon-Raza
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, the notice of which is dated February 9, 2017, is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 22nd day of February 2019.
+“Dominique Lafleur”
+Lafleur J.
+Citation: 2019 TCC 41
+Date: 20190222
+Docket: 2018-79(GST)I
+BETWEEN:
+YVON L’ÉCUYER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lafleur J.
+I. BACKGROUND
+[1] The appeal in question was brought in respect of an assessment made under Part IX of the Excise Tax Act (R.S.C. (1985), c. E-15, as amended) (the “Act”), the notice of which is dated February 9, 2017. The dispute concerns a goods and services tax rebate for new housing (“NHR”) applied for by Mr. Yvon L’Écuyer. The amount applied for is $3,819.69 and pertains to a condominium unit on Saint-Elzéar Boulevard in Laval, Quebec (the “condo”). The Minister of Revenue of Quebec acting in his capacity as proxy of the Minister of National Revenue (the “Minister”) refused to grant that rebate to Mr. L’Écuyer, based on the assumption that he had not purchased the condo to use as the primary place of residence for himself or for one of his relations. The other conditions for receiving the NHR are not in dispute in this case.
+[2] Thus, the only issue is whether Mr. L'Écuyer purchased the condo to use as his own or as a relation’s primary place of residence. To be entitled to the NHR, Mr. L'Écuyer must meet the requirements set out in paragraph 254(2)(b) of the Act; in other words, he must have purchased the condo in order to make it his primary place of residence or the primary place of residence of one of his relations.
+[3] At the hearing, Mr. L'Écuyer and Mr. Lamarre, a friend of Mr. L'Écuyer, testified, as did the Revenu Québec auditor who had audited the NHR application.
+[4] In these reasons, any reference to a statutory provision refers to the Act, unless otherwise indicated.
+II. THE LEGISLATION
+[5] The relevant paragraph of the Act provides as follows:
+254(2) New housing rebate — Where
+. . .
+(b) at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+. . .
+the Minister shall. . . pay a rebate to the particular individual. . .
+254(2) Remboursement — habitation neuve — Le ministre verse un remboursement à un particulier dans le cas où, à la fois :
+[…]
+b) au moment où le particulier devient responsable ou assume une responsabilité aux termes du contrat de vente de l’immeuble ou du logement conclu entre le constructeur et le particulier, celui‑ci acquiert l’immeuble ou le logement pour qu’il lui serve de lieu de résidence habituelle ou serve ainsi à son proche;
+[…]
+[Emphasis added.]
+III. FACTS AND ANALYSIS
+1. Notice of appeal: facts deemed to be true
+[6] Since the response to the notice of appeal was filed more than eight months late, the allegations of fact set out in the notice of appeal are deemed true for the purposes of the appeal under the provisions of subsection 18.3003(2) of the Tax Court of Canada Act (R.S.C. 1985, c. T-2, as amended).
+[7] However, that presumption is rebuttable and, therefore, the Respondent had to adduce evidence to rebut the facts alleged in the notice of appeal and establish the assumptions on which the assessment was based (Lori Jewellery Inc. v. The Queen, 2008 TCC 561 at paragraph 8, [2008] T.C.J. No. 423 (QL)).
+[8] The facts thus alleged in the notice of appeal are as follows:
+i) Mr. L'Écuyer purchased the condo, which was new, from a builder on June 11, 2015, and has been living there since that date;
+ii) Initially, one of his daughters was to live in the condo on a regular basis in order to be closer to the university, but she never lived there;
+iii) The correspondence address used by Mr. L’Écuyer is in part the one for the residence he owns in Lorraine (the “Lorraine residence”) because he is often out of the country on vacation;
+iv) Mr. L'Écuyer has not lived in the Lorraine residence for several years, following his separation from the mother of his two daughters;
+v) Mr. L'Écuyer confused the concept of principal residence for tax purposes with the concept of primary residence for NHR purposes;
+vi) In the documents provided to the Revenu Québec auditor, Mr. L'Écuyer indicated that he lived at the condo occasionally because he travelled a great deal.
+2. The auditor
+[9] Mr. Hamza Achkor, a tax audit technician with the Agence du Revenu du Québec, testified on behalf of the Respondent. Since the address for Mr. L'Écuyer indicated in Revenu Québec’s records and those of various other entities (namely the SAAQ, the RAMQ and the RRQ) was not the same as the address indicated on the form submitted for NHR purposes, the NHR application was audited. In fact, Mr. L'Écuyer’s mailing address was the Lorraine residence address in the records of the RRQ, the RAMQ and the SAAQ, and in the municipal tax and insurance records. According to Mr. Achkor, his audit led him to conclude that the condo is a secondary residence for Mr. L'Écuyer, with his principal residence being the Lorraine residence; thus, according to Mr. Achkor, Mr. L'Écuyer is not entitled to the NHR.
+[10] Based on the evidence adduced by the Respondent at the hearing, the vast majority of the records pertaining to Mr. L'Écuyer indicate that his address is either that of the Lorraine residence or that of the cottage owned by Mr. L'Écuyer and located in the Laurentides, Sainte-Anne-des-Lacs (the “cottage”). In 2009, Mr. L'Écuyer changed his address with Revenu Québec, replacing the Lorraine residence address with the cottage address, and then another change of address in 2014, this time replacing the cottage address with the Lorraine residence address. The home insurance policy for the condo indicates that Mr. L’Écuyer’s address is the one for the Lorraine residence. Also, according to the Respondent, the gas and electricity consumption at the condo is decidedly not enough for a primary residence.
+[11] Also, in the documents provided to the auditor for the audit, Mr. L'Écuyer failed to indicate that he owned the cottage. In addition, he indicated that the condo was lived in by his daughter and, occasionally, by he himself. In addition, on page 2 of the appendix attached to the request for information (exhibit I-1, tab 5), Mr. L’Écuyer had put a check beside “I live in the building”. According to the auditor, the building to which that question pertains is the Lorraine residence, not the condo.
+3. Mr. L’Écuyer
+[12] At the hearing, Mr. L’Écuyer testified. I am of the opinion that his testimony was reliable and that Mr. L'Écuyer was a credible witness.
+[13] Mr. L'Écuyer is a pharmacist by profession. During his career as a pharmacist, he owned about 50 pharmacies. Since 2005, he has been in the process of selling his pharmacies. In 2015, it had only a few pharmacies left in the Hautes‑Laurentides and Abitibi-Témiscamingue regions. For several years, he has been spending his winters in Florida (3.5 to 4 months) and has also been travelling a great deal in Europe and Asia.
+[14] Mr. L'Écuyer separated from the mother of his daughters in 2007 (which appears in Revenu Québec’s records, exhibit A-1) and since then, she has been living in the Lorraine residence with their two daughters. That arrangement was part of their separation agreement. After separating, he moved to the cottage. Mr. L’Écuyer testified that, since then, he has never stayed overnight at the Lorraine residence; he has dinner there regularly (about once a month) to see his daughters.
+[15] On June 11, 2015, Mr. L'Écuyer bought the condo, which measures approximately 1,000 square feet and has two bedrooms and two bathrooms, because of its proximity to the highways, making it easy for him to travel between home and the airport. He originally intended to have one of his daughters, age 19 at the time, live there to make it easier for her to get to the university, but that plan did not materialize. When Mr. L'Écuyer moved there, he had the furniture moved from the cottage and from the Lorraine residence. Mr. L'Écuyer indicated that, as of the hearing date, the correspondence address indicated on most of his various accounts and records is the condo address. Also, the purchase contract for the condo indicates that Mr. L'Écuyer lives at the cottage.
+[16] In addition, Mr. L’Écuyer explained that the condo was originally to be delivered in January 2014. However, given the scandals at Laval city hall, which had caused problems with the issuing of building permits, there was a delay in the condo’s delivery and, in the interim, he had to rent an apartment on Le Corbusier Boulevard in Laval. He testified that the cottage had become difficult to live in, due to water supply problems and that he decided not to live there any longer at that time. However, his son has now been living at the cottage for about a year and a half.
+[17] Mr. L'Écuyer testified that he had asked the auditor some questions to have him explain the applicable concepts of primary residence and principal residence. He never received satisfactory answer, thereby adding to his confusion and contributing to the fact that he filled out the documents submitted to the auditor in the way he did, which I will return to below.
+4. Mr. Lamarre
+[18] Mr. Jean Lamarre, a notary retired since 2015, also testified at the hearing. Mr. Lamarre met Mr. L'Écuyer in the context of his notarial practice. He has known him for 15 to 20 years. Their relationship, initially a professional one, evolved into a friendship after he retired because they share the same passion for golf. Mr. Lamarre testified that he would regularly pick up Mr. L'Écuyer at the condo for going to their golf games; it was also at the condo that Mr. Lamarre and Mr. L'Écuyer would get together to watch golf tournaments. According to Mr. Lamarre, all the furniture, the television and all the other items at the condo show that the condo is Mr. L'Écuyer’s primary residence.
+5. Analysis
+[19] Since it is not disputed that Mr. L'Écuyer purchased the condo via a sales contract on June 11, 2015, it is Mr. L'Écuyer’s intention at that time regarding the use he would make of the condo that will be determinative. The Respondent agrees that this is the issue before the Court.
+[20] The evidence showed that, in 2015, Mr. L'Écuyer owned three residences, namely the condo, the cottage and the Lorraine residence. As of the hearing date, Mr. L'Écuyer still owns the three residences, although the Lorraine residence was put up for sale last year.
+[21] The Act does not define the expression “primary place of residence”. The criteria to be used for determining the primary place of residence are found in the case law and in the various policy statements from the Canada Revenue Agency (“CRA”) in this regard.
+[22] In Fiducie Chry-Ca v. The Queen, 2008 TCC 423 [Chry-Ca] (paragraph 17), the Court referred to Policy Statement P-228 dated March 30, 1999, which states the CRA’s position in this regard. I am of the opinion that the criteria set out therein can be used to make the determination, but other indices can also be factored in (Chry-Ca, supra at paragraph 18).
+[23] Therefore, the following criteria would be indicative of a primary place of residence according to the policy statement:
+- mailing address;
+- income tax (e.g. forms or returns);
+- voting;
+- municipal/school taxes;
+- telephone listing.
+[24] Policy Statement P-130 (page 5 et seq. of GST/HST Memorandum 19.3, July 1998) has also been mentioned, with approval, in the case law of this Court (Boucher v. Canada, [2002] T.C.J. No. 359 (QL) and Burrows v. Canada, [1998] T.C.J. No. 606 (QL)). According to the policy statement, although an individual may have more than one place of residence, he/she can have only one primary place of residence. Thus, for making the determination regarding primary place of residence, to be considered are purpose of the stay, length of the stay, physical presence at the residence, the intention to use the residence as the primary residence, and the address appearing on the individual’s personal records. Any other relevant factors will also have to be considered.
+[25] The following is an excerpt from that statement:
+10. [...] A place of residence has distinct characteristics from a temporary lodging. These characteristics are evident by the purpose of the stay, the amount of time of the stay, and the physical presence of the inhabitant. […]
+11. […] The “primary place of residence” of an individual is generally the residence that the individual inhabits on a permanent basis. Only one residence may be a person's primary place of residence at any one time. If a person has more than one place of residence, the following are some of the factors that are taken into consideration when determining if the residence qualifies as the primary one: whether the individual intends to use the home as his or her primary place of residence, the length of time the individual inhabits the premises, and the designation of that address on personal records.
+[Emphasis added.]
+[26] It is clear from Mr. L'Écuyer’s testimony, which I found reliable and credible, that his intention at the time of purchasing the condo was for his daughter to move there with him so that she could more easily get to the university, but that plan did not materialize. Mr. L'Écuyer’s testimony is plausible, given the circumstances.
+[27] I am also of the opinion that the evidence submitted at the hearing shows, on a balance of probabilities, that Mr. L'Écuyer purchased the condo in order to make it his primary place of residence. Mr. L'Écuyer’s subsequent use of the condo clearly demonstrates that the condo is his primary place of residence. In fact, Mr. L'Écuyer’s intention at the time of purchasing the condo is confirmed by the use he has subsequently made of it. The fact that he is still living in the condo as of the hearing date is the best evidence of that intention. In this regard, Chief Justice Bowman of this Court stated in Coburn Realty Ltd. v. The Queen, 2006 TCC 245, [2006] T.C.J. No. 184 (QL):
+[TRANSLATION]
+[10] Taxpayers’ statements regarding their purposes and intentions are not necessarily and always the most reliable basis on which an issue of this kind can be decided. The actual use of the asset is often the best evidence of the purpose of the acquisition. […]
+[28] The condo use was confirmed by the testimony of Mr. Lamarre, a disinterested witness in this case. Mr. Lamarre testified that he would pick up Mr. L'Écuyer at the condo for their many golf games and that he would go there to watch golf tournaments. According to Mr. Lamarre, the condo decor confirms his statements.
+[29] I am of the opinion that the fact that the address changes were not done is not a determinative factor in this case. The Lorraine residence was, in 2015, and still is as of the hearing date, a property owned by Mr. L'Écuyer; also, some of his family members still live there, namely his daughters and his ex-wife. He can still pick up his mail when he goes to see his children. According to his testimony, which was in no way contradicted by the Respondent’s evidence, Mr. L'Écuyer travels a great deal. I find it plausible that he did not want his mail piling up in his condo mailbox. In Yang v. The Queen, 2009 TCC 636, [2009] T.C.J. No. 511 (QL), the Court also found that failing to do address changes was of lesser importance in cases where family members were still living at the former residence. In this case, I find that this factor is not very significant.
+[30] Similarly, Mr. L’Écuyer’s testimony that he left the cottage in 2014 due to water problems is credible and reliable. The evidence showed that he rented an apartment in Laval at that time (2014-2015), given the delays in the condo construction, but he did not do an address change. In the documents adduced by the Respondent, we see that, for a Hydro-Québec account at that time, Mr. L'Écuyer’s name is associated with an address on Le Corbusier Boulevard, in Laval. If Mr. L'Écuyer had wanted to make the cottage his primary place of residence, he would not have rented an apartment in Laval while waiting for the condo to be built.
+[31] The Respondent adduced a Hydro-Québec document estimating the electricity costs for the cottage at $3,320, which bears no date other than the printing date of November 28, 2018. Mr. L'Écuyer testified that the electricity costs were about $4,000 a year for the cottage. It was important to maintain minimum heating at the cottage; it is also clear from the evidence that the cottage was very large, having multiple bedrooms, and was poorly insulated. Also according to the evidence, Mr. L'Écuyer’s son has been living in the cottage for about a year and a half. According to the Respondent, if the cottage had actually been vacant in 2014-2015, the electricity costs should have been less than the $4,000 that Mr. L'Écuyer indicated. The Respondent also points out that an income tax statement for 2014 and 2015 was sent to Mr. L’Écuyer’s daughter at the cottage address. In my opinion, these aspects do not demonstrate that Mr. L'Écuyer’s testimony was unreliable regarding his use of the cottage at that time.
+[32] The Respondent is also of the opinion that the evidence is unclear regarding the amount of time that the condo is used, since Mr. L’Écuyer travels a lot. However, I am of the opinion that Mr. L'Écuyer’s testimony is reliable and credible when he indicates that he has no place to live other than the condo. In fact, the evidence showed that he cannot live at the Lorraine residence because his ex-wife is there, and that he does not live at the cottage because his son has been living there for a year and a half and that he had left the cottage in 2014 to go live in an apartment in Laval while waiting for the condo to be ready for delivery by the builder.
+[33] The Respondent is also of the opinion that, since Mr. L'Écuyer’s workplaces at the time in question were in the Hautes-Laurentides and Abitibi-Témiscamingue areas, this is a factor showing that the condo cannot be Mr. L'Écuyer’s primary place of residence, but that the cottage could be. However, I am of the opinion that, in light of the distance between the regions where the pharmacies and the cottage or condo were located, it is certainly plausible that Mr. L’Écuyer did not return to either the cottage or the condo given that the pharmacies were several hundred kilometres from the cottage and the condo.
+[34] The Respondent also pointed out that the content of the documents submitted to the auditor at the time of the audit and the allegations in the notice of appeal are contradictory because, in 2016, Mr. L’Écuyer indicated that his daughter was living in the condo, yet the notice of appeal indicates that his daughter has never lived there. In addition, the Respondent points out to the Court that Mr. L’Écuyer indicated on the documents submitted to the auditor that he would live in the condo occasionally and that he was living at the Lorraine residence; he also failed to mention the cottage. Thus, according to the Respondent, this evidence tends to demonstrate that the condo is not the primary place of residence of either Mr. L’Écuyer or his daughter. For the following reasons, I am of the opinion that the Respondent’s arguments cannot be accepted and are not determinative as to the outcome of the appeal. I would also add that Mr. L’Écuyer’s testimony is credible and reliable when he claims that he believed it was the condo rather than the Lorraine residence when he indicated that he was living in the building (page 2 of the appendix attached to the request-for-information letter). Mr. L'Écuyer testified before this Court that the fact of him indicating that his daughter was living there reflected what his intention had been when purchasing the condo and not the situation in 2016 when he filled out the documents, which is certainly plausible. As for the cottage, Mr. L'Écuyer testified that he had simply forgotten to mention it.
+[35] Also, according to Mr. L'Écuyer’s testimony, the word “occasionally” was added on those documents because he travels a great deal and is always on the move. He also testified that he had not received satisfactory answers from the auditor regarding the definition of the concepts “primary residence” and “principal residence”. Mr. L'Écuyer testified that his intention is to designate the Lorraine residence as his principal residence at the time of selling it, but that the condo is the only place he normally sleeps, apart from hotels. In this regard, I note that the assumptions of fact in the response to the notice of appeal refer to the concept of “principal residence” rather than “primary residence”. Thus, in paragraphs 18 l), 18 m) and 18 n) of the response to the notice of appeal, the Minister mentions the concept of “principal residence”, whereas “primary residence” is what should have appeared there. In the auditor’s report, Mr. Achkor states that the Lorraine residence is Mr. L'Écuyer’s principal residence and that Mr. L'Écuyer had confirmed that for him in a phone conversation. Mr. L'Écuyer allegedly also told Mr. Achkor that his daughter does not live in the condo but that he is the one who occasionally uses the condo. In its argument, the Respondent invited the Court to read “primary residence” rather than “principal residence” in the auditor’s report. It is my understanding that the Court too must read “primary residence” rather than “principal residence” when reading the response to the notice of appeal. In Policy Statement P-130, the CRA mentions that the “primary residence” concept is not necessarily the same thing as the “principal residence” concept, which is correct:
+12. […] Note that “primary place of residence” does not necessarily have the same meaning as a person's “principal place of residence” under the Income Tax Act.
+[36] All this confusion in the auditor’s report definitely did not help Mr. L'Écuyer understand the concepts that were applicable for filling out the auditor’s documents, which, in my opinion, makes his testimony very plausible in this regard.
+[37] I am also of the opinion that the low gas consumption at the condo address is justified by the fact that the evidence shows that Mr. L’Écuyer uses his gas fireplace only in the winter and that he is often away during that period. Also, the low electricity consumption is justified by the fact that he does not use the air conditioning.
+[38] Lastly, the moving contract adduced in evidence indicates that a wardrobe box, a TV box and mattress covers were billed to Mr. L’Écuyer, and that the move took from 12:15 p.m. to 10:45 p.m. (i.e. 10.5 hours). This evidence also helps establish the reliability of Mr. L’Écuyer’s testimony.
+IV. CONCLUSION
+[39] For all these reasons, I am of the opinion that Mr. L'Écuyer is entitled to the NHR for the condo; the appeal is allowed, without costs.
+Signed at Ottawa, Canada, this 22nd day of February 2019.
+“Dominique Lafleur”
+Lafleur J.
+CITATION:
+2019 TCC 41
+COURT FILE NO.:
+2018-79(GST)I
+STYLE OF CAUSE:
+YVON L’ÉCUYER v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+January 8, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Dominique Lafleur
+DATE OF JUDGMENT:
+February 22, 2019
+APPEARANCES:
+Representative of the Appellant:
+Kathy Leblanc
+Counsel for the Respondent:
+Ms. Marie-Pier Lauzon-Raza
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

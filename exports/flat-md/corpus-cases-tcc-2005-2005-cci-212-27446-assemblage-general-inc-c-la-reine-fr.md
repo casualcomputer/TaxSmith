@@ -1,0 +1,226 @@
+---
+title: "Assemblage General Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27446/index.do"
+last_modified: "2005-12-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 212"
+citation2: ""
+neutral_citation: "2005 CCI 212"
+decision_date: "2005-12-20"
+language: "fr"
+item_id: "27446"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 202
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:11:48.110000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "31c9bb87a38effc65b4e13f1ed5aab4b8a7928123fca5a76751ab9510a1c28cb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Assemblage General Inc. c. La Reine
+
+- Citation: 2005 CCI 212
+- Decision date: 2005-12-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 202, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Assemblage General Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-20
+Référence neutre
+2005 CCI 212
+Numéro de dossier
+2004-4252(IT)APP
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4252(IT)APP
+ENTRE :
+JEAN-MARC BERGERON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue avec les demandes d'Assemblage Général inc. (2004‑4250(IT)APP) et de Jean-Paul Bergeron (2004-4251(IT)APP)
+le 21 janvier 2005, à Sherbrooke (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat du requérant :
+Me Robert Jodoin
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+ORDONNANCE
+Vu la demande faite afin d’obtenir une ordonnance prorogeant le délai dans lequel un appel à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998, 1999, 2000 et 2001 peut être interjeté;
+Et vu les allégations des parties;
+La demande pour les années 1998, 1999, 2000 et 2001 est rejetée, sans frais, selon les motifs de l’ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2005.
+« Paul Bédard »
+Juge Bédard
+Dossier : 2004-4251(IT)APP
+ENTRE :
+JEAN-PAUL BERGERON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue avec les demandes d'Assemblage Général inc. (2004‑4250(IT)APP) et de Jean-Marc Bergeron (2004-4252(IT)APP)
+le 21 janvier 2005, à Sherbrooke (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat du requérant :
+Me Robert Jodoin
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+ORDONNANCE
+Vu la demande faite afin d’obtenir une ordonnance prorogeant le délai dans lequel un appel à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1998, 1999, 2000 et 2001 peut être interjeté;
+Et vu les allégations des parties;
+La demande pour les années 1998, 1999, 2000 et 2001 est rejetée, sans frais, selon les motifs de l’ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2005.
+« Paul Bédard »
+Juge Bédard
+Dossier : 2004-4250(IT)APP
+ENTRE :
+ASSEMBLAGE GÉNÉRAL INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Demande entendue avec les demandes de Jean-Paul Bergeron (2004‑4251(IT)APP) et de Jean-Marc Bergeron (2004-4252(IT)APP)
+le 21 janvier 2005, à Sherbrooke (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de la requérante :
+Me Robert Jodoin
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+ORDONNANCE
+Vu la demande faite afin d’obtenir une ordonnance prorogeant le délai dans lequel un appel à l'encontre des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2000 et 2001 peut être interjeté;
+Et vu les allégations des parties;
+La demande pour les années 2000 et 2001 est rejetée, sans frais, selon les motifs de l’ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2005.
+« Paul Bédard »
+Juge Bédard
+Référence : 2005CCI212
+Date : 20051220
+Dossier : 2004-4250(IT)APP
+ENTRE :
+ASSEMBLAGE GÉNÉRAL INC.,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2004-4251(IT)APP
+ET :
+JEAN-PAUL BERGERON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2004-4252(IT)APP
+ET :
+JEAN-MARC BERGERON,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L'ORDONNANCE
+Le juge Bédard
+[1] Il s'agit de demandes faites en vertu du paragraphe 167(5) de la Loi de l'impôt sur le revenu (la « Loi ») en vue d'obtenir des ordonnances portant prorogation du délai pour interjeter appel des décisions du ministre du Revenu national (le « ministre »). La Cour doit déterminer si la demande de chacun des requérants visant la prorogation du délai d'appel pour les années d'imposition 1998, 1999, 2000 et 2001 en ce qui concerne messieurs Jean-Paul et Jean‑Marc Bergeron et pour les années d'imposition 2000 et 2001 en ce qui concerne Assemblage Général inc. (la « société ») est bien fondée.
+[2] Le ministre a expédié à monsieur Jean-Paul Bergeron des avis de nouvelles cotisations le 7 mai 2003 pour les années d'imposition 1998, 1999, 2000 et 2001. Le contribuable a signifié au ministre son opposition à l'égard des nouvelles cotisations le 25 juillet 2003 ou vers cette date. Par voie de lettre recommandée expédiée le 8 avril 2004, le ministre a avisé monsieur Jean-Paul Bergeron qu'il ratifiait les nouvelles cotisations datées du 7 mai 2003 pour les années d'imposition 1998, 1999, 2000 et 2001. Monsieur Jean-Paul Bergeron n'a pas interjeté appel à la Cour dans le délai prescrit, qui expirait le 7 juillet 2004 puisque les nouvelles cotisations du 7 mai 2003 pour les années d'imposition 1998, 1999, 2000 et 2001 ont toutes été ratifiées le 8 avril 2004. Le 1er novembre 2004, monsieur Jean‑Paul Bergeron a déposé à la Cour une demande de prorogation du délai pour interjeter appel relativement aux nouvelles cotisations du 7 mai 2003 pour les années d'imposition 1998, 1999, 2000 et 2001.
+[3] Le ministre a expédié à monsieur Jean-Marc Bergeron des avis de nouvelles cotisations le 9 juin 2003 pour les années d'imposition 1998, 1999, 2000 et 2001. Le contribuable a signifié au ministre son opposition à l'égard des nouvelles cotisations le 25 juillet 2003 ou vers cette date. Par voie de lettre recommandée expédiée le 16 mars 2004, le ministre a avisé monsieur Jean‑Marc Bergeron qu'il ratifiait les nouvelles cotisations datées du 9 juin 2003 pour les années d'imposition 1998, 1999, 2000 et 2001. Monsieur Jean‑Marc Bergeron n'a pas interjeté appel à la Cour dans le délai prescrit, qui expirait le 14 juin 2004 puisque les nouvelles cotisations du 9 juin 2003 pour les années d'imposition 1998, 1999, 2000 et 2001 ont toutes été ratifiées le 16 mars 2004. Le 1er novembre 2004, monsieur Jean‑Marc Bergeron a déposé à la Cour une demande de prorogation du délai pour interjeter appel relativement aux nouvelles cotisations du 9 juin 2003 pour les années d'imposition 1998, 1999, 2000 et 2001.
+[4] Le ministre a expédié à la société des avis de nouvelles cotisations le 22 avril 2003 pour les années d'imposition 2000 et 2001. La société a signifié au ministre son opposition à l'égard des nouvelles cotisations le 27 juin 2003 ou vers cette date. Par voie de lettre recommandée expédiée le 16 mars 2004, le ministre a avisé la société qu'il ratifiait les nouvelles cotisations datées du 22 avril 2003 pour les années d'imposition 2000 et 2001. La société n'a pas interjeté appel à la Cour dans le délai prescrit, qui expirait le 14 juin 2004 puisque les nouvelles cotisations du 22 avril 2003 pour les années d'imposition 2000 et 2001 ont toutes été ratifiées le 16 mars 2004. Le 1er novembre 2004, la société a déposé à la Cour une demande de prorogation du délai pour interjeter appel relativement aux nouvelles cotisations du 22 avril 2003 pour les années d'imposition 2000 et 2001.
+Analyse
+[5] Il convient de souligner que la preuve des requérants reposait essentiellement sur le témoignage de messieurs Jean-Paul et Jean-Marc Bergeron.
+Témoignage de monsieur Jean-Marc Bergeron
+[6] Le témoignage de monsieur Jean-Marc Bergeron se résume ainsi : il a expliqué qu'il avait été gravement malade du début du mois de mars 2004 jusqu'à la fin de l'année 2004 et qu'il avait mandaté son frère Jean‑Paul pour rédiger l'avis d'appel et pour faire le nécessaire à cet égard. Sa réponse lorsqu'il fut interrogé à cet égard par l'avocate de l'intimée mérite d'être citée :
+Q. Pendant tout ce temps-là, vous aviez mandaté votre frère pour agir en votre nom, pour rédiger l'avis d'appel, etc.?
+R. Oui[1].
+Témoignage de monsieur Jean-Paul Bergeron
+[7] La première partie du témoignage de monsieur Jean-Paul Bergeron portait sur le mandat que les requérants avaient confié à monsieur Tom Sawyer. Il relate que :
+i) À la suite de la réception des avis de cotisations, les requérants avaient mandaté monsieur Sawyer pour faire opposition aux cotisations et pour négocier avec les autorités fiscales. Il convient immédiatement de souligner que dans leur demande de prorogation, les requérants avaient tous affirmé que le mandat avait été confié à monsieur Sawyer après qu'ils avaient reçu les avis de cotisations. Ni le témoignage de monsieur Jean-Paul Bergeron, ni les demandes de prorogation ne faisaient état du travail qui aurait pu être accompli par monsieur Sawyer avant l'établissement des cotisations.
+ii) Monsieur Sawyer avait préparé et produit les avis d'opposition. Pour appuyer son témoignage, monsieur Jean-Paul Bergeron a déposé en preuve les avis d'opposition (pièce A-1) que monsieur Sawyer aurait ainsi préparés et produits au nom des requérants.
+iii) La société avait versé 5 000 $ en honoraires à monsieur Sawyer. Pour appuyer son témoignage, monsieur Jean-Paul Bergeron a déposé en preuve les chèques (pièce A-2) payables à monsieur Sawyer que la société avait faits.
+iv) Il s'était rendu compte de l'imposture de monsieur Sawyer après la ratification des cotisations, mais avant la rencontre que lui et son frère auraient eue avec madame Chantale Boisvert de la section des oppositions de l'Agence des douanes et du revenu du Canada (l'« ADRC »). En effet, il relate qu'il s'était alors rendu compte que monsieur Sawyer n'avait pratiquement rien fait dans le cadre de son mandat. La description par monsieur Jean-Paul Bergeron du travail qu'aurait effectué monsieur Sawyer mérite d'être citée :
+Q. Qu'est-ce qu'il a fait, exactement, monsieur Sawyer? Est-ce qu'il a juste préparé les avis d'opposition? Est-ce qu'il a rencontré les autorités fiscales? Est-ce que ...
+R. Je ne pense pas qu'il les ait rencontrées, quoiqu'il nous ait dit qu'il l'avait fait, mais selon mes informations, il ne l'a pas fait. Je crois qu'il a eu une conversation téléphonique[2].
+Lui et son frère Jean-Marc s'étaient donc présentés seuls à la rencontre avec madame Boisvert. Il est nécessaire de faire une analyse du témoignage de monsieur Jean‑Paul Bergeron au sujet du mandat confié par les requérants à monsieur Sawyer et de la preuve objective fournie par monsieur Jean‑Paul Bergeron à l'appui de son témoignage. D'abord, rappelons que le témoignage de monsieur Jean-Paul Bergeron et les demandes de prorogation indiquaient que les requérants avaient confié un mandat à monsieur Sawyer à la suite de la réception des avis de cotisations. Ni ce témoignage, ni les demandes de prorogation ne faisaient état de travail accompli par monsieur Sawyer avant la réception des avis de cotisations. Pourtant, 80 % des honoraires avaient été versés par la société à monsieur Sawyer avant même l'établissement des avis de cotisations. J'en conclus que les honoraires de 5 000 $ avaient été versés par la société à monsieur Sawyer dans le cadre d'un tout autre mandat qui lui aurait été confié, d'autant plus qu'aucune facture décrivant la nature des services rendus par monsieur Sawyer n'a été déposée en preuve. Le fait que la société ait versé 1 000 $ en honoraires à monsieur Sawyer après que les requérants avaient découvert l'imposture n'a fait que renforcer ma conviction que monsieur Sawyer n'a jamais reçu un tel mandat des requérants. Les explications de monsieur Jean‑Paul Bergeron à cet égard étaient pour le moins ambiguës, imprécises, vagues et invraisemblables[3]. Enfin, le fait que les avis d'opposition que monsieur Sawyer aurait préparés et produits étaient complétés à la main, qu'ils n'indiquaient nullement les motifs d'appel, que le nom de monsieur Sawyer n'apparaissait pas à titre de représentant des requérants et qu'ils étaient ni datés, ni signés n'a qu'ajouté à ma conviction que les prétentions des requérants ne sont pas crédibles. Comment ajouter foi par la suite aux prétentions et aux assertions de monsieur Jean‑Paul Bergeron quand elles ne sont pas étayées par une preuve objective sérieuse ou par un témoignage indépendant et crédible?
+[8] Monsieur Jean-Paul Bergeron a expliqué qu'il n'avait pas interjeté appel dans le délai prescrit parce qu'il avait été très perturbé par la maladie de son frère Jean‑Marc et qu'il attendait que ce dernier se porte mieux avant d'agir. La partie pertinente de son témoignage à cet égard mérite d'être citée :
+Q. O.K. Mais par contre, c'était votre frère qui était malade, ce n'était pas vous?
+R. Non, mais... oui, c'est vrai, vous avez raison. Mais j'avais besoin de lui pour faire le... pour rédiger tout ça. Je peux pas faire ça tout seul, moi. Puis en plus je n'ai pas les compétences pour... là fallait aller en appel, ça fait que moi j'attendais qu'il sorte, qu'il soit bien. Pour commencer, quand il a été malade, lui, il les a pas vus, ces avis-là. Il était malade au moment où ça c'est arrivé. Puis ce n'est pas le temps, quand t'es entre la vie pis la mort, d'arriver puis de soumettre des affaires de même. Ça fait que j'ai jugé qu'on avait du temps, que j'attendrais qu'il soit bien pour lui exposer tout ça puis lui dire « à c't'heure, qu'est-ce qu'on fait avec ça? » Parce que il n'y a pas rien que moi qui paye; lui aussi, il paye. Ça fait que c'est ça. J'attendais qu'il soit bien[4].
+Son frère Jean-Marc se portant mieux, Jean-Marc Bergeron et son frère rencontraient Richard Généreux, un expert en fiscalité, le 30 juin 2004. C'est à ce moment que les requérants se seraient rendu compte qu'ils étaient en retard pour interjeter appel. Son témoignage à cet égard mérite d'être cité :
+Q. Vous n'avez pas pris rendez-vous avec personne avant?
+R. Je crois qu'on ne l'avait même pas noté, qu'on était en retard. C'est monsieur Généreux qui nous a dit : « Hey, les gars, vous êtes en retard. Ça va vous prendre un avis de... »[5]
+Il relate alors que les requérants n'avaient pas mandaté Me Généreux puisqu'il considérait que ses services étaient trop onéreux, celui-ci ayant exigé des honoraires de 300 $ en argent comptant pour 30 minutes de consultation. Monsieur Jean-Paul Bergeron a soutenu qu'il avait appelé la Cour le lendemain et qu'il avait été rassuré par la conversation qu'il avait eue avec un employé du greffe de la Cour. En effet, cet employé lui aurait mentionné que les requérants avaient un an pour faire une demande de prorogation du délai pour interjeter appel. À la suite de cet appel, il ne sentait plus d'urgence. Il était soulagé. Cet employé de la Cour lui aurait même expliqué la marche à suivre et lui aurait envoyé des formulaires par télécopie. Par la suite, monsieur Jean‑Paul Bergeron aurait communiqué avec la Cour à quelques reprises pour obtenir des informations supplémentaires. Il a ajouté qu'il avait tenté pendant environ un mois de rédiger les demandes de prorogation et les avis d'appel. Il s'était alors rendu compte qu'il ne serait pas capable de le faire. Il a alors pris rendez-vous avec Me Jodoin vers la fin du mois d'octobre 2004. Sans plus de délai, Me Jodoin a produit, au nom des requérants, les demandes de prorogation du délai pour interjeter appel le 1er novembre. Encore une fois, il m'est difficile d'ajouter foi au témoignage de monsieur Jean-Paul Bergeron. En effet, monsieur Jean‑Paul Bergeron savait, à mon avis, que les requérants avaient 90 jours pour interjeter appel[6]. Monsieur Jean-Paul Bergeron devait donc savoir avant la rencontre du 30 juin avec Me Généreux que les délais pour interjeter appel avaient expiré le 14 juin 2004 en ce qui concerne son frère Jean‑Marc et la société et expireraient le 7 juillet en ce qui le concerne. Pourtant, monsieur Jean‑Paul Bergeron a voulu me faire croire que c'était Me Généreux qui lui avait appris qu'il était en retard. Il me semble improbable que Me Généreux, un fiscaliste reconnu, n'ait pas avisé monsieur Jean-Paul Bergeron qu'il avait encore environ une semaine pour interjeter appel. Pourquoi n'a-t-il pas interjeté appel avant le 7 juillet? La question est demeurée sans réponse. Ainsi, il m'est difficile de croire que Me Généreux n'avait pas avisé les requérants que la société et monsieur Jean‑Marc Bergeron devaient présenter une demande de prorogation le plus tôt possible. Il aurait été intéressant d'entendre le témoignage de Me Généreux à cet égard. De plus, monsieur Jean-Paul Bergeron a tenté de me faire croire qu'un employé de la Cour lui avait dit que les requérants avaient un an pour produire une demande de prorogation de délai. Il m'est difficile de croire que cette personne n'ait pas expliqué à monsieur Jean‑Paul Bergeron que la société et son frère Jean-Marc devaient produire leur demande de prorogation de délai le plus rapidement possible, et que le délai pour qu'il interjette appel n'était pas encore expiré. Monsieur Jean‑Paul Bergeron a-t-il vraiment communiqué avec la Cour? Il est permis d'en douter. En effet, il n'a même pas été en mesure de dire s'il avait parlé à un homme ou à une femme. Autre fait inquiétant, monsieur Jean‑Paul Bergeron a affirmé à deux reprises qu'il avait communiqué avec la Cour le lendemain de sa rencontre avec Me Généreux qui avait eu lieu, rappelons-le, le 30 juin. Lorsqu'il s'est rendu compte que la date à laquelle il aurait communiqué avec la Cour était le 1er juillet, il a alors changé quelque peu sa version des faits en affirmant qu'il avait peut‑être communiqué avec la Cour la journée même de sa rencontre avec Me Généreux.
+[9] Est-ce que monsieur Jean-Paul Bergeron et Assemblage Général inc. ont satisfait en l'espèce aux conditions prévues au paragraphe 167(5) de la Loi? La preuve de ces deux requérants, qui avaient le fardeau de me démontrer, selon la prépondérance des probabilités, qu'ils avaient satisfait à ces conditions, reposait essentiellement sur le témoignage de monsieur Jean-Paul Bergeron. Les explications de monsieur Jean-Paul Bergeron étaient souvent confuses, inintelligibles, laborieuses et contradictoires. Il s'est contenté la plupart du temps de faire des affirmations générales, non véridiques et souvent invraisemblables. Il aurait pu à plusieurs reprises étayer ses assertions par des témoignages indépendants et crédibles. Il ne l'a pas fait. J'en infère que cette preuve lui aurait été défavorable. En résumé, ces requérants ne m'ont tout simplement pas convaincu qu'ils avaient satisfait aux conditions prévues au paragraphe 167(5) de la Loi.
+[10] Est-ce que monsieur Jean-Marc Bergeron a satisfait aux conditions prévues au paragraphe 167(5) de la Loi? La preuve de monsieur Jean‑Marc Bergeron, qui avait le fardeau de me démontrer, selon la prépondérance des probabilités, qu'il avait satisfait aux conditions prévues au paragraphe 167(5) de la Loi reposait essentiellement sur le témoignage de son frère Jean-Paul, auquel j'accorde peu de valeur probante, et sur son témoignage, qui pourrait se résumer ainsi : il avait été gravement malade de mars 2004 jusqu'à la fin de l'année et il croyait que son frère s'occupait de ses affaires. Même si j'étais convaincu que monsieur Jean‑Marc Bergeron ne pouvait ni agir, ni charger quelqu'un d'agir pendant la période prescrite pour interjeter appel compte tenu de son état de santé, il n'en demeure pas moins qu'il devait me convaincre que la demande de prorogation du délai pour interjeter appel avait été produite dès que les circonstances le permettaient. La preuve a révélé qu'il était toutefois suffisamment en forme pour rencontrer Me Généreux le 30 juin 2004. Pourquoi a-t-il attendu quatre mois pour présenter une telle demande? Qu'a-t-il fait pendant ces quatre mois? Son témoignage à cet égard est silencieux, si ce n'est pour expliquer qu'il avait mandaté son frère. Il aurait dû tout au moins s'informer auprès de son frère de l'évolution du dossier pendant ces quatre mois. Ce n'est pas demander l'impossible que de demander à un contribuable de faire preuve d'un minimum de diligence et aussi de s'assurer d'un certain suivi, ce qu'il n'a pas fait.
+[11] Pour ces motifs, les demandes sont rejetées, sans frais.
+Signé à Ottawa, Canada, ce 20e jour de décembre 2005.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE :
+2005CCI212
+No DU DOSSIER DE LA COUR :
+2004-4250(IT)APP
+INTITULÉ DE LA CAUSE :
+Assemblage Général Inc. et Sa Majesté la Reine, Jean-Paul Bergeron et Sa Majesté la Reine, Jean-Marc Bergeron et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+Le 21 janvier 2005
+MOTIFS DE L'ORDONNANCE PAR :
+L'honorable juge Paul Bédard
+DATE DE L'ORDONNANCE :
+Le 20 décembre 2005
+COMPARUTIONS :
+Avocat des requérants :
+Me Robert Jodoin
+Avocate de l'intimée :
+Me Stéphanie Côté
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour les requérants :
+Nom :
+Me Robert Jodoin
+Étude :
+Jodoin Huppé
+Granby (Québec)
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir la page 59 des notes sténographiques.
+[2] Voir la page 13 des notes sténographiques.
+[3] Voir les pages 14, 15, 18, 19, 20, 42 et 43 des notes sténographiques.
+[4] Voir les pages 25 et 26 des notes sténographiques.
+[5] Voir la page 45 des notes sténographiques.
+[6] Voir la page 45 des notes sténographiques.

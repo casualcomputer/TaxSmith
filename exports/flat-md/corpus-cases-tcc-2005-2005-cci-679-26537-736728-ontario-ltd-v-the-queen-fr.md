@@ -1,0 +1,156 @@
+---
+title: "736728 Ontario Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26537/index.do"
+last_modified: "2005-10-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 679"
+citation2: ""
+neutral_citation: "2005 CCI 679"
+decision_date: "2005-10-31"
+language: "fr"
+item_id: "26537"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3219
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:21:43.070000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "104c744984c5db07f6f60345b70f2d18c04c2d1772e1eea3b3a87a6108bdddbd"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 736728 Ontario Ltd. v. The Queen
+
+- Citation: 2005 CCI 679
+- Decision date: 2005-10-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3219, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+736728 Ontario Ltd. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-31
+Référence neutre
+2005 CCI 679
+Numéro de dossier
+2003-352(GST)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-352(GST)I
+ENTRE :
+736728 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Devant : l’Honorable juge Lucie Lamarre
+Avocate de l’appelante :
+Me Susan Tataryn
+Avocats de l’intimée :
+Me Joanna Hill et
+Me John Shipley
+____________________________________________________________________
+ORDONNANCE
+Les avocats de l’intimée ayant présenté à la Cour une requête qui doit être tranchée sur la base des observations écrites et sans comparution des parties, pour obtenir une ordonnance modifiant le jugement et les motifs de jugement datés du 21 janvier 2004 par l’annulation, pour cause d’erreur découlant d'un lapsus ou d'une omission, de l’allocation des dépens qui y est ordonnée;
+l’avocate de l’appelante contestant cette requête visant à obtenir une ordonnance modifiant lesdits jugement et motifs de jugement par l’annulation de l’allocation des dépens qui y est ordonnée;
+la requête est rejetée en conformité avec les motifs d’ordonnance ci-joints.
+Signé à Ottawa, Canada, ce 31e jour d’octobre 2005.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 3e jour de février 2006
+Éric Vovan, traducteur
+Référence : 2004CCI679
+Date : 20051031
+Dossier : 2003-352(GST)I
+ENTRE :
+736728 ONTARIO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS D’ORDONNANCE
+La juge Lamarre
+[1] L’intimée a présenté une requête pour obtenir une ordonnance annulant, pour cause d’erreur découlant d'un lapsus ou d'une omission, l’allocation des dépens ordonnée dans le jugement et les motifs de jugement datés du 21 janvier 2004.
+[2] L’appelante demande à notre Cour de refuser de recourir à la « règle du lapsus » pour annuler l’allocation des dépens, puisque le retard de l’intimée à présenter la requête a entraîné un préjudice financier pour l’appelante.
+[3] Afin de statuer sur la présente requête, il faut commencer par la chronologie des événements pertinents.
+[4] Le 16 janvier 2003, l’appelante a déposé un avis d’appel relativement à une cotisation datée du 6 février 2002, dans laquelle le ministre du Revenu national (« ministre ») avait rejeté un crédit de taxe sur les intrants (« CTI ») de 12 600 $ aux termes de l’article 169 de la Loi sur la taxe d’accise. L’appelante a choisi d’interjeter appel selon la procédure informelle.
+[5] Le 26 mars 2003, l’intimée a déposé sa réponse à l’avis d’appel. La question à trancher était celle de savoir si l’appelante pouvait demander un CTI de 12 600 $ sur le prix d’achat d’un aéronef.
+[6] L’audition de l’appel a eu lieu les 24 et 25 septembre 2003, à Ottawa, en Ontario. Dans le jugement et les motifs de jugement datés du 21 janvier 2004, l’appel a été accueilli et les dépens ont été adjugés contre l’intimée.
+[7] Le 3 janvier 2005, l’avocate de l’appelante a envoyé au ministère de la Justice une lettre demandant le paiement des dépens adjugés dans le jugement et y a joint une copie de son mémoire de dépens, dont le montant s’élevait à 2 249,22 $.
+[8] Le 13 janvier 2005, une parajuridique de la Section des services du droit fiscal du ministère de la Justice a envoyé à l’avocate de l’appelante une lettre lui indiquant qu’elle était chargée du dossier en ce qui concernait les dépens et qu’elle communiquerait avec elle après avoir examiné le mémoire de dépens.
+[9] Le 25 janvier 2005, la même parajuridique du ministère de la Justice a envoyé à l’avocate de l’appelante une deuxième lettre lui indiquant que le mémoire de dépens avait été examiné et faisant valoir que les honoraires d’avocat, les débours et la TPS y figurant étaient trop élevés.
+[10] Le 21 mars 2005, l’avocate de l’appelante a répondu par écrit à la parajuridique du ministère de la Justice et a accepté de réduire les montants de ses honoraires d’avocat et des débours, mais a demandé en même temps, à l’égard des frais de déplacement et de subsistance de deux témoins, un montant de 40 $ par jour pour chacun des témoins, conformément au paragraphe 11(1) des Règles de procédure de la Cour canadienne de l'impôt à l'égard de la Loi sur la taxe d'accise (procédure informelle) (« Règles informelles en matière de TPS »).
+[11] Le 10 mai 2005, la parajuridique a répondu par écrit à l’avocate de l’appelante. Elle a accepté de payer 50 $ pour chacun des témoins et a invité l’avocate de l’appelante à présenter des reçus à l’égard de toutes les dépenses engagées par les témoins aux termes du paragraphe 11(1) des Règles informelles en matière de TPS. De plus, en ce qui concerne la TPS, la parajuridique a écrit ce qui suit :`[TRADUCTION] « [c]omme je vous l’ai déjà mentionné, la TPS est un poste admissible dans un mémoire de dépens ». Elle a ensuite expliqué les conditions de remboursement de la TPS prévues au paragraphe 11(4) des Règles informelles en matière de TPS (voir la pièce E jointe à l’affidavit de Manon Hurtubise déposé avec les observations écrites de l’appelante).
+[12] Le 31 mai 2005, un avocat général de la Section des services du droit fiscal du ministère de la Justice a envoyé à l’avocate de l’appelante une lettre l’informant qu’il n’était pas d’accord avec son mémoire de dépens, puisque le montant en litige dans l’appel excédait 7 000 $ et que, par conséquent, notre Cour n’était pas compétente pour allouer les dépens dans le jugement rendu le 21 janvier 2004.
+[13] Le 1er juin 2005, l’avocate de l’appelante a envoyé par télécopieur, à l’avocat général du ministère de la Justice, une lettre lui indiquant que, même si la Cour pouvait avoir excédé sa compétence, le ministère de la Justice n’avait pris aucune mesure pour interjeter appel de l’ordonnance et que, par conséquent, l’ordonnance devrait être maintenue.
+[14] Le 1er juin 2005, l’avocat général du ministère de la Justice a répondu à la télécopie de l’avocate de l’appelante et a maintenu son opposition au mémoire de dépens.
+[15] Le 2 juin 2005, l’avocat général du ministère de la Justice a envoyé à l’avocate de l’appelante une lettre l’informant qu’il saisirait notre Cour de la question, en vue d’en obtenir le règlement.
+[16] Le 6 juin 2005, l’avocate de l’appelante a envoyé à l’avocat général du ministère de la Justice une lettre lui indiquant qu’elle avait négocié le montant de ses honoraires avec une représentante de la Couronne depuis janvier 2005 et que, pendant tout ce temps, la Couronne n’avait mentionné aucune question de compétence. Elle a également joint à sa lettre un mémoire de dépens révisé qui comprenait la plupart des concessions demandées par la Couronne (pièce I jointe à l’affidavit de Manon Hurtubise déposé avec les observations écrites de l’appelante).
+[17] Le 17 juin 2005, l’intimée a introduit la présente requête pour demander à la Cour d’annuler l’allocation des dépens ordonnée dans le jugement rendu le 21 janvier 2004.
+Observations des parties
+[18] Selon l’intimée, aux termes de l’alinéa 18.3009(1)c) de la Loi sur la Cour canadienne de l’impôt (« Loi sur la CCI »), notre Cour n’est pas compétente pour allouer les dépens dans les appels interjetés en vertu des Règles informelles en matière de TPS si le montant en litige excède 7 000 $. La disposition se lit comme suit :
+18.3009 (1) Dans sa décision d'accueillir un appel visé à l'article 18.3001, la Cour rembourse à la personne qui a interjeté appel le droit de dépôt qu'elle a acquitté en vertu de l'alinéa 18.15(3)b), et la Cour peut, conformément aux modalités prévues par ses règles, allouer les frais et dépens à cette personne, si le montant en litige est réduit de plus de moitié et si :
+[. . .]
+c) dans le cas d'un appel interjeté en vertu de la partie IX de la Loi sur la taxe d'accise :
+(i) le montant en litige n'excède pas 7 000 $,
+(ii) le total des fournitures pour l'exercice précédent de la personne n'excède pas 1 000 000 $;
+[19] L’intimée soutient que le montant en litige était de 12 600 $ et que l’allocation des dépens par la Cour était une faute accidentelle, une erreur ou une omission pouvant être corrigée par la Cour en tout temps. Selon l’intimée, une allocation des dépens faite par mégarde, alors que la Cour n’avait pas la compétence nécessaire pour adjuger ces dépens, est précisément le genre de faute de transcription, d’erreur ou d’omission qui fait intervenir la « règle du lapsus ». À cet égard, l’intimée renvoie à l’arrêt Besse c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.F. no 1790 (QL), [2000] 1 C.T.C. 174 (CAF). L’intimée ajoute que notre Cour a la compétence inhérente de modifier les ordonnances qui, en raison d’une faute accidentelle, d’une erreur ou d’une omission, n’expriment pas la véritable intention de la Cour. À cet égard, l’intimée renvoie aux arrêts Bank of Nova Scotia v. Golden Forest Holdings Ltd. (C.A.N.-É.), [1990] N.S.J. no 230 (QL), 43 C.P.C. (2d) 16 et Dumont v. Law Society of Prince Edward Island (C.A.Î.-P.-É.), [1989] P.E.I.J. no 168 (QL), 65 D.L.R. (4th) 687, 80 Nfld. & P.E.I.R. 1.
+[20] L’appelante soutient que l’intimée a introduit la présente requête dix-sept mois après que la Cour eut rendu une ordonnance relative aux dépens contre l’intimée et après avoir négocié avec l’appelante le montant approprié des dépens pendant plus de cinq mois, par l’échange de nombreux écrits administratifs. L’avocate de l’appelante précise qu’elle a présenté le mémoire de dépens et négocié avec l’intimée de bonne foi, sans être au courant d’une quelconque question de compétence. Elle ajoute que l’appelante a engagé des coûts supplémentaires importants en raison du défaut de l’intimée d’introduire la présente requête de façon opportune et de ses négociations concernant le montant approprié des dépens.
+[21] Selon l’appelante, l’intimée aurait pu introduire une demande de contrôle judiciaire en application de l’article 18.1 de la Loi sur les Cours fédérales ou une requête devant notre Cour en vertu de la « règle du lapsus », soit au moment où le jugement a été rendu, soit au moment où l’appelante a fourni son mémoire de dépens à l’intimée pour la première fois.
+[22] L’appelante est d’avis que la Cour ne devrait pas apporter de modification si une injustice sera causée à une partie du fait que celle-ci sera placée dans une position telle qu’elle en subirait un préjudice. Sur cette question, l’avocate de l’appelante renvoie à l’extrait suivant tiré de l’arrêt La Reine c. Canderel Limited, 93 DTC 5357 (CAF), aux pages 5360 et 5361 :
+En ce qui concerne l'injustice causée à l'autre partie, je ne puis qu'adopter, comme l'a fait le juge Mahoney, J.C.A., dans l'arrêt Meyer [(1985), 62 N.R. 70 (C.A.) à la p. 72], les propos suivants de lord Esher, M.R., dans l'arrêt Steward v. North Metropolitan Tramway Company (1886), 16 Q.B.D. 556 (C.A.), à la page 558 :
+[TRADUCTION] Il n'y a pas d'injustice si la partie adverse peut être indemnisée au moyen d'une adjudication de dépens; cependant, si la modification aurait pour effet de placer la partie adverse dans une position telle qu'elle doive en subir un préjudice, elle ne doit pas être faite.
+et les paroles qui leur font suite :
+[TRADUCTION] Et le même principe a été exposé, un peu plus clairement je crois, par le juge Bowen, qui dit qu'une modification doit être autorisée « lorsqu'il est possible de mettre les parties dans la même situation, aux fins de la justice, que celle dans laquelle elles étaient lorsque l'erreur a été commise ».
+Lorsqu'il s'agit d'appliquer cette règle à la présente affaire, demandons-nous, dans l'éventualité où la modification serait accueillie présentement, si le demandeur serait dans la même position que celle dans laquelle il aurait été si les défendeurs avaient correctement plaidé dès le début? […]
+[23] Par conséquent, l’avocate de l’appelante fait valoir que la requête devrait être rejetée au motif que toute modification apportée à cette étape-ci causerait un préjudice à l’appelante et la placerait dans une position telle qu’elle en subirait un préjudice.
+Analyse
+[24] En l’espèce, il n’est pas contesté que, conformément à l’alinéa 18.3009(1)c) de la Loi sur la CCI, notre Cour n’était pas compétente pour allouer les dépens dans le jugement rendu le 21 janvier 2004. À n’en pas douter, le montant en litige excédait 7 000 $, puisque l’appelante a, dans son appel, demandé un CTI de 12 600 $.
+[25] Il est également évident qu’au moment où le jugement et les motifs de jugement ont été rendus, soit le 21 janvier 2004, tant la Cour que les parties n’ont pas tenu compte de la restriction imposée par l’alinéa 18.3009(1)c) de la Loi sur la CCI.
+[26] Par conséquent, il s’agit de savoir si, tel que le soutient l’intimée, les circonstances de l’espèce justifient que notre Cour exerce à cette étape-ci sa compétence inhérente d’annuler l’ordonnance relative aux dépens, ou si, tel que le fait valoir l’appelante, le recours approprié consistait soit à interjeter appel du jugement auprès de la Cour d’appel fédérale, soit à introduire de façon opportune, devant notre Cour, une requête visant à modifier le jugement.
+[27] Selon la règle générale, énoncée par la Cour suprême du Canada dans l’arrêt Chandler c. Alberta Association of Architects, [1989] 2 R.C.S. 848, à la page 860, on ne saurait revenir sur une décision judiciaire définitive ou la modifier relativement à une question de droit fondamental après que le jugement de la cour a été rédigé, prononcé et inscrit. Dès lors, le pouvoir d’entendre à nouveau l’affaire est transféré aux tribunaux d’appel. Tel qu’énoncé dans l’arrêt Chandler, précité, à la page 862, la règle générale, en vertu de laquelle la cour devient functus officio, se fonde sur un « motif de principe qui favorise le caractère définitif des procédures » ayant fait l'objet d'un appel en bonne et due forme (voir Reekie c. Messervey, [1990] 1 R.C.S. 219, à la page 222, [1990] A.C.S. no 29 (QL), au paragraphe 7; voir aussi Laskaris v. M.N.R., [1990] A.C.I. no 214 (QL) et Owen Holdings Ltd. v. The Queen, 97 DTC 380, à la page 383, 1997 CarswellNat 495, au paragraphe 25).
+[28] Toutefois, la règle générale est assujettie à des exceptions. Un jugement peut être modifié après qu’il a été prononcé et inscrit (1) lorsqu’il y a eu lapsus en le rédigeant ou (2) lorsqu'il y a eu une erreur dans l'expression de l'intention manifeste de la cour (voir Chandler, précité, à la page 860).
+[29] La « règle du lapsus » ne permet pas au tribunal de substituer au jugement original un jugement complètement différent qu’il n’avait pas l’intention de rendre lorsqu’il a rendu son jugement original (voir Minister of National Revenue v. Gunnar Mining Ltd., [1970] Ex. C.R. 328). Tel qu’énoncé dans l’arrêt Gunnar Mining, à la page 342, le tribunal ne peut modifier complètement le fond de son jugement au motif qu’il a négligé quelque chose au moment de rendre son jugement.
+[30] Tel que prévu dans l’arrêt Reekie c. Messervey, précité, à la page 222, la « règle du lapsus » doit être interprétée étroitement, sauf dans les cas où il n’y a aucune voie d’appel.
+[31] En l’espèce, je conclus que l’intimée pouvait interjeter appel de la décision du 21 janvier 2004 auprès de la Cour d’appel fédérale. Au moment de rendre son jugement, la Cour n’a pas tenu compte de la limite de 7 000 $ prévue à l’alinéa 18.3009(1)c) de la Loi sur la CCI et elle avait l’intention d’allouer les dépens. En ce sens, il n’y a eu aucune faute de transcription. Dans l’arrêt La Reine c. Moncton Computer Exchange Ltd., 2002 DTC 6751, [2001] G.S.T.C. 143 (CAF), au paragraphe 26, le juge Sharlow a précisé ce qui suit :
+Il s'ensuit que, si un juge de la Cour de l'impôt alloue les frais et dépens à un appelant dans un appel en matière de TPS ou de TPS/TVH suivant la procédure informelle sans avoir été mis au courant que l'affaire soulève une question quant à la limite de 7 000 $, la Cour n'infirmera pas l'allocation des frais et dépens à moins de circonstances exceptionnelles.
+[32] En l’espèce, l’intimée a tout d’abord accepté le jugement et a ensuite tenu des négociations avec l’avocate de l’appelante pendant cinq mois relativement au mémoire de dépens. Dans ce contexte, je conclus que la « règle du lapsus » ne s’applique pas, notamment parce que l’allocation des dépens qui est maintenant contestée était susceptible d’appel devant la Cour d’appel fédérale.
+[33] Je conclus également que la situation en l’espèce diffère de celle rencontrée dans l’affaire Besse, précitée. Dans cette affaire, citée par l’intimée, la Cour d’appel fédérale a conclu que les dépens avaient été alloués par erreur et qu’aucun délai n’était prévu pour modifier, en vertu du paragraphe 397(2) des Règles de la Cour fédérale, la partie d’un jugement se rapportant à une telle allocation.
+[34] Dans l’affaire Besse, il n’y a eu aucune allégation de préjudice subi par la partie contestant la requête en modification du jugement.
+[35] Lorsque la « règle du lapsus » ne s’applique pas, la compétence inhérente de la Cour lui confère, dans les cas exceptionnels, le pouvoir d’annuler un jugement qui a été incorrectement inscrit. Toutefois, ce pouvoir est limité et discrétionnaire et ne sera exercé que s’il est satisfait aux conditions suivantes : (1) il n’y a eu aucun retard à présenter la demande; (2) aucune partie n’a profité du jugement; (3) aucune partie ne subira de préjudice résultant de l’annulation de l’inscription du jugement; (4) l’intérêt de la justice favorise l’annulation de l’inscription (voir Fas Gas Oil Ltd. v. J.H. Automotive Ltd., [2004] A.J. no 394 (Cour d’appel de l’Alberta) (QL), aux paragraphes 25 et 26).
+[36] En l’espèce, il y a eu un retard de dix-sept mois à demander la modification du jugement du 21 janvier 2004. L’appelante a préparé un mémoire de dépens concernant les négociations qui ont eu lieu avec l’intimée au cours d’une période de cinq mois. En l’espèce, l’appelante a pris des mesures irrévocables sur la foi du jugement. De plus, des coûts supplémentaires ont vraisemblablement été engagés en raison du temps qu’a consacré son avocate à négocier avec l’intimée en ce qui concerne le mémoire de dépens. À mon avis, l’appelante subirait clairement un préjudice indu si le jugement et les motifs de jugement étaient corrigés à cette étape-ci.
+[37] Par conséquent, je suis d’avis que notre Cour n’a pas le pouvoir de modifier le jugement du 21 janvier 2004. Pour corriger la présente erreur, il fallait interjeter appel auprès de la Cour d’appel fédérale, conformément au paragraphe 27(1.2) de la Loi sur les Cours fédérales.
+[38] La requête est rejetée et l’allocation des dépens est maintenue.
+Signé à Ottawa, Canada, ce 31e jour d’octobre 2005.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 3e jour de février 2006
+Éric Vovan, traducteur

@@ -1,0 +1,134 @@
+Title: Harvey v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/66749/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-41-66749-harvey-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-02-06
+
+# Harvey v. The Queen
+
+- Citation: 2014 TCC 41
+- Decision date: 2014-02-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5949, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Harvey v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-02-06
+Neutral citation
+2014 TCC 41
+File numbers
+2011-249(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-249(IT)G
+BETWEEN:
+GLEN HARVEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Order as to Costs
+Before: The Honourable Justice David E. Graham
+Participants:
+Counsel for the Appellant:
+Richard Beamish
+Counsel for the Respondent:
+Rachelle Nadeau
+____________________________________________________________________
+ORDER
+Fixed costs of $12,000 payable forthwith are awarded to the Respondent.
+Signed at Ottawa, Canada, this 6th day of February 2014.
+“David E. Graham”
+Graham J.
+Citation: 2014 TCC 41
+Date: 20140206
+Docket: 2011-249(IT)G
+BETWEEN:
+GLEN HARVEY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] In my Judgment dated September 26, 2013 I allowed Mr. Harvey’s appeal in part. At the conclusion of the hearing, the Respondent asked for the opportunity to make written submissions regarding costs. I have now had the opportunity to review both parties’ written submissions.
+[2] The awarding of costs in this matter is complicated by a previous award of costs made in respect of an adjournment request. Sometime after this matter was originally set down for hearing, the parties wrote to the Court requesting an adjournment so that they could pursue settlement options. The Court refused their request. Unfortunately, Mr. Harvey, anticipating that the Court would allow the request, had already made work related travel plans for the hearing date. Accordingly, Mr. Harvey made a further adjournment request. The Respondent took no position on the further request. The Court allowed the request but ordered costs of $4,000 in the cause which were not to be waived without the approval of the Court.
+[3] The Respondent is requesting costs in a lump sum amount of $12,000. This amount includes basic party and party costs, disbursements, the $4,000 in costs relating to the adjournment and additional costs to reflect what the Respondent characterizes as unnecessary time, expense and litigation steps incurred as a result of the Appellant’s position.
+[4] The Appellant is requesting costs determined in accordance with Tariff “B”. It is unclear from the materials filed by the Appellant whether the Appellant is seeking costs for a Class “B” proceeding or a Class “C” proceeding. Given the Appellant’s position that the inclusion of Mr. Harvey’s unreported commission revenue was never in issue, it appears to me that the amounts in issue would fall into a Class “B” proceeding.
+[5] Rule 147(3) of the Tax Court of Canada Rules (General Proceedure) sets out the following factors that the Court may consider in awarding costs:
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal of any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+Results of the Proceeding
+[6] As a result of the proceeding, Mr. Harvey was permitted to deduct some but not all of the additional business expenses that he sought. In total, Mr. Harvey was permitted to deduct approximately one-third of the expenses he was claiming. However, the gross negligence penalties assessed against him in respect of his unreported revenue were upheld. As a result, Mr. Harvey was just over 20% successful on his appeal. Put another way, the Respondent was almost 80% successful in upholding the reassessments. I put significant weight on this factor.
+Amount in Issue
+[7] While the amount in issue in this appeal was no doubt significant to Mr. Harvey, it was not an overly significant amount of money. I am not giving any weight to this factor.
+Importance of the Issues
+[8] None of the issues in the appeal were of importance to the development of tax law, to the public’s interest or to a broad number of people.
+Settlement Offers
+[9] There were numerous settlement offers made by both parties. None of the Respondent’s offers was better than the ultimate outcome of the appeal. Mr. Harvey’s offers can be broken down into 2 categories. The first category is offers that were not better than the ultimate outcome on appeal. It is self evident why those offers are not relevant. The second category is offers that may have been better than the ultimate outcome on appeal but that were offers that the Respondent was unable to accept because they would have required the Minister to reduce Mr. Harvey’s penalties by applying a lower penalty percentage (i.e. something less than the 50% mandated by subsection 163(2)) to the same amount of unreported income. The question of whether Mr. Harvey was grossly negligent or not was an all or nothing question. Either he was grossly negligent in failing to report all of his revenue in 2003 or he was not. Similarly, either he was grossly negligent in failing to report all of his revenue in 2004 or he was not. While the matter could have been settled on the basis that Mr. Harvey was grossly negligent in one year and not in the other year, it could not have been settled by simply reducing the penalty percentage to be applied to the unreported revenue or simply reducing the amount of unreported revenue to which the penalty would be applied by a given percentage. The Minister does not have the authority to effect settlements on that basis.
+[10] Offers that the Minister is unable to accept were discussed by the Federal Court of Appeal in CIBC World Markets Inc. v. Canada, 2012 FCA 3:
+14 Rule 147(3)(d) is aimed at encouraging parties to make offers of settlement and to treat them seriously. An unaccepted offer can trigger adverse costs consequences if, in light of the Court's decision, it turns out that the offer should have been accepted.
+15 Implicit in this is an important pre-condition: only offers that, as a matter of law, could have been accepted can trigger costs consequences. If, due to some legal disability, a party could not have accepted an offer, adverse costs consequences should not be visited upon that party.
+…
+20 … Can the Minister accept an offer of settlement that requires him to issue a reassessment that cannot be supported on the facts and the law? Put another way, does the Minister have the power to issue reassessments on the basis of compromise, regardless of the facts and the law before him?
+21 I answer these questions in the negative.
+[11] Mr. Harvey submits the authority that the Minister has under subsection 220(3.1) of the Income Tax Act to waive some or all of the penalties assessed against a taxpayer would have allowed the Minister to accept Mr. Harvey’s proposed settlements involving the reduction of penalties. The relief available under subsection 220(3.1) is not relief which the Court has the power to grant, therefore not relief which Mr. Harvey could have obtained at trial and therefore not relief which I need to consider when reviewing settlement offers.
+[12] Based on the foregoing, I am not giving any weight to the settlement offers.
+Volume of Work
+[13] The amount of work involved in this appeal was not significant. I am not giving any weight to this factor.
+Complexity of the Issues
+[14] Most of the issues in the appeal did not explore new areas of tax law. The one exception would be the issue regarding the deductibility of Mr. Harvey’s vehicle repair expenses relating to the accident. Mr. Harvey was ultimately successful in respect of that issue. In fact, it makes up just over half of the additional expenses which he was allowed. That said, the issue, though novel, was not unduly complex. Therefore, I give only minor weight to this factor.
+Conduct Affecting the Duration of the Proceeding
+[15] Mr. Harvey’s decision to fight the application of gross negligence penalties despite having already pled guilty to tax evasion in respect of the exact same amount had a significant effect on the length of the proceedings. Both of the Respondent’s witnesses were called in respect of the penalties issue and a great deal of Mr. Harvey’s time on the witness stand was spent dealing with that issue. I estimate that the trial would have taken approximately one-third as long if Mr. Harvey had not pursued the penalties issue. I give significant weight to this factor.
+Denial or Refusal to Admit
+[16] There is some dispute between the parties as to whether Mr. Harvey conceded that he was not disputing the inclusion of his unreported income prior to trial. The Notice of Appeal did not make that concession clear. However, from my review of the documents provided by the parties, I accept that Mr. Harvey did make this concession well before trial. Accordingly, I give no weight to this factor.
+Improper, Vexatious or Unnecessary Stages
+[17] There was no evidence that would suggest that any stage in the proceeding was improper, vexatious or unnecessary.
+Stages Taken Through Negligence, Mistake or Excessive Caution
+[18] There was no evidence that would suggest that any stage in the proceeding was taken through negligence, mistake or excessive caution.
+Other Relevant Matters
+[19] Turning to the $4,000 in costs previously ordered. In my view, those costs should be borne solely by Mr. Harvey as it was his actions that necessitated the adjournment.
+Summary
+[20] Considering all of the above factors, I feel that the Respondent’s approach of lump sum costs payable to the Respondent, taking into account party and party costs, disbursements, the $4,000 in costs previously awarded and the additional time and expense caused by Mr. Harvey’s pursuit of the penalty issue is the appropriate means of dealing with costs. Accordingly, I will award fixed costs payable to the Respondent forthwith in the total amount of $12,000. This figure includes the costs relating to the parties’ submissions on costs.
+Signed at Ottawa, Canada, this 6th day of February 2014.
+“David E. Graham”
+Graham J.
+CITATION: 2014 TCC 41
+COURT FILE NO.: 2011-249(IT)G
+STYLE OF CAUSE: GLEN HARVEY AND HER MAJESTY THE QUEEN
+REASONS FOR ORDER BY: The Honourable Justice David E. Graham
+DATE OF ORDER: February 6, 2014
+PARTICIPANTS:
+Counsel for the Appellant:
+Richard Beamish
+Counsel for the Respondent:
+Rachelle Nadeau
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Richard Beamish
+Firm: Tapper Cuddy LLP
+Winnipeg, Manitoba
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

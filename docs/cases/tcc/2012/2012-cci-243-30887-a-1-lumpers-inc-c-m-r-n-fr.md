@@ -1,0 +1,217 @@
+---
+title: "A-1 Lumpers Inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30887/index.do"
+last_modified: "2012-07-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 243"
+citation2: ""
+neutral_citation: "2012 CCI 243"
+decision_date: "2012-07-18"
+language: "fr"
+item_id: "30887"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7446
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:29:48.261000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e148deb68601f53379226dd14221ba03df5c3d7f3c3ab2810c75d95fea0bf712"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# A-1 Lumpers Inc. c. M.R.N.
+
+- Citation: 2012 CCI 243
+- Decision date: 2012-07-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7446, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+A-1 Lumpers Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-07-18
+Référence neutre
+2012 CCI 243
+Numéro de dossier
+2008-4212(EI), 2009-14(CPP)
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-4212(EI)
+ENTRE :
+A-1 LUMPERS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de A-1 Lumpers Inc. (2009-14(CPP) les 13 et 14 juin 2012, à Fredericton (Nouveau‑Brunswick)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocats de l’appelant :
+Me J. Paul M. Harquail
+Me Misty Watson
+Avocat de l’intimé :
+Me Gregory B. King
+JUGEMENT
+L’appel est rejeté et la décision du ministre du Revenu national est confirmée, à savoir que Michael R. Trueman a exercé un emploi assurable pendant qu’il a été au service de l’appelante du 7 janvier 2007 au 21 juillet 2007, conformément à l’alinéa 5(1)d) de la Loi sur l’assurance-emploi et à l’alinéa 6g) du Règlement sur l’assurance-emploi.
+Signé à Halifax (Nouvelle-Écosse) ce 18e jour de juillet 2012.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 25e jour de septembre 2012.
+S. Tasset
+Dossier : 2009-14 (CPP)
+ENTRE :
+A-1 LUMPERS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec l’appel de A-1 Lumpers Inc. (2008-4212(EI) les 13 et 14 juin 2012, à Fredericton (Nouveau‑Brunswick)
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Avocats de l’appelant :
+Me J. Paul M. Harquail
+Me Misty Watson
+Avocat de l’intimé :
+Me Gregory B. King
+JUGEMENT
+L’appel est rejeté et la décision du ministre du Revenu national est confirmée, à savoir que Michael R. Trueman a exercé un emploi ouvrant droit à pension pendant qu’il a été au service de l’appelante du 7 janvier 2007 au 21 juillet 2007, conformément à l’alinéa 6(1)a) du Régime de pensions du Canada et aux paragraphes 34(1) et (2) du Règlement sur le Régime de pensions du Canada.
+Signé à Halifax (Nouvelle-Écosse) ce 18e jour de juillet 2012.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 25e jour de septembre 2012.
+S. Tasset
+Référence : 2012CCI243
+Date : 20120718
+Dossier : 2008-4212(EI)
+2009-14(CPP)
+ENTRE :
+A-1 LUMPERS INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] A-1 Lumpers interjette appel de la décision du ministre du Revenu national (le « ministre ») selon laquelle Michael R. Trueman (le « travailleur ») a été au service de cette entreprise dans le cadre d’un emploi assurable et ouvrant droit à pension du 7 janvier 2007 au 21 juillet 2007.
+[2] Pour rendre sa décision, le ministre a conclu que l’appelante agissait comme une agence de placement à l’égard du travailleur au sens de l’alinéa 6g) du Règlement sur l’assurance-emploi (le « Règlement sur l’AE ») et des paragraphes 34(1) et (2) du Règlement sur le Régime de pensions du Canada (le « Règlement sur le RPC »).
+[3] L’appelante a nié être une agence de placement. Selon sa présidente et unique actionnaire, Mae LeBlanc, l’activité principale de l’appelante consistait à fournir des services de courtage à des débardeurs. (Un « débardeur » est une personne dont on retient les services pour décharger dans des entrepôts des marchandises qui se trouvent à bord de camions ou, à l’inverse, pour charger à bord de camions des marchandises qui se trouvent dans des entrepôts.)
+[4] Mae LeBlanc a témoigné que l’appelante considérait que ses clients étaient les débardeurs. La description qu’elle a faite du service de courtage que l’appelante offrait aux débardeurs était essentiellement la même que celle qu’elle avait faite au paragraphe 10 de l’avis d’appel, et dont le texte est le suivant :
+[traduction]
+10. Le principal service que fournit l’appelante consiste à offrir aux débardeurs un mode de paiement accéléré et régulé. Après avoir terminé une ou plusieurs tâches de débardage, un débardeur peut soumettre à l’appelante une confirmation qu’il a exécuté la ou les tâches en question. Ce débardeur reçoit ensuite de l’appelante un paiement forfaitaire et accéléré pour le travail accompli. L’appelante retient un pourcentage du paiement fait au débardeur en guise de commission pour ce service de paiement accéléré. En retenant un pourcentage du paiement, l’appelante achète ou le débardeur cède la demande de paiement du débardeur, que l’appelante soumet plus tard à la société de transport, au réceptionnaire d’entrepôt ou au chauffeur de camion en vue de recouvrer la somme d’argent versée d’avance au débardeur. De cette façon, l’appelante agit, notamment, comme courtier et comme transmetteur de fonds pour les débardeurs.
+[5] Pour étayer le témoignage de Mae LeBlanc, l’appelante a également fait témoigner deux débardeurs. Darrel Carruthers a déclaré qu’il travaillait auprès d’entrepôts différents; il connaissait les réceptionnaires et il obtenait ses propres tâches de débardage. Il n’avait recours aux services de l’appelante que pour s’occuper de ses tâches administratives, pour facturer les sociétés de transport pour le compte desquelles il déchargeait des marchandises ainsi que pour lui payer sa rétribution de façon accélérée. Shawn Carter a pour sa part déclaré qu’il obtenait la totalité de ses tâches de débardage par l’intermédiaire de l’appelante. Il n’avait jamais discuté avec les sociétés de transport du fait de savoir si elles le paieraient directement, mais il présumait qu’il pouvait leur facturer directement ses services ou vendre ses informations à une autre entreprise qui offrait des services de débardage.
+[6] Dans l’avis d’appel, l’appelante a également décrit un service de négociation de tarifs qu’elle offrait aux débardeurs :
+[traduction]
+12. Outre ses services de courtage principaux, l’appelante offre également aux débardeurs un service de négociation de tarifs. Elle détermine à quel endroit les marchandises seront livrées et à quel moment les services de débardage seront requis. Elle négocie ensuite à l’avance le tarif de débardage avec la société de transport, le réceptionnaire, le courtier ou le chauffeur de camion applicable. Elle ne négocie que le tarif; elle ne conclut pas avec la société de transport, le réceptionnaire ou le chauffeur de camion de contrats relatifs à la fourniture de personnel de débardage.
+[7] L’intimé a appelé trois témoins : Michael Trueman, le travailleur, Jeff Pearson, directeur de terminal auprès de Day & Ross Transportation (« Day & Ross »), et Robert Brittain, agent des décisions auprès de l’Agence du revenu du Canada (l’« ARC »).
+[8] Les dispositions réglementaires qui sont en cause dans le présent appel sont les suivantes :
+Règlement sur l’AE
+6. Sont inclus dans les emplois assurables, s’ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants :
+[…]
+g) l’emploi exercé par une personne appelée par une agence de placement à fournir des services à un client de l’agence, sous la direction et le contrôle de ce client, en étant rétribuée par l’agence.
+Règlement sur le RPC
+34(1) Lorsqu’une personne est placée par une agence de placement pour la fourniture de services ou dans un emploi auprès d’un client de l’agence, et que les modalités régissant la fourniture des services et le paiement de la rémunération constituent un contrat de louage de services ou y correspondent, la fourniture des services est incluse dans l’emploi ouvrant droit à pension, et l’agence ou le client, quel que soit celui qui verse la rémunération, est réputé être l’employeur de la personne aux fins de la tenue de dossiers, de la production des déclarations, du paiement, de la déduction et du versement des contributions payables, selon la Loi et le présent règlement, par la personne et en son nom.
+(2) Une agence de placement comprend toute personne ou organisme s’occupant de placer des personnes dans des emplois, de fournir les services de personnes ou de trouver des emplois pour des personnes moyennant des honoraires, récompenses ou autres formes de rémunération.
+[9] Le terme « agence de placement » n’est pas défini dans le Règlement sur l’AE; cependant, je suis d’avis que la définition qu’en donne le Règlement sur le RPC s’applique au Règlement sur l’AE[1]. Dans son mémoire préparatoire à l’audience, l’appelante a souscrit à cette conclusion.
+[10] Les conditions réglementaires sont remplies si :
+a) le travailleur a été placé par l’appelante;
+b) le travailleur a fourni des services aux clients de l’appelante;
+c) le travailleur a été rétribué par l’appelante;
+d) pour ce qui est du Règlement sur l’AE, le travailleur a été soumis à la direction et au contrôle du client de l’appelante;
+e) pour ce qui est du Règlement sur le RPC, le travailleur a fourni des services pour le client de l’appelante dans le cadre de modalités qui constituent un contrat de louage de services ou qui y correspondent.
+L’agence de placement [11] Il est bien possible que l’appelante ait fourni les divers services qu’elle a décrits dans ses actes de procédure, mais je suis d’avis qu’elle a également agi comme agence de placement en rapport avec le travailleur, qui a clairement déclaré qu’il avait obtenu la totalité de ses tâches de débardage par l’intermédiaire de l’appelante. De deux choses l’une : soit il téléphonait à l’appelante, soit le répartiteur de cette dernière lui téléphonait pour lui faire savoir à quel moment, à quel endroit et pour quelle société de transport ses services étaient nécessaires. Au moment de son appel, le répartiteur lui indiquait le tarif à l’heure ou au chargement qu’il recevrait de l’appelante. Le travailleur ne négociait pas son tarif, pas plus que je ne crois qu’on lui demandait quel était son prix, comme l’a indiqué Mae LeBlanc. Le témoignage du travailleur n’a pas été ébranlé en contre‑interrogatoire.
+[12] L’appelante sollicitait les services de débardeurs par l’entremise de Service Canada. Le travailleur a déclaré qu’il avait pris connaissance de l’existence de l’appelante par les annonces que celle-ci publiait par l’intermédiaire de Service Canada.
+[13] L’appelante annonçait ses services de débardage sur son site Web, où l’on pouvait lire que [traduction] « A1 Lumpers offre à la région métropolitaine de Moncton des services de débardage inégalés » et [traduction] « seuls les débardeurs les plus efficaces et expérimentés ont des contrats de débardage avec A1 Lumpers », et que cette entreprise offrait [traduction] « une équipe excellente et efficace dont la fiabilité est reconnue depuis plus de dix ans ». À l’évidence, l’appelante annonçait ses services auprès des sociétés de transport et des entrepôts.
+[14] Mae LeBlanc a tenté de prendre ses distances par rapport aux déclarations faites sur le site Web en disant qu’elle n’avait pas pris part à la rédaction du texte présenté sur le site Web et que celui-ci avait été conçu par sa fille, mais je signale que le nouveau site Web de l’appelante dit exactement la même chose.
+[15] Le ministre a présumé que l’appelante annonçait les services de fourniture de débardeurs auprès des sociétés de transport et des entrepôts. L’appelante n’a pas réfuté cette présomption et, en fait, les éléments de preuve l’étayaient. Je conclus que l’un des services qu’offrait l’appelante était celui d’une agence de placement, et qu’elle a placé le travailleur au cours de la période pertinente.
+Les personnes placées auprès des clients de l’appelante [16] Mae LeBlanc a affirmé catégoriquement que ses clients étaient les débardeurs, et non les sociétés de transport ou les entrepôts. J’ai conclu que son témoignage était intéressé.
+[17] Jeff Pearson a déclaré que Day & Ross avait conclu un contrat avec l’appelante en vue de la fourniture de débardeurs qui déchargeraient ses camions de transport. Dans le même ordre d’idées, Robert Brittain a déclaré s’être entretenu avec Don Depuis, le directeur général de l’appelante, qui l’a informé que cette dernière concluait des contrats avec les sociétés de transport et les entrepôts en vue de leur fournir des débardeurs qui déchargeaient les camions. L’appelante tenait une liste de débardeurs actifs en vue de la fourniture de ces services.
+[18] J’ignore si l’appelante avait conclu un contrat écrit avec les entités qui utilisaient ses services de débardage, mais l’absence de documents officiels n’exclut pas la preuve selon laquelle il s’agissait des clients de l’appelante. C’était à l’appelante que les sociétés de transport et les entrepôts se plaignaient quand il n’y avait pas assez de débardeurs sur place. C’était à eux que l’appelante facturait les services de débardage et c’était eux qui réglaient l’état de compte établi par l’appelante. En fait, Jeff Pearson a déclaré que Day & Ross ne payait pas les états de compte de débardeurs particuliers lorsque des ententes relatives à la fourniture de services de débardage avaient été conclues avec l’appelante.
+[19] Comme autre preuve de ma conclusion selon laquelle les entrepôts et les sociétés de transport étaient les clients de l’appelante, Mae LeBlanc a déclaré que quand Source Medical est entrée en contact avec l’appelante pour faire du travail, cette entité a expressément demandé que ce soit le travailleur qui y soit affecté.
+[20] Au vu des éléments de preuve, je conclus que les clients de l’appelante étaient les divers entrepôts et sociétés de transport (les clients) qui sollicitaient les services de débardage.
+La direction et le contrôle du client de l’appelante [21] Tous les témoins, y compris Mae LeBlanc, ont déclaré que, par toutes les tâches que les débardeurs exécutaient, comme le déchargement ou le chargement d’un véhicule de transport, ou l’emballage de marchandises dans du plastique, ils étaient placés sous la direction et le contrôle des chauffeurs de camion ou du personnel de l’entrepôt.
+La rétribution [22] Je ne crois pas que l’appelante négociait un tarif avec les sociétés de transport et les entrepôts au bénéfice des débardeurs. Elle n’agissait pas par altruisme. Elle négociait un tarif avec ceux qui avaient recours à ses services de débardage et elle disait ensuite aux débardeurs le montant qu’on leur paierait pour chaque tâche. Selon Mae LeBlanc, si l’appelante négociait un tarif de 60 $ ou 65 $ par chargement auprès de la société de transport, elle versait au débardeur une somme variant entre 30 $ et 45 $ par chargement.
+[23] J’ai conclu que le témoignage de Mae LeBlanc n’a pas été très franc et direct quand on l’a interrogée sur les détails entourant les services de négociation de tarifs que l’appelante offrait censément.
+[24] Le répartiteur de l’appelante disait au travailleur quel serait son taux de rétribution quand il l’appelait pour l’exécution d’une tâche. Je conclus que l’appelante a fixé le taux de rétribution du travailleur.
+[25] L’appelante rétribuait le travailleur par dépôt direct dans son compte bancaire après un délai d’attente de deux semaines. Elle facturait les clients et était payée au moyen d’un chèque établi uniquement à son ordre. Selon Mae LeBlanc, l’appelante était payée dans les 30 à 100 jours suivant la date d’envoi de l’état de compte.
+[26] Dans la décision Graphic Assistants Inc./Assistance Graphique Inc. c. Ministre du Revenu national[2], le juge suppléant Weisman a conclu que, dans le contexte de l’alinéa 6g) du Règlement sur l’AE, à première vue, c’est la personne qui paie en réalité le travailleur qui rétribue ce dernier. Dans la décision Lebov c. Ministre du Revenu national[3], le juge Campbell Miller a souscrit à cette conclusion et a ajouté que l’on avait besoin de preuves pour écarter cette conclusion tirée à première vue. Je souscris à ces deux conclusions.
+[27] Il est évident au vu de la preuve que le travailleur a été rétribué par l’appelante et que cette dernière n’était pas, comme elle l’alléguait, un simple transmetteur de fonds entre ses clients et le travailleur[4].
+Un contrat de louage de services ou des modalités y correspondant [28] Le paragraphe 34(1) du Règlement sur le RPC exige que les modalités régissant la fourniture des services du travailleur auprès du client de l’appelante constituent un contrat de louage de services ou y correspondent. Cela m’oblige à examiner la relation en me fondant sur les critères mentionnés dans la décision Wiebe Door Services Ltd. c. Ministre du Revenu national[5], tout en gardant à l’esprit la question que la Cour suprême du Canada a posée dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc.[6], au paragraphe 47 de ses motifs :
+47 Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte.[…] [Non souligné dans l’original.]
+[29] La preuve étayait le fait que l’appelante et le travailleur envisageaient tous deux que ce dernier soit un entrepreneur indépendant. Cependant, cela ne met pas fin à l’analyse. Il est nécessaire aussi de vérifier si les conditions de la relation entre le travailleur et le client corroborent cette intention.
+[30] J’ai déjà conclu que le travailleur était placé sous la direction et le contrôle des clients de l’appelante. Ce facteur dénote qu’il existait un contrat de louage de services entre le travailleur et les clients de l’appelante.
+Les instruments de travail [31] Pour avoir accès aux entrepôts, le travailleur devait être muni de bottes à embouts d’acier, d’un casque de protection et d’un gilet. C’était lui qui fournissait ces articles. Le matériel, tel que les transpalettes à main, les pinces coupe‑fil et les couteaux polyvalents, était fourni par les entrepôts. Je conclus que ce facteur est neutre.
+Le risque de perte / la possibilité de profit [32] Mae LeBlanc a témoigné que le travailleur était responsable de toute marchandise qu’il endommageait dans l’exercice de ses fonctions et qu’elle parlait de cette responsabilité avec tous les débardeurs la première fois où elle retenait leurs services. Cependant, le travailleur a déclaré qu’aucune conversation de cette nature n’avait eu lieu et qu’il n’avait pas à payer les marchandises qu’il endommageait.
+[33] Dans le cas de Day & Ross, si l’un de ses chargements était endommagé, le client présentait une réclamation contre Day & Ross. Jeff Pearson a confirmé que Day & Ross n’avait jamais tenté de recouvrer le coût de marchandises endommagées auprès de débardeurs particuliers.
+[34] Je ne puis extrapoler à partir du témoignage de M. Pearson que toutes les sociétés de transport fonctionnaient de la même façon, mais je conclus toutefois, d’après le témoignage du travailleur, que ce dernier n’était pas responsable des marchandises qu’il pouvait avoir endommagées.
+[35] Le travailleur a exercé plusieurs emplois à temps partiel pendant la période où il était au service de l’appelante. Même si cela dénote habituellement que le travailleur est un entrepreneur indépendant, je signale que dans le contexte économique actuel, bien des gens sont tenus d’exercer plusieurs emplois, ne serait-ce que pour parvenir à joindre les deux bouts. Dans le cas du présent appel, le travailleur touchait soit un tarif à l’heure, soit un tarif par chargement, tous deux fixés par l’appelante. Il ne négociait pas son taux de rétribution. Je suis consciente que Mae LeBlanc a déclaré que les débardeurs pouvaient négocier leur taux de rétribution, mais j’ai conclu que son témoignage était intéressé.
+[36] Le travailleur ne pouvait pas retenir les services d’une autre personne pour le remplacer dans ses fonctions auprès de l’appelante s’il n’était pas disponible quand l’appelante lui téléphonait. Il n’avait pas de chances de profit.
+[37] L’appelante payait les primes de la Commission de la santé, de la sécurité et de l’indemnisation des accidents au travail pour le compte du travailleur.
+[38] Je suis d’avis que le travailleur n’avait ni un risque de perte ni une possibilité de profit. Ces critères dénotent que le travailleur était un employé au cours de la période pertinente.
+[39] Je suis d’avis que le travailleur n’avait ni un risque de perte ni une possibilité de profit. Ces critères dénotent que le travailleur était un employé au cours de la période pertinente.
+[40] Même si l’intention commune de l’appelante et du travailleur était que ce dernier soit un entrepreneur indépendant, les modalités de la relation professionnelle que le travailleur entretenait avec les clients de l’appelante, quand on les analyse par rapport aux facteurs énoncés dans l’arrêt Wiebe Door, ne la corroborent pas. Les modalités régissant la fourniture des services du travailleur et le paiement de sa rétribution étaient analogues à celles d’un contrat de louage de services.
+[41] Après avoir examiné la totalité des éléments de preuve, je conclus que l’appelante n’a pas réussi à réfuter les présomptions formulées dans les réponses du ministre aux avis d’appel, et ces présomptions sont donc tenues pour avérées.
+[42] Les appels sont rejetés et les décisions du ministre sont confirmées.
+Signé à Halifax (Nouvelle-Écosse), ce 18e jour de juillet 2012.
+« V.A. Miller »
+Juge Miller
+Traduction certifiée conforme
+ce 25e jour de septembre 2012.
+S. Tasset
+RÉFÉRENCE : 2012CCI243
+No DU DOSSIER DE LA COUR : 2008-4212(EI)
+2009-14(CPP)
+INTITULÉ : A-1 LUMPERS INC.
+c. M.R.N.
+LIEU DE L'AUDIENCE : Fredericton (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : Le 13 septembre 2012
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 18 juillet 2012
+COMPARUTIONS :
+Avocats de l’appelante :
+Me J. Paul M. Harquail
+Me Misty Watson
+Avocat de l’intimé :
+Me Gregory B. King
+AVOCATS INSCRITS AU
+DOSSIER :
+Pour l’appelant :
+Nom : J. Paul M. Harquail
+Misty Watson
+Cabinet : Stewart McKelvey
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] OLTCPI Inc. c. Le ministre du Revenu national, 2008 CCI 478, paragraphe 12.
+[2] 2008 CCI 673, paragraphe 4.
+[3] 2011 CCI 216.
+[4] Sheridan c. Ministre du Revenu national, [1985] A.C.F no 230 (CAF).
+[5] [1986] 3 C.F. 553 (CAF).
+[6] 2001 CSC 59, paragraphe 47.

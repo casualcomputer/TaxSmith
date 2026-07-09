@@ -1,0 +1,216 @@
+---
+title: "Guobadia v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/169564/index.do"
+last_modified: "2016-02-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 182"
+citation2: ""
+neutral_citation: "2016 TCC 182"
+decision_date: "2016-02-22"
+language: "en"
+item_id: "169564"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2902
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:57:58.207000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1131f77c9c20e1ab688653f06ed71e54bb8dc2344a6a92e71a393b591e566bf3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Guobadia v. The Queen
+
+- Citation: 2016 TCC 182
+- Decision date: 2016-02-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2902, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guobadia v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-02-22
+Neutral citation
+2016 TCC 182
+File numbers
+2015-2111(IT)I
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-2111(IT)I
+BETWEEN:
+ESTHER E. GUOBADIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on February 22, 2016, at Toronto, Ontario.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darren Prevost
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2007 and 2008 taxable years are dismissed, without cost, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 19th day of August 2016.
+“Guy Smith”
+Smith J.
+Citation: 2016 TCC 182
+Date: 20160819
+Docket: 2015-2111(IT)I
+BETWEEN:
+ESTHER E. GUOBADIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Smith J.
+[1] The Appellant appeals from a Notice of Reassessment dated June 11, 2012 wherein the Minister of National Revenue (the “Minister”) disallowed her claim for charitable donations for the 2007 and 2008 taxation years.
+[2] In response to a Notice of Objection, the Minister revised the reassessment to allow donations made to a church known as Prince of Peace in the amount of $575 and $140 for the 2007 and 2008 taxation years, respectively.
+[3] The Minister otherwise confirmed the reassessment and disallowed the other charitable donations on the basis that i) the charitable donations had not been made and ii) the receipts provided by the Appellant did not contain the information prescribed by the Income Tax Regulations[1] (the “Regulations”).
+[4] Moreover, the Minister reassessed the Appellant beyond the normal assessment period on the basis that she made “a representation attributable to neglect, carelessness, willful default or fraud” pursuant to subsection 152(4) of the Income Tax Act[2] (the “Act”).
+[5] There are four issues in this appeal and they are as follows:
+i) Whether the Appellant was entitled to claim a deduction of $9,825 for the 2007 taxation year for a donation made to an organization described as Nations for Christ Ministries ("NCM");
+ii) Whether the Appellant was entitled to claim a deduction of $5,200 for the 2008 taxation year for a donation made to an organization described as Hour of Evidence Christian Fellowship (“HOE”);
+iii) Whether the Appellant was entitled to claim a deduction of $3,000 for the 2008 taxation year for a donation made to an organization described as Operation Save Canada’s Teenagers (“OSCT”); and
+iv) Whether the Minister was entitled to reassess the Appellant beyond the normal assessment period pursuant to subsection 152(4) of the Act.
+[6] The Appellant included a statement in her Notice of Appeal that she should not be liable for gross negligence penalties. For the record, I will simply confirm that this issue was not raised in the Reply to the Notice of Appeal or at the hearing and on that basis, it is not properly before the Court.
+[7] This appeal was heard under the informal procedure and the Appellant testified on her own behalf. On behalf of the Minister, the Court heard from Tony Thomas as well as a third party known as George Nedelkov.
+I. Factual Background [8] At all relevant times, the Appellant was employed on a full-time basis as a high-school teacher by the York Catholic District School Board but also reported employment income from Community Living Toronto.
+[9] The Appellant indicated that she immigrated to Canada several years prior to the taxation years in question though few details were provided as to the date of her arrival or her country of origin.
+[10] She also indicated that she was raised in the Catholic faith in her home country and that her children had also been baptized in that faith.
+[11] The Appellant was a resident of the City of Markham. She attended a local church known as Prince of Peace that she described as a Catholic church but few other details were provided. It is noted that the receipts issued by that church and accepted by the Minister were issued jointly to the Appellant and her husband.
+[12] The Appellant explained that although she continued to attend the Prince of Peace church from time to time, she decided to change churches in 2007 and started to attend NCM, a Pentecostal church, where according to her testimony, she was expected to “tithe”, that is make donations equal to approximately 10% of her annual income.
+[13] She explained that she decided to donate between $1,000 and $1,500 per month, that she would either pay in cash or by cheque and that she would use an envelope provided by the church. A copy of the receipt issued by NCM as filed with her income tax return for 2007 was produced as an exhibit.
+[14] When asked if she had any evidence of the payments, the Appellant produced a series of cancelled cheques, each for $1,000, made out to NCM but they were dated June 9, July 14 and August 20, 2008.
+[15] When asked if she had cancelled cheques for 2007, she indicated that she did not as she had paid cash in 2007. She explained that she would withdraw money from her bank account and donate between $150 and $200 every Sunday, as long as her donations each month added up to about $1,000 to $1,500.
+[16] The Appellant indicated that in 2008 she started attending a third church known as HOE also described as Hour of Evidence Christian Ministry where she was also expected to tithe. She again wanted to donate between $1,000 and $1,500 per month and did so by cash or by cheque. A copy of the receipt issued by HOE as filed with her 2008 income tax return was also produced as an exhibit.
+[17] When asked if she had cancelled cheques, the Appellant produced photocopies of cheque number 108 dated November 3, 2008 and cheque number 109 dated December 3, 2008, each for $1,500. She also produced bank statements setting out the cheque numbers and debit transactions for the amounts indicated.
+[18] With respect to OSCT, the Appellant testified that she was initially going to provide a cheque for $3,000 but that she retrieved it and instead gave the organization $3,000 in cash on the basis of what she described as their “urgent need for the money”. To support this, she produced a cheque dated August 20, 2008 for $1,000 payable to NCM with the hand‑written notation: “Check was returned and $3,000 in cash was issued”. She explained that she had done the same for OSCT but that she no longer had the cheque in question.
+[19] Turning to the evidence of the Crown, the first witness was George Nedelkov. His evidence was that, at the suggestion of a tax preparer known as Bright Accounting Services, he made a $200 cash donation in 2007 to OSCT and received a tax receipt for $2,000. Similarly, in 2008 he made a cash donation of $400 and received a tax receipt for $4,000.
+[20] Mr. Nedelkov indicated that this tax preparer explained to him that this would allow him to save taxes while making a contribution to a worthy cause. He accepted this explanation and claimed the full amount of the receipt as a charitable donation in his 2007 and 2008 income tax returns.
+[21] Mr. Nedelkov also testified that his tax preparer later provided him with a photocopy of 26 individual contribution envelopes with various hand-written amounts totalling the face value of tax receipt. This was intended as evidence that he had made donations on a weekly basis although, by his own admission, he had only made a one‑time donation at the time of the preparation of his income tax returns.
+[22] The Crown also called Tony Thomas, a compliance auditor with the Canada Revenue Agency (“CRA”) who dealt with charitable organizations and who was directly involved in the audit of OSCT that eventually lead to the revocation of its charitable status in January 2011.
+[23] He explained that the charity’s book and records were totally inadequate and that the quantum of the charitable receipts issued by it vastly exceeded the cash receipts. He concluded that the issued receipts did not reflect the actual amount of the donations received.
+[24] With respect to HOE, Mr. Thomas indicated that while he was not directly involved in that audit, he reviewed the CRA audit report prepared by the auditor who is now retired. It was clear to him that the books and records of the charity were inadequate and it was apparent that the value of the donation receipts by far exceeded the amount of money actually received. In other words, it was clear that HOE was issuing what are known as inflated donation receipts and its charitable status was revoked in January 2010.
+II. Applicable law [25] Subsection 118.1(1) of the Act provides that a taxpayer is entitled to a deduction for charitable donations made to a qualified charity and paragraph 118.1(2)(a) provides that the taxpayer must file “a receipt for the gift that contains the prescribed information”.
+[26] The prescribed information that must be reflected in the receipt is contained in section 3501 of the Regulations which reads as follows:
+(1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes, and shall show clearly, in such a manner that it cannot readily be altered,
+(a) the name and address in Canada of the organization as recorded with the Minister;
+(b) the registration number assigned by the Minister to the organization;
+(c) the serial number of the receipt;
+(d) the place or locality where the receipt was issued;
+(e) where the donation is a cash donation, the day on which or the year during which the donation was received;
+(e.1) where the donation is a gift of property other than cash
+(i) the day on which the donation was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the day on which the receipt was issued where that day differs from the day referred to in paragraph (e) or (e.1);
+(g) the name and address of the donor including, in the case of an individual, his first name and initial;
+(h) the amount that is
+(i) the amount of a cash donation, or
+(ii) where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made;
+(i) the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge donations; and
+(j) the name and Internet website of the Canada Revenue Agency.
+[27] It is well established that the information prescribed in section 3501 of the Regulations is mandatory[3] and that such requirements “are not frivolous or unimportant”[4]. On the contrary “the information required is fundamental and absolutely necessary” to ensure that “the indicated value is accurate and that the gift was actually made”[5].
+[28] Before turning to the issue of the prescribed information that must be reflected in an official receipt, I will add that the word “receipt” itself is not defined in the Act though it is well established that words are to be read in their entire context and in their grammatical and ordinary sense and that reference to a dictionary definition may be appropriate: State Farm Mutual Auto Insurance Co. v. The Queen[6] and Federated Co-Operatives Ltd. v. The Queen[7] and Blondin v. Canada[8].
+[29] The Canadian Oxford Dictionary[9] defines “receipt” as “a printed or written acknowledgement of the acceptance of goods or payment of money” as well as “a printed statement issued by a cashier to a customer detailing the items purchased and the means of payment (as in a cash register receipt)”.
+[30] The Oxford English Dictionary[10] defines a receipt as a “written acknowledgement of money or goods received into possession or custody”, and in Webster’s Ninth New Collegiate Dictionary[11] it is defined as a “writing acknowledging the receiving of goods or money”.
+[31] In other words, a receipt is a written document delivered in exchange for the receipt of money, goods or services, reflecting the actual amount of money or the fair market value of the property or services received.
+[32] It follows that a document, though it bears the title “receipt” or “charitable receipt” or even “official charitable receipt”, may not be treated or accepted as such if it does not accurately reflect the money paid or the fair market value of the property or services actually provided in exchange.
+[33] Assuming the Court is satisfied on the basis of probative evidence that a receipt accurately reflects an actual donation, it must also set out the prescribed information as contained in section 3501 of the Regulations.
+[34] One of the leading cases on charitable receipts and particularly inflated charitable receipts is David v. Canada[12], a decision of the Federal Court of Appeal that involved several taxpayers who admitted to having made cash donations equal to 10% of the face value of the donation receipts. Justice Scott referred to the provisions of the Act and stated:
+(81) The Act is meant primarily as a source of revenue for the federal government. Parliament has also used the Act to create incentives for private activities that benefit the community as a whole. Registered charities are allowed to issue charitable gift receipts to facilitate their funding.
+(82) Pursuant to section 118.1 of the Act and subparagraph 3501(1)(h)(i) of the Regulations, tax receipts enable a taxpayer who makes a donation to obtain a non-refundable tax credit based on the fair market value of his gift to a registered charity. The non-refundable tax credit is a percentage of the cash donated or if the donation is a property a percentage of its fair market value. The tax credit is meant to entice the taxpayer to make donations because it also serves to reduce his impoverishment as a result of the gift made.
+(83) The Regulations have been enacted to ensure that the charitable tax receipts are accurate and truthful since the tax system in Canada is based on self-assessment. When cash is donated, there is no documentary evidence available other than the mention of the exact amount on the receipt issued by the registered charity. In the case of a cash gift, as the entitlement and the calculation of the exact amount of the tax credit is based on the official receipt issued by the registered charity, it is in keeping that the absence of the amount of the cash donation on an official tax receipt will result in a spoiled receipt, or as stated in the French version of subsection 3501(6) of the Regulations: “le reçu officiel est considéré comme inutilisable”, translated literally “it cannot be used”.
+[35] The Court did not consider whether the inflated donation receipts were valid receipts to begin with and the focus of the analysis was whether they met the technical requirements of the Regulations. In my view, that does not preclude a conclusion that inflated donations receipts are not in fact receipts if the Court is satisfied that the donation was not actually made and that the document that purports to be a receipt is in fact of a fictitious nature.
+III. Analysis and summary of findings [36] It is obvious that the Court must address the issue of the Appellant’s credibility. In particular, it must be satisfied that she was being honest and forthright and that her narrative of the facts was both plausible and probable.
+[37] When I consider the Appellant’s testimony as a whole, making allowance for the passage of time, I am led to the conclusion that her testimony was vague and contradictory and that the documentary evidence submitted was self-serving and of a doubtful nature.
+[38] To begin with, the Court has some difficulty with the suggestion that the Appellant as well as her husband attended a church where they made charitable donations on the basis of, as described by the Appellant, “what they could afford”, and yet that she alone attended not only one but two different churches on most Sundays where she was expected to give the equivalent of 10% of her annual income.
+[39] The unchallenged evidence is that the Appellant made nominal donations to the Prince of Peace. If these amounts reflected what she and her husband could afford, how it is plausible or even probable that she would attend two other churches that were not of her faith where she was expected to donate an amount roughly equal to 10% of her employment income? I find it highly improbable.
+[40] When the Appellant was asked to produce evidence to support the purported charitable donation of $9,825 made in 2007 to NCM, she produced copies of cheques made in 2008 that had not been claimed. When she realized during the course of her examination that she did not have any cancelled cheques for that year, she explained that she made only cash donations in 2007. Given the amount of money involved, I find that the Appellant’s last minute explanation stretches credulity and falls short of an honest answer.
+[41] When asked why she had decided to attend NCM and subsequently HOE, her evidence was vague at best. She initially explained that she had moved and that these churches were closer to her home. However, during cross‑examinations, she admitted that she had not in fact moved. Her new explanation as to why she had changed churches was equally unconvincing.
+[42] With respect to the organization known as OSCT, the Appellant testified that she initially prepared a cheque but later retrieved it and instead made a cash donation of $3,000. I find that her testimony on this issue was not credible.
+[43] With respect to both organizations known as HOE and OSCT, I accept the Minister's evidence that they were both issuing inflated donation receipts prior to the revocation of their respective charitable status.
+[44] At the end of the day, the Court can only speculate as to the amount of money, if any, actually donated by the Appellant to the three organizations in question, and concludes that it is highly improbable that the Appellant actually made donations equal to the face value of the receipts submitted.
+[45] For reasons noted above, I conclude that although the donation receipts in question are described as “official receipts” or some variation thereof, they are not in fact receipts as that term is ordinarily understood.
+[46] As indicated above, the Minister has taken the alternative position that the receipts did not contain the prescribed information as set out in Regulation 3501.
+[47] The Court finds that the receipt issued by NCM is deficient since the name of the issuer is incomplete, it does not contain the location where it was issued, it does not show the Appellant’s address or the date of issue and finally, it does not indicate that that the amount was received in cash.
+[48] The receipt issued by OSCT is equally deficient in that it does not indicate the proper registered name of the charity or the date of issue nor the location where it was issued.
+[49] The receipt issued by HOE appears to contain the prescribed information. However, it clearly indicates that the Appellant made a cash donation of $5,200 when her evidence was that she made the bulk of the donation by cheque. In any event, I have already concluded that it was an inflated donation receipt and on that basis, I find it is invalid.
+IV. Assessment beyond the normal assessment period [50] Having reached a conclusion as to the Appellant’s credibility and the validity of the donation receipts, the question that remains to be addressed is whether the Minister was entitled to reassess the Appellant beyond the normal assessment period pursuant to subsection 152(4) of the Act.
+[51] That provision provides that the Minister may reassess a taxpayer who has made “any representation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or supplying any information under this Act”.
+[52] One of the leading cases on this provision is College Park Motors Ltd. v. Canada,[13] a 2009 decision of the Tax Court of Canada where Justice Bowie indicated at paragraph 20:
+(20) At the risk of redundancy, I wish to reemphasize that the purpose of subparagraph 152(4)(a)(i) is not penal but remedial. It balances the need for taxpayers to have some finality in respect of their taxes for the year with the requirement of a self-reporting system that the taxing authority not be foreclosed from reassessing in those instances where a taxpayer’s conduct, whether through lack of care or attention at one end of the scale, or willful fraud at the other end, has resulted in an assessment more favourable to the taxpayer than it should have been. (…)
+(My emphasis.)
+[53] Since I have already concluded that the Appellant did not actually make the donations for which she claimed a deduction, she must be taken to have known that the receipts in question were of a fictitious nature notwithstanding the notation “Official Receipt”. She nonetheless claimed those amounts in her tax returns for the 2007 and 2008 taxation years.
+[54] On that basis, I have no difficulty in concluding that the Appellant made a representation this is attributable to neglect, carelessness or wilful default or that she has committed a fraud in filing her return for those years, and consequently, that the Minister was entitled to reassess her beyond the normal reassessment period pursuant to subsection 152(4) of the Act.
+V. Conclusion [55] The Appellant had the onus of convincing the Court on a balance of probabilities that she made the donations claimed for the 2007 and 2008 taxation years. I find that she has failed to do so.
+[56] For all the foregoing reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 19th day of August 2016.
+“Guy Smith”
+Smith J.
+CITATION:
+2016 TCC 182
+COURT FILE NO.:
+2015-2111(IT)I
+STYLE OF CAUSE:
+ESTHER E. GUOBADIA v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 22, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+August 19, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] C.R.C, c. 945.
+[2] R.S.C. 1985, c. 1 (5th Supp.).
+[3] Afovia v. The Queen, 2012 TCC 391, [2012] T.C.J. No. 314 at para 9.
+[4] Plante v. Canada, [1999] T.C.J. No. 51 at para 46.
+[5] Ibid.
+[6] State Farm Mutual Auto Insurance Co. v. The Queen, [2003] T.C.J. No. 63, [2003] G.S.T.C. 35.
+[7] Federated Co-Operatives Ltd. v. The Queen, [2000] T.C.J. No. 93, [2000] 2 C.T.C. 2382, 2000 D.T.C. 1946.
+[8] Blondin v. Canada, [1994] T.C.J. No. 987 at paras 13-15, [1996] 1 C.T.C. 2063.
+[9] 2d ed (Ontario: Oxford University Press, 2004) at 1289.
+[10] 2d ed (Oxford: Clarendon Press, 1989) at 313.
+[11] Springfield, Massachussetts: Merriam-Webster, 1985 at 982.
+[12] 2015 FCA 225.
+[13] 2009 TCC 409, [2009] T.C.J. No. 316.

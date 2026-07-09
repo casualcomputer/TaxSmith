@@ -1,0 +1,412 @@
+---
+title: "1392644 Ontario Inc. o/a Connor Homes v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28192/index.do"
+last_modified: "2006-08-29"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 521"
+citation2: ""
+neutral_citation: "2006 TCC 521"
+decision_date: "2006-08-29"
+language: "en"
+item_id: "28192"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1987
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:47:59.465000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e9116d3df5851111bf79fa150f31e81b6b1e4dd11ee1434f3661664faab2422a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1392644 Ontario Inc. o/a Connor Homes v. M.N.R.
+
+- Citation: 2006 TCC 521
+- Decision date: 2006-08-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1987, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1392644 Ontario Inc. o/a Connor Homes v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-08-29
+Neutral citation
+2006 TCC 521
+File numbers
+2004-4060(EI)
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2004-4060(EI)
+BETWEEN:
+1392644 ONTARIO INC. o/a CONNOR HOMES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+1392644 Ontario Inc. o/a Connor Homes
+(2004-4061(EI); 2004-4812(EI); 2005-93(CPP); 2005-221(CPP) and 2005-222(CPP)) on August 17, 2006 at Belleville, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+Paul Burgess
+Counsel for the Respondent:
+Geneviève Léveillé
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of September, 2006.
+"T. O'Connor"
+O'Connor, J.
+Docket: 2004-4061(EI)
+BETWEEN:
+1392644 ONTARIO INC. o/a CONNOR HOMES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+VALERIE PARCELS-COONEY,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+1392644 Ontario Inc. o/a Connor Homes
+(2004-4060(EI); 2004-4812(EI); 2005-93(CPP); 2005-221(CPP) and 2005-222(CPP)) on August 17, 2006 at Belleville, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+Paul Burgess
+Counsel for the Respondent:
+Geneviève Léveillé
+For the Intervenor:
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of September, 2006.
+"T. O'Connor"
+O'Connor, J.
+Docket: 2004-4812(EI)
+BETWEEN:
+1392644 ONTARIO INC. o/a CONNOR HOMES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+KEIRA McKINNON,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+1392644 Ontario Inc. o/a Connor Homes
+(2004-4060(EI); 2004-4061(EI); 2005-93(CPP); 2005-221(CPP) and 2005-222(CPP)) on August 17, 2006 at Belleville, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+Paul Burgess
+Counsel for the Respondent:
+Geneviève Léveillé
+For the Intervenor:
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of September, 2006.
+"T. O'Connor"
+O'Connor, J.
+Docket: 2005-93(CPP)
+BETWEEN:
+1392644 ONTARIO INC. o/a CONNOR HOMES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+KEIRA McKINNON,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+1392644 Ontario Inc. o/a Connor Homes
+(2004-4060(EI); 2004-4061(EI); 2004-4812(EI); 2005-221(CPP) and 2005-222(CPP)) on August 17, 2006 at Belleville, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+Paul Burgess
+Counsel for the Respondent:
+Geneviève Léveillé
+For the Intervenor:
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of September, 2006.
+"T. O'Connor"
+O'Connor, J.
+Docket: 2005-221(CPP)
+BETWEEN:
+1392644 ONTARIO INC. o/a CONNOR HOMES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+VALERIE PARCELS-COONEY,
+Intervenor.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+1392644 Ontario Inc. o/a Connor Homes
+(2004-4060(EI); 2004-4061(EI); 2004-4812(EI); 2005-93(CPP) and
+2005-222(CPP)) on August 17, 2006 at Belleville, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+Paul Burgess
+Counsel for the Respondent:
+Geneviève Léveillé
+For the Intervenor:
+The Intervenor herself
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of September, 2006.
+"T. O'Connor"
+O'Connor, J.
+Docket: 2005-222(CPP)
+BETWEEN:
+1392644 ONTARIO INC. o/a CONNOR HOMES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+1392644 Ontario Inc. o/a Connor Homes
+(2004-4060(EI); 2004-4061(EI); 2004-4812(EI); 2005-93(CPP) and
+2005-221(CPP)) on August 17, 2006 at Belleville, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Counsel for the Appellant:
+Paul Burgess
+Counsel for the Respondent:
+Geneviève Léveillé
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision of the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of September, 2006.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2006TCC521
+Date: 20060928
+Dockets: 2004-4060(EI)
+2004-4061(EI)
+2004-4812(EI)
+2005-93(CPP)
+2005-221(CPP)
+2005-222(CPP)
+BETWEEN:
+1392644 ONTARIO INC. o/a CONNOR HOMES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+KEIRA McKINNON, VALERIE PARCELS-COONEY,
+Intervenors.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] These reasons shall serve as reasons in all of these appeals as they were all heard on common evidence, they all have substantially the same facts and the legal issue in all appeals is the same, namely whether the three persons involved Valerie Parcels-Cooney, Lorna Shooter Kerr and Keira McKinnon ("Workers") were engaged by the Appellant under contracts of service (i.e. employees) or contracts for service (i.e. independent contractors) for purposes of the Canada Pension Plan and the Employment Insurance Act. The periods involved for each Worker were as follows:
+Valerie Parcels-Cooney February 1, 2003 to May 8, 2003;
+Keira McKinnon January 24, 2003 to February 28, 2004
+Lorna Shooter Kerr February 1, 2001 to September 30, 2002
+[2] Although all three Workers testified the only actual interventions filed were by Ms. Parcels-Cooney and Ms. McKinnon.
+Facts
+[3] The Appellant's business was to provide residential care and treatment for disturbed children associated with Children's Aid Society (CAS) agencies throughout Ontario, operating within the parameters governing the CAS, the Education Act of Ontario and other government agencies and education facilities.
+[4] The Appellant's shareholders were Robert Connor with 66.7% of the shares and Elaine Connor with 33.3% of the shares. Robert Connor and Paul Robichaud were the principal managers of the Appellant's business.
+[5] The Workers were hired as Child Care workers under written agreements.
+[6] The following extracts from pages 4 to 15 of the Hearing Record give a more detailed picture of the Appellant's operations.
+EXAMINATION-IN-CHIEF BY MR. BURGESS:
+Q. Mr. Connor, I understand you are an officer and director of 1392644 Ontario Inc. operating as Connor Homes?
+A. Yes, I am.
+Q. What is your position with them?
+A. I am the director of the – I am president of the company, but I am the director of the program.
+...
+Q. Can you describe to the Court, please, what exactly is the business of Connor Homes?
+A. Connor Homes is a service company which provides services to the children's aid societies for – throughout Ontario. Specifically we operate treatment foster care and treatment group care for, in contract with, the children's aid societies, ...
+MR. BURGESS:
+Q. Can you describe for the Court, please, approximately how many residential homes you operate?
+A. There are 40 (actually 41) homes, about 135 beds.
+Q. Would you also describe to the Court, please, how you are paid for your service provided?
+A. We are paid on a per diem basis, so if the child is resident in the home, we get paid.
+Q. What services ... do you provide, ... on this per diem basis?
+A. We pay for all the expenses for the children, food, accommodation, treatment, education in some cases, all expenses that a parent would normally provide for the child.
+We also contact with a variety of professionals to provide services that we do not in fact –- we don't have the staff to provide things like psychological services, psychological assessments, educational assessments, and child and youth workers.
+...
+JUSTICE O'CONNOR: What are the approximate ages of the children?
+THE WITNESS: They are primarily teenagers.
+JUSTICE O'CONNOR: Are they like wards of the state? Have they been removed from their families, or what?
+THE WITNESS: Yes. They are wards of the Children's Aid Society. There are three types, Crown wards, children's Aid Society, and in some cases they are an agreement for service, which is a contract or arrangement between the Children's Aid Society and the parent. So it would be – in that case, they would not necessarily have gone to Court. That would be simply a contractual arrangement between the Children's Aid Society and the parent.
+...
+THE WITNESS: These are all children who have been physically or sexually abused.
+JSUTICE O'CONNOR: Have these children been removed from their own homes?
+THE WITNESS: Yes.
+...
+JUSTICE O'CONNOR: They actually live in your home?
+THE WITNESS: That is right. So we are licenced by the province to provide these homes, and so these are programs which are over and above what the Children's Aid Society would provide in their foster care system.
+The children would be perhaps more difficult in terms of their treatment needs or requiring specialized service which the Children's Aid Society would not be able to provide within their own program, particularly with group homes, because children's aid societies don't typically run group homes. They only run basic foster care.
+JUSTICE O'CONNOR: Who actually pays you and how much?
+THE WITNESS: The per diem is set by the Ministry of Community and Social Services, and then there is a different per diem for foster care and group care, and the group care is different for each home, because they are licenced as an individual location in the case of group care, and in the case of foster care it is licenced – the organization is licenced as opposed to the individual home. Like the Children's Aid Society, it runs under the same legislation that we do. They run foster care and we are licenced under the same legislation to provide treatment foster care.
+...
+JUSTICE O'CONNOR: So what is the per diem?
+...
+THE WITNESS: For treatment foster care, $106 a day.
+...
+THE WITNESS: Yes. It is roughly $130 a day for group care where it is a parent model location. That would be house parents with staff support, ...
+MR. BURGESS:
+Q. You have indicated, ... that there was a per diem and you indicated to His Honour that that varies?
+A. Yes.
+Q. From that per diem, you have indicated that you pay food and accommodation?
+A. Right.
+Q. And obviously recreational needs or anything else for the children?
+A. Right, clothing and school supplies, and a special provision for graduation and other things that come up from time to time that kids need. We also pay for therapy, psychotherapy. We pay for some educational testing.
+We pay the house parents who are resident in the homes, and we pay the contract child and youth workers, and in some cases we pay for school.
+Q. I understand there is something, as well, deemed be a one-on-one program. Could you describe that to His Honour?
+A. Right. Well, some children come into care whose needs cannot be met by the regular programming, and in those cases they would require a worker sometimes to be – to provide relief for the – to take the child out of the house, which is called relief, and away from the other children, because many of the difficulties they have is in interpersonal relationships.
+Some children require specialized recreational programs, specialized programs to do with behaviour, and for those children we would negotiate a contract outside of the regular per diem to provide for those services. That contract would be agreed upon by the Children's Aid Society and the Ministry of Community and Social Services.
+Then we would then contract out those specialized service to child youth workers, who would put in a proposal around how to meet those needs, and in some cases that also includes school.
+Q. You have touched upon these one-on-one programs. Let me just back you up just a bit, I am sorry. When these children are in your care, would you describe to His Honour, briefly, how plans of care are developed for these children?
+A. Right. Well, on placement, every child has a plan of care which is developed to talk about the kind of treatment that the child will receive during the time frame that they are in the program. With each plan of care, it is anticipated there will be a discharge date where the child will either be going home or will be working towards independent living.
+That plan of care is a document which is constructed by the Children's Aid Society, by a therapist, perhaps they could be involved in the treatment plan; the child. Perhaps the child's parent, if the child is not – there are Crown wards with access and Crown wards without access. So if the child's parent is involved and the plan is to go home, then the child's parent would be involved.
+If the child was on probation or had some order under the – it is not the Child Justice Act anymore, but the – Young Offenders Act back in those days, then the probation officer could be involved in the plan of care, as well. So it is a committee approach to getting a plan which works for the child.
+Within that plan there are treatment goals which are set. There are goals which are set within the home to do with school, participation in community-based recreation, and therapy.
+Q. So to simplify it, when the child comes into the home, as you have already touched upon, the plan of care is developed?
+A. Right.
+Q. Does that change from time to time, modified.
+A. It is reviewed every 30 days for the first six months and every 90 days thereafter. That is the standard approach, although, I mean that would be the minimum. It could be, if the child was going through a particularly difficult period, we could go back to a monthly review.
+A. Okay. Then all the services which you indicated you provided, such as psychological assessment and therapy and life skills training and the one-to-one programs that you have talked about and relief services, those are all provided under this plan of care for the child, correct?
+A. That is right. So, for instance, if there were involvement of the court system in, you know, having the child have to go to appear before a judge, as far as Family Court or as far any criminal activities which hadn't yet been dealt with, then the transportation arrangements and how that would be dealt with would be integral into the plan of care. So it would be described in how that was to be done.
+Q. So with respect to the one-on-one programs –
+A. Yes.
+Q. -- the relief services which you have indicated, and the transportation services, who performs those services?
+A. Child and youth workers.
+...
+MR. BURGESS:
+Q. The three respondents that we are dealing with today, did they act in that capacity for you?
+A. Yes. Ms. Shooter also worked at the specialized school program, so that was part of her job, which was different from the other two.
+[7] As can be seen from the foregoing some children receive special one on one care and the Appellant receives additional fees for providing such one on one care. In these situations the Appellant is required to provide a variety of different services including psychological assessment, psychological therapy and in certain cases relief services for house parents and transportation services. One main feature of the Workers' jobs was to provide and service the one on one programs.
+[8] More particularly, the Workers duties were as follows:
+• maintaining the care, welfare and security of the children
+• helping children with academics
+• planning and implementing individual programs to help children with the individual needs referred to as a "plan of care"
+• training young teens in social and life skills
+• counselling children when problems arose
+• providing to the Appellant daily reports of each child
+• providing transportation of children involved in the one-on-one program
+[9] The Workers were paid $12 per hour based on a 40-hour work week.
+[10] Essentially a Worker's rate of pay was offered by the Appellant at the time of hiring a Worker. The Workers testified that they felt obliged to accept that as they were in need of a job at the time. The Workers' hours were Monday to Friday 8:00 am to 4:00 pm and sometimes overtime. Hours of work were recorded by the Workers on extremely detailed time sheets, (Exhibits A-5, R-2, R-3 and R-4). The Workers were paid on the basis of invoices (Exhibit A-2).
+[11] The Workers reported directly to the Appellant's manager, Paul Robichaud.
+[12] Each Worker was required to attend monthly meetings with representatives of the Appellant.
+[13] Each Worker was required to wear a "Connor Homes" T-shirt and/or sweater paid for by the Worker concerned.
+[14] Ms. McKinnon and Ms. Parcels-Cooney signed Agreements (Exhibits A-1 and A-4) setting forth their duties. They were given a choice of four separate duties according to their interests namely a relief staff contract worker; support in the home with day to day functioning; support for children in regular school; and support for children in alternate school program. Ms. Shooter's Agreement described her duties as "relief staff/contract worker" (Exhibit A-3).
+[15] The Agreements with a Worker referred to the Worker as an "independent contractor". The testimony of the Workers was that they did not understand that concept nor the expression "self employed" and that they did not consider themselves as independent contractors nor self employed.
+[16] The Workers were supplied with a "Policies and Procedures Manual" containing 34 pages plus four appendices. The Manual (Exhibit R-1) contains considerable detail as to how a Worker was to carry out her duties. Mr. Connor stated that these policies were established pursuant to regulations under the Child and Family Services Act.
+[17] The Workers in the one-on-one programs were responsible for transporting children in their own cars. They paid all of the expenses related to their cars and were reimbursed by the Appellant either on a mileage basis or time basis at the choice of the Worker concerned. Other tools or equipment that were involved would be computers not necessarily supplied by the Appellant or by the Worker. In some cases the computers were owned by house parents. Other equipment involved would be desks and certain school equipment supplied by neither the Worker nor the Appellant but rather by the Board of Education or by one of the government agencies.
+Submissions of Appellant's Counsel
+[18] Counsel, after summarizing the basic facts stated:
+17. The Child Care Workers, and specifically Ms. Shooter, Ms. Parcels-Cooney and Ms. McKinnon, signed written agreements outlining their status as independent contractors (Schedule 'A').
+18. All of the Child Care Workers were made aware of the consequences of their independent contractor status and advised of their rights, obligations and filing requirements.
+19. None of the Child Care Workers were provided with any tools or other equipment by the Appellant.
+20. Child Care Workers responsible for transporting children were required to provide their own car.
+21. The Appellant did not exercise any control over the Child Care Workers in terms of the manner in which they carried out their duties.
+22. The Child Care Workers dealing with one-on-one programs were responsible for designing the specific content of such programs through their professional training and experience.
+23. The Child Care Workers selected their own hours and could work as much or as little as they wished. Child Care Workers did not have to give the Appellant any reason for not taking assignments and similarly did not have to, and most often did not notify the Appellant if they were going on a vacation.
+24. The Child Care Workers could pick assignments at meetings with the Appellant. Child Care Workers also accepted assignments from other organizations from time to time.
+25. Where the Appellant required a Child Care Worker for a specific assignment, it would telephone through a roster of Child Care Workers and the assignment went to the first Child Care Worker who was reached and who agreed to take the assignment.
+26. In a number of cases, the house parents would contact Child Care Workers directly for relief assignments or transportation assignments without contacting the Appellant.
+27. In a number of cases, the house parent would contact directly the Child Care Workers and pay them personally for relief services beyond what the house parents were entitled to under their arrangements with the Appellant.
+28. In a number of cases, Child Care Workers who had accepted an assignment for one-on-one care for a child would contract directly with other Child Care Workers to complete a portion of that assignment. The approval of the Appellant for these arrangements was not necessary and the Appellant was usually not aware that such arrangements had been made until it was invoiced at the end of the month.
+29. In the case of transportation services, the Child Care Workers could opt for either an hourly rate or mileage.
+30. They would make such choice depending on which mode would be the most profitable for them.
+[19] Counsel then analyzed the applicable law and jurisprudence and concluded as follows:
+The Control Test
+62. On the evidence the Appellant did not exercise any degree of control over the manner in which they were to perform their duties. They determined the manner in which they would perform their duties, chose when they would work and what type of work they would accept.
+The Ownership of Tools Test
+63. The Appellant did not provide any tools to Ms. Shooter, Ms. Parcels-Cooney and Ms. McKinnon. The only tool required for this work was a car if they agreed to transport the children under their care; if so, they were responsible for providing the car.
+The Risk of Loss/Chance of Profit Test
+64. On the evidence Child Care Workers bear the risk of loss and stand to profit depending on their costs of reaching the homes of individual children, the costs of transporting children and the number of hours involved in one-on-one programs.
+The Extent of Integration Test
+65. On the evidence, the services of Child Care Workers are ancillary to the business of the Appellant, generally arising out of the needs of special needs of individual children in its care.
+The Recharacterization Issue
+66. Ms. Shooter, Ms. Parcels-Cooner and Ms. McKinnon signed a contract in which they chose to characterize their relationship as one of an independent contractor.
+67. There is no suggestion of sham and no reason to recharacterize the relationship that the parties have themselves freely entered into.
+D. RELIEF SOUGHT
+68. The Appellant submits that these appeals should be allowed with costs.
+Submissions of Respondent's Counsel
+[20] Respondent's counsel indicated the evidence contradicted or materially modified paragraphs 18 to 28 of Appellant Counsel's Submissions. Respondent's counsel also canvassed the law and the applicable jurisprudence. She stressed the extensive control by the Appellant over the Workers as evidenced by the detailed time sheets, the invoices and the many rules, regulations and procedures set forth in the Policies and Procedures Manual (Exhibit R-1). The ownership of tools test was not that persuasive one way or another. The cars were owned by the Workers and they paid expenses but they were paid on a mileage or time basis for using their cars. She also highlighted the Connor Homes T-shirt and/or sweater fact as being clearly contradictory of an independent contractor relationship. Integration was not conclusive. The chance of profit and risk of loss test did not point to an independent contractor relationship. The Agreements labelling the Workers as independent contractors did not square with the actual facts.
+Analysis
+[21] In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983 (S.C.C.), Mr. Justice Major of the Supreme Court of Canada said:
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan, J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations Ltd. v. The Minister of Social Security2, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[22] The Workers had to produce daily reports of their work, detailed time sheets and they were bound by the Policies and Procedures Manual. Moreover, they had to wear a "uniform" identifying and connecting them with Connor Homes.
+[23] The Procedures Manual contained directions that the Workers were expected to follow and constituted a very powerful means of control. It is true that this Manual conforms with regulations under the Child and Family Services Act but that explanation of where the controls come from does not alter the fact that the controls existed and were extensive.
+[24] The Workers did not assume any financial risk in their work for the Appellant. They were required to provide their own car but the Appellant reimbursed them for any use that they were required to make of the car. The involvement of the car as pointing to an independent contractor relationship is minimized by the fact of reimbursement by the Appellant. Much of the work was performed at the premises run by the Appellant and owned by a related company. Workers were permitted to use computers owned by a house parent to do reports.
+[25] Mr. Connor suggests that the Workers' skills were a tool but this is not a convincing argument. Not all skilled workers are automatically independent contractors.
+[26] Another factor to consider is a Worker's opportunity for profit. The hourly rates of pay were essentially established by the Appellant. The only manner in which a Worker could increase her pay was to work more hours.
+[27] On a consideration of all factors I am of the opinion that the Workers were employees of the Appellant at the material times and not in business on their own account. I am not persuaded by the terms of the Agreements purporting to establish an independent contractor relationship because the actual facts do not establish that relationship. In the circumstances of these appeals I find the test of control to be very significant and it points to a contract of service.
+[28] Finally I refer to two judgments of this Court involving this very same Appellant where it was held that the relationships between the Appellant and two other workers involved in the same type of work were employee relationships. These judgments are reported at [2003] T.C.J. No. 670 (McArthur, T.C.J.) and [2004] T.C.J. No. 214 (Paris, T.C.J.). McArthur, J. actually held the employee relationship applied to one worker but not to a second one because that second one had not appeared and given evidence in support of the Minister's assumptions. In other words, when McArthur, J. analyzed the merits with respect to the first worker he concluded that an employee relationship existed.
+[29] I should add that I am not unmindful of the decision of the Federal Court of Appeal in Royal Winnipeg Ballet v. Canada [2006] F.C.J. No. 339 where the importance of the intention of the parties was analyzed. In my view that decision is not applicable because in these present appeals, contrary to the facts in the Federal Court of Appeal decision, when both parties intended an independent contract, the intention of the Workers here to actually be independent contractors was not established. In fact, from the testimony of the Workers, the opposite is true.
+[30] In these appeals all three Workers testified and confirmed the Minister's main assumptions pointing to an employee relationship.
+[31] Consequently for all of the above reasons the appeals are dismissed and the decisions of the Minister are confirmed in accordance with these Reasons for Judgment.
+Signed at Ottawa, Canada, this 28th day of September, 2006.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2006TCC521
+COURT FILE NOS.: 2004-4060(EI), 2004-4061(EI),
+2004-4812(EI), 2005-93(CPP),
+2005-221(CPP), 2005-222(CPP)
+STYLE OF CAUSE: 1392644 ONTARIO INC. o/a CONNOR HOMES v. M.N.R. and
+KEIRA McKINNON,
+VALERIE PARCELS-COONEY
+PLACE OF HEARING: Belleville, Ontario
+DATE OF HEARING: August 17, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: September 28, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Paul Burgess
+Counsel for the Respondent:
+Geneviève Léveillé
+For the Intervenors:
+The Intervenors themselves
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Paul D.H. Burgess
+Firm: Paul D.H. Burgess
+Campbellford, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

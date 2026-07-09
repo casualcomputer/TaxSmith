@@ -1,0 +1,134 @@
+---
+title: "Gaudet v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27538/index.do"
+last_modified: "2005-09-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 598"
+citation2: ""
+neutral_citation: "2005 TCC 598"
+decision_date: "2005-09-23"
+language: "en"
+item_id: "27538"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 100
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:18:07.093000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a16e09a78559badfe592575bb5a2c6f666a44898d1a2b41ee54a8abb1f13f876"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gaudet v. The Queen
+
+- Citation: 2005 TCC 598
+- Decision date: 2005-09-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 100, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gaudet v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-09-23
+Neutral citation
+2005 TCC 598
+File numbers
+2004-4342(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-4342(IT)I
+BETWEEN:
+SUZANNE GAUDET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 7, 2005, at Edmundston, New Brunswick
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeal from the determination of the Canada Child Tax Benefit (CCTB) established with regard to base taxation years 1999, 2000 and 2001 under the Income Tax Act is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of September 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 9th day of January 2006.
+Maria Fernandes, Translator
+Citation: 2005TCC598
+Date: 20050923
+Docket: 2004-4342(IT)I
+BETWEEN:
+SUZANNE GAUDET,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.
+[1] The Minister of National Revenue (the "Minister") reassessed the Appellant's eligibility for the Canada Child Tax Benefit from April 2001 to March 2003 inclusively, the base taxation years being 1999, 2000 and 2001, and established overpayments to the Appellant, which she was required to repay. The Appellant duly objected to that assessment; however, in a Notice of Confirmation dated June 30, 2004, the Minister confirmed the assessment. Therefore, this is an appeal from that assessment.
+[2] The Appellant and her spouse, Michel Denoncourt, separated in April 2001 and their divorce was granted on January 20, 2003. Two children were born of their marriage. This case involves these two qualified dependants for the period in question.
+[3] At the time of their separation, the Appellant moved into an apartment, which she set up to accommodate her children. According to the Appellant, the children were with her most of the time at the beginning because her former spouse was often out of town and played music on weekends. The Appellant says that she continued to look after her children as before and that they were often with her. The apartment was located close to their school and the children often went to visit her after school.
+[4] The Appellant filed into evidence a few letters from people close to her and the children that confirm that the Appellant was there for her children and had their welfare at heart. One of these letters stated that her daughter used to call her every day and that her children visited her at her office and they would eat lunch together every Wednesday. The children also spent weekends with their mother and, if we rely on the photos filed into evidence, it is clear that the Appellant had a good relationship with her children.
+[5] Early into their separation, the Appellant and her former spouse did not agree on the child custody issue and an interim order from the Court of Queen's Bench of New Brunswick dated June 19, 2002, confirms this. The Court's reason for not having ruled on this issue lies in the children's ages at the time. The children were free to visit each of the parties at any time at their own discretion with regard to duration and frequency with one or the other party. The Appellant explains that she consented to this interim order because her former spouse did not want to pay her spousal support and she wanted her children to have free visiting rights as they had so requested in handwritten documents in February 2002. They both wanted to visit their mother as they wished, without constraints.
+[6] In August 2002, the children confirmed via affidavits that, when their parents separated, they continued to live in the family home, that is, the home where they lived prior to their parents' separation and that their father looked after their material and financial needs.
+[7] As in many separation cases, the children had to overcome particular obstacles and it is sometimes difficult to do so without professional recourse. A psychologist was mandated to perform an assessment in preparation for a custody hearing before the Court. This resulted in an order dated January 30, 2003, granting the former spouse legal and physical custody of the children and granting the Appellant reasonable access on reasonable notice. Under that order, the duration and frequency of the visits would be determined by the children at their sole discretion.
+[8] For his part, the former spouse acknowledged the absence of a formal custody agreement before that order. The children continued to live with him in the family home and visited their mother whenever they wished. They would sleep over at the Appellant's apartment every second weekend and occasionally during the week. They would also, on occasion, eat a meal with their mother. The frequency of those visits dropped after a few months until the former spouse had to encourage the children to go visit their mother. As with the Appellant, he continued to ensure the children's welfare and look after them as best he could. As indicated in the psychological assessment, it is clear that during a certain period, the children had more affinity with their father.
+[9] Jean Eudes Michaud confirmed the fact that the children continued to live in the family home after the separation of their parents. The school bus continued to pick them up every morning just like before. He confirms that the Appellant picked up the children and that they visited their mother more often early in the separation, but that the number of visits subsequently waned.
+[10] In order to be eligible for child tax benefits, the conditions found in the definition of "eligible individual" under section 122.6 of the Income Tax Act (the "Act") must be met. The relevant paragraphs for the purposes of the case at issue are (a), (b) and (h) and read as follows:
+122.6 Definitions
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant;
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+. . .
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing;
+[11]Section 6302 of the Regulations establishes the factors used in determining what constitutes care and upbringing of a qualified dependant.
+For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygienic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[12] The onus is on the Appellant to establish, on a balance of probabilities, that she is eligible for the Canada Child Tax Benefit and that she meets the conditions set forth in the definition. In this case, the evidence submitted consistently indicates that the children resided with their father and visited their mother when they wished, but always for a temporary visit, not a permanent stay. The children's letters dated February 2002 refer to the visits to their mother's, at their discretion, on weekends and during lunchtime. Another letter reads that the children visit their mother every two weeks. Denise Côté, the owner of the building where the Appellant lives, picked up the children at the family home and they spent several nights with the Appellant. These visits were frequent and she took the children back to the family home every time. Lastly, Caroline Ouellette attests that the children visited their mother every two weeks and met with her frequently on Wednesdays when, based on the evidence, they would eat a meal with the Appellant.
+[13] I cannot ignore Jean Eudes Michaud's testimony that the children continued to live in the family home with their father and that they took the bus for the school in that area. Even if the Appellant was with her children regularly and they visited her often, the children still continued to live in the family home on a permanent basis.
+[14] Since the Appellant does not meet the first condition set forth in the Act, it is not necessary to review the question of responsibility for the care and upbringing of the qualified dependant, which the Appellant must fulfill in order to be considered the eligible individual. In my opinion, the evidence submitted clearly shows that the Appellant and her former spouse were exceptional in assuming responsibility for the care and upbringing of their children despite the particular circumstances of their separation. Each of them continued to show an interest in their children's welfare, in accordance with their respective capacities. In such a situation, the issue when determining who primarily assumed the responsibility for the care and upbringing of the children during the period in question is one of degree. The burden of proof in this regard will be heavier for the parent who does not live with the children and is not with them on a daily basis as it is in this case.
+[15] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 23rd day of September 2005.
+"François Angers"
+Angers J.
+Translation certified true
+on this 9th day of January 2006.
+Maria Fernandes, Translator

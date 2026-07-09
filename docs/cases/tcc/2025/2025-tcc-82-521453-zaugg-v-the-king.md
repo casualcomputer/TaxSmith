@@ -1,0 +1,169 @@
+---
+title: "Zaugg v. The King"
+source: "https://norma.lexum.com/tcc-cci/decisions/en/item/521453/index.do"
+last_modified: "2025-06-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 82"
+citation2: ""
+neutral_citation: "2025 TCC 82"
+decision_date: "2025-06-16"
+language: "en"
+item_id: "521453"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5420
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-11-08T09:24:59.184000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "7c0ffa986418cfd52d6198ce1c67bf6869c4eb7fff1e963868e75b3221e7c136"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zaugg v. The King
+
+- Citation: 2025 TCC 82
+- Decision date: 2025-06-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5420, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zaugg v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-06-16
+Neutral citation
+2025 TCC 82
+File numbers
+2023-2297(IT)APP
+Judges and Taxing Officers
+Ted Cook
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2023-2297(IT)APP
+BETWEEN:
+THOMAS C. ZAUGG,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Application heard on March 27, 2025, at Toronto, Ontario
+Before: The Honourable Justice Edward (Ted) Cook
+Appearances:
+For the Applicant:
+The Applicant
+Counsel for the Respondent:
+Mira Amin
+ORDER
+In accordance with the attached reasons;
+The Applicant’s application for an extension of time within which to file a notice of appeal is dismissed, without costs; and
+The notice of appeal received with the application is deemed to have been validly filed on the date of this Order, except that the portions of the notice relating to the Canada Emergency Response Benefit and the Canada Emergency Student Benefit are struck from the notice.
+Signed at Ottawa, Ontario, this 16th day of June 2025.
+“Ted Cook”
+Cook J.
+Citation: 2025 TCC 82
+Date: 20250623
+Docket: 2023-2297(IT)APP
+BETWEEN:
+THOMAS C. ZAUGG,
+Applicant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+AMENDED REASONS FOR ORDER
+Cook J.
+I. Introduction [1] This matter came before the Court by way of an application by Mr. Zaugg for an extension of time within which to file a notice of appeal under the informal procedure.
+[2] Mr. Zaugg was diagnosed with a mental illness and he applied for the disability tax credit, the income tax credit for persons suffering from a mental or physical impairment. He received the credit for 2007 to 2014. A letter from the Minister of National Revenue (“Minister”) in 2010 told him that he would need to complete a new T2201 form, Disability Tax Credit Certificate, to be eligible for the credit for 2015.
+[3] Mr. Zaugg submitted a T2201 form to the Canada Revenue Agency (“CRA”) in March 2018. He used his sister’s address (“Brantford Address”) as the mailing address on the form because he was suffering from housing instability at the time. In April 2018, the CRA sent a letter to Mr. Zaugg’s doctor asking for additional information. The CRA never received the requested information.
+[4] A notice of determination (“Notice of Determination”) was mailed to Mr. Zaugg at the Brantford Address in June 2018. It stated that his request could not be allowed because the CRA had not received the additional information it had requested. The Notice of Determination also said that Mr. Zaugg’s request would be reviewed when the requested information was received.
+[5] The Brantford Address was apparently no longer valid for Mr. Zaugg by June 2018 because the CRA sent a “courtesy” letter in February 2019 (“2019 Letter”) to Mr. Zaugg at an address in Toronto (“Toronto Address”). The 2019 Letter stated that Canada Post had returned correspondence (i.e., the Notice of Determination) because it was undeliverable. The 2019 Letter also purported to include a copy of the Notice of Determination. The CRA obtained the Toronto Address from Canada Post when the correspondence was returned to the CRA.
+[6] However, the CRA’s mailing address history for Mr. Zaugg shows his mailing address of record for the period from April 14, 2016 to April 14, 2020, as a Bloor Street West, Toronto address (“Bloor Street Address”). Neither the Notice of Determination nor the 2019 Letter were sent to the Bloor Street Address. Effective April 14, 2020, the Toronto Address became Mr. Zaugg’s mailing address of record.
+[7] As a separate matter, by way of letter dated October 13, 2020, Mr. Zaugg was informed that he was not eligible for the Canada Emergency Response Benefit (“CERB”) and that he could ask for a second review. Then in July 2022, the Minister sent Mr. Zaugg a redetermination denying his eligibility for both the CERB and Canada Emergency Student Benefit (“CESB”). Both letters were sent to the Toronto Address; but Mr. Zaugg had left that address in early 2020 and he did not receive them.
+[8] On January 31, 2023, Mr. Zaugg filed an electronic notice of objection for 2015 to 2022 regarding his eligibility for the disability tax credit. By letter dated March 23, 2023, the notice of objection was rejected and Mr. Zaugg was invited to submit a completed T2201 form to obtain a new notice of determination, which could then be objected to. No notice of confirmation was ever sent to Mr. Zaugg.
+[9] On November 17, 2023, Mr. Zaugg filed both this application for an extension of time and a notice of appeal under the informal procedure.
+[10] The Minister’s income tax (re)assessments of Mr. Zaugg for 2015 to 2020 and 2022 all show that he had no federal income tax, penalties or interest payable for each of those years – that is, they were all what are known as “nil assessments”. A notice of assessment for 2021, which was not a nil assessment, was issued in August 2023.
+II. Issues [11] Mr. Zaugg applies for an extension of time within which to file a notice of appeal from the disability-tax-credit determination, the (re)assessments for 2015 to 2022, and the CERB and CESB redetermination. His application turns on the following issues:
+o When was the Notice of Determination sent to Mr. Zaugg for the purposes of subsection 152(1.01) of the Income Tax Act (“Act”)?
+oWere the (re)assessments for 2015 to 2022 validly objected to?
+oDoes this Court have jurisdiction to hear appeals from CERB and CESB redeterminations?
+III. Notice of Determination [12] Where an individual, in prescribed form, has requested a determination as to whether they are eligible for the disability tax credit (i.e., an amount deductible under section 118.3 of the Act), subsection 152(1.01) requires the Minister to make a determination as to the availability of the credit and send a notice of determination to the individual.
+[13] Subsection 152(1.2) of the Act then imports the objection and appeal rules for assessments to apply in respect of determinations, and redeterminations, for the disability tax credit. As a result, Mr. Zaugg had until 90 days after the Notice of Determination was sent to him to file a notice of objection and then another year to apply for an extension of time within which to file a notice of objection. A valid notice of objection is a condition for appealing a determination, or redetermination, to this Court.
+[14] Mr. Zaugg testified that he did not receive either the Notice of Determination or the 2019 Letter. This was the case even though in 2018 and 2019 he lived at the Toronto Address, a rooming house. He said that he found the Notice of Determination only while searching his CRA electronic mailbox in January 2023 in relation to his CERB and CESB issues, and that he filed the notice of objection as soon as he discovered the Notice of Determination.
+[15] I find that Mr. Zaugg was forthright in his testimony and that he was credible and generally reliable in testifying about his living arrangements and the relevant dates even though he was confused on some specifics. In his testimony and argument, he was candid about which of his beliefs and views he did not expect the Court to accept.
+[16] Consequently, I find that Mr. Zaugg first saw the Notice of Determination in January 2023. In particular, I find the notice of objection was filed fewer than 90 days after Mr. Zaugg first saw the Notice of Determination.
+[17] But that is not conclusive of when the Minister sent the Notice of Determination to Mr. Zaugg for the purposes of subsection 152(1.01). The Notice of Determination was mailed by the CRA to the Brantford Address in June 2018. This was the address Mr. Zaugg provided on the T2201 form. That the Notice of Determination was mailed to the Brantford Address is supported by the existence of the 2019 Letter. The 2019 Letter also purported to include the Notice of Determination.
+[18] To complicate matters, the CRA’s mailing address history for Mr. Zaugg shows the Bloor Street Address as his mailing address of record for the period from April 14, 2016 to April 14, 2020. Mr. Zaugg said this was an H&R Block office that he would have used at some point to file his income tax returns. There was also the notation “Returned Mail” in the CRA printout of the mailing address history under the Bloor Street Address; however, the notation does not indicate what was returned or when.
+[19] No evidence was put before me as to when or how the Notice of Determination came to be in Mr. Zaugg’s CRA electronic inbox or to substantiate the mailing practices of the CRA with respect to the mailing of the 2019 Letter.
+[20] In Mpamugo v The Queen, 2016 TCC 215, aff’d 2017 FCA 136, Justice Graham set out a four-step process to apply where a taxpayer asserts that the Minister never sent a notice of assessment. As it would apply in this instance, the first two steps are as follows:
+1)The taxpayer must assert that the notice of determination was mailed to the wrong address through no fault of the taxpayer and was thus, in effect, not mailed.
+2)If the taxpayer has asserted that it was mailed to the wrong address, the Minister must introduce sufficient evidence to establish, on a balance of probabilities, that the notice of assessment was mailed to the address that the CRA properly had on file.
+[21] Mr. Zaugg asserted that the Notice of Determination was sent to the wrong address because the Brantford Address was no longer valid for him by June 2018.
+[22] What was the address that the CRA properly had on file for Mr. Zaugg? The CRA had three addresses for Mr. Zaugg:
+othe Bloor Street Address, which was the mailing address the CRA had on file for Mr. Zaugg;
+othe Brantford Address, which was the mailing address Mr. Zaugg provided on the T2201 form; and
+othe Toronto Address, which the CRA presumably obtained from the correspondence returned by Canada Post as undeliverable.
+[23] I am of the view that the address properly on file was the Bloor Street Address. It was the mailing address of record the CRA had in its files. The CRA generally takes the view that it is a taxpayer’s responsibility to ensure that their correct mailing address is known by the CRA at all times (see, for example, Carvalho v The Queen, 2007 TCC 709 at para 8 and Doncaster v The Queen, 2015 TCC 127 at para 59) and the CRA relies on correspondence sent to that address as complying with its obligations to notify the taxpayer. The fact that the CRA’s mailing address history had the notation “Returned Mail” does not affect my analysis because there was no evidence as to what mail was returned or when it was returned.
+[24] The respondent argued that for purposes of the Notice of Determination, the address properly on file was the Brantford Address since it was the address used as the mailing address on the T2201 form. I accept that taxpayers have an obligation to keep the CRA up to date with their mailing address; however, there was nothing on the face of the T2201 form entered into evidence indicating how an individual could update their mailing address specifically for disability-tax-credit purposes. It seems that an individual would need to update their general mailing address with the CRA.
+[25] In this case, the CRA knew that the Brantford Address was not a “good” address for sending the Notice of Determination since it was returned as undeliverable. As well, there were no directions on the T2201 form for how Mr. Zaugg could specifically update his mailing address for the purposes of the determination of his eligibility for the disability tax credit.
+[26] The facts of this case are distinguishable from those considered by Justice Wong in Pour Afkari v The Queen, 2019 TCC 173. That case related to the GST/HST housing rebate and on the rebate application form the address of the rebate property was checked off as the mailing address. The taxpayer continued to own the rebate property and there was no indication to the CRA that the address of the rebate property was not the correct address.
+[27] Having mailed the 2019 Letter to the Toronto Address does not change this analysis in my view. The Toronto Address was not a mailing address of record (either generally or on the T2201 form) for Mr. Zaugg. See 236130 British Columbia Ltd. v The Queen, 2006 FCA 352.
+[28] In these circumstances, it would have been incumbent on the Minister to send the Notice of Determination to the Bloor Street Address in order to have sent the Notice of Determination to Mr. Zaugg for the purposes of subsection 152(1.01). This was not done.
+[29] Mr. Zaugg found the Notice of Determination only when he reviewed his CRA electronic mailbox. There was no evidence indicating that an electronic message, as required by subsection 244(14.1) of the Act, was sent at any time to Mr. Zaugg with respect to the Notice of Determination. Therefore, I find the Notice of Determination was sent to Mr. Zaugg when he accessed his CRA electronic mailbox in January 2023 (see Kirschke v The Queen, 2019 TCC 68 at para 36).
+[30] The respondent accepted that the notice of objection was with respect to both the Notice of Determination and the (re)assessments of 2015 to 2022. I agree. Since Mr. Zaugg filed a notice of objection to the Notice of Determination on January 31, 2023 and the Minister had not issued a notice of confirmation, it was within Mr. Zaugg’s rights to file a notice of appeal to the Notice of Determination in November 2023.
+[31] In November 2023, Mr. Zaugg filed an application for an extension of time within which to file a notice of appeal. Since Mr. Zaugg’s application is unnecessary, it will be dismissed.
+[32] I am also mindful that this approach is more expeditious and less expensive. In opposing Mr. Zaugg’s application, the respondent invited Mr. Zaugg to file a new T2201 form for the 2015 to 2022 years. If he did so, either the disability tax credit would be granted by the CRA or Mr. Zaugg would presumably object and appeal to this Court again.
+[33] When Mr. Zaugg filed the application, he also filed a notice of appeal to the Notice of Determination. Therefore, I will deem the notice of appeal received with his application to have been validly filed on the date of my order.
+IV. (Re)assessments for 2015 to 2022 [34] Mr. Zaugg’s alternative to appealing from the Notice of Determination would be to seek to appeal from the Minister’s reassessments for the 2015 to 2022 years regarding the availability of the disability tax credit. Given my findings above, it is not necessary to consider whether the (re)assessments for 2015 to 2022 were validly objected to.
+V. CERB and CESB [35] The last issue is straightforward. This Court does not have jurisdiction to hear appeals regarding determinations of eligibility for the CERB or CESB. Therefore, Mr. Zaugg’s application fails in respect of the CERB and CESB without having to consider their specifics.
+[36] The CERB is governed by the Canada Emergency Response Benefit Act while the CESB is governed by the Canada Emergency Student Benefit Act. Neither of those acts provides for an appeal to the Tax Court of Canada. Consistent with that, section 12 of the Tax Court of Canada Act, which generally circumscribes the jurisdiction of the Tax Court of Canada, does not list either of those acts. I note in passing that the appeal provisions in the Act apply only in respect of assessments made under the Act unless a specific rule makes them applicable in other circumstances. That is not the case with respect to the CERB or CESB.
+[37] Issues with respect to eligibility for the CERB and CESB are matters of judicial review under the purview of the Federal Court.
+VI. Disposition [38] Mr. Zaugg’s application for an extension of time within which to file a notice of appeal is dismissed, without costs. The notice of appeal received with Mr. Zaugg’s application is deemed to have been validly filed on the date of my order, except that the portions of the notice relating to the CERB and the CESB are struck from the notice.
+These Amended Reasons for Order are issued in substitution of the Reasons for Order dated June 16, 2025 in order to correct the formatting underscored in paragraph 11 hereof.
+Signed at Ottawa, Ontario, this 23rd day of June 2025.
+“Ted Cook”
+Cook J.
+CITATION:
+2025 TCC 82
+COURT FILE NO.:
+2023-2297(IT)APP
+STYLE OF CAUSE:
+THOMAS C. ZAUGG AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 27, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice Edward (Ted) Cook
+DATE OF ORDER:
+June 16, 2025
+DATE OF AMENDED REASONS FOR ORDER
+June 23, 2025
+APPEARANCES:
+For the Applicant:
+The Applicant
+Counsel for the Respondent:
+Mira Amin
+COUNSEL OF RECORD:
+For the Applicant:
+The Applicant
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

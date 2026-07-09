@@ -1,0 +1,152 @@
+---
+title: "Hungerson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29826/index.do"
+last_modified: "2010-06-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 299"
+citation2: ""
+neutral_citation: "2010 TCC 299"
+decision_date: "2010-06-02"
+language: "en"
+item_id: "29826"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6568
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:19:16.036000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8b80e77905eace239aea64264f2fd2a4d1538daa32598ca6a71128390df1f624"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hungerson v. The Queen
+
+- Citation: 2010 TCC 299
+- Decision date: 2010-06-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6568, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hungerson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-02
+Neutral citation
+2010 TCC 299
+File numbers
+2009-1675(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1675(IT)I
+BETWEEN:
+RIC RUSSELL HUNGERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 9, 2010, at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Holly Popenia
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2006 taxation year is dismissed, without costs.
+Signed at Ottawa, Canada, this 2nd day of June 2010.
+"L.M. Little"
+Little, J.
+Citation: 2010 TCC 299
+Date: June 2, 2010
+Docket: 2009-1675(IT)I
+BETWEEN:
+RIC RUSSELL HUNGERSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little, J.
+[1] The Appellant is an elevator engineer who is employed by a large multi‑national company.
+[2] The Appellant entered into a common-law relationship with Debra Shepherd (“Debra”) in 1989.
+[3] The Appellant had three children with Debra:
+(a) a daughter, born November 20, 1991;
+(b) a daughter, born August 31, 1993; and
+(c) a daughter, born August 31, 1993.
+[4] Debra also had two children from a previous relationship:
+(a) a daughter, born March 20, 1979; and
+(b) a daughter, born September 20, 1980.
+[5] The Appellant and Debra discontinued their common-law relationship in December, 1994.
+[6] On December 8, 1994 a Court Order (the “First Order”) was issued requiring the Appellant to pay Debra a total of $1,000.00 per month commencing on February 1, 1995 for the support and maintenance of all five children (collectively, the “Children”). The First Order indicated that the Appellant was to pay monthly support and maintenance of the Children in the following amounts:
+(a) $125.00 for the daughter born in 1979;
+(b) $125.00 for the daughter born in 1980;
+(c) $250.00 for the daughter born in 1991;
+(d) $250.00 for the daughter born in 1993; and
+(e) $250.00 for the daughter born in 1993.
+(Exhibit A-1)
+[7] The Appellant testified that he was unemployed after the First Order was issued and he was therefore unable to pay the maintenance payments that were specified in the First Order.
+[8] On July 25, 1995 a Court Order (the “Second Order”) was issued to vary the terms of the First Order. The Second Order required the Appellant to pay Debra a total of $500.00 per month commencing July 15, 1995 for the support and maintenance of the Children (Exhibit A-2).
+[9] On December 21, 2005 a Court Order (the “Third Order”) was issued to vary the terms of the Second Order. The Third Order required the Appellant to pay Debra a total of $1,417.00 per month commencing January 1, 2006 for the maintenance of the Children (Exhibit A-4). (Note: Exhibit A-3 indicates that the Third Order only applied to the three youngest children.)
+[10] During the 2006 taxation year, the Appellant did not live with Debra.
+[11] When the Appellant filed his income tax return for the 2006 taxation year, he deducted child support payments for the three children in the amount of $17,004.00.
+[12] The Minister of National Revenue (the “Minister”) issued a Notice of Assessment dated June 5, 2008 to disallow the child support payments that were claimed by the Appellant.
+[13] The Appellant filed a Notice of Objection to the Assessment and the Minister confirmed the Assessment.
+ISSUE
+[14] The issue is whether the Appellant is entitled to claim a deduction for the child support payments of $17,004.00 that were paid to Debra in the 2006 taxation year.
+ANALYSIS AND DECISION
+[15] The Appellant maintains that the Third Order did not create a Commencement Date since the increased maintenance payments provided for in the Third Order were prepared in accordance with the cost of living index relied upon by the Provincial Court Judge. In support of his position, the Appellant referred to the Canada Revenue Agency (“CRA”) information guide entitled “Support Payments” (P102 (E) Rev. 07). At page 3 of the document, the following comment is found:
+We do not consider a cost of living adjustment to be a change.
+[16] Counsel for the Respondent maintains that the Third Order issued in December 2005 initiated a Commencement Date as defined in subsection 56.1(4) of the Income Tax Act (the “Act”) and therefore the Minister determined that the Appellant was not entitled to deduct $17,004.00 paid for child support payments in 2006.
+[17] Under what has sometimes been described as the old tax régime (pre-May 1997) spouses making payments to separated or ex-spouses for the support of children were allowed to deduct those payments and the recipient was required to include the amount of the payments in their income. Following the decision of the Supreme Court of Canada in Thibaudeau v. Canada, [1995] 2 S.C.R. 627, the Act was amended and new provisions were introduced to deal with child support payments.
+[18] The amended Act provided that if a pre-May 1997 agreement or Court Order remained unchanged the deduction/inclusion system as provided by the old régime prevailed. However, if a new agreement was entered into by the parties or if a new Court Order was issued, or an old agreement was changed in a particular way, the deduction/inclusion régime would not apply and only payments made up to the Commencement Date, as defined in the Act, were deductible from income by the payor and included in income by the payee.
+[19] As noted above, the Appellant argued that the payments provided for in the Third Order represented a cost of living increase. A cost of living increase is defined as “the cost of maintaining a certain standard of living”. I note that in this situation the “increase” in the support payments amounts to close to three times the original payments and with only three children involved rather than the original five children that were provided for in the Second Order.
+[20] I have concluded that the increase in support payments from $500.00 per month to $1,417.00 per month was caused by the increased income received by the Appellant rather than by a cost of living increase.
+[21] I have concluded that there was a “commencement date” when the Third Order was issued to vary the terms contained in the Second Order.
+[22] It therefore follows that any child support payments paid by the Appellant in 2006 are not deductible.
+[23] The appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 2nd day of June 2010.
+"L.M. Little"
+Little, J.
+CITATION: 2010 TCC 299
+COURT FILE NO.: 2009-1675(IT)I
+STYLE OF CAUSE: Ric Russell Hungerson and Her Majesty the Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: April 9, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: June 2, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Holly Popenia
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,99 @@
+Title: Darba v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/70819/index.do
+Corpus path: corpus/cases/tcc/2014/2014-tcc-103-70819-darba-v-the-queen-en.md
+Document type: case_law
+Last modified: 2014-04-01
+
+# Darba v. The Queen
+
+- Citation: 2014 TCC 103
+- Decision date: 2014-04-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5334, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Darba v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-04-01
+Neutral citation
+2014 TCC 103
+File numbers
+2012-1179(GST)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2012-1179(GST)I
+BETWEEN:
+HASSEN DARBAJ and WAFAA DARBAJ,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 12, 2014 at Hamilton, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellants:
+Mustapha Darbaj
+Counsel for the Respondent:
+Jan Jensen
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal with respect to a reassessment, made under the Excise Tax Act by notice dated January 17, 2011, is dismissed. The parties shall bear their own costs.
+Signed at Toronto, Ontario this 1st day of April 2014.
+“J.M. Woods”
+Woods J.
+Citation: 2014 TCC 103
+Date: 20140401
+Docket: 2012-1179(GST)I
+BETWEEN:
+HASSEN DARBAJ and WAFAA DARBAJ,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Hassen and Wafaa Darbaj purchased a new home on March 29, 2007 and became entitled to a transitional rebate of goods and services tax (GST) pursuant to subsection 256.74(1) of the Excise Tax Act. The amount of the rebate is $1,848.59, which is equal to one percent of the consideration for the home.
+[2] Unfortunately for the appellants, they missed the two-year deadline for making the application. The time period is provided for in subsection 256.74(7) of the Act, which provides:
+256.74(7) Application for rebate - A rebate under this section in respect of a residential complex shall not be paid to a person, unless the person files an application for the rebate within two years after the day on which ownership of the complex is transferred to the person.
+[3] Realizing that the deadline was missed, the appellants decided to apply for the rebate anyway. The application, which was sent on June 22, 2009, alerted the Canada Revenue Agency (CRA) that it was late.
+[4] Although the CRA was informed of the deadline issue, the application was approved and the rebate was paid on July 15, 2009.
+[5] It appears that the CRA subsequently undertook a further review of the application, and this resulted in a notice of reassessment being issued on January 17, 2011. This time, the rebate was disallowed due to the lateness of the application.
+[6] At the hearing, the appellants were represented by their son, Mustapha Darbaj. He submitted that it was not fair for his parents to be required to repay the rebate. He commented that his parents had acted reasonably in alerting the CRA to the missed deadline, that his parents believed that the CRA decided to overlook the deadline, and that they had spent the rebate long ago.
+Discussion
+[7] The question to be decided in this appeal is whether the reassessment that denied the rebate should be upheld.
+[8] In my view, there is no basis on which the reassessment may be vacated. Pursuant to s. 256.74(7) of the Act, a rebate is not to be paid unless the taxpayer applies for it within two years. Although the Minister allowed the rebate at first, the Minister is entitled to reconsider this decision and issue a further assessment pursuant to subsection 297(2) of the Act. This provision reads:
+297.(2) Reassessment - The Minister may reassess or make an additional assessment of the amount of a rebate, notwithstanding any previous assessment of the amount of the rebate.
+[9] The appellants submit that the reassessment should be vacated on grounds of fairness. However, the judicial authorities are clear that if an assessment is permitted by the legislation, this Court cannot vacate the assessment on grounds of fairness, even if the problem is due to an error on the part of the CRA. Accordingly, the submissions based on fairness must be rejected.
+[10] I would conclude that the reassessment issued on January 17, 2011 is correct and that the appeal must be dismissed.
+Signed at Toronto, Ontario this 1st day of April 2014.
+“J.M. Woods”
+Woods J.
+CITATION: 2014 TCC 103
+COURT FILE NO.: 2012-1179(GST)I
+STYLE OF CAUSE: HASSEN DARBAJ and WAFAA DARBAJ AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: March 12, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: April 1, 2014
+APPEARANCES:
+Agent for the Appellants:
+Mustapha Darbaj
+Counsel for the Respondent:
+Jan Jensen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

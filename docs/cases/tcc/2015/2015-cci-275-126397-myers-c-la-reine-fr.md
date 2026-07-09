@@ -1,0 +1,180 @@
+---
+title: "Myers c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/126397/index.do"
+last_modified: "2015-11-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 275"
+citation2: ""
+neutral_citation: "2015 CCI 275"
+decision_date: "2015-11-04"
+language: "fr"
+item_id: "126397"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2690
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:19:19.184000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "34e379580ed5aa2f8b63b39b2c3f742b837a5484d0466cca55f3103bd61db9c0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Myers c. La Reine
+
+- Citation: 2015 CCI 275
+- Decision date: 2015-11-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2690, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Myers c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-11-04
+Référence neutre
+2015 CCI 275
+Numéro de dossier
+2014-243(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-243(IT)G
+ENTRE :
+DEBORAH MYERS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 26 octobre 2015, à Toronto (Ontario)
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocats de l'appelante :
+Me David M. Piccolo
+Me Alexander Yu
+Avocate de l'intimée :
+Me Erin Strashin
+JUGEMENT
+L'appel relatif à la cotisation no 1417166 du 1er septembre 2011 établie en vertu de l'article 160 de la Loi de l'impôt sur le revenu à propos du transfert d'un bien‑fonds à l'appelante est rejeté.
+Les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2015.
+« V.A. Miller »
+La juge V.A. Miller
+Référence : 2015 CCI 275
+Date : 20151104
+Dossier : 2014-243(IT)G
+ENTRE :
+DEBORAH MYERS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Le présent appel est interjeté à l'encontre d'une cotisation du 1er septembre 2011 établie en vertu du paragraphe 160(1) de la Loi de l'impôt sur le revenu (la « Loi »). L'appelante s'est vu imposer une cotisation de 70 000 $ parce que son époux lui a transféré le foyer conjugal (le « bien‑fonds ») le 13 janvier 2004, date à laquelle il était débiteur fiscal.
+[2] La seule question à trancher dans le présent appel consiste à savoir s'il y a eu transfert de bien de Richard Myers, l'époux de l'appelante, à l'appelante. L'appelante soutient que, lorsque le bien‑fonds a été acheté le 14 juillet 2003, elle était censée en être la seule propriétaire. Son avocat a enregistré à tort le bien‑fonds à son nom et à celui de son époux, en tant que tenants conjoints.
+[3] Les témoins à l'audience étaient l'appelante et Richard Myers.
+Les faits A. Les témoins [4] En 2002, l'appelante était gestionnaire d'un organisme appelé The Clinic for Optimal Health and Rejuvenation (la « clinique »). Elle a déclaré que son époux était consultant à la clinique en 2002 et qu'il a été invité à siéger au conseil d'administration de celle‑ci.
+[5] Monsieur Myers a dit être consultant depuis 1976 et offrir des conseils financiers. Il a convenu qu'il est [TRADUCTION] « dépanneur financier ». Il a cependant dit ne pas avoir fait d'études au‑delà de l'école secondaire.
+[6] Monsieur Myers a témoigné qu'il n'a qu'un seul emploi de consultant à la fois et que, lorsqu'un organisme l'embauche comme consultant, il travaille pour cet organisme comme s'il en était l'employé.
+B. Le bien‑fonds [7] Le bien‑fonds était situé au 36, croissant Chadwick, à Richmond Hill (Ontario). Les deux témoins ont dit y avoir emménagé avant de l'acheter. Ils avaient une convention d'achat‑vente avec Joseph et Chooi‑May Nardi (les « Nardi »), les anciens propriétaires, qui leur ont permis d'habiter le bien‑fonds et d'effectuer des versements mensuels, dont 5 000 $ qui faisaient partie de l'acompte à verser pour l'acquisition du bien‑fonds. Selon les témoins, ils avaient convenu que, lorsqu'ils auraient donné 65 000 $ d'acompte, les Nardi leur vendraient le bien‑fonds.
+[8] Maître William Samis a représenté l'appelante et son époux lors du transfert du bien‑fonds. Il a enregistré le transfert des Nardi à l'appelante et à son époux le 14 juillet 2003. L'enregistrement au bureau d'enregistrement immobilier montre que la contrepartie du bien‑fonds était de 565 000 $ et que l'appelante et son époux en étaient tenants conjoints. L'appelante et son époux ont financé l'achat du bien‑fonds à l'aide d'une première hypothèque de 395 000 $ de la Home Trust Company et d'une deuxième hypothèque de 105 000 $ des Nardi.
+[9] L'appelante a témoigné qu'elle et son époux ont perdu leur emploi en janvier 2003, au moment où la clinique a fermé ses portes. Cependant, puisque le bien‑fonds a été acheté en 2003, j'ai conclu que la clinique a en fait été fermée en janvier 2004 et que l'appelante et son époux ont perdu leur emploi en janvier 2004. Ayant perdu leur emploi, l'appelante et son époux avaient besoin d'aide pour régler les hypothèques dont le bien‑fonds était grevé. Me Samis les a aidés à trouver quelqu'un qui leur accorderait une troisième hypothèque. Selon l'appelante, ce n'est qu'à ce moment‑là qu'elle et son époux se sont rendu compte qu'ils étaient tous deux tenants conjoints du bien‑fonds. L'appelante a témoigné qu'en 2003, elle a demandé à Me Samis de mettre le bien‑fonds à son seul nom parce que son époux avait [TRADUCTION] « d'autres intérêts ». Elle n'a pu expliquer ce qu'elle entendait par [TRADUCTION] « d'autres intérêts ».
+[10] Selon l'appelante et son époux, l'erreur qui s'est glissée dans le titre de propriété a été corrigée le 13 janvier 2004, date à laquelle Me Samis a enregistré un transfert du bien‑fonds de l'appelante et de son époux à l'appelante. Le transfert a été effectué moyennant 2 $ et la prise en charge des hypothèques de 499 000 $. Au moment de ce transfert, le bien‑fonds faisait l'objet de trois brefs d'exécution contre Richard Myers.
+[11] Le 19 janvier 2004, l'appelante a grevé le bien‑fonds d'une troisième hypothèque de 40 000 $. Elle dit avoir obtenu cette troisième hypothèque pour être en mesure d'effectuer les paiements mensuels en attendant de vendre le bien‑fonds. Elle a vendu le bien‑fonds le 16 avril 2004, contre 643 000 $.
+[12] Lorsqu'il a établi la cotisation de l'appelante, le ministre a tenu pour acquis que la juste valeur marchande du bien‑fonds était de 643 000 $ le 13 janvier 2004.
+La Loi [13] Le paragraphe 160(1) de la Loi porte ce qui suit :
+160. (1) Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+d) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement d'une partie de l'impôt de l'auteur du transfert en vertu de la présente partie pour chaque année d'imposition égale à l'excédent de l'impôt pour l'année sur ce que cet impôt aurait été sans l'application des articles 74.1 à 75.1 de la présente loi et de l'article 74 de la Loi de l'impôt sur le revenu, chapitre 148 des Statuts revisés du Canada de 1952, à l'égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l'égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants représentant chacun un montant que l'auteur du transfert doit payer en vertu de la présente loi (notamment un montant ayant ou non fait l'objet d'une cotisation en application du paragraphe (2) qu'il doit payer en vertu du présent article) au cours de l'année d'imposition où les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années.
+Toutefois, le présent paragraphe n'a pas pour effet de limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi ni celle du bénéficiaire du transfert quant aux intérêts dont il est redevable en vertu de la présente loi sur une cotisation établie à l'égard du montant qu'il doit payer par l'effet du présent paragraphe.
+[14] Selon le paragraphe 160(1), le bénéficiaire du transfert est solidairement responsable des impôts impayés si les quatre conditions suivantes sont réunies :
+a) il y a un transfert de bien;
+b) l'auteur du transfert est tenu de payer de l'impôt sur le revenu au moment du transfert;
+c) le bénéficiaire et l'auteur du transfert ont un lien de dépendance;
+d) la juste valeur marchande du bien transféré dépasse la juste valeur marchande de la contrepartie donnée par le bénéficiaire du transfert : R. c. Livingston, 2008 CAF 89, au paragraphe 17.
+[15] Comme je l'ai déjà dit, la seule question à trancher dans le présent appel consiste à savoir s'il y a eu un « transfert de bien » de Richard Myers à l'appelante le 13 janvier 2004.
+C. Les thèses des parties [16] L'appelante a allégué qu'il avait toujours été prévu que le bien‑fonds serait à son nom seul. Une erreur a été commise lorsqu'en juillet 2003, le bien‑fonds a été enregistré à son nom et au nom de son époux à titre de tenants conjoints, une erreur qui a été corrigée en janvier 2004.
+[17] L'intimée a allégué qu'il y a eu un « transfert » au sens de l'article 160 de la Loi lorsque l'appelante est devenue seule propriétaire du bien‑fonds en janvier 2004 : R. c. Livingston, précité. L'avocate de l'intimée a de plus fait valoir que l'appelante n'a pas fourni de preuve crédible qu'une erreur s'est produite lorsque le bien‑fonds a été enregistré en son nom et au nom de son époux en juillet 2003.
+Analyse [18] Je suis d'avis que la question de savoir s'il y a eu un « transfert » du bien‑fonds en janvier 2004 dépend de la question de savoir si Richard Myers a acquis à la fois le titre juridique et le titre bénéficiaire du bien‑fonds en juillet 2003. Bien que l'avocat de l'appelante ne l'ait pas directement allégué, son argumentation laisse entendre que Richard Myers n'a reçu que le titre juridique et non le titre bénéficiaire en juillet 2003, parce que le bien‑fonds a été enregistré à son nom par erreur.
+[19] Pour les motifs qui suivent, je ne crois pas qu'une erreur se soit produite lorsque le bien‑fonds a été enregistré au nom des deux époux en juillet 2003.
+[20] L'appelante et son époux ont témoigné que leur avocat, Me Samis, a fait erreur lorsqu'il a enregistré le bien‑fonds au nom des deux. Cependant, ils n'ont pas appelé Me Samis à témoigner à l'audience. Dans la décision Enns c. Ministre du Revenu national, no APP‑1992(IT), 17 février 1987, 87 D.T.C. 208, à la page 210 (C.C.I.), le juge Sarchuk de notre cour a dit ceci au sujet de l'omission de citer des témoins à comparaître :
+Dans l'ouvrage de Sopinka et Lederman, The Law of Evidence in Civil Cases, les auteurs font remarquer ce qui suit au sujet des conséquences de l'omission de faire comparaître un témoin, je cite :
+[TRADUCTION]
+Dans l'affaire Blatch v. Archer, (1774), 1 Cowp. 63, p. 65, Lord Mansfield a déclaré :
+Il existe certainement un principe voulant que tous les faits soient appréciés à la lumière de la preuve que l'une des parties était en mesure de produire et que l'autre partie était en mesure de réfuter.
+L'application de ce principe a conduit à établir une règle bien connue selon laquelle l'omission d'une partie ou d'un témoin de produire une preuve que la partie ou le témoin était en mesure de produire et qui aurait peut‑être permis d'élucider les faits, fonde la Cour à déduire que la preuve de la partie ou du témoin en question aurait été défavorable à la partie à laquelle l'omission a été attribuée.
+Dans le cas d'un demandeur auquel il incombe d'établir un point, l'effet de cette déduction peut être que la preuve produite sera insuffisante pour s'acquitter du fardeau de la preuve. (Levesque et al. c. Comeau et al., [1970] R.C.S. 1010, (1971), 16 D.L.R. (3e) 425.)
+[21] L'avocat de l'appelante a fait valoir que Me Samis aurait été un témoin adverse en raison d'un litige ultérieur entre Me Samis et l'appelante et son époux. Ce litige ultérieur ne portait pas sur le bien‑fonds en cause.
+[22] Je ne tiendrai pas pour acquis que Me Samis aurait été un témoin opposé ni qu'il n'aurait pas dit la vérité. C'est un officier de justice. Son témoignage aurait jeté la lumière sur la question même qui est en cause. Le fait que l'appelante n'ait pas convoqué Me Samis comme témoin m'amène donc à tirer une inférence défavorable.
+[23] Il y a eu des contradictions entre le témoignage de l'appelante et celui de Richard Myers. Au cours du contre-interrogatoire par l'avocate de l'intimée, l'appelante a reconnu que Me Samis a examiné les documents suivants avec elle en 2003 :
+• l'acte de cession enregistré en 2003, d'après lequel Richard Myers et Deborah Myers sont tenants conjoints;
+• les relevés des droits de cession immobilière, qui montrent que Richard Myers et Deborah Myers sont les cessionnaires.
+Selon Richard Myers, Me Samis n'a pas examiné ces documents avec lui ou avec l'appelante en 2003. Il a témoigné que la convention d'achat‑vente a été signée en 2002 et qu'elle était au nom de l'appelante seulement. Il a été demandé à Me Samis d'enregistrer le bien‑fonds en se servant de l'information de la convention d'achat‑vente. Je remarque que cette convention n'a pas été présentée en preuve.
+[24] Parce que les éléments de preuve sont contradictoires, je suis d'avis que le témoignage des témoins n'est pas fiable.
+[25] Richard Myers voudrait me faire croire que non seulement Me Samis a fait erreur, mais aussi que les avocats qui ont présenté les hypothèques pour enregistrement ont également commis des erreurs. Il a dit avoir signé les hypothèques comme garant. Toutefois, contrairement à son témoignage, dans les hypothèques enregistrées en 2003, Richard Myers et Deborah Myers sont tous deux désignés comme « constituants ». L'enregistrement de l'hypothèque de la Home Trust Company a été signé et présenté par Sherwin H. Shapiro et l'enregistrement de l'hypothèque des Nardi a été signé et présenté par David John Albert Peirce.
+[26] Richard Myers a affirmé qu'ils ont toujours acheté leurs bien‑fonds au nom de l'appelante seulement. Rien cependant n'indique qu'ils ont acheté d'autres bien‑fonds avant celui en cause.
+[27] J'ai conclu qu'il n'y a pas eu d'erreur lorsque le bien‑fonds a été enregistré en 2003 au nom de Richard Myers et de Deborah Myers comme tenants conjoints. En 2003, Richard Myers détenait à la fois la propriété juridique et la propriété bénéficiaire du bien‑fonds. En 2004, il a transféré tous ses droits sur le bien‑fonds à l'appelante.
+[28] L'appelante n'a pas montré que la cotisation établie en vertu de l'article 160 n'a pas été fixée de façon régulière. L'appel est rejeté et les dépens sont adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 4e jour de novembre 2015.
+« V.A. Miller »
+La juge V.A. Miller
+RÉFÉRENCE :
+2015 CCI 275
+No DU DOSSIER DE LA COUR :
+2014-243(IT)G
+INTITULÉ :
+DEBORAH MYERS ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+Le 26 octobre 2015
+MOTIFS DU JUGEMENT PAR :
+L'honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 4 novembre 2015
+COMPARUTIONS :
+Avocats de l'appelante :
+Me David M. Piccolo
+Me Alexander Yu
+Avocate de l'intimée :
+Me Erin Strashin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me David M. Piccolo
+Me Alexander Yu
+Cabinet :
+Tax Chambers LLP
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

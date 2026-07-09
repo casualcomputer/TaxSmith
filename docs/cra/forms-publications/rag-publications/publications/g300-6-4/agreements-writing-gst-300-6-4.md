@@ -1,0 +1,164 @@
+---
+title: "Agreements in Writing (GST 300-6-4)"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/g300-6-4/agreements-writing-gst-300-6-4.html
+last_modified: 2017-11-07
+---
+# Agreements in Writing (GST 300-6-4)
+
+**Notice to the reader:**
+
+Please note that the following GST Memorandum, although correct at the time of issue, has not been updated to reflect any subsequent legislative changes since the date of issue. As a result, some of the technical information this memorandum contains may no longer be valid. Please contact your GST/HST Rulings Centre for assistance.
+
+GST memoranda 300-6-4
+
+**Ottawa, January 15, 1991**
+
+**TAX ON SUPPLIES TIME OF LIABILITY AGREEMENTS IN WRITING**
+
+This memorandum in the "**TIME OF LIABILITY**" sub-series explains the timing of liability for payment of the Goods and Services Tax (GST) with respect to agreements in writing.
+
+**LEGISLATIVE REFERENCES**
+
+*Excise Tax Ac*t, section 123, subsections 136(1), 152(1), 152(2), 168(1), 168(2), 168(3), 168(5) and 221(1).
+
+**DEFINITIONS**
+
+The following definitions have either been taken from the *Excise Tax Act* (as amended by Bill C-62) or represent departmental interpretations of terms relevant to the administration of that Act.
+
+"**Act**" means the Excise Tax Act as amended by Bill C-62;
+
+"**condominium complex**" means a residential complex that contains more than one residential condominium unit;
+
+"**consideration**" may be money, a thing, a service, forbearance in the exercise of a right or anything else which induces the supplier to make the supply. Where consideration is monetary, the amount of the money will be used to calculate the tax. Where the consideration is non-monetary, the fair market value of the consideration at the time the supply was made will be used to calculate the tax;
+
+"**invoice**" includes a statement of account, a bill and any other similar record, regardless of its form or characteristics, and a cash register slip or receipt;
+
+"**person**" means an individual, partnership, corporation, trust or estate, or a body that is a society, union, club, association, commission or other organization of any kind;
+
+"**property**" means any property, whether real or personal, movable or immovable, tangible or intangible, corporeal or incorporeal, and includes a right or interest of any kind, a share and a chose in action, but does not include money;
+
+"**recipient**", in respect of a supply, means the person who pays or agrees to pay consideration for the supply or, if no consideration is or is to be paid for the supply, the person to whom the supply is made;
+
+"**registrant**" means a person who is registered, or who is required to apply to be registered, under sections 240 and 241 of the Excise Tax Act;
+
+"**residential condominium unit**" means a residential complex that is, or intended to be, a bounded space in a building designated or described as a separate unit on a registered condominium or strata lot plan or description, or a similar plan or description registered under the laws of a province, and includes any interest in land pertaining to ownership of the unit;
+
+"**sale**", in respect of property, includes any transfer of the ownership of the property and a transfer of the possession of the property under an agreement to transfer ownership of the property;
+
+"**service**" means anything other than
+
+(a) property,
+
+(b) money, and
+
+(c) anything that is supplied to an employer by a person who is or agrees to become an officer or employee of the employer in the course of or in relation to the office or employment of that person;
+
+"**supply**" means, subject to sections 133 and 134 of the Act, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+
+"**tangible personal property**" includes all objects or things that may be touched, felt or possessed, and that are movable at the time the supply is made, other than money and real property;
+
+"**tax**" means the Goods and Services Tax payable under Part IX of the *Excise Tax Act*;
+
+"**taxable supply**" means a supply that is made in the course of a commercial activity, but does not include an exempt supply.
+
+**GENERAL RULE**
+
+1. The general timing of liability rule under subsection 168(1) of the Act is that tax is payable by the recipient of a taxable supply on the earlier of the day the consideration for the supply is paid and the day the consideration for the supply becomes due. Tax is generally collectible by the supplier at the same time that it is payable by the recipient.
+
+2. Registrants are required to account for any tax collectible in the return for the reporting period in which the tax became collectible, regardless of whether it was actually collected.
+
+**Consideration Paid**
+
+3. Consideration is paid when it is received by the supplier.
+
+**Consideration Becomes Due**
+
+4. Under subsection 152(1) of the Act, consideration, or a part thereof, for a taxable supply, is deemed to become due on the earliest of the following days:
+
+(a) the day that the supplier first issues an invoice in respect of the supply for that consideration or part;
+
+(b) the date of the invoice;
+
+(c) the day when, but for an undue delay, the supplier would have issued an invoice in respect of the supply for that consideration or part; and
+
+(d) the day that the recipient is required to pay that consideration or part pursuant to an agreement in writing.
+
+**AGREEMENTS IN WRITING**
+
+5. An agreement in writing is a coming together of minds or a common understanding or intent with respect to the relative rights and duties of the parties to the agreement which is expressed in some physical form evidencing the agreement.
+
+6. Evidence of the fact of agreement between parties with respect to the contents of a particular document may be the signatures of the parties on the document.
+
+7. An agreement in writing to make a supply may contain one or more of the following:
+
+(a) a description of the supply;
+
+(b) provisions with respect to payment and the payment terms;
+
+(c) a list of all the obligations of the parties to the agreement including any conditions or warranties; and
+
+(d) provisions for cancellation, default or breach of the agreement.
+
+8. Section 133 of the Act deems that an agreement (written or otherwise) to make a supply of property or a service is a supply. The provision of the good or service pursuant to the agreement is deemed to be part of that supply and not a separate supply. In addition, any prepayment or part payment of the consideration for the supply will be subject to tax even if the good or services has not yet been provided.
+
+9. Where there is a written agreement, the time of liability for payment of tax will generally follow the time that consideration or part thereof is required to be paid pursuant to the terms of a written agreement. However, pursuant to subsection 152(1) of the Act, if an invoice is issued prior to the date payment is required under the agreement, then the consideration is due, and tax is payable, on the day the invoice is issued or the date of the invoice, whichever is earlier. Should payment be made in advance of any of these dates, then tax would be payable on the day the payment is made.
+
+10. Additional information on the time of liability regarding invoices may be found in GST MEMORANDUM 300-6-3, "**INVOICES**".
+
+11. Under certain circumstances even where no payment is made and no invoice is issued in advance of the date that consideration is required to be paid under an agreement in writing, tax may be payable before the time that consideration is required to be paid under the terms of the agreement in writing. These exceptions are discussed in the following paragraphs.
+
+**EXCEPTIONS**
+
+**Override Rule**
+
+12. Pursuant to the override rule in subsection 168(3) of the Act, under certain circumstances, when all or part of the consideration for certain taxable supplies has neither been paid nor become due on the last day of the month following the month during which the supply was completed, then the tax is payable on that day.
+
+13. Paragraph 168(3)(a) of the override rule applies to the supply of tangible personal property by way of sale (other than on approval, consignment, sale-or-return or other similar terms). Paragraph 168(3)(b) of the Act outlines the rule for the supply of tangible personal property on consignment, approval or other similar terms and the override rule as it applies to the construction, renovation, alteration or repair of real property or a marine vessel under a written agreement is discussed in paragraph 168(3)(c) of the Act. As a result of the override rule, even where the supply of, for example, tangible personal property by way of sale is made pursuant to the terms of an agreement in writing, the provisions of subsection 168(3) will override the terms of the written agreement.
+
+14. For example, a major renovation to a marine vessel begun in May is substantially (90 per cent or more) completed September 15. Pursuant to paragraph 168(3)(c) of the Act, the tax would be payable on the balance of the consideration not paid nor become due by October 31, whether or not the agreement in writing provides for consideration to be paid after that time.
+
+15. For more information concerning the override rule, please refer to GST MEMORANDUM 300-6-11, "**OVERRIDE RULE**".
+
+**Real Property**
+
+16. The issuance of an invoice in the case of the taxable sale of real property will not cause tax to become payable at that time because subsection 168(5) of the Act provides that the tax becomes payable
+
+(a) where possession of a residential condominium unit is transferred to the recipient after 1990 and before the condominium complex in which the unit is situated is registered, on the earlier of the day that ownership of the unit transfers to the recipient and the day that is 60 days after the complex is registered as a condominium; and
+
+(b) in any other case, on the day ownership is transferred or the day on which possession is transferred to the recipient, whichever is earlier.
+
+17. Additional information on real property may be found in GST MEMORANDUM 300-6-5, "**REAL PROPERTY**".
+
+**Leases**
+
+18. Subsection 136(1) of the Act stipulates that a supply by way of lease, licence, rental or other similar arrangements for the use or right to use real property or tangible personal property is deemed to be a supply of that property.
+
+19. Where taxable property is supplied by way of lease, licence or similar arrangement under an agreement in writing, pursuant to subsection 152(2) of the Act, the consideration or part thereof is deemed to become due on the day that the recipient is required to pay the consideration or part pursuant to the written agreement. In this situation, the issuance of an invoice would not trigger tax at a date earlier than the day an amount is paid or becomes due under the terms of the lease. Pursuant to subsection 168(2) of the Act, where consideration for a taxable supply is paid or becomes due on more than one day, then the tax will be payable by the recipient on the consideration or part on the earlier of the day a partial payment is made or becomes due.
+
+**NOTE:** This memorandum is not a legal document. It contains general information and is provided for convenience and guidance in applying the *Excise Tax Act* and Regulations. If interpretation problems occur, please refer to the legislation or contact the nearest Revenue Canada Excise office.
+
+**REFERENCES**
+
+**OFFICE OF RESPONSIBILITY:**
+
+Policy and Legislation
+
+**LEGISLATIVE REFERENCES:**
+
+*Excise Tax Act* as amended by Bill C-62
+
+HEADQUARTERS FILE:
+
+N/A
+
+**SUPERSEDES GST MEMORANDUM:**
+
+N/A
+
+**OTHER REFERENCES:**
+
+N/A
+
+SERVICES PROVIDED BY THE DEPARTMENT ARE AVAILABLE IN BOTH OFFICIAL LANGUAGES.
+
+THIS MEMORANDUM IS ISSUED BY TECHNICAL INFORMATION, EXCISE BRANCH UNDER THE AUTHORITY OF THE DEPUTY MINISTER OF NATIONAL REVENUE, CUSTOMS AND EXCISE.

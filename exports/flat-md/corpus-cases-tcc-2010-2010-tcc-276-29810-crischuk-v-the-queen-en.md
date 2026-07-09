@@ -1,0 +1,162 @@
+---
+title: "Crischuk v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29810/index.do"
+last_modified: "2010-05-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 276"
+citation2: ""
+neutral_citation: "2010 TCC 276"
+decision_date: "2010-05-18"
+language: "en"
+item_id: "29810"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6616
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:20:26.482000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9e9077e84acdd138c0b35bc84d77de64863a63f9bf37c45a0c3192f3c072f7d6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Crischuk v. The Queen
+
+- Citation: 2010 TCC 276
+- Decision date: 2010-05-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6616, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Crischuk v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-05-18
+Neutral citation
+2010 TCC 276
+File numbers
+2008-3045(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3045(IT)G
+BETWEEN:
+LINDY CRISCHUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 10 and 11, 2010 at Kelowna, British Columbia
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Michael R. Dirk
+Counsel for the Respondent:
+David Everett
+____________________________________________________________________
+JUDGMENT
+It is ordered that the appeal with respect to an assessment made on October 9, 2007 pursuant to section 160 of the Income Tax Act is dismissed, with costs to the respondent.
+Signed at Vancouver, British Columbia this 18th day of May 2010.
+“J. M. Woods”
+Woods J.
+Citation: 2010 TCC 276
+Date: 20100518
+Docket: 2008-3045(IT)G
+BETWEEN:
+LINDY CRISCHUK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal concerns an assessment in the amount of $73,231.73 that was issued to Mrs. Lindy Crischuk in respect of property transfers from her husband, Mr. Kazimierz Crischuk. The assessment was made pursuant to section 160 of the Income Tax Act.
+[2] Mr. Crischuk has had a history of non-compliance with the Act. In 2007, he was convicted in the British Columbia Provincial Court of the offence of failing to file income tax returns for the 2001, 2002 and 2003 taxation years.
+[3] Further, the respondent introduced evidence that strongly hints that Mr. Crischuk has taken measures from time to time to defeat his creditors, including the Canada Revenue Agency. For example, clients of Mr. Crischuk’s accountancy practice have sometimes paid for accounting services by issuing cheques to a church founded by Mr. Crischuk rather than paying Mr. Crischuk directly. Mr. Crischuk does not have sole signing authority on the church’s bank account. This background is not directly relevant to the issue to be decided.
+[4] On October 9, 2007, the day on which the assessment under appeal was issued to the appellant, Mr. Crischuk had an outstanding tax liability under the Act of at least $87,392.66.
+Background facts
+[5] The Crischuk’s have lived at their current residence in Kelowna, British Columbia since 1996. The residence is, and has been throughout the relevant period, owned by the appellant.
+[6] Mr. Crischuk operates an accounting practice from an office in the family home. He is the primary breadwinner.
+[7] The household expenses are funded mainly by Mr. Crischuk and are paid out of joint bank accounts. Based on the evidence presented, it appears that the deposits into the joint accounts are just sufficient to pay the family expenses. Deposits into these accounts are made primarily by Mr. Crischuk.
+[8] The appellant has a modest income, which for the most part has been deposited into a savings account owned by her alone.
+[9] From time to time, the appellant has obtained mortgages on the Kelowna residence. This appeal concerns three such mortgages:
+a) a mortgage from the Bank of Nova Scotia (“Scotia Mortgage”) in the amount of $122,910 which was used for the purchase of the residence. The mortgage was obtained in March 1996 and was discharged in December 2006;
+b) a mortgage from Mission Creek Mortgage Ltd. (“Mission Creek Mortgage”) in the amount of $34,000. It was obtained in December 2004 and was discharged in March 2006; and
+c) a mortgage from Resmor Trust Company (“Resmor Mortgage”) in the amount of $252,375. It was obtained in September 2006 and was still outstanding on October 9, 2007 when the assessment was issued.
+[10] The appellant was the sole borrower under these mortgages. Mr. Crischuk was a guarantor of the Scotia Mortgage and the Mission Creek Mortgage.
+[11] Also relevant to this appeal are leases on Chrysler vehicles which were registered to the appellant.
+[12] Between December 2000 and April 2007, Mr. Crischuk paid the following expenses totalling $77,176.73 from the joint bank accounts:
+a) payments on the Scotia Mortgage totaling $51,684.78;
+b) payments on the Mission Creek Mortgage in the amount of $4,995;
+c) payments on the Resmor Mortgage in the amount of $12,322.49;[1] and
+d) payments on vehicle leases in the amount of $8,174.56.
+[13] As stated above, the amount assessed to the appellant under section 160 is $73,231.73. This is equal to the difference between the payments above ($77,176.73), and the total deposits by the appellant into the joint bank accounts ($3,945). These figures are not disputed.
+Analysis
+[14] Subsection 160(1) of the Act provides:
+160(1) Where a person has, on or after May 1, 1951, transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to (a) the person's spouse or common-law partner or a person who has since become the person's spouse or common-law partner, (b) a person who was under 18 years of age, or (c) a person with whom the person was not dealing at arm's length, the following rules apply: (d) the transferee and transferor are jointly and severally liable to pay a part of the transferor's tax under this Part for each taxation year equal to the amount by which the tax for the year is greater than it would have been if it were not for the operation of sections 74.1 to 75.1 of this Act and section 74 of the Income Tax Act, chapter 148 of the Revised Statutes of Canada, 1952, in respect of any income from, or gain from the disposition of, the property so transferred or property substituted therefor, and (e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of (i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and (ii) the total of all amounts each of which is an amount that the transferor is liable to pay under this Act in or in respect of the taxation year in which the property was transferred or any preceding taxation year, but nothing in this subsection shall be deemed to limit the liability of the transferor under any other provision of this Act.
+[15] It is the position of the respondent that, for the purpose of section 160, the amounts above totaling $77,176.73 which were paid by Mr. Crischuk from the joint bank accounts constitute transfers of property from Mr. Crischuk to the appellant, and that the sole consideration given by the appellant for the transfers is $3,945, which represents her deposits into these accounts.
+[16] At the opening of the hearing, counsel for the appellant indicated that the only issue is whether adequate consideration was given for the transfers.
+[17] In particular, he submits that full consideration was given in the form of the following: (1) the appellant’s legal entitlement to be supported by her husband, (2) the use by Mr. Crischuk of a room in the home as an office, and (3) household services performed by the appellant.
+[18] Counsel for the respondent submits that none of the above should be considered as consideration for the property transfers. Some of the judicial decisions referred to in support are: Yates v. The Queen, 2009 FCA 50, 2009 DTC 5062; Logiudice v. The Queen, 97 DTC 1462 (TCC); and Tétrault v. The Queen, 2004 TCC 332, 2004 DTC 2763.
+[19] In my view, the above decisions clearly support the respondent’s position and are dispositive of the issue raised by the appellant.
+[20] The Federal Court of Appeal’s decision in Yates, which was rendered only after this appeal was instituted, is the leading judicial authority on this issue.
+[21] The Yates decision is not supportive of the appellant’s position, and it is binding on this Court. I would note, though, that prior to Yates the appellant’s position was supported, at least in part, by several decisions of this Court.
+[22] The issue in Yates was whether consideration for purposes of section 160 could consist of family support obligations or the use of the matrimonial home.
+[23] All three judges in Yates wrote strong opinions which categorically rejected such arguments in relation to married couples. As stated by Blais J.A. (as he then was):
+[71] […] A plain language interpretation of subsection 160(1) does not allow for a family law exception, nor does it allow for an exception for household expenses. If Parliament had wanted to provide for such exemptions, it would have done so expressly. It is not for our Court to read these exemptions into the Act.
+[24] This is sufficient to deal with the appellant’s argument concerning family law obligations and the use of the matrimonial home. As for the household services performed by the appellant, I was not referred to a decision that specifically dealt with this.
+[25] I accept that it is possible for consideration to flow between spouses for purposes of section 160 (see Raphael v. The Queen, 2002 DTC 6798 (FCA)). However, the evidence here does not support such a finding here in relation to household services.
+[26] In order for consideration to be taken into account, it must be given for the property transferred. In this case, the household chores supplied by the appellant were more in the nature of a donation rather than as consideration for the property transferred. In this regard, I agree with the analysis by my colleague Archambault J. in Tétrault, above.
+[27] Counsel for the appellant attempted to distinguish Yates on the basis that the facts in Yates did not involve deposits into a joint bank account.
+[28] The problem that I have with this argument is that it has nothing to do with the issue of whether consideration has been received.
+[29] The point raised by counsel appears to relate to whether there were property transfers and not whether there was consideration. This was not raised as an issue either in the notice of appeal or at the commencement of the hearing when I requested confirmation of the issues.
+[30] In any event, the fact that deposits were made by Mr. Crischuk into joint bank accounts does not assist the appellant. The assessment was based on the theory that transfers of property occurred when Mr. Crischuk made mortgage and lease payments from a bank account funded by him. It was not alleged that the transfers of property occurred when the deposits were made.
+[31] Finally, I would mention that counsel for the respondent addressed several other points in argument. None of these were disputed by the appellant, and it is not necessary that I consider them in these reasons.
+[32] I would briefly mention that the decision of the Federal Court of Appeal in Medland v. The Queen, 98 DTC 6358 appears to go a long way to support the position of the respondent that the payment of expenses by Mr. Crischuk constitutes transfers of property, at least in so far as the evidence before me reveals.
+[33] The appeal will be dismissed, with costs to the respondent.
+Signed at Vancouver, British Columbia this 18th day of May 2010.
+“J. M. Woods”
+Woods J.
+CITATION: 2010 TCC 276
+COURT FILE NO.: 2008-3045(IT)G
+STYLE OF CAUSE: LINDY CRISCHUK and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Kelowna, British Columbia
+DATES OF HEARING: May 10 and 11, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: May 18, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Michael R. Dirk
+Counsel for the Respondent:
+David Everett
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Michael R. Dirk
+Firm: Michael R. Dirk
+Kelowna, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The Reply indicates that the payments on the Resmor Mortgage were made out of the appellant’s savings account. This is inaccurate, but nothing turns on it as the evidence makes it clear that these payments were made from a joint bank account. This fact was not disputed at the hearing.

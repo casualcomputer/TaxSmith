@@ -1,0 +1,152 @@
+---
+title: "Logitek Technology Ltd. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28532/index.do"
+last_modified: "2008-03-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 145"
+citation2: ""
+neutral_citation: "2008 TCC 145"
+decision_date: "2008-03-10"
+language: "en"
+item_id: "28532"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1261
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:26:52.789000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9e172287e20248b3fb9a8220440fea0a2a4ea37f565c04bec4504d0717949836"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Logitek Technology Ltd. v. The Queen
+
+- Citation: 2008 TCC 145
+- Decision date: 2008-03-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1261, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Logitek Technology Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-03-10
+Neutral citation
+2008 TCC 145
+File numbers
+2005-3350(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-3350(IT)G
+BETWEEN:
+LOGITEK TECHNOLOGY LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 22, 26 and 28, 2008 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Agent for the Appellant:
+Latiq Qureshi
+Counsel for the Respondent:
+Eleanor H. Thorn
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to an assessment made under the Income Tax Act for the 2000 taxation year is dismissed. Costs are awarded to the respondent.
+Signed at Toronto, Ontario this 10th day of March 2008.
+“J. Woods”
+Woods J.
+Citation: 2008TCC145
+Date: 20080310
+Docket: 2005-3350(IT)G
+BETWEEN:
+LOGITEK TECHNOLOGY LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on March 7, 2008)
+Woods J.
+[1] These are reasons delivered orally in the matter of Logitek Technology Ltd. and Her Majesty the Queen.
+[2] The appeal concerns an income tax assessment for the 2000 taxation year which disallowed certain claims for SR&ED.
+[3] Logitek is not disputing all of the amounts disallowed. It is only claiming additional investment tax credits in the amount of $106,557.
+[4] The questions to be decided in the appeal are fairly technical. I will therefore give a very brief summary of my conclusion before I begin. Essentially I am not able to agree with Logitek’s claim, mainly because the corporation did not present sufficient detail regarding the work that was carried out.
+[5] It is important to note that the statute provides a detailed definition of what SR&ED is. Essentially it requires that there be a technological problem where the resolution is not reasonably predictable using standard procedures. What are standard procedures? They have been described by the Chief Justice of this Court as being procedures that are generally accessible to competent professionals in the field.
+[6] In this case, I find that the evidence is not sufficiently detailed for me to conclude that this requirement is satisfied.
+[7] That is a general summary of my conclusion. I will now go back to the beginning and analyse the question in greater detail.
+[8] The amount at issue is an investment tax credit of $106,557. I will not go into detail here as to how Logitek has computed this. The computation is set out in exhibit A-1. In general though, Logitek seeks an investment tax credit on two types of expenditures: testing, qualification and integration of a computer software program designed for the Hudson’s Bay Company and the cost of hardware and software purchased by Logitek in the relevant period.
+[9] I will first consider the claim as it relates to testing, qualification and integration, which I will refer to as TQI.
+[10] The TQI that is being claimed generally relates to Logitek’s labour cost in providing TQI on a computer software program it developed for the Hudson’s Bay Company. The program is called L’eBiz.
+[11] By way of background, L’eBiz was developed at the request of the Hudson’s Bay Company to streamline The Bay’s processes in dealing with suppliers. The software was different from other programs available at the time because it used a web-based approach in interfacing with suppliers. It is understandable that this would be a much more efficient way of dealing with a large number of suppliers.
+[12] The L’eBiz software has been highly successful for Logitek and it is in use today by many companies.
+[13] Turning now to the tax issue regarding TQI, Logitek submits that its TQI activities qualify as SR&ED. The notice of appeal suggests that there is support for this in information circular IC-97-1.
+[14] The Circular sets out the administrative position of the CRA and if the Circular is favourable to Logitek’s position, I think it should be followed unless it is clearly wrong. The Circular suggests that post development work such as TQI will qualify as SR&ED as long as it relates to the SR&ED work itself by being part of the resolution of the technological problem. This test seems to make sense and I accept it for purposes of this appeal.
+[15] The essential question, then, is whether the relevant TQI activities undertaken by Logitek relate to SR&ED activities. This gives rise to two separate questions: first, what part of the L’eBiz project involves SR&ED, and second, does the TQI activity support the SR&ED work that was done.
+[16] These questions are largely questions of fact to be determined by the evidence presented.
+[17] Logitek was represented at the hearing by its founder and CEO, Latiq Qureshi. He submits that all of the work undertaken in developing L’eBiz is SR&ED and accordingly the TQI activities should qualify as well.
+[18] The first question, then, is whether the development of L’eBiz involved activity that mostly could be described as SR&ED. As I understand Logitek’s position, it submits that the entire L’eBiz project is SR&ED because at its core it solved technological problems by way of research.
+[19] Before discussing whether the evidence supports this, I first wish to comment about a procedural point and that is that this issue was not raised in Logitek’s notice of appeal. In fact to the contrary, the notice of appeal suggests that Logitek accepts the Minister’s determination of what activities qualify for SR&ED. Logitek should not be changing the fundamental nature of its argument at the hearing without giving the Crown notice of this so that the Crown could prepare its case. Nevertheless counsel for the respondent graciously allowed Logitek to make this argument so that there could be a decision on the merits of the case rather than a procedural point.
+[20] Turning to the substantive issue, then, the question is whether and to what extent the L’eBiz project constitutes SR&ED.
+[21] There was very little evidence presented by Logitek on this issue but during argument Mr. Qureshi referred me to a document that was in the material presented by the Crown. That document was Logitek’s submission to the CRA and Mr. Qureshi submitted that it provides sufficient evidence for me to conclude that the L’eBiz project fundamentally was an SR&ED project.
+[22] I am not able to agree with this. The Logitek submission to the CRA does provide considerable detail as to the technological problems that Logitek was tackling, but there was very little detail as to the nature of the research that was undertaken to solve these problems. For example, the submission states that research was conducted but it does not provide detail as to what that research entailed. Further, in some cases the submission states that the research involved testing existing software programs. I am not satisfied that such testing goes beyond the application of standard procedures and that is what is necessary for work to be SR&ED.
+[23] For these reasons, I conclude that Logitek has not established that any of the work undertaken on the L’eBiz project qualifies as SR&ED activities beyond the activities that the Minister has already accepted.
+[24] That is not the end of the matter, however. The question that remains is whether some of the TQI activity can be said to relate to the SR&ED activity because some of it was accepted by the Minister. I understand that the amount that was accepted was about 1,500 hours which is a small portion of the entire project.
+[25] Logitek submits that the Minister accepted 43 percent of its development activity as SR&ED. I disagree with this calculation because it appears that it includes SR&ED work from projects other than L’eBiz. I cannot tell from the evidence properly before me what the correct percentage is but it appears to be much lower than 43 percent.
+[26] In these circumstances, I do not think that there is a sufficient evidentiary basis for me to conclude that any TQI activities are sufficiently connected to SR&ED work for any of Logitek’s TQI to qualify as SR&ED itself.
+[27] For all these reasons, then, I find that the TQI activities undertaken by Logitek in its 2000 taxation year in connection with the L’eBiz project do not qualify for investment tax credits.
+[28] In light of this conclusion, it is not necessary that I consider the evidence presented by David Dutch for the Crown. However, I would comment briefly that I have some difficulty with some of the reasoning in Mr. Dutch’s report. Specifically, it appears that Mr. Dutch may have approached the problem on the basis that activities would not qualify as SR&ED if there was an existing computer program in the market that solved the technological problem that was identified by Logitek. It is not entirely clear to me that Mr. Dutch took this approach, but if he did, I have some difficulty with it because I do not think that the statutory provisions are so restrictive.
+[29] If a taxpayer undertakes SR&ED activities to solve a technological problem, the activities should qualify, even if those SR&ED activities were not necessary because there was an existing solution in the marketplace that the taxpayer was not aware of. I think the wording of the definition of SR&ED in the statute supports this view, and I quote from the relevant definition in the statute: “work undertaken for the purpose of achieving technological advance.” The emphasis in the statute on the purpose of the work suggests that the SR&ED activity should qualify based on what the taxpayer was trying to achieve, and the means that the taxpayer used to do so. It should not be disqualified merely because there was a solution available in the marketplace if the taxpayer was unaware of it.
+[30] The weaknesses of Mr. Dutch’s report do not help Logitek in its appeal, however, because Logitek failed to establish that the work constituted SR&ED. The burden of proof should be on Logitek, particularly because its argument had changed from what was stated in its notice of appeal.
+[31] That completes my reasons with respect to TQI. I now turn to the hardware and software.
+[32] Under the relevant provisions in the statute, a taxpayer is not allowed an investment tax credit for a capital property such as computer hardware or software unless the property was used primarily for SR&ED activities.
+[33] It is not necessary that I go into much detail on this issue. Based on the evidence presented, I am not satisfied that the computer hardware and software on which this claim is based were used for more than a small amount of time on SR&ED activities. This would not satisfy the test of being used primarily for SR&ED.
+[34] In argument, the Crown suggested that Logitek’s SR&ED activities amounted to just over 11 percent of the activities undertaken. I had trouble confirming the 11 percent figure, but Logitek did not present sufficient evidence for me to conclude that the correct figure should be much higher than this. Certainly there is no evidence that it comes close to 50 percent, which is what the word “primarily” generally is interpreted as.
+[35] For this reason, I find that Logitek is not entitled to an investment tax credit with respect to computer hardware and software.
+[36] These are the two issues that were raised in this appeal and unfortunately for Logitek I must dismiss its appeal. Costs will be awarded to the respondent.
+Signed at Toronto, Ontario this 10th day of March 2008.
+“J. Woods”
+Woods J.
+CITATION: 2008TCC145
+COURT FILE NO.: 2005-3350(IT)G
+STYLE OF CAUSE: LOGITEK TECHNOLOGY LTD. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 22, 26 and 28, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Judith Woods
+DATE OF JUDGMENT: March 10, 2008
+APPEARANCES:
+Agent for the Appellant:
+Latiq Qureshi
+Counsel for the Respondent:
+Eleanor H. Thorn
+COUNSEL OF RECORD:
+For the Appellant: n/a
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

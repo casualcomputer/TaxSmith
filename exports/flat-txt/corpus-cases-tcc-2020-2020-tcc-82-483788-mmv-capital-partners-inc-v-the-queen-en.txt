@@ -1,0 +1,568 @@
+Title: MMV Capital Partners Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/483788/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-82-483788-mmv-capital-partners-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-08-12
+
+# MMV Capital Partners Inc. v. The Queen
+
+- Citation: 2020 TCC 82
+- Decision date: 2020-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4550, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MMV Capital Partners Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-08-12
+Neutral citation
+2020 TCC 82
+File numbers
+2016-5137(IT)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-5137(IT)G
+BETWEEN:
+MMV CAPITAL PARTNERS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on July 17-18, 2018, at Toronto, Ontario and final submission completed on May 31, 2019
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+David Muha
+Michael J.Collinge
+Kevin Chan
+Counsel for the Respondent:
+Michael Taylor
+Matthew Turnell
+JUDGMENT
+WHEREAS the Court has issued its Reasons for Judgment on this date;
+NOW THEREFORE the appeal relating to the 2011, 2012, 2013, 2014 and 2015 taxation years concerning the notice of reassessment dated June 8, 2016, issued under section 245 of the Income Tax Act, RSC 1985, c.1, as amended (the “Act”), is hereby allowed on the basis that the MMV is entitled to non-capital losses incurred under Part I of the Act arising from the 2001 to 2009 taxation years, inclusive.
+Costs are awarded provisionally to the Appellant subject to the right of either party to make written submissions thereon within 30 days of the date of this judgment, whereupon the Court may consider such submissions and vary its provisional cost award, failing which this provisional cost award shall become final.
+Signed at Toronto, Ontario, this 12th day of August 2020.
+“R.S. Bocock”
+Bocock J.
+Citation: 2020TCC82
+Date: 20200820
+Docket: 2016-5137(IT)G
+BETWEEN:
+MMV CAPITAL PARTNERS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. INTRODUCTION
+[1] The Appellant, MMV Capital Partners Inc. (“MMV”), was reassessed under section 245, the general anti-avoidance rule (the “GAAR”), of the Income Tax Act, RSC 1985, c.1, as amended (the “Act”). The Minister of National Revenue (the “Minister”) disallowed non-capital losses totalling $23,444,775 (the “losses”) deducted over five taxation years: those ending December 31, 2011 through to and including 2015.
+[2] The GAAR has three critical elements necessary for its engagement: the taxpayer must (1) have realized a “tax benefit” (subsection 245(1)); (2) have undertaken a transaction or series of transactions (subsection 248(10)) which contain at least one avoidance transaction (subsection 245(3)); and, (3) within the transactions yielding the tax benefit misused a section or abused the Act as a whole. The parties in this appeal agree that MMV realized a tax benefit and that a transaction or series of same constituted an avoidance transaction. As seen within these reasons, they disagree sharply as to whether the loss use restriction rules under section 111 of the Act or any other section were misused or abused.
+II. FACTS
+[3] The parties submitted an agreed statement of facts at the outset of the hearing. Two volumes comprising an agreed common book of documents with a customary document reliance agreement and additional read-ins and clarifications from examinations for discovery supplemented the agreed facts. As well, MMV’s counsel sought to introduce highly redacted communications between the Canada Revenue Agency (“CRA”) and the Tax Policy Branch of the Department of Finance (“DOF”). After a voir dire, the Court ruled that the communications between the CRA and DOF were admissible. The Court indicated at the time of such ruling and as noted herein, that the usefulness of and the ultimate weight given to those communications would be limited.
+[4] From these sources of information, the Court finds that the facts comprising the evidence are as follows.
+a) The Original Business
+[5] MMV, then National Convergence Inc. (“NCI”), was incorporated in April 2001. From that time until its receivership in July 2009, its business related to voice over internet protocol applications to service providers (the “original business”).
+b) The “Owners”
+[6] MMV Finance Inc. (“MMV Finance”) was incorporated in October 2002. Its directors included Minhas Mohamed, Ron Patterson, Tony Gioia and Graham Turner.
+[7] MMV Financial Inc. (“MMV Financial”) was incorporated in August 2004. MMV Financial held, through its wholly-owned subsidiary 4387902 Canada Inc., 45% of the common shares and 100% of the non-voting common shares of MMV Finance. The directors of MMV Financial also included Minhas Mohamed and Ron Patterson.
+[8] MMV Financial’s business provided venture capital loans and financing. In 2006, MMV Financial had an investment portfolio with a value of approximately US$74 million.
+c) The Loan(s)
+[9] On December 29, 2006, MMV Financial invested in MMV by lending MMV the sum of US$2 million pursuant to a credit agreement. The loan was an amortized loan to be repaid monthly over 38 months, with an interest rate of 13.68% per year.
+[10] On the same day, MMV issued warrants to MMV Financial to acquire 2,129,547 Class C preferred shares at a total exercise price of US$240,000. MMV Financial did not exercise those warrants.
+[11] On January 4, 2007, MMV Financial registered a general security interest over the assets of MMV as security for its loan.
+[12] On August 31, 2007, MMV Financial entered into a subordination agreement with certain third-party secured creditors of MMV, who were also shareholders of MMV (the “secured creditor shareholders”). Under the subordination agreement, the debt and security of the secured creditor shareholders were fully postponed and subordinated in favour of MMV Financial.
+[13] MMV was not profitable and posted losses in every year from 2001 to 2009.
+d) The Receivership and the Sale of MMV’s Assets
+[14] By 2009, MMV’s financial position had further deteriorated. On July 22, 2009, a lender to MMV, BDC Capital Inc. sent MMV a notice of intention to enforce security under the Bankruptcy and Insolvency Act, RSC, 1985, c. B-3 (the “BIA”).
+[15] On July 31, 2009, the Ontario Superior Court of Justice appointed an interim receiver to oversee all of MMV’s assets, undertaking and properties under the BIA. On the same date, MMV sold its significant assets, including its intellectual property to an arm’s length third party, for US$1.1 million. Subsequent to its receivership, MMV ceased carrying on its original business and, as of that time, was not carrying on any business.
+[16] After the sale of its assets, MMV’s only remaining assets were some nominal moveable assets and certain accrued losses: unused non-capital losses, net capital losses, scientific research and experimental development expenditures, plus certain investment tax credits. For the most part these amounts comprise the losses in dispute.
+[17] Subsequent to the appointment of a receiver, MMV repaid MMV Financial the balance of the US$2 million loan that remained outstanding using a combination of the proceeds from the asset sale and tax refunds which MMV received in respect of its scientific research and experimental development expenditures.
+[18] At the time of the receivership, MMV had outstanding 9,890,394 common shares and 317,042,039 preferred shares, held by 78 different shareholders. MMV Financial did not hold any shares in MMV at that time. In November 2010, at the request of the secured creditor shareholders, the preferred shares were converted into common shares on a one to one basis.
+e) The Re-Structuring and Repurposing of MMV
+[19] On December 16, 2010, at a special meeting of MMV’s shareholders, the shareholders voted to consolidate all of MMV’s common shares at a 13,000,000:1 ratio. Following the consolidation and winnowing of tiny shareholdings, only 18 common shares of MMV remained outstanding, all now held by the secured creditor shareholders.
+[20] At the time of the share consolidation, two of the secured creditor shareholders, BDC Capital Inc. and Wesley Clover Corporation held convertible debentures issued by MMV having a combined face value of US$850,000; BDC Capital Inc. was owed US$550,000 and Wesley Clover Corporation owed US$300,000.
+[21] During the special meeting of the shareholders of MMV on December 16, 2010, Paul Amirault, Tony Gioia, Graham Turner and Michael Jan were elected to the board of directors of MMV. These four individuals had previously not been directors of MMV; however, Paul Amirault had been an officer of MMV from 2004 to 2009 and a former shareholder of MMV.
+f) Prepping the Board and Officers and Settling the Debts
+[22] In December 2010, MMV Financial signed indemnity agreements with each member of MMV’s board of directors, indemnifying them against all liabilities and costs in connection with their duties as a member of the board.
+[23] On December 21, 2010, 7733704 Canada Inc. (“773”) was incorporated under the Canadian Business Corporations Act, RSC 1985, c. c-144 (the “CBCA”) and subscribed for 17 common shares (one less than the 18 shares previously outstanding) in MMV. 773 is a wholly owned subsidiary of MMV Financial. At all material times, the directors of 773 were Minhas Mohamed and Ron Patterson.
+[24] Subsequently, the board of MMV adopted a series of resolutions implementing the following:
+a. appointing the following officers:
+1. President and CEO: Minhas Mohamed;
+2. Executive Vice-President: Ron Patterson;
+3. Chief Operating Officer: Michel Beland;
+4. Chief Financial Officer: Michel Beland; and
+5. Treasurer and Secretary: Michel Beland;
+b. setting the bank of MMV to be the Bank of Nova Scotia, which was MMV Financial’s bank;
+c. changing the location of MMV’s registered office to the same location as MMV Financial’s registered office; and
+d. resolving to make a proposal to MMV’s creditors pursuant to the BIA.
+[25] During the material period, Ron Patterson was also the Executive Vice President of MMV Financial, and Michel Beland was the Chief Financial Officer and the Chief Operating Officer of MMV Financial.
+[26] On February 21, 2011, Minhas Mohamed became a director of MMV.
+[27] In January and February 2011, MMV made a proposal to its creditors under the BIA, pursuant to which outstanding unsecured debts of $1,108,639 were settled for a total of $50,000, which amount was loaned to MMV by MMV Financial. In addition, MMV’s outstanding secured debts of US$850,000 were acquired by MMV Financial for a total of $100,000.
+g) Amending the Articles and Share Capital, and Streamlining of Shareholders
+[28] On February 25, 2011, by Articles of Incorporation (the “Articles”) MMV changed its name to MMV Capital Partners Inc. and authorized the issuance of an unlimited number of non-voting common shares and preferred shares.
+[29] Under MMV’s amended Articles, neither the holders of the non-voting common shares nor the holders of the preferred shares were entitled to vote at any meetings of the shareholders of MMV, except as permitted by statutory right under the CBCA, its incorporating statute. The common shares carried the right to one vote per share at shareholders’ meetings, and were the only class of shares in the capital stock of MMV conferring a right to elect the board of directors of MMV.
+[30] Following the amendment of the Articles, 773 subscribed for 100,000 non-voting common shares in MMV at an aggregate subscription price of $1,000, and MMV entered into a revolving credit facility with MMV Financial for a total principal amount of US$75 million. All non-voting common shares are exclusively held by 773.
+[31] At all relevant times, 773 held 100% of the issued and outstanding non-voting common shares of MMV. In contrast, 773 held approximately 48.6% being 17 of the issued and outstanding 35 common shares in MMV, while the remaining shareholders held 51.4% or 18 of the issued and outstanding common shares in MMV. 773 did not own that number of shares carrying an arithmetic majority of the votes to elect by itself MMV’s board of directors. Similarly, MMV Financial and its affiliates alone never acquired that degree of shareholder voting control of MMV. The remaining shareholders held the following voting common shares in MMV: BDC Capital Inc. (6), Wesley Clover Corporation (6), Desjardins Venture Capital LP (3), VIMAC ESF Annex Fund LP (2) and VIMAC Early Stage Fund LP (1).
+h) The New Business Begins
+[32] By an agreement dated March 1, 2011 and amended March 14, 2011, MMV purchased a portfolio of loans and related assets from MMV Financial for US$44,338,526. The purchase price of US$23 million was satisfied by the issuance of 23,000 preferred shares in the capital stock of MMV and the balance of US$21,338,526 was paid in cash. The 23,000 preferred shares were originally issued to MMV Financial, but were subsequently transferred to 773.
+[33] Also by an agreement dated March 1, 2011 and amended March 14, 2011, MMV purchased a portfolio of loans and related assets from MMV Finance for approximately US$22,823,000.
+[34] Following the acquisition of the portfolio, MMV carried on a venture lending business, servicing the existing portfolio of loans and entering into new financing arrangements (the “new business”). Since that time, MMV has earned income from the new business.
+[35] On March 7, 2011, Michael Jan resigned as a director of MMV.
+i) Services Provided by MMV Financial and MMV Finance to MMV
+[36] In March 2011, MMV engaged MMV Financial to provide management services, and MMV Finance USA Inc. (a wholly owned subsidiary of MMV Financial) to provide marketing services in the United States.
+[37] By an agreement dated May 31, 2011 and amended June 20, 2011, MMV Finance sold an additional portfolio of loans and related assets to MMV for US$41,943,730.
+[38] On August 25, 2011, a notice of an application to discharge MMV’s trustee under the BIA was made, and a discharge was subsequently granted.
+[39] On July 17, 2012, the following individuals were re-elected to the board of directors of MMV: Minhas Mohamed, Paul Amirault, Tony Gioia and Graham Turner.
+j) The Transactions Subject to the GAAR Reassessment
+[40] MMV’s net income, as reported in its financial statements filed with its tax returns, was $1,684,631 for 2010, $10,573,865 for 2011, $2,991,772 for 2012 and $1,469,062 for 2013.
+[41] On November 8, 2012, MMV declared a dividend in the amount of the US dollar equivalent of $11,348,517 on its non-voting common shares. 773 subsequently paid a dividend of $11,348,517 to MMV Financial.
+[42] On May 14, 2013, MMV declared a dividend of the US dollar equivalent of $16,066,314 on its non-voting common shares. 773 subsequently paid a dividend of $16,101,144 to MMV Financial.
+[43] For its 2011 to 2015 taxation years, MMV applied non-capital losses totaling $23,444,775 from prior years to reduce its taxable income under Part I of the Act in various amounts during each year from 2011 to 2015, until the losses were extinguished:
+(i) $10,772,633 in respect of its taxation year ending December 31, 2011;
+(ii) $2,832,496 in respect of its taxation year ending December 31, 2012;
+(iii) $1,379,947 in respect of its taxation year ending December 31, 2013;
+(iv) $7,385,569 in respect of its taxation year ending December 31, 2014; and
+(v) $1,074,130 in respect of its taxation year ending December 31, 2015.
+[44] By notices of reassessment dated June 8, 2016, the Minister reassessed MMV’s 2011 to 2015 taxation years to disallow the deductions that MMV claimed in respect of the applied non-capital losses (the “Reassessments”). The Reassessments commensurately increased MMV’s tax payable under Part I of the Act.
+III. THE DISPUTE AND LAW
+a) The Dispute in Brief
+[45] The loss streaming rules under the Act are in section 111. These are the “ground zero” of the disagreement in this appeal. Succinctly, MMV argues that absent de jure control, itself embedded as a clear, bright-line test in subsection 111(5), the applicable loss trading prohibition (the “loss streaming rule”) is not engaged and the losses should be deductible. On the contrary, and as simply, the Respondent says that the de jure, “bright-line” acquisition of control test is a “proxy” for control. It is not automatically determinative; a purposive analysis of its existence in this appeal demonstrates that the deduction of losses from an entirely different business, with dramatically different beneficiaries earning revenue from a disparate business undertaking, abuses, frustrates and runs contrary to the rationale of subsection 111(5), the loss streaming rule.
+b) Statutory Provisions
+(i) The GAAR - - excerpted provisions of section 245 of the Act
+PART XVI
+Tax Avoidance
+Definitions
+245 (1) In this section,
+tax benefit means a reduction, avoidance or deferral of tax or other amount payable under this Act […]
+tax consequences to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount; (attribut fiscal)
+transaction includes an arrangement or event. (opération)
+General anti-avoidance provision
+(2) Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit […]
+Avoidance transaction
+(3) An avoidance transaction means any transaction
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit […]
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit […]
+Application of subsection (2)
+(4) Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of any one or more of […]
+Determination of tax consequences
+(5) Without restricting the generality of subsection (2), and notwithstanding any other enactment,
+(a) any deduction, exemption or exclusion in computing income, taxable income, taxable income earned in Canada or tax payable or any part thereof may be allowed or disallowed in whole or in part,
+[…]
+In determining the tax consequences to a person as is reasonable in the circumstances in order to deny a tax benefit that would, but for this section, result, directly or indirectly, from an avoidance transaction.
+(ii) Treatment of non-capital losses
+The loss streaming rule - section 111 – at Reassessment time
+Losses deductible
+111 (1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such portion as the taxpayer may claim of the taxpayer’s
+Non-capital losses
+(a) non-capital losses for the 20 taxation years immediately preceding and the 3 taxation years immediately following the year;
+[…]
+Idem
+(5) Where, at any time, control of a corporation has been acquired by a person or group of persons, no amount in respect of its non-capital loss or farm loss for a taxation year ending before that time is deductible by the corporation for a taxation year ending after that time and no amount in respect of its non-capital loss or farm loss for a taxation year ending after that time is deductible by the corporation for a taxation year ending before that time except that,
+(a) such portion of the corporation’s non-capital loss or farm loss, as the case may be, for a taxation year ending before that time as may reasonably be regarded as its loss from carrying on a business and, where a business was carried on by the corporation in that year, such portion of the non-capital loss as may reasonably be regarded as being in respect of an amount deductible under paragraph 110(1)(k) in computing its taxable income for the year is deductible by the corporation for a particular taxation year ending after that time
+(i) only if that business was carried on by the corporation for profit or with a reasonable expectation of profit throughout the particular year, and
+(ii) only to the extent of the total of the corporation’s income for the particular year from that business and, where properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, from any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services; and
+(b) such portion of the corporation’s non-capital loss or farm loss, as the case may be, for a taxation year ending after that time as may reasonably be regarded as its loss from carrying on a business and, where a business was carried on by the corporation in that year, such portion of the non-capital loss as may reasonably be regarded as being in respect of an amount deductible under paragraph 110(1)(k) in computing its taxable income for the year is deductible by the corporation for a particular year ending before that time
+(i) only if throughout the taxation year and in the particular year that business was carried on by the corporation for profit or with a reasonable expectation of profit, and
+(ii) only to the extent of the corporation’s income for the particular year from that business and, where properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, from any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services.
+Recent legislative activity - “2013 Amendments” – after Reassessment time
+Losses deductible
+111 (1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such portion as the taxpayer may claim of the taxpayer’s
+Non-capital losses
+(a) non-capital losses for the 20 taxation years immediately preceding and the 3 taxation years immediately following the year;
+[…]
+Loss restriction event - non-capital losses and farm losses
+(5) If at any time a taxpayer is subject to a loss restriction event,
+(a) no amount in respect of the taxpayer’s non-capital loss or farm loss for a taxation year that ended before that time is deductible by the taxpayer for a taxation year that ends after that time, except that the portion of the taxpayer’s non-capital loss or farm loss, as the case may be, for a taxation year that ended before that time as may reasonably be regarded as the taxpayer’s loss from carrying on a business and, if a business was carried on by the taxpayer in that year, the portion of the non-capital loss as may reasonably be regarded as being in respect of an amount deductible under paragraph 110(1)(k) in computing the taxpayer’s taxable income for that year is deductible by the taxpayer for a particular taxation year that ends after that time
+(i) only if that business was carried on by the taxpayer for profit or with a reasonable expectation of profit throughout the particular year, and
+(ii) only to the extent of the total of the taxpayer’s income for the particular year from
+(A) that business, and
+(B) if properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services; and
+(b) no amount in respect of the taxpayer’s non-capital loss or farm loss for a taxation year that ends after that time is deductible by the taxpayer for a taxation year that ended before that time, except that the portion of the taxpayer’s non-capital loss or farm loss, as the case may be, for a taxation year that ended after that time as may reasonably be regarded as the taxpayer’s loss from carrying on a business and, if a business was carried on by the taxpayer in that year, the portion of the non-capital loss as may reasonably be regarded as being in respect of an amount deductible under paragraph 110(1)(k) in computing the taxpayer’s taxable income for that year is deductible by the taxpayer for a particular taxation year that ends before that time
+(i) only if throughout the taxation year and in the particular year that business was carried on by the taxpayer for profit or with a reasonable expectation of profit, and
+(ii) only to the extent of the taxpayer’s income for the particular year from
+(A) that business, and
+(B) if properties were sold, leased, rented or developed or services rendered in the course of carrying on that business before that time, any other business substantially all the income of which was derived from the sale, leasing, rental or development, as the case may be, of similar properties or the rendering of similar services.
+c) Jurisprudence Concerning the GAAR - General Principles regarding Misuse or Abuse:
+[46] As stated, MMV has conceded that the series of transactions created a tax benefit and constituted an avoidance transaction. Considering these GAAR elements is unnecessary.
+[47] Regarding this final element, the Supreme Court of Canada (the “SCC”) has distilled the “misuse and abuse” standard of the third component of the GAAR into a refined question: is the challenged avoidance transaction(s) (the “avoidance transaction”) abusive of a provision within the Act or the Act as whole [1] ?
+[48] It is a mixed question of law and fact whether the avoidance transaction is abusive. It involves first the proper construction of the Act’s provisions supported by the evidence before the Court.
+[49] If the Court is satisfied the avoidance transaction viewed within the context of the circumstances surrounding it frustrates the object, spirit or purpose of the provisions or the Act, then the avoidance transaction shall be considered abusive. The deductibility of the losses comprising the tax benefit shall then be denied; that result is enumerated in paragraph 245(5)(a) of the GAAR.
+[50] The Minister bears the onus of identifying the object, spirit and purpose, frequently described as the “legislative rationale” of the provisions. The Minister must also establish the abuse of the provisions [2] .
+[51] In evaluating the Minister’s position, the Court is directed to undertake a textual, contextual and purposive interpretation of the statutory provisions to discern the object, spirit and purpose. Again, this is to learn the legislative rationale. This quest is nuanced by two refinements [3] . This sub-textual rationale may not be caught by the immediate meaning of the words per se. While the text is analyzed in pursuance of determining abuse under the GAAR, the analysis embeds itself within a broader contextual and purposive interpretation [4] . Once establishing this more profound legislative purpose, the Court assesses whether the avoidance transaction frustrates or confounds the discerned object, spirit and purpose, again, the legislative rationale [5] .
+IV. POSITIONS OF THE PARTIES
+[52] The timing for release of this judgment was delayed for several reasons. During this Court’s deliberations, two possibly relevant decisions were decided: 594710 British Columbia Ltd. v. HMQ [6] at trial and on appeal and Deans Knight Income Corporation v. HMQ [7] at trial. As a result, the Court held this decision and reasons in abeyance to afford the parties an opportunity to await the appeal decisions and make additional submissions to the Court. Ultimately, additional submissions reached the Court in early June 2019. However, as the Court resumed its deliberations Deans Knight was appealed to the Federal Court of Appeal (the “FCA”). The Court sought consensus for the release of its reasons and decision. The parties could not agree and the Court again held its judgment in this appeal in abeyance. When the COVID-19 pandemic raged around the world in March of this year, Canada and its courts understandably ceased hearings for all but essential hearings affecting liberty of the subject. The FCA was no exception. Given the unknown delay, in July the Court received word that the parties agreed that the Court should issue its judgment and reasons. It now does so despite the pending appeal of Deans Knight before the FCA.
+a) Undertaking the Analysis of Subsection 111(5) and Other Informing Sections
+[53] The Court commences its step by step analysis of the legislative rationale by referencing a summary of the parties’ positions, bearing in mind the Minister bears the onus to establish same for the Court. Thus, the Respondent’s position appears first.
+(i) Respondent’s Position Generally
+[54] The transactions at issue in this case were clearly structured to permit MMV to claim non-capital losses of prior years under subsection 111(1) of the Act in relation to income exclusively from a new business. This was not the old business from which the losses were incurred. The structure employed did not engage the restrictions on loss utilization in subsection 111(5) that would otherwise prevent losses from one business being claimed against income from a different business when an acquisition of control occurs.
+[55] Subsection 111(5) is the key provision in this case. The Minister says that MMV’s loss transactions circumvented the application of that provision in a manner that frustrates or defeats its object, spirit, and purpose. The use of the old business losses to shelter income from the new business is not consistent with the object, spirit and purpose of subsection 111(5) and the “loss streaming rules” in the Act.
+[56] Accordingly, the provisions that are relevant to the GAAR analysis in this case are subsection 111(5) and the parallel loss streaming rules in subsections 37(6.1) and 127(9.1). As well as the provisions of the Act that determine when an acquisition of control has occurred and the loss streaming rules will be applicable. Such provisions include subsections 251(5), 256(7) and (8), and section 256.1.
+[57] A textual, contextual, and purposive examination of section 111 and the broader loss streaming rules reveals a statutory scheme that embodies a policy against loss trading between unrelated corporations. The policy is a long-standing policy that bars one corporate entity from accessing the tax attributes, such as losses, of another corporate entity subject to narrow, limited exceptions that serve specific purposes. This policy has been repeatedly recognized by the courts and there can be no doubt that it underlies the loss streaming rules in the Act.
+[58] Two narrow exceptions to the policy against loss trading are apparent from the scheme of the Act:
+a) Loss utilization is permitted where tax attributes are accessed by related entities under common control. The rationale for this exception to the general policy is to acknowledge that although one taxpayer’s tax attributes may not be transferred to another, corporations are intermediary legal entities. The owners of a corporation ultimately benefit from, or incur, the corporation’s income and losses. It is not offensive, therefore, for losses from one business to be used to offset income from another business when there is sufficient continuity (or commonality) of ownership between a loss business and a profit business.
+b) Loss utilization is permitted by an enterprise that is unrelated to the enterprise that incurred the losses where the new enterprise is carrying on the same or a similar business. The rationale for this exception to the general policy is to encourage the rehabilitation of failing businesses. Thus, where there is sufficient continuity of the business, a change of ownership is not a reason to apply the policy against loss trading. Further, the limited nature of this exception prevents losses from one business from serving as a form of tax subsidy to other businesses that would not be economically viable without the losses.
+[59] A textual, contextual, and purposive interpretation of the Act establishes that the object, spirit, and purpose of the “acquisition of control” threshold in subsection 111(5) is to serve as a “marker” or “proxy” for when sufficient continuity of ownership of an enterprise is lacking and losses should not be available to new owners.
+[60] In light of this purpose, a transaction that does not involve a technical acquisition of control may nonetheless be abusive if it circumvents the underlying rationale of subsection 111(5) and leads to a result that the provision is intended to prevent. The GAAR will deny loss utilization where there is not sufficient continuity of ownership of the enterprise or continuity of the business to fit within the rationale of the exceptions to the general policy against loss trading expressed in the Act.
+(ii) MMV’s Rebuttal
+[61] The determination of the legislative rationale of subsection 111(5) is a distinct undertaking for GAAR in contrast to the analysis concerning other provisions. The GAAR analysis engages in a value judgment of what tax law ought to be or do. The text may fully reveal the relevant object, spirit and purpose. It does in this case. The text of subsection 111(5) itself is consistent with and fully explains its underlying legislative rationale: the deduction of losses by corporations from other business is permitted unless the acquisition of de jure control has been attained by another person or group of persons. The well understood meaning of control, de jure control, is a bright-line test. It deserves respect.
+[62] Subsection 111(5) was not transgressed or engaged and the losses are deductible, primarily owing to the certainty and predictability manifested in the simple and straightforward wording of the subsection and the jurisprudence which employs the bright-line test.
+b) Text, Context and Purpose Specifically
+(i) Textual Disparity
+[63] The Respondent states that textually, subsection 111(5) clearly restricts the availability of losses from prior years where there is an acquisition of control; the legislative rationale for the subsection necessitates an analysis of broader abuse beyond the literal scope in the present case.
+[64] In contrast, MMV says the text is clear, applies per se and staunches the need for further analysis. Should further analysis be undertaken, the purposes are multi-faceted and not limited to curtailing loss utilization through the acquisition of corporations with accrued losses.
+(ii) Contextual and Purposive Analysis of Subsection 111(5)
+1. The Respondent
+[65] The Respondent states that the legislative history of subsection 111(5):
+1. reveals an incrementally tightening of loss utilization over time;
+2. imposes a continuity of business concept almost from its inception; and
+3. provides that the “acquisition of control” test was a culmination of continued refinement and restriction of loss utilization.
+[66] In delineating these assertions, the Respondent provided a historiography of legislative iterations intended to curtail broad loss use through loss trading. The MMV provided a parallel overview of the near century of legislation.
+[67] Further, the Respondent asserted that courts have generally restricted loss trading. Primarily, while corporations may utilize “related” losses, different individuals could not [8] . The default is not that losses are transferrable except where curtailed, but rather, are not transferrable unless permitted [9] .
+[68] The exceptions provide guidance on the restrictive nature of loss utilization. The then Minister of Finance took pains in 1988 to explain that the use of “in-house” losses would not normally result in a misuse of the Act. But these exceptions imply, if not require, common or substantially the same ownership of corporations. Further, the rehabilitation of a diminished business is required, but it must be a related business within which the change of control occurs [10] .
+[69] The Respondent asserts that the utilization of de jure control is a “convenient proxy” for regulating situations where loss utilization will be permitted. Particularly, other provisions within the Act deem control to have occurred or not: subsection 256(8) relating to rights of acquisition providing control; paragraphs 256(7)(a) and (b) applying or avoiding change of control in certain circumstances; section 256.1 deeming economic interests above 75% to be a change of control; and, subsection 69(11) curtailing the non-utilization of certain tax benefits of an affiliated party.
+[70] Finally, de jure control covers most situations. As a proxy for effective control, it is generally sufficient. However, literal constraints should not allow loss trading where circumstances engage broader policy considerations; an example is when effective or de facto control has passed and the two businesses are not related.
+[71] As a result, abuse arose from the avoidance transaction because:
+1. MMV Financial, a previously arm’s length and unrelated entity to MMV, engaged in distinct businesses and gained access to losses which were unrelated to its businesses and unsustained in its own undertaking. In short, there was no continuity of business through the series of transactions or continuity of ownership.
+2. In abusing the “bright-line test”, MMV Financial obtained all the benefits of effective control (operational management, loss utilization and future rights to profits) without the need of meeting the precise threshold of de jure control. As such, subsection 111(5) has been frustrated and circumvented.
+2. The MMV
+[72] MMV’s arguments in rebuttal, bearing in mind the Respondent’s onus, are straight forward.
+[73] There simply was no de jure control acquired by a new shareholding group. There was no masquerade used to disguise [11] a change in de jure control; acquisition of control simply did not occur. Further, the CRA itself has previously indicated that a substantial economic interest, otherwise not contravening the text of a section, will not attract the GAAR [12] .
+[74] A general policy, not otherwise discernible from a section of the Act is insufficient to engage an abuse under the GAAR. This is borne out in the reasons of the SCC, which upheld but varied the decision by the FCA in Mathew. The SCC ruled that Parliament could not have intended the combined effect of the partnership trading rules and subsection 18(13) to allow an arm’s length transferee to preserve and transfer a loss [13] .
+[75] Moreover, where the technical application of the section is used to prove the existence of a policy, such as the de jure control policy in subsection 111(5), it cannot then be relied upon to demonstrate some deeper, more nuanced legislative rationale.
+[76] Finally, avoiding the application and engagement of subsection 111(5) places the series of transactions outside the section rather than within it; technically avoiding and not engaging a section cannot abuse it [14] .
+V. LEGAL HISTORY OF LOSS DEDUCTIBILITY UNDER THE ACT
+[77] The legislative and jurisprudential history of loss deductibility under the Act is a lengthy story of ebb and flow.
+a) Legislation and Jurisprudence Constraining, Limiting or Restricting Non-Capital Losses
+i) Prior and Up to the Appeal Years
+[78] Canadian income tax legislation was initially very restrictive regarding the use of losses. In 1919, the Income War Tax Act was amended to prohibit the deduction of losses that were not incurred in connection with the taxpayer’s “chief business, trade, profession or occupation” against income therefrom, and losses were not permitted to be carried forward or back [15] . In the 1940s, taxpayers were authorized to carry over losses for a limited number of years, provided that the taxpayer carried on the “same business” during the years. A one-year carry-forward period was introduced in 1942 [16] . In 1944, the carry-forward period was extended to three years with a one-year carry-back period [17] . In 1949, the carry-forward period was further extended to five years [18] .
+[79] In 1958, paragraph 27(l)(e) began to more closely resemble subsection 111(5) as it now exists, by adopting two changes:
+(a) the first change was an amendment to subparagraph 27(l)(e)(iii) to now allow losses to be used against income from any business carried on by the taxpayer.
+(b) the second change limited the use of paragraph 27(l)(e) by corporations through the new subsection 27(5), which prevented losses from being carried over by a corporation to a future year in two situations: i) where more than 50% of the share capital of the corporation had been acquired by a person or persons who did not, at the end of the preceding year, own any shares in the capital stock of the corporation; and ii) where the corporation was not, during the taxation year, carrying on the business in which the loss was sustained [19] .
+[80] In 1963, paragraph 27(5)(a) was added to further limit the availability of losses by a corporation by adding the concept of acquisition of control [20] . The purpose of the amendment was made clear in the 1963 budget speech by the Honourable Walter L. Gordon, [21] the Minister of Finance:
+As a further measure to close loopholes, I shall propose a measure to stop the device whereby a company that has experienced losses is purchased for the purpose of applying those losses against income from another business.
+[Emphasis added]
+[81] The Canada Tax Service commented on the 1963 changes as follows [22] :
+1963 and Subsequent Taxation Years
+For 1963 and subsequent taxation years Section 27(5) was further tightened up to refer to a change in the control of a corporation rather than merely to a change in the ownership of 50% of its shares. This closed a loophole through which, by first splitting the existing shares into a small number of common and large number of preferred (of small value), less than 50% of the shares were needed for complete control. Accordingly, Section 27(5) now provided that the carry-over privilege is not available to a corporation in which both of the following circumstances occur... [Emphasis added]
+[82] Similarly, the Canadian Tax Reporter mentioned the following regarding these changes [23] :
+Section 27(5) was introduced in 1958 and was amended in 1963 to refer to control rather than to a stipulated percentage of shares in connection with acquisitions after June 13, 1963. In interpreting the question of constituted 50% of the share in the corporation, all classes of shares were included, whereas for control of a corporation it is well established that a person will control a corporation if he has power to vote more than 50% of its voting shares. [Emphasis added]
+[83] In October 1963, in the second reading of the bill bringing in the amendment, Minister Gordon made the following additional comments [24] :
+... As a result of this, a practice has developed of trafficking in the shares of companies whose businesses have been discontinued, but which technically have certain tax loss carry forward entitlements. For example, a man with a profitable business may purchase the shares of one of these companies and transfer his prosperous business to it, and having done so he can apply the losses incurred previously, and often in a quite different class of business, against the taxable income of his own business. I suggest that surely this was never the intention of Parliament when the original proposal was incorporated in the act, and that this practice should be stopped. [Emphasis added]
+[84] Subsequently, the objective of the 1963 legislative amendments was accepted by Cardin J. of the Tax Review Board in Bates Construction & Development Corporation v. Minister of National Revenue [25] :
+To interpret the word “business” in section 27(5a)(b)(ii) as including business of a completely different nature from the business in which the loss was sustained and which was, in fact, discontinued a few months before control of the corporation was taken over by a new organization would seem to contradict the other provisions of the said section as well as the purpose the legislator had in mind, which was to check trading in business losses. [Emphasis added]
+[85] In the 1963 Budget Speech and debates in the House of Commons, the Minister of Finance stated that the acquisition of control test and the business continuity requirement were added to close loopholes involving the acquisition of companies with accrued losses [26] . The introduction of the acquisition of control test and the business continuity requirement indeed had the effect of preventing a corporation from carrying over losses following the discontinuance of its business and an acquisition of control. Nothing in the 1963 Budget Speech or the House of Commons debates indicated that the acquisition of control test was intended to apply more broadly than following an acquisition of de jure control.
+[86] In 1972, subsection 27(5) was replaced by subsection 111(5), which still limited carryovers in cases of acquisition of control, but was less restrictive, requiring that the same business in which the loss was sustained continue to be carried on, but not limiting the deduction for losses carried over to income generated only from that business [27] .
+[87] In 1987, subsection 111(5) was amended to refer to an acquisition of control by a “person or group of persons”, rather than “a person or persons” [28] .
+[88] In 1988, a deeming rule relating to de facto control was introduced by way of section 256(5.1), and certain provisions of the Act were amended to refer to de jure control, de facto control, or deemed control based on value, as discussed in greater detail later [29] .
+ii) After the Appeal Years
+[89] Section 256.1 of the Act was added in 2013 specifically to deal with continued corporate loss trading where de jure control is not acquired [30] .
+[90] Section 256.1 deems an acquisition of de jure control when the following conditions are met: (i) a person or group of persons has acquired shares in the capital stock of a corporation having a fair market value exceeding 75% of the total fair market value of all of the shares in the capital stock of the corporation; (ii) control of the corporation (i.e., de jure control) is not thereby acquired; and (iii) it is reasonable to conclude that one of the main reasons that control was not acquired was to avoid the application of certain enumerated provisions in the Act, including subsection 111(5).
+b) Legislation and Jurisprudence Enhancing or Expanding Non-Capital Loss Deductibility
+[91] In 1958, the Act was amended in order to eliminate the requirement that the taxpayer carry on the “same business” during the relevant years to be permitted to carry over losses. Thereafter, taxpayers were permitted under subparagraph 27(1)(e)(iii) to carry over losses from a business and apply them against income from a different business. Subsection 27(5) of the Act, a predecessor to subsection 111(5), was also enacted. It applied to prevent a corporation from carrying over losses following an acquisition of “more than 50% of the shares” in the capital stock of the corporation by a person or persons who did not, at the end of the preceding year, own any shares. The restriction in subsection 27(5) did not apply in circumstances where the taxpayer continued to carry on the business in which the loss was sustained [31] .
+[92] The foregoing amendments gradually increased taxpayers’ flexibility to carry over losses and apply them against income in different years. They also increased taxpayers’ flexibility to deduct losses sustained in one business against income from another business.
+[93] In 1972, when the Act was revised, section 27 was replaced by section 111. In particular, paragraph 27(l)(a) was replaced with paragraph 111(l)(a), which stated that, to calculate a taxpayer’s taxable income for a tax year, the taxpayer could deduct from his income for the year non-capital losses from the previous five tax years and from the subsequent tax year. The category of losses available for carryover was also broadened to include employment and property losses through the definition of a non-capital loss. The provisions were also relaxed to permit such losses to be applied in the carry-over year to reduce income from all sources, not just business income.
+[94] Subsections 27(5) and (5a) were combined into subsection 111(5), and the “more than 50% of the shares” test was eliminated [32] . The acquisition of control test remained, as did the business continuity requirement (which remains in subsection 111(5) by virtue of the requirement in subparagraph 111(5)(a)(i) that the taxpayer carry on “that business” in the year in which the losses are sought to be deducted) [33] . In 1984, the carry-forward period in paragraph 111(l)(a) was extended to 7 years and the carry-back period was extended to 3 years [34] .
+[95] In 1987, subsection 111(5) was amended to refer to an acquisition of control by a “person or group of persons”, rather than “a person or persons” [35] .
+[96] In respect of the 2004 and 2005 taxation years, the carry-forward period in paragraph 111(1)(a) was extended to 10 and 20 years, respectively [36] .
+VI. ANALYSIS
+[97] Determining the object, spirit and purpose of section 111 and subsection 111(5) is essential to the abuse analysis. The legislative history of the provisions and those related concerning the utilization and restrictions of deducting non-capital losses from income are useful and revelational of the legislative purpose. Not surprisingly, both parties assert differently nuanced historiographical versions. Dispassionate discernment of the underlying object, spirit and purpose of section 111 and subsection 111(5) is needed. The specific finding will likely be obsolete in the future because the 2013 Amendments altered the rule and restrictions considerably.
+a) The Text of Section 111 and Subsection 111(5)
+i) At the Time of the Avoidance Transaction
+[98] Logic exists within the interworking of the relevant and then current provisions of subsections (1) and (5) of section 111. The section generally permits a taxpayer to deduct its own capital and non-capital losses from prior years against current income. Recognizing that an “annual” measure is insufficient to quantify losses of a business surviving many years reflects a fundamental economic matching principle. The limitation of the utilization of these species of losses are found in subsections (4) and (5) which provide that a taxpayer’s non-capital losses are unavailable in certain circumstances after the “acquisition of control”. Like most provisions, there is an exception. Where an acquisition of control occurs and the entity carries on the business (or a similar one) in a certain fashion which incurred the losses, then the non-capital losses are generally still available.
+ii) Historically and Prospectively
+[99] Both historically and prospectively, the relevant sections have undergone amendments.
+[100] In the first instance, both parties arrived at a consensus of the textual meaning: the opening subsection 111(1) allows the unrestricted non-capital losses from one business against losses from another. The restrictions arise in subsections (4) and (5). Subsection (5), upon the occurrence of an acquisition of control, disallows the deduction unless the business, carried on by the corporation which is the subject of the change of control, is continued in a businesslike manner [37] and, only then, to the extent of that business sourced income [38] . The critical question remains: what are the legislative purposes of structuring the text in such a way? To what end has Parliament allowed and then restricted such deductibility and why in such a fashion?
+b) The Context and Purpose of Section 111, Generally, and Subsection 111(5), Specifically
+[101] The historical and prospective legislative contexts provide an inception point for the deductibility and limitation of non-capital losses. The parties were generally in agreement regarding the content, although disparate as to the interpretation.
+(i) Some Observations Regarding the Legislative Rationale of Section 111 and Subsection 111(5)
+[102] To summarize, the Respondent submits the following as the legislative rationale for the subsection 111(5) regime:
+(a) the acquisition of control test was not a departure from the previous policy, but a refinement on the pre-existing continuity of ownership and business test restrictions;
+(b) the legislative history measures a continual restraint on loss utilization, primarily through continuity of ownership, a 50% quantum of share capital and ultimately acquisition of control;
+(c) since the acquisition of control test, subsequent legislation has thwarted de jure control and otherwise deemed control to be acquired;
+(d) de jure control is an indicator, marker or factor concerning the degree of control justifying or restricting the use of losses, but effective control manifests as the power and ability to direct the affairs of the corporation, notwithstanding that voting control vests elsewhere; and
+(e) therefore, while mostly a useful gauge of effective control, circumstances may dictate that strict de jure control be set aside where literal adherence defeats the broader policy considerations concerning corporate relationships and continuity of ownership of the business in which there are accrued losses.
+[103] MMV submits that the Respondent’s position is based almost entirely on a singular purpose: the protection of government revenues which ignores the other purposes embodied in subsection 111(5).
+[104] Beginning in 1982 and continuing until 1987, new rules tightened the carryover restrictions. The reasons for such change have been described as follows [39] :
+In 1981, the pendulum swung the other way. Because of the rather loose restrictions on the carryover of losses after a change of control, the market for loss companies began to heat up...
+The widespread trading of unclaimed corporate losses, deductions and credits among unrelated taxpayers was a child of the 1980’s. Although the trafficking in losses was not a new phenomenon, the introduction of the scientific research tax credit in 1982 gave birth to an explosive new tax arbitrage market in Canada...
+The proliferation of corporate tax incentives throughout the decade of the 1970’s and the severe economic downturn of the early 1980’s combined to create an enormous overhang of unclaimed losses, deductions and credits in the Canadian tax system...
+By 1985, the government was deeply concerned about, and often frustrated by, the innovative tax-planning techniques being used to transfer the benefits of unclaimed losses, deductions and credits from corporations that could not use them to those that could.
+[105] British American Tobacco Company Limited v. Inland Revenue Commissioners [40] involved taxpayers that argued that, to have a “controlling interest” in a corporation, a person was required to directly hold shares that would allow a special resolution to be passed. The House of Lords unanimously rejected the argument. The law lords held that a bare majority of voting shares (i.e., 50% plus one) was sufficient to create a controlling interest, as the owners of a majority of voting power are the persons in effective control of the corporation’s affairs and fortunes [41] .
+[106] Shortly following, in the Minister of National Revenue v. Wrights’ Canadian Ropes Ltd. [42] , the Privy Council, on appeal from the SCC, held that the fact that an English company only held 49.86% of the shares of a Canadian company was conclusive of the fact that the English company did not control the Canadian company for purposes of paragraph 6(1)(i) of the Income War Tax Act [43] .
+[107] In turn, the foregoing decisions were cited in 1964 by the Exchequer Court of Canada in Buckerfield’s Ltd. v. Minister of National Revenue [44] , where the Court held as follows:
+... The word “control” might conceivably refer to de facto control by one or more shareholders whether or not they hold a majority of shares. I am of the view, however, that, in section 39 of the Income Tax Act, the word “controlled” contemplates the right of control that rests in ownership of such a number of shares as carries with it the right to a majority of the votes in the election of the board of directors. See British American Tobacco Co. v I.R.C., [1943] 1 A.E.R. 13, where Viscount Simon L.C., at page 15, says:
+“The owners of the majority of the voting power in a company are the persons who are in effective control of its affairs and fortunes.”
+See also Minister of National Revenue v Wrights' Canadian Ropes, Ltd., [1947] A.C. 109, [1947] C.T.C. 1, per Lord Greene, M.R., at pages 118, 6, where it was held that the mere fact that one corporation had less than 50 per cent of the shares of another was “conclusive” that the one corporation was not “controlled” by the other within Section 6 of the Income War Tax Act.
+[108] The Buckerfield’s test was endorsed by the SCC in Minister of National Revenue v. Dworkin Furs (Pembroke) Ltd. et al. [45] and Duha Printers (Western) Ltd. v. R. [46] . It is widely viewed as the definitive legal threshold constituting de jure or legal control squarely within the breadth of Section 111.
+[109] Of note, Parliament maintained and did not abandon the acquisition of de jure control test in subsection 111(5) and its predecessor provisions throughout the multiple amendments that were enacted during the 1970’s, the 1980’s and thereafter.
+[110] However, the courts have repeatedly acknowledged a general policy expressed in the Act of restricting loss trading. In Duha, the FCA tied this policy to the fundamental tax policy principle that each taxpayer is discrete:
+As complicated as these provisions might seem, the goal they seek is an implementation of certain basic principles governing income computation. These principles are fundamental to the taxing scheme implemented by the Act. Briefly described, this scheme contemplates the taxation of overall net increases in an individual taxpayer’s income. In computing such income, the Act allows losses to be shared between income sources so long as those sources are referable to a single individual taxpayer. This is the net income concept. What is not allowed, however, is income or loss sharing between individuals. The reason for this is that the Act allocates tax burdens differentially across different income strata. Certain policy initiatives are thereby implemented, and these initiatives would be frustrated by income or loss sharing between individuals [47] . [Emphasis added]
+[111] The FCA’s comments in Duha echo those previously made by Department of Finance (DOF) representatives. The DOF pointed to policy reasons why a change of control rule was necessary to prevent inappropriate sharing of tax attributes that was possible for corporations in a way that was not possible for individuals:
+First and foremost, the carryover of losses following a change of control is not generally supported in tax policy terms. Normally, one taxpayer cannot avail himself of another taxpayer’s losses. In the case of an artificial entity such as a corporation, when its control changes it is essentially regarded as a new taxpayer, because different shareholders then become entitled indirectly to enjoy the benefits of its financial success. Accordingly, it should be recognized that the provisions of the Act that relate to the preservation of losses upon a change of control are, from a policy perspective, tax preferences rather than restrictions on general deductibility. In other words, the development of legislation in this area begins with the proposition that no losses should be carried through a change of control. From that point, we then attempt to assess whether there are competing objectives that would warrant deductibility in limited instances [48] . [Emphasis added]
+[112] Further, DOF representatives explained the rationale for providing the “same or similar business” exception to the policy against loss carry-forwards in the following:
+...Simply expressed, the policy is that no losses incurred while a corporation is controlled by one person or group should be deductible against income earned while the corporation is controlled by another unrelated person or group. The single major exception, which is made in an attempt to support the recovery of unprofitable enterprises, is that losses realized in a period when control is in one set of hands may be applied against income earned in a different period provided that the income is from the same or a similar business as that from which the loss arose [49] . [Emphasis added]
+[113] This policy was endorsed by the Technical Committee on Business Taxation in its December 1997 report to the Minister of Finance. The committee, chaired by Jack Mintz, made several observations and recommendations, including the following [50] : The Canadian system begins from the premise that losses are not transferable [51] . For corporations, transferability is constrained [52] .
+[114] In OSFC Holdings, Rothstein J.A. had “no difficulty” in discerning this general policy against loss trading in the Act:
+85 I agree with the Respondent that under the Income Tax Act, every person has an independent status and is liable for tax on that person’s income. It would also appear that as a general policy, losses cannot be transferred from one taxpayer to another. (See, for example, Hogg, Magee and Cook, supra, at page 406). However, for purposes of this case, whether that policy operates to preclude the transfer of non-capital losses, i.e. business losses, between taxpayers in all cases requires a closer examination of how losses are treated under the Act.
+86 Where a business incurs a loss, that loss may have value for income tax purposes. Paragraph 111(l)(a) of the Income Tax Act permits the carry-back and carry-forward of losses for specified numbers of years. This results in a refund of tax paid in prior years and/or a reduction in tax otherwise payable on profits in future years. Therefore, to a taxpayer that has been or will be profitable, it is liability for income tax that gives a business loss its value. It is the opportunity to carry it back or forward that vests the loss with the attributes of an asset...
+87 However, the use of the asset is restricted to the taxpayer that incurred the loss...Generally, there is no provision for the sale of a loss to an arm’s length purchaser as if it were inventory of a business.
+88 However, the Act does recognize a way in which losses may be transferred on an arm’s length basis in the corporate context in a change of control through the sale of shares of the corporation. The Act is quite explicit with respect to the transfer of non-capital losses between corporations on a change of control. The opening words of subsection 111(5) make it clearthat, generally, non-capital losses are not transferable...
+89 Professor Krishna explains at page 513 of The Fundamentals of Canadian Income Tax, 6th ed., supra:
+In the absence of consolidated reporting for tax purposes, the Act applies stringent restrictions on the use of accumulated losses following a change of corporate control. The general thrust of these rules is to limit transfers of losses between unrelated corporate taxpayers and to discourage business arrangements that are nothing more than “loss-trading” or “loss-offset” transactions.
+…
+92 The obviously limited nature of the exception [in subsection 111 (5)] allowing the transfer of losses appears to underscore the general policy that loss trading for tax purposes is not permitted. The requirement that prior losses are deductible only against income for the same or similar business is an indication that such losses are not generally available for use in offsetting other income.
+…
+96 As a result, the present policy is to allow refunds or the transfer of losses only on a strictly controlled basis. It is a compromise between the desire to promote the full neutrality benefits of refundability and offsets on the one hand, and the need to maintain government revenues on the other.
+97 It is not for the Court to approve or disapprove of the government’s relevant taxation policy. Nor is the Court to pass on the wisdom of the compromises that have been struck between competing objectives. The Court’s only role is to identify a relevant, clear and unambiguous policy, so that it may then determine whether the avoidance transactions in question are inconsistent with the policy, such that they constitute an abuse of the provisions of the Act, other than the GAAR, read as a whole.
+98 I have no difficulty concluding that the general policy of the Income Tax Act is against the trading of non-capital losses by corporations, subject to specific limited circumstances. [53] [Emphasis added]
+[115] Following OSFC Holdings, in Mathew, the SCC reaffirmed the existence of the general policy against loss trading:
+[49] The FCA considered other provisions of the Income Tax Act that address the transfer or sharing of losses between taxpayers. It properly concluded that the general policy of the Income Tax Act is to prohibit the transfer of losses between taxpayers, subject to specific exceptions. It also correctly concluded that under such exceptions. Parliament intended to promote a particular purpose concerning a distinct relationship between the transferor and the transferee under specifically described circumstances [54] . [Emphasis added]
+[116] More recently, in a 2015 paper presented to the Canadian Tax Foundation, Anu Nijhawan identified the same policy considerations underlying subsection 111(5) as Rothstein J.A. did in OSFC Holdings [55] :
+(a) Full transferability of losses is undesirable for various policy reasons, but a corporation should be able to utilize its losses in order to properly measure its income on a multiyear basis.
+(b) Restrictions on the utilization of pre-acquisition of control losses are based on the notion that a corporation is an intermediary for its shareholders.
+(c) Losses are generally non-refundable. The person who should be entitled to benefit from a tax loss is the person who suffered the associated economic loss. Because the corporation is a stand-alone unit for tax purposes, it is not permitted to transfer losses.
+(d) The history of paragraph 111(l)(a) illustrates a relaxation of the “continuity of business” requirement over time; however, subsection 111(5) was introduced to curtail the flexibility in use of losses that paragraph 111(1)(a) allowed when there was a significant change of shareholders.
+(e) The theory that a corporation is an intermediary for its shareholders leads to the conclusion that losses should not normally be claimed by the corporation after a significant change of shareholders, because the former shareholders who bore the economic costs of the losses, are no longer participating in the business.
+(f) The acquisition of control test has been a consistent feature of the loss streaming regime since 1963. Reliance on the acquisition of control threshold appears to be firmly embedded in the legislative scheme, likely as a matter of practicality.
+(g) In the absence of any business or financial reasons for a combination, the loss business continuity requirement may serve to preclude a tax inducement to the combination of a loss business with a profitable business.
+(h) The Act makes losses available after an acquisition of control if the same business is continued because, although a loss belongs to the corporation, it also belongs to the business that gave rise to it. Further, it is economically desirable to encourage the revitalization of a loss business, including through an acquisition of control and the replacement of management. The loss business continuity test is the single major exception to the policy against loss trading, in an attempt to support the recovery of unprofitable enterprises. The requirement reflects a desire to avoid a tax inducement toward uneconomic behavior.
+(ii) Do Subsequent Amendments Weaken De Jure Control?
+[117] The existence of numerous provisions in the acquisition of control rules (subsections 251(5), 256(7), and 256(8)) provides that an acquisition of control is deemed not to take place when transactions are undertaken between corporations with common, or substantially the same, ownership. For example, paragraph 256(7)(b) deems an amalgamation not to result in an acquisition of control of either the predecessor corporation or of the new corporation, where the predecessor corporations were related immediately prior to the amalgamation or whether the shareholder interest in one predecessor corporation that was large enough to give control carried through into the post-amalgamation corporation.
+[118] Furthermore, provisions have been introduced over time to broaden the circumstances when an acquisition of control will be recognized even if de jure control of the corporation has not technically been acquired. These provisions include subsections 256(7) and (8), subsection 251(5), and section 256.1.
+[119] Subsection 256(8) is a provision that deems an acquisition of control to have occurred in circumstances where it has not technically occurred. It applies when a person acquires particular rights in relation to shares of a corporation, and deems the person to be in the same position in relation to those shares as if the rights were immediate and absolute and have been exercised.
+[120] Subsection 256(7) is another set of provisions whose purpose is to recognize whether there is an acquisition of control in various situations. The policies underlying subsection 256(7) are closely tied to the policies underlying the loss streaming rules.
+[121] Section 256.1 of the Act was introduced in 2013 to deem an acquisition of de jure control in some circumstances where a person or group of persons acquired shareholdings in a corporation exceeding 75% of the total fair market value of all outstanding shares of the corporation without technically obtaining de jure control. However, a purpose test must be met.
+[122] The Technical Note and Budget Supplementary Information indicate that the enactment of section 256.1 was just one of a long line of amendments to the Act to discourage loss trading. As with the other amendments, its particular wording reflected the mischief (i.e., a particular tax avoidance scheme) that Parliament had become aware of.
+[123] MMV argues that the introduction of section 256.1 represents an instance in which Parliament altered the prior state of the law. The 2013 Amending Legislation changed the policy of the Act which is demonstrated by the fact that new concepts such as “loss restriction event” were introduced, the fact that a new purpose test was introduced, and by virtue of the sheer breadth and scope of the 2013 Amending Legislation.
+[124] In addition, paragraph 256(1.2)(c) deems a corporation to be controlled by a person for purposes of certain provisions of the Act if the person holds shares of the corporation, or common shares of the corporation, having a fair market value of more than 50% of the fair market value of all the outstanding shares, or common shares, respectively, of the corporation.
+[125] Paragraph 256(1.2)(c) was introduced in 1988, by way of the same bill that substantially amended the provisions of the Act relating to de jure and de facto control, as discussed below [56] . In the 1988 Amending Legislation, Parliament deliberately selected between a standard of control based on voting power, a standard based on factual influence and a standard based on value, but chose to retain the standard based on voting power (de jure control) within the opening words of subsection 111(5).
+(iii) Is De Jure Control a Marker or Proxy for Effective Control?
+[126] In 1988, Parliament overhauled the provisions in the Act employing a standard of control in order to clearly specify which standard was applicable. Subsection 256(5.1) was introduced in the 1988 Amending Legislation to prescribe certain circumstances in which a corporation will be considered to be “controlled, directly or indirectly in any manner whatever” [57] .
+[127] A number of provisions of the Act that had previously referred to de jure control were amended to refer to control “directly or indirectly in any manner whatever” (i.e., de facto control) [58] . A number of provisions that had previously referred to de facto control were amended to refer to de jure control [59] . A number of provisions were amended to clarify that de facto control was the applicable standard [60] . In addition, as discussed above, a provision was enacted that deems control to exist in some circumstances based on the proportionate fair market value of a shareholder’s shares [61] .
+[128] In Duha, the SCC employed a textual, contextual and purposive analysis of subsection 111(5) to determine the meaning of the term “control”. While Duha did not involve the application of the GAAR, the Court’s statements with respect to the purpose of subsection 111(5) are helpful to the misuse and abuse analysis in this case.
+[129] The SCC found that subsection 111(5) contemplates de jure, not de facto, control, and that the general test for de jure control is whether the majority shareholder enjoys effective control over the affairs and fortunes of the corporation, rooted in the ownership of shares conferring a majority of the votes in the election of the board of directors [62] .
+[130] With respect to the reason for employing the de jure rather than the de facto standard of control, the Court held that the de jure standard is preferable because of the certainty and predictability that it confers on taxpayers:
+… In my view, the de jure standard was chosen because in some respects it is a relevant and relatively certain and predictable concept to employ in determining control. In general terms, de jure refers to those legal sources that determine control: namely, the corporation’s governing statute and its constitutional documents, including the articles of incorporation and by-laws. The de facto concept was rejected because it involves ascertaining control in fact, which can lead to a myriad of indicators which may exist apart from these sources... [Emphasis in original] [63]
+[131] Justice Iacobucci for the Court, noted that de jure control emerged as the default standard for purposes of the Act because it recognizes that the majority shareholder is able to or may rightfully elect the board of directors, and is therefore in effective control of the corporation’s affairs and fortunes [64] .
+[132] Justice Iacobucci also noted that Parliament has enacted other provisions in the Act that expressly contemplate a different de facto standard:
+Moreover, as Wilson J. correctly observed in her dissent in Imperial General Properties, supra, taxpayers rely heavily on whatever certainty and predictability can be gleaned from the Income Tax Act. As such, a simple test such as that which has been followed since Buckerfield’s is most desirable. If the distinction between de jure and de facto control is to be eliminated at this time, this should be left to Parliament, not to the courts. In fact, while it is not directly relevant to the outcome of this appeal, I would observe nonetheless that Parliament has now recognized the distinction between de jure and de facto control, adopting the latter as the new standard for the associated corporation rules by means of s. 256(5.1) of the Income Tax Act, enacted in 1988 [65] .
+[133] The Supreme Court’s finding that a simple test like de jure control is preferable because taxpayers rely heavily on whatever certainty and predictability can be gleaned from the Act. The finding indicates that Parliament intended taxpayers to be able to structure their affairs intelligently in reliance upon the acquisition of control test.
+[134] The SCC’s finding in Duha that the acquisition of control test is intended to be certain and predictable is supported by the general advantages of bright-line tests. The use of clearly defined rules in legislation, rather than more-ambiguous standards, has many advantages, including: (i) minimizing the cost of determining how the legislation will apply in any given situation for both adjudicators and those subject to the legislation [66] ; (ii) promoting predictability for taxpayers and the government thereby permitting all parties to better know their rights and obligations in advance [67] ; and (iii) reducing litigation and consequentially promoting equal treatment between those with the resources to engage in litigation and those without such resources [68] . These benefits are purposive to the use of the de jure control test.
+[135] Further, practical difficulties would arise if subsection 111(5) contained a more ambiguous test, such as de facto control. If a new shareholder were to provide new financing to a corporation with accrued losses and acquire influence over the corporation, the corporation might be uncertain about whether the loss streaming rules would apply. If the corporation were uncertain about the application of the loss streaming rules, it might be reluctant to seek out new business opportunities that could result in it earning income from a different business. Therefore, the use of a more ambiguous test arguably chills investment in corporations with accrued losses, while inhibiting such corporations from winding up their unprofitable businesses and seeking out new, profitable business opportunities.
+[136] The aims of promoting reduced compliance costs and reduced costs relating to disputes and litigation are contextually important to a provision like subsection 111(5), which by its nature only applies to corporations with accrued losses. Corporations with accrued losses are less suited than other corporations to engage advisors to determine how an ambiguous standard is likely to be applied, or to dispute the Minister’s application of the standard through expensive litigation. It is logical that Parliament would use a bright-line rule like de jure control in subsection 111(5), rather than a more ambiguous standard like de facto control.
+[137] With respect to Parliament’s intention that the acquisition of control test be certain and predictable, it is notable that, following the 2013 Amending Legislation, the application of subsection 111(5) remains, to this day, largely reliant on bright-line rules, although section 256.1 sets out certain purpose tests.
+(iv) Is the De Jure Proxy Supplanted by Effective Control?
+[138] The evolution of the loss streaming rules and related provisions indicates that the presence or absence of de jure control is used in subsection 111(5) as one indicator, or marker, of the degree of control of a corporation that would justify either restricting or permitting the utilization of losses. A change of de jure control serves as a statutory proxy for the degree of continuity of ownership that Parliament intends for permitting the preservation of tax attributes when the share ownership of a corporation changes.
+[139] The relevant legislative context also includes the set of provisions that deem an acquisition of control to occur or not to occur. Subsections 251(5), 256(7), 256(8), and section 256.1 all broaden factual circumstances which constitute control. These provisions reflect attempts by Parliament to restrict the loss streaming rules beyond a technical acquisition of de jure control of a loss corporation. They reflect that the object, spirit, and purpose of the loss streaming rules is broader than merely de jure control situations. De jure control is merely a proxy or marker for the person who enjoys effective control of a corporation.
+[140] Indeed, the courts have recognized that de jure control, as a concept, is not an end per se. De jure control is merely a means of measuring who has “effective control of the affairs and fortunes” of a corporation. Share ownership is easily manipulated and is not the overriding concern in any event. Depending on the circumstances, effective control could rest with a shareholder who does not hold de jure control. In Duha, the SCC described the fundamental inquiry in the following terms:
+36 However, it must be recognized at the outset that this test is really an attempt to ascertain who is in effective control of the affairs and fortunes of the corporation...
+37 Viewed in this light, it becomes apparent that to apply formalistically a test like that set out in Buckerfield’s, without paying appropriate heed to the reason for the test, can lead to an unfortunate artificial result [69] .
+[Emphasis added]
+[141] In practical terms, “effective control” can be understood as the power and ability to fundamentally direct the affairs of the corporation. Classically, this power rested with the shareholder(s) who had the ability to elect a majority of the board of directors, since the directors exercise decision-making authority on behalf of a corporation. However, where a shareholder lacks the legal right to elect a majority of the board but nonetheless wields clear power and ability to control the exercise of decision-making authority, then such shareholder has effective control.
+[142] Parliament used de jure control as the threshold for the application of the streaming rules for several reasons. First, in most cases, such level of control is a relatively accurate proxy, for the policies underlying the streaming rules, as to who is the “owner” of the business that incurred the losses and should be entitled to take the benefit of them. Second, as has been argued elsewhere, there are obvious practical and administrative advantages to legislating a clear test like de jure control. A company’s share register provides a practical and verifiable gauge of who has majority control and when and how it changes.
+[143] A review of the various provisions of the Act dealing with loss streaming and acquisitions of control makes clear that Parliament does not limit itself to actual acquisitions of control in the literal sense. Parliament has chosen to deem acquisitions of control to occur or not occur depending on whether the circumstances engage the broader policy considerations relating to relationships between corporations and continuity of ownership of the business in which the losses arose.
+[144] Subsection 256(8) is a clear signal that Parliament did not intend the bright-line of de jure ownership to be determinative when the application of tax attribute streaming rules was at play.
+[145] Section 256.1 is another statutory expansion beyond a narrow focus on de jure control in the statutory scheme relating to loss trading, relationships and association between corporations. The provision reflects that a significant economic interest will give a person the ability to exercise effective control of a corporation even without voting control.
+c) Conclusions
+(i) Is There a Policy Against Loss Trading?
+[146] The SCC recognized a general statutory policy against the transfer of losses between taxpayers subject to specific exceptions. Further, the Court stated that the lower court correctly concluded “under such exceptions, Parliament intended to promote a particular purpose concerning a distinct relationship between the transferor and the transferee under specifically designed circumstances [70] .”
+[147] The policy against loss trading flows from the fundamental net income concept: the taxation of overall net increases in an individual taxpayer’s income where losses can be shared between income sources so long as those sources are referable to a single individual taxpayer [71] . In other words, generally, as stated by the Respondent, one taxpayer cannot avail himself of another taxpayer’s losses.
+[148] While a corporation is a discrete legal taxpayer, it is also an intermediary entity. Ultimately, shareholders benefit from, or incur, the corporation’s income and losses. Therefore, it is not offensive that losses from one business be used to offset income from another business where there is sufficient continuity of ownership between the profit business and the loss business. A threshold is used to determine when the profit business and the loss business are discrete units for the purposes of loss utilization, in which case, losses from the loss business cannot be deducted against the income from the profit business.
+[149] Clauses 111(5)(a)(i) and 111(5)(b)(i) embody an exception to the general policy against loss trading between unrelated taxpayers. The business continuity exception permits a discrete taxpayer to access the losses of another taxpayer if the taxpayer revitalizes the other taxpayer’s business.
+[150] However, these decisions predate the abuse test developed by the SCC in Canada Trustco Mortgage Co. v. Canada [72] . MMV submits that the SCC held that the GAAR cannot apply to a transaction on the basis that the transaction frustrated a general policy in the Act read as a whole [73] . The misuse and abuse analysis must be grounded in the object, spirit and purpose of section 111.
+[151] In Mathew, the SCC recognized the Act’s general policy against loss trading but also noted that “it cannot be automatically inferred from the general policy against the transfer of losses between taxpayers that subsection 18(13) must be read as preventing the Appellants from claiming the losses in this case. This policy is but one consideration to be taken into account in determining Parliament’s intent with respect to s. 18(13) and s. 96 [74] .”
+(ii) How Bright of a Line is De Jure Control?
+[152] When Parliament incorporates or abides a common law concept within legislation, the relevant jurisprudence at the time of the enactment can be a useful extrinsic aid to interpreting the meaning of the legislation. The presence of other tests in the Act that are dependent on the value of shares or other emblems of control, rather than their voting power, also indicates that Parliament deliberately chose voting control as the condition precedent for the loss streaming rules to apply.
+[153] The Tax Court in Lyrtech RD Inc. v. The Queen [75] noted that, since 1988, the Act has been clear in all cases as to the applicable standard:
+In light of the case law, Parliament has had to make many clarifications with respect to the concept of control in order to reach specific legislative goals. Thus, since September 13, 1988, when subsection 256(5.1) was introduced, the Act is clear as to which are the provisions that specifically refer to the concept of de jure control as opposed to those that involve, rather, the application of de facto control.
+[154] Lyrtech stands for the proposition that the Act has been clear at least since 1988 that de jure control is the standard in subsection 111(5).
+[155] Numerous provisions added to the Act employ either the de facto standard or the de jure control standard. Indeed, the term “loss restriction event”, which was introduced into subsection 111(5) in 2013, as discussed below, is defined in section 251.2 by reference to this very de jure control standard.
+[156] In the present case, it is arguable that MMV Financial acquired de facto control of MMV by having acquired a significant economic interest in or influence over MMV. The reply states that the series of transactions enabled MMV Financial to “in effect control” MMV, without acquiring de jure control. The Respondent suggests that subsection 111(5) contains a de facto control standard. That suggestion is stretched unreasonably. Parliament deliberately chose not to employ the de facto control standard in subsection 111(5) when amending it in 2013. Instead, it deemed a de jure change of control to have occurred by re-defining and not replacing it.
+[157] Recently, Justice Paris determined the object, spirit or purpose of paragraph 111(1)(a) and subsection 111(5) in Deans Knight. He concluded [76] :
+It has been suggested that the acquisition of control test in subsection 111(5) is a reasonable marker between situations where the corporation is a free actor in a transaction and when it is only a passive participant whose actions can be manipulated by a new person or group of persons in order to utilize the losses or Tax Attributes of the corporation for their own benefit. I agree with this analysis and find that the object, spirit and purpose of subsection 111(5) is to target manipulation of losses of a corporation by a new person or group of persons, through effective control over the corporation’s actions.
+[158] Justice Paris canvassed the legislative history of subsection 111(5) and examined other provisions relevant to the loss streaming scheme. After completing this exercise, he stated [77] :
+Despite the tax policy basis for using a substantial change in equity investment test to restrict loss carryovers, though, this kind of test was removed from the predecessor section to subsection 111(5) in 1972 and a similar test in subsection 256.1 was not included until 2013. This gives rise to an inference that Parliament did not intend to target substantial equity acquisitions in a loss corporation as a basis for restricting the carryover of its losses.
+[159] The notion of “control” featured predominantly in his analysis of the provision as the application of subsection 111(5) is triggered by an acquisition of control. He examined the SCC’s decision in Duha and noted that Parliament’s aim in choosing the de jure control test was to achieve certainty and predictability.
+[160] Regarding the acquisition of control test, Justice Paris made the following observation from Duha SCC: [78]
+Iacobucci J. also made the point that the acquisition of control test was a means of determining effective or ultimate control of a corporation:
+…However, it must be recognized at the outset that this test is really an attempt to ascertain who is in effective control of the affairs and fortunes of the corporation. That is, although the directors generally have, by operation of the corporate law statute governing the corporation, the formal right to direct the management of the corporation, the majority shareholder enjoys the indirect exercise of this control through his or her ability to elect the board of directors. Thus, it is in reality the majority shareholder, not the directors per se, who is in effective control of the corporation. This was expressly recognized by Jackett P. when setting out the test in Buckerfield's. Indeed, the very authority cited for the test was the following dictum of Viscount Simon, L.C., in British American Tobacco Co. v. Inland Revenue Commissioners, [1943] 1 All E.R. 13, at p. 15:
+The owners of the majority of the voting power in a company are the persons who are in effective control of its affairs and fortunes. [Emphasis added.]
+[161] On the distinction between the de jure and the de facto tests, Justice Paris states that the tests “are differentiated only by the breadth of factors that can be looked at to determine who has ultimate control over the board of directors [79] .”
+[162] Similarly, the following passage from Duha also assists in establishing what the SCC means by “effective control” [80] :
+As I have said, the essential purpose of the Buckerfield’s test is to determine the locus of effective control of the corporation. To my mind, it is impossible to say that a shareholder can be seen as enjoying such control simply by virtue of his or her ability to elect a majority of a board of directors, when that board may not even have the actual authority to make a single material decision on behalf of the corporation. The de jure control of a corporation by a shareholder is dependent in a very real way on the control enjoyed by the majority of directors, whose election lies within the control of that shareholder. When a constating document such as a USA provides that the legal authority to manage the corporation lies other than with the board, the reality of de jure control is necessarily altered and the Court must acknowledge that alteration.
+[Emphasis Added]
+[163] The fact that subsection 111(5) was amended following the avoidance transaction to implement a new triggering event based on fair market value also indicates that voting power, rather than value, was the condition precedent for the previous version of the provision to apply.
+[164] In Gwartz v. The Queen [81] , Justice Hogan stated that when Parliament employs simple language, this suggests that Parliament intended to provide certainty to taxpayers:
+Compared with other provisions in the Act, the text of section 120.4 is notable for its relative brevity and simplicity. Its applicability or non-applicability to a transaction is, in general, readily observable. For example, determining whether a person is a specified individual, or determining whether certain dividend income received directly by a specified individual is split income, is straightforward. These factors suggest that, when enacting section 120.4, Parliament was concerned with minimizing the complexity of the provision and providing certainty to taxpayers with respect to its application.
+[165] To reiterate, the abuse of a general fiscal policy not otherwise embedded in the statute does not constitute abusive tax avoidance within the meaning of the GAAR. Commensurately, no tax benefit can be denied where the avoidance transactions do not conflict with the object, spirit and purpose of provisions within the Act [82] .
+(iii) Conclusions Regarding Subsection 111(5)
+[166] All told, the object, spirit and purpose of 111(5) blocks corporate acquisitions for the singular purpose of accessing tax attributes by restricting the use of those attributes if accessed through an exercise of control. To that extent, the restriction of loss trading exists.
+[167] Parliament has determined that insufficient ownership continuity is a function of corporate control; the parties in this appeal simply dispute whether a change in ownership is signalled through an acquisition of de jure control or de facto control.
+[168] Insufficient continuity of ownership measured on a de jure standard provides increased certainty and predictability to taxpayers. A de facto standard deters taxpayers from attempting to acquire the tax attributes of a corporation unless it intends to revitalize the loss leading business as, if control (under the expanded de facto standard) is found to be acquired, losses can only be utilized if the same business is carried on with a reasonable expectation of profit.
+[169] While subsection 111(5) embodies conflicting purposes, certain purposes re-align with the use of a de jure control threshold over a de facto one.
+[170] The SCC in Duha determined that Parliament’s aim in choosing a de jure standard was to further its purpose of achieving certainty and predictability when restricting loss utilization. This conclusion is supported by the use of the word “control” in the text and the context of the legislative amendments and enactments; Parliament removed the equity based test from the provision and deliberately kept the reference to de jure control in 111(5) instead of adopting a de facto standard.
+d) Is MMV’s Tax Benefit Abusive of the Object, Spirit and Purpose of the Provisions?
+[171] For this analysis, the Court employs the conjunctive object, spirit or purpose of subsection 111(5) as determined by Justice Paris in Deans Knight: “to target the manipulation of losses of a corporation by a new person or group of persons, through effective control over the corporation’s actions.” [83]
+[172] While Justice Paris etches deeply in his reasons the phrase “singular purpose of accessing tax attributes”, a more general term of “manipulation of losses” is sufficient to allow this appeal. [84]
+[173] The burden remains on the Respondent to establish that the avoidance transaction resulted in abusive tax avoidance. As such, the tax benefit needs not be consistent with the object, spirit or purpose of the relevant provisions. The Respondent must establish that MMV circumvented subsection 111(5) in a manner that frustrates the object, spirit or purpose of that provision. As well, since MMV has relied on a series of transactions to obtain the tax benefit, the entire factual context of the series must be examined to determine abuse. [85]
+[174] The Respondent submits that MMV Financial circumvented subsection 111(5) because it acquired de facto or effective control of MMV without acquiring de jure control. Thus, it cannot reasonably be said that the transactions are remotely compatible with the continuity of ownership policy in subsection 111(5).
+[175] The Respondent submits the following on “effective control”:
+In practical terms, “effective control” can be understood as the power and ability to fundamentally direct the affairs of the corporation… However, where a shareholder who does not have the legal right to elect a majority of the board nonetheless holds the clear power and ability to control the exercise of decision-making authority, that shareholder may be said to have effective control.
+[176] In Deans Knight, Justice Paris found that change in management, business activity, assets and liabilities and name are not markers of a change of effective control of a corporation. [86]
+[177] The Respondent emphasized the following:
+That MMV Financial, after amending MMV’s articles, held an economic interest nearing 100% in MMV through general security interests, and preferred share status on distribution of assets;
+Given the preferential payment of dividends on non-voting common shares, only MMV Financial received any benefit from the deduction of MMV’s losses;
+The benefits received by the common shareholders ($100,000 payment to purchase debts with a face value of $850,000) bore no relation to the use of the tax attributes;
+The financing provided by MMV Financial to MMV was subject to contractual commitments as to how it could be used, and repayment could be called at any time;
+While the Subordinated Creditors held a majority of the voting shares, they did not actually exercise the voting control that flowed from their shareholdings;
+Under a unanimous shareholder agreement “USA” in 2007 and a voting agreement “VA” in 2010, the five secured creditors agreed to exercise their voting rights in a way that permitted each member of the group to nominate one director;
+There is no evidence that the Subordinated Creditors exercised the control the documents gave them by selecting their own nominee directors; and
+Effectively the Subordinated Creditors abdicated voting control of MMV.
+[178] The Respondent admits that the secured creditor shareholders (unaffiliated with MMV Financial) were legally empowered to select the board of directors, but factually otherwise curtailed that power.
+[179] The Court cannot agree with the suggestion that failing to exercise voting power by removing directors “friendly” to a minority shareholder is evidence of effective control in the hands of the minority shareholder. The secured creditor shareholders were empowered to select their own nominees; however their own economic interests quite possibly determined that MMV Financial “friendlies” should remain on the board.
+[180] Evidence was not presented to show that the board did not have the actual authority to make material decisions on behalf of MMV; the existence of a financial covenant in favour of MMV Financial is not de jure control. No evidence showed that MMV Financial required de facto or effective control of MMV in order to make the utilization of the losses work. [87]
+[181] It is difficult to comment on whether the financing arrangements between MMV Financial and MMV shifted the locus of effective control from the majority shareholders (empowered to nominate directors) to MMV Financial based upon any evidence before the Court. One hypothetical that could possibly apply is, should the majority secured creditor shareholders remove MMV Financial representatives from the board, MMV Financial could then demand repayment of the credit facilities as reprisal. No such evidence or submission was before the Court. In any event, such a precipitating assertion of control would still demonstrate primary de jure control by the secured creditor shareholders, albeit with possibly dire consequential results.
+VII. SUMMARY AND COSTS
+i) Summary
+[182] What is before the Court is section 111 which section outlines the basis upon which taxpayers, including corporations, generally are permitted or not permitted to deduct non-capital losses. More specifically, in subsection 111(5), corporations alone, where a de jure change of control occurs, are restricted in claiming the losses. Even where that de jure change of control occurs and subsection 111(5) is engaged, business continuity and engagement in a related undertaking preserve the deductibility of losses.
+[183] The particularity with which Parliament created and perpetuated the condition precedent of de jure change of control and subsequently imposed the restriction and prohibition must be accounted for; the utilization and longstanding survival of the de jure test must also be recognized. It is not an accident. The possible manipulation of the de jure threshold was and is longstanding, widely known and understood. However, even the 2013 Legislative Amendments, further restricting these activities, did not discard the de jure test; such revisions simply deemed a de jure change of control to have occurred in certain additional circumstances.
+[184] This interpretative analysis is revelational of the legislative rationale. Where a general rule allowing for the deduction of losses (section 111) is subject to a restriction (change of de jure control) with exceptions in specific circumstances, the limited nature of the restriction buttresses the generally expressed loss allowance. However cunning the avoidance transaction, it utilized a general loss deductibility provision and avoided engaging or abusing the specifically enacted subsection which restricts the general deduction. This is qualitatively and quantitatively different from utilizing and abusing a sub-sectional exception to avoid a generally described or imputed sectional prohibition. The presence of the longstanding, bright-line test of de jure control bears further witness to the rejection of applying the GAAR in the circumstances of this appeal as regards subsection 111(5).
+[185] The appeal is allowed for the 2011, 2012, 2013, 2014 and 2015 taxation years. MMV is entitled to deduct the non-capital losses incurred under Part I of the Act arising from the 2001 to 2009 taxation years, inclusive.
+ii) Costs
+[186] Costs are awarded provisionally to MMV in accordance with the applicable tariff subject to the right of either party to make written submissions thereon within 30 days of the date of the judgment, whereupon the Court may consider such submissions and vary its provisional cost award, failing which this provisional cost award shall become final.
+Signed at Toronto, Ontario, this 12th day of August 2020.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2020TCC82
+COURT FILE NO.:
+2016-5137(IT)G
+STYLE OF CAUSE:
+MMV CAPITAL PARTNERS INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+June 28, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+August 12, 2020
+APPEARANCES:
+Counsel for the Appellant:
+David Muha
+Michael J. Collinge
+Kevin Chan
+Counsel for the Respondent:
+Michael Taylor
+Matthew Turnell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David Muha
+Michael Collinge
+Kevin Chan
+Firm:
+Deloitte Tax Law LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Copthorne Holdings Ltd. v. Canada, 2011 SCC 63, [2011] 3 DCR 721 at paragraph 33 [Copthorne] itself referencing Canada Trustco Mortgage Corp. v. Canada, 2005 SCC 54, [2005] 2 SCR 601 at paragraphs 36 and 37 [Canada Trustco].
+[2] Canada Trustco, ibid at paragraph 65.
+[3] Ibid at paragraph 66(4).
+[4] Ibid at paragraph 66(5) and Copthorne, supra note 1 at paragraph 109.
+[5] Copthorne, ibid at paragraphs 71 and 72.
+[6] 2016 TCC 288; reversed by R. v. 594710 British Columbia Ltd., 2018 FCA 166 [594710 BC Ltd.]
+[7] 2019 TCC 76 [Deans Knight].
+[8] HMQ v Duha Printers (Western) Ltd. [1996] 96 DTC 6323 (FCA) at paragraph 5 [Duha FCA]; OSFC Holdings Ltd. v. Canada, 2001 FCA 260 [OSFC Holdings]; and Mathew v. Canada, 2005 SCC 55 [Mathew].
+[9] Report on the Technical Committee on Business Taxation (Ottawa: Department of Finance, 1997).
+[10] OSFC Holdings, supra note 8 at paragraph 91.
+[11] Birchcliffe Energy Ltd. v. HMQ, 2015 TCC 232 [#1] and 2017 TCC 234 [#2].
+[12] Canada Revenue Agency, Document 2003 - 0031823, "Transfer of a business by a shareholder" [2003] Ruling.
+[13] Mathew, supra note 8 at paragraph 58.
+[14] 594710 British Columbia Ltd, supra note 6 at paragraph 86, 87 and 88, reversed on other grounds.
+[15] Paragraph 3(l)(f) of the Income War Tax Act, 1917, 7-8 Geo V, c 28, which was introduced by SC 1919, c 55, s 2(2). The following article contains a useful chronology of taxpayers’ entitlement to claim losses under the Act: David N. Finkelstein and Margaret Nixon, “Takeovers,” Report of Proceedings of Fifty- Sixth Tax Conference, 2004 Conference Report (Toronto: Canadian Tax Foundation, 2005), 21:1-48 at pages 15 to 18.
+[16] Paragraph 5(l)(p) of the Income War Tax Act, RSC 1927, c 97, which was introduced by SC 1942-43, c 28, s 5(7).
+[17] Paragraph 5(l)(p) of the Income War Tax Act, RSC 1927, c 97, which was introduced by SC 1943-44, c 14, s 5 and amended by SC 1944-45, c 43, s 4(5).
+[18] Section 26(l)(d) of the Income Tax Act, RSC 1948, c 52, which was introduced by SC 1949, c 25, s 11(5).
+[19] Stikeman Income Tax Act, Annotated, 1958-59, s. 27(1)(e) and 27(5).
+[20] Stikeman, Income Tax Act, Annotated, 1963-64, s. 27(l)(e), 27(5) and 27(5a), pages 85-89.
+[21] Canada, Department of Finance, “1963 Budget, Budget Speech”, (Ottawa: June 13, 1963) at page 12.
+[22] Canada Tax Service, (Toronto: Richard De Boo) 17-7-68, pages 27-168.
+[23] Canadian Tax Reporter, (CCH Canadian Limited, 1970), 955-3-64, page 1579.
+[24] Parliamentary Debates, October 16, 1963, at pages 3636-3637.
+[25] 73 D.T.C. 234 (Tax Review Board) at paragraph 13.
+[26] Canada, Department of Finance, “1963 Budget, Budget Speech”, (Ottawa: June 13, 1963) at page 12; House of Commons Debates, 26th Parl, 1st Sess, No 3 (23 July 1963) at pages 2512-2513.
+[27] Stikeman, Income Tax Act, Annotated, 1973-74, S.C. 1970-71-72, c. 63, s. 111(1)(a) and 111(5), p. 284-287.
+[28] Subsection 111(5) of the Income Tax Act (Canada), RSC 1985, c 1 (5th Supp), which was introduced by SC 1987, c 46, s 40(2).
+[29] Subsection 256(5.1) of the Income Tax Act (Canada), RSC 1985, c 1 (5th Supp), which was introduced by SC 1988, c 55, s 192(3).
+[30] Effective March 21, 2013, pursuant to Economic Action Plan 2013 Act, No. 2, S.C. 2013, c. 40 [the 2013 Amending Legislation] ss. 94. See also Budget 2013 Tax Measures: Supplementary Information and Explanatory Notes at pages 363-364.
+[31] Subsection 27(5) of the Income Tax Act (Canada), RSC 1952, c 148, which was introduced by SC 1958, c 32, s12(2).
+[32] Subsection 111(5) of the Income Tax Act (Canada), RSC 1970-71, c 63.
+[33] David N. Finkelstein and Margaret Nixon, supra note 15 at page 33.
+[34] Paragraph 111(l)(a) of the Income Tax Act (Canada), RSC 1970-71-72, c 63, which was introduced by SC 1983-84, c 1, s 54(1).
+[35] Subsection 111(5) of the Income Tax Act (Canada), RSC 1985, c 1 (5th Supp), which was introduced by SC 1987, c 46, s 40(2).
+[36] Paragraph 111(l)(a) of the Income Tax Act (Canada), RSC 1985, c 1 (5th Supp), which was introduced by SC 2005, c 19, s 20(1) and SC 2006, c 4, s 57(1).
+[37] Subparagraph 111(5)(a)(i) of the Act.
+[38] Ibid at subparagraph 111(5)(a)(ii).
+[39] W.J. Strain, D. A. Dodge, V. Peters, “Tax Simplification: The Elusive Goal”, 1988 Conference Report, CTF, page 4:l at pages 4:42-43.
+[40] [1943] 1 ALLER 13, [1943] AC 335 (HL).
+[41] Ibid at pages 339 to 340.
+[42] [1947] CTC 1, 2 DTC 927 (PC).
+[43] Ibid at page 10.
+[44] [1964] CTC 504, 64 DTC 5301 (Ex Ct) at paragraph 10 [Buckerfield’s].
+[45] [1967] SCR 223, [1967] CTC 50 at pages 227 to 228.
+[46] [1998] 1 SCR 795, [1998] 3 CTC 303 at paragraph 35 [Duha SCC].
+[47] Duha FCA, supra note 8 at paragraph 5.
+[48] Strain, Dodge et al., supra note 39 at page 4:52.
+[49] Ibid at page 4:53.
+[50] Report of the Technical Committee on Business Taxation (Ottawa: Department of Finance, 1997).
+[51] Ibid at page 4.15.
+[52] Ibid.
+[53] OSFC Holdings, supra note 8 at paragraphs 85-98.
+[54] Mathew, supra note 8 at paragraph 49.
+[55] Anu Nijhawan, “When is Loss Trading Permissible? A Purposive Analysis of Subsection 111(5)”, 2015 Conference Report (Toronto: Canadian Tax Foundation, 2016) 9:1-26.
+[56] An Act to amend the Income Tax Act, the Canada Pension Plan, the Unemployment Insurance Act, 1971, the Federal-Provincial Fiscal Arrangements and Federal Post-Secondary Education and Health Contributions Act, 1977 and certain related Acts, SC 1988, c 55, s 192(1) [the 1988 Amending Legislation].
+[57] The 1988 Amending Legislation at subsection 192(3).
+[58] See subparagraph 40(2)(e)(i), subparagraph 40(2)(e)(ii), paragraph 40(2)(h), paragraph 87(2)(kk), paragraphs 256(l)(a) to (e), and subsection 256(6) of the Act, which were added by subsections 21(3), 21(4), 60(12), 192(1) and 192(4) of the 1988 Amending Legislation, respectively.
+[59] See paragraph 69(6)(c), paragraph 69(7)(c), paragraph 89(l)(f), paragraph 95(l)(a), subsection 186(1), and paragraph (b) of the definition “term preferred share” in subsection 248(1) of the Act, which were added by subsections 48(1), 48(2), 62(4), 65(1), 151(1) and 188(8) of the 1988 Amending Legislation, respectively.
+[60] See clause 40(2)(a)(ii)(A), (B) and (C), and paragraph 44(7)(b) of the Act, which were added by subsections 21(2) and 24(1) of the 1988 Amending Legislation, respectively.
+[61] See subsection 256(1.2)(c) of the Act, which was added by subsection 192(1) of the 1988 Amending Legislation.
+[62] Duha SCC, supra note 46 at paragraph 85.
+[63] Ibid at paragraph 58.
+[64] Ibid at paragraph 36.
+[65] Ibid at paragraph 52.
+[66] Cass R. Sunstein, “Problems with Rules” (1995) 83:4 Cal L Rev 953 at pages 972 to 974.
+[67] Ibid at page 976.
+[68] Ibid at page 977.
+[69] Duha SCC, supra note 46 at paragraphs 36-37. The Supreme Court held, in the circumstances of Duha, that effective control flowed from a unanimous shareholders agreement, not from ownership of voting shares: paragraph 70.
+[70] Mathew, supra note 8 at paragraph 49.
+[71] Duha FCA, supra note 8 at paragraph 5.
+[72] Canada Trustco, supra note 1.
+[73] Ibid at paragraphs 41-42.
+[74] Mathew, supra note 8 at paragraphs 48-49.
+[75] 2013 TCC 12, 2013 DTC 1147 at paragraph 14, aff’d 2014 FCA 267, [2015] 4 CTC 33 [Lyrtech].
+[76] Deans Knight, supra note 7 at paragraph 134.
+[77] Ibid at paragraph 131.
+[78] Ibid at paragraph 133.
+[79] Ibid at paragraph 120.
+[80] Duha SCC, supra note 46 at paragraph 70.
+[81] 2013 TCC 86, [2013] 4 CTC 2035 at paragraph 59.
+[82] Canada Trustco, supra note 1 at paragraphs 41 and 42.
+[83] Deans Knight, supra note 7 at paragraph 134.
+[84] The FCA’s decision in Duha states that subsection 111(5) quarantines losses to the corporations that created them to prevent loss sharing that can result from “inappropriate corporate manipulation.”
+[85] Deans Knight, supra note 7 at paragraph 139.
+[86] Ibid at paragraph 147.
+[87] In Deans Knight, whether a tax plan could still go forward if the taxpayer did not have effective control of the MMV was a factor in Justice Paris’ analysis.

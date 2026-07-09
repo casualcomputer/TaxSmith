@@ -1,0 +1,362 @@
+---
+title: "Kondur c.  La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/127118/index.do"
+last_modified: "2015-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 318"
+citation2: ""
+neutral_citation: "2015 CCI 318"
+decision_date: "2015-12-09"
+language: "fr"
+item_id: "127118"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2872
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:14:36.594000+00:00"
+cases_cited_count: 7
+cases_citing_count: 8
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "18f89e8fe062afee4e1661faa0b584640a1a787c50426b17b3b85abc9453e57b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kondur c.  La Reine
+
+- Citation: 2015 CCI 318
+- Decision date: 2015-12-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2872, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kondur c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-12-09
+Référence neutre
+2015 CCI 318
+Numéro de dossier
+2010-3649(IT)G, 2010-3652(IT)G, 2010-3653(IT)G, 2010-3655(IT)G, 2010-3656(IT)G
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-3649(IT)G
+ENTRE :
+JOHN NOLASCO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par conférence téléphonique le 25 septembre 2015, à Ottawa (Ontario)
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocats de l'appelant :
+Me Philip Aspler
+Me Alexandre Lavoie
+Avocats de l'intimée :
+Me Philippe Dupuis
+Me Christina Ham
+ORDONNANCE
+ATTENDU QUE l'appelant a déposé une requête en vue d'être autorisé à déposer un avis d'appel modifié une troisième fois suivant l'article 54 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »);
+ATTENDU QUE l'intimée s'est opposée à la requête;
+VU les observations orales des avocats de l'appelant et des avocats de l'intimée;
+VU les observations écrites des parties;
+LA COUR ORDONNE que l'appelant ne soit pas autorisé à déposer un avis d'appel modifié une troisième fois. La requête est rejetée.
+LA COUR ORDONNE ÉGALEMENT que l'appelant, s'il souhaite toujours modifier son avis d'appel, puisse le faire aux conditions suivantes :
+a) l'avis d'appel modifié proposé doit être conforme aux Règles; il doit énoncer des faits pertinents et soulever une cause d'action;
+b) l'avis d'appel modifié proposé doit être remis aux avocats de l'intimée au plus tard le 29 janvier 2016;
+c) si les avocats de l'intimée s'opposent au dépôt de l'avis d'appel modifié proposé, l'appelant doit déposer une requête à la Cour suivant l'article 54 des Règles au plus tard le 19 février 2016.
+La Cour adjuge à l'intimée un mémoire de dépens pour les présentes requêtes, à payer sur‑le‑champ.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2015.
+« V.A. Miller »
+La juge V.A. Miller
+Dossier : 2010-3652(IT)G
+ENTRE :
+JOSEPH LAUZON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par conférence téléphonique le 25 septembre 2015, à Ottawa (Ontario)
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocats de l'appelant :
+Me Philip Aspler
+Me Alexandre Lavoie
+Avocats de l'intimée :
+Me Philippe Dupuis
+Me Christina Ham
+ORDONNANCE
+ATTENDU QUE l'appelant a déposé une requête en vue d'être autorisé à déposer un avis d'appel modifié une troisième fois suivant l'article 54 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »);
+ATTENDU QUE l'intimée s'est opposée à la requête;
+VU les observations orales des avocats de l'appelant et des avocats de l'intimée;
+VU les observations écrites des parties;
+LA COUR ORDONNE que l'appelant ne soit pas autorisé à déposer un avis d'appel modifié une troisième fois. La requête est rejetée.
+LA COUR ORDONNE ÉGALEMENT que l'appelant, s'il souhaite toujours modifier son avis d'appel, puisse le faire aux conditions suivantes :
+a) l'avis d'appel modifié proposé doit être conforme aux Règles; il doit énoncer des faits pertinents et soulever une cause d'action;
+b) l'avis d'appel modifié proposé doit être remis aux avocats de l'intimée au plus tard le 29 janvier 2016;
+c) si les avocats de l'intimée s'opposent au dépôt de l'avis d'appel modifié proposé, l'appelant doit déposer une requête à la Cour suivant l'article 54 des Règles au plus tard le 19 février 2016.
+La Cour adjuge à l'intimée un mémoire de dépens pour les présentes requêtes, à payer sur‑le‑champ.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2015.
+« V.A. Miller »
+La juge V.A. Miller
+Dossier : 2010-3653(IT)G
+ENTRE :
+THOMAS SCHONBERG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par conférence téléphonique le 25 septembre 2015, à Ottawa (Ontario)
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocats de l'appelant :
+Me Philip Aspler
+Me Alexandre Lavoie
+Avocats de l'intimée :
+Me Philippe Dupuis
+Me Christina Ham
+ORDONNANCE
+ATTENDU QUE l'appelant a déposé une requête en vue d'être autorisé à déposer un avis d'appel modifié une troisième fois suivant l'article 54 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »);
+ATTENDU QUE l'intimée s'est opposée à la requête;
+VU les observations orales des avocats de l'appelant et des avocats de l'intimée;
+VU les observations écrites des parties;
+LA COUR ORDONNE que l'appelant ne soit pas autorisé à déposer un avis d'appel modifié une troisième fois. La requête est rejetée.
+LA COUR ORDONNE ÉGALEMENT que l'appelant, s'il souhaite toujours modifier son avis d'appel, puisse le faire aux conditions suivantes :
+a) l'avis d'appel modifié proposé doit être conforme aux Règles; il doit énoncer des faits pertinents et soulever une cause d'action;
+b) l'avis d'appel modifié proposé doit être remis aux avocats de l'intimée au plus tard le 29 janvier 2016;
+c) si les avocats de l'intimée s'opposent au dépôt de l'avis d'appel modifié proposé, l'appelant doit déposer une requête à la Cour suivant l'article 54 des Règles au plus tard le 19 février 2016.
+La Cour adjuge à l'intimée un mémoire de dépens pour les présentes requêtes, à payer sur‑le‑champ.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2015.
+« V.A. Miller »
+La juge V.A. Miller
+Dossier : 2010-3655(IT)G
+ENTRE :
+JOHN KONDUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par conférence téléphonique le 25 septembre 2015, à Ottawa (Ontario)
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocats de l'appelant :
+Me Philip Aspler
+Me Alexandre Lavoie
+Avocats de l'intimée :
+Me Philippe Dupuis
+Me Christina Ham
+ORDONNANCE
+ATTENDU QUE l'appelant a déposé une requête en vue d'être autorisé à déposer un avis d'appel modifié une troisième fois suivant l'article 54 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »);
+ATTENDU QUE l'intimée s'est opposée à la requête;
+VU les observations orales des avocats de l'appelant et des avocats de l'intimée;
+VU les observations écrites des parties;
+LA COUR ORDONNE que l'appelant ne soit pas autorisé à déposer un avis d'appel modifié une troisième fois. La requête est rejetée.
+LA COUR ORDONNE ÉGALEMENT que l'appelant, s'il souhaite toujours modifier son avis d'appel, puisse le faire aux conditions suivantes :
+a) l'avis d'appel modifié proposé doit être conforme aux Règles; il doit énoncer des faits pertinents et soulever une cause d'action;
+b) l'avis d'appel modifié proposé doit être remis aux avocats de l'intimée au plus tard le 29 janvier 2016;
+c) si les avocats de l'intimée s'opposent au dépôt de l'avis d'appel modifié proposé, l'appelant doit déposer une requête à la Cour suivant l'article 54 des Règles au plus tard le 19 février 2016.
+La Cour adjuge à l'intimée un mémoire de dépens pour les présentes requêtes, à payer sur‑le‑champ.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2015.
+« V.A. Miller »
+La juge V.A. Miller
+Dossier : 2010-3656(IT)G
+ENTRE :
+MICHAEL ZUROWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue par conférence téléphonique le 25 septembre 2015, à Ottawa (Ontario)
+Devant : L'honorable juge Valerie Miller
+Comparutions :
+Avocats de l'appelant :
+Me Philip Aspler
+Me Alexandre Lavoie
+Avocats de l'intimée :
+Me Philippe Dupuis
+Me Christina Ham
+ORDONNANCE
+ATTENDU QUE l'appelant a déposé une requête en vue d'être autorisé à déposer un avis d'appel modifié une troisième fois suivant l'article 54 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »);
+ATTENDU QUE l'intimée s'est opposée à la requête;
+VU les observations orales des avocats de l'appelant et des avocats de l'intimée;
+VU les observations écrites des parties;
+LA COUR ORDONNE que l'appelant ne soit pas autorisé à déposer un avis d'appel modifié une troisième fois. La requête est rejetée.
+LA COUR ORDONNE ÉGALEMENT que l'appelant, s'il souhaite toujours modifier son avis d'appel, puisse le faire aux conditions suivantes :
+a) l'avis d'appel modifié proposé doit être conforme aux Règles; il doit énoncer des faits pertinents et soulever une cause d'action;
+b) l'avis d'appel modifié proposé doit être remis aux avocats de l'intimée au plus tard le 29 janvier 2016;
+c) si les avocats de l'intimée s'opposent au dépôt de l'avis d'appel modifié proposé, l'appelant doit déposer une requête à la Cour suivant l'article 54 des Règles au plus tard le 19 février 2016.
+La Cour adjuge à l'intimée un mémoire de dépens pour les présentes requêtes, à payer sur‑le‑champ.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2015.
+« V.A. Miller »
+La juge V.A. Miller
+Référence : 2015 CCI 318
+Date : 20151209
+Dossier : 2010-3649(IT)G
+ENTRE :
+JOHN NOLASCO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-3652(IT)G
+ET ENTRE :
+JOSEPH LAUZON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-3653(IT)G
+ET ENTRE :
+THOMAS SCHONBERG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-3655(IT)G
+ET ENTRE :
+JOHN KONDUR,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2010-3656(IT)G
+ET ENTRE :
+MICHAEL ZUROWSKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+La juge V.A. Miller
+[1] Les appelants ont présenté une requête en vue d'être autorisés à déposer un avis d'appel modifié une troisième fois (l'« acte de procédure proposé ») suivant l'article 54 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles »). L'audition de la requête s'est faite par conférence téléphonique.
+[2] Voici les circonstances qui ont donné naissance aux présents appels.
+[3] Selon les actes de procédure qui ont été déposés, chacun des appelants a acquis des parts dans une ou dans plusieurs des sociétés en commandite de Guidepost Exploration and Mining (les « sociétés en commandite Guidepost »). Ils ont payé une partie du coût par chèque, puis ont financé le solde au moyen d'un billet à ordre.
+[4] Selon les notices d'offre, les sociétés en commandite devaient utiliser le produit net de la vente des parts pour payer des frais d'exploration au Canada (« FEC ») et, uniquement dans le cas de la société en commandite Guidepost no 9, des frais d'aménagement au Canada (« FAC »). Douglas Stewart Scott était le principal promoteur des sociétés en commandite Guidepost. Il a déclaré aux appelants qu'ils pourraient réclamer une déduction dans leur déclaration de revenus pour leur part proportionnelle de toute dépense liée aux FEC ou aux FAC.
+[5] Tous les appelants, sauf M. Nolasco, ont fait l'objet d'une nouvelle cotisation dans laquelle leurs déductions pour les FEC ou les FAC ont été refusées. M. Nolasco et M. Schonberg avaient déclaré des frais d'intérêts concernant les sociétés en commandite Guidepost, qui leur ont été refusés dans les nouvelles cotisations. Le ministre du Revenu national (le « ministre ») a refusé la réclamation de déductions pour les FEC et les FAC au motif que les parts des sociétés en commandite Guidepost constituaient un « abri fiscal » au sens du paragraphe 237.1(1) de la Loi de l'impôt sur le revenu (la « LIR ») et qu'aucune déduction n'était permise au titre du paragraphe 237.1(6) pour ces parts, étant donné que les promoteurs n'avaient pas demandé ni obtenu de numéro d'identification d'abri fiscal pour l'une ou l'autre des sociétés en commandite Guidepost. Dans la réponse, le ministre a fait valoir, à titre subsidiaire, que les sociétés en commandite Guidepost n'ont pas engagé des FEC ou des FAC, parce qu'elles n'existaient pas, et donc n'exploitaient pas une entreprise.
+[6] Dans les avis d'appel initiaux et dans les répliques aux réponses, les appelants ont soutenu que les sociétés en commandite Guidepost avaient engagé des FEC et des FAC et que le ministre avait tort de ne pas leur accorder de déduction.
+[7] Les actes de procédure proposés peuvent être qualifiés plus exactement de « nouveaux avis d'appel ». Les appelants n'ont pas simplement ajouté des paragraphes à l'avis d'appel initial : ils l'ont complètement transformé. La section « Faits pertinents » s'appelle maintenant [TRADUCTION] « Faits relatifs à l'affaire ». La plupart des faits pertinents qui figuraient dans les avis d'appel initiaux ne se trouvent plus dans les actes de procédure proposés, de nouveaux faits y sont allégués, de nouvelles questions y sont soulevées et de nouvelles dispositions de la LIR y sont invoquées.
+La thèse des appelants [8] Au moment du dépôt des avis d'appel à la Cour, en juin 2011, l'avocat des appelants était Me Roger Smith. Leur avocat actuel, Me Philip Aspler, a été inscrit aux dossiers en avril et en mai 2013. Il a déclaré que le cabinet de l'avocat précédent avait été cambriolé et que tous les documents liés aux sociétés en commandite Guidepost avaient été perdus, de sorte que les appelants n'avaient plus de dossiers. Les avocats de l'intimée ont remis à Me Aspler vingt boîtes de documents, et c'est grâce à cette divulgation qu'il a pu apprécier pour la première fois la complexité des questions au cœur des présents appels.
+[9] Selon Me Aspler, les actes de procédure qui avaient été déposés pour les appelants ne décrivaient pas les circonstances personnelles et la thèse de chacun d'eux. Il a déclaré que les actes de procédure proposés remédiaient à cette situation.
+La thèse de l'intimée [10] L'intimée s'est opposée au dépôt des actes de procédure proposés au motif que les appelants n'avaient pas respecté diverses dispositions pertinentes des Règles. L'intimée prétend aussi que les actes de procédure sont lacunaires, puisqu'ils n'allèguent pas de faits pertinents aux questions soulevées. L'intimée affirme que les actes de procédure proposés ne soulèvent pas de cause d'action.
+[11] Pour renvoyer à des parties précises des actes de procédure proposés, j'utiliserai comme exemple l'acte de procédure de Michael Zurowski.
+Le droit La modification des actes de procédure [12] L'article 54 des Règles permet de modifier des actes de procédure avec le consentement de l'autre partie, ou sans son consentement avec l'autorisation de la Cour. La règle générale est qu'une modification devrait être permise à toute étape d'une instance en vue de trancher les vraies questions en litige entre les parties, pourvu que cette permission ne crée pas pour l'autre partie une injustice qui ne peut être redressée par l'adjudication de dépens : Canderel Ltée c. Canada, [1994] 1 C.F. 3, au paragraphe 10.
+[13] Dans des circonstances comme celles de la présente affaire, où le fait de modifier un acte de procédure consiste notamment à ajouter des faits et de nouvelles questions, la Cour doit supposer que les faits énoncés dans les actes de procédure proposés sont vrais. Les modifications ne seront rejetées que si la Cour détermine qu'il est « évident et manifeste » qu'elles ne révèlent « aucune cause d'action raisonnable » : Hunt c. Carey Canada Inc., [1990] 2 R.C.S. 959, aux pages 979 et 980 (paragraphes 30 et 34).
+[14] Dans une requête en modification d'un acte de procédure, il revient au juge de la requête d'évaluer les éléments essentiels des modifications proposées afin de s'assurer qu'elles se conforment aux exigences de base des Règles concernant les actes de procédure. Une modification proposée à un acte de procédure qui, selon son libellé, ne soulève pas une cause d'action ne sera pas permise : voir Canada c. Fluevog, 2011 CAF 338.
+[15] Je ne peux examiner la preuve lorsque je dois décider de permettre ou non le dépôt des actes de procédure proposés comme ils ont été présentés. Dans Romanuk c. La Reine, 2013 CAF 133, au paragraphe 5, le juge Webb s'est exprimé ainsi :
+[...] Comme les faits allégués doivent être tenus pour avérés, il n'est pas nécessaire que le juge examine le moindre élément qui peut avoir été présenté à leur appui pour se prononcer sur l'opportunité de la modification. Si de tels éléments de preuve ont été produits à cette fin, le juge ne doit pas en tenir compte pour décider s'il faut autoriser la modification.
+Analyse Inobservation des Règles [16] Les appelants n'ont pas observé les articles 48 et 132 des Règles dans la rédaction des actes de procédure proposés.
+[17] L'article 48 des Règles exige que l'avis d'appel se conforme à la formule 21(1)a), qui, à son tour, dispose que l'avis d'appel doit énumérer les faits pertinents qui servent de fondement à l'appel, préciser les points en litige, mentionner les dispositions législatives sur lesquelles l'appel est fondé, énoncer les moyens sur lesquels l'appelant entend se fonder et indiquer les conclusions recherchées. Ces consignes sont de rigueur.
+[18] Les actes de procédure proposés ne contiennent pas l'en‑tête précis requis par la formule 21(1)a) pour les faits, mais cela peut néanmoins être considéré comme une irrégularité. Les appelants n'ont pas utilisé le mode de renvoi approprié pour les dispositions légales. Par exemple, ils disent s'appuyer sur les paragraphes 12.6, 12.601, 12.62, 12.63, 14.2, 14.3, 15, 38b, 38c, 39(1)b, 50.(1), 66.25E, 96.1 et 169 de la LIR, et je trouve qu'il est impossible de déterminer avec exactitude les dispositions sur lesquelles ils s'appuient.
+[19] Plus important encore, les appelants n'ont pas donné les moyens sur lesquels ils entendaient se fonder. L'intimée et la Cour doivent toutes deux deviner quelles thèses les appelants feront valoir à l'audience des présents appels. Selon la procédure générale, l'avis d'appel, ou toute version modifiée de celui‑ci, doit obligatoirement contenir tous les renseignements prescrits à la formule 21(1)a) : Okoroze c. La Reine, 2012 CCI 360. Il ne s'agit pas que d'une simple formalité. Ces exigences visent à s'assurer que les points en litige sont définis de façon appropriée pour la communication préalable et l'instruction, de façon à ce que l'intimée sache à quels arguments elle doit répondre : Bibby c. La Reine, 2009 CCI 588.
+[20] L'article 132 des Règles dispose qu'un aveu dans un acte de procédure peut être rétracté avec le consentement des parties ou l'autorisation de la Cour. Il se lit ainsi :
+132. Avec le consentement des parties ou l'autorisation de la Cour, une partie peut rétracter soit un aveu contenu dans une réponse à une demande d'aveux, soit un aveu présumé ou un aveu figurant dans un acte de procédure d'une partie.
+[21] Le critère pour établir si une partie peut rétracter un aveu a été énoncé au paragraphe 13 du jugement Andersen Consulting c. Canada, [1998] 1 C.F. 605 (C.A.F.) :
+[...] dans toutes les circonstances de la cause, il doit y avoir un point jugeable, qui devrait passer en jugement dans l'intérêt de la justice et qui ne devrait pas se résoudre par une admission de fait. Selon ce critère, l'inadvertance, l'erreur, la précipitation, l'ignorance des faits, la découverte de faits nouveaux, et l'introduction en temps opportun de la requête sont autant de facteurs à prendre en considération pour examiner s'il ressort des circonstances qu'il y a un point jugeable, lequel devrait passer en jugement dans l'intérêt de la justice.
+[22] Les appelants ont rétracté de nombreux aveux qui figuraient dans leurs avis d'appel. Pour ce faire, ils n'ont demandé ni le consentement de l'intimée, ni l'autorisation de la Cour. Dans les circonstances de la présente affaire, je ne peux établir si les appelants répondent au critère pour rétracter des admissions, parce qu'ils n'en ont pas expliqué la raison.
+[23] Les appelants ne peuvent retirer les aveux faits dans l'avis d'appel, sauf en suivant l'article 132 des Règles.
+[24] Les appelants doivent se conformer aux Règles de la Cour qui portent sur les actes de procédure. Or, ils ne l'ont pas fait, et ceci porte un coup fatal à leur requête en autorisation de déposer les actes de procédure proposés : voir Simon c. Canada, 2011 CAF 6, au paragraphe 17.
+Les actes de procédure proposés sont‑ils lacunaires? [25] C'est le juge Bowie, au paragraphe 4 du jugement Zelinski c. La Reine, 2001 CanLII 406, qui a le mieux expliqué l'objectif des actes de procédure. Il a déclaré :
+4 L'acte de procédure a pour but de définir les questions faisant l'objet du litige entre les parties aux fins de production et de communication préalable ainsi qu'en prévision du procès. Il incombe aux parties de présenter un exposé concis des faits pertinents sur lesquels elles se fondent. Les faits pertinents sont ceux qui, dans l'éventualité où ils sont établis au cours du procès, concourront à démontrer que la partie ayant déposé l'acte de procédure a droit au redressement demandé. De façon générale, il convient que la modification d'un acte de procédure soit autorisée, dans la mesure où cela n'est pas préjudiciable à l'autre partie — qui n'a pas droit à une contrepartie sous forme de dépens ou sous une autre forme —, les Règles visant à assurer, dans la mesure du possible, un procès équitable portant sur les vraies questions en litige entre les parties. [Non souligné dans l'original.]
+5 Le principe applicable est formulé ainsi par Holmsted et Watson :
+[TRADUCTION]
+Il s'agit de la grande règle en matière d'actes de procédure; toutes les autres règles sont essentiellement des règles accessoires ou des réserves à cette règle de base selon laquelle le plaideur doit exposer les faits pertinents sur lesquels il fonde sa demande ou sa défense. La règle comporte quatre composantes distinctes : (1) chaque acte de procédure doit exposer des faits et non pas simplement des conclusions de droit; (2) il doit exposer les faits pertinents et ne pas contenir de faits dénués de pertinence; (3) il doit exposer des faits, non les éléments de preuve qui serviront à étayer ces faits; (4) il doit exposer les faits avec concision.
+(1) Faits non pertinents [26] Chacun des actes de procédure proposés est rempli de faits non pertinents aux questions soulevées. Voici des exemples de faits non pertinents allégués par M. Zurowski :
+[TRADUCTION]
+20. En faisant ce placement, l'appelant espérait réaliser un profit dans l'éventualité où le travail d'exploration ou d'aménagement auquel il avait contribué mènerait à la découverte d'un gisement de minerai susceptible de générer un profit pour les commanditaires tels que lui.
+21. Il s'était aussi fait assurer que le promoteur s'était conformé à toutes les exigences relatives aux dépôts et aux enregistrements, et qu'il continuerait à le faire.
+22. De plus, l'appelant s'était attendu à recevoir des renseignements opportuns et exacts à propos de ses placements, ce qu'il n'a pas obtenu.
+23. Tout au long de sa vie active, l'appelant a travaillé comme ingénieur minier.
+24. Avant d'investir dans les sociétés en commandite nos 9, 10, 12 et 14, l'appelant avait examiné le contenu des circulaires d'information et croyait au bien‑fondé des projets qui y étaient décrits.
+25. En fait, fort de son expérience professionnelle considérable, l'appelant a jugé crédibles et éventuellement lucratifs les divers projets qui y étaient décrits.
+[27] Avec égards, même si ces faits sont avérés, ils n'auraient aucune incidence sur la validité des nouvelles cotisations.
+(2) Questions soulevées [28] Monsieur Zurowski a soulevé dix questions dans son acte de procédure proposé. J'aborderai chacune d'elles à tour de rôle.
+[29] Les appelants ont fait l'objet de nouvelles cotisations pour la raison qu'ils n'étaient pas admissibles aux déductions de FEC ou de FAC. Dans son acte de procédure proposé, M. Zurowski soulève cette question en ces termes :
+[TRADUCTION]
+33. Le MRN a‑t‑il eu tort de refuser les dépenses liées aux FEC et aux FAC que l'appelant a déclarées pour ses années d'imposition 2001, 2002, 2003, 2004, 2005 et 2006 pour ses placements dans les sociétés en commandite nos 9, 10, 12 et 14 pendant ces années?
+[30] Les appelants déclarent avoir acheté des parts dans les sociétés en commandite Guidepost. Toutefois, pour qu'ils aient droit à une déduction pour les FEC et les FAC, il fallait d'abord que les sociétés aient payé des FEC ou des FAC et que ces dépenses aient été transférées proportionnellement aux appelants. Aucune allégation de fait dans les actes de procédure proposés n'allègue que les sociétés en commandite Guidepost ont payé des FEC ou des FAC. De même, aucun fait n'allègue que les appelants ont le droit de déduire leur part proportionnelle de FEC ou de FAC.
+[31] Voici ce que les avocats de l'intimée ont fait observer par écrit concernant cette question :
+[TRADUCTION]
+55. En l'absence d'allégations de fait selon lesquelles les sociétés en commandite Guidepost ont effectivement payé des FEC ou des FAC, les appelants ne peuvent avoir droit à des déductions pour des FEC ou des FAC pour les années d'imposition en question. Il ne suffit pas de déclarer vaguement qu'on leur a fait des déclarations ou qu'ils y croyaient. Les nouveaux avis d'appel modifiés une troisième fois ne se conforment donc pas aux Règles et ne révèlent pas de cause d'action raisonnable quant à cette question.
+[32] Je suis d'accord avec ces observations. Aucun fait pertinent allégué ne soulève de cause d'action concernant le droit des appelants à une déduction au titre de FEC ou de FAC. Les actes de procédure proposés ne contiennent aucun fait qui, avéré, permettrait à la Cour d'annuler ou de modifier les nouvelles cotisations quant à cette question.
+[33] Dans leur nouvelle cotisation, MM. Schonberg et Nolasco se sont tous deux vu refuser la déduction de frais d'intérêts relativement aux sociétés en commandite Guidepost. Ils ont tous deux soulevé cette question, mais aucun d'eux n'a allégué avoir payé des frais d'intérêts. M. Schonberg a affirmé que la déduction des frais d'intérêts [TRADUCTION] « se conformait » aux [TRADUCTION] « exigences pertinentes » du ministre. Il s'agit là d'une simple déclaration qui ne repose sur aucun fait : AstraZeneca Canada Inc. c. Novopharm Limited, 2010 CAF 112, Merchant Law Group c. Agence du revenu du Canada, 2010 CAF 184.
+[34] Les appelants ont également énuméré des questions de fait à trancher dans leurs appels. M. Zurowski les a présentées ainsi :
+[TRADUCTION]
+35. Combien d'argent réel l'appelant a‑t‑il placé dans les sociétés en commandite nos 9, 10, 12 et 14?
+36. À combien s'élève le risque financier de l'appelant résultant du billet à ordre à recours illimité qu'il a signé lors de ses placements?
+37. Qu'a fait Douglas Stewart Scott des placements des appelants?
+38. Le promoteur, Douglas Stewart Scott, a‑t‑il réellement effectué des travaux tombant dans la portée des FEC et des FAC admissibles avec les produits des placements de l'appelant?
+39. Le promoteur, Douglas Stewart Scott, a‑t‑il réellement placé l'argent investi par l'appelant dans Guidepost Resources Inc., une « société fermée » constituée en vertu de la législation du Québec qui était, pendant la période en cause, une entreprise privée sous contrôle canadien?
+[35] En ce qui concerne les questions 35 et 36, les appelants devraient savoir combien ils ont placé dans les sociétés en commandite Guidepost. Ces éléments ne devraient pas être soulevés dans les actes de procédure comme questions; les réponses devraient figurer parmi les faits pertinents.
+[36] Les questions 37, 38 et 39 pourraient être pertinentes, mais les actes de procédure proposés n'en font pas ressortir la pertinence. Il n'y a aucune allégation de fait concernant ces questions, et rien ne permet d'en établir la pertinence.
+[37] Les appelants ont affirmé, à titre subsidiaire, qu'ils avaient [TRADUCTION] « le droit que leur placement en argent réel et la fraction “à risques” de leurs billets à ordre » soient reconnus comme une perte déductible au titre d'un placement d'entreprise (PDTPE) ou une perte en capital. Ils ont toutefois omis d'alléguer des faits (pertinents ou autres) ou des motifs qui leur permettraient de déclarer une PDTPE ou une perte en capital. Lors d'un appel, la Couronne, tout comme les appelants, a le droit de connaître les faits sur lesquels l'autre partie s'appuie pour étayer une question. Si les actes de procédure ne contiennent aucun fait à l'appui d'une question, celle‑ci sera radiée.
+[38] Les appelants ont également affirmé, à titre subsidiaire, que leurs [TRADUCTION] « placements en argent réel » devraient être considérés comme une « créance irrécouvrable ». Le seul fait allégué dans les actes de procédure proposés concernant une créance irrécouvrable se lit ainsi :
+[TRADUCTION]
+32. Au vu de la cessation des activités des sociétés en commandite Guidepost et de Guidepost Resource Inc., l'argent que l'appelant a investi peut être considéré comme une « créance irrécouvrable ».
+[39] Cet énoncé n'est rien de plus qu'une conclusion dépourvue de faits réels pour l'étayer. Cette simple affirmation d'une conclusion ne constitue pas un fait pertinent allégué : Vojic c. Ministre du Revenu national, [1987] A.C.F. no 811 (QL), Merchant Law Group, précité.
+[40] Les actes de procédure proposés sont entièrement lacunaires. Ils contiennent peu de faits pertinents et aucun des faits allégués, s'il était avéré, ne permettrait à un tribunal de modifier ou d'annuler les nouvelles cotisations. Ils n'ont pas soulevé de cause d'action pour l'une ou l'autre des questions soulevées dans les actes de procédure.
+Conclusion [41] Il est évident et manifeste que les actes de procédure proposés ne soulèvent pas de cause d'action, et je n'autoriserai pas leur dépôt à la Cour. Toutefois, si les appelants souhaitent modifier leurs avis d'appel, ils peuvent le faire aux conditions suivantes :
+a) les avis d'appel modifiés proposés doivent être conformes aux Règles; ils doivent énoncer des faits pertinents et soulever une cause d'action;
+b) les avis d'appel modifiés proposés doivent être remis aux avocats de l'intimée au plus tard le 29 janvier 2016;
+c) si les avocats de l'intimée s'opposent au dépôt des avis d'appel modifiés proposés, les appelants doivent déposer une requête à la Cour suivant l'article 54 des Règles au plus tard le 19 février 2016.
+[42] Les requêtes des appelants en dépôt des actes de procédure proposés sont rejetées. La Cour adjuge à l'intimée un mémoire de dépens pour les présentes requêtes, à payer sur‑le‑champ.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2015.
+« V.A. Miller »
+La juge V.A. Miller
+RÉFÉRENCE :
+2015 CCI 318
+NOS DES DOSSIERS DE LA COUR :
+2010‑3649(IT)G, 2010‑3652(IT)G, 2010‑3653(IT)G, 2010-3655(IT)G, 2010‑3656(IT)G
+INTITULÉS :
+JOHN NOLASCO, JOSEPH LAUZON, THOMAS SCHONBERG, JOHN KONDUR, MICHAEL ZUROWSKI ET LA REINE
+LIEU DE L'AUDIENCE :
+Ottawa (Ontario)
+DATE DE L'AUDIENCE :
+Le 25 septembre 2015
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge Valerie Miller
+DATE DE L'ORDONNANCE :
+Le 9 décembre 2015
+COMPARUTIONS :
+Avocats des appelants :
+Me Philip Aspler
+Me Alexandre Lavoie
+Avocats de l'intimée :
+Me Philippe Dupuis
+Me Christina Ham
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Noms :
+Me Philip Aspler
+Me Alexandre Lavoie
+Cabinet :
+Aspler & Associés
+Pour l'intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

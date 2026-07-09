@@ -1,0 +1,169 @@
+---
+title: "Jenner v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25862/index.do"
+last_modified: "2003-08-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 580"
+citation2: ""
+neutral_citation: "2003 CCI 580"
+decision_date: "2003-08-14"
+language: "fr"
+item_id: "25862"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3856
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:51:56.481000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6755ac71a2c565a398d5876342bdabef341b5612b2f86f66b89cfe363e97d04d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Jenner v. The Queen
+
+- Citation: 2003 CCI 580
+- Decision date: 2003-08-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3856, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jenner v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-08-14
+Référence neutre
+2003 CCI 580
+Numéro de dossier
+2002-2163(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-2163(IT)I
+ENTRE :
+WILLIAM ALLEN JENNER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+__________________________________________________________________
+Appel entendu le 6 août 2003, à North Bay (Ontario).
+Devant : L'honorable juge en chef adjoint D. G. H. Bowman
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Joanna Hill
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 est rejeté.
+Signé à Victoria (Colombie-Britannique), ce 14e jour d'août 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 29e jour d'avril 2005.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI580
+Date: 20030814
+Dossier: 2002-2163(IT)I
+ENTRE :
+WILLIAM ALLEN JENNER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Il s'agit de l'appel d'une cotisation de l'appelant pour l'année d'imposition 2000.
+[2] M. Jenner travaille comme électricien. Il résidait à ce moment-là (et réside toujours) à Sturgeon Falls, en Ontario.
+[3] En l'an 2000, il a été au service de quatre employeurs dans cinq chantiers ontariens, dans l'ordre suivant :
+Ontario Electric pour le projet Y.M.C.A.
+à Sudbury (Ontario)
+(du 28 février 2000 au 20 juillet 2000)
+Smith & Long au 100, avenue University,
+Toronto (Ontario)
+(du 24 juillet 2000 au 1er septembre 2000)
+Smith & Long au 939, avenue Eglinton est,
+Toronto (Ontario)
+(du 4 septembre 2000 au 15 septembre 2000)
+Brothers & Wright pour le projet Linen & Things,
+Mississauga (Ontario)
+(du 10 octobre 2000 au 13 octobre 2000)
+Graywood Electric pour le projet Cara Food-Airport
+Infield, Toronto (Ontario)
+(du 16 octobre 2000 au 31 décembre 2000)
+[4] En produisant sa déclaration de revenus pour l'année 2000, M. Jenner a déduit la somme de 9 783,75 $ pour des frais relatifs à un emploi. Il a calculé ce montant de la façon suivante :
+Frais judiciaires et comptables
+90,95 $
+Frais de véhicule à moteur déductibles
+6 072,80
+Nourriture, boissons et logement
+4 200,00 $ à 50 %
+2 100,00
+Fournitures - papeterie
+1 520,00
+9 783,75 $
+[5] Dans son avis d'appel, M. Jenner a porté la somme à déduire à 13 788,23 $, mais il a, au procès, laissé tomber la différence.
+[6] L'intimée ne conteste pas que les sommes inscrites dans la déclaration de revenus aient été effectivement dépensées. Le litige porte sur la déductibilité de ces sommes.
+[7] M. Jenner a présenté son argument avec aisance et habileté. Je ne peux faire mieux que de reproduire ici une partie de son argument écrit, que voici :
+[TRADUCTION]
+Dans les dispositions concernant les « chantiers particuliers » , il n'est pas nécessaire de travailler ailleurs qu'au lieu d'affaires de l'employeur. La disposition se fonde plutôt sur le lieu de résidence principal du contribuable dont on ne pouvait raisonnablement s'attendre à ce qu'il y retourne quotidiennement étant donné la distance entre l'établissement et le chantier.
+Pour ce qui est de mon emploi chez Ontario Electric à Sudbury, en Ontario, bien que cet emploi ait satisfait à toutes les conditions d'application des règles des chantiers spéciaux, je faisais en fait la navette de façon quotidienne. Je ne pense pas, cependant, que cela constitue un obstacle à la déduction de certains frais de déplacement pour les raisons suivantes :
+• D'une manière générale, lorsque des particuliers trouvent de l'emploi dans des régions situées à une certaine distance de leur résidence, ces particuliers doivent forcément faire des choix. Ils peuvent choisir de déménager plus près de leur nouvel emploi et déduire certains frais de déménagement admissibles en vertu de la Loi de l'impôt sur le revenu ou décider de faire la navette quotidiennement entre leur résidence et leur nouveau lieu de travail. Cependant, ces dernières dépenses correspondent à une préférence personnelle et ne sont pas déductibles.
+• Cependant, lorsqu'un particulier accepte un emploi éloigné de son lieu principal de résidence, dans des circonstances où l'on ne peut pas raisonnablement s'attendre à ce qu'il déménage (par exemple, si l'emploi est de nature temporaire), on doit faire une distinction entre des dépenses véritablement « liées au travail » et celles qui reflètent des décisions du contribuable quant à son style de vie.
+J'affirme qu'il existe une interaction évidente entre l'article 6 et l'article 8 de la Loi de l'impôt sur le revenu. Ainsi, si une allocation était exclue du revenu en vertu de l'article 6, il serait raisonnable de permettre au contribuable de déduire de son revenu un montant raisonnable pour les frais encourus.
+[8] L'argument se fonde essentiellement sur une analogie entre l'article 6 et l'article 8 de la Loi de l'impôt sur le revenu. L'article 6 concerne l'inclusion du revenu provenant d'un emploi. Le paragraphe 6(6) exclut du revenu certaines allocations payées par l'employeur à un contribuable pour des dépenses supportées sur des chantiers particuliers ou en des endroits éloignés. Le paragraphe 6(6) se lit comme suit :
+(6) Emploi sur un chantier particulier ou en un endroit éloigné. Malgré le paragraphe (1), un contribuable n'inclut, dans le calcul de son revenu tiré, pour une année d'imposition, d'une charge ou d'un emploi, aucun montant qu'il a reçu, ou dont il a joui, au titre, dans l'occupation ou en vertu de sa charge ou de son emploi et qui représente la valeur des frais -- ou une allocation (n'excédant pas un montant raisonnable) se rapportant aux frais -- qu'il a supportés pour:
+a) sa pension et son logement, pendant une période donnée:
+(i) soit sur un chantier particulier qui est un endroit où le travail accompli par lui était un travail de nature temporaire, alors qu'il tenait ailleurs et comme lieu principal de résidence, un établissement domestique autonome:
+(A) d'une part, qui est resté à sa disposition pendant toute la période et qu'il n'a pas loué à une autre personne,
+(B) d'autre part, où on ne pouvait raisonnablement s'attendre à ce qu'il retourne quotidiennement étant donné la distance entre l'établissement et le chantier,
+(ii) soit à un endroit où on ne pouvait raisonnablement s'attendre à ce qu'il établisse et tienne un établissement domestique autonome, étant donné l'éloignement de cet endroit de toute agglomération,
+si la période au cours de laquelle son travail l'a obligé à s'absenter de son lieu principal de résidence ou à être sur ce chantier ou à cet endroit était d'au moins 36 heures;
+b) le transport, au titre d'une période visée à l'alinéa a) pendant laquelle il a reçu de son employeur la pension et le logement ou une allocation raisonnable au titre de la pension et du logement, entre :
+(i) soit son lieu principal de résidence et le chantier particulier visés au sous-alinéa a)(i),
+(ii) soit l'endroit mentionné au sous-alinéa a)(ii) et un endroit au Canada ou un endroit dans un pays où le contribuable est employé.
+[9] Il ne s'agit pas de cela dans le présent cas. M. Jenner demande une déduction et non une exclusion, de son revenu, de montants reçus.
+[10] L'article 8 concerne les déductions. Les alinéas 8(1)h) et 8(1)h)i) se lisent comme suit :
+h) Frais de déplacement - lorsque le contribuable, au cours de l'année, à la fois:
+(i) a été habituellement tenu d'exercer les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits,
+(ii) a été tenu, en vertu de son contrat d'emploi, d'acquitter les frais de déplacement qu'il a engagés pour l'accomplissement des fonctions de sa charge ou de son emploi,
+les sommes qu'il a dépensées pendant l'année (sauf les frais afférents à un véhicule à moteur) pour se déplacer dans l'exercice des fonctions de son emploi, sauf s'il a, selon le cas:
+(iii) reçu une allocation pour frais de déplacement qui, par l'effet des sous-alinéas 6(1)b)(v), (vi) ou (vii), n'est pas incluse dans le calcul de son revenu pour l'année,
+(iv) demandé une déduction pour l'année en application des alinéas e), f) ou g);
+(h.1) Frais afférents à un véhicule à moteur - dans le cas où le contribuable, au cours de l'année, a été habituellement tenu d'accomplir les fonctions de son emploi ailleurs qu'au lieu d'affaires de son employeur ou à différents endroits et a été tenu, aux termes de son contrat d'emploi, d'acquitter les frais afférents à un véhicule à moteur qu'il a engagés dans l'accomplissement des fonctions de sa charge ou de son emploi,
+les sommes qu'il a dépensées au cours de l'année au titre des frais afférents à un véhicule à moteur pour se déplacer dans l'exercice des fonctions de son emploi, sauf s'il a, selon le cas:
+(i) reçu une allocation pour frais afférents à un véhicule à moteur qui, par l'effet de l'alinéa 6(1)b), n'est pas incluse dans le calcul de son revenu pour l'année,
+(ii) demandé une déduction pour l'année en application de l'alinéa f);
+Le paragraphe 8(2) interdit, lors du calcul du revenu provenant d'un emploi, la déduction de montants autres que des montants spécifiquement admis :
+(2) Restriction générale. Seuls les montants prévus au présent article sont déductibles dans le calcul du revenu d'un contribuable tiré, pour une année d'imposition, d'une charge ou d'un emploi.
+[11] M. Jenner essaie d'importer dans l'article 8 des déductions qui sont analogues à des allocations qui sont expressément exclues par le paragraphe 6(6). Bien que de tels arguments par analogie puissent être attrayants d'un point de vue philosophique, ils ne sont pas conformes aux règles consacrées d'interprétation de la Loi de l'impôt sur le revenu. L'imposition du revenu provenant d'un emploi, ainsi que la déduction des montants dépensés pour gagner ce revenu, sont très spécifiquement énoncés dans la Loi de l'impôt sur le revenu. Les frais de déplacement engagés par M. Jenner pour se rendre de sa résidence à Sturgeon Falls aux différents endroits où il était employé par ses différents employeurs, ainsi que ses frais de subsistance lorsqu'il travaillait sur ces chantiers ne sont tout simplement pas couverts par l'article 8 de la Loi de l'impôt sur le revenu, même si, d'une manière générale, il est possible de dire que ces dépenses étaient liées à son emploi. M. Jenner doit être félicité de s'être présenté devant la Cour et d'avoir exposé son argument aussi clairement qu'il l'a fait. Cependant, je ne puis l'aider.
+[12] L'appel est rejeté.
+Signé à Victoria (Colombie-Britannique), ce 14e jour d'août 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 29e jour d'avril 2005.
+Sophie Debbané, réviseure

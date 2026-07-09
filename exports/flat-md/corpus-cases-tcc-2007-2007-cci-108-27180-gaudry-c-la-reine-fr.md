@@ -1,0 +1,140 @@
+---
+title: "Gaudry c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27180/index.do"
+last_modified: "2007-02-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 108"
+citation2: ""
+neutral_citation: "2007 CCI 108"
+decision_date: "2007-02-23"
+language: "fr"
+item_id: "27180"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 983
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:55:46.216000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3fb1b7ca21a235634ecd81278a0dd48c835330a2054377abb47b5e4aa11e563f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gaudry c. La Reine
+
+- Citation: 2007 CCI 108
+- Decision date: 2007-02-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 983, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gaudry c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-23
+Référence neutre
+2007 CCI 108
+Numéro de dossier
+2006-1892(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-1892(IT)I
+ENTRE :
+JOHANNE GAUDRY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 1er février 2007, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Représentante de l'intimée :
+Isabelle Pipon, stagiaire en droit
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu en date du 15 septembre 2005, relativement à l'année d'imposition 2004, est rejeté, selon les motifs du jugement ci-joints.
+Signé à Montréal, Québec, ce 23e jour de février 2007.
+« Réal Favreau »
+Juge Favreau
+Référence : 2007CCI108
+Date : 20070223
+Dossier : 2006-1892(IT)I
+ENTRE :
+JOHANNE GAUDRY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s'agit de l'appel par voie de procédure informelle d'une décision du ministre du Revenu national (le « ministre » ), de refuser la somme de 14 699 $, réclamée par l'appelante à titre de montant admissible au crédit pour frais médicaux, à l'égard de l'année d'imposition 2004.
+[2] La somme de 14 699 $ réclamée est constituée des dépenses suivantes :
+a) 746 $ pour un couvercle de spa;
+b) 5 419 $ pour une tonnelle de spa;
+c) 1 260 $ pour une base afin d'installer la tonnelle;
+d) 1 536 $ pour un système d'irrigation;
+e) 5 736 $ pour un aménagement paysager du terrain entourant la résidence de l'appelante.
+[3] L'appelante invoque que les dépenses décrites au paragraphe précédent sont nécessaires pour améliorer sa qualité de vie en tant que personne handicapée et pour ne pas endommager davantage sa santé.
+[4] L'appelante était représentante des ventes sur la route pour le Groupe Pages Jaunes. Elle est en arrêt complet de travail depuis quatre (4) ans et souffre de nombreux problèmes de santé. Ses maux de dos persistants ont nécessité une opération appelée « discoïdectomie » qui fut un échec chirurgical. Elle a également été diagnostiquée « fibromyalgique avec fatigue chronique » et elle a été déclarée par ses médecins comme souffrant « d'invalidité totale et permanente » .
+[5] L'appelante a produit une attestation médicale de son rhumatologue, le docteur M'Seffar, datée du 8 juin 2004, et confirmant que l'appelante souffrait des problèmes suivants :
+a) séquelles de laminectomie et discectomie de L4-L5 avec douleurs et limitation sévère;
+b) arthrite psoriasique oligoarticulaire et peu sévère;
+c) fibromyalgie sévère et rebelle au traitement;
+d) syndrome du tunnel carpien;
+et que, de ce fait, il considérait l'appelante en état d'invalidité totale et permanente.
+[6] L'appelante a également produit une lettre datée du 22 février 2006 provenant de son médecin de famille, le docteur Yvon Vaillancourt, qui décrit la nécessité des dépenses encourues par l'appelante et les bienfaits qu'elle peut en retirer.
+[7] Il ressort cependant du témoignage de l'appelante qu'aucune des dépenses refusées n'a été encourue sur ordonnance médicale et aucun document à cet effet n'a été produit.
+[8] La preuve a également révélée que l'appelante n'est pas une personne handicapée au sens habituel du terme parce qu'elle est en mesure de se déplacer seule sans l'aide d'un quelconque support, de conduire son automobile, de résider seule dans sa résidence, de s'y auto-suffire et de s'occuper d'un chien de garde.
+[9] Le certificat pour le crédit d'impôt pour personnes handicapées (le formulaire T-2201) qui a été complété par le docteur Vaillancourt, le 25 avril 2005, ne fait pas référence à une mobilité réduite, mais réfère plutôt au handicap de l'appelante dans sa capacité de percevoir, réfléchir et se souvenir, et ce, depuis 2002.
+[10] À la lumière des informations médicales fournies, il ne fait pas de doute que l'appelante souffre d'une « déficience mentale ou physique grave et prolongée » au sens du paragraphe 118.4(1) de la Loi de l'impôt sur le revenu (la « Loi » ) et que, par conséquent, elle est une personne admissible au « crédit d'impôt pour personnes handicapées » en vertu de l'article 118.3 de la Loi et au « crédit d'impôt pour frais médicaux » en vertu de l'article 118.2 de la Loi.
+[11] L'alinéa 118.2(2)m) de la Loi prévoit un crédit pour tout dispositif ou équipement destiné à être utilisé par le particulier, qui est prescrit, i.e. d'un genre visé par l'article 5700 du Règlement de l'impôt sur le revenu (le « Règlement » ) qui est utilisé sur ordonnance d'un médecin et qui répond aux conditions prescrites quant à son utilisation ou à la raison de son acquisition.
+[12] L'article 5700 du Règlement prévoit notamment que, pour l'application de l'alinéa 118.2(2)m), un dispositif ou un équipement est prescrit s'il a été conçu à l'intention d'un particulier à mobilité réduite pour l'aider à marcher.
+[13] Compte tenu de la preuve produite en l'instance, il a été établi à la satisfaction de la Cour que les dépenses refusées et décrites au paragraphe 2 n'avaient pas été prescrites par un médecin et ne pouvaient pas être assimilées à un ou des dispositifs pour aider l'appelante à marcher. Il ne fait pas de doute que les dépenses en question améliorent la qualité de vie de l'appelante, mais n'ont pas de fonctions thérapeutiques en soi.
+[14] L'alinéa 118.2(2)l.2) de la Loi vise les frais raisonnables relatifs à des rénovations ou à des transformations apportées à l'habitation de l'appelante qui peuvent être admissibles à titre de frais médicaux. Pour être admissibles, ces frais doivent avoir été payés pour permettre à l'appelante d'avoir accès à l'habitation ou de se déplacer à l'intérieur et d'y être plus autonome afin d'y accomplir les tâches de la vie quotidienne.
+[15] La Cour n'est pas convaincue que les dépenses refusées et décrites au paragraphe 2 puissent être considérées comme des dépenses liées à des rénovations ou transformations apportées à l'habitation elle-même pour permettre à l'appelante d'y avoir accès, de s'y déplacer ou d'y accomplir les tâches de la vie quotidienne. Il ne semble pas que les dépenses refusées puissent faire partie des articles dont la Loi ou le Règlement envisage la déduction.
+[16] La Cour est convaincue que l'appelante ne s'est pas déchargée du fardeau d'établir qu'elle a le droit de déduire les dépenses décrites au paragraphe 2. La Cour confirme donc la cotisation du ministre à cet égard.
+[17] Pour toutes ces raisons, l'appel de nouvelle cotisation émise en vertu de la Loi en date du 15 septembre 2005, relativement à l'année d'imposition 2004, est rejeté.
+Signé à Montréal, Québec, ce 23e jour de février 2007.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2007CCI108
+N º DU DOSSIER DE LA COUR : 2006-1892(IT)I
+INTITULÉ DE LA CAUSE : Johanne Gaudry et Sa Majesté La Reine
+LIEU DE L'AUDIENCE : Montréal (Québec)
+DATE DE L'AUDIENCE : le 1er février 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 23 février 2007
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Représentante de l'intimée :
+Isabelle Pipon, stagiaire en droit
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante:
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

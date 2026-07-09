@@ -1,0 +1,319 @@
+Title: Unique Drywall Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26149/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-598-26149-unique-drywall-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-10-07
+
+# Unique Drywall Ltd. v. The Queen
+
+- Citation: 2004 TCC 598
+- Decision date: 2004-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4144, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Unique Drywall Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-07
+Neutral citation
+2004 TCC 598
+File numbers
+2003-493(GST)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-493(GST)I
+BETWEEN:
+UNIC DRYWALL LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of
+Unique Drywall Ltd. (2002-4233(GST)I) and
+Brothers Drywall Inc. (2002-4234(GST)I)
+on January 22, 2004 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Agent for the Appellant:
+Warren B. Viegas
+Counsel for the Respondent:
+Joel Oliphant
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated November 25, 2002 and bears number 08EP118133446 for the period from July 1, 1991 to September 30, 1995 is dismissed in accordance with the attached Reasons for Judgment. There shall be no costs.
+Signed at Ottawa, Canada, this 7th day of October, 2004.
+"T. O'Connor"
+O'Connor, J.
+Docket: 2002-4233(GST)I
+BETWEEN:
+UNIQUE DRYWALL LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of
+Brothers Drywall Inc. (2002-4234(GST)I) and
+Unic Drywall Ltd. (2003-493(GST)I)
+on January 22, 2004 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Agent for the Appellant:
+Warren B. Viegas
+Counsel for the Respondent:
+Joel Oliphant
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated September 17, 2001 and bears number 08EP117448571 for the period from March 21, 1995 to July 31, 1999, is dismissed in accordance with the attached Reasons for Judgment. There shall be no costs.
+Signed at Ottawa, Canada, this 7th day of October, 2004.
+"T. O'Connor"
+O'Connor, J.
+Docket: 2002-4234(GST)I
+BETWEEN:
+BROTHERS DRYWALL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard together on common evidence with the appeals of
+Unique Drywall Ltd. (2002-4233(GST)I) and
+Unic Drywall Ltd. (2003-493(GST)I)
+on January 22, 2004 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Agent for the Appellant:
+Warren B. Viegas
+Counsel for the Respondent:
+Joel Oliphant
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated September 17, 2002 and bears number 08EP118133446 for the period from April 21, 1995 to March 31, 1999, is dismissed in accordance with the attached Reasons for Judgment. There shall be no costs.
+Signed at Ottawa, Canada, this 7th day of October, 2004.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2004TCC598
+Date: 20041007
+Docket: 2003-493(GST)I
+BETWEEN:
+UNIC DRYWALL LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2002-4233(GST)I
+UNIQUE DRYWALL LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+AND BETWEEN:
+2002-4234(GST)I
+BROTHERS DRYWALL INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[1] These appeals were all heard on common evidence.
+[2] The following extracts from the Reply to the Notice of Appeal in Unic Drywall Ltd., appeal number 2003-493(GST)I, represent an attempt to explain the issues in that appeal:
+In reply to the Notice of Appeal to Notice of Reassessment No. 08EP118133446, November 25, 2002 (the "Assessment") for the period from July 1, 1991 to September 30, 1995 (the "Period"), the Deputy Attorney General of Canada says:
+A. STATEMENT OF FACTS
+...
+3. With regards to the Notice of Appeal, he only admits that the Appellant did not have adequate documentation as required by subsection 169(4) of the Excise Tax Act, R.S.C., 1985, C.E. as amended (the "Act") and the Input Tax Credit Information Regulations for the input tax credits ("ITCs") denied by the Minister during the Period.
+4. He denies that the Appellant acted with due diligence in relation to Part IX of the Act, particularly in its claiming of ITCs denied.
+...
+7. By way of Notice of Reassessment No. 05DP0015096, dated July 18, 2000, the Minister assessed additional GST in the amount of $46,444.08 and disallowed ITCs in the amount of $ 194,004.17 for the Period. The Minister also assessed late remittance penalties and interest of $ 158,921.70 and $ 131,297.03, respectively and other penalties of $ 5,646.73.
+8. As a result of a Notice of Objection having been filed in response to Notice of Reassessment No 05DP0015096, by way of Notice of Reassessment No. 08EP117448480, dated August 23, 2001, the Minister reassessed additional GST in the amount of $ 46,444.08 and disallowed ITCs in the amount of $ 194,004.17 for the Period. The Minister also reassessed late remittance penalties and interest of $ 158,591.18 and $ 131,087.06, respectively, and removed the other penalties previously assessed.
+9. As a result of a Notice of Objection having been filed in response to Notice of Reassessment No. 08EP117448480, the Minister issued the Assessment. The Assessment removed any assessed amount relating to ITCs taken by the Appellant between July 1, 1991 to December 31, 1993 as the Appellant was no longer required to maintain books and records for July, 1991 to December 31, 1993 pursuant to subsection 286(3) of the Act at the time the original reassessment was made as detailed in paragraph 7 above. The Minister reassessed additional GST in the amount of $ 46,444.08 and disallowed ITCs in the amount of $ 53,642.30 for the Period. The Minister also reassessed late remittance penalties and interest of $ 53,844.22 and $ 43,929.18 respectively.
+10. In so reassessing the Appellant, pursuant to the Assessment, the Minister made the following assumptions of fact:
+(a) the Appellant operated as drywall contractor;
+(b) the Appellant reported Goods and Services Tax (the "GST") collected in the amount of $ 610,777.59 and claimed ITCs in the amount of $ 514,187.11 to claim a net tax remittable in the amount of $ 96,590.48 for the Period;
+(c) the Appellant failed to maintain adequate books and records for the Period;
+(d) the sales reported for the Period by the Appellant for purposes of the Act and the sales reported for the Period for purposes of the Income Tax Act were significantly different;
+(e) the Appellant made material misstatements in its GST returns in relation to sales, GST collected and ITCs claimed that are attributable to neglect, carelessness or wilful default;
+(f) the Appellant did not have adequate documentation to allow the Minister to allow the ITCs in the amount of not less than $ 58,200.88 disallowed in relation to subcontract work between the period January 1, 1994 to September 30, 1995;
+(g) the Appellant did not act with due diligence with respect to claiming ITCs in relation to subcontract work pursuant to subsection 169(4) of the Act and the Input Tax Credit Information Regulations; and
+(h) the Appellant was required to report net tax remittable in the amount of not less than $ 196,676.86.
+[Note that $ 196,676.86 less $ 96,590.48 = $ 100,086.38 and $ 96,590.48 + $ 46,444.08 + $ 53,642.30 = $ 196,676.86].
+B. ISSUES TO BE DECIDED
+11. The issues are whether the Minister properly denied the Appellant ITCs claimed in the amount of $ 58,200.80 and whether the Appellant acted with due diligence in its claiming of the ITCs denied.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+12. He relies on, inter alia, sections 165, 169, 221, 225, 228, 280, 286, 296, 298, 299 and 301 of the Act, the Input Tax Credit Information Regulations and the Tax Court of Canada Act.
+13. He respectfully submits that the Appellant did not maintain adequate books and records as required under section 286 of the Act.
+14. He respectfully submits that the amount of ITCs claimed did not correspond to the information available to the Minister.
+15. He respectfully submits that the Minister properly reassessed the Appellant pursuant to subsection 298(4) of the Act.
+16. He respectfully submits that the Minister properly denied the Appellant ITCs in the amount of $ 58,200.88 relating to subcontract work as sufficient and appropriate evidence as required by subsection 169(4) of the Act and the Input Tax Credit Information Regulations was not obtained and maintained by the Appellant.
+17. He respectfully submits that the Minister properly reassessed the Appellant net tax remittable and related penalties and interest pursuant to sections 165, 169, 221, 225, 228, 280, 286, 296, 298, 299 and 301 of the Act and the Input Tax Credit Information Regulations.
+18. He respectfully submits that the Appellant did not act with due diligence under part IX of the Act, particularly in its claiming of ITCs in relating to subcontract work.
+[3] In Unic Drywall Ltd., appeal number 2003-493(GST)I, the Notice of Appeal reads as follows:
+...
+· This Notice of Appeal is being filed in conjunction to similar Appeals with related companies Unique Drywall Ltd (Unique) and Brother's Drywall Inc. (Brothers)
+· Unic was subject to an audit assessment in the period ending 91-06-30 in the amount of $60,905.63. We have requested information on this assessment but have yet to be provided with its specifics. It is our understanding that the audit was done with respect to the Net Tax (Tax Collected (GST) and paid (ITC's)) and hence no mention was made about the lack of documentary evidence at that time. My client has always claimed the ITC's in a similar manner from January 1, 1991.
+· We believe that our client was exercising due diligence in claiming it's ITC's in following the similar manner that was reviewed by GST audit in 1991;
+· We do not suggest that the ITC's fulfill the documentary evidence that is required by the Excise Tax Act but there has always been a paper trail through note books, cheques, bank statements and this information was always available as an alternate means of providing that documentary evidence.
+· All companies continued to claim ITC's in a similar manner that Unic did. Unic stopped operating in 1995 at which point Unique and Brother's started in business.
+· From 1991 onwards, Unic employed a Chartered Accounting firm called the Sacks Partnership. Unfortunately, this firm got themselves into trouble but the point was at the time my client employed them, my client relied on that firm to provide accounting and tax services. At the very least, if the Assessment is to be confirmed by this court, my client has demonstrated due diligence and should not be liable for the tax assessed as well as the penalty and interest.
+· The basis for the extension under subsection 298(4) of the Excise Tax Act citing misstatement should be disallowed. There was no intent to misstate any ITC's and my client was simply following what they thought was an acceptable manner of claiming ITC's.
+· The whole issue that led to the assessment is questionable. The Agency violated the recommended One-plus-One audit policy, which requires them to review the current year and one prior year before reviewing further years with reason after the initial two years. At the very least, the issue which led to this audit (variance between the Sales reported between the GST and Corporate Tax returns) would have been explained by the holdbacks from contracts, which are not required to be recognized as Sales under the Excise Tax Act but is under the Income Tax Act.
+· The CCRA has had information available (from individual tax returns) for those subcontractors to able to determine that many of them were not small suppliers and should have been registered and collecting the GST (the same ITC's that my client paid and is now being denied in this assessment).
+[4] It will be apparent from the above quotations from the Reply to the Notice of Appeal and particularly the Notice of Appeal and similar quotations in the other two appeals to be reviewed later that the exact issues to be determined are clouded. This cloud was not removed by the evidence given at the hearing consisting of verbal testimony and numerous documents.
+[5] The submissions of the representative of the three Appellants and of counsel for the Respondent in the three appeals will be reviewed later.
+[6] The following extracts from the Reply to the Notice of Appeal in Unique Drywall Ltd., appeal number 2002-4233(GST)I, represent an attempt to explain the issues in that appeal:
+In reply to the Notice of Appeal to Notice of Reassessment No. 08EP117448571, dated September 17, 2001 (the "Assessment") for the period from March 21, 1995 to July 31, 1999 (the "Period"), the Deputy Attorney General of Canada says:
+A. STATEMENT OF FACTS
+...
+2. With regards to the Notice of Appeal, he only admits that the Appellant did not have adequate documentation as required by subsection 169(4) of the Excise Tax Act and the Input Tax Credit Information Regulations for the input tax credits ("ITCs") denied by the Minister of National Revenue (the "Minister") during the Period.
+3. He denies that the Appellant acted with due diligence in relation to Part IX of the Act, particularly in its claiming of ITCs denied.
+...
+6. In so reassessing the Appellant, pursuant to the Assessment, the Minister made the following assumptions of fact:
+(a) the Appellant operated as drywall contractor;
+(b) the Appellant reported Goods and Services Tax (the "GST") collected in the amount of $ 991,319.27 and claimed ITCs in the amount of $ 776,867.21 to claim a net tax remittable in the amount of $ 214,452.06 for the Period;
+(c) the Appellant failed to maintain adequate books and records for the Period;
+(d) the Appellant did not have adequate documentation to allow the Minister to allow the ITCs in the amount of not less than 81,450.12 disallowed in relation to subcontract work;
+(e) the Appellant did not act with due diligence with respect to claiming ITCs in relation to subcontract work pursuant to subsection 169(4) of the Act and the Input Tax Credit Information Regulations; and
+(f) the Appellant was required to report net tax remittable in the amount of not less than $ 295,902.21.
+[Note that $ 81,450.12 is the difference between $ 295,902.21 and $ 214,452.06].
+B. ISSUES TO BE DECIDED
+7. The issues are whether the Minister properly denied the Appellant ITCs claimed in the amount of $ 81,450.15 and whether the Appellant acted with due diligence in its claiming of the ITCs denied.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+8. He relies on, inter alia, sections 165, 169, 221, 225, 228, 280, 286, 296, 299 of the Act, the Input Tax Credit Information Regulations and the Tax Court Canada Act.
+9. He respectfully submits that the Appellant did not maintain adequate books and records as required under section 286 of the Act.
+10. He respectfully submits that the amount of ITCs claimed did not correspond to the information available to the Minister.
+11. He respectfully submits that the Minister properly denied the Appellant ITCs in the amount of $ 81,450.15 relating to subcontract work as sufficient and appropriate evidence as required by subsection 169(4) of the Act and the Input Tax Credit Information Regulations was not obtained and maintained by the Appellant.
+12. He respectfully submits that the Minister properly reassessed the Appellant net tax remittable and related penalties and interest pursuant to sections 165, 169, 221, 225, 228, 280, 286, 296 and 299 of the Act and the Input Tax Credit Information Regulations.
+13. He respectfully submits that the Appellant did not act with due diligence under Part IX of the Act, particularly in its claiming of the ITCs denied relating to subcontract work.
+[7] In Unique Drywall Ltd., appeal number 2002-4233(GST)I, the Notice of Appeal reads substantially the same as that in Unic Drywall Ltd. quoted above except that the last three paragraphs in Unic Drywall Ltd. are replaced by the following paragraph:
+...
+· It is our position that the CCRA is denying ITC's for my client, charging them penalty and interest, while pursuing the supplier of the services who ceased to be a small supplier. These suppliers are then being assessed (for the same GST my client is being denied ITC's) creating a windfall situation for the CCRA. We have evidence of such reviews.
+[8] The submissions of the representative of the three Appellants and of counsel for the Respondent in the three appeals will be reviewed later.
+[9] The following extracts from the Reply to the Notice of Appeal in Brothers Drywall Inc., appeal number 2002-4234(GST)I, represent an attempt to explain the issues in that appeal:
+In reply to the Notice of Appeal to Notice of Reassessment No. 08EP118133446, September 17, 2002 (the "Assessment") for the period from April 21, 1995 to March 31, 1999 (the "Period"), the Deputy Attorney General of Canada says:
+A. STATEMENT OF FACTS
+...
+2. With regards to the Notice of Appeal, he only admits that the Appellant did not have adequate documentation as required by subsection 169(4) of the Excise Tax Act, R.S.C., 1985, C.E. as amended (the "Act") and the Input Tax Credit Information Regulations for the input tax credits ("ITCs") denied by the Minister of National Revenue (the "Minister") during the Period.
+3. He denies that the Appellant acted with due diligence in relation to Part IX of the Act.
+...
+6. By way of Notice of Reassessment No. 05DP0015098, dated July 18, 2000, the Minister disallowed ITCs in the amount of $ 138,053.19 for the Period. The Minister also assessed late remittance penalties and interest of $ 37,627.04 and $ 28,483.89, respectively.
+7. As a result of a Notice of Objection having been filed in response to Notice of Reassessment No 05DP0015098, by way of the Assessment, the Minister reduced the disallowed ITCs to the amount of $ 35,249.35 for the Period. The Minister also reassessed late remittance penalties and interest of $ 6,851.57 and $ 5,148.44, respectively. The Assessment removed any assessed amount relating to ITCs taken by the Appellant between April 21, 1995 to March 31, 1996 previously assessed pursuant to subsection 298(4) of the Act and allowed ITCs where sufficient documentation was presented as part of the Notice of Objection process.
+8. The Appellant filed a Notice of Objection to the Assessment and the Minister confirmed the Assessment on June 18, 2002.
+9. In so reassessing the Appellant, pursuant to the Assessment, the Minister made the following assumptions of fact:
+(a) the Appellant operated as drywall contractor;
+(b) the Appellant reported Goods and Services Tax (the "GST") collected in the amount of $ 572,929.20 and claimed ITCs in the amount of $ 449,458.64 to claim a net tax remittable in the amount of $ 123,470.56 for the Period;
+(c) the Appellant failed to maintain adequate books and records for the Period;
+(d) the Appellant did not have adequate documentation to allow the Minister to allow ITCs claimed in the amount of not less than $ 35,249.35;
+(e) the Appellant did not act with due diligence with respect to claiming ITCs pursuant to subsection 169(4) of the Act and the Input Tax Credit Information Regulations; and
+(f) the Appellant was required to report net tax remittable in the amount of not less than $ 158,719.91.
+[Note the difference between $ 158,719.91 and $ 123,470.56 is $ 35,249.35].
+B. ISSUES TO BE DECIDED
+10. The issues are whether the Minister properly denied the Appellant ITCs claimed in the amount of $ 35,249.35 and whether the Appellant acted with due diligence in its claiming of the ITCs denied.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+11. He relies on, inter alia, sections 165, 169, 221, 225, 228, 280, 286, 296, 298, 299 and 301 of the Act, the Input Tax Credit Information Regulations and the Tax Court of Canada Act.
+12. He respectfully submits that the Appellant did not maintain adequate books and records as required under section 286 of the Act.
+13. He respectfully submits that the amount of ITCs claimed did not correspond to the information available to the Minister.
+14. He respectfully submits that the Minister properly denied the Appellant ITCs in the amount of $ 35,249.35 as sufficient and appropriate evidence as required by subsection 169(4) of the Act and the Input Tax Credit Information Regulations was not obtained and maintained by the Appellant.
+15. He respectfully submits that the Minister properly reassessed the Appellant net tax remittable and related penalties and interest pursuant to sections 165, 169, 221, 225, 228, 280, 286, 296, 298, 299 and 301 of the Act and the Input Tax Credit Information Regulations.
+16. He respectfully submits that the Appellant did not act with due diligence under Part IX of the Act.
+[10] In Brothers Drywall Inc., appeal number 2002-4234(GST)I, the Notice of Appeal reads substantially the same as that in Unic Drywall Ltd. except that the last three paragraphs in Unic Drywall Ltd. are replaced by the following paragraph:
+...
+· It is our position that the CCRA is denying ITC's for my client, charging them penalty and interest, while pursuing the supplier of the services who ceased to be a small supplier. These suppliers are then being assessed (for the same GST my client is being denied ITC's) creating a windfall situation for the CCRA. We have evidence of such reviews.
+SUBMISSIONS OF THE REPRESENTATIVE OF THE APPELLANTS
+...
+As far as the closing arguments are concerned, I've taken this approach in two parts, Unic, and again focusing on the issue of the Minister going beyond four years. So I'll start with that.
+The sales that they have cited as being material, when it comes down to it, it's not sales, it's not GST revenue. The two transactions were a reimbursement from one company to the other for services performed; another was a vehicle transfer, which is wash from one company to the other one, a company wound down. The only item I saw for sales was $364 and the GST. And the other, just one transaction which includes the same property, assessing for real property, the $12,652.71. You take all those numbers and it comes out to $46,000. In my mind, I don't believe the Minister has met the test to assess beyond four years. That's all I want to say about Unic.
+Regarding Brothers and Unique, Section 169(4) as per the Act and the other attachments that come along with it, my client does not meet the definition as put out. However, it did have a paper trail of paying GST to the sub-contractors, who the majority were signing these receipts after the fact. It's not the perfect way, but it was the way we could figure out at the last minute retrospectively to try and control the damage, so to speak.
+What I tried to put into evidence earlier, I've been involved with clients who have come in on the other side where the CCRA has pursued the sub-contractor or any contractor, for that matter, some of them have nothing to do with drywall. In theory, an income tax credit can be denied to a sub-contractor, even though they may be over $30,000, and the CCRA can go after that contractor on the same transaction for which the ITC is originally being denied on. And I have examples where they've gone back ten years. And so I don't believe the legislation was written for the Crown to arrive at a windfall, but that's what's happening here, from a practical point of view.
+I put forward the numbers that I thought were the relevant assessment numbers. I have a hard time understanding how the assessment can be made in reverse, without taking the - especially on a large scale like this. We're talking about 1.3 million in total, that was the original assessment, and without going and doing a proper analysis of the subcontractors in place, I mean that may be the policy of the CCRA, but my feeling is that more attention can be paid to the sub-contractors to see at the end of the day, whether the assessment made sense.
+In the numbers I calculated, the period where they denied all the ITC's for the sub-contractors, the amount of that was greater than the amount that's shown on the financial statements. How can that be? I'm at a loss to explain that. And considering that they have gone through the financial statements, to look at the GST revenue, makes sense that they would be consistent and follow the expenses as well, through the financial statements. I think the assessment is over-stated, based on what I have calculated.
+And I guess the other point, regarding the due diligence and penalty that's been applied to the three companies. If a taxpayer or a representative gets an opinion from the CCRA in terms of how to treat certain things, and it's determined that it's wrong later, normally there's a Ministry's tolerance and you never see the assessment. I'm not so sure what the difference is when an auditor comes and looks at a return, looks at ITC's, and perhaps they're wrong, perhaps they didn't even look at it, but they didn't raise a flag at that point in time. I just find it inequitable to assess penalties seven, eight years after the fact on transactions which could have been picked up if they're incorrect earlier when there's an opportunity to do so.
+I understand you can't audit every return, but there are checks and balances to prevent these sorts of things from happening. So I think there's some complicity on the part of the government in allowing this sort of thing to happen, and I think it's unfair to assess a penalty when eventually the facts are uncovered.
+I think that's all I have to say, Your Honour.
+SUBMISSIONS OF COUNSEL FOR THE RESPONDENT
+[11] The submissions of counsel for the Respondent read in part as follows:
+My argument will proceed first with the overall entitlement to the ITC credit, and deal secondly with the issue of the years being statute barred for the Unic company.
+Your Honour, the issue in this case, from the Respondent's view at least, is really very simple. It's whether the Appellant companies are entitled to certain input tax credits claimed under Section 169 of the Excise Tax Act. Very simply, the Respondent's position is that the Appellant is not entitled to the ITC credits claimed, as he has not provided and did at no time provide documentation or information specified in the Excise Tax Act to entitle him to the claim and to show that the expenses were incurred, Your Honour.
+It's also worth mentioning, Your Honour, at this point, and it's appropriate to mention it upfront, that it does not appear that the Appellant has done anything to demolish any of the Respondent's assumptions. It appears that they have in fact conceded the point that they do not meet the requirements of Section 169(4), ...
+[12] Counsel for the Respondent goes on to quote Subsection 169(4) of the Excise Tax Act. It reads as follows:
+"A registrant may not claim an input tax credit for a reporting period unless, before filing the return in which the credit is claimed,
+(a) the registrant has obtained sufficient evidence in such form containing such information as will enable the amount of the input tax credit to be determined, including any such information as may be prescribed;"
+[13] Counsel for the Respondent states further:
+...
+the information that may be prescribed, is contained under the Input tax Credit information Regulations, which specify as follows: ...
+Firstly, the date of an invoice or the date on which the tax was paid or payable - and that's found in paragraph 3(a)(ii) and (iii).
+Secondly, the registration number assigned to the supplier, pursuant to section 241 of the Excise tax Act which is found in paragraph 3(b)(i).
+And finally, it requires reference to the terms of the payment, Your Honour. And that is included in 3(c)(iii).
+None of the chits that were provided have any reference to the terms of the payment, cash or any other means of payment, Your Honour. We did allow the chits, which included a registrant's number, nonetheless, Your Honour, although I do make reference to the third requirement. There are actually several other requirements, but those are the ones germane to this appeal, Your Honour.
+The cases are very simple, Your Honour. The Appellant was denied ITC credits claimed where none of this information was provided, in essence where there was no chits provided with a GST registrant's number. And on that basis alone, Your Honour, this appeal ought to be dismissed, at least insofar as it relates to Unique and Brothers Drywall, ...
+[14] Counsel goes on to refer to Alexander Nix Group Inc. v. Canada, [2002] T.C.J. No. 437, where Judge McArthur quoted from the decision of Judge Bowman in Helsi Construction Management Inc. v. The Queen, [2001] T.C.J. No. 149, where Judge Bowman remarked as follows:
+We are dealing with one of the technical requirements under a statute that is somewhat unique for its specificity. Moreover, it is the foundation of a self-assessing system that operates in the commercial world. Unfortunate as it may seem to the appellant, rules are rules. I can do nothing to help the appellant on this point.
+...
+While there may be some justification in certain cases for treating technical or mechanical requirements as directory rather than mandatory, that is not so in the case of the GST provisions of the Excise Tax Act.
+[15] Counsel also referred to the case of Rapid Transit Courier v. The Queen, [2000] T.C.J. No. 465. In this at paragraph 14 the Court stated as follows:
+"There are several cases dealing with precisely the issue in question and I am not aware of any decision favouring a taxpayer who claimed ITC's in relation to invoices which did not contain the registration number of the supplier or subcontractors or where their registration numbers were not otherwise provided."
+[16] Counsel for the Respondent stated further as follows:
+In support of its finding, Your Honour, the Court referred to the San Clara Holdings case, which is included in this Book of Authorities at Tab 7; and Design Build Ltd. in a Federal Court of Appeal decision, I did not include, Your Honour; and also Metro Exteriors, which I've included at Tab 10.
+Your Honour, the way the Court summarized this is exactly the case we are dealing with today. ITC claims were disallowed simply where there was no documentation, including a valid or including a registrant's GST number. And that was the sole basis upon which ITC credits were disallowed.
+I hesitate to mention, Your Honour, that there was some leniency given in this case. All of the statute barred years were waived in the Unique and the Brothers case, as we saw. Penalties were waived in the Unic case. And indeed, there was even some leniency with regard to allowance made for deregistered parties, those ITC claims were allowed. But in essence, Your Honour, the Respondent's case falls squarely within these authorities and, indeed, all of the other authorities.
+...
+I would just like to move on very briefly before I talk about Unic. I would like to address one of the other points made by my friend. He mentioned that, if I understand his point correctly, that because the three companies were audited in 1991 and there was no problem with the ITC claims as they were being made at the time, that the Crown is in some form of an estoppel position, if I'm to understand his argument correctly. Your Honour, I do not have the cases with me on that point, but I believe it trite law to say that the Minister is not bound by previous assessment or even on the conduct of an auditor or an appeals officer in a previous tax year. There is case law to that effect, Your Honour. For example, TransCanada Pipelines vs The Queen, and the cite, if you would like it, is 2002-1CTC43, and that's a Federal Court of Appeal case. Similarly, in Queen vs Bowater Mersey, the cite is 1987-2CTC159.
+I mention those cases, Your Honour, only to underscore the fact that the Minister did not catch, for lack of a better word, or correct the Appellant's behaviour in 1991 or on a previous assessment in telling him he should have been filing for his ITC credits in the proper way, should have no bearing on this case, Your Honour.
+Finally, with regard to the Unic case, Your Honour, the Respondent would submit that we are entitled to consider those years, in spite of the fact that they are statute barred. The authority for that is in subsection 298(4), ... of the Excise Tax Act. ... I will read it out for you.
+"An assessment in respect of any matter may be made at any time where the person to be assessed has, in respect of that matter, made a misrepresentation that is attributable to the person's neglect, carelessness or wilful default."
+Very similar to Section 152(4) of the Income Tax Act, Your Honour, and it's really a question of fact, whether someone has acted, first, made a misrepresentation; and second, carelessly or negligently with wilful default.
+Your Honour, the Respondent would submit that there was clearly a misrepresentation made. The fact of the Appellant claiming ITC's when no GST number was provided, runs afoul of the law, Your Honour. That, I would submit, is a prime facie case of misrepresentation, which would be tantamount to carelessness. Your Honour, I believe it was R-2, the letter dated November 24th, 1999 in paragraph 3, the Appellant's bookkeeper actually acknowledges carelessness where she says:
+"We have noticed carelessness on our part, but the majority seem to be sub-contractors to whom we have paid GST."
+Again, Your Honour, it seems that the Appellant acknowledges that there was some carelessness on their part in making the ITC claims without properly verifying their entitlement to them.
+Your Honour, thirdly, there's the evidence by the Director of the company itself. I have to confess, I wasn't very clear as to which version or which policy he had in place during the tax years in question. I questioned him as to whether assurances were made that GST was only paid to people who had a GST number, he said yes, they did assure themselves accordingly. At the same time I asked him to explain the method by which they made these assurances. He said I know nothing about that, the bookkeeper does all that. And it also appeared that he was saying that the entitlement to ITC claims was done on the basis of how much GST was paid out to subcontractors, with no regard to whether they actually had a registrant's number.
+Fourthly, Your Honour, the discrepancy in the sales issue. That again, in the Respondent's view, would point to a prima facie case of a misrep, attributable to at least carelessness, entitling us to reassess the otherwise statute barred years, Your Honour.
+Finally, on that issue, the total lack of documentation available to or provided by Unic, with regard to the ITC credits, no chits, no invoices were kept. The only documentation is appears were the cheques, which have no reference to GST numbers, it's another indicia of carelessness on the Appellant's part.
+Your Honour, we would submit that this appeal should be dismissed in full. And I have no further submissions, subject to any questions you might have.
+ANALYSIS AND DECISION
+[17] In my opinion the submissions of counsel for the Respondent are correct. Further the onus is on the Appellants to establish the reassessments are wrong and to demolish the assumptions contained in the Respondent's Replies and this has not been done.
+[18] Also the books and records of the Appellants were incomplete or inadequate. Section 169 of the Excise Tax Act explains when Input Tax Credits are allowed. Counsel for the Respondent quoted Subsection 169(4) as well as the relevant portions of the Input Tax Credit Information Regulations and adds that the Appellants did not meet the necessary requirements.
+[19] Counsel for the Respondent further pointed to the considerably leniency granted by CCRA in arriving at its final determinations and this is evidenced by the testimony of D. W. Thorpe an appeals officer with CCRA.
+[20] For all of the above reasons the appeals are dismissed. There shall be no costs.
+Signed at Ottawa, Canada, this 7th day of October, 2004.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC598
+COURT FILE NOS.:
+2003-493(GST)I
+2002-4233(GST)I
+2002-4234(GST)I
+STYLE OF CAUSE:
+Unic Drywall Ltd. and H.M.Q.
+Unique Drywall Ltd. and H.M.Q.
+Brothers Drywall Inc. and H.M.Q.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 22, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+October 7, 2004
+APPEARANCES:
+Agent for the Appellants:
+Warren B. Viegas
+Counsel for the Respondent:
+Joel Oliphant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

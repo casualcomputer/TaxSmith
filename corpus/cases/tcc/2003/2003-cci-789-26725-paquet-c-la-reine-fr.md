@@ -1,0 +1,154 @@
+---
+title: "Paquet c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26725/index.do"
+last_modified: "2003-11-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 789"
+citation2: ""
+neutral_citation: "2003 CCI 789"
+decision_date: "2003-11-12"
+language: "fr"
+item_id: "26725"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3406
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:34:13.028000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2aa9c2fae3e131089067430ca6e4d4920506749c0980e12d2ad18c36f0e7f92f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Paquet c. La Reine
+
+- Citation: 2003 CCI 789
+- Decision date: 2003-11-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3406, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paquet c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-11-12
+Référence neutre
+2003 CCI 789
+Numéro de dossier
+2001-3885(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2001-3885(IT)G
+ENTRE :
+GAÉTAN PAQUET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+___________________________________________________________________
+Appel entendu le 28 mai 2003 à Shawinigan (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelant :
+Me François Daigle
+Avocat de l'intimée :
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1997 est rejeté, avec dépens, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 12e jour de novembre 2003.
+« Alain Tardif »
+Juge Tardif
+Référence : 2003CCI789
+Date : 20031112
+Dossier : 2001-3885(IT)G
+ENTRE :
+GAÉTAN PAQUET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s'agit d'un appel pour l'année d'imposition 1997.
+[2] La question en litige consiste à déterminer si la compagnie contrôlée par l'appelant lui a versé un dividende réputé de 22 000 $ ou de 40 874 $, tel que cotisé par le ministre du Revenu national pour l'année d'imposition 1997.
+[3] Menuisier, l'appelant s'est décrit comme un travailleur manuel détenant une vaste expérience en matière de construction. Il a beaucoup insisté pour affirmer et répéter que l'administration, la comptabilité et le travail clérical qui en découlait n'étaient pas son domaine.
+[4] Pour tout ce qui avait trait à la compagnie, dont il était le principal actionnaire et administrateur, et pour ses déclarations de revenus personnels, il s'en remettait totalement à son épouse et à un certain monsieur Leblanc, à titre de comptable, lequel faisait vérifier, à son tour, son travail par un bureau d'expert-comptable.
+[5] À plusieurs reprises au cours de son témoignage, l'appelant s'est abstenu de répondre s'empressant d'ajouter que son épouse serait en mesure de répondre puisqu'elle et le comptable étaient les seuls qualifiés pour fournir les réponses et explications.
+[6] L'appelant a expliqué avoir construit des immeubles à logements multiples.
+[7] Le projet faisant l'objet d'un financement hypothécaire, les argents étaient libérés en fonction de la progression du chantier, laissant ainsi l'appelant sans ressources pour de longues périodes.
+[8] Il devait donc avoir recours à des avances de la compagnie qu'il contrôlait. Cette dernière possédait des liquidités importantes; il obtenait ainsi régulièrement des avances qu'il remboursait périodiquement. À la fin de l'année financière, le comptable Leblanc procédait aux divers ajustements.
+[9] Il a soutenu que le montant déterminé dividende réputé par l'intimée n'était rien d'autre qu'une simple avance remboursée au moyen d'un chèque indiquant la mention remboursement de dividende. Il n'a pas été en mesure d'expliquer ou de justifier pourquoi le chèque indiquait la mention « Remboursement de dividende » .
+[10] Contrairement aux affirmations et à la croyance de l'appelant, son épouse n'avait pas l'expertise qu'il lui attribuait pour la gestion administrative et corporative.
+[11] En effet, à plusieurs reprises, cette dernière a affirmé avoir des connaissances fort limitées et que de ce fait, elle s'en remettait totalement à son comptable un certain monsieur Leblanc. Elle ne révisait pas son travail et ne le questionnait généralement pas.
+[12] Ne s'y connaissant pas en fiscalité, elle était essentiellement préoccupée par la charge fiscale de l'appelant, son conjoint.
+[13] Elle a expliqué que le montant de dividendes attribué pour l'année d'imposition précédente avait généré une nouvelle cotisation qu'elle avait dû acquitter. Compte tenu de cette déception, elle a voulu éviter un autre désappointement.
+[14] Pour réduire le coût fiscal du dividende déjà attribué, elle a décidé de rembourser une partie du dividende d'où le fameux chèque avec la mention « Remboursement de dividende » .
+[15] Il eût été intéressant d'avoir la version des comptables; l'appelant a choisi de ne pas les faire témoigner. Cette décision s'explique d'ailleurs assez bien, eu égard aux griefs que lui et son épouse ont exprimés.
+[16] L'appelant a désavoué celui en qui, lui et son épouse, plaçaient leur confiance depuis plusieurs années; il a renié la qualité de plusieurs transactions consignées au livre des minutes de la compagnie parce que sa signature n'y apparaissait pas. Bien plus, il a affirmé avoir été surpris que le dividende reçu annuellement résultait de la vente de ses actions. Or, la preuve a démontré qu'il s'agissait là d'une pratique répétitive au cours des années précédant l'année en litige.
+[17] En résumé, l'appelant a soutenu que l'intimée l'avait imposé sur un dividende qui n'avait jamais existé. Selon ce dernier, il ne s'agissait aucunement d'un dividende, mais simplement d'une avance.
+[18] De son côté, Madame a soumis une version des faits fort différente. Après avoir dû acquitter un montant d'impôt supérieur à celui prévu à la suite du paiement d'un dividende l'année précédente à celle en litige, elle a donné instruction au comptable de réduire rétroactivement de 20 000 $ le dividende déjà attribué, compte tenu que cette façon de procéder était plus onéreuse que prévue et voulue.
+[19] Ce sont là les explications de l'appelant et son épouse, relatives à la question du montant de dividende litigieux. La preuve documentaire émanant du livre des minutes de la compagnie et les états financiers n'apportent aucune précision et ne correspondent pas aux prétentions de l'appelant.
+[20] Dans les circonstances, il eût été fort important de faire témoigner ceux qui avaient préparé le livre de minutes et les états financiers. Ils avaient la confiance de l'appelant et de son épouse.
+[21] Suivant leur témoignage, ils ne questionnaient jamais le travail des comptables et signaient généralement les documents préparés requérant une signature. Il semble que la seule fois où la conjointe de l'appelant soit intervenue, a été au moment où elle a réalisé que le dividende attribué par le comptable entraînerait l'obligation de payer un montant d'impôt supérieur à celui désiré.
+[22] Il semble que l'appelant et son épouse avaient une seule préoccupation quant au travail exécuté par les comptables, « payer le minimum d'impôt » . En soi, il s'agissait d'une préoccupation correcte et légitime nullement interdite par la Loi de l'impôt sur le revenu.
+[23] Cela ne veut pas dire pour autant qu'une personne peut changer en tout temps ses décisions relatives à des transactions générant des conséquences fiscales et encore moins, prendre des décisions avec effets rétroactifs. Il en va de la stabilité même de notre système fiscal.
+[24] Toute personne bénéficie de larges latitudes pour la planification fiscale de ses affaires. Cela ne veut pas pour autant dire qu'il est possible de corriger le tir en tout temps et, même, de façon rétroactive.
+[25] Je ne souscris aucunement aux arguments et prétentions de l'appelant. Ce dernier a choisi d'organiser ses affaires en constituant une compagnie. N'ayant pas les compétences pour assumer toutes les obligations et profiter de tous les avantages, il a choisi de mandater des personnes s'affichant qualifiées pour ce faire.
+[26] L'appelant a fait des choix. Il doit les assumer. L'intimée a très justement décrit le comportement de l'appelant en affirmant qu'il a voulu faire une planification fiscale rétroactive. Accepter une telle façon de faire aurait pour effet d'encourager la précarité de toutes les transactions ayant des effets sur la fiscalité des parties impliquées.
+[27] Si l'appelant est d'avis qu'il a tout bien fait, qu'il n'a rien à se reprocher et que l'incohérence est le résultat de l'incurie et négligence de ses comptables, il s'agit d'une question de responsabilité professionnelle. Je ne vois pas pourquoi l'État devrait assumer les conséquences de ce qui, selon l'appelant, était une négligence ou un manquement aux règles de l'art.
+[28] L'appel est rejeté, avec dépens.
+Signé à Ottawa, Canada, ce 12e jour de novembre 2003.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2003CCI789
+No DU DOSSIER DE LA COUR :
+2001-3885(IT)G
+INTITULÉ DE LA CAUSE :
+Gaétan Paquet et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Shawinigan (Québec)
+DATE DE L'AUDIENCE
+le 28 mai 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 12 novembre 2003
+COMPARUTIONS :
+Pour l'appelant :
+Me François Daigle
+Pour l'intimée :
+Me Dany Leduc
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me François Daigle
+Étude :
+Bélanger Sauvé
+Trois-Rivières (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

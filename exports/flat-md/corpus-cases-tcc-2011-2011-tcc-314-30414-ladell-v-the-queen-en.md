@@ -1,0 +1,217 @@
+---
+title: "Ladell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30414/index.do"
+last_modified: "2011-06-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 314"
+citation2: ""
+neutral_citation: "2011 TCC 314"
+decision_date: "2011-06-22"
+language: "en"
+item_id: "30414"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7944
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:29:49.212000+00:00"
+cases_cited_count: 3
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0137b4fa35d9055df6a54a75bd226598fcff868f1052fa2fd6d1b9b1c9e907b3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ladell v. The Queen
+
+- Citation: 2011 TCC 314
+- Decision date: 2011-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7944, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ladell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-06-22
+Neutral citation
+2011 TCC 314
+File numbers
+2010-3541(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-3541(IT)I
+BETWEEN:
+Scot A. Ladell,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on March 11, 2011, at Calgary, Alberta.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Adam Gotfried
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2008 taxation year is dismissed.
+Signed at Ottawa, Canada, this 22nd day of June 2011.
+« Lucie Lamarre »
+Lamarre J.
+Citation: 2011 TCC 314
+Date:20110622
+Docket: 2010-3541(IT)I
+BETWEEN:
+Scot A. Ladell,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] This is an appeal from a reassessment made by the Minister of National Revenue (Minister) under the Income Tax Act (ITA) for the appellant’s 2008 taxation year. In computing his income for that year, the appellant claimed, among other things, a deduction for an eligible dependant in the amount of $9,600 and a child amount of $2,038 for children born in 1991 or later, pursuant to paragraphs 118(1)(b) and (b.1) of the ITA. The Minister disallowed those deductions pursuant to paragraph 118(5) of the ITA on the basis that the appellant was making support payments in that year for the child he was claiming.
+Statutory provisions
+56.1(4)
+Definitions.
+The definitions in this subsection apply in this section and section 56.
+“support amount”
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+118. (1)
+Personal credits.
+For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted an amount determined by the formula
+A × B
+where
+A is the appropriate percentage for the year, and
+B is the total of,
+. . .
+Wholly dependent person
+(b) in the case of an individual who does not claim a deduction for the year because of paragraph (a) and who, at any time in the year,
+(i) is
+(A) a person who is unmarried and who does not live in a common-law partnership, or
+(B) a person who is married or in a common-law partnership, who neither supported nor lived with their spouse or common law-[sic] partner and who is not supported by that spouse or common-law partner, and
+(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+(A) except in the case of a child of the individual, resident in Canada,
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be,
+(C) related to the individual, and
+(D) except in the case of a parent or grandparent of the individual, either under 18 years of age or so dependent by reason of mental or physical infirmity,
+an amount equal to the total of
+(iii) $10,320, and
+(iv) the amount determined by the formula
+$10,320 – D
+where
+D is the dependent person’s income for the year,
+Child amount
+(b.1) where
+(i) a child of the individual ordinarily resides throughout the taxation year with the individual together with another parent of the child, $2,000 for each such child who is under the age of 18 years at the end of the taxation year, or
+(ii) except where subparagraph (i) applies, the individual may deduct an amount under paragraph (b) in respect of the individual’s child who is under the age of 18 years at the end of the taxation year, or could deduct such an amount in respect of that child if paragraph 118(4)(a) did not apply to the individual for the taxation year and if the child had no income for the year, $2,000 for each such child.
+. . .
+Support.
+(5) No amount may be deducted under subsection (1) in computing an individual’s tax payable under this Part for a taxation year in respect of a person where the individual is required to pay a support amount (within the meaning assigned by subsection 56.1(4)) to the individual’s spouse or common-law partner or former spouse or common-law partner in respect of the person and the individual
+(a) lives separate and apart from the spouse or common-law partner or former spouse or common-law partner throughout the year because of the breakdown of their marriage or common-law partnership; or
+(b) claims a deduction for the year because of section 60 in respect of a support amount paid to the spouse or common-law partner or former spouse or common-law partner.
+Where subsection (5) does not apply.
+(5.1) Where, if this Act were read without reference to this subsection, solely because of the application of subsection (5), no individual is entitled to a deduction under paragraph (b) or (b.1) of the description of B in subsection (1) for a taxation year in respect of a child, subsection (5) shall not apply in respect of that child for that taxation year.
+Facts
+[2] It is not disputed that the appellant and his former spouse have been living separate and apart since December 26, 2003 due to the breakdown of their marriage. They have two children, one born May 6, 1994 and the other July 26, 1995, of whom they share custody.
+[3] In 2006, they signed a divorce and property agreement (Agreement) in which they agreed that they would have joint custody of the children and that they would share equally the time with the children and would alternate “primary residential care and control” of the children (Exhibit A‑1, par. 2.1). The relevant child support provisions in the Agreement are reproduced hereunder:
+Child Support
+13.1 The Husband and the Wife acknowledge that at the time of execution of this Agreement, the Husband is employed with Chinook Chiropractic as a Chiropractor and the parties acknowledge that for the purposes of specifying child support, it is acknowledged that the Husband earns approximately $90,000.00 while the Wife is self-employed as a realtor with Sutton Group/Alta-West and earn approximately $35,000.00. As their income may fluctuate, the parties are to provide each other by June 1st of each year, commencing June 1, 2007, with a statement of their annual income, as well as future anticipated Section 7 expenses, provided the information is available at that time. The parties shall modify the child support payment and Section 7 expenses, if applicable, in accordance with updated disclosure.
+13.2 In consideration for a retroactive claim for child and spousal support, the Husband shall provide the Wife with a $5,000.00 lump sum settlement, which sum combines retroactive child and spousal support arising since the date of separation. The parties acknowledge that the Husband has provided the Wife with the settlement payment and the Wife acknowledges receipt of same.
+13.3 The parties acknowledge that pursuant to the parenting arrangement, and the Federal Child Support Guidelines, that the Husband shall pay the Wife monthly child support in the amount of $784.00, such payments to commence on the first day of the month following the execution of this agreement and to continue on the first day of each month thereafter for so long as the children are dependent children of the marriage as defined by the Divorce Act, 1985, as amended. The parties acknowledge that the child support in the amount of $784.00 is derived [sic] at considering the difference between the Husband’s child support obligation of $1290.00 and the Wife’s child support obligation of $506.00.
+. . .
+13.9 The parties agree that the children will be considered to be resident with the Wife for tax purposes and the Wife shall be entitled to receive any available deductions for the children, including the full income tax deduction permitted for child care expenses.
+. . .
+Variation of child Support
+18.1 If a material change occurs in the condition, means, needs or other circumstances of either the Husband, or the Wife, or any of them, as contemplated in Section 17 of the Divorce Act, 1985, either the Wife or the Husband may apply for a variation of the child support, custody and access provisions of this Agreement.
+. . .
+Income taxes
+20.1 The Wife is entitled to receive the Child Tax Benefit for both children.
+20.2 The Wife and Husband may claim any child care expenses she and or he pay for the child and or children as a deduction pursuant to the Income Tax Act, S.C. 1970-71-72, c-63, as amended.
+[4] The appellant is of the view that he and his former spouse were both paying child support and that, by virtue of subsection 118(5.1), subsection 118(5) does not apply to prevent him from claiming the deduction for an eligible dependant and the child amount. The appellant submits that, under the Agreement, each parent has an obligation towards the other with regard to financial support for the children. The transfer of money was simplified through the higher wage earner paying the difference to the lower wage earner, but that did not alter the fact that each parent was paying the other child support, as they were sharing the children equally (see Notice of Appeal).
+[5] The appellant acknowledged that he paid his former spouse $784 per month in 2008 and that she did not pay him any amount of money in that year. However, he insisted that he was in fact paying a net amount, and that that did not mean she was not paying him child support.
+[6] This is a case of joint custody where the parents share equally the time spent with their children. The support amount under the Agreement was calculated pursuant to the Federal Child Support Guidelines (Guidelines). Sections 8 and 9 of the Guidelines read as follows:
+Federal Child Support Guidelines
+Split custody
+8. Where each spouse has custody of one or more children, the amount of a child support order is the difference between the amount that each spouse would otherwise pay if a child support order were sought against each of the spouses.
+Shared custody
+9. Where a spouse exercises a right of access to, or has physical custody of, a child for not less than 40 per cent of the time over the course of a year, the amount of the child support order must be determined by taking into account
+(a) the amounts set out in the applicable tables for each of the spouses;
+(b) the increased costs of shared custody arrangements; and
+(c) the conditions, means, needs and other circumstances of each spouse and of any child for whom support is sought.
+[7] In a case of shared custody, it is section 9 of the Guidelines that is applicable. In Contino v. Leonelli-Contino, [2005] 3 S.C.R. 217, [2005] S.C.J. No. 65 (QL), 2005 SCC 63, the Supreme Court of Canada stated that section 9 of the Guidelines expressly provides for a particular regime in cases of shared custody. The first factor set out in paragraph 9(a) requires that the court take into account the financial situation of both parents. In the Supreme Court’s view, although the set-off approach in section 8 of the Guidelines may be a useful starting point for arriving at a reasonable solution taking into account the separate financial contribution of each parent, adjustments will be made to the set-off amount in light of the factors considered under paragraphs 9(b) and (c) of the Guidelines. As stated by Bastarache J. at paragraph 41, “[t]he set-off amount must therefore be followed by an examination of the continuing ability of the recipient parent to meet the needs of the child, especially in light of the fact that many costs are fixed . . . this is a problem in many cases where there is a great discrepancy in the incomes of the parents . . . .”
+[8] Bastarache J. explained the basis on which the support amount is calculated in joint custody situations as follows at paragraph 49 et seq. in Contino, supra:
+49 Hence, the simple set-off serves as the starting point, but it cannot be the end of the inquiry. It has no presumptive value. Its true value is in bringing the court to focus first on the fact that both parents must make a contribution and that fixed and variable costs of each of them have to be measured before making adjustments to take into account increased costs attributable to joint custody and further adjustments needed to ensure that the final outcome is fair in light of the conditions, means, needs and other circumstances of each spouse and child for whom support is sought. Full consideration must be given to these last two factors (see Payne, at p. 263). The cliff effect is only resolved if the court covers and regards the other criteria set out in paras. (b) and (c) as equally important elements to determine the child support.
+50 It should be noted here that the Table amounts are an estimate of the amount that is notionally being paid by the non‑custodial parent; where both parents are making an effective contribution, it is therefore necessary to verify how their actual contribution compares to the Table amount that is provided for each of them when considered payor parents. This will provide the judge with better insight when deciding whether the adjustments to be made to the set-off amount are based on the actual sharing of child-related expenses.
+51 This is where discretion comes into play. The court retains the discretion to modify the set-off amount where, considering the financial realities of the parents, it would lead to a significant variation in the standard of living experienced by the children as they move from one household to another, something which Parliament did not intend. As I said in Francis v. Baker, one of the overall objectives of the Guidelines is, to the extent possible, to avoid great disparities between households. It is also necessary to compare the situation of the parents while living under one roof with the situation that avails [sic] for each of them when the order pursuant to s. 9 is sought. As far as possible, the child should not suffer a noticeable decline in his or her standard of living. Still, it is not a discretion that is meant to set aside all rules and predictability. The court must not return to a time when there was no real method for determining child support (Paras v. Paras, [1971] 1 O.R. 130 (C.A.)).
+. . .
+2.2.2 Section 9(b) — Increased Costs of Shared Custody Arrangements
+. . .
+53 A change in the actual amount of time a payor parent spends with a child will therefore give rise under s. 9(b) to an inquiry in order to determine what are, in effect, the additional costs incurred by the payor as a result of the change in the custodial arrangement. I say this because not all increases in costs will result directly from the actual amount of time spent with the child. One parent can simply assume a larger share of responsibilities, for school supplies or sports activities for example. For these reasons, the court will be called upon to examine the budgets and actual child care expenses of each parent. These expenses will be apportioned between the parents in accordance with their respective incomes.
+2.2.3 Section 9(c) — Conditions, Means, Needs and Other Circumstances
+. . .
+68 Section 9(c) vests the court [with] a broad discretion for conducting an analysis of the resources and needs of both the parents and the children. As mentioned earlier, this suggests that the Table amounts used in the simple set‑off are not presumptively applicable and that the assumptions they hold must be verified against the facts, since all three factors must be applied. Here again, it will be important to keep in mind the objectives of the Guidelines mentioned earlier, requiring a fair standard of support for the child and fair contributions from both parents. The court will be especially concerned here with the standard of living of the child in each household and the ability of each parent to absord [sic] the costs required to maintain the appropriate standard of living in the circumstances.
+[9] It is clear from the Agreement that the child support was calculated in accordance with section 9 of the Guidelines. Section 18.1 of the Agreement specifically states that if a material change occurs in the condition, means, needs or other circumstances of either the husband or the wife, either the wife or the husband may apply for a variation of the child support (this refers to the third factor, set out in paragraph 9(c) of the Guidelines, to be considered in determining the child support amount).
+[10] It can be inferred from Contino that although each parent may have a financial obligation towards the children in a shared custody situation, the child care expenses will be apportioned between the parents in accordance with the ability of each parent to absorb the costs required to maintain the appropriate standard of living in the circumstances. The support amount in section 9 of the Guidelines is not the result of a simple “mathematical calculus” (Contino, par. 88) or set-off whereby the support payment amount is calculated by determining the Table amount for each of the parents as though each was seeking child support from the other, as is the case for split custody (section 8 of the Guidelines). The child support amount in shared custody calls for the acknowledgment of the overall situation of the parents (their conditions and means) and the needs of the children. The weight of each factor under section 9 will vary according to the particular facts of each case (Contino, par. 39).
+[11] I therefore cannot agree with the appellant when he states that the transfer of money was simplified by the higher wage earner paying the difference to the lower wage earner and that he and his former spouse were paying each other a support amount. The support amount to be paid by the appellant is the result obtained after adjusting the starting set-off amount, taking into account, for adjustment purposes, the financial realities of the parents that may lead to a significant variation in the standard of living experienced by the children as they move from one household to the other (Contino, par. 51).
+[12] In Melnyk v. The Queen, 2007 TCC 733, Webb J. concluded as follows after referring to Contino, supra (at paragraph 7):
+7 In my opinion in determining the amount of support payable under paragraph 9 of the Federal Child Support Guidelines, the factors set out in section 9 of these Guidelines are to be analyzed to determine the amount of child support that will be payable by one parent to the other. While it is recognized that in situations where both spouses are earning income that each will contribute to the support of the child, the contributions are not made from one parent to the other. While Graeme was with Kaila Melnyk the amount that she would be paying for his food, clothing, shelter and other items that would be purchased for him would not be made by payments made from Kaila to the Appellant, but rather would be paid directly by Kaila to the provider of these goods and services. Kaila had an obligation to contribute towards the support of Graeme but not by making payments to the Appellant, but by making payments directly to the persons who were providing the goods and services to Graeme while Graeme was with her. Her contributions to the support of Graeme would not be income to the Appellant.
+[Emphasis added.]
+[13] In Melnyk, the affidavit of the taxpayer which had been filed with the Supreme Court of British Columbia indicated that only one amount was contemplated as a child support amount, and that was the amount payable by the taxpayer to the former spouse. The order issued confirmed that only one amount was payable. The same can be said in the case before me. The Agreement provides only that the husband (the appellant) shall pay the wife monthly child support, and there is no mention of the wife having to pay a child support amount to the appellant. The wife’s child support obligation referred to in section 13.3 of the Agreement is not a child support amount payable to the husband (the appellant).
+[14] In Perrin v. The Queen, 2010 TCC 331, Woods J. was presented with exactly the same issue as that before me. At paragraphs 11 to 15, she stated:
+11 Mr. Perrin also submits that s. 118(5) does not apply because both he and his spouse pay child support to each other pursuant to federal support guidelines. The reason for this, it is submitted, is that each parent earns income which gives rise to a child support obligation which is netted under the guidelines.
+12 The circumstance of both spouses paying child support is specifically contemplated by subsection 118(5.1) of the Act, which came into force beginning in 2007. It would provide the relief sought by the appellant if in fact both spouses paid child support. Neither party referred to this provision at the hearing, and it is reproduced below.
+118(5.1) Where, if this Act were read without reference to this subsection, solely because of the application of subsection (5), no individual is entitled to a deduction under paragraph (b) or (b.1) of the description of B in subsection (1) for a taxation year in respect of a child, subsection (5) shall not apply in respect of that child for that taxation year.
+13 This provision is intended to avoid the harsh application of s. 118(5) where both spouses pay child support for the same child in the relevant year. It is designed to enable one of the spouses to claim the tax credit under paragraph 118(1)(b) in these circumstances.
+14 This provision has no application here, however, because only Mr. Perrin was required to pay child support in the 2007 taxation year. The relevant clauses in the Separation Agreement are set out below:
+10.1 Commencing on the sale of the matrimonial home, and on the 1st day of each subsequent month thereafter, the husband shall pay to the wife, for the support and maintenance of the children, the sum of $376.50 per month per child, for a total of $753.00 (based upon a salary of $50,000) per month [...].
+10.2 The husband and the wife agree to use the Federal Guidelines to establish child support.
+10.3 (1) The husband acknowledges that he will pay the full child support figure outlined in the Federal Guidelines despite the fact that there is an equal shared access schedule. This clause will apply to any variation for child support based on a change in the husband's income.
+15 These provisions strongly suggest that only Mr. Perrin was required to pay child support for the two children in the 2007 taxation year. I am not satisfied based on the evidence presented that the Federal Guidelines would provide for a different result.
+[15] I therefore conclude that the appellant alone was required to pay child support for the children and that, by virtue of subsection 118(5) of the ITA, he was not entitled either to a deduction for an eligible dependant in the amount of $9,600 or to the deduction of a child amount of $2,038 for children born in 1991 or later, pursuant to paragraphs 118 (1)(b) and (b.1) of the ITA.
+[16] The appeal is dismissed.
+Signed at Ottawa, Canada, this 22nd day of June 2011.
+“Lucie Lamarre”
+Lamarre J.
+CITATION: 2011 TCC 314
+COURT FILE NO.: 2010-3541(IT)I
+STYLE OF CAUSE: Scot A. Ladell v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: March 11, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: June 22, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Adam Gotfried
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

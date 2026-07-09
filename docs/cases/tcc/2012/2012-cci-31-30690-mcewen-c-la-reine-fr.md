@@ -1,0 +1,291 @@
+---
+title: "McEwen c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30690/index.do"
+last_modified: "2012-01-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 31"
+citation2: ""
+neutral_citation: "2012 CCI 31"
+decision_date: "2012-01-30"
+language: "fr"
+item_id: "30690"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7189
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:49:28.076000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "72d4b8cbae9c7d13e8a061501cf10b8645e834098bcc96e7fe3cc2bd27c222a7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McEwen c. La Reine
+
+- Citation: 2012 CCI 31
+- Decision date: 2012-01-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7189, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McEwen c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-01-30
+Référence neutre
+2012 CCI 31
+Numéro de dossier
+2008-2163(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2163(IT)G
+ENTRE :
+JOHN MCEWEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus sur preuve commune avec l’appel de John McEwen (2008‑2180(GST)G)) le 13 décembre 2011 à
+Prince George (Colombie‑Britannique).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelant :
+Me Terrence P. Matte
+Avocate de l’intimée :
+Me Sara Fairbridge
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « LIR ») pour les années d’imposition 2003 et 2004 sont accueillis en partie, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte de ce qui suit :
+a) pour 2003 :
+(i) le revenu non déclaré de l’appelant, tiré de son entreprise dont il était propriétaire unique et qu’il exploitait sous le nom de John’s Moving (l’« entreprise ») était de 93 538,57 $ et non de 113 102,16 $ tel qu’il avait été établi (une réduction de 19 563,59 $);
+(ii) les dépenses de l’appelant liées à l’entreprise s’élevaient à 50 365,61 $ et non à 45 823,65 $ telles qu’elles avaient été établies (une augmentation de 4 541,96 $);
+(iii) des pertes autres que des pertes en capital additionnelles de 61 897 $ (en plus des pertes autres que des pertes en capital de 29 166 $ que l’appelant avait déduites dans sa déclaration de revenus pour 2003) que l’appelant avait auparavant subies doivent être déduites dans le calcul du revenu imposable de l’appelant pour 2003;
+(iv) la pénalité imposée au titre du paragraphe 163(2) de la LIR est réduite pour tenir compte du montant révisé de l’impôt qui serait payable par suite des rajustements susmentionnés quant aux revenus non déclarés et aux dépenses, mais elle est par ailleurs confirmée;
+b) pour 2004 :
+(i) le revenu non déclaré que l’appelant a tiré de l’entreprise était de 28 896,71 $ et non de 67 683,91 $ tel qu’il avait été établi (une réduction de 38 787,20 $);
+(ii) les dépenses de l’appelant liées à l’entreprise s’élevaient à 37 905,51 $ et non à 36 137,95 $ telles qu’elles avaient été établies (une augmentation de 1 767,56 $);
+(iii) des pertes autres que des pertes en capital additionnelles de 14 050 $ (en plus des pertes autres que des pertes en capital de 20 888 $ que l’appelant avait déduites dans sa déclaration de revenus pour 2004) que l’appelant avait auparavant subies, doivent être déduites dans le calcul du revenu imposable de l’appelant pour 2004;
+(iv) la pénalité imposée au titre du paragraphe 163(2) de la LIR est réduite pour tenir compte du montant révisé de l’impôt qui serait payable par suite des rajustements susmentionnés quant aux revenus non déclarés et aux dépenses, mais elle est par ailleurs confirmée.
+L’appelant paiera à l’intimée des dépens fixés à 1 500 $.
+Signé à Halifax (Nouvelle‑Écosse), ce 30e jour de janvier 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 20e jour d’avril 2012.
+Mario Lagacé, jurilinguiste
+Dossier : 2008-2180(GST)G
+ENTRE :
+JOHN MCEWEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec les appels de John McEwen (2008‑2163(IT)G)) le 13 décembre 2011 à
+Prince George (Colombie‑Britannique).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelant :
+Me Terrence P. Matte
+Avocate de l’intimée :
+Me Sara Fairbridge
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi sur la taxe d’accise (la « LTA ») pour les périodes de déclaration allant du 1er janvier 2003 au 31 décembre 2004 (la « période ») est accueilli en partie, sans dépens, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations, en tenant compte de ce qui suit :
+a) pour la période de déclaration allant du 1er octobre 2003 au 31 décembre 2003 :
+(i) la taxe sur les produits et services (la « TPS ») percevable non déclarée de l’appelant était de 5 894,80 $ et non de 7 264,23 $ telle qu’elle avait été calculée (une réduction de 1 369,43 $);
+(ii) l’appelant a droit à des crédits de taxe sur les intrants additionnels (« CTI ») d’un montant total de 61,84 $;
+(iii) la pénalité imposée en vertu de l’article 285 de la LTA est réduite pour tenir compte du montant révisé de taxe nette à payer pour cette période de déclaration, mais elle est par ailleurs confirmée;
+b) pour la période de déclaration allant du 1er octobre 2004 au 31 décembre 2004 :
+(i) la TPS percevable non déclarée de l’appelant était de 1 611,19 $ et non de 4 326,29 $ telle qu’elle avait été calculée (une réduction de 2 715,10 $);
+(ii) l’appelant a droit à des CTI additionnels d’un montant total de 100,76 $;
+(iii) la pénalité imposée en vertu de l’article 285 de la LTA est réduite pour tenir compte du montant révisé de taxe nette à payer pour cette période de déclaration, mais elle est par ailleurs confirmée.
+Signé à Halifax (Nouvelle-Écosse), ce 30e jour de janvier 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 20e jour d’avril 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 31
+Date : 20120130
+Dossiers : 2008-2163(IT)G
+2008-2180(GST)G
+ENTRE :
+JOHN MCEWEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] En plus de travailler comme soudeur à une usine située à environ 50 à 60 milles au nord de Prince George, en Colombie‑Britannique, l’appelant exploitait aussi, en tant que propriétaire unique, une entreprise de déménagement à Prince George. De nouvelles cotisations ont été établies en vertu de la Loi de l’impôt sur le revenu (la « LIR ») pour les années d’imposition 2003 et 2004 de l’appelant en vue d’augmenter son revenu et de diminuer ses dépenses. L’appelant a également fait l’objet d’une cotisation de taxe nette à payer supplémentaire en vertu de la Loi sur la taxe d’accise (la « LTA ») par suite des modifications apportées aux revenus et aux dépenses de l’appelant (qui ont modifié le montant de TPS à percevoir ou perçu par l’appelant et le montant des crédits de taxe sur les intrants). L’appelant a interjeté appel de ces cotisations établies en vertu de la LIR et de la LTA. Des pénalités ont également été imposées à l’appelant en vertu du paragraphe 163(2) de la LIR et de l’article 285 de la LTA.
+[2] Avant le début de l’audience, les parties ont réglé les questions relatives aux revenus non déclarés et aux dépenses que l’appelant pouvait déduire dans le calcul de son revenu pour l’application de la LIR, ainsi que la question concernant le montant de taxe nette à payer pour l’application de la LTA. Les parties ont convenu de ce qui suit, concernant l’appel interjeté en vertu de la LIR :
+a) pour 2003 :
+(i) le revenu non déclaré de l’appelant, qu’il a tiré de son entreprise dont il était propriétaire unique et qu’il exploitait sous le nom de John’s Moving (l’« entreprise »), était de 93 538,57 $ et non de 113 102,16 $ tel qu’il a été calculé (une réduction de 19 563,59 $);
+(ii) les dépenses de l’appelant relatives à l’entreprise s’élèvent à 50 365,61 $ et non à 45 823,65 $ telles qu’elles ont été calculées (une augmentation de 4 541,96 $);
+(iii) des pertes autres que des pertes en capital additionnelles de 61 897 $ (en plus des pertes autres que des pertes en capital de 29 166 $ que l’appelant avait déduites dans sa déclaration de revenus pour 2003) que l’appelant avait auparavant subies doivent être déduites dans le calcul du revenu imposable de l’appelant pour 2003;
+b) pour 2004 :
+(i) le revenu non déclaré de l’appelant qu’il a tiré de son entreprise, était de 28 896,71 $ et non de 67 683,91 $ tel qu’il a été établi (une réduction de 38 787,20 $);
+(ii) les dépenses de l’appelant liées à l’entreprise s’élevaient à 37 905,51 $ et non à 36 137,95 $ telles qu’elles ont été calculées (une augmentation de 1 767,56 $);
+(iii) des pertes autres que des pertes en capital additionnelles de 14 050 $ (en plus des pertes autres que des pertes en capital de 20 888 $ que l’appelant avait déduites dans sa déclaration de revenus pour 2004) que l’appelant avait auparavant subies doivent être déduites dans le calcul du revenu imposable de l’appelant pour 2004.
+[3] Les parties ont également convenu de ce qui suit, concernant l’appel interjeté en vertu de la LTA :
+a) pour la période de déclaration allant du 1er octobre 2003 au 31 décembre 2003 :
+(i) la taxe sur les produits et services (la « TPS ») percevable non déclarée était de 5 894,80 $ et non de 7 264,23 $ telle qu’elle avait été calculée (une réduction de 1 369,43 $);
+(ii) l’appelant a droit à des crédits de taxe sur les intrants additionnels (les « CTI ») d’un montant total de 61,84 $;
+b) pour la période de déclaration allant du 1er octobre 2004 au 31 décembre 2004 :
+(i) la TPS percevable non déclarée de l’appelant était de 1 611,19 $ et non de 4 326,29 $ telle qu’elle avait était calculée (une réduction de 2 715,10 $);
+(ii) l’appelant a droit à des CTI additionnels d’un montant total de 100,76 $.
+[4] Par conséquent, la seule question en litige qui subsistait à l’audience était l’imposition de pénalités en vertu du paragraphe 163(2) de la LIR et de l’article 285 de la LTA. Des pénalités seront applicables en vertu de ces dispositions si une personne « sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration [...], ou y participe, y consent ou y acquiesce ».
+[5] L’appelant a commencé à exploiter son entreprise de déménagement en 1990 ou en 1991. Il a acquis un petit fourgon grand volume afin que ses fils puissent déménager du mobilier. Après que ses fils ont changé de travail, l’appelant a embauché d’autres personnes qu’il connaissait pour continuer à exploiter l’entreprise.
+[6] L’appelant avait auparavant fait l’objet d’une vérification, et il lui avait été conseillé de mieux tenir ses comptes. Toutefois, il est évident que la tenue de comptes de l’appelant n’était pas appropriée. L’appelant avait une boîte dans laquelle il mettait ses reçus, qu’il s’agisse de reçus relatifs à des dépenses personnelles ou à des dépenses d’entreprise. Il apparaît aussi que des factures se rapportant à des montants importants de revenus n’ont pas été incluses dans les factures fournies au comptable de l’appelant. L’appelant avait retenu les services d’un comptable et il supposait que ce dernier démêlerait ses revenus et ses dépenses. Toutefois, il apparaît que l’appelant n’a pas été d’une grande aide (si aide il y a eu) à son comptable pour déterminer si les reçus concernaient des dépenses personnelles ou des dépenses d’entreprise. Le comptable ne pourrait pas non plus établir de manière précise le revenu de l’appelant si toutes les factures concernant les services fournis par l’appelant dans l’exploitation de son entreprise ne lui étaient pas remises.
+[7] Le revenu déclaré de l’appelant et le revenu de l’appelant fondé sur les revenus et les dépenses convenus par les parties sont les suivants :
+2003
+2004
+Revenu déclaré :
+39 759 $
+27 306 $
+Dépenses déduites :
+58 482 $
+50 365 $[1]
+Revenu (perte) selon la déclaration :
+(18 724 $)
+(23 059 $)
+Revenu non déclaré :
+93 539 $
+28 897 $
+Dépenses refusées :
+8 116 $[2]
+12 459 $[3]
+Revenu révisé :
+82 931 $
+18 297 $
+[8] L’appelant avait initialement déduit une perte relativement à son entreprise pour 2003 et 2004, mais par suite des rajustements faits à son revenu et à ses dépenses, il avait réalisé un profit de 82 931 $ pour 2003 et de 18 297 $ pour 2004. L’augmentation du revenu pour 2003 et 2004 était de 101 655 $ et de 41 356 $, respectivement. Le revenu non déclaré de 93 539 $ pour 2003 représentait 70 % du revenu total de l’appelant pour 2003 de 133 298 $ (39 759 $+ 93 539 $) et correspondait à 2,35 fois le revenu que l’appelant avait déclaré.
+[9] Il y avait des factures qui manquaient concernant les services fournis par l’appelant dans l’exploitation de son entreprise. L’appelant n’a déclaré aucun revenu relativement à des déménagements locaux bien qu’il semblerait que les déménagements locaux faisaient partie de l’activité de l’entreprise en 2003 et en 2004. L’appelant n’avait aucune explication quant aux factures manquantes et quant au défaut d’inclure tout revenu relatif aux déménagements locaux. L’appelant n’a préparé aucun rapprochement entre le montant qu’il déclarait comme revenu et le montant qu’il déposait à la banque. Il disait simplement à ses employés de tout mettre dans la boîte et il semble que l’appelant n’ait pas vérifié le contenu de la boîte.
+[10] En ce qui concerne les dépenses déduites, un certain nombre de problèmes ont été soulevés. Parmi les dépenses déduites figurait une somme payée à The Coast Inn of the North, à Prince George, pour un [traduction] « forfait Jacuzzi ». L’appelant n’a fourni aucune explication relativement à cette déduction; il n’a pas non plus justifié comment cette dépense était liée à son entreprise.
+[11] Les déductions demandées par l’appelant incluaient également des sommes payées à Ticketmaster (pour une activité non précisée), à Batnuni Lake Resort (pour deux nuits de camping) et à Days Inn Medicine Hat (pour un séjour d’une nuit). L’appelant n’a fourni aucun élément de preuve pour expliquer comment l’une ou l’autre de ces dépenses était liée à son entreprise.
+[12] L’appelant a déduit une somme de 9 777,90 $ (qui comprenait une TPS de 639,68 $) relativement à des réparations importantes faites au camion. La date figurant sur la facture est le 8 septembre 2003, et l’appelant a déclaré qu’il avait payé les réparations au moyen d’un chèque tiré sur son compte Visa. Une copie du chèque a été produite en preuve. Une photocopie du relevé de compte Visa de l’appelant daté du 19 septembre 2003 et portant le même numéro de compte que celui figurant sur le chèque a également été produite en preuve. Le relevé original n’a pas été présenté et l’appelant a déclaré qu’il ne savait pas où il se trouvait. Les deux parties étaient d’accord sur le fait que ce relevé de compte Visa avait été modifié. Il semble évident que l’écriture suivante a été ajoutée :
+[traduction]
+DATE DE L’OPÉR.
+NO DE RÉF.
+DÉBITS/
+CRÉDITS (-)
+OPÉRATIONS DEPUIS LE RELEVÉ PRÉCÉDENT
+09/08
+3
+9 977,90 $
+ROCKYAUTO ELECTRIC
+RED DEER,AB
+[13] La police de caractère utilisée pour l’écriture dont il est question ci‑dessus est différente de celle utilisée pour les autres écritures. Les éléments susmentionnés ne sont pas alignés avec les éléments situés au‑dessus et en‑dessous de cette ligne dans le relevé. Le premier chiffre du montant (« 9 ») a été écrit à la main. Le montant figurant sur le chèque Visa était 9 777,90 $ et non 9 977,90 $ comme il a été ajouté au relevé de compte Visa. La province (AB) suit immédiatement le lieu (RED DEER), et les deux inscriptions ne sont séparées que par une virgule. Pour les lieux mentionnés aux autres lignes du relevé, il n’y a pas de virgule entre le lieu et la province, et ces inscriptions sont séparées par une espace.
+[14] La personne qui a modifié le document a aussi simplement changé le nouveau solde total figurant sur le relevé. Voici donc le résumé financier tel qu’il figure maintenant sur le relevé de compte Visa modifié :
+[traduction]
+DATE DU RELEVÉ PRÉCÉDENT
+SOLDE PRÉCÉDENT
++
+INTÉRÊTS
++
+DÉBITS
+-
+CRÉDITS
+=
+NOUVEAU SOLDE
+20 AOÛT 2003
+2 987,24 $
+25,27 $
+259,56 $
+280 $
+12 765,14 $
+[15] Manifestement, la somme des montants susmentionnés n’est pas de 12 765,14 $. Il n’est même pas clair comment ce montant a été calculé. En tout état de cause, il est évident (comme en ont convenu les parties) que le relevé a été modifié. L’appelant n’a pas pu expliquer ces modifications et il ne savait pas qui les avait effectuées. Toutefois, il existe une autre question (qui est aussi restée sans réponse). Il est évident que le relevé de compte Visa (dans sa version originale) ne comportait pas le chèque Visa que l’appelant prétend avoir utilisé pour payer les réparations effectuées sur le camion. Étant donné que l’appelant a déclaré qu’il avait payé la facture datée du 8 septembre 2003 au moyen du chèque Visa le 9 septembre 2003 (ce qu’il devait faire, d’après lui, pour récupérer son camion), ce chèque Visa aurait dû apparaître sur le relevé de compte Visa daté du 19 septembre 2003. Si l’appelant avait réglé cette facture le 9 septembre 2003 au moyen du chèque Visa, pourquoi ce chèque n’avait‑il pas été mentionné sur le relevé de compte Visa du même compte Visa daté du 19 septembre 2003? Il apparaît que l’intimée ne conteste pas que des réparations importantes ont été effectuées sur le camion et que le montant total de la facture de ces travaux était le montant déclaré (9 777,90 $, TPS incluse). Toutefois, l’intimée remettait en question l’année au cours de laquelle les réparations ont été effectuées, et le relevé de compte Visa modifié n’est pas utile à l’appelant pour établir que ces réparations ont été faites en 2003.
+[16] À l’audience, deux copies du chèque numéro 1067 ont été produites en preuve. Ce chèque a été libellé par l’appelant au nom de Rene Lozier. Sur l’une des copies du chèque figure la note [traduction] « pour un auvent sur la maison » tandis que l’autre copie ne comporte pas une telle note. L’avocat de l’appelant avait laissé entendre qu’on avait peut‑être utilisé des photocopieuses différentes. Toutefois, il y avait trois chèques qui avaient été libellés au nom de Rene Lozier, qui avaient été photocopiés deux fois. Chaque feuille de papier comportait des copies de trois chèques. Par conséquent, le chèque numéro 1067 aurait été photocopié sur la même photocopieuse que celle qui aurait été utilisée pour photocopier les chèques numéro 1063 et 1120. Pour chacun des deux autres chèques, la note apparaît sur les deux copies. Je n’admets pas le fait que l’absence de la note sur la deuxième copie puisse être attribuée à l’utilisation d’une photocopieuse différente. Il apparaît que quelqu’un a enlevé la note [traduction] « pour un auvent sur la maison » avant que le chèque numéro 1067 soit photocopié la deuxième fois. En fin de compte, l’appelant n’a pas contesté que le chèque numéro 1067 concernait l’auvent de sa maison; il n’a pas non plus fourni d’explication sur le fait qu’il demandait une déduction relativement à l’auvent de sa maison dans le calcul du revenu net provenant de son entreprise.
+[17] L’appelant a également déduit des montants fondés sur des devis qu’il avait reçus pour de nouveaux pneus. Cela montre que l’appelant ne s’était pas soucié de savoir quels documents étaient déposés dans la boîte et quels montants étaient déduits à titre de dépenses aux fins du calcul de son revenu pour l’application de la LIR, et quels montants étaient demandés à titre de CTI pour l’application de la LTA.
+[18] Dans la décision Venne v. The Queen, [1984] C.T.C. 223, 84 DTC 6247, le juge Strayer, de la Section de première instance de la Cour fédérale, a fait les observations suivantes au sujet du sens de l’expression « faute lourde » pour l’application des pénalités prévues au paragraphe 163(2) de la LTA :
+La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+[19] Dans la décision Maltais v. The Queen, [1991] 2 C.T.C. 2651, 91 DTC 1385, le juge Bowman (tel était alors son titre) a fait les observations suivantes lorsqu’il s’est penché sur une pénalité imposée en application du paragraphe 163(1) de la LIR :
+7. Me Ghan a fait valoir pour le compte de l’intimée que le paragraphe 163(1), tel qu’il s’appliquait en 1989, n’exigeait pas de la part du contribuable l’intention volontaire de se soustraire à l’impôt. À l’appui de cette thèse, il a signalé que, dans sa formulation antérieure, le paragraphe 163(1) parlait de « toute personne qui tente volontairement de se soustraire à l’impôt qu’elle doit payer », tandis que le paragraphe 163(2) employait l’expression « sciemment ou dans des circonstances qui justifient l’imputation d’une faute lourde ». Ces dispositions exigent l’existence d’une intention coupable ou d’une négligence.
+[Non souligné dans l’original.]
+[20] Même si elles constituaient une remarque incidente dans cette décision, les observations du juge Bowman relatives au paragraphe 163(2) de la LIR ont été reprises par le juge Hamlyn dans la décision Dunleavy v. The Queen, [1993] 1 C.T.C. 2648, 93 D.T.C. 417.
+[21] Dans la décision Boileau v. The Minister of National Revenue, [1989] 2 C.T.C. 2001, 89 D.T.C. 247, la juge Lamarre Proulx s’est exprimée en ces termes :
+20. [...] Il est vrai qu’en vertu du paragraphe 163(2) il n’y a ni accusé ni accusation criminelle. Il semblerait donc qu’il ne s’agit pas d’une action criminelle et que cela demeure une action civile. Cependant, l’application du paragraphe en question exige que l’on fasse la preuve d’une intention ou d’une conduite coupable […]
+[Non souligné dans l’original.]
+[22] Il me semble évident que l’appelant était indifférent au respect de la LIR et de la LTA et que l’intention coupable en ce qui concerne la négligence a été établie en l’espèce. L’appelant ne s’est pas soucié de savoir quels documents étaient déposés dans la boîte ni de savoir si toutes les factures concernant les services rendus par l’entreprise de l’appelant s’y trouvaient. L’appelant n’a pas vérifié que tous les revenus étaient inclus, il n’a pas non plus fait de rapprochement entre le revenu déclaré et le montant qu’il avait perçu dans l’exploitation de son entreprise. Le revenu non déclaré, comme il a été souligné ci‑dessus, pour 2003 représentait 70 % du revenu total de l’appelant pour 2003 de 133 298 $, et était 2,35 fois le montant de revenu qu’il avait en fait déclaré. Pour 2004, le revenu non déclaré de l’appelant était de 28 897 $, ce qui représentait 51 % de son revenu total de 56 203 $ pour 2004 (27 306 $ + 28 897 $), et ce qui était légèrement supérieur au revenu qu’il avait en fait déclaré pour 2004. Ces montants sont importants et démontrent que l’appelant avait fait preuve d’« une indifférence au respect de la loi ».
+[23] Les montants qui avaient été déduits à titre de dépenses et qui ont été refusés confirment aussi l’indifférence de l’appelant à l’égard du respect de la LIR et de la LTA. L’appelant a déduit des dépenses concernant un forfait jacuzzi à The Coast Inn of the North, des billets pour une activité non précisée, un camping, un séjour à Medicine Hat (à l’égard duquel aucun lien avec l’activité de l’appelant n’a été établi); il a également déduit des montants fondés sur des devis pour de nouveaux pneus et un montant concernant l’auvent de sa maison. Le fait que l’appelant ait déduit ces montants indique également une indifférence ou une négligence.
+[24] La déduction concernant les réparations effectuées sur le camion et le relevé Visa modifié indiquent que l’appelant (ou quelqu’un qui agissait pour son compte) tentait de fournir des informations trompeuses quant au moment où les réparations sur le camion ont été effectuées. Il apparaît que l’intimée a soutenu que les réparations avaient été faites dans une année postérieure à 2003. Si les réparations ont été faites dans une année ultérieure, l’appelant ne pouvait déduire aucun montant en 2003 au titre de la LIR relativement à de telles réparations ni demander des CTI pour la période de déclaration qui incluait le mois de septembre 2003 concernant de telles réparations pour l’application de la LTA.
+[25] En conséquence, les pénalités imposées en vertu du paragraphe 163(2) de la LIR et de l’article 285 de la LTA sont maintenues. La Cour d’appel fédérale a fait les observations suivantes dans l’arrêt Boucher c. La Reine, 2004 CAF 46, 2004 DTC 6084, [2004] 2 C.T.C. 179 :
+7 Pendant l’audition de l’appel, des questions concernant le calcul de la pénalité et que l’appelante n’avait pas abordées ont été soulevées par la Cour. Plus particulièrement, la Cour souhaitait être convaincue qu’une pénalité pouvait être établie en vertu du paragraphe 163(2) quand il s’agit de revenus non déclarés pour une année d’imposition donnée, même si les revenus non déclarés sont compensés par des pertes existantes pour la même année. L’avocate de la Couronne a expliqué les dispositions pertinentes de façon assez détaillée. Son explication a été contestée par l’appelante. Après avoir entendu les arguments des deux parties, je conviens avec l’avocate de la Couronne que, par l’action combinée du sous‑alinéa 163(2)a)(i) et de l’alinéa 163(2.1)a), une pénalité peut être imposée même pour l’année de la perte parce qu’en fait, la perte reconnue antérieurement est écartée aux fins du calcul de la pénalité.
+[26] En conséquence, même si l’appelant a subi des pertes autres que des pertes en capital relatives à d’autres années qu’il peut utiliser pour réduire son revenu imposable pour 2003 et 2004, la pénalité imposée en vertu du paragraphe 163(2) de la LIR pour 2003 et 2004 est calculée en fonction de l’obligation fiscale qui serait déterminée pour ces années à l’égard de l’appelant si de telles pertes ne sont pas utilisées pour réduire son revenu imposable pour ces années.
+[27] Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la LIR pour les années d’imposition 2003 et 2004 sont accueillis en partie, et l’affaire est déférée au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte de ce qui suit :
+a) pour 2003 :
+(i) le revenu non déclaré de l’appelant tiré de son entreprise dont il était propriétaire unique et qu’il exploitait sous le nom de John’s Moving était de 93 538,57 $ et non de 113 102,16 $ tel qu’il avait été établi (une réduction de 19 563,59 $);
+(ii) les dépenses de l’appelant liées à l’entreprise s’élevaient à 50 365,61 $ et non à 45 823,65 $ telles qu’elles avaient été établies (une augmentation de 4 541,96 $);
+(iii) des pertes autres que des pertes en capital additionnelles de 61 897 $ (en plus des pertes autres que des pertes en capital de 29 166 $ que l’appelant avait déduites dans sa déclaration de revenus pour 2003) que l’appelant avait auparavant subies doivent être déduites dans le calcul du revenu imposable de l’appelant pour 2003;
+(iv) la pénalité imposée au titre du paragraphe 163(2) de la LIR est réduite pour tenir compte du montant révisé de l’impôt qui serait payable par suite des rajustements susmentionnés quant aux revenus non déclarés et aux dépenses, mais elle est par ailleurs confirmée;
+b) pour 2004 :
+(i) le revenu non déclaré que l’appelant a tiré de l’entreprise était de 28 896,71 $ et non de 67 683,91 $ tel qu’il avait été établi (une réduction de 38 787,20 $);
+(ii) les dépenses de l’appelant liées à l’entreprise s’élevaient à 37 905,51 $ et non à 36 137,95 $ telles qu’elles avaient été établies (une augmentation de 1 767,56 $);
+(iii) des pertes autres que des pertes en capital additionnelles de 14 050 $ (en plus des pertes autres que des pertes en capital de 20 888 $ que l’appelant avait déduites dans sa déclaration de revenus pour 2004) que l’appelant avait auparavant subies, doivent être déduites dans le calcul du revenu imposable de l’appelant pour 2004;
+(iv) la pénalité imposée au titre du paragraphe 163(2) de la LIR est réduite pour tenir compte du montant révisé de l’impôt qui serait payable par suite des rajustements susmentionnés quant aux revenus non déclarés et aux dépenses, mais elle est par ailleurs confirmée;
+c) L’appelant paiera à l’intimée des dépens fixés à 1 500 $.
+[28] L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la LTA pour les périodes de déclaration allant du 1er janvier 2003 au 31 décembre 2004 est accueilli en partie, sans dépens, et l’affaire est déférée au ministre pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations, en tenant compte de ce qui suit :
+a) pour la période de déclaration allant du 1er octobre 2003 au 31 décembre 2003 :
+(i) la TPS percevable non déclarée de l’appelant était de 5 894,80 $ et non de 7 264,23 $ telle qu’elle avait été calculée (une réduction de 1 369,43 $);
+(ii) l’appelant a droit à des CTI d’un montant total de 61,84 $;
+(iii) la pénalité imposée en vertu de l’article 285 de la LTA est réduite pour tenir compte du montant révisé de taxe nette à payer pour cette période de déclaration, mais elle est par ailleurs confirmée;
+b) pour la période de déclaration allant du 1er octobre 2004 au 31 décembre 2004 :
+(i) la TPS percevable non déclarée de l’appelant était de 1 611,19 $ et non de 4 326,29 $ telle qu’elle avait été calculée (une réduction de 2 715,10 $);
+(ii) l’appelant a droit à des CTI additionnels d’un montant total de 100,76 $;
+(iii) la pénalité imposée en vertu de l’article 285 de la LTA est réduite pour tenir compte du montant révisé de taxe nette à payer pour cette période de déclaration, mais elle est par ailleurs confirmée.
+Signé à Halifax (Nouvelle‑Écosse), ce 30e jour de janvier 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 20e jour d’avril 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 31
+NOS DES DOSSIERS DE LA COUR : 2008-2163(IT)G; 2008-2180(GST)G
+INTITULÉ : JOHN MCEWEN
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Prince George (Colombie‑Britannique)
+DATE DE L’AUDIENCE : Le 13 décembre 2011
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 30 janvier 2012
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Terrence P. Matte
+Avocate de l’intimée :
+Me Sara Fairbridge
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Terrence P. Matte
+Cabinet : Matte Stephens-Guille, LLP
+Prince George (Colombie‑Britannique)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Ce montant tient compte des dépenses de 9 022 $ déduites au titre du coût des marchandises vendues – contrats de sous-traitance.
+[2] Dépenses initialement déduites (58 482 $) – dépenses révisées admises (50 366 $) = dépenses refusées (8 116 $).
+[3] Dépenses initialement déduites (56 365 $) – dépenses révisées admises (37 906 $) = dépenses refusées (12 459 $).

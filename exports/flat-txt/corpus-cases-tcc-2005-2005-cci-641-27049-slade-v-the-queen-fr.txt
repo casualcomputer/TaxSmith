@@ -1,0 +1,93 @@
+Title: Slade v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27049/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-641-27049-slade-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2005-10-03
+
+# Slade v. The Queen
+
+- Citation: 2005 CCI 641
+- Decision date: 2005-10-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 594, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Slade v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-03
+Référence neutre
+2005 CCI 641
+Numéro de dossier
+2005-1863(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2005CCI641
+Date : 20051003
+Dossier : 2005-1863(IT)I
+ENTRE :
+ROY A. SLADE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience à
+Whitehorse (Yukon), le 12 septembre 2005.)
+Le juge en chef Bowman
+[1] Il s'agit d'un appel d'une cotisation établie pour l'année d'imposition 2003. L'appelant a demandé un crédit d'impôt au titre de l'alinéa 118(1)b) de la Loi de l'impôt sur le revenu. Cependant, selon un certain nombre d'ordonnances judiciaires rendues à compter de 1999 et toujours en vigueur maintenant, son ex-épouse et lui partagent la garde de leur fille, qui vit avec l'épouse pendant l'année scolaire.
+M. SLADE : [TRADUCTION] En alternance, j'ai eu la garde de ma fille pendant deux années scolaires complètes.
+JUGE EN CHEF : [TRADUCTION] En alternance, donc l'enfant est parfois avec l'épouse pendant l'année scolaire, et parfois elle est avec l'époux.
+[2] La conséquence semble être qu'aucun des parents n'est autorisé à demander le crédit en application de l'alinéa 118(1)b). M. Slade fait remarquer, selon moi avec raison, qu'il y a ici une injustice. Le paragraphe 118(5) de la Loi de l'impôt sur le revenu interdit la déduction d'un crédit d'impôt sur le fondement du paragraphe 118(1) :
+« [...] si le particulier, d'une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait pour la personne [...] »
+La personne en question étant l'enfant.
+[3] Donc, la loi démontre clairement qu'il n'a pas droit à un crédit selon le paragraphe 118(1).
+[4] Comme je l'avais mentionné à M. Slade, cette conclusion peut paraître injuste, mais il n'y a rien que je puisse y faire. C'est une question qui relève du Parlement. Je pourrais lui suggérer deux choses. Premièrement, il peut communiquer avec son député pour suggérer une modification de la loi. Deuxièmement, il peut communiquer avec son ex-épouse et discuter avec elle en compagnie de leurs avocats pour trouver une solution avantageuse et équitable pour les deux parties en ce qui concerne l'impôt.
+[5] Cette question est hors de ma compétence, mais je pense qu'il faudrait peut-être faire quelque chose pour remédier à la situation.
+[6] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour d'octobre 2005.
+« D. G. H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 3e jour de février 2006.
+Mario Lagacé, réviseur
+RÉFÉRENCE :
+2005CCI641
+N º DU DOSSIER DE LA COUR :
+2005-1863(IT)I
+INTITULÉ :
+Roy A. Slade et
+Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Whitehorse (Yukon)
+DATE DE L'AUDIENCE :
+Le 12 septembre 2005
+MOTIFS DU JUGEMENT :
+L'honorable D. G. H. Bowman,
+juge en chef
+DATE DU JUGEMENT :
+Le 3 octobre 2005
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Pavanjit Mahil
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+--
+Cabinet :
+--
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

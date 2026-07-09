@@ -1,0 +1,206 @@
+Title: Price v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28595/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-153-28595-price-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-04-11
+
+# Price v. The Queen
+
+- Citation: 2008 TCC 153
+- Decision date: 2008-04-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1062, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Price v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-11
+Neutral citation
+2008 TCC 153
+File numbers
+2006-1590(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-1590(IT)I
+BETWEEN:
+LESLIE PRICE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of the appellant
+(2006-1591(GST)I) and the appeal of
+Lillian Jenkins (2006-1425(GST)I) on June 11, 2007,
+at Miramichi, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the period from July 3, 1998 to June 26, 2001 is allowed in part and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of April 2008.
+« François Angers »
+Angers J.
+Docket: 2006-1591(GST)I
+BETWEEN:
+LESLIE PRICE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of the appellant
+(2006-1590(IT)I) and the appeal of
+Lillian Jenkins (2006-1425(GST)I) on June 11, 2007,
+at Miramichi, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, the notice of which is dated January 6, 2004, for the periods from April 1, 1999 to June 30, 1999, July 1, 1999 to September 30, 1999 and January 1, 2000 to March 31, 2000 is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of April 2008.
+« François Angers »
+Angers J.
+Docket: 2006-1425(GST)I
+BETWEEN:
+LILLIAN JENKINS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Leslie Price (2006-1590(IT)I and 2006-1591(GST)I) on June 11, 2007,
+at Miramichi, New Brunswick.
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the Appellant:
+Michael F.G. Noel
+Counsel for the Respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, the notice of which is dated January 6, 2004, for the periods from April 1, 1999 to June 30, 1999, July 1, 1999 to September 30, 1999 and January 1, 2000 to March 31, 2000 is allowed and the assessment vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 11th day of April 2008.
+« François Angers »
+Angers J.
+Citation: 2008TCC153
+Date: 20080411
+Dockets: 2006-1590(IT)I, 2006-1591(GST)I,
+2006-1425(GST)I
+BETWEEN:
+LESLIE PRICE,
+LILLIAN JENKINS,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Angers, J.
+[1] All three appeals were heard on common evidence. With respect to appeal number 2006-1590(IT)I, I ruled that sections 17.1, 17.2 and 17.4 to 17.8 of the Tax Court of Canada Act applied. It is to be noted as well that the appellant Leslie Price forwarded with his written submissions additional documents that are not part of the record. I therefore cannot take them into consideration in disposing of his appeals.
+[2] The appeal of Leslie Price under the Income Tax Act (the “Act”) is in respect of an assessment dated January 6, 2004 made under subsection 227.1(1) of the Act. The issue is whether the appellant as director of C-Shells Inc. (C-Shells) is liable for the failure of C-Shells to remit source deductions to the Receiver General as required by section 153 of the Act, and liable as well for interest on, and penalties relating to, the amount owed. The amount of the assessment is $26,802.73 and covers a period running from July 3, 1998 to June 26, 2001 as per Schedule “A” attached to the reply to the notice of appeal.
+[3] The GST appeals of both Leslie Price and Lillian Jenkins are with respect to an assessment under Part IX of the Excise Tax Act (“ETA”) dated January 6, 2004 for the periods from April 1, 1999 to June 30, 1999, July 1, 1999 to September 30, 1999 and January 1, 2000 to March 31, 2000. The issue in those appeals is whether the said appellants are liable as directors of C-Shells to remit to the Receiver General an amount of net tax as required by subsection 228(1) of the ETA and to pay interest thereon and penalties relating thereto. The amount of the assessment is $11,240.82.
+[4] It is agreed by the parties that C-Shells made an assignment in bankruptcy under the Bankruptcy and Insolvency Act of Canada on October 31, 2000 and that the respondent filed proofs of claim with the trustee for unpaid net tax and unremitted source deductions on December 1, 2000. The respondent also filed a revised proof of claim for the amount of $26,802.73 on April 30, 2003 with respect to C-Shells’ liability for source deductions. The original proof of claim was for $23,633.62. The above steps were taken in order to comply with paragraph 227.1(2)(c) of the Act and paragraph 323(2)(c) of the ETA.
+[5] C-Shells was incorporated on September 10, 1997 under the Business Corporations Act of New Brunswick for the purpose of operating a restaurant and a bar in the city of Miramichi, New Brunswick. The incorporators were Shelly Malley and Cheryl Woods. They were also the only two directors of C-Shells at the time of incorporation.
+[6] In order to operate the business, C-Shells entered into a lease agreement with the Province of New Brunswick to lease a building known as the Officers’ Mess located on the site of the former CFB Chatham. The lease was signed by Shelly Malley and Cheryl Woods for C-Shells. It was a three‑year lease with an option to purchase.
+[7] The appellant Leslie Price showed an interest in buying shares and in investing in C-Shells. He was therefore hired as manager and the appellant Lillian Jenkins was hired to do office work. Lillian Jenkins is Cheryl Woods’ mother.
+[8] As for the share structure of C-Shells, the appellant Leslie Price testified that the shares were to be distributed as follows: 30% each to the incorporators, 20% to him and 5% to the appellant Lillian Jenkins. A further 5% was to go to another person and 10% was to be kept for key employees who might show an interest in acquiring them. In her testimony, Shelly Malley said she did not know why Leslie Price was to get shares nor did she remember what transpired in terms of directors for C-Shells. It seems that the only clear thing to come out of the evidence regarding the share structure is that shares were never actually issued.
+[9] Shelly Malley and Cheryl Woods were also owners and operators of a private college called Progressive Learning Centre (PLC). In that dual capacity, they were to provide some training to C-Shells’ employees. Because of a potential conflict of interest and since they were not there to carry on the day‑to‑day operations of C-Shells, they were advised by their lawyer that they should not be directors of C-Shells. They agreed to withdraw but it is unclear when they actually resigned and therefore ceased to be directors of C-Shells. According to the extracts from New Brunswick’s Corporate Affairs Registry Database produced at trial, both appellants were directors of C‑Shells from its previous status change on October 31, 2000 to its dissolution in 2005, but there is nothing indicating when the incorporators officially ceased to be directors of C‑Shells.
+[10] In the weeks following the incorporation, it became apparent that additional financing was needed to make the project viable. An undated background document on C-Shells was prepared by Cheryl Woods to support a loan application made to the Business Development Bank of Canada (BDC). In that background document we learn that C-Shells borrowed approximately $250,000 from PLC as a short‑term loan in November and December 1997, and in January‑March (1998, I presume), the appellant Leslie Price loaned C-Shells $75,000. At the time of writing of the background document, PLC was still owed around $54,000 and Leslie Price was still owed his $75,000. The appellant Leslie Price is described as the manager of C‑Shells and the appellant Lillian Jenkins as office manager. Both are described as major shareholders and full‑time employees.
+[11] C-Shells was approved for a loan by the BDC. The loan was secured by a mortgage on the leased property that C-Shells eventually purchased. The evidence does not disclose when the mortgage was actually signed, but it was signed by both appellants in their capacity as directors of record, and both believe that it was then that they became directors of C-Shells. According to the appellant Leslie Price, the deed to the leased property and the mortgage document were completed sometime in October of 1998 and some of his personal assets were used as collateral for the loan, and in particular he provided his personal guarantee. He also testified that both incorporators agreed in 2003 to financially help him pay back what he owed under that personal guarantee.
+[12] Approximately a month after the mortgage was signed, the four shareholders got together to examine different options in an attempt to keep C-Shells in operation, but in December 1998, the appellant Leslie Price found out that the other three shareholders had held another meeting without him. It was then that he realized that things had to change drastically. He met with the other three shareholders in December 1998 at a place called Keystone Kelly’s and their discussions led to a verbal agreement, the terms of which were faxed to the appellant Leslie Price’s lawyer in memo form.
+[13] The faxed memo reveals that the appellant Leslie Price was to purchase all the shares owned by both incorporators for $28,000 and that a down payment of $4,900 was made on December 20, 1998. The appellant Leslie Price was to purchase all the shares owned by the appellant Lillian Jenkins for $396.07, and the memo indicates that she was paid that amount on December 21, 1998. The agreement also provided for an accounting and a year‑end and/or review engagement to be completed as soon as possible, with all parties agreeing with the outcome, at which point, the appellant Leslie Price and C-Shells were to be responsible for all accounts payable and accounts receivable and were to clear up both. New financing was to be obtained and C-Shells was to strive to pay the appellant Lillian Jenkins at some point in the future no more than $4,000 in back dividends and/or wages. The memo indicated that provision was made for PLC to use C-Shells’ facilities at a discount, and finally, in the event that the appellant decided to sell his 100% interest in C-Shells, any profits realized beyond the amount of C-Shells’ debts were to be split with both incorporators according to the ratio of any outstanding loans owed to the parties concerned.
+[14] In addition to the above verbal agreement, it was understood that a substantial Harmonized Sales Tax (HST) return was to be turned over to PLC, which was done. As for the verbal agreement, nothing really came of it. According to the appellant Leslie Price, he never got any of the financial documents of C‑Shells, contrary to what had been agreed. Shelly Malley had them in her possession, as she was the one responsible for the financial aspects of C-Shells. She was the main contact with the accounting firm that prepared the financial statements. The appellant Leslie Price made countless calls with a view to obtaining the financial statements, but to no avail. He continued to press for them even after he had handed the HST return over to both of the incorporators. Despite the fact that the financial information was on a computer, the appellant Leslie Price testified, he could not go on the computer. No shares were ever transferred to the appellant Leslie Price as a result of the Keystone Kelly’s meeting and the verbal agreement.
+[15] The appellant Lillian Jenkins retained a lawyer in late February 1999. On March 4, 1999, that lawyer wrote a letter to the lawyer representing the two incorporators and sent a copy thereof to the lawyer acting for the appellant Leslie Price. He suggested that all three lawyers should meet to discuss “the best way to satisfy each of [their] client’s desires”, as he put it. He also suggested to the two incorporators’ lawyer that C-Shells’ company book be brought to the meeting.
+[16] The appellant Leslie Price testified that the appellant Lillian Jenkins had wanted to resign in April 1999 and that he refused her resignation. It was on May 12, 1999, that her lawyer wrote a letter to the appellant Price’s lawyer, enclosing her resignation from any employment, directorship or executive position she held with respect to C‑Shells. The copy that was submitted in evidence is not signed by the appellant Lillian Jenkins, but she testified that she remembered having signed a similar one. The letter of May 12 states that an original resignation was tendered to the lawyer acting for both incorporators and C-Shells along with a request that the company book be updated to reflect this resignation. Lillian Jenkins’ lawyer further stated that some form of agreement should be reached between all concerned in order that, at the least, a framework, might be set out for Mr. Price’s assumption of control of the business. A letter was sent to the appellant Jenkins by her lawyer confirming that her resignation had been submitted.
+[17] The appellant Leslie Price was never able to get the shares and eventually gave up his attempts to do so around April 1999. He nevertheless ran the business from April 1999 to the end of October 2000 when the trustee in bankruptcy was appointed. During that period he paid the bills and local creditors, for he needed supplies. Prior to that, he had had nothing to do with the financial aspect. In addition, he says he was not aware that source deductions were being remitted late with respect to many of the assessments that were sent when to PLC’s address. He met with the Revenue Canada auditor in mid‑1999 and it was then that he says he was given the numbers. He continued to file the HST returns even though he could not pay the tax for the last three filing periods. He testified that he relied on the sale of the assets by the trustee for the payment of all outstanding arrears with Revenue Canada, as he and all the other shareholders understood that Revenue Canada was to be the first‑paid creditor. Revenue Canada was not paid, however, and it is unclear what actually happened with regard to the sale of the building or the assets. A statement in an affidavit sworn by the trustee in bankruptcy suggests that a quitclaim deed of the building was signed in favour of C-Shells.
+[18] The appellant Lillian Jenkins testified, at first, that she had resigned as a director and as an employee of C‑Shells in October 1999. She later said she believed it was May 1999, but subsequently stated that it was in April 1999. Either April or May 1999 is consistent with the date (May 12, 1999) that her resignation was sent by her lawyer to the incorporators’ and the appellant Price’s lawyers. At the assessment stage, the appellant Jenkins did not produce a copy of her resignation for the auditor and she indicated in her notice of objection dated April 6, 2004 that she had resigned in or about 2001. As for Shelly Malley, she remembers seeing a copy of the appellant Jenkins’ resignation, but did not specify when she saw it.
+[19] The relevant provisions in terms of a director’s liability under the ETA are found in subsections 323(1), 323(3) and 323(5) of the ETA:
+323(1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+(3) A director of a corporation is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+(5) An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+[20] The appellant Lillian Jenkins’ position is that she properly resigned in April or early May 1999 and she relies on the provisions of subsection 323(5) of the ETA. She submits that the Notice of Assessment issued against her on January 6, 2004 was so issued more than two years after she last ceased to be a director of C‑Shells.
+[21] The respondent submits that the appellant Lillian Jenkins has been unable to establish on a balance of probabilities that her purported resignation was actually given and effective at a precise date.
+[22] The term director is not defined in the ETA, nor do we find therein provisions stating when a director of a corporation ceases to hold office. The New Brunswick Business Corporations Act (S.N.B., c. B-9.1) outlines in section 66 the circumstances under which a director ceases to hold office. Section 66 reads as follows:
+66 (1) A director of a corporation ceases to hold office when
+(a) he dies or resigns;
+(b) he is removed in accordance with section 67; or
+(c) he becomes disqualified under subsection 63(1).
+66 (2) A resignation of a director becomes effective at the time a written resignation is sent to the corporation, or at the time specified in the resignation, whichever is later.
+[23] The respondent also raised the matter of the appellant Lillian Jenkins’ confusion as to when she actually resigned, referring in this regard to the various dates mentioned by that appellant in her evidence. The appellant Lillian Jenkins, notwithstanding this confusion, appeared to me to be a credible witness with no intention to mislead the Court. These events occurred almost ten years ago during a period when the main players were uncertain as to their respective roles and responsibilities and when the appellant Jenkins’ own participation in C-Shells was in limbo. Not only did she want out but she also left her employment with C-Shells, not wanting to have anything more to do with the company. That conduct is consistent with what took place at the Keystone Kelly’s meeting in December 1998 when she sold her shares to the appellant Price. At that point, her involvement in the decision‑making process was for all intents and purposes nil.
+[24] The letter of resignation, which I believe was in fact signed by the appellant Jenkins, was sent to the incorporators’ lawyers on May 12, 1999 with instructions to update C-Shells’ minutes book accordingly. The effective date of her resignation would thus be May 12, 1999, that is, the date on which the resignation was sent to C-Shells through the appellant Price’s and the incorporators’ lawyers, or some earlier date, namely, the date on which she actually signed the resignation. Acceptance of her resignation by the appellant Price is not a requirement under the Act for the resignation to become effective. I am therefore satisfied on a balance of probabilities that the appellant Lillian Jenkins’ resignation was effective as of May 12, 1999, the later date, and that from then on she had no involvement with C-Shells either as a director or in any other capacity. The assessment issued under the ETA against that appellant Jenkins on January 6, 2004 was therefore issued more than two years after that appellant ceased to be a director of C‑Shells. The appeal of the appellant Lillian Jenkins is allowed and the assessment issued against her is hereby vacated.
+[25] The relevant provisions in terms of a director’s liability under the ETA are the same for the appellant Leslie Price as those referred to with regard to Lillian Jenkins. His other appeal concerns his liability as a director under the Act, and the relevant provisions are subsections 227.1(1) and 227.1(3).
+227.1(1) Where a corporation has failed to deduct or withhold an amount as required by subsection 135(3) or section 153 or 215, has failed to remit such an amount or has failed to pay an amount of tax for a taxation year as required under Part VII or VIII, the directors of the corporation at the time the corporation was required to deduct, withhold, remit or pay the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay that amount and any interest or penalties relating to it.
+227.1(3) A director is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[26] The appellant Leslie Price submits that the assessments were issued more than two years after the bankruptcy and hence should be vacated. Alternatively, he submits that he at all times exercised the required degree of care, diligence and skill to prevent the failure to remit both source deductions and taxes. Finally, he submits that he was led to believe that the trustee in bankruptcy would pay Revenue Canada first out of the proceeds from the sale of C-Shells’ assets.
+[27] The evidence presented raises many concerns regarding how the appellant Price and the two incorporators conducted the affairs of C-Shells and their own personal affairs. Many questions are left unanswered, such as what the circumstances surrounding the two incorporators’ involvement in PLC and the nature of the potential conflict of interest arising from holding a directorship in both C-Shells and PLC. The unavailability of C-Shells’ minutes book, the lack of paper documentation, and a transaction agreed to at Keystone Kelly’s that was never legally finalized are all matters that leave unclear what actually transpired.
+[28] What is clear is that both appellants were directors of C-Shells when the building was purchased and more precisely when they signed for C‑Shells in October 1998 securing the loan from the BDC. Despite the fact that the appellant Leslie Price was managing C-Shells’ day‑to‑day operations at that time, I believe, on the basis of the evidence of Mr. Price, that the two incorporators were playing, and continued to play, an active and controlling role in C-Shells. Financial operations and accounting were under the control of Shelly Malley, and it appears that this continued to be the case until the takeover by the appellant in April 1999. His role up to that point had put him in a difficult situation as he was unable to fully appreciate what was going on in terms of C-Shells’ financial situation and its obligations in terms of source deductions and HST returns. In fact, he was unable to obtain C-Shells’ financial statements and could not avail himself of the accounting data even though he had agreed to take charge of all outstanding accounts payable.
+[29] I do not believe that up to his formal takeover in April 1999 the appellant Leslie Price should be subjected to the same standard of care in terms of his liability as a director. The applicable standard of care has been dealt with by the Federal Court of Appeal in Soper v. Canada, [1997] F.C.J. No. 881 (QL), [1997] 3 C.T.C. 242, in the following manner:
+37 . . . The standard of care laid down in subsection 227.1(3) of the Act is inherently flexible. Rather than treating directors as a homogeneous group of professionals whose conduct is governed by a single, unchanging standard, that provision embraces a subjective element which takes into account the personal knowledge and background of the director, as well as his or her corporate circumstances in the form of, inter alia, the company's organization, resources, customs and conduct. Thus, for example, more is expected of individuals with superior qualifications (e.g. experienced business-persons).
+38 The standard of care set out in subsection 227.1(3) of the Act is, therefore, not purely objective. Nor is it purely subjective. It is not enough for a director to say he or she did his or her best, for that is an invocation of the purely subjective standard. Equally clear is that honesty is not enough. However, the standard is not a professional one. Nor is it the negligence law standard that governs these cases. Rather, the Act contains both objective elements embodied in the reasonable person language and subjective elements inherent in individual considerations like "skill" and the idea of "comparable circumstances". Accordingly, the standard can be properly described as "objective subjective".
+[30] That decision also makes a distinction between inside and outside directors in terms of the degree of the standard of care applicable. An analysis of the standard for inside and outside directors was made by Mr. Justice Hershfield of this Court in Peter Sziklai v. Canada, [2006] T.C.J. No. 152 (QL), in the following terms:
+10 The inevitable agency of which Justice Mogan speaks is what he infers makes the sole director both an insider and a person liable for remittance failures. With respect, that is a troublesome inference. In Soper v. R., Robertson J.A. described the basis of the distinction between inside and outside directors by saying at paragraph 44:
+... inside directors, meaning those involved in the day-to-day management of the company and who influence the conduct of its business affairs, will have the most difficulty in establishing the due diligence defence. For such individuals, it will be a challenge to argue convincingly that, despite their daily role in corporate management, they lacked business acumen to the extent that that factor should overtake the assumption that they did know, or ought to have known, of both remittance requirements and any problem in this regard. In short, inside directors will face a significant hurdle when arguing that the subjective element of the standard of care should predominate over its objective aspect.
+As to outside directors not involved directly in the operation of the business he observed at paragraphs 52 and 53 that they could:
+... rely on the day-to-day corporate managers to be responsible for the payment of debt obligations such as those owing to Her Majesty ...
+In my view, the positive duty to act arises where a director obtains information, or becomes aware of facts, which might lead one to conclude that there is, or could reasonably be, a potential problem with remittances. Put differently, it is indeed incumbent upon an outside director to take positive steps if he or she knew, or ought to have known, that the corporation could be experiencing a remittance problem.
+11 By definition then an insider is a person involved in the business. To impute involvement to a person not involved is incompatible with that defining factor. Further, to impute involvement to a sole director, and regard the acts of the person who failed in a duty to be the acts of that director, would mean there is no due diligence defence available to sole directors. That clearly cannot be the case nor, in my view, should Justice Mogan be taken to have meant that as a firm rule in all cases.
+12 This is not to suggest that the Appellant does not have a standard of care higher than that placed on an outside director. The purpose for identifying "inside" versus "outside" directors is to assist in the determination of what a reasonably prudent person would do in the circumstances. In this context, the issue might be better posed by asking more simply whether the Appellant was, by virtue of his position and involvement, in a position to detect the potential problem and deal with it. This was the approach taken by Justice Bonner in Mariani v. R. At paragraph 19 he observed:
+I cannot agree with the respondent's position. The segregation of directors into inside and outside categories is not undertaken as part of a mechanical process of classification into rigidly defined categories of winners and losers. Rather it is a recognition of the self-evident. Some directors are better situated than others, usually by reason of participation in day-to-day management, to detect the potential for failure and to deal with it and that situation is a relevant circumstance.
+[31] Justice Hershfield added the following:
+14 Even then, however, there is flexibility in the application of tests applicable even to insiders. The standard is reasonableness, not perfection, even in the case of an insider of a marginal company. The question is always the same: "What does the situation prescribe a reasonably prudent person in the Appellant's position to do in the circumstances?" Justice Sharlow of the Federal Court of Appeal commented that the standard is not perfection in Smith v. The Queen:
+[12] The inherent flexibility of the due diligence defence may result in a situation where a higher standard of care is imposed on some directors of a corporation than on others. For example, it may be appropriate to impose a higher standard on an "inside director" (for example, a director with a practice of hands-on management) than an "outside director" (such as a director who has only superficial knowledge of and involvement in the affairs of the corporation).
+[32] The appellant Leslie Price was in charge of the day‑to‑day operations of C‑Shells, but the evidence and the circumstances of this case lead me to believe that those day‑to‑day operations involved managing the restaurant per se and that finances were under the control of Shelly Malley, one of the incorporators. I do not believe that this situation put the appellant Leslie Price in a position to be able to detect problems with respect to source deductions being remitted or HST remittances being made until his actual takeover of all C‑Shell’s operations in April 1999. The evidence seems to show that the appellant Leslie Price came to have complete control around the time he took over in April 1999.
+[33] As of that date, that appellant was the only director of C‑Shells, having full control of the company and full knowledge of its affairs. It was then that he came to be in a position to detect problems, and he did. It may have been impossible for him to deal with the problem as far as the arrears were concerned, but as of April 1999, he did have the ability to deal with unpaid taxes and unremitted source deductions. The appellant was aware that source deductions were not being remitted and that HST remittances were not being made, and his evidence is clear that his preoccupation during that time, i.e. from April 1999 to the bankruptcy, was to ensure the continued operation of C-Shells and to pay its suppliers. His objective was to save the business and the suppliers needed to be paid first.
+[34] The standard of care, diligence and skill is what a reasonable person in the appellant’s position would have done in the circumstances to prevent the failure. What a person does after the fact to assist and help Revenue Canada in collecting what it is owed is not relevant. The appellant may have believed that Revenue Canada would be paid first, but that is of no assistance in establishing what steps were taken to prevent the failure to remit. Hard work and determination are commendable, but paying the suppliers first is of no assistance in making out a defense of due diligence.
+[35] The evidence presented by the appellant Leslie Price is insufficient for me to conclude on a balance of probabilities that he in fact exercised the degree of care, diligence and skill that a reasonable person would have exercised to prevent the failure to remit. No positive steps were taken by the appellant to prevent C-Shells’ failure to remit source deductions and HST from April 1999 until the bankruptcy.
+[36] Finally, there was no evidence presented at trial that would permit me to conclude that the assessment was issued beyond the two‑year period prescribed in the Act. That period begins to run after the director has ceased to hold office and there is no evidence that the appellant Leslie Price at any time ceased to hold the office of director of C-Shells.
+[37] The appeal under the Act is allowed in part and the assessment against the appellant Leslie Price is referred back to the Minister for reconsideration and reassessment on the basis that this appellant is only liable for C-Shells’ unremitted source deductions after April 1999.
+[38] The goods and services tax appeal (2006-1591(GST) is dismissed.
+Signed at Ottawa, Canada, this 11th day of April 2008.
+« François Angers »
+Angers J.
+CITATION: 2008TCC153
+COURT FILE NOS.: 2006-1590(IT)I, 2006-1591(GST)I,
+2006-1425(GST)I
+STYLES OF CAUSE: Leslie Price and Her Majesty The Queen
+Lillian Jenkins and Her Majesty the Queen
+PLACE OF HEARING: Miramichi, New Brunswick
+DATE OF HEARING: June 11, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: April 11, 2008
+APPEARANCES:
+For the Appellant Leslie Price:
+Counsel for the Appellant Lillian Jenkins:
+The Appellant himself
+Michael F.G. Noel
+Counsel for the Respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the Appellant Leslie Price:
+Name:
+Firm:
+For the Appellant Lillian Jenkins:
+Name: Michael F.G. Noel
+Firm: Noel Urquhart Hayes
+Miramichi, New Brunswick
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

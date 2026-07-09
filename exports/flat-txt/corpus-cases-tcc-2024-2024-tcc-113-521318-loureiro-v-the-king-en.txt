@@ -1,0 +1,159 @@
+Title: Loureiro v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521318/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-113-521318-loureiro-v-the-king-en.md
+Document type: case_law
+Last modified: 2024-08-28
+
+# Loureiro v. The King
+
+- Citation: 2024 TCC 113
+- Decision date: 2024-08-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5727, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Loureiro v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-08-28
+Neutral citation
+2024 TCC 113
+File numbers
+2024-310(GST)I
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2024-310(GST)I
+BETWEEN:
+DANIEL LOUREIRO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on August 20, 2024, at Toronto, Ontario
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Counsel for the Appellant:
+Jeff Kirshen
+Counsel for the Respondent:
+Mira Amin
+JUDGMENT
+The appeal from an assessment made under Part IX of the Excise Tax Act, notice of which is dated August 9, 2022, denying the Appellant’s application for a Goods and Services Tax/Harmonized Sales Tax (GST/HST) New Housing Rebate, is dismissed, without costs.
+Signed at Toronto, Ontario, this 28th day of August 2024.
+“David E. Spiro”
+Spiro J.
+Citation: 2024 TCC 113
+Date: 20240828
+Docket: 2024-310(GST)I
+BETWEEN:
+DANIEL LOUREIRO,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The Appellant appeals an assessment by the Minister of National Revenue (the “Minister”) denying him a GST/HST New Housing Rebate for which he had applied under Part IX of the Excise Tax Act (the “ETA”). The amount of the rebate adjustment at issue is $27,258.15.
+[2] The Appellant was the only witness at trial. The following chronology emerged from his evidence:
+February 8, 2016
+Joe Loureiro, the Appellant’s father, enters into an Agreement of Purchase and Sale for a condominium unit to be built at 278 Buchanan Drive, Unit 505E, Markham, Ontario (the “Markham Condominium”).[1] Initial anticipated occupancy date is specified as August 31, 2018. Latest anticipated occupancy date is specified as November 30, 2021.[2] The Appellant’s father tells the Appellant that he is holding the Markham Condominium for him in trust. Purchase price is $360,990.
+June 17, 2017
+Appellant and Ruth Alexandra Daugherty Granados (“Ruth”) are engaged.
+[No evidence of date]
+Appellant is informed that the anticipated occupancy date for the Markham Condominium has been deferred.
+August 23, 2019
+Appellant and Ruth are married. Appellant and Ruth move into Ruth’s mother’s home.
+October 15, 2019
+Appellant is informed that the anticipated occupancy date for the Markham Condominium has been deferred to June 29, 2020.[3]
+October 26, 2019
+Appellant and Ruth enter into Agreement of Purchase and Sale for a townhouse to be built on Lageer Drive, Stouffville, Ontario (the “Stouffville Townhome”). Initial anticipated closing date is specified as December 9, 2020. Latest anticipated closing date is specified as April 8, 2022. Purchase price is $644,990.[4]
+November 19, 2019
+Appellant and Ruth execute an Amendment to Agreement of Purchase and Sale of the Markham Condominium.[5] By virtue of the Amendment, both appear on title for the first time.[6]
+June 29, 2020
+The Markham Condominium is ready for occupancy. The Appellant and Ruth move out of Ruth’s mother’s home and into the Markham Condominium.
+October 15, 2020
+Purchase of the Markham Condominium closes.[7]
+December 3, 2020
+Appellant applies for GST/HST New Housing Rebate for the Markham Condominium.[8] That is the rebate at issue in this appeal.
+December 13, 2020
+Appellant and Ruth list the Markham Condominium for $499,000.[9]
+December 14, 2020
+Appellant and Ruth sell the Markham Condominium for $565,000.[10]
+January 30, 2021
+Appellant and Ruth move out of the Markham Condominium and into Ruth’s mother’s home.
+February 1, 2021
+Sale of the Markham Condominium closes.
+February 4, 2021
+Purchase of the Stouffville Townhome closes. Appellant and Ruth move out of Ruth’s mother’s home and into the Stouffville Townhome where they currently reside.
+April 9, 2021
+Ruth applies for GST/HST New Housing Rebate for the Stouffville Townhome.[11] That rebate is not at issue in this appeal.
+[3] One of the requirements for the GST/HST New Housing Rebate is found in paragraph 254(2)(b) of the ETA. That is the only provision at issue in this appeal.
+[4] Paragraph 254(2)(b) of the ETA provides:
+at the time the particular individual becomes liable or assumes liability under an agreement of purchase and sale of the complex or unit entered into between the builder and the particular individual, the particular individual is acquiring the complex or unit for use as the primary place of residence of the particular individual or a relation of the particular individual,
+[5] In order for the Appellant to succeed in this appeal, that provision requires the Appellant and Ruth, when they assumed liability under the Agreement of Purchase and Sale for the Markham Condominium on November 19, 2019, to have acquired it “for use as the primary place of residence” of both of them.[12] That was the Appellant’s position.[13] When evaluating the Appellant’s position in context, it is important to review what transpired some 24 days earlier on October 26, 2019.
+[6] On October 26, 2019, the Appellant and Ruth chose to assume liability under an Agreement of Purchase and Sale for the Stouffville Townhome. In light of that fact, beginning on October 26, 2019, the Appellant and Ruth no longer regarded the Markham Condominium as their future home. With only one bedroom and a den, they were of the view that the Markham Condominium would have been too small for the growing family they hoped to raise.[14]
+[7] The facts lead inexorably to the conclusion that the Stouffville Townhome replaced the Markham Condominium as the intended primary place of residence of the Appellant and Ruth from October 26, 2019 onward.
+[8] I find that on the date on which the Appellant and Ruth assumed liability under the Agreement of Purchase and Sale for the Stouffville Townhome – October 26, 2019 – they acquired it “for use as the primary place of residence” of the two of them.
+[9] Counsel for the Appellant contended that when the Appellant and Ruth assumed liability under the Agreement of Purchase and Sale for the Markham Condominium 24 days later on November 19, 2019 they intended it “for use as the primary place of residence” of the two of them. I do not agree.
+[10] Parliament chose to use the phrase “the primary place of residence”. If we take the word “the” seriously, it means that only one place of residence at a time can be intended as one’s “primary place of residence”.
+[11] By the time the Appellant and Ruth appeared on title to the Markham Condominium on November 19, 2019, each of them had formed the intention that the Markham Condominium would be used as their interim place of residence until the Stouffville Townhome was ready.[15] As my colleague, Justice Smith, observed in Kniazev v The Queen, 2019 TCC 58:
+[8] Parliament’s use of the word “primary” also suggests that the purchaser must have a settled intention to centre or arrange his personal and family affairs around that property. The rebate is not intended for a secondary residence or “pied‑à‑terre”. An individual can own multiple residences but would typically have only one “primary place of residence”.
+[12] Counsel for the Appellant also advanced a frustration argument on the basis that the Appellant and Ruth were frustrated by several deferrals of the anticipated occupancy date of the Markham Condominium. But, in this context, frustration means something quite different – a subsequent event beyond the control of the Appellant and Ruth that prevented the anticipated move into their intended primary place of residence. Here, nothing prevented the Appellant and Ruth from moving into the Markham Condominium. The only reason the Markham Condominium was not intended to be their primary place of residence is that they had chosen to purchase their primary place of residence – the Stouffville Townhome – some 24 days earlier.
+[13] For all of these reasons, I conclude that the Appellant is not entitled to the GST New Housing Rebate under Part IX of the ETA in respect of the Markham Condominium.[16]
+[14] The Appellant’s appeal is dismissed without costs.
+Signed at Toronto, Ontario, this 28th day of August 2024.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2024 TCC 113
+COURT FILE NO.:
+2024-310(GST)I
+STYLE OF CAUSE:
+Daniel Loureiro v. His Majesty The King
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 20, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+August 28, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Jeff Kirshen
+Counsel for the Respondent:
+Mira Amin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jeff Kirshen
+Firm:
+SpenceDrake Tax Law Toronto, Ontario
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Exhibit A-1.
+[2] Exhibit A-2.
+[3] Exhibit R-1, page 193.
+[4] In the Agreement of Purchase and Sale for the Stouffville Townhome, the Appellant and Ruth represented to the builder that they were acquiring it for their “primary place of residence within the meaning of the ETA …”. Exhibit R-2 at page 131.
+[5] Exhibit A-4.
+[6] There was no evidence as to why the Appellant and Ruth first appeared on title to the Markham Condominium on November 19, 2019. There was some disagreement at the hearing on whether the Appellant and Ruth replaced the Appellant’s father on title or whether he remained on title. Because the purchasers of the Markham Condominium on the closing date of October 15, 2020 were the Appellant and Ruth (Exhibit A-6), it is more likely than not that the Appellant’s father ceased to be on title as of November 19, 2019. Indeed, the Minister assumed that the Amendment of November 19, 2019 resulted in the purchaser of the Markham Condominium being “changed” from the Appellant’s father to the Appellant and Ruth (paragraph 15(d) of the Reply). Whatever transpired, the Appellant and Ruth first appeared on title to the Markham Condominium 24 days after assuming liability under the Agreement of Purchase and Sale for their Stouffville Townhome.
+[7] Exhibit A-6.
+[8] Exhibit R-3. In his application, the Appellant represented that he and Ruth purchased the Markham Condominium for use as their primary place of residence (Exhibit R-5). In light of the facts, that representation was incorrect.
+[9] Exhibit R-4.
+[10] Exhibit R-4.
+[11] Exhibit R-5.
+[12] There was no dispute at trial that the date on which the Appellant and Ruth assumed liability under the Agreement of Purchase and Sale for the Markham Condominium was the date of the Amendment (November 19, 2019) rather than the date on which the Appellant’s father assumed liability under the Agreement of Purchase and Sale (February 8, 2016). In his Notice of Appeal, the Appellant took the position that he became liable under the Agreement of Purchase and Sale for the Markham Condominium on February 8, 2016. He wisely abandoned that position at the commencement of trial.
+[13] For example, see paragraph 6 of the Notice of Appeal where the Appellant states with reference to the Markham Condominium:
+Upon purchase, I always intended to occupy the Property as my primary and principal [sic] of residence.
+[14] See paragraph 33 of the Notice of Appeal with reference to the Markham Condominium:
+We knew that the Property, that being a one-bedroom condominium, would not be large enough because we had started trying for a child, and there just wouldn’t be enough space.
+[15] Aside from the pre-packaged “primary residence” talking point found at the end of this passage, the Appellant admitted as much in a letter he wrote to an officer of the Canada Revenue Agency on July 12, 2022 (Exhibit R-2 at page 20):
+After many construction delays, my wife and I realized we were quickly outgrowing our future space at [the Markham Condominium]. We then purchased a larger property that would meet our family needs in Stouffville [the Stouffville Townhome]; with the closing date of February 2021. While we waited for this new property in Stouffville, we moved into [the Markham Condominium] for 7 months as a primary residence or myself and my wife.
+[16] A GST/HST New Housing Rebate application was also filed in respect of the Stouffville Townhome. In it, Ruth represented that she and the Appellant purchased it for use as their primary place of residence (Exhibit R-5). In light of the facts, that representation was correct.

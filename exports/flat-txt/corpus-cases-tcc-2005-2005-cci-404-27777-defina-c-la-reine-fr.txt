@@ -1,0 +1,137 @@
+Title: Defina c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27777/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-404-27777-defina-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2005-06-22
+
+# Defina c. La Reine
+
+- Citation: 2005 CCI 404
+- Decision date: 2005-06-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 265, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Defina c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-06-22
+Référence neutre
+2005 CCI 404
+Numéro de dossier
+2004-1240(IT)I
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-1240(IT)I
+ENTRE :
+MARIA DEFINA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+MATTHEW CUTRARA,
+tierce partie.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 31 janvier 2005 à Toronto (Ontario)
+Devant : L’honorable juge A. A. Sarchuk
+Comparutions :
+Avocat de l’appelante :
+Me Kim B. Larsen
+Avocat de l’intimée :
+Me John Grant
+Pour la tierce partie :
+La tierce partie elle-même
+DÉCISIONS SUR DES QUESTIONS
+EN APPLICATION DE L’ARTICLE 174 DE LA
+LOI DE L’IMPÔT SUR LE REVENU
+Par ordonnance rendue le 1er novembre 2004, Mathew Cutrara a été ajouté comme tierce partie à l’appel de Maria Defina, aux fins des décisions relatives aux questions suivantes :
+1. Quels montants à recevoir ou reçus par Maria Defina de Mathew Cutrara doivent être inclus par elle dans le calcul de son revenu pour ses années d’imposition 2001 et 2002 conformément à l’alinéa 56(1)b) de la Loi de l’impôt sur le revenu?
+2. Quels montants payés ou payables par Mathew Cutrara à Maria Defina au cours des années d’imposition 2001 et 2002 peuvent être déduits par lui dans le calcul de son revenu conformément à l’alinéa 60b) de la Loi?
+Après avoir entendu les témoignages de l’appelante et de la tierce partie, et après avoir entendu les arguments des trois parties;
+Il est déterminé que :
+a) la réponse à la question 1 est que le montant de 7 200 $ reçu par Maria Defina de Matthew Cutrara doit être inclus par elle dans le calcul de son revenu pour chacune des années d’imposition 2001 et 2002, conformément à l’alinéa 56(1)b) de la Loi;
+b) la réponse à la question 2 est que le montant de 7 200 $ payé par Matthew Cutrara à Maria Defina doit être déduit par lui dans le calcul de son revenu pour chacune des années d’imposition 2001 et 2002, conformément à l’alinéa 60b) de la Loi.
+Les appels des cotisations d’impôt établies en vertu de la Loi pour les années d’imposition 2001 et 2002 sont rejetés.
+Signé à Ottawa, Canada, ce 22e jour de juin 2005.
+« A. A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 3e jour de février 2006.
+Mario Lagacé, réviseur
+Référence : 2005CCI404
+Date : 20050622
+Dossier : 2004-1240(IT)I
+ENTRE :
+MARIA DEFINA,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+MATTHEW CUTRARA,
+tierce partie.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Sarchuk
+[1] Il s’agit d’une demande présentée par le ministre du Revenu national en vertu de l’article 174 de la Loi de l’impôt sur le revenu visant la détermination de questions concernant Maria Defina (Mme Defina) et Matthew Cutrara (M. Cutrara). Les questions à trancher sont les suivantes :
+a) Quels montants à recevoir ou reçus par Maria Defina de Mathew Cutrara doivent être inclus par elle dans le calcul de son revenu pour ses années d’imposition 2001 et 2002 conformément à l’alinéa 56(1)b) de la Loi de l’impôt sur le revenu?
+b) Quels montants payés ou payables par Mathew Cutrara à Maria Defina au cours des années d’imposition 2001 et 2002 peuvent être déduits par lui dans le calcul de son revenu conformément à l’alinéa 60b) de la Loi?
+Preuve
+[2] M. Cutrara et Mme Defina se sont mariés en 1986. Ils sont les parents de trois enfants, Matthew, Christopher et Briana. En 1996, la relation conjugale s’était détériorée et, le 10 août de cette année‑là, M. Cutrara a quitté le foyer conjugal. Un document écrit à la main intitulé [TRADUCTION] « entente officielle de séparation » a été déposé comme preuve[1]. M. Cutrara a confirmé que le document a été déposé sous serment devant un juge de paix le 29 août 1996. La partie pertinente de ce document est libellée comme suit :
+[TRADUCTION]
+Je, Matthew J. Cutrara […], voudrais informer Revenu Canada qu’à compter du 10 août 1996, je ne vivrai plus avec mon épouse, Maria M. Cutrara. […]
+La propriété conjointe du bien situé au 7606, chemin Netherwood, a été donnée à Maria M. Cutrara le 19 août 1996. Je, Matthew J. Cutrara, subviendrai aux besoins de nos trois enfants au moyen d’un paiement mensuel de 600 $, dont le premier est dû le 10 septembre 1996.
+M. Cutrara a témoigné qu’il subissait un stress émotionnel indu découlant de l’échec du mariage lorsque le document a été signé et qu’il ne le considère pas comme étant valide. Il a dit qu’il ne voulait pas [TRADUCTION] « aggraver la situation en passant par un avocat » alors qu’il pouvait [TRADUCTION] « faire le document » lui-même. Pour sa part, Mme Defina a témoigné qu’elle considérait l’entente de 1996 comme ayant force obligatoire à cette époque.
+[3] Une ordonnance sur consentement de la Cour de l’Ontario (Division provinciale) datée du 2 avril 1998 accordait la garde des enfants à l’épouse[2]. Le paragraphe 4 de cette ordonnance indiquait que la pension alimentaire existante devait être maintenue, sans porter atteinte à la capacité de M. Cutrara de présenter une demande pour modifier la pension alimentaire. La copie de cette ordonnance présentée comme preuve n’est pas signée. Par contre, les parties conviennent que l’ordonnance a été acceptée par la Cour à un moment donné. M. Cutrara a de plus témoigné qu’il a versé la pension alimentaire requise de 600 $ par mois conformément à l’entente.
+[4] M. Cutrara et Mme Defina ont signé une nouvelle entente de séparation le 17 août 1999 et le 24 août 1999 respectivement[3]. Les deux parties étaient représentées par des avocats. Cette entente traite expressément de la pension alimentaire, et les parties pertinentes de cette entente sont libellées comme suit :
+[TRADUCTION]
+11. PENSION ALIMENTAIRE POUR ENFANTS
+Les conjoints reconnaissent :
+a) qu’il y a actuellement une ordonnance de la Cour de l’Ontario (Division de la famille), dans le dossier de la Cour no 1194/97, qui exige que l’époux verse à l’épouse une pension alimentaire totale pour les enfants susmentionnés d’un montant de 600 $ par mois;
+b) qu’il y a des arriérés de la pension alimentaire prévue par l’ordonnance susmentionnée et que, compte tenu de ce qui suit, l’épouse accepte une ordonnance annulant tous ces arriérés de pension alimentaire;
+c) les parties signeront les documents nécessaires pour faire cesser par le Bureau des obligations familiales l'exécution de l'obligation de l’époux de verser la pension alimentaire pour enfants;
+d) que l’obligation de l’époux concernant la pension alimentaire pour enfants, conformément aux Lignes directrices fédérales sur les pensions alimentaires pour enfants et selon son revenu brut de 29 429,14 $ pour 1998, est de 556 $ par mois;
+e) l’époux et l’épouse ont convenu que l’épouse doit à l’époux la somme de 36 000 $ en date du 9 juillet 1999. Cette somme représente la combinaison des arriérés de pension alimentaire que l’époux doit à l’épouse et de la somme due par l’épouse à l’époux relativement au produit de la vente qu’elle a reçu pour l’ancien foyer conjugal.
+Au lieu de s’entendre pour que l’épouse verse la somme de 36 000 $ à l’époux et que l’époux verse la pension alimentaire pour enfants à l’épouse, les parties s’entendent sur ce qui suit :
+a) à compter du 9 juillet 1999, l’époux paiera à l’épouse une pension alimentaire pour enfants de 600 $ par mois. L’époux ne versera pas la pension alimentaire de 600 $ par mois à l’épouse, mais son obligation relative à la pension alimentaire sera plutôt déduite du montant dû par l’épouse à l’époux à raison de 600 $ par mois;
+b) lorsque la somme totale de 36 000 $ aura été remboursée par l’épouse à l’époux de la manière susmentionnée, l’obligation relative à la pension alimentaire pour enfants de l’époux sera fixée conformément aux dispositions des Lignes directrices fédérales sur les pensions alimentaires pour enfants;
+c) […]
+Mme Defina a confirmé que le premier « paiement » de 600 $ réduisant le montant de 36 000 $ a été fait le 9 juillet 1999 et que l’arrangement a pris fin 60 paiements plus tard, soit en juin 2004. Le fait que M. Cutrara n’a pas fait d’autres paiements de pension alimentaire au cours de cette période n’est pas contesté.
+Position de l’appelante
+[5] L’avocat de Mme Defina a soutenu que le fait de transformer la série de paiements en un paiement forfaitaire a donné lieu à une nouvelle date de commencement, et que tout paiement fait par la suite est régi par les nouvelles dispositions de la Loi de l’impôt sur le revenu. Plus précisément, l’avocat a mentionné qu’en raison de l’entente, le produit de la vente du foyer conjugal par Mme Defina était maintenant pris en considération et que, par conséquent, l’obligation relative à la pension alimentaire pour enfants était suspendue pour lui permettre de rembourser à M. Cutrara sa part.
+[6] L’avocat a fait allusion à la décision Pelletier c. Canada[4], où l’époux, conformément à l’entente, devait verser à l’appelante un montant de 150 $ par semaine à titre de pension alimentaire. Une entente exécutée par la suite indiquait que le montant de la pension alimentaire ne serait pas payé pour une période donnée parce que l’appelante versait à son époux un montant représentant sa part de la maison mobile dont ils avaient eu la propriété conjointe. Dans la décision Pelletier, la Cour a conclu que son analyse « mène, de façon assez concluante, à une inférence ferme que la convention supplémentaire avait pour but, dès le départ, d’écarter complètement la pension alimentaire périodique et de la remplacer par la somme globale que la moitié du prix de la maison mobile représenterait ». Ainsi, Mme Pelletier n’a pas reçu de « pension alimentaire ou autre allocation payable périodiquement » en 1990. Se fondant sur cette décision, l’avocat de Mme Defina a soutenu que la nature de l’entente entre cette dernière et M. Cutrara prévoit la transformation de ce qui, dans d’autres circonstances, aurait pu être une obligation d’effectuer des paiements périodiques en une obligation de verser un montant forfaitaire. Pour cette raison, les montants en question ne devraient pas être inclus dans le calcul du revenu de Mme Defina pour ses années d’imposition 2001 et 2002.
+Position de l’intimée
+[7] L’avocat de l’intimée a fait valoir que la preuve n’appuie pas la position de l’appelante selon laquelle les montants en question sont libres d’impôt pour l’appelante et non déductibles par M. Cutrara. Plus précisément, il n’y avait pas de nouvelle date de commencement et le montant en question ne peut être considéré comme étant un montant forfaitaire au sens de la Loi.
+Conclusion
+[8] Je ne peux accepter la position de l’appelante selon laquelle l’entente de séparation conclue le 21 juin 1999 avait pour but et pour effet de transformer une obligation d’effectuer des paiements périodiques en une obligation de verser un montant forfaitaire. La décision Pelletier, quant à elle, n’offre aucune aide à l’appelante puisque l’entente dans ce cas a clairement été conclue pour éviter complètement le versement de la pension alimentaire périodique et pour la remplacer par un montant forfaitaire qui constituerait le paiement pour la part de la maison mobile revenant à l’époux de l’appelante.
+[9] Dans une décision antérieure, j’ai indiqué ce qui suit[5] :
+7 Il est généralement reconnu que les paiements forfaitaires d'arriérés de versements périodiques sont déductibles pour le payeur et, dans certaines circonstances, imposables pour le bénéficiaire. Ceci est conforme à la décision de la Cour d'appel fédérale dans l'arrêt La Reine c. Sills selon laquelle « Les paiements ne changent pas de nature pour la seule raison qu'ils ne sont pas effectués à temps ». D'un autre côté, si les parties conviennent du versement d'un montant forfaitaire substantiellement inférieur au montant exigible, en quittance de toute obligation future pour le payeur, alors la nature des paiements est modifiée et le paiement forfaitaire n'est plus déductible.
+8 Dans le présent appel, il n’y a pas de doute que le montant de 16 095 $ payable en tant qu’« arriérés au titre de la pension alimentaire pour la conjointe » ne représente pas le montant total des arriérés en souffrance et exigibles à cette date. Il n’y a pas de doute non plus, que le montant négocié fait partie de la contrepartie versée pour libérer l’appelant de toute obligation future. […]
+{non surligné dans l’original}
+Dans un tel cas, évidemment, la nature même des paiements est modifiée et le paiement forfaitaire dans de telles circonstances n’est donc pas déductible.
+[10] Je ne peux considérer l’entente en question comme étant une entente qui a supprimé les obligations présentes ou futures de M. Cutrara de verser une pension alimentaire périodique. En fait, je dois souligner que les deux parties étaient représentées par des avocats et que le libellé qu’ils ont utilisé et accepté a été choisi très soigneusement afin de veiller à ce qu’il n’ait pas pour effet de créer une situation de paiement forfaitaire. Ce que nous avons dans le cas présent est une compensation entre deux montants, c.‑à‑d. que Mme Defina a payé le montant de 600 $ à son époux et ce dernier lui a versé les 600 $ requis conformément à l’entente visant la pension alimentaire. Le fait qu’ils n’ont pas échangé de chèques n’est, à mon avis, pas pertinent puisque l’intention d’utiliser le mécanisme de compensation était tout à fait clair.
+[11] Par conséquent, j’ai décidé de ce qui suit :
+a) les montants de pension alimentaire pour enfants de 7 200 $ reçus par Maria Defina de Matthew Cutrara au cours de chacune des années 2001 et 2002 doivent être inclus par elle dans le calcul de son revenu pour chacune de ces années conformément à l’alinéa 56(1)b) de la Loi;
+b) les montants de pension alimentaire pour enfants de 7 200 $ payés par Matthew Cutrara à Maria Defina au cours de chacune des années 2001 et 2002 peuvent être déduits par lui dans le calcul de son revenu conformément à l’alinéa 60b) de la Loi.
+[12] Les appels sont rejetés.
+Signé à Ottawa, Canada, ce 22e jour de juin 2005.
+« A. A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 3e jour de février 2006.
+Mario Lagacé, réviseur
+[1] Pièce A-1, onglet 8 du cahier conjoint des preuves documentaires.
+[2] Pièce A-2, onglet 11 du cahier conjoint des preuves documentaires.
+[3] Pièce A-3, onglet 13 du cahier conjoint des preuves documentaires.
+[4] [1994] A.C.I. no 200.
+[5] Glazier c. Canada, 2003CCI2.

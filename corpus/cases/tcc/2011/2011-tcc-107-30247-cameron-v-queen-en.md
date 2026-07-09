@@ -1,0 +1,226 @@
+---
+title: "Cameron v. Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30247/index.do"
+last_modified: "2011-03-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 107"
+citation2: ""
+neutral_citation: "2011 TCC 107"
+decision_date: "2011-03-07"
+language: "en"
+item_id: "30247"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8016
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:48:17.453000+00:00"
+cases_cited_count: 5
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "bc6a4b0dcbf1c7d27cda60fc91b99131b3d3762576d04a99f2ddeda13e1f99f1"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Cameron v. Queen
+
+- Citation: 2011 TCC 107
+- Decision date: 2011-03-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8016, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Cameron v. Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-03-07
+Neutral citation
+2011 TCC 107
+File numbers
+2008-4063(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-4063(IT)G
+BETWEEN:
+MARC CAMERON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on December 14, 2010, at Sherbrooke, Quebec.
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Antonia Paraherakis
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made pursuant to the Income Tax Act for the 2003 taxation year is allowed with costs awarded to the appellant, and the reassessment is vacated, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of March 2011.
+" Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 20th day of April 2011.
+François Brunet, Revisor
+Citation: 2011 TCC 107
+Date: 20110307
+Docket: 2008-4063(IT)G
+BETWEEN:
+MARC CAMERON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction
+[1] This is an appeal by Marc Cameron (the appellant) from a reassessment made December 3, 2007, pursuant to the Income Tax Act (the ITA) for the 2003 taxation year.
+[2] In determining the reassessment, the Minister of National Revenue (the Minister) included a gain of $70,814 as business income earned during the sale of a house in Sherbrooke.
+[3] The appellant submits that the assessment is incorrect because the gain resulted from the disposition of a house that was his principal residence. Paragraph 40(2)(b) of the ITA provides a calculation that can reduce a capital gain resulting from the sale of a taxpayer's principal residence to zero. However, this provision does not apply if it is a capital gain. The Minister acknowledged that the appellant used the house as his residence, but submits that the gain still constituted a gain in the nature of trade. The appellant submits that the respondent admitted the assessment had been made after the normal assessment period and it is for the respondent to show, in accordance with subparagraph 152(4)(a)(i), that the appellant made a "misrepresentation that is attributable to neglect, carelessness or wilful default" in order for the Minister to reopen the 2003 taxation year. The appellant claims that the issue in this case falls in a grey area and he should be given the benefit of the doubt.
+II. Brief summary of facts
+[4] To determine the appellant's tax payable for the 2003 taxation year, the Minister relied on the following presumptions of fact (paragraph 8 of the Reply to the Notice of Appeal):
+[translation]
+a) The appellant has worked in the construction trade for many years.
+b) Between 1998 and 2003, real estate activities were the main source of the appellant’s income.
+c) Since 1996, the appellant has been purchasing real property repeatedly for the purpose of selling them quickly for profit.
+d) Often, the appellant would purchase a lot, construct a residence and sell it quickly for profit.
+e) On May 7, 2001, the appellant acquired a lot on Charney [sic] Street, in Sherbrooke, for $12,000.
+f) Following the acquisition, the appellant constructed a residence for himself.
+g) The appellant lived in the property starting in October 2001.
+h) In November 2002, the appellant leased the property to a third party.
+i) On April 10, 2003, the appellant sold the property for $148,000.
+j) Since 1993, the appellant has conducted the following real estate transactions:
+Property
+Acquisition date
+Transfer date
+3598 Alfred‑Desrochers
+March 10, 1996
+July 4, 1997
+3638 Alfred‑Desrochers
+April 21, 1997
+September 24, 1998
+3588 Alfred‑Desrochers
+September 11, 1998
+July 28, 2000
+5441 Blanchette
+July 31, 2000
+April 6, 2001
+649 Charney [sic]
+May 7, 2001
+April 10, 2003
+3583 Alfred‑Desrochers
+December 16, 2002
+1671 de Courville
+March 14, 2003
+June 18, 2003
+k) Since the sale of the residence on Charney [sic] Street, the appellant has acquired two other properties, one at 3583 Alfred Desrochers Street and the other at 1671 de Courville Street.
+[5] The Minister submits that, to reach the conclusion that the appellant had made a misrepresentation attributable to neglect, carelessness or wilful default when he filed his income tax report for the 2003 taxation year, he relied on the following facts (paragraph 9 of the Reply to the Notice of Appeal):
+[translation]
+a) The appellant has worked in the construction trade for many years and has a good knowledge of the field.
+b) The appellant has been buying and selling real property repeatedly since 1996.
+c) The appellant's gain represents 70% of his total taxable income for the year in question.
+A. Jacques Savard's testimony
+[6] Jacques Savard, Canada Revenue Agency (CRA) auditor, wrote the auditor's report that was used as the basis for the assessment in question.
+[7] Mr. Savard testifies that his audit led him to discover that the appellant had purchased lots and constructed three houses on Alfred‑Desrochers Street in Sherbrooke. He adds that he did not believe the appellant's explanation regarding the reasons why he sold his residence on Charny Street. According to Mr. Savard, the appellant said he wanted to stay in that house but, at the first opportunity, he sold it. The auditor notes that the appellant works in the construction trade as a labourer, and he built almost all the houses that he later sold. According to the auditor, the appellant would normally purchase a lot, build most of the residence then live in the family unit before selling it shortly thereafter, and he did this repeatedly. According to the witness, this shows the appellant's intent to sell each of the properties once he began their construction. Mr. Savard analyzed the appellant's income reports and the estimated earnings on the sale of residences he had built for the period of 1997 to 2003 and he noted that the income from the sale of the residences was significantly greater than all the other income sources the appellant declared for those same years. According to Mr. Savard, the other income the appellant declared was insufficient to cover his family's cost of living.
+B. Appellant's testimony
+[8] The appellant explained that he worked as a carpenter for a general contractor. He had that job for 10 years until 1998. Then he was an insurance broker and then a massage therapist, which is his current occupation.
+[9] The houses that he built to live in with his family were built on weekends and holidays. The appellant explains that it generally takes him around 6 to 8 weeks to build a single-family house. The first house that he occupied at 3598 Alfred‑Desrocher Street was very simple. The appellant had a third house that he had to sell to build the single-family house at 3638 Alfred‑Desrocher Street. This house had three bedrooms on the first floor. According to the appellant, the birth of a fourth child led him to move again. He built a house at 3588 Alfred‑Desrochers Street to have four bedrooms on the first floor. He lived in this house with his family for 23 months. The appellant testified that because of marital issues, the family moved to 5441 Blanchette Street. The situation deteriorated quickly and the appellant and his ex-wife took turns living in the house on Blanchette Street. After his marriage broke down, the appellant built the house at 649 Charny Street, and moved in with his common-law spouse. He had joint custody of his four children, and as a result, he built four bedrooms to accommodate them. Following the permanent separation with his ex-wife, the appellant sold his undivided share of the Blanchette Street residence to his ex-wife's new spouse.
+[10] The appellant testified that he wanted to remain in the Charny Street residence but two unexpected factors led him to change his mind. His mother, Ms. Palardy, bought a lot at 2002 Alfred‑Desrocher Street. The lot was very large and faced the Magog River.
+[11] He helped Ms. Palardy build a residence on the lot. The lot was very large, and Ms. Palardy decided to subdivide it and sell one of the two parcels. In the end, she gave this second lot to her son where he had built the house at 3583 Alfred‑Desrochers Street. The appellant still lives in this residence today with his four children. He also operates a massage therapy business from this location. The appellant testified that he did not expect his mother to give him this parcel of land. He decided to sell his Charny Street residence to go live at 3583 Alfred‑Desrochers Street because it is a better location near the water.
+[12] The appellant also stated that his new common-law wife wanted a child. This also led the appellant to renovate his Alfred-Desrochers residence to add a fifth room on the first floor. His new spouse gave birth to a baby, but it turns out the appellant was not the father of this child. This led to their separation and currently, the appellant lives alone with his four children in this residence.
+III. Issues
+[13] Was the Minister’s reassessment for the 2003 taxation year after the normal taxation period warranted?
+[14] Was it warranted for the Minister to add a business income of $70,814 to the appellant's income for the 2003 taxation year?
+IV. Analysis
+[15] The issue is whether, in his tax return for the 2003 taxation year, the appellant made a misrepresentation attributable to neglect, carelessness or wilful default such that the Minister may, pursuant to subparagraph 152(4)(a)(i) of the ITA, make the assessment in question after the expiry of the normal reassessment period. Subparagraph 152(4)(a)(i) provides:
+152(4) Assessment or reassessment [period of limitation] — The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if:
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+…
+[16] Under this provision, aside from a misrepresentation, the Minister must also show on a balance of evidence that the misrepresentation is attributable to neglect, carelessness or wilful default by the appellant.
+[17] The respondent submits that the appellant made a misrepresentation by treating the profit from the disposition of the property in question as a capital gain rather than a taxable income gain. On this, the CRA auditor wrote:
+[translation]
+Summary: Mr. Cameron is and was in the construction field. He manages and also maintains income property. He knows real estate and is aware of the opportunities in the field. He would purchase a lot, almost completely build a residence, live in the family unit and then sell it within a short period of time, and he did so repeatedly. The income for his cost of living came largely from this activity because the other income declared would barely have supported his cost of living and the residences he had obtained. The likelihood of an intention to sell his residences is supported by the great number of transactions in the same neighbourhoods, including many on the same street.
+In short, Mr. Cameron worked as a construction contractor but on a smaller scale with a reduced team all while attempting to avoid paying income tax.
+Another transaction showing his business income, from De Courville, shows that Mr. Cameron is in a business whose income was declared as a capital gain; we did not open the time limit for this transaction.
+Indeed, four days after the March 2003 purchase, he signed with a real estate agent to put the housing property on the market at a set price below the municipal evaluation. This building was sold just 3 months after a few renovations and cleaning were done, and the signing of many leases to future lessees in this building that was nearly abandoned when he purchased it, which increased the value of the building. These facts are documented in a separate report Ft# 44.
+[18] Regarding real property, the Act does not provide any criteria to distinguish a capital gain from business income from a commercial transaction. Each case is different and the circumstances surrounding it must be reviewed to address the issue. In Happy Valley Farms Ltd. v. The Queen,[1] the Court considered the following factors in determining whether the sale of real property was income:
+a) The nature of the property sold and how the taxpayer used it;
+b) The length of the ownership period;
+c) The frequency or number of other similar transactions by the taxpayer;
+d) The work expended on or in connection with the property;
+e) The circumstances giving rise to the sale of the property; and
+f) The taxpayer's motive regarding the sale of the property at the time of purchase.
+[19] The CRA auditor focused on the second and third factors to justify his findings. Even if the circumstances that led to the sale could be interpreted as supporting the respondent's position, the real question is whether subparagraph 152(4)(a)(i) applies to a taxation year that is otherwise time-barred when the facts considered incorrect are presented because the taxpayer interpreted the circumstances to favour the non-taxation theory since they fall in the grey zone of tax law. It would appear that the case law allows us to answer this question in the negative when the taxpayer's position is not unreasonable.
+[20] The starting point is Regina Shoppers Mall Limited v. The Queen [2], a Federal Court decision. The central issue in that case was whether the taxpayer should have included the profit of the sale of a lot in its income tax return as a capital gain or as income. The taxpayer had included it as a capital gain, and the Minister found that there was a misrepresentation that allowed him to assess after the normal period. Addy J., at paragraph 10 of the decision, explained that when a taxpayer files an income tax return on what he believes to be the proper method, after thoughtful, deliberate and careful assessment, there can be no misrepresentation. This position was accepted by the Federal Court of Appeal at paragraph 7 of its decision.[3]
+[21] Moreover, at paragraph 15 of his judgement, Addy J. explained that the act does not impose on taxpayers the duty to report in a manner which the Minister prefers. If the taxpayer carefully considers his position and does not attempt to deceive the Minister, there is no misrepresentation.
+[22] Petric v. The Queen[4] shows the courts have broadly interpreted the principle propounded in Regina Shoppers Mall. That case was not about an issue of capital gain or income, but the fair market value of the property. Madam Justice Lamarre stated:
+38 …The matter of fair market value is a controversial issue, to be settled on the basis of the interpretation of the facts in evidence, as is the question of whether proceeds of disposition should be characterized as income or as a capital gain (Regina Shoppers Mall Limited) or of whether corporations are associated (1056 Enterprises Ltd.)…
+[23] And later, she added:
+40 Although fair market value is ultimately a question of fact to be resolved by the trier of fact, it is mostly a question of opinion answered by analysing different methodological approaches. Certainly the Minister is entitled to disagree with a taxpayer's view of fair market value and can reassess, within the limitation period, on the basis of his own evaluation. However, where the issue is whether the Minister should be allowed the benefit of an exception to the application of the limitation period, it must be shown that the taxpayer made a misrepresentation in filing his or its tax return. In the case at bar, I am of the view that unless it can be said that the appellants' view of fair market value was so unreasonable that it could not have been honestly held, there was no real misstatement.
+[Emphasis added]
+[24] In Savard v. The Queen,[5] the Tax Court of Canada stated again that taxpayers have the right to disagree with the Minister in their interpretation of the Act, without this necessarily being considered a misrepresentation. Tardif J. stated:
+78 Does a person have to include, when he or she fills out a tax return, everything that might be income, based not on his or her own analysis but on speculation as to what the Agency might want to attribute to him or her? I do not believe so. In this case, there was enough information to justify the interpretation adopted by the Appellant: that he had no obligation to declare the payments of fees by his employer as taxable benefits. In fact, the debate as to who really benefited from the services for which the fees were paid is clear evidence of how complex the case was and how much confusion surrounded it.
+[Emphasis added]
+[25] Recently, in Chaumont v. The Queen,[6] the taxpayer's interpretation was clearly incorrect, but the fact he had acted in good faith lead the Court to find that there was no misrepresentation. Tardif J. stated:
+15 Although the appellant's submissions were unusual and even surprising, they were neither far-fetched nor unreasonable enough for it to be concluded that he made a wilful default or mistake with the intent to escape from his Canadian tax obligations.
+16 Firstly, he expressed his objection, and secondly, he took initiatives to show that his allegations had merit, while taking into consideration the fact that certain income, specifically, pension income paid to a citizen who lives in a country other than the one that pays the pension, is not taxed.
+…
+18 To conclude that the appellant's conduct was a wilful default or that it constituted a sufficient error to permit the Minister to assess beyond the normal period, would affect any taxpayer's right to contest the merits of an assessment, and would cause the limitation period imposed by Parliament to be essentially theoretical.
+[26] In the light of the above-noted decisions, it appears that adopting a thoughtfully considered position that contradicts the Minister's position does not in itself mean the taxpayer made a misrepresentation that would allow the Minister to assess outside the normal period.
+[27] I do not feel that the appellant's interpretation of the facts can be considered unreasonable. When he built the residence on Charny Street, he could not have anticipated that his mother would give him a lot with a preferred location next to the river. Also, I can only imagine that, in similar circumstances, the majority of taxpayers would also be tempted to move in order to take advantage of the benefits of living in a house near the shore of a navigable river. In such circumstances, the owner reaps the benefits of a main and secondary residence without having to pay the costs related to both. This is a very likely motive that would explain the sale of the house on Charny Street for personal reasons. The Minister had three years from the date of the first notice of assessment to reassess the taxpayer, and at the same time, shift the burden of proof onto him. This was not done and, as a result, the Minister must accept the consequences of not having proven, on a balance of probabilities, that the misrepresentation alleged is due to one of the circumstances that allow a reassessment to be made after the normal assessment period.
+[28] For all these reasons, the appeal is allowed, the assessment is vacated and costs are awarded to the appellant.
+Signed at Ottawa, Canada, this 7th day of March 2011.
+"Robert J. Hogan"
+Hogan J.
+Translation certified true
+on this 20th day of April 2011.
+François Brunet, Revisor
+CITATION: 2011 TCC 107
+COURT FILE NO.: 2008-4063(IT)G
+STYLE OF CAUSE: MARC CAMERON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: December 14, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT: March 7, 2011
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] No. T‑6632‑82, 16 July 1986, 86 DTC 6421.
+[2] Nos. T‑1199‑88 and T‑2085‑88, 26 June 1990, 90 DTC 6427.
+[3] [1991] F.C.J. No. 52 [Regina Shoppers Mall].
+[4] 2006 TCC 306, [2006] T.C.J. No. 230.
+[5] 2008 TCC 62, 2008 DTC 2741.
+[6]2009 TCC 493, 2009 DTC 1813 (informal procedure).

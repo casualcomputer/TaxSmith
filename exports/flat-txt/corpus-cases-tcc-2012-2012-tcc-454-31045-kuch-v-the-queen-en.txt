@@ -1,0 +1,132 @@
+Title: Kuch v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31045/index.do
+Corpus path: corpus/cases/tcc/2012/2012-tcc-454-31045-kuch-v-the-queen-en.md
+Document type: case_law
+Last modified: 2012-12-18
+
+# Kuch v. The Queen
+
+- Citation: 2012 TCC 454
+- Decision date: 2012-12-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4868, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kuch v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-12-18
+Neutral citation
+2012 TCC 454
+File numbers
+2011-3782(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-3782(IT)I
+BETWEEN:
+JOHN E. KUCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 19, 2012 at Nanaimo, British Columbia
+By: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Devi Ramachandran
+____________________________________________________________________
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act for the 2008 and 2009 taxation years is dismissed.
+Signed at Toronto, Ontario this 18th day of December 2012.
+“J. M. Woods”
+Woods J.
+Citation: 2012 TCC 454
+Date: 20121218
+Docket: 2011-3782(IT)I
+BETWEEN:
+JOHN E. KUCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] John Kuch made spousal support payments pursuant to a court order that he thought would be deductible under the Income Tax Act. The deductions were partially disallowed by the Minister of National Revenue for the 2008 and 2009 taxation years, and Mr. Kuch has appealed to this Court.
+[2] The amounts that have been disallowed are $4,990 for the 2008 taxation year and $21,215 for the 2009 taxation year.
+[3] The Crown submits that the amounts were properly disallowed because Mr. Kuch was required to make these payments directly to third parties for specific expenses rather than paying the former spouse. As such, the Crown submits that the former spouse did not have discretion over the use of the funds as required by the definition of “support amount” in s. 56.1(4) of the Act. The Crown further submits that the deeming rule in s. 60.1(2) does not apply because the court order does not speak to the tax consequences.
+[4] Mr. Kuch did not express disagreement with the above. He submits, though, that the lawyers who drafted the court order believed that the payments would be taxable to the former spouse and deductible to him. He further submits that he was unfairly treated by the Canada Revenue Agency.
+Analysis
+[5] I would first comment that this Court cannot provide relief based on unfair treatment by the Canada Revenue Agency. An assessment can be varied by this Court only if the relief sought is permitted by the relevant legislation.
+[6] Three legislative provisions are particularly relevant to this appeal.
+[7] The first is the definition of “support amount,” which provides that the recipient must have discretion as to use of the funds. The second provision is s. 60(b), which provides a deduction to the payor of spousal support. As a consequence of these provisions, generally a deduction is permitted only if the recipient has discretion as to use of the funds.
+[8] The third provision, s. 60.1(2), is an exception to the general rule that the recipient have discretion as to use. It permits a deduction for payments to third parties if the relevant written agreement or court order specifies that the payments are to be taxable to the recipient and deductible to the payor. The relevant written agreement or court order is the document that provides for the support payment.
+[9] The provisions are reproduced below, with relevant parts underlined.
+56.1 (4)
+“support amount” means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common‑law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+60. Other deductions - There may be deducted in computing a taxpayer’s income for a taxation year such of the following amounts as are applicable:
+[…]
+(b) [spousal or child] support - the total of all amounts each of which is an amount determined by the formula
+A - (B + C)
+where
+A is the total of all amounts each of which is a support amount paid after 1996 and before the end of the year by the taxpayer to a particular person, where the taxpayer and the particular person were living separate and apart at the time the amount was paid,
+B is the total of all amounts each of which is a child support amount that became payable by the taxpayer to the particular person under an agreement or order on or after its commencement day and before the end of the year in respect of a period that began on or after its commencement day, and
+C is the total of all amounts each of which is a support amount paid by the taxpayer to the particular person after 1996 and deductible in computing the taxpayer’s income for a preceding taxation year;
+60.1 (2) Agreement - For the purposes of section 60, this section and subsection 118(5), the amount determined by the formula
+A - B
+where
+A is the total of all amounts each of which is an amount (other than an amount that is otherwise a support amount) that became payable by a taxpayer in a taxation year, under an order of a competent tribunal or under a written agreement, in respect of an expense (other than an expenditure in respect of a self-contained domestic establishment in which the taxpayer resides or an expenditure for the acquisition of tangible property that is not an expenditure on account of a medical or education expense or in respect of the acquisition, improvement or maintenance of a self-contained domestic establishment in which the person described in paragraph (a) or (b) resides) incurred in the year or the preceding taxation year for the maintenance of a person, children in the person’s custody or both the person and those children, where the person is
+(a) the taxpayer’s spouse or common-law partner or former spouse or common-law partner, or
+(b) where the amount became payable under an order made by a competent tribunal in accordance with the laws of a province, an individual who is a parent of a child of whom the taxpayer is a legal parent,
+and
+B is the amount, if any, by which
+(a) the total of all amounts each of which is an amount included in the total determined for A in respect of the acquisition or improvement of a self-contained domestic establishment in which that person resides, including any payment of principal or interest in respect of a loan made or indebtedness incurred to finance, in any manner whatever, such acquisition or improvement
+exceeds
+(b) the total of all amounts each of which is an amount equal to 1/5 of the original principal amount of a loan or indebtedness described in paragraph (a),
+is, where the order or written agreement, as the case may be, provides that this subsection and subsection 56.1(2) shall apply to any amount paid or payable thereunder, deemed to be an amount payable by the taxpayer to that person and receivable by that person as an allowance on a periodic basis, and that person is deemed to have discretion as to the use of that amount.
+[10] It is clear that Mr. Kuch’s appeal can succeed only if the deeming rule in s. 60.1(2) applies. The reason for this is that the former spouse did not have discretion as to use of the amounts that were disallowed.
+[11] The question, then, is whether the deeming rule in s. 60.1(2) applies. Unfortunately for Mr. Kuch, s. 60.1(2) does not apply because the relevant court order does not consider the tax consequences of the payments.
+[12] The relevant court order is an Order of The Supreme Court of British Columbia which was entered in the Registry on January 30, 2009. It is under this Order that the spousal payments became payable.
+[13] The deeming rule in s. 60.1(2) applies only if this Order specifies that the payments are to be tax deductible to the payor and taxable to the recipient. The relevant parts of s. 60.1(2) have been underlined above. Unfortunately for Mr. Kuch, the Order is silent as to the tax treatment of the payments.
+[14] Mr. Kuch referred to other documents at the hearing in support of his position that the tax consequences were agreed by the parties. These documents do not assist because these are not the documents by which the support payments became payable. It is only the Order entered on January 30, 2009 that is relevant.
+[15] The reason that the Order required that payments be made directly to third parties was explained by Justice Groves in the oral reasons to his Order. The relevant excerpt from the transcript of the oral reasons is reproduced below.
+In most circumstances, I would order a spousal support payment to be made directly to allow Mr. Kuch to have some tax deductibility and to put it in taxable income in Mrs. Kuch’s hand, but her level of directness on financial issues is lacking, and I am not satisfied that the payments would be made.
+[16] This comment strikes me as odd. Justice Groves is conscious that his decision deviates from a typical order which give tax deductibility to the payor. However, he states that he is making the Order in this manner because the former spouse was not credible in her testimony. It seems as if the decision results in punishment to the innocent party, Mr. Kuch.
+[17] If Justice Groves was hoping that his oral reasons would prompt the lawyers to consider the tax consequences when they drafted the final order, it appears that this did not happen. No mention was made of tax consequences in the formal order even though Mr. Kuch provided strong evidence at the hearing that the lawyers thought that the payments would be taxable to the former spouse and deductible to him. Mr. Kuch even paid his former spouse the amount of the tax payable with respect to the payments.
+[18] Unfortunately for Mr. Kuch, an agreement with his former spouse is not sufficient to enable him to deduct the payments. It is necessary that the agreement be reflected in the Order of Justice Groves, and it was not.
+[19] This is a very unfortunate outcome for Mr. Kuch. Although I have great sympathy for his circumstances, I must dismiss the appeal.
+Signed at Toronto, Ontario this 18th day of December 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 454
+COURT FILE NO.: 2011-3782(IT)I
+STYLE OF CAUSE: JOHN E. KUCH and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Nanaimo, British Columbia
+DATE OF HEARING: November 19, 2012
+REASONS FOR JUDGMENT BY: The Honourable Justice J.M. Woods
+DATE OF JUDGMENT: December 18, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Devi Ramachandran
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

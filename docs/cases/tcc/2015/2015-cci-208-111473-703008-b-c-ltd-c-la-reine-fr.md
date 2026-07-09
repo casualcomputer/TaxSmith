@@ -1,0 +1,372 @@
+---
+title: "703008 B.C. Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/111473/index.do"
+last_modified: "2015-08-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 208"
+citation2: ""
+neutral_citation: "2015 CCI 208"
+decision_date: "2015-08-20"
+language: "fr"
+item_id: "111473"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2631
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:23:59.859000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a03ddffab777e920a57bfd4a8c343710f1f537a53bb6bbe3cdd973f66cd3949a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 703008 B.C. Ltd. c. La Reine
+
+- Citation: 2015 CCI 208
+- Decision date: 2015-08-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2631, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+703008 B.C. Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-08-20
+Référence neutre
+2015 CCI 208
+Numéro de dossier
+2012-2801(GST)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-2801(GST)G
+ENTRE :
+703008 B.C. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 20 et 21 octobre 2014, à Kelowna (Colombie‑Britannique), et observations écrites déposées le 13 janvier 2015.
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Avocat de l’appelante :
+Me Kenneth Hauser
+Avocats de l’intimée :
+Me Victor Caux
+Me Devi Ramachandran
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, l’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi sur la taxe d’accise pour certaines périodes de déclaration de l’appelante se terminant entre le 1er septembre 2008 et le 31 août 2009, dont l’avis de confirmation est daté du 29 mars 2012, est rejeté avec dépens.
+Signé à Antigonish (Nouvelle‑Écosse), ce 20e jour d’août 2015.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 6e jour de janvier 2016.
+Mario Lagacé, jurilinguiste.
+Référence : 2015 CCI 208
+Date : 20150820
+Dossier : 2012-2801(GST)G
+ENTRE :
+703008 B.C. LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] La Cour est appelée à statuer sur la question de savoir si, pendant certaines périodes de déclaration de la taxe sur les produits et services (la « TPS ») se terminant entre le 1er septembre 2008 et le 31 août 2009 (les « périodes visées par la cotisation »), l’appelante a, pour l’application de la partie IX de la Loi sur la taxe d’accise (la « Loi relative à la TPS » ou la « Loi »), fourni certaines unités en copropriété par vente ou par bail.
+[2] J’ai entendu les témoins suivants : Mme Diane Bold, qui était, pendant la période pertinente, une spécialiste en prêts hypothécaires à la Banque Royale, M. Robert Hager, qui était, pendant la période pertinente, président d’une société de vente et de commercialisation appelée Tactx Project Sales and Marketing (la société « Tactx »), et M. Brian Kevin Bird, président de l’appelante.
+[3] J’ai jugé les trois témoins crédibles.
+Résumé des faits [4] À moins d’indication contraire, les faits suivants sont tirés de l’exposé conjoint partiel des faits (l’« ECPF ») qui figure à l’annexe A des présents motifs du jugement.
+[5] L’appelante est une société de promotion immobilière basée à Kelowna, en Colombie‑Britannique. Un de ses projets consistait en la construction d’immeubles en copropriété à Kelowna, connu sous le nom de Terravita. Le projet conçu par l’appelante devait comporter quatre immeubles en copropriété sécurisés.
+[6] Entre septembre 2007 et le 30 août 2009, l’appelante a construit trois des quatre immeubles en copropriété Terravita. La première unité en copropriété pouvait être occupée vers juillet 2008[1].
+[7] Il semble que l’appelante ait commencé à commercialiser le projet Terravita en mars 2007. Elle a retenu les services de la société Tactx pour commercialiser et vendre les unités en copropriété du projet Terravita (les « unités en copropriété Terravita »)[2].
+[8] Dans son témoignage, M. Bird a déclaré que l’appelante voulait vendre les unités en copropriété Terravita le plus vite possible afin de rembourser le prêt de 33 millions de dollars que la Banque Royale lui avait consenti pour la réalisation du projet. Pour atteindre cet objectif dans un marché immobilier très concurrentiel, l’appelante a mis en œuvre un programme de financement appelé le programme de financement Terra‑Living (le « programme de financement »). M. Bird a décrit le programme de financement comme un plan de financement des intérêts seulement, théoriquement sur 100 000 $[3].
+[9] Les témoins ont décrit le programme en prenant comme exemple une unité en copropriété Terravita d’une juste valeur marchande de 400 000 $, pour laquelle le client de l’appelante voulait utiliser le programme de financement pour 100 000 $ de la juste valeur marchande[4] de 400 000 $. Dans une telle situation, le programme fonctionnait de la manière suivante :
+• L’appelante et son client concluaient une convention d’offre de bail (l’« offre de bail »).
+• L’offre de bail comportait les stipulations suivantes :
+• Une offre de bail d’une unité en copropriété Terravita pour une durée de 99 ans.
+• Un paiement de location mensuel (333,33 $ dans l’exemple) pour les trois premières années du bail. Ce montant était calculé comme étant l’intérêt payable sur un montant précis (100 000 $ dans l’exemple) financé au taux de 4 % (le « paiement de location mensuel »)[5].
+• Un paiement de location par anticipation (300 000 $ dans l’exemple) effectué à la date de conclusion de l’opération (la « date de conclusion »), égal à la différence entre la juste valeur marchande de l’unité en copropriété (400 000 $ dans l’exemple) et le montant utilisé pour calculer le paiement de location mensuel (100 000 $ dans l’exemple) (le « paiement de location par anticipation »).
+• Une option d’achat de l’unité en copropriété (l’« option d’achat ») dont dispose le client de l’appelante pour un montant qui a été fixé à trois cents fois le paiement de location mensuel (le montant de 100 000 $ utilisé pour calculer le paiement de location mensuel).
+[10] Avant de prendre possession d’une unité en copropriété Terravita, le client de l’appelante signait un bail, qui est appelé « Formule de bail – Clauses expresses de charges » (le « bail en question »)[6].
+[11] La Banque Royale et Valley First Credit Union accordaient du financement aux clients relativement aux paiements de location par anticipation[7]. Mme Bold l’a décrit comme étant un financement qui comportait un élément de bail. M. Bird a admis que les clients accordaient à la Banque Royale une hypothèque sur intérêt à bail[8].
+[12] Mme Bold et M. Bird ont décrit les avantages financiers du programme de financement en utilisant l’exemple susmentionné. Mme Bold a souligné que le décaissement mensuel d’un client de l’appelante était réduit étant donné qu’il ne payait qu’un intérêt sur les 100 000 $ utilisés pour calculer le paiement de location mensuel.
+[13] Mme Bold a expliqué que le programme de financement permettait également de réduire le montant du versement initial exigé par la Banque Royale. Si le client achetait simplement une unité en copropriété Terravita au prix de 400 000 $, la Banque Royale pouvait alors accorder un financement de 80 % sur les 400 000 $, ce qui donnait lieu à un versement initial de 80 000 $. Toutefois, aux termes du programme de financement, la Banque Royale pouvait financer jusqu’à 95 % d’un paiement de location par anticipation de 300 000 $ si le client avait l’intention de vivre dans l’unité, ce qui donnait lieu à un versement initial de 15 000 $. Si le client voulait louer l’unité à un tiers, la Banque Royale pouvait alors accorder un financement allant jusqu’à 80 % d’un paiement de location par anticipation de 300 000 $, ce qui donnait lieu à un versement initial de 60 000 $[9].
+[14] M. Bird a déclaré dans son témoignage que, de l’avis de l’appelante, le programme de financement diminuait le prix d’achat de 100 000 $. Il a précisé que les 100 000 $ représentaient le profit de l’appelante sur la vente d’une unité en copropriété. L’appelante se contentait, à court terme, de recevoir les 4 % d’intérêt sur les 100 000 $. Les dirigeants de l’appelante croyaient (selon l’expérience qu’ils avaient du marché immobilier local) que, lorsque le client vendait à un tiers l’intérêt à bail qu’il possédait dans l’unité en copropriété, il exerçait l’option d’achat et l’appelante recevait les 100 000 $[10].
+[15] Il ressort manifestement des états financiers de l’appelante que le programme de financement a été un succès financier pour l’appelante en 2008 et en 2009, deux années très difficiles pour le marché immobilier en raison de la crise financière[11].
+[16] L’appelante a initialement fourni toutes les unités du projet Terravita au moyen d’une offre de bail. Toutefois, entre 2007 et 2009, la juste valeur marchande des unités en copropriété Terravita a connu une baisse allant de 80 000 $ à 120 000 $. Cette situation a fait en sorte que le programme de financement a généré des flux de trésorerie négatifs pour l’appelante. En conséquence, l’appelante a commencé à vendre un certain nombre d’unités en copropriété Terravita à des clients en utilisant des offres d’achat écrites aux termes desquelles le client acceptait d’acheter l’unité en copropriété à la date de conclusion de la vente (le « contrat de vente »)[12].
+[17] Pendant les périodes visées par la cotisation, l’appelante a fourni soixante‑seize unités en copropriété Terravita de la manière suivante :
+• Pour 18 unités en copropriété, l’acquéreur de la fourniture a signé l’offre de bail, mais a exercé l’option d’achat avant la date de conclusion;
+• Pour 44 unités en copropriété, l’acquéreur de la fourniture a signé une offre de bail, n’a pas exercé l’option d’achat et a signé le bail en question (les « 44 unités en copropriété Terravita »);
+• Pour 14 unités en copropriété, l’acquéreur a acheté l’unité aux termes du contrat de vente. Dans ces cas, l’acquéreur n’a pas conclu d’offre de bail[13].
+[18] Pendant les périodes visées par la cotisation, l’appelante a perçu et versé la TPS sur le prix d’achat total en ce qui a trait aux fournitures effectuées aux 18 acquéreurs qui ont exercé l’option d’achat avant la date de conclusion et aux 14 acquéreurs qui ont acheté leur unité en copropriété aux termes du contrat de vente. Le ministre a accepté le traitement de ces ventes par l’appelante.
+[19] En ce qui concerne la fourniture des 44 unités en copropriété Terravita, l’appelante a :
+• signé un certificat de TPS attestant que la fourniture était une vente assujettie à la TPS.
+• perçu auprès des acquéreurs la TPS sur les paiements de location par anticipation (300 000 $ dans l’exemple) et l’a versée.
+• procédé à l’autocotisation de la TPS à l’égard du montant sur lequel le paiement de location mensuel a été calculé (100 000 $ dans l’exemple) et l’a versée.
+• demandé, dans le calcul de sa taxe nette, un crédit de 36 189,02 $ relativement au remboursement pour habitations neuves prévu au paragraphe 254(2), que certains acquéreurs des fournitures avaient cédé à l’appelante[14].
+• omis de percevoir la TPS sur les paiements de location mensuels[15].
+[20] Le ministre a établi une cotisation de taxe nette supplémentaire à l’égard de l’appelante pour la période visée par la cotisation, qui consistait en une TPS de 599 605,34 $ réputée être percevable sur une fourniture réputée avoir été effectuée à soi‑même pour les 44 unités en copropriété Terravita[16], il a établi une cotisation relative à la TPS perçue, mais non déclarée, de 11 499,95 $, et il a refusé les crédits de 36 189,02 $ demandés relativement au remboursement pour habitations neuves prévu au paragraphe 254(2) de la Loi.
+[21] L’appelante accepte qu’elle soit redevable de la TPS de 11 499,95 $ perçue, mais non déclarée. Toutefois, elle ne souscrit pas aux autres rajustements. L’appelante soutient que la fourniture des 44 unités en copropriété Terravita aux termes de l’offre de bail et du bail en question n’était pas assujettie aux règles connues sous le nom de fourniture à soi‑même, parce que l’appelante avait fourni ces unités par « vente » et non par « bail, licence ou accord semblable ».
+Le droit [22] Pendant les périodes pertinentes, tout acquéreur d’une fourniture taxable qui était effectuée en Colombie‑Britannique était tenu de payer une TPS égale à 5 % de la valeur de la contrepartie de la fourniture[17].
+[23] En l’espèce, l’acquéreur, le lieu de la fourniture ainsi que le montant total payé par l’acquéreur de la fourniture ne font l’objet d’aucune contestation.
+[24] La question à trancher est de savoir si l’appelante a fourni les 44 unités en copropriété Terravita à ses clients par vente ou par bail.
+[25] Les dispositions légales relatives à la TPS comportent des règles détaillées en ce qui a trait à l’imposition de fournitures d’immeubles. Comme pour la plupart des biens, la Loi impose des taxes sur les ventes et baux d’immeubles de façons très différentes. Cela est particulièrement vrai lorsque la fourniture en question est une fourniture d’un immeuble résidentiel tel qu’un logement en copropriété.
+[26] Selon les définitions au paragraphe 123(1), chaque unité en copropriété Terravita est un logement en copropriété, une habitation et un immeuble d’habitation pour l’application de la Loi relative à la TPS.
+Taxe sur les ventes et les baux de logements en copropriété neufs [27] La vente d’un logement en copropriété neuf constitue une fourniture taxable. De manière générale, la vente d’un logement en copropriété non neuf constitue une fourniture exonérée et n’est pas assujettie à la TPS[18]. Bien que le vendeur d’un logement en copropriété non neuf ne soit pas tenu de percevoir la TPS sur la vente, il ne peut pas demander de crédit de taxe sur les intrants pour recouvrer la taxe payée à l’égard d’intrants ayant servi à l’acquisition du logement.
+[28] Le bail portant sur des logements en copropriété neufs et non neufs constitue une fourniture exonérée, à condition que le bail soit d’une durée d’au moins un mois et que le logement en copropriété soit donné à bail en vue de son occupation à titre résidentiel ou d’hébergement par une personne[19]. En pareilles circonstances, le bailleur du logement en copropriété n’a pas le droit de demander de crédits de taxe sur les intrants à l’égard de toute TPS payée pour l’acquisition du logement en copropriété ou à l’égard de dépenses supportées relativement à la location du logement en question.
+[29] Le bail portant sur un logement en copropriété neuf ou non neuf constitue une fourniture taxable si le logement est fourni pour une durée de moins de 30 jours, tel que dans le cas d’une unité en copropriété fournie sur une base journalière ou hebdomadaire à un centre de villégiature.
+Règles relatives au moment du paiement de la taxe [30] La Loi relative à la TPS comporte des dispositions précises qui portent sur le moment où un inscrit aux fins de la TPS/TVH doit percevoir et verser des montants relativement à la TPS. Un inscrit doit verser sa taxe nette pour chacune de ses périodes de déclaration de la TPS. De manière générale, la taxe nette d’un inscrit pour une période de déclaration de la TPS est égale à tous les montants de TPS et de TVH qui ont été réellement perçus par l’inscrit au cours de la période de déclaration de la TPS, plus tous les montants de TPS et de TVH qui sont devenus percevables au cours de la période, moins tous les crédits de taxe sur les intrants demandés dans la déclaration de TPS/TVH pour la période de déclaration[20].
+[31] La TPS devient percevable par un inscrit au moment où elle devient payable par l’acquéreur de la fourniture[21]. Les articles 168 et 152 de la Loi relative à la TPS comportent de nombreuses règles qui déterminent le moment où la TPS devient payable par l’acquéreur de la fourniture.
+[32] Le paragraphe 168(5) comporte des dispositions portant sur le moment où la taxe relative à un immeuble est payable. Cette disposition prévoit que, dans la plupart des cas, la TPS relative à la fourniture taxable d’un immeuble par vente est payable au premier en date du jour du transfert à l’acquéreur de la propriété du bien et du jour du transfert à celui‑ci de la possession du bien aux termes de la convention portant sur la fourniture.
+[33] Toutefois, le paragraphe 168(5) contient une disposition spéciale applicable à la fourniture taxable d’un logement en copropriété par vente. Cette disposition s’applique lorsque le fournisseur transfère la possession du logement en copropriété à l’acquéreur de la fourniture avant l’enregistrement de l’immeuble d’habitation en copropriété dans lequel le logement est situé. En d’autres termes, lorsque le fournisseur transfère la possession du logement à l’acquéreur, mais ne peut pas en transférer la propriété, étant donné que le fournisseur ne peut transférer la propriété que lorsque l’immeuble d’habitation en copropriété est enregistré en vertu de la loi provinciale applicable.
+[34] Dans un tel cas, la TPS est réputée payable au premier en date du jour du transfert de la propriété et du soixantième jour après le jour d’enregistrement de l’immeuble d’habitation en copropriété.
+[35] Si un logement en copropriété est fourni par vente, et que la possession n’est transférée qu’après l’enregistrement de l’immeuble d’habitation en copropriété, la règle générale s’applique. La TPS est payable par l’acquéreur et est percevable par le fournisseur au premier en date du jour du transfert à l’acquéreur de la propriété du logement en copropriété et du jour du transfert à celui‑ci de la possession du bien aux termes de la convention portant sur la fourniture.
+[36] Si un logement en copropriété est fourni par location ou par bail taxable (par exemple, pour une période inférieure à un mois), la TPS est alors, de manière générale, payable le jour où l’acquéreur de la fourniture est tenu de payer le montant de la location ou du bail[22].
+Les règles de la fourniture à soi‑même [37] L’article 191 comporte des règles que l’on appelle les règles de la fourniture à soi‑même.
+[38] Comme je l’ai déjà souligné, la location de logements en copropriété neufs ou non neufs pour une durée supérieure à un mois constitue une fourniture exonérée. Les règles énoncées au paragraphe 191(1) visent à faire en sorte que le constructeur d’un immeuble d’habitation à logement unique à usage locatif paie le même montant de taxe non remboursable qu’une personne qui achète auprès d’un tiers un immeuble d’habitation à logement unique neuf à usage locatif.
+[39] Les règles énoncées au paragraphe 191(1) s’appliquent entre autres lorsque le constructeur d’un logement en copropriété transfère la possession ou l’utilisation du logement à une personne aux termes d’un bail, d’une licence ou d’un accord semblable conclu en vue de l’occupation de l’immeuble à titre résidentiel.
+[40] Dans une telle situation, le constructeur est réputé, aux termes de la disposition susmentionnée, avoir effectué et reçu une fourniture taxable par vente du logement en copropriété. Le constructeur est également réputé avoir payé à titre d’acquéreur et perçu à titre de fournisseur aux termes de la Loi la taxe relative à la fourniture réputée, calculée sur la juste valeur marchande du logement en copropriété.
+[41] La règle fait en sorte que le constructeur du logement en copropriété est tenu de verser la taxe sur la juste valeur marchande du logement.
+[42] À l’instar des règles relatives au moment où la taxe est payable énoncées au paragraphe 168(5), la règle énoncée au paragraphe 191(1) tient compte de la situation où le transfert de la possession ou de l’utilisation d’un logement en copropriété est effectué aux termes d’un bail à une personne qui a conclu un contrat de vente pour acheter le logement en copropriété au moment de l’enregistrement de l’immeuble d’habitation en copropriété. Dans une telle situation, les règles de la fourniture à soi‑même ne s’appliquent pas[23].
+Les arguments de l’appelante [43] L’appelante soutient principalement que, pour les raisons suivantes, elle a fourni les 44 unités en copropriété Terravita par « vente » et non par « bail, licence ou accord semblable », au sens de ces expressions dans la Loi relative à la TPS :
+1. La Loi relative à la TPS établit une distinction entre une fourniture par « bail, licence ou accord semblable » et une fourniture par « vente »;
+2. La « vente » s’entend du transfert de la possession d’un bien en vertu d’une convention prévoyant le transfert de la propriété du bien;
+3. Une « vente » peut être effectuée lorsque la possession précède la propriété;
+4. La fourniture de chacune des 44 unités en copropriété Terravita en question par l’appelante portait sur le transfert de la possession de chacune des unités en copropriété aux termes d’une convention prévoyant le transfert de la propriété des unités en copropriété.
+5. Le fait de considérer la fourniture des 44 unités en copropriété Terravita autrement que comme une « vente » pour l’application de la Loi donnerait lieu à des résultats absurdes.
+[44] L’appelante a également soutenu que, si la fourniture des 44 unités en copropriété Terravita constituait une fourniture par « bail, licence ou accord semblable », les règles de la fourniture à soi‑même prévues au paragraphe 191(1) ne s’appliquaient pas, étant donné que la fourniture tombait sous le coup de l’exclusion prévue au sous‑alinéa 191(1)b)(i).
+Taxe imposée sur une vente par rapport à celle imposée sur un bail pour ce qui est des 44 unités en copropriété Terravita [45] La TPS est une taxe sur les opérations commerciales prélevée sur une fourniture particulière selon la nature de la fourniture au moment où celle‑ci est réputée avoir été effectuée selon la Loi relative à la TPS.
+[46] Si la fourniture de chacune des 44 unités en copropriété Terravita constituait une vente en vertu de la Loi relative à la TPS, la fourniture constituait une fourniture taxable d’un immeuble[24]. La fourniture serait réputée avoir été effectuée au moment où les parties ont conclu l’offre de bail[25], de sorte que l’appelante aurait l’obligation de percevoir auprès de l’acquéreur la TPS sur la valeur de la contrepartie de la fourniture[26]. Si l’on suppose que l’immeuble en copropriété Terravita concerné a été enregistré à titre d’immeuble en copropriété avant la date de conclusion pour chacune des 44 unités en copropriété Terravita en cause, la TPS sur la valeur totale de la contrepartie pour chacune des 44 unités en copropriété Terravita était percevable par l’appelante et payable par l’acquéreur à la date de conclusion[27].
+[47] Dans une telle situation, les règles de la fourniture à soi‑même prévues au paragraphe 191(1) ne s’appliqueraient pas à l’appelante, étant donné que celle‑ci n’a pas fourni le bien par bail, licence ou accord semblable.
+[48] Si la fourniture de chacune des 44 unités en copropriété Terravita constituait une fourniture par bail, licence ou accord semblable, alors la fourniture sera une fourniture exonérée en vertu de l’article 6 de la partie I de l’annexe V de la Loi relative à la TPS. Tel sera le résultat, étant donné que le bail en question prévoit une location d’une durée d’au moins un mois en vue de l’occupation de l’unité en copropriété à titre résidentiel ou d’hébergement par une personne.
+[49] Si l’appelante a fourni chacune des 44 unités en copropriété Terravita par bail, licence ou accord semblable, elle était tenue d’établir une autocotisation de la TPS selon le paragraphe 191(1), sauf si l’exclusion prévue au sous‑alinéa 191(1)b)(i) s’appliquait à l’opération. Si l’on suppose que l’exclusion ne s’appliquait pas, l’appelante serait tenue d’établir une autocotisation de la taxe sur la juste valeur marchande des unités.
+Traitement de la TPS par l’appelante [50] En ce qui concerne la fourniture des 44 unités en copropriété Terravita, l’appelante a perçu auprès des acquéreurs la TPS sur le paiement de location par anticipation, et l’a versée. L’appelante a également établi une autocotisation de la TPS sur le montant sur lequel le paiement de location mensuel a été calculé, et l’a versée.
+[51] En réalité, l’appelante a utilisé ce que j’appellerai une méthode hybride pour rendre compte de la TPS. Elle a considéré la partie de la fourniture qui se rapportait au paiement de location par anticipation comme une fourniture par vente d’une unité en copropriété Terravita et le reste de la fourniture comme une fourniture par bail d’une unité en copropriété Terravita. Tel est le résultat, étant donné que l’appelante n’aurait qu’à procéder à une autocotisation de la TPS en vertu des règles de la fourniture à soi-même si elle avait effectué une fourniture par bail[28].
+[52] La Loi relative à la TPS ne comporte aucune disposition qui autorise la taxation d’une partie d’une fourniture unique d’un logement en copropriété à titre de vente et la taxation d’une autre partie de la même fourniture à titre de bail[29].
+[53] Par conséquent, même si je conclus que l’appelante a fourni les 44 unités en copropriété Terravita par vente, il n’en demeure pas moins qu’elle n’a pas correctement rendu compte de la TPS. S’il s’agissait d’une vente, comme nous venons de le voir, l’appelante aurait dû percevoir la TPS auprès des acquéreurs à l’égard du prix d’achat total des 44 unités en copropriété Terravita. En principe, si une vente a bel et bien eu lieu, les acquéreurs des fournitures des 44 unités en copropriété Terravita ont encore l’obligation de payer la TPS sur la partie du prix d’achat qui dépasse le paiement de location par anticipation. Cette obligation n’est éteinte que si l’acquéreur paie la taxe au fournisseur ou verse la taxe directement à l’ARC.
+Application de la loi aux faits dont la Cour est saisie [54] Le paragraphe 123(1) de la Loi relative à la TPS définit le terme « vente » de la manière suivante : « Y sont assimilés le transfert de la propriété d’un bien et le transfert de la possession d’un bien en vertu d’une convention prévoyant le transfert de la propriété du bien ». Étant donné que la définition utilise l’expression « y sont assimilés », une vente au sens de cette expression en common law est aussi une vente pour les besoins de la TPS[30].
+[55] Il découle du fait d’inclure dans la définition du terme « vente » tout transfert de propriété d’un bien que toute convention qui prévoit le transfert de la propriété effective d’un bien constitue une vente[31].
+[56] La Loi relative à la TPS envisage des situations où une fourniture unique peut donner lieu au transfert de la possession avant le transfert de la propriété relativement à la même fourniture[32]. L’inclusion dans la définition du terme « vente » d’un transfert de possession en vertu d’une convention prévoyant le transfert de propriété permet de faire en sorte que, si au moment où la fourniture est réputée être effectuée en vertu de la Loi relative à la TPS seule la possession est transférée à l’acquéreur, la fourniture constitue quand même une vente si la convention concernant la fourniture particulière prévoit le transfert de propriété subséquent du bien.
+[57] À mon avis, sans égard au moment où le fournisseur transfère la possession à l’acquéreur, la fourniture ne constituera une vente en vertu de la Loi relative à la TPS que si elle est effectuée en vertu d’une convention qui, au moment où la fourniture est effectuée, oblige le fournisseur à transférer la propriété du bien et oblige l’acquéreur à acquérir la propriété du bien. Si le fournisseur transfère la possession à l’acquéreur et que, au moment où la fourniture est effectuée, il n’existe pas de convention qui oblige les deux parties à transférer la propriété, alors, dans la plupart des cas, la fourniture sera faite par bail, licence ou accord semblable.
+[58] L’offre de bail[33] et le bail en question[34] font référence à la situation où l’appelante transfère la possession d’une unité en copropriété à l’acquéreur en vertu d’un bail d’une durée de 99 ans et offre l’option d’acheter l’unité à une date ultérieure.
+[59] Les articles 1, 2 et 3, respectivement, de l’offre de bail prévoient ce qui suit :
+[traduction]
+- L’offre porte sur la location des biens-fonds désignés […]
+- L’offre consiste à louer les lieux selon les modalités énoncées dans le bail […]
+- Le bail est d’une durée de quatre-vingt‑dix‑neuf (99) ans et commence le […][35]
+[60] Le bail en question prévoit clairement que l’opération est un bail d’une unité en copropriété. Les attendus et les articles 1.01 et 13.05 du bail en question stipulent ce qui suit :
+[traduction]
+FORMULE DE BAIL – CLAUSES EXPRESSES DE CHARGES
+LE PRÉSENT BAIL est daté du ____ jour de _____ 2007.
+ATTENDU que le cédant (appelé dans les présentes clauses expresses de charges le « locateur ») est le propriétaire inscrit des biens‑fonds décrits dans […]
+ATTENDU que le cessionnaire (appelé dans les présentes clauses expresses de charges le « locataire ») souhaite louer les biens‑fonds du locateur.
+[...]
+1.01 ATTESTE qu’en échange des loyers prévus et des engagements et restrictions énoncés dans les présentes que le locataire doit respecter, le locateur loue par les présentes au locataire les lieux loués en vue de leur détention pour la durée de quatre‑vingt‑dix‑neuf (99) ans […]
+[…]
+13.05 La seule relation entre les parties aux présentes est celle de locateur-locataire et aucune disposition ni mesure prise par les parties aux présentes ne sera réputée créer entre elles une autre relation[36].
+[61] En outre, les documents renferment la plupart des conditions qu’une personne s’attendrait à trouver dans le bail d’une habitation tel qu’un logement en copropriété.
+[62] L’article 2.01 du bail en question fixe le loyer pour la durée du bail; l’article 2.04 porte sur les frais de fonctionnement et énonce que le bail doit être un bail net dont l’entretien est entièrement à la charge du locataire; l’article 4 a trait à l’assurance; l’article 5 porte sur l’utilisation des lieux par le locataire; l’article 6.01 porte sur l’entretien et les réparations des unités pendant la durée du bail; l’article 8 traite des questions de cession de bail et de sous-location à bail et l’article 10 a trait aux manquements du locataire, notamment le défaut de payer le loyer à l’échéance.
+[63] Lorsque l’on examine la convention dans son ensemble, il est clair qu’il s’agit d’un bail, et non d’une vente, de chacune des 44 unités en copropriété Terravita. Les faits suivants tirés de l’ECPF étayent ma conclusion :
+[traduction]
+• « L’appelante détenait le titre sur les unités ».
+• « L’appelante a enregistré la convention [le bail en question] au bureau d’enregistrement des titres fonciers en tant que baux sur les titres qu’elle détenait ».
+• « Les acquéreurs n’avaient pas le droit de récupérer le loyer payé d’avance ou le loyer mensuel ».
+• « Le paiement du loyer n’accordait pas systématiquement aux acquéreurs un droit sur les unités ni ne transférait automatiquement la propriété des unités aux acquéreurs[37] ».
+[64] Le bail en question accorde au cessionnaire l’utilisation du bien pendant la durée du bail et l’appelante conserve la propriété de l’unité pendant la durée du bail.
+[65] Le bail en question n’accorde pas à l’acquéreur l’option d’acquérir la propriété de l’unité. L’article 16.01 du bail en question énonce ce qui suit :
+[traduction]
+Compte tenu des clauses liminaires et des engagements pris par le locataire, le locateur donne par les présentes autorisation au locataire ou au créancier hypothécaire du locataire ou lui accorde l’option, pendant la durée du bail ou pendant la période de reconduction du bail, d’acheter le bien-fonds pour la somme de [sic] égale au produit du paiement mensuel du loyer actuel prévu à l’article 2.01 multiplié par 300[38].
+[66] À mon avis, une option qui accorde au locataire la capacité d’obtenir la propriété du bien loué lorsque le locataire choisit d’exercer l’option ne transforme pas un bail en une vente pour l’application de la Loi relative à la TPS. Au moment où la fourniture est effectuée, l’option n’est pas une convention obligatoire par laquelle le fournisseur doit transférer, et l’acquéreur doit acquérir, la propriété effective du bien. Il s’agit plutôt d’une clause du bail qui accorde à l’acquéreur l’option d’acquérir la propriété du bien ultérieurement. En outre, le transfert du bien par bail et le transfert de propriété subséquent du bien à la levée de l’option prévue par le bail sont des fournitures distinctes.
+[67] L’appelante admet que l’option prévue dans le bail en question n’est pas, au moment où la fourniture est effectuée, une convention obligatoire visant le transfert de la propriété de l’unité en copropriété qui fait l’objet du bail en question. L’ECPF énonce que les acquéreurs de la fourniture des 44 unités en copropriété Terravita n’étaient pas obligés d’acheter les unités, et l’appelante conservait le titre sur les unités en copropriété, à moins que les acquéreurs n’exercent l’option d’achat.
+[68] L’avocat de l’appelante a soutenu que le bail en question faisait partie d’un mécanisme de financement qui visait à faciliter la vente des unités en copropriété. Il a insisté sur le fait que le plan réduisait les paiements que devaient faire les acquéreurs au moment de la fourniture. Il a fait valoir que cela facilitait la vente des unités en copropriété, pour reprendre ses propres mots, en [traduction] « donnant au futur propriétaire la capacité d’accéder à la propriété de son unité en copropriété à tout moment sans pénalité, et avec un minimum d’obstacles à franchir ».
+[69] Je ne puis souscrire à l’argument susmentionné. Dans de nombreux cas, les fournisseurs recourent à des baux comme méthode de financement pour faciliter la fourniture d’un bien. Toutefois, ils demeurent des baux. Le fait qu’un locataire dispose de l’option d’acheter le bien loué à une date ultérieure ne transforme pas le bail en une vente. À mon avis, ce n’est que lorsque le bien est fourni en vertu d’une convention qui est appelée bail, mais qui oblige l’acquéreur d’acheter le bien au moment où la fourniture est effectuée, que ce que l’on appelle le bail peut être considéré comme une vente pour l’application de la Loi relative à la TPS.
+[70] L’avocat de l’appelante a également soutenu que ce n’est pas dans toutes les situations qu’une option donne lieu à une vente. Toutefois, il affirme que telle est la situation factuelle en l’espèce, principalement en raison du fait que tous les acquéreurs ont l’intention d’exercer l’option d’achat avant l’expiration du délai de 99 ans. Pour les raisons que je viens d’énoncer, je ne souscris pas à cet argument.
+[71] De plus, comme la Cour l’a fait observer à maintes reprises, la forme de l’opération a de l’importance. Dans l’arrêt La Reine c. Friedberg, CAF, dossier A-65-89, décision rendue le 5 décembre 1991, 135 N.R. 61, la Cour d’appel fédérale a formulé les observations suivantes, au paragraphe 4 :
+En droit fiscal, la forme a de l’importance. Une simple intention subjective, en l’espèce comme dans d’autres instances en matière fiscale, ne suffit pas en soi à modifier la caractérisation d’une opération aux fins de l’impôt. Lorsqu’un contribuable prend certaines dispositions formelles à l’égard de ses affaires, il peut s’ensuivre d’importants avantages fiscaux, quand bien même ces dispositions seraient prises principalement dans le but d’éviter des impôts (voir La Reine c. Irving Oil, 91 D.T.C. 5106, le juge Mahoney, J.C.A.). Toutefois, si un contribuable omet de prendre les mesures formelles appropriées, peut-être que des impôts devront être payés. S’il n’en était pas ainsi, Revenu Canada et les tribunaux se livreraient à des exercices interminables pour établir les intentions véritables derrière certaines opérations. Les contribuables et la Couronne chercheraient à restructurer des opérations après coup afin de profiter de la législation fiscale ou d’amener les contribuables à payer des impôts qu’ils pourraient autrement ne pas avoir à payer. Bien que la preuve de l’intention puisse parfois aider les tribunaux à clarifier des marchés, elle est rarement déterminante. En résumé, la preuve d’une intention subjective ne peut servir à « rectifier » des documents qui s’orientent clairement vers une direction précise.
+[72] Si je devais conclure que l’intention de l’acquéreur déterminait la taxation de la fourniture, alors le fournisseur, l’Agence du revenu du Canada (l’« ARC ») et la Cour se livreraient à des exercices interminables pour établir une telle intention. Ainsi, le fournisseur se verrait imposer un fardeau particulièrement lourd.
+[73] Bien que la Loi relative à la TPS impose à l’acquéreur le paiement de la taxe, elle oblige le fournisseur de percevoir la TPS à titre de mandataire de la Couronne et de la verser par la suite. Si l’acquéreur ne paie pas le montant de taxe approprié, c’est normalement le fournisseur, non l’acquéreur, qui fait l’objet d’une cotisation. En conséquence, le fournisseur doit avoir un certain degré de certitude quant à l’application de la Loi relative à la TPS à une fourniture particulière. Par exemple, le fournisseur d’un logement en copropriété doit savoir, au moment de la fourniture, s’il est tenu de percevoir la TPS sur le total de la contrepartie du bien, d’établir sa propre cotisation de TPS sur la juste valeur marchande du bien ou de percevoir la taxe sur les paiements mensuels de loyers.
+[74] Un fournisseur ne pouvait pas tirer une telle conclusion avec un certain degré de certitude si elle était fondée sur un facteur subjectif tel que la question de savoir si un acquéreur avait l’intention ou non d’exercer une option d’achat.
+[75] En outre, il ressort de la preuve dont je suis saisi que, pour des raisons de droit commercial, l’appelante a considéré le bail en question comme un bail en common law des unités en copropriété individuelles. Cela ressort de la manière dont l’appelante a traité le non-respect du bail en question par un de ses clients. Le client en question avait reçu un financement de la Banque Royale, qui était censé être affecté à une partie du paiement de location par anticipation. La Banque Royale a alors grevé l’unité en copropriété d’une hypothèque sur intérêt à bail.
+[76] À un moment donné, le client a fait faillite et a cessé de faire les paiements mensuels de loyer, ce qui constituait un manquement selon le bail en question[39]. L’avocat de l’appelante a alors envoyé une lettre à la Banque Royale pour lui demander soit d’exercer l’option prévue au bail en question soit de lever son hypothèque sur intérêt à bail. La lettre était libellée ainsi :
+[traduction]
+Veuillez noter que nous sommes les avocats de la société 0703008 B.C. Ltd., qui est propriétaire (le « propriétaire ») du bien‑fonds dont la description officielle est PID 027‑794‑466 (unité 90, plan KAS3485), situé à Kelowna, en C.‑B. (le « bien »). Les locataires ont conclu un bail à l’égard du bien avec le propriétaire (le « bail »). Les locataires ont consenti une hypothèque sur intérêt à bail à la RBC qui l’a enregistrée au bureau d’enregistrement des titres fonciers de Kamloops sous le numéro susmentionné.
+Les locataires n’ont pas respecté le bail en raison de la cession de leurs biens en vertu de la Loi sur la faillite et le bail est maintenant résilié. Le propriétaire a le droit d’enlever immédiatement le bail et l’hypothèque sur intérêt à bail du titre du bien. Toutefois, le propriétaire souhaite fournir à la RBC un délai raisonnable pour le rachat du bien auprès du propriétaire et protéger ainsi la garantie de la RBC[40].
+[77] Dans son témoignage, M. Bird a déclaré que la Banque Royale avait d’abord effectué les paiements mensuels de loyer non réglés et avait ensuite retenu les services d’un courtier en immeubles pour qu’il trouve quelqu’un qui serait disposé à exercer l’option ou à prendre en charge le bail[41].
+[78] La manière dont l’appelante a traité le manquement des clients est un élément de preuve objectif et clair qu’il considérait le bail en question comme un bail d’une unité en copropriété, non une vente.
+[79] En résumé, compte tenu de la preuve dont je suis saisi, j’ai conclu que, lorsque l’appelante a conclu les offres de bail et les baux en question relativement aux 44 unités en copropriété Terravita, elle a effectué des fournitures par bail, licence ou accord semblable en vertu de la Loi relative à la TPS.
+[80] L’appelante soutient également que, même si la fourniture a été effectuée par bail, les règles de la fourniture à soi‑même énoncées au paragraphe 191(1) ne s’appliquaient pas à la fourniture en raison de l’exclusion prévue au sous‑alinéa 191(1)b)(i).
+[81] La disposition susmentionnée prévoit que les règles de la fourniture à soi‑même ne s’appliquent que si le constructeur de l’immeuble (l’appelante) en transfère la possession ou l’utilisation à une personne aux termes d’un bail, d’une licence ou d’un accord semblable conclu en vue de l’occupation de l’immeuble à titre résidentiel, « sauf un accord qui est connexe à un contrat de vente visant l’immeuble et qui porte sur la possession ou l’occupation de l’immeuble jusqu’au transfert de sa propriété à l’acheteur aux termes du contrat ». [Non souligné dans l’original.]
+[82] L’exclusion ne s’applique que si la possession est transférée aux termes d’un contrat de vente et si la possession ne demeure que jusqu’au transfert de la propriété de l’immeuble à l’acheteur aux termes du contrat. À l’instar des règles relatives au moment énoncées au paragraphe 168(5), la disposition susmentionnée tient compte de la situation où le fournisseur transfère à l’acquéreur la possession d’une unité en copropriété, mais ne peut transférer la propriété qu’à une date ultérieure, lorsque l’unité en copropriété est enregistrée en vertu de la loi provinciale applicable. Dans les faits, la disposition vise à ce que les règles de la fourniture à soi‑même ne s’appliquent pas à la vente d’une unité en copropriété.
+[83] L’exclusion ne s’applique pas à la fourniture des 44 unités en copropriété Terravita effectuée par l’appelante. La possession des unités individuelles n’a pas été transférée aux clients de l’appelante aux termes d’un contrat de vente. Il n’existait aucun contrat de vente. Le seul contrat se rapportant à la possession des unités en copropriété par les clients de l’appelante était le bail en question, qui était un bail, non un contrat de vente.
+[84] L’avocat de l’appelante a également soutenu que l’acceptation par la Cour de la thèse de l’intimée selon laquelle les 44 unités en copropriété Terravita ont été fournies par bail entraînerait les conséquences suivantes, qu’elle qualifie d’absurdes :
+[traduction]
+(1) l’appelante aura préalablement versé le montant total de TPS sur les 44 unités en copropriété Terravita en question, sauf un montant de 6 000 $;
+(2) le ministre recevra encore 593 605,34 $;
+(3) le ministre récupérera 36 189,02 $ des remboursements pour habitations neuves cédés, que l’appelante a demandés à titre de crédit de taxe sur les intrants, lesquels ont été cédés par les propriétaires;
+(4) le ministre a établi une nouvelle cotisation à l’égard de l’appelante de telle sorte que […] la période suivant la fourniture des 44 unités en copropriété Terravita en question a eu lieu, et a déployé très peu d’efforts pour aviser les propriétaires de ces unités du remboursement de la taxe payée par erreur que seul un quart des propriétaires de ces unités avaient reçu, lequel remboursement s’élevait au total à 142 669,18 $.
+[…]
+[…] Le résultat final […] est que le ministre aura un gain fortuit de […] 487 125,18 $ […]
+[…] Il s’agit de 593 605,34 $ pour le montant ayant fait l’objet de la nouvelle cotisation, plus 36 189 $ pour la somme qu’il récupérera à l’égard des remboursements pour habitations neuves, moins 142 669,18 $ pour les remboursements de la taxe payée par erreur. […][42]
+[85] Je n’admets pas que ma conclusion selon laquelle l’appelante a fourni les 44 unités en copropriété Terravita par bail donne lieu à un résultat absurde.
+[86] La seule TPS payable en vertu de la Loi relative à la TPS sur les 44 unités en copropriété Terravita était payable par l’appelante au titre des règles de la fourniture à soi‑même énoncées au paragraphe 191(1). Aucune TPS n’était payable par les acquéreurs de ces fournitures. La TPS que l’appelante a perçue auprès des acquéreurs sur les paiements de location par anticipation constitue une taxe payée par erreur.
+[87] Un inscrit est tenu de verser tous les montants devenus percevables en vertu de la Loi relative à la TPS et « les autres montants perçus par la personne […] au titre de la taxe […][43] ». Par conséquent, l’appelante était tenue de verser la taxe perçue par erreur relativement au paiement de location par anticipation.
+[88] La Loi relative à la TPS prévoit deux mécanismes pour le remboursement de la taxe payée par erreur qu’un fournisseur a perçue et versée. Le fournisseur peut rembourser la taxe elle‑même, remettre à la personne une note de crédit contenant les renseignements prescrits et demander ensuite un crédit à l’égard de la TPS pour le remboursement de la taxe payée par erreur[44]. Subsidiairement, la personne qui a payé la taxe par erreur peut demander un remboursement au titre de l’article 261. Les deux mécanismes sous assujettis à un délai de prescription de deux ans.
+[89] Le ministre n’a réalisé aucun gain fortuit. Toute la taxe payée par erreur était remboursable aux acquéreurs selon la Loi relative à la TPS. En réalité, le ministre a accepté toutes les demandes de remboursement de la taxe payée par erreur présentées par les acquéreurs. Ces remboursements totalisaient 142 669 $[45].
+[90] Apparemment, l’appelante soutient qu’un gain fortuit a été réalisé parce que l’ARC n’a informé en temps opportun ni l’appelante ni les acquéreurs du fait que la taxe avait été payée par erreur et que les acquéreurs avaient le droit de la recouvrer. Toutefois, il ressort des éléments de preuve présentés que la première fourniture de l’une des 44 unités en copropriété Terravita a été faite le 25 septembre 2008[46]. L’appelante a fait l’objet d’une nouvelle cotisation le 11 mars 2010, une date située tout à fait à l’intérieur du délai de prescription de deux ans pour le remboursement de la taxe payée par erreur par l’appelante ou pour la présentation d’une demande de remboursement par un acquéreur. Il ressortait manifestement de la nouvelle cotisation que le ministre croyait que les acquéreurs avaient payé la taxe par erreur.
+[91] En outre, si l’appelante était préoccupée par le fait que les acquéreurs n’étaient pas au courant du remboursement de la taxe payée par erreur, elle aurait pu elle‑même, en vertu de l’article 232, rembourser aux acquéreurs la taxe payée par erreur et demander ensuite un crédit pour le montant remboursé.
+[92] La deuxième partie de l’argument de l’appelante concernant le caractère absurde du résultat porte sur le fait que le ministre a refusé le crédit que l’appelante avait demandé pour les remboursements pour habitations neuves qui avaient été cédés.
+[93] C’est à juste titre que le ministre a refusé la demande concernant les remboursements pour habitations neuves prévus au paragraphe 254(2) étant donné que l’appelante n’a pas fourni par vente les 44 unités en copropriété Terravita. Toutefois, l’appelante avait le droit de demander des remboursements pour un immeuble d’habitation locatif neuf au titre de l’article 256.2, à condition qu’elle réponde à certaines conditions énoncées à cette disposition. En réalité, l’appelante a demandé et a reçu des remboursements pour un immeuble d’habitation locatif neuf relativement à 38 des 44 unités en copropriété Terravita.
+[94] En résumé, ma conclusion selon laquelle l’appelante a fourni les 44 unités en copropriété Terravita par bail ne donne pas lieu à un résultat absurde. La personne concernée verse la taxe imposée par la Loi relative à la TPS, l’appelante a le droit de demander le remboursement approprié et le ministre ne réalise aucun gain fortuit.
+[95] Pour les motifs exposés ci‑dessus, l’appel est rejeté avec dépens. La cotisation établie par le ministre rend compte du montant exact de la taxe nette supplémentaire que l’appelante doit verser.
+Signé à Antigonish (Nouvelle‑Écosse), ce 20e jour d’août 2015.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 6e jour de janvier 2016.
+Mario Lagacé, jurilinguiste
+Annexe A
+[traduction]
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+Les parties conviennent et admettent les faits suivants pour les besoins des présents appels. Elles peuvent présenter à l’audience des éléments de preuve supplémentaires qui sont pertinents quant aux questions en litige en l’espèce, pourvu qu’ils ne soient pas incompatibles avec le présent exposé des faits.
+Faits convenus
+L’appelante
+1. L’appelante est une société de promotion immobilière située à Kelowna, en Colombie‑Britannique.
+2. L’appelante a été constituée en personne morale en Colombie‑Britannique le 30 août 2004.
+3. Le lieu d’affaires de l’appelante est situé au 347, avenue Leon, bureau 105B, à Kelowna, en Colombie‑Britannique.
+Terravita
+4. Pendant les périodes de déclaration allant du 1er septembre 2008 au 31 août 2009 (la « période »), l’appelante possédait un terrain sur Auburn Road, à West Kelowna, en Colombie‑Britannique.
+5. L’appelante avait comme projet la construction sur ce terrain de quatre immeubles en copropriété sécurisés.
+6. Le projet était connu sous le nom de Terravita.
+7. Tel que cela avait été proposé, Terravita consistait en 142 unités réparties en quatre immeubles situés au 2780, au 2770, au 2760 et au 2750 Auburn Road.
+8. Le projet Terravita était subdivisé en unités en vertu d’un plan de copropriété enregistré auprès du district foncier d’Osoyoos Division Yale sous le numéro KAS3485.
+9. Pendant la période, l’appelante a construit trois des quatre immeubles Terravita, à savoir ceux situés au 2780, au 2770 et au 2760 Auburn Road.
+Conventions de bail
+10. L’appelante a initialement fourni toutes les unités de Terravita au moyen d’une convention d’offre de bail.
+11. La construction des trois immeubles Terravita était achevée en grande partie lorsque l’appelante a signé les conventions de bail pertinentes.
+12. L’appelante a fourni au total soixante‑seize unités de Terravita pendant la période. Ces unités ont fait l’objet des opérations suivantes :
+a) pour quatorze unités, les acquéreurs ont finalement signé une offre d’achat et un contrat de vente au lieu d’une « Formule de bail – Clauses expresses de charges » (la « Convention »), et ont payé le montant total de l’unité avant la conclusion;
+b) pour dix‑huit unités, les acquéreurs ont signé une Convention, mais ont exercé leur droit d’achat des unités avant la date de conclusion;
+c) pour quarante‑quatre unités, les acquéreurs ont signé une Convention pour les unités (les « unités ») et n’ont pas exercé leur droit d’achat des unités avant la conclusion.
+Les questions en litige en l’espèce portent uniquement sur les quarante‑quatre unités pour lesquelles les acquéreurs ont signé une Convention et n’ont pas exercé leur droit d’achat des unités avant la conclusion (les « acquéreurs »).
+13. La durée de la Convention était de quatre‑vingt‑dix‑neuf ans.
+14. L’appelante détenait le titre sur les unités.
+15. L’appelante a enregistré la Convention au bureau d’enregistrement des titres fonciers en tant que baux sur les titres qu’elle détenait.
+16. La Convention fixait un loyer de base pour les unités, qui était composé de deux montants : un montant mentionné dans la convention comme étant un « loyer payé d’avance », et un montant appelé « loyer mensuel ».
+17. Le loyer mensuel était prévu pour trois ans, et était ensuite revu à la hausse selon une formule prévue dans la Convention tous les trois ans pour la durée de quatre‑vingt‑dix‑neuf ans.
+18. Pour quarante acquéreurs, le loyer mensuel était calculé comme si le montant de 100 000 $ était financé au taux de 4 %.
+a. Pour quatre acquéreurs, le loyer mensuel était calculé comme si les montants de 150 000 $, de 130 000 $, de 120 000 $ et de 200 000 $, respectivement, étaient financés au taux de 4 %.
+b. Le loyer payé d’avance était composé de la différence entre la juste valeur marchande des unités et le montant sur lequel le loyer mensuel était calculé.
+19. Les acquéreurs avaient une option d’achat des unités, et le prix était fixé à trois cents fois le loyer mensuel.
+20. L’option d’achat pouvait être exercée sans pénalité moyennant un avis de trente jours à l’appelante.
+21. L’appelante conservait le titre sur les unités, sauf si les acquéreurs exerçaient l’option d’achat.
+22. Les acquéreurs n’avaient pas le droit de récupérer le loyer payé d’avance ou le loyer mensuel.
+23. Les acquéreurs n’étaient pas obligés d’acheter les unités.
+24. Le paiement du loyer n’accordait pas systématiquement aux acquéreurs un droit sur les unités ni ne transférait automatiquement la propriété des unités aux acquéreurs.
+Traitement de la taxe sur les produits et services (la « TPS ») relativement aux unités
+25. L’appelante a signé un certificat de TPS lorsqu’elle a fourni les unités, et a déclaré que la fourniture était une vente assujettie à la TPS.
+26. L’appelante a perçu auprès des acquéreurs la TPS sur les loyers payés d’avance et l’a versée.
+27. Pour toutes les unités régies par une Convention, sauf une, l’appelante a procédé à une autocotisation, et a versé la TPS sur le montant sur lequel le loyer mensuel a été calculé.
+28. L’appelante a demandé 36 189,02 $ au titre de remboursements pour habitations neuves pour le compte de huit acquéreurs pour lesquels il a porté la totalité de ce montant à leur crédit.
+29. L’appelante a demandé 36 189,02 $ à titre de crédit de taxe sur les intrants dans le calcul de sa taxe nette.
+30. L’Agence du revenu du Canada a effectué une vérification de la déclaration de revenus de l’appelante pour l’année d’imposition se terminant le 31 octobre 2009 et le ministre du Revenu national n’a pas établi de nouvelle cotisation relativement au calcul du revenu de l’appelante provenant des unités du projet Terravita.
+RÉFÉRENCE :
+2015 CCI 208
+NO DU DOSSIER DE LA COUR :
+2012-2801(GST)G
+INTITULÉ :
+703008 B.C. LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Kelowna (Colombie‑Britannique)
+DATES DE L’AUDIENCE :
+Les 20 et 21 octobre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT :
+Le 20 août 2015
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Kenneth Hauser
+Avocats de l’intimée :
+Me Victor Caux
+Me Devi Ramachandran
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Kenneth Hauser
+Cabinet :
+Kenneth R. Hauser Law Corporation
+Tax Lawyer
+Kamloops (Colombie‑Britannique)
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Pièce R‑2, aux pages 35 et 36.
+[2] Pièce A‑1; transcription, témoignage de M. Hauser, aux pages 37 à 39.
+[3] Transcription, témoignage de M. Bird, aux pages 115 à 120 et 135 à 138.
+[4] Transcription, témoignage de Mme Bold, aux pages 16, 17, 21 et 22.
+[5] Le paiement de location mensuel était fixé pour une période de trois ans et augmentait ensuite selon une formule établie dans la convention tous les trois ans pour la durée de la période de quatre‑vingt‑dix‑neuf ans.
+[6] ECPF, aux pages 2 et 3; pièce 8 à pièce A‑9.
+[7] Transcription, témoignage de M. Bird, aux pages 205 et 206.
+[8] Transcription, témoignage de Mme Bold, aux pages 26 et 27; témoignage de M. Bird, aux pages 204 et 205.
+[9] Transcription, témoignage de Mme Bold, aux pages 21 à 23.
+[10] Transcription, témoignage de M. Bird, à la page 137.
+[11] Pièces A‑15 et A‑16; transcription, témoignage de M. Bird, aux pages 177 à 179.
+[12] Transcription, témoignage de M. Bird, aux pages 175, 216 et 217; pièce 10 à pièce A‑9.
+[13] ECPF, aux pages 2 et 3.
+[14] ECPF, à la page 4.
+[15] Transcription, témoignage de M. Bird, à la page 197.
+[16] Le montant de la cotisation établie était égal à la TPS payable sur la juste valeur marchande des 44 unités en copropriété Terravita moins le montant de l’autocotisation établie par l’appelante relativement aux paiements de location mensuels; transcription, à la page 230.
+[17] Article 165.
+[18] Voir les articles 2, 3 et 4 de la partie I de l’annexe V concernant la Loi relative à la TPS.
+[19] Article 6 de la partie I de l’annexe V concernant la Loi relative à la TPS.
+[20] Article 225.
+[21] Cela découle de l’application du paragraphe 221(1).
+[22] Paragraphe 152(2), si l’on suppose que le logement en copropriété est fourni aux termes d’une convention écrite.
+[23] Sous‑alinéa 191(1)b)(i).
+[24] De manière générale, la fourniture ne constituerait pas une fourniture exonérée étant donné qu’elle a été effectuée par l’appelante, qui est considérée comme le constructeur des unités en copropriété pour l’application de la Loi relative à la TPS.
+[25] Article 133.
+[26] Paragraphes 165(1) et 221(1).
+[27] Sous réserve des règles énoncées au paragraphe 168(6) concernant la contrepartie invérifiable et en supposant que la possession de l’unité n’est pas transférée à l’acquéreur avant la date de conclusion.
+[28] Voir l’article 191.
+[29] Le paragraphe 136(2) autorise la séparation d’une fourniture unique d’un immeuble comprenant à la fois un immeuble d’habitation et un immeuble qui n’est pas un immeuble d’habitation. Il ne s’applique pas à la situation dont je suis saisi, étant donné qu’en l’espèce, le seul immeuble fourni est un immeuble d’habitation.
+[30] Voir la décision Storrow v. R., [1978] CTC 792, à la page 794.
+[31] Cela fait en sorte que le don d’un bien et le transfert de propriété dans le cadre d’une opération de troc constituent des ventes en vertu de la Loi relative à la TPS. Voir les notes techniques du ministère des Finances, mai 1990, « subsection 123(1) “sale” », reproduit dans Canada GST Service, Binder C2 (Toronto, Carswell, 2013), 123‑905.
+[32] Voir par exemple, les paragraphes 168(5), 191(1) et 191(2).
+[33] Exemple donné à la pièce A‑5.
+[34] Pièce 8 de la pièce A‑9, témoignage de M. Bird, aux pages 134 et 135. M. Bird a déclaré dans son témoignage que cette formule de bail a été utilisée pour l’ensemble des 44 unités en copropriété Terravita.
+[35] Pièce A‑5.
+[36] Pièce 8 de la pièce A‑9.
+[37] ECPF, aux paragraphes 14, 15, 24 et 26.
+[38] Pièce 8 de la pièce A‑9.
+[39] Transcription, témoignage de M. Bird, aux pages 212 et 213; pièce 8 de la pièce A‑9, article 10.02.
+[40] Pièce A‑12.
+[41] Transcription, témoignage de M. Bird, aux pages 213 et 214.
+[42] Transcription, argument de l’appelante, aux pages 271 et 273.
+[43] Paragraphe 225(1).
+[44] Article 232.
+[45] Pièce A‑19, aux pages 2 et 3.
+[46] Transcription, témoignage de M. Bird, aux pages 174 à 176.

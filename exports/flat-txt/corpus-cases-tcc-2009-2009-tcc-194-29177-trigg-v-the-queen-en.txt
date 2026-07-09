@@ -1,0 +1,131 @@
+Title: Trigg v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29177/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-194-29177-trigg-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-04-09
+
+# Trigg v. The Queen
+
+- Citation: 2009 TCC 194
+- Decision date: 2009-04-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6737, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Trigg v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-04-09
+Neutral citation
+2009 TCC 194
+File numbers
+2008-2473(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-2473(IT)I
+BETWEEN:
+KEVIN TRIGG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on January 22, 2009 at Calgary, Alberta
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valerie Meier
+AMENDED JUDGMENT
+In accordance with the attached Amended Reasons for Judgment, the appeal from the reassessment made under the Income Tax Act for the 2006 taxation year is allowed, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to moving expense deductions for:
+1. car rental expenses of $547.84 and $302.61; and
+2. asbestos removal and insulation costs of $9,892.15; and
+3. property taxes and utilities in the amount of $1,685.49.
+IT IS FURTHER ORDERED that the filing fee of $100 be refunded to the Appellant.
+This Amended Judgment and Amended Reasons for Judgment are issued in substitution for the Judgment and Reasons for Judgment issued the 9th day of April, 2009.
+Signed at Ottawa, Canada, this 20th day of May, 2009.
+“G. A. Sheridan”
+Sheridan, J.
+Citation: 2009TCC194
+Date: 20090520
+Docket: 2008-2473(IT)I
+BETWEEN:
+KEVIN TRIGG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Kevin Trigg, is appealing the reassessment of the Minister of National Revenue disallowing a deduction for certain costs he incurred during his move from Quebec to take up new employment in Alberta.
+[2] At the hearing of the appeal, an Amended Reply to the Notice of Appeal[1] was filed on consent.
+[3] In dispute are costs incurred by the Appellant for car rental and for the removal and replacement of asbestos from his old residence in Montreal. Each of these costs is dealt with separately below.
+Car Rental Expenses
+[4] The Appellant moved to Alberta in 2005. The sale of his old residence in Montreal was not completed until 2006. In March of that year he had to return to Montreal to complete the negotiations on the sale of the old residence and again, in June to close the deal. On both occasions he rented a car to travel between Montreal and his summer residence north of the city where he was staying while tying up the sale of the old residence. The car rental contracts[2] provided unlimited mileage and showed kilometers driven under each contract of 1161 and 859, respectively.
+[5] The Minister conceded that the Appellant was entitled to rental car cost expenses based on a maximum of 720 kilometers.
+[6] The Appellant argued that he was entitled to the full cost on the basis that, but for moving to Alberta for work, he would not have needed a rental car in Montreal.
+[7] Subsection 62(1) provides generally for the deduction of “amounts paid by the taxpayer as or on account of moving expenses” which are defined in subsection 62(3) of the Income Tax Act as follows:
+(3) Definition of “moving expenses”. In subsection (1), “moving expenses” includes any expense incurred as or on account of
+(a) travel costs (including a reasonable amount expended for meals and lodging), in the course of moving the taxpayer and members of the taxpayer’s household from the old residence to the new residence,
+(b) the cost to the taxpayer of transporting or storing household effects in the course of moving from the old residence to the new residence,
+(c) the cost to the taxpayer of meals and lodging near the old residence or the new residence for the taxpayer and members of the taxpayer’s household for a period not exceeding 15 days.
+(d) the cost to the taxpayer of cancelling the lease by virtue of which the taxpayer was the lessee of the old residence,
+(e) the taxpayer’s selling costs in respect of the sale of the old residence,
+(f) where the old residence is sold by the taxpayer or the taxpayer’s spouse or common-law partner as a result of the move, the cost to the taxpayer of legal services in respect of the purchase of the new residence and of any tax, fee or duty (other than any goods and services tax or value-added tax) imposed on the transfer or registration of title to the new residence, and
+(g) interest, property taxes, insurance premiums and the cost of heating and utilities in respect of the old residence, to the extent of the lesser of $5,000 and the total of such expenses of the taxpayer for the period
+(i) throughout which the old residence is neither ordinarily occupied by the taxpayer or by any other person who ordinarily resided with the taxpayer at the old residence immediately before the move nor rented by the taxpayer to any other person, and
+(ii) in which reasonable efforts are made to sell the old residence, and
+(h) the cost of revising legal documents to reflect the address of taxpayer’s new residence, of replacing drivers’ licenses and non-commercial vehicle permits (excluding any cost for vehicle insurance) and of connecting or disconnecting utilities,
+but, for greater certainty, does not include costs (other than costs referred to in paragraph (f)) incurred by the taxpayer in respect of the acquisition of the new residence.
+[8] The use of the word “includes” in subsection 62(3) has been held to mean that the list is not exhaustive[3].
+[9] The cost of renting a car is not specifically listed under subsection 62(3) but nor is it expressly excluded. In these circumstances, the question is whether the car rental costs were “… a direct consequence of the change in residence imposed by the change in employment”[4]. In my view they were, an opinion the Minister shared, at least to the extent of 720 kilometers. The rental car contracts provided unlimited mileage; thus, the number of kilometers driven did not affect the Appellant’s cost. Accordingly, the issue is whether the rental expenses of $547.84 and $302.61 were reasonable. I am satisfied they were. But for the move to Alberta, the Appellant would not have needed to return to Montreal to finalize the sale of his former home. Because it took such a long time to sell the old residence, by the time the sale was concluded, he had no transportation in Montreal to permit him to take care of all the final details of the sale. In my view, the rental car expenses were a direct consequence of the move and the amounts claimed are reasonable.
+Asbestos Replacement Costs
+[10] The Appellant claimed a deduction for $9,892.15 for costs he incurred to remove asbestos from his old residence and replace it with insulation.
+[11] The Minister disallowed the deduction on the basis that it did not come within the meaning of “a taxpayer’s selling costs in respect of the sale of the old residence” under subsection 62(3)(e) of the Act. In support of the Respondent’s position, counsel for the Respondent cited Faibish v. R.[5] In that case, the Tax Court of Canada upheld the Minister’s refusal to allow a moving expense deduction for the removal of mold from and related repairs to the old residence prior to its being listed for sale.
+[12] In my view, however, the Appellant’s situation is easily distinguishable from that in Faibish. The Appellant’s evidence, which I accept, was that it had taken several months to find a buyer for their old residence in Montreal. After he and his family had moved to Alberta, they finally received an offer. However, it was made conditional upon the replacement of the asbestos with suitable insulation[6]. In Faibish, the property had not yet been listed for sale; the costs incurred to remove the mold (and then, regrettably, to repair the flood damage that ensued) arose only because of the taxpayer’s “belief”[7] that removing mold would enhance its chances for sale. In these circumstances, the Court quite understandably concluded that the mold removal and repair costs were remedial and preparatory to the move rather than “moving expenses” as contemplated by subsection 62(3).
+[13] The Court referred in Faibish to another decision of the Tax Court of Canada, Collin v. Minister of National Revenue[8], in which Bonner, J. distinguished between preparatory costs and the costs of changing the terms of a mortgage to facilitate a sale, the latter being a legitimate moving expense. In my view, the costs incurred by the Appellant to fulfill the conditions for the sale of his old residence are analogous to the mortgage costs in Collin. Unlike the taxpayer in Faibish, the Appellant did not take on such costs merely in the hope that they might bring about a sale or enhance the price; they were the direct response to the demands of a long-awaited buyer in a slow market. As such, they were part of his selling costs in respect of the old residence and ought to be deductible.
+[14] For the reasons set out above, the appeal of the assessment for the 2006 taxation year is allowed and the matter is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to moving expense deductions for:
+1. car rental expenses of $547.84 and $302.61; and
+2. asbestos removal and insulation costs of $9,892.15; and
+3. property taxes and utilities in the amount of $1,685.49.
+This Amended Judgment and Amended Reasons for Judgment are issued in substitution for the Judgment and Reasons for Judgment issued the 9th day of April, 2009.
+Signed at Ottawa, Canada, this 20th day of May, 2009.
+“G. A. Sheridan”
+Sheridan, J.
+CITATION: 2009TCC194
+COURT FILE NO.: 2008-2473(IT)I
+STYLE OF CAUSE: KEVIN TRIGG AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: January 22, 2009
+REASONS FOR AMENDED
+JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF AMENDED
+JUDGMENT: May 20, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Valerie Meier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Attached as Exhibit “C” to the affidavit of Ken Rebryna.
+[2] Exhibits A-1 and A-2.
+[3] Séguin v. R., 1997 CarswellNat 2392 (F.C.A.); [1998] 2 C.T.C. 13 (F.C.A.).
+[4] Above, at paragraph 10.
+[5] 2008 TCC 241; 2008 D.T.C. 3554 (T.C.C.).
+[6] Exhibits A-3 and A-4.
+[7] Above, at paragraph 5.
+[8] [1986] 1 C.T.C. 2603 (T.C.C.).

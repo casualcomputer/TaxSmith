@@ -1,0 +1,178 @@
+Title: Kuryliw c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27727/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-352-27727-kuryliw-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-06-14
+
+# Kuryliw c. La Reine
+
+- Citation: 2007 CCI 352
+- Decision date: 2007-06-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 478, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kuryliw c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-06-14
+Référence neutre
+2007 CCI 352
+Numéro de dossier
+2004-4339(IT)G
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-4339(IT)G
+ENTRE :
+PETER KURYLIW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 6 septembre 2006, à Toronto (Ontario).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Avocat de l’appelant :
+Me Damien R. Frost
+Avocate de l’intimée :
+Me Natalie Goulard
+____________________________________________________________________
+JUGEMENT
+L’appel de la cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001 est accueilli, avec dépens, et la cotisation est renvoyée au ministre du Revenu national pour nouvel examen et nouvelle cotisation compte tenu du fait que l’appelant n’est pas assujetti à l’impôt sur la somme de 220 000 $ que représentent les traites bancaires.
+Signé à Ottawa, Canada, ce 14e jour de juin 2007.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 4e jour de décembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI352
+Date : 20070614
+Dossier : 2004-4339(IT)G
+ENTRE :
+PETER KURYLIW,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Le présent appel est interjeté à l’encontre d’une cotisation d’impôt sur le revenu établie pour l’année d’imposition 2001. L’appelant a été imposé sur un revenu de 274 717 $; or, l’appelant soutient que son revenu pour l’année d’imposition s’élevait à 30 000 $. La cotisation frappée d’appel comporte sept éléments :
+16 396 $, soit la somme globale des retraits et des achats sur le compte de 1473253 Ontario Inc. (la « société ») à la Banque de Montréal;
+38 321 $, soit la somme globale des retraits et des achats sur le compte de la société à la Banque TD Canada Trust;
+traite bancaire de 70 000 $ tirée sur le compte de la société à la Banque de Montréal et libellée à l’ordre de Comdex Foreign Exchange;
+traite bancaire de 20 000 $ tirée sur le compte de la société à la Banque TD Canada Trust et libellée à l’ordre de Toronto Mercantile Financial;
+traite bancaire de 70 000 $ tirée sur le compte de la société à la Banque TD Canada Trust et libellée à l’ordre de Comdex Foreign Exchange;
+traite bancaire de 20 000 $ tirée sur le compte de la société à la Banque TD Canada Trust et libellée à l’ordre de Toronto Mercantile Financial;
+traite bancaire de 40 000 $ tirée sur le compte de la société à la Banque TD Canada Trust et libellée à l’ordre de Toronto Mercantile Financial.
+[2] Les hypothèses de fait invoquées au paragraphe 25 de la réponse à l’avis d’appel produite par l’intimée permettront de comprendre la théorie sur laquelle le ministre du Revenu national a fondé sa décision d’établir une cotisation à l’égard de l’appelant relativement à ces sommes.
+[traduction]
+25. En établissant une cotisation à l’égard de l’appelant pour l’année d’imposition 2001 et en ratifiant cette cotisation, le ministre du Revenu national s’est fondé sur les hypothèses de fait suivantes :
+a) L’appelant était l’unique actionnaire et administrateur de 1473253 Ontario Inc. faisant affaire sous le nom de Yellowbusiness.ca (la « société »).
+b) La société ciblait des entreprises et des organismes de bienfaisance au moyen d’un stratagème d’envois postaux trompeurs. Elle envoyait des factures, qui semblaient préparées par Bell Canada ou les Pages Jaunes, et demandait aux destinataires un paiement pour leur inscription dans un répertoire Internet.
+c) L’appelant a été accusé d’avoir donné des indications fausses ou trompeuses aux termes de l’article 52 de la Loi sur la concurrence, L.R.C. (1985), ch. C-34, pour le rôle qu’il avait joué dans le stratagème. Il a plaidé coupable le 28 mai 2002.
+d) À la suite des envois postaux trompeurs, la société a réalisé un produit d’environ 409 000 $.
+e) Seul l’appelant avait un pouvoir de signature à l’égard des comptes bancaires de la société : le compte numéro 0368-1028431 à la Banque de Montréal (le « compte de la Banque de Montréal ») et le compte numéro 1152-0308657 à la Banque TD (le « compte de la Banque TD).
+f) L’appelant utilisait et répartissait les fonds de la société à sa discrétion.
+g) L’appelant a payé des dépenses personnelles au moyen des fonds contenus dans les comptes bancaires de la société. De nombreux retraits en espèces ont également été faits dans les comptes bancaires de la société.
+h) Du 1er avril 2001 au 31 décembre 2001, des achats et des retraits totalisant 16 396,56 $ ont été faits sur le compte de la Banque de Montréal de la société pour le bénéfice de l’appelant.
+i) Du 1er avril 2001 au 31 décembre 2001, des achats et des retraits totalisant 38 321,52 $ ont été faits sur le compte de la Banque TD de la société pour le bénéfice de l’appelant.
+j) L’appelant a aussi donné instruction que certains paiements soient faits au moyen de traites bancaires. Ces traites bancaires ont été achetées par l’appelant depuis le compte de la Banque de Montréal et le compte de la Banque TD et envoyées à divers bureaux de change :
+Date
+Somme
+Origine du transfert
+Destinataire
+23 mai 2001
+20 000 $
+Compte TD
+Toronto Mercantile Financial
+25 mai 2001
+20 000 $
+Compte TD
+Toronto Mercantile Financial
+25 mai 2001
+70 000 $
+Compte TD
+Comdex Foreign Exchange
+28 mai 2001
+40 000 $
+Compte TD
+Toronto Mercantile Financial
+29 mai 2001
+70 000 $
+Compte de la Banque de Montréal
+Comdex Foreign Exchange
+TOTAL
+220 000 $
+[3] Le témoignage de l’appelant était bien différent. Il a déclaré qu’il était sans emploi et attendait son procès sur des accusations non liées à ces évènements lorsqu’un dénommé James Tetaka l’a abordé et lui a présenté une proposition d’affaires, que l’appelant a acceptée. Il devait être le [traduction] « prête‑nom » d’une société qui serait établie pour exercer, pensait‑il, des activités commerciales légitimes. Il avait compris qu’un certain Elliot Benlolo avancerait l’argent nécessaire au lancement des activités, et que lui et d’autres personnes seraient les propriétaires bénéficiaires des actions de la société. L’appelant devait constituer la société, ouvrir deux comptes bancaires pour elle et agir au nom de la société dans toutes les transactions de celle‑ci. Il devait également être l’unique actionnaire et administrateur de la société. James Tetaka agissait à titre d’intermédiaire entre M. Benlolo et l’appelant, au moins pendant les premières étapes de l’opération. M. Tetaka a rempli les formulaires nécessaires pour constituer en société 1473253 Ontario Inc., et il a fourni à l’appelant 1 000 $ pour payer la constitution et faire les dépôts initiaux dans les deux comptes que celui‑ci avait ouverts à la Banque de Montréal et à la Banque TD Canada Trust. L’appelant a également obtenu des boîtes postales dans quatre comptoirs postaux locaux.
+[4] Les activités qui devaient être menées consistaient à mettre à la poste ce qui semblait être des factures à payer adressées à un grand nombre d’entreprises, en vue de faire croire à celles‑ci qu’elles s’étaient inscrites à un répertoire d’entreprises Internet et qu’elles étaient tenues de payer la facture. Bon nombre des entreprises se sont exécutées. Selon l’arrangement financier, comme l’appelant l’a décrit, un certain Victor Serfaty avait fourni une liste d’envoi, pour laquelle il devait recevoir 100 000 $ sur le produit de la sollicitation postale. Après ce paiement et le paiement de toutes les autres dépenses, l’appelant devait recevoir 10 % des profits réalisés par la société.
+[5] L’appelant a aménagé un bureau et acheté des ordinateurs ainsi que d’autres fournitures nécessaires aux activités de la société, mais toujours, a‑t‑il déclaré, d’après les instructions d’Elliot Benlolo. La mise à la poste se faisait par l’intermédiaire d’un service de courrier commercial. Les réponses ont commencé à arriver; l’appelant allait chercher le courrier dans les boîtes postales, et il se réunissait avec Elliot Benlolo, Victor Serfati et James Tetaka pour l’ouvrir. L’appelant a déclaré qu’ils se réunissaient dans un motel au début et au bureau par la suite, lorsqu’ils en ont eu un à leur disposition. L’appelant a dit qu’il avait amené le produit à la banque et que, d’après les instructions d’Elliot Benlolo, il avait acheté les cinq traites bancaires mentionnées ci‑dessus au paragraphe 1 et renvoyé ces traites à M. Benlolo, selon les directives reçues. L’appelant a déclaré ignorer ce que M. Benlolo avait fait de ces traites.
+[6] Au début de juin 2001, l’appelant a été arrêté, et des mandats de perquisition ont été exécutés au bureau de la société. L’appelant et la société ont été accusés de publicité trompeuse. À la suite de la négociation de plaidoyer, l’appelant s’est vu imposer une amende de 30 000 $ et il a été enjoint de dissoudre la société.
+[7] L’appelant a été contre‑interrogé assez longuement au sujet des comptes bancaires. La seule signature requise pour les deux comptes était la sienne, et lui seul avait des cartes de débit pour ces comptes. Il a déclaré qu’il avait fait des retraits et utilisé les cartes de débit pour payer certaines dépenses, comme ses dépenses d’automobile et le tarif des chambres de motel où il rencontrait les autres personnes pour ouvrir le courrier. Il a aussi indiqué qu’il avait pris de l’argent et utilisé les cartes de débit pour payer certaines dépenses personnelles, mais seulement après avoir obtenu l’approbation d’Elliot Benlolo. Il semble que l’appelant ait changé sa façon de procéder après sa déclaration de culpabilité, en mai 2002, et qu’il a commencé à agir comme si les comptes étaient les siens, mais le produit avait déjà été presque entièrement distribué. Au cours de son contre‑interrogatoire, l’appelant a déclaré à maintes reprises qu’il n’avait jamais pris d’argent sans avoir reçu au préalable l’autorisation d’Elliot Benlolo parce que les fonds contenus dans les comptes ne lui appartenaient pas; ils appartenaient plutôt aux investisseurs pour lesquels il détenait les actions. Il a estimé avoir pris pour lui‑même, avec l’autorisation d’Elliot Benlolo, une somme de 30 000 $ qui représentait sa part du produit. Le ministre soutient que tous les retraits et tous les achats par carte de débit depuis les deux comptes établis au nom de la société avaient été faits par l’appelant, pour son propre avantage personnel, et que ces sommes sont par conséquent imposables entre les mains de l’appelant en vertu du paragraphe 15(1) de la Loi de l’impôt sur le revenu (la « Loi »). Pendant son témoignage, l’appelant a insisté sur le fait que ce n’était pas lui, mais les « investisseurs » ayant avancé l’argent qui possédaient les actions. Même si l’appelant n’a pas employé le mot, il a soutenu qu’il détenait les actions seulement à titre de fiduciaire des investisseurs. L’appelant est resté vague, toutefois, à propos de l’identité des vrais propriétaires; tout ce qu’il savait, c’était qu’Elliot Benlolo lui donnait des instructions, et qu’il les suivait.
+[8] Le ministre a établi une cotisation à l’égard de l’appelant en vertu du paragraphe 15(1) de la Loi relativement aux sommes retirées des deux comptes bancaires de la société et aux achats par carte de débit faits depuis ces comptes, et en vertu du paragraphe 56(2) relativement à la somme globale des cinq traites bancaires. Ces dispositions sont ainsi rédigées :
+15(1) La valeur de l’avantage qu’une société confère, à un moment donné d’une année d’imposition, à un actionnaire ou à une personne en passe de le devenir est incluse dans le calcul du revenu de l’actionnaire pour l’année – sauf dans la mesure où cette valeur est réputée par l’article 84 constituer un dividende – […]
+56(2) Tout paiement ou transfert de biens fait, suivant les instructions ou avec l’accord d’un contribuable, à toute autre personne au profit du contribuable ou à titre d’avantage que le contribuable désirait voir accorder à l’autre personne [exception non pertinente] doit être inclus dans le calcul du revenu du contribuable dans la mesure où il le serait si ce paiement ou transfert avait été fait au contribuable.
+Si je conclus que l’appelant a dit la vérité, l’appel devra bien sûr être accueilli parce que le seul avantage que l’appelant aurait tiré des retraits et des achats par carte de débit aurait été la somme de 30 000 $, que l’appelant reconnaît à titre de revenu; il n’aurait pas fait les paiements et les transferts au moyen des traites bancaires de son propre chef, mais suivant les directives d’Elliot Benlolo, et ces paiements et transferts n’auraient pas été faits à son profit ou à celui d’une autre personne à qui il aurait désiré accorder un avantage.
+[9] Dans McKinnon v. Harris[1], le juge Meredith a proposé cinq questions que la Cour doit se poser lorsqu’elle examine une allégation entièrement fondée sur un témoignage oral selon laquelle un bien est détenu en fiducie par une partie pour une autre partie. Les voici :
+i) La prétention est-elle étayée par un élément de probabilité?
+ii) Est-elle étayée par un document écrit, d’une forme quelconque?
+iii) Est-elle étayée par des faits incontestables?
+iv) Est-elle étayée par un témoignage désintéressé?
+v) Le témoignage oral est-il assez satisfaisant et convaincant?
+Ce guide a été suivi par le juge Cattanach, de la Section de première instance de la Cour fédérale[2], et par le juge Rip (tel était alors son titre) de la Cour canadienne de l’impôt[3]. La première question n’est pas particulièrement utile en l’espèce. Il pourrait sembler improbable que M. Benlolo, si en fait c’était lui le vrai propriétaire, ait simplement laissé l’appelant détenir les actions de la société sans avoir de document écrit établissant à qui appartenaient vraiment les actions, sauf si l’on considère l’illégalité des activités en vue desquelles la société avait été mise sur pied. Vu sous cet angle, le caractère improbable est grandement atténué. La réponse à la deuxième question est certainement « non », et elle peut aussi être attribuée dans une large mesure à l’illégalité des activités. Il n’y a ni faits incontestables ni témoignage désintéressé pouvant étayer la prétention de l’appelant selon laquelle il n’était que le simple mandataire des autres personnes quant à la propriété des actions. Pour expliquer pourquoi il n’avait pas appelé à témoigner l’un ou l’autre des participants qui avaient, selon lui, pris part au stratagème, l’appelant s’est borné à dire, si j’ai bien compris, que l’on ne pouvait pas s’attendre à ce que ces autres personnes disent la vérité. Le témoignage de l’appelant était en grande partie cohérent, mais je ne puis conclure qu’il était convaincant, puisque rien ne vient le corroborer. Aux alinéas 25h) et i) de la réponse à l’avis d’appel, il est précisément plaidé que les divers paiements et retraits depuis les comptes bancaires totalisant 54 718,08 $ ont été faits pour le bénéfice de l’appelant. Même si l’appelant a nié cette hypothèse dans son témoignage (sauf en ce qui concerne les 30 000 $), ce témoignage ne m’a pas convaincu de l’inexactitude de l’hypothèse.
+[10] Je me pencherai maintenant sur la prétention de l’intimée selon laquelle l’appelant est assujetti à l’impôt sur la somme globale de 220 000 $ des traites bancaires, conformément au paragraphe 56(2) de la Loi. Dans l’arrêt Neuman c. M.R.N.[4], le juge Iacobucci énonce les quatre conditions qui doivent être satisfaites afin que le ministre puisse établir une cotisation en vertu de ce paragraphe :
+[32] Le paragraphe 56(2) énonce dans son libellé même les quatre conditions préalables à son application :
+(1) le paiement doit être fait à une autre personne que le contribuable à l’égard duquel une nouvelle cotisation est établie;
+(2) la répartition doit être faite suivant les instructions ou avec l’accord du contribuable à l’égard duquel une nouvelle cotisation est établie;
+(3) le paiement doit être fait au profit du contribuable à l’égard duquel une nouvelle cotisation est établie ou à une autre personne à titre d’avantage que ce contribuable souhaitait voir accorder à cette autre personne;
+(4) le paiement aurait été inclus dans le revenu du contribuable à l’égard duquel une nouvelle cotisation est établie si ce dernier l’avait reçu lui‑même.
+Il n’y a guère d’éléments de preuve concernant les traites bancaires. Il n’est pas contesté que l’appelant les a achetées. L’appelant a déclaré qu’il avait acheté les traites d’après les instructions de M. Benlolo, qu’il les avait données à M. Benlolo et qu’il ignorait ce qu’il en était advenu par la suite. Cette déclaration ne me convainc pas plus que les autres parties de son témoignage. Toutefois, les seules hypothèses relatives aux traites que le ministre a formulées ne réussissent pas à satisfaire aux exigences prévues au paragraphe 56(2), même si l’appelant ne les a pas réfutées. Le ministre s’est fondé sur ce qui suit :
+a) l’appelant a donné instruction que certains paiements soient faits au moyen de traites bancaires;
+b) les traites ont été achetées par l’appelant;
+c) les traites ont été envoyées à divers bureaux de change.
+[11] À l’alinéa 26a) de la réponse à l’avis d’appel, le sous‑procureur général du Canada a formulé en ces termes la question qui devait être tranchée relativement aux traites :
+[traduction]
+Il s’agit de savoir si les paiements totalisant 220 000 $ ont été faits suivant les instructions de l’appelant à d’autres personnes à titre d’avantage que l’appelant désirait voir accorder à ces autres personnes.
+Aucune des hypothèses ne désigne soit l’appelant soit une autre personne à qui l’appelant désirait voir accorder un avantage à titre de destinataire final proposé des fonds. Rien dans la preuve n’établit que les bureaux de change étaient les destinataires prévus d’un quelconque avantage, et le ministre ne s’est pas fondé sur ce fait pour établir la cotisation. En fait, on me demande d’inférer, parce que les activités de cette société étaient illégales, que l’appelant devait avoir acheté les traites avec l’argent de la société dans l’intention de voir accorder un avantage à une personne autre que lui‑même. Ni les hypothèses du ministre, ni la preuve présentée à l’audience, ni les deux ensemble ne l’établissent, et il n’y a pas non plus de fondement sensé qui permette de l’inférer. Comme le juge en chef Bowman l’a dit récemment[5], il ne revient pas à la Cour de combler les lacunes dans les arguments de l’une ou l’autre des parties. Si le ministre n’était pas prêt à inférer que l’appelant avait l’intention de voir accorder un avantage soit aux bureaux de change, soit à toute autre personne, et de l’invoquer ensuite à titre d’hypothèse à l’appui de la cotisation, il est difficile de voir pourquoi je devrais le faire. Je ne dispose pas de plus d’éléments de preuve me permettant de tirer cette inférence que le répartiteur n’en avait.
+[12] Par conséquent, l’appel sera accueilli, et la cotisation sera renvoyée au ministre pour nouvel examen et nouvelle cotisation, compte tenu du fait que l’appelant n’est pas assujetti à l’impôt sur la somme de 220 000 $ que représentent les traites bancaires. L’appelant a gain de cause pour environ 80 % de la somme en litige, et il a donc droit à ses dépens.
+Signé à Ottawa, Canada, ce 14e jour de juin 2007.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 4e jour de décembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI352
+NO DU DOSSIER DE LA COUR : 2004-4339(IT)G
+INTITULÉ : Peter Kuryliw c.
+Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 6 septembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 14 juin 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Damien R. Frost
+Avocate de l’intimée :
+Me Natalie Goulard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Damien R. Frost
+Cabinet : Lomer, Frost LLP
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] [1909] 14 O.W.R. 876, à la page 878.
+[2] Bouchard v. The Queen 83 D.T.C. 5193.
+[3] Miconi v. M.N.R. 85 D.T.C. 696.
+[4] [1998] 1 R.C.S. 770, au paragraphe 32.
+[5] Francis c. La Reine, 2007 CCI 323.

@@ -1,0 +1,226 @@
+Title: Saskferco Products Inc. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27853/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-462-27853-saskferco-products-inc-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-03-29
+
+# Saskferco Products Inc. v. The Queen
+
+- Citation: 2007 TCC 462
+- Decision date: 2007-03-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 328, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Saskferco Products Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-03-29
+Neutral citation
+2007 TCC 462
+File numbers
+2004-3592(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-3592(IT)G
+BETWEEN:
+SASKFERCO PRODUCTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 6, 7, 8, 2006, January 29, 30, 31, February 1, 2, and March 29, 30, 2007 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+Al Meghji
+Ian MacGregor
+Pooja Samtani
+Counsel for the Respondent:
+L.P. Chambers, Q.C.
+Rosemary Fincham
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of assessments made under the Income Tax Act for the 1995, 1996, 1998 and 1999 taxation years is dismissed.
+The respondent is entitled to costs.
+Signed at Ottawa, Canada, this 10th day of August 2007.
+“J. Woods”
+Woods J.
+Citation: 2007TCC462
+Date: 20070810
+Docket: 2004-3592(IT)G
+BETWEEN:
+SASKFERCO PRODUCTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Unlike some other countries, Canada does not have income tax legislation that deals on a comprehensive basis with foreign currency gains and losses. Instead, Canada relies on judge-made law to develop the general legal principles that apply in this area.
+[2] This appeal confronts the question of whether the general principles that have evolved are in fact “principled.” The answer, I suggest, is that the applicable tests may not be entirely justifiable on a principled basis, but they have been developed over a long period of time and they should be respected in the interests of promoting certainty.
+Overview
+[3] The appellant, Saskferco Products Inc. (“Saskferco”), appeals income tax assessments for the 1995, 1996, 1998 and 1999 taxation years.
+[4] The issue concerns gains and losses that were offset on Saskferco’s financial statements using hedge accounting principles. The appellant seeks to apply the same principles for the purpose of computing profit under s. 9(1) of the Income Tax Act.
+[5] Saskferco described the offsetting transactions as a “natural hedge,” which is a term used to describe foreign currency receipts and expenses that, considered together, eliminate exposure to foreign currency fluctuations. In this case, the appellant offset foreign exchange losses on U.S. denominated indebtedness against revenues denominated in the same currency.
+[6] The accounting principles that were applied appear to be based on the theory that foreign exchange fluctuations need not be recognized to the extent that the foreign currency risk has been eliminated.
+[7] Applying these principles for financial statement purposes, Saskferco translated the principal amount of its U.S. denominated project debt at the rates of exchange in effect when the debt was incurred. This had the effect of removing foreign exchange losses on the principal of the debt. Saskferco also translated a portion of its U.S. dollar revenues at the same exchange rate in years in which the project debt was repaid. According to the accounting theory, this had the effect of reducing foreign exchange gains that were embedded in the revenues.
+[8] The same approach was used by the appellant in preparing its income tax returns for taxation years in which principal repayments were made on the project debt.
+[9] The assessments that are under appeal reversed the effects of this hedge accounting. Conceptually all sales revenue and debt repayments were translated at current exchange rates for purposes of the assessments, although the actual calculations were a bit more complicated for reasons described below.
+[10] The effect of the assessments was twofold: they increased sales revenue and they also recognized an equivalent amount of foreign exchange losses on principal repayments of the debt. The losses were allowed as capital losses.
+[11] Saskferco challenges the assessments on two alternative grounds. First, it submits that it is entitled to use hedge accounting for tax purposes so that a portion of its U.S. dollar sales revenue can be translated at the rate of exchange in effect when the debt was issued. Alternatively, it submits that the foreign exchange losses realized on the project debt are deductible on current account on the basis that the debt was denominated in U.S. currency in order to reduce currency risk on revenues.
+[12] Both parties raised alternative arguments in the pleadings which were abandoned at the commencement of the hearing. Although they are not relevant to this decision, I will mention them briefly for the interest of readers.
+[13] Saskferco had also argued that a portion of the foreign exchange losses on the debt were deductible under s. 20(1)(f) of the Act. After the pleadings were filed, this issue was conclusively decided in the Crown’s favour by the Supreme Court of Canada (The Queen v. Imperial Oil Limited and Inco Limited, 2006 D.T.C. 6639).
+[14] The Crown also raised an argument that Saskferco did not realize any foreign exchange losses on repayment of the project debt. Although the Crown maintained the correctness of this position, it decided not to pursue it.
+Factual background
+[15] Saskferco was formed in or about 1990 as a sole purpose corporation to produce and sell fertilizer. It has two principal shareholders, Cargill Limited (“Cargill”) and a corporation owned by the Province of Saskatchewan (the “Province”).
+[16] The fertilizer business was the brainchild of the Province, who sought out Cargill as a joint venture partner to build a plant in Saskatchewan to produce nitrogen-based fertilizer.
+[17] Cargill was well-suited for the project because its U.S.-based parent corporation, Cargill Inc., had extensive experience in the production and marketing of fertilizer as well as other agricultural products.
+[18] Cargill was interested in the Province’s proposal and the terms of a joint venture were eventually settled on. It appears that the venture has been quite successful, with revenues exceeding initial forecasts, at least during the relevant period.
+[19] Construction of the plant, which began in 1990, was completed in 1993 and full operations commenced immediately afterward.
+[20] Financing to sustain Saskferco during construction and for the next couple of years was obtained partly through debt and partly by equity injections from the shareholders. The equity component was about 30 percent, leaving 70 percent to be financed by debt.
+[21] Merrill Lynch was the financial adviser to Saskferco and it appears that they were instrumental in advising on the structure of the project debt which is central to this appeal.
+[22] In July 1990, project debt was issued which took the form of a series of notes (“Notes”) that were issued to a number of United States institutions by way of private placement. The Notes, which were denominated in United States currency, had a principal amount of US$231,000,000, were guaranteed by the Province, and had at an average interest rate of 9.59 percent.
+[23] The Notes were described in a Merrill Lynch report as medium term notes, but this seems a bit misleading as the maturity of the Notes varied from 5 to 17 years. The first Notes became due in 1995, which was two years after the plant became operational.
+[24] This appeal relates to several taxation years in which Notes were repaid. The relevant years, and the amount of the respective principal repayments, are outlined in the chart below.
+Taxation year
+Principal repayment (US$)
+1995
+$ 6,400,000
+1996
+$14,600,000
+1998
+$13,000,000
+1999
+$15,000,000
+[25] From the inception of the borrowing in July 1990 and throughout the relevant period, the Canadian dollar weakened significantly relative to the United States dollar. Accordingly, large foreign exchange losses were realized on each principal repayment of the Notes.
+[26] Shortly after the Notes were issued, Saskferco’s joint auditors, Ernst & Young and KPMG Peat Marwick Thorne, advised it on the proper accounting treatment for the indebtedness.
+[27] Based on their advice, the decision was made to adopt hedge accounting with respect to foreign exchange fluctuations on the principal of the Notes and a portion of U.S. revenues. The basis for the decision was that it was thought that Saskferco was assured of having a sufficient flow of funds in U.S. dollars from its revenue stream to make principal repayments on the debt. Based on forecasts, it was estimated that about 50 percent of Saskferco’s sales would be in the United States. As long as sufficient revenues were accumulated in U.S. dollars to repay the debt, an effective hedge would be in place, it was reasoned (Ex. R-10).
+[28] In Saskferco’s financial statements for the year ended May 31, 1991, which is the first year in which the Notes were outstanding, a note described the hedge accounting in the following manner.
+The Company’s long-term U.S. dollar debt is hedged by future revenue streams in U.S. dollars and any unrealized gains/losses are deferred until repayment of the debt.
+[29] The deferral that is referred to in this note appears to be a reference to the accounting standard at the time which required, absent hedge accounting, that accrued foreign exchange gains and losses be recognized on an amortized basis, rather than when debt repayments are made.
+[30] It was not clear from the evidence whether this accounting treatment of the debt was a motivating factor in the decision to use hedge accounting. Although some of the testimony suggested that the adoption of hedge accounting by Saskferco was mandatory, Mr. Meghji, counsel for the appellant, conceded in argument that this method of accounting was optional.
+[31] The first year in which Notes were repaid was 1995, and at this time Ernst & Young were the sole auditors for Saskferco.
+[32] In the financial statements for that year, a note described that the principal payments on the Notes, and the U.S. dollar revenues from which the repayments are made, were both translated at the exchange rate in effect when the Notes were issued, which was in July 1990. The note read:
+In July 1990, Saskferco borrowed $231 million U.S. in medium term notes to finance construction of its nitrogen fertilizer plant. The repayment of this unhedged U.S. dollar liability is being made from U.S. dollar revenue streams generated from fertilizer sales. The sales provide an effective hedge against fluctuations in the U.S./Canadian exchange rate. […]
+The principal payments on the notes and the U.S. dollar revenue streams from which they are paid are both translated at the historical exchange rate [i.e., the rate on July 1990] as prescribed by generally accepted accounting principles.
+[33] For clarity, I would note that Saskferco did not adopt hedge accounting with respect to interest payments on the Notes and these were translated at exchange rates in effect when the interest was paid. This is perhaps not surprising because hedge accounting would have had no net effect on the financial statements.
+[34] Saskferco’s auditors advised that, in order for hedge accounting to apply to the principal of the debt, it was necessary to preserve in U.S. currency sufficient amounts from its revenue stream in order to make principal repayments on the debt. From a business perspective, this was not desirable because the revenue receipts could be invested at higher interest rates in Canadian dollars.
+[35] Accordingly, the decision was taken in 1995 to convert the U.S. dollar revenue receipts into Canadian dollars. In order to preserve the hedge, Saskferco purchased derivative contracts (i.e., swaps and forward contracts) at the time of the conversion so that there would be no currency exposure between the time the revenues were received and the debt repayments were made. Derivative contracts were acquired for all exposed amounts except for one debt repayment that was made in 1995 that was not completely hedged.
+[36] As mentioned earlier, hedge accounting was also adopted for income tax purposes. By translating the principal amount of the Notes and a portion of U.S. dollar revenues at the July 1990 exchange rate as opposed to the exchange rates in effect at the time of the respective transactions, foreign exchange losses incurred on the repayment of the debt were eliminated, and revenues arising in the same years as the debt repayments were reduced by an equivalent amount.
+[37] By notices of reassessment dated May 14, 2004, Saskferco was reassessed to reverse the effects of the hedge accounting. Accordingly, Saskferco’s revenues were increased by translating all U.S. dollar revenues at exchange rates in effect when the revenues were earned. In addition, capital losses were permitted with respect to the foreign exchange losses incurred on principal repayments of the Notes.
+[38] The actual adjustments that were made for purposes of the reassessments were a bit more complicated because of the derivative contracts that Saskferco entered into to preserve the hedge. I will not discuss the nuances of these adjustments as it is not relevant to the issues to be decided.
+[39] The following is a summary of the adjustments that were made in the reassessments, that is, amounts that were added to revenues and equal amounts that were allowed as capital losses.
+Taxation year
+Revenue increase/Loss on debt (Cdn$)
+1995
+$1,296,076
+1996
+$3,376,672
+1998
+$3,661,996
+1999
+$5,084,980
+Discussion
+[40] The appellant makes two similar, but distinct, arguments in support of its position. The primary argument will be considered first.
+Translation of revenues
+[41] For financial statement purposes, the appellant translated a portion of its U.S. dollar revenues at the rate of exchange in effect when the Notes were issued. This method of translation was used in years in which debt repayments were made and the portion of revenues affected were such that the foreign exchange losses on the debt were completely offset.
+[42] The primary argument of the appellant is that it is appropriate to adopt the same method of translation for tax purposes. As argued by Mr. Meghji, this issue does not require a characterization of the foreign exchange losses on the Notes. The characterization question is engaged, according to the appellant, only if it is determined that revenues must be translated at current exchange rates.
+[43] The focus, then, is on sales revenue. It is suggested that when a taxpayer has put in place a hedge which effectively eliminates foreign currency exposure on sales revenue, the sales proceeds are appropriately determined by taking the hedge into account.
+[44] The appellant argues that this approach is accepted under generally accepted accounting principles, that it accurately reflects revenue and income, and that it has been accepted in prior judicial decisions.
+[45] I do not agree with this submission. Even if the appellant’s method of translating revenues was in accordance with generally accepted accounting principles, in my view the approach taken severely distorts the sales revenue that the appellant earned. This is common sense but, in addition, the jurisprudence does not support using translation rates other than rates in effect at the time that the transactions are recognized for tax purposes.
+[46] The principle is a fundamental one: in computing revenue or expenses denominated in a foreign currency, a taxpayer must use the foreign exchange rate in effect at the time of the transaction.
+[47] In Tip Top Tailors Ltd. v. M.N.R., 57 D.T.C. 1232 (S.C.C.), Rand J. suggests that the principle is uncontroversial (at p. 1233):
+[…] Admittedly in such a mode of dealing the rate of exchange at the time of payment and not at any other time controls: the actual outlay by the purchaser to the seller for the goods received, in terms of the domestic currency, is the amount which must be taken into the account.
+[48] In Saskferco’s case, the method of translating revenues used by it is actually a method of reflecting the combined results of two transactions. This approach may be acceptable for accounting purposes, where notes to the financial statements can be used to inform the reader, but it is not an acceptable method for tax purposes.
+[49] In reference to the acceptability for tax purposes of accounting methods which consolidate different transactions into one, I refer to two lines of authority, one that deals with revenues, and the other, costs.
+[50] In each case, the courts have held that either revenues or costs are to be determined only in accordance with the relevant sales or purchase contracts. Although there may be related transactions that affect the overall economic result to the taxpayer, these are not to be taken into account in determining revenues or costs.
+[51] The first line of authority deals with the revenue side. In Alberta Natural Gas Company v. M.N.R., 71 D.T.C. 5400 (S.C.C.) and Alberta Gas Trunk Line Co. Ltd. v. The Queen, 71 D.T.C. 5403 (S.C.C.), the taxpayers operated pipelines that transported natural gas. In order to protect against currency fluctuations on U.S. dollar debt that was incurred to finance the pipelines, the taxpayers negotiated a portion of their revenues to be payable in U.S. dollars.
+[52] The taxpayers attempted to determine their U.S. dollar revenues by excluding foreign exchange gains on the basis that this was in accordance with generally accepted accounting principles.
+[53] The Supreme Court of Canada, in brief reasons, rejected this position. A review of these reasons suggests that the Court was persuaded by the fact that the foreign currency gains were inescapably part of what customers were paying for the transportation service provided by the taxpayers.
+[54] At page 5406 of Alberta Gas Trunk:
+As I said, in my reasons in the other case, it is clear that the purpose of s. 12.2 [in the shipping contract] was to provide the appellant with U.S. dollars with which to meet its obligation under the U.S. pay securities. But, in my opinion, it is equally clear, under the wording of s. 12.2, that the U.S. dollars which the shippers were obligated to pay, and the appellant was obligated to accept, were in payment of the monthly cost of service charge which the shippers were required, by s. 2.3 of the agreement, to pay for the transportation of their gas. […] it is my view, that the American dollars received by the appellant represented income from its business operations, and their full value had to be taken into account in determining its income from its business for tax purposes.
+[55] The same approach has been taken by the courts in determining the cost of property. The cost of property is simply the price paid, and it is not reduced by related agreements that may affect the cost in an economic sense.
+[56] In The Queen v. Canadian Pacific Limited, 77 D.T.C. 5383 (F.C.A.), one of the leading cases, the court had to consider how to determine the cost of capital expenditures which were incurred at the request of, and were reimbursed by, its customers. In concluding that the cost should be determined exclusive of the reimbursements, Pratte J. referred to the following passage from Birmingham Corp. v. Barnes, [1935] A.C. 292 (H.L.):
+What a man pays for construction or for the purchase of a work seems to me to be the cost to him: and that whether someone has given him the money to construct or purchase for himself; or, before the event, has promised to give him the money after he has paid for the work; or, after the event, has promised or given the money which recoups him what he has spent.
+[57] Applying these principles to the facts in this case, it is clear that the full value of the amounts receivable from purchasers of fertilizer must be included in determining Saskferco’s profit under s. 9(1) of the Act.
+[58] I conclude, then, that the appellant’s revenues should be determined using the exchange rates in effect at the time that the revenues were earned.
+[59] Mr. Meghji referred me to various judicial authorities in support of the appellant’s position but in my view none of these decisions affect the above principle.
+[60] In particular, the appellant places considerable emphasis on Ontario (Minister of Finance) v. Placer Dome Canada Ltd, 2006 D.T.C. 6532 (S.C.C.), which considered the meaning of “proceeds” from a mine for purposes of the Ontario Mining Tax Act. In that case, the Supreme Court of Canada concluded that a derivative contract, which was intended as a hedge of gold prices, “fixed” the price of the gold and was included in the proceeds.
+[61] The problem that the appellant has in relying on Placer Dome is that the word “proceeds” was defined in the legislation and this definition encompassed hedging arrangements. The decision may be useful in considering when a hedging arrangement fixes a price in an economic sense, but it does not assist in determining sales revenue in the absence of a statutory definition.
+[62] The appellant faces a similar problem in its reliance on Echo Bay Mines Ltd. v. The Queen, 92 D.T.C. 6437 (F.C.T.D.). The issue in that case was whether derivative contracts that fixed the price of silver should be taken into account in determining income from the production of silver for purposes of the resource allowance in the Income Tax Act.
+[63] The question in Echo Bay Mines was whether there was a sufficient inter-connection between the derivative contracts and the taxpayer’s business of producing silver such that the gains under the contracts could be considered part of the income from that business. This case is relevant in determining income of business but in my view it has no relevance in determining revenue.
+[64] That disposes of this issue and in light of my conclusion, it is not necessary that I consider whether the appellant’s method of translating revenues conformed to generally accepted accounting principles and gave an accurate picture of income.
+[65] Both parties led extensive expert evidence on the relevant accounting principles. The Handbook of the Canadian Institute of Chartered Accountants, as it read at the relevant time, appears to recognize hedge accounting for a revenue stream. The experts agreed that this has been a very controversial provision in the Handbook but they differed as to whether it was an appropriate method of accounting in Saskferco’s circumstances. The appellant’s experts may be correct that Saskferco’s method of accounting was accepted under the accounting standards at the time but I fail to see how this is relevant to the question of how foreign currency revenues should be translated for income tax purposes. In this regard, I agree with Mr. Chambers, counsel for the Crown.
+Foreign exchange losses
+[66] Saskferco’s alternative argument focuses on the character of the foreign exchange losses that were realized as the principal of the Notes was repaid.
+[67] The Crown’s position is that these losses are capital losses, which allows them to offset any capital gains that Saskferco might realize, but otherwise the losses are not deductible.
+[68] Saskferco challenges this characterization on the basis that the currency of the Notes is in effect a hedging instrument, which is intended to protect against foreign currency losses on a portion of its U.S. dollar revenue stream.
+[69] Each party relies on a different legal principle in support of its position.
+[70] The Crown relies on the long-established principle that a foreign exchange gain or loss on debt takes it character as income or capital from the character of the debt: Shell Canada Limited v. The Queen, 99 D.T.C. 5669, at para. 68; CCLI (1994) Inc. v. The Queen, 2007 D.T.C. 5372 (F.C.A.), at para. 19.
+[71] The appellant relies on the principle, also accepted, that a hedging contract takes it character from the item being hedged: Shell, at para. 70.
+[72] Mr. Meghji does not dispute that the hedging principle has not to date been applied to foreign currency fluctuations on indebtedness. However, he suggests that there is no principled basis for it not to apply in a case such as this where the currency of the debt was selected purely for hedging reasons.
+[73] Whether or not Mr. Meghji is correct that there is no principled basis not to apply the hedging principle to indebtedness, it would be inconsistent with judicial precedent to do so.
+[74] The principle that a foreign exchange gain or loss on indebtedness takes its character from the character of the indebtedness has been followed in a long line of jurisprudence in this country and in the United Kingdom. The same approach was also recently taken by the Supreme Court of Canada in considering whether interest payable on indebtedness is on current or capital account: Gifford v. The Queen, 2004 D.T.C. 6120.
+[75] In my view, the long-standing approach to the characterization of foreign exchange on indebtedness as stated in Shell and CCLI should be followed in this case. One may question the theory behind the basic principle, but it is important in the interests of providing certainty that the test be respected.
+[76] I would comment briefly on an earlier decision of this Court that Mr. Meghji brought to my attention, Netupsky v. The Queen, 92 D.T.C. 2282 (T.C.C.). In that case, the taxpayer was allowed a deduction as a current expense for foreign exchange losses realized on capital indebtedness. The rationale for not following the traditional test in that case was that the currency of the debt was selected purely for speculation reasons, which is similar to the approach being suggested by the appellant in this case. The decision is helpful to the appellant, but I have great difficulty in reconciling it with the other judicial decisions and I do not think that it should be followed by courts today.
+[77] This is sufficient to deal with the appellant’s alternative argument but I would also comment that I have difficulty with some of the appellant’s factual assertions in support of its position.
+[78] It was submitted that the foreign currency exposure on revenues was the only factor that was taken into account in selecting the currency of the project debt and that the debt would have been denominated in Canadian dollars if it had not been for this exposure.
+[79] I have not been persuaded of this by the evidence that was before me.
+[80] I accept that currency exposure was an important factor that Saskferco’s officers and directors took into account in determining the denomination of the debt, but the evidence is not sufficient to establish that this was the only consideration, or that the debt would have otherwise been in Canadian currency.
+[81] Julian Hatherell, who was Cargill’s Vice President of Finance at the relevant time, provided oral testimony to the effect that the currency risk on revenues was the only factor that was considered by Saskferco in determining the denomination of the project debt.
+[82] This is not consistent, however, with memoranda that were prepared during the decision-making process.
+[83] In a report prepared for Saskferco by Merrill Lynch, it was recommended that the project debt be denominated in U.S. currency in order to match the currency of the revenue stream with financing costs. But the report also suggested that lower interest rates was a second advantage (Ex. A1, Tab 3, p. 4). Merrill Lynch also made reference to the depth of the market, presumably meaning the United States market, and they indicated that this has an effect on yields. (Ex. A-1, Tab 2, p. 22).
+[84] Mr. Hatherell testified that Merrill Lynch’s advice regarding lower interest rates was not accepted by Saskferco but there was no documentary support for this testimony.
+[85] Another memorandum, which was presented to Cargill’s management committee on December 12, 1989, also made reference to other considerations. The memorandum, which was in the form of a power point presentation, indicated that the currency of the debt was to be U.S. dollars “to reduce cost and foreign exchange risk” (Ex. A-1, Tab 2, at p. 29 of attachment). This presentation was made around the same time that Saskferco’s board of directors were to receive final recommendations on the structure of the debt. There is no evidence as to what the recommendations to the Saskferco directors were, but it seems likely that the Cargill presentation would be consistent with what was presented to them.
+[86] For these reasons, I am not convinced that the currency risk was the only consideration that was taken into account in selecting the currency of the debt. I am also not satisfied that the debt would otherwise have been denominated in Canadian dollars.
+Conclusion
+[87] For the reasons above, the appeal will be dismissed. I would comment, though, that I have come to this conclusion with considerable regret because the tax consequences to Saskferco of characterizing its foreign exchange losses as on account of capital are harsh. Nevertheless, I view this as a policy matter that is for Parliament to address and not the courts.
+[88] The appeal is dismissed, with costs to the respondent.
+Signed at Ottawa, Canada, this 10th day of August 2007.
+"J. Woods"
+Woods J.
+CITATION:
+2007TCC462
+COURT FILE NO.:
+2004-3592(IT)G
+STYLE OF CAUSE:
+Saskferco Products Inc. and Her Majesty the Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 6, 7, 8, 2006,
+January 29, 30,31, February 1, 2, and
+March 29, 30, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+August 10, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Al Meghji
+Ian MacGregor
+Pooja Samtani
+Counsel for the Respondent:
+L.P. Chambers, Q.C.
+Rosemary Fincham
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Al Meghji
+Firm:
+Osler, Hoskin & Harcourt LLP
+Toronto, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

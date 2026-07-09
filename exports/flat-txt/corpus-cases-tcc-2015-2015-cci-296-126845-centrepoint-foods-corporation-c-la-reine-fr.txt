@@ -1,0 +1,241 @@
+Title: Centrepoint Foods Corporation c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/126845/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-296-126845-centrepoint-foods-corporation-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-11-25
+
+# Centrepoint Foods Corporation c. La Reine
+
+- Citation: 2015 CCI 296
+- Decision date: 2015-11-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2694, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Centrepoint Foods Corporation c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-11-25
+Référence neutre
+2015 CCI 296
+Numéro de dossier
+2013-2610(GST)I, 2013-2615(IT)I, 2014-102(IT)I
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-2610(GST)I
+ENTRE :
+CENTREPOINT FOODS CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 20 octobre 2015, à Belleville (Ontario)
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Représentant de l’appelante :
+M. Wayne Warner
+Avocat de l’intimée :
+Me Christopher Kitchen
+JUGEMENT
+L’appel interjeté par l’appelante contre les nouvelles cotisations établies à l’égard de ses périodes de déclaration du 1er janvier 2005 au 30 juin 2009 est accueilli et la question est renvoyée au ministre du Revenu national pour nouvel examen et établissement d’une nouvelle cotisation au motif que l’appelante n’a pas commis de faute lourde en demandant les crédits de taxe sur les intrants refusés par le ministre.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2015.
+« David Graham »
+Juge Graham
+Dossier : 2013-2615(IT)I
+ENTRE :
+JOHN STATHOPOLOUS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 20 octobre 2015, à Belleville (Ontario)
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Représentant de l’appelant :
+M. Wayne Warner
+Avocat de l’intimée :
+Me Christopher Kitchen
+JUGEMENT
+L’appel interjeté par l’appelant contre les nouvelles cotisations établies à l’égard de ses années d’imposition 2005, 2006 et 2007 est accueilli et la question est renvoyée au ministre pour nouvel examen et établissement d’une nouvelle cotisation au motif que l’appelant n’a pas commis de faute lourde en omettant de déclarer les avantages conférés aux actionnaires qu’il a reçus de la société Centrepoint Foods Corporation.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2015.
+« David Graham »
+Juge Graham
+Dossier : 2014-102(IT)I
+ENTRE :
+CENTREPOINT FOODS CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 20 octobre 2015, à Belleville (Ontario)
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Représentant de l’appelante :
+M. Wayne Warner
+Avocat de l’intimée :
+Me Christopher Kitchen
+JUGEMENT
+L’appel interjeté par l’appelante contre les nouvelles cotisations établies à l’égard de ses années d’imposition terminées les 31 janvier 2006 et 2007 est accueilli au motif que l’appelante n’a pas commis de faute lourde en demandant le remboursement des dépenses refusées par le ministre.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2015.
+« David Graham »
+Juge Graham
+Référence : 2015 CCI 296
+Date : 2015 11 25
+Dossier : 2013-2610(GST)I
+ENTRE :
+CENTREPOINT FOODS CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2013-2615(IT)I
+ENTRE :
+JOHN STATHOPOLOUS,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2014-102(IT)I
+ENTRE :
+CENTREPOINT FOODS CORPORATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Centrepoint Foods Corporation possédait et exploitait une franchise Saint Cinnamon dans un centre commercial, à Kingston (Ontario). John Stathopolous détenait 75 % des actions de Centrepoint. Sa femme possédait les autres 25 %. Le ministre du Revenu national a établi une nouvelle cotisation à l’égard des années d’imposition de Centrepoint terminées les 31 janvier 2006 et 2007 et de ses périodes de déclaration de la TPS du 1er janvier 2005 au 30 juin 2009. Le ministre a également établi une nouvelle cotisation à l’égard des années d’imposition 2005, 2006 et 2007 de M. Stathopolous. Centrepoint et M. Stathopolous ont interjeté appel contre ces nouvelles cotisations. Ils ont fait un certain nombre de concessions au début du procès. Il ne reste donc que les questions suivantes en litige dans les présents appels :
+a) le refus de deux montants de dépenses déclarées par Centrepoint dans ses années d’imposition terminées les 31 janvier 2006 et 2007 respectivement, soit 58 918 $ et 70 845 $, et le refus des crédits de taxe sur les intrants se rattachant à ces dépenses refusées au cours des périodes de déclaration correspondantes;
+b) l’évaluation des avantages conférés aux actionnaires en vertu du paragraphe 15(1) de la Loi de l’impôt sur le revenu; selon cette évaluation défavorable à M. Stathopolous, les avantages s’élevaient à 16 332 $ et à 17 694 $ au cours des années d’imposition 2006 et 2007 respectivement;
+c) la cotisation d’une taxe nette additionnelle sur les fournitures réalisées par Centrepoint qui auraient été traitées comme des fournitures détaxées, plutôt que comme des fournitures taxables;
+d) l’imposition de pénalités pour faute lourde prévues au paragraphe 163(2) de la Loi de l’impôt sur le revenu ou à l’article 285 de la Loi sur la taxe d’accise relativement à toutes les sommes qui précèdent.
+[2] J’analyserai les trois premières questions séparément. J’examinerai la pertinence de l’imposition de pénalités pour faute lourde dans mon analyse de chacune de ces questions.
+Dépenses refusées et crédits de taxe sur les intrants s’y rattachant [3] Le ministre a refusé diverses dépenses (et les crédits de taxe sur les intrants s’y rattachant) déclarées par Centrepoint, parce que celle‑ci avait omis de lui fournir les documents pertinents pour appuyer ces dépenses. Le ministre a informé la société du montant des dépenses qui avait été accepté pour chaque fournisseur et a formulé l’hypothèse de fait selon laquelle le reste des dépenses n’avaient pas été réellement engagées ou étaient des dépenses personnelles. Pour infirmer ces hypothèses de fait, Centrepoint devait soit me fournir des documents clairs indiquant que les dépenses avaient été engagées et n’étaient pas personnelles, soit, à tout le moins, me fournir de vive voix un témoignage détaillé me décrivant la nature des dépenses en cause et les raisons pour lesquelles les documents n’étaient pas disponibles. Centrepoint n’a rempli aucune de ces conditions. La société a produit des éléments de preuve documentaire très mince. Les éléments de preuve qu’elle a produits ne concernaient pas particulièrement les dépenses refusées et je n’ai pas reçu d’explications quant à la façon dont la preuve infirmait les hypothèses. La déposition orale de M. Stathopolous n’a pas permis d’éclaircir la situation. À l’exception des dépenses que le ministre avait classées comme personnelles, Centrepoint n’a défini les dépenses refusées ni individuellement ni par catégorie générale. Compte tenu de ce qui précède, je conclus que Centrepoint n’a pas réussi à infirmer les hypothèses de fait énoncées par le ministre. Les dépenses refusées et les crédits de taxe sur les intrants s’y rattachant ne seront donc pas redressés.
+[4] Ayant conclu que je ne redresserai pas les dépenses refusées et les crédits de taxe sur les intrants s’y rattachant, je dois donc examiner si les pénalités pour faute lourde relatives à ces montants devraient être maintenues. Je conclus qu’elles ne devraient pas être maintenues.
+[5] Le vérificateur de l’Agence du revenu du Canada (ARC), M. Robert Melka, a été appelé par l’appelante à titre de témoin crédible. M. Melka a expliqué qu’il avait examiné les relevés bancaires, les chèques annulés et les reçus que Centrepoint lui avait fournis, qu’il avait autorisé les dépenses qu’il avait été en mesure de vérifier et refusé les autres. Il a déclaré ne pas avoir reçu de copie du grand livre de la société ni des documents de travail du comptable. Il a indiqué que s’il avait eu accès à ces documents, il aurait été en mesure de vérifier les dépenses refusées. M. Melka et son chef d’équipe ont décidé que la meilleure façon d’inciter Centrepoint à rassembler les documents demandés était d’envoyer une lettre dans laquelle il lui annonçait son intention de refuser les dépenses et de lui imposer des pénalités. Il a témoigné qu’il avait la ferme conviction que lorsque la société recevrait cette lettre d’intention, elle lui fournirait les documents nécessaires. Lorsque Centrepoint a omis de répondre à cette lettre de proposition, le ministre a établi de nouvelles cotisations. Centrepoint n’a fourni aucun autre document aux appels de l’ARC. Les nouvelles cotisations ont donc été ratifiées.
+[6] Le témoignage de M. Melka me donne l’impression générale que celui‑ci ne pensait pas que l’ensemble des dépenses refusées n’avaient pas réellement été engagées; en l’absence de preuves démontrant le contraire, il les a toutefois refusées. J’ai eu l’impression qu’il avait vu des renseignements sur bon nombre des dépenses, mais qu’il n’y avait pas suffisamment de données pour appuyer une déduction. Il peut avoir, par exemple, vu un chèque payable à un fournisseur qui avait été annulé, mais n’a pas vu la facture s’y rattachant.
+[7] Le principal argument que l’intimée a présenté pour appuyer le maintien des pénalités était l’absence de documents à l’appui des dépenses. Le grand livre de Centrepoint n’avait pas été déposé comme pièce lors du procès. Certains documents de travail du comptable avaient été produits en preuve, mais aucun témoin n’a fourni d’explications à leur sujet. M. Melka a déclaré avoir examiné les documents la veille du procès et que les données qu’ils contenaient ne lui ont pas permis de vérifier les faits avec suffisamment de certitude pour changer d’idée quant au refus des dépenses. En tout cas, les documents présentaient peu d’utilité sans le grand livre, car il n’a pas été possible de constater quelles inscriptions comptables les écritures de redressement des documents de travail visaient et si ces redressements avaient effectivement été effectués. Aucune facture ni aucun reçu n’ont été présentés en preuve ni n’ont fait l’objet d’explications. Outre les chèques se rattachant aux dépenses classées comme des dépenses personnelles et produits en preuve par l’intimée, aucun chèque annulé n’a été consigné en preuve et la nature des dépenses payées par chèque n’a pas été décrite. Au cours du procès, l’agent représentant Centrepoint a, à de nombreuses occasions, fait mention du fait qu’il avait des éléments de preuve documentaire pour appuyer chacune des dépenses déclarées. Au moins deux fois, il a brandi ce qui semblait être une pile de reçus ou de factures. Bien que je lui aie indiqué clairement qu’il devait faire consigner comme preuve les documents sur lesquels il souhaitait que je fonde ma décision, il n’en a produit aucun.
+[8] L’intimée aimerait que je fasse une déduction préjudiciable à partir du défaut de Centrepoint de produire les documents en preuve au procès et que je conclue que les documents pertinents n’auraient pas appuyé la thèse de la société. Je refuse de le faire. J’ai eu la forte impression au cours de l’audience que le défaut de Centrepoint de produire les documents ne résultait pas d’une décision consciente; le représentant de l’appelante a plutôt considéré qu’il n’était pas essentiel de les produire[1].
+[9] En résumé, l’absence de documentation est suffisante pour maintenir le refus des dépenses, mais étant donné mes conclusions quant à la raison pour laquelle les documents n’ont pas été produits en preuve et quant aux attentes de M. Melka à l’égard de la pertinence que les documents auraient eue s’ils avaient été produits, je refuse de maintenir les pénalités pour faute lourde prévues.
+Avantages conférés aux actionnaires [10] Les avantages conférés aux actionnaires qui ont fait l’objet d’une évaluation défavorable à M. Stathopolous représentent une partie de l’ensemble des dépenses refusées à Centrepoint. M. Melka a déclaré qu’à l’examen de ces dépenses, il en avait trouvé qui semblaient être personnelles et les a traitées comme des avantages conférés aux actionnaires. Il a précisé que le solde du prêt d’actionnaire que Centrepoint avait contracté auprès de M. Melka avait diminué au cours des exercices pertinents, mais que sans le grand livre et les documents de travail du comptable, il ne pouvait préciser si cette diminution était attribuable ou non à une comptabilisation des dépenses personnelles par Centrepoint.
+[11] Puisque les avantages conférés aux actionnaires sont un sous‑ensemble des dépenses refusées, l’appel par M. Stathopolous à l’égard de ces avantages présente les mêmes lacunes en matière de documentation que Centrepoint sur le plan des dépenses refusées. M. Stathopolous a en effet simplement omis de produire une preuve suffisante pour infirmer l’hypothèse de fait du ministre selon laquelle les dépenses en cause étaient personnelles. Le montant des avantages conférés aux actionnaires ayant fait l’objet d’une évaluation à son endroit ne sera donc pas redressé.
+[12] Ayant conclu que je ne redresserai pas les avantages conférés aux actionnaires, je dois donc examiner si les pénalités pour faute lourde devraient être maintenues. Je conclus qu’elles ne devraient pas être maintenues au même motif que j’ai conclu qu’elles ne devraient pas l’être relativement aux dépenses refusées. De plus, je souligne que selon les documents de travail du comptable, le compte du prêt de l’actionnaire avait fait l’objet de certains redressements et que si les redressements et les dépenses personnelles visées par ces redressements avaient été indiqués clairement et suivis dans le grand livre, ils auraient pu montrer que M. Stathopolous n’avait reçu aucun avantage conféré aux actionnaires.
+Fournitures taxables supplémentaires [13] M. Melka a déclaré que le montant de TPS que Centrepoint avait perçu semblait très bas, compte tenu du montant de fournitures déclaré par la société. Il a reconnu que les fournitures totales avaient été déclarées avec exactitude, mais il se demandait si la taxe avait été perçue correctement. Il a donc tenté de vérifier comment le montant de TPS perçue avait été établi.
+[14] Centrepoint comptabilisait toutes les ventes de sa franchise Saint Cinnamon au moyen d’un système de terminaux de point de vente[2]. Les rubans de caisse enregistreuse de ce système indiquent les montants des ventes totales pour chaque jour et le montant total de TPS perçu. Ces rubans n’indiquent pas, par contre, les montants des ventes individuelles. M. Melka ne pouvait donc utiliser les rubans pour vérifier la façon dont la TPS avait été calculée pour chaque vente individuelle. Le système des terminaux de point de vente devrait avoir produit des dossiers électroniques pour chaque vente individuelle. Soit Centrepoint n’a pas conservé ces dossiers, soit elle refusait de les fournir au ministre[3]. M. Melka n’avait aucun moyen d’établir si la TPS avait été calculée correctement sur les ventes individuelles. Il avait donc besoin d’une autre méthode pour établir si les montants de TPS perçus étaient exacts.
+[15] M. Melka a fait deux achats échantillons à la franchise Saint Cinnamon de Centrepoint pour voir la façon dont la TPS avait été calculée sur ces reçus. Le montant de l’un des achats était inférieur et l’autre était supérieur à 4,00 $. M. Melka a précisé qu’à cette époque, la taxe de vente au détail provinciale (« TVD ») n’était pas perçue sur les achats d’aliments préparés de moins de 4,00 $. À l’examen des reçus qu’on lui avait remis lors de ses achats, il a constaté que la TVD était clairement indiquée sur le reçu de l’achat supérieur à 4,00 $, que cette taxe n’avait pas été perçue selon le reçu de l’achat inférieur à 4,00 $ et que la TPS ne figurait sur aucun des deux reçus. J’appellerai ces achats les « achats échantillons ». Ceux‑ci ont renforcé les doutes de M. Melka que la TPS sur les ventes individuelles n’était pas bien calculée.
+[16] M. Stathopolous a déclaré que le coût des articles figurant sur les reçus des achats échantillons incluait la TPS. Je n’accepte pas son explication pour trois raisons. Premièrement, je trouve invraisemblable qu’un système de terminaux de points de vente ventile la TVD sur un reçu, mais inclue la TPS dans le prix d’achat dans une entreprise où il y aurait des achats où une ou les deux taxes ne sont parfois pas perçues. Deuxièmement, M. Stathopolous était évasif lorsqu’on lui a demandé s’il avait déjà pris des mesures pour vérifier si les prix sur les reçus incluaient la TPS. Troisièmement, M. Stathopolous a donné un exemple du prix avant TPS qui aurait été en vigueur selon lui pour l’un des articles achetés lors des achats échantillons. Si le prix qu’il a déclaré avait été exact, le taux de la TPS qui aurait dû être perçue pour correspondre au prix incluant soi-disant la TPS indiqué sur le reçu aurait été de plus de 14 %, à une époque où le taux de TPS était en réalité de 5 %[4].
+[17] Afin de vérifier ses soupçons à l’égard de la perception insuffisante de TPS, M. Melka a déterminé le nombre approximatif de tasses de café que Centrepoint avait achetées pendant ses périodes de déclaration du 1er janvier 2005 au 31 décembre 2006, calculé un prix moyen pour ces tasses et ajouté la TPS au revenu estimatif obtenu. Cette analyse sommaire a révélé un écart important entre le montant de TPS perçu et celui qui aurait dû être perçu. J’appellerai cette analyse sommaire l’« analyse des tasses ». Selon cette analyse, le montant total de TPS perçu par Centrepoint sur l’ensemble de ses ventes correspondait à seulement 57 % du montant de TPS qui aurait dû être perçu sur les ventes de boissons chaudes à elles seules, donc sans compter les ventes de boissons froides, les brioches à la cannelle et les autres aliments préparés.
+[18] Étant donné les résultats de l’analyse des tasses et des achats échantillons, M. Melka a établi qu’il convenait d’utiliser une autre méthode pour calculer le montant de TPS que Centrepoint devrait avoir perçu et d’élargir sa vérification de sorte à viser la période du 1er janvier 2007 au 30 juin 2009.
+[19] Devant une évaluation effectuée selon une méthode de rechange, Centrepoint a le choix de prouver que ses registres sont exacts et d’attaquer la nouvelle méthode utilisée par le ministre ou de montrer qu’une autre méthode donnerait un portrait plus exact de ses montants de taxe nette. Centrepoint ne peut prouver que ses registres étaient exacts. Il reste que la société ne tenait pas les registres des terminaux de points de vente qui auraient permis à M. Melka d’établir la façon dont la TPS avait été calculée sur chaque vente. Centrepoint doit donc soit attaquer la méthode de rechange utilisée par le ministre, soit montrer qu’une autre méthode fournit un portrait plus exact de sa taxe nette.
+[20] Centrepoint a critiqué l’analyse des tasses. Ces critiques ne sont pas pertinentes. L’analyse des tasses ne constituait pas la méthode de rechange utilisée par le ministre pour analyser le dossier de Centrepoint. Cette méthode est décrite ci‑après. Elle se limitait à une analyse sommaire conçue pour indiquer à M. Melka s’il devait effectuer une analyse plus précise en recourant à une méthode différente. Centrepoint ne gagnera rien en attaquant cette méthode[5].
+[21] La méthode de remplacement choisie par M. Melka consistait à examiner le taux de la TPS perçue par trois autres franchises Saint Cinnamon. Je désignerai cette méthode l’« analyse comparative ». C’est l’analyse comparative que Centrepoint doit attaquer afin de réussir dans son appel. M. Melka a recueilli des renseignements sur la TPS et les fournitures figurant dans les déclarations de la TPS produites par ces autres franchises. Il a additionné les montants de TPS perçus par les trois franchises. Il a aussi additionné les montants de fournitures réalisées par les trois franchises. Il a ensuite divisé la TPS totale par le montant total des fournitures afin de calculer le pourcentage moyen que la TPS perçue par les franchises représentait par rapport à leurs fournitures (le « pourcentage moyen de perception de la TPS »). Il a effectué la même analyse pour chaque franchise, afin de calculer les pourcentages de perception de la TPS individuels. Il a répété cette analyse pour chacune des périodes de déclaration en cause. M. Melka a ensuite multiplié le pourcentage moyen de perception de la TPS pour chaque période de déclaration par le montant des fournitures de Centrepoint pour chaque période de déclaration afin de calculer le montant de TPS que la société aurait perçu si elle percevait la TPS en concordance avec le pourcentage moyen de perception de la TPS. Il a soustrait le montant obtenu de la TPS que Centrepoint avait réellement perçue à chaque période de déclaration et le ministre a établi une cotisation à l’endroit de Centrepoint pour récupérer le déficit.
+[22] Le pourcentage moyen de perception de la TPS pour chaque période de déclaration était environ deux à trois fois supérieur à celui de Centrepoint pour la même période. Le tableau suivant présente les divers pourcentages obtenus :
+Exercice[6]
+Perception de la TPS
+(en %)
+Franchise no 1
+Perception de la TPS
+(en %)
+Franchise no 2
+Perception de la TPS
+(en %)
+Franchise no 3
+Perception de la TPS (pourcentage moyen)[7]
+Perception de la TPS (en %)
+Centrepoint
+2005
+6,20
+6,27
+5,52
+6,08
+2,06
+2006
+5,72
+5,86
+4,75
+5,62
+2,07
+2007
+5,36
+5,43
+5,17
+5,37
+2,70
+2008
+4,47
+4,42
+4,65
+4,47
+1,74
+[23] Centrepoint a attaqué l’analyse comparative. La société remettait en question l’équité de la comparaison avec les franchises témoins. M. Melka a déclaré qu’en effectuant l’analyse comparative, il avait choisi trois franchises Saint Cinnamon pour faire en sorte qu’il étudiait un éventail de produits le plus semblable possible à celui de la franchise de Centrepoint. Il a choisi les franchises de trois villes différentes. Chaque franchise avait une population distincte et un niveau de vente particulier. M. Melka a affirmé avoir seulement examiné les données de ces trois franchises; je suis donc convaincu que les franchises témoins n’ont pas été sélectionnées minutieusement afin d’appuyer la thèse du ministre. Je reconnais que ces franchises ont peut-être présenté un éventail différent de produits disponibles pour achat que Centrepoint ou qu’elles ont peut-être présenté un éventail différent de fournitures taxables ou détaxées. Toutefois, si je regarde l’étroite fourchette des pourcentages de perception de la TPS pour chacune des franchises témoins, je constate qu’il y avait très peu d’écart entre chaque donnée. La principale différence était entre les pourcentages des franchises et ceux de Centrepoint.
+[24] Pour que Centrepoint réussisse à prouver que les franchises témoins ne constituaient pas une base de comparaison équitable, il aurait fallu qu’elle montre que ses activités différaient largement de celles de chacune des franchises témoins. Elle ne l’a pas fait. La réalité pure est que les franchises Saint Cinnamon vendent principalement du café et des brioches à la cannelle. Certaines franchises vendent peut‑être plus de café et d’autres, plus de brioches, mais ces légères variations sont sans conséquence, puisque les deux produits sont des fournitures taxables. Certaines franchises vendent peut-être plus de thé ou de chocolat chaud et moins de café et d’autres, plus de scones et moins de brioches à la cannelle, mais, encore une fois, rien de tout cela n’a de conséquences, parce que tous ces produits sont des fournitures taxables.
+[25] Centrepoint a souligné qu’il n’est pas possible de déterminer, à partir des déclarations de la TPS des franchises en cause, si les chiffres sur les fournitures utilisés par M. Melka englobaient les fournitures exonérées ou les fournitures détaxées d’une ou de plusieurs autres entreprises exploitées par ces franchises. En fait, cet argument mine la thèse de Centrepoint. Si les franchises témoins avaient inclus les fournitures exonérées ou détaxées d’autres entreprises dans leurs déclarations de la TPS, je me serais attendu à ce que leur pourcentage de perception de la TPS soit inférieur à celui de Centrepoint, et non supérieur. Pour avoir utilisé cet argument avec succès, plutôt que soutenir que les franchises témoins avaient peut-être réalisé d’importantes quantités de fournitures exonérées ou détaxées, il aura fallu que Centrepoint fasse valoir qu’elle avait réalisé une quantité beaucoup plus importante de fournitures exonérées ou détaxées que les franchises témoins. L’entreprise n’a pas produit de preuve à l’appui de cette thèse. Il n’y avait pas d’indices donnant à penser qu’elle exploitait une entreprise distincte réalisant des fournitures détaxées ou exonérées. Rien ne prouvait que Centrepoint aurait réalisé des fournitures exonérées dans son entreprise Saint Cinnamon. Le principal genre de fournitures détaxées dans une franchise Saint Cinnamon aurait été des ventes de six brioches à la cannelle ou plus ou de produits comparables (Loi sur la taxe d’accise, annexe VI, partie III, alinéa 1m)). Mme Lesley Beauchamp, ancienne employée de Centrepoint qui a travaillé comme caissière pendant la période pertinente, a affirmé que les ventes de boîtes de six brioches à la cannelle ou plus ne représentaient pas une partie importante des ventes de l’entreprise. Elle a précisé que les brioches à la cannelle étaient le plus souvent vendues à l’unité et que sauf pendant la saison des fêtes, dans un quart de soirée normal, Centrepoint ne vendait qu’une ou deux boîtes de brioches à la cannelle (une boîte contenant quatre, six ou douze brioches)[8]. Me fondant sur le témoignage de Mme Beauchamp, je conclus que Centrepoint n’a pas réalisé d’importantes quantités de fournitures détaxées.
+[26] La meilleure façon pour Centrepoint d’attaquer l’analyse comparative aurait été de soutenir que les franchises témoins auraient pu réaliser des fournitures taxables dans d’autres entreprises qu’elles exploitaient et que ces fournitures taxables supplémentaires auraient donné à penser que ces franchises présentaient un pourcentage de perception de la TPS plus élevé. Je comprends qu’il existe un risque que cela se soit produit, mais étant donné la très étroite fourchette de pourcentages de TPS recueillis dans les trois franchises témoins, je pense que c’est improbable. Pour que cela soit arrivé, il aurait fallu que chacune des trois franchises ait réalisé des fournitures taxables à l’extérieur de leurs activités de franchise qui auraient représenté un pourcentage semblable de leurs ventes totales.
+[27] Compte tenu de tout ce qui précède, je conclus que M. Melka a sélectionné un ensemble raisonnable de franchises témoins.
+[28] Centrepoint a également soutenu que M. Melka n’avait fait aucune tentative pour vérifier que les montants inscrits sur les déclarations de la TPS des franchises témoins étaient exacts. Selon moi, ce défaut d’avoir vérifié les données n’entraîne pas un risque concret d’inexactitude de l’analyse comparative. Cette analyse porte sur le montant des fournitures réalisées par ces franchises et le montant de TPS qu’elles ont perçu. Il semble peu probable que les franchises auraient surévalué l’un ou l’autre de ces montants sur leurs déclarations de la TPS, car les contribuables n’ont pas tendance à rembourser d’eux-mêmes, intentionnellement, plus de taxe qu’il ne leur est demandé. De fait, il y a plutôt un risque que les franchises témoins minimisent ces montants. Il me semble donc que le risque que M. Melka se soit fié à des données inexactes constituerait plutôt un risque pour le ministre et non pour Centrepoint.
+[29] Centrepoint a fourni sa propre méthode de remplacement pour calculer le montant de TPS qu’elle aurait dû percevoir. L’entreprise servait des brioches à la cannelle et des produits comparables, comme des scones, dans une assiette jetable lorsqu’ils étaient consommés sur place et les vendait dans des boîtes lorsqu’ils étaient emportés par le client. Il y avait une gamme de tailles et divers modèles d’assiettes et de boîtes. Centrepoint a fait le total de toutes les assiettes et les boîtes achetées du 1er février 2005 au 31 janvier 2006. Elle a ensuite établi le prix moyen auquel une brioche à la cannelle ou un produit comparable se serait vendu pour chaque modèle d’assiette ou de boîte. Elle a ensuite multiplié les prix moyens par le nombre d’assiettes ou de boîtes achetées. Enfin, elle a additionné les chiffres pour obtenir une estimation du montant des ventes totales de brioches à la cannelle et de produits comparables réalisées pendant cette période. Supposant que toutes ces ventes étaient détaxées, Centrepoint a ensuite déduit le montant total obtenu de celui de l’ensemble de ses ventes et a calculé la TPS sur la différence. Je comprends que le résultat était le suivant : le montant estimatif de la TPS perçue par Centrepoint pendant la période d’échantillonnage, obtenu au moyen de cette méthode de rechange, n’était que quelques milliers de dollars plus élevé que celui de la TPS réellement perçue par Centrepoint[9]. Je désignerai cette méthode de calcul sous le terme « analyse des boîtes et assiettes ». Si je comprends bien, cette analyse avait pour objectif de démontrer que les montants de TPS réellement perçus par Centrepoint étaient exacts.
+[30] L’analyse des boîtes et assiettes ne constitue pas une méthode acceptable pour remplacer l’analyse comparative. Elle n’a été menée que sur 12 des 54 mois visés par le litige. Je n’ai aucune idée de ce que l’analyse aurait montré si elle avait aussi visé les autres mois. Qui plus est, elle semble donner à penser que toutes les ventes de brioches à la cannelle et des produits comparables étaient des fournitures détaxées. Comme mentionné précédemment, en vertu de l’alinéa 1m) de l’annexe VI, partie III, la fourniture de six de ces produits ou plus est détaxée. D’après ce que je peux voir selon les descriptions des assiettes et des boîtes achetées au cours de la période visée, c’est que presque 90 % des ventes étaient des ventes de moins de six articles. Il n’est donc pas logique d’utiliser une méthode de rechange pour calculer la TPS qui exclut toutes les ventes de brioches à la cannelle et des produits comparables. En fait, l’analyse nuit à la thèse de Centrepoint, car elle montre que même si je formulais l’hypothèse irréaliste que toutes les ventes de brioches à la cannelle et des produits comparables étaient détaxées, Centrepoint n’aurait toujours pas perçu assez de TPS.
+[31] M. Stathopolous a fourni une explication très peu plausible de la raison pour laquelle il pensait que les ventes de brioches à la cannelle dans les franchises Saint Cinnamon étaient détaxées. Selon lui, le franchiseur de Saint Cinnamon lui avait dit, au moment de l’achat de la franchise, que l’ARC lui avait accordé une exonération au titre de l’article 1m), ses brioches étant si grosses et lourdes que l’achat de quatre brioches aurait été équivalent à l’achat de six produits comparables. M. Stathopolous a déclaré ne pas avoir de copie du document utilisé par le franchiseur pour lui communiquer cette information. Il n’a pas été en mesure de m’indiquer la disposition de la Loi qui accorde une exemption du genre ou de l’annexe VI, partie III, qui autoriserait le ministre à créer des exemptions par règlement en ce qui concerne cette annexe. Il n’a fourni aucun détail quant aux paramètres magiques de poids et de grosseur qualifiant un produit pour exonération ni de raison pour laquelle, par exemple, la vente d’un seul gros gâteau ou de quatre beignes « long johns » de Tim Horton ne serait pas exonérée, tandis que celle de quatre brioches Saint Cinnamon le serait. Il n’a non plus expliqué pourquoi il pensait que l’exonération s’appliquait aux articles suivants, qui étaient tous, semble-t-il, visés par l’analyse des boîtes et assiettes : ventes de moins de quatre brioches à la cannelle, ventes de produits plus petits et plus légers autres que des brioches à la cannelle, comme des scones, et ventes de brioches à la cannelle miniatures en quantités de moins de six unités. Si une telle exonération existait ou avait été présentée par erreur aux franchisés par le franchiseur, les autres franchises Saint Cinnamon auraient tiré avantage de cette exonération aussi et le bas pourcentage de perception de la TPS aurait été constaté dans l’ensemble des franchises témoins de l’analyse comparative. Cela n’a visiblement pas été le cas. Selon ce qui précède, je conclus non seulement que l’analyse des boîtes et assiettes n’est pas une solution acceptable pour remplacer l’analyse comparative, mais je trouve aussi que M. Stathopolous n’était pas un témoin crédible.
+[32] Compte tenu de tout ce qui précède, je conclus que Centrepoint n’a pas réussi à démontrer que ses registres étaient suffisamment bien tenus pour éviter le recours à une autre méthode d’évaluation, que la méthode de rechange choisie par le ministre était déficiente ou que la méthode de rechange proposée aurait donné lieu à une évaluation plus exacte. Par conséquent, je ne redresserai pas le montant ajouté à la taxe nette qui avait été établi par le ministre pour défaut de percevoir la TPS sur des fournitures taxables.
+[33] Ayant accepté l’ajout d’un montant à la taxe nette établi par le ministre, je dois maintenant examiner s’il était pertinent d’imposer des pénalités pour faute lourde relativement à ce redressement. Je conclus que oui.
+[34] La taxe nette supplémentaire payable à la suite de ce redressement était de 46 418 $. Cette somme représente 152 % de la TPS que Centrepoint a déclaré avoir perçue sur ses ventes.
+[35] M. Melka a conclu que le problème de perception de la TPS provenait d’une mauvaise programmation des systèmes de terminaux de points de vente. Le fait que le pourcentage de perception de la TPS de Centrepoint était de loin inférieur au pourcentage de perception moyen de la TPS m’indique que ce n’était que les systèmes de terminaux de point de vente de Centerpoint qui avaient été programmés différemment et non ceux de tous les franchisés. M. Stathopolous a déclaré que ces systèmes avaient été programmés par le franchiseur et qu’il n’avait modifié le programme d’aucune façon. Il a soutenu que toute erreur commise en matière de programmation devait avoir été commise par le franchiseur. Puisque je ne trouve pas M. Stathopolous crédible, je n’accepte pas son explication. Je conclus donc que c’était Centrepoint, et non le franchiseur, qui avait modifié le programme. Il reste à trancher la question de savoir si Centrepoint a commis une faute lourde en effectuant cette modification.
+[36] Malgré le fait que la sous-perception de TPS n’entraînait pas directement une rentrée d’argent pour Centrepoint, l’entreprise avait toutefois un motif financier pour reprogrammer son système de terminaux de point de vente. Au début des périodes pertinentes, une franchise de Tim Hortons a ouvert dans le centre commercial où la franchise Centrepoint était située. Mme Beauchamp a affirmé qu’il y a eu une baisse notable des ventes de l’entreprise à l’ouverture. Le retrait de la TPS de certaines ventes aurait permis à Centrepoint de livrer une plus forte concurrence à Tim Hortons sur le plan des prix et d’ainsi pouvoir réduire la baisse de son chiffre d’affaires. Ce motif financier pour la reprogrammation du système de terminaux de point de vente m’amène à conclure que Centrepoint a sciemment modifié le programme dans l’intention de réduire le montant de TPS qu’elle percevait.
+[37] Compte tenu de tout ce qui précède, je conclus que les pénalités pour faute lourde relatives à la partie des fournitures taxables devraient être maintenues.
+Conclusion [38] Compte tenu de ce qui précède :
+a) Il est fait accueil à l’appel à l’égard de l’impôt sur le revenu de Centrepoint et la question est renvoyée au ministre pour nouvel examen et établissement d’une nouvelle cotisation au motif que l’entreprise n’a pas commis de faute lourde relativement aux dépenses refusées;
+b) Il est fait accueil à l’appel de M. Stathopolous et la question est renvoyée au ministre pour nouvel examen et établissement d’une nouvelle cotisation au motif que M. Stathopolous n’a pas commis de faute lourde relativement aux avantages conférés aux actionnaires qu’il a reçus;
+c) Il est fait accueil à l’appel à l’égard de la TPS de Centrepoint et la question est renvoyée au ministre pour nouvel examen et établissement d’une nouvelle cotisation au motif que l’entreprise n’a pas commis de faute lourde relativement aux crédits de taxe sur les intrants qu’elle a demandés quant aux dépenses refusées.
+Signé à Ottawa, Canada, ce 25e jour de novembre 2015.
+« David Graham »
+Juge Graham
+RÉFÉRENCE :
+2015 CCI 296
+Nos DE DOSSIER DE LA COUR :
+2013-2610(GST)I
+2013-2615(IT)I
+2014-102(IT)I
+INTITULÉS :
+CENTREPOINT FOODS CORPORATION et SA MAJESTÉ LA REINE
+JOHN STATHOPOLOUS et SA MAJESTÉ LA REINE
+CENTREPOINT FOODS CORPORATION et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Belleville (Ontario)
+DATE DE L’AUDIENCE :
+Le 20 octobre 2015
+MOTIFS DU JUGEMENT :
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 25 novembre 2015
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Wayne Warner
+Avocat de l’intimée :
+Me Christopher Kitchen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+S/O
+Cabinet :
+S/O
+Pour l’intimée :
+Me William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] En substance, le représentant, ancien vérificateur à l’ARC, a défendu sa cliente comme s’il travaillait toujours pour le ministre et qu’il pouvait se contenter de se fier à l’absence de preuve de l’autre partie pour gagner.
+[2] Centrepoint utilisait initialement des caisses enregistreuses. À un moment donné, la société les a remplacées par un système de terminaux de point de vente. La preuve n’indiquait pas clairement la date de ce changement. Puisque rien ne dépend de ce renseignement, je désignerai simplement le système pertinent sous le terme « système de terminaux de point de vente ».
+[3] M. Stathopolous a déclaré que le système écrasait automatiquement les données tous les six à neuf mois et qu’il n’avait pas fait de copies de ces données avant l’écrasement. Compte tenu des conclusions que j’ai tirées au sujet de la crédibilité de M. Stathopolous, je me demande si cette affirmation est vraie. Je ne sais donc pas si les données existaient ou si elles n’ont simplement pas été fournies.
+[4] J’examine cette explication peu plausible dans ma décision concernant la crédibilité de M. Stathopolous qui est exposée en détail ci‑après.
+[5] La critique que Centrepoint a faite de l’analyse des tasses portait sur les utilisations non taxables de tasses comme l’utilisation d’une deuxième tasse isolante pour le service des boissons chaudes. Le témoignage de M. Stathopolous au sujet de l’utilisation des tasses a été en grande partie contredit par celui d’une ancienne employée de Centrepoint, Mme Lesley Beauchamp. J’ai préféré le témoignage de Mme Beauchamp, parce qu’elle n’avait aucune raison apparente de m’induire en erreur et parce que j’ai autrement conclu que M. Stathopolous n’était pas crédible. Donc, même si l’analyse des tasses avait constitué la méthode de rechange utilisée par le ministre, j’aurais trouvé que Centrepoint n’avait pas réussi à l’attaquer.
+[6] Le taux de TPS était de 7 % en 2005, est passé à 6 % au cours de l’exercice 2006, puis est retourné à 5 % en 2008. Ces variations expliquent la baisse observée chaque année du pourcentage de perception de la TPS pour chaque franchise et du pourcentage moyen de perception de la TPS.
+[7] Il est à souligner que les pourcentages moyens de perception de la TPS pour chaque franchise individuelle ne sont pas égaux au pourcentage moyen de perception de la TPS. Cela tient au fait que plutôt que calculer la moyenne des pourcentages de perception de la TPS pour chaque franchise, M. Melka a calculé le montant total de TPS perçue par les trois franchises et l’a divisé par le montant total de fournitures réalisées par ces franchises. Cette méthode a eu pour effet de pondérer le pourcentage moyen de perception de la TPS en faveur du pourcentage de perception de la TPS de la plus importante franchise, car le montant des fournitures de cette franchise était égal ou supérieur à celui des fournitures combinées des deux autres franchises. Cette pondération entraîne une variation de moins de 0,2 % du pourcentage moyen de perception de la TPS calculé pour chaque année; elle a effectivement avantagé Centrepoint dans l’un des exercices pertinents. Centrepoint n’a ni défini ni soulevé de préoccupations au sujet de cette pondération lors du procès.
+[8] Mme Beauchamp a déclaré qu’il n’y avait qu’une caissière en poste pendant les quarts de soirée. Je considère donc que les observations qu’elle a faites au sujet des ventes survenues au cours d’un quart de nuit constituent un portrait fidèle des ventes totales réalisées pendant ce quart.
+[9] Je dis que c’est ce que je crois comprendre, parce que la feuille de calcul produite en preuve par Centrepoint ne couvrait pas, en fait, le deuxième volet du calcul. Il y était indiqué le montant total des ventes dont Centrepoint soutenait qu’elles étaient détaxées, mais le processus n’a pas été poursuivi jusqu’à la déduction de ce montant des ventes totales et de l’imposition de la TPS à la différence.

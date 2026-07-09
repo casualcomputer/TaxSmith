@@ -1,0 +1,154 @@
+---
+title: "Strum v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/420115/index.do"
+last_modified: "2019-08-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 167"
+citation2: ""
+neutral_citation: "2019 TCC 167"
+decision_date: "2019-08-14"
+language: "en"
+item_id: "420115"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4220
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T12:06:20.537000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8b3d6da7f2b2d9861b9ca36026cb8d1865ffe189d71bf05ad6d2074f3d2eed22"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Strum v. The Queen
+
+- Citation: 2019 TCC 167
+- Decision date: 2019-08-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4220, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Strum v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-08-14
+Neutral citation
+2019 TCC 167
+File numbers
+2018-4367(IT)I
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-4367(IT)I
+BETWEEN:
+JAMES STRUM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on March 22, 2019, at Halifax, Nova Scotia
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Caitlin Ward
+Grace Jothiraj (Articled Clerk)
+JUDGMENT
+The appeal from each of the three reassessments raised November 19, 2018 under the Income Tax Act (Canada) for the Appellant’s 2013, 2014 and 2015 taxation years respectively is dismissed, without costs.
+Signed at Halifax, Nova Scotia, this 14th day of August 2019.
+“B. Russell”
+Russell J.
+Citation: 2019TCC167
+Date: 20190814
+Docket: 2018-4367(IT)I
+BETWEEN:
+JAMES STRUM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Russell J.
+Introduction:
+[1] In this informal procedure appeal the Appellant, James Strum, appeals three reassessments raised November 19, 2018 by the Minister of National Revenue (Minister). The reassessments are respectively of the Appellant’s 2013, 2014 and 2015 taxation year liabilities under the federal Income Tax Act as amended (Act). The 2013 taxation year reassessment was raised after the expiry of the applicable normal reassessment period and thus potentially is, “statute-barred”.
+[2] The Appellant appeals specifically the denial of claimed business expenses as reflected in each of the reassessments - 2013 ($6,104), 2014 ($4,246) and 2015 ($3,929). The only business income during this three year period was $50 in 2014. The Minister did allow one category of claimed expenses - accounting fee payments of $318 in 2013, $293 in 2014 and $323 in 2015. The expenses the Appellant claimed were 50% of total expenses said to have been incurred for business purposes. The remaining 50% was allocated to his spouse, involved in the same business.
+Evidence:
+[3] The unrepresented Appellant was the only witness at the hearing. His evidence was that in 2010, he and his wife commenced a business, participating in what the Respondent calls a “multi-level marketing scheme” called “Mona Vie”, selling juice products. To succeed in this business, one is required to recruit people to sell the product, with the recruiter getting a financial benefit also from his/her team members’ sales. At all material times he otherwise was employed on a full-time basis.
+[4] The Appellant throughout the six year period 2010 to 2015 signed up only one person for this business, and after a short time that recruited person ceased to further participate. The Appellant has never had a profitable year for this business - not in any of the three years in issue, nor in the earlier three initial years of 2010, 2011 and 2012). He testified that he consistently tried to make a go of it. He was not expecting it would be so hard to recruit people for this business, and keep them involved. He testified that he (and his spouse, also involved) would meet prospective “clients”, over coffee or a meal, to discuss their potential participation. On a monthly basis he recorded his kilometres driven but did not keep a log per se. He had no record of names of persons he said he had tried to recruit, and did not volunteer any names at the hearing.
+[5] The more substantial of the expenses claimed by the Appellant for 2013, 2014 and 2015 respectively, were: for “meals and entertainment” - $1,628, $1,069 and $1,607; for “telephone and utilities” - $2,427, $1,120 and $2,914; for “motor vehicle expenses” - $3,587, $3.070 and $1,938; for “capital cost allowance (CCA)” - $1,641, $1,010 and $748; for “office expenses” - $1,079, $108 and nil: and for “travel” - nil, $1,112 and nil. These amounts, particularly being only the Appellant’s 50% share, are surprisingly large given the virtually complete lack of revenue and deficiency of business records. As well, there had been significant claimed losses for the three preceding years (2010, 2011, 2012) that the Minister had allowed, without subsequent challenge.
+[6] In cross-examination he acknowledged that, despite having claimed “advertising and promotion” as an expense in each of the three years ($320, $150, $160), he did not advertise the business other than by “word of mouth”, and he referred to making “cold calls”. He has no record of “clients” with whom he had meals. In 2014 he and his wife travelled to the island of Newfoundland to visit relatives, and also he said, to discuss with them participation in this business (none accepted to do so). He states in a document headed “Meals and Entertainment” included in the Ex. A-3 bundle of receipts that,
+...whenever I had a meal that didn’t involve a potential prospects [sic] my wife and I talked about the business so that it could be included for tax purposes.
+Submissions:
+[7] In argument the Appellant spoke briefly and generally, saying that he had had failings in operating the business. He said that he did try to maintain records, and that this was his first attempt at a business and it did not go well. In argument the Respondent submitted that there were two issues, the first being was the Minister justified in disallowing expenses for the three years in issue and the second being was the 2013 reassessment valid, having been raised after expiry of the applicable three year normal reassessment period. The Respondent further submitted that for the years in issue the business had become “dormant”. The factors indicating operation of a commercial nature as noted in Stewart v. Canada, 2002 SCC 46 were not evident. However, the Respondent refrained from arguing that the business had outright ceased, nor was that pleaded by the Respondent. The deduction of accounting expenses in relation to the business for each of the subject years seems to show that the Minister had not considered the business had ceased.
+Is the 2013 taxation year reassessment statute-barred?
+[8] I first address the issue of whether the reassessment for 2013 taxation year is “statute-barred”, which is the Appellant’s position. To find that it is not, I must conclude per subparagraph 152(4)(a)(i) of the Act as here argued that the Appellant in his 2013 taxation year return made a misrepresentation and that that misrepresentation was “attributable to neglect, carelessness or wilful default”. The onus is on the Respondent to establish these elements of subparagraph 152(4)(a)(i), which provision provides as follows:
+Assessment and reassessment
+(4) The Minister may at any time make an assessment, reassessment or additional assessment of tax for a taxation year, interest or penalties, if any, payable under this Part by a taxpayer or notify in writing any person by whom a return of income for a taxation year has been filed that no tax is payable for the year, except that an assessment, reassessment or additional assessment may be made after the taxpayer’s normal reassessment period in respect of the year only if
+(a) the taxpayer or person filing the return
+(i) has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return or in supplying any information under this Act, or
+[9] Was there a misrepresentation - here claimed by the Respondent to have been that the Appellant in 2013 reported personal expenses as business expenses? In my view one misrepresentation was that he had claimed advertisement expenses although had not engaged in advertising. This is a misrepresentation although not a personal expense misrepresented as a business expense. His documentary evidence indicates that he claimed meal expenses for meals he had just with his wife and that at these meals they apparently talked about the business for the purpose of claiming the meal as an expense, as contrasted with the purpose, per paragraph 18(1)(a) of the Act, “of gaining or producing income from the business”. That readily appears to be a situation of claimed business expenses that actually are personal expenses. I keep in mind that the onus is on the Respondent to prove this but at the end of the day it is the evidence adduced at the hearing by both parties that I would take into consideration.
+[10] On the basis of the foregoing I conclude that there were at least two misrepresentations in respect of the return for the 2013 taxation year.
+[11] Subparagraph 4.01(a)(i) was not raised by either party but I feel it necessary to address it. It provides in relevant part that a reassessment beyond the applicable normal reassessment period can be made,
+only to the extent that, it can reasonably be regarded as relating to...where paragraph (4)(a) applies...any misrepresentation...that is attributable to neglect, carelessness or wilful default... [underlining added].
+I consider that the two identified misrepresentations, both pertaining to the claimed business expenses, can be “reasonably regarded as relating to” not just those two particular 2013 taxation year expenses, but as well the other claimed business expenses for that year. I consider that it would be inappropriate to require proof of a misrepresentation attributable to neglect, carelessness or wilful default for each and every specific business expense claimed (as opposed to one or some of them) before the total of claimed business expenses could be opened up by virtue of subparagraphs 152(4)(a)(i) and 152(4.01)(a)(i) for each expense claimed. This does not mean that the ostensibly statute-barred 2013 taxation year could be opened up, by virtue of misrepresentations in the claimed business expenses as herein, for any aspect reflected in the return apart from claimed business expenses.
+[12] Thus I conclude that the 2013 taxation year reassessment is not statute-barred, but rather is valid. The reassessment is only challenged by the Appellant with respect to the claimed business expenses, and not anything else.
+Are the claimed business expenses deductible?
+[13] I now turn to the second issue which is whether and to what extent the denial of claimed business expenses for each of the 2013, 2014 and 2015 taxation years was valid.
+[14] I decline to allow the claimed motor vehicle expenses due to lack of evidence from the Appellant as to what these trips were for and with whom did he and his wife meet in the course of these motor vehicle trips. The lack of a log as to specific trips and the lack of any listing of prospective “clients” that were met leaves me with insufficient evidence to accept these motor vehicle expenses as having been business related and not merely personal expenses.
+[15] The same is so for the claimed telephone and utilities expenses and office expenses and corresponding claim for CCA. I did not at all hear adequate evidence to establish that these claimed expenses were of a business nature and not merely personal. The fact that the business showed no revenue (other than $50 in 2014) nor any “clients” for either of these years also is consistent with my conclusion that such expenses were personal, having not been established as being deductible business expenses.
+[16] I am of the same view for “meals and entertainment” as claimed. Once again we were given no record of with whom the Appellant actually met in incurring these expenses, nor was any person called to testify that he or she had so met with the Appellant. As well we have the Appellant’s earlier noted statement that some unidentified portion of these meals and entertainment expenses were meals for him and his spousal business partner eating by themselves, and ensuring that they talked about the business during some portion of the meal so as to render the expense deductible. As noted above, to be deductible as a business expense, the purpose of the expense has to accord with the purpose specified in paragraph 18(1)(a) of the Act.
+[17] The claim for “2014 travel” was for travel to the island of Newfoundland to visit family, and it is said that participation in the business was discussed with these relatives during the course of the visit. I do not have nearly sufficient information to allow this expense as a business expense. No other member of the family testified and no family member joined the business. I find the nature of this expense compellingly personal, and the evidence is completely inadequate to indicate any such discussions as may have occurred, were anything more than perfunctorily raising the matter for the purpose of trying to expense the (not inexpensive) trip to visit family.
+[18] As for the last category of expenses claimed - “remaining expenses” - this category is made up of minor amounts attributable to “advertising and promotion”, “insurance”, “supplies”, “maintenance and repairs” and “other expenses” for each or any of the 2013, 2014 and 2015 taxation years. These were inadequately proven as well, the onus having been on the Appellant in this regard as for all the expenses claimed for these three years. The Appellant’s acknowledgement that he did not engage in advertising, but simply proceeded by “word of mouth”, and lack of detailed explanation dissuades me from allowing any of these expenses.
+[19] I note that once an ostensibly statute-barred year has been at all opened, as here in respect of the 2013 taxation year, the onus reverts to the taxpayer to bring at least prima facie evidence to defeat any relevant pleaded assumptions of the Minister - the same as for assessed or reassessed taxation years that had not become presumptively statute-barred.
+Conclusion:
+[20] Accordingly the appeal for each of the 2013, 2014 and 2015 taxation years is dismissed, although without costs in this informal procedure matter.
+Signed at Halifax, Nova Scotia, this 14th day of August 2019.
+“B. Russell”
+Russell J.
+CITATION:
+2019TCC167
+COURT FILE NO.:
+2018-4367(IT)I
+STYLE OF CAUSE:
+JAMES STRUM AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+March 22, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+August 14, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Caitlin Ward
+Grace Jothiraj (Articled Clerk)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,139 @@
+Title: Kasindi c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26481/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-539-26481-kasindi-c-la-reine-en.md
+Document type: case_law
+Last modified: 2004-08-19
+
+# Kasindi c. La Reine
+
+- Citation: 2004 TCC 539
+- Decision date: 2004-08-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3261, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kasindi c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-08-19
+Neutral citation
+2004 TCC 539
+File numbers
+2003-4376(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+[OFFICIAL ENGLISH TRANSLATION]
+Docket: 2003-4376(IT)I
+BETWEEN:
+ELISABETH KASINDI,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 30, 2004, at Montréal, Quebec
+Before: The Honourable Judge Paul Bédard
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2001 base year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 19th day of August 2004.
+"Paul Bédard"
+Bédard J.
+Certified true translation
+Colette Dupuis-Beaulne
+[OFFICIAL ENGLISH TRANSLATION]
+Citation: 2004TCC539
+Date: 20040819
+Docket: 2003-4376(IT)I
+BETWEEN:
+ELISABETH KASINDI,
+Appellant,
+And
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bédard J.
+[1] This is an appeal under the informal procedure concerning the Canada Child Tax Benefit (CCTB) for the 2001 base year.
+[2] On April 17, 2003, the Minister of National Revenue (the "Minister") issued a notice of reassessment in respect of the Appellant concerning the CCTB for the 2001 base year.
+[3] In that notice, the Minister claimed from the Appellant repayment of a CCTB overpayment amounting to $949.69 for the 2001 base year.
+[4] In making the notice of reassessment concerning the CCTB for the base year in question, the Minister relied on the following facts stated in paragraph 5 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) The Appellant is the grandmother of Joseph Kaleba Mutemberi;
+(b) The Appellant had custody of Joseph Kaleba Mutemberi until October 30, 2002;
+(c) From October 30, 2002, until March 2003, Joseph Kaleba Mutemberi was under the custody of his aunt Sidonie Kaleba;
+(d) The Minister determined that the Appellant was not the eligible individual in respect of her grandson Joseph Kaleba Mutemberi for the period from November 2002 to March 2003 under section 122.6 of the Income Tax Act (hereinafter the "Act");
+(e) The Minister therefore determined that the Appellant was not entitled to the amount of $949.69 for the 2001 base year.
+[5] The only issue is whether the Minister wrongly decided that the Appellant was not an eligible individual for the period in issue, from November 2002 to March 2003.
+[6] The definition of "eligible individual" in section 122.6 of the Income Tax Act (the "Act") read at the time as follows:
+"eligible individual" - "eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+(c) is resident in Canada or, where the person is the cohabiting spouse or common-law partner of a person who is deemed under subsection 250(1) to be resident in Canada throughout the taxation year that includes that time, was resident in Canada in any preceding taxation year,
+(d) is not described in paragraph 149(1)(a) or 149(1)(b), and
+(e) is, or whose cohabiting spouse or common-law partner is, a Canadian citizen or a person who
+(i) is a permanent resident within the meaning of subsection 2(1) of the Immigration and Refugee Protection Act,
+(ii) is a temporary resident within the meaning of the Immigration and Refugee Protection Act, who was resident in Canada throughout the 18 month period preceding that time, or
+(iii) is a protected person within the meaning of the Immigration and Refugee Protection Act,
+(iv) was determined before that time to be a member of a class defined in the Humanitarian Designated Classes Regulations made under the Immigration Act,
+and for the purpose of this definition,
+(f) where the qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph 122.6 eligible individual (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing.
+[7] Here we shall consider only the conditions established in paragraphs (a) and (b) of the definition of "eligible individual" in section 122.6 of the Act.
+[8] The questions are thus:
+(i) whether the Appellant resided with her grandson from November 2002 to March 2003;
+(ii) whether the Appellant was the parent who primarily fulfilled the responsibility for the care and upbringing of the grandson.
+Analysis
+[9] The Appellant and her daughter, Sidonie Kaliba, testified.
+[10] The evidence revealed that:
+(i) the Appellant's grandson left her residence in November 2002 to go and live at the home of his aunt, Sidonie Kaliba;
+(ii) the grandson lived with his aunt during the entire period in issue;
+(iii) the Appellant transferred the CCTBs received during the period in issue to her daughter;
+(iv) the aunt also requested and received the CCTBs in respect of the Appellant's grandson for the same period.
+[11] Since the evidence showed that the Appellant's grandson lived with his aunt during the period in issue, I find that the Appellant was not the "qualified individual" during that period because the condition set in paragraph (a) of the definition of "eligible individual" in section 122.6 of the Act was not met. Since it was not met, I see no point in analyzing the question whether the Appellant was, during the period in issue, the parent who primarily fulfilled the responsibility for the care and upbringing of her grandson, particularly since the Appellant brought no evidence on that point.
+[12] Having regard to the above, the appeal is dismissed.
+Signed at Ottawa, Canada, this 19th day of August 2004.
+"Paul Bédard"
+Bédard J.
+Certified true translation
+Colette Dupuis-Beaulne
+CITATION:
+2004TCC539
+COURT FILE NUMBER:
+2003-4376(IT)I
+STYLE OF CAUSE:
+Elisabeth Kasindi and Her Majesty the Queen
+PLACE OF HEARING:
+Montréal, Quebec
+DATE OF HEARING:
+July 30, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Judge Paul Bédard
+DATE OF JUDGMENT:
+August 19, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+For the Respondent:
+Julie David
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

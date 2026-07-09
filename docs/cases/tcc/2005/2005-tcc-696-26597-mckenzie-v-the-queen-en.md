@@ -1,0 +1,150 @@
+---
+title: "McKenzie v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26597/index.do"
+last_modified: "2005-10-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 696"
+citation2: ""
+neutral_citation: "2005 TCC 696"
+decision_date: "2005-10-26"
+language: "en"
+item_id: "26597"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3540
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:11:23.738000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8c89451d35418005ea1390ce2f86eaf222d3eb3b50fb194c532ad788079424f6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McKenzie v. The Queen
+
+- Citation: 2005 TCC 696
+- Decision date: 2005-10-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3540, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McKenzie v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-26
+Neutral citation
+2005 TCC 696
+File numbers
+2005-1484(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-1484(IT)I
+BETWEEN:
+DANNI MCKENZIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 11, 2005, at Lethbridge, Alberta
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Dawn Taylor
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is allowed to grant the Appellant's claim for storage expenses of an additional $1,950 and vehicle expenses in the additional sum of $179.28. The Minister of National Revenue is ordered to reconsider and reassess accordingly in order to allow total expenses of $2,320.28 in accordance with the attached Reasons for Judgment.
+The Appellant is awarded the sum of $100 for disbursements incurred in
+prosecuting this appeal.
+Signed at Saskatoon, Saskatchewan, this 26th day of October 2005.
+"D.W. Beaubier"
+Beaubier, J.
+Citation:2005TCC696
+Date: 20051026
+Docket: 2005-1484(IT)I
+BETWEEN:
+DANNI MCKENZIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Lethbridge, Alberta, on October 11, 2005. The Appellant was the only witness.
+[2] The particulars in dispute are set out in paragraphs 7 to 12 of the Reply to the Notice of Appeal. They read:
+7. By means of a Notice of Reassessment dated December 29, 2004, the Minister of National Revenue (the "Minister") disallowed $2,950 of the moving expenses as follows:
+Room & Board in Calgary $1,000
+Costs to maintain Lethbridge residence $1,950
+Disallowed moving expenses $2,950
+The Minister considered that the disallowed moving expenses were personal expenditures of the Appellant and not eligible moving expenses.
+8. The Appellant filed a Notice of Objection to the reassessment, received January 12, 2005.
+9. The Minister varied the reassessment by means of a Notice of Reassessment dated March 14, 2005 and allowed additional moving expenses of $191 for meals incurred in the course of moving the Appellant and members of the Appellant's household from the old residence to the new residence.
+10. In so reassessing the Appellant's 2003 Taxation Year, the Minister made the following assumptions of fact:
+(a) the Appellant left Lethbridge to attend a 10-week training session in Calgary between September and December of 2003 (the "Period");
+(b) the Appellant was to have originally attended the training session in April of 2004, however was able to attend earlier due to a space becoming available;
+(c) the Appellant moved with her 2 children to a shared townhouse in Calgary for the Period;
+(d) the Appellant paid room and board of $1,000 in Calgary for the Period;
+(e) during the Period, the Appellant maintained her apartment in Lethbridge and paid rent totalling $1,950;
+(f) the Appellant left her furniture in her apartment in Lethbridge during the Period;
+(g) during the Period, the Lethbridge apartment was vacant;
+(h) at the end of the Period, the Appellant returned to live in Lethbridge;
+(i) the Appellant included $1,000 for the room and board paid in Calgary during the Period and $1,950 for rent in Lethbridge during the Period in her total claim for moving expenses; and
+(j) the room and board in Calgary and the rent in Lethbridge during the Period are personal expenditures of the Appellant.
+B. ISSUES TO BE DECIDED
+11. The issue is whether the Appellant is entitled to deduct the $2,950 as moving expenses in determining her income for the 2003 Taxation Year.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON ANDRELIEF SOUGHT
+12. He relies on section 62 and subsection 248(1) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp) (the "Act") as amended for the 2003 Taxation Year.
+All of the assumptions except 10(g) and (j) were established to be correct. Respecting 10(f), the Appellant left clothing and appliances in the apartment as well. Respecting 10(g), the Appellant treated her apartment as a storage area while she was in Calgarywith her children.
+[3] The Appellant was a single mother in 2003. The Appellant's two children are twins who were born in 1997. When she went to Calgary she took them with her along with some of their toys and enrolled them in school in Calgary. They attended school throughout the time that the family was in Calgary. Meanwhile the Appellant paid $1,950 on account of rent for the Lethbridge apartment where her things were stored while she and the children lived as a family and went to school in Calgary.
+[4] The Appellant received a "grant" from the Province of Albertaof $4,830 as a scholarship or bursary to attend her hairdresser course in Calgarywhich was part of a two-year post-secondary program to become qualified as a hairdresser. She succeeded in the program. She reported the receipt of this money in her 2003 income tax return.
+[5] The Appellant made an "eligible relocation" pursuant to the definition in subsection 248(1) to be a student enrolled at a post-secondary level at an educational institution and resided in Calgarywith her children.
+[6] In particular, taking her children and enrolling them in school in Calgary constitutes a change of residence for her entire family unit while she attended her course in Calgary. The furniture left in Lethbridgewas merely an accoutrement left in storage. The children and the necessary things she took to Calgaryare the essentials of living and residence of her entire family. In particular, taking her children and enrolling them in school in Calgaryare the constituents of a move of residence for the Appellant and her children. Their return to Lethbridgeis a second change of residence from Calgary to Lethbridge.
+[7] The result is that the goods left in the apartment in Lethbridgewere stored there. That cost is specifically claimable as a cost of storage incurred in moving from the old residence to the new residence pursuant to paragraph 63(1)(b) of the Income Tax Act. That is that sum of $1,950.
+[8] The Appellant also claimed a further $1,000 based upon her investigation of government and other possible claims or allowances for mileage, meals and lodging. She was allowed $191 in respect to this portion of her claim. The Appellant moved herself and her children to Calgaryin one day in her own vehicle. As stated in paragraph 9 of the Reply, the $191 was specifically allowed by the Minister for her meals. The Appellant estimated her personal vehicle costs which she incurred in the move to be $179.28 which the Court considers to be reasonable. That sum is allowed in addition to the $191 for a total of $370.28. Relatives helped her by moving clothing and furnishings to Calgary, in at least two trips, free of charge.
+[9] The appeal is allowed to grant the Appellant's claim for storage expenses of an additional $1,950 and vehicle expenses in the additional sum of $179.28. The Minister is ordered to reconsider and reassess accordingly in order to allow total expenses of $2,320.28.
+[10] The Appellant did a considerable amount of photocopying in pursuing her appeal and she is granted costs for copying, postage and other disbursements incurred in prosecuting her appeal which are fixed at $100.
+Signed at Saskatoon, Saskatchewan, this 26th day of October 2005.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2005TCC696
+COURT FILE NO.: 2005-1484(IT)I
+STYLE OF CAUSE: Danni McKenzie v. The Queen
+PLACE OF HEARING: Lethbridge, Alberta
+DATE OF HEARING: October 11, 2005
+REASONS FOR JUDGEMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: October 26, 2005
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Dawn Taylor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

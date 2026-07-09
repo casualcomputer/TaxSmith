@@ -1,0 +1,218 @@
+Title: Basal c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521019/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-154-521019-basal-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2022-11-30
+
+# Basal c. Le Roi
+
+- Citation: 2022 CCI 154
+- Decision date: 2022-11-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5814, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Basal c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-11-30
+Référence neutre
+2022 CCI 154
+Numéro de dossier
+2020-1237(GST)G, 2020-1240(GST)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2020-1237(GST)G
+ENTRE :
+RONEN BASAL,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête présentée en application de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale), entendue par vidéoconférence le 12 mai 2022, à Ottawa (Ontario).
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Avocats de l’appelant :
+Me Jean-François Dorais
+Me Arnaud Prud’Homme
+Avocate de l’intimé :
+Me Julie Dilli
+ORDONNANCE
+Conformément aux motifs de l’ordonnance ci-joints, la Cour ordonne que les alinéas 27g), h), k) et n) de la réponse à l’avis d’appel soient radiés. L’intimé dispose d’un délai de 30 jours suivant la date du présent jugement pour déposer une réponse modifiée. Les dépens sont laissés à la discrétion du juge du procès.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2022.
+« Juge Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 20e jour d’octobre 2023.
+François Brunet, réviseur
+Dossier : 2020-1240(GST)G
+ENTRE :
+RONEN BASAL,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête présentée en application de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale), entendue par vidéoconférence le 12 mai 2022, à Ottawa (Ontario).
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Avocats de l’appelant :
+Me Jean-François Dorais
+Me Arnaud Prud’Homme
+Avocate de l’intimé :
+Me Julie Dilli
+ORDONNANCE
+Conformément aux motifs de l’ordonnance ci-joints, la Cour ordonne que les alinéas 26d), e), h), et k) de la réponse à l’avis d’appel soient radiés. L’intimé dispose d’un délai de 30 jours suivant la date du présent jugement pour déposer une réponse modifiée. Les dépens sont laissés à la discrétion du juge du procès.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2022.
+« Juge Smith »
+Le juge Smith
+Référence : 2022 CCI 154
+Date : 20221130
+Dossiers : 2020-1237(GST)G
+2020-1240(GST)G
+ENTRE :
+RONEN BASAL,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Smith
+[1] La présente affaire porte sur une requête en radiation de certains alinéas de la réponse à l’avis d’appel, déposée séparément dans chacun des appels.
+[2] Les cotisations établies par le ministre du Revenu national (le « ministre ») en application du paragraphe 323(1) de la partie IX de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15 (la « LTA ») sont en litige. Selon cette disposition, l’administrateur d’une personne morale peut être tenu responsable de la dette fiscale de la personne morale s’il omet de faire preuve de diligence raisonnable.
+[3] Je résumerai d’abord les deux cotisations, suivi d’un aperçu du droit applicable aux requêtes en radiation et des arguments avancés par les parties.
+Résumé de l’appel – 2020-1240 [4] Dans l’appel décrit comme le 2020-1240, l’appelant interjette appel d’une cotisation établie le 11 mai 2018, par laquelle le ministre l’a tenu responsable de la dette fiscale de 9264-8476 Québec Inc. (« 9264 ») pour la période du 1er juin 2016 au 31 décembre 2017.
+[5] L’appelant conteste cette cotisation en raison du fait qu’il était un employé et non un administrateur de 9264. Il fait valoir en outre que le ministre n’a pas satisfait aux exigences du paragraphe 323(2) de la LTA. L’appelant affirme que la dette sous-jacente n’est pas fondée en fait et en droit, plus précisément parce que le ministre n’a pas tenu compte des crédits de taxe sur les intrants (« CTI ») auxquels 9264 avait droit.
+[6] Il n’est pas controversé que Judith Basal, la mère de l’appelant, était l’administratrice de 9264. Le ministre a toutefois soutenu que l’appelant était un administrateur de fait, et qu’il est donc solidairement responsable de la dette fiscale en application du paragraphe 323(1).
+[7] Le ministre soutient que la dette fiscale de 9264, en tenant compte de la taxe sur les produits et services (la « TPS »), perçue mais non remise et les CTI réclamés ou obtenus par erreur ou sans droit pour la période en question, totalise 2 917 374 $.
+[8] La cotisation établie à l’égard de 9264 ne faisait pas l’objet d’un avis d’opposition, et est maintenant frappée de prescription. Toutefois, il est bien établi que l’appelant peut néanmoins contester le bien-fondé de la cotisation sous-jacente.
+[9] Au paragraphe 26 de la réponse à l’avis d’appel, le ministre explique que la cotisation établie était fondée sur certaines hypothèses factuelles. Dans le cadre de la présente requête, l’appelant demande la radiation des alinéas 26c) à m), qui seront examinés plus en détail ci-après.
+[10] Aux paragraphes 27 et 28, le ministre reconnaît que les deux questions en litige sont de savoir si la cotisation établie à l’égard de 9264, et donc de la dette sous-jacente, est bien fondée en fait et en droit et si l’appelant est responsable en sa qualité d’administrateur de fait.
+Résumé de l’appel – 2020-1237 [11] Dans l’appel décrit comme le 2020-1237, l’appelant interjette également appel d’une cotisation établie le 11 mai 2018, par laquelle le ministre l’a tenu responsable de la dette fiscale de 8084793 Canada Inc. (« Canada Inc. ») pour la période du 1er septembre 2013 au 31 mai 2016.
+[12] Une fois de plus, l’appelant conteste la cotisation établie à son égard en raison du fait qu’il était un employé et non un administrateur de Canada Inc. Il allègue que la dette sous-jacente n’est pas fondée en fait et en droit, plus précisément parce que le ministre n’a pas tenu compte des CTI auxquels la société avait droit.
+[13] Il n’est pas controversé que Baruch Basal, le père de l’appelant, était administrateur de Canada Inc., mais le ministre soutient que l’appelant était aussi un administrateur de fait, et qu’il est donc solidairement responsable de la dette sous-jacente en application du paragraphe 323(1).
+[14] J’ajouterais qu’il n’est pas controversé que, selon le Registraire des entreprises du gouvernement du Québec, Canada Inc. exerçait des activités de [traduction] « gestion de travaux de construction » et « autres services connexes dans le domaine de la construction ».
+[15] Le ministre soutient que la dette fiscale de Canada Inc. tient compte de la TPS perçue mais non remise et des CTI réclamés ou obtenus par erreur ou sans droit pour la période en question. La somme due est de 198 865 $.
+[16] La cotisation établie à l’égard de Canada Inc. ne faisait pas l’objet d’un avis d’opposition, et est maintenant frappée de prescription. Toutefois, il est entendu que l’appelant peut néanmoins contester le bien-fondé de la cotisation sous-jacente.
+[17] Au paragraphe 27 de la réponse à l’avis d’appel, le ministre explique que la cotisation établie était fondée sur certaines hypothèses factuelles, y compris les alinéas 26f) à p), dont l’appelant demande maintenant la radiation.
+[18] Aux paragraphes 27 et 28, le ministre reconnaît que les deux questions en litige sont de savoir si la cotisation établie à l’égard de Canada Inc., et donc de la dette sous-jacente, est bien fondée en fait et en droit et si l’appelant est solidairement responsable en sa qualité d’administrateur de fait.
+Droit applicable – Actes de procédures et pertinence [19] Avant d’examiner les arguments des parties, je passerai en revue le droit applicable en me penchant d’abord sur la nature des actes de procédure et la question de la pertinence.
+[20] L’article 49 des Règles de la Cour canadienne de l’impôt (procédure générale), DORS/90-688a (les « Règles ») dispose, aux alinéas 49d) et e), que la réponse à l’avis d’appel doit indiquer « les conclusions ou les hypothèses de fait sur lesquelles le ministre s’est fondé en établissant sa cotisation » et « tout autre fait pertinent ».
+[21] La question de la pertinence a été examinée par le juge Sommerfeldt dans la décision Scott c. La Reine, 2017 CCI 224 (« Scott »), sur laquelle l’appelant se fonde. Cette décision portait sur l’admissibilité d’un affidavit signé par un vérificateur de l’Agence du revenu du Canada et des déclarations de revenus qui y étaient jointes, provenant d’une fiducie qui avait versé de l’argent aux appelants. Les appelants ont contesté l’admissibilité de l’affidavit, soulevant la question de la pertinence et celle de la confidentialité des tiers, que j’examinerai ci-après.
+[22] Le juge Sommerfeldt a examiné ce qu’on appelle la « description classique de la pertinence » tirée d’un arrêt de la Cour suprême du Canada, R. c. White, 2011 CSC 13, [2011], R.C.S. 433. Le juge Rothstein a expliqué que la preuve répond à la norme de la pertinence « lorsque, selon la logique et l’expérience humaine, elle tend d’une façon quelconque à rendre la thèse qu’elle appuie plus vraisemblable qu’elle ne le paraîtrait sans elle » (au paragraphe 36).
+[23] Le juge Sommerfeldt a alors cité la décision Oro Del Norte, S.A. c. La Reine, 90 DTC 6373, dans laquelle le juge en chef Jerome a formulé les observations suivantes :
+[traduction]
+« [...] Je ne vois pas comment les documents concernant les activités d’autres sociétés minières, qu’elles soient semblables ou non à celles des demanderesses, peuvent, d’une façon ou d’une autre, “les lancer dans une enquête qui pourra, directement ou indirectement, faire avancer leur cause ou porter atteinte à celle du défendeur [...]” Le ministre est tenu de traiter tous les contribuables se trouvant dans une situation similaire de la même manière, mais cela ne signifie pas que les documents concernant un contribuable qui se trouve dans une situation similaire sont pertinents en ce qui concerne la nouvelle cotisation d’un autre contribuable ».
+[Non souligné dans l’original.]
+[24] Je note que le juge Sommerfeldt a conclu que les déclarations de revenus jointes à l’affidavit en cause étaient pertinentes, et qu’elles établissaient une présomption de validité. Il a cependant refusé d’admettre les documents en preuve pour d’autres motifs, y compris le fait que ces documents avaient été présentés à la dernière minute, sans préavis suffisant.
+[25] L’importance des faits pertinents a également fait l’objet d’un examen dans la décision Globtek Inc. c. La Reine, 2005 CCI 727 (« Globtek »), citée par l’appelant dans la présente instance. Le contribuable avait demandé la radiation de certains paragraphes de la réponse à l’avis d’appel. Le juge Bowie a formulé certaines observations sur l’importance des actes de procédure, et il a indiqué que la « règle de base » applicable aux actes de procédure est que [traduction] « le plaideur doit énoncer les faits pertinents sur lesquels il fonde sa demande ou sa défense » et que « dans le cadre d’une réponse à un avis d’appel […] un fait est pertinent si, une fois établi, il tend à démontrer que la cotisation visée par l’appel est bien fondée ». Il a ajouté ce qui suit au paragraphe 6 :
+6. [...] La manière dont la situation du contribuable est venue à l’attention du ministre [...] et tout autre fait ayant conduit à la décision de faire une vérification à l’égard du contribuable ne sont pas pertinents quant au bien‑fondé de la cotisation à laquelle cette vérification a donné lieu.
+[26] Aux paragraphes 7 et 8, le juge Bowie conclut que la cotisation soulève « une question étroite » et que l’on ne doit pas ajouter à la complexité en incluant dans les actes de procédure des « allégations non pertinentes pour l’issue du litige » et « ne pouvant influer sur le bien‑fondé » de la cotisation ou prolonger « l’interrogatoire préalable et le procès, ainsi que la préparation de ces deux étapes ». Le juge Bowie a donc accueilli la requête en radiation.
+[27] Cependant, dans la décision Gould c. La Reine, 2005 CCI 556 (« Gould »), le juge en chef Bowman a refusé de radier certains paragraphes de la réponse à l’avis d’appel où figuraient des détails sur un stratagème auquel l’appelant aurait participé. Il fait référence à « la prétendue combine » et déclare :
+11. Je ne vois rien d’erroné dans l’aperçu en cause. Celui‑ci décrit de façon générale la combine à laquelle le ministre dit que l’appelant a participé. Je pense que l’on peut arguer que le fait que les dons de bienfaisance de l’appelant représentent non pas un phénomène isolé mais font partie d’un plan d’ensemble est un fait pertinent. La question du poids à y accorder sera déterminée par le juge chargé d’entendre l’appel. Il serait prématuré et en fait inapproprié que, siégeant comme juge des requêtes et sans avoir eu l’avantage d’entendre quelque preuve que ce soit, je décide de la pertinence d’une si vaste description d’une prétendue combine. Me prononcer là‑dessus, ce serait usurper la fonction du juge du procès.
+[Non souligné dans l’original.]
+Renseignements sur les tiers [28] Dans la décision Status-One Investments Inc. c. La Reine, 2004 CCI 473 (« Status-One ») citée par l’appelant, le juge Rip (tel était alors son titre) avait ordonné que certains paragraphes de la réponse modifiée soient radiés, ayant conclu que l’intimée tentait d’introduire de nouvelles allégations qui élargissaient la controverse pour y inclure d’autres contribuables. Il a exprimé certaines réserves, mais a indiqué qu’il aurait pu être acceptable :
+30. [...] Il convient de faire preuve d’une grande circonspection lorsque des tiers sont concernés. Ce sont les actes de l’appelante qui sont pertinents; c’est l’appelante qui a fait l’objet de cotisations et elle est en droit de savoir pourquoi. Il se peut bien que, dans certains cas, les relations ou les liens que peut avoir une partie appelante avec des tiers soient pertinents. [...] Une partie appelante doit toujours faire sa preuve elle‑même. Le ministre doit établir la cotisation à l’égard d’un contribuable en se fondant sur ce que ce dernier a fait, ou n’a pas fait, et non pas, d’une manière générale, sur la conduite d’un tiers.
+[Non souligné dans l’original.]
+[29] Dans l’arrêt Canada c. Status-One Investments Inc., 2005 CAF 119, la Cour d’appel fédérale a souscrit à la décision en déclarant que « [l]a pertinence ou non-pertinence d’allégués portant sur les agissements de tiers doit s’évaluer à la lumière des actes de procédure » (au paragraphe 17) et qu’« il se peut bien que dans certains cas, les relations ou les liens que peut avoir une partie appelante avec des tiers soient pertinents à la détermination de son impôt payable. Mais encore faut-il que les actes de procédure laissent voir, de façon précise, en quoi ces liens ou relations pourraient être utiles à cette fin » (au paragraphe 19).
+[30] Toutefois, en ce qui concerne l’affaire Gould mentionnée ci-dessus, l’appelant avait demandé la radiation de certaines allégations concernant des tiers avec qui il n’avait jamais eu affaire. Au paragraphe 21, le juge en chef Bowman a donné les explications suivantes :
+21. [...] Un élément central de la cotisation par laquelle n’ont pas été admis les dons de bienfaisance est l’existence d’une combine à laquelle on allègue que l’appelant a participé et qui a permis aux participants d’obtenir ce que la Couronne considère comme des crédits d’impôt pour dons de bienfaisance artificiels ou gonflés. Cette combine impliquait nécessairement des tiers et, si l’existence d’une combine est essentielle pour la thèse de la Couronne, cette dernière devrait pouvoir invoquer et prouver tous les éléments de cette combine.
+[Non souligné dans l’original.]
+[31] Au paragraphe 23, le juge en chef Bowman a ajouté ce qui suit :
+23. [...] De manière générale, la radiation de passages d’un acte de procédure en vertu de l’article 53 des Règles devrait se limiter aux cas les plus évidents. ll convient davantage que les questions de poids et de pertinence soient déterminées par le juge du procès, qui aura entendu l’ensemble de la preuve. Souvent, l’importance d’un élément de preuve n’apparaît clairement qu’à la fin de l’audition d’une cause.
+[32] Dans le cadre de la divulgation de renseignements confidentiels sur un tiers, l’appelant renvoie au paragraphe 241(1) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), qui dispose qu’« il est interdit à un fonctionnaire ou autre représentant d’une entité gouvernementale [...] de fournir sciemment à quiconque un renseignement confidentiel ou d’en permettre sciemment la prestation ». Le paragraphe 241(3) prévoit cependant que cette règle ne s’applique pas aux « procédures judiciaires ayant trait à l’application ou à l’exécution de la [...] loi [...] ». Il vaut mieux laisser cette question au juge du procès.
+Article 53 des Règles [33] Je me pencherai maintenant sur l’article 53 des Règles, qui dispose ce qui suit :
+53(1) La Cour peut, de son propre chef ou à la demande d’une partie, radier un acte de procédure ou tout autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour;
+d) ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel.
+(2) Aucune preuve n’est admissible à l’égard d’une demande présentée en vertu de l’alinéa (1)d).
+(3) À la demande de l’intimé, la Cour peut casser un appel si :
+a) elle n’a pas compétence sur l’objet de l’appel;
+b) une condition préalable pour interjeter appel n’a pas été satisfaite;
+c) l’appelant n’a pas la capacité juridique d’introduire ou de continuer l’instance.
+[34] En ce qui concerne une décision récente, Métrobec Inc. c. La Reine, 2019 CCI 250 (« Métrobec ») citée par la Couronne, l’appelante avait présenté une requête en radiation de certains paragraphes de la réponse à l’avis d’appel. Au paragraphe 13, la juge D’Auray a observé que « [l]e critère applicable en matière de radiation de passages [...] aux termes de l’article 53 des Règles consiste à rechercher s’il est évident et manifeste que les passages controversés de l’acte de procédure n’ont aucune chance de succès ».
+[35] La juge D’Auray a ensuite ajouté que « [l]e critère du caractère “évident et manifeste” est reconnu de façon générale et depuis longtemps [...] comme celui qui s’applique aux requêtes en radiation » et que, dans la décision Sentinel Hill Productions (1999) Corporation c. La Reine, 2007 CCI 742 (« Sentinell Hill »),le juge Bowman (tel était alors son titre) avait observé au paragraphe 4 :
+a) Les faits allégués dans l’acte de procédure contesté doivent être considérés comme exacts sous réserve des limites énoncées dans l’arrêt Operation Dismantle Inc. c. Canada, [1985] 1 R.C.S. 441, à la page 455. Il n’est pas loisible à la partie qui attaque un acte de procédure en application de l’article 53 des Règles de contester des assertions de fait.
+b) Pour qu’un acte de procédure soit radié, en tout ou en partie, en vertu de l’article 53 des Règles, il doit être évident et manifeste que la position qui est prise n’a aucune chance de succès. Il s’agit d’un critère rigoureux, et il faut faire preuve d’énormément de prudence en exerçant le pouvoir conféré en matière de radiation d’un acte de procédure.
+c) Le juge des requêtes doit éviter d’usurper les fonctions du juge du procès en tirant des conclusions de fait ou en se prononçant sur la pertinence. Ces questions doivent être laissées à l’appréciation du juge qui entend la preuve.
+[Non souligné dans l’original.]
+[36] Au paragraphe 16, la juge D’Auray a tiré la conclusion selon laquelle « une allégation dans une procédure sera déterminée non pertinente seulement si, au premier abord, il ne fait aucun doute que l’allégation est non pertinente. S’il y a un doute quant à la pertinence de l’allégation, il est plus sage de ne pas radier l’allégation ». Elle a ajouté qu’« un paragraphe ou une partie d’un paragraphe ne sera radié d’un acte de procédure que s’il est évident et manifeste que les faits allégués ne révèlent aucune cause raisonnable. Dans le cas de doute, il vaut mieux laisser la détermination de la pertinence des faits au juge du procès qui, contrairement au juge présidant la requête, aura accès à l’ensemble de la preuve » (au paragraphe 17).
+Requête(s) en radiation [37] L’appelant demande la radiation des alinéas 27f) à p) de la réponse à l’avis d’appel dans le dossier de la Cour no 2020-1237 et des alinéas 26c) à m) dans le dossier de la Cour no 2020-1240. Même si la numérotation est différente, les allégations elles, sont pratiquement identiques.
+[38] Dans le cadre des requêtes en radiation, l’appelant a préparé une grille ou un tableau qui résume ses arguments, soit que : [traduction] (i) l’allégation pourrait retarder ou compromettre l’audition des appels; (ii) l’allégation vise à impliquer indûment des tiers; (iii) l’allégation pourrait indûment fournir des renseignements fiscaux sur des tiers; ou encore (iv) l’allégation dénaturera inutilement le débat.
+[39] En général, je note qu’en établissant les cotisations, le ministre a tenu pour acquis que l’appelant et certains membres de sa famille s’étaient lancés dans le secteur du développement immobilier et qu’ils contrôlaient les sociétés qui participaient à la gestion des services de construction et à la construction même des immeubles. Deuxièmement, le ministre a tenu pour acquis que le terrain vacant sur lequel un immeuble était construit était inscrit au nom de différentes sociétés et que les administrateurs de droit de ces sociétés étaient des membres de la famille Basal.
+[40] Troisièmement, le ministre a tenu pour acquis qu’il y avait un mode opératoire ou un stratagème, sans toutefois employer ces termes, par lequel les sociétés feraient valoir qu’elles avaient des difficultés financières afin de faciliter une vente en justice des biens. Le terrain et l’immeuble ont alors été acquis du syndic de faillite par les sociétés contrôlées par l’appelant ou des membres de sa famille. Dans tous les cas, le créancier hypothécaire de premier rang a été en mesure d’obtenir les sommes qui lui étaient dues. Le ministre soutient que ces mesures ont été prises dans le but de contrarier les projets des créanciers non garantis, y compris l’Agence du revenu du Canada.
+Alinéa 27f) / Alinéa 26c) [41] Je commencerai par l’alinéa 27f) du dossier de la Cour no 2020-1237 et l’alinéa 26c) du dossier de la Cour no 2020-1240, qui font référence à la « famille Ronen », soit la famille Basal, qui comprend ses parents Barush Basal et Judith Basal et leurs enfants, à savoir l’appelant lui-même et son frère Shay Basal.
+[42] L’appelant soutient que les cotisations en question ont été établies à son égard, à titre personnel, et que ces allégations visent à impliquer indûment des tiers.
+[43] Selon les observations de l’intimé, l’appelant agissait de concert avec les membres de sa famille, qui étaient les administrateurs des sociétés responsables des dettes sous-jacentes, et de plusieurs autres sociétés à qui appartenait le terrain vacant sur lequel des immeubles étaient construits.
+[44] De l’avis de la Cour, ces allégations sont pertinentes, même si les membres de la famille de l’appelant peuvent être qualifiés de tiers. Comme il a été mentionné dans la décision Status-One, précitée, il faut faire preuve d’énormément de prudence en traitant avec des tiers, mais il se peut que la relation d’un appelant avec des tiers soit pertinente. De plus, selon la décision Gould, précitée, si le ministre soutient qu’il y avait stratagème, il doit nécessairement identifier les personnes qui y participent. Il est préférable de laisser au juge des faits le soin de trancher cette question.
+Alinéas 27d) et e) / Alinéas 26g) et h) [45] Ces alinéas tentent d’établir que la famille Basal jouait un rôle actif dans l’industrie du diamant avant de se lancer dans l’immobilier, et que plusieurs sociétés exerçant leurs activités dans ce domaine ont fait faillite en 2013, à la suite de la disparition de diamants valant des millions de dollars.
+[46] Selon l’appelant, ces allégations impliquent indûment des tiers, et ajoute qu’elles auront pour effet de compromettre ou de retarder indûment l’instruction équitable des appels, et finalement, qu’elles dénaturent inutilement le débat.
+[47] L’intimé soutient que cette information est disponible à partir de multiples sources accessibles au public et qu’elle n’est pas confidentielle.
+[48] La Cour est d’avis que ces allégations de fait ne sont pas pertinentes quant aux cotisations. Se fondant sur les observations du juge Bowie dans la décision Globtek, je ne vois pas comment ces faits, « une fois établis », aideront le juge du procès à déterminer si les cotisations en question sont bien fondées en fait et en droit.
+[49] La Cour convient avec l’appelant que ces allégations [traduction] « dénaturent inutilement le débat » et qu’elles auront pour effet de « compromettre ou de retarder l’instruction équitable de l’appel » au sens de l’alinéa 53(1)a) des Règles. Elles doivent être radiées.
+Alinéas 27i) et j) / Alinéas 26f) et g) [50] Dans ces alinéas, il est allégué que la famille Basal a constitué plusieurs sociétés pour démarrer ses projets immobiliers, y compris 9264, également connue sous le nom de « BSR Group ». L’actionnaire principal était une société contrôlée par Barush Basal, dont l’administratrice était Judith Basal.
+[51] Il est mentionné que 9264 a fait faillite et qu’une nouvelle société a été constituée, soit 9376-2342 Québec Inc, également connue sous la dénomination sociale de Groupe BSR. Cette société a pris en charge les activités de 9264, à titre d’entrepreneur général de projets, comportant des bâtiments situés sur le terrain appartenant aux sociétés liées.
+[52] Le ministre a alors indiqué que plusieurs sociétés liées étaient propriétaires du terrain sur lequel un immeuble a été construit par BSR Group. Le ministre énumère vingt-neuf sociétés dont l’appelant ou l’un des membres de la famille Basal sont administrateurs. Plus précisément, l’appelant a fait l’objet d’une cotisation en application du paragraphe 323(1) à l’égard de certaines sociétés incluses dans cette liste.
+[53] L’appelant fait valoir encore une fois que ces allégations impliquent indûment des tiers, et qu’elles compromettront ou retarderont l’instruction équitable de l’appel. Il ajoute que ces allégations dénaturent inutilement la controverse.
+[54] La Cour rejette ces prétentions et conclut que ces allégations de fait sont pertinentes puisqu’elles étayent la thèse du ministre selon laquelle il y avait un mode opératoire ou un stratagème permettant à ces sociétés de se soustraire à leurs dettes fiscales.
+[55] La Cour est d’avis qu’il est préférable de laisser au juge qui entendra l’ensemble de la preuve la question de l’analyse de la pertinence de ces allégations.
+Alinéa 27k) / Alinéa 26h) [56] Il est allégué que « les sociétés » doivent des arriérés de taxes, dont la TPS/TVQ, pour une somme dépassant 30 millions de dollars.
+[57] L’appelant soutient que cette allégation pourrait retarder ou compromettre l’audition des appels, qu’elle tente d’impliquer indûment des tiers, qu’elle pourrait indûment fournir des renseignements fiscaux sur des tiers et que les allégations dénatureront inutilement le débat.
+[58] La Cour est d’avis que ces allégations sont vagues et non pertinentes, et qu’elles n’aideront pas le juge du procès à déterminer si les cotisations en question sont bien fondées en fait et en droit.
+Alinéas 27l) à p) / Alinéas 26i) à m) [59] Les six prochains alinéas font état de faits allégués relatifs au stratagème ou au mode opératoire. Il est indiqué que : [traduction] (i) Rompsen Investment Corporation est le créancier principal des divers projets et détient une hypothèque ouverte et des garanties sur les sociétés en question et les actifs de la famille Basal; (ii) les dépenses relatives à la construction d’un immeuble sont engagées, et les CTI connexes sont réclamés tous les trois mois; (iii) la société qui détient le titre de propriété prétend par la suite être en difficulté financière; iv) l’autorisation du tribunal est obtenue pour la vente en justice des biens à une société nouvellement constituée appartenant toujours à la même personne; v) la société, ne détenant plus aucun actif, déclare faillite; vi) le créancier principal reprend ou maintien sa réclamation à l’égard du terrain et, en conséquence; vii) les créanciers non garantis, y compris les autorités fiscales sont incapables de recouvrer les sommes qui leur sont dues.
+[60] La Cour conclut qu’il est convient de laisser à l’appréciation du juge du procès cette description générale du stratagème ou du mode opératoire et l’identité des parties qui y ont participé.
+[61] Toutefois, l’alinéa 26k) du dossier de la Cour no 2020-1240 et l’alinéa 26n) du dossier de la Cour no 2020-1237 font état de conclusions de droit qui ne sont pas à proprement parler des allégations ou des hypothèses de fait. Ces alinéas doivent être radiés.
+[62] L’appelant soutient que toutes ces allégations pourraient retarder ou compromettre l’audition des appels et qu’elles tentent d’impliquer indûment des tiers. L’appelant fait également valoir que ces allégations pourraient indûment fournir des renseignements fiscaux sur des tiers et qu’elles dénatureront inutilement le débat.
+[63] À l’exception des alinéas qui renferment des conclusions de fait, la Cour abonde dans le sens de l’intimé : ces allégations sont pertinentes quant à l’ensemble du contentieux, y compris la question du stratagème. La Cour conclut qu’il n’est pas évident et manifeste que ces allégations devraient être radiées, car elles permettent à l’appelant de mieux comprendre la thèse de l’intimé et permettront au juge du procès de parvenir à une conclusion sur la validité des cotisations en question.
+Conclusion [64] Compte tenu de ce qui précède, la Cour ordonne la radiation des alinéas suivants :
+– Appel 2020-1240, alinéas 26d), e), h) et k);
+– Appel 2020-1237, alinéas 27g), h), k) et l);
+[65] L’intimé disposera d’un délai de 30 jours pour déposer une réponse modifiée à l’avis d’appel. Les dépens sont laissés à la discrétion du juge du procès.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2022.
+« Juge Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 20e jour d’octobre 2023.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022 CCI 154
+NOS DES DOSSIERS DE LA COUR :
+2020-1237(GST)G
+2020-1240(GST)G
+INTITULÉ :
+RONEN BASAL c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Ottawa, Canada
+DATE DE L’AUDIENCE :
+Le 12 mai 2022
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge Guy R. Smith
+DATE DE L’ORDONNANCE :
+Le 30 novembre 2022
+COMPARUTIONS :
+Avocats de l’appelant :
+Me Jean-François Dorais
+Me Arnaud Prud’Homme
+Avocate de l’intimé :
+Me Julie Dilli
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Noms :
+Me Jean-François Dorais Me Arnaud Prud’Homme
+Cabinet :
+Lapointe Rosenstein Marchand Melançon
+Montréal (Québec)
+Pour l’intimé :
+François Daigle Sous-procureur général du Canada Ottawa, Canada

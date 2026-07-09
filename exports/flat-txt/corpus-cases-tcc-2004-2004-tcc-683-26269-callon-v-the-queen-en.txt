@@ -1,0 +1,181 @@
+Title: Callon v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26269/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-683-26269-callon-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-10-20
+
+# Callon v. The Queen
+
+- Citation: 2004 TCC 683
+- Decision date: 2004-10-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4000, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Callon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-20
+Neutral citation
+2004 TCC 683
+File numbers
+2004-1050(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1050(IT)I
+BETWEEN:
+TAMERA CALLON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 16, 2004 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+John Grant
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2000 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of October, 2004.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2004TCC683
+Date: 20041020
+Docket: 2004-1050(IT)I
+BETWEEN:
+TAMERA CALLON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The basic facts and the issue arising in this appeal are adequately described in paragraphs 5 to 13 of the Respondent's Reply. These paragraphs read as follows:
+5. The Minister of National Revenue (the "Minister") initially assessed the Appellant's tax liability for the 2000 taxation year, Notice of which is dated July 22, 2002.
+6. The Appellant's total income initially assessed was $39,000.00 as reported by the Appellant as spousal support payments received.
+7. The Minister reassessed the Appellant for the 2000 taxation year Notice of which is dated April 10, 2003.
+8. In computing income for the 2000 taxation year, the Minister reassessed the Appellant's tax liability to include additional income of $30,000.00 (the "Amount") in the year pursuant to section 56(1)(b) of the Income Tax Act R.S.C. 1985 c. 1 (5th Supplement), as amended (hereinafter "the Act"), on the basis that this Amount constituted spousal support received by the Appellant.
+9. The Appellant was also reassessed to include applicable interest and late-filing penalties.
+10. The Appellant objected to the reassessment by letter dated April 22, 2003.
+11. The reassessment dated April 10, 2003 was confirmed by the Minister by Notification of which is dated December 23, 2003.
+12. In so confirming the reassessment, the Minister relied on the following assumptions:
+a) the Appellant was living separate and apart from her husband, Thomas Callon throughout the 2000 year.
+b) pursuant to an Order of the Honourable Justice O'Connell of the Ontario Court (General Division) dated August 12, 1998, the Appellant was to receive spousal support of $6,500.00 per month commencing September 1, 1998.
+c) pursuant to Minutes of Settlement and to a Judgment of the Honourable Justice Campbell of the Ontario Superior Court of Justice dated June 20, 2000, the spousal support payments were reduced to $5,000.00 per month, commencing July 1, 2000.
+d) the payments made pursuant to the June 20, 2000 Judgment were to continue until the death of the appellant's spouse and were to be indexed at 2% per annum commencing July 1, 2001.
+e) pursuant to the terms of the Order dated August 12, 1998 and the Judgment dated June 20, 2000, the Appellant received $69,000.00 spousal support payments from her husband during the 2000 taxation year;
+f) the Appellant included spousal support payments in the amount of $39,000.00 as income; and
+g) the Appellant did not include the Amount ($30,000.00) as income.
+B. ISSUES TO BE DECIDED
+13. The issue to be decided is whether the Amount received by the Appellant in the 2000 taxation year is to be included in computing income.
+Submissions of the Appellant
+[2] The Appellant submits that since she and her husband had agreed prior to the Judgment dated June 20, 2000 that $30,000.00 of the total of $69,000.00 spousal support payments was not to be included in the Appellant's income, therefore it should not be so included and that she was correct in only declaring the spousal support payments in the amount of $39,000.00. The Appellant submits further that because of assurances from her daughter and her attorney and the "judiciary" she was satisfied that the $39,000.00 was free of tax and therefore agreed to sign the Minutes of Settlement on June 20, 2000 which led to the Judgment of the same date. The said Judgment which is annexed to the Notice of Appeal reads as follows:
+Court File No. 96-MC-2339
+ONTARIO
+SUPERIOR COURT OF JUSTICE
+THE HONOURABLE
+TUESDAY, THE 20th DAY
+MR. JUSTICE CAMPBELL
+OF JUNE, 2000
+BETWEEN
+TAMERA CALLON
+Plaintiff (Wife)
+- and -
+THOMAS PETER CALLON
+Defendant (Husband)
+JUDGMENT
+THIS ACTION was heard this day in the presence of counsel for the Defendant, the Plaintiff appearing in person.
+ON READING the pleadings and hearing the evidence and on reading the Minutes of Settlement filed:
+1. THIS COURT ORDERS AND ADJUDGES under the Family Law Act that the Plaintiff shall pay to the Defendant an equalization payment of $200,000.00. This payment shall be made in two parts:
+(a) on or before August 31, 2000, in the sum of $100,000;
+(b) on or before March 31, 2001, $100,000 plus interest at 6% to be capitalized. The Defendant shall be entitled to register a second mortgage to secure the payment in 1(b) against 37 Pitcairn Crescent in the City of Toronto("the matrimonial home) provided that the first mortgage on the matrimonial home does not exceed $175,000, $100,000 of which shall be used to make the payment in 1(a). The second mortgage is to be registered only after the Plaintiff registers a new first mortgage of $175,000.
+2. THIS COURT ORDERS AND ADJUDGES that both parties shall execute all documents required to effect registration of the mortgage, immediately.
+2.(sic) THIS COURT ORDERS AND ADJUDGES under the Family Law Act that on June 30, 2000 the interim spousal support shall terminate. On July 1, 2000, the Defendant shall pay to the Plaintiff spousal support of $5,000.00 per month until the Defendant dies. The spousal support payments shall be indexed annually at 2% per year, commencing July 1, 2001.
+3. THIS COURT ORDERS AND ADJUDGES under the Family Law Act that each party shall retain all property in his or her possession or control, including the Plaintiff's right to retain the matrimonial home and contents with the exception of those items listed in Schedule "A" to this Judgment which the Plaintiff shall make a available for retrieval by the Defendant, immediately.
+4. THIS COURT ORDERS AND ADJUDGES under the Family Law Act that the Defendant shall vacate, immediately, any matrimonial home designation that he has registered against the property.
+5. THIS COURT DECLARES that the Judge's Annuity benefits are vested in the Plaintiff.
+6. THIS COURT ORDERS AND ADJUDGES that this court shall not grant a Divorce Judgment unless satisfied that the Plaintiff shall continue to receive the survivor benefits of the Judge's Annuity after the granting of the Divorce Judgment.
+7. THIS COURT ORDERS AND ADJUDGES that each party shall bear his or her own costs of this action.
+8. THIS COURT ORDERS AND ADJUDGES that this Judgment binds the parties' estates.
+9. THIS COURT ORDERS AND ADJUDGES that unless the Support Order is withdrawn from the offices of the Director of the Family Responsibility Office, it shall be enforced by the Director and amounts owing under the Support Order shall be paid to the Director, who shall pay them to the person to whom they are owed.
+10. THIS JUDGMENT BEARS INTEREST at the rate of 5% per year commencing on June 20, 2000.
+Creditor:
+Tamera Callon
+37 Pitcairn Crescent
+North York, Ontario
+M4A 1P5
+Debtor:
+Mr. Thomas Callon
+955 Avenue Road Lower
+Toronto, Ontario
+M5P 2K9
+Submissions of Counsel for the Respondent
+[3] Counsel for the Respondent submits that notwithstanding any agreement between the Appellant and her husband or the assurances mentioned above as to the $30,000.00 being non-includable in her income, nevertheless it is the Income Tax Act that governs and which provides that all support payments of the nature involved in this appeal are to be included in income notwithstanding any agreement or assurances.
+[4] Counsel for the Respondent referred to the following decisions all of which are substantially to the same effect, namely: R. v. Sigglekow, [1985] 2 C.T.C. 251 (F.C.T.D.), Arshinoff v. Canada, [1994] 1 C.T.C. 2850 (T.C.C.), Bates v. R., [1998] 4 C.T.C. 2743 (T.C.C.), Beaulieu v. Canada, [2001] T.C.J. No. 718 (T.C.C.). Counsel also referred to sections 3 and 56.1, and paragraph 56(1)(b) of the Income Tax Act, R.S.C., 1985, c.1 (5th Supp.), as amended.
+[5] The cases noted above are substantially similar in their result which in essence is, that notwithstanding the terms of the Order or Judgment as to the amounts in question being not subject to tax in the hands of the recipient, the Order or Judgment cannot override the provisions of the Income Tax Act, which specifically indicates that support or maintenance payments are subject to income tax in the hands of the recipient.
+[6] The following extracts from the Bates appeal, a 1998 decision of Mogan, T.C.J. are perhaps the best summary of the considerations involved. The Bates appeal dealt with child support payments but the same conclusions apply to support payments to a consort. Also in the Bates appeal, although there was doubt as to whether the Order of the Senior Master, Sedgwich clearly indicated the payments were to be free of tax, Mogan J. made the following analysis on the basis that the Order be considered as having so indicated.
+7 According to the pleadings in this appeal, the Minister of National Revenue ("M.N.R.") relies on paragraphs 56(1)(b) and 56(1)(c) of the Income Tax Act. Paragraph 56(1)(b) states:
+56(1) Without restricting the generality of section 3, there shall be included in computing the income of a taxpayer for a taxation year,
+...
+(b) any amount received by the taxpayer in the year, pursuant to a decree, order or judgment of a competent tribunal or pursuant to a written agreement, as alimony or other allowance payable on a periodic basis for the maintenance of the recipient thereof, children of the marriage, or both the recipient and children of the marriage, if the recipient was living apart from, and was separated pursuant to a divorce, judicial separation or written separation agreement from, the spouse or former spouse required to make the payment at the time the payment was received and throughout the remainder of the year;
+In paragraph 13 of the ASF [Agreed Statement of Facts], the Wife recognizes that:
+(a) the child support payments were received pursuant to an interim order of a tribunal with the jurisdiction to order such payments;
+(b) the child support payments were received as an allowance payable on a periodic basis for the maintenance of the children of the marriage;
+(c) throughout the 1993 taxation year, the Wife was living apart from the husband who was required to make the payments at the time the payments were made;
+(d) throughout the 1993 taxation year, the Wife was separated pursuant to a divorce, judicial separation or written separation agreement from the Husband who was required to make the payments at the time the payments were made.
+...
+13 Can the order of the Senior Master bind the M.N.R.? In my opinion, it cannot. In Sigglekow v. The Queen, 85 D.T.C. 5471, a Decree Nisi required a husband to pay to his wife the sum of $20.00 every week "tax-free". In computing her income, the wife did not include such $20.00 payments. When deciding the income tax appeal against the taxpayer wife, Jerome A.C.J. stated at page 5473:
+It is consistent throughout both the Trial Judgment and the Judgment of the Court of Appeal in Sills that the liability for tax does not spring from a separation agreement or a Court Order. Section 56 provides that moneys received must be included as income.
+...
+In the present case, the matter is even clearer because Mr. Sigglekow made the payments in precise compliance with a Court Order, except of course for any sums referable to the words "tax free" which he understandably chose to ignore. On the reasoning of the Federal Court of Appeal in the Sills case, there could be no question that such sums actually received by the Defendant fall precisely within the terms of section 56 and should, therefore, have been included in her income for the 1975, 1976 and 1977 taxation years. That was the basis of the Minister's reassessment which, in my view, was entirely correct.
+In my view, Jerome A.C.J. has correctly summarized the law when he states that the liability for tax does not spring from a separation agreement or a Court Order. The liability for tax is determined by the provisions of the Income Tax Act and, more particularly, by section 56.
+14 There are other cases to support the proposition that the order of the Senior Master cannot bind the M.N.R.. In Arshinoff v. The Queen, [1994] 1 C.T.C. 2850, a wife appealed claiming that certain payments received from her separated husband should not be included in the computation of her income. In Arshinoff, the Master of the Supreme Court of Ontario had issued an order which contained the following term:
+THIS COURT ORDERS that the petitioner shall pay to the respondent, pending a further return of this motion following cross-examination of the parties, interim support in the sum of $5,000 per month, excluding tax, commencing September 1, 1989.
+Relying on the above term, the wife claimed that any amount received from her husband should be free of tax. Arshinoff was heard by my colleague, Brulé J. who reviewed the facts and made the following statement after referring to the terms of certain orders issued by judges and other officers of the Ontario Courts:
+... If their intention was that the appellant receive $5,000 net of tax, then the order for support should have been grossed up to ensure that she would in fact receive $5,000 net per month. The fact that the order was made "excluding tax" cannot bind the Minister who is entitled to reassess the appellant for any amount received as support pursuant to an order of a competent tribunal. Once the conditions enumerated in paragraph 56(1)(c) have been met, the appellant must include the amounts in question in the computation of her income.
+15 Another similar case is Halligan v. The Queen, [1996] 2 C.T.C. 2555 in which my colleague, Sarchuk J. was required to consider whether certain payments received pursuant to a divorce decree issued by a court in the State of Georgia (USA) were to be included in computing the income of the recipient who later resided in Canada. In deciding the case against the taxpayer, Sarchuk J. stated at page 2560:
+In the course of her argument, the Appellant also questioned whether the Decree was issued by a competent tribunal within the meaning of paragraph 56(1)(b) of the Income Tax Act. ... The Appellant now says that she was not referring to the competency of the Georgia Court to grant the divorce, but rather the competency of that Court to consider the effect of the provisions of the Income Tax Act regarding child support. She is no doubt correct that it was not a matter that the Georgia Court would have concerned itself with since it was not relevant to that proceeding. But that is of little assistance to her cause since what facts the Georgia Court may have considered or was entitled to consider in granting the Decree is not germane to my determination of whether the maintenance payments received by the Appellant in 1990 and 1991 were properly included in her income by the Minister.
+16 The superior court of any province has jurisdiction to order payments for the maintenance of a spouse or children upon the break-up of a marriage. That jurisdiction does not include the authority to determine the character of those payments as being taxable or tax-free for purposes of the Income Tax Act. Once the superior court of a province has ordered maintenance payments on a marriage break-up, the character of those payments as taxable or not taxable will be determined by the conditions in paragraphs 56(1)(b) and 56(1)(c) of the Income Tax Act. If I had any doubt concerning separate jurisdictions with respect to ordering maintenance payments and determining the tax character of such payments, I would rely on the following statements of Cory J. and Iacobucci J. in the Queen v. Thibaudeau, 95 D.T.C. 5273 at 5275:
+In the present appeal, ss. 56(1)(b) and 60(b) of the Income Tax Act are triggered by the issuance of a support order pursuant to the Divorce Act, R.S.C. 1970, c. D-8. Accordingly, the taxation provisions operate in close conjunction with family law. The amount of income taxable under ss. 56(1)(b) and 60(b) is determined by the divorce or separation decree and, unless the family law system operates in a defective manner, the amount of child support will include grossing-up calculations to account for the tax liability that the recipient ex-spouse shall incur on the income. If there is any disproportionate displacement of the tax liability between the former spouses (as appears to be the situation befalling Ms. Thibaudeau), the responsibility for this lies not in the Income Tax Act, but in the family law system and the procedures from which the support orders originally flow. This system provides avenues to revisit support orders that may erroneously have failed to take into account the tax consequences of the payments. Therefore, in light of the interaction between the Income Tax Act and the family law statutes, it cannot be said that s. 56(1)(b) of the Income Tax Act imposes a burden upon the respondent within the meaning of s. 15 jurisprudence.
+[7] This decision and the other decisions referred to therein apply a fortiori to the present appeal, because in the present appeal neither the Minutes of Settlement nor the Judgment, both dated June 20, 2000 make any reference to the payments in question being tax free. All that exists is the alleged agreement between the Appellant and her separated husband and the assurances mentioned above as to the payments being free of tax. If a Judgment of a competent tribunal declaring the spousal payments to be free of tax is not sufficient, surely the mere agreement and assurances mentioned above are not sufficient to render the payments free of tax.
+[8] For all of the above reasons the appeal is dismissed. There has been some reference to interest and penalties. I have no jurisdiction with respect to interest but if the matter has been or will be referred to the fairness committee I would, because of the obvious innocence of the Appellant and her good faith reliance on the agreement with her separated husband making the payments free of tax, strongly recommend that that committee waive payment of interest. As to penalty, I have jurisdiction and because of the foregoing circumstances, I rule that there shall be no penalty.
+Signed at Ottawa, Canada, this 20th day of October, 2004.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC683
+COURT FILE NO.:
+2004-1050(IT)I
+STYLE OF CAUSE:
+Tamera Callon and H.M.Q.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 16, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+October 20, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

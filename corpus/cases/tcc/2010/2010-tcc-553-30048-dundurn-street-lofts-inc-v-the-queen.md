@@ -1,0 +1,214 @@
+---
+title: "Dundurn Street Lofts Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30048/index.do"
+last_modified: "2010-10-28"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 553"
+citation2: ""
+neutral_citation: "2010 TCC 553"
+decision_date: "2010-10-28"
+language: "en"
+item_id: "30048"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7700
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:54:02.850000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "cd40e57b0a67bd30a0806f0e524522820ae2fc14f88f1cff95afe4fc38826c58"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dundurn Street Lofts Inc. v. The Queen
+
+- Citation: 2010 TCC 553
+- Decision date: 2010-10-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7700, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dundurn Street Lofts Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-28
+Neutral citation
+2010 TCC 553
+File numbers
+2005-2906(GST)G, 2005-2908(GST)G
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2005-2906(GST)G
+BETWEEN:
+DUNDURN STREET LOFFTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard together with the motion of Alexander Street
+Lofts Development Corporation Inc. (2005-2908(GST)G)
+on February 22, 2010, at Hamilton, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Adam Stelmaszynski
+Counsel for the Respondent:
+Suzanie Chua
+Gatien Fournier
+____________________________________________________________________
+ORDER
+By virtue of the application of issue estoppel, the Appellant will not be permitted to take the position that its net tax for the period from January 27, 1998 to January 31, 1999 was less than $198,959, nor will it be allowed to take the position that penalties should not apply to that amount.
+Costs in the amount of $1,750 will be payable by the Appellant to the Respondent.
+Signed at Ottawa, Canada, this 28th day of October 2010.
+« Réal Favreau »
+Favreau J.
+Docket: 2005-2908(GST)G
+BETWEEN:
+ALEXANDER STREET LOFTS
+DEVELOPMENT CORPORATION INC.,
+Appellant
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard together with the motion of
+Dundurn Street Loffts Inc. (2005-2906(GST)G)
+on February 22, 2010, at Hamilton, Ontario.
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Adam Stelmaszynski
+Counsel for the Respondent:
+Suzanie Chua
+Gatien Fournier
+____________________________________________________________________
+ORDER
+By virtue of the application of issue estoppel, the Appellant will not be permitted to take the position that its net tax for the period from December 17, 1996 to January 31, 1999 was less than $503,687, nor will it be allowed to take the position that penalties should not apply to that amount.
+Costs in the amount of $1,750 will be payable by the Appellant to the Respondent.
+Signed at Ottawa, Canada, this 28th day of October 2010.
+« Réal Favreau »
+Favreau J.
+Citation: 2010 TCC 553
+Date: 20101028
+Dockets: 2005-2906(GST)G
+2005-2908(GST)G
+BETWEEN:
+DUNDURN STREET LOFFTS INC.,
+ALEXANDER STREET LOFTS DEVELOPMENT CORPORATION INC.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Favreau J.
+[1] The Crown has brought, in the tax appeals of the Appellants, motions pursuant to paragraph 58(1)(a) of the Tax Court of Canada Rules (General Procedure) (the "Rules") asserting, among other things, that the doctrine of issue estoppel or abuse of process should apply to prevent relitigation of the case. The possible application of issue estoppel and abuse of process arises out of earlier convictions of the Appellants and Mr. Adam Stelmaszynski, before a judge and jury, on two counts of fraud and two counts of attempted fraud in relation to the Goods and Services Tax ("GST") that was the subject of the reassessments.
+I. The Facts
+A. The Tax Appeals
+[2] In 2005, the Appellants instituted appeals in this Court in respect of the following reassessments made under Part IX of the Excise Tax Act, R.S.C., 1985 c. E-15, as amended (the "ETA"):
+(i) for Dundurn Street Loffts Inc., the notice of reassessment bearing number 08GP0101671 and dated December 7, 2000, for the period from January 27, 1998 to January 31, 1999, of net tax of $198,959.54, interest of $24,882.86 and penalties of $79,326.50;
+(ii) for Alexander Street Lofts Development Corporation Inc., the notice of reassessment bearing number 08GP0101670 and dated December 7, 2000, for the period from December 17, 1996 to January 31, 1999, of net tax of $503,687.05, interest of $74,349.80 and penalties of $217,046.72;
+These reassessments (together hereinafter referred to as the "Reassessments") total $702,646 in net tax. Essentially, the Minister of National Revenue (the "Minister") alleges that the input tax credits ("ITCs") were improperly claimed.
+B. The Criminal Conviction
+[3] On July 16, 2004, the Appellants and Mr. Adam Stelmaszynski were charged in a four-count indictment. The first two counts charged that Alexander Street Lofts Development Corporation Inc. and Mr. Stelmaszynski, an officer, director or agent of the Alexander Street Lofts Development Corporation Inc., between December 16, 1996 and December 2, 1998 unlawfully did wilfully obtain refunds pursuant to the ETA by claiming false ITCs in the GST returns of Alexander Street Lofts Development Corporation Inc. for the monthly reporting periods covering the period from December 17, 1996 to November 30, 1998 inclusive and thereby obtained GST refunds in the amount of $474,818.28, thereby committing an offence contrary to paragraph 327(1)(d) of the ETA (Count 1), and that, between November 30, 1998 and March 6, 1999, they unlawfully did wilfully attempt to obtain refunds pursuant to the ETA by claiming false ITCs in the GST returns of Alexander Street Lofts Development Corporation Inc. for the monthly reporting periods ending December 31, 1998 and January 31, 1999 and thereby attempted to obtain GST refunds in the amount of $28,868.77, thereby committing an offence contrary to paragraph 327(1)(d) of the ETA (Count 2).
+[4] The other two counts, charged that Dundurn Street Loffts Inc. and Adam Stelmaszynski, an officer, director or agent of Dundurn Street Loffts Inc., between January 26, 1998 and December 28, 1998 unlawfully did wilfully obtain refunds pursuant to the ETA by claiming false ITCs in the GST returns of Dundurn Street Loffts Inc. for the monthly reporting periods covering the period from January 27, 1998 to December 31, 1998 inclusive and thereby obtained GST refunds in the amount of $196,460.54, thereby committing an offence contrary to paragraph 327(1)(d) of the ETA (Count 3), and that, between December 31, 1998 and March 6, 1999, they unlawfully did wilfully attempt to obtain refunds pursuant to the ETA by claiming false ITCs in the GST returns of Dundurn Street Loffts Inc. for the monthly reporting period ending January 31, 1999 and thereby attempted to obtain GST refunds in the amount of $2,499, thereby committing an offence contrary to paragraph 327(1)(d) of the ETA (Count 4). The counts are hereinafter collectively referred to as the "Indictments".
+[5] The Appellants and Mr. Stelmaszynski pleaded not guilty to the charges. On October 27, 2004, after a 17-day trial, the jury unanimously declared the Appellants and Mr. Stelmaszynski guilty on all four counts. On May 11, 2005, Mr. Stelmaszynski was sentenced to a period of incarceration of 30 months on each count to run concurrently and the three accused were fined jointly a total amount of $702,646.59, which corresponds to 100% of the GST rebates paid to or sought by Mr. Stelmaszynski on behalf of the Appellants.
+[6] By Notice of Appeal dated May 6, 2005 filed in the Court of Appeal for Ontario, Mr. Stelmaszynski appealed his conviction for offences against paragraph 327(1)(d) of the ETA. The grounds of appeal against the conviction were the following:
+(a) The learned trial Judge erred in law by instructing the jury to approach the evidence in a manner contrary to the burden of proof and the jurisprudence following R. v. W. (D.);
+(b) The learned trial Judge's charge to the jury failed to review the evidence in a balanced way;
+(c) The learned trial Judge erred by failing to entertain a Motion to Stay the proceedings post-verdict on the basis of officially induced evidence;
+(d) The Appellant was denied his right to full answer and defence by virtue of non-disclosure of relevant evidence in the possession of the Crown;
+(e) Such further and other grounds as counsel may advise and this Honourable Court permit.
+[7] Mr. Stelmaszynski was initially represented by counsel on the appeal and his counsel filed a factum. At some point, Mr. Stelmaszynski dismissed his counsel and filed his own factum. The Court of Appeal considered the grounds of appeal advanced in both Mr. Stelmaszynski's and his counsel's facta. Neither counsel for Mr. Stelmaszynski in her factum nor Mr. Stelmaszynski in his own factum took issue with the quantum of the fine. As it was accepted at trial that there was no realistic possibility that the fine could be paid, the amount of the fine appeared to be of no practical consequence.
+[8] In a unanimous decision dated April 24, 2007, the Court of Appeal dismissed the conviction appeal, granted leave to appeal the sentence and dismissed the sentence appeal.
+[9] The Appellants and Mr. Stelmaszynski filed for leave to appeal to the Supreme Court of Canada. On December 6, 2007, the Supreme Court of Canada granted the application for an extension of time but dismissed the other ancillary motions and the application for leave to appeal the judgment of the Court of Appeal for Ontario, Number C43485, 2007 ONCA 309, dated April 24, 2007.
+II. Positions of the Parties
+A. The Crown
+[10] It is the Crown's position that the doctrine of issue estoppel should apply to the Appellants and to Mr. Stelmaszynski in respect of the improper claims for ITCs. The Crown maintains that the three preconditions established by the Supreme Court of Canada in Angle v. Minister of National Revenue, [1975] 2 S.C.R. 248 have been met. The Appellants' and Mr. Stelmaszynski's convictions are final and the parties in the criminal proceedings and the tax appeals are the same. The issues in the tax appeals and the criminal proceedings are also identical in that they pertain to the same periods and concern the same issue, i.e., the Appellants' ITCs claimed in their GST returns.
+[11] The combined total for Counts 1 and 2 in respect of Alexander Street Lofts Development Corporation Inc. is $503,687.05, which is the assessed amount in the reassessment issued against Alexander Street Lofts Development Corporation Inc.
+[12] The combined total for Counts 3 and 4 in respect of Dundurn Street Loffts Inc. is $198,959.54, which is the assessed amount in the reassessment issued against Dundurn Street Loffts Inc.
+[13] The aggregate for all four counts in the Indictments equals the aggregate of the Reassessments, i.e. $702,646.59
+[14] The periods at issue stated in the Indictments for each Appellant exactly match the assessment periods in each of the Reassessments. As regards Counts 1 and 2 in the Indictments which pertained to Alexander Street Lofts Development Corporation Inc., the period from December 17, 1996 to November 30, 1998 was relevant to the committed offence and the monthly reporting periods ending December 31, 1998 and January 31, 1999 were relevant to the attempted offence. Together, Counts 1 and 2 related to the period from December 17, 1996 to January 31, 1999, which is that stated in the reassessment of Alexander Street Lofts Development Corporation Inc. As regards Counts 3 and 4 in the Indictments, which pertained to Dundurn Street Loffts Inc., the period from January 27, 1998 to December 31, 1998 was relevant to the committed offence and the monthly reporting period ending January 31, 1999 was relevant to the attempted offence. Together Counts 3 and 4 related to the period from January 27, 1998 to January 31, 1999, which is that stated in the reassessment of Dundurn Street Loffts Inc.
+[15] The Crown further contends that there is no public policy consideration in these appeals that operates against the prima facie application of doctrine of issue estoppel where the conditions enunciated by the Supreme Court of Canada in Angle, supra, have been met.
+[16] Alternatively, the Crown contends that the doctrine of abuse of process should apply to these appeals on the basis that the integrity of the adjudicative process would be violated if the tax litigation were allowed to continue.
+[17] The Crown submits that the doctrine of abuse of process can be applied where the preconditions for issue estoppel have not been met but where it would nonetheless be inappropriate, given the necessity of preserving the Court's integrity, to allow litigation on the same question to proceed.
+[18] According to the Crown, Canadian courts have applied the doctrine of abuse of process to preclude relitigation where allowing the litigation to proceed would violate the principles of judicial economy, consistency and finality, and the integrity of the administration of justice (Toronto (City) v. C.U.P.E., Local 79, [2003] 3 S.C.R. 77.
+B. The Appellants
+[19] The Appellants argued that the trial judge in the criminal case should have made a factual finding as to the quantum of the refunds to which the Appellants were not entitled. The Ontario Court of Appeal, they submitted, recognized that it would have been difficult, if not impossible, for it to make such a finding at that stage. The argument subsequently set out is that if the amounts in the criminal proceedings do not match the amounts in the reassessments, the matter of civil tax liability has not been decided and the res judicata doctrine does not apply.
+III. Analysis
+[20] In Golden v. R., [2008] 5 C.T.C. 2440, Boyle J. made the following comment concerning the application of the doctrine of issue estoppel in a tax appeal after a prior criminal tax evasion conviction:
+[25] The doctrine of issue estoppel should only be applied in a tax appeal in this Court in respect of a prior criminal tax evasion conviction in clear cases. It should not be applied indiscriminately once the preconditions are met. The Court should be satisfied that the issue of quantum in each particular taxation year was decided in the criminal proceedings.
+[21] In the instant case, I consider that the preconditions for the application of the doctrine of issue estoppel have been met in that:
+1. the same question that is now before the Court was decided by the earlier court decision and the question was fundamental to the earlier court decision;
+2. the earlier court decision was final; and
+3. there is identity of the parties to the proceedings, although Mr. Stelmaszynski is not a party to the proceedings before this Court. The Appellants were parties to the proceedings giving rise to the earlier judicial decision and are parties to the proceedings before this Court. Mr. Stelmaszynski was a party to the criminal proceedings in his capacity as director, officer or agent of the Appellants.
+[22] To determine what was decided concerning the issue of quantum in the earlier court decision, it is necessary to look at the realities of the criminal proceedings. In Van Rooy v. M.N.R., 88 DTC 6323, the Federal Court of Appeal decided it was appropriate to consider the judge's reasons for her decision.
+[23] In this particular case, it is appropriate to consider the comments made by the Ontario Court of Appeal concerning the quantum issue. The relevant portions of the Court of Appeal decision are the following paragraphs:
+[7] The evidence at trial consisted primarily of documents, including hundreds of invoices, all of which were filed on consent, Crown accounting summaries based on the documentation, the evidence of a Mr. Kleinschmidt, the lead investigator for the Canada Revenue Agency ("CRA") and the appellant's evidence detailing his attempts to acquire the properties and complete the condominium developments. Neither the Crown nor the defence went through all of the invoices with the jury.
+[11] The appellant's factum contains many grounds of appeal. None have merit and most do not require any detailed comment. The appellant submits that he should have been acquitted because the Crown did not prove that the entire amount of the refunds referred to in the indictment were in fact paid based on false invoices. In other words, the appellant argues that if the fraud was less than the amount alleged, an acquittal should follow.
+[12] The amounts alleged in each count in the indictment are not essential elements of the offences charged. The appellant was charged with wilfully obtaining or attempting to obtain refunds to which he was not entitled. The full offence and the attempt could be made out regardless of the amount of the fraudulent refunds claimed and paid, although the amount of the fraud proved can become important on sentencing.
+[27] The trial judge correctly told the jury that it could convict even if the amounts of the fraudulent invoices "do not match identically with those set out in the indictment". She told the jury that the amount of the fraudulent refunds, if the jury found the claims were fraudulent, was "a matter of law for me to deal with".
+[28] On sentencing, counsel for the Crown and the appellant proceeded on the basis that the convictions indicated that the jury was satisfied that the amounts alleged in the indictment had been proved by the Crown. The trial judge proceeded to impose sentence based on the same assumption.
+[30] In the course of oral argument, the court expressed some concern, given the nature of the Crown's allegations, the evidence adduced at trial, and the trial judge's instruction to the jury, that the trial judge should have made a factual finding as to the quantum of refunds to which the appellant was not entitled. It would be difficult, if not impossible, for this court to make that finding at this stage.
+[31] I am satisfied, however, based on the way this case was put to the jury by the Crown and the defence, that the jury's verdicts indicate that it was satisfied that over a two-year timeframe the appellant systematically made monthly refund claims based on false invoices as a way of funding his grand, but cash starved development projects. Even if not every dollar of every refund was attributable to a false invoice, the jury was clearly satisfied that the appellant perpetrated a substantial fraud on the public purse. That finding provides ample justification for the jail term imposed by the trial judge.
+[32] Neither counsel for the appellant in her factum, nor the appellant in his own factum, took issue with the quantum of the fine. The trial judge imposed the minimum fine assuming that the amounts referred to in the indictment were the proper amounts for the purpose of calculating the fine. It was accepted at trial that there was no realistic possibility that the appellant could pay the fine. The trial judge does not appear to have imposed any additional penalty, either concurrent or consecutive to the term of imprisonment should the appellant not pay the fine. The amount of the fine appears to be of no practical consequence. As the quantum of the fine was not put in issue on the appeal and appears to be of no practical consequence, I see no reason to consider the appropriateness of the fine imposed at trial.
+[24] The Ontario Court of Appeal suggested that the amounts at issue were not calculated down to the penny by the criminal trial judge and underlined the fact that the quantum issue had been raised before, and considered by, the trial court. The Court of Appeal indicated that the jury was satisfied that the amounts alleged in the Indictments had been proven by the Crown. The court noted that the jury's verdict indicated that it was satisfied that over a two‑year time frame the Appellants made monthly refund claims based on false invoices. In light of these considerations, the court did not alter the certificates of conviction. The amounts mentioned in the four counts of the Indictments stand. Since the amounts and the periods indicated in the Indictments match the amounts and periods in the reassessments, I find that issue estoppel applies to the extent of the $702,646 of net tax claimed from the Appellants in this case. I consider that the amounts in question in these appeals formed an essential and integral part of the criminal trial court's finding of guilt.
+[25] In terms of fairness, the Appellants argue that the application of the doctrine of issue estoppel to the extent of $702,646 would be unfair to them because they did not have the opportunity to contest the quantum. I do not think that the Appellants' assertion is correct considering the following statement made by the Ontario Court of Appeal in paragraph 11 of its decision: "The appellant submits that he should have been acquitted because the Crown did not prove that the entire amount of the refunds referred to in the indictment were in fact paid based on false invoices. ..." So, quantum became an issue and was duly considered by the trial court.
+[26] The Appellants' representative stated that the purpose of the appeals herein was to clear his name. This is a strange objective considering the fact that the Appellants are the two corporations and that Mr. Stelmaszynski personally has not appealed. I rather think that the real purpose of these appeals is to relitigate the criminal case. On no account, would I want to raise doubt as to the validity of the criminal conviction against the Appellant.
+[27] Failure to apply issue estoppel to the $702,646 amount would violate the principles of judicial economy, consistency and finality, and the integrity of the administration of justice. Litigation before this Court will serve no purpose at all as the Appellants have been dissolved at the CRA's request, they have no assets and are no longer carrying on business. The fine levied against the Appellants has not been paid. No public policy reason exists to refuse the application of issue estoppel.
+[28] I also find that issue estoppel applies to Dundurn Street Loffts Inc. with regard to the gross negligence penalty assessed in respect of net tax of $198,959 and to Alexander Street Lofts Development Corporation Inc. with regard to the gross negligence penalty assessed in respect of net tax of $503,687. The Appellants' wilful receipt of, or attempt to receive, refunds by claiming false ITCs was an integral and fundamental component of the jury's guilty verdicts.
+[29] In Golden, supra, Boyle J. applied issue estoppel to the gross negligence penalty in the following terms at paragraph 49:
+. . . Mr. Golden's criminal mens rea and wilfulness was an integral and fundamental component of the jury's guilty verdicts. Mens rea was established beyond a reasonable doubt. Proof of criminal mens rea beyond a reasonable doubt satisfies the onus on the Crown under the subsection 163(2) gross negligence penalties of the Income Tax Act to establish Mr. Golden's under-reporting was wilful or in circumstances amounting to gross negligence14.
+[30] As with respect to subsection 163(2) in Golden, here proof of criminal mens rea beyond a reasonable doubt satisfies the onus on the Crown with respect to the section 285 gross negligence penalties under the ETA. The Appellants' false reporting was wilful or done in circumstances amounting to gross negligence.
+[31] Similarly, the doctrine of abuse of process would have prevented the Appellants from relitigating the net tax assessed and the penalties.
+Conclusion
+[32] The Crown's motions are allowed.
+[33] Dundurn Street Loffts Inc. will not be permitted to take the position that its net tax for the period from January 27, 1998 to January 31, 1999 was less than $198,959, nor will it be allowed to take the position that penalties should not apply to that amount.
+[34] Alexander Street Lofts Development Corporation Inc. will not be permitted to take the position that its net tax for the period from December 17, 1996 to January 31, 1999 was less than $503,687, nor will it be allowed to take the position that penalties should not apply to that amount.
+[35] Costs in the amount of $3,500 will be payable by the Appellants to the Crown.
+Signed at Ottawa, Canada, this 28th day of October 2010.
+« Réal Favreau »
+Favreau J.
+CITATION: 2010 TCC 553
+COURT FILE NOS.: 2005-2906(GST)G
+2005-2908(GST)G
+STYLES OF CAUSE: Dundurn Street Loffts Inc. v. The Queen
+Alexander Street Lofts Development Corporation Inc. v. The Queen
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: February 22, 2010
+REASONS FOR ORDER BY: The Honourable Justice Réal Favreau
+DATE OF ORDER: October 28, 2010
+APPEARANCES:
+Agent for the Appellant:
+Adam Stelmaszynski
+Counsel for the Respondent:
+Suzanie Chua
+Gatien Fournier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

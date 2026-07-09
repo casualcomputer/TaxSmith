@@ -1,0 +1,189 @@
+---
+title: "Wilson c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28739/index.do"
+last_modified: "2008-04-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 247"
+citation2: ""
+neutral_citation: "2008 CCI 247"
+decision_date: "2008-04-25"
+language: "fr"
+item_id: "28739"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1461
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:51:45.700000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "71bb727dc8e17bb6b58a2ad14451e7fc0590f64635e70b9e709f4c0acfdac8ad"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wilson c. La Reine
+
+- Citation: 2008 CCI 247
+- Decision date: 2008-04-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1461, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wilson c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-25
+Référence neutre
+2008 CCI 247
+Numéro de dossier
+2007-3993(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008CCI247
+Date : 20080425
+Dossier : 2007-3993(IT)I
+ENTRE :
+NORMAN J. WILSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS Les présents motifs du jugement modifiés remplacent les motifs du jugement datés du 25 avril 2008.
+Le juge Webb
+[1] La question en cause dans le présent appel est de savoir si l’appelant a le droit de déduire de ses revenus pour les années d’imposition 2003, 2004 et 2005 les montants de pension alimentaire pour enfants payés pendant ces années‑là à son ex‑épouse.
+[2] Les faits de l’affaire ne sont pas contestés. Suivant une ordonnance rendue par la Cour de l’Ontario (Division générale) le 2 mars 1995, l’appelant était tenu de payer à son ex‑épouse une pension alimentaire pour enfants de 850 $ par mois. Le paragraphe de cette ordonnance où il est question de ce montant est rédigé en ces termes :
+[traduction]
+LA COUR ORDONNE au défendeur de payer à la demanderesse, à titre de pension alimentaire pour enfants provisoire temporaire, le montant de 850 $ par mois à compter du 7e jour de mars 1995 et payable par la suite le premier jour de chaque mois.
+L’ex‑épouse était la demanderesse dans cette affaire, et l’appelant était le défendeur.
+[3] Même si l’ordonnance de la cour fournissait une date de début pour les paiements mensuels, aucune date de fin n’y était indiquée en ce qui a trait à la pension alimentaire pour enfants. La pension alimentaire concernait la fille de l’appelant, qui est née en 1979. À ses anniversaires de naissance célébrés pendant les années en cause, elle a eu 24, 25 et 26 ans, respectivement. À cette époque‑là, elle habitait soit seule à Toronto, soit avec l’appelant. Les paiements mensuels de pension alimentaire pour enfants étaient saisis du salaire de l’appelant et versés directement à son ex‑épouse. Ce n’est qu’après 2005 que l’appelant a pris des mesures pour mettre fin à l’ordonnance rendue par la Cour de l’Ontario (Division générale) ou pour la modifier.
+[4] L’intimée n’a pas contesté le fait que l’appelant et son ex‑épouse vivaient séparés ou que les montants étaient payés par l’appelant. Étant donné que l’ordonnance était datée du 2 mars 1995, il n’y a pas de « date d’exécution » au sens du paragraphe 56.1(4) de la Loi de l’impôt sur le revenu (la « Loi »).
+[5] L’intimée a refusé les montants que l’appelant cherchait à déduire compte tenu du fait qu’étant donné que, pendant toutes les années en cause, l’ex‑épouse de l’appelant n’avait pas la garde de sa fille, les paiements de 10 200 $ par année ne constituaient pas une pension alimentaire pour enfants. Pour appuyer cette position, l’avocat de l’intimée a cité la décision Miguelez c. La Reine, [1999] 1 C.T.C. 2665. Cependant, après un examen minutieux des faits de cette affaire, la position de l’intimée dans Miguelez appuie la position de l’appelant, en l’espèce, plutôt que la position de l’intimée. La juge Lamarre décrit les faits de cette affaire en ces termes :
+1 L'appelant en appelle, selon la procédure informelle, de cotisations établies en date du 27 février 1997 par le ministre du Revenu national (« Ministre ») pour les années d'imposition 1993, 1994 et 1995. Dans le calcul de son revenu pour chacune de ces années, l'appelant a déduit les montants de 18 424 $, 14 400 $ et 4 800 $ respectivement à titre de pension ou prestation alimentaire. En établissant ces cotisations, le Ministre a réduit le montant de la pension ou prestation alimentaire de 18 424 $ à 2 367 $ pour l'année d'imposition 1993, refusant ainsi un montant de 16 057 $ et a refusé totalement toute déduction pour les années d'imposition 1994 et 1995. Dans la Réponse à l'avis d'appel, l'intimée a indiqué qu'elle ne conteste maintenant uniquement que la déduction d'une somme de 6 457 $ en 1993, 4 800 $ en 1994 et 4 800 $ en 1995, lesquelles sommes ont été versées directement à l'enfant de l'appelant, Maia Miguelez. L'intimée soutient que ces montants n'ont pas été versés à titre de pension ou prestation alimentaire en vertu des paragraphes 56(12), 60.1(1) et 60.1(2) et des alinéas 60b) et 60c) de la Loi de l'impôt sur le revenu (« Loi »).
+2 Les faits sur lesquels s'est appuyé le Ministre pour établir les cotisations eu égard aux montants qui sont encore en litige sont les suivants :
+a) l’appelant et Beatriz C Miguelez (l’« Ancien Conjoint ») vivent séparément de façon continue depuis le 8 août 1998;
+b) l’appelant et l’Ancien Conjoint ont conclu un accord de séparation le 19 avril 1991 (l’« Accord »);
+c) l’appelant et l’Ancien Conjoint ont deux enfants, Alain Miguelez d’âge majeur au moment de la séparation et Maia Miguelez née le 26 juillet 1972 (l’« Enfant »);
+d) dans le calcul de son revenu pour les années d’imposition 1993, 1994 et 1995, l’appelant a déduit les montants à titre de pension ou prestation alimentaire tels que décrits ci‑dessous :
+Année d’imposition
+Description
+1993
+1994
+1995
+1. Montants versés directement à l’Enfant
+a) pension alimentaire pour subvenir aux besoins de l’Enfant
+6 457 $
+4 800 $
+4 800 $
+2. Montants versés à l’Ancien Conjoint
+a) en concept de pension alimentaire pour la compensation en raison de la différence de valeur entre les deux propriétés transférées
+9 600 $
+9 600 $
+b) pension alimentaire pour subvenir aux besoins de l’Enfant
+2 467 $
+TOTAL :
+18 424 $
+14 400 $
+4 800 $
+(Non souligné dans l’original.)
+[6] Même si les montants établis dans le tableau de la version anglaise de la décision qui a été citée sont ceux énoncés ci‑dessus, la somme des montants dans les colonnes ne correspond pas aux montants indiqués dans la case « total » et ne correspond pas aux faits énoncés au paragraphe 1. Dans la version française de la décision, les montants dans les colonnes sont établis ainsi :
+Année d’imposition
+Description
+1993
+1994
+1995
+1. Montants payés directement à l’Enfant
+a) pension alimentaire pour subvenir aux besoins de l’Enfant
+6 457 $
+4 800 $
+4 800 $
+2. Montants versés à l’Ancien Conjoint
+a) en concept de pension alimentaire pour la compensation en raison de la différence de valeur entre les deux propriétés transférées
+9 600 $
+9 600 $
+b) pension alimentaire pour subvenir aux besoins de l’Enfant
+2 467 $
+TOTAL :
+18 424 $
+14 400 $
+4 800 $
+[7] Ceci correspond aux faits énoncés au paragraphe 1, sauf que la somme des montants pour l’année 1993 est de 18 524 $ (soit 100 $ de plus que le montant indiqué dans le tableau et au paragraphe 1).
+[8] Quoi qu’il en soit, il est clair que les seuls montants remis en cause dans cette affaire étaient les montants payés directement à l’enfant et non les montants versés à l’ancien conjoint à titre de pension alimentaire pour l’enfant. Dans cette instance, l’enfant était âgé de 21 ans en date du 26 juillet 1993. L’intimée avait convenu que les montants payés à l’ancien conjoint pour subvenir aux besoins de l’enfant, même si l’enfant n’était plus d’âge mineur, pouvaient être déduits. C’est donc le montant de 2 467 $, payé en 1993 à l’ancien conjoint pour subvenir aux besoins de l’enfant, qui pouvait être déduit.
+[9] Dans la décision Demey c. La Reine, [2000] 2 C.T.C. 2026, la juge Lamarre a statué que les paiements faits à un ex‑conjoint à titre de pension alimentaire pour des enfants ayant atteint la majorité pouvaient être déduits par le payeur. La distinction a été faite entre les montants payés directement à l’ex‑conjoint et les montants payés directement aux enfants.
+[10] L’alinéa 60b) de la Loi prévoit ce qui suit :
+60. Peuvent être déduites dans le calcul du revenu d’un contribuable pour une année d’imposition les sommes suivantes qui sont appropriées :
+[…]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A – (B + C)
+où
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l’année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d’un accord ou d’une ordonnance à la date d’exécution ou postérieurement et avant la fin de l’année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d’imposition antérieure;
+[11] Compte tenu des dispositions du paragraphe 60.1(4) de la Loi, les définitions énoncées au paragraphe 56.1(4) de la Loi s’appliquent à l’article 60. La « pension alimentaire » est définie au paragraphe 56.1(4) en ces termes :
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex‑époux ou l’ancien conjoint de fait du payeur et vit séparé de celui‑ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[12] Rien dans la définition de « pension alimentaire » ou à l’alinéa 60b) de la Loi ne précise que le bénéficiaire doit avoir la garde de l’enfant. Le concept de la garde d’enfants se trouve au paragraphe 60.1(1) de la Loi, soit le paragraphe auquel renvoient les décisions traitant des paiements faits directement aux enfants majeurs, comme Miguelez, précité, et La Reine c. Curzi, [1994] A.C.F. n° 154; [1994] 2 C.T.C. 220. Le paragraphe en question est rédigé en ces termes :
+60.1 (1) Pour l’application de l’alinéa 60(1)b) et du paragraphe 118(5), dans le cas où une ordonnance ou un accord, ou une modification s’y rapportant, prévoit le paiement d’un montant à un contribuable ou à son profit, au profit d’enfants confiés à sa garde ou à la fois au profit du contribuable et de ces enfants, le montant ou une partie de celui‑ci est réputé :
+a) une fois payable, être payable à la personne et à recevoir par elle;
+b) une fois payé, avoir été payé à la personne et reçu par elle.
+[13] Dans Curzi, précité, le juge Noël décrit en ces termes le lien entre l’alinéa 60b) et le paragraphe 60.1(1) de la Loi :
+6 L'article 60b) permet la déduction de sommes versées à l'ancien conjoint pour le bénéfice des enfants du mariage. Selon le paragraphe 60.1(1), une somme payée, non pas à l'ancien conjoint, mais au profit d'un enfant dont la garde lui est confiée, est tout de même réputée avoir été payée à ce conjoint de sorte que son caractère déductible est préservé aux fins de l'article 60b). La question soulevée par le présent litige est donc celle à savoir si, dans les circonstances, Stéphane demeurait sous la garde de sa mère au moment où il reçut les sommes en question.
+[14] Le paragraphe 60.1(1) de la Loi ne s’applique pas en l’espèce parce que les paiements ont été faits directement à l’ex‑épouse de l’appelant. La question de la garde ne se pose donc pas, étant donné qu’il s’agit d’une exigence prévue au paragraphe 60.1(1) de la Loi et non à l’alinéa 60b) et qu’elle n’est pas comprise dans la définition de « pension alimentaire ».
+[15] L’avocat de l’intimée a aussi renvoyé à l’article 31 de la Loi sur le droit de la famille de l’Ontario, qui prévoit ce qui suit :
+31. (1) Le père et la mère sont tenus de fournir des aliments à leur enfant non marié qui est mineur ou qui suit un programme d’études à temps plein, dans la mesure de leurs capacités. L.R.O. 1990, chap. F.3, par..31 (1); 1997, chap. 20, art. 2.
+(2) L’obligation prévue au paragraphe (1) ne s’applique pas à l’enfant de seize ans ou plus qui s’est soustrait à l’autorité parentale. L.R.O. 1990, chap. F.3, par. 31 (2).
+[16] Bien que ceci pourrait signifier que l’appelant en l’espèce aurait pu prendre certaines mesures pour faire modifier ou annuler l’ordonnance alimentaire concernant sa fille, avant que de telles mesures ne soient prises, il existait une ordonnance de la Cour de l’Ontario prévoyant des paiements mensuels. Dans l’arrêt R. c. Wilson, [1983] 2 R.C.S. 594; 4 D.L.R. (4e) 577, le juge McIntyre de la Cour suprême du Canada a formulé les commentaires suivants au sujet de la validité des ordonnances de la cour :
+Les arrêts déjà cités ainsi que la jurisprudence qui y est mentionnée confirment la règle bien établie et fondamentalement importante sur laquelle la Cour d’appel du Manitoba s’est fondée en l’espèce. Cette règle porte qu’une ordonnance d’une cour, qui n’a été ni annulée ni modifiée en appel, ne peut faire l’objet d’une attaque indirecte et doit être appliquée intégralement.
+[17] L’ordonnance rendue par la Cour de l’Ontario doit être appliquée intégralement. Aucune mesure n’a été prise pour modifier ou annuler l’ordonnance avant 2006. Bien qu’il existe un processus qui aurait permis la modification ou l’annulation de l’ordonnance alimentaire, aucune mesure n’a été prise dans ce sens. Par conséquent, les paiements que l’appelant a faits à son ex‑épouse ont été faits en application de l’ordonnance de la cour qui était toujours en vigueur.
+[18] Il est clair, en l’espèce, que le bénéficiaire pouvait utiliser le montant à sa discrétion, étant donné que l’ordonnance prévoyait simplement que l’appelant était tenu de payer le montant à son ex‑épouse et que le montant était saisi de sa paie. La définition de « pension alimentaire » prévoit seulement que le montant doit être payable de façon périodique pour subvenir aux besoins des enfants. Elle ne précise pas que le bénéficiaire doit, en fait, utiliser le montant reçu pour subvenir aux besoins des enfants. Étant donné que la définition de « pension alimentaire » prévoit que le bénéficiaire peut utiliser le montant à sa discrétion, le bénéficiaire peut dépenser le montant comme bon lui semble. Ce serait d’aller à l’encontre de l’exigence prévue dans la définition de « pension alimentaire », selon laquelle le bénéficiaire peut utiliser le montant à sa discrétion, que de conclure que l’ex‑épouse de l’appelant aurait été tenue de dépenser le montant reçu pour subvenir aux besoins de sa fille afin que le montant payé soit considéré comme une pension alimentaire. Pour tirer une telle conclusion, il faudrait retracer les fonds, et cette mesure n’est pas prévue dans la définition de « pension alimentaire ».
+[19] Étant donné que l’alinéa 60b) de la Loi et la définition de « pension alimentaire » n’exigent pas que le bénéficiaire du montant ait la garde de l’enfant, et étant donné que les autres exigences prévues dans la définition de « pension alimentaire » et à l’alinéa 60b) de la Loi ont été observées, les montants payés par l’appelant en 2003, en 2004 et en 2005 à son ex‑épouse en application de l’ordonnance rendue par la Cour de l’Ontario (paiements qui étaient saisis de sa paie) constituaient une pension alimentaire.
+[20] L’appel est accueilli, et la question est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse des nouvelles cotisations en partant du principe que l’appelant a le droit de déduire les montants suivants :
+a) le montant de 10 200 $ à titre de pension alimentaire dans le calcul de ses revenus pour l’année 2003;
+b) le montant de 10 200 $ à titre de pension alimentaire dans le calcul de ses revenus pour l’année 2004;
+c) le montant de 10 200 $ à titre de pension alimentaire dans le calcul de ses revenus pour l’année 2005.
+Signé à Ottawa, Canada, ce 25e jour d’avril 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 11e jour de juin 2008.
+Hélène Tremblay, traductrice
+RÉFÉRENCE : 2008CCI247
+N° DE DOSSIER : 2007-3993(IT)I
+INTITULÉ : Norman J. Wilson c. La Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 15 avril 2008
+MOTIFS DU JUGEMENT PAR : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 25 avril 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Amit Ummat
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

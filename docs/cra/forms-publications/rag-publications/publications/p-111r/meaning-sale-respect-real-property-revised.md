@@ -1,0 +1,126 @@
+---
+title: "The Meaning of Sale with Respect to Real Property (Revised)"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-111r/meaning-sale-respect-real-property-revised.html
+last_modified: 2018-07-25
+---
+# The Meaning of Sale with Respect to Real Property (Revised)
+
+Please note that the following Policy Statement, although correct at the time of issue, may not have been updated to reflect any subsequent legislative changes.
+
+GST/HST policy statement P-111R
+
+**Date of Issue**
+
+May 25, 1993
+
+Revised February 1995
+
+**Subject**
+
+The meaning of sale with respect to real property.
+
+**Legislative Reference(s)**
+
+Sections 121, subsection 123(1) - definitions of "real property" and "sale", ss. 168(5), s. 191, ss. 221(2), s. 254256, s. 336, sections 2, 3, 4, 5, 5.1, 5.2, 8, 9, 10 and 12 of Part I, and section 25 of Part VI of Schedule V to the *Excise Tax Act.*
+
+**National Coding System File Number(s)**
+
+11950-1
+
+**Effective Date**
+
+January 1, 1991
+
+**Text**
+
+## A. Transfer of Ownership
+
+For purposes of the provisions relating to supplies of real property which refer to transfers of ownership, such as subsections 168(5) and 336(1), (2) and (3) of the Act, "ownership" generally refers to the legal ownership (that is "titled" ownership in the case of the underlying real property), rather than equitable ownership of property. Accordingly, references to agreements of sale or agreements to transfer ownership of the underlying real property are generally to the ownership of the property that is transferred on the closing of the transaction. As discussed subsequently, the transfer of the legal ownership of an equitable interest in real property may be considered a sale of real property. Further, as subsequently discussed, unless specifically referred to in the provision, a sale of real property generally arises upon the transfer of ownership even where there may be no agreement to transfer ownership.
+
+## B. Transfer of Possession
+
+A determination of whether there has been a transfer of possession is relevant for various provisions of the Act relating to supplies of real property by way of sale, including subsections 168(5), 336(1), (2) and (3) of the Act. A person may be in possession of real property if that person is entitled to hold, control or occupy the property either with or without the right of ownership to the property. Occupation is not necessary for there to be possession; nor does occupation necessarily mean that one has possession.
+
+Determining if and when possession is transferred in the case of real property is a question of fact, dependent on several indicia. Factors such as the payment of property taxes, the right to alter the land, the planting of crops or trees, collection of rents, repairs to the property, maintaining of the lot, etc., by the recipient serve to indicate, but are not necessarily conclusive, that possession has been transferred. In any event, possession alone is not sufficient under the Act to trigger a supply by way of sale since such possession must be made under an agreement to transfer ownership of the property.
+
+## C. Application of Agreement to Transfer Ownership
+
+For purposes of determining whether a "sale" has occurred, a transfer of ownership need not be made under an agreement to transfer ownership. This is consistent, for example, with the intention of the legislation that the supply of a used residential complex, personal use property or qualifying farmland by gift or upon death is exempt under section 2, 9 or 10 of Part I of Schedule V, as the case may be, as an exempt supply of the property by way of sale even though there may be no agreement to transfer ownership of the property. An agreement to transfer ownership, however, is required for a transfer of possession to be considered a "sale". Accordingly, the definition of "sale" in subsection 123(1) applies where there has been either:
+
+1. a transfer of ownership; or,
+
+2. a transfer of possession under an agreement to transfer ownership.
+
+## D. Transfer of Possession under an Agreement to Transfer
+
+A transfer of possession under an agreement to transfer ownership must be distinguished from a transfer of possession under an agreement to transfer property by way of lease, license or similar arrangement. The former constitutes a sale while the latter does not.
+
+Unless expressly stated otherwise in the legislation, verbal agreements relating to transfers of ownership may be sufficient to trigger a "sale" where there has also been a transfer of possession, provided such oral agreement contains the basic elements of a valid contract at law (i.e. offer and acceptance, capacity to contract, consideration paid or payable, certainty of subject matter, essential terms agreed upon, etc.). Certain factors which may indicate that there has been a valid verbal agreement to transfer ownership of property (as opposed to an agreement to transfer property by way of lease, license or similar arrangement) include:
+
+- cash, a cheque or a mortgage indicating payment for the property and a receipt given by the vendor;
+
+- at some point, a deed evidencing the transfer of ownership would be registered on title;
+
+- written memoranda of understanding between the parties or professional advisors indicating the date ownership is to be transferred which may be evidence of the existence of the verbal agreement;
+
+- an order for specific performance of the verbal agreement from a court of law.
+
+Where the parties are claiming that a verbal agreement to transfer ownership has been made, the onus is on the parties to prove that such agreement has in fact been made. In addition to the above noted factors, the parties should be prepared to sign a written declaration to the effect that there was such an agreement specifying when the transfer of ownership is to take place.
+
+## E. Other Applications of Sale
+
+In the common law provinces, legal and equitable interest in real property are specifically considered "real property" within the meaning of paragraph (b) of the definition of real property in subsection 123(1) of the Act. (The concept of equitable interest does not apply in the province of Quebec.) The grant or transfer of the legal ownership of an equitable interest in real property may, therefore, be considered a "sale" of real property. The consideration for the grant or transfer of the interest would then be subject to GST to the extent that the consideration paid is in respect of the acquisition of the interest and not for the ongoing rights to use the property without legal ownership of the underlying property. Where such grants or transfers are considered a "sale", the self-assessment rules of subsection 221(2) of the Act would apply.
+
+For example, a person may grant another person an option to purchase or lease real property. The granting of such rights gives the grantee an equitable interest in the property. The consideration paid for the actual grant of the interest may be considered as being in respect of the sale of the interest where there is no consideration related to the actual use of the underlying property. However, any consideration which is not reasonably attributable to the granting of the option, such as consideration payable by the recipient of the option for the use or right to use the property until the option is exercised (whether pre-paid or by periodic payments), would not be consideration for the granting of the option and, therefore, would not relate to the "sale" of the equitable interest, but rather the right to use the property. Such consideration would be payable for the supply of the property by way of lease, license or similar arrangement. Similar considerations would apply with respect to the transfer of an equitable interest by way of assignment or other means.
+
+The determination of whether the consideration is paid for the grant (i.e. sale) or use (i.e. lease) of the property may be reflected in the nature of the interest being transferred, the terms of the agreement or other documentation relating to the transfer, and the actual dealings among the parties involved.
+
+The grant of a right of way or an easement may be in the nature of a grant of real property by way of sale or by way of lease, license or similar arrangement. Where the right of way or easement gives the recipient the use or right to use real property without legal ownership in the underlying property over a specified period of time, the supply would normally be considered to be by way of an arrangement similar to a lease or license.
+
+Where, similar to an option, the consideration for the supply of an easement relates to the actual grant or transfer of the equitable interest in the property and not to the use or right to use the property, the supply would normally be considered as being in respect of the sale of real property. For example, an easement granted in perpetuity for a single consideration or the transfer of the easement by assignment or otherwise may constitute a "sale" to which subsection 168(5) relating to the timing of liability for sales of real property would apply, as well as the self-assessment rules in subsection 221(2).
+
+**Facts**
+
+1. Mr. Smith owns a house on a small 1/4 hectare lot which he has occupied and used as his primary place of residence for 15 years.
+
+2. The land is reasonably necessary for the house as a place of residence.
+
+3. Mr. Smith dies and in his will he leaves his house and the surrounding land to his best friend Mrs. Jones.
+
+4. There was never any agreement of purchase and sale, whether verbal or written, entered into between Mr. Smith and Mrs. Jones respecting this property.
+
+**Ruling Requested**
+
+Whether the bequest of the house and surrounding land by the estate of Mr. Smith to Mrs. Jones constitutes an exempt "sale" for purposes of the Excise Tax Act (the "Act").
+
+**Ruling Provided**
+
+Yes, the bequest of the house and surrounding land would constitute a "sale" for GST purposes. Even though there is no agreement between the parties to transfer ownership of the property, a transfer of ownership from the estate to Mrs. Jones occurs that is sufficient to meet the definition of "sale" in the Act.
+
+Consequently, the transfer of the house and surrounding land would be exempt under section 2 of Part I of Schedule V as this is a supply by way of "sale" of a used residential complex.
+
+### EXAMPLE 2
+
+**Facts**
+
+1. Ms Wilson enters an agreement with a mobile home dealer to purchase a newly constructed mobile home and the underlying lot on which it is situated.
+
+2. The mobile home qualifies as a mobile home within the definition of "mobile home" in subsection 123(1) of the Excise Tax Act.
+
+3. A fully executed written agreement of purchase and sale is entered into by both the parties on March 1, 1994, stipulating that the consideration for the transaction is $55,000.00, $15,000.00 of which is paid from Ms Wilson to the dealer as a down payment.
+
+4. Under this agreement of purchase and sale, the closing date is set for June 15, 1994.
+
+5. The agreement also provides that the purchaser will occupy the premises on May 1, 1994. The home is substantially completed at that time.
+
+6. As agreed, Ms Wilson obtains possession of the mobile home and surrounding land on May 1, 1994, and the legal title to the property is transferred on June 15, 1994.
+
+**Ruling Requested**
+
+Is the transaction a "sale" for GST purposes? If so, when does the sale occur?
+
+**Ruling Provided**
+
+Yes, the transaction is a "sale" for purposes of the Act. The day the "sale" occurs is the earlier of the date of a transfer of ownership or a transfer of possession under an agreement to transfer ownership. Since possession is transferred on May 1, 1994, pursuant to an agreement to transfer the ownership of the property, the "sale" takes place on May 1, 1994.
+
+As the mobile home has not been previously occupied, the sale of the mobile home and the underlying land is a taxable supply of a residential complex and a GST new housing rebate is available at the time ownership of the complex is transferred provided the other requirements of the rebate provision are satisfied. (If the mobile home had been previously occupied, the sale of the home and the underlying land would have been exempt under section 2 of Part I of Schedule V.)

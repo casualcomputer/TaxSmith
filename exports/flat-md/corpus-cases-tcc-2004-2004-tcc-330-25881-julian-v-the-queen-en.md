@@ -1,0 +1,122 @@
+---
+title: "Julian v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25881/index.do"
+last_modified: "2004-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 330"
+citation2: ""
+neutral_citation: "2004 TCC 330"
+decision_date: "2004-05-11"
+language: "en"
+item_id: "25881"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3875
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:28:44.385000+00:00"
+cases_cited_count: 0
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1700cf2af5f5fffb535feeda1b3afea3d7da2dd6cdb9129b761dbd1f7edcfbcf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Julian v. The Queen
+
+- Citation: 2004 TCC 330
+- Decision date: 2004-05-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3875, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Julian v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-11
+Neutral citation
+2004 TCC 330
+File numbers
+2003-2947(IT)I
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2004TCC330
+Date: 20040511
+Docket: 2003-2947(IT)I
+BETWEEN:
+PATRICK J. JULIAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Counsel for the Appellant: David Graham
+Counsel for the Respondent: Robert Carvalho and Gavin Laird
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on
+April 8, 2004, at Vancouver, British Columbia)
+McArthur J.
+[1] The issue in this appeal is whether the Appellant is liable to pay penalties assessed pursuant to the provisions of subsection 163(2) of the Income Tax Act with respect to his 1993 taxation year. Subsection 163(2) reads in part:
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+(a) ...
+[2] In 1993, the Appellant was a partner in the highly reputable Vancouver law firm of Farris Vaughan Wills & Murphy. His practice was focused on real estate development. Upon advice from a co-partner, Ken Taves, the firm's leading tax practitioner, he participated in the charitable donation scheme involving the Association for the Betterment of Literacy ("ABLE"). On December 31, 1993, the Appellant advanced the amount of $26,000 to the law firm, in trust, and was paid back the amount of $19,500 from the firm on January 4, 1994. The Appellant claimed a charitable donation of $26,000 in his 1993 income tax return. The position of the Minister of National Revenue in assessing penalties is that the Appellant knew that claiming a charitable donation of $26,000 in his 1993 return was a false statement, or in the alternative, that the Appellant was grossly negligent in claiming that donation. The Appellant does not dispute the disallowance of the $26,000, and indeed he lost the $6,500 which I shall refer to later, but he does dispute the assessed penalty.
+[3] The position of the Appellant includes that he was entitled to rely on the expertise of Mr. Taves without further investigation. He believed it to be a tax shelter and while the operation of it remained a mystery, he did not question or need to question the integrity and the professionalism of his tax partner.
+[4] Apparently, many other taxpayers (over 500 I believe) also made donations to ABLE over the years and those taxpayers were reassessed by the Minister denying the claims. To the Appellant's knowledge, the only taxpayers assessed penalties under subsection 163(2) were those who also happened to be partners in Farris Vaughan Wills & Murphy.
+[5] Counsel for the Respondent submitted that clearly the Appellant meets the elements of subsection 163(2) because he knowingly made a false statement in his return. As a result of the false statement, he is liable for a penalty. Counsel added that the Appellant's net charitable donation claim should have been $6,500, and not $26,000, because he was repaid $19,500 shortly after making the donation. He also submitted that it must have been absolutely clear to the Appellant that he had not donated $26,000 but that he in fact donated $6,500.
+[6] Is this misrepresentation attributable to gross negligence? Should the Appellant have made more inquiries? I think not. Gross negligence requires a much greater burden than due diligence. If there was a fair and reasonable doubt, the Appellant should receive the benefit of that doubt.
+[7] The Appellant is a reputable solicitor and in 1993 was with a highly regarded firm. I believe his evidence. He approached his partner Mr. Taves for a tax shelter and was directed to ABLE. He relied on Mr. Taves' advice absolutely. The complex Income Tax Act and complicated tax shelters were not something that he put his mind to, being a real estate solicitor. He stated that he did not have to go further than trust of his partner and I accept that statement.
+[8] A Court must be very cautious in sanctioning subsection 163(2) penalties. In Venne v. The Queen, 84 DTC 6247, Strayer J. said at page 6256:
+With respect to the possibility of gross negligence, I have with some difficulty come to the conclusion that this has not been established either. Gross negligence must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting and indifference as to whether the law is complied with or not. I do not find that high degree of negligence in connection with the misstatements of business income. To be sure, the plaintiff did not exercise the care of a reasonable man, and as I have noted earlier, should have at least reviewed his tax returns before signing them. A reasonable man, in doing so, having regard to other information available to him, would have been led to believe that something was amiss and would have pursued the matter further with is bookkeeper.
+Again, a subsection 163(2) penalty is not justified in this instance although counsel for the Respondent had some validity in presenting his position. The Appellant was aggressive, if not cavalier, in his actions, not having questioned any details of a transaction that in hindsight looks outrageous, but he relied on his firm's tax expert which under the present circumstances, he was entitled to do. The Appellant may have been negligent, but his actions did not involve a high degree of negligence tantamount to intentional acting.
+[9] For these reasons, the appeal is allowed, with costs.
+Signed at Ottawa, Canada, this 11thday of May, 2004.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2004TCC330
+COURT FILE NO.:
+2003-2947(IT)I
+STYLE OF CAUSE:
+Patrick J. Julian and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+April 8, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF JUDGMENT:
+April 26, 2004
+APPEARANCES:
+Counsel for the Appellant
+David Graham
+Counsel for the Respondent:
+Robert Carvalho and Gavin Laird
+COUNSEL OF RECORD:
+Name:
+David Graham
+Firm:
+Koffman Kalef
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

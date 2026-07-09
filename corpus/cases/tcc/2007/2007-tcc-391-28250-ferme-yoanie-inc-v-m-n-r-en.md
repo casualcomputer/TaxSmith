@@ -1,0 +1,278 @@
+---
+title: "Ferme Yoanie Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28250/index.do"
+last_modified: "2007-08-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 391"
+citation2: ""
+neutral_citation: "2007 TCC 391"
+decision_date: "2007-08-09"
+language: "en"
+item_id: "28250"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2031
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:51:30.668000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a62c948a4cf2637e15f2d16bd03ab56ac75860121df054159779b187b53d245d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ferme Yoanie Inc. v. M.N.R.
+
+- Citation: 2007 TCC 391
+- Decision date: 2007-08-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2031, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ferme Yoanie Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-09
+Neutral citation
+2007 TCC 391
+File numbers
+2006-2761(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2006-2761(EI)
+BETWEEN:
+FERME YOANIE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on March 8 and June 26, 2007, at Sherbrooke, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the Appellant:
+Counsel for the Appellant:
+Hans Stirniman, Jr. (March 8, 2007)
+François Bouchard (June 26, 2007)
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act ("the Act") is dismissed in accordance with the attached Reasons for Judgment, on the ground that the work performed by Samuel Bonsant during the period from January 1 to December 27, 2005, was done under a contract of service within the meaning of paragraph 5(1)(a) of the Act.
+Signed at Ottawa, Canada, this 9th day of August 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 5th day of September 2007.
+Brian McCordick, Translator
+Citation: 2007TCC391
+Date: 20070809
+Docket: 2006-2761(EI)
+BETWEEN:
+FERME YOANIE INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a determination under subsection 103(1) of the Employment Insurance Act ("the Act") dated June 22, 2006. The determination under appeal is that Samuel Bonsant was employed under a true contract of employment for the period from January 1 to December 27, 2005.
+[2] In order to justify his decision, the Minister of National Revenue ("the Minister") relied on the following assumptions of fact:
+[TRANSLATION]
+(a) The Appellant, which incorporated on August 31, 1998, operates a dairy farm. (admitted)
+(b) Hans Stirniman, Jr., was the sole shareholder of the Appellant. (admitted)
+(c) The Appellant's herd consisted of roughly 75 dairy cows and a few calves. (admitted)
+(d) The Appellant's activities were centred on dairy production and on the growing of hay as feed for the livestock. (admitted)
+(e) In 2004, the Appellant hired the Worker on a temporary basis to look after the milking of cows and perform certain farm-related work. (denied)
+(f) During his employment, the Worker was enrolled in an adult education course at the local high school, and Mr. Stirniman taught him how to do work related to the operation of his farm. (admitted)
+(g) On January 1, 2005, after the Worker completed his course, the Appellant hired him as a regular employee. (denied)
+(h) The Worker's main duties consisted in:
+- milking the cows twice a day
+- sowing crops
+- feeding livestock
+- cleaning the barn
+- performing other duties determined by Mr. Stirniman. (admitted)
+(i) The Worker provided all his services on the Appellant's farm. (admitted)
+(j) During the summer season, the Worker worked 70 to 80 hours per week. (admitted)
+(k) During the winter season (October to December), the Worker worked an average of 20 hours per week. (admitted)
+(l) In January 2005, the Worker's wage was $8.00 per hour, and during the remainder of the period in issue, his wage was $10.00 per hour. (admitted)
+(m) The Worker's hours were controlled by the Appellant because he had to punch his hours on a card at the beginning and end of his work day. (admitted)
+(n) The Worker was paid by a cheque from the Appellant every two weeks. (admitted)
+(o) The Worker had to do the work himself; he could not have himself replaced or hire an assistant without the Appellant's authorization. (admitted)
+(p) The Worker had CSST [workers' compensation] coverage for his job and the Appellant paid the premiums for it. (admitted)
+(q) The Worker had no paid vacation or sick leave and was not paid a higher hourly rate for his overtime. (admitted)
+(r) The Appellant considers the Worker self-employed, while the Worker considers himself an employee of the Appellant's. (admitted)
+(s) All aspects of the Worker's work were supervised by the Appellant. (admitted)
+[3] After being sworn in, Hans Stirniman, Jr., the Appellant's agent and sole shareholder, told the Court that he admitted to the contents of subparagraphs (a) through (d), (f), and (h) through (s). Only subparagraphs (e) and (g) were denied.
+[4] Hans Stirniman, Jr. used very harsh and extremely critical language in his testimony about Samuel Bonsant, the young man whose work is in issue. Among other things, he accused Mr. Bonsant of lying egregiously and of being abusive and vengeful.
+[5] The Appellant's agent says that the Appellant entered into an agreement with Mr. Bonsant that the work would be governed by a contract of enterprise. In other words, according to Mr. Stirniman, Mr. Bonsant worked for his business as an independent contractor, knowing full well that he was doing so, since he had made an informed choice.
+[6] Mr. Stirniman says that he explained the proposal to his accountant, who told him that there was no problem having the work done as part of a contract of enterprise, provided certain conditions were met.
+[7] A contract of enterprise enabled Mr. Bonsant to be paid a higher salary because there would be no withholdings. In addition, Mr. Bonsant could deduct his expenses as a self-employed worker.
+[8] For the purposes of his Notice of Appeal, the Appellant essentially repeated the contents of the letter addressed to the Chief of Appeals (Exhibit A-1). I reproduce the contents of the Notice of Appeal:
+[TRANSLATION]
+Sawyerville, March 20, 2006
+Chief of Appeals
+Canada Revenue Agency
+305 René-Lévesque Boulevard West, 3rd Floor
+Montréal, Quebec H2Z 1A6
+Re: Insurability of Samuel Bonsant
+Dear Sir:
+Further to our recent discussions and your recent decision on the insurability of the job at our business, I am writing to challenge that decision and to provide my comments regarding the terms and conditions that were agreed to with Mr. Bonsant in connection with his work.
+Mr. Bonsant had little work experience in dairy production, and had just joined the workforce.
+Here are the options that were proposed to him:
+- A salary with regular source deductions in accordance with the rules; or
+- Increased pay to take account of his contributions as a self-employed worker
+Mr. Bonsant contacted his accountant to assess this proposal, and then got back to me to tell me that he was opting for the better-paid self-employment option based on the following arguments:
+- Deduction of part of his fuel costs
+- Deduction of part of his motor vehicle maintenance costs
+- Deduction of some of the depreciation on his motor vehicle
+- Billing other dairy farms for occasional milking work
+Everything was going well between us until the review, by the GST/QST section of Revenu Québec, of my corporation's sale of a truck to Mr. Bonsant. Revenu Québec is claiming GST on the sale of the vehicle. The QST was assumed by Mr. Bonsant upon registering his truck.
+In order to help Mr. Bonsant pay us back this amount, we proposed that we make regular deductions over several pay periods. Unfortunately, from that point onward, everything changed. I have been extremely surprised by threats, derogatory comments, demands made by relatives of his, and more. He told me that he wants the farm to pay for all this, and that he will notify the [Commission des] normes du travail [the labour standards board].
+The Commission des normes du travail closed this claim without making any adjustments, after Mr. Bonsant told the Commission that he was self-employed. He wanted to retract that statement when he realized that it would result in his claim being dropped, but his arguments were not accepted. (Source: Mr. Christian Lessard, Commission des normes du travail du Québec . . .) Later, Mr. Bonsant told me that this would not be the end of it. You know the rest, and I remain available to help finalize this matter as soon as possible.
+. . .
+[9] Samuel Bonsant also testified. He formally denied Mr. Stirniman's allegations, and said that Mr. Stirniman told him what to do, and that his hours of work were monitored in that he punched in and out on every workday.
+[10] He used tools owned by the Appellant to do his work. At one point, the pay of $10 per hour was reduced to $8 per hour on the basis that less work was being done and that the quality of his work had diminished.
+[11] After the matter was taken under deliberation, the Appellant moved for a resumption of hearings; the motion was granted upon the Respondent's consent.
+[12] When the hearing resumed, the Appellant, who was represented by counsel this time, called the corporation's sole shareholder, Hans Stirniman, Jr., as a witness again, along with three other people.
+[13] Having resumed, the trial confirmed the Appellant's submission that the parties to the work contract in issue did indeed agree that the work would be governed by a contract of enterprise.
+[14] This finding is based on the testimony of Samuel Bonsant's brother and of others. Samuel Bonsant's brother helped him with his chores (milking, distributing the feed and cleaning the cows' stalls). Samuel gave his brother a lump sum to perform this defined set of chores; thus, the two brothers shared the $50 or so that was obtained.
+[15] However, for gathering rocks or hay, the witness was paid on an hourly basis, as was his brother.
+[16] Mr. Stirniman's brother also testified. He said that he retained Samuel Bonsant's services several times, always as an independent contractor, during periods when he was not working for the Appellant. This showed that the Worker did not work exclusively for the Appellant, because he had was entitled to work for others, and did, in fact, do so.
+[17] At one point, Mr. Bonsant filed a complaint against the Appellant in order to obtain higher compensation. There was no investigation, and the decision was made promptly because Mr. Bonsant himself stated in his complaint that the work in question was self-employment.
+[18] Following a check with the Appellant, who confirmed that Mr. Bonsant had worked as an independent contractor, the Commission immediately closed the file based on a lack of jurisdiction in view of the type of contract that the parties had decided upon. Mr. Bonsant applied for a review of the decision, but the response to his application was not tendered in evidence.
+[19] Lastly, Mr. Stirniman stated, and insistently repeated, that he had retained Mr. Bonsant's services as a self-employed worker; he also said that Mr. Bonsant appeared to be aware of all the consequences of that status. He said that milking was paid for on a fixed-price basis, and that hay and rock gathering work was paid for on an hourly basis.
+[20] Mr. Stirniman also said that Samuel Bonsant was free to work for any other business, and that he could get himself replaced or helped by a responsible and competent person. Mr. Stirniman would not have allowed a replacement who smoked or took drugs.
+[21] Mr. Stirniman repeated that when the initial agreement was made, Mr. Bonsant chose to work as an independent contractor because the hourly rate was higher, as there was no withholding from the fixed pay for the cow milking, or from the hourly pay for the other work.
+[22] The hours worked were calculated by a punch clock, which indicated the time at which the work period began and ended.
+[23] In summary, the Appellant's agent emphatically contended that the work that he had the young Mr. Bonsant do was independent contracting work.
+[24] In this regard, while the evidence concerning the parties' intentions is decisive, is that reason enough to require the Court to hold that the contract between the parties was a contract of enterprise?
+[25] Given his lack of experience and his youth, Mr. Bonsant was clearly not able to draw the necessary distinctions or nuances; his consent alone was not sufficient to determine that the contract of work was a contract of enterprise.
+[26] On several occasions, the Federal Court of Appeal has stated that while the parties' intention certainly constitutes an important factor, it is not necessarily determinative. In order to be relevant, however, it is essential that the parties' intention be consistent with the way in which the work is performed. In fact, this qualification was acknowledged by Mr. Bonsant himself upon commencing proceedings with the Commission des normes du travail.
+[27] The contracting parties can choose to have work governed by a contract of enterprise.
+[28] Very often, that choice is not made based on the way in which the work is done, but rather on wholly unrelated factors, such as
+· no withholdings
+· no deductions for contributions, insurance permits, etc.
+· the opportunity to claim expenses
+· easier contract termination
+· significant lessening of certain limitations
+· liability
+[29] For the purposes of employment insurance, such a choice is of no effect where the terms and conditions of the work in question are those of a contract of employment.
+[30] In the case at bar, the only indication that this was a contract of enterprise was the Appellant's perception of the contract and Mr. Bonsant's acceptance of the chosen approach. However, that contract was not consistent with the provisions of the Civil Code of Québec governing contracts of enterprise.
+[31] Indeed, the Appellant itself admitted that the work was controlled, that training was given for it, and that it was continuously supervised and checked.
+[32] In fact, the work done by Samuel Bonsant met all the conditions of a true contract of service, notably with respect to the duties, the remuneration and the indisputable existence of a relationship of subordination between the payor and the employee.
+[33] In this regard, the Appellant's admissions, including the following ones, are revealing and very helpful in finding that the determination was well‑founded:
+[TRANSLATION]
+(f) During his employment, the Worker was enrolled in an adult education course at the local high school, and Mr. Stirniman taught him how to do work related to the operation of his farm. (admitted)
+. . .
+(h) The Worker's main duties consisted in
+- milking the cows twice a day
+- sowing crops
+- feeding livestock
+- cleaning the barn
+- performing other duties determined by Mr. Stirniman (admitted)
+. . .
+(m) The Worker's hours were controlled by the Appellant because he had to punch his hours on a card at the beginning and end of his work day. (admitted)
+(n) The Worker was paid by a cheque from the Appellant every two weeks. (admitted)
+(o) The Worker had to do the work himself; he could not have himself replaced or hire an assistant without the Appellant's authorization. (admitted)
+(p) The Worker had CSST [workers' compensation] coverage for his job and the Appellant paid the premiums for it. (admitted)
+. . .
+(s) All aspects of the Worker's work were supervised by the Appellant. (admitted).
+[34] The Appellant clearly did not understand the requirements of the Act as far as employment insurance was concerned, and the advice obtained from its accountant was not thoroughly thought-out. The provisions of the Act are not optional; they are compulsory. Employment insurance is not an insurance policy that one can choose to accept or decline; it is a support program that covers and protects workers who perform work as employees during a certain period of time.
+[35] If a work contract fulfils the requisite conditions of an employment contract, the employer cannot, even with the worker's complicity or acceptance, disregard the Act and decide that it is a contract of enterprise.
+[36] A contract is defined by the way in which the work is performed, not the vocabulary used by the parties. In other words, the parties cannot characterize a contract of employment as a contract of enterprise if the work is performed in a way that corresponds to the characteristics of an employment contract.
+[37] If the decision that I must make depended essentially or exclusively on the parties' intention, the balance of probabilities would unquestionably dictate a finding on my part that the contract in issue was a contract of enterprise.
+[38] However, I do not believe that I can come to such a conclusion without considering anything else, especially since the mere fact that the agreement was valid between the parties does not mean that the Respondent is bound by it.
+[39] The parties' intention is undoubtedly a factor to consider, but I do not believe that it alone is determinative.
+[40] Other aspects must be taken into account, including the way in which the work was performed, the nature of the work, and all facts, actions and circumstances that enable to Court to determine whether there was a relationship of subordination or not, in which case the appropriate decision is that the work was performed as part of a contract of employment.
+[41] The Respondent's decision that Samuel Bonsant's work was performed under a contract of employment is based on the following assumptions of fact:
+[TRANSLATION]
+(a) The Appellant, which incorporated on August 31, 1998, operates a dairy farm. (admitted)
+(b) Hans Stirniman, Jr., was the sole shareholder of the Appellant. (admitted)
+(c) The Appellant's herd consisted of roughly 75 dairy cows and a few calves. (admitted)
+(d) The Appellant's activities were centred on dairy production and on the growing of hay as feed for the livestock. (admitted)
+(e) In 2004, the Appellant hired the Worker on a temporary basis to look after the milking of cows and perform certain farm-related work. (denied)
+(f) During his employment, the Worker was enrolled in an adult education course at the local high school, and Mr. Stirniman taught him how to do work related to the operation of his farm. (admitted)
+(g) On January 1, 2005, after the Worker completed his course, the Appellant hired him as a regular employee. (denied)
+(h) The Worker's main duties consisted in:
+- milking the cows twice a day
+- swing crops
+- feeding livestock
+- cleaning the barn
+- performing other duties determined by Mr. Stirniman. (admitted)
+(i) The Worker provided all his services on the Appellant's farm. (admitted)
+(j) During the summer season, the Worker worked 70 to 80 hours per week. (admitted)
+(k) During the winter season (October to December), the Worker worked an average of 20 hours per week. (admitted)
+(l) In January 2005, the Worker's wage was $8.00 per hour, and during the remainder of the period in issue, his wage was $10.00 per hour. (admitted)
+(m) The Worker's hours were controlled by the Appellant because he had to punch his hours on a card at the beginning and end of his work day. (admitted)
+(n) The Worker was paid by a cheque from the Appellant every two weeks. (admitted)
+(o) The Worker had to do the work himself; he could not have himself replaced or hire an assistant without the Appellant's authorization. (admitted)
+(p) The Worker had CSST [workers' compensation] coverage for his job and the Appellant paid the premiums for it. (admitted)
+(q) The Worker had no paid vacation or sick leave and was not paid a higher hourly rate for his overtime. (admitted)
+(r) The Appellant considers the Worker self-employed, while the Worker considers himself an employee of the Appellant's. (admitted)
+(s) All aspects of the Worker's work were supervised by the Appellant. (admitted)
+[42] The evidence also discloses a number of relevant facts, the first of which is that the contracting parties' knowledge and experience differed considerably. One of the parties operated a sizeable farm and had years of experience, and the other was a young man, barely out of school, with no experience in the labour market and no knowledge of its technicalities. In fact, it was shown that he underwent training and completed one or more apprenticeships.
+[43] These factors are of considerable importance to the way in which the agreement was arrived at. Indeed, there is no possible doubt that a young, inexperienced man who is offered the choice between, on the one hand, a higher salary without source deductions and the ability to deduct expenses, and, on the other hand, a salary cut down by various withholdings and the inability to deduct his expenses, will opt for the type of contract that is more beneficial to him in the short term.
+[44] Although the opportunity to earn one or two more dollars per hour under a contract of enterprise is attractive in the short term, a worker must not lose sight of the fact that farm work is generally seasonal and that, under such conditions, it is significantly preferable for a person to participate in the employment insurance system under a contract of employment so that he can be eligible for benefits during the winter unemployment period.
+[45] Moreover, a very quick calculation shows, very convincingly, that a payor has a lot to gain from a contract of enterprise in that it greatly simplifies the administration of the payor's operations and enables the payor to terminate an agreement quickly without being subject to any restrictions such as regarding notices of termination.
+[46] However, in light of the facts as a whole and the circumstances disclosed by the evidence, it seems clear to me that the Appellant had control over Mr. Bonsant's activities at all times. Indeed, there was a true relationship of subordination, and the Appellant had a constant right to oversee the work.
+[47] It is a fact that the work of milking the cows, which was paid for on a fixed‑price basis, was performed by Samuel Bonsant and his brother on many occasions; they shared the fixed price that was paid. Obviously, this is a characteristic of a contract of enterprise.
+[48] The Appellant was aware of this practice and consented to it. This was a special aspect of the case at bar.
+[49] It must be understood that the milking of cows should ideally be done at specific times of the day, and very promptly.
+[50] The fact that the Appellant had confidence in the Bonsant brothers and that they had the necessary skill to perform this work is not, in my view, sufficient to conclude that a contract of enterprise existed.
+[51] The situation could have been different if Samuel Bonsant's work had consisted solely of milking the cows or doing the related chores.
+[52] In the case at bar, this was certainly an important component of Samuel Bonsant's work, but it was not the only work that he did. The method of remuneration is of some relevance in determining whether a contract is one of employment or enterprise. However, it is not a determinative factor. Indeed, many employees are paid by the task, by the piece, or based on the amount of work done.
+[53] Despite the fixed-price arrangement and Samuel's brother's participation, I am satisfied that there was a relationship of subordination and have no doubt that the Appellant would have reacted very openly if the brother had done something wrong or had performed his work negligently or carelessly.
+[54] The Appellant would certainly not have gone to Samuel Bonsant about any reprehensible conduct engaged in by his brother. He would have spoken with the culprit himself.
+[55] In fact, Mr. Stirniman stressed that he would not have allowed just anyone to do this work. Mr. Bonsant's brother's assistance was subject to Mr. Stirniman's approval.
+[56] Based on the preponderance of the evidence, primarily the evidence regarding the factors favouring the existence of a relationship of subordination between the Appellant and the worker Samuel Bonsant, I find that, despite the agreement between the parties, the work was performed under a contract of service.
+[57] For all these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 9th day of August 2007.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 5th day of September 2007.
+Brian McCordick, Translator
+CITATION: 2007TCC391
+COURT FILE NO.: 2006-2761(EI)
+STYLE OF CAUSE: FERME YOANIE INC. AND THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: March 8, 2007, and June 26, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: August 9, 2007
+APPEARANCES:
+Agent for the Appellant:
+Counsel for the Appellant:
+Hans Stirniman, Jr. (March 8, 2007)
+François Bouchard (June 26, 2007)
+Counsel for the Respondent:
+Simon-Nicolas Crépin
+COUNSEL OF RECORD:
+For the Appellant: François Bouchard
+Sherbrooke, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

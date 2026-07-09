@@ -1,0 +1,134 @@
+Title: Fendelet c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29450/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-483-29450-fendelet-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-09-29
+
+# Fendelet c. La Reine
+
+- Citation: 2009 CCI 483
+- Decision date: 2009-09-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6941, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fendelet c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-29
+Référence neutre
+2009 CCI 483
+Numéro de dossier
+2008-1936(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-1936(IT)I
+ENTRE :
+DONNA FENDELET,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue les 3 et 18 septembre 2009, à Toronto (Ontario).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant de l’appelante :
+Dan F. White
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+____________________________________________________________________
+ORDONNANCE
+VU la requête de l’intimée demandant à la Cour d’ordonner que le présent appel soit entendu sous le régime de la procédure générale;
+LA COUR ORDONNE QUE :
+1. en vertu de l’article 18.3002 de la Loi sur la Cour canadienne de l’impôt (la « Loi »), les dispositions 17.1 à 17.8 de la Loi s’appliquent en l’espèce;
+2. l’appelante dépose un avis d’appel établi selon la formule 21(1)a) prévue par les Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») dans les 60 jours suivant la date de la présente ordonnance;
+3. l’intimée dépose une réponse à l’avis d’appel conformément à l’article 49 des Règles dans les 60 jours suivant la date de réception de l’avis d’appel susmentionné.
+Chacune des parties assumera ses propres dépens à l’égard de la présente requête.
+Signé à Ottawa, Canada, ce 29e jour de septembre 2009.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 27e jour d’octobre 2009.
+Alya Kaddour-Lord, traductrice
+Référence : 2009 CCI 483
+Date : 20090929
+Dossier : 2008-1936(IT)I
+ENTRE :
+DONNA FENDELET,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Woods
+[1] Le procureur général du Canada a demandé à la Cour d’ordonner que le présent appel soit entendu sous le régime de la procédure générale.
+[2] Le présent appel a trait aux cotisations établies à l’égard de l’appelante en vertu de la Loi de l'impôt sur le revenu pour les années d’imposition 1995, 1996 et 1997.
+[3] Dans son avis d’appel, l’appelante a choisi que son appel soit entendu sous le régime de la procédure informelle. On peut douter de la validité de ce choix à l’égard de deux des trois années d’imposition parce qu’il semble que les montants en cause étaient supérieurs à la limite de 12 000 $ prévue par le paragraphe 18(1) de la Loi sur la Cour canadienne de l’impôt (la « Loi »).
+[4] Dan F. White de FDW Accounting représentait l’appelante à l’audience.
+[5] L’appelante s’oppose à la demande de l’intimée. M. White a déclaré que l’appelante n’avait pas les moyens financiers de se faire représenter par un avocat dans le cadre de son appel, ajoutant qu’il représentait l’appelante à titre gracieux.
+[6] En outre, M. White a informé la Cour que l’appelante était disposée à réduire à 12 000 $ le montant en cause pour chaque année d’imposition.
+Les observations
+[7] Le procureur général du Canada a déposé sa demande conformément aux paragraphes 18.11(1) et (2) de la Loi, lesquels prévoient ce qui suit :
+18.11 (1) À la demande du procureur général du Canada, la Cour peut ordonner qu’un appel visé à l’article 18 soit régi par les articles 17.1 à 17.8.
+(2) La Cour est tenue de faire droit à une demande présentée en vertu du paragraphe (1) si :
+a) d’une part, la décision sur l’appel aura vraisemblablement un effet sur un autre appel interjeté par l’appelant ou sur la détermination d’une autre cotisation ou cotisation proposée – pour la même ou pour une autre année d’imposition – établie à l’égard de l’appelant;
+b) d’autre part, le total de tous les montants en cause – montant faisant l’objet de l’appel visé dans la demande et montants visés dans l’autre appel et dans l’autre cotisation ou cotisation proposée et sur lesquels la décision visée à l’alinéa a) aura vraisemblablement un effet – est supérieur à 12 000 $.
+[8] L’avocate de l’intimée, Me Mboutsiadis, fait valoir que la Cour est tenue, en vertu du paragraphe 18.11(2), de faire droit à la demande. Dès lors, la question à trancher est de savoir si les deux exigences prévues par la disposition ont été satisfaites. J’examinerai chaque exigence séparément.
+[9] La première exigence est celle de l’alinéa 18.11(2)a). Essentiellement, cette disposition exige que la décision sur un appel interjeté à l’égard d’une des années d’imposition en cause ait vraisemblablement un effet sur l’issue des autres appels interjetés.
+[10] Me Mboutsiadis a affirmé que cette exigence était satisfaite parce que les questions en litige étaient les mêmes pour toutes les années d’imposition, à savoir les questions de savoir si la société appelée Softcom Solutions Partnership était une entreprise de commercialisation d’un logiciel et si un certain logiciel avait été acheté en vue d’en tirer un profit ou de produire un revenu.
+[11] Bien qu’on ne m’ait fourni que très peu d’informations contextuelles relativement au litige, il ressort de l’avis de ratification et de l’avis d’appel que certaines questions se posent à l’égard de toutes les années d’imposition. M. White ne l’a pas nié.
+[12] Les extraits pertinents de l’avis d’appel sont ainsi rédigés :
+[traduction]
+Au paragraphe trois de l’avis de ratification, il est énoncé que Softcom Solutions Partnership n’est pas parvenue à démontrer qu’elle avait exploité l’entreprise de commercialisation de logiciel dans une attente raisonnable de profit.
+Au paragraphe quatre de l’avis de ratification, il est énoncé que Softcom Solutions Partnership n’a pas acheté le logiciel afin d’en tirer un profit ou de produire un revenu.
+Au paragraphe cinq de l’avis de ratification, il est énoncé que le logiciel n’était pas disponible pendant les années d’imposition 1995, 1996 ou 1997.
+Au paragraphe six de l’avis de ratification, il est énoncé que la société avait un lien de dépendance avec le vendeur du logiciel.
+[13] Par conséquent, je conclus que l’exigence de l’alinéa 18.11(2)a) de la Loi a été satisfaite.
+[14] Je me penche maintenant sur l’exigence de l’alinéa 18.11(2)b). Cette disposition exige que le total des montants suivants soit supérieur à 12 000 $ : 1) les montants en cause pour une année d’imposition; 2) les montants en cause pour les autres années, sur lesquels la décision aura vraisemblablement un effet.
+[15] Me Mboutsiadis affirme que les montants en cause sont les suivants : 13 935,75 $ pour 1995, 16 844,13 $ pour 1996 et 1 961,73 $ pour 1997.
+[16] Ces montants, même s’ils sont réduits à 12 000 $ pour chaque année, satisfont à l’exigence de l’alinéa 18.11(2)b). M. White ne l’a pas nié.
+[17] Ainsi, je conclus que les deux conditions du paragraphe 18.11(2) ont été satisfaites et que le procureur général du Canada a le droit de demander que l’appel soit entendu sous le régime de la procédure générale.
+[18] J’ajouterais qu’il est possible, tout compte fait, qu’il convienne d’entendre l’appel sous le régime de la procédure générale. Le litige semble être relativement complexe et le fait de procéder à des interrogatoires préalables pourrait vraisemblablement s’avérer utile.
+[19] En outre, j’ai appris que plusieurs autres personnes ont interjeté appel relativement à la société en cause en l’espèce et attendent que leur cause soit entendue. M. White a soutenu que les circonstances entourant l’affaire de l’appelante étaient différentes des autres. Il serait d’autant plus utile de procéder à des interrogatoires préalables.
+[20] Par ailleurs, je prends toute la mesure des coûts qu’un tel procès est susceptible de générer à la lumière des montants en cause. Je voudrais souligner que mon confrère, le juge Bonner, a évoqué cette question dans un article qu’il a présenté en 1991 à la British Columbia Tax Conference (Congrès sur les questions fiscales de la Colombie‑Britannique), financée par l’Association canadienne d’études fiscales. L’extrait pertinent est ainsi rédigé :
+[traduction]
+[…] Il n’y a pas d’exception à la règle générale voulant que le choix de voir l’appel entendu sous le régime de la procédure générale ou informelle revienne au contribuable, sous réserve des conditions relatives au montant maximal prévu. L’article 18.11 permet à la Cour, à la demande du procureur général du Canada, d’ordonner que l’appel soit régi par les articles 17.1 à 17.8, autrement dit qu’il soit entendu sous le régime de la procédure générale. La Cour est tenue de faire droit à la demande si la décision est vraisemblablement susceptible d’avoir un effet sur un autre appel interjeté par l’appelant ou sur une autre cotisation établie à l’égard de l’appelant, ou encore si la question est commune à un groupe ou à une catégorie de personnes. Il faut espérer qu’on se prévaudra de cette disposition avec modération. Car après tout, si le ministre se trompe en calculant le montant de l’impôt dû, de sorte que ce montant est suffisamment bas pour permettre au contribuable de se prévaloir de la procédure informelle, le contribuable ne devrait pas se voir privé de ce droit simplement parce que le ministre a répété la même erreur dans les cotisations qu’il a établies à son égard pour l’année ou les deux années suivantes. Bien des gens sont d’avis que les montants maximaux prévus sont beaucoup trop faibles. En vertu de l’article 18.27 de la Loi, le gouverneur en conseil peut augmenter les limites de 7 000 $ et 14 000 $ à 12 000 $ et à 24 000 $ respectivement, mais de nombreuses personnes pensent que ces montants seraient encore trop faibles. Le travail juridique à accomplir en vue de représenter un appelant dont l’appel est entendu sous le régime de la procédure générale est habituellement considérable et coûteux, et il serait très malheureux qu’on se retrouve dans une situation où seuls les nantis peuvent se permettre de contester une cotisation fiscale.
+[21] À la lumière de cette préoccupation, je suggérerais à l’appelante, au cas où elle aurait des questions concernant la procédure qui s’applique sous le régime de la procédure générale, de contacter le coordonnateur des audiences afin de lui demander d’organiser une téléconférence avec le juge responsable de la gestion de l’instance.
+[22] Par conséquent, la requête de l’intimée est accordée. La Cour rendra une ordonnance visant à ce que les appels interjetés à l’encontre des cotisations établies à l’égard de l’appelante pour les trois années d’imposition en cause soient entendus sous le régime de la procédure générale.
+[23] Chacune des parties assumera ses propres dépens à l’égard de la présente requête.
+Signé à Ottawa, Canada, ce 29e jour de septembre 2009.
+« J. M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 27e jour d’octobre 2009.
+Alya Kaddour-Lord, traductrice
+RÉFÉRENCE : 2009 CCI 483
+NO DU DOSSIER DE LA COUR : 2008-1936(IT)I
+INTITULÉ : Donna Fendelet et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATES DE L’AUDIENCE : Les 3 et 18 septembre 2009
+MOTIFS DE L’ORDONNANCE : L’honorable juge J. M. Woods
+DATE DE L’ORDONNANCE : Le 29 septembre 2009
+COMPARUTIONS :
+Représentant de l’appelante :
+Dan F. White
+Avocate de l’intimée :
+Me Jenny P. Mboutsiadis
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

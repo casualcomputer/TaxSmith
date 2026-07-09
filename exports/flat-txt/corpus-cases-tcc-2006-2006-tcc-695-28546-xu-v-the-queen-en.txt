@@ -1,0 +1,165 @@
+Title: Xu v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28546/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-695-28546-xu-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-12-21
+
+# Xu v. The Queen
+
+- Citation: 2006 TCC 695
+- Decision date: 2006-12-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1079, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Xu v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-12-21
+Neutral citation
+2006 TCC 695
+File numbers
+2006-419(IT)G
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-419(IT)G
+BETWEEN:
+CHRISTINE Q. XU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Application heard on November 9, 2006 at
+Toronto ,
+Ontario
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+Giuseppe G.M. LoPresti
+Counsel for the Respondent:
+John Grant
+____________________________________________________________________
+ORDER
+Upon motion by the Appellant for an order striking the following portions of the Respondent’s Reply to the Notice of Appeal:
+1. paragraph 3;
+2. subparagraph 4(iii);
+3. the first sentence of paragraph 5;
+4. paragraph 7;
+5. paragraph 10;
+6. paragraph 12, the words “and confirming” in the preamble, and subparagraphs 12(b), (d), (e), (f) and (g);
+7. paragraph 13;
+8. paragraph 14;
+9. paragraph 17; and
+10. paragraph 18.
+And for an Order granting leave to the Respondent to file an Amended Reply to the Notice of Appeal, and extending the time within which the Appellant may file an Answer to the Reply;
+And upon reading the pleadings and other material, filed;
+And upon hearing counsel for the parties;
+IT IS ORDERED THAT:
+1. Paragraphs 3, 7 and 17, subparagraph 4(iii), and the first sentence of paragraph 5 shall be struck from the Respondent’s Reply;
+2. The Respondent is permitted to file and serve an Amended Reply to the Notice of Appeal prior to February 1, 2007;
+3. The Appellant may file and serve an Answer to the Reply or Amended Reply prior to March 16, 2007; and
+4. Costs of this motion shall be costs in the cause.
+Signed at
+Ottawa ,
+Canada
+, this 21st day of December, 2006.
+“M.A. Mogan”
+Mogan D.J.
+Citation: 2006TCC695
+Date: 20061221
+Docket: 2006-419(IT)G
+BETWEEN:
+CHRISTINE Q. XU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Mogan D.J.
+[1] The Appellant has made a motion to the Court for an order striking out portions of the Respondent’s Reply dated April 18, 2006. The appeal is from a reassessment with respect to the Appellant’s 1998 taxation year. The Notice of Reassessment was mailed to the Appellant on April 28, 2004, long after the “normal reassessment period” as that phrase is defined in subsection 152(3.1) of the Income Tax Act (the ”Act”). Because the reassessment is “statute barred” in income tax jargon, the Minister of National Revenue will have to satisfy one of the conditions in paragraph 152(4)(a) of the Act.
+[2] The Appellant’s motion is for an order, under section 53 of the General Procedure Rules, striking out the following portions of the Respondent’s Reply:
+1. paragraph 3;
+2. subparagraph 4(iii);
+3. the first sentence of paragraph 5;
+4. paragraph 7;
+5. paragraph 10;
+6. paragraph 12, the words “and confirming” in the preamble, and subparagraphs 12(b), (d), (e), (f) and (g);
+7. paragraph 13;
+8. paragraph 14;
+9. paragraph 17; and
+10. paragraph 18.
+[3] After hearing argument by both counsel with respect to each portion of the Reply which the Appellant seeks to strike out, I have determined that the motion will succeed in part. Subsections 49(1) and (2) and section 53 are the most relevant provisions of the Rules:
+49(1) Subject to subsection (1.1), every reply shall state
+(a) the facts that are admitted,
+(b) the facts that are denied,
+(c) the facts of which the respondent has no knowledge and puts in is
+sue ,
+(d) the findings or assumptions of fact made by the Minister when making the assessment,
+(e) any other material fact,
+(f) the is
+sue s to be decided,
+(g) the statutory provisions relied on,
+(h) the reasons the respondent intends to rely on, and
+(i) the relief sought.
+49(2) All allegations of fact contained in a notice of appeal that are not denied in the reply shall be deemed to be admitted unless it is pleaded that the respondent has no knowledge of the fact.
+53 The Court may strike out or expunge all or part of a pleading or other document, with or without leave to amend, on the ground that the pleading or other document,
+(a) may prejudice or delay the fair hearing of the action,
+(b) is scandalous, frivolous or vexatious, or
+(c) is an abuse of the process of the Court.
+For convenience, I will group together those portions of the Reply which are objectionable to the Appellant under a common argument but, in these reasons, I will not set out in full all of those portions of the Reply.
+[4] The Appellant argues that paragraphs 3 and 7, subparagraph 4(iii) and the first sentence of paragraph 5 of the Reply are not good pleadings because, instead of admitting, denying or pleading lack of knowledge of certain facts alleged in the Notice of Appeal (in accordance with Rule 49), they purport to admit facts which the Appellant did not allege; they also allege evidence, not fact; and they allege conclusions of law for which no supporting fact is alleged. I find significant merit in the Appellant’s arguments with respect to paragraphs 3 and 7, and subparagraph 4(iii) of the Reply. Counsel for the Respondent attempted to defend his pleading on the basis of “context” in that he was trying to admit what he could while qualifying his admission with collateral allegations in the same subject area.
+[5] I will strike out paragraphs 3 and 7 of the Reply because they purport to admit certain facts in paragraphs 9 and 13 (respectively) of the Notice of Appeal when those facts are simply not alleged. A defendant in civil litigation is permitted to admit only those facts alleged by a plaintiff. The admission should be a “stand alone” event, not clouded by the defendant’s own allegations in the subject area of the admission.
+[6] I will also strike out subparagraph 4(iii) of the Reply because the Appellant alleged that an amount was “claimed” whereas the Respondent admitted that the same amount was “paid out”. The two words may not have the same meaning. In accounting, an amount may be accrued as a de facto liability (and deducted in computing profit/income) without being paid in the fiscal period when the liability arose. In my opinion, the Appellant’s word “claimed” is imprecise to say the least, but the Respondent is not permitted to interpret it as “paid out” when the word is patently imprecise.
+[7] In the Notice of Appeal, paragraph 11 states:
+11. On the basis of the above-recited findings or assumptions, the Minister determined that subsection 9(1) of the Income Tax Act of Canada required the Appellant to include $144,521 in her 1998 income and that subparagraph 152(4)(a)(i) of the Act permitted the Minister to issue the subject reassessment after the normal reassessment period for the subject year.
+In the Reply, paragraph 5 begins with the following sentence:
+5. With respect to paragraph 11 of the Notice of Appeal, he admits that the Minister reassessed the Appellant, pursuant to subparagraph 152(4)(a)(i) of the Act, to include income in the amount of $144,521 pursuant to sections 3 and 9 of the Act.
+In paragraph 11, there is no reference to section 3 of the Act but, in paragraph 5, there is a purported admission which includes a reference to section 3. This is a good example of attempting to admit a fact which was not alleged. I will strike out the first sentence in paragraph 5 of the Reply.
+[8] Paragraph 10 of the Reply states:
+10. In filing her return and computing income for her 1998 taxation year, the Appellant failed to include income in the amount of $144,521.
+The Appellant argues that paragraph 10 should be struck out because it pleads a conclusion of law, namely, that the amount of $144,521 was income. Counsel for the Appellant argued that “income” is a defined term in the Act and, therefore, it is a conclusion of law to allege that a particular amount is income. In my opinion, that is not a valid argument for a number of reasons. First, income is not defined in section 248 of the Act which is the general definition provision. Second, sections 3, 4, 5 and 9 of the Act contain some basic rules to determine income from different sources without attempting to define “income”. Although section 9 states that income from business or property is the profit therefrom, the courts have held that, subject to the Act, income is determined by accounting principles and business practice.
+[9] And third, even if income were defined in the Act, it is not a conclusion of law to allege that a particular amount from a particular source is income. The person making the allegation is simply claiming that there is or will be evidence to bring the particular amount within the (hypothetical) defined term. I might add that, if a taxpayer/Appellant or the Minister/Respondent could not allege that a particular amount was or was not income (on the basis that such allegation was a conclusion of law), valid pleadings in this Court would be very difficult to draft. I will not strike out paragraph 10 of the Reply.
+[10] The Appellant seeks to strike out the words “and confirming” in the preamble to paragraph 12 of the Reply because those words make it impossible to determine which assumptions the Minister made when reassessing. The Appellant’s argument is without merit. There is a significant difference between “and” and “or”. The words “and confirming” make it clear that the Minister made the same assumptions when reassessing and when confirming.
+[11] The Appellant seeks to strike out the following five subparagraphs: 12(b), (d), (e), (f) and (g). I will not strike out 12(b) because, in my opinion, it is not vague, ambiguous or irrelevant. I will not strike out 12(d), 12(e) or 12(g) because, in my opinion, those subparagraphs do not include conclusions of law. To support my view, I refer to paragraphs 8 and 9 above. And finally, I will not strike out 12(f). If the statement in 12(f) is an assumption which the Minister made when reassessing and confirming, it is good pleading to include it in the Reply. If the Minister makes an alternative argument someplace else in the Reply which is in conflict with the fact assumed in 12(f), there is nothing wrong with pleading inconsistent alternatives.
+[12] The Appellant’s objection to paragraphs 13 and 14 of the Reply on the basis that they plead conclusions of law are rejected for the reasons set out in paragraphs 8 and 9 above. I will not strike out paragraph 13 or paragraph 14 but counsel for the Respondent did agree to amend his Reply to change the third word in paragraph 14 from “assumes” to “alleges”.
+[13] I will strike out paragraph 17 of the Reply because, under the heading “Statutory Provisions and Grounds Relied On”, the Respondent should not allege a new fact or make a new argument based on a fact not previously alleged.
+[14] The Appellant claims that paragraph 18 of the Reply should be struck out because the Respondent is relying on a shareholder benefit of $144,521 under subsection 15(1) of the Act when no fact was alleged to support that submission. I reject the Appellant’s claim. Under the assumption listed in paragraph 12 of the Reply, 12(c) states that the Appellant was the sole shareholder of RX; and 12(f) states that the Appellant “received the benefit of $144,521 from RX”. I will not strike out paragraph 18.
+[15] In summary, I will strike out only the following portions of the Respondent’s Reply: paragraphs 3, 7 and 17; subparagraph 4(iii); and the first sentence of paragraph 5. The Respondent is permitted to file and serve an Amended Reply any time prior to February 1, 2007. The Appellant may file and serve an Answer to the Reply or Amended Reply any time prior to March 16, 2007. Costs of the motion will be in the cause.
+Signed at
+Ottawa ,
+Canada
+, this 21st day of December, 2006.
+“ M.A. Mogan”
+Mogan D.J.
+CITATION: 2006TCC695
+COURT FILE NO.: 2006-419(IT)G
+STYLE OF CAUSE: CHRISTINE Q. XU AND THE QUEEN
+PLACE OF HEARING:
+Toronto ,
+Ontario
+DATE OF HEARING: November 9, 2006
+REASONS FOR ORDER BY: The Honourable Justice M.A. Mogan
+DATE OF ORDER: December 21, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Giuseppe G.M. LoPresti
+Counsel for the Respondent:
+John Grant
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Giuseppe G.M. LoPresti
+Firm: Fitzsimmons & Company
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of
+Canada
+Ottawa ,
+Canada

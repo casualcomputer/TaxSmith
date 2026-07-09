@@ -1,0 +1,148 @@
+Title: Doulis c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/66578/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-26-66578-doulis-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-01-23
+
+# Doulis c. La Reine
+
+- Citation: 2014 CCI 26
+- Decision date: 2014-01-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5999, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Doulis c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-01-23
+Référence neutre
+2014 CCI 26
+Numéro de dossier
+2013-1893(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1893(IT)I
+ENTRE :
+Alexander C. Doulis,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 7 janvier 2014 à Toronto (Ontario)
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Lindsay Beelen
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2010 est rejeté.
+Signé à Québec (Québec), ce 23e jour de janvier 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 10e jour de mars 2014.
+C. Laroche
+Référence : 2014 CCI 26
+Date : 2014-01-23
+Dossier : 2013-1893(IT)I
+ENTRE :
+Alexander C. Doulis,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] Il s’agit d’un appel à l’encontre d’une nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») pour l’année d’imposition 2010. Le ministre a rejeté des frais d’intérêts de 8 953 $.
+[2] Ce montant correspond aux intérêts versés par l’appelant à l’Agence du revenu du Canada (l’« ARC ») sur des arriérés d’impôt en souffrance qu’il devait au titre de la Loi de l’impôt sur le revenu (la « Loi »).
+[3] L’appelant déclarait dans son avis d’appel qu’il avait ouvert à l’île de Man, R.‑U., un compte de placement dont il touchait des intérêts et gains en capital qu’il a déclarés à l’ARC. Il a indiqué qu’il finançait ce compte d’investissement à l’aide de fonds qui, autrement, auraient été payés à l’ARC à l’égard de l’impôt exigible au titre de la Loi. Il affirme maintenant que, en raison de son endettement envers l’ARC, il a engagé des frais d’intérêt, à savoir les intérêts versés à l’ARC sur le montant des arriérés d’impôt ayant servi à financer son compte d’investissement. À son avis, les intérêts payés à l’ARC (8 953 $) sont un montant payé ou payable en exécution d’une obligation légale de payer des intérêts sur de l’argent emprunté à l’ARC et utilisé en vue de tirer un revenu de son investissement au R.-U. et les intérêts en question, dit-il, sont déductibles en vertu des alinéas 18(1)a) et 20(1)c) de la Loi.
+[4] L’appelant affirme en outre que les intérêts ont été versés à l’ARC aux termes d’une obligation contractuelle engendrée dans le contexte d’une relation prêteur‑emprunteur entre lui-même et l’ARC. Il prétend que le bref de saisie‑exécution obtenu par l’ARC à son encontre à l’égard de ses actions et dividendes (pièce A-1) atteste l’existence d’une créance légale qu’il doit à l’ARC et découlant de l’argent emprunté à l’ARC.
+[5] L’avocate de l’intimée a soutenu que les intérêts en cause avaient été payés au titre d’une obligation légale de verser des intérêts à l’égard d’impôts exigibles pour les années antérieures, conformément au paragraphe 161(1) de la Loi. Donc, les intérêts en cause ont été payés ou étaient payables au titre de la Loi et, par conséquent, en application de l’alinéa 18(1)t) de la Loi, ne sont pas déductibles.
+[6] À titre de subsidiaire, l’avocate de l’intimée a soutenu que, si j’admettais que l’appelant a emprunté de l’argent de l’ARC, l’intérêt n’avait pas été versé sur les fonds empruntés et utilisés directement pour tirer un revenu d’une entreprise ou d’un bien en vertu des alinéas 18(1)a) et 20(1)c).
+Dispositions législatives
+18. (1) Exceptions d’ordre général – Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale – les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+b) Dépense ou perte en capital – une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[…]
+h) Frais personnels ou de subsistance – le montant des frais personnels ou de subsistance du contribuable – à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+[…]
+t) Paiements en vertu de diverses lois – toute somme payée ou à payer :
+(i) en vertu de la présente loi, sauf l’impôt payé ou à payer en vertu des parties XII.2 ou XII.6,
+(ii) à titre d’intérêts en vertu de la partie IX de la Loi sur la taxe d’accise,
+(iii) à titre d’intérêts en vertu de la Loi sur le droit pour la sécurité des passagers du transport aérien;
+[…]
+20. (1) Déductions admises dans le calcul du revenu tiré d’une entreprise ou d’un bien - Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d’une entreprise ou d’un bien pour une année d’imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu’il est raisonnable de considérer comme s’y rapportant :
+[…]
+(c) Intérêts – la moins élevée d’une somme payée au cours de l’année ou payable pour l’année (suivant la méthode habituellement utilisée par le contribuable dans le calcul de son revenu) et d’une somme raisonnable à cet égard, en exécution d’une obligation légale de verser des intérêts sur :
+(i) de l’argent emprunté et utilisé en vue de tirer un revenu d’une entreprise ou d’un bien (autre que l’argent emprunté et utilisé pour acquérir un bien dont le revenu serait exonéré ou pour contracter une police d’assurance-vie),
+(ii) une somme payable pour un bien acquis en vue d’en tirer un revenu ou de tirer un revenu d’une entreprise (à l’exception d’un bien dont le revenu serait exonéré ou à l’exception d’un bien représentant un intérêt dans une police d’assurance-vie),
+[…]
+Intérêts
+161. (1) Dispositions générales – Dans le cas où le total visé à l’alinéa a) excède le total visé à l’alinéa b) à un moment postérieur à la date d’exigibilité du solde qui est applicable à un contribuable pour une année d’imposition, le contribuable est tenu de verser au receveur général des intérêts sur l’excédent, calculés au taux prescrit pour la période au cours de laquelle cet excédent est impayé :
+a) le total des impôts payables par le contribuable pour l’année en vertu de la présente partie et des parties I.3, VI et VI.1;
+b) le total des montants représentant chacun un montant payé au plus tard à ce moment au titre de l’impôt payable par le contribuable et imputé par le ministre, à compter de ce moment, sur le montant dont le contribuable est redevable pour l’année en vertu de la présente partie ou des parties I.3, VI ou VI.1.
+[…]
+PARTIE XVII — INTERPRÉTATION
+248. (1) Définitions – Les définitions qui suivent s’appliquent à la présente loi.
+[…]
+« argent emprunté » Y est assimilé le produit, pour un contribuable, provenant de la vente d’une lettre postdatée tirée par le contribuable sur une banque.
+[…]
+« entreprise » Sont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et, sauf pour l’application de l’alinéa 18(2)c), de l’article 54.2, du paragraphe 95(1) et de l’alinéa 110.6(14)f), les projets comportant un risque ou les affaires de caractère commercial, à l’exclusion toutefois d’une charge ou d’un emploi.
+[…]
+« montant » Argent, droit ou chose exprimés sous forme d’un montant d’argent, ou valeur du droit ou de la chose exprimée en argent. Toutefois : […]
+Analyse
+[7] Je suis d’avis que le sous-alinéa 18(1)t)(i) de la Loi interdit clairement la déduction des intérêts en cause en l’espèce.
+[8] Les intérêts sont un montant payé ou payable au titre « de la présente loi » (la Loi). C’était en raison de l’application du paragraphe 161(1) de la Loi que l’appelant était tenu de payer des intérêts sur l’impôt dû à l’égard des années antérieures. Le fait que le sous-alinéa 18(1)t)(i) ne précise pas quels sont les montants particuliers non déductibles au titre de la Loi ne signifie pas que les intérêts sont exclus des montants payés ou payables au titre de la Loi et qui ne peuvent pas être déduits au titre de cette disposition. Bien au contraire, cela signifie qu’aucun montant payé ou payable au titre de la Loi, hormis l’impôt payé ou payable au titre de la partie XII.2 ou de la partie XII.6 (ce n’est pas le cas ici) ne peut être déduit du calcul du revenu.
+[9] Cette interprétation est conforme aux Notes explicatives sur le projet de loi concernant l’impôt sur le revenu publiées par le ministre des Finances en juin 1989, où, à l’article 8 portant sur l’introduction de l’alinéa 18(1)t), il précisait :
+Article 8
+Restrictions générales
+LIR
+18(1)t)
+L’article 18 de la Loi de l’impôt sur le revenu interdit la déduction de certains débours et certaines dépenses dans le calcul du revenu d’un contribuable provenant d’une entreprise ou d’un bien. La modification qui y est apportée s’applique aux années d’imposition 1989 et suivantes et ajoute l’alinéa 18(1)t) en vue d’interdire toute déduction à l’égard d’un montant – impôt, intérêts et pénalités – payable en vertu de la Loi.
+[10] Cette approche a également été confirmée dans Godsell v. The Queen, 96 DTC 1292, à la page 1294, [1995] A.C.I. no 1757 (QL), au paragraphe 18, conf. par 2001 CAF 196, 2001 DTC 5384, [2001] A.C.F. no 947 (QL).
+[11] L’appelant a soutenu que le sous-alinéa 18(1)t)(i) ne devrait pas se lire comme intégrant les intérêts versés au titre de la Loi, parce que les sous‑alinéas 18(1)t)(ii) et (iii), qui suivent cette disposition, mentionnent expressément que les intérêts au titre de la partie IX de la Loi sur la taxe d’accise et les intérêts au titre de la Loi sur le droit pour la sécurité des passagers du transport aérien sont des montants qui ne peuvent être déduits au titre de l’alinéa 18(1)t).
+[12] Je n’accepte pas cet argument. Les sous-alinéas 18(1)t)(ii) et (iii) précisent simplement que les intérêts payés au titre de ces deux lois précisément ne peuvent être déduits du revenu. Tel que je l’ai mentionné, selon le sous-alinéa 18(1)t)(i), tout montant payé au titre de la Loi, à l’exception de l’impôt payé ou payable au titre de la partie XII.2 et de la partie XII.6 (ce n’est pas le cas ici) n’est pas déductible, ce qui comprend les intérêts. C’est un cas où le libellé de la disposition est précis et sans équivoque et ne peut avoir le sens proposé par l’appelant.
+[13] De plus, j’admets également l’opinion de l’intimée selon laquelle le paiement des intérêts n’est pas, non plus, déductible au titre de l’alinéa 20(1)c) de la Loi. Tout d’abord, l’appelant n’a pas, à proprement parler, emprunté de l’argent à l’ARC. Je ne relève aucun élément de preuve de l’existence d’une relation prêteur‑emprunteur entre les parties. L’ARC n’a pas accepté de prêter de l’argent à l’appelant. L’appelant doit de l’impôt à l’ARC au titre de la Loi de l’impôt sur le revenu.
+[14] Il n’existe pas, en l’espèce, d’entente contractuelle entre les parties. Ce n’est pas une situation où il y a eu emprunt de capital établissant l’existence d’une relation de prêteur et d’emprunteur entre les parties (Minister of National Revenue v. T. E. McCool Ltd., [1950] R.C.S. 80.
+[15] De plus, même s’il existait une relation emprunteur-prêteur, il est clair que la fin directe de l’« argent emprunté » n’était pas de l’investir à l’extérieur du pays, mais plutôt de payer les intérêts sur l’impôt sur le revenu personnel que l’appelant devait à l’ARC.
+[16] Par conséquent, les frais d’intérêts ne sont pas déductibles (Singleton c. Canada, 2001 CSC 61, [2001] 2 R.C.S. 1046; LeCaine c. La Reine, 2009 CCI 382, 2009 DTC 1246, [2009] A.C.I. no 296 (QL)).
+[17] L’appel est rejeté.
+Signé à Québec (Québec), ce 23e jour de janvier 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 10e jour de mars 2014.
+C. Laroche
+RÉFÉRENCE : 2014 CCI 26
+NO DE DOSSIER DE LA COUR : 2013-1893(IT)I
+INTITULÉ : Alexander C. Doulis c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 7 janvier 2014
+MOTIFS DU JUGEMENT : L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT : Le 23 janvier 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Lindsay Beelen
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

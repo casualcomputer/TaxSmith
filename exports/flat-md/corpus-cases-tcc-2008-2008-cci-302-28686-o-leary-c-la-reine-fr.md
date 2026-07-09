@@ -1,0 +1,158 @@
+---
+title: "O'Leary c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28686/index.do"
+last_modified: "2008-05-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 302"
+citation2: ""
+neutral_citation: "2008 CCI 302"
+decision_date: "2008-05-14"
+language: "fr"
+item_id: "28686"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1476
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:46:37.375000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4905c790b65bdc271aed4a4fffaa9ab7d52fff248a680e7c8eafed7a8db3eabb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# O'Leary c. La Reine
+
+- Citation: 2008 CCI 302
+- Decision date: 2008-05-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1476, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+O'Leary c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-05-14
+Référence neutre
+2008 CCI 302
+Numéro de dossier
+2007-3331(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3331(IT)I
+ENTRE :
+PATRICIA O’LEARY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 25 février 2008, à Montréal (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelante :
+L’appelante elle-même
+Avocat de l'intimée :
+Me Vlad Zolia
+____________________________________________________________________
+JUGEMENT
+L'appel de l’appelante interjeté à l'encontre des avis de nouvelle cotisation datés du 20 juillet 2006 et du 3 février 2006, concernant les années d’imposition 2003 et 2004 est rejeté, selon les motifs du jugement ci joints.
+Signé à Ottawa, Canada, ce 14e jour de mai 2008.
+« Réal Favreau »
+Juge Favreau
+Référence : 2008CCI302
+Date : 20080514
+Dossier : 2007-3331(IT)I
+ENTRE :
+PATRICIA O’LEARY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s’agit d’un appel à l’encontre d’avis de nouvelle cotisation datés du 20 juillet 2006 et du 3 février 2006 concernant les années d’imposition 2003 et 2004 en vertu desquels le ministre du Revenu national (le « ministre ») a établi, à titre de pénalité pour faute lourde en vertu du paragraphe 163(2) de la Loi l’impôt sur le revenu, chapitre 1 (5e suppl.) L.R.C. 1985, telle que modifiée (la « Loi »), les sommes respectives de 1 565,08 $ et de 1 120,55 $.
+[2] La question en litige soulevée dans cet appel est de savoir le ministre avait le droit d’imposer des pénalités à l’appelante en application du paragraphe 163(2) de la Loi, parce qu’elle avait réclamé dans ses déclarations de revenu pour les années en cause des dépenses de location qui furent refusées à la hauteur de 75 % approximativement. Plus précisément, les dépenses de location surestimées qui furent assujetties à la pénalité pour faute lourde s’élevaient à 14 418 $ pour l’année d’imposition 2003 et à 12 197 $ pour l’année d’imposition 2004 sur des revenus de location de 9 900 $ pour 2003 et de 8 750 $ pour 2004.
+[3] Les dépenses de location surestimées étaient, en grande partie, constituées de dépenses personnelles, soit des frais reliés à la résidence personnelle de l’appelante, d’achats de vêtements, d’articles de décoration et d’accessoires de parterre ainsi que des frais d’utilisation de véhicules à moteur.
+[4] Le ministre a déterminé que l’appelante avait fait sciemment, ou dans des circonstances qui justifient l’imputation d’une faute lourde, un faux énoncé ou une omission dans les déclarations de revenu produites pour les années d’imposition 2003 et 2004, ou a participé, consenti ou acquiescé à ce faux énoncé ou cette omission en se fondant sur les éléments suivants énoncés au paragraphe 6 de la Réponse à l’avis d’appel :
+i) l’appelante s’occupait elle-même du budget et de l’administration des immeubles (location, taxes, entretien, assurances, etc.);
+ii) l’appelante avait donc une notion de l’envergure des dépenses déboursées;
+iii) les dépenses de location surestimées étaient de nature personnelle et c’était l’appelante elle-même qui fournissait les factures ou documents au comptable;
+iv) le ministre est d’avis que l’appelante a fait montre dans cette affaire d’une négligence certaine : l’appelante aurait dû remarquer que les dépenses de location établies par le comptable étaient beaucoup trop élevées;
+v) l’appelante a signé les déclarations de revenu à l’égard des années d’imposition en litige.
+[5] Au stade des oppositions, l’appelante a contesté sa responsabilité quant à l’imposition des pénalités pour faute lourde à l’égard des dépenses de location surestimées en invoquant son état psychologique pendant cette période et en se considérant être victime d’un abus de confiance de la part de son comptable.
+Faits à l'origine du litige
+[6] Madame O’Leary a témoigné et elle a expliqué que, de 1996 à 2002, elle faisait préparer ses déclarations de revenu par des comptables agréés. Elle déclarait normalement des revenus nets de location minimes, mais pas de pertes de location pour les deux résidences unifamiliales dont elle était propriétaire, l’une sise à Notre-Dame‑du‑Lac (comté Témiscouata) et l’autre à Baie‑Comeau. En 2003, elle a déménagé de Sept‑Iles à Delson et le 11 avril 2003, elle a débuté ses nouvelles fonctions en tant que secrétaire au siège social d’Hydro-Québec à Montréal.
+[7] En avril 2004, sur la recommandation de son frère, monsieur Carol O’Leary, l’appelante a confié à monsieur Serge Cloutier le mandat de préparer ses déclarations de revenu pour l’année 2003. Ce dernier a accepté le mandat et a demandé à l’appelante de lui fournir toutes ses factures en lui disant qu’il en ferait le décompte. L’appelante lui a alors fourni l’ensemble de ses factures de dépenses annuelles en électricité, téléphone, taxes municipales et scolaires, hypothèques, assurances, câble, internet, pour l’année d’imposition 2003 et ce, pour toutes ses résidences (Baie‑Comeau, Notre‑Dame‑Du‑Lac et Delson). Tel que demandé, l’appelante a également fourni la valeur résidentielle de son véhicule, un Jeep sport Cherokee 1995, qu’elle a obtenu auprès du Club Automobile. Pour l’année d’imposition 2004, le même scénario s’est répété et l’appelante a remis à monsieur Cloutier toutes ses factures et elle a fourni les renseignements ci-dessus décrits.
+[8] L’appelante a elle-même signé ses déclarations de revenu pour chacune des années d’imposition en litige et elle a reconnu avoir été informée par monsieur Cloutier des montants qui lui seraient remboursés. Malgré les différences substantielles par rapport aux années antérieures, l’appelante n’a pas fait de vérification subséquemment à la production de ses déclarations de revenu et n’a pas posé de questions à monsieur Cloutier concernant les raisons pour lesquelles il y avait un écart si important par rapport aux années antérieures. L’appelante se sentait en confiance puisqu’elle croyait faire affaires avec un comptable agréé. Les honoraires exigés par ce professionnel au montant de 1 092,74 $ par année lui ont semblé être raisonnables et les pertes de location réclamées ne l’ont pas surprise outre mesure compte tenu des sommes qu’elle a dû débourser pour les rénovations à ses propriétés à revenu.
+[9] Monsieur Serge Cloutier, expert comptable, a également témoigné et il a relaté la procédure suivie dans tous ses dossiers. Il a dit qu’il avait rencontré l’appelante au début du mandat et qu’il lui avait expliqué les exigences de l’alinéa 18(1)a) de la Loi concernant la déductibilité des dépenses de location qui ne sont déductibles que dans la mesure où elles sont engagées dans le but de tirer un revenu d’une entreprise ou d’un bien, de même que les exigences de l’alinéa 18(1)(h) de la Loi qui ne permet pas de déduire les frais personnels et de subsistance et de l’article 67 de la Loi qui prévoit que seules les dépenses raisonnables peuvent être déduites. Sur réception des factures de l’appelante, il les a remises à madame Johanne Roy, une sous-traitante, pour qu’elle les comptabilise et pour qu’elle prépare un chiffrier. Cette dernière communique avec les clients si des factures sont manquantes ou si des renseignements additionnels sont requis. Monsieur Cloutier a confirmé toujours avoir vérifié le travail de madame Roy et il lui arrive souvent de refaire ou de modifier le chiffrier qu’elle a préparé.
+[10] Le chiffrier de l’appelante n’a pu être produit à l’audience parce qu’il a été perdu suite à une perquisition effectuée par l’Agence des douanes et du revenu aux bureaux de monsieur Cloutier en août 2004. Monsieur Cloutier a été poursuivi au criminel pour fraude fiscale, pour avoir gonflé indûment les dépenses de ses clients, mais il a été libéré de ces accusations le 11 juin 2007. Par contre, 25 des 250 clients de monsieur Cloutier ont présentement un litige avec les autorités fiscales.
+Position de l'appelante
+[11] L’appelante prétend que le comptable Cloutier a commis une erreur professionnelle en ne faisant pas le tri des factures dont le montant était déductible aux fins du calcul de l’impôt sur le revenu et en gonflant indûment les montants des dépenses réclamées. À l’audience, l’appelante a fourni des exemples de dépenses nettement injustifiées dont des frais de déplacement à Notre-Dame-Du-Lac et à Baie‑Comeau.
+[12] De plus, l’appelante prétend ne pas être à l’aise avec les chiffres et ne pas être en mesure de compléter elle-même ses déclarations de revenu.
+[13] Enfin, l’appelante prétend ne jamais avoir eu l’intention de frauder le fisc puisque les chiffres fournis sont tout à fait transparents et réels.
+Position de l'intimée
+[14] Les pénalités en vertu du paragraphe 163(2) de la Loi doivent être maintenues parce que l’appelante savait que les factures de dépenses personnelles n’étaient pas déductibles et elle les a tout de même remises au comptable sans vérification.
+[15] Lorsqu’elle a signé ses déclarations de revenu, l’appelante a, sans aucun doute, réalisé les grosses différences qu’il y avait par rapport aux années antérieures et elle s’est abstenue de poser des questions au comptable. De plus, elle n’a pas fait de vérification de ses déclarations de revenu après qu’elles aient été produites pour s’assurer que tout était en règle et dans les normes.
+Analyse
+[16] Le paragraphe 163(2) de la Loi impose une pénalité à toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration pour une année d’imposition ou y participe, y consent ou y acquiesce. Plus précisément, la partie du paragraphe 163(2) de la Loi qui précède les modalités de calcul de la pénalité, se lit comme suit :
+163(2) Faux énoncés ou omissions
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présente, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants : [. . . ]
+En vertu du paragraphe 163(2) de la Loi, le fardeau d’établir les faits qui justifient l’imposition de la pénalité repose sur le ministre et non sur le contribuable. Le paragraphe 163(3) de la Loi se lit comme suit :
+163(3) Charge de la preuve relativement aux pénalités
+Dans tout appel interjeté, en vertu de la présente loi, au sujet d’une pénalité imposée par le ministre en vertu du présent article ou de l’article 163.2, le ministre a la charge d’établir les faits qui justifient l’imposition de la pénalité.
+[17] Comme le juge Dussault l’a dit dans l’affaire Prud’homme c. Canada, 2005 CCI 423, au paragraphe 47 :
+[. . . ] Les faits qui justifient l’imposition d’une pénalité pour faute lourde en vertu du paragraphe 163(2) de la Loi doivent être analysés en fonction de leur contexte particulier, ce qui rend toute comparaison avec les faits d’une autre situation purement aléatoire, sinon carrément dangereuse.
+[18] La notion de « faute lourde » qui est acceptée par la jurisprudence est celle qui a été définie par le juge Strayer dans la décision Lucien Venne c. Sa Majesté la Reine, 84 DTC 6247 à la page 6256 :
+[. . .] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. [ . . .]
+[19] La Cour d’appel fédérale a de plus précisé dans l’arrêt Villeneuve c. Canada, 2004 DTC 6077 que l’expression « faute lourde » pouvait englober l’aveuglement volontaire en plus de l’acte intentionnel et de l’intention coupable. Dans cette décision, le juge Létourneau s’est exprimé à cet égard en ces termes au paragraphe 6 :
+Avec égards, je crois que la juge a omis de considérer la notion de faute lourde qui peut découler d’un aveuglement volontaire de son auteur. Même l’intention coupable qui, souvent prend la forme de la connaissance de l’un ou de plusieurs éléments constitutifs du geste reproché peut s’établir par une preuve d’aveuglement volontaire. En pareil cas, l’auteur du geste, bien qu’il n’ait pas de connaissance actuelle de l’élément reproché, se voit imputer la connaissance de cet élément.
+[20] L’application de la notion d’« aveuglement volontaire » aux affaires fiscales a d’ailleurs été confirmée dans la décision rendue par la Cour d’appel fédérale dans l’arrêt Panini c. Canada, 2006 CAF 224.
+[21] Même, si en matière de pénalités au sens du paragraphe 163(2) de la Loi, le bénéfice du doute doit favoriser le contribuable, en l’espèce, il n’y a aucun doute dans mon esprit que l’appelante a commis une faute lourde au sens du paragraphe 163(2) de la Loi.
+[22] À la lumière des faits, il m’apparaît évident que l’appelante savait, lorsqu’elle a signé ses déclarations de revenu, que les dépenses de location réclamées avaient été surestimées par l’expert comptable. Elle a d’ailleurs confirmé que monsieur Cloutier lui avait mentionné les montants des remboursements qu’elle devait recevoir.
+[23] L’appelante n’était d’ailleurs pas à sa première expérience. Elle avait une très bonne idée des dépenses qui étaient déductibles aux fins de l’impôt et de celles qui ne l’étaient pas puisqu’elle a fait préparer ses déclarations de revenu pour les années 1996 à 2002 par deux cabinets différents de comptables agréés. Elle n’était pas novice en la matière même si elle n’était pas en mesure de préparer elle-même ses déclarations de revenu.
+[24] Cette constatation est d’ailleurs confirmée par un document produit à l’audience sous la cote I‑2 intitulé « Petite note au comptable » par laquelle l’appelante a transmis à monsieur Cloutier une série de factures en liasse pour la préparation de ses déclarations de revenu pour 2003 et par laquelle elle a transmis au comptable une copie de la Loi de l’impôt sur le revenu ayant trait aux frais de déménagement. Ce document démontre très clairement que l’appelante connaissait les dispositions de la Loi qui s’appliquaient à sa situation.
+[25] L’appelante savait très bien, lorsqu’elle a signé ses déclarations de revenu pour 2003 et 2004, que la situation était très différente de celle des années antérieures à l’égard desquelles elle n’avait pas déclaré de pertes de location. Malgré cela, l’appelante n’a même pas posé de question à l’expert comptable pour connaître les raisons pour lesquelles l’écart était si grand par rapport à ses déclarations de revenu des années antérieures. Il s’agit là, à mon avis, d’un indice d’aveuglement volontaire, sinon d’une conduite délibérée constituant une faute lourde.
+[26] L’appelante savait également avec qui elle faisait affaires lorsqu’elle a confié à monsieur Cloutier le mandat de faire préparer ses déclarations de revenu. Ce dernier s’occupait déjà de la préparation des déclarations de revenu de son frère Carol. Le frère de l’appelante l’a certainement informée de la réputation de ce comptable comme quoi il était très agressif au niveau de la réclamation des dépenses puisqu’il lui a souhaité un bon retour d’impôt dans le courriel, qu’il lui a transmis le 9 mars 2004 (pièce I‑1) pour lui annoncer que le comptable en question avait accepté de préparer ses déclarations de revenu.
+[27] L’ampleur des dépenses de location refusées par rapport aux revenus de location déclarés et la récurrence de ce comportement sur deux années démontre bien la participation de l’appelante à l’établissement d’un stratagème qui va bien au delà de la simple négligence.
+[28] En conséquence de ce qui précède, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 14e jour de mai 2008.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2008CCI302
+Nº DU DOSSIER DE LA COUR : 2007-3331(IT)I
+INTITULÉ DE LA CAUSE : Patricia O’Leary et La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 25 février 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 14 mai 2008
+COMPARUTIONS :
+Pour l'appelante :
+L’appelante elle-même
+Avocat de l'intimée :
+Me Vlad Zolia
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

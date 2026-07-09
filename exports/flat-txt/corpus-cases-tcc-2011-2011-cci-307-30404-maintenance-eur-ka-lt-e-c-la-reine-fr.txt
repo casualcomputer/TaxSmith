@@ -1,0 +1,286 @@
+Title: Maintenance Euréka Ltée c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30404/index.do
+Corpus path: corpus/cases/tcc/2011/2011-cci-307-30404-maintenance-eur-ka-lt-e-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2011-06-20
+
+# Maintenance Euréka Ltée c. La Reine
+
+- Citation: 2011 CCI 307
+- Decision date: 2011-06-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7865, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Maintenance Euréka Ltée c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-06-20
+Référence neutre
+2011 CCI 307
+Numéro de dossier
+2009-2550(IT)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-2550(IT)G
+ENTRE :
+MAINTENANCE EURÉKA LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Service sanitaire Frontenac ltée (2009-2551(IT)G)
+les 28, 29 et 31 mars 2011, à Montréal (Québec).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l’appelante :
+Me Philip Nolan
+Me Philip Hazeltine
+Avocate de l'intimée :
+Me Anne-Marie Boutin
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 est rejeté avec dépens en faveur de l’intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de juin 2011.
+« Robert J. Hogan »
+Juge Hogan
+Dossier : 2009-2551(IT)G
+ENTRE :
+SERVICE SANITAIRE FRONTENAC LTÉE,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Maintenance Euréka ltée (2009-2550(IT)G)
+les 28, 29 et 31 mars 2011, à Montréal (Québec).
+Devant : L’honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l’appelante :
+Me Philip Nolan
+Me Philip Hazeltine
+Avocate de l’intimée :
+Me Anne-Marie Boutin
+____________________________________________________________________
+JUGEMENT
+L’appel des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005 est rejeté avec dépens en faveur de l’intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 20e jour de juin 2011.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2011 CCI 307
+Date : 20110620
+Dossiers : 2009-2550(IT)G
+2009-2551(IT)G
+ENTRE :
+MAINTENANCE EURÉKA LTÉE,
+SERVICE SANITAIRE FRONTENAC LTÉE,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Hogan
+[1] Faisant valoir que, contrairement à ce que le ministre affirme, elles n’étaient pas des sociétés associées, Service sanitaire Frontenac ltée (la « société appelante Frontenac ») et Maintenance Euréka ltée (la « société appelante Euréka ») interjettent appel des nouvelles cotisations établies par le ministre du Revenu national (le « ministre ») à l’égard de leurs années d’imposition 2004 et 2005.
+Contexte factuel
+[2] Pour fixer l’impôt payable par les sociétés appelantes, le ministre a tenu pour acquis les faits suivants :
+a) Gratien Veilleux et Lauréanne Pomerleau sont conjoints en 2004 : ils avaient respectivement 71 ans et 73 ans;
+b) Gratien Veilleux et Lauréanne Pomerleau ont deux enfants : Bruno et Simon;
+c) [la société] appelante [Euréka] a été constituée en 1969 par Gratien Veilleux;
+d) [la société appelante] Frontenac a été constituée en 1977 par Lauréanne Pomerleau;
+e) Bruno Veilleux est devenu actionnaire de [la société] appelante [Euréka] en 1989 et de [la société appelante] Frontenac en 1990. Il a acquis 24 % des actions de chacune des sociétés, à la suite des conseils obtenus des fiscalistes de ses parents;
+f) au cours des années en litige, le capital-actions de [la société] appelante [Euréka] et de [la société appelante] Frontenac était réparti comme suit :
+[Euréka]
+(% actions ordinaires)
+Frontenac
+(% actions ordinaires)
+Gratien Veilleux
+65 %
+Placement Gratien Veilleux
+11 %
+Lauréanne Pomerleau
+65 %
+Placement Lauréanne Veilleux
+11 %
+Bruno Veilleux (fils)
+24 %
+24 %
+100 %
+100 %
+g) jusqu’en 1994, [la société] appelante [Euréka] et [la société appelante] Frontenac opéraient une entreprise d’entretien ménager d’édifices publics, institutionnels ou commerciaux;
+h) [la société] appelante [Euréka], à partir de 1987, et [la société appelante] Frontenac, à partir de 1994, ont ajouté à l’entreprise existante, les services de gardiennage (service de sécurité) pour les mêmes types d’édifices;
+i) [la société] appelante [Euréka] et [la société appelante] Frontenac offrent leurs services dans les mêmes régions du Québec;
+j) à plusieurs occasions, [la société] appelante [Euréka] et [la société appelante] Frontenac ont offert, en alternance, le même service au même client;
+k) dans les cas mentionnés ci-dessus, la personne responsable du contrat et les employés qui effectuent le travail ne changent habituellement pas, malgré le changement de société;
+l) les documents contractuels de [la société] appelante [Euréka] et de [la société appelante] Frontenac mentionnent le même numéro de téléphone, le même numéro de télécopieur et la même adresse courriel;
+m) [la société] appelante [Euréka] et [la société appelante] Frontenac ne soumissionnent pas sur le même appel d’offre;
+n) Gratien Veilleux est l’unique répondant pour l’obtention du permis émis par le ministère de la Sécurité publique, tant pour [la société] appelante [Euréka] que pour [la société appelante] Frontenac;
+o) Bruno Veilleux travaille principalement pour [la société appelante] Frontenac, il est aussi impliqué dans les affaires de [la société] appelante [Euréka]. Il est rémunéré par les deux sociétés et son véhicule est fourni uniquement par [la société] appelante [Euréka];
+p) Simon Veilleux travaille principalement pour [la société] appelante [Euréka], il est aussi impliqué dans les affaires de [la société appelante] Frontenac. Il est rémunéré par les deux sociétés et son véhicule est fourni uniquement par [la société appelante] Frontenac;
+q) tout le travail de bureau de [la société] appelante [Euréka] et de [la société appelante] Frontenac est effectué dans les mêmes locaux par les mêmes personnes qui sont rémunérées, en alternance, par [la société] appelante [Euréka] et par [la société appelante] Frontenac;
+r) les employés de [la société] appelante [Euréka] travaillent à la fois pour celle‑ci et pour [la société appelante] Frontenac, peu importe par quelle société leur salaire est versé;
+s) des dépenses automobiles et d’autres dépenses de [la société] appelante [Euréka] ont été payées par [la société appelante] Frontenac et vice versa.
+[3] Seuls Gratien Veilleux et Bruno Veilleux ont témoigné pour les sociétés appelantes. Lauréanne Pomerleau, l’actionnaire majoritaire de la société appelante Frontenac, n’a pas témoigné puisqu’elle se remettait d’un deuxième infarctus, qui a exigé une angioplastie coronaire et la pose d’un stent. La preuve démontre que tout au long du processus de vérification, Mme Pomerleau n’a jamais eu de pourparlers avec les vérificateurs de l’Agence du revenu du Canada (l’« ARC ») puisqu’au moment de la vérification elle était en convalescence à la suite du premier infarctus. De plus, Mme Pomerleau n’a pas été interrogée lors de l’interrogatoire préalable mené par l’intimée. Pour ces raisons, seuls Gratien Veilleux et les comptables de la société appelante Frontenac ont pu répondre aux interrogations de l’ARC relatives à la raison d’être et à la formation de la société appelante Frontenac.
+[4] Gratien Veilleux, qui est âgé d’environ 78 ans, a témoigné qu’il a fondé la société appelante Euréka en 1969. Il était alors âgé d’environ 36 ans. À cette époque, le couple Veilleux-Pomerleau avait cinq enfants : Marie‑Claude, 1 an, Simon, 6 ans, Charlotte, 10 ans, Bruno, 13 ans, et Sylvie, 14 ans.
+[5] Selon Gratien Veilleux, son épouse, Mme Pomerleau, effectuait du travail administratif pour la société appelante Euréka. Le témoin prétendait que vers 1974‑1975, son entreprise avait pris de l’ampleur et que Mme Pomerleau lui réclamait une participation dans la société appelante Euréka. Il a refusé la demande de Mme Pomerleau parce que, selon lui, il voulait contrôler ses propres affaires. Ce refus a occasionné des problèmes matrimoniaux et Mme Pomerleau a décidé de fonder sa propre entreprise pour se créer un patrimoine distinct. Pour corroborer son témoignage, Gratien Veilleux a souligné que le couple s’est marié en séparation de biens et a renoncé à l’application des articles 462.1 à 462.13 du Code civil du Québec relatifs au patrimoine familial des époux. Gratien Veilleux a également témoigné que la résidence principale du couple était en son nom seulement.
+[6] Diane Moore, vérificatrice de l’ARC chargée du dossier des deux sociétés appelantes, a témoigné que, lors de la première rencontre sur la question en litige, Gratien Veilleux a refusé de répondre aux questions ayant trait à la raison de la constitution et de l’existence continue de la société appelante Frontenac. Il a mandaté les comptables externes des deux sociétés appelantes, François Gagnon et Josée Larochelle (les « comptables externes »), comptables agréés et fiscalistes chez Raymond Chabot Grant Thornton (« RCGT »), pour répondre aux questions de Mme Moore. À la première rencontre, les comptables externes ont répondu qu’il était possible que Mme Pomerleau ait fondé la société appelante Frontenac suivant les conseils de Gilles Rémillard, comptable agréé chez RCGT, qui, à l’époque, était également le comptable de la société appelante Euréka contrôlée par Gratien Veilleux. Les notes de Mme Moore ont été déposées par les sociétés appelantes sous la cote A‑8. Le témoignage de Mme Moore est conforme à ses observations écrites relatives à la question de l’association des deux sociétés appelantes. Les comptables externes ont rédigé plusieurs lettres dans lesquelles ils formulaient des observations. Aucune de ces lettres, qui ont été produites en preuve par les sociétés appelantes, ne mentionne l’existence de conflits matrimoniaux qui avaient été à l’origine de la fondation de la société appelante Frontenac par Mme Pomerleau.
+[7] En témoignant, Gratien Veilleux n’a pas précisé quelles démarches Mme Pomerleau avait faites pour créer la société appelante Frontenac. Il a dit qu’il n’avait pas aidé son épouse à fonder sa propre entreprise. Selon lui, ce n’était pas une tâche difficile pour Mme Pomerleau puisque, avant de fonder sa propre entreprise, elle lui avait fourni un soutien administratif et avait fourni des services administratifs à la société appelante Euréka.
+[8] Mme Moore a souligné que le témoignage de Gratien Veilleux sur ce point n’est pas conforme aux commentaires faits par les comptables externes et par Gratien Veilleux lui-même au cours des rencontres entre les parties. Selon Mme Moore, Gratien Veilleux avait précisé, lors de ces rencontres, que Mme Pomerleau l’avait accompagné dans ses démarches seulement à titre d’observatrice. Elle n’avait pas occupé de poste administratif auprès de la société appelante Euréka. Les notes prises par Mme Moore au cours des rencontres sont conformes à son témoignage sur ce point.
+[9] Gratien Veilleux et Bruno Veilleux ont invoqué un motif commercial pour justifier l’existence des sociétés appelantes Euréka et Frontenac comme sociétés distinctes. Selon eux, il arrive que l’une des sociétés appelantes doive abandonner un contrat de services lorsqu’il devient peu rentable. Généralement, cela arrive lorsque cette société appelante a obtenu quelques renouvellements du contrat. Dans ce cas, le coût des avantages sociaux des employés ― les vacances et les congés de maladie non utilisés ― devient plus élevé, réduisant ainsi la marge bénéficiaire du contrat. L’autre société appelante peut se porter soumissionnaire après l’abandon du contrat par sa société soeur puisque les employés exécutant le contrat pour le nouveau fournisseur auront droit à des avantages sociaux moindres, ce qui lui assure une marge bénéficiaire positive. Les employés de l’autre société appelante mis en disponibilité par suite du non-renouvellement du contrat peuvent être appelés à travailler pour la société appelante soeur, mais puisqu’ils repartent alors à zéro, ils voient réduire leurs avantages sociaux.
+[10] La preuve était plutôt imprécise quant à la quantification des coûts financiers. La Cour a eu plusieurs explications imprécises concernant la valeur du prétendu avantage évoqué ci-dessus. Lors de l’interrogatoire préalable, Gratien Veilleux a précisé que l’avantage pouvait être de 12 000 $ à 15 000 $ annuellement. Dans leur lettre à l’ARC énonçant leurs observations, les comptables externes ont tenté de diminuer l’importance de l’exécution des contrats en alternance en précisant qu’une des deux sociétés appelantes a succédé à l’autre pour seulement six contrats sur un total de 100 pendant les années en litige. Gratien Veilleux a également expliqué que ce ne sont pas tous les employés qui étaient transférés d’une société à l’autre après la perte d’un contrat. D’une part, les employés avec plus d’ancienneté peuvent faire déplacer d’autres employés de la même société, c’est‑à‑dire les faire affecter à d’autres contrats. D’autre part, à la suite de l’abandon d’un contrat, tous les concurrents peuvent répondre à l’appel d’offres. Seulement 5 % environ des contrats abandonnés par une des sociétés appelantes finissent par être accordés à l’autre société appelante.
+[11] En réinterrogatoire, sans fournir aucune information précise sur la valeur des économies réalisées par une des sociétés appelantes après l’abandon d’un contrat par elle et sa reprise par l’autre société appelante, Bruno Veilleux a affirmé qu’en vertu des décrets applicables aux employés dans le domaine du nettoyage et de l’entretien, l’employeur avait payé la valeur de tous les congés de maladie non utilisés excédant huit jours. La preuve démontre qu’une centaine d’employés ont travaillé en alternance pour les deux sociétés appelantes. Toutefois, la Cour n’a aucune façon d’estimer quelles économies ont pu être réalisées après le transfert des employés. Il n’y a aucune preuve relative à l’ancienneté de chaque employé ni au nombre de congés de maladie non utilisés. La Cour ignore combien d’employés ont pu accumuler au moins huit congés de maladie non utilisés. Les sociétés appelantes auraient pu fournir l’information sur le salaire et les avantages sociaux de chaque employé avant et après le transfert. Le fait que les sociétés appelantes n’aient pas fourni de telles preuves me fait douter du bien-fondé de l’allégation quant aux économies. L’avocat des sociétés appelantes a produit les décrets qui créent apparemment l’obligation de payer les congés de maladie non utilisés. Néanmoins, il n’a pas expliqué à la Cour de quelle manière ceux-ci s’appliquaient aux contrats en l’espèce et, surtout, il n’a pas établi le montant des économies possibles. Il incombait aux sociétés appelantes d’apporter une preuve crédible et appréciable de cette allégation, ce qu’elles ont omis de faire.
+[12] Mme Moore doute également de la réalité de l’avantage commercial pour les sociétés appelantes. D’une part, il n’y eut aucune mention d’un tel avantage lors des rencontres entre les parties, ni dans les observations écrites des sociétés appelantes. Mme Moore a tenu à préciser qu’elle avait invité les représentants des sociétés appelantes, lors d’une conférence téléphonique, à dévoiler tout motif commercial pouvant justifier l’existence distincte des deux sociétés appelantes. Cela s’est fait dans le contexte d’une demande d’opinion formulée auprès du service des décisions anticipées en matière d’impôt sur le revenu de l’ARC. Les parties avaient convenu qu’elles s’adresseraient au service des décisions anticipées afin d’obtenir une opinion sur la question présentement en litige. Étonnamment, il n’y eut aucune mention du prétendu avantage commercial dans les observations écrites formulées par les comptables externes des sociétés appelantes.
+[13] Gratien Veilleux et Bruno Veilleux ont expliqué pourquoi la société appelante Euréka et la société appelante Frontenac ne se font pas concurrence pour les mêmes appels d’offres. Mme Moore a souligné ce fait au soutien de sa conclusion selon laquelle, aux termes du paragraphe 256(2.1) de la Loi de l’impôt sur le revenu (« LIR »), les deux sociétés appelantes étaient des sociétés associées. La preuve démontre que les deux sociétés ont répondu seulement une fois au même appel d’offres. Selon les témoins, la société appelante Euréka se spécialise dans les services de nettoyage et d’entretien pour les commissions scolaires. Apparemment, la société appelante Euréka tente de concentrer ses activités dans la région de Montréal, de Drummondville et de Trois‑Rivières. La société appelante Frontenac se spécialise dans le nettoyage et l’entretien des édifices publics et parapublics dans la région de Québec et de la Beauce, alors que la société appelante Euréka fournit ce type de services pour les établissements des commissions scolaires. Les deux témoins ont néanmoins admis qu’il n’y a pas de cloison étanche entre les activités des deux sociétés ni entre les territoires où elles les exercent. Les deux sociétés ont des contrats dans les mêmes secteurs et exploitent leur entreprise sur le même territoire. Selon les témoins, la distinction est que la société appelante Frontenac a plus de contrats dans les domaines public et parapublic alors que la société appelante Euréka a plus de contrats dans le domaine scolaire dans la région de Montréal, de Drummondville et de la Montérégie.
+[14] Mme Moore a tenu à préciser que la société appelante Frontenac tire de 25 % à 30 % de son chiffre d’affaires de contrats exécutés pour des commissions scolaires, et que les deux sociétés appelantes exécutent des contrats sur toute l’étendue du territoire du Québec.
+[15] La preuve démontre que les deux sociétés appelantes ont recours au même personnel pour satisfaire à leurs besoins de services administratifs. Chaque société appelante assume la moitié des dépenses et des salaires et autres frais liés à l’administration. Les deux sociétés partagent les locaux où elles ont chacune leur siège. Toutefois, chaque société a signé un bail prévoyant le paiement d’un loyer séparé pour les locaux en question. Les deux sociétés avaient également le même numéro de téléphone et de télécopieur pendant la période en litige.
+[16] Bruno Veilleux a témoigné qu’il travaille principalement pour la société appelante Frontenac. Après la maladie de sa mère, Mme Pomerleau, il a assumé un plus grand rôle au sein de l’entreprise. Toutefois, il a précisé qu’il avait également fourni des services à la société appelante Euréka. En 2005, a-t-il dit, il était plus impliqué dans les opérations de la société appelante Euréka en raison du fait que son père avait subi un accident nécessitant une convalescence de quatre mois. En contre‑interrogatoire, il a admis que sa conjointe, Anne Laflamme, l’aidait dans l’exécution de ses fonctions, mais a dit qu’elle était payée seulement par la société appelante Frontenac. Selon le témoin, c’était parce que Mme Laflamme travaillait seulement pour la société appelante Frontenac, malgré le fait qu’il travaillait lui‑même pour les deux sociétés.
+[17] Bruno Veilleux et son père ont témoigné que Simon Veilleux, le frère de Bruno, travaillait principalement pour la société appelante Euréka, mais fournissait également des services à la société appelante Frontenac. La preuve démontre que Sandra Poulin, la conjointe de Simon Veilleux, l’aidait dans l’exécution de ses fonctions. Toutefois, Mme Poulin était rémunérée entièrement par la société appelante Frontenac, alors que, selon le témoignage de Bruno Veilleux, son frère Simon rendait des services aux deux sociétés.
+[18] Mme Moore a témoigné qu’au cours des années visées par la vérification, Bruno et Simon Veilleux ont reçu un salaire des deux sociétés appelantes. Elle a constaté que la rémunération de Simon Veilleux ne reflétait pas le fait qu’il travaillait principalement pour la société appelante Euréka puisqu’il recevait plus de salaire de la société appelante Frontenac que de la société appelante Euréka. Dans le cas de Bruno Veilleux, la prétention des sociétés appelantes est qu’il s’occupait surtout de la gestion de la société appelante Frontenac, alors que la preuve démontre qu’en 2005 son salaire provenant de la société appelante Euréka était plus élevé.
+[19] Après la vérification, Mme Moore a constaté qu’en 2004 et en 2005 les sociétés appelantes i) offraient les mêmes services à leur clientèle, ii) exerçaient leurs activités sur le même territoire, iii) avaient du personnel commun pour l’exécution du travail d’entretien et de gardiennage et pour l’administration, iv) employaient Gratien Veilleux comme répondant auprès du ministère de la Sécurité publique pour l’agence de sécurité et v) se consultaient afin de décider laquelle des deux soumissionnerait dans le cadre des appels d’offres. À la lumière de ces faits et en l’absence de preuve quant à ce que Mme Pomerleau a pu faire au sein de la société appelante Frontenac, Mme Moore a conclu qu’il est raisonnable de considérer qu’un des principaux motifs de l’existence distincte des sociétés appelantes au cours des années d’imposition 2004 et 2005 était de réduire l’impôt payable par ailleurs en permettant à chacune des deux sociétés appelantes de se prévaloir de la déduction accordée aux petites entreprises. Selon Mme Moore, les deux sociétés fonctionnaient dans les faits comme une seule entreprise au profit des membres des familles Veilleux-Pomerleau. La conclusion de Mme Moore a été entérinée par le service des décisions anticipées à la suite des observations des parties.
+Position de l’intimée
+[20] L’intimée soutient que les faits tenus pour acquis dans les réponses ainsi que le témoignage de Mme Moore permettent de constater la grande similitude des deux sociétés appelantes. L’intimée prétend que les faits établis par Mme Moore lors de sa vérification permettent de conclure que les deux sociétés sont exploitées comme une seule entreprise familiale au profit de la famille Veilleux, notamment Gratien Veilleux, Mme Pomerleau, et les deux fils du couple Veilleux ainsi que les conjointes de ceux‑ci. Selon l’intimée, les faits démontrent que les entreprises sont gérées globalement comme un tout et rien ne laisse croire qu’elles sont indépendantes l’une de l’autre. S’appuyant là‑dessus, l’intimée soutient que les faits démontrent que l’un des principaux motifs de l’existence des sociétés appelantes Euréka et Frontenac en 2004 et en 2005 était de réduire la charge fiscale en permettant aux deux sociétés de profiter pleinement de la déduction accordée aux petites entreprises, contrairement au paragraphe 256(2.1) de la LIR. Dans les circonstances, les deux sociétés sont associées aux fins de la LIR et, par conséquent, elles sont obligées de partager le plafond des affaires et la déduction accordée aux petites entreprises.
+Position des sociétés appelantes
+[21] Les sociétés appelantes prétendent que les faits pertinents n’appuient pas la conclusion de l’intimée quant à l’application du paragraphe 256(2.1) de la LIR. Selon l’avocat des sociétés appelantes, Gratien Veilleux et Bruno Veilleux ont fourni une explication crédible de l’existence des deux sociétés. D’une part, selon les sociétés appelantes, Mme Pomerleau a constitué la société appelante Frontenac pour se créer un patrimoine indépendant de celui de son mari. Les problèmes matrimoniaux de l’époque ont rendu Mme Pomerleau anxieuse sur le plan financier. Par suite de ce malaise, elle a agi en vue de se créer une indépendance financière. Ce motif original n’a jamais changé avec le temps et Mme Pomerleau a toujours tenté de préserver son indépendance financière. D’autre part, les sociétés appelantes prétendent que la preuve démontre qu’il y a un motif commercial subsidiaire qui milite en faveur de leur continuation comme sociétés distinctes. Lorsqu’un contrat devient non rentable pour l’une des sociétés appelantes, l’autre société peut devenir soumissionnaire.
+[22] Me Nolan, l’avocat des sociétés appelantes, a concédé que le sort des appels dépend dans une large mesure de la crédibilité des témoignages de Gratien Veilleux et de Bruno Veilleux.
+Analyse
+[23] Le paragraphe 256(2.1) de la LIR dispose comme suit :
+(2.1) Présomption d’association en cas d’évitement ― Pour l’application de la présente loi, s’il est raisonnable de considérer qu’un des principaux motifs de l’existence distincte de plusieurs sociétés au cours d’une année d’imposition consiste à réduire les impôts qui seraient payables par ailleurs en vertu de la présente loi ou à augmenter le crédit d’impôt à l’investissement remboursable prévu à l’article 127.1, ces sociétés sont réputées être associées les unes aux autres au cours de l’année.
+[24] Précisons que ce sont les motifs expliquant l’existence de plusieurs sociétés au cours d’une année d’imposition qui déterminent si elles sont associées ou non dans l’année et non les motifs pour lesquels elles ont été initialement créées[1].
+[25] Les parties ont soumis de nombreuses décisions ayant trait aux questions en litige[2]. La lecture de ces causes m’a permis de déceler des tendances selon lesquelles les contribuables gagnent leurs appels lorsqu’ils offrent une preuve selon la prépondérance des probabilités que le motif de l’existence des deux sociétés est, par exemple, la protection des actifs, la diversification des domaines d’activités, la décentralisation en vue d’accroître les profits, l’intention de l’un des conjoints d’exploiter sa propre entreprise, ou la planification successorale. Avant tout, le résultat dépend de la crédibilité des témoins des contribuables.
+[26] Selon la jurisprudence pertinente, le ministre peut inférer, à partir de faits décelés par la vérification, qu’un des principaux motifs de l’existence distincte de deux sociétés consiste à réduire l’impôt, de sorte que le paragraphe 256(2.1) les rend associées. Il incombe alors aux contribuables de réfuter les faits tenus pour acquis par le ministre à l’appui des cotisations ou de démontrer que lesdits faits n’appuient pas les conclusions du ministre. Les contribuables peuvent également faire la preuve d’autres faits qui contredisent les conclusions du ministre quant aux motifs principaux de l’existence des sociétés. C’est là une proposition qui a reçu l’aval du juge Marceau dans l’affaire Canada c. Covertite Ltd.[3] :
+4 […] Le fardeau de la preuve incombe complètement à l’appelante et le rôle de la Cour est évident. Tout cela peut paraître simple, mais ne l’est qu’en théorie et non en pratique. La difficulté découle de la nature même de la conclusion du Ministre qui est mise en cause et doit être vérifiée. En vérité, il s’agit d’une conclusion de fait par opposition à une conclusion de droit, mais d’une nature purement psychologique, étant donné qu’elle se réfère à l’état d’esprit et à l’intention des personnes responsables de la création et de l’existence distincte continue des deux entités. C’est manifestement une conclusion qui ne peut pas faire l’objet d’une preuve directe, du moins en l’absence d’une déclaration antérieure claire des parties concernées ou d’un aveu fait par elles par la suite. Elle doit nécessairement être fondée sur des déductions tirées d’une série de faits matériels susceptibles d’être vérifiés directement. Le Ministre a déduit d’un certain nombre de faits que l’économie d’impôt, qui a effectivement été réalisée, n’était pas un simple effet secondaire mais un des buts principaux envisagés par les personnes qui agissaient dans les coulisses des corporations. Pour confirmer la conclusion, la Cour ne peut adopter qu’une méthode analogue à celle que le Ministre a suivie. On ne peut accorder aucun poids au seul démenti du contribuable, qu’il soit ou non accompagné par une simple indication des autres causes qui auraient pu prévaloir. N’étant que la simple affirmation d’un fait négatif et d’un fait qui concerne l’état d’esprit du témoin, il ne peut avoir aucune force probante convaincante; il ne peut pas constituer la preuve exigée pour réduire à néant la conclusion du Ministre. Pour avoir gain de cause, le contribuable doit : a) réfuter les faits présumés par le Ministre pour en arriver à sa conclusion; ou b) convaincre la Cour que les déductions tirées par le Ministre des faits présumés étaient déraisonnables ou injustifiées; ou c) ajouter d’autres faits susceptibles de modifier la perception de la situation et de conduire à des déductions différentes aboutissant à la conclusion que les autres motifs allégués ont effectivement été prédominants.
+[Je souligne.]
+[27] Dans cette décision il s’agit du paragraphe 247(2) de la LIR, qui a été remplacé par le paragraphe 256(2.1). Il n’y a pas eu de modification substantielle du texte, de sorte que les décisions antérieures demeurent pertinentes.
+[28] Les témoins des sociétés appelantes ne m’ont pas convaincu que le paragraphe 256(2.1) ne s’applique pas. Gratien Veilleux a voulu donner l’impression que la constitution de la société appelante Frontenac était l’idée exclusive de son épouse, Mme Pomerleau, et que des considérations d’ordre fiscal n’ont pas été à l’origine de la création de cette deuxième société. Selon lui, il n’a offert aucune aide à Mme Pomerleau, qui a démarré l’entreprise dans le seul but de constituer un patrimoine indépendant pour elle‑même. De plus, il a affirmé que les comptables n’ont pas joué un rôle important dans la décision de constituer une entreprise qui exercerait des activités dans le même secteur que celui de la société appelante Euréka. Je constate plusieurs contradictions entre ces explications et celles données antérieurement par Gratien Veilleux et les comptables externes lors de la vérification. Cela me fait douter du bien-fondé des allégations de Gratien Veilleux.
+[29] Mme Moore a témoigné que la réponse initiale donnée à la question concernant la création de la société appelante Frontenac adressée aux comptables était que Mme Pomerleau avait peut-être pu prendre conseil du comptable fiscaliste de Gratien Veilleux. Il n’y eut aucune mention de difficultés matrimoniales qui auraient conduit Mme Pomerleau à vouloir constituer son propre patrimoine. Ni le témoignage ni les notes de Mme Moore sur ce point n’ont été contestés par l’avocat des sociétés appelantes. Pour faire suite aux questions posées aux comptables lors de la première rencontre, Gratien Veilleux a prétendu que Mme Pomerleau l’avait accompagné comme simple observatrice dans les démarches qu’il faisait relativement à l’exécution des contrats de la société appelante Euréka. Au procès, il a prétendu le contraire. Il a dit que Mme Pomerleau lui fournissait des services administratifs qui lui ont permis d’acquérir l’expérience nécessaire pour se lancer en affaires elle-même.
+[30] Il n’y eut aucune preuve indépendante du rôle que Mme Pomerleau a pu jouer au sein de la société appelante Frontenac. L’avocat des sociétés appelantes m’a demandé de ne pas tirer de conclusions négatives du fait que Mme Pomerleau, en raison de son état de santé, n’était pas présente au procès ni lors de la vérification. Les sociétés appelantes auraient pu appeler des témoins indépendants membres des familles Veilleux‑Pomerleau pour expliquer le rôle de Mme Pomerleau au sein de l’entreprise. France Lehoux, comptable interne des sociétés appelantes, a répondu aux premières questions posées par la vérificatrice, Mme Moore. Les sociétés appelantes n’ont pas jugé bon d’appeler Mme Lehoux à la barre des témoins, préférant ainsi se fonder exclusivement sur le témoignage des personnes intéressées. Malheureusement, Gratien Veilleux et Bruno Veilleux n’ont pas réussi à me convaincre du bien-fondé de leurs prétentions.
+[31] J’ai noté deux autres déclarations de Gratien Veilleux qui me semblent, dans les circonstances, invraisemblables. Il prétend qu’il n’a joué aucun rôle au sein de la société appelante Frontenac, et ce, nonobstant le fait qu’il avait une expérience indéniable dans le domaine des services de nettoyage et d’entretien. Il connaissait les fournisseurs, les clients, le marché et les façons de recruter du personnel qualifié pour remplir les obligations stipulées aux contrats. Comment alors expliquer qu’il n’aurait pas fait profiter la société appelante Frontenac de son expérience alors que cette dernière entreprise se trouve dans les mêmes locaux que la société appelante Euréka? Quel époux n’apporterait pas de soutien à son épouse qui se lance en affaires dans un domaine qu’il connaît bien? Les explications de Gratien Veilleux ne sont simplement pas crédibles.
+[32] Il n’y a aucun doute, dans mon esprit, que les actionnaires des sociétés appelantes connaissaient les implications des règles relatives aux sociétés associées et qu’ils ont profité des conseils de fiscalistes au moment de la constitution de la société appelante Frontenac et de l’émission des actions en faveur de Bruno Veilleux. Comment expliquer que Bruno Veilleux ait reçu des actions représentant 24 % et non 25 % du capital-actions de la société appelante Frontenac? Gratien Veilleux a allégué que c’est lui-même qui avait établi le pourcentage pour la société appelante Euréka. Je n’ai pas trouvé crédible son témoignage sur ce point. Aucun témoin n’a expliqué pourquoi Mme Pomerleau, qui, selon les prétentions des sociétés appelantes, était l’âme dirigeante de la société appelante Frontenac, aurait choisi le même pourcentage du capital-actions que Gratien Veilleux. Je conclus que c’est parce que le couple Veilleux-Pomerleau a profité des conseils techniques de fiscalistes. D’autre part, en 2004 et en 2005, les dirigeants des deux sociétés appelantes étaient selon toute vraisemblance pleinement conscients de l’effet des règles en matière d’association puisqu’ils avaient participé au règlement des cotisations antérieures, lequel était fondé sur le fait que les deux sociétés appelantes étaient aussi soumises au même contrôle de facto. Pour toutes ces raisons, la Cour n’accepte pas la preuve de Gratien Veilleux selon laquelle des considérations d’ordre fiscal n’ont pas été prises en compte lorsqu’on a décidé l’existence distincte des deux sociétés appelantes.
+[33] La Cour accorde également peu de crédibilité au témoignage de Bruno Veilleux. En contre-interrogatoire, l’avocate de l’intimée a demandé à Bruno Veilleux de confirmer que la signature de Mme Pomerleau était souvent apposée sur des documents au moyen d’un timbre par le personnel administratif. Il a tenté d’éluder la question en répondant finalement qu’il ignorait si un tel timbre existait. En raison de l’implication de Bruno Veilleux dans l’entreprise, la Cour estime qu’il n’y avait que deux réponses possibles, soit que le timbre existe et est utilisé pour apposer la signature de Mme Pomerleau sur des documents, soit qu’il n’existe pas. La réponse de Bruno Veilleux est celle d’une personne qui ne veut admettre aucun fait qui puisse nuire aux appels des sociétés appelantes.
+[34] Bruno Veilleux a adopté la même attitude lorsqu’il a tenté d’expliquer le rôle joué par sa conjointe et sa belle-sœur au sein des deux sociétés appelantes, comme on le voit dans le passage suivant tiré de son témoignage[4] :
+[693] Q. Vous, vous travaillez principalement dans Service sanitaire Frontenac.
+R. Oui, Madame.
+[694] Q. C’est exact?
+R. Oui.
+[695] Q. Et occasionnellement vous travaillez pour Maintenance Euréka.
+R. Oui.
+[696] Q. Votre conjointe, Anne Laflamme...
+R. Oui?
+[697] Q. ... elle est votre assistante.
+R. Hum, hum.
+[698] Q. O.K. Pendant les années 2004, 2005 elle travaillait à votre domicile, je crois.
+R. Oui.
+[699] Q. O.K. Le salaire de votre conjointe Anne Laflamme est versé par Service sanitaire Frontenac.
+R. Oui.
+[700] Q. Peu importe si elle vous assiste dans vos fonctions pour Maintenance Euréka ou Service sanitaire Frontenac.
+R. Elle m’assiste pas dans les fonctions de Maintenance Euréka, elle m’assiste dans les fonctions de Frontenac.
+[701] Q. Seulement Frontenac.
+R. Oui.
+[702] Q. Qui vous assiste dans vos fonctions avec Maintenance Euréka?
+R. À Québec c’est moi.
+[703] Q. Vous-même, tout seul.
+R. Oui.
+[704] Q. Votre conjointe ne fait aucun travail pour cette société-là.
+R. Non.
+[705] Q. C’est ce que vous nous dites aujourd’hui?
+R. Elle me... non, je dirais que non.
+[706] Q. Je vais vous relire quand même un passage de votre interrogatoire préalable, à la page 24. À la page 24 je vous ai demandé, bon :
+Votre conjointe travaillait avec vous, je crois?
+Vous répondez :
+Oui.
+Me PHILIP NOLAN : Vous êtes à quelle ligne?
+Me ANNE-MARIE BOUTIN : 24, ligne... pardon, ligne 10.
+Q. Votre conjointe travaillait avec vous, je crois?
+R. Oui.
+Q. Quelles étaient ses fonctions?
+R. Je dirais comme adjointe. Adjointe au recrutement de personnel, adjointe comme agent de liaison sur les contrats, démarrage, démarrage de contrats; elle fait un peu... elle m’appuyait dans ce que je faisais. Elle faisait...
+Là, je vous demande :
+Q. Elle était votre assistante?
+Bon, vous ajoutez :
+R. La similitude.
+Q. D’accord. Elle vous suivait, dans le fond?
+Vous répondez :
+R. Exactement.
+Je vous demande :
+Q. Qui lui verse son salaire?
+R. Le salaire est versé par Frontenac.
+Q. Oui. Au cours de ces années-là votre salaire a été versé parfois par Frontenac mais aussi parfois par Maintenance Euréka.
+Et je vous demande :
+Q. Je dois comprendre que peu importe si vous personnellement vous avez travaillé pour Maintenance ou pour Maintenance... ― on va corriger pour Service sanitaire Frontenac ou pour Maintenance Euréka ou pour Frontenac ― en tout temps le salaire de votre conjointe était versé par Frontenac?
+Vous dites :
+R. Oui.
+À ce moment-là vous nous avez indiqué que votre conjointe était votre assistante et vous assistait dans vos fonctions, est-ce que c’est bien ça comme travail?
+R. J’ai dit oui qu’elle m’assistait dans mes fonctions. Vous m’avez pas demandé si elle m’assistait dans mes fonctions d’Euréka et de Frontenac.
+[707] Q. Non, de façon générale.
+R. J’ai répondu parce qu’elle était payée par Frontenac, j’ai conclu que c’était pour Frontenac.
+[708] Q. La conjointe de votre frère Simon...
+R. Oui?
+[709] Q. ... Sandra Poulin, elle est l’assistante de votre frère Simon?
+R. Oui.
+[710] Q. O.K. Votre frère Simon travaille principalement pour Maintenance Euréka?
+R. Oui.
+[711] Q. Maintenance...
+R. Oui.
+[712] Q. Maintenance Euréka, je m’excuse.
+R. Oui.
+[713] Q. Maintenance Euréka, pardon. Pour Maintenance Euréka, O.K.
+R. Oui.
+[714] Q. Elle est payée par Service sanitaire Frontenac, c’est exact?
+R. Madame Poulin?
+[715] Q. Sandra Poulin.
+R. Oui.
+[716] Q. Comment expliquez-vous que...
+MONSIEUR LE JUGE : Sandra Poulin est payée par qui?
+Me ANNE-MARIE BOUTIN : Par Service sanitaire Frontenac.
+[717] Q. Comment expliquez-vous que Service sanitaire Frontenac paie...
+Me PHILIP NOLAN : Est-ce qu’on peut juste préciser, est-ce qu’on parle des années en litige?
+Me ANNE-MARIE BOUTIN : Toujours les années en litige, évidemment.
+Me PHILIP NOLAN : En litige, O.K.
+Me ANNE-MARIE BOUTIN : Toutes les questions portent sur les années en litige.
+[718] Q. Je voudrais savoir comment se fait-il que Service sanitaire Frontenac paie le salaire d’une dame qui travaille principalement pour Maintenance Euréka?
+R. Si elle a eu certains salaires payés par Service sanitaire Frontenac c’est obligatoirement ou c’est qu’elle a rendu des services pour Service sanitaire Frontenac.
+[35] Je soupçonne fortement que Bruno Veilleux ne voulait pas admettre que Sandra Poulin et Anne Laflamme travaillaient pour les deux sociétés appelantes par crainte que cela n’aide la cause de l’intimée, qui prétend que les deux sociétés sont gérées comme une seule au bénéfice des membres de la famille. Pour toutes ces raisons, la Cour n’accorde aucune crédibilité au témoignage de Bruno Veilleux.
+[36] La Cour juge que Mme Moore est un témoin très crédible. L’avocat des sociétés appelantes n’a pas tenté de démontrer que les notes de Mme Moore étaient inexactes lors du contre-interrogatoire de cette dernière. Je fais remarquer plus précisément qu’il n’a pas réussi à la contredire sur les faits suivants avoués par les comptables externes, à savoir : que Mme Pomerleau a peut-être pu prendre conseil auprès de son époux relativement à la constitution de la société appelante Frontenac, que les deux sociétés appelantes exerçaient leurs activités sur le même territoire, partageaient le même personnel administratif et se consultaient pour décider laquelle des deux soumissionnerait pour les nouveaux appels d’offres et pour décider des salaires et des bonis de Simon Veilleux et de Bruno Veilleux, et ce, indépendamment des heures consacrées par eux au travail pour chacune des deux sociétés. La Cour estime que ces faits sont suffisants pour permettre au ministre d’inférer qu’il est raisonnable de considérer qu’un des principaux motifs de l’existence distincte des deux sociétés au cours des années d’imposition 2004 et 2005 consistait à réduire les impôts qui seraient payables par ailleurs. Vu mes conclusions sur la crédibilité des deux témoins des sociétés appelantes, il y a à tout le moins absence de preuve du contraire.
+[37] Il ressort aussi de la preuve que les sociétés appelantes ne sont pas gérées comme deux entreprises indépendantes l’une de l’autre. Elles ne soumissionnent pas relativement aux mêmes appels d’offres nonobstant le fait qu’elles ont sensiblement la même expertise, laquelle permet à l’une d’elles de succéder à l’autre lorsque celle-ci ne renouvelle pas un contrat pour cause de manque de profitabilité. Les sociétés appelantes n’agissent pas comme des concurrentes. Les décisions de se porter soumissionnaires ou de remplacer l’autre société à la suite de l’abandon de contrats semblent être prises de concert en fonction de l’intérêt commun des deux sociétés et des membres des familles Veilleux‑Pomerleau.
+[38] Pour tous ces motifs, la Cour rejette les appels des sociétés appelantes, avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 20e jour de juin 2011.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2011 CCI 307
+Nos DES DOSSIERS DE LA COUR : 2009-2550(IT)G
+2009-2551(IT)G
+INTITULÉ DE LA CAUSE : MAINTENANCE EURÉKA LTÉE,
+SERVICE SANITAIRE FRONTENAC LTÉE
+c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : Les 28, 29 et 31 mars 2011
+MOTIFS DU JUGEMENT PAR : L’honorable juge Robert J. Hogan
+DATE DU JUGEMENT : Le 20 juin 2011
+COMPARUTIONS :
+Avocats des appelantes :
+Me Philip Nolan
+Me Philip Hazeltine
+Avocate de l’intimée :
+Me Anne-Marie Boutin
+AVOCATS INSCRITS AUX DOSSIERS :
+Pour les appelantes :
+Nom : Me Philip Nolan
+Cabinet : Lavery, de Billy
+Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir Classic’s Little Books Inc. c. Canada, [1973] A.C.F. no 101 (QL); Magasins Continental ltée c. Canada, [1981] A.C.F. no 241 (QL); Holt Metal Sales of Manitoba Ltd. et al. v. M.N.R., 70 DTC 6108 (C. de l’É.).
+[2] Canada c. Covertite Ltd., [1981] A.C.F. no 928 (QL); Lenco Fibre Canada Corp. c. Canada, [1979] A.C.F. no 605 (QL); Hughes Homes Inc. c. Canada, [1997] A.C.I. no 1003 (QL); Duha Printers (Western) Ltd. c. Canada, [1998] 1 R.C.S. 795; Transport M.L. Couture Inc. c. Canada, [2003] A.C.I. no 24 (QL), conf. par 2004 CAF 23 (sub nom. 9044‑2807 Québec Inc. c. Canada); Silicon Graphics Ltd. c. Canada, 2002 CAF 260; Rosario Poirier Inc. c. La Reine, 2002 DTC 1770 (CCI); Taber Solids Control (1998) Ltd. c. La Reine, 2009 CCI 527; Canada c. Bowens, [1996] A.C.F. no 214 (QL); Collins c. Canada, [1992] A.C.I. no 581 (QL); M.N.R. v. Pillsbury Holdings Ltd., 64 DTC 5184 (C. de l’É.); Pollock c. Canada, [1993] A.C.F. no 1055 (QL); Capital Garment Co. Inc. v. M.N.R., 74 DTC 1164 (CRI); Grimshaw Planing Mills Ltd. v. M.N.R., 69 DTC 207 (CAI); Honeywood Limited et al. v. The Queen, 81 DTC 5066 (C.F. 1re inst.); Installations de l’Est Inc. c. Canada, [1990] A.C.F. no 72 (QL); Jabs Construction Ltd. et al. v. M.N.R., 83 DTC 633 (CCI); LJP Sales Agency Inc. c. La Reine, 2003 CCI 851; Dominion Pile & Equipment Co. Ltd. v. M.N.R., 69 DTC 276 (CAI); Taber Solids Control (1998) Ltd. c. La Reine, 2009 CCI 527; McLaren c. La Reine, 2009 CCI 514; The Queen v. Bobbie Brooks (Canada) Ltd., 73 DTC 5357 (C.F. 1re inst.); Saratoga Building Corp. c. Canada, [1993] A.C.I. no 195 (QL); Lenester Sales Ltd. c. La Reine, 2003 CCI 531, conf. par 2004 CAF 217; Timco Holdings Ltd. c. La Reine, 2005 CCI 701; Imperial Greenhouses Ltd. c. Canada, 2011 CAF 79; Imperial Pacific Greenhouses Ltd. v. Canada, 2011 FCA 79; Central Interior Incorporated c. La Reine, 2004 CCI 725; 126873 Ontario Limited s/n Autopark Superstore c. M.R.N., 2007 CCI 442; Murray v. Saskatoon, [1951] S.J. No. 59 (QL); Stewart c. Canada, [2000] A.C.I. no 53 (QL); Tobin c. M.R.N., 2003 CCI 503; Pembina Finance (Alta.) Ltd. c. Canada, [1998] A.C.I. no 1017 (QL); Ultra‑Max Construction c. M.R.N., 2007 CCI 541; Quinney v. Orr, 2010 SKQB 228; Walsh c. La Reine, 2009 CCI 557; Scavuzzo c. La Reine, 2004 CCI 806.
+[3] Note 2 ci-dessus.
+[4] Transcription du 28 mars 2011.

@@ -1,0 +1,159 @@
+Title: Bouchard v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27735/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-369-27735-bouchard-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-06-20
+
+# Bouchard v. The Queen
+
+- Citation: 2007 TCC 369
+- Decision date: 2007-06-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 387, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouchard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-20
+Neutral citation
+2007 TCC 369
+File numbers
+2006-3024(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-3024(IT)I
+BETWEEN:
+PIERRE BOUCHARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 6, 2007 at Ottawa, Canada
+Before: The Honourable Justice T. O'Connor
+Appearances:
+Agent for the Appellant:
+Bruce Johnston
+Counsel for the Respondent:
+April Tate
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2001 and 2002 taxation years is allowed to the extent mentioned below and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amounts of taxable automobile benefits were $9,600 in 2001 and $12,300 in 2002. There shall be no costs.
+The Appellant is entitled to no further relief.
+Signed at Ottawa, Canada this 20th day of June, 2007.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2007TCC369
+Date: 20070620
+Docket: 2006-3024(IT)I
+BETWEEN:
+PIERRE BOUCHARD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The issue in this appeal is revealed in the following extracts from the Reply to the Notice of Appeal:
+13. By Notices of Reassessment dated February 25, 2005, the Minister reassessed the Appellant’s tax liability for the 2001 and 2002 taxation years by including employment income as follows:
+2001
+2002
+Automobile benefits
+$10,621
+$13,346
+Other taxable benefits
+3,346
+5,129
+Adjustments to employment income
+$13,967
+$18,475
+14. The Appellant served on the Minister a Notice of Objection on May 20, 2005 for the 2001 and 2002 taxation years regarding the automobile benefits component of the reassessments in the amounts of $10,621 and $13,346 respectively.
+15. By Notice of Confirmation dated June 9, 2006, the Minister confirmed the Appellant’s income tax liability for the 2001 and 2002 taxation years.
+16. In so reassessing and confirming the Appellant’s income tax liability for the 2001 and 2002 taxation years, the Minister relied on the following assumptions of fact:
+a) During the 2001 and 2002 taxation years, the Appellant was employed by General Bearing Service Ltd. (the “GBS”);
+b) During the 2001 and 2002 taxation years, the Appellant was the Vice-president of GBS;
+c) GBS had its Head Office located at 490 Kent Street; Ottawa, Ontario;
+d) GBS had 23 points of sale;
+e) The Appellant had an office at the GBS Head Office;
+f) For the 2001 and 2002 taxation years, the Appellant did not maintain a logbook to support the breakdown of business and personal usage of the GBS provided automobiles;
+g) GBS leased a 2000 Lincoln Continental at a cost of $1,087.72 per month, including Goods and Services tax (GST);
+h) GBS made the 2000 Lincoln Continental available to the Appellant for 365 days in the 2001 taxation year;
+i) During the 2001 taxation year, the Appellant drove the 2000 Lincoln Continental for a total of 34,415 kilometers;
+j) During the 2001 taxation year, the Appellant’s personal use of the 2000 Lincoln Continental was 12,000 kilometers;
+k) During the 2001 taxation year, the operating costs for the Appellant were calculated at $0.16 per kilometre for the personal use of the 2000 Lincoln Continental;
+l) GBS made the 2000 Lincoln Continental available to the Appellant for the first 6 months in the 2002 taxation year;
+m) During the 2002 taxation year, the Appellant drove the 2000 Lincoln Continental for a total of 17,207 kilometers;
+n) During the 2002 taxation year, the Appellant’s personal use of the 2000 Lincoln Continental was 6,000 kilometers;
+o) During the 2002 taxation year, the operating costs for the Appellant were calculated at $0.16 per kilometre for the personal use of the 2000 Lincoln Continental;
+p) During the 2002 taxation year, GBS purchased a 2002 Lincoln Continental at a cost of $58,965.10, including GST;
+q) GBS made the 2002 Lincoln Continental available to the Appellant for the last 6 months in the 2002 taxation year;
+r) During the 2002 taxation year, the Appellant drove the 2000 Lincoln Continental for a total of 17,207 kilometers;
+s) During the 2002 taxation year, the Appellant’s personal use of the 2000 Lincoln Continental was 6,000 kilometers; and
+t) During the 2002 taxation year, the operating costs for the Appellant were calculated at $0.16 per kilometre for the personal use of the 2000 Lincoln Continental.
+B. ISSUES TO BE DECIDED
+17. The issue is whether the Appellant received the taxable automobile benefits of $10,621 and $13,346 from GBS for the 2001 and 2002 taxation years respectively.
+C. STATUTORY PROVISIONS, GROUNDS RELIED ON AND RELIEF SOUGHT
+18. He relies on sections 3 and 4, subsections 6(2), 230(1) and 248(1), and paragraphs 6(1)(a), 6(1)(e) and 6(1)(k) of the Income Tax Act, R.S.C., 1985, c.1 (5th Supp.) as amended (the “Act”);
+19. He submits that the said vehicle is an “automobile” as defined in subsection 248(1) of the Act;
+20. He further submits that the Appellant should have included in his employment income for the 2001 and 2002 taxation years, standby charges and operating expense benefits pursuant to paragraphs 6(1)(e) and 6(1)(k) of the Act in the amounts of $10,621 and $13,346 for the 2001 and 2002 taxation years, respectively as the said additional benefits were derived by the Appellant from the personal use and availability of the automobiles provided to him by the employer, GBS.
+ANALYSIS AND DECISION
+[2] The relevant provisions of the Income Tax Act are as follows:
+6(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+…
+(e) - where the taxpayer's employer ... made an automobile available to the taxpayer … in the year, the amount, if any, by which
+(i) an amount that is a reasonable standby charge for the automobile for the total number of days in the year during which it was made so available …
+...
+6(1)(k) Automobile operating expense benefit - where
+(i) an amount is determined under subparagraph (e)(i) in respect of an automobile in computing the taxpayer's income for the year,
+(ii) amounts related to the operation (otherwise than in connection with or in the course of the taxpayer's office or employment) of the automobile for the period or periods in the year during which the automobile was made available to the taxpayer … are paid or payable by the taxpayer's employer or a person related to the taxpayer's employer (each of whom is in this paragraph referred to as the “payor”), and
+...
+the amount in respect of the operation of the automobile determined by the formula
+A - B
+where
+A is
+(iv) where the automobile is used primarily in the performance of the duties of the taxpayer's office or employment during the period or periods referred to in subparagraph (ii) and the taxpayer notifies the employer in writing before the end of the year of the taxpayer's intention to have this subparagraph apply, 1/2 of the amount determined under subparagraph (e)(i) in respect of the automobile in computing the taxpayer's income for the year, and
+(v) in any other case, the amount equal to the product obtained when the amount prescribed for the year is multiplied by the total number of kilometres that the automobile is driven (otherwise than in connection with or in the course of the taxpayer's office or employment) during the period or periods referred to in subparagraph (ii), and
+...
+B is the total of all amounts in respect of the operation of the automobile in the year paid in the year or within 45 days after the end of the year to the payor by the taxpayer or by the person related to the taxpayer; and
+...
+6(2) Reasonable standby charge. For the purposes of paragraph (1)(e), a reasonable standby charge for an automobile for the total number of days (in this subsection referred to as the “total available days”) in a taxation year during which the automobile is made available to a taxpayer … by the employer of the taxpayer or by a person related to the employer (both of whom are in this subsection referred to as the “employer”) shall be deemed to be the amount determined by the formula.
+(There follows a complex formula which in simple terms provides that the reasonable standby charge is 2% of the cost of the vehicle or 2/3 of the lease costs times the number of months the vehicle is made available.)
+[3] The Respondent relied on subsection 6(2) to establish the standby charges. Also, there is no dispute as to the $0.16 per kilometre rate used to calculate the operating costs. The only dispute relates to the percentages of personal versus business use of the automobiles.
+[4] The Appellant, assisted by his agent, Bruce Johnston, C.A., produced an original log which the Respondent considered inadequate and although the absence or inadequacy of a log is not in all cases determinative, it must be considered. The Appellant, again with the assistance of Mr. Johnston, prepared a reconstructed log related to the 2004 and 2005 years and sought to use this as a sample of the personal and business kilometres travelled in the years in question, namely 2001 and 2002.
+[5] Canada Revenue Agency at first appeared to be willing to consider the reconstructed log as indicative of the travel in 2001 and 2002 but both the original log and the reconstructed log raised so many questions that the Agency decided that those logs could not be relied upon.
+[6] The position of an Appellant who wishes to prove business travel as opposed to personal travel or use is an extremely difficult one if an adequate log has not been kept. The jurisprudence is relatively consistent on this point.
+[7] In this appeal, the logs and the testimony of the Appellant, although not conclusive nor consistent, are helpful to a certain extent.
+[8] It was also the evidence that attempts were made at settling the differences between the Appellant and the Respondent but the differences were large enough that a settlement was not reached.
+[9] In my opinion, on the basis of the documents submitted and the testimony of the Appellant, I am satisfied that the personal travel was not as extensive as the Respondent assumed. It is extremely difficult to precisely calculate what the exact percentages of business versus personal travel were but I have concluded that the proper amounts of taxable automobile benefits were $9,600 in 2001 and $12,300 in 2002. I have been assisted in arriving at that conclusion by Exhibit A‑3, which contains a Schedule A, being an extremely detailed calculation by Canada Revenue Agency of business versus personal travel in the years 2001 and 2002.
+[10] Consequently the appeal is allowed to the foregoing extent only. There shall be no costs.
+Signed at Ottawa, Canada this 20th day of June, 2007.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2007TCC369
+COURT FILE NO.: 2006-3024(IT)I
+STYLE OF CAUSE: Pierre Bouchard v. The Queen
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: June 6, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: June 20, 2007
+APPEARANCES:
+Agent for the Appellant:
+Bruce Johnston
+Counsel for the Respondent:
+April Tate
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

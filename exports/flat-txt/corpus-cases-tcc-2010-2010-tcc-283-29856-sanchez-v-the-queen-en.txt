@@ -1,0 +1,309 @@
+Title: Sanchez v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29856/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-283-29856-sanchez-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-06-17
+
+# Sanchez v. The Queen
+
+- Citation: 2010 TCC 283
+- Decision date: 2010-06-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6413, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sanchez v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-06-17
+Neutral citation
+2010 TCC 283
+File numbers
+2008-3811(IT)G
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3811(IT)G
+BETWEEN:
+MIGUEL SANCHEZ,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+9065-7420 Québec Inc. (2008-397(IT)G)
+on January 18, 2010, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the appellant:
+Marc Gaucher
+Counsel for the respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2003, 2004, and 2005 taxation years is dismissed, with costs to the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of June 2010.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 24th day of November 2010
+François Brunet, Revisor
+Docket: 2008-397(IT)G
+BETWEEN:
+9065-7420 QUEBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Miguel Sanchez (2008-3811(IT)G)
+on January 18, 2010, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Agent for the appellant:
+Marc Gaucher
+Counsel for the respondent:
+Christina Ham
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2002, 2003, 2004, and 2005 taxation years is dismissed, with costs to the respondent, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of June 2010.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 24th day of November 2010
+François Brunet, Revisor
+Citation: 2010 TCC 283
+Date: 20100617
+Dockets: 2008-3811(IT)G,
+2008-397(IT)G
+BETWEEN:
+MIGUEL SANCHEZ,
+9065-7420 QUEBEC INC.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] These are two appeals in which the parties agreed to proceed on common evidence.
+[2] From the start, the agent for the appellants has acknowledged that, in the main, the assumptions of fact and inherent calculations were sufficiently correct; hence, he limited his evidence to explanations concerning the source of the funds estimated in the assessments.
+[3] In support of the assessments under appeal, the respondent relied on several facts. The facts in question are set out in the Replies to the Notices of Appeal.
+[Translation]
+Miguel Sanchez (2008-3811(IT)G)
+11. In determining the appellant's tax liability for the 2003, 2004 and 2005 taxation years, the Minister relied on the following assumptions of fact:
+(a) The appellant is the majority shareholder in 9065‑7420 Québec Inc. (the company);
+(b) The company, which does business under the name Sports Bazar, is a sports shop that specializes in the sale of bicycles, skis, snowboards, skates, clothes and accessories.
+(c) The company also offers repair services and equipment rentals.
+(d) The company's fiscal year ends on June 30.
+Shareholder benefit
+(e) The appellant is actively involved in the company's operations.
+(f) Books and records kept by the company were inadequate during the period at issue.
+(g) The company failed to report income from treadmill sales and bicycle repairs during the period at issue.
+(h) Having noticed that the appellant's reported income was small, the Minister conducted an audit using the net worth differential method.
+(i) After auditing the appellant using the net worth differential method, the Minister established that the appellant had failed to report some income as set out in the tables found in Appendix A attached, constituting an integral part of this Reply to the Notice of Appeal.
+(j) As the company is the appellant's main source of income, the unreported income determined by means of the net worth differential method was considered a shareholder benefit from the company.
+Business investment loss
+(k) The appellant claimed for the 2003 taxation year a business investment loss in the amount of $67,594 relative to one thousand (1,000) shares of 9110‑8068 Québec Inc. as well as a debt to that same company.
+(l) The appellant did not owe $29,046 to 9110-8068 Québec Inc.
+12. In imposing on the appellant the penalty set out in subsection 163(2) [sic] of the Income Tax Act, the Minister relied on the following facts:
+(a) The facts stated in paragraphs (a) to (j) of section 11 above.
+(b) The amounts of the appellant's unreported income are very significant in comparison with the reported income for the 2003, 2004 and 2005 taxation years, as shown below:
+2003
+2004
+2005
+Total reported income
+$25,706
+$18,118
+($132)
+Unreported income
+$66,994
+$26,532
+$9,691
+(c) Not all of the company's sales were adequately invoiced, and they were often paid in cash.
+(d) Books and records kept by the company were inadequate during the period at issue; among other things, no inventory was kept.
+(e) The appellant signed his income tax returns for the 2003 and 2004 taxation years.
+(f) The appellant was aware of the existence of the income that he did not report.
+9065-7420 Québec Inc. (2008-397(IT)G)
+10. In determining the appellant's tax liability for the 2002, 2003, 2004 and 2005 taxation years, the Minister of National Revenue relied on the following facts:
+(a) The appellant, which does business under the name Sports Bazar, is a sports shop that specializes in the sale of bicycles, skis, snowboards, skates, clothes and accessories.
+(b) The company also offers repair services and equipment rentals.
+(c) Miguel Sanchez is the majority shareholder in the appellant.
+(d) The appellant's fiscal year ends on June 30.
+(e) Miguel Sanchez was actively involved in the appellant's activities.
+(f) Books and records kept by the appellant were inadequate during the period at issue.
+(g) The appellant failed to report income from treadmill sales and bicycle repairs during the period at issue.
+(h) Having noticed that Miguel Sanchez's reported income was small, the Minister audited him using the net worth differential method.
+(i) After auditing Miguel Sanchez using the net worth differential method, the Minister established that Mr. Sanchez had failed to report some income as set out in the tables found in Appendix A attached, constituting an integral part of this Reply to the Notice of Appeal.
+(j) Miguel Sanchez’s unreported income, determined by the net worth differential method, was attributed to the appellant pro rata its fiscal years, as shown below:
+2003
+2004
+2005
+Reported income
+($58,943)
+$30,154
+$25,540
+Unreported income
+$46,845
+$18,957
+$22,862
+Revised income
+($12,098)
+$49,111
+$48,402
+(k) An amount of $441 in expenses for the 2005 taxation year was claimed twice by the appellant, and therefore, disallowed by the Minister.
+(l) The appellant's non-capital loss for the 2003 taxation year was reduced following the addition of the appellant's unreported income; the loss carried over to the 2002 taxation year was thus revised to $5,400.
+(m) Following the reduction of the appellant's non-capital loss for the 2003 taxation year, the non‑capital loss balances for the 2004 and 2005 taxation years were revised to zero.
+11. In imposing on the appellant the penalty set out in subsection 163(2) of the Income Tax Act, the Minister relied on the following facts:
+(a) The facts stated in paragraphs (a) to (m) of section 10 above.
+(b) The amounts of the appellant's unreported income are very significant in comparison with the reported income for the 2003, 2004 and 2005 taxation years, as shown below:
+2003
+2004
+2005
+Reported income
+($58,943)
+$30,154
+$25,540
+Unreported income
+$46,845
+$18,957
+$22,862
+(c) Not all of the appellant's sales were adequately invoiced, and they were often paid in cash.
+(d) Books and records kept by the appellant were inadequate during the period at issue; among other things, no inventory was kept.
+(e) The appellant was aware of the existence of the income it did not report.
+[4] In the Replies to the Notices of Appeal, the respondent indicated that the issues were as follows:
+[Translation]
+Miguel Sanchez (2008-3811(IT)G)
+(a) Whether the Minister was correct in including in the appellant's income for the 2003, 2004 and 2005 taxation years the amounts of $52,441, $26,531 and $9,691 respectively.
+(b) Whether the Minister was correct in disallowing the business investment loss of $29,046, and accordingly, was also correct in disallowing the deductible business investment loss of $14,523 for the 2003 taxation year.
+(c) Whether the Minister was correct in imposing the penalty provided for in subsection 162(3) of the Income Tax Act for the 2003, 2004 and 2005 taxation years respecting the appellant's unreported income.
+9065-7420 Québec Inc. (2008-397(IT)G)
+(a) Whether the Minister was correct in including in the appellant's income for the 2003, 2004 and 2005 taxation years the amounts of $46,845, $18,957 and $22,862 respectively.
+(b) Whether the Minister was correct in refusing $441 in expenses claimed by the appellant for the 2005 taxation year.
+(c) Whether the Minister was correct in revising the non‑capital losses for the 2002, 2004 and 2005 taxation years.
+(d) Whether the Minister was correct in imposing the penalty provided for in subsection 162(3) of the Income Tax Act for the 2003, 2004 and 2005 taxation years respecting the appellant's unreported income.
+[5] The appellants stated that they had reported all of their income. They added that the discrepancies noted can be explained, first, by the very simple lifestyle of Mr. Sanchez, his personal needs being very minimal, and second, by transfers of very significant amounts of money by Mr. Sanchez and his family members living in France.
+[6] The witnesses were Mr. Sanchez; his father; his manager, Jean‑Claude Putseys; and his accountant, Steve Lapierre, CGA, who was responsible for accounting for the business and also for Mr. Sanchez personally.
+[7] Mr. Sanchez's father gave a long explanation of the family background and of his son’s cycling career. Since the father himself was a high-level cyclist, his son showed great interest in this very demanding sport at a very young age. Very talented and determined, his son quickly became a champion in that demanding sport and started entering cycling races at the age of 13.
+[8] He regularly took part in numerous races and competitions all over Europe, but mainly in Spain, where his family owned two apartments.
+[9] Mr. Sanchez and his father indicated that Mr. Sanchez was regularly given large purses, which were always paid to him in cash; he never received cheques. Both Mr. Sanchez and his father stated that in Europe the customs and traditions are very different from those in Canada.
+[10] The father explained that his son was a very simple man only interested in cycling. Almost all of the money that he won, which was paid to him in cash, was deposited in a safe that he himself had made, being a mechanic by training.
+[11] According to Mr. Sanchez and his father, in Europe, unlike in North America, cyclists are very well paid. At the age of 18, Mr. Sanchez had to do his military service, but was dismissed very quickly for medical reasons. After that, he returned to competition with even more success than before, becoming professional.
+[12] To explain and validate his son's passion for cycling, Mr. Sanchez's father said that Miguel was not very successful with girls given the small amount of time that he spent on them.
+[13] The father explained that his son had accumulated a very large amount of money in the safe. His needs were modest, and his living expenses were often covered by event organizers or sponsors.
+[14] The father also stated that very expensive bicycles were provided to his son at no cost and his father had paid only for his first bicycle.
+[15] He explained that his son lived in Spain while he was racing. The two apartments that the family owned were in that country.
+[16] Mr. Sanchez's father mentioned often that his son had significant amounts of money and that he often loaned it to the members of his family and to his friends. Those transactions were always done in cash.
+[17] The father also indicated that the family had inherited the two apartments it owned in Spain and that they needed significant renovations, which Mr. Sanchez had undertaken to pay for.
+[18] Mr. Sanchez's father also stated that his son, who lived very modestly in France, had given him two new cars. According to his father, Mr. Sanchez kept large sums of cash money in a safe in his residence, and he was generous towards all the members of his family.
+[19] Mr. Sanchez's father also mentioned a loan obtained at an advantageous rate from a bank where his brother-in-law worked. When he was asked for more details, things got so complicated that he ended up saying that they were rather deposits to obtain special credits during the purchase of a residence.
+[20] The evidence also showed that Mr. Sanchez had operated a small business in Belgium that was not as successful as he would have liked. It may even have failed.
+[21] At one point, Mr. Sanchez met a Canadian woman, and things went very quickly. They got married after a few months of dating. After having three children, his spouse decided to go back to Quebec, Canada. The couple thus settled in Quebec. Mr. Sanchez immersed himself in a business specializing in products he knew well, that is, bicycles.
+[22] Mr. Sanchez stated that his relationship with his spouse had deteriorated so much that they ended their marriage. In regard to that, he stated that he organized his financial affairs so that his former spouse knew as little as possible about them because he feared that she would ask for too much with respect to child support. Mr. Sanchez explained how he had come to buy a second business, which also sold bicycles. He maintained that he believed that in this way he could increase the business's revenue.
+[23] His father explained that, after Mr. Sanchez had chosen to settle in Quebec with his family, he visited his son regularly with his spouse, that is, every year except two or three years. Every time he brought his son significant amounts of money, though he never exceeded the limit of CAD$10,000 per person. He indicated that it was Canadian currency obtained at a currency exchange office in his neighbourhood in France where he lived.
+[24] Everything related to the many exchange transactions performed at an office in his neighbourhood by him and by another of his sons, Mr. Sanchez's brother, was explained in a slightly confused way.
+[25] No receipts or other documents were provided justifying any transactions in which the father first obtained Canadian currency at an exchange office and then brought significant sums of money in cash together with his spouse during their annual visits to Canada.
+[26] Even in that regard Mr. Sanchez's father was not very precise. He explained that he and his spouse came often to Quebec because they enjoyed substantial benefits with the airline their daughter worked for. He never stated the dates of those many trips or the amounts brought into the country, only mentioning that they did not exceed $10,000 per person.
+[27] Jean-Claude Putseys, who claims to be a manager having operated his own business, explained that Mr. Sanchez had retained his services as a manager for the appellant company. He stated that Mr. Sanchez had difficulty focusing on the management of his business. He also explained that Mr. Sanchez always seemed absent-minded and that he directed his attention mainly to cycling and competition.
+[28] Mr. Putseys stated that the management was so unsound that he had to inject funds out of his own pocket. He indicated that that he had to make deposits quite often because the business did not generate enough income to cover its expenses. In such a situation, he would talk to Mr. Sanchez, who most of the time gave him the cash necessary without telling him where it had come from.
+[29] The auditor also testified. Given that it was acknowledged that the discrepancies noted and the calculations were not being challenged, her testimony was very brief.
+[30] She explained that she had asked Mr. Sanchez whether he had received or obtained sums of money from a source other than the business he operated. She found out that Mr. Sanchez sold exercise machines for cash. Mr. Sanchez also told her that he had money in a safe abroad. She stated that she had wanted to learn more about it, but indicated that she had given up because Mr. Sanchez was tight‑lipped and even aggressive on the subject.
+Analysis
+[31] The father's story is full of generalities, which do not make it possible to make calculations on the amounts accumulated. For example, it was said that Mr. Sanchez had participated in many races since the age of 13 and that he had often won, thus starting to accumulate savings at that young age.
+[32] In his argument, the agent for Mr. Sanchez stated to the Court that Mr. Sanchez started earning money when he was 13 years old and that the amount accumulated, which exceeded $200,000, represented in fact an average of less than $20,000 per year.
+[33] It is not enough to state, claim or maintain that, since the age of 13, an adolescent had been winning cycling races that enabled him to pocket every year sums of $20,000 and more; such allegations must be supported with convincing evidence.
+[34] Now, is it possible in Europe to earn money as an amateur in cycling races, something that is evidently not possible outside Europe? Is it possible to become a professional athlete before reaching the age of majority? Those are very legitimate questions, which have been disregarded and remain unanswered.
+[35] Overall, the evidence and explanations with regard to the source of over $200,000 kept in a safe at Mr. Sanchez's parents' house are neither clear nor consistent.
+[36] To accept the appellants' arguments would be to reward the party that has the most imagination and talent for fabricating all kinds of stories to explain and justify the discrepancies that gave rise to the tax assessments.
+[37] The appellants would like their appeals to be allowed on the grounds that Mr. Sanchez has trouble focusing, that he is a poor manager, that he grew up in an environment where customs are different and that, in any case, he could not have earned the income that is attributed to him because the field in which his business specializes is very competitive. And the backdrop to all of this is that Mr. Sanchez, who is not well educated, is a very high-level athlete who had earned significant amounts of money.
+[38] The Court is sympathetic towards the appellants and it is satisfied that they would have succeeded if the burden of proof required had been that which applies in criminal cases, namely, beyond a reasonable doubt.
+[39] In this case, the burden of proof is that of the balance of probabilities. Assessing the evidence is a difficult task, which must be guided more by reasoning than by intuition; in other words, it is essential to verify all impulses that are basically intuitive, especially if the intuitive finding is not supported by any evidence.
+[40] Evidence can be based on testimony and be sufficiently credible to support a coherent finding. Such evidence must, however, be clear, precise, detailed, balanced and, especially, reasonable.
+[41] When testimony is rather vague, or even confused, on a particular subject – especially an unusual one – it is important to refer to reliable and credible references.
+[42] In this case, the appellant maintained that, in view of his the burden of proof, he was not required to show when, how and why he had accumulated very large amounts of money in a safe built in his father's house. He claimed only that the safe contained a great deal of money without stating a precise amount or giving details with respect to the amounts he won in cycling races and the dates he won them on.
+[43] I do not share the appellants' opinion regarding the scope of the burden of proof; agreeing with such an opinion would result in absurdity.
+[44] Accordingly, an 18-year-old who wins $50,000 in the lottery could report that amount dozens of times throughout his active life. Every time he has to explain or justify a discrepancy between his income and his expenses, he could show the Loto‑Québec cheque.
+[45] In this case, there is not even the equivalent of a cheque, and the Appellants are of the opinion that the Court should assume that the safe, located in Mr. Sanchez's parents' residence in France, is still well stocked.
+[46] Certain facts, for example, that the appellant was an accomplished athlete who was very successful, seem to have been very well established.
+[47] Other evidence, however, raises questions and seems to support the conclusion that the explanations are so doubtful that they must be disregarded and found unreasonable and not credible.
+[48] It is never easy to assess a person's credibility; unfortunately, there is no totally fool-proof, magic recipe. Reasonableness is usually the norm, but it is not sufficient.
+[49] My approach has always been to quantify the available evidence to arrive at a conclusion based on the balance of probabilities.
+[50] In this case, I repeat that I sympathize with the appellants. Mr. Sanchez's athletic abilities and his numerous victories in Europe are not at issue although better evidence would have been preferred.
+[51] Did he really save close to $200,000 stowed, in this case, in a safe at his parents' residence? To say he did would require a leap of faith; there is no real basis therefor.
+[52] Furthermore, that allegation should be examined on the basis of the appellants' explanations. The evidence established the following:
+· Mr. Sanchez is a generous person who does not hesitate to lend money interest-free to his friends and extended family.
+· Mr. Sanchez gave two new vehicles to his father, who evidently does not have a significant amount of income.
+· Mr. Sanchez paid for the repairs of two apartments owned by his family following the death of his relatives.
+· Mr. Sanchez unsuccessfully operated a business that he had to close down in Belgium.
+· Mr. Sanchez is married and is the father of three children; he and his family immigrated to Canada; Mr. Sanchez created or acquired a business; Mr. Sanchez acquired a competitor's business.
+· Mr. Sanchez stated that he did everything in his power to reduce the financial appetite of his former spouse, who had custody of the three children. This is very surprising for someone who describes himself as caring deeply for his family. Am I to understand that his own children are excluded from what he considers his family?
+· Mr. Sanchez stated that his family was the most important thing to him and that he never questioned the management of the large amounts of money in the safe.
+· Mr. Sanchez never mentioned exactly how much money was in the safe at specific times.
+· Mr. Sanchez became aggressive when the auditor wanted to know a little more about the contents of the safe.
+· There was a total absence of documentary evidence with regard to the amounts imported by his parents.
+· There is an absence of written evidence with respect to the transactions that allegedly took place at the exchange office.
+· There is an absence of circumstantial evidence with respect to the dates on which the money imported was deposited and the dates of his parents' visits.
+· The amounts of money imported, namely $10,000, complies with the restrictions imposed by subsection 12(1) of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act, S.C. 2000, c. 17.
+· A notable improvement in Mr. Sanchez's financial situation coincides with the arrival of the manager.
+· Mr. Sanchez admitted that he had made cash sales that were not disclosed to the business's accountant.
+[53] In other words, the evidence has also revealed the following:
+(a) inconsistencies in the father's testimony;
+(b) Mr. Sanchez's selective memory;
+(c) comments and observations that everything was done to conceal from his former spouse the state of his personal finances;
+(d) inconsistencies in Mr. Sanchez's testimony with respect to his deep concern for his family given his attitude towards his three children;
+(e) absence of reliable information in regard to the contents of the safe;
+(f) disproportional and aggressive reactions to the auditor's questions regarding the amounts of money transfered from abroad;
+(g) total absence of follow-up with respect to the contents of the safe;
+(h) cultural explanations;
+(i) small amount of documentary evidence provided by the appellants.
+[54] I reproduce here a passage from the decision I rendered in Ruest v. Canada, [1999] T.C.J. No. 586, at paragraph 27:
+To convince the Court, he had to show on the balance of evidence that his claims were plausible, reasonable, correct and coherent. It was not enough to criticize and raise certain minor grievances in order to enable the Court to conclude that everything balanced as a result of the amount received at a particular moment.
+[55] From the start, the explanations were at best quite unusual. In such a situation, it was imperative for the appellants to submit reasonably cogent circumstantial evidence if they could not submit direct evidence.
+[56] Why was it only Mr. Sanchez's father who testified? Why not his mother, who was said by Mr. Sanchez to be more methodical and disciplined and a better administrator?
+[57] The appellants' main witness testified. Mr. Sanchez's father was the main witness. His answers and explanations were rather vague and confused although he seemed sufficiently at ease. He was assisted by an interpreter, who helped him understand and also to respond even though he knew French well enough to sometimes answer the questions he was asked before the interpreter had even finished translating them.
+[58] A review of the evidence did not enable the Court to find documents supporting deposits of large amounts of money, any receipts, exchange receipts or copies of customs declarations. None of that documentary evidence was available, but it seems to me that the appellants should have been able to find at least a few supporting documents.
+[59] The burden of proof on Mr. Sanchez was not merely to hypothesize about the sources of some funds, as is done in criminal cases, but to show on a balance of probabilities the truthfulness of his version of the facts.
+[60] In Canada, the taxation system is based on the principle of self-reporting in accordance with laws that certainly are complicated but precise. When a person chooses to settle in Canada, he or she must accept that reality and comply with it just as all Canadians do.
+[61] Explanations regarding the customs and traditions and the culture and habits of a taxpayer's country of origin are neither a justification nor an excuse for failing to comply with Canada’s taxation laws.
+[62] All Canadian taxpayers can be audited and asked to disclose in a reliable and reasonable manner information requested by tax authorities.
+[63] In this case, why did Mr. Sanchez not bring with him to Canada the money he had in Europe? He was going to settle in Canada with his family: he had to have needed money, and according to his own testimony, he knew very well that he could not live off cycling racing as he had done in Europe. Why did he not at least determine the amount of his assets kept in the safe? Why did his father borrow money in 2000 while he had access to the well-stocked safe?
+[64] The agent for the appellants is asking the Court to disregard the confusion and inconsistencies in their evidence on the ground that cultural differences and sympathy support the appellants' argument. However, the Court's duty is first and foremost to ensure that people who are subject to taxation laws comply with them.
+[65] To avoid an assessment established by means of the net worth method, it is not sufficient to submit a story that looks plausible and whose goal is to explain all the discrepancies between income and net worth. An alibi is a very valid form of defence, but it must also be established and proven convincingly and decisively.
+[66] The appeals are dismissed with costs to the respondent.
+Signed at Ottawa, Canada, this 17th day of June 2010.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 24th day of November 2010
+François Brunet, Revisor
+CITATION: 2010 TCC 283
+COURT FILE NO.: 2008-3811(IT)G
+STYLE OF CAUSE: MIGUEL SANCHEZ v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: January 18, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: June 17, 2010
+APPEARANCES:
+Agent for the appellants:
+Marc Gaucher
+Counsel for the respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

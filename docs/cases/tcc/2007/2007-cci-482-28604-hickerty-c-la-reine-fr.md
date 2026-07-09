@@ -1,0 +1,124 @@
+---
+title: "Hickerty c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28604/index.do"
+last_modified: "2007-09-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 482"
+citation2: ""
+neutral_citation: "2007 CCI 482"
+decision_date: "2007-09-05"
+language: "fr"
+item_id: "28604"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1071
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:19:24.191000+00:00"
+cases_cited_count: 3
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "124de8e85b2d4ec2745ee583fb5959f9e9a94a3dffe37b18faacf2a88af749e6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hickerty c. La Reine
+
+- Citation: 2007 CCI 482
+- Decision date: 2007-09-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1071, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hickerty c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-09-05
+Référence neutre
+2007 CCI 482
+Numéro de dossier
+2005-1588(IT)APP
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2007CCI482
+Date : 20070905
+Dossier : 2005-1588(IT)APP
+ENTRE :
+BETTY HICKERTY,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE MODIFIÉS
+Le juge Boyle
+[1] La contribuable a présenté une demande en vue d’être autorisée à déposer, après l’expiration du délai imparti, un avis d’appel dans un appel interjeté sous le régime de la procédure informelle à l’égard de ses nouvelles cotisations fiscales concernant les années 1998 et 1999. La demande découle du fait que Mme Hickerty a envoyé par la poste en temps opportun son avis d’appel adressé à la Cour de l’impôt et à l’Agence du revenu du Canada, mais qu’elle a utilisé une adresse, à Ottawa, qui n’était pas celle du greffe de la Cour. Il s’agissait en fait de l’adresse de l’ARC qu’un agent d’information de l’ARC lui avait donnée au téléphone aux fins du dépôt de son avis d’appel à la Cour de l’impôt. C’est Mme Hickerty qui a préparé et mis à la poste l’avis d’appel après avoir entendu dire que l’opposition qu’elle avait présentée ne serait pas acceptée, mais avant de recevoir de la Direction générale des appels de l’ARC la trousse d’information concernant les modalités d’appel devant la Cour de l’impôt d’une décision rendue par l’ARC à la suite d’une opposition. Tel était le témoignage non contredit présenté par Mme Hickerty, lequel est corroboré par les dates des lettres pertinentes. Je retiens au complet la version des événements donnée par Mme Hickerty, étant donné que la Couronne n’a pas fourni d’autre version ni mis en question l’exactitude du témoignage.
+[2] La Couronne s’est opposée à la demande en se fondant principalement sur le fait que la demande avait été présentée plus d’un an et 90 jours après la date des nouvelles cotisations. Ni la Couronne ni la requérante n’ont produit en preuve des copies des nouvelles cotisations. Selon le seul élément de preuve qui a été soumis, la Direction générale des appels a rédigé, le 8 juillet 2003, une lettre dans laquelle elle expliquait que l’opposition ne serait accueillie qu’en partie, accompagnée d’un formulaire T7WC indiquant les chiffres et faisant savoir que les nouvelles cotisations seraient établies séparément. La requérante a confirmé qu’elle avait reçu les nouvelles cotisations séparément. L’avis d’appel envoyé à la mauvaise adresse était daté du 12 juillet 2003, soit quatre jours plus tard.
+[3] Le greffe de la Cour de l’impôt n’a jamais reçu l’avis d’appel de Mme Hickerty. Mme Hickerty a envoyé une copie de l’avis d’appel à la Cour au mois de décembre 2004, après avoir été mise au courant du problème. Cette copie accompagnait la demande concernant le dépôt tardif.
+[4] Selon la position prise par la Couronne, l’avis d’appel initial de la requérante ne peut pas donner lieu, pour l’application de l’article 169 de la Loi de l’impôt sur le revenu, à un appel interjeté dans les 90 jours de la date des nouvelles cotisations. Il semble qu’en vertu du paragraphe 18.15(3.2) de la Loi sur la Cour canadienne de l’impôt, si le greffe n’a jamais reçu l’avis d’appel, il ne peut y avoir d’appel adéquatement interjeté aux termes de l’article 175, pour l’application de l’article 169.
+[5] La Couronne soutient en outre que lorsqu’une copie de cet avis d’appel initial a été reçue par la Cour au mois de décembre 2004, elle l’a été plus de 90 jours après la date des nouvelles cotisations et qu’elle ne pouvait pas être considérée comme rendant valide l’introduction de l’appel. La lettre par laquelle l’ARC a fait savoir que de nouvelles cotisations seraient établies était datée du 8 juillet 2003. Si l’ARC n’a pas pris plus d’un an pour établir les nouvelles cotisations, le délai de 90 jours a expiré avant le mois de décembre 2004. Comme les autres experts en matière d’impôt, je sais que les nouvelles cotisations sont établies, au sein de l’ARC, par un groupe autre que le groupe chargé des appels qui a rédigé la lettre du 8 juillet 2003 et le T7WC qui y était joint, et que les nouvelles cotisations portent souvent une date postérieure à celle de la lettre et du T7WC de la Direction générale des appels de l’ARC, et sont reçues à un moment donné par la suite. Toutefois, le témoignage de Mme Hickerty était compatible avec le fait que les nouvelles cotisations avaient été reçues dans le délai ordinaire, pas plus d’un an plus tard.
+[6] Étant donné que j’ai conclu que Mme Hickerty n’a pas interjeté appel de la façon appropriée, j’examinerai la demande qu’elle a présentée en vue d’interjeter appel en dehors du délai normal de 90 jours. Pour qu’il soit fait droit à la présente demande, présentée en vertu du paragraphe 167(5), cinq conditions doivent être réunies.
+[7] Premièrement, la requérante doit avoir véritablement eu l’intention d’interjeter appel dans le délai normal de 90 jours. En l’espèce, je suis tout à fait convaincu que la requérante avait une telle intention. De fait, étant donné qu’elle était résolue à interjeter appel devant la Cour de l’impôt de la décision relative à ses oppositions, elle a déposé son avis d’appel initial, qu’elle a envoyé à la mauvaise adresse, quelques jours seulement après avoir été mise au courant du résultat de ses oppositions, et avant de recevoir la lettre du 8 juillet 2003 de la Direction générale des appels. Cette diligence, cette résolution et cette hâte indiquent pourquoi la requérante se voit obligée de présenter la demande qui est ici en cause. Cela ne ressemble pas du tout aux nombreux cas dans lesquels la demande résulte du fait que le contribuable a tardé à agir.
+[8] Deuxièmement, la demande visant le dépôt tardif doit être présentée dès que les circonstances le permettent. Je suis ici encore convaincu, eu égard aux faits qui ont été portés à ma connaissance, qu’il est satisfait à cette exigence. La requérante a appris au mois d’octobre 2004 qu’elle avait envoyé son avis d’appel initial à la mauvaise adresse. C’est ce que lui a fait savoir un représentant de l’ARC lors d’une conversation téléphonique, et la lettre de l’ARC confirmant la chose était datée du 16 novembre 2004. Or, Mme Hickerty a présenté sa demande à la Cour (comme l’ARC lui proposait de le faire dans la lettre du mois de novembre) le 10 décembre 2004.
+[9] Troisièmement, je dois conclure qu’il existe des moyens d’appel raisonnables. La Couronne n’a pas contesté qu’il existait des moyens d’appel raisonnables. L’avis d’appel traite des questions d’utilisation aux fins de l’entreprise et de dépenses d’entreprise d’une façon passablement détaillée. Je suis satisfait sur ce point.
+[10] Quatrièmement, je dois conclure qu’il serait juste et équitable d’accorder l’ordonnance eu égard aux circonstances. En l’espèce, je suis convaincu qu’il est juste et équitable d’accorder l’ordonnance, et je suis prêt à accueillir la demande, à condition que la cinquième condition soit remplie. Selon moi, les faits de l’affaire se passent de commentaires :
+1) La contribuable a cherché à interjeter appel devant la Cour presque immédiatement après avoir été mise au courant de la décision que la Direction générale des appels de l’ARC avait rendue au sujet de ses oppositions;
+2) La contribuable a préparé son avis d’appel et elle l’a envoyé par la poste;
+3) Malheureusement la contribuable a envoyé l’avis d’appel à la mauvaise adresse. Elle avait téléphoné à la ligne d’information de l’ARC pour obtenir l’adresse de la Cour, et elle a envoyé l’avis à l’adresse qu’on lui avait donnée. Malheureusement, ce n’était pas la bonne adresse. Si ce n’avait été de ce fait, la présente demande ne serait pas nécessaire et la Cour entendrait l’appel au fond;
+4) Après la mise à la poste de l’avis d’appel initial au mois de juillet 2003, il est mentionné dans la preuve écrite et dans la preuve orale soumises par la contribuable que la Direction du recouvrement de l’ARC n’avait pas communiqué avec la contribuable avant octobre et novembre 2004. Le fait de ne pas avoir de nouvelles de la Direction du recouvrement à la suite du dépôt d’un avis d’appel est compatible avec le fait qu’un appel valide a été interjeté, de sorte que les restrictions concernant le recouvrement qui sont énoncées à l’article 225.1 s’appliquent;
+5) Après avoir déposé son avis d’appel initial le 12 juillet 2003, la requérante a écouté une émission radiophonique canadienne portant sur les litiges fiscaux et elle a cru comprendre que l’audition d’un appel devant la Cour canadienne de l’impôt pouvait prendre beaucoup de temps;
+6) La requérante est loin d’être la seule contribuable qui ne comprend pas très bien que la Cour de l’impôt et l’ARC, d’une façon générale, ou la Direction générale des appels de l’ARC, d’une façon plus précise, sont des entités distinctes. De fait, au cours de la semaine où la présente demande a été entendue, j’ai entendu quatre autres appels et une intervention devant la Cour de l’impôt qui avaient été adressés à l’ARC. La différence semble être que, dans ces cas‑là, l’ARC avait transmis les appels au greffe de la Cour. Chacune des parties en cause avait également reçu une feuille de renseignements de l’ARC indiquant les modalités d’appel devant la Cour de l’impôt.
+[11] Il reste uniquement la cinquième condition, à savoir que la demande doit être présentée dans l’année suivant le délai normal de 90 jours imparti pour l’introduction d’un appel après la réception des nouvelles cotisations. Si les nouvelles cotisations étaient datées du 8 juillet 2003, la présente demande devait être présentée dans l’année suivant le 6 octobre 2003. Étant donné que la demande est datée du 10 décembre 2004, cette condition ne pouvait pas être remplie à moins que la période pendant laquelle la requérante croyait, d’une façon raisonnable mais erronée, qu’elle avait validement interjeté appel ne soit pas prise en compte dans le calcul du délai d’un an. Dans la négative, la demande peut être accueillie seulement si les nouvelles cotisations n’ont été établies par l’ARC qu’au début du mois de septembre 2003, soit environ deux mois après la lettre du 8 juillet 2003. Malheureusement, la Cour ne dispose pas d’une telle preuve et, bien que cette période se situe peut‑être dans les limites ordinaires de l’ARC, la requérante n’a pas satisfait à l’obligation qui lui incombait de démontrer que c’était le cas.
+[12] Je reviens donc à la question de savoir si la période pendant laquelle la requérante croyait, d’une façon erronée, qu’elle avait validement interjeté appel est incluse dans la période de grâce d’un an. Eu égard aux circonstances, je suis d’avis que la période au cours de laquelle la contribuable croit, d’une façon raisonnable mais erronée, qu’elle a validement interjeté appel n’est pas incluse dans le délai additionnel de grâce d’un an prévu à l’alinéa 167(5)a). La Cour ne semble pas avoir déjà examiné cette question en ce qui concerne les oppositions ou les appels tardifs. Une interprétation favorable à la contribuable est conforme au fait que la Cour a dit préférer que les litiges fiscaux dans lesquels les contribuables sont en cause soient entendus et réglés sur le fond, en particulier lorsque aucun préjudice n’est causé à la Couronne. Toute interprétation ou application différente priverait la contribuable du droit de faire entendre au fond un appel qu’elle croyait, de façon raisonnable pendant un peu moins de cinq mois, avoir interjeté adéquatement, quand on ne pouvait raisonnablement s’attendre à ce qu’elle fasse autre chose au cours de cette période. La plupart du temps, le délai d’un an correspondra tout simplement à une année civile. Toutefois, si le contribuable croit d’une façon erronée mais raisonnable qu’il a validement interjeté appel et que les autres conditions du paragraphe 167(5) sont remplies, le délai de grâce d’un an cesse de courir tant que le contribuable n’apprend pas, ou tant qu’il n’aurait pas dû apprendre s’il avait agi et réfléchi d’une façon raisonnable, que l’appel envisagé n’est pas valide. Il y aura un moment où la croyance erronée du contribuable cessera d’être raisonnable, mais eu égard aux faits de la présente espèce, il était raisonnable pour Mme Hickerty de continuer à croire que son appel était valide, jusqu’au 10 décembre 2003 du moins, même s’il n’était plus raisonnable de le croire le 10 décembre 2004.
+[13] La présente affaire et la dernière question susmentionnée sont passablement différentes des cas dans lesquels le contribuable est au courant d’une cotisation et la comprend, ainsi que des cas de possibilité de découverte examinés par la Cour d’appel fédérale dans l’arrêt H.M.Q. v. Carlson, 2002 DTC 6893. Dans cette affaire‑là, le contribuable ne s’était même pas opposé aux cotisations fiscales dont il avait fait l’objet en 1993 jusqu’à ce qu’il cherche à déposer son avis d’opposition cinq ans plus tard, en 1999. La Cour d’appel a conclu que l’on ne pouvait pas aider le contribuable parce qu’il n’avait été « ni diligent ni raisonnable dans la façon de se comporter après la signification de l’avis de cotisation ».
+[14] Dans une autre affaire mentionnée par la Couronne, Schiavone v. H.M.Q., 2002 DTC 2023 (C.C.I.), un délai d’environ cinq ans s’était également écoulé avant que la contribuable cherche à interjeter appel devant la Cour, aucune explication n’étant toutefois donnée dans les motifs au sujet de ce délai.
+[15] Je note que dans la troisième décision mentionnée par la Couronne, Meer v. H.M.Q., 2001 DTC 648, la présente cour a conclu, au paragraphe 16, qu’il était raisonnable pour le contribuable d’avoir cru à tort, pendant cinq mois, que son appel était valide.
+[16] Pour ces motifs, j’accueille la demande de Mme Hickerty. Pour les mêmes motifs, j’accueillerai également la demande identique que M. Hickerty a présentée, laquelle est fondée sur des faits identiques et a été entendue sur preuve commune.
+Les présents motifs de l’ordonnance modifiés sont rendus à la place des motifs de l’ordonnance datés du 22 août 2007.
+Signé à Ottawa, Canada, ce 5e jour de septembre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 5e jour d’octobre 2007
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI482
+No DU DOSSIER DE LA COUR : 2005-1588(IT)APP
+INTITULÉ : BETTY HICKERTY
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Grande Prairie (Alberta)
+DATE DE L’AUDIENCE : Le 7 août 2007
+MOTIFS DE L’ORDONNANCE : L’honorable juge Patrick Boyle
+DATE DE L’ORDONNANCE
+MODIFIÉE : Le 5 septembre 2007
+COMPARUTIONS :
+Pour la requérante :
+La requérante elle‑même
+Avocat de l’intimée :
+Me Daniel Segal
+AVOCAT INSCRIT AU DOSSIER :
+Pour la requérante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

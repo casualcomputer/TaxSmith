@@ -1,0 +1,175 @@
+---
+title: "Bouchard c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521598/index.do"
+last_modified: "2026-03-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2026 CCI 48"
+citation2: ""
+neutral_citation: "2026 CCI 48"
+decision_date: "2026-03-12"
+language: "fr"
+item_id: "521598"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5541
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-03-19T09:04:02.511000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "df5d51a08778c690df48b8989c7df46c540d7e9fd5b2b977903b918ca0797eba"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bouchard c. Le Roi
+
+- Citation: 2026 CCI 48
+- Decision date: 2026-03-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5541, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bouchard c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2026-03-12
+Référence neutre
+2026 CCI 48
+Numéro de dossier
+2025-621(GST)I
+Juges et Officiers taxateurs
+Dominique Lafleur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2025-621(GST)I
+ENTRE :
+ANGÉLIQUE BOUCHARD,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+Requête présentée par voie d’observations écrites, à Ottawa (Ontario)
+Devant : L’honorable juge Dominique Lafleur
+Comparutions :
+Pour l’appelante :
+L’appelante n’a pas comparu
+Avocat de l’intimé :
+Me Camille Bugel
+JUGEMENT
+VU l’avis de requête de l’intimé (la « requête ») déposé à la Cour le 13 juin 2025 afin d’obtenir un jugement de la Cour cassant, avec dépens, le présent appel au motif que l’appelante s’est désistée de son précédent appel concernant la même cotisation, dont l’avis est daté du 9 juin 2014 (dossier 2016-18(GST)I), ou alternativement, afin d’obtenir une ordonnance permettant à l’intimé de produire la réponse à l’avis d’appel dans les 60 jours à compter de la date de l’ordonnance;
+VU les documents déposés au dossier;
+VU que la requête doit être tranchée sur dossier sans comparution des parties;
+ET VU les observations écrites de l’intimé;
+LA COUR ORDONNE CE QUI SUIT :
+Pour les motifs ci-joints :
+La requête est accordée et l’appel est annulé;
+Le tout sans frais.
+Signé ce 12e jour de mars 2026.
+« Dominique Lafleur »
+Juge Lafleur
+Référence : 2026 CCI 48
+Date : 20260312
+Dossier : 2025-621(GST)I
+ENTRE :
+ANGÉLIQUE BOUCHARD,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+MOTIFS DU JUGEMENT
+Juge Lafleur
+I. La requête [1] L’intimé a présenté une requête, dont l’avis a été déposé à la Cour le 13 juin 2025 (la « requête »), afin d’obtenir un jugement cassant, avec dépens, le présent appel logé par l’appelante en vertu de la Loi sur la taxe d’accise (LRC (1985), ch E-15; la « Loi ») au motif que l’appelante s’est désistée de son précédent appel concernant la même cotisation, dont l’avis est daté du 9 juin 2014 (dossier 2016-18(GST)I), ou alternativement, afin d’obtenir une ordonnance permettant à l’intimé de produire la réponse à l’avis d’appel dans les 60 jours à compter de la date de l’ordonnance.
+[2] L’appel logé par l’appelante a fait l’objet d’une conférence de gestion tenue le 4 novembre 2025 en l’absence de l’appelante, bien que cette dernière ait été dûment avisée de la tenue de cette conférence.
+[3] Selon l’ordonnance de la Cour datée du 5 novembre 2025, l’appelante avait jusqu’au 12 janvier 2026 pour signifier à l’intimé et déposer des observations écrites à la Cour quant à la requête, ce délai étant péremptoire.
+[4] Vu le défaut de l’appelante de déposer des observations écrites dans le délai prescrit, la Cour a considéré la requête sur la base des représentations écrites de l’intimé au dossier, sans comparution des parties.
+[5] Dans les présents motifs, toute disposition législative à laquelle il est fait référence est une disposition de la Loi, sauf mention contraire.
+II. Les faits et l’historique [6] Le 9 juin 2014, l’Agence du revenu du Québec (l’« Agence »), au nom du ministre du Revenu national, a établi une cotisation à l’égard de l’appelante en vertu de la Partie IX de la Loi, concernant la taxe sur les produits et services et a envoyé un avis de cotisation portant la même date (la « Cotisation »).
+[7] La Cotisation indiquait un solde dû s’élevant à 15 773,97 $, composé d’un réajustement au calcul de la taxe nette de 11 643,37 $, d’intérêts de 2 263,18 $, de pénalités de 1,50 $ et d’un solde antérieur de 1 865,92 $.
+[8] La Cotisation visait les 18 périodes de déclaration suivantes : du 1er février 2010 au 28 février 2010, 1er mars 2010 au 31 mars 2010, 1er mai 2010 au 31 mai 2010, 1er juin 2010 au 30 juin 2010, 1er aout 2010 au 31 aout 2010, 1er octobre 2010 au 31 octobre 2010, 1er novembre 2010 au 30 novembre 2010, 1er décembre 2010 au 31 décembre 2010, 1er janvier 2011 au 31 janvier 2011, 1er février 2011 au 28 février 2011, 1er mars 2011 au 31 mars 2011, 1er avril 2011 au 30 avril 2011, 1er mai 2011 au 31 mai 2011, 1er juin 2011 au 30 juin 2011, 1er juillet 2011 au 31 juillet 2011, 1er aout 2011 au 31 aout 2011, 1er septembre 2011 au 30 septembre 2011, et du 1er octobre 2011 au 31 octobre 2011 (les « Périodes de déclaration »).
+[9] Le 14 septembre 2015, l’appelante a logé un appel à la Cour à l’encontre de la Cotisation, après s’être opposée à la Cotisation. Le dossier de la Cour portait le numéro 2016-18(GST)I.
+[10] Le 4 juillet 2019, l’appelante a déposé un avis de désistement auprès de la Cour dans le dossier portant le numéro 2016-18(GST)I. L’intimé a consenti au dépôt de l’avis de désistement, sans frais. Le greffe de la Cour a traité le désistement conformément aux dispositions du paragraphe 16.2(2) de Loi sur la Cour canadienne de l’impôt (LRC (1985), ch T-2) (la « Loi sur la CCI ») et le dossier a été subséquemment fermé.
+[11] Le 4 mai 2020, à la demande de l’appelante, l’Agence a envoyé un relevé de compte à l’appelante, faisant état des sommes dues découlant de la Cotisation.
+[12] Le 12 mars 2025, l’appelante a déposé un avis d’appel à cette Cour en vertu de la procédure informelle concernant une cotisation établie selon la Partie IX de la Loi, dont l’avis aurait été émis le 20 décembre 2024 concernant l’année 2020. La Cour a ainsi ouvert un dossier portant le numéro 2025-621(GST)I. La requête a été déposée dans ce dossier.
+[13] La déclaration sous serment datée du 6 mars 2026 déposée en soutien à la requête indique que :
+(i)L’Agence n’a pas émis de cotisation à l’appelante en vertu de la Loi après avoir émis la Cotisation; et
+(ii)Le 4 mai 2020, l’Agence a uniquement transmis un relevé de compte à l’appelante pour donner suite à sa demande, faisant état des sommes dues découlant de la Cotisation pour les périodes de déclaration comprises entre le 1er janvier 2010 et le 31 octobre 2011.
+III. Positions des parties A. Selon l’intimé : [14] Selon l’intimé, puisque l’appelante s’est désistée de l’appel de la Cotisation en déposant un avis de désistement le 4 juillet 2019 dans le dossier de la Cour portant le numéro 2016-18(GST)I, le paragraphe 16.2(2) de la Loi sur la CCI doit recevoir application.
+[15] L’article 16.2 de la Loi sur la CCI se lit ainsi :
+16.2(1) La partie qui a engagé une procédure devant la Cour peut en tout temps s’en désister par avis écrit.
+(2) Le désistement équivaut au rejet de la procédure en cause à la date à laquelle la Cour reçoit l’avis de désistement.
+[Mon soulignement.]
+[16] Ainsi, par application du paragraphe 16.2(2) de la Loi sur la CCI, l’appel logé par l’appelante à l’encontre de la Cotisation ayant déjà fait l’objet d’un rejet, l’appelante ne peut en appeler à nouveau à la Cour à l’encontre de la même Cotisation, étant donné qu’un relevé de compte n’est pas une cotisation.
+[17] Selon l’intimé, il y a donc chose jugée concernant la Cotisation, et l’appel doit donc être annulé.
+B. Selon l’appelante : [18] L’appelante n’a pas déposé d’observations écrites comme elle devait le faire en vertu de l’ordonnance de la Cour datée du 5 novembre 2025.
+IV. Analyse [19] Pour les motifs suivants, la requête est accueillie, et l’appel est annulé.
+[20] La preuve a démontré que l’Agence n’a pas établi de nouvelle cotisation après le 9 juin 2014 en vertu de la Loi concernant les mêmes Périodes de déclaration.
+[21] La preuve a également démontré qu’aucune cotisation n’a été établie par l’Agence le 4 mai 2020 puisque seul un relevé de compte faisant état des sommes dues par l’appelante en vertu de la Loi a été transmis par l’Agence à l’appelante à cette date. Un relevé de compte ne constitue pas une nouvelle cotisation puisque le relevé de compte ne résulte pas d’un nouvel examen fait par le ministre de la déclaration soumise par l’appelante et de l’établissement du montant de taxe correspondant.
+[22] Comme le décrivait la Cour d’appel du Québec dans l’affaire Québec (Sous-ministre du Revenu) c. De Stefano, 1993, CanLII 3934 (QC CA), la cotisation est « l’examen de la déclaration fiscale du contribuable et de la fixation de l'impôt correspondant, de l'intérêt et des pénalités, de même que du montant de certains remboursements » (p. 9).
+[23] Dans l’affaire La Reine c. Interior Savings Credit Union, 2007 CAF 151, la Cour d’appel fédérale énonce ce qu’est une cotisation en ce qui concerne la Loi de l’impôt sur le revenu (LRC (1985), ch 1 (5e suppl.)), le même principe s’appliquant en l’espèce :
+[15] En toute déférence, j’estime que le juge de la Cour de l’impôt a commis une erreur en rejetant la requête en annulation de la Couronne. Conformément aux attributions que lui confère le paragraphe 152(1) de la Loi, le ministre « fixe l’impôt pour l’année, ainsi que les intérêts et les pénalités éventuels payables ». Le droit du contribuable de s’opposer à une cotisation (paragraphe 165(1)) et de faire appel devant la Cour canadienne de l’impôt (paragraphe 169(1)) ne peut être exercé que « pour faire annuler ou modifier la cotisation ». Il s’ensuit qu’à moins de contester l’impôt, les intérêts et les pénalités fixés pour l’année, le contribuable ne peut faire appel et il n’existe en fait aucun recours que la Cour de l’impôt puisse consentir (Chagnon c. Norman, (1989) 16 RCS 661, à la page 662).
+[24] La preuve a indiqué que l’examen des déclarations de l’appelante aurait été fait le ou avant le 9 juin 2014 qui est la date de la Cotisation.
+[25] La Cotisation qui est à l’origine de l’état de compte envoyé le 4 mai 2020 ne peut faire l’objet d’un nouvel appel, puisque l’appelante s’est désistée de l’appel de la Cotisation le 4 juillet 2019. En effet, en vertu du paragraphe 16.2(2) de la Loi sur la CCI, le désistement équivaut au rejet de l’appel.
+[26] Dans l’affaire Canada (Procureur Général) c. Scarola, 2003 CAF 157 [Scarola], la Cour d’appel fédérale a déterminé que le rejet prévu au paragraphe 16.2(2) de la Loi sur la CCI était définitif et équivalait à un jugement rejetant l’appel logé par un contribuable :
+[21] Conformément au paragraphe 16.2, un désistement constitue un rejet. L'appel qui est rejeté est un appel sur lequel il a été statué, et l'appel sur lequel il a été statué n'existe plus : voir Lehner c. MRN, 97 D.T.C. 5270, à la page 5271, juge Pratte (C.A.F.). Le paragraphe 16.2(2) fait du dépôt d'un avis de désistement un rejet par interprétation analogue à un véritable rejet. En d'autres termes, le désistement, par suite de cette disposition, acquiert tous les attributs d'un rejet. Il a le même effet qu'un jugement par lequel la Cour rejette l'appel, quoique l'effet soit obtenu par la simple application de la fiction juridique. Dans un cas comme dans l'autre, les pouvoirs de la Cour sont épuisés: le décideur est dessaisi. Un rejet, réputé ou réel, est une décision définitive qui met fin à l'affaire, sauf dans certaines circonstances telles que la fraude ou un pouvoir prévu par la loi autorisant le décideur à conserver ou à acquérir de nouveau le pouvoir perdu.
+[Mon soulignement.]
+[27] Dans l’affaire Scarola, la Cour d’appel fédérale a aussi conclu que la règle prévue à l’article 172 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») permettant à la Cour d’annuler ou de modifier des jugements lorsque les conditions énoncées sont satisfaites est également applicable aux jugements définitifs découlant du paragraphe 16.2(2) de la Loi sur la CCI (Scarola, au par. 26).
+[28] L’article 172 des Règles se lit ainsi :
+172(1) Le jugement qui :
+(a) comporte une erreur découlant d’un lapsus ou d’une omission;
+(b) doit être modifié relativement à une question sur laquelle la Cour n’a pas statué,
+peut être modifié par la Cour, sur demande ou de son propre chef.
+(2) Une partie peut demander, par voie de requête dans l’instance, selon le cas :
+a) l’annulation ou la modification d’un jugement en raison d’une fraude ou de faits survenus ou découverts après qu’il a été rendu;
+b) un sursis d’exécution d’un jugement;
+c) une mesure de redressement différente de celle qui a déjà été accordée.
+[29] En l’espèce, la Cour ne peut conclure en l’existence d’une fraude ou de l’existence de faits survenus ou découverts après le jugement définitif résultant du dépôt de l’avis de désistement par l’appelante le 4 juillet 2019.
+[30] Ainsi, le dépôt de l’avis de désistement par l’appelante le 4 juillet 2019 a fait en sorte que la Cour a été dessaisie de l’appel de la Cotisation. L’appelante ne peut donc loger un deuxième appel à l’encontre de la Cotisation, puisque cet appel a déjà été rejeté.
+[31] Pour ces raisons, la requête est accueillie, sans frais, et l’appel est annulé.
+Signé ce 12e jour de mars 2026.
+« Dominique Lafleur »
+Juge Lafleur
+RÉFÉRENCE :
+2026 CCI 48
+Nº DU DOSSIER DE LA COUR :
+2025-621(GST)I
+INTITULÉ DE LA CAUSE :
+ANGÉLIQUE BOUCHARD c. SA MAJESTÉ LE ROI
+DATE DE DÉPÔT DE LA REQUÊTE :
+Le 13 juin 2025
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Dominique Lafleur
+DATE DU JUGEMENT :
+Le 12 mars 2026
+COMPARUTIONS :
+Pour l’appelante :
+Aucune comparution
+Avocat de l’intimé :
+Me Camille Bugel
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+N/A
+Cabinet :
+N/A
+Pour l’intimé :
+Marie-Josée Hogue
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,166 @@
+---
+title: "Obonsawin v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29427/index.do"
+last_modified: "2009-09-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 485"
+citation2: ""
+neutral_citation: "2009 TCC 485"
+decision_date: "2009-09-18"
+language: "en"
+item_id: "29427"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6979
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:56:41.408000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "dacbe260854c2128cdd4580a2e2744b5c29a06f39f9001eff10d5e097a75c94d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Obonsawin v. The Queen
+
+- Citation: 2009 TCC 485
+- Decision date: 2009-09-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6979, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Obonsawin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-18
+Neutral citation
+2009 TCC 485
+File numbers
+2000-4164(GST)G
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2000-4164(GST)G
+BETWEEN:
+ROGER OBONSAWIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on September 28, 2009 at Toronto, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Counsel for the Appellant:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+Frédéric Morand
+____________________________________________________________________
+ORDER
+Upon hearing the Respondent’s motion to quash the subpoenas served by the Appellant on William Baker, Lyse Ricard, Paul Lynch and Pierre Bertrand, the Motion is granted and these subpoenas are quashed in accordance with the attached reasons.
+Signed at Toronto, Ontario, this 29th day of September 2009.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2009TCC485
+Date: 20090929
+Docket: 2000-4164(GST)G
+BETWEEN:
+ROGER OBONSAWIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Webb, J.
+[1] The Appellant served subpoenas on four senior officials with the Canada Revenue Agency (“CRA”) on Friday September 25, 2009 in relation to the hearing that was scheduled to commence Monday September 28, 2009. The individuals are:
+a. William Baker – Commissioner, CRA
+b. Lyse Ricard - Assistant Commissioner, CRA
+c. Paul Lynch - Director General, Tax and Charities Appeals Directorate, Appeals Branch, CRA
+d. Pierre Bertrand - Director General, Excise and GST/HST Rulings Directorate, Legislative Policy and Regulatory Affairs Branch, CRA
+[2] This appeal was commenced in 2000 and, by Order of Justice Bowie of this Court dated January 27, 2009, was set down for hearing for two weeks commencing September 28, 2009. There were several case management conferences that were held in relation to this Appeal. At no time prior to September 22, 2009, (which is six days before the date scheduled for the commencement of the hearing) did counsel for the Appellant indicate that he would be serving subpoenas on these four individuals.
+[3] On September 22, 2009 counsel for the Appellant wrote to counsel for the Respondent to indicate that he would be requiring the attendance of these four individuals at the hearing. The subpoenas were not, however, served until September 25. The subpoenas were not served at least five days prior to the date that the individuals were required to appear (as required by subsection 141(1.1) of the General Procedure Rules, unless otherwise directed by the Court) as the date set out in the subpoenas for the appearance of the witnesses was September 28, 2009. Therefore the subpoenas could be quashed for that reason; however, I propose to deal with the merits of the subpoenas themselves.
+[4] In Re Zündel 2004 FC 798, 259 F.T.R. 249, Justice Blais of the Federal Court (as he then was) stated as follows:
+Grounds for quashing a subpoena
+5 The case law on subpoenas shows that there are two main considerations which apply to a motion to quash a subpoena: 1) Is there a privilege or other legal rule which applies such that the witness should not be compelled to testify?; (e.g. Samson Indian Nation and Band v. Canada (Minister of Indian Affairs and Northern Development), [2003] F.C.J. No. 1238); 2) Is the evidence from the witnesses subpoenaed relevant and significant in regard to the issues the Court must decide? (e.g. Jaballah (Re), [2001] F.C.J. No. 1748; Merck & Co. v. Apotex Inc., [1998] F.C.J. No. 294)
+…
+7 As to determining whether the evidence to be presented will be useful to the trial judge, courts will be reluctant to prevent parties from calling the evidence the parties feel they need, but courts generally will not allow fishing expeditions. Thus, if one party moves to quash the subpoena, it must show the lack of relevance or significance of the evidence the party that has issued the subpoena intends to produce. Obviously, the judge who decides whether or not to quash the subpoena is not deciding on the weight to be given to such evidence, which is to be determined by the trier of fact (Stevens v. Canada (Attorney General), [2004] F.C.J. No. 98).
+8 In R. v. Harris, [1994] O.J. No. 1875 (Ont. C.A.), the Ontario Court of Appeal ruled that it was not sufficient for the party calling the witness to simply state that the witness might have material evidence; rather, the party had to establish that it was likely that the witness would give material evidence. In that case, the Court weighed the respective affidavits of the parties: on the one hand, the affidavit was that of the secretary of the legal firm that was representing the accused who had subpoenaed Crown counsel, who stated that she had been told that the evidence would be relevant to the alleged good faith of the police officers; on the other, the affidavit of the witness subpoenaed was that he had no material evidence to give. The first affidavit was pure hearsay and highly speculative, and thus the subpoena was quashed.
+9 In Nelson v. Canada (Minister of Customs and Revenue Agency), [2001] F.C.J. No. 1220, Mr. Nelson sought to subpoena a number of ministers, including the Prime Minister, in his action against the Minister of the Customs and Revenue Agency. The motion was dismissed because there was no evidence from the supporting material that any of these persons had been in any way involved in the events giving rise to the action.
+10 Thus the criterion is one of relevance and materiality of the evidence to be provided by the prospective witness.
+(emphasis added)
+[5] In Laboratoires Servier v. Apotex Inc. 2008 FC 321, 66 C.P.R. (4th) 406, Justice Snider of the Federal Court stated that:
+20. Other jurisprudence reinforces the notion that a subpoena must not be a fishing expedition.
+[6] Following the serving of the subpoenas, the Respondent conducted a search of all documents related to these individuals, this Appeal and other litigation relating to the Appellant. For three of the individuals (Lyse Ricard, Paul Lynch and Pierre Bertrand) their involvement was minimal, if any, and Lyse Ricard did not join the CRA until May 22, 2007. Counsel for the Appellant acknowledged that the subpoenas for these three individuals should not have been served. This seems to me to clearly suggest that this was a fishing expedition. These subpoenas are quashed.
+[7] With respect to the subpoena for William Baker, the position of the Appellant is that his testimony would be relevant in relation to two issues. The first issue is the argument that is raised in the Amended Amended Notice of Appeal that the Respondent owes fiduciary duties to aboriginal peoples, and that this duty should influence the interpretation or application of the relevant statutes. Counsel for the Appellant argued that the duty should be viewed as an interpretive tool in applying statutes. It seems to me that if such a duty does exist in this case, since the argument is that it should be used to interpret the relevant statutes, then it is a question of law and not a question of fact. It seems to me that there are two legal questions raised by this issue – does the duty exist in this case and how should it influence the interpretation or application of the Excise Tax Act and the Indian Act?
+[8] Witnesses are called to testimony with respect to facts. There do not appear to be any facts to which William Baker could testify that would be relevant in relation to the legal questions of whether a fiduciary duty exists in this situation and, if so, how that duty should influence the interpretation or application of the relevant statutes.
+[9] The other argument raised by counsel for the Appellant was that William Baker’s testimony would be relevant to the background related to the reassessment of the Appellant and the argument of the Appellant that is made in paragraph 29 of the Amended Amended Notice of Appeal. This paragraph provides as follows:
+29. The Appellant maintains that the Respondent was provided access to all documents and information necessary to perform an accurate audit of his business activities to determine the amount of his alleged liability for the remittance of GST. Instead, the Respondent made a notional assessment of the GST payable based upon assumptions and projections concerning the Appellant’s business activities. The Respondent had no authority under the Excise Tax Act to perform a notional assessment based upon assumptions concerning the Appellant’s business activities. It failed to meet even a minimum standard of reliability and the assessment out [sic] to be set aside.
+[10] The first sentence describes the Appellant’s position that “the Respondent was provided access to all documents and information necessary to perform an accurate audit of his business activities to determine the amount of his alleged liability for the remittance of GST”. The facts related to this statement relate to the access that was provided to the Respondent. The Respondent, in Exhibit 7 attached to the affidavit filed in support of the motion to quash the subpoenas, provides a detailed history of the discussions and correspondence between the Appellant and representatives of the CRA. Counsel for the Appellant did not question or challenge the accuracy of that history. There is no reference in this Exhibit to any discussions that took place directly between the Appellant and William Baker nor is there any reference to any correspondence between the Appellant and William Baker. There does not appear to be any basis to suggest that William Baker would be able to provide any testimony on the access to documents and information that was provided to the Respondent other than any information that William Baker may have acquired as a result of hearsay.
+[11] The next sentence relates the fact that the Respondent made a notional assessment of GST payable based on assumptions and projections concerning the Appellant’s business activities. The reference to the notional assessment is in paragraph 20 of the Amended Amended Notice of Appeal which states that:
+The Respondent issued a notional assessment against the Appellant’s business on June 30, 1998 in the amount of $4,553,076.56 for the period February 1, 1993 to December 31, 1996, followed by a further GST assessment t [sic] the Appellant in the amount of $7,252,840.65 [collectively the “GST Assessment”].
+[12] In paragraph 14 of the Reply to the Twice Amended Notice of Appeal it is stated that:
+He admits the Respondent issued notional assessments to the Appellant but otherwise denies paragraph 20 of the Amended Amended Notice of Appeal. Because the Appellant had not filed GST returns and had not provided access to his books and records for GST audit purposes the Minister issued two notional assessments. The Minister issued a first notional assessment on May 12, 1995 in the amount of $1,079,379.26 for the period February 1, 1991 to January 31, 1993. The Minister issued an additional notional assessment on August 20, 1998 in amount of $4,622,042.43 for the period February 1, 1993 to December 31, 1996.
+[13] In paragraphs 16, 17 and 20 of this Reply the Respondent sets out the basis for the calculation of the GST amount and states that the first notional assessment was based on the Appellant’s gross business income reported by the Appellant in his 1992 and 1993 personal tax returns. The GST amount was determined by multiplying the estimate of quarterly fees (gross business income divided by four) by 7%.
+[14] The second notional assessment was determined based on the T4 summaries filed by the Appellant as an employer for 1993 – 1996. The T4 summary amounts were grossed up by a profit margin of 5% and then the GST amount was calculated as 7% of this grossed-up amount.
+[15] There was no indication that William Baker was involved in any of these calculations and therefore there does not appear to be any factual evidence that he would have that would relate to the determination of the notional assessments.
+[16] The next sentence in paragraph 29 of the Amended Amended Notice of Appeal relates to the Appellant’s legal argument that the Respondent did not have the authority under the Excise Tax Act to perform a notional assessment based on the assumptions that were made. This is a legal argument and the testimony of William Baker would not be relevant in relation to the legal argument.
+[17] The final sentence in this paragraph relates to the minimum standard of reliability and counsel for the Appellant acknowledged that, taken in isolation, William Baker would not have any relevant testimony in relation to this issue.
+[18] Counsel for the Appellant argued that the paragraph should be read as a whole and not sentence by sentence. However it does not seem to me that reading the paragraph as a whole I am able to reach any different conclusion with respect to the relevance of William Baker’s testimony. William Baker was briefed on various issues and in turn he briefed others. There is nothing to suggest that he would have any relevant testimony with respect to the calculation of the GST liability or the basis for the calculation.
+[19] The Federal Court of Appeal in Main Rehabilitation Co. v. R. (2004 FCA 403) (leave to appeal to the Supreme Court of Canada was dismissed (343 N.R. 196 (note))), made the following comments:
+6 In any event, it is also plain and obvious that the Tax Court does not have the jurisdiction to set aside an assessment on the basis of an abuse of process at common law or in breach of section 7 of the Charter.
+7 As the Tax Court Judge properly notes in her reasons, although the Tax Court has authority to stay proceedings that are an abuse of its own process (see for instance Yacyshyn v. R. (1999), 99 D.T.C. 5133 (Fed. C.A.) ), Courts have consistently held that the actions of the CCRA cannot be taken into account in an appeal against assessments.
+8 This is because what is in issue in an appeal pursuant to section 169 is the validity of the assessment and not the process by which it is established (see for instance the Consumers' Gas Co. v. R. (1986), 87 D.T.C. 5008 (Fed. C.A.) at p. 5012). Put another way, the question is not whether the CCRA officials exercised their powers properly, but whether the amounts assessed can be shown to be properly owing under the Act (Ludco Enterprises Ltd./Entreprises Ludco Ltée v. R. (1994), [1996] 3 C.T.C. 74 (Fed. C.A.) at p. 84).
+(emphasis added)
+[20] It seems to me that these comments are equally applicable to an assessment issued under the Excise Tax Act. Under the Excise Tax Act a person appeals to this Court under either section 302 or 306 of the Excise Tax Act in relation to an assessment and, as provided in section 309 of the Excise Tax Act, this Court is limited to dismissing the appeal from the assessment or allowing such appeal and vacating the assessment or referring the assessment back to the Minister for reconsideration and reassessment.
+[21] The issue before me in an appeal is whether the amounts that were assessed under the Excise Tax Act are the amounts that are properly owing under that statute. It appears that William Baker’s role was simply to pass on information to senior government officials. He was not directly involved in determining the amount of GST that was assessed.
+[22] In R. v. Harris (1994), 74 O.A.C. 398, 93 C.C.C. (3d) 478 the Ontario Court of Appeal stated that
+5. In our view it is not sufficient to sustain the subpoena that the witness “may have” evidence material to the case. The burden was on the respondent to establish that Murphy was likely, or to it put another way, would probably have evidence material to the issues raised.
+[23] In this particular case there is nothing to indicate that William Baker would have any evidence that would be directly relevant to the issues that have been raised. The first issue, as noted above, relates to the legal questions of whether the Respondent owed a fiduciary duty to aboriginal peoples that would be applicable in this case and, if so, how that fiduciary duty should have influenced the interpretation or application of the Indian Act and the Excise Tax Act. These are questions of law not fact.
+[24] The second issue raised by counsel for the Appellant related to the notional assessments. There is no indication that William Baker ever met or corresponded directly with the Appellant or that he was involved in determining the amount of GST that was assessed. The issue in the GST appeal is the validity of the assessment, not the process by which the assessment was issued. The relevance of the process could relate to the accuracy of the amount assessed but there is nothing to indicate that William Baker would or could provide any assistance in relation to the accuracy of the amount assessed. There does not appear to be any factual evidence that William Baker is likely or would probably have in relation to this issue.
+[25] There is also an additional issue in relation to this subpoena. All of the subpoenas require the individual to bring documents with them. The description of the documents in the subpoena for William Baker is “Documents relating to Roger Obonsawin C.O.B. Native Leasing Services, dated 1991 – 2000”. The description in the other subpoenas of the documents that the other individuals were to bring is similarly very general and covers the same 10 year period. As noted above, the subpoenas served on the other three individuals were part of a fishing expedition. The same general description of documents for a 10 year period in the subpoena for William Baker suggests that the subpoena issued to William Baker was also part of a fishing expedition.
+[26] The Respondent’s motion is granted and the subpoenas served on William Baker, Lyse Ricard, Paul Lynch and Pierre Bertrand on September 25, 2009 are quashed.
+[27] I will reserve my decision on costs until I have submissions from counsel for the Respondent and counsel for the Appellant on costs.
+Signed at Toronto, Ontario, this 29th day of September 2009.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2009TCC485
+COURT FILE NO.: 2000-4164(GST)G
+STYLE OF CAUSE: ROGER OBONSAWIN
+AND THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: September 28, 2009
+REASONS FOR ORDER BY: The Honourable Justice Wyman W. Webb
+DATE OF ORDER: September 29, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Eric Lay
+Counsel for the Respondent:
+Gordon Bourgard
+Frédéric Morand
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Eric Lay
+Firm: Eric Lay Law
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

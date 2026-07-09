@@ -1,0 +1,150 @@
+---
+title: "Lotfi c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27523/index.do"
+last_modified: "2005-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 270"
+citation2: ""
+neutral_citation: "2005 CCI 270"
+decision_date: "2005-05-05"
+language: "fr"
+item_id: "27523"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 18
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:56:44.994000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "22809f2e40f3296d7e7d0c9f13185691e9bf78883ea44d064fefedebadc0eac2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lotfi c. M.R.N.
+
+- Citation: 2005 CCI 270
+- Decision date: 2005-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 18, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lotfi c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-05
+Référence neutre
+2005 CCI 270
+Numéro de dossier
+2004-2679(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2004-2679(EI)
+ENTRE :
+TEBESSI LOTFI,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 25 février 2005, à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Marie-Claude Landry
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 5e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2005CCI270
+Date : 20050505
+Dossier : 2004-2679(EI)
+ENTRE :
+TEBESSI LOTFI,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Montréal (Québec), le 25 février 2005.
+[2] Il s’agit d’un appel portant sur l’assurabilité de l’emploi de l’appelant lorsqu’au service de 9133-3393 Québec Inc., le payeur, du 1er novembre au 23 décembre 2003.
+[3] Par lettre datée du 8 juin 2004, le ministre du Revenu national (le « Ministre ») a informé l’appelant de sa décision selon laquelle celui-ci n’occupait pas un emploi assurable pendant la période en litige.
+[4] En rendant sa décision, le Ministre s’est appuyé sur les faits présumés suivants :
+a) le payeur exploitait une pizzeria; (admis)
+b) M. Huseyin Ay était le seul actionnaire du payeur; (admis)
+c) le payeur possédait 7 tables à l’intérieur et embauchait généralement 5 personnes; (à parfaire)
+d) durant la période en litige, le travailleur a rendu des services au payeur comme livreur de pizzas; (admis)
+e) le travailleur prétend avoir rendu des services au payeur durant 2 mois alors que, dans les faits, l’appelant n’a travaillé que durant 2 ou 3 jours; (nié)
+f) le travailleur recevait une rémunération de 6,00 $ de l’heure; (admis)
+g) le travailleur devait fournir son automobile pour effectuer les livraisons du payeur; (admis)
+h) l’appelant devait assumer toutes les dépenses reliées à l’utilisation de son automobile dans le cadre de son travail; (admis)
+i) l’appelant n’avait droit à aucun congé de vacances et n’était pas rémunéré en cas de maladie; (admis)
+[5] L’appelant soutient qu’il a travaillé pour le payeur du 1er novembre au 23 décembre 2003 dans la cuisine, comme serveur et livreur. Dans son témoignage à l’audition, il a affirmé avoir travaillé six jours par semaine, parfois jusqu’à 20 h ou 22 h. Par ailleurs, il a affirmé que le payeur le rémunérait en argent comptant, jamais par chèque. Selon lui, il était payé 6 $ l’heure et recevait aussi des pourboires.
+[6] L’agent d’assurabilité, Claude Gilbert, a témoigné à l’audition et son rapport a été produit sous la cote I-2. Son témoignage et son rapport expriment ses motifs pour lesquels l’emploi de l’appelant n’était pas assurable. Il a été établi par ce témoignage et ce rapport que le payeur a été incapable de préciser les jours de travail de l’appelant, mais a tout de même précisé que celui-ci n’aurait travaillé que quelques jours à faire des livraisons et qu’il a été congédié parce que son rendement n’était pas satisfaisant.
+[7] Au cours de son enquête, l’agent d’assurabilité a appris de l’appelant que le commerce employait le patron, dont il ignorait le prénom, un certain M. Huseyin, un cuisinier, une serveuse et deux livreurs. Selon l’appelant, tous les employés étaient payés en argent comptant. L’appelant faisait des livraisons et pour faire ce travail, il utilisait son automobile et en assumait tous les frais. L’appelant a rapporté à l’agent d’assurabilité qu’il insistait auprès du payeur pour que celui-ci prélève toutes les déductions sur son salaire mais sans succès, ce qui l'a amené à quitter son emploi et à déposer une plainte auprès de M. Réal Barbeau des enquêtes spéciales. Toutefois, personne des enquêtes spéciales n’a donné suite à cette plainte.
+[8] L’agent d’assurabilité s’est entretenu avec Huseyin Ay le 9 février 2004. Celui-ci lui a appris que Huseyin Ay était le seul actionnaire du payeur. Huseyin Ay a, par ailleurs, affirmé qu’il n’avait pas opéré le restaurant pendant quelques mois. Il a ajouté qu’il s’occupait seul à faire la cuisine et à servir les clients. Il n’avait besoin que d’un employé, soit un livreur. Il a confirmé que l’appelant avait travaillé pour lui mais pour deux ou trois jours seulement en novembre ou en décembre 2003. Il a, en outre, précisé que lorsque le patron lui donnait une commande à livrer, il lui arrivait de refuser de le faire parce qu’il considérait la distance trop longue. Aussi, on a reproché à l’appelant de s’absenter cinq fois par jour pour aller prier et d’importuner les clients avec sa propagande religieuse. C’est alors qu’il aurait mis l’appelant à pied en lui disant de partir car il avait besoin de quelqu’un qui voulait travailler. Il a confirmé avoir payé l’appelant en argent comptant mais n’avait aucun souvenir des montants versés ou de ses journées de travail mais a par ailleurs précisé que, selon lui, l’appelant n’avait pas travaillé plus de deux ou trois jours.
+[9] L’agent d’assurabilité affirme dans son rapport, produit à l’audition sous la cote I-2, que son agence s’est vue dans l’impossibilité d’établir l’existence d’un véritable emploi parce que d’une part l’appelant leur avait déclaré qu’il avait travaillé pendant près de deux mois et qu’il avait été rémunéré en argent comptant alors que le propriétaire de l’entreprise affirme qu’il n’a travaillé que pendant deux ou trois jours. D’autre part, l’appelant a été incapable de faire la preuve qu’il avait travaillé et quelle avait été la durée de son emploi.
+[10] Dans son témoignage, l’appelant affirme qu’il a travaillé pendant deux mois pour le payeur à raison de 50 heures par semaine au taux horaire de 6 $ et que ses pourboires lui rapportaient 4 $ additionnels pour un salaire total de 10 $ l’heure. L’appelant a ainsi évalué son revenu total pour la période à 4 000 $, ce qui représente 200 heures à 10 $ l’heure. Cependant ni l’appelant, ni le payeur n’ont fourni de preuve à l’appui de cette affirmation.
+[11] L’appelant a admis l’alinéa 5d) de la Réponse à l’avis d’appel qui énonce que l’appelant a rendu des services au payeur comme livreur de pizzas. Ce fait a été confirmé à l’agent d’assurabilité par le propriétaire du payeur, Huseyin Ay, mais celui-ci a nié que l’appelant avait travaillé plus de deux ou trois jours.
+[12] Dans sa déclaration de revenu pour l’année 2003, l’appelant a rapporté un revenu total de 9 334,86 $. Ce revenu lui a été versé de cinq sources différentes, soit :
+1. Club de lutte Inter-Concordia : 885,60 $;
+2. Gestion de personnel de manufacture (G.P.M.) Inc. : 3 087,00 $;
+3. Boucherie & épicerie La Casban enr. : 1 976,00 $;
+4. Gestion Ali Younes : 757,31 $;
+5. Revenu d'un travail indépendant : 2 628,95 $.
+[13] Il conviendra de noter que rien dans sa déclaration de revenu ne supporte son emploi auprès du payeur ni le salaire qu’il en a tiré.
+[14] La preuve a révélé que l’emploi de l’appelant n’a duré que quelques jours, deux ou trois, selon l’information fournie par le payeur. La courte durée de cet emploi a pour effet de l’exclure des emplois assurables en vertu du sous‑alinéa 8(1)a)(ii) du Règlement sur l’assurance-emploi que je reproduis ci‑dessous :
+8.(1) Sous réserve des paragraphes (2) à (4), sont exclus des emplois assurables les emplois suivants :
+a) l’emploi exercé par une personne, autrement qu’à titre d’artiste du spectacle, dans le cadre d’un cirque, d’une foire, d’un défilé, d’un carnaval, d’une exposition ou d’une activité semblable, si :
+[…]
+(ii) d’autre part, elle exerce cet emploi au service de cet employeur pendant mois de 7 jours par année.
+[…]
+[15] Cette Cour doit donc conclure que l’emploi de l’appelant était exclu des emplois assurables. Cependant, le Ministre a jugé que l’emploi de l’appelant n’était pas assurable parce que celui-ci rendait des services au payeur en vertu d’un contrat d’entreprise et non en vertu d’un contrat de louage de services. Cette Cour est d’avis que les circonstances, en l’espèce, viennent appuyer cette détermination du Ministre puisque l’examen des faits à la lumière des critères établis dans l’arrêt Wiebe Door Services Limited c. M.R.N., [1986] 3 C.F. 553 (C.A.F.) supporte cette conclusion.
+[16] En conséquence, l’appel est rejeté et la décision rendue par le Ministre est confirmée pour les motifs énoncés ci-haut.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 5e jour de mai 2005.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2005CCI270
+Nº DU DOSSIER DE LA COUR : 2004-2679(EI)
+INTITULÉ DE LA CAUSE : Tebessi Lotfi et M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 25 février 2005
+MOTIFS DE JUGEMENT PAR : L'honorable S.J. Savoie, juge suppléant
+DATE DU JUGEMENT : le 5 mai 2005
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Marie-Claude Landry
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Étude :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Ontario

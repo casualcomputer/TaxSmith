@@ -1,0 +1,121 @@
+Title: Demerais c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30106/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-628-30106-demerais-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-12-06
+
+# Demerais c. La Reine
+
+- Citation: 2010 CCI 628
+- Decision date: 2010-12-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7642, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Demerais c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-12-06
+Référence neutre
+2010 CCI 628
+Numéro de dossier
+2010-1566(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2010-1566(IT)I
+ENTRE :
+LAURA L. DEMERAIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 1er décembre 2010 à Saskatoon (Saskatchewan).
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Pour l’intimée :
+Mme Sarah Bird (stagiaire en droit)
+Me Brooke Sittler
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci‑joints, les appels interjetés contre la détermination du ministre du Revenu national pour les années de base 2006 et 2007 de l’appelante sont rejetés.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 20e jour de janvier 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+Référence : 2010 CCI 628
+Date : 20101206
+Dossier : 2010-1566(IT)I
+ENTRE :
+LAURA L. DEMERAIS,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante Laura Demerais interjette appel de la décision du ministre du Revenu national (le « ministre ») selon laquelle elle n’avait pas droit à la prestation fiscale canadienne pour enfants (la « PFCE ») ou au crédit pour taxe sur les produits et services (le « CTPS ») pour les années de base 2006 et 2007 (de juin à octobre 2007, ci‑après désignée la « période »). La décision du ministre était fondée sur le fait que pendant la période, les trois enfants de l’appelante ne « résidaient » pas avec elle, ce qui ne satisfait donc pas à une exigence d’admissibilité à la PFCE et au CTPS prévue aux articles 122.5 et 122.6 de la Loi de l’impôt sur le revenu (la « Loi »), respectivement.
+[2] L’appelante s’est représentée elle-même et a témoigné à l’audience; elle a aussi appelé comme témoin son nouveau compagnon, James Nelson.
+[3] L’intimée a signifié un subpoena à l’ex‑époux de l’appelante, Daryl Demerais, afin que ce dernier témoigne pour le compte de la Couronne.
+[4] Il ressort clairement de la preuve que l’échec du mariage des Desmarais fut acrimonieux[1]. Après avoir orchestré leurs campagnes respectives l’un contre l’autre dans les postes de police et dans les salles d’audience, l’appelante et son ex‑époux étaient devenus, au moment de la présente audience, assez habiles à se peindre chacun comme la victime innocente de l’autre. Leurs batailles conjugales les avaient tellement retranchés derrière leurs positions respectives qu’il fut difficile d’accorder beaucoup de poids à leur témoignage.
+[5] Les faits essentiels sont les suivants : il n’est pas contesté que jusqu’au 15 juin 2007, l’appelante, M. Demerais et leurs enfants vivaient dans la maison familiale (la « maison familiale ») située au 118, Short Place à Saskatoon. Ce jour-là, par suite d’une plainte déposée par M. Demerais, l’appelante a été arrêtée et accusée d’avoir proféré des menaces contre M. Demerais. (L’appelante avait déjà déposé, par le passé, une plainte de harcèlement criminel[2] contre M. Demerais.) De toute façon, l’appelante avait signé une promesse[3] au juge de paix, laquelle avait pour effet d’empêcher l’appelante de retourner vivre dans la maison familiale. L’appelante avait donc passé les deux dernières semaines du mois de juin 2007 à l’appartement de M. Nelson. Bien que j’accepte le fait que pendant cette période, les enfants allaient et venaient librement entre la maison familiale et l’appartement de M. Nelson et que l’appelante avait continué à prendre part aux soins quotidiens des enfants, je ne suis pas convaincue que les enfants aient jamais « vécu » avec l’appelante dans l’appartement de M. Nelson. La preuve présentée par l’appelante était que l’appartement de M. Nelson était en fait un studio; la convention de bail de M. Nelson ne l’autorisait pas à loger plus d’un visiteur dans l’appartement. Dans ces conditions, il est difficile de concevoir comment les trois enfants, qui allaient toujours à l’école proche de la maison familiale, auraient pu être logés dans cet appartement.
+[6] Aussitôt l’année scolaire finie, l’appelante avait emmené les enfants séjourner avec les parents de M. Nelson dans le chalet de ces derniers situé à Dore Lake. Toutefois, j’accepte la preuve de M. Demerais selon laquelle au moins un des enfants était à la maison familiale de temps en temps pendant le mois de juillet. Au milieu du mois d’août, l’appelante et M. Nelson avaient emmené les enfants, sans le consentement de M. Demerais, rendre visite aux parents de l’appelante dans le Minnesota.
+[7] Ils étaient tous de retour à Saskatoon le 29 août 2007 juste avant la rentrée scolaire. Étant donné qu’elle n’avait nulle part où aller, l’appelante s’était installée au Motel 6 où elle et M. Nelson étaient restés jusqu’au 13 octobre 2007, date à laquelle, conformément à une ordonnance provisoire de la Cour du Banc de la Reine datée du 26 septembre 2007[4] (« Nesting Order ») (l’« ordonnance de résidence »), elle était autorisée à retourner à la maison familiale sous certaines conditions. Nous reviendrons sur ce point ci‑dessous. Bien que je n’aie aucune raison de mettre en doute le fait que les enfants (et en toute vraisemblance leurs amis) se rendaient souvent au motel, je ne crois pas qu’ils vivaient là. Il n’y avait pas de reçus qui justifiaient le séjour des enfants au motel ou le nombre de chambres louées. Par contre, M. Demerais était resté dans la maison familiale où, selon la preuve non contestée qu’il a présentée, les enfants avaient leurs propres chambres et où leur frère aîné les gardait jusqu’à ce que M. Demerais rentre du travail. Pendant toute la période, M. Demerais avait continué à rembourser le crédit hypothécaire et à payer toutes les factures de services publics relativement à la maison familiale. L’école des enfants était proche de la maison familiale. Dans les circonstances, il me semble très peu probable que les enfants aient résidé au Motel 6 pendant les six semaines suivant leur rentrée scolaire en septembre 2007. De même, lorsqu’ils étaient en vacances avec leur mère en juillet et en août, les enfants étaient simplement absents de leur résidence; ils passaient des vacances à différents endroits avec leur mère, mais ils ne résidaient pas avec elle[5].
+[8] La conclusion selon laquelle les enfants résidaient dans la maison familiale pendant la période était également appuyée par les termes de l’ordonnance de résidence qui avait réglé les questions portant sur la garde provisoire, le droit de visite, la pension alimentaire pour enfants et la pension alimentaire au profit d’un époux de la manière suivante :
+[traduction]
+3. les enfants […] demeureront dans la maison familiale et continueront à fréquenter l’école qu’ils fréquentent actuellement, mais que l’[appelante] et [M. Demerais], lors de l’exercice de la garde partagée et à l’occasion du partage du rôle parental, occuperont la maison familiale pour des mois consécutifs de la manière établie ci‑après, et verront aux soins quotidiens des enfants pendant cette période du mois d’occupation de la maison familiale.
+[…]
+5. [M. Demerais] aura la possession de la maison familiale et verra aux soins quotidiens des enfants jusqu’au samedi 13 octobre 2007 à midi, heure à laquelle il quittera les lieux jusqu’au samedi 17 novembre 2007 à midi.
+6. L’[appelante], en retour, prendra possession de la maison familiale et verra aux soins quotidiens des enfants du 13 octobre 2007 à midi jusqu’au samedi 17 novembre 2007 à midi.
+7. Ladite rotation continuera d’un mois à l’autre par la suite.
+[…]
+[Non souligné dans l’original.]
+[9] En ordonnant que les enfants « demeureront » dans la maison familiale, le juge de tribunal de la famille avait manifestement tenu compte du fait que les enfants résidaient dans cette maison pendant la période. L’appelante, en revanche, n’avait pas eu le droit d’être dans la maison familiale du mois de juin jusqu’au 13 octobre 2007 en raison de sa promesse au juge de paix. Même après cette période, l’appelante n’avait obtenu, en vertu de l’ordonnance de résidence, qu’un droit limité à l’occupation de la maison familiale dans le but de se conformer à la rotation liée aux dispositions de garde.
+[10] Dans tous les cas, l’appelante n’a pas réussi à réfuter l’hypothèse du ministre selon laquelle l’appelante ne résidait pas avec ses enfants pendant la période. Comme il n’a pas été satisfait à la première exigence de l’article 122.6 de la Loi, il n’est pas nécessaire que je décide si l’appelante était la personne qui assumait principalement la responsabilité pour le soin et l’éducation des enfants. Étant donné que la Cour n’a pas de motifs pour modifier la décision du ministre concernant le droit de l’appelante à la PFCE ou au CTPS, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de décembre 2010.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 20e jour de janvier 2011.
+Espérance Mabushi, M.A.Trad. Jur.
+RÉFÉRENCE : 2010 CCI 628
+NO DU DOSSIER DE LA COUR : 2010-1566(IT)I
+INTITULÉ : LAURA L. DEMERAIS
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Saskatoon (Saskatchewan)
+DATE DE L’AUDIENCE : Le 1er décembre 2010
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 6 décembre 2010
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Pour l’intimée :
+Mme Sarah Bird (stagiaire en droit)
+Me Brooke Sittler
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Demerais v. Demerais, 2010 SKQB 149; Pièce A-9; recueil de jurisprudence et de doctrine de l’intimée, onglet 4.
+[2] Pièce A-1.
+[3] Pièce R-1.
+[4] Pièce R-2.
+[5] R.(S .) v. R., [2004] 1 C.T.C. 2386. (C.C.I.).; Burton v. R., [2000] 1 C.T.C. 2727. (C.C.I.).

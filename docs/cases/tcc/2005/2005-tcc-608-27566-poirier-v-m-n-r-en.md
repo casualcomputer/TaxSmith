@@ -1,0 +1,218 @@
+---
+title: "Poirier v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27566/index.do"
+last_modified: "2005-10-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 608"
+citation2: ""
+neutral_citation: "2005 TCC 608"
+decision_date: "2005-10-04"
+language: "en"
+item_id: "27566"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 94
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T20:16:38.925000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1623a443727c409c4659347ae2fe0f04cf4b0ffb903f52e42906d69a5fedbf9c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Poirier v. M.N.R.
+
+- Citation: 2005 TCC 608
+- Decision date: 2005-10-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 94, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Poirier v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-10-04
+Neutral citation
+2005 TCC 608
+File numbers
+2004-3025(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2004-3025(EI)
+BETWEEN:
+MARC-ANDRÉ POIRIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 28, 2005, at Québec, Quebec
+Before: The Honourable Deputy Justice S.J. Savoie
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Julie David
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister's decision is affirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 4th day of October 2005.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 31st day of January 2006
+Aveta Graham, Translator
+Citation: 2005TCC608
+Date: 20051004
+Docket: 2004-3025(EI)
+BETWEEN:
+MARC-ANDRÉ POIRIER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] This appeal was heard at Québec, Quebec, on July 28, 2005.
+[2] This appeal deals with the insurability of the Appellant's employment while working for Location d'outils St-Émile Inc., the Payor, from March 10, 1997, to January 9, 1998, from March 30 to October 30, 1998, from April 26 to November 19, 1999, from April 17 to November 24, 2000, and from April 23, 2001, to December 20, 2002.
+[3] On June 23, 2004, the Minister of National Revenue (the "Minister") informed the Appellant of his decision that the Appellant was not employed under a contract of service based on the following assumptions of fact:
+[translation]
+(a) the Payor was incorporated on May 27, 1993; (admitted)
+(b) the Payor operated a business renting and repairing small power tools; (admitted)
+(c) Mario Poirier is the Payor's sole shareholder; (admitted)
+(d) the Appellant is Mario Poirier's brother; (admitted)
+(e) the Appellant and the Payor did not respond to the requests for information from the Respondent's agent; (denied)
+(f) the Appellant had been hired as a clerk and mechanic; (admitted)
+(g) the Appellant's duties consisted in serving customers and repairing tools; (admitted)
+(h) the Appellant worked for the Payor year round; (denied)
+(i) the Payor did not record the Appellant's hours of work; (denied)
+(j) during the periods at issue, the Appellant's wages were recorded in the Payor's payroll; (admitted)
+(k) during the periods at issue, the Payor paid the Appellant gross wages from $13.80 to $14.75; (admitted)
+(l) during the periods at issue, the Appellant was paid for 40 hours per week; (admitted)
+(m) on November 11, 1998, the Payor gave the Appellant a record of employment which indicated that the first day of work was March 10, 1997, and the last day of work was January 9, 1998, and which showed 1760 insurable hours and total insurable earnings of $24,420; (admitted)
+(n) on October 31, 1998, the Payor gave the Appellant a record of employment which indicated that the first day of work was March 30, 1998, and the last day of work was October 30, 1998, and which showed 1240 insurable hours and total insurable earnings of $17,515; (admitted)
+(o) on November 20, 1999, the Payor gave the Appellant a record of employment which indicated that the first day of work was April 26, 1999, and the last day of work was November 19, 1999, and which showed 1200 insurable hours and total insurable earnings of $16,950; (admitted)
+(p) on November 25, 2000, the Payor gave the Appellant a record of employment which indicated that the first day of work was April 17, 2000, and the last day of work was November 24, 2000, and which showed 1280 insurable hours and total insurable earnings of $15,930; (admitted)
+(q) on December 20, 2002, the Payor gave the Appellant a record of employment which indicated that the first day of work was April 23, 2001, and the last day of work was December 20, 2002, and which showed 2120 insurable hours and total insurable earnings of $31,800; (admitted)
+(r) after those alleged lay-offs, the Appellant continued to perform services for the Payor from four to five times a week without any declared earnings; (denied)
+(s) on December 1, 2003, in a statutory declaration signed at HRDC, Mario Poirier declared that [translation] "the records of employment . . . do not reflect the reality of the situation in terms of the periods worked by Marc-André Poirier, they only reflect the period where he was an employee"; (admitted)
+(t) on December 1, 2003, in a statutory declaration signed at HRDC, Mario Poirier also declared that [translation] "it was agreed that when he was being paid for his full-time work, I would pay him more than I would normally pay another employee to compensate for his unpaid work"; (admitted)
+(u) on November 19, 2003, in a statutory declaration signed at HRDC, the Appellant stated that [translation ] "If I had refused to work for my brother without pay during my periods of unemployment, he would not have had the means to continue operating his business"; (admitted)
+(v) the records of employment do not reflect the reality of the situation in terms of either the periods or hours worked; (denied)
+(w) the Payor and the Appellant agreed to an arrangement to enable the Appellant to qualify for unemployment insurance benefits while continuing to work for the Payor. (denied)
+[4] It would be useful to reproduce a few relevant excerpts from the statutory declarations of the Appellant and his brother, the sole shareholder of the Payor. These declarations were submitted at the hearing as Exhibits I-1 and I-3.
+1. Excerpt from the statutory declaration of Appellant Marc-André Poirier (Exhibit I-1):
+[translation]
+. . . It was Mario who decided my work periods, during certain periods I worked full-time and was paid on that basis and during other quieter periods, he told me that he was going to lay me off because he no longer had the means to pay me. He and I then had an understanding that if he needed help he would call me and I would go while I was receiving benefits, but he could not pay me. When I worked during my benefit periods, I worked three days a week on average for four to five hours a day on average. . . . If I had refused to work for my brother without pay during my periods of unemployment, he would not have had the means to continue operating his business. . . . As for the records of employment from Location d'outils St-Émile Inc. since 1997, they only reflected the periods where I received wages not those where I worked without pay. With respect to my returns, I did not declare this unpaid work. . . I reviewed the tool rental invoices and confirm that when it is signed "Marc Poirier" it is indeed my signature and that I was at work. As to the tool repair invoices, they did not need to be signed. . . as to the tool repairs, Mario and I shared that work equally.
+. . .
+I want to add that when I was paid, I received higher wages than I would have been entitled to. This was to compensate for my unpaid work while I was unemployed.
+2. Excerpt from the statutory declaration of Mario Poirier (Exhibit I-3):
+[translation]
+. . . In general, he worked full time in the spring (April or May) until about October every year. The rest of the time was quieter so I did the work myself when I could (I worked outside of the business) and I asked Marc-André to come and do the hours that I could not do. I did not have the means to pay him during the quiet periods so he worked without pay. He came about three to four days per week for about five hours on average on the days he came. We agreed that when I was paying him for his full-time work, I would pay more than I would normally pay another employee to compensate him for his unpaid work. . . . As to the records of employment issued to Marc-André Poirier since 1997, I take responsibility for them even though they were signed by Line Breton (my ex-wife). I am aware that the records of employment, namely #A63556692, #A63556693, #A68027690, #68027691 and #A72216136 do not reflect the reality of the situation with respect to the periods worked by Marc-André Poirier, they only reflect the period where he was an employee.
+I want to point out that my brother and I came to this arrangement in order to be able to continue operating the business, otherwise I would have had to close the doors long ago.
+A stranger would certainly have refused to work under such conditions. . . .
+[5] The Appellant's testimony only confirmed the Minister's assumptions of fact.
+[6] The table prepared by Pierre Savoie (Exhibit I-2), an investigator at Human Resources Development Canada, established that the Appellant went to work regularly even during his benefit period.
+[7] The Appellant had the burden of proving the falsity of the Minister's assumptions of fact. He did not do so. On the contrary, the Appellant's evidence, which was made up of his testimony, his statutory declaration and that of his brother Mario, the Payor's sole shareholder, only succeeded in confirming the Minister's conclusion that the Payor and the Appellant agreed to an arrangement to enable the Appellant to qualify for employment insurance benefits while continuing to work for the Payor.
+[8] In this context, it is appropriate to reproduce and consider this excerpt from Thibeault v. Canada(Minister of National Revenue - M.N.R.), [2000] F.C.J. No. 2152, where Tardif J. of this Court made the following statements:
+26 The unemployment insurance scheme is a social program whose aim is to support those who lose a real job. It is definitely not a scheme under which it suffices to pay premiums for a certain period of the year in order to have automatic entitlement to benefits.
+27 It is an insurance scheme under which all the known conditions defined by the Act and its regulations must be respected or else the person who has paid the premiums cannot claim automatic entitlement to the payment of benefits.
+28 Generally, the entitlement to benefits under an insurance contract must be based on facts over which the potential beneficiary has no control.
+29 Of course, it is neither illegal nor reprehensible to organize one's affairs so as to profit from the social program that is the unemployment insurance scheme, subject to the express condition that nothing be misrepresented, disguised or contrived and that the payment of benefits occur as a result of events over which the beneficiary has no control. Where the size of the salary bears no relation to the economic value of the services rendered, where the beginning and end of word periods coincide with the end and the beginning of the payment period and where the length of the work period also coincides with the number of weeks required to requalify, very serious doubts arise as to the legitimacy of the employment contract. Where the coincidences are numerous and improbable, there is a risk of giving rise to an inference that the parties agreed to an artificial arrangement to enable them to profit from the benefits.
+30 In this case, not only are the coincidences great and very numerous, the size of the salary has never been justified in a proper and reasonable manner.
+[9] Furthermore, it is relevant to reproduce this excerpt from the Civil Code of Québec:
+IV - Cause of contracts
+1410. The cause of a contract is the reason that determines each of the parties to enter into the contract.
+The cause need not be expressed.
+1411. A contract whose cause is prohibited by law or contrary to public order is null.
+[10] It is appropriate to reproduce the relevant provisions of the Civil Code, which will serve to determine whether an employment contract, as distinguished from a contract of enterprise, exists:
+Contract of employment
+2085 A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+2086 A contract of employment is for a fixed term or an indeterminate term.
+Contract of enterprise of for services
+2098 A contract of enterprise or for services is a contract by which a person, the contractor or the provider of services, as the case may be, undertakes to carry out physical or intellectual work for another person, the client or to provide a service, for a price which the client binds himself to pay.
+2099 The contractor or the provider of services is free to choose the means of performing the contract and no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance.
+[Emphasis added.]
+[11] The issue is whether the Appellant held insurable employment for the purposes of the Employment Insurance Act (the "Act"). The relevant provision is paragraph 5(1)(a) of the Act, which states as follows:
+Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[Emphasis added.]
+[12] The above-cited paragraph contains the definition of an insurable contract. It is one held under a contract of service, namely an employment contract. However, the Act does not define such a contract. In the case at bar, there is no written contract, but at the hearing, testimony was given as to the parties' intention, which became clear during the periods at issue. Upon analysis of the facts presented at the hearing, the Court will be able to establish the type of contract to which the parties are bound.
+[13] The contract of service is a civil law concept found in the Civil Code of Québec. It is therefore under the relevant provisions of the Civil Code that the nature of this contract will be determined.
+[14] The provisions of the Civil Code reproduced above establish three essential conditions for the existence of an employment contract: (1) the employee's prestation in the form of work; (2) remuneration by the employer for that work; and (3) a relationship of subordination. The significant distinction between a contract of service and a contract of employment is the existence of a relationship of subordination - the fact that the employer has a power of direction or control over the worker.
+[15] Legal scholars have reflected on the concept of "power of direction or control" and, from the reverse perspective, a relationship of subordination. Here is what Robert P. Gagnon wrote in Le droit du travail du Québec, 5th ed. (Cowansville: Yvon Blais, 2003) at pages 66-67:
+[TRANSLATION]
+(c) Subordination
+90 - A distinguishing factor - The most significant characteristic of an employment contract is the employee's subordination to the person for whom he or she works. This is the element that distinguishes a contract of employment from other onerous contracts in which work is performed for the benefit of another for a price, e.g. a contract of enterprise or for services governed by articles 2098 et seq. C.C.Q. Thus, while article 2099 C.C.Q provides that the contractor or provider of services remains "free to choose the means of performing the contract" and that "no relationship of subordination exists between the contractor or the provider of services and the client in respect of such performance," it is a characteristic of an employment contract, subject to its terms, that the employee personally perform the agreed upon work under the direction of the employerand within the framework established by the employer.
+. . .
+92 - Concept - Historically, the civil law initially developed a "strict" or "classical" concept of legal subordination that was used for the purpose of applying the principle that a master is civilly liable for damage caused by his servant in the performance of his duties (article 1054 C.C.L.C. and article 1463 C.C.Q.). This classical legal subordination was characterized by the employer's direct control over the employee's performance of the work, in relation to the nature of the work and the way it was performed. This concept was gradually relaxed, giving rise to the concept of legal subordination in the broad sense. The reason for this is that the diversification and specialization of occupations and work methods often made it unrealistic for an employer to be able to dictate or even directly supervise the performance of the work. Consequently, subordination came to include the ability of the person who became recognized as the employer to determine the work to be performed, and to control and set the conditions of the performance. Viewed from the reverse perspective, an employee is a person who agrees to integrate into the operational structure of a business so that the business can benefit from the employee's work. In practice, one looks for a certain number of indicia of the ability to control (and these indicia can vary depending on the context): mandatory presence at a workplace; a somewhat regular assignment of work; the imposition of rules of conduct or behaviour; an obligation to provide activity reports; control over the quantity or quality of the services, etc. The fact that a person works at home does not mean that he or she cannot be integrated into a business in this way. [Emphasis added.]
+[16] It should be noted that what characterizes an employment contract is not the actual exercise of direction or control by the employer, but the fact that the employer has the power to exercise that direction and control. That is what the Federal Court of Appeal determined inGallant v. M.N.R., [1986] F.C.J. No. 330 (QL).
+[17] In the case at bar, is there a relationship of subordination between the Appellant and the Payor that would enable us to conclude that an employment contract exists? In determining whether a relationship of subordination exists, several indicia may be taken into consideration. In Lévesque v. Canada(Minister of National Revenue- M.N.R.) [2005] A.C.I. No. 183, Dussault J. of this Court cites the decision of Judge Monique Fradette of the Court of Quebec in Seitz v. Entraide populaire de Lanaudière inc., Court of Quebec (Civil Division), No. 705-22-002935-003, November 16, 2001, [2001] J.Q. No. 7635 (QL), where she provided a series of indicia that can help determine whether or not subordination exists:
+[translation]
+62 The indicia of control include:
+- mandatory presence at a workplace
+- compliance with work schedule
+- control over the employee's absences on vacations
+- submission of activity reports
+- control over quantity and quality of work
+- imposition of the methods for performing the work
+- power to sanction the employee's performance
+- source deductions
+- benefits
+- employee status on income tax returns
+- exclusivity of services for employer
+[18] However, a word of caution is necessary: the analysis cannot stop merely because certain indicia support a finding that a relationship of subordination exists. The exercise, which is based on the distinction drawn in the Civil Code of Québec, is to determine the overall relationship between the parties. Thus, one must establish the extent to which the indicia pointing to a relationship of subordination predominate over the other indicia.
+[19] Pursuant to the analysis submitted to this Court, I must conclude that the evidence gathered does not establish that the Appellant held employment under a contract of service within the meaning of paragraph 5(1)(a) of the Act.
+[20] I must also conclude that the Appellant did not hold employment under a contract of employment as defined by the relevant provisions of the Civil Code of Québec, reproduced above, and by the case law cited.
+[21] In view of the foregoing, this Court must conclude, as the Minister did, that the Payor and the Appellant agreed to an arrangement to enable the Appellant to qualify for unemployment benefits.
+[22] Consequently, the appeal is dismissed and the Minister's decision is affirmed.
+Signed at Grand-Barachois, New Brunswick, this 4th day of October 2005.
+"S.J. Savoie"
+Savoie D.J.
+Translation certified true
+on this 31st day of January 2006
+Aveta Graham, Translator
+CITATION: 2005TCC608
+COURT FILE NO.: 2004-3025(EI)
+STYLE OF CAUSE: MARC-ANDRÉ POIRIER AND M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: July 28, 2005
+REASONS FOR JUDGMENT BY: The Honourable S.J. Savoie, Deputy Judge
+DATE OF JUDGMENT: October 4, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Julie David
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jérôme Carrier
+Firm: Jérôme Carrier
+Avocat
+Lévis, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

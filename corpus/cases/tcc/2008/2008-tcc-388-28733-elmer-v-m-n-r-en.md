@@ -1,0 +1,136 @@
+---
+title: "Elmer v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28733/index.do"
+last_modified: "2008-06-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 388"
+citation2: ""
+neutral_citation: "2008 TCC 388"
+decision_date: "2008-06-20"
+language: "en"
+item_id: "28733"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1455
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:04:04.036000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1f22c0be8325db43d3616bf35a566ab8b67b080c6dffcc1826f02f0697aa2bfc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Elmer v. M.N.R.
+
+- Citation: 2008 TCC 388
+- Decision date: 2008-06-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1455, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Elmer v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-20
+Neutral citation
+2008 TCC 388
+File numbers
+2007-4271(EI)
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-4271(EI)
+BETWEEN:
+MICHAEL D. ELMER,
+Appellant,
+and
+MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 27, 2008, at Sudbury, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the Appellant:
+Craig W. Fleming
+Counsel for the Respondent:
+Suzanie Chua
+____________________________________________________________________
+JUDGMENT
+The appeal is allowed and the Minister’s decision is varied to reflect that the Appellant was dealing at arm’s length with Ms. Crinnion during the period in question.
+Signed at Ottawa, Canada, this 20th day of June 2008.
+"Patrick Boyle"
+Boyle, J.
+Citation: 2008 TCC 388
+Date: 20080620
+Docket: 2007-4271(EI)
+BETWEEN:
+MICHAEL D. ELMER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on May 27, 2008, in Sudbury, Ontario.)
+Boyle, J.
+[1] I am reading these Reasons on Wednesday, May 28th in Sudbury involving yesterday’s appeal by Mr. Elmer. As per our discussion with Mr. Fleming, I would ask the Registrar to order a transcript of these to be sent to Mr. Fleming.
+[2] The sole issue in this appeal is whether Mr. Elmer’s employment as general manager of the Avalon Eco Resort, owned and operated by Ms. Crinnion, was excluded from the definition of insurable employment because Mr. Elmer and his employer were not dealing at arm’s length during the relevant period of his employment in 2005 and 2006.
+[3] Mr. Elmer and Ms. Crinnion had been living together in a conjugal common-law partner relationship in 2003 and 2004. They continued to have a joint personal bank account through at least 2005. Mr. Elmer continues to this day to live primarily at Ms. Crinnion’s principal home, which is used as a bed and breakfast in her business, and at one of the five housekeeping units comprising the resort. The business operates in a wilderness area in Ontario’s Near North about an hour from the nearest town.
+[4] In the years in question and until quite recently Mr. Elmer was a signing officer on the business bank account, and in the years in question, in addition to paying business related expenses from it, was able to use it to pay his twenty dollar daily golf fees on his days off. There was no evidence of how this was otherwise accounted for by the business or the employee for tax or accounting purposes.
+[5] While Mr. Elmer’s employment was, like the business, seasonal in nature, he continued after the end of the season to do some off-season site work for the benefit of Ms. Crinnion’s business and property without pay. There was no evidence of how this was accounted for either, except that it did not form part of his paid employment.
+[6] In its first season in 2004 and while they were living together as common‑law partners, Mr. Elmer had loaned a modest amount of money to Ms. Crinnion and had worked in the business as an unpaid joint venturer in the business. In 2005 Mr. Elmer’s salary was not paid currently, but its payment was largely deferred without interest until early 2006.
+[7] The Crown does not dispute that Mr. Elmer worked as the employed general manager of the business, nor does it suggest that his approximately fifteen dollar hourly wage was unreasonably high.
+[8] For these reasons, I am referring largely only to the facts that could be relevant to whether Mr. Elmer and Ms. Crinnion dealt at arm’s length during his 2005 and 2006 periods of employment.
+[9] At the beginning of the hearing, the Crown announced it was dropping its primary position set out in the Amended Reply that Mr. Elmer and Ms. Crinnion were related in 2005 and 2006 by virtue of any continuing common-law partner relationship between them. The Crown said it was only pursuing the position that these two unrelated persons did not deal with each other at arm’s length as a matter of fact in 2005 and 2006. Consistent with this, the Crown did not cross-examine either Mr. Elmer or Ms. Crinnion on their evidence that they ceased to be living in a conjugal relationship by Thanksgiving 2004. The wisdom of this step is not obvious to me. The Crown is instead relying on its alternative argument that Mr. Elmer and his employer were not, in fact, dealing with each other at arm’s length, notwithstanding that they were not related.
+[10] The onus to satisfy me that the CRA decisions appealed from and its supporting assumptions are not correct remains as a technical matter with the Appellant, Mr. Elmer. However, as a practical matter, the Crown has taken on a burden of some requisite degree of persuasion that two unrelated persons are nonetheless de facto non-arm’s length since there is not always a lot an Appellant can do to disprove a negative.
+[11] The meaning of the term persons not dealing at arm’s length for Employment Insurance purposes is defined by reference to the meaning of that phrase in the Income Tax Act. The concept of de facto non-arm’s length is addressed in such income tax cases as Swiss Bank Corp. and Sheldon’s Engineering. CRA has published IT-419 which addresses its views on when persons are not dealing at arm’s length as a question of fact for purposes of the Income Tax Act.
+[12] There are a number of very significant consequences that result under the Income Tax Act from a finding that persons do not deal at arm’s length. It is fair to say as a general proposition that neither the courts nor even CRA’s Bulletin is quick to find de facto non-arm’s length relationships.
+[13] The Crown said there were three key factual indicators of Mr. Elmer not dealing with his employer on an arm’s length basis:
+(1) Mr. Elmer provided financial support to Ms. Crinnion in the form of the deferred payment of much of his 2005 salary and his modest 2004 loan;
+(2) he had some access to the joint personal bank account and some access to the business bank account for personal expenses; and
+(3) he did some work in exchange for lodging benefits throughout the year. None of these three facts, taken separately or together, leads me to the conclusion that Mr. Elmer and his employer would be considered de facto non-arm’s length for purposes of the Income Tax Act.
+[14] Mr. Elmer clearly enjoyed this particular but unusual job and wanted to continue to make a modest living working as close to the land as possible, notwithstanding the end of his common-law relationship and notwithstanding his continuing friendship with the business owner. This, combined with his minimal needs and somewhat nomadic lifestyle, explain his forbearance from prompt payment of wages and his agreement from the outset to be paid after the end of the season. His 2004 loan was made when they were a related couple not dealing at arm’s length and does not contribute to continuing non-arm’s length status after 2004 when their relationship ended.
+[15] The only evidence of Mr. Elmer using money from the joint account or the business account for personal expenses in the years in question was to pay green fees on his days off. A business owner may well extend such a limited benefit to an arm’s length employee as part of an arm’s length employment package. Given the history and reason at the outset for the joint personal account, such limited continued use in 2005, though questionable, does not attain the threshold heights of de facto non-arm’s length.
+[16] The fact that Mr. Elmer did off-season work on an unpaid basis for the business and received lodging benefits year round raises concerns about such things as what were the complete terms of his employment, whether barter transactions and benefits were properly reported, and whether he was receiving EI in the off‑season when he was not available for work or was already working. It does not, however, lead me to conclude they did not deal with each other at arm’s length as a de facto matter for purposes of the Income Tax Act. I do not think that if this were an income tax case these facts would cause a court to conclude that Mr. Elmer and Ms. Crinnion did not deal at arm’s length unless they were related.
+[17] I am allowing Mr. Elmer’s appeal. We stand adjourned.
+Signed at Ottawa, Canada, this 20th day of June 2008.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2008 TCC 388
+COURT FILE NO.: 2007-4271(EI)
+STYLE OF CAUSE: MICHAEL D. ELMER v. THE MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Sudbury, Ontario
+DATE OF HEARING: May 27, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: June 20, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Craig W. Fleming
+Counsel for the Respondent:
+Suzanie Chua
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Craig W. Fleming
+Firm: Sudbury, Ontario
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

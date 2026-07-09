@@ -1,0 +1,261 @@
+Title: Gauthier (Gisborn) v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26768/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-290-26768-gauthier-gisborn-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-05-24
+
+# Gauthier (Gisborn) v. The Queen
+
+- Citation: 2006 CCI 290
+- Decision date: 2006-05-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3514, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gauthier (Gisborn) v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-24
+Référence neutre
+2006 CCI 290
+Numéro de dossier
+1999-2648(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 1999-2648(IT)G, 1999-2650(IT)G, 1999-2651(IT)G,
+2000-37(IT)G et 2000-4883(IT)G
+ENTRE :
+LORRAINE GAUTHIER (GISBORN), HENRY WETELAINEN,
+MICHAEL McGUIRE et DAWN McKAY,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_________________________________________________________________
+Requêtes entendues avec la requête de Ontario Metis Aboriginal Association
+(2000-4883(IT)G) le 10 mai 2006, à Toronto (Ontario), par
+l'honorable juge Campbell J. Miller
+Comparutions :
+Avocat des appelants :
+Me John M. Clow
+Avocats de l'intimée :
+Me Julia S. Parker et Me Gérald L. Chartier
+________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE
+Vu les requêtes de l'intimée afin d'obtenir une ordonnance en radiation des paragraphes 9, 10, 11, 12, 13 et 28, des sous-alinéas 29(iii), (v), (vi) et (vii), du paragraphe 30 et d'une partie du paragraphe 33 des avis d'appel modifiés une deuxième fois, sans autorisation de les modifier, et pour les dépens des présentes requêtes;
+Et vu les documents déposés;
+Et vu les allégations des avocats des parties;
+La Cour ordonne que les requêtes de l'intimée soient accueillies avec un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 24e jour de mai 2006.
+« Campbell J. Miller »
+Le juge Miller
+Traduction certifiée conforme
+ce 28e jour d'août 2006.
+Yves Bellefeuille, réviseur
+Dossier : 2000-4883(IT)G
+ENTRE :
+ONTARIO METIS ABORIGINAL ASSOCIATION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+________________________________________________________________
+Requête entendue avec les requêtes de Lorraine Gauthier (Gisborn) (1999-2648(IT)G), Henry Wetelainen (1999-2650(IT)G), Michael McGuire (1999-2651(IT)G) et Dawn McKay (2000-37(IT)G) le 10 mai 2006, à Toronto (Ontario), par
+l'honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l'appelante :
+Me John M. Clow
+Avocats de l'intimée :
+Me Julia S. Parker et Me Gérald L. Chartier
+________________________________________________________________
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE
+Vu la requête de l'intimée afin d'obtenir une ordonnance en radiation des paragraphes 5, 6, 7, 8, 9 et 24, des sous-alinéas 25(iii), (v), (vi) et (vii), du paragraphe 26 et d'une partie du paragraphe 33 de l'avis d'appel modifié, sans autorisation de les modifier, et pour les dépens de la présente requête;
+Et vu les documents déposés;
+Et vu les allégations des avocats des parties;
+La Cour ordonne que la requête de l'intimée soit accueillie avec un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 24e jour de mai 2006.
+« Campbell J. Miller »
+Le juge Miller
+Traduction certifiée conforme
+ce 28e jour d'août 2006.
+Yves Bellefeuille, réviseur
+Référence : 2006CCI290
+Date : 20060524
+Dossiers : 1999-2648(IT)G, 1999-2650(IT)G,
+1999-2651(IT)G, 2000-37(IT)G et 2000-4883(IT)G
+ENTRE :
+LORRAINE GAUTHIER (GISBORN), HENRY WETELAINEN,
+MICHAEL McGUIRE, DAWN McKAY et
+ONTARIO METIS ABORIGINAL ASSOCIATION,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Miller
+[1] L'intimée présente des requêtes qui visent à obtenir la radiation d'une partie des actes de procédure des appelants en vertu de l'article 53 ou de l'alinéa 58(1)b) des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles » ). Quatre des appelants sont des Métis et la cinquième est une association à but non lucratif constituée en personne morale dans le but de représenter les intérêts des peuples autochtones. Les questions en litige, comme décrites par les appelants dans leurs actes de procédure, sont de savoir :
+(i) si les revenus attribués aux appelants sont exemptés de taxation en vertu de la Loi sur les Indiens, L.R.C. 1985, ch. I-5, et de l'article 15 de la Charte canadienne des droits et libertés (la « Charte » );
+(ii) si la cotisation en litige, ou toute disposition légale qui la fonde (y compris l'alinéa 81(1)a) de la Loi de l'impôt sur le revenu (Canada), le paragraphe 2(1) et l'article 87 de la Loi sur les Indiens), portent atteinte à l'article 15 de la Charte, et, si c'est le cas, si l'atteinte a une justification qui puisse se démontrer en vertu de l'article premier de la Charte;
+(iii) si les appelants ont une immunité fiscale inhérente en tant que droit ancestral provenant du droit des peuples autochtones à l'autonomie gouvernementale qui est reconnu et protégé constitutionnellement par l'article 35 de la Loi constitutionnelle de 1982.
+L'intimée demande la radiation de la troisième question, ainsi que de toutes les parties des actes de procédure qui y sont liées, sur le fondement que cette question contrevient à la fois à l'article 53 et à l'alinéa 58(1)b) des Règles. L'annexe A[1] contient les parties des actes de procédure en question.
+[2] Il y a quelques questions préliminaires à régler avant de s'attaquer au fond des requêtes visant la radiation. En premier lieu, les appelants allèguent que le ministre a simplement trop tardé à soumettre les présentes requêtes. Sans faire l'historique de la procédure, la réponse à cette position se trouve dans l'ordonnance du juge Bowie du 23 juin 2005, dans laquelle il a ordonné que :
+le droit de l'intimée de soumettre toute demande en vertu des Règles de la Cour canadienne de l'impôt (procédure générale) en ce qui a trait à l'avis d'appel modifié une deuxième fois ne soit pas remis en cause par les termes de la présente ordonnance.
+Subséquemment, il y a eu une ordonnance de la juge Lamarre de la présente Cour datée du 21 décembre 2005, qui ordonnait que :
+L'intimée dépose sa requête en radiation en vertu de l'alinéa 58(1)b) des Règles au plus tard le 10 février 2006;
+L'intimée signifie à l'appelante et dépose au greffe de la Cour un mémoire conformément à l'article 62 des Règles au plus tard le 10 mars 2006;
+Les appelants signifient leurs mémoires à l'intimée et les déposent au greffe de la Cour au plus tard le 21 avril 2006;
+[3] Lorsque des juges de la présente Cour permettent expressément qu'on présente une requête de ce genre, ce serait uniquement dans des circonstances exceptionnelles qu'un autre juge l'interdise. Je ne suis pas convaincu qu'il y ait des circonstances exceptionnelles. Les appelants ont même reconnu qu'il n'y avait pas eu de retard, ni de pratique incorrecte de la part de l'intimée. L'intimée n'a pas trop tardé à soumettre les présentes requêtes.
+[4] En deuxième lieu, les appelants allèguent, en se fondant sur l'affaire R. c. Enterac Property Corp.[2], que l'intimée n'est pas fondée à se baser sur l'alinéa 58(1)b) des Règles pour demander la radiation de certaines parties seulement des actes de procédure. Le juge Bell a établi une règle claire en la matière dans l'affaire Enterac. En appel de cette décision-là, la Cour d'appel fédérale a déclaré :
+[...] Nous sommes aussi d'avis que la règle 58 ne s'applique pas.
+Les appelants font valoir que cette déclaration de la Cour d'appel fédérale est ambiguë et que je peux néanmoins me fonder sur l'alinéa 58(1)b) des Règles pour radier une partie d'un acte de procédure qui correspond à une question identifiable et distincte (voir en la matière la décision Montgomery v. Scholl-Plough Canada Inc.[3]). Je ne suis pas d'accord. J'adopte le point de vue du juge Bell. Étant donné que, pour moi, les critères pour l'application des règles sont semblables, cela n'est pas un point crucial. L'intimée est contrainte de se fonder sur l'article 53 des Règles, qui dispose :
+53. La Cour peut radier un acte de procédure ou un autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l'acte ou le document :
+a) peut compromettre ou retarder l'instruction équitable de l'appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour.
+[5] Quel est donc le critère d'application de l'article 53 des Règles? Je pense qu'il n'est pas différent du critère de l'article 58 des Règles, selon lequel un acte de procédure sera radié s'il est évident et manifeste qu'il n'a aucune chance de succès. Contrairement à de nombreuses autres cours, les Règles de la Cour canadienne de l'impôt comprennent des dispositions différentes pour, d'une part, radier un acte de procédure entier au motif qu'il ne révèle aucun moyen raisonnable d'action (article 58 des Règles) et pour, d'autre part, radier des parties d'un acte de procédure aux motifs énumérés à l'article 53 des Règles cité ci-dessus. L'arrêt de principe en la matière est la décision de la Cour suprême du Canada dans l'affaire Hunt c. Carey Canada Inc.[4], dans laquelle le critère a été énoncé de la façon suivante :
+Ainsi, au Canada, le critère régissant l'application de dispositions comme la règle 19(24)a) des Rules of Court de la Colombie-Britannique est le même que celui régissant une requête présentée en vertu de la règle 19 de l'ordonnance 18 des R.S.C. : dans l'hypothèse où les faits mentionnés dans la déclaration peuvent être prouvés, est-il « évident et manifeste » que la déclaration du demandeur ne révèle aucune cause d'action raisonnable? Comme en Angleterre, s'il y a une chance que le demandeur ait gain de cause, alors il ne devrait pas être « privé d'un jugement » . La longueur et la complexité des questions, la nouveauté de la cause d'action ou la possibilité que les défendeurs présentent une défense solide ne devraient pas empêcher le demandeur d'intenter son action. Ce n'est que si l'action est vouée à l'échec parce qu'elle contient un vice fondamental qui se range parmi les autres énumérés à la règle 19(24) des Rules of Court de la Colombie-Britannique que les parties pertinentes de la déclaration du demandeur devraient être radiées en application de la règle 19(24)a).
+[6] Il a aussi été jugé que lorsqu'on prétend que le document est scandaleux, frivole ou vexatoire ou qu'il constitue un recours abusif, le critère à utiliser est semblable. Par exemple, dans l'affaire Pfizer Canada Inc. c. Apotex Inc.,[5] le juge Lemieux cite avec approbation l'affaire Succession Creaghan c. La Reine[6] comme suit :
+Enfin, une déclaration ne doit pas, à mon avis, être radiée pour le motif qu'elle est vexatoire ou futile, ou qu'elle constitue un emploi abusif des procédures de la Cour, pour la seule raison que, de l'avis du juge qui préside l'audience, l'action du demandeur devrait être rejetée. Je suis d'avis que le juge qui préside ne doit pas rendre une pareille ordonnance à moins qu'il ne soit évident que l'action du demandeur est tellement futile qu'elle n'a pas la moindre chance de réussir, quel que soit le juge devant lequel l'affaire sera plaidée au fond. C'est uniquement dans ce cas qu'il y a lieu d'enlever au demandeur l'occasion de plaider. [Je souligne.]
+Le juge Rouleau a référé de manière semblable à un acte de procédure frivole ou vexatoire comme étant celui qui est manifestement tellement futile qu'il n'a pas la moindre chance de succès[7]. La jurisprudence est aussi claire sur le fait que le pouvoir de radier doit être exercé avec beaucoup de circonspection.
+[7] Une cour peut également radier un acte de procédure lorsqu'il est si pauvre en éléments matériels qu'il ne fournit pas de base à un moyen d'appel, ou lorsque les faits énoncés ne sont pas pertinents, ou lorsque l'intimée ne peut pas savoir comment répondre.
+[8] Les appelants ont attiré mon attention sur l'analyse du juge Rip dans l'affaire Wai Yu Gee c. Canada[8], dans laquelle il cite les principes applicables aux actes de procédure selon l'ouvrage de Holmsted et Watson[9] :
+Il s'agit de la grande règle en matière d'actes de procédure; toutes les autres règles sont essentiellement des règles accessoires ou des réserves à cette règle de base selon laquelle le plaideur doit exposer les faits pertinents sur lesquels il fonde sa demande ou sa défense. La règle comporte quatre composantes distinctes : (1) chaque acte de procédure doit exposer des faits et non pas simplement des conclusions de droit; (2) il doit exposer les faits pertinents et ne pas contenir de faits dénués de pertinence; (3) il doit exposer des faits, non les éléments de preuve qui serviront à étayer ces faits; (4) il doit exposer les faits avec concision.
+Le juge Rip s'est fondé sur de tels principes pour répondre à la question de savoir si les actes de procédure étaient si peu pertinents et inadéquats qu'ils pouvaient compromettre ou retarder l'instruction équitable de l'appel. Par la suite, il a radié des parties de la réponse à l'avis d'appel, mais il a accordé à l'intimée 21 jours pour déposer une réponse modifiée. J'établis une distinction entre le fait de mettre de l'ordre dans des actes de procédure déficients de cette façon et la radiation totale d'un moyen distinct à laquelle je fais face dans la présente demande. Toutefois, je garderai à l'esprit les principes fondamentaux énoncés dans l'ouvrage de Holmsted et Watson.
+[9] Ayant cela en guise de toile de fond, j'effectue maintenant une analyse des actes de procédure. L'essentiel des actes de procédure des appelants sur la protection des droits ancestraux se trouve dans les paragraphes suivants des actes de procédure :
+[TRADUCTION]
+12(a) Le droit à l'autonomie gouvernementale et son exercice (qui emporte l'immunité fiscale) étaient d'une grande importance et faisaient partie intégrante de la communauté historique distinctive des Métis de Sault Ste. Marie. Ils continuent d'être une partie intégrante de la communauté métisse actuelle de Sault Ste. Marie. Cela constitue un droit, une pratique ou une tradition exercée par les Métis. Ils sont une partie intégrante de la communauté métisse distinctive et ont existé bien avant la mainmise effective des colons Européens dans la région.
+28. Il s'agit de savoir si l'appelante jouit d'une immunité fiscale inhérente en tant que droit ancestral qui découle du droit des peuples autochtones à l'autonomie gouvernementale qui est constitutionnellement reconnu et protégé par l'article 35 de la Loi constitutionnelle de 1982.
+30(c) L'immunité fiscale fait partie du droit inhérent à l'autonomie gouvernementale détenu par les autochtones et reconnu par l'article 35 de la Loi constitutionnelle de 1982.
+[10] L'article 35 de la Loi constitutionnelle de 1982 dispose :
+35(1) Les droits existants - ancestraux ou issus de traités - des peuples autochtones du Canada sont reconnus et confirmés.
+(2) Dans la présente loi, « peuples autochtones du Canada » s'entend notamment des Indiens, des Inuit et des Métis du Canada.
+[11] Les appelants ont-ils une quelconque chance de succès aux motifs qu'ils ont droit à l'autonomie gouvernementale qui emporte une immunité fiscale, droit qui est protégé par l'article 35 de la Loi constitutionnelle de 1982?
+[12] L'arrêt de principe sur la détermination des droits ancestraux qui sont protégés par l'article 35 de la Loi constitutionnelle de 1982 est l'arrêt R. c. Van der Peet[10]. L'avocat des appelants allègue que je devrais suivre la méthode plus libérale de la juge dissidente L'Heureux-Dubé, plutôt que ce qu'il qualifie de méthode des droits figés de la majorité. Il serait inapproprié de ma part de le faire. La méthode pour trancher la présente question est clairement définie par la majorité dans l'affaire Van der Peet et c'est cette méthode qui me guide dans l'analyse de la viabilité de la cause des appelants. De plus, la méthode de la majorité dans l'affaire Van der Peet s'est appliquée dans des causes subséquentes de la Cour suprême du Canada à savoir les affaires R. c. Powley[11], R. c. Pamajewon[12], Mitchell c. M.R.N.[13] et Delgamuukw c. Colombie-Britannique[14].
+[13] L'affaire Van der Peet a établi un double critère pour évaluer l'étendue des droits ancestraux protégés par l'article 35. Premièrement, la Cour doit identifier avec précision la nature du droit revendiqué. C'est l'étape de la « qualification précise du droit » . Comme le juge Vertes l'a succinctement énoncé dans l'affaire R. v. The Kátlodééche First Nation[15] :
+[TRADUCTION]
+27 Je suis d'accord que seul un procès permettra de dégager les preuves nécessaires pour évaluer les prétentions faites dans une action. Cependant, un demandeur doit plaider les faits pertinents nécessaires à l'établissement de la cause de l'action. De plus, dans le contexte d'une revendication du droit à l'autonomie gouvernementale, en tant que partie des droits des peuples autochtones protégés et confirmés par l'article 35, et en référence à l'inconstitutionnalité d'une loi, les exigences minimales d'un acte de procédure devraient être, comme énoncées entre autres dans l'affaire Van der Peet, de déterminer : (a) la nature du droit revendiqué; (b) les actions prises par le demandeur en vertu de ce droit; (c) la loi qui viole ce droit et la façon dont elle le fait ou menace de le faire; (d) le contexte historique invoqué pour établir ce droit. Par ailleurs, cela devrait être fait en tenant compte d'un « litige réel » entre les parties de façon à fournir un contexte à l'action en justice. À mon avis, l'absence de tels détails rend la présente déclaration insuffisante.
+[14] Deuxièmement, la Cour doit alors déterminer si le demandeur a démontré que les pratiques, les coutumes ou les traditions étaient des éléments essentiels et significatifs de la culture distinctive de la société : le critère de la « partie intégrante d'une culture distinctive » .
+[15] La Cour suprême du Canada a de plus énoncé que les revendications des droits ancestraux ne pouvaient pas être déterminées de façon générale. L'existence d'un droit repose sur les pratiques, les coutumes ou les traditions de la communauté particulière qui revendique ce droit et la protection de ce droit est liée à l'histoire particulière du groupe qui le revendique. Comme le juge en chef Lamer l'a énoncé dans l'affaire Pamajewon :
+27 Les appelants eux-mêmes demandent à notre Cour de caractériser leur revendication de [TRADUCTION] « droit général de gérer l'utilisation des terres de leurs réserves » . Caractériser ainsi la revendication des appelants aurait pour effet d'assujettir l'examen de la Cour à un degré excessif de généralité. Les droits ancestraux, y compris toute revendication du droit à l'autonomie gouvernementale, doivent être examinés à la lumière des circonstances propres à chaque affaire et, plus particulièrement, à la lumière de l'histoire et de la culture particulières du groupe autochtone qui revendique le droit. Les facteurs énoncés dans Van der Peet, et appliqués plus tôt en l'espèce, permettent à la Cour d'examiner la revendication des appelants suivant le degré de spécificité approprié, ce que ne permettrait pas la qualification proposée par les appelants.
+[16] La question de la spécificité a également été abordée par le juge Russell de la Cour fédérale dans l'affaire Bande Sawridge c. Canada[16] de la manière suivante :
+288 Ces propos me donnent à penser ce qui suit :
+a) un droit à l'autonomie gouvernementale plaidé en termes très généraux est « incompatible avec le par. 35(1) » ;
+b) si l'autonomie gouvernementale est revendiquée en vertu du par. 35(1), elle « ne peut pas être exprimée en termes excessivement généraux » ;
+c) la partie qui fait valoir un droit à l'autonomie gouvernementale devra venir à bout de bon nombre de questions conceptuelles difficiles se rattachant à cette revendication et elle ne pourra y arriver si le droit est simplement plaidé en termes très généraux.
+[17] Il en est de même dans la décision Powley dans laquelle la Cour suprême du Canada a modifié le critère de l'affaire Van der Peet pour la communauté métisse. La Cour suprême a effectué une analyse en dix points, semblable à celle de l'affaire Van der Peet, en commençant par la qualification du droit.
+[18] Sur la base de la méthode de la Cour suprême du Canada ainsi que celle d'autres cours sur l'analyse des droits ancestraux visés par l'article 35 de la Loi constitutionnelle de 1982, quelles sont, si elles existent, les chances de succès des appelants s'ils invoquent l'article 35 dans leurs actes de procédure sur la base d'un droit inhérent à l'autonomie gouvernementale (qui emporte l'immunité fiscale)? Je trouve que leur position n'est pas seulement chancelante, elle est impossible à tenir.
+[19] Les actes de procédure des appelants ne permettent pas de surmonter le premier obstacle, celui de la qualification précise d'un droit particulier lié à des pratiques, des coutumes ou des traditions particulières. Il n'y a rien d'autre que de vagues allégations dans les actes de procédure - aucune base substantielle.
+[20] Pour que la revendication des appelants puisse aboutir, ils doivent démontrer :
+(i) la nature exacte du droit revendiqué;
+(ii) les actions prises par la partie en vertu de ce droit;
+(iii) la loi qui viole ce droit;
+(iv) le contexte historique invoqué pour établir ce droit.
+[21] Les appelants se réfèrent à plusieurs paragraphes de leurs actes de procédure pour soutenir l'identification de la nature exacte du droit. Cependant, qu'est-ce que les appelants ont réellement plaidé dans ces paragraphes? Par exemple, [TRADUCTION] « l'immunité fiscale fait partie du droit inhérent à l'autonomie gouvernementale détenu par les autochtones et reconnu par l'article 35 de la Loi constitutionnelle de 1982 » . Cela n'est pas un fait pertinent, mais une conclusion de droit ou, au mieux, de fait et de droit. Toutefois, il s'agit d'une affirmation sans substance. Me Clow a essayé de l'embellir lors de sa plaidoirie en suggérant que certains principes de droit international sous-tendent peut-être la conclusion ainsi plaidée. Les autres paragraphes sur lesquels les appelants se fondent sont semblables en ce qu'ils contiennent des conclusions trop générales et qui ne sont pas appuyées. Je n'ai pu trouver aucune pratique, coutume ou tradition particulière qui ait été plaidée avec suffisamment de spécificité pour permettre d'identifier clairement le droit en litige. Je ne pense pas que le fait d'ajouter les mots « qui emporte l'immunité fiscale » aide les appelants à restreindre l'étendue du droit à l'autonomie gouvernementale auquel ils font allusion. De plus, cela peut être perçu comme une forme de droit négatif, c'est-à-dire un droit de ne payer d'impôts à aucun gouvernement, à aucun moment. Ou peut-être s'agit-il d'un droit accessoire au droit à l'autonomie gouvernementale. La Cour suprême du Canada a clairement énoncé que les droits accessoires ne sont pas considérés comme des droits ancestraux visés par l'article 35 (voir l'affaire Van der Peet). De même, dans l'affaire Mitchell, la Cour suprême du Canada a rejeté la qualification du droit de transporter des marchandises à travers la frontière des États-Unis « sans avoir à acquitter à un gouvernement ou autre autorité canadienne des taxes ou des droits de douane » . La Cour suprême du Canada a plutôt qualifié ce droit comme un droit de traverser le fleuve Saint-Laurent avec des marchandises, à des fins commerciales. Aucune suggestion n'a été faite dans les présentes requêtes sur la façon de qualifier de nouveau le droit à l'immunité fiscale.
+[22] Les appelants ont allégué que les actions qu'ils ont prises conformément à leur droit ancestral consistaient en le dépôt de l'avis d'opposition. Une action unique visant à s'opposer à l'impôt établi par le gouvernement du Canada est loin d'apporter la preuve d'une coutume, d'une pratique ou d'une tradition d' « immunité fiscale » . Les appelants ont reconnu dans leurs actes de procédure [TRADUCTION] qu' « il y avait une continuité du droit historique au droit contemporain revendiqué même si ce dernier n'a pas toujours été revendiqué en demandant l'immunité fiscale » .
+[23] Finalement, qu'a-t-on allégué relativement au contexte historique pour établir le droit? Il est intéressant de noter que les appelants ont allégué : [TRADUCTION] « dans la présente affaire, on se fonde dans une certaine mesure sur l'ascendance autochtone elle-même pour établir le droit et non pas sur une action, une tradition ou une pratique » . Il semble que les appelants se sont fondés exclusivement sur la décision Powley selon laquelle une communauté métisse historique existait et une communauté métisse actuelle existe encore de nos jours à Sault Ste. Marie et dans les environs de cette ville. La Cour suprême a également déterminé que la communauté dont il est question a été établie avec suffisamment de continuité et de stabilité à travers la preuve de coutumes et de traditions partagées ainsi qu'une identité collective, de même que des preuves démographiques. Cependant, la Cour suprême du Canada a déclaré[17] :
+13 C'est sur cette toile de fond historique et culturelle que nous allons examiner la revendication des intimés. Dans notre analyse juridique, nous ferons particulièrement une interprétation téléologique de l'art. 35. L'inclusion des Métis à l'art. 35 traduit un engagement à reconnaître les Métis et à favoriser leur survie en tant que communautés distinctes. L'objet de l'art. 35 et la promesse qu'il exprime consistent à protéger les pratiques qui, historiquement, ont constitué des caractéristiques importantes de ces communautés distinctes et qui continuent aujourd'hui de faire partie intégrante de leur culture métisse.
+[24] La Cour suprême du Canada reconnaît que la continuité requiert une certaine marge de souplesse pour s'assurer que les pratiques autochtones peuvent changer. Toutefois, les actes de procédure des appelants ne font état d'aucune pratique historique qui fonde ce droit, ni d'aucune continuité. Il n'y a rien qui permette d'exercer une quelconque souplesse. Le simple fait de se fonder sur l'affaire Powley pour confirmer l'existence d'une communauté métisse est insuffisant pour prouver un quelconque droit général à l'autonomie gouvernementale, et encore moins un quelconque droit plus précis et identifiable.
+[25] Les appelants font valoir que la Cour suprême du Canada a laissé la porte ouverte aux revendications selon lesquelles l'autonomie gouvernementale est un droit ancestral protégé par l'article 35, en particulier lorsqu'il y a un point litigieux comme le paiement des impôts. Selon moi, la Cour suprême du Canada dans ces affaires-là n'a pas ouvert la porte aussi grand que ne le prétendent les appelants. L'autonomie gouvernementale doit encore satisfaire aux critères de l'affaire Van der Peet : il faut prouver l'existence de pratiques, de coutumes ou de traditions pour établir ce qui constitue réellement le droit à l'autonomie gouvernementale. Il ne peut pas y avoir de construction sans fondation. Dans la présente affaire, les appelants ont allégué un droit sans l'avoir adéquatement identifié. Il n'est pas surprenant alors que les actes de procédure ne puissent pas en établir la fondation : les pratiques, les coutumes ou les traditions qui sous-tendent le droit. J'en conclus que les actes de procédure des appelants dans la présente affaire sont si incomplets que c'en est futile. Je fais droit aux requêtes de l'intimée et je radie les paragraphes en cause.
+[26] Est-ce une cause appropriée pour accorder aux appelants la permission de modifier? Si l'avocat des appelants m'avait donné une idée précise sur la façon de modifier les actes de procédure pour répondre aux inquiétudes que je viens d'énoncer, j'aurais peut-être pu envisager d'accorder la permission de modifier. Mais il ne l'a pas fait. Rien ne m'a été donné pour aider à identifier un droit particulier, né de pratiques, de coutumes ou de traditions, qui aurait pu être considéré comme un droit ancestral protégé au paragraphe 35(1) de la Loi constitutionnelle de 1982. Dans de telles circonstances, je crois qu'accorder une permission de modifier ne servirait à rien.
+[27] Je fais droit aux requêtes de l'intimée avec un seul mémoire de frais.
+Signé à Ottawa, Canada, ce 24e jour de mai 2006.
+« Campbell J. Miller »
+Le juge Miller
+Traduction certifiée conforme
+ce 28e jour d'août 2006.
+Yves Bellefeuille, réviseur
+ANNEXE « A »
+[TRADUCTION]
+ÉNONCÉ DE FAITS
+9. L'appelante est généalogiquement une descendante de la communauté historique des Métis de Sault Ste. Marie, en Ontario, et elle est acceptée par cette communauté comme une de ses membres.
+10. Il y avait une communauté métisse à Sault Ste. Marie qui a commencé à émerger au milieu du 17e siècle. De la fin du 17e siècle au milieu du 19e siècle, la communauté de Sault Ste. Marie était largement dominée par les Métis. La communauté métisse de Sault Ste. Marie était distincte de façon visuelle, culturelle et ethnique. Elle est devenue sous domination des Européens peu avant 1850.
+11. (a) La communauté métisse de Sault Ste. Marie n'est pas confinée aux limites de la ville, elle s'étend à ses environs. Il y a une communauté métisse actuelle à Sault Ste. Marie qui est la continuité de la communauté historique.
+(b) La communauté métisse de Sault Ste. Marie fait partie de la nation des Métis, une collectivité historique et existante du peuple des Métis qui a vécu et dont les descendants vivent encore en large mesure dans les terres natales des Métis constituées des régions boisées du centre-nord de l'Amérique du Nord, y compris le Nord de l'Ontario et en particulier Sault Ste. Marie et la région environnante, dont Batchewana, Goulais Bay, Garden River, Bruce Mines, Desbarates, Bar River, l'île St. Joseph et l'île Sugar, de même que ce qui constitue de nos jours le Nord du Michigan et Searchmont.
+12. (a) Le droit à l'autonomie gouvernementale et son exercice (qui emporte l'immunité fiscale) étaient d'une grande importance et faisaient partie intégrante de la communauté historique distinctive des Métis de Sault Ste. Marie. Ils continuent d'être une partie intégrante de la communauté métisse actuelle de Sault Ste. Marie. Cela constitue un droit, une pratique ou une tradition exercée par les Métis. Ils sont une partie intégrante de la communauté métisse distinctive et ont existé bien avant la mainmise effective des colons Européens dans la région.
+(b) Le gouvernement canadien reconnaît le droit inhérent des peuples autochtones à l'autonomie gouvernementale en tant que droit existant en vertu de l'article 35 de la Loi constitutionnelle de 1982, dans l'accord de Charlottetown et dans sa politique sur les droits inhérents.
+13. La Loi de l'impôt sur le revenu (Canada) est une violation du droit inhérent de l'appelante à l'autonomie gouvernementale qui n'est ni minimale ni justifiée. Bien que tous les Métis n'aient pas exercé ce droit en tout temps, il ne s'est pas éteint.
+POINTS EN LITIGE
+28. Il s'agit de savoir si l'appelante jouit d'une immunité fiscale inhérente en tant que droit ancestral qui découle du droit des peuples autochtones à l'autonomie gouvernementale qui est constitutionnellement reconnu et protégé par l'article 35 de la Loi constitutionnelle de 1982.
+DISPOSITIONS LÉGISLATIVES INVOQUÉES
+29. Les dispositions législatives invoquées sont les suivantes :
+[...]
+(iii) l'article 35 de la Loi constitutionnelle de 1982;
+[...]
+(v) le paragraphe 91(24) de la Loi constitutionnelle de 1867;
+(vi) l'Acte pour protéger les sauvages dans le Haut Canada, contre la fraude, et les propriétés qu'ils occupent ou dont ils ont jouissance, contre tous empiètements et dommages, S.C. 1850, ch. 74, art. 4;
+(vii) la Proclamation royale de 1763.
+MOYENS INVOQUÉS ET CONCLUSIONS RECHERCHÉES
+30. (a) Les Métis qui n'ont pas perdu leurs droits ancestraux, qui n'y ont pas renoncé ou dont les droits ne sont pas éteints possèdent un droit « inhérent » à l'autonomie gouvernementale, qui emporte une forme souveraine d'immunité fiscale.
+(b) Le gouvernement canadien reconnaît déjà le droit inhérent à l'autonomie gouvernementale en tant que droit ancestral existant au sens de l'article 35 de la Loi constitutionnelle. Une telle reconnaissance est fondée sur le principe que les autochtones ont le droit à l'autonomie en ce qui a trait aux affaires internes de leurs communautés qui font partie intégrante de leur culture, de leur identité, de leurs traditions, de leurs langues et de leurs institutions. Le paragraphe 35(2) de la Loi énonce que : « "peuples autochtones du Canada" s'entend notamment des Indiens, des Inuit et des Métis du Canada » .
+(c) L'immunité fiscale fait partie du droit inhérent à l'autonomie gouvernementale détenu par les autochtones et reconnu par l'article 35 de la Loi constitutionnelle de 1982.
+(d) En raison de ce droit ancestral, l'appelante invoque l'immunité de l'impôt sur le revenu et par conséquent l'immunité de la Loi de l'impôt sur le revenu (Canada) et des cotisations en cause.
+(e) Dans la présente affaire, on se fonde dans une certaine mesure sur l'ascendance autochtone elle-même pour établir le droit et non pas sur une action, une tradition ou une pratique. La jurisprudence a mis l'accent sur ces dernières, sans doute parce que de nombreuses affaires soumises aux tribunaux portaient sur la question du droit ancestral de chasse et de pêche.
+(f) Le mot « Métis » à l'article 35 de la Loi constitutionnelle de 1982 ne vise pas toutes les personnes d'ascendance mixte indienne et européenne; il renvoie aux peuples distincts qui, en plus de leur ascendance mixte, possèdent leurs propres coutumes et une identité collective reconnaissable et distincte de celle de leurs ancêtres indiens et européens. La communauté métisse de Sault Ste. Marie à laquelle l'appelante appartient est un groupe de Métis ayant une identité collective distinctive, vivant ensemble dans la région géographique décrite à l'alinéa 11(b) et partageant un mode de vie commun.
+(g) Pour déterminer si le droit de l'appelante en tant que Métisse selon l'article 35 a été établi conformément à la jurisprudence, un critère de l' « antériorité à la possession » devrait être appliqué (pour identifier le moment pertinent), qui établit le moment où les Européens ont obtenu la possession politique et juridique de la zone en cause. L'accent devrait être mis sur la période suivant l'émergence d'une communauté métisse particulière et avant qu'elle ne soit assujettie aux lois et coutumes européennes. Le critère de l'antériorité au contact avec les Européens appliqué dans les causes relatives, par exemple, aux Premières nations a été modifié par les tribunaux pour tenir compte de l'ethnogenèse postérieure au contact et de l'évolution des Métis. La Cour suprême du Canada a décidé dans l'affaire Powley que la communauté métisse de Sault Ste. Marie a été dominée par les Européens au milieu du dix-neuvième siècle, qu'une communauté métisse historique existait et qu'une communauté métisse actuelle existe toujours à Sault Ste. Marie et dans les environs de cette ville. Dans cette même affaire, la Cour a également décidé que cette communauté a été établie avec suffisamment de continuité et de stabilité par la preuve de coutumes et de traditions partagées et d'identité collective ainsi que des preuves démographiques.
+(h) Bien que l'appelante n'ait pas été directement impliquée dans l'affaire Powley, elle est membre de la même communauté métisse actuelle de Sault Ste. Marie et ses ancêtres étaient membres de la même communauté métisse historique.
+(i) L'appelante s'identifie comme Métisse et elle est acceptée par la communauté métisse actuelle de Sault Ste. Marie en tant que telle. Les ancêtres de l'appelante étaient membres de la communauté métisse historique de Sault Ste. Marie. L'appelante est donc une personne autorisée à exercer les droits ancestraux des Métis, y compris le droit à l'autonomie gouvernementale et à l'immunité fiscale.
+(j) Le droit revendiqué faisait et fait toujours partie intégrante de la culture distinctive de la communauté.
+(k) La continuité du droit historique et du droit contemporain est établie, même si le droit en cause n'a pas toujours été revendiqué (par la voie d'une revendication de l'immunité fiscale).
+(l) Le droit n'est pas éteint.
+(m) L'intimée porte atteinte au droit de l'appelante en lui établissant des impôts.
+(n) L'atteinte n'est ni justifiée, ni minimale.
+CONCLUSION RECHERCHÉE
+33. [...] sur le fondement que l'appelante bénéficie, pour le revenu en cause, d'une exemption ou d'une immunité à l'égard de l'impôt sur le revenu ou que cet impôt ne s'applique pas [...]
+RÉFÉRENCE :
+2006CCI290
+NUMÉRO DE DOSSIER DE LA COUR :
+1999-2648(IT)G, 1999-2650(IT)G, 1999-2651(IT)G, 2000-37(IT)G et 2000-4883(IT)G
+INTITULÉ DE LA CAUSE :
+Lorraine Gauthier (Gisborn), Henry Wetelainen, Michael McGuire, Dawn McKay et Ontario Metis Aboriginal Association
+et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+le 10 mai 2006
+MOTIFS DE L'ORDONNANCE PAR :
+l'honorable juge Campbell J. Miller
+DATE DE L'ORDONNANCE :
+le 24 mai 2006
+COMPARUTIONS :
+Avocat des appelants :
+Me John M. Clow
+Avocats de l'intimée :
+Me Julia S. Parker et Me Gérald L. Chartier
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me John M. Clow
+Étude :
+John M. Clow, Barrister & Solicitor
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Les actes de procédure à l'annexe A sont les actes de procédure des appelants particuliers. Les actes de procédure de l'Ontario Metis Aboriginal Association en cause sont semblables même si la numérotation y est différente.
+[2] no 94-2141(IT)G, 19 avril 1995, [1995] A.C.I. no 341 (C.C.I.); conf. par no A-256-95, 3 mars 1998, [1998] A.C.F. n ° 302 (C.A.F.).
+[3] no 35756/89, 18 octobre 1989, [1989] O.J. No. 1747 (H.C.J. de l'Ont.).
+[4] [1990] 2 R.C.S. 959, à la page 980.
+[5] no T-1745-98, 15 juin 1999, [1999] A.C.F. n ° 959.
+[6] [1972] C.F. 732.
+[7] Nelson c. Canada, n ° T-942-00, 18 octobre 2001, [2001] A.C.F. n ° 1548.
+[8] no 2001-3359(IT)G, 31 juillet 2003, 2003 CCI 533, 2003 D.T.C. 1020.
+[9] Ontario Civil Procedure, vol. 3, pages 25-20 à 25-21.
+[10] [1996] 2 R.C.S. 507.
+[11] [2003] 2 R.C.S. 207.
+[12] [1996] 2 R.C.S. 821.
+[13] [2001] 1 R.C.S. 911.
+[14] [1997] 3 R.C.S. 1010.
+[15] 2003 NWTSC 70, [2003] N.W.T.J. No. 85.
+[16] no T-66-86A, 7 novembre 2005, 2005 CF 1476, [2005] A.C.F. n ° 1857 (C.F. 1re inst.).
+[17] Précité, au paragraphe 13.

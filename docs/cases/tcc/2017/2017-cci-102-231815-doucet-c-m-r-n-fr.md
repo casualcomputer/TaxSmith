@@ -1,0 +1,200 @@
+---
+title: "Doucet c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/231815/index.do"
+last_modified: "2017-06-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 102"
+citation2: ""
+neutral_citation: "2017 CCI 102"
+decision_date: "2017-06-01"
+language: "fr"
+item_id: "231815"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2144
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:29:22.793000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "13cfa6c5dee4f2c3c66ab3798161d4fc78d574d8d255f2a807ba86221b36ef51"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Doucet c. M.R.N.
+
+- Citation: 2017 CCI 102
+- Decision date: 2017-06-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2144, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Doucet c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-06-01
+Référence neutre
+2017 CCI 102
+Numéro de dossier
+2015-1477(EI), 2015-1478(CPP)
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dockets: 2015-1477(EI)
+2015-1478(CPP)
+BETWEEN:
+JACQUES DOUCET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on May 1, 2017, at Miramichi, New Brunswick
+Before: The Honourable Justice Robert J. Hogan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sheherazade Ghorashy
+JUDGMENT
+The appeal from the Minister of National Revenue’s decisions dated January 6, 2015 regarding the pensionability and insurability of the Appellant’s alleged employment with Layne O. Godin o/a Godin’s Sea Products is dismissed and the Minister’s determinations are confirmed in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 1st day of June 2017.
+“Robert J. Hogan”
+Hogan J.
+Citation: 2017 TCC 102
+Date: 20170601
+Dockets: 2015-1477(EI)
+2015-1478(CPP)
+BETWEEN:
+JACQUES DOUCET,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Hogan J.
+I. Introduction [1] The Appellant, Jacques Doucet, is appealing determinations made by the Minister of National Revenue (the “Minister”) regarding the pensionability and insurability of his alleged employment with Layne O. Godin (the “Payer”) during the periods from April 11, 2010 to July 3, 2010 and from April 11, 2011 to July 9, 2011.
+[2] In a letter dated January 6, 2015, the Minister informed the Appellant of the following (the “Decision”):
+(a) For the period from April 25, 2011 to April 29, 2011, the Appellant was employed by the Payer under a contract of service and was engaged in pensionable and insurable employment in respect of which he had 40 insurable hours and $600 of insurable earnings; and
+(b) For the periods from April 11, 2010 to July 3, 2010 and from April 11, 2011 to April 24, 2011 and from April 30, 2011 to July 9, 2011 (the “Contested Periods”), the Appellant was not employed by the Payer and was not engaged in pensionable and insurable employment.
+[3] In making her decision, the Minister relied on the following assumptions of fact:
+The Payer:
+(a) the Payer was a sole proprietorship operating under the name of Godin’s Sea Products;
+(b) the Payer registered his business with the Canada Revenue Agency on November 27, 2003;
+(c) the Payer operated from the Payer’s residence at 599 Lorne Road, Lorne, New Brunswick;
+(d) the Payer operated in the fishing industry as a buyer and seller of lobster and crab;
+(e) the Payer fished for lobster in Zone 23 during the spring season;
+(f) in 2010, the spring lobster season in Zone 23 was from April 25 to June 25;
+(g) in 2011, the spring lobster season in Zone 23 was from April 30 to June 30;
+(h) the Payer reported from fishing on his 11 Returns as follows:
+Year
+Gross Fishing Income
+Net Fishing Income
+2007
+$60,477
+$878
+2008
+$22,132
+($1,800)
+2009
+$27,850
+($14,448)
+2010
+$38,732
+($2,572)
+2011
+$34,355
+$17,693
+(i) the Payer did not fish for crab, but purchased crab for resale during crab season which is generally from August to October;
+(j) the Payer also purchased lobster for resale;
+(k) the Payer sold directly to the public out of a road side truck, and he sold to commercial clients;
+(l) the Payer reported income from business on his T1 Returns as follows:
+Year
+Gross Business Income
+Net Business Income
+2007
+$556,126
+$2,492
+2008
+$503,357
+$4,437
+2009
+$577,494
+$3,909
+2010
+$295,660
+$1,850
+2011
+$159,594
+$2,827
+(m) in 2010, the Payer issued T4 slips to 19 workers;
+(n) in 2011, the Payer issued T4 slips to 15 workers;
+(o) the Payer paid his workers in cash;
+(p) the Payer has known the Appellant for at least 25 years;
+(q) the Payer and the Appellant are not related;
+The Worker:
+(a) the Appellant did not provide any services to the Payer;
+(b) the Appellant did not receive any remuneration from the Payer;
+(c) the Appellant operated his own fish market called Doucet’s Fish Market (“Doucet’s”) in the yard of his residence at Pointe la Nim, New Brunswick;
+(d) the Appellant sold lobster and clams;
+(e) the Appellant did not own fish tanks to store the lobster;
+(f) the Appellant purchased stock for his market mainly from Arseneau Fish Market and Labillois Lobster;
+(g) the Appellant went to Labillois Lobster for forty-three of the days during the Period, once or twice a day, to order and take delivery of stock for sale in his own fish market; and
+(h) the Appellant was a competitor of the Payer.
+II. Issue [4] The sole issue in this appeal is whether the Appellant was employed in pensionable and insurable employment with the Payer during the Contested Periods.
+III. Analysis [5] The evidence shows that an investigation of the Payer’s activities as an employer began in 2009. At that time, the Payer was suspected of issuing falsified records of employment for the purpose of qualifying individuals for employment insurance benefits they were not entitled to receive. The Payer was ultimately convicted of an offence in that regard. In some cases the individuals listed as employees in the Payer’s falsified records of employment had provided no services to the Payer. In other cases, the number of hours worked and the employment income received by the individuals were overstated.
+[6] My colleague Justice Favreau rendered a judgment in an appeal brought by the Payer with respect to individuals who were found either not to have been employed by the Payer for the 2007, 2008 and 2009 crab and lobster season or not to have worked the hours indicated on the records of employment of the Payer.[1] In that case, Justice Favreau concluded that Mr. Doucet was not employed by the Payer during the lobster season in each of those years.
+[7] I arrive at a similar conclusion with respect to the Appellant’s status during the Contested Periods. The Appellant, admitted that he operated a retail lobster outlet during the Contested Periods. On cross examination, his answers were evasive as to the duties he performed for the Payer during the Contested Periods. He called no witnesses to corroborate his allegation that he was employed by the Payer during the Contested Periods. The evidence shows that the Payer did have a few actual employees during the Contested Periods. I draw a negative inference from the fact that the Appellant chose not to call any of them as witnesses to confirm his testimony. In addition, the Appellant appeared to suffer from convenient lapses in memory. As a result, I did not find the Appellant to be a credible and reliable witness.
+[8] For all of these reasons, the Appellant’s appeal is dismissed and the Minister’s determinations are confirmed.
+Signed at Ottawa, Canada, this 1st day of June 2017.
+“Robert J. Hogan”
+Hogan J.
+CITATION:
+2017 TCC 102
+COURT FILE NO.:
+2015-1477(EI)
+2015-1478(CPP)
+STYLE OF CAUSE:
+JACQUES DOUCET v. M.N.R.
+PLACE OF HEARING:
+Miramichi, New Brunswick
+DATE OF HEARING:
+May 1, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Robert J. Hogan
+DATE OF JUDGMENT:
+June 1, 2017
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Sheherazade Ghorashy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1]Layne O. Godin o/a Godin’s Sea Products et al. v. Minister of National Revenue, 2016 TCC 88.

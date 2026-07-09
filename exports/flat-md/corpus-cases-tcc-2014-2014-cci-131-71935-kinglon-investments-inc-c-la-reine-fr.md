@@ -1,0 +1,251 @@
+---
+title: "Kinglon Investments Inc.  c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71935/index.do"
+last_modified: "2014-05-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 131"
+citation2: ""
+neutral_citation: "2014 CCI 131"
+decision_date: "2014-05-05"
+language: "fr"
+item_id: "71935"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5395
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:58:49.113000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f2ffb96143178a5fd22929da03d913272ea20e7df0337be986ad5fe4707cce34"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kinglon Investments Inc.  c. La Reine
+
+- Citation: 2014 CCI 131
+- Decision date: 2014-05-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5395, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kinglon Investments Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-05
+Référence neutre
+2014 CCI 131
+Numéro de dossier
+2013-770(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-770(IT)G
+ENTRE :
+KINGLON INVESTMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête entendue le 14 avril 2014, à Toronto (Ontario).
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Avocats de l’appelante :
+Mes Peter Aprile et Yoni Moussadji
+Avocat de l’intimée :
+Me Laurent M. Bartleman
+ORDONNANCE
+La requête de l’appelante est accueillie. Par la présente, les parties suivantes de la réponse sont radiées :
+a) l’expression [traduction] « le contrat de licence fondé sur les déclarations ou annonces de son comptable et de son avocat qui ont négocié les modalités du contrat de licence : », au paragraphe 1;
+b) l’expression [traduction] « était un abri fiscal non inscrit; », au paragraphe 2;
+c) les alinéas 13t) à z) et bbb) à hhh);
+d) l’alinéa 15i);
+e) la référence à l’article « 237.1 », au paragraphe 16;
+f) le paragraphe 17;
+g) les titres [traduction] « Les revenus qui doivent faire l’objet d’un abri fiscal », [traduction] « Le contexte de l’abri fiscal », [traduction] « Jackes acquiert l’abri fiscal », [traduction] « La licence était un abri fiscal » et [traduction] « Abri fiscal ».
+L’intimée dispose de 30 jours à compter de la date de la présente ordonnance pour signifier et déposer une réponse modifiée.
+Des dépens de 3 000 $ sont adjugés à l’appelante relativement à la présente requête.
+Signé à Ottawa, Canada, ce 5e jour de mai 2014.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 18e jour d’août 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2014 CCI 131
+Date : 20140505
+Dossier : 2013-770(IT)G
+ENTRE :
+KINGLON INVESTMENTS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Graham
+[1] Kinglon Investments Inc. est une société ontarienne qui a été constituée par la fusion d’une société portant le même nom avec une société appelée Jackes Holdings Inc[1]. Richard Sommers est l’actionnaire détenant le contrôle de Kinglon. Dans le calcul de son revenu pour les années d’imposition qui ont pris fin le 31 août 2006, le 31 octobre 2006, le 31 août 2007, le 31 août 2008, le 31 août 2009 et le 31 août 2010, Kinglon a demandé des déductions pour amortissement (les « DPA ») s’élevant à 12 millions de dollars à l’égard d’une licence qu’elle avait achetée de Cardiopharma Inc. en vue de commercialiser un médicament pour le cœur appelé CardiaPill[2]. Le ministre du Revenu national a refusé la totalité des DPA pour plusieurs raisons. Une de ces raisons était que le ministre croyait que la licence était un abri fiscal non inscrit. Kinglon a présenté, au titre de l’alinéa 53(1)d) des Règles de la Cour canadienne de l’impôt (procédure générale), une requête en radiation de diverses parties de la réponse ayant trait à la question de savoir si une licence est un abri fiscal
+Le critère relatif à la radiation d’un acte de procédure
+[2] La Cour suprême du Canada a défini le critère relatif à la radiation d’un acte de procédure dans l’arrêt R. c. Imperial Tobacco Canada Ltée, 2011 CSC 42, au paragraphe 17 :
+[…] [L]’action ne sera rejetée que s’il est évident et manifeste, dans l’hypothèse où les faits allégués seraient avérés, que la déclaration ne révèle aucune cause d’action raisonnable : Succession Odhavji c. Woodhouse, 2003 CSC 69, [2003] 3 R.C.S. 263, par. 15; Hunt c. Carey Canada Inc., [1990] 2 R.C.S. 959, p. 980. Autrement dit, la demande doit n’avoir aucune possibilité raisonnable d’être accueillie. Sinon, il faut lui laisser suivre son cours : voir généralement Syl Apps Secure Treatment Centre c. B.D., 2007 CSC 38, [2007] 3 R.C.S. 83; Succession Odhavji; Hunt; Procureur général du Canada c. Inuit Tapirisat of Canada, [1980] 2 R.C.S. 735.
+Les thèses des parties
+[3] Kinglon fait valoir que, même si les faits allégués dans la réponse étaient réputés vrais, il n’en demeurerait pas moins évident et manifeste qu’aucun abri fiscal ne pouvait exister, et que, par conséquent, les parties de la réponse relatives à l’argument de l’abri fiscal devraient être radiées. L’intimée a adopté l’avis contraire. À titre subsidiaire, l’intimée a demandé l’autorisation de modifier la réponse. Kinglon s’oppose à ce que l’intimée se voie accorder une telle autorisation.
+L’abri fiscal
+[4] Le terme « abri fiscal » est défini au paragraphe 237.1(1) de la Loi de l’impôt sur le revenu (la « Loi »). Les parties pertinentes de cette définition sont ainsi libellées :
+« abri fiscal »
+[…]
+b) […] bien (y compris le droit à un revenu) […] pour lequel il est raisonnable de considérer, compte tenu de déclarations ou d’annonces faites ou envisagées relativement […] au bien, que, si une personne devait […] acquérir une part dans le bien, le montant visé au sous-alinéa (i) serait, à la fin d’une année d’imposition qui se termine dans les quatre ans suivant le jour où […] la part [est] acquise, égal ou supérieur au montant visé au sous-alinéa (ii) :
+(i) le total des montants représentant chacun :
+(A) un montant […] annoncé comme étant déductible dans le calcul du revenu de la personne pour l’année ou pour une année d’imposition antérieure au titre de […] la part dans le bien […]
+[…]
+(ii) […]
+(A) le coût, pour la personne, […] de la part dans le bien à la fin de l’année, […]
+[Non souligné dans l’original.]
+[5] Cette définition est constituée d’un certain nombre d’éléments. Kinglon accepte le fait que l’intimée a allégué suffisamment de faits qui, s’ils étaient réputés vrais, pourraient étayer une conclusion selon laquelle il a été satisfait à tous les éléments de la définition, à une exception près. Selon Kinglon, l’élément ne reposant sur rien découle de l’expression « compte tenu de déclarations ou d’annonces faites ou envisagées relativement […] au bien ». Les parties font toutes deux valoir que la Cour d’appel fédérale a clarifié le sens de cette expression dans l’arrêt Canada c. Baxter, 2007 CAF 172[3]. Toutefois, les parties ne s’entendent pas au sujet de la manière dont la Cour d’appel fédérale a clarifié le critère.
+[6] L’avocat de l’appelante m’a renvoyé au paragraphe 9 de l’arrêt Baxter, lequel est ainsi rédigé :
+La définition exige que des déclarations ou annonces soient faites à un moment donné relativement au bien offert en vente. En l’absence de ces déclarations ou annonces, le bien ne peut constituer un abri fiscal. Puisque le bien visé par la définition d’abri fiscal est un bien qui est présumé avoir été acquis par l’acquéreur éventuel et que des déclarations ou annonces doivent avoir été faites relativement à ce bien, les déclarations ou annonces doivent avoir été faites avant la conclusion de la vente. De plus, la définition ne précise pas qui doit faire les déclarations ou annonces ni à qui celles‑ci doivent être faites, mais je suis d’avis qu’elles doivent être faites aux acquéreurs éventuels du bien par la personne qui propose de le vendre ou une personne agissant en son nom.
+[Non souligné dans l’original.]
+[7] Kinglon fait valoir que le passage reproduit ci‑dessus établit clairement que, pour qu’un abri fiscal existe, il ne suffit pas de faire des déclarations ou des annonces; celles‑ci doivent avoir été faites par le vendeur du bien ou pour le compte de celui‑ci. Kinglon soutient qu’il est évident et manifeste que les faits allégués dans la réponse ne peuvent pas étayer une conclusion selon laquelle des déclarations ou des annonces ont été faites par Cardiopharma ou pour le compte de celle‑ci.
+[8] L’avocat de l’intimée m’a renvoyé au paragraphe 44 de l’arrêt Baxter :
+Bien que ni les parties à l’appel ni la CCI dans sa décision ne se soient pas beaucoup attardées à la question de l’identité de la personne qui doit avoir fait les déclarations ou annonces, il serait raisonnable à mon avis de conclure que ce doit être chaque personne qui est un promoteur au sens du paragraphe 237.1(1) (promoteur).
+[9] L’intimée fait valoir que le paragraphe 44 de l’arrêt Baxter importe la définition de « promoteur » dans la définition d’« abri fiscal ». Ainsi, l’intimée fait valoir que, aussi longtemps que les déclarations ou les annonces ont été faites par une personne répondant à la définition de « promoteur », un abri fiscal existe.
+[10] Au paragraphe 237.1(1) de la Loi, le terme « promoteur » est ainsi défini :
+« promoteur » Personne qui, quant à un abri fiscal et dans le cours des activités d’une entreprise :
+a) émet ou vend l’abri fiscal ou fait la promotion de son émission, de sa vente ou de son acquisition;
+b) agit, à titre de mandataire ou de conseiller, en ce qui concerne l’émission ou la vente de l’abri fiscal ou la promotion de son émission, de sa vente ou de son acquisition;
+c) accepte, à titre de principal ou de mandataire, une contrepartie relativement à l’abri fiscal.
+Au même abri fiscal peuvent correspondre plus d’un promoteur d’abris fiscaux.
+[11] L’intimée fait valoir que les faits énoncés dans la réponse peuvent étayer une conclusion selon laquelle des déclarations ou des annonces ont été faites par un « promoteur ».
+Les questions en litige
+[12] Selon moi, Kinglon essaie de concentrer en une même question ce qui devrait être deux questions distinctes. Kinglon adopte une interprétation de la loi différente de celle de l’intimée, et elle applique ensuite les hypothèses de fait contenues dans la réponse à sa propre interprétation de la loi pour tirer une conclusion selon laquelle l’intimée, en ce qui concerne la position qu’elle a adoptée à l’égard de la question de l’abri fiscal, n’a aucune chance raisonnable d’avoir gain de cause.
+[13] Dans le contexte d’une requête en radiation, le rôle de la Cour ne consiste pas, comme Kinglon voudrait que je l’accepte, à décider quelle partie interprète correctement la loi. Il consiste plutôt à établir si, en ce qui concerne l’interprétation de la loi qu’elle a adoptée, la partie à l’encontre de laquelle la requête a été présentée a des chances raisonnables d’avoir gain de cause si on tient pour acquis que les faits qui ont été allégués soient vrais. Le paragraphe 21 de l’arrêt Imperial Tobacco est ainsi rédigé :
+[…] Par conséquent, le fait qu’une action en particulier n’a pas encore été reconnue en droit n’est pas déterminant pour la requête en radiation. Le tribunal doit plutôt se demander si, dans l’hypothèse où les faits allégués seraient avérés, il est raisonnablement possible que l’action soit accueillie. L’approche doit être généreuse et permettre, dans la mesure du possible, l’instruction de toute demande inédite, mais soutenable.
+[14] Toutefois, dans le cas de Kinglon, la tâche de la Cour se trouve quelque peu compliquée par le fait qu’il se peut que l’intimée n’ait pas allégué suffisamment de faits pour étayer sa propre interprétation de la loi. Le seul moyen pratique de circonscrire les questions en litige est par conséquent le suivant :
+a) L’intimée a‑t‑elle des chances raisonnables de convaincre la Cour que l’interprétation de la loi qu’elle a adoptée à l’égard de la question de l’abri fiscal est juste?
+b) Le cas échéant, si on devait tenir pour acquis que les faits allégués dans la réponse soient exacts, l’intimée aurait‑elle des chances raisonnables d’avoir gain de cause à l’égard de la question de l’abri fiscal?
+c) Dans le cas contraire, l’intimée devrait-elle avoir le droit de modifier la réponse?
+L’intimée a‑t‑elle des chances raisonnables de convaincre la Cour que l’interprétation de la loi qu’elle a adoptée est juste?
+[15] Comme il a été décrit ci‑dessus, l’intimée se fonde sur le paragraphe 44 de l’arrêt Baxter pour alléguer que la personne qui doit faire les déclarations ou les annonces est le « promoteur » de l’abri fiscal. Je suis d’avis qu’il n’est pas évident et manifeste que l’intimée n’a aucune chance d’avoir gain de cause en adoptant une telle interprétation de la loi. Il existe, à tout le moins, une apparence de conflit entre les paragraphes 9 et 44 de l’arrêt Baxter. Le paragraphe 9 donne à entendre que la déclaration ou l’annonce doit être faite par le vendeur ou pour le compte de celui‑ci, alors que le paragraphe 44 donne à entendre qu’il existe une catégorie potentiellement plus large de personnes susceptibles d’avoir fait la déclaration ou l’annonce[4]. Les premiers mots du paragraphe 44 donnent à entendre qu’il se peut que la question n’ait pas été entièrement débattue devant la Cour. On pourrait soutenir que l’ambiguïté possible se trouve amplifiée par le paragraphe 41, qui est ainsi rédigé :
+La première partie de la définition d’abri fiscal exige que les déclarations ou annonces soient faites relativement au bien. La définition ne précise toutefois ni l’identité de la personne qui doit faire les déclarations ou annonces ni celle de la personne à qui elles doivent être faites. On ne sait pas si cette apparente imprécision était délibérée. Ce qui est certain, c’est qu’un bien ne peut pas constituer un abri fiscal à moins que des déclarations ou annonces du type requis par la définition d’abri fiscal aient été faites à un moment quelconque relativement au bien.
+[Non souligné dans l’original.]
+[16] Les parties conviennent du fait que, dans le cas de Kinglon, les déclarations ou les annonces en cause ont été faites par un comptable ou un avocat. Il semble qu’une de ces personnes, ou les deux, agissaient pour le compte de Kinglon à l’époque. Il se peut qu’une de ces personnes, ou les deux, aient agi pour le compte de Cardiopharma, que ce soit exclusivement ou en plus d’agir pour le compte de Kinglon.
+[17] Compte tenu de ce qui précède, à ce stade de la procédure, je ne suis pas prêt à exclure la possibilité qu’un juge de la Cour, après avoir entendu tous les témoignages, puisse raisonnablement tirer une des conclusions suivantes :
+a) un abri fiscal peut exister peu importe la personne qui fait les déclarations ou les annonces, pourvu que celles‑ci soient faites au contribuable;
+b) un abri fiscal peut exister dans le cas où une personne agissant tant pour le compte du contribuable que pour celui du vendeur fait des déclarations ou des annonces au contribuable;
+c) un abri fiscal peut exister dans le cas où une personne, agissant uniquement pour le compte du contribuable, met au point une opération qui aura l’effet souhaité, s’arrange ensuite pour qu’un vendeur prenne part à l’opération, et fait finalement des déclarations ou des annonces au contribuable.
+[18] Pour être clair, je n’approuve aucune des interprétations précédemment décrites. Je déclare simplement qu’il s’agit d’interprétations qu’un juge de la Cour pourrait adopter et qu’il n’est pas évident et manifeste que l’intimée ne peut pas avoir gain de cause en ce qui concerne son interprétation de la loi.
+L’intimée a‑t‑elle des chances raisonnables d’avoir gain de cause à l’égard des faits, tels qu’ils ont été allégués?
+[19] Ayant conclu que l’intimée avait des chances raisonnables d’avoir gain de cause en ce qui concerne l’interprétation de la loi qu’elle a adoptée, je dois maintenant me pencher sur la question de savoir si, au cas où les faits allégués dans la réponse étaient réputés vrais, l’intimée aurait toujours des chances raisonnables d’avoir gain de cause. Les faits pertinents sont extraits des alinéas suivants du paragraphe 13 de la réponse :
+[traduction]
+t) Cardiopharma a retenu les services de BeachHead Capital Partners Inc. (BeachHead) pour l’aider à recueillir des fonds.
+u) BeachHead est une société dont le siège social se trouve à Northport, dans l’État de New York, et qui se décrit elle‑même comme une société d’experts‑conseils nord‑américaine spécialisée dans le financement structuré et les opérations dans le domaine des sciences et des technologies.
+v) BeachHead était une agence commerciale au service de Cardiopharma.
+w) BeachHead a contacté Jay Granatstein, comptable de profession, en vue de lui demander son aide pour recueillir des fonds pour Cardiopharma.
+x) M. Granatstein était le comptable de Jackes et de M. Sommers.
+y) M. Granatstein a contacté David Rotfleisch, avocat de M. Sommers, pour lui parler des possibilités que BeachHead lui avait offertes.
+z) M. Granastein [sic] et Me Rotfleisch, seuls ou avec d’autres personnes, ont structuré et mis en place une opération au terme de laquelle Jackes a acquis auprès de Cardiopharma une licence relative au médicament CardiaPill, ce qui a permis à Jackes de demander des déductions fiscales et de déclarer une perte fiscale pour son année d’imposition qui a pris fin le 31 août 2006.
+bbb) Me Rotfleisch et/ou M. Granastein [sic] ont fait des déclarations ou des annonces à M. Sommers, administrateur et unique actionnaire de Jackes, en sa qualité d’acquéreur éventuel, selon lesquelles :
+1. le fait d’acquérir la licence donnerait à Jackes le droit de déduire de son revenu des pertes ou d’autres sommes, dont le montant total, dans les quatre années suivant la date d’acquisition de la licence, serait égal ou supérieur au coût de la participation acquise par Jackes avec la licence;
+2. la licence était un bien de catégorie 44;
+3. Jackes pourrait demander des DPA au titre des sommes dépensées pour acquérir la licence (les « DPA au titre de la licence »);
+4. Jackes pourrait demander les DPA au titre de la licence, à raison de 25 % par année, sous réserve de la règle de la demi‑année, selon la méthode de l’amortissement dégressif à taux constant.
+ccc) Les déclarations que M. Granastein [sic] a faites auprès de M. Sommers et de Me Rotfleisch comprenaient la préparation de déclarations de revenus pro forma pour Jackes relativement à l’acquisition par cette dernière de la licence.
+ddd) Me Rotfleisch et/ou M. Granatstein ont fait les déclarations ou les annonces dont il est question ci‑dessus à M. Sommers dans le contexte de l’exploitation de leur entreprise, et par le fait même, ils ont fait la promotion de la licence auprès de Jackes et ont conseillé à cette dernière d’acquérir la licence aux termes de [traduction] l’« [entente de licence exclusive (« ELE »)] pour les DPA afférentes.
+eee) Me Rotfleisch et M. Granatstein ont été payés ou ont par ailleurs reçu une contrepartie au titre de l’acquisition par Jackes de la licence aux termes de l’ELE.
+fff) Aucune demande n’a été présentée au ministre en vue d’obtenir un numéro d’inscription d’abri fiscal à l’égard de la licence.
+ggg) Le ministre n’a pas délivré de numéro d’inscription d’abri fiscal à l’égard de la licence.
+hhh) Ni Jackes ni Kinglon n’a présenté au ministre le formulaire prescrit contenant les renseignements requis, y compris le numéro d’inscription d’abri fiscal à l’égard de la licence.
+[20] Les hypothèses de fait reproduites ci‑dessus tournent autour de la question de savoir pour le compte de qui ces déclarations ou ces annonces ont été faites. Dans la réponse, il n’est nulle part clairement mentionné que les déclarations ou les annonces ont été faites pour le compte de Kinglon ou qu’elles ont été faites pour le compte de Cardiopharma. On y donne à entendre qu’il y avait un lien partant de Cardiopharma qui s’étendait à BeachHead, à M. Granatstein et à Me Rotfleisch, mais il n’y est pas dit que M. Granatstein et/ou Me Rotfleisch ont fait des déclarations ou des annonces pour le compte de Cardiopharma. Dans la réponse, le ministre précise que M. Granatstein était le comptable de Kinglon et de M. Sommers et que Me Rotfleisch était l’avocat de M. Sommers, et il affirme que ce sont eux qui ont structuré et organisé l’opération, mais le ministre ne dit pas qu’ils ont agi ainsi pour le compte de Kinglon ou qu’ils ont fait les déclarations ou les annonces en cause pour le compte de Kinglon.
+[21] Il semble que l’intimée ait rédigé la réponse avec l’intention de satisfaire à la définition de « promoteur », au cas où cela s’avérerait nécessaire, sans vraiment s’attarder sur un aspect précis de la définition. Par exemple, l’intimée a prétendu que M. Granatstein et/ou Me Rotfleisch avaient fait les déclarations ou les annonces dans le contexte des activités d’une entreprise, mais elle n’a pas précisé la nature de cette entreprise[5]. De même, l’intimée a allégué que M. Granatstein et M. Rotfleisch avaient reçu une contrepartie, mais sans en préciser l’origine[6].
+[22] L’absence de précision dans cette allégation n’était pas fortuite. L’avocat de l’intimée admet que sa cliente s’est [traduction] « délibérément montrée évasive » dans la réponse. Lors de l’audition de la requête, l’avocat de l’intimée était toujours réticent à confirmer que la thèse de sa cliente était que les déclarations ou les annonces avaient été faites pour le compte de Cardiopharma ou de Kinglon. L’avocat de Kinglon a laissé entendre que l’intimée essayait d’adopter un profil bas jusqu’à la tenue des interrogatoires préalables afin de voir les éléments de preuve susceptibles d’émerger et d’étayer ses diverses théories à l’égard de l’affaire. Je conviens du fait que l’intimée semble agir en ce sens.
+[23] On peut lire ce qui suit au paragraphe 22 de l’arrêt Imperial Tobacco :
+[…] Il incombe au demandeur de plaider clairement les faits sur lesquels il fonde sa demande. Un demandeur ne peut compter sur la possibilité que de nouveaux faits apparaissent au fur et à mesure que l’instruction progresse. Il peut arriver que le demandeur ne soit pas en mesure de prouver les faits plaidés au moment de la requête. Il peut seulement espérer qu’il sera en mesure de les prouver. Il doit cependant les plaider. Les faits allégués sont le fondement solide en fonction duquel doit être évaluée la possibilité que la demande soit accueillie. S’ils ne sont pas allégués, l’exercice ne peut pas être exécuté adéquatement.
+[24] Je comprends que la relation qui unit M. Granatstein, Me Rotfleisch, Cardiopharma et Kinglon relève de la connaissance exclusive de Kinglon et qu’il peut par conséquent s’avérer difficile pour le ministre de qualifier cette relation avec certitude, mais c’est pour cette raison que le ministre a le pouvoir de formuler des hypothèses de fait quand il établit des cotisations à l’égard des contribuables.
+[25] Vu que l’intimée n’a pas allégué les faits spécifiques qui étaient requis pour montrer pour le compte de qui les déclarations ou les annonces ont été faites, je n’ai pas d’autre choix que de radier les parties de la réponse ayant trait à l’argument de l’abri fiscal. Même si je tiens pour acquis que les faits allégués sont vrais, je ne dispose pas de suffisamment d’éléments de preuve pour établir que la licence était un abri fiscal, même selon la large interprétation de la loi adoptée par l’intimée.
+La demande d’autorisation de modifier la réponse
+[26] L’intimée a demandé, dans le cas où la requête de Kinglon serait accueillie, à disposer de 30 jours pour signifier et produire une réponse modifiée. L’instance n’en est qu’à ses débuts, et il est difficile d’imaginer comment le fait d’autoriser une telle modification porterait préjudice à Kinglon de telle sorte qu’il serait impossible de l’indemniser au moment de l’adjudication des dépens dans le contexte de la présente requête. Kinglon fait valoir qu’elle ne subira aucun préjudice par suite de la modification par l’intimée de la réponse pourvu que l’intimée n’y ajoute pas de nouvelles hypothèses de fait. Pour les motifs décrits plus en détail ci‑dessous, je ne crois pas que j’ajout de nouvelles hypothèses de fait porterait préjudice à Kinglon. Par conséquent, j’autoriserai l’intimée à signifier et à produire une réponse modifiée.
+Commentaires relatifs aux modifications potentielles
+[27] J’aimerais me pencher sur certains problèmes susceptibles de survenir dans le contexte de la modification de la réponse. J’espère ainsi diminuer les possibilités que la présente affaire ne donne lieu à d’autres différends procéduraux. Mes commentaires ne lient pas l’intimée.
+a) Les hypothèses de fait : Dans une réponse modifiée, il conviendra de préciser clairement les faits requis pour étayer l’interprétation que l’intimée fait de la loi. Dans la mesure où l’intimée souhaite invoquer des motifs subsidiaires pour étayer la cotisation, elle devra aussi clairement préciser les faits requis pour appuyer ces motifs subsidiaires. Au moment de plaider les faits, l’intimée devra établir s’il est approprié de les plaider à titre d’hypothèses de fait ou à titre de faits additionnels. Kinglon s’inquiète du fait qu’il est possible que l’intimée finisse par plaider des hypothèses de fait que le ministre n’aurait pas avancées. Je ne partage pas cette inquiétude. Un appelant peut renverser les hypothèses de fait du ministre en les réfutant ou en démontrant que le ministre ne les a pas vraiment formulées (Canada c. Loewen, 2004 CAF 146). En prenant le parti d’être évasive dans la réponse, l’intimée se trouve à faciliter la tâche de Kinglon pour ce qui est de convaincre un juge que le ministre n’a pas, en fait, allégué une hypothèse de fait donnée apparaissant pour la première fois dans la réponse modifiée. L’intimée sait quelle est la nature exacte des hypothèses formulées par le ministre et on peut présumer qu’elle rédigera la réponse modifiée en conséquence, tout en gardant à l’esprit l’existence du risque accru précédemment décrit.
+b) « Promoteur » : La définition de « promoteur » est complexe et rend possible un certain nombre de combinaisons. Dans la mesure où l’intimée souhaite se fonder sur un ou plusieurs aspects de la définition de « promoteur », je m’attends à ce que celle‑ci garde à l’esprit les commentaires que la Cour d’appel fédérale a formulés dans l’arrêt O’Dwyer, aux paragraphes 26, 27 et 31 :
+[26] […] La pénalité prévue au paragraphe 237.1(7.4) de la Loi est imposée si une personne émet ou vend un abri fiscal, ou accepte une contrepartie relativement à un abri fiscal, à titre de principal ou de mandataire, avant l’attribution d’un numéro d’inscription. Dans la réponse (au paragraphe 18), les dispositions du paragraphe 237.1(7.4) de la Loi sont reprises sans préciser le rôle que Thomas O’Dwyer aurait joué :
+[traduction]
+18. Une pénalité est imposée à l’appelant comme le prévoit le paragraphe 237.1(7.4) de la Loi parce qu’il a agi, à titre de principal ou de mandataire, pour émettre ou vendre l’abri fiscal SRLP, ou accepter une contrepartie relativement à l’abri fiscal SRLP, avant que le ministre attribue un numéro d’inscription d’abri fiscal.
+[27] Toutes les combinaisons possibles énumérées au paragraphe 237.1(7.4) de la Loi sont mentionnées. La raison pour laquelle la pénalité a été imposée n’est pas indiquée clairement. [...]
+[…]
+[31] Pour indiquer le fondement sur lequel repose l’imposition de la pénalité, le ministre devrait clairement énoncer le rôle que Thomas O’Dwyer aurait joué et ne pas simplement reprendre toutes les combinaisons possibles qui respecteraient les conditions prévues par la loi pour imposer la pénalité. Tout contribuable à qui une pénalité a été imposée devrait en connaître la raison. La simple répétition des diverses combinaisons de possibilités qui pourraient donner lieu à l’imposition de la pénalité n’indique pas au contribuable l’action précise (qui entraînerait l’imposition de la pénalité) qu’il aurait commise.
+c) Les motifs : Le paragraphe 17 de la réponse, dans son libellé actuel, fait simplement référence à la licence comme à un [traduction] « abri fiscal ». La définition d’« abri fiscal » est large est complexe. Je m’attends au minimum à ce que, dans la réponse modifiée, l’intimée précise la raison et, dans la mesure où cela s’avère pertinent, toute autre raison pour laquelle l’intimée croit que la licence tombe sous le coup de cette définition.
+Conclusion
+[28] Compte tenu de tout ce qui précède, la requête de Kinglon est accueillie. Les parties suivantes de la réponse sont radiées :
+a) l’expression [traduction] « le contrat de licence fondé sur les déclarations ou annonces de son comptable et de son avocat qui ont négocié les modalités du contrat de licence : », au paragraphe 1[7];
+b) l’expression [traduction] « était un abri fiscal non inscrit; », au paragraphe 2;
+c) les alinéas 13t) à z) et bbb) à hhh);
+d) l’alinéa 15i);
+e) la référence à l’article « 237.1 », au paragraphe 16;
+f) le paragraphe 17;
+g) les titres [traduction] « Les revenus qui doivent faire l’objet d’un abri fiscal », [traduction] « Le contexte de l’abri fiscal », [traduction] « Jackes acquiert l’abri fiscal », [traduction] « La licence était un abri fiscal » et [traduction] « Abri fiscal ».
+[29] L’intimée dispose de 30 jours à compter de la date de la présente ordonnance pour signifier et déposer une réponse modifiée.
+Les dépens
+[30] En ce qui a trait à l’adjudication des dépens, je tiens compte non seulement du fait que Kinglon a eu gain de cause dans le contexte de la présente requête, mais, ce qui est plus important encore, du fait que l’intimée a fait le choix délibéré de rédiger la réponse de manière évasive et de se refuser à prendre position à l’égard des faits. Le ministre dispose d’un avantage certain dans les litiges fiscaux, du fait de sa capacité à alléguer des hypothèses de fait. Cet avantage s’accompagne de la responsabilité consistant à s’assurer « […] que les faits allégués comme hypothèses soient complets, précis, exacts et énoncés de façon honnête et franche afin que le contribuable sache bien clairement ce qu’il devra prouver[8] ». L’intimée n’a clairement pas assumé cette responsabilité en l’espèce. Dans les circonstances, il ne me semble pas qu’il soit approprié d’adjuger les dépens prévus par le tarif. Par conséquent, j’adjuge à Kinglon des dépens de 3 000 $.
+Signé à Ottawa, Canada, ce 5e jour de mai 2014.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 18e jour d’août 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2014 CCI 131
+NO DU DOSSIER DE LA COUR :
+2013-770(IT)G
+INTITULÉ :
+Kinglon Investments Inc. c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 14 avril 2014
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Graham
+DATE DE L’ORDONNANCE :
+Le 5 mai 2014
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Peter Aprile et Me Yoni Moussadji
+Avocat de l’intimée :
+Me Laurent M. Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Noms :
+Peter Aprile et Yoni Moussadji
+Cabinet :
+ATX Tax Law, Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] La fusion a eu lieu pendant les périodes en cause. Pour simplifier, je ferai référence tant aux sociétés telles qu’elles existaient avant la fusion qu’à la société issue de la fusion sous l’appellation « Kinglon », vu que ce point n’a aucune incidence sur le reste de l’affaire.
+[2] Le motif subsidiaire que l’intimée a avancé pour justifier la nouvelle cotisation est qu’aucun achat n’a en fait été effectué. Dans les présents motifs, j’ai choisi de faire référence à l’achat en cause comme s’il avait bien été effectué. Je n’ai fait cela que par souci de commodité. Cela ne doit pas être interprété comme une conclusion de fait.
+[3] La demande d’autorisation d’interjeter appel a été refusée : 2007 CarswellNat 3625
+[4] Je reconnais que, dans l’arrêt Canada c. O’Dwyer, 2013 CAF 200, la Cour d’appel fédérale cite en l’approuvant le paragraphe 9 de l’arrêt Baxter dans le contexte de l’examen d’une requête en radiation d’une réponse relative à un abri fiscal. Toutefois, la Cour d’appel fédérale s’est prononcée dans le contexte de la question de savoir quels renseignements les déclarations ou les annonces devaient contenir, et non pour le compte de qui ces déclarations ou ces annonces doivent avoir été faites. Par conséquent, l’arrêt O’Dwyer ne clarifie en rien l’arrêt Baxter.
+[5] Alinéa 13ddd) de la réponse.
+[6] Alinéa 13eee) de la réponse.
+[7] En dépit de la requête en radiation de Kinglon, je n’ai pas radié les mots « Jackes a acquis » qui figurent en début de phrase étant donné que les parties de la phrase non radiées perdraient leur sens sans ces mots.
+[8] Canada c. Anchor Pointe Energy Ltd., 2007 CAF 188, au paragraphe 29.

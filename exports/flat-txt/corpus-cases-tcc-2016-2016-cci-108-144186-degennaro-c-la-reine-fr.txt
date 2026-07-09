@@ -1,0 +1,621 @@
+Title: DeGennaro c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/144186/index.do
+Corpus path: corpus/cases/tcc/2016/2016-cci-108-144186-degennaro-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2016-05-02
+
+# DeGennaro c. La Reine
+
+- Citation: 2016 CCI 108
+- Decision date: 2016-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3079, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DeGennaro c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2016-05-02
+Référence neutre
+2016 CCI 108
+Numéro de dossier
+2012-3273(IT)G
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3273(IT)G
+ENTRE :
+GEORGE DE GENNARO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 29 janvier 2016, à Toronto (Ontario)
+Devant : L’honorable juge John R. Owen
+Comparutions :
+Avocats de l’appelant
+Me Peter Aprile
+Me Yoni Moussadji
+Avocate de l’intimée :
+Me H. Annette Evans
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu relativement à l’année d’imposition 2008, au moyen d’un avis daté du 24 mars 2011, est rejeté avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 2e jour de mai 2016.
+« J. R. Owen »
+Juge Owen
+Traduction certifiée conforme
+ce 28e jour d’avril 2017.
+Mario Lagacé, jurilinguiste
+Référence : 2016 CCI 108
+Date : 20160502
+Dossier : 2012-3273(IT)G
+ENTRE :
+GEORGE DE GENNARO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Owen
+[1] Il s’agit d’un appel interjeté par George De Gennaro à l’encontre de la nouvelle cotisation visant son année d’imposition 2008 par avis daté du 24 mars 2011, (la « nouvelle cotisation »). Au moyen de la nouvelle cotisation, le ministre du Revenu national (le « ministre ») a rejeté une perte de 696 134 $ (la « perte sur rajustement ») déclarée par M. De Gennaro dans une demande de redressement de TI qu’il a produite pour son année d’imposition 2008 (la « demande de redressement de 2008 ») et a imposé une pénalité en vertu du paragraphe 163(2) de la Loi de l’impôt sur le revenu (la « LIR ») de 100 939,70 $ (la « pénalité »).
+[2] L’appelant n’a pas assisté à l’audience en personne, mais était représenté par ses avocats. L’appelant n’a pas été cité à comparaître par l’intimée en tant que témoin, donc il n’était certainement pas obligé d’y assister. En raison de l’absence de l’appelant, l’intimée ne pouvait pas invoquer les paragraphes 146(2) et (3) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles ») pour appeler et contre-interroger l’appelant.
+[3] Le seul témoin de l’intimée était M. Suleman, qui est l’agent des litiges de l’Agence du revenu du Canada (« ARC ») chargé de l’appel de l’appelant. M. Suleman n’avait personnellement aucune connaissance de la vérification ou de l’appel administratif qui a suivi le dépôt d’un avis d’opposition par l’appelant. Le témoignage de M. Suleman n’a porté que sur la confirmation des copies de documents qu’il avait recueillies dans les dossiers tenus par l’ARC à l’égard de l’appelant.
+[4] Avec le consentement des avocats de l’appelant, les documents désignés par M. Suleman comme faisant partie du dossier de l’ARC sur l’appelant ont été déposés en preuve.
+[5] Après le témoignage de M. Suleman, l’intimée a demandé de consigner en preuve des parties importantes de l’interrogatoire préalable de l’appelant en vertu du paragraphe 100(1) des Règles (collectivement, les « éléments consignés en preuve par l’intimée »)[1]. L’interrogatoire préalable de l’appelant se présentait sous la forme de questions et de réponses écrites en vertu des articles 114 et 115 des Règles. La Cour a pris une pause de deux heures et demie pour que les avocats de l’appelant puissent lire les éléments à consigner en preuve. À l’exception de la précision d’une réponse, les avocats de l’appelant n’ont pas contesté les éléments que l’intimée demandait de consigner en preuve et comme les éléments de preuve figurant dans les éléments à consigner en preuve étaient, par ailleurs, recevables, j’ai admis tous les éléments que l’on demandait de consigner en preuve.
+[6] L’intimée ne s’est pas opposée aux éléments que l’appelant demandait de consigner en preuve et proposés par l’appelant pour qualifier ou expliquer les éléments consignés en preuve par l’intimée (collectivement, les « éléments consignés en preuve par l’appelant »), que j’ai également admis.
+[7] Je constate que, de façon générale, le fondement sur lequel la preuve donnée lors d’un interrogatoire préalable peut être consignée en preuve et faire partie du dossier de la preuve est que les énoncés sont des aveux de la partie qui fait l’objet de l’interrogatoire préalable[2]. L’intimée est tenue d’adopter la preuve consignée par elle, qu’elle soit favorable ou défavorable à sa cause[3].
+[8] Les extraits consignés en preuve de l’interrogatoire préalable de l’intimée et de l’appelant sont joints à ces motifs en tant qu’annexe A. J’ai tiré les faits saillants suivants des extraits consignés en preuve.
+[9] L’appelant est titulaire d’un diplôme d’études secondaires et a fait des études universitaires pendant deux ans et demi[4]. Il a été employé, à temps plein, par Ontario Hydro de 1978 à 2008. Il a commencé comme préposé à l’entretien mécanique de la centrale nucléaire, est passé au poste d’ouvrier qualifié et a été promu au poste de gestionnaire de premier niveau après 22 ans[5]. Au cours des années pertinentes à cet appel, ses fonctions touchaient la supervision des Services d’entretien en cas de panne de Bruce Power, ce qui comprenait [TRADUCTION] « l’exécution de programmes d’inspection lors des pannes de courant, la préparation de séances d’information précédant les travaux, la production de rapports de travail, la coordination des travaux réalisés aux alentours ou des tâches de soutien, la liaison entre Bruce Power et d’autres entrepreneurs ou groupes de travail, ainsi que l’élaboration et la planification du plan de travail »[6]. En janvier 2009, l’appelant a constitué une société à numéro et, par l’entremise de cette société, a fourni des [TRADUCTION] « services de consultation concernant des services de supervision de gestion de premier niveau »[7].
+[10] L’appelant a produit sa déclaration de revenus T1 de 2008 par voie électronique[8]. Michael Bolton de BDO Canada a préparé la déclaration de revenus sur la foi des feuillets de renseignements de l’appelant[9].
+[11] L’appelant a pris contact pour la première fois avec M. Tom Thompson, par téléphone, en mars ou avril 2009[10]. L’appelant a dit à M. Thompson qu’un ami avait reçu un remboursement d’impôt sur le revenu de 50 000 $ après que M. Thompson eut produit sa déclaration de revenus. L’appelant a demandé à M. Thompson de le rencontrer afin qu’il puisse lui donner des renseignements sur cette position fiscale[11].
+[12] L’appelant et M. Thompson se sont rencontrés trois fois chez l’appelant, mais ce dernier ne s’est jamais rendu au bureau de M. Thompson[12]. Les rencontres ont eu lieu vers le début d’avril 2009, le début de juin 2009 et la mi-juin 2009[13]. L’appelant n’a pas demandé à M. Thompson ou à quelqu’un qui lui est affilié de lui fournir des recommandations[14]. L’appelant a fourni à M. Thompson ses feuillets T4 et d’autres documents de 2008 vers le début de juin 2009[15].
+[13] L’appelant a pris des notes rapides lors de ses rencontres avec M. Thompson, qui indiquent les aspects fondamentaux de la proposition qui a conduit au dépôt de la demande de redressement de 2008[16]. Le paragraphe 14 de l’avis d’appel de l’appelant indique que quatre avocats fiscalistes ont élaboré la position fiscale, mais lorsqu’on l’a interrogé sur ces quatre personnes, l’appelant a répondu qu’il ne les avait pas rencontrées, ne connaissait pas leur identité et ne savait pas comment les joindre[17].
+[14] L’appelant a concédé que la soi-disant position fiscale de « détaxation » présentée par M. Thompson n’a aucun fondement en droit et qu’elle est erronée, mais il a précisé également qu’il ne comprenait pas cela au moment du dépôt de la demande de redressement de 2008[18]. L’explication de M. Thompson quant à la position fiscale de détaxation est telle que définie ci-après.
+[15] Plus précisément, Tom Thompson a déclaré que la distinction entre le mandant et le mandataire permet au gouvernement du Canada d’utiliser le numéro d’enregistrement personnel d’un particulier ou le numéro de son acte de naissance comme compte d’obligations, dans lequel le gouvernement emprunte des fonds provenant de sources étrangères pour lui permettre d’obtenir de bons taux, se faire de l’argent sur le dos des citoyens et « renflouer » les coffres du gouvernement. Tom Thompson a également déclaré que le numéro d’assurance sociale d’une personne fonctionne comme une société, distincte de la personne elle-même, et que l’ARC doit rembourser des impôts à la personne, mais pas au numéro d’assurance sociale[19].
+[16] L’appelant a tenté de mieux comprendre le plan et il y est arrivé, en fait, en posant des questions à M. Thompson[20]. Il affirme qu’il n’a pas été mis en garde contre le plan par son comptable ou son planificateur financier et qu’il était persuadé que le plan reposait sur une échappatoire fiscale peu connue et qu’elle était légitime puisque d’autres contribuables avaient obtenu des remboursements[21]. Il n’avait pas de notes ou de documents quand il a discuté du plan avec son comptable[22].
+[17] M. Thompson a préparé et livré la demande de redressement de 2008 remplie à l’appelant vers la mi-juin 2009[23]. L’appelant a examiné la demande de redressement de 2008 remplie, la demande de report rétrospectif des pertes et l’état des activités de mandataire avant de signer ces documents[24].
+[18] L’appelant a signé et envoyé la demande de redressement de 2008[25]. Il a déposé l’état des activités de mandataire conjointement avec la demande de redressement de 2008[26]. Cette déclaration a fait état des trois montants importants suivants inclus dans le calcul du montant de 696 134 $ déclaré dans la demande de redressement de 2008 comme une correction à la baisse du montant à la ligne 135[27] de la déclaration de revenus T1 de 2008 de l’appelant (ce dernier pensait qu’il était le mandant et que son numéro d’assurance sociale était son mandataire)[28] :
+B. Ligne 162 *Total de l’argent recueilli comme mandataire du mandant : 190 589,66 $
+Moins :
+[...]
+*Montant versé au mandant en contrepartie de la main-d’œuvre 703 287,78 $
+[... ]
+[Moins]
+*L’argent recueilli comme mandataire du mandant, rapporté par des tiers et déjà déclaré aux lignes 101 à 130 des feuillets T4, T5, T3 et d’autres feuillets, etc.
+183 435,67 $
+[19] L’appelant n’a jamais personnellement géré une entreprise et comprend maintenant qu’il n’a pas subi de perte d’entreprise en 2008[29]. Il était conscient, au moment où il a signé la demande de redressement de 2008, qu’il déclarait une perte d’entreprise de 696 134 $[30]. Il a déclaré cette perte d’entreprise parce que Tom Thompson lui avait fait savoir que c’était la [TRADUCTION] « méthode technique nécessaire de production afin de pouvoir profiter de cette échappatoire fiscale »[31]. Il reconnaît maintenant que la perte indiquée dans la demande de redressement de 2008 était une fausse perte d’entreprise[32].
+[20] L’appelant pensait qu’il recevrait un remboursement total ou partiel de l’impôt sur le revenu retenu à la source pour 2008[33]. Le plus grand remboursement reçu par l’appelant avant 2008 était de 15 000 $, reçu après qu’il ait versé une cotisation au REER de 34 000 $ au cours de l’année d’imposition 1998 ou vers cette date[34].
+[21] L’appelant a examiné une demande de report rétrospectif des pertes préparée par M. Thompson et il était conscient qu’il demandait des remboursements pour les années d’imposition 2005, 2006 et 2007[35]. Il a signé la demande le 15 juin 2009, ou vers cette date, et l’a envoyée par la poste[36]. Après que M. Thompson lui a remis sa demande, l’appelant n’a communiqué avec aucune personne qui lui soit affiliée pour discuter de la demande avant de l’envoyer par la poste[37].
+I. Thèse de l’appelant [22] L’avocat de l’appelant soutient que l’appelant ne devrait pas être passible de la pénalité imposée par le ministre en vertu du paragraphe 163(2) de la LIR. L’obligation d’établir les faits qui justifient l’imposition de la pénalité revient au ministre et ce dernier ne s’est pas acquitté de cette obligation. Plus précisément, l’avocat fait valoir qu’il n’y a aucune preuve étayant la conclusion que l’appelant a omis de consulter un conseiller indépendant au sujet du plan avant la production de la demande de redressement de 2008. En fait, l’avocat fait valoir que l’appelant a déclaré, en réponse aux questions 33 et 35 des éléments consignés en preuve par l’appelant, qu’il avait discuté du plan avec son comptable et son conseiller financier et que ni l’un ni l’autre ne l’avaient mis en garde à cet égard.
+[23] L’appelant soutient que, comme les éléments consignés en preuve par l’intimée sont les seuls éléments de preuve sur ce point, l’intimée n’a pas réussi à établir la troisième exigence relative à une constatation d’aveuglement volontaire tel qu’énoncée dans le jugement Torres c. La Reine, 2013 CCI 380[38], à l’alinéa 65f) :
+Le dernier critère de l’aveuglement volontaire est le fait que le contribuable ne s’enquiert pas auprès du spécialiste pour comprendre la déclaration de revenus, ni ne s’enquiert aucunement auprès d’un tiers, ou auprès de l’ARC elle-même.
+II. Thèse de l’intimée [24] L’intimée reconnaît que les paragraphes 163(2) et (3) de la LIR imposent au ministre le fardeau d’établir que l’appelant a fait un faux énoncé dans une déclaration de revenus, un formulaire, un certificat, un état ou une réponse et que ce faux énoncé a été fait, sciemment ou dans des circonstances équivalant à faute lourde, par l’appelant.
+[25] L’intimée fait valoir sur la foi des facteurs définis dans le jugement Torres que l’appelant a, sciemment ou dans des circonstances équivalant à une faute lourde, fait un faux énoncé dans la demande de redressement de 2008. En faisant cette observation, l’avocate de l’intimée reconnaît que les éléments de preuve qui sont à la disposition de la Cour dans cette affaire, à l’appui de l’imposition d’une pénalité à l’encontre de l’appelant en vertu du paragraphe 163(2) de la LIR, se limitent aux extraits de l’interrogatoire préalable consignés en preuve et aux documents déposés en preuve que l’appelant a reconnus dans les éléments consignés en preuve.
+III. Analyse A. La norme de preuve et le fardeau de la preuve en vertu des paragraphes 163(2) et 163(3) de la LIR. [26] La question en litige dans le présent appel est de savoir si l’appelant est passible de la pénalité imposée par le ministre en vertu du paragraphe 163(2) de la LIR. Dans l’arrêt Guindon c. Canada, 2015 CSC 41, [2015] 3 R.C.S. 3, la Cour suprême du Canada a confirmé que les dispositions relatives aux pénalités qui figurent dans la partie I, section I de la LIR imposent des sanctions civiles et non pas des sanctions pénales. Le paragraphe 163(2) se trouve dans la partie I, section I de la LIR. Par conséquent, la norme de preuve dont il faut s’acquitter pour que la Cour maintienne une pénalité imposée en vertu du paragraphe 163(2) de la LIR est celle de la prépondérance des probabilités.
+[27] La Cour suprême a expliqué cette norme touchant les affaires civiles dans l’arrêt F.H. c. McDougall, 2008 CSC 53, [2008] 3 R.C.S. 41, aux paragraphes 45 à 49 :
+[45] Laisser entendre que lorsqu’une allégation formulée dans une affaire civile est grave, la preuve offerte doit être examinée plus attentivement suppose que l’examen peut être moins rigoureux dans le cas d’une allégation moins grave. Je crois qu’il est erroné de dire que notre régime juridique admet différents degrés d’examen de la preuve selon la gravité de l’affaire. Il n’existe qu’une seule règle de droit : le juge du procès doit examiner la preuve attentivement.
+[46] De même, la preuve doit toujours être claire et convaincante pour satisfaire au critère de la prépondérance des probabilités. Mais, je le répète, aucune norme objective ne permet de déterminer qu’elle l’est suffisamment. Dans le cas d’une allégation grave comme celle considérée en l’espèce, le juge peut être appelé à apprécier la preuve de faits qui se seraient produits de nombreuses années auparavant, une preuve constituée essentiellement des témoignages du demandeur et du défendeur. Aussi difficile que puisse être sa tâche, le juge doit trancher. Lorsqu’un juge consciencieux ajoute foi à la thèse du demandeur, il faut tenir pour acquis que la preuve était à ses yeux suffisamment claire et convaincante pour conclure au respect du critère de la prépondérance des probabilités.
+[47] Enfin, il peut arriver que le fait soit intrinsèquement improbable. L’improbabilité intrinsèque dépend toujours des circonstances. Comme le dit la baronne Hale dans l’arrêt In re B, par. 72 :
+[TRADUCTION]
+Prenons l’exemple bien connu de l’animal aperçu à Regent Park. S’il est vu à l’extérieur du zoo, dans un lieu où l’on promène habituellement son chien, alors il est plus vraisemblable qu’il s’agisse d’un chien que d’un lion. S’il est vu à l’intérieur du zoo, près de l’enclos des lions, dont la porte est ouverte, il se peut fort bien qu’il soit plus vraisemblable qu’il s’agisse d’un lion que d’un chien.
+[48] Un fait allégué peut être très improbable, un autre moins. Il ne saurait y avoir de règle permettant de déterminer dans quelles circonstances et jusqu’à quel point le juge du procès doit tenir compte de l’improbabilité intrinsèque. Dans l’arrêt In re B, lord Hoffmann fait remarquer ce qui suit (par. 15) :
+[TRADUCTION]
+Le sens commun — et non le droit — exige, pour trancher à cet égard, qu’on tienne compte, dans la mesure où cela est indiqué, de la probabilité intrinsèque.
+Il revient au juge du procès de décider dans quelle mesure, le cas échéant, les circonstances donnent à penser que le fait allégué est intrinsèquement improbable et, s’il l’estime indiqué, il peut en tenir compte pour déterminer si la preuve établit que, selon toute vraisemblance, l’événement s’est produit. Or, aucune règle de droit ne saurait le lui imposer.
+(5) Conclusion sur la norme de preuve
+[49] En conséquence, je suis d’avis de confirmer que dans une instance civile, une seule norme de preuve s’applique, celle de la prépondérance des probabilités. Dans toute affaire civile, le juge du procès doit examiner la preuve pertinente attentivement pour déterminer si, selon toute vraisemblance, le fait allégué a eu lieu[39].
+[28] Les dispositions liminaires du paragraphe 163(2) de la LIR énoncent ce qui suit :
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants...
+[29] Les dispositions liminaires indiquent deux conditions qui doivent être remplies si l’imposition par le ministre d’une pénalité en vertu du paragraphe 163(2) de la LIR doit être maintenue.
+[30] Premièrement, l’appelant doit avoir fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse, désignés collectivement comme une « déclaration » ou y avoir participé, consenti ou acquiescé.
+[31] Les termes « faux énoncé » et « omission » ne permettent pas de définir l’élément moral requis pour l’imposition de la pénalité, qui est plutôt défini dans la deuxième exigence[40]. Par conséquent, pour l’application du paragraphe 163(2) de la LIR, un « faux énoncé » est tout simplement un énoncé qui n’est pas vrai et une « omission » est tout simplement quelque chose qui est exclu.
+[32] Deuxièmement, le faux énoncé ou l’omission doit avoir été fait par l’appelant sciemment ou dans des circonstances équivalant à une faute lourde, ou l’appelant doit avoir participé, consenti ou acquiescé à ce faux énoncé ou cette omission sciemment ou dans des circonstances équivalant à une faute lourde.
+[33] En vertu du paragraphe 163(3) de la LIR, il incombe au ministre d’établir les faits qui justifient l’imposition d’une pénalité prévue au paragraphe 163(2) de la LIR[41]. Ce fardeau est décrit par la Cour d’appel fédérale dans l’arrêt Lacroix c. La Reine, 2008 CAF 241, au paragraphe 26, comme suit :
+Bien que le ministre bénéficie des présomptions de fait qui sous-tendent la nouvelle cotisation, il ne jouit d’aucun avantage semblable pour ce qui est de la preuve des faits justifiant l’établissement d’une nouvelle cotisation hors de la période statutaire, ou encore des faits justifiant l’imposition d’une pénalité en raison de l’inconduite du contribuable dans la production de sa déclaration de revenu. Le ministre est indéniablement dans l’obligation de mettre en preuve les faits justifiant l’invocation de ces mesures exceptionnelles.
+[34] La manière dont on peut s’acquitter de ce fardeau est décrite par la Cour d’appel fédérale au paragraphe 32 :
+Qu’en est-il alors du fardeau du ministre? Comment s’en acquitte-t-il? Il se peut que, dans certaines circonstances, le ministre soit en mesure de montrer une preuve directe de l’état d’esprit du contribuable lorsque ce dernier a produit sa déclaration de revenu. Mais dans la grande majorité des cas, le ministre ne pourra que miner la crédibilité du contribuable, soit par des éléments de preuve qu’il apporte, soit en contre-interrogatoire du contribuable. Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes du sous-alinéa 152(4)(a)(i) et du paragraphe 162(3) [sic].
+[35] Le résultat du regroupement de la norme civile de preuve et du fardeau de la preuve applicable en vertu du paragraphe 163(2) de la LIR est que l’intimée a l’obligation d’établir, selon la prépondérance des probabilités, les faits qui conduisent à la conclusion juridique que l’appelant a, sciemment ou dans des circonstances équivalant à une faute lourde, fait un faux énoncé dans une déclaration. Le rôle du juge de première instance est d’examiner attentivement tous les éléments de preuve (y compris toute preuve admissible de l’intimée que celle-ci a obtenue au moyen de l’interrogatoire préalable ou du contre-interrogatoire de l’appelant et toute preuve admissible présentée par l’appelant afin de réfuter ou de qualifier la preuve de l’intimée) pour déterminer si le ministre s’est acquitté du fardeau de la preuve qui lui appartenait conformément à la norme de preuve civile[42].
+[36] Dans la décision Farm Business Consultants Inc. c. La Reine, [1994] A.C.I. no 760 (CCI) (confirmée par la CAF dans l’arrêt 96 A.C.F. 6085), le juge Bowman (tel était alors son titre) a déclaré au paragraphe 27 :
+Une cour doit faire preuve d’une prudence extrême lorsqu’elle sanctionne l’imposition de pénalités prévues au paragraphe 163(2). Une conduite qui légitime l’établissement d’une nouvelle cotisation à l’égard d’une année frappée de prescription ne justifie pas d’office l’imposition d’une pénalité, et l’imposition systématique de pénalités, par le ministre, est une pratique qui est à déconseiller. […] Par ailleurs, quand une pénalité est imposée en vertu du paragraphe 163(2) même si une norme de preuve civile est exigée, lorsque la conduite d’un contribuable cadre avec deux hypothèses viables et raisonnables, l’une qui justifie la pénalité et l’autre pas, il convient d’accorder le bénéfice du doute au contribuable, et de supprimer la pénalité. [...]
+[37] Le juge Bowman met en évidence deux points. Premièrement, le sous-alinéa 152(4)a)(i) de la LIR impose des normes différentes[43], par rapport à l’ouverture d’une année qui est par ailleurs frappée de prescription, de celles du paragraphe 163(2) de la LIR pour l’imposition d’une pénalité. Par conséquent, le fait que l’une des conditions prévues au sous-alinéa 152(4)a)(i) de la LIR soit remplie n’est pas, en soi, un motif pour imposer une pénalité en vertu du paragraphe 163(2) de la LIR. Deuxièmement, lorsque les faits suggèrent deux résultats également possibles, le bénéfice du doute est accordé au contribuable. Une autre façon de l’expliquer serait de dire que, dans un tel cas, le ministre n’a pas satisfait à l’exigence, en vertu du paragraphe 163(3) de la LIR, d’établir, selon la prépondérance des probabilités, les faits qui justifient l’imposition de la pénalité.
+B. Faux énoncé ou omission [38] L’intimée soutient que l’appelant a fait un faux énoncé dans une déclaration[44] quand il a signé la demande de redressement de 2008 afin de déclarer une perte d’entreprise de 696 134 $ pour 2008.
+[39] Dans les réponses aux questions 13, 16 à 19 et 65 à 68 des éléments consignés en preuve par l’intimée, l’appelant déclare que M. Thompson a préparé la demande de redressement de 2008, mais qu’il (l’appelant) a signé le formulaire et l’a envoyé, par la poste, à l’ARC. L’appelant affirme également qu’il a ensuite pu comprendre qu’il n’exploitait pas d’entreprise en 2008 et qu’il n’avait subi aucune perte d’entreprise cette année-là. À la lumière des aveux de l’appelant, le chiffre de 696 134 $ déclaré comme une perte d’entreprise dans la demande de redressement de 2008 est un faux énoncé fait par l’appelant dans une déclaration.
+C. Sciemment ou dans des circonstances équivalant à une faute lourde [40] La question qui reste est de savoir si le faux énoncé dans la demande de redressement de 2008 a été fait par l’appelant sciemment ou dans des circonstances équivalant à une faute lourde. Le faux énoncé a été fait au moment où l’appelant a signé la demande de redressement de 2008. Par conséquent, la question de savoir si l’appelant a fait le faux énoncé sciemment ou dans des circonstances équivalant à une faute lourde doit s’apprécier au moment où l’appelant a signé la demande de redressement de 2008.
+(1) Sciemment [41] Une lecture textuelle du terme « sciemment » exige que l’appelant ait su subjectivement que l’énoncé contesté était faux quand il a été fait. Le contexte du mot « sciemment », qui contraste avec l’expression « circonstances équivalant à une faute lourde », renforce ce sens.
+[42] Certains des jugements portant sur le paragraphe 163(2) de la LIR pourraient être interprétés comme suggérant que la connaissance peut être imputée par un constat d’aveuglement volontaire[45]. Cependant, je ne crois pas que ces jugements laissent entendre que l’aveuglement volontaire est un substitut à la connaissance subjective requise par le mot « sciemment ». Au contraire, ils confirment tout simplement que l’aveuglement volontaire est suffisant pour établir « des circonstances équivalant à une faute lourde ». Cela ressort clairement des motifs de la Cour d’appel fédérale dans les arrêts Procureur général du Canada c. Villeneuve, 2004 CAF 20, au paragraphe 6, Panini c. La Reine, 2006 CAF 224, aux paragraphes 41 à 43 et Strachan c. La Reine, 2015 CAF 60, au paragraphe 4.
+[43] Je fais remarquer que cette interprétation est également compatible avec le fait qu’en matière pénale l’aveuglement volontaire peut remplacer la connaissance réelle chaque fois que la connaissance est une composante de la mens rea, mais ne peut pas être utilisée pour imputer la connaissance subjective où une telle connaissance est une exigence législative relativement à l’infraction pénale[46].
+[44] En ce qui concerne la preuve présentée par l’intimée sous la forme des éléments consignés en preuve par elle, il ressort clairement des réponses de l’appelant aux questions 65 et 68 des éléments consignés en preuve par l’intimée que l’appelant n’a géré aucune entreprise en 2008 et, par conséquent, ne pouvait pas avoir effectué ou engagé des dépenses qui pourraient être considérées comme étant des dépenses d’entreprise déductibles. À mon avis, même une connaissance rudimentaire du régime fiscal canadien est suffisante pour qu’une personne ordinaire soit consciente que des pertes d’entreprise déductibles ne sortent pas tout simplement de nulle part. Cependant, la seule preuve que j’ai sur la connaissance subjective de l’appelant est la preuve provenant des éléments consignés en preuve par l’intimée. Dans sa réponse à la question 68, l’appelant affirme que [TRADUCTION] « au moment où j’ai signé la demande de redressement du T1, je ne pensais pas que c’était [la perte de 696 134 $] une fausse perte d’entreprise. Je pensais faire ma déclaration conformément à la loi ». L’appelant précise sa compréhension de la perte dans ses réponses aux questions 20, 29 et 31 des éléments consignés en preuve par l’intimée.
+[45] À la lumière des éléments de preuve non contredits de l’appelant au sujet de sa compréhension subjective du principe de la perte d’entreprise déclarée au moment où il a signé la demande de redressement de 2008, je n’ai d’autre choix que d’accepter le fait que le faux énoncé dans la demande de redressement de 2008 n’a pas été sciemment fait par l’appelant. Cela ne laisse que la question de savoir si le faux énoncé a été fait par l’appelant dans des circonstances équivalant à une faute lourde.
+(2) Dans des circonstances équivalant à une faute lourde (a) Commentaires généraux sur la faute [46] La notion de faute dans le domaine du droit de la responsabilité délictuelle est bien comprise; cependant, la notion de « faute lourde » n’est pas une notion de base dans ce domaine du droit. Le professeur Philip H. Osborne déclare ce qui suit dans l’ouvrage The Law of Torts (5e éd.) :
+[TRADUCTION]
+... La faute est un acte qui donne lieu à un risque prévisible et considérable de ses conséquences. Au fur et à mesure que la probabilité des conséquences augmente, la conduite du défendeur peut être décrite d’abord comme étant une faute lourde, puis comme étant téméraire[47].
+[47] L’auteur ajoute ensuite la note de bas de page suivante :
+[TRADUCTION]
+Ces notions [à savoir, la faute lourde et la témérité] ne tiennent aucun rôle important dans le droit de la responsabilité délictuelle. En common law, elles sont tirées de la notion générique de négligence. Il y a, cependant, certaines dispositions législatives qui exigent une preuve de la faute lourde ou de la témérité pour établir les causes d’action prévues par la loi[48].
+[48] Dans un glossaire des termes, l’auteur définit la « faute lourde » comme étant une [TRADUCTION] « conduite qui porte un degré élevé de risque »[49]. La négligence est définie comme étant un [TRADUCTION] « délit fondé sur une conduite négligente ou une conduite qui crée un risque de préjudice raisonnablement prévisible »[50].
+[49] La norme par rapport à laquelle la conduite est évaluée est celle d’une personne raisonnable, qui est une norme objective. Le professeur Osborne l’explique ainsi :
+[TRADUCTION]
+[...] Toutefois, la common law a généralement recours à la personne raisonnable quand elle a besoin de s’appuyer sur une norme de conduite normative et le droit en matière de négligence ne fait pas exception. La norme de diligence qui doit être respectée dans le délit de négligence est celle de la personne raisonnablement prudente dans les circonstances du défendeur[51].
+[50] Dans le domaine du droit pénal, la Cour suprême du Canada a toujours considéré que, dans le cas des infractions qui touchent une détermination de la négligence, la norme minimale qui doit être appliquée est celle d’un écart marqué par rapport à la conduite d’une personne raisonnable dans les mêmes circonstances[52]. La Cour suprême explique le fondement de la norme plus élevée (par rapport à la norme civile de négligence) comme suit :
+Dans le cadre du droit civil, il importe peu de savoir dans quelle mesure le conducteur n’a pas respecté la norme de diligence raisonnable exigée par la loi. En effet, l’étendue de sa responsabilité ne dépend pas du degré de négligence, mais de l’étendue des dommages causés. Par ailleurs, l’état mental (ou l’absence d’état mental) de l’auteur du délit est sans importance, sauf à l’égard des dommages punitifs. Dans le cadre du droit criminel, en revanche, il faut tenir compte de l’état mental du conducteur, parce qu’il est contraire aux principes fondamentaux de justice pénale de punir une personne innocente. Le degré de négligence constitue la question déterminante, parce que la faute criminelle doit être fondée sur un comportement qui mérite d’être puni.
+Pour cette raison, le critère objectif — tel qu’il a été modifié pour tenir compte du contexte du droit criminel — exige la preuve d’un écart marqué par rapport à la norme de diligence que respecterait une personne raisonnable dans les circonstances. Comme nous l’avons vu, ce n’est que lorsqu’il y a un écart marqué par rapport à la norme que le comportement objectivement dangereux s’avère suffisamment blâmable pour justifier une conclusion de responsabilité pénale. Lorsqu’il y a un tel écart, l’acte de la conduite dangereuse est alors concomitant avec la présence d’une mens rea suffisante et l’infraction est établie[53].
+[Non souligné dans l’original.]
+[51] La Cour précise la norme de diligence qu’une personne raisonnable doit observer dans toutes les circonstances :
+... Sauf incapacité d’apprécier le risque ou incapacité d’éviter de le créer, les qualités personnelles telles que l’âge, l’expérience et le niveau d’instruction ne sont pas pertinentes. La norme par rapport à laquelle le comportement doit être apprécié reste toujours la même; il s’agit du comportement auquel on s’attend de la part d’une personne raisonnablement prudente dans les circonstances. Il faut toutefois, pour apprécier le caractère raisonnable du comportement, placer la personne raisonnable dans les circonstances où se trouvait l’accusé lorsque les événements se sont produits[54].
+[52] Dans le cas de la négligence criminelle, comme la négligence criminelle causant la mort, la norme adoptée par la Cour suprême est celle d’un écart marqué et important par rapport à une conduite raisonnable[55]. Le professeur Roach fait observer ce qui suit :
+[TRADUCTION]
+L’arrêt J.F. reconnaît des distinctions subtiles et fines dans le degré de faute objective entre la règle générale de la preuve d’un écart marqué par rapport à une conduite raisonnable et la norme plus élevée de l’écart marqué et important par rapport à une conduite raisonnable qui est obligatoire dans le cas de la négligence criminelle[56].
+[53] Dans les deux cas, la conduite est mesurée par rapport à la norme de diligence qu’une personne raisonnable doit observer dans toutes les circonstances, sans tenir compte des caractéristiques personnelles du contrevenant, à moins qu’il ne soit établi que la personne ne peut pas raisonnablement être tenue responsable de satisfaire à cette norme. Le professeur Roach décrit l’exception à la norme de la personne raisonnable comme suit :
+[TRADUCTION]
+En bref, la personne raisonnable ne sera pas investie des caractéristiques personnelles de l’accusé à moins que les caractéristiques soient si extrêmes qu’elles créent une incapacité d’apprécier le risque prohibé ou la qualité de la conduite interdite[57].
+[54] Pour résumer, en droit pénal (comme en droit de la responsabilité délictuelle), la norme par rapport à laquelle les critères relatifs à l’écart marqué et à l’écart marqué et important sont appliqués est objective, sauf que la personne raisonnable est placée dans les circonstances du délinquant afin de déterminer la conduite attendue d’une personne raisonnable dans ces circonstances.
+[55] À mon avis, ces principes sont instructifs sur le plan de l’application de la norme de faute lourde visée au paragraphe 163(2) de la LIR.
+(b) Faute lourde aux termes du paragraphe 163(2) de la LIR [56] L’expression « faute lourde » tel qu’elle est employée au paragraphe 163(2) de la LIR a été prise en compte dans la décision largement adoptée de Venne c. La Reine, C.F. 1re inst., no T-815-82, 9 avril 1984 (84 DTC 6247). À la page 19 de cette décision, le juge Strayer a déclaré ce qui suit :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la loi.
+[57] De toute évidence, il y a un parallèle entre cette description de la faute lourde et la norme permettant d’arriver à un constat de négligence dans le cadre du droit pénal. Les deux nécessitent au moins un écart marqué par rapport à la conduite d’une personne raisonnable dans ces circonstances. En fait, la description du jugement Venne peut être mieux assimilée à la norme de l’« écart marqué et important » requise pour un constat de négligence criminelle.
+[58] La faute lourde, pour l’application du paragraphe 163(2) de la LIR, a été constatée dans des circonstances touchant l’aveuglement volontaire. Dans l’arrêt Villeneuve, précité, la Cour d’appel fédérale a déclaré au paragraphe 6 :
+Avec égards, je crois que la juge a omis de considérer la notion de faute lourde qui peut découler d’un aveuglement volontaire de son auteur.
+[59] Dans l’arrêt Strachan, précité, la Cour d’appel fédérale a souscrit à la conclusion du juge de première instance portant qu’il y avait eu ignorance volontaire [aussi appelée aveuglement volontaire] dans une affaire touchant un stratagème de détaxation identique à celui qui est en cause en l’espèce. Il est instructif de répéter les motifs de la Cour d’appel fédérale dans leur intégralité :
+[1] Aux termes du paragraphe 163(2) de la Loi de l’impôt sur le revenu, L.R.C., 1985, ch. 1 (5e suppl.), le contribuable qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé dans une déclaration est passible d’une pénalité.
+[2] Pour les motifs répertoriés sous la référence 2013 CCI 380, un juge de la Cour canadienne de l’impôt a rejeté l’appel formé par l’appelante contre la pénalité pour faute lourde imposée relativement à l’année d’imposition 2007. D’après les faits ayant mené à l’imposition de la pénalité, à l’initiative d’un spécialiste en déclarations de revenus sans scrupules, l’appelante avait demandé la déduction d’une perte d’entreprise fictive d’un montant suffisant pour entraîner le remboursement complet de l’impôt payé sur son revenu d’emploi.
+[3] Son avocat fait valoir plusieurs erreurs de la part du juge, mais l’appelante n’a pas établi qu’il y avait lieu de modifier le jugement de la Cour de l’impôt. Notre conclusion est fondée sur les motifs qui suivent.
+[4] Premièrement, comme l’a admis l’avocat de l’appelante dans sa plaidoirie, le juge n’a pas commis d’erreur en ce qui a trait au critère juridique applicable. La faute lourde peut être établie dans le cas où le contribuable fait preuve d’ignorance volontaire au sujet des faits pertinents lorsqu’il ressent le besoin de se renseigner, mais refuse de le faire parce qu’il ne veut pas connaître la vérité (Canada (Procureur général) c. Villeneuve, 2004 CAF 20, 327 N.R. 186, au paragraphe 6; Panini c. Canada, 2006 CAF 224, [2006] A.C.F. no 955, aux paragraphes 41 à 43).
+[5] Contrairement aux observations présentées par l’avocat de l’appelante, les motifs du juge démontrent qu’il a tenu compte des antécédents et de la situation de l’appelante.
+[6] Deuxièmement, l’appelante n’a pas établi que le juge avait appliqué incorrectement le critère juridique applicable. Aucune erreur manifeste et dominante n’a été démontrée relativement à la conclusion mixte de fait et de droit selon laquelle, compte tenu des nombreux signaux d’« alarme », l’appelante devait s’enquérir davantage auprès du spécialiste en déclarations de revenus, d’un conseiller indépendant ou encore de l’Agence du revenu du Canada, avant de signer sa déclaration de revenus. Aucune erreur manifeste et dominante n’a été non plus démontrée relativement à la conclusion du juge portant que les circonstances avaient pour effet d’exclure le moyen de défense selon lequel, compte tenu des énoncés fautifs faits par le spécialiste en déclarations de revenus, l’appelante pensait que ce qu’elle faisait était légitime.
+[Caractères gras ajoutés.]
+[60] La Cour d’appel fédérale soulève plusieurs points importants. Tout d’abord, elle confirme que la faute lourde peut être établie dans le cas où le contribuable fait preuve d’aveuglement volontaire. En deuxième lieu, la Cour d’appel fédérale confirme qu’un aspect d’une conclusion d’aveuglement volontaire est le fait que le contribuable ne demande pas de conseils lorsqu’il est confronté à des signes d’avertissement clairs indiquant que quelque chose ne tourne pas rond. Enfin, la Cour d’appel fédérale confirme que, face à des signaux d’alarme clairs, le contribuable ne peut pas se cacher derrière les énoncés fautifs de son spécialiste en déclarations de revenus.
+[61] Il est important de reconnaître, cependant, qu’un constat d’aveuglement volontaire n’est qu’un fondement sur lequel on peut conclure qu’un faux énoncé dans une déclaration a été fait dans des circonstances équivalant à une faute lourde. Il ne faut pas perdre de vue la question fondamentale de savoir si le faux énoncé ou l’omission a été fait dans des circonstances équivalant à une faute lourde. Un constat d’aveuglement volontaire est tout simplement une constatation selon laquelle, dans un certain ensemble de circonstances, les actions du contribuable appuient une conclusion de faute lourde. La notion de l’aveuglement volontaire ne vise pas à limiter les circonstances dans lesquelles une conclusion de faute lourde peut être tirée.
+[62] Comme l’indique la décision Venne, une constatation de « faute lourde » exige un degré élevé de négligence. L’existence (ou la non-existence) d’un degré élevé de négligence est déterminée par référence à la norme objective d’une personne raisonnable dans les mêmes circonstances comme étant la personne à l’encontre de laquelle la pénalité est imposée et non par référence aux croyances ou caractéristiques subjectives de cette personne[58]. La norme objective n’est assouplie que s’il est établi que la personne est incapable de comprendre le devoir de ne pas faire un faux énoncé ou une omission dans une déclaration.
+[63] En résumé, pour les fins de la présente affaire, en l’absence de preuve indiquant que l’appelant était incapable de comprendre son devoir de ne pas faire un faux énoncé ou une omission dans une déclaration[59], il appartient à l’intimée d’établir les circonstances équivalant à faute lourde et, à cette fin, elle doit établir, selon la prépondérance des probabilités, les faits qui conduisent à la conclusion que le faux énoncé figurant dans la demande de redressement de 2008 de l’appelant constituait un écart marqué et important par rapport à la conduite d’une personne raisonnable dans les mêmes circonstances. C’est dans cette optique que je vais passer en revue la preuve présentée par l’intimée sous la forme des éléments consignés en preuve par elle.
+(c) Application de la loi aux faits [64] L’appelant est titulaire d’un diplôme d’études secondaires et a fait des études universitaires pendant deux ans et demi. Il a été employé par Ontario Hydro de 1978 à 2008, d’abord comme préposé à l’entretien mécanique de la centrale nucléaire, puis comme ouvrier qualifié et enfin, après 22 ans, comme gestionnaire de premier niveau, un poste de supervision. L’appelant a exercé des fonctions importantes dans le cadre de son emploi, y compris la supervision d’autrui. En 2009, l’appelant a constitué une société et a fourni des services de gestion de premier niveau à Bruce Power par l’intermédiaire de cette société.
+[65] Les études ainsi que les fonctions et l’expérience professionnelle de l’appelant laissent entendre fortement qu’il était capable de comprendre son devoir de ne pas faire un faux énoncé ou une omission dans une déclaration. L’appelant avait un niveau d’instruction raisonnable et son emploi l’obligeait à exercer des fonctions raisonnablement complexes, y compris la supervision d’autrui[60]. Dans la mesure où les faits laissent entendre que l’appelant a pu être crédule, il s’agit d’un trait personnel qui n’est pas important pour la détermination d’une faute lourde.
+[66] L’appelant était conscient, au moment où il a signé la demande de redressement de 2008, qu’il déclarait une perte d’entreprise de 696 134 $. Il a également prévu obtenir un remboursement. Je ne doute pas qu’une personne raisonnable à qui on a présenté le plan préconisé par M. Thompson reconnaîtrait immédiatement qu’il y avait quelque chose qui clochait au sujet de ce plan et qu’il est impossible de faire sortir une perte d’entreprise de 696 134 $ de nulle part, quelle que soit la nature de toute prétendue échappatoire. Néanmoins, en dépit de son éducation et de son expérience professionnelle, l’appelant a déclaré une perte d’entreprise de 696 134 $ en l’absence d’une entreprise réelle et de dépenses d’entreprise réelles. À mon avis, ces faits seuls suggèrent une conduite qui constitue un écart marqué et important par rapport à celle d’une personne raisonnable dans les mêmes circonstances.
+[67] Il y a d’autres faits qui appuient cette conclusion. La perte d’entreprise déclarée par l’appelant représentait presque quatre fois son revenu d’emploi pour l’année d’imposition 2008. La déclaration de la perte a non seulement éliminé son revenu de 2008, mais a créé une perte autre qu’en capital de 522 826 $ que l’appelant a tenté de reporter rétrospectivement à ses années d’imposition 2005, 2006 et 2007. Si elle avait été admise, la perte d’entreprise déclarée par l’appelant aurait éliminé tout l’impôt sur le revenu qui, par ailleurs, aurait été payable pour l’année 2008. Il semble également très probable que la perte aurait éliminé la totalité ou une partie importante de l’impôt payé par l’appelant en 2005, 2006 et 2007[61]. À mon avis, une personne raisonnable verrait un tel résultat remarquable avec beaucoup de méfiance et ne suivrait pas une telle démarche sans la confirmation d’un conseiller indépendant ou de l’ARC que la position prise dans la demande de redressement de TI était bien fondée[62]. Le fait qu’un conseiller, qui peut avoir été ou ne pas avoir été au courant des détails du plan, ait omis de mettre en garde l’appelant contre le plan, ne confirme pas le bien-fondé du plan.
+[68] Avant 2008, le seul remboursement important reçu par l’appelant s’élevait à 15 000 $ et découlait d’une cotisation de 34 000 $ à son REER. Le remboursement promis par le plan était au moins quatre fois plus élevé pour la seule année 2008 et ne nécessitait aucune dépense de la part de l’appelant. Encore une fois, une personne raisonnable verrait un tel résultat remarquable avec une grande méfiance.
+[69] Le nom de M. Thompson ne figure nulle part sur la demande de redressement de 2008, même s’il a préparé la demande de l’appelant. Une personne raisonnable se demanderait pourquoi le nom de M. Thompson ne figure pas sur le formulaire.
+[70] L’appelant a communiqué avec M. Thompson principalement par téléphone et par courriel. Il a rencontré M. Thompson chez lui (chez l’appelant) et ne s’est pas rendu au bureau de M. Thompson à Kincardine. Une personne raisonnable voudrait se rendre au bureau d’une personne préconisant un plan fiscal qui produit un tel résultat remarquable ne serait-ce que pour confirmer que la personne en question avait effectivement un bureau.
+[71] L’appelant n’a pas pu identifier, et n’a pas rencontré, l’un ou l’autre des quatre avocats fiscalistes censés avoir conçu le plan. Une personne raisonnable aurait insisté pour discuter d’un plan fiscal qui génère un tel résultat remarquable avec au moins l’un des quatre avocats fiscalistes qui sont censés avoir conçu le plan.
+[72] L’appelant a reçu la demande de redressement de 2008 dans laquelle le mot « par » figurait devant l’espace où il devait signer le formulaire. Une personne raisonnable aurait demandé pourquoi le mot « par » figurait sur un formulaire qu’elle devait signer.
+[73] M. Thompson n’était pas connu de l’appelant avant que ce dernier fasse appel à lui pour préparer la demande de redressement de 2008. Une personne raisonnable serait très méfiante de conseils fiscaux d’un étranger qui produit un tel résultat remarquable et chercherait une confirmation fiable que le conseil est bon.
+[74] L’appelant a pris contact avec M. Thompson sur recommandation d’un ami qui avait reçu un remboursement d’impôt anormalement élevé. Une personne raisonnable se méfierait d’une recommandation fondée sur une position fiscale qui génère un remboursement d’impôt anormalement élevé. En outre, le fait qu’un remboursement a été remis n’est pas la preuve d’un plan fiscal valable.
+[75] L’appelant n’a ni demandé ni reçu des recommandations de la part de M. Thompson. Une personne raisonnable devrait s’assurer que la personne qui préconise un plan fiscal produisant un tel résultat remarquable dispose de recommandations légitimes.
+[76] L’appelant déclare dans sa communication de la preuve qu’il s’est fié à l’explication de M. Thompson au sujet du plan et qu’il pensait compter sur une échappatoire fiscale pour créer la perte d’entreprise[63]. L’appelant a expliqué sa compréhension du plan dans ses réponses aux questions 20 et 29 des éléments consignés en preuve par l’intimée :
+[TRADUCTION]
+[...] la distinction entre le mandant et le mandataire permet au gouvernement du Canada d’utiliser le numéro d’enregistrement personnel d’un particulier ou le numéro de son acte de naissance comme compte d’obligations, dans lequel le gouvernement emprunte des fonds provenant de sources étrangères pour lui permettre d’obtenir de bons taux, se faire de l’argent sur le dos des citoyens et renflouer les coffres. Tom Thompson a également déclaré que le numéro d’assurance sociale d’une personne fonctionne comme une société, distincte de la personne elle-même, et que l’ARC doit rembourser des impôts à la personne, mais pas au NAS.
+[77] L’appelant explique sa compréhension de l’état des activités de mandataire déposé conjointement avec la demande de redressement de 2008 dans sa réponse à la question 71 :
+[TRADUCTION]
+Ma compréhension de l’état des activités de mandataire figure dans ma réponse à la question 29. Je crois que j’étais le mandant et mon numéro d’assurance sociale était mon mandataire.
+[78] L’explication fournie par M. Thompson est, à première vue, manifestement absurde et aucune personne raisonnable n’accepterait cette explication à l’appui d’une perte d’entreprise de 696 134 $ qui n’a aucune autre justification quelle qu’elle soit. L’idée qu’un numéro d’assurance sociale fonctionne comme une société ou qu’un numéro d’assurance sociale puisse être un mandataire de la personne qui détient ce numéro est ridicule. L’idée selon laquelle une perte de 696 134 $ puisse, dans les faits, sortir de nulle part est également ridicule.
+[79] Les explications figurant dans les réponses aux questions 20, 29 et 71 des éléments consignés en preuve par l’intimée ne décrivent aucun plan fiscal ni échappatoire fiscale. Au contraire, c’est purement et simplement des absurdités et du charabia. À mon avis, aucune personne raisonnable n’accepterait l’explication de M. Thompson à l’appui d’un plan fiscal qui produit une perte d’entreprise de 696 134 $ prétendument fondé sur une échappatoire fiscale. Par conséquent, le fait que les déclarations de M. Thompson fassent partie des circonstances dans lesquelles la personne raisonnable est placée n’est d’aucun secours à l’appelant.
+[80] L’appelant indique dans sa communication de la preuve qu’il a discuté du plan avec son comptable et avec son conseiller financier, et qu’ils ne l’ont pas mis en garde contre le plan. J’ai déjà fait remarquer que l’absence d’une mise en garde contre le plan n’est pas la même chose qu’une confirmation que le plan est digne d’intérêt, ce qu’une personne raisonnable aurait demandé dans ces circonstances. En tout état de cause, l’appelant indique également qu’il n’avait pas de notes ou de documents avec lui lorsqu’il a discuté du plan avec son comptable; une fois de plus, ce ne sont pas les actions d’une personne raisonnable dans ces circonstances.
+[81] L’avocat de l’appelant soutient que l’intimée n’a pas réussi à produire un élément de preuve que l’appelant n’a pas demandé l’avis d’un tiers et qu’elle ne s’est donc pas acquittée du fardeau établi par le paragraphe 163(3) de la LIR. À mon avis, l’absence d’une telle preuve n’est pas fatale à la thèse de l’intimée parce que la totalité de la preuve doit être examinée pour déterminer si l’intimée s’est acquittée du fardeau établi par ce paragraphe. Après un examen minutieux de tous les éléments de preuve de l’intimée en ce qui concerne les circonstances du faux énoncé fait par l’appelant dans la demande de redressement de 2008, je suis d’avis que l’intimée s’est acquittée du fardeau établi par le paragraphe 163(3) de la LIR.
+[82] Plus précisément, la signature par l’appelant de la demande de redressement de 2008 et sa production dans les circonstances révélées par la preuve présentée par l’intimée indiquent un écart marqué et important par rapport à la conduite d’une personne raisonnable dans les mêmes circonstances et constituent une faute lourde comme décrit dans la décision Venne. Par conséquent, le faux énoncé de l’appelant dans la demande de redressement de 2008 a été fait dans des circonstances équivalant à une faute lourde.
+[83] Si l’appelant voulait expliquer pourquoi les faits révélés par la preuve de l’intimée ne traduisent pas exactement les faits qui devraient être pris en considération par la Cour, il lui incombait de témoigner, ce qu’il a choisi de ne pas faire.
+[84] Pour les motifs qui précèdent, l’appel de l’appelant est rejeté avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 2e jour de mai 2016.
+« J.R. Owen »
+Juge Owen
+Traduction certifiée conforme
+ce 28e jour d’avril 2017.
+Mario Lagacé, jurilinguiste
+ANNEXE
+ÉLÉMENTS CONSIGNÉS EN PREUVE PAR L’INTIMÉE EXTRAITS DE L’INTERROGATOIRE PRÉALABLE ÉCRIT DE GEORGE DEGENNARO
+[TRADUCTION]
+Question de l’intimée
+Réponse de l’appelant
+5.
+Vous êtes-vous bien informé sur tous les faits relatifs aux questions en litige dans le présent appel?
+Oui.
+6.
+Confirmez que vous avez examiné l’avis d’appel et la réponse pour les fins du présent appel.
+Je le confirme.
+7.
+Avez-vous examiné les documents figurant dans votre liste des documents et ceux de la liste de l’intimée?
+Oui.
+9.
+Décrivez votre formation, y compris les diplômes ou les accréditations que vous avez obtenus et les dates auxquelles vous les avez obtenus.
+J’ai obtenu mon diplôme d’études secondaires en 1974. De 1976 à 1978, j’ai suivi un cours de quatre ans à l’Institut polytechnique Ryerson pendant deux ans et demi. Je n’ai pas obtenu de diplôme.
+10.
+Décrivez vos antécédents professionnels, y compris votre profession actuelle.
+À l’école secondaire, j’ai travaillé comme préposé de poste d’essence et veilleur de nuit. De 1976 à 1978, j’ai occupé un emploi d’été chez Ontario Hydro dans l’entretien des sites. Après avoir quitté Ryerson, j’ai obtenu un emploi à temps plein auprès d’Ontario Hydro en tant que préposé à l’entretien mécanique de la centrale nucléaire. J’ai ensuite accédé à un poste d’ouvrier qualifié. Après avoir travaillé pendant 22 ans, j’ai été promu au poste de GPN – gestionnaire de premier niveau (poste de superviseur). J’ai occupé ce poste jusqu’à mon départ à la retraite en décembre 2008. Je travaille actuellement pour 2183017 Ontario Inc., qui fournit des services de supervision GPN à Bruce Power.
+11.
+Décrivez les tâches que vous devez effectuer dans le cadre de votre emploi.
+Au cours des années visées par cet appel, mes fonctions touchaient la supervision des Services d’entretien en cas de panne de Bruce Power. Celles-ci incluaient l’exécution des programmes d’inspection lors des pannes de courant, la préparation de séances d’information par emploi, la production de rapports de travail, la coordination entourant le travail ou des tâches de soutien, la liaison entre Bruce Power et d’autres groupes d’entrepreneurs ou de travail ainsi que l’élaboration et l’exécution des programmes d’inspection lors des pannes de courant.
+12.
+Si vous êtes sans emploi actuellement, décrivez :
+a) votre dernier employeur;
+b) le poste/titre que vous occupiez chez cet employeur;
+c) pendant combien d’années vous avez travaillé chez cet employeur;
+d) les fonctions que vous exerciez chez cet employeur;
+e) toutes les promotions que vous avez obtenues auprès de cet employeur.
+S.O.
+13.
+Décrivez toutes les entreprises que vous avez possédées ou exploitées, en indiquant les dates où vous avez cessé de posséder ou d’exploiter ces entreprises.
+Je possédais la 2183017 Ontario Inc., qui est une entreprise contractante. J’ai constitué cette société en janvier 2009. Elle est actuellement active.
+14.
+Par quelle méthode avez-vous produit votre déclaration de revenus initiale de 2008 (p. ex. déclaration sur papier, déclaration électronique)?
+J’ai produit ma déclaration de revenus de 2008 par voie électronique.
+15.
+Qui, le cas échéant, vous a aidé à la préparer et à la produire?
+Mon comptable à l’époque, Michael Bolton, de BDO Canada, a préparé ma déclaration de revenus 2008 selon mes feuillets de renseignements.
+16.
+Dans votre avis d’appel, vous déclarez que Tom Thompson a préparé divers documents et formulaires fiscaux, y compris une demande de redressement de TI pour l’année d’imposition 2008. Est-ce exact?
+Oui.
+17.
+Comment votre demande de redressement de TI pour l’année d’imposition 2008 a-t-elle été envoyée à l’Agence du revenu du Canada (l’« ARC ») (p. ex. par voie électronique, par la poste)?
+J’ai envoyé la demande de redressement de TI par la poste.
+18.
+Si ce n’est pas vous, qui a produit votre demande de redressement de TI auprès de l’ARC?
+J’ai envoyé la demande de redressement de T1 par la poste, mais Tom Thompson l’a préparé.
+19.
+Confirmez que votre signature apparaît sur la demande de redressement de T1 pour l’année d’imposition 2008, à l’onglet 1 du recueil de documents de l’intimée après le mot « par ».
+Je confirme ma signature.
+20.
+Au paragraphe 2 de votre avis d’appel, vous dites que vous avez été persuadé de produire une demande de redressement de votre déclaration de revenus de 2008 et une demande de report rétrospectif des pertes selon l’interprétation de la loi relativement à la « détaxation ». Quelle est votre compréhension de l’« interprétation de la loi relativement à la détaxation »?
+Au moment où Tom Thompson a préparé ma demande de redressement de T1, je n’avais pas entendu l’expression « interprétation de la loi relativement à la détaxation ». Je comprends maintenant que la thèse fiscale que Tom Thompson m’a conseillé d’adopter, et dont il s’est servi pour préparer ma demande de redressement de T1, touche l’interprétation de la loi relativement à la détaxation. À l’heure actuelle, ma compréhension de l’interprétation de la loi relativement à la détaxation est qu’elle n’a pas de fondement en droit et qu’elle est erronée. Au moment où Tom Thompson a préparé ma demande de redressement de T1 et au moment où je l’ai envoyée par la poste, ma compréhension était fondée sur l’explication de Tom Thompson relativement à la distinction juridique entre le mandant et le mandataire. Plus précisément, Tom Thompson a déclaré que la distinction entre le mandant et le mandataire permet au gouvernement du Canada d’utiliser le numéro d’enregistrement personnel d’un particulier ou le numéro de son acte de naissance comme compte d’obligations, dans lequel le gouvernement emprunte des fonds provenant de sources étrangères pour lui permettre d’obtenir de bons taux, se faire de l’argent sur le dos des citoyens et renflouer les coffres. Tom Thompson a également déclaré que le numéro d’assurance sociale d’une personne fonctionne comme une société, distincte de la personne elle-même, et que l’ARC doit rembourser des impôts à la personne, mais pas au NAS.
+21.
+Au paragraphe 8 de votre avis d’appel, vous dites que [TRADUCTION] « la société de l’appelant fournissait à Bruce Power des services d’experts conseils en matière d’entretien dans le cadre d’un contrat de services ». Quel est le nom de votre société?
+a) Quel genre d’activités votre société exerce-t-elle?
+b) Qui sont les administrateurs et les actionnaires de cette société?
+c) Quel est votre rôle principal dans cette société?
+2183071 Ontario Inc.
+a) Services de consultation concernant des services de supervision de gestion de premier niveau.
+b) Ma conjointe, Jennifer DeGennaro, et moi sommes les seuls actionnaires et administrateurs.
+c) Mon rôle principal dans cette société consiste à fournir des services en son nom.
+22.
+Indiquez le nom et les coordonnées du comptable auquel vous faites référence au paragraphe 9 de votre avis d’appel.
+Michael Bolton, BDO Canada, Port Elgin Accounting, 625, rue Mill, Port Elgin (Ontario) N0H 2C0. Tél. : 519-832-2049
+23.
+Quand avez-vous communiqué la première fois avec M. Tom Thompson?
+Mars ou avril 2009.
+24.
+Quel était le mode de communication? Indiquez-moi toute communication relative à votre premier contact avec M. Thompson.
+Mon mode de communication avec Tom Thomson était le téléphone. Je lui ai dit que mon ami avait obtenu un remboursement d’impôt d’un peu moins de 50 000 $ après que Tom ait préparé sa déclaration de revenus. J’ai demandé à Tom de me rencontrer pour qu’il puisse me donner des renseignements sur cette thèse fiscale. Il a dit qu’il était en mesure de me rencontrer.
+25.
+Combien de fois avez-vous rencontré M. Tom Thompson chez vous? Indiquez la date et le motif de votre rencontre avec lui.
+J’ai rencontré Tom Thompson chez moi à trois reprises. La première rencontre a eu lieu au début d’avril 2009 ou vers cette date. Je voulais obtenir des renseignements préliminaires au sujet de ses connaissances fiscales et des possibilités de production de déclarations de revenus. La deuxième rencontre a eu lieu au début de juin 2009 ou vers cette date. Je voulais donner à Tom un résumé de mon compte d’impôt sur le revenu des quelques années précédentes. Lors de notre première rencontre, Tom m’a chargé de demander ce résumé à l’ARC et de le lui remettre parce que cette information devait lui permettre de remplir la demande de redressement de T1. La troisième rencontre a eu lieu à la mi-juin 2009 ou vers cette date. Cette rencontre devait permettre à Tom de me remettre la demande de redressement de T1 pour l’année 2008.
+27.
+Transmettez-nous toutes les notes que vous ou quelqu’un d’autre avez prises au cours de ces rencontres.
+J’ai pris des notes rapides sur divers bouts de papier. Mes notes indiquaient ce qui suit : mandant du mandataire, numéro d’enregistrement ou acte de naissance est un numéro de compte d’obligations, gouv., faire de l’argent à partir des numéros d’assurance sociale, leur donne la possibilité d’emprunter des fonds avec les NAS des personnes comme garantie, 4 avocats de Toronto, 40 % du premier remboursement au compte séquestre, à la deuxième rencontre, il l’a changé à 30 %, d’autres ont reçu des remboursements, l’ARC doit rembourser cet argent.
+28.
+Remettez-nous tous les documents que vous ou toute autre personne présente avez reçus lors de ces rencontres.
+Je n’ai reçu aucun document lors de ces rencontres.
+29.
+Quelle est votre compréhension du « plan » dont vous parlez au paragraphe 14 de votre avis d’appel?
+Au moment où j’ai produit ma demande de redressement de T1, ma compréhension du « plan » visé au paragraphe 14 de l’avis d’appel était fondée sur l’explication de Tom Thompson relativement à la distinction juridique entre le mandant et le mandataire. Plus précisément, Tom Thompson a déclaré que la distinction entre le mandant et le mandataire permet au gouvernement du Canada d’utiliser le numéro d’enregistrement personnel d’un particulier ou le numéro de son acte de naissance comme compte d’obligations, sur lequel le gouvernement emprunte des fonds provenant de sources étrangères pour lui permettre d’obtenir de bons taux, se faire de l’argent sur le dos des citoyens et renflouer les coffres. Tom Thompson a également déclaré que le numéro d’assurance sociale d’une personne fonctionne comme une société, distincte de la personne elle-même, et que l’ARC doit rembourser des impôts à la personne, mais pas au NAS.
+30.
+Au paragraphe 14 de votre avis d’appel, vous indiquez que M. Thompson avait une équipe de quatre avocats fiscalistes qui pouvaient déposer des demandes de redressement qui obligeraient le gouvernement à rembourser l’impôt que vous indûment payé. Indiquez les coordonnées actuelles de ces quatre avocats et de M. Tom Thompson.
+Je ne sais pas où se trouvaient les quatre avocats fiscalistes de Tom Thompson. Je ne les ai pas rencontrés et je n’ai pas leurs coordonnées. Les coordonnées de Tom Thompson sont les suivantes : 140, rue Kitchener, Kincardine (Ontario) – tél. : 519‑396-6027, 226-930-0484, 519-396-1177; courriel : tommyt1957@live.com et tom thompson@tnt.com.
+31.
+Au paragraphe 15, vous dites que vous avez posé à M. Tom Thompson plusieurs questions sur le plan. Indiquez en détail les questions que vous avez posées et les réponses obtenues. Indiquez également tous les documents sur lesquels vous vous êtes fondé pour poser ces questions.
+J’ai demandé à Tom Thompson d’expliquer le fondement de la demande de redressement de T1. Il a répondu en me donnant l’explication qui figure dans ma réponse à la question 29. Je lui ai demandé si ce plan était légitime. Il a dit oui. Pour souligner le fait qu’il était légitime, il a déclaré que d’autres personnes avaient obtenu un remboursement de l’ARC (je savais que c’était vrai). Il a déclaré que ce n’était pas une échappatoire bien connue de la Loi de l’impôt sur le revenu, mais que c’était légal et que l’ARC devait l’honorer. Je lui ai carrément dit que je ne voulais pas y participer si c’était frauduleux. Il a nié catégoriquement que l’échappatoire était frauduleuse. Je ne me suis fondé sur aucun document lorsque je lui ai posé ces questions.
+38.
+Comment avez-vous communiqué avec Tom Thompson? Faites parvenir toutes les copies de la correspondance entre vous et Tom Thompson ou toute personne affiliée à Tom Thompson et le plan, y compris les imprimés de toute communication électronique.
+Je communiquais avec Tom Thompson, principalement, par téléphone. En outre, j’ai eu plusieurs échanges de courriels avec Tom. Les courriels que j’ai échangés avec Tom se trouvent ci-joints à l’annexe « A ».
+39.
+Où Tom Thomson et les avocats fiscalistes exploitaient-ils leur entreprise? Ne vous y êtes-vous jamais rendu? Si oui, décrivez le lieu d’affaires, indiquez-moi l’adresse ainsi que les dates et le nombre de fois où vous y êtes allé.
+Tom Thompson exerçait ses activités dans un bureau à Kincardine. Je ne sais pas où les avocats de Tom exerçaient leurs activités. Je ne suis pas allé au bureau de Tom ou à celui de ses avocats.
+40.
+Avez-vous demandé à M. Thompson et ou à toute personne qui lui est affiliée de vous remettre des recommandations avant de retenir leurs services? Si oui, décrivez en détail votre contact avec les personnes qui ont fait ces recommandations.
+Non.
+41.
+Au paragraphe 22 de votre avis d’appel, vous indiquez également que des avocats fiscalistes ont produit divers documents et formulaires, y compris une demande de redressement de T1 pour votre année d’imposition 2008 et une demande de report rétrospectif des pertes. Indiquez les noms et les coordonnées de ces « avocats fiscalistes ».
+Je n’ai pas les noms ou les coordonnées des avocats.
+43.
+Avez-vous eu des contacts avec M. DiMauro? Si oui, dites-moi combien de fois, comment vous l’avez rencontré et quelle forme de communication vous aviez avec lui. Faites-moi parvenir tous les documents relatifs à cette communication, y compris les imprimés de tous les courriels.
+Mon premier contact avec Alex DiMauro a eu lieu après que l’ARC a établi la nouvelle cotisation dont je fais appel. Je l’ai rencontré lors d’un séminaire sur la fiscalité que lui et Tom Thompson avaient organisé. Après le séminaire, j’ai eu un échange de courriels avec lui sur la façon de répondre à la nouvelle cotisation de l’ARC. Je joins à l’annexe « B » les courriels que j’ai échangés avec Alex.
+57.
+Au cours de l’année d’imposition 2008, vous avez été employé par Bruce Power et avez reçu un feuillet T4, exact? Si ce n’est pas exact, décrivez-moi en détail le revenu que vous avez gagné en 2008.
+Exact.
+58.
+Avez-vous fourni à Tom Thompson vos feuillets T4 et d’autres documents pour l’année d’imposition 2008? Si oui, quand lui avez-vous fourni cette information?
+Oui. J’ai donné les documents à Tom Thomson au début de juin 2009 ou vers cette date.
+59.
+Quand avez-vous reçu une copie de votre demande de redressement de T1 pour l’année d’imposition 2008?
+Tom Thompson m’a remis la demande de redressement de T1 à la mi-juin 2009 ou vers cette date.
+61.
+Avez-vous examiné la demande de redressement de T1 et la demande de report rétrospectif des pertes ainsi que l’état des activités de mandataire pour l’année d’imposition 2008 avant de les signer?
+Oui.
+65.
+Avez-vous subi une perte d’entreprise, comme l’indique votre demande de redressement de T1 pour l’année d’imposition 2008 (onglet 1 du recueil de documents de l’intimée) à la ligne 135, au montant négatif de 696 134 $?
+Je comprends maintenant que je n’ai pas subi de perte d’entreprise de 696 134 $.
+66.
+Si ce n’est pas le cas, pourquoi avez-vous déclaré ce montant?
+J’ai déclaré cette perte d’entreprise parce que Tom Thompson me l’a conseillé et je croyais que c’était la méthode technique nécessaire de production afin de pouvoir profiter de cette échappatoire fiscale.
+67.
+Saviez-vous au moment où vous aviez signé votre demande de redressement de T1 pour l’année d’imposition 2008 que vous déclariez une perte d’entreprise de 696 134 $ à la ligne 135 de votre demande de redressement de T1 pour l’année d’imposition 2008? Sinon, pourquoi ne le saviez-vous pas?
+Oui, à l’époque, je savais que j’avais déclaré une perte d’entreprise de 696 134 $.
+68.
+Êtes-vous d’accord que la demande de redressement de T1 que vous avez déposée pour l’année d’imposition 2008 indiquait une fausse perte d’entreprise?
+Je reconnais maintenant que c’était une fausse perte d’entreprise; cependant, au moment où j’ai signé la demande de redressement de T1, je ne pensais pas que c’était une fausse perte d’entreprise. Je pensais faire ma déclaration conformément à la loi.
+69.
+Qu’avez-vous compris à propos de la perte d’entreprise? Quelles mesures avez‑vous prises pour comprendre ou mieux comprendre la perte d’entreprise?
+Ma compréhension de la perte d’entreprise figure dans ma réponse à la question 29. J’ai essayé de mieux comprendre et j’ai effectivement amélioré ma compréhension en posant des questions à Tom Thompson comme indiqué dans mes réponses aux questions 31 et 32. En outre, j’ai posé des questions à mon comptable et à mon planificateur financier, comme indiqué dans mes réponses aux questions 34 et 35.
+70.
+L’état des activités de mandataire qui figure à l’onglet 2 du recueil de documents de l’intimée a été produit conjointement avec votre demande de redressement de T1 pour 2008, exact?
+Exact.
+71.
+Décrivez votre compréhension de l’état des activités de mandataire et indiquez qui sont le mandataire et le mandant.
+Ma compréhension de l’état des activités de mandataire figure dans ma réponse à la question 29. Je crois que j’étais le mandant et mon numéro d’assurance sociale était mon mandataire.
+73.
+Quelles sont toutes les mesures que vous avez prises pour confirmer que votre demande de redressement de T1 pour l’année d’imposition 2008 était exacte avant de la signer?
+J’ai examiné la demande de redressement de T1 et cru que le montant du revenu était mon revenu pour l’année; cependant, je n’en ai pas vérifié l’exactitude ni confirmé les autres chiffres parce que je croyais comprendre qu’ils étaient requis pour recourir à cette échappatoire fiscale. Dans ces circonstances, je n’avais rien d’autre à confirmer.
+74.
+Lorsque vous avez signé la demande de redressement de T1 pour l’année d’imposition 2008, avez-vous compris que vous recevriez un remboursement de tout l’impôt retenu à la source pour l’année d’imposition 2008?
+Je pensais obtenir un remboursement de l’impôt retenu à la source en 2008 ou, si l’ARC devait rejeter une partie de ma demande, j’obtiendrais un remboursement d’un montant différent.
+75.
+Selon votre entendement, quelle était la raison du remboursement?
+Ma compréhension du remboursement est fondée sur ma compréhension du plan comme indiqué dans ma réponse à la question 29.
+76.
+Avez-vous obtenu un remboursement d’un montant dépassant 5 000 $ avant 2009? Si oui, indiquez-le en détail.
+Oui. En 1998 ou vers cette date, j’ai fait une cotisation à un REER de conjoint d’environ 34 000 $ et obtenu un remboursement d’environ 15 000 $.
+77.
+Avez-vous demandé des copies de vos imprimés de déclarations de revenus pour les années d’imposition 2006, 2007 et 2008? Si oui, quand et pourquoi?
+Oui, j’ai demandé mes renseignements fiscaux en mai 2009 ou vers cette date. J’ai demandé des renseignements, sur recommandation de Tom Thompson, pour qu’il puisse préparer ma demande de redressement de T1.
+78.
+Qui a préparé votre demande de report rétrospectif des pertes (à l’onglet 3 du recueil de documents de l’intimée)?
+Tom Thompson a préparé la demande de report rétrospectif des pertes.
+79.
+Qui a produit votre demande de report rétrospectif des pertes et comment (par exemple, par voie électronique ou par la poste)?
+J’ai envoyé la demande de report rétrospectif des pertes par la poste.
+80.
+Confirmez que votre signature apparaît à la dernière page de la demande de report rétrospectif des pertes après le mot « par : »
+Je confirme ma signature.
+81.
+Quand avez-vous signé la demande de report rétrospectif des pertes?
+J’ai signé la demande de report rétrospectif des pertes le 15 juin 2009 ou vers cette date.
+82.
+Avez-vous fourni à Tom Thompson les données de vos déclarations de revenus pour les années d’imposition précédentes? Si oui, quand avez‑vous fourni ces données et pourquoi? Sinon, qui a calculé les pertes autres qu’en capital pour 2005, 2006 et 2007 sur les lignes 6625, 6626 et 6627 de la demande de report rétrospectif des pertes?
+Questions traitées dans ma réponse à la question 77.
+84.
+Avez-vous examiné la demande de report rétrospectif des pertes avant de la signer? Si oui, étiez-vous au courant à ce moment-là que vous réclamiez des remboursements supplémentaires de tout l’impôt que vous aviez payé pour les années d’imposition 2005, 2006 et 2007?
+J’ai examiné la demande de report rétrospectif des pertes et je savais que je réclamais des remboursements pour ces années.
+85.
+Quelles mesures avez-vous prises pour confirmer que la demande de report rétrospectif des pertes était exacte avant de la signer?
+Tout comme ma réponse à la question 73, je croyais comprendre que les chiffres figurant dans la demande de report rétrospectif des pertes étaient requis pour produire la demande de façon à bénéficier de cette échappatoire fiscale. Selon ma compréhension de la façon dont l’échappatoire fiscale fonctionnait, je n’avais rien à confirmer. J’ai simplement examiné le montant du revenu et estimé que c’était mon revenu de l’année.
+86.
+Pourquoi avez-vous cru que vous alliez obtenir des remboursements supplémentaires à la suite de la demande de report rétrospectif des pertes?
+Je croyais que j’allais obtenir des remboursements pour les années antérieures à cause de ma compréhension du plan comme indiqué dans ma réponse à la question 29.
+87.
+Avant de déposer votre demande de report rétrospectif des pertes, avez‑vous communiqué avec une personne affiliée à Tom Thompson pour discuter de la demande en question? Si oui, donnez des détails sur vos communications et tous les documents qui se rapportent à ces communications.
+Une fois que Tom Thompson m’a remis la demande de report rétrospectif des pertes, je n’ai communiqué avec personne qui est affiliée à Tom Thompson avant d’envoyer la demande de report rétrospectif des pertes par la poste.
+90.
+Qui a produit votre déclaration de revenus pour l’année d’imposition 2009? Indiquez le nom et les coordonnées actuelles de cette personne.
+Brian Venerus a préparé ma déclaration de revenus de 2009. Ses coordonnées figurent dans ma réponse à la question 33.
+91.
+Avez-vous reçu une lettre de l’Agence du revenu du Canada (« ARC ») datée du 23 octobre 2009, après que votre demande de redressement de T1 pour l’année d’imposition 2008 a été produite? Confirmez que le document figurant à l’onglet 3 du recueil de documents de l’appelant est une copie de cette lettre.
+Oui, j’ai reçu la lettre figurant à l’onglet 3 du recueil de documents de l’appelant.
+92.
+Lorsque vous avez reçu la lettre de l’ARC datée du 23 octobre 2009, étiez-vous inquiet? Pourquoi ou pourquoi pas?
+Oui, j’étais inquiet parce que l’ARC demandait des renseignements que je n’avais pas.
+93.
+Qu’avez-vous fait après avoir reçu la lettre du 23 octobre 2009?
+J’ai communiqué avec Tom Thomson par téléphone, je lui ai lu les détails de la lettre, puis je lui ai demandé de communiquer avec l’ARC en mon nom. Il a dit qu’il le ferait.
+94.
+Avez-vous communiqué avec une personne affiliée à Tom Thompson ou Tom Thompson lui-même suivant la réception de la lettre de l’ARC datée du 23 octobre 2009? Si oui, lui ou leur avez-vous demandé d’expliquer pourquoi l’ARC a posé des questions au sujet de votre demande de redressement de votre déclaration de revenus pour l’année d’imposition 2008? Quelle a été la réponse que vous avez reçue de Tom Thompson ou de toute autre personne agissant en son nom?
+Comme je l’ai indiqué dans ma réponse à la question 93, j’ai communiqué avec M. Thompson par téléphone. Je ne lui ai demandé aucune explication quant à la raison pour laquelle l’ARC s’interrogeait sur ma demande de redressement de T1. Je lui ai demandé de joindre directement l’ARC pour répondre directement aux questions de celle-ci parce que, même si je comprenais le plan comme il me l’a expliqué, Tom était en mesure de l’expliquer mieux que moi.
+96.
+Avez-vous répondu à la lettre de l’ARC datée du 23 octobre 2009? Si oui, remettez une copie du document ou de la communication répondant à la lettre de l’ARC.
+J’ai appelé Krista Kirvan, qui avait envoyé la lettre au nom de l’ARC, le 20 novembre 2009, à 16 h 35 et laissé un message vocal.
+97.
+Confirmez que vous avez reçu le document figurant à l’onglet 5 du recueil de documents de l’appelant.
+Je confirme que j’ai reçu le document qui figure à l’onglet 5 du recueil de documents de l’appelant.
+98.
+Qu’avez-vous fait après avoir reçu la lettre qui figure à l’onglet 5 du recueil de documents de l’appelant?
+J’ai téléphoné à Tom Thompson et exigé qu’il communique avec l’agent de l’ARC identifié dans la lettre. Il a dit qu’il parlerait à ses avocats pour répondre à la lettre de l’ARC. En outre, j’ai communiqué avec Tom par courriel (voir l’annexe » A »).
+99.
+Avez-vous communiqué avec une personne affiliée à Tom Thompson ou Tom Thompson lui-même suivant la réception de la lettre de l’ARC qui figure à l’onglet 5 du recueil de documents de l’appelant? Si oui, lui ou leur avez-vous demandé d’expliquer pourquoi l’ARC a posé des questions au sujet de votre demande de redressement de votre déclaration de revenus pour l’année d’imposition 2008? Quelle a été la réponse que vous avez reçue de Tom Thompson ou de toute autre personne agissant en son nom?
+Question traitée dans ma réponse à la question 98.
+101.
+Avez-vous répondu à la lettre de l’ARC figurant à l’onglet 5 du recueil de documents de l’appelant? Si oui, remettez une copie du document ou de la communication répondant à la lettre de l’ARC.
+Je n’ai pas répondu à la lettre de l’ARC.
+102.
+Confirmez que vous avez reçu la lettre datée du 21 janvier 2011 qui figure à l’onglet 6 du recueil de documents de l’appelant.
+Je confirme que j’ai reçu le document qui figure à l’onglet 6 du recueil de documents de l’appelant.
+103.
+Qu’avez-vous fait après avoir reçu la lettre qui figure à l’onglet 6 du recueil de documents de l’appelant?
+J’ai communiqué avec Tom Thompson, par téléphone et par courriel, pour lui demander de joindre l’ARC afin de répondre aux questions soulevées dans la lettre de celle-ci.
+104.
+Avez-vous communiqué avec une personne affiliée à Tom Thompson ou Tom Thompson lui-même suivant la réception de la lettre de l’ARC qui figure à l’onglet 6 du recueil de documents de l’appelant? Si oui, lui ou leur avez-vous demandé d’expliquer pourquoi l’ARC proposait de rejeter la déclaration du revenu d’entreprise brut pour l’année d’imposition 2008? Quelle a été la réponse que vous avez reçue de Tom Thompson ou de toute autre personne agissant en son nom?
+Oui, Tom Thompson m’a orienté vers Alex DiMauro. Je n’ai demandé aucune explication quant à la raison pour laquelle l’ARC s’interrogeait sur ma demande de redressement de T1. Une fois de plus, je voulais que Tom ou Alex communique directement avec l’ARC pour répondre directement aux questions de celle-ci parce que, même si je comprenais le plan comme il me l’a expliqué, ils étaient en mesure de l’expliquer mieux que moi.
+106.
+Avez-vous répondu à la lettre de l’ARC figurant à l’onglet 6 du recueil de documents de l’appelant? Si oui, remettez une copie du document ou de la communication répondant à la lettre de l’ARC.
+Je n’ai pas répondu à la lettre de l’ARC.
+107.
+Confirmez que vous avez reçu la lettre de l’ARC datée du 11 mars 2011 qui figure à l’onglet 8 du recueil de documents de l’appelant.
+Je confirme que j’ai reçu le document qui figure à l’onglet 8 du recueil de documents de l’appelant.
+108.
+Qu’avez-vous fait après avoir reçu la lettre qui figure à l’onglet 8 du recueil de documents de l’appelant?
+J’ai essayé de communiquer avec Tom Thompson au téléphone, mais je n’ai pas pu le joindre. Il n’a pas répondu aux messages vocaux. J’ai communiqué avec Alex DiMauro au téléphone et je lui ai lu le contenu de la lettre, puis j’ai insisté pour qu’il traite la lettre rapidement. Alex a déclaré qu’il allait déposer l’avis d’opposition en mon nom.
+109.
+Avez-vous communiqué avec une personne affiliée à Tom Thompson ou Tom Thompson lui-même suivant la réception de la lettre de l’ARC qui figure à l’onglet 8 du recueil de documents de l’appelant? Si oui, lui ou leur avez-vous demandé d’expliquer pourquoi l’ARC proposait de refuser la demande relative aux pertes d’entreprise pour l’année d’imposition 2008 et pourquoi elle imposait des pénalités concernant les pertes d’entreprise déclarées? Quelle a été la réponse que vous avez reçue de Tom Thompson ou de toute autre personne agissant en son nom?
+Question traitée dans ma réponse à la question 108. J’ai demandé à Alex DiMauro pourquoi l’ARC rejetait le redressement. Alex a répondu que c’était dû au montant élevé de ma demande de remboursement.
+111.
+Avez-vous répondu à la lettre de l’ARC figurant à l’onglet 8 du recueil de documents de l’appelant? Si oui, remettez une copie du document ou de la communication répondant à la lettre de l’ARC.
+Je n’ai pas répondu à la lettre de l’ARC.
+112.
+Un avis de nouvelle cotisation a été établi le 24 mars 2011, exact? (Onglet 11 du recueil de documents de l’appelant)
+Exact.
+113.
+Avez-vous déposé un avis d’opposition à l’avis de nouvelle cotisation de 2008? Si oui, confirmez que le document figurant à l’onglet 7 du recueil de documents de l’intimée est une copie de votre avis d’opposition.
+Oui, j’ai déposé un avis d’opposition qu’Alex DiMauro avait préparé pour moi. Il se trouve à l’onglet 7 du recueil de documents de l’intimée.
+114.
+Confirmez que votre signature se trouve après le mot « par : » sur l’avis d’opposition qui figure à l’onglet 7 du recueil de documents de l’intimée.
+Je le confirme.
+115.
+Pourquoi avez-vous signé votre nom après le mot « par » sur votre avis d’opposition?
+Alex DiMauro m’a demandé de signer de cette façon.
+116.
+À tout moment avant le dépôt de votre avis d’opposition, avez-vous communiqué avec quelqu’un d’autre que Tom Thompson ou toute personne affiliée à Tom Thompson, ou Fiscal Arbitrators pour discuter de votre échange avec l’ARC et de votre demande de redressement pour l’année d’imposition 2008? Si oui, donnez des détails sur vos communications et tous les documents qui se rapportent à ces communications.
+Non.
+117.
+Quelqu’un a-t-il préparé, en votre nom, l’avis d’opposition qui figure à l’onglet 7 du recueil de documents de l’intimée? Si oui, qui?
+Oui, Alex DiMauro a préparé l’avis d’opposition.
+118.
+Vous affirmez dans votre avis d’opposition que [TRADUCTION] « les convictions, les opinions, les allégations et les arguments invoqués par le vérificateur aux fins des cotisations susmentionnées ne sont pas fondés et sont, par les présentes, rejetés. Aucune offre ni entente visant à conclure un contrat selon ces modalités n’a été acceptée. Tous les montants déclarés sont admis en vertu de l’article 20 de la Loi de l’impôt sur le revenu comme étant payés à l’animateur pour les années précédentes [...], etc. ». Pouvez-vous expliquer ce que vous entendez par les faits et les motifs pertinents énoncés dans votre avis d’opposition?
+Je ne peux pas expliquer ces faits et motifs parce que ce n’est pas moi qui les ai énoncés. En tout état de cause, ce n’est pas pertinent pour le présent appel parce que je ne fais qu’interjeter appel des pénalités pour faute lourde.
+119.
+Avez-vous reçu une lettre de l’ARC datée du 5 mars 2012? Confirmez que le document figurant à l’onglet 8 du recueil de documents de l’intimée est une copie de cette lettre.
+Je confirme que j’ai reçu le document qui figure à l’onglet 8 du recueil de documents de l’intimée.
+120.
+Avez-vous répondu à la lettre de l’ARC datée du 5 mars 2012? Confirmez que les lettres qui figurent à l’onglet 14 du recueil de documents de l’appelant sont des lettres en réponse à la lettre datée du 5 mars 2012 que l’ARC vous a envoyée.
+Oui, ma réponse figure à l’onglet 14 du recueil de documents de l’appelant.
+121.
+Avez-vous rédigé la lettre figurant à l’onglet 14 du recueil de documents de l’appelant?
+Non, je n’ai pas rédigé la lettre figurant à l’onglet 14 du recueil de documents de l’appelant.
+123.
+Si votre réponse à la question 121 est « non », qui a rédigé ces lettres qui se trouvent à l’onglet 14 du recueil de documents de l’appelant?
+Alex DiMauro.
+124.
+Avez-vous lu les lettres à l’onglet 14 du recueil de documents de l’appelant avant qu’elles soient envoyées à l’ARC?
+Oui.
+125.
+Avez-vous discuté du contenu de ces lettres avec Tom Thompson ou toute personne qui lui est affiliée ou Fiscal Arbitrators ou l’une de ses filiales avant d’envoyer ces lettres à l’ARC?
+Oui, j’ai discuté du contenu de ces lettres avec Alex DiMauro.
+126.
+Si la réponse à la question 125 est « oui », indiquez-moi ce qui suit :
+a) les coordonnées des personnes avec qui vous aviez communiqué;
+b) les questions que vous avez posées;
+c) les réponses que vous avez reçues;
+d) tous les documents sur lesquels vous vous êtes fondé pour poser ces questions;
+e) tous les documents reçus au cours de l’une ou l’autre de ces communications.
+a) Les coordonnées d’Alex DiMauro figurent dans ma réponse à la question 42.
+b) J’ai demandé si cette lettre répondra aux questions de l’ARC et m’aidera à me préparer à la vérification que celle-ci effectuera.
+c) Alex a répondu qu’elle répondrait aux questions de l’ARC et m’aiderait.
+d) Je ne me suis fondé sur aucun document lorsque j’ai posé ces questions.
+e) Je joins à l’annexe « B » les courriels que j’ai échangés avec Alex DiMauro.
+127.
+Confirmez que vous avez reçu l’avis de ratification pour votre année d’imposition 2008, daté du 16 mai 2012, qui figure à l’onglet 11 du recueil de documents de l’intimée.
+Je confirme que j’ai reçu l’avis de ratification qui figure à l’onglet 11 du recueil de documents de l’intimée.
+128.
+Qu’avez-vous fait lorsque vous avez reçu l’avis de ratification?
+J’ai communiqué avec Alex DiMauro pour l’informer que ses lettres et son avis d’opposition n’ont pas permis d’obtenir les résultats escomptés. Je lui ai demandé s’il allait faire part d’autres observations et quelle était l’étape suivante. Il m’a informé qu’il ne pouvait plus m’aider. J’ai communiqué avec mon comptable, Brian Venerus, pour qu’il me recommande un avocat fiscaliste.
+134.
+Y a-t-il des faits supplémentaires que vous souhaitez fournir? Indiquez ce qu’ils sont et expliquez-les.
+Je n’ai aucun fait supplémentaire à fournir.
+138.
+Confirmez que vous avez examiné les réponses à ces questions et que vous estimez, au mieux de vos compétences, qu’elles sont tout à fait véridiques.
+Je confirme que mes réponses à ces questions sont tout à fait véridiques.
+ÉLÉMENTS CONSIGNÉS EN PREUVE PAR L’APPELANT EXTRAITS DE L’INTERROGATOIRE PRÉALABLE ÉCRIT PAR L’INTIMÉE DE GEORGE DEGENNARO
+[TRADUCTION]
+33.
+En vous reportant au paragraphe 18 de votre avis d’appel, indiquez le nom et les coordonnées du comptable avec qui vous avez discuté du plan. Faites-moi parvenir également toutes les notes ou tous les documents auxquels vous vous êtes reporté lorsque vous avez discuté du plan avec votre comptable.
+J’ai discuté du plan avec un comptable, Brian Venerus, de VP LLP. Voici ses coordonnées : 102-2600, avenue Skymark, Immeuble 10, Mississauga (Ontario) L4W 5B2, tél. : 416-642-7558 et 416-907-4667, courriel : bvenerus@vsllp.ca. Je n’avais pas de notes ou de documents quand j’ai discuté du plan avec Brian.
+35.
+Pourquoi avez-vous décidé de déposer une demande de redressement de T1 et une demande de report rétrospectif des pertes pour l’année d’imposition 2008?
+Comme l’indique ma réponse aux questions 20 et 29, je croyais qu’il y avait une échappatoire dans la Loi de l’impôt sur le revenu qui permettait d’obtenir des remboursements dans certaines circonstances. En outre, comme je l’ai fait savoir dans ma réponse à la question 32, je croyais que, si l’ARC allait apporter des modifications à une déclaration de revenus ou à une demande de redressement, elle le ferait quand elle établirait la cotisation, non pas en établissant une nouvelle cotisation plusieurs années après l’établissement de la cotisation. Je savais que deux autres personnes avaient produit des demandes de redressement de cette manière et avaient obtenu un remboursement de l’ARC; par conséquent, je croyais que c’était une position fiscale légitime; tout simplement une échappatoire fiscale peu connue que l’ARC n’avait pas comblée. Mon comptable, Brian Venerus, et ma planificatrice financière, Deborah Moore, ne m’ont pas mis en garde à ce sujet. En bref, j’ai cru l’explication de Tom Thomson selon laquelle c’était une échappatoire peu connue.
+37.
+Si vous avez été présenté à Tom Thompson par une autre personne, indiquez son nom et ses coordonnées les plus récentes et décrivez votre relation avec elle. Cette description doit obligatoirement indiquer quand vous avez rencontré cette personne, dans quelles circonstances vous l’avez rencontrée et votre compréhension de ses connaissances en comptabilité, en finances ou en matière fiscale.
+Tom Underwood m’a présenté à Tom Thompson. Voici les coordonnées de Tom Underwood : 341, rue Strickel, Port Elgin (Ontario), tél. : 519-389-2903. Tom Underwood et moi avons été amis pendant environ 20 ans. Je croyais que Tom Underwood était un investisseur avisé ayant une certaine connaissance des questions fiscales.
+63.
+Plus précisément, avez-vous reçu le revenu total qui figure dans votre demande de redressement de T1 (onglet 1 du recueil de documents de l’intimée) à la ligne 162, où vous avez déclaré un revenu de 190 590 $?
+Maintenant, je reconnais que je n’ai pas reçu un revenu de 190 590 $. À l’époque visée, je ne savais pas que c’était différent du revenu que j’avais reçu en 2008, à savoir 183 483 $.
+64.
+Si ce n’est pas le cas, pourquoi avez-vous déclaré ce montant?
+Je ne savais pas que c’était différent du montant que j’avais effectivement gagné en 2008, à savoir 183 483 $. D’autres années, je gagnais jusqu’à 196 000 $ et, par conséquent, le montant de 190 590 $ n’était pas extraordinaire.
+89.
+Selon votre point de vue dans le présent litige, avez-vous pris des mesures raisonnables pour veiller à ce que votre revenu, votre impôt à payer et vos crédits soient déclarés de manière exacte dans votre demande de redressement de T1 de 2008 et votre demande de report rétrospectif des pertes? Si oui, et à part tout autre fait examiné en réponse aux questions ci‑dessus, quels sont tous les faits que vous connaissez ou dont vous avez été informés qui vous font croire que vous avez raisonnablement déclaré votre revenu, votre impôt à payer et vos crédits?
+Je crois que j’ai pris des mesures raisonnables. Les faits sont énoncés dans mon avis d’appel et dans mes réponses aux questions de l’intimée.
+RÉFÉRENCE :
+2016 CCI 108
+No DU DOSSIER DE LA COUR :
+2012-3273(IT)G
+INTITULÉ :
+GEORGE DE GENNARO c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 29 janvier 2016
+MOTIFS DU JUGEMENT :
+L’honorable juge John R. Owen
+DATE DU JUGEMENT :
+Le 2 mai 2016
+COMPARUTIONS :
+Avocats de l’appelant
+Me Peter Aprile
+Me Yoni Moussadji
+Avocate de l’intimée :
+Me H. Annette Evans
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Peter Aprile
+Cabinet :
+Counter Tax Lawyers
+Toronto (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Avant le début de l’audience, l’intimée a présenté une requête visant à faire annuler l’exigence relative à l’avis de quatre jours de la procédure no 8. L’intimée a, en fait, donné un préavis de deux jours à l’appelant après avoir été informée qu’il ne serait pas présent à l’audience. Il incombe, bien sûr, aux avocats de veiller à ce que les délais fixés dans les Règles et les directives sur la procédure soient respectés. Cependant, comme l’appelant a reçu un préavis de deux jours (par opposition à aucun avis), j’en conclus que, dans ce cas particulier, il n’y aurait pas de préjudice important pour l’appelant découlant de la renonciation à la période de préavis de quatre jours. Donc, j’ai accueilli la requête et annulé la période de préavis applicable à l’intimée. J’ai aussi annulé la période de préavis de l’appelant pour consigner en preuve les parties de son interrogatoire préalable qui sont admissibles ou pour expliquer les réponses consignées en preuve par l’intimée.
+[2] Voir, en général, Sidney N. Lederman, Alan W. Bryant et Michelle K. Fuerst, The Law of Evidence in Canada, 4e éd. (Markham, Ontario : LexisNexis, 2014), au paragraphe 16.168 et Stanley Schiff, Evidence in the Litigation Process, Master Edition (Scarborough, Ontario : Carswell, 1993), à la page 445.
+[3] Voir, par exemple, l’arrêt Mackow v. Sood, 1993 ABCA 152 (CanLII), au paragraphe 15.
+[4] Question 9 des éléments consignés en preuve par l’intimée.
+[5] Question 10 des éléments consignés en preuve par l’intimée.
+[6] Question 11 des éléments consignés en preuve par l’intimée.
+[7] Questions 13 et 21 des éléments consignés en preuve par l’intimée.
+[8] Question 14 des éléments consignés en preuve par l’intimée.
+[9] Question 15 des éléments consignés en preuve par l’intimée.
+[10] Questions 23 et 24 des éléments consignés en preuve par l’intimée.
+[11] Question 24 des éléments consignés en preuve par l’intimée.
+[12] Questions 25 et 39 des éléments consignés en preuve par l’intimée.
+[13] Question 25 des éléments consignés en preuve par l’intimée.
+[14] Question 40 des éléments consignés en preuve par l’intimée.
+[15] Question 58 des éléments consignés en preuve par l’intimée.
+[16] Question 27 des éléments consignés en preuve par l’intimée.
+[17] Question 30 des éléments consignés en preuve par l’intimée.
+[18] Question 20 des éléments consignés en preuve par l’intimée.
+[19] Question 20 des éléments consignés en preuve par l’intimée. Voir également la question 29.
+[20] Question 69 des éléments consignés en preuve par l’intimée.
+[21] Question 31 des éléments consignés en preuve par l’intimée et question 35 des éléments consignés en preuve par l’appelant.
+[22] Question 33 des éléments consignés en preuve par l’appelant.
+[23] Questions 16, 18 et 59 des éléments consignés en preuve par l’intimée.
+[24] Question 61 des éléments consignés en preuve par l’intimée. Les deux documents figurent sous la cote R-1. Parmi les éléments consignés en preuve par l’intimée, l’appelant identifie l’état des activités de mandataire et la demande de report rétrospectif des pertes comme figurant aux onglets 2 et 3, respectivement, du recueil des documents de l’intimée. Cependant, lors de l’audience, l’avocate de l’intimée a déclaré que les mêmes documents figuraient aussi à l’onglet 1 (conjointement avec la demande de redressement de 2008), ce qui est exact. Pour éviter les doublons, seul l’onglet 1 a été présenté comme pièce.
+[25] Questions 17, 18 et 19 des éléments consignés en preuve par l’intimée.
+[26] Question 70 des éléments consignés en preuve par l’intimée.
+[27] La ligne 135 de la déclaration de revenus T1 indique le revenu d’entreprise net du contribuable pour l’année en question. Un nombre négatif indique une perte d’entreprise.
+[28] Question 71 des éléments consignés en preuve par l’intimée. L’appelant se réfère également à sa compréhension, comme indiqué dans la question 29, des éléments consignés en preuve par l’intimée.
+[29] Questions 13 et 65 des éléments consignés en preuve par l’intimée.
+[30] Question 67 des éléments consignés en preuve par l’intimée.
+[31] Question 66 des éléments consignés en preuve par l’intimée.
+[32] Question 68 des éléments consignés en preuve par l’intimée.
+[33] Question 74 des éléments consignés en preuve par l’intimée.
+[34] Question 76 des éléments consignés en preuve par l’intimée.
+[35] Question 84 des éléments consignés en preuve par l’intimée.
+[36] Questions 79 et 81 des éléments consignés en preuve par l’intimée.
+[37] Question 87 des éléments consignés en preuve par l’intimée.
+[38] Confirmé sous l’intitulé Strachan c. La Reine, 2015 CAF 60.
+[39] Voir également le paragraphe 94 de l’arrêt Merck Frosst Canada Ltée c. Canada (Santé), 2012 CSC 3, [2012] 1 R.C.S. 23.
+[40] Cela peut être mis en contraste avec l’emploi de l’expression « déclarations fausses ou trompeuses » à l’alinéa 239(1)a) de la LIR, qui englobe la mens rea en ce qui concerne l’infraction décrite dans cet alinéa.
+[41] Étant donné que le paragraphe 163(3) de la LIR est une règle législative sans ambiguïté, je fais remarquer que la Cour n’a pas le pouvoir de modifier ou de déplacer le fardeau de la preuve imposé par cette règle. Voir aussi l’arrêt Vine Estate c. Canada, 2015 CAF 125, [2015] 4 R.C.F. 698, au paragraphe 25.
+[42] Voir aussi l’arrêt Vine, précité, note de bas de page 41 précitée, au paragraphe 25.
+[43] Il doit y avoir un faux énoncé par négligence, inattention ou omission volontaire, ou il doit y avoir une fraude dans la production de la déclaration de revenus ou la transmission des renseignements en vertu de la LIR.
+[44] Le terme « déclaration » est défini au paragraphe 163(2) comme étant « une déclaration, un formulaire, un certificat, un état ou une réponse ».
+[45] Par exemple, l’arrêt Panini c. La Reine, 2006 CAF 224, au paragraphe 43. Cependant, la description par la Cour d’appel fédérale de l’aveuglement volontaire dans ce paragraphe doit être lue à la lumière des paragraphes 41 et 42 de l’arrêt, qui indiquent clairement qu’une constatation d’aveuglement volontaire permet de conclure à une faute lourde. Cet argument sera traité plus en détail dans les prochaines pages des présents motifs.
+[46] Voir, par exemple, l’arrêt Shand c. La Reine, 2011 ONCA 5, une affaire touchant une accusation de meurtre en vertu de l’alinéa 229c) du Code criminel. Une demande d’autorisation d’appel devant la Cour suprême du Canada a été rejetée le 19 janvier 2012.
+[47] Philip H. Osborne, The Law of Torts, (5e éd.) (Toronto : Irwin Law, 2015), à la page 264.
+[48] Osborne, précité, à la page 264, note de bas de page 1.
+[49] Osborne, précité, à la page 485.
+[50] Osborne, précité, à la page 486.
+[51] Osborne, précité, aux pages 27 et 28.
+[52] Voir, par exemple, l’arrêt R. c. Beatty, 2008 CSC 5, [2008] 1 R.C.S. 49, une affaire touchant une accusation de conduite dangereuse d’un véhicule à moteur causant la mort. L’arrêt Beatty a été appliqué dans l’arrêt R. c. Roy, 2012 CSC 26, [2012] 2 R.C.S. 60.
+[53] Arrêt Beatty, précité, paragraphes 35 et 36.
+[54] Arrêt Beatty, précité, paragraphe 40.
+[55] Voir, par exemple, l’arrêt R. v. J.F., 2008 CSC 60, [2008] 3 R.C.S. 215, une affaire touchant les accusations d’homicide involontaire coupable par négligence criminelle et d’homicide involontaire coupable résultant de l’omission de fournir les choses nécessaires à l’existence.
+[56] Kent Roach, Criminal Law, 6e éd. (Toronto : Irwin Law, 2015), à la page 204.
+[57] Précité, à la page 201.
+[58] Comme il est indiqué plus haut, la connaissance subjective est, cependant, pertinente à la norme « sciemment » du paragraphe 163 (2) de la LIR.
+[59] Le fardeau d’établir cette incapacité incombe à l’appelant.
+[60] En tout état de cause, comme indiqué précédemment, le fardeau d’établir l’incapacité incombe à l’appelant.
+[61] Je n’ai pas de preuve directe quant à l’effet du report rétrospectif des pertes, s’il avait été autorisé. Cependant, il semble peu probable, compte tenu du revenu de 2008 de l’appelant et de la nature de son emploi, que son revenu était très différent en 2005, 2006 et 2007.
+[62] La suggestion selon laquelle l’appelant s’est fié à M. Thompson est abordée ci-dessous.
+[63] Je considère que ce fait est pertinent, car il se rapporte à un aspect des circonstances dans lesquelles la « personne raisonnable » est censée agir, tel que requis par l’application d’une norme de faute lourde.

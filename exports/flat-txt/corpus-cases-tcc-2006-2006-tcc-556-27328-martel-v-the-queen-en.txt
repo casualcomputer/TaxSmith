@@ -1,0 +1,239 @@
+Title: Martel v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27328/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-556-27328-martel-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-10-20
+
+# Martel v. The Queen
+
+- Citation: 2006 TCC 556
+- Decision date: 2006-10-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 868, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Martel v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-20
+Neutral citation
+2006 TCC 556
+File numbers
+2002-3520(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3520(IT)G
+BETWEEN:
+RICHARD R. MARTEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 23 and 24, 2005, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Peter Annis and
+François Landry
+Counsel for the Respondent:
+Carole Benoît
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment under the Income Tax Act ("the Act") for the 1998 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment taking into account the fact that the Appellant is entitled to a business investment loss in the amount of $140,000, the deductible amount of the loss being ¾ of the loss, that is $105,000, in accordance with paragraphs 38(1)(c) and 39(1)(c) of the Act.
+The Appellant is entitled to his legal costs under Tariffs A and B of Schedule II of the Tax Court of Canada Rules (General Procedure).
+Signed at Ottawa, Canada, this 20th day of October 2006.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 24th day of March 2007.
+Gibson Boyd, Translator
+Citation: 2006TCC556
+Date: 20061020
+Docket: 2002-3520(IT)G
+BETWEEN:
+RICHARD R. MARTEL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[OFFICIAL ENGLISH TRANSLATION]
+Lamarre J.
+[1] The Appellant is appealing from an assessment for the 1998 taxation year by which the Minister of National Revenue ("the Minister") denied him a business investment loss of $216,839.31. At the beginning of the hearing, one of the Appellant’s counsel mentioned that of this amount, only ¾ of $140,000, or $105,000, was now being claimed by the Appellant as a deductible business investment loss, pursuant to paragraphs 38(1)(c) and 39(1)(c) of the Income Tax Act ("the Act").
+Summary of the dispute
+[2] The Appellant explained his right to a loss of $140,000 as follows. In 1994 he advanced a sum of $200,000 to two businesses, Services Environnementaux E.G. Plus Inc. ("E.G. Plus") and 9003-5924 Quebec Inc., which subsequently became Biagen Technologies Inc. ("Biagen", both of them Canadian-controlled private corporations with which the Appellant was at arm's length. These two companies claimed to be in the process of marketing a new technology, a dehydrator with a patent pending under the name of DEC2000, used for dehydrating all types of waste, but more specifically pig slurry.
+[3] The Appellant invested an initial sum of $100,000 in E.G. Plus in consideration of a certificate for 256 shares of the company (Exhibit A-1, tab 2). He invested another $100,000 in the form of an interest-free loan to Biagen, repayable within six months. Biagen agreed to deliver to the Appellant 40,000 shares of its capital stock (Exhibit A-1, tab 3). This loan was never repaid to the Appellant by Biagen.
+[4] On May 2, 1996, the Appellant disposed of his 256 shares in E.G. Plus and the rights that he held with regard to Biagen to DEC Technologies Inc. ("DEC Technologies"), a company represented by Pierre Joré and with which the Appellant was at arm’s length, in consideration of $200,000 (Exhibit A-1, tab 9). DEC Technologies agreed to make a first payment of $60,000 on the same day, which was done. A second payment of $40,000 was to be made before July 1, 1996, and a third payment, of $100,000, was to be made to the seller before December 31, 1996. This sales agreement specified that the balance of the sale price carried no interest. By this agreement, the Appellant handed over his certificate of shares in E.G. Plus to the buyer and discharged any sum owed to him by E.G. Plus and Biagen. In a separate document also signed by the Appellant on May 2, 1996, the Appellant waived his right to all recourse and to any revenue potentially arising from the "DEC Technologies dehydrator project" (Exhibit I-1, tab 15).
+[5] The balance of $140,000 was never paid to the Appellant and it is precisely this sum that he attempted to claim as a business investment loss incurred during his 1998 taxation year, on the ground that this amount, according to him, became unrecoverable in 1998.
+Facts
+[6] DEC Technologies was part of a group of companies ("the DEC Group"), several of which were created in 1996 in order to benefit from government subsidies for research and development related to the same project. Towards the end of 1996 and at the beginning of 1997, the companies of the DEC Group, the designers of the project and certain investors found themselves involved in numerous legal proceedings. The Appellant was a passive investor and was not a party to those disputes. DEC Technologies and Pierre Joré, in particular, had claims for damages against them. Despite the sums that were still owed him, the Appellant apparently advanced Mr. Joré $10,000 to pay for his legal fees, in the aim, according to the Appellant, of protecting his own account receivable. On February 13, 1997, the Superior Court of Quebec rendered a safeguard order in which the different stakeholders were ordered to act according to certain parameters pending resolution of the different disputes (Exhibit A-1, tab 16).
+[7] On May 12, 1997, the different parties involved in the legal proceedings came to an agreement in which the rights and interests in the invention were distributed. The agreement set out the payment of royalties for each dehydrator sold, after payment of all debts. In Appendix A of the agreement, the Appellant appeared as one of the creditors of the DEC Group for $161,000, with interest (Exhibit A‑1, tab 22, Appendix A, page A-3). According to this same Appendix, the accounts payable as of May 1, 1997, came to $502,012 for DEC Technologies alone, and to $611,752 in total for the DEC Group. The bank overdraft as of March 1, 1997, totalled $336,333 for the entire DEC Group, including $78,332 for DEC Technologies. Bank loans totalled $380,000, including $80,000 for DEC Technologies. The total of amounts due to creditors at that time came to $1,943,444 (Exhibit A-1, tab 22, Appendix A, page A-5).
+[8] Despite the agreement, one of the parties to the agreement, the designer of the invention, Mr. Philippe Varvat, assigned, on June 19, 1997, all rights to the invention to a company called Métacor International Inc. ("Métacor") and Roland Chrétien, in consideration of an advance of $75,000 (Exhibit A-1, tab 24). If this sum was not reimbursed before December 19, 1997, Métacor and Mr. Chrétien (the assignees) would become owners of all rights and interests in the invention. In this assignment, Mr. Varvat represented himself as sole owner of the invention and of all rights, titles and interests in the patent applications pertaining to the invention. As Mr. Varvat disappeared with $75,000 without leaving a trace, the Métacor-Chrétien group officially became owner of all rights to the invention as of December 19, 1997 (Exhibit A-1, tab 26).
+[9] In the meantime, Mr. Joré, who still believed in the success of this technology, took steps to recover the rights to the invention, which had been assigned by Mr. Varvat in fraud of the agreement of May 12, 1997. With some extra financing, he set about rectifying the situation of each of the companies of the DEC Group which had been neglected during the legal action. In September 1997, he filed the unaudited financial statements of DEC Technologies for the year ending March 31, 1996, with the documentation that he had obtained through the safeguard order. In DEC Technologies’ tax return filed on September 30, 1997, for 1996, a tax credit in the amount of $64,804 for research and development was claimed (Exhibit I -1, tab 37). For the year ending March 31, 1997, Mr. Joré was not aware that a tax return had been filed for DEC Technologies, but the appeals officer of the Canada Customs and Revenue Agency, Mr. Hugues Ouimet, confirmed that no credit had been allowed for that year. For subsequent years, it was only in February 2000 that DEC Technologies resumed filing tax returns and claiming investment tax credits (Exhibit I-1, tabs 50 to 53).
+[10] If we go back to 1997, Mr. Joré updated the total amount of the debt of the DEC Group on November 24, 1997, which then came to $2,347,316 (Exhibit A-1, tab 28). During the same period, he was being sued jointly with DEC Technologies, Philippe Varvat and E.G. Plus by the Bank of Montreal for $99,748.91, under legal proceedings filed before the Superior Court of Quebec on December 18, 1997 (Exhibit A-1, tab 29).
+[11] In early 1998, the Appellant asked his lawyer at the time, Jean-Robert Turcotte, to look into the situation. After consulting public, corporate and judicial records, Mr. Turcotte was of the opinion that the Appellant no longer had any chance of recovering his debt. Indeed, the companies had all failed to produce annual declarations and some of them were simply no longer registered with the Inspector General of Financial Institutions, Industry Canada or Corporations Canada (see Exhibit I-1, tabs 24 and 25). The group of companies had not filed financial statements for 1997 and had no place of business. According to Mr. Turcotte, it was a "total mess". Moreover, Mr. Turcotte had seen correspondence establishing that the capabilities of the prototype had been overestimated in order to obtain financing from the bank (letter from Mr. Joré dated April 25, 1997, to two shareholders and directors of the DEC Group, Exhibit A-2). Mr. Turcotte had also spoken with the engineer employed by DEC Technologies, who had observed that the performance of the pig slurry conservation prototype was too low for it to be marketed.
+[12] Despite everything, and because Mr. Joré seemed to truly believe in the possibility of refinancing himself to recover the rights to the invention and try to market it again, Mr. Turcotte accepted, on the Appellant’s request, to take steps in that direction. On August 13, 1997, a law firm wrote to Mr. Joré about the possibility of resolving the problem of inadequate performance and about making improvements to the dehydration device for the purposes of its patentability (Exhibit A-1, tab 27). On February 5, 1998, Mr. Turcotte wrote to the consulting group Roche Ltée, requesting a meeting between them and Mr. Joré, an engineer from DEC Technologies, the Appellant, a financial advisor and an accountant, in order to obtain their support for a feasibility study on the marketing of the invention (Exhibit A-1, tab 30). On March 31 and April 2, 1998, Mr. Turcotte wrote to Métacor, which was a manufacturing company and could have built the prototype, to inform them of a plan to relaunch the invention in concert with the Appellant and the Roche group. At the same time, he proposed the creation of a new legal entity having complete control over this technology and that would be 70% held by the Appellant and new investors and 30% by the Métacor group (Exhibit A-1, tabs 32 and 33).
+[13] According to Mr. Turcotte, the Appellant was ready at that time to invest a large sum in the revival of this project. On April 13, 1998, Mr. Gérald Calixte, on behalf of Métacor, responded directly to the Appellant, asking him to raise his offer substantially (Exhibit A-1, tab 34), to which Mr. Turcotte replied on April 16, 1998, saying that given the lack of coherence between their discussions and their correspondence, the Appellant no longer saw any use in continuing the study of the proposed recovery plan. He closed the file accordingly (Exhibit A-1, tab 36). Mr. Turcotte notified the Roche group of this decision on the same day (Exhibit A‑1, tab 35). Mr. Turcotte then suggested to the Appellant to give up on his investment and claim a tax loss. He then recommended to him that he obtain a letter from Mr. Joré, on behalf of the DEC Group, establishing the state of the situation so that the Appellant could demonstrate that he had no further hope of recovering his investment.
+[14] In two letters dated April 16 and June 15, 1998, Mr. Joré confirmed that the DEC Group and the related corporations had been inoperative for several months, as was the technology that was supposed to be marketed. He added that the financial institutions had initiated proceedings to recover the amounts due (Exhibit A-1, tabs 37 and 38). This, however, did not prevent Pierre Joré from signing, on June 15, 1998, an acknowledgement of debt to the Appellant in the name of DEC Technologies for the amount of $140,000, under the terms of the sales agreement of May 2, 1996, as well as an additional amount of $60,000 that was also owed to the Appellant (Exhibit A-1, tab 39). By this document, DEC Technologies agreed to reimburse the sum of $200,000 to the Appellant no later than December 15, 2000, with no interest on the debt before that date. The agreement sets out an additional period of three years thereafter, at 10% annual interest. Mr. Joré was also to personally stand surety (Exhibit A-1, tab 40). On April 19 and July 19, 1999, Mr. Turcotte followed up with Mr. Joré on this subject (Exhibit A-1, tabs 43 and 44). On December 18, 2000, the Appellant received a cheque for $30,000 from DEC Technologies, which was returned on December 19, 2000, for insufficient funds (Exhibit A-1, tab 48). The Appellant was never repaid the amount of $200,000. Mr. Joré explained that he had offered to personally sign an acknowledgement of debt towards Mr. Martel, although Mr. Martel had lost faith. Mr. Joré was and still is convinced that he will repay his debts one day.
+[15] To that end, on August 28, 1998, Mr. Joré signed a research and development agreement between himself, the company J.P. Partenaires Inc. ("J.P. Partenaires"), of which he was the president, and DEC Technologies (Exhibit I-1, tab 54). According to this agreement, DEC Technologies pursued the research and development of the DEC2000 project with funds of $600,000 per year paid by J.P. Partenaires. The evidence is unclear as to the origin of these funds and whether they were in fact paid by J.P. Partenaires to DEC Technologies. According to Mr. Joré, it was a personal agreement that he had not disclosed to the investors. Neither the Appellant nor Mr. Turcotte were apprised of this agreement. All that can be observed is that the financial statements filed for DEC Technologies for the fiscal year ending March 31, 2001, suddenly show a sales figure of $3,040,000 (Exhibit I-1, tab 52). Mr. Joré vaguely explained that he had signed an agreement with Natural Resources Canada, which was promoting the development of dehydration and thermodynamics, and that he had apparently found new investors. The money was apparently invested in J.P. Partenaires since no investor would have agreed to inject money into DEC Technologies, which was, according to Mr. Joré, clearly bankrupt (see transcripts, volume 2, page 406). Mr. Joré explained that the Appellant was not aware of and was in no way involved in this new attempt to resume operations. The Appellant was also not aware that DEC technologies had received $3,040,000 during its 2001 fiscal year. Mr. Joré also acknowledged that approximately $10,000,000 has been invested in this project to date, without any of the investors recovering their investment.
+[16] Then, on October 26, 1998, the Métacor-Chrétien group assigned its rights to the invention to Mr. Joré. As consideration for this, Mr. Joré agreed that DEC Technologies would pay a royalty of $30,000 for each machine sold once the invention was on the market. This royalty would first repay the $75,000 advanced by the Métacor-Chrétien group to Mr. Varvat on June 19, 1997, then repay the other creditors and suppliers (Exhibit A-1, tab 42). The Appellant was not included in this agreement, as Mr. Joré had already signed an acknowledgement of debt towards him on June 15, 1998. Mr. Joré testified that the Appellant was not informed of this agreement with the Métacor-Chrétien group.
+Submissions of the parties
+[17] The Appellant claimed a business investment loss during the 1998 taxation year, since he and his lawyer, Mr. Turcotte, were of the opinion that the debt of $140,000 that was still owed to him at the end of the taxation year had become a bad debt during the year. Indeed, according to their perception of the situation, DEC Technologies and DEC Group were heavily in debt, none of the companies was operating, the dehydrator was not operational and their attempts with Pierre Joré over the course of 1998 to restructure and market the invention all failed. Despite the acknowledgement of debt signed by Mr. Joré in June 1998, at his request, the Appellant adopted the opinion of his attorney that it was a waste of time and that, objectively, there was no solution possible. As for bringing recovery proceedings against DEC Technologies and Mr. Joré, apart from the acknowledgement of debt that he had agreed to sign, the Appellant realized, on the advice of his attorney, that he would lose even more time and money in such proceedings without gaining anything in exchange, since neither DEC Technologies nor Mr. Joré had any assets or cash holdings to pay off their debt.
+[18] The Minister disallowed this loss, considering that it was not unrecoverable in 1998. DEC Technologies filed tax returns until 2003, claiming for each year, except for 1997, investment tax credits that it was granted. In addition, the financial statements filed for 1998 and the following years showed a series of intercorporate loans without interest or terms of payment. Moreover, according to the Minister, the Appellant made no attempt to recover the debt.
+[19] In her Reply to the Notice of Appeal, the Respondent alleged that if the existence of a loss is determined, the Appellant is precluded by estoppel from claiming the existence of the transaction of May 2, 1996, because he did not declare it in his 1996 tax return. In her written submissions, counsel for the Respondent presented no argument on the subject and I must therefore conclude that she abandons this argument.
+[20] Moreover, in her Reply to the Notice of Appeal, the Respondent also advanced the argument, which was not relied on in making the reassessment, that the loss, if any, is nil under the terms of subparagraph 40(2)(g)(ii) of the Act, since the debt said to be a bad debt in 1998 was not acquired for the purpose of gaining or producing income from a business or property. In response, the Appellant acknowledges that the debt was not acquired for the purpose of gaining or producing income from a business or property, but argues that the debt in question was acquired in consideration of the disposition of capital property to a person with whom the Appellant was dealing at arm's length. In such a case, subparagraph 40(2)(g)(ii) cannot be relied on to say that the loss is nil even if the debt was not acquired for the purpose of gaining or producing income from a business or property.
+[21] Subparagraph 40(2)(g)(ii) of the Act reads as follows:
+40(2)
+(2) Limitations. Notwithstanding subsection 40(1):
+. . .
+(g) a taxpayer's loss, if any, from the disposition of a property, to the extent that it is
+. . .
+(ii) a loss from the disposition of a debt or other right to receive an amount, unless the debt or right, as the case may be, was acquired by the taxpayer for the purpose of gaining or producing income from a business or property (other than exempt income) or as consideration for the disposition of capital property to a person with whom the taxpayer was dealing at arm's length,
+. . .
+is nil;
+[22] Counsel for the Appellant argued in their written submissions that:
+[TRANSLATION]
+31. In this case, the debt or the right to receive an amount was acquired as consideration for shares of Services Environnementaux E.G. Plus Inc., a debt owed by Biagen Technologies Inc., and the right to receive shares from Biagen. As a result, do these three properties constitute "capital property"?
+Capital property – Section 54 of the ITA
+29. The term "capital property" is defined in section 54 of the ITA as: "any property, any gain or loss from the disposition of which would, if the property were disposed of, be a capital gain or a capital loss, as the case may be, of the taxpayer."
+30. In the case of the shares of Services Environnementaux E.G. Plus Inc, we submit that their disposition for proceeds different from their adjusted cost base would have resulted in a capital gain or a capital loss. As for the debt of Biagen Technologies Inc. and the right to receive Biagen’s shares, we submit that these "rights" would have also resulted in a capital gain or a capital loss if the product of their disposition had been different from their adjusted cost base.
+31. Thus, we submit that the property disposed of by the Appellant in 1996 was capital property within the meaning of section 54 of the ITA. The right to receive payments (the balance of $140,000) constituted a debt acquired as consideration for the disposition of this property as capital property under subparagraph 40(2)(g)(ii) of the ITA. This debt was determined by the Appellant to be unrecoverable in 1998 under subsection 50(1)(a). There was therefore a capital loss and business investment loss, since the debtor was a Canadian-controlled private corporation operating a small business. Consequently, all of the conditions and criteria of deductibility have been met.
+[23] The Respondent, in her written submissions, retorted not only by again arguing that the debt was not acquired for the purpose of gaining an income from business or property (which was conceded by the Appellant), but also that the second exception in subparagraph 40(2)(g)(ii), raised by the Appellant, is inapplicable, since several factors demonstrate that the parties were not dealing with each other at arm’s length. The factors mentioned on page five of the written submissions of the Respondent are the following:
+• the terms of the agreement;
+• the continued personal and professional relations between the parties, despite the unpaid debt of $140,000:
+(i) the fact that $10,000 was advanced by the Appellant without interest and without a promissory note;
+(ii) the fact that the Appellant guaranteed the payment of Joré’s legal fees;
+(iii) the fact that monies were advanced to help Joré meet his essential needs;
+(iv) the fact that the Appellant was involved in this attempt to revive the project;
+(v) the fact that he Appellant was aware that Joré had been cited to appear (the Respondent submits, to this effect, that these parties spoke before the trial. Otherwise, how can it be explained that the Appellant – who never saw the financial statements – knew that the financial statements and tax returns were not filed until 2000;11
+(vi) The fact that the Appellant and Joré had lunch together on the day of the trial, although the Appellant refused to call Joré to testify;
+• the fact that Mr. Turcotte represented the DEC Group in 199812, that he was retained for the revival of the project by a group of investors; and
+• the fact that Mr. Turcotte was instructed by Joré to deliver a sum of money to the Appellant13.
+___________________________
+11 Appellant’s testimony, pp. 141-143.
+12 Turcotte’s testimony, p. 264.
+13 Turcotte’s testimony, p. 294.
+Analysis
+Did the debt become a bad debt in 1998?
+[24] The Appellant relies on paragraph 50(1)(a) of the Act to argue that he disposed of the debt to him of $140,000 at a loss and thus claimed a business investment loss, as defined in paragraph 39(1)(c) of the Act. The relevant parts of these legislative provisions read as follows:
+SECTION 39: Meaning of capital gain and capital loss.
+(1) For the purposes of this Act:
+. . .
+(c) a taxpayer's business investment loss for a taxation year from the disposition of any property is the amount, if any, by which the taxpayer's capital loss for the year from a disposition after 1977:
+(i) to which subsection 50(1) applies,
+(ii) to a person with whom the taxpayer was dealing at arm’s length,
+of any property that is:
+(iii) a share of the capital stock of a small business corporation, or
+(iv) a debt owing to the taxpayer by a Canadian-controlled private corporation (other than, where the taxpayer is a corporation, a debt owing to it by a corporation with which it does not deal at arm's length) that is:
+(A) a small business corporation,
+. . .
+SECTION 50: Debts established to be bad debts and shares of bankrupt corporation.
+(1) For the purposes of this sub-division, where:
+(a) a debt owing to a taxpayer at the end of a taxation year (other than a debt owing to the taxpayer in respect of the disposition of personal-use property) is established by the taxpayer to have become a bad debt in the year, or;
+. . .
+and the taxpayer elects in the taxpayer's return of income for the year to have this subsection apply in respect of the debt or the share, as the case may be, the taxpayer shall be deemed to have disposed of the debt or the share, as the case may be, at the end of the year for proceeds equal to nil and to have reacquired it immediately after the end of the year at a cost equal to nil.
+[25] The only issue is whether the Appellant was right in determining that the debt of $140,000 that was owed to him at the end of the 1998 taxation year was revealed to be a bad debt during the year.
+[26] In Rich v. Canada (C.A.), [2003] 3 F.C. 493, 2003 FCA 38, Rothstein J.A., as he then was, reiterated what has often been said by the courts, that to know if a debt has become a bad debt by a certain date, the creditor must honestly and reasonably analyze certain factors. Rothstein J.A. summarized the factors that, in his mind, should generally be taken into account. Rothstein J.A. stated the following at paragraphs 13, 14, 15, 23, 24, 28 and 29:
+[13] I would summarize factors that I think usually should be taken into account in determining whether a debt has become bad as:
+1. the history and age of the debt;
+2. the financial position of the debtor, its revenues and expenses, whether it is earning income or incurring losses, its cash flow and its assets, liabilities and liquidity;
+3. changes in total sales as compared with prior years;
+4. the debtor's cash, accounts receivable and other current assets at the relevant time and as compared with prior years;
+5. the debtor's accounts payable and other current liabilities at the relevant time and as compared with prior years;
+6. the general business conditions in the country, the community of the debtor, and in the debtor's line of business; and
+7. the past experience of the taxpayer with writing off bad debts.
+This list is not exhaustive and, in different circumstances, one factor or another may be more important.
+[14] While future prospects of the debtor company may be relevant in some cases, the predominant considerations would normally be past and present. If there is some evidence of an event that will probably occur in the future that would suggest that the debt is collectible on the happening of the event, the future event should be considered. If future considerations are only speculative, they would not be material in an assessment of whether a past due debt is collectible.
+[15] Nor is it necessary for a creditor to exhaust all possible recourses of collection. All that is required is an honest and reasonable assessment. Indeed, should a bad debt subsequently be collected in whole or in part, the amount collected is taken into income in the year it is received.
+. . .
+[23] However, there is no legal requirement that proactive steps be taken in all cases. The obligation to take such steps will only arise where there is some evidence to show that collection on the loan is reasonably possible. This, of course, would include cases in which the Minister has assumed that collection was reasonably possible and the taxpayer has failed to address or has inadequately addressed that assumption.
+[24] Here, the question is whether it was honest and reasonable for the appellant to consider the debt to be bad on December 31, 1995. If there was some evidence to suggest that a workout or refinancing might have been available to enable collection of some or all of the loan, I would agree that the appellant, being intimately involved with the company, would have to show that he had at least attempted some proactive steps before declaring the loan bad.
+. . .
+[28] The test the appellant had to meet was that he made an honest and reasonable determination that the loan was bad. It follows that, in the absence of any evidence to suggest that proactive steps could reasonably result in collection of all or part of the loan, such proactive steps were not rationally connected to the determination of whether the assessment made by the appellant was honest and reasonable.
+[29] Of course, the onus is on a taxpayer to demolish the assumptions made by the Minister in his reply to the notice of appeal. Here, there was no express assumption that the loan could be recovered through the taking of proactive steps. However, even if there had been, there is no obligation on the taxpayer to try to think of every conceivable proactive step and show that none would be productive. It is sufficient that the taxpayer provides evidence as to the condition of the debtor and its inability at the relevant time to repay the loan in whole or in part. That was the evidence in this case.
+[27] In this case, it is important to refer to the year 1998. On December 31, 1998, the Appellant could not predict that DEC Technologies would be revived in 2000. It is necessary to put things in context and acknowledge that as of December 31, 1998, the last fiscal year for which DEC Technologies had filed financial statements was the one ending on March 31, 1996. According to those unaudited statements prepared in September 1997 with the documentation that Mr. Joré had been able to retrieve through the effect of the safeguard judgment of February 13, 1997, the company showed no revenue, but rather a net loss of $147,536. The company had already suffered net losses of $98,103 in 1995 and $72,730 in 1994. The only assets were comprised of some office equipment ($10,512), development fees that had been capitalized ($598,248) and an investment tax credit receivable of $240,194. The company owed $597,598 to its creditors and had a long-term debt of $387,581, including $345,682 to a subsidiary, without interest or terms of reimbursement. Even excluding this debt to a subsidiary, the company was then in debt by at least $660,000 (based on the balance sheet for DEC Technologies found in Exhibit I-1, tab 37), and could hope for a tax credit of $240,194, which leaves a debt of at least $420,000. In 1998, Mr. Turcotte had analyzed the situation and discovered that DEC Technologies was part of a group that had been in conflict over rights to the invention. Although an out-of-court agreement had been reached in May 1997, the designer of the invention then sold the rights to the invention, in violation of the agreement of May 1997. In view of Mr. Joré’s continued enthusiasm, and still hoping to recover his investment, the Appellant and his lawyer tried to revive the project in 1998. Faced with the discord of the same protagonists, the revival project collapsed. Already in May 1997, DEC Technologies owed its suppliers $502,012, had a bank overdraft of $78,332 and a bank loan of $80,000. The total owed by the DEC Group came to $1,943,444 in May 1997 and $2,346,316 on November 24, 1997.
+[28] In trying to revive the project in early 1998, the Appellant gave himself another chance of recovering his investment. The Appellant, who works in insurance, said candidly that he is not an expert in investment. But faced with the obvious, i.e. the dissension and disagreement among the different parties involved, he finally abandoned the project. He ended up listening to his lawyer, who convinced him that there was no further hope of recovering his debt.
+[29] The fact that Mr. Joré agreed to sign an acknowledgement of debt does not, in my opinion, change the fact that the Appellant had realized at this point that he had lost his money. In my opinion, he signed this acknowledgement of debt at the request of Mr. Joré without conviction, as people may act when they figure they have nothing else to lose. Moreover, he was not aware that Mr. Joré was trying again to bring the project to life, this time with his own business J.P. Partenaires. The Appellant was no longer involved at that time. He was never informed afterwards that Mr. Joré had sought financing, involving the Department of Natural Resources. Even if he had been, it would not have changed much, since Mr. Joré was once again unable to deliver the goods. Mr. Joré continued to claim investment tax credits for DEC Technologies, without ever being able to get his project off the ground or reimburse the many investors who had sunk their money into it, while the principal stakeholder did not have the necessary calibre to execute his business plan.
+[30] In my opinion, the Appellant has demonstrated that he took proactive steps in the hope of recovering his investment in 1998, but was unsuccessful.
+[31] It would be false to claim that the debt was too recent to be considered a bad debt. After all, it was in 1994 that the Appellant invested the sum of $200,000. In 1998, four years later, he had still not seen his money, and he never recovered the sum of $140,000 that he is claiming today.
+[32] In my opinion, in this situation, all of the future prospects that Mr. Joré was holding up to the Appellant were nothing but pure conjecture. I believe that the Appellant has demonstrated, on a balance of probabilities, that at the end of 1998 he made an honest and reasonable assessment that his debt had become a bad debt and that its recovery was no longer conceivable.
+Subparagraph 40(2)(g)(ii)
+[33] The Appellant also submitted that the loss is not nil because it resulted from the disposition of a debt that had been acquired as consideration for a disposition of capital property to a person with whom he was dealing at arm's length.
+[34] According to the evidence, the Appellant acquired a debt of $200,000 (including the debt of $140,000 in issue, which was never repaid) in consideration of the disposition of shares of E.G. Plus and the disposition of a debt owed to him by Biagen. The issue is whether the shares and the debt that the Appellant disposed of constitute capital property within the meaning of subparagraph 40(2)(g)(ii). Section 54 of the Act defines the term "capital property" as follows:
+SECTION 54: Definitions.
+In this subdivision
+“capital property” – “capital property” of a taxpayer means:
+(a) any depreciable property of the taxpayer, and
+(b) any property (other than depreciable property), any gain or loss from the disposition of which would, if the property were disposed of, would be a capital gain or a capital loss, as the case may be, of the taxpayer.
+[35] The term "property" is defined at subsection 248(1) as follows:
+SECTION 248: Definitions.
+(1) In this subdivision,
+“property” – “property” means property of any kind whatever whether real or personal or corporeal or incorporeal and, without restricting the generality of the foregoing, includes
+(a) a right of any kind, shares or a chose in action,
+(b) unless a contrary intention is evident, money;
+(c) a timber resource property, and
+(d) the work in progress of a business that is a profession..
+[36] It is clear that the shares of E.G. Plus that the Appellant disposed of constituted capital property within the meaning of the Act, since these shares are property that was acquired in consideration of an investment of $100,000, and if the Appellant had disposed of them for a value greater or less than the acquisition cost, it would have resulted in a capital gain or a capital loss.
+[37] As for the debt, it is a right that also constitutes property the disposition of which for a value greater or less than the cost would have resulted in a capital gain or a capital loss. Indeed, a debt is defined by Hubert Reid in the Dictionnaire de droit québécois et canadien, 2nd edition, Cowansville (QC), Éditions Wilson & Lafleur, 2001, definition of "créance", page 147:
+[TRANSLATION]
+Personal right under which a person, called the creditor, can demand from another, called the debtor, the execution of an obligation or the payment of a debt. [Emphasis added.]
+[38] Since the Appellant was clearly not in the business of selling shares or debts, the disposition of the shares or of the debt constitutes the disposition of capital property that could result in a capital gain or a capital loss. Since the Appellant had disposed of the shares and the debt in 1996 for the value of their acquisition cost, he did not have to declare a capital gain or a capital loss in 1996. These two properties nevertheless constitute capital property within the meaning of the Act.
+[39] The Respondent argues that the Appellant was not dealing at arm's length with DEC Technologies, whose president was Mr. Joré. In Fournier v. M.N.R., 91 DTC 746 (TCC), [1991] T.C.J. No. 7 (QL), Dussault J. of this Court summarized as follows the definition of the concept of an arm's length transaction:
+It is therefore paragraph 251(1)(b) of the Act that may be applied, provided the evidence establishes that the parties were in fact not dealing at arm's length.
+The concept of an arm's length transaction has been the subject of many decisions of our courts. [Footnote appended to judgment.]. When the parties to a transaction act in concert, when they have similar economic interests or they act with a common intent, it is generally admitted that they are not dealing at arm's length.
+I will take the liberty of citing in this regard Cattanach, J. of the Exchequer Court (as he then was), who said in Minister of National Revenue v. Estate of Thomas Rodman Merrit, 69 DTC 5159 at page 5165:
+In my view, the basic premise on which this analysis is based is that, where the "mind" by which the bargaining is directed on behalf of one party to a contract is the same "mind" that directs the bargaining on behalf of the other party, it cannot be said that the parties are dealing at arm's length. In other words where the evidence reveals that the same person was "dictating" the "terms of the bargain" on behalf of both parties, it cannot be said that the parties were dealing at arm's length.
+For his part, Thurlow J. of the Exchequer Court (as he then was) said in Swiss Bank Corporation et al. v. M.N.R., 71 DTC 5235, at 5241:
+To this would add that where several parties - whether natural persons or corporations or a combination of the two - act in concert, and in the same interest, to direct or dictate the conduct of another, in my opinion the "mind" that directs may be that of the combination as a whole acting in concert or that of any one of them in carrying out particular parts or functions of what the common object involves.
+_____________________________
+M.N.R. v. Sheldons Engineering Ltd., (S.C.C.) 55 DTC 1110;
+Gatineau Westgate Inc. v. M.N.R., 66 DTC 560;
+M.N.R. v. Estate of Thomas Rodman Merritt, 69 DTC 5159
+Swiss Bank Corporation and Swiss Credit Bank v. M.N.R., (S.C.C.) 72 DTC 6470;
+G. Sayers v. M.N.R., 81 DTC 790;
+Special Risks Holdings Inc. v. The Queen, 86 DTC 6035;
+Noranda Mines Limited v. M.N.R., 87 DTC 379.
+[40] Can it be said that the Appellant and Mr. Joré acted in concert, that they had similar economic interests or that they acted with a common intent? The facts raised by counsel for the Respondent in her written submissions do not exactly reflect what was disclosed in evidence. The Appellant did not know Mr. Joré when he invested in E.G. Plus and Biagen in 1994. The shareholders of Biagen encouraged him to invest in this project. Then, the Appellant and Mr. Joré met only a few times before the Appellant disposed of his shares and his debt in favour of DEC Technologies in 1996. After that, the Appellant tried to preserve the debt owed to him by partly assisting Mr. Joré in his legal proceedings. In 1998, when the Appellant took steps to restructure and again try to market the invention, he certainly had economic interests in common with Mr. Joré in that it would be in the interests of both of them for the project to work. However their economic interests were not similar. Mr. Joré wanted to obtain royalties for this project and the Appellant simply wanted to recover his debt. In my opinion, the fact that the Appellant maintained sporadic relations or that he had lunch with Mr. Joré on the day of the hearing are not serious reasons to conclude that two unrelated persons were not dealing with each other at arm's length. Moreover, even if relations between the Appellant and Mr. Joré developed in 1997 and 1998, it is in 1996, when the Appellant disposed of his shares and his debt in favour of DEC Technologies, that it must be established whether the parties were at arm's length. The evidence to that effect however is scarce, if not silent, at the time of the transaction of May 2, 1996. All of the evidence raised by counsel for the Respondent is subsequent to that agreement. I therefore do not accept the Respondent's claims and I consider that the loss cannot be considered nil under the terms of subparagraph 40(2)g)(ii).
+Decision
+[41] The appeal is allowed on the basis that the Appellant is entitled to a business investment loss in the amount of $140,000, of which ¾ or $105,000 is deductible, pursuant to paragraphs 38(1)(c) and 39(1)(c) of the Act.
+[42] As for costs, as the Appellant conceded certain issues at the beginning of the hearing, and the Respondent was not completely unjustified in casting doubt on the deduction of the loss of $140,000, the Appellant will be entitled to his costs according to the tariff set out in the Tax Court of Canada Rules (General Procedure), and no more.
+Signed at Ottawa, Canada, this 20th day of October 2006.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 24th day of March 2007.
+Gibson Boyd, Translator
+CITATION: 2006TCC556
+COURT FILE NO.: 2002-3520(IT)G
+STYLE OF CAUSE: RICHARD R. MARTEL and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: June 23 and 24, 2005
+APPELLANT’S SUBMISSIONS: July 22, 2005
+RESPONDENT’S SUBMISSIONS: August 19, 2005
+APPELLANT’S REPLY: September 2, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: October 20, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Peter Annis and
+François Landry
+Counsel for the Respondent:
+Carole Benoît
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Peter Annis and
+François Landry
+Firm: Vincent Dagenais Gibson
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,1778 @@
+Title: Paletta Estate v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/493113/index.do
+Corpus path: corpus/cases/tcc/2021/2021-tcc-11-493113-paletta-estate-v-the-queen-en.md
+Document type: case_law
+Last modified: 2021-03-25
+
+# Paletta Estate v. The Queen
+
+- Citation: 2021 TCC 11
+- Decision date: 2021-03-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4635, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Paletta Estate v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-03-25
+Neutral citation
+2021 TCC 11
+File numbers
+2015-2662(IT)G
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-2662(IT)G
+BETWEEN:
+THE ESTATE OF PASQUALE PALETTA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on August 20 and 21, November 12, 13, 14, 18, 19, 20, 21, 25, 26, 27 and 28, December 2 and 3, 2019 at Toronto, Ontario and March 11, 12, and 13, 2020 at Ottawa, Ontario and written representations received on July 30 and 31, 2020
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Counsel for the Appellant:
+Justin Kutyan and Kelly Ng
+Counsel for the Respondent:
+Suzanie Chua, Rana El-Khoury and Dina Elleithy
+JUDGMENT
+1. The appeals for the 2000, 2001, 2003, 2004, 2005, 2006, and 2007 taxation years are allowed, with costs to the Appellant, and the reassessments for those taxation years are vacated.
+2. The appeal for the 2002 taxation year is allowed, with costs to the Respondent, and the reassessment for that taxation year is sent back to the Minister of National Revenue for reconsideration and reassessment on the basis that:
+(a) the gain of $8,030,844.73 from closing out the gain legs in that year shall be taken into account in computing income in accordance with these reasons; and
+(b) penalty under subsection 163(2) of the Income Tax Act (the “Act”) shall be reassessed on the basis that the understatement of income that is reasonably attributable to the false statement or omission is $8,030,844.73.
+3. The parties shall have 30 days from today’s date to reach an agreement on costs, failing which the parties shall have a further 30 days to serve and file written submissions on costs. The parties shall have a further 10 days to serve and file their written responses, if any. No such submission shall exceed 10 pages in length.
+Signed at Ottawa, Canada, this 18th day of February 2021.
+“David E. Spiro”
+Spiro J.
+Table of Contents
+I. Overview 1
+II. The Losses at Issue 3
+III. Witnesses 3
+IV. Findings of Fact 4
+A. Background 4
+(1) The Relevant Foreign Exchange Markets 4
+(a) Over-the-Counter Market 4
+(b) Exchange-Traded Contracts 5
+(2) Forwards, Options and Synthetic Forwards 5
+(a) Forwards 5
+(b) Options 6
+(c) Synthetic Forwards 6
+(3) Trading on Margin 6
+(4) How Forward Foreign Exchange Contracts Come to an End 9
+B. The Chronology 11
+(1) Mr. Pat Paletta’s Background 11
+(2) Mr. Pat Paletta’s Trading Experience 11
+(3) Introduction to the Promoter and the Tax Straddle 12
+(4) Role of Tax Lawyers 12
+(a) Oral Consultations 12
+(b) Third-Party Opinions 13
+(5) Annual Target Losses 13
+(6) Fees Paid to the Promoter and the Brokerage Firms 14
+(7) Mr. Angelo Paletta as Mr. Pat Paletta’s Agent 15
+(8) Mr. Hodgins as Mr. Pat Paletta’s Agent 15
+(9) Architecture of the Trades 16
+(a) Forward Straddle – Representative Example 16
+(i) Opening Positions 16
+(ii) Modifying Positions 17
+(iii) Closing Positions 19
+(b) Synthetic Forward Straddle 19
+(c) The Loss Legs and Gain Legs for Each Taxation Year 20
+(10) Mr. Pat Paletta’s Knowledge of the Trading 21
+(11) Review by the Canada Revenue Agency 22
+(12) Change of Brokerage Firms 22
+(13) The Reassessments 23
+C. The $8 Million Understatement of Income for 2002 24
+D. The Expert Witnesses 25
+(1) The Appellant’s Experts 26
+(a) Mr. Simon Bird 26
+(b) Mr. Colin Knight 26
+(2) The Crown’s Experts 26
+(a) Dr. Andrey Pavlov 26
+(b) Mr. Richard Poirier 27
+(3) Observations on the Expert Reports 28
+V. Positions of the Parties 29
+A. The Crown’s Argument 29
+(1) As Pleaded in the Amended Reply 29
+(2) As Argued at Trial 30
+(a) No Source of Income 30
+(i) Tax Loss Scheme is Not a Business 30
+(ii) Sham Forward Foreign Exchange Contracts and Options 30
+(iii) Window Dressing 31
+(iv) Facts Incompatible with the Existence of a Business 31
+(3) Statute-Barred Taxation Years 32
+(4) Gross Negligence Penalties 32
+B. The Appellant’s Argument 33
+(1) Friedberg and the Straddle Trade 33
+(2) Stewart and Clear Commerciality 33
+(3) Statute-Barred Taxation Years 34
+(4) Gross Negligence Penalties 35
+VI. Analysis 35
+A. Realization of Losses for Tax Purposes 35
+(1) Friedberg in the Federal Court – Trial Division (1989) 36
+(2) Friedberg in the Federal Court of Appeal (1991) 37
+(3) Friedberg in the Supreme Court of Canada (1993) 37
+(4) Parliament’s Response to Friedberg (2017) 40
+B. The Source Argument and the Stewart Decision 43
+C. The Source Argument and Risk 47
+D. Sham 48
+(1) Lack of Business Purpose 52
+(2) Customer Agreements 52
+(3) Margin Amounts 53
+(4) Irrevocable Letters of Credit 53
+(5) Transaction Confirmations/Summaries 54
+(6) Closing Out 55
+E. Window Dressing 55
+F. Ineffective Transactions 56
+G. Statute-Barred Taxation Years 57
+H. Gross Negligence Penalties 61
+VII. Conclusion 66
+VIII. Relief Granted 66
+Citation: 2021 TCC 11
+Date: 20210325
+Docket: 2015-2662(IT)G
+BETWEEN:
+THE ESTATE OF PASQUALE PALETTA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+FURTHER AMENDED REASONS FOR JUDGMENT
+Spiro J.
+I. Overview
+[1] With a view to deferring all or most of the tax that would otherwise have been payable by him under the Income Tax Act (the “Act”), Mr. Pasquale (“Pat”) Paletta entered into a plan designed to generate non-capital losses through forward foreign exchange trading. [1]
+[2] The plan involved entering into a set of forward foreign exchange contracts, one long (agreeing to buy a particular currency on a future date) and the other short (agreeing to sell the same currency on a future date). [2] The contracts would almost exactly offset one another.
+[3] The contracts did not exactly offset one another because each contract had a slightly different value date (the date on which delivery of the currency was to be made), which created a small positive or negative difference at any particular time between the value of the long leg and the value of the short leg of the straddle.
+[4] Toward the end of each year, Mr. Pat Paletta, in consultation with his accountants, would decide on the amount of loss that he wished to realize for income tax purposes for that year (the “target loss”).
+[5] Before December 31 Mr. Pat Paletta would close out the loss leg of the straddle, thereby realizing the target loss for that year. He would defer recognition of the corresponding gain leg by keeping it in place until after the beginning of the following year.
+[6] Early the following year, the gain leg would be closed out before its value date. The gain realized would be included in computing income for that year. The following year the same trading pattern would be repeated but on a larger scale. Why a larger scale? Because the amount of each year’s target loss necessarily took into account the taxable income that Mr. Pat Paletta expected to receive in that year and the amount of the gain realized from closing out the gain leg carried over from the previous year.
+[7] In reassessing, the Minister of National Revenue (the “Minister”) assumed that the forward foreign exchange trading was a sham. On that basis, the Minister disallowed all of the losses claimed by Mr. Pat Paletta for his 2000 to 2006 taxation years. [3] At trial, the Crown argued sham to support an overarching argument that there was no source of income against which the claimed losses could be deducted.
+[8] The Minister reassessed after the normal reassessment period in respect of each year. The onus was, therefore, on the Crown to prove that Mr. Pat Paletta made a misrepresentation each year in filing his return that was attributable to neglect, carelessness, or wilful default.
+[9] The Minister also assessed gross negligence penalties against Mr. Pat Paletta for the 2000 to 2006 taxation years. The Crown has the onus to prove the facts necessary to sustain those penalties as well.
+[10] On the basis of my finding that the forward foreign exchange trading was not a sham and my obligation, as a trial judge, to follow the decisions of the Supreme Court of Canada in Friedberg [4] and Stewart, [5] the Appellant [6] must prevail in these appeals with one limited exception.
+[11] The exception is this: the Minister was justified in opening Mr. Pat Paletta’s 2002 taxation year as he was careless or neglectful in understating his income for that year by $8,030,844.73. In addition, he was grossly negligent in understating his income for that year by that amount. Accordingly, the penalty under subsection 163(2) for that year should be reassessed in accordance with these reasons.
+[12] Two corporations owned or controlled by Mr. Pat Paletta, Tender Choice Foods Inc. and Paletta International Corporation, participated in the same plan with the same counterparties. The Minister alleges that those corporations deducted over $150 million in losses during the period at issue. [7] Those corporations have instituted appeals as well but they have been held in abeyance pending the determination of this appeal.
+II. The Losses at Issue
+[13] Mr. Pat Paletta claimed some $55 million in losses for his 2000 to 2006 taxation years and reported just over $6 million in profit for his 2007 taxation year, for a total of almost $49 million in net losses from forward foreign exchange trading during the period at issue:
+Taxation Year
+Claimed Losses/Gains
+2000
+($6,184,460.89)
+2001
+($2,150,917.06)
+2002
+($10,007,726.00)
+2003
+($6,198,247.76)
+2004
+($4,294,300.06)
+2005 [8]
+($5,134,923.14)
+2006
+($21,236,115.40)
+2007
+$6,444,216.20
+Total:
+($48,762,747.11)
+III. Witnesses
+[14] In addition to four expert witnesses, whose evidence will be described below, the following lay witnesses testified at trial. I found each of them credible:
+Angelo Paletta Mr. Pat Paletta’s eldest son
+Ralph Baber Former CEO of Union PLC [9]
+Graham Wellesley Former CEO of IFX Ltd. and former CEO of ODL Securities Ltd.
+Tim Hodgins Mr. Pat Paletta’s forward foreign exchange broker
+Stephen Wiseman An accountant at Taylor Leibow LLP
+Robert Ban An accountant at Taylor Leibow LLP
+Stephen Kleinschmidt Former Canada Revenue Agency (“CRA”) officer
+IV. Findings of Fact
+A. Background
+(1) The Relevant Foreign Exchange Markets
+(a) Over-the-Counter Market
+[15] Most forward foreign exchange contracts are not traded on any exchange but are entered into directly between two counterparties. This is known as the “Over-the-Counter” or “OTC” market. In this market, value dates (the date on which the terms of the contract must be fulfilled) are infinitely variable—any dates may be chosen by the counterparties—and the OTC market is always open for trading. A forward foreign exchange contract reflects a direct contractual relationship between two counterparties.
+[16] The OTC market is dominated by large global banks constituting what is known as the “interbank market”. The interbank market accounts for the largest volume of forward foreign exchange trading in the world. Certain brokerage firms act as intermediaries between the large global banks and smaller entities that are not large enough to deal directly with those banks on the interbank market. Those brokerage firms act as agents for their clients or as counterparties depending upon the needs of the particular client. The counterparties to the trades at issue were such brokerage houses.
+[17] All of the forward foreign exchange trading at issue occurred on the OTC market between Mr. Pat Paletta and three brokerage firms based in London, England: Union Cal Limited (or “UCAL”), IFX Ltd. (or “IFX”), and ODL Securities Ltd. (or “ODL”).
+[18] All of the evidence adduced is consistent with the Minister’s assumptions that:
+UCAL, IFX and ODL were the counter-party to the trades . . . . [10]
+. . .
+In every forex option or forward contract transaction . . . entered into by the Appellant, UCAL/IFX/ODL was the counterparty. [11]
+. . .. . . UCAL/IFX/ODL was . . . the counterparty to any and all contracts that the Appellant entered into with UCAL/IFX/ODL. . . . [12]
+(b) Exchange-Traded Contracts
+[19] Standard form futures contracts have been developed for trading on exchanges such as the London International Financial Futures and Options Exchange, the Chicago Mercantile Exchange, and the Philadelphia Stock Exchange. [13] Although they are relatively easy to trade, they offer less flexibility than one would find on the OTC market. Exchange-traded futures contracts generally offer a limited number of value dates (generally falling at the end of the month) and have identical terms and conditions. [14] Mr. Pat Paletta did not trade futures contracts on an exchange. Instead, he traded forward foreign exchange contracts directly with the brokerage firms as his counterparties.
+(2) Forwards, Options and Synthetic Forwards
+(a) Forwards
+[20] A forward foreign exchange contract is an agreement between two counterparties to trade a fixed amount of currency at a set rate on a pre‑determined value date. [15] Forward foreign exchange contracts are traded in the OTC market. They are not traded on any exchange. The counterparties agree among themselves on the currencies, the value date, the quantity, and the exchange rate. [16] The future purchaser of a particular currency is holding a “long” position in that currency and the future seller of the particular currency is holding a “short” position in that currency. [17] In a contract such as USD/CAD, if the value of the USD rises beyond the price specified in the contract, the buyer of the USD (the holder of the “long” contract) will make a profit and the seller of the USD (the holder of the “short” contract) will suffer a corresponding loss. [18]
+(b) Options
+[21] Options are financial instruments with strictly defined terms and conditions. One may buy (long) or sell (short) an option contract. There are two types of option contracts—calls and puts.
+[22] A call option gives the holder (the buyer) the right, but not the obligation, to purchase the underlying asset or instrument at a specific price (the “strike price”) on or before the option’s expiration date. The writer or seller of the option has the obligation to sell the underlying asset to the holder if the holder chooses to exercise the option. [19]
+[23] A put option gives the buyer the right, but not the obligation, to sell an underlying asset or instrument at a strike price on or before the option’s expiration date. The seller of the option has the obligation to buy the asset or instrument if the holder chooses to exercise the option. [20]
+(c) Synthetic Forwards
+[24] A synthetic forward is created by using two options to synthesize the effect of a forward. A long call option and a short put option with the same value date and strike price constitute a synthetic long (buy) forward. [21] Similarly, a short call option and a long put option with the same value date and strike price constitute a synthetic short (sell) forward. [22]
+(3) Trading on Margin
+[25] Margin protects a brokerage firm from the risk of default by its client. It is a form of collateral which offers protection to the brokerage firm against loss. [23] It appears in different forms but typically consists of cash or near cash instruments. Ultimately, it is anything that a brokerage reasonably believes will offer it protection against clients who are unable to cover their losses. [24]
+[26] According to the uncontroverted evidence of the CEO of two of the brokerage firms, there is no hard and fast rule with respect to the amount of margin required in the OTC market. [25] Margin amounts on the OTC market are discretionary and negotiable.
+[27] Each brokerage firm assesses the value of a particular client’s positions, as well as the firm’s entire position, at the end of each day. This is called “marking to market”. Marking to market is an essential part of assessing risk for any brokerage firm.
+[28] When a particular brokerage firm reviewed the financial risk to which it was exposed in respect of Mr. Pat Paletta’s account at the end of each day, it did so on the basis of the net value of all positions in his account. To the extent that a positive net balance existed in the account, no additional margin was required and Mr. Pat Paletta was entitled to withdraw the surplus. To the extent that a negative net balance existed in the account, the brokerage firm was entitled to call for additional margin. Whether it did so or not was a discretionary decision.
+[29] The margin required for Mr. Pat Paletta to trade forward foreign exchange contracts started as 5% of the target loss amount in 2000 and 2001 but was negotiated as low as 1% for 2002 and 2005 to 2007.
+[30] In 2003 and 2004 the margin required was 0.33% and 0.8% of the target loss, respectively. In those two years the target loss was initially lower. No additional margin was required when the target loss was later increased.
+[31] The amount of margin required related directly to the target loss for each taxation year:
+Taxation Year
+Target Loss
+Margin Required
+Margin as a % of Target Loss
+2000
+$6,000,000
+$300,000
+5%
+2001
+$8,000,000
+$400,000
+5%
+2002
+$10,000,000
+$100,000
+1%
+2003
+$15,000,000
+$50,000
+0.33%
+2004
+$20,000,000
+$160,000
+0.8%
+2005
+$25,000,000
+$250,000
+1%
+2006
+$45,000,000
+$450,000
+1%
+2007
+$40,000,000
+$400,000
+1%
+[32] Mr. Pat Paletta primarily used irrevocable letters of credit as margin. The fees that Mr. Pat Paletta paid to the Royal Bank of Canada to secure those irrevocable letters of credit ranged from CAN$263 to CAN$3,576. [26] As mentioned above, the margin provided protection to the brokerage firms against the risk of default by Mr. Pat Paletta on his net obligation to them at any particular time. [27]
+[33] During the following periods, a negative net balance existed in Mr. Pat Paletta’s trading account, yet no margin call was made by the brokerage firm and, in the last instance, new trades were entered into:
+(a) November 30, 2001 to March 29, 2002 [28]
+(b) April 2, 2003 to June 19, 2003 [29]
+(c) August 19, 2005 to September 13, 2005 [30]
+[34] The Minister assumed that the forward foreign exchange trades undertaken by Mr. Pat Paletta “would have resulted in margin calls in a real forex market” [31] yet there were no such margin calls. [32]
+[35] The inference that I draw from the discretionary decision made by the brokerage firms not to make margin calls when they were otherwise entitled to do so is that they made a business decision. They were reasonably comfortable with the degree of risk they carried in respect of Mr. Pat Paletta’s account notwithstanding any margin shortfall at any particular time. That inference is based primarily on the evidence of the Crown’s expert on financial risk, Dr. Pavlov, who opined that the amount of risk to which the brokerage firms were exposed was negligible. It, therefore, follows that the margin required by the brokerage firms would have been negligible as well.
+[36] The Minister also assumed that the:
+[p]rincipal values of the forex option and forward contracts were denominated in the hundreds of millions of dollars, whereas the cost . . . [of] these options and forward contracts was only in the tens of thousands of dollars. [33]
+[37] This assumption is technically correct, but its implication is not. The implication is that there was something untoward about trading in the OTC market on margin. Based on the evidence of the CEOs of the brokerage firms and the experts, I find that there was nothing untoward, let alone unusual, about trading on margin in the OTC market.
+[38] Similarly, in attempting to justify the assessment of gross negligence penalties, the Minister alleged that:
+the purported amount of foreign currency purchased was obviously excessive given the immaterial amount purportedly invested. [34]
+[39] Once again, if the amount of risk was negligible, the amount of margin should be negligible as well. According to the Crown’s own theory of the case, the modest amount of margin that was actually required by the brokerage firms in this case would not have been unreasonable in the circumstances.
+[40] I find that initial margin was computed as a percentage of the target loss for the year and that margin was maintained at a level that each brokerage firm was comfortable with in light of the negligible exposure to risk created by the net results of Mr. Pat Paletta’s trading.
+[41] I also find, based on the evidence of the CEOs of all three brokerage firms, that the transitory margin deficiencies described above were not a cause for concern in light of their overall assessment of risk given their ongoing business relationship with Mr. Pat Paletta and his companies. [35]
+[42] In light of the fact that margin is discretionary and negotiable in the context of the OTC market, and that the risk was negligible, the occasional margin deficiency was not a cause for concern to any of the brokerage firms.
+(4) How Forward Foreign Exchange Contracts Come to an End
+[43] Forward foreign exchange contracts come to an end by (a) delivering to the counterparty the currency contracted for on the value date, or (b) entering into an equal and offsetting position with the counterparty before the value date (known as “closing out” the contract). [36]
+[44] Delivery occurs when the counterparties exchange the contracted amounts of each currency on the value date specified in the contract. For example, assume a forward contract selling EUR for USD on January 30, 2002. On the value date, January 30, 2002, the selling (or short) counterparty would deliver the EUR and the buying (or long) counterparty would deliver the USD.
+[45] The other method used to bring a forward foreign exchange contract to an end is by entering into the equal and opposite position with one’s counterparty. For example, assume a forward contract to sell EUR for USD on January 30, 2002. At any time before January 30, 2002, the counterparty selling the EUR may enter into an equal and opposite contract with its counterparty to buy the same amount of EUR for USD on the same value date. The original contract has now been “closed out” or terminated. At that time, a gain or loss is crystallized as the contract has been effectively extinguished.
+[46] Both methods of bringing forward foreign exchange contracts to an end are equally effective and both are used in the market.
+[47] The Minister assumed, quite correctly, that:
+[a]ll positions taken by the Appellant could only be closed out by entering into offsetting positions with UCAL/IFX/ODL. [37]
+[48] The Minister also correctly assumed that the forward foreign exchange contracts “were never held to performance on [their] specified value dates.” [38] That assumption is consistent with the evidence.
+[49] However, when that assumption is read in the context of all the other assumptions made by the Minister, its implication is that there was something wrong, or at least rather suspicious, about not holding forward foreign exchange contracts to their value dates. I am satisfied, based on the evidence of the CEOs of the brokerage firms and the expert evidence, that such contracts may be, and often are, closed out before their value dates. [39]
+[50] The Minister further assumed (in an assumption that, at best, is an assumption of mixed fact and law) that all of the forward foreign exchange contracts:
+. . . were not (could not have been) actually settled in a legal sense (legitimately extinguished) until their respective value dates. [40]
+[51] On the evidence, that assumption is wrong. The assumption discloses a fundamental lack of understanding of how the forward foreign exchange market works and of the fact that such contracts may be closed out before their value dates. [41]
+B. The Chronology
+(1) Mr. Pat Paletta’s Background
+[52] Mr. Pat Paletta immigrated to Canada from a small village in Italy in the 1950s. Starting with almost nothing, he built businesses ranging from meat packing to real estate development. His eldest son, Mr. Angelo Paletta, assumed increasingly important roles in his father’s businesses starting at an early age.
+[53] Mr. Pat Paletta left school early. He did not have the benefit of a post‑secondary education. He was, however, very good with numbers. As a self‑made man, he was hands-on with respect to each business and was deeply interested in all aspects of his businesses, including the financial side.
+[54] He entrusted all of his accounting and tax matters to his accountants at Taylor Leibow LLP, with whom he met on a weekly basis, mostly on Saturday mornings. During those meetings, Mr. Pat Paletta would discuss not only accounting and tax issues, but business initiatives and strategic planning as well.
+[55] Mr. Pat Paletta incorporated various corporations to carry on many of his businesses. However, he operated cattle feedlots as a sole proprietor. [42] He decided to use that sole proprietorship to carry on the trading at issue.
+(2) Mr. Pat Paletta’s Trading Experience
+[56] In the early 1980s, Mr. Pat Paletta purchased cattle from Australia, New Zealand, and Nicaragua, for which he paid in either USD or the local currency. In addition, he purchased capital equipment from Europe and paid for that equipment in foreign currency. [43] He would generally ask his office manager to call the Royal Bank of Canada to have rates quoted to him, and would then buy or sell currency based on his business needs. [44]
+[57] By the early 1990s, Mr. Pat Paletta exported meat to 20 countries and received foreign currency on those sales. Those receipts could be as high as tens of millions of dollars in a year. [45]
+[58] Mr. Angelo Paletta testified that Mr. Pat Paletta would occasionally speculate by selling some of his accumulated foreign currency or buying additional currency based on what he had heard in the marketplace. [46] Before the events at issue, that was the extent of his involvement in foreign exchange.
+(3) Introduction to the Promoter and the Tax Straddle
+[59] Late in 1999, or early in 2000, Mr. Pat Paletta’s accountants recommended a tax plan to him. [47] They suggested that he meet with Mr. David Lewis, who had a tax plan they said was worth considering. Mr. Lewis was a principal at a firm called Affinity Financial. Mr. Angelo Paletta understood that Affinity Financial was a corporation that provided tax avoidance plans to clients. Although there was no evidence of the plan having been reduced to writing, it was understood that the plan was designed to generate non-capital losses through forward foreign exchange trading.
+[60] Mr. Pat Paletta and Mr. Angelo Paletta met Mr. Hodgins and the CEO of Union PLC before commencing the trading in 2000. Initially, Mr. Angelo Paletta provided instructions to Mr. Lewis, who would relay those instructions to Mr. Hodgins. In late 2004 or early 2005, Mr. Angelo Paletta stopped dealing with Mr. Lewis and started dealing directly with Mr. Hodgins. [48]
+(4) Role of Tax Lawyers
+(a) Oral Consultations
+[61] While Mr. Pat Paletta was considering Mr. Lewis’s tax avoidance plan, he and his eldest son visited several law firms on a number of unrelated matters.
+[62] In mid-2000, before trading commenced, Mr. Pat Paletta and his eldest son were at the law offices of Borden & Elliot LLP in Toronto, where they met with a non-tax lawyer on another matter. They asked whether they could see a tax lawyer. They were introduced to Mr. John Tobin. They had a discussion with Mr. Tobin about the tax plan and asked Mr. Tobin if it was acceptable, if it was legal, and whether it met CRA requirements. Mr. Tobin mentioned the Friedberg case to them. That was the first time they heard of it. Mr. Tobin advised them that the plan was legitimate and met CRA standards. No written opinion was requested.
+[63] Toward the end of 2000, before trading commenced, Mr. Pat Paletta and his eldest son were at the law offices of Love & Whalen, where they met with Mr. Jim Love on other tax matters. They had a discussion with Mr. Love about the tax plan and asked for his advice on the status of it, whether it was legal, and whether it met the requirements of the CRA. Mr. Love confirmed that it did and mentioned Friedberg as the leading case. They did not ask Mr. Love for a written opinion.
+[64] In the summer or fall of 2001, after trading had commenced, another tax lawyer was consulted. That was Mr. Jack Bernstein at Aird & Berlis LLP, whom Mr. Pat Paletta and his eldest son met on the same basis as they had met Mr. Tobin the year before. In light of a general warning issued by the CRA earlier that summer regarding tax shelter transactions (and passed along to them by their accountants), they wanted to confirm that the tax plan remained sound. They received that confirmation from Mr. Bernstein. Once again, no written opinion was requested.
+(b) Third-Party Opinions
+[65] While the trading proceeded, Mr. Angelo Paletta was presented with several written opinions relating to the tax plan. They were all addressed to third parties. Mr. Pat Paletta never requested or obtained a written opinion addressed to him in respect of the tax plan. The written opinions were passed along to the Palettas at first by Mr. Lewis and later on by Mr. Hodgins.
+[66] Mr. Angelo Paletta testified that while he and his father relied on those opinions, they did not read any of them. They were simply filed away. [49]
+(5) Annual Target Losses
+[67] Through his eldest son, Mr. Pat Paletta provided to Mr. Lewis (and, in later years, to Mr. Hodgins directly) the target loss amount each year. The target loss amount was the amount of loss that Mr. Pat Paletta, in consultation with his accountants, wanted his trading to generate, enabling him to claim the target loss amount as a non-capital loss on his tax return for that year, thereby eliminating either all or most of his taxable income for the year.
+[68] Other than the first year, the target loss amount was arrived at by taking into account the aggregate of the (a) taxable income that Mr. Pat Paletta expected to receive that year and (b) the gains realized from closing out the gain leg carried over from the previous year.
+[69] The target loss for each taxation year was as follows:
+Taxation Year
+Target Loss Amount
+2000
+$6,000,000
+2001
+$8,000,000
+2002
+$10,000,000
+2003
+$15,000,000
+2004
+$20,000,000
+2005
+$25,000,000
+2006
+$45,000,000
+2007
+$40,000,000
+[70] I find that the sole purpose of the trading each year was the realization of the target loss for that year. The annual fee paid by Mr. Pat Paletta (later negotiated downward on his behalf by Mr. Angelo Paletta) was a percentage of the target loss for the year. The initial margin required by the brokerage firm was a percentage of that year’s target loss. Everything, without exception, revolved around the target loss each year and its realization.
+(6) Fees Paid to the Promoter and the Brokerage Firms
+[71] The fees paid to each brokerage firm for the trading each year were initially set as a percentage of the target loss requested for that year. However, in later years Mr. Angelo Paletta ignored the amounts called for by that formula, as well as specific fee requests from the brokerages, and would generally pay progressively smaller amounts:
+Taxation Year
+Target Loss Amount
+Fees
+Formula
+2000
+$6,000,000
+$210,000
+3.5% of the target loss [50]
+2001
+$8,000,000
+$120,000
+1.5% of the target loss [51]
+2002
+$10,000,000
+$100,000
+1% of the target loss [52]
+2003
+$15,000,000
+$94,000
+1% of the first $5,000,000 target loss, then 0.4% for an additional $11,000,000 target loss (despite the target later being reduced to $15,000,000, the fees were not reduced or refunded) [53]
+2004
+$20,000,000
+$106,000
+No formula was used. Mr. Angelo Paletta made a payment of $56,000 and later made another payment of $50,000. [54]
+2005
+$25,000,000
+$50,000
+No formula was used. Mr. Angelo Paletta made an initial payment of $20,000; another payment of $15,000 was paid later that year, and $15,000 was paid early in 2006. [55]
+2006
+$45,000,000
+$70,000
+No formula was used. Initially Mr. Angelo Paletta paid $12,500 (he testified that this was one-half of the amount ODL Securities Ltd. had requested). Later an additional $25,000 was wired, and then another $32,500. [56]
+2007
+$40,000,000
+$20,000
+No formula was used. Only the one payment was in evidence. [57]
+[72] In the first years of trading, the fees were divided among Mr. Lewis, the particular brokerage firm, and Mr. Hodgins and his father. Later on, after Mr. Angelo Paletta stopped dealing with Mr. Lewis, the fees were divided among the particular brokerage firm and Mr. Hodgins and his father.
+(7) Mr. Angelo Paletta as Mr. Pat Paletta’s Agent
+[73] Mr. Pat Paletta assigned his eldest son, Mr. Angelo Paletta, the day-to-day responsibility for monitoring the trading undertaken on his behalf by Mr. Hodgins. All email messages in respect of the trading originated from or were sent to Mr. Angelo Paletta as his father did not have his own email account. At all times, Mr. Angelo Paletta acted as his father’s agent with respect to the trading.
+(8) Mr. Hodgins as Mr. Pat Paletta’s Agent
+[74] The Minister assumed that Mr. Hodgins acted as agent for Mr. Pat Paletta in executing the forward foreign exchange trades undertaken in order to achieve the target loss each year. [58] That assumption is consistent with the evidence. Among the relevant assumptions are:
+The Appellant did not give any instructions [i.e. the currency pairs to be traded, the amounts to be traded, whether to enter into “buy” or “sell” positions, the expiry of value dates and the trade prices (bid/ask)] for any of the forex contracts purportedly entered into with UCAL/IFX/ODL and so reflected in their accounts. . . . [59]
+Tim Hodgins, at his discretion, entered into and caused to be executed the purported contracts (trades) as needed to create each straddle loss and then subsequently unwind that straddle loss. [60]
+[75] On the evidence, the Minister was correct in assuming that Mr. Pat Paletta had given discretionary authority to Mr. Hodgins to undertake whatever trading on his behalf was necessary in order to realize the target loss each year.
+(9) Architecture of the Trades
+[76] From 2000 to 2003, Mr. Hodgins used synthetic forwards to construct the straddle trades for each trading cycle. Mr. Hodgins would ask the forward foreign exchange desk and the foreign exchange options desk at the brokerage firm for prices on the trades. [61] Although more trades were required when options were used, it was initially less costly for Mr. Hodgins to use options in order to achieve Mr. Pat Paletta’s objective. [62] The synthetic forwards are further explained in paragraphs 93 and 94 below.
+[77] For the later trading cycles (2004 to 2007), only forwards were used to construct the straddle. As forwards are easier to explain than synthetic forwards, only forwards are used in the example below.
+(a) Forward Straddle – Representative Example
+[78] The architecture of the straddle trades used by Mr. Pat Paletta involved a three-step process: opening positions, modifying positions, and closing positions. The process is best illustrated by way of an example using USD/CAD trades.
+(i) Opening Positions
+[79] Mr. Pat Paletta entered into opening positions with a pair of forward contracts. In the first contract, Mr. Pat Paletta agreed to sell US$80,000,000 for CAD on a value date of April 10, 2006. In the second contract, he agreed to buy the same amount of USD on a value date of May 8, 2006:
+Trade
+Trade Date
+Value Date
+Buy / Sell
+Amount (USD)
+Rate
+Price (CAD)
+Profit/ Loss (CAD)
+Closes
+A
+07-Nov-05
+10-Apr-06
+Sell
+(80,000,000)
+1.18330000
+94,664,000
+n/a
+B
+07-Nov-05
+08-May-06
+Buy
+80,000,000
+1.18243000
+(94,594,400)
+n/a
+(ii) Modifying Positions
+[80] As one contract increased in value over time, the other would decrease in value by approximately (though not exactly) the same amount. In this example, the market value of the USD relative to the CAD increased over time, which caused the short (sell) trades to lose value, meaning that Trade A was in a loss position. [63]
+[81] Shortly before the end of 2005, Mr. Pat Paletta entered into additional pairs of contracts to modify his original position. In this case, Mr. Pat Paletta entered into trades C and D. Trade C takes exactly the opposite position to Trade A, thereby closing out Trade A and realizing a loss of $711,600. Trade D replaced Trade A, reducing the day count between the two legs from 28 days to 10 days, thereby reducing the risk:
+Trade
+Trade Date
+Value Date
+Buy / Sell
+Amount (USD)
+Rate
+Price (CAD)
+Profit/ Loss (CAD)
+Closes
+C
+15-Nov-05
+10-Apr-06
+Buy
+80,000,000
+1.19219500
+(95,375,600)
+(711,600)
+A
+D
+15-Nov-05
+28-Apr-06
+Sell
+(80,000,000)
+1.19155500
+95,324,400
+n/a
+[82] At this point the only two open positions were trades B and D:
+Trade
+Trade Date
+Value Date
+Buy / Sell
+Amount (USD)
+Rate
+Price (CAD)
+Profit/ Loss (CAD)
+Closes
+B
+07-Nov-05
+08-May-06
+Buy
+80,000,000
+1.18243000
+(94,594,400)
+n/a
+D
+15-Nov-05
+28-Apr-06
+Sell
+(80,000,000)
+1.19155500
+95,324,400
+n/a
+[83] Closer to the end of the year, Mr. Pat Paletta entered into additional positions, further modifying his open positions. In this example, Trade F exactly offset Trade B, thereby closing it out and realizing a loss of $1,352,160. Trade E replaced Trade B, reducing the day count between the two legs from 10 days to 6, further reducing the risk:
+Trade
+Trade Date
+Value Date
+Buy / Sell
+Amount (USD)
+Rate
+Price (CAD)
+Profit/ Loss (CAD)
+Closes
+E
+24-Nov-05
+02-May-06
+Buy
+80,000,000
+1.16577500
+(93,262,000)
+n/a
+F
+24-Nov-05
+08-May-06
+Sell
+(80,000,000)
+1.16552800
+93,242,240
+(1,352,160)
+B
+[84] At this point the only two open positions were trades D and E:
+Trade
+Trade Date
+Value Date
+Buy / Sell
+Amount (USD)
+Rate
+Price (CAD)
+Profit/Loss (CAD)
+Closes
+D
+15-Nov-05
+28-Apr-06
+Sell
+(80,000,000)
+1.19155500
+95,324,400
+n/a
+E
+24-Nov-05
+02-May-06
+Buy
+80,000,000
+1.16577500
+(93,262,000)
+n/a
+[85] Just before the end of the year, Mr. Pat Paletta entered into two additional modifying positions. In this example, he entered into trades G and H. Trade G was the exact opposite of Trade E, thereby closing out Trade E and realizing an additional loss of $758,000. Trade H replaced Trade E and slightly increased the day count between the two legs from 6 days to 7:
+Trade
+Trade Date
+Value Date
+Buy / Sell
+Amount (USD)
+Rate
+Price (CAD)
+Profit/Loss (CAD)
+Closes
+G
+15-Dec-05
+02-May-06
+Sell
+(80,000,000)
+1.15630000
+92,504,000
+(758,000)
+E
+H
+15-Dec-05
+09-May-06
+Buy
+80,000,000
+1.15621800
+(92,497,440)
+n/a
+[86] At this point the only open positions were trades D and H, which carried over into the following year:
+Trade
+Trade Date
+Value Date
+Buy / Sell
+Amount (USD)
+Rate
+Price (CAD)
+Profit/Loss (CAD)
+Closes
+D
+15-Nov-05
+28-Apr-06
+Sell
+(80,000,000)
+1.19155500
+95,324,400
+n/a
+H
+15-Dec-05
+09-May-06
+Buy
+80,000,000
+1.15621800
+(92,497,440)
+n/a
+[87] At the end of 2005, Mr. Pat Paletta realized losses in the amount of $2,821,760, consisting of the loss of $711,600, the loss of $1,352,160 and the loss of $758,000. [64]
+[88] The process of entering into an opening position, adding contract pairs and closing the loss legs would be repeated as many times as necessary to achieve the target loss for the year. In 2005, the target loss was $25,000,000, so there would have been a number of opening positions established and then modified in a similar manner until the target loss was reached by year‑end.
+(iii) Closing Positions
+[89] Finally, early in 2006, the remaining positions (Trade D and Trade H) would be closed out by entering into equal and opposite trades:
+Trade
+Trade Date
+Value Date
+Buy / Sell
+Amount (USD)
+Rate
+Price (CAD)
+Profit/Loss (CAD)
+Closes
+I
+26-Jan-06
+28-Apr-06
+Buy
+80,000,000
+1.14663200
+(91,730,560)
+3,593,840
+D
+J
+26-Jan-06
+09-May-06
+Sell
+(80,000,000)
+1.14633725
+91,706,980
+(790,460)
+H
+[90] Although Trade J was the gain leg of the trade, a small loss was realized. The gain from closing out Trade I, however, entirely offset that loss. It was not unusual for some loss to be embedded within the gain leg of the trades, and vice versa. The total gain realized on the closing out of the gain leg in early 2006 was $2,803,380 ($3,593,840 - $790,460).
+[91] Mr. Pat Paletta would have claimed a trading loss of $2,821,760 for tax purposes, while suffering an economic loss of only $18,380. [65]
+[92] These steps would be repeated each year in a trading cycle which straddled the year‑end. Each trading cycle enabled Mr. Pat Paletta to realize large losses and defer large gains for income tax purposes, all with little or no economic loss.
+(b) Synthetic Forward Straddle
+[93] Synthetic forward straddles are more complex than forwards as they use options to achieve the same result. If one buys a call option (a long call) and sells a put option (a short put) at the same strike price, the result will be the same profit or loss as buying a forward. [66] If one sells a call option (a short call) and buys a put option (long put) at the same strike price, the result will be the same profit and loss as selling a forward. [67] Two option contracts are required to create the same result as a forward contract.
+[94] The basic three-step trading process used in the forward straddle remains the same, but instead of using forwards, twice as many option contracts are utilized to achieve the same result. The amount paid up front in order to enter into the option contracts (the “option premium”) determines the amount of profit and loss at the end of the year. All other steps remain the same.
+(c) The Loss Legs and Gain Legs for Each Taxation Year
+[95] By utilizing the trading pattern described in the above example, the trading produced the following gains and losses. The amounts below were agreed to by the parties as the amounts at issue at trial (all currency in CAD unless otherwise noted):
+Trading Cycle
+Losses
+Gains (Realized the Following Taxation Year)
+Net Difference (Economic Profit/Loss)
+2000
+(US$3,924,370.00)
+US$3,924,501.00
+US$131.00
+2001
+(US$5,207,318.00)
+US$5,186,544.00
+(US$20,774.00)
+2002
+(US$6,496,870.00)
+US$6,499,883.00
+US$3,013.00
+2003
+(US$12,361,830.00)
+US$12,374,000.00
+US$12,170.00
+2004
+($20,467,060.00)
+$20,313,547.00
+($153,513.00)
+2005
+($25,231,920.00)
+$25,212,680.00
+($19,240.00)
+2006
+($46,485,910.00)
+$46,422,000.00
+($63,910.00)
+2007
+($39,998,730.00)
+N/A
+N/A
+[96] For ease of reference, using the appropriate exchange rates, the losses and gains converted to CAD are:
+Trading Cycle
+Exchange Rate
+Losses
+Gains (Realized the Following Taxation Year)
+Net Difference (Economic Profit/Loss)
+2000
+1.5224 [68]
+($5,974,460.89)
+$5,974,660.32
+$199.43
+2001
+1.5484 [69]
+($8,063,011.19)
+$8,030,844.73
+($32,166.46)
+2002
+1.5250 [70]
+($9,907,726.75)
+$9,912,321.58
+$4,594.82
+2003
+1.2952 [71]
+($16,011,042.22)
+$16,026,804.80
+$15,762.58
+2004
+1.0000
+($20,467,060.00)
+$20,313,547.00
+($153,513.00)
+2005
+1.0000
+($25,231,920.00)
+$25,212,680.00
+($19,240.00)
+2006
+1.0000
+($46,485,910.00)
+$46,422,000.00
+($63,910.00)
+2007
+1.0000
+($39,998,730.00)
+N/A
+N/A
+[97] Mr. Pat Paletta claimed the following losses and gains on his returns:
+Taxation Year
+Claimed Losses/Gains
+2000
+($6,184,460.89)
+2001
+($2,150,917.06)
+2002
+($10,007,726.00)
+2003
+($6,198,247.76)
+2004
+($4,294,300.06)
+2005
+($5,134,923.14)
+2006
+($21,236,115.40)
+2007
+$6,444,216.20
+Total:
+($48,762,747.11)
+[98] There is no evidence as to why Mr. Pat Paletta chose to show a profit from forward foreign exchange trading for his 2007 taxation year. The choice of a lower target loss amount for 2007 resulted in the realization of a gain that year. [72] He had losses from previous trading that he was able to use to shelter most of his other income for that year. The important point here is that he was able to report taxable income of only $446,646 for his 2007 taxation year, even after realizing a trading gain of $6,444,216. [73]
+[99] Over the eight taxation years at issue, Mr. Pat Paletta reported taxable income of nil for five of them (2000, 2002, 2003, 2004, and 2006), just over $142,000 for one of them (2001), just over $415,000 for another (2005) and, as already noted, just over $446,000 for the final taxation year at issue (2007). [74]
+[100] Despite having received over $38,000,000 of income from 2000 to 2007, [75] Mr. Pat Paletta managed to keep his aggregate taxable income over the same period to just over $1,000,000 by means of forward foreign exchange trading. [76] This clearly illustrates the benefit of the tax losses generated by the trading. [77] From the start of trading to the end of 2007, he paid approximately 1/38th of the tax that an individual in his position would have paid without the benefit of the trading at issue.
+(10) Mr. Pat Paletta’s Knowledge of the Trading
+[101] The tax plan at issue is quite simple. Both Mr. Pat Paletta and his eldest son knew from the outset the three basic elements of the plan:
+1. Before the end of the year, the loss legs of the straddle would be closed out so as to realize the target loss for the year;
+2. Shortly after the start of the next taxation year the corresponding gain legs would be closed out and realized—they both understood that those gains must be included in computing income for the next taxation year; and
+3. The target loss for the next taxation year would be sufficient to shelter (a) the gains realized earlier in the taxation year and (b) the taxable income that Mr. Pat Paletta anticipated receiving in that year. [78]
+[102] Those three features of the plan would have been obvious to everyone, even at the most basic level of analysis.
+(11) Review by the Canada Revenue Agency
+[103] In 2004 and 2005, Mr. Kleinschmidt, an official of the CRA, was assigned to determine whether there was any basis on which to audit Mr. Pat Paletta’s 2002 or 2003 taxation years. [79] It is likely that the quantum of the losses claimed by Mr. Pat Paletta attracted the CRA’s attention.
+[104] Mr. Kleinschmidt reviewed the documents that were passed along to him by the accountants and concluded that there was no need for the CRA to proceed with an audit. His conclusion was based primarily on internal CRA advice that the decision of the Supreme Court of Canada in Friedberg was determinative.
+[105] The accountants, as well as Mr. Pat Paletta and his eldest son, took the CRA’s decision not to audit as an indication that the CRA, like the accountants and tax lawyers, had no reservations about the tax plan that was being used to eliminate all or most of Mr. Pat Paletta’s taxable income each year.
+(12) Change of Brokerage Firms
+[106] Mr. Pat Paletta used three different brokerage firms as counterparties for his trades over the first seven years of trading. Why did he not remain with just one firm? Because he followed Mr. Hodgins when Mr. Hodgins and his father moved from one brokerage firm to another. From 2000 to 2007, Mr. Hodgins was at three different brokerage firms, all based in London.
+[107] When Mr. Hodgins and his father moved from one brokerage firm to the next, Mr. Pat Paletta moved his trading account as well. After Union Cal Limited, Mr. Hodgins moved to IFX Ltd. That move occurred in November of 2001. After IFX Ltd., Mr. Hodgins moved to ODL Securities Ltd. That move occurred in April of 2004.
+[108] Each move required Mr. Hodgins and Mr. Angelo Paletta to arrange for Mr. Pat Paletta to sign new account opening documentation, which he did in each case. Immediately after each move, the balance in Mr. Pat Paletta’s trading account was transferred to his account at the new brokerage firm.
+(13) The Reassessments
+[109] The dates of assessment and reassessment for each of the taxation years at issue are set out below:
+Taxation Year
+Date of Assessment
+Date of Reassessment
+2000
+N/A
+January 20, 2014
+2001
+August 6, 2002
+January 20, 2014
+2002
+September 5, 2003
+January 20, 2014
+2003
+July 15, 2004
+January 20, 2014
+2004
+August 8, 2005
+January 20, 2014
+2005
+May 30, 2006
+January 20, 2014
+2006
+May 31, 2007
+January 20, 2014
+2007
+June 23, 2008
+January 20, 2014
+[110] The Minister reassessed to disallow Mr. Pat Paletta’s deduction of all losses claimed. The losses claimed and disallowed are set out in paragraphs 13 and 97, above.
+[111] The Minister reassessed all taxation years at issue on January 20, 2014. As the Minister reassessed outside the normal reassessment period for each taxation year, the Crown had the onus to prove that Mr. Pat Paletta, for each year, made a misrepresentation attributable to neglect, carelessness, or wilful default in claiming the losses at issue.
+[112] The Minister also assessed penalties under subsection 163(2) of the Act for the 2000 to 2006 taxation years. The Crown had the onus of proof in respect of penalties assessed under that subsection. Those penalties are generally known as “gross negligence” penalties.
+C. The $8 Million Understatement of Income for 2002
+[113] At trial, the Crown highlighted a number of errors in the transaction documents. For example, a few trades were noted as “closed” when they were actually “open”. The transaction confirmations could have been more clearly presented, particularly to show the architecture of the straddle trades. Mr. Hodgins was forthright in describing their shortcomings in that regard. He worked with the templates available to him at each brokerage firm, but they had not been designed with straddle trades in mind.
+[114] There were also certain computational errors made by Mr. Hodgins that appeared on the transaction documents and which he corrected during the course of his testimony. Those errors could not have easily been detected or corrected by Mr. Pat Paletta. In the big picture, they are of little moment.
+[115] But there is one egregious error that could have been, and should have been, easily detected and corrected by Mr. Pat Paletta.
+[116] Surprisingly, Mr. Pat Paletta failed to include any of the gains realized on the closing out of the gain legs in early 2002 in computing his income for that year. Those gains were clearly part of the 2001 trading cycle which Mr. Pat Paletta knew had to be taken into account in computing his income for 2002.
+[117] Buried among 259 assumptions pleaded in the Amended Reply is the following assumption of fact:
+The Appellant reported a $6.5 million USD (10.0 million CAD) loss for tax purposes in 2002. His reported loss should have been 1.3 million USD, comprised of the $6.5 million USD loss for 2002 net of the $5.2 million USD gain carried forward from 2001. However, the $5.2 million USD gain leg was not recognized for tax reporting purposes in 2002 even though otherwise realized for trading statement purposes. [80]
+[118] The Minister was on to something here. In his 2002 return Mr. Pat Paletta claimed a loss from foreign currency trading of $10,007,726. [81] Mr. Robert Ban, one of his accountants, testified that the amount of the 2002 trading loss was taken from Exhibit A57. [82] Exhibit A57 is an email which includes a spreadsheet and a cash movement summary . [83] The spreadsheet is a summary of trades that occurred between December 23, 2002 and December 30, 2002; it includes both winning and losing trades. The spreadsheet states that there are losses in the amount of $40,017,027 and gains in the amount of $30,109,301. $100,000 in fees were claimed as an expense that year, so all of this was reported on Mr. Pat Paletta’s 2002 return as a net loss of $10,007,726.
+[119] When one compares the summary in Exhibit A57 with the 2002 trading statements, it becomes clear that Exhibit A57 does not include the gains from closing out the gain legs from the 2001 trading cycle which were realized in early 2002. The account statements and related documentation show trading in early 2002 in which gains of $8,030,844.73 were realized. [84] Those trades were the result of closing out the gain legs from the 2001 trading cycle but were not included by Mr. Pat Paletta in computing income for his 2002 taxation year. Exhibit A57 reflects only the results of the trades closed out between December 23, 2002, and December 30, 2002 which were the loss legs from the 2002 trading cycle.
+[120] Exhibit A57 was sent by Mr. Lewis to Mr. Angelo Paletta and was immediately forwarded by Mr. Angelo Paletta to Mr. Wiseman, one of the accountants. [85] Mr. Angelo Paletta did not review the document. He simply passed it along to Mr. Wiseman. [86]
+[121] Mr. Pat Paletta claimed a loss of $10,007,726.00 [87] for the 2002 taxation year when he had only incurred a loss of $1,976,882.02. [88] $5,459,460.64 of this overstated loss was claimed in 2002. [89] The unused portion of the overstated loss, $4,548,265.36, was carried over to the 2005 taxation year under section 111 of the Act. [90]
+[122] I will return to this understatement of income when deciding whether the Minister was justified in opening the 2002 taxation year and in assessing a gross negligence penalty in respect of that year.
+D. The Expert Witnesses
+[123] As this appeal involved highly technical financial matters, I received evidence from four expert witnesses (two of whom were called by the Appellant and two by the Crown) to provide the ready-made inferences necessary for me to understand forward foreign exchange trading and the financial risks involved.
+(1) The Appellant’s Experts
+(a) Mr. Simon Bird
+[124] I qualified Mr. Bird as an expert in financial instruments, including foreign exchange instruments. Mr. Bird has extensive investment banking experience. He traded foreign exchange instruments including forwards and swaps. His report and his testimony provided vital information on the foreign exchange market, foreign exchange products, how trading over the counter works, and the risks of foreign exchange trading. I found his evidence useful and have given it considerable weight.
+(b) Mr. Colin Knight
+[125] I qualified Mr. Knight as an expert in foreign exchange markets and trading. Mr. Knight has extensive experience with foreign exchange products and has worked in the industry for over 20 years. He provided information about the foreign exchange market, as well as foreign exchange products. I will discuss his evidence further below.
+(2) The Crown’s Experts
+(a) Dr. Andrey Pavlov
+[126] Before considering the value of Dr. Pavlov’s evidence, it is important to review the Minister’s assumptions with respect to risk.
+[127] The Minister assumed that Mr. Pat Paletta entered into the straddle trades on the understanding that they “would bear no risk.” [91] The Minister assumed that, in fact, Mr. Pat Paletta “bore no commercial risk” with respect to the trades [92] and assumed that Mr. Pat Paletta “was never at risk”. [93]
+[128] On a similar note, in attempting to justify opening all of the taxation years at issue, the Crown pleaded as a material fact that the trades were “risk free” [94] and that all the transactions were “without risk”. [95]
+[129] It was against that backdrop that I qualified Dr. Pavlov as an expert in the measurement of risk of financial derivatives. Dr. Pavlov has extensive experience in measuring financial risk. His research focuses on the measurement of risk in various market settings. In Dr. Pavlov’s opinion, Mr. Pat Paletta’s straddle trading involved “negligible risk”. That means some risk or very small risk. It does not mean no risk.
+[130] In argument, the Crown contended that the straddle trades involved no risk, which is consistent with the Minister’s assumptions and allegations but which is inconsistent with Dr. Pavlov’s evidence. I find that Mr. Pat Paletta’s trading carried with it some risk. Whether the amount of risk is described as very small or “negligible” matters not. The point is that the trading was not without risk.
+[131] How did the risk arise? It arose because the value dates of the contracts forming each leg of the straddle were slightly different. The closer the respective value dates to one another, the lower the risk. The further apart the respective value dates, the greater the risk.
+[132] The trades forming each leg would always have slightly different value dates, meaning that the value of one would always exceed the value of the other. This slight difference was taken into account by the brokerage firm at the end of each day when the net positions were “marked to market” so that the brokerage firm could assess its own exposure to risk and, if necessary, call for additional margin.
+(b) Mr. Richard Poirier
+[133] I qualified Mr. Poirier as an expert in foreign exchange trading from the perspective of a Canadian commercial bank. Mr. Poirier spent most of his career with the National Bank of Canada and has a significant amount of foreign exchange trading experience in that context.
+[134] He opined that no one seeking to make money would engage in the trades undertaken by Mr. Pat Paletta. All of the evidence supports his conclusion on that point.
+[135] However, he went further. Mr. Poirier concluded that because there was no business purpose for the straddle trading, the trading must not have occurred. On the evidence, that conclusion is unsustainable.
+[136] As the reports of Mr. Poirier and Mr. Knight share a fundamental flaw, I will discuss them together.
+(3) Observations on the Expert Reports
+[137] The essence of Mr. Poirier’s opinion was as follows:
+1. The trades never happened.
+2. If those trades happened, what Mr. Paletta did was not Fx trading. [96]
+[138] Mr. Poirier was correct to conclude that there were “no commercial or economical [sic] reasons to do those trades”. [97]
+[139] Unfortunately, Mr. Poirier had not been asked to assume that the trading at issue was undertaken for tax purposes only. He was, therefore, unable to understand why anyone would ever engage in that type of trading:
+When you trade Fx you do it either for hedging or to speculate, to make profit. In my career I have never seen anyone trading to lose money, which it seems Mr. Paletta is claiming he did. [98]
+[140] In rebuttal to Mr. Poirier’s report, Mr. Knight stated that, in his opinion, Mr. Pat Paletta’s “trading appears to have been carried out with the intention of making a profit overall”. [99] Unfortunately, that conclusion too is inconsistent with the evidence.
+[141] Doubling down on his “for profit” hypothesis, Mr. Knight arrived at the following conclusion:
+Mr. Paletta used a sophisticated interest rate strategy that might be classified as speculative arbitrage. He used FX swaps to take focussed exposure to the interest rate differential between currencies over a narrow date range. [100]
+[142] Mr. Knight concluded that Mr. Pat Paletta might have been using other strategies to make money, including the “arbitrage butterfly” [101] and “cutting losses and letting profits run”. [102] On the evidence, Mr. Pat Paletta used none of those strategies. The only purpose of his trading was tax avoidance.
+[143] It is for that reason Mr. Knight’s reports are entitled to little weight. His speculation about various trading strategies that Mr. Pat Paletta might have been using were ill-founded in light of the evidence. The only trading strategy used by Mr. Pat Paletta was one designed to ensure immediate loss realization and indefinite gain deferral for tax purposes.
+[144] Unfortunately, Mr. Knight was not asked to consider the hypothetical of a trader who engaged in the trades at issue for tax purposes only.
+[145] By way of contrast, Dr. Pavlov’s report was most useful and is entitled to considerable weight. It helped to demolish the Minister’s assumptions that:
+1. there was no risk to the straddle trading; [103] and
+2. the margin required by each of the brokerage firms was insufficient to support that trading. [104]
+[146] I have accepted Dr. Pavlov’s opinion that the risk involved in the straddle trading was negligible. In light of that opinion, which was consistent with the evidence of the CEOs of the brokerage firms and Mr. Hodgins, I have found that there was some risk to the straddle trading and, therefore, the relatively modest amount of margin required by each of the brokerage firms was not unreasonable in the circumstances. In such circumstances, the fact that there were never any margin calls is unsurprising.
+V. Positions of the Parties
+A. The Crown’s Argument
+(1) As Pleaded in the Amended Reply
+[147] The arguments outlined by the Crown in the Amended Reply were:
+(a) all of the purported foreign currency option contracts and positions and all contracts and agreements entered into with Union CAL, IFX and ODL were shams;
+(b) if the trades occurred and were not shams, which is denied, the trades were not legally effective in that there were no legally effective contracts for the purchase or sale of any commodity;
+(c) the Appellant did not incur the Claimed Losses;
+(d) in the further alternative, the trades were not commercial transactions as the Appellant had no real liability at the end of the 2000 to 2007 taxation years and bore no risk;
+(e) in the further alternative, there was no business or potentially income producing property as, according to the understanding between the Appellant and the Hodgins, the group of trades engaged in by the Appellant could not produce any income to the Appellant. Therefore there could be no source of income with respect to the trades and the trades did not produce a loss under section 3 or 4 of the Act; and
+(f) in the further alternative, if there was a business activity, there were no realized losses as at the end of each of the Taxation Years as realization of losses and gains would have occurred simultaneously on the expiry or value dates. [105]
+[Emphasis added]
+(2) As Argued at Trial
+[148] By the time final argument was presented, the Crown’s arguments had shifted from those outlined in the Amended Reply. In final argument, the Crown made a single overarching point—Mr. Pat Paletta’s trading was not a source of income. All of the other arguments in the Amended Reply, including the sham argument, were relegated to a secondary role in support of the Crown’s source argument.
+(a) No Source of Income
+(i) Tax Loss Scheme is Not a Business
+[149] The Crown argued that there was no source of income because a tax loss scheme is not a business. Mr. Pat Paletta’s predominant motive was the pursuit of tax losses, and as a result, he did not incur any losses from carrying on a business.
+(ii) Sham Forward Foreign Exchange Contracts and Options
+[150] The Crown argued that there was no source of income because all of the trade documentation was fabricated by Mr. Hodgins. The Minister made assumptions of fact that the trading was a sham. The Appellant had the onus of proving that these assumptions were incorrect. [106] The parties to the trades made significant misrepresentations in purporting to trade forward foreign exchange contracts. Mr. Hodgins preordained all of the trades and had no choice but to achieve the target losses. [107] Mr. Hodgins represented Mr. Pat Paletta as well as the brokerage firms on all trades. There was no purpose to the trading other than the realization of tax losses. As a result, the relationship between Mr. Pat Paletta and the brokerages was a sham. Finally, the trading statements themselves were a sham. [108]
+(iii) Window Dressing
+[151] The Crown argued that there was no source of income because Mr. Pat Paletta did not intend to carry on a trading business between 2000 and 2007. He only intended to obtain a tax benefit:
+. . . The trades were window dressing, an activity undertaken to generate losses, while conveying the impression that the appellant was carrying on a business with a view to profit. . . . [109]
+[Emphasis added]
+[152] The Crown argued that “window dressing” is a separate doctrine from “sham”, and that even if I did not find sham, that I should find “window dressing”.
+(iv) Facts Incompatible with the Existence of a Business
+[153] The final argument made by the Crown in support of the source argument is that the facts are incompatible with the existence of a business. Specifically, it was argued that:
+(a) the target loss amount each year was a preordained amount;
+(b) there was a lack of risk in these trades and this differs from the amount of risk normally associated with forward foreign exchange trading; and
+(c) the trades were legally ineffective. [110]
+[154] The Crown argued that an activity that is predetermined to result in a specific amount of loss is not a business. [111] The trading was preordained to result in a loss equal to the amount of the target loss. Since the amount of the loss was known at the commencement of that year’s trading, the trading at issue could not have been a business. [112] Risk is required in order for an activity to be recognized as a business. [113] Mr. Pat Paletta’s trading did not involve sufficient risk to constitute a business.
+[155] The “legally ineffective” argument is premised on the assumption that Mr. Hodgins acted for both parties in making the trades. [114] There was no contract because there was no offer and acceptance. Mr. Pat Paletta could not have offered, or accepted, any of the trades because he did not know or understand the terms of any of the trades he purported to enter into. [115] Mr. Hodgins was, therefore, trading with himself which amounts to no trading at all.
+(3) Statute-Barred Taxation Years
+[156] The Crown argued that the misrepresentations conceded by the Appellant were attributable to wilful default because Mr. Pat Paletta knew that the trading losses were a sham and that the losses reported for tax purposes were not supported by the trading statements. [116] Mr. Pat Paletta knew that the realization method was an artificial way of accounting for the trades and did not reflect the economic reality of the situation. [117] The trades were preordained [118] and Mr. Pat Paletta cannot use the fact that accounting professionals prepared his returns as a defence. [119] He should have made inquiries of third parties [120] and was wilfully blind. As a result, there was negligent misrepresentation and all statute-barred years should be reopened.
+[157] With respect to the 2002 taxation year, Mr. Pat Paletta neglected to take into account the gain legs from the 2001 trading that he says he closed out and realized in early 2002. [121] He made no inquiries and was wilfully blind in respect of this error. [122] As a result, the 2002 taxation year should be reopened. The Crown also argued that the 2002 error affected the correctness of all subsequent returns. [123]
+(4) Gross Negligence Penalties
+[158] The Crown argued that the evidence demonstrates, on a balance of probabilities, that the misrepresentations conceded by the Appellant for the 2000 to 2006 taxation years were attributable to gross negligence. Mr. Pat Paletta was aware of many suspicious circumstances surrounding the trading activity and the people involved in it, yet he continued to trade. [124] He was wilfully blind and his indifference was tantamount to intentional conduct or an indifference as to whether the law was complied with. [125] He cannot rely on the defence that his accountants were negligent because of his business acumen, past trading experience, and the fact that he did not take precautionary steps when his accountants expressed concerns in 2001. In addition, he was wilfully blind. [126] As a result, the Crown argued that the gross negligence penalties should be upheld.
+B. The Appellant’s Argument
+[159] The Appellant argued that the forward foreign exchange trading was not a sham and that the transactions were legally effective.
+(1) Friedberg and the Straddle Trade
+[160] The Appellant argued that the teachings of the Supreme Court of Canada in Friedberg are (a) by closing out the loss leg of a straddle, a trader will thereby realize a loss for the year, and (b) such loss is not diminished by the value of any related gain leg not closed out in the year.
+[161] Mr. Friedberg closed out the loss legs of his straddle trades before year‑end but kept the gain legs in place into the following year, thereby deferring the corresponding gains. [127] Mr. Pat Paletta did the same. Therefore, the same result should follow.
+(2) Stewart and Clear Commerciality
+[162] With respect to the Crown’s source argument, the Appellant contended that the law, as stated by the Supreme Court of Canada in Stewart, forms an insurmountable obstacle to the Crown’s argument that there was no “source of income” from the trading.
+[163] There was always a slight difference between the value of the loss leg and the value of the gain leg. Therefore, there was always a possibility of profit and risk of loss from the straddle trade. As forward foreign exchange trading is inherently a commercial activity, and as there is no personal element involved, there was necessarily a source of income for purposes of section 9 of the Act.
+(3) Statute-Barred Taxation Years
+[164] The Appellant concedes that certain computational errors were made in each of the 2001 to 2007 taxation years but says that those misrepresentations were not attributable to neglect, carelessness, or wilful default. [128]
+[165] The Appellant argues that Mr. Pat Paletta obtained professional advice regarding the trades, obtaining his own oral opinions as well as written opinions passed along to him by Mr. Lewis and later by Mr. Hodgins. [129] Mr. Pat Paletta relied on tax professionals to prepare his returns. [130] The foreign exchange trading deferral was similar to another deferral strategy that Mr. Pat Paletta had used in the past. [131] The CRA reviewed the trading in the early taxation years, concluding that the strategy was acceptable and that there was nothing to audit. [132] Finally, Mr. Pat Paletta exercised the requisite degree of care in reviewing his returns with his accountants before signing them. [133] As a result, the statute-barred years cannot be opened in respect of the losses claimed from forward foreign exchange trading.
+[166] With respect to the 2002 taxation year, the Appellant acknowledged that a mistake was made but says it was made by the accountants. Mr. Pat Paletta had only the most high-level and general understanding of the trading pattern and relied on his accountants to properly report the transactions. [134] The accountants were not only provided with the 2002 working papers (Exhibit A57) but with the trade statements as well. [135] Exhibit A56 was the 2002 to 2003 trade blotter, which was also sent to Mr. Angelo Paletta. [136] Exhibit A57 was a response to further inquiries by Mr. Wiseman about Exhibit A56. [137] Mr. Angelo Paletta testified that it would have been forwarded directly to Mr. Wiseman. [138] It is worth noting that the trade blotter also begins in December of 2002 and does not include the 2001 gain trades that were closed in January of 2002. [139] The Crown has not shown that either Mr. Pat Paletta or Mr. Angelo Paletta failed to make inquiries of the accountants. [140]
+[167] The Appellant argues that Mr. Pat Paletta was not negligent or careless because he relied on his accountants and, despite reviewing the 2002 return with them, was unable to identify the error because it was beyond his ability to do so.
+[168] It is, therefore, the Appellant’s position that none of the statute-barred years can be opened.
+(4) Gross Negligence Penalties
+[169] The Appellant submits that gross negligence penalties should not be upheld as Mr. Pat Paletta did not have knowledge of, and was not grossly negligent in making, the false statements in his returns. [141]
+[170] Mr. Pat Paletta considered the reporting of the trades thoughtfully, obtained professional advice on the proper reporting of the trades, and relied on his longstanding and trusted accountants to prepare his returns. He reviewed the returns with them and received comfort from the CRA itself as the CRA had reviewed the trades in an earlier year. [142] The Crown did not introduce any evidence to show that Mr. Pat Paletta was grossly negligent in reporting the trades. [143]
+VI. Analysis
+A. Realization of Losses for Tax Purposes
+[171] In commencing the analysis, it is critical to understand the significance of the decision of the Supreme Court of Canada in Friedberg as Mr. Pat Paletta used essentially the same tax plan. Both taxpayers constructed straddle trades for tax purposes. Both taxpayers closed out their loss legs before year‑end. Both taxpayers contended that they had incurred losses for tax purposes in the year in which the loss legs were closed out. Both taxpayers carried over the related gain legs into the following year. A list of relevant similarities and differences between the two cases is attached as Appendix A.
+[172] One of the differences between the two cases is that Mr. Friedberg traded futures on an exchange (or on what the Minister calls the “open market”) while Mr. Pat Paletta traded forward foreign exchange contracts with a counterparty on the OTC market. Any trades not executed on an “open market” somehow appear to the Minister to be inherently suspect. On the evidence, there is no basis for the Minister’s suspicion. After hearing the evidence of the CEO of each of the three brokerage firms and the evidence of Mr. Hodgins and the experts, there is nothing unusual, let alone suspicious, about trading forward foreign exchange contracts with a counterparty on the OTC market. In fact, that is precisely how it is done.
+(1) Friedberg in the Federal Court – Trial Division (1989)
+[173] In Friedberg v The Queen, 1989 CarswellNat 206, the issue was whether the Minister properly reassessed Mr. Friedberg’s tax losses from his straddle trades in commodity futures. The Minister’s case proceeded on two different grounds. The first was that the “mark to market” method of accounting ought to have been used by Mr. Friedberg in reporting his gains or losses for tax purposes rather than the “lower of cost or market” method.
+[174] The second ground was that Mr. Friedberg’s tax losses artificially reduced his income and, therefore, contravened subsection 245(1) of the Act (which was later replaced by the general anti-avoidance rule):
+245(1) Artificial transactions – In computing income for the purposes of this Act, no deduction may be made in respect of a disbursement or expense made or incurred in respect of a transaction or operation that, if allowed, would unduly or artificially reduce the income.
+[175] At trial, each party adduced expert accounting evidence. The expert evidence strongly suggested that the “mark to market” method of accounting measured the economic results of Mr. Friedberg’s trading more accurately than the “lower of cost or market” method. Both methods, however, were acceptable under generally accepted accounting principles (“GAAP”).
+[176] The relevant question that arose for consideration by Associate Chief Justice Jerome of the Federal Court – Trial Division (the “F.C.T.D.”) was:
+. . . may the taxpayer compute his loss on the closing out of the short position without regard for the gain accruing on the as yet unrealized long position? [144]
+[177] Associate Chief Justice Jerome answered that question in the affirmative. He concluded that no provision of the Act required Mr. Friedberg to use the “mark to market” method. Mr. Friedberg was, therefore, free to use any other method consistent with GAAP.
+[178] With respect to the Crown’s subsection 245(1) argument, Associate Chief Justice Jerome:
+. . . addressed this point by noting that the real distinction between the marking to market and the lower of cost or market methods of accounting for futures transactions was one of timing. Under both methods, the gain realized on the winning leg is recognized for tax purposes. The only difference is the time at which the recognition occurs. He also noted that the amount of the loss realized on the losing leg was determined by market forces and was not in any sense fictitious. This being so, there was no artificial reduction of income, and subsection 245(1) did not apply to limit the loss. [145]
+[179] The Crown appealed to the Federal Court of Appeal.
+(2) Friedberg in the Federal Court of Appeal (1991)
+[180] In Friedberg v Canada (1991), 135 NR 61, the Federal Court of Appeal affirmed the decision of the F.C.T.D. In his case comment on the decision, Thomas McDonnell neatly summarizes the reasoning of Associate Chief Justice Jerome which was upheld by the Federal Court of Appeal:
+The trial judge said that the Act does not expressly provide how gains and losses on spread transactions are to be accounted for in determining liability for tax. He said that in the absence of an express statutory provision to the contrary, a taxpayer’s income for tax purposes is to be determined in accordance with generally accepted accounting practices. The trial judge went on to say that where there are two acceptable methods of accounting for income under GAAP, the taxpayer is free to choose whichever method he finds most advantageous in computing his tax liability. Again, it is important to note that the taxpayer’s right to do so was, in the trial judge’s view, dependent on the fact that the Act is silent on how the taxpayer is to account for gains and losses on commodity spread transactions.
+The Court of Appeal has now upheld this aspect of the trial judge’s decision. . . . [146]
+[181] The Crown sought, and received, leave to appeal to the Supreme Court of Canada.
+(3) Friedberg in the Supreme Court of Canada (1993)
+[182] After hearing from senior counsel for the Crown, the Court rendered its decision from the bench. [147] The reasons were delivered by Justice Iacobucci on behalf of the Court:
+Iacobucci J. ‑‑ We are all of the view that this appeal should be dismissed.
+The respondent taxpayer traded extensively in commodity futures during the taxation years 1978 to 1981 and claimed as income tax deductions business losses arising out of trading in gold futures on his own account.
+On the facts, the respondent reported his losses when they were actually incurred, and his gains when they were actually realized. In our view, the appellant has not demonstrated that there is any error in adopting this approach. While the “marked to market” accounting method proposed by the appellant may better describe the taxpayer’s income position for some purposes, we are not satisfied that it can describe income for income tax purposes, nor are we satisfied that a margin account balance is the appropriate measure of realized income for tax purposes. Similarly, while we recognize that the “lower of cost or market” method advocated by the respondent suggests that unincurred losses can be deducted in the calculation of income, no unincurred losses were deducted by the respondent on the facts of this case. Accordingly, we need not determine the income tax validity of this implication of the “lower of cost or market” method in this case.
+As to whether it is appropriate to consider the loss and gain legs of a spread transaction in isolation from one another, and as to whether s. 245(1) of the Income Tax Act, R.S.C. 1952, c. 148, as amended, assists the appellant in this case, we substantially agree with the reasons of the learned trial judge as affirmed by Linden J.A. of the Federal Court of Appeal on these points.
+Accordingly, the appeal is dismissed with costs. [148]
+[Emphasis added]
+[183] The Court confirmed that former subsection 245(1) of the Act did not apply to Mr. Friedberg’s straddle transactions (i.e., there was no artificial reduction of income) but, more importantly, it went further than the F.C.T.D. and the Federal Court of Appeal. The Court did not treat the case as a contest between two accounting methods, each acceptable under GAAP but, instead, addressed whether Mr. Friedberg was required to use the economically more realistic “mark to market” method or whether the “realization” method that he had actually used to defer recognition of the related gains to the following year was acceptable for tax purposes. The Court clearly held that the “realization” method was perfectly acceptable under the Act.
+[184] In his comment on the Court’s reasoning, Mr. McDonnell describes the Court’s ratio decidendi:
+. . . the judgment confirms the judicial principle that unrealized profits are not recognized for tax purposes until the period in which realization occurs, whatever the treatment of such profits may be under GAAP. The second point is a narrow one and turns on the particular facts of the case. It may be stated as follows: under the provisions of the Income Tax Act in force in the years under appeal (1978-1981), the mark-to-market method of accounting for certain commodity futures transactions is not an appropriate measure of income for tax purposes. [149]
+[Emphasis added]
+[185] For some reason, the Minister does not appear to fully accept the Court’s decision. The Minister’s fundamental disagreement with the Court’s conclusion that a straddle trader’s tax loss may far exceed their economic (or “real”) loss finds expression in a number of assumptions pleaded in the Amended Reply.
+[186] The Minister assumed that Mr. Pat Paletta’s tax loss “liability at the end of each year was not a real obligation.” [150] In particular, the Minister assumed that:
+[a]ny amounts purportedly “owed” to UCAL/IFX/ODL by the Appellant, or any amounts purportedly “owed” by UCAL/IFX/ODL to the Appellant . . . were never paid or were ever required to be paid, by either party . . . . [151]
+[187] The Minister assumed that:
+[t]he purported forex trading activity was . . . a ruse that enabled the Appellant to obtain losses for tax purposes without actually having incurred such losses (i.e. lay-out or expend any money) . . . . [152]
+[188] In attempting to justify opening the taxation years at issue, the Crown alleged that:
+. . . common sense dictates, and a wise and prudent person would have realized, that [Mr. Pat Paletta] had no real loss at the end of any of the Taxation Years since he had not expended an amount of his own money equal to the loss at the end of each year and he had no liability equal to the amount of the loss at the end of each year. [153]
+[189] In attempting to justify opening the taxation years at issue, the Crown also alleged that:
+the Appellant claimed a foreign currency trading loss for a liability he knew did not exist. [154]
+[190] Finally, gross negligence penalties were assessed for the taxation years at issue on the basis that Mr. Pat Paletta “claimed a trading loss for a liability he knew did not exist.” [155]
+[191] Friedberg stands for the proposition that straddle traders may report the results of their trades for tax purposes on a basis that does not reflect the true economic results of such trades. Unhappy as the Minister may be with that decision, there is no basis on which she can avoid its effect on the taxation years at issue.
+(4) Parliament’s Response to Friedberg (2017)
+[192] In 2017, Parliament enacted subsections 18(17) to (23) of the Act. Those measures were proposed in the federal budget introduced in the House of Commons on March 22, 2017, nearly 24 years after the Supreme Court of Canada’s decision in Friedberg.
+[193] When those provisions were introduced, the Department of Finance stated that “[s]traddle transactions raise significant tax base and fairness concerns” and therefore “specific legislation is proposed to clarify that these transactions contravene the scheme of the Income Tax Act.” [156] In particular, the supplementary information that accompanied Budget 2017 stated:
+To the extent that the use of the realization method for computing gains and losses on derivatives held on income account can be supported in a given case, it may allow taxpayers to selectively realize gains and losses on these derivatives through, for example, straddle transactions.
+In its simplest form, a straddle is a transaction in which a taxpayer concurrently enters into two or more positions – often derivative positions – that are expected to generate equal and offsetting gains and losses. Shortly before its taxation year‑end, the taxpayer disposes of the position with the accrued loss (the losing leg) and realizes the loss. Shortly after the beginning of the following taxation year, the taxpayer disposes of the offsetting position with the accrued gain (the winning leg) and realizes the gain. The taxpayer claims a deduction in respect of the realized loss against other income in the initial taxation year and defers the recognition of the offsetting gain until the following taxation year. The taxpayer claims the benefit of the deferral although economically the two positions are offsetting. Moreover, the taxpayer could attempt to indefinitely defer the recognition of the gain on the winning leg by entering into successive straddle transactions.
+There are several variations to this basic straddle transaction, including combining it with an exit strategy that shifts the offsetting gain to a tax‑indifferent investor.
+Straddle transactions raise significant tax base and fairness concerns. Although these transactions are being challenged using certain judicial principles and existing provisions of the Income Tax Act, including the general anti-avoidance rule, these challenges can be time-consuming and costly. Accordingly, specific legislation is proposed to clarify that these transactions contravene the scheme of the Income Tax Act.
+Budget 2017 proposes to introduce a specific anti-avoidance rule that targets straddle transactions. In particular, a stop-loss rule will effectively defer the realization of any loss on the disposition of a position to the extent of any unrealized gain on an offsetting position. A gain in respect of an offsetting position would generally be unrealized where the offsetting position has not been disposed of and is not subject to mark-to-market taxation.
+For the purposes of the stop-loss rule, a position will generally be defined as including any interest in actively traded personal properties (e.g., commodities), as well as derivatives and certain debt obligations. An offsetting position with respect to a position held by a taxpayer will generally be a position that has the effect of eliminating all or substantially all of the taxpayer’s risk of loss and opportunity for gain or profit in respect of the position.
+. . .
+This measure will apply to any loss realized on a position entered into on or after Budget Day. [157]
+[194] Shortly after the release of Budget 2017, Brian J. Arnold wondered why it took so long to introduce such measures:
+. . . rules will be introduced to prevent the use of offsetting positions in straddled transactions to defer tax. In the Friedberg case (1993) 4 SCR 285, the Supreme Court (per Iacobucci J.) decided that taxpayers were not required to use the mark‑to-market method to account for the gain and loss legs of a straddle and that the tax consequences of the gain and loss legs could be determined separately. This decision, delivered orally from the bench, was contrary to economic reality and common sense. It allowed taxpayers to realize losses by closing the loss legs before the year-end but to defer closing out the gain legs until the following year.
+The result in the Friedberg case was clearly wrong, so why did the government allow it to continue for 25 years before dealing with it? It undermines the integrity of the tax system when the government allows the use of straddles and other blatantly artificial tax avoidance strategies to go on, but at the same time rants about how important it is to prevent abusive tax avoidance. Better late than never, but the government is not getting a lot of marks from me for finally doing the right thing. [158]
+[195] Another commentator, Richard Marcovitz, was also puzzled by the timing of the announcement:
+Recent legislation demonstrates that Parliament is concerned about transactions involving derivatives that create tax benefits without exposing the taxpayer to risk, or that allow a taxpayer to achieve a business objective without the normal resulting tax consequences. The 2013 “synthetic disposition arrangement” rules address “monetization” transactions, where taxpayers convert an unrealized gain on property into cash while deferring a gain on a disposition of the property. The 2015 “synthetic equity arrangement” rules address certain transactions where corporations deduct dividends from taxable income without the corporations’ being exposed to the associated risk of owning a share. Straddle transactions, like the one entered into by the taxpayer in Friedberg, raise analogous concerns, and Parliament has finally responded with legislation.
+A simple straddle transaction is a tax-planning strategy under which a taxpayer uses the realization principle to create a loss. For example, a taxpayer can enter into offsetting derivatives and settle the losing leg in year one and the winning leg in year two. If the taxpayer computes income using the realization principle, it realizes a loss in year one but does not realize the income that offsets the loss until year two. For accounting purposes, the taxpayer will not recognize a loss in these circumstances because, under fair value accounting, it recognizes both the realized loss and the accrued gain in year one.
+. . . Parliament introduced anti-avoidance rules in subsections 18(17) through (23) to address straddle-type transactions entered into after March 21, 2017. It is not clear why Parliament chose the 2017 budget to shut down straddle planning, since there has been little litigation on the topic since the Friedberg case in 1993.64 The 2017 budget documents indicate that some taxpayers entered into straddles coupled with additional planning that allowed the taxpayer to realize a loss while causing a tax-indifferent person to realize the associated gain. Thus, Parliament was evidently concerned about revenue losses that may have resulted from both the deferral and the permanent avoidance of tax. [159]
+64 See Rezek v Canada, 2005 FCA 227; and Schultz v Canada, [1996] 1 FC 423, which involved straddle-type transactions involving spouses who were found to act as partners.
+[196] Although the specific anti-avoidance rule introduced in 2017 may very well override the decision of the Supreme Court of Canada in Friedberg (and that question will have to be answered some other day), that does not allow the Minister to reassess pre-2017 taxation years as though Friedberg had never been decided. Those amendments changed the law on a prospective basis. They did not change the law retroactively or retrospectively.
+B. The Source Argument and the Stewart Decision
+[197] The Minister assumed that Mr. Pat Paletta entered into the forward foreign exchange trades “for tax deferral purposes.” [160] The evidence demonstrates that this assumption was well-founded.
+[198] Mr. Pat Paletta undertook the straddle trades in each year after 2000 in order to incur tax losses that would be sufficient to offset (a) his income from other sources for the year and (b) the gains realized from the previous year’s trading. [161]
+[199] An absence of business purpose, however, does not mean that there was no source of income.
+[200] In order to deduct a loss in computing income for a taxation year, one must have a source of income against which that loss may be deducted. In Stewart, Justices Iacobucci and Bastarache described in considerable detail the state of the law on source:
+48 In our view, the determination of whether a taxpayer has a source of income, must be grounded in the words and scheme of the Act.
+49 The Act divides a taxpayer’s income into various sources. Under the basic rules for computing income in s. 3, the Act states:
+3. The income of a taxpayer for a taxation year for the purposes of this Part is his income for the year determined by the following rules:
+(a) determine the aggregate of amounts each of which is the taxpayer’s income for the year . . . from a source inside or outside Canada, including, without restricting the generality of the foregoing, his income for the year from each office, employment, business and property; [Emphasis added.]
+With respect to business and property sources, the basic computation rule is found in s. 9:
+9. (1) Subject to this Part, a taxpayer’s income for a taxation year from a business or property is his profit therefrom for the year.
+(2) Subject to section 31, a taxpayer’s loss for a taxation year from a business or property is the amount of his loss, if any, for the taxation year from that source computed by applying the provisions of this Act respecting computation of income from that source mutatis mutandis.
+50 It is clear that in order to apply s. 9, the taxpayer must first determine whether he or she has a source of either business or property income. . . . the following two-stage approach with respect to the source question can be employed:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?
+The first stage of the test assesses the general question of whether or not a source of income exists; the second stage categorizes the source as either business or property.
+. . .
+52 The purpose of this first stage of the test is simply to distinguish between commercial and personal activities . . .
+53 We emphasize that this “pursuit of profit” source test will only require analysis in situations where there is some personal or hobby element to the activity in question. . . . Where the nature of an activity is clearly commercial, there is no need to analyze the taxpayer’s business decisions. Such endeavours necessarily involve the pursuit of profit. As such, a source of income by definition exists, and there is no need to take the inquiry any further.
+. . .
+56 . . . s. 9 is the provision of the Act where the basic distinction is drawn between personal and commercial activity . . .
+. . .
+60 In summary, the issue of whether or not a taxpayer has a source of income is to be determined by looking at the commerciality of the activity in question. Where the activity contains no personal element and is clearly commercial, no further inquiry is necessary. Where the activity could be classified as a personal pursuit, then it must be determined whether or not the activity is being carried on in a sufficiently commercial manner to constitute a source of income. . . .
+61 . . . where an activity is clearly commercial and lacks any personal element, there is no need to search further. Such activities are sources of income. . . .
+62 . . . In our view, a property rental activity which lacks any element of personal use or benefit to the taxpayer is clearly a commercial activity. . . .
+. . .
+65 In response to this argument, it must be remembered that s. 20(1)(c)(i) is not a tax avoidance mechanism, and it has been established that, in light of the specific anti-avoidance provisions in the Act, courts should not be quick to embellish provisions of the Act in response to tax avoidance concerns: Ludco, supra, at para. 39; Neuman v. M.N.R., [1998] 1 S.C.R. 770, at para. 63. In addition, in Walls v. Canada, [2002] 2 S.C.R. [684], 2002 SCC 47, the companion to this case, we point out at para. 22 that a tax motivation does not affect the validity of transactions for tax purposes. As such, the appellant’s hope of realizing an eventual capital gain, and expectation of deducting interest expenses do not detract from the commercial nature of his rental operation or its characterization as a source of income. Moreover, in Ludco, supra, at para. 59, this Court specifically stated that s. 20(1)(c)(i) does not require the taxpayer to earn a net profit in order for interest to be deductible:
+The plain meaning of s. 20(1)(c)(i) does not support an interpretation of “income” as the equivalent of “profit” or “net income”. Nowhere in the language of the provision is a quantitative test suggested. Nor is there any support in the text of the Act for an interpretation of “income” that involves a judicial assessment of sufficiency of income. Such an approach would be too subjective and certainty is to be preferred in the area of tax law. Therefore, absent a sham or window dressing or similar vitiating circumstances, courts should not be concerned with the sufficiency of the income expected or received. [Emphasis added.]
+[Emphasis added]
+[201] The most important teaching of Stewart for present purposes is this: provided that one’s activity is clearly commercial, and that no personal element is involved, there is a source of income.
+[202] This conclusion was confirmed by the Supreme Court of Canada’s decision in Walls v Canada, 2002 SCC 47, [2002] 2 SCR 684, where the Court made clear that the Stewart test applies even if the activity in question was entirely tax motivated:
+19 The test to determine whether a taxpayer’s activities constitute a source of business or property income for the purposes of s. 9 of the Act is set out in Stewart, supra, at para. 50 as follows:
+(i) Is the activity of the taxpayer undertaken in pursuit of profit, or is it a personal endeavour?
+(ii) If it is not a personal endeavour, is the source of the income a business or property?
+In addition, at para. 53 of that case, we emphasized that the first stage of this test will only be relevant when there is some personal or hobby element to the activity in question. Where an activity is clearly commercial, the taxpayer is necessarily engaged in the pursuit of profit, and therefore a source of income exists.
+. . .
+22 Although the respondents in this case were clearly motivated by tax considerations when they purchased their interests in the Partnership, this does not detract from the commercial nature of the storage park operation or its characterization as a source of income for the purposes of s. 9 of the Act. It is a well-established proposition that a tax motivation does not affect the validity of transactions for tax purposes: Backman v. Canada, [2001] 1 S.C.R. 367, 2001 SCC 10, at para. 22; Shell Canada Ltd. v. Canada, [1999] 3 S.C.R. 622; Canada v. Antosko, [1994] 2 S.C.R. 312; Stubart Investments Ltd. v. The Queen, [1984] 1 S.C.R. 536, at p. 540. In addition, we reiterate the caution stated in Stewart, at para. 65 that, given the specific anti-avoidance provisions in the Act, courts should not be quick to embellish its provisions in response to tax avoidance concerns: see also Ludco Enterprises Ltd. v. Canada, [2001] 2 S.C.R. 1082, 2001 SCC 62, at para. 39; Neuman v. M.N.R., [1998] 1 S.C.R. 770, at para. 63. [162]
+[Emphasis added]
+[203] In Drouin v The Queen, 2013 TCC 139, Justice Bédard of this Court summarized the ratio decidendi of those twin decisions:
+[193] In essence, these two cases hold that the tests of reasonable expectation of profit and the taxpayer’s compliance with “objective standards of businesslike behaviour” are only relevant when it comes to distinguishing a business from a hobby. Where the commercial-like activity in question is and cannot be viewed as a personal pursuit, these tests are not relevant (Stewart, para. 47, reiterated in Water’s Edge Village Estates (Phase II) Ltd. v. Canada, [2003] 2 F.C. 25, para. 24).
+[204] Forward foreign exchange trading is, by its very nature, a commercial activity. In addition, there would always be a positive or negative difference between the value of the loss leg and the value of the gain leg at any particular time. There was no personal or hobby element involved as far as Mr. Pat Paletta was concerned. On that basis, the first test in Stewart is satisfied. The Court’s decision in Stewart instructs us clearly that the source analysis in such circumstances must end there.
+C. The Source Argument and Risk
+[205] The Crown argued that because the trades involved no risk, there was no source of income.
+[206] The Crown’s “no risk therefore no source” argument is inconsistent with the Minister’s own assumption of fact that there was a small economic loss. It is also inconsistent with the evidence of Dr. Pavlov that there was some, albeit negligible, risk.
+[207] The Minister assumed that the “trading was continuously hedged so as to maintain a small net economic spread between the aggregate gain and loss legs” of the trades. [163] In particular, the Minister assumed that:
+[t]he fee or cost to the Appellant was a percentage of the loss created by Tim Hodgins for each [sic] Appellant each year (i.e. approximately 1.0% of each loss so created). . . . The fee was, in actuality, equivalent to the economic “loss” (i.e. difference) arising from the purported realization of the loss leg and slightly smaller offsetting gain leg created for each straddle. . . . [164]
+[208] The Minister assumed, as a fact, that there was an “economic loss” suffered by Mr. Pat Paletta approximately equal to the 1% fee that he paid for each year’s tax losses. [165] The Minister also assumed that Mr. Hodgins ensured that Mr. Pat Paletta’s “economic loss” did not exceed the 1% fee charged to him for the tax losses. [166]
+[209] In order to deal with this inconsistency, the Crown argued that the small economic loss suffered by Mr. Pat Paletta was insufficient to constitute a source of income for purposes of the Act. I am not satisfied that there is any such test in Canadian tax law. Indeed, Stewart makes it clear that there is no “sufficiency” test in this regard. [167]
+D. Sham
+[210] Whether sham is presented as the Crown’s primary argument (as it was in the Amended Reply) or deployed in support of the Crown’s source argument (as it was in final argument), it deserves some analysis.
+[211] The two most recent decisions of this Court on sham are Paletta v The Queen, 2019 TCC 205 and Agracity Ltd. v The Queen, 2020 TCC 91. In Paletta, Justice Hogan described the governing principles (citations omitted):
+[121] There appears to be no dispute between the parties as to the meaning of sham. They both referred to the case of J. Snook v. London & West Riding Investments, Ltd. In Snook, Diplock L.J. stated that “sham”:
+. . . means acts done or documents executed by the parties to the “sham” which are intended by them to give to third parties or to the court the appearance of creating between the parties legal rights and obligations different from the actual legal rights and obligations (if any) which the parties intend to create. One thing I think, however, is clear in legal principle, morality and the authorities . . . that for acts or documents to be a “sham”, with whatever legal consequences follow from this, all the parties thereto must have a common intention that the acts or documents are not to create the legal rights and obligations which they give the appearance of creating. No unexpressed intentions of a “shammer” affect the rights of a party whom he deceived. . .
+[122] Canadian courts adopted the Snook definition of sham in 1972. The Supreme Court of Canada reaffirmed and followed this definition of sham in Stubart Investments Ltd. v. The Queen. In Stubart, Justice Estey defined sham as:
+. . . a transaction conducted with an element of deceit so as to create an illusion calculated to lead the tax collector away from the taxpayer or the true nature of the transaction; or, simple deception whereby the taxpayer creates a facade of reality quite different from the disguised reality. . .
+[123] Two more recent decisions of Justice Noël of the Federal Court of Appeal discuss sham. In Antle v. The Queen, he said, in obiter:
+. . . The required intent or state of mind is not equivalent to mens rea and need not go so far as to give rise to what is known at common law as the tort of deceit . . . . It suffices that parties to a Transaction present it as being different from what they know it to be . . .
+[124] In 2529-1915 Québec Inc. v. The Queen, he said:
+[59] It follows from the above definitions that the existence of a sham under Canadian law requires an element of deceit which generally manifests itself by a misrepresentation by the parties of the actual transaction taking place between them. When confronted with this situation, courts will consider the real transaction and disregard the one that was represented as being the real one.
+[125] In a tax context, a Court will arrive at a finding of sham when the evidence shows that the parties misrepresented their arrangements in a bid to achieve a tax benefit that would be denied if the nature of their arrangements was properly disclosed. In tax matters, the party that is deceived by the sham is the Canada Revenue Agency (“CRA”).
+[126] In considering sham, the Court must examine the objective reality surrounding the arrangements to discern whether the transaction documents truly reflect the parties’ intent. Direct evidence of sham is rare where a case proceeds to court; in the absence of an admission, the court is left to weigh circumstantial evidence.
+. . .
+[129] I stress that searching for the objective reality of a transaction does not conflate sham (i.e., misrepresentation and deceit) and the notions of “economic substance” or “business purpose”. It is well established that a transaction is not a sham because it is devoid of economic substance, lacks a business purpose or serves a tax avoidance purpose. I shall look instead at whether the parties misrepresented the nature of their arrangements to the CRA.
+[130] One final point is that sham must be distinguished from abuse. Sham is not an overall scheme that is abusive; it is a matter of the parties having misrepresented the legal effect of a transaction. . . .
+[Emphasis added]
+[212] In Agracity, Justice Boyle also sounded a cautionary note:
+[20] Sham is a serious allegation requiring convincing evidence to conclude that a Canadian taxpayer was deceitful on a balance of probabilities. Often this may involve circumstantial evidence. This can be expected to require more then [sic] the Respondent’s suspicions. [168]
+[213] Here, the Minister’s assumptions on sham included the following:
+The Appellant and the Hodgins acted in concert to deceive the Minister. [169]
+. . .
+The Appellant and Tim Hodgins (UCAL/IFX/ODL) were acting in concert, with a common mind, to deceive the Minister. At the very least, UCAL/IFX/ODL (Tim Hodgins) accommodated the Appellant to deceive the Minister. [170]
+. . .
+The purported rights and obligations that arose from the purported forex contracts were not the actual rights and obligations intended and acted upon by the parties. [171]
+[Emphasis added]
+[214] The Minister assumed that the effect of the sham was that Mr. Pat Paletta was not actually trading forward foreign exchange contracts. [172]
+[215] It was not clear from the pleadings whether the Minister had assumed that Mr. Hodgins fabricated the trading documents (and that constituted the sham) or whether the lack of “business purpose” constituted the sham. On the evidence, the former proposition is factually incorrect. On the law, the latter proposition is legally unsustainable.
+[216] The Minister’s suspicions appear to have been aroused, at least in part, because the trading did not occur on an exchange (or on an “open market” as the Minister describes). Instead, it occurred on the OTC market in which one counterparty contracts directly with another.
+[217] There may very well be opportunities to fabricate trades on the OTC market, but the Crown did not adduce any evidence of that having occurred here. [173]
+[218] The Crown brought no evidence of the fabrication of any of the trades at issue. The theoretical possibility of fabrication does not satisfy the Crown’s burden of proof after the Appellant had adduced sufficient evidence that convinced me, on a balance of probabilities, that the trades actually occurred.
+[219] The Appellant adduced credible evidence from the CEO of each brokerage firm demonstrating, on a balance of probabilities, that their firms were bona fide brokerage firms and that each, at various times, was a counterparty to the trades at issue on the OTC market with Mr. Pat Paletta.
+[220] The Appellant also adduced evidence from Mr. Hodgins, whom I also found to be credible, that Mr. Hodgins and his father ran their own business within each of those brokerage firms. Their business included acting as Mr. Pat Paletta’s agent in planning and executing his straddle trades with each of the brokerage firms as counterparties. He described, in detail, how he would execute the trades.
+[221] Before executing a trade Mr. Hodgins would fill out a trade ticket setting out the details of the proposed trade and would take the ticket to the relevant desk at the brokerage firm in order to obtain a price. [174] Mr. Hodgins was not permitted by the brokerage firms to price the trade himself. [175] If Mr. Hodgins agreed to the price quoted to him by the brokerage firm for the trade, the trade would be executed between Mr. Hodgins (on behalf of Mr. Pat Paletta) and the relevant trading desk (on behalf of the brokerage firm).
+[222] The credibility of the evidence offered by Mr. Hodgins was enhanced by his honesty in admitting to certain computational errors. The amounts that were reported on Mr. Pat Paletta’s returns as income from forward foreign exchange trading originated from the trading documents sent by Mr. Hodgins to Mr. Angelo Paletta who passed them along to the accountants.
+[223] When he was asked at trial to recompute the amounts that should have been reported on those returns based on the trading documentation in evidence, Mr. Hodgins did so and candidly admitted that he had made a number of computational errors in his original reporting. At trial, both parties accepted the amounts recomputed by Mr. Hodgins as reflecting the actual amounts at issue.
+[224] The Appellant has met its burden of proving the bona fides of each of the brokerage firms and of Mr. Hodgins and demonstrating, on a balance of probabilities, that there was nothing intentionally false or misleading about the trading documentation. Having done that, the Minister’s assumptions on sham were effectively demolished.
+[225] I find in favour of the Appellant on the issue of sham. There is no evidence that Mr. Hodgins fabricated any of the trades. The parties to the trades did not represent their legal rights and obligations to the Minister any differently than the way they themselves understood them. Neither of the counterparties sought to deceive anyone.
+[226] Before leaving the analysis of the Crown’s sham argument, I will comment briefly on each of the Crown’s specific allegations of sham.
+(1) Lack of Business Purpose
+[227] There can be no doubt but that the straddle trading had no business purpose. Its only purpose was to allow Mr. Pat Paletta to claim non-capital losses that he could use to offset his taxable income each year.
+[228] That finding, however, does not advance the Crown’s case for two reasons:
+There is no business purpose test in Canadian tax law; [176] and
+Lack of business purpose is not a sham. [177]
+(2) Customer Agreements
+[229] The Minister assumed that:
+[t]he . . . account opening documents . . . were a sham to give the impression that the Appellant actually opened an account at each of the trading houses in turn and commenced legitimate trading in forex contracts . . . . [178]
+[230] The evidence was that Mr. Pat Paletta did open an account with each of the brokerage firms by executing their customer agreements and depositing the required margin.
+[231] The Crown led no evidence to suggest that the customer agreements that Mr. Pat Paletta signed with each of the brokerage firms were not what they appeared to be.
+(3) Margin Amounts
+[232] The Minister assumed that:
+[t]he purported margin requirement was a sham and the monies sent into UCAL/IFX/ODL in respect of purported margin were merely window dressing intended to create the impression that the accounts of the Appellant were normal trading accounts. [179]
+[233] The Crown argued that the contracts were a sham because Mr. Pat Paletta did not have the financial capacity to make delivery of the currency that he had contractually agreed to deliver to his counterparty on the value date of each contract.
+[234] This argument reflects a fundamental misunderstanding of forward foreign exchange trading and the role of margin in such trading. The evidence from the CEOs of the brokerage firms is that their firms regularly extended margin in order to enable their clients to trade contracts in amounts significantly larger than their margin balances. On the evidence, this is customary in the industry. One of the CEOs testified that it was in the discretion of the brokerage firm to determine the amount of margin required and whether to make a margin call at any particular time. [180]
+[235] The modest amount of margin required to support the straddle trades was also consistent with the evidence of Dr. Pavlov. If the risk undertaken by Mr. Pat Paletta in his straddle trades was negligible, as Dr. Pavlov concluded, the amount of margin required should have been negligible as well.
+(4) Irrevocable Letters of Credit
+[236] The Crown led no evidence to suggest that the irrevocable letters of credit were not what they appeared to be. [181] Was the Royal Bank of Canada working with Mr. Pat Paletta and Mr. Hodgins and the brokerage firms to deceive the Minister? That notion is unsustainable on the evidence before me.
+[237] The fact that none of the irrevocable letters of credit were called for payment does not mean that they were a sham. It simply means that the brokerage firms were comfortable with the amount of margin they held in light of their assessment of the negligible risk posed to them by Mr. Pat Paletta’s straddle trades.
+(5) Transaction Confirmations/Summaries
+[238] The Minister assumed that:
+[t]he purported trading activity and the forex contracts shown in the UCAL/IFX/ODL statements provided by the Appellant were meant to deceive the Minister. [182]
+[239] The evidence presented by the experts on forward foreign exchange trading demonstrates that the transaction confirmations appear exactly as one would expect them to appear. In particular, the transaction confirmations include all of the information necessary to make a trade, namely:
+1. The name of each counterparty;
+2. The date on which the contract was entered into;
+3. The value date of the contract;
+4. The currencies bought and sold;
+5. The quantity of currency to be delivered by each counterparty on the value date; and
+6. The exchange rate agreed upon by the counterparties.
+[240] It is true that the transaction confirmations, as well as the summaries of those confirmations, could have been easier to read. A few of them included the occasional error. That, however, does not make an entire group of documents a sham. [183]
+(6) Closing Out
+[241] The Minister assumed that:
+[t]he purported rights and obligations that arose from the purported forex contracts were not the actual rights and obligations intended and acted upon by the parties. [184]
+[242] The Crown argued that the contracts were a sham because Mr. Pat Paletta never had any intention of fulfilling the terms of the contracts by making delivery of the relevant currency on the value date of each contract.
+[243] The evidence of the forward foreign exchange trading experts makes it clear that in trading forward foreign exchange contracts on the OTC market, there was no expectation, let alone a legal obligation, that any counterparty would hold any particular contract to its value date or that it would, on that date, make delivery of the currency it had agreed to deliver. The expert evidence makes it clear that such contracts may be closed out before their value dates. [185]
+E. Window Dressing
+[244] The Minister assumed that:
+. . . [t]he contracts, account statements and margin payments were, in and of themselves, no more than window dressing, meant to convey the appearance that the Appellant was engaged in legitimate forex trading when he in fact was not. [186]
+. . .
+[t]he over-the-counter forex option and forward contracts purportedly entered into by the Appellant were window dressing to give the appearance of trading activity. [187]
+[Emphasis added]
+[245] The Crown argued that a judicial anti-avoidance doctrine of “window dressing” exists in Canada, which is different than the doctrine of sham. The Crown, however, did not cite any binding authority that establishes “window dressing” as a stand-alone judicial anti-avoidance doctrine.
+[246] When courts use the term “window dressing” they usually do so in order to highlight certain aspects of a sham designed to misrepresent to others the true legal relationship between the parties. This is reflected in the Minister’s assumption that:
+[t]he purported margin requirement was a sham and the monies sent into UCAL/IFX/ODL in respect of purported margin were merely window dressing intended to create the impression that the accounts of the Appellant were normal trading accounts. [188]
+[Emphasis added]
+[247] There is no better way to conclude my analysis of sham than to adopt the words of Justice Owen in Cameco Corporation v The Queen, 2018 TCC 195. I find as a fact that Mr. Pat Paletta and the brokerage houses:
+[670] … did not factually represent the numerous legal arrangements that they entered into in a manner different from what they knew those arrangements to be, nor did they factually represent the transactions created by those arrangements in a manner different from what they knew those arrangements to be, consequently, the element of deceit required to find sham is simply not present. [189]
+F. Ineffective Transactions
+[248] The Minister assumed that the straddle trades were legally ineffective. In an assumption of mixed fact and law, the Minister assumed that:
+[t]he basic elements of a contract (trade) were not present in these purported forex transactions. There was no offer and acceptance between the parties. Tim Hodgins (UCAL/IFX/ODL) entered into both sides of the forex contracts and caused them to be purportedly executed. [190]
+[249] In an odd bit of pleading, it was suggested that the Minister had made an assumption about the sufficiency of evidence:
+. . . [t]here was little evidence to suggest that a legally binding trading relationship was ever established between the parties at any time (ie. between the Appellant and UCAL/IFX/ODL). [191]
+[250] In any event, the Minister assumed that Mr. Hodgins was trading with himself as he alone decided the terms of each contract. If Mr. Hodgins was trading with himself, then Mr. Pat Paletta did not trade at all and, therefore, did not realize any of the claimed losses.
+[251] That assumption, in turn, is based on the Minister’s assumption that Mr. Hodgins and his father “acted as representatives” of each of the three brokerage firms that were counterparties to Mr. Pat Paletta on his trades. [192] The Minister assumed that:
+Tim Hodgins was at all times the representative for UCAL/IFX/ODL in respect of the dealings of the Appellant with each trading house. [193]
+[Emphasis added]
+[252] The Minister assumed that, at all material times, Mr. Hodgins was “the representative” of Union Cal Limited with respect to all of Mr. Pat Paletta’s forward foreign exchange trading, [194] that Mr. Hodgins and his father “were authorized representatives of Union Cal Limited”, [195] and that after they left IFX Ltd., Mr. Hodgins and his father became “representative brokers” of ODL Securities Ltd. [196]
+[253] The Minister’s theory is that Mr. Hodgins was acting on behalf of Mr. Pat Paletta and on behalf of the brokerage firms at the same time. What the evidence shows, however, is that Mr. Hodgins acted only as agent for Mr. Pat Paletta. The evidence does not show that he acted as agent for the brokerage firms. Mr. Hodgins and his father had a profit-sharing arrangement with each of the brokerage firms, but that does not constitute them agents of those firms.
+[254] The Minister assumed (which is also not an assumption of fact but, at best, a conclusion of mixed fact and law) that:
+[t]he forex contracts that the Appellant purportedly entered into with UCAL/IFX/ODL were legally ineffective. [197]
+[255] There was no evidence that the forward foreign exchange contracts were legally ineffective. All the evidence points in the other direction, namely, that they were legally effective in accordance with their terms.
+G. Statute-Barred Taxation Years
+[256] As the Minister reassessed each of the taxation years at issue after the normal reassessment period, the Crown had the burden of proving, on a balance of probabilities, that in respect of each year (a) Mr. Pat Paletta made a misrepresentation on his return, and (b) that such misrepresentation was attributable to neglect, carelessness or wilful default.
+[257] Certain computational errors were conceded by the Appellant as a result of Mr. Hodgins having recomputed, at trial, the amount of gains and losses for the 2001 to 2007 taxation years. The Appellant conceded that the amounts reported on Mr. Pat Paletta’s returns for those years were, therefore, misrepresentations. To be precise, the Appellant did not dispute:
+. . . that the amounts of gains and losses reported by Mr. Paletta in respect of the Trades did not always match up with gains and losses from the Trades that were calculated by Mr. Hodgins. Accordingly, save for the 2000 taxation year, the appellant will not take issue with a finding that the Crown met the first part of the test; that is, there was a misrepresentation in the 2001-2007 taxation years. [198]
+[258] The issues, then, are:
+1. whether any of the conceded misrepresentations were attributable to neglect, carelessness or wilful default; and
+2. whether any other misrepresentations were made by Mr. Pat Paletta and whether any of those misrepresentations were attributable to neglect, carelessness or wilful default.
+[259] The Crown has not proved, on a balance of probabilities, that any of the conceded misrepresentations were attributable to neglect, carelessness or wilful default. [199] It was not careless or neglectful for Mr. Pat Paletta to accept that the amounts computed by Mr. Hodgins were correct at the time even if those amounts were corrected by Mr. Hodgins at trial.
+[260] However, the Crown has proved, on a balance of probabilities, that Mr. Pat Paletta substantially understated his income for the 2002 taxation year and that such understatement was attributable, at a very least, to his own carelessness or neglect.
+[261] Justice D’Auray has recently reviewed the relevant case law in Hansen v The Queen, 2020 TCC 102:
+[75] When the Minister assesses a taxpayer after the normal reassessment period, she has the burden of establishing that the taxpayer made a misrepresentation that is attributable to neglect, carelessness or wilful default. It is clear from the case law that the Minister cannot open statute-barred years simply because she does not agree with the manner in which a taxpayer has reported his or her income.
+[76] The case law does not consider that there has been misrepresentation as contemplated by subparagraph 152(4)(i) of the Act when a taxpayer has been reasonable in the manner that he or she has reported his or her income. This reasoning is found in the decision of Regina Shoppers Mall Ltd. v R,3 in which Justice Addy of the Federal Court stated that Minister cannot reassess after the normal assessing period, where a taxpayer thoughtfully, deliberately and carefully assesses the situation and files on what he or she believes bona fide to be the proper method:
+10. Where a taxpayer thoughtfully, deliberately and carefully assesses the situation and files on what he believes bona fide to be the proper method there can be no misrepresentation as contemplated by section 152 (1056 Enterprises Ltd. v. Canada, [1989] 2 C.T.C. 1, 89 D.T.C. 5287). In Levy (J.) v. Minister of National Revenue, [1989] 2 C.T.C. 151, 89 D.T.C. 5385 at page 176 (D.T.C. 5403), Teitelbaum, J. quotes with approval the following statement by Muldoon, J. in the above case:
+Subsection 152(4) protects such conduct, and perhaps only such conduct, where the taxpayer thoughtfully, deliberately and carefully assesses the situation as being one in which the law does not exact the reporting of that which the taxpayer bona fide believes does not exist.
+[Emphasis added.]
+. . .
+[82] It is clear from the above-noted decisions that simply because a taxpayer has adopted a position that contradicts the Minister’s position does not in itself mean a taxpayer has made a misrepresentation that would allow the Minister to reassess after the normal period for reassessing a taxpayer.
+. . .
+[86] The question that I have to decide is whether Mr. Hansen thoughtfully, deliberately and carefully assessed the situation and filed his income tax returns on what he believed bona fide to be the proper method.
+[Emphasis added]
+3 Regina Shoppers Mall Ltd. v R, [1990] 2 CTC 183 (FC), confirmed by the FCA at [1991] 1 CTC 297.
+[262] The question is whether Mr. Pat Paletta thoughtfully, deliberately and carefully assessed the situation and filed his income tax returns using what he believed bona fide to be the proper method. I have concluded, on the evidence, that Mr. Pat Paletta did not do so in respect of his 2002 taxation year.
+[263] From the evidence given by Mr. Angelo Paletta it was clear that he and Mr. Pat Paletta knew the methodology of the tax plan:
+1. Before the end of the year, the loss legs of the straddle would be closed out so as to realize the target loss for the year;
+2. Shortly after the start of the next taxation year the corresponding gain legs would be closed out and realized—they both understood that those gains must be included in computing income for the next taxation year; and
+3. The target loss for the next taxation year would be sufficient to shelter (a) the gains realized earlier in the taxation year and (b) the taxable income that Mr. Pat Paletta anticipated receiving in that year. [200]
+[264] The same trading cycle would be repeated year after year, without exception, following the 2000 taxation year (the first year of trading).
+[265] In his tax return for 2002, Mr. Pat Paletta substantially understated his income. He claimed a loss from forward foreign exchange trading in the amount of $10,007,726. [201] The amount of the loss he was entitled to claim was only $1,976,882. [202] Mr. Pat Paletta understated his income from forward foreign exchange trading by $8,030,844 because he did not take into account the amount of gains realized earlier in 2002, which he knew had to be included in computing income for his 2002 taxation year. It cannot seriously be suggested that Mr. Pat Paletta was unaware of this fundamental requirement of the plan, particularly as Mr. Angelo Paletta testified that his father was “a wizard with numbers” and “had a computer brain”. [203]
+[266] Before leaving the statute-barred issue, I have carefully considered whether the carry over of a portion of the overstated 2002 loss to the 2005 taxation year under section 111 of the Act was attributable to carelessness or neglect on the part of Mr. Pat Paletta for his 2005 taxation year. I have concluded that it was not. There was no evidence that the carry over of losses from one year to another was one of the elements of the plan that Mr. Pat Paletta was aware of, or ought to have been aware of, when he filed his return for 2005. Nor was there any evidence that he had used carry overs in the past or was generally familiar with, or even aware of, the concept of carrying over a portion of a loss to a subsequent taxation year under section 111 of the Act.
+H. Gross Negligence Penalties
+[267] Justice D’Auray recently reviewed the relevant case law on subsection 163(2) in Hansen:
+[110] Subsection 163(2) of the Act authorizes the Minister to impose a penalty on a taxpayer if the latter knowingly or under circumstances amounting to gross negligence makes a false representation or an omission when filing his or her income tax return. It states as follows:
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+[111] Pursuant to subsection 163(3) of the Act, the respondent has the burden of proving on a balance of probabilities the facts that justify the assessment of a penalty.
+[112] Accordingly, in this appeal the respondent has to establish:
+- that Mr. Hansen made a false statement or omission in his income tax returns; and
+- that he did so knowingly or under circumstances amounting to gross negligence.
+[113] The standard of “gross negligence” is different from that of “knowingly/willful blindness”.
+[114] In Bradshaw v The Queen,15 I considered the decision of the Federal Court of Appeal in Wynter v The Queen,16 which examined the concept of wilful blindness:
+[41] In Wynter, Justice Rennie explained that a taxpayer will fall under the “knowingly” standard, not only when the taxpayer actually intends to make a false statement but also when the taxpayer becomes aware of the need for inquiry but declines to make the inquiry because the taxpayer does not want to know the truth or wants to studiously avoid the truth. In these circumstances, the doctrine of willful blindness imputes knowledge to the taxpayer:
+[13] A taxpayer is willfully blind in circumstances where the taxpayer becomes aware of the need for inquiry but declines to make the inquiry because the taxpayer does not want to know, or studiously avoids, the truth. The concept is one of deliberate ignorance: R. v. Briscoe, 2010 SCC 13 at paras. 23-24, [2010] 1 S.C.R. 411 (Briscoe); Sansregret at para. 24. In these circumstances, the doctrine of wilful blindness imputes knowledge to a taxpayer: Briscoe at para. 21. Wilful blindness is the doctrine or mechanism by which the knowledge requirement under subsection 163(2) is met.
+. . .
+[16] In sum, the law will impute knowledge to a taxpayer who, in circumstances that suggest inquiry should be made, chooses not to do so. The knowledge requirement is satisfied through the choice of the taxpayer not to inquire, not through a positive finding of an intention to cheat.
+[17] While evidence, for example, of an actual intent to make a false statement would suffice to meet the “knowingly” requirement of subsection 163(2), requiring an intention to cheat to establish wilful blindness is inconsistent with the well-established jurisprudence that wilful blindness pivots on a finding that the taxpayer deliberately chose not to make inquiries in order to avoid verifying that which might be such an inconvenient truth. The essential factual element is a finding of deliberate ignorance, as it “connotes ‘an actual process of suppressing a suspicion’”: Briscoe at para. 24. I would add that, in the context of subsection 163(2), references to “an intention to cheat” are a distraction. The gravamen of the offence under subsection 163(2) is making of a false statement, knowing (actually or constructively, i.e., through wilful blindness) that it is false.
+[115] Wilful blindness will therefore be established if the respondent establishes on a balance of probabilities that the taxpayer subjectively knew that the statements in his or her income tax return were false but chose not to make further inquiries because he or she subjectively knew or strongly suspected that the inquiries would provide him or her with the knowledge that the statements were indeed false. Since it is a subjective test, the personal attributes of the individual may be considered in determining whether the individual is wilfully blind.
+[116] On the other hand, the “gross negligence” standard is an objective test. Gross negligence will be established by taking into account the expected conduct of a reasonable person in the same circumstances. Consequently, the personal attributes of a taxpayer should not be taken into account. The burden is on the Crown to prove on a balance of probabilities that the conduct of a taxpayer represented a marked and substantial departure from the conduct of a reasonable person in the same circumstances.
+[117] The seminal decision on what constitutes gross negligence under subsection 163(2) of the Act is the Federal Court’s decision in Venne v The Queen.17 There, Justice Strayer described what constitutes gross negligence in the following terms:
+Gross negligence must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[118] In Sidhu v The Queen,18 Justice Hershfield stated as follows:
+. . . The burden here is not to prove, beyond a reasonable doubt, mens rea to evade taxes. The burden is to prove on a balance of probability such an indifference to appropriate and reasonable diligence in a self-assessing system as belies or offends common sense. . . .
+[119] Chief Justice Bowman in Mensah v The Queen19 stated that while the standard of proof in a tax appeal is a civil one and not a criminal one, nonetheless the evidence adduced in support of the penalty must be scrutinized with great care. He also referred to the decision of the Federal Court of Appeal in Farm Business Consultants Inc. v R20 which held that the benefit of the doubt in such cases must be given to the taxpayer:
+A court must be extremely cautious in sanctioning the imposition of penalties under subsection 163(2). Conduct that warrants reopening a statute-barred year does not automatically justify a penalty and the routine imposition of penalties by the Minister is to be discouraged. Conduct of the type contemplated in paragraph 152(4)(a)(i) may in some circumstances also be used as the basis of a penalty under subsection 163(2), which involves the penalizing of conduct that requires a higher degree of reprehensibility. In such a case a court must, even in applying a civil standard of proof, scrutinize the evidence with great care and look for a higher degree of probability than would be expected where allegations of a less serious nature are sought to be established. Moreover, where a penalty is imposed under subsection 163(2) although a civil standard of proof is required, if a taxpayer's conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not, the benefit of the doubt must be given to the taxpayer and the penalty must be deleted. I think that in this case the required degree of probability has been established by the respondent, and that no hypothesis that is inconsistent with that advanced by the respondent is sustainable on the basis of the evidence adduced. [Emphasis added.]
+15 Bradshaw v The Queen, 2019 TCC 1.
+16 Wynter v The Queen, 2017 FCA 195.
+17 Venne v The Queen, [1984] CTC 223, at paragraph 37.
+18 Sidhu v The Queen, 2004 TCC 174.
+19 Mensah v The Queen, 2008 TCC 378.
+20 Farm Business Consultants Inc. v R., 95 DTC 200, confirmed by the FCA at 96 DTC 6085.
+[268] More recently, in Deyab v Canada, 2020 FCA 222, the Federal Court of Appeal noted the test set out by the Supreme Court of Canada in Guindon v Canada:
+[62] In Guindon v. Canada, 2015 SCC 41, the Supreme Court of Canada addressed the issue of whether particular conduct was culpable conduct for the purposes of the preparer penalty imposed under section 163.2 of the Act. The Supreme Court, in addressing that issue, endorsed the following descriptions of gross negligence for the purposes of subsection 163(2) of the Act:
+[59] The expressions “shows an indifference as to whether this Act is complied with” and “tantamount to intentional conduct” originated in the jurisprudence on the gross negligence penalty applicable directly to taxpayers in s. 163(2) of the ITA, which states:
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of . . . . [Penalty calculations omitted.]
+[60] The Minister states in her factum that “culpable conduct” in s. 163.2 of the ITA “was not intended to be different from the gross negligence standard in s. 163(2)”: para. 79. The Federal Court in Venne v. The Queen, [1984] C.T.C. 223 (T.D.), in the context of a s. 163(2) penalty, explained that “an indifference as to whether the law is complied with” is more than simple carelessness or negligence; it involves “a high degree of negligence tantamount to intentional acting”: p. 234. It is akin to burying one’s head in the sand: Sirois (L.C.) v. Canada, 1995 CarswellNat 555 (WL Can.) (T.C.C.), at para. 13; Keller v. Canada, 1995 CarswellNat 569 (WL Can.) (T.C.C.). The Tax Court in Sidhu v. R., 2004 TCC 174, [2004] 2 C.T.C. 3167, explaining the decision in Venne, elaborated on expressions “tantamount to intentional conduct” and “shows an indifference as to whether this Act is complied with”:
+Actions “tantamount” to intentional actions are actions from which an imputed intention can be found such as actions demonstrating “an indifference as to whether the law is complied with or not”. . . . The burden here is not to prove, beyond a reasonable doubt, mens rea to evade taxes. The burden is to prove on a balance of probability such an indifference to appropriate and reasonable diligence in a self-assessing system as belies or offends common sense. [para. 23]
+[63] Conduct that would justify the assessment of a gross negligence penalty is conduct that is tantamount to intentional acting. . . . [204]
+[269] By filing his 2002 return without including $8,030,844.73 of gains realized in 2002, Mr. Pat Paletta’s understatement of his income for that year constituted conduct tantamount to intentional acting. Mr. Pat Paletta knew that the gain legs had to be included in computing income the year after the related loss legs were closed out. Near the end of 2001, some $8,000,000 in losses were realized, so Mr. Pat Paletta would have known that approximately $8,000,000 of gains had to be included in computing his income for 2002. [205]
+[270] In conclusion, Mr. Pat Paletta’s conduct with respect to the filing of his 2002 return falls far short of the expected conduct of a reasonable person. Such a person would have, at the very least, confirmed with his accountant before signing his 2002 return, whether the gains from closing out the gain legs in early 2002 were, in fact, included in computing his income for that year. Had he asked that basic question, he would not have understated his income for 2002 by $8,030,844.73.
+VII. Conclusion
+[271] The Appellant has substantially prevailed by adducing the evidence necessary to demolish the Minister’s operative assumptions. [206] Having seen those assumptions demolished, I am obliged to follow the decisions of the Supreme Court of Canada in Friedberg and in Stewart. As former Justice Robert J. Sharpe of the Ontario Court of Appeal wisely instructs us:
+. . . the law limits our choices. We have to apply constitutionally valid statutes as they are written, and we have to follow binding precedents that pertain to the dispute before us, even if we do not like the result the authorities prescribe. [207]
+VIII. Relief Granted
+[272] The appeals for the 2000, 2001, 2003, 2004, 2005, 2006, and 2007 taxation years are allowed, with costs to the Appellant, and the reassessments for those years are vacated.
+[273] The appeal for the 2002 taxation year is allowed, with costs to the Respondent, and the reassessment for that year is sent back to the Minister for reconsideration and reassessment on the basis that:
+(a) the gain of $8,030,844.73 from closing out the gain legs in that year shall be taken into account in computing income in accordance with these reasons; and
+(b) penalty under subsection 163(2) of the Act shall be reassessed on the basis that the understatement of income that is reasonably attributable to the false statement or omission is $8,030,844.73.
+[274] Counsel are to be commended for their able presentations. Their oral and written submissions on the facts and the law were most helpful and I am grateful to each of them.
+These Amended Reasons for Judgment are issued in substitution for the Reasons for Judgment dated February 18, 2021 to correct a typographical error in the last sentence of paragraph 81 where “Trade B” should have read “Trade A”.
+These Further Amended Reasons for Judgment are issued in substitution for the Amended Reasons for Judgment dated February 23, 2021 to correct typographical errors in paragraphs 137, 224, 234 and 237.
+Signed at Toronto, Ontario, this 25th day of March 2021.
+“David E. Spiro”
+Spiro J.
+Appendix A
+Comparison of Friedberg v The Queen and Paletta Estate v The Queen
+Trading
+Mr. Friedberg (1978-1981)
+Mr. Pat Paletta (2000–2007)
+Contracts traded
+Futures contracts
+Forward contracts and synthetic forwards
+Market
+On an exchange [208]
+Over the counter
+Asset
+Gold
+Currencies
+Fees
+Fixed amount per trade [209]
+Negotiable [210]
+Trading hours
+Only when exchange is open
+(6 hours per day) [211]
+Almost any time [212]
+Value dates
+Predetermined
+Variable
+Issues raised
+Friedberg v The Queen
+Paletta Estate v The Queen
+Subsection 245(1)?
+Yes (artificial reduction of income)
+No (GAAR)
+GAAP contest?
+Yes (in FCTD and FCA)
+No
+Sham argument?
+No
+Yes
+Source argument?
+No
+Yes
+Tax shelter rules in section 231.7?
+No (not in effect at that time)
+No
+Appendix B
+Analysis of Taxable Income Reported by Mr. Pat Paletta from 2000 to 2007
+Year
+2000
+Exhibit A16 page
+2001
+Exhibit A17 page
+2002
+Exhibit A19 page
+2003
+Exhibit A21 page
+Employment income
+$395,754.74
+2
+$1,557,754.74
+2
+$3,053,248.00
+2
+$5,556,960.00
+2
+Other employment income
+$5,700,000.00
+2
+$0.00
+2
+$0.00
+2
+$0.00
+2
+Other income
+$0.00
+2
+$0.00
+2
+$0.00
+2
+$0.00
+2
+Old Age Security
+$5,079.51
+2
+$5,232.27
+2
+$5,335.89
+2
+$5,497.62
+2
+CPP
+$9,251.04
+2
+$9,482.28
+2
+$9,766.80
+2
+$9,923.04
+2
+Other pensions
+$0.00
+2
+$8,220.11
+2
+$3,320.68
+2
+$9,910.91
+2
+Elected split-pension amount
+$0.00
+$0.00
+$0.00
+$0.00
+Investment income
+$6,107.28
+2
+$790,135.40
+2
+$474,172.27
+2
+$131,073.90
+2
+Farming income - net
+$0.00
+2, 15
+$0.00
+2, 28
+$1,913,617.00
+2, 28
+$290,976.00
+2, 26
+Business income - net
+($6,184,460.89)
+2, 9
+($2,150,917.06)
+2, 21
+($10,007,726.00)
+2, 25
+($6,198,247.76)
+2, 21
+Total income
+($68,268.32)
+2
+$219,907.74
+2
+($4,548,265.36)
+2
+($193,906.29)
+2
+Deductions
+$0.00
+2
+($4,171.08)
+3
+$0.00
+40
+$0.00
+38
+Social benefits repayment
+$0.00
+2
+($5,232.27)
+3
+$0.00
+40
+$0.00
+38
+Net income
+($68,268.32)
+2
+$210,504.39
+3
+($4,548,265.36)
+40
+($193,906.29)
+38
+Previous year’s losses used
+$0.00
+3
+($68,268.32)
+3, 35
+$0.00
+40
+$0.00
+38
+Losses carrying forward
+($68,268.32)
+28
+$0.00
+35
+($4,548,265.36)
+38
+($193,906.29)
+37
+Losses available
+($68,268.32)
+28
+$0.00
+35
+($4,548,265.36)
+38
+($4,742,171.65)
+37
+Taxable income
+$0.00
+3
+$142,236.07
+3
+$0.00
+40
+$0.00
+38
+Year
+2004
+Exhibit A23 page
+2005
+Exhibit A25 page
+2006
+Exhibit A27 page
+2007
+Exhibit A29 page
+Employment income
+$64,064.00
+2
+$13,064,064.00
+2
+$76,352.00
+2
+$480,080.00
+2
+Other employment income
+$0.00
+2
+$0.00
+2
+$0.00
+2
+$0.00
+2
+Other income
+$0.00
+2
+$0.00
+2
+$0.00
+2
+$8.88
+2
+Old Age Security
+$5,592.75
+2
+$5,706.63
+2
+$5,846.19
+2
+$5,952.00
+2
+CPP
+$10,240.56
+2
+$10,414.68
+2
+$10,654.20
+2
+$10,877.88
+2
+Other pensions
+$11,094.77
+2
+$12,390.64
+2
+$13,855.08
+2
+$20,602.22
+2
+Elected split-pension amount
+$0.00
+$0.00
+$0.00
+$13,216.94
+2
+Investment income
+$862,848.72
+2
+$546,133.16
+2
+$1,178,989.65
+2
+$1,386,538.58
+2
+Farming income - net
+$0.00
+2, 27
+$0.00
+2, 17
+$956,247.00
+2, 20
+($314,723.00)
+2, 7
+Business income - net
+($4,294,300.06)
+2, 23
+($5,134,923.14)
+2, 13
+($21,236,115.40)
+2, 16
+$6,444,216.20
+2, 23
+Total income
+($3,340,459.26)
+2
+$8,503,785.97
+2
+($18,994,171.28)
+2
+$8,046,769.70
+2
+Deductions
+$0.00
+32
+$0.00
+31
+$0.00
+23
+$0.00
+34
+Social benefits repayment
+$0.00
+32
+($5,706.63)
+31
+$0.00
+23
+($5,952.00)
+34
+Net income
+($3,340,459.26)
+32
+$8,498,079.34
+31
+($18,994,171.28)
+23
+$8,040,817.70
+34
+Previous year’s losses used
+$0.00
+32
+($8,082,630.91)
+31
+$0.00
+23
+($7,594,171.28)
+34
+Losses carrying forward
+($3,340,459.26)
+$0.00
+($18,994,171.28)
+$0.00
+Losses available
+($8,082,630.91)
+note [213]
+$0.00
+($18,994,171.28)
+($11,400,000.00)
+note [214]
+Taxable income
+$0.00
+32
+$415,448.43
+31
+$0.00
+23
+$446,646.42
+34
+CITATION:
+2021 TCC 11
+COURT FILE NO.:
+2015-2662(IT)G
+STYLE OF CAUSE:
+THE ESTATE OF PASQUALE PALETTA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario and Ottawa, Ontario (March 11, 12, and 13, 2020 only)
+DATES OF HEARING:
+August 20 and 21, November 12, 13, 14, 18, 19, 20, 21, 25, 26, 27 and 28, December 2 and 3, 2019 and March 11, 12, and 13, 2020 and written representations received on July 30 and 31, 2020
+FURTHER AMENDED REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+February 18, 2021
+DATE OF FURTHER AMENDED REASONS FOR JUDGMENT:
+March 25, 2021
+APPEARANCES:
+Counsel for the Appellant:
+Justin Kutyan and Kelly Ng
+Counsel for the Respondent:
+Suzanie Chua, Rana El-Khoury and Dina Elleithy
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Justin Kutyan and Kelly Ng
+Firm:
+KPMG Law LLP
+Toronto, Ontario
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] There is no dispute that to the extent the losses claimed are allowable, they are non-capital losses rather than capital losses. Rather than repeat the phrase “non-capital losses” throughout these reasons, I will simply refer to them as “losses”. Similarly, all gains were on income account.
+[2] This is an oversimplification. Each such leg is composed of many trades. For the sake of simplicity, I will use the singular “leg” to include the plural.
+[3] A gain rather than a loss was reported for the 2007 taxation year. Had the Minister been correct on sham, the gain would be deleted for that year on the basis that there could be no gain from trades that never occurred. It is not clear why Mr. Pat Paletta chose to realize a gain rather than a loss for that year. In any event, his tax avoidance objective for that year had been met notwithstanding the realization of the gain. Exactly how that happened is described in paragraph 98.
+[4] Friedberg v Canada, [1993] 4 SCR 285.
+[5] Stewart v Canada, 2002 SCC 46, [2002] SCR 645.
+[6] The Appellant is The Estate of Pasquale Paletta. Mr. Pat Paletta died on February 6, 2019.
+[7] Amended Reply, page 2, in the Overview.
+[8] $4,548,265.36 of the $10,007,726 loss reported for the 2002 taxation year was carried over and applied to the 2005 taxation year under section 111 of the Act. See Appendix B.
+[9] At all relevant times, Union PLC owned Union Cal Limited.
+[10] Amended Reply, paragraph 10(yyyyyyy) at page 25.
+[11] Amended Reply, paragraph 10(qqqqqqqqq) at page 30.
+[12] Amended Reply, paragraph 10(kkkkkkkkkk) at page 35.
+[13] Testimony of Colin Knight, Transcript page 1570 line 28 to page 1571 line 26.
+[14] Testimony of Colin Knight, Transcript page 1570 lines 18–27.
+[15] Expert Report of Simon Bird, page 35, paragraph 86.
+[16] Expert Report of Simon Bird, page 36, paragraph 86.
+[17] Expert Report of Simon Bird, page 36, paragraph 87.
+[18] Expert Report of Simon Bird, page 36, paragraph 88.
+[19] Expert Report of Simon Bird, page 39, paragraph 94.
+[20] Expert Report of Simon Bird, page 39, paragraph 94.
+[21] Expert Report of Andrey Pavlov, page 13, paragraph 6.2.4.
+[22] Expert Report of Andrey Pavlov, page 13, paragraph 6.2.5.
+[23] Expert Report of Simon Bird, pages 60–61, paragraph 157.
+[24] Testimony of Mr. Graham Wellesley, Transcript page 75 lines 4–10.
+[25] Testimony of Mr. Graham Wellesley, Transcript page 74 lines 4–26.
+[26] Exhibits A37, A64, A94, A107, A123, A134. There was no evidence about the cost of the irrevocable letters of credit for 2001 or 2002.
+[27] The irrevocable letters of credit were on Royal Bank of Canada letterhead and were signed by two representatives of the Royal Bank of Canada. Amounts were payable to the brokerage firm if the brokerage firm presented the Royal Bank of Canada with written demand for payment and the original letter of credit.
+[28] It appears that the irrevocable letters of credit were non-transferable. The beneficiary was listed as Union Cal Limited (Exhibit A42). When Mr. Hodgins moved to IFX Ltd. on November 30, 2001 (Exhibit A6, page 1), that letter of credit could not have been transferred to IFX Ltd. There was no evidence that a new letter of credit was entered into in favour of IFX Ltd. However, one does appear on a March 29, 2002 IFX Ltd. statement (Exhibit A7, pages 50–51). There was a negative balance in the account up until September 30, 2002 (Exhibit A7 pages 50, 51, 55, 57, 59, 61, 63).
+[29] There was no new trading during this period, but there was an expired letter of credit and a negative balance in the account of US$59,594.82 (Exhibit A8, pages 14–29).
+[30] As of the August 19, 2005 statement there was a negative balance of CAN$3,544.90 (Exhibit A13, page 390). The balance continued to fluctuate. New trades were entered into on September 8, 2005 (Exhibit A13, page 420), September 9, 2005 (Exhibit A13, page 422), and September 12, 2005 (Exhibit A13, page 424) before a new letter of credit was provided.
+[31] Amended Reply, paragraph 10(kkkkkkk) at page 24.
+[32] See, for example, Amended Reply, paragraph 10(mmmmmmmmm) at page 30.
+[33] Amended Reply, paragraph 10(vvvvvvv) at page 25.
+[34] Amended Reply, paragraph 13(c) at page 39.
+[35] The brokerage firms were not only trading with Mr. Pat Paletta, they were trading with Tender Choice Foods Inc. and Paletta International Corporation as well, so the overall relationship of the Paletta family with the brokerage firms was larger and more significant than if Mr. Pat Paletta had been their only counterparty.
+[36] Expert Report of Simon Bird, page 68, paragraph 175 to page 71, paragraph 182.
+[37] Amended Reply, paragraph 10(ppppppppp) at page 30. See also Amended Reply, paragraph 10(qqqqqqqqqq) at page 35.
+[38] Amended Reply, paragraphs 10(iiiiiiiii) and (hhhhhhhhh) at pages 30 and 29. See also Amended Reply, paragraph 10(wwwwwww) at page 25.
+[39] Expert Report of Simon Bird, page 69, paragraph 178 to page 71, paragraph 182.
+[40] Amended Reply, paragraph 10(ttttttttt) at page 31.
+[41] Expert Report of Simon Bird, page 69, paragraph 178 to page 71, paragraph 182.
+[42] Mr. Angelo Paletta testified that his father had established the feedlot business as a sole proprietorship in the 1970s or 1980s (testimony of Mr. Angelo Paletta, Transcript page 253 lines 15–20). Although nothing turns on it, it was not clear why that business was never incorporated.
+[43] Testimony of Mr. Angelo Paletta, Transcript page 250 line 25 to page 251 line 5.
+[44] Testimony of Mr. Angelo Paletta, Transcript page 251 lines 9–15.
+[45] Testimony of Mr. Angelo Paletta, Transcript page 251 line 20 to page 252 line 6.
+[46] Testimony of Mr. Angelo Paletta, Transcript page 251 lines 13–15.
+[47] Testimony of Mr. Angelo Paletta, Transcript page 268 lines 19–24.
+[48] Testimony of Mr. Angelo Paletta, Transcript page 514 lines 5–11.
+[49] Testimony of Mr. Angelo Paletta, Transcript page 330 line 28 to page 331 line 5, page 335 line 1 to page 336 line 3, and page 340 lines 7–17.
+[50] Testimony of Mr. Angelo Paletta, Transcript page 292 lines 5–10.
+[51] Testimony of Mr. Angelo Paletta, Transcript page 311 lines 7–20.
+[52] Testimony of Mr. Angelo Paletta, Transcript page 355 lines 5–14.
+[53] Testimony of Mr. Angelo Paletta, Transcript page 371 lines 12–24, and page 397 lines 8 to 20.
+[54] Testimony of Mr. Angelo Paletta, Transcript page 433 line 14 to page 436 line 19; Exhibit A88; Testimony of Mr. Angelo Paletta, Transcript page 487 line 20 to page 488 line 8; Exhibit A98.
+[55] Exhibits A108, A109, A110 show that the first cheque was for $20,000; A13 page 319 is an ODL Securities Ltd. statement showing debits and credits on the account for June 2005 which suggests that a cheque for $15,000 was sent on June 22, 2005; In Exhibit A113, Mr. Hodgins asks for $15,000 more to be paid—and according to the documents it was paid in February 2006 (Exhibit A114); Mr. Angelo Paletta referred to Exhibit A114 but only in relation to 2006 (testimony of Mr. Angelo Paletta, Transcript page 547 lines 3–14). Though there was no direct evidence confirming that the payment of $15,000 related to 2005, I draw the inference that it did.
+[56] Exhibits A115 and A116 show a request for $25,000 but only $12,500 was paid; exhibits A117, A118, A119; testimony of Mr. Angelo Paletta, Transcript page 557 line 15 to page 558 line 27; exhibits A124 and A125 show that $25,000 was wired to ODL Securities Ltd.; exhibits A127 and A128 show that $32,500 was sent.
+[57] Exhibit A130; testimony of Mr. Angelo Paletta, Transcript page 583 line 8 to page 584 line 9.
+[58] Amended Reply, paragraph 10(iiiiiiii) at page 26.
+[59] Amended Reply, paragraph 10(uuuuuuuu) at page 27.
+[60] Amended Reply, paragraph 10(eeeeeeeee) at page 29.
+[61] Testimony of Tim Hodgins, Transcript page 1142 lines 16–28.
+[62] Testimony of Tim Hodgins, Transcript page 1142 lines 22–28.
+[63] Testimony of Tim Hodgins, Transcript page 1130 lines 21–26.
+[64] Exhibit A153; testimony of Tim Hodgins, Transcript page 1131 line 25 to page 1132 line 2.
+[65] Exhibit A153; testimony of Tim Hodgins, Transcript page 1131 line 25 to page 1132 line 13.
+[66] Testimony of Tim Hodgins, Transcript page 1134 lines 24–27.
+[67] Expert Report of Andrey Pavlov, page 13.
+[68] Exhibit A138.
+[69] Exhibit A139.
+[70] Exhibit A57, page 2, the spot rate.
+[71] Exhibit A140.
+[72] In 2006 the target loss was $45,000,000 (paragraph 69). In order to shelter the gain of $46,422,000 that was realized in early 2007 (paragraph 96), Mr. Pat Paletta would have had to choose a target loss that was greater than the realized gain. However, in 2007 he chose a target loss of only $40,000,000 (paragraph 69). This amount was insufficient to shelter the gain from the 2006 trading cycle. That is why the choice of a lower target loss amount in 2007 resulted in the realization of a gain in 2007.
+[73] Testimony of Mr. Robert Ban, Transcript page 791 lines 3–21; see also Appendix B, attached.
+[74] See Appendix B, attached.
+[75] See Appendix B, attached (total income claimed for all years from all sources except income from forward foreign exchange trading).
+[76] It was $1,004,330.92 to be precise.
+[77] See Appendix B, attached.
+[78] Testimony of Mr. Angelo Paletta, Transcript page 280 line 26 to page 282 line 19.
+[79] Testimony of Mr. Kleinschmidt, Transcript page 821 line 11 to page 822 line 14; Exhibit A145; Exhibit A146.
+[80] Amended Reply, paragraph 10(mmm) at page 11.
+[81] Exhibit A19.
+[82] Testimony of Mr. Robert Ban, Transcript page 763 line 6 to page 765 line 27.
+[83] Exhibit A57.
+[84] The agreed gain from early 2002 of US$5,186,544.00 should be converted to CAD using the rate from Exhibit A139 of 1.5484 = $8,030,844.73.
+[85] Exhibit A57, page 1.
+[86] Testimony of Mr. Angelo Paletta, Transcript page 360 line 6 to page 361 line 6.
+[87] Exhibit A19, page 2.
+[88] The agreed gain from early 2002 of US$5,186,544.00 should be converted to CAD using the rate from Exhibit A139 of 1.5484 = $8,030,844.73; the agreed 2002 loss of US$6,496,870 should be converted to CAD using the rate from page 2 of Exhibit A57 of 1.5250 = $9,907,726.75; the net result is a loss of $1,876,882.02 from forward foreign exchange trading in 2002. $100,000 in fees were claimed for 2002 (Exhibit A19, page 24), which brings the total loss from forward foreign exchange trading in 2002 to $1,976,882.02.
+[89] See Appendix B, attached. Total income sheltered was $5,459,460.64 (which is the sum of all income not including net business income).
+[90] See Appendix B, attached.
+[91] Amended Reply, paragraph 10(ffffffff) at page 26.
+[92] Amended Reply, paragraph 10(eeeeeeee) at page 26.
+[93] Amended Reply, paragraph 10(jjjjjjjjj) at page 30.
+[94] Amended Reply, paragraph 12(e) at page 38.
+[95] Amended Reply, paragraph 12(f) at page 38.
+[96] Expert Opinion of Richard Rolland Poirier, corrected version dated October 2, 2019, Exhibit R8, page 6.
+[97] Expert Opinion of Richard Rolland Poirier, corrected version dated October 2, 2019, Exhibit R8, page 6.
+[98] Expert Opinion of Richard Rolland Poirier, corrected version dated October 2, 2019, Exhibit R8, page 35.
+[99] Rebuttal Expert Report of Colin Knight to the Expert Report of Richard Rolland Poirier, Exhibit A159, page 11, paragraph 20(iv).
+[100] Rebuttal Expert Report of Colin Knight to the Expert Report of Richard Rolland Poirier, page 12, paragraph 25.
+[101] Testimony of Colin Knight, Transcript page 1656 line 20 to page 1658 line 3.
+[102] Testimony of Colin Knight, Transcript page 1696 line 16 to page 1697 line 13.
+[103] Amended Reply, paragraph 10(jjjjjjjjj) at page 30.
+[104] Amended Reply, paragraph 10(h) at page 4, and paragraph 10(ccccccc) at page 23.
+[105] Amended Reply, paragraph 17 at page 41.
+[106] Respondent’s Written Submissions, page 16, paragraph 41.
+[107] Respondent’s Written Submissions, page 16, paragraph 42.
+[108] Respondent’s Written Submissions, page 25.
+[109] Respondent’s Written Submissions, page 34, paragraph 82.
+[110] Respondent’s Written Submissions, page 40, paragraph 97.
+[111] Respondent’s Written Submissions, page 40, paragraph 98.
+[112] Respondent’s Written Submissions, page 40, paragraph 98.
+[113] Respondent’s Written Submissions, page 41, paragraph 100.
+[114] Respondent’s Written Submissions, page 44, paragraph 109.
+[115] Respondent’s Written Submissions, page 45, paragraph 109.
+[116] Respondent’s Written Submissions, page 46, paragraph 111.
+[117] Respondent’s Written Submissions, pages 46–48.
+[118] Respondent’s Written Submissions, page 48, paragraph 117.
+[119] Respondent’s Written Submissions, page 49, paragraph 118.
+[120] Respondent’s Written Submissions, page 49 paragraph 119 to page 51 paragraph 121.
+[121] Respondent’s Written Submissions, page 49, paragraph 118; Respondent’s Additional Written Submissions, paragraphs 1 and 2.
+[122] Respondent’s Additional Written Submissions, paragraph 2(c).
+[123] Respondent’s Written Submissions, page 49, paragraph 118; Respondent’s Additional Written Submissions, paragraph 1.
+[124] Respondent’s Written Submissions, page 54, paragraph 129 to page 56, paragraph 130.
+[125] Respondent’s Written Submissions, page 53, paragraph 126.
+[126] Respondent’s Written Submissions, page 56, paragraphs 131, 132.
+[127] By “corresponding” I do not mean identical. The amount of gain on the gain leg was not exactly the same as the amount of loss on the loss leg as each had a slightly different value date.
+[128] Appellant’s Written Submissions, page 46, paragraph 122.
+[129] Appellant’s Written Submissions, pages 50, 51.
+[130] Appellant’s Written Submissions, page 47, paragraphs 127 to 129, page 52 paragraphs 142 to 145.
+[131] Appellant’s Written Submissions, page 48, paragraph 131 to page 49, paragraph 135.
+[132] Appellant’s Written Submissions, page 56, paragraph 153 to page 58, paragraph 156.
+[133] Appellant’s Written Submissions, page 55, paragraph 150 to page 56, paragraph 152.
+[134] Appellant’s Written Representations, July 30, 2020, paragraphs 4, 5, 6.
+[135] Appellant’s Written Representations, July 30, 2020, paragraph 22 (and testimony of Mr. Angelo Paletta, Transcript page 350 line 13 to page 351 line 5), paragraph 23 (and testimony of Mr. Angelo Paletta, Transcript page 352 lines 3–17).
+[136] Appellant’s Written Representations, July 30, 2020, paragraph 29.
+[137] Appellant’s Written Representations, July 30, 2020, paragraph 28.
+[138] Testimony of Mr. Angelo Paletta, Transcript page 358 line 20 to page 360 line 5.
+[139] Exhibit A56.
+[140] Appellant’s Written Representations, July 30, 2020, paragraphs 32–36.
+[141] Appellant’s Written Submissions, page 59, paragraph 157.
+[142] Appellant’s Written Submissions, page 59, paragraph 160.
+[143] Appellant’s Written Submissions, page 59, paragraphs 158, 159.
+[144] T.E. McDonnell, Kathleen S.M. Hanly, and S.W. Bowman, “Current Cases” (1989) 37:3 Canadian Tax Journal 728 at page 729.
+[145] T.E. McDonnell, Kathleen S.M. Hanly, and S.W. Bowman, “Current Cases” (1989) 37:3 Canadian Tax Journal 728 at page 730.
+[146] T.E. McDonnell, Michael D. Templeton, Mary-Ann Haney and Vikas Sharma, “Current Cases” (1992) 40:1 Canadian Tax Journal 162 at page 164.
+[147] I was in the courtroom that day as third chair for the Crown.
+[148] Friedberg v Canada, [1993] 4 S.C.R. 285 at pages 285–286.
+[149] T.E. McDonnell and Stephen W. Bowman, “Current Cases” (1994) 42:2 Canadian Tax Journal 452 at page 452.
+[150] Amended Reply, paragraph 10(cccccccc) at page 26.
+[151] Amended Reply, paragraph 10(cccccccccc) at page 33.
+[152] Amended Reply, paragraph 10(ssssssss) at page 27.
+[153] Amended Reply, paragraph 12(g) at page 38. This set of assumptions reflects the Crown’s argument at trial in Friedberg v The Queen, 1989 CarswellNat 206 at paragraph 23. Associate Chief Justice Jerome noted there that “counsel for the Minister argues that . . . the plaintiff incurred no liability or at most a contingent liability in the amounts claimed as losses.” (emphasis added). The Minister’s “no liability” argument was not accepted by the F.C.T.D., the Federal Court of Appeal or the Supreme Court of Canada.
+[154] Amended Reply, paragraph 12(c) at page 37.
+[155] Amended Reply, paragraph 13(b) at page 39.
+[156] Tax Measures: Supplementary Information, Budget 2017, March 22, 2017, Department of Finance, page 25.
+[157] Tax Measures: Supplementary Information, Budget 2017, March 22, 2017, Department of Finance, pages 25–26.
+[158] The Arnold Report, Online, Canadian Tax Foundation, Posting 110, April 28, 2017.
+[159] Richard Marcovitz, “Taxation of Liabilities and Derivatives on Income Account,” in Report of the Proceedings of the 69th Tax Conference, 2017 Conference Report (Toronto: Canadian Tax Foundation, 2018), at pages 12:17–12:18.
+[160] Amended Reply, paragraph 10(kkkkkkkk) at page 26.
+[161] This is true for each year other than the first year of trading (2000) as there were no gains to offset from any previous year’s trading.
+[162] Walls v Canada, [2002] 2 SCR 684 at paragraphs 19 and 22.
+[163] Amended Reply, paragraph 10(g) at page 4, paragraph 10(bbbbbbb) at page 23.
+[164] Amended Reply, paragraph 10(eeeeeeeeee) at page 33. It is not clear why the word “loss” appears in scare quotes if the Minister assumed that there was, in fact, an economic loss.
+[165] Amended Reply, paragraph 10(xxxxxxxxxx) at page 37.
+[166] Amended Reply, paragraph 10(yyyyyyyyyy) at page 37.
+[167] See paragraph 65 of Stewart citing Ludco Enterprises Ltd. v Canada, 2001 SCC 62, [2001] 2 SCR 1082.
+[168] Agracity Ltd. v The Queen, 2020 TCC 91 at paragraph 20.
+[169] Amended Reply, paragraph 10(yyyyyyyy) at page 28.
+[170] Amended Reply, paragraph 10(hhhhhhhhhh) at page 34.
+[171] Amended Reply, paragraph 10(qqqqqqqq) at page 27.
+[172] Amended Reply, paragraph 10(kkkkkkkkk) at page 30.
+[173] The possibility of fabricated trades exists in every market, including public markets. In this regard, I take judicial notice of the transcript of the well-known guilty plea of Mr. Bernard L. Madoff on March 12, 2009 before Judge Denny Chin of the United States District Court of the Southern District of New York. In particular, see page 25, line 12 to page 30, line 14 (Mr. Madoff’s description of what he did) and page 31, line 24 to page 34, line 2 (the United States Attorney’s description of what Mr. Madoff did) at https://www.justice.gov/usao-sdny/file/762751/download.
+[174] Testimony of Tim Hodgins, Transcript page 1003 line 3 to page 1005 line 26.
+[175] Testimony of Tim Hodgins, Transcript page 1003 line 3 to page 1005 line 26.
+[176] See, for example, the reasons of Justice Wilson of the Supreme Court of Canada in Stubart Investments Ltd. v The Queen, [1984] 1 SCR 536 at pages 575–576; David A. Ward et al., “The Business Purpose Test and Abuse of Rights”, British Tax Review, 1985 at page 68.
+[177] The suggestion by Justice Heald of the Federal Court of Appeal in Minister of National Revenue v Leon, [1997] 1 FC 249, that lack of a business purpose is a sham was expressly rejected by the Supreme Court of Canada in Stubart. See Justice Wilson’s concurring reasons in Stubart at pages 539–540.
+[178] Amended Reply, paragraph 10(tttttttt) at page 27.
+[179] Amended Reply, paragraph 10(vvvvvvvv) at page 28.
+[180] Testimony of Graham Wellesley, Transcript page 73 line 20 to page 74 line 26.
+[181] The Crown’s position is that the irrevocable letters of credit issued by the Royal Bank of Canada were “not genuine” and had been “fabricated”. See the Appellant’s read-ins from the examination for discovery of the Crown’s representative at page 13 line 23 to page 14 line 2, and page 15 lines 9–22.
+[182] Amended Reply, paragraph 10(rrrrrrrr) at page 27.
+[183] As Justice Boyle noted in Agracity at paragraph 78(xiv):
+. . . . Confusing, incomplete or inadequate records create challenges for CRA at the verification stage, and challenges for taxpayers and judges when the dispute reaches the Court. They are not, on their own, evidence of a sham unless their inaccuracies, inconsistencies and/or omissions can be shown to favor a particular, but clearly inaccurate, recording of the party’s rights, obligations, revenues etc. In this case they do not.
+[184] Amended Reply, paragraph 10(qqqqqqqq) at page 27.
+[185] In certain circumstances, a counterparty will enter into such a contract with the intention of taking delivery of the foreign currency on the value date. For example, a business with an obligation to pay for goods in a foreign currency six months from now might enter into such a contract with a view to eliminating the risk of foreign currency fluctuations for the next six months. It knows its cost today and that cost is fixed by means of such a contract. That is generally called “hedging”. In other circumstances, holders of such contracts may very well choose to close out such a contract before the value date as neither party has any interest in making or taking delivery of the currency contracted for under the contract. That is generally called “speculating”.
+[186] Amended Reply, paragraph 10(ggggggggg) at page 29.
+[187] Amended Reply, paragraph 10(xxxxxxx) at page 25.
+[188] Amended Reply, paragraph 10(vvvvvvvv) at page 28.
+[189] Cameco Corporation at paragraph 670. The Crown unsuccessfully appealed Justice Owen’s decision but did not appeal his finding on sham. See 2020 FCA 112 at paragraph 15. The Crown’s application for leave to appeal to the Supreme Court of Canada was dismissed with costs on February 18, 2021.
+[190] Amended Reply, paragraph 10(oooooooooo) at page 35. Emphasis on both sides is in the original.
+[191] Amended Reply, paragraph 10(lllllllll) at page 30. Pleading assumptions about the sufficiency of evidence should be assiduously avoided.
+[192] Amended Reply, page 1.
+[193] Amended Reply, paragraph 10(llllllllll) at page 35.
+[194] Amended Reply, paragraph 10(q) at page 5.
+[195] Amended Reply, paragraph 10(f) at page 4.
+[196] Amended Reply, paragraph 10(nnnn) at page 15.
+[197] Amended Reply, paragraph 10(iiiiiiiiii) at page 34.
+[198] Appellant’s Written Submissions, page 45, paragraph 121.
+[199] The same finding applies for the 2000 taxation year, in respect of which the Appellant did not concede any misrepresentations by Mr. Pat Paletta.
+[200] Testimony of Mr. Angelo Paletta, Transcript page 280 line 26 to page 282 line 19.
+[201] Exhibit A19, page 2.
+[202] The agreed gain from early 2002 of US$5,186,544.00 should be converted to CAD using the rate from Exhibit A139 of 1.5484 = $8,030,844.73; the agreed 2002 loss of US$6,496,870 should be converted to CAD using the rate from page 2 of Exhibit A57 of 1.5250 = $9,907,726.75; the net result is a loss of $1,876,882.02 from forward foreign exchange trading in 2002. $100,000 in fees were claimed for 2002 (Exhibit A19 page 24), which brings the total loss from forward foreign exchange trading in 2002 to $1,976,882.02.
+[203] Testimony of Mr. Angelo Paletta, Transcript page 247 lines 13–14.
+[204] Deyab v Canada, 2020 FCA 222 at paragraphs 62, 63.
+[205] Appellant’s Written Representations, July 30, 2020 at paragraph 15.
+[206] A number of assumptions made by the Minister were not unfavourable to the Appellant, including the assumption that the trades were made on the OTC market, that the brokerage firms were counterparties to the trades, etc.
+[207] Robert J. Sharpe, Good Judgment: Making Judicial Decisions (Toronto: University of Toronto Press, 2018) at page 127.
+[208] Testimony of Mr. Hodgins, Transcript page 978, line 15.
+[209] Testimony of Mr. Hodgins, Transcript page 983, line 17.
+[210] Testimony of Mr. Hodgins, Transcript page 983, lines 21–22.
+[211] Testimony of Mr. Baber, Transcript page 1452, lines 14–16.
+[212] Testimony of Mr. Hodgins, Transcript page 982 lines 25–26.
+[213] Arrived at by taking the loss available in 2003 of $4,742,171.65 and adding the current year loss of $3,340,459.26 = $8,082,630.91. $8,082,630.91 was also the amount of “non-capital losses of other years” that were claimed for the 2005 taxation year (Exhibit A25 at page 31).
+[214] There is nothing in the return to indicate that this amount was carried back to a previous taxation year or utilized in any other way. In the 2008 return (Exhibit A31 at page 75) the $11,400,000 is not in the “Balance from prior years” section. However, there is no evidence that it was ever used.

@@ -1,0 +1,171 @@
+Title: Scalia v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27396/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-9-27396-scalia-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-01-05
+
+# Scalia v. The Queen
+
+- Citation: 2006 TCC 9
+- Decision date: 2006-01-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 153, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Scalia v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-01-05
+Neutral citation
+2006 TCC 9
+File numbers
+2005-2422(IT)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-2422(IT)I
+BETWEEN:
+CALOGERO SCALIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on November 23, 2005, at Montréal, Quebec
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments under the Income Tax Act for the 2001, 2002 and 2003 taxation years are dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of January 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 30th day of November 2006.
+Monica F. Chamberlain, Translator
+Citation: 2006TCC9
+Date: 20060105
+Docket: 2005-2422(IT)I
+BETWEEN:
+CALOGERO SCALIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre Proulx J.
+[1] These appeals pertain to the 2001, 2002 and 2003 taxation years. There are three issues in the case at bar. The first involves the standby charge for a car. The second is whether expenses incurred to change a rental building's heating system are capital expenses or current expenses. The third is whether all the interest on a hypothecary loan can be deducted in computing rental income.
+[2] The facts that the Minister of National Revenue ("the Minister") took into account in making the reassessments are set out as follows in paragraph 9 of the Reply to the Notice of Appeal ("the Reply"):
+[TRANSLATION]
+(a) During the taxation years in issue, the Appellant and Justine Figura each owned 50% of the shares in Services Financiers C. Scalia Inc. (hereinafter "the Company").
+(b) The head office of the Company is located at 6455 Jean-Talon Street East, Suite 802, Montréal, Quebec.
+(c) Justine Figura is the Appellant's wife (hereinafter "the wife").
+(d) During the taxation years in issue, the Appellant was also an employee of the Company.
+STANDBY CHARGE FOR A CAR
+(e) During the taxation years in issue, the Appellant had access to a vehicle that belonged to the Company.
+(f) The Appellant told the Minister's auditor that the odometer read 50 000 km at the time that the vehicle was purchased and 115 000 km at the time of the audit.
+(g) The Minister's auditor estimated that 50% of the vehicle's use was personal use.
+(h) The Minister's auditor determined that the benefit which the Appellant derived from the right to use the Company car for each of the years 2001 and 2002 was $5,780.19 (see attached details).
+CAPITALIZATION OF EXPENSES
+(i) In his income tax returns for the 2001 and 2002 taxation years, the Appellant reported the following information:
+Description
+2001
+2002
+Gross rental income
+$121,148
+$169,649
+(Net rental loss)
+($4,528)
+($9,777)
+(j) The Appellant and his wife purchased an apartment building ("the apartment building") on February 3, 1999.
+(k) The purchase price of the apartment building was $320,000.
+(l) The apartment building is located at 5638-5642 Des Narcisses Street in Montréal-Nord, Quebec.
+(m) The apartment building has twenty (20) apartments.
+(n) The apartment building was heated by gas-powered central heating system.
+(o) In 2002, the Appellant had the gas-powered central heating replaced by an electrical heating unit and hot water heater in each of the 20 apartments.
+(p) The Appellant installed individual thermostats in each of the 20 apartments.
+(q) The Appellant incurred $85,808 in expenses for this work.
+(r) The Appellant claimed $85,808 as current expenses against his rental income for the 2002 taxation year.
+(s) The Minister determined that these expenses were actually capital expenses and consequently refused the Appellant 's claim of $85,808 as rental expenses for the 2002 taxation year.
+INTEREST ON LOANS
+(t) On May 8, 1996, the Appellant and his wife took out a hypothecary loan with the Laurentian Bank of Canada.
+(u) The $300,000 loan bore an interest rate of 8.51% per annum.
+(v) The loan was secured by buildings located at
+i)
+Au 11 985 Matte Street, Montréal-Nord, Quebec; and
+ii)
+Au 8980 Claudel Street, St-Léonard, Québec.
+(w) On May 10, 1996, the Appellant purchased a building at 11895 Matte Street in Montréal-Nord, Quebec ("the Matte Street building").
+(x) The Matte Street building was purchased for $201,500.
+(y) On May 10, 1996, the wife purchased a building at 8980 Claudel Street, St-Léonard, Quebec ("the Claudel Street building").
+(z) The purchase price of the Claudel Street building was $200,000.
+(aa) According to the Minister's records, the Appellant and his wife have been living in the Claudel Street building since 1997.
+(bb) For the 2001 and 2002 taxation years, the Appellant claimed $19,686.46 and $17,110.00 respectively as interest expenses against his rental income.
+(cc) The Minister's auditor determined that the amount of interest associated with the Matte Street building was $13,222.74 in 2001 and $11,492.22 in 2002.
+(dd) The Minister's auditor therefore determined that the amounts of $6,463.72 and $5,617.78 claimed respectively for the 2001 and 2002 taxation years were personal in nature because they were related to the portion of the hypothecary loan that financed the family residence of the Appellant and his wife.
+DEFERRED NON-CAPITAL NET LOSS
+(ee) The Appellant applied $7,403 in deferred non-capital loss to his 2003 taxation year, claiming that it was deferred from the 2002 taxation year.
+(ff) In light of the changes made to the Appellant's 2001 and 2002 taxation years in the reassessments of December 6, 2004, he cannot defer a non-capital loss because, according to the Minister's records, he has no non-capital net loss balance available to defer.
+[3] Subparagraphs 9(a) through 9(f), 9(i) through 9(r) and 9(t) through 9(bb) of the Reply were admitted to.
+The car
+[4] The Appellant testified that his personal use of the car did not exceed 5%. On cross-examination, he admitted that he used the car to go to Florida during one of the years in issue. The family, consisting of the spouses and two children, had no other car at its disposal. One of the children was born in 1986 and the other was born in 1990. The Appellant states that the school is right next to the family residence and also admits that he was a financial security advisor at the time and rented space in a brokerage firm on De Maisonneuve Street. He managed his apartment buildings on St-Michel Boulevard (7 units), Matte Street (8 units) and Des Narcisses Street (20 units).
+[5] He tendered Exhibit A-1, the financial statements of C. Scalia Financial Services Inc. for the years ending June 30, 2001, and June 30, 2002. The automobile expenses are $8,559 for 2001 and $7,101 for 2002.
+[6] Exhibit I-1 is a contract for the purchase of the Mercedes in 2001 for a total of $22,859.39.
+[7] The Appellant admits that he did not keep a journal pertaining to the use of the car.
+The hypothecary loan
+[8] Exhibit I-2 is the hypothecary loan instrument dated May 8, 1996. The borrowers are the Appellant and his wife. The amount of the loan is $300,000. The charged immovables are the property located on Matte Street in Montréal-Nord and the property located on Claudel Street in St-Léonard.
+[9] Exhibit I-3 is the contract by which the Appellant purchased the property located on Matte Street on May 10, 1996. Exhibit I-4 is the contract by which the Appellant's wife purchased the property located on Claudel Street in St-Léonard on May 10, 1996. Exhibit I-5 shows that the hypothecary loan payments were made for both properties.
+Analysis and conclusion
+[10] Pursuant to paragraphs 6(1)(e) and 6(1)(k) and subsection 6(2) of the Act, an employee must include in his income the value of the benefits stemming from the use of a car supplied by the employer. Two calculations must be made: standby charge (6(1)(e) and 6(2)) and operating cost (6(1)(k)).
+[11] The Appellant feels that the amount taxed as a benefit is too high having regard to the residual value of the car in question. Perhaps so, but the calculation of a reasonable standby charge for a car is based on its cost as defined in variable "C" of the formula set out in subsection 6(2) of the Act. Residual value is not taken into account.
+[12] There is no written evidence in support of the Appellant's contention that only 5% of the use of the car, which was fully available to him, was personal. On cross-examination, he admitted that he travelled to Florida in the car. No other cars were available to the family. The Appellant had a financial advisor's office in a building other than his private home. These are circumstances in which the Appellant's assertion alone cannot be accepted, and a travel log is essential.
+[13] The Appellant submits that all the borrowed funds were used for business purposes or for financial flexibility.
+[14] The hypothecary loan was taken out at the same time as the buildings used as security for the loan were purchased. The Minister determined that the entire hypothecary loan was made in order to purchase those properties. The auditor allowed the full amount for the purchase of the apartment building and $98,000 for the residence.
+[15] If the borrowed funds were used for a purpose that was different from the one that the auditor very sensibly proposed, the onus is on the Appellant to show this. There was no evidence of any different use. According to paragraph 20(1)(c) of the Act, interest on borrowed money used for the purpose of earning income from a business or property may be deducted.
+[16] With respect to the expenses incurred to replace the heating system, counsel for the Respondent referred to the decision of this Court in Bergeron v. M.N.R., [1989] T.C.J. No. 923 (QL), and, in particular, the following excerpt from that decision:
+In Vancouver Tug Boat Company Limited and Thompson Construction (Chemong) Limited, supra [11 DTC 1127], the Exchequer Court of Canada held that the replacement of a boat engine and of the engine for a power shovel were capital expenses. . . .
+Haddon Hall Realty Inc., supra [16 DTC 1001] is a judgment of the Supreme Court of Canada. It concerned an apartment building in Montréal. The taxpayer had incurred expenses to replace stoves, refrigerators and window blinds. Here again, as these were not repairs but replacements, the Court held that they were capital outlays.
+In Canada Steamship Lines Ltd., supra [66 DTC 5205], the Exchequer Court of Canada held that the replacement of the floors and walls in a cargo hold was the repair of floors and walls damaged by use and was not the acquisition of a new asset. The same was not true for the replacement of boilers. Speaking of the repairs, Jackett J. made the following qualification at p. 5207 of his judgment:
+I exclude, of course, a possible replacement by something so different in kind from the thing replaced that it constitutes a change in the character - an upgrading - of the thing upon which the money is expended instead of being a mere repair.
+. . .
+In Shabro Investments Limited [79 DTC 5014] the Chief Justice of the Federal Court of Appeal held that the replacement of flooring resting on the ground of a building by other flooring supported by steel beams or piles sunk into the ground "was a single operation whereby an improvement was made to the building that was essentially different in kind from a repair to the building as it originally was". . . .
+[17] In the case at bar, the replacement of a gas-powered central heating system by electrical heating units and hot water heaters for each apartment is an intrinsic modification of the heating system. It is not a mere repair. It is a capital expense, not a current expense.
+[18] In conclusion, the Minister's assessment is well founded in fact and in law. The appeal must be dismissed.
+Signed at Ottawa, Canada, this 5th day of January 2006.
+"Louise Lamarre Proulx"
+Lamarre Proulx J.
+Translation certified true
+on this 30th day of November 2006.
+Monica F. Chamberlain, Translator
+CITATION: 2006TCC9
+COURT FILE NO.: 2005-2422(IT)I
+STYLE OF CAUSE: CALOGERO SCALIA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: November 23, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Louise Lamarre Proulx
+DATE OF JUDGMENT: January 5, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Claude Lamoureux
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

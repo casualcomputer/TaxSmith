@@ -1,0 +1,201 @@
+---
+title: "Mochizuki c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28885/index.do"
+last_modified: "2008-09-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 526"
+citation2: ""
+neutral_citation: "2008 CCI 526"
+decision_date: "2008-09-17"
+language: "fr"
+item_id: "28885"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1328
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:23:36.712000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b1e0913cbd129d6fb465d90522b3867fe2cd532192cd687e4226bb336b427e83"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mochizuki c. La Reine
+
+- Citation: 2008 CCI 526
+- Decision date: 2008-09-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1328, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mochizuki c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-09-17
+Référence neutre
+2008 CCI 526
+Numéro de dossier
+2005-2259(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-2259(IT)G
+ENTRE :
+SUSUMU GEORGE MOCHIZUKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue le 15 août 2008, à Victoria (Colombie-Britannique).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Johanna Russell
+____________________________________________________________________
+ORDONNANCE
+L’intimée ayant présenté une requête en vue d’obtenir une ordonnance radiant l’avis d’appel ou, subsidiairement, une ordonnance rejetant l’appel interjeté par l’appelant à l’encontre d’une cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2001;
+Les documents qui ont été déposés ayant été lus et l’appelant et l’avocate de l’intimée ayant été entendus;
+LA COUR ORDONNE :
+1. L’appel interjeté par l’appelant pour l’année d’imposition 2001 est rejeté.
+2. Aucune ordonnance n’est rendue à l’égard des dépens.
+Signé à Ottawa, Canada, ce 17e jour de septembre 2008.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 6e jour de novembre 2008.
+D. Laberge, LL.L.
+Référence : 2008 CCI 526
+Date : 20080917
+Dossier : 2005-2259(IT)G
+ENTRE :
+SUSUMU GEORGE MOCHIZUKI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Miller
+[1] L’intimée a présenté une requête en vue d’obtenir une ordonnance radiant l’avis d’appel en vertu de l’alinéa 58(1)b) et de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles » ou les « Règles de procédure générale ») ou, subsidiairement, une ordonnance rejetant l’appel interjeté par l’appelant pour l’année d’imposition 2001 en vertu des articles 7 et 64 ainsi que du paragraphe 125(7) des Règles. Dans le présent appel, il s’agit uniquement de savoir :
+a) si le ministre du Revenu national (le « ministre ») a eu raison d’inclure un dividende imposable de 498 583 $ dans le revenu de l’appelant pour l’année d’imposition 2001 en vertu de l’article 3 et du paragraphe 82(1) de la Loi de l’impôt sur le revenu[1], lequel résultait du dividende réputé de 398 866,88 $ prévu au paragraphe 84(3) de la Loi, par suite du rachat par Cariboo Western Lumber Ltd. des actions de l’appelant au cours de cette année;
+b) si le ministre a eu raison de conclure que, en 2001, l’appelant avait droit à une déduction s’élevant à 164 056 $ au titre du remboursement d’un emprunt par un actionnaire en vertu de l’alinéa 20(1)j) de la Loi.
+[2] Le dividende et le remboursement de l’emprunt par un actionnaire découlent d’une ordonnance rendue par le juge Blair, de la Cour suprême de la Colombie‑Britannique, le 13 juillet 2001, dans un litige opposant l’appelant, son frère Kiyo Mochizuki et Cariboo Western Lumber Ltd. (la « société »). Le juge Blair a effectivement ordonné à la société de racheter les actions de l’appelant au montant de 398 916,88 $; toutefois, sur ce montant, le montant de 205 552 $ devait être déduit à titre de remboursement d’un emprunt par un actionnaire par M. Mochizuki à la société. L’ordonnance du juge Blair a été déposée le 13 juillet 2001. Les motifs énoncés par le juge Blair indiquent que l’audience a eu lieu le 6 juillet 2001.
+[3] L’appelant semble avoir interjeté appel pour le motif que l’ordonnance du juge Blair n’est pas valide puisqu’elle est datée du 13 juillet 2001 et qu’aucune audience n’a eu lieu ce jour et, en outre, que son frère et les avocats de son frère ont menti au juge Blair, ce qui a amené celui‑ci à tirer de fausses conclusions. L’appelant a interjeté appel de l’ordonnance rendue par le juge Blair, mais il a en fin de compte abandonné l’appel. L’appelant semble également soutenir, bien que cela soit loin d’être clair, que le montant du remboursement de l’emprunt contracté à titre d’actionnaire, que l’intimée a reconnu, est inexact, encore une fois à cause des mensonges de son frère. L’avis d’appel de l’appelant, sa tentative pour établir une liste de documents et les tentatives qu’il a faites pour expliquer sa position sont malheureusement incohérents au point d’être incompréhensibles. L’appelant entretient clairement certaines préoccupations sérieuses au sujet de la façon dont son frère s’occupait des affaires de la société, mais la façon dont ces préoccupations ont quelque chose à voir avec le dividende et les remboursements d’un emprunt par un actionnaire dont le juge Blair a expressément parlé est loin d’être claire. Selon l’intimée, l’appelant n’a pas donné d’éclaircissements lors de son interrogatoire préalable, et il n’a pas donné d’explications additionnelles en réponse aux engagements qu’il avait pris lors de l’interrogatoire préalable. L’appelant a plutôt soumis une liasse de documents, principalement sous la forme de ses propres notes et de documents qu’il avait antérieurement remis à l’intimée en tentant de fournir sa liste de documents. La liste est composée d’un amas de notes, dont un grand nombre ne sont pas datées, et ne renferme aucune énumération de documents facilement identifiables qui sembleraient avoir une certaine incidence sur les questions en litige.
+[4] À vrai dire, je n’ai jamais vu de meilleur exemple des risques encourus par l’appelant qui agit pour son propre compte. M. Mochizuki n’a tout simplement pas pu énoncer sa position clairement. Il est malheureux qu’il en soit ainsi, mais il n’appartient pas à la Cour, ni à l’intimée, de faire des suppositions au sujet de la cause de l’appelant ou de tenter d’établir le bien-fondé de sa cause. J’ai eu l’impression que l’intimée a été coopérative et patiente, mais que l’absence complète de clarté l’a contrariée, d’où la présente demande.
+[5] J’examinerai la requête de l’intimée dans l’ordre où les questions ont été présentées.
+(i) L’avis d’appel devrait être radié conformément à l’article 53 et à l’alinéa 58(1)b) des Règles de procédure générale
+[6] En premier lieu, bien que M. Mochizuki n’ait pas invoqué la règle de la nouvelle mesure, l’intimée a parlé d’une façon tout à fait appropriée de l’obstacle que présente, sur le plan de la procédure, l’article 8 des Règles, qui est libellé comme suit :
+8. La requête qui vise à contester, pour cause d’irrégularité, une instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle‑ci, ne peut être présentée, sauf avec l’autorisation de la Cour :
+a) après l’expiration d’un délai raisonnable après que l’auteur de la requête a pris ou aurait raisonnablement dû prendre connaissance de l’irrégularité, ou
+b) si l’auteur de la requête a pris une autre mesure dans le cadre de l’instance après avoir pris connaissance de l’irrégularité.
+[7] La Cour peut, à sa discrétion, accueillir une requête en radiation lorsque des mesures subséquentes ont été prises. Voir, par exemple, Hawkes v. R.[2] et Imperial Oil Ltd. v. R.[3]. L’intimée a toujours tenté d’obtenir de M. Mochizuki une explication claire de sa cause. Elle l’a fait au moyen de demandes de documents, de demandes d’interrogatoires préalables et, d’une façon générale, de lettres. Il ne m’est pas difficile d’exercer mon pouvoir discrétionnaire, même à ce stade tardif de l’affaire, pour entendre une requête en radiation, en particulier lorsque, comme en l’espèce, il ne s’agit pas simplement d’irrégularités mineures, mais de graves défectuosités qui sèmeraient le désordre à l’instruction. Cette position est étayée par les remarques qui ont été faites dans les décisions Gould v. R.[4], Imperial Oil et Gee v. R.[5].
+[8] L’article 53 et l’alinéa 58(1)b) des Règles prévoient ce qui suit :
+53 La Cour peut radier un acte de procédure ou un autre document ou en supprimer des passages, en tout ou en partie, avec ou sans autorisation de le modifier parce que l’acte ou le document :
+a) peut compromettre ou retarder l’instruction équitable de l’appel;
+b) est scandaleux, frivole ou vexatoire;
+c) constitue un recours abusif à la Cour.
+[...]
+58(1) Une partie peut demander à la Cour,
+a) [...]
+b) soit de radier un acte de procédure au motif qu’il ne révèle aucun moyen raisonnable d’appel ou de contestation de l’appel,
+et la Cour peut rendre jugement en conséquence.
+[9] Le critère que les tribunaux ont élaboré pour appliquer l’alinéa 58(1)b) des Règles est de savoir s’il est clair et évident que l’action ne peut pas être accueillie même si les faits allégués dans l’appel sont véridiques. Voir Satin Finish Hardwood Flooring (Ontario) Ltd. c. Canada[6]. Le premier obstacle, lorsqu’il s’agit d’appliquer ce critère, consiste à savoir quels sont les faits dans l’appel de M. Mochizuki. Je crois que M. Mochizuki affirme que l’ordonnance rendue par le juge Blair est invalide :
+(i) parce qu’aucune audience n’a eu lieu le 13 juillet 2001;
+(ii) parce que l’ordonnance était fondée sur des mensonges que le frère de M. Mochizuki avait racontés au juge Blair.
+[10] Toutefois, il reste que l’ordonnance rendue par le juge Blair le 13 juillet 2001 découlait d’une audience tenue le 6 juillet 2001 : rien ne permet de conclure à l’invalidité de l’ordonnance à cause de la date à laquelle elle a été rendue. Quant à l’allégation de l’appelant selon laquelle le juge Blair a été induit en erreur, la question serait traitée d’une façon appropriée au moyen d’un appel de l’ordonnance rendue par le juge Blair. M. Mochizuki a interjeté un tel appel, mais il ne l’a pas poursuivi. L’ordonnance est valide et elle dit ce qu’elle dit, c’est‑à‑dire qu’elle confirme le dividende et le remboursement d’un emprunt par un actionnaire. M. Mochizuki ne m’a soumis aucun autre élément, sous la forme de documents ou d’explications, laissant planer un doute sur l’ordonnance rendue par le juge Blair. Je ne puis constater aucun moyen d’appel, et encore moins un moyen raisonnable. M. Mochizuki a peut‑être été lésé par son frère à maints égards, mais s’il ne peut pas démontrer dans ses actes de procédure (et par la suite, au moyen de la production de documents et d’un interrogatoire) de quelle façon cela concerne la question fiscale se rapportant au dividende et au remboursement de l’emprunt, cela n’a pas d’importance en l’espèce. M. Mochizuki n’a pas pu établir de lien cohérent. Je radierais l’avis d’appel pour le motif qu’il est clair et évident qu’il ne peut pas être retenu.
+[11] Par souci d’exhaustivité, j’examinerai également les observations que l’intimée a soumises au sujet de l’article 53 des Règles.
+[12] L’intimée a présenté trois thèses au sujet de ce que les tribunaux ont jugé scandaleux, frivole ou vexatoire :
+(i) L’omission d’énoncer des faits pertinents à l’appui d’une cause d’action relevant de la compétence de la Cour de l’impôt est vexatoire. Voir Miller v. Her Majesty the Queen[7];
+(ii) Un acte de procédure peut être jugé frivole et vexatoire lorsqu’il est si clairement futile qu’il n’a pas la moindre chance d’être retenu. Un acte de procédure qui ne repose sur aucune base rationnelle et qui ne fournit aucun élément de preuve est frivole. Voir Nelson v. Canada (Customs and Revenue Agency)[8].
+(iii) Une déclaration qui ne révèle pas suffisamment les faits sur lesquels le demandeur fonde sa cause d’action, de façon à permettre au défendeur d’y répondre ou à permettre à la cour de réguler l’instance, est vexatoire, comme le serait une déclaration qui renferme un certain nombre d’allégations non pertinentes. Voir O’Neil v. Minister of National Revenue[9].
+[13] Je pourrais m’opposer à l’emploi des termes « scandaleux ou frivole » (je ne doute aucunement que M. Mochizuki ne considère pas non plus la question), mais je puis facilement considérer comme vexatoires les efforts que M. Mochizuki a déployés dans le litige : M. Mochizuki n’a pas énoncé de faits pertinents indiquant l’existence d’une cause d’action susceptible d’être présentée à la Cour canadienne de l’impôt. L’appelant n’énonce pas les faits d’une façon claire ou concise : son acte de procédure est illogique et à peine cohérent. L’intimée ne peut avoir qu’une idée très vague de la cause de M. Mochizuki puisque la cause est dépourvue de tout fondement rationnel.
+[14] Il est facile de se montrer compatissant à l’égard de M. Mochizuki; en effet, il a travaillé pour la société pendant bon nombre d’années et il croit ne pas avoir reçu ce à quoi il avait droit. Pourtant, même la position qu’il prend au sujet de la façon dont il a été lésé prête à confusion. M. Mochizuki n’a pas pu dire si aucun paiement ne lui a été fait, s’il a reçu trop peu par rapport à ce à quoi il a droit ou s’il s’agissait uniquement du remboursement d’un emprunt. Ses actes de procédure ne permettent aucunement de le savoir. Cela est vraiment vexatoire.
+(ii) Articles 7, 64, 110 et 125 des Règles de procédure générale
+[15] Subsidiairement, l’intimée invoque les articles 7, 64 et 110 ainsi que les paragraphes 125(5) et (7) des Règles afin de solliciter le rejet de l’action de M. Mochizuki. Ces dispositions sont libellées comme suit :
+7 L’inobservation des présentes règles constitue une irrégularité et n’est pas cause de nullité de l’instance ni d’une mesure prise, d’un document donné ou d’une directive rendue dans le cadre de celle‑ci. La Cour peut :
+a) soit autoriser les modifications ou accorder les conclusions recherchées, à des conditions appropriées, afin d’assurer une résolution équitable des véritables questions en litige;
+b) soit annuler l’instance ou une mesure prise, un document donné ou une directive rendue dans le cadre de celle‑ci, en tout ou en partie, seulement si cela est nécessaire dans l’intérêt de la justice.
+[...]
+64 L’intimée qui n’est pas en défaut en vertu des présentes règles ou d’un jugement de la Cour peut demander, par voie de requête, le rejet de l’appel pour cause de retard si l’appelant n’a pas poursuivi l’appel avec promptitude.
+[...]
+110 Si une personne ne se présente pas à l’heure, à la date et au lieu fixés pour un interrogatoire dans l’avis de convocation ou le subpoena, ou à l’heure, à la date et au lieu convenus par les parties, ou qu’elle refuse de prêter serment ou de faire une affirmation solennelle, de répondre à une question légitime, de produire un document ou un objet qu’elle est tenue de produire ou de se conformer à une directive rendue en application de l’article 108, la Cour peut :
+a) en cas d’objection jugée injustifiée à une question, ordonner ou permettre à la personne interrogée de se présenter à nouveau, à ses propres frais, pour répondre à la question, auquel cas elle doit répondre aussi aux autres questions légitimes qui découlent de sa réponse;
+b) rejeter ou accueillir l’appel, selon le cas, si cette personne est une partie ou, dans le cas d’un interrogatoire préalable, une personne interrogée à la place ou au nom d’une partie;
+c) radier, en totalité ou en partie, la déposition de cette personne, y compris une déclaration sous serment faite par cette personne;
+d) ordonner à toute partie ou à toute autre personne de payer sans délai et personnellement les dépens de la requête, ceux qui ont été engagés inutilement et ceux de la poursuite de l’interrogatoire.
+[...]
+125(5) Lors de l’audience sur l’état de l’instance :
+a) si une réponse a été déposée, le juge peut :
+(i) fixer les délais dans lesquels doivent être prises toutes les mesures nécessaires à l’appel,
+(ii) rejeter l’appel pour cause de retard,
+(iii) rendre toute ordonnance ou établir toute directive appropriée;
+b) si aucune réponse n’a été produite, le juge peut,
+(i) ordonner d’accueillir l’appel si les faits allégués dans l’avis d’appel donnent à l’appelant le droit d’obtenir les conclusions recherchées,
+(ii) ordonner que l’appel soit entendu en considérant que les faits allégués dans l’avis d’appel sont présumés véridiques, et donner une directive à l’égard des frais de l’audience,
+(iii) rendre toute ordonnance ou établir toute directive appropriée.
+[...]
+125(7) Si une partie omet de se conformer à l’ordonnance rendue en vertu du paragraphe (5) ou à la directive donnée en vertu de ce paragraphe, la Cour peut, sur demande ou de son propre chef, accueillir l’appel, rejeter l’appel ou rendre toute autre ordonnance appropriée.
+[16] Étant donné la conclusion que j’ai tirée au sujet du principal argument de l’intimée, il est inutile de statuer sur cette position subsidiaire. Toutefois, j’aimerais faire remarquer qu’en examinant les décisions d’Abbondanza v. R.[10] et Lichman v. R.[11], citées par l’intimée à l’appui du rejet de la cause de M. Mochizuki conformément à ces dispositions, j’ai noté que le juge Hamlyn, dans la décision D’Abbondanza, et le juge Campbell, dans la décision Lichman, ont conclu que le comportement de l’appelant était tel que cela manifestait une intention délibérée de retarder l’instance. M. Mochizuki a omis de fournir une liste appropriée de documents et il a omis de se conformer à une ordonnance rendue par le juge Beaubier, de la Cour, mais je ne suis pas convaincu qu’il l’ait fait dans l’intention de retarder l’instance plutôt que par suite d’un manque complet de compréhension des Règles de la Cour, de la compétence de la Cour, de l’importance d’une ordonnance rendue par un autre tribunal judiciaire, et de fait de sa propre position. On ne saurait reprocher à M. Mochizuki de ne pas avoir répondu – le problème est que les réponses n’ont tout simplement aucun sens. En somme, il est inutile de statuer sur l’argument subsidiaire de l’intimée, mais l’intimée devrait se rendre compte qu’il existe à mon avis une différence entre un retard délibéré et l’intention de contrecarrer les Règles d’une part et le respect et l’incapacité d’autre part.
+[17] En agissant pour son propre compte, M. Mochizuki a épuisé tous les recours dont il disposait devant la Cour. Je ne rends pas cette décision à la légère étant donné qu’elle a pour effet d’empêcher M. Mochizuki de se faire entendre, mais les propres actions de M. Mochizuki m’ont convaincu de l’inexistence d’une cause à soumettre à la Cour. L’appel interjeté par M. Mochizuki à l’égard de l’année d’imposition 2001 est rejeté. Aucune ordonnance n’est rendue à l’égard des dépens.
+Signé à Ottawa, Canada, ce 17e jour de septembre 2008.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 6e jour de novembre 2008.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2008 CCI 526
+No DU DOSSIER DE LA COUR : 2005-2259(IT)G
+INTITULÉ : SUSUMU GEORGE MOCHIZUKI
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Victoria (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 15 août 2008
+MOTIFS DE L’ORDONNANCE : L’honorable juge Campbell J. Miller
+DATE DE L’ORDONNANCE : Le 17 septembre 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Johanna Russell
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. 1985, ch. 1 (5e suppl.), dans sa forme modifiée.
+[2] 97 DTC 5060 (C.A.F.).
+[3] 2003 DTC 179.
+[4] 2005 DTC 1311.
+[5] 2003 DTC 1020.
+[6] [1995] A.C.I. no 240.
+[7] [2007] 3 C.T.C. 2563.
+[8] 2001 DTC 5644 (C.F. 1re inst.).
+[9] 95 DTC 5060.
+[10] 93 DTC 1042.
+[11] 2004 DTC 2547.

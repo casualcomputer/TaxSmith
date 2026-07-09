@@ -1,0 +1,212 @@
+---
+title: "Lenover c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28281/index.do"
+last_modified: "2007-04-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 594"
+citation2: ""
+neutral_citation: "2007 CCI 594"
+decision_date: "2007-04-02"
+language: "fr"
+item_id: "28281"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1865
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:49:21.157000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a3f5de631938f22036b74041ff2b94ecfd227c8f3c3fe522584d1f4855bb8096"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lenover c. M.R.N.
+
+- Citation: 2007 CCI 594
+- Decision date: 2007-04-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1865, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lenover c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-04-02
+Référence neutre
+2007 CCI 594
+Numéro de dossier
+2007-643(EI)
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-643(EI)
+ENTRE :
+KAREN LENOVER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Margaret VanderEnde (2007-711(EI)) le 30 août 2007, à Windsor (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentant de l’appelante :
+Daniel Lenover
+Avocat de l’intimé :
+Me Frédéric Morand
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est modifiée pour tenir compte du fait que l’appelante n’exerçait pas un emploi assurable.
+Signé à Ottawa, Canada, ce 5e jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 26e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Dossier : 2007-711(EI)
+ENTRE :
+MARGARET VANDERENDE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Karen Lenover (2007‑643(EI)) le 30 août 2007, à Windsor (Ontario).
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Représentant de l’appelante :
+Harold VanderEnde
+Avocat de l’intimé :
+Me Frédéric Morand
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision du ministre est modifiée pour tenir compte du fait que l’appelante n’exerçait pas un emploi assurable.
+Signé à Ottawa, Canada, ce 5e jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 26e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI594
+Date : 20071005
+Dossiers : 2007-643(EI)
+2007-711(EI)
+ENTRE :
+KAREN LENOVER,
+MARGARET VANDERENDE,
+appelantes,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] Les appelantes en l’espèce, Mme Lenover et Mme VanderEnde, contestent la décision rendue par le ministre portant qu’elles avaient un emploi assurable au sens de la Loi sur l’assurance-emploi. Elles sont d’avis qu’elles n’avaient pas d’emploi assurable : i) soit parce qu’elles n’avaient pas de lien de dépendance avec l’employeur Handy Bros. Climatecare Inc., ii) soit parce que si elles avaient un lien de dépendance avec leur employeur, les modalités de leur emploi étaient également les modalités d’un emploi dans le cadre duquel il y avait un lien de dépendance. Ces deux affaires, sur consentement des parties, ont été entendues ensemble sur preuve commune.
+Norme de contrôle
+[2] La norme de contrôle applicable en pareil cas consiste à se demander si la conclusion du ministre est bien fondée et raisonnable compte tenu de la preuve dont il disposait, laquelle a été complétée devant la Cour. Voir, par exemple, les arrêts de la Cour d’appel fédérale dans Légaré c. Canada, [1999] A.C.F. nº 878 et dans Pérusse c. Canada, [2000] A.C.F. nº 310, ainsi que la décision rendue par la Cour dans l’affaire Birkland c. Canada, [2005] A.C.I. nº 195.
+Exposé des faits
+[3] Handy Bros. Climatecare Inc. (« Climatecare »), l’employeur des appelantes, est une entreprise spécialisée dans le chauffage et la climatisation qui est exploitée par deux familles : les Lenover et les VanderEnde. Chaque famille détient indirectement une part de 50 p. 100 dans la société.
+[4] Pendant la période pertinente, les actions de Climatecare appartenaient en totalité à Handy Bros. Ltd. M. et Mme Lenover détenaient ensemble 50 p. 100 des actions de Handy Bros., à raison de 26 p. 100 pour M. Lenover et de 24 p. 100 pour Mme Lenover. L’autre part de 50 p. 100 dans Handy Bros. Ltd. était détenue par les VanderEnde. Initialement, cette même part était fractionnée à raison de 26 p. 100 pour M. VanderEnde et de 24 p. 100 pour Mme VanderEnde. Au cours de l’année 2005, les VanderEnde ont revu leur participation, et la part de 50 p. 100 qu’ils détenaient dans Handy Bros. a été par la suite détenue par VanderEnde Investments Inc., une entreprise à son tour détenue à 52 p. 100 par M. VanderEnde et à 48 p. 100 par Mme VanderEnde.
+[5] Les VanderEnde et les Lenover étaient à la fois les administrateurs et les dirigeants de Climatecare. M. Lenover était le président et sa fonction courante consistait principalement à réaliser des ventes dans le secteur résidentiel. Mme Lenover exerçait la charge de trésorière et sa fonction courante consistait principalement à gérer la paie et les ressources humaines. Elle s’occupait également de la commercialisation et de la publicité, ainsi que du crédit et du recouvrement des créances. M. VanderEnde était secrétaire de la société et sa fonction courante consistait principalement à réaliser des ventes dans le secteur commercial. Mme VanderEnde occupait la charge de vice‑présidente et sa fonction courante consistait principalement à gérer les comptes clients et les garanties (à savoir s’assurer de la réception des montants à payer par les fabricants pour les réparations effectuées sur des appareils encore couverts par la garantie).
+[6] Climatecare employait presque 30 personnes, dont les quatre propriétaires. Tous les employés, à l’exception des quatre propriétaires, étaient payés à l’heure. Autrement dit, les heures travaillées étaient consignées tout comme les congés de maladie et les congés annuels. Par ailleurs, Mme VanderEnde et Mme Lenover étaient des employées salariées dont les heures travaillées n’étaient pas consignées, pas plus que les congés de maladie, et qui n’étaient pas rémunérées pour les heures supplémentaires.
+[7] Le ministre ne s’interroge pas à savoir si les appelantes ont effectivement travaillé dans l’entreprise. Il est évident qu’elles y ont travaillé et qu’elles ont déployé beaucoup d’efforts dans les postes d’importance et de responsabilité qu’elles occupaient. À l’appui de sa contestation, le ministre soutient qu’il aurait été raisonnable pour Climatecare d’employer des personnes sans lien de dépendance avec un salaire équivalent pour faire le travail des appelantes. Le ministre n’a pas adopté la même position à l’égard des conjoints des appelantes, et c’est cette question qui préoccupe les quatre propriétaires et leur société.
+[8] Les appelantes ont effectivement témoigné et elles ont fourni une preuve corroborant leur salaire de base. Selon l’hypothèse du ministre, elles recevaient également des primes, et la preuve le démontre. Toutefois, ni les appelantes ni la Couronne n’ont produit ces montants en preuve. Compte tenu du fait que le montant de la rétribution versée est l’une des considérations expressément énumérées à l’alinéa 5(3)b) de la Loi sur l’assurance­‑emploi dont il faut tenir compte pour décider si les modalités d’emploi étaient celles d’un emploi dans le cadre duquel il n’y avait pas de lien de dépendance, il devient difficile, voire impossible, pour la Cour d’en arriver à une conclusion quant à savoir si la décision du ministre sur ce point était raisonnable ou non. Cette situation peut se révéler problématique, et même fatale, pour la partie à laquelle il incombe de convaincre la Cour que la décision du ministre était appropriée ou inappropriée, selon le cas.
+[9] Les quatre propriétaires ont expliqué que l’entreprise de Climatecare était exploitée entièrement de manière consensuelle. Chacun des quatre propriétaires gérait quotidiennement la sphère d’activités particulière à sa fonction. En cas de désaccord sur un aspect plus important du portrait de l’entreprise ou de la société, un consensus était activement recherché, et une décision était prise d’un commun accord par les quatre propriétaires.
+[10] Il ressort de la preuve que, au sein de l’entreprise et du personnel, Mme VanderEnde et Mme Lenover étaient considérées par les autres employés comme des propriétaires participant à la prise de décisions importantes. À tout le moins, elles exerçaient certainement des fonctions de gestion et de supervision au sein de l’organisation qui n’étaient exercées par aucun autre employé.
+[11] Chacun des quatre propriétaires a joué ses actifs financiers et ses biens personnels pour que Climatecare puisse offrir les garanties nécessaires dans certains de ses contrats commerciaux. La preuve démontre également qu’ils ont chacun soutenu personnellement les lignes de crédit accordées par la Banque CIBC.
+Hypothèses avancées par le ministre
+[12] Les hypothèses avancées par le ministre étaient‑elles dans les faits exactes? Daniel Lenover, président de Climatecare, a témoigné que les hypothèses plaidées par le ministre dans le dossier de Mme Lenover étaient généralement exactes, sauf pour ce qui suit :
+Alinéa 10l) : Les tâches accomplies par Mme Lenover n’étaient pas celles qui sont énoncées dans la réponse du ministre mais plutôt celles qui sont décrites de façon générale ci‑dessus.
+Alinéa 10o) : Les appelantes travaillaient chacune à raison de deux jours et demi par semaine, et non à raison de deux jours par semaine.
+Alinéa 10q) : Les heures de travail des appelantes n’étaient pas consignées par l’employeur.
+Alinéa 10t) : Aucune paie de congé annuel n’a été versée ou reçue et les congés annuels et les droits y afférents n’ont pas été consignés.
+Alinéa 10v) : Le payeur n’offrait pas de régime de soins dentaires, de régime de soins de la vue ou d’autres régimes d’avantages sociaux aux appelantes. Elles bénéficiaient d’une protection à titre de conjointes d’employés couverts et non à titre d’employées.
+Alinéa 10x) : Les appelantes n’étaient pas supervisées par les gestionnaires du payeur. Elles étaient les gestionnaires du payeur, et chacun des quatre propriétaires se gouvernait lui‑même dans sa propre sphère de responsabilité.
+[13] Les corrections correspondantes à l’égard des hypothèses du ministre dans le dossier de Mme VanderEnde ont également été présentées en preuve.
+[14] Le ministre a avancé l’hypothèse additionnelle suivante dans la réponse à Mme VanderEnde :
+Alinéa 8j) : Les VanderEnde et les Lenover géraient les activités courantes de l’entreprise et prenaient les décisions d’importance pour celle‑ci.
+[15] Compte tenu de cette hypothèse, qui est entièrement corroborée par la preuve, il est difficile de comprendre comment le ministre a pu raisonnablement en arriver à des conclusions différentes pour les conjointes d’une part et pour les conjoints d’autre part (sauf en ce qui a trait à M. VanderEnde pour la dernière moitié de l’année suivant la restructuration de VanderEnde Investments). Cette hypothèse n’est pas compatible avec les hypothèses 10x) et 8z) du ministre et la position de la Couronne suivant laquelle les conjoints supervisaient les conjointes et le travail qu’elles accomplissaient.
+[16] Le ministre s’appuie considérablement dans son argumentation sur les réponses des appelantes à la question 10 du questionnaire destiné aux travailleurs ayant un lien de dépendance (pièce A-4), laquelle demande de désigner le superviseur. Mme VanderEnde a écrit [traduction] « administration ». Mme Lenover a écrit [traduction] « Dan Lenover et Harold VenderEnde ». En fait, le portrait d’ensemble qui est ressorti clairement au procès correspondait à ce qui a été décrit précédemment.
+[17] Je devrais ajouter que, malgré leur avis d’appel, les appelantes ont admis au procès qu’elles avaient été engagées par Climatecare aux termes d’un contrat de louage de services verbal. En tout état de cause, c’était la seule interprétation raisonnable de la preuve.
+Dispositions législatives
+[18] Les dispositions législatives pertinentes de la Loi sur l’assurance‑emploi sont les suivantes :
+5.(1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+5.(2) N’est pas un emploi assurable :
+b) l’emploi d’une personne au service d’une personne morale si cette personne contrôle plus de quarante pour cent des actions avec droit de vote de cette personne morale;
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5.(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[19] La définition d’emploi assurable pour l’application de la Loi sur l’assurance‑emploi est énoncée à l’article 5. L’alinéa 5(2)i) exclut l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance. L’alinéa 5(3)a) précise que la question du lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu.
+[20] La définition du lien de dépendance à l’article 251 de la Loi de l’impôt sur le revenu prévoit que (i) des personnes liées sont réputées avoir un lien de dépendance et que (ii) la question de savoir si des personnes non liées ont ou non un lien de dépendance est une question de fait.
+[21] L’alinéa 5(3)b) de la Loi sur l’assurance‑emploi ajoute une autre règle déterminative à la définition du lien de dépendance, outre la définition et les règles déterminatives de la Loi de l’impôt sur le revenu. D’entrée de jeu, on apprend que la règle de l’alinéa 5(3)b) s’applique seulement si l’employeur et l’employé sont des personnes liées au sens de la Loi de l’impôt sur le revenu. Si un employeur et un employé qui sont des personnes liées ont un lien de dépendance pour l’application de la Loi de l’impôt sur le revenu (ce qui sera toujours le cas compte tenu des définitions du lien de dépendance et du mot « lié »), ils seront néanmoins réputés ne pas avoir de lien de dépendance aux fins de l’assurance‑emploi si le ministre est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. L’alinéa 5(2)i) considère la question de savoir si la relation entre l’employeur et l’employé est telle qu’il existe entre eux un lien de dépendance. Par contre, l’alinéa 5(3)b) considère les modalités d’emploi lorsqu’il s’agit de décider si elles reflètent un accord établi en l’absence d’un lien de dépendance malgré l’existence d’une relation démontrant un lien de dépendance.
+[22] Je dois également renvoyer à l’alinéa 5(2)b) de la Loi sur l’assurance‑emploi, puisque cette disposition est pertinente dans le cas de M. VanderEnde, même si la Cour n’a pas été saisie des questions de ce dernier en matière d’assurance‑emploi. L’alinéa 5(2)b) exclut des emplois assurables l’emploi d’une personne qui contrôle plus de 40 p. 100 des actions avec droit de vote d’une personne morale. Même si cette disposition considérait normalement les actions contrôlées par la personne et son conjoint, pour l’année visée en l’espèce, elle considère seulement la participation de l’employé.
+Analyse et conclusion
+[23] Dans Canada (Commission de l’emploi et de l’immigration du Canada) c. Gagnon, [1988] 2 R.C.S. 29, la Cour suprême du Canada (à la page 47) a dit que le libellé des dispositions législatives de l’assurance‑emploi n’était pas d’une clarté éblouissante. Ceux qui doivent régulièrement travailler avec ces dispositions pourraient bien croire que la Cour suprême a mesuré ses paroles. Le litige en l’espèce résulte du fait que la définition d’emploi assurable intègre les notions et les définitions de l’expression « lien de dépendance » et du mot « lié » de la Loi de l’impôt sur le revenu. La notion du lien de dépendance factuel pour l’application de la Loi de l’impôt sur le revenu est normalement interprétée dans un contexte fiscal. Considérer que les actionnaires minoritaires, même ceux détenant un part d’environ 25 p. 100, ont un lien de dépendance avec la société aux fins de l’impôt sur le revenu n’est certainement pas la règle. Voir l’exemple donné au paragraphe 32 du bulletin d’interprétation IT‑419R2, Sens de l’expression « sans lien de dépendance ».
+Les appelantes et Climatecare avaient‑elles un lien de dépendance?
+[24] J’avais prévu que la Couronne ferait valoir qu’il n’y avait dans les faits aucun lien de dépendance entre l’employeur Climatecare et chacune des appelantes, Mme VanderEnde et Mme Lenover, et que leur emploi n’était donc pas l’emploi exclu décrit à l’alinéa 5(2)i). Il me semblait qu’il s’agissait là du fondement de la décision du ministre faisant suite à la contestation administrative de la décision de l’ARC par les appelantes. Le ministre a précisé que : [traduction] « il a été conclu qu’il n’y avait dans les faits aucun lien de dépendance entre Karen Lenover et Handy Bros. Climatecare Inc. et que, par conséquent, l’emploi de Karen Lenover n’était pas exclu des emplois assurables ». La lettre informant Mme VanderEnde de la décision prise à son endroit était à peu près semblable. Or, la Couronne fait valoir que les conjointes avaient un lien de dépendance avec Climatecare pour l’application de la Loi de l’impôt sur le revenu. Elle se dit d’avis que les motifs exposés par le ministre dans les lettres de décision, quoique ambigus, avaient pour but de faire savoir que les conjointes n’avaient pas de lien dépendance avec Climatecare seulement en raison de l’application de la disposition déterminative de l’alinéa 5(3)b). La position éclaircie du ministre est compatible avec le paragraphe 5 de la réponse versée au dossier de Mme Lenover et avec le paragraphe 3 de la réponse versée au dossier de Mme VanderEnde. Autrement dit, le ministre est d’avis que Mme Lenover et Mme VanderEnde avaient un lien de dépendance avec Climatecare pour l’application des alinéas 5(2)i) et 5(3)a). Dans ce cas, il existerait un lien de dépendance aux fins de l’assurance‑emploi, sauf si elles sont néanmoins réputées ne pas avoir de lien de dépendance au sens de l’alinéa 5(3)b) de la Loi sur l’assurance‑emploi.
+[25] La décision par laquelle le ministre a tranché que Mme Lenover et Mme VanderEnde avaient un lien de dépendance avec Climatecare pour l’application de la Loi de l’impôt sur le revenu était‑elle fondée et raisonnable? La preuve ne permet pas de conclure que la décision n’était pas fondée. Même s’il peut être difficile de dire qu’un actionnaire important ne contrôlant pas la société a un lien de dépendance avec la société pour l’application de la Loi de l’impôt sur le revenu, il était raisonnablement loisible au ministre d’en décider ainsi. La question de savoir si la Cour serait arrivée ou non à la même conclusion n’est pas le critère applicable. Je note que le ministre est parvenu à une conclusion similaire sur ce point à l’égard des maris également, même s’il a par la suite conclu que la règle déterminative de l’alinéa 5(3)b) ne s’appliquait pas de manière que les maris soient réputés ne pas avoir de lien dépendance aux fins de l’assurance‑emploi.
+Les appelantes étaient‑elles liées à Climatecare?
+[26] Après avoir conclu que la décision initiale du ministre selon laquelle Mme Lenover et Mme VanderEnde avaient un lien de dépendance avec Climatecare pour l’application de la Loi de l’impôt sur le revenu était une décision raisonnable à laquelle il était parvenu de bonne foi, la Cour se penche maintenant sur la question de savoir si la décision du ministre selon laquelle les conjointes, en application de la règle déterminative de l’alinéa 5(3)b), étaient néanmoins réputées ne pas avoir de lien de dépendance avec Climatecare aux fins de l’assurance‑emploi était fondée et raisonnable.
+[27] L’alinéa 5(3)b) ne peut s’appliquer, suivant son libellé, que si Mme Lenover et Mme VanderEnde sont liées à leur employeur Climatecare pour l’application de la Loi de l’impôt sur le revenu. La Couronne a allégué que Climatecare et chaque appelante étaient liées entre elles en vertu du sous‑alinéa 251(2)b)(ii) de la Loi de l’impôt sur le revenu, qui traite des groupes liés qui exercent un contrôle sur une société. Ni les VanderEnde ni les Lenover ne contrôlait la société puisque chaque couple ne détenait qu’une part de 50 p. 100. Les VanderEnde et les Lenover n’étaient pas liés entre eux. La définition de groupe lié au paragraphe 251(4) de la Loi de l’impôt sur le revenu exige que chaque membre du groupe soit lié à chaque autre membre du groupe. Il n’est pas satisfait à ce critère, et les appelantes obtiennent donc gain de cause dans leur appel.
+[28] À l’audience, j’ai accepté d’accorder à la Couronne, à la suite de sa demande, un autre délai de 30 jours pour lui permettre de déposer des observations écrites à l’appui de sa position voulant que Mme VanderEnde et Mme Lenover soient des personnes liées et que l’alinéa 5(3)b) de la Loi sur l’assurance‑emploi soit par conséquent applicable. Dans ces observations écrites, la Couronne a reconnu que l’alinéa 5(3)b) ne s’appliquait pas dans les présents appels. La Cour refuse de prendre en considération les observations écrites de la Couronne qui débordent la question relative aux personnes liées pour l’application de l’alinéa 5(3)b) et qui cherchent à faire valoir que les appelantes n’avaient pas de lien de dépendance pour l’application de l’alinéa 5(2)i). Les observations écrites devaient [traduction] « être limitées à la question relative aux personnes liées ». La Couronne a elle‑même établi cette limite lorsqu’elle s’est vu offrir la possibilité de présenter des observations écrites seulement sur l’alinéa 5(2)i) et l’alinéa 5(3)b) dans leur intégralité ou de poursuivre avec les arguments oraux sauf seulement en ce qui a trait à la question d’être une personne liée pour l’application de l’alinéa 5(3)b). Il ne serait pas équitable du point de vue procédural, dans le cas d’appelants se représentant eux‑mêmes, de permettre à la Couronne de présenter des observations écrites contraires à l’argumentation de fond complète qu’elle a présentée à l’audience, contraires aux points expressément concédés à l’audience et, selon la Couronne, contraires aux hypothèses du ministre et au fondement de sa décision.
+Existait‑il un lien de dépendance dans le cadre de l’emploi des appelantes?
+[29] Puisque ni l’une ni l’autre des appelantes n’était liée à l’employeur Climatecare, il n’est pas nécessaire de passer en revue les modalités de leur emploi pour voir si celui‑ci était néanmoins assujetti à des modalités d’emploi qui se seraient appliquées en l’absence d’un lien de dépendance. La disposition de l’alinéa 5(3)b) ne s’applique pas à tous les employés ayant un lien de dépendance, mais seulement aux employés qui ont un lien de dépendance du fait qu’ils sont liés à l’employeur. Compte tenu de son libellé, et de son interaction avec les définitions contenues dans la Loi de l’impôt sur le revenu, la disposition ne s’étend pas aux employés considérés comme ayant un lien de dépendance factuel avec l’employeur. La raison sous‑jacente à cette situation n’est pas apparente. Toutefois, il est clair que la décision par laquelle le ministre a tranché que les deux conjointes occupaient un emploi assurable n’était pas bien fondée, puisque, suivant le sens clair de l’alinéa 5(3)b), ce dernier ne peut s’appliquer.
+[30] Le cas échéant, je suis d’avis que, si les appelantes avaient été liées à Climatecare, une décision portant que les modalités de leur emploi se seraient appliquées en l’absence d’un lien de dépendance n’aurait probablement pas été déraisonnable. Les emplois de gestionnaires et de superviseurs salariés sans lien de dépendance qui ne sont pas rémunérés pour les heures supplémentaires et dont les heures de travail ne sont pas dûment consignées ne sont pas si inhabituels. Il en est d’ailleurs question dans les motifs de la décision de M. le juge Archambault dans Lacroix c. Canada, [2007] A.C.I. no 87, auxquels je souscris et que je considère pertinents en l’espèce. Le seul élément de qualification dans l’affaire dont je suis saisi est que je ne connais pas le montant des primes que le ministre était tenu de prendre en compte.
+[31] Sur la question de savoir si leur emploi était assujetti à des modalités d’emploi qui se seraient appliquées en l'absence d’un lien de dépendance, les appelantes s’appuient fortement sur le fait que chacune d’elles avait engagé ses actifs financiers et ses biens personnels pour la société à des fins de cautionnement et de financement bancaire. Dans leurs observations, elles font valoir que c’est ce fait qui les distinguait de tous les autres employés (mis à part leur mari). Je ne crois pas que, au moins dans les circonstances de la présente affaire, ces actions ou considérations soient pertinentes dans le cadre de l’analyse des modalités d’emploi pour l’application de l’alinéa 5(3)b). Le soutien financier qu’elles ont apporté à la société l’a été en leur qualité d’actionnaires et non d’employées. C’est pourquoi les autres employés n’y ont pas contribué. Cela signifie que cette contribution peut être pertinente quant à la question de savoir s’il y avait absence de lien de dépendance entre la société et les appelantes, mais elle n’est pas particulièrement utile pour décider si les modalités de leur emploi étaient celles d’un emploi dans le cadre duquel il n’y avait pas de lien de dépendance.
+Les conjoints des appelantes
+[32] Les appelantes se demandent sérieusement en quoi il pouvait être raisonnable pour le ministre de décider qu’elles avaient un emploi assurable alors que leur conjoint n’en avait pas, compte tenu du fait que chacun d’eux était actionnaire minoritaire indirect. La décision du ministre sur ce point pouvait être raisonnable dans le cas des appelantes même si elle était incompatible avec la décision concernant les maris puisqu’ils ne sont pas appelants.
+[33] Dès que les VanderEnde ont constitué VanderEnde Investments Inc. en personne morale, l’emploi de M. VanderEnde devenait exclu des emplois assurables en vertu de l’alinéa 5(2)b) puisqu’il contrôlait plus de 40 p. 100 des actions avec droit de vote de cette personne morale. Le verbe « contrôler » employé dans cette exception n’est pas défini par renvoi à la notion de contrôle de la Loi de l’impôt sur le revenu, pas plus d’ailleurs qu’il n’est défini dans la loi en matière d’assurance‑emploi. Contrairement à la Loi de l’impôt sur le revenu qui considère le contrôle de la société, cette exception tient compte du contrôle des actions avec droit de vote de la personne morale. N’eut été de la suppression de la mention relative au conjoint de la personne, cette disposition aurait également exclu l’emploi de Mme VanderEnde. Voir par exemple Dupuis v. M.N.R, [1988] 90 N.R. 399 (C.A.F.). Compte tenu de cette modification, je ne crois pas qu’il soit loisible à la Cour d’interpréter la notion de contrôle des actions avec droit de vote d’une personne morale comme si elle s’étendait au contrôle exercé avec un conjoint sur plus de 40 p. 100 des actions.
+[34] Mme Lenover et Mme VanderEnde croient que, au début de 2005, avant la réorganisation de VanderEnde Investments, et tout au long de 2005 dans le cas de M. Lenover, elles se trouvaient dans une position similaire à celle de leur mari, du point de vue de la relation avec la société et de l’emploi qu’elles y occupaient. La Couronne a expliqué que la principale distinction entre la situation des conjoints et celle des conjointes tenait au fait que les conjointes étaient supervisées par les conjoints. Cette explication s’appuie en grande partie sur la réponse à la question 10 du questionnaire destiné aux travailleurs ayant un lien de dépendance, qui se rapporte à la supervision. Tel qu’il a été expliqué en détail précédemment, la preuve présentée au procès était plus complète et approfondie. La Couronne a également allégué que les conjoints étaient les têtes dirigeantes et les principaux décideurs de l’entreprise en général, sauf en ce qui avait trait aux aspects particuliers délégués aux conjointes, tels que la paie, les ressources humaines, les comptes clients, etc. Elle a en outre fait état de l’alinéa z) des hypothèses énoncées dans le dossier de Mme VanderEnde, dans lequel il est affirmé que [traduction] « l’appelante était supervisée par les gestionnaires du payeur ». Cet alinéa est à peu près semblable à l’hypothèse x) énoncée dans le dossier de Mme Lenover. Elle a précisé que les termes [traduction] « gestionnaires du payeur » désignaient les maris. Cette explication, hypothèse ou position présentée au procès n’est pas corroborée par la preuve et semble tout à fait incompatible avec l’hypothèse j) énoncée dans la réponse versée au dossier de Mme VanderEnde, suivant laquelle [traduction] « les VanderEnde et les Lenover géraient les activités courantes de l’entreprise et prenaient les décisions d’importance pour celle‑ci ».
+[35] Les appels de Mme Lenover et de Mme VanderEnde sont accueillis, et la décision rendue par le ministre portant que les appelantes exerçaient un emploi assurable pour leur employeur est modifiée pour tenir compte du fait qu’elles n’exerçaient pas un emploi assurable.
+Signé à Ottawa, Canada, ce 5e jour d’octobre 2007.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 26e jour de novembre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI594
+Nos DES DOSSIERS DE LA COUR : 2007-643(EI) et 2007-711(EI)
+INTITULÉ DES CAUSES : KAREN LENOVER c.
+LE MINISTRE DU REVENU NATIONAL MARGARET VANDERENDE c.
+LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Windsor (Ontario)
+DATE DE L’AUDIENCE : Le 30 août 2007
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 5 octobre 2007
+COMPARUTIONS :
+Représentants des appelantes :
+Daniel Lenover et Harold VanderEnde
+Avocat de l’intimé :
+Me Frédéric Morand
+AVOCAT INSCRIT AU DOSSIER :
+Pour les appelantes :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,235 @@
+Title: Centrepoint Foods Corporation v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/126845/index.do
+Corpus path: corpus/cases/tcc/2015/2015-tcc-296-126845-centrepoint-foods-corporation-v-the-queen-en.md
+Document type: case_law
+Last modified: 2015-11-25
+
+# Centrepoint Foods Corporation v. The Queen
+
+- Citation: 2015 TCC 296
+- Decision date: 2015-11-25
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2694, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Centrepoint Foods Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-11-25
+Neutral citation
+2015 TCC 296
+File numbers
+2013-2610(GST)I, 2013-2615(IT)I, 2014-102(IT)I
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-2610(GST)I
+BETWEEN:
+CENTREPOINT FOODS CORPORATION,
+Appellant,
+-and-
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 20, 2015, at Belleville, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+Agent for the Appellant:
+Wayne Warner
+Counsel for the Respondent:
+Christopher Kitchen
+JUDGMENT
+The Appellant’s appeal of the reassessments of its reporting periods from January 1, 2005 to June 30, 2009 is allowed and the matter referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant was not grossly negligent in claiming the input tax credits disallowed by the Minister.
+Signed at Ottawa, Canada this 25th day of November, 2015.
+“David Graham”
+Graham J.
+Docket: 2013-2615(IT)I
+BETWEEN:
+JOHN STATHOPOLOUS,
+Appellant,
+-and-
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 20, 2015, at Belleville, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+Agent for the Appellant:
+Wayne Warner
+Counsel for the Respondent:
+Christopher Kitchen
+JUDGMENT
+The Appellant’s appeal of the reassessments of his 2005, 2006 and 2007 taxation years is allowed and the matter referred back to the Minister for reconsideration and reassessment on the basis that the Appellant was not grossly negligent in failing to report the shareholder benefits that he received from Centrepoint Foods Corporation.
+Signed at Ottawa, Canada this 25th day of November, 2015.
+“David Graham”
+Graham J.
+Docket: 2014-102(IT)I
+BETWEEN:
+CENTREPOINT FOODS CORPORATION,
+Appellant,
+-and-
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 20, 2015, at Belleville, Ontario
+Before: The Honourable Justice David E. Graham
+Appearances:
+Agent for the Appellant:
+Wayne Warner
+Counsel for the Respondent:
+Christopher Kitchen
+JUDGMENT
+The Appellant’s appeal of the reassessments of its taxation years ending January 31, 2006 and 2007 on the basis that the Appellant was not grossly negligent in claiming the expenses disallowed by the Minister.
+Signed at Ottawa, Canada this 25th day of November, 2015.
+“David Graham”
+Graham J.
+Citation: 2015 TCC 296
+Date: 2015 11 25
+Docket: 2013-2610(GST)I
+BETWEEN:
+CENTREPOINT FOODS CORPORATION,
+Appellant,
+-and-
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2013-2615(IT)I
+BETWEEN:
+JOHN STATHOPOLOUS,
+Appellant,
+-and-
+HER MAJESTY THE QUEEN,
+Respondent;
+Docket: 2014-102(IT)I
+BETWEEN:
+CENTREPOINT FOODS CORPORATION,
+Appellant,
+-and-
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] Centrepoint Foods Corporation owned and operated a Saint Cinnamon franchise in a mall in Kingston, Ontario. John Stathopolous owned 75% of the shares of Centrepoint. The remaining 25% of the shares were owned by his wife. The Minister of National Revenue reassessed Centrepoint’s taxation years ending January 31, 2006 and 2007 and its GST reporting periods from January 1, 2005 to June 30, 2009. The Minister also reassessed Mr. Stathopolous’ 2005, 2006 and 2007 tax years. Centrepoint and Mr. Stathopolous have appealed those reassessments. They made a number of concessions at the beginning of the trial. As a result of those concessions, only the following remain in issue in these Appeals:
+a) the denial of $58,918 and $70,845 in expenses claimed by Centrepoint in its taxation years ending January 31, 2006 and 2007 respectively and the denial of input tax credits relating to those denied expenses in the corresponding reporting periods;
+b) the assessment of shareholder benefits under subsection 15(1) of the Income Tax Act against Mr. Stathopolous in the amounts of $16,332 and $17,694 in his 2006 and 2007 tax years respectively;
+c) the assessment of additional net tax relating to supplies made by Centrepoint that were allegedly treated as zero rated supplies instead of taxable supplies; and
+d) the assessment of gross negligence penalties under subsection 163(2) of the Income Tax Act or section 285 of the Excise Tax Act on all of the above.
+[2] I will deal with the first three issues separately. I will consider the application of gross negligence penalties as part of my analysis of each issue.
+Denied Expenses and Related Input Tax Credits [3] The Minister denied various expenses (and the related input tax credits) claimed by Centrepoint because Centrepoint failed to provide the Minister with adequate documentation to support those expenses. The Minister advised Centrepoint of the amount of expenses that had been allowed for each supplier and made assumptions of fact that the remaining expenses had not been incurred or were personal expenses. In order to demolish those assumptions of fact, Centrepoint needed to either provide me with clear documentation showing that the expenses had been incurred and were not personal or, at the very least, provide me with detailed oral testimony explaining the nature of the expenses in question and explaining why documentation was not available. Centrepoint did neither of these things. It introduced very little documentary evidence. The evidence that it did introduce was not specific to the expenses that had been denied and I was not provided with any guidance as to how the evidence demolished the assumptions. The oral evidence provided by Mr. Stathopolous did not provide any greater level of clarity. With the exception of the expenses that the Minister had classified as being personal, Centrepoint did not identify the denied expenses either individually or by broad category. Based on the foregoing, I find that Centrepoint failed to demolish the assumptions of fact made by the Minister. Accordingly, the denied expenses and the related input tax credits will not be adjusted.
+[4] Having concluded that I will not be adjusting the denied expenses and the related input tax credits, I must then consider whether the gross negligence penalties on those amounts should be upheld. I conclude that they should not be upheld.
+[5] The CRA auditor, Robert Melka, was called as a witness by the Appellant. I found him to be a credible witness. Mr. Melka explained that he had reviewed the bank statements, cancelled cheques and receipts provided to him by Centrepoint, had allowed those expenses that he was able to verify and had denied those expenses that he was unable to verify. He testified that he was not provided with a copy of Centrepoint’s general ledger or with the accountant’s working papers. He indicated that if he had had access to those documents he may have been able to verify the denied expenses. Mr. Melka and his team leader decided that the best way to prompt Centrepoint to obtain the requested information was to issue a letter proposing both to deny the expenses and to impose penalties. He testified that he fully expected that, when Centrepoint received that proposal letter, it would provide him with the necessary documents. When Centrepoint failed to respond to the proposal letter, the Minister issued reassessments. Centrepoint did not provide any additional information to CRA Appeals. As a result, the reassessments were confirmed.
+[6] The overall impression that I have from Mr. Melka’s testimony is that he did not necessarily believe that all of the denied expenses had not been incurred but, absent proof that they had, he denied them. I had the sense that he had seen some information about many of the expenses but that it was not sufficient information to support a deduction. For example, he may have seen a cancelled cheque payable to a supplier but not have seen the supporting invoice.
+[7] The primary argument put forward by the Respondent for upholding the penalties was the lack of documentation to support the expenses. Centrepoint’s general ledger was not entered as an exhibit at trial. While some of the accountant’s working papers were filed as exhibits, no witness explained them. Mr. Melka testified that he had reviewed the working papers the evening before trial and that the information contained therein did not provide sufficient verification for him to change his mind on denying the expenses. In any event, the working papers were somewhat meaningless without the underlying general ledger as it was not possible to see what entries the adjusting journal entries in the working papers were adjusting and whether those adjustments had, in fact, been made. No invoices or receipts were filed as exhibits nor were they explained. Other than the cheques relating to the expenses classified as personal expenses that the Respondent entered into evidence, no cancelled cheques were entered into evidence nor were the nature of the expenses that were paid by cheque explained. During the trial, the agent for Centrepoint referred on numerous occasions to the fact that he had documentary evidence to support each expense that had been claimed. At least twice he held up what appeared to be a sample bundle of receipts or invoices. However, despite my clear instructions to him that he needed to introduce into evidence any documents that he wanted me to rely upon in reaching my decision, he introduced none of those documents.
+[8] The Respondent would like me to draw an adverse inference from Centrepoint’s failure to introduce documents at trial and conclude that the relevant documents would not have supported Centrepoint’s position. I am unwilling to do so. The strong impression that I received during the trial was that the reason that the documents were not introduced was not because there was a conscious decision on the part of Centrepoint not to introduce them, but rather because the Appellants’ agent simply did not appreciate that it was essential to do so[1].
+[9] In summary, while the lack of documentation is sufficient to uphold the denial of the expenses, given my conclusions as to why the documentation was not entered into evidence and as to Mr. Melka’s expectations as to what the documentation may have shown if it had been produced, I am unwilling to uphold the gross negligence penalties.
+Shareholder Benefits [10] The shareholder benefits assessed against Mr. Stathopolous represent a subset of the overall expenses denied to Centrepoint. Mr. Melka testified that, when reviewing the denied expenses, he identified ones that appeared to be personal and treated them as shareholder benefits. He explained that, while the shareholder loan that Centrepoint owed to Mr. Melka had decreased in the years in question, without the general ledger and accountant’s working papers he could not tell whether that decrease was a result of Centrepoint accounting for the personal expenses or not.
+[11] Since the shareholder benefits are a subset of the denied expenses, Mr. Stathopolous’ appeal of those benefits suffers from the same problems with documentation that plagued Centrepoint in respect of the denied expenses. He has simply failed to introduce sufficient evidence to demolish the Minister’s assumption of fact that the expenses in question were personal. As a result, the shareholder benefits assessed against him will not be adjusted.
+[12] Having concluded that I will not be adjusting the shareholder benefits, I must then consider whether the gross negligence penalties on those benefits should be upheld. I conclude that they should not be upheld for the same reason that I concluded that they should not be upheld in respect of the denied expenses. In addition, I note that the accountant’s working papers do contain some adjustments to the shareholders loan account that, if the adjustments and the individual expenses that make up those adjustment had been properly explained and traced through to the general ledger, could have shown that Mr. Stathopolous did not receive any shareholder benefits.
+Additional Taxable Supplies [13] Mr. Melka testified that the amount of GST that Centrepoint had collected appeared to be very low for the amount of supplies that it had reported. He accepted that the total supplies were accurately stated but he had concerns about whether the GST had been properly collected. Accordingly, he sought to verify how the GST collected had been determined.
+[14] Centrepoint recorded all of its sales from its Saint Cinnamon franchise using a point of sale system[2]. The Z-tapes from that system show the total sales for each day and the total GST collected. The Z-tapes do not show individual sales. Thus Mr. Melka could not use the Z-tapes to verify how GST was calculated on each individual sale. The point of sale system would have generated electronic records of each individual sale. Centrepoint either did not keep the electronic records of those individual sales or was unwilling to provide them to the Minister[3]. Thus, the Mr. Melka had no way of determining whether GST was being properly calculated on individual sales. As a result, Mr. Melka needed another method of determining whether the GST collected was accurate.
+[15] Mr. Melka made two sample purchases at Centrepoint’s Saint Cinnamon franchise in order to see how GST was being calculated. One purchase was for less than $4.00 and the other was for more than $4.00. Mr. Melka explained that, at the time, provincial Retail Sales Tax (“RST”) was not charged on prepared food purchases of less than $4.00. When Mr. Melka examined the receipts that he had received from his purchases, he noted that RST was clearly identified on the receipt for the purchase costing more than $4.00, that RST was not charged on the receipt for the purchase costing less than $4.00 and that GST was not identified on either receipt. I will refer to these purchases as the “Sample Purchases”. The Sample Purchases reinforced Mr. Melka’s suspicions that GST was not being properly calculated on individual sales.
+[16] Mr. Stathopolous testified that the cost of the items shown on the receipts for the Sample Purchases included GST. I do not accept his explanation for three reasons. First, I find it unlikely that a point of sale system would break out RST on a receipt but include GST in the purchase price in a business where there would be purchases where one or both taxes may not have applied. Second, Mr. Stathopolous was evasive when he was asked if he had ever taken any steps to verify that the prices on the receipts were GST included. Finally, Mr. Stathopolous gave an example of the price before GST that he said would have been applicable for one of the items purchased in the Sample Purchases. If the price he testified to had been accurate, the rate of GST that would have had to have been applied to reach the supposed GST included price shown on the receipt would have been more than 14% at a time when the actual GST rate was 5%[4].
+[17] In order to test his suspicions that GST was being under-collected, Mr. Melka determined the approximate number of coffee cups that Centrepoint purchased in its reporting periods from January 1, 2005 to December 31, 2006, calculated an average beverage price for those cups and applied GST to the resulting estimated revenue. This rough analysis showed a significant discrepancy between the amount of GST collected and the amount that one would expect to have been collected. I will refer to this rough analysis as the “Cup Analysis”. The Cup Analysis indicated that the total GST collected by Centrepoint on all of its sales was only 57% of the GST that should have been collected on hot beverage sales alone, let alone sales of cold beverages, cinnamon buns and other prepared foods.
+[18] Given the results of the Cup Analysis and the Sample Purchases, Mr. Melka determined that it was appropriate to use an alternative method to calculate the amount of GST that Centrepoint should have collected and to expand his audit to also cover the period from January 1, 2007 to June 30, 2009.
+[19] Faced with an assessment arising from an alternative method, Centrepoint has the choice of either proving that its records were adequate, attacking the alternative method used by the Minister or showing that another method would produce a more accurate picture of its net tax. Centrepoint cannot prove that its records were adequate. The simple fact is that Centrepoint did not maintain the point of sale records that would have allowed Mr. Melka to determine how GST was calculated on each sale. Therefore Centrepoint must either attack the alternative method used by the Minister or show that another method produces a more accurate picture of its net tax.
+[20] Centrepoint criticized the Cup Analysis. These criticisms are irrelevant. The Cup Analysis was not the alternative method used by the Minister to assess Centrepoint. That alternative method is described below. The Cup Analysis was merely a rough analysis designed to show Mr. Melka whether he should conduct a more accurate analysis using a different method. Centrepoint gains nothing from challenging it[5].
+[21] The alternative method chosen by Mr. Melka was to look at the rate of GST collected by three other Saint Cinnamon franchises. I will refer to this method as the “Comparison Analysis”. It is the Comparison Analysis that Centrepoint needs to attack in order to succeed on its appeal. Mr. Melka gathered GST and supply information from the GST returns filed by these other Saint Cinnamon franchises. He totalled the GST collected by all three franchises. He also totalled the supplies made by all three franchises. He then divided the total GST by the total supplies in order to determine, on average, what percentage the GST collected by the franchises represented of their supplies (the “Average GST Collection Percentage”). He conducted the same analysis on a franchise-by-franchise basis in order to determine the individual GST Collection Percentage for each franchise and did the same thing for Centrepoint in order to determine Centrepoint’s GST Collection Percentage. He repeated this analysis for each of the reporting periods in question. Mr. Melka then multiplied the Average GST Collection Percentage for each reporting period by Centrepoint’s supplies for that reporting period in order to determine the GST that Centrepoint would have collected had it been collecting GST in line with the Average GST Collection Percentage. Mr. Melka deducted the resulting figure from the GST that Centrepoint actually collected in each reporting period and the Minister assessed Centrepoint for the resulting shortfall.
+[22] The Average GST Collection Percentage in each reporting period was approximately two to three times Centrepoint’s GST Collection Percentage for the same period. The following chart shows the range of percentages:
+Year[6]
+Franchise #1 GST Collection Percentage
+Franchise #2 GST Collection Percentage
+Franchise #3 GST Collection Percentage
+Average
+GST Collection Percentage[7]
+Centrepoint’s GST Collection Percentage
+2005
+6.20%
+6.27%
+5.52%
+6.08%
+2.06%
+2006
+5.72%
+5.86%
+4.75%
+5.62%
+2.07%
+2007
+5.36%
+5.43%
+5.17%
+5.37%
+2.70%
+2008
+4.47%
+4.42%
+4.65%
+4.47%
+1.74%
+[23] Centrepoint attacked the Comparison Analysis. Centrepoint questioned whether the comparison franchises were fair comparisons. Mr. Melka testified that, in conducting the Comparison Analysis, he selected three Saint Cinnamon franchises to ensure that, as near as possible, he was dealing with the same product mix as Centrepoint’s franchise. He selected franchises from three different cities. Each franchise had a different population base to draw from and different levels of sales. Mr. Melka testified that he only reviewed the data of these three franchises so I am satisfied that the comparison franchises were not cherry picked to support the Minister’s position. I accept that the comparison franchises may have had a different product mix available for purchase than Centrepoint or may have made a different mix of taxable and zero rated supplies. However, when I look at the tight range of GST Collection Percentages for each of the comparison franchises, it is clear that there was very little variation among them. The difference was between them and Centrepoint.
+[24] For Centrepoint to succeed in arguing that the comparison franchises were not fair comparisons, it would have to show that its operations were vastly different from those of each of the comparison franchises. It failed to do so. The simple reality is that Saint Cinnamon franchises primarily sell coffee and cinnamon buns. While the sales of some franchises may lean more to coffee and the sales of other franchises may lean more to cinnamon buns, this would not make any difference because both of these products are taxable supplies. While some franchises may sell more tea or hot chocolate and less coffee and others may sell more scones and fewer cinnamon buns, again none of this would make any difference as all of these products are taxable supplies.
+[25] Centrepoint pointed out that there is no way of telling from the GST returns of the franchises in question whether the supplies figures used by Mr. Melka included exempt or zero rated supplies from one or more other businesses operated by those franchises. This argument actually undermines Centrepoint’s position. If the comparison franchises had included exempt or zero rated supplies from other businesses in their GST returns, I would have expected the GST Collection Percentage for those franchises to be a lower figure than Centrepoint’s GST Collection Percentage not a higher figure. To have succeeded on this argument, instead of arguing that the comparison franchises may have made significant exempt or zero rated supplies, Centrepoint would have had to argue that it made significantly more exempt or zero rated supplies that the comparison franchises. Centrepoint did not introduce any evidence that would support that position. There was no indication that it operated a separate business making zero rated or exempt supplies. There was no evidence that Centrepoint made any exempt supplies in its Saint Cinnamon business. The primary type of zero rated supplies in a Saint Cinnamon franchise would be sales of six or more cinnamon buns or comparable products (Excise Tax Act, Part VI, Schedule III, section 1(m)). Lesley Beauchamp, a former Centrepoint employee who had worked as a cashier in the relevant time period, testified that sales of boxes of six or more cinnamon buns did not make up a significant portion of Centrepoint’s sales. She explained that cinnamon buns were most commonly sold as single buns and that, outside of the holiday season, in a typical evening shift Centrepoint would only sell one or two packages of cinnamon buns (a package being containing either 4, 6 or 12 buns)[8]. Based on Ms. Beauchamp’s evidence, I conclude that Centrepoint did not have significant zero rated supplies.
+[26] The better way for Centrepoint to attack the Comparison Analysis would have been to suggest that the comparison franchises may have made taxable supplies in other businesses that they operated and that those additional taxable supplies would have made it appear that these franchises had a higher GST Collection Percentage. While I appreciate that there is a risk that this occurred, given the narrow band of percentages of GST collected across the three comparison franchises, I think that it is unlikely. For it to have occurred, each of the three franchises would have had to make taxable supplies outside of their franchise operations that represented a similar percentage of their overall sales.
+[27] Based on all of the above, I conclude that Mr. Melka selected a reasonable set of comparison franchises.
+[28] Centrepoint also argued the Mr. Melka made no attempt to verify that the amounts reported on the GST returns of the comparison franchises were accurate. I do not think that this lack of verification causes a realistic risk that the Comparison Analysis was inaccurate. The Comparison Analysis uses the amount of supplies made by these franchises and the amount of GST that they collected. It seems unlikely that the franchises would have overstated either of those amounts on their GST returns since taxpayers do not tend to intentionally cause themselves to remit more tax than they are required to remit. If anything, the risk is that the comparison franchises understated these amounts. Thus, it seems to me that any risk that Mr. Melka relied on inaccurate data would be a risk to the Minister, not Centrepoint.
+[29] Centrepoint provided its own alternative method of determining the amount of GST that it should have collected. Centrepoint served cinnamon buns and comparable products such as scones on disposable plates when they were consumed in-store and in boxes when they were taken away by the customer. There was a range of sizes and types of both boxes and plates. Centrepoint totalled all of the plates and boxes that it purchased from February 1, 2005 to January 31, 2006. It then determined the average price at which a cinnamon bun or comparable product would have sold for each particular type of plate or box. It then multiplied the average prices by the number of plates or boxes purchased. Finally, Centrepoint totalled the resulting figures to arrive at an estimate of the total sales of cinnamon buns and comparable products that it made in the period. Working on the apparent assumption that all sales of cinnamon buns and comparable products were zero rated, Centrepoint then deducted the total cinnamon bun and comparable product sales from its total sales and applied GST to the difference. My understanding is that the result was that Centrepoint’s GST collected in the sample period using this alternative method was only a couple of thousand dollars higher than the GST that Centrepoint actually collected[9]. I will refer to this method of calculating GST as the “Plate & Box Analysis”. My understanding is that the purpose of the Plate & Box Analysis was to demonstrate that the GST that Centrepoint actually collected was accurate.
+[30] The Plate & Box Analysis is not an acceptable alternative to the Comparison Analysis. It was only performed for 12 months out of the 54 months in issue. I have no idea what the analysis would have shown had it been done for the remaining months. More importantly, it appears to make the sweeping assumption that all sales of cinnamon buns and comparable products were zero rated supplies. As discussed above, Part VI, Schedule III, section 1(m) would make supplies of six or more such products zero rated. From what I can tell from the descriptions of the plates and boxes purchased in the analyzed period, almost 90% of the sales would have been of fewer than six products. Thus, it makes no sense to use an alternative method of determining GST which excludes all sales of cinnamon buns and comparable products. In fact, the analysis undermines Centrepoint’s position by showing that, even if I were to make the unrealistic assumption that all sales of cinnamon buns and comparable products were zero rated, Centrepoint would still not have collected enough GST.
+[31] Mr. Stathopolous provided a wildly improbably explanation of why he believed that sales of cinnamon buns in Saint Cinnamon franchises were zero rated. He testified that the Saint Cinnamon franchisor told him when he bought the franchise that the CRA had provided the franchisor with a special exemption from section 1(m) due to the fact that its cinnamon buns were so large and heavy that the purchase of four buns was equivalent to the purchase of six equivalent products. Mr. Stathopolous stated that he did not have a copy of the document by which the franchisor communicated this information to him. He was unable to direct me to anything in the legislation granting such an exception or to anything in Part VI, Schedule III that would allow the Minister to create exemptions to that Schedule by regulation. He provided no details on what the magic weight and size parameters were that qualified a product for exemption or why, for example, the sale of a single large cake or four Tim Horton’s long Johns would not be exempt but the sale of four Saint Cinnamon cinnamon buns would be. He also provided no explanation of why he thought the exemption would apply to the following, all of which it appears were included in the Plate & Box Analysis: sales of fewer than four cinnamon buns; sales of smaller, lighter non-cinnamon bun products such as scones; and sales of mini cinnamon buns in quantities of fewer than six. If such an exemption existed or was incorrectly communicated to franchisees by the franchisor, presumably the other Saint Cinnamon franchises would have taken advantage of it as well and the resulting lower rate of GST collection would have been reflected across all of the comparison franchises in the Comparison Analysis. That was clearly not the case. Based on the foregoing, not only do I find that the Plate & Box Analysis is not an acceptable alternative to the Comparison Analysis, but I also find that Mr. Stathopolous was not a credible witness.
+[32] Based on all of the foregoing, I find that Centrepoint has failed to demonstrate that its records were sufficiently adequate that an alternative method of assessment was not necessary, that the alternative method of assessment selected by the Minister was flawed or that the alternative method proposed by it would result in a more accurate assessment. Accordingly, I will not be adjusting the addition to net tax assessed by the Minister on account of GST that was not collected on taxable supplies.
+[33] Having accepted the addition to net tax determined by the Minister, I must now consider whether it was appropriate to apply gross negligence penalties to that adjustment. I conclude that it was.
+[34] The additional net tax payable as a result of this adjustment was $46,418. This is 152% of the GST that Centrepoint reported as having collected on its sales.
+[35] Mr. Melka concluded that the problem with the GST collection arose from the point of sale systems not being programmed correctly. The fact that Centrepoint’s GST Collection Percentage was so much lower than the Average GST Collection Percentage indicates to me that it was only Centrepoint’s point of sale systems that were programmed differently, not those of all franchisees. Mr. Stathopolous testified that the point of sale systems were programmed by the franchisor and that he did not alter that programming in any way. He submitted that any error that was made in the programming must have been made by the franchisor. Since I do not find Mr. Stathopolous to be credible, I do not accept his explanation. I therefore conclude that it was Centrepoint, not the franchisor, who changed the programming on its point of sale systems. The question that remains is whether Centrepoint was grossly negligent in making that change.
+[36] Despite the fact that under-collecting GST did not put money directly into Centrepoint’s pockets, Centrepoint nonetheless had a financial motive to reprogram its point of sale systems. Early in the periods in question, a Tim Horton’s franchise opened in the same mall where Centrepoint’s franchise was located. Ms. Beauchamp testified that there a noticeable drop in Centrepoint’s sales when this occurred. Removing GST from certain sales would have allowed Centrepoint to compete on price with Tim Hortons more effectively which would, in turn, have allowed Centrepoint to reduce the decline in its sales. This financial motive for reprogramming the point of sale systems leads me to conclude that Centrepoint knowingly changed the programming with the intention of reducing the GST it collected.
+[37] Based on all of the foregoing, I find that the gross negligence penalties on the unreported taxable supplies should be upheld.
+Conclusion [38] Based on all of the foregoing:
+a) Centrepoint’s income tax appeal is allowed and the matter referred back to the Minister for reconsideration and reassessment on the basis that Centrepoint was not grossly negligent in respect of the disallowed expenses;
+b) Mr. Stathopolous’ appeal is allowed and the matter referred back to the Minister for reconsideration and reassessment on the basis that Mr. Stathopolous was not grossly negligent in respect of the shareholder benefits he received; and
+c) Centrepoint’s GST appeal is allowed and the matter referred back to the Minister for reconsideration and reassessment on the basis that Centrepoint was not grossly negligent in respect of the input tax credits that it claimed on the disallowed expenses.
+Signed at Ottawa, Canada this 25th day of November, 2015.
+“David Graham”
+Graham J.
+CITATION:
+2015 TCC 296
+COURT FILE NOS.:
+2013-2610(GST)I
+2013-2615(IT)I
+2014-102(IT)I
+STYLES OF CAUSE:
+CENTREPOINT FOODS CORPORATION and HER MAJESTY THE QUEEN
+JOHN STATHOPOLOUS and HER MAJESTY THE QUEEN
+CENTREPOINT FOODS CORPORATION and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Belleville , Ontario
+DATE OF HEARING:
+October 20, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+November 25, 2015
+APPEARANCES:
+Agent for the Appellant:
+Wayne Warner
+Counsel for the Respondent:
+Christopher Kitchen
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In essence, the agent, who was a former CRA auditor, conducted the Appellants' case as if he were still working for the Minister and could sit back and rely on the other side's lack of evidence to win.
+[2] Centrepoint originally used cash registers. At some point it switched to using a point of sale system. The evidence was not clear on when this occurred. As nothing appears to turn on this point I will simply refer to the relevant system as a point of sale system.
+[3] Mr. Stathopolous testified that the system automatically overwrote the data every 6 to 9 months and that he did not make copies of the data before that occurred. Given the conclusions I have made about Mr. Stathopolous' credibility, I question whether this is true. Thus I am unsure whether the data did not exist or whether it was simply not provided.
+[4] I take this implausible explanation into account in my determination of Mr. Stathopolous’ credibility discussed in more detail below.
+[5] Centrepoint’s criticism of the Cup Analysis focused on non-taxable uses of cups such as double-cupping hot beverages. Mr. Stathopolous' testimony on the usage of cups was largely contradicted by the testimony of a former Centrepoint employee, Lesley Beauchamp. I preferred the evidence of Ms. Beauchamp both because she has no apparent reason to mislead me and because I have otherwise concluded that Mr. Stathopolous is not credible. Thus, even if the Cup Analysis had been the alternative method of assessment used by the Minister, I would still have found that Centrepoint was unsuccessful in attacking it.
+[6] The GST rate was 7% in 2005, changed to 6% part way through 2006 and changed to 5% in 2008. This presumably accounts for the decrease in each year in the GST Collection Percentage for each franchise and in the Average GST Collection Percentage.
+[7] Note that the average of the GST Collection Percentages for each individual franchise is not equal to the Average GST Collection Percentage. This is because, instead of averaging the GST Collection Percentages for each franchise, Mr. Melka totalled the GST collected by all three franchises and divided it by the total of the supplies made by all three franchises. This had the effect of weighting the Average GST Collection Percentage in favour of the GST Collection Percentage of the largest franchise as that franchise’s supplies were greater than or equal to the combined supplies of the other two franchises. This weighting made a difference of less than 0.2% in the Average GST Collection Percentage calculated for each year and actually favoured Centrepoint in one of the years. Centrepoint neither identified nor raised any concerns with this weighting at trial.
+[8] Ms. Beauchamp testified that there was only one cashier working during evening shifts. Thus I accept that the observations that she made of the sales that occurred during an evening shift are an accurate reflection of the total sales made during that shift.
+[9] I say that this is my understanding because the spreadsheet entered into evidence by Centrepoint did not actually complete the second half of the calculation. It determined the total sales that Centrepoint submits would have been zero rated but did actually go so far as to deduct that amount from total sales and apply GST to the difference.

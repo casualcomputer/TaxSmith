@@ -1,0 +1,156 @@
+---
+title: "Janovsky c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31172/index.do"
+last_modified: "2013-05-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 140"
+citation2: ""
+neutral_citation: "2013 CCI 140"
+decision_date: "2013-05-02"
+language: "fr"
+item_id: "31172"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5066
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:20:13.695000+00:00"
+cases_cited_count: 2
+cases_citing_count: 14
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "e58a30f81fb46e7d6ce845b14fd898a875f1228157be00893d6f4424fae820c3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Janovsky c. La Reine
+
+- Citation: 2013 CCI 140
+- Decision date: 2013-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5066, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Janovsky c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-05-02
+Référence neutre
+2013 CCI 140
+Numéro de dossier
+2012-4340(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2013 CCI 140
+Date : 20130502
+Dossier : 2012-4340(IT)I
+ENTRE :
+JAN JANOVSKY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 24 avril 2013 à Edmonton (Alberta))
+La juge V.A. Miller
+[1] Le présent appel concerne l’année d’imposition 2009 de Jan Janovsky. La seule question que soulève l’appelant est celle de savoir s’il est tenu de payer des pénalités pour faute lourde en application du paragraphe 163(2) de la Loi sur l’impôt sur le revenu (la « Loi »).
+[2] Lorsqu’il a produit sa déclaration de revenus pour 2009, l’appelant a déclaré un revenu d’entreprise brut de 21 583,30 $; il a déduit des pertes de 29 157 $ pour une entreprise d’[traduction] « activités de mandataire » et il a demandé que cette somme soit reportée rétroactivement sur ses années d’imposition 2006 et 2007. Lorsqu’il a établi la nouvelle cotisation de l’appelant, le ministre a procédé à divers rajustements, mais le principal d’entre eux a consisté à rejeter la perte d’entreprise pour « activités de mandataire » et à imposer une pénalité en application du paragraphe 163(2). Pour déterminer l’obligation fiscale de l’appelant, le ministre s’est fondé sur plusieurs hypothèses, que l’appelant n’a pas contestées :
+[traduction]
+a) en 2009, l’appelant était un étudiant en sténographie judiciaire qui terminait ses études au Northern Alberta Institute of Technology;
+b) en 2009, l’appelant a reçu un prêt étudiant de 2 030 $;
+c) l’appelant n’a payé aucune retenue à la source en 2009;
+d) en 2009, l’appelant était aussi musicien à son compte, présentant des spectacles sous le nom de « Janovsky » à bord de navires de croisière (l’entreprise de musicien antérieurement définie);
+e) l’appelant a tiré de son entreprise de musicien un revenu d’entreprise brut de 18 290,93 $;
+f) pour son entreprise de musicien, l’appelant a engagé des dépenses d’un montant maximal de 9 452,40 $ pour l’année d’imposition 2009, comme il est indiqué en détail dans l’annexe ci-jointe;
+g) l’appelant a tiré de son entreprise de musicien un revenu d’entreprise net de 8 838,53 $;
+h) l’appelant a payé des intérêts de 850 $ sur son prêt étudiant;
+i) l’appelant a engagé des frais médicaux de 922 $;
+j) l’appelant a payé des droits de scolarité de 1 977 $;
+k) l’appelant avait droit au crédit d’impôt pour études et pour manuels de 2 325 $;
+l) l’appelant a déclaré un revenu d’entreprise brut de 21 583,30 $ pour 2009;
+m) l’appelant a déclaré des dépenses d’entreprise de 50 740,30 $ pour 2009;
+n) l’appelant a déduit des pertes d’entreprise de 29 157,00 $ (les pertes déclarées pour activités de mandataire antérieurement définies);
+o) l’appelant a indiqué dans sa déclaration de revenus pour l’année d’imposition 2009 que l’entreprise était à titre de [traduction] « mandataire »;
+p) au cours de l’année d’imposition 2009, l’appelant n’a pas exploité d’entreprise de « mandataire »;
+q) l’appelant a indiqué que le revenu de 21 583,30 $ qu’il avait tiré de cette entreprise était des « sommes reçues à titre de mandataire »;
+r) l’appelant n’a touché aucun revenu à titre de mandataire;
+s) l’appelant a déclaré que ses dépenses d’entreprise de 50 740,30 $ étaient un [traduction] « montant du mandataire au mandant »;
+t) l’appelant n’a payé aucun montant du « mandataire au mandant »;
+u) l’appelant n’a engagé aucune dépense d’entreprise relative au « montant du mandataire au mandant » en 2009;
+v) l’appelant n’a pas subi de perte d’entreprise en 2009;
+w) l’appelant n’a pas touché son revenu à titre de mandataire d’un mandant;
+x) l’appelant a signé sa déclaration de revenus pour l’année d’imposition 2009 « par » lui-même;
+y) la position de l’appelant est fondée sur un scénario;
+z) l’appelant a participé sciemment à une forme de stratagème d’évitement fiscal en vue d’éviter de payer de l’impôt;
+aa)l’appelant n’a participé à aucune activité ou entreprise de mandataire.
+[3] Il incombait à l’intimée d’établir les faits qui justifiaient l’imposition des pénalités pour faute lourde. À l’appui de sa position, elle s’est fondée sur l’affidavit de Connie Yeung, agente des litiges auprès du Bureau des services fiscaux de Vancouver, de même que sur la preuve de l’appelant.
+[4] L’appelant est âgé de 33 ans. Il est musicien à son compte et enseigne la musique à la Sherwood Park School of Music, en Alberta. Il a deux diplômes en musique – l’un comme artiste interprète de jazz et l’autre comme pianiste classique.
+[5] À un moment donné, il a servi dans l’armée et a suivi une formation de poseur de lignes. Il est inscrit à un programme de sténographie judiciaire au Northern Alberta Institute of Technology depuis septembre 2009, où il a suivi tous les cours théoriques et s’efforce maintenant d’acquérir la rapidité d’exécution qui est exigée pour obtenir son certificat de sténographe judiciaire.
+[6] En 2009, le père de sa petite amie, Martin Whitaker, lui a parlé d’une organisation appelée « Fiscal Arbitrators (« FA ») ». Martin Whitaker et lui ont assisté à une réunion parrainée par les FA, à Edmonton, où on lui a dit que cette organisation lui obtiendrait le remboursement le plus élevé possible. Il a appris à cette occasion qu’une personne physique n’avait pas à payer d’impôt et que la personne fictive pouvait déduire des dépenses pour le compte de la personne physique. Le [traduction] « mandataire » est la personne physique et la personne fictive. Un certain Larry Watts lui a dit que ce que les FA faisaient était légitime et basé sur leur connaissance et leur interprétation de la loi.
+[7] L’appelant a cru comprendre que M. Watts était comptable et qu’il avait travaillé pour l’Agence du revenu du Canada (« ARC »). Il a qualifié M. Watts d’expert en droit.
+[8] L’appelant a payé aux FA la somme de 500 $ pour faire établir sa déclaration de revenus pour 2009 et a promis de leur remettre 20 % de tout montant qu’il recevrait de l’ARC. Les FA ont établi la déclaration de l’appelant et la lui ont remise pour qu’il la passe en revue, la signe et l’envoie à l’ARC.
+[9] L’appelant a dit ne pas comprendre qu’il avait déclaré une perte de 29 157 $ ou qu’il avait demandé un report rétrospectif sur les années d’imposition 2006 et 2007.
+[10] Il a déclaré qu’après avoir été l’objet d’une nouvelle cotisation il a tenté de communiquer avec M. Watts, mais que ce dernier n’a pas répondu. Au lieu de cela, Alexander Di Mauro, qui, je présume, est lui aussi associé aux FA, a convenu d’aider l’appelant à régler le présent appel en échange d’honoraires de 1 000 $. Comme l’appelant n’a pas payé les honoraires, aucune aide ne lui a été fournie.
+[11] En réponse à une question de ma part sur le calcul des dépenses déduites dans sa déclaration de revenus, l’appelant a dit qu’il ignorait comment ces dépenses avaient été calculées et qu’il n’avait pas posé la question. Il ne comprenait pas non plus ce que voulait dire la note [traduction] « montant du mandataire au mandant ». Il a plus tard ajouté que le montant des dépenses se composait de toutes les sommes qu’il avait dépensées pour son entreprise de musique et de tous les frais qu’il avait engagés en tant qu’étudiant. Il n’a produit aucun document à l’appui de ses dires.
+[12] L’appelant a exprimé l’avis qu’il avait confiance en les FA et que cette organisation avait envers lui une obligation de diligence. Il a toujours payé ses impôts et il avait remis aux FA la totalité de ses documents, comme il l’avait fait avec H&R Block les années précédentes. Il croyait que les représentants des FA étaient des experts en fiscalité. C’était le père de sa petite amie, un homme à la fois fortuné et bien renseigné, qui l’avait orienté vers les FA.
+[13] Je suis d’avis que l’intimée a établi que le ministre était en droit d’imposer des pénalités pour faute lourde.
+[14] Voici le texte du paragraphe 163(2) de la Loi :
+163(2) Faux énoncés ou omissions – Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants […].
+[15] Le paragraphe 163(2) comporte deux éléments. Dans les circonstances du présent appel, l’intimée avait à montrer que l’appelant avait fait un faux énoncé dans sa déclaration de revenus de 2009 et que ce faux énoncé avait été fait sciemment ou dans des circonstances équivalant à faute lourde.
+[16] Dans sa déclaration relative à l’année 2009, l’appelant a indiqué que lui, à titre de mandataire, avait payé une dépense de 50 740,30 $ à lui-même à titre de mandant. Il ne comprenait peut-être pas ce que cela voulait dire, mais il savait qu’il n’avait pas engagé une telle dépense en 2009. J’ai conclu que l’appelant a bel et bien fait un faux énoncé dans sa déclaration. En fait, il l’a admis. Il a reconnu que la nouvelle cotisation du ministre était exacte, sauf pour ce qui était de l’imposition de pénalités pour faute lourde. Ce faisant, l’appelant a également souscrit aux hypothèses qu’a formulées le ministre au moment d’établir son obligation fiscale.
+[17] L’avocate de l’intimée a déclaré qu’elle ne pensait pas que l’appelant avait fait sciemment un faux énoncé dans sa déclaration de revenus, mais qu’il avait fait preuve d’aveuglement volontaire. L’intimée a exprimé l’avis que la faute lourde englobe la notion d’aveuglement volontaire : Villeneuve c Canada, 2004 CAF 20, au paragraphe 6.
+[18] Je conviens avec l’avocate de l’intimée que la faute lourde englobe la notion d’aveuglement volontaire. Mais je suis d’avis qu’il ressort de la preuve produite dans le présent appel que l’appelant a fait sciemment le faux énoncé.
+[19] L’appelant est instruit. Il a deux diplômes universitaires et étudie maintenant pour devenir sténographe judiciaire.
+[20] L’ampleur du faux énoncé est énorme. En 2009, l’appelant n’a tiré un revenu que de son entreprise de musicien. Son revenu brut a été de 18 290,93 $, et ses frais se sont élevés à 9 452,40 $. En examinant ces frais et ceux qu’il avait engagés en tant qu’étudiant, il aurait dû savoir que la dépense d’entreprise de 50 740,30 $ qui était indiquée dans sa déclaration de revenus était inexacte. Son revenu réel net était de 10 868 $ et, pourtant, il avait déclaré une perte d’entreprise de 29 157 $. Il s’agit là d’un faux énoncé de 40 025 $.
+[21] Dans sa déclaration concernant l’année d’imposition 2009, l’appelant a également demandé un report rétrospectif sur 2006 et 2007 de 8 787 $ et de 20 370 $, respectivement. Si ces pertes avaient été admises, l’appelant aurait obtenu un remboursement équivalant à la totalité des montants d’impôt sur le revenu qu’il avait payés ces années-là. En 2006 et en 2007, le montant total d’impôt que l’appelant avait à payer s’élevait à 1 021,10 et 4 379,90 $, respectivement.
+[22] L’appelant dit avoir passé en revue sa déclaration avant de la signer et ne pas avoir posé de questions. Il a déclaré qu’il faisait confiance aux FA car il s’agissait d’experts en fiscalité. Cette déclaration est, selon moi, peu vraisemblable. Il a assisté à une seule réunion avec les FA en 2009. Il n’avait jamais entendu parler de ces derniers auparavant et, pourtant, entre la réunion qu’il a eue avec eux et la production de sa déclaration en juin 2010, il n’a jamais posé de questions sur les FA. Il n’a mis en doute ni leurs titres de compétence ni leurs prétentions. Dans son désir de toucher un remboursement élevé, l’appelant n’a pas essayé de se renseigner sur eux.
+[23] Compte tenu du niveau d’instruction de l’appelant et de l’ampleur du faux énoncé qu’il a fait dans sa déclaration de 2009, je suis d’avis que l’appelant savait que les montants indiqués dans sa déclaration étaient faux.
+[24] Si je me trompe et si l’appelant n’a pas fait sciemment ce faux énoncé, je conclus dans ce cas qu’il a fait montre d’aveuglement volontaire. S’il est vrai qu’il ne comprenait pas la terminologie qu’ont utilisée les FA dans sa déclaration ni la façon dont les FA avaient calculé ses dépenses, il avait dans ce cas le devoir de se renseigner auprès de personnes étrangères aux FA. Dans un régime d’autocotisation tel que le nôtre, l’appelant avait le devoir de s’assurer que son revenu et ses dépenses étaient correctement déclarés. Notre régime d’imposition est fondé sur un système d’autodéclaration et d’autocotisation, et son succès dépend de l’honnêteté et de l’intégrité des contribuables : R c McKinlay Transport Ltd., [1990] 1 RCS 627. L’attitude cavalière de l’appelant témoigne d’un tel degré de négligence ou d’aveuglement volontaire qu’elle doit être qualifiée de faute lourde : Chénard c La Reine, 2012 CCI 211.
+[25] L’appelant s’est fondé sur le fait que les FA avaient une obligation de diligence à son égard. Je lui ai expliqué que la Cour n’est pas compétente à l’égard de cette question.
+[26] En conclusion, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 2e jour de mai 2013.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 17e jour de juin 2013.
+S. Tasset
+RÉFÉRENCE : 2013 CCI 140
+No DU DOSSIER DE LA COUR : 2012-4340(IT)I
+INTITULÉ : JAN JANOVSKY ET LA REINE
+LIEU DE L'AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 24 avril 2013
+MOTIFS DU JUGEMENT : L’honorable juge Valerie Miller
+DATE DU JUGEMENT : Le 2 mai 2013
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocats de l’intimée :
+Me Wendy Bridges
+Me Robert Neilson
+AVOCATS INSCRITS
+AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

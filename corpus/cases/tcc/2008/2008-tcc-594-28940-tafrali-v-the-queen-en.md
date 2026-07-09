@@ -1,0 +1,182 @@
+---
+title: "Tafrali v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28940/index.do"
+last_modified: "2008-10-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 594"
+citation2: ""
+neutral_citation: "2008 TCC 594"
+decision_date: "2008-10-30"
+language: "en"
+item_id: "28940"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1380
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:42:16.639000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5d96ca80322d0df819038b9e957fb48564b64bb261526ba45ef838d495127808"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tafrali v. The Queen
+
+- Citation: 2008 TCC 594
+- Decision date: 2008-10-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1380, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tafrali v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-30
+Neutral citation
+2008 TCC 594
+File numbers
+2008-786(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-786(IT)I
+BETWEEN:
+HASAN TAFRALI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 21, 2008, at Edmonton, Alberta
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+Agent for the Appellant:
+Charles Rubayiza
+Counsel for the Respondent:
+Robert Neilson
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act (“Act”) for the Appellant’s 2004 and 2005 taxation years are allowed, in part and without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount of the unreported income of the Appellant in 2004 is reduced from $27,145 to $21,480 and the amount of unreported income for 2005 is reduced from $13,850 to $10,350. The penalties imposed pursuant to subsection 163(2) of the Act, reduced to reflect these revised amounts of unreported income, are confirmed.
+Signed at Ottawa, Ontario, this 30th day of October 2008.
+“Wyman W. Webb”
+Webb J.
+Citation: 2008TCC594
+Date: 20081030
+Docket: 2008-786(IT)I
+BETWEEN:
+HASAN TAFRALI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb J.
+[1] The issue in these appeals is whether the Appellant had received payments in cash from Deniz Pehlivanlar, who was carrying on a business as a sole proprietor under the name Flying Carpet (“Flying Carpet”). Flying Carpet carried on a business that was restricted to laying carpet, linoleum or cork as flooring. The Respondent has reassessed the Appellant to include additional amounts in his income in 2004 and 2005 and has assessed gross negligence penalties under subsection 163(2) of the Income Tax Act (“Act”) in relation to the unreported amounts.
+[2] In 2004 and 2005 the Appellant worked for Flying Carpet. He would do whatever he could to help Deniz Pehlivanlar lay carpet. He stated that he was paid $8 per hour based on working 25 hours per week (or $200 a week). He stated that he was paid every second week by cheque in the amount of $400 and that the only payments that he had received from Flying Carpet were made by cheque. The Appellant also stated that the total amount that he received from Flying Carpet in 2004 was $5,665.13 and that this amount was included in his income for tax purposes when he filed his tax return for 2004. He also stated the total amount that he received from Flying Carpet in 2005 was $3,500 and that this amount was also included in his income for tax purposes when he filed his tax return for 2005. For both years these amounts that he had received from Flying Carpet were identified as “other employment income” in his tax returns.
+[3] The Appellant worked for Flying Carpet for the period from the end of March or early April 2004 until May 2005. Following his employment with Flying Carpet he worked for a numbered company that was incorporated on May 13, 2005. This company was formed by the Appellant and another individual. That arrangement only lasted a few months and then the Appellant formed his own company. On September 20, 2005 the Appellant incorporated “Sindomal Flooring Ltd.” His income in 2004 and 2005 as reported in his 2004 and 2005 income tax returns was comprised of the following:
+Source
+2004
+2005
+1170658 Alberta Ltd.
+$6,240
+Sindomal Flooring Ltd.
+$2,496
+Flying Carpet (identified as other employment income)
+$5,665
+$3,500
+Total:
+$5,665
+$12,236
+[4] Despite the modest amounts of reported income the Appellant supported his wife and one child in 2004 and his wife and two children in 2005 in Calgary. The Appellant and his family lived in Calgary Housing and the monthly rent was $240 per month. The Appellant indicated that he and his family survived on assistance that they received from the government, as well as on food that they had received from the food bank.
+[5] In March 2006, the Appellant purchased a home. The purchase price of the house was $355,000. The Appellant obtained a mortgage for $285,224 from TD Canada Trust. The Appellant paid the balance of the purchase price from three sources – from funds that he had obtained from his father-in-law in Turkey, from a line of credit provided by the Royal Bank and from payments to him from his company, Sindomal Flooring Ltd.
+[6] In the TD Canada Trust Mortgage Commitment the following requirement was noted:
+CCRA Notice of Assessment for 2003 and 2004 years are required for Hasan Tafrali confirming a minimum average net income of $78,923.
+[7] The following notes also appear in the Deal Notes document obtained from TD Canada Trust:
+Current Employment Information: Company Name: SINDOMAL FLOORING LTD. Employment type: Full time Job Title: FLOORS AND CARPET INSTALLER Occupation: Self-employed Industry Sector: Construction Months of Service: 40 months … INCOME/YEAR Annual Amount: $78,923
+[8] Even though the Appellant had filed a tax return for 2004 in which he reported that his total income for that year was $5,665, a copy of a Notice of Assessment for 2004 with the Appellant’s name and social insurance number was submitted to TD Canada Trust which stated that, for 2004, his total income was $91,358 and his net income was $80,683. A copy of a Notice of Assessment for 2003 with the Appellant’s name and social insurance number was submitted to TD Canada Trust which stated that, for 2003, his total income was $85,888 and his net income was $77,163.
+[9] The Appellant stated that these assessments that were submitted to TD Canada Trust did not reflect his income for 2003 or 2004. The Appeals Officer for the Canada Revenue Agency who dealt with his Notice of Objection testified and he stated that there is no record of the assessment of the Appellant for 2003 based on total income of $85,888 nor is there any record of the assessment of the Appellant for 2004 based on total income of $91,358. Therefore the origin of these assessments for 2003 and 2004 is not clear, but these were documents that the Appellant had submitted or that were submitted on his behalf to TD Canada Trust in support of his mortgage application.
+[10] It is clear from the mortgage documents that the Appellant needed to establish net income of at least $78,923 in order to obtain the mortgage and it is also clear that the Appellant would not have been able to do this based on the income that he had reported in his tax return for 2004. His total income as reported for 2004 ($5,665) is only slightly more than 7% of the required income amount of $78,923 and only slightly more than 6% of the total income of $91,358 as stated in the “notice of assessment” that was submitted to TD Canada Trust. As the Appellant is claiming that his total income in 2004 was only $5,665 it does not help the Appellant’s credibility to have documents that were provided to TD Canada Trust in support of his mortgage application that shows substantially higher amounts of income and which documents must have been received from the Appellant or someone acting on his behalf. The Appellant must have known that he would not have been able to obtain a mortgage for $285,224 in early 2006 if he would have told TD Canada Trust that his total income for 2004 was only $5,665. The interest rate on the mortgage was 4.2%, which would mean that the annual interest would exceed $5,665 until the principal amount was less than $134,881.
+[11] Deniz Pehlivanlar also testified. He clearly stated that in addition to the cheques for $400 paid to the Appellant every second week, the Appellant also received substantial amounts in cash for the work that he was doing. He indicated that the agreement with the Appellant was that the Appellant would be paid $150 per day. He also indicated that it was at the Appellant’s request that the payment was split into payments in cash and payments by cheque. He indicated that the Appellant told him that the reason that he wanted the payments in cash and by cheque was so that he could show the Calgary Housing Authority that he was receiving some income, but not so much income so that he would no longer qualify for the subsidized housing. Deniz Pehlivanlar stated that he accommodated the Appellant because both the Appellant and Deniz Pehlivanlar were from Turkey and he wanted to help his fellow countryman.
+[12] Kim Carson, the spouse of Deniz Pehlivanlar also testified. She is a teacher and she also kept the books for Deniz Pehlivanlar’s business. She also clearly stated that the Appellant received cash payments. She had typed records of the dates and the amount of payments that were made to the Appellant. Her testimony and that of Deniz Pehlivanlar is in direct conflict with that of the Appellant.
+[13] In this case, I accept the testimony of Deniz Pehlivanlar and Kim Carson and find that the Appellant did receive cash payments from Flying Carpet in addition to the amount that he was paid by cheque. Kim Carson had maintained detailed records of the amounts and dates of the payments. The bank statements for the business showed cash withdrawals on various dates, which cash withdrawals would fund the cash payments to the Appellant.
+[14] As well, the Appellant stated that he would sometimes work for 4 and sometimes as many as 8 to 10 hours per day. He also stated that he would work, on average, 3 to 6 days per week. If the number of hours and the number of days fluctuated as much as indicated by the Appellant, why would the Appellant accept a flat amount of $8 per hour based on 25 hours per week?
+[15] As well, Kim Carson stated that a proposed agreement was presented to the Appellant for his signature on several occasions. The Appellant consistently refused to sign the document. The proposed agreement included the following:
+For the first three months, Hasan will be paid at a daily rate of $150. This amount will be redetermined at the end of three months (to a maximum daily rate of $250) depending on the business’ income.
+For the first three months, Hasan will be paid in cash. After this time, he’ll receive a cheque for wages on a bi-weekly basis.
+[16] The proposed agreement also included the following provisions:
+Deniz and Hasan have the option of working when the other is on holiday. At such times, a helper can be hired at a rate of $15/hour.
+…
+In the case of serious illness or injury, a temporary helper can be hired at a rate of $15/hour.
+[17] Why would the Appellant have worked for $8 per hour based on 25 hours per week if the Appellant, by signing this agreement, could have made $150 per day? Why would the Appellant work for $8 per hour if a helper would have been paid $15 per hour? It seems that the only logical explanation is that the Appellant was already being paid $150 per day and he did not want the full amount that he was being paid to be discovered. It appears that he may have been motivated not only by his access to the subsidized housing, but also by the reduced amount of taxes that he would have to pay if he only reported the amounts that he received by cheque in his tax returns.
+[18] As a result, I find that the Appellant did receive additional amounts from Flying Carpet in 2004 and 2005.
+[19] T5018 forms were completed and submitted to the Canada Revenue Agency showing the amounts that the Appellant was paid by Flying Carpet for 2004 and 2005. In the form for 2004 the total amount that was shown as being paid to the Appellant was $27,145. In 2005 the amount was $13,850. These are the amounts that were added to the Appellant’s income by the Respondent. Kim Carson confirmed that the total amounts paid to the Appellant included the amounts paid by cash and the amounts paid by cheque. The Appellant had included in his tax returns the amount that he had received by cheque. Therefore the amounts that the Appellant had reported in his tax returns should be deducted from the amounts as shown on the T5018 forms.
+[20] Therefore, the amounts that should be added to the Appellant’s income for 2004 and 2005 to the amount that he had reported would be the following:
+2004
+2005
+Amount added to Income by the Respondent:
+$27,145
+$13,850
+Less: Amount Reported by the Appellant:
+($5,665)
+($3,500)
+Amount Not reported by the Appellant:
+$21,480
+$10,350
+[21] Penalties were also imposed pursuant to subsection 163(2) of the Act. This subsection provides, in part, as follows:
+163(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+(a) the amount, if any, by which
+(i) the amount, if any, by which
+(A) the tax for the year that would be payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person's tax for the year
+if the person's taxable income for the year were computed by adding to the taxable income reported by the person in the person's return for the year that portion of the person's understatement of income for the year that is reasonably attributable to the false statement or omission and if the person's tax payable for the year were computed by subtracting from the deductions from the tax otherwise payable by the person for the year such portion of any such deduction as may reasonably be attributable to the false statement or omission
+exceeds
+(ii) the amount, if any, by which
+(A) the tax for the year that would have been payable by the person under this Act
+exceeds
+(B) the amounts that would be deemed by subsections 120(2) and (2.2) to have been paid on account of the person's tax for the year
+had the person's tax payable for the year been assessed on the basis of the information provided in the person's return for the year,
+[22] The penalty is imposed if the Appellant “knowingly, or under circumstances amounting to gross negligence” failed to report as income all of the amounts that he had received from Flying Carpet as income. In this case, I find that it is more likely than not that the Appellant knowingly underreported his income for each of these years, and therefore the penalties imposed pursuant to subsection 163(2) of the Act based on the revised amounts of unreported income of $21,480 for 2004 and $10,350 for 2005 are confirmed.
+[23] As a result, the appeals are allowed, in part and without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the amount of the unreported income of the Appellant in 2004 is reduced from $27,145 to $21,480 and the amount of unreported income for 2005 is reduced from $13,850 to $10,350. The penalties imposed pursuant to subsection 163(2) of the Act, reduced to reflect these revised amounts of unreported income, are confirmed.
+Signed at Ottawa, Ontario, this 30th day of October 2008.
+“Wyman W. Webb”
+Webb J.
+CITATION: 2008TCC594
+COURT FILE NO.: 2008-786(IT)I
+STYLE OF CAUSE: HASAN TAFRALI AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: October 21, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: October 30, 2008
+APPEARANCES:
+Agent for the Appellant:
+Charles Rubayiza
+Counsel for the Respondent:
+Robert Neilson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,228 @@
+---
+title: "Mercer v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26582/index.do"
+last_modified: "2003-09-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 652"
+citation2: ""
+neutral_citation: "2003 CCI 652"
+decision_date: "2003-09-22"
+language: "fr"
+item_id: "26582"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3539
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:44:05.121000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "582edb126b3e48f15391edb7f86c2beca18bcd3a5c3ddca8826ff5fb1c22cd9c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mercer v. M.N.R.
+
+- Citation: 2003 CCI 652
+- Decision date: 2003-09-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3539, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mercer v. M.N.R.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-22
+Référence neutre
+2003 CCI 652
+Numéro de dossier
+2003-374(EI)
+Juges et Officiers taxateurs
+Murray F. Cain
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-374(EI)
+ENTRE :
+SHELLY MERCER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 27 mai 2003 à St. John's (Terre-Neuve)
+Devant : L'honorable juge suppléant M. F. Cain
+Comparutions
+Avocat de l'appelante :
+Me Thomas Johnson
+Avocate de l'intimé :
+Me Susan McKinney
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision du ministre est confirmée conformément aux motifs du jugement ci-joints.
+Signé à Rothesay (Nouveau-Brunswick), ce 22e jour de septembre 2003.
+« M. F. Cain »
+Juge suppléant Cain
+Traduction certifiée conforme
+ce 16e jour de février 2004.
+Liette Girard, traductrice
+Référence : 2003CCI652
+Date : 20030922
+Dossier : 2003-374(EI)
+ENTRE :
+SHELLY MERCER,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Cain
+[1] L'appelante Shelly Mercer (la « travailleuse » ) interjette appel à l'encontre de la décision de l'intimé, datée du 17 janvier 2003, selon laquelle elle était employée par John Griffin (le « payeur » ) en vertu d'un contrat de louage de services du 13 mai 2001 au 9 juin 2001 et du 7 juin 2001 au 27 juin 2001 (les « périodes en litige » ) et qu'elle n'occupait pas un emploi assurable puisqu'elle et le payeur avaient un lien de dépendance en vertu de l'alinéa 5(2)i) de la Loi sur l'assurance-emploi (la « Loi » ).
+[2] L'appel a été entendu à St. John's, à Terre-Neuve, le 27 mai 2003. À la conclusion de l'audience, la Cour a pris le jugement en délibéré.
+[3] L'intimé a fondé sa décision sur les hypothèses de fait suivantes :
+[Traduction]
+a) le payeur est le conjoint de l'appelante;
+b) le payeur possède un palangrier de 34 pieds et un hors-bord de 21 pieds qu'il utilise pour la pêche au homard, au lompe, à la limande-sole et à la morue;
+c) l'appelante avait pour tâche de ramasser le poisson dans les filets, de nettoyer les bacs et de placer de la glace sur le poisson;
+d) l'appelante ne possédait pas de permis de pêche d'espèces de poisson;
+e) l'appelante avait un permis d'apprenti;
+f) l'appelante a cosigné un prêt avec le payeur en ce qui concerne le palangrier;
+g) l'appelante ne possédait pas de bateau ni d'engins de pêche;
+h) l'appelante ne partageait pas les dépenses liées à la pêche et n'assumait pas de risque de perte;
+i) l'appelante n'avait aucun contrôle sur les activités de pêche;
+j) l'appelante était employée par le payeur en vertu d'un contrat de louage de services;
+k) le payeur vendait du homard et du lompe à H. Hopkins Ltd. et vendait de la morue à Woodman's Sea Products Ltd.;
+l) pendant les périodes en litige, l'appelante a reçu un relevé d'emploi ( « RE » ) de H. Hopkins Ltd. indiquant la rémunération de l'appelante de la façon suivante :
+Voyages de pêche Part de rémunération
+Du 13 mai au 19 mai 2001 1 705,77 $ 90 %
+Du 20 mai au 26 mai 2001 761,31 $ 90 %
+Du 27 mai au 2 juin 2001 308,79 $ 90 %
+Du 3 juin au 9 juin 2001 299,52 $ 90 %
+m) pendant les périodes en litige, l'appelante a également reçu un RE de Woodman's Sea Products Ltd. indiquant la rémunération de l'appelante de la façon suivante :
+Voyages de pêche Part de rémunération
+Du 7 juin au 9 juin 2001 721,37 $ 90 %
+Du 11 juin au 16 juin 2001 3 579,04 $ 80 %
+Du 17 juin au 23 juin 2001 2 882,70 $ 80 %
+Du 25 juin au 27 juin 2001 392,53 $ 20 %
+n) l'appelante décidait à quels voyages de pêche elle souhaitait participer;
+o) le payeur a déclaré une perte provenant de la pêche de 12 040 $;
+p) la part de prises de l'appelante telle qu'elle a été déclarée était excessive pour les tâches remplies;
+q) l'appelante est liée au payeur au sens de la Loi de l'impôt sur le revenu;
+r) l'appelante avait un lien de dépendance avec le payeur;
+s) il n'est pas raisonnable de conclure, compte tenu de toutes les circonstances de l'emploi, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, que l'appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[4] L'appelante n'a admis que les hypothèses a), d) à f) inclusivement, l) à n) inclusivement, et q).
+[5] La Cour formule la conclusion de fait suivante.
+[6] La travailleuse et le payeur sont des conjoints de fait. Le 13 mai 2001 ou vers cette date, en tant que pêcheurs indépendants, ils ont conclu une entente pour pêcher différentes espèces, laquelle entente était en vigueur pendant les périodes en litige.
+[7] Dans une lettre d'offre datée du 12 octobre 2000 (pièce A-1), la Avalon West Community Business Development Corporation a prêté au payeur et à la travailleuse un montant de 50 000 $ devant être utilisé pour la construction et l'achat d'un bateau de pêche mesurant 34 pieds et 11 pouces (le « palangrier » ), et ces derniers ont signé une garantie et une subordination de réclamation en faveur de Avalon, s'engageant solidairement à rembourser le prêt. Le palangrier a par la suite été construit et livré aux parties. La preuve établit que le palangrier était la propriété conjointe de l'appelante et du payeur, malgré le fait que le payeur ait déclaré qu'il possédait le bateau (voir la pièce R-4, sixième question à partir du haut).
+[8] L'appelante possédait un permis d'apprenti, mais pas de permis de pêche d'espèces de poisson. Quatre-vingt-dix-neuf pour cent des tâches du payeur et de la travailleuse, lorsqu'ils pêchaient, étaient les mêmes. La travailleuse a décrit ses tâches de la façon suivante :
+1. préparer le déjeuner, rassembler les appâts, placer de la glace dans le bateau et mettre de l'essence, le cas échéant;
+2. lors de la pêche à la morue, nettoyer et glacer le poisson;
+3. lors de la pêche au homard, couper les appâts;
+4. lors de la pêche des oeufs de lompe, vider le frai et le glacer (voir la pièce R-3, dernières questions, pages 2 et 3).
+[9] Le payeur et la travailleuse partaient en voyages de pêche du 13 mai 2001 au 9 juin 2001, inclusivement, soit une partie des périodes en litige. Les différentes prises étaient vendues à H. Hopkins Ltd. de Arnold's Cove, à Terre-Neuve-et-Labrador.
+[10] Le relevé d'emploi émis par la société à la travailleuse ainsi que les documents justificatifs qui y sont joints fournissent les renseignements suivants (voir la pièce R-1). La valeur des différentes prises était de 3 391,43 $. La travailleuse a reçu 90 p. 100 de la rémunération de 2 571,43 $. Elle a reçu 100 p. 100 du solde de 820 $. La travailleuse a déclaré une rémunération assurable totale de 3 075,39 $. De ce montant, la somme de 849,79 $, représentant les dépenses et les avances associées aux différentes prises et dues à H. Hopkins Ltd., a été déduite des paiements versés à la travailleuse et créditée au compte du payeur. Le montant de 500 $ qui avait été avancé au payeur avant le commencement de sa pêche a été déduit de la part de la travailleuse. De plus, le montant de 69,20 $ à titre de cotisations d'assurance-emploi et celui de 52 $ à titre de cotisations syndicales ont été déduits de la part de la travailleuse. En résumé, la travailleuse a reçu au total 1 504,44 $, soit la rémunération assurable totale de 3 075,39 $, moins les dépenses, les avances, les cotisations d'assurance-emploi et les cotisations syndicales. Le payeur a reçu 257,12 $.
+[11] Aucun relevé d'emploi n'a été déposé en preuve en ce qui concerne la pêche effectuée du 7 juin au 9 juin 2001, du 11 juin au 23 juin 2001, inclusivement, et du 25 juin au 27 juin 2001. Cependant, selon les renseignements contenus au sous-paragraphe 8 m) de la Réponse à l'avis d'appel, que la travailleuse a admis, la Cour a calculé que la rémunération totale découlant des différentes prises était de 10 801,15 $. La rémunération assurable totale de la travailleuse était de 7 585,64 $. Apparemment, aucune dépense n'a été engagée ni aucune avance n'a été faite par l'acheteuse Woodsman's Sea Products Ltd. puisque tout l'équipement utilisé par le payeur et la travailleuse était leur propriété et qu'ils partageaient le coût de l'essence, dont le montant n'a pas été révélé par la preuve.
+[12] La rémunération assurable totale de la travailleuse pour les périodes en litige était de 10 661,03 $, moins le montant d'essence payé par la travailleuse, qui n'a pas été révélé par la preuve.
+DÉCISION
+[13] Durant l'audience, la Cour a soulevé la question de savoir si l'emploi de la travailleuse était exclu en vertu de la Loi puisque l'arrangement conclu par la travailleuse et le payeur de partager les prises de façon inégale, sans considération du travail réel accompli, a créé un lien de dépendance. La Cour a renvoyé les parties à l'alinéa 5(2)i) de la Loi et à l'article 2 du Règlement sur la pêche. Après l'audience, la Cour a demandé et reçu les observations des parties sur cette question.
+[14] Les relations avec lien de dépendance se caractérisent par la présence d'une entité responsable de la négociation pour les deux parties à une transaction, par le fait que les parties à une transaction agissent ensemble sans intérêt distinct ou parce que chaque partie à la transaction avait le pouvoir d'influencer l'autre ou d'exercer un contrôle sur l'autre et que les négociations des parties ne sont pas conformes à l'objet et à l'esprit des dispositions de la loi et qu'elles ne démontrent pas qu'elles participent de façon équitable dans le jeu normal des forces économiques du marché. (Voir Procureur général du Canada c. Rousselle et autres, C.A.F., nos A-1243-88, A-1244-88, A-1246-88, 31 octobre 1990 (124 N.R. 339.))
+[15] L'alinéa 5(2)i) de la Loi est ainsi rédigé :
+(2) Restriction - N'est pas un emploi assurable :
+[...]
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[16] L'article 153 de la Loi est ainsi rédigé :
+153.(1) Pêcheurs - Malgré les autres dispositions de la présente loi, la Commission peut, avec l'agrément du gouverneur en conseil, prendre les règlements, qu'elle juge nécessaires, visant l'établissement et le fonctionnement d'un régime d'assurance-emploi applicable aux travailleurs indépendants qui se livrent à la pêche, notamment des règlements visant à :
+a) faire considérer comme travailleur indépendant qui se livre à la pêche toute personne se livrant à une activité ou occupation reliées ou se rapportant à la pêche;
+b) faire considérer comme employeur d'un travailleur indépendant qui se livre à la pêche toute personne avec laquelle le travailleur indépendant établit des relations contractuelles ou autres relations commerciales en rapport avec son métier de pêcheur indépendant.
+(2) Régime différent - Le régime établi par les règlements peut, à l'égard de toute question, être différent des dispositions de la présente loi concernant cette question.
+[17] L'article 2 du Règlement est ainsi rédigé :
+Dispositions générales - Tout pêcheur est considéré comme un assuré et, sous réserve des autres dispositions du présent règlement, la Loi et ses règlements s'appliquent au pêcheur, avec les adaptations nécessaires.
+[18] Si l'application de l'article 2 du Règlement sur la pêche permet que l'on modifie l'alinéa 5(2)i) de la Loi en substituant les mots « travailleur indépendant qui se livre à la pêche » aux mots « l'employeur et l'employé » , alors l'emploi ne serait plus assurable.
+[19] Le témoignage de la travailleuse indiquait que 99 p. 100 de ses tâches ainsi que celles du payeur étaient les mêmes. Sans doute que le 1 p. 100 visait le fait de soulever des charges lourdes qu'un homme pouvait faire. Cela étant, la part des prises de la travailleuse dépassait largement ce que deux travailleurs indépendants sans lien de dépendance auraient négocié. De plus, la travailleuse a indiqué franchement la façon dont l'entente sur le partage a été conclue. Ils se sont entendus pour partager les prises de façon inégale sans considération du travail réel accompli par chacun. Aucune explication n'a été donnée quant à une telle attribution ni quant au fait que lorsque la travailleuse et le payeur pêchaient ensemble, ce dernier réclamait une part inégale des prises. Si la travailleuse avait réellement effectué un travail égal à la part réclamée des prises, alors cette part aurait équivalu à une rémunération assurable, dans la mesure où une preuve aurait été déposée pour appuyer ce fait.
+[20] Si le payeur et la travailleuse avaient eu une relation régie par la Loi sur l'assurance-emploi, autre que celle visant les pêcheurs, et que les faits et les conditions de la rémunération avaient été les mêmes, cette relation aurait été considérée établie en vertu d'un contrat de louage de services avec lien de dépendance ou d'un contrat d'entreprise. Dans les deux cas, l'emploi n'aurait pas été assurable.
+[21] Selon la formule établie dans la Loi et le Règlement, la travailleuse a gagné 10 661,03 $ durant sa période d'admissibilité. En supposant que le taux de chômage était supérieur à 13,1 p. 100 dans la région de Terre-Neuve-et-Labrador, où la travailleuse pêchait, le diviseur aurait été 14, étant donné sa rémunération assurable hebdomadaire de 761,50 $. Son taux de prestation serait de 761,50 $ X 55 % = 418,82 $. Elle recevrait la prestation maximale de 413 $.
+[22] La travailleuse a indiqué dans son témoignage que ses tâches et celles du payeur étaient les mêmes à 99 p. 100. Cela indiquerait qu'ils ont tous les deux contribué à la moitié de l'effort nécessaire pour décharger les prises. Une telle relation exigerait également un partage à parts égales des dépenses. Selon un calcul rapide, la travailleuse aurait reçu environ 79 p. 100 de la part des prises et le payeur 21 p. 100 durant les périodes en litige. Les prises totalisent 14 192,58 $. La part de la travailleuse à 50 p. 100 aurait été de 7 096,29 $. Sa part des dépenses et des avances aurait été la moitié de 1 349,79 $ ou 674,89 $. Son revenu de pêche aurait été de 5 746,50 $.
+[23] Selon la formule susmentionnée, sa rémunération assurable hebdomadaire (7 096,29 $ divisé par 14) aurait été de 505,16 $, et ses prestations (X 55 %) de 277,83 $. Bien que la travailleuse ait indiqué dans son témoignage qu'elle et le payeur avaient modifié la répartition des parts des prises pour accorder au payeur un plus grand pourcentage, aucune preuve n'a été déposée pour montrer qu'elle a réellement pêché à tout autre moment ou, si elle l'a fait, quelles répartitions ont été faites à ces moments.
+[24] Même s'il peut y avoir de légères variables non prises en considération dans le cadre des calculs ci-dessus, ils indiquent à tout le moins que l'entente de partage entre le payeur et la travailleuse a entraîné une augmentation considérable des prestations d'assurance-emploi. Comme aucune explication n'a été fournie quant à la répartition inégale, il faut conclure qu'elle visait à offrir à la travailleuse les prestations maximales en vertu de la Loi dans le délai le plus court.
+[25] L'avocat de la travailleuse soutient essentiellement ce qui suit :
+[Traduction]
+[...] Ensuite, l'article 2 du Règlement accorde clairement la prépondérance au Règlement sur la pêche. Il précise « sous réserve des autres dispositions du présent règlement » . Nous comprenons que cette expression signale une intention du Parlement selon laquelle la Loi et tout règlement adopté en vertu de la Loi ne peut s'appliquer de façon à « supprimer » l'application du Règlement sur la pêche lorsque ce dernier s'applique. À notre avis, ce résultat s'appliquerait si la Cour décidait qu'une personne ne peut profiter d'un système de rémunération lorsque le revenu de cette personne pour une période donnée est supérieur (ou inférieur) à ce qu'elle aurait reçu pour cette période si elle n'avait pas eu de lien de dépendance avec son partenaire commercial. Ces partenaires commerciaux alterneraient régulièrement pour savoir qui recevrait le plus grand pourcentage. Il est remarquable que l'art. 5 du Règlement sur la pêche qui traite précisément de la détermination de la rémunération d'un pêcheur prévoit un système complet à cet égard. Rien ne dit que l'entente de partage doit être celle que concluraient des personnes sans lien de dépendance. Au contraire, le Parlement a prévu que peu importe l'entente de partage, les retenues doivent être effectuées à partir du montant payé ou payable au pêcheur conformément aux paragraphes (2) et (3) pour les besoins de la détermination de la rémunération. Imposer une analyse du lien de dépendance dans ces circonstances en appliquant l'alinéa 5(2)i) de la Loi et de lire « travailleur indépendant qui se livre à la pêche » irait à l'encontre du système de détermination de la rémunération de l'article 5 du Règlement. Nous soumettons que cela ne peut constituer le résultat juridique approprié étant donné que l'application de la Loi est expressément assujettie au Règlement sur la pêche. L'alinéa 5(2)i) ne s'applique pas.
+[26] L'avocat de la travailleuse soutient en outre que le fait de substituer les mots « travailleur indépendant qui se livre à la pêche » aux mots « l'employeur et l'employé » à l'alinéa 5(2)i) de la Loi par l'application de l'article 2 du Règlement sur la pêche modifie radicalement l'article 5 du Règlement sur la pêche et accorde au mot « adaptations » une signification plus large que ce qu'a voulu le Parlement. Cela modifierait radicalement les règles de détermination de la rémunération de l'article 5 du Règlement sur la pêche. De plus, il fait valoir que le Règlement sur la pêche ne fait pas mention du lien de dépendance.
+[27] Selon l'intimé, la travailleuse n'était pas une travailleuse indépendante mais bien une employée du payeur en vertu d'un contrat de louage de services, que la relation comportait un lien de dépendance et que l'emploi n'était donc pas assurable. Si la Cour conclut que le payeur et la travailleuse sont des travailleurs indépendants, l'intimé soutient ce qui suit :
+[traduction]
+En vertu de l'article 2 du Règlement sur la pêche, la LAE et tout règlement adopté en vertu de cette dernière s'appliquent aux pêcheurs avec les modifications nécessaires. L'intimé est d'avis que le paragraphe 5(2) de la LAE s'applique aux pêcheurs. Cependant, ce paragraphe et toute autre disposition de la LAE sont modifiés pour les besoins de l'examen de l'emploi d'un pêcheur uniquement dans la mesure nécessaire. L'employeur d'un pêcheur est déterminé en vertu de l'article 3 du Règlement sur la pêche. L'intimé soutient qu'il n'est pas nécessaire de définir de nouveau le terme « employeur » pour les besoins du paragraphe 5(2) de façon à ce que ce soit une autre personne que celle définie à l'article 3 du Règlement sur la pêche.
+En l'espèce, l'employeur de l'appelante était l'acheteur. Rien n'indique que l'appelante avait un lien de dépendance avec l'acheteur. Le conjoint de l'appelante et partenaire de pêche n'était pas son employeur en vertu de l'article 3 du Règlement sur la pêche. En conséquence, le paragraphe 5(2) de la LAE ne s'appliquerait pas de façon à exclure l'emploi de l'appelante de la catégorie des emplois assurables en fonction des conditions de sa relation de travail avec son conjoint.
+[28] Le Règlement sur la pêche crée plusieurs type d'employeurs. En l'espèce, les employeurs étaient H. Hopkins Ltd. et Woodman's Sea Products Ltd. parce que le payeur et la travailleuse ont accepté de vendre leurs prises à ces sociétés. Si les parties l'avaient fait par l'entremise d'un représentant, ce dernier aurait alors été leur employeur.
+[29] La relation de l'employeur en l'espèce en ce qui concerne le payeur et la travailleuse était une relation créée par les lois, et elle diffère de la relation d'emploi habituelle. En vertu du Règlement sur la pêche, H. Hopkins Ltd. et Woodman's Sea Products Ltd. étaient les acheteurs des prises. Ces sociétés n'avaient rien à voir avec l'entente de partage convenue par la travailleuse et le payeur et rien dans le Règlement sur la pêche ne leur donne le pouvoir de remettre en question ou de modifier cette entente. Il semble évident à la lecture de l'article 3 du Règlement sur la pêche, Détermination de l'employeur, que l'employeur est l'acheteur de la prise, celui qui perçoit les cotisations d'assurance-emploi au nom de la Commission, celui qui conserve les registres de toutes les transactions et, en bout de ligne, celui qui émet les relevés d'emploi à partir desquels les avantages sont calculés. Le Règlement sur la pêche a sans doute été organisé de cette façon pour s'assurer qu'un tiers indépendant confirme la valeur de la prise et donc de la rémunération assurable. En conséquence, l'employeur mentionné à l'alinéa 5(2)i) de la Loi ne ressemble pas à l'employeur visé par l'article 3 du Règlement sur la pêche.
+[30] Le mot clé est « adaptations » de l'article 2 ainsi que sa signification dans le contexte du Règlement sur la pêche et de la Loi sur l'assurance-emploi. Cependant, avant de traiter de cette question, il est important d'examiner ce qu'est le régime d'assurance-emploi et ce qu'il n'est pas.
+[31] Dans l'affaire Tanguay et autres c. Commission d'assurance-chômage et autres, C.A.F., no A-1458-84, 2 octobre 1985 (68 N.R. 154), plusieurs employés ont quitté leur emploi afin de faire de la place à de plus jeunes employés. La Commission a conclu qu'ils avaient quitté leur emploi sans justification au sens de l'article 41 de l'ancienne Loi sur l'assurance-chômage et qu'ils n'avaient pas le droit de recevoir des prestations. La Cour d'appel fédérale a cité et approuvé la décision de la cour d'appel anglaise visant la Social Security Act, 1975, dans l'affaire Crewe et al. v. Social Security Commissioner [1982] 2 All E.R. 745, qui a soulevé exactement le même problème que dans l'affaire Tanguay. Le lord juge Donaldson a déclaré ce qui suit :
+[Traduction]
+À mon avis, il est crucial de parvenir à une décision dans le cadre du présent appel pour que l'on se rappelle qu'il s'agit d'un régime d'assurance, même s'il peut être financé, et qu'il vise une assurance contre le chômage. Il est de l'essence de l'assurance que l'assuré ne crée pas ou n'accroisse pas délibérément le risque. [...]
+[32] Le mot clé est « risque » , et la Loi ainsi que le Règlement sont remplis de mesures de protection afin de protéger le fonds d'assurance-emploi contre les emplois qui sont expressément exclus. De toute évidence, en permettant aux pêcheurs indépendants de manipuler le système ou de créer des relations de travail avec lien de dépendance afin d'obtenir de meilleures prestations pour une plus courte période d'emploi on crée un risque pour le fonds qui n'est pas prévu par la Loi.
+[33] La travailleuse soutient que tout arrangement conclu par deux ou plusieurs travailleurs indépendants est acceptable en vertu du Règlement et que la norme relative aux opérations sans lien de dépendance visant une relation employeur-employé normale ne devrait pas s'appliquer. En d'autres termes, les travailleurs indépendants peuvent manipuler le système et créer un plus grand risque au fonds en créant des relations qui, si elles étaient créées par un employeur et un employé non-pêcheur, excluraient l'emploi de l'application de la Loi.
+[34] Le mot « adaptations » de l'article 5 du Règlement sur la pêche est conçu pour combiner le concept spécial de l'emploi assuré conféré aux pêcheurs aux autres dispositions de la Loi et en particulier afin d'empêcher que l'application d'une disposition de la Loi ou de tout autre règlement adopté en vertu de cette loi contrevienne au régime du Règlement sur la pêche.
+[35] Peu de décisions de jurisprudence portent sur l'utilisation du mot « adaptations » . Les avocats n'en ont présenté aucune à la Cour, et les seuls cas que cette dernière a pu trouver portaient sur des conventions collectives.
+[36] Dans l'affaire Re Atlantic Sugar Division of Atlantic Consolidated Foods Ltd. and Local 443, Bakery and Confectionery Workers International Union of America, 56 D.L.R. (3d) 474, une décision de la Cour d'appel du Nouveau-Brunswick, la convention collective conclue entre les parties ne prévoyait pas le règlement définitif par voie d'arbitrage des conflits entre les parties comme l'exigeait le paragraphe 56(1) de la Loi sur les relations industrielles. Sur demande du syndicat, la Commission a conclu que les dispositions de la convention étaient inadéquates et qu'elles remplaçaient la disposition législative traitant de l'arbitrage. Le paragraphe 56(4) de la Loi l'habilite à déterminer, notamment, que les conditions d'arbitrage contenues dans la convention collective sont insuffisantes et de les « modifier » dans la mesure où cela n'entre pas en conflit avec le paragraphe 56(1). Le paragraphe 56(2) de la Loi prévoyait l'arbitrage législatif [TRADUCTION] « lorsque la convention collective n'en contient pas » .
+[37] La demande d'annulation de la décision de la Commission a été accueillie. Le juge en chef Hughes (Nouveau-Brunswick), rédigeant au nom de la majorité, a déclaré ce qui suit à la page 80 :
+[Traduction]
+La seule question qui reste à déterminer est celle de savoir si, comme le prétend l'avocat de l'employeur, la Commission a excédé ses pouvoirs en ordonnant que les dispositions de la convention collective « soient modifiées de façon à inclure celles du paragraphe 56(2) de la Loi sur les relations industrielles » .
+Le pouvoir de la Commission était de « modifier une partie des dispositions d'arbitrage contenues dans une convention collective [...] lorsque, selon la Commission » , elles sont insuffisantes.
+Le Oxford English Dictionary donne comme l'une des significations de « modifier » , « faire des changements partiels; changer (un objet) en ce qui concerne certaines de ses qualités; modifier ou changer sans transformation radicale » .
+Le Webster's New English Dictionary donne comme la signification principale de « modifier » , « changer légèrement ou partiellement en caractère, en forme, etc. » .
+À mon avis, l'ordonnance de la Commission n'a pas « modifié » les dispositions de la convention collective que la Commission trouvait « insuffisantes » , mais elle a ordonné la modification de la convention collective de façon à ce qu'elle inclue la formule législative établie au paragraphe 56(2), substituant ainsi une nouvelle condition d'arbitrage pour le règlement des conflits ou créant une procédure d'arbitrage parallèle pour le règlement de certains conflits non prévus par la convention collective. Cela, à mon avis, constituait un excès de compétence.
+[38] Dans l'affaire Re Miramichi Pulp and Paper Inc. and Canadian Paperworkers Union, Local 869, 29 L.A.C. (3d) 48, une décision de la Commission des relations industrielles du Nouveau-Brunswick, la question en litige concernait des modifications apportées aux horaires de travail contenus dans une convention collective en vertu de l'article suivant :
+[Traduction]
+ARTICLE 4
+Heures de travail
+4.01
+Des circonstances exceptionnelles peuvent survenir, même si elles ne sont pas couvertes par l'horaire suivant, et qui peuvent, selon la direction, justifier la modification des horaires suivants. Ces cas seront abordés à mesure qu'ils se présenteront.
+[39] Il n'est pas nécessaire d'indiquer les horaires et les changements apportés. La direction a non seulement changé les heures de travail, mais elle a également éliminé les taux de paie spéciaux et les avantages. Il suffira d'indiquer que la Commission a conclu que la direction n'avait pas modifié les horaires, mais qu'elle avait en fait créé un tout nouveau régime de travail.
+[40] La Commission a cité le Black's Law Dictionary, 5e éd. (1979) de la façon suivante :
+[Traduction]
+Modification. Un changement, une transformation [...] qui introduit de nouveaux éléments dans les détails ou qui annule certains d'entre eux, mais qui laisse intact l'intention et l'effet généraux de l'objet [...]
+« Modification » n'est pas exactement synonyme de « révision » puisque le premier terme indique un changement mineur dans la substance de la chose, sans référence à son amélioration ou à sa détérioration, alors que le dernier améliore la chose (comme lorsqu'on change la phraséologie d'un instrument, de façon à le rendre plus distinct ou précis) sans qu'il y ait changement de la substance ou de l'essence.
+[41] La Commission a formulé le commentaire suivant avant de conclure que les changements apportés aux horaires ne constituaient pas une modification mais un nouvel horaire :
+[Traduction]
+Le concept d'une modification aux horaires doit également posséder un certain aspect du contexte [...].
+[42] Le « contexte » bien entendu est la référence à l'utilisation du mot « modification » dans le texte où il figure. En l'espèce, le texte est l'article 2 du Règlement sur la pêche et l' « aspect » recherché est la conservation de la caractéristique ou de la qualité prédominante de la Loi, un fonds d'assurance mis à la disposition des bénéficiaires de bonne foi dont l'admissibilité à des prestations respecte ses normes.
+[43] Le changement suggéré à l'alinéa 5(2)i) ne modifiait pas la phraséologie et ne constituait donc pas une révision. La modification ne fait que rendre les dispositions de la Loi excluant un emploi applicable à toutes les personnes demandant des prestations en vertu de la Loi. Elle ne détruit pas ni ne « supprime » , comme l'a suggéré l'avocat de la travailleuse, la nature spéciale du calcul des avantages destinés aux pêcheurs.
+[44] Appliquer les dispositions relatives aux opérations sans lien de dépendance à l'entente de partage des travailleurs indépendants ne compromettrait pas les dispositions du Règlement sur la pêche mais ne ferait qu'assujettir ces ententes au même examen que tout autre accord d'emploi en vertu de la Loi.
+[45] L'avocat soulève le fait qu'il n'a pas été fait mention de la relation sans lien de dépendance à l'égard de la détermination de la rémunération en vertu de l'article 5 du Règlement sur la pêche. L'article 35 du Règlement sur l'assurance-emploi régit la détermination de la rémunération aux fins des avantages pour l'emploi autre que celui visé par le Règlement sur la pêche. Rien dans l'article 35 ne fait mention d'une relation sans lien de dépendance ni n'indique s'il devrait y en avoir. Avant la détermination de la rémunération, il faut déterminer si l'emploi est assurable.
+[46] L'avocat de la travailleuse a fait remarquer que le ministre, dans sa Réponse à l'avis d'appel et ses observations présentées devant cette Cour, n'a pas indiqué si l'analyse des opérations sans lien de dépendance s'appliquerait à la travailleuse si l'on concluait qu'elle était une travailleuse indépendante.
+[47] Les articles 103 et 104 de la Loi sont ainsi rédigés :
+103(1) Appel devant la Cour canadienne de l'impôt - La Commission ou une personne que concerne une décision rendue au titre de l'article 91 ou 92, peut, dans les quatre-vingt-dix jours suivant la communication de la décision ou dans le délai supplémentaire que peut accorder la Cour canadienne de l'impôt sur demande à elle présentée dans les quatre-vingt-dix jours suivant l'expiration de ces quatre-vingt-dix jours, interjeter appel devant la Cour canadienne de l'impôt de la manière prévue par la Loi sur la Cour canadienne de l'impôt et les règles de cour applicables prises en vertu de cette loi.
+104(1) Pouvoir décisionnel - La Cour canadienne de l'impôt et le ministre ont le pouvoir de décider toute question de fait ou de droit qu'il est nécessaire de décider pour rendre une décision au titre de l'article 91 ou 103 ou pour reconsidérer une évaluation qui doit l'être au titre de l'article 92, ainsi que de décider si une personne est ou peut être concernée par la décision ou l'évaluation.
+[48] Dans l'affaire Schnurer c. Canada (Ministre du Revenu national), [1997] C.F. 545 à la page 556, paragraphe 16, le juge en chef Issac a expliqué ce qui suit :
+[...]démontre [...] que, dans le cadre d'un appel fondé sur l'article 70, la Cour de l'impôt doit s'attacher à la validité du règlement du ministre et non pas à la validité des motifs précis invoqués par le ministre, ou aux paragraphes de la Loi sur l'assurance-chômage sur lesquels il s'appuie pour régler la question.
+De plus, le juge Marceau, dans l'affaire Canada (Procureur général) c. Doucet, C.A.F., no A-1487-92, 21 juin 1993 ((1993), 172 N.R. 374), paragraphe 10, a déclaré ce qui suit :
+C'est la détermination du ministre qui était mise en cause devant le juge, et cette détermination était strictement à l'effet que l'emploi n'était pas assurable. Le juge avait le pouvoir et le devoir d'examiner toute question de fait ou de droit qu'il était nécessaire de décider pour se prononcer sur la validité de cette détermination. Ainsi le pré-suppose le paragraphe 70(2) de la Loi [...] et le prévoit, dès après, le paragraphe 71(1) de la Loi [...] qui le suit, et ainsi le veulent d'ailleurs les principes de révision judiciaire et d'appel qui exigent de ne pas confondre le dispositif d'une décision qui seul est directement remis en question et les motifs invoqués à son soutien.
+La référence à l'article 70 et au paragraphe 71(1) renvoient à la Loi sur l'assurance-chômage et il s'agit maintenant des articles 103 et 104 de la Loi sur l'assurance-emploi, avec de légères variations dans le libellé.
+[49] Cette Cour n'est donc préoccupée que par la question de savoir si l'emploi de la travailleuse était assurable et non par les raisons données pour l'appuyer ou par la question de savoir si elle doit faire siennes les observations formulées par l'avocate de l'intimé.
+[50] La Cour conclut qu'en vertu de l'article 2 du Règlement sur la pêche, l'alinéa 5(2)i) visant les pêcheurs, et en particulier la travailleuse, peut être modifié par la suppression des mots « employeur et employé » et l'ajout des mots « travailleur indépendant qui se livre à la pêche » , et la Cour le modifie ainsi et il s'applique au présent cas.
+[51] La Cour conclut en outre que l'entente de partage ou les ententes conclues par le payeur et la travailleuse touchant la pêche effectuée durant les périodes en litige violaient l'alinéa 5(2)i) ainsi modifié et que l'emploi de la travailleuse durant lesdites périodes n'était pas assurable.
+[52] L'appel de la travailleuse est rejeté et la décision de l'intimé est confirmée.
+Signé à Rothesay (Nouveau-Brunswick), ce 22e jour de septembre 2003.
+« M. F. Cain »
+Juge suppléant Cain
+Traduction certifiée conforme
+ce 16e jour de février 2004.
+Liette Girard, traductrice

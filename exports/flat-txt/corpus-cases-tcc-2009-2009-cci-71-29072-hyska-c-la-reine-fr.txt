@@ -1,0 +1,138 @@
+Title: Hyska c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29072/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-71-29072-hyska-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-02-02
+
+# Hyska c. La Reine
+
+- Citation: 2009 CCI 71
+- Decision date: 2009-02-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6818, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hyska c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-02-02
+Référence neutre
+2009 CCI 71
+Numéro de dossier
+2008-2192(IT)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-2192(IT)I
+ENTRE :
+DARRELL HYSKA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 janvier 2009, à Edmonton (Alberta).
+Devant : L’honorable juge Judith Woods
+Comparutions :
+Représentant de l’appelant :
+Jack Isaman
+Avocat de l’intimée :
+Me Robert Neilson
+____________________________________________________________________
+JUGEMENT
+En ce qui a trait aux cotisations établies à l’égard de l’appelant en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2004 et 2005, la Cour ordonne que :
+1. l’appel interjeté à l’encontre de la cotisation établie pour l’année d’imposition 2004 soit accueilli, et que la cotisation soit renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelant a le droit de déduire un montant additionnel de 2 000 $ à titre de frais de publicité;
+2. l’appel interjeté à l’encontre de la cotisation établie pour l’année d’imposition 2005 soit rejeté.
+Les parties assumeront leurs propres dépens.
+Il est enjoint au greffe de rembourser à l’appelant le droit de dépôt de la Cour.
+Signé à Ottawa, Canada, ce 2e jour de février 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour de février 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2009CCI71
+Date : 20090202
+Dossier : 2008-2192(IT)I
+ENTRE :
+DARRELL HYSKA,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l’audience le 30 janvier 2009.)
+La juge Woods
+[1] Voici les motifs rendus oralement dans l’affaire opposant Darrell Hyska à Sa Majesté la Reine.
+[2] Le présent appel a trait aux cotisations fiscales établies à l’égard de l’appelant pour les années d’imposition 2004 et 2005.
+[3] M. Hyska est pompier à temps plein à Edmonton et exploite par ailleurs deux entreprises depuis son domicile. La première de ces entreprise en est une d’entretien de pelouses et fait affaires sous le nom de « Trim Lawn »; la seconde est une entreprise de menuiserie-charpenterie appelée « Emerald Heirlooms ».
+[4] L’appelant a interjeté appel de la décision de lui refuser la déduction de certaines dépenses engagées relativement aux deux entreprises. Pour les deux années en cause, l’appelant a déclaré des pertes d’entreprise de plus de 20 000 $ pour Trim Lawn, et de plus de 40 000 $ pour Emerald Heirlooms.
+[5] Les montants refusés par le ministre du Revenu national (le « ministre ») s’élevaient à un plus de 12 000 $ pour Trim Lawn et à un peu plus de 11 000 $ pour Emerald Heirlooms.
+[6] L’appelant contestant le fait que certaines dépenses aient été refusées, j’examinerai lesdites dépenses individuellement.
+Le mur en pierre et l’arrosage
+[7] La première question a trait à une dépense engagée pour l’achat des pierres qui ont été utilisées pour effectuer des travaux d’aménagement paysager à la résidence de l’appelant. Dans la déclaration de revenu qu’il a produite pour l’année d’imposition 2004, l’appelant a déduit le prix de ces pierres de son revenu, soit un montant de 13 187 $, à titre de frais de publicité afférents à Trim Lawn. Les frais de publicité incluaient aussi de petites dépenses engagées pour l’arrosage et l’achat de fleurs.
+[8] La vérificatrice a déclaré avoir été informée par l’appelant, pendant la vérification, que ce montant correspondait au coût d’un mur en pierre construit autour de la maison. J’accepte son témoignage.
+[9] Une photo du mur a été déposée en preuve. L’appelant a également présenté des factures pour la pierre s’élevant à 13 187 $.
+[10] Dans la cotisation qu’il a établie à l’égard de l’appelant pour l’année d’imposition 2004, le ministre a refusé environ 90 % du montant que l’appelant avait déduit de son revenu. Il a considéré que le mur en pierre était essentiellement une dépense personnelle.
+[11] À l’audience, l’appelant a déclaré qu’il n’avait pas déduit de son revenu le coût total du mur, mais seulement 8 % de ce coût. Il a affirmé avoir seulement déduit de son revenu le coût d’un mur de soutènement construit à l’arrière de sa maison. Le vérificatrice ne disposait pas de cette information au moment de la vérification.
+[12] L’appelant a expliqué avoir déduit du coût du mur bâti à l’arrière de sa maison en raison du fait que celui‑ci lui servait d’outil d’apprentissage, lui permettant de montrer à des clients potentiels comment travailler la pierre par eux‑mêmes. Il a déclaré tirer un revenu de cette activité en concevant des plans pour ses clients et en achetant les pierres dont ceux‑ci ont besoin afin de construire leurs propres murs.
+[13] Sur la foi de la preuve qui m’a été présentée, je ne suis pas convaincue que le prix des pierres utilisées pour construire le mur de soutènement à l’arrière de la maison de l’appelant était de 13 187 $, comme ce dernier l’a déclaré. Et même si ce prix était exact, je conclus que cette dépense revêtait un caractère éminemment personnel.
+[14] Étant donné que l’appelant exploitait une entreprise d’entretien des pelouses, je crois qu’il serait indiqué de lui accorder une déduction à titre de frais de publicité un peu plus élevée que celle que la vérificatrice lui a accordée. De manière quelque peu arbitraire, j’ai l’intention de majorer la déduction autorisée de 2 000 $.
+[15] Avant de clore le débat sur ce point, je voudrais souligner que l’appelant ne m’a pas convaincue qu’il serait approprié de lui accorder une déduction significative parce qu’il se servait du mur situé à l’arrière de sa maison comme d’un outil d’apprentissage. La preuve ne m’a pas convaincue que l’usage commercial que l’appelant en faisait correspondait à un aspect significatif de l’utilisation du mur.
+Les frais d’atelier
+[16] La question suivante porte sur les dépenses liées à l’utilisation d’un garage. L’appelant a déduit les dépenses engagées relativement à un garage rattaché à sa maison, dont il se servait aux fins de ses deux entreprises.
+[17] Pour l’année d’imposition 2005, le ministre a refusé la déduction de la plupart des dépenses engagées à ce titre, dépenses dont l’appelant avait tenu compte en calculant la perte enregistrée par Emerald Heirlooms. Le montant refusé par le ministre s’élevait à 2 116,98 $.
+[18] L’un des montants en litige a trait à une dépense effectuée pour des ventilateurs de plafond. Elle s’élève à environ 700 $. Quand il a établi la cotisation en cause, le ministre n’a pas refusé la déduction de la totalité du montant, mais il a considéré qu’il s’agissait d’un élément à inscrire à l’actif. Je suis d’accord avec sa façon de classer cette dépense.
+[19] En ce qui a trait au garage, les autres dépenses dont le ministre a refusé la déduction étaient les frais des services publics. Aux fins de la cotisation, ces dépenses ont été traitées comme se rapportant à un bureau à domicile. En conséquence de quoi, la déduction est reportée à une année pendant laquelle un revenu sera tiré de l’entreprise. La disposition pertinente est le paragraphe 18(12) de la Loi de l’impôt sur le revenu (la « Loi »).
+[20] Je suis d’accord avec la façon dont le ministre a traité les frais de services publics. Cette façon de faire est compatible avec celle qui a été adoptée dans d’autres causes examinées par la Cour où il était question d’un garage servant de local de travail, et il est logique de traiter les dépenses communes à l’ensemble de la maison comme étant assujetties à la restriction contenue au paragraphe 18(12) de la Loi.
+[21] Par conséquent, je suis d’accord avec la façon dont le ministre a traité les frais d’atelier dans la cotisation.
+Les achats de bois
+[22] L’élément en litige suivant a trait à la somme que l’appelant a déduite de son revenu pour des achats de bois effectués au nom d’Emerald Heirlooms pendant l’année d’imposition 2005.
+[23] Quand il a établi la cotisation, le ministre a réduit le montant de la déduction autorisée de 2 473,63 $.
+[24] Je me range à l’avis du ministre en ce qui concerne cette réduction.
+[25] Quand il a rempli sa déclaration de revenu pour 2005, l’appelant a déduit le montant de tous les achats de bois effectués pendant l’année sans tenir compte des stocks d’ouverture et de clôture. Il n’a pas calculé correctement le profit tiré de son entreprise.
+[26] Aux fins de la cotisation, la vérificatrice a effectué une estimation du coût des marchandises qui ont probablement été vendues pendant l’année en se fondant sur les informations qui lui avaient été fournies. La déduction de ce montant a été autorisée, et la vérificatrice a qualifié le solde de stock de clôture.
+[27] En l’espèce, la question à trancher concerne le coût des marchandises vendues pendant l’année. La méthode de calcul employée par l’appelant était inexacte, et dans les circonstances, je pense que la méthode employée en vue d’établir la cotisation était appropriée.
+Les véhicules
+[28] Le dernier point en litige concerne des véhicules à moteur.
+[29] La preuve a révélé que l’appelant avait trois véhicules à sa disposition : un camion, une fourgonnette et une voiture.
+[30] D’après le témoignage de la vérificatrice, aux fins de la cotisation, la déduction de tous les frais afférents au camion et de 25 % des frais afférents à la fourgonnette a été accordée, mais la déduction des dépenses afférentes à la voiture a été refusée.
+[31] Les raisons données par la vérificatrice pour expliquer ces rajustements étaient raisonnables. L’appelant ne m’a pas convaincue qu’il était indiqué d’effectuer quelque rajustement que ce soit en sa faveur.
+[32] Je voudrais également préciser que la vérificatrice a déclaré avoir réparti de la même façon la déduction pour amortissement afférente à la fourgonnette que l’appelant avait demandée.
+[33] L’appelant a déclaré ne pas avoir déduit de déduction pour amortissement afférente à la fourgonnette de son revenu. Si cela est exact, il faudra rajuster la cotisation. Je suis toutefois contrariée par le fait que l’appelant ne m’a fourni aucun document pertinent prouvant qu’il n’a pas demandé la déduction pour amortissement à l’égard de la fourgonnette. Il aurait dû être relativement facile de produire de tels documents, et je conclus que l’appelant n’a pas réfuté l’hypothèse formulée par le ministre à cet égard. En l’absence de documents pertinents, il n’y a pas lieu d’effectuer de rajustement relativement à la déduction pour amortissement.
+[34] Par conséquent, l’appel interjeté à l’encontre de la cotisation établie à l’égard de l’appelant pour l’année d’imposition 2004 est accueilli, et la cotisation est renvoyée au ministre afin qu’il autorise une déduction additionnelle de 2 000 $ au titre des frais de publicité. L’appel interjeté à l’encontre de la cotisation établie pour 2005 est rejeté.
+[35] Les parties assumeront leurs propres dépens.
+Signé à Ottawa, Canada, ce 2e jour de février 2009.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 16e jour de février 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2009CCI71
+NO DU DOSSIER DE LA COUR : 2008-2192(IT)I
+INTITULÉ : Darrell Hyska et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 28 janvier 2009
+MOTIFS DU JUGEMENT : L’honorable juge Woods
+DATE DU JUGEMENT : Le 2 février 2009
+COMPARUTIONS :
+Représentant de l’appelant :
+Jack Isaman
+Avocat de l’intimée :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : s.o.
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

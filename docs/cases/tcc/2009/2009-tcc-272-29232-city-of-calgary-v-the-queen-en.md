@@ -1,0 +1,265 @@
+---
+title: "City of Calgary v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29232/index.do"
+last_modified: "2009-05-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 272"
+citation2: ""
+neutral_citation: "2009 TCC 272"
+decision_date: "2009-05-21"
+language: "en"
+item_id: "29232"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7033
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:16:49.793000+00:00"
+cases_cited_count: 3
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "03093dab5bb8e6b488faca2d8c2d2e731c59ee1efd787e0ec56773f8d8c92f09"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# City of Calgary v. The Queen
+
+- Citation: 2009 TCC 272
+- Decision date: 2009-05-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7033, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+City of Calgary v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-05-21
+Neutral citation
+2009 TCC 272
+File numbers
+2006-1099(GST)G
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-1099(GST)G
+BETWEEN:
+CITY OF CALGARY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 27, 2008 at Calgary, Alberta
+By: The Honourable E. P. Rossiter, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Ken S. Skingle
+Counsel for the Respondent:
+Marta Burns
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act, relating to the period from December 1 to 31, 2002 is allowed, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Costs are awarded to the Appellant.
+Signed at Ottawa, Canada, this 21st day of May, 2009.
+“E. P. Rossiter”
+Rossiter A.C.J.
+Citation: 2009TCC272
+Date: 20090521
+Docket: 2006-1099(GST)G
+BETWEEN:
+CITY OF CALGARY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rossiter A.C.J.
+Introduction
+[1] The Appellant was required by statute to prepare a report for the development of an integrated transportation system, and then by bylaw to establish such a system. Any proposed acquisition or construction was to be submitted for approval to the Province of Alberta (the “Province”).
+[2] In order to finance such acquisitions and construction, the Appellant entered into grant agreements with the Province. The funding made available under these agreements enabled the Appellant to proceed with the approved projects, which included, among other things, the extension of the Light Rail Transportation System, and the acquisition of buses, light rail transit (“LRT”) vehicles, and LRT communication systems.
+[3] The issue raised in this appeal concerns the Appellant’s entitlement to input tax credits (“ITCs”) under the Excise Tax Act (“ETA”). The ITCs claimed represent the difference between the GST paid by the Appellant in the course of implementing these approved projects and certain rebates already received. The Minister assessed the Appellant on the basis that it is not entitled to the ITCs as claimed.
+The Facts
+[4] Under section 92 of the Constitution Act, 1867, the Province has jurisdiction over local works, undertakings and municipal institutions within its boundaries. Pursuant to this jurisdiction, the Province enacted the Municipal Government Act (Alberta) R.S.A. 2000, M-26, (“MGA”) and the City Transportation Act (Alberta) R.S.A. 2000 Chapter C 14 (“CTA”).
+[5] The Appellant is a body corporate under the MGA, under which Act the Province confers powers and imposes duties on the Appellant. Section 7 of the MGA provides that a municipality may pass bylaws for municipal purposes in respect of, among other things, transport and transportation systems and public utilities. Under sections 3 and 4 of the CTA, the Province required the Appellant to prepare a comprehensive transportation study report for the development of an integrated transportation system, and to then, by bylaw, establish such a system. “Transportation system” is defined in the CTA to mean a system of transportation facilities including streets, highways, rapid transit and all types of transportation facilities to which that Act applies on, above and below the ground. “Transportation facility” is defined to mean everything necessary for the efficient transportation of persons and goods in a particular manner.
+[6] The Province retained authority to accept, amend or otherwise alter the transportation bylaw passed by the Appellant. If the Appellant determined a transportation facility was to be constructed, the Appellant was required under section 6 of the CTA to submit the proposal to the Province. Following approval, the Province could enter into cost-sharing agreements with the Appellant respecting the costs of establishing the transportation facility.
+[7] Under the CTA, each city, including the Appellant, is responsible for the costs of establishing and maintaining all transportation facilities subject to its direction, control and management, but may qualify for financial assistance from the Province by complying with the CTA. The Appellant’s transit facilities, known as the Calgary Transit System, were at all times owned by, and under the direction, control and management of the Appellant. These facilities included, among other things, LRT lines, stations and vehicles, as well as buses. According to the MGA, unless another statute or agreement provided otherwise, title to the roadways within the Appellant’s geographic boundaries vested with the Appellant.
+[8] Prior to March 13, 2000, the Province provided funding to the Appellant for the construction or acquisition of certain transportation facilities within the City of Calgary under three separate grant agreements (“Previous Funding Agreements”). These were the Basic Capital Grant Agreement, dated April 17, 1989 (“BCG Agreement”); the Transit Capital Grant Agreement, dated November 24, 1998 (“TCG Agreement”); and the Primary Highway Connectors Grant Agreement (“PHCG Agreement”) dated November 23, 1993. These agreements made provision for the funding of eligible transportation projects, subject to annual provincial budgetary restrictions. According to the terms of the agreements, funding could only be used to pay for expenditures related to transportation projects within the Appellant’s boundaries that had been specifically approved by the Province. In order to obtain approval, a particular process was followed, which included providing the Province with detailed financial and technical information concerning each project. Projects approved under the Previous Funding Agreements included the construction or improvement of roadways (the “Roadway Projects”), as well as various public transit projects (the “Transit Projects”). The Transit Projects included the acquisition of buses and LRT vehicles, and the construction of LRT facilities.
+[9] The Appellant accepted funding from the Province under these agreements subject to certain additional terms and conditions, including: an obligation to maintain a separate accounting for the funds; an obligation to undertake all approved projects in accordance with the CTA; timeframes for and restrictions on fund usage; an obligation to allow access by the Province to project sites, engineering drawings and documents, and all relevant books of account; and an obligation to repay certain funds to the particular funding program such as income from the sale of buses or other capital items that were originally purchased with proceeds from that particular funding program.
+[10] The Appellant carried out all its obligations pursuant to the Previous Funding Agreements with the Province. Each of the funding agreements, save and except the PHCG Agreement, contained substantially the same terms and conditions. Whereas the BCG and TCG Agreements provided for an application and approval process, the PHCG Agreement related to a specific roadway project to be constructed.
+[11] The Appellant and the Province entered into a new agreement dated and effective March 13, 2000 for the construction and acquisition of certain future transportation facilities within the boundaries of the Appellant (the “New Agreement”). Funding under this agreement was subject to terms and conditions similar to those in the Previous Funding Agreements, although there were a number of differences.
+[12] Unlike under the Previous Funding Agreements, funding under the New Agreement was not subject to the provincial annual budget availability, but rather was based on a $0.05 per litre tax on the delivery of gasoline and diesel products within the City of Calgary over a certain period of time. The agreement provided for a lump sum advance payment over a three year period, which amount would be put into a “city transportation fund”, as that expression is defined in the New Agreement. These funds could be drawn down as and when required to fund projects approved by the Province. The New Agreement differed from the Previous Funding Agreements in a number of other ways, in particular: (1) it provided a fixed formula for funding from the Province to the Appellant; (2) it allowed the Appellant to move to a user‑pay concept; (3) it allowed for long term planning by the Appellant with respect to the transit facilities; (4) the formula was embedded in a written agreement between the Province and the Appellant for calculating the amount that the Appellant was to receive and no change could be made to the formula without a written amendment to the agreement; (5) there was no termination on the agreement; and (6) the Appellant avoided different percentages of funding on different types of grants which they had experienced in previous agreements. Furthermore, the New Agreement expanded the scope of eligible Transit Projects to include noise barriers, landscaping, upgrades to security, and scheduling and communication systems for the LRT. During the initial months under the New Agreement, the Province made a pre-payment of $170 million plus an additional $69 million into the city transportation fund.
+[13] The Appellant complied with the terms of the New Agreement and fulfilled its obligations to the Province. During the period January 1, 2000 to December 31, 2002, the capital cost of the transit projects of the Appellant were funded 69.5% from monies under the BCG Agreement, TCG Agreement and the New Agreement. The remaining portion was funded by the Appellant, whose source of funds included the fares paid by users of the transit facilities. To put these figures in context, the fares paid by transit users were approximately equivalent to 53% to 60% of the operating costs relating to the transit system, which costs are born by the Appellant. In other words, the user fares collected by the Appellant did not cover the day-to-day operating expenses of the transit system, let alone its capital cost.
+[14] In the course of fulfilling its obligations under the Previous Funding Agreements and the New Agreement, the Appellant incurred expenditures and paid GST in respect of those expenditures. These expenditures relate to specific transportation facilities, including LRT extensions, refurbishment of equipment, LRT vehicle rebuilds, and the acquisition of communication systems, signalling systems, buses, shuttle buses, and LRT vehicles.
+[15] In its GST returns, the Appellant had generally claimed ITCs in respect of the Roadway Projects, and partial public service body rebates under section 259 of the ETA (amounting to 57.14% of the GST paid) in respect of the Transit Projects. The Minister of National Revenue had been assessing the Appellant for GST purposes in accordance with that approach.
+[16] On January 13, 2003, however, the Appellant filed a GST return for the monthly reporting period ending December 31, 2002, in which it claimed ITCs in the amount of $6,351,967.00. This figure was based on the difference between the GST paid in respect of the Transit Projects up to December 31, 2002, less the rebates previously claimed (which amounted to 57.14% of the GST paid).
+[17] The Minister of National Revenue assessed the Appellant on July 23, 2003 with respect to the GST return for the reporting period of December 31, 2002, denying the Appellant’s entitlement to the ITCs claimed in respect of the Transit Projects. The Appellant objected to the assessment and appealed to this Court.
+Issue
+[18] The issue is whether the Appellant is entitled to the additional ITCs in respect of GST incurred in the course of constructing transit facilities pursuant to its agreements with the Province.
+Analysis
+[19] The formula for determining ITCs is set forth in subsection 169(1) of the ETA. That subsection provides:
+169(1) General rule for [input tax] credits -- Subject to this Part, where a person acquires or imports property or a service or brings it into a participating Province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+Where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the Province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating Province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+[Emphasis added]
+[20] For the purposes of this appeal, the requirements in order to claim an ITC under subsection 169(1) are (1) the claimant is registered, (2) the claimant has acquired the goods or services for consumption, use or supply in the course of commercial activities, and (3) the claimant has paid, or is legally required to pay GST/HST in acquiring the goods or services.
+[21] The parties are in agreement that the Appellant is registered and has paid GST in respect of the expenditures. The outcome of this appeal hinges on whether the Appellant acquired the inputs in question for consumption, use or supply in the course of its commercial activities.
+[22] The “commercial activity” of a person defined in subsection 123(1) of the ETA as follows:
+“commercial activity” of a person means
+(a) a business carried on by the person (other than a business carried on without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the business involves the making of exempt supplies by the person,
+(b) an adventure or concern of the person in the nature of trade (other than an adventure of concern engaged in without a reasonable expectation of profit by an individual, a personal trust or a partnership, all of the members of which are individuals), except to the extent to which the adventure or concern involves the making of exempt supplies by the person, and
+(c) the making of a supply (other than an exempt supply) by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply;
+[Emphasis added]
+[23] The relevant part of this definition for the purposes of the present appeal is paragraph (a). Since the Appellant is not an individual or a partnership, “commercial activity” in the present appeal means a business carried on, except to the extent to which the business involves the making of exempt supplies. “Exempt supply” is defined in subsection 123(1) to mean a supply included in Schedule V to the ETA.
+[24] The scope of “commercial activity” may also be affected by section 141.01 of the ETA, which provides in part:
+141.01 [Allocation of input tax credits] -- (1) Meaning of “endeavour” -- In this section, "endeavour" of a person means
+(a) a business of the person;
+(b) an adventure or concern in the nature of trade of the person; or
+(c) the making of a supply by the person of real property of the person, including anything done by the person in the course of or in connection with the making of the supply.
+(1.1) Meaning of “consideration” – In subsections (1.2), (2) and (3), “consideration” does not include nominal consideration.
+…
+(2) Acquisition for purpose of making supplies [limitation on ITCs] — Where a person acquires or imports property or a service or brings it into a participating Province for consumption or use in the course of an endeavour of the person, the person shall, for the purposes of this Part, be deemed to have acquired or imported the property or service or brought it into the Province, as the case may be,
+(a) for consumption or use in the course of commercial activities of the person, to the extent that the property or service is acquired, imported or brought into the Province by the person for the purpose of making taxable supplies for consideration in the course of that endeavour; and
+(b) for consumption or use otherwise than in the course of commercial activities of the person, to the extent that the property or service is acquired, imported or brought into the Province by the person
+(i) for the purpose of making supplies in the course of that endeavour that are not taxable supplies made for consideration, or
+(ii) for a purpose other than the making of supplies in the course of that endeavour.
+[25] The Appellant took the position that its activities in performing the obligations under the BCG Agreement, the TCG Agreement and the New Agreement constituted a business. The Appellant argued that in acquiring, constructing and making public transportation facilities available for the citizens of the City of Calgary, it made a taxable supply to the Province. It characterized the funds advanced by the Province under the BCG Agreement, the TCG Agreement, and the New Agreement as consideration in respect of this supply. Accordingly, the Appellant argued that it is entitled to the ITCs as claimed, on the basis that the property and services were acquired in the course of its commercial activities.
+[26] The Respondent argued that the Appellant is not entitled to the ITCs as claimed because the property and services on which the tax was paid were not used or supplied in the course of its commercial activities. In the Respondent’s view, the acquisition of property and services was in relation to the making of an exempt supply, specifically the supply of a municipal transit service to the public as described in section 24 of Part VI of Schedule V to the ETA. Further to this, the Respondent stated that the funding received under the various agreements did not constitute consideration for a taxable supply.
+[27] The Appellant did not dispute that as a consequence of fulfilling, on an on-going basis, its obligations under the various agreements, it was ultimately in a position to make supplies of municipal transit services to members of the public; however, it argued that this constituted a separate and distinct supply from that made to the Province. The Appellant further contended that since the inputs were acquired primarily for use in making its taxable supply to the Province, the concurrent exempt supply to members of the public is not fatal to its claim for the additional ITCs.
+[28] The Respondent, on the other hand, argued the exempt supply contemplated in section 24 of Part VI of Schedule V includes, by necessity, the acquisition and construction of the transit system. In other words, the Respondent argued that the supply of property and infrastructure required in order that a municipal transit service may be provided is part and parcel of the supply of the municipal transit service itself.
+[29] As indicated earlier in these reasons, the outcome of this appeal hinges on whether the Appellant acquired the inputs in question for consumption, use or supply in the course of its commercial activities. The first requirement in paragraph (a) of the definition of “commercial activity” in subsection 123(1) is that the inputs must have been acquired in the course of a business.
+[30] “Business” is defined under subsection 123(1) of the ETA to include:
+“business” includes a profession, calling, trade, manufacture or undertaking of any kind whatever, whether the activity or undertaking is engaged in for profit, and any activity engaged in on a regular or continuous basis that involves the supply of property by way of lease, license or similar arrangement, but doest no include an office or employment;
+[Emphasis added]
+[31] The Respondent did not directly challenge, either in its Reply or in oral argument, the Appellant’s position that its activities in performing its obligations under the BCG Agreement, the TCG Agreement and the New Agreement constituted a business. I would mention though that the definition provided in the ETA, especially having regard to language such as “undertaking of any kind whatsoever”, is quite broad. In my view it is certainly broad enough to include these activities of the Appellant.
+[32] It follows that the Appellant’s activities in performing its obligations under the BCG Agreement, the TCG Agreement and the New Agreement fell within its commercial activities except to the extent to which these activities involved the making of exempt supplies. As described above, the activities under these agreements consisted of acquiring, constructing and making public transportation facilities available for the citizens of the City of Calgary.
+[33] The definition of “supply” under section 123(1) provides:
+“supply” means, subject to sections 133 and 134, the provision of property or a service in any manner, including sale, transfer, barter, exchange, licence, rental, lease, gift or disposition;
+[Emphasis added]
+[34] Language such as “the provision of property or a service in any manner” suggests that this definition should be viewed expansively. “Service” is also defined under subsection 123(1):
+“service” means anything other than
+(a) property,
+(b) money, and
+(c) anything that is supplied to an employer by a person who is or agrees to become an employee of the employer in the course of or in relation to the office or employment of that person;
+[Emphasis added]
+[35] In the present appeal then, the provision of essentially anything other than money would satisfy the definition of supply. Given the wide scope of the definitions above, I am of the view that in acquiring, constructing, and making available transit facilities, the Appellant made a supply for the purposes of the ETA. The necessary and more difficult question is: to whom was it made?
+[36] The ETA defines “recipient” under subsection 123(1) as follows:
+“recipient” of a supply of property or a service means
+(a) where consideration for the supply is payable under an agreement for the supply, the person who is liable under the agreement to pay that consideration,
+(b) where paragraph (a) does not apply and consideration is payable for the supply, the person who is liable to pay that consideration, and
+(c) where no consideration is payable for the supply,
+(i) in the case of a supply of property by way of sale, the person to whom the property is delivered or made available,
+(ii) in the case of a supply of property otherwise than by way of sale, the person to whom possession or use of the property is given or made available, and
+(iii) in the case of a supply of a service, the person to whom the service is rendered,
+and any reference to a person to whom a supply is made shall be read as a reference to the recipient of the supply;
+[37] Paragraphs (a) and (b) of the definition establish that if a person has paid consideration for the supply, that person is the recipient.
+[38] “Consideration” is defined in subsection 123(1) of the ETA to include “any amount that is payable for a supply by operation of law”. By its wording, this definition will be satisfied if two requirements are met: (1) there must be a legal obligation to pay an amount, and (2) that amount must be payable for a particular supply. This statutory definition is not exhaustive however, and will also include any amount that would be consideration under common law: see County of Lethbridge v. Canada, 2005 TCC 809, [2006] T.C.J. No. 56 (T.C.C.) at para. 95.
+[39] The question of whether, and in what circumstances, a person’s undertaking of an activity for which the person receives funding from a government body constitutes the making of a supply to that body for consideration was considered by the Federal Court of Appeal in Des Chênes (Commission scolaire) v. R., [2001] G.S.T.C. 120 (F.C.A.). In that case, a school board in Québec provided bus transportation to students under contracts negotiated with independent carriers. The funds used to pay the consideration set out in the transportation contracts came from a subsidy paid to the board by the Minister of Transport. Both parties in Des Chênes agreed that if the subsidy did not constitute consideration within the meaning of the ETA, the students would be the recipients of the transportation service, with the result that the supply would have been exempt under section 5 of Part III of Schedule V. Accordingly, the issue before the Court of Appeal was whether the subsidy provided by the Minister of Transport was consideration within the meaning of the ETA.
+[40] The Federal Court of Appeal stated at paragraphs 19-20:
+19 Under the Act, in order for a payment to constitute consideration, it must have been made pursuant to a legal obligation (contractual or otherwise) and must be closely enough linked to a supply that it may be regarded as having been made "for" that supply … . That is why a direct link is required.
+20 A payment made under a contract will inevitably meet that requirement since the very existence of the obligation to pay is conditional on the co-contracting party fulfilling the corresponding obligation that rests on him or her. However, when the payment is made otherwise than under a contract, the purpose of the payment and the circumstances in which it is made must be carefully analyzed to determine whether there is a direct link with the supply; a payment will constitute consideration only where it is made "for" or in return for that supply.
+[Emphasis added]
+[41] Therefore in order for the funding provided by the Province to the Appellant to constitute consideration, (1) it must have been provided pursuant to a legal obligation (contractual or otherwise), and (2) it must be closely enough linked to a supply that it may be regarded as having been made “for” that supply.
+[42] In County of Lethbridge v. Canada, supra, one of the issues before the Court was whether grant funding provided by the Province of Alberta to the County of Lethbridge was consideration for a supply. Bell J. considered each grant agreement to determine whether under its terms the amount of the grant was “payable” by the Province. He concluded, at paragraph 96, that an amount is payable under a contract that makes payment of that amount enforceable, and that such amounts constituted consideration for the purposes of the ETA.
+[43] The power to enforce the terms of an agreement is a hallmark of a contract. When queries were made of the Respondent as to whether or not either party could sue the other for failure to carry out obligations under the agreements, the Respondent confirmed that yes, they could. The parties undertook tough negotiations to reach the agreements. When one looks at what actually transpired as between the Province of Alberta and the Appellant, and examines the terms of these agreements, it is evident that the agreements were in fact valid and enforceable contracts.
+[44] I conclude that the provision of funding by the Province to the Appellant according to the terms of the BCG Agreement, the TCG Agreement and the New Agreement became a legal obligation of the Province. The following provisions are particularly relevant in this regard:
+· In the BCG Agreement and the TCG Agreement, the preamble is incorporated as an integral part of the agreement by paragraph 1, and in the preamble it provides: “Whereas the Province has agreed to conditionally grant to the City, 75% (seventy-five percent) of the funds required … upon the terms and conditions contained herein”;
+· In the New Agreement, at paragraph 3 it provides: “The Minister agrees to provide funds to the City for the City Transportation Fund subject to the following eligibility criteria …”; and
+· In each of the BCG Agreement, the TCG Agreement, and the New Agreement there is a term that provides “This Agreement shall … be binding to the parties”.
+[45] It is also my view that there was a direct link between the funding provided by the Province and the supply in question. As noted by the Federal Court of Appeal in Des Chênes, supra, a payment made under a contract will inevitably meet the requirement of a direct link since the very existence of the obligation to pay is conditional on the co-contracting party fulfilling the corresponding obligations under the terms of the contract.
+[46] In the present appeal, the Province provided the funding under a variety of agreements in direct response to proposals for transit facilities submitted by the Appellant and approved by the Province. If the transit facilities were not developed, the payments would stop. Under the New Agreement for example, the funds were paid in advance and could only be drawn upon by the Appellant for the development of transit facilities approved by the Province. This service had to be provided or the monies could not be drawn down -- therefore, the direct link. These circumstances are far from those in Regina (City) v. Canada, [2001] T.C.J. No. 315, where Rip J. (as he then was) found that unconditional grants paid by the Government of Saskatchewan to the city of Regina were not related to any particular project the province agreed to subsidize.
+[47] Furthermore, to state that the Province is not receiving anything in return for the monies it made available for the development of the transit facilities is incorrect. In Des Chênes, the Respondent argued that the Minister of Transport did not receive anything in return for the subsidy provided and did not benefit from it in any way. The Federal Court of Appeal disagreed however, and reasoned at paragraph 33 as follows:
+Finally, it is incorrect to say that the Minister of Transport did not receive anything in return for the subsidy. Even though someone who pays a consideration is more often than not seeking a personal benefit, he or she may also be seeking to benefit someone else. In that case, the payment is just as much consideration … In this case, what the Minister of Transport obtained from the appellant was that it would provide its students with the free transportation service. That is sufficient to make the subsidy consideration within the meaning of the Act.
+[48] In the present circumstances, what the Minister of Transportation for Alberta obtained from the Appellant was the service of making available for its citizens the transit facilities in accordance with the terms negotiated and agreed upon between the Province and the Appellant.
+[49] The constitutional and statutory relationship between the Province and the Appellant is also relevant to the issue of the Province’s legal obligation to provide funding to the Appellant. The Province, under section 92 of the Constitution Act has jurisdiction on local works and undertakings:
+92. In each Province the Legislature may exclusively make Laws in relation to Matters coming within the Classes of Subjects next hereinafter enumerated; that is to say,
+…
+10. Local Works and Undertakings …
+[50] As well, all municipal institutions are delegates of Provincial jurisdiction. In Public School Boards’ Assn. of Alberta v. Alberta (Attorney General), 2000 SCC 45, [2000] S.C.J. No. 45 at paragraph 33, the Supreme Court of Canada stated as follows:
+33 . . . However, municipal institutions take various forms and are not identical. Although their characteristics and historical backgrounds differ, all municipal institutions are delegates of provincial jurisdiction under s. 92(8) of the Constitution Act, 1867. …
+[51] The Supreme Court held a similar view in Godbout v. Longueuil (City), [1997] S.C.J. No. 95 where at paragraph 51, the Supreme Court of Canada stated in part as follows:
+Finally, and most significantly, municipalities derive their existence and law-making authority from the Provinces; that is, they exercise powers conferred on them by provincial legislatures, powers and functions which they would otherwise have to perform themselves.
+[52] There are some who would suggest that although local works and undertakings are within the Province’s jurisdiction, it is not its duty to carry them out. In Ladore et al. v. Bennett et al., [1939] 3 D.L.R. 1 (P.C.), the Privy Council stated:
+… Sovereign within its constitutional powers, the Province is charged with the local government of its inhabitants by means of municipal institutions. If local government in any particular area becomes ineffective or non-existent because of the financial difficulties of one or more municipal institutions, or for any other reason, it is not only the right, but it would appear to be the duty, of the Provincial Legislature to provide the necessary remedy, so that the health of the inhabitants and the necessities of organized life in communities should be preserved. … .
+[53] The Ladore case can be read to say the provincial legislatures have a duty generally, but could also be read more narrowly as providing that if a municipality, which is a creature of the legislature, runs into financial difficulties, then the legislature has the duty to ensure that the local inhabitants are provided with local government.
+[54] I am of the view that the Province, having been granted jurisdiction under the Constitution Act for local works and undertakings, has some responsibility in the area of that jurisdiction. Why else would the founding fathers of Canada have given the Province such jurisdiction? If the Province does not carry out local works and undertakings itself, it must delegate this responsibility to some other authority. In the present case, the Province made a determination to delegate some of its jurisdiction and responsibility to the Appellant. The Province clearly has the authority to delegate in this manner: Brandon v. Municipal Commissioner & Manitoba (Attorney General), [1931] 4 D.L.R. 830 (Man. C.A.), at page 404. This delegation was accomplished initially by statute under the CTA, and followed up by the agreements referred to above. Once this responsibility had been delegated to the Appellant, the Province had a legal obligation to make adequate funding available.
+[55] In my view, this statutory and constitutional framework supports my conclusions above regarding the legal obligation on the part of the Province to make the funds available, and the direct link between the funds and the transit projects they were intended to support.
+[56] For these reasons, I conclude that the Appellant made a supply to the Province in acquiring, constructing, and making available transit facilities in the City of Calgary. The funding provided by the Province to the Appellant was consideration for this supply.
+[57] I will also make a few comments respecting the argument made by the Appellant at trial that in developing the transit facilities, it acted as the quasi-agent or instrumentality of the Province. Specifically, the Appellant argued that it acted on behalf of the Province. In my view, notwithstanding the high degree of control exercised by the Province over the development of the transit facilities, the Appellant was not acting as its agent. The independence of the Appellant is evident from subsection 6(1) of the CTA, which leaves the choice whether to proceed with the construction of any given facility up to the Appellant:
+6. (1) When a city considers that a transportation facility included in the transportation system should be constructed it shall submit the proposal to the Minister.
+[58] The Appellant was acting independently under statutory and contractual obligation. In this regard I would also mention that the fact that work is undertaken pursuant to a statutory obligation does not in itself disqualify that work from the character of a commercial activity: Regina (City) v. Canada, supra, at paragraph 24.
+[59] The next issue is whether the supply made was an exempt supply. It is clear that this supply does not fit within the terms of the exempt supply under section 24 of Part VI of Schedule V. That section describes the following supply:
+24. [Municipal transit] — A supply made to a member of the public of a municipal transit service or of a passenger transportation service designated by the Minister to be a municipal transit service.
+[Emphasis added]
+[60] I determined above by virtue of the definition of “recipient” in subsection 123(1) that the Appellant made a supply to the Province. This supply was not made “to a member of the public”. As the Respondent did not argue this supply fits within the terms of any other section in Schedule V, I have assumed that none other applies. I conclude that the supply to the Province was not an exempt supply.
+[61] As the Appellant’s activities in performing its obligations under the various agreements constituted a business, and as the supply made to the Province in the course of that business was not an exempt supply, the requirements for commercial activity under paragraph (a) of the definition in paragraph 123(1) have been met.
+[62] It remains to consider the effect of subsection 141.01(2). As observed by Rip J. (as he then was) at paragraph 38 of Regina (City) v. Canada, supra, “[s]ection 141.01 generally sets out the rules where, when a registrant’s business involves making both taxable and exempt supplies, the registrant is required to apportion tax on inputs in determining the amount of ITCs that the registrant may claim.” The Technical Notes of February 1994 issued by the Department of Finance accord with this description, explaining that section 141.01 is designed to clarify and reinforce the requirement to apportion inputs under subsection 169(1) based on the extent to which the inputs are used in making taxable and non-taxable supplies. “Taxable supply” is defined in subsection 123(1) as “a supply made in the course of a commercial activity”.
+[63] I note that there are differing views respecting whether section 141.01 is a rule of general application, and specifically whether subsection 141.01(2) imposes a requirement that inputs be acquired for the purpose of making taxable supplies in order for ITCs to be claimed. See, for example, Perfection Dairy Group Ltd. v. Canada, 2008 TCC 342, [2008] T.C.J. No. 252 at paragraphs 19-33, and BJ Services Co. v. Canada, [2002] T.C.J. No. 599 at paragraphs 51-62. In light of my findings below regarding the scope of the Appellant’s business however, I believe it is unnecessary for me to address this issue in the present appeal. I would also note that neither this issue nor these decisions were referred to by either party.
+[64] It is useful to state again the wording of subsection 141.01(2), with my emphasis:
+Where a person acquires or imports property or a service … for consumption or use in the course of an endeavour of the person, the person shall, for the purposes of this Part, be deemed to have acquired or imported the property or service or brought it into the Province, as the case may be,
+(a) for consumption or use in the course of commercial activities of the person, to the extent that the property or service is acquired, imported or brought into the Province by the person for the purpose of making taxable supplies for consideration in the course of that endeavour; and
+(b) for consumption or use otherwise than in the course of commercial activities of the person, to the extent that the property or service is acquired, imported or brought into the Province by the person
+(i) for the purpose of making supplies in the course of that endeavour that are not taxable supplies made for consideration, or
+(ii) for a purpose other than the making of supplies in the course of that endeavour.
+[65] “Endeavour” is defined in subsection 141.01(1) to include a business. The property and services at issue in this appeal were acquired by the Appellant in the course of its business relating to the BCG Agreement, the TCG Agreement and the New Agreement. In the context of this business, it is clear that the Appellant acquired the property and services for the purpose of making the supply to the Province which, given my findings above, was a taxable supply for consideration. The supply of the municipal transit service to the public, although it may have been facilitated by the arrangement between the Appellant and the Province, was not made in the course of that endeavour.
+[66] I find support for this approach in London Life Insurance Co. v. Canada, [2000] F.C.J. No. 2121, [2000] G.S.T.C. 111. In that case, London Life had leased commercial office space, and had undertaken the construction of leasehold improvements on the leased premises using funds provided by its landlords. In allowing the appeal, Rothstein J.A. (as he then was) viewed the leasing transactions as independent from London Life’s primary business, which was the exempt supply of financial services. He reasoned at paragraph 33:
+Certainly, the ultimate purpose of London Life is to lease improved premises for its financial services business of providing exempt supplies. But when the leasing transactions are considered independently, London Life is supplying the leasehold improvements to the landlords for the consideration of the leasehold improvement allowances. In turn, the landlords are providing the improved leased premises to London Life for its financial services business. In this way, London Life's provision of leasehold improvements to the landlords constitutes a commercial activity.
+[67] Justice Miller discussed Rothstein J.A.’s approach at paragraph 52 of BJ Services Co. v. Canada, supra:
+In [London Life Insurance Co. v. Canada], it was clear the basic business of London Life was the provision of exempt supplies, but Justice Rothstein identified the leasehold allowance received by London Life as more closely connected to the supply of leasehold improvements by London Life back to the landlord. Justice Rothstein found in effect that the acquisition of construction property and services by London Life to make its leasehold improvements constituted a separate business, a commercial activity involved in the making of taxable supplies.
+[68] The supply of a municipal transit service to the public is similarly separate from the Appellant’s business relating to the BCG Agreement, the TCG Agreement and the New Agreement. In my view, the construction, acquisition, and making available of the transit facilities reflected an independent commercial activity. The Appellant’s business so described did not include the making of exempt supplies. As such, the apportioning rule in subsection 141.01(2) does not apply. Even if it were to apply as a rule of general application, paragraph 141.01(2)(a) would deem the Appellant to have acquired the property and services at issue in the course of its commercial activities, without apportionment, as they were acquired for the purpose of making a taxable supply for consideration to the Province.
+[69] The Appellant also argued that subsection 199(2) is applicable to the present appeal. That subsection provides:
+199. (2) Acquisition of capital personal property — Where a registrant acquires or imports personal property or brings it into a participating Province for use as capital property,
+(a) the tax payable by the registrant in respect of the acquisition, importation or bringing in of the property shall not be included in determining an input tax credit of the registrant for any reporting period unless the property was acquired, imported or brought in, as the case may be, for use primarily in commercial activities of the registrant; and
+(b) where the registrant acquires, imports or brings in the property for use primarily in commercial activities of the registrant, the registrant is deemed, for the purposes of this Part, to have acquired, imported or brought in the property, as the case may be, for use exclusively in commercial activities of the registrant.
+[Emphasis added]
+[70] Paragraph 199(2)(b) contains what is sometimes referred to as the “primary use test”, which is applicable to acquisitions of personal property. Under this paragraph, if property is acquired primarily for use in commercial activities, it is deemed to have been acquired for use exclusively in commercial activities. The Appellant made reference to this provision in connection with its position that as a consequence of acquiring, constructing and making the transit facilities available within the City of Calgary, it was able to make an exempt supply to the public of a municipal transit service.
+[71] The definition of “primarily” was considered by this Court in Mid-West Feed Limited et al. v. M.N.R., 87 DTC 394 (T.C.C.). In that case, it was noted that “primarily” might be defined as of first importance, principle, or chief. “Primarily” could also mean more than 50%. At the trial, evidence was presented showing that fees paid by users of the transit services only covered 53% to 60% of the operating cost of the system, without having regard to its capital cost. By contrast, the consideration received from the Province covered approximately 70% of the cost of acquiring and constructing the transit facilities. In addition, even if the public had chosen never to use the transit service, the Appellant still would have been under statutory and contractual obligation to the Province to make the transit facilities available.
+[72] To the extent that paragraph 199(2)(b) applies to the present appeal, I have concluded that the personal property acquired by the Appellant was acquired primarily for use in the supply made to the Province as opposed to that made to the general public, and as such primarily for use in its commercial activities.
+Disposition:
+[73] I conclude that the Appellant is entitled to the additional ITCs as claimed, as it acquired the inputs in question for use in the course of its commercial activities. The Appellant made a taxable supply for consideration to the Province of Alberta in acquiring, constructing, and making available within the City of Calgary the buses, light rail transit vehicles and other related facilities. The appeal is allowed with costs in favour of the Appellant.
+Signed at Ottawa, Canada, this 21st day of May, 2009.
+"E. P. Rossiter"
+Rossiter A.C.J.
+CITATION: 2009TCC272
+COURT FILE NO.: 2006-1099(GST)G
+STYLE OF CAUSE: CITY OF CALGARY v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta
+DATE OF HEARING: November 27, 2008
+REASONS FOR JUDGMENT BY: The Honourable Associate
+Chief Justice E. P. Rossiter
+DATE OF JUDGMENT: May 21, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Ken Skingle
+Counsel for the Respondent:
+Marta Burns
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Ken Skingle
+Firm: Felesky Flynn
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

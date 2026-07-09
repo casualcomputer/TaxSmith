@@ -1,0 +1,482 @@
+---
+title: "Chaloux c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/126630/index.do"
+last_modified: "2015-11-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 CCI 284"
+citation2: ""
+neutral_citation: "2015 CCI 284"
+decision_date: "2015-11-13"
+language: "fr"
+item_id: "126630"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2683
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T16:18:25.029000+00:00"
+cases_cited_count: 12
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0c0cf4e05d82ed3e690d7775433074f586978cab82deece9f10cde7161760855"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chaloux c. La Reine
+
+- Citation: 2015 CCI 284
+- Decision date: 2015-11-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2683, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chaloux c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-11-13
+Référence neutre
+2015 CCI 284
+Numéro de dossier
+2012-3601(GST)I, 2012-3621(IT)G, 2012-3624(IT)G
+Juges et Officiers taxateurs
+Kathleen T. Lyons
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-3601(GST)I
+Entre :
+MARCEL CHALOUX,
+appelant,
+et
+Sa Majesté la reine,
+intimée.
+[Traduction française officielle]
+Appel entendu sur preuve commune avec les appels de Donna Chaloux – 2012-3621(IT)G et de Marcel Chaloux – 2012-3624(IT)G
+les 2 et 3 mars 2015, à Toronto (Ontario)
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Avocat de l’appelant :
+Me Gary Sonik
+Avocat de l’intimée :
+Me Tony Cheung
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi sur la taxe d’accise, dont l’avis est daté du 3 juillet 2012, pour les périodes de déclaration du 1er février 2005 au 31 décembre 2005 et du 1er janvier 2006 au 31 décembre 2006, est renvoyé au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu de ce qui suit :
+a) l’appel est accueilli en partie en ce qui a trait aux pénalités pour faute lourde, ainsi que l’a concédé l’intimée, et le montant de 5 486 $ doit être supprimé;
+b) l’appel est rejeté en ce qui concerne la taxe nette, la pénalité pour production tardive et la pénalité pour paiement en retard relativement à la période de déclaration du 1er février 2005 au 31 décembre 2005;
+c) l’appel est rejeté en ce qui concerne la taxe nette, la pénalité pour production tardive et la pénalité pour paiement en retard relativement à la période de déclaration du 1er janvier 2006 au 31 décembre 2006, après les rajustements reflétant la reconnaissance des dépenses d’entreprise supplémentaires accordées, réduisant ainsi le revenu, dans son appel en matière d’impôt sur le revenu pour l’année d’imposition 2006.
+Il n’y aura pas d’adjudication de dépens.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 25e jour de janvier 2016.
+C. Laroche
+Dossier : 2012-3621(IT)G
+Entre :
+DONNA CHALOUX,
+appelante,
+et
+Sa Majesté la reine,
+intimée.
+[Traduction française officielle]
+Appels entendus sur preuve commune avec les appels de
+Marcel Chaloux – 2012-3601(GST)I et 2012-3624(IT)G
+les 2 et 3 mars 2015, à Toronto (Ontario)
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Avocat de l’appelante :
+Me Gary Sonik
+Avocat de l’intimée :
+Me Tony Cheung
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 sont renvoyés au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu de ce qui suit :
+a) l’appel est accueilli en partie relativement à la pénalité de 2 256 $ imposée au titre du paragraphe 163(2) de la Loi de l’impôt sur le revenu, à l’égard de l’année d’imposition 2005, et qui doit être supprimée;
+b) l’appel est accueilli en partie relativement à des montants supplémentaires accordés à titre de dépenses d’entreprise (comme l’indiquent les motifs), à l’égard de l’année d’imposition 2006;
+c) les appels sont rejetés sur tous les autres points.
+Il n’y aura pas d’adjudication de dépens.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 25e jour de janvier 2016.
+C. Laroche
+Dossier : 2012-3624(IT)G
+Entre :
+MARCEL CHALOUX,
+appelant,
+et
+Sa Majesté la reine,
+intimée.
+[Traduction française officielle]
+Appels entendus sur preuve commune avec les appels de
+Marcel Chaloux – 2012-3601(GST)I et de Donna Chaloux – 2012‑3621(IT)G, les 2 et 3 mars 2015, à Toronto (Ontario)
+Devant : L’honorable juge K. Lyons
+Comparutions :
+Avocat de l’appelante :
+Me Gary Sonik
+Avocat de l’intimée :
+Me Tony Cheung
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2005 et 2006 sont renvoyés au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu de ce qui suit :
+a) l’appel est accueilli en partie relativement à la pénalité de 4 467 $ imposée au titre du paragraphe 163(2) de la Loi de l’impôt sur le revenu, à l’égard de l’année d’imposition 2005, et qui doit être supprimée;
+b) l’appel est accueilli en partie relativement à des montants supplémentaires accordés à titre de dépenses d’entreprise (comme l’indiquent les motifs), à l’égard de l’année d’imposition 2006;
+c) les appels sont rejetés sur tous les autres points.
+Il n’y aura pas d’adjudication de dépens.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 25e jour de janvier 2016.
+C. Laroche
+Citation: 2015 CCI 284
+Date : 20151113
+Dossiers : 2012-3601(GST)I
+2012-3624(IT)G
+Entre :
+MARCEL CHALOUX,
+appelant,
+et
+Sa Majesté la reine,
+intimée,
+Dossier : 2012-3621(IT)G
+ET Entre :
+DONNA CHALOUX,
+appelante,
+et
+Sa Majesté la reine,
+intimée.
+[Traduction française officielle]
+MOTIFS DU JUGEMENT
+La juge Lyons
+[1] Les appelants, Marcel Chaloux et Donna Chaloux, sont des conjoints et ont exploité une entreprise dans le cadre d’une société de personnes. Ils interjettent appel à l’encontre des nouvelles cotisations établies par le ministre du Revenu national sous le régime de la Loi de l’impôt sur le revenu (la « LIR ») relativement aux années d’imposition 2005 et 2006. M. Chaloux interjette également appel à l’encontre d’une nouvelle cotisation établie sous le régime de la partie IX de la Loi sur la taxe d’accise (la « LTA ») relativement aux périodes de déclaration du 1er février 2005 au 31 décembre 2006 (les « périodes »).
+[2] À l’audience, l’intimée a confirmé que les pénalités pour faute lourde, totalisant 5 486 $ pour les périodes, imposées à M. Chaloux au titre de l’article 285 de la LTA étaient concédées.
+[3] Les points en litige sont les suivants :
+a) La question de savoir si le ministre a le droit d’établir une nouvelle cotisation relativement à l’année d’imposition 2005 au-delà de la période normale de cotisation au titre du sous‑alinéa 152(4)a)(i) de la LIR.
+b) La question de savoir si le ministre a à juste titre inclus comme revenu d’entreprise de la société de personnes les montants de 52 824 $ et de 35 216 $ (les « montants », totalisant 88 040 $) pour l’année d’imposition 2005 de M. Chaloux et de Mme Chaloux, respectivement.
+c) La question de savoir si les pénalités imposées à l’égard de l’année d’imposition 2005, au titre du paragraphe 163(2) de la LIR, sont justifiées dans les circonstances (les « pénalités »).
+d) La question de savoir si les dépenses supplémentaires (détaillées dans l’annexe 1 des présents motifs) sont déductibles à titre de dépenses d’entreprise en 2006.
+e) La question de savoir si la taxe nette a fait l’objet d’une cotisation établie à juste titre au cours des périodes.
+f) La question de savoir si les pénalités pour défaut de production et pour production tardive ont été imposées à juste titre à M. Chaloux au cours des périodes (les « pénalités au titre de la TPS »).
+I. Les faits [4] En 2004, les appelants ont mis sur pied une société de personnes et exploité une entreprise de consultation en électricité sous la raison sociale Infrared Canada (« Infrared »). L’entreprise fournissait des services de filage et d’installation s’appuyant sur la technologie d’imagerie thermique infrarouge qui fonctionnait dans des édifices, des postes de transformation, des structures ou d’autres éléments utilisés à des fins de gestion de l’énergie. Les appelants exerçaient leurs activités depuis leur ancienne résidence située au 525, Muskoka Beach Road, Gravenhurst (la « propriété de Muskoka »).
+[5] M. Chaloux détenait une participation de 60 % dans la société de personnes et Mme Chaloux détenait une participation de 40 % (la « société de personnes »). En 2005 et en 2006, ils ont déclaré un revenu d’entreprise selon le pourcentage de leur participation dans la société de personnes.
+[6] Les appelants tenaient leurs propres dossiers. Dans son témoignage, M. Chaloux a déclaré qu’en 2005 et 2006, il dressait les factures environ un mois avant que celles-ci soient payées et recevait et déposait ensuite les chèques. Les factures, reçus et relevés bancaires étaient rangés dans le classeur. Les états financiers de fin d’exercice pour Infrared étaient dressés en faisant l’addition des factures et des reçus. Les appelants avaient retenu les services d’un comptable la première année qui, avant de décéder, les avait recommandés à Ruth Belton. Cette dernière avait dit aux appelants que les déclarations de revenus étaient simples à préparer et que M. Chaloux pouvait le faire. Il avait acheté deux trousses, Intuit et Netfile, et a confirmé qu’il avait préparé les déclarations des deux années pour eux deux. Il avait saisi les renseignements et les calculs dans le système NETFILE de l’Agence du revenu du Canada (l’« ARC ») en se fondant sur les documents et avait déclaré les revenus qui apparaissaient dans le livret de dépôts de la Banque Royale du Canada pour son compte d’entreprise.
+[7] Mme Chaloux effectuait la tenue des livres, réglait les comptes, classait les comptes, envoyait le courrier, effectuait des dépôts bancaires, mais ne dressait pas les factures ni ne rédigeait les rapports. Elle faisait la somme des comptes pour le comptable, mais le comptable n’a pas préparé les déclarations de revenus en 2005 ou en 2006. M. Chaloux les a remplies parce que Ruth Belton avait dit que cela était simple. Mme Chaloux a indiqué que la suggestion l’avait contrariée. Mme Chaloux avait fait la somme des factures pour son conjoint et celui‑ci avait rempli les déclarations pour les deux. Elle a avoué qu’elle n’avait pas examiné ses déclarations.
+[8] M. Chaloux avait exploité une entreprise de consultation en Alberta pendant dix ans à compter de 1987 environ. Cette entreprise effectuait le balayage infrarouge de systèmes électriques pour identifier et éliminer les points chauds qui sont la source d’incendie. Un comptable avait rédigé les déclarations de revenu et de TPS pour cette entreprise. Avant cette époque, M. Chaloux avait fait un bref séjour dans l’armée pour ensuite devenir apprenti mécanicien pendant deux ans; il a travaillé dans le secteur pétrolier et a par la suite obtenu une certification à titre de maître électricien avant de revenir en Ontario.
+[9] Mme Chaloux possède 13 ans de scolarité, a travaillé comme caissière dans une banque pendant les périodes estivales et a fréquenté le collège Algonquin à Ottawa (beaux-arts), mais n’a pas obtenu de diplôme. Elle a ensuite travaillé comme caissière à la Banque Canadienne Impériale de Commerce et, lorsqu’elle a déménagé à Gravenhurst, elle occupait un poste de caissière à temps partiel à la Banque Royale et effectuait des tâches bancaires générales. Elle avait travaillé comme secrétaire dans une société d’assurance et avait effectué des tâches administratives dans une clinique d’optométrie pendant un an.
+[10] En 2008, l’ARC a choisi de vérifier les années d’imposition 2005 et 2006 des appelants. M. Chaloux a indiqué qu’un vérificateur avait tout d’abord communiqué avec lui et qu’il l’avait rencontré dans un café où il lui avait montré des documents et des relevés bancaires. Par la suite, il avait transigé avec un autre vérificateur, soit Bruce Lognon.
+[11] M. Lognon a déclaré dans son témoignage qu’il avait rencontré les appelants à environ huit à dix occasions entre juin 2008 et mars 2009. La première rencontre avait eu lieu le 24 juin 2008. Il avait informé M. Chaloux du processus de vérification, de la durée qu’il prévoyait et il avait demandé les livres, les registres et certains types de renseignements comme des documents à l’appui des dépenses. Il avait interrogé M. Chaloux à propos de l’entreprise, de son implication et avait précisé certains aspects sur lesquels il voulait se concentrer, notamment le montant de contrat de sous-traitance.
+[12] À l’occasion de la deuxième rencontre le 12 août 2008, ils ont discuté de l’utilisation de la propriété de Muskoka pour les besoins de l’entreprise et l’ont examinée de loin parce qu’elle était louée. Lorsqu’il est retourné à la résidence des appelants, M. Lognon a reçu des documents en désordre qu’il a remis à M. Chaloux pour qu’ils les mettent en ordre.
+[13] M. Lognon a alors commencé la vérification et compilé des documents de travail. Il a dressé la liste des dépenses et des détails des factures (dates, clients, numéros de facture) et a fait le sous‑total des montants des ventes et de TPS. Les ventes nettes, ainsi qu’elles sont déclarées dans les déclarations de revenus de 2005 des appelants, indiquent les ventes brutes et la TPS avait été incluse dans les ventes déclarées; des rajustements étaient nécessaires. Il a estimé que les appelants avaient tiré un revenu non déclaré de la société de personnes. De plus, les factures montraient que la TPS était perçue, mais la société de personnes n’était pas inscrite aux fins de la TPS pendant les périodes.
+[14] En raison du revenu net peu élevé déclaré par les appelants en 2005, soit 8 788 $ et 3 597 $, respectivement, M. Lognon a expliqué à M. Chaloux à la troisième rencontre le 21 novembre 2008 que, selon Statistique Canada, une famille de quatre personnes avait besoin de plus de 50 000 $ pour soutenir son style de vie et il a demandé à M. Chaloux s’il était d’accord avec le fait qu’un tel montant était nécessaire[1]. M. Lognon a dit que M. Chaloux avait répondu que le montant de Statistique Canada était raisonnable. M. Chaloux a déclaré ne pas se rappeler avoir convenu de cela.
+[15] En ce qui concerne l’année d’imposition 2005, le ministre a établi une nouvelle cotisation à l’égard des appelants :
+a) au-delà de la période normale de nouvelle cotisation;
+b) a déterminé que la société de personnes avait des ventes nettes non déclarées de 88 039 $ selon ce qui suit :
+Ventes nettes
+Montant déclaré
+(124 798 $ moins la TPS de 8 164 $)
+116 634 $
+Montant réel
+(218 891 $ moins la TPS de 14 218 $)
+204 673 $
+c) il a attribué le revenu d’entreprise non déclaré pour les montants de 52 824 $ et de 35 216 $, respectivement;
+d) il a imposé des pénalités de 4 467 $ et de 2 256 $, respectivement.
+[16] En ce qui concerne l’année d’imposition 2006, le ministre a refusé les montants de dépenses de l’annexe 1.
+[17] Le ministre a également établi à l’égard de M. Chaloux une nouvelle cotisation pour la taxe nette de 21 704 $ et imposé des pénalités pour défaut de production et pour remise tardive (868 $ et 1 233 $, respectivement) au titre de la LTA pour les périodes (la « taxe nette » et les « pénalités au titre de la TPS »).
+II. Analyse [18] Lorsqu’il rouvre 2005 comme année frappée de prescription ou impose les pénalités, il incombe au ministre d’établir que chaque appelant a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire et de justifier l’imposition des pénalités.
+[19] Selon la position des appelants, ils ne sont pas des personnes averties et ont déclaré par erreur un revenu d’entreprise selon la méthode de la comptabilité de caisse. Ce faisant, ils n’avaient pas inclus des montants facturés en 2005 (62 145 $, 9 593 $ et 1 369 $ mentionnés aux paragraphes 34 et 38 des présents motifs) parce qu’ils n’ont pas été payés en partie ou au complet avant 2006 ou parce que des montants ne pouvaient être perçus. À l’étape de l’opposition, leur revenu pour 2006 a été réduit de 6 500 $ par rapport à celui qu’ils avaient déclaré. Ces montants et le revenu net (11 090 $) qu’ils ont déclaré constituent un écart d’environ 88 039 $. Ainsi, ils n’ont pas fait preuve de négligence, d’inattention, d’insouciance pas plus qu’ils n’ont intentionnellement voulu cacher un revenu. En conséquence, le ministre ne s’est pas acquitté de son fardeau en ce qui concerne la réouverture de l’année 2005 comme année frappée de prescription et l’imposition des pénalités.
+[20] Dans l’arrêt Lacroix c La Reine, 2008 CAF 241, 2009 DTC 5029 (CAF), qui concernait des actifs, la Cour d’appel fédérale discute de la manière dont le ministre doit s’acquitter de son fardeau de preuve au titre du sous‑alinéa 152(4)a)(i) et du paragraphe 163(2) de la LIR[2]. Elle reconnaît que, dans la plupart des cas, le ministre pourrait difficilement prouver directement l’état d’esprit du contribuable au moment de la production de la déclaration de revenus et pourra habituellement uniquement miner la crédibilité du contribuable soit en présentant des éléments de preuve, soit en contre‑interrogeant le contribuable. Le juge Pelletier déclare ce qui suit :
+32. […] Dans la mesure où la Cour canadienne de l’impôt est persuadée que le contribuable touche un revenu qu’il n’a pas déclaré et que l’explication offerte par le contribuable pour l’écart constaté entre son revenu déclaré et l’accroissement de son actif est non crédible, le ministre s’est acquitté du fardeau de preuve qui lui incombe aux termes du sous-alinéa 152(4)(a)(i) et du paragraphe 162(3).
+[21] Le paragraphe 163(2) de la LIPR est une disposition pénale qui vise à sanctionner un comportement impliquant l’intention, la mauvaise conduite insouciante ou une plus grande conduite répréhensible que la simple insouciance. La conduite qui justifie l’ouverture d’une année frappée de prescription pourrait également s’appliquer à l’imposition d’une pénalité. Toutefois, dans d’autres circonstances, il existera une limite claire de sorte qu’une conduite qui justifie l’ouverture d’une année frappée de prescription ne justifie pas l’imposition automatique d’une pénalité[3]. Dans la récente décision Dao c La Reine, 2010 CCI 84, 2010 DTC 1086 (Dao), la juge Campbell déclare ce qui suit au paragraphe 39 :
+39. Il est clair que le genre de conduite d’un contribuable qui justifie la réouverture, par le ministre, du dossier concernant les années prescrites ne justifie peut-être pas nécessairement l’imposition de pénalités aux termes du paragraphe 163(2). C’est pourquoi l’expression faute « lourde » est employée au paragraphe 163(2), par opposition à la faute « ordinaire ». Dans certains cas, il peut y avoir chevauchement ou confusion en ce qui concerne la conduite visée par le paragraphe 163(2) et celle qui est visée par le sous‑alinéa 152(4)a)(i), mais dans d’autres cas, la ligne de démarcation est claire. Étant donné que la conduite de l’appelante est selon moi davantage assimilable à une omission volontaire au sens du sous-alinéa 152(4)a)(i), on peut constater un certain chevauchement des deux dispositions eu égard aux circonstances de l’espèce. Toutefois, bien que le paragraphe 163(2) soit une disposition pénale, le sous-alinéa 152(4)a)(i) ne l’est pas. […]
+La prescription
+[22] En rouvrant l’année d’imposition 2005 et en établissant une nouvelle cotisation à l’égard de celle-ci en dehors de la période normale de nouvelle cotisation, le ministre a-t-il fait la preuve d’une présentation erronée des faits, par négligence, inattention ou omission volontaire ou d’une fraude conformément au sous‑alinéa 152(4)a)(i) de la LIR[4]? Cette disposition est rédigée ainsi :
+Cotisation et nouvelle cotisation
+152. (4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt n’est payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants :
+a) le contribuable ou la personne produisant la déclaration :
+(i) soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi, […].
+[23] Dans Venne v Canada (Minister of National Revenue – MNR), 84 DTC 6247 (CFPI) (Venne), le juge Strayer a conclu que le contribuable n’avait pas fait la preuve de sa diligence raisonnable parce qu’il n’avait pas lu sa déclaration de revenus et que même une personne ayant une instruction limitée aurait remarqué ces erreurs, étant donné l’accroissement de ses comptes bancaires et l’ampleur du revenu non déclaré. Il déclare ce qui suit au paragraphe 16 :
+[…] il suffit au Ministre, pour invoquer son pouvoir en vertu de l’alinéa 152(4)a)(i) de la Loi, de démontrer la négligence du contribuable, à l’égard d’un ou plusieurs éléments de sa déclaration de revenus au titre d’une année donnée. Cette négligence est établie s’il est démontré que le contribuable n’a pas fait preuve de diligence raisonnable. […]
+[24] À mon avis, l’intimée s’est acquittée de son fardeau de preuve en ce qui concerne l’année 2005, qui est frappée de prescription[5].
+[25] Le ministre peut, en recourant à une méthode appropriée, établir de nouvelles cotisations de façon arbitraire. Étant donné que les livres, les registres comptables et les autres documents étaient insuffisants et incomplets, M. Lognon a employé la méthode d’estimation du revenu. Dans son analyse, il a découvert un écart de 88 039 $ entre les ventes nettes de la société de personnes déclarées par les appelants (116 634 $) et les ventes nettes réelles qu’il a comptabilisées (204 673 $) pour 2005[6]. Ce dernier montant provenait de factures et de relevés bancaires fournis par les appelants. Au cours de la vérification, M. Chaloux n’a pas été en mesure d’expliquer la façon dont les appelants en étaient arrivés au montant déclaré.
+[26] À l’audience, M. Chaloux a déclaré dans son témoignage que, lorsqu’il avait préparé les déclarations de revenus, seuls les montants à la fois facturés et reçus par Infrared en 2005 avaient été déclarés (la méthode de comptabilité de caisse). Mme Chaloux avait additionné les factures pour M. Chaloux.
+[27] Je suis convaincue de l’absence de diligence raisonnable. L’écart était élevé. Les appelants ont toujours préparé eux‑mêmes leurs déclarations de revenus personnelles. M. Chaloux a déclaré qu’il possède peu de connaissances en matière de comptabilité. Mme Chaloux a indiqué qu’elle avait des réserves, même si on leur avait dit que la préparation de déclarations portant sur le revenu d’entreprise devait être simple. J’accepte cela. Je n’accepte pas leur explication concernant le revenu non déclaré comme vraisemblable et j’y reviendrai plus loin dans les présents motifs. Compte tenu de ces facteurs, une personne raisonnable aurait fait des efforts pour vérifier auprès de Mme Belton ou d’autres personnes la question de savoir si la méthodologie employée pour la préparation des déclarations était appropriée, ou le traitement des montants non perçus à la fin de 2005; je souligne qu’ils avaient auparavant eu recours aux services de comptables pour produire des déclarations d’entreprise. De plus, l’aveu de Mme Chaloux selon lequel elle n’a pas lu sa déclaration de revenus en 2005 indique l’absence de diligence raisonnable.
+[28] Aucun élément de preuve n’a été présenté pour réfuter les hypothèses du ministre, pas plus que le témoignage des appelants n’est jugé préférable concernant cet aspect. Je conclus à la présentation erronée de faits, par négligence et inattention de la part des appelants dans leurs déclarations de revenus pour 2005. Je conclus que le ministre était justifié de rouvrir, au titre du sous‑alinéa 152(4)a)(i) de la LIR, l’année frappée de prescription au-delà de la période normale de nouvelle cotisation.
+Le revenu non déclaré
+[29] Il incombe aux appelants de prouver que le ministre a commis une erreur en établissant qu’il existait un revenu d’entreprise non déclaré, selon les montants respectifs, pour l’année d’imposition 2005. Je conclus que les appelants ne se sont pas acquittés de leur fardeau de réfuter que le montant de revenu non déclaré, à l’égard duquel le ministre a établi une nouvelle cotisation, est erroné.
+[30] À la rencontre du 8 janvier 2009 en vue d’une proposition, M. Lognon a identifié l’écart entre les ventes nettes déclarées par les appelants et les ventes réelles qu’il avait comptabilisées en se fondant sur des documents que les appelants lui avaient fournis. M. Chaloux n’a pas été en mesure d’expliquer la façon dont il était arrivé au montant déclaré ni d’expliquer l’écart.
+[31] Dans son témoignage, M. Chaloux a dit que les ventes déclarées par l’entreprise en 2005 et en 2006 incluaient uniquement les ventes à l’égard desquelles la facture était dressée et le paiement reçu dans la même année. En contre‑interrogatoire, il a indiqué qu’il avait obtenu les ventes nettes en additionnant les montants déposés dans le compte bancaire et en soustrayant ensuite les dépenses. Lorsqu’il a été interrogé plus en détail quant aux dépôts et à la méthodologie utilisée, certaines réponses étaient vagues et d’autres suscitaient la confusion. Il a déclaré que, même s’il était possible qu’il ait fait des choix quant aux dépôts, il ne s’en souvenait pas.
+[32] M. Lognon a reconnu que bien que la cotisation initiale des appelants pour 2005 et 2006 ait été établie en fonction de la [traduction] « méthode des dépôts en espèces » pour obtenir un tableau plus complet du revenu, il a fait le total des factures pour chacune des années et a analysé les éléments suivants :
+a) les relevés bancaires de 2005; b) les livrets de dépôts bancaires de 2006. [33] Selon son explication, la différence découlait du fait que les livrets de dépôts bancaires de 2005, contrairement à ceux de 2006, étaient incomplets. Il valait mieux utiliser les livrets de dépôts parce que, si des espèces sont retirées au moment du dépôt d’un chèque, le livret de dépôts indique le montant complet reçu, alors qu’un relevé bancaire n’indique que le montant déposé dans le compte bancaire.
+[34] À la réception du paiement des factures, M. Chaloux allègue avoir joint le talon de chèque ou inscrit une note sur la facture de manière à savoir ce qui avait été payé. Selon le témoignage de M. Lognon, les talons de chèques n’étaient pas si nombreux ni n’étaient mis en ordre. Il s’est donc appuyé sur les copies de factures fournies par M. Chaloux, qui n’étaient pas accompagnées de chèques ou de talons de chèques. M. Chaloux lui avait dit qu’il ne tenait pas de comptes débiteurs ni une liste des montants impayés à la fin de l’année. À aucun moment M. Chaloux ne l’a informé que certaines factures n’étaient pas payées, outre les montants payés en 2006 concernant 2005. Notamment, Gravenhurst Plastics (« Gravenhurst ») devait un montant important de 62 145 $, plus la TPS, selon la facture 2005-057A qui lui avait été délivrée le 3 mai 2005[7].
+[35] Selon M. Chaloux, il s’agit d’un exemple de notes inscrites pour lui permettre d’assurer le suivi afin de vérifier si une facture avait été payée. Cette facture porte la mention [traduction] « total payé 20 032,00 $ en 2006 », accompagnée de trois numéros de chèque qui, selon lui, ont été inscrits au moment du dépôt. Il dit qu’après une série de négociations, seul un montant de 20 032 $ du montant facturé a été payé. Par la suite, il a désigné le solde en souffrance comme étant une [traduction] « dette de 30 000 $ », sans tenir compte de la différence de l’autre montant de 10 000 $. Toutefois, en contre‑interrogatoire, il a avoué ne pas être certain que tous les paiements versés en 2006, totalisant environ 20 000 $, visaient une seule facture. Il a reconnu qu’aucun des montants d’autres factures délivrées au début de 2006, mais avant le 13 avril 2006, s’élevant aussi à un montant total d’environ 20 000 $, ne correspondait à l’un des paiements effectués en 2006.
+[36] M. Lognon a convenu qu’Infrared n’avait pas dressé de facture à l’intention de Gravenhurst ni ne lui a fourni de services après le 13 avril 2006. Dans le cadre de son analyse, il a examiné les dépôts concernant Gravenhurst en 2006 pour confirmer l’allégation de M. Chaloux selon laquelle il avait reçu 20 032 $ qui se rapportaient à la facture 2005‑057A. Il a déclaré qu’un montant plus élevé que 20 032 $ avait été reçu et, qu’au même moment, également en 2006, Infrared avait délivré plusieurs autres factures à Gravenhurst pour un moment total d’environ 20 000 $. Toutefois, aucune déduction pour une créance irrécouvrable de 40 000 $ n’a été demandée en 2005. Il n’a pas été en mesure de déterminer la raison pour laquelle le montant de 20 032 $ n’avait pas été payé en 2005, pas plus qu’il n’y avait de preuve indiquant des tentatives de perception, constituant l’une des conditions préalables pour établir une créance irrécouvrable et ensuite en demander la déduction. L’avocat des appelants a laissé entendre à M. Lognon qu’il était possible de déduire que les paiements reçus de Gravenhurst pouvaient avoir été en lien avec des factures délivrées en 2006 plutôt qu’en 2005. M. Lognon a toutefois déclaré qu’il ne savait pas quelles factures Gravenhurst avait réglées, mais que [traduction] « M. Chaloux a[vait] reçu l’argent en 2006. Les montants [pouvai]ent avoir été payés en lien avec la facture que nous avons auparavant identifiée comme étant une créance irrécouvrable […] la facture numéro 2005‑057A. Il se peut qu’une partie de cet argent ait été versé en lien avec cette facture; une partie de l’argent peut avoir été versée pour d’autres factures[8]. » En réponse à la question de savoir si le montant dû serait modifié si une facture était réglée plutôt qu’une facture différente, M. Lognon a répondu que le montant dû à l’égard des différentes factures serait modifié, mais que le total dû ne le serait pas, à moins que la facture séquentielle qui manque vise Gravenhurst.
+[37] À titre d’exemple, je constate des paiements dont les montants s’élèvent à 10 000 $ et à 3 282 $, mais les montants indiqués sur les factures délivrées à Gravenhurst ne correspondaient pas aux paiements effectués, rendant ainsi difficile la conciliation. Malgré le témoignage de M. Chaloux selon lequel il assurait le suivi, je ne suis pas convaincue qu’un suivi a été effectué à l’égard des factures. De même, l’estimation de revenus pour 2006 rédigée par le vérificateur indique que Gravenhurst a effectué cinq paiements qui apparaissaient dans le livret de dépôts et dont le total s’élevait à environ 28 000 $. Je conclus que les éléments de preuve relatifs à la facturation et aux paiements concernant Gravenhurst sont ambigus.
+[38] M. Chaloux a déclaré qu’en décembre 2005, les factures présentées ci‑dessous avaient été délivrées et n’avaient pas été payées à la fin de 2005. McGlynn a versé un paiement partiel de 9 593 $ et Huntsville a réglé la totalité du montant de 1 369 $ en février 2006. M. Lognon a reconnu que, parmi ces factures, aucun client régulier n’était mentionné à deux reprises[9] :
+Numéro
+Client
+2005-061
+Muskoka Condominiums
+Corporation No. 9
+1 070 $
+2005-062
+Bernie McGlynn Lumber Limited (« McGlynn »)
+19 598 $
+2005-063
+Ville de Huntsville (« Huntsville »)
+1 369 $
+2005-064
+Pastway Planning Limited
+2 546 $
+2005-065
+Canada Wood Specialties Inc.
+1 224 $
+2005-066
+Mount Forest Elevators Limited
+963 $
+[39] M. Chaloux a reconnu qu’il n’avait pas demandé la déduction de créances irrécouvrables dans les déclarations de revenus de 2005 et de 2006 et qu’il les avait soulevées pour la première fois à l’étape de l’opposition. Il a également déclaré qu’il ne comprenait pas la différence entre la déclaration selon la méthode de la comptabilité d’exercice et la méthode de la comptabilité de caisse, malgré le fait qu’il avait auparavant exercé des activités commerciales et avait recouru aux services de comptables.
+[40] Il est clair que les appelants ont comptabilisé les ventes nettes de façon erronée et ont déclaré le revenu selon la méthode de la comptabilité de caisse plutôt que selon la méthode de la comptabilité d’exercice. Dans Reilly c La Reine, 2010 CCI 326 au paragraphe 15, 2010 DTC 1223, le juge Webb déclare ce qui suit :
+15. Je ne crois pas qu’il faille interpréter l’arrêt Canderel de la Cour suprême du Canada de façon à permettre aux contribuables de déclarer à leur gré leur revenu selon la méthode de la comptabilité d’exercice ou selon la méthode de la comptabilité de caisse. Comme le juge Iacobucci l’a fait remarquer, « plus souvent qu’autrement, [les principes commerciaux bien établis] constitueront la base même de la détermination du bénéfice ». Puisqu’il est clair que les principes commerciaux bien établis veulent qu’il faille calculer les produits et les charges selon la comptabilité d’exercice et non selon la comptabilité de caisse, et que « les états financiers établis selon la comptabilité de caisse ne sont pas conformes aux principes comptables généralement reconnus », il me semble que seules les personnes auxquelles la Loi accorde ce droit peuvent utiliser la méthode de la comptabilité de caisse pour déterminer leur revenu. L’article 28 de la Loi permet aux agriculteurs et aux pêcheurs de le faire. Selon les articles 5, 6 et 8 de la Loi, les employés rendent compte de leur revenu au moyen de la comptabilité de caisse. Toutefois, aucune disposition de la Loi ne permet à l’appelant, qui n’est pas un employé lorsqu’il fournit ses services à titre de courtier et de promoteur immobilier, de rendre compte de son revenu au moyen de la comptabilité de caisse.
+[41] Le vérificateur a détaillé, résumé et réuni les renseignements et a ensuite précisé ses conclusions dans des documents de travail en se basant sur les documents et les renseignements fournis par les appelants. Il semble avoir passé un temps considérable à ce faire pour obtenir un tableau plus clair. Je suis convaincue que l’estimation de revenus de 2005 produite par M. Lognon, comme pièce R-1, onglet 8, détaillant les montants tirés des factures réelles et appuyés par les relevés bancaires, est plus fiable, rendant ainsi la conclusion du vérificateur concernant le revenu non déclaré en 2005 plus vraisemblable et exacte et qui doit être préférée.
+[42] L’impression que je retiens de la preuve est que l’incapacité ou le refus de M. Chaloux de fournir une explication claire (ou simplement une explication sur certains points) à l’étape de la vérification quant à ce qui s’était passé a ajouté aux difficultés. Une plus grande diligence à tenir les livres et registres comptables appropriés aurait vraisemblablement résolu certaines questions de façon plus rapide. À l’audience, certaines de ses réponses étaient vagues et suscitaient la confusion, ne les rendant donc pas fiables. À titre d’exemple, son témoignage concernant la facturation et les paiements de Gravenhurst et la question de savoir s’il existait une créance irrécouvrable ou non, même si aucune n’avait été demandée avant l’étape de l’opposition, en plus d’autres aspects de son témoignage, manquaient de logique malgré son prétendu système de suivi. Je rejette son témoignage en ce qui a trait à cette question.
+[43] Je rejette également les protestations selon lesquelles l’ARC n’a pas retourné aux appelants tous leurs documents. M. Lognon a indiqué que, lorsque M. Chaloux était venu cueillir ses boîtes de documents, il avait demandé à M. Chaloux d’examiner les boîtes pour s’assurer que tous les documents lui étaient retournés. M. Chaloux a jeté un coup d’œil dans les boîtes et a signé un formulaire reconnaissant la réception des documents à deux occasions[10]. Les notes de M. Lognon n’indiquent aucunement que les appelants avaient auparavant soulevé cette préoccupation.
+[44] Les appelants n’ont fourni aucune explication crédible concernant l’écart important. Plus particulièrement, le revenu qu’ils ont déclaré ensemble, soit un montant de 11 090 $, n’aurait même pas payé le loyer annuel de la propriété de Muskoka. Je conclus que les appelants ne se sont pas acquittés de leur fardeau de preuve.
+[45] Je conclus que le ministre a établi à juste titre une nouvelle cotisation à l’égard des appelants relativement au revenu d’entreprise non déclaré en 2005, selon les montants représentant la proportion de leur participation respective dans la société de personnes.
+Les pénalités
+[46] Un degré de culpabilité plus élevé que l’omission de faire preuve de diligence raisonnable est nécessaire pour l’imposition des pénalités au titre du paragraphe 163(2) de la LIR. Cette disposition est rédigée ainsi :
+Faux énoncés ou omissions.
+163. (2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants […]
+[47] Dans Corriveau v Canada, [1999] 2 CTC 2580, le juge Archambault a décrit le fardeau du ministre ainsi :
+26. […] le ministre doit prouver : 1) que le contribuable a fait un faux énoncé ou une omission dans une déclaration; 2) que ce faux énoncé ou cette omission a été fait sciemment ou dans des circonstances équivalant à faute lourde.
+[48] Dans les présents appels, l’intimée ne s’est pas acquittée du fardeau de preuve relatif aux pénalités imposées en 2005.
+[49] Dans Venne, au paragraphe 37, le juge Strayer définit la faute lourde ainsi :
+[…] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. […]
+[...]Il faut se souvenir comme l’a dit le juge Cattanach dans l’affaire Udell (précitée) qu’il s’agit d’une disposition pénale et qu’elle doit être interprétée de façon restrictive. Le paragraphe ne vise évidemment pas à imposer de responsabilité stricte, mais il n’autorise les pénalités que si le contribuable a un degré élevé de faute, notamment la connaissance ou la mauvaise conduite insouciante. […]
+[50] Dans la décision Can-Am Realty Limited v Canada (1993), 94 DTC 6069 (CFPI), la Cour définit le genre d’agissements constitutifs de faute lourde : ils doivent être flagrants et exceptionnels.
+[51] Dans Dao, au paragraphe 39, la juge Campbell ajoute ce qui suit :
+39. […] Le paragraphe 163(2) exige implicitement l’existence de l’intention de dissimuler une opération en matière fiscale. [...] Étant donné que les dispositions du paragraphe 163(2) sont de nature pénale, elles appellent un degré de culpabilité plus élevé, et une pénalité ne doit être imposée que lorsque la preuve le justifie clairement. Si la preuve suscite un doute quant à la question de savoir si ces dispositions doivent s’appliquer eu égard aux circonstances de l’espèce, la seule conclusion équitable est qu’il faut accorder le bénéfice du doute au contribuable eu égard aux circonstances. Dans la décision Farm Business Consultants Inc. c. The Queen, 95 DTC 200, qui a été confirmée par la Cour d’appel fédérale (96 DTC 6085), aux pages 205 et 206, le juge Bowman (tel était alors son titre) a fait les observations suivantes :
+Une cour doit faire preuve d’une prudence extrême lorsqu’elle sanctionne l’imposition de pénalités prévues au paragraphe 163(2). Une conduite qui légitime l’établissement d’une nouvelle cotisation à l’égard d’une année frappée de prescription ne justifie pas d’office l’imposition d’une pénalité, et l’imposition systématique de pénalités, par le ministre, est une pratique qui est à déconseiller […] Par ailleurs, quand une pénalité est imposée en vertu du paragraphe 163(2) même si une norme de preuve civile est exigée, lorsque la conduite d’un contribuable cadre avec deux hypothèses viables et raisonnables, l’une qui justifie la pénalité et l’autre pas, il convient d’accorder le bénéfice du doute au contribuable, et de supprimer la pénalité […]
+[Non souligné dans l’original.]
+[52] À ce titre, l’imposition de pénalités pour faute lourde doit être appliquée dans les cas les plus clairs dans lesquels l’intimée est tenue de prouver l’intention ou la mauvaise conduite insouciante. Autrement, le bénéfice du doute doit être accordé aux contribuables.
+[53] La méthode que les appelants ont utilisée, l’ambiguïté des éléments de preuve entourant la facturation et les paiements concernant Gravenhurst et les paiements effectués en 2006 pour des factures de 2005, qui ont été déclarés comme revenu en 2006 ainsi que le fait d’accepter que les appelants ont supposé qu’il y avait une créance irrécouvrable, bien que sa déduction n’ait pas été demandée dans leur déclaration et que des mesures de perception n’aient pas été prises, me laissent dans le doute, et je pourrais tirer une conclusion dans un sens ou dans l’autre. Néanmoins, tout bien considéré, si les appelants tentaient de dissimuler un revenu en 2005, il est peu probable qu’ils auraient également déclaré un revenu de ventes en trop ou en double l’année suivante à l’encontre de leur intérêt et il ne semblait pas y avoir de revenu non déclaré en 2006[11]. Ce facteur correspond à leur position selon laquelle ils avaient peu de connaissances en comptabilité.
+[54] Compte tenu de l’ensemble de la preuve et accordant aux appelants le bénéfice du doute, tout bien pesé, je conclus que leur conduite ne constitue pas une faute lourde ou de l’insouciance. Je conclus que l’intimée ne s’est pas acquittée de son fardeau et n’a pas prouvé l’imposition des pénalités en 2005 aux termes du paragraphe 163(2) de la LIR et celles-ci devraient être supprimées.
+Les dépenses ‒ 2006 [55] Il incombe aux appelants d’établir que les dépenses à l’égard desquelles ils demandent une déduction en 2006 ont été engagées par Infrared en 2006 en vue de tirer un revenu de l’entreprise. De manière générale, j’accepte la plus grande partie des éléments de preuve et du témoignage des appelants en ce qui a trait aux dépenses.
+[56] L’intimée fait valoir que les montants, soit n’ont pas été engagés par Infrared, soit s’ils l’ont été, ils n’ont pas été engagés en vue de tirer un revenu de l’entreprise aux termes de l’alinéa 18(1)a) de la LIR et elles n’étaient pas raisonnables. Elle soutient également que les appelants ont omis de tenir des livres et des registres comptables suffisants, comme l’exige le paragraphe 230(1) de la LIR, à l’appui de la production de déclarations de revenus et les dépenses devraient être refusées[12].
+[57] Les appelants soutiennent qu’on leur a imposé à une norme de preuve plus élevée lorsque des documents étaient disponibles et des reçus ne l’étaient pas, mais leurs demandes ont quand même été rejetées. Comme l’ont souligné les appelants, la Cour peut autoriser des dépenses dans le cas où un témoignage crédible est présenté sans preuve documentaire et ils ont invoqué la décision Benjamin c Sa Majesté la Reine, 2006 CCI 69, [2006] 2 CTC 2197, pour appuyer leur prétention[13]. Le témoignage crédible peut être accepté, mais il doit être clair et montrer que la cotisation est erronée.
+[58] Au cours de la première rencontre le 9 juillet 2008, M. Lognon a expliqué à M. Chaloux qu’un reçu d’achat était nécessaire pour des dépenses comme l’essence et que des reçus de transactions et des relevés bancaires ou de cartes de crédit sont insuffisants pour prouver l’achat de l’article. Il a reçu une boîte partiellement remplie de documents pour chacune des années 2005 et 2006 qui étaient « entremêlés » et la plupart des reçus pour les dépenses dont la déduction était demandée n’étaient pas triés et placés dans une chemise. Le vérificateur a demandé à M. Chaloux d’organiser les dossiers par catégorie. Il a alors cherché des reçus d’achats ou des relevés pour des dépenses comme les services d’utilité publique et un contrat de location. Il a dressé la liste de chaque dépense et y a attribué une catégorie si les reçus étaient fournis par les appelants. Le 12 mars 2009, M. Chaloux a apporté une boîte de documents pour appuyer sa réponse à la lettre de proposition du vérificateur. Il a été établi que ces renseignements avaient déjà été fournis, et les documents lui ont été retournés.
+Le loyer/l’espace de travail à domicile/les services d’utilité publique
+[59] D’octobre 2000 à avril 2007, les appelants ont loué la propriété de Moskoka et y ont résidé avec deux de leurs enfants. La propriété comptait un lot d’une superficie d’un acre et une maison de 2 400 pieds carrés, comprenant le sous-sol, un garage attenant et un atelier distinct de 2 000 pieds à l’arrière de la propriété (l’« atelier »). Mme Chaloux a confirmé que le loyer s’élevait à 1 000 $ par mois pour la maison et l’atelier. En 2005 et 2006, Infrared utilisait le bureau de 120 pieds carrés situé au sous-sol de façon exclusive.
+[60] L’atelier était presque exclusivement utilisé par Infrared pour reconstruire du matériel avec des pièces d’occasion et de nouveaux condensateurs avant leur installation chez les clients. M. Chaloux a indiqué que, s’il travaillait à un gros projet sur une période de quelques semaines dans l’atelier, la consommation des services d’utilité publique augmentait[14]. M. Chaloux avait demandé la déduction d’une utilisation commerciale de 40 %, s’élevant à 1 625,60 $, pour toutes les dépenses, à l’exclusion de l’inclusion du loyer de 12 000 $ à l’égard duquel il a demandé une déduction complète au motif qu’il se rapportait entièrement à l’entreprise.
+[61] M. Lognon a accepté le montant mensuel de loyer sans document. Il a combiné les montants annuels de loyer, les services d’utilité publique (électricité, chauffage et eau), l’entretien et l’assurance s’élevant à un total de 15 864 $ et a décrit le montant comme [traduction] « Espace de travail à domicile ». Compte tenu d’une utilisation commerciale de 12,4 %, il a accepté un montant de 1 967 $.
+[62] J’accepte l’approche incluant l’atelier et le bureau dans la catégorie décrite par M. Lognon. Toutefois, compte tenu du témoignage de M. Chaloux à propos de l’utilisation de la propriété de Muskoka et des activités qui étaient exercées, de la nature de l’entreprise, de la grandeur et de l’utilisation exclusive du bureau et de l’atelier, et reconnaissant que les outils électriques décrits pouvaient consommer une plus grande quantité d’énergie, je conclus que le montant imputable à l’utilisation commerciale est 30 % de 15 864 $ à titre d’espace de travail à domicile[15].
+Les dépenses de véhicule à moteur ainsi que les réparations et l’entretien
+[63] M. Chaloux a dit qu’il faisait de très nombreux déplacements pour son entreprise presque partout en Ontario et qu’il allait à l’extérieur de la province, mais il ne pouvait se rappeler les destinations. M. Lognon a dit que, pendant la rencontre, il avait indiqué que sa région était Muskoka, le Nord de Muskoka et Parry Sound.
+[64] Selon M. Chaloux, il utilisait une fourgonnette Chevy Lumina 1993 (la « fourgonnette ») exclusivement à des fins commerciales pour transporter le matériel d’imagerie d’Infrared, de même que des câbles, des clés, des douilles, d’autres outils et pièces sur les lieux où il exécutait les travaux.
+[65] S’il devait rencontrer des clients ou Hydro One pour discuter de logistique, de sécurité et ainsi de suite, il conduisait une Audi 1995. Il se déplaçait de Gravenhurst à un autre endroit à au moins cinq reprises et conduisait pendant plus d’une heure à d’autres lieux de travail. Une Audi 1996 était également utilisée pour transporter du matériel pour imprimer. M. Chaloux avait demandé uniquement la déduction de la fourgonnette et de l’Audi 1995, représentant un montant de 21 665 $ pour les deux véhicules. Il a estimé que les véhicules Audi étaient utilisés environ 30 % et 10 % du temps, respectivement, et qu’il avait parcouru un total de 50 000 kilomètres pour son entreprise. M. Chaloux a demandé une déduction de 100 % pour usage commercial de la fourgonnette et 39 % pour l’Audi 1995. Il a fourni des reçus de carburant totalisant 11 093 $ et 2 455 $ pour la fourgonnette et l’Audi 1995, respectivement.
+[66] M. Lognon a indiqué que les dépenses étaient accordées si elles étaient appuyées par des documents. Même si des documents n’appuyaient pas l’utilisation commerciale de la fourgonnette, il a accordé une déduction de 75 % pour usage commercial et a fait l’hypothèse d’une utilisation de 18 000 kilomètres et que le kilométrage restant était à des fins personnelles[16]. M. Lognon a expliqué que les reçus de carburant pour les deux véhicules étaient « mélangés », accordant 82 % pour la fourgonnette et 18 % pour l’Audi 1995, et n’accordant rien pour l’Audi 1996. Finalement, 12 975 $ ont été refusés sur le montant demandé.
+[67] En ce qui concerne les réparations et l’entretien, M. Chaloux a indiqué que la fourgonnette nécessitait beaucoup de travaux et d’entretien, comme les freins, les pneus et des changements d'huile à tous les mois, et que le montant de 755,34 $ accordé par rapport au montant de 5 258,37 $ était insuffisant et que le montant total constituait une dépense d’entreprise. En contre‑interrogatoire, M. Chaloux a reconnu que le montant de 2 000 $ demandé dans cette catégorie visait le pare‑brise d’un bateau et il a insisté sur le fait que le montant de 1 726,95 $ relativement à ECS Tuning visait l’une des Audi, mais n’a pas précisé laquelle. Je rejette les montants de 2 000 $ et de 1 726,95 $ à titre de dépenses d’entreprise déductibles.
+[68] M. Lognon a indiqué que la facture d’assurance visait trois véhicules et a accordé 340 $ pour la fourgonnette. En contre‑interrogatoire toutefois, il a déclaré qu’il ne savait pas s’il était possible d’assurer un véhicule en Ontario pour 340 $. Selon M. Chaloux, l’assurance pour la fourgonnette à elle seule s’élevait à 1 460,44 $.
+[69] À l’exception des dépenses suivantes, je suis convaincue que les montants et les pourcentages accordés par M. Lognon au regard de la fourgonnette, à la pièce R ‑1, onglet 13, sont raisonnables dans les circonstances et je conviens qu’aucun montant ne devrait être accordé en ce qui concerne l’Audi 1996. Le montant supplémentaire de 75 % de 1 531,42 $ devrait être accordé au titre de l’entretien et des réparations pour la fourgonnette 1993 comme l’a décrit M. Chaloux et en ce qui concerne l’assurance, elle devrait être rajustée pour accorder 75 % du montant 1 460,44 $. De même, j’accorderais une utilisation commerciale de 12 % à l’égard de l’entretien et des réparations de l’Audi 1995, de l’assurance et de l’immatriculation du véhicule (1 033 $, 988 $ et 74 $, respectivement) et 5 000 kilomètres.
+Les déplacements
+[70] La déduction d’un montant de 13 267 $ au titre de dépenses de déplacements en grande partie en Ontario a été demandée et refusée. Les clients se trouvaient à Muskoka, à Trillium (services rendus à plusieurs écoles), dans la région de Bancroft, à Freemond et à South River. Il a estimé qu’il avait passé environ 30 nuits à l’extérieur, à plusieurs heures de conduite de chez lui. S’il devait couper l’électricité dans un lieu ou effectuer une imagerie la nuit pour vérifier l’intégrité d’un édifice, il y passait la nuit. Mme Chaloux a corroboré les nuits passées à l’extérieur. Je conclus que le montant de 4 500 $ est déductible à titre de dépense d’entreprise.
+Les repas et le divertissement
+[71] M. Chaloux a indiqué qu’il amenait des clients existants déjeuner et qu’il dépensait de l’argent pour des repas avec des clients éventuels et qu’il a eu au moins 15 déjeuners pour discuter d’affaires. Je conclus que le montant supplémentaire de 450 $ doit être accordé.
+Les montants relatifs aux contrats de sous-traitance
+[72] M. Chaloux a déclaré qu’il retenait les services de son fils, M. Chaloux, pendant sa transition à l’université. Il effectuait des tests micrométriques, des arrêts, enlevait des disjoncteurs et effectuait d’autres tests. Pour éviter le changement de disjoncteurs, son fils enlevait le matériel sur les lieux, le nettoyait, le réparait et le réinstallait ensuite. M. Chaloux a présenté cinq chèques oblitérés, représentant un montant total de 7 355 $, comme preuve de paiements à son fils, mais M. Lognon les a rejetées parce que les montants n’étaient pas vérifiés. M. Lognon a indiqué qu’à l’étape de la vérification, M. Chaloux lui avait dit que son fils l’aidait à sortir des choses de la fourgonnette[17].
+[73] Compte tenu de l’explication à propos du travail exécuté pendant la période de transition, des chèques oblitérés et de la corroboration de Mme Chaloux, je conclus que le montant de 7 355 $ est déductible à titre de dépense de contrat de sous-traitance.
+Le téléphone
+[74] Distributel Communications Limited (« Distributel ») a fourni une ligne terrestre en contrepartie de frais, ce qui incluait 1 000 minutes pour un coût fixe, et des appels locaux et interurbains ont été faits à des fins personnelles et commerciales. M. Chaloux téléphonait à des fournisseurs et à des clients[18]. Il a estimé que 70 % des appels étaient des appels d’affaires. Mme Chaloux appelait sa fille aux États‑Unis et sa famille en Alberta.
+[75] Même si M. Lognon avait accordé 100 % des dépenses à l’égard de deux téléphones cellulaires, il a refusé le montant complet à l’égard de Distributel parce qu’il a compris qu’il s’agissait d’un forfait d’appels interurbains et il avait demandé à M. Chaloux d’indiquer les appels commerciaux, mais celui-ci n’avait pu le faire. En contre‑interrogatoire, le vérificateur a convenu que l’écriture sur les relevés était celle de son chef d’équipe qui indiquait que plusieurs appels sortants, parmi le nombre total d’appels, état des appels commerciaux au cours des quatre premiers mois de 2006, ainsi :
+Appels commerciaux
+Total des appels
+Janvier
+44
+144
+Février
+18
+200
+Mars
+30
+185
+Avril
+51
+175
+[76] La demande de M. Chaloux visant une déduction de 70 % n’est appuyée par aucun élément de preuve. Je conclus que 20 % des montants figurant sur les relevés de Distributel constituent des dépenses liées à l’entreprise[19].
+Les fournitures
+[77] Compte tenu de la description de M. Chaloux quant aux activités d’Infrared, je conclus que le montant de 3 680 $ pour le matériel électrique est déductible en entier à titre de dépense d’entreprise, étant appuyé par un chèque oblitéré, portant le numéro 0004, émis par Infrared et daté du 17 février 2006 et qui renvoie à l’achat de matériel électrique excédentaire.
+[78] Les dépenses diverses de 2006 qui restent et qui ne comportent pas de renvoi sont refusées, puisque les appelants n’ont pas montré que ces dépenses avaient été engagées aux fins de tirer un revenu de l’entreprise. Elles sont donc refusées à juste titre, conformément à l’alinéa 18(1)a) de la LIR.
+La taxe nette et les pénalités au titre de la TPS
+[79] Les dispositions pertinentes de la LTA sont rédigées ainsi :
+Règle générale [concernant les crédits de taxe sur les intrants]
+169. (1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+[…]
+Documents
+(4) L’inscrit peut demander un crédit de taxe sur les intrants pour une période de déclaration si, avant de produire la déclaration à cette fin :
+a) il obtient les renseignements suffisants pour établir le montant du crédit, y compris les renseignements visés par règlement;
+b) dans le cas où le crédit se rapporte à un bien ou un service qui lui est fourni dans des circonstances où il est tenu d’indiquer la taxe payable relativement à la fourniture dans une déclaration présentée au ministre aux termes de la présente partie, il indique la taxe dans une déclaration produite aux termes de la présente partie.
+Dispense [à l’égard de l’exigence en matière de documents]
+(5) Le ministre peut, s’il est convaincu qu’il existe ou existera des documents suffisants pour établir les faits relatifs à une fourniture ou à une importation, ou à une catégorie de fournitures ou d’importations, ainsi que pour calculer la taxe relative à la fourniture ou à l’importation, qui est payée ou payable en application de la présente partie :
+a) dispenser un inscrit, une catégorie d’inscrits ou les inscrits en général des exigences prévues au paragraphe (4) relativement à la fourniture ou à l’importation ou à une fourniture ou une importation de la catégorie;
+b) préciser les modalités de la dispense.
+[...]
+Versement
+228. (2) La personne est tenue de verser au receveur général le montant positif de sa taxe nette pour une période de déclaration dans le délai suivant, sauf les paragraphes (2.1) ou (2.3) s’appliquent à la période de déclaration :
+a) si elle est un particulier auquel le sous-alinéa 238(1)a)(ii) s’applique pour la période, au plus tard le 30 avril de l’année suivant la fin de la période;
+b) dans les autres cas, au plus tard le jour où la déclaration visant la période est à produire.
+[…]
+Production par un inscrit
+238. (1) L’inscrit doit présenter une déclaration au ministre pour chacune de ses périodes de déclaration dans le délai suivant :
+a) si la période de déclaration correspond à l’exercice, ou y correspondrait n’eût été le paragraphe 251(1) :
+(i) sauf en cas d’application du sous-alinéa (ii), dans les trois mois suivant la fin de l’exercice,
+(ii) lorsque l’exercice correspond à une année civile et que l’inscrit est un particulier qui exploitait une entreprise au cours de l’année pour l’application de la Loi de l’impôt sur le revenu et dont la date d’échéance de production pour l’année pour l’application de cette loi est le 15 juin de l’année suivante, au plus tard à cette date;
+b) sinon, dans un délai d’un mois suivant la fin de la période de déclaration.
+[…]
+Inscription obligatoire
+240. (1) Toute personne, sauf les personnes suivantes, qui effectue une fourniture taxable au Canada dans le cadre d’une activité commerciale qu’elle y exerce est tenue d’être inscrite pour l’application de la présente partie :
+a) les petits fournisseurs;
+b) les personnes dont la seule activité commerciale consiste à effectuer, par vente, des fournitures d’immeubles en dehors du cadre d’une entreprise;
+c) les personnes non-résidentes qui n’exploitent pas d’entreprise au Canada.
+[…]
+Pénalités et intérêts
+280. (1) Sous réserve du présent article et de l’article 281, la personne qui ne verse pas ou ne paie pas un montant au receveur général dans le délai prévu par la présente partie est tenue de payer la pénalité et les intérêts suivants, calculés sur ce montant pour la période commençant le lendemain de l’expiration du délai et se terminant le jour du versement ou du paiement :
+a) une pénalité de 6 % par année;
+b) des intérêts au taux réglementaire.
+[…]
+Ministre non lié
+299. (1) Le ministre n’est pas lié par quelque déclaration, demande ou renseignement livré par une personne ou en son nom; il peut établir une cotisation indépendamment du fait que quelque déclaration, demande ou renseignement ait été livré ou non.
+[80] M. Chaloux n’a pas réfuté les hypothèses du ministre en ce qui a trait à la taxe nette et aux pénalités au titre de la TPS.
+[81] Pendant la vérification fiscale pour les années 2005 et 2006, on a découvert que la société de personnes n’était pas inscrite aux fins de la TPS. Lorsqu’il a été interrogé à ce sujet, M. Chaloux a déclaré qu’il ne croyait pas qu’il devait l’être, mais qu’il la facturait.
+[82] Le montant des ventes visées par la cotisation du ministre en 2005 et en 2006 indique qu’Infrared n’était pas un petit fournisseur au sens de l’article 148 de la LTA pendant les périodes. Le vérificateur a confirmé que la TPS percevable est calculée sur les ventes et la cotisation visant l’entreprise a été établie en conséquence[20].
+[83] Outre les crédits de taxe pour intrants au montant 240,39 $ que le ministre a accordés, M. Chaloux ne s’est pas acquitté de ses obligations en matière de présentation de documents prévues au paragraphe 169(1) et (4) de la LTA et du Règlement sur les renseignements nécessaires à une demande de crédit de taxe sur les intrants en vue d’obtenir des crédits de taxe sur les intrants supplémentaires.
+[84] Étant donné la preuve selon laquelle l’entreprise n’était pas inscrite aux fins de la TPS comme l’exige le paragraphe 240(1), qu’aucune déclaration de TPS n’a été produite aux termes du paragraphe 238(1), qu’aucune TPS n’a été déclarée ni remise au moment opportun suivant le paragraphe 228(2) de la LTA, je conclus que le ministre a à juste titre établi à l’égard de M. Chaloux une nouvelle cotisation visant la taxe nette et lui a imposé à juste titre des pénalités au titre de la TPS.
+[85] Compte tenu des dépenses d’entreprise supplémentaires admises pour 2006 dans les présents motifs, il sera nécessaire de faire des rajustements aux fins de l’impôt sur le revenu et, par conséquent, pour la TPS percevable et la taxe nette, plus les rajustements pour les pénalités au titre de la TPS pour la période de déclaration de 2006. Sous réserve de ces rajustements qui doivent être faits, je conclus que le ministre a à juste titre établi à l’égard de M. Chaloux une nouvelle cotisation visant la taxe nette et lui a imposé à juste titre des pénalités au titre de la taxe nette et au titre de la TPS, conformément au paragraphe 280(1) et à l’article 280.1. Puisque M. Chaloux était un membre de la société de personnes, conformément au paragraphe 272.1(5) et à l’alinéa 296(1)e) de la LTA, il est conjointement et solidairement responsable de la dette de la société de personnes au titre de la TPS.
+III. Conclusion [86] J’ai conclu que le ministre s’était acquitté de son fardeau en ce qui concerne le sous‑alinéa 152(4)a)(i) de la LIR, mais non en ce qui concerne le paragraphe 163(2) de la LIR relativement aux pénalités. Par conséquent, le ministre a à juste titre établi de nouvelles cotisations à l’égard des appelants en dehors de la période normale de nouvelle cotisation pour 2005 et a à juste titre inclus les montants de 52 824 $ et de 35 216 $, respectivement, pour M. Chaloux et Mme Chaloux à titre de revenu d’entreprise. L’appel visant 2005 est rejeté.
+[87] Pour 2006, les dépenses d’entreprise supplémentaires mentionnées plus tôt sont admises. L’appel visant 2006 est accueilli en partie dans la mesure des dépenses accordées.
+[88] En ce qui a trait à l’appel de M. Chaloux relativement à la TPS, l’intimée a concédé dès le début de l’audience que l’appelant ne ferait plus l’objet des pénalités pour faute lourde de 5 486 $ au titre de l’article 285. L’appel est accueilli en partie pour donner effet à cette concession et sous réserve des rajustements au titre de la taxe nette et des pénalités au titre de la TPS découlant des dépenses d’entreprise supplémentaires accordées en 2006 dans l’appel relatif à l’impôt sur le revenu, l’appel visant la taxe nette et les pénalités au titre de la TPS est rejeté, et M. Chaloux, en application du paragraphe 272.1(5) et de l’alinéa 296(1)e) de la LTA, est conjointement et solidairement responsable de la dette de la société de personnes au titre de la TPS.
+[89] Puisque le succès concernant l’appel relatif à l’impôt sur le revenu est partagé, il n’y aura pas d’adjudication de dépens.
+[90] Il n’y aura pas d’ordonnance quant aux dépens à l’égard de l’appel de M. Chaloux relatif à la TPS, étant donné que les montants en cause aux fins de l’article 18.3009 de la Loi sur la Cour canadienne de l’impôt ne sont pas inférieurs à 7 000 $ à l’égard desquels des dépens ne peuvent être adjugés.
+Signé à Ottawa, Canada, ce 13e jour de novembre 2015.
+« K. Lyons »
+Juge Lyons
+Traduction certifiée conforme
+ce 25e jour de janvier 2016.
+C. Laroche
+Annexe 1
+Dépenses de 2006
+Demandées
+Refusées
+Achats
+18 934,26 $
+8 917,40 $
+Contrats de sous-traitance
+7 355,00 $
+7 355,00 $
+Livraison et fret
+285,04 $
+172,55 $
+Réparations et entretien
+514,77 $
+514,77 $
+Repas et divertissement
+1 815,54 $
+1 748,34 $
+Véhicule moteur
+21 665,23 $
+12 975,56 $
+Fournitures
+8 460,75 $
+6 507,73 $
+Bureau
+2 320,00 $
+1 075,83 $
+Loyer
+12 000,00 $
+12 000,00 $
+Déplacements
+13 277,07 $
+13 277,07 $
+Téléphone et services d’utilité publique
+9 581,46 $
+6 293,41 $
+Autres dépenses
+936,60 $
+494 60 $
+DPA
+5 911,27 $
+5 643,52 $
+Total
+103 056,99 $
+76 975,78 $
+RÉFÉRENCE :
+2015 CCI 284
+Nos deS dossiers de la cour :
+2012-3601(GST)I, 2012-3621(IT)G et 2012-3624(IT)G
+Intitulé :
+Marcel Chaloux et Sa Majesté la Reine
+Donna Chaloux et Sa Majesté la Reine
+Lieu de l’audience :
+Toronto (Ontario)
+Date de l’audience :
+Les 2 et 3 mars 2015
+Motifs du jugement :
+L’honorable juge K. Lyons
+DATE DU JUGEMENT :
+Le 13 novembre 2015
+Comparutions :
+Avocat des appelants :
+Me Gary Sonik
+Avocat de l’intimée :
+Me Tony Cheung
+Avocats inscrits auX dossiers :
+Pour les appelants :
+Nom :
+Gary Sonik
+Cabinet :
+DioGuardi Tax Law
+Mississauga (Ontario)
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Pièces R‑1 et R‑2 - Affidavits indiquant le revenu de profession libérale net déclaré.
+[2] Dans l’arrêt Molenaar c Canada, 2004 CAF 349, 2005 DTC 5307 (CAF), la Cour d’appel fédérale a fait écho aux observations du juge Pelletier dans l’arrêt Lacroix en déclarant ce qui suit :
+4. À partir du moment où le ministère établi selon des données fiables un écart, substantiel dans le cas présent, entre les actifs d’un contribuable et ses dépenses et où cet écart demeure inexpliqué et inexplicable, le ministère a assumé son fardeau de preuve. Il appartient alors au contribuable d’identifier la source et d’établir la nature non imposable de ses revenus.
+[3] Dans College Park Motors Ltd c Canada, 2009 CCI 409, 2009 DTC 1269, aux paragraphes 13 et 20, le juge Bowie a indiqué que cette disposition était une disposition réparatrice qui n’avait nullement pour objet d’établir une quelconque culpabilité de la part du contribuable. Elle concilie la nécessité, pour le contribuable, que son obligation fiscale afférente à une année d’imposition soit arrêtée de façon définitive, avec les exigences propres à un système d’autodéclaration faisant en sorte que le fisc ne soit pas empêché d’établir une nouvelle cotisation lorsque, en raison de sa conduite, un contribuable a bénéficié d’une cotisation plus avantageuse que celle qui aurait dû être établie, au mieux, par manque de diligence ou d’attention ou, au pire, par fraude volontaire. Dans Udell c Canada (Ministre du Revenue national) 1969, 70 DTC 6019, le juge Cattanach a présenté des principes à appliquer pour déterminer si une pénalité devait être imposée. En interprétant le libellé de ce qui était alors le paragraphe 56(2) de l’ancienne Loi de l’impôt sur le revenu, dont le libellé était semblable à celui de l’actuel article 163(2), le juge Cattanach a déclaré ce qui suit aux pages 6025 et 6026 :
+46. Il ne fait aucun doute que l’article 56(2) ne soit un article pénal. Pour interpréter un texte pénal, il faut se référer à la jurisprudence incontestable établie par lord Esher dans l’affaire Tuck & Sons v. Priester, (1887) 19 Q.B.D. 629, où il précise que si l’on peut donner aux termes d’un article pénal deux interprétations, l’une infligeant la pénalité et l’autre l’écartant, celle-ci doit prévaloir; il déclare en effet, à la page 638 :
+Il faut interpréter cet article avec précaution, car il inflige une pénalité. S’il existe une interprétation raisonnable qui permette, dans un cas donné, d’éviter la pénalité, il faut l’adopter.
+[…]
+51. Il est de règle, à mon avis, que lorsqu’il existe, pour l’imposition d’une taxe ou d’un droit, et a fortiori d’une pénalité, un doute raisonnablement fondé, il faut interpréter la loi de façon à donner à la partie visée le bénéfice du doute. [Voir aussi Farm Business Consultants Inc. v Canada, 95 DTC 200.]
+[4] La période normale de nouvelle cotisation est définie au paragraphe 152(3.1) de la LIR.
+[5] Le fardeau qui incombe au ministre de prouver les faits justifiant l’imposition d’une pénalité est prévu au paragraphe 163(3), et, selon la description de ce fardeau par la jurisprudence, le contribuable doit avoir fait un faux énoncé ou une omission dans une déclaration et ceux-ci doivent avoir été faits sciemment ou dans des circonstances équivalant à faute lourde.
+[6] Pièce R‑1, onglets 8 et 9.
+[7] Pièce A‑1.
+[8] Transcription, à la page 334, lignes 20 à 25.
+[9] M. Lognon a reconnu que le compte bancaire de la RBC affiche un dépôt provenant de McGlynn le 16 février 2006 et un dépôt provenant de Huntsville le 4 février 2006, mais il n’avait pas vu de facture destinée à Huntsville en 2006.
+[10] Les notes d’entrevue rédigées par M. Lognon indiquent qu’à au moins deux occasions, dont une fois en janvier 2009 lors d’une rencontre, des renseignements ont été retournés aux appelants, ce que M. Chaloux a reconnu en signant des reçus.
+[11] La Direction générale des appels de l'ARC a découvert qu'ils avaient déclaré deux fois en 2006 des ventes de la société de personnes de 6 500 $ parce que ce montant avait été déclaré en 2005, et les ventes déclarées en trop en 2006 ont finalement diminué les ventes en 2006 d'un montant de 14 434,44 $, donnant lieu à une nouvelle cotisation pour un montant moindre que le montant déclaré par les appelants.
+[12] Le paragraphe 230(1) de la LIR est rédigé ainsi :
+Livres de comptes et registres
+230.(1) Quiconque exploite une entreprise et quiconque est obligé, par ou selon la présente loi, de payer ou de percevoir des impôts ou autres montants doit tenir des registres et des livres de comptes (y compris un inventaire annuel, selon les modalités réglementaires) à son lieu d’affaires ou de résidence au Canada ou à tout autre lieu que le ministre peut désigner, dans la forme et renfermant les renseignements qui permettent d’établir le montant des impôts payables en vertu de la présente loi, ou des impôts ou autres sommes qui auraient dû être déduites, retenues ou perçues.
+[13] Voir aussi Braithwaite c Sa Majesté la Reine, 2014 CCI 29 aux paragraphes 6 et 7, la Cour a accepté un témoignage qui présentait des explications et a finalement admis les crédits de taxe sur les intrants en vue de la réduction de la TPS.
+[14] Il a déclaré que les factures de chauffage s’élevaient à environ 200 $ par mois au cours de l’hiver et a estimé que 60 % de la facture d’électricité étaient imputables à l’atelier. Les outils consistaient en une soudeuse à arc électrique, une meuleuse, des compresseurs et d’autres outils.
+[15] Pièce R‑1, onglet 13. Il n’y avait aucun registre ni aucun autre support pour montrer l’utilisation d’un véhicule par rapport à un autre.
+[16] Pièce R‑1, onglet 13.
+[17] Le total comprend des montants de 1 700 $, de 300 $, de 1 755 $, de 2 200 $ et de 1 400 $.
+[18] PL Cartrack, une occasion de consultation chez laquelle il avait espéré installer de systèmes électriques aux États-Unis, et un poste électrique pour une usine à gaz au Manitoba sont des exemples.
+[19] Le montant de 6 293 $ à l’annexe 1 inclut les services d’utilité publique et vraisemblablement le reste concerne les relevés de Distributel.
+[20] En contre‑interrogatoire, M. Lognon a confirmé que plusieurs factures délivrées par Infrared en 2006 indiquaient la TPS séparément, alors que, sur sa liste de factures et de dépôts bancaires pour les ventes intitulée [traduction] « Total des dépôts », le montant de 132 741,41 $ inclut la TPS. Il a précisé que 6 ½ % de ce total représentait la TPS, et, comme l’indique l’annexe A de la réponse du ministre, le revenu imputable à M. Chaloux exclut la TPS.

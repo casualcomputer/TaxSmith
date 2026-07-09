@@ -1,0 +1,317 @@
+---
+title: "Andrews c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27769/index.do"
+last_modified: "2005-04-13"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 246"
+citation2: ""
+neutral_citation: "2005 CCI 246"
+decision_date: "2005-04-13"
+language: "fr"
+item_id: "27769"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 290
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:00:27.048000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b3cadff050d3f9b2f76833b880184ae73fab334e3b90d5d72faa52467ba4e84d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Andrews c. La Reine
+
+- Citation: 2005 CCI 246
+- Decision date: 2005-04-13
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 290, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Andrews c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-04-13
+Référence neutre
+2005 CCI 246
+Numéro de dossier
+2004-916(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004-916(IT)I
+ENTRE :
+ROSS ANDREWS,
+appelant,
+ET
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 10 mars 2005, à Kitchener (Ontario)
+Devant : L’honorable D. G. H. Bowman, juge en chef
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me April Tate
+____________________________________________________________________
+JUGEMENT
+Les appels sont accueillis et les cotisations visant les années d’imposition 2000, 2001 et 2002 sont renvoyées au ministre pour qu’il procède à un nouvel examen et qu’il établisse une nouvelle cotisation afin de permettre à l’appelant d’exclure de son revenu les montants de 5 780 $, 6 672 $ et 6 792 $ respectivement, soit la portion de sa pension qu’il a versée à son ex-épouse au titre de l’égalisation des biens familiaux en vertu de la Loi sur le droit de la famille de l’Ontario.
+L’appelant a droit à ses dépens, s’il en est, conformément au tarif.
+Signé à Ottawa, Canada, ce 13e jour d’avril 2005.
+« D. G. H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 15e jour de février 2006.
+Mario Lagacé, réviseur
+Référence : 2005CCI246
+Date : 20050413
+Dossier : 2004-916(IT)I
+ENTRE :
+ROSS ANDREWS,
+appelant,
+ET
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge en chef Bowman
+[1] Les présents appels visent les cotisations établies à l’égard des années d’imposition 2000, 2001 et 2002 de l’appelant. Ils ont trait à la déduction de montants de 5 780,00 $, 6 672,00 $ et 6 792,00 $ que l’appelant a versés à son ex-épouse. Comme le montreront les motifs ci-après, le point en litige ne concerne pas simplement la déductibilité. Il y a une question subsidiaire et distincte qui consiste à déterminer si ces montants devraient être exclus du revenu de l’appelant plutôt que déduits.
+[2] Les faits sont un peu complexes et les règles de droit ne sont pas aussi claires qu’elles pourraient l’être. Je vais commencer par citer les dispositions pertinentes de la Loi de l’impôt sur le revenu (la « Loi »). En général, lorsqu’il y a des paiements périodiques versés à la suite de la rupture du mariage, il est pertinent de prendre en considération la position du payeur ainsi que celle du bénéficiaire, simplement parce que les dispositions de la Loi relatives à ces paiements visent, à un certain degré du moins, le traitement symétrique des époux[1]. Les montants en cause représentent une partie de la pension de l’appelant versée par son ancien employeur (IBM), de sorte que je reprendrai ici non seulement les dispositions de la Loi qui traitent de la pension alimentaire, mais aussi celles qui portent sur les prestations de pension.
+56.(1) Sans préjudice de la portée générale de l'article 3, sont à inclure dans le calcul du revenu d'un contribuable pour une année d'imposition :
+a) toute somme reçue par le contribuable au cours de l'année au titre, ou en paiement intégral ou partiel :
+(i) d'une prestation de retraite ou de pension, y compris, sans préjudice de la portée générale de ce qui précède:
+[...]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A – (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a reçue après 1996 et avant la fin de l'année d'une personne donnée dont il vivait séparé au moment de la réception de la pension,
+B le total des montants représentant chacun une pension alimentaire pour enfants que la personne donnée était tenue de verser au contribuable aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a reçue de la personne donnée après 1996 et qu'il a incluse dans son revenu pour une année d'imposition antérieure;
+Article 56.1
+(4) Les définitions qui suivent s'appliquent au présent article et à l'article 56.
+[…]
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas:
+a) le bénéficiaire est l'époux ou le conjoint de fait ou l'ex-époux ou l'ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+b) le payeur est le père naturel ou la mère naturelle d'un enfant du bénéficiaire et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province.
+60. Peuvent être déduites dans le calcul du revenu d'un contribuable pour une année d'imposition les sommes suivantes qui sont appropriées :
+[...]
+b) le total des montants représentant chacun le résultat du calcul suivant :
+A – (B + C)
+où :
+A représente le total des montants représentant chacun une pension alimentaire que le contribuable a payée après 1996 et avant la fin de l'année à une personne donnée dont il vivait séparé au moment du paiement,
+B le total des montants représentant chacun une pension alimentaire pour enfants qui est devenue payable par le contribuable à la personne donnée aux termes d'un accord ou d'une ordonnance à la date d'exécution ou postérieurement et avant la fin de l'année relativement à une période ayant commencé à cette date ou postérieurement,
+C le total des montants représentant chacun une pension alimentaire que le contribuable a payée à la personne donnée après 1996 et qui est déductible dans le calcul de son revenu pour une année d'imposition antérieure;
+[...]
+c) [Abrogé par L.C. 1997, ch. 25, par. 10(1).]
+[...]
+c.1) [Abrogé par L.C. 1994, ch. 7, ann. VIII, par. 20(2).]
+[...]
+c.2) une somme que le contribuable a payée au cours de l'année ou d'une des deux années d'imposition précédentes, en vertu d'une ordonnance ou d'un jugement rendus par un tribunal compétent, à titre de remboursement d'un montant inclus en application des alinéas 56(1)b) ou c), ou de l'alinéa 56(1)c.1) (tel qu'il s'applique, dans le calcul du revenu du contribuable pour l'année ou pour une année d'imposition antérieure, aux ordonnances ou jugements rendus avant 1993), dans la mesure où elle n'a pas été déduite dans le calcul du revenu du contribuable pour une année d'imposition antérieure;
+[...]
+Paragraphe 60.1(4)
+Les définitions figurant au paragraphe 56.1(4) s'appliquent au présent article et à l'article 60.
+[3] Les faits qui donnent lieu au litige sont les suivants. L’appelant et son épouse d’alors, Margaret Gail Andrews, ont conclu un accord de séparation le 3 juin 1987. Deux clauses de cet accord sont dignes de mention :
+[TRADUCTION]
+AUTRES PENSIONS
+Les époux reconnaissent que chacun d’entre eux a droit à une pension de retraite de son employeur.
+Les époux conviennent, pour les besoins de l’égalisation des biens familiaux nets, que chacun d’entre eux a droit de recevoir, soit directement de l’employeur de l’autre époux, soit directement de l’autre époux, dès que l’autre époux touche des prestations de pension, une somme calculée selon la formule suivante :
+½ X le nombre de mois de cohabitation
+pendant la période de cotisation au régime
+le nombre de mois de cotisation ou de participation au régime
+X la prestation de pension reçue
+Les deux époux conviennent que, à la demande de l’autre époux, ils fourniront les preuves documentaires des prestations de pension reçues et tous les détails relatifs à la période de versement de la pension ainsi qu’à toute autre question concernant le régime de pension auquel chacun des époux a droit de son employeur respectif.
+Chacune des parties signera tous les documents et prendra toutes les mesures nécessaires et raisonnables, dont le coût sera pris en charge par l’autre partie, qui sont requises à l’occasion pour respecter les modalités et l’objectif des présentes clauses, de manière à ce que chaque partie reçoive une portion de la pension de l’autre aux fins de l’égalisation des biens familiaux nets.
+[. . .]
+Le 28e jour de janvier 1987 et le 28e jour de chaque mois par la suite jusqu’au 28e jour du mois où l’enfant Lesley Korin ne fréquentera plus l’université ou le collège ou encore ne sera plus inscrit à temps plein à un programme universitaire ou collégial, l’époux doit verser à l’épouse, pour subvenir à ses besoins à elle et pour subvenir aux besoins de l’enfant Lesley Korin, la somme de mille quatre cents (1 400,00 $) dollars par mois. Les paiements faits le 28e jour du mois seront réputés viser le mois suivant, le premier de ces paiements ayant eu lieu le 28 janvier 1987 et étant réputé alors viser le mois de février 1987, de sorte que l’époux a le droit, pour l’année d’imposition 1987, d’appliquer à son revenu une déduction égale à 11 X 1 400,00 $, à la condition d’avoir fait les paiements à l’épouse, et cette dernière doit inclure dans son revenu pour l’année 1987 un montant égal à 11 x 1 400,00 $, à la condition que l’époux lui ait fait ces paiements.
+Une fois que l’enfant Lesley Korin cessera d’être inscrit à temps plein à un programme collégial ou universitaire, la pension alimentaire mensuelle baissera à mille (1 000,00 $) dollars.
+[4] À cette époque, les deux époux occupaient un emploi et ne s’attendaient pas à toucher leur pension avant de nombreuses années. L’appelant semble avoir eu l’impression que la pension alimentaire aurait pris fin en 1996 et a donc été surpris de constater qu’il devait continuer à verser une pension alimentaire en 1997. Encore plus déconcertant pour lui, puisqu’il avait quitté son poste chez IBM en 1995 (plus tôt qu’il le prévoyait initialement), il a commencé à recevoir une pension d’IBM, de sorte que la formule d’égalisation décrite ci-dessus dans l’accord de séparation est devenue applicable. Par conséquent, il y a eu chevauchement des paiements au titre de la pension alimentaire et des paiements au titre de l’égalisation.
+[5] En octobre 1997, les époux ont signé un accord modificateur qui a changé certaines des clauses relatives à la pension alimentaire et au partage de la pension.
+[6] L’accord modificateur est rédigé comme suit :
+[TRADUCTION]
+PARTIE 3 – MODIFICATION DES CLAUSES RELATIVES À LA PENSION ALIMENTAIRE POUR CONJOINT
+ÉCHÉANCE DE LA PENSION ALIMENTAIRE POUR CONJOINT
+14.1 La pension alimentaire pour conjoint actuellement payable par l’ex-époux à l’ex-épouse, de 1 000,00 $ par mois, continuera d’être versée conformément à l’accord de séparation jusqu’au paiement final qui doit être fait le 28 décembre 1997.
+14.2 Ladite pension alimentaire pour conjoint prendra fin avec ce paiement final fait le 28 décembre 1997, après quoi il n’y aura plus aucune pension alimentaire versée à l’ex-épouse, peu importe les circonstances, et l’ex-épouse renonce pour toujours à tous ses droits de réclamer une forme ou une autre de soutien financier par la suite.
+14.3 Il n’y aura aucune modification ou prorogation du montant ou de la durée de la pension alimentaire pour conjoint payable conformément aux présentes, même advenant une modification importante, substantielle, radicale ou catastrophique de la situation des deux parties ou de l’une d’entre elles, et il n’y aura non plus aucune modification justifiée par les fluctuations du coût de la vie.
+14.4 Sauf pour les droits découlant du présent accord, chacune des parties renonce pour toujours envers l’autre partie à tous les droits et à toutes les demandes concernant les aliments qu’il ou elle pourrait revendiquer en vertu des lois provinciales, territoriales ou fédérales, plus particulièrement tous les droits et toutes les demandes concernant un soutien financier prévu par la Loi sur le droit de la famille et par la Loi sur le divorce.
+14.5 L’ex-épouse reconnaît et convient expressément que, à la date où la pension alimentaire pour conjoint prendra fin, elle sera financièrement indépendante et n’aura pas besoin de l’aide financière de son ex-époux. Elle reconnaît et convient en outre expressément que, même si elle n'est pas financièrement indépendante, elle en assumera seule les conséquences et ne demandera aucune aide financière de son ex-époux, peu importe les circonstances.
+14.6 Chacune des parties dégage l’autre de toutes les obligations d’aide financière énoncées dans les lois provinciales ou fédérales qui sont en vigueur à la date des présentes ou ultérieurement, ou qui sont prévues par la common law, sauf celles qui découlent du présent accord. Plus particulièrement, l’ex-épouse renonce à tous ses droits de réclamer ou d’obtenir de son ex-époux une forme quelconque de soutien financier pour elle-même, y compris à titre provisoire, auquel lui donneraient droit les lois provinciales ou fédérales en vigueur à la date des présentes ou ultérieurement ou la common law; peu importe qu’une telle demande se fonde sur un besoin ou sur la nécessité de compenser une contribution à l’avancement de la carrière, l’enrichissement ou l’appauvrissement.
+14.7 Les parties constatent et reconnaissent que leur situation financière respective peut changer dans l’avenir en raison de leur santé, du coût de la vie, de leur emploi ou pour tout autre motif. Aucun changement à ce titre, qu’il ait un lien de causalité avec le mariage ou non, et peu importe qu’il soit important, profond, radical, catastrophique ou autre, ne donnera à l’une ou l’autre partie le droit de réclamer ou d’obtenir de l’autre une forme ou une autre de soutien financier ou le droit de demander la modification de la renonciation à l’exécution des clauses relatives à une aide financière susmentionnées, en vertu de la Loi sur le droit de la famille, de la Loi sur le divorce, de la common law ou de toute autre loi provinciale ou fédérale. Le présent paragraphe pourra être invoqué et offrir un moyen de défense pleine et entière à l’encontre de toute demande présentée à cette fin.
+PARTIE 4 – RENONCIATION PARTIELLE AUX PRESTATIONS DE PENSION
+PRESTATIONS DE PENSION
+15.1 L’ex-épouse convient et reconnaît qu’elle renonce à toutes les prestations de pension auxquelles elle aurait droit en vertu de la clause de l’accord de séparation portant sur les autres pensions jusqu’au moment du paiement exigible pour janvier 1998; autrement dit, elle renonce à tout paiement fait à ce titre jusqu’au paiement qui aurait été par ailleurs exigible pour décembre 1997.
+15.2 Les parties conviennent expressément que, à partir de janvier 1998, toutes les prestations de pension payables en vertu de l’accord de séparation seront payables strictement selon les modalités qui y sont énoncées, y compris la prestation de pension exigible pour janvier 1998.
+[7] M. Andrews a tenté, en novembre 1997, après la signature de l’accord modificateur, de faire en sorte qu’IBM verse directement à son ex-épouse le montant calculé selon la formule décrite dans la clause sur l’égalisation de la pension.
+[8] Towers Perrin, qui administre le régime de pension, a informé l’appelant qu’il ne pouvait procéder de cette façon. La communication interne reçue de Towers Perrin est rédigée comme suit :
+[TRADUCTION]
+ÉCHEC DU MARIAGE – ROSS ARMAND ANDREWS
+La présente lettre fait suite à la lettre que Rob Weagle a reçue de M. Andrews, datée du 18 novembre 1997. Nous avons passé en revue l’accord de séparation (l’« accord ») portant la date du 3 juin 1987 ainsi que l’accord modificateur daté du 30 octobre 1997 intervenu entre les parties, M. Ross Armand Andrews et Mme Margaret Gail Andrews.
+D’après notre examen de ces documents et de la Loi sur les régimes de retraite de l’Ontario (la « LRR »), IBM peut appliquer l’accord et l’accord modificateur, comme nous le décrivons ci-après. Nous avons toutefois certaines interrogations relatives à ces deux documents. À cet égard, il y a lieu que vous transmettiez une copie de notre lettre aux deux parties.
+Partage des prestations de pension
+Conformément à la section de l’accord portant sur les autres pensions, M. Andrews doit verser à Mme Andrews la moitié de sa pension accumulée pendant la période où les parties ont cohabité et qui lui sera versée au moment de sa retraite. Tel qu’il est indiqué dans l’accord, le paiement peut être fait soit directement par l’employeur, soit directement par l’autre partie lorsque celle-ci touche ses prestations de pension.
+Tout partage de la pension effectué directement par IBM doit respecter la LRR. Le paragraphe 51(2) de la LRR permet le partage à 50 pour cent des prestations de retraite « accumulées par un participant ou un ancien participant pendant la période où la partie et le participant ou l’ancien participant étaient conjoints ». L’article 56 du règlement d’application de cette loi énonce que « les prestations de retraite accumulées pendant la période au cours de laquelle le participant avait un conjoint sont déterminées comme si le participant avait mis fin à son emploi à la date d’évaluation conformément aux conditions du régime en vigueur à cette date et sans tenir compte des prestations ou du salaire futurs, ni des modifications apportées au régime par la suite [...] » La « date d’évaluation » ici est celle qui est précisée au paragraphe 9.5 de l’accord modificateur, soit le 26 mai 1988.
+En conséquence, le montant que le régime d’IBM peut verser à Mme Andrews directement est de 445,31 $ par mois. Ce montant est calculé comme suit :
+½ x la pension accumulée au 26 mai 1988 x le coefficient de réduction attribuable à la retraite anticipée
+x le coefficient de réduction attribuable à 66 2/3 % de la prestation de survivant =
+½ x 1 417,96 $ x 0,70 x 10,3238 = 444,10 $ par mois
+11,5369
+Conformément à la loi, ce montant se fonde sur les conditions du régime d’IBM en vigueur à la date d’évaluation. Pour plus de commodité, nous avons résumé les clauses pertinentes, les données et les hypothèses servant au calcul de la pension en date du 26 mai 1988 à l’annexe I ci-jointe.
+Pour que le montant total précisé dans l’accord soit versé à Mme Andrews, des paiements supplémentaires devront être faits par M. Andrews directement, en dehors du régime de retraite enregistré et ne concernant donc pas IBM. Cette éventualité semble avoir été prévue dans l’accord.
+[9] On peut présumer que, parce que Towers Perrin a considéré ne pas être autorisé par la Loi sur les régimes de retraite à verser le montant total calculé au moyen de la formule à l’ex-épouse de M. Andrews, celui-ci et Mme Andrews ont signé un procès-verbal de transaction qui est rédigé comme suit :
+[TRADUCTION]
+Les parties conviennent par les présentes de régler toutes les questions en instance d’après les modalités suivantes :
+1. L’intimé doit transférer sur-le-champ la somme de 15 000,00 $ de son régime enregistré d’épargne-retraite au régime enregistré d’épargne-retraite de la requérante au moyen d’un roulement entre conjoints en franchise d’impôt.
+2. À compter du 1er septembre 2000, l’intimé doit verser à la requérante la somme de 556,00 $ par mois aux fins de l’égalisation de la pension de l’intimé. Cette somme sera déductible pour l’intimé et imposable pour la requérante.
+3. La requérante doit continuer de recevoir la somme de 444,00 $ par mois de Towers Perrin, somme qui représente son droit à une pension en vertu de la Loi sur les régimes de retraite.
+4. La requérante renonce à se prévaloir de tout droit à une partie de la pension de l’intimé et accepte les sommes précitées en guise de règlement complet et final au titre de l’égalisation.
+5. L’intimé versera sur-le-champ à la requérante la somme de 3 000,00 $ à titre de coûts.
+6. Les parties conviennent qu’un jugement soit prononcé conformément aux présentes.
+7. Il n’y aura aucun autre montant au titre de la pension alimentaire ou de l’égalisation payable à l’une ou l’autre partie.
+8. Aucune des parties ne pourra réclamer quoi que ce soit de l’autre en raison de leur mariage et de leur séparation et les deux parties conviennent que toutes les questions sont désormais réglées de manière définitive.
+FAIT À Owen Sound, en Ontario, ce 30e jour de janvier 2001.
+[signé par]
+________________________
+[Debbie Robertson] MARGARET GAIL ANDREWS
+TÉMOIN
+[10] Un jugement a été prononcé par le juge G. B. Smith de la Cour supérieure de justice de l’Ontario intégrant textuellement ce procès-verbal de transaction, sauf que chaque paragraphe commence par les termes [TRADUCTION] « LA PRÉSENTE COUR ORDONNE QUE » et que le paragraphe 6 du procès-verbal de transaction est supprimé.
+[11] L’appelant prétend qu’il a le droit de déduire les 556,00 $ par mois qu’il a versés à son ex-épouse en conformité avec le jugement. L’intimée affirme que ce montant n’est pas déductible en tant que « pension alimentaire » mais qu’il s’agit plutôt d’un paiement fait au titre de l’égalisation portant partage des biens entre les époux. Le terme « bien » est défini comme suit à l’article 4 de la Loi sur le droit de la famille de l’Ontario :
+« bien » Droit, actuel ou futur, acquis ou éventuel, sur un bien meuble ou immeuble. Sont compris :
+a) le bien sur lequel le conjoint possède, seul ou avec une autre personne, un pouvoir de désignation qu’il peut exercer en faveur de lui-même;
+b) le bien aliéné par un conjoint mais sur lequel il possède, seul ou avec une autre personne, le pouvoir de révoquer l’aliénation ou celui de consommer ou d’aliéner le bien;
+c) dans le cas du droit du conjoint, en vertu d’un régime de retraite, qui a été acquis, le droit du conjoint y compris les contributions des autres personnes. (« property »)
+[12] Je suis d’accord avec l’intimée. Le montant de 556,00 $ versé par l’appelant à son ex-épouse n’est pas une pension alimentaire. C’est un paiement fait au titre de l’égalisation dans le cadre du partage des biens familiaux. Il n’est pas décrit comme une pension alimentaire. La pension alimentaire est traitée ailleurs dans l’accord de 1987 et dans l’accord modificateur de 1997. Le procès-verbal de transaction et le jugement font la différence entre les paiements faits au titre de la pension alimentaire et ceux qui visent l’égalisation.
+[13] Même si le caractère imposable de la mensualité de 556,00 $ pour le bénéficiaire est une considération pertinente, à mon avis, ces paiements de 556,00 $ par mois ne constituent pas des prestations de retraite ou de pension pour l’ex-épouse de l’appelant. Les prestations de retraite ou de pension sont définies à l’article 248 de la Loi comme suit :
+« prestation de retraite ou de pension » Sont compris dans les prestations de retraite ou de pension les sommes reçues dans le cadre d'une caisse ou d'un régime de retraite ou de pension, et, notamment, tous versements faits à un bénéficiaire dans le cadre de la caisse ou du régime, ou à un employeur ou un ancien employeur du bénéficiaire :
+a) conformément aux conditions de la caisse ou du régime;
+b) par suite d'une modification apportée à la caisse ou au régime;
+c) par suite de la liquidation de la caisse ou du régime.
+[14] Il est vrai que la définition ne prétend pas être exhaustive, à cause des mots « Sont compris », mais je ne crois pas qu’on puisse étendre le sens de l’expression au versement, par un époux, d’une partie de sa pension à son ex-épouse au titre de l’égalisation des biens familiaux. Je ne commenterai pas l’hypothèse que posent apparemment l’appelant et l’intimée, ainsi que, pourrait-on présumer, l’ex-épouse, soit que le montant de 444,00 $ par mois que Mme Andrews recevait de Towers Perrin est une prestation de pension sur laquelle elle doit être imposée.
+[15] La question a été abordée à plusieurs reprises par les tribunaux. Dans la décision Turner v. The Queen, [1997] 2 C.T.C. 2670, le juge Hamlyn a dû trancher un cas où le tribunal avait rendu l’ordonnance suivante dans le cadre du jugement conditionnel initial :
+a) Que la pension et les prestations reçues par l'intimé ainsi que toute augmentation s'y rapportant en vertu de la Loi sur la pension de retraite des Forces canadiennes et de la Loi sur les prestations de retraite supplémentaires et des modifications existantes ou futures ou d'autres dispositions législatives similaires constituent un bien familial et que la requérante a droit à un intérêt, exprimé en pourcentage, en sa qualité de tenant commun, dans ladite pension et dans lesdites prestations et augmentations (ci-après appelé l' « intérêt de la requérante »);
+Les sommes exigibles n’ont pas été payées à temps et l’ordonnance suivante a alors été rendue :
+CETTE COUR STATUE EN OUTRE que la présente ordonnance ne doit aucunement influer sur les dispositions relatives au partage de la pension figurant dans le jugement conditionnel, lesquelles continueront à avoir pleinement force et effet et ordonne à l'intimé de verser à la requérante toutes les sommes qui sont dues à l'égard de la part de la pension revenant à cette dernière (qui s'élève à l'heure actuelle à la somme de 287,25 $ par mois, plus les augmentations au fur et à mesure qu'elles deviennent payables).
+Le juge Hamlyn s’est exprimé comme suit :
+Le traitement de la « pension »
+18 Le dispositif du jugement conditionnel (du 5 février 1987) concernant la pension prévoyait que M. Turner recevrait le plein montant de sa pension et qu'il remettrait tous les mois à l'appelante la part qui revenait à cette dernière. À la fin de chaque année, l'appelante devait sur avis dédommager M. Turner de toute obligation fiscale qu'il avait assumée du fait qu'il avait reçu la part de l'appelante (compte tenu du taux marginal d'imposition de l'appelante).
+19 L'intérêt que possédait l'appelante dans la pension était désigné à titre de bien familial et était quantifié; l'appelante avait droit à cet intérêt ou à cette part, exprimés en pourcentage, en sa qualité de tenant commun. Il importe de noter que les dispositions judiciaires relatives à la « pension » ne concernaient que l'appelante et M. Turner et non l'appelante, M. Turner et les personnes s'occupant des pensions de retraite des Forces canadiennes. Il n'était pas prévu que M. Turner céderait directement à l'appelante la part de la pension qui revenait à cette dernière. M. Turner devait détenir la part de l'appelante en fiducie pour cette dernière et il devait protéger l'intérêt de l'appelante dans la pension, y compris celui qu'elle aurait s'il décédait.
+20 La décision Walker c. Canada, [1994] A.C.I. no 982 […] qui a été citée ne s'applique pas à la présente affaire étant donné l'absence de cession et les dispositions fiscales précises.
+21 De toute évidence, le jugement conditionnel ne prévoyait pas le partage de la pension à la source (c'est-à-dire que la pension serait attribuée séparément à la source) et, de fait, il n'y a pas eu pareil partage. Il ressort clairement de l'ordonnance que M. Turner devait envoyer à l'appelante la part de la pension libérée d'impôt revenant à cette dernière sous réserve du versement par l'appelante à M. Turner d'une indemnité annuelle de rajustement d'impôt à l'égard de l'impôt payé, jusqu'à la limite du taux marginal d'imposition de l'appelante. Étant donné que la somme que M. Turner versait à l'appelante conformément au jugement conditionnel revêtait la forme d'une somme déterminée libérée d'impôt provenant d'un bien familial, elle ne doit pas être incluse dans le revenu de l'appelante en vertu des alinéas 56(1)a) et b) ou c).
+[16] Dans le litige Manuel v. The Queen, [1999] 4 C.T.C. 2281, le juge Watson a dû faire face à une situation semblable, où l’ex-époux devait partager sa pension des Forces canadiennes avec son ex-épouse, l’appelante. Le juge a statué que les montants reçus par l’appelante étaient des paiements libérés d’impôt provenant d’un bien familial qui n’étaient pas imposables pour elle.
+[17] Il s’est reporté à la décision rendue par la Cour suprême du Canada dans l’arrêt Clarke c. Clarke, [1990] 2 R.C.S. 795, où la juge Wilson s’exprime en ces termes au nom de la Cour, aux pages 809 à 811.
+Quant à la solution de l'obligation alimentaire, c'est-à-dire la troisième question de l'appelante, je souligne qu'elle découle des déclarations du juge Pace de la Cour d'appel. Selon lui, même si la prestation de retraite n'était pas un bien matrimonial, l'appelante pourrait quand même y participer par le truchement d'une ordonnance alimentaire qui deviendrait nécessaire. Dans ce contexte, la pension serait un revenu entre les mains du conjoint prestataire.
+L'appelante soutient que l'obligation alimentaire n'est pas une solution de rechange acceptable à une part dans un bien en capital, car elle dépend de la continuité du besoin d'une part et de la capacité de paiement d'autre part. Je suis d'avis que cet argument de l'appelante est bien fondé. Le juge Cameron dans l'arrêt Tataryn v. Tataryn (1984), 38 R.F.L. (2d) 272 (C.A. Sask.), a clairement identifié la différence entre les deux intérêts aux pp. 285 et 286 :
+[TRADUCTION] À mon humble avis, l'expression « bien alimentaire » ne peut être utilisée pour déterminer si le droit à une pension est ou non un bien matrimonial au sens de l'al. 2h) de la Loi. Le droit à une pension, s'il constitue un bien matrimonial, ne peut non plus être exclu du partage parce qu'il s'agirait d'une source de revenu sur laquelle une pension ou des versements alimentaires pourraient être payés.
+Le droit à un bien matrimonial ne doit pas être confondu avec le droit à une pension ou à une obligation alimentaire. Les deux sont fondamentalement différents. Non seulement leur existence dépend-elle de textes législatifs différents et découle de présomptions différentes, mais leur caractère juridique est complètement différent; le premier se rapporte à la propriété et est relatif au capital et à son partage: l'autre est personnel et est relatif au revenu et au soutien d'un conjoint par l'autre.
+Le droit que la loi accorde à une femme mariée au partage des biens accumulés pendant son mariage est fondé sur l'opinion moderne selon laquelle le mariage constitue une association et découle de la présomption de la Matrimonial Property Act selon laquelle chacun des partenaires a contribué également et de façon indépendante à l'acquisition des biens du mariage. La conduite, la situation, les besoins ou moyens de chacun des partenaires n'ont rien à voir avec le droit acquis de chacun d'eux au partage des biens du mariage – sauf dans la mesure limitée où ces facteurs peuvent accessoirement toucher à l'existence et à la portée d'une exclusion, d'une exception ou d'une considération d'équité prévue par la loi. De manière générale, cette loi, qui prévoit la dissolution ordonnée de l'association économique lors de la rupture du mariage, envisage une comptabilité complète et un partage définitif du capital du mariage par suite de la dissolution.
+Le droit d'une femme mariée à une pension et à des versements alimentaires est, évidemment, une question très différente. Il est ancré, historiquement, à l'idée que le mariage impose au mari l'obligation de soutenir son épouse comme personne à charge selon ses moyens tant qu'elle ne part pas d'elle-même sans raison. Les droits à une pension alimentaire et à des aliments [. . .] dépendent toujours du comportement de l'épouse et de la situation, des moyens et des autres circonstances de chacun des époux. De plus, de manière générale, le droit alimentaire n'a pas un caractère définitif; s'il existe, il survit à la séparation et au divorce et demeure, en tout temps, susceptible de révision selon les changements de circonstances.
+Cela ne veut pas dire que les deux droits sont tout à fait étrangers, car de toute évidence, ils ne le sont pas, mais à mon humble avis, il faut les considérer de façon distincte pour déterminer si un bien quelconque constitue ou non un bien du mariage. [...]
+Je souscris à l'analyse du juge Cameron. Des paiements alimentaires discrétionnaires sont une solution de rechange totalement inadéquate et inacceptable au droit à une part des biens accumulés pendant le mariage par suite des efforts combinés des conjoints.
+[18] Cet arrêt, ainsi que les deux décisions précitées de la Cour canadienne de l'impôt, devrait être déterminant pour réfuter la position de l’appelant. Il en découle qu’un montant versé chaque mois par un époux à son ex-épouse dans le cadre du partage d’un bien familial, la pension du mari, ne constitue ni une pension alimentaire ni une prestation de pension pour la bénéficiaire et n’est pas non plus déductible par le payeur en tant que pension alimentaire.
+[19] La question n’est pas résolue aussi simplement, toutefois, et je me tourne donc vers la question subsidiaire mentionnée dans le premier paragraphe des présents motifs. L’avocat de l’intimée a, de façon très équitable, attiré mon attention sur une décision de la Cour d’appel fédérale dans l’arrêt Walker v. The Queen, [2000] DTC 6025. La Cour avait rejeté l’appel déposé contre un jugement prononcé par le juge Mogan ([1995] 1 C.T.C. 2408; 95 DTC 753).
+[20] Le juge Mogan avait dû décider si l’appelante, Carol Ann Walker, était obligée d’inclure dans son revenu une partie du produit brut du revenu de pension de son époux qui lui avait été versée conformément à un accord de séparation. Les parties s’étaient entendues sur les faits suivants :
+12. La pension de service militaire brute de Roy S. Shattock n'est pas indexée et lui est versée à raison de 836,84 $ par mois, soit un montant annuel de 10 042,08 $.
+13. À partir d'avril 1988, Carole Ann Walker a reçu de Roy S. Shattock 418,42 $ chaque mois, par chèque habituellement daté du premier jour de chaque mois, soit un montant annuel de 5 021,04 $.
+[21] Les dispositions pertinentes de l’accord de séparation étaient les suivantes :
+[TRADUCTION]
+9. OBLIGATION ALIMENTAIRE
+Sous réserve des autres dispositions de l'accord, aucune des deux parties ne sera obligée de faire un ou des paiements de quelque sorte que ce soit, directement ou indirectement, à l'autre ou à son profit, et chacune renonce expressément par les présentes à quelque droit ou intérêt qu'elle avait, qu'elle a ou qu'elle aura ou acquerra, en common law ou en equity ou en vertu de dispositions de toute loi passée, actuelle ou future, y compris la Loi sur le droit de la famille et les modifications y afférentes, à titre d'aliments ou autrement [...]
+10. ENTRETIEN DE L’ENFANT
+L'épouse versera au mari, pour l'entretien de l'enfant, la somme mensuelle de deux cent vingt-cinq dollars (225 $) le premier jour de chaque mois à compter du premier jour d'avril 1988 [...]
+14. PAIEMENT D’ÉGALISATION – BIENS FAMILIAUX NETS
+Le mari et l'épouse conviennent que, durant leur mariage, ils ont tous les deux acquis certains biens et que la famille a utilisé ces biens sans égard à l'identité de la personne qui les avait acquis. Il est convenu que tous les biens ont été divisés entre eux à leur satisfaction mutuelle et qu'à la suite du paiement d'égalisation décrit ci-dessous, chacun pourra conserver les biens qu'il a en sa possession et sera libéré de toute réclamation de la part de l'autre.
+Sur le produit net de la vente du foyer conjugal, le mari paiera à l'épouse la somme de sept mille trente-huit dollars et soixante-quinze cents (7 038,75 $). Le mari paiera également à l'épouse la somme de cinq cent quatre-vingts dollars et vingt-six cents (580,26 $), soit la différence entre la part de l'épouse relativement aux prestations de pension du mari pour les trois premiers mois de 1988 et les sommes que l'épouse doit au mari pour l'entretien de l'enfant issu du mariage.
+Le mari cédera la moitié du produit brut de son revenu de pension de service militaire et, jusqu'à ce que les paiements résultant de la cession soient effectués et parviennent à l'épouse, il paiera à l'épouse la somme de quatre-cent dix-huit dollars et quarante-deux cents (418,42 $) par mois le premier jour de chaque mois à compter du premier jour d'avril 1988. L'épouse peut choisir de déduire les sommes payables au mari pour l'entretien de l'enfant du revenu de pension jusqu'à l'exécution de la cession, mais elle doit aviser le mari d'un tel choix avant le vingt-cinq du mois précédent. Le mari garantit qu'il veillera à cette cession avec toute la diligence voulue.
+L’ex-époux a été ajouté à titre de tierce partie dans cet appel en vertu de l’article 174 de la Loi de l’impôt sur le revenu.
+[22] En rejetant l’appel, le juge Mogan a fait les commentaires suivants aux pages 757 et 758 après avoir cité une partie de l’accord de séparation :
+Selon moi, ces termes indiquent clairement que le mari et l'épouse (soit la tierce partie et l'appelante) voulaient que la pension militaire soit répartie à la source de sorte que l'administrateur de la pension émette deux chèques chaque mois : un chèque de 418,42 $ au mari et un chèque de 418,42 $ à l'épouse. Comment puis-je interpréter autrement des termes comme : « et, jusqu'à ce que les paiements résultant de la cession soient effectués et parviennent à l'épouse, il [le mari] paiera à l'épouse [...] »? De plus, la dernière phrase de l'article 14 étaye mon interprétation : « Le mari garantit qu'il veillera à cette cession avec toute la diligence voulue ». Si la cession avait eu lieu immédiatement, par suite de quoi l'administrateur aurait émis deux chèques chaque mois, l'appelante et la tierce partie auraient déclaré un revenu annuel de 5 021 $ chacun relativement à la pension militaire.
+Je crois comprendre d'après les observations de l'avocat que le mari (la tierce partie) a bien cherché à procéder à la cession, mais que certaines dispositions législatives fédérales ont empêché l'administrateur de la pension militaire de donner effet à la cession. L'avocat a également déclaré que l'on était en train de modifier ces dispositions législatives (ou peut-être est-ce déjà fait) de manière à permettre une telle cession. À mon avis, l'incapacité de l'administrateur de la pension militaire à donner effet à la cession en 1988 et en 1989 ne saurait annuler ce que les parties ont réalisé dans leur accord de séparation. En vertu du paragraphe 4(1) de la LDF, les prestations de pension sont incluses dans le terme « bien ». Dans l'accord de séparation, l'appelante et la tierce partie ont convenu de diviser ce bien en deux parts égales. Elles n'ont pas cherché à diviser la valeur actuelle de la pension (avec ou sans actualisation tenant compte de l'impôt sur le revenu) comme dans l'affaire Marsham, mais elles ont en fait divisé la source des futurs paiements de sorte que chacune ait droit à la moitié du produit brut de la pension chaque mois.
+L'appelante et la tierce partie ont reçu chacune des avis juridiques indépendants dans la négociation et la détermination des conditions de l'accord de séparation. Si le jugement Marsham était bien connu en mars 1988 des avocats exerçant dans le domaine du droit de la famille (comme l'a déclaré l'avocat de l'appelante) pourquoi n'est-il pas fait mention d'impôt sur le revenu à l'article 14 de l'accord de séparation conformément à l'article 12 des directives données par le juge Walsh à la fin des motifs du jugement qu'il a rendu dans l'affaire Marsham? Si la tierce partie devait payer tout l'impôt sur le revenu au titre de la pension annuelle intégrale de 10 042 $ et verser à l'appelante un montant annuel exonéré d'impôt de 5 021 $, il lui resterait chaque année un bien maigre revenu de pension. Si un résultat aussi peu raisonnable correspondait à ce que les parties voulaient à l'article 14, il aurait dû être expressément prévu en termes simples. Comme les parties divisaient à parts égales une source de paiements futurs (le produit brut de la pension) qui avaient clairement le caractère d'un revenu aux fins de l'impôt sur le revenu, je pense qu'ils voulaient que chacune inclue la moitié du produit brut de la pension dans le calcul de son revenu et que chacune paie l'impôt sur le revenu y afférent. C'est l'interprétation de l'article 14 la plus raisonnable.
+En conséquence de l'article 14 de l'accord de séparation, l'épouse (l'appelante) avait droit à compter d'avril 1988 à la moitié du produit brut de la pension militaire chaque mois. Si l'administrateur de la pension militaire n'a pu (pour quelque raison que ce soit) donner effet à la cession du mari et qu'il a continué à payer le produit brut au mari chaque mois, ce dernier a reçu la moitié du produit brut en tant que représentant de sa femme (l'appelante) ou en fiducie pour elle. Aux fins de l'impôt sur le revenu, le mari (la tierce partie) était tenu de déclarer annuellement seulement la moitié (5 021 $) du produit brut comme revenu de pension en vertu du sous-alinéa 56(1)a)(i) de la Loi de l'impôt sur le revenu, et l'épouse (l'appelante) était également tenue de déclarer annuellement la moitié (5 021 $) du produit brut comme revenu de pension en vertu du sous-alinéa 56(1)a)(i) de la Loi de l'impôt sur le revenu. Je peux maintenant répondre aux deux questions posées dans la demande que le ministre a présentée en vertu de l'article 174 de la Loi de l'impôt sur le revenu.
+I. Le montant de 5 021 $ que Carole Ann Walker a reçu de Roy S. Shattock au cours de chacune des années d'imposition 1988 et 1989 conformément à leur accord de séparation (conclu en date du 9 mars 1988) doit-il être inclus dans le calcul de son revenu en vertu des dispositions de la Loi de l'impôt sur le revenu?
+Réponse : Oui.
+II. Si les montants visés à la question I ne doivent pas être inclus dans le calcul du revenu de Carole Ann Walker pour les années d'imposition 1988 et 1989, doivent-ils être inclus dans le calcul du revenu de Roy S. Shattock pour les années d'imposition 1988 et 1989?
+Réponse : Non, vu la réponse à la question I.
+Les appels de l'appelante pour 1988 et 1989 sont rejetés. Eu égard à toutes les circonstances de l'espèce, aucuns dépens ne sont adjugés.
+[23] Il est important de souligner que, plus tôt dans ses motifs, le juge Mogan avait expressément rejeté l’argument suivant lequel la totalité de la pension serait d’abord incluse dans le revenu de l’époux puis que ce dernier aurait ensuite droit à une déduction en vertu de l’alinéa 60b) de la Loi de l’impôt sur le revenu. Il a refusé cet argument pour les raisons suivantes :
+[…] car il n'est pas étayé par les termes de l'accord de séparation. En effet, à l'article 9, le mari et l'épouse renoncent expressément à tout intérêt à titre d'aliments.
+Je souscris respectueusement à l’opinion du juge Mogan sur ce point. Ses observations sont également applicables à l’espèce. Comme je l’ai précisé plus haut, je ne crois pas que les montants soient déductibles en tant que pension alimentaire.
+[24] Le jugement de la Cour d’appel fédérale a été prononcé oralement par le juge McDonald. Il se lit comme suit :
+[1] Malgré les savants arguments de l’avocate de l’appelante, nous ne sommes pas convaincus que le juge de la Cour de l’impôt ait commis une erreur justifiant notre intervention.
+[2] Il s’agit ici simplement de savoir si la partie d’une pension versée à la conjointe conformément aux règles d’égalisation des biens de la Loi sur le droit de la famille (la LDF) est imposable à titre de revenu entre les mains du bénéficiaire.
+[3] L’accord de séparation ici en cause prévoit clairement que le mari doit céder la moitié du produit brut de son revenu de pension provenant de son service militaire. Le juge de la Cour de l’impôt dit que c’est la dernière mesure que les parties ont prise en vue d’égaliser les biens familiaux nets en vertu de la LDF. Si la cession avait été traitée à la source par les autorités militaires, comme le prévoit l’accord de séparation, deux chèques distincts auraient été émis. Chaque partie aurait alors déclaré un revenu annuel d’un montant de 5 021 $ tiré de cette source.
+[4] Étant donné qu’il a été impossible de procéder ainsi, le mari a directement versé la moitié de son revenu de pension brut à sa conjointe.
+[5] Nous croyons qu’au moment où l’accord de séparation a été signé, les parties voulaient que chacune paie l’impôt sur le revenu sur le montant brut reçu, de sorte que chacune aurait sa part de la pension (soit le bien en l’espèce) après impôt.
+[6] L’appelante a soutenu qu’étant donné qu’elle avait payé l’impôt sur sa part de la pension lorsque celle-ci lui a été versée, elle s’est trouvée dans une situation moins favorable que celle dans laquelle elle aurait été si la pension avait été évaluée et divisée au moment de la séparation. Toutefois, il aurait été tenu compte du coût des impôts futurs dans le calcul de la valeur de la pension. L’appelante aurait alors reçu la moitié de la valeur de la pension après impôt. L’appelante ne se trouve pas maintenant dans une situation moins favorable. Elle recevra la moitié de la valeur de la pension après impôt.
+[7] L’appel est rejeté sans que les dépens soient adjugés.
+[25] Lorsqu’on analyse le raisonnement du juge Mogan et celui de la Cour d’appel fédérale, on est obligé de se demander pourquoi Mme Walker était imposable à l’égard du partage de biens familiaux. S’il y avait eu, comme le fait remarquer le juge Mogan, un calcul actuariel de la valeur courante de la pension du mari et qu’une somme forfaitaire avait été versée à Mme Walker par son ex-époux, cette somme n’aurait de toute évidence pas été imposable, ni comme prestation de pension ni comme pension alimentaire. Je crois que même la majorité des juges de la Cour suprême dans l’arrêt Tsiaprailis c. Canada, 2005 C.S.C. 8, ne l’auraient pas imposée sur la somme forfaitaire. Il est clair que le montant versé à Mme Walker par son ex-époux ne constituait pas une pension parce qu’il n’a pas été versé dans le cadre d’une caisse ou d’un régime de retraite ou de pension. Il est évident aussi que les parties n’avaient pas l’intention de le considérer comme une pension alimentaire et, comme je l’ai souligné auparavant, le juge Mogan a rejeté l’argument indiquant qu’il s’agissait d’une pension alimentaire. Alors, pourquoi était-il imposable?
+[26] Le juge Mogan a fondé sa décision sur le fait que, comme les règles ne permettaient pas que la pension soit partagée par l’administrateur et versée directement à l’ex-épouse, l’ex-mari recevait une partie de la pension à titre de mandataire de son ex-épouse. Le raisonnement semble être, par conséquent, que la pension était non pas déductible par l’ex-mari en vertu d’une disposition de la Loi mais bien qu’il avait reçu la partie versée à son ex-épouse à titre de mandataire de celle-ci et que cette partie n’avait jamais fait partie de son revenu. Autrement dit, en acceptant de lui verser une partie de la pension qu’il recevait, l'ex-mari faisait ce que l’administrateur ne pouvait pas faire, c'est-à-dire partager la pension à la source pour que lui-même soit imposé seulement sur la partie qu’il conservait, et l’ex-épouse recevait en fait sa partie de son ex-mari qui la recevait directement de l’administrateur du régime de pension.
+[27] Cette analyse n’a pas été adoptée par la Cour d’appel fédérale dans son jugement oral. La substance de la décision de la Cour d’appel fédérale semble se trouver au paragraphe 5 des motifs :
+[5] Nous croyons qu’au moment où l’accord de séparation a été signé, les parties voulaient que chacune paie l’impôt sur le revenu sur le montant brut reçu, de sorte que chacune aurait sa part de la pension (soit le bien en l’espèce) après impôt.
+Il y a, je suppose, une certaine forme de justice à obliger des ex-époux à assumer les conséquences fiscales de leur accord, mais j’ai toujours eu l’impression que les conséquences fiscales des transactions devaient être déterminées conformément aux textes de loi et non pas aux ententes quelconques intervenues entre les parties. Après tout, si le ministre du Revenu national n’est pas lié par les ententes prises entre ses fonctionnaires et les contribuables (Cohen v. The Queen, 80 DTC 6250; Consoltex Inc. v. The Queen, 97 DTC 724; cf. Smerchanski et al. v. M.N.R., 76 DTC 6247), il est difficile de justifier que l’incidence fiscale d’une transaction donnée entre deux parties lie le ministre si cette transaction n’est pas conforme à la Loi.
+[28] Bien que j’éprouve quelques difficultés à accepter le raisonnement juridique énoncé dans l’arrêt Walker, je suis quand même tenu par la règle du précédent de suivre la décision de la Cour d’appel fédérale parce que ce litige ne peut pas en pratique être distingué du présent appel. En outre, le résultat n’est pas dénué d’équité.
+[29] Les parties ont convenu ici que chacun paierait de l’impôt sur une partie de la pension de l’époux et ils ont intégré cette entente à l’ordonnance rendue sur consentement. [À ma connaissance, la cour supérieure d’une province n’a pas le pouvoir de décider de ce que devraient être les conséquences d’une transaction sur l’impôt fédéral.] La raison expliquant pourquoi l’appelant payait à son ex-épouse une partie de sa pension était la même que dans l’affaire Walker, soit parce que l’administrateur du régime de pension ne croyait pas qu’il avait le droit de partager la pension d’une manière qui différait de ce que permet le législateur.
+[30] Je vais tenter de résumer les motifs m’amenant à conclure que l’appelant devrait avoir gain de cause. Ici, nous avons une entente entre des époux indiquant qu’ils vont se diviser la pension du mari. Une partie de ce partage doit se faire avant que l’argent quitte les mains de l’administrateur du régime de pension et 444,00 $ sont versés directement par l’administrateur à l’ex-épouse. On semble poser l’hypothèse que ce montant appartient dès le début à l’ex-épouse en vertu du sous-alinéa 56(1)a)(i) de la Loi et ne fait jamais partie du revenu de l’ex-mari. Par conséquent, la question de la déductibilité par celui-ci ne se pose jamais.
+[31] Les parties ont également convenu qu’une autre portion de la pension de l’ex-époux (556,00 $) serait versée par ce dernier à son ex-épouse :
+[TRADUCTION]
+[…] aux fins de l’égalisation de la pension de l’intimé. Cette somme sera déductible pour l’intimé et imposable pour la requérante.
+[32] Peu importe que l’accord puisse ou non déterminer les conséquences fiscales de cet arrangement, la clause en question témoigne au moins clairement de l’intention des parties, ce qui la rend conforme au paragraphe 5 du jugement de la Cour d’appel fédérale dans l’arrêt Walker, précité.
+[33] Je ne connais aucune disposition de la Loi de l’impôt sur le revenu qui permettrait la déduction des paiements mensuels de 556,00 $ faits au titre de l’égalisation. Par conséquent, pour être compatible avec l’arrêt Walker, si l’on veut faire droit à l’appel, ça doit être parce que la partie de la pension que l’appelant recevait et qu’il versait à son ex-épouse ne faisait pas partie de son revenu à lui. Comme on le constate clairement à la lumière de mes remarques antérieures dans les présents motifs, je conclus que le raisonnement énoncé dans l’arrêt Walker est difficile à concilier avec certains concepts que j’ai toujours considérés comme étant solidement établis dans les règles de droit fiscal :
+a) En l’absence de fraude, la forme d’une transaction prévaudra sur les notions de « substance » et de « réalité économique ».
+b) Les conséquences fiscales d’une transaction doivent être déterminées en fonction de ce qui a été fait et non pas de ce qui aurait pu être fait.
+c) Les parties à une transaction ne peuvent obliger la Cour ni le ministre à respecter une entente relative aux conséquences fiscales de la transaction.
+[34] Je pourrais peut-être distinguer le présent appel de l’arrêt Walker pour divers motifs.
+a) L’accord dont il était question dans l’affaire Walker visait une « cession » et non pas une entente de versement.
+b) Le juge Mogan a conclu que le mari était le mandataire de son ex-épouse. Je ne sais pas quelles preuves avaient été présentées au juge Mogan qui justifieraient cette conclusion. C’était indubitablement une solution commode à un problème assez épineux qui a permis au juge Mogan de parvenir à un résultat équitable. Ce n’était pas, il faut le mentionner, le fondement de la décision de la Cour d’appel fédérale.
+c) L’arrêt Walker portait sur l’inclusion d’un montant dans le revenu et le présent appel traite de la déductibilité, dont les règles sont différentes. L’argument serait que, dans l’arrêt Walker, un principe analogue au principe de la substitution dont il a été question récemment dans l’arrêt Tsiaprailis était la principale hypothèse tacite sur laquelle reposait le jugement, alors que les questions tournant autour de la déductibilité ne soulèvent rien qui soit contraire au principe de la substitution.
+[35] Je ne crois pas que ces distinctions plutôt subtiles justifient que je déroge à l’arrêt Walker. Selon le principe que je déduis de cette décision, il y a lieu d’appliquer les ententes conclues entre les parties. C’est ce principe que je suis obligé de suivre.
+[36] Les appels sont accueillis et les cotisations relatives aux années d’imposition 2000, 2001 et 2002 sont renvoyées au ministre pour qu’il procède à un nouvel examen et qu’il établisse de nouvelles cotisations compte tenu du fait que la portion de la pension versée par l’appelant à son ex-épouse au titre de l’égalisation des biens familiaux prévue dans la Loi sur le droit de la famille de l’Ontario ne doit pas être incluse dans son revenu.
+[37] L’appelant a droit à ses dépens, s’il en est, conformément au tarif.
+Signé à Ottawa, Canada, ce 13e jour d’avril 2005.
+« D. G. H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 15e jour de février 2006.
+Mario Lagacé, réviseur
+RÉFÉRENCE : 2005CCI246
+NO DU DOSSIER DE LA COUR : 2004-916(IT)I
+INTITULÉ DE LA CAUSE : Ross Andrews et Sa Majesté la Reine
+LIEU DE L’AUDIENCE: Kitchener (Ontario)
+DATE DE L’AUDIENCE : 10 mars 2005
+MOTIFS DU JUGEMENT PAR : L’honorable D. G. H. Bowman, juge en chef
+DATE DU JUGEMENT : Le 13 avril 2005
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me April Tate
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Ce point de vue est exprimé également par le juge Hugessen (les juges Pratte et Urie y souscrivant) dans l’arrêt The Queen v. McKimmon, 90 DTC 6088, à la page 6090.
+La distinction entre les versements périodiques faits à titre d’allocation d’entretien, qui sont déductibles pour fins d’impôt sur le revenu, et les versements périodiques faits sous forme de paiement forfaitaire ou de capital, qui, eux, ne le sont pas, a fait l’objet de longues discussions et de nombreux arrêts de jurisprudence. Il y a une question similaire, reliée en fait à ce problème, qui se pose fréquemment en droit fiscal et qui consiste à déterminer si des sommes d’argent sont dépensées ou reçues à titre de revenu ou de capital. Ce genre de problème peut difficilement être résolu par des règles rigides. La Cour doit au contraire examiner toutes les circonstances entourant le paiement et déterminer, à la lumière de ces circonstances, la façon appropriée de qualifier ce paiement. Vu la corrélation entre les alinéas 60b) et 56(1)b), le fait de conclure qu’un paiement est déductible par un débiteur fera habituellement en sorte que le bénéficiaire sera imposable à l’égard dudit paiement. À l’inverse, conclure qu’un paiement n’est pas déductible fera en sorte que le bénéficiaire sera exempt d’impôt.
+Après cet extrait, il énumère des critères servant à trancher cette question.

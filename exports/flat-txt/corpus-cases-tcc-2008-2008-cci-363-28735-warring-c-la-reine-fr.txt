@@ -1,0 +1,97 @@
+Title: Warring c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28735/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-363-28735-warring-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-06-23
+
+# Warring c. La Reine
+
+- Citation: 2008 CCI 363
+- Decision date: 2008-06-23
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1457, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Warring c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-23
+Référence neutre
+2008 CCI 363
+Numéro de dossier
+2005-3085(IT)G
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2008 CCI 363
+Date : 20080623
+Dossier : 2005-3085(IT)G
+ENTRE :
+ALLAN WARRING,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+(Rendus oralement à l'audience le 1er juin 2007, à Hamilton (Ontario).)
+Le juge Campbell
+[1] Il s'agit d'un appel d'une cotisation établie conformément à l'article 227 et au paragraphe 227.1(1) de la Loi de l'impôt sur le revenu (la « Loi »). L'appelant a fait l'objet d'une cotisation par suite de l'omission de sa société de verser des retenues à la source d'un montant de 57 042,55 $ pour la période qui a pris fin le 7 septembre 2000, avec des intérêts de 4 253,42 $.
+[2] L'appelant a témoigné qu'il était dans les affaires depuis 1980. Son frère et lui exploitaient D.A. Warring & Sons Foods Ltd., qui s'occupait de la vente en gros de volailles ainsi que de la vente de volailles à des épiciers indépendants.
+[3] Si je comprends bien le témoignage de l'appelant, cette société fournissait des volailles surgelées au groupe National Grocers partout en Ontario et au Québec, et l'entreprise était rentable. Lorsque National Grocers a modifié ses techniques de commercialisation et de distribution, D.A. Warring & Sons Foods Ltd. a perdu Loblaws comme client et, par suite de cette perte, l'entreprise a dépéri au cours des quelques années qui ont suivi.
+[4] L'entreprise a finalement fermé ses portes et il a été décidé d'acheter une société préconstituée, 1312662 Ontario Inc., faisant affaire sous le nom de Warring Transport. L'entreprise a été constituée en personne morale le 11 septembre 1998, mais les activités elles‑mêmes ont commencé, selon la preuve, au mois d'avril 1999 seulement. L'entreprise s'occupait de transport. Cette société a dès le début fait face à bien des problèmes. La banque ne voulait pas lui accorder de ligne de crédit, de sorte que l'appelant et son frère ont investi une somme de 50 000 $ en utilisant les soldes en espèces sur leurs cartes de crédit. Une plainte a presque immédiatement été déposée contre la société; il était allégué que la société n'était pas suffisamment indépendante de l'ancienne société, D.A. Warring & Sons Foods Ltd. L'appelant représentait la société lors de l'instance introduite à l'égard de cette plainte, et il n'a pas retenu les services d'un avocat. Pendant que l'appelant s'occupait de ce problème juridique, son permis a été révoqué parce qu'il n'avait pas versé une pension alimentaire pour enfants. L'appelant a déclaré qu'il effectuait de nombreuses heures de travail et qu'il essayait de réduire les coûts, mais que rien ne fonctionnait et que la société a continué à avoir un mauvais rendement et à perdre de l'argent.
+[5] Alors que la société était aux prises avec tous ces problèmes, le frère de l'appelant l'a quittée au mois de février 2000. L'appelant a initialement eu recours à un service externe de tenue des livres pour payer le personnel et verser les retenues. Il croyait que la société avait probablement cessé d'utiliser ce service externe au mois de janvier 2000.
+[6] L'appelant reconnaît qu'en 1999 et en l'an 2000, il était administrateur et dirigeant de la société. Lors du contre‑interrogatoire, il a également admis avoir été le principal responsable du paiement des frais d'essence et des coûts du personnel en l'an 2000. Il ne croyait pas avoir effectué de versements au receveur général en l'an 2000 à l'égard des retenues à la source. Il estimait que l'une de ses responsabilités primordiales était de s'occuper des membres de son personnel et de leurs familles et de s'assurer qu'il pouvait les garder à son service et les rémunérer. Il a témoigné que pendant tout ce temps, il cherchait avant tout à assurer la rentabilité de l'entreprise, de façon qu'elle ne soit plus endettée. Il a déclaré qu'en rétrospective, il aurait dû mettre fin aux activités de la société beaucoup plus tôt. Finalement, au mois de juin 2000, soit environ un an après avoir commencé à exploiter l'entreprise, l'appelant a communiqué avec un syndic de faillite pour fermer l'entreprise. L'appelant a déclaré que lorsqu'il a effectué la cession en faveur du syndic, il croyait être libéré de ses responsabilités d'administrateur.
+[7] Il s'agit de savoir si l'appelant, en sa qualité d'administrateur de la société à numéro, est solidairement responsable avec la société du paiement des sommes qui doivent être versées au titre de l'impôt sur le revenu fédéral en vertu de l'article 153 de la Loi, ainsi que des intérêts. En me prononçant sur cette question, je dois décider si l'appelant a agi avec le degré de soin, de diligence et d'habileté pour prévenir le manquement qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[8] Dans la décision Soper c. Canada, [1998] 1 C.F. 124, [1997] A.C.F. no 881, le juge Robertson a examiné l'importance historique et les origines de l'article 227.1. Avant que cette disposition soit édictée, les administrateurs privilégiaient généralement les créanciers et les fournisseurs de marchandises et de services essentiels au maintien des activités de l'entreprise, plutôt que les montants dus au ministre du Revenu national (le « ministre »). C'est pour remédier à cet abus possible que l'article 227.1 a été édicté. Toutefois, il ne s'agit pas d'une disposition imposant une responsabilité absolue, et un administrateur peut, en vertu du paragraphe 227.1(3), être libéré de toute responsabilité personnelle à l'égard des montants que la société doit au ministre s'il démontre qu'il a agi avec le degré de soin et de diligence qu'une personne raisonnablement prudente aurait exercé dans des circonstances comparables.
+[9] La jurisprudence sur ce point est abondante, mais chaque cas dépend des faits qui lui sont propres. La jurisprudence établit clairement que les administrateurs sont tenus de prévoir toute omission de verser les sommes dues et qu'ils doivent prendre des mesures en vue de prévenir pareil manquement (Veilleux c. Canada, 2001 CAF 110, [2001] A.C.F. no 547, Worrell c. Canada, [2001] 2 C.F. 203, [2000] A.C.F. no 1730, Ruffo c. Canada, no A‑429‑97, 13 avril 2000, [2000] A.C.F. no 551, et Wheeliker c. Canada, [1999] 3 C.F. 173, [1999] A.C.F. no 401). Selon un principe qui est également généralement reconnu, les administrateurs ne doivent pas utiliser les fonds qu'une société doit par ailleurs verser au ministre pour financer les activités courantes de la société. En somme, les administrateurs sont tenus de prévenir toute omission de verser les montants qui sont dus, et non de remédier aux manquements après coup. Dans la décision Soper, le juge Robertson a appliqué une norme objective‑subjective pour décider si les administrateurs avaient agi d'une façon prudente et raisonnable eu égard aux circonstances, mais dans l'arrêt Magasins à rayons Peoples, la Cour suprême du Canada a semblé à première vue rejeter le critère énoncé par le juge Robertson et favoriser une norme objective. Il n'y a peut‑être pas de consensus au sein de notre cour au sujet du critère à appliquer, mais je ne crois pas avoir à régler ici cette question afin de statuer sur l'appel. Certaines des questions auxquelles il faut répondre, selon les précédents, sont ci‑après énoncées :
+1. L'administrateur a‑t‑il pris des décisions commerciales raisonnables eu égard aux circonstances?
+2. Les mesures qu'un administrateur a prises pour prévenir le manquement sont‑elles celles qu'une personne raisonnablement prudente aurait prises dans des circonstances comparables?
+3. Quelles sont les mesures concrètes qui ont été prises pour prévenir l'omission de verser les sommes en cause, et quelles sont les mesures dont il n'a pas été tenu compte ou que l'on a omis de prendre?
+4. Comme le juge Bowman l'a dit dans la décision McKinnon c. Canada, 2003 CCI 884, [2003] A.C.I. no 715, compte tenu d'événements imprévus, y avait‑il quelque chose de plus que l'administrateur aurait pu faire?
+[10] Dans la décision Mosier c. Canada, no 96‑3504(GST)G, 10 octobre 2001, [2001] A.C.I. no 692, le juge Bowman, en parlant de la norme de soin imposée à un administrateur en vertu de l'article 227.1, a fait les remarques suivantes :
+[...] il faut se demander si, à la lumière des faits existant à l'époque dont l'administrateur avait ou aurait dû avoir connaissance et en fonction des différentes voies qui s'offraient à lui, l'administrateur a choisi celle qu'une personne raisonnablement prudente aurait choisie dans les circonstances et dont on pouvait raisonnablement s'attendre à ce qu'elle permette de s'acquitter de l'obligation fiscale. Le fait que la voie choisie ne se soit pas révélée la bonne n'est pas déterminant.
+[11] Si j'examine maintenant les faits dont je suis saisie, M. Warring était en somme un administrateur interne. Il s'occupait activement de l'exploitation quotidienne de la société et il comptait plus de 20 années d'expérience dans le domaine de la vente de volailles et du transport. Monsieur Warring a reconnu savoir que les retenues à la source, en ce qui concerne les salaires, n'étaient pas versées. Il a témoigné avoir pris une décision délibérée, au début de l'an 2000, de ne pas effectuer les versements au ministre parce qu'il voulait faire en sorte que son personnel soit rémunéré. Il a également privilégié les fournisseurs de carburant au lieu d'effectuer les versements. Monsieur Warring semble être honnête; il a témoigné qu'il avait toujours payé ses impôts jusqu'à ce moment‑là. Je crois qu'il a toujours voulu « se rattraper » en ce qui concerne ces paiements, à une date ultérieure, lorsque sa société commencerait à être rentable. Le problème en l'espèce est que, malgré ses longs antécédents dans cette industrie et son expérience passée ayant trait à la perte de sa première société, M. Warring a commencé à exploiter sa seconde société en sachant parfaitement que, sur le plan financier, la société était déjà « dans la mélasse ». Aux étapes initiales, la plupart des entreprises font face à de longues périodes difficiles au cours desquelles elles éprouvent des problèmes financiers. Toutefois, je crois, compte tenu des faits portés à ma connaissance, qu'une personne raisonnablement prudente aurait établi, comme elle le devait, des mesures pour s'occuper de ses finances.
+[12] Dans ce cas‑ci, l'appelant n'a pas pu obtenir d'aide des banques ou d'investisseurs indépendants, de sorte que, comme le montre la documentation, l'entreprise était sous‑capitalisée dès le début. D'après la preuve, aucunes circonstances imprévues ne sont survenues, lesquelles auraient chambardé les plans de l'appelant. À coup sûr, la première société, D.A. Warring & Sons Foods Ltd., qui s'est vue obligée de fermer ses portes lorsqu'elle a perdu Loblaws comme client, faisait face à un certain nombre d'événements imprévus qui ont eu une incidence sur sa situation financière, mais la preuve ne donne pas à entendre que quelque chose de semblable se soit produit au cours de la brève période d'un an où la seconde société a été exploitée. De fait, l'état des résultats de l'appelant montre que, quelques mois à peine après le début des activités, il y avait de gros problèmes de trésorerie. Je crois M. Warring lorsqu'il affirme avoir fait de son mieux pour assurer le bon fonctionnement de la société. Monsieur Warring était en outre aux prises avec des problèmes familiaux continus, mais si je comprends bien son témoignage, ces problèmes avaient commencé avant la création de la société, qui faisait face dès le départ à des difficultés financières insurmontables. Je ne crois pas que, dans ces conditions, il était responsable d'établir une société de transport sans un appui financier quelconque et sans qu'un plan soit en place pour satisfaire aux obligations futures de la société. Lorsque le frère de l'appelant a quitté l'entreprise, au mois de février 2000, cet événement était peut‑être imprévu, mais tous les problèmes financiers existaient bien avant cet événement. Je ne crois pas qu'il m'incombe de juger après coup les décisions commerciales d'un contribuable, mais je dois examiner les actions de M. Warring par rapport à ce que ferait une personne raisonnablement prudente possédant les longs antécédents de l'appelant dans l'industrie. Je comprends bien M. Warring et j'aimerais pouvoir l'aider. Toutefois, M. Warring n'a pris absolument aucune mesure concrète en vue de s'occuper des versements. Rien ne montre qu'il ait communiqué régulièrement avec l'Agence du revenu du Canada au sujet de ces versements ou qu'il ait essayé de répartir l'argent entre tous les créanciers ou encore qu'il ait songé à fermer l'entreprise à une date antérieure afin de mettre fin aux pertes.
+[13] Je me rends bien compte qu'il faut payer le personnel et les fournisseurs, à défaut de quoi l'entreprise doit fermer ses portes. Toutefois, toutes ces obligations financières existaient au départ, ainsi qu'une myriade d'autres obligations, notamment à l'égard des versements. L'intention de payer à un moment donné dans l'avenir si la société devient rentable ne constitue pas une mesure concrète prise dans le présent afin de prévenir un manquement. Une personne raisonnablement prudente n'irait tout simplement pas de l'avant aveuglément sachant que, dès le premier jour, la société faisait manifestement face à de gros problèmes financiers, qu'elle n'avait aucune aide de la banque ni aucun autre soutien financier, et qu'il n'y avait pas de plan de secours en place pour régler ces questions.
+[14] Par conséquent, je me vois obligée de rejeter l'appel; toutefois, aucuns dépens ne seront adjugés à l'intimée.
+Signé à Ottawa, Canada, ce 23e jour de juin 2008.
+« Diane Campbell »
+Le juge Campbell
+Traduction certifiée conforme
+ce 18e jour de septembre 2008.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2008 CCI 363
+No DU DOSSIER DE LA COUR :
+2005-3085(IT)G
+INTITULÉ :
+Allan Warring et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Hamilton (Ontario)
+DATE DE L'AUDIENCE :
+Le 31 mai 2007
+MOTIFS DU JUGEMENT :
+L'honorable juge Diane Campbell
+DATE DU JUGEMENT :
+Le 1er juin 2007
+COMPARUTIONS :
+Avocat de l'appelant :
+L'appelant lui‑même
+Avocat de l'intimée :
+Me Brandon Siegal
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+Cabinet :
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

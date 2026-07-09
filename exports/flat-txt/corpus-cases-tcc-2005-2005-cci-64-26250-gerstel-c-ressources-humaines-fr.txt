@@ -1,0 +1,277 @@
+Title: Gerstel c. Ressources Humaines
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26250/index.do
+Corpus path: corpus/cases/tcc/2005/2005-cci-64-26250-gerstel-c-ressources-humaines-fr.md
+Document type: case_law
+Last modified: 2005-01-31
+
+# Gerstel c. Ressources Humaines
+
+- Citation: 2005 CCI 64
+- Decision date: 2005-01-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4014, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gerstel c. Ressources Humaines
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-31
+Référence neutre
+2005 CCI 64
+Numéro de dossier
+2004-237(OAS)
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Loi sur la sécurité de la vieillesse
+Contenu de la décision
+Dossier : 2004-237(OAS)
+ENTRE :
+SAMUEL GERSTEL,
+appelant,
+et
+LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES,
+intimé.
+____________________________________________________________________
+Appel entendu le 4 novembre 2004, à Montréal (Québec).
+Devant : L’honorable juge François Angers
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Julie David
+[TRADUCTION FRANÇAISE OFFICIELLE]
+__________________________________________________________________
+JUGEMENT
+L’appel de la décision du ministre du Développement des ressources humaines datée du 4 octobre 2002 réduisant le supplément de revenu garanti de l’appelant prévu par la Loi sur la sécurité de la vieillesse est accueilli.
+Signé à Ottawa, Canada, ce 31e jour de janvier 2005.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 22e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+Référence : 2005CCI64
+Date : 20050131
+Dossier : 2004-237(OAS)
+ENTRE :
+SAMUEL GERSTEL,
+appelant,
+et
+LE MINISTRE DU DÉVELOPPEMENT DES RESSOURCES HUMAINES,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Cet appel a été renvoyé à la Cour par le Bureau du commissaire des tribunaux de révision (sécurité de la vieillesse) en vertu du paragraphe 28(2) de la Loi sur la sécurité de la vieillesse (la « LSV »). Selon le paragraphe en question, lorsque les moyens d’appel se rapportent à la détermination du revenu au sens de l’article 2 de la LSV, l’appel doit être renvoyé à la Cour pour décision. L’appel qui nous occupe porte sur la façon dont l’intimé a calculé le revenu de l’appelant pour 2001 selon les articles 2 et 13 de la LSV pour les besoins du calcul du montant auquel l’appelant a droit au titre du supplément de revenu garanti (« SRG ») pour la période allant de juillet 2002 à juin 2003.
+[2] Aucun élément de preuve n’a été présenté à l’instruction. L’appelant a souscrit à l’énoncé des faits contenu dans la réponse à l’avis d’appel, qui indique ce qui suit :
+[TRADUCTION]
+A. ÉNONCÉ DES FAITS
+2. L’intimé nie toutes les allégations de fait telles qu’elles sont indiquées dans l’avis d’appel, sauf les faits expressément plaidés en l’espèce.
+3. Depuis 1996, l’appelant et son épouse reçoivent une pension mensuelle de la Sécurité de la vieillesse et le supplément de revenu garanti (« SRG ») conformément à la Loi sur la sécurité de la vieillesse (ci-après appelée la « Loi »).
+4. La Loi indique qu’un pensionné de la Sécurité de la vieillesse peut être admissible aux prestations du supplément de revenu garanti dans une année civile en particulier. L’admissibilité aux prestations mensuelles du SRG varie dans une large mesure en fonction des revenus qu’ont touchés le pensionné et son époux dans l’année civile précédente. Les articles 2 et 13 de la Loi donnent la définition de « revenu » pour une année civile pour les besoins de la détermination du montant du supplément qui peut être payable à un pensionné en particulier.
+5. L’article 2 de la Loi indique que le revenu d’une personne pour l’année est calculé en conformité avec la Loi de l’impôt sur le revenu, sous réserve de plusieurs exceptions limitées. L’intimé a tenu compte de l’article 2 et l’a appliqué lorsqu’il a calculé le revenu de l’appelant pour l’année.
+6. Le 27 mars 2002, l’appelant a déposé une demande de renouvellement du supplément de revenu garanti pour la période de paiement allant de juillet 2002 à juin 2003.
+7. L’année 2001 est l’année de référence pour les besoins du calcul du supplément payable en vertu de la Loi. Le revenu gagné par l’appelant et son épouse pendant l’année d’imposition 2001 détermine donc le SRG payable pour la période allant de juillet 2002 à juin 2003.
+8. En mars 2002, l’appelant a déclaré que le revenu du couple pour 2001 était de 5 883 $, selon le calcul suivant :
+Source
+M. Gerstel
+Mme Gerstel
+Prestations du RRQ
+6 532,44 $
+Revenu de dividendes
+645 $
+Gains en capital
+2 675,62 $
+Revenu de location
+125 $
+125 $
+Frais financiers
+(4 219,88 $)
+Revenu total
+5 113 $
+770 $
+Revenu combiné
+5 883 $
+Ce faisant, l’appelant a confirmé que les renseignements étaient exacts et complets.
+9. L’intimé a le droit de vérifier les renseignements déclarés au ministre du Revenu national (le « MRN »). Le MRN fixe ses montants en chiffres ronds, ce que l’intimé ne fait pas.
+10. Le 12 juillet 2002, le MRN a communiqué à l’intimé un relevé indiquant que, pour l’année d’imposition 2001, l’appelant a déclaré un revenu de location de 733 $ et que l’épouse de l’appelant a déclaré un revenu de location de 731 $ et un revenu de dividendes de 588 $.
+11. Le 12 juillet 2002, le MRN a communiqué à l’intimé un relevé concernant le revenu de l’épouse de l’appelant pour l’année d’imposition 2001. L’intimé a constaté des écarts entre le revenu de location net et le revenu de dividendes déclaré par les deux époux pour les besoins de l’impôt sur le revenu et pour les besoins du SRG. Pour les besoins du SRG, les époux ont chacun déclaré un revenu de location net de 125 $, mais pour les besoins de l’impôt, ils ont déclaré un revenu de location net de 733,50 $ et de 731 $. L’épouse de l’appelant a déclaré un revenu de dividendes de 588 $ pour les besoins de l’impôt, mais a déclaré un revenu de dividendes de 645 $ pour les besoins du SRG.
+12. Le 7 août 2002, l’intimé a reçu de la part de l’appelant et de son épouse un état des revenus révisé pour l’année civile 2001 indiquant un revenu combiné de 5 721,68 $, qui a été calculé de la façon suivante :
+Source
+M. Gerstel
+Mme Gerstel
+Prestations du RRQ
+6 532,44 $
+Revenu de dividendes
+558,12 $
+Gains en capital
+2 675,62 $
+Revenu de location
+733,50 $
+731 $
+Frais financiers
+(4 219,88 $)
+Revenu total
+5 721 $
+1 289,12 $
+Revenu combiné
+7 010 $
+13. En septembre 2002, l’intimé a demandé à l’appelant et à son épouse de vérifier les différences dans le revenu déclaré pour les dividendes et le revenu net de location tiré de biens à l’aide d’un tableau fourni et d’annexer des copies de leur déclaration de revenus T1 pour 2001.
+14. Le couple a fait savoir que le montant de 125 $ déclaré à titre de revenu de location tiré de biens correspond au montant restant après la déduction pour amortissement; le montant de 733 $ était le montant du revenu de location tiré de biens avant la déduction pour amortissement. L’épouse de l’appelant a dit que le revenu d’intérêts de 588 $ qu’elle a déclaré a été reçu en devises américaines et que ce revenu correspondait à 837 $CAN.
+15. En octobre 2002, l’intimé a recalculé le revenu combiné du couple au moyen des mêmes chiffres que la première fois, sauf qu’il a inclus un revenu de dividendes de 837 $ plutôt que de 645 $, montant initialement déclaré pour les besoins du SRG. L’intimé a déterminé que le revenu combiné du couple était de 6 219,94 $.
+16. Le 4 octobre 2002, ou vers cette date, l’intimé a dit à l’appelant et à son épouse qu’un montant de 837 $ avait été ajouté au revenu de l’épouse pour l’année d’imposition 2001 et que leur revenu combiné pour 2001 serait rajusté afin d’inclure le montant du revenu de location net, tel qu’il a été déclaré au MRN. Après avoir déterminé que le revenu combiné du couple était de 6 219,94 $, l’intimé a avisé l’appelant et son épouse que leurs prestations du supplément de revenu garanti seraient rajustées en conséquence. Il y avait donc eu un paiement en trop de 51 $ pour chaque époux relativement aux prestations du supplément de revenu garanti versées pendant la période allant de juillet à septembre 2002. L’intimé a donc récupéré ce paiement en trop en le retenant sur les prestations du SRG pour octobre.
+17. Au moyen d’une lettre non datée reçue par l’intimé le 24 octobre 2002, l’appelant a demandé un réexamen de la décision rendue le 4 octobre 2002.
+18. En décembre 2002, le MRN a avisé l’intimé que pour les besoins de l’impôt pour l’année d’imposition 2001, l’appelant et son épouse avaient déclaré des gains en capital de 2 675,62 $ et un revenu de dividendes de 558 $, respectivement.
+19. En janvier 2003, l’intimé a établi que le revenu combiné pour 2001 était de 7 010,80 $, selon le calcul suivant :
+Source
+M. Gerstel
+Mme Gerstel
+Prestations du RRQ
+6 532,44 $
+Gains en capital
+2 675,62 $
+Revenu de dividendes
+558,12 $
+Revenu de location
+733,50 $
+731 $
+Frais financiers
+(4 219,88 $)
+Revenu total
+5 721,68 $
+1 289,12 $
+Revenu combiné
+7 010,80 $
+20. Le 15 janvier 2003, l’intimé a avisé l’appelant et à son épouse qu’ils avaient tous les deux reçu un paiement en trop du SRG de 161 $ (pour la période allant de juillet 2002 à janvier 2003) compte tenu de leur revenu combiné de 7 010,80 $ pour 2001. L’intimé a fait savoir qu’il récupérerait ce montant.
+21. Le 29 janvier 2003, l’appelant a envoyé une lettre au MRN demandant que son revenu pour 2001 ainsi que celui de son épouse soient réexaminés.
+22. En mars 2003, le MRN a avisé l’intimé que les gains en capital de l’appelant étaient de 1 605,37 $ plutôt que de 2 675,62 $, soit le montant initialement déclaré par l’appelant pour les besoins du SRG. L’intimé a encore une fois recalculé le revenu combiné du couple pour les besoins du SRG, et a établi qu’il était de 5 940,55 $ selon le calcul suivant :
+Source
+M. Gerstel
+Mme Gerstel
+Prestations du RRQ
+6 532,44 $
+Revenu de dividendes
+588 $
+Gains en capital
+1 605,37 $
+Revenu de location
+733,50 $
+731 $
+Frais financiers
+(4 219,88 $)
+Revenu total
+4 651,43 $
+1 289,12 $
+Revenu combiné
+5 940,55 $
+23. Le 6 mars 2003, l’intimé a dit à l’appelant et à son épouse que le MRN avait établi que leur revenu combiné pour l’année d’imposition 2001 était de 5 940,55 $. Malheureusement, il y avait une erreur dans la lettre : elle indiquait que le revenu de l’appelant était de 5 721,68 $ tandis qu’il était réellement de 4 651,43 $. L’intimé a avisé l’appelant et son épouse que le montant auquel ils avaient droit à titre de SRG pour l’année de paiement 2002-2003 avait fait l’objet d’une réévaluation. L’intimé n’avait pas assez versé de prestations du supplément du revenu garanti à l’appelant et à son épouse, ce qui a donné lieu à un paiement en moins de 184 $ pour la période allant de juillet 2002 à février 2003. L’intimé a fait savoir qu’un montant de 23 $ (la différence entre le paiement en trop de 161 $ et le paiement en moins de 184 $) serait ajouté aux prestations du SRG pour avril 2003.
+24. Le 16 août 2003, l’appelant a demandé à connaître le fondement juridique de la décision de l’intimé du 13 mars 2003.
+25. Au moyen d’une lettre datée du 17 octobre 2003, l’intimé a renvoyé l’appelant à la Loi sur la sécurité de la vieillesse et à la définition de « revenu ». L’intimé a confirmé sa décision.
+26. Le 26 novembre 2003, l’appelant a interjeté appel de la décision de l’intimé du 13 mars 2003 devant le tribunal de révision.
+27. Le 13 janvier 2004, le tribunal de révision a renvoyé l’affaire à la Cour canadienne de l’impôt.
+28. En mars 2004, le MRN a avisé l’intimé que le revenu de dividendes de 558,12 $ inclus dans le revenu de l’épouse de l’appelant avait été reçu en devises américaines. Le MRN a appliqué le taux de change américain moyen pour 2001 au revenu d’intérêts reçu, ce qui a fait passer le montant de 558,12 $ à 864,20 $.
+29. L’intimé a donc précisé que le revenu de base de l’appelant pour l’année civile 2001 est de 6 246,63 $, calculé de la façon suivante :
+Source
+M. Gerstel
+Mme Gerstel
+Prestations du RRQ
+6 532,44 $
+Revenu d’intérêts
+864,20 $
+Dividendes
+1 605,37 $
+Revenu de location
+733,50 $
+731 $
+Frais financiers
+(4 219,88 $)
+Revenu total
+4 651,33 $
+1 595,20 $
+Revenu combiné
+6 246,63 $
+[3] Étant donné que la décision pourrait avoir une incidence directe sur l’épouse de l’appelant, le Bureau du commissaire des tribunaux de révision avait suggéré qu’elle soit ajoutée en tant que partie à l’appel. Cela n’a malheureusement pas été fait.
+[4] La question en litige dans cet appel est de savoir si l’intimé a correctement calculé le revenu de base combiné des appelants pour 2001 conformément aux articles 2 et 13 de la LSV pour les besoins du calcul du montant auquel l’appelant a droit à titre de SRG pour la période allant de juillet 2002 à juin 2003. Les parties ont convenu que la seule question à trancher (en ce qui concerne ces calculs) est celle de savoir si l’appelant peut demander une déduction pour amortissement (« DPA ») dans le calcul de son revenu et du revenu de celui de son épouse pour les besoins du SRG prévu par la LSV et s’il peut, dans la même année, omettre de demander une DPA dans le calcul de leur revenu pour les besoins de l’impôt sur le revenu. La définition de « revenu » dans la LSV permet-elle à l’appelant et à son épouse de faire cela? À tous les autres égards, les calculs de l’intimé ne font pas l’objet de cet appel.
+[5] Voici la définition de « revenu » pour l’application de la LSV :
+« revenu »
+Le revenu d'une personne pour une année civile, calculé en conformité avec la Loi de l'impôt sur le revenu, sous réserve de ce qui suit :
+a) les montants suivants sont déduits du revenu de la personne tiré d'une charge ou d'un emploi pour l'année :
+(i) un montant unique pour l'ensemble des charges et emplois qu'elle occupe, égal au cinquième de son revenu tiré de charges ou d'emplois pour l'année, jusqu'à concurrence de cinq cents dollars,
+(ii) les cotisations ouvrières qu'elle a versées au cours de l'année en vertu de la Loi sur l'assurance-emploi,
+(iii) les cotisations d'employé qu'elle a versées au cours de l'année en vertu du Régime de pensions du Canada ou d'un régime provincial de pensions au sens de l'article 3 de cette loi;
+b) sont déduites des gains de la personne tirés d'un travail effectué à son compte pour l'année les cotisations qu'elle a versées au titre de ces gains au cours de l'année en vertu du Régime de pensions du Canada ou d'un régime provincial de pensions au sens de l'article 3 de cette loi;
+c) les montants suivants sont déduits du revenu de la personne pour l'année, dans la mesure où ils ont été inclus dans le calcul de ce revenu :
+(i) les prestations prévues par la présente loi et les prestations semblables versées aux termes d'une loi provinciale,
+(ii) les prestations de décès prévues par le Régime de pensions du Canada ou par un régime provincial de pensions au sens de l'article 3 de cette loi,
+(iii) les prestations d'aide sociale versées, compte tenu des ressources, des besoins ou des revenus, par un organisme de bienfaisance enregistré, au sens du paragraphe 248(1) de la Loi de l'impôt sur le revenu, ou dans le cadre d'un programme prévu par une loi fédérale ou provinciale, exception faite des programmes visés par règlement pris en application de la Loi de l'impôt sur le revenu et de ceux aux termes desquels les montants visés au sous-alinéa (i) sont versés;
+d) est déduit du revenu de la personne pour l'année trois fois l'excédent éventuel du total visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+(i) le total des montants déductibles en application de l'article 121 de la Loi de l'impôt sur le revenu dans le calcul de l'impôt payable par la personne pour l'année,
+(ii) l'« impôt payable par ailleurs pour l'année en vertu de la présente partie », au sens où cette expression s'entend au paragraphe 126(7) de cette loi pour l'application de l'alinéa 126(1)b) de cette loi, de la personne pour l'année.
+[6] Pour les besoins du supplément de revenu mensuel garanti, le calcul du revenu est défini de la façon suivante à l’article 13 de la LSV :
+Calcul du revenu
+13. Pour calculer le montant du supplément payable à un pensionné pour un mois antérieur à juillet 1999, le revenu d'une année civile est celui qui est déterminé aux termes de la Loi de l'impôt sur le revenu, sous réserve de ce qui suit :
+a) les déductions sur le revenu tiré d'une charge ou d'un emploi, pour l'année, sont les suivantes :
+(i) un montant unique pour toutes les charges et tous les emplois remplis, égal au moins élevé des deux montants suivants : cinq cents dollars ou un cinquième du revenu tiré d'une charge ou d'un emploi,
+(ii) le montant des primes acquittées pendant l'année en vertu de la Loi sur l'assurance-emploi,
+(iii) le montant au titre de la cotisation annuelle d'un employé acquitté en vertu du Régime de pensions du Canada ou d'un régime provincial de pensions ou de rentes visé à l'article 3 de cette loi;
+b) peuvent être déduites des gains du cotisant, pour un travail effectué à son compte, les cotisations versées à ce titre pendant l'année pour le Régime de pensions du Canada ou l'un des régimes provinciaux visés à l'article 3 de cette loi;
+c) peuvent être déduits lors du calcul du revenu pour l'année, les montants suivants qui y auraient été incorporés :
+(i) prestations prévues par la présente loi et prestations semblables versées aux termes d'une loi provinciale,
+(ii) allocations prévues par la Loi sur les allocations familiales et allocations semblables versées aux termes d'une loi provinciale,
+(iii) prestations de décès prévues par le Régime de pensions du Canada ou par un régime provincial de pensions au sens de l'article 3 de cette loi,
+(iv) subventions prévues par les programmes -- isolation thermique des maisons ou conversion énergétique -- visés aux alinéas 12(1)u) et 56(1)s) de la Loi de l'impôt sur le revenu,
+(v) prestations d'aide sociale versées, compte tenu des ressources, des besoins ou des revenus, par un organisme de bienfaisance enregistré -- au sens du paragraphe 248(1) de la Loi de l'impôt sur le revenu -- ou dans le cadre d'un programme établi par une loi fédérale ou provinciale, exception faite des programmes prévus par la Loi de l'impôt sur le revenu et de ceux aux termes desquels les montants visés au sous-alinéa (i) sont versés.
+[7] L’appelant a adopté la position selon laquelle l’alinéa 20(1)a) de la Loi de l’impôt sur le revenu (la « Loi ») permet au contribuable de demander des déductions pour amortissement à l’égard d’une entreprise ou d’un bien dans le calcul de son revenu pour une année d’imposition. Étant donné que le revenu du contribuable doit être calculé en conformité avec la LIR pour les besoins du SRG, le contribuable a le droit de déduire un montant à titre de DPA de son revenu de location, tel que le permettent la Loi et le Règlement de l’impôt sur le revenu (le « Règlement »), même s’il n’a pas déduit ce montant dans le calcul de son revenu pour la même année pour les besoins de l’impôt sur le revenu. L’intimé a adopté la position selon laquelle il faut qu’il soit tenu compte du revenu de location net dans la déclaration de revenus de l’appelant (c’est-à-dire le montant avant la DPA) parce que l’appelant ne peut pas, dans la même année, demander une DPA pour les besoins du SRG et ne pas demander de DPA dans sa déclaration de revenus.
+[8] La définition de « revenu » dans la LSV n’empêche pas l’appelant de demander une DPA pour les besoins de l’impôt et de ne pas demander de DPA pour les besoins de la LSV. La définition indique plusieurs modifications à apporter au moment de calculer le revenu, mais l’expression « calculé en conformité avec la Loi de l’impôt sur le revenu » n’écarte pas la possibilité d’utiliser deux méthodes différentes de calcul du revenu, pourvu que les deux méthodes soient prévues par la LIR. Dans la décision Markevich c. Canada, 2003 D.T.C. 5185 (C.S.C.), la Cour suprême du Canada a adopté la méthode moderne de M. Driedger en ce qui concerne l’interprétation des lois de façon générale et dans le domaine de l’interprétation de la législation fiscale selon laquelle il faut que les termes d’une loi soient interprétés dans leur contexte global, en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur.
+[9] Selon le English Oxford Dictionary, l’expression [TRADUCTION] « en conformité avec » correspond au [TRADUCTION] « fait d’être en accord ou en harmonie avec; conformément à ». Si la méthode que l’appelant utilise pour calculer le revenu qu’il déclare dans une demande de SRG est conforme à la LIR, elle est valide. La DPA est une déduction discrétionnaire qui peut ou non être demandée dans une année donnée, selon ce que souhaite le contribuable. De plus, il n’est pas indiqué dans la définition que le revenu doit être un revenu à l’égard duquel une cotisation a été établie en vertu de la LIR; par conséquent, cela réfute la présomption selon laquelle pour les besoins de la LSV, il faut que le revenu corresponde au revenu déclaré ou à l’égard duquel une cotisation a été établie pour les besoins de l’impôt. La LSV laisse place à la possibilité d’adopter deux méthodes différentes de « calcul » du revenu toutes aussi valides l’une que l’autre, de sorte que l’acceptation grammaticale courante de la disposition définissant « revenu » appuie la position de l’appelant.
+[10] La LSV a pour but de venir en aide aux aînés canadiens à faible revenu. Par conséquent, une interprétation large et libérale de la définition de « revenu » est favorisée. L’approche téléologique utilisée pour l’interprétation des lois dans le cadre de l’affaire Corporation Notre-Dame de Bon-Secours c. Communauté urbaine de Quebec, (1994) 95 DTC 5017 appuie cette approche, et toute ambiguïté a été réglée en faveur de l’appelant.
+[11] Bien que la LSV ne soit pas une loi fiscale, les règles d’interprétation contenues dans la décision susmentionnée sont utiles. À la page 5023, la Cour suprême du Canada a résumé les règles qu’elle a invoquées dans l’arrêt Symes c. Canada, rendu antérieurement :
+- L'interprétation des lois fiscales devrait obéir aux règles ordinaires d'interprétation;
+- Qu'une disposition législative reçoive une interprétation stricte ou libérale sera déterminé par le but qui la sous-tend, qu'on aura identifié à la lumière du contexte de la loi, de l'objet de celle-ci et de l'intention du législateur; c'est l'approche téléologique;
+- Que l'approche téléologique favorise le contribuable ou le fisc dépendra uniquement de la disposition législative en cause et non de l'existence de présomptions préétablies;
+- Primauté devrait être accordée au fond sur la forme dans la mesure où cela est compatible avec le texte et l'objet de la loi;
+- Seul un doute raisonnable et non dissipé par les règles ordinaires d'interprétation sera résolu par le recours à la présomption résiduelle en faveur du contribuable.
+[12] Étant donné que la LSV a pour but d’aider financièrement les aînés à faible revenu et qu’il y a deux méthodes de calcul du revenu, il faut privilégier la méthode qui donne l’image la plus fidèle du revenu du contribuable. L’amortissement est un coût économique pour le contribuable, et la LSV n’empêche pas l’appelant de demander une DPA pour les besoins de la LSV, dans la mesure où la déduction est faite en conformité avec la LIR. À mon avis, la LSV a pour but d’appuyer une interprétation large de la question.
+[13] L’avocate de l’intimé a fait valoir que le fait de permettre à l’appelant de demander une DPA pour les besoins de la LSV et de ne pas demander de DPA pour les besoins de l’impôt poserait un problème en ce sens que l’intimé devrait alors tenir un registre annuel de la fraction non amortie du coût en capital (« FNACC ») pour les besoins de la LSV, ce qui créerait un fardeau administratif. De plus, on pourrait dire que le ministre du Revenu national est mieux placé que l’intimé pour faire le suivi des soldes de la DPA et de la FNACC de l’appelant d’année en année, ce qui signifie qu’il appartiendrait plutôt au ministre du Revenu national de déterminer le revenu de l’appelant pour l’année. Aucun élément de preuve n’a été présenté pour appuyer la question de ce genre de fardeau.
+[14] En ce qui concerne l’objet de la Loi, il n’y a aucun doute qu’il faut calculer le revenu en conformité avec la LIR, et cela signifierait donc que le ministre du Revenu national est la personne la mieux placée pour examiner les déclarations de revenus et pour établir une cotisation à leur égard. En fait, l’article 33.11 de la LSV donne au ministre du Revenu national le pouvoir de permettre l’accès à l’intimé à un rapport donnant des renseignements dont il dispose sur tout demandeur ou prestataire, ou son époux ou conjoint de fait. Cela permet donc à l’intimé de comparer le revenu déclaré par un demandeur dans sa demande de SRG au revenu déclaré par le même demandeur dans sa déclaration de revenus. Ce qui précède signifierait donc que, pour des besoins d’efficacité, la question de l’exactitude du revenu doit être déterminée par le ministre du Revenu national.
+[15] Indépendamment de ce qui précède, je conclus que l’appelant a le droit de demander une DPA en vertu de la LIR dans le calcul de son revenu pour les besoins de la LSV; il ne suffit pas d’invoquer une simple raison d’efficacité pour le priver de ce droit, et cela correspond aux remarques incidentes du juge Noël dans le cadre de la décision Penner International Inc. c. Canada, [2003] 2 C.F. 581, au paragraphe 72 :
+[…] il n’appartient pas à la Cour de restreindre le sens d’une disposition législative dans le but de faciliter le travail des autorités administratives.
+[16] À mon avis, l’appelant peut demander une DPA pour les besoins de la LSV et ne pas demander de DPA pour les besoins de l’impôt. L’appel est accueilli.
+Signé à Ottawa, Canada, ce 31e jour de janvier 2005.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 22e jour de juillet 2005.
+Nathalie Boudreau, traductrice
+RÉFÉRENCE :
+2005CCI64
+NO DU GREFFE :
+2004-237(OAS)
+INTITULÉ DE LA CAUSE :
+Samuel Gerstel et le ministre du Développement des ressources humaines
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+4 novembre 2004
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge François Angers
+DATE DU JUGEMENT :
+31 janvier 2005
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Julie David
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimé :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,197 @@
+---
+title: "Tuar c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29793/index.do"
+last_modified: "2010-03-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 236"
+citation2: ""
+neutral_citation: "2010 CCI 236"
+decision_date: "2010-03-15"
+language: "fr"
+item_id: "29793"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6599
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:11:12.113000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5153dc94cf8346d22d5518e74d2fc2c5893b131ec24320f524e5b4a441911916"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tuar c. La Reine
+
+- Citation: 2010 CCI 236
+- Decision date: 2010-03-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6599, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tuar c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-03-15
+Référence neutre
+2010 CCI 236
+Numéro de dossier
+2008-2888(IT)I
+Juges et Officiers taxateurs
+Diane Campbell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008­2888(IT)I
+ENTRE :
+DOREEN TUAR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appels entendus le 18 mars 2010, à Toronto (Ontario).
+Devant : L'honorable juge Diane Campbell
+Comparutions :
+Pour l'appelante :
+L'appelante elle­même
+Avocats de l'intimée :
+Me Carol Calabrese
+Me Aleksandrs Zemdegs
+________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 2002, 2003, 2004, 2005 et 2006 sont rejetés, sans dépens, conformément aux motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 5e jour de mai 2010.
+« Diane Campbell »
+Le juge Campbell
+Traduction certifiée conforme
+ce 14e jour de juillet 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 236
+Date : 20100505
+Dossier : 2008­2888(IT)I
+ENTRE :
+DOREEN TUAR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Campbell
+[1] Les présents appels faisaient partie d'un groupe d'appels portant sur des dons de bienfaisance concernant près de quarante appelants différents. Au moment où la date de l'audience avait été fixée, un grand nombre d'appelants s'étaient désistés de leurs appels. En fin de compte, seuls les appels de Richard Kwame Adomphwe (2008‑3722(IT)I), de George W. Scott (2008‑1657(IT)I), de Stephonie Scott (2008‑1704(IT)I) et de Doreen Tuar (2008‑2888(IT)I) ont été instruits.
+[2] Les appels interjetés par Doreen Tuar se rapportent aux années d'imposition 2002, 2003, 2004, 2005 et 2006. Dans le calcul de l'impôt à payer pour chacune de ces années d'imposition, l'appelante a demandé un crédit d'impôt non remboursable brut à l'égard des dons de bienfaisance suivants :
+Année
+Organisme de bienfaisance
+Montant
+2002
+CanAfrica International Foundation (« CanAfrica »)
+8 000 $
+2003
+CanAfrica
+8 350 $
+2004
+CanAfrica
+8 358 $
+2005
+CanAfrica
+10 025 $
+2006
+PanAfrican Canadian Multicultural Centre
+4 274 $
+2006
+Bible Teaching Ministries
+4 310 $
+[3] Les nouvelles cotisations concernant les années d'imposition 2002 et 2003 ont été établies après l'expiration de la période normale de nouvelle cotisation conformément au paragraphe 152(4) de la Loi de l'impôt sur le revenu (la « Loi »).
+[4] L'appelante a témoigné avoir été mise au courant de l'existence d'un organisme de bienfaisance, CanAfrica, au moyen d'une brochure qui avait été laissée à sa résidence. La brochure indiquait les coordonnées de M. Ambrose Danso-Dapaah, qui exploitait ADD Accounting. Des accusations de fraude ont par la suite été portées au criminel contre M. Danso-Dapaah, au mois de novembre 2007, par suite d'une enquête menée par l'Agence du revenu du Canada (l'« ARC »). En 2008, M. Danso-Dapaah a plaidé coupable à ces accusations.
+[5] L'appelante a enquêté sur l'organisme de bienfaisance sur l'Internet et, étant donné que sa famille avait aidé des organismes de bienfaisance dans son pays d'origine, le Guyana, depuis son arrivée au Canada, en 1989, il a été décidé de mettre en commun les ressources de la famille et d'appuyer l'organisme de bienfaisance décrit dans la brochure.
+[6] Après avoir reçu la brochure, l'appelante a rencontré M. Danso-Dapaah en 2002 en vue d'obtenir des renseignements supplémentaires. Monsieur Danso-Dapaah a informé l'appelante qu'il était fonctionnaire à l'ARC et qu'il travaillait également à temps partiel pour aider des causes caritatives en Afrique par l'intermédiaire d'un organisme, CanAfrica. L'appelante avait fait des dons à des organismes de bienfaisance dans son pays d'origine, mais, avant 2002, elle n'avait jamais demandé, dans ses déclarations, la déduction de quelque montant que ce soit. Selon l'appelante, même après la production de sa déclaration de revenus par M. Danso-Dapaah, en 2002, elle a communiqué avec l'ARC afin de s'assurer que l'organisme de bienfaisance était enregistré et que les reçus étaient en règle.
+[7] Depuis sa rencontre avec M. Danso-Dapaah, en 2002, les renseignements concernant les déclarations de l'appelante, ainsi que les dons effectués par elle, étaient recueillis chez elle ou envoyés par la poste à ADD Accounting. L'appelante ne se rendait pas aux bureaux du spécialiste en déclarations de revenus. Au cours de ces années‑là, l'une des soeurs de l'appelante habitait avec cette dernière. La soeur avait besoin de soins et avait été hospitalisée à maintes reprises. L'appelante et sa soeur partageaient un logement locatif avec leur frère, qui aidait l'appelante à prendre soin de leur soeur tout en essayant de lancer sa propre entreprise. L'appelante travaille à la Banque de commerce. Au cours des années visées par les appels, le revenu brut de l'appelante a varié de 27 602 $ en 2002 à 35 914 $ en 2006. L'appelante a affirmé qu'au cours des années d'imposition ici en cause, elle agissait également comme tutrice auprès de certains élèves, sans exiger de frais.
+[8] L'appelante a produit un grand nombre de reçus et divers documents d'expédition se rapportant à de l'argent et à des contenants d'articles envoyés au Guyana au cours des années antérieures à l'année 2002. Elle a déclaré que ses huit frères et soeurs et elle‑même mettaient leurs ressources en commun afin de faire ces dons dans leur pays d'origine avant 2002, ainsi qu'aux organismes de bienfaisance de M. Danso-Dapaah au cours des années visées par les appels.
+[9] Les déclarations de l'appelante pour les années d'imposition 2002 à 2005 ont été préparées par ADD Accounting. En 2007, Payless Accounting a préparé la déclaration de l'appelante pour l'année 2006, puisque l'appelante avait été avisée du changement d'adresse d'ADD Accounting. Monsieur Danso-Dapaah avait vendu sa liste de clients à George Gudu, qui avait travaillé à temps partiel pour ADD Accounting à titre de spécialiste en déclarations de revenus. Monsieur Gudu a lancé sa propre entreprise de préparation de déclarations de revenus à un nouvel endroit et a commencé à exercer ses activités sous la raison sociale Payless Tax.
+[10] Monsieur Gudu n'a pas témoigné dans les appels de Mme Tuar, mais il a été appelé à témoigner dans les autres appels qui faisaient partie du groupe d'appels. Monsieur Gudu était apparemment au courant du stratagème promu par M. Danso-Dapaah, c'est‑à‑dire émettre de faux reçus pour des montants beaucoup plus élevés que les montants versés par les clients. Monsieur Gudu a continué de se livrer à cette pratique en exploitant Payless Accounting. Monsieur Gudu a également été accusé et, aux termes d'une entente conclue avec l'ARC, il doit plaider coupable ce printemps.
+[11] À l'appui des montants qu'elle affirme avoir versés en espèces, l'appelante a produit une copie d'un chèque de 500 $ daté du 10 avril 2003 et payable à M. Danso-Dapaah (pièce A‑4). L'appelante a déclaré que M. Danso-Dapaah ne voulait pas accepter ce chèque parce qu'il lui avait dit qu'il allait en Afrique afin de remettre personnellement l'argent à l'organisme de bienfaisance et qu'il faudrait trop de temps pour que le chèque soit compensé à la banque avant son départ. L'appelante a remis à M. Danso-Dapaah un mandat de 500 $ daté du 15 avril 2003 (pièce A‑3) à la place du chèque. Selon l'appelante, cela montrait également que M. Danso-Dapaah voulait uniquement de l'argent et ne voulait aucun autre type de paiement. L'appelante a produit son carnet de banque indiquant un retrait en espèces de 800 $ le 31 janvier 2002, montant qui, selon elle, aurait été remis à M. Danso-Dapaah parce qu'elle n'avait jamais effectué de gros retraits en espèces pour quelque chose d'autre.
+[12] Chaque année, sauf en 2006, le don effectué par l'appelante était composé d'argent ainsi que de certains articles, principalement des bijoux. Une bague de fiançailles en platine faisait partie du montant global de 8 000 $ qui avait été donné en 2002. L'appelante estimait que cette bague valait environ 5 000 $, mais la bague n'avait pas été évaluée. En 2003, il y avait, parmi les articles donnés, un collier en or à 18 carats ainsi qu'un autre article, mais l'appelante ne se souvenait pas de quel article il s'agissait. En 2004, elle a donné des bijoux en or, tels que des bagues et des anneaux en or brisés, qu'elle avait apportés de son pays d'origine. En 2005, l'appelante a donné une autre bague, provenant d'autres fiançailles qui avaient été rompues. Aucun de ces bijoux n'a été évalué et l'appelante n'avait pas de reçus de M. Danso­Dapaah reconnaissant ces dons de biens.
+[13] Monsieur Kofi Debrah, un soi‑disant pasteur, a témoigné avoir [TRADUCTION] « traité » avec M. Danso­Dapaah, d'ADD Accounting, et par la suite avec M. Gudu, de Payless Tax, pour le compte de son organisme de bienfaisance, Bible Teaching Ministries, qui est devenu un organisme de bienfaisance enregistré en 2005. Il a confirmé [TRADUCTION] l'« arrangement » qu'il avait pris avec ces deux personnes au sujet de la collecte par ces spécialistes en déclarations, auprès de clients, d'un montant représentant 10 p. 100 de la valeur nominale de reçus émis en blanc par Bible Teaching Ministries. Ce montant de 10 p. 100 était ensuite partagé entre les spécialistes en déclarations de revenus et M. Debrah ou, à en croire M. Debrah, son organisme de bienfaisance. En échange, M. Debrah remettait des carnets de reçus en blanc de Bible Teaching Ministries, ne comportant qu'une signature. Monsieur Debrah a identifié le reçu de 4 310 $ daté du 29 janvier 2007 qui avait été remis à l'appelante par Bible Teaching Ministries. Il a confirmé qu'il avait reçu 60 p. 100 de 10 p. 100 de la valeur nominale inscrite au reçu. Lors du contre‑interrogatoire, M. Debrah, bien qu'il ait reconnu, lors de l'interrogatoire principal, avoir pris cet arrangement et avoir fourni un nombre illimité de reçus en blanc signés à ces spécialistes en déclarations de revenus, a maintenu sous serment, ce qui est fort surprenant, [TRADUCTION] « ne pas avoir été au courant » d'un stratagème visant à frauder l'ARC et des personnes telles que l'appelante.
+[14] Deborah Edyvean, l'enquêteuse de l'ARC, a énuméré les renseignements, y compris des copies des déclarations de revenus de clients, obtenus du logiciel CANTAX sur les ordinateurs et le matériel saisis dans les bureaux de Payless Tax, ainsi qu'à la résidence personnelle et dans la fourgonnette de M. Gudu. De plus, des carnets de reçus, de divers organismes de bienfaisance, dont certains étaient rédigés, alors que d'autres étaient déjà signés et scellés, mais par ailleurs laissés en blanc, ont été saisis. Du papier à en‑tête de certains organismes de bienfaisance et des lettres ont également été saisis.
+[15] Madame Edyvean a également renvoyé aux factures jointes aux déclarations à l'égard de la préparation des déclarations de revenus qui avaient été remises à l'appelante en 2003, en 2004 et en 2005. Le relevé des frais de préparation des déclarations de revenus remis à l'appelante indiquait le numéro du reçu pour don de bienfaisance et le montant nominal du reçu, mais n'indiquait qu'un paiement représentant environ 10 p. 100 de ce montant, effectué au cours de l'année où la déclaration avait été préparée et produite.
+[16] Madame Edyvean et Barbara Lovie, qui était également enquêteuse spéciale à l'ARC, ont conclu que M. Danso‑Dapaah et M. Gudu participaient à un stratagème en vertu duquel ces spécialistes en déclarations de revenus indiquaient des montants gonflés sur les reçus, qui étaient achetés par les clients pour un montant représentant 10 p. 100 du montant gonflé. Il a été confirmé que M. Danso‑Dapaah avait présenté un plaidoyer de culpabilité en 2008 et que M. Gudu, parmi d'autres, avait été accusé de fraude. L'enregistrement de tous les organismes de bienfaisance ici en cause a maintenant été annulé. Selon la preuve présentée par Mme Lovie, le montant des faux reçus pour dons de bienfaisance que M. Danso‑Dapaah avait remis s'élevait à environ 21,6 millions de dollars, des crédits d'impôt non remboursables de 6,2 millions de dollars ayant été demandés.
+[17] Il s'agit principalement de savoir en l'espèce si l'appelante a versé, à des organismes de bienfaisance enregistrés, des dons l'autorisant à demander des crédits d'impôt non remboursables conformément à l'article 118.1 de la Loi. De plus, une deuxième question se pose, à savoir si les reçus émis par ces organismes de bienfaisance peuvent être admis à titre de reçus validement délivrés selon les modalités au paragraphe 118.1(2) de la Loi ainsi qu'à l'article 3500 et au paragraphe 3501(1) du Règlement de l'impôt sur le revenu (le « Règlement »). Puisque les présents appels se rapportent à deux années d'imposition, soit les années 2002 et 2003, qui ont fait l'objet de cotisations après l'expiration de la période normale de nouvelle cotisation, une troisième question se pose lorsqu'il s'agit de décider si le ministre du Revenu national (le « ministre ») avait le droit d'établir de nouvelles cotisations à l'égard de l'appelante après l'expiration de la période normale de nouvelle cotisation pour ces deux années d'imposition.
+[18] Selon la position prise par l'intimée, l'appelante n'a pas effectué un don véritable tel que le prévoit la common law, mais elle a plutôt [TRADUCTION] « acheté » des reçus pour dons de bienfaisance de son spécialiste en déclarations de revenus, lesquels indiquaient des montants nominaux nettement gonflés.
+[19] L'arrêt R. c. Friedberg, no A‑65‑89, 5 décembre 1991, [1991] A.C.F. no 1255 (QL) (C.A.F.), fait autorité pour ce qui est du sens du terme « don ». Le juge Linden a défini le terme « don » ainsi :
+[...] un don est le transfert volontaire du bien d'un donateur à un donataire, en échange duquel le donateur ne reçoit pas d'avantage ni de contrepartie [...]
+[20] L'avocat de l'intimée a renvoyé à la décision Coombs c. La Reine, 2008 CCI 289, dans laquelle le juge Woods a énuméré comme suit, au paragraphe 15, les éléments de cette définition :
+[...] Premièrement, le bien donné doit appartenir au donateur. Deuxièmement, le transfert à l'organisme de bienfaisance doit être volontaire. Troisièmement, le donateur ne doit pas recevoir de contrepartie en échange du don. Quatrièmement, l'objet du don doit être un bien, ce qui distingue le don de la fourniture de services à un organisme de bienfaisance. Ces éléments reflètent l'idée générale voulant qu'un contribuable doive avoir une intention libérale relativement au transfert d'un bien à l'organisme de bienfaisance pour qu'il s'agisse d'un don.
+[21] Dans la décision Webb c. La Reine, 2004 CCI 619, le juge Bowie a décrit ainsi, au paragraphe 16, cette « intention libérale » de transférer un bien à un organisme de bienfaisance :
+[16] Il s'est écrit beaucoup de documents au sujet des dons de bienfaisance au cours des années. Cependant, la loi est selon moi très claire. Je suis lié par la décision de la Cour d'appel fédérale dans l'affaire La Reine c. Friedberg, entre autres. Ce cas et les autres du genre indiquent clairement que pour qu'un montant soit considéré comme un don fait à un organisme de bienfaisance, il doit être versé sans qu'il n'y ait d'avantage ou de contrepartie directs ou indirects pour le donateur, et sans qu'il n'y ait d'attente d'avantage ou de contrepartie. En d'autres mots, l'intention du donateur doit être entièrement libérale.
+[22] Les nouvelles cotisations concernant les années d'imposition 2002 et 2003 ont été établies après l'expiration de la période normale de nouvelle cotisation. Pour que ces années puissent faire l'objet de nouvelles cotisations, il faut que l'intimée établisse, pour chaque année, que l'appelante a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou qu'elle a commis quelque fraude, en application du sous‑alinéa 152(4)a)(i) de la Loi. Les deux enquêteuses de l'ARC ont conclu que les renseignements et les documents obtenus du matériel saisi indiquaient l'existence d'un stratagème en vertu duquel les clients d'ADD Accounting et de Payless Tax versaient uniquement 10 p. 100 de la valeur nominale des reçus pour dons de bienfaisance. Les enquêteuses ont conclu que ces reçus étaient essentiellement achetés. Plusieurs spécialistes en déclarations de revenus ont été accusés à cet égard. Les déclarations de 2002 et de 2003 de l'appelante provenant de CANTAX faisaient partie des documents saisis. La déclaration de 2003 renfermait une facture indiquant un montant de 8 350 $ comme le montant du reçu et le montant que l'appelante avait déduit au titre d'un don pour cette année‑là. Toutefois, la facture indique également que l'appelante n'avait de fait versé que 10 p. 100, soit 835 $. La déclaration de 2002 ne renfermait pas de facture, mais selon la preuve présentée par Mme Lovie, il n'était pas inhabituel de trouver des déclarations auxquelles aucune facture n'était jointe.
+[23] Ces deux déclarations ont été produites par voie électronique et l'appelante a témoigné qu'elle avait uniquement regardé la première page des déclarations, sans examiner les renseignements figurant dans la déclaration afin de vérifier s'ils étaient exacts ou complets. L'appelante a affirmé avoir effectué les dons, ces deux années‑là, en partie en espèces et en partie en nature, les dons en nature étant des bijoux. Elle n'a fait aucun effort pour faire évaluer d'une façon indépendante des bijoux qui semblaient valoir plutôt cher. Elle s'en est simplement remise aux spécialistes en déclarations de revenus pour qu'ils établissent la valeur des dons et elle ne s'est pas donné la peine d'examiner ses déclarations. Le seul élément de preuve qu'elle a pu fournir, en ce qui concerne les dons effectués en espèces en 2002 et en 2003, était un carnet de banque indiquant un retrait de 800 $ au début de l'année 2002 et un mandat de 500 $ payable à M. Danso­Dapaah. À l'exception de la preuve présentée par l'appelante, rien ne montrait que les 800 $ avaient de fait été versés à M. Danso­Dapaah et, s'ils ont en réalité été versés, le fait que ces 800 $ correspondent exactement à 10 p. 100 du montant nominal du reçu pour cette année­là est suspect. Le mandat de 500 $ daté du mois d'avril 2003 ne permet pas de conclure que des montants représentant plus de 10 p. 100 de la valeur nominale des reçus ont été versés à ADD Accounting.
+[24] Les actions de l'appelante permettent de conclure à la négligence et à l'inattention, mais je n'irais pas jusqu'à dire qu'elles constituent une omission volontaire ou une fraude. Je dois tenir compte du fait que l'appelante est une employée de banque et qu'elle devrait savoir jusqu'à quel point il est important d'établir des documents appropriés à l'appui de telles demandes. L'appelante aurait été bien préparée en vue de fournir une trace écrite bien documentée des dons qu'elle avait effectués au Guyana au cours des années antérieures à l'année 2002 si ces années avaient été en litige, de sorte que l'idée de documents justificatifs n'était pas un concept nouveau pour elle. Je crois que l'appelante a fait une présentation erronée des faits, par négligence et inattention, de sorte que l'ARC peut à bon droit établir de nouvelles cotisations pour ces deux années d'imposition. Si l'argument de l'appelante est qu'elle s'en est remise aux spécialistes en déclarations de revenus pour produire ces déclarations de la façon appropriée et pour s'assurer de leur exactitude, je ne crois pas qu'elle puisse avoir gain de cause sur ce point. Dans la décision Snowball c. La Reine, no 94‑848(IT)G, 20 mars 1996, le juge en chef Bowman dit clairement que le contribuable ne peut pas échapper aux conséquences du sous‑alinéa 152(4)a)(i) en imputant la négligence ou l'inattention au spécialiste en déclarations de revenus. La déclaration est celle de l'appelante et c'est à l'appelante qu'il incombe d'examiner la déclaration afin de vérifier qu'elle soit exacte et complète. Par conséquent, l'intimée s'est acquittée de l'obligation qui lui incombait d'établir, selon la prépondérance des probabilités, que ces années par ailleurs prescrites doivent faire l'objet de nouvelles cotisations. La charge passe à l'appelante pour toutes les années d'imposition visées par les appels quant aux questions qu'il reste à trancher.
+[25] Malheureusement, l'appelante n'a fourni aucune preuve, sauf pour son témoignage, qu'elle avait versé les montants en espèces et qu'elle avait donné les biens qu'elle prétend correspondant à la pleine valeur nominale des reçus. Certains membres de sa famille auraient tout au moins pu témoigner pour l'appelante afin de corroborer son témoignage, lorsqu'elle disait qu'ils mettaient tous en commun leur argent au cours des années en cause et qu'elle demandait dans ses déclarations la déduction des montants indiqués dans les reçus pour dons de bienfaisance. Au fil des ans, l'appelante a volontiers remis des bijoux dont la valeur était apparemment élevée, sans obtenir de reçus, à une personne qui s'était présentée en laissant une brochure chez elle. L'appelante s'était peut‑être quelque peu fiée au fait que M. Danso­Dapaah travaillait à l'ARC à ce moment‑là, mais elle semble être intelligente et elle occupe un poste de responsabilité dans une banque. S'il est tenu compte des circonstances dans leur ensemble, je ne crois tout simplement pas que l'appelante ait continué à remettre chaque année de l'argent et des bijoux de valeur à une personne dont les seules compétences étaient qu'il était un employé de l'ARC et qu'il exploitait une entreprise à titre de spécialiste en déclarations de revenus. Pendant toutes ces années, l'appelante n'a jamais obtenu de reçus et elle n'a pas non plus demandé de conseils indépendants sur la valeur des biens.
+[26] Je dois également tenir compte d'autres facteurs qui sont ressortis de la preuve. Le montant des dons était élevé compte tenu du revenu gagné par l'appelante au cours des années ici en cause. De plus, l'appelante prenait soin d'une soeur qui était apparemment très malade au cours de toutes ces années. L'appelante comprenait qu'il était important d'établir des documents détaillés au sujet des virements de fonds et des biens envoyés à son pays d'origine au cours des années antérieures à l'année 2002. Le retrait de 800 $ en espèces semblait être une estimation au jugé par l'appelante du montant du don, étant donné que l'appelante n'avait jamais retiré de gros montants à d'autres moments. De plus, comme je l'ai déjà conclu, le fait que ce montant représente exactement 10 p. 100 de la valeur nominale du reçu pour l'année 2002 est fort suspect. Le mandat de 500 $, au mois d'avril 2003, ne peut pas être considéré comme une preuve montrant que l'appelante ait donné le plein montant indiqué dans le reçu. Il ne pourrait s'agir que de la preuve d'un paiement se rapportant au montant de 10 p. 100 qui avait été versé à peu près au moment où la déclaration de l'appelante aurait été préparée, en 2003, le reçu ayant été utilisé pour l'année d'imposition 2002. La facture jointe à la déclaration de 2003 provenant de CANTAX étaye clairement l'existence du stratagème que l'enquête a permis de découvrir. Des factures similaires sont jointes aux déclarations de 2004 et de 2005. Ces factures contredisent le témoignage de l'appelante, qui n'a pas été en mesure de fournir une explication crédible de leur existence.
+[27] S'il est tenu compte de tous ces facteurs, et si ces facteurs sont soupesés sur la base de la prépondérance des probabilités, la preuve présentée par l'intimée permet de conclure que l'appelante n'a pas versé, en espèces ou en nature, plus de 10 p. 100 de la valeur nominale nettement gonflée des reçus accompagnant les déclarations. L'élément essentiel dit de l'« intention libérale », tel qu'il est décrit dans la jurisprudence, n'est pas présent.
+[28] Quant à l'argument subsidiaire de l'intimée, à savoir que les reçus ne satisfont pas aux exigences du paragraphe 118.1(2) de la Loi ainsi que des articles 3500 et 3501 du Règlement, les reçus, à l'exception du reçu de l'année 2006 se rapportant au PanAfrican Canadian Multicultural Centre, sont incomplets étant donné qu'ils ne renferment pas les renseignements prescrits.
+[29] Selon le paragraphe 118.1(2), un don ne doit pas être inclus à titre de don de bienfaisance à moins qu'il n'existe un reçu contenant certains renseignements prescrits. Ces renseignements sont énoncés clairement et d'une façon fort détaillée au paragraphe 3501(1) du Règlement. En particulier, le sous‑alinéa 3501(1)h)(i) prévoit que le reçu doit indiquer :
+h) le montant qui correspond
+(i) au montant du don en espèces, ou
+[...]
+[30] Quant aux dons qui comprennent des dons de biens autres que des espèces, l'alinéa 3501(1)e.1) prévoit que chaque reçu officiel doit indiquer les détails suivants :
+e.1) lorsque le don est un don de biens autres que des espèces,
+(i) le jour où le don a été reçu,
+(ii) une brève description du bien, et
+(iii) le nom et l'adresse de l'évaluateur du bien si une évaluation a été faite;
+[31] Les reçus se rapportant aux années d'imposition 2002 à 2005 (pièce R‑1) sont incomplets, et ce, pour les raisons suivantes :
+1. ils ne précisent pas le jour où le don prétendu a été fait;
+2. ils ne renferment pas une brève description des biens, composés principalement de bijoux, que l'appelante aurait donnés.
+L'un des deux reçus se rapportant à l'année d'imposition 2006, à l'égard de Bible Teaching Ministries, ne précisait pas le jour où le don prétendu a été fait.
+[32] Les renseignements manquants sur les reçus sont essentiels au succès du contribuable qui se fonde sur des reçus pour demander un crédit d'impôt à l'égard des biens qu'il a donnés. Il n'est que raisonnable que de tels renseignements soient inclus dans ce type de reçu afin d'empêcher les contribuables de donner des biens sans valeur ou des biens d'une valeur bien inférieure tout en invoquant une valeur beaucoup plus élevée afin d'obtenir un avantage fiscal. C'est également la raison pour laquelle il existe une mention précise de l'évaluation de tels biens. Il n'existe aucune exigence voulant qu'une évaluation soit effectuée, mais l'inclusion de cette mention donne à penser que, s'il existe un doute au sujet de la valeur du bien donné, le contribuable peut être tenu de produire une preuve de cette valeur au moyen d'une évaluation ou par quelque autre moyen acceptable.
+[33] Je souscris aux remarques que le juge Tardif, de la présente cour, a faites dans la décision Plante c. La Reine, no 97‑1150(IT)I, 22 janvier 1999, [1999] A.C.I. no 51 (QL) (C.C.I.), à savoir qu'il est important de remettre des reçus appropriés. Voici ce que le juge a dit aux paragraphes 46 à 48 des motifs du jugement :
+[46] Il ne s'agit pas là d'exigences futiles et sans importance; bien au contraire, ce sont là des renseignements tout à fait fondamentaux et absolument nécessaires pour permettre la vérification d'une part de la justesse de la valeur indiquée et d'autre part, de la réalité même du don.
+[47] De telles exigences visent à éviter les abus de toute nature et constituent un minimum pour qualifier la qualité d'un don pouvant générer un crédit d'impôt à l'avantage du contribuable donateur.
+[48] À défaut de rencontrer les exigences prévues quant au contenu des renseignements que doit contenir un reçu, il devra être écarté faisant ainsi perdre les bénéfices fiscaux à son détenteur. Conséquemment bien qu'un contribuable ait pu faire don d'un tableau, il ne pourra pas bénéficier du crédit potentiel si l'évaluation et le reçu émis à la suite du don ne sont pas conformes aux exigences de la Loi et de ses Règlements.
+[34] La plupart de ces reçus ne contiennent pas les renseignements prescrits par la Loi et par le Règlement et doivent donc être rejetés pour cause de non‑conformité.
+[35] Pour ces motifs, les appels concernant les années d'imposition 2002, 2003, 2004, 2005 et 2006 sont rejetés, sans dépens.
+Signé à Ottawa, Canada, ce 5e jour de mai 2010.
+« Diane Campbell »
+Le juge Campbell
+Traduction certifiée conforme
+ce 14e jour de juillet 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 236
+No DU DOSSIER DE LA COUR : 2008­2888(IT)I
+INTITULÉ : Doreen Tuar c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 18 mars 2010
+MOTIFS DU JUGEMENT : L'honorable juge Diane Campbell
+DATE DU JUGEMENT : Le 5 mai 2010
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle­même
+Avocats de l'intimée :
+Me Carol Calabrese
+Me Aleksandrs Zemdegs
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous­procureur général du Canada
+Ottawa, Canada

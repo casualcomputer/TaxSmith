@@ -1,0 +1,109 @@
+Title: Bell v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29592/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-523-29592-bell-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-10-01
+
+# Bell v. The Queen
+
+- Citation: 2009 TCC 523
+- Decision date: 2009-10-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6253, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-01
+Neutral citation
+2009 TCC 523
+File numbers
+2009-1390(IT)I
+Judges and Taxing Officers
+Eric A. Bowie
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1390(IT)I
+BETWEEN:
+JOHN BELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 24, 2009, at Nanaimo, British Columbia
+By: The Honourable Justice E.A. Bowie
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Matthew Canzer
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2007 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant, in the computation of his medical expense tax credit, is entitled to have the additional amounts of $267.40 and $153.00 taken into account.
+Signed at Ottawa, Canada, this 1st day of October, 2009.
+“E.A. Bowie”
+Bowie J.
+Citation: 2009 TCC 523
+Date: 20091001
+Docket: 2009-1390(IT)I
+BETWEEN:
+JOHN BELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bowie J.
+[1] Mr. Bell appeals his income tax assessment for the 2007 taxation year. Mr. Bell and his wife live in Nanaimo, British Columbia. In 2007 Mrs. Bell had hip surgery which was carried out in Vancouver, and Mr. Bell had bypass surgery which was carried out in Victoria. As a result, he claimed a medical expense tax credit for the year based upon medical expenses totaling $12,248. Initially he was assessed as filed. On November 3, 2008, he was reassessed to disallow all the medical expenses. On November 10, 2008, he was reassessed again to allow a credit based upon medical expenses totaling $6,036. He served a notice of objection in respect of that reassessment. As a result of the objection, he was reassessed on March 19, 2009 to allow him to include an additional $3,912 in his medical expense computation. The parties are in agreement that this $3,912 pertains to expenses incurred by his wife for accommodations and meals in Victoria during the 18 days that he was hospitalized for bypass surgery.
+[2] The amounts that remain disallowed, and as to which the appellant now brings this appeal, fall into three categories. $267.40 is the cost of the three return trips made daily by Mrs. Bell from the hotel where she stayed in Victoria to the hospital where Mr. Bell’s surgery took place. $153.00 is the total cost of parking at the hospital during those 18 days, and $311.40 is an amount claimed by Mr. Bell for incidental expenses which he says his wife incurred during this period at the rate of $17.30 per day. He estimates this amount on the basis of the allowance paid to federal public servants on travel status as a daily incidental allowance.
+[3] The relevant provisions of the Income Tax Act[1] are paragraphs 118.2(2)(g) and (h) and subsection 118.2(4).
+118.2(2) For the purposes of subsection 118.2(1), a medical expense of an individual is an amount paid
+(a) …
+(g) to a person engaged in the business of providing transportation services, to the extent that the payment is made for the transportation of
+(i) the patient, and
+(ii) one individual who accompanied the patient, where the patient was, and has been certified by a medical practitioner to be, incapable of travelling without the assistance of an attendant
+from the locality where the patient dwells to a place, not less than 40 kilometres from that locality, where medical services are normally provided, or from that place to that locality, if
+(iii) substantially equivalent medical services are not available in that locality,
+(iv) the route travelled by the patient is, having regard to the circumstances, a reasonably direct route, and
+(v) the patient travels to that place to obtain medical services for himself or herself and it is reasonable, having regard to the circumstances, for the patient to travel to that place to obtain those services;
+(h) for reasonable travel expenses (other than expenses described in paragraph 118.2(2)(g)) incurred in respect of the patient and, where the patient was, and has been certified by a medical practitioner to be, incapable of travelling without the assistance of an attendant, in respect of one individual who accompanied the patient, to obtain medical services in a place that is not less than 80 kilometres from the locality where the patient dwells if the circumstances described in subparagraphs 118.2(2)(g)(iii), 118.2(2)(g)(iv) and 118.2(2)(g)(v) apply;
+118.2(4) Where, in circumstances in which a person engaged in the business of providing transportation services is not readily available, an individual makes use of a vehicle for a purpose described in paragraph 118.2(2)(g), the individual or the individual’s legal representative shall be deemed to have paid to a person engaged in the business of providing transportation services, in respect of the operation of the vehicle, such amount as is reasonable in the circumstances.
+[4] Counsel for the Minister argued that paragraphs (g) and (h) of subsection 118.2(2) apply only to provide for the deduction of amounts expended for the transportation of the patient and an accompanying family member from the vicinity of the patient's home to the vicinity where the medical services will be provided. His position was that the Income Tax Act simply does not make provision whereby taxpayers can take into account expenses incurred at the place of treatment, as opposed to those incurred to reach the place of treatment. Curiously, counsel was unable to tell me under what authority the Minister in his last reassessment had allowed the expenses sustained by Mrs. Bell for accommodation and meals in Victoria.
+[5] I can only assume that the Minister had regard not only to section 12 of the Interpretation Act,[2] which mandates a fair, large and liberal interpretation of legislation, but also to the recent jurisprudence[3] requiring that statutes be given an interpretation that takes into account not only language and context, but also the purpose of the enactment. I expect that, having approached paragraph (h) in that way, he would have seen that it was aimed not simply at the cost of moving the patient, but at those additional expenses incurred by a patient, or the person accompanying a patient, during the period between first leaving home to go to the place of medical treatment, and returning home after the treatment is completed. Travel expenses, in other words, embrace not simply the cost of movement from one place to another, but also the attendant costs of living away from home during the treatment period. The Minister, it seems, recognized this in respect of accommodation and meals, but not in respect of the cost of travel back and forth between the hotel and the hospital for the appellant’s wife during his hospitalization. I can see no difference between the two. They are both expenses to which the patient's spouse was subject as a result of his illness and the need to be treated more than 80 kms. from his home in Nanaimo. Clearly, the purpose of this paragraph in section 118.2 of the Act is to provide some relief from the extraordinary expenses incurred when a patient must receive medical treatment 80 kilometers or more from home.
+[6] Counsel for the respondent very fairly concedes that in the present case the appellant was certified to be incapable of traveling without the assistance of an attendant, and that the conditions of subparagraphs (iii), (iv) and (v) of paragraph (g) apply. I take judicial notice that the distance between Nanaimo and Victoria is greater than 80 kms. That being so, the appellant is entitled to include in the computation of his medical expenses for the year the amounts of $267.40 and $153.00 in respect of travel between the hotel and the hospital, and parking, for his wife during the 18 days that he was in hospital in Victoria.
+[7] Turning now to the claim that the appellant is also entitled to include $17.30 per day for incidental expenses, I agree with Mr. Canzer that the Act provides no basis upon which to allow these amounts. To be allowable, an amount must fall within the words "... an amount paid ..." in the opening words of subsection 118.2(2), or else it must fall within the deeming provision in subsection 118.2(4). Mr. Bell's claim for a per diem amount simply does not fit. No doubt a person who has to live in a hotel for three weeks does have some incidental expenses that are the direct result of being away from home. If they were identifiable, then the appellant would be entitled to take them into account. In the present case they have not been identified, and so they cannot be taken into account.
+[8] The appeal will be allowed and the reassessment referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant, in the computation of his medical expense tax credit, is entitled to have the additional amounts to of $267.40 and $153.00 taken into account.
+Signed at Ottawa, Canada, this 1st day of October, 2009.
+“E.A. Bowie”
+Bowie J.
+CITATION: 2009 TCC
+COURT FILE NO.: 2009-1390(IT)I
+STYLE OF CAUSE: JOHN BELL and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Nanaimo, British Columbia
+DATE OF HEARING: September 24, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice E.A. Bowie
+DATE OF JUDGMENT: October 1, 2009
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Matthew Canzer
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] R.S. 1985 c.1 (5th supp.), as amended.
+[2] R.S.C. 1985, c. I-21.
+[3] See for example Canada Trustco Mortgage Co. v. The Queen, [2005] 2 S.C.R. 601.

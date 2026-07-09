@@ -1,0 +1,214 @@
+Title: Nuytten v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27785/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-321-27785-nuytten-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2007-02-26
+
+# Nuytten v. The Queen
+
+- Citation: 2007 CCI 321
+- Decision date: 2007-02-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 266, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nuytten v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-02-26
+Référence neutre
+2007 CCI 321
+Numéro de dossier
+2005-528(IT)G
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-528(IT)G
+ENTRE :
+RENE NUYTTEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 26 février 2007, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Pierre Archambault
+Comparutions :
+Avocat de l’appelant :
+Me Douglas H. Mathew
+Avocat de l’intimée :
+Me Michael Taylor
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2000 est rejeté avec dépens selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2007.
+« Pierre Archambault »
+Juge Archambault
+Traduction certifiée conforme
+ce 21e jour de décembre 2007
+Mario Lagacé, jurilinguiste
+Référence : 2007CCI321
+Date : 20070716
+Dossier : 2005-528(IT)G
+ENTRE :
+RENE NUYTTEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] M. Rene Nuytten interjette appel d’une nouvelle cotisation d’impôt concernant l’année d’imposition 2000. Dans la nouvelle cotisation, le ministre du Revenu national (le « ministre ») a refusé une dépense d’entreprise de 34 700 $ qui avait été déduite dans la déclaration de revenus initiale. Le ministre a également refusé un montant additionnel de 218 042 $ que M. Nuytten avait déduit au titre des frais de recherche et de développement (R. et D.) dans un formulaire de demande de rajustement T1 visant à faire modifier sa déclaration de revenus. Au début de l’audience, l’avocat de M. Nuytten a indiqué qu’il ne contestait pas le refus concernant le montant de 34 700 $. Toutefois, il a soutenu que M. Nuytten avait droit à la déduction de 218 042 $ pour le motif que ce montant constituait des frais de R. et D. qui étaient déductibles conformément à l’article 9 de la Loi de l’impôt sur le revenu (la « Loi ») dans le calcul du revenu d’entreprise de M. Nuytten.
+[2] Lorsqu’il a établi la cotisation, le ministre a émis les hypothèses suivantes : M. Nuytten avait exercé une activité de R. et D. à l’égard de systèmes de plongée en haute mer (l’« activité ») (alinéa 12a) de la réponse à l’avis d’appel); M. Nuytten avait commencé cette activité en 1996 (alinéa 12b) de la réponse); en l’an 2000, cette activité constituait une entreprise exploitée par M. Nuytten (alinéa 12c) de la réponse). Toutefois, le ministre a avancé devant la Cour une position différente et il a soutenu que l’activité ne constituait pas une entreprise ou une source de revenu pour l’appelant au cours de l’année d’imposition 2000 (paragraphe 13 de la réponse). Par conséquent, c’est au ministre qu’il incombe d’établir que l’activité ne constituait pas une entreprise exploitée par M. Nuytten.
+[3] Les deux parties ont présenté des observations écrites au cours de l’argumentation orale. Les faits pertinents ne sont pas réellement contestés. Toutefois, il existe de légères différences dans la description des faits donnée par les parties. Je reproduirai d’abord l’exposé des faits présenté par l’avocat de M. Nuytten :
+[traduction]
+4. L’appelant, M. Nuytten, est un inventeur canadien de renommée mondiale qui, pendant près de cinq décennies, s’est occupé de faire avancer les technologies en matière de plongée en haute mer ainsi que diverses technologies secondaires.
+5. La biographie de M. Nuytten est impressionnante et il vaut la peine de l’examiner minutieusement. M. Nuytten est notamment un chef de file mondial dans le milieu de la plongée; il a été mis en vedette dans de nombreuses revues telle que National Geographic et il a reçu plusieurs prix d’excellence du gouvernement canadien et plusieurs prix de groupes industriels (tant canadiens qu’étrangers). Il s’est vu décerner l’Ordre de la Colombie‑Britannique, il est titulaire d’un doctorat honorifique qui lui a été conféré par l’Université Simon Fraser et ses services sont régulièrement retenus, en raison de son expertise, par des groupes tels que la NASA et des réalisateurs d’émissions télévisées et de films. Il est une véritable icône canadienne dans son domaine.
+6. Après avoir commencé à s’intéresser à la plongée, M. Nuytten a ouvert sa propre boutique de matériel de plongée avant même de terminer ses études secondaires. Après avoir obtenu son diplôme d’études secondaires, M. Nuytten a consacré sa vie professionnelle à la technologie de la plongée sous‑marine et à des activités connexes en lançant une société de plongée commerciale appelée Can‑Dive Services Ltd. (« Can‑Dive »).
+7. Après avoir lancé avec succès Can‑Dive, M. Nuytten s’est joint à deux personnes partageant les mêmes idées pour fonder Oceaneering International. Dans le cadre de la création d’Oceaneering International, M. Nuytten a transféré Can‑Dive à Oceaneering International.
+8. Chez Oceaneering International, M. Nuytten était vice‑président directeur, Développement technologique; il dirigeait toutes les activités de recherche et effectuait personnellement du travail et des essais sur le terrain. Parmi les projets réalisés chez Oceaneering International, il y avait un sous‑marin VTG (véhicule téléguidé), des systèmes de tourelle de plongée d’incursion et des systèmes de plongée à saturation. Pendant que M. Nuytten était chez Oceaneering International, celle-ci a prospéré et a acquis une réputation à l’échelle internationale.
+9. M. Nuytten a quitté Oceaneering International au milieu des années 1980 en vue de poursuivre ses propres projets. Lorsqu’il a quitté cette société, il a de nouveau acquis Can‑Drive d’Oceaneering International.
+10. Par l’entremise de Can‑Dive, qu’il venait d’acquérir de nouveau, M. Nuytten a travaillé à la mise au point de ce qui deviendrait connu sous le nom de « Newtsuit », un scaphandre atmosphérique de plongée révolutionnaire conçu pour permettre la plongée en eaux profondes à des profondeurs qu’il n’avait jamais auparavant été possible d’atteindre et de remonter à la surface sans qu’il soit nécessaire de suivre la procédure de décompression, une procédure dangereuse et interminable. Le Newtsuit assurait également un degré de dextérité à de grandes profondeurs qu’aucun autre produit ne pouvait offrir.
+11. Can-Dive et le travail afférent au Newtsuit ont en fin de compte été transférés à une nouvelle entreprise, International Hardsuits. Le transfert a eu lieu parce que la mise au point du Newtsuit et des autres projets de M. Nuytten exigeaient plus de financement que les ressources personnelles de M. Nuytten ne le permettaient.
+12. Chez International Hardsuits, M. Nuytten a continué à travailler au Newtsuit jusqu’à ce que ce produit soit commercialisable.
+13. Pendant qu’il était chez International Hardsuits, M. Nuytten a également mis au point « Remora », un système de sauvetage sous‑marin nouveau et unique en son genre.
+14. International Hardsuits a eu recours au financement public et la société était cotée aux bourses de Toronto et de Vancouver. Par suite de cet appel public, la participation de M. Nuytten à la société International Hardsuits a été réduite, de sorte qu’il n’était plus actionnaire majoritaire alors qu’auparavant il détenait la totalité des actions.
+15. Le Newtsuit et Remora ont tous deux attiré l’intérêt des marines partout au monde, ce qui a permis à International Hardsuit d’obtenir des contrats lucratifs.
+16. Une société américaine appelée American Oilfield Divers a constaté le potentiel qu’offrait International Hardsuits et a soumis une offre d’achat hostile.
+17. M. Nuytten s’est vigoureusement opposé à l’offre d’achat, mais en sa qualité d’actionnaire minoritaire, il n’était pas en mesure de l’empêcher. Il a donc été évincé d’International Hardsuits, et International Hardsuits a conservé le droit de propriété sur la technologie qu’il avait mise au point.
+18. Compte tenu de l’expérience désagréable qu’il avait connue lors de la prise de contrôle hostile d'International Hardsuits, l’appelant a cherché une méthode lui permettant de s’assurer que toute nouvelle technologie lui appartienne personnellement.
+19. Après avoir été évincé d’International Hardsuits, l’appelant a créé Nuytco Research Limited (« Nuytco ») à la fin de l’année 1996. Il était, et il demeure, l’unique actionnaire de Nuytco.
+20. L’appelant a envisagé deux projets principaux pour Nuytco : en premier lieu, un petit submersible de plongée profonde qui est maintenant connu sous le nom de « Deep Worker ». M. Nuytten croyait qu’une fois que le projet du Deep Worker serait rentable, il passerait au second projet, une version améliorée du Newtsuit appelée l’« Exosuit ».
+21. L’appelant a pris la décision délibérée, en lançant Nuytco, de conserver personnellement les technologies, de sorte que, si Nuytco passait entre les mains de tiers au moyen d’une prise de contrôle hostile, si elle faisait faillite ou s’il arrivait autre chose, il contrôlerait du moins la technologie.
+22. L’idée que M. Nuytten a eue consistait à diviser l’entreprise entre Nuytco et lui‑même personnellement. M. Nuytten devait mettre au point la technologie en utilisant ses propres fonds, de sorte qu’il s’assurait ainsi d’en conserver la propriété. La chose lui donnerait la liberté voulue pour utiliser la technologie comme il l’entendait. Cela pouvait inclure les ventes ou l’octroi de licences à des tiers, ou la mise de la technologie à la disposition de Nuytco.
+23. En théorie, les montants à imputer à M. Nuytten étaient payés par Nuytco puisque c’était elle qui entretenait des relations avec les fournisseurs. Ces montants s’accumulaient et ils étaient imputés au compte de prêt d’actionnaire de M. Nuytten.
+24. La preuve concernant la mise en œuvre de ce plan avant l’année 2000 n’est pas entièrement claire. Il est clair que les dépenses étaient imputées à M. Nuytten, au moins en l’an 2000, et que, pendant toute la période, M. Nuytten estimait que la technologie lui appartenait.
+25. En établissant la cotisation de l’appelant, le ministre a supposé que M. Nuytten exerçait une activité de R. et D. en sa qualité personnelle depuis 1996 (alinéa 12a) de la réponse) et qu’il avait déclaré les pertes associées à l’activité de R. et D. chaque année jusqu’à l’année 2000 inclusivement (alinéa 12q) de la réponse). Par conséquent, la facturation et la déduction de montants au cours d’années antérieures n’ont pas été mises en question dans le présent appel. Si ces années antérieures avaient été mises en question, un tableau plus clair aurait pu être brossé pour la Cour sur le plan de la preuve.
+26. Les dépenses qui ont été déduites pour l’année d’imposition 2000 se rapportaient à sept projets. Les coûts de ces projets ont été rassemblés chez Nuytco, mais ils ont personnellement été facturés à l’appelant; on s’assurait ainsi qu’il était clair que l’appelant finançait personnellement la technologie et qu’il en était propriétaire.
+27. Les dépenses ont été déduites par l’appelant au moyen de la présentation d’un formulaire T1 ADJ[1], dans lequel figurait non seulement la demande de déduction des dépenses, mais aussi le salaire de 499 309 $ reçu de Nuytco, soit le montant nécessaire pour que Nuytco « fasse baisser la gratification » jusqu’au « plafond des affaires »[2].
+28. Plusieurs projets auxquels les dépenses se rattachent concernaient des accessoires ou des sous‑systèmes auxiliaires du Deep Worker, qui était la principale source génératrice de revenus pour Nuytco. D’autres projets concernaient l’Exosuit et d’autres encore avaient de nombreuses applications possibles.
+29. Lorsque le travail ici en cause a été effectué, les quatre projets auxquels se rattache l’ensemble des dépenses avaient atteint divers stades, qui peuvent être résumés comme suit :
+a. Le projet de conception d’un bras télémanipulateur devait faire une percée révolutionnaire, assurant une dextérité supérieure à celle des systèmes conventionnels de bras télécommandés sous‑marins. En fin de compte, cette percée ne s’est pas concrétisée, et les quelques « Newtarms » qui ont été vendus ont été remplacés par de la technologie conventionnelle. En rétrospective, il est possible de constater l’incertitude technologique de ce projet, puisqu’il a échoué;
+b. Le projet de recherche et de développement électronique résultait de plusieurs idées. M. Nuytten a expliqué jusqu’à quel point il était difficile de mettre au point des appareils électroniques à un moment où le monde passait rapidement du système analogique au système numérique, de sorte que les résultats des essais et les plates‑formes de produits sont rapidement devenus désuets. Ces projets étaient avantageux pour la mise au point de l’Exosuit, du Deep Worker et de divers autres projets;
+c. La mise au point du Newtsub comportait des essais classiques par tâtonnement visant à permettre d’améliorer le produit et de fabriquer des accessoires destinés à accroître la fonctionnalité du Newtsub. La nature même de ce type d’essais par tâtonnement signifie que les problèmes technologiques n’avaient pas été résolus;
+d. Le dessin visait essentiellement à appuyer d’autres projets et faisait partie du processus de développement.
+30. Il n’y a rien dans les sept projets réalisés en l’an 2000 qui ait figuré dans le brevet relatif au submersible que M. Nuytten a obtenu en 2002 parce qu’il s’agissait d’un brevet de conception ornementale.
+31. L’appelant a témoigné que la procédure de délivrance de brevets ne lui inspirait pas vraiment confiance[3] et qu’au cours de sa longue carrière, il n’avait fait breveter que quelques inventions. Il a clairement dit que, lorsqu’il se livrait aux activités de R. et D. qui sont ici en cause, il ne cherchait pas à obtenir des brevets.
+32. En l’an 2000, l’appelant a commencé à croire que Nuytco allait probablement être autonome sur le plan financier et que cette société pourrait être exploitée sans qu’il soit nécessaire d’avoir recours au financement public. L’appelant a donc conclu qu’il n’était plus nécessaire de diviser l’entreprise entre Nuytco et lui‑même. Nuytco a donc pris en charge les travaux de R. et D. de l’entreprise de l’appelant et l’appelant a cessé de financer personnellement les travaux de R. et D.
+33. Toutefois, M. Nuytten a légèrement modifié ses plans au sujet de l’Exosuit. Le 1er mai 2001, M. Nuytten et Nuytco ont conclu une entente relative à des redevances concernant uniquement la mise au point de l’Exosuit. M. Nuytten considérait l’entente comme un moyen de s’assurer qu’il continuerait à être propriétaire de la technologie relative à l’Exosuit sans avoir à financer personnellement les travaux de R. et D. Aux termes de l’entente relative aux redevances, M. Nuytten devait effectuer le travail et être propriétaire de la propriété intellectuelle en résultant. De son côté, Nuytco devait financer les travaux de R. et D. et aurait la possibilité d’exploiter la propriété intellectuelle en échange d’un paiement fondé sur le plus élevé de deux montants, à savoir un montant annuel de 50 000 $ ou une redevance de 1,5 p. 100 à compter de l’année 2003.
+34. Un point soulevé par la preuve se rapporte à la question de savoir si l’entente relative aux redevances vise la technologie de l’Exosuit appartenant à M. Nuytten avant le 1er mai 2001. L’entente se passe de commentaires; la question de savoir si la technologie antérieure était visée par l’entente relève du droit contractuel. Toutefois, la preuve soumise par M. Nuytten était claire : il considérait que la technologie passée était incluse.
+[4] La partie la plus pertinente de la description des faits présentée par l’avocat de l’intimée figure aux paragraphes 10 à 32 de ses observations écrites, qui énoncent des faits en plus de ceux que l’avocat de M. Nuytten a énoncés :
+[traduction]
+Nuytco Research Ltd.
+10. À la fin de l’année 1996, l’appelante a commencé à effectuer des travaux de recherche et de développement par l’entremise de Nuytco Research Ltd. (« Nuytco »). L’appelant est l’unique actionnaire et administrateur, et un employé, de Nuytco.
+11. Les objectifs commerciaux primordiaux de Nuytco consistaient à mettre au point et à commercialiser un nouveau submersible, qui est devenu le « Deep Worker », et ensuite un scaphandre sous‑marin amélioré, qui est devenu l’« Exosuit ».
+12. Nuytco a commencé à se livrer sérieusement à des activités de recherche et de développement en 1997. Jusqu’en 1999, Nuytco a financé ses propres recherches.
+13. Nuytco a vendu son premier submersible Deep Worker en 1998. La même année, Nuytco a obtenu un contrat de cinq ans avec la National Geographic Society concernant l’affrètement de submersibles pour un projet comportant l’établissement de cartes sous‑marines et la réalisation de films dans 13 sanctuaires marins américains. Nuytco a également obtenu des contrats avec la NASA, avec des sociétés locales de services publics et avec d’autres clients.
+14. En 1999, l’appelant a conclu que le submersible Deep Worker connaîtrait le succès comme produit, et il a commencé à craindre de perdre le contrôle de la propriété intellectuelle y afférente si, pour une raison ou une autre, il perdait le contrôle de Nuytco.
+15. Sur les conseils de son comptable, l’appelant a mis en œuvre un mécanisme par l’entremise duquel les frais de recherche de Nuytco, entre le 1er janvier et le 30 avril 2000, lui étaient imputés à la fin de l’exercice de Nuytco, de sorte qu’il serait propriétaire de la propriété intellectuelle y afférente. Nuytco a produit une facture le 30 août 2000, exigeant de l’appelant un montant de 218 042 $ en tout pour les frais de recherche entre le mois de janvier et le mois d’avril 2000.
+16. L’appelant, qui avait entre les mains un contrat de cinq ans conclu avec la National Geographic Society, a conclu que Nuytco réussirait sur le plan financier et n’aurait pas besoin d’investisseurs tiers pour financer le Deep Worker. Par conséquent, après le 30 avril 2000, l’appelant a cessé d’assumer personnellement les frais de recherche.
+17. L’année 2000 a été la seule année pour laquelle l’appelant a assumé la responsabilité des frais de recherche de Nuytco. Nuytco paie depuis lors tous les frais de recherche.
+18. Pour ses années d’imposition 1999, 2000 et 2001, Nuytco a déclaré les montants suivants au titre des ventes brutes et du revenu net avant impôt :
+Fin de l’année d’imposition
+Ventes brutes
+Revenu net avant impôt
+30 avril 1999
+1 077 000 $
+166 730 $
+30 avril 2000
+2 700 683 $
+193 741 $[4]
+30 avril 2001
+1 728 811 $
+155 111 $
+Intentions de l’appelant en ce qui concerne ses recherches en l’an 2000
+19. L’appelant a personnellement financé la recherche en l’an 2000 afin de préserver le droit qu’il détenait personnellement sur toute propriété intellectuelle y afférente. La recherche se rapportait au submersible Deep Worker que Nuytco avait mis au point et qu’elle était en train d’améliorer ainsi qu’à d’autres petits produits tels un bras télémanipulateur, des lampes HMI et un téléphone sous‑marin. Certains produits de la recherche devaient également être applicables au futur projet de l’Exosuit.
+20. En général, l’appelant préfère ne pas obtenir de brevet, sauf pour des inventions tout à fait nouvelles; en effet, l’enregistrement d’un brevet annonce la découverte au monde entier et attire des concurrents. L’appelant a fait enregistrer cinq brevets seulement : deux pour le Newtsuit, un pour Remora, un pour la conception externe du Deep Worker, et un pour le système « Morpheus ». Le droit de propriété des brevets relatifs au Newtsuit et à Remora a été perdu lorsque Hardsuits a été acquise par American Oilfield Divers.
+21. L’appelant n’avait pas l’intention d’obtenir des brevets à l’égard desquels il aurait pu accorder des licences lui permettant de recevoir des redevances, mais il avait l’intention de créer des actifs de valeur sur le plan de la propriété intellectuelle, comme le savoir‑faire, les procédés, la conception, les dessins, les prototypes, les modèles et ainsi de suite.
+22. L’appelant n’avait pas l’intention d’exploiter lui‑même ces actifs en produisant et en commercialisant le submersible ou d’autres produits indépendamment de Nuytco. Tous ses produits de recherche étaient incorporés dans l’entreprise de Nuytco.
+23. En l’an 2000, l’activité de recherche de l’appelant n’a généré aucun revenu. Il n’y avait pas non plus d’arrangements permettant à l’appelant de recevoir des redevances ou d’autres indemnités de Nuytco pour l’utilisation que celle‑ci faisait de ces actifs à l’égard du submersible Deep Worker.
+Entente relative aux redevances et brevet
+24. En l’an 2000, l’appelant a commencé à mettre au point l’Exosuit. Il s’est rendu compte que l’Exosuit serait un projet plus coûteux que ce qu’il avait initialement prévu et il a commencé à craindre de perdre le contrôle de la technologie associée à l’Exosuit s’il devenait nécessaire de transférer le projet à une autre société et de réunir des fonds sur le marché.
+25. Le 1er mai 2001, l’appelant et Nuytco ont signé une entente relative aux redevances aux termes de laquelle Nuytco retenait les services de l’appelant pour effectuer des travaux de recherche et de développement concernant l’Exosuit. L’entente prévoyait que l’appelant conserverait un droit sur toute la propriété intellectuelle qu’il avait mise au point.
+26. Toutefois, l’entente relative aux redevances conférait à Nuytco un « droit et une licence perpétuels à l’échelle mondiale » en vue d’utiliser toute propriété intellectuelle mise au point par l’appelant et obligeait Nuytco à verser à l’appelant les redevances suivantes pour cette licence :
+a. De l’année 2003 à l’année 2010, le plus élevé des deux montants suivants : un montant représentant 1,5 p. 100 des recettes brutes tirées par Nuytco de la vente de produits utilisant la propriété intellectuelle de l’appelant ou de licences y afférentes, ou un montant annuel de 50 000 $;
+b. Après l’année 2010, un montant représentant 1,5 p. 100 des recettes brutes tirées par Nuytco de la vente de produits fabriqués à l’aide de la technologie mise au point par l’appelant ou de licences y afférentes, et ce, tant que Nuytco conclurait des ventes.
+27. L’appelant a expliqué que l’entente relative aux redevances de 2001 lui garantissait un flux de revenu tiré de son activité de recherche. Si Nuytco n’était pas en mesure de payer la redevance, le contrôle des actifs intellectuels revenait à l’appelant et celui‑ci pouvait en faire ce qu’il voulait.
+28. L’Exosuit n’est pas encore produit et il ne génère pas de ventes pour Nuytco. Depuis l’année 2004, l’appelant a reçu chaque année un montant de 50 000 $ de Nuytco aux termes de l’entente relative aux redevances.
+29. Le 13 août 2002, l’appelant a obtenu un brevet américain pour la conception extérieure du submersible Deep Worker. Ce brevet a été cédé à Nuytco. Le brevet relatif à la conception du Deep Worker n’était pas visé par l’entente relative aux redevances. Rien ne montre que le brevet relatif à la conception du Deep Worker ait généré un revenu pour l’appelant.
+Revenu et dépenses de l’appelant en l’an 2000
+30. Dans sa déclaration de revenus de l’année 2000, l’appelant a déclaré un revenu tiré de dividendes imposables, d’intérêts et d’autres placements, ainsi que des gains en capital imposables. L’appelant ne se rappelle pas que les dividendes déclarés aient été remis par Nuytco.
+31. Dans sa déclaration de revenus de l’année 2000, l’appelant a également déclaré un montant d’un dollar au titre du revenu brut d’entreprise et une perte nette d’entreprise de 34 700 $. Le montant de 34 700 $ se rapporte à des montants qui ne sont plus contestés dans le présent appel.
+32. Dans une demande de rajustement présentée par son comptable au mois de décembre 2001, l’appelant a demandé la déduction de dépenses d’entreprise additionnelles s’élevant à 218 042 $ résultant des coûts de recherche que Nuytco lui avait imputés.
+[5] La position prise par l’appelant est énoncée au paragraphe 2 de l’exposé qu’il a présenté à l’instruction :
+[traduction]
+2. Selon la position prise par l’appelant, ces activités de R. et D. constituaient une entreprise de l’appelant et les dépenses sont déductibles dans le calcul du revenu tiré de cette entreprise conformément au paragraphe 9(1) de la Loi de l’impôt sur le revenu (la « Loi »). En outre, l’alinéa 18(1)b) n’interdit pas la déduction des dépenses au titre du capital.
+[6] La position prise par l’avocat de l’intimée est énoncée dans l’aperçu figurant à la première page de ses observations écrites :
+[traduction]
+APERÇU
+L’activité de recherche de l’appelant n’était pas une entreprise ou une autre source de revenu à des fins fiscales au cours de l’année d’imposition 2000. La preuve ne permet pas de conclure que l’appelant a effectué la recherche pour son profit personnel. L’objectif prédominant visé par l’appelant lorsqu’il a financé la recherche personnellement n’était pas de réaliser personnellement un profit par suite de l’exploitation d’une entreprise distincte de celle de Nuytco, mais de conserver le contrôle personnel des actifs associés à la propriété intellectuelle que Nuytco devait utiliser pour produire son submersible Deep Worker. L’appelant n’a pas personnellement gagné de revenu par suite de la recherche effectuée au cours de l’année 2000, que ce soit en l’an 2000 ou par la suite.
+La preuve indique que la recherche que l’appelant a payée en l’an 2000 était en fait intégrée à l’entreprise de Nuytco. Tout ce que Nuytco produit est basé sur la recherche effectuée par l’appelant. De plus, Nuytco a initialement payé cette recherche entre l’année 1997 et l’année 1999, et elle a de nouveau payé pour bénéficier de cette recherche à compter de l’année 2001. Enfin, une fois que l’appelant a été convaincu que Nuytco serait rentable, il a mis fin à l’arrangement et Nuytco a recommencé à payer la recherche.
+Même si la recherche effectuée par l’appelant était une entreprise en l’an 2000, les dépenses y afférentes étaient des dépenses en capital qui ne peuvent pas être déduites au complet. Ces dépenses visaient à créer des actifs conférant à l’appelant des avantages durables en générant un revenu futur et par suite de leur utilisation dans des produits futurs. Étant donné que les brevets sont des « biens amortissables » pour l’application de la Loi de l’impôt sur le revenu, les dépenses qui ont donné lieu à la délivrance du brevet américain concernant la conception pour l’assemblage du Deep Worker constituaient le coût en capital d’un actif de la catégorie 44. Les dépenses qui n’ont pas entraîné la délivrance d’un brevet sont, au plus, admissibles à titre de dépenses en capital. Toutefois, seule une entreprise peut déduire des immobilisations admissibles; les contribuables qui gagnent un revenu tiré d’un bien n’y ont pas droit.
+La preuve ne révèle aucun brevet ni aucun autre bien amortissable possédé par l’appelant en l’an 2000. Par conséquent, l’appelant ne peut pas se prévaloir de la déduction pour amortissement pour cette année‑là, et les restrictions concernant les « biens locatifs » énoncées dans le Règlement ne s’appliquent pas.
+[Je souligne.]
+Analyse
+[7] J’aimerais faire certaines remarques générales au sujet des faits les plus pertinents et souligner certains faits troublants en ce qui concerne ce qui s’est passé au cours de la période pertinente dans le présent appel. Je ferai d’abord remarquer que M. Nuytten était un témoin fascinant. Il semble être un génie pour avoir inventé des conceptions pour des submersibles tels que le « Deep Worker » ou des scaphandres atmosphériques de plongée tels que l’« Exosuit ». Il a également décrit un nouveau submersible, qu’il a appelé « Morpheus », pour l’exploration de tunnels que des grosses villes comme New York utilisent pour alimenter leurs résidents en eau douce. Toutefois, en ce qui concerne l’administration de l’entreprise de sa société, il s’en remet à des experts dont il retient les services. Malheureusement, à l’audience, il n’était pas en mesure de décrire avec exactitude ce qui se passait à l’égard des dépenses de R. et D. Ainsi, il n’a pas pu dire d’une façon suffisamment précise à quel moment il avait lui‑même commencé à engager des dépenses à l’égard de la mise au point du Deep Worker et de l’Exosuit. Il a déclaré qu’il s’en remettait à son comptable.
+[8] Toutefois, lorsqu’il a témoigné, le comptable a déclaré que la seule année pour laquelle Nuytco avait imputé des dépenses de R. et D. à M. Nuytten était l’année 2000; plus exactement, les dépenses engagées du mois de janvier au mois d’avril 2000 ont été imputées à l’appelant[5]. Cette déclaration du comptable a passablement surpris la Cour et, comme je le suppose, l’avocat de M. Nuytten, étant donné que le ministre avait émis l’hypothèse selon laquelle M. Nuytten avait lui‑même exercé l’activité de R. et D. entre l’année 1996 et au moins l’an 2000. Cependant, c’était le propre témoin de M. Nuytten, à savoir son comptable personnel et le comptable de Nuytco, qui a contredit les faits à l’égard desquels le ministre avait émis des hypothèses.
+[9] De plus, lorsque M. Nuytten a produit sa déclaration de revenus de l’an 2000, le 29 avril 2001, il n’a pas déduit quelque montant que ce soit à l’égard des dépenses de R. et D. de 218 042 $; il a seulement déduit une perte d’entreprise de 34 700 $, résultant de la déduction de [traduction] « frais de gestion et d’administration »[6]. À l’alinéa 12g) de la réponse, il est déclaré que le ministre a supposé que ces frais avaient été payés à l’épouse et à la fille de M. Nuytten, qui aidaient celui‑ci dans ses activités de recherche et de développement et qui collaboraient à la création d’une société historique de plongée. Même s’il a admis ce fait, l’avocat de M. Nuytten a informé la Cour qu’il ne contestait plus le rejet de ces dépenses. Il semble donc que les seules dépenses que M. Nuytten avait initialement déduites n’aient pas été engagées en vue de permettre à celui‑ci de gagner un revenu tiré d’une entreprise.
+[10] Les dépenses de R. et D. de 218 042 $ ont uniquement été déduites par la suite, au moyen de la présentation d’une demande de rajustement, le 18 décembre 2001, soit environ huit mois après la production de la déclaration de revenus initiale. Dans cette demande de rajustement, M. Nuytten a ajouté un montant de 499 309 $ au titre d’un revenu d’emploi qui lui aurait censément été versé sous forme de gratification. Par conséquent, il est vraisemblable que, compte tenu de déductions de dépenses d’entreprise comme les 34 700 $ que M. Nuytten avait déduits par le passé, montant qui, comme M. Nuytten le reconnaît maintenant, n’était pas vraiment déductible, le ministre ait tenu pour acquis que M. Nuytten exerçait une activité de R. et D. depuis 1996.
+[11] Non seulement le comptable a-t-il confirmé que les dépenses de R. et D. avaient uniquement été facturées à M. Nuytten en l’an 2000, mais la facturation a eu lieu après qu’une écriture de journal de fin d’exercice eut été faite, soit le type d’écriture qui est généralement effectuée peu de temps après la fin d’un exercice (voir les pièces A‑8 et A‑9). La facture elle‑même est datée du 30 août 2000, mais il y est inscrit [traduction] « factur[é] au 30 avril 2000 » (pièce A‑3). La déclaration de revenus de Nuytco a été produite le 3 novembre 2000; elle semble avoir été produite en retard et avoir donné lieu à l’imposition d’une pénalité (voir la pièce A‑6).
+[12] Je ne doute pas que M. Nuytten, par suite de son expérience passée, lorsqu’il avait perdu le contrôle d’International Hardsuits après la prise de contrôle hostile par American Oilfield Divers, se préoccupait au plus haut point de conserver plus de contrôle effectif sur ses inventions. Je ne doute pas non plus qu’il voulait prendre des mesures afin de se protéger, au cas où il permettrait à d’autres investisseurs de devenir actionnaires de Nuytco. M. Nuytten a témoigné avoir consulté des avocats et des comptables au sujet des moyens à employer pour atteindre ces objectifs. Toutefois, je ne puis dire que les mesures qu’il a prises pour y arriver m’impressionnent. M. Nuytten n’a pas demandé d’opinion formelle au sujet de ce qu’il convenait de faire. De plus, il semble que la plupart des dépenses relatives à la mise au point du Deep Worker et de l’Exosuit aient été engagées par Nuytco plutôt que par M. Nuytten, qui a donc clairement omis d’établir qu’il était propriétaire de la technologie mise au point au nom de Nuytco[7]. De plus, M. Nuytten a reconnu que l’argent qui pouvait être généré par suite de l’utilisation de sa technologie serait gagné par l’entremise de Nuytco, mais il a également dit qu’il aurait lui‑même pu se départir de sa technologie en faveur d’une autre société[8].
+[13] En outre, comme on peut le constater, M. Nuytten a abandonné la stratégie qu’il avait adoptée en l’an 2000, qui consistait à engager lui‑même des dépenses de R. et D., et, le 1er mai 2001, il a conclu avec Nuytco une entente relative à des redevances aux termes de laquelle il s’engageait à exercer des activités de R. et D. pour Nuytco à titre d’entrepreneur indépendant. Il semble que les coûts associés aux activités de R. et D. devaient être supportés par Nuytco. Pour les services qu’il fournit à Nuytco, M. Nuytten a le droit de recevoir, au cours de la durée de l’entente, qui [traduction] « prend effet le 1er mai 2003 et se termine le 30 avril 2010 » le plus élevé des deux montants suivants : un montant annuel de 50 000 $ ou un montant représentant 1,5 p. 100 des recettes brutes tirées de la vente de produits mis au point par Nuytco grâce aux travaux ou à la propriété intellectuelle de M. Nuytten, ainsi que des licences y afférentes. Après l’expiration ou la résiliation de l’entente, M. Nuytten aura droit à 1,5 p. 100 des recettes brutes tirées de la vente de ces produits ou des licences y afférentes, et ce, aussi longtemps que ces ventes et licences généreront des recettes pour Nuytco.
+[14] Compte tenu de ces faits, il est difficile de conclure qu’au cours de l’année 2000, M. Nuytten exploitait une entreprise. En premier lieu, il n’existe aucune entente écrite prévoyant que Nuytco doit engager des dépenses de R. et D. pour le compte de M. Nuytten ou au profit de celui‑ci. La preuve qui a été produite à l’audience semble indiquer que les dépenses ont été imputées à M. Nuytten après coup, au cours de la période où le comptable préparait les états financiers de la société. La facture elle‑même est datée du 30 août 2000.
+[15] Dans l’ensemble, la conduite de M. Nuytten semble constituer une tentative maladroite pour conserver le contrôle de ses inventions en cas d’acquisition du contrôle de Nuytco par un autre investisseur; dans l’intervalle, Nuyto devait être l’entité qui exploiterait dans un but lucratif la technologie mise au point par M. Nuytten et par « son équipe de concepteurs »[9]. Cette conduite n’est pas compatible avec celle d’une personne qui exploite une entreprise dans un but lucratif. L’entreprise exploitée dans un but lucratif est celle de Nuytco et les dépenses en question appartiennent donc à Nuytco[10]. En l’espèce, il semble que Nuytco ne subira pas de préjudice, étant donné qu’en renonçant aux 218 042 $ facturés à M. Nuytten au titre des frais de R. et D., Nuytco a versé à M. Nuytten une grosse gratification de 499 309 $ et a utilisé la déduction de ce montant en vue de réduire son revenu en deçà du plafond des affaires de 200 000 $ pour l’application de l’article 125 de la Loi[11].
+[16] Étant donné que l’intimée a réussi, à mon avis, à établir que M. Nuytten n’exploitait pas une entreprise au cours de l’année 2000, le montant de 218 042 $ qui a été facturé à celui‑ci par Nuytco ne peut pas être déduit dans le calcul de son revenu pour l’année d’imposition 2000. Cela est suffisant pour justifier la cotisation par laquelle le ministre a refusé la déduction des 218 042 $[12].
+[17] Pour ces motifs, l’appel interjeté par M. Nuytten est rejeté avec dépens.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2007.
+« Pierre Archambault »
+Juge Archambault
+Traduction certifiée conforme
+ce 21e jour de décembre 2007
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2007CCI321
+No DU DOSSIER DE LA COUR : 2005-528(IT)G
+INTITULÉ : RENE NUYTTEN
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE : Le 26 février 2007
+MOTIFS DU JUGEMENT : L’honorable juge Pierre Archambault
+DATE DU JUGEMENT : Le 16 juillet 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Douglas H. Mathew
+Avocat de l’intimée :
+Me Michael Taylor
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Douglas H. Mathew
+Cabinet : Thorsteinssons LLP
+Vancouver (Colombie‑Britannique)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-5.
+[2] Selon la définition donnée à l’article 125 de la Loi.
+[3] Pièce A-1.
+[4] Le revenu net déclaré pour les années d’imposition 1999 et 2000 incluait une réduction des dépenses en ce qui concerne les frais de recherche recouvrés de l’appelant.
+[5] Il importe de noter que l’état des résultats et des bénéfices non répartis de Nuytco pour l’exercice qui a pris fin le 30 avril 2000 indique que, pour l’exercice qui a pris fin le 30 avril 1999, un montant de 17 000 $ a été recouvré au titre des dépenses. Toutefois, le comptable n’a pas témoigné au sujet de la nature de ce rajustement. De plus, aucun extrait du grand livre n’a été produit.
+[6] Voir l’état des résultats des activités d’une entreprise (formulaire T2124) (pièce A‑4).
+[7] Le matériel de publicité préparé par Nuytco dit ce qui suit : [traduction] « Nuytco conçoit, construit et exploite des systèmes de plongée atmosphérique, des submersibles, des véhicules téléguidés, des lampes HMI et du matériel spécialisé pour des applications sous‑marines. » De plus, on dit que Nuytco [traduction] « est propriétaire d’une flotte de submersibles, de VTG, de systèmes Sonar et d’outils spécialisés pour des applications commerciales et scientifiques dont elle assure l’exploitation » et qu’elle fournit « la formation à l’égard de la série « Deep Worker », ou [qu’elle peut] fournir un équipage complet avec pilote(s) et soutien, selon les besoins du client ». (Pièce A‑13).
+[8] Il importe de noter que le ministre a tenu pour acquis que les dépenses dont la déduction avait été refusée pour l’année 2000 (soit les dépenses qui sont encore en litige) se rapportaient à la mise au point par M. Nuytten d’actifs associés à la propriété intellectuelle qu’il voulait que d’autres personnes, par exemple Nuytco, exploitent dans un but lucratif (alinéa 12e) de la réponse), et que M. Nuytten ne voulait pas exploiter lui‑même ces actifs dans un but lucratif (alinéa 12j) de la réponse). Les faits à l’égard desquels le ministre a émis des hypothèses n’ont pas été « démolis » par M. Nuytten.
+[9] Comme le dit sa biographie (pièce A‑2).
+[10] La conduite de M. Nuytten montre les difficultés auxquelles font face de nombreux contribuables qui gèrent leur entreprise par l’entremise d’une société dont ils sont propriétaires à cent pour cent; ils considèrent la société comme leur alter ego; ils ne reconnaissent pas la distinction entre leur propre personne et la personnalité juridique de la société.
+[11] J’ai été surpris d’apprendre que Nuytco ne déduit pas ses frais de R. et D. conformément à l’article 37 de la Loi, étant donné qu’elle ne présente pas de formulaire comme l’exige cette disposition. Si ces dépenses sont de la nature du capital entre les mains de Nuytco, de sorte qu’elles ne sont pas déductibles conformément à l’alinéa 18(1)b) de la Loi, il semble qu’il faille remplir les conditions énoncées à l’article 37 pour que Nuytco puisse les déduire.
+[12] Si j’avais conclu que M. Nuytten exploitait une entreprise, j’aurais conclu que ces dépenses n’étaient pas pleinement déductibles dans le calcul de son revenu conformément à l’article 9 de la Loi. À mon avis, ces dépenses seraient assujetties à la restriction énoncée à l’alinéa 18(1)b) de la Loi parce qu’elles constituent des dépenses de la nature du capital. Le fait qu’aux fins comptables, le comptable, en appliquant les principes comptables généralement reconnus, a passé ces montants en charges n’est pas concluant aux fins fiscales. Les principes régissant l’imposition du revenu, comme ceux qui sont énoncés à l’alinéa 18(1)b) de la Loi, ne sont pas les mêmes que ceux que suivent les comptables en produisant leurs états financiers.

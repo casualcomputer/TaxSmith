@@ -1,0 +1,203 @@
+---
+title: "Landrek inc. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28593/index.do"
+last_modified: "2008-04-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 137"
+citation2: ""
+neutral_citation: "2008 CCI 137"
+decision_date: "2008-04-03"
+language: "fr"
+item_id: "28593"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1060
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T10:56:33.023000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "25574468be08a7146b4cb99406ec907183b4583dfea9db865f0d07990fac0d8e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Landrek inc. c. M.R.N.
+
+- Citation: 2008 CCI 137
+- Decision date: 2008-04-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1060, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landrek inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-04-03
+Référence neutre
+2008 CCI 137
+Numéro de dossier
+2007-3925(EI)
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2007-3925(EI)
+ENTRE :
+LANDREK INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 27 février 2008 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Sylvain Ouimet
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi est rejeté et la décision du ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 3e jour d’avril 2008.
+« Alain Tardif »
+Juge Tardif
+Référence : 2008CCI137
+Date : 20080403
+Dossier : 2007-3925(EI)
+ENTRE :
+LANDREK INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Il s’agit d’un appel d’une décision en vertu de laquelle le travail exécuté par Marc Landry, du 1er janvier 2003 au 31 décembre 2005 et du 1er janvier 2006 au 31 décembre 2006 pour le compte de l’appelante Landrek inc. constituait un contrat de louage de services assurables et cela bien qu’il s’agissait d’un travail en principe exclu en vertu de l’alinéa 5(2)i) de la Loi sur l’assurance‑emploi (la « Loi »).
+[2] En effet, le ministre du Revenu national (le « ministre ») a déterminé que l’appelante et le travailleur étaient réputés ne pas avoir de lien de dépendance dans le cadre de l’emploi étant donné qu’il était convaincu après l’analyse de tous les faits pertinents qu’il était raisonnable de conclure que l’appelante et le travailleur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas du de lien de dépendance.
+[3] Le ministre a pris sa décision en se fondant sur les hypothèses de fait suivantes :
+5. […]
+a) l’appelante a été constituée en société le 21 octobre 1991; (admis)
+b) l’appelante exploitait une entreprise de fabrication de cadres de bois et de distribution de portes en bois et de quincaillerie; (admis)
+c) l’appelante était en exploitation à l’année longue; (admis)
+d) l’entreprise était ouverte du lundi au vendredi de 8 h à 17 h; (admis)
+e) l’appelante avait un chiffre d’affaires au 31 octobre 2006 de 1 375 329 $; (admis)
+f) l’appelante employait 3 des actionnaires et 11 travailleurs de plus en période de pointe; (nié)
+g) le travailleur travaillait pour l’appelante depuis 1991; (nié)
+h) le travailleur travaillait comme représentant des ventes à la salle de montre et sur la route, il rencontrait les clients et il établissait les estimations; (admis)
+i) le travailleur embauchait également le personnel et il supervisait les employés de l’usine; (admis)
+j) le travailleur travaillait de 32 à 40 heures par semaine pour l’appelante; (nié)
+k) le travailleur n’avait pas d’horaire fixe mais il était appelé à rendre ses services généralement selon les heures d’ouverture de l’entreprise; (nié)
+l) le travailleur était rémunéré au salaire de 42 000 $ par année; (admis)
+m) durant la période en litige, le travailleur a reçu un boni, décidé par le conseil d’administration, de 12 000 $ en 2003, aucun boni en 2004, de 6 500 $ en 2005 et de 7 000 $ en 2006; (admis)
+n) le salaire était versé régulièrement au travailleur à chaque semaine par chèque; (admis)
+o) les frais de déplacements du travailleur étaient remboursés par l’appelante selon les dépenses réelles encourues; (admis)
+p) le travailleur, ainsi que l’ensemble des employés, bénéficiait d’une assurance salaire et d’une assurance groupe pour les médicaments. (admis)
+q) le travailleur bénéficiait de six semaines de vacances annuelles; (nié)
+r) les décisions importantes pour l’appelante étaient prises par les administrateurs; (nié)
+s) l’appelante avait un droit de contrôle sur le travailleur et ce contrôle était exercé; (nié)
+6. […]
+a) les actionnaires de l’appelante avec des actions votantes étaient : (admis)
+Claude Landry
+Denis Landry
+le travailleur
+Luc Landry
+26 % des actions
+26 % des actions
+26 % des actions
+22 % des actions
+b) Claude Landry, Denis Landry, Luc Landry et le travailleur sont des frères; (admis)
+c) le travailleur est lié par des liens du sang à un groupe de personnes qui contrôlent l’appelante. (admis)
+7. […]
+a) le salaire et les bonis du travailleur avaient été décidé par entente des administrateurs; (admis)
+b) la rémunération annuelle du travailleur, incluant les bonis, variait de 45 316 $ à 55 656 $ pour les années en litige de 2003 à 2006; (admis)
+c) le travailleur recevait la même rémunération annuelle et les mêmes bonis que les deux autres actionnaires travailleurs; (admis)
+d) l’appelante versait également des bonis à des employés non liés de 200 $ à 800 $; (admis)
+e) compte tenu de ses fonctions et de ses responsabilités chez l’appelante, la rémunération du travailleur était raisonnable; (nié)
+f) le travailleur était au service de l’appelante depuis plusieurs années; (admis)
+g) le travailleur œuvrait à l’année longue pour l’appelante; (admis)
+h) la durée du travail des travailleurs était raisonnable; (nié)
+i) les employés de l’appelante bénéficiaient de 2 semaines de vacances l’hiver et de 2 semaines de vacances l’été, un autre employé bénéficiait de 5 semaines, Claude Landry et Denis Landry bénéficiaient de 6 semaines de vacances; (nié)
+j) Claude Landry et Denis Landry sont considérés comme des employés par l’appelante; (admis)
+k) le travailleur et ses frères sont régis par une convention des actionnaires et les modalités d’emplois sont décidés par les administrateurs; (nié)
+l) l’appelante avait une vie corporative active avec des réunions des administrateurs à 2 ou 3 reprises par année; (admis)
+m) le travail du travailleur était nécessaire et important pour la bonne marche de l’entreprise de l’appelante; (admis)
+n) les modalités, la nature et l’importance du travail du travailleur étaient raisonnables. (nié)
+[4] Dans un premier temps, les faits mentionnés aux alinéas 5 a), b), c), d), e, h), i), l), m), n), o) et p, ainsi qu’aux alinéas 7 a), b), c), d), f), g), j), l) et m) ont été admis, les autres, à savoir 5, f), g), j, k), q), r), s) et 7 e), h), i), k) et n), ont été niés.
+[5] Monsieur Marc Landry a témoigné. Il a expliqué avoir travaillé comme vendeur itinérant dans le domaine de la vente des cadres de bois, des portes de bois et de la quincaillerie depuis le début des années 80.
+[6] À compter de l’année 1984, il travaillait pour la société Valco Métal inc., à titre de représentant des ventes; il s’agissait d’une société dont le chiffre d’affaires annuel était de l’ordre de 5 à 6 millions de dollars.
+[7] Pour son travail de vendeur, il touchait une commission de 5 %, ce qui représentait un salaire annuel d’environ 35 000 $, lequel montant incluait toutes les dépenses inhérentes à son travail. Il s’est décrit comme vendeur autonome.
+[8] À l’époque, un de ses frères était également à l’emploi de la même compagnie. Au début des années 1990, la compagnie en question a fait faillite et Marc Landry et ses deux frères ont décidé de créer la société appelante avec leurs parents, chacun détenant 20 % du capital-actions de la société.
+[9] L’entreprise qui fut créée œuvrait sensiblement dans le même domaine que la société Valco Métal inc.
+[10] La clientèle de la nouvelle entreprise était sensiblement la même que celle de la société Valco Métal inc., soit principalement des entrepreneurs en construction.
+[11] Marc Landry a expliqué que les achats effectués par les entrepreneurs en construction représentaient 90 % du chiffre d’affaires de l’entreprise et que les achats des personnes qui se présentaient à l’établissement situé dans le parc industriel représentaient 10 % du chiffre d’affaires.
+[12] Au décès de la mère de Marc Landry, ses actions, soit 20 % du capital‑actions, furent léguées au père de Marc Landry, lequel détenait alors 40 % du capital-actions.
+[13] Le père de Marc Landry a ensuite vendu la partie (20 %) dont il avait hérité de sa conjointe à Luc Landry, le frère de Marc. Luc Landry n’exerçait toutefois aucun travail rémunéré pour le compte de la société appelante.
+[14] Plus tard, le père a vendu le 20 % de son capital‑actions initial comme suit, soit 6 % à Claude, 6 % à Denis, 6 % à Marc et, finalement, 2% à Luc.
+[15] Marc Landry a ensuite expliqué que lui et ses frères Claude et Denis exerçaient sensiblement les mêmes tâches et qu’ils se sont partagé le territoire où ils menaient leurs activités, soit la vente de divers produits, dont principalement des portes en bois et des cadres en bois. Tous les trois se souciaient de la qualité du service offert aux entreprises avec lesquelles ils faisaient affaires.
+[16] Le chiffre d’affaires annuel était sensiblement le même à chaque année. Les deux frères de Marc Landry refusaient d’envisager toute possibilité d’agrandissement ou de développement de l’entreprise, et ce, pour un certain nombre de raisons, notamment parce que les lieux où exécuté le travail étaient restreints et ne permettaient pas à l’entreprise de prendre de l’expansion.
+[17] Marc Landry a expliqué que ses frères étaient manifestement satisfaits du statu quo et envisageaient une retraite à plus ou moins long terme.
+[18] Il a expliqué que, durant la haute saison, c’est-à-dire de mars à octobre, ils travaillaient environ 35 heures par semaine, alors que, durant la période de novembre à février, ils travaillaient environ entre 25 à 30 heures par semaine.
+[19] L’entreprise embauchait, durant la période la plus achalandée, environ sept personnes, alors que, durant la période creuse, seulement quatre employés suffisaient pour répondre à la demande; une secrétaire‑réceptionniste s’occupait du bureau et de la salle d’exposition. Marc Landry a expliqué que les ventes aux particuliers étaient le plus souvent réalisées par cette dame.
+[20] Au début, le travail effectué à l’usine était dirigé par un contremaître. Une fois que les employés se furent suffisamment familiarisés avec leur travail, le poste de contremaître fut laissé vacant, après le départ du dernier titulaire.
+[21] Monsieur Landry a expliqué qu’une convention d’actionnaires avait été signée; en vertu des conditions qui y étaient prévues, l’unanimité était requise pour le paiement d’un dividende; comme l’unanimité n’était pas possible, la société appelante n’a jamais versé de dividendes.
+[22] Par contre, les bonus pouvaient être accordés sur approbation d’une majorité des votes; des bonus furent donc accordés tant aux actionnaires qu’aux employés. Le montant attribué aux actionnaires étant cependant beaucoup plus généreux que celui accordé aux employés.
+[23] Marc Landry a affirmé que les dépenses effectuées dans le cadre de son travail lui étaient remboursées par la société appelante. Quant aux frais de déplacement, il utilisait sa voiture personnelle, mais l’appelante lui remboursait les dépenses selon le même tarif payé par le gouvernement à ses employés.
+[24] Quant au salaire payé aux employés de l’usine, il variait entre 11 $ et 12,25 $ l’heure et leurs conditions de travail n’étaient absolument pas comparables à celles de Marc, Claude et Denis Landry, les trois actionnaires détenant chacun 26 % des actions.
+[25] Marc Landry a finalement indiqué qu’il n’était pas d’accord avec le fait de payer des cotisations d’assurance‑emploi puisqu’il ne recevrait jamais de prestations d’assurance‑emploi.
+[26] Il a aussi mentionné le fait qu’à l’époque où il travaillait pour la compagnie Valco Métal inc., il s’agissait d’un travail de vendeur autonome pour lequel il n’avait pas eu à payer de cotisations d’assurance-emploi.
+[27] Monsieur Landry a témoigné d’une manière claire, simple et très directe, si bien que le portrait global de la situation et les circonstances pertinentes ont très rapidement été établis, et ce, d’une manière qui ne prêtait à aucune confusion ou interprétation.
+[28] D’ailleurs, la preuve n’a fait ressortir aucun élément nouveau.
+[29] L’appelante a nié l’alinéa 5 f), puisqu’elle n’a jamais eu 11 travailleurs mais plutôt 7 ou 8; quant à l’alinéa j), le travailleur travaillait 35 heures par semaine et non 32 à 40; quant à l’alinéa k), la preuve a permis de constater qu’il était conforme avec faits. Le contenu des alinéas k) et r) a été validé par le témoignage de monsieur Landry; quant à l’alinéa 5 s), il s’agit là d’une question de droit. À cet égard, le témoignage de monsieur Landry a été très révélateur : ses frères exerçaient un véritable contrôle et s’assuraient que les choses fonctionnent rondement et selon leurs attentes.
+[30] Finalement, l’appelante a nié les alinéas 7 e), h), i), k) et n), essentiellement pour des motifs d’interprétation. Il est vrai que les fondements de la notion de ce qui est raisonnable peuvent varier d’une personne à une autre.
+[31] L’approche de l’avocat de l’appelante, s’appuyant sur une comparaison entre les conditions de travail des personnes œuvrant à l’intérieur de la compagnie, justifie une conclusion à l’effet qu’il s’agissait là d’une situation tout à fait déraisonnable.
+[32] Par contre, il en est tout autrement si l’appréciation de ce qui est raisonnable se fait à partir d’une situation comparable où il n’existe aucun lien de dépendance ou lien de parenté entre les actionnaires. La comparaison avec le salaire versé aux employés n’est ni appropriée, ni pertinente.
+[33] En l’espèce, l’enquête a permis de recueillir la totalité des faits pertinents et l’analyse qui a suivi a été faite d’une façon tout à fait correcte. Par conséquent, les conclusions retenues sont tout à fait raisonnables.
+[34] Bien plus, Marc Landry a fait plusieurs affirmations discréditant la thèse de la société appelante.
+[35] Il a admis être un employé. Il a admis qu’il aurait pu devoir payer une rémunération similaire à un tiers qui aurait effectué les mêmes tâches qu’il exécutait.
+[36] Il a d’ailleurs, à cet égard, expliqué que l’appel constituait une démarche personnelle puisqu’il n’était pas d’accord avec le fait de devoir payer des cotisations d’assurance‑emploi, sachant qu’il ne toucherait jamais de prestations.
+[37] Il a ajouté qu’il n’avait pas payé de telles cotisations lorsqu’il avait été employé à titre de vendeur autonome pour une autre compagnie qui œuvrait dans le même domaine.
+[38] Il faut comprendre que les cotisations d’assurance-emploi ne sont pas payables sur une base volontaire. Elles doivent être payées si le travail a été effectué selon les paramètres de la Loi.
+[39] Le fardeau de la preuve incombait à l’appelante. Or, elle n’a fait ressortir aucun manquement du ministre au niveau de l’analyse. Elle a plutôt confirmé le bien-fondé du résultat de l’analyse.
+[40] À cet égard, la clarté, la simplicité et la spontanéité des réponses fournies par monsieur Landry ont d’ailleurs beaucoup simplifié le travail de la Cour lorsqu’elle a eu à décider si le travail effectué par le ministre et les conclusions qu’il a tirées étaient raisonnables; en effet, les admissions et les affirmations non équivoques de monsieur Landry confirment le bien‑fondé de la décision à l’origine de l’appel.
+[41] Pour ces raisons, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 3e jour d’avril 2008.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2008CCI137
+Nº DU DOSSIER DE LA COUR : 2007-3925(EI)
+INTITULÉ DE LA CAUSE : LANDREK INC., ET M.R.N.
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : Le 27 février 2008
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT : Le 3 avril 2008
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jérôme Carrier
+Avocat de l'intimé :
+Me Sylvain Ouimet
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l'appelante :
+Nom : Me Jérôme Carrier
+Cabinet : Lévis (Québec)
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

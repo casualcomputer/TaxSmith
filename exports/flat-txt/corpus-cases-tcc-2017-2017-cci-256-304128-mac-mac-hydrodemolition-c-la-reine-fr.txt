@@ -1,0 +1,113 @@
+Title: Mac & Mac Hydrodemolition c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/304128/index.do
+Corpus path: corpus/cases/tcc/2017/2017-cci-256-304128-mac-mac-hydrodemolition-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2017-12-22
+
+# Mac & Mac Hydrodemolition c. La Reine
+
+- Citation: 2017 CCI 256
+- Decision date: 2017-12-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7940, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mac & Mac Hydrodemolition c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-12-22
+Référence neutre
+2017 CCI 256
+Numéro de dossier
+2017-1942(IT)I
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-1942(IT)I
+ENTRE :
+MAC & MAC HYDRODEMOLITION SERVICES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+Appel entendu le 27 octobre 2017, à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge David E. Graham
+Comparutions :
+Représentant de l’appelante :
+Anthony Asseiro
+Avocate de l’intimée :
+Me Shannon Fenrich
+JUGEMENT
+Les appels de l’appelante interjetés à l’encontre des nouvelles cotisations établies pour ses années d’imposition se terminant le 31 juillet 2012 et le 31 juillet 2013 sont rejetés.
+Signé à Ottawa, Canada, ce 22e jour de décembre 2017.
+« David E. Graham »
+Le juge Graham
+Référence : 2017 CCI 256
+Date : 20171222
+Dossier : 2017-1942(IT)I
+ENTRE :
+MAC & MAC HYDRODEMOLITION SERVICES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+MOTIFS DU JUGEMENT
+Le juge Graham
+[1] Mac & Mac Hydrodemolition Services Inc. a demandé diverses dépenses de recherche scientifique et de développement expérimental et les crédits d’impôt à l’investissement connexes dans ses années d’imposition prenant fin le 31 juillet 2012 et le 31 juillet 2013. Le ministre du Revenu national a refusé les déductions et les crédits. Mac & Mac a interjeté appel de cette décision.
+[2] La seule question à trancher dans le présent appel est celle de savoir si les dépenses sont admissibles au titre de dépenses de recherche scientifique et de développement expérimental.
+[3] Les dépenses visaient deux projets différents. Les deux projets concernaient d’importants tuyaux en métal utilisés pour transporter du bitume. L’intérieur des tuyaux était recouvert d’un quart de pouce de caoutchouc et ce caoutchouc était à son tour recouvert d’un revêtement de polyuréthane d’un pouce. Avec le temps, le bitume qui se déplace dans les tuyaux a usé le revêtement, ce qui signifie que les tuyaux devront être remplacés. Un client éventuel a abordé Mac & Mac pour vérifier si cette dernière pouvait développer une méthode de récupération de tout le revêtement sans endommager le tuyau. Le premier projet consistait à développer une méthode de récupération de tout le revêtement. Après que Mac & Mac a atteint cet objectif, le deuxième projet a consisté à développer une méthode de récupération du revêtement de polyuréthane uniquement, tout en laissant intact le revêtement de caoutchouc.
+[4] Mac & Mac a tenté de nombreuses techniques différentes pour retirer les revêtements. Comme le nom de l’entreprise de Mac & Mac l’indique, sa spécialité est l’hydrodémolition. Ainsi, l’ensemble des techniques utilisées par Mac & Mac concernait les jets d’eau à haute pression. Elle a tenté l’abattage hydraulique, le découpage et le fraisage. L’abattage hydraulique nécessite l’utilisation d’un jet d’eau pour percer le matériau que l’on tente de retirer de façon à ce que des morceaux importants des matériaux soient retirés lorsque l’eau rebondit de la surface dure derrière les matériaux. Le découpage nécessite l’utilisation d’un jet d’eau pour retirer de très petits morceaux de matériau à la fois. Le fraisage consiste à enlever une couche de matériaux à la fois jusqu’à ce qu’ils soient complètement disparus, après plusieurs passages sur les matériaux.
+[5] Mac & Mac a commencé le premier projet en tentant l’abattage hydraulique. L’approche initiale consistait à utiliser deux buses jointes à un dispositif qui était traîné dans le tuyau. Les changements tentés par Mac & Mac comprenaient l’utilisation d’angles de pulvérisation différents, l’utilisation de pressions d’eau différentes, l’accroissement du nombre de buses, la modification de la taille des buses, la modification de la distance entre les buses et les revêtements, la tentative de rotation des bras sur lesquels étaient montées les buses, le changement de la longueur des bras, le déplacement autonome des buses, la modification de la vitesse de rotation des bras, la modification de la vitesse de déplacement des buses, la modification de la vitesse à laquelle les buses se déplacent dans le tuyau et la modification des façons dont le dispositif devait se déplacer dans le tuyau. Mac & Mac n’a changé qu’une seule de ces variables à la fois.
+[6] L’abattage hydraulique et le découpage n’ont pas fonctionné pour le deuxième projet, de sorte que Mac & Mac a dû développer une méthode de fraisage. Cela a nécessité un processus différent de celui utilisé pour le premier projet. Les changements tentés par Mac & Mac comprenaient l’utilisation de pressions d’eau différentes en même temps, la rotation du tuyau lui-même (dans la même direction que les bras et dans la direction opposée), la modification de la vitesse de rotation du tuyau, la modification du nombre de passages que le dispositif faisait dans le tuyau, la modification de la vitesse de ces passages, le placement du dispositif sur une longue poutre plutôt que sur des roues, le changement des buses entre les passages et le changement de la pression d’eau entre les passages. Le déplacement de dispositif suspendu sur une poutre a obligé Mac & Mac à trouver une poutre de construction qui était suffisamment solide pour supporter l’effet de rebond de l’eau tout en étant suffisamment légère pour éviter le fléchissement. Là encore, Mac & Mac n’a changé qu’une seule de ces variables à la fois.
+[7] La décision Northwest Hydraulic Consultants Limited c. Sa Majesté la Reine [1] établit cinq critères qui doivent être respectés pour que la demande de recherche scientifique et de développement expérimental d’un contribuable soit acceptée. Je n’ai pas à examiner la question de savoir si les demandes de Mac & Mac respectent tous les critères puisqu’il est évident qu’elles ne respectent pas le dernier critère. Ce critère oblige Mac & Mac à conserver des comptes rendus détaillés des hypothèses, des essais et des résultats au fur et à mesure de l’avancement des travaux.
+[8] Mac & Mac a conservé un ensemble de notes manuscrites. Les notes étaient compilées toutes les semaines. Les notes décrivent les divers paramètres qui ont fait l’objet d’essais en des termes vagues uniquement. Elles ne contiennent aucune hypothèse. Rien ne permet de dire ce que Mac & Mac espérait obtenir des changements. De plus, les notes contenaient très peu de détails sur les changements apportés. Par exemple, les notes indiquent que Mac & Mac a tenté des tailles et des angles de buses différents, mais elles ne précisent pas quels étaient ces tailles ou ces angles. Enfin, les notes comptaient très peu de renseignements sur les résultats des essais. Étant donné le grand nombre de paramètres décrits ci-dessus, je me serais attendu à ce que les notes soient beaucoup plus détaillées. Il est tout simplement impossible qu’une personne, même très expérimentée dans l’industrie, puisse espérer reprendre ou confirmer les résultats de Mac & Mac à partir de ces notes.
+[9] Une feuille de calcul a également été déposée en preuve. Elle fournissait plus de détails que les notes. Toutefois, elle a été préparée après le fait dans le but d’appuyer la demande de recherche scientifique et de développement expérimental et ne contenait pas le niveau de détail auquel je me serais attendu. Je n’accorde aucun poids à la feuille de calcul.
+[10] Comme l’a fait remarquer le juge Bocock dans Highweb & Page Group Inc. c. La Reine : [2]
+[.. ] Bien que la preuve du résultat soit importante, pour les progrès technologiques, il est essentiel que le respect rigoureux de la méthode scientifique et technologique soit démontré de façon détaillée et simultanée pendant la réalisation des expérimentations. Puisqu’une réponse négative à l’hypothèse est un résultat plus fréquent et souvent tout aussi utile pour l’amélioration des connaissances technologiques, une consignation étape par étape, une analyse et une évaluation des données sont des exigences obligatoires, non un addenda facultatif. C’est une feuille de route. Si quelqu’un perd la marche à suivre et les données concernant les échecs, la reconstitution à l’aide de ces dossiers précis favorise un processus déductif permettant de choisir une orientation, une vitesse ou une méthode différente pour créer, situer, adapter et organiser [traduction] « la pièce manquante du casse-tête ». [.. .]
+[11] Compte tenu de ce qui précède, le cinquième critère de Northwest Hydraulic n’est pas respecté et l’appel de Mac & Mac ne peut être accueilli. L’appel est donc rejeté.
+Signé à Ottawa, Canada, ce 22e jour de décembre 2017.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+Ce 12e jour d’août 2019
+Lionbridge
+RÉFÉRENCE :
+2017 CCI 256
+NO DU DOSSIER DE LA COUR :
+2017-1942(IT)I
+INTITULÉ :
+MAC & MAC HYDRODEMOLITION SERVICES INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 27 octobre 2017
+MOTIFS DU JUGEMENT
+L’honorable juge David E. Graham
+DATE DU JUGEMENT :
+Le 22 décembre 2017
+COMPARUTIONS :
+Représentant de l’appelante :
+Anthony Asseiro
+Avocate de l’intimée :
+Me Shannon Fenrich
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Avocate de l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] 1998 CarswellNat 696 (CCI).
+[2] 2015 CCI 137, au paragraphe 22.

@@ -1,0 +1,228 @@
+---
+title: "Arseneault v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26266/index.do"
+last_modified: "2003-04-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 207"
+citation2: ""
+neutral_citation: "2003 TCC 207"
+decision_date: "2003-04-14"
+language: "en"
+item_id: "26266"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3997
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:16:42.830000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "47d107abf0c41fae83a91043ff3bcd9814ed0d35c4fb3989c6a6652b1ff45463"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Arseneault v. M.N.R.
+
+- Citation: 2003 TCC 207
+- Decision date: 2003-04-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3997, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Arseneault v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-14
+Neutral citation
+2003 TCC 207
+File numbers
+2000-21(EI), 2000-22(EI), 2000-25(EI), 2000-26(EI)
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Employment Insurance Act
+Decision Content
+Dockets: 2000-21(EI)
+2000-22(EI)
+2000-25(EI)
+2000-26(EI)
+BETWEEN:
+LIONEL ARSENEAULT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 21, 2002 on common evidence with the appeals by the
+Estate of Mr. Léon Arsenault (2000-30(EI), 2000-31(EI) and 2000-35(EI))
+at Sept-Îles, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+Counsel for the Appellant:
+Gilbert Nadon
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeals are dismissed and the Minister’s decisions are confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of April 2003.
+“François Angers”
+J.T.C.C.
+Translation certified true
+on this 21st day of January 2004.
+Carol Edgar, Translator
+Dockets: 2000-30(EI)
+2000-31(EI)
+2000-35(EI)
+BETWEEN:
+ESTATE OF MR. LÉON ARSENEAULT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 21, 2002 on common evidence with the appeals by
+Lionel Arsenault (2000-21(EI), 2000-22(EI), 2000-25(EI) and 2000-26(EI))
+à Sept-Îles, Quebec
+Before: The Honourable Judge François Angers
+Appearances:
+Counsel for the Appellant:
+Gilbert Nadon
+Counsel for the Respondent:
+Claude Lamoureux
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+JUDGMENT
+The appeals are dismissed and the Minister’s decisions are confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of April 2003.
+“François Angers”
+J.T.C.C.
+Citation: 2003TCC207
+Date: 20030414
+Dockets: 2000-21(EI)
+2000-22(EI)
+2000-25(EI)
+2000-26(EI)
+BETWEEN:
+LIONEL ARSENEAULT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+and dockets: 2000-30(EI)
+2000-31(EI)
+2000-35(EI)
+BETWEEN:
+ESTATE OF MR. LÉON ARSENEAULT,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.T.C.C.
+[1] Before the Court are seven appeals, heard on common evidence at Sept‑Îles, Quebec, on October 21, 2002. The appellants have appealed to this Court from decisions by the Minister of National Revenue ("the Minister") that their employment during certain periods was not insurable on the ground that during those periods they were employed, not by "Nico Pêche Internationale Inc." (hereinafter "the buyer Nico") or by "Poséidon, Poissons and Crustacés Inc." (hereinafter "the buyer Poséidon"), but by "2430-8256 Québec Inc." (hereinafter "the payor") with the result that the appellants could not take advantage of the provisions set out in the regulations applicable to fishermen made under the Unemployment Insurance Act and now the Employment Insurance Act ("the Act") during the years at issue.
+[2] In all these appeals, the Minister's decision is dated October 1, 1999. In docket 2000-21(EI), the periods at issue are from April 26 to October 25, 1992, from May 27 to October 2, 1993, from May 19 to September 25, 1994 and from June 3 to September 5, 1995. This docket involves the buyer Nico.
+[3] In docket 2000-22(EI), the period is from May 13 to November 1, 1997; this docket involves the buyer Poséidon. In docket 2000-25(EI), the periods are from June 26 to October 7, 1994 and from June 3 to November 3, 1995; this docket involves the buyer Poséidon. Docket 2000-22(EI) covers the periods from September 23 to October 2, 1993 and from August 30 to November 2, 1996 and involves the buyer Poséidon.
+[4] Docket 2000-35(EI), in which the appellant is the Estate of Mr. Léon Arseneault, covers the periods from May 3 to November 14, 1992, from May 27 to October 2, 1993, from May 19 to September 25, 1994 and from June 3 to September 5, 1995 and involves the buyer Nico. Docket 2000-31(EI) covers the period from May 13 to November 1, 1997 and involves the buyer Poséidon. The last docket, 2000-30(EI), covers the periods from September 26 to October 20, 1993, from October 15 to October 29, 1994, from September 16 to November 3, 1995 and from April 30 to November 2, 1996 and involves the buyer Poséidon.
+[5] At the hearing, all except the last of the assumptions of fact on which the Minister relied in reaching his decision were admitted. In the four appeals by Lionel Arseneault, with the exception of the identity of the buyer of the catches the facts are identical and read as follows:
+(a) The payor, incorporated on March 9, 1987, owns a fishing vessel, the "Wilson", used to fish scallops in the Natashquan, Îles d'Anticosti and Betchouan sectors. (admitted)
+(b) Since December 18, 1991, the appellant and his brother, Léon Arseneault, have been the sole shareholders in the payor; the appellant held 49 per cent of the shares and Léon held 51 per cent of the shares. (admitted)
+(c) On August 31, 1992, Léon sold 2 per cent of his shares to the appellant; since that date, the appellant has held 51 per cent of the shares in the payor and Léon has held 49 per cent of the shares in the payor. (admitted)
+(d) As at December 31, 1992, the payor's financial statements indicated that it owned a vessel valued at $110,028 and fishing gear valued at $65,033. (admitted)
+(e) During the periods at issue, the appellant worked aboard the payor's vessel as captain. (admitted)
+(f) Depending on the year, the fishing season runs from May to late October or early November. (admitted)
+(g) During the periods at issue, the appellant fished with, as regular crew members: Léon Arseneault, André Arseneault, Robert Arseneault, Yves Arseneault, Wilson Arseneault and occasionally Francine Nadeau. (admitted)
+(h) André, Robert and Yves Arseneault are the brothers of the appellant and of Léon Arseneault. Wilson is the son of Léon Arseneault and Francine Nadeau is the spouse of the appellant. (admitted)
+(i) In 1992, the payor sold its catches exclusively to the buyer. (admitted)
+(j) In 1993, 1994, 1995 and 1996, the payor sold its catches to the buyer and to "Poséidon, Poissons et Crustacés Inc." (admitted)
+(k) The appellant holds a fishing licence issued by Fisheries and Oceans for one or more given sectors; this type of licence may not be issued to a corporation. (admitted)
+(l) During the periods at issue, the payor paid all the costs related to the appellant's licence, paid all the operating expenses of the vessel, and received the proceeds of the sale of the fish. (admitted)
+(m) The appellant paid no expenditures related to the vessel. (admitted)
+(n) In 1992, the appellant was paid on the basis of the gross catches. (admitted)
+(o) From 1993 to 1996, the appellant received from the buyer weekly earnings and, in return, T4 or T4F slips. (admitted)
+(p) The Records of Employment issued by the buyer in the appellant's name are all false concerning the number of weeks worked. (denied)
+[6] In the appeals by the Estate of Mr. Léon Arseneault as well, with the exception of the identity of the buyer of the catches the facts are identical to those in the appeals by Lionel Arseneault. The facts assumed by the Minister and admitted by the appellants show that the appellants received weekly wages during all the years at issue, except in 1992 when the wages were based on a percentage of the catches.
+(a) The payor, incorporated on March 9, 1987, owns a fishing vessel, the "Wilson", used to fish scallops in the Natashquan, Îles d'Anticosti and Betchouan sectors. (admitted)
+(b) Starting on December 18, 1991, the worker and his brother, Lionel Arseneault, were the sole shareholders in the payor; Lionel Arseneault held 49 per cent of the shares and the worker held 51 per cent of the shares. (admitted)
+(c) On August 31, 1992, the worker sold 2 per cent of his shares to his brother Lionel; starting on that date, Lionel held 51 per cent of the shares in the payor and the worker held 49 per cent of the shares in the payor. (admitted)
+(d) As at December 31, 1992, the payor's financial statements indicated that it owned a vessel valued at $110,028 and fishing gear valued at $65,033. (admitted)
+(e) During the periods at issue, the worker worked aboard the payor's vessel. (admitted)
+(f) Depending on the year, the fishing season runs from May to late October or early November. (admitted)
+(g) During the periods at issue, the worker fished with, as regular crew members: Lionel Arseneault, André Arseneault, Robert Arseneault, Yves Arseneault, Wilson Arseneault and occasionally Francine Nadeau. (admitted)
+(h) André, Robert and Yves Arseneault are the brothers of the worker and of Lionel Arseneault. Wilson is the son of the worker and Francine Nadeau is the spouse of Lionel Arseneault. (admitted)
+(i) In 1993, 1994, 1995 and 1996, the payor sold its catches to the buyer and to "Nico Pêche Internationale Inc." (admitted)
+(j) The worker held a fishing licence issued by Fisheries and Oceans for one or more given sectors; this type of licence may not be issued to a corporation. (admitted)
+(k) During the periods at issue, the payor paid all the costs related to the worker's licence, paid all the operating expenses of the vessel, and received the proceeds of the sale of the fish. (admitted)
+(l) The worker paid no expenditures related to the vessel. (admitted)
+(m) From 1993 to 1995, the worker received from the buyer weekly earnings and, in return, T4 or T4F slips. (admitted)
+(n) The Records of Employment issued by the buyer in the worker's name are all false concerning the number of weeks worked. (denied)
+[7] At issue in these appeals is whether the appellants' employment during the periods at issue is insurable under the Act (the Employment Insurance Act and the Unemployment Insurance Act) and specifically the regulations applicable to fishermen made under the old Act and the Employment Insurance (Fishing) Regulations made under the new Act. In other words, are the appellants fishers under the two statutes and their respective regulations?
+[8] The appellants called as a witness Omer Rail, who has been president, chief executive officer and owner of the buyer Poséidon for 14 years. Mr. Rail stated that his corporation purchased the catches of approximately 40 fishers. He noted that, four or five years after starting up his business, he had certain difficulties concerning unemployment insurance and the insurability of the fishers' employment. This witness explained that, after receiving instructions from a Revenue Canada employee, his corporation always paid the employer's contribution to the Employment Insurance/Unemployment Insurance premiums, but only for the captains who owned their vessels, since his corporation was deemed to be their employer. Where the fishers' helpers were concerned, the fishing corporation was responsible for paying the employer's contribution. Mr. Rail adduced in evidence a copy of a pay slip confirming his statements, and stated that he had followed this procedure concerning the two appellants. He concluded by stating that he did not invoice administrative costs to the fishing corporations, and that all the plants and businesses like his own followed a similar procedure. In the case of his corporation, the appellants received fixed weekly wages.
+[9] Denis Hamel, an appeals officer at Revenue Canada, explained that it is normal for the corporations that buy fish to pay the employer's contribution because they are deemed to be the employer under the regulations made pursuant to the Act. In practice, some buyers invoice this expense to the captains, some include it in their administrative costs, and some also invoice it as a payroll expense that they pay to the fishing corporation.
+[10] Louise Dessureault, the insurability officer, explained that in this case the catches from the "Wilson" belonged to its owner, that is, the corporation 2430‑8256 Québec Inc. The wages of the two appellants are taken from the proceeds of the catch. If the corporation 2430-8256 Québec Inc. did not exist, the two appellants would be deemed to be self-employed workers and, under the regulations, the buyer would be deemed to be their employer.
+[11] We must therefore ask ourselves if the fact that the appellants set up a corporation jeopardizes the fishers' rights to income security provided by the Unemployment Insurance/Employment Insurance program. Does the existence of a corporation stand in the way of the application of the regulations applicable to fishers made under the Act?
+[12] We must recall that the regulations governing benefits for fishers are quite specific since they allow independent and self-employed fishers to be insured as if their buyers were their employers. These regulations are therefore an exception to the general rule since they make it possible to insure self-employed or independent workers, that is, workers who are not bound by a contract of service.
+[13] The regulations made under the Unemployment Insurance Act define "fisherman" as follows:
+74.(1) "fisherman" means a self-employed person engaged in fishing and includes a person engaged, other than under a contract of service or for his own or some other person's sport,
+(a) in making a catch,
+(b) in any work incidental to making or handling a catch, whether such work consists of loading, unloading, transporting or curing the catch made by the crew of which he is a member or of preparing, repairing, dismantling or laying-up the fishing vessel or fishing gear used in making or handling the catch by that crew if the person engaged in any such incidental work is also engaged in making the actual catch, or
+(c) in the construction of a fishing vessel for use by himself or by a crew of which he is a member in making a catch;
+[14] As well, sections 75 and 76 provide as follows:
+75. Any person who is a fisherman shall be included as an insured person and, subject to this Part, the Act and any regulations made under the Act apply to that person with such modifications as the circumstances require.
+76.(1) For all purposes of the Act and any regulation made thereunder, the employer of a fisherman shall be the person determined as such in accordance with this section.
+(2) Where a catch is delivered in Canada to a buyer or to a buyer’s agent by a member of the crew that made the catch and, in a declaration made pursuant to section 82, the members of that crew are declared to share in the returns from the sale of the catch, the buyer shall be regarded as the employer of all fishermen who are members of that crew and who share in such returns.
+[. . .]
+[15] Section 78 of these regulations has to do with how a fisherman's earnings are determined. I reproduce here only subsections (1) and (2):
+78.(1) The determination of the earnings of a fisherman shall be made only as provided in this section.
+(2) The earnings of a fisherman shall, subject to subsection (4), be the amount paid or payable to him in respect of a catch, after deducting the value of any portion of the catch not caught by the crew of which he is a member, and in accordance with the share arrangement as declared pursuant to section 82.
+[...]
+[16] The regulations made under the Employment Insurance Act define the term "fisher" as follows:
+"fisher" means a self-employed person engaged in fishing and includes a person engaged, other than under a contract of service or for their own or another person's sport,
+(a) in making a catch;
+(b) in any work incidental to making or handling a catch, whether the work consists of loading, unloading, transporting or curing the catch made by the crew of which the person is a member, or of preparing, repairing, dismantling or laying-up the fishing vessel or fishing gear used by that crew in making or handling the catch, where the person engaged in any such incidental work is also engaged in making the catch; or
+(c) in the construction of a fishing vessel for their own use or for the use of a crew of which the person is a member in making a catch.
+[17] The determination of the employer is the subject of section 3. I reproduce here subsections (1) and (2):
+3.(1) For the purposes of the Act and any regulations made under the Act, the employer of a fisher shall be any person included as such by this section.
+(2) Where a catch is delivered in Canada to a buyer or to a buyer's agent by a member of the crew that made the catch, the buyer shall be considered to be the employer of all fishers who are members of that crew and who share in the proceeds from the sale of the catch.
+[...]
+[18] Earnings are determined in accordance with section 5; I reproduce here subsections 5(1) and 5(2):
+5.(1) The earnings of a fisher shall be determined as provided by this section.
+(2) The earnings of a fisher are the amount paid or payable to the fisher in respect of a catch, in accordance with the share arrangement, after deducting the value of any portion of the catch not caught by the crew of which the fisher is a member.
+[...]
+[19] The characteristics that allow a fisher to qualify for Unemployment Insurance/Employment Insurance are first and foremost to be a self-employed worker who is engaged in fishing in accordance with the definition set out in the regulations, with the exception of a person bound by a contract of service.
+[20] The facts admitted by the appellants indicate that 2430-8256 Québec Inc. has been incorporated since 1987 and that the appellants are the two sole shareholders. The corporation owns the vessel and the fishing gear, and the two appellants worked aboard the vessel with a crew. The corporation concerned owned the catches and sold them to the buyers. It also paid all the costs related to the appellants' licence and the operating expenses of the vessel. The appellants paid no expenditure related to the vessel. They received fixed wages, except in 1992 when they received a percentage of the income from the gross catches. This information was sent to the buyers, which paid the appellants accordingly. After all the expenses are calculated, the net amount from the catch is paid to the corporation. When there is no corporation, the catches belong to the captain, who pays the costs and the operating expenses and to whom the net amount from the catch belongs.
+[21] Counsel for the respondent has argued that the appellants may not be considered self-employed workers since they do not met the requirements established by the case law for being self-employed workers. In applying the tests established in Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. 553, which were recently ratified by the Supreme Court of Canada in Sagaz Industries Canada Inc. et al. v. 671122 Ontario Limited, [2001] 2 S.C.R. 983, the respondent has argued that the two appellants were subject to the control of the corporation notwithstanding the fact that they themselves were the shareholders in the corporation and regardless of whether that control was exercised, because there is a legal entity separate from the appellant shareholders. This counsel added that the appellants assume no risk of loss because the corporation assumes that risk, and the appellants have no right to any profit since the net catch belongs to the corporation and the appellants receive wages. The ownership of the tools is the corporation's, which means that the appellants in this case are employees, not self-employed workers, according to the definition of the term "fisher".
+[22] On the other hand, counsel for the appellants has called for a broad interpretation of the regulations applicable to fishers in order to respect the objective of these regulations, which is to provide fishers with Unemployment Insurance/Employment Insurance benefits. This counsel has argued that the existence of a corporation does not stand in the way of the application of the regulations in this case and that here there is no contract of service between the corporation and the appellants.
+[23] In my opinion, it is impossible to ignore the existence of a duly incorporated entity. The main feature of such an entity is that it has all the characteristics of a legal person; it is set up in response to a need of the shareholders at the time of incorporation. That said, the disadvantages caused by the existence of the corporation must be accepted along with the benefits and advantages it brings. The reasons that led the appellants to set up the corporation 2430‑8256 Québec Inc. were not presented at the hearing, and I do not believe they are relevant to the settlement of this dispute.
+[24] I must therefore determine the legal relationship that existed between the appellants and the corporation 2430-8256 Québec Inc., that is, whether there was between them a contract of service or a contract for services during the periods at issue. Given the facts admitted and applying the above-mentioned tests set out in Wiebe Door, I consider that the appellants were bound to 2430-8256 Québec Inc. by a contract of service. The corporation exercised control over the way these employees performed their duties. In Groupe Desmarais Pinsonneault & Avard Inc. v. Canada (Minister of National Revenue - M.N.R.), [2002] F.C.J. No. 572 (F.C.A.), Noël J. wrote as follows concerning the control test, at paragraph 5:
+[...] The fact that the company did not exercise the control or that the workers did not feel subject to it in doing their work did not have the effect of removing, reducing or limiting the power the company had to intervene through its board of directors.
+The force that directed the fishing activities was the corporation's board of directors since the corporation could in fact intervene and did direct the appellants' activities.
+[25] The test of chance of profit and risk of loss points only to the corporation. Except in 1992, the appellants received wages, which left the corporation with the risk of loss and the chance of making a profit. The net income from the catch belonged to the corporation even though in 1992 the appellants were paid a percentage of the income. As well, the appellants paid no expenses. The tests of ownership of the tools and integration point to the existence of a contract of service. The vessel and the gear belong to the corporation, and the appellants are clearly integrated into the corporation and have a great interest in it since they are the shareholders in it. In my opinion, all the tests point to a contract of service between the appellants and the corporation.
+[26] Counsel for the appellants has asked me to give the applicable regulations a broad interpretation. Our Court has already ruled on this issue, repeatedly reiterating the comments by Marceau J.T.C.C. in Gaston Desmarais v. M.N.R. (May 19, 1978), NR 218, at page 2:
+“It is clearly the Fishermen’s Regulations ss 191 and seq of the Unemployment Insurance Regulations that are involved. These are very special regulations adopted in order to extend the benefits of the Unemployment Insurance Act to fishermen even under conditions that would normally exclude an ordinary complainant from any benefit. For this reason I think that these Regulations should be applied strictly, and that the claimant should show that he clearly satisfied the conditions provided. [...]
+[27] In my opinion, the definition of the term "fisherman" or "fisher" in the regulations made under both the Unemployment Insurance Act and the Employment Insurance Act clearly indicates that, in order to qualify for the benefits that the regulations make available, one must be an independent worker or a person not bound by a contract of service who, among other things, engages in fishing or in making a catch. In this case, the appellants do not satisfy the terms of this definition for all the periods at issue because, in my opinion, they are bound by a contract of service to their corporation. Consequently, they may not be considered employees of by Nico or of Poséidon during the periods at issue. For these reasons, the appeals are dismissed and the Minister's decisions are confirmed.
+Signed at Ottawa, Canada, this 14th day of April 2003.
+“François Angers”
+J.T.C.C.
+Translation certified true
+on this 21st day of January 2004.
+Carol Edgar, Translator

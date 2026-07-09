@@ -1,0 +1,239 @@
+---
+title: "Sputek v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30036/index.do"
+last_modified: "2010-10-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 540"
+citation2: ""
+neutral_citation: "2010 TCC 540"
+decision_date: "2010-10-22"
+language: "en"
+item_id: "30036"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7712
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:55:41.308000+00:00"
+cases_cited_count: 6
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8815f88cab3b90392129e251d1c0ae9a800e4d894db79431f115b17a94291f42"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sputek v. The Queen
+
+- Citation: 2010 TCC 540
+- Decision date: 2010-10-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7712, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sputek v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-22
+Neutral citation
+2010 TCC 540
+File numbers
+2008-265(IT)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-265(IT)G
+BETWEEN:
+FRANK SPUTEK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard by way of conference call on June 21, 2010,
+at Ottawa, Canada.
+Before: The Honourable Justice Robert J. Hogan
+Participants:
+Counsel for the Appellant:
+Laurence Armstrong
+Counsel for the Respondent:
+Robert Carvalho
+____________________________________________________________________
+AMENDED ORDER
+Upon motion made by the Respondent to compel the Appellant to produce documents and answers to questions pursuant to sections 92 and 110 of the Tax Court of Canada Rules (General Procedure);
+And upon reading the affidavit filed and hearing submissions from the parties;
+In accordance with the attached reasons for order, the motion is granted and it is ordered that:
+1. the Appellant is to produce the Account Documents as defined in the attached reasons for order;
+2. the Appellant is to attend the continuation of the examination for discovery at the Respondent’s expense to answer the Post-2000 Questions as defined in the reasons for order;
+3. the Appellant is also to answer the questions relating to the Without Prejudice Letters as defined in the reasons for order; and
+4. costs are awarded to the Respondent in any event of the cause.
+This amended order is issued in substitution for the order signed on October 22, 2010. The reasons for order remain unchanged.
+Signed at Ottawa, Canada, this 4th day of November 2010.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2010 TCC 540
+Date: 20101022
+Docket: 2008-265(IT)G
+BETWEEN:
+FRANK SPUTEK,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Hogan J.
+[1] The Respondent has brought a motion for an order:
+(a) to compel the Appellant to produce copies of the passbooks and account statements for all bank accounts over which he had control for the years 2000 and 2001 (the “Account Documents”);
+(b) to answer questions relating to his dealings with charitable organizations subsequent to 2000 (the “Post-2000 Questions”) identified as questions 30, 143 to 145, 194, 226 to 228 and 230 to 232 in Exhibit A that accompanied the affidavit filed with the motion; and
+(c) to answer questions identified as questions 332 and 333 in Exhibit C to the affidavit filed with the motion, pertaining to communications sent from the Appellant to the CRA and marked “without prejudice” (the “Without Prejudice Letters”), identified as the Respondent’s documents 27, 29, 34 and 38 filed with the affidavit.
+Facts
+[2] The Appellant is appealing an assessment made against him by the Minister of National Revenue (the “Minister”) for his 2000 taxation year. In 2000, the Appellant made contributions to the Global Institute and claimed corresponding tax credits for charitable donations on his return. The Minister reassessed, disallowing the credits on the basis that the contributions to the Global Institute were not made with donative intent. This case is in the pretrial phase of litigation, and the motion arises out of the examination for discovery.
+[3] During the examination for discovery, the Appellant was asked to produce the Account Documents. He refused on the basis that they were not relevant. He also refused to answer the Post-2000 Questions. Those questions related, inter alia, to the following:
+(a) whether the Appellant had phoned the director or another employee of any charities besides the Global Institute and asked them about the charity before making a donation (questions 143 and 144);
+(b) the information returns of the Global Institute (question 145); and
+(c) whether the Appellant contributed to the Global Institute and his reasons for doing so (questions 194, 226 to 228 and 230 to 232).
+The Appellant claimed that these questions were not relevant, constituted a “fishing expedition” and were therefore not permissible.
+[4] Finally, the Appellant refused to answer questions relating to the Without Prejudice Letters on the basis that these letters are protected by settlement privilege.
+Issues
+[5] The issues are the following:
+(a) Are the Account Documents subject to discovery? In other words, are they relevant to a matter in issue in the proceedings?
+(b) Are the Post-2000 Questions relevant to a matter in issue in the proceedings or are they a “fishing expedition” undertaken by the CRA?
+(c) Are the Without Prejudice Letters protected by settlement privilege?
+Analysis
+Question 1
+[6] Section 81 of the Tax Court of Canada Rules (General Procedure) (the “Rules”) deals with discovery of documents and states the following:
+List of Documents (Partial Disclosure) – 81(1) A party shall, within thirty days following the closing of the pleadings, file and serve on every other party a list of the documents of which the party has knowledge at that time that might be used in evidence,
+(a) to establish or to assist in establishing any allegation of fact in any pleading filed by that party, or
+(b) to rebut or to assist in rebutting any allegation of fact in any pleading filed by any other party.
+[7] Section 89 of the Rules prohibits the use of documents at a hearing unless those documents have been referenced by a party in that party’s pleadings, have been produced by one of the parties or another person at the examination for discovery, or have been produced by a witness who is not under the control of the party. The Court may also direct that a document be permitted to be used at a hearing even if it does not fall into one of these categories.
+[8] Furthermore, section 95 of the Rules reads as follows:
+Scope of Examination – 95(1) A person examined for discovery shall answer, to the best of that person’s knowledge, information and belief, any proper question relevant to any matter in issue in the proceeding . . . and no question may be objected to on the ground that
+(a) the information sought is evidence or hearsay,
+(b) the question constitutes cross-examination, unless the question is directed solely to the credibility of the witness, or
+(c) the question constitutes cross-examination on the affidavit of documents of the party being examined.
+[Emphasis added.]
+[9] This rule governs examinations for discovery, which is the stage of the present proceedings during which it was asked that the Account Documents be provided to the Respondent. Explaining the test of relevance, Professor Thayer wrote:
+There is a principle — not so much a rule of evidence as a presupposition involved in the very conception of a rational system of evidence, as contrasted with the old formal and mechanical system — which forbids receiving anything irrelevant, not logically probative. How are we to know what these forbidden things are? Not by any rule of law. The law furnishes no test of relevancy. For this, it tacitly refers to logic and general experience, — assuming that the principles of reasoning are known to its judges and ministers, just as a vast multitude of other things are assumed as already sufficiently known to them.[1]
+[10] Cudmore, writing in Choate on Discovery, explains:
+The broad relevance test applicable to the production of documents is that a party entitled to discovery of a document or record if it directly or indirectly enables it to advance its own case or to destroy that of an adversary, or may fairly lead to a train of inquiry which may have either of these consequences.[2]
+[11] The courts, in applying this test to discovery in tax litigation, have spoken in the following terms:
+It seems to me that the clear right of the plaintiffs to have access to documents which may fairly lead them to a train of inquiry which may directly or indirectly advance their case or damage the defendant’s case particularly on the crucial question of one party's version of the agreement being more probably correct than the other . . . .[3]
+[Emphasis added. Italics in original.]
+[12] The law states that the right of discovery of documents is wide and the threshold of relevance is low. The Respondent’s case is based upon the view that the Appellant had no “donative intent” when contributing to the Global Institute. In its decision in The Queen v. Friedberg,[4] the Federal Court of Appeal defined “donative intent” as a lack of expectation that a benefit or consideration would flow back to the donor, either directly or indirectly, as a result of the contribution.[5]
+[13] The CRA seeks to have access to the Account Documents. If, as the CRA alleges, the contribution to the Global Institute was part of a scheme whereby the Appellant had all or part of his contribution returned to him via surreptitious payback transactions, then the Appellant’s assertion that he possessed donative intent would be refuted.[6] The Account Documents could serve as evidence that consideration did indeed flow back to the Appellant as a result of his contributions. They are “relevant document[s] in a party’s possession, control or power”. They are thus subject to discovery, and the Appellant should be required to disclose them, as per section 88 of the Rules.
+Question 2
+[14] The law regarding oral examinations for discovery is substantively similar to the law pertaining to the production of documents.
+[15] Cudmore, writing in Choate on Discovery, explains:
+. . . The tendency of the courts in recent years, in dealing with examination for discovery, is to broaden and enlarge the right of the parties to interrogate as to any facts the existence or non-existence of which is relevant to the existence or non‑existence of the facts directly in issue. This extends to hypothetical and theoretical questions. . . .
+An examination for discovery is a cross-examination in the true sense, a searching and thorough examination, limited, however, to the issues raised by the pleadings between the parties, and any question is permissible, the answer to which may be relevant to the issues. The party being examined must disclose any information touching the matters in question which he has either of his own knowledge or has received from third persons.[7]
+[Emphasis added.]
+[16] It is a well-established and oft-repeated principle that the threshold for relevancy on discovery is very low, but “fishing expeditions” are not permitted.[8] My colleague, C. Miller J., has stated that by now:
+16 . . . [c]ounsel should be well aware that at one end of the spectrum fishing expeditions are discouraged and at the other end of the spectrum very little relevance need be shown to render a question answerable.[9]
+[17] Cudmore refers to a summary of the principles regarding what constitutes such a “fishing expedition”, which was given by Middleton J. of the Ontario Supreme Court, Appellate Division:
+35 The aim of a plaintiff who does not know whether he has a cause of action or not, sometimes is to launch an action, and then to seek to ascertain, by discovery, whether he has any ground of complaint. This has more than once been declared to be an abuse of the practice. Discovery is in aid of the case as pleaded, and an examining party has no right to ask questions for the purpose of finding out something of which he knows nothing now, and which may enable him to formulate a case which is not in truth the subject-matter of suit, as it lies entirely outside of the plaintiff’s present knowledge. . . .[10]
+[18] On the other hand, as stated above, the threshold for relevancy on discovery is very low. Additionally:
+The motions judge should not seek to impose his or her views of relevancy on the judge who hears the case by excluding questions that he or she may consider irrelevant but which, in the context of the evidence as a whole, the trial judge may consider relevant.[11]
+[19] In a leading case, the Alberta Court of Appeal expressed the view that:
+[t]he greatest latitude should be allowed to a party who is examining an adverse party for discovery so that the fullest inquiry may be made as to all matters which can possibly affect the issues between the parties.[12]
+[Italics in original.]
+[20] A “fishing expedition” constitutes a line of inquiry that seeks to ascertain whether the Respondent has any ground of complaint. The line of inquiry must go outside of the bounds of the case as pleaded; the questions must be intended to determine if a case other than the one currently being pleaded might be established against the Appellant.[13]
+[21] Because of the latitude which should be afforded to counsel for the CRA during examination for discovery, coupled with the desire to ensure that the trial judge be provided with all evidence which he might consider relevant, only clearly irrelevant or abusive questions should not be permitted.[14]
+[22] The questions posed by the Respondent with respect to years subsequent to the taxation year under appeal relate to the following:
+(a) whether the Appellant ever phoned the director or another employee of a charity and asked them about the charity before making a donation (questions 143 and 144);
+(b) the information returns of the Global Institute (question 145); and
+(c) whether the Appellant contributed to the Global Institute and his reasons for doing so (questions 194, 226 to 228 and 230 to 232).
+[23] These questions were likely directed to the Appellant because of the Respondent’s need to establish the Appellant’s frame of mind in contributing to the Global Institute in 2000. They relate to the Respondent’s assumption that the Appellant’s mental process leading to the contribution in question differed in important respects from that which was involved in other donations that he made. This connection between the questions posed and the Respondent’s case against the Appellant — as set forth in the pleadings — lifts them out of the realm of “fishing expeditions”.
+[24] The Respondent contends that “the more [the Appellant’s] understanding of Global’s activities matches what the Respondent alleges were Global’s activities, the more likely it is that the last step alleged by the Respondent — the Appellant receiving a return on the amounts he gave — is also true”.[15] The questions put to the Appellant may lead the Respondent to a train of inquiry which may directly or indirectly advance the Respondent’s case or damage the case of the Appellant. Accordingly, the questions should be allowed and the Appellant should be ordered to answer all of the Post-2000 Questions.
+Question 3
+[25] Sopinka summarizes as follows the current state of the law with regard to settlement privilege:
+§14.313 It has long been recognized as a policy interest worth fostering that parties be encouraged to resolve their private disputes without recourse to litigation, or, if an action has been commenced, encouraged to effect a compromise without resort to trial.
+. . .
+§14.315 In furthering these objectives, the courts have protected from disclosure communications, whether written or oral, made with a view to reconciliation or settlement. In the absence of such protection, few parties would initiate settlement negotiations for fear that any concession they would be prepared to offer could be used to their detriment if no settlement agreement was forthcoming.
+. . .
+§14.320 The privilege applies to oral or written communications. It also applies at either the discovery or the trial stage. The judge, however, may examine the documents to determine if the privilege should apply.[16]
+[Emphasis added.]
+[26] In order for the privilege to apply, three essential conditions must be met:
+(a) A litigious dispute must be in existence or within contemplation.
+(b) The communication must be made with the express or implied intention that it would not be disclosed to the court in the event negotiations failed.
+(c) The purpose of the communication must be to attempt to effect a settlement.[17]
+[27] The first two of these conditions are relatively straightforward in their meaning and application. The third is more difficult in those regards.
+[28] The first condition simply means that the parties must be involved in some dispute which might require resolution by the courts or which might also be settled by negotiation and compromise; it is not necessary that proceedings have commenced.[18]
+[29] The second condition means only that:
+. . . if there is no settlement, the party making the offer is free to assert all its rights, unaffected by anything stated or done in the negotiations.[19]
+[30] With regard to the third condition, some decisions have held that the communication does not have to contain an actual offer of settlement in order to be covered by settlement privilege; others have suggested that a bona fide offer of settlement must be contained within the documents in order for the communication to receive protection.[20]
+[31] Sopinka suggests that the following compromise is the appropriate response:
+. . . [L]etters designed to open such negotiations, or letters or discussions which attempt to convince the opponent of the strengths of the other’s position, but which also recognize weaknesses, in the hope that some settlement can be effected once each other’s positions are on the table, should be subject to the privilege, whether or not they contain an actual offer of settlement.[21]
+[32] In Woodland, my colleague Campbell J. found that, where an advisory letter was sent to a taxpayer in advance of a reassessment, this did not meet the standard of a litigious dispute (that was either in existence or within contemplation).[22] This is precisely the situation that the Appellant was in at the time he wrote the Without Prejudice Letters. He was being audited by the CRA, but no reassessment had been made. It is perhaps true that a reassessment was being contemplated by the CRA, but a reassessment does not inherently involve the courts and is not litigious by nature. A taxpayer must comply with audit requests from the CRA and the result of such compliance will not necessarily be a reassessment. As in Woodland, the Without Prejudice Letters were written “in an attempt to dissuade the CRA from issuing an assessment”.[23]
+[33] Furthermore, in my opinion, the letters were not drafted for the purpose of effecting a settlement with the CRA. They certainly contain no clear offer to settle or to enter into negotiations. Even if we accept the lesser standard outlined above, that is, that the letters need only have been written with the goal of an eventual compromise, they still arguably fail to meet that standard. Their tone is frequently belligerent, they do not outline the relative strengths and weaknesses of both parties’ positions, and they contain very little in the way of compromise.
+[34] Bertram et al. v. The Queen,[24] relied upon by the Appellant, is instructive. Writing for the Federal Court of Appeal, Hugessen J.A. explains:
+. . . Most litigation is between parties who have a pre-existing relationship (landlord and tenant, vendor and purchaser, employer and employee, etc., to say nothing of domestic litigation) and common sense tells us that they will be in frequent contact with one another before suit is brought. Not all, or even most, of those meetings are aimed at settlement of the impending litigation and many may in fact be the cause of it. . . .
+In the present case, and bearing in mind that the meeting in question took place in the context of a self-assessing tax system where the taxpayer has an obligation to make full and open disclosure to the taxing authorities and where it is common for taxpayers and their advisers to meet with the latter with a view to attempting to persuade them that no, or no greater, tax is due, I would require much clearer evidence than exists in this record to persuade me that a meeting qualifies as a settlement negotiation so as to shield everything that takes place from subsequent use by either side. . . .
+[Emphasis added.]
+[35] The Without Prejudice Letters therefore fail to meet two of the three criteria for being afforded the protection of settlement privilege. They were not sent in the context of a litigious dispute, and they did not constitute an attempt to settle with the CRA. They are not subject to settlement privilege and the Appellant should be ordered to answer questions pertaining to them.
+Signed at Ottawa, Canada, this 22nd day of October 2010.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2010 TCC 540
+COURT FILE NO.: 2008-265(IT)G
+STYLE OF CAUSE: FRANK SPUTEK v. HER MAJESTY THE QUEEN
+PLACE OF HEARING HELD BY
+WAY OF CONFERENCE CALL: Ottawa, Canada
+DATE OF HEARING: June 21, 2010
+REASONS FOR ORDER BY: The Honourable Justice Robert J. Hogan
+DATE OF ORDER: October 22, 2010
+DATE OF REASONS FOR ORDER: October 22, 2010
+DATE OF AMENDED ORDER: November 4, 2010
+PARTICIPANTS:
+Counsel for the Appellant:
+Laurence Armstrong
+Counsel for the Respondent:
+Robert Carvalho
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Laurence Armstrong
+Firm: Armstrong Wellman
+Victoria, British Columbia
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] James Bradley Thayer, A Preliminary Treatise on Evidence at the Common Law (Boston: Little, Brown, 1898), at pages 264-269, cited in Ronald Joseph Delisle, Don Stuart and David M. Tanovich, Evidence – Principles and Problems, 9th ed. (Toronto: Carswell, 2010), at page 157. This view was referred to with approval by the dissenting Supreme Court of Canada Justices in Morris v. The Queen, [1983] 2 S.C.R. 190.
+[2] Gordon D. Cudmore, Choate on Discovery, 2nd ed., loose-leaf (Toronto: Carswell, 2004), at page 3‑70.20; see also Alan W. Bryant, Sidney N. Lederman and Michelle K. Fuerst, Sopinka, Lederman & Bryant: The Law of Evidence in Canada, 3rd ed., (Markham: LexisNexis, 2009) (hereinafter Sopinka), §11.45 at page 693, where the authors state that “[a] simple test to determine if the proffered evidence is relevant is to ask ‘what inference is sought to be made from the proposed evidence and whether it has some tendency to advance the inquiry before the court’”.
+[3] Boxer v. Reesor (1983), 43 B.C.L.R. 352 (SC), at page 359. This passage was cited with approval by (among others) Lamarre Proulx J. in Ouellet v. The Queen, 94 DTC 1315 (TCC), Rip J., as he then was, in Owen Holdings Ltd. v. The Queen, [1997] 3 C.T.C. 2313, V. Miller J. in Kossow v. The Queen, 2008 TCC 422, and Bowie J. in Teelucksingh v. The Queen, 2010 TCC 94.
+[4] 92 DTC 6031 (FCA), at page 6032, 1991 CarswellNat 669, at paragraph 4.
+[5] See also Webb v. The Queen, 2004 TCC 619, at paragraph 16.
+[6] This would constitute the “smoking gun” that was missing in the very similar recent case of Webb, where Bowie J. nevertheless found that the appellant lacked any donative intent.
+[7] Choate, note 2 above, at pages 2-76.8, 2-76.9 and 2-77.
+[8] Kossow, note 3 above, at paragraph 60; see also Lubrizol Corp. v. Imperial Oil Ltd., [1997] 2 F.C. 3 (FCA), at paragraph 19, and Hennessy v. Wright (1888), 24 Q.B.D. 445n (Eng. CA).
+[9] HSBC Bank Canada v. The Queen, 2010 TCC 228.
+[10] Somers v. Kingsbury, [1923] O.J. No. 28 (QL), cited in Choate, note 2 above, at §2.16(f). This statement was made in Middleton J.’s dissenting opinion, but it has since been referred to approvingly in many Canadian court decisions; see Society of Composers, Authors and Music Publishers of Canada v. Landmark Cinemas of Canada Ltd., [1999] F.C.J. No. 1026 (QL), at paragraph 13.
+[11] Baxter v. The Queen, 2004 TCC 636, at paragraph 13(c).
+[12] Leeds v. Alberta, [1989] A.J. No. 755 (QL), citing Rural Municipality of Mount Hope No. 279 v. Findlay, [1919] 1 W.W.R. 397, also cited with approval by Bowman A.C.J., as he then was, in Baxter, note 11 above, at paragraph 12.
+[13] Somers, note 10 above.
+[14] Baxter, note 11 above.
+[15] Respondent’s Written Submissions re Motion, at paragraph 7c).
+[16] Sopinka, note 2 above.
+[17] Woodland v. The Queen, 2009 TCC 434, at paragraph 63; see also Sopinka, note 2 above, at §14.322.
+[18] McLeod v. Pearson, [1931] 3 W.W.R. 4; see also Sopinka, note 2 above, at §14.323.
+[19] Maracle v. Travellers Indemnity Co. of Canada, [1991] 2 S.C.R. 50, cited in Sopinka, note 2 above, at §14.324.
+[20] Sopinka, note 2 above, at §14.328 and 14.329.
+[21] Ibid., at §14.330.
+[22] Woodland, note 17 above.
+[23] Ibid., at paragraph 66.
+[24] 96 DTC 6034. The version cited by the Appellant is indexed as Canada v. Carson.

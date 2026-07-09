@@ -1,0 +1,248 @@
+---
+title: "Girard v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/70996/index.do"
+last_modified: "2014-04-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 107"
+citation2: ""
+neutral_citation: "2014 TCC 107"
+decision_date: "2014-04-10"
+language: "en"
+item_id: "70996"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5282
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:50:01.147000+00:00"
+cases_cited_count: 20
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "78d3d31dea24ca1f6770b514520aaa23f9abfbfcb500454a11f2a47ae1fff6a4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Girard v. The Queen
+
+- Citation: 2014 TCC 107
+- Decision date: 2014-04-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5282, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Girard v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-04-10
+Neutral citation
+2014 TCC 107
+File numbers
+2013-2513(IT)I
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2513(it)i
+BETWEEN:
+Christian Girard,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 5, 2014, at Montréal, Quebec.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Valerie Messore
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made by the Minister of National Revenue under the Income Tax Act for the 2007, 2008, 2009 and 2010 taxation years are dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 10th day of April 2014.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 29th day of May 2014
+Daniela Guglietta, Translator
+Citation 2014 TCC 107
+Date: 20140410
+Docket: 2013-2513(it)i
+BETWEEN:
+Christian Girard,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant is appealing from the assessments made by the Minister of National Revenue (Minister) whereby the Minister disallowed the appellant’s business expenses in the amount of $6,000 per year claimed in his income tax returns for the 2007, 2008, 2009 and 2010 taxation years. Penalties were also imposed under subsection 163(2) of the Income Tax Act (ITA).
+[2] Although each of his income tax returns is noted as having been signed by the appellant sometime in April following the taxation year for which the tax returns were prepared, all of these tax returns were allegedly only received by the Canada Revenue Agency (CRA) in September 2011 (Exhibit I-1, tabs 1, 2, 3 and 4, page 4 of each of these tabs).
+[3] The tax returns show that the appellant reported $19,999.92 in employment income for each of the years in issue (for which a T4 slip was issued), without mentioning any other source of income. The expenses claimed are identified as monthly management fees, at $1,000 per month, half of which was claimed by the appellant as a deduction.
+[4] The appellant explained that he lives on a farm located in Notre-Dame de Stanbridge, in the Eastern Townships in the province of Quebec. The farm is operated by Ferme Pierre Girard Inc., a corporation incorporated on November 26, 1987. During the years in issue, the appellant owned all of the common shares and 20.56 percent of the preferred shares. His father, Pierre Girard, owned the remaining preferred shares, that is, 79.44 percent (Exhibit I-3).
+[5] The appellant derived his employment income from the company. The farm, which had been a dairy farm in the past, grew corn and soybeans and raised pigs during the years in issue. The farm products were sold to merchants in the public market.
+[6] At the Minister’s request, on December 2,2011, the appellant justified the management fees claimed for each of the years in issue using invoices he said he himself addressed as a human being to [Translation] “Christian Girard, the legal entity”, to which the government assigned a Social Insurance Number (SIN). Those fees were to cover his living expenses, which include food, fuel, housing, medical care and travel (Exhibit I-1, tabs 5 and 6). No supporting documentation is attached thereto.
+[7] The appellant contends that each human creature comprises both a physical being (the “natural person”) and some sort of other legal entity (the “corporation”) created upon the government’s issuance to the human creature of a SIN. According to his arguments, the natural person is sovereign, that is to say, that he or she is free and that he or she has no obligations, whereas the corporation is a Crown asset and is therefore subject to state law.[1]
+[8] By letters dated February 23, 2012, and March 26, 2012, the CRA notified the appellant that it considered that the documents submitted showed a link with a known scheme and disallowed the claimed expenses, while notifying the appellant that he would be subject to a penalty (Exhibit I-1, tabs 7 and 8). The assessments were made on April 24, 2012 (Exhibit I-1, tab 18).
+[9] The appellant attached a copy of his birth certificate (Exhibit I-1, tab 9) to his objection, received by the CRA on July 13, 2012, to support the fact that he is a corporation that is entitled to claim its business expenses. He also challenged the penalties imposed under subsection 163(2) ITA on the ground that his conduct is inconsistent with gross negligence.
+[10] On September 19, 2012, the appellant sent the CRA additional information in which he says he refers, inter alia, to the Universal Declaration of Human Rights to argue that he has no obligation to accept the legal personality conferred upon him by the state (by, among other things, the assignment of his SIN) to the detriment of his fundamental rights as a human creature. I understand from his testimony and said correspondence that he does not wish to be considered a Canadian subject and as such, does not define himself as a legal person with obligations to the corporation, but as a human creature with rights that are protected by the Canadian Bill of Rights and the Canadian Charter of Rights and Freedoms (Exhibit I-1, tab 10).
+[11] On March 4, 2013, that is, approximately fifteen months after the first requests for explanations sent by the CRA, and following the CRA’s disallowance of his business expenses, the appellant, this time stating that he exercised his Aboriginal rights, required the CRA’s [Translation] “compliance with section 35 of the [C]onstitution, the [R]oyal [P]roclamation and [his] Aboriginal rights” (Exhibit I‑1, tab 11). It was at this point that he demanded that the CRA provide a sworn statement acknowledging that by disallowing the business expenses he claimed [Translation] “for the operation of the corporation Christian Girard [followed by his SIN]”, the CRA prevented him from [Translation] “living decently by depriving him of all his rights as set out in the Canadian Charter of Rights and Freedoms, the Universal Declaration of Human Rights and the International Covenant on Civil and Political Rights” (Exhibit I-1, tab 11). He repeated that request three times (see letters dated March 12, 2013, April 1, 2013, and April 17, 2013, filed as Exhibit A-1, and Exhibit I-1, tabs 12, 14 and 15). On March 28, 2013, the CRA confirmed the assessments (Exhibit I-1, tab 13).
+[12] On May 14, 2013, the appellant filed amended income tax returns indicating that all the information required, with the exception of that pertaining to the refund of income tax withheld at source on his employment income, was not applicable. He attached a [Translation] “certificate of native origin” from the company Mikinak. According to the statement that appears on the certificate, the appellant states that he is of native origin (indigenous from North America, Amerindian). This statement was signed by the appellant before two witnesses sworn in by a commissioner for oaths, André Perreault (Exhibit I-1, tab 16).
+[13] At the hearing, the appellant testified that this statement was made as a result of making a family tree, of which he did not know the author. He later provided the tree at the Court’s request. The author of the family tree, Thérèse Lachance, stated by affidavit on March 6, 2014, that she never received professional training to conduct genealogical research, that her skills were limited to indicating whether the person who was her client had an Amerindian ancestor and that she was not associated with the company Mikinak.
+[14] The respondent adduced in evidence a document from the Registraire des entreprises du Québec (REQ) which shows that Mikinak is a corporation incorporated under the Canada Business Corporations Act (CBCA) whose majority shareholder is André Perreault (Exhibit I-4). At the hearing, the appellant acknowledged that Mikinak was not located on an Indian reserve.
+[15] The appellant stated that he did not apply for Indian status with Department of Indian Affairs and Northern Development because he did not reside on a reserve or in an Amerindian territory. Furthermore, according to maps from the Secrétariat aux affaires autochtones du Québec and Aboriginal Affairs and Northern Development Canada, it seems clear that the farm is not located in a region that is part of an Aboriginal nation (Exhibit I-2).
+[16] The appellant forwarded to the Court, a few days prior to the hearing, an addendum to the Notice of Appeal. He seems to criticize the Minister for his conduct and also reiterates what he said in the documentation submitted in court.
+[17] I agree with the respondent that our Court is not the appropriate forum for rendering judgment on the Minister’s conduct. Our Court derives its jurisdiction from the Tax Court of Canada Act and said Act grants it the power to determine the validity of the assessment and not the process by which it is established (Main Rehabilitation Co. v. The Queen, 2004 FCA 403, paragraphs 7 and 8; Burrows v. The Queen, 2005 TCC 761, paragraph 35).
+[18] Indeed, the appellant raises two arguments.
+1st argument
+[19] The appellant’s first argument concerns his entitlement to claim living expenses. He acknowledged at the hearing that those expenses were not deductible under the ITA (paragraphs 18(1)(a) and (h) or subsection 8(2) of the ITA, according to whether the taxpayer reported business income or employment income).
+[20] The appellant’s argument rather stretches beyond the ITA. He submits that by disallowing his expenses (and therefore by applying the ITA), the Minister ignores his rights under the Universal Declaration of Human Rights, the Canadian Bill of Rights and the Canadian Charter of Rights and Freedoms, and places him in a state of slavery and servitude. From what I understand, he claims that he is not subject to legislation implemented by the various levels of government because a legal personality was conferred upon him without his consent.
+[21] The irony of the appellant’s argument is that he does not feel subject to Canadian or provincial legislation with respect to his obligations as a Quebec or Canadian citizen. However, he also relies on the Canadian Charter of Rights and Freedoms and the Canadian Bill of Rights, both implemented by the Canadian Parliament, to advocate for the recognition of his fundamental rights. Moreover, he acknowledges that it is through his membership in society, owing, inter alia, to the issuance of a health card number or a SIN, that he has the right to access health care or the privilege to operate a vehicle and circulate on the highways: right and privilege which are also funded by the various levels of government, and indirectly by taxpayers through taxes.
+[22] His argument that a distinction should be made, for the tax purposes which concern us here, between the legal person and the human creature he is cannot be accepted. All Canadian taxpayers are subject to the same laws and the ITA is no exception. This is not a case where one has the choice as to whether or not to opt in to the Act. In a democratic society like Canada, the law is sovereign; there is only one law for everyone and the relationship between the state and the individual is governed by the law (A. V. Dicey, Introduction to the Study of the Law of the Constitution, 10th ed., Macmillan & Co., London, 1959). All persons are equal in value and in dignity and are entitled to the equal protection of the law. Government officials cannot exercise their authority arbitrarily (Roncarelli v. Duplessis, [1959] S.C.R. 121; Charkaoui v. Canada (Citizenship and Immigration), 2007 SCC 9, [2007] 1 S.C.R. 350, paragraph 134) and taxpayers must respect all laws regardless of their beliefs (Alberta v. Hutterian Brethren of Wilson Colony, 2009 SCC 37, [2009] 2 S.C.R. 567). This principle of rule of law is clearly recognized in both the preamble of the Constitution Act, 1867 and that of the Constitution Act, 1982 (see Reference re: Manitoba Language Rights (Man.), [1985] 1 S.C.R. 721, at pages 750-751). The appellant must therefore, as a Canadian citizen and resident, comply with the applicable provisions of the ITA.
+[23] The appellant also argues that he can be subject only to the law of God and that Canada is founded upon principles that recognize the supremacy of God (Addendum to the Notice of Appeal, January 28, 2014, paragraph 12). It is true that the preamble of the Constitution Act, 1982 recognizes the supremacy of God, however, as stated by Justice Muldoon in O’Sullivan v. M.N.R “[t]he preamble to the Charter provides an important element in defining Canada, but recognition of the supremacy of God, emplaced in the supreme law of Canada, goes no further than this: it prevents the Canadian state from becoming officially atheistic. It does not make Canada a theocracy because of the enormous variety of beliefs of how God . . . wants people to behave generally and to worship in particular”. ([1992] 1 F.C. 522, page 536, (1991), 45 F.T.R. 284, 84 D.L.R. (4th) 124 (F.C.T.D.)).
+[24] The appellant testified at the hearing that he found the double or split person argument by conducting Internet searches and stated that he did not verify the validity of said argument with a lawyer or other professional. He also submits that he never discussed this argument with third parties. However, in reviewing, for instance, the additional information he provided the CRA with on September 19, 2012 (Exhibit I-1, tab 10, page 6), one sees that he had two witnesses with the exact same signature style as his, distinctive for its given name followed by a colon and the surname, sign the document.
+[25] In the case at bar, one may think that the appellant is a part of what Associate Chief Justice Rooke of the Court of Queen’s Bench of Alberta calls the “Organized Pseudolegal Commercial Argument [OPCA] litigants” in Meads v. Meads, 2012 ABQB 571, [2013] 3 W.W.R. 419:
+- The appellant identifies himself as “Christian: Girard” or “Christian of the Girard family. And, “[a]ny litigant who uses this “dash colon” motif almost certainly has some kind of OPCA background or affiliation” (see paragraph 206 of Meads);
+- The appellant provided a copy of his birth certificate to support the fact that he is a corporation. And, “[a] person’s birth certificate is a focus of certain OPCA schemes” (see paragraph 230 of Meads);
+- The appellant submitted in his argument that Canada was a corporation because it appeared on the U.S. Securities and Exchange Commission Web site and that as a Canadian citizen, he, too. was a corporation. And, “[i]dentification that a municipality, province, or Canada is a corporation is a clear indication of OPCA affiliation” (see paragraph 222 of Meads);
+- The appellant argues that he was created by God and can only be subject to the law of God. And, if the litigant believes he or she is “only subject to a category of law, typically ‘natural law’, ‘common law’ or ‘God’s law’”, these are strong indicia of OPCA litigation (see paragraph 221 of Meads);
+- The appellant uses in support of his appeal unusual tax laws. And, “[m]any OPCA documents mention certain obsolete, foreign, or typically otherwise irrelevant legislation” (see paragraph 228 of Meads).
+[26] Numerous decisions have systematically rejected the arguments raised by “OPCA litigants”. For instance, my colleague Justice Campbell held that such an argument “is without merit, it detracts from the court proceedings and it is total and utter nonsense” (Cassa v. The Queen, 2013 TCC 43, paragraph 13). She also considered that this constituted an abuse of process: “Such ‘song and dance’ routines hinder and limit the availability of Court resources for those self-represented litigants who are making an honest attempt to advance their appeals through the Court system in a timely manner” (Cassa, paragraph 14).
+[27] I therefore reject the first argument and consider that the Minister was entirely justified in disallowing the deduction claimed. No taxpayer can deduct his or her living expenses from his or her income.
+2nd argument
+[28] The appellant’s second argument is that he is not subject to Canadian tax because he is exempt from taxation as an Indian. This argument was only raised by the appellant recently.
+[29] An amount may indeed be exempt from income tax in the case of an Indian under paragraph 81(1)(a) of the ITA and section 87 of the Indian Act (IA), but there are some conditions that have to be met. Those statutory provisions read as follows:
+Income tax act
+Subdivision g — Amounts Not Included in Computing Income
+81. (1) Amounts not included on income — There shall not be included in computing the income of a taxpayer for a taxation year,
+(a) Statutory exemptions [including Indians] — an amount that is declared to be exempt from income tax by any other enactment of Parliament, other than an amount received or receivable by an individual that is exempt by virtue of a provision contained in a tax convention or agreement with another country that has the force of law in Canada;
+Indian Act
+Taxation
+87. (1) Property exempt from taxation — Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83 and section 5 of the First Nations Fiscal Management Act, the following property is exempt from taxation:
+(a) the interest of an Indian or a band in reserve lands or surrendered lands;
+and
+(b) the personal property of an Indian or a band situated on a reserve.
+(2) Idem — No Indian or band is subject to taxation in respect of the ownership, occupation, possession or use of any property mentioned in paragraph (1)(a) or (b) or is otherwise subject to taxation in respect of any such property.
+(3) Idem — No succession duty, inheritance tax or estate duty is payable on the death of any Indian in respect of any property mentioned in paragraphs (1)(a) or (b) or the succession thereto if the property passes to an Indian, nor shall any such property be taken into account in determining the duty payable under the Dominion Succession Duty Act, chapter 89 of the Revised Statutes of Canada, 1952, or the tax payable under the Estate Tax Act, chapter E-9 of the Revised Statutes of Canada, 1970, on or in respect of other property passing to an Indian.
+[30] Employment and business income, inter alia, is considered personal property within the meaning of the IA (Nowegijick v. The Queen, [1983] 1 S.C.R. 29) and is therefore exempt from taxation if said property is situated on a reserve.
+[31] In order to rely on the taxation exemption under paragraphs 81(1)(a) of the ITA and 87(1)(b) of the IA, the appellant must first show that he is an Indian under the IA. This term is defined as follows in section 2 of the IA:
+2. (1) Definitions — In this Act,
+“Indian” means a person who pursuant to this Act is registered as an Indian or is entitled to be registered as an Indian;
+[32] Since the appellant produced no evidence that he already was a person registered as an Indian in the Indian Register, it is necessary to determine whether the appellant is entitled to be registered as an Indian. Section 6 of the IA specifies the persons who are entitled to be registered as an Indian in the Register. That section is reproduced below:
+DEfinition AND registrAtION OF indiAns IndiAn RegistEr
+. . .
+6. (1) Persons entitled to be registered — Subject to section 7, a person is entitled to be registered if
+(a) that person was registered or entitled to be registered immediately prior to April 17, 1985;
+(b) that person is a member of a body of persons that has been declared by the Governor in Council on or after April 17, 1985 to be a band for the purposes of this Act;
+(c) the name of that person was omitted or deleted from the Indian Register, or from a band list prior to September 4, 1951, under subparagraph 12(1)(a)(iv), paragraph 12(1)(b) or subsection 12(2) or under subparagraph 12(1)(a)(iii) pursuant to an order made under subsection 109(2), as each provision read immediately prior to April 17, 1985, or under any former provision of this Act relating to the same subject-matter as any of those provisions;
+(c.1) that person
+(i) is a person whose mother’s name was, as a result of the mother’s marriage, omitted or deleted from the Indian Register, or from a band list prior to September 4, 1951, under paragraph 12(1)(b) or under subparagraph 12(1)(a)(iii) pursuant to an order made under subsection 109(2), as each provision read immediately prior to April 17, 1985, or under any former provision of this Act relating to the same subject-matter as any of those provisions,
+(ii) is a person whose other parent is not entitled to be registered or, if no longer living, was not at the time of death entitled to be registered or was not an Indian at that time if the death occurred prior to September 4, 1951,
+(iii) was born on or after the day on which the marriage referred to in subparagraph (i) occurred and, unless the person’s parents married each other prior to April 17, 1985, was born prior to that date,
+(iv) had or adopted a child, on or after September 4, 1951, with a person who was not entitled to be registered on the day on which the child was born or adopted;
+(d) the name of that person was omitted or deleted from the Indian Register, or from a band list prior to September 4, 1951, under subparagraph 12(1)(a)(iii) pursuant to an order made under subsection 109(1), as each provision read immediately prior to April 17, 1985, or under any former provision of this Act relating to the same subject-matter as any of those provisions;
+(e) the name of that person was omitted or deleted from the Indian Register, or from a band list prior to September 4, 1951,
+(i) under section 13, as it read immediately prior to September 4, 1951, or under any former provision of this Act relating to the same subject-matter as that section, or
+(ii) under section 111, as it read immediately prior to July 1, 1920, or under any former provision of this Act relating to the same subject-matter as that section; or
+(f) that person is a person both of whose parents are or, if no longer living, were at the time of death entitled to be registered under this section.
+(2) Idem — Subject to section 7, a person is entitled to be registered if that person is a person one of whose parents is or, if no longer living, was at the time of death entitled to be registered under subsection (1).
+(3) Deeming provision — For the purposes of paragraph (1)(f) and subsection (2),
+(a) a person who was no longer living immediately prior to April 17, 1985 but who was at the time of death entitled to be registered shall be deemed to be entitled to be registered under paragraph (1)(a);
+(b) a person described in paragraph (1)(c), (d), (e) or (f) or subsection (2) and who was no longer living on April 17, 1985 shall be deemed to be entitled to be registered under that provision; and
+(c) a person described in paragraph (1)(c.1) and who was no longer living on the day on which that paragraph comes into force is deemed to be entitled to be registered under that paragraph.
+[33] The appellant recently provided the Court with a copy of his family tree and, upon reviewing the tree, it is clear that the appellant is not a first or second generation Aboriginal, which, from reading subsections 6(1) and 6(2) of the IA, is one of the conditions to be eligible to be registered in the Indian Register. Since the appellant also acknowledged that he was not already registered in the Register, that he was not a member of a band and that he was born after September 4, 1951, the appellant does not meet any of the other conditions that would make him eligible to be registered in the Indian Register. And even if he were, since the appellant does not reside on a reserve or work for a reserve, he does not possess personal property situated on a reserve, as required by paragraph 87(1)(b) IA (Bastien Estate v. Canada, 2011 SCC 38, [2011] 2 S.C.R. 710, paragraph 62). He cannot, therefore, qualify for the tax exemption provided for in that paragraph.
+[34] Finally, although not clearly articulated, the appellant’s argument seems to be that Aboriginal people benefit from a general immunity from taxation in Canada and that, as long as he states that he is of Aboriginal ancestry, he, too, can benefit from it.
+[35] In his Notice of Appeal, he relies on Daniels v. Canada (Indian Affairs and Northern Development), 2013 FC 6, [2013] 2 F.C.R. 268, and R. v. Powley, 2003 SCC 43, [2003] 2 S.C.R. 207, in support of his Aboriginal rights, without further analysis.
+[36] In Daniels, the Federal Court concluded that, while the Métis are Indians as provided in subsection 91(24) of the Constitution Act, 1867 (which vests in Parliament the exclusive power to make laws in relation to all matters coming within the class of subject “Indians, and Lands reserved for the Indians”), they are not “Indians” under the IA (paragraphs 526, 545 and 600).
+[37] Justice Phelan, in Daniels, cited Constitutional Law of Canada by Professor Peter Hogg, at paragraph 527:
+It is probable that all status Indians are "Indians" within the meaning of s. 91(24) of the Constitution Act, 1867. But there are also many persons of Indian blood and culture who are outside the statutory definition. These "non-status Indians", which number about 200,000, are also undoubtedly "Indians" within the meaning of s. 91(24), although they are not governed by the Indian Act.
+The Métis people, who originated in the west from intermarriage between French Canadian men and Indian women during the fur trade period, received "half-breed" land grants in lieu of any right to live on reserves, and were accordingly excluded from the charter group from whom Indian status devolved. However, they are probably "Indians" within the meaning of s. 91(24)....
+[Peter W. Hogg, Constitutional Law of Canada, 5th ed., Toronto, Carswell, 2007, at page 28-4].
+[Emphasis added.]
+[38] This only confirms that an Indian under subsection 91(24) of the Constitution Act, 1867 is not an Indian within the meaning of the IA if he or she is not registered in the Indian Register or is not entitled to be registered. If a person is not an Indian within the meaning of the IA, he or she cannot benefit from the tax exemption, which is the case of the appellant.
+[39] As for Powley, the Supreme Court of Canada developed in that case a method of identifying a Métis for the purposes of section 35 of the Constitution Act, 1982, and, in that context, recognized that the Métis of Sault Ste. Marie have an Aboriginal right to hunt for food.
+[40] Simply relying on Powley as confirming the existence of a Métis community is insufficient to prove any broad right of self-government, let alone any more exact identifiable right (Gauthier v. Canada, 2006 TCC 290, [2006] T.C.J. No. 218 (QL), paragraph 24). Furthermore, the appellant has failed to demonstrate any treaty allowing him to claim a tax exemption for Aboriginal people (see Benoit v. Canada, 2003 FCA 236, [2003] F.C.J. No. 923 (QL)).
+[41] In Sackaney v. The Queen, 2013 TCC 303, it was argued that the Crown did not have jurisdiction to impose tax on Aboriginals because they never agreed to pay and had not been consulted beforehand on the issue. Justice Paris of this Court stated the following at paragraphs 12 to 22:
+12 The appellants' position amounts to a denial of the sovereignty of the Crown over aboriginal people in relation to taxation. The contrary view, that aboriginals are subject to the provisions of the Income Tax Act, flows from the fact of Canadian sovereignty over aboriginal peoples living in Canada. In Nowegijick v The Queen, [1983] 1 SCR 29, Dickson J. wrote at paragraph 24 that:
+Indians are citizens and, in affairs of life not governed by treaties or the Indian Act, they are subject to all of the responsibilities, including payment of taxes, of other Canadian citizens.
+13 Similarly, in R v Sparrow, [1990] 1 SCR 1075, the Supreme Court stated at page 1103 that:
+It is worth recalling that while British policy towards the native population was based on respect for their right to occupy their traditional lands, a proposition to which the Royal Proclamation of 1763 bears witness, there was from the outset never any doubt that sovereignty and legislative power, and indeed the underlying title, to such lands vests in the Crown . . . .
+(underlining added)
+14 In light of these pronouncements of the Supreme Court, it is clear that the appellants' claim of an inherent aboriginal right to tax immunity, based on a claim that aboriginals did not agree to pay tax and have not been consulted on the matter, is incompatible with the Crown's sovereignty over Canadian territory.
+15 Since the claim of an inherent aboriginal right to tax immunity is unfounded, it is clear that the appellants' arguments relating to section 25 of the Charter and subsection 35(1) of the Constitution Act, 1982 cannot succeed.
+16 Section 25 of the Charter reads:
+25. The guarantee in this Charter of certain rights and freedoms shall not be construed so as to abrogate or derogate from any aboriginal, treaty or other rights or freedoms that pertain to the aboriginal peoples of Canada including
+(a) any rights or freedoms that have been recognized by the Royal Proclamation of October 7, 1763; and
+(b) any rights or freedoms that now exist by way of land claims agreements or may be so acquired.
+17 Subsection 35(1) reads:
+35(1). The guarantee in this Charter of certain rights and freedoms shall not be construed so as to abrogate or derogate from any aboriginal, treaty or other rights or freedoms that pertain to the aboriginal peoples of Canada including
+(a) any rights or freedoms that have been recognized by the Royal Proclamation of October 7, 1763; and
+(b) any rights or freedoms that now exist by way of land claims agreements or may be so acquired.
+18 In Mitchell v M.N.R., 2001 SCC 33 McLachlin C.J. explained that the effect of the enactment of subsection 35(1) of the Constitution Act, 1982 was to elevate existing common law aboriginal and treaty rights to constitutional status.
+19 It is also clear that the aboriginal rights protected by section 25 of the Charter are those rights recognized by the Royal Proclamation or those existing by way of land claims at the time the Constitution Act, 1982 came into force or rights acquired by way of land claims after that point. In R. v Kapp, 2008 SCC 41 McLachlin C.J., writing for the majority, stated that "not every aboriginal interest or program falls within the provision's scope" and that "only rights of a constitutional character are likely to benefit from s. 25."
+20 Since the appellants have not set out any facts that would support a finding that tax immunity existed for aboriginal people in Canada prior to the coming into force of section 25 of the Charter and subsection 35(1) of the Constitution Act, 1982 and since the appellants do not refer to any land claim agreement in their pleadings there can be no basis for finding that those provisions were breached by imposing tax on the income of an aboriginal person.
+21 Even if the appellant had pled facts to show that tax immunity for aboriginals existed at some point prior to 1982, it is apparent that the those rights would have been extinguished when income tax was imposed in 1917 on "every person residing or ordinarily resident in Canada": Income War Tax Act, 1917, S.C. 1917, c.28 subsection 4(1). In Mitchell, McLachlin C.J. explained that prior to 1982, aboriginal rights could be unilaterally abrogated by the Crown:
+10 . . . aboriginal interests and customary laws were presumed to survive the assertion of sovereignty, and were absorbed into the common law as rights, unless (1) they were incompatible with the Crown's assertion of sovereignty, (2) they were surrendered voluntarily via the treaty process, or (3) the government extinguished them.
+22 Finally, the appellant has not alleged any facts that would support a treaty right, as distinct from an inherent aboriginal right, to immunity from taxation.
+[42] As in Sackaney, and as mentioned above, the appellant has not set out any facts that would support a finding that tax immunity existed for Aboriginal people in Canada prior to the coming into force of section 25 of the Charter and subsection 35(1) of the Constitution Act, 1982—whether it be under an Aboriginal right, a treaty right or a land claim agreement—and that those provisions were breached by imposing tax on the income of an Aboriginal person.
+[43] I therefore reject the appellant’s second argument.
+Penalty
+[44] As for the penalty imposed for gross negligence under subsection 163(2) of the ITA, it will be applied if the respondent shows that the taxpayer knowingly or under circumstances amounting to gross negligence, has made a false statement in a return. “‘Gross negligence’ must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.” (Venne v. Canada (M.N.R.), [1984] F.C.J. No. 314 (QL)).
+[45] My colleague, Justice Favreau, had to decide, in the past, whether the penalty under subsection 163(2) ITA was applicable in a case (Robert v. The Queen, 2011 TCC 166, 2011 DTC 1133) such as that of the appellant, and found as follows:
+16 The courts have been called upon on numerous occasions to rule on the interpretation to be given to subsection 163(2) of the Act. Seeing as it is a provision of a penal nature, the courts have often applied a restrictive interpretation of the legislative provision. In cases where a reasonable interpretation would avoid the penalty in a particular case, that construction should be adopted (see Venne, supra, at paragraph 34).[2]
+17 In this case, I do not believe the interpretation provided by the appellant is reasonable in the circumstances. In my view, the Minister has met his burden of proof and unequivocally established that the appellant knowingly, or under circumstances amounting to gross negligence participated in the making of a false claim for business expenses in his tax return for the 2000 taxation year.
+18 The appellant’s testimony was not credible, he knew nothing about the operations and activities of the corporation RICHARD ROBERT and was confused about who the taxpayer was, who the corporation was or who he himself was as a human being. He was not aware of whether there were any transfers of funds between the corporation assigned to him and of which is was animator and himself as human being.
+19 In light of the evidence, the corporation RICHARD ROBERT was never officially registered in Quebec or Canada, and the number used to identify the corporation was appellant’s birth certificate. Said corporation seems to have emerged 63 years after it was assigned to the appellant at birth. Said corporation never filed a T‑2 tax return and the so-called accounting method used was merely an internal and theoretical one. The corporation never operated a business and never gained income; it only had expenses.
+20 The corporate documents filed in evidence, described at paragraph 11 above, were all prepared by the appellant’s agent, Christian LaChapelle. While the documents are all dated November 18, 2008, they should be applied retroactively to the year 2000. The documents are nothing more nor less than retroactive planning presented for the purposes of reducing the taxes and interest payable by the appellant since 2000. The documents show that the appellant used a fictitious montage without any legal basis. The existence of a business by default has no legal basis in law.
+21 The expenses claimed by the appellant were not incurred for the purpose of gaining income. Such expenses were personal and living expenses for which no deductions can be claimed under paragraph 18(1)(h) of the Act.
+[46] In the present case, I also do not believe that the interpretation provided by the appellant is reasonable in the circumstances. In my view, the Minister has demonstrated that the appellant, knowingly or under circumstances amounting to gross negligence, made false claims for business expenses in his income tax returns for the 2007 to 2010 years and that he also wilfully indicated the wrong signature date in his returns.
+[47] In the case at bar, I believe, as the respondent submits, the appellant chose to believe what suited him based on his Internet searches in order to evade his tax obligations. The respondent adds that, if the appellant had conducted searches on the CRA’s Web site, he would have learned that he was not entitled to deduct his living expenses and that he could not have Indian status within the meaning of the IA.
+[48] I find that the appellant’s arguments had no valid legal basis and that he acted with wilful blindness (gross negligence may result from the wrongdoer’s wilful blindness according to A.G. of Canada v. Villeneuve, 2004 FCA 20, 2004 DTC 6077, and Panini v. The Queen, 2006 FCA 224). He did not question what he read on the Internet and did not consult anyone to enlighten him on the subject. His deliberate actions in the circumstances evince greater neglect than simply a failure to use reasonable care.
+[49] For all these reasons, I therefore consider that the imposition of the gross negligence penalty on the appellant was justified in the circumstances. The appeal is dismissed and the assessments remain unchanged.
+Signed at Ottawa, Canada, this 10th day of April 2014.
+“Lucie Lamarre”
+Lamarre J.
+Translation certified true
+on this 29th day of May 2014
+Daniela Guglietta, Translator
+CITATION: 2014 TCC 107
+COURT FILE NO.: 2013-2513(it)i
+STYLE OF CAUSE: Christian Girard v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: February 5, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: April 10, 2014
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Valerie Messore
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] It should be noted in that respect that Justice Sheridan, of this Court, pointed out in a similar case that “[c]onveniently, any income earned by the human creature is attributed to the natural person while the obligation to pay tax rests exclusively with its legal doppelganger” (Kion v. The Queen, 2009 TCC 447, paragraph 3).
+[2] See also (Farm Business Consultants Inc. v. Canada, [1994] T.C.J. No. 760 (QL), [1994] 2 C.T.C. 2450).

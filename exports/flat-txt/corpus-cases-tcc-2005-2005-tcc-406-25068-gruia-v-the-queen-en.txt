@@ -1,0 +1,128 @@
+Title: Gruia v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25068/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-406-25068-gruia-v-the-queen-en.md
+Document type: case_law
+Last modified: 2005-06-28
+
+# Gruia v. The Queen
+
+- Citation: 2005 TCC 406
+- Decision date: 2005-06-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2511, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gruia v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-06-28
+Neutral citation
+2005 TCC 406
+File numbers
+2004-4212(GST)I
+Judges and Taxing Officers
+Louise Lamarre Proulx
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-4212(GST)I
+BETWEEN:
+GERARD PHILIP GRUIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+__________________________________________________________________
+Appeal heard on June 7, 2005, at Montreal, Quebec.
+Before: The Honourable Justice Louise Lamarre Proulx
+Appearances:
+Counsel for the Appellant:
+Christopher R. Mostovac
+Counsel for the Respondent:
+Pierre Zemaitis
+__________________________________________________________________
+JUDGMENT
+The appeal from the assessment of goods and services tax made pursuant to the Excise Tax Act, the notice of which is dated July 21, 2004, and bears number PM-11528, is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 28th day of June 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+Citation: 2005TCC406
+Date: 20050628
+Docket: 2004-4212(GST)I
+BETWEEN:
+GERARD PHILIP GRUIA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre Proulx, J.
+[1] This is an appeal under the informal procedure concerning an assessment made pursuant to section 323 of the Excise Tax Act (the "Act"). The notice of assessment bears the number PM-11528 and is dated July 21, 2004.
+[2] A statement of facts admitted was filed at the beginning of the hearing. It was drafted in French and reads as follows:
+1. Le présent appel concerne une cotisation de l'article 323 de la Loi sur la taxe d'accise (ci-après « la LTA » ), dont l'avis porte la date du 21 juillet 2004 et le numéro PM-11528;
+2. Que cette cotisation a été établie à l'égard de Gérard Philip Gruia en regard d'un montant de taxe nette (en matière de TPS) de 9 759,04 $ qui n'a pas été versé par la compagnie Peng Peng Inc. au receveur général, et ce, pour la période de janvier 2000;
+3. Que Peng Peng Inc. avait jusqu'au mardi 29 février 2000 inclusivement pour verser le montant de 9 759,04 $, ce qui n'a pas été fait;
+4. Que l'Appelant était un administrateur de Peng Peng Inc. depuis 1984 et l'était durant les mois de janvier à mars 2000;
+5. Que l'Intimée reconnaît que l'Appelant ne contrôlait plus la compagnie Peng Peng Inc. depuis le 22 mars 2000;
+6. Que l'Intimée reconnaît que de février 1991 à décembre 2000, la seule pénalité (33,98 $) et le seul intérêt (26,96 $) imposés à l'égard de Peng Peng Inc. pour remise tardive sont relatifs à la période de septembre 1998;
+7. Que l'Appelant reconnaît que la cotisation en litige n'est pas prescrite et que la réclamation prévue à l'article 323(2)c) a été établie dans le délai de six mois prévu audit article;
+8. Que le présent litige a trait au non-versement par Peng Peng Inc. pour la seule période de janvier 2000; le versement devait se faire au plus tard le 29 février 2000 inclusivement;
+9. Que, donc, la seule question en litige dans la présente affaire est de déterminer si, au sens de l'article 323(3) de la LTA, l'Appelant a agi avec soin, diligence et compétence pour prévenir le manquement de Peng Peng Inc. en regard de la période de janvier 2000 mentionnée ci-haut.
+[3] The question at issue is whether the Appellant, for the period of January 2000, exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[4] The corporation that failed to remit an amount of net tax is Peng Peng Inc., hereinafter called "the company". The Appellant was a director of the company at the time it was required to remit the amount of net tax in question.
+[5] The witnesses for the Appellant were as follows: the Appellant himself, who was the company's president; Mr. Barry Filger, the company's controller; and Mr. Jeff Gruia, the president's son and a company employee. For the Respondent, the witness was Mr. Herbert Davis, the bank's consultant.
+[6] The testimony of the Appellant was that ever since he had been operating the company, that is, from 1984 to 2000, he had never failed to remit what was owed the government. Insofar as the Act itself is concerned, the relevant period of operation was from February 1991 until January 2000. For all those years, the company acted in accordance with the Act as regards the remittance of net tax. The only error occurred in September 1998 and the amount was small.
+[7] The company's policy as to the remittance of amounts owed to the government was to write the cheque the week before the last day of the month in which the remittance was due. The cheque was sent to the government on the last day of the month. For the purposes of this appeal, that day was February 29, 2000.
+[8] The Appellant explained that in the fall of 1999 the company incurred losses on its sales. It tried to improve matters but did not succeed. In January 2000, the company had not met the projections given to the bank. In February 2000, the Appellant and his associate, Mr. Stein, injected an amount of $200,000 in the company to satisfy the bank. This does not seem to have been enough because, during the week before the last week of February, the bank had spoken to the company's president and informed him that it would send a financial consultant to assess and report on the bank's security position with respect to the company's indebtedness to the bank. This consultant was Mr. Herbert H. Davis. A draft of a unilateral undertaking had previously been sent to the company.
+[9] The consultant came to meet with the company's managers on February 28, 2000. The Appellant, as president, and Mr. Steve P. Stein, as the principal director, signed the unilateral agreement of acceptance of the consultant's mandate. It was produced as Exhibit A-1.
+[10] The Appellant stated that the company had asked its lawyer and its financial advisor to attend the meeting with the bank's consultant. Also present, were the Appellant, Mr. Stein and Mr. Filger, the controller. The Appellant said that Mr. Davis at first was guarded but polite. Twice, he called the bank during the meeting. Each time he returned, he was more agitated and brusque. At the end of the meeting, according to the Appellant, he made it clear that no cheques were to be issued without his approval.
+[11] The next day, that is, on February 29, the day the cheque to the government should have been issued, Mr. Davis came in with an assistant. Although the Appellant had signed the cheque in question and insisted that it should be sent, Mr. Davis did not give his approval. Subsequently, Mr. Davis remained on the company's premises and slowly became more deeply involved in the day-to-day activities of the company.
+[12] In reply to a question from the Respondent's counsel, the Appellant agreed that he could have overriden Mr. Davis's refusal, but the sanction would have been that the bank would have immediately enforced the payment of its loans.
+[13] Mr. Davis gave testimony confirming that HSBC Bank Canada had set up the meeting of February 28, 2000. His mandate was described in a document signed by the company and consisted mostly in assessing the value of the company's assets. At the very beginning of the meeting, Mr. Davis was surprised by the company's financial position. It was not what the bank thought it to be. The situation was desperate, indeed dire. This was not a company in an operating mode but a company in a liquidation mode.
+[14] He stated that he exercised no managerial control over the company. He was there only to assess the situation and advise the bank.
+[15] Responding to a question from the Appellant's counsel, he stated that from March 7, 2000, his mandate had evolved to taking a more active role in the management of the company. However, no new document was signed. He stated that the company was in a liquidation mode but, at the same time, kept a high payroll at the expense of the bank's security. The company's plans were to liquidate and to have the assets purchased by another corporation owned by the members of the same family.
+[16] Mr. Barry Filger, the then controller of the company confirmed that Mr. Davis, the bank's consultant, was not merely an observer and an advisor. All payments had to be previously vetted by him. Mr. Jeff Gruia confirmed this and added that in one instance, Mr. Davis showed anger towards his father, the president of the company.
+Argument
+[17] Counsel for the Appellant emphasized the fact that the Appellant's past conduct with respect to the remittance of what was owed the government was beyond reproach. He referred, in this regard, to the decision of the Federal Court of Appeal in Soper v. Canada, [1997] F.C.J. No. 881 (Q.L.), and more particularly to paragraph 29 of that decision:
+This is a convenient place to summarize my findings in respect of subsection 227.1(3) of the Income Tax Act. The standard of care laid down in subsection 227.1(3) of the Act is inherently flexible. Rather than treating directors as a homogeneous group of professionals whose conduct is governed by a single, unchanging standard, that provision embraces a subjective element which takes into account the personal knowledge and background of the director, as well as his or her corporate circumstances in the form of, inter alia, the company's organization, resources, customs and conduct. Thus, for example, more is expected of individuals with superior qualifications (e.g. experienced business-persons).
+[18] Counsel also submitted that the Appellant wanted to pay what was owed for the month of January 2000 but was prevented from doing so by the consultant sent by the bank. There was a reasonable apprehension that if the company had not heeded the consultant's views or complied with his directions, the bank would have immediately enforced the payment of its loans.
+[19] Counsel for the Respondent submitted that there was no evidence that the bank had refused to honour any of the company's cheques or that the consultant took control of the company as early as February 29, 2000. He further submitted that there had been an injection of funds into the company in February, that the company was continued through another company, which indicates there was access to significant funds, and that there is no evidence that cheques had indeed been issued by the company in payment of pay the net tax and that these cheques had not received the approval of the bank's consultant.
+Analysis and conclusion
+[20] The Respondent in her reply to the amended notice of appeal referred to a paragraph of the unilateral undertaking that reads as follows:
+We understand and agree that the Consultant is merely acting as Consultant to the Bank in this matter and in connection therewith will assume no decision making responsibilities nor have any management capacity. We further understand that the Consultant is not taking possession or control of any of the assets subject to the Bank's security.
+[21] I believe that it may be agreed that de jure control remained with the corporate directors.
+[22] However, I find that the penultimate and the last paragraphs of the said undertaking are quite informative as they describe well the delicate and perilous relationship between a debtor and his creditor when business is not going well and money is needed. Those paragraphs read as follows:
+We confirm our agreement that the Consultant shall have no conflict of interest in acting on behalf of the Bank should it become necessary to demand payment of our indebtedness to it and to enforce its security.
+We acknowledge that we have received no commitment from the Bank of any nature whatsoever and that the Bank reserves all its rights and recourses, including, inter alia, the right to demand payment of our indebtedness, to enforce its security and otherwise, at its entire discretion.
+[23] The evidence revealed that at the meeting of February 28, Mr. Davis, the bank's consultant, had immediately realized that the company's sales were at a very low level and that its expenses had not been sufficiently reduced. It is therefore not surprising that for financial reasons he would have closely monitored the company. I should think that the company would have had to adopt a very deferential attitude towards the bank's consultant in order to allow it to survive a little longer. The corporate decisions were not taken by Mr. Davis, but had the company not gone along with him, payment of the indebtedness could have been demanded at inopportune times, with worse results than would have been the case if a flexible attitude had been taken.
+[24] The evidence showed that there was no business decision by the company to continue operating and to partly finance its operations with public moneys. The decision was to liquidate. Operations did not go on for months thereafter. The month of January was the first month of default.
+[25] It has often been stated in the case law that the director's liability is not absolute. Subsection 323(3) of the Act relieves a director of his liability if he can show that he has exercised a certain degree of care, diligence and skill to prevent the failure of the company to remit the net tax collected on behalf of the Crown. The past conduct of the Appellant showed that he had put in place a good and efficient system for remitting money owed to the government, that he was aware of his obligations under the Act, and that he was also aware that public moneys should not be used for the company's ongoing operations and had always acted accordingly.
+[26] For these reasons, the appeal should be allowed, with costs.
+Signed at Ottawa, Canada, this 28th day of June, 2005.
+"Louise Lamarre Proulx"
+Lamarre Proulx, J.
+CITATION: 2005TCC406
+COURT FILE NO.: 2004-4212(GST)G
+STYLE OF CAUSE: Gerard Philip Gruia and The Queen
+PLACE OF HEARING: Montreal, Quebec
+DATE OF HEARING: June 7, 2005
+REASONS FOR JUDGEMENT BY: The Hon. Justice Louise Lamarre Proulx
+DATE OF JUDGMENT:
+APPEARANCES:
+Agent for the Appellant:
+Christopher R. Mostovac
+Counsel for the Respondent:
+Pierre Zemaitis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Christopher R. Mostovac
+Firm: Starnino Mostovac
+Montreal, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Ontario

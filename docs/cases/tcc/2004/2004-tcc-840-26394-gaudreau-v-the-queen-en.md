@@ -1,0 +1,251 @@
+---
+title: "Gaudreau v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26394/index.do"
+last_modified: "2004-12-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 840"
+citation2: ""
+neutral_citation: "2004 TCC 840"
+decision_date: "2004-12-22"
+language: "en"
+item_id: "26394"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3341
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:42:14.119000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "592d865effde6cac5804ded90fba3027a4ca2d11eea6ae1f4ea37263b6aa48bb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gaudreau v. The Queen
+
+- Citation: 2004 TCC 840
+- Decision date: 2004-12-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3341, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gaudreau v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-22
+Neutral citation
+2004 TCC 840
+File numbers
+2002-1826(IT)G
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-1826(IT)G
+BETWEEN:
+NORMAN GAUDREAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on April 29, 2004, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+Paul Lefebvre and Edward Rowe
+Counsel for the Respondent:
+Steven Leckie and Justine Malone
+____________________________________________________________________
+JUDGMENT
+The appeal instituted under the Income Tax Act ("Act") for the 1996 taxation year is allowed and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to a foreign tax credit of $7,379 pursuant to section 126 of the Act.
+The purported appeal instituted under the Act for the 1997 taxation year is quashed.
+The appeals instituted under the Act for the 1998 and 1999 taxation years are dismissed.
+The respondent is entitled to her costs.
+Signed at Ottawa, Canada, this 22nd day of December 2004.
+"Lucie Lamarre"
+Lamarre, J.
+Citation: 2004TCC840
+Date: 20041222
+Docket: 2002-1826(IT)G
+BETWEEN:
+NORMAN GAUDREAU,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre, J.
+[1] These are appeals from assessments made by the Minister of National Revenue ("Minister") under the Income Tax Act ("Act") for the 1996, 1997, 1998 and 1999 taxation years. In filing his income tax returns for those years, the appellant claimed deductions pursuant to subparagraph 110(1)(f)(i) of the Act for amounts exempt from income tax in Canada because of a provision contained in a tax convention, namely Article 4 of the Canada-Egypt Income Tax Convention ("Convention"). The amounts so claimed are $39,179 for 1996, $246,377 for 1997, $355,777 for 1998 and $292,404 for 1999.
+[2] In assessing the appellant, the Minister disallowed the deduction of these amounts claimed under subparagraph 110(1)(f)(i) of the Act and also included in his income for those years the amounts of $7,379, $29,191, $46,975 and $47,930 respectively. These latter amounts correspond to the income tax paid on the appellant's behalf to the country of Egyptby his employer in those years. Furthermore, the Minister allowed foreign tax credits under section 126 of the Act, in the amounts of $46,975 and $47,930 for the taxation years 1998 and 1999 respectively.
+[3] In so assessing the appellant, the Minister took the position that the appellant was a resident of Canada during the years at issue and was liable to tax on his income from sources inside and outside Canada. The Minister was also of the view that although the appellant was a resident of Egypt as well in those years, his personal and economic relations (his centre of vital interests) remained closer to Canada than Egypt and therefore he was liable to tax in Canada, and not in Egypt, by virtue of Article 4(2) of the Convention. The Minister therefore assessed the appellant in accordance with section 2 of the Act. The Minister was equally of the view that the appellant was properly assessed in accordance with paragraph 6(1)(a) of the Act as a result of the payment of his Egyptian taxes by his employer in the same years.
+[4] The appellant submits that he was not ordinarily resident in Canadawithin the meaning of subsection 250(3) of the Act during the period in which he lived and worked in Egypt, from October 3, 1996 to April 1, 2000. The appellant also submits that if he is considered a resident of Canada during those years, he is also deemed to be a resident of Egyptpursuant to Article 4(2) of the Convention by reason of the fact that his personal and economic relations (centre of vital interests) were closer to Egypt than to Canadaat that time. Accordingly, the appellant submits that, pursuant to Article 15 of the Convention, he was taxable only in Egypt during the period he was residing there. Finally, the appellant submits that if he is considered a resident of Canada and, pursuant to Article 4 of the Convention, he is taxed as a resident of Canada rather than of Egypt, full foreign tax credit relief should be accorded him pursuant to section 126 of the Act for all the taxation years that he worked in Egypt, and not only for 1998 and 1999.
+[5] On this latter point, the Minister concedes that the appellant should be allowed a foreign tax credit in the amount of $7,379 for 1996 if he is taxable in Canada.
+[6] However, with respect to 1997 both parties agree that the appeal should be quashed because the appellant did not serve the Minister with a notice of objection for that year, such service being under section 169 of the Act a condition precedent to the filing of an appeal.
+[7] The relevant portions of the statutory provisions relied upon by both parties herein are reproduced below.
+INCOME TAX ACT
+PART I
+INCOME TAX
+DIVISION A - Liability for Tax
+SECTION 2: Tax payable by persons resident in Canada.
+(1) An income tax shall be paid, as required by this Act, on the taxable income for each taxation year of every person resident in Canada at any time in the year.
+. . .
+SECTION 6:Amounts to be included as income from office or employment.
+(1) There shall be included in computing the income of a taxpayer for a taxation year as income from an office or employment such of the following amounts as are applicable:
+4 6(1)(a) 3
+(a) Value of benefits - the value of board, lodging and other benefits of any kind whatever received or enjoyed by the taxpayer in the year in respect of, in the course of, or by virtue of an office or employment . . .
+DIVISION C - Computation of Taxable Income
+SECTION 110: Deductions permitted.
+(1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable:
+. . .
+4 110(1)(f) 3
+(f)Deductions for payments - any social assistance payment made on the basis of a means, needs or income test and included because of clause 56(1)(a)(i)(A) or paragraph 56(1)(u) in computing the taxpayer's income for the year or any amount that is
+(i) an amount exempt from income tax in Canada because of a provision contained in a tax convention or agreement with another country that has the force of law in Canada.
+. . .
+DIVISION E - Computation Of Tax
+SECTION 126: Foreign tax deduction.
+(1) A taxpayer who was resident in Canada at any time in a taxation year may deduct from the tax for the year otherwise payable under this Part by the taxpayer an amount equal to
+(a) such part of any non-business-income tax paid by the taxpayer for the year to the government of a country other than Canada (except, where the taxpayer is a corporation, any such tax or part thereof that may reasonably be regarded as having been paid by the taxpayer in respect of income from a share of the capital stock of a foreign affiliate of the taxpayer) as the taxpayer may claim,
+not exceeding, however . . .
+DIVISION J - Appeals to the Tax Court of Canada and the Federal Court of Appeal
+SECTION 169: Appeal.
+(1) Where a taxpayer has served notice of objection to an assessment under section 165, the taxpayer may appeal to the Tax Court of Canada to have the assessment vacated or varied after either
+(a) the Minister has confirmed the assessment or reassessed, or
+(b) 90 days have elapsed after service of the notice of objection and the Minister has not notified the taxpayer that the Minister has vacated or confirmed the assessment or reassessed,
+but no appeal under this section may be instituted after the expiration of 90 days from the day notice has been mailed to the taxpayer under section 165 that the Minister has confirmed the assessment or reassessed.
+. . .
+PART XVII - Interpretation
+SECTION 250: . . .
+4 250(3) 3
+(3) Ordinarily resident. In this Act, a reference to a person resident in Canada includes a person who was at the relevant time ordinarily resident in Canada.
+CANADA-EGYPT INCOME TAX CONVENTION
+. . .
+Article 4 - Resident
+1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the laws of that State, is liable to tax therein by reason of his domicile, residence, place of management or any other criterion of a similar nature.
+2.Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his status shall be determined as follows:
+(a) he shall be deemed to be a resident of the State in which he has a permanent home available to him; if he has a permanent home available to him in both States, he shall be deemed to be a resident of the State with which his personal and economic relations are closer (centre of vital interests);
+(b) if the State in which he has his centre of vital interests cannot be determined, or if he has not a permanent home available to him in either State, he shall be deemed to be a resident of the State in which he has an habitual abode;
+(c) if he has an habitual abode in both States or in neither of them, he shall be deemed to be a resident of the State of which he is a national;
+(d) if he is a national of both States or of neither of them, the competent authorities of the Contracting States shall settle the question by mutual agreement.
+. . .
+Article 15 - Dependent Personal Services
+1. Subject to the provisions of Articles 16, 18 and 19, salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
+2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in the other Contracting State shall be taxable only in the first-mentioned State if
+(a) the recipient is present in the other Contracting State for a period or periods not exceeding in the aggregate 90 days in the calendar year concerned, and
+(b) the remuneration is paid by, or on behalf of, an employer who is not a resident of the other State, and
+(c) the remuneration is not borne by a permanent establishment or a fixed base which the employer has in the other State.
+Issue
+[8] The question at issue is whether the appellant was ordinarily resident in Canadaduring the period from October 1996 to April 2000, when he worked in Egyptunder a contract of employment with Babcock & Wilcox Industries Ltd. ("Babcock & Wilcox"). In the affirmative, and because it is admitted by both parties that the appellant was a resident of Egypt during that period, the tie-breaker rules in Article 4 of the Convention will apply, as the appellant would then have been a resident of both countries. The question in that event will be whether the appellant's personal and economic relations (centre of vital interests) were closer to Canada than Egyptin that same period.
+[9] Both parties agree that if this is the case the appeals should be dismissed for 1998 and 1999, and allowed for 1996 only to the extent of allowing the foreign tax credit of $7,379 under section 126 of the Act. It should be remembered here that the appeal for 1997 will be quashed on procedural grounds.
+[10] The respondent concedes that if the appellant shows that his personal and economic relations were closer to Egyptthan Canadaduring the period at issue, the appeals should be allowed for the taxation years 1996, 1998 and 1999.
+Facts
+[11] The appellant is a Canadian citizen. He is a mechanical engineer who has been working for the past 20 years for businesses specializing in the building of power plants and desalination plants. In that connection, he said he had worked in Saudi Arabiafor many years in the past.
+[12] In the spring of 1996, he was working for Babcock & Wilcox on the construction of a plant in Windsor, Ontario, when he was asked by his employer to work on a contract in Egyptas a consortium site manager. After spending four months on the Egyptian contract in the employer's office in Canada, he left this country in September 1996 for Egyptand returned to Canadain April 2000, when the contract was completed.
+[13] On August 6, 1996, the appellant signed an employment agreement that was filed as Exhibit A-1, Tab 19. On the agreement the space for the name of the employer is blank. The first condition states that the term of the employment is for an indefinite period. However, under the employer's representative's signature, it is indicated that the date of return will be in approximately four years.
+[14] The same agreement stipulates that in case of illness or injury the appellant will have coverage at least equal to that provided by the Workers' Compensation Act of the provinceof Ontario. The appellant also acknowledged, in this agreement, his responsibility for payment of income taxes for both Canadaand Egypt. He was, moreover, subject to the employer's plan of tax equalization, which attempted to provide, as far as practicable, that Canadian expatriates pay neither a greater nor lesser tax as a result of the employment abroad than if they had remained in Canada. Under the terms of the agreement, the appellant was paid an expatriation premium equivalent to 15 per cent of his base pay as an allowance for accepting foreign duty. This premium was to be paid for the duration of the foreign assignment. The agreement also provided that the employer would furnish air transportation for the appellant as follows: at the beginning of the contract, from his home location to his new work location; during his assignment, after 12 months, round-trip transportation to his home location and back; and at the end of the contract, transportation to his home location.
+[15] The appellant also filled out for the employer in July 1996 a questionnaire (Exhibit A-1, Tab 18) in which he stated that the duration of the assignment in Egypt would be 48 months. He indicated in the questionnaire that he owned a house and a vacant land in Canada and that he would keep his Canadian driving permit and was eligible for provincial health insurance in Canada.
+[16] At the hearing, the appellant said that he and his wife owned a paternal house in Timmins, Ontario, inherited from his wife's parents, who made them promise that they would pass down the house to their own children. When he and his wife left for Egypt, they did not lease the house. They owned a lot of keepsakes (artefacts and mementos purchased in different countries over the years) that they did not want to put in storage. They left all their furniture in their house in Timmins. They did not keep their telephone directory listing but the house was protected with an alarm system that was hooked up to a phone line in the house. The appellant and his wife had people who would look after the house regularly. These people had a power of attorney to pay the bills. There was someone who would cut the grass in summer and someone who would shovel the snow in wintertime. The mail was rerouted to the people looking after the house.
+[17] The appellant's wife, who moved with her husband to Egypt, came back at least twice in the summertime for a period of two to three weeks and stayed in their house in Timmins. She said in her testimony that it was too hot to stay in Alexandriain summer, where they rented a semi-furnished apartment on a yearly basis. Before coming back to Canadafor good, they sold whatever they had purchased for their apartment in Alexandria.
+[18] During his stay in Egypt, the appellant did not really have a social life. He was working almost seven days a week and spent his spare time with his wife. They have three adult children who live in Canada and one of them went to visit once during the assignment in Egypt. The appellant kept his two Canadian bank accounts. His salary was deposited in one of these accounts by his employer's Canadian branch. The appellant said that this salary was, however, charged back to the employer's branch in Egypt. (I note, however, that there is no indication to that effect in the employment agreement (Exhibit A-1, Tab 19), which does not even mention the name of the employer.) All Canadian bills were paid through this Canadian bank account. The appellant also had an expense account for work and a personal account in Egypt in which he kept a very small amount of money. He did not own a car there, as his employer provided him with one, and he obtained his Egyptian driver's licence in the fall of 1997. He himself did not own a car in Canadabut his wife did and it was stored at the house in Timmins. The car was insured for fire and theft but not for third party liability. He also had a Registered Retirement Savings Plan ("RRSP"), credit cards and a safety deposit box in Canada. While in Egypt, he received Canada Pension Plan and Canadian Old Age Security payments (see tax returns filed for 1998 and 1999 in Exhibit A-1, Tabs 2 and 3). The appellant always kept his Canadian passport and it is my understanding that he did not ask for an Egyptian passport.
+[19] The appellant filled out questionnaires for the determination of residency status (Form NR73) for each year he was abroad and these were filed with his tax returns in Canada. In these questionnaires, he indicated that he was going to live outside Canada for four years and that he would retire in Canadaafter his assignment. He also indicated in the first questionnaire (1996) that he would be maintaining eligibility for provincial hospitalization and medical insurance coverage and at the same time would have medical/hospitalization coverage abroad provided by his employer (Exhibit A-1, Tab 14). In the other questionnaires, he only indicated that he was covered under his employer's insurance while living outside Canada(Exhibit A-1, Tabs 15 and 16 and Exhibit A-2).
+[20] The appellant did not recall coming back to Canada during his stay in Egypt, but it seems from the way he filled out the NR73 questionnaires that he returned to Canada at least once for a period of 20 to 30 days (Exhibit A-1, Tab 16).
+[21] In April 2000, the employer closed down its office in Egyptand the appellant did not look for another job in that country but returned to Canada.
+Analysis
+I. Was the appellant ordinarily resident in Canadaduring the relevant period?
+[22] The leading case on the matter of the residency of an individual for income tax purposes is the decision of the Supreme Court of Canada in Thomson v. M.N.R., [1946] S.C.R. 209. I will refer to some extracts from this case that are relevant here. Estey J. defined the expression "ordinarily resident" as follows at pages 231-32:
+A reference to the dictionary and judicial comments upon the meaning of these terms indicates that one is "ordinarily resident" in the place where in the settled routine of his life he regularly, normally or customarily lives. One "sojourns" at a place where he unusually, casually or intermittently visits or stays. In the former the element of permanence; in the latter that of the temporary predominates. The difference cannot be stated in precise and definite terms, but each case must be determined after all of the relevant factors are taken into consideration, but the foregoing indicates in a general way the essential difference. It is not the length of the visit or stay that determines the question. . . .
+It is well established that a person may have more than one residence
+. . . .
+[23] Rand J., expressed himself as follows at pages 224-25:
+The expression "ordinarily resident" carries a restricted signification, and although the first impression seems to be that of preponderance in time, the decisions on the English Act reject that view. It is held to mean residence in the course of the customary mode of life of the person concerned, and it is contrasted with special or occasional or casual residence. The general mode of life is, therefore, relevant to a question of its application.
+For the purposes of income tax legislation, it must be assumed that every person has at all times a residence. It is not necessary to this that he should have a home or a particular place of abode or even a shelter. He may sleep in the open. It is important only to ascertain the spatial bounds within which he spends his life or to which his ordered or customary living is related. Ordinary residence can best be appreciated by considering its antithesis, occasional or casual or deviatory residence. The latter would seem clearly to be not only temporary in time and exceptional in circumstance, but also accompanied by a sense of transitoriness and of return.
+But in the different situations of so-called "permanent residence", "temporary residence", "ordinary residence", "principal residence" and the like, the adjectives do not affect the fact that there is in all cases residence; and that quality is chiefly a matter of the degree to which a person in mind and fact settles into or maintains or centralizes his ordinary mode of living with its accessories in social relations, interests and conveniences at or in the place in question. It may be limited in time from the outset, or it may be indefinite, or so far as it is thought of, unlimited. On the lower level, the expressions involving residence should be distinguished, as I think they are in ordinary speech, from the field of "stay" or "visit".
+[24] Accordingly, as suggested by counsel for the appellant, the question is to determine where, during the period at issue, the appellant, in his settled routine of life, regularly, normally or customarily lived. One must examine the degree to which the appellant in mind and fact settled into, maintained or centralized his ordinary mode of living, with its accessories in social relations, interests and conveniences, at or in the place in question.
+[25] This is mainly a question of fact. In The Queen v. Reeder, 75 DTC 5160 (F.C.T.D.), referred to by the appellant, the court listed some factors considered to be material in determining the question of fiscal residence, at page 5163:
+. . . While the list does not purport to be exhaustive, material factors include:
+a. past and present habits of life;
+b. regularity and length of visits in the jurisdiction asserting residence;
+c. ties within that jurisdiction;
+d. ties elsewhere;
+e. permanence or otherwise of purposes of stay abroad.
+The matter of ties within the jurisdiction asserting residence and elsewhere runs the gamut of an individual's connections and commitments: property and investment, employment, family, business, cultural and social are examples, again not purporting to be exhaustive. Not all factors will necessarily be material to every case. They must be considered in the light of the basic premises that everyone must have a fiscal residence somewhere and that it is quite possible for an individual to be simultaneously resident in more than one place for tax purposes.
+[26] In his submissions, counsel for the appellant put much reliance on the case of Bostonv. The Queen, 98 DTC 1124 (T.C.C.). In that case, the taxpayer resided in Canada until he moved to Malaysiain 1988 to take up a new position with his employer. He left for Malaysiaalone, and his wife, with whom he was having marriage difficulties, stayed in their house in Edmonton, Alberta, with their son. The taxpayer remained on his Canadian employer's payroll but his salary was charged back to his employer in Malaysia. He moved into a house owned by his employer, for which he was charged rent. He purchased a car in Malaysiaand acquired a Malaysian driver's license. He had real estate and other investments in Canada. Although the original contract was for a minimum three-year period, the taxpayer stayed in Malaysiafor his employer for seven years. Judge Mogan of this Court concluded that the taxpayer was not ordinarily resident in Canada. Judge Mogan considered the decision by Judge Sarchuk of this Court in Ferguson v. M.N.R., 89 DTC 634, in which the taxpayer went to Saudi Arabiaunder a series of one-year contracts and was found to be resident in Canada. In Boston, supra, Judge Mogan distinguished Ferguson, supra, from the appeal before him on the basis that (at page 1128):
+. . . the Appellant went to Malaysia for a minimum period of three years; he had significant employment responsibilities there; he hoped to stay on after three years if he became manager of the Port Dickson Refinery; and he became active in the residential community of Port Dickson.
+[27] The Boston case was considered in McFadyen v. The Queen, 2000 DTC 2473 (T.C.C.), by Chief Judge Garon and distinguished on the basis that in Boston the taxpayer had spent more than six years abroad, while Mr. McFadyen lived in Japan for only about three years. In McFadyen, this Court came to the conclusion that the taxpayer maintained ties with Canada that were largely economic but partly personal (family ties, real property, furniture and appliances, bank accounts, a safety deposit box, an RRSP, credit cards, and a provincial driver's licence), and hence considered him to have been ordinarily resident in Canada during the period he was in Japan. The McFadyen decision was confirmed by the Federal Court of Appeal (McFadyen v. The Queen, 2003 DTC 5015).
+[28] The appellant also referred to Nicholson v. The Queen, 2004 DTC 2013 (T.C.C.), a case in which the taxpayer was recruited by a corporation from the United States to work in the United Kingdom ("UK") where he was to take over the employer corporation's business operations in Europe. The issue was whether the taxpayer was resident in Canadaduring the period (1½ years) he lived in the UK. The Court concluded that although he maintained his participation in the provincial health program and kept the matrimonial home, he was not a resident of Canadaduring that period. The Court based its decision on the fact, among others, that the taxpayer had no intention to return to Canada when he accepted the position in the UK. He anticipated rather an eventual move to the United States. He and his first wife were separated and he kept his Canadian bank account from which he made periodical payments to her. He lived with his new wife in the UKwhere her child attended school.
+[29] I find the Nicholson case to be distinguishable from the present situation. Indeed, on the basis of the above case law, I am of the view that the appellant was ordinarily resident in Canadaduring the period at issue.
+[30] As Rip J. said in his recent decision in Snow v. Canada, [2004] T.C.J. No. 267 (Q.L.), at paragraph 18:
+¶ 18 A person may be resident of more than one country for tax purposes. The nature of a person's life and the frequency he or she comes to Canada are important matters to consider in determining one's residence. [See Note 2 below] The words "ordinarily resident" in s.s. 250(3) refer to the place where, in the person's settled routine of life, the person normally or customarily lives. [See Note 3 below] The intention of a taxpayer, while obviously relevant in determining the "settled routine" of a taxpayer's life, is not determinative. [See Note 4 below] A person's temporary absence from Canada does not necessarily lead to a loss of Canadian residence if a family household remains in Canada, or possibly even if close personal and business ties are maintained in Canada. [See Note 5 below]
+_____________________________
+Note 2: Thomson, supra, 213-4, per Kerwin, J. [Thomson v. M.N.R., [1946] S.C.R. 209.]
+Note 3: Thomson, supra, 231 per Estey, J.
+Note 4: Peter W. Hogg, Joanne E. Magee and Jinyan Li, Principles of Canadian Income Tax Law, 4th ed. p.p. 60-62, Carswell: Toronto.
+Note 5: Hogg, supra, p. 62.
+[31] In the present case, I recognize that, according to the evidence presented before me, the appellant did not frequently come to Canadawhile he was working in Egypt. However, it is clear from the evidence that the appellant and his wife left Canadaon a temporary basis only.
+[32] It is clear from the employment agreement that the appellant was given an assignment in Egyptfor which he was even paid an expatriation premium for the duration thereof. The agreement provided for air transportation back and forth between the appellant's home location and his work location. The appellant kept all his assets in Canada and before leaving Canada made all the necessary arrangements to have someone look after those assets. His purpose in accepting the contract in Egyptwas not to give up his ties with Canadabut mainly to earn a living. The appellant agreed to go there on a contractual basis and did not sever his attachments to, or his links with, Canada. The appellant did not in mind and fact abandon his general mode of life in Canada. As a matter of fact, the house in Timminswas available at all times as a place in which he could customarily live. To use the words of Rand J. in the Thomson case, he and his wife maintained their ordinary mode of living, with its accessories in social relations, interests and conveniences, in Canada. If I may distinguish the present case from the Boston case, the duration of the contract here was a lot shorter and the appellant did not demonstrate that he became active in the community in which he lived in Egypt. He was only there to do his work. Finally, the Boston case was considered but not followed in the McFadyen case, which was affirmed by the Federal Court of Appeal.
+[33] I adopt the reasoning of Mahoney J. in the Reeder case, at page 5163:
+The Defendant was at a stage in life when he was highly mobile. He was able, willing, even eager, to travel. In that, he was not atypical of his contemporaries and the relevant factors must be considered in that context. It is not contested that he was, before March 29, 1972 and has, since December 1, 1972, been resident in Canada. Throughout, his ties of whatever description have all been with Canada, save only those ties, undertaken during the term of his absence, which were necessary to permit him and his family to enjoy an acceptable and expected lifestyle while in France. That absence was temporary even though, strictly speaking, indeterminate in length. The ties in France were temporarily undertaken and abandoned on his return to Canada.
+I am satisfied that had the Defendant been asked, while in France, where he regularly, normally or customarily lived, Canada must have been the answer. I find that the Defendant was resident in Canadathroughout all of 1972.
+[34] In my view, the same can be said here. Throughout his sojourn in Egypt, the appellant's ties were all with Canada, save only those ties, undertaken during the term of his absence, which were necessary to permit him and his wife to enjoy an acceptable and expected lifestyle while in Egypt. As a matter of fact, the ties in Egypt were temporarily undertaken and abandoned on his return to Canada. As Rip J. stated in the above cited passage from Snow, supra, a person's temporary absence from Canadadoes not necessarily lead to a loss of Canadian residence when close personal and economic ties are maintained in Canada. I therefore conclude that the appellant was ordinarily resident in Canadaduring the years at issue.
+II. Tie-breaker rules: Article 4(2) of the Convention
+[35] The appellant having been a resident of Canada and of Egyptduring the period at issue, the tie-breaker rules of Article 4 of the Convention, referred to previously in these reasons, must be considered.
+[36] The parties do not dispute the fact that the appellant had a permanent home available for use in both countries. Under paragraph 2 of Article 4 of the Convention, since he had a permanent home available to him in both states, he shall be deemed to have been a resident of the state with which his personal and economic relations (centre of vital interests) were closer during the relevant period.
+[37] The OECD Model Tax Convention on Income and on Capital has received worldwide recognition as a basic reference document in the application and interpretation of tax conventions (see The Queen v. Crown Forest Industries Limited et al., 95 DTC 5389 (S.C.C.), at page 5398). In its condensed version of January 28, 2003, it is stated in paragraph 15 of the "Commentary on Article 4" that:
+15. If the individual has a permanent home in both Contracting States, it is necessary to look at the facts in order to ascertain with which of the two States his personal and economic relations are closer. Thus, regard will be had to his family and social relations, his occupations, his political, cultural or other activities, his place of business, the place from which he administers his property, etc. The circumstances must be examined as a whole, but it is nevertheless obvious that considerations based on the personal acts of the individual must receive special attention. If a person who has a home in one State sets up a second in the other State while retaining the first, the fact that he retains the first in the environment where he has always lived, where he has worked, and where he has his family and possessions, can, together with other elements, go to demonstrate that he has retained his centre of vital interests in the first State.
+[38] Thus, if a person who has a home in one state sets up a second in the other state while retaining the first, the fact that he retains the first in the environment where he has always lived, where he has worked, and where he has his family and possessions, can, together with other elements, go to demonstrate that he has retained his centre of vital interests in the first state.
+[39] Here, it is true that the appellant said that he had worked abroad for a number of years during his career, but it is my understanding that it was in circumstances similar to those that took him to Egypt. He and his wife always kept their house and all their possessions in Canada. Their family always lived in Canada. It is my perception that they never intended to give up their economic and personal relations with Canada. In fact, the appellant did not really maintain any economic relations with Egyptapart from those he needed to have in order to meet his day-to-day living expenses. He rented an apartment there on a yearly basis, kept a bank account solely for his needs over there, did not purchase a car, and obtained his driver's licence simply so as to be able to commute to work in Egypt. That the appellant agreed to work in Egypt on an approximately four-year contract does not alter the fact that his centre of vital interests remained in Canada.
+[40] I therefore conclude, considering all the facts, that the appellant's centre of vital interests was closer to Canada than Egypt during the years 1996, 1998 and 1999.
+[41] The appellant was therefore taxable in Canadaon his income from sources inside and outside Canada. He was granted a foreign tax credit under section 126 for 1998 and 1999. As conceded by the respondent, he is entitled as well to a foreign tax credit of $7,379 for 1996.
+[42] The appeal for the 1996 taxation year is therefore allowed and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that the appellant is entitled to a foreign tax credit of $7,379 pursuant to section 126 of the Act.
+[43] The purported appeal for the 1997 taxation year is quashed.
+[44] The appeals for the 1998 and 1999 taxation years are dismissed with costs to the respondent.
+Signed at Ottawa, Canada, this 22nd day of December 2004.
+"Lucie Lamarre"
+Lamarre, J.
+CITATION:
+2004TCC840
+COURT FILE NO.:
+2002-1826(IT)G
+STYLE OF CAUSE:
+Norman Gaudreau v. Her Majesty The Queen
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+April 29, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+December 22, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Paul Lefebvre and Edward Rowe
+Counsel for the Respondent:
+Steven Leckie and Justine Malone
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Paul Lefebvre and Edward Rowe
+Firm:
+Couzin Taylor
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

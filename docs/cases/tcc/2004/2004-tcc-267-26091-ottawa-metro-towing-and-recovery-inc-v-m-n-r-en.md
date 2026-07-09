@@ -1,0 +1,199 @@
+---
+title: "Ottawa-Metro Towing and Recovery Inc. v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26091/index.do"
+last_modified: "2004-04-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 267"
+citation2: ""
+neutral_citation: "2004 TCC 267"
+decision_date: "2004-04-02"
+language: "en"
+item_id: "26091"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4152
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:38:14.419000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8145775cf32707dd896ec5282828715e0cb8b66c4fef32dae57a2f3ea68dcbc8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ottawa-Metro Towing and Recovery Inc. v. M.N.R.
+
+- Citation: 2004 TCC 267
+- Decision date: 2004-04-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4152, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ottawa-Metro Towing and Recovery Inc. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-04-02
+Neutral citation
+2004 TCC 267
+File numbers
+2003-297(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-297(EI)
+BETWEEN:
+OTTAWA METRO TOWING AND RECOVERY INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 12, 2003, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+George Rontiris and Trisha Gain
+Counsel for the Respondent:
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the October 7, 2002, decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada, this 2nd day of April 2004.
+"Lucie Lamarre"
+Lamarre, J.
+Docket: 2003-298(CPP)
+BETWEEN:
+OTTAWA METRO TOWING AND RECOVERY INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on September 12, 2003, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Counsel for the Appellant:
+George Rontiris and Trisha Gain
+Counsel for the Respondent:
+Carole Benoit
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 28(1) of the Canada Pension Plan is dismissed and the October 7, 2002, decision of the Minister of National Revenue is confirmed.
+Signed at Ottawa, Canada this 2nd day of April 2004.
+"Lucie Lamarre"
+Lamarre, J.
+Citation: 2004TCC267
+Date: 20040402
+Docket: 2003-297(EI)
+2003-298(CPP)
+BETWEEN:
+OTTAWA METRO TOWING AND RECOVERY INC.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre, J.
+[1] These are appeals from a decision of the Minister of National Revenue ("Minister"), who determined that the appellant was liable to pay Canada Pension Plan contributions and employment insurance premiums on the remuneration it paid to Abdul Hamid Wehbe, Ahmad Wehbe, Khaled Wehbe and Hussein Wehbe ("Workers") as of January 1, 2001. The basis of that decision is that the Workers were employed under a contract of service and therefore were employed by the appellant in pensionable employment within the meaning of paragraph 6(1)(a) and the definition of "employment" in subsection 2(1) of the Canada Pension Plan and in insurable employment within the meaning of paragraph 5(1)(a) of the Employment Insurance Act ("Act"). Furthermore, this being a case where the Workers were all related to the appellant, the Minister also determined that it was reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing at arm's length and therefore concluded that the Workers' employment was not excluded from insurable employment pursuant to paragraphs 5(2)(i) and 5(3)(b) of the Act.
+[2] The issue therefore is whether the Workers were employed in pensionable and insurable employment while employed by the appellant from January 1, 2001.
+[3] The appellant provides towing services in the city of Ottawa and the surrounding area. Its controlling shareholder and president is Webb Wehbe, who owns 51 per cent of the shares in the appellant. He is related to the four Workers as follows: Abdul Hamid is Webb's father, Khaled is his uncle and Ahmad and Hussein are his brothers.
+[4] According to Webb Wehbe, during the period at issue, the appellant owned approximately 14 tow trucks and employed 14 drivers under a contract of service. Those employees were required to report for duty at 6:00 a.m. for a twelve-hour shift and were paid an hourly rate varying from $9 to $10 an hour. They were paid time and a half for overtime and were covered by an employee benefit package (health and welfare plan). They were provided with a uniform and a fully equipped tow truck, and all expenses related to that vehicle were paid by the appellant.
+[5] Webb Wehbe testified that, the towing business being in operation 24 hours a day, seven days a week, the appellant also contracted with service providers on an as-needed basis when its own tow truck operators had reached maximum capacity and were thus unable to respond to all of the calls received. Independent contractors could call the dispatcher and have their names put on a rotation list for such work.
+[6] While the regular employee drivers were not allowed to decline any calls when on duty, Webb Wehbe testified that the independent service providers did not have to accept a call if they were not interested. According to him, those independent contractors did not have set hours of work, had no obligation to work, and were free to come and go as they pleased. They were reached on their cellular phones, for which they themselves paid the expenses. Contrary to the employee drivers, the contractors were not paid for overtime and were not included in any benefit plans. Webb Wehbe testified that the four Workers in question in this appeal were considered as independent contractors.
+[7] Indeed, evidence was adduced that each Worker entered into an agreement with the appellant on January 1, 2001. According to Webb Wehbe, the appellant's intention was to enter into an agreement with a towing service provider who would facilitate things for the appellant by providing services on an as-and-when-needed basis.
+[8] Except in the case of Hussein Wehbe, those agreements, entitled "Ottawa Metro Towing Broker TruckMan Agreement" ("Agreements" or "Agreement"), were signed both by Webb Wehbe for the appellant and by the Worker. In the case of Hussein Wehbe, the copy of the Agreement filed in evidence (Exhibit A-1) shows that it was signed before a witness (whose name was Shawn Arthur, according to Webb Wehbe) but was not signed by anyone for the appellant. Webb Wehbe testified that he did not know why he did not sign Hussein's Agreement and that it must have been an oversight.
+[9] None of the Workers were operating under a business name and they were all referred to as the "truckman" in the four Agreements. As a matter of fact, the statement of business activities filed with the 2001 tax returns of three of the Workers indicates the name and address of the appellant as the name and address of their business. (See Exhibits R-2, R-3 and R-4.)[1]
+[10] The four Agreements state that each truckman owns or possesses a tow truck (which is defined as a motor vehicle appropriately licensed for the business of towing motor vehicles) that he is willing to use in furtherance of the appellant's business at his discretion and under his control. The Agreements stipulate that the truckman must maintain insurance on the tow truck at his own expense and that he is required to pay the deductible portion of any insurance claim. Moreover, the truckman is responsible for all damage to vehicles and property of the appellant caused by a vehicle, employee or agent of the truckman.
+[11] Hussein and Ahmad Wehbe testified that their tow trucks were registered and insured in the name of the appellant because it cost them less than it would have to have had them registered and insured in their own names. They both said that they paid for their trucks with money loaned to them without interest by their father, Abdul Hamid Wehbe. The latter testified that he had previously owned a restaurant for many years. After his restaurant was destroyed by fire, he received a $200,000 insurance settlement and loaned this money to his sons and to the appellant. Hussein testified that he purchased his truck in 1999 for $70,000 and Ahmad said he traded his old truck in for a new one in 1997. He said the new truck was worth $30,000 and the trade-in allowance was $20,000, leaving a balance of $10,000 to pay. The father, Abdul Hamid, said that he paid $60,000 cash for his own truck and started to work in the towing business in 2001. Webb Wehbe testified that a tow truck's value is in the vicinity of between $50,000 and $80,000. With respect to the insurance on the trucks, both Hussein and Ahmad testified that they reimbursed the appellant the cost thereof. Hussein stated that he paid the appellant $2,600 for the year for insurance and did so in cash, bi-monthly or weekly, but did not claim that amount as an expense in his tax return. Ahmad said that the cost of insurance was included in the expenses he had claimed against his income for tax purposes.
+[12] The four Agreements also state in the recitals that the appellant desires to use the services of the truckman or "an approved nominee of the TRUCKMAN, as operator of the Tow Truck". Each truckman is in addition required by his Agreement to deliver to the appellant on a daily basis all revenues received for work performed in the appellant's name, and the truckman is in turn to be paid by the appellant for the services he performed for it (see section 1 of the Agreements in Exhibit A-1). Section 3 of the Agreements (Exhibit A-1) stipulates the following:
+3. REMUNERATION OF THE TRUCKMAN
+A) The Company agrees to pay [and] the TRUCKMAN agrees to accept Compensation as set forth hereto [sic]. Cash in sheets handed in by TRUCKMAN will be deemed as invoices and payment for services to the truck will be calculated for work done up to and including one week prior to payment date.
+B) The TRUCKMAN compensation can be changed by the Company at anytime upon 7 days written notice to the TRUCKMAN.
+[13] With respect to remuneration, all the Workers testified that they set their own price for a call. However, Webb Wehbe explained that the appellant usually paid its contractors 60 per cent of the amount collected for each call. Furthermore, although Hussein now denies it, Mr. Neil Manwell, a Canada Customs and Revenue Agency ("CCRA") programs officer, testified that Hussein had mentioned to him during the audit that he was paid by cheque a flat rate of $600 per week that covered his fees for his services and the cost of his fuel. The only income declared in Hussein's tax return is from the appellant and amounts to $31,600 in 2001 (Exhibit R-2). Ahmad testified that he was paid $700 per week. He allegedly said to Mr. Manwell during the audit that he received that remuneration even when sick or on holidays. Indeed, he declared income of $36,400 in 2001, which represents $700 times 52 weeks in the year. At trial, Ahmad said that if he was unable to respond to a call, he would arrange to have someone else take care of it for him. That is why he was invariably paid $700 per week regardless of circumstances. However, he also said at trial that he did not claim any amount for salary paid to others in computing his income for tax purposes. Furthermore, both Hussein and Ahmad explained that they worked for the appellant at their set fee until they reached the flat rate amount mentioned above. They said that when they had reached that amount of income, they did not accept any more calls. Abdul Hamid also said that he received the same amount from the appellant every week but that he worked only when he pleased. He said that he did not need to work anymore and that he only worked to help the appellant's business. Mr. Manwell testified that he was told by Webb Wehbe during the audit that Abdul Hamid was semi-retired but worked for the appellant at least 40 hours per week.
+[14] Although the Agreements provide that the Workers had the right to carry on business as they wished, none of them declared income from contracts with other businesses. This is verified by the income declared in the statement of business activities in their 2001 tax returns. The only income declared is from the appellant. This is so in spite of the fact that Hussein and Ahmad Wehbe both testified that they had worked for others and that they were either paid cash or worked in exchange for other services. Hussein explained that the income received from others was so minimal that he did not think it necessary to declare it as income. Surprisingly enough, he had, however, also previously said that he worked for many other independent towers (representing in the vicinity of 20 to 25 clients in addition to the appellant; see page 145 of the transcript). He said that he responded to five to ten calls a week, of which three to five were for the appellant (see page 110 of the transcript).
+[15] With respect to the drivers of the trucks, contrary to what was said by Webb Wehbe in his testimony, section 2 of the Agreements states that drivers must be approved by the appellant, and that the appellant may decline the services of a driver if not satisfied with the driver's record. The Agreements also provide that any driver of a tow truck must operate it in a careful manner and in compliance with governmental requirements and must "be neat in appearance, which will be determined at the sole discretion of the [appellant]. The TRUCKMAN will provided [sic] uniforms as specified by the [appellant] to themselves and any of their drivers at their own expense" (section 2 C) of the Agreements, Exhibit A-1). The truckman also agreed that he was responsible for any drivers he assigned to drive his truck. Immediate termination of the truckman's services could occur at the sole discretion of the appellant in case of breach of the Agreements' provisions. Finally, upon termination of the Agreements, the truckman agreed to remove forthwith the appellant's identification and radio frequency from the truck at his own expense (see section 9 d) of the Agreements in Exhibit A-1).
+[16] This last condition contradicts the testimony of Webb, Hussein and Ahmad Wehbe, who said that there was no logo identifying the appellant on their trucks. Abdul Hamid said that he would display a sign showing the appellant's logo only at the request of the Ottawa Police. Furthermore, all four Workers said that none of them wore a uniform, which is also contrary to the Agreements' requirements.
+[17] Finally, the Agreements state that the Workers agreed to deal with the appellant as independent contractors and that as such they were responsible for all source deductions under the various relevant federal and provincial legislation.
+[18] Counsel for the respondent also called as witnesses two tow truck drivers, Derek Anderson and Daniel Tremblay, who were unrelated to the appellant, and who had worked for the appellant during the period at issue. They both said they had signed an agreement with the appellant. The one signed by Derek Anderson was filed as Exhibit R-1. As in the case of Hussein, that agreement was signed on January 1, 2001, before a witness (the same one, the witness's signature being the same on the two agreements), but no one signed for the appellant. That agreement (Exhibit R-1) is exactly the same as those signed by the Workers (Exhibit A-1). Mr. Manwell testified that, during his audit, Webb Wehbe's position was that Derek Anderson and Daniel Tremblay were independent contractors. At trial, Webb Wehbe testified that he considered them as employees of the appellant.
+[19] Derek Anderson testified that he attended at the appellant's premises every day. The appellant provided him with a tow truck together with equipment and a uniform. Mr. Anderson said that the appellant paid all expenses related to the truck (gas, insurance, licence). When called by the dispatcher, he had to drive to the location indicated and invoice the client in the name of the appellant. He said he was paid weekly by cheque. Mr. Manwell testified that he was told during his audit that Derek Anderson was paid a rate varying between 20 per cent and 27 per cent of the invoice price, which rate was set by the appellant and depended on the type of call.
+[20] Daniel Tremblay testified that during the time he was working for the appellant, he showed up every morning at the appellant's place of business and that his name was put on a rotation list. He said that the appellant provided him with a tow truck, equipment and a uniform. He mentioned that all trucks were marked with the appellant's name, including the trucks used by the four Workers. He testified that he had to pay the appellant $200 per month rental for the truck, but the appellant was responsible for gas and for all expenses related to the truck. He said that he could not have worked for others with that truck because it was marked with the appellant's name. Nor could he lend the truck to anyone else without the approval of the appellant. He invoiced clients according to the appellant's rate and he himself was paid, once a week, a percentage of the amount collected for the calls to which he had responded. His remuneration averaged between $250 and $350 per week. Mr. Manwell testified that he was told during the audit that Daniel Tremblay was working part time and was paid 30 per cent of the invoice price. He also said that Webb Wehbe had told him that Ahmad, Hussein and Abdul Hamid were paid the same rate as Daniel Tremblay. In the case of Khaled, Webb Wehbe said that he was paid by cheque at a rate set by the appellant by contract. However, there is no rate set in the Agreement contained in Exhibit A-1.
+[21] With respect to complaints, Daniel Tremblay said that they were dealt with by the appellant, but if he was responsible for any damage, he had to pay for it. He said he had had a few damage claims against him over the years. He was also responsible for the equipment on the truck if it was broken or lost due to his negligence.
+[22] Finally, Mr. Manwell noted a few contradictions during the audit. Webb Wehbe said the Workers were paid daily or by the job while the Workers told him they were paid a flat rate on a weekly basis. Webb Wehbe also said that the Workers owned their trucks and paid the expenses related thereto while the Workers stated otherwise. Mr. Manwell was never told during his audit that the Workers were entitled to 60 per cent of the invoice price. The audit also revealed that the Workers were expected to perform their duties on an on-call basis. The appellant's dispatcher would call them and expect them to get to the location indicated within a reasonable time. The Workers were providing services to the appellant assisting the latter's clients.
+[23] Having concluded that the Workers were employed under a contract of service, Mr. Manwell also concluded that they were employed on terms and conditions substantially similar to those governing the employment of Derek Anderson and Daniel Tremblay. Mr. Manwell did not compare the Workers' conditions of employment to those of the other drivers employed by the appellant.
+Analysis
+[24] The sole question raised in this appeal is whether the Workers were employees of the appellant during the period at issue. In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. No. 61 (Q.L.), 2001 SCC 59, the Supreme Court of Canada said that there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Major J., speaking for the Court, said at paragraphs 46-48:
+¶ 46 . . . Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, supra, at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a contract of service any longer serves a useful purpose.... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+¶ 47 Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+¶ 48 It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[25] In the present case, the difficulty in the search for what was the total and real relationship of the parties lies in the numerous contradictions that surfaced during the audit and at trial. Mr. Webb Wehbe's version during the audit differed from that of the Workers, and I noticed contradictions between what was stipulated in the Agreements signed by the Workers and the evidence adduced at trial. In some aspects, the Agreements do not seem to properly reflect what they are supposed to be saying. For example, one unrelated individual, Derek Anderson, who was called to testify, signed exactly the same agreement as the Workers and he was considered by Webb Wehbe to be an employee of the appellant. Why is that? Why would this individual have signed the same agreement as the others and yet be subject to different conditions of employment? From what viewpoint would the situation be different for this individual than for the Workers? Counsel for the appellant stated that Mr. Anderson's agreement was not signed by the appellant. But neither was Hussein's and both agreements were signed before the same witness. Yet, the appellant recognizes Hussein's Agreement as being valid.
+[26] Another problem lies in the fact that none of the Workers indicated in his tax return that he was carrying on a business on his own account. Rather, they all indicated that they were operating a business under the appellant's name at the appellant's place of business. Yet, no evidence was presented to show that they had invested in the appellant's business.
+[27] Therefore, although the Agreements state that the Workers agreed to deal with the appellant as independent contractors, that statement should not be determinative in the characterization of the relationship between the contracting parties in the circumstances of this particular case.
+[28] As Major J., citing MacGuigan J.A., indicated in Sagaz, supra, the most that can profitably be done is to examine all the possible factors which have been referred to in the case law as bearing on the nature of the relationship between the parties concerned. Thus, the central question that was analyzed in Sagaz was whether the person who had been engaged to perform the services was performing them as a person in business on his own account. In making such a determination, different factors must be examined, and that is what I will try to do.
+[29] With respect to control, Hussein, Ahmad, Abdul Hamid and Webb Wehbe testified that the Workers did not have to show up at the appellant's place of business if they did not want to, and that they did not have to report to the appellant. They all said that the dispatcher would reach them on their cellular phones and that they were free to accept the call or not. They all said that they could, without the appellant's prior approval, hire other drivers to drive their trucks and to respond to calls for the appellant.
+[30] On the other hand, Derek Anderson and Daniel Tremblay - of whom the appellant said during the audit that it considered them to be independent contractors, but has since changed its mind - gave completely opposite testimony. Both said that they had to show up at the appellant's place of business every morning and that their name was put on a rotation list. Mr. Tremblay said that he could not have his truck driven by someone else without the appellant's approval. Incidentally, this is in accordance with the Agreements, which provide that the appellant can decline the services of any driver whose driving record is not approved by the appellant. And yet, Mr. Anderson, at least, had signed the same kind of agreement as those signed by the Workers, filed as Exhibit A-1.
+[31] Furthermore, Mr. Manwell, the CCRA programs officer, was told during his audit that the Workers were expected to perform their duties on an on-call basis and that the dispatcher, who called them, would expect them to get to the location indicated within a reasonable time. I realize that this last element could very well apply to an independent contractor as well. However, there are other factors that show that there was some kind of control exercised by the appellant. For example, although the Wehbes testified that they did not have to wear a uniform, Messrs. Anderson and Tremblay stated that the appellant provided them with a uniform that they had to wear for work. In addition, Mr. Manwell testified that when he met Hussein at the appellant's place of business, he was wearing a uniform with the appellant's badge. The Agreements also stipulate that the Workers had to provide uniforms, as specified by the appellant, for themselves or for any of their drivers. Although it is not clear who actually paid for those uniforms, it seems more probable than not that the Workers had to wear a uniform with the appellant's badge when performing their duties.
+[32] Similarly, with respect to the appellant's identification on the tow trucks, the Wehbes testified that the Workers' trucks did not bear such identification. Yet, Mr. Tremblay's testimony was that all the trucks were marked with the appellant's name, including the trucks used by the Workers. Mr. Manwell testified that he saw Hussein leaving the appellant's place of business in a truck marked with the appellant's name. The Agreements provide that upon termination thereof, the truckman is to remove the appellant's identification from the truck.
+[33] In my view, the evidence of Mr. Tremblay and Mr. Manwell is more credible than the testimony given by the Workers at trial, especially since the version of the latter is in direct contradiction with the Agreements they tendered in evidence to show that they were independent contractors. As a result, I am not at all convinced that the Workers were truly free to accept or refuse calls and that they did not have to report to the appellant's premises every morning like the other drivers, wearing uniforms and having their tow trucks duly identified with the appellant's logo.
+[34] With respect to the ownership of tools, both Messrs. Anderson and Tremblay testified that they were provided with a truck and equipment by the appellant. Mr. Tremblay, however, said that he paid the appellant $200 per month rental for the truck and that the appellant paid all the expenses for that truck. Mr. Anderson said that the appellant paid all the expenses related to the truck but did not mention that he had to pay a rental fee.
+[35] The Workers testified that they paid for the purchase of their trucks, for the maintenance thereof and for gas. However, Hussein and Ahmad acknowledged that their trucks were registered and insured in the appellant's name. They said that they paid for their trucks through interest-free loans from their father. They said that they reimbursed the appellant the amount paid for the insurance. Ahmad said that he had paid $30,000 for his truck while Hussein stated that he had paid $70,000 for his. Webb testified that the value of a tow truck was between $50,000 and $80,000. Who is telling the truth? How much was really paid for the trucks and who paid it? No one provided any documentary evidence showing that the Workers actually paid for their trucks and the insurance on them. The expenses claimed against income in their respective tax returns are not itemized and the Workers did not know what the amounts claimed represented exactly. Taking into account the discrepancies observed throughout their evidence, I find it difficult to rely solely on the Wehbe family's testimony without any supporting documentation.
+[36] With respect to the chance of profit and risk of loss, although the Wehbes testified that the Workers were paid a percentage of the invoice price set by the Workers themselves, that is not what they had stated during the audit. The Workers had said at that time that they were paid a flat rate weekly by cheque. Ahmad had gone so far as to say that he was paid even when sick or on holidays. At trial, Hussein and Ahmad tried to explain that they accepted calls until they reached the flat rate amount. I find it strange that this was not brought up during the audit. Ahmad also said that when not available to drive his truck he asked someone else to replace him, but he stated as well that he did not claim any salary expense in his tax return because he did not hire employees. Furthermore, Mr. Manwell testified that Webb Wehbe's version given during the audit did not corroborate that given by the Workers. Indeed, Webb Wehbe said that the Workers were paid on a daily basis or by the job, which does not seem to be what actually happened. In view of the above, I am not convinced that the Workers were paid otherwise than by means of a weekly salary or that they had to incur any real expenses. In saying this, I realize that Mr. Tremblay testified that he paid a rental fee to the appellant. However, there is no evidence that such was the case with the Workers.
+[37] With respect to the integration of their work into the appellant's business, although the Workers testified that they had indeed worked for others, this is not verified by the tax returns filed in evidence. The sole income declared was from the appellant. Yet, Hussein and Ahmad testified that they had many other clients. If such was the case, the income from those other sources should have been declared. Furthermore, Mr. Tremblay said that he could not work for others with his truck since it was marked with the appellant's name. As for Abdul Hamid, he said that he worked only for the appellant, and Webb Wehbe told Mr. Manwell that Abdul Hamid had worked 40 hours per week.
+[38] In conclusion, as the Federal Court of Appeal said in Moose Jaw Kinsmen Flying Fins Inc. v. M.N.R., [1988] 2 C.T.C. 2377, at page 2379, the overall evidence must be considered taking into account those of the tests which may be applicable and giving to all the evidence the weight which the circumstances may dictate. Any post facto characterization of the relationship as being something other than it actually was has no foundation in the case law. In M.N.R. v. Standing (1992), 147 N.R. 238, the Federal Court of Appeal said at pages 239-40:
+. . . Regardless of what may have been the Tax Court's appreciation of the Wiebe Door test, what was crucial to it in the end was the parties own post facto characterization of the relationship as that of employer/employee. There is no foundation in the case law for the proposition that such a relationship may exist merely because the parties choose to describe it to be so regardless of the surrounding circumstances when weighed in the light of the Wiebe Door test.
+[39] In my view, the evidence adduced by the appellant at trial was not sufficient to demonstrate that the Workers entered into a contractual relationship as independent contractos. I have difficulty in giving any weight to the Wehbe family's evidence, which in my view is tainted by ex post facto self-interest and by many contradictions that cast doubt on its credibility.
+[40] Having so concluded, and on the whole of the evidence presented before me, I am of the opinion that the appellant did not show on a balance of probabilities that the Minister was wrong in deciding that the Workers were employed by the appellant under a contract of service during the period at issue.
+[41] As regards the determination by the Minister that the Workers' employment was not excluded from insurable employment pursuant to paragraphs 5(2)(i) and 5(3)(b) of the Act, I find that the appellant has not shown that the Minister exercised his discretion improperly. Indeed, in view of the lack of credibility of the Wehbe family's evidence, I find it difficult to overrule the Minister's decision on the basis that it was not reasonable. I cannot presume that the Workers' conditions of employment were different from those of the other employees.
+[42] For all these reasons the appeals are dismissed.
+Signed at Ottawa, Canada, this 2nd day of April 2004.
+"Lucie Lamarre"
+Lamarre, J.
+CITATION:
+2004TCC267
+COURT FILE NO.:
+2003-297(EI) and 2003-298(CPP)
+STYLE OF CAUSE:
+Ottawa Metro Towing and Recovery Inc. v. M.N.R.
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+September 12, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT:
+April 2, 2004
+APPEARANCES:
+Counsel for the Appellant:
+George Rontiris and Trisha Gain
+Counsel for the Respondent:
+Carole Benoit
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+George Rontiris and Trisha Gain
+Firm:
+Emond Harnden
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Khaled Wehbe is the only worker who was not called to testify. Consequently, except for the Agreement signed on January 1, 2001, and filed as Exhibit A-1, no document was filed in respect of this worker.

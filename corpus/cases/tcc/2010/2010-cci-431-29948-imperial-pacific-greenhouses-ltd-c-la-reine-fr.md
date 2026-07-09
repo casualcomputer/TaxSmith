@@ -1,0 +1,250 @@
+---
+title: "Imperial Pacific Greenhouses Ltd. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29948/index.do"
+last_modified: "2010-08-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 431"
+citation2: ""
+neutral_citation: "2010 CCI 431"
+decision_date: "2010-08-20"
+language: "fr"
+item_id: "29948"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6494
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:39:04.258000+00:00"
+cases_cited_count: 5
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3c7cbfc8f6b35c8e4fa45bbd439c947cb4f9839d0430f67660e24c53fcbddf93"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Imperial Pacific Greenhouses Ltd. c. La Reine
+
+- Citation: 2010 CCI 431
+- Decision date: 2010-08-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6494, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Imperial Pacific Greenhouses Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-08-20
+Référence neutre
+2010 CCI 431
+Numéro de dossier
+2008-2708(IT)G
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008‑2708(IT)G
+ENTRE :
+IMPERIAL PACIFIC GREENHOUSES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Appel entendu les 15 et 16 juillet 2010, à Nanaimo (Colombie‑Britannique)
+Devant : L'honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l'appelante :
+M. Albert De Vries
+Avocats de l'intimée :
+Me Ron D. F. Wilhelm
+Me David Everett
+________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu du paragraphe 227(10) de la Loi de l'impôt sur le revenu (la « Loi »), d'un montant de 758 630 $, payable en application du paragraphe 224(1) de la Loi en conséquence de l'omission par l'appelante de se conformer à la demande formelle de paiement délivrée en application du paragraphe 224(1) de la Loi, est rejeté conformément aux motifs du jugement ci‑joints.
+Signé à Halifax (Nouvelle‑Écosse), ce 20e jour d'août 2010.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 1er jour de décembre 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 431
+Date : 20100820
+Dossier : 2008‑2708(IT)G
+ENTRE :
+IMPERIAL PACIFIC GREENHOUSES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Le présent appel porte sur la question de savoir si la somme de 758 630 $ était payable par l'appelante à Paul Houweling en 2006 pour l'application du paragraphe 224(1) de la Loi de l'impôt sur le revenu (la « Loi »).
+[2] L'appelante est une société par actions au parcours tumultueux. Antérieurement à la constitution de l'appelante en société, Peter Bos et Mike Bryan ont acquis l'entreprise de culture en serre de Weyerhaeuser, qui l'avait apparemment acquise de MacMillan Bloedel. Cette dernière avait ouvert une pépinière destinée à la reforestation. L'eau alimentant la pépinière était fournie par la canalisation qui approvisionnait également en eau l'usine de pâte à papier et la scierie, qui appartenaient toutes à MacMillan Bloedel. Celle‑ci a vendu l'usine de pâte à une société et la scierie ainsi que la pépinière à Weyerhaeuser. Weyerhaeuser n'a exploité la pépinière que pendant une courte période avant de la vendre à Peter Bos et à Mike Bryan. Il semble que le prix d'achat de la pépinière s'élevait à 900 000 $, dont 500 000 $ payés comptant et 400 000 $ provenant d'un prêt hypothécaire. Il semble également que la somme de 500 000 $ payée comptant ait été financée par un prêt accordé par Paul Houweling.
+[3] Paul Houweling était actif depuis un certain temps dans l'industrie de la culture en serre. En 1997, il a vendu à son frère ses actions de Houweling Nurseries Limited[1]. Il semble que Paul Houweling ait pu convenir, lors de l'entente conclue avec son frère, qu'il n'exploiterait pas d'entreprise de culture en serre ou de pépinière concurrente. Cela pourrait expliquer la raison pour laquelle il a avancé une somme d'argent importante pour financer l'achat de cette entreprise de culture en serre, sans toutefois détenir de participation dans celle‑ci. La question de savoir si la participation de Paul Houweling à cette entreprise de culture en serre a contrevenu à une entente conclue avec son frère n'est pas en cause devant la Cour.
+[4] L'entreprise de culture en serre en question a connu des problèmes dès le début. L'approvisionnement en eau a été interrompu par les nouveaux propriétaires de l'usine de pâte à papier ou par ceux de la scierie. Cet événement n'avait pas été prévu et a abouti à l'introduction d'une demande en justice par l'appelante. Il ne fait guère de doute que le manque d'eau pour exploiter la serre a rendu difficile la poursuite de l'activité et qu'il a contribué aux pertes importantes subies par l'appelante.
+[5] L'appelante a été constituée en société le 19 juillet 2000 pour acquérir de Peter Bos les actifs utilisés pour l'exploitation de l'entreprise de culture en serre. Il semble que Mike Bryan ait cédé les droits qu'il avait pu détenir à l'égard de ces actifs avant la constitution de l'appelante. Peter Bos était l'un des actionnaires initiaux mais a cessé de l'être le 19 février 2001. Une partie de ses actions a été transférée à Christine De Vries (l'épouse d'Albert De Vries, qui représentait l'appelante lors de l'audience) et à Elizabeth (Elsa) Houweling (l'épouse de Paul Houweling).
+[6] Les parties conviennent que le 3 janvier 2006, Paul Houweling était redevable de 4 596 399 $ en application de la Loi au titre d'années d'imposition antérieures à l'an 2000. À cette date, l'appelante devait 758 630 $ à Paul Houweling. Le 3 janvier 2006, le ministre a délivré une demande formelle de paiement en application du paragraphe 224(1) de la Loi à l'égard des sommes dues par l'appelante à Paul Houweling, jusqu'à concurrence de 4 596 399 $. Aucun versement n'a été effectué en vertu de la demande formelle de paiement, et l'appelante a fait l'objet d'une cotisation de 758 630 $ le 12 octobre 2007 pour avoir omis de se conformer à la demande formelle de paiement du 3 janvier 2006. Le présent appel porte sur cette cotisation.
+[7] Les paragraphes 224(1) et (4) de la Loi disposent comme suit :
+224. (1) S'il sait ou soupçonne qu'une personne est ou sera, dans les douze mois, tenue de faire un paiement à une autre personne qui, elle‑même, est tenue de faire un paiement en vertu de la présente loi (appelée « débiteur fiscal » au présent paragraphe et aux paragraphes (1.1) et (3)), le ministre peut exiger par écrit de cette personne que les fonds autrement payables au débiteur fiscal soient en totalité ou en partie versés, sans délai si les fonds sont immédiatement payables, sinon au fur et à mesure qu'ils deviennent payables, au receveur général au titre de l'obligation du débiteur fiscal en vertu de la présente loi.
+[...]
+(4) Toute personne qui omet de se conformer à une exigence du paragraphe (1), (1.2) ou (3) est tenue de payer à Sa Majesté un montant égal au montant qu'elle était tenue, en vertu du paragraphe (1), (1.2) ou (3), selon le cas, de payer au receveur général.
+[8] Dans la décision R. c. National Trust Company, no A‑969‑96, 3 juillet 1998, [1998] 4 C.T.C. 26, 98 D.T.C. 6409 (C.A.F.), le juge en chef Isaac de la Cour d'appel fédérale a énoncé ce qui suit :
+34 Au paragraphe 224(1), le Parlement a conféré au ministre le pouvoir discrétionnaire de délivrer une demande péremptoire de paiement par écrit en application de ce paragraphe si les conditions suivantes se trouvent préalablement réunies :
+a) le ministre sait ou soupçonne,
+b) une personne est ou sera, dans les 90 jours, tenue de faire un paiement à un débiteur fiscal,
+c) le montant doit être payable immédiatement ou dans le futur.
+35 Si ces conditions sont remplies, le ministre peut exiger par écrit de la personne tenue de faire le paiement qu'elle le fasse au receveur général, au titre de l'obligation du débiteur fiscal en vertu de la Loi, immédiatement si les fonds sont alors payables, ou, dans les autres cas, au fur et à mesure qu'ils deviennent autrement payables au débiteur fiscal.
+[9] Les conditions préalables sont remplies si l'appelante est tenue d'effectuer un paiement à Paul Houweling. Dans sa décision, le juge en chef Isaac de la Cour d'appel fédérale a fait la remarque suivante :
+46 Le sens ordinaire du mot « tenu » dans un contexte juridique est d'indiquer le fait qu'une personne est responsable en droit*. [...]
+(* signale un appel de note de bas de page qui figurait dans le texte original mais qui n'a pas été repris)
+[10] Le paragraphe 224(1) de la Loi a été modifié pour porter le délai de 90 jours à un an. L'appelante n'a pas fait valoir que les conditions préalables n'étaient pas remplies en l'espèce et, étant donné qu'il semble que le ministre faisait des réclamations à Paul Houweling depuis un certain temps et qu'il était au courant depuis au moins le 4 août 2004 du fait que l'appelante devait 758 630 $ à Paul Houweling, les conditions préalables étaient remplies dès lors qu'à tout le moins, le ministre soupçonnait que l'appelante était tenue en droit d'effectuer un paiement à Paul Houweling dans un délai d'une année à compter du 3 janvier 2006.
+[11] La question en litige dans le présent appel consiste à établir si l'appelante était tenue de verser 758 630 $ à Paul Houweling à un moment quelconque au cours de la période d'une année qui a débuté le 3 janvier 2006. L'appelante n'est tenue au paiement prévu par le paragraphe 224(4) de la Loi que si elle a omis de se conformer à son obligation en application du paragraphe 224(1) de la Loi. Cette obligation consistait à payer au receveur général la somme qui était payable à Paul Houweling, si celle‑ci était payable au cours de la période susmentionnée. Si cette somme était payable à Paul Houweling, l'appelante avait alors l'obligation de la verser au receveur général. En l'espèce, le montant de la dette envers Paul Houweling était nettement moindre que le montant qu'il était tenu de payer en vertu de la Loi et, par conséquent, toute somme payable à Paul Houweling devait être versée au receveur général. La position de l'appelante est que cette somme n'était pas payable à Paul Houweling au cours de ladite période.
+[12] L'appelante a soulevé plusieurs moyens dans son avis d'appel et lors de la conclusion des plaidoiries, et je souhaite examiner ceux‑ci avant d'aborder l'argument principal. L'appelante a fait valoir que l'appel devrait être accueilli en raison du [TRADUCTION] « conseil du comptable sur la structure commerciale, 21 décembre 2000 ». Le conseil auquel l'appelante renvoie est une lettre datée du 21 décembre 2000 (qui semble être adressée à Peter Bos) dans laquelle le comptable expose ce qui suit :
+[TRADUCTION]
+Comme nous en avons discuté, vous nous avez avisés que vous aviez emprunté des fonds auprès d'une source personnelle, Paul Houweling. En raison du fait que vous êtes personnellement redevable de cette somme, la dette apparaît dans votre compte de prêt d'actionnaire d'IPG Ltd. et a été enregistrée lors de la constitution de la société. En conséquence, nous vous suggérons de signer un billet à ordre attestant que le prêt d'actionnaire est le vôtre et que vous êtes redevable à Paul Houweling.
+[13] Cela confirme que Paul Houweling a prêté de l'argent à Peter Bos. Il ressort également clairement de la preuve et des faits convenus que l'appelante ne conteste pas que la responsabilité de cette dette ait été assumée par l'appelante et que l'appelante était endettée envers Paul Houweling, et non envers Peter Bos. La question consiste à savoir si cette somme était payable à Paul Houweling au cours de la période mentionnée ci‑dessus. Cette lettre, rédigée en l'an 2000, et qui ne renvoie à aucune modalité de remboursement, n'est d'aucune aide à l'appelante.
+[14] L'appelante a présenté des éléments de preuve laissant entendre que Paul Houweling avait reçu de son épouse l'argent qu'il a avancé, directement ou indirectement, à l'appelante. Des extraits d'une procédure judiciaire non identifiée à laquelle Paul Houweling était partie (il semble qu'il y en ait eu plusieurs) faisaient partie du recueil conjoint de documents. Ces extraits contiennent notamment les passages suivants de l'interrogatoire principal (par M. Regier) et du contre‑interrogatoire (par Paul Houweling) d'Elizabeth (Elsa) Houweling :
+[TRADUCTION]
+Q. Combien avez‑vous payé vos actions d'Imperial Pacific Greenhouses Limited?
+R. Je suis désolée, je ne le sais pas.
+Q. À qui avez‑vous versé l'argent pour les actions d'Imperial Pacific Greenhouses Limited?
+R. J'avais l'argent — à Paul.
+[...]
+R. J'ai donné mon argent à Paul Houweling.
+M. REGIER :
+Q. Quelle était la somme d'argent?
+R. Un million de dollars.
+[...]
+CONTRE‑INTERROGATOIRE PAR M. HOUWELING :
+Q. D'accord. Madame Houweling — je veux juste préciser un point — lorsque nous n'étions plus avec Houweling Nurseries, vous vous êtes retrouvée avec un million de dollars?
+R. Oui.
+Q. Puis, lorsque j'ai eu des problèmes d'argent, vous m'avez de nouveau prêté cette somme?
+R. Oui.
+[15] Il semble que cela montre simplement la source des fonds dont disposait Paul Houweling. Le fait que ce dernier ait pu emprunter d'Elizabeth (Elsa) Houweling l'argent qu'il a prêté à Peter Bos, dette qui a été assumée par l'appelante, ne change rien au fait que Paul Houweling a prêté l'argent à Peter Bos et que l'appelante, à la suite de sa constitution en société et de la prise en charge de la dette, est devenue endettée envers Paul Houweling. L'appelante a également accepté, par une lettre datée du 27 juin 2010, l'énoncé de fait suivant :
+[TRADUCTION]
+Au fil du temps, M. Houweling a versé des avances à M. Bos et à IPG pour soutenir l'entreprise, soit 758 630 $ au total (le « prêt »).
+[16] Il semble donc qu'une partie de l'endettement de l'appelante envers Paul Houweling provenait des fonds avancés par ce dernier à Peter Bos (dette qui a été assumée par l'appelante) et que le solde provenait de l'avance de fonds versée directement à l'appelante par Paul Houweling.
+[17] L'argument invoqué par l'appelante est que la somme avancée par Paul Houweling provenait à l'origine d'Elizabeth Houweling. Cependant, cela ne change rien au fait que c'est bien Paul Houweling qui a avancé les fonds à Peter Bos et à l'appelante, et que la dette était envers Paul Houweling. Dans la convention d'achat‑vente des actions de l'appelante conclue entre Albert De Vries et Elizabeth (Elsa) Houweling, mentionnée ci‑dessous, cette dernière a déclaré et garanti à l'alinéa 4d [TRADUCTION] qu'« aucun montant ne lui est dû par [l'appelante] et qu'il n'y a aucun prêt d'actionnaire non réglé inscrit dans les documents financiers de [l'appelante] au nom de [Elizabeth (Elsa) Houweling] ». Il n'y a tout simplement aucun élément de preuve qui permette de conclure que la somme de 758 630 $ était due à une personne autre que Paul Houweling.
+[18] L'appelante a également fait mention d'un bref de saisie‑exécution du 21 décembre 2004 et d'offres de règlement qui ont été présentées (mais non acceptées) en ce qui concerne la dette envers Paul Houweling. Cependant, la question en l'espèce est de savoir si la somme de 758 630 $ était payable par l'appelante à Paul Houweling au cours de la période susvisée, et ces documents ne nous sont d'aucune aide pour trancher cette question. La seule utilité de ces documents est de montrer que l'affaire en cause n'a pas été réglée.
+[19] L'appelante a d'autre part fait référence à une convention d'achat d'actions datée du 5 avril 2006 entre Albert De Vries et Elizabeth (Elsa) Houweling, en application de laquelle cette dernière a vendu ses actions de l'appelante à Albert De Vries pour un montant de 80 000 $. Il s'agit d'une entente entre Albert De Vries et Elizabeth (Elsa) Houweling et cette entente n'est pas utile pour établir si la somme en question était payable par l'appelante à Paul Houweling.
+[20] L'appelante a enfin renvoyé à une facture de Paul Houweling datée du 28 avril 2006 dans laquelle il écrit :
+[TRADUCTION]
+Le soussigné, Paul Houweling, et Amethyst Greenhouses Ltd. RENONCENT POUR TOUJOURS À TOUT INTÉRÊT ABSOLU dans IPG!
+[21] Les états financiers préparés pour la période terminée le 31 juillet 2006 font état de la remise de la dette de 758 630 $. Lorsque Paul Houweling a signé le document, l'appelante avait l'obligation de verser au receveur général tout montant qui était payable à Paul Houweling. À ce moment‑là, ce dernier n'avait pas le droit de recevoir une quelconque somme payable par l'appelante, et il me semble que la supposée remise de dette de Paul Houweling ne peut avoir d'effet sur la demande formelle de paiement : si des sommes étaient payables par l'appelante à Paul Houweling, celles‑ci devaient être versées au receveur général.
+[22] Le principal argument avancé par l'appelante est que le paiement de la dette due à Paul Houweling était lié à l'action judiciaire qui avait été intentée relativement à l'omission de divulguer que l'approvisionnement en eau serait interrompu et que la dette n'était donc pas payable à Paul Houweling en 2006. Cette action n'a été réglée qu'en 2008.
+[23] L'intimée a demandé à l'appelante d'accepter l'énoncé de fait suivant :
+[TRADUCTION]
+Le prêt n'était assorti d'aucune modalité.
+[24] Par une lettre datée du 27 juin 2010, l'appelante a convenu que ce fait était exact. L'intimée avait également demandé à l'appelante d'accepter les faits suivants :
+[TRADUCTION]
+Le prêt était remboursable immédiatement sur demande.
+[25] La réponse de l'appelante a été la suivante :
+[TRADUCTION]
+Incorrect. Existence d'une entente orale, selon l'issue de l'instance relative à l'eau.
+[26] La seule preuve de cette entente orale est la déclaration d'Albert De Vries expliquant que, selon lui, le prêt était lié à la procédure judiciaire et devait être remboursé une fois que le montant correspondant à la demande en justice serait reçu. Il n'existe aucun document écrit au sujet d'une telle modalité, et l'appelante n'a pas appelé Paul Houweling à témoigner pour confirmer celle‑ci. Puisque la dette était due à Paul Houweling et que cette modalité aurait eu une incidence sur le droit de ce dernier de recevoir un paiement, il me semble que l'appelante aurait dû appeler Paul Houweling à titre de témoin.
+[27] Il m'apparaît d'autre part que le fait que ce moyen d'appel n'ait pas été soulevé dans l'avis d'appel est important. La section de l'avis d'appel modifié (daté du 9 octobre 2008) intitulée [TRADUCTION] « Faits pertinents qui servent de fondement » ne comprend qu'un seul paragraphe, qui est ainsi rédigé :
+[TRADUCTION]
+Pendant toute la période pertinente, il n'y a eu aucune convention de prêt écrite entre Imperial Pacific Greenhouses Ltd. (« IPG ») et Paul Houweling.
+Il n'est nulle part indiqué dans l'avis d'appel modifié qu'une modalité du prêt était que Paul Houweling ne serait pas remboursé avant la conclusion de l'instance portant sur l'approvisionnement en eau.
+[28] Par conséquent, même s'il est possible qu'Albert De Vries croyait que la somme ne devait pas être payable par l'appelante à Paul Houweling avant le règlement de la procédure judiciaire, je ne conclus pas qu'il s'agissait d'une modalité du prêt.
+[29] Dans les états financiers, la dette est désignée comme étant une « dette à long terme » et, dans les notes accompagnant les états financiers visant la période de sept mois terminée le 31 juillet 2006, elle est désignée comme étant [TRADUCTION] « non garantie, non productive d'intérêt et sans modalité fixe de remboursement ». La position de l'intimée est que la dette est payable sur demande, puisqu'elle n'est assortie d'aucune modalité fixe de remboursement, et que la demande formelle de paiement constitue une demande de paiement[2].
+[30] La Cour d'appel de l'Ontario a récemment examiné la question de savoir si une dette qui n'est pas assortie de modalités fixes de paiement est payable sur demande. Dans l'arrêt Animal House Investments Inc. v. Lisgar Development Limited, 2010 ONCA 322, la Cour d'appel de l'Ontario a expliqué ce qui suit :
+[TRADUCTION]
+8 Au paragraphe 40 de ses motifs, le juge de première instance a affirmé que sa conclusion de fait au sujet des modalités du prêt était « également conforme à la jurisprudence suivant laquelle un prêt sans échéance fixe est payable dans un délai raisonnable après qu'une demande est faite ».
+9 Nous n'interprétons pas les décisions auxquelles renvoie le juge de première instance comme signifiant qu'en l'absence de modalités particulières de remboursement, l'on doive forcément considérer que le prêt comporte une modalité implicite voulant qu'il soit payable dans un délai raisonnable à la suite d'une demande.
+10 Nous ne sommes pas non plus d'avis que les motifs du juge Blair dans la décision Naneff v. Concrete Holdings Inc., [1993] O.J. no 1756, aux paragraphes 135, 136 et 139, infirmée sur d'autres fondements, [1995] O.J. no 1377 (C.A.), signifient qu'en matière de gel successoral, un prêt de l'actionnaire à une société par un actionnaire qui n'en détient pas le contrôle doive, en l'absence de modalités particulières de remboursement, être interprété comme étant payable lorsque les administrateurs considèrent que son remboursement est prudent d'un point de vue financier.
+11 La question de savoir quelles sont les modalités applicables au remboursement du prêt doit plutôt être tranchée en tenant compte des autres modalités du prêt et du contexte factuel d'ensemble dans lequel le prêt a été accordé.
+[31] Les avocats de l'intimée avaient laissé entendre que cette décision ne correspondait pas au droit de la Colombie‑Britannique, où la dette en l'espèce a pris naissance. Toutefois, l'une des décisions sur lesquelles s'est fondé le juge de première instance dans l'arrêt précité est la décision du juge Kirkpatrick de la Cour suprême de la Colombie‑Britannique dans Koch v. Cactus Cafe Jasper Ave., [1995] B.C.J. no 2550 (QL), dans laquelle il explique ce qui suit :
+[TRADUCTION]
+15 La règle générale veut que lorsqu'un prêt ne prévoit pas de modalité fixe pour son remboursement, le droit considère qu'il doit être remboursé dans un délai raisonnable. Voir Surette v. Surette (1980), 40 N.S.R. (2d) 482 (C.S. N.‑É.), Burgess v. 041497 (N.B.) Ltd. (1993), 140 N.B.R. (2d) 15, appel rejeté, [1994] A.N.‑B. no 471 (C.A.), Gill Bros. v. Mission Sawmills, [1944] 3 W.W.R. 310 (C.S. C.‑B.), conf. par [1945] 2 W.W.R. 337 (C.A. C.‑B.) et par [1945] 4 D.L.R. 449 (C.S.C.), Staffordshire v. South Staffordshire Waterworks Co., [1978] 1 W.L.R. 1387 (C.A.).
+[32] Dans la décision ultérieure du juge Wedge de la Cour suprême de la Colombie‑Britannique dans Glacier Creek Development Corp. v. Pemberton Benchlands Housing Corp., 2007 BCSC 286, 28 B.L.R. (4th) 109, celui‑ci énonce ce qui suit :
+[TRADUCTION]
+56 Le juge Shaw a fait remarquer que le juge siégeant en chambre qui avait entendu la demande connexe avait conclu que les avances faites par les autres actionnaires de la société en faillite étaient des prêts remboursables sur demande en dépit du fait que les actionnaires s'attendaient à ce que les prêts ne soient remboursés qu'à compter du moment où la société réaliserait des bénéfices. Le juge en chambre a conclu que dès lors que les prêts ne comportaient aucune modalité quant au moment du remboursement, ils étaient, en droit, dus, exigibles et payables sur demande. Le juge Shaw a accepté cette conclusion de droit.
+[...]
+58 Comme l'a indiqué le tribunal dans Marsuba, les fonds avancés à une société par ses actionnaires peuvent avoir la nature d'un prêt remboursable sur demande, même si ces derniers ne s'attendent pas à être remboursés avant que la société ne soit rentable. Le fait qu'une avance de fonds ne comporte aucune modalité quant au moment de son remboursement ne lui confère pas une nature différente de celle d'un prêt. Au contraire, on présume qu'il s'agit d'une dette due, exigible et payable sur demande.
+[33] Il semble que la question se pose de savoir si une dette dépourvue de modalités particulières de remboursement est payable sur demande ou suivant des modalités déterminées [TRADUCTION] « en tenant compte des autres modalités du prêt et du contexte factuel d'ensemble dans lequel le prêt a été accordé »; en outre, il semble qu'il existe un désaccord sur le point de savoir s'il s'agit d'une question de fait (comme l'indique la Cour d'appel de l'Ontario) ou d'une question de droit (comme l'indique la Cour d'appel de la Colombie‑Britannique).
+[34] Il me semble que la décision de la Cour d'appel de l'Ontario signifie simplement qu'une dette non assortie de modalités fixes de remboursement n'est pas toujours payable sur demande. Il se peut que l'examen des [TRADUCTION] « autres modalités du prêt et du contexte factuel d'ensemble dans lequel le prêt a été accordé » amène à conclure que le prêt est payable sur demande, mais il me semble que la Cour d'appel de l'Ontario énonce que ce n'est pas forcément le cas.
+[35] Il m'apparaît que la démarche à adopter est celle de la Cour d'appel de l'Ontario et qu'il convient d'examiner les [TRADUCTION] « autres modalités du prêt » et le « contexte factuel d'ensemble dans lequel le prêt a été accordé » pour déterminer les modalités du remboursement.
+[36] La seule modalité du prêt qui ait été distinguée est que celui‑ci ne porte pas intérêt. Le contexte factuel dans lequel le prêt a été accordé est important en l'espèce afin de déterminer les modalités du remboursement, lesquelles, comme l'indiquent les décisions mentionnées par le juge de première instance dans la décision Animal House Investments Inc., précitée, devront être des modalités raisonnables.
+[37] En l'espèce, Paul Houweling a prêté les fonds pour permettre à Peter Bos et à Mike Bryan d'acquérir les actifs qui ont été cédés par la suite à l'appelante et pour financer l'exploitation de l'entreprise. Paul Houweling a également avancé des fonds directement à l'appelante. L'épouse de Paul Houweling est devenue actionnaire de l'appelante. Il est en outre clair qu'Elizabeth (Elsa) Houweling n'a pas pris part à l'exploitation de l'entreprise et que c'était Paul Houweling qui avait de l'expérience en matière de gestion d'une entreprise de culture en serre. Il paraît clair que même si Paul Houweling a peut‑être emprunté l'argent d'Elizabeth (Elsa) Houweling pour investir dans l'entreprise, Elizabeth (Elsa) Houweling n'a pas pris part à l'exploitation de l'entreprise. Il semble que les actions lui aient été émises, mais que seul Paul Houweling participait à l'exploitation.
+[38] Il est pareillement clair que l'appelante a connu des difficultés financières. Les états financiers de l'appelante révèlent ce qui suit au sujet de ses profits et pertes :
+Exercice
+Profit (perte)
+4 mois terminés le 31 décembre 2000
+(225 680 $)
+Exercice clos le 31 décembre 2001
+(540 341 $)[3]
+Exercice clos le 31 décembre 2002
+7 167 $
+Exercice clos le 31 décembre 2003
+(154 839 $)
+Exercice clos le 31 décembre 2004
+19 343 $
+Exercice clos le 31 décembre 2005
+(1 082 $)
+7 mois terminés le 31 juillet 2006
+(190 954 $)[4]
+[39] Le déficit s'élevait à 895 428 $ le 31 décembre 2005 et à 1 086 382 $ le 31 juillet 2006 (si l'on ne tient pas compte de la remise de dette). Si l'on tient compte de la remise de dette, le déficit s'élevait à 44 466 $ le 31 juillet 2006
+[40] La remise de dette n'est intervenue que le 28 avril 2006. Le 5 avril 2006, soit avant la remise de dette, Albert De Vries avait convenu d'acquérir soixante actions ordinaires de catégorie A d'Elizabeth (Elsa) Houweling. Elle détenait trente de ces actions pour elle‑même, et trente autres en fiducie. Le prix d'achat de ces actions était de 80 000 $, et la convention ne fait aucune mention de la remise par Paul Houweling de la dette que l'appelante avait à son égard. Il ressort du registre des membres qu'à cette époque, cent vingt actions ordinaires de catégorie A étaient émises et en circulation au total, ainsi que cent actions privilégiées de catégorie E et cent actions privilégiées de catégorie F[5]. Les notes accompagnant les états financiers indiquent que les actions privilégiées de catégorie E et de catégorie F étaient rachetables au prix d'un dollar par action. Sans la remise de dette, le déficit de la société au 5 avril 2006 aurait approché le million de dollars. Pour quelle raison Albert De Vries aurait‑il payé 80 000 $ pour la moitié des actions ordinaires d'une société ayant un déficit proche du million de dollars? Cela soulève des questions quant à la juste valeur marchande des actifs de l'appelante et quant à savoir si la juste valeur marchande des actifs n'était pas beaucoup plus élevée que leur valeur comptable.
+[41] Albert De Vries a témoigné que Paul Houweling avait été impliqué dès le départ lorsque les actifs ont été acquis de Weyerhaeuser. Il semble logique qu'une personne possédant de l'expérience dans la gestion d'une entreprise de culture en serre éprouverait, comme l'a déclaré Albert De Vries, une certaine responsabilité de n'avoir pas confirmé que l'approvisionnement en eau serait maintenu après l'acquisition des actifs. Même si les actions de l'appelante n'étaient pas détenues par Paul Houweling, c'est son épouse qui les détenait. (La situation est identique pour la famille De Vries, puisque les actions sont détenues par Christine De Vries.) Rien ne porte à croire que l'intérêt économique d'Elizabeth (Elsa) Houweling était différent de celui de Paul Houweling. Puisqu'elle lui a prêté l'argent pour investir dans l'entreprise, il paraît raisonnable de conclure qu'ils avaient un intérêt économique commun à l'égard de l'appelante.
+[42] Il est raisonnable de conclure que le remboursement de la dette à Paul Houweling a été reporté et qu'il n'était pas exigible sur demande, en raison des faits suivants :
+a) l'appelante avait des difficultés financières;
+b) Paul Houweling a avancé de l'argent, et son épouse a acquis des actions de l'appelante;
+c) c'est Paul Houweling qui avait les connaissances et l'expérience relatives à la culture en serre;
+d) Paul Houweling a omis de s'assurer qu'un aspect essentiel de l'exploitation (l'approvisionnement en eau) demeurerait disponible.
+[43] Cependant, il ne me semble pas qu'un tel report valait pour toujours. Je suis d'avis que dans l'hypothèse où les actions de l'appelante détenues par Elizabeth (Elsa) Houweling étaient vendues, il serait raisonnable de conclure que la créance serait devenue exigible. La dette ne portait pas intérêt et, puisqu'il ne possédait aucune action de l'appelante, Paul Houweling ne pouvait pas tirer profit indirectement (par l'intermédiaire des actions détenues par son épouse) de la croissance de la société, ni tirer un profit de son investissement. Elizabeth (Elsa) Houweling a vendu ses actions de l'appelante en vertu d'une convention d'achat‑vente datée du 5 avril 2006. Même si la date de la conclusion de la vente même des actions n'a pas été déterminée, il me semble que la vente aurait été conclue le 5 avril 2006 ou peu de temps après. Je pense que la somme due par l'appelante à Paul Houweling est alors devenue payable. La prétendue remise de dette effectuée par Paul Houweling le 28 avril 2006 est sans effet sur la demande formelle de paiement (même si elle peut avoir une incidence sur le droit qu'aurait Paul Houweling d'être remboursé en l'absence de la demande formelle de paiement), puisqu'elle est intervenue après qu'Elizabeth (Elsa) Houweling a vendu ses actions à Albert De Vries et, selon moi, après que la dette due par l'appelante est devenue payable à Paul Houweling.
+[44] Même si l'appelante avait des difficultés financières et n'était peut‑être pas en mesure de rembourser au complet la dette due à Paul Houweling, le droit du ministre d'établir une cotisation à l'égard de l'appelante en vertu du paragraphe 227(10) de la Loi pour le montant exigible suivant le paragraphe 224(4) de la Loi se fonde sur l'omission de se conformer à la demande formelle de paiement délivrée en application du paragraphe 224(1) de la Loi. Selon ce paragraphe, la somme payable à Paul Houweling devait être versée au receveur général dès lors qu'elle était payable à Paul Houweling. L'obligation de payer le receveur général est déterminée selon les montants qui sont payables, et non selon les montants payés ou que l'appelante a les moyens de payer. Le paragraphe 224(1) de la Loi ne comporte aucune exception fondée sur la situation financière de la personne à qui la demande formelle de paiement est signifiée ou sur sa capacité à acquitter les montants qui sont payables. Le paragraphe 224(1) de la Loi vise simplement « les fonds autrement payables ». Le fait qu'une personne dispose de moyens pour payer une somme donnée est sans effet sur la question de savoir si ladite somme est payable, même si cela aura probablement une incidence sur celle de savoir si la somme sera payée. À mon avis, le montant de la dette est devenu payable lorsqu'Elizabeth (Elsa) Houweling a vendu ses actions. L'appelante n'a pas payé ce montant au receveur général. Elle a omis de se conformer à la demande formelle de paiement.
+[45] Le paragraphe 224(2) de la Loi dispose comme suit :
+(2) Le récépissé du ministre relatif à des fonds versés, comme l'exige le présent article, constitue une quittance valable et suffisante de l'obligation initiale jusqu'à concurrence du paiement.
+[46] Il me semble que les montants versés par l'appelante en conséquence de la demande formelle de paiement délivrée en application du paragraphe 224(1) de la Loi ou en conséquence de l'obligation découlant du paragraphe 224(4) de la Loi (pour avoir omis de se conformer à la demande formelle de paiement) constitueraient des fonds versés « comme l'exige le présent article » et qu'ainsi, le versement de fonds en vertu de la demande de paiement ou en raison de l'obligation imposée à l'appelante en application du paragraphe 224(4) de la Loi aurait pour effet de libérer l'appelante de son obligation envers Paul Houweling. L'appelante n'est pas tenue de payer davantage que la dette dont elle a reconnu être redevable envers Paul Houweling, à savoir 758 630 $. Seule l'identité de la personne à qui le montant doit être payé a changé. Ce n'est plus Paul Houweling, mais le receveur général. La somme qui était payable à Paul Houweling est désormais payable au receveur général. Il s'agit clairement d'une somme que l'appelante a reçue directement ou indirectement (en conséquence de l'avance de fonds faite par Paul Houweling à Peter Bos et de la prise en charge de la dette par l'appelante) et qu'elle a considérée comme une dette pendant plusieurs années. Même si l'appelante ne bénéficiera pas de l'avantage inattendu qu'elle aurait tiré de la remise de la dette, je ne pense pas que l'obligation faite à l'appelante de payer une dette qu'elle a reconnue pendant plusieurs années devrait être considérée comme une sanction, et l'appelante n'a pas non plus prétendu qu'il devrait en être ainsi.
+[47] L'appel est par conséquent rejeté, avec dépens.
+Signé à Halifax (Nouvelle‑Écosse), ce 20e jour d'août 2010.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 1er jour de décembre 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 431
+No DU DOSSIER DE LA COUR : 2008‑2708(IT)G
+INTITULÉ : IMPERIAL PACIFIC GREENHOUSES LTD. ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Nanaimo (Colombie‑Britannique)
+DATE DE L'AUDIENCE : Les 15 et 16 juillet 2010
+MOTIFS DU JUGEMENT : L'honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 20 août 2010
+COMPARUTIONS :
+Représentant de l'appelante :
+M. Albert De Vries
+Avocats de l'intimée :
+Me Ron D. F. Wilhelm
+Me David Everett
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : Miles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Houweling c. La Reine, 2006 CCI 59 (porté en appel devant la Cour d'appel fédérale, 2006 CAF 346, autorisation d'appel devant la Cour suprême du Canada refusée, [2006] C.S.C.R. no 511 (QL)).
+[2] 3087‑8847 Québec inc. c. La Reine, 2007 CCI 302.
+[3] Les états financiers relatifs à l'exercice terminé le 31 décembre 2001 n'ont pas été inclus. La perte a été déterminée en tenant compte d'un déficit de 225 677 $ à la fin de l'année 2000 et d'un déficit de 766 018 $ au début de l'année 2002.
+[4] La perte relative à cet exercice correspond à la perte déterminée avant la prise en compte des gains découlant des remises de dette.
+[5] Les notes accompagnant les états financiers de l'appelante pour l'exercice terminé le 31 juillet 2006 comportent une indication suivant laquelle l'appelante avait [TRADUCTION] « annulé trente actions de catégorie A pour une contrepartie nulle et émis soixante actions de catégorie A pour un prix de souscription global de 0,60 $ ». Ces opérations n'apparaissent pas dans le registre des membres produit en preuve, et le transfert des actions d'Elizabeth (Elsa) Houweling à Albert De Vries ne figure pas non plus audit registre. Il est impossible d'établir si l'annulation et l'émission des actions de catégorie A en 2006 sont intervenues avant ou après la cession des actions d'Elizabeth (Elsa) Houweling à Albert De Vries. Quoi qu'il en soit, il semble que le prix d'achat des actions détenues par Elizabeth (Elsa) Houweling représentait davantage qu'un montant symbolique.

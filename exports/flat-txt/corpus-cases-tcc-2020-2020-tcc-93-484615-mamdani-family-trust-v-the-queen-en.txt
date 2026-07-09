@@ -1,0 +1,401 @@
+Title: Mamdani Family Trust v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/484615/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-93-484615-mamdani-family-trust-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-08-27
+
+# Mamdani Family Trust v. The Queen
+
+- Citation: 2020 TCC 93
+- Decision date: 2020-08-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4557, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mamdani Family Trust v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-08-27
+Neutral citation
+2020 TCC 93
+File numbers
+2017-3741(IT)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2017-3741(IT)G
+BETWEEN:
+MAMDANI FAMILY TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on April 23, 2019, at Calgary, Alberta
+Before: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellant:
+Jehad Haymour, Sophie Virji
+Counsel for the Respondent:
+Sonia Bellerive
+JUDGMENT
+The Appeal is dismissed, with costs.
+The parties shall have 30 days from the date of this Judgment to reach an agreement on costs and to so advise the Court, failing which the Respondent shall have a further 30 days to file written submissions on costs, and the Appellant shall have yet a further 30 days to file a written response. Any such submissions shall be limited to five pages in length. If, within the applicable time limits, the parties do not advise the Court that they have reached an agreement and no submissions are received from the parties, costs shall be awarded to the Respondent in accordance with Tariff B.
+Signed at Vancouver, British Columbia, this 27th day of August 2020.
+“D. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2020 TCC 93
+Date: 20200827
+Docket: 2017-3741(IT)G
+BETWEEN:
+MAMDANI FAMILY TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION
+[1] This Appeal raised two related questions pertaining to a transfer of property that comes within subsection 160(1) of the Income Tax Act (the “ITA”) [1] :
+a) When determining the fair market value of the transferred property, for the purposes of subparagraph 160(1)(e)(i) of the ITA, should the amount of income tax payable by the transferee, by reason of the receipt of the transferred property, be taken into consideration?
+b) Should this Court disregard the decision of the Federal Court of Appeal in the Gilbert case? [2]
+[2] This Appeal was instituted on behalf of the Mamdani Family Trust (the “Trust”) in response to Notice of Assessment No. 3768191, issued on April 15, 2016 by the Canada Revenue Agency (the “CRA”), on behalf of the Minister of National Revenue (the “Minister”).
+II. FACTS
+[3] The Trust is an inter vivos family trust that was settled on February 8, 1999 and that was, and continues to be, resident in Alberta, Canada. The only trustee of the Trust is Riaz Mamdani. The beneficiaries of the Trust include Riaz Mamdani, his spouse (Zainool Mamdani) and their children, grandchildren, parents, siblings, nieces and nephews. All of the beneficiaries of the Trust who are relevant for the purposes of this Appeal are resident in Alberta, Canada. In 2000, 2001 and 2002, the Trust owned all the issued shares in the capital of Global Equity Fund Ltd. (“Global”), a Canadian private corporation, with a taxation year ending on September 30.
+[4] During the period 2000-2002, Global was, for the purposes of subsection 160(1) of the ITA, liable to pay one or more amounts under the ITA. On September 30, 2000, 2001 and 2002, Global paid taxable dividends to the Trust in the respective amounts of $2,733,984, $743,000 and $25,400. Each time that Global paid one of the above dividends, the amount that Global was liable to pay under the ITA in or in respect of the particular taxation year or any preceding taxation year exceeded the amount of the dividend.
+[5] In its Notice of Appeal, the Trust admitted that:
+a) during the taxation years in question, the Trust did not deal at arm’s length with Global;
+b) the Trust received dividends from Global at times when Global was liable to pay one or more amounts under the ITA; and
+c) each time that Global paid a dividend to the Trust in 2000, 2001 and 2002, the liability of Global to pay one or more amounts under the ITA exceeded the amount of the particular dividend. [3]
+As the Trust did not give any consideration to Global for the dividends paid in 2000, 2001 and 2002, the only question to be resolved in this Appeal relates to the fair market value of the dividends at the time that they were paid by Global to the Trust.
+[6] At the hearing, Kim Moody, the accountant for the Trust, testified that, when preparing the income tax returns of the Trust and Riaz and Zainool Mamdani for 2000, 2001 and 2002, he considered various scenarios in order to determine whether the Trust should include the entire amount of each dividend in its income or whether it would be advisable to allocate some of that dividend to one or more of its beneficiaries. [4] He testified that, if the only income of the Trust in 2000, 2001 and 2002 were the taxable dividends in question and if no portion of those dividends were allocated to beneficiaries, the aggregate amount of federal and provincial income tax that would have been payable by the Trust would have been as set out in three mock income tax returns (as he called them), which were entered into evidence. [5] During the course of Mr. Moody’s cross-examination, he realized that, in preparing the mock returns, he had overlooked certain losses and deductions that were available to the Trust, such that the amounts of hypothetical tax shown in the mock returns were slightly greater than would have been the case if those losses and deductions had been taken into consideration. Later in the proceedings, counsel for the Trust provided the Court with a document showing the amount of aggregate federal and provincial income tax that would have been payable by the Trust if it had not allocated any portion of the dividends to its beneficiaries and if it had taken into consideration the available losses and other deductions. On the assumption that no portion of the dividends were allocated by the Trust to its beneficiaries, the amounts of hypothetical tax calculated by Mr. Moody are set out in Table A below. The column headed “Hypothetical Tax Payable by Trust” (i.e., the second column from the right) shows the amounts of tax set out in the mock returns. The column headed “Revised Hypothetical Tax Payable by Trust” (i.e., the right-hand column) shows the revised amounts, after taking into consideration the losses and other deductions that were available to the Trust.
+Table A
+Year
+Dividend
+Hypothetical Tax Payable by Trust
+Revised Hypothetical Tax Payable by Trust
+2000
+$2,733,984.00
+$814,066.15
+$806,312.56
+2001
+743,000.00
+178,939.17
+146,969.25
+2002
+25,400.00
+6,117.17
+2,323.17
+Total
+$3,502,384.00
+$999,122.49
+$955,604.98
+[7] Upon receiving the dividend in the amount of $2,733,984 on September 30, 2000, the Trust allocated $100,000 thereof to Riaz Mamdani and $300,000 to Zainool Mamdani. Upon receiving the taxable dividend of $743,000 on September 30, 2001, the Trust allocated $174,179 thereof to Riaz Mamdani and $174,179 thereof to Zainool Mamdani. Upon receiving the taxable dividend of $25,400 on September 30, 2002, the Trust allocated $4,094 thereof to Riaz Mamdani, but did not make any allocation to Zainool Mamdani. [6] The total federal and provincial income tax paid by the Trust, Riaz Mamdani and Zainool Mamdani in respect of the dividends is shown below.
+Table B
+Year
+Dividend
+Tax Paid by Trust
+Tax Paid by Riaz
+Tax Paid by Zainool
+Total Tax
+2000
+$2,733,984
+$686,160
+$29,081
+$85,345
+$800,586
+2001
+743,000
+66,241
+40,674
+30,546
+137,461
+2002
+25,400
+16,335
+0
+n/a
+16,335
+Total
+$3,502,384
+768,736
+69,755
+$115,891
+$954,382 [7]
+III. EXPERT EVIDENCE
+[8] At the hearing of this Appeal, counsel for the Trust called Douglas D. Welsh, CPA, CA, CBV, of Welsh Valuation Inc., to provide expert opinion evidence concerning the fair market value of the dividends paid by Global to the Trust. Counsel for the Crown objected to the admission of such evidence; however, for the reasons explained below, I permitted Mr. Welsh to testify and admitted his Calculation Valuation Report into evidence. [8]
+[9] Counsel for the Crown submitted that the opinion evidence of Mr. Welsh was neither relevant nor necessary. She submitted that, by reason of the decision of the Federal Court of Appeal in Gilbert, there is no need to consider whether the tax liability of a dividend recipient should be taken into consideration in determining the fair market value of the dividend, such that the evidence is irrelevant because it would impede the exercise by the Court of its judicial function. She further submitted that the only issue in this Appeal is a question of law, i.e., whether Gilbert is determinative of the outcome of the Appeal. According to the Crown, the expert evidence is unnecessary because it would not assist the Court in determining that question of law. [9]
+[10] As summarized below, counsel for the Trust submitted that the Federal Court of Appeal had decided Gilbert in error. If that submission is correct, it would be important to obtain expert opinion evidence as to the fair market value of the dividends received by the Trust from Global, which might (at least according to the Trust) entail an analysis of the impact, if any, of the receipt of the dividends paid by Global to the Trust and the resultant tax liability of the Trust and its beneficiaries on the determination of the fair market value of those dividends. I acknowledge that, if Gilbert was correctly decided, the evidence of Mr. Welsh is not necessary. However, if Gilbert does not apply in this situation, expert evidence is necessary to assist the Court in determining the fair market value of the dividends paid by Global to the Trust. Out of an abundance of caution, and having conducted a quick mental cost/benefit analysis, I decided that it would be better to err on the side of hearing the expert evidence, rather than not hearing the evidence.
+[11] Mr. Welsh’s evidence is summarized by six questions and the corresponding responses from his report, as set out, in part, below:
+Question A: Knowing that federal and provincial taxes in the amounts outlined in Table 2 [10] would be payable when due on the 2000 taxable dividend of $2,733,984 to be received on September 30, 2000, what is the maximum amount that an arm’s length shareholder (that is a trust) would pay on September 30, 2000 for a stream of taxable dividend income of $2,733,984?
+Response: … Therefore, in summary and under the assumption outlined in Question A, the arm’s length shareholder (that is a trust) may pay and an arm’s length corporation may accept an amount in the range of $1,919,918 to $1,936,159 … as at September 30, 2000, for the $2,733,984 of 2000 Dividend Income Stream, if the trust chose to retain the funds.
+Question B: How would the answer to question A change if that arm’s length shareholder (that is a trust) knew that it could reduce its federal and provincial taxes by allocating the income in the manner outlined in Table 1 [11] above and knowing that the beneficiaries would pay the taxes referenced in Table 1?
+Response: … Therefore, in summary and under the assumptions outlined in Question B, the arm’s length shareholder (that is a trust) may pay and an arm’s length corporation may accept an amount in the range of $1,933,398 to $1,949,370 … as at September 30, 2000, for the $2,733,984 Dividend Income Stream, assuming similar tax rates and tax characteristics as the Mamdani Family Trust.
+Question C: Knowing that federal and provincial taxes in the amounts outlined in Table 2 would be payable when due on the 2000 [12] [sic] taxable dividend of $743,000 to be received on September 30, 2001, what is the maximum amount that an arm’s length shareholder (that is a trust) would pay on September 30, 2001 for a stream of taxable dividend income of $743,000, assuming that the full dividend income stream would be retained in the trust?
+Response: … Therefore, in summary and under the assumption outlined in Question C, the arm’s length shareholder (that is a trust) may pay and an arm’s length corporation may accept an amount in the range of $564,061 to $565,940 … as at September 30, 2001, for the $743,000 of 2001 Dividend Income Stream, if the trust chose to retain the funds.
+Question D: How would the answer to question C change if that arm’s length shareholder (that is a trust) knew that it could reduce its federal and provincial taxes by allocating the income in the manner outlined in Table 1 above and knowing that the beneficiaries would pay the taxes referenced in Table 1?
+Response: … Therefore, in summary and under the assumptions outlined in Question D, the arm’s length shareholder (that is a trust) may pay and an arm’s length corporation may accept an amount in the range of $605,539 to 606,982 … as at September 30, 2001, for the $743,000 of 2001 Dividend Income Stream, assuming similar tax rates and tax characteristics as the Mamdani Family Trust.
+Question E: Knowing that federal and provincial taxes in the amounts outlined in Table 1 would be payable when due on the 2002 taxable dividend of $25,400 to be received on September 30, 2002, what is the maximum amount that an arm’s length shareholder (that is a trust) would pay on September 30, 2002 for a stream of taxable dividend income of $25,400, assuming that the full dividend income stream would be retained in the trust?
+Response: … Therefore, in summary and under the assumption outlined in Question E, the arm’s length shareholder (that is a trust) may pay and an arm’s length corporation may accept an amount in the range of $19,283 to $19,345 … as at September 30, 2002, for the $25,400 of 2002 Dividend Income Stream, if the trust chose to retain the funds.
+Question F: How would the answer to question E change if that arm’s length shareholder (that is a trust) knew that it could reduce its federal and provincial taxes by allocating the income in the manner outlined in Table 1 above and knowing that the beneficiaries would pay the taxes referenced in Table 1?
+Response: … Therefore, in summary and under the assumptions outlined in Question F, the arm’s length shareholder (that is a trust) may pay and an arm’s length corporation may accept an amount in the range of $9,065 to $9,231 … as at September 30, 2002, for the $25,400 of 2002 Dividend Income Stream, assuming similar tax rates and tax characteristics as the Mamdani Family Trust. [13]
+[12] In essence, Mr. Welsh based his valuation on the assumption that a corporation that is about to declare, or that has just declared, a dividend may sell that stream of taxable dividend income to an arm’s-length shareholder. During his testimony, Mr. Welsh acknowledged that, in his 26 years as a chartered business valuator, he had never seen a sale of a stream of taxable dividend income, nor had he ever valued such an income stream prior to this assignment.
+[13] Although I admitted Mr. Welsh’s testimony and report into evidence, I am not persuaded that the approach that he took is the proper method to determine the fair market value of a dividend for the purposes of section 160 of the ITA. It seems to me that, if a corporation has declared a dividend, the dividend belongs to the holder of the share on which the dividend was declared, [14] such that the corporation is not in a position to sell that dividend to someone else. On the other hand, if the corporation has not yet declared a dividend when it purports to sell the dividend income stream, it is not actually selling a dividend (because the dividend is not yet declared), but is selling something else.
+[14] The position taken by the Trust is based on the definition of “fair market value,” as set out in the Henderson Estate and Bank of New York and Nash cases (which are discussed below). That definition is premised on a sale in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm’s length and under no compulsion to buy or sell. It is my understanding that Mr. Welsh and counsel for the Trust assumed that a dividend can be bought and sold in such a market. While that may well be the case, I am not persuaded that the corporate law and income tax considerations applicable to the declaration, payment and receipt of a dividend are as assumed by Mr. Welsh.
+[15] In an effort to understand Mr. Welsh’s opinion, I explored with him several scenarios involving dividend recipients in different tax circumstances. Mr. Welsh seemed to acknowledge that the fair market value of a dividend could fluctuate with the tax circumstances of the recipient shareholder. [15] This may be illustrated by an example involving a private corporation with five equal shareholders, being an individual in the highest tax bracket, an individual in the lowest tax bracket, an individual with substantial loss carry-forwards, a holding company eligible for a deduction under subsection 112(1) of the ITA, and a tax exempt entity, with each shareholder holding 20% of the issued shares of the corporation and each shareholder receiving, from the corporation, a dividend in the amount of $1,000. According to Mr. Welsh’s opinion, the fair market value of each of the $1,000 dividends would not necessarily be the same. Specifically, by reason of the tax payable (or not payable) by the respective shareholders, in some cases, according to Mr. Welsh, the fair market value of the dividend would be less than $1,000. For instance, it would seem, based on the approach taken by Mr. Welsh, that the fair market value of the dividend paid to the individual in the highest tax bracket would be less than the fair market value of the dividend paid to the tax-exempt entity, notwithstanding that the amount of each dividend is $1,000.
+[16] As explained below, I am of the view that the outcome of this Appeal is to be determined in accordance with the Gilbert case. However, if Gilbert were not to apply, I would not be persuaded that the valuation opinion given by Mr. Welsh represents the proper methodology for valuating the dividends paid by Global to the Trust.
+IV. ISSUE
+[17] The two questions posed in the opening paragraph of these Reasons relate to the same issue, which is whether, for the purposes of subparagraph 160(1)(e)(i) of the ITA, the federal and provincial income taxes payable by the Trust and by Riaz Mamdani and Zainool Mamdani, in respect of the dividends paid by Global to the Trust on September 30, 2000, 2001 and 2002 respectively, may be taken into consideration in determining the fair market value of the property transferred by Global to the Trust (i.e., the dividends paid by Global to the Trust).
+V. ANALYSIS
+A. Section 160
+[18] In 2000, 2001 and 2002, the relevant portions of subsection 160(1) of the ITA read as follows:
+160(1) Where a person has … transferred property, either directly or indirectly, by means of a trust or by any other means whatever, to …
+(a) [n/a],
+(b) [n/a], or
+(c) a person with whom the person was not dealing at arm’s length,
+the following rules apply:
+(d) [n/a], and
+(e) the transferee and transferor are jointly and severally liable to pay under this Act an amount equal to the lesser of
+(i) the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property, and
+(ii) [n/a]…. [16]
+[19] In the Livingston case, the Federal Court of Appeal summarized the criteria to apply when considering subsection 160(1) of the ITA, as follows:
+In light of the clear meaning of the words of subsection 160(1), the criteria to apply when considering subsection 160(1) are self-evident:
+1) The transferor must be liable to pay tax under the Act at the time of transfer;
+2) There must be a transfer of property, either directly or indirectly, by means of a trust or by any other means whatever;
+3) The transferee must either be:
+i. The transferor’s spouse or common-law partner at the time of transfer or a person who has since become the person’s spouse or common-law partner;
+ii. A person who was under 18 years of age at the time of transfer; or
+iii. A person with whom the transferor was not dealing at arm’s length.
+4) The fair market value of the property transferred must exceed the fair market value of the consideration given by the transferee. [17]
+[20] In Livingston, the Federal Court of Appeal also noted that the purpose of subsection 160(1) of the ITA is to prevent a taxpayer from transferring his property to a non-arm’s-length person so as to thwart the CRA’s efforts to collect money owed to the Minister. [18]
+[21] Subsection 160(1) of the ITA does not provide for the exercise of judicial discretion. In Bleau, Justice Archambault stated:
+If all the conditions set out at section 160 are met, the Court must apply that section and has no other choice than to confirm the assessment. [19]
+B. The Gilbert Case
+[22] As indicated above, counsel for the Trust submitted that I should disregard the decision of the Federal Court of Appeal in Gilbert, primarily on the grounds that no expert or factual evidence had been led before the trial judge in that case to support any calculation of the fair market value of the dividends and that the Federal Court of Appeal did not carry out the requisite statutory interpretation of the term “fair market value.” Counsel for the Trust also submitted that the Federal Court of Appeal erred in Gilbert by stating that the fair market value determination had to be assessed in the hands of the transferor. [20]
+[23] In Gilbert, in two taxation years, at a time when it had an outstanding tax liability, a corporation whose shares were owned equally by Mr. and Mrs. Gilbert, paid dividends to them. Mr. and Mrs. Gilbert reported the dividends on their respective income tax returns, and, while not so stated in the trial judge’s reasons, it appears that they likely paid the requisite tax in respect of those dividends. Subsequently, the Minister assessed Mr. and Mrs. Gilbert under subsection 160(1) of the ITA.
+[24] The trial judge held that the payment of the dividends constituted a transfer of property, for which no consideration was given by the shareholders, such that subsection 160(1) was applicable. However, in determining the fair market value of the dividends “at the time of transfer” (referencing the phrase used in subparagraph 160(1)(e)(i) of the ITA), the trial judge stated:
+34. What of the fair market value of a dividend? Must it be reduced by the amount of tax payable by the dividend transferee, as counsel for the Appellants contends?...
+36. … According to counsel, the fair market value is the likeliest price that a person could obtain in a free competitive market and, in such a market, the fair market value of a dividend would be the amount of the dividend less the tax payable.
+37. I find the definition of fair market value proposed by counsel correct, if I refer to the definition of that expression in the Dictionnaire de droit québécois et canadien, Hubert Reid, 2nd ed., Wilson & Lafleur, which reads as follows:
+[TRANSLATION]
+Highest price that can be obtained in a free market, where the parties to a transaction are well informed, prudent and independent of one another and none is compelled to conclude the transaction….
+39. Can the notion of fair market value be applied to a dividend? In a transfer case subject to section 160 of the Act, I must expressly consider that section 160 of the Act refers to the fair market value of the transferred property. In that perspective, relying on the notion of fair market value, what would be the highest price that a dividend issuer could obtain from a third party buyer. It seems to me that the answer can only be the amount of the dividend less the tax payable on that dividend. [21]
+[25] On appeal, in overturning the decision of the trial judge, the Federal Court of Appeal stated:
+17. I now turn to the second issue. According to subparagraph 160(1)(e)(i) of the Act, the transferee and the transferor are jointly and severally liable to pay a tax debt in an amount equal to “the amount, if any, by which the fair market value of the property at the time it was transferred exceeds the fair market value at that time of the consideration given for the property”.
+18. In Nash v. Canada, 2005 FCA 386, our Court agreed with the definition of “fair market value” set out by Cattanach J. of the Federal Court in Henderson Estate and Bank of New York v. M.R.N [sic] (1973), 73 D.T.C. 5471, at page 5476 (affirmed by this Court in [1975] F.C.J. No. 613), namely:
+… the highest price an asset might reasonably be expected to bring if sold by the owner in the normal method applicable to the asset in question in the ordinary course of business in a market not exposed to any undue stresses and composed of willing buyers and sellers dealing at arm’s length and under no compulsion to buy or sell. I would add that the foregoing understanding as I have expressed it in a general way includes what I conceive to be the essential element which is an open and unrestricted market in which the price is hammered out between willing and informed buyers and sellers on the anvil of supply and demand.
+19. Moreover, in Hewett v. Canada, [1997] F.C.J. No. 1541 (QL), our Court determined that the fair market value of property had to be assessed in the hands of the transferor and that the value of transferred property had to be the same in the patrimony of the transferor as it was in that of the transferee.
+20. In this case, the transferred property is a dividend in the amount of $55,000 received by each of the respondents. Applying the definition of fair market value accepted by our Court in Nash, supra, I find that the fair market value paid to the transferor for the purposes of section 160 is $55,000 for each of the respondents.
+21. It is therefore this amount which must be assessed, i.e. the amount that the Minister could have seized in the hands of the corporation had the transfer not been effected. It appears to me that this determination is the only one possible considering the fact that the fair market value must be assessed by considering that the property is still in the hands of the transferor, namely the respondents [sic – I think that this should be a reference to the corporation that paid the dividends, given that the respondents were the transferees]. This finding is consistent with section 160 of the Act, the purpose of which is to prevent taxpayers from transferring their property in order to circumvent the Minister’s assessment for unpaid taxes.
+22. Moreover, I am satisfied that the fiscal consequences for the respondents resulting from the transfer are not at all relevant in regard to determining fair market value.
+23. Accordingly, in my opinion, [the trial judge] erred in deciding that the fair market value of a dividend is the amount of the dividend less the income tax payable on that dividend. [22]
+[26] In criticizing the analysis of the Federal Court of Appeal in Gilbert, counsel for the Trust stated:
+With respect, the FCA’s analysis cannot be reconciled to the very definition of “fair market value” that the FCA referred to. The FCA recognized the understood definition of fair market value, which requires a determination as to the highest price that arm’s length buyers and sellers would arrive at “in an open and unrestricted market in which the price is hammered out between willing and informed buyers and sellers on the anvil of supply and demand”. The FCA, however, then ignored the very premise of that definition and stated that the fair market value must be “assessed in the hands of the transferor”. [23] [Footnotes omitted.]
+[27] In considering the above submission by counsel for the Trust, it appears to me that challenges and difficulties arise when endeavouring to apply the Nash/Henderson Estate definition of “fair market value” in the context of a dividend paid by a corporation to a shareholder. As noted above, in discussing the evidence of Mr. Welsh, a corporation which has declared a dividend to its shareholders is not in a position to sell that dividend to some other person. If the corporation, before declaring a dividend, sells the income stream that would otherwise be represented by the dividend (once declared), the corporation is not actually selling a dividend. Therefore, I question whether there is a “normal method applicable to” the sale of a dividend, whether a corporation that has declared a dividend to a shareholder, before paying the dividend, would, “in the ordinary course of business,” sell the dividend to another shareholder (or to any third-party, for that matter), and whether there is actually “an open and unrestricted market” for such a dividend. [24] In this regard, the trial judge in Gilbert noted that she was unable to find any decision or doctrine on the fair market value of a dividend. [25] Similarly, Mr. Welsh stated that he had never seen a situation in which a dividend had been sold by a corporation that was about to pay the dividend to its shareholders.
+[28] This uncertainty calls for a determination of the time at which the fair market value of a dividend is to be ascertained for the purposes of subparagraph 160(1)(e)(i) of the ITA.
+C. Timing of the Determination of Fair Market Value
+[29] In endeavouring to ascertain the time at which the fair market value of transferred property is to be determined, it is important to note that subparagraph 160(1)(e)(i) of the ITA refers to “the fair market value of the property at the time it was transferred….” This suggests that the fair market value of the property is not to be determined at a point in time after the time of the transfer of the property.
+[30] The Hewett case dealt with a situation where a husband with a substantial tax liability transferred his interest in the matrimonial home to his wife for no consideration, which ultimately led to an assessment under subsection 160(1) of the ITA. In considering the determination of the fair market value of the transferred interest, Justice McArthur stated:
+49. I have given careful consideration to the appellant’s counsel’s submissions with regard to the meaning of “fair market value” as it is contained in section 160. Is the fair market value to be interpreted as the fair market value of the property in the hands of the transferor or the transferee?...
+51. To determine the intention of the legislature, it is of assistance to consider the purpose of paragraph 160(1)(e). The purpose of that section is to prevent a person, such as the husband in the present case, with substantial income tax liability from defeating the claim of the Minister by transferring his assets or his interest in property to a spouse at a low or nil consideration. The claim by the Minister was against the husband and not the appellant.
+52. It flows from that that the Minister has a claim against the financial interest of the husband who transferred his equity in the home while indebted to the respondent. [26]
+[31] In affirming that decision, the Federal Court of Appeal stated:
+We agree with the learned Tax Court judge that the purpose of section 160 of the Income Tax Act is to prevent a taxpayer from defeating the claim of the Minister to unpaid taxes by transferring his assets to a spouse, or certain other persons, for little or no consideration. In our view, this means that the “property” referred to in the section must be that property interest of the taxpayer that would have been available to the Minister for attachment had the transfer not taken place. In this case that interest was the taxpayer’s joint tenancy interest in the family home as it existed immediately prior to its release to his wife. [27] [Footnote omitted.]
+[32] In the Bergeron case, Justice Tardif stated:
+I believe that the FMV should be assessed immediately before the transfer of the property, that is, before the property becomes part of the transferee’s assets. This interpretation appears to me consistent, moreover, with the spirit of section 160 of the Act. [28]
+[33] Justice Tardif went on to state:
+Furthermore, the tax liability of a transferee to whom section 160 applies is essentially limited to the value added to his assets as a result of the transfer. [29]
+Thus, a court must determine the value added to a transferee’s assets as a result of the transfer. In making this determination in the context of a dividend, paragraph 82(1)(a) of the ITA is helpful; the relevant portions of that provision read as follows in 2000, 2001 and 2002, when the dividends in question were paid:
+82(1) In computing the income of a taxpayer for a taxation year, there shall be included
+(a) the total of …
+(ii) the amount, if any, by which
+(A) the total of all amounts received by the taxpayer in the year from corporations resident in Canada as, on account of, in lieu of payment of or in satisfaction of, taxable dividends…. [Emphasis added.]
+Commenting on clause 82(1)(a)(ii)(A), as well as paragraph 12(1)(j), of the ITA, the Federal Court of Appeal stated the following:
+The clear result of the combined operation of paragraph 12(1)(j) and clause 82(1)(a)(ii)(A) of the Income Tax Act is that such dividends are taxable only when received, not when they are merely receivable. [30]
+Based on both the statute and the Banner case, a liability to pay tax in respect of a dividend arises when the dividend is received. In other words, by the time the liability to pay tax in respect of the dividend arises, the dividend has been received by, and belongs to, the recipient (i.e., the shareholder). The pre-tax amount received constitutes “the value added to [the recipient’s] assets as a result of the transfer [i.e., the payment of the dividend],” for the purpose of applying the principle enunciated in Bergeron.
+[34] In Larochelle, Justice Tardif revisited the same issue and affirmed the position that he had taken previously (in Bergeron), although in more image-laden language:
+39. There is another concern with respect to the transfer of property described in section 160 of the Act: when should the FMV of property be determined?
+40. In this respect, the Courts clearly recognized, as I said in Bergeron …, that the time of transfer is similar to the specific moment at which a camera shutter clicks and the valuation must be made with respect to the situation in the seconds preceding this click.
+41. This nuance is important in that it permits an understanding that the value of the transferred property must have the same value in the wealth of the transferor as it does in that of the transferee. In other words, the FMV of the property being transferred, and subject to section 160 of the Act, must be the same and cannot be changed.
+42. This is a fundamental requirement…. [31]
+In Bergeron and Larochelle, Justice Tardif was concerned with circumstances where a transferor might impose encumbrances or restrictions on the transferred property, such that the property would have a lesser value in the hands of the transferee than it had in the hands of the transferor. Nevertheless, in my view, the principles that he laid out, as set out above, are applicable where the transferred property is a dividend paid by a corporation to a shareholder.
+[35] To conclude this portion of the analysis, I return to the Gilbert case, in which the Federal Court of Appeal stated that, where, for the purposes of subsection 160(1) of the ITA, the transferred property is a dividend, the amount that should be assessed under that subsection is “the amount that the Minister could have seized in the hands of the corporation had the transfer not been effected.” [32] Consequently, “the fair market value must be assessed by considering that the property is still in the hands of the transferor, …” and by ignoring “the fiscal consequences” (i.e., tax implications) for the transferee. [33] The Appellant has not persuaded me that Gilbert was wrongly decided by the Federal Court of Appeal. Not only do I concur with the decision of the Federal Court of Appeal in Gilbert, but I am bound by that decision. It is not my place to take a different approach in deciding this Appeal.
+D. Double-Taxation Argument
+[36] Counsel for the Trust argued that, by applying subsection 160(1) of the ITA to the full amount of the dividend, which has already been included, under subsection 82(1) of the ITA, in computing the income of the Trust, there is double taxation. However, subsection 160(1) is not a taxing or charging provision, but, rather, is a tax-collection provision, as explained by Justice Rip (as he then was) in Algoa Trust, as follows:
+41. The purpose of section 160 is to foil an attempt by a taxpayer who is liable to pay any amount under the Act to avoid the fisc by transferring property otherwise available to satisfy the liability to one of three groups of persons, including a person with whom he or she was not dealing at arm’s length….
+49. Subsection 160(1) is not an income inclusion provision. It is found in Division I of Part I of the Act which, amongst other things, sets out procedures and requirements for returns, assessments, payment and appeals. Subsection 160(1) is included with several provisions, starting at section 153 and terminating at section 163.1, concerning payment of tax. The ability of the Minister to collect amounts owed under the Act may be seriously prejudiced when a debtor conveys property to another for no or little consideration. [34]
+Thus, as subsection 160(1) does not impose tax, but merely assists in the collection of tax owed by a transferor, the transferee is not subject to double taxation.
+[37] Nevertheless, an obiter comment in the Bleau case evokes sympathy for the Trust’s double-taxation argument. In a footnote to his decision in Bleau, Justice Archambault noted that, where subsection 160(1) was applied to an amount that had been received by a taxpayer and that also constituted a benefit taxed under subsection 15(1) of the ITA, it was disturbing that Ms. Bleau was both taxed under subsection 15(1) and “required to hand over that amount [i.e., the benefit] to the Minister, under section 160, as payment of the tax owed by” the tax debtor. Justice Archambault suggested that, once Ms. Bleau had paid the amount assessed under section 160, she should be entitled to a deduction so as to neutralize the tax that she had already paid by reason of subsection 15(1). Justice Archambault acknowledged that the ITA does not provide for such a deduction, called for the ITA to be amended to ensure equitable treatment, and said that he would like an administrative arrangement to be found to neutralize what he called the abusive effects that result when both section 15 and section 160 are applied to the same payment. [35]
+[38] It seems that a similar argument was raised by the appellants in Parihar, but was not accepted by the Court. Rather, Justice Bocock held that a shareholder who has been assessed under subsection 15(1) of the ITA may also be assessed under subsection 160(1) of the ITA, as the two provisions have different purposes. Justice Bocock also noted (without mentioning the comment made by Justice Archambault in the above-referenced footnote) that, in Bleau, Justice Archambault had held that subsection 160(1) may be applied to a transferred amount, notwithstanding that the same amount has already been taxed under subsection 15(1). [36]
+[39] In the trial decision in Gilbert, Justice Lamarre Proulx noted that, under US tax law, in somewhat similar circumstances, where the US equivalent of our subsection 160(1) is applied, such that a taxpayer is required to remit to the Internal Revenue Service an amount that the taxpayer has previously included in income, the taxpayer may deduct a loss (presumably to recognize the amount that was previously taxed under the Internal Revenue Code). [37] That observation by Justice Lamarre Proulx does not assist the Trust, as the ITA has no corresponding provision (although perhaps it should, as suggested by Justice Archambault).
+[40] To summarize, while the application of both subsection 82(1) and subsection 160(1) of the ITA may create a hardship for the Trust, [38] unfortunately the ITA does not contain a provision to remedy that hardship. [39]
+VI. CONCLUSION
+[41] For the reasons set out above, this Appeal is dismissed.
+[42] The Crown is entitled to costs. The parties shall have 30 days from the date of the Judgment in respect of this Appeal to reach an agreement on costs and to so advise the Court, failing which the Crown shall have a further 30 days to file written submissions on costs, and the Trust shall have yet a further 30 days to file a written response. Any such submissions shall be limited to five pages in length. If, within the applicable time limits, the parties do not advise the Court that they have reached an agreement and no submissions are received from the parties, costs shall be awarded to the Crown in accordance with Tariff B.
+Signed at Vancouver, British Columbia, this 27th day of August 2020.
+“D. Sommerfeldt”
+Sommerfeldt J.
+Appendix A
+Table 1 – Summary of Dividends Paid and Resulting Income Taxes (with some dividends passed to Beneficiaries)
+Year
+Total dividend
+Dividend retained in the Trust
+Income tax paid by the Trust
+Dividend allocated to Riaz Mamdani
+Income tax paid by Riaz Mamdani
+Dividend allocated to Zainool Mamdani
+Income tax paid by Zainool Mamdani
+Total income taxes paid by the Beneficiaries and the Trust
+2000
+$ 2,733,984
+$ 2,333,984
+$ 686,160
+29.40%
+$ 100,000
+$ 29,081
+29.08%
+$ 300,000
+$ 85,345
+28.45%
+$ 800,586
+29.28%
+2001
+743,000
+394,642
+66,241
+16.79%
+174,179
+40,674
+23.25%
+174,179
+30,546
+17.54%
+137,461
+18.50%
+2002
+25,400
+21,306
+16,335
+76.67%
+4,094
+-
+0.00%
+0
+-
+0.00%
+16,335
+64.31%
+Total
+$ 3,502,384
+$ 2,749,932
+$ 768,736
+$ 278,273
+$ 69,755
+$ 474,179
+$ 115,891
+$ 954,382
+[BLANK]
+[BLANK]
+[BLANK]
+27.95%
+[BLANK]
+25.07%
+[BLANK]
+24.44%
+[BLANK]
+Table 2 – Summary of Dividends Paid and Resulting Income Taxes (assuming all dividends retained in the Trust and no dividends to the Beneficiaries)
+Year
+Total dividend, all of which is retained in the Trust
+Income tax paid by the Trust
+2000
+$ 2,733,984
+$ 814,066
+29.78%
+2001
+743,000
+178,939
+24.08%
+2002
+25,400
+6,117
+24.08%
+Total
+$ 3,502,384
+$ 999,122
+[BLANK]
+[BLANK]
+28.53%
+CITATION:
+2020 TCC 93
+COURT FILE NO.:
+2017-3741(IT)G
+STYLE OF CAUSE:
+MAMDANI FAMILY TRUST AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+April 23, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+August 27, 2020
+APPEARANCES:
+Counsel for the Appellant:
+Jehad Haymour, Sophie Virji
+Counsel for the Respondent:
+Sonia Bellerive
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Jehad Haymour, Sophie Virji
+Firm:
+Bennett Jones LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, RSC 1985, c. 1 (5th supplement), as amended.
+[2] The Queen v. Gilbert, 2007 FCA 136; reversing 2005 TCC 672.
+[3] Notice of Appeal, para. 38-40.
+[4] See subsection 104(6) of the ITA.
+[5] Exhibits A-2 (for 2000), A-3 (for 2001) and A-4 (for 2002).
+[6] Exhibit A-1, being a document that was prepared by counsel for the Trust, that is entitled “Statement of Facts Admitted by the Respondent” and that represents the understanding of counsel for the Trust of the facts that were admitted by the Crown in response to a “Request to Admit” that was served by counsel for the Trust on counsel for the Crown and that also forms part of Exhibit A-1.
+[7] Ibid.
+[8] Exhibit A-8. Counsel for the Crown did not object to the qualifications of Mr. Welsh as an expert valuator.
+[9] Transcript, p. 53, lines 7-12.
+[10] Table 2 from Mr. Welsh’s report is set out in Appendix A.
+[11] Table 1 from Mr. Welsh’s report is set out in Appendix A.
+[12] On page 3 of Mr. Welsh’s report (i.e., Exhibit A-8), the dividend in question is correctly described as the “2001 taxable dividend of $743,000 to be received on September 30, 2001.” On page 13 of the report, where the response to Question C is given, the dividend is incorrectly described as shown above. I consider this to be a typographical error, which does not have any impact on my analysis or decision.
+[13] Exhibit A-8, pages 11-16.
+[14] Douglas S. Ewens, “Company Law Considerations Relating to Corporate Actions and Reorganizations,” Report of Proceedings of the Twenty-Eighth Tax Conference, 1976 Conference Report (Toronto: Canadian Tax Foundation, 1977), p. 224, at p. 235 & 237, fn. 100.
+[15] Transcript, p. 133, line 24 to p. 134, line 13.
+[16] Effective January 1, 2001, there was an amendment to paragraph 160(1)(a) of the ITA so as to replace “spouse” with “spouse or common-law partner”. However, that amendment has no relevance to this Appeal.
+[17] The Queen v. Livingston, 2008 FCA 89, para. 17.
+[18] Ibid., para. 18. See also The Queen v. Addison & Leyen Ltd., [2007] 2 SCR 793, 2007 SCC 33, para. 9, reversing 2006 FCA 107, and quoting para. 92 thereof; Wannan v. The Queen, 2003 FCA 423, para. 3; and The Queen v. 594710 British Columbia Ltd., 2018 FCA 166, para. 3, 98 & 120.
+[19] Bleau v. The Queen, 2006 TCC 36, para. 23; affirmed 2007 FCA 61. See also Woodland v. The Queen, 2009 TCC 434, para. 28; Bernier v. The Queen, 2010 TCC 85, para. 15; Parihar v. The Queen, 2015 TCC 52, para. 27; and Gentile Holdings Ltd. v. The Queen , 2020 TCC 29, para. 9.
+[20] Appellant’s Written Submissions, p. 1, para. 5.
+[21] Gilbert (TCC), supra note 2, para. 34, 36-37 & 39.
+[22] Gilbert (FCA), supra note 2, para. 16-23.
+[23] Appellant’s written submissions, para. 35.
+[24] The three phrases within quotation marks in the above sentence are taken from the definition of “fair market value” set out in Henderson Estate and Bank of New York, as quoted above in paragraph 18 of the Gilbert (FCA) case.
+[25] Gilbert (TCC), supra note 2, para. 38.
+[26] Hewett v. The Queen, [1996] 2 CTC 2560, 97 DTC 561 (TCC), para. 49 & 51-52.
+[27] Hewett v. The Queen, [1998] 1 CTC 106, 98 DTC 6003, 32 RFL (4th) 174 (FCA), para. 2.
+[28] Bergeron v. The Queen, 2003 TCC 286, para. 47.
+[29] Ibid., para. 49.
+[30] Banner Pharmacaps NRO Ltd. v. The Queen, 2003 FCA 367, para. 6.
+[31] Larochelle v. The Queen, 2004 TCC 360, para. 39-42.
+[32] Gilbert (FCA), supra 2, para. 21.
+[33] Ibid., para. 21-22.
+[34] Algoa Trust v. The Queen, [1993] 1 CTC 2294, 93 DTC 405 (TCC), para. 41 & 49.
+[35] Bleau, supra 19, footnote 9. In the version of this case reported at [2008] 1 CTC 2178, the note is shown as endnote 10. In affirming Justice Archambault’s decision, the Federal Court of Appeal did not comment in respect of the double-taxation argument.
+[36] Parihar, supra note 19, para. 45.
+[37] Gilbert (TCC), supra note 2, para. 35.
+[38] Another case, in the context of a subsection 160(1) assessment, which apparently dealt with hardship sufficient to garner the sympathy of the Federal Court of Appeal, is Duplessis v. The Queen, 2016 FCA 264, affirming 2013-2191(IT)G. In that case, a corporation, believing that it was entitled to dividend refunds under subsection 129(1) of the ITA (although it had not filed its tax returns within the requisite three-year time limit), paid dividends to its shareholder. The dividend refunds were subsequently denied and the shareholder was assessed under subsection 160(1). The shareholder argued that he was required to pay taxes and penalties in an amount corresponding to 77% of the dividends, that this constituted double taxation, and that, by reason of the integration theory, he was entitled to relief. Although sympathetic to the shareholder’s situation, the Federal Court of Appeal dismissed his appeal, stating that the integration theory cannot overturn a clear provision in the ITA. See paragraphs 3-5 of that decision.
+[39] Like Justice Archambault, I am of the view that the ITA should be amended so as include a remedial provision to address situations where an amount is included in a taxpayer’s income under subsection 15(1), subsection 82(1) or some other provision of the ITA, and is subsequently collected from the same taxpayer, under subsection 160(1) of the ITA, to satisfy the tax debt of the person from whom the taxpayer had received the amount. Regrettably, as there is not currently such a provision in the ITA, I cannot provide such a remedy. However, like Justice Archambault in Bleau, I would not be averse to the Minister finding an administrative remedy that could be extended to the Trust.

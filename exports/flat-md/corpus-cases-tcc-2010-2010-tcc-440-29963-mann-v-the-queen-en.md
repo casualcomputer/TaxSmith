@@ -1,0 +1,239 @@
+---
+title: "Mann v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29963/index.do"
+last_modified: "2010-08-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 440"
+citation2: ""
+neutral_citation: "2010 TCC 440"
+decision_date: "2010-08-30"
+language: "en"
+item_id: "29963"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6448
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:03:23.518000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "acdae74c3b4ddbb5105b51638cd8164038a437d8f60f23de1b98717148d2e767"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mann v. The Queen
+
+- Citation: 2010 TCC 440
+- Decision date: 2010-08-30
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6448, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mann v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-08-30
+Neutral citation
+2010 TCC 440
+File numbers
+2007-4582(IT)G
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-4582(IT)G
+BETWEEN:
+HARPREET MANN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 9, 10 and 11, 2010,
+at Vancouver, British Columbia
+Before: The Honourable Justice L.M. Little
+Appearances:
+Counsel for the Appellant:
+Douglas H. Christie
+Counsel for the Respondent:
+John Gibb-Carsley
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2002, 2003 and 2004 Taxation Years are allowed, without costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Halifax, Nova Scotia, this 30th day of August 2010.
+“L.M. Little”
+Little J.
+Citation: 2010 TCC 440
+Date: August 30, 2010
+Docket: 2007-4582(IT)G
+BETWEEN:
+HARPREET MANN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant resides in Surrey, British Columbia.
+[2] When the Appellant filed his income tax returns for the 2002 and 2003 Taxation Years, he reported that he had no income for those years.
+[3] When the Appellant filed his income tax return for the 2004 Taxation Year, he reported that he had received $10,000 of employment income in that year.
+[4] Officials of the Canada Revenue Agency (the “CRA”) carried out a Net Worth Analysis of the Appellant.
+[5] As a result of the information obtained from the Net Worth Analysis, the Minister of National Revenue (the “Minister”) issued Notices of Reassessment against the Appellant to include the following amounts of unreported income:
+Taxation Year
+Unreported Income
+2002
+$ 83,723
+2003
+$157,197
+2004
+$109,706
+(Note: In the Reply, the Minister states that an additional amount of $10,000 was erroneously included in income for the 2004 Taxation Year. The Minister agrees that the unreported income for the 2004 Taxation Year should be $99,706 rather than $109,706.)
+[6] On November 22, 2006, the Appellant filed Notices of Objection to the said Reassessments.
+[7] On July 11, 2007, the Minister issued Notifications of Confirmation.
+[8] The Appellant filed Notices of Appeal with the Court on January 22, 2008.
+B. ISSUE
+[9] The issue is whether the Minister was correct in the Reassessments which were issued for the 2002, 2003 and the 2004 Taxation Years.
+C. ANALYSIS AND DECISION
+[10] As indicated above, the Minister carried out a Net Worth Analysis on the Appellant. The following additions were made to the Appellant’s income.
+“Edinburgh House”
+[11] One of the assets that was included by the Minister as an asset of the Appellant was a house located at 8972 Edinburgh Drive, Surrey, British Columbia.
+[12] The Minister’s Reply indicates that officials of the CRA reached the following conclusions with respect to the Edinburgh House:
+(a) The Appellant was the beneficial owner of the Edinburgh House;
+(b) The Appellant purchased the Edinburgh House for $239,738 in July 2002;
+(c) The Appellant sold the Edinburgh House for the amount of $321,000 in June 2004; and
+(d) The Appellant realized a non-taxable capital gain of $81,262 from the sale of the Edinburgh House.
+[13] During the hearing, the Appellant’s father, Pritnam Singh Mann, testified that he and his wife, Tarsem Kaur Mann, were the registered owners and the beneficial owners of the Edinburgh House.
+[14] I have carefully reviewed the testimony of all parties involving the Edinburgh House and I have concluded that the Edinburgh House was legally and beneficially owned by Pritnam Singh Mann and his wife, Tarsem Kaur Mann.
+[15] I have concluded that the Edinburgh House was not beneficially owned by the Appellant for the following reasons:
+(a) Pritnam Singh Mann testified that he and his wife purchased the Edinburgh House in May 2002;
+(b) During the hearing, Pritnam Singh Mann produced evidence to establish that he and his wife had provided the funds and obtained the mortgage that was used to purchase the Edinburgh House;
+(c) During the hearing, counsel for the Respondent called Edmund Cheung as a witness. Mr. Cheung is an employee of the CRA and he was the Auditor who issued the Reassessments. On cross‑examination, Mr. Cheung was asked why he concluded that Harpreet Mann was the beneficial owner of the Edinburgh House. Mr. Cheung said,
+… based on the documents reviewed, these two properties have the earmarks of a nominee purchase with Harpreet Mann being the beneficial owner …
+(Transcript, page 553, lines 22 to 24).
+Counsel for the Appellant said:
+Q. Okay, did you ever test to see if the earmarks were factually correct?
+A. No, I solely rely on the RCMP.
+(Transcript, page 554, lines 9 to 11)
+(Note: Mr. Cheung also said that he was relying upon a CD prepared by the R.C.M.P. However, the CD was never presented to the Court (Transcript, page 554, lines 15 to 17).)
+(d) Pritnam Singh Mann was cross-examined by counsel for the Respondent and I have accepted his evidence.
+[16] The amount of $239,738, which was indicated as the cost of the Edinburgh House for the 2002 and 2003 Taxation Years, should be removed from Schedule “A” of the Minister’s Reply.
+[17] The mortgage payable to the Royal Bank of Canada in the amount of $176,250 should be removed from Schedule “B” of the Minister’s Reply for the 2002 and 2003 Taxation Years.
+[18] The non-taxable gain of $81,262 that was realized by Mr. and Mrs. Pritnam Singh Mann when they sold the Edinburgh House in 2004 should be recognized as a non-taxable gain realized by Mr. and Mrs. Pritnam Singh Mann on the sale of their principal residence.
+“69th Avenue House”
+[19] The Minister’s Reply also states that the Appellant was the beneficial owner of a house located at 15022 69th Avenue, Surrey, British Columbia.
+[20] The Minister’s Reply states that the cost of the 69th Avenue House in 2003 was $175,000 and the cost of the house in 2004 was $275,000.
+[21] The 69th Avenue House was registered in the names of the Appellant’s parents, Pritnam Singh Mann and Tarsem Kaur Mann.
+[22] I have carefully reviewed the testimony of Pritnam Singh Mann and the Appellant, and I have concluded that the 69th Avenue House was legally and beneficially owned by Pritnam Singh Mann and his wife, Tarsem Kaur Mann.
+[23] I have concluded that the 69th Avenue House was not owned by the Appellant for the following reasons:
+(a) Pritnam Singh Mann testified that he and his wife purchased a lot located at 15022 69th Avenue, Surrey, British Columbia, on July 31, 2003 (Transcript, page 108, lines 16 to 21);
+(b) Pritnam Singh Mann testified that he and his wife arranged for the construction of a house on the 69th Avenue lot. The Appellant acted as the Contractor on the construction of the house and made the necessary arrangements with the various trades who built the house;
+(c) During the hearing, the Appellant’s father, Pritnam Singh Mann, provided evidence to establish that he and his wife provided the cash, mortgage or line of credit necessary to provide the funds required to purchase the 69th Avenue lot and to build the house; and
+(d) Pritnam Singh Mann was cross-examined by counsel for the Respondent and I have concluded that his evidence on this property should be accepted.
+[24] The amount of $175,000 should be removed from Schedule “A” of the Minister’s Reply for the 2003 Taxation Year. The amount of $275,000 should be removed from the Minister’s Reply for the 2004 Taxation Year.
+[25] The mortgage payable and the line of credit in the amount of $100,000 for the 2003 Taxation Year and in the amount of $200,000 for the 2004 Taxation Year should be eliminated from Schedule “B” of the Minister’s Reply.
+Re: Expenses
+[26] Paragraph 10(o) of the Minister’s Reply states that the Appellant spent the following amounts:
+10(o) the Appellant spent at least $32,035 for home furnishings and appliances in the years in issue.
+During cross-examination, Mr. Cheung was asked the following questions:
+Q. Did you ever inquire of furniture vendors as to whether such furniture was ever purchased?
+A. No, I did not. I only rely on the continuation report.
+Q. You relied on the RCMP information from Mr. Hare in that case, correct?
+A. Mr. Hare and other documents from the CD.
+Q. Which you haven’t shown me.
+A. No.
+(Transcript, page 558, lines 3 to 12)
+Based upon a careful analysis of the evidence, I am not convinced that the Appellant paid for the furniture and appliances. The amounts of $14,519 and $32,516 should be removed from Schedule “A” of the Minister’s Reply for the 2003 and 2004 Taxation Years respectively.
+[27] Paragraph (p) of the Minister’s Reply states that the Appellant spent at least $30,342 for the Appellant’s wedding to Sangeeta in 2003.
+During the hearing, Pushpa Sami testified. Pushpa Sami said that she is the mother of Sangeeta Priya Mann, the Appellant’s wife. Pushpa Sami said that the reception at the Pan Pacific Hotel in Vancouver cost over $30,000. Pushpa Sami said that she paid for the reception (Transcript, page 31, line 23 to page 32, line 2). The amount of $30,342 should be removed as an asset of the Appellant.
+[28] Paragraph (q) of the Minister’s Reply states that the Appellant spent at least $1,738 for clothing in respect of the wedding to Sangeeta in 2003. I am not convinced that the evidence supports this statement. The amount of $1,738 should be removed as an asset of the Appellant.
+Cash
+[29] During the search of the various properties, the R.C.M.P. located a large amount of cash.
+(a) Paragraph (r) of the Minister’s Reply states that on May 18, 2004, the Appellant had $79,000 in cash at the Edinburgh House.
+(b) Paragraph (s) of the Minister’s Reply states that on July 16, 2004, the Appellant had $118,000 of cash contained in a safety deposit box held in both his name and Sangeeta’s name at the HSBC Bank Branch at 4106 East Hastings Street, Burnaby, British Columbia.
+(c) Paragraph (t) of the Minister’s Reply states that on August 11, 2004, the Appellant had $1,100 of cash on his person and $10,000 of cash stored in a filing cabinet at the 69th Avenue House.
+[30] With respect to the $79,000 seized at the Edinburgh House, I refer to the decision of Madam Justice Mactavish of the Federal Court in Mann v. M.N.R., 2007 D.T.C. 5024. Justice Mactavish in her Order and Reasons for Order said:
+[1] Harpreet Mann moves to set aside a “jeopardy order” issued on an ex parte basis by this Court on August 28, 2006. This order permitted the Minister of National Revenue to seize $129,000 that had previously been held by the Royal Canadian Mounted Police as the suspected proceeds of crime.
+…
+[17] The fact is that Mr. Mann was convicted of two criminal offences. Moreover, as part of his plea arrangement, Mr. Mann consented to an order under the provisions of the Controlled Drugs and Substances Act forfeiting a sizeable amount of money, which he admitted were the proceeds of crime. In these circumstances, I am not persuaded that the fact that Mr. Mann had not actually been convicted of any drug offences was sufficiently material as to justify setting aside the Court’s August 28, 2006 Order.
+…
+[54] Moreover, Mr. Mann has not been compliant with his obligations under the Income Tax Act. In this regard, even Mr. Mann’s own counsel conceded that the more than $90,000 forfeited to the Crown should perhaps have been declared as income by Mr. Mann, and was not.
+[55] Mr. Mann has admittedly been involved in serious criminal activity. He has consented to a forfeiture order under the provisions of the Controlled Drugs and Substances Act, which suggests his involvement in the drug trade leading to his accumulation of assets.
+[56] Moreover, in this agreed statement of facts filed in support of the request for the forfeiture order, Mr. Mann acknowledged that eight and a half pounds of cannabis had been seized at his residence.
+…
+(Note: According to the Order, the following items were forfeited to Her Majesty the Queen in Right of Canada:
+1. $87,070.00 (eighty-seven thousand and seventy dollars) in Canadian currency;
+2. $300.00 (three hundred dollars) in New Zealand currency;
+3. $3,460.00 (three thousand, four hundred and sixty dollars) in U.S.A. currency; and
+4. 100 pound British Notes.)
+I agree with the comments of Justice Mactavish and I have concluded that the amounts of approximately $90,000 that were forfeited to the Crown pursuant to the Order represented income of the Appellant. The amounts referred to in this paragraph should not be removed from Schedule “A” of the Minister’s Reply.
+[31] I must now deal with the additional cash which was seized by the R.C.M.P..
+During the hearing, a significant amount of evidence was presented concerning gifts that were made to brides and grooms at Sikh weddings and Hindu weddings. Mr. Mann’s family are members of the Sikh community and Mrs. Mann’s family are members of the Hindu community. A number of witnesses were called who testified that they gave between $1,000 and $5,000 to Mr. Mann and his wife either at the engagement parties, the wedding and at the reception.
+[32] While some of the evidence regarding the amount of the wedding gifts that were received by Mr. and Mrs. Mann appears to be exaggerated, I believe that I must recognize that a large number of wedding gifts were made to Mr. and Mrs. Mann. I note the following facts:
+(a) The Appellant testified that the total of the gifts received at the engagement, the wedding and the reception would be $180,000 (Transcript, page 458, line 21).
+(b) During argument, counsel for the Appellant said:
+Mr. Christie: … I can’t say that we can prove every penny. That’s what they said, about 180,000. I don’t think it’s unreasonable. If you took 500 people and you took $250 each, which wouldn’t be a lot, I guess the math just for the moment is beyond me, but it’s still half of – it would be 125,000.
+(Transcript, page 591, line 19 to 24)
+[33] Based on a careful analysis of the evidence, including the evidence of a number of witnesses, I have concluded that the total wedding gifts received by the Appellant and his wife would be at least $125,000.
+[34] The Appellant’s wife said that she was with her husband when they deposited $70,000 of the wedding gifts in a safety deposit box at a branch of the HSBC in Burnaby.
+A: So when the $70,000 was deposited, you were both there?
+Q: Yes, we were.
+(Transcript, page 495, line 17 to 19)
+[35] Evidence was also provided by Mrs. Mann that she deposited approximately $48,000 in the safety deposit box.
+Q: Okay. And the second deposit was the difference?
+A: Yes.
+(Transcript, page 495, line 20 to 22)
+[36] Based on the evidence that was presented, I have concluded that the amount of $118,000 cash that was contained in a safety deposit box at the HSBC Branch at 4106 East Hasting Street in Burnaby, represented the cash received by the Appellant and his wife as wedding gifts. I have therefore concluded that the amount of $118,000 should be removed as an asset of the Appellant in Schedule “A” of the Net Worth calculations. (Note: The evidence indicates that more than $118,000 was deposited by Mr. and Mrs. Mann in the safety deposit box. However, the amount of $118,000 was the amount that was seized, i.e. some of the money that was deposited by Mr. and Mrs. Mann was probably removed by them to pay certain expenses.)
+[37] With respect to the cash of $1,100 on his property and $10,000 of cash stored in a filing cabinet at the 69th Avenue House, I am not convinced on the evidence that this cash was taxable income. The amounts of $1,100 and $10,000 should be removed from Schedule “A” of the Net Worth calculations.
+[38] Paragraph (u) of the Minister’s Reply states that the Appellant had marihuana growing equipment totalling $16,479.
+Based on the evidence presented, I am not convinced that the marihuana growing equipment should be included in the Appellant’s Net Worth calculations. The amount of $16,479 should be removed from the Net Worth calculations for the 2003 and 2004 Taxation Years.
+[39] Paragraph (v) of the Minister’s Reply states that on August 11, 2004, the Appellant had marihuana valued at $18,000 in the 69th Avenue House.
+At paragraph [56] of her Reasons For Order and Order, Justice Mactavish of the Federal Court said:
+…
+[56] Moreover, in the agreed statement of facts filed in support of the request for the forfeiture order, Mr. Mann acknowledged that eight and a half pounds of cannabis had been seized at his residence.
+…
+Based on the fact that Mr. Mann agreed in his Agreed Statement of Facts filed with the Federal Court that eight and a half pounds of cannabis had been seized at his residence, I have concluded that the amount of $18,000 should be included in the Net Worth calculations of the Appellant for the 2004 Taxation Year.
+[40] Schedule “D” of the Net Worth Calculations contains a calculation of the Appellant’s Personal Living Expenditures for the years under appeal.
+[41] The evidence indicated that the Appellant and his wife lived with the Appellant’s parents in 2002, 2003 and 2004. Under these circumstances, I am not convinced that the Minister’s calculation of the Appellant’s Personal Living Expenditures were correct. I believe that the calculation should be reduced by 50 per cent for the 2002, 2003 and 2004 Taxation Years.
+[42] Since success has been divided, I am not prepared to order costs.
+[43] The appeal is allowed and the Minister is ordered to make the adjustments to the Reassessment as outlined above.
+Signed at Halifax, Nova Scotia, this 30th day of August 2010.
+“L.M. Little”
+Little J.
+CITATION: 2010 TCC 440
+COURT FILE NO.: 2007-4582(IT)G
+STYLE OF CAUSE: Harpreet Mann and Her Majesty The Queen
+PLACE OF HEARING: Vancouver, British Columbia
+DATES OF HEARING: June 9, 10 and 11, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: August 30, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Douglas H. Christie
+Counsel for the Respondent:
+John Gibb-Carsley
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Douglas H. Christie
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

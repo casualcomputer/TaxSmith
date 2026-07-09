@@ -1,0 +1,176 @@
+---
+title: "Ibero Tours Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26741/index.do"
+last_modified: "2005-02-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 144"
+citation2: ""
+neutral_citation: "2005 CCI 144"
+decision_date: "2005-02-17"
+language: "fr"
+item_id: "26741"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3422
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:13:57.320000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c228d1ca56b41b7bd8695db910bdcb2f6defeda7aabe7d242447c5323cda26e8"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Ibero Tours Inc. v. The Queen
+
+- Citation: 2005 CCI 144
+- Decision date: 2005-02-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3422, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ibero Tours Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-02-17
+Référence neutre
+2005 CCI 144
+Numéro de dossier
+2003-4248(GST)I
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2003-4248(GST)I
+ENTRE :
+IBERO TOURS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 20 et 31 janvier 2005, à Toronto (Ontario).
+Devant : L'honorable juge Judith Woods
+Comparutions :
+Représentant de l'appelante :
+M. Gerald Grupp
+Avocat de l'intimée :
+Me Craig Maw
+JUGEMENT
+L'appel interjeté à l'égard de la cotisation établie en vertu de la Loi sur la taxe d'accise pour la période allant du 8 septembre 2000 au 31 août 2001 est rejeté.
+Signé à Ottawa, Canada, ce 17e jour de février 2005.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 30e jour de septembre 2005.
+Sara Tasset
+Référence : 2005CCI144
+Date : 20050217
+Dossier : 2003-4248(GST)I
+ENTRE :
+IBERO TOURS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Il s'agit d'un appel interjeté par Ibero Tours Inc. à l'égard d'une cotisation établie en vertu de la Loi sur la taxe d'accise pour la période allant du 8 septembre 2000 au 31 août 2001. Ibero Tours a fait l'objet d'une cotisation de TPS s'élevant à 11 842,50 $, on lui a infligé une pénalité de 832,11 $ et on lui a réclamé des intérêts de 400,77 $ relativement à des services de transport qu'elle a fournis à une société offrant des circuits touristiques.
+[2] Le représentant de l'appelante a soulevé les trois questions suivantes :
+1) La cotisation est-elle invalide pour des raisons de procédure?
+2) Les services de transport fournis par Ibero Tours pendant la période visée par la cotisation sont-ils détaxés?
+3) La pénalité de 832,11 $ doit-elle être annulée?
+I. La cotisation est-elle invalide pour des raisons de procédure?
+[3] L'avis de cotisation comportait les mentions suivantes concernant les périodes visées par la cotisation : [TRADUCTION] « (NOUVELLE) COTISATION RELATIVE À LA PÉRIODE ALLANT DU 2000-12-31 AU 2001-08-31 » . Les parties s'entendent sur le fait qu'en réalité, la cotisation vise la période allant du 8 septembre 2000 au 31 août 2001. Le représentant de Ibero Tours soutient que l'avis de cotisation comporte une erreur, touchant la période de cotisation, qui est fondamentale à la cotisation et qui invalide celle-ci.
+[4] Je ne suis pas d'accord avec la conclusion de l'appelante. Même si on suppose, pour les besoins de la présente analyse, que l'avis de cotisation comporte effectivement une erreur, le paragraphe 299(4) de la Loi a pour objet d'empêcher que les cotisations soient déclarées invalides en raison d'erreurs de ce genre. Voici le texte du paragraphe 299(4) :
+(4) Présomption de validité - Sous réserve d'une nouvelle cotisation et d'une annulation prononcée lors d'une opposition ou d'un appel fait selon la présente partie, une cotisation est réputée valide et exécutoire malgré les erreurs, vices de forme ou omissions dans la cotisation ou dans une procédure y afférent en vertu de la présente partie.
+[5] Selon la jurisprudence, le paragraphe 299(4) ne fait pas entièrement obstacle à l'invalidation d'une cotisation pour des raisons de procédure, mais une cotisation n'est pas invalidée à moins que l'erreur n'ait amené le contribuable à se tromper (Friedberg v. The Queen, [2000] 2 C.T.C. 370 (C.A.F.); Papa v. The Queen, [2000] G.S.T.C. 74 (C.C.I.), au par. 11).
+[6] L'appelante n'a présenté aucun élément de preuve laissant entendre qu'elle avait été trompée par l'erreur contenue dans l'avis de cotisation. Je signale qu'il ressort sans équivoque des calculs détaillés présentés dans la réponse du ministre que la réelle période de cotisation allait du 8 septembre 2000 au 31 août 2001.
+[7] Les parties ont soulevé cette question de procédure uniquement lorsque j'ai demandé, le premier jour de l'audience, des précisions quant à la période de cotisation visée. À ce moment, le représentant de l'appelante a laissé entendre que ce serait la moindre des choses que la Cour établisse comme il se doit la TPS pour toute la période de cotisation, soit du 8 septembre 2000 au 31 août 2001. Ce n'est que lorsque l'audience a repris à une date ultérieure que le représentant a laissé entendre que l'existence d'une erreur invalidait la cotisation.
+[8] Dans ces circonstances, aucun élément de preuve ne me permet de conclure que l'appelante a été trompée par une erreur au vu de l'avis de cotisation. J'arrive donc à la conclusion que la cotisation n'est pas invalide du fait d'une erreur fondamentale.
+II. Les services sont-ils détaxés?
+Faits
+[9] Gina Ledesma, présidente et fondatrice de Ibero Tours, a témoigné pour le compte de l'appelante. Elle a déclaré qu'elle avait constitué Ibero Tours en société pour fournir des services de transport aéroportuaire à une entreprise de circuits touristiques des États-Unis dénommée City Tours USA. Apparemment, Mme Ledesma connaissait bien City Tours parce qu'elle avait déjà travaillé pour cette entreprise à titre de guide touristique.
+[10] Selon un contrat verbal conclu avec City Tours, Ibero Tours va chercher les clients parlant espagnol et portugais à l'aéroport de Toronto et veille à leur transport, par fourgonnette ou autobus, jusqu'à divers hôtels locaux. Ibero Tours n'est pas propriétaire des fourgonnettes ou des autobus utilisés; l'utilisation de ces véhicules fait l'objet de contrats. Ibero Tours est payée directement par City Tours pour ces services et ce sont ces frais qui sont visés par le présent appel.
+[11] Mme Ledesma a mentionné qu'elle assume les fonctions précises suivantes. Elle rencontre les clients à l'aéroport de Toronto. Ils sont identifiés à l'aide d'une liste des passagers que City Tours fournit à Mme Ledesma et cette dernière vérifie ces renseignements au moyen d'une « pièce justificative » que lui montrent les clients. Mme Ledesma ne conserve pas les « pièces justificatives » puisque les clients en ont besoin tout au long de leurs visites touristiques. Les clients sont ensuite transportés par fourgonnette ou par autobus à divers hôtels locaux et Mme Ledesma fournit une liste des passagers aux commis à l'accueil des hôtels. Ses fonctions s'arrêtent là. À l'occasion, Ibero Tours a transporté des clients qui étaient en retard pour leurs visites touristiques à un hôtel à Niagara Falls, mais cela ne s'est pas produit très souvent.
+[12] Même si, dans son témoignage, Mme Ledesma a clairement précisé la nature des activités de Ibero Tours, elle n'a fourni que peu de renseignements sur les circuits touristiques offerts par City Tours. Il semble que cette entreprise vend des excursions en autobus qui se déroulent dans plusieurs villes, et que les clients paient leur transport aérien séparément. Le transfert aéroportuaire fourni par Ibero Tours est probablement soit inclus dans le forfait du circuit touristique, soit acheté autrement par l'entremise de City Tours.
+[13] Pendant toute la période de cotisation, Ibero Tours n'a pas perçu la TPS auprès de City Tours, et le ministre du Revenu national a donc établi une cotisation de TPS à l'égard de Ibero Tours, en plus d'exiger des intérêts et de lui infliger des pénalités.
+Analyse
+[14] Ibero Tours fait valoir que ses services constituent des fournitures détaxées, lesquelles sont donc exonérées de taxe suivant le paragraphe 165(3) de la Loi. Les fournitures détaxées, au sens du paragraphe 123(1), sont énumérées à l'annexe VI de la Loi. Ibero Tours avance que ses services sont détaxés selon la partie VII (Services de transport) de l'annexe VI.
+[15] L'appelante n'a présenté aucune observation au sujet de la partie VI (Services aux voyageurs) de l'annexe VI, selon laquelle la fourniture d'une certaine partie d'un voyage organisé est détaxée. Je n'ai pas l'intention d'analyser la partie VI de façon approfondie, mais je signale que les services fournis par Ibero Tours ne paraissent pas être détaxés aux termes de cette disposition. Plus précisément, il semble que la partie VI n'englobe pas le transport intérieur dont la fourniture fait partie d'un voyage organisé, ce qui correspond aux services fournis par Ibero Tours.
+[16] Je me penche maintenant sur la partie VII (Services de transport) de l'annexe VI, soit les dispositions invoquées par l'appelante. Les dispositions pertinentes, à savoir les articles 2 et 3, s'appliquent à la fourniture d'un service de transport de passagers. L'article 2 s'intitule « Service de transport de passagers faisant partie d'un voyage continu qui ne comporte pas de transport aérien » tandis que l'article 3 s'intitule « Service de transport de passagers faisant partie d'un voyage continu qui comprend le transport aérien » . Ces dispositions, ainsi que certaines définitions connexes, sont reproduites à l'annexe jointe aux présents motifs.
+[17] Le représentant de Ibero Tours soutient que l'article 2, qui intéresse les voyages internationaux sans transport aérien, s'applique en l'espèce. Pour les raisons qui suivent, je ne suis pas d'accord.
+[18] De façon générale, l'article 2 détaxe certains services de transport lorsque le voyage se déroule en partie à l'étranger et ne comporte aucun transport aérien. Je vais axer mon analyse sur les trois exigences suivantes prévues à l'article 2 :
+1) le service doit faire partie d'un voyage continu;
+2) le voyage continu ne doit pas comporter de transport aérien;
+3) soit a) le point d'origine ou la destination finale du voyage continu doit être à l'étranger, soit b) le voyage continu doit comporter une escale à l'étranger.
+[19] Les termes « voyage continu » , « escale » , « point d'origine » et « destination finale » sont définis dans la partie VII.
+[20] L'expression « voyage continu » s'entend de l'ensemble des services de transport qui sont offerts à un particulier ou à un groupe de particuliers. Comme le voyage continu ne doit pas comporter de transport aérien, les services à prendre en compte pour l'application de cette disposition comprennent uniquement les services de transport fournis par City Tours (y compris les services fournis par Ibero Tours). Il ne faut tenir compte ni du transport aérien vers Toronto ni de tout autre transport aérien faisant partie du voyage.
+[21] Les questions qui doivent être examinées pour l'application de l'article 2 sont celles de savoir si le point d'origine ou la destination finale des services de transport fournis par City Tours est à l'étranger, et s'il y a une escale à l'étranger.
+[22] J'examinerai d'abord la question de savoir si le point d'origine ou la destination finale des services de transport fournis par City Tours est à l'étranger. Selon les définitions données dans l'annexe, les termes « point d'origine » et « destination finale » visent, pour l'essentiel, le début et la fin du voyage continu. Aucun élément de preuve produit dans le présent appel ne permet de penser que l'un ou l'autre des services pertinents offerts par City Tours ou par Ibero Tours est fourni à l'étranger. Par conséquent, le point d'origine ou la destination finale d'un voyage continu, quel qu'il soit, n'est pas à l'étranger.
+[23] Il reste à se demander, pour l'application de l'article 2, s'il y a une escale à l'étranger. Une « escale » est définie comme l'endroit auquel on embarque sur le moyen de transport utilisé dans le cadre d'un service qui fait partie du voyage continu, ou en débarque. Ici encore, aucun élément de preuve ne permet de croire que les services de transport offerts par City Tours sont fournis à l'étranger. Je conclus donc qu'il n'y a aucune escale à l'étranger.
+[24] Pour ces raisons, j'arrive à la conclusion que les services fournis par Ibero Tours ne sont pas détaxés suivant l'article 2.
+[25] Ibero Tours reconnaît que l'article 3, qui vise les services de transport comprenant le transport aérien, ne s'applique pas à elle. Pour les raisons mentionnées ci-dessous, je conviens que cette conclusion est fondée.
+[26] De façon générale, l'article 3 détaxe certains services de transport lorsque le voyage se fait en partie à l'étranger et qu'il comprend du transport aérien. Je vais examiner plus particulièrement les trois exigences suivantes fixées par cette disposition :
+1) le service doit faire partie d'un voyage continu;
+2) le voyage continu doit comprendre du transport aérien;
+3) soit a) le point d'origine ou la destination finale du voyage continu, soit b) une escale faisant partie du voyage continu, doit être à l'étranger.
+[27] En l'espèce, on n'a pas réussi à établir l'existence d'un voyage continu comprenant du transport aérien. La présente analyse se fonde principalement sur la définition de l'expression « voyage continu » et je vais examiner de façon distincte les alinéas a) et b) de cette définition.
+[28] L'alinéa a) s'applique si l'ensemble des services de transport sont visés par un seul billet ou une seule pièce justificative. Le représentant de Ibero Tours a reconnu pendant le débat que le transport aérien n'était pas visé par le même billet ou la même pièce justificative que les services de transport fournis par City Tours. Le témoignage de Mme Ledesma était plutôt vague sur ce point, mais cette admission paraît compatible avec l'ensemble du témoignage. L'alinéa a) ne s'applique donc pas en l'espèce.
+[29] L'alinéa b) s'applique si tous les billets ou toutes les pièces justificatives visant le voyage continu sont délivrés par le même fournisseur ou agent. Mme Ledesma a affirmé qu'elle avait l'impression que certains passagers achetaient tous leurs billets d'un seul agent de voyage. Les connaissances limitées de Mme Ledesma quant à la manière dont les billets étaient achetés ne sont pas suffisantes pour établir que l'alinéa b) s'applique dans la présente affaire.
+[30] Cela suffit à régler la question de l'alinéa b). Toutefois, compte tenu de l'importance qui a été accordée à cet alinéa pendant l'audience, je vais faire quelques brèves observations sur une autre partie de cette disposition.
+[31] Pour qu'il y ait un « voyage continu » au sens de l'alinéa b), il ne doit y avoir aucune escale entre les étapes visées par les billets ou pièces justificatives distincts délivrés. Or, la preuve présentée en l'espèce est loin d'établir qu'il n'y avait pas d'escales entre les étapes visées par les billets ou pièces justificatives distincts délivrés. En particulier, la preuve ne permet pas de savoir s'il y avait ou non des escales et, le cas échéant, quand ces escales avaient lieu, ni si des billets ou pièces justificatives distincts étaient délivrés relativement aux excursions de City Tours et, le cas échéant, quand ces billets ou pièces justificatives distincts étaient délivrés.
+[32] Dans son témoignage, Mme Ledesma a mentionné que City Tours n'avait délivré qu'une seule pièce justificative pour l'ensemble du voyage. Or, les seules pièces justificatives mises en preuve sont incompatibles avec cette assertion. Au moins trois pièces justificatives produites en preuve concernaient uniquement le transport aéroportuaire fourni par Ibero Tours. Mme Ledesma a en outre affirmé qu'elle n'avait pu obtenir une quelconque pièce justificative visant la totalité du circuit touristique effectué pendant la période de cotisation pertinente parce que City Tours les avait détruites à l'occasion du déménagement de leurs bureaux. Cependant, elle n'a pas expliqué pourquoi il était impossible d'obtenir des pièces justificatives portant sur une période subséquente.
+[33] Le représentant de Ibero Tours a laissé entendre qu'il appartenait à la Couronne de mettre en preuve les pièces justificatives de City Tours puisque celles-ci ne sont pas en la possession de Ibero Tours. Bien qu'il puisse y avoir des situations où il serait injuste d'imposer au contribuable le fardeau de prouver des faits qu'il ne maîtrise pas [Redash Trading Inc. v. The Queen, [2004] G.S.T.C. 82 (C.C.I.)], ce n'est pas le cas en l'espèce selon moi. Ibero Tours avait des relations d'affaires continues avec City Tours et elle aurait pu obtenir de cette dernière les renseignements pertinents. En réalité, City Tours a offert son aide pour les besoins du présent appel puisque Ibero Tours a mis en preuve un affidavit d'une personne travaillant chez City Tours au sujet de la destruction des pièces justificatives visant la période de cotisation pertinente. Je ne crois donc pas opportun de conclure que Ibero Tours ne doit pas être tenue de produire des éléments de preuve touchant les billets et les pièces justificatives délivrés par City Tours.
+[34] Pour ces motifs, j'arrive à la conclusion qu'il n'a pas été établi que l'article 3 s'applique en l'espèce.
+III. Pénalité
+[35] La dernière question à trancher est celle de savoir si le ministre a eu raison d'infliger une pénalité de 832,11 $. Il est possible d'invoquer un moyen de défense fondé sur la diligence raisonnable pour éviter que des pénalités administratives soient infligées sous le régime de la Loi. Pour bénéficier de ce moyen de défense, le contribuable doit montrer qu'il a pris des précautions raisonnables pour se conformer à la Loi [Corp. de l'Ecole Polytechnique v. The Queen, [2004] G.S.T.C. 102 (C.A.F.)].
+[36] Au cours de son témoignage, Mme Ledesma a déclaré qu'elle avait pris des mesures pour déterminer que Ibero Tours n'avait pas à percevoir la TPS. Elle a mentionné que City Tours l'avait informée qu'elle-même ne percevait pas de TPS. Mme Ledesma a ajouté qu'elle avait également consulté son comptable.
+[37] À mon avis, le bref témoignage de Mme Ledesma sur ce point est loin d'établir qu'elle a pris des mesures raisonnables pour se conformer à la Loi. Il ne suffit pas de simplement affirmer que l'on a consulté un conseiller professionnel ou une société qui exploite le même genre d'entreprise. Rien ne permet de connaître la nature de ces consultations ni le fondement sur lequel s'est appuyé le conseiller professionnel pour donner ses conseils. Une consultation avec un conseiller professionnel peut constituer de la diligence raisonnable, mais il doit y avoir des éléments de preuve détaillés quant à la portée de l'engagement du conseiller ainsi qu'une explication des raisons pour lesquelles le conseiller a conclu que la TPS n'était pas exigible. En l'absence de précisions supplémentaires au sujet des consultations entreprises par Ibero Tours, je ne puis conclure que cette dernière a pris des mesures raisonnables pour déterminer les obligations qui lui incombent sous le régime de la Loi.
+[38] Pour tous ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 17e jour de février 2005.
+"J. Woods"
+Woods J.
+Traduction certifiée conforme
+ce 30e jour de septembre 2005.
+Sara Tasset
+ANNEXE
+Extraits tirés de la Loi sur la taxe d'accise, L.R.C. 1985, ch. E-15, annexe VI, partie VII.
+« voyage continu » L'ensemble des services de transport de passagers qui sont offerts à un particulier ou à un groupe de particuliers et qui sont :
+a) soit visés par un seul billet ou une seule pièce justificative;
+b) soit visés par plusieurs billets ou pièces justificatives pour plusieurs étapes d'un même voyage, sans escale entre les étapes visées par les billets ou pièces justificatives distincts délivrés par le même fournisseur ou par plusieurs fournisseurs par l'entremise d'un agent agissant en leur nom si, selon le cas :
+(i) tous les billets ou pièces justificatives sont délivrés au même moment et le fournisseur ou l'agent possède des preuves, satisfaisantes au ministre, que les étapes du voyage, visées par les billets ou pièces justificatives distincts, se font sans escale,
+(ii) les billets ou pièces justificatives sont délivrés à des moments différents et le fournisseur ou l'agent présente des preuves, satisfaisantes au ministre, que les étapes du voyage, visées par les billets ou pièces justificatives distincts, se font sans escale.
+« point d'origine »
+a) Dans le cas d'un service continu de transport de marchandises, endroit où le premier transporteur dans le cadre du service prend possession du bien transporté;
+b) dans le cas d'un voyage continu, endroit où commence en premier le service de transport de passagers qui fait partie du voyage continu.
+« escale » Endroit auquel un particulier ou un groupe de particuliers en voyage continu embarque sur le moyen de transport utilisé dans le cadre d'un service de transport de passagers qui fait partie du voyage continu, ou en débarque, sauf si l'embarquement ou le débarquement se fait en vue du transfert à un autre moyen de transport ou de l'entretien ou du réapprovisionnement en carburant du moyen de transport.
+« destination finale » Endroit où prend fin le dernier service de transport de passagers qui fait partie d'un voyage continu.
+2. [Service de transport de passagers faisant partie d'un voyage continu qui ne comporte pas de transport aérien] - La fourniture d'un service de transport de passagers qui est offert à un particulier ou à un groupe de particuliers et qui fait partie d'un voyage continu du particulier ou du groupe ne comportant pas de transport aérien, si, selon le cas :
+a) le point d'origine ou la destination finale du voyage continu est à l'étranger;
+b) le voyage continu comporte une escale à l'étranger.
+En est exclu le service de transport de passagers qui fait partie d'un voyage continu si le point d'origine et la destination finale du voyage sont tous deux au Canada et si, au début du voyage, il n'est pas prévu que le particulier ou le groupe de particuliers soit à l'étranger pendant une période ininterrompue d'au moins vingt-quatre heures au cours du voyage.
+3. [Service de transport de passagers faisant partie d'un voyage continu qui comprend le transport aérien] - La fourniture d'un service de transport de passagers qui est offert à un particulier ou à un groupe de particuliers et qui fait partie du voyage continu du particulier ou du groupe comprenant le transport aérien, si, selon le cas :
+a) le point d'origine ou la destination finale du voyage continu, ou d'une escale qui en fait partie, est hors de la zone de taxation;
+b) le point d'origine et la destination finale du voyage continu, et de toutes les escales qui en font partie, sont à l'étranger;
+c) le point d'origine du voyage continu est à l'intérieur de la zone de taxation, mais à l'étranger;
+d) tous les endroits auxquels le particulier ou le groupe embarque dans un aéronef, ou en débarque, sont à l'étranger de même que le point d'origine ou la destination finale du voyage continu, ou d'une escale qui en fait partie.

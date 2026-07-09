@@ -1,0 +1,103 @@
+Title: Hoben v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25666/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-658-25666-hoben-v-the-queen-en.md
+Document type: case_law
+Last modified: 2003-10-24
+
+# Hoben v. The Queen
+
+- Citation: 2003 TCC 658
+- Decision date: 2003-10-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3833, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hoben v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-10-24
+Neutral citation
+2003 TCC 658
+File numbers
+2002-4958(IT)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC658
+Date: 20031024
+Docket: 2002-4958(IT)I
+BETWEEN:
+LEO HOBEN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appearances
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Dominique Gallant
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench at Sydney, Nova Scotia, on
+Thursday, June 19, 2003 and revised as to style and syntax at
+Ottawa, Canada, on October 23, 2003.)
+Margeson, J.T.C.C.
+[1] One of the jurisdictions of the Court is the hearing of appeals under the Income Tax Act, ("Act"). The Minister of National Revenue ("Minister") assessed the Appellant for the taxation year 2000. In filing a return, the Appellant did not include a claim for a disability tax credit. Then he asked that his file be adjusted for the years 1985 to 2000 to include claims for the disability tax credit for those years.
+[2] The Minister advised the Appellant that this request was denied. Then he filed a Notice of Objection for the 2000 taxation year. The Court is only dealing with the 2000 taxation year here today. The Minister confirmed the assessment for the 2000 year, and in that, he denied the request for a disability tax credit. In doing so, he made certain presumptions of fact. At paragraph 8 of the Reply to the Notice of Appeal ("Reply"), he said:
+a) the Appellant filed a Disability Tax Credit Certificate dated May 31, 2001 and signed by Dr. Knott;
+b) Dr. Knott indicated that the Appellant had 20/20 vision in his left eye and no vision in his right eye; and
+c) the Appellant's request included a letter by Dr. Gupta, and [sic] eye surgeon, explaining that cataract surgery did not improve the Appellant's vision.
+[3] The issue to be decided is whether or not the Appellant is entitled to claim the disability tax credit for the 2000 taxation year under sections 118.3 and 118.4 of the Act.
+[4] The Appellant indicated to the Court that he was schizophrenic and is not himself. He hears voices and does not like to be around people. He gets very upset when he is in places where he does not feel comfortable so he rarely leaves his house. He indicated that he does not know where he is sometimes.
+[5] The Court asked him if he could proceed and he was not sure but when faced with an adjournment, he indicated that he could proceed. The Court believed that adjourning the matter would only increase the tension on the Appellant and, lead to further uncertainty in his mind. He did not believe that he would be in a better condition to proceed at a later date.
+[6] The Court, after further questioning of the Appellant, was satisfied that he could proceed and inform the Court about the factual situation that existed in the relevant period of time for this appeal.
+Evidence
+[7] The Appellant indicated that he was blind in his right eye. He reviewed the circumstances leading up to this appeal. He was in a most agitated state of mind in Court but was able to tell the Court that his disability claim was in regard to his right eye. He also saw a psychiatrist about his mental state. (It is possible that a claim might be presented at some time in light of his mental condition.)
+[8] In cross-examination he was referred to the medical certificate and was familiar with its contents after having it read to him. He did not object to the certificate being tendered into evidence but he did not understand the full import of some of the questions. i.e.: regarding his visual acuity, but this is normal for most lay persons. He was, however, able to answer the Court's specific questions about the certificate and his medical history.
+[9] He was able to tell the Court that he worked as a belt operator at Devco in the year 2000 and that he worked on a conveyor belt that moved coal. This was during the year under review.
+Argument on behalf of the Respondent
+[10] The only question that this Court has to decide is with respect to the 2000 taxation year. Whatever the Court decides about the 2000 taxation year and whatever is argued with respect to that year does not apply to 2001 or 2002. There is no doubt that Mr. Hoben had a serious condition. He did not have any vision in one eye. He did have some vision in the other eye, although we do not know exactly how much.
+[11] From the certificate and Mr. Hoben's testimony, the Court should conclude that he was able to see with the one eye. He had other health problems in 2000 but there is no certificate regarding these problems. The case law has consistently denied the disability tax credit where the claimants could see with one eye.
+Analysis and Decision
+[12] This is a very touching case, I must say. Mr. Hoben certainly has a huge disability, there is no question about that. But what is before the Tax Court at this time is the year 2000 and his application for a disability tax credit based upon the problem with his eyesight. The certificate that is before the Court indicates that he had 20/20 vision in his left eye but no vision in his right eye. It does not refer to any other disability that he may very well have had. He was working in the year 2000. Even though he might have done it with difficulty, he must have been at least capable of performing the job on that conveyor belt in the year 2000.
+[13] Taking all of the circumstances into account for the year 2000, the Court finds that on the basis of the certificate before me and on the basis of the law, he is not entitled to the disability tax credit for his vision problem in the year 2000. That has nothing to do with 2001 and 2002.
+[14] The Court suggests that he obtain a further certificate for the following years based upon his mental condition.
+[15] The appeal is dismissed and the Minister's assessment is confirmed.
+Signed at Ottawa, Canada, this 24th day of October 2003.
+"T.E. Margeson"
+Margeson, J.
+CITATION:
+2003TCC658
+COURT FILE NO.:
+2002-4958(IT)I
+STYLE OF CAUSE:
+Leo Hoben and
+Her Majesty The Queen
+PLACE OF HEARING:
+Sydney, Nova Scotia
+DATE OF HEARING:
+June 19, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable T.E. Margeson
+DATE OF JUDGMENT:
+August 15, 2003.
+DATE OF REASONS FOR JUDGMENT:
+October 24, 2003.
+APPEARANCES:
+For the Appellant
+The Appellant himself
+Counsel for the Respondent:
+Dominique Gallant
+COUNSEL OF RECORD:
+For the Appellant:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

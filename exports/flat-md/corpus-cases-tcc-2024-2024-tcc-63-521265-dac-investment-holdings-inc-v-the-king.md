@@ -1,0 +1,683 @@
+---
+title: "DAC Investment Holdings Inc. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521265/index.do"
+last_modified: "2024-05-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 TCC 63"
+citation2: ""
+neutral_citation: "2024 TCC 63"
+decision_date: "2024-05-09"
+language: "en"
+item_id: "521265"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5760
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T10:35:10.056000+00:00"
+cases_cited_count: 7
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b79ec11d49c639bb265546fc3d20b414405fcf53d575be07e3e4cc32174a0706"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# DAC Investment Holdings Inc. v. The King
+
+- Citation: 2024 TCC 63
+- Decision date: 2024-05-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5760, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+DAC Investment Holdings Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-05-09
+Neutral citation
+2024 TCC 63
+File numbers
+2021-1079(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-1079(IT)G
+BETWEEN:
+DAC INVESTMENT HOLDINGS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on May 23, 2023, at Toronto, Ontario
+Before: The Honourable Justice Steven K. D’Arcy
+Appearances:
+Counsel for the Appellant:
+Matthew G. Williams
+Florence Sauve
+Brittany D. Rossler
+Counsel for the Respondent:
+Arnold H. Bornstein
+Christopher M. Bartlett
+JUDGMENT
+In accordance with these Reasons for Judgment:
+The appeal with respect to the reassessment made under the Income Tax Act for the Appellant’s taxation year ending April 30, 2016 is allowed, with costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s transactions, as set out in the attached Reasons for Judgment, did not result in abusive tax avoidance for the purposes of section 245 of the Income Tax Act.
+Signed at Halifax, Nova Scotia, this 9th day of May 2024.
+“S. D’Arcy”
+D’Arcy J.
+Citation: 2024TCC63
+Date: 20240509
+Docket: 2021-1079(IT)G
+BETWEEN:
+DAC INVESTMENT HOLDINGS INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+D’Arcy J.
+Introduction
+[1] Prior to April 29, 2015, the Appellant was taxed on its worldwide income under the taxing regime for a Canadian-controlled private corporation (“CCPC”). On April 29, 2015, it continued in a foreign jurisdiction such that it was deemed to be incorporated outside of Canada; however, it remained a resident of Canada, taxed on its worldwide income. Since the Appellant was not considered to be incorporated in Canada, it was no longer taxed on its worldwide income under the taxing regime for CCPCs, but rather was taxed under the regime for private corporations that were not CCPCs and that were not Canadian corporations. As a result, a host of provisions in the Act ceased to apply to the Appellant, provisions that were not previously applied began to apply to the Appellant, and other provisions applied to the Appellant in a different manner.
+[2] One provision that ceased to apply was section 123.3 of the Income Tax Act[1] (the “Act”), which levies the 10 2/3% refundable tax on a CCPC’s investment income.
+[3] Another provision that ceased to apply was paragraph (b) of the definition of full rate taxable income in subsection 123.4(1). This meant that the Appellant’s entitlement to the 13% general rate reduction provided for in subsection 123.4(2) was now determined under paragraph (a) of the definition of full rate taxable income. As a result, the Appellant was now entitled to claim the 13% general rate reduction in respect of its investment income.
+[4] The Minister applied the general anti-avoidance rule (the “GAAR”) and assessed the Appellant on the basis that its investment income was subject to the section 123.3 refundable tax and that it was not entitled to claim the section 123.4 general rate reduction in respect of its investment income.
+[5] The Appellant challenges the application of the GAAR.
+[6] The parties filed an Agreed Statement of Facts and a Supplemental Agreed Statement of Facts[2] (jointly referred to as the “agreed statement of facts”). There were no witnesses called at the hearing. The parties attached a number of exhibits to the agreed statement of facts. The agreed statement of facts (without the appendices) is attached as “Appendix A” to these Reasons for Judgment.
+Relevant Facts
+[7] The Appellant was incorporated under the Business Corporations Act (Ontario)[3] on September 11, 2001.
+[8] Since the inception of the Appellant, Mr. David Civiero has been its sole director and has held directly or indirectly at least 50% of its common shares. From 2015 through 2019, Mr. Civiero was the sole common shareholder of the Appellant. At all material times, Mr. Civiero resided in Ontario.
+[9] On or around October 22, 2011, Mr. Civiero acquired common shares of Soberlink Inc. He purchased additional shares of Soberlink Inc. on, or around, June 26, 2013. On or around December 31, 2013, Mr. Civiero transferred all of his common shares of Soberlink (the “Soberlink Shares”) to Jacal Holdings Ltd. (“Jacal”). Since December 11, 1996, Mr. Civiero has been the sole director and has held all of the shares of Jacal.
+[10] The following occurred after Mr. Civiero transferred the Soberlink Shares to Jacal:
+-On October 3, 2014, Soberlink Inc. received a non-binding indication of interest from a potential buyer;
+-On April 14, 2015, the Appellant acquired the Soberlink Shares from Jacal pursuant to a section 85 “rollover” transaction. On this date, the Appellant’s only assets were the Soberlink Shares;
+-On April 15, 2015, Soberlink’s CEO informed Mr. Civiero that the sale of a division of Soberlink was close to completion. In order to effect this sale, the Soberlink Shares would be sold to a third party;
+-On April 29, 2015, the Appellant was continued into the British Virgin Islands. As a result of the continuance, the Appellant’s 2015 taxation year ended on April 28, 2015;
+-At all relevant times following the Appellant’s continuance, the Appellant’s central management and control remained in Ontario, Canada;
+-On May 14, 2015, the Appellant sold the Soberlink Shares to an arm’s-length party and realized a capital gain in the amount of $2,359,295;
+-The Appellant reported a taxable capital gain of $1,179,648 on its tax return for its taxation year ending on April 30, 2016 (the “2016 taxation year”). The Appellant reported no other income on its tax return other than a foreign exchange gain; and
+-The Appellant filed this tax return on the basis that, during the 2016 taxation year, the Appellant:
+was a corporation resident in Canada, subject to tax on its worldwide income under the Act;
+was a “private corporation” as that term is defined in subsection 89(1) of the Act; and
+was not a CCPC under the Act.
+[11] The Minister applied the GAAR when reassessing the Appellant’s 2016 taxation year. Specifically, the Minister, when reassessing the Appellant:
+-assessed refundable tax of $91,003 under section 123.3 of the Act on the basis that the Appellant was a CCPC; and
+-denied the general reduction of $148,216 claimed by the Appellant under section 123.4 of the Act.
+The Law
+[12] The leading cases on the how the GAAR is to be applied are the Supreme Court of Canada (the “SCC”) decisions in Canada Trustco Mortgage Co. v. Canada[4] (“Canada Trustco”), Lipson v. Canada[5] (“Lipson”), Copthorne Holdings Ltd. v. Canada[6] (“Copthorne”), Canada v. Alta Energy Luxembourg S.A.R.L.[7] (“Alta Energy”) and Deans Knight Income Corp. v. Canada[8] (“Deans Knight”).[9]
+[13] In Copthorne and Deans Knight, the SCC set out how the provisions of section 245 that impose the GAAR are to be applied to a transaction or a series of transactions. The Court’s reasoning in Copthorne and Deans Knight is consistent with its reasoning in its decisions in Canada Trustco, Lipson, and Alta Energy.
+[14] In its decisions, the SCC has made a number of observations with respect to the application of the GAAR, including the following:
+-The GAAR is different from the other provisions of the Act. While the Act is dominated by “explicit provisions dictating specific consequences” that invite a largely textual interpretation, the GAAR is “quite a different sort of provision”. It is a “broadly drafted provision, intended to negate arrangements that would be permissible under a literal interpretation of other provisions of the Income Tax Act, on the basis that they amount to abusive tax avoidance.”[10]
+-The GAAR was enacted “as a provision of last resort”.[11]
+-The SCC has affirmed on numerous occasions the Duke of Westminster principle that taxpayers can order their affairs to minimize the amount of tax payable.[12] However, this principle “has never been absolute”[13]. Where a transaction or series of transactions is shown to be abusive, the Duke of Westminster principle is “‘attenuated’ by the GAAR”.[14]
+-A general rule such as the GAAR introduces a degree of uncertainty in tax planning. A proper application of the GAAR methodology limits the amount of uncertainty.[15] Further, this uncertainty“underlines the obligation of the Minister who wishes to overcome the countervailing obligations of consistency and predictability to demonstrate clearly the abuse he alleges.”[16]
+[15] The SCC has set out three steps to be followed in determining the applicability of the GAAR. Those steps consist in ascertaining:
+whether there is a “tax benefit” arising from a “transaction” under subsections 245(1) and (2);
+whether the transaction is an avoidance transaction under subsection 245(3), in the sense of not being “arranged primarily for bona fide purposes other than to obtain the tax benefit”; and
+whether the avoidance transaction is abusive under subsection 245(4).[17]
+[16] If there is more than one tax benefit, the court conducts a GAAR analysis for each tax benefit.[18]
+[17] All three requirements must be fulfilled. The burden is on the taxpayer to refute (1) and (2) and on the Minister to establish (3).[19]
+[18] The SCC has recognized that the line between legitimate tax minimization and abusive tax avoidance is far from bright.[20] If the existence of abusive tax avoidance is unclear, the benefit of the doubt goes to the taxpayer.[21]
+Was there a tax benefit?
+[19] During the relevant period, the definition of tax benefit in subsection 245(1) read as follows:
+“tax benefit” means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act, and includes a reduction, avoidance or deferral of tax or other amount that would be payable under this Act but for a tax treaty or an increase in a refund of tax or other amount under this Act as a result of a tax treaty.
+[20] Whether a tax benefit exists is a question of fact.[22] When determining whether a tax benefit exists, the magnitude of the tax benefit is irrelevant.[23] The determination may require a comparison of the taxpayer’s situation with an alternative arrangement.[24]
+[21] When assessing the Appellant, the Minister assumed that the Appellant had received a tax benefit as a result of section 123.3 not being applicable and section 123.4 being applicable in the Appellant’s 2016 taxation year. The Appellant, in paragraph 28 of the agreed statement of facts, concedes these two tax benefits. The Respondent did not argue that the Appellant received any other tax benefits.
+[22] The position of the Appellant and the Respondent is consistent with the facts before me. Therefore, I accept the parties’ position that the only tax benefits realized by the Appellant from the transactions at issue arose as a result of section 123.3 not being applicable and section 123.4 being applicable in the Appellant’s 2016 taxation year. Paragraph 29 of the agreed statement of facts states that the quantum of the tax benefits realized by the Appellant is computed in accordance with the chart at Appendix “B” of the agreed statement of facts. This chart is attached as “Appendix B” to these Reasons for Judgment.
+Were the transactions at issue avoidance transactions?
+[23] Avoidance transaction is defined in subsection 245(3) to mean any transaction:
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+[24] The definition removes from the application of the GAAR transactions or series of transactions that may reasonably be considered to have been undertaken or arranged primarily for a non-tax purpose.[25] As noted in Copthorne, “[a]n avoidance transaction may operate alone to produce a tax benefit, or may operate as part of a series of transactions which produces a tax benefit”.[26]
+[25] Similar to the determination of whether a tax benefit exists, the determination of whether a transaction (or a series of transactions) is an avoidance transaction is a question of fact.[27]
+[26] If a transaction has both tax and non-tax purposes, then the GAAR will not apply to the transaction if the non-tax purpose was primary.[28]
+[27] The SCC explained in Copthorne how one applies subsection 245(3) to a series a transactions, as follows:
+Where, as here, the Minister assumes that the tax benefit resulted from a series of transactions rather than a single transaction, it is necessary to determine if there was a series, which transactions make up the series, and whether the tax benefit resulted from the series. If there is a series that results, directly or indirectly, in a tax benefit, it will be caught by s. 245(3) unless each transaction within the series could “reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain [a] tax benefit”. If any transaction within the series is not undertaken primarily for a bona fide non-tax purpose that transaction will be an avoidance transaction.[29]
+[28] When applying the GAAR, the Minister treated the rollover of the Soberlink Shares from Jacal to the Appellant and the continuance of the Appellant into the British Virgin Islands on April 29, 2015 as avoidance transactions. The Appellant concedes at paragraph 30 of the agreed statement of facts that the two transactions were avoidance transactions.
+[29] On the basis of the facts before me, I accept that the two transactions are the only avoidance transactions.
+[30] As the SCC noted in Alta Energy, citing Canada Trustco and Lipson, tax avoidance is not tax evasion. Further, “... tax avoidance should not be conflated with abuse. Even if a transaction was designed for a tax avoidance purpose and not for a bona fide non-tax purpose, such as an economic or commercial purpose, it does not mean that it is necessarily abusive within the meaning of the GAAR”.[30]
+[31] The GAAR will only apply if the avoidance transaction is found to be abusive. As stated by the SCC, “… [a] finding that a bona fide non-tax purpose is lacking, taken alone, should not be considered conclusive evidence of abusive tax avoidance.”[31]
+Are the avoidance transactions abusive under subsection 245(4)?
+[32] Subsection 245(4) reads as follows:
+Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of any one or more of
+(i) this Act,
+(ii) the Income Tax Regulations,
+(iii) the Income Tax Application Rules,
+(iv) a tax treaty, or
+(v) any other enactment that is relevant in computing tax or any other amount payable by or refundable to a person under this Act or in determining any amount that is relevant for the purposes of that computation; or
+(b) would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.
+[Emphasis added.]
+[33] Although subsection 245(4) refers to determinations of “misuse” and “abuse”, the SCC has made it clear that there is no distinction between an “abuse” and a “misuse”. The SCC has stated the following: “Section 245(4) requires a single, unified approach to the textual, contextual and purposive interpretation of the specific provisions of the Income Tax Act that are relied upon by the taxpayer in order to determine whether there was abusive tax avoidance.”[32] As a result, I will only use the term “abuse”.
+[34] The determination of whether a transaction is an abuse of the Act involves the following two steps:
+I must first determine the “object, spirit or purpose of the provisions of the Income Tax Act that are relied on for the tax benefit, having regard to the scheme of the Act, the relevant provisions and permissible extrinsic aids.”
+Once this step is completed, I will “examine the factual context of [the] case in order to determine whether the avoidance transaction defeated or frustrated the object, spirit or purpose of the provisions in issue.”[33]
+Determining the object, spirit or purpose of the relevant provisions
+[35] One uses a unified textual, contextual and purposive approach to identify the object, spirit or purpose of the relevant provisions. It is the same interpretive approach as that employed by the courts in all matters of statutory interpretation. However, as the SCC noted in Copthorne, the analysis seeks a different result:
+... In a traditional statutory interpretation approach the court applies the textual, contextual and purposive analysis to determine what the words of the statute mean. In a GAAR analysis the textual, contextual and purposive analysis is employed to determine the object, spirit or purpose of a provision. Here the meaning of the words of the statute may be clear enough. The search is for the rationale that underlies the words that may not be captured by the bare meaning of the words themselves. However, determining the rationale of the relevant provisions of the Act should not be conflated with a value judgment of what is right or wrong nor with theories about what tax law ought to be or ought to do.[34]
+[Emphasis added.]
+[36] The SCC confirmed this approach in Deans Knight, emphasizing the rationale of the provision.[35] It noted the following:
+… The object, spirit and purpose analysis has a precise function: to discern the underlying rationale of the provisions. A consideration of the text, context and purpose gives structure to this analysis. Indeed, the object, spirit and purpose analysis should not turn into a “value judgment of what is right or wrong... what tax law ought to be or ought to do” (Copthorne, at para. 70). Nor should it become a “search for an overriding policy of the Act” that is not founded in the text, context and purpose of the provisions (Canada Trustco, at para. 41; Alta Energy, at para. 49). Rather, a focus on the provision’s text, context and purpose ensures that the intrinsic and extrinsic evidence used to discern a provision’s rationale remains tied to the provision itself. …[36]
+[37] When determining the object, spirit and purpose of a provision, the court refers to the provision itself, the scheme of the Act and permissible extrinsic aids.[37]
+[38] As was noted in Copthorne and Deans Knight, compliance with the text of the relevant provisions is not the issue before the Court. The Minister would not have to rely on the GAAR if the tax benefit of the transaction or series of transactions was prohibited by the text of the relevant provisions.[38]
+[39] Deans Knight refers to the wording of a provision as the means to give effect to the rationale behind a provision. The words are “primarily a means of giving effect to Parliament’s aim, rather than a complete encapsulation of the aim itself.”[39] The SCC noted that “the means do not necessarily provide a full answer as to why the provision was adopted”.[40] As my colleague, Justin Owen, noted in Husky Energy Inc. v. The King,[41] the SCC is emphasizing, “[t]hat the means by which a provision achieves a particular objective will not always fully capture why Parliament enacted the provision.” In short, as the SCC noted in its previous decisions on the GAAR, the text of a provision is not determinative of a provision’s rationale.
+[40] The object, spirit and purpose of the provisions in question should be articulated as a concise description of the provisions’ rationale:
+The object, spirit and purpose of a provision must be worded as a description of its rationale (Copthorne, at para. 69). When articulating the object, spirit and purpose of a provision, a court is not repeating the test for the provision, nor is it crafting a new, secondary test that will apply to avoidance transactions. Discerning the object, spirit and purpose does not rewrite the provision; rather, the court merely takes a step back to formulate a concise description of the rationale underlying the provision, against which a textually compliant transaction must be scrutinized (Trustco, at para. 57; Copthorne, at para. 69).[42]
+[Emphasis added.]
+The abuse alleged by the Minister
+[41] The Respondent argues, at paragraph 19 of his written submissions, that the Appellant abused the following five provisions of the Act:
+-Subsection 250(5.1), which applies when a corporation is continued in a jurisdiction;
+-The definition of a CCPC in subsection 125(7);
+-The definition of a Canadian corporation in subsection 89(1);
+-Section 123.3, which levies a refundable tax on certain investment income of a CCPC; and
+-The portion of the definition of full rate taxable income included in subparagraph 123.4(1)(b)(iii). The definition of full rate taxable income is used to determine the amount of the taxable income of a corporation that is eligible for the 13% rate reduction provided for in subsection 123.4(2).
+[42] I will now turn to the object, spirit and purpose of each of these provisions.
+[43] I will begin by considering the text of each of these provisions. While, as just discussed, the text is not determinative of the object, spirit or purpose of a provision, it is relevant. The text helps the Court determine what the provision was intended to do.[43] When determining the object, spirit and purpose, considering what the text of the provision expressly permits or restricts may be relevant in determining what the provision was intended to do. In addition, the text can help to “identify the nature (or ‘type’) of provision at issue, which can be relevant to understanding the rationale underlying it.”[44]
+[44] After considering the text of a provision or provisions, I will consider the context and purpose of the provision or provisions at issue. At paragraph 91, Copthorne provides the following guidance on the contextual analysis:
+The consideration of context involves an examination of other sections of the Act, as well as permissible extrinsic aids (Trustco, at para. 55). However, not every other section of the Act will be relevant in understanding the context of the provision at issue. Rather, relevant provisions are related “because they are grouped together” or because they “work together to give effect to a plausible and coherent plan” (R. Sullivan, Sullivan on the Construction of Statutes (5th ed. 2008), at pp. 361 and 364).
+[45] As noted in Deans Knight, the focus is on the relationship between the provision alleged to have been abused and the particular scheme within which it operates. The context can serve to identify the function of the provision within a coherent scheme.[45]
+[46] With respect to purpose, Deans Knight notes that understanding the provision’s purpose is central to the GAAR analysis. The provision’s purpose can help to discern the outcomes that Parliament sought to achieve or prevent.[46] The SCC explains the purposive analysis at paragraph 68 as follows:
+… A purposive analysis permits courts to consider legislative history and extrinsic evidence (see R. Sullivan, The Construction of Statutes (7th ed. 2022), at § 9.03, at paras. 7-8). These materials provide insight into the rationale for specific provisions. Of course, tax provisions can serve a variety of independent and interlocking purposes (Trustco, at para. 53). Nevertheless, such provisions are intended to promote particular aims, and courts must therefore determine what outcome Parliament sought to achieve through the specific provision or provisions (Copthorne, at para. 113).
+[47] Similar to how one can understand the purpose of the section at issue in Deans Knight, one can only understand the purpose of the sections at issue in this appeal by considering the function that they play in the larger scheme of computing the tax payable by corporations—in particular, how the Act taxes private corporations that are CCPCs and private corporations that are not CCPCs.
+[48] I will first consider the two definitions at issue: the definition of a CCPC and the definition of a Canadian corporation. I will then consider each of the three other sections that are at issue in this appeal.
+Object, spirit and purpose of the definitions of CCPC and Canadian corporation
+[49] In addition to addressing the definitions of a CCPC and a Canadian corporation, I will also discuss the definition of a private corporation, since a corporation must be a private corporation before it can be a CCPC. Further, the taxation of private corporations that are not CCPCs is relevant when determining the object, spirt and purpose of the definitions of CCPC and Canadian corporation.
+[50] Subsection 248(1) states that, for the purposes of the Act, CCPC has the meaning assigned by subsection 125(7). Subsection 125(7) defines CCPC as follows:
+In this section …
+“Canadian-controlled private corporation” means a private corporation that is a Canadian corporation other than
+(a) a corporation controlled, directly or indirectly in any manner whatever, by one or more non-resident persons, by one or more public corporations (other than a prescribed venture capital corporation), by one or more corporations described in paragraph (c), or by any combination of them,
+(b) a corporation that would, if each share of the capital stock of a corporation that is owned by a non-resident person, by a public corporation (other than a prescribed venture capital corporation), or by a corporation described in paragraph (c) were owned by a particular person, be controlled by the particular person,
+(c) a corporation a class of the shares of the capital stock of which is listed on a designated stock exchange, or
+(d) in applying subsection (1), paragraphs 87(2)(vv) and (ww) (including, for greater certainty, in applying those paragraphs as provided under paragraph 88(1)(e.2)), the definitions “excessive eligible dividend designation”, “general rate income pool” and “low rate income pool” in subsection 89(1) and subsections 89(4) to (6), (8) to (10) and 249(3.1), a corporation that has made an election under subsection 89(11) and that has not revoked the election under subsection 89(12);
+[51] The definition states that CCPC means the words that follow. As a result, the definition is exhaustive.
+[52] The definition provides that in order for a corporation to be a CCPC, it must be both a private corporation and a Canadian corporation.
+[53] Private corporation is defined, for purposes of the Act, in subsection 248(1) by reference to the meaning assigned by subsection 89(1). Subsection 89(1) defines private corporation as follows:
+“private corporation” at any particular time means a corporation that, at the particular time, is resident in Canada, is not a public corporation and is not controlled by one or more public corporations (other than prescribed venture capital corporations) or prescribed federal Crown corporations or by any combination thereof and, for greater certainty, for the purposes of determining at any particular time when a corporation last became a private corporation,
+(a) a corporation that was a private corporation at the commencement of its 1972 taxation year and thereafter without interruption until the particular time shall be deemed to have last become a private corporation at the end of its 1971 taxation year, and
+(b) a corporation incorporated after 1971 that was a private corporation at the time of its incorporation and thereafter without interruption until the particular time shall be deemed to have last become a private corporation immediately before the time of its incorporation;
+[54] This definition applies at a point in time. It provides that in order for a corporation to be a private corporation at a particular point in time it must, at that particular point it time, be resident in Canada, not be a public corporation and not be controlled by one or more public corporations[47] or prescribed federal Crown corporations or by any combination of these corporations.
+[55] As will be discussed, the term private corporation is used throughout the Act when determining the taxation of corporations that are not public corporations. While the definition of a CCPC is one example of where the term is used, other examples include the provisions dealing with refundable Part IV tax[48] and the provisions dealing with capital dividends.[49]
+[56] A public corporation is defined, for the purposes of the Act, in subsection 248(1) and subsection 89(1). Generally speaking, it is a corporation that is resident in Canada and that has a class of shares listed on a designated stock exchange.
+[57] Subsection 248(1) states that, for the purposes of the Act, Canadian corporation has the meaning assigned by subsection 89(1). Subsection 89(1) defines Canadian corporation as follows:
+“Canadian corporation” at any time means a corporation that is resident in Canada at that time and was
+(a) incorporated in Canada, or
+(b) resident in Canada throughout the period that began on June 18, 1971 and that ends at that time,
+and for greater certainty, a corporation formed at any particular time by the amalgamation or merger of, or by a plan of arrangement or other corporate reorganization in respect of, 2 or more corporations (otherwise than as a result of the acquisition of property of one corporation by another corporation, pursuant to the purchase of the property by the other corporation or as a result of the distribution of the property to the other corporation on the winding-up of the corporation) is a Canadian corporation because of paragraph (a) only if
+(c) that reorganization took place under the laws of Canada or a province, and
+(d) each of those corporations was, immediately before the particular time, a Canadian corporation;
+[58] Under this definition, a corporation will be a Canadian corporation at any time if, at the particular time, it is a resident of Canada and was incorporated in Canada.[50]
+[59] Because of the definitions of private corporation and Canadian corporation, in order for a corporation to be a CCPC at a particular point in time, the corporation must be resident in Canada and incorporated in Canada. Also, it must not be a public corporation or controlled by one or more public corporations, or prescribed federal Crown corporations or by any combination of these corporations.
+[60] Even if the corporation is a private corporation and a Canadian corporation, it will not be a CCPC if it is included in paragraphs (a) to (d) of the definition of CCPC. Paragraphs (a) to (c) exclude corporations controlled directly or indirectly in any manner by one or more non-resident persons, corporations controlled by one or more public corporations, corporations with a class of shares listed on a designated stock exchange, or any combinations of them. Paragraph (d) of the definition provides that a corporation that has made an election under subsection 89(11) is deemed to not be a CCPC for the purpose of the small business deduction rate and the eligible dividend scheme.
+[61] The definitions of CCPC, private corporation and Canadian corporation were first added to the Act in 1971 as part of the 1971 tax reform legislation.
+[62] At the time of their introduction, the government emphasized the importance of recognizing whether a corporation was described in the Act as a private corporation or a CCPC. The Department of National Revenue’s 1971 guide on corporate taxation noted the following:
+… The importance of the income tax implications where a corporation is a private corporation, or a particular type of private corporation such as a Canadian‑controlled private corporation, cannot be over-emphasized. The reader is therefore asked to pay particular attention to the exact term used when a corporation is described in the Act …[51]
+[63] As will be discussed, the importance of the definitions of private corporation and CCPC in determining the taxation of a corporation under the Act continues under the current scheme of the Act.
+[64] The definition of CCPC at the time that it was added to the Act in 1971 read as follows:
+(a) “Canadian-controlled private corporation” means a private corporation that is a Canadian corporation other than a corporation controlled, directly or indirectly in any manner whatever, by one or more non-resident persons, by one or more public corporations or by any combination thereof;[52]
+[65] Parliament has amended the definition on numerous occasions, as follows:
+-It was amended in 1980 to provide that a corporation did not lose its status as a CCPC if it was controlled by a public corporation that was a prescribed venture capital corporation;[53]
+-It was amended in 1998 to add text similar to current paragraphs (b) and (c) of the definition;[54]
+-Minor amendments were made to the definition of CCPC in 2001.[55] This included adjustments to the wording of the provision and the addition of the reference to paragraph (c) in paragraph (a) that is found in the current version; and
+-The definition was amended twice in 2007. The first of these amendments added paragraph (d) for the purposes of the subsection 89(11) election discussed above.[56] The second of these amendments substituted the term “designated stock exchange” for “prescribed stock exchange.”[57]
+[66] The definition of Canadian corporation at the time that it was added to the Act in 1971 read as follows:
+(a) “Canadian corporation” at any time means a corporation that was resident in Canada at that time and was
+(i) incorporated in Canada, or
+(ii) resident in Canada throughout the period commencing June 18, 1971 and ending at that time,
+except that for the purposes of subsection 83(1) a corporation that was incorporated in Canada before April 27, 1965 and that was not resident in Canada at the end of 1971 shall be deemed not to be a Canadian corporation;
+[67] The definition was amended in 1977 to remove the text after subparagraph 89(1)(a)(ii) above.[58] The definition was then amended in 1994 to the current version by including the text referring to amalgamations after paragraph (b).[59]
+[68] The text of the definition of Canadian corporation creates a class of corporations that meets the conditions of the definition. The definition is intended to differentiate between corporations that are resident in Canada and corporations that are not resident in Canada, as well as between corporations incorporated in Canada and outside of Canada.
+[69] Pursuant to the definition of a CCPC, a private corporation cannot be a CCPC unless it is a Canadian corporation. As a result, to be a CCPC at a particular point in time, a private corporation must either be incorporated in Canada or have been resident in Canada continuously since June 18, 1971.
+[70] The text of the definition of CCPC is intended to narrow down the pool of private corporations that qualify as CCPCs to include only those that are Canadian corporations and that are not described in paragraphs (a) to (d) of the definition of a CCPC.
+[71] As will be discussed, the effect of a corporation being defined as a public corporation, a private corporation or a private corporation that is a CCPC is key to determining the object, spirit and purpose of the provisions at issue in these appeals. This will be evident once the function that each of the definitions plays in the scheme of the Act is considered.
+[72] Numerous provisions of the Act distinguish between a public corporation, a CCPC and a private corporation. As well, certain provisions only apply if a corporation is a Canadian corporation. This results in different taxing regimes for public corporations, CCPCs, and private corporations that are not CCPCs.
+[73] All corporations that are resident in Canada are taxed on their worldwide income. However, for policy reasons the Act draws important distinctions between public corporations and private corporations and between private corporations that are CCPCs and private corporations that are not CCPCs.
+[74] Generally speaking, private corporations are entitled to a number of advantages that are not available to public companies. Further, CCPCs are entitled to a number of tax benefits that are not extended to private companies that are not CCPCs.
+[75] This can be seen by contrasting the taxing regime for CCPCs and the taxing regime for private corporations that are not CCPCs.
+[76] Most private corporations that are not CCPCs are only subject to the general Part I tax rate of 28% on their taxable income (the “General Tax Rate”). This rate is composed of the 38% tax levied under subsection 123(1) on the taxable income of a corporation, reduced by the federal abatement of 10% of the corporation’s taxable income earned in the year in a province.[60] As I will discuss, in most instances the 28% General Tax Rate is reduced by a further 13% under section 123.4, resulting in a corporate tax rate of 15%.
+[77] The calculation of the tax rate for CCPCs is not as straightforward. The applicable tax rate varies depending on the nature and amount of the income. A CCPC must identify its active business income and its aggregate investment income.
+[78] A CCPC, at the outset, is liable to pay tax at the 28% General Tax Rate on all of its income. However, the 28% General Tax Rate is reduced for active business income of the CCPC that is eligible for the $500,000 small business deduction. In the relevant years, the portion of the CCPC’s income that was eligible for the small business deduction was subject to an effective tax rate of 11% in 2015 and 10.5% in 2016 (the “Eligible Small Business Tax Rate”).
+[79] The CCPC’s business income that is not eligible for the small business deduction is, in most instances, subject to the same 15% tax rate applicable to most private corporations (the General Tax Rate minus the 13% section 123.4 reduction).
+[80] The CCPC’s income that is aggregate investment income[61] is, at the time that the income is earned, subject to the 28% General Tax Rate plus an additional refundable tax under section 123.3. This resulted in a CCPC paying, in the year that the aggregate investment income was realized, tax at an effective rate of 34.66% in 2015 and 38.66% in 2016. However, on payment of a dividend, a significant portion of this tax was refunded, resulting in an effective tax rate of 8%.[62] The taxation of a CCPC’s investment income will be discussed in more detail, when I discuss section 123.3.
+[81] In summary, a CCPC may be taxed on some of its business income at the same rate as the rate paid by a private corporation that is not a CCPC; it may be taxed on another portion of its business income at a lower rate; and it may be taxed initially on its investment income at a rate this is 10.66% higher than the General Tax Rate, but then taxed at a significantly lower rate on the payment of a dividend.
+[82] This specific tax regime for CCPCs is contained in a number of provisions. For example, numerous sections of the Act only apply to corporations that are CCPCs, other sections only apply to corporations that are not CCPCs, and certain sections may apply differently to corporations depending on whether the corporation is a CCPC. These provisions relate to both the taxation of the corporation and the taxation of the shareholders of the corporation.
+[83] This can be seen from the following examples:
+-Subsection 127(10.1) of the Act provides an additional refundable investment tax credit for scientific research and experimental development expenditures incurred by a CCPC;[63]
+-The payment deadline for a corporation’s payment of its taxes is extended by one month for certain CCPCs;[64]
+-The normal reassessment period for a corporation that is a CCPC is three years, while the normal reassessment period for a corporation that is not a CCPC is four years;[65]
+-Under the Act, an individual resident in Canada who is a shareholder of a CCPC that is a small business corporation is generally entitled to a capital gains exemption on the sale of his or her CCPC shares, provided that he or she meets certain requirements, up to a limited exemption amount across his or her entire lifetime.[66] Shareholders of private corporations that do not have CCPC status are not entitled to this capital gains exemption;
+-Subsection 7(1.1) defers the payment of tax on stock option benefits realized by an employee of a CCPC. An employee of a CCPC who receives stock options in his or her CCPC employer is not taxed at the time of exercising the option, but is rather taxed at the time that the employee disposes of the shares, on the condition that the employee is dealing at arm’s length with his or her employer.[67] Employees of non-CCPCs are not entitled to the aforementioned deferred stock option benefit and are generally taxed when the option is exercised;
+-Shareholders of eligible small business corporations who sell their shares in exchange for other shares of eligible small business corporations are generally entitled to a rollover of their capital gains on the disposition of their shares. One of the requirements for a corporation to qualify as an eligible small business corporation is that it must be a CCPC;[68] and
+-Taxpayers may reduce their taxable income from any source by the amount of their allowable business investment loss.[69] An allowable business investment loss is a loss resulting from the disposition of capital property that meets certain requirements. One of these requirements is that the property is either a share or a debt in a CCPC that is a small business corporation.[70]
+[84] There are also certain provisions that benefit CCPCs but that do not benefit corporations, including a private corporation such as the Appellant, that are corporations resident in Canada but that are not Canadian corporations. The Appellant lost its status as a Canadian corporation, and thus its status as a CCPC, once it was continued in the British Virgin Islands. Since the Appellant ceased to be a Canadian corporation, it also ceased to be a taxable Canadian corporation. As a result, it lost the benefit of certain provisions, such as the following:
+-Section 85, which allows property to be transferred to a taxable Canadian corporation on a tax-deferred basis. While the rollover provision is available to a CCPC, it is not available to a private corporation, such as the Appellant, that is not a taxable Canadian corporation;
+-Section 87, which allows corporations to amalgamate on a tax-deferred basis, also only applies to taxable Canadian corporations;
+-For the same reason, section 88, which allows corporations such as CCPCs to be wound up on a tax-deferred basis, is not available to private corporations such as the Appellant; and
+-The dividend gross-up and tax credit mechanism provided for in subsection 82(1) and section 121 is discussed in the next few paragraphs. These provisions do not apply to dividends received from corporations that are resident in Canada but that are not taxable Canadian corporations.[71]
+[85] As mentioned previously, the tax regime for CCPCs extends to the tax paid on distributions to its shareholders.
+[86] The Act has a specific set of rules that integrate the tax paid by corporations and shareholders when dividends are paid to a corporation’s shareholders. These rules apply differently to CCPCs and to non-CCPCs—particularly non-CCPCs that are not Canadian corporations, such as the Appellant.
+[87] Since a corporation is not entitled to deduct dividends paid to shareholders from its taxable income, profits paid out to shareholders as dividends are taxed twice: first, at the corporate level as income of the company, and second, at the shareholder level as personal income of the individual shareholder.
+[88] The Carter Commission recommended the elimination of this double tax by integrating corporate and personal income taxes through a dividend gross-up and credit system. The tax reform of 1971 implemented a system of integration for Canadian investment income of private corporations and (within limits) the Canadian active business income of CCPCs.
+[89] The dividend gross-up and credit system has evolved over the years both for policy reasons and to take into account the ever-changing corporate tax rates. Under the current system, Canadian corporations pay two types of taxable dividends, eligible dividends and non-eligible dividends. Generally speaking, an eligible dividend is a dividend paid by a corporation from its after-tax income that was subject to the General Tax Rate. A non-eligible dividend is a dividend paid by a corporation from its after-tax income that was subject to a lower rate of tax, such as income of a CCPC that was taxed at the Eligible Small Business Tax Rate, or was part of its aggregate investment income.[72] Eligible dividends have a higher gross-up and credit imputed to shareholders than non-eligible dividends.
+[90] The Act imposes restrictions on paying eligible dividends based on the status of the corporate payer. The restrictions are penalties imposed under Part III.1 of the Act when a corporation pays excessive eligible dividends.[73] The Act contains different tests for the imposition of Part III.1 tax depending on whether the corporation is a CCPC or a Canadian resident corporation that is not a CCPC. Generally speaking, the rules are as follows:
+-A CCPC may pay an eligible dividend in a taxation year only to the extent of its general rate income pool (“GRIP”) at the end of its taxation year without being subject to Part III.1 tax; and
+-A Canadian resident corporation that is not a CCPC may pay eligible dividends in any amount. However, any such corporation cannot pay an eligible dividend free of Part III.3 tax until it has paid non-eligible dividends and reduced its low rate income pool (“LRIP”) to nil.
+[91] GRIP is defined in subsection 89(1). The definition only applies to a taxable Canadian corporation that is a CCPC in a particular taxation year or to a deposit insurance corporation in a particular taxation year. A CCPC’s GRIP balance, which is computed at the end of a particular year, can be a positive or negative amount. While the formula is long and complex, it generally reflects income of the CCPC that is not part of its aggregate investment income and income that has not benefited from the small business deduction or any other special tax rate.
+[92] LRIP is defined in subsection 89(1). The definition does not apply to CCPCs. The definition does apply to all other corporations resident in Canada. A non‑CCPC’s LRIP generally reflects income that has benefited from certain preferential tax rates.
+[93] In summary, the rules in the Act that effect integration through eligible and ineligible dividends recognize the different tax regimes for CCPCs and non‑CCPCs.
+[94] As mentioned previously, shareholders of a corporation that, like the Appellant, is not a CCPC and is not a Canadian corporation cannot benefit from the dividend gross-up and credit system. A corporation must be a Canadian corporation in order to use the dividend gross-up and credit system.
+Object, spirit and purpose of the definitions
+[95] The Respondent’s position with respect to the object, spirit and purpose of the definition of a CCPC is set out at paragraph 124 of his written submissions. This paragraph reads as follows:
+The [object, spirit and purpose] of the CCPC definition is to ensure that private corporations directly or indirectly controlled in any manner whatever by Canadian residents are subject to the anti-deferral regime applicable to the investment income of CCPCs. This is how the respondent described the [object, spirit and purpose] in his pleadings. This description is more precisely a description of part of the [object, spirit and purpose] of the CCPC definition. The definition mainly serves as a criterion for obtaining benefits, especially the small business deduction on the first $500,000 in active business income.
+[96] The Appellant argues that the object, spirit and purpose of the definition of CCPC is to enumerate the specific criteria chosen by Parliament to be afforded such status.[74]
+[97] I agree with the Appellant.
+[98] From the time of the definitions’ introduction until the present, the rationale of each definition has not changed. The Act contains a detailed and specific regime for taxing CCPCs, including specific provisions for taxing their business income, for taxing their investment income and for taxing distributions to their shareholders. Other provisions provide specific benefits to corporations that are defined to be CCPCs. The object, spirit and purpose of the definition of a CCPC is to provide a dividing line between those corporations that are taxed under the specific regime for CCPCs and those corporations that are not taxed under this regime.
+[99] Similarly, the object, spirit and purpose of the definition of a Canadian corporation is to set out the specific criteria that must be satisfied before a corporation is considered for the purposes of the Act to be a Canadian corporation.
+Section 123.3
+[100] Section 123.3 reads as follows:
+123.3 There shall be added to the tax otherwise payable under this Part for each taxation year by a corporation that is throughout the year a Canadian-controlled private corporation an amount equal to 10 2/3% of the lesser of
+(a) the corporation’s aggregate investment income for the year (within the meaning assigned by subsection 129(4)), and
+(b) the amount, if any, by which its taxable income for the year exceeds the least of the amounts determined in respect of it for the year under paragraphs 125(1)(a) to (c).
+[101] The provision levies a 10 2/3% tax on the lesser of a CCPC’s aggregate investment income (within the meaning assigned by subsection 129(4)) and the amount determined under paragraph 123.3(b). The amount determined under paragraph 123.3(b) is the amount by which the CCPC’s taxable income exceeds its small business deduction limit determined under paragraphs 125(1)(a) to (c). Since in most instances the CCPC’s aggregate investment income will be less than or equal to the amount calculated under paragraph 123.3(b), the section 123.3 tax is normally 10 2/3% of a CCPC’s aggregate investment income.
+[102] Subsection 129(4) defines the aggregate investment income of a corporation as follows:
+aggregate investment income of a corporation for a taxation year means the amount, if any, by which the total of all amounts, each of which is
+(a) the amount, if any, by which
+(i) the eligible portion of the corporation’s taxable capital gains for the year
+exceeds the total of
+(ii) the eligible portion of its allowable capital losses for the year, and
+(iii) the amount, if any, deducted under paragraph 111(1)(b) in computing its taxable income for the year, or
+(b) the corporation’s income for the year from a source that is a property, other than
+(i) exempt income,
+(ii) an amount included under subsection 12(10.2) in computing the corporation’s income for the year,
+(iii) the portion of any dividend that was deductible in computing the corporation’s taxable income for the year, and
+(iv) income that, but for paragraph 108(5)(a), would not be income from a property,
+exceeds the total of all amounts, each of which is the corporation’s loss for the year from a source that is a property.
+[103] The eligible portion of a CCPC’s taxable capital gains or allowable capital losses is the portion that “cannot reasonably be regarded as having accrued while the property, or a property for which it was substituted, was property of a corporation other than a Canadian-controlled private corporation”.[75] As a result, paragraph 129(4)(a) only includes taxable capital gains or allowable capital losses of a CCPC to the extent that they accrued while the corporation was a CCPC.
+[104] Subsection 129(4) provides that a corporation’s income or loss for the year from a source that is property includes the income or loss from a specified investment business carried on in Canada other than income or loss from a source outside of Canada.[76] Generally speaking, a specified investment business is a business whose principal purpose is to earn income from property.[77]
+[105] Subsection 129(4) excludes from a corporation’s income or loss from a source that is property, income or loss from any property that is “incident to or pertains to an active business carried on by it, or that is used or held principally for the purpose of gaining or producing income from an active business carried on by it.”[78]
+[106] Subparagraphs b(i) to b(iv) of the definition of aggregate investment income exclude the following from a corporation’s income from a source that is property:
+-exempt income;
+-income paid out of an “NISA Fund No. 2”, which relates to certain agricultural income stabilization programs;
+-inter-corporate dividends that are deductible under subsection 112(1) or subsection 113(1); and
+-income that is deemed under paragraph 108(5)(a) to be property income when distributed by a trust.
+[107] The text of section 123.3 and the definition of aggregate investment income indicate that section 123.3 is intended to levy a 10 2/3% tax on a CCPC’s passive income, composed of the excess of its eligible taxable capital gains over its allowable capital losses, plus its net income from property that the CCPC does not use in its active business or that is not incidental to the active business.
+[108] As will be discussed, this tax is refundable.
+[109] Section 123.3 was added to the Act in 1996.[79] Originally, section 123.3 imposed a refundable tax of 6 2/3% on aggregate investment income. This amount was increased in 2016 to the current rate of 10 2/3% to coincide with an equivalent increase to the highest marginal rate on personal income tax in the same year.[80]
+[110] Section 123.3 is part of a legislative scheme in the Act for the taxing of investment income of a CCPC. The search for the rationale underlying the text of the provision requires consideration of this legislative scheme.
+[111] “The rules concerning the investment income of CCPCs attempt to make the corporation an investment vehicle of little tax significance.”[81] The Act contains two sets of rules that attempt to accomplish this objective.
+[112] The first set of rules, the previously discussed dividend gross-up and credit scheme, attempts to integrate the tax paid by CCPCs and their shareholders through the use of eligible and non-eligible dividends.
+[113] The second set of rules attempts to discourage the retention of investment income in the CCPC, while maintaining the integration of the CCPC’s and its shareholders’ tax structures. This set of rules comprises section 123.3 and the sections that provide for a refundable portion of a CCPC’s Part I tax.
+[114] Section 123.3 attempts to discourage the retention of a CCPC’s investment income by initially taxing the investment income at a 38 2/3% tax rate. This is made up of the 28% General Tax Rate plus the 10 2/3% tax levied under section 123.3. The 38 2/3% tax rate is intended to be roughly equal to the highest personal tax rate paid by an individual shareholder and thus reduces or eliminates any advantage that would arise on retaining the investment income in the corporation and deferring the payment of the tax that emerges on the distribution of the investment income to the shareholders of the CCPC.
+[115] This was explained by the government at the time that section 123.3 was introduced, as follows:
+Effective July 1, 1995, a refundable tax will be levied on the investment income received by a Canadian-controlled private corporation. This tax will reduce the current deferral advantage to individuals earning investment income through these private corporations instead of earning such income directly. The deferral advantage arises when the corporate tax rate applied to this income is lower than the marginal tax rate of the individual shareholder.[82]
+[116] As noted in the budget document, the section 123.3 tax is refundable.
+[117] Similar comments were made in the Department of Finance explanatory notes that were issued at the time that the refundable tax levied under section 123.3 was increased from 6 2/3% to 10 2/3%. The comments were as follows:
+Section 123.3 of the Act imposes an additional amount of tax under Part I of the Act on investment income of a Canadian-controlled private corporation (CCPC). A corporation that is a CCPC throughout a taxation year must add to its tax otherwise payable under Part I for that year an amount that is equal to 6 2/3% of the lesser of two amounts. … The objective of this additional tax is to reduce personal income tax deferral possibilities that individuals earning investment income directly might otherwise obtain by earning such income through a CCPC.
+This section is amended to increase the rate from 6 2/3% to 10 2/3%, consequential to the introduction of a new top personal income tax rate of 33% in subsection 117(2).[83]
+[Emphasis added.]
+[118] The tax is refunded to the CCPC when dividends are paid out to shareholders. This is done through the use of a CCPC’s refundable dividend tax on hand (“RDTOH”) account. The RDTOH account was created as part of the 1971 tax reform.[84]
+[119] All private corporations establish a RDTOH in which they credit the Part IV tax paid on deductible inter-corporate dividends. During 2016, CCPCs, in addition to crediting their RDTOH account with any Part IV tax that they paid during the year, credited their RDTOH with 30 2/3%[85] of their aggregate investment income.[86] The 30 2/3% represented the 10 2/3% tax that a CCPC paid under section 123 on its aggregate investment income and tax of 20% of its aggregate investment income, which represents part of the tax paid at the 28% General Tax Rate.[87]
+[120] On declaration of taxable dividends, private corporations, including CCPCs, were entitled to a dividend refund of 1/3 of the value of the dividend up to the amount of their RDTOH account.[88]
+[121] While, during the relevant years, both CCPCs and corporations that were not CCPCs maintained RDTOH accounts, only CCPCs were entitled to a refund in respect of the Part I tax that they paid on their aggregate investment income. Private corporations that were not CCPCs were only entitled to claim a dividend refund in respect of Part IV tax.
+[122] The purpose of paying a dividend refund to CCPCs in respect of the Part I tax that they paid on their aggregate investment income was to lower the tax rate to a level that allowed for the integration of corporate and shareholder taxes under the first set of rules.[89] During the relevant period, a CCPC paid Part I tax at a rate of 8% on its aggregate investment income after receiving the dividend refund.[90]
+[123] The effect of section 123.3 and the refundable dividend tax mechanism is to first tax the CCPC’s aggregate investment income at a high rate to try to minimize any tax deferral that may be realized by the CCPC deferring the distribution of the aggregate investment income to its shareholders, but then to tax the aggregate investment income at a low rate once it is distributed to the corporation’s shareholders. This low tax rate allows the dividend gross-up and credit system to operate properly. The Minister of Finance explained this scheme at the time of the introduction of section 123.3 as follows:
+The RDTOH account of a private corporation accumulates two amounts:
+all of the Part IV tax paid by that corporation on its portfolio dividend income; and
+for CCPCs, up to 20 percentage points of the Part I tax paid on its investment income (other than deductible dividends) and taxable capital gains.
+The corporation is then free to distribute taxable dividends out of both its retained earnings and this RDTOH account to the shareholder. …
+In recent years the spread between corporate and personal income tax rates has generally increased. In several provinces, the top personal tax rate exceeds the top corporate rate by a significant amount. This creates an incentive for individuals to defer tax by accumulating investment income in a private corporation rather than earning the income directly.
+By imposing an additional refundable tax of 6 2⁄3 per cent on investment income earned by a CCPC, this proposal will reduce or eliminate the deferral advantage of earning investment income in the corporation as opposed to earning it directly. Because this additional tax will also be credited to the RDTOH account, the integration of the corporate and individual tax structures will be maintained. Corporations will now receive a refund of their RDTOH at a rate of one dollar for every three dollars of taxable dividends paid.[91]
+Object, spirit and purpose of section 123.3
+[124] The Respondent argues that the object, spirit and purpose of section 123.3 is to prevent Canadian resident individuals who control a private corporation from deferring tax on the investment income of the corporation. The Respondent states the following at paragraph 25 of his written submissions:
+Even though the text of s.123.3 applies to only CCPCs, the [object, spirit and purpose] of s. 123.3 is broader. The [object, spirit and purpose] is to prevent a Canadian resident individual from deferring tax on investment income, including taxable capital gains, earned through private corporations that they control directly or indirectly in any matter whatever. This OSP is found in the legislative history of the integration/anti-deferral regime for the investment income of a private corporation, of which s. 123.3 became part.
+[125] The Appellant disagrees with the Respondent’s position. It argues that the object, spirit and purpose of section 123.3 is to prevent a Canadian individual who controls a CCPC from deferring tax on investment income of a corporation. In its view, the government never intended for the provision to apply to a private corporation that is not a CCPC.
+[126] The text of section 123.3 indicates that the intention of section 123.3 was to levy the refundable tax on CCPCs. The use of the words Canadian controlled private corporation in section 123.3 reflects part of the means used by the government to translate its aims into legislative form. However, as the SCC noted in Deans Knight, the means do not necessarily provide a full answer as to why Parliament adopted the provision.[92] I must reach my conclusion on the object, spirit and purpose of section 123.3 based on the text plus the contextual and purposive analysis just undertaken.
+[127] As discussed, section 123.3 is part of the scheme for taxing investment income of a CCPC. This scheme involves two sets of rules: (1) the rules relating to integration effected by the dividend gross-up and credit scheme; and (2) the rules attempting to discourage the retention of investment income, while maintaining integration, which are set out in section 123.3 and in the dividend refund scheme.
+[128] The first set of rules, the dividend gross-up and credit scheme contains a specific scheme for CCPCs. As discussed previously, the dividend gross-up and credit scheme distinguishes between eligible dividends and non-eligible dividends. A CCPC, unlike a corporation that is not a CCPC, must calculate a GRIP account balance. The CCPC’s ability to pay an eligible dividend is dependent on the balance in this GRIP account. The exclusion of a CCPC’s investment from its GRIP account recognizes that the investment income of the CCPC is taxed at a lower rate once it is distributed to the CCPC’s shareholder. In short, the dividend gross-up rules contain a specific scheme for CCPCs.
+[129] It is the same for the second set of rules, which are contained in section 123.3 and the refundable dividend tax provisions. Section 123.3 only applies to CCPCs. More importantly, even though all private corporations establish an RDTOH account, only a CCPC is allowed to credit their RDTOH account with a portion of the Part I tax that it paid on its investment income.
+[130] The amount credited by the CCPC to its RDTOH account includes both the tax that it paid under section 123.3 plus a portion of the tax paid at the General Tax Rate. The amount credited in respect of the General Tax Rate represents tax that is paid by both CCPCs and private corporations that are not CCPCs; however, Parliament has chosen to not include private corporations that are not CCPCs in the RDTOH scheme for Part I tax.
+[131] The two sets of rules evidence that section 123.3 is part of a legislative scheme that the government only intended to apply to CCPCs.
+[132] This conclusion is consistent with the various pronouncements made by the government when it introduced section 123.3 in 1995 and when it amended the provision in 2016 to increase the rate. It is clear from these pronouncements that the government was aware that the tax deferral opportunity existed for all individuals who held shares in private companies, but that it only chose to impose the section 123.3 refundable tax on CCPCs.
+[133] The Appellant argues that the history of the rules for the RDTOH make it clear that Parliament intended for the refundable tax regime (which section 123.3 joined in 1996)—as it applies to Part I tax on investment income—to only apply to those private companies that are CCPCs.
+[134] At the time that section 129 was introduced in 1971 as part of the 1971 tax reform, the definition of RDTOH in subsection 129(3) allowed all private corporations (not just CCPCs) to add 25% of their Canadian investment income to their RDTOH accounts.[93]
+[135] In 1981, the Act was amended to restrict the addition to the RDTOH account in respect of Part I tax paid on investment income to corporations that were CCPCs.[94] The words “private corporation” in paragraph 129(3)(a) were replaced with the words “Canadian-controlled private corporation throughout the year”.
+[136] As a result, private corporations that were not CCPCs could no longer benefit from the RDTOH rules with respect to the Part I tax that they paid on investment income. This change was explained in the 1982 Department of Finance technical notes as follows:
+Paragraph 129(3)(a) of the Act defines the “refundable dividend tax on hand” of a private corporation. This represents the portion of tax on investment income which is refunded to a private corporation on payment by it of dividends.
+There are two changes to the calculation of refundable dividend tax on hand. First, the corporation must be a Canadian-controlled private corporation throughout the year in order for its investment income to earn refundable dividend tax in taxation years commencing after November 12, 1981. … [95]
+[137] I agree with the Appellant that this history of the definition of RDTOH shows that Parliament intended for the refundable tax regime for Part I tax, which now includes section 123.3, to only apply to CCPCs.
+[138] The SCC has consistently stated that the object, spirit and purpose analysis should not become a “search for an overriding policy of the Act” that is not found in the text, context and purpose of those provisions.[96] However, this is exactly what the Respondent is asking me to do. In my view, the text, context and purpose of section 123.3 does not support a finding that its object, spirt and purpose was to prevent Canadian resident individuals from deferring tax on investment income held in any private corporations.
+[139] A consideration of the text, context and purpose of section 123.3 leads to the conclusion that the object, spirit and purpose of the section, its rationale, is to, together with the refundable tax regime and the dividend gross-up and tax credit scheme, prevent the use of a CCPC to defer taxes that may be payable at a higher rate by the shareholders of the CCPC, while maintaining the integration of taxes paid by CCPCs and their shareholders.
+Section 123.4
+[140] Subsection 123.4(2) provides what is referred to as the “General Rate Reduction”. The subsection reduces the General Tax Rate of a corporation by the general rate reduction percentage. The subsection reads as follows:
+General deduction from tax — There may be deducted from a corporation’s tax otherwise payable under this Part for a taxation year the product obtained by multiplying the corporation’s general rate reduction percentage for the year by the corporation’s full rate taxable income for the year.
+[141] The general rate reduction percentage is defined in subsection 123.4(1). For years after 2011, the percentage is 13%. As a result, the tax rate that a corporation pays on its full rate taxable income is reduced from the General Tax Rate of 28% to 15%.
+[142] The full rate taxable income of a corporation is defined in subsection 123.4(1). The definition distinguishes between the income of a corporation that is throughout the year a CCPC; the income of a corporation that is throughout the year an investment corporation, a mortgage investment corporation or a mutual fund; and the income of all other corporations. It reads as follows:
+123.4 (1) The definitions in this subsection apply in this section. …
+full rate taxable income of a corporation for a taxation year is
+(a) if the corporation is not a corporation described in paragraph (b) or (c) for the year, the amount by which that portion of the corporation’s taxable income for the year (or, for greater certainty, if the corporation is non-resident, that portion of its taxable income earned in Canada for the year) that is subject to tax under subsection 123(1) exceeds the total of
+(i) if an amount is deducted under subsection 125.1(1) from the corporation’s tax otherwise payable under this Part for the year, the amount obtained by dividing the amount so deducted by the corporation’s general rate reduction percentage for the taxation year,
+(ii) if an amount is deducted under subsection 125.1(2) from the corporation’s tax otherwise payable under this Part for the year, the amount determined, in respect of the deduction, by the formula in that subsection,
+(iii) the corporation’s income for the year from a personal services business, and
+(iv) if the corporation is a credit union throughout the year and the corporation deducted an amount for the year under subsection 125(1) (because of the application of subsections 137(3) and (4)), the amount, if any, that is the product of the amount, if any, determined for B in subsection 137(3) multiplied by the amount determined for C in subsection 137(3) in respect of the corporation for the year;
+(b) if the corporation is a Canadian-controlled private corporation throughout the year, the amount by which that portion of the corporation’s taxable income for the year that is subject to tax under subsection 123(1) exceeds the total of
+(i) the amounts that would, if paragraph (a) applied to the corporation, be determined under subparagraphs (a)(i) to (iv) in respect of the corporation for the year,
+(ii) the least of the amounts, if any, determined under paragraphs 125(1)(a) to (c) in respect of the corporation for the year, and
+(iii) except for a corporation that is, throughout the year, a cooperative corporation (within the meaning assigned by subsection 136(2)) or a credit union, the corporation’s aggregate investment income for the year, within the meaning assigned by subsection 129(4); and
+(c) if the corporation is throughout the year an investment corporation, a mortgage investment corporation or a mutual fund corporation, nil.
+[Emphasis added.]
+[143] Under paragraph (c) of the definition, the full rate taxable income of an investment corporation, a mortgage investment corporation or a mutual fund is nil. This means that such corporations are not entitled to claim the General Rate Reduction.
+[144] Paragraph (a) of the definition applies to all corporations other than CCPCs, and corporations described in paragraph (c) of the definition. Under this paragraph, the full rate taxable income of the corporation is the corporation’s taxable income that is subject to tax under subsection 123(1)[97] minus the amounts set out in subparagraphs (i) to (iv) of paragraph (a) of the definition. Subparagraphs (i) to (iv) refer to following:
+-amounts deducted by the corporation in respect of manufacturing and processing profits, and electrical energy and steam sales. These amounts are otherwise subject to rate reductions;
+-the corporation’s income from a personal service business; and
+-certain amounts in respect of a credit union.
+[145] Paragraph (b) of the definition applies only to CCPCs. A CCPC’s full rate taxable income is the CCPC’s taxable income that is subject to tax under subsection 123(1) minus the amounts set out in subparagraphs (i) to (iii) of paragraph (b) of the definition. Subparagraphs (i) to (iii) refer to the following:
+-the amounts just discussed that are set out in subparagraphs (i) to (iv) of paragraph (a) of the definition;
+-the amount of the CCPC’s active business income for the year that is eligible for the small business deduction as determined under paragraphs 125(1)(a) to (c); and
+-the CCPC’s aggregate investment income for the year as defined in subsection 129(4).
+[146] The text indicates that Parliament intended that the General Rate Reduction be available to all corporations other than the corporations set out in paragraph (c) of the definition. Further, the text indicates that the intention was not to apply the General Rate Reduction to income that was taxed at a rate that was lower than the General Tax Rate of 28% (the 38% general corporate tax rate minus the 10% abatement), such as the income of a CCPC that is either investment income or income that is eligible for the small business deduction or the income of a corporation that is eligible for the manufacturing and processing profit credit.
+[147] This can be seen from the exclusions under paragraphs (a) and (b) of the definition. Subparagraphs (i) and (ii) of paragraph (a) of the definition (which also apply to CCPCs) exclude income that is eligible for the lower corporate tax rate available in respect of a corporation’s manufacturing and processing profits and its income from electrical energy and steam sales.
+[148] With respect to CCPCs, paragraph (b) of the definition extends the exclusion to the CCPC’s profits from its active business that are taxed at a lower rate as a result of the small business deduction and the CCPC’s aggregate investment income. As discussed, the CCPC’s aggregate investment income is originally taxed at a high rate; however, after the application of the RDTOH rules, the aggregate investment income is taxed a lower rate than the General Tax Rate.
+[149] The portion of a CCPC’s business income that is not taxed at the lower small business rate is eligible for the General Rate Reduction.
+[150] Section 123.4 was enacted in 2001.[98] The section originally provided a general rate reduction percentage of 1% for non-CCPCs and a reduction of 7% for a CCPC’s business income between $200,000 (the small business limit at the time) and $300,000.[99] In the 2000 Budget, the government stated that it intended, within five years, to reduce the federal corporate tax rate by 7% on all business income not currently eligible for special tax treatment.
+[151] The 2000 Budget Plan explained the government’s purpose behind enacting the section, namely that it was being used as a mechanism to keep Canada’s corporate tax rates competitive, and specifically, that it was targeting areas that were otherwise not subject to favourable tax treatment: [100]
+Making the Economy More
+Internationally Competitive
+Reduction in the Tax Rate
+for Highest Taxed Sectors
+To prosper in the global economy, Canada needs a business tax system that is internationally competitive. This is important because business tax rates have a significant impact on the level of business investment, employment, productivity, wages and incomes.
+Canadian effective tax rates for small businesses, the manufacturing and processing (M&P) sector and the resource sector are by and large internationally competitive. As a result of special tax preferences, small businesses effectively have a federal tax rate of about 12 per cent while the M&P and resource sectors have a federal tax rate of about 21 per cent. However, other sectors of the economy are subject to the high general corporate tax rate without any special provisions. These highest taxed sectors include fast-growing service and high‑technology firms that will influence the pace of Canada’s future economic and social development. In recent years, many industrialized countries have either reduced their corporate tax rates or announced their intention to lower them. If no action were taken, Canada’s general corporate tax rate would not be competitive with those of our trading partners.
+The Government’s objective is to reduce, within five years, the federal corporate income tax rate to 21 per cent from 28 per cent on business income not currently eligible for special tax treatment. As a first step, the budget proposes to reduce this rate to 27 per cent effective January 1, 2001 (Table 4.2). Once fully implemented by 2004, the combined federal-provincial tax rate, including both income and capital taxes, would be reduced from the current average of 47 per cent to 40 per cent, a more competitive level vis-à-vis other G-7 countries (Chart 4.3).
+[152] This drive to spur investment was again reiterated by the Minister of Finance in his October 2000 economic statement speech, where the government increased the speed at which it intended to reduce the federal corporate tax rate.[101] The Minister of Finance noted the following:
+In Budget 2000, we set out a five-year plan to lower that rate from 28% to 21%. The plan called for a one-point drop next year with the remaining reduction taking place by the end of five years. Today, to ensure that these companies remain internationally competitive, we are accelerating that plan. In addition to the one‑point reduction in the general corporate tax rate scheduled for this coming year, we will now legislate a two-point cut in each of the following three years. By accelerating—and legislating—this timetable, companies can invest with certainty, knowing precisely when, and by how much, their taxes will fall.
+[153] In the 2006 Budget, the government proposed to increase the general rate reduction percentage to 9% by January 1, 2010. In 2007, the government proposed to further increase the general rate reduction percentage to its current rate of 13% by 2012. When announcing both of these changes, the government emphasized that the purpose of the increase in the general rate reduction percentage was to reduce the general corporate income tax rate to help build a tax system that is internationally competitive.[102]
+[154] In his 2006 Budget Speech, the Minister of Finance emphasized that the rate reduction effected by section 123.4 was intended to apply to income that is taxed at the general corporate income tax rate. He noted the following:
+The rate reductions will apply to income that is taxed at the general corporate income tax rate. This income does not include small business income that is already eligible for the small business deduction; investment income of Canadian‑controlled private corporations (CCPCs), which income is eligible for a special refundable tax; the income of credit unions eligible for the corporate tax rate reduction under section 137 of the Income Tax Act; and the income of mutual fund corporations, mortgage investment corporations, most deposit insurance corporations and investment corporations (as defined in the Income Tax Act), which income already qualifies for special tax treatment. Consistent with these proposals, measures will be introduced for taxation years that begin on or after May 2, 2006 to clarify that full-rate taxable income does not include any taxable income of a corporation that is not subject to tax at the general corporate income tax rate applicable under section 123 of the Income Tax Act.[103]
+Conclusion on the object, spirit and purpose of section 123.4, including subparagraph 123.4(1)(b)(iii)
+[155] The Respondent argues that the object, spirit and purpose of section 123.4 is as follows:
+113. The [object, spirit and purpose] of s. 123.4 is:
+to exclude CCPC investment income from the corporate tax rate reduction available under that section because such income already benefits from a preferential corporate tax rate when the CCPC is paid the dividend refund under s. 129, and
+as with s. 123.3, to prevent Canadian-resident individual shareholders from benefitting from a tax deferral on investment income earned through a private corporation which they control directly or indirectly in any manner whatever and which they would not benefit from had they earned this income directly.
+114. Section 123.3 enhances the existing role of refundable Part I tax on aggregate investment income which ultimately does confer a benefit on a CCPC that pays out dividends. The government did not want to give the benefit of a lower tax rate to such corporations.[104]
+[156] The last paragraph of the Respondent’s argument appears to be more of an argument relating to whether the Appellant has abused section 123.4 rather than an argument with respect to the object, spirit and purpose of the section.
+[157] The Appellant argues that the purpose of section 123.4 is to make Canada’s business tax system more internationally competitive.
+[158] It is clear from the text of section 123.4 and the various statements made by the government when introducing and subsequently increasing the General Rate Reduction that the object, spirit and purpose of section 123.4 is to lower the general corporate tax rate, such that the highest non-refundable corporate tax rate levied under the Act is 15%. The 15% is composed of the 28% General Tax Rate minus the 13% General Rate Reduction provided for in section 123.4.
+Subsection 250(5.1)
+[159] Subsection 250(5.1) reads as follows:
+Continued corporation — Where a corporation is at any time (in this subsection referred to as the “time of continuation”) granted articles of continuance (or similar constitutional documents) in a particular jurisdiction, the corporation shall
+(a) for the purposes of applying this Act (other than subsection 250(4)) in respect of all times from the time of continuation until the time, if any, of continuation in a different jurisdiction, be deemed to have been incorporated in the particular jurisdiction and not to have been incorporated in any other jurisdiction; and
+(b) for the purpose of applying subsection 250(4) in respect of all times from the time of continuation until the time, if any, of continuation in a different jurisdiction, be deemed to have been incorporated in the particular jurisdiction at the time of continuation and not to have been incorporated in any other jurisdiction.
+[160] Subsection 250(5.1) was added to the Act in 1994, with various effective dates. It applies when a corporation is continued in a particular jurisdiction. The subsection applies when a corporation that was not incorporated in Canada is continued in Canada and when a corporation that is incorporated in Canada is continued in another jurisdiction.
+[161] For example, it applied when the Appellant, which was incorporated in Canada, was continued into the British Virgin Islands.
+[162] Paragraph 250(5.1)(a) applies for purposes of applying the Act, other than subsection 250(4). Under paragraph 250(5.1)(a), the corporation is deemed in respect of all times, from the time that it was continued in the new jurisdiction, to have been incorporated in the new jurisdiction and not to have been incorporated in any other jurisdiction.
+[163] As noted in the Department of Finance’s 1994 Explanatory Notes,[105] the continued corporation is treated as having been incorporated in its new home jurisdiction only for the purpose of applying the Act from the time of continuation (and only until continuation into a different jurisdiction).
+[164] Paragraph 250(5.1)(b) applies for the purposes of the deemed resident in Canada rule in subsection 250(4). Generally speaking, subsection 250(4) deems a corporation that was incorporated in Canada after April 26, 1965 to be a resident of Canada throughout a taxation year. Paragraph 250(5.1)(b) provides that for the purposes of applying subsection 250(4), the continued corporation is deemed to have been incorporated in the new jurisdiction at the time of the continuance and not to have been continued in any other jurisdiction.
+[165] Prior to the enactment of subsection 250(5.1), section 88.1 of the Act, which was enacted in 1980,[106] dealt with the continuation of a corporation. The section, which was repealed in 1994 (generally effective after 1992), read as follows:
+Corporate emigration — Where at any particular time after August 28, 1980 a corporation that was incorporated in Canada (other than a corporation that was not at any time resident in Canada)
+(a) has been granted articles of continuance (or similar corporate constitutional documents) in a jurisdiction outside Canada, or
+(b) has become resident in a jurisdiction outside Canada and would, as a consequence thereof, be exempt from tax under this Part on income from any source outside Canada derived by it after the particular time by virtue of any Act of Parliament or anything approved, made or declared to have the force of law thereunder,
+the following rules apply:
+(c) the corporation’s taxation year that would otherwise have included the particular time shall be deemed to have ended immediately before the particular time and a new taxation year of the corporation shall be deemed to have commenced at the particular time;
+(d) the corporation shall be deemed not to be a Canadian corporation at the particular time and all subsequent times;
+(e) each property owned by the corporation immediately before the particular time shall be deemed to have been disposed of by it immediately before such time for proceeds of disposition equal to its fair market value at that time and such proceeds shall be deemed to have become receivable and to have been received by it immediately before such time;
+(f) section 48 does not apply to the corporation for the taxation year in which it is deemed by paragraph (e) to have disposed of its property; and
+(g) each property deemed by paragraph (e) to have been disposed of by the corporation shall be deemed to have been reacquired by it immediately after the particular time at a cost equal to the proceeds of disposition thereof as determined in that paragraph.[107]
+[166] While current subsection 250(5.1) deals with both corporate emigration and immigration, former section 88.1 only dealt with corporate emigration.
+[167] Further, under former section 88.1, a corporation was deemed to dispose of all of its assets at fair market value upon emigrating from Canada. This deemed disposition was not included in subsection 250(5.1).[108]
+[168] The following extract from the 1979 Budget Supplementary Information indicates that section 88.1 was a response to tax planning strategies involving corporate continuances:
+Canadian corporations can avoid tax by taking steps to technically adopt residence in a jurisdiction outside Canada. Where such a transfer occurs after December 11, 1979, the corporation will be deemed to have disposed of all of its property at fair market value, thus ensuring an appropriate level of Canadian tax.[109]
+[169] However, section 88.1 resulted in unintended consequences leading to its repeal and the introduction of subsection 250(5.1) and certain concurrent amendments.
+[170] This was referred to in the 1994 Explanatory Notes, which noted the following:
+In many jurisdictions, a company incorporated elsewhere may be naturalized by submitting to the corporate law of its new home. Such an action is often described as a corporate “continuance” or “continuation”. New subsection 250(5.1) of the Act, together with certain concurrent amendments concerning taxpayers’ residence, fixes the tax consequences of continuation into a different jurisdiction. The basic principle of subsection 250(5.1) is that the continued corporation will be treated as having been incorporated in the jurisdiction into which it has continued. A corporation, for example, that was originally incorporated in Canada but was subsequently continued abroad will cease to be treated as having been incorporated in Canada, and will therefore no longer for that reason be deemed to be resident in Canada (although it may remain resident by keeping its central management and control in this country). Similarly, a corporation incorporated abroad--or incorporated in Canada and earlier continued abroad--will become resident in Canada on being continued here. …[110]
+[Emphasis added.]
+[171] In his 1993 Canadian Tax Journal article, Michael J. Flatters describes some of the problems with section 88.1 as it stood at the time.[111] In particular, a corporation incorporated in Canada that was continued to another jurisdiction would lose the benefits of its “Canadian corporation” status, but could continue to be deemed to be a Canadian resident under subsection 250(4). This could result in the corporation being taxed as a Canadian resident even though its central management and control were not located in Canada and the corporation was continued to a foreign jurisdiction.[112] Additionally, an inbound corporation, not originally incorporated in Canada, would not be able to qualify as a “Canadian corporation” even if its central management and control were in Canada. [113] Mr. Flatters explains how subsection 250(5.1) could remedy the previously noted flaws with section 88.1:
+The addition of subsection 250(5.1) and the repeal of paragraph 88.1(d) appear to deal with the asymmetrical treatment of inbound and outbound continued corporations as “Canadian corporations” and “taxable Canadian corporations.” A corporation that was incorporated in Canada and that is continued under the laws of a foreign jurisdiction will now be regarded for the purposes of the Act as a corporation incorporated in the foreign jurisdiction from the time of continuation until any future continuation in a different jurisdiction. Conversely, a foreign corporation continued under the laws of Canada or one of its provinces will be regarded as a corporation incorporated in Canada for the purposes of the Act at all times from the time of continuance until any future continuance. …[114]
+[172] In a separate 1993 Canadian Tax Journal article, Mr. Robert Couzin and Mr. Robert Dart provide a similar explanation of the problems with the former section 88.1 and the relief provided by subsection 250(5.1):
+Sections 88.1 and 219.1 have had draconian and inappropriate consequences in the case of a corporate continuance of a Canadian resident corporation outside Canada. These provisions have entailed the full application of departure taxation even though conventional wisdom assumes that, at least in many cases, the continued corporation remains resident in Canada. Subsection 250(4) deems a corporation incorporated in Canada to be resident in Canada, and even a “continued” corporation appears to be properly described as “incorporated” in Canada. In these circumstances, the interaction of these provisions yields the unappetizing result of departure tax followed by continued Canadian taxation of the corporation as a resident corporation.
+Proposed section 128.1 provides a more logical rule. Departure taxation will depend solely on change of residence. Of course, after such a change, the corporation will not be subject to part I tax as a resident. However, there remains the question how to deal with continuance.
+Proposed subsection 250(5.1) provides that from the time a corporation has been granted articles of continuance in a particular jurisdiction, it will thereafter be deemed to have been incorporated in that jurisdiction and not in any other jurisdiction. The rule will apply from time to time so that serial continuances will give rise to serial deemed places of incorporation. This means that a corporation incorporated in Canada after April 26, 1965, which has been deemed to be resident in Canada by paragraph 250(4)(a), will no longer be deemed to be resident once it continues to some other jurisdiction.[115]
+[173] The deeming of a corporation under subsection 250(5.1) to be incorporated in a specific jurisdiction impacts the taxation of the corporation under the Act. Firstly, it can determine whether a corporation is resident in Canada for purposes of the Act and thus taxed on its worldwide income.
+[174] Under subsection 250(4), a corporation incorporated in Canada after April 26, 1965 is deemed to be a resident in Canada. Corporations that are resident in Canada are taxed on their worldwide income. Corporations that are not resident in Canada are only taxed on their income from Canadian sources.
+[175] Corporations that subsection 250(5.1) deems to be incorporated outside of Canada are no longer subject to the subsection 250(4) deeming rules. Such corporations will then not be considered resident in Canada unless their central management and control are located in Canada. In fact, this is the situation of the Appellant after it was continued outside of Canada. It was no longer deemed to be a resident of Canada under subsection 250(4), but remained a resident of Canada, taxed on its worldwide income, because its central management and control remained in Canada.
+[176] If the corporation is a private corporation that is resident in Canada, subsection 250(5.1) in effect determines whether the corporation may be taxed under the regime for CCPCs (corporations immigrating to Canada) or be taxed as a private corporation that is not a CCPC (corporations emigrating from Canada).
+[177] As discussed previously, in order for a corporation to be a CCPC, it must be a private corporation and a Canadian corporation. In order for a corporation to be a Canadian corporation for purposes of the Act, it must be incorporated in Canada.[116] Therefore, the effect of subsection 250(5.1) is that a CCPC that emigrates from Canada ceases to be a CCPC at the time that it is continued in another jurisdiction. It will remain a private corporation, provided that it remains a resident of Canada. Similarly, a corporation that immigrates to Canada becomes a Canadian corporation at the time that it is continued in Canada and thus is eligible to be a CCPC if it also becomes a private corporation.
+[178] As discussed previously, the status of a corporation as a Canadian corporation is important for various other provisions of the Act. For example, a corporation that loses its status as a Canadian corporation as a result of being continued in a foreign jurisdiction can no longer avail itself of the rollover provisions in section 85, the amalgamation provisions in section 87 and the wind‑up provisions in section 88.
+[179] As noted by the Appellant, a corporation’s loss of CCPC status as a result of subsection 250(5.1) applying on the emigration of a corporation from Canada causes the corporation to have a deemed year-end and may require the corporation to add an amount to its LRIP account.
+Conclusion on the object, spirit and purpose of subsection 250(5.1)
+[180] The Respondent states in his written submissions that the object, spirit and purpose of subsection 250(5.1) is not to allow an individual resident of Canada who controls a private corporation to circumvent the regime applicable to CCPC investment income.[117]
+[181] This is another instance where the Respondent’s argument with respect to the object, spirit and purpose of a provision is more in the nature of an argument with respect to whether the transactions defeated the object, spirit or purpose of the provisions in issue.
+[182] The Respondent notes at paragraph 179 of his written submissions that “[the government’s] intent was to address anomalous and unfair results flowing from the interplay of continuations and corporate residence.”
+[183] This is a statement with respect to the object, spirit and purpose of subsection 250(5.1). The Appellant agrees with this statement, but argues that it requires additional context.
+[184] It is clear from the government’s action in replacing section 88.1 of the Act with subsection 250(5.1) and in making certain concurrent amendments that the rules in the Act dealing with continuation in a jurisdiction outside of Canada were not working as intended and that the continuation of a corporation into Canada needed to be addressed. It then added subsection 250(5.1) to address these issues.
+[185] The rationale of subsection 250(5.1) is to equate the place of continuance of a corporation with its place of incorporation in order to ensure that, upon the continuation of a corporation in a different jurisdiction, the various provisions of the Act that refer to the place of incorporation, such as the residence deeming rule in subsection 250(4) and the subsection 89(1) definition of Canadian corporation, produce the results intended by Parliament with respect to the taxation of the corporation under the Act.
+Did the Appellant abuse the object, spirit and purpose of the sections at issue?
+[186] Having determined the object, spirit and purpose of the provisions at issue, I must now determine whether the result of the transactions defeated or frustrated the object, spirit and purpose of these provisions.[118]
+[187] A finding of abusive tax avoidance will be made:
+-when a taxpayer relies on specific provisions of the Income Tax Act in order to achieve an outcome that those provisions seek to prevent;
+-when a transaction defeats the underlying rationale of the provisions that are relied upon; and
+-when an arrangement circumvents the application of certain provisions, such as specific anti-avoidance rules, in a manner that frustrates or defeats the object, spirit or purpose of those provisions.[119]
+[188] Citing Copthorne at paragraph 72, the SCC noted in Deans Knight that these considerations are not independent of one another and frequently overlap.[120] The SCC emphasized that the analysis must be squarely focused on abuse, stating:
+Courts must go beyond the legal form and technical compliance of the transactions; they must compare the result of the transactions to the underlying rationale of the provision and determine whether that rationale has been frustrated. In coming to such a conclusion, the abusive nature of the transaction “must be clear” (Trustco, at paras. 62 and 66; Copthorne, at para. 68; Alta Energy, at para. 33). [121]
+[189] As stated in Canada Trustco, “Courts have to be careful not to conclude too hastily that simply because a non-tax purpose is not evident, the avoidance transaction is the result of abusive tax avoidance. … S. 245(4) does not consider a transaction to result in abusive tax avoidance merely because an economic or commercial purpose is not evident”.[122]
+[190] The avoidance transactions in this appeal involve the transfer of the Soberlink Shares to the Appellant and the continuance of the Appellant into the British Virgin Islands. Once the Appellant was continued in the British Virgin Islands, it was no longer a CCPC.
+[191] It is clear that the purpose of these two transactions was to change the status of the Appellant from a CCPC to a private corporation that was not a CCPC, prior to the Appellant’s disposition of the Soberlink Shares.
+[192] Shortly after the avoidance transactions were completed, the Appellant sold the Soberlink Shares, realizing a taxable capital gain of $1,179,648, which became part of its aggregate investment income.
+[193] Since the Appellant was not a CCPC at the time that it sold the shares, its aggregate investment income was taxed at the 15% corporate tax rate applicable to income that is not otherwise subject to a preferred tax rate. This resulted in the Appellant paying less tax than the tax that Mr. Civiero would have paid if he had been taxed personally on the sale of the shares. As a result, Mr. Civiero realized a greater after-tax return on the gain from the sale of the Soberlink Shares held by the Appellant, compared to the after-tax return that he would have obtained if he had realized the gain personally.
+[194] The personal taxation of Mr. Civiero on the gain realized from the sale of the Soberlink Shares will, in effect, be deferred until the proceeds from the sale are distributed to him by way of dividend. When this occurs, Mr. Civiero will be required to pay tax at his marginal tax rate. He will not receive the benefit of the dividend gross-up and credit scheme since the Appellant is not a Canadian corporation. In addition, the Appellant will not receive a dividend tax refund in respect of any of the Part I tax that it paid at the 15% tax rate.
+[195] If the Appellant had not carried out the avoidance transactions, its aggregate investment income would have been taxed at the 30 2/3% rate[123] applicable to aggregate investment income under the taxing regime for CCPCs. This would have resulted in the Appellant paying tax roughly equal to the tax that Mr. Civiero would have paid if he had been taxed personally on the sale of the shares.
+[196] Because of the dividend refund mechanism, if the Appellant had remained a CCPC, the tax paid by the Appellant on its aggregate investment income under the taxing regime for a CCPC would have been reduced to 8% on the distribution of the proceeds from the sale of the shares to Mr. Civiero by way of dividends. Also, if the Appellant were a CCPC, Mr. Civiero would receive the benefit of the dividend gross-up and credit system for non-eligible dividends.
+[197] In summary, the conversion of the Appellant from a CCPC to a non-CCPC resulted in Mr. Civiero, through the use of the Appellant, realizing a significant deferral of tax on the taxable capital gain realized on the sale of the Soberlink Shares. Once the proceeds of the sale are distributed to Mr. Civiero, the Appellant will pay tax at a higher rate on the taxable capital gain realized on the sale of the Soberlink Shares (15% rate compared to the 8% rate paid by a CCPC after it receives the refundable portion of the tax originally paid at the 30 2/3% rate) than it would have paid if it had remained a CCPC. Mr. Civiero will not receive the benefit of the dividend gross-up and credit system, a benefit that he would have received if the Appellant had remained a CCPC.
+[198] Thus, Mr. Civiero executed the avoidance transactions (or directed the Appellant to execute these transactions) to realize the tax deferral that arose from having the Appellant taxed under the regime for a private company that is not a CCPC and that is not a Canadian corporation as opposed to having the Appellant taxed under the regime for CCPCs.
+[199] The question that I must answer is whether the Appellant abused the provisions of the Act at issue by carrying out the avoidance transactions in order to be taxed under the regime for a private corporation that is not a CCPC and not a Canadian corporation.
+[200] Clearly, Mr. Civiero and the Appellant took steps to realize this tax deferral. As noted previously, the SCC has affirmed on numerous occasions the Duke of Westminster principle that taxpayers can order their affairs to minimize the amount of tax payable. However, as noted in Deans Knight, this principle is not absolute; it does not apply when the transactions that are intended to minimize tax result in an abuse of the provisions of the Act.[124]
+Positions of the Parties
+[201] The Respondent’s allegation of abuse is summarized in paragraph 19 of his written submissions, which reads as follows:
+The appellant misused s. 250(5.1) to circumvent the regime applicable to a CCPC’s investment income, specifically s. 123.3 and the full rate taxable income definition in s. 123.4(1)(b)(iii). Parliament did not intend for s. 250(5.1) to be used to thwart that regime. The appellant also abused s. 123.3 and the full rate taxable income definition, as well as the CCPC definition in s. 125(7) and the Canadian corporation definition in s. 89(1). The object, spirit and purpose (OSP) of each of these provisions have been frustrated by allowing an individual resident of Canada to obtain a tax deferral advantage on the taxable capital gain on the Soberlink Shares.
+[202] The foundation of the Respondent’s argument is that the purpose of the provisions at issue extends past CCPCs to all private companies.
+[203] The Appellant argues that once it was continued in the British Virgin Islands, it did not avoid the application of certain select provisions applicable to CCPCs; it ceased to be subject to all of the provisions of the Act applicable to CCPCs. This did not abuse any provisions of the Act since the Act “(i) clearly sets out two separate codes for the taxation of private corporations that are CCPCs and those that are not, (ii) permits a corporation to change its status, and (iii) sets out the precise consequences of such a change.”[125]
+[204] As discussed previously, the Act contains different taxing regimes for public corporations, CCPCs, and private corporations that are not CCPCs.
+[205] The regime for CCPCs contains specific rules relating to the taxation of their business income and their investment income. The regime and rules were previously discussed in detail. I have summarized the regime in the next few paragraphs.
+[206] While private corporations that are not CCPCs pay tax on their business income at the General Tax Rate, CCPCs pay tax at both the General Tax Rate and the lower Eligible Small Business Tax Rate.
+[207] The Act contains a legislative scheme for the taxation of investment income of a CCPC that does not apply to private corporations that are not CCPCs.
+[208] The scheme is composed of two sets of rules. The first set of rules, the dividend gross-up and credit system, attempts to integrate the tax paid by a CCPC and its shareholders through the use of eligible and non-eligible dividends. While this system is available to shareholders of other corporations, it contains special rules for CCPCs. Further, the system does not apply to a private corporation, such as the Appellant, that is not a CCPC and not a Canadian corporation.
+[209] The second set of rules, which are made up of section 123.3 and the sections that provide for a CCPC’s refundable portion of its Part I tax, attempts to discourage the retention of investment income in a CCPC, while maintaining the integration of tax paid by the CCPC and its shareholders. The retention of income in the CCPC postpones the tax payable at the shareholder level. This second set of rules does not apply to non-CCPCs.
+[210] The Act contains a number of other provisions that only apply to CCPCs, most of which are intended to provide benefits to CCPCs that are not available to other corporations.
+[211] I agree with the Appellant that by carrying out the avoidance transactions in order to be taxed as a private corporation that is not a CCPC, the Appellant did not abuse any of the provisions at issue.
+[212] Parliament has chosen, for policy reasons, to have different sets of rules for different corporations. For example, it has chosen to have different taxing regimes for public corporations, CCPCs, private corporations resident in Canada that are not CCPCs, corporations that are not resident in Canada, and foreign corporations that are resident in Canada.
+[213] If a corporation does a certain thing, it is transferred from one taxing regime to another. This is what occurs when a CCPC is continued in a foreign jurisdiction and moves from being a CCPC to a non-CCPC. It can also occur when a corporation that is resident in Canada takes steps to not be a resident of Canada. Once it takes such steps, it is no longer taxed under the regime for corporations resident in Canada, but rather is taxed under the regime for corporations that are not resident in Canada. Another example is when a corporation that is a taxable corporation takes steps to become an exempt corporation.
+[214] Parliament recognized that a corporation may move from the taxing regime for a CCPC to the taxing regime for a non-CCPC. This can be seen from subsection 249(3.1) and section 89.
+[215] Subsection 249(3.1) provides for a deemed year-end for a corporation that becomes or ceases to be a CCPC. The corporation’s taxation year that includes the time the corporation becomes or ceases to be a CCPC is deemed to end immediately before that time.
+[216] This deemed year-end leads to consistency when applying the provisions in the Act that contain the taxing regime for CCPCs and the taxing regime for private corporations that are not CCPCs. As a result of the deemed year‑end, a corporation’s change in status from a CCPC to a non-CCPC severs the link between the corporation’s operations when it was a CCPC and its operations after it ceased to be a CCPC. Its operations prior to the deemed year-end, when it was a CCPC, are taxed under the regime for a CCPC, and its operations after the deemed year‑end, when it ceased to be a CCPC, are taxed under the regime for a non‑CCPC.
+[217] This allows for the proper application of numerous provisions of the Act whose application is conditional on the corporation either being a CCPC or not being a CCPC at a point in time or throughout a period. For example, the application of certain provisions, such as sections 123.3 and 123.4, is dependent on a corporation being a CCPC throughout the taxation year.
+[218] The deemed year-end has the same effect when a corporation that is not a CCPC becomes a CCPC.
+[219] The Act also contains transitional rules that affect a corporation’s calculation of its eligible and non-eligible dividends when it either becomes or ceases to be a CCPC. The transitional rules require adjustments to either the corporation’s LRIP account or its GRIP account. As discussed previously, LRIP and GRIP are part of the dividend gross-up and credit system.
+[220] A Canadian resident corporation that is not a CCPC maintains an LRIP that reflects its income that has benefited from certain preferential tax rates. The corporation cannot pay eligible dividends unless its LRIP account is zero. Subsection 89(8) contains rules that apply when a corporation ceases to be a CCPC. These rules may require a corporation to add an amount to its LRIP account.
+[221] A CCPC maintains a GRIP account that reflects its income that has not benefited from preferential tax rates. A CCPC may only pay eligible dividends to the extent of its GRIP balance. The Act contains rules in subsection 89(4) that apply when a resident corporation becomes a CCPC. These rules may require the new CCPC to add an amount to its GRIP account.
+[222] Clearly, by providing transitional rules for LRIP and GRIP accounts, Parliament recognized that a corporation could change its status from a CCPC to a non‑CCPC or vice versa.
+[223] In my view, the Appellant, by entering into the avoidance transaction in order to be taxed under one taxing regime put in place by Parliament as opposed to another taxing regime, did not abuse the provisions at issue. The Appellant chose to move from one taxing regime with its pluses and minuses to another taxing regime with different pluses and minuses.
+[224] On the plus side, it avoided the application of section 123.3. On the minus side, it lost access to the low Eligible Small Business Tax Rate for its business income, the refundable dividend tax credit for a portion of its tax paid at the General Tax Rate on its aggregate investment income, and the dividend gross-up and credit system. It also lost access to a number of benefits that are only available to CCPCs. Since it chose not to be a Canadian corporation, it lost the benefit of the rollover provisions in section 85 and the tax deferral rules for amalgamations and wind‑ups.
+[225] The avoidance transactions that resulted in the Appellant ceasing to be a CCPC did not defeat the underlying rationale of the provisions at issue or circumvent the provisions in a manner that frustrated their object, spirit or purpose.
+[226] The object, spirit and purpose of the definition of CCPC is to provide a dividing line between those corporations that are taxed under the specific regime for CCPCs and those corporations that are not taxed under this regime. Prior to being continued in the British Virgin Islands, the Appellant was on one side of the dividing line and, after it was continued, it was on the other side of the dividing line. This is exactly what Parliament intended. As just discussed, Parliament recognized that a corporation could move from one side of the dividing line to the other. It enacted provisions to facilitate this movement.
+[227] The avoidance transactions did not defeat the underlying rationale for section 123.3 or result in a circumvention of the section in a manner that frustrated its object, spirit or purpose. The object, spirit and purpose of section 123.3 is to, together with the refundable dividend tax regime and the dividend gross‑up and tax credit scheme, prevent the use of a CCPC to defer taxes that may be payable at a higher rate by the shareholders of the CCPC, while maintaining the integration of taxes paid by CCPCs and their shareholders. The Appellant chose to be taxed under a different scheme that Parliament established under the Act, the scheme for taxing investment income of corporations that are not CCPCs and not Canadian corporations—a scheme that does not include section 123.3, the refundable dividend tax regime or the dividend gross-up or credit scheme. Regardless of the tax imposed or not imposed under the Act, the Appellant’s choice to be taxed as a non‑CCPC did not abuse section 123.3 since Parliament only intended it to apply to a corporation’s investment income that is taxed under the regime for CCPCs.
+[228] Section 123.4 also produced the result intended by Parliament. The object, spirit and purpose of section 123.4 is to lower the general corporate tax rate, such that the highest non-refundable corporate tax rate levied under the Act is 15%. Once the Appellant ceased to be a CCPC, it was no longer eligible to receive a refund of a portion of the Part I tax that it paid at the 28% General Tax Rate, under the refundable dividend tax credit rules, on the taxable investment income that it realized on the sale of the Soberlink Shares. Since the income was not eligible for any other special tax preferences, section 123.4, as intended by Parliament, lowered the tax rate to 15%, which Parliament intended to be the highest non‑refundable tax rate levied under the Act.
+[229] The continuation of the Appellant in the British Virgin Islands did not abuse subsection 250(5.1). The rationale of subsection 250(5.1) is to equate the place of continuance of a corporation with its place of incorporation in order to ensure that, upon the continuation of a corporation in a different jurisdiction, the various provisions of the Act that refer to the place of incorporation, such at the residence deeming rule in subsection 250(4) and the subsection 89(1) definition of Canadian corporation, produce the results intended by Parliament with respect to the taxation of the corporation under the Act.
+[230] Once the Appellant was continued in the British Virgin Islands, it was deemed to be incorporated outside of Canada, which allowed numerous other provisions to operate as intended by Parliament. For example, the Appellant was no longer deemed to be resident in Canada, no longer considered to be a Canadian corporation and no longer considered to be a CCPC.
+[231] The fact that it remained a resident in Canada did not frustrate the object, spirit and purpose of subsection 250(5.1). This was a result anticipated by the government at the time that it introduced subsection 250(5.1). The 1994 Explanatory Notes for subsection 250(5.1) specifically refer to a corporation that is continued abroad that remains a resident of Canada by keeping its central management and control in Canada.[126]
+[232] For the foregoing reasons, the result of the avoidance transactions did not defeat or frustrate the object, spirit and purpose of the provisions at issue.
+[233] The Appellant argued that if the GAAR did apply, the reassessment is statute-barred on the basis that the normal reassessment period of the Appellant in respect of the 2016 taxation year expired after three years on January 16, 2020. Since I have found that the GAAR does not apply, this issue is now moot.
+[234] In accordance with these reasons for judgment, the appeal with respect to the reassessment made under the Income Tax Act for the Appellant’s taxation year ending April 30, 2016 is allowed, with costs. The reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s transactions, as set out in these Reasons for Judgment, did not result in abusive tax avoidance for the purposes of section 245 of the Income Tax Act.
+Signed at Halifax, Nova Scotia, this 9th day of May 2024.
+“S. D’Arcy”
+D’Arcy J.
+Appendix A
+Appendix B
+CITATION:
+2024 TCC 63
+COURT FILE NO.:
+2021-1079(IT)G
+STYLE OF CAUSE:
+DAC Investment Holdings Inc. v. His Majesty The King
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+May 23, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Steven K. D’Arcy
+DATE OF JUDGMENT:
+May 9, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Matthew G. Williams
+Florence Sauve
+Brittany D. Rossler
+Counsel for the Respondent:
+Arnold H. Bornstein
+Christopher M. Bartlett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Matthew G. Williams Florence Sauve Brittany D. Rossler
+Firm:
+Thorsteinssons LLP Toronto, Ontario
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Income Tax Act, R.S.C. 1985 c.1 (5th Supp.).
+[2] Exhibit A/R 1.
+[3] Business Corporations Act, R.S.O. 1990, c. B. 16.
+[4] 2005 SCC 54.
+[5] 2009 SCC 1.
+[6] 2011 SCC 63.
+[7] 2021 SCC 49.
+[8] 2023 SCC 16.
+[9] All references to the decisions of the SCC are references to the decisions of the majority of the Court.
+[10] Canada Trustco, at paragraph 13.
+[11] Canada Trustco, at paragraph 21; see also Copthorne, at paragraph 66 and Deans Knight, at paragraphs 48 and 62.
+[12] Deans Knight, at paragraph 46, citing Stubart Investments Ltd. v. The Queen, [1984] 1 SCR 536, at page 552; Canada Trustco, at paragraph 11 and Copthorne, at paragraph 65.
+[13] Lipson, at paragraph 21.
+[14] Deans Knight, at paragraph 47; see also Canada Trustco, at paragraph 13 and Alta Energy, at paragraphs 29 and 30.
+[15] Deans Knight, at paragraphs 48 to 50.
+[16] Copthorne, at paragraph 123.
+[17] Canada Trustco, at paragraph 17; Copthorne, at paragraph 33; Alta Energy, at paragraph 31 and Deans Knight, at paragraph 4.
+[18] Lipson, at paragraph 22.
+[19] Canada Trustco, at paragraphs 17 and 66.
+[20] Canada Trustco, at paragraph 16.
+[21] Canada Trustco, at paragraph 66; see also Alta Energy, at paragraph 33 and Copthorne, at paragraph 72.
+[22] Canada Trustco, at paragraph 19; Lipson, at paragraph 22 and Copthorne, at paragraph 34.
+[23] Canada Trustco, at paragraph 19.
+[24] Canada Trustco, at paragraph 20; Copthorne, at paragraph 35 and Deans Knight, at paragraph 53.
+[25] Canada Trustco, at paragraph 21; Copthorne, at paragraph 39.
+[26] Copthorne, at paragraph 39.
+[27] Canada Trustco, at paragraph 29; Deans Knight, at paragraph 54.
+[28] Canada Trustco, at paragraph 27 and Copthorne, at paragraph 59.
+[29] Copthorne, at paragraph 40; see also Canada Trustco, at paragraph 34 and Deans Knight, at paragraph 55.
+[30] Alta Energy, at paragraph 47; see also Canada Trustco, at paragraphs 36 and 57 and Lipson, at paragraph 38.
+[31] Alta Energy, at paragraph 47.
+[32] Canada Trustco, at paragraph 43;Copthorne, at paragraph 73.
+[33] Canada Trustco, at paragraph 55; see also Copthorne, at paragraphs 69 and 71 and Deans Knight, at paragraph 56.
+[34] Copthorne, at paragraph 70; see also Deans Knight, at paragraph 63.
+[35] Deans Knight, at paragraphs 57 and 63.
+[36] Deans Knight, at paragraph 63.
+[37] Canada Trustco, at paragraph 55 and Deans Knight, at paragraph 66.
+[38] Copthorne, at paragraph 88 and Deans Knight, at paragraph 62.
+[39] Deans Knight, at paragraphs 59, 63 and 116.
+[40] Ibid, at paragraph 59.
+[41] 2023 TCC 167, at paragraph 296.
+[42] Deans Knight, at paragraph 60.
+[43] Copthorne, at paragraph 88 and Deans Knight, at paragraph 64.
+[44] Deans Knight, at paragraph 64.
+[45] Deans Knight, at paragraphs 67 and 73.
+[46] Ibid, at paragraphs 68 and 73.
+[47] Other than a prescribed venture capital corporation.
+[48] See section 186 and subsection 129(3) as it read during the relevant period.
+[49] See subsection 89(1).
+[50] This assumes that the corporation came into existence after June 18, 1971. It also assumes that the text after paragraph 89(1)(b), which clarifies and limits the application of paragraph 89(1)(a) when a corporation is formed as a result of an amalgamation, reorganization or other similar event, does not apply.
+[51] Canada, National Revenue Taxation, Corporate Tax Guide: Tax Reform and You (Ottawa: 1971) at page 27.
+[52] Paragraph 125(6)(a), as it appeared in 1971 (this definition was later moved to paragraph 125(7)(a)).
+[53] S.C. 1980-81. c. 48, subsection 70(3), applicable to 1979 et seq.
+[54] S.C. 1998, c. 19, subsection 145(2), applicable after 1995.
+[55] S.C. 2001, c. 17, subsection 113(2).
+[56] S.C. 2007, c. 35, paragraph 68(2)(k).
+[57] Ibid.
+[58] S.C. 1977–78, c. 1, subsection 44(1); for further clarity, the removed text begins with “except that for the…”.
+[59] S.C. 1994, c. 21, subsection 42(1).
+[60] The 10% abatement is provided for in subsection 124(1). Its purpose is to allow the provinces “room” to levy their own corporate income tax.
+[61] Defined in subsection 129(4).
+[62] See Respondent’s Written Submissions at paragraph 46.
+[63] Subsection 127(10.1) and section 127.1. The CCPC must be a CCPC throughout the taxation year.
+[64] Paragraph (d) of the definition of balance-due date in subsection 248(1).
+[65] Subsection 152(3.1) – definition of normal reassessment period.
+[66] Section 110.6 and definition of small business corporation, subsection 248(1).
+[67] Subsection 7(1.1).
+[68] Section 44.1.
+[69] Paragraphs 3(d), 38(c), and 39(1)(c); Subsection 50(1).
+[70] Paragraph 39(1)(c) and definition of small business corporation, subsection 248(1).
+[71] See subparagraphs 82(1)(a)(i) and 82(1)(b)(i) and paragraph 82(1)(d).
+[72] See Peter W. Hogg, Joanne E. Magee and Jinyan Li, Principles of Canadian Income Tax Law, 8th ed. (Toronto: Thomson Reuters, 2013) at pages 489 to 497 for a discussion of the Carter Commission and the introduction of integration.
+[73] Section 185.1.
+[74] Appellant’s Memorandum of Fact and Law, paragraph 51.
+[75] Definition of eligible portion in subsection 129(4). The definition also includes capital gains that accrued while the property was property of an investment corporation, a mortgage investment corporation or a mutual fund corporation.
+[76] See income or loss of a corporation for a taxation year from a source that is a property in subsection 129(4).
+[77] See the definition of specified investment business in subsection 125(7).
+[78] Subsection 129(4), definition of income or loss of a corporation for a taxation year from a source that is property.
+[79] S.C. 1996, c. 21, section 25.
+[80] S.C. 2016, c. 11, section 6; Canada, Minister of Finance, Explanatory Notes Relating to the Income Tax Act (December 2015) at clause 6.
+[81] Peter W. Hogg, Joanne E. Magee and Jinyan Li, Principles of Canadian Income Tax Law, 8th ed (Toronto: Thomson Reuters, 2013) at page 511.
+[82] Canada, Minister of Finance, Budget Plan: Including Supplementary Information and Notices of Ways and Means Motions (February 27, 1995) at page 61.
+[83] Explanatory Notes, supra note 78 at clause 6.
+[84] S.C. 1970–1972, c. 63, subsection 129(3).
+[85] In 2015, prior to the increase in the section 123.3 refundable tax from 6 2/3% to 10 2/3%, CCPCs credited their RDTOH accounts with 26 2/3% of their aggregate investment income.
+[86] See subsection 129(3), as it appeared in 2016.
+[87] Prior to section 123.3 being added to the Act, a CCPC added 20% of its investment income to its RDTOH account.
+[88] See subsection 129(1), as it appeared in 2016.
+[89] See Peter W. Hogg, Joanne E. Magee and Jinyan Li, Principles of Canadian Income Tax Law, 8th ed. (Toronto: Thomson Reuters, 2013) at pages 511–513.
+[90] See calculation at paragraph 46 of the Respondent’s Written Submissions.
+[91] Canada, Minister of Finance, Budget Plan: Including Supplementary Information and Notices of Ways and Means Motions (February 27, 1995) at pages 155–158.
+[92] Deans Knight, at paragraph 59.
+[93] S.C. 1970-1972, c. 63, subsection 129(3).
+[94] S.C. 1980-81-82-83, c. 140, subsection 90(1).
+[95] Canada, Department of Finance, Explanatory Notes (Ottawa: December 1982).
+[96] Deans Knight, at paragraph 63, referencing Canada Trustco and Alta Energy.
+[97] The 38% general corporate tax rate.
+[98] S.C. 2001, c. 17, section 112.
+[99] The special 7% rate for CCPCs was phased out from 2003 to 2005 and then repealed, at which point the 7% general rate reduction was available to all corporations.
+[100] Canada, Minister of Finance, The Budget Plan 2000: Better Finances, Better Lives (February 28, 2000) at page 92.
+[101] Canada, Minister of Finance, Economic Statement and Budget Update (October 18, 2000) at page 13.
+[102] Canada, Minister of Finance, The Budget Plan 2007: Aspire To a Stronger, Safer, Better Canada (March 19, 2007) at page 233 and Canada, Minister of Finance, The Budget Plan 2006: Focusing on Priorities (May 2, 2006) at pages 13 and 72.
+[103] Canada, Minister of Finance, The Budget Plan 2006: Focusing on Priorities (May 2, 2006) at pages 232–233.
+[104] Respondent’s Written Submissions, paragraphs 113 and 114.
+[105] Canada, Department of Finance, Explanatory Notes (Ottawa: May 1994) at subsection 250(5.1).
+[106] Added by S.C. 1980–81, c. 48, section 49, applicable to 1980 et seq.
+[107] Section 88.1 as it appeared in 1980.
+[108] However, if an emigrating corporation ceases to be a resident of Canada, it will be deemed to have disposed of its property at fair market value under paragraph 128.1(1)(b).
+[109] Canada, Department of Finance, Budget Papers: Notices of Ways and Means Motions and supplementary information on the Budget (December 11, 1979) at page 76.
+[110] Canada, Department of Finance, Explanatory Notes (Ottawa: May 1994) at subsection 250(5.1).
+[111] Michael J. Flatters, “The Taxation of Corporate Reorganizations: Proposed Amendments Relating to Corporate Continuance and Residence” (1993) 41:3 Canadian Tax Journal 567 at pages 573–577 (“Flatters”).
+[112] Fundy Settlement v. Canada, 2012 SCC 14, at paragraph 8.
+[113] Flatters, at pages 576–577.
+[114] Ibid at page 580.
+[115] Robert Couzin and Robert J. Dart, “Proposed Technical Amendments,” International Tax Planning Feature (1993) 41:2 Canadian Tax Journal 306 at page 320.
+[116] Assuming the corporation has not been resident in Canada continuously since June 18, 1971.
+[117] Respondent’s Written Submissions, page 59.
+[118] Deans Knight, at paragraph 56.
+[119] Canada Trustco, at paragraph 45; see also Alta Energy, at paragraph 32 and Deans Knight, at paragraph 69.
+[120] Deans Knight, at paragraph 69.
+[121] Ibid.
+[122] Canada Trustco, at paragraph 57.
+[123] The rate was 26 2/3% before 2016. Since the Appellant’s tax year straddled December 2015, it would have been required to prorate the taxes on its aggregate investment income between 2015 and 2016.
+[124] Deans Knight, at paragraph 47.
+[125] Appellant’s Memorandum of Fact and Law, paragraphs 5 and 6.
+[126] Canada, Department of Finance, Explanatory Notes (Ottawa: May 1994) at subsection 250(5.1).

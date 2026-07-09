@@ -1,0 +1,323 @@
+---
+title: "Damis Properties Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/500470/index.do"
+last_modified: "2021-07-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 44"
+citation2: ""
+neutral_citation: "2021 CCI 44"
+decision_date: "2021-07-14"
+language: "fr"
+item_id: "500470"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4457
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:56:31.907000+00:00"
+cases_cited_count: 7
+cases_citing_count: 6
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "304d3650dd1db00a083c72ac266779a18c4cdb48469c4f6a07f9dcde417d3fd7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Damis Properties Inc. c. La Reine
+
+- Citation: 2021 CCI 44
+- Decision date: 2021-07-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4457, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Damis Properties Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-07-14
+Référence neutre
+2021 CCI 44
+Numéro de dossier
+2016-4783(IT)G, 2016-4785(IT)G, 2016-4787(IT)G, 2016-4788(IT)G, 2016-4789(IT)G
+Juges et Officiers taxateurs
+John R. Owen
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-4783(IT)G
+ENTRE :
+DAMIS PROPERTIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Observations écrites sur les dépens
+Devant : L'honorable juge John R. Owen
+Participants :
+Avocats de l'appelante :
+Me Yves St-Cyr
+Me Jacob Yau
+Avocats de l'intimée :
+Me Natalie Goulard
+Me Simon Vincent
+Me Dominic Bédard-Lapointe
+ORDONNANCE
+VU les observations écrites des parties sur les dépens;
+CONFORMÉMENT aux motifs de l'ordonnance ci‑joints, la Cour ordonne :
+1. une somme globale de 108 781,68 $ est adjugée à l'appelante au lieu des dépens taxés, soit 24 % des dépens globaux de 453 257 $ adjugés aux appelantes;
+2. sous réserve de la taxation aux termes des Règles de la Cour canadienne de l'impôt (procédure générale) pour vérifier l'exactitude des sommes réclamées, qui ne comprendront pas la TPS/TVH à l'égard de laquelle l'appelante a demandé des crédits de taxe sur les intrants, des débours de 40 890,43 $ sont adjugés à l'appelante, soit 24 % des débours globaux de 170 376,79 $.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2021.
+« J.R. Owen »
+Le juge Owen
+Dossier : 2016-4785(IT)G
+ENTRE :
+SABEL INVESTMENTS II-A LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Observations écrites sur les dépens
+Devant : L'honorable juge John R. Owen
+Participants :
+Avocats de l'appelante :
+Me Yves St-Cyr
+Me Jacob Yau
+Avocats de l'intimée :
+Me Natalie Goulard
+Me Simon Vincent
+Me Dominic Bédard-Lapointe
+ORDONNANCE
+VU les observations écrites des parties sur les dépens;
+CONFORMÉMENT aux motifs de l'ordonnance ci‑joints, la Cour ordonne :
+1. une somme globale de 108 781,68 $ est adjugée à l'appelante au lieu des dépens taxés, soit 24 % des dépens globaux de 453 257 $ adjugés aux appelantes;
+2. sous réserve de la taxation aux termes des Règles de la Cour canadienne de l'impôt (procédure générale) pour vérifier l'exactitude des sommes réclamées, qui ne comprendront pas la TPS/TVH à l'égard de laquelle l'appelante a demandé des crédits de taxe sur les intrants, des débours de 40 890,43 $ sont adjugés à l'appelante, soit 24 % des débours globaux de 170 376,79 $.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2021.
+« J.R. Owen »
+Le juge Owen
+Dossier : 2016-4787(IT)G
+ENTRE :
+ZAGJO HOLDINGS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Observations écrites sur les dépens
+Devant : L'honorable juge John R. Owen
+Participants :
+Avocats de l'appelante :
+Me Yves St-Cyr
+Me Jacob Yau
+Avocats de l'intimée :
+Me Natalie Goulard
+Me Simon Vincent
+Me Dominic Bédard-Lapointe
+ORDONNANCE
+VU les observations écrites des parties sur les dépens;
+CONFORMÉMENT aux motifs de l'ordonnance ci‑joints, la Cour ordonne :
+1. une somme globale de 63 455,98 $ est adjugée à l'appelante au lieu des dépens taxés, soit 14 % des dépens globaux de 453 257 $ adjugés aux appelantes;
+2. sous réserve de la taxation aux termes des Règles de la Cour canadienne de l'impôt (procédure générale) pour vérifier l'exactitude des sommes réclamées, qui ne comprendront pas la TPS/TVH à l'égard de laquelle l'appelante a demandé des crédits de taxe sur les intrants, des débours de 23 852,75 $ sont adjugés à l'appelante, soit 14 % des débours globaux de 170 376,79 $.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2021.
+« J.R. Owen »
+Le juge Owen
+Dossier : 2016-4788(IT)G
+ENTRE :
+DEVAMM INVESTMENTS II-A LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Observations écrites sur les dépens
+Devant : L'honorable juge John R. Owen
+Participants :
+Avocats de l'appelante :
+Me Yves St-Cyr
+Me Jacob Yau
+Avocats de l'intimée :
+Me Natalie Goulard
+Me Simon Vincent
+Me Dominic Bédard-Lapointe
+ORDONNANCE
+VU les observations écrites des parties sur les dépens;
+CONFORMÉMENT aux motifs de l'ordonnance ci‑joints, la Cour ordonne :
+1. une somme globale de 63 455,98 $ est adjugée à l'appelante au lieu des dépens taxés, soit 14 % des dépens globaux de 453 257 $ adjugés aux appelantes;
+2. sous réserve de la taxation aux termes des Règles de la Cour canadienne de l'impôt (procédure générale) pour vérifier l'exactitude des sommes réclamées, qui ne comprendront pas la TPS/TVH à l'égard de laquelle l'appelante a demandé des crédits de taxe sur les intrants, des débours de 23 852,75 $ sont adjugés à l'appelante, soit 14 % des débours globaux de 170 376,79 $.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2021.
+« J.R. Owen »
+Le juge Owen
+Dossier : 2016-4789(IT)G
+ENTRE :
+MICROBJO PROPERTIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Observations écrites sur les dépens
+Devant : L'honorable juge John R. Owen
+Participants :
+Avocats de l'appelante :
+Me Yves St-Cyr
+Me Jacob Yau
+Avocats de l'intimée :
+Me Natalie Goulard
+Me Simon Vincent
+Me Dominic Bédard-Lapointe
+ORDONNANCE
+VU les observations écrites des parties sur les dépens;
+CONFORMÉMENT aux motifs de l'ordonnance ci‑joints, la Cour ordonne :
+1. une somme globale de 108 781,68 $ est adjugée à l'appelante au lieu des dépens taxés, soit 24 % des dépens globaux de 453 257 $ adjugés aux appelantes;
+2. sous réserve de la taxation aux termes des Règles de la Cour canadienne de l'impôt (procédure générale) pour vérifier l'exactitude des sommes réclamées, qui ne comprendront pas la TPS/TVH à l'égard de laquelle l'appelante a demandé des crédits de taxe sur les intrants, des débours de 40 890,43 $ sont adjugés à l'appelante, soit 24 % des débours globaux de 170 376,79 $.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2021.
+« J.R. Owen »
+Le juge Owen
+Référence : 2021 CCI 44
+Date : 20210714
+Dossier : 2016-4783(IT)G
+ENTRE :
+DAMIS PROPERTIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2016-4785(IT)G
+ET ENTRE :
+SABEL INVESTMENTS II-A LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2016-4787(IT)G
+ET ENTRE :
+ZAGJO HOLDINGS LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2016-4788(IT)G
+ET ENTRE :
+DEVAMM INVESTMENTS II-A LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2016-4789(IT)G
+ET ENTRE :
+MICROBJO PROPERTIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Owen
+I. Introduction
+[1] En 2006, les cinq appelantes ont conclu une série d'opérations en vue de procéder à la vente d'une filiale qui venait d'être constituée à Wilshire Technology Corporation (« WTC »). Le ministre du Revenu national (le « ministre ») a établi une cotisation à l'égard de chacune des appelantes aux termes du paragraphe 160(2) de la Loi de l'impôt sur le revenu du Canada (la « LIR »), et les appelantes ont interjeté appel de ces cotisations. L'intimée a défendu les cotisations au motif que le paragraphe 160(1) s'appliquait aux appelantes, et subsidiairement, que la disposition générale anti‑évitement (« DGAÉ ») de l'article 245 de la LIR s'appliquait. Les appelantes ont eu gain de cause dans leurs appels.
+[2] En réponse à ma demande d'observations, les appelantes réclament qu'il leur soit adjugé une somme globale de 808 651,68 $ et des débours de 170 376,79 $. Les dépens demandés représentent environ 62,4 % des honoraires d'avocats de 1 295 019,50 $ assumés collectivement par les appelantes [1] . Les appelantes demandent que les dépens et les débours adjugés se répartissent comme suit : 24 % chacune aux appelantes Damis Properties Inc., Sabel Investments II‑A Limited et Microbjo Properties Inc., et 14 % chacune aux appelantes Zagjo Holdings Limited et Devamm Investments II‑A Limited, ce qui représente les proportions des honoraires et des débours assumées par chacune des appelantes.
+[3] L'intimée soutient que l'adjudication d'une somme globale de 431 227,65 $, ce qui représente environ 33,4 % des honoraires versés par les appelantes, moins les dépens de 4 200 $ déjà accordés, et les débours, serait juste et raisonnable.
+[4] Avant de commencer mon analyse des observations sur les dépens, je tiens à féliciter les avocats des appelantes et de l'intimée pour la conduite efficace et bien organisée des présents appels, y compris le fait qu'ils se sont préalablement entendus sur les faits non contestés et sur le fait de limiter la présentation des éléments de preuve aux circonstances de deux appelantes qui, ensemble, représentaient la situation des cinq appelantes.
+II. Analyse
+[5] L'article 147 des Règles de la Cour canadienne de l'impôt (procédure générale) (les « Règles ») porte sur les dépens lors d'appels en matière d'impôt sur le revenu selon la procédure générale. Je passe en revue les règles énoncées à l'article 147 et j'établis les principes généraux qui s'appliquent à l'établissement des dépens dans la décision CIT Group Securities (Canada) Inc. c. La Reine, 2017 CCI 86, de même que dans la décision Cameco Corporation c. La Reine, 2019 CCI 92. Les commentaires que j'ai formulés dans ces deux décisions s'appliquent également en l'espèce, et je ne les reprendrai pas. Il y a cependant un point particulièrement important : l'article 147 confère à la Cour canadienne de l'impôt un pouvoir discrétionnaire étendu quant à l'adjudication des dépens, mais ce pouvoir discrétionnaire doit toujours s'exercer selon des principes établis plutôt que de manière arbitraire [2] .
+[6] Le paragraphe 147(3) des Règles comprend une liste de facteurs que la Cour doit examiner lorsqu'elle exerce son pouvoir discrétionnaire d'adjuger des dépens. En ce qui concerne ces facteurs, je mentionne que, bien qu'il soit nécessaire d'examiner la question de savoir si et pourquoi un facteur pertinent appuie ou non l'adjudication de dépens à une partie, il faut établir la somme adjugée en tenant compte de tous les facteurs pertinents (y compris, au besoin, les facteurs qui ne sont pas énumérés) considérés collectivement. Un facteur donné peut étayer ou non l'adjudication et le montant des dépens. Toutefois, si on tente d'analyser trop minutieusement chaque facteur, on va à l'encontre de l'objectif de faire épargner aux parties temps et argent et de résoudre le litige de façon juste et la plus expéditive et économique possible [3] . De plus, comme l'a déclaré le juge Rothstein (alors juge de la Cour d'appel fédérale) dans l'arrêt Consorzio del Prosciutto di Parma c. Maple Leaf Meats Inc., 2002 CAF 417, [2003] 2 C.F. 451, au par. 8 :
+Une adjudication de dépens partie-partie ne constitue pas un exercice exact. Il ne s'agit que d'une estimation du montant que la Cour juge approprié à titre de contribution aux dépens avocat-client de la partie qui a obtenu gain de cause (ou, de façon inhabituelle, à ceux de la partie déboutée). [.. .]
+Il suffit de déterminer si et pourquoi un facteur donné appuie ou non l'adjudication de dépens à une partie donnée pour que l'adjudication soit fondée sur une appréciation collective des facteurs pertinents.
+[7] Les positions des appelantes et de l'intimée sur les facteurs énumérés au paragraphe 147(3) sont les suivantes.
+1. Alinéa 147(3)a) — Le résultat de l'instance
+[8] Les appelantes soutiennent qu'il y avait de nombreuses questions et de nombreuses réponses possibles et que le fait qu'elles ont eu gain de cause justifie l'adjudication de dépens plus élevés. L'intimée reconnaît que le fait que les appelantes ont eu gain de cause justifie une adjudication appropriée des dépens aux appelantes, mais elle soutient que le bien‑fondé de la thèse de l'intimée n'est pas pertinent, puisque l'objectif des dépens n'est pas de punir la partie déboutée sur le fondement d'une analyse après coup du bien‑fondé relatif des thèses défendues.
+[9] Le fait que les appelantes ont obtenu gain de cause sur toutes les questions justifie une adjudication appropriée des dépens aux appelantes.
+2. Alinéa 147(3)b) — Les sommes en cause
+[10] La somme en cause pour les cinq appels était de 6 838 072 $. Je suis d'avis que, même en répartissant la somme entre les appelantes selon leurs parts respectives, la somme est importante et justifie une adjudication appropriée des dépens aux appelantes.
+[11] Je ne souscris pas à l'argument des appelantes voulant que les sommes en cause dans les appels d'autres contribuables soient pertinentes. Je souligne que la mesure dans laquelle les questions examinées dans les présents appels sont pertinentes pour d'autres contribuables, si c'est le cas, est prise en compte dans le facteur énoncé à l'alinéa 147(3)c).
+3. Alinéa 147(3)c) — L'importance des questions en litige
+[12] Selon les appelantes, la décision en l'espèce porte sur plusieurs questions importantes qui sont pertinentes pour d'autres contribuables, et l'intimée reconnaît que ce facteur appuie une adjudication appropriée des dépens aux appelantes. Toutefois, les questions d'interprétation légale soulevées en l'espèce ont, pour la plupart, été examinées à de nombreuses occasions dans d'autres appels, et l'issue des présents appels dépend largement des faits précis. Bien qu'il fût nécessaire d'analyser certains aspects du paragraphe 160(1) en l'espèce, je suis d'avis qu'en soi, cela n'est pas pertinent et que, par conséquent, ce facteur est neutre.
+4. Alinéa 147(3)d) — Toute offre de règlement présentée par écrit
+[13] Les appelantes indiquent qu'elles ont proposé de régler en tenant compte du fait que la juste valeur marchande de la contrepartie qu'elles ont donnée se situait entre la valeur des biens après impôt de chacune des filiales vendues à WTC et leurs biens avant impôt. Elles soutiennent que le fait que l'intimée a rejeté l'offre justifie l'adjudication de dépens plus élevés.
+[14] L'intimée déclare que les appelantes lui ont présenté une offre par écrit le 8 novembre 2019 et que cette offre expirait le 29 novembre 2019. L'intimée reconnaît que ce facteur justifie l'adjudication des dépens aux appelantes.
+[15] L'offre de règlement constituait un compromis raisonnable sur une question de fait qui limitait les conséquences de l'application du paragraphe 160(1) conformément à ses modalités. Par conséquent, l'offre de règlement justifie une adjudication appropriée des dépens aux appelantes.
+5. Alinéa 147(3)e) — La charge de travail
+[16] Les appelantes soutiennent que la charge de travail qu'exigeaient les présents appels était considérable et que l'intimée a contribué à cette charge en modifiant les réponses et en alléguant l'existence d'un trompe‑l'œil.
+[17] L'intimée affirme que le travail supplémentaire découlant des réponses modifiées aurait pu être évité si les appelantes avaient accepté les modifications et que l'allégation de trompe‑l'œil n'avait été invoquée qu'en ce qui concerne une seule opération dans chacun des appels. L'intimée fait remarquer que la charge de travail avait été grandement réduite en raison d'un consentement quant à plusieurs des faits pertinents et de l'entente relative aux éléments de preuve à présenter à l'audience.
+[18] Je ne suis pas d'avis que l'intimée a contribué de façon importante à la charge de travail. Je suis d'accord avec le fait que la charge de travail était considérable en raison de la nécessité d'examiner le paragraphe 160(1) et la DGAÉ. La charge de travail justifie une adjudication appropriée des dépens aux appelantes.
+[19] En ce qui concerne la rationalisation résultant des efforts des avocats des appelantes et de l'intimée, de tels efforts profitent aux deux parties, notamment en réduisant leurs honoraires d'avocats. Conclure que de tels efforts ont une incidence sur le calcul des dépens pourrait avoir comme conséquence secondaire indésirable de décourager ces efforts. Je suis d'avis que la meilleure solution consiste à reconnaître ces efforts conjoints, mais à les considérer comme neutres relativement à l'adjudication des dépens, sauf si les circonstances sont inhabituelles et exigent une conclusion différente. Les efforts qui ne sont pas faits conjointement sont examinés selon le facteur énoncé à l'alinéa 147(3)g).
+6. Alinéa 147(3)f) — La complexité des questions en litige
+[20] Les appelantes soutiennent que les questions de droit soulevées dans les appels étaient complexes, et l'intimée reconnaît cette complexité. Je conviens qu'il y avait plusieurs questions faisant partie de l'interprétation du paragraphe 160(1) qui exigeaient une analyse et une explication. Je ne suis cependant pas d'accord pour dire que les questions soulevées dans les appels étaient complexes, que ce soit à l'égard de la détermination du droit applicable ou à l'égard de la détermination des faits. Les questions de droit soulevées par les présents appels ont pour la plupart déjà été examinées, et les parties ont reconnu la plupart des faits. Par conséquent, ce facteur est neutre sur la question des dépens.
+7. Alinéa 147(3)g) — La conduite d'une partie qui aurait abrégé ou prolongé inutilement la durée de l'instance
+[21] Les appelantes soutiennent que l'ancien avocat de l'intimée a demandé deux prorogations du délai pour déposer les réponses aux avis d'appel, ce qui a retardé cette étape de trois mois. Le même avocat a demandé que l'échéancier initial soit modifié, ce qui a entraîné des retards de [TRADUCTION] « plusieurs mois supplémentaires ».
+[22] L'intimée affirme qu'un poids important devrait être accordé aux ententes qui ont abrégé l'instance en réduisant les dépens adjugés aux appelantes.
+[23] Les retards causés par l'ancien avocat de l'intimée ne sont pas pertinents et n'entrent pas en ligne de compte dans l'adjudication des dépens en l'espèce. Comme je l'ai indiqué au sujet de la charge de travail, les efforts des avocats des deux parties visant à abréger la durée de l'instance sont louables, mais puisque ces efforts ont profité aux deux parties, il ne s'agit pas d'un facteur à prendre en compte dans l'adjudication des dépens en l'espèce. Par conséquent, ce facteur est neutre sur la question des dépens.
+8. Alinéa 147(3)i.1) — La question de savoir si les dépenses engagées pour la déposition d'un témoin expert étaient justifiées
+[24] Les appelantes déclarent que la thèse du ministre sur la juste valeur marchande des actions de leurs filiales exigeait d'avoir recours aux services d'un expert pour qu'il présente des éléments de preuve sur cette question. Selon les appelantes, la position [TRADUCTION] « injustifiée » du ministre concernant la valeur penche en faveur de l'adjudication de dépens majorés ainsi que du remboursement des frais d'expertise.
+[25] L'intimée accepte, à titre de débours, la somme versée au témoin expert, mais soutient que cette somme ne devrait avoir aucune incidence sur l'adjudication des dépens.
+[26] Je rejette la thèse des appelantes selon laquelle la position [TRADUCTION] « injustifiée » du ministre concernant la valeur des actions justifie l'adjudication de dépens majorés. Le ministre a le droit de formuler des hypothèses de fait en établissant une cotisation à l'égard d'un contribuable, que ces hypothèses soient fondées ou non. Le ministre a présumé que, lors du transfert à WTC, la juste valeur marchande des actions des filiales des appelantes était nulle. Il n'y a rien d'inhabituel ou d'inconvenant dans cette hypothèse. En tant que parties sur lesquelles repose le fardeau de la preuve, les appelantes devaient répondre à l'hypothèse du ministre, mais, en soi, cela ne justifie pas l'adjudication de dépens majorés.
+[27] Par conséquent, ce facteur est neutre sur la question des dépens.
+9. Autres facteurs
+[28] Les appelantes et l'intimée n'invoquent pas les alinéas 147(3)h) et i), et je n'ai aucune raison de croire que ces alinéas sont pertinents. Je n'ai connaissance d'aucun autre facteur que je devrais examiner. Dans mon évaluation des dépens appropriés qui suit, j'examine la question des dépens pour les honoraires d'avocats.
+III. Conclusion sur l'adjudication des dépens
+[29] Les facteurs qui étayent l'adjudication des dépens aux appelantes sont le fait qu'elles ont entièrement obtenu gain de cause, les sommes importantes en cause, l'offre de règlement qu'elles ont présentée et la charge de travail requise. Il n'y a aucun facteur défavorable. Je conclus toutefois que les questions en litige dans les appels n'étaient ni complexes ni très pertinentes pour d'autres contribuables.
+[30] Je soulève cette dernière conclusion parce que, bien qu'il faille toujours prendre en considération le montant des honoraires et les taux facturés, cela est particulièrement vrai lorsque les questions ne sont ni importantes pour d'autres personnes ni complexes. Cela s'explique simplement par le fait que les honoraires facturés par les avocats et les cabinets d'avocats (taux horaire ou autre) varient énormément [4] . On ne peut pas s'attendre à ce que l'intimée subventionne le choix d'avoir recours aux services d'un avocat dont les honoraires sont parmi les plus élevés sans tenir compte de l'importance et de la complexité des questions justifiant de tels honoraires. Pour reprendre les propos de la Cour suprême du Canada dans l'arrêt Walker c. Ritchie, 2006 CSC 45, [2006] 2 R.C.S. 428, au par. 28 :
+[...] Les défendeurs qui succombent doivent pouvoir supposer qu'ils seront condamnés, au titre des dépens, à des sommes similaires à celles accordées dans des litiges analogues montrant des similarités relativement à la conduite des parties et aux avocats en présence, et ce, quels que soient les arrangements conclus par les demandeurs et leurs avocats.
+[31] J'ai examiné l'ensemble des facteurs dans les présents appels ainsi que le montant des honoraires d'avocats versés par les appelantes et je conclus qu'il convient d'adjuger, plutôt que des dépens établis selon le tarif, une somme globale représentant 35 % des honoraires d'avocats de 1 295 019,50 $ versés par les appelantes, soit 453 257 $. Cette somme est raisonnable et appropriée comme contribution aux honoraires d'avocats des appelantes. En parvenant à ce chiffre, j'ai tenu compte des dépens de 4 200 $ précédemment accordés aux appelantes.
+[32] En ce qui concerne les débours, l'intimée ne conteste pas les débours réclamés par les appelantes, mais demande qu'ils soient soumis à une vérification. J'ordonne donc que, sous réserve de la taxation aux termes des Règles pour vérifier l'exactitude des sommes réclamées, qui ne comprendront pas la TPS/TVH à l'égard de laquelle les appelantes ont demandé des crédits de taxe sur les intrants, les débours de 170 376,79 $ réclamés par les appelantes soient adjugés.
+Signé à Ottawa, Canada, ce 14e jour de juillet 2021.
+« J.R. Owen »
+Le juge Owen
+RÉFÉRENCE :
+2021 CCI 44
+NOS DES DOSSIERS DE LA COUR :
+2016-4783(IT)G
+2016-4785(IT)G
+2016-4787(IT)G
+2016-4788(IT)G
+2016-4789(IT)G
+INTITULÉS :
+DAMIS PROPERTIES INC. c. SA MAJESTÉ LA REINE
+SABEL INVESTMENTS II‑A LIMITED c. SA MAJESTÉ LA REINE
+ZAGJO HOLDINGS LIMITED c. SA MAJESTÉ LA REINE
+DEVAMM INVESTMENTS II‑A LIMITED c. SA MAJESTÉ LA REINE
+MICROBJO PROPERTIES INC. c. SA MAJESTÉ LA REINE
+MOTIFS DE L'ORDONNANCE SUR LES DÉPENS :
+L'honorable juge John R. Owen
+DATE DE L'ORDONNANCE SUR LES DÉPENS :
+Le 14 juillet 2021
+PARTICIPANTS :
+Avocats des appelantes :
+Me Yves St-Cyr
+Me Jacob Yau
+Avocats de l'intimée :
+Me Natalie Goulard
+Me Simon Vincent
+Me Dominic Bédard-Lapointe
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes :
+Noms :
+Me Yves St-Cyr
+Me Jacob Yau
+Cabinet :
+Dentons Canada S.E.N.C.R.L.
+Toronto (Ontario)
+Pour l'intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Les honoraires et les débours versés par les appelantes à compter de la préparation de l'avis d'appel sont décrits en détail dans le mémoire des frais des appelantes joint comme pièce A de l'affidavit de Earl Miller fait le 23 avril 2021. Le total indiqué à la page 5 du mémoire des frais est plus élevé que les honoraires d'avocats de 1 244 079,51 $ que laisse entendre l'affirmation au paragraphe 4 des observations des appelantes, selon laquelle 808 651,68 $ représentent 65 % des honoraires d'avocats des appelantes. L'intimée s'est sans doute fondée sur cette affirmation lorsqu'elle a supposé que les honoraires payés par les appelantes étaient de 1 244 079,51 $.
+[2] R. c. Lau, 2004 CAF 10, au par. 5, et R. c. Landry, 2010 CAF 135, aux par. 22 et 54.
+[3] Nova Chemicals Corporation c. The Dow Chemical Company, 2017 CAF 25, aux par. 10 à 13.
+[4] Voir, par exemple, le sondage réalisé en 2019 sur les honoraires d'avocats publié dans la revue Canadian Lawyer. Les taux horaires des avocats des appelantes sont beaucoup plus élevés que les taux moyens indiqués dans le sondage. Par exemple, le taux moyen le plus élevé selon la revue Canadian Lawyer pour un avocat dans un domaine spécialisé et comptant plus de 20 ans d'expérience est de 593 $ l'heure, alors que l'avocat principal des appelantes a facturé un taux horaire de plus de 900 $. Je ne dis pas toutefois que l'avocat a facturé des frais excessifs. Je suppose que les taux facturés étaient ceux des grands cabinets d'avocats situés dans les grands centres urbains au Canada.

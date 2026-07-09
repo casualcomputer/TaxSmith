@@ -1,0 +1,198 @@
+Title: Guillemette c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26097/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-278-26097-guillemette-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-04-19
+
+# Guillemette c. M.R.N.
+
+- Citation: 2004 CCI 278
+- Decision date: 2004-04-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4158, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Guillemette c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-19
+Référence neutre
+2004 CCI 278
+Numéro de dossier
+2003-1395(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers: 2003-1395(EI)
+2003-1394(EI)
+ENTRE :
+HENRI GUILLEMETTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appels entendus sur preuve commune le 3 décembre 2003 à
+Trois-Rivières (Québec)
+Devant : L'honorable S.J. Savoie, juge suppléant
+Comparutions :
+Avocat de l'appelant :
+Me Claude Traversy
+Avocat de l'intimé :
+Me Claude Lamoureux
+____________________________________________________________________
+JUGEMENT
+Les appels sont rejetés et les décisions rendues par le Ministre sont confirmées selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 19e jour d'avril 2004.
+« S. Savoie »
+Juge suppléant Savoie
+Référence : 2004CCI278
+Date : 20040419
+Dossiers : 2003-1395(EI)
+2003-1394(EI)
+ENTRE :
+HENRI GUILLEMETTE,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Ces appels ont été entendus sur preuve commune à Trois-Rivières (Québec), le 3 décembre 2003.
+Dossier 2003-1395(EI) :
+[2] Le 23 septembre 2002, l'appelant demanda au ministre du Revenu national (le « Ministre » ) qu'il soit statué sur la question de savoir s'il avait exercé un emploi assurable du 20 septembre 1999 au 14 juillet 2000, du 7 août 2000 au 13 juillet 2001 et du 30 juillet 2001 au 31 mai 2002, lorsqu'au service de Couvertures F P Inc., le payeur, au sens de la Loi sur l'assurance-emploi (la « Loi » ).
+[3] Par lettre en date du 11 février 2003, le Ministre informa l'appelant de sa décision, selon laquelle cet emploi n'était pas assurable car il ne rencontrait pas les exigences d'un contrat de louage de services; il n'y avait donc pas de relation employeur-employé entre lui et le payeur durant les périodes en litige.
+Dossier 2003-1394(EI) :
+[4] Le 23 septembre 2002, l'appelant demanda au Ministre qu'il soit statué sur la question de savoir s'il avait exercé un emploi assurable du 23 août 1999 au 12 mai 2000 et du 11 septembre 2000 au 11 mai 2001, lorsqu'au service de D. Simoneau Inc., le payeur, au sens de la Loi.
+[5] Par lettre en date du 11 février 2003, le Ministre a informé l'appelant de sa décision, selon laquelle cet emploi n'était pas assurable car il ne rencontrait pas les exigences d'un contrat de louage de services; il n'y avait donc pas de relation employeur-employé entre lui et le payeur durant les périodes en litige.
+[6] En rendant ses décisions, le Ministre s'est fondé sur les présomptions de fait suivantes :
+Dossier 2003-1395(EI) :
+a) Le payeur, constitué en société le 10 décembre 1996, exploite une entreprise de construction de couvertures (toitures). (admis)
+b) Durant les périodes en litige, les actionnaires à parts égales du payeur étaient M. Michel Pouliot et M. Gérald Fleury. (admis)
+c) L'appelant est comptable de profession et suite à la perte de son emploi à plein temps, en 1999, il offre ses services en comptabilité à différentes entreprises dont le payeur. (nié)
+d) Durant les périodes en litige, l'appelant rendait des services au payeur une semaine par mois. (nié)
+e) Le payeur communiquait généralement quelques jours à l'avance avec l'appelant afin que ce dernier détermine ses disponibilités et se libère pour une semaine complète. (nié)
+f) L'appelant rendait ses services à la place d'affaires du payeur; il utilisait généralement un bureau libre dans les locaux du payeur. (admis)
+g) Lorsqu'il travaillait pour le payeur, l'appelant s'occupait des tâches suivantes : il faisait la tenue des livres comptables, s'occupait des remises gouvernementales et préparait les rapports de TVQ et de TPS. (admis)
+h) Le payeur avait initialement convenu, à la demande de l'appelant, de lui verser 600 $ pour chaque semaine où il était appelé; en 2000, sa rémunération est passée à 720 $. (nié)
+i) Les heures de travail de l'appelant n'étaient pas comptabilisées par le payeur. (nié)
+j) L'appelant pouvait modifier ses heures de travail en autant qu'il respectait les délais prescrits. (nié)
+k) L'appelant estimait qu'il consacrait environ 40 heures à son travail pour le payeur à chaque mois. (admis)
+l) L'appelant ne bénéficiait d'aucun avantages sociaux de la part du payeur. (nié)
+m) Durant les périodes en litige, l'appelant offrait aussi ses services comme comptable à d'autres payeurs. (nié)
+n) Le payeur ne contrôlait pas le travail de l'appelant et n'était intéressé que par le produit final des services rendus par l'appelant. (nié)
+Dossier 2003-1394(EI) :
+a) Le payeur, constitué en société le 18 mai 1998, exploite une entreprise de fabrication de moulures de bois. (admis)
+b) Durant les périodes en litige, les actionnaires à parts égales du payeur étaient M. Daniel Simoneau et Mme Manon Blanchet. (admis)
+c) L'appelant est comptable de profession et suite à la perte de son emploi à plein temps, en 1999, il offre ses services en comptabilité à différentes entreprises dont le payeur. (nié)
+d) Durant les périodes en litige, l'appelant rendait des services au payeur sur appel. (nié)
+e) Lorsque Mme Blanchet, administratrice du payeur, prenait du retard, elle communiquait avec l'appelant pour lui offrir du travail pour une semaine, soit environ 40 heures. (nié)
+f) Mme Blanchet communiquait généralement une semaine à l'avance avec l'appelant afin que ce dernier soit disponible pour une semaine complète. (admis)
+g) L'appelant rendait ses services à la place d'affaires du payeur; il utilisait généralement un bureau libre dans les locaux du payeur. (admis)
+h) Lorsqu'il travaillait pour le payeur, l'appelant s'occupait des tâches suivantes : il faisait la tenue des livres comptables, s'occupait des remises gouvernementales, préparait les rapports de TVQ et de TPS, préparait les chèques pour payer les fournisseurs et préparait les dépôts bancaires. (admis en partie)
+i) Le payeur avait convenu, à la demande de l'appelant, de lui verser 600 $ pour chaque semaine où il était appelé. (nié)
+j) L'appelant estimait qu'il consacrait environ 40 heures à son travail pour le payeur à chaque fois où il était appelé. (admis)
+k) L'appelant ne bénéficiait d'aucun avantages sociaux de la part du payeur. (admis avec précisions)
+l) Durant les périodes en litige, entre le 23 août 1999 et le 11 mai 2001, l'appelant n'a travaillé que 6 semaines, soit qu'une fois à tous les 3 à 5 mois. (admis)
+m) Durant les périodes en litige, l'appelant offrait aussi ses services comme comptable à d'autres payeurs. (nié)
+n) Le payeur ne contrôlait pas le travail de l'appelant et n'était intéressé que par le produit final des services rendus par l'appelant. (nié)
+[7] En rendant ses décisions, le Ministre s'est fondé sur l'alinéa 5(1)a) de la Loi pour décider que les emplois de l'appelant n'étaient pas assurables. L'alinéa 5(1)a) se lit comme suit :
+Sous réserve du paragraphe (2), est un emploi assurable :
+a) l'emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d'un contrat de louage de services ou d'apprentissage exprès ou tacite, écrit ou verbal, que l'employé reçoive sa rémunération de l'employeur ou d'une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[...]
+[8] Selon l'arrêt bien connu de Wiebe Door Services Ltd. c. M.R.N., [1996] 3 C.F. 553, la jurisprudence a établi une série de critères servant d'outils dans la détermination de litiges comme ceux sous étude, c'est-à-dire :
+1. Le degré de contrôle sur le travail du travailleur;
+2. La propriété des instruments de travail;
+3. Les chances de bénéfice ou les risques de perte;
+4. L'intégration du travail de l'employé dans l'entreprise du payeur.
+[9] Le juge Décary de la Cour d'appel fédérale dans l'arrêt Charbonneau c. Canada (ministre du Revenu national - M.R.N.), [1996] A.C.F. no. 1337, parlant de ces critères, s'exprimait en ces termes :
+Les critères énoncés par cette Cour dans Wiebe Door Services Ltd. c. M.R.N. [...], à savoir d'une part le degré de contrôle, la propriété des instruments de travail, les chances de bénéfice et les risques de perte et d'autre part l'intégration, ne sont pas les recettes d'une formule magique. Ce sont des points de repère qu'il sera généralement utiles de considérer, mais pas au point de mettre en péril l'objectif ultime de l'exercice qui est de rechercher la relation globale que les parties entretiennent entre elles. Ce qu'il s'agit, toujours, de déterminer, une fois acquise l'existence d'un véritable contrat, c'est s'il y a, entre les parties, un lien de subordination tel qu'il s'agisse d'un contrat de travail (art. 2085 du Code civil du Québec) ou s'il n'y a pas, plutôt, un degré d'autonomie tel qu'il s'agisse d'un contrat d'entreprise ou de service (art. 2098 dudit Code). En d'autres termes, il ne faut pas, et l'image est particulièrement appropriée en l'espèce, examiner les arbres de si près qu'on perde de vue la forêt. Les parties doivent s'effacer devant le tout.
+[10] Il convient donc d'examiner la preuve, en l'espèce, à la lumière des critères établis ci-haut.
+Dossier 2003-1395(EI)
+1. Contrôle
+[11] L'appelant exerçait ses fonctions dans les bureaux du payeur. Il devait se présenter pendant les heures d'ouverture de celui-ci. L'appelant recevait un appel du payeur pour lui demander si ça lui convenait de venir travailler. C'est le travailleur qui décidait si oui ou non il acceptait de se présenter chez le payeur, tel que demandé. C'était toujours pour un bloc de 40 heures. La preuve a établi que de la part du payeur, il n'y avait pas de contrôle sur les heures travaillées par l'appelant. Ce qui comptait, c'était le résultat. Il était important pour le payeur que les remises gouvernementales soient faites à temps. Si, pour une raison ou pour une autre, l'appelant devait travailler pour le payeur pendant une semaine plutôt qu'une autre, cela ne dérangeait en rien le payeur. C'était la secrétaire du payeur qui s'occupait de la facturation, des paies et des dépôts. Le payeur mettait à la disposition de l'appelant un bureau qui n'était pas toujours le même à chaque fois qu'il allait travailler pour celui-ci. On lui confiait l'usage d'un bureau qui était disponible à cette occasion. Pendant l'enquête, le payeur a été incapable de dire si l'appelant avait reçu une paie de vacances. Les circonstances établies indiquent clairement l'absence de contrôle par le payeur sur l'appelant.
+2. La propriété des outils
+[12] Le payeur fournissait au travailleur les outils dont il avait besoin pour ses tâches. Le travailleur n'avait besoin que de papier, de crayons et une calculatrice.
+3. Les chances de profit et risques de perte
+[13] Pour ce qui concerne la rémunération de l'appelant, il y a ambiguïté dans la preuve recueillie, à savoir, dans les deux cas, on a établi le salaire de l'appelant à 15 $ l'heure, ceci incluant les dépenses encourues par l'appelant. Cette ambiguïté, toutefois, n'est pas de nature à affecter le règlement du débat. L'appelant, recevait un salaire de 600 $ ou 720 $ pour un bloc de 40 heures, selon qu'il était payé à 15 $ ou 18 $ l'heure. Il ne recevait aucune allocation de déplacement ou de repas. L'appelant a déclaré que la somme qu'il recevait incluait toutes ses dépenses.
+4. Intégration
+[14] Le travail de l'appelant, quoique nécessaire à l'entreprise, ne faisait pas partie intégrante de celle-ci, le travail aurait pu être donné en sous-traitance. L'appelant a été mis à pied pendant des périodes très achalandées et il a recommencé à travailler de deux à trois semaines et demi plus tard. Puisqu'il travaille une seule semaine par mois, le Ministre a conclu qu'il ne s'agissait pas d'une réelle mise à pied. À l'agent d'assurabilité, l'appelant, parlant du payeur, l'appelle « son client » . Aussi, l'appelant fait des prestations de travail pour d'autres payeurs, tels 9108-2537 Québec, Inc., Transports AR et D. Simoneau Inc.
+[15] L'appelant est comptable de profession, quoiqu'il ne détient aucun certificat ou brevet. Il travaille pour différents payeurs et effectue le même genre de tâches. L'agent des appels, dans ce dossier, indique que les relevés d'emploi du travailleur sont émis pour le qualifier aux prestations et non pas par manque de travail. L'agent des appels a conclu que le payeur n'avait pas mis fin au service de l'appelant, parce que celui-ci retournait au travail le mois suivant sa mise à pied. Donc, selon le Ministre, il n'y a pas vraiment de mise à pied.
+Dossier 2003-1394(EI)
+[16] Il s'agit maintenant de déterminer l'assurabilité de l'emploi de l'appelant lorsqu'à l'emploi du payeur D. Simoneau Inc. à la lumière des critères ci-haut identifiés. Le payeur, D. Simoneau Inc., fabrique des moulures de bois qui sont utilisées pour des maisons ou pour des meubles. Cette société embauche entre 14 et 20 personnes. Son chiffre d'affaires au 30 avril 2002 était de 649 000,00 $. Manon Blanchet et Daniel Simoneau sont les deux seuls actionnaires du payeur. Pendant les périodes en litige, le payeur a retenu les services de l'appelant Henri Guillemette comme comptable.
+1. Le contrôle
+[17] L'appelant exécutait son travail au bureau du payeur où il devait se présenter durant les heures d'ouverture de celui-ci. Dans ce cas présent comme dans l'autre, le payeur appelait le travailleur pour lui demander si ça lui convenait de venir travailler. C'est l'appelant qui décidait s'il y allait ou non et c'était toujours pour un bloc de 40 heures.
+[18] Dans le cas présent comme dans l'autre, le payeur n'exerçait aucun contrôle sur les heures travaillées par l'appelant; le résultat et le délai ministériel étaient les seules exigences du payeur. Il a été établi que l'appelant pouvait travailler une semaine de 36 heures alors que dans une autre, il pouvait en travailler 42. Ainsi, il gérait lui-même son horaire de travail. S'il devait reporter une journée ou la changer, il était maître de le faire. Il n'enregistrait pas ses heures et il n'existait aucun registre à cet effet. Les autres employés de l'usine poinçonnaient. Manon Blanchet, actionnaire du payeur, exerçait un contrôle de résultat sur le travail de l'appelant. Celui-ci n'avait aucun bureau attitré à la place d'affaires du payeur. Il utilisait le bureau qui était disponible ce jour-là. Étant donné que l'appelant faisait le travail de comptabilité à la main et que le payeur a informatisé sa tenue de livres, celui-ci a été mis à pied. Il a été remplacé par un autre comptable, Jean-Yves Blanchet, qui était un travailleur indépendant.
+2. La propriété des outils
+[19] L'appelant n'avait besoin que de papier, de crayons et une calculatrice pour accomplir ses tâches et c'est le payeur qui les lui fournissait.
+3. Les chances de profit et risques de perte
+[20] Le travailleur recevait un salaire de 600 $ par semaine pour un bloc de 40 heures. Cependant, la preuve a aussi établi qu'il pouvait recevoir un salaire de 720 $ par semaine. Tout cela dépendait s'il était payé au taux de 15 $ ou de 18 $ l'heure. Quoiqu'il en soit, le montant exact de sa rémunération ne changeait rien aux circonstances de l'emploi, pour les fins de l'analyse sous étude. L'appelant ne recevait aucune paie de vacances ou de vacances payées; il n'était pas payé pour les jours fériés et n'avait aucun avantages sociaux. Toutes les dépenses encourues étaient aux frais de l'appelant et il a révélé aux enquêteurs que le montant qu'il recevait incluait toutes ses dépenses.
+4. Intégration
+[21] La preuve a établi que le travail de l'appelant ne faisait pas partie intégrante de l'entreprise même s'il était nécessaire à celle-ci. Le Ministre a conclu que son travail aurait pu être confié à la sous-traitance. Le payeur utilisait les services de l'appelant uniquement au besoin. Il était « sur appel » . Le payeur a indiqué à l'agent de l'assurabilité que l'on appelait l'appelant environ une semaine à l'avance de sorte que celui-ci puisse organiser son horaire, « puisqu'on savait qu'il avait d'autres clients » . Aussi, l'appelant était maître de reporter ou de changer une journée de travail. Il a été établi que même si les ventes du payeur diminuaient à l'automne, l'appelant revenait quand même au travail pour cette période alors qu'il avait quitté son travail, au printemps, au moment où les ventes étaient plus élevées. La preuve a révélé que lorsque l'appelant n'était pas au travail pour le payeur, c'était Manon Blanchet qui faisait le travail. Par ailleurs, le Ministre a fait la preuve que l'appelant pouvait travailler pour d'autres payeurs sans restrictions. Ainsi, la preuve a révélé que celui-ci travaillait pour Couvertures FP Inc. depuis plusieurs années ainsi que pour Transports AR. Il a également été démontré que l'appelant faisait des déclarations d'impôt pour des amis. Ceci a amené le Ministre à conclure que les relevés d'emploi du travailleur avaient été émis pour le qualifier aux prestations d'assurance-emploi et que ceci n'était pas nécessairement justifié par un manque de travail.
+[18] Dans les deux dossiers sous étude, les circonstances entourant l'emploi de l'appelant se ressemblent beaucoup. Dans les deux instances, nous sommes portés à se poser les mêmes questions, à savoir :
+1. Un travailleur oeuvrant dans une relation employeur-employé aurait-il le loisir de décider si oui ou non il va se présenter au travail?
+2. L'appelant aurait-il accepté de travailler sans les avantages sociaux qu'offre habituellement un employeur à son employé, sans vacances ou jours fériés payés?
+3. Le véritable employeur accepterait-il que le travail de son employé soit contrôlé, non pas par lui, mais par une tierce personne, en l'occurrence, l'instance gouvernementale qui établit les échéanciers selon lesquels le résultat du travail du travailleur devait se conformer?
+4. Dans une véritable relation employeur-employé, l'employeur accepterait-il que le travailleur gère lui-même son horaire de travail ou change tout simplement son horaire lui-même?
+5. L'employeur accepterait-il que son employé travaille régulièrement pour d'autres employeurs, même ses concurrents?
+[19] La réponse à ces questions conduit à la conclusion inévitable que le travail de l'appelant dans les deux appels sous étude est celui d'un travailleur oeuvrant pour sa propre entreprise plutôt que celle de son employeur.
+[20] Il convient de se rappeler ce que la jurisprudence a établi dans des circonstances analogues à celles sous étude.
+[21] Dans l'arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., [2001] 2 R.C.S. 983, le juge Major, J.C.S., accepte l'opinion du juge MacGuigan lorsqu'il affirme dans l'arrêt Wiebe Door Services Ltd. précité :
+[TRADUCTION] [...] La meilleure chose à faire est d'étudier tous les facteurs qui ont été considérés dans ces causes comme des facteurs influant sur la nature du lien unissant les parties. De toute évidence, ces facteurs ne s'appliquent pas dans tous les cas et n'ont pas toujours la même importance. De la même façon, il n'est pas possible de trouver une formule magique permettant de déterminer quels facteurs devraient être tenus pour déterminants dans une situation donnée.
+[22] Le juge Major ajoute :
+[...] je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigation, [...] est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l'employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s'il engage lui-même ses assistants, quelle est l'étendue de ses risques financiers, jusqu'à quel point il est responsable des mises de fonds et de la gestion et jusqu'à quel point il peut tirer profit de l'exécution de ses tâches.
+[22] Par ailleurs, dans l'arrêt Standing c. Canada (ministre du Revenu national - M.R.N.), [1992] A.C.F. no 890, le juge Stone de la Cour d'appel fédérale s'est exprimé en ces termes :
+[...] Peu importe l'appréciation, par la Cour de l'impôt, du critère énoncé dans l'arrêt Wiebe Door, l'essentiel, tout compte fait, c'est que les parties elles-mêmes ont ensuite qualifié leur relation d'employeur-employé. Rien dans la jurisprudence ne permet d'avancer l'existence d'une telle relation du simple fait que les parties ont choisi de la définir ainsi sans égards aux circonstances entourantes appréciées en fonction du critère de l'arrêt Wiebe Door. [...]
+[23] Dans des circonstances analogues, le juge McArthur de cette Cour écrivait ce qui suit dans l'arrêt Mireault c. Canada (ministre du Revenu national - M.R.N.), [1996] A.C.I. no 636 :
+[...] Le contrôle exercé à l'endroit de l'entrepreneur indépendant ou autonome se situe au niveau du résultat et s'exprime généralement de façon sporadique et ponctuelle; il n'est jamais continu.
+[...]
+Or, dans le présent dossier, l'appelante avait le pouvoir de décider pour qui et quand elle voulait travailler. C'était son entreprise; elle était indépendante.
+[24] En examinant les faits sous le critère du contrôle, cette Cour s'est également inspirée de l'arrêt Charbonneau, supra, où le juge Marceau s'est exprimé de la façon suivante :
+La surveillance des travaux aux deux jours et le mesurage du volume aux quinze jours ne créent pas en l'espèce de lien de subordination et sont tout à fait compatibles avec les exigences d'un contrat d'entreprise. Rares sont les donneurs d'ouvrage qui ne s'assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Le contrôle du résultat ne doit pas être confondu avec le contrôle du travailleur.
+[25] L'appelant demande à cette Cour de renverser la décision du Ministre, mais l'analyse de la preuve recueillie, à la lumière des critères établis, ne justifie pas l'intervention de celle-ci.
+[26] L'appelant avait le fardeau de prouver, selon la prépondérance de la preuve, que les faits retenus par le Ministre étaient faux. Dans les deux dossiers sous étude, il ne s'est pas acquitté de cette tâche.
+[27] Dans ces circonstances, il convient de citer le passage du juge Pratte dans l'arrêt Elia c. Canada (ministre du Revenu national - M.R.N.), [1998]A.C.F. no 316 :
+Le juge, contrairement à ce qu'il a cru, aurait donc pu intervenir et aurait dû intervenir si, comme il l'a affirmé, la preuve révélait que la décision du Ministre était déraisonnable. Mais cette affirmation du juge nous paraît, elle aussi, inexacte et fondée sur une erreur de droit puisque le juge n'a pas tenu compte de la règle bien établie selon laquelle les allégations de la réponse à l'avis d'appel, où le Ministre énonce les faits sur lesquels il a fondé sa décision, doivent être tenus pour avérés aussi longtemps que l'appelant n'en a pas prouvé la fausseté.
+[28] Cette Cour doit conclure que les décisions prises par le Ministre dans ces deux appels sont bien fondées.
+[29] En conséquence, les appels sont rejetés et les décisions du Ministre rendues dans les deux dossiers sont confirmées.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 19e jour d'avril 2004.
+« S. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE :
+2004CCI278
+No DU DOSSIER DE LA COUR :
+2003-1395(EI), 2003-1394(EI)
+INTITULÉ DE LA CAUSE :
+Henri Guillemette et M.R.N.
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATE DE L'AUDIENCE :
+le 3 décembre 2003
+MOTIFS DE JUGEMENT PAR :
+L'honorable S.J. Savoie,
+juge suppléant
+DATE DU JUGEMENT :
+Le 19 avril 2004
+COMPARUTIONS :
+Pour l'appelant :
+Me Claude Traversy
+Pour l'intimé :
+Me Claude Lamoureux
+AVOCAT INSCRIT AU DOSSIER:
+Pour l'appelant :
+Nom :
+Me Claude Traversy
+Étude :
+Brulotte et Anctil
+Victoriaville (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

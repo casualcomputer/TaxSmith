@@ -1,0 +1,145 @@
+Title: Bremner v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27941/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-509-27941-bremner-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-08-28
+
+# Bremner v. The Queen
+
+- Citation: 2007 TCC 509
+- Decision date: 2007-08-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1724, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bremner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-08-28
+Neutral citation
+2007 TCC 509
+File numbers
+2004-1135(GST)I
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-1135(GST)I
+BETWEEN:
+CHARLES BREMNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 20, 2007, at Toronto, Ontario
+Before: The Honourable Gerald J. Rip, Associate Chief Justice
+Appearances:
+Counsel for the Appellant:
+Nigel Schilling, QC
+Counsel for the Respondent:
+Josh Hunter
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under Part IX of the Excise Tax Act for the period between March 1, 1999 and May 31, 2000, dated October 1, 2002 and bearing number 4437 is dismissed.
+Signed at Ottawa, Canada, this 28th day of August 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+Citation: 2007TCC509
+Date: 20070828
+Docket: 2004-1135(GST)I
+BETWEEN:
+CHARLES BREMNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, A.C.J.
+[1] The issue in this appeal is whether an assessment against Charles Bremner, dated October 1, 2002, made under subsection 323(4) of the Excise Tax Act ("Act"), was made more than two years after he ceased to be a director of Excel Highway Support Service Inc. ("Excel").
+[2] Excel failed in 2000 to remit net goods and services tax ("GST") as required under subsection 228(2) of the Act. In the Minister's view, Mr. Bremner, as the "de facto" director of Excel at the time Excel was required to remit the GST, is liable for the amount of GST and interest thereon and penalties pursuant to subsection 323(1) of the ETA.
+[3] Mr. Bremner admits that he was a "de facto" director and "deemed" director (as described by subsection 115(4) of the Ontario Business Corporations Act ("OBCA")) of Excel from the time Excel was incorporated in 1996 to September 1, 2000 and did not exercise the degree of care, diligence and skill to prevent Excel's failures to remit the amount of GST that a reasonably prudent person would have exercised in comparable circumstances: subsection 323(3) of the Act. He also admits that the Crown had obtained a certificate for the amount of Excel's liability in accordance with paragraph 323(2)(a) of the Act.
+[4] Mr. Bremner's sole defence is that the Minister of National Revenue ("Minister") was late in issuing the assessment on October 1, 2002. The issue before me, then, is whether Mr. Bremner ceased acting as a director of Excel and if so, did he stop acting as director of Excel before October 1, 2000.
+[5] Excel carried on the business of supplying drivers to businesses transporting goods by truck. The drivers were employees of Excel. Excel received fees from the trucking companies.
+[6] It is Mr. Bremner's position that Excel ceased carrying on business on September 1, 2000. The company started to close off its business on August 1, 2000 and by September 1st the business was "basically closed".
+[7] Excel's fiscal year end was November 30th. Mr. Bremner testified that no tax return had been filed by Excel for its 2000 and subsequent taxation years nor had Excel ever forwarded to the provincial authorities the names of its directors and officers.
+[8] According to Mr. Bremner, corporation, 1434736 Ontario Inc., owned by his son and carrying on business under the firm name "White Line", essentially took over Excel's business; Excel transferred all the drivers and their records to White Line. White Line "took over" the payroll.
+[9] Mr. Bremner said that he and his son agreed that his son's company would "absorb any subsequent payment" and it did so. White Line paid overdraft charges of $32.03 on Excel's account with the Oshawa Community Credit Union after September 22, 2000, the day Mr. Bremner said he actually closed the account. Also, payments of $2,000 each were credited to Excel's account with the tax authority on October 24, 2000, December 1, 2001 and February 9, 2001. It is not clear who paid this money; it was either White Line or Mr. Bremner personally. The money did not come from Excel.
+[10] The drivers working for Excel were paid weekly but were paid two weeks after the week of work, i.e., they were paid on the third week for work they performed during the first week. For this reason, Mr. Bremner explained, there were withdrawals from Excel's account at the credit union on September 1st, September 6th and September 13, 2000, dates on or after September 1, 2000 when Mr. Bremner said he closed Excel's business.
+[11] Once he gave up Excel, Mr. Bremner used another corporation to carry on a truck transport business from premises different from where Excel had operated.
+[12] When Excel was incorporated in 1996 its first shareholder and director was Gloria Oke, the maiden name of Mr. Bremner's spouse. Mr. Bremner was separated from Mrs. Oke at the time but they were still good friends. Mrs. Oke also used her married name. Mrs. Oke (or Mrs. Bremner) had nothing to do with the business, Mr. Bremner insisted. Mr. Bremner produced a photocopy of a letter, dated, April 4, 1997, from Mrs. Bremner resigning as director of Excel. Mrs. Bremner was not replaced as director.
+[13] The Crown questioned Mr. Bremner's credibility, as a result a letter dated April 10, 2001 that he wrote to the Canada Customs and Revenue Agency ("CCRA") reads:
+Please be advised that Excel Highway Support Services closed business in August 2000, we sent a letter to your Toronto office confirming this to Mrs. Vieneer.
+The company was owned by Ms. Gloria Oke from Brampton. Copies of articles of Incorporation attached.
+Please do not address correspondence to Mrs. Gloria Bremner as she is not or has not been affiliated with Excel Highway Support.
+I was employed as the Manager of Excel Highway and request that you change your records accordingly.
+[14] Specifically, the Crown alleges that Mr. Bremner has misled the CCRA to believe that Mrs. Oke and Mrs. Bremner are two persons.
+[15] I agree with the appellant that he was a director of Excel from the time Excel was incorporated since he managed and controlled all of the corporation's activities.
+[16] Excel was incorporated pursuant to the OBCA by Articles of Incorporation dated December 5, 1996. Subsection 1(1) of the OBCA defines the word "director" of a corporation incorporated by the OBCA as a person occupying the position of a director of a corporation by whatever name called. Where there is no director of an Ontario incorporated corporation for reason that the directors have resigned or have been removed and have not been replaced, subsection 115(4) of the OBCA designates the person who manages or supervises the management of the business and affairs of the corporation to be deemed to be a director of the corporation. Accordingly, since Mrs. Bremner resigned in 1997 and was not replaced, Mr. Bremner who managed the business and affairs of Excel, was a deemed director of Excel for purposes of the OBCA.
+[17] Mr. Bremner was also a "de facto" director of Excel from the time of its incorporation. A "de facto" director includes the "deemed" director described in the Ontario statute. He did everything a director is authorized and required to do even though he was not elected a director nor was he called a director. He was the sole shareholder of Excel and its actual director. As Noël J. notes in Wheeliker v. R.,[1] the corporations statutes (he was concerned with the Nova Scotia Companies Act) do not generally speak of "de jure" or "de facto" directors. "Rather [they use] the term director in various contexts, some of which suggest a reference to a director who is qualified to act as such under the [corporate statute], and others which refer to a person who in fact acts as such without being so qualified . . . .".
+[18] Noël J. then analyzed the rationale for the recognition of de facto directors:
+. . . It would be odd if those who breach the Act by acting as directors while not qualified thereunder would nevertheless have the status of director under the Act. As a matter of legislative intent, it seems unavoidable that only those who meet the requirements prescribed by the Act, are directors under the Act.
+In my view, the Act cannot be construed as giving those acting as directors without the requisite qualifications the status of director, nor can it be said that the common law has provided such individuals this status. What the courts have done over the years, however, is devise remedies to assist third parties who deal with persons who act as directors or who are held out by the company as directors although they lack the required qualification or authority.
+[Emphasis added.]
+. . .
+It being recognized in this instance that the respondents acted as directors, in conformity with the will of the shareholders, I see no reason why they should be allowed to assert their lack of qualification to escape the liability cast upon directors by virtue of section 227.1 of the ITA.
+Thus, while I would agree with the conclusion of the Tax Court judge that those acting as directors without having the requisite qualifications are not directors under the Act, I do not believe that the respondents can raise this lack of qualification as a defence to their liability under subsection 227.1(1) of the ITA.[2]
+[19] Thus, the majority in Wheeliker, supra, held that a person who has not obtained the requisite qualifications to be duly appointed as a director of a corporation is prevented from pleading this failure in order to escape liability attaching to a director. This principle has evolved from the need to assist third parties who deal with persons who act as directors although they lacked the required qualification or authority.
+[20] Neither the Act nor the Income Tax Act defines "director" for the purposes of the Income Tax Act; the corporation’s incorporating legislation must be examined. The Federal Court of Appeal in Wheeliker concluded that a person who has not been properly appointed under the applicable corporate law as a director or who has since effectively resigned from that office (i.e. a person who is not a de jure director of a company) can nevertheless be a director of that company if he or she performs the functions of a director of that company (i.e. a de facto director of the company). While these principles were discussed in the context of section 227.1 of the Income Tax Act, they apply equally to section 323 of the Act: see Mosier. v. R.,[3] Parisien v. Canada,[4] Thibeault v. R.,[5] and McDougall v. A. G. Canada.[6] The problem is that these cases do not guide us in determining how or when a de facto director ceases to be a director.
+[21] In The Queen v. Kalef,[7] the Court of Appeal found that, since the Income Tax Act is silent on when a director ceases to hold office, the Courts must examine the incorporating legislation. The implications of the finding in Kalef were discussed in Ciriello v. Canada:[8]
+40 The Federal Court of Appeal allowed the Crown's appeal from this court in Kalef. The Court of Appeal reviewed the domestic corporate statute under which the subject corporation was incorporated. Subsection 121(1) of the Ontario Business Corporations Act states that a director of a corporation ceases to hold office on death or resignation, removal or disqualification. The Income Tax Act, like the Excise Tax Act, is silent as to when a person ceases to be a director and therefore one must refer to the incorporating statute. The Court of Appeal held that Mr. Kalef did not cease to be a director by virtue of the appointment of a trustee in bankruptcy and did not meet any of the requirements for ceasing to be a director established by the Ontario Business Corporations Act. Therefore, the time limit found in subsection 227.1 of the Income Tax Act did not bar the reassessment against Mr. Kalef.
+41 In Wheeliker v. The Queen, the Federal Court of Canada relied on Kalef and stated that there was no need to look at common law because statutory law determined when a person ceased to be a director.
+42 A corporation continues to exist when it makes an assignment in bankruptcy or is petitioned in bankruptcy and a trustee in bankruptcy is appointed. The directors may no longer be operating the bankrupt corporation but they are still directors.
+[22] The law is quite clear that a de jure director does not cease to hold that office merely because the company ceases commercial operations.[9] The rationale is simple: the cessation of business operations does not deprive directors of the powers granted to them under the corporation legislation and, as such, does not relieve them from the corresponding obligations and responsibilities.
+[23] In Mosier, supra, Bowman J. (as he then was) considered, in obiter, the question of when a director ceases to be a de facto director and stated:
+The final question is whether, if the appellant was a de facto director, he ceased to be one over two years before the assessment on September 18, 1995. How does one cease being a de facto director? Of course you cannot cease being what you were not in the first place, but accepting for a moment the Crown's hypothesis that he was at some point a de facto director, is it enough to throw the keys on the table and say "I quit" and walk out and then sign a resignation as president?
+I think it is. These are not mere theatrical gestures signifying nothing. They were intended to mean something. A de jure director might have to have his or her resignation accepted by the board but I know of nothing in corporate law that would impose such a requirement on a de facto director. Both the throwing of the keys, which occurred in late April or early May 1993 and the signing and delivery of the resignation on July 22, 1993 were well outside the two year period before the date of the assessment. The Crown argues however that these acts were mere histrionic window dressing, because even after July 22, 1993 the appellant went on merrily signing cheques: plus ça change, plus c'est la même chose. I do not think this in itself proves he remained a de facto director right up to the bankruptcy assuming he ever was one.
+[Emphasis added.]
+[24] The general rule for de jure directors is that the director does not cease to be a director merely because commercial operations end. The corporation continues to exist even though its commercial activities have ended. Counsel for the respondent argued that "there is no reason why a de facto director, who has voluntarily chosen to hold himself out as a director to third parties, should be able to avoid liability on more favourable terms than a de jure director". This argument is quite persuasive. Paul Martel in Business Corporations in Canada – Legal and Practical Aspects looseleaf[10] equates the liabilities of de facto and de jure directors at paragraph 21-16:
+A director who acts as such when the required formalities have not been fully complied with or who continues to act as a director notwithstanding the fact that he has resigned from his position is a de facto director subject to the same liabilities as de jure directors.
+As the term implies, a de facto director is considered to be a director if he acts as such by doing acts normally reserved for directors; for example, participating in board meetings, signing board resolutions, making or participating in administrative decisions or decisions to sell, giving instructions in the name of the corporation, representing to third parties that he is a director, etc.
+[Emphasis added.]
+[25] Moreover, there does not appear to be a general corporate law principle or a specific proposition enunciated by our Courts to restrict the liability of a de facto director.
+[26] There is no fixed rule to determine when a de facto or a "deemed" director ceases to be a director. However, to paraphrase Mr. Justice Potter Stewart, one may know when a person ceases to be a director when one sees it. The course of conduct of the person is important.[11] There will be something missing in the relationship between the individual and the corporation. As any director, a de facto or a "deemed" director will cease to be a director when the shareholders elect his or her replacement or if he or she resigns. Until that time a director remains in office. A de facto and a "deemed" director may also cease to be a director by giving notice to the corporation and actually stop managing or supervising the management of the company. In the appeal at bar the director's bond between Mr. Bremner and Excel was not broken. I acknowledge that it may be difficult for a person who is the only shareholder of a corporation to divorce himself or herself from activities normally carried on by a director but if that person is performing functions of a director, he or she is a director. In the appeal at bar, the following facts, for example, favour a finding that Mr. Bremner continued to be a de facto director after September 1 and into October, 2000: he was the sole shareholder of Excel and the only person who has ever managed and supervised Excel; there is no evidence that he informed third parties, creditors or others, except perhaps his son, who did not testify, that he was no longer holding himself out as a director of Excel; and he continued acting for Excel after September 2000; for example, payments were made on behalf of Excel against its GST arrears.
+[27] In his letter of April 10, 2001, Mr. Bremner informed the tax authority that he "was" employed by Excel as manager and requested that the CCRA correct its records. The fact that he wrote to the tax authority suggests that he was still managing or supervising the management of Excel's actions, however minimal such actions may have been.
+[28] Mr. Bremner held himself out as director of Excel, even if not called director, and continued to be a de facto director after September 30, 2000. The fact that Excel ceased to carry on business in August is not really relevant. Directors of corporations have duties that survive the cessation of the business previously carried on. Mr. Bremner took it upon himself to arrange for the orderly winding-up of the company's business and its affairs that continued into October 2000.
+[29] The appeal is dismissed.
+Signed at Ottawa, Canada, this 28th day of August 2007.
+"Gerald J. Rip"
+Rip A.C.J.
+CITATION: 2007TCC509
+COURT FILE NO.: 2004-1135(GST)I
+STYLE OF CAUSE: CHARLES BREMNER v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 20, 2007
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Associate Chief Justice
+DATE OF JUDGMENT: August 28, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Nigel Schilling, QC
+Counsel for the Respondent:
+Josh Hunter
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Nigel Schilling, QC
+Firm: Schilling, Evans
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 99 DTC 5658 (FCA), para. 9, [1999] F.C.J. No. 401 (QL) at paras. 59-60.
+[2] Wheeliker, supra, at paras. 16-20.
+[3] [2001] T.C.J. No. 692 (QL).
+[4] 2004 TCC 276 (TCC) (Informal Procedure), [2004] T.C.J. No. 168 (QL).
+[5] 2005 TCC 393, [2005] T.C.J. No. 300 (QL).
+[6] 2002 DTC 7582 (FCA).
+[7] 96 DTC 6132 (FCA); leave to appeal refused (1996), 204 N.R. 400 (SCC).
+[8] [2000] T.C.J. No. 829 (QL).
+[9] See Nagy et al. v. M.N.R., 91 DTC 993 at 997; Dufour v. Canada, 2005 TCC 9 (Informal Procedure) at para. 4, [2005] T.C.J. No. 15 (QL).
+[10] Toronto: Carswell, 2004.
+[11] Boivin v. R., [2003] G.S.T.C. 30, [2003] T.C.J. No. 47 (QL) and Parisien, supra.

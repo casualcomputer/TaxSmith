@@ -1,0 +1,190 @@
+---
+title: "1517719 Ontario Ltd. (Experience Works) v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29758/index.do"
+last_modified: "2008-10-27"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 687"
+citation2: ""
+neutral_citation: "2008 TCC 687"
+decision_date: "2008-10-27"
+language: "en"
+item_id: "29758"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6504
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T23:42:28.706000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d4155a40ceb911306ae045e8b55a96cd665230021d5c2c532187f33000f93509"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1517719 Ontario Ltd. (Experience Works) v. M.N.R.
+
+- Citation: 2008 TCC 687
+- Decision date: 2008-10-27
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6504, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1517719 Ontario Ltd. (Experience Works) v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-10-27
+Neutral citation
+2008 TCC 687
+File numbers
+2007-4469(CPP)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Citation: 2008 TCC 687
+2008 TCC 688
+Docket: 2007-4469(CPP);
+2007-4468(EI)
+BETWEEN:
+1517719 ONTARIO LTD. O/A EXPERIENCE WORKS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of my Reasons for Judgment delivered orally from the Bench at Toronto, Ontario, on October 27, 2008, be filed.
+“N. Weisman”
+Weisman D.J.
+Signed in Toronto, Ontario, this 9th day of January 2009.
+Court File Nos. 2007-4469(CPP)
+2007-4468(EI)
+TAX COURT OF CANADA
+IN RE: The Canada Pension Plan Act
+and The Employment Insurance Act
+BETWEEN:
+1517719 Ontario Ltd. OPERATING AS Experience Works
+Appellant
+- and -
+THE MINISTER OF NATIONAL REVENUE
+Respondent
+* * * * *
+DECISION WITH REASONS
+HEARD BEFORE JUSTICE WEISMAN
+at the Courts Administration Service, 180 Queen Street West,
+Toronto, Ontario
+on Monday, October 27th, 2008 at 9:42 a.m.
+* * * * *
+APPEARANCES:
+Mr. Davorin Jurovicki for the Appellant
+Ms. Samantha Hurst for the Respondent
+A.S.A.P. Reporting Services Inc. 8 (2008)
+Suite 1105, 200 Elgin Street Suite 1800, 130 King Street West
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+Toronto, Ontario
+--- Upon commencing the Decision with Reasons on
+Monday, October 27th, 2008 at 3:25 p.m.
+JUSTICE WEISMAN: I have heard appeals against decisions by the respondent Minister of National Revenue that the Appellant is responsible for Employment Insurance premiums and Canada Pension Plan contributions for a number of workers listed in Schedule B, and I think I can now give you the number; yes. It looks like we are down to 54, there being six people who are incorporated. So we are now talking about 54 workers.
+For clarity's sake, of the people listed in Schedule B of the Minister's Reply, the appeal has been withdrawn with reference to four, being Peter Bandi, David Mick, Surjit Purewal and Melissa Schofield; and conversely, the appeals have been allowed on consent of the Minister with reference to Renato Chiappe, Paul Wilfred Gascoigne, Jeyabalan Gunasingam, Kamal Hamzic, Anton Milanov, and Mark Scanion. That brings me to 54.
+For the record, notwithstanding the fact that it came out rather late in the trial that all these workers are not exactly equal because some were paid on an hourly basis if they work in the city, and others were paid on a mileage basis because they were on the highway, and some have expenses that others do not have, all counsel and representatives have agreed that I am to treat them equally on the evidence I have heard.
+The Minister, in making his assessments, relied on Regulation 6(g) under the Employment Insurance Act and Regulation 34(1) under the Canada Pension Plan. Starting with reference to the Employment Insurance Act and whether these appeals should be allowed or dismissed with reference to that, because there are quite different considerations between the Act and the Plan, we have the first issue as to whether or not the Act in 6(g) applies to independent contractors. That is important, because many appellants assume that independent contractors are free of employer contributions and only employees have to be honoured with a payer's portion.
+But there is jurisprudence that is quite clear, and it is adverted to by Counsel for the Minister, a case called Sheridan v. M.N.R., which is cited at [1985] F.C.J. No. 230 in the Federal Court of Appeal. In construing the predecessor section to section 6(g), which is 12(g), which has identical wording, it found that nurses placed by an appellant agency in employment in hospitals which were its clients, were in insurable employment, even though they had no contract of service either with the agency or with the hospital.
+In OLTCPI Inc. v. M.N.R., [2008] T.C.J. No. 359, I said I could see no material difference between nurses and dieticians, and in the case before me, I can see no material difference between nurses and these truck drivers.
+The important issues in order to decide whether the Appellant is responsible for employment insurance premiums, is whether or not it fits into 6(g) of the Regulations, and that requires four things: that it be a placement agency, and it was clearly admitted by Mr. Murphy that, yes, the Appellant is an employment agency.
+Next, there has to be a placement of workers by the agency with its clients, and that again was admitted by the Appellant.
+The third requirement is that these workers be placed under the direction and control of the client of the agency. That takes a little discussion, so I will dispose of the fourth one before I go back to the third one.
+There has to be remuneration by the agency. In this case, it is admitted that it was the agency who remunerated these drivers, and then the money, with a mark-up, was billed back to the client.
+As far as direction and control is concerned, I have to differentiate between what happens before the worker accepts the assignment, from the situation where the assignment is not accepted at all. I raise that because in this case the evidence is clear that both types of worker had this freedom to accept or reject assignments, in town or out.
+When you come to a placement agency, the Acts talk about what happens once the worker is placed, which presupposes that they accepted the placement. So, in all these cases in which the placements were accepted and the trucks were driven, the question is: Did the client have direction and control of these people who were placed with them and who accepted the placement? The evidence that I have heard indicates that there was direction and control. These drivers had to take a direct route to their destination, and if they wasted gas, they were responsible at their own expense for replacing it. They were told where and what to deliver.
+The client owned the truck. This is relevant not only to who owns the tools, but the jurisprudence seems to indicate it is a matter of control, because if the client owns the truck, then the client has the right as the owner to say how that truck is to be used. It is a little different if the worker owns the truck. So the fact that the client of the agency, the Appellant, owned the truck goes to control and fortifies the conclusion that there was direction and control.
+To summarize, there are four requirements under Regulation 6(g) of the Employment Insurance Act. All four have been satisfied by the Minister that indeed these truck drivers retained by the Appellant, even though they may be independent contractors, are brought into the scheme of the Employment Insurance Act by Regulation 6(g), and therefore with reference to the 54 workers, I find that the appeal has to be dismissed.
+Let us see if it makes any difference under the Canada Pension Plan. There is a difference, and I can read what Regulation 34(1) says. It is a little lengthy:
+"Where any individual is placed by a placement or employment agency in employment with or for performance of services for a client of the agency and the terms or conditions on which the employment or services are performed and the remuneration thereof is paid constitute a contract of service or are analogous to a contract to a contract of service, the employment or performance of services is included in pensionable employment and the agency or the client, whichever pays the remuneration to the individual, shall, for the purposes of maintaining records and filing returns and paying, deducting and remitting contributions payable by and in respect of the individual under the Act and these Regulations, be deemed to be the employer of the individual." (as read)
+In other words, my function is to review the evidence and see if the terms or conditions under which these truck drivers were working constituted a contract or service or were analogous thereto.
+In order to resolve this question, I must examine the total relationship of the parties and the combined force of the whole scheme of operations, and to this end, the evidence has to be subjected to the four-in-one test laid down as guidelines by Lord Wright, in Montreal City v. Montreal Locomotive Works Ltd. et al., and that is cited at [1947] 1 D.L.R. 161, and adopted by Justice MacGuigan in Wiebe Door Services v. M.N.R., which is cited at (1986), 87 DTC 5025 in the Federal Court of Appeal.
+The four guidelines are the payer's control over the worker; whether the worker or the payer owns the tools required to fulfill the worker's function; the worker's chance of profit; and risk of loss in his or her dealings with the payer.
+Starting with the element of control. In analyzing this case as it pertains to the Regulations under the Employment Insurance Act, I found that there was clearly direction and control and it is no different here, under the Plan, which indicates that the truck drivers were employees.
+As far as the tools are concerned, I note that the main tool, the truck, was provided by the client of the Appellant, and not the Appellant itself. But that mainly goes to control, as I have already said, because he who owns the truck has the right to control how it is to be used. It was argued today by the Minister that this truck was such an important tool that that would weigh heavily in favour of, again, these people being employees.
+The problem is that there is a case called Precision Gutters Ltd. v. M.N.R. in the Federal Court of Appeal, and Precision Gutters is cited at [2002] F.C.J. No. 771, and it is a case where the company was making eavestroughing, and the installers had their usual hammers, or whatever, but a very large, very expensive machine that took raw aluminum and formed it into eavestroughs and downspouts, that was owned and provided by the payer. The Court of Appeal says:
+"It has been held that if the worker owns the tools of the trade which it is reasonable for him to own, this test will point to the conclusion that the individual is an independent contractor even though the alleged employer provides special tools for the particular business." (as read)
+I think that is exactly what we are talking about. In this case, I have evidence that there were the usual tools provided by the truck driver, such as his aids to navigation, maps and GPS, safety goggles, safety boots, hard hats and gloves. So I think this fits, as I said, into Precision.
+We have here workers who are providing the usual tools required, and that tends to point to their being independent contractors. So control points to their being employees; tools points to their being independent contractors.
+Now we get to the chance of profit. We have workers working in the city at $17 an hour, and we have workers driving on the highways at some undisclosed sum per mile. I note, first of all, these rates were not negotiated, which is something that independent contractors normally do. They were set by the Appellant. That was the testimony of the president. That non-negotiation of rates tends to indicate that the person is an employee, but that is not the end of the chance of profit story, because all these people, wherever they worked, in town or out, did not have to work exclusively for the Appellant; they were free to go where they could get the best money. And this, in fact, is why the Appellant pays 70 per cent of the benefit plans, as an incentive to have these people stay loyal to the Appellant.
+My conclusion from that is that both categories of worker had an opportunity to profit from sound management. They could choose to go wherever they could get the highest rate of return. In the one case of Amir Kilic, the evidence is that he only had 20 per cent of his income from the Appellant. In his case, it was very clear that he could profit by sound management. Therefore, on balance, even though there is that one factor that tends to make it look like these people could be employees, on balance the chance of profit factor indicates that they are independent contractors.
+Now we get to the risk of loss. This is the main difference, if any, between people who work per hour in the city and those who work per mile on the highway, in that the expenses are different and therefore it may make a difference in the risk of loss. There were these expenses the people on the highway incurred, navigational aids, maps and GPS, safety goggles, boots and hard hats and gloves, and out-of-town expenses for food and accommodation.
+I note that the people in the city may need some sort of a city map. I doubt that a GPS is as necessary in the city as it is on the highway, but nevertheless, I guess this city is big enough that a GPS would not be a completely useless instrument. So I find that the expenses are comparable, except for the out-of-town expenses for food and lodging incurred by those who are on the highways. Also, the drivers in and out were responsible for minor damages to the truck and the cost of wasted fuel if they took the wrong route and otherwise got lost.
+But the evidence did not satisfy me that these expenses were significant. There is a difference between fixed and variable expenses, as the accountants here well know, and if one has fixed expenses, they run on whether or not the person is working. The variable expenses are only incurred when one is on the job. The only fixed expenses that I see were these pieces of safety equipment, which did not add up to a lot of money. The hotels and food were only incurred if they were on the job on the highway and earning money. The number of times that there was minor damages to trucks, I did not hear evidence that that was a significant risk of loss.
+The other thing that was relevant to me is that if one has the freedom to decline jobs, that surely cuts down their risk of loss, because they can simply turn down those jobs that did not sound like they were attractive because there was a long period out of town, and therefore a lot of hotels and a lot of meals. So I did not find that there was a significant risk of loss with either category of worker, and therefore the risk of loss factor, in my view, indicated that these workers were employees. Of course, the hourly workers had even less expenses and therefore even less risk of loss.
+I want to advert briefly to this right to refuse assignments, which seems to be getting increasing attention and importance in the jurisprudence. If one has the right to refuse an assignment, the law seems to be that that indicates independence, as opposed to subordination and control which indicates that the person is an independent contractor. And, in addition, it goes to profit and loss. Again I would refer you to Precision Gutters, where the court said:
+"In my view, the ability to negotiate the terms of a contract entails a chance of profit and risk of loss in the same way that allowing an individual the right to accept or decline to take a job entails a chance of profit and risk of loss." (as read)
+That is the Federal Court of Appeal, setting down the significance of one's right to turn down a job; it goes not only to control, but to profit and loss.
+That is the usual case, but the case before me is a little different, and I have already talked about this, because we are not dealing with people who accept or turn down jobs. We are talking about people who have already accepted a placement, and so they are a little different. If that is not clear, I can hope to make it clearer.
+The Court of Appeal is mainly talking about people who, when they are offered a job, either take it or do not. But here we have people who have been placed by a placement agency, and they have accepted that placement, which is what I was saying earlier, and in my view that is a little different.
+Under both Regulations 34(1) and 6(g) there is an assumption that the placement has been accepted, and once accepted, the question is whether the worker is under the direction and control of the client. Here, except for those factors that I have talked about, the right to refuse a project will mitigate expenses, but when it comes to the right to refuse projects generally, it is excluded from this analysis. It does not fit into the same category as Precision Gutters, because as I have said more than once, the project has already been accepted when someone accepts a placement by a placement agency.
+Now we are in a position where the control factor indicates that these people were employees, the tools factor that they were independent contractors, the chance of profit that they are independent contractors, and the risk of loss that they are employees. There are two on one side and two on the other.
+Which brings us to The Royal Winnipeg Ballet v. M.N.R., [2006] F.C.J. No. 339 in the Federal Court of Appeal. The Federal Court of Appeal in Royal Winnipeg Ballet gives me direction as to what I am to do in these circumstances. As I indicated in Logitek Technology Ltd. v. M.N.R., [2008] T.C.J. No. 309, while the common intention of the parties that a worker be an independent contractor in their working relationship is not determinative of its legal nature, Royal Winnipeg Ballet offers the following guidance as to its relevance. It is paragraph 81 of Royal Winnipeg Ballet:
+"… what the Tax Court judge should have done was to take note of the uncontradicted evidence of the parties' common understanding that the workers should be independent contractors and then consider, based on the Wiebe Door factors, whether that intention was fulfilled." (as read)
+In this case, the Wiebe Door factors are not determinative, and we have cases such as Wolf v. Canada that offer guidance that the intention of the parties takes on greater significance when the four-in-one or Wiebe Door factors do not produce conclusive results. Wolf v. Canada, by the way, is [2002] 4 F.C. 396 in the Federal Court of Appeal.
+Here, we have very clear evidence that the common intention of the parties is that these people be independent contractors, which resolves the issue, because the Wiebe Door factors are equivocal.
+That leads to the conclusion that I have to allow the appeals under the Canada Pension Plan, that the terms or conditions under which these workers, both within and without the city, who were working were not analogous to a contract of service.
+Finally, I need to address myself to the assumptions in the Minister's Reply in the Notice of Appeal. They present difficulties which I have already alluded to, but quite often -- and to a certain extent in this case, which is why I mention it -- the assumptions may be true, but they are not probative of anything germane.
+For instance, here we have assumption 9(d), that Mr. Murphy is the sole shareholder. That is surely nothing that can be rebutted by the Appellant, and I have seen many replies -- and this one fits a good deal into the category of replies where you cannot rebut any of the assumptions, because they are true; but they are not probative of the four Wiebe Door factors or they do not go into whether or not this employment is analogous, and that creates problems because the Minister can say, the assumptions have not been demolished. I am afraid that is not good enough.
+In this case, I think the only assumption that was really demolished was 9(n), having to do with the expenses, whether the workers have expenses. All the rest of them, even though they were not demolished, they were not conclusive. So I would think that I have heard sufficient new facts, or the facts were not very sufficiently assessed or correctly assessed by the Minister when he was dealing with known facts with reference to the Canada Pension Plan, that I conclude that his decision was objectively unreasonable, whereas under the Employment Insurance Act I found it objectively reasonable.
+That is all I have to say.
+I appreciate your assistance. We have a split result, which is quite unusual.
+--- Whereupon the excerpt concludes.
+I HEREBY CERTIFY THAT I have, to the best
+of my skills and abilities,
+accurately recorded and transcribed therefrom,
+the foregoing proceeding.
+Catherine Keenan, Computer-Aided Transcription
+CITATION:
+2008 TCC 687
+2008 TCC 688
+COURT FILE NOS.:
+2007-4469(CPP)
+2007-4468(EI)
+STYLE OF CAUSE:
+1517719 Ontario Ltd. o/a Experience Works
+and The Minister of National Revenue
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 27, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable N. Weisman, Deputy Judge
+DATE OF ORAL JUDGMENT:
+October 27, 2008
+APPEARANCES:
+Agent for the Appellant:
+Davorin Jurovicki
+Counsel for the Respondent:
+Samantha Hurst
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

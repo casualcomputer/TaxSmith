@@ -1,0 +1,187 @@
+Title: Inco Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28342/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-373-28342-inco-limited-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2004-05-31
+
+# Inco Limited v. The Queen
+
+- Citation: 2004 CCI 373
+- Decision date: 2004-05-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1927, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Inco Limited v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-31
+Référence neutre
+2004 CCI 373
+Numéro de dossier
+2002-2695(IT)G
+Juges et Officiers taxateurs
+Alexander A. Sarchuk
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2695(IT)G
+ENTRE :
+INCO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Détermination d’une question en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale), entendue le 25 septembre 2003, à Toronto (Ontario)
+Devant : L’honorable juge A.A. Sarchuk
+Comparutions :
+Avocats de l’appelante :
+Mes Al Meghji et Gerald Grenon
+Avocat de l’intimée :
+Me Luther P. Chambers
+____________________________________________________________________
+ORDONNANCE
+Vu la demande présentée par l’appelante en vertu de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale) en vue de la détermination d’une question;
+et après avoir entendu les avocats des parties;
+La Cour statue que, pour les motifs ci‑joints, le ministre n’a pas déterminé les pertes de 321821 B.C. Ltd. dont il est fait état dans la lettre du 4 juillet 1997, de sorte que l’appelante peut déduire dans son année d’imposition 2000 les pertes autres qu’en capital que 321821 B.C. Ltd a subies dans son année d’imposition 1999, conformément aux alinéas 88(1.1)c) et 111(1)a) de la Loi de l’impôt sur le revenu.
+Les dépens seront fixés à la discrétion du juge du procès.
+Signé à Ottawa, Canada, ce 31e jour de mai 2004.
+« A.A. Sarchuk »
+Juge Sarchuk J.
+Traduction certifiée conforme
+ce 26e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2004CCI373
+Date : 20040531
+Dossier : 2002-2695(IT)G
+ENTRE :
+INCO LIMITED,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Sarchuk
+[1] La Cour est saisie d’une demande relative à la détermination d’une question de droit aux termes de l’article 58 des Règles de la Cour canadienne de l’impôt (procédure générale). La question en litige est la suivante :
+[traduction]
+[…] si le ministre a déterminé les pertes de 321821 B.C. Ltd. (« 321821 ») dont il est fait état dans la lettre du 4 juillet 1997, de sorte que l’appelante peut déduire dans son année d’imposition 2000 les pertes autres qu’en capital que 321821 a subies dans son année d’imposition 1996, conformément aux alinéas 88(1.1)c) et 111(1)a) de la Loi de l’impôt sur le revenu.
+[2] Les allégations de fait suivantes ne sont pas contestées :
+[traduction]
+a) Le 21 août 1996, l’appelante a acquis la totalité des actions émises et en circulation de 321821 B.C. Ltd. (« 321821 », autrefois Diamond Field Resources Inc.), une société de la Colombie‑Britannique.
+b) Aussitôt après avoir acquis les actions de 321821, l’appelante a décidé, par une résolution datée du 21 août 1996, de liquider 321821 et elle a entrepris le processus de liquidation de cette dernière en l’absorbant. La liquidation s’est soldée par la dissolution de 321821 le 11 décembre 2001.
+c) Du fait de la liquidation de 321821, toutes les pertes autres qu’en capital de cette société pour ses années d’imposition prenant fin le 30 juin 1996 et le 21 août 1996 seraient réputées par l’alinéa 88(1.1)c) de la Loi être des pertes autres qu’en capital de l’appelante pour son année d’imposition se terminant le 31 décembre 1996. L’appelante pourrait ainsi disposer de ces pertes autres qu’en capital pour les déduire dans le calcul de son revenu imposable pour les années d’imposition prenant fin après le 31 décembre 1996.
+d) Par deux lettres distinctes, datées du 23 mai 1997 et destinées au Bureau des services fiscaux de Vancouver, 321821 a demandé que le ministre du Revenu national (le « ministre ») détermine ses pertes autres que des pertes en capital pour ses années d’imposition prenant fin le 30 juin 1996 et le 21 août 1996, respectivement.
+e) Le Centre fiscal de Surrey a répondu à 321821 par une lettre portant la date du 4 juillet 1997; la ligne d’objet de cette lettre indiquait ce qui suit : « Objet : Votre demande datée du 23 mai 1997 » (la « lettre »), et le corps de la lettre comportait ceci :
+« Nous donnons suite à votre lettre dans laquelle vous nous demandez de vous indiquer les pertes autres qu’en capital que la compagnie pourra déduire de son revenu imposable pour les années à venir. C’est avec plaisir que nous vous fournissons les renseignements suivants pour vos dossiers :
+Année d’origine
+Montant disponible
+Solde reporté
+1993
+144 137,00 $
+144 137,00 $
+1994
+2 450 430,00
+2 594 567,00
+1996 (30/06)
+65 684 989,00
+68 279 556,00
+1996 (21/08)
+131 933 429,00
+200 212 985,00
+Nous espérons que ces renseignements sauront vous être utiles. »
+[3] Le montant des pertes indiqué comme disponible dans la lettre est identique à celui des pertes indiquées dans les déclarations de revenus de 321821 pour ses années d’imposition prenant fin le 30 juin 1996 et le 21 août 1996.
+Les dispositions législatives applicables
+[4] Les dispositions législatives applicables de la Loi de l’impôt sur le revenu sont les suivantes :
+152(1.1) Lorsque le ministre établit le montant de la perte autre qu’une perte en capital, de la perte en capital nette, de la perte agricole restreinte, de la perte agricole ou de la perte comme commanditaire subie par un contribuable pour une année d’imposition et que le contribuable n’a pas déclaré ce montant comme perte dans sa déclaration de revenu pour cette année, le ministre doit, à la demande du contribuable et avec diligence, déterminer le montant de cette perte et envoyer un avis de détermination à la personne qui a produit la déclaration.
+152(1.2) Les alinéas 56(1)l) et 60o), la présente section et la section J, dans la mesure où ces dispositions portent sur une cotisation ou une nouvelle cotisation ou sur l’établissement d’une cotisation ou d’une nouvelle cotisation concernant l’impôt, s’appliquent, avec les adaptations nécessaires, aux montants déterminés ou déterminés de nouveau en application de la présente section, y compris ceux qui sont réputés par les articles 122.61 ou 126.1 être des paiements en trop au titre des sommes dont un contribuable est redevable en vertu de la présente partie. Toutefois, les paragraphes (1) et (2) ne s’appliquent pas aux montants déterminés en application des paragraphes (1.1) et (1.11), étant entendu que le montant d’une perte autre qu’une perte en capital, d’une perte en capital nette, d’une perte agricole restreinte, d’une perte agricole ou d’une perte comme commanditaire subie par un contribuable pour une année d’imposition ne peut être initialement déterminé par le ministre qu’à la demande du contribuable.
+152(1.3) Il est entendu que lorsque le ministre détermine le montant d’une perte autre qu’une perte en capital, d’une perte en capital nette, d’une perte agricole restreinte, d’une perte agricole ou d’une perte comme commanditaire subie par un contribuable pour une année d’imposition ou détermine un montant en application du paragraphe (1.11) en ce qui concerne un contribuable, le montant ainsi déterminé lie à la fois le ministre et le contribuable en vue du calcul, pour toute année d’imposition, du revenu, du revenu imposable ou du revenu imposable gagné au Canada du contribuable ou de l’impôt ou d’un autre montant payable par le contribuable ou d’un montant qui lui est remboursable, sous réserve des droits d’opposition et d’appel du contribuable à l’égard du montant déterminé et sous réserve de tout montant déterminé de nouveau par le ministre.
+152(4) Le ministre peut établir une cotisation, une nouvelle cotisation ou une cotisation supplémentaire concernant l’impôt pour une année d’imposition, ainsi que les intérêts ou les pénalités, qui sont payables par un contribuable en vertu de la présente partie ou donner avis par écrit qu’aucun impôt payable pour l’année à toute personne qui a produit une déclaration de revenu pour une année d’imposition. Pareille cotisation ne peut être établie après l’expiration de la période normale de nouvelle cotisation applicable au contribuable pour l’année que dans les cas suivants […][1].
+La position de l’appelante
+[5] En bref, l’appelante soutient que la position de l’intimée repose sur deux prémisses erronées :
+a) les pertes ne peuvent être déterminées par le ministre qu’en vertu du paragraphe 152(1.1) de la Loi;
+b) étant donné que le paragraphe 152(1.1) s’applique uniquement après que le ministre a établi que le montant des pertes du contribuable est différent de celui que ce dernier a déclaré, d’un point de vue technique aucune détermination présumée de la part du ministre ne peut être une « détermination » en droit, sauf si le ministre a conclu que les pertes du contribuable sont différentes de celles que ce dernier a déclarées.
+L’appelante dit de plus que le fondement de la position de l’intimée est erroné et que :
+a) le ministre peut aussi déterminer des pertes en vertu des paragraphes 152(1.2) et (4) de la Loi, à la condition que le contribuable ait demandé que ses pertes soient déterminées;
+b) les paragraphes 152(1.2) et (4) prévoient qu’il peut y avoir détermination des pertes lorsque le ministre n’a pas établi que les pertes et les montants du contribuable diffèrent des montants que celui‑ci a déclarés, à la condition que le contribuable en ait fait la demande. Il n’est pas contesté que l’appelante avait demandé que le ministre détermine ses pertes.
+[6] Au dire de l’appelante, le régime créé par la Loi pour les déterminations de pertes qu’effectue le ministre comporte deux volets. Le paragraphe 152(1.1) est le premier de ces volets. Les déterminations de pertes effectuées sous ce volet sont « obligatoires », car le paragraphe 152(1.1) exige que le ministre, à la demande du contribuable, détermine les pertes de ce dernier dans le cas où, notamment, il établit que le montant de ces pertes diffère de celui que le contribuable a inscrit dans sa déclaration. Cependant, selon l’appelante, les paragraphes 152(1.2) et (4) forment un second volet, que les avocats qualifient de [traduction] « déterminations autorisées », lesquelles autorisent de façon non équivoque le ministre, mais sans l’exiger, à procéder à une détermination même si le montant que le contribuable a déclaré est différent de celui que le ministre a déterminé. Selon l’appelante, cela est dû au fait que les mots « la présente section », au paragraphe 152(1.2), désignent la section I de la Loi, intitulée « Déclarations, cotisations, paiement et appels ». Comme le paragraphe 152(4) fait également partie de la section I, le paragraphe 152(1.2) a pour effet que le paragraphe 152(4) s’applique lui aussi aux déterminations et aux nouvelles déterminations des pertes[2]. Étant donné que le paragraphe 152(4) confère au ministre le pouvoir discrétionnaire d’établir des cotisations, c’est donc dire qu’il confère de la même façon au ministre, avec les adaptations nécessaires, le pouvoir discrétionnaire d’établir une détermination de pertes, sous réserve uniquement de la disposition figurant au paragraphe 152(1.2), à savoir que le montant d’une perte ne peut être initialement déterminé qu’à la demande du contribuable.
+[7] En réponse à l’argument de l’intimée selon lequel toutes les pertes doivent être déterminées en vertu du paragraphe 152(1.1), les avocats de l’appelante ont fait valoir que si les déterminations initiales ne peuvent être effectuées qu’en vertu de cette disposition‑là, la stipulation figurant au paragraphe 152(1.2), à savoir que le montant d’une perte ne peut être initialement déterminé qu’à la demande du contribuable, serait redondante. Cette redondance irait à l’encontre du principe voulant que tous les mots d’une loi doivent recevoir un sens[3]. Plus précisément, la redondance découle du fait que le texte du paragraphe 152(1.1) prescrit déjà que le montant d’une perte ne sera déterminé, en vertu de cette disposition, qu’« à la demande du contribuable ». Si cette disposition n’était que la seule en vertu de laquelle une détermination initiale pouvait être faite, comme le soutient l’intimée, il n’aurait donc pas été nécessaire d’ajouter au paragraphe 152(1.2) une stipulation additionnelle prescrivant que le montant d’une perte ne peut être initialement déterminé qu’à la demande du contribuable. Les avocats ont souligné par ailleurs que la restructuration du paragraphe 152(1.2) de la Loi, en 1998, a fait ressortir encore plus clairement cette redondance. Avant cette restructuration, la stipulation selon laquelle une détermination initiale ne pouvait être faite qu’à la demande du contribuable figurait dans le corps du texte du paragraphe 152(1.2). La version de 1998 précise, dans un alinéa distinct, que le montant d’une perte ne peut être initialement déterminé qu’à la demande du contribuable. De ce fait, ont fait valoir les avocats, l’alinéa 152(1.2)b) a pour seul but de préciser qu’une [traduction] « détermination initiale » ne peut être faite qu’à la demande du contribuable. Par ailleurs, étant donné que le paragraphe 152(1.1) précise déjà qu’il n’y a pas de détermination sans que le contribuable en fasse la demande, la totalité de l’alinéa 152(1.2)b) serait inutile et redondante si une [traduction] « détermination initiale » ne pouvait être faite qu’en vertu du paragraphe 152(1.1).
+[8] Les avocats ont soutenu que le fait de conclure que les paragraphes 152(1.2) et (4) ne permettent pas de déterminer une perte à la demande du contribuable mènerait aux résultats inappropriés suivants :
+a) aucune détermination de perte ne pourrait jamais être faite si le ministre concluait que les pertes étaient égales au montant déclaré par le contribuable, et ce, même si les deux parties souhaitaient que le montant des pertes soit déterminé;
+b) le délai prévu pour une nouvelle détermination ne commencerait jamais et le montant des pertes ne pourrait jamais être déterminé avec certitude. En outre, même si les parties s’étaient entendues initialement sur le montant des pertes, l’une ou l’autre pourrait soutenir ultérieurement que les pertes n’étaient pas celles qui avaient été convenues initialement;
+et, affirment‑ils, il ne faudrait pas présumer que le législateur aurait envisagé un résultat absurde qui ferait obstacle au but visé - favoriser la certitude - qui était à l’origine de l’introduction des règles régissant la détermination des pertes.
+La position de l’intimée
+[9] L’avocat de l’intimée soutient que l’on ne peut que répondre par la négative à la question soumise à la Cour, en ce sens que ni le paragraphe 152(1.2) ni le paragraphe 152(4) de la Loi n’autorisaient le ministre à délivrer un avis de détermination de pertes, au sens où ce terme est utilisé à l’article 152 de la Loi. Plus précisément, le paragraphe 152(1.1) est la seule disposition qui habilite le ministre à délivrer un avis de détermination de pertes. Cette disposition envisage une procédure comportant une série de mesures à prendre pour qu’une détermination de pertes soit valide. Ces mesures sont les suivantes :
+a) le ministre établit que le montant de la perte autre qu’en capital d’un contribuable, pour une année d’imposition donnée, est différent de celui qui a été inscrit dans la déclaration de revenus du contribuable;
+b) le contribuable demande que le ministre détermine le montant de la perte;
+c) le ministre détermine ensuite le montant de la perte et envoie au contribuable un avis de détermination de la perte. Cette détermination lie le contribuable et le ministre.
+Selon l’intimée, la position de l’appelante selon laquelle les paragraphes 152(1.2) et (4) autorisent le ministre à délivrer un avis de détermination qui lie les deux parties est indéfendable. Au dire de l’avocat :
+[traduction]
+[…] Il ressort d’une simple lecture de ces deux dispositions que ni l’une ni l’autre n’habilitent le ministre à déterminer le montant d’une perte, c’est‑à‑dire à procéder à une fixation des pertes qui lie à la fois le ministre et le contribuable. En outre, le paragraphe 152(1.2) dispose clairement que la détermination ou la nouvelle détermination d’un montant, comme une perte autre qu’en capital, doit avoir lieu avant l’application des dispositions de « la présente section », c’est‑à‑dire la section I, dont font partie les paragraphes 152(1.3) et 152(4), parce que ces dispositions doivent être appliquées à une détermination de pertes. Par conséquent, comme le paragraphe 152(1.3) fait en sorte qu’une détermination de pertes lie le ministre et un contribuable, les limites du paragraphe 152(4) qui concernent l’établissement de nouvelles cotisations s’appliquent forcément aux déterminations de pertes déjà établies. Autrement dit, le paragraphe 152(4) impose au ministre des contraintes d’ordre procédural; il n’habilite pas ce dernier à effectuer une détermination de perte liant les deux parties. Le pouvoir de le faire ne réside qu’au paragraphe 152(1.1).
+En d’autres mots, les paragraphes 152(1.2) et (1.3) sont des règles qui entrent en application après que le ministre a déterminé la perte autre qu’en capital d’un contribuable en vertu du paragraphe 152(1.1).
+[10] L’avocat a reconnu qu’en matière d’interprétation législative, la règle du sens ordinaire ne s’applique que dans les cas où les mots employés dans une loi sont clairs et que, si ces mots donnent lieu à deux interprétations, il est nécessaire de les soumettre à une analyse téléologique. Il soutient que si le « sens ordinaire » des dispositions en litige suscite un différend quelconque, l’examen de l’historique législatif de ces dispositions confirme la position de l’intimée. Un examen détaillé des modifications apportées aux paragraphes 152(1.1) et (1.2) a été fait pour montrer que jamais le législateur n’a envisagé qu’une disposition quelconque de la Loi autre que le paragraphe 152(1.1) conférerait au ministre le pouvoir de déterminer une perte. En outre, a‑t‑il été allégué, toutes les modifications apportées aux paragraphes 152(1.2) et (1.3) dénotent que ces dispositions étaient censées compléter la législation applicable aux déterminations de pertes en vertu du paragraphe 152(1.1). Ces dispositions sont de nature procédurale et n’étaient pas conçues pour conférer de [traduction] « nouveaux pouvoirs de détermination au ministre ». Au vu de cette analyse, a‑t‑il été soutenu, la seule conclusion logique est que le paragraphe 152(1.2) n’a pas été adopté à cause d’une intention de conférer au ministre un pouvoir indépendant ou secondaire d’établir des déterminations de pertes.
+Conclusion
+[11] Le fondement principal de la position de l’appelante est que la Loi envisage deux moyens distincts et fondamentalement différents par lesquels le ministre peut déterminer de manière exécutoire la perte d’un contribuable. Le premier des deux oblige le ministre à procéder à ce que l’appelante a appelé des [traduction] « déterminations obligatoires » en vertu du paragraphe 152(1.1), tandis que le second autorise le ministre à effectuer les déterminations sans être obligé de le faire. L’appelante a qualifié ces dernières de [traduction] « déterminations autorisées », lesquelles peuvent être établies en application des paragraphes 152(1.2) et (4). Ces deux dispositions, a‑t‑il été allégué, établissent les circonstances dans lesquelles le ministre n’est pas obligé de déterminer les pertes d’un contribuable mais où il lui est loisible de le faire, à la condition seulement que le contribuable en fasse la demande.
+[12] La section I de la partie I de la Loi renferme le principal régime législatif qui s’applique aux déclarations, aux cotisations, aux paiements et aux appels administratifs dans le cadre de la Loi. Plutôt que de préciser un régime distinct pour les déterminations des pertes, la Loi adopte celui qui est établi à la section I en rapport avec les cotisations et les nouvelles cotisations et applique ces règles aux déterminations des pertes, sous réserve des modifications indiquées. L’article 152 comporte les procédures de base concernant les cotisations et les nouvelles cotisations, de même que les déterminations et les nouvelles déterminations des pertes. Le paragraphe 152(1) exige que le ministre examine une déclaration et établisse le montant d’impôt qui s’applique à l’année d’imposition, de même que les intérêts et les pénalités, s’il y en a, qui sont à payer. Le paragraphe 152(1.1), quant à lui, dispose que lorsque le ministre établit le montant de la perte autre qu’en capital du contribuable pour une année d’imposition et que le contribuable n’a pas déclaré ce montant comme perte dans sa déclaration de revenus pour cette année‑là, le ministre doit, à la demande du contribuable, déterminer le montant de cette perte et envoyer un avis de détermination à la personne qui a produit la déclaration; quant au paragraphe 152(1.2), il dispose que, sous réserve de trois exceptions, les dispositions de la section I (c’est‑à‑dire les articles 152 à 168) qui se rapportent aux cotisations et aux nouvelles cotisations s’appliquent, avec les adaptations nécessaires, aux montants déterminés ou déterminés de nouveau. Plus précisément, par l’application du paragraphe 152(1.2), le paragraphe 152(1) (qui oblige le ministre à examiner la déclaration du contribuable et à déterminer le montant d’un remboursement ou d’un montant d’impôt à payer) et le paragraphe 152(2) (qui oblige le ministre à envoyer un avis de cotisation) ne s’appliquent pas aux déterminations établies en vertu des paragraphes 152(1.1) (détermination des pertes) et 152(1.11) (déterminations selon le paragraphe 245(2)). Par contraste avec une cotisation, le paragraphe 152(1.2) confirme également que la détermination initiale des diverses pertes déclarées par un contribuable ne peut être établie par le ministre que si ce contribuable en fait la demande.
+[13] Il est reconnu que, en règle générale, il faut interpréter les mots clairs et non équivoques que comporte une loi d’après leur sens ordinaire - c’est ce que l’on appelle l’approche fondée sur le sens ordinaire - à moins que l’on attribue à ces mots des définitions différentes. Mais cela ne veut pas forcément dire qu’il faut interpréter le libellé des dispositions applicables d’une manière indépendante du contexte, et l’objet de la loi fait partie de ce contexte. Je suis d’avis que le libellé que le législateur a employé aux paragraphes 152(1.1), (1.2), (1.3) et 152(4) de la Loi ne mène pas à la conclusion que recherche l’appelante. Les mots et les phrases utilisés dans ces dispositions, interprétées dans le contexte des dispositions législatives applicables, mènent à une seule conclusion : ni le paragraphe 152(1.2) ni le paragraphe 152(4) de la Loi, ni aucune combinaison des deux, n’habilitent le ministre à délivrer un avis de détermination des pertes au sens où cette expression est entendue à l’article 152 de la Loi. En revanche, le paragraphe 152(1.1) de la Loi envisage et établit clairement une procédure comportant une série de mesures ou de faits qui doivent avoir lieu pour qu’il y ait une détermination de pertes valide. Ces mesures sont les suivantes : a) le ministre établit le montant de la perte autre qu’en capital du contribuable pour une année d’imposition qui est différent du montant indiqué par ce contribuable dans sa déclaration de revenus; b) le contribuable demande au ministre de déterminer le montant de la perte; c) le ministre détermine à ce moment‑là le montant de la perte et délivre un avis de détermination de perte au contribuable. Par contre, rien de ce qui figure au paragraphe 152(1.2) n’envisage clairement une conclusion semblable ou parallèle. Il est également raisonnable de conclure qu’étant donné que les paragraphes 152(1.1) et (1.2) ont été adoptés et modifiés ensemble, cela dénote que le législateur envisageait que le paragraphe 152(1.2) ne soit rien de plus qu’une disposition accompagnant le paragraphe 152(1.1) et que cette disposition n’était pas destinée à créer, pour le ministre, un pouvoir indépendant ou secondaire d’effectuer des déterminations de pertes.
+[14] La position de l’appelante est la suivante : si les déterminations initiales n’étaient autorisées qu’en vertu du paragraphe 152(1.1), le paragraphe 152(1.2) y ferait expressément référence. Les avocats ont soutenu de plus que si le législateur envisageait effectivement que le paragraphe 152(1.1) soit la seule disposition autorisant les déterminations de perte initiales, ce fait aurait pu être facilement réglé au paragraphe 152(1.2) en changeant les mots « initialement déterminée par le ministre qu’à la demande du contribuable » pour [traduction] « initialement déterminée par le ministre en vertu du paragraphe 152(1.1) ». En ce qui concerne cet argument, je suis enclin à souscrire à la réplique de l’avocat de l’intimée, à savoir que si la suggestion de l’appelante est exacte, il convient de se demander pourquoi le législateur a jugé bon d’adopter le paragraphe 152(1.1) (dans lequel il a soumis les déterminations des pertes à de strictes exigences), puisque que le paragraphe 152(1.2) aurait lui‑même suffit.
+[15] Les avocats de l’appelante ont également fait valoir que la position du ministre créerait une situation dans laquelle le délai prescrit pour une nouvelle détermination ne débuterait jamais et que l’on n’obtiendrait jamais avec certitude le montant des pertes. Par ailleurs, même si les parties étaient initialement d’accord au sujet du montant des pertes, l’une ou l’autre serait en mesure, ultérieurement, d’exprimer l’avis que les pertes n’étaient pas celles dont elles avaient convenu initialement. Cela est peut‑être vrai, mais le législateur a manifestement envisagé et pris en considération cette situation, sinon il n’aurait pas été logique de structurer les dispositions de façon à laisser entre les mains du contribuable la décision de demander une détermination et, par‑dessus tout, le moment où le faire.
+[16] Les avocats des deux parties ont fait référence, tant indirectement que directement, à l’intention du législateur qui sous‑tend les dispositions en litige. L’application de l’approche téléologique, au vu d’un texte législatif clair et non équivoque, a été examinée dans un certain nombre d’affaires. En particulier, la juge McLachlin a déclaré dans l’arrêt Shell Canada v. The Queen[4] :
+40 Deuxièmement, la jurisprudence fiscale de notre Cour est bien établie : l’examen de la « réalité économique » d’une opération donnée ou de l’objet général et de l’esprit de la disposition en cause ne peut jamais soustraire le tribunal à l’obligation d’appliquer une disposition non équivoque de la Loi à une opération du contribuable. Lorsque la disposition en cause est claire et non équivoque, elle doit simplement être appliquée : Continental Bank, précité, au par. 51, le juge Bastarache; Tennant, précité, au par. 16, le juge Iacobucci; Canada c. Antosko, [1994] 2 R.C.S. 312, aux pp. 326, 327 et 330, le juge Iacobucci; Friesen c. Canada, [1995] 3 R.C.S. 103, au par. 11, le juge Major; Alberta (Treasury Branches) c. M.R.N., [1996] 1 R.C.S. 963, au par. 15, le juge Cory.
+[…]
+43 […] La Loi est un texte législatif complexe au moyen duquel le législateur tente d’établir un équilibre entre d’innombrables principes. La jurisprudence de notre Cour est constante : les tribunaux doivent par conséquent faire preuve de prudence lorsqu’il s’agit d’attribuer au législateur, à l’égard d’une disposition claire de la Loi, une intention non explicite : Canderel Ltd. c. Canada, [1998] 1 R.C.S. 147, au par. 41, le juge Iacobucci; Banque Royale du Canada c. Sparrow Electric Corp., [1997] 1 R.C.S. 411, au par. 112, le juge Iacobucci; Antosko, précité, à la p. 328, le juge Iacobucci. En concluant à l’existence d’une intention non exprimée par le législateur sous couvert d’une interprétation fondée sur l’objet, l’on risque de rompre l’équilibre que le législateur a tenté d’établir dans la Loi.
+[…]
+45 […] Les remarques incidentes formulées dans des arrêts antérieurs dont on peut dire qu’elles appuient un principe d’interprétation plus large et moins certain ont donc été supplantées par les arrêts que notre Cour a rendus depuis en matière fiscale. Sauf disposition contraire de la Loi, le contribuable a le droit d’être imposé en fonction de ce qu’il a fait, et non de ce qu’il aurait pu faire et encore moins de ce qu’un contribuable moins habile aurait fait.
+Il est généralement admis que la règle de l’objet ne remplace pas la règle du sens ordinaire, mais qu’elle ne s’emploie d’habitude que pour un texte législatif qui est ambigu ou obscur et lorsqu’un tribunal a besoin d’une aide pour déterminer l’intention du législateur. On a aussi fait remarquer que l’approche du sens ordinaire, en soi, n’est pas un rejet total de l’interprétation téléologique, mais juste une reconnaissance du fait que l’objet ne peut jouer qu’un rôle restreint dans l’interprétation d’une loi aussi précise et détaillée que la Loi de l’impôt sur le revenu.
+[17] À mon avis, le libellé des dispositions en litige n’est pas ambigu et doit être interprété dans son sens ordinaire. En outre, cette démarche ne donne pas lieu à des résultats absurdes, comme il a été évoqué pour le compte de l’appelante. Dans ce contexte, il est important de signaler la genèse des dispositions de la Loi qui sont en litige. Nul ne conteste qu’une cotisation englobe une cotisation « portant qu’aucun impôt n’est payable » et qu’un contribuable n’a pas le droit d’interjeter appel d’une telle cotisation puisque il n’y aucun montant d’impôt à payer. Cela vaut même dans les circonstances où une telle cotisation n’a pas changé le fond de la cotisation mais a simplement procédé à un report rétrospectif et à l’application de crédits d’impôt d’années ultérieures, avec le résultat que les impôts à payer sont réduits à néant. Comme les tribunaux avaient décrété que l’on n’avait pas le droit d’interjeter appel d’une cotisation « portant qu’aucun impôt n’est payable », il est devenu évident que le calcul, fait par le ministre, des pertes d’un contribuable suscitait de sérieux problèmes. Si une telle détermination donnait lieu à une cotisation « portant qu’aucun impôt n’est payable », il n’y avait aucun motif pour lequel le contribuable pouvait interjeter appel de cette décision. Les dispositions législatives qui sont en litige dans le présent appel ont manifestement été adoptées pour traiter de ce scénario et offrir un mécanisme qui permettrait au contribuable de porter en appel les pertes déterminées par le ministre, et ce, même si cette détermination donnait lieu à une cotisation « portant qu’aucun impôt n’est payable ». Le système est assez simple. Le ministre, à la demande du contribuable, est tenu d’établir que les pertes de ce contribuable sont différentes de celles que ce dernier a indiquées dans sa déclaration de revenus; à ce moment, si le contribuable n’est pas d’accord avec le calcul des pertes déclarées, il a deux options : il peut demander que le ministre détermine sur‑le‑champ le montant de la perte - et le ministre est tenu de le faire - ou alors soulever la question dans une autre année d’imposition dans laquelle les pertes sont déduites. Ce régime législatif ne crée pas, comme l’ont soutenu les avocats de l’appelante, une situation dans laquelle la période prescrite pour la détermination ne débuterait jamais et la certitude du montant ne serait jamais établie.
+[18] Pour les motifs qui précèdent, j’ai conclu que le ministre n’a pas déterminé les pertes de 321821 B.C. Ltd. dont il est fait état dans la lettre du 4 juillet 1997, de sorte que l’appelante peut déduire dans son année d’imposition 2000 les pertes autres qu’en capital que 321821 a subies dans son année d’imposition 1999, conformément aux alinéas 88(1.1)c) et 111(1)a) de la Loi de l’impôt sur le revenu.
+Signé à Ottawa, Canada, ce 31e jour de mai 2004.
+« A.A. Sarchuk »
+Juge Sarchuk
+Traduction certifiée conforme
+ce 26e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE :
+2004CCI373
+No DU DOSSIER DE LA COUR :
+2002-2695(IT)G
+INTITULÉ :
+Inco Limited et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 25 septembre 2003
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable juge A.A. Sarchuk
+DATE DE L’ORDONNANCE :
+Le 31 mai 2004
+COMPARUTIONS :
+Avocats de l’appelante :
+Mes Al Meghji et Gerald Grenon
+Avocat de l’intimée :
+Me Luther P. Chambers
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Warren J.A. Mitchell
+Cabinet :
+Thorsteinssons
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Dans la version 1997 de la Loi, le texte du paragraphe 152(4) était différent. Cependant, en vertu de la modification L.C. 1998, ch. 19, par. 181(4), cette version est devenue applicable après le 27 avril 1989.
+[2] Après modification, le paragraphe 152(4) se lirait comme suit :
+Le ministre peut établir une détermination, une nouvelle détermination ou une détermination supplémentaire […].
+Pareille détermination ne peut être établie après l’expiration de la période normale de nouvelle détermination applicable au contribuable pour l’année que dans les cas suivants […].
+[3] Winters c. Legal Services Society, [1999] 3 R.C.S. 160, à la p. 182; Rizzo & Rizzo Shoes Ltd. (Re), [1998] 1 R.C.S. 27.
+[4] 99 DTC 5669 (C.S.C.), aux p. 5676 et 5677.

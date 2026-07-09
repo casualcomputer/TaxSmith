@@ -1,0 +1,215 @@
+---
+title: "Middleton v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29893/index.do"
+last_modified: "2010-07-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 363"
+citation2: ""
+neutral_citation: "2010 TCC 363"
+decision_date: "2010-07-05"
+language: "en"
+item_id: "29893"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6386
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:11:26.466000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1dd0ecd3c209676514c5181a32f193dcd32f87b83daf44276c4a78aabb2b1686"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Middleton v. The Queen
+
+- Citation: 2010 TCC 363
+- Decision date: 2010-07-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6386, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Middleton v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-07-05
+Neutral citation
+2010 TCC 363
+File numbers
+2009-3235(GST)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2009-3235(GST)I
+BETWEEN:
+JOYCE MIDDLETON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Joyce Middleton (2010-12(IT)I) on June 14, 2010,
+at Edmonton, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marla Teeling
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Excise Tax Act, notices of which are dated May 2, 2008, and bear numbers 06073113012330107 and 07051058312330019, are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s revenue is reduced by $3,222 in 2005 and $1,704 in 2006 with a corresponding adjustment to net tax and penalty.
+Signed at Hamilton, Ontario, this 5th day of July 2010.
+"Campbell J. Miller"
+C. Miller J.
+Docket: 2010-12(IT)I
+BETWEEN:
+JOYCE MIDDLETON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Joyce Middleton (2009-3235(GST)I) on June 14, 2010,
+at Edmonton, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marla Teeling
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments made under the Income Tax Act for the 2005 and 2006 taxation years are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant’s revenue is reduced by additional deductions of $3,684 and $2,923, respectively, and the deduction for legal fees of $5,698 is moved from the Appellant’s 2006 taxation year to her 2005 taxation year, with a corresponding adjustment to net tax and penalty. Penalties pursuant to subsection 163(2) are waived.
+Signed at Hamilton, Ontario, this 5th day of July 2010.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2010TCC363
+Date: 20100705
+Docket: 2009-3235(GST)I
+2010-12(IT)I
+BETWEEN:
+JOYCE MIDDLETON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Ms. Joyce Middleton brings two Informal Procedure appeals relating to the operation of her spa and school in 2005 and 2006. The first appeals are an Income Tax appeals in which she objects to the Respondent’s calculation of her income and ensuing penalties pursuant to subsection 163(2) of the Income Tax Act (the "Act") for the 2005 and 2006 taxation years. The second appeals are a Goods and Services Tax ("GST") appeals in which the Respondent increased GST owing, and also assessed penalties pursuant section 285 of the Excise Tax Act ("ETA").
+[2] Ms. Middleton operated a spa in Fort St. John, Bristish Columbia, in 2005 and 2006 in a small (just under 500 square feet) space at Alexander Mackenzie Inn, under the name Reflexology and Stress Clinic. She operated this spa which provided message therapy and reflexology, amongst other services, through an arrangement with students who she trained – this was the school element of the overall operation which she ran under the name Northern School of Spa Therapies.
+[3] According to Ms. Middleton, the students were individual contractors who would provide the spa services at her spa, primarily for cash, at very low rates compared to other spas. Ms. Middleton obtained a Judgment from the Tax Court of Canada in 2007 in an Employment Insurance Appeal confirming a student worker was an independent contractor. The Respondent did not argue otherwise in the case before me.
+[4] The student workers would submit day sheets indicating the sessions they conducted and the charges paid. From a $44 one-hour massage for example, the worker would retain approximately $14 and remit the balance to Ms. Middleton. The workers also retained their tips. The day sheets were not necessarily submitted to Ms. Middleton daily. She would retain the cash from the student workers in what she called her petty cash and pay expenses from the petty cash. She would deposit the petty cash in her bank account at month’s end. With respect to any credit card payments, those would ultimately go directly into her bank account. The student workers would often retain cash from cash customers to cover their share of their payment (the $14 for example) due from credit card customers. Ms. Middleton believed that in handling finances this way, she would keep an accurate account of her net income, though recognized it made it difficult to accurately track gross income. This became problematic in 2005 when she registered for GST, as she admitted it meant she ended up calculating GST on net rather than gross revenue, as she did the calculation based on month end cash deposits.
+[5] Ms. Middleton testified that she educated the workers primarily from her home. She also used a separate room in her home for testing, though she did not expand as to what was entailed in testing other than it required the use of a fridge, and that payments for testing were primarily made by way of credit card. She also maintained a computer at home and would use this to e-mail the workers at the spa on a regular basis for educational and business purposes. I note that the school aspect of her operation was not accredited as such until after the years in question.
+[6] I was provided with no contracts between the student workers and Ms. Middleton’s spa, though Ms. Middleton indicated she did have written contracts with every student worker. I did see copies of the day sheets which confirmed the student workers charged amounts in line with what Ms. Middleton testified. It was clear that Ms. Middleton operated on something of an honour system, relying on her student workers to accurately complete and submit the daily sheets. Attached to these Reasons are summaries of the auditor’s findings with respect to cash and credit card receipts for 2005 and 2006.
+[7] In the years in question, Ms. Middleton personally did little work at the spa location.
+[8] In filing her income tax returns for 2005 and 2006 taxation years, Ms. Middleton reported net income from the spa of $572 and a net loss of ($1,597), respectively.
+[9] The Minister reassessed the Appellant’s 2005 and 2006 taxation years to include unreported business income in the amounts of $39,539 and $14,179, respectively, and to disallow business expenses in the 2006 taxation year of $2,682. In addition, the Minister assessed gross negligence penalties of $2,965 and $1,085 in the 2005 and 2006 taxation years, respectively. After a Notice of Objection, the Minister reassessed the Appellant’s 2005 and 2006 taxation years to allow additional business expenses in the amounts of $1,709 and $1,860, respectively, and reducing the gross negligence penalties accordingly.
+[10] Ms. Middleton filed GST returns and reported total taxable supplies of $84,169, GST collectible of $5,565 and Input Tax Credits ("ITC") of $3,134 in respect of the period from February 1, 2005 to December 31, 2006. The Minister reassessed the Appellant for a net GST adjustment in respect of that period and, accordingly, issued a notice, so as to:
+(a) assess GST collectible of $6,550.72 and disallow ITC’s of $78.54;
+(b) assess a gross negligence penalty of $1,657.31 under section 285 of the ETA; and
+(c) assess interest and late remitting penalties under section 280 of Act with respect to the net tax amounts.
+[11] These assessments arose from a thorough income tax audit of Ms. Middleton’s affairs for the 2005 and 2006 taxation years, which led also to a review of her GST filings. The auditor, Ms. Roberts, who testified at trial, calculated revenues based on all the daily sheets for the two-year period as well as all credit card deposits to Ms. Middleton’s bank account. Ms. Middleton did not question this determination of revenue which resulted in the additional revenue of $39,539 in 2005 and $14,179 in 2006. The auditor determined:
+(a) in 2005 and 2006, credit card revenues recorded on the daily sheets totalled only $16,649 and $11,395, respectively;
+(b) in 2005 and 2006, Ms. Middleton received credit card revenues totalling $39,717 and $30,185, respectively; and
+(c) in 2005 and 2006, Ms. Middleton received cash and cheque revenues totalling $82,944 and $36,456, respectively.
+[12] From Ms. Middleton’s testimony, it appears that the difference in credit card deposits relates to the testing work that she conducted at home.
+[13] Ms. Middleton strenuously maintained that her spa was not set up to earn the type of profit determined by the auditor, and that fees were set low to recognize the work was conducted by student workers, who were still learning their trade. Ms. Middleton clearly felt she was providing a valuable service for the well-being of her community at an affordable cost. She never intended this service to be a profit‑making venture. She pointed out that she attempted to sell the business through eBay with a starting bid of $70,000 USD and in January 2009, tried to get at least $40,000 through a realtor, ultimately reducing the price to $25,000. She was unable to sell the business. She believed common sense alone dictated she could not have made the kind of profit suggested by the auditor. Yet, she only took objection to a limited number of denied expenses. The Respondent allowed expenses of $76,235 in 2005 and $50,629 in 2006. The only disallowed expenses which Ms. Middleton disputed were with respect to rent, attendance at a conference, legal expenses and vehicle expenses.
+Rent
+[14] Ms. Middleton seeks two claims in connection with her home. First, an additional $200 a month for using what was formerly a bedroom in her home for purposes of conducting the hair and saliva testing. Second, an additional $200 a month plus 10% taxes and utilities for office space, as she stored some supplies at home and she also worked from home on her computer, for example, e-mailing her students. She maintained that she ordered supplies from home and also marked papers. She also testified that she conducted education sessions at home, though gave no indication as to the regularity or frequency of such sessions.
+[15] With respect to rent for the spa itself, the Respondent did not allow December’s rent at $550, as no invoice or other proof was provided.
+Conferences
+[16] Ms. Middleton seeks an additional $791 of travel costs for her husband accompanying her to a conference in Colombia/Ecuador. She maintained this was primarily for security reasons.
+Legal
+[17] The Respondent has conceded that legal fees of $4,825 allowed in 2006 could be moved to 2005. The materials submitted by Ms. Middleton (a letter from a law firm) indicates an amount of $5,698 was paid. She also provided evidence of a $4,626 money order to Employment Standards Board, though it was dated in 2007.
+Vehicle expenses
+[18] Ms. Middleton determined the amounts of $3,064 in 2005 and $2,614 in 2006 were the travel costs for her twice a week trips to the spa plus miscellaneous trips for shopping, mail, etc., and four trips a week to the spa for her husband delivering supplies, taking keys, etc. No logs were provided. The estimated costs were based on a 47.5 cent per kilometre charge for a 38 kilometre round trip. Ms. Middleton then estimated half of this mileage was reasonably allocated to business for her husband and 75% of this mileage to business for her.
+Miscellaneous
+[19] Ms. Middleton sought an additional deduction for a new lock of $121, for which she provided the receipt.
+[20] The issues are:
+i. Did the Minister correctly determine Ms. Middleton’s business income for 2005 and 2006?
+ii. Is Ms. Middleton liable for gross negligence penalties in respect of unreported income pursuant to subsection 163(2) of the Act?
+iii. Did the Minister correctly determine Ms. Middleton’s underreported net tax pursuant to the ETA of $6,629?
+iv. Is Ms. Middleton liable for gross penalties pursuant to section 285 of the ETA?
+Analysis
+[21] Ms. Middleton presented an emotional case. She seemed sincerely bewildered by CRA’s determination of significant net income. She simply could not understand it, yet did not doubt the revenue figures. Her response that it did not make sense when you consider the low fees charged by the student workers in what she believed were costs equivalent to what full-fledged spas charging full rates would incur, was, regrettably, inadequate. The only way to reduce the net income to something she believed would make sense, was to satisfy me that CRA underestimated expenses, yet CRA, with the exception of the few items in dispute, relied on the numbers provided by Ms. Middleton. To accept Ms. Middleton’s approach is to ignore the facts and rely on a somewhat vague notion that common sense combined with her attitude that she never intended to make profit should override the clear numbers. Although I am a strong advocate of common sense on a regular basis, it must be grounded in some facts. Unfortunately for Ms. Middleton, she has been unable to produce facts to support her common-sense approach. I conclude she in fact made more than she thought.
+[22] With respect to those few expenses that were identified as possible deductions, I find as follows:
+i. rent – with respect to claiming any expense for the use of her principal residence, Ms. Middleton has the hurdle of subsection 18(12) of the Act to overcome. It reads:
+18(12) Notwithstanding any other provision of this Act, in computing an individual's income from a business for a taxation year,
+(a) no amount shall be deducted in respect of an otherwise deductible amount for any part (in this subsection referred to as the "work space") of a self-contained domestic establishment in which the individual resides, except to the extent that the work space is either
+(i) the individual's principal place of business, or
+(ii) used exclusively for the purpose of earning income from business and used on a regular and continuous basis for meeting clients, customers or patients of the individual in respect of the business;
+(b) where the conditions set out in subparagraph (a)(i) or (ii) are met, the amount for the work space that is deductible in computing the individual's income for the year from the business shall not exceed the individual's income for the year from the business, computed without reference to the amount and sections 34.1 and 34.2; and
+(c) any amount not deductible by reason only of paragraph (b) in computing the individual's income from the business for the immediately preceding taxation year shall be deemed to be an amount otherwise deductible that, subject to paragraphs (a) and (b), may be deducted for the year for the work space in respect of the business.
+[23] I have not been satisfied that Ms. Middleton’s principal residence served as her principal place of business for the spa or school. In that respect, I see little distinction between the spa and the school as far as identifying two separate businesses. They were inexplicably linked.
+[24] With respect to the second qualification: was any workspace in the house used exclusively for the purpose of earning income and used on a regular and continuing basis for meeting customers, there was one area of Ms. Middleton’s business, the testing of hair and saliva, that she conducted exclusively from home. Although there was not a great deal of evidence on this point, I find that the exclusive use of a bedroom meets the requirements for deduction of some amount for the home work space. I allow $200.00 a month in this regard. Further, I find Ms. Middleton incurred a rent expense of $550.00 in December 2005, notwithstanding the lack of receipt.
+Conferences
+[25] Ms. Middleton’s husband’s attendance at a conference with his wife is entirely personal and no part of such expenditure is deductible as business expense.
+Legal
+[26] The Government has conceded an amount can be moved from the 2006 to 2005 taxation year. I am satisfied the amount in question is $5,698. The ESB amount of $4,628 was not incurred in either of the years in issue.
+Vehicle expenses
+[27] The Respondent argues that the vehicle expenses claimed by Ms. Middleton are the personal expenses of travelling to and from work and home, and as such are not deductible business expenses. There was also an element of travelling to obtain supplies and run other miscellaneous business related errands. Without any work logs it is difficult to determine what percent pertained to such business travel and not just getting to and from work. I am prepared, however, to recognize such business travel and, therefore, allot 20% of Ms. Middleton’s calculated vehicle expenses to business, resulting in $613 in 2005 and $523 in 2006.
+[28] I also allow the $121 expense for a lock at the spa.
+[29] Ms. Middleton has been unable to satisfy me there are any other further deductions from income other than $3,684 in 2005 and $2,923 in 2006, with the move of $5,698 from 2006 to 2005 for legal fees.
+GST
+[30] With respect to the GST assessment, Ms. Middleton has acknowledged that she mistakenly calculated her GST on the net month end cash deposits, recognizing now that this was considerably less than the revenue figure that should have been used for calculating GST. The only objection remaining to CRA’s assessment of the GST is that they considered the full amount charged by the workers in determining her revenue, rather than basing the calculation on the net revenue, after deducting the workers’ payment. In effect, Ms. Middleton is maintaining that her revenue was the net amount; for 2005 for example, this would reduce the revenue figure by $31,282, being the amounts retained by or paid to the workers.
+[31] This case is very similar to the recent case of Manship Holdings Ltd. v. R.,[1] a case also involving massage services being provided by independent contractors. Justice Angers determined at trial, and was approved at the Federal Court of Appeal, that notwithstanding the workers were independent contractors, the operator of the massage parlour was providing a single supply of services and as such was responsible for collection and remittance of HST on the entire amount received from the customer. Implicit in this approach is that the workers were providing their services to the operator, who offered the whole package on a single supply if you will, (premises, supplies and massage services) to the customer. The fact the workers did not charge GST leaves the question somewhat up in the air as to whom they would have charged the GST – Ms. Middleton or the customer? Taking the view that Ms. Middleton offered the whole service it would follow that had the workers charged anyone it would have been Ms. Middleton. However, whichever way you slice it, the amount determined by the CRA as gross revenue includes the portion allocable to the workers. I did note, however, that CRA’s calculation of gross revenue included tips to the workers, which I find should not be included in Ms. Middleton’s revenue for GST purposes. I therefore reduce revenue by $3,222 in 2005 and $1,704 in 2006 to reflect the tips, with a corresponding deduction in GST.
+Penalties
+[32] I turn now to the area of most concern to Ms. Middleton, the application of gross negligence penalties. It was clear that she was distraught that anyone would suggest she had acted criminally or fraudulently. I attempted to assure her this was not a criminal matter but a question of penalties from acting indifferently as to whether the law was complied with, citing the test laid out in Venne v. R..[2]
+…
+37. With respect to the possibility of gross negligence, I have with some difficulty come to the conclusion that this has not been established either. "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not. …
+[33] The Respondent’s position was that Ms. Middleton’s actions did show an indifference to compliance with the law. The Respondent based this view on the materiality of the differences in revenue reported, the lack of a reasonable explanation and the fact that Ms. Middleton personally prepared all the returns.
+[34] What the Courts have made clear, following Venne, is that gross negligence is a bar considerably higher than negligence. I have little difficulty in attaching the negligence label to Ms. Middleton in regards to how she managed her business in the context of attempting to comply with the Act and the ETA. Her actions indicate she did not take reasonable care. However, with respect to the higher bar of gross negligence, I draw a distinction, albeit a fine one, between her actions in attempting to comply with the Act versus her actions in attempting to comply with the ETA.
+[35] First, with respect to gross negligence penalties pursuant to the Act, I believe Ms. Middleton most likely did pay more expenses from her cash receipts than she has been able prove. This is regrettable, but it does go to the issue of the extent of her negligence. As indicated, I have concluded she was negligent in handling her business affairs in the manner she did, but, I also conclude that for income tax purposes, her actions do not constitute gross negligence. She believed that her approach would still result in an accurate determination of net income; that is, the deposit and recording of her monthly net cash earnings combined with her credit card deposits should have yielded the correct numbers for income tax purposes. The material discrepancy may not have been as the Respondent suggests, but, as I have said, unfortunately for Ms. Middleton, she has presented very little evidence other than speculation to support that position. However, her belief that her accounting for income should have been accurate for income tax purposes, plus the fact the material discrepancy was likely not as significant as suggested by the Respondent, plus my view of Ms. Middleton as a decent, straightforward individual more interested in healing physical ills than attending to accurate bookkeeping, leads me to conclude that the Respondent has not proven Ms. Middleton was grossly negligent in accordance with subsection 163(2) of the Act. This has been a very close call.
+[36] The gross negligence penalties found in section 285 of the ETA is similarly worded to the sister provision in the Act. The GST is determinable on Ms. Middleton’s gross revenue; her system of accounting for revenue was set up to focus on net income. Even a cursory review of the ETA legislation or limited advice from a professional or CRA itself would have caused any reasonable person to realize that reporting for GST as Ms. Middleton did would grossly understate the GST required to be collected and remitted. So, it is not so much the materiality of the difference, as the Respondent contends, but the total disregard for what the GST is all about. I find this is quite distinct from an understanding that an income tax is based on net income. With respect to the ETA legislation, Ms. Middleton ignored completely on what basis GST was collected. In this regard, I must conclude she did indeed act indifferently as to whether the law was complied with, and is liable for gross negligence penalties pursuant to section 285.
+[37] The Appeals from the reassessments made under the Income Tax Act are allowed and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the following basis:
+i. for income tax purposes, Ms. Middleton’s income in 2005 and 2006 is reduced by additional deductions of $3,684 and $2,923, respectively.
+ii. for income tax purposes, a deduction of $5,698 is moved from Ms. Middleton’s 2006 taxation year to her 2005 taxation year.
+iii. there shall be no gross penalties pursuant to subsection 163(2) of the Act in 2005 and 2006.
+iv. for ETA purposes, Ms. Middleton’s revenue is reduced by $3,222 in 2005 and $1,704 in 2006 with a corresponding adjustment to net tax and to penalties pursuant to section 285 of the ETA.
+Signed at Hamilton, Ontario, this 5th day of July 2010.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2010TCC363
+COURT FILE NO.: 2009-3235(GST)I
+2010-12(IT)I
+STYLE OF CAUSE: JOYCE MIDDLETON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Edmonton, Alberta
+DATE OF HEARING: June 14, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: July 5, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Marla Teeling
+COUNSEL OF RECORD:
+For the Appellant:
+Name: n/a
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2009 TCC 75.
+[2] [1984] C.T.C. 223.

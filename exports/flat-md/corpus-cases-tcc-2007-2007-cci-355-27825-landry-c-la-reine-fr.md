@@ -1,0 +1,152 @@
+---
+title: "Landry c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27825/index.do"
+last_modified: "2007-08-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 355"
+citation2: ""
+neutral_citation: "2007 CCI 355"
+decision_date: "2007-08-08"
+language: "fr"
+item_id: "27825"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 365
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:25:40.781000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "593ac5c63d3ba226e990c9d5650f1d86fc84980b35f21b3b990eaef59b379881"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Landry c. La Reine
+
+- Citation: 2007 CCI 355
+- Decision date: 2007-08-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 365, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Landry c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-08
+Référence neutre
+2007 CCI 355
+Numéro de dossier
+2007-658(IT)I
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-658(IT)I
+ENTRE :
+CHANTAL LANDRY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 6 juin 2007 à Québec (Québec)
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Avocat de l'appelante :
+Me Jean‑H. Lemire
+Avocate de l'intimée :
+Me Anne Poirier
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'encontre de l'avis de nouvelle détermination du 20 février 2006, par lequel le ministre du Revenu national a refusé à l'appelante la prestation fiscale canadienne pour enfants pour la période de juillet 2005 à août 2005 inclusivement, relativement à l'année de base 2004, est rejeté, selon les motifs du jugement ci‑joints.
+Signé à Ottawa, Canada, ce 8e jour d'août 2007.
+« Paul Bédard »
+Juge Bédard
+Référence : 2007CCI355
+Date : 20070808
+Dossier : 2007-658(IT)I
+ENTRE :
+CHANTAL LANDRY,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Il s’agit d’un appel d'un avis de nouvelle détermination relativement à la prestation fiscale canadienne pour enfants pour l'année de base 2004.
+[2] La question en litige consiste à déterminer si le ministre du Revenu national (le « ministre ») a correctement conclu que l'appelante n'était pas le parent qui assumait principalement le soin et l'éducation de son enfant Sébastien, à l'égard de l'année de base 2004, en juillet et août 2005.
+[3] Par avis de nouvelle détermination daté du 20 février 2006 pour l'année de base 2004, le ministre a déterminé que l'appelante n'était pas le particulier admissible à l'égard de son enfant Sébastien, pour juillet et août 2005.
+[4] Le 16 mai 2006, l'appelante a signifié au ministre un avis d'opposition à l'égard de l'avis de nouvelle détermination de prestation fiscale canadienne pour enfants daté du 20 février 2006 pour de base 2004.
+[5] Le 16 octobre 2006, le ministre a ratifié la nouvelle détermination de prestation fiscale canadienne pour enfants datée du 20 février 2006 pour l'année de base 2004.
+[6] Pour établir et ratifier la nouvelle détermination de prestation fiscale canadienne pour enfants établie le 20 février 2006 pour l'année de base 2004, le ministre a tenu pour acquis les hypothèses de fait suivantes :
+a) l'appelante et monsieur Alain Petit sont les parents, entre autres, d'un fils, nommé Sébastien, né le 9 avril 1995; (admis)
+b) pour l'année de base 2003, à l'égard de la période s'échelonnant des mois de février 2005 au mois de juin 2005, l'appelante n'était pas reconnu comme étant le parent qui assumait principalement le soin et l'éducation de son enfant Sébastien; (admis)
+c) le 9 septembre 2005, par avis de nouvelle détermination de prestation fiscale canadienne pour enfants, le ministre considéra l'appelante comme étant le parent qui assumait principalement le soin et l'éducation de son enfant Sébastien, à partir du mois de juillet 2005 de l'année de base 2004; (admis)
+d) monsieur Alain Petit a déposé une demande de prestation fiscale canadienne pour enfants, à l'égard de son fils Sébastien, alléguant que le dit enfant est demeuré chez lui du 17 juin 2005 au 7 août 2005, après quoi il est retourné vivre chez l'appelante; (nié tel que rédigé)
+e) le 5 décembre 2005, le ministre envoya à l'appelante et à monsieur Alain Petit un questionnaire à remplir couvrant la période du 17 juin 2005 au 7 août 2005, afin de déterminer laquelle des deux personnes était le parent admissible à recevoir les prestations fiscales, à l'égard de l'enfant Sébastien; (admis)
+f) l'appelante répondit par écrit le 4 janvier 2006 qu'une décision rendue par la Cour supérieure lui avait accordé le 30 juin 2005 la garde exclusive de son fils Sébastien; (admis)
+g) monsieur Alain Petit a envoyé une lettre datée du 28 décembre 2005 dans laquelle il mentionne des noms de personnes, chacune pour une partie de la période en litige, qui peuvent confirmer que l'enfant Sébastien demeurait chez lui; (ignoré)
+h) à l'étape des oppositions, le représentant de l'appelante, maître Jean‑H. Lemire, a reconnu que l'enfant Sébastien demeurait chez le père pendant la période en litige, mais qu'il le considérait en visite puisque sa cliente avait obtenu le 30 juin 2005, par une décision de la Cour supérieure, la garde légale dudit enfant. (admis)
+[7] Il convient immédiatement de souligner qu'aux termes d'un jugement rendu par la Cour supérieure du Québec le 30 juin 2005[1] (le « jugement »), l'appelante obtenait la garde exclusive de Sébastien et le père de Sébastien, monsieur Alain Petit, obtenait des droits d'accès à ce dernier à raison de :
+- Une fin de semaine sur deux, du jeudi soir après la fin des classes (vers 16 h), jusqu'au dimanche 18 h;
+- Une semaine durant la période des fêtes, en alternance d'une année à l'autre en ce qui concerne la fête de Noël et celle du Jour de l'An;
+- La semaine de relâche scolaire de la fin février et/ou début mars de chaque année;
+- Un mois durant l'été, après entente avec la demanderesse en ce qui concerne les dates[2].
+Témoignage de l'appelante
+[8] L'appelante a admis que Sébastien avait habité sans interruption avec son père de février 2004 au 7 août 2005 inclusivement. Elle a expliqué qu'elle avait convenu avec le père de Sébastien, conformément à la disposition du jugement qui prévoit que le père a un droit d'accès à Sébastien pendant un mois durant l'été, qu'il aurait la garde de Sébastien du 1er juillet 2005 au 31 juillet 2005 inclusivement. Elle a ajouté que le père de Sébastien avait refusé de faire le nécessaire afin que ce dernier retourne vivre avec elle le 31 juillet 2005. Elle a expliqué que le père s'était finalement conformé à sa demande et avait ramené son fils à sa résidence le 7 août 2005, mais seulement après qu'elle eut menacé d'appeler les policiers pour faire respecter ses droits.
+Témoignage du père
+[9] Le père a témoigné qu'il avait pris connaissance du jugement le 7 juillet 2005, date à laquelle il avait ramené son fils à la résidence de l'appelante. Il a relaté que, quelques minutes après son arrivée à la résidence de l'appelante, Sébastien l'avait supplié de le ramener chez lui. Il avait alors convenu avec l'appelante qu'il aurait la garde de Sébastien pour la période du 7 juillet 2005 au 7 août 2005 inclusivement, date à laquelle il avait fait le nécessaire pour que Sébastien retourne vivre avec l'appelante.
+Position de l'appelante
+[10] L'avocat de l'appelante a prétendu que :
+i) pendant la période du 1er juillet 2005 au 31 juillet 2005, Sébastien n'était qu'en visite chez son père puisque sa cliente avait obtenu le 30 juin 2005, en vertu du jugement, la garde exclusive de Sébastien;
+ii) pendant la période du 1er août 2005 au 7 août 2005, la présence de Sébastien chez son père était illégale, en ce que ce dernier avait abusé de son droit de garde et décidé unilatéralement de garder Sébastien contre la volonté de l'appelante.
+Analyse et conclusion
+[11] L'alinéa a) de la définition du terme « particulier admissible » à l'article 122.6 de la Loi de l'impôt sur le revenu (la « Loi ») exige notamment que le particulier admissible réside avec la personne à charge. Le critère de la résidence constitue donc un élément essentiel à l'obtention du crédit.
+[12] L'expression « réside avec », telle qu'elle est utilisée dans la définition du terme « particulier admissible » à l'article 122.6 de la Loi, signifie essentiellement « vivre dans la même maison » de manière habituelle. La question à laquelle je devrai donc répondre est la suivante : est-ce que l'appelante vivait dans la même maison que son fils en juillet et août 2005, et ce, de manière habituelle?
+[13] Je souligne aussi que le fait d'avoir la garde exclusive d'un enfant en vertu d'un accord ou d'un jugement ne donne pas droit automatiquement à la prestation fiscale pour enfants. Cela n'est tout simplement pas un critère déterminant. En aucun cas une convention de séparation ou pareil jugement ne saurait lier le ministre ni conférer des droits fiscaux au parent avec qui l'enfant ne réside pas et qui n'a pas la charge de l'enfant.
+[14] Enfin, on doit aussi comprendre de la formule qui s'applique au calcul du montant des prestations payables et qui se trouve à l'article 122.61 de la Loi que la période minimale, aux fins du paiement des prestations, est d'un mois et qu'un mois de prestation doit être versé à quiconque était le particulier admissible au début du mois, c'est-à-dire à la personne qui résidait avec la personne à charge au début du mois et qui, à cette date, assumait principalement la responsabilité pour le soin et l'éducation de cette dernière.
+[15] À l'égard du mois de juillet 2005, je conclus que l'appelante n'était pas le particulier admissible, puisque Sébastien n'avait pas résidé avec sa mère pendant cette période. Par conséquent, l'appelante n'avait pas droit à la prestation fiscale canadienne pour enfants pendant cette période. Encore une fois, je répète que le fait d'avoir la garde exclusive d'un enfant en vertu d'un accord ou d'un jugement ne donne pas droit automatiquement à la prestation fiscale pour enfants.
+[16] À l'égard du mois d'août 2005, j'aurais conclu que l'appelante était le particulier admissible si elle m'avait convaincu que la présence de Sébastien chez son père pendant les sept premiers jours de ce mois était en quelque sorte illégale. Pour ce faire, l'appelante devait d'abord me convaincre que, la journée même où le jugement fut rendu, soit le 30 juin 2005, elle avait non seulement pris connaissance du jugement, mais qu'elle avait aussi réussi à s'entendre avec monsieur Alain Petit pour qu'il ait la garde de Sébastien du 1er juillet au 31 juillet 2005 inclusivement. La version de monsieur Petit, à cet égard, m'a paru tout simplement plus vraisemblable que celle de l'appelante. Je rappelle que monsieur Petit a témoigné qu'il avait pris connaissance du jugement le 7 juillet 2005, date à laquelle il avait ramené Sébastien à la résidence de l'appelante, pour ainsi se conformer aux dispositions du jugement qui accordaient la garde exclusive de Sébastien à l'appelante. Je rappelle aussi que monsieur Petit a témoigné que, quelques minutes après son arrivée à la résidence de l'appelante, Sébastien l'avait supplié de le ramener chez lui et que c'est à ce moment que lui et l'appelante avaient convenu qu'il aurait la garde de Sébastien pour la période du 7 juillet 2005 au 7 août 2005 inclusivement, date à laquelle il avait fait le nécessaire pour que Sébastien retourne vivre avec l'appelante. Or, j'en conclus que la présence de Sébastien chez son père pendant les sept premiers jours d'août n'était pas illégale et qu'ainsi Sébastien ne vivait pas avec sa mère au début du mois d'août. Puisque l'appelante ne vivait pas avec Sébastien au début de ce mois, elle ne pouvait pas être le particulier admissible pour le mois d'août 2005 et, par conséquent, elle n'avait pas droit à la prestation fiscale canadienne pour enfants pour ce mois.
+[17] Pour ces motifs, l'appel est rejeté.
+Signé à Ottawa, Canada, ce 8e jour d'août 2007.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2007CCI355
+Nº DU DOSSIER DE LA COUR : 2007-658(IT)I
+INTITULÉ DE LA CAUSE : CHANTAL LANDRY ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Québec (Québec)
+DATE DE L’AUDIENCE : le 6 juin 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 8 août 2007
+COMPARUTIONS :
+Avocat de l'appelante :
+Me Jean‑H. Lemire
+Avocate de l'intimée :
+Me Anne Poirier
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom : Me Jean‑H. Lemire
+Étude : Picard, Lemire, Asselin, Demers
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir la pièce A‑1.
+[2] Voir la pièce A‑1, paragraphe 61.

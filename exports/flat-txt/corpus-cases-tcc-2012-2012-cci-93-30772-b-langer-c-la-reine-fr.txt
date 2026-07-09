@@ -1,0 +1,283 @@
+Title: Bélanger c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30772/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-93-30772-b-langer-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-04-12
+
+# Bélanger c. La Reine
+
+- Citation: 2012 CCI 93
+- Decision date: 2012-04-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7574, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bélanger c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-04-12
+Référence neutre
+2012 CCI 93
+Numéro de dossier
+2009-3573(IT)G
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3573(IT)G
+ENTRE :
+DANIEL BÉLANGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 8 décembre 2011, à Montréal (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+L’appelant lui-même
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+____________________________________________________________________
+JUGEMENT
+Les appels à l’encontre des nouvelles cotisations établies en date du 27 septembre 2007 en vertu de la Loi de l’impôt sur le revenu concernant les années d’imposition 2004, 2005 et 2006 sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 12e jour d'avril 2012.
+« Réal Favreau »
+Juge Favreau
+Référence : 2012 CCI 93
+Date : 20120412
+Dossier : 2009-3573(IT)G
+ENTRE :
+DANIEL BÉLANGER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] Il s'agit d’appels par la voie de la procédure générale à l’encontre de nouvelles cotisations établies en date du 27 septembre 2007 en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985) ch. 1 (5e Suppl.), telle que modifiée (la « Loi ») concernant les années d’imposition 2004, 2005 et 2006.
+[2] Le litige ne porte que sur le gain en capital déclaré de 800 330 $ réalisé lors de la disposition en 2005 des cinq immeubles faisant partie de Place Montrose à Granby et sur l’allocation du coût en capital réclamé en 2004 à l’égard de ces cinq immeubles.
+[3] L'appelant a déclaré les gains en capital imposables suivants sur des dispositions de biens immeubles et a réclamé les allocations du coût en capital suivantes, pour les années d'imposition 2004, 2005 et 2006 :
+Années
+Gains en capital
+Allocations du coût en capital
+2004
+53 698,83 $
+112 383 $
+2005
+873 909,59 $
+22 073 $
+2006
+-
+68 599 $
+[4] Par de nouvelles cotisations en date du 27 septembre 2007, le ministre du Revenu national (ci-après « le ministre ») a, entre autres, a) modifié le traitement fiscal des transactions immobilières effectuées par l’appelant b) a refusé les allocations du coût en capital réclamées et c) a détaxé la récupération réclamée sur les biens loués des biens d’inventaire, pour les montants suivants :
+Années
+Gains en
+capital
+refusés
+Revenus
+d’entreprise
+ajoutés
+Allocations du
+coût en
+capital refusées
+Récupéra-
+tions
+détaxées
+accordées
+Total
+2004
+53 698 $
+53 698 $
+112 383 $
+139 232 $
+2005
+873 909 $
+873 909 $
+22 073 $
+(109 713) $
+349 315 $
+2006
+68 599 $
+(8 766) $
+59 833 $
+[5] En établissant les nouvelles cotisations datées du 27 septembre 2007, le ministre a tenu pour acquis les faits suivants énoncés aux paragraphes 14 à 53 de la réponse à l’avis d’appel :
+14. L'appelant est actionnaire unique de Gestion Daniel Bélanger inc. (« Gestion DB »). (admis)
+15. Gestion DB est l’actionnaire unique de Construction Horizon Inc. (« Horizon »). (admis)
+16. Gestion DB offre le financement aux acheteurs des immeubles construits par Horizon. (admis)
+17. Horizon œuvre dans le domaine de la construction. (admis)
+18. Horizon se spécialise dans la construction de jumelés et d’immeubles à logement. (admis en ajoutant des résidences unifamiliales)
+19. Horizon opère depuis 1993. (admis)
+20. L’appelant fait construire par Horizon des immeubles à logement dont il est personnellement propriétaire. (admis)
+21. De 2001 à 2007, l’appelant a vendu 36 immeubles. (admis)
+22. Pour considérer le revenu gagné comme du gain en capital ou comme du revenu d’entreprise, l’appelant considérait principalement le délai de détention de l’immeuble. (admis)
+23. Ainsi, pour un délai de détention de moins d’un an, l’appelant considérait que le revenu gagné était un revenu d’entreprise, alors que lorsque le délai de détention était de plus d’un an, le revenu gagné était un gain en capital. (admis)
+24. L’appelant fait construire des immeubles par Horizon pour garder cette compagnie active et conserver ses employés expérimentés à son emploi. (admis)
+25. L’appelant ne conserve la propriété des immeubles que dans l’attente de louer les logements, ce qui facilite la vente et le financement pour les acheteurs potentiels. (admis)
+26. Gestion DB offrait un 2e financement aux acheteurs, pour faciliter la vente des immeubles de l’appelant. (admis)
+27. L’appelant n’avait pas l’intention de détenir ces immeubles à long terme, au moment de leur construction. (admis sauf pour les immeubles de Place Montrose)
+28. L’appelant n’a pas changé d’intention, durant la période où il a détenu ces immeubles. (admis)
+Ventes d’immeubles en 2004
+29. Durant l’année d’imposition 2004, l’appelant a disposé des 3 immeubles suivants : (admis)
+· 584-586 Iris, Granby
+· 505 Du Rubis, Granby
+· 601 Iris, Granby
+30. L'appelant a détenu l’immeuble situé au 601 Iris durant une période de 2 mois et demi et le profit réalisé lors de la vente a été déclaré comme un revenu d’entreprise. (admis)
+31. Suite à la disposition des immeubles situés au 584-586 Iris et 505 Du Rubis, l’appelant a déclaré un gain en capital de 53 698,83 $. (admis)
+32. L’appelant a détenu l’immeuble situé au 584-586 Iris durant une période de 17 mois. (admis)
+33. L'appelant a détenu l’immeuble situé au 505 Du Rubis durant une période de 42 mois. (admis)
+Ventes d’immeubles en 2005
+34. Durant l’année d’imposition 2005, l’appelant a disposé des 9 immeubles suivants : (admis)
+· 501 Du Rubis, Granby
+· 498 Du Topaze, Granby
+· 200 Paré, Granby
+· 206 Paré, Granby
+· 212 Paré, Granby
+· 201 St-Antoine, Granby
+· 298 St-André, Granby
+· 596 De La Providence, Granby
+· 420 Du Nénuphar, Granby
+35. L'appelant a détenu les immeubles situés au 596 De La Providence et au 420 Du Nénuphar durant des périodes respectives d'un mois et demi et quatre mois et demi et le profit réalisé lors de ces ventes a été déclaré comme un revenu d'entreprise. (admis)
+36. Suite à la disposition des sept autres immeubles, l'appelant a déclaré un gain en capital de 873,909,59 $. (admis)
+37. L'appelant a détenu l'immeuble situé au 501 Du Rubis durant une période de 4 ans et 4 mois. (admis)
+38. L'appelant a détenu l'immeuble situé au 498 Du Topaze durant une période de 2 ans et 4 mois. (admis)
+39. L'appelant a détenu l'immeuble situé au 200 Paré durant une période de 23 mois. (admis)
+40. L'appelant a détenu l'immeuble situé au 206 Paré durant une période de 12 mois. (admis)
+41. L'appelant a détenu l'immeuble situé au 212 Paré durant une période de 12 mois. (admis)
+42. L'appelant a détenu l'immeuble situé au 201 St-Antoine durant une période de 23 mois. (admis)
+43. L'appelant a détenu l'immeuble situé au 228 St-André durant une période de 23 mois. (admis)
+Immeubles situés au 200 Paré, 206 Paré, 212 Paré, 201 St-Antoine, 298 St‑André, à Granby
+44. Les 5 immeubles situés au 200 Paré, 206 Paré, 212 Paré, 201 St-Antoine, 298 St-André, ont tous été vendus à la même date et au même acheteur. (admis)
+45. L'appelant a indiqué qu'il désirait construire et conserver ces immeubles comme un fonds de retraite. (admis)
+46. L'appelant a indiqué que ces immeubles convenaient à une clientèle plus âgée. (admis pour les personnes âgées de plus de 50 ans et sans enfant)
+47. Aucun de ces immeubles ne répond à une norme spécifique pour un immeuble logeant des personnes âgées, au contraire d'autres immeubles de l'appelant. (admis)
+48. L'appelant a indiqué qu'il a décidé de vendre ces immeubles à cause de sa séparation avec sa conjointe, Mme Lynda Roy. (admis)
+49. Les immeubles ont été vendus le 6 juin 2005. (admis)
+50. Au mois d'octobre 2005, l'appelant et Mme Roy se rendaient ensemble en Italie, pour un congrès de l'APCHQ. (admis en précisant que les billets avaient été achetés deux ans auparavant)
+51. Mme Roy a continué à s'occuper de gérer les immeubles à logement de l'appelant jusqu'en mars 2006. (admis)
+52. L'appelant et Mme Roy ont emménagé ensemble dans leur nouvelle résidence, au 163 Du Diamant, à Granby, au mois de décembre 2005. (admis)
+53. Ce n'est qu'au mois de février 2006 que l'appelant a fait savoir à Mme Roy qu'il désirait une séparation. (admis)
+[6] À l'ouverture de l'audience, l'appelant a fait les concessions suivantes :
+a) le profit réalisé lors de la vente en 2004 des deux immeubles situés au 584 – 586 Iris et 505 Du Rubis aurait dû être déclaré comme un revenu d'entreprise;
+b) le profit réalisé lors de la vente en 2005 des deux immeubles situés au 501 Du Rubis et 498 Du Topaze aurait dû être déclaré comme un revenu d'entreprise; et
+c) les déductions réclamées au titre de l'allocation du coût à l'égard des années d'imposition 2004, 2005 et 2006 ont été refusées à juste titre, sauf en ce qui regarde les cinq immeubles faisant partie de Place Montrose.
+[7] Monsieur Daniel Bélanger a témoigné à l'audience. Il a expliqué que les cinq immeubles de Place Montrose reposaient sur deux lots adjacents et étaient desservis par un terrain de stationnement extérieur commun et par un garage extérieur de quatre portes de 12' x 22' offert séparément en location. Chaque immeuble comptait douze logements de 1 200 pieds carrés de deux chambres à coucher sur trois étages.
+[8] Monsieur Bélanger a de plus expliqué qu'il a fait l'acquisition en 2002 des deux lots et de l'usine de textile désaffectée qui s'y trouvait. Il a dû démolir l'usine et décontaminer le sol avant d'entreprendre la construction des cinq immeubles au cours des années 2003 et 2004. Le site était idéal pour des locataires âgés de 50 ans et plus sans enfant puisqu'il était situé à proximité de l'hôpital, du CLSC, d'une pharmacie, d'un supermarché, d'églises et de restaurants.
+[9] Monsieur Bélanger a affirmé ne pas avoir bâti les cinq immeubles dans le but de les revendre. Son intention était de les garder pour générer un revenu pour sa retraite et la retraite de sa conjointe, madame Lynda Roy. Les immeubles étaient bien situés et étaient faciles à louer. La clientèle était facile à gérer et à satisfaire et payait toujours bien. Les immeubles avaient un taux de vacances très bas et il y avait une liste d'attente. Les logements étaient loués à 625 $ par mois.
+[10] Monsieur Bélanger a affirmé à l'audience qu'il a changé ses plans à cause de sa séparation avec madame Roy, laquelle est survenue au cours du mois de février 2006, soit après la vente des immeubles de Place Montrose le 6 juin 2005. Selon le témoignage de monsieur Bélanger, son ex-conjointe s'occupait de la gestion des immeubles locatifs de Place Montrose, soit de faire visiter les logements, de faire signer les baux, de déposer les loyers mensuels dans le compte de banque personnel de monsieur Bélanger. Comme la séparation a entraîné la perte de la personne ressource qui s'occupait de la gestion des immeubles locatifs et comme il n'avait pas lui-même le temps de s'occuper de la gestion quotidienne de 60 unités de logement, il a mis fin à la continuité de son intention première et il a décidé de vendre les immeubles de la Place Montrose.
+[11] Selon monsieur Bélanger, les cinq immeubles de Place Montrose ont été vendus à monsieur Adrien Gagné suite à une offre non sollicitée de sa part. Aucun mandat de vente des immeubles n'a été accordé à un agent d'immeubles par monsieur Bélanger et aucune commission de vente n'a été payée par ce dernier à un agent d'immeubles. Monsieur Gagné était alors un directeur de comptes commerciaux à la Caisse Populaire Desjardins de Granby, que l'appelant connaissait depuis de nombreuses années et qui demeurait près de chez lui. À l'audience, monsieur Bélanger a indiqué qu'il a reçu un appel de monsieur Gagné environ 1½ mois avant la vente pour s'enquérir si les immeubles de la Place Montrose étaient à vendre. Ce dernier lui aurait alors offert 4 475 000 $ alors que l'évaluation municipale était de l'ordre de 4 500 000 $. La vente en bloc des cinq immeubles a été conclue le 6 juin 2005 pour un prix d'achat de 4 475 000 $, soit 1 200 000 $ payés en argent comptant ou avec des effets de commerce garantis, 2 450 000 $ par un prêt hypothécaire de la Caisse Populaire Desjardins de Granby, garanti par une hypothèque de premier rang sur les immeubles, et quant au solde d'environ 800 000 $ par un prêt hypothécaire de Gestion DB, garanti par une hypothèque de deuxième rang sur les immeubles.
+[12] Les cinq immeubles de Place Montrose ont été construits par Constructions Horizon Inc. pour le compte de l'appelant. La construction de trois des cinq immeubles a été complétée en 2003 et la construction des deux autres immeubles a été complétée en 2004. La durée de détention des immeubles a été de 23 mois pour les trois immeubles construits en 2003 et de 12 mois pour les deux immeubles construits en 2004. L'appelant a réalisé un profit de 800 330 $ lors de la vente desdits immeubles.
+[13] Messieurs Daniel Morin, agent d'immeubles pour le Groupe Sutton et Sylvain Dupont, menuisier et employé de Constructions Horizon Inc., ont témoigné à l'audience pour le compte de l'appelant. Ces deux personnes ont en commun le fait qu'ils ont acheté des immeubles de l'appelant avant et après le projet de Place Montrose et le fait qu'ils ont de part et d'autres sollicité l'appelant pour faire l'acquisition des immeubles de Place Montrose. Leur intérêt respectif remontait au début de la construction des immeubles de Place Montrose. Les deux groupes d'acheteurs potentiels se sont fait dire par l'appelant que ces immeubles n'étaient pas à vendre et qu'il désirait les garder pour sa retraite.
+[14] Madame Chantal Labbé, vérificatrice de l'Agence du Revenu du Canada (l'« ARC »), a également témoigné à l'audience. Son rapport de vérification, daté du 4 septembre 2007, a été déposé comme pièce I-6 avec en annexe un document intitulé « Rapport sur le gain en capital vs. revenu d'entreprise de Monsieur Daniel Bélanger pour les années 2004-2005-2006 ». Le document annexé au rapport fait grand état des faits obtenus de madame Lynda Roy lors d'une entrevue réalisée au mois d'août 2007.
+[15] On y apprend notamment que madame Lynda Roy a perdu son père qui est décédé d'un cancer le 19 février 2006. Elle a entendu parler de séparation pour la première fois quelques jours avant le décès de son père, soit au tout début du mois de février 2006. Elle a confirmé qu'il n'a jamais été question de séparation en 2005 et que tout allait bien dans leur couple. Après le décès de son père, tout s'est déroulé rapidement. Un peu plus de 2 mois plus tard, le contrat de divorce était signé devant Me Poitras à Granby le 27 avril 2006. Le divorce fut prononcé le 3 mai 2006 et enregistré le 6 juin devant l'honorable juge Pierre Boily.
+[16] Madame Lynda Roy a confirmé que la séparation avec monsieur Bélanger n'était aucunement en cause dans la vente des immeubles de la Place Montrose puisqu'à ce moment-là, il n'était pas question de séparation.
+[17] Madame Lynda Roy a également dit que monsieur Bélanger ne la tenait pas au courant de toutes ses transactions d'achats et de ventes d'immeubles. Bien souvent, elle l'apprenait une fois la transaction conclue. Dans ce cas-ci, monsieur Bélanger lui a dit qu'il avait vendu à cause de la récession qui s'en venait, qu'il avait besoin d'argent pour acheter d'autres terrains et qu'il voulait qu'elle se repose car c'est elle qui s'occupait de la gestion de ces immeubles, soit rencontrer les locataires pour les baux et collecter les loyers. Elle s'est dite surprise que monsieur Bélanger ait vendu car elle aimait bien la clientèle de Place Montrose.
+[18] Madame Lynda Roy a confirmé avoir continué de s'occuper de la gestion des immeubles de monsieur Bélanger jusqu'au début du mois de mars 2006 en remplissant et signant tous les bordereaux de dépôts. Le 9 mars 2006, madame Lynda Roy a définitivement cessé de s'occuper de la gestion des immeubles de monsieur Bélanger.
+[19] Suite à la vente des immeubles de Place Montrose le 6 juin 2005, madame Lynda Roy et monsieur Bélanger ont fait ensemble un voyage en Italie pour un congrès de l'APCHQ qui s'est tenu du 6 au 17 octobre 2005 et madame Lynda Roy a continué de signer des chèques pour les paiements des sous-traitants pour la nouvelle résidence du 163, Du Diamant à Granby dans laquelle madame Lynda Roy et son conjoint ont aménagé vers le mois de décembre 2005.
+[20] Madame Lynda Roy n'a pas témoigné à l'audience mais monsieur Bélanger n'a pas contesté sa version de faits.
+Disposition législatives applicables
+[21] Les dispositions pertinentes de la Loi sont reproduites ci-dessous :
+3. Revenu pour l'année d'imposition
+Pour déterminer le revenu d'un contribuable pour une année d'imposition, pour l'application de la présente partie, les calculs suivants sont à effectuer :
+a) le calcul du total des sommes qui constituent chacune le revenu du contribuable pour l'année (autre qu'un gain en capital résultant de la disposition d'un bien) dont la source se situe au Canada ou à l'étranger, y compris, sans que soit limitée la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien;
+b) le calcul de l'excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+(i) le total des montants suivants :
+(A) ses gains en capital imposables pour l'année tirés de la disposition de biens, autres que des biens meubles déterminés;
+(B) son gain net imposable pour l'année tiré de la disposition de biens, autres que des biens meubles déterminés,
+(ii) l'excédent éventuel de ses pertes en capital déductibles pour l'année, résultant de la disposition de biens autres que des biens meubles déterminés sur les pertes déductibles au titre d'un placement d'entreprise pour l'année, subies par le contribuable;
+[. . . ]
+9. Revenu
+(1) Revenu – Sous réserve des autres dispositions de la présente partie, le revenu qu'un contribuable tire d'une entreprise ou d'un bien pour une année d'imposition est le bénéfice qu'il en tire pour cette année.
+(2) Perte – Sous réserve de l'article 31, la perte subie par un contribuable au cours d'une année d'imposition relativement à une entreprise ou à un bien est le montant de sa perte subie au cours de l'année relativement à cette entreprise ou à ce bien, calculée par l'application, avec les adaptations nécessaires, des dispositions de la présente loi afférentes au calcul du revenu tiré de cette entreprise ou de ce bien.
+(3) Exclusion des gains et pertes en capital - Dans la présente loi, le revenu tiré d'un bien exclut le gain en capital réalisé à la disposition de ce bien, et la perte résultant d'un bien exclut la perte en capital résultant de la disposition de ce bien.
+Modification proposée – 9(3)
+(3) Exclusion des gains et pertes en capital - Dans la présente loi, les gains en capital et les pertes en capital sont exclus du revenu ou de la perte provenant d'une entreprise ou d'un bien.
+Application :
+Le paragraphe 9(3) sera remplacé par le par. 3(1) du Projet de modification du 31 octobre 2003 (ARP) et cette modification s'appliquera aux années d'imposition commençant après 2004
+[. . . ]
+39 Sens de gain en capital et de perte en capital
+(1) Pour l'application de la présente loi :
+a) un gain en capital d'un contribuable, tiré, pour une année d'imposition, de la disposition d'un bien quelconque, est le gain, déterminé conformément à la présente sous-section (jusqu'à concurrence du montant de ce gain qui ne serait pas, compte non tenu du passage «autre qu'un gain en capital imposable résultant de la disposition d'un bien », à l'alinéa 3a), et de l'alinéa 3b), inclus dans le calcul de son revenu pour l'année ou pour toute autre année d'imposition), que ce contribuable a tiré, pour l'année, de la disposition d'un bien lui appartenant, à l'exception :
+(i) d'une immobilisation admissible,
+(i.1) d'un objet dont dont la conformité aux critères d'intérêt et d'importance énoncés au paragraphe 29(3) de la Loi sur l'exportation et l'importation de biens culturels a été établie par la Commission canadienne d'examen des exportations de biens culturels et qui a été aliéné dans le délai suivant au profit d'un établissement, ou d'une administration, au Canada alors désigné, en application du paragraphe 32(2) de cette loi, à des fins générales ou à une fin particulière liée à cet objet :
+(A) dans le cas d'un don auquel le paragraphe 118.1(5) s'applique, au cours de la période se terminant 36 mois après le décès du contribuable ou, si le représentant légal du contribuable en fait la demande écrite au ministre au cours de cette période, dans tout délai supplémentaire que le ministre estime raisonnable dans les circonstances,
+(B) dans les autres cas, à n'importe quel moment,
+[. . . ]
+248(1) Les définitions qui suivent s'appliquent à la présente loi :
+[. . . ]
+« entreprise » Sont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et, sauf pour l'application de l'alinéa 18(2)c), de l'article 54.2, du paragraphe 95(1) et de l'alinéa 110.6(14)f), les projets comportant un risque ou les affaires de caractère commercial, à l'exclusion toutefois d'une charge ou d'un emploi.
+[. . . ]
+Analyse
+[22] Comme la Loi ne contient aucune disposition afin de préciser dans quelles circonstances des gains provenant de la vente d'immeubles doivent être considérés comme un revenu d'entreprise ou comme un gain en capital, les tribunaux ont élaboré plusieurs facteurs pour tenir compte de toutes les situations particulières de fait. Une liste non exhaustive de ces facteurs est fournie au paragraphe 3 du Bulletin d'interprétation IT-218 R daté du 16 septembre 1986 :
+a) l'intention du contribuable en ce qui concerne le bien immeuble au moment de l'achat;
+b) la vraisemblance de l'intention du contribuable;
+c) l'emplacement géographique du bien immeuble acquis et son zonage;
+d) la mesure dans laquelle l'intention du contribuable est réalisée;
+e) la preuve que l'intention du contribuable a changé après l'achat du bien immeuble;
+f) la nature de l'entreprise, de la profession, du métier ou de l'occupation du contribuable et des associés;
+g) la mesure dans laquelle l'argent emprunté a servi à financer l'acquisition du bien immeuble et les modalités arrêtées pour le financement s'il y a lieu;
+h) la période pendant laquelle le bien immeuble a été détenu par le contribuable;
+i) le fait que la possession du bien immeuble soit partagée avec des personnes autres que le contribuable;
+j) la nature de la profession des autres personnes mentionnées en i)ci-dessus, de même que leurs intentions avouées et leur ligne de conduite;
+k) les facteurs qui ont motivé la vente du bien immeuble;
+l) la preuve que le contribuable et/ou les associés se livrent sur une grande échelle au commerce de l'immeuble.
+[23] Aucun de ces facteurs n'est en soi un facteur concluant pour déterminer si un gain provenant de la vente d'un immeuble représente un revenu d'entreprise ou un gain en capital mais le facteur le plus important est l'intention subjective du contribuable par rapport au bien au moment où le contribuable en a fait l'acquisition (« l'intention primaire »).
+[24] À ces facteurs, on doit ajouter le critère de « l'intention secondaire » qui a été élaboré par les tribunaux pour tenir compte des situations dans lesquelles « l'intention primaire » du contribuable de posséder l'immeuble à titre d'investissement avait été contrecarrée et dans lesquelles le contribuable avait la possibilité de vendre l'immeuble à profit dans l'éventualité où le projet d'investissement du contribuable ne se matérialisait pas.
+[25] L'analyse de « l'intention primaire » et de « l'intention secondaire » du contribuable est une question de fait. À cet égard, les circonstances entourant la détention et la disposition d'un immeuble doivent être analysés par les tribunaux en plus des déclarations d'intention du contribuable.
+Le contexte
+[26] L'appelant est un entrepreneur en construction qui est en opération depuis au moins 1993. Son entreprise est basée sur un plan d'affaires bien structuré et bien établi. Gestion DB achète les terrains et l'appelant fait construire les immeubles à logement par Horizon. Une fois la construction d'un immeuble complétée, Horizon vend l'immeuble à l'appelant personnellement à un prix équivalent à la juste valeur marchande, telle que déterminée par un rapport d'évaluateur agréé. Une fois acquis par l'appelant, l'immeuble est mis en location jusqu'à ce qu'il soit loué à 75%, soit le minimum requis pour que les banques puissent effectuer les déboursés hypothécaires. Pour faciliter la vente des immeubles, Gestion DB offrait aux acheteurs un deuxième financement pour couvrir la portion du prix d'achat correspondant à la mise de fonds initiale exigée par les banques. Le contexte dans lequel les immeubles de Place Montrose ont été construits était bel et bien un contexte d'entreprise.
+[27] Selon l'appelant, le but de la construction des immeubles à logement était de faire rouler son entreprise de construction et de faire travailler ses hommes afin de ne pas les perdre. Pour lui, il était très important de garder sa main d'œuvre qualifiée et de fournir du travail à ses hommes de confiance avec qui il travaille depuis plus de dix ans. Les immeubles sont offerts en location avant leurs ventes parce qu'ils se vendent plus facilement une fois qu'ils sont loués plutôt que d'être vides.
+[28] De 2001 à 2007, l'appelant a fait personnellement construire par sa compagnie de construction 36 immeubles à logement et il n'en a gardé qu'un seul sur une période de plus de deux ans. L'analyse de ces 36 transactions a permis de constater que le critère retenu par l'appelant pour déterminer le traitement fiscal du revenu tiré de la vente d'un immeuble était le délai de détention. Pour un délai de détention de moins d'un an, le revenu était considéré être un revenu d'entreprise alors que si le délai de détention était de plus d'un an, le revenu était considéré être du gain en capital. Dans bien des cas, le délai de détention excédait un an à cause du temps requis pour louer l'immeuble (le délai de location).
+L'intention de l'appelant au moment de l'acquisition de l'usine Montrose
+[29] Selon l'appelant, son intention au moment de l'achat de l'usine Montrose et des terrains sous-jacents était d'y construire les cinq immeubles dans le but de les conserver à long terme pour en faire son fonds de pension. Parmi les raisons invoquées par l'appelant pour conserver la propriété de ces immeubles plus longtemps que les autres, il y a les suivantes :
+- la situation géographique où sont situés les cinq immeubles, soit à proximité de l'hôpital, d'un CLSC, d'un centre commercial, d'un restaurant et d'un supermarché. Le secteur était idéal pour les personnes âgées;
+- la clientèle visée était principalement composée de personnes à la retraite qui sont de bons payeurs et qui sont faciles à gérer et à satisfaire.
+Vraisemblance de l'intention primaire du contribuable
+[30] Selon les rapports d'évaluation des cinq immeubles de Place Montrose, les composantes de ces immeubles ne répondaient pas aux normes spécifiques pour permettre de loger des personnes âgées, telles un ascenseur, des mains courantes dans les couloirs, des couloirs plus larges et l'air climatisé.
+[31] Même si le concept des immeubles de Place Montrose ne s'adressait pas davantage à des personnes âgées, la vérificatrice n'a pas nié que l'intention primaire de l'appelant puisse avoir été de conserver lesdits immeubles à long terme pour assurer un revenu de retraite.
+[32] Les allégations de l'appelant à cet égard furent confirmées par les témoignages de messieurs Daniel Morin et Sylvain Dupont et par madame Roy, lors de son entrevue avec la vérificatrice.
+L'intention secondaire de l'appelant
+[33] Compte tenu de son expérience dans le domaine de la construction et de ses connaissances du marché immobilier à Granby, l'appelant savait très bien, au moment où il a acquis l'usine Montrose, que son projet d'immeubles trouverait facilement preneur advenant le cas où il voudrait s'en départir. L'emplacement géographique de Place Montrose et la clientèle recherchée rendait le projet très attrayant pour des acheteurs éventuels. L'appelant a d'ailleurs reçu de nombreux appels de la part d'acheteurs potentiels, dont ceux des messieurs Daniel Morin et Sylvain Dupont, alors que les immeubles étaient en construction.
+[34] Les circonstances entourant l'acquisition de l'usine Montrose et la réalisation de Place Montrose laissent croire qu'il y avait peu de probabilités que les immeubles soient détenus à long terme par l'appelant non pas à cause d'un manque de ressources financières de sa part mais plutôt parce que cela ne correspondait pas à son plan d'affaires habituel. Rappelons que, depuis 2001, l'appelant a effectué 36 transactions de vente d'immeubles et il n'a conservé qu'un seul immeuble pour une durée de plus de deux ans.
+Les facteurs ayant motivé la vente des immeubles
+[35] L'appelant a allégué avoir changé ses plans uniquement à cause de sa séparation avec madame Roy, alors que cette dernière n'en savait rien. Elle n'a appris, que monsieur Bélanger voulait se séparer, qu'au début du mois de février 2006, soit quelques jours avant le décès de son père.
+[36] Selon l'appelant, sa seule motivation pour la vente fut la séparation avec madame Roy. Il perdait alors sa personne ressource qui s'occupait de la gestion complète des cinq immeubles. Comme l'appelant devait consacrer 80 heures par semaine à sa société de construction, il n'avait pas de temps à consacrer à la gestion des cinq immeubles de Place Montrose.
+[37] L'explication fournie par l'appelant m'apparaît être invraisemblable compte tenu du décalage de temps entre le moment où l'appelant a décidé de vendre en bloc les cinq immeubles en avril 2005 (soit approximativement 1½ mois avant la date de la vente) et le moment où l'appelant a informé sa conjointe qu'il voulait se séparer, au début du mois de février 2006 et compte tenu des évènements qui sont survenus entre ces deux moments, soit l'aménagement du couple en décembre 2005 dans leur nouvelle résidence du 163, rue Du Diamant à Granby, le voyage du couple en Italie en octobre 2005 et le fait que madame Roy ait continué de payer les fournisseurs de la nouvelle résidence et ait continué de s'occuper de la gestion des immeubles de monsieur Bélanger jusqu'au 9 mars 2006.
+[38] L'appelant n'a présenté aucune preuve tendant à démontrer qu'il a posé des geste ou entrepris des démarches pour garder la propriété des immeubles de Place Montrose ou pour trouver une autre personne ou société pour s'occuper de la gestion desdits immeubles. La vérificatrice de l'ARC a noté dans le document annexé au rapport de vérification la réponse de l'appelant à la question pourquoi il n'a pas pensé à engager quelqu'un pour remplacer madame Roy?
+Il me répond qu'il était alors débordé et devait trouver une solution rapidement, qu'il était épuisé, qu'il n'avait pas la tête à cela à cause de ce qu'il vivait dans sa vie personnelle et qu'il ne voyait pas comment il s'en sortirait.
+[39] Dans les faits, la personne qui a remplacé madame Roy à compter du 9 mars 2006 était la sœur de monsieur Bélanger, madame Christine Bélanger. Cette dernière a officiellement commencé ses fonctions à titre de salariée de la société Horizon en mars 2006. Auparavant, madame Christiane Bélanger offrait ses services en sous-traitance à la société Horizon pour faire la comptabilité et les remises gouvernementales. Au moment où l'appelant a décidé de vendre les immeubles de Place Montrose, il savait ou devait savoir qu'il pouvait compter sur sa sœur pour remplacer madame Roy puisqu'elle était déjà familière avec les opérations de l'entreprise de son frère.
+[40] À la lumière des faits mis en preuve, la séparation du couple s'est concrétisée à partir du mois de mars 2006. Il est difficile de croire, qu'en avril ou juin 2005, la seule et unique raison de la vente des immeubles de Place Montrose était la séparation éventuelle avec madame Roy alors que rien dans les faits ne laissait présager cela et que l'autre personne concernée, madame Roy, n'était pas du tout au courant d'une séparation éventuelle.
+[41] L'appelant n'a pas divulgué à son ex-conjointe les véritables raisons de la vente des immeubles de Place Montrose. Il lui a dit qu'une récession était imminente et qu'il avait besoin d'argent pour faire d'autres transactions et pour acheter d'autres terrains. Il lui a donc caché la vérité.
+[42] Il importe de souligner ici que l'appelant a changé son intention primaire suite à sa propre décision et non pas parce qu'il a été dans l'incapacité de réaliser son projet pour quelque raison que ce soit. Il a même facilité la vente en consentant à l'acheteur un prêt de l'ordre de 800 000 $ garanti par une hypothèque de 2e rang sur les immeubles de Place Montrose. À mon avis, ceci démontre que la vente des immeubles de Place Montrose était conforme au plan d'affaires de l'appelant et à son mode d'opérations. La transaction a eu lieu dans un contexte à caractère commercial.
+[43] Sur la base des faits mis en preuve, je ne peux que conclure que l'appelant avait une intention secondaire inavouée qui était de vendre à profit à la première occasion. Le projet de Place Montrose n'était pas différent des autres projets de développement de l'appelant. La durée de détention de ces immeubles n'a été que de 23 mois pour les trois immeubles construits en 2003 et de seulement 12 mois pour les deux autres immeubles construits en 2004.
+[44] Pour ces raisons, le ministre était justifié de recaractériser le gain en capital déclaré de 800 330 $ en revenu d'entreprise pour l'année d'imposition 2005 et de refuser l'allocation du coût en capital réclamé par l'appelant à l'égard des immeubles de Place Montrose pour l'année d'imposition 2004.
+[45] Par conséquent, les appels sont rejetés avec dépens.
+Signé à Ottawa, Canada, ce 12e jour d'avril 2012.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE : 2012 CCI 93
+Nº DU DOSSIER DE LA COUR : 2009-3573(IT)G
+INTITULÉ DE LA CAUSE : Daniel Bélanger c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 8 décembre 2011
+MOTIFS DU JUGEMENT PAR : L'honorable juge Réal Favreau
+DATE DU JUGEMENT : le 12 avril 2012
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Simon-Nicolas Crépin
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada

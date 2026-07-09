@@ -1,0 +1,177 @@
+Title: Roy c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25078/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-226-25078-roy-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2006-05-02
+
+# Roy c. La Reine
+
+- Citation: 2006 CCI 226
+- Decision date: 2006-05-02
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2488, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Roy c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-02
+Référence neutre
+2006 CCI 226
+Numéro de dossier
+2005-1240(IT)I
+Juges et Officiers taxateurs
+Pierre R. Dussault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-1240(IT)I
+ENTRE :
+ANDRÉ ROY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 2 février 2006 à Québec (Québec).
+Devant : L'honorable juge P. R. Dussault
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Michel Lamarre
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999, 2000 et 2001 sont rejetés, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 2e jour de mai 2006.
+« P. R. Dussault »
+Juge Dussault
+Référence : 2006CCI226
+Date : 20060502
+Dossier : 2005-1240(IT)I
+ENTRE :
+ANDRÉ ROY,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Dussault
+[1] Il s'agit d'appels de cotisations établies en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) pour les années d'imposition 1999, 2000 et 2001.
+[2] Par ces cotisations, le ministre du Revenu national (le « ministre » ) a révisé le revenu net d'entreprise de l'appelant à des montants de 10 241 $, de 12 983 $ et de 24 042 $ pour chacune des années 1999, 2000 et 2001 respectivement. La cotisation pour l'année d'imposition 1999 a été établie après la période normale de nouvelle cotisation. La cotisation établie pour chacune des années comprend également une pénalité pour faute lourde imposée en vertu du paragraphe 163(2) de la Loi.
+[3] Les faits tenus pour acquis par le ministre pour établir ces cotisations sont énoncés aux paragraphes 7 à 9 de la Réponse à l'avis d'appel qui se lisent comme suit :
+7. [...]
+a) l'appelant, pendant les années en litige, exploitait une entreprise, à propriétaire unique, dont l'activité principale consiste à offrir aux touristes des visites guidées en minibus pendant toute l'année dans le Vieux-Québec et la campagne environnante;
+b) l'appelant exploitait son entreprise, pendant les années en litige, sous la raison sociale de « La Tournée du Québec Métro enr. » ;
+c) lors d'un contrôle fiscal, le ministre s'est rendu compte qu'il n'existait aucun registre comptable et lors d'un test par la méthode des dépôts bancaires pour l'année d'imposition 2001, un écart de revenus est apparu pour une somme d'environ 40 000 $;
+d) devant une telle situation, le ministre a vérifié les revenus de l'appelant en utilisant la méthode d'avoir net, une copie de l'état de la valeur nette de l'appelant est jointe en annexe aux présentes (pages numérotées de 1 à 17);[1]
+e) pour la période s'échelonnant entre le 31 décembre 1997 au 31 décembre 2000, la vérification par la méthode dite d'avoir net a permis d'établir, à titre de revenus additionnels, les sommes suivantes :
+Année d'imposition
+i) 1999
+23 279 $
+ii) 2000
+21 053 $
+iii) 2001
+29 910 $
+74 242 $;
+f) force est de reconnaître que le revenu non déclaré de 74 242 $ ne tire pas sa source de l'établissement des dépenses personnelles qui totalisent les sommes suivantes :
+Année d'imposition
+i) 1999
+6 220 $
+ii) 2000
+3 581 $
+iii) 2001
+3 602 $
+13 403 $;
+g) le ministre, suite à une demande de l'appelant, lui a accordé annuellement des reports au titre de pertes autres que des pertes en capital :
+Année d'imposition
+i) 1999
+1 075 $
+ii) 2000
+7 971 $
+iii) 2001
+19 859 $
+28 905 $.
+8. Lors de la production de sa déclaration de revenus pour l'année d'imposition 1999, l'appelant a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire ou a commis quelque fraude en fournissant quelque renseignement selon les critères suivants :
+a) l'appelant ne tient aucun registre comptable et déclarait son revenu d'entreprise selon son bon vouloir,
+b) le revenu additionnel représente, grosso modo, 50 % de son revenu brut d'entreprise déclaré,
+9. Le ministre a déterminé que l'appelant avait fait sciemment, ou dans des circonstances qui justifient l'imputation d'une faute lourde, un faux énoncé ou une omission dans les déclarations de revenus produites pour les années d'imposition 1999, 2000 et 2001, ou avait participé, consenti ou acquiescé à ce faux énoncé ou cette omission, d'où il résulte que l'impôt qu'il aurait été tenu de payer d'après les renseignements fournis dans les déclarations de revenus déposées pour ces années-là était inférieur au montant d'impôt à payer pour ces années-là :
+a) l'appelant ne tient aucun registre comptable et déclarait son revenu d'entreprise selon son bon vouloir,
+b) dans le dossier permanent de l'appelant, il se trouve une lettre dans laquelle le dit appelant s'engage à tenir un jeu de livres comptable de façon adéquate,
+c) l'appelant a indiqué être un ex-professeur, et a également signalé avoir été actionnaire d'une société pour laquelle il complétait lui-même les états financiers,
+d) le revenu additionnel annuel représente, grosso modo, 50 % de son revenu brut d'entreprise déclaré.
+[4] L'appelant, monsieur Richard Paquet, vérificateur, et madame Line Gariepy, agent des appels, ont témoigné.
+[5] Monsieur Paquet a commencé la vérification des affaires de l'appelant pour les années d'imposition 1999, 2000 et 2001 en lui demandant de mettre à sa disposition ses livres, ses registres, ses factures, ses documents bancaires et autres documents pertinents (pièce A-1). Sa première constatation est que l'appelant n'avait pas de livres ou de registres comptables, qu'il n'avait pas non plus de factures de vente ni de bordereaux de dépôts bancaires, si ce n'est des états de dépôts par guichet automatique. Par ailleurs, il a obtenu directement de plusieurs institutions bancaires tous les relevés des comptes de l'appelant. Plusieurs comptes étaient maintenus par l'appelant pour le dépôt direct des montants payés par les clients au moyen des cartes de crédit Visa, Mastercard et American Express.
+[6] Monsieur Paquet a procédé d'abord à une analyse des dépôts dans les différents comptes de l'appelant pour l'année 2001. Du total des dépôts de 87 656 $, il a soustrait un montant de 19 693 $, représentant, selon son analyse, des transferts inter-comptes. Il a, par la suite, ajouté un montant de 15 000 $, représentant, selon lui, des dépenses payées comptant. Selon cette première analyse, le revenu brut d'entreprise de l'appelant pour l'année d'imposition 2001 se serait élevé à 82 962 $ alors qu'il n'avait déclaré que 43 200 $, d'où un écart de 32 762 $ pour l'année (pièce I-1).
+[7] C'est ce premier constat et le fait que l'appelant ne tenait pas de livres ou de registres comptables qui ont incité monsieur Paquet à déterminer le revenu de l'appelant pour les trois années par la méthode de l'avoir net. Les calculs détaillés sont indiqués dans les 17 pages jointes comme annexe à la Réponse à l'avis d'appel. Selon cette méthode, monsieur Paquet a établi que l'appelant n'avait pas déclaré 74 243 $ de revenu pour les trois années, soit 23 279,36 $, 21 053,27 $ et 29 910,58 $ pour chacune des années 1999, 2000 et 2001 respectivement. Selon monsieur Paquet, ces montants représentaient des revenus supplémentaires provenant de l'entreprise de l'appelant, que ce soit pour les visites touristiques guidées elles-mêmes ou comme pourboires.
+[8] Monsieur Paquet a aussi affirmé que l'appelant lui avait remis une boîte contenant des factures. Toutefois, comme l'appelant n'avait aucun système comptable pour appuyer les dépenses déduites avec pièces justificatives, il a expliqué qu'il n'a pu concilier les dépenses déduites, notamment pour l'année d'imposition 2001, avec les documents remis.
+[9] Monsieur Paquet a également affirmé que l'appelant lui avait dit qu'il percevait les taxes et même que le prix des visites comprenait les taxes. Cependant, monsieur Paquet n'avait pu retracer de numéro d'inscription, de déclaration ou de remise de taxes au nom de l'appelant. Seul un numéro d'inscription pour la taxe sur les produits et services ( « TPS » ) au nom de la société « La Tournée du Québec Inc. » valable jusqu'en 1998 aurait été retracé. Monsieur Paquet a toutefois affirmé qu'aucun chiffre n'était inscrit dans le système. L'appelant aurait constitué cette société vers 1983 et l'entreprise aurait été exploitée par cette société durant une période qui n'a pas été précisée.
+[10] Selon monsieur Paquet, ce sont les écarts considérables déterminés par la méthode de l'avoir net, de l'ordre de 50 % à 75 %, qui l'ont incité à cotiser l'année 1999 après la période normale de nouvelle cotisation et à ajouter pour les trois années en question la pénalité prévue au paragraphe 163(2) de la Loi. De plus, selon lui, les montants déduits pour certaines dépenses étaient arrondis et représentaient des dépenses fictives qu'il n'a pu concilier avec les documents remis. Enfin, monsieur Paquet a également souligné le fait que l'appelant s'était engagé, dès 1982, à tenir des livres et des registres adéquats pour son entreprise et qu'il n'a pas respecté cet engagement pour les trois années visées par la vérification (pièce I-5).
+[11] Madame Line Gariepy est agent des appels. Après que l'appelant se soit opposé aux cotisations établies par monsieur Paquet, elle a ratifié ces cotisations, en concluant toutefois que le revenu additionnel déterminé par la méthode de l'avoir net était constitué de pourboires en relation avec l'entreprise de guide touristique exploitée par l'appelant (pièce A-3). Je note ici qu'il m'apparaît irréaliste de considérer que le revenu additionnel cotisé pour les années d'imposition 1999, 2000 et 2001 puisse provenir seulement de pourboires que l'appelant aurait reçus en relation avec l'exploitation de son entreprise. Toutefois, les cotisations n'ont pas été établies sur cette base, mais plutôt en tenant pour acquis que ce revenu provenait de l'exploitation de l'entreprise, qu'il s'agisse ou non de pourboires.
+[12] L'appelant ne conteste aucunement l'ensemble des calculs établis par monsieur Paquet, lesquels indiquent un écart d'environ 74 000 $ pour les années d'imposition 1999, 2000 et 2001. Toutefois, selon lui, ce montant ne représente pas des revenus non déclarés au cours de ces années, mais essentiellement ses épargnes des 20 à 25 ou même des 30 dernières années conservées chez lui en argent liquide et dont il s'est servi pour investir dans son entreprise.
+[13] L'appelant a expliqué qu'il avait obtenu son premier permis de guide touristique en 1973, alors qu'il était professeur. En 1983, il a quitté l'enseignement. Il aurait alors reçu une prime de départ de 31 000 $. Il a par la suite constitué la société La Tournée du Québec Inc., dont il a déjà été question. C'est par l'entremise de cette société qu'il aurait exploité l'entreprise de guide touristique pendant un certain nombre d'années qu'il n'a pas précisé. Par la suite, il a de nouveau exploité l'entreprise comme propriétaire unique. Selon l'avis de ratification pour les années en question, lequel est joint à l'avis d'appel, on sait que l'appelant a déclaré des pertes de 6 419 $, de 8 541 $, de 12 688 $ et de 15 032 $ pour chacune des années 1995 à 1998 respectivement, soit un montant total de 42 680 $ pour les quatre années ayant précédé les trois années en question dans le présent litige.
+[14] Bien que l'appelant ait affirmé que les permis qu'il possédait ne lui avaient rien coûté, sauf celui acquis en 1973 au coût de 5 000 $, il n'en a pas moins estimé leur valeur à plus de 300 000 $, ce qui représente, selon lui, son propre régime de pension (pièces A-4 et A-5). Selon l'appelant, le permis qu'il a obtenu en 1996, à la suite d'une audience tenue devant la Commission des transports du Québec, est le permis le plus important qu'il a obtenu pour l'exploitation de son entreprise. Outre les frais liés à cette audience, l'appelant n'a rien eu à débourser pour l'obtention de ce permis.
+[15] Malgré la valeur de ses permis, l'appelant a affirmé que, pour obtenir un prêt, les institutions financières ne reconnaissaient pas la valeur de permis à titre de garantie, de sorte qu'il a dû utiliser ses propres épargnes pour faire fonctionner son entreprise et qu'à cet égard il avait besoin d'argent comptant. Je comprends que l'appelant reproche également au vérificateur de ne pas avoir tenu compte de la valeur de ses différents permis aux fins de l'établissement des cotisations. Je remarquerai simplement ici que le fait de ne pas avoir indiqué les permis à l'actif de l'appelant ne change en rien les calculs effectués en utilisant la méthode de l'avoir net, puisqu'aucun nouveau permis n'a été acquis au cours de la période de 1998 à 2001, que l'appelant n'a fait aucun déboursé à cet égard au cours de cette période et qu'il n'a pas non plus disposé de l'un quelconque de ses permis.
+[16] L'appelant a aussi expliqué que deux des véhicules utilisés pour le transport des touristes étaient des modèles de l'année 1979 qu'il avait achetés en 1983 et qu'un troisième véhicule était un modèle de l'année 1980, ce qui lui avait permis d'épargner de l'argent sur les primes d'assurance puisqu'il n'était pas assuré pour les dommages subis par ces véhicules.
+[17] Selon l'appelant, les clients de son entreprise étaient recrutés par l'intermédiaire de bureaux d'information touristique ou directement grâce à son site internet. Selon lui, la plupart des touristes payaient par carte de crédit Visa, Mastercard ou American Express. Bien que les prix des tournées ne comprenaient pas les taxes, l'appelant a affirmé que celles-ci étaient ajoutées lors du paiement, qu'il était un inscrit aux fins de la perception des taxes et que celles-ci étaient versées annuellement.
+[18] En ce qui concerne son train de vie, l'appelant a affirmé que ses dépenses étaient limitées, notamment parce qu'il n'avait pas de conjointe, qu'il ne sortait jamais, n'allait jamais au restaurant ou au cinéma et qu'il ne voyageait pas non plus. Il a ajouté qu'il ne possédait qu'une maison à laquelle il n'avait fait aucune rénovation et qu'il n'avait même pas l'eau chaude.
+[19] L'appelant a réitéré qu'il déclarait tous les revenus de son entreprise, y compris les pourboires, que ceux-ci aient été payés par les clients par carte de crédit ou comptant. Se référant à la pièce I-1 concernant les dépôts retracés par monsieur Paquet dans ses différents comptes de banque pour l'année 2001, l'appelant a affirmé que ceux-ci étaient composés des dépôts des différentes institutions financières pour des montants payés par carte de crédit, des dépôts en argent comptant provenant des clients et des dépôts en argent comptant provenant de ses propres épargnes accumulées pendant près de 30 ans et conservées en argent liquide dans des enveloppes contenant 5 000 $ chacune. À l'audience, il a d'ailleurs exhibé l'une de ces enveloppes contenant 50 billets de 100 $.
+[20] Lors de son contre-interrogatoire, l'appelant a admis que c'était la première fois qu'il fournissait cette explication concernant l'existence et l'utilisation de ses épargnes conservées chez lui en argent liquide. Il a également indiqué qu'on ne lui avait jamais demandé d'explications auparavant et que, de toute façon, on lui avait dit ne pas être intéressé par ses explications.
+[21] Quant à son avis d'opposition aux cotisations en litige, lequel ne mentionne comme motif qu'un calcul erroné de la pénalité imposée en vertu du paragraphe 163(2) de la Loi, l'appelant a affirmé qu'il a écrit n'importe quoi et que son comptable lui avait dit de réserver ses meilleurs arguments pour le juge.
+[22] On sait que l'appelant a subi des pertes de 42 680 $ au cours des années 1995 à 1998 inclusivement. Selon l'appelant, l'écart de 74 000 $ obtenu par le vérificateur dans ses calculs pour les années 1999, 2000 et 2001 ne représenterait pas des revenus additionnels. Il s'agirait plutôt de pertes qu'il aurait subies au cours de ces années et qu'il aurait épongées en puisant dans les épargnes qu'il se serait constituées au cours des années antérieures. Quant aux années postérieures à 2001, l'appelant a admis ne pas avoir produit ses déclarations de sorte qu'il n'est pas possible de savoir si le résultat de ses activités s'est traduit par un revenu ou une perte au cours de ces années. Toutefois, en tenant compte des résultats de 1995 à 2001 et des explications fournies par l'appelant, ce sont des pertes de plus de 116 000 $ qu'il aurait épongées en puisant dans les épargnes qu'il se serait constituées au cours d'années antérieures.
+[23] Il est difficile de concevoir comment l'entreprise exploitée par l'appelant aurait pu générer suffisamment de profits pour lui permettre de se constituer des épargnes aussi importantes dans le passé alors qu'elle n'a réalisé que des pertes entre 1995 et 2001 et même peut-être par la suite. Les explications fournies par l'appelant sont d'autant plus difficiles à accepter qu'il a lui-même affirmé que le permis obtenu en 1996 était le plus important pour l'exploitation de son entreprise, ce qui aurait normalement dû se traduire par des résultats plus positifs par la suite.
+[24] Le vérificateur, monsieur Paquet, a utilisé la méthode de l'avoir net pour établir les cotisations pour les années 1999, 2000 et 2001. Il l'a fait après avoir d'abord constaté que le total des dépôts bancaires dans les multiples comptes possédés par l'appelant excédait le revenu déclaré en 2001. Il l'a fait également parce que l'appelant ne tenait pas les registres et les livres de comptes permettant d'établir l'impôt payable, et ce, malgré le fait qu'il se soit engagé à le faire dès 1982 (pièce I-5).
+[25] Lors de l'audition, l'appelant a admis qu'il ne tenait pas de registres et de livres de comptes. Il n'a pas non plus produit de factures ou d'autres documents permettant d'établir, même de façon approximative, le revenu généré par ses activités au cours des années 1999, 2000 et 2001.
+[26] L'appelant ne conteste pas l'écart de plus de 74 000 $ calculé par le vérificateur pour ces trois années. Il prétend que ce montant représente effectivement un manque à gagner pour ces années, manque à gagner qu'il a comblé avec des épargnes accumulées et conservées en argent liquide au cours des 20, 25 ou 30 années antérieures. La seule preuve qu'il a apportée est qu'il possédait effectivement de l'argent liquide. En soi, cette preuve ne permet aucunement de remonter à la source et de conclure que l'argent provient d'épargnes après impôt plutôt que de revenus non déclarés. Il n'est certes pas illégal de conserver des sommes importantes en argent liquide. Toutefois, il appartient à ceux qui les possèdent d'en démontrer l'origine lorsque celle-ci est mise en doute. La présente affaire met en évidence l'importance de cette obligation, d'autant plus que l'appelant n'a pas été en mesure de produire des registres, des livres de comptes et d'autres documents permettant de vérifier l'exactitude de ses revenus déclarés. Le vérificateur était confronté au même problème et a dû utiliser la méthode indirecte de l'avoir net pour établir les cotisations. Dans la décision Ramey c. Canada, 93 DTC 791, [1993] 2 C.T.C. 2119, [1993] A.C.I. no 142 (QL), le juge Bowman soulignait les difficultés de contester de telles cotisations dans les termes suivants au paragraphe 6 de ses motifs :
+[...] Ces cotisations peuvent être inexactes dans une mesure indéterminée, mais elles sont valables jusqu'à preuve de leur inexactitude. Il est quasi impossible de les contester à la pièce. La seule façon vraiment efficace de les contester est de procéder à une reconstitution complète du revenu du contribuable pour l'année. Un contribuable dont les registres comptables et le mode de déclaration de revenus sont dans un tel fouillis que la cotisation d'actif net s'impose est souvent l'artisan de son propre malheur.
+[27] Lorsque les registres et livres de comptes sont inexistants, la simple affirmation d'un contribuable que l'écart établi par la méthode de l'avoir net s'explique par l'utilisation d'épargnes en argent liquide qu'il se serait constituées au cours d'années antérieures est nettement insuffisante pour constituer la preuve prépondérante nécessaire à établir que les cotisations sont erronées.
+[28] J'ajouterai que la version des faits de l'appelant concernant l'existence et l'utilisation de ses épargnes en argent liquide pour expliquer l'écart établi par le vérificateur n'a été présentée que lors de l'audition des présents appels ce qui sème un doute sérieux sur la véracité de la déclaration de l'appelant. En effet, dans son avis d'opposition à la cotisation pour l'année d'imposition 2001, l'appelant n'a remis en question que le calcul de la pénalité imposée en vertu du paragraphe 163(2) de la Loi dans les termes suivants (pièce I-4) :
+Je m'oppose à votre méthode de calcul de la pénalité, car vous avez calculé une pénalité au taux de 1 204.52 % de l'impôt net à payer.
+Selon les normes au 163(2), c'est $100.00 ou 50 % de l'impôt payable, soit $129.00 x 50 % = $64.50.
+La pénalité devrait être de $100.00, et non de $1,297.51.
+[29] Lors de l'audition, l'appelant a déclaré au sujet de cet avis d'opposition, qu'il avait écrit à peu près n'importe quoi. Cela est assez étonnant lorsque l'on sait que les cotisations avaient pour effet d'ajouter plus de 74 000 $ à ses revenus déclarés pour les années d'imposition 1999, 2000 et 2001.
+[30] Quant à l'avis d'appel pour ces trois années, il se résume à la phrase suivante :
+« La cotisation est non-fondée. »
+[31] Je terminerai en disant qu'il est difficile de comprendre pourquoi l'appelant avait besoin de sommes d'argent liquide aussi importantes pour exploiter son entreprise de guide touristique, surtout lorsque l'on sait qu'il possédait huit comptes différents dans des institutions financières au cours des trois années pour lesquelles les nouvelles cotisations ont été établies (pièce I-1).
+[32] Somme toute, j'estime que la preuve présentée par l'appelant concernant l'utilisation d'épargnes accumulées au cours d'années antérieures pour combler l'écart de plus de 74 000 $ déterminé par le vérificateur pour les années 1999, 2000 et 2001 est insuffisante pour établir, par prépondérance des probabilités, que les cotisations par lesquelles une partie de ce montant à été ajouté à son revenu de chacune de ces années sont erronées.
+[33] Sur la question des pénalités, il importe d'abord de rappeler le paragraphe 230(1) de la Loi qui se lit comme suit :
+Quiconque exploite une entreprise et quiconque est obligé, par ou selon la présente loi, de payer ou de percevoir des impôts ou autres montants doit tenir des registres et des livres de comptes (y compris un inventaire annuel, selon les modalités réglementaires) à son lieu d'affaires ou de résidence au Canada ou à tout autre lieu que le ministre peut désigner, dans la forme et renfermant les renseignements qui permettent d'établir le montant des impôts payables en vertu de la présente loi, ou des impôts ou autres sommes qui auraient dû être déduites, retenues ou perçues.
+[34] Cette disposition n'exprime pas une simple faculté. Au contraire, elle prescrit une obligation formelle de tenir les registres et livres de comptes qui permettent d'établir les impôts payables. Dès 1982, l'appelant s'était engagé à respecter cette obligation à la demande des autorités (pièce I-5). Malgré cet engagement, près de 20 ans plus tard, force est de constater qu'aucun tel registre ou livre de comptes n'a été tenu et n'a pu être produit en preuve. Pour un contribuable qui exploite la même entreprise depuis si longtemps, cette obstination à refuser de se conformer à cette obligation ne peut conduire qu'à la production de déclarations qui se révèlent fausses, forçant ainsi les autorités à utiliser une autre méthode, une méthode indirecte, telle celle de l'avoir net, pour établir ses revenus.
+[35] Dans la décision Venne c. Canada (CF, 1re inst.), 84 DTC 6247, [1984] A.C.F. no 314 (QL), à la page 13, le juge Strayer décrivait la faute lourde dans les termes suivants :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu'un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi.
+[36] J'estime que les faits relatés ci-haut établissent que l'appelant a commis une faute lourde justifiant l'application de la pénalité prévue au paragraphe 163(2) de la Loi. De plus, rien ne permet de conclure que le calcul de la pénalité est erroné. Les mêmes faits permettaient au ministre d'établir une cotisation pour l'année 1999 après la période normale de nouvelle cotisation.
+[37] En conséquence de ce qui précède, les appels des cotisations établies pour les années d'imposition 1999, 2000 et 2001 sont rejetés.
+Signé à Ottawa, Canada, ce 2e jour de mai 2006.
+« P. R. Dussault »
+Juge Dussault
+RÉFÉRENCE :
+2006CCI226
+No DU DOSSIER DE LA COUR :
+2005-1240(IT)I
+INTITULÉ DE LA CAUSE :
+André Roy et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 2 février 2006
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge P. R. Dussault
+DATE DU JUGEMENT :
+le 2 mai 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Michel Lamarre
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Pour l'intimée :
+John H. Sims, c.r. sous-ministre de la Justice
+et sous-procureur général du Canada
+Ottawa, Canada
+[1] Cette annexe n'est pas reproduite.

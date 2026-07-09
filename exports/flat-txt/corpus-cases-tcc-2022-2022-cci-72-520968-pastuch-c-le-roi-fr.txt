@@ -1,0 +1,141 @@
+Title: Pastuch  c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520968/index.do
+Corpus path: corpus/cases/tcc/2022/2022-cci-72-520968-pastuch-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2022-03-17
+
+# Pastuch  c. Le Roi
+
+- Citation: 2022 CCI 72
+- Decision date: 2022-03-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4494, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pastuch c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-03-17
+Référence neutre
+2022 CCI 72
+Numéro de dossier
+2013-2646(IT)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-2646(IT)G
+ENTRE :
+ALENA PASTUCH,
+appelante (demanderesse),
+et
+FINANCIAL AND CONSUMER AFFAIRS AUTHORITY OF SASKATCHEWAN,
+(défenderesse),
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+ORDONNANCE QUANT AUX DÉPENS
+Devant : l’honorable juge David E. Graham
+Participants :
+Pour l’appelante (la demanderesse) :
+L’appelante (la demanderesse) elle-même
+Avocate de la (défenderesse) Financial and Consumer Affairs Authority of Saskatchewan :
+Me Lauren J. Wihak
+Avocate de l’intimée, Sa Majesté la Reine :
+Me Anne Jinnouchi
+ORDONNANCE
+Mme Pastuch est tenue de payer immédiatement des dépens de 15 000 $ à la Financial and Consumer Affairs Authority of Saskatchewan. Aucuns dépens ne sont adjugés à l’une ou l’autre des parties à l’égard des observations sur les dépens.
+Signé à Ottawa, Canada, ce 28e jour de juin 2022.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 14e jour de juillet 2023.
+Elisabeth Ross, jurilinguiste
+Référence : 2022 CCI 72
+Date : 20220628
+Dossier : 2013-2646(IT)G
+ENTRE :
+ALENA PASTUCH,
+appelante (demanderesse),
+et
+FINANCIAL AND CONSUMER AFFAIRS AUTHORITY OF SASKATCHEWAN,
+(défenderesse),
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Graham
+[1] Dans l’ordonnance que j’ai rendue le 16 mars 2022, j’ai rejeté la requête présentée par Mme Pastuch et visant à contraindre la Financial and Consumer Affairs Authority of Saskatchewan (la FCAA) à produire des documents. J’avais alors adjugé les dépens à la FCAA[1]. J’avais fourni aux parties un délai pour parvenir à une entente sur les dépens, faute de quoi elles seraient tenues de produire des observations écrites sur les dépens.
+A. Dépens demandés [2] La FCAA demande des dépens de 15 000 $. Le montant des frais effectivement déboursés par la FCAA s’élevait à un peu plus de 35 000 $. Mme Pastuch affirme qu’elle devrait uniquement être tenue de payer les dépens calculés conformément au tarif.
+[3] Le paragraphe 147(3) des Règles de la Cour canadienne de l’impôt (procédure générale) énonce les facteurs dont la Cour peut tenir compte lorsqu’elle adjuge les dépens. Étant donné qu’il s’agit d’une requête qui impliquait une tierce partie, bon nombre de ces facteurs ne sont pas pertinents. Je n’examine que les facteurs pertinents.
+Résultat de l’instance
+[4] La FCAA a eu entièrement gain de cause dans sa défense contre la requête de Mme Pastuch. Même s’il était techniquement possible que la FCAA ait partiellement gain de cause, il était probable que le résultat soit tout l’un ou tout l’autre : qu’elle ait entièrement gain de cause ou qu’elle soit entièrement déboutée. J’ai choisi d’adjuger les dépens à la FCAA parce qu’elle a obtenu gain de cause. Dans les circonstances, le fait qu’elle ait obtenu entièrement gain de cause ne justifie pas l’adjudication de dépens plus élevés.
+Importance des questions en litige
+[5] Aucune des questions en litige dans la demande n’était importante pour l’évolution du droit fiscal, pour l’intérêt public ou pour un nombre important de personnes. Je n’accorde aucun poids à ce facteur.
+Complexité des questions en litige
+[6] Les questions en litige dans la requête n’étaient pas complexes. Ce facteur favorise des dépens moins élevés.
+Charge de travail
+[7] La charge de travail associée à la présente requête était plutôt normale. Je n’accorde aucun poids à ce facteur.
+Conduite d’une partie qui aurait eu une incidence sur la durée de l’instance
+[8] Ce facteur favorise l’adjudication de dépens plus élevés. Dans les motifs de mon ordonnance, j’ai mentionné avoir eu l’impression que la tenue de l’audience relative à la requête avait été inutilement retardée du fait que Mme Pastuch ne respectait jamais les délais prescrits pour le dépôt. Je l’ai prévenue qu’à moins qu’elle ne soit en mesure de me convaincre que mon impression était erronée, toute décision que je devrais rendre à l’égard des dépens tiendrait compte de cette opinion. Mme Pastuch n’a pas réussi à me convaincre. Bien que je n’aie pas l’intention d’accorder beaucoup de poids aux retards occasionnés par le non-respect des échéances par Mme Pastuch, je vais tout de même leur accorder une certaine importance.
+Dénégation d’un fait ou refus de l’admettre
+[9] Rien n’indique que l’une ou l’autre des parties ait nié ou refusé d’admettre quoi que ce soit qui aurait dû être admis. Je n’accorde aucun poids à ce facteur.
+Étapes inappropriées, vexatoires ou inutiles
+[10] Il s’agit d’un facteur qui pèse très fortement en faveur de l’adjudication de dépens importants.
+[11] J’ai rejeté l’essentiel de la requête de Mme Pastuch au motif de la préclusion découlant d’une question déjà tranchée. Il est évident que Mme Pastuch connaît le principe de la préclusion, car, bien avant que la FCAA ne soulève la question de façon sérieuse, elle a consacré deux pages de ses observations écrites à expliquer pourquoi elle croyait que ce principe ne s’appliquait pas dans son cas. Elle prétend à présent que le contenu de ces pages a été rédigé par un avocat ayant agi bénévolement et qu’elle ne les comprend pas. J’estime que, même si le contenu de ces pages a été rédigé par une autre personne, Mme Pastuch connaissait ce principe.
+[12] Quoi qu’il en soit, qu’elle comprenne bien ce principe ou non, il se trouve que notre Cour est le quatrième tribunal devant lequel Mme Pastuch a soulevé la même question. Elle refuse tout simplement d’accepter la décision. En fait, dans la plupart de ses observations sur les dépens, elle tentait de défendre à nouveau sa requête.
+[13] De plus, Mme Pastuch a présenté des allégations totalement infondées selon lesquelles plusieurs employés ou anciens employés de la FCAA auraient commis une fraude contre plusieurs tribunaux. Notre Cour a, par le passé, accordé des dépens plus élevés dans les cas où une partie a, sans aucune preuve, fait de telles allégations. Mme Pastuch n’a exprimé aucun remords pour les allégations dont elle est l’auteure. Au contraire, dans ses observations sur les dépens, elle a réitéré ses allégations de fraude.
+[14] Étant donné que certains des employés visés par les allégations de Mme Pastuch travaillaient au service juridique interne de la FCAA, la FCAA a estimé qu’il était nécessaire de retenir les services d’un avocat de l’extérieur. C’était une décision tout à fait appropriée. Il en a résulté cependant une hausse importante des frais juridiques déboursés par la FCAA. J’estime que Mme Pastuch devrait assumer une partie importante de ces coûts plus élevés.
+Étapes accomplies de manière négligente, par erreur ou avec trop de circonspection
+[15] Rien dans la preuve ne donne à penser qu’une étape quelconque de l’instance a été accomplie de manière négligente, par erreur ou avec trop de circonspection.
+B. Résumé [16] Compte tenu de tous les facteurs mentionnés ci-dessus et, plus précisément, du caractère inapproprié, vexatoire et inutile de la requête et des allégations infondées de fraude, je conclus qu’il y a lieu d’adjuger des dépens importants. Il ne conviendrait pas d’adjuger les dépens selon le tarif. Les dépens adjugés devraient correspondre dans une plus grande mesure aux coûts réels assumés par la FCAA.
+[17] Les dépens de 15 000 $ que la FCAA demande représentent moins de 45 % de ses coûts réels. Vu les circonstances, j’estime qu’il s’agit d’une somme qu’il est tout à fait raisonnable d’adjuger à la FCAA pour les dépens. En fait, la FCAA s’est montrée généreuse en n’exigeant pas une somme plus importante.
+[18] Compte tenu de tout ce qui précède, Mme Pastuch paiera immédiatement à la FCAA les dépens fixés à 15 000 $.
+[19] Aucuns dépens ne sont adjugés à l’une ou l’autre des parties à l’égard des observations sur les dépens.
+C. Demande de nouvel examen de la décision [20] Comme il a été indiqué plus haut, l’essentiel des observations de Mme Pastuch consistait à défendre à nouveau la requête. Elle a demandé que je révise la décision que j’ai rendue à l’égard de sa requête. Si Mme Pastuch n’aime pas ma décision, son recours serait d’interjeter appel devant la Cour d’appel fédérale. Je ne révise pas ma décision.
+Signé à Ottawa, Canada, ce 28e jour de juin 2022.
+« David E. Graham »
+Le juge Graham
+Traduction certifiée conforme
+ce 14e jour de juillet 2023.
+Elisabeth Ross, jurilinguiste
+RÉFÉRENCE :
+2022 CCI 72
+NO DU DOSSIER DE LA COUR :
+2013-2646(IT)G
+INTITULÉ :
+ALENA PASTUCH c. FINANCIAL AND CONSUMER AFFAIRS AUTHORITY OF SASKATCHEWAN et SA MAJESTÉ LA REINE
+DATE DE L’AUDIENCE :
+Requête tranchée sur observations écrites
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Graham
+DATE DE L’ORDONNANCE :
+Le 28 juin 2022
+PARTICIPANTS :
+Pour l’appelante (la demanderesse) :
+L’appelante (la demanderesse) elle-même
+Avocate de la (défenderesse) Financial and Consumer Affairs Authority of Saskatchewan :
+Me Lauren J. Wihak
+Avocate de l’intimée, Sa Majesté la Reine :
+Me Anne Jinnouchi
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante (la demanderesse) :
+Noms :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour la (défenderesse) Financial and Consumer Affairs Authority of Saskatchewan :
+Me Lauren J. Wihak
+McDougall Gauley LLP
+Regina (Saskatchewan)
+Pour l’intimée, Sa Majesté la Reine :
+Me François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] 2022 CCI 36.

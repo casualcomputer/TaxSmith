@@ -1,0 +1,417 @@
+Title: Richmond (Ville) c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30623/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-336-30623-richmond-ville-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2007-08-09
+
+# Richmond (Ville) c. La Reine
+
+- Citation: 2007 CCI 336
+- Decision date: 2007-08-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7117, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Richmond (Ville) c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-08-09
+Référence neutre
+2007 CCI 336
+Numéro de dossier
+2005-394(GST)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-394(GST)G
+ENTRE :
+VILLE DE RICHMOND,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 6 mars 2007, à Sherbrooke (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocate de l'appelante :
+Me Isabelle Boisvert
+Avocat de l'intimée :
+Me Michel Morel
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+L'appel de la nouvelle cotisation établie relativement à la taxe sur les produits et services en vertu de la partie IX de la Loi sur la taxe d'accise, dont l'avis est daté du 21 avril 2004, pour la période du 1er octobre 2002 au 31 décembre 2002 et portant le numéro 9130311, est rejeté en partie, puisque la juste valeur marchande de l'immeuble a été établie par consentement entre les parties à 850 000 $. Conséquemment une nouvelle cotisation devra être établie en tenant pour acquis que la valeur de l'immeuble a été établie à 850 000 $, le tout avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 4e jour de septembre 2007.
+« Alain Tardif »
+Juge Tardif
+Référence : 2007CCI336
+Date : 20070904
+Dossier : 2005-394(GST)G
+ENTRE :
+VILLE DE RICHMOND,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉ
+Le juge Tardif
+[1] Il s'agit d'un appel d'une cotisation relativement à la taxe sur les produits et services (« TPS ») portant le numéro 9130311, en date du 21 avril 2004, établie en vertu de la Loi sur la taxe d'accise, (la « Loi »), pour la période du 1er octobre 2002 au 31 décembre 2002.
+Question en litige
+[2] La question en litige consiste essentiellement à déterminer si l'annulation de l'échange d'immeubles intervenue entre les parties le 12 novembre 2004 est opposable à l'intimée, auquel cas aucun montant de TPS ne serait payable par l'appelante.
+[3] Les articles pertinents de la Loi sur la taxe d'accise sont les articles 123, 165, 169, 199, 209, 221, 228 et 259.
+Les faits
+[4] Pour établir et ratifier la cotisation dont il est fait appel, l'intimée a tenu pour acquis certaines hypothèses de fait énumérées au paragraphe 11 de la Réponse à l'avis d'appel, lesquelles se lisent comme suit :
+a) les faits ci-avant admis;
+b) au cours de la période du 1er octobre 2002 au 31 décembre 2002 (la « période »), l'appelante était un inscrit aux fins de l'application de la TPS;
+c) au cours de la période, l'appelante, en sa qualité de municipalité, était un organisme de services publics;
+d) le 18 novembre 2002, l'appelante était propriétaire d'un immeuble sis au 375, 7e Avenue à Richmond;
+e) à la même date, l'appelante était la locataire d'un immeuble appartenant au Comité de Promotion Industrielle de la Ville de Richmond (« CPIR »), lequel était situé au 790 et 800, rue Hayes à Richmond;
+f) l'appelante utilisait l'immeuble sis au 790 et 800, rue Hayes à des fins municipales et, plus particulièrement, pour ses services de voirie et d'incendie;
+g) par contrat notarié en date du 19 novembre 2002, la Ville est le CPIR se sont échangés les immeubles ci‑avant mentionnés;
+h) ainsi, en vertu de l'acte d'échange intervenu le 19 novembre 2002, l'appelante est devenue propriétaire de l'immeuble sis au 790 et 800, rue Hayes à Richmond et le CPIR de celui‑ci sis au 375, 7e Avenue à Richmond;
+i) suivant l'acte d'échange notarié ci‑avant mentionné, la valeur de l'immeuble sis au 375 7e Avenue à Richmond était de 850 000 $;
+j) en produisant sa déclaration TPS pour le trimestre se terminant le 31 décembre 2002, l'appelante a omis de déclarer et de payer la TPS afférente à cette transaction;
+k) en conséquence de l'échange intervenu, la TPS exigible était payable sur la valeur de la contrepartie, soit l'immeuble sis au 375, 7e Avenue;
+[5] L’appelante, la Ville de Richmond, a été cotisée, l'avis de cotisation émis le 21 avril 2004 en vertu de la Loi couvre la période du 1er octobre 2002 au 31 décembre 2002.
+[6] Le fondement de la cotisation est un acte d’échange d’immeubles intervenu le 19 novembre 2002 entre l’appelante et le Comité de Promotion Industrielle de la Ville de Richmond (ci-après « CPIR »), un organisme à but non lucratif.
+[7] Avant l’échange, l’appelante était propriétaire d’un immeuble ayant déjà été utilisé dans le cadre des activités de la compagnie H. H. Brown Canada ltée. Cet immeuble, situé au 375, 7e avenue à Richmond, est devenu vacant. L’appelante et CPIR se sont donc entendues sur le fait que CPIR allait gérer l’immeuble pour combler les nécessités économiques de la Ville.
+[8] L’appelante, quant à elle, est devenue, pour des raisons non reliées à la gestion de l’immeuble 375, 7e avenue, locataire d’un immeuble qui appartenait à CPIR; l’immeuble, situé aux 790 et 800, rue Hayes à Richmond, a été utilisé pour loger des services municipaux.
+[9] Comme il existait un croisement des immeubles, CPIR a proposé à l’appelante de s’échanger la propriété de leur immeuble respectif. L’appelante a accepté la proposition.
+[10] Les parties ont donc conclu un acte d’échange, signé devant le notaire, Denis Tanguay. Aux termes de l’acte d’échange, l’appelante est devenue propriétaire du 790 et 800 rue Hayes et le CPIR, celui situé au 375, 7e avenue à Richmond.
+[11] L’appelante n’a déclaré ni payé la TPS en application de la Loi car elle croyait en toute bonne foi qu’aucune TPS n’était payable.
+[12] Suite à la vérification du ministre du Revenu national (le « ministre ») pour la période du 1er octobre au 31 décembre 2002, il fut déterminé que la transaction était taxable. L’appelante et CPIR ont alors conclu un acte d’annulation le 12 novembre 2004, pour motif de vice de consentement, afin de remettre les parties dans l’état où elles étaient avant l’échange et espérant ainsi annuler rétroactivement les effets fiscaux de l’échange.
+[13] Au soutien de l'appel, l'appelante a fait témoigner messieurs Martin Lafleur et Guylain Beaudoin, tous deux avocats occupant un poste de cadre supérieur pour chacune des parties intervenantes au contrat à l'origine de la cotisation, en date du 19 novembre 2002, document no 4 au 2e contrat intervenu le 12 novembre 2004, intitulé « Annulation d'échange – document no 5 ».
+[14] Dans un premier temps, messieurs Lafleur et Beaudoin ont tenté d'expliquer et justifier par diverses interprétations les faits et circonstances de l'annulation, en insistant sur le fait que le consentement à la transaction taxée avait été vicié par de l'information incomplète ou même par ignorance; ils ont cependant fini par admettre et reconnaître que la seule explication ou le seul et unique pourquoi de l'acte d’annulation était l’émission de la cotisation qu'ils n'avaient pas prévue au moment du contrat d'échange.
+[15] Après avoir évalué le dossier sous l'angle du pourcentage de l'occupation à des fins municipales, la municipalité a constaté qu'il s'agissait là d'une avenue non avantageuse, les parties ont alors convenu que la seule alternative était l'annulation.
+[16] Les parties ont dès lors mandaté le même notaire pour rédiger « l’acte d’annulation » du contrat intervenu le 19 novembre 2002.
+[17] Le paragraphe no 6 du contrat d'Annulation d'échange – document no 5 » stipule ce qui suit :
+6- Les parties considèrent qu'il y a eu, entre autre, erreur sur la nature du contrat, sur l'objet de la prestation ainsi que sur divers éléments essentiels déterminants du consentement de chaque partie, comprenant entre autre une erreur sur la destination de chacun des immeuble et sur la valeur de chacun de ceux‑ci ainsi que sur l'absence de soulte, laquelle absence est erronée, dans les circonstances.
+[18] Malgré le verbiage entourant le pourquoi de l’annulation, il n'y a aucun doute puisque de part et d'autres, les personnes en autorité, soit messieurs Lafleur et Beaudoin, tous deux avocats l'ont admis, d'une manière qui ne prête à aucune équivoque ou interprétation, l’objet fondamental du contrat d’annulation était d’éviter le paiement de la cotisation dont il est appel.
+[19] D'ailleurs, cela ressort très clairement de deux extraits de leur témoignage respectif.
+Contre‑interrogatoire de Martin Lafleur par Me Michel Morel aux pages 26 et 27, 29 et 32 :
+Q. Oui, mais Monsieur Lafleur, vous êtes d'accord avec moi que la seule raison pour laquelle l'échange a été annulé c'est à cause de l'incidence fiscale au niveau de la TPS et de la TVQ, c'est bien exact?
+R. Qu'il y avait une conséquence à la transaction, c'est sûr, définitivement.
+Q. Oui, mais la seule raison, je reviens encore à cette question. La seule raison pour laquelle la transaction a été annulée c'est à cause des conséquences fiscales au niveau de la TPS et de la TVQ?
+R. Bien c'est sûr que oui, si on est devant vous oui, définitivement.
+[...]
+Q. Oui, Monsieur Lafleur, je vais vous suggérer qu'il n'y avait pas d'erreur sur la destination des immeubles, parce que ce que la ville voulait... la ville voulait utiliser, à des fins municipales, l'immeuble qu'elle louait déjà du CPIR. Vous êtes d'accord avec moi?
+R. Oui.
+[...]
+Q. Non, je vous parle au moment... Il faut se situer, Monsieur Lafleur, si vous permettez, en 2002, lorsque vous faites l'acte d'échange, les parties savaient exactement quelle était la nature du contrat qui intervenait entre elles, vous êtes d'accord avec moi?
+R. Le contrat d'échange, oui.
+Q. C'est ça. La seule chose qui vous a donné à repenser à cet échange‑là, c'est lorsque vous avez reçu les cotisations en TPS et en TVQ en 2004, à peu près. C'st bien exact?
+R. C'est sûr que moi, lorsque la municipalité m'a appelé, puis elle m'a dit : Ce qu'on avait convenu n'arrive pas. J'ai dit : Écoute, si ce qu'on avait convenu n'arrive pas, si ce qu'on s'était entendu n'arrive pas, ça veut donc dire que ce qui était la base même de notre consentement au moment de ce qu'on voulait faire, on va se remettre dans notre était initial. C'est ce qu'on a eu comme réaction immédiate. D'ailleurs, lorsque je pense... quand on m'a appelé, le Ministère, j'ai invoqué immédiatement cette solution‑là. J'ai dit : Écoutez, si la conséquence de ce qu'on a fait est ça, on va exactement se mettre à l'endroit où on était. Parce qu'au moment de notre transaction, c'était pas ce qu'on avait en tête.
+[...]
+Contre‑interrogatoire de Martin Lafleur par Me Michel Morel aux pages 41 à 43 :
+R. Celle-ci, je vais en prendre connaissance. Oui.
+Q. Alors, on voit comme motifs d'opposition, c'est écrit ceci :
+Nous nous opposons puisque nous allons demander l'annulation Nous allons demander, donc on se situe à ce moment-là au dix-sept (17) mai 2004, l'annulation n'a pas encore eu lieu.
+Nous nous opposons puisque nous allons demander l'annulation du contrat de transfert entre le CPIR et la ville, ce qui va remettre les parties dans l'état où elles étaient avant la transaction. Ce qui, par le fait même, annulera la cotisation TPS et la cotisation TVQ.
+Point. Vous êtes d'accord avec moi que les motifs allégués dans l'avis d'opposition ne reflètent en rien la stipulation contenue au paragraphe 6 du contrat de 2004. Vous êtes d'accord avec moi?
+R. C'est littéralement pas la même chose.
+Q. C'est littéralement pas la même chose, c'est bien exact. Maintenant, voulez-vous prendre connaissance de l'avis d'appel. Je vais vous référer aux paragraphes 10 et 11 de l'avis d'appel. Paragraphe 10 :
+L'appelante n'a déclaré ni payé la TPS en application de la Loi suite à cet échange car elle croyait en toute bonne foi qu'aucune TPS n'était payable étant donné l'absence de soulte lors de l'échange.
+Paragraphe 11 :
+Le vice de consentement de l'appelante résultant de l'erreur sur le paiement de la TPS au moment de la conclusion de l'échange a été découvert lors de la vérification précédant l'émission de la cotisation précitée.
+Êtes-vous d'accord avec moi, Monsieur Lafleur, que le seul motif de vice de consentement qui est allégué dans l'avis d'appel concerne l'impact au niveau de la TPS?
+R. Ça semble être le cas.
+Q. Ça semble être le cas. Donc, tous les éléments qu'on retrouve au paragraphe 6 du contrat de 2004, ne sont nullement reflétés dans l'avis d'appel non plus?
+R. Bien, on a reflété les éléments relativement à la TPS et la TVQ. C'est sûr qu'on est dans une Cour relative à cet aspect-là, oui.
+[...]
+Contre‑interrogatoire de Guylain Beaudoin par Me Michel Morel aux pages 65 et 67 à 69 :
+Q. Elle en était également très satisfaite en 2004, c'est bien exact, jusqu'à l'annulation. Elle a commencé à être moins satisfaite du bâtiment lorsque la vérificatrice du Revenu Québec s'est présentée dans l'immeuble, êtes-vous d'accord avec moi?
+R. vrai dire, Monsieur le Juge, si vous me permettez, lorsque la vérificatrice s'est présentée, c'était pas sur la qualité du bâtiment... ce n'est pas la qualité du bâtiment, c'est pas un vice caché, c'est pas un défaut du bâtiment, c'est véritablement sur la conséquence, sur le fait qu'on avait un débours immense qui venait vicier notre contrat. C'est vraiment là-dessus qu'il y une dissatisfaction.
+[...]
+Q. Justement, Monsieur Beaudoin, on vient d'apprendre... on sait que vous êtes avocat, on vient d'apprendre que monsieur Lafleur est avocat, vous êtes avec un notaire, maître Tanguay, en 2004, avant de signer ce contrat-là et donc vous êtes des parties très informées et vous rédigez la clause 6.
+R. Je n'ai pas rédigé la clause 6.
+Q. Quand je dis vous... écoutez, vous représentez la ville qui est une partie intervenante au contrat, n'est-ce pas?
+R. Effectivement et comme partie, lorsqu'on a rencontré le notaire, on a été très clair avec lui, qu'on considérait qu'étant donné qu'il y avait un débours, il y avait eu des conditions sine qua non du contrat qui était vicié, il a suggéré ce paragraphe-là qui lui semblait être un paragraphe qui pelletait très large, c'est vrai, mais qui n'était pas un paragraphe de maquillage.
+Q. Vous avez employé l'expression tout à l'heure, trop fort casse pas, en référant à la clause 6, c'est bien exact?
+R. Oui, c'est ça.
+Q. Vous êtes d'accord avec moi que dans votre avis d'opposition, le seul grief que vous adressez à la cotisation, c'est-à-dire à la cotisation qui découle de l'annulation, concerne l'annulation de la TPS et de la TVQ. Vous l'avez lu votre avis d'opposition, Monsieur Beaudoin.
+R. Tout à fait, pour nous, dans notre tête, Monsieur le Juge, c'était l'application du droit 101, clause essentielle au contrat.
+Q. Le dix-sept (17) mai 2004, lorsque vous signez cet avis d'opposition-là, Monsieur Beaudoin, la ville est toujours propriétaire de l'immeuble de la rue Hayes?
+R. Oui.
+Q. La ville est toujours très satisfaite de l'immeuble?
+R. Il y a pas de défaut de structure, bien que ce soit un bâtiment surdimensionné.
+Q. Pas de problème de destination de l'immeuble, Monsieur Beaudoin?
+R. Par rapport à la destination de l'immeuble, je crois que ce que le notaire voulait dire c'est que c'était au niveau de la règle du cinquante pour cent (50 %) d'occupation.
+Q. Vous êtes d'accord avec moi que ça peut vouloir dire plein de choses, comme ça peut ne peut vouloir rien dire également?
+R. De là l'importance de nos témoignages, effectivement, Maître.
+Q. Vous êtes d'accord avec moi, Monsieur Beaudoin, que dans l'avis d'appel, le seul motif d'annulation qui est allégué au soutien de l'appel de la ville concerne la cotisation de TPS que vous avez reçue?
+R. Effectivement, qui constitue un débours extrêmement important.
+[...]
+[20] En peu de mots, les prétentions des parties peuvent se résumer comme suit :
+Prétentions de l’appelante :
+[21] L’appelante soumet qu’il y a eu vice de consentement découlant de l'ignorance des dispositions applicables de la Loi sur la taxe d'accise, au moment de la conclusion de l’échange.
+[22] Elle soutient que l’élément fondamental à l'origine de son consentement était l’absence d'obligation financière de quelque nature que ce soit découlant de l'échange.
+[23] D’ailleurs, elle indique que si elle avait su, au moment de l’échange, qu’un montant de TPS était payable sur la valeur de la contrepartie, malgré l’absence de soulte, elle n’aurait pas conclu l’acte d’échange.
+[24] L’appelante soutient finalement que l’annulation de l’échange et ses effets sont opposables à l’intimée.
+Prétentions de l’intimée :
+[25] Pour sa part, l’intimée soutient que l’annulation de l’acte d’échange d’immeubles intervenu le 12 novembre 2004 est valide entre les parties mais inopposable à l’intimée.
+[26] L’intimée soutient que l’appelante devait déclarer et remettre au ministre la TPS cotisée.
+[27] L’intimée prétend finalement que l’annulation de l’acte d’échange n’est qu’une tentative pour éviter le paiement de la TPS exigible.
+Analyse
+1. L’application du droit civil
+[28] Avant d’analyser la validité et l’effet de l’annulation de l’acte d’échange, il importe de réitérer que les transactions intervenues entre les parties sont assujetties au droit civil du Québec.
+[29] L’appelante se réfère à l’article 8.1 de la Loi de l’interprétation, L.R.C. 1985, c. I‑21, qui se lit comme suit :
+Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[Je souligne.]
+[30] Aux termes de cette réalité, les dispositions pertinentes pour déterminer l’effet et la validité de l’annulation du contrat sont celles du Code Civil du Québec, L.Q., 1991, c. 64 (ci-après « CCQ ») et non les doctrines de common law.
+[31] Plus précisément, les doctrines de common law qui nous renseignent sur les concepts de rectification ne sont pas applicables au Québec, sauf dans la mesure où la jurisprudence québécoise s’est prononcée sur celles-ci.
+[32] Selon un article explicatif des auteurs de la doctrine fiscale :
+The general rule that tax is imposed according to the legal relationships or transactions established by the parties. The corollary is that a legal relationship or transaction will not be recognized for tax purposes if that relationship or transaction has not been validly established under the rules of the general law. Hogg, Magee and Li, Principles of Canadian Income Tax Law, 18.8 ‑ Rectification.
+[Je souligne.]
+[33] Le droit fiscal est un droit accessoire. Dans Lageux & Frères inc., [1974] 2 C.F. 97 page 106, le juge indiquait :
+« Le droit fiscal […] est un droit accessoire qui n’existe qu’au niveau des effets découlant des contrats. Une fois la nature des contrats déterminée par le droit civil, la Loi de l’impôt sur le revenu intervient, mais seulement alors, pour imposer, des conséquences fiscales à ces contrats. Sans contrat, sans droit et sans obligation, il ne peut y avoir d’incidence fiscale. L’application de la Loi de l’impôt sur le revenu est soumise à un diagnostic civil soit en droit commun. »
+[34] Dans l’affaire Dale c. Canada [1997] A.C.F. no 476 au paragraphe 13, la Cour énonçait :
+In determine whether a legal transaction will be recognized for tax purposes one must turn to the law as found in the jurisdiction in which the transaction is consummated. Often that determination will be made without the aid of guiding precedents which are on point and, hence, the effectiveness of a transaction may depend solely on the proper application of general common law or equitable principles. In some instances it will be necessary for the Tax Court to interpret the statutory law of the province. As for the Minister he must accept the legal results which flow from the proper application of the common law and equitable principles, as well as the interpretation of legislative provisions.
+[Je souligne.]
+[35] D’ailleurs ce principe a été énoncé dans l’affaire Wilson v. The Queen [1983] 2 S.C.R. 594 :
+[T]his decision establishes: the general rule that an order of a superior court cannot be attacked collaterally unless it is lawfully set aside.
+[36] Pour conclure sur cet aspect du dossier, la validité des deux contrats intervenus entre l’appelante et CPIR devra s'apprécier à partir des exigences énoncées dans le CCQ. (Code civil du Québec)
+2. La validité de l’acte d’échange et de l’acte d’annulation selon le droit civil du Québec
+[37] Au Québec, selon le droit civil, la doctrine équitable de rectification n’est pas applicable. En common law, la rectification est associée au concept d’erreur. Dans la common law, il y a trois sortes d’erreurs : erreur commune, erreur mutuelle et erreur unilatérale. Toutes les trois sont rectifiables en certaines circonstances.[1] Ce qui nous importe de rappeler ici est que « lorsque l’erreur porte sur le consentement, les règles de la rectification ne peuvent intervenir. »[2]
+[38] Ceci est d'autant plus pertinent étant donné que l’appelante plaide justement que l’acte d’échange est nul en se basant sur le principe du consentement vicié.
+[39] Au Québec, l’erreur est définie par rapport au consentement.[3] Il existe deux formes d’erreurs : l’erreur matérielle et l’erreur de consentement. La première ne vicie pas le consentement et peut être corrigée dans certaines circonstances, tandis que la deuxième soit, l’erreur de consentement, rend nul le contrat, soit de nullité absolue, soit la nullité relative (CCQ 1416-1419).[4]
+[40] En l’espèce, au soutien de sa demande d’annulation de l’acte d’échange, l’appelante plaide que le contrat est nul puisqu’il y aurait eu erreur de consentement de la part de la Ville, écartant ainsi la question de l’erreur matérielle ou de forme.
+[41] À la page 116 des notes sténographiques, l’appelante soumet :
+Il y a quelque chose qui nous permet, en droit civil, de réparer une erreur purement matérielle. Mais pour ce qui est des erreurs qui vicient le consentement, donc, le contrat est invalide, dans le cas de ces erreurs‑là, ce n’est pas la rectification ou la demande de correction de document, c’est l’annulation qui s’applique.
+[Je souligne.]
+[42] En d’autres mots, l’appelante, pour annuler l’acte d’échange, doit démontrer qu’il y a eu une erreur de consentement de sa part. Plutôt que de retenir cette option, ayant de toute façon, le consentement de CPIR, elle a plutôt choisi de conclure un deuxième contrat, soit le contrat d’annulation de l’acte d’échange, de sorte qu’elle ne fut pas obligée d’aller revendiquer cette nullité devant les tribunaux. En droit civil, les auteurs qualifient cette nullité de nullité « amiable » ou « conventionnelle. » [5]
+[43] L’appelante soutient que le fait d’avoir conclu le deuxième contrat devant un notaire contraint la Cour de reconnaître les transactions conclues entre elle et CPIR.[6]
+[44] L’appelante cite l’auteur Zahinda pour prétendre qu’il « n['est] pas nécessaire d’obtenir une ordonnance du tribunal pour obtenir la correction d’un document qui ne reflète pas correctement les intentions des parties. »[7] Il m'apparaît cependant important de rappeler que les corrections auxquelles il est fait référence dans cet article visent les erreurs matérielles et non de consentement; cet argument n’est pas applicable dans au présent dossier.
+[45] À partir du même article, l'intimée soutient que la seule nullité d’une transaction pouvant être opposée à Revenu Québec est celle prononcée ou obtenue d’un tribunal. Le juge Archambault de notre Cour s'exprime comme suit dans l’affaire Ledoux v. R., 98 D.T.C. 1034 (Fr.) (confirmée en appel 2000 D.T.C. 6116 (Fr.), demande d’autorisation d’en appelée à la Cour Suprême refusée [263 N.R. 395]) :
+37. Avant de déterminer si cette prétention est bien fondée, il est utile de rappeler l'approche qui doit me guider dans cette tâche. Lorsque des contribuables ont mis en place des opérations dont le but principal est d'obtenir des avantages fiscaux, les tribunaux doivent, avec plus d'assiduité, s'assurer que ces opérations correspondent à l'intention véritable qu'avaient les contribuables et aussi qu'elles constituent des opérations juridiquement valides et complètes. Les tribunaux ont élaboré plusieurs outils judiciaires pour les aider dans cette tâche, notamment la doctrine du trompe-l'oeil, la doctrine de l'opération inefficace et la doctrine de la nature réelle d'une opération. Dans l'arrêt Stubart Investments Ltd. v. R., [1984] 1 S.C.R. 536 (S.C.C.), 545, le juge Estey propose la définition suivante du trompe-l'oeil :
+[...] une opération assortie d'un élément de tromperie de manière à créer une illusion destinée à cacher au percepteur le contribuable ou la nature réelle de l'opération, ou un faux-semblant par lequel le contribuable crée une apparence différente de la réalité qu'elle sert à masquer.
+L'application du deuxième outil est relativement simple. Il s'agit d'examiner minutieusement si l'opération à laquelle un contribuable a eu recours, par exemple un contrat, constitue une opération valide au point de vue tant des conditions de forme que des conditions de fond. Le juge Urie a très bien décrit l'application de cet outil dans Atinco Paper Products Ltd. v. R. (1978), 78 D.T.C. 6387 (Fed. C.A.), 6395 :
+It is trite law to say that every taxpayer is entitled to so arrange his affairs as to minimize his tax liability. No one has ever suggested that this is contrary to public policy. It is equally true that this Court is not the watch-dog of the Minister of National Revenue. Nonetheless, it is the duty of the Court to carefully scrutinize everything that a taxpayer has done to ensure that everything which appears to have been done, in fact, has been done in accordance with applicable law. It is not sufficient to employ devices to achieve a desired result without ensuring that those devices are not simply cosmetically correct, that is correct in form, but, in fact, are in all respects legally correct, real transactions. If this Court, or any other Court, were to fail to carry out its elementary duty to examine with care all aspects of the transactions in issue, it would not only be derelict in carrying out its judicial duties, but in its duty to the public at large.
+[Je souligne.]
+On retrouve dans l'affaire Stubart une illustration de cette tâche des tribunaux; là, le contribuable a satisfait au critère. Par contre, dans l'affaire Atinco, les contribuables n'ont pas eu autant de succès.
+38. Le troisième outil, soit la doctrine de la nature réelle des opérations, a suscité et continue à susciter des problèmes d'application. Selon cette doctrine, dans l'appréciation d'une opération, les tribunaux doivent tenir compte de la réalité commerciale et économique de cette opération. Le juge en chef Dickson dit dans l'arrêt Bronfman Trust v. R., [1987] 1 S.C.R. 32 (S.C.C.), 53 :
+Si, en appréciant les opérations des contribuables, on a présent à l'esprit les réalités commerciales et économiques plutôt que quelque critère juridique formel, cela aidera peut-être à éviter que l'assujettissement à l'impôt dépende, ce qui serait injuste, de l'habileté avec lequel le contribuable peut se servir d'une série d'événements pour créer une illusion de conformité avec les conditions apparentes d'admissibilité à une déduction d'impôt.
+39. Certains croient, et je partage ce point de vue, que cette approche ne peut autoriser les tribunaux à faire abstraction des effets juridiques d'une opération. Dans la décision Continental Bank of Canada v. R. (1994), 94 D.T.C. 1858 (T.C.C.), 1869, le juge Bowman a nuancé ainsi la portée de cette doctrine5
+So far as the broader question of substance versus form is concerned, we should at least be clear on what we are talking about when we use the elusive expression "substance over form". Cartwright, J. (as he then was) said in Dominion Taxicab Assn. v. Minister of National Revenue, 54 D.T.C. 1020 at p.1021 :
+It is well settled that in considering whether a particular transaction brings a party within the terms of the Income Tax Acts [sic] its substance rather than its form is to be regarded.
+His Lordship did not elaborate but in light of other authorities I do not think that his words can be taken to mean that the legal effect of a transaction is irrelevant or that one is entitled to treat substance as synonymous with economic effect. The true meaning of the expression is, I believe, found in the judgment of Christie, A.C.J.T.C.C. in Purdy v. Minister of National Revenue, 85 D.T.C. 254 at p. 256, where he said :
+It must be borne in mind that in deciding questions pertaining to liability for income tax the manner in which parties to transactions choose to label them does not necessarily govern. What must be done is to determine what on the evidence is the substance or true character of the transaction and render judgment accordingly.
+[Je souligne.]
+[46] Ainsi, l’appelante doit établir qu’il y a eu vice de consentement de sa part. En effet, elle a l’obligation de prouver l’erreur de consentement a été déterminante et qu’elle l’a empêchée de conclure l’acte d’échange et d’y consentir de façon libre et éclairée.[8]
+[47] Les faits établis par la preuve soulèvent trois scénarios possibles :
+1) il y a eu une erreur qui ne vicie pas le consentement de l’appelante quand elle a conclu l’acte d’échange;
+2) il y a eu une erreur sur un élément essentiel fondement du consentement, mais l’erreur étant inexcusable, elle ne permet pas l’annulation du contrat d’une manière rétroactive;
+3) le consentement a été vicié et ce qui rend nul l’acte d’échange rétroactivement.
+[48] L’article 1400 du CCQ explique quand l’erreur vicie le consentement :
+1400. L'erreur vicie le consentement des parties ou de l'une d'elles lorsqu'elle porte sur la nature du contrat, sur l'objet de la prestation ou, encore, sur tout élément essentiel qui a déterminé le consentement.
+L'erreur inexcusable ne constitue pas un vice de consentement.
+[Je souligne.]
+[49] Les auteurs Beaudouin et Jobin écrivent :
+L’erreur est « une croyance qui n’est pas conforme à la vérité », « un défaut de concordance entre la volonté interne et la volonté déclaré » qui ternit la parfaite intégrité du consentement à l’acte juridique. L’admission de l’erreur comme cause de nullité du contrat est cependant soumise à certaines restrictions, de manière à protéger de la stabilité de l’ordre contractuel. Toute erreur ne donne pas droit à l’annulation de la convention, mais seulement celles d’un certain type, qui ont eu une influence déterminante sur le consentement.[9]
+[50] Le contrat d’annulation de l’acte d’échange énumère, à la clause 6, les motifs de l’annulation ainsi décrits :
+Les parties considèrent qu’il y a eu, entre autre erreur sur la nature du contrat, sur l’objet de la prestation ainsi que sur divers éléments essentiels déterminants du consentement de chaque partie, comprenant entre autre une erreur sur la destination de chacun des immeuble et sur la valeur de chacun de ceux-ci ainsi que sur l’absence de soulte, laquelle absence est erronée, dans les circonstance.[10]
+[51] L’intimée a vigoureusement contesté les prétentions de l’appelante notamment quant à : l’erreur sur :
+1) la nature du contrat[11];
+2) l’objet de la prestation;
+3) la destination de chacun des immeubles[12];
+4) la valeur de chacun des immeubles.[13]
+[52] Dans les faits, le seul élément à l’origine de l’erreur alléguée essentielle et déterminante a été l’absence de soulte.[14] D’ailleurs les extraits des témoignages de Messieurs Lafleur et Beaudoin, au numéro 19 de ce jugement, font la démonstration de cette conclusion d’une manière très convaincante.
+[53] L’appelante plaide qu’un des éléments essentiels ou déterminants du consentement était le fait qu’il n’y avait aucun déboursé de quelque nature que ce soit après l’échange des immeubles.[15]
+[54] Si une telle erreur a effectivement vicié son consentement, elle peut, en principe, demander la nullité du l’acte d’échange, selon l’article 1407 du CCQ :
+1407. Celui dont le consentement est vicié a le droit de demander la nullité du contrat; en cas d'erreur provoquée par le dol, de crainte ou de lésion, il peut demander, outre la nullité, des dommages-intérêts ou encore, s'il préfère que le contrat soit maintenu, demander une réduction de son obligation équivalente aux dommages-intérêts qu'il eût été justifié de réclamer.
+[Je souligne]
+[55] Pour obtenir la nullité du premier contrat, soit l’acte d’échange, l’appelante doit démontrer que l’erreur, qui doit être un fait juridique,[16] existe selon les dispositions du CCQ; de plus, elle doit démontrer l’opposabilité de la nullité de l’acte d’échange à l’endroit des tiers, y compris le Ministre.
+[56] De son côté, l’intimée plaide qu'en vertu de la doctrine et de la jurisprudence auxquelles réfère l'appelante, l’erreur n’était pas une erreur sur un élément essentiel du consentement, mais plutôt une erreur à caractère essentiellement économique n'entraînant pas la nullité de l’acte d’échange. Elle réfère à l’arrêt Anna Del Peschio-Carpanzanon c. 3660524 Canada inc. et Global Creations inc. et le sous-ministre du revenu du Québec [2005] J.Q. no 1747 :
+33. Bien que l'erreur puisse être une cause de nullité des contrats, ce ne sont pas toutes les erreurs qui donneront ouverture à une demande en résolution du contrat. Le principe de la stabilité des contrats demeure essentiel et primordial en droit civil québécois.
+34. Ce n'est que lorsque des circonstances particulières et précises seront mises en preuve, lorsque l'erreur aura été prouvée sur l'élément essentiel ayant amené les parties à contracter que le contrat pourra être annulé ou résolu, mais pas avant.
+35. Il est important également, relativement à l'erreur, de souligner que l'erreur ne sera jamais une cause de nullité lorsqu'elle est inexcusable ou lorsqu'elle porte sur l'économie du contrat voire lorsqu'elle n'est qu'une simple erreur de forme.
+36. Les auteurs précités Baudouin et Jobin dans leur Traité « Les obligations » précisent que :
+211 - Erreur économique - Puisqu'en principe un contrat ne peut être annulé ou révisé pour lésion (art. 1405 C.c.) et qu'il faut interpréter le Code civil de façon cohérente, une certaine restriction doit être apportée à l'erreur. L'erreur économique, ou erreur sur la valeur de l'objet d'une prestation, généralement n'est pas considérée comme un motif de nullité [Voir Note 5 ci-dessous]. (...).
+Note 5 : Par ex. Racicot c. Bertrand, [1976] C.A. 441, inf. par [1979] 1 R.C.S. 441; J.-L. Baudouin, 1 Supreme Court L.R. 249; Québec (Communauté urbaine de) c. Constructions Simard-Beaudry (1977) Inc., [1985] C.S. 983, conf. Par J.E. 87-974 (C.A.); Beaurivage et Méthot Inc. c. Corporation de l'Hôpital du St-Sacrement, [1986] R.J.Q. 1729 (C.A.); Cayer c. Martel, J.E. 95-2071 (C.A.); Réalisations Solidel Inc. c. Havre du village international Inc., J.E. 95-1229 (C.S.) Pineau, Existence et limites de la discrétion judiciaire, supra note 112, p. 5-6; Pineau, Burman et Gaudet, Obligations, no 74, p. 119-120; Tancelin, Obligations, no 178, p. 87.
+37. Relativement à l'erreur économique, la Cour d'appel a rappelé en 1995 que :
+La seconde est, comme l'enseignent la doctrine classique et la jurisprudence, que l'erreur simple sur la valeur ou erreur économique (sauf évidemment les cas de lésion) ne donne pas, en principe, ouverture à un recours en annulation.
+Une erreur déterminante du consentement n'est pas, en effet, pour autant une erreur sur la considération principale de l'engagement. (...).
+(...). On peut, en effet, à mon avis, imaginer des hypothèses où les impératifs économiques du contrat projeté sont au centre même de la décision de contracter et donc s'élèvent au rang de considération principale et de condition même de l'engagement. Encore faut-il, alors, que ce motif déterminant soit clairement extériorisé. (...). [Voir Note 6 ci-dessous].
+Note 6 : Cayer et al c. Martel, (C.A.) Montréal, 500-09-001620-905, 7 novembre 1995, j. Rothman, Baudouin et Deschamps.
+38. Le comptable Rabinovitch a bien expliqué à la Cour que le but de la création de la nouvelle compagnie 3660524 Canada Inc. est le roulement fiscal. Par le transfert des actions de CGI ou Global Creations Inc. dans 3660524 Canada Inc., c'est pour éviter de payer l'impôt sur les revenus importants de la compagnie que cette dernière est mise en place.
+39. Il est vrai que ce roulement des actions ne devait entraîner aucune autre conséquence fiscale et qu'il n'y avait aucun avantage pour les actionnaires à perdre cette vacance de taxes ou Tax holiday.
+40. Il est néanmoins en preuve que l'objectif principal de la création de cette compagnie est le roulement fiscal.
+41. À cet effet, la Cour d'appel a également écrit en 1996 :
+J'estime qu'on ne peut dénaturer la forme de la relation contractuelle existante afin d'ajuster après coup ses prétentions aux contraintes fiscales. C'est en toute connaissance de cause que l'appelante a procédé par voie de cession de contrat de vente alors qu'elle aurait très bien pu agir par le biais d'un contrat de prêt. L'appelante doit alors subir les conséquences rattachées à la forme contractuelle choisie. Le juge Le Dain, alors juge à la Cour fédérale d'appel, écrivait :
+The incidence of taxation depends on the manner in which a taxpayer arranges his affairs. Just as he may arrange them to attract as little taxation as possible, so he may unfortunately arrange them in such a manner as to attract more than is necessary" [Voir Note 7 ci-dessous].
+Note 7 : Banque Nationale Inc. (Crédit-bail) c. Québec (Sous-ministre du Revenu), (C.A.) Montréal, 500-09-000351-932, 15 septembre 1997, j. Beauregard, Nuss et Forget, p. 6 par. 30.
+42. La présente affaire se distingue de celle soulevée par la requérante dans l'affaire B.E.A Holdings Inc. c. Trafsys Inc. [Voir Note 8 ci-dessous] alors que B.E.A., une compagnie américaine, achète la compagnie Trafsys Inc. du Canada. En ce faisant, la Loi fédérale prévoit que le nouveau conseil d'administration de la compagnie Trafsys doit quand même être composé d'une majorité de canadiens. B.E.A. élabore alors une stratégie par laquelle une compagnie québécoise sera créée et grâce à laquelle toutes les actions détenues par B.E.A. dans Trafsys Inc. lui seront transférées. Par la suite, les deux compagnies Trafsys Inc. et Trafsys Communications Inc. pourront être fusionnées.
+Note 8 : B.E.A. Holdings Inc. c. Trafsys Inc. et Trafsys Communications Inc./Les Communications Trafsys Inc., (C.A.) Montréal, 500-09-013408-034, 12 février 2004, j. Delisle, Chamberland et Morissette; (C.S.) Montréal, 500‑05-074753-029, 16 avril 2003, j. Dufresne.
+43. La Cour supérieure saisie de la demande d'annulation de cette transaction au motif d'erreur de bonne foi, rejette la réclamation.
+44. Portant cette décision en appel, la Cour d'appel renversait cette décision dans un arrêt très succinct et écrivait :
+[1] Il ressort clairement de la preuve que l'élément essentiel qui a déterminé le consentement de l'appelante à participer à la vente du 19 novembre 2001 était que celle-ci n'entraîne pour elle aucune conséquence fiscale.
+[2] S'agissant essentiellement pour l'appelante de résoudre un problème de gouvernance, elle ne cherchait qu'une restructuration pour lui permettre d'atteindre cette fin.
+[3] En fonction des circonstances bien particulières de l'espèce, l'erreur de l'appelante n'était pas inexcusable et elle portait sur un élément essentiel du consentement."
+45. Il appert à la lecture de cette dernière décision que l'erreur économique peut être une cause d'annulation de contrat lorsque l'erreur économique est l'élément essentiel de la transaction. L'absence de conséquences fiscales était le motif déterminant pour la création de la compagnie québécoise.
+46. Or, en l'instance, comme nous l'avons vu auparavant, la conséquence fiscale reliée à la création de la nouvelle compagnie est celle du roulement, reportant à plus tard un impôt payable.
+47. Même s'il ne reçoit pas entièrement application, il est intéressant de se référer à une décision de la Cour d'appel de l'Ontario saisie d'une question similaire à la présente en matière fiscale. La Cour d'appel écrivait :
+The second reason why I would not exercise equitable discretion in the appellants' favour in this case is because it would seem to me that to do so would run contrary to a well-established rule in tax cases that the courts do not look with favour upon attempts to rewrite history in order to obtain more favourable tax treatment. In this case, Ms. Ho took title in the name of 002 rather than in the name of 225 because there was an income tax advantage for her if she did so. She did not know that by doing so she would suffer a very significant land transfer tax disadvantage. The cases seem to hold consistently that tax liability is based upon what happened not upon what, in retrospect, the taxpayer wished had happened.
+The fundamental principle is stated by McKinlay J. in Re Assaly and Minister of Revenue (1986), 56 O.R. (2d) 30 at pp. 40 :
+... the law is quite clear that when a taxpayer orders his affairs in a manner that attracts a tax in one amount, he cannot subsequently claim that he should be taxed as if he had ordered his affairs in a different manner, which would have attracted less tax
+[57] Monsieur Lafleur, le directeur de CPIR, a expliqué et décrit les raisons qui avaient conduit à l’échange, comme suit :
+À titre de directeur du Comité de Promotion Industrielle, je gérais des bâtiments et je gérais un bâtiment que je louais à la municipalité comme garage municipal et d’autre part, la municipalité me demandait de gérer un bâtiment qui lui appartenait, à des fins industrielles. […]
+Alors, à un moment donné, à toutes les années, la municipalité procède de façon à se donner des grandes orientations, ce qu’on appelle un Lac-à-l’épaule. [17]
+[...]
+Qui est un document [Lac-à-l’épaule] dans lequel chacun des secteurs va déterminer, que ce soit au niveau des loisirs, au niveau économique ou au niveau, si on veut, social, communautaire, va demander à la municipalité, proposer des choses, lui demander des grandes orientations. Au niveau économique, suite à la situation que je vous expliquais, à un moment donné j’ai proposé au conseil de la ville, j’ai dit : Écoutez, vous occupez un bâtiment que moi j’ai bâti à des fins commerciales…et qui est encore à des fins commerciales parce qu’il me payait un loyer, puis moi je payais la TPS et la TVQ sur ce loyer-là. […] je leur disais : Regardez, ce bâtiments-là vous appartient, celui-là m’appartient, pourquoi on ferait pas un échange. Laissez-moi votre bâtiment à des fins industrielles, puis moi, bien, vous l’occupez comme un garage, on va se l’échanger…Regardez, change pour change, on va se donner les bâtiments comme ça, c’est des bâtiments d’égale valeur, puis chacun va être dans sa mission. La ville, elle ne voulait plus gérer des bâtiments à des fins industrielles, mais elle était obligée de le faire parce que c’était un bâtiment qui avait été bâti en 1956.[18]
+[Je souligne.]
+[58] La prépondérance de la preuve a clairement établi que le consentement de l’appelante n’a pas été vicié par une erreur énumérée à l’article 1400 CCQ.
+[59] Monsieur Lafleur a expliqué que l’acte d’échange avait été conclu pour « faciliter la tâche de tout le monde ». Ainsi, l’acte d’échange est intervenu pour des motifs d'ordre pratique et rationnel, la gestion des immeubles concernés par l'échange devenant plus facile et surtout plus logique. Ce sont là des faits à caractère plutôt économique qui ne rendent pas nul l’acte d’échange en 2002.
+[60] Par contre, dans l’affaire B.E.A. Holdings Inc. c. Trafsys Inc.[19], la Cour a déclaré que l’erreur économique peut être une cause d’annulation de contrat lorsque l’erreur économique est l’élément essentiel de la transaction. Je devrai donc au terme de cette décision évaluer si l’erreur prétendue par l’appelante était essentielle à son consentement.
+L’erreur essentielle mais inexcusable
+[61] L’appelante prétend que l’erreur n’est pas une erreur économique, mais plutôt une erreur essentielle ayant vicié son consentement. Les deux témoins de l'appelante ont beaucoup insisté, voire répété à plusieurs reprises de différentes façons que si les parties avaient su que la transaction était taxable, elle n'aurait jamais eu lieu. Cette appréciation ressort d'ailleurs très clairement des extraits de leur témoignage respectif.
+[62] Les explications décrites à la clause 6 du contrat d'annulation ne sont guère convaincantes. Il m'est apparu assez évident que le notaire a essentiellement mis son imagination à contribution pour formuler le contenu de cette clause. La preuve ne prête à aucune confusion ou même interprétation. Les parties ont essentiellement convenu d'annuler la transaction dans le but d'éviter la cotisation.
+[63] Cette même preuve permet cependant de soulever la question suivante. Croyant que la transaction n'était pas assujettie aux dispositions de la Loi pour le paiement de la taxe sur les produits et services, la transaction peut-elle être annulée pour le motif qu'il y a eu vice de consentement découlant de l'ignorance des conséquences fiscales?
+[64] D'entrée de jeu, il m'apparaît important de rappeler que l'ignorance de la Loi peut difficilement constituer un motif d'annulation d'un contrat d'autant plus que tous les intervenants avaient ou devaient avoir les connaissances, notamment au niveau du notaire responsable de la rédaction du contrat.
+[65] D'autre part, l'annulation a pour effet de replacer les parties contractantes dans le même état qu'elles étaient avant l'acte juridique faisant l'objet de l'annulation. Par contre, il est tout aussi manifeste et évident qu'une telle annulation est sans effet quant aux droits des tiers dont l'intimée.
+[66] La preuve de l'appelante a été constituée des témoignages de messieurs Lafleur et Beaudoin. Tous deux détenteurs d'une formation juridique, ils ont expliqué le cheminement du dossier en leur qualité d'acteurs très actifs.
+[67] Monsieur Lafleur a témoigné :
+R. …Il y a quelqu’un qui m’a appelé. Je lui ai donné les explications qui reflètent ce que je vous dis ce matin. Suite à ça, il y a eu des avis de cotisation et autres et on est devant vous maintenant.
+Q. Votre réaction, suite aux avis de cotisation ?
+R. Moi, quand on est arrivé avec ça, j’ai dit : Écoutez, j’ai dit c’était clair que nous, lorsqu’on a fait la transaction, l’élément sine qua non de tout ce dossier-là…surtout qu’on est dans le cadre d’une municipalité où je peux vous le dire, en termes de budget, il est sûr et certain que nous la base sine qua non de l’échange, c’est qu’il y ait aucun impact, c’est-à-dire qu’il y ait aucune sortie d’argent de part et d’autre au moment de la transaction ou quoi que ce soit, parce que c’était vraiment ce qu’on appelle une transaction de complaisance. C’était fait pour nous faciliter la tâche à tout le monde, c’est-à-dire au lieu d’avoir quelque chose que tu gères puis qui n’est pas vraiment dans ton domaine et inversement, l’autre bâtiment qui était utilisé à des fins plu, si on veut, de service communautaire, bien il appartenait à celui qui donnait ces services‑là.[20]
+[68] Monsieur Lafleur a aussi indiqué qu’un des éléments essentiels qui a déterminé le consentement des deux parties était le fait qu’il n’y aurait pas d’impact financier à assumer, c'est-à-dire aucune sortie d’argent au moment de la transaction. Ce qui suit est un extrait des notes sténographiques très révélateur sur les intentions des cocontractants :
+[E]n autant que ce soit change pour change, qu’il n’y ait pas d’impact, que ça coûte rien à la municipalité, que ça a toujours été la base même de l’essence de notre transaction, ça toujours été en autant que ça n’ait pas d’impact pour nos citoyens, pour tout le monde, nous autres on est bien correct.[21]
+[…]
+[L]orsqu’on a fait la transaction, l’élément sine qua non de tout ce dossier-là surtout qu’on est dans le cadre d’une municipalité où je peux vous le dire, en termes de budget, il est sûr et certain que nous la base sine qua non de l’échange, c’est qu’il y ait aucun impact, c’est-à-dire qu’il y ait aucune sorti d’argent de part et d’autre au moment de la transaction ou quoi que ce soit, parce que c’était vraiment ce qu’on appelle une transaction de complaisance.[22]
+[...]
+R. C’est évident qu’on n’aurait même pas envisagé de le faire….c’est clair que c’était change pour change.[23]
+[69] Le directeur de la Ville de Richmond, monsieur Guylain Beaudoin explique :
+R. …[I]l était clair dans la tête de tout le monde, qu’il y avait un effet zéro, mais qu’il y avait un débours zéro également à ce niveau-là. Donc, c’était vraiment un échange de complaisance à ce niveau-là. On a fait la transaction en date de novembre 2002. L’acte de transaction, comme maître Morel l’a apporté tout à l’heure, fait référence à une soulte zéro. Lorsqu’on est passé devant le notaire, c’est sûr que j’ai pas passé la signature en même temps que maître Martel, cependant on avait reçu les documents; on avait rencontré le notaire au préalable aussi pour lui expliquer le contexte de la transaction. Ce qui avait été expliqué au niveau de la TPS, TVQ, c’était : Écoutez, vous avez une soulte zéro, il y a vraiment aucun débours, il y a un effet zéro.[24]
+[70] Selon les deux témoins de l’appelante, le consentement a été vicié puisqu’il y eut erreur concernant un élément essentiel du contrat. La véracité de cette prétention ne semble pas être remise en question quoi que la preuve que cette erreur soit plutôt d’une nature économique qu’un élément essentiel du consentement. De toute évidence, il est raisonnable de croire que les cocontractants n’auraient pas transigé s'ils avaient su qu’il s'ensuivrait une cotisation, la Ville n’en ayant financièrement pas les moyens.
+[71] En tenant pour acquis que l'appelante a relevé le fardeau de la preuve qui lui incombait quant à la réalité d'une erreur, je dois maintenant décider s'il s'agissait d'une erreur inexcusable comme le prévoit l’alinéa 1400(2) CCQ.
+[72] Selon Beaudoin et Jobin, le droit québécois s'est inspiré du droit français en excluant l’annulation dans l'hypothèse de l'erreur inexcusable. Cette règle comporte la notion de la stabilité de l’ordre contractuel[25] et l’idée que chacun doit se renseigner avant de contracter ou transiger est une règle bien établie; la question de la responsabilité personnelle ou professionnelle des intervenants n'étant pas la compétence de ce tribunal, je ne m'attarderai pas sur cet aspect.
+[73] Ces auteurs sont d’avis que c’est l’obligation du cocontractant de démontrer l’erreur inexcusable.[26] Dans le présent dossier, le cocontractant à l’acte d’échange, CPIR, n'ont seulement il ne s’est pas objecté à l'existence de l’erreur de consentement, il l'a reconnu étant donné qu’elle a un intérêt dans le succès de l’appel de la Ville, puisque CPIR a consenti à l’annulation du contrat devant le notaire.
+[74] Cette particularité quant à l'admission par les deux parties de l'existence de l'erreur soulève un problème sur la question de savoir de qui a l’obligation de prouver que l’erreur est inexcusable. En principe, cette responsabilité incombe au cocontractant qui s’oppose à ce que le contrat soit annulé.[27] Mais dans le présent cas, le cocontractant a consenti à l’annulation de l’acte d’échange.
+[75] En l'espèce, en supposant que l’appelante a démontré que l’erreur respecte le critère énoncé à l’alinéa 1400(1) CCQ, Il incombe alors à l’intimée de démontrer que l’erreur est inexcusable
+[76] Qu'en est-il au niveau de la preuve à cet effet? Je crois que l'extrait ci‑après répond à cette importante question :
+Q. Je vous réfère au dernier paragraphe à la page 8.
+R. Oui.
+Q. Où on mentionne, entre autre : En conséquence, s’il y a lieu, la responsabilité du paiement de la taxes sure les produits et les services et la taxe de vente du Québec est supporté par chaque parties ayant reçu l’immeuble en échange.
+R. Oui, puis comme je le soulignais tantôt, c’est que nous, dans l’élément distinctif de la transaction qui faisait que notre consentement était donné à cette transaction-là, c’est qu’il y en avait pas d’impact….
+R. Évidemment, lorsque vous avez signé cette transaction-là, l’acte légal avait été vu par vos aviseurs légaux, c’est bien exact?
+R. Nous, on n’a pas d’aviseurs légaux, mais moi j’ai pris connaissance, oui.
+Q. Vous en aviez pris connaissance. De toute façon il y avait un notaire instrumentant dans cet acte- là, c’était maître Tanguay, Denis Tanguay, c’est bien exact ?
+R. Oui.
+Q. J’imagine que le contrat a été passé en revue par maître Tanguay et les parties en présence avant que l’échange ne soit signé ?
+R. Oui, effectivement.
+Q. Si je comprends bien, la seule raison pour laquelle vous avez procédé deux ans plus tard à l’annulation de cet échange-là, était dû au fait que la Municipalité de la Ville de Richmond devait payer un montant de TPS et de TVQ
+R. La conséquence, mais la base même était à l’effet que lorsqu’on m’a amené ça, c’est qu’on m’a dit : Écoutez, quand on a fait la transaction avec vous le CPIR, vous nous aviez dit…vous nous avez informé qu’il n’y aurait pas de déboursé comme tel relatif à ça, puis c’était la base. Ils m’ont dit, si on avait su, on n’aurait jamais donné notre consentement à ça ou quoi que ce soit. J’ai dit écoutez, c’est pour ça que nous on a concouru à ça.
+Q. Oui, mais M. Lafleur, vous êtes d’accord avec moi que laquelle la transaction a été annulée c’est à cause de l’incidence fiscale au niveau de la TPS et de la TVQ, c’est bien exact ?
+R. Qu’il y ait une conséquence à la transaction, c’est sûr, définitivement.
+Q. Oui, mai la seule raison, je reviens encore à cette question. La seule raison pour laquelle la transaction a été annulée c’est à cause des conséquences fiscales au niveau de la TPS et de la TVQ ?
+R. Bien c’est sûr que oui, si on est devant vous oui, définitivement.[28]
+[...]
+Q. Donc, ça avait été expliqué par maître Tanguay au moment…
+R. Maître Tanguay, oui.[29]
+[...]
+Q. Juste quelques petites questions de précision. Maître Morel a soulevé tout à l’heure, au niveau de l’acte d’échange, qu’il y avait une clause de taxe à l’intérieur. Est-ce qu’au moment où vous avez signé ou à un quelconque moment antérieur, maître Tanguay vous a donné des conseils à ce niveau-là ou vous a mentionné qu’il n’avait pas de taxe. Qu’est ce qui a été dit par maître Tanguay lors de la signature de ce document-là ?
+R. En ce qui nous concerne nous, il n’y a pas eu de référence sur les impacts à notre organisme, parce que nous, toutes nos transactions, on les fait devant maître Tanguay, puis il n’y a pas d’impact à ce niveau-là. C’est toujours…chaque partie est responsable…
+Q. Mais, est-ce que ça a été soulevé au moment de la transaction ou quoi que ce soit ?
+R. Non, non.
+Q. Est-ce que vous étiez présent l’un et l’autre au moment de la signature de cet acte-là. Parce que si on regarde les dates au niveau de l’acte d’échange…je sais pas si c’est vous qui l’avez. Non, vous avez l’acte d’annulation. Au niveau de l’acte d’échange, si vous regardez, juste nous préciser, au niveau de la signature, comment ça s’est produit. Est-ce que toutes les parties étaient en présence au moment de la signature ?
+R. Moi, je ne peux pas vous répondre parce que je ne suis pas signataire. Le signataire c’est le président de l’organisme. […]
+R. Je n’étais pas présent, c’est Michel Ménard qui était présent, qui était le président de l’organisme pour signer, moi je ne suis pas habilité à signer des contrats de vente, c’est le président qui est habilité. Moi, on m’avait fait parvenir un projet auparavant, ce que j’ai pris connaissance et que j’ai retourné à mon président en lui disant que lui pouvait signer, qu’il n’avait pas de problème. [30]
+[...]
+Q. Monsieur Lafleur, je présume que vous connaissez bien maître Beaudoin ?
+R. Oui.[31]
+[...]
+Q. Justement, Monsieur Beaudouin, on vient d’apprendre…on sait que vous êtes avocat, on vient d’apprendre que monsieur Lafleur (directeur de la CPIR) est avocat, vous êtes avec un notaire maître Tanguay, en 2004, avant de signer ce contrat à et donc vous êtes des parties très informées et vous rédigez la clause 6 (contrat d’annulation)
+R. Je n’ai pas rédigé la clause 6.[32]
+[77] La prépondérance de la preuve est à l'effet que l'erreur de consentement plaidée par l’appelante est inexcusable, et cela, notamment à cause de la qualité des intervenants. Messieurs Beaudouin et Lafleur étant tous les deux des avocats. À la lumière de cette preuve plus que convaincante, je conclus que l'erreur de consentement plaidée par l'appelante est inexcusable.
+[78] Les parties sont des personnes ayant manifestement les compétences pour avoir au moins le réflexe de s'interroger et de vérifier de ce qu'il en était au niveau des dispositions de la loi applicable.
+[79] Dans le cadre de toutes transactions, les conséquences fiscales doivent être prises eu compte par les parties. Les parties avaient l'obligation de s'informer avant de passer un contrat devant le notaire.
+[80] L'échange devint nul en 2004 seulement, c’est-à-dire au moment où le deuxième contrat d’annulation a pris effet. Cette annulation a effet entre les cocontractants et se concrétise envers les tiers, mais seulement en 2004 l’annulation n’ayant aucun effet rétroactif quant aux tiers. La cotisation est donc valable.
+[81] Pour les motifs ci-dessus, je rejetterais l’appel parce que l’erreur inexcusable ne permet pas à l’appelante de revendiquer le droit à la nullité du contrat.[33] Donc, l’effet du contrat d’annulation conclu en 2004 n’est pas rétroactif. Même si je n'étais pas arrivé à la conclusion qu'il s'agissait d'une erreur inexcusable, je devrais conclure au rejet de l'appel pour un autre motif. En effet, je devrais alors prendre en considération les dispositions suivantes.
+Consentement vicié et nullité valable de l'acte d'échange
+[82] L’article 1416 du CCQ prévoit ce qui suit :
+1416. Tout contrat qui n'est pas conforme aux conditions nécessaires à sa formation peut être frappé de nullité.
+[83] L’effet de la nullité de l’acte d’échange est prévu à l’article 1422 du CCQ :
+1422 : Le contrat frappé de nullité est réputé n'avoir jamais existé.
+Chacune des parties est, dans ce cas, tenue de restituer à l'autre les prestations qu'elle a reçues
+1440. Le contrat n'a d'effet qu'entre les parties contractantes; il n'en a point quant aux tiers, excepté dans les cas prévus par la loi.
+[84] L’acte d’échange étant frappé de nullité, il est réputé n’avoir jamais existé. L’annulation a des effets différents que la résolution, la résiliation ou la révocation. En fait, il n’y a pas de correction de forme.
+[85] Le tribunal reprend une partie du plan d'argumentation de l'intimée quant aux distinctions à faire entre la résolution, la résiliation et la révocation, et cela, pour mieux comprendre le concept d’annulation.
+La résolution permet d’anéantir rétroactivement un acte en cas de défaut d’une partie dans l’exécution du contrat (ex : résolution de la vente pour non paiement du prix) alors que la nullité ne peut être demandée qu’en raison d’un défaut dans la formation du contrat.
+La résiliation permet d’anéantir pour le futur seulement un contrat à exécution successive (ex. résiliation d’un bail).
+Contrairement à l’annulation, la révocation permet à une partie de mettre un terme unilatéralement à un acte juridique (ex. révocation d’un mandat ou d’un testament). La révocation n’entraîne pas nécessairement une remise en état des parties comme l’annulation.
+[86] Ainsi, il est maintenant requis de se demander ce à quoi consiste exactement le contrat d’annulation?
+[87] En vertu de l’article 1422 du CCQ, un contrat annulé est réputé n’avoir jamais existé. Donc, chacune des parties est tenue de restituer à l’autre les prestations qu’elle a reçues. Il y a un effet rétroactif faisant en sorte de remettre les parties dans la même position de départ comme si elles n’avaient jamais conclu le contrat.
+[88] Plutôt que de s'adresser à un tribunal pour demander l'annulation avec effet rétroactif les parties se sont entendues pour que l’acte d’échange soit annulé devant un notaire. Conséquemment, les effets de cette annulation conventionnelle ne s'appliquent qu'à eux, comme le prévoit l’article 1440 CCQ.
+[89] Qu'en est-il quant aux tiers dont notamment l'intimée?
+[90] L’intimée plaide que l’effet rétroactif édicté à l’article 1442 du CCQ s’applique aux parties à l’instance et les règles de la restitution des prestations, contenues aux articles 1699 à 1707 CCQ, vont alors entrer en jeu.[34] À l'appui de ses prétentions, elle reprend le contenu de 1707 du CCQ, qui dit :
+1707. Les actes d'aliénation à titre onéreux faits par celui qui a l'obligation de restituer, s'ils ont été accomplis au profit d'un tiers de bonne foi, sont opposables à celui à qui est due la restitution. Ceux à titre gratuit sont inopposables, sous réserve des règles relatives à la prescription.
+Les autres actes accomplis au profit d'un tiers de bonne foi sont opposables à celui à qui est due la restitution.
+[91] L’intimée soutient, à juste titre, que la « nullité amiable » ou conventionnelle n’est pas opposable aux tiers intéressés.[35] Elle cite aussi l’arrêt Placements Gentica inc. c. Le sous‑ministre du Revenu du Québec, [1998] R.D.R.Q » 281 (C.A.) comme appui que le deuxième contrat, annulant le premier contrat, n’avait pas un effet rétroactif pour les fins fiscales sous la Loi concernant l’impôt sur la vente en détail.
+[92] Par ailleurs, l’intimée cite l’auteur Vincent Karim :
+« Quoi qu’il en soit, les parties peuvent s’entendre pour déclarer nul leurs contrat. […] Cependant, les parties ne peuvent convenir de la nullité de leur contrat et ainsi conclure une entente au détriment de l’intérêt d’un tiers ayant acquis un droit de suite à la conclusion de ce contrat; ce dernier peut valablement s’oppose à toute entente qui ne tient pas compte de ses droits acquis de bonne foi et la faire déclarer inopposable au tiers. »[36]
+[93] Dans l’affaire B.E.A. Holding, les parties ont admis qu’elles avaient besoin de l’autorité du tribunal pour reconnaître la nullité rétroactive en ce qui concerne les tiers.
+22. Les parties admettent qu'elles pourraient, par leur seule volonté, puisqu'il s'agit de compagnies liées, convenir d'annuler les contrats, mais l'annulation volontaire de ces transactions n'aurait aucun effet rétroactif pour les tiers, dont les autorités fiscales. La requérante demande en conséquence au Tribunal de déclarer la nullité de ces contrats et autres écrits instrumentaires avec effet résolutoire.
+[94] Pour toutes ces raisons, l’appel est rejeté en partie, avec dépens en faveur de l'intimée; la cotisation devra toutefois être modifiée en tenant pour acquis que la juste valeur marchande de l'immeuble a été établie de consentement par les parties à 850 000 $.
+Signé à Ottawa, Canada, ce 4e jour de septembre 2007.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE : 2007CCI336
+Nº DU DOSSIER DE LA COUR : 2005-394(GST)G
+INTITULÉ DE LA CAUSE : Ville de Richmond et Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Sherbrooke (Québec)
+DATE DE L’AUDIENCE : le 6 mars 2007
+MOTIFS DU JUGEMENT PAR : L'honorable juge Alain Tardif
+DATE DU JUGEMENT CORRIGÉ: le 4 septembre 2007
+COMPARUTIONS :
+Avocate de l'appelante :
+Me Isabelle Boisvert
+Avocat de l'intimée :
+Me Michel Morel
+AVOCATE INSCRITE AU DOSSIER :
+Pour l'appelante:
+Nom : Me Isabelle Boisvert
+Cabinet : Daigle, Jacques & Associés Inc.
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Zahinda, Chikwa, La doctrine de rectification de contrats et son application en droit fiscal : étude comparée des principes de common law, droit civil et droit corporatif, Planification fiscale et successorale, Association de planification fiscale et financière (APFF) revue, Vol. 27, no 1, 2006, p. 24.
+[2] Ibid., p. 26.
+[3] Ibid., p. 45.
+[4] Ibid., pages 45, 84 et -85.
+[5] P. Malaurie, L. Aynès et P. Stoffel-Munck, Les obligations, 2e éd., Paris, Defrénois, 2005, p. 330.
+[6] Notes sténographiques, le 6 mars 2007, pages 118-120.
+[7] Supra note 5, pages 50 et 57.
+[8] Supra note 3. CCQ 1398 : Le consentement doit être donné par une personne qui, au temps où elle le manifeste, de façon expresse ou tacite, est apte à s'obliger. CCQ 1399 : Le consentement doit être libre et éclairé. Il peut être vicié par l'erreur, la crainte ou la lésion.
+[9] Jean-Louis Beaudouin et Pierre-Gabriel Jobin, Les obligations, 6e éd., Cowanville, Éditions Yvon Blais, 2005, p. 277.
+[10] Pièce A-5 : Annulation d’échange, à la clause 6.
+[11] Supra note 10 Notes sténographiques, pages 31-32 et 39. La nature de l’acte d’échange était un échange d’immeuble.
+[12] Ibid, pages 28-30, 46-47, et 68.
+[13] Ibid., p. 30.
+[14] Ibid., pages 34 et 39. Contra p. 31.
+[15] Ibid., pages 36 et 96.
+[16] Supra note 14. p. 291.
+[17] Supra note 10 Notes sténographiques. à la p. 12.
+[18] IBID. à la page 13-14.
+[19] J.E. 2003-1102 (C.S.) infirmé sur un autre point par [2004] J.Q. (Quicklaw) no 646. (C.A.).
+[20] Supra note 10 Notes sténographiques, pages 18-19.
+[21] Ibid., pages 15-16.
+[22] Ibid., p. 18.
+[23] Ibid., p. 21.
+[24] Ibid., pages 51-52.
+[25] Supra note 14, p. 277.
+[26] Ibid., p. 292.
+[27] Ibid., p. 292.
+[28] Supra note 10 Notes sténographiques, pages 24-27.
+[29] Ibid., p. 52.
+[30] Ibid., pages 43-45.
+[31] Ibid., p. 41.
+[32] Ibid., p. 67.
+[33] Exemple de causes où le tribunal n’a pas accordé l’annulation du contrat pour erreur inexcusable : Société québécoise d'assainissement des eaux c. B. Fréjeau & Fils inc. J.E. 2000-809 (C.A.)., Construction D.R.C. Rousseau inc. c. Enchères de Chez nous inc. [1997] R.D.I 261 (C.S.). Royal Bank of Canada c. 2969408 Canada inc. C.S. Montréal, 500-17-010040-015, 16 mai 2002, j; Carole Hallée. Bonin c. Picard [2004] R.R.A. 910 (C.S.).
+[34] Plan d’argumentation de l’intimée, p. 7.
+[35] Supra note 9, p. 330.
+[36] V. Karim, Les obligations, volume I, 2e éd., Montréal, Wilson & Lafleur, 2002, p. 288.

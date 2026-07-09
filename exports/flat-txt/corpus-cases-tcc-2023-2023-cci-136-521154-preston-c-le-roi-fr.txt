@@ -1,0 +1,162 @@
+Title: Preston c. Le Roi
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521154/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-136-521154-preston-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2023-09-07
+
+# Preston c. Le Roi
+
+- Citation: 2023 CCI 136
+- Decision date: 2023-09-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5682, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Preston c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-09-07
+Référence neutre
+2023 CCI 136
+Numéro de dossier
+2021-1942(IT)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2021-1942(IT)I
+ENTRE :
+RANDALL J. PRESTON,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 11 octobre 2022 à Toronto (Ontario)
+Devant : L’honorable juge Susan Wong
+Comparutions :
+Avocat de l’appelant :
+Me Nathaniel Hills
+Avocat de l’intimé :
+Me Desmond Jung
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 2017 est accueilli sans dépens et l’affaire est renvoyée au ministre du Revenu national, pour le motif que l’appelant a exploité une entreprise de gestion d’artistes durant l’année d’imposition 2017 et qu’il a droit à la déduction des dépenses d’entreprise de 52 046 $ demandées pour cette année-là.
+L’appel relatif à l’année d’imposition 2018 est annulé sans dépens, pour le motif qu’aucun avis d’opposition n’a été déposé.
+Signé à Vancouver (Colombie-Britannique), ce 7e jour de septembre 2023.
+« Susan Wong »
+La juge Wong
+Référence : 2023 CCI 136
+Date : le 7 septembre 2023
+Dossier : 2021-1942(IT)I
+ENTRE :
+RANDALL J. PRESTON,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+I. Introduction/survol
+[1] L’appelant a une fille qui a des talents de musicienne. Il a décidé de mettre à profit ses compétences en gestion des affaires et en négociation de contrats pour aider à gérer la carrière artistique de sa fille et la guider vers la voie du succès. Ils ont conclu un contrat de gestion personnelle aux termes duquel il assumerait les dépenses initiales et toucherait une commission si sa fille signait un contrat avec une grande maison de disques.
+[2] Le ministre du Revenu national n’a pas jugé que l’appelant exploitait une entreprise de gestion d’artistes et il a par conséquent refusé les déductions demandées au titre des dépenses d’entreprise.
+II. Question préliminaire
+[3] D’entrée de jeu à l’audience, l’avocat de l’appelant a reconnu que l’appel interjeté à l’encontre de l’année d’imposition 2018 était sans effet, car aucun avis d’opposition n’avait été déposé. Comme le dépôt d’un avis d’opposition est une condition préalable obligatoire pour interjeter appel auprès de notre Cour, l’appel relatif à l’année 2018 est annulé.
+III. Questions en litige
+[4] La seule question en litige est de savoir si l’appelant a exploité une entreprise en gérant la carrière musicale de sa fille durant l’année d’imposition 2017.
+[5] Le cas échéant, la somme de 52 046 $ demandée par l’appelant à titre de dépenses d’entreprise serait déductible, de sorte que l’année se solderait par une perte nette d’entreprise de 53 196 $.
+IV. Contexte factuel
+[6] L’appelant a commencé à travailler dans le domaine des ventes à la fin de ses études secondaires et il a travaillé pendant plusieurs années comme gestionnaire de comptes chez Western Union, une société de transferts d’argent. Cet emploi lui a ouvert la voie vers des emplois de niveau supérieur dans une société d’encaissement de chèques qui comptait trois succursales à l’époque. Il est devenu actionnaire et administrateur et a contribué à l’essor de la société jusqu’à ce que celle-ci soit vendue à une société américaine cotée en bourse du nom de Curo Financial. L’appelant travaille pour Curo depuis 22 ans, où il occupe actuellement le poste de vice-président des services immobiliers, un rôle pour lequel il doit négocier des contrats et des conventions de bail et choisir les emplacements pour tous les bureaux de la société.
+[7] L’appelant se décrit comme un entrepreneur dans l’âme. Sa fille, Chantal Preston, voulait être auteure-compositrice-interprète et, bien qu’elle n’ait pas remporté le premier prix lors d’un des premiers spectacles d’artistes amateurs auxquels elle a participé, l’un des juges l’a contactée par la suite pour lui faire savoir qu’il aimerait travailler avec elle. L’appelant a négocié un contrat avec ce juge, et cela a mené à l’enregistrement, par Chantal, d’un album inédit qui a été produit par cette personne dans un studio en Ontario[1].
+[8] Afin de faciliter le traitement des aspects fiscaux et commerciaux de son entreprise, l’appelant a engagé un comptable, M. John Anderson, pour l’aider et le conseiller; en plus d’être comptable, M. Anderson était lui-même un musicien qui avait des contacts dans l’industrie de la musique. Avec l’aide de M. Anderson, l’appelant a préparé un contrat de gestion personnelle qui prévoyait (notamment) qu’il toucherait une commission de 5 ou 10 p. cent si Chantal franchissait une étape importante sous sa direction, par exemple en signant avec une importante maison de disques. Le contrat daté du 1er janvier 2016 a été signé uniquement par Chantal[2]. Le contrat prévoyait également que Chantal pourrait y mettre fin si aucune des étapes importantes n’était atteinte dans un délai de cinq ans.
+[9] Lors de son témoignage, l’appelant a déclaré qu’ils ont réalisé, après qu’une des chansons de l’album produit en Ontario a été diffusée à la radio en 2016, qu’ils devaient tout reprendre du début, car il ne faisait aucun doute que cet album ne générerait pas de revenus. Il a alors commencé, en 2017, à développer un réseau de contacts au sein de l’industrie.
+[10] Il a mentionné qu’il n’a pas réussi à négocier une entente avec un éditeur de New York afin que les chansons de Chantal soient distribuées par l’intermédiaire de cette société. Cet éditeur lui a toutefois présenté un producteur de Nashville du nom de Buddy Hyatt, qui les a présentés à d’autres membres de l’industrie musicale de Nashville. L’appelant a déclaré que lui et Chantal ont décidé de rester à Nashville à la fin de 2017, afin de travailler avec M. Hyatt à la production d’un nouvel album qui a été terminé mais qui n’a pas été distribué; le nom Preston Media apparaît à l’arrière de la pochette de cet album[3].
+[11] L’appelant a indiqué que la majeure partie de 2017 avait notamment été consacrée à l’enregistrement de disques de démonstration, à la négociation de modalités et conditions en vue de la production d’un album à Nashville, à des voyages à Nashville, à des séances photos pour la pochette de l’album, ainsi qu’à des activités sur les réseaux sociaux visant à mieux faire connaître Chantal. Il a précisé que le processus avait exigé beaucoup de travail et qu’il avait été d’un coût presque exorbitant au début, car il a fallu un à deux ans pour produire et enregistrer un album qui serait ensuite mis sur le marché.
+[12] Ils ont rapporté l’album au Canada et l’ont présenté à diverses parties susceptibles d’être intéressées, mais les critiques ont été mitigées. En 2019, ils ont rencontré un producteur du nom de Trevor Shelton, qui possédait une maison de disques à Toronto, la société Rammit Records; ils ont signé un contrat de licence avec la société Rammit en novembre 2019[4]. Le contrat de licence conférait à Rammit les droits de propriété sur la musique de Chantal, notamment le droit exclusif d’utilisation des enregistrements originaux et de distribution, ainsi que le droit de produire de nouvelles versions des chansons en vue de raviver l’intérêt pour ces chansons[5]. À la suggestion de M. Shelton, certaines chansons de l’album ont été réenregistrées en vue d’une diffusion possible à la radio.
+[13] L’appelant a déclaré que, bien qu’aucune des chansons de l’album n’ait été jouée à la radio, l’album a servi d’outil publicitaire pour établir la crédibilité de sa fille, en démontrant qu’elle avait travaillé à Nashville et que d’autres de ses chansons avaient été jouées à la radio. À cette fin, l’appelant a produit des copies de relevés de redevances délivrés par la Société canadienne des auteurs, compositeurs et éditeurs de musique (SOCAN)[6], un organisme de réglementation qui délivre des licences musicales permettant l’utilisation de la musique produite au Canada et qui verse des redevances aux artistes dont la musique est diffusée. Il a mentionné que la SOCAN a versé des redevances à Chantal relativement à la diffusion d’une chanson en 2016 et qu’elle faisait un suivi de deux autres chansons qui étaient diffusées à la radio au Canada et aux États-Unis.
+[14] Durant son témoignage, l’appelant a précisé qu’il a commencé cette activité en tant qu’entreprise individuelle en utilisant son nom personnel, Randy Preston, et qu’il a par la suite changé le nom de manière non officielle pour Preston Media. En octobre 2019, il a enregistré son entreprise individuelle en vue d’obtenir un permis principal d’entreprise de l’Ontario[7] sous le nom de Preston Media et, plus tard en 2019, il a constitué son entreprise en personne morale sous le nom de Preston Media Inc.
+[15] Son comptable, M. Anderson, a déclaré durant son témoignage que l’appelant a conservé et lui a fourni des relevés pour une variété de catégories de dépenses, mais qu’il (M. Anderson) a choisi de limiter la déduction demandée pour l’année 2017 aux principales dépenses d’enregistrement et de production, en se basant sur la manière dont l’entreprise individuelle de l’appelant était exploitée à l’époque[8]. Il a également déclaré que la déclaration de 2017 était la première déclaration de revenus qu’il a produite au nom de l’appelant.
+V. Cadre législatif
+[16] Il est bien établi aux fins de la Loi de l’impôt sur le revenu qu’il ne peut y avoir de revenu durant une année d’imposition sans source de revenu[9]. Lorsque la source de revenu est une entreprise, le revenu du contribuable durant une année d’imposition donnée correspond au bénéfice tiré de cette entreprise durant l’année en question[10]. Lorsque les dépenses déductibles engagées sont supérieures au revenu gagné, le bénéfice devient alors une perte[11].
+[17] Le critère déterminant pour établir l’existence d’une source de revenu demeure l’approche en deux volets définie par la Cour suprême du Canada dans l’arrêt Stewart[12], à savoir :
+(i) L’activité en question est-elle exercée en vue de réaliser un profit, ou s’agit-il d’une démarche personnelle[13]?
+En d’autres termes, le contribuable a-t-il l’intention d’exercer une activité en vue de réaliser un profit et existe-t-il des éléments de preuve objectifs étayant cette intention[14]? Le contribuable doit établir que son intention prédominante est de tirer profit de l’activité et que cette activité est exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux[15].
+(ii) S’il ne s’agit pas d’une démarche personnelle, la source du revenu est-elle une entreprise ou un bien[16]?
+Dans le présent appel, les parties conviennent que, s’il existe une source de revenu, ce revenu est tiré d’une entreprise (et non d’un bien).
+[18] Lorsque l’activité : (a) semble manifestement commerciale, (b) qu’elle ne comporte aucun aspect personnel ou récréatif et (c) que les éléments de preuve étayent la thèse que l’activité est menée dans le but de réaliser un bénéfice, alors il existe une source de revenu aux fins de la Loi[17]. Cependant, lorsque l’activité peut être qualifiée de personnelle, il faut alors déterminer si l’activité est exercée d’une manière suffisamment commerciale pour constituer une source de revenu[18].
+[19] Pour déterminer si un contribuable exerce une activité d’une manière suffisamment commerciale, il existe une liste non exhaustive de facteurs à prendre en compte, notamment : (1) l’état des profits et pertes des données antérieures, (2) la formation du contribuable, (3) la voie sur laquelle le contribuable entend s’engager et (4) la capacité de tirer un bénéfice de l’activité[19]. Les facteurs varieront selon la nature et l’importance de l’activité[20]. Il s’agit d’évaluer non pas le sens des affaires du contribuable, mais plutôt la nature commerciale de l’activité en question[21].
+[20] La déductibilité des dépenses est une question distincte de celle de l’existence ou non d’une entreprise[22]. Pour pouvoir être déduites du revenu d’entreprise, les dépenses doivent être engagées dans le but de tirer un revenu de l’entreprise[23]. Les dépenses ne sont pas déductibles du revenu d’entreprise s’il s’agit de frais personnels ou de subsistance[24] ou de dépenses déraisonnables dans les circonstances[25].
+VI. Analyse et discussion
+[21] S’agissant de la question de savoir si l’appelant a exercé son entreprise de gestion d’artistes en vue de réaliser un bénéfice ou s’il s’agissait d’une démarche personnelle, il ne fait aucun doute que cette activité comportait un élément personnel puisque l’artiste en question était sa fille. Il faut donc se demander si cette activité a été exercée d’une manière suffisamment commerciale pour constituer une source de revenu.
+[22] La fille de l’appelant a participé à plusieurs concours d’artistes amateurs et elle a reçu des commentaires encourageants d’un des juges, qui a ensuite produit un album avec elle. On peut donc comprendre pourquoi l’appelant pourrait décider de soutenir sérieusement Chantal dans la poursuite d’une carrière musicale. Étant donné le succès entrepreneurial que l’appelant a connu dans le développement d’une entreprise qui a par la suite été vendue à une société américaine cotée en bourse, et les années subséquentes qu’il a passées à négocier des contrats pour la société Curo, on comprend également qu’il a voulu mettre ses compétences au profit de l’avancement de la carrière de sa fille et conclure une entente contractuelle avec elle. Il n’a toutefois pas signé le contrat de gestion personnelle puisqu’il se serait vraisemblablement retrouvé alors dans une situation sans lien de dépendance.
+[23] L’appelant a démontré le caractère délibéré de son intention, en engageant vers 2016 un comptable qui connaissait l’industrie de la musique. La déclaration de revenus de 2017 de l’appelant fut la première que M. Anderson a produite en qualité de comptable de l’appelant, et ce dernier s’en est remis au jugement de M. Anderson pour déterminer quelles dépenses liées à son entreprise individuelle pouvaient être déduites.
+[24] L’intimé a mis en doute l’aspect commercial des débours initiaux de l’appelant, car seule existait la promesse de toucher une commission et que le contrat conférait à Chantal la prérogative de mettre fin au contrat après cinq ans. Du point de vue de l’artiste, il semblerait nécessaire et commercialement approprié de conserver le droit de mettre fin au contrat. Du point de vue du gestionnaire personnel, l’entente fondée sur le versement d’une commission comporte un risque de pertes financières en cas d’échec, mais aussi la promesse de gains lucratifs en cas de succès, et fixe une date limite à cette fin. L’entente paraît logique lorsqu’on tient compte de la nature de l’activité dans l’industrie en cause[26], car elle protège l’artiste contre le risque de rester lié à une entente de gestion personnelle qui ne remplit pas ses promesses.
+[25] L’appelant a également démontré le caractère délibéré de son intention en développant un réseau de contacts au sein de l’industrie, ce qui a mené à l’enregistrement d’un album à Nashville en 2017. Il ressort clairement de son témoignage que, bien qu’il n’ait eu aucune expérience de l’industrie de la musique, l’appelant a déployé des efforts considérables pour comprendre cette industrie. Le fait que Chantal a finalement signé un contrat de licence avec Rammit Records en 2019, ainsi que les éléments de preuve attestant de la surveillance continue des œuvres diffusées à la radio et des redevances versées, sont autant d’éléments qui corroborent cette intention; il s’agit toutefois d’éléments accessoires à ma décision concernant l’année 2017.
+[26] Si l’on met de côté le caractère imprévisible de l’industrie musicale quant à savoir si un artiste aura ou non du succès, la diffusion à la radio de chansons de Chantal, les redevances versées et l’intérêt continu de producteurs désireux de travailler avec elle montrent que l’activité peut générer un bénéfice. L’appelant a exécuté son activité de gestion d’artistes d’une manière suffisamment commerciale pour qu’elle constitue une source de revenu d’entreprise.
+VII. Conclusion
+[27] L’appel interjeté à l’égard de l’année d’imposition 2017 est accueilli sans dépens, pour le motif que l’appelant a exploité une entreprise de gestion d’artistes et qu’il a droit à la déduction des dépenses d’entreprise de 52 046 $ demandées pour cette année-là.
+[28] L’appel relatif à l’année d’imposition 2018 est annulé sans dépens, pour le motif qu’aucun avis d’opposition n’a été déposé.
+Signé à Vancouver (Colombie-Britannique), ce 7e jour de septembre 2023.
+« Susan Wong »
+La juge Wong
+RÉFÉRENCE :
+2023 CCI 136
+NO DU DOSSIER DE LA COUR :
+2021-1942(IT)I
+INTITULÉ :
+RANDALL J. PRESTON c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 11 octobre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 7 septembre 2023
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Nathaniel Hills
+Avocat de l’intimé :
+Me Desmond Jung
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+Me Nathaniel Hills
+Cabinet :
+LaBarge Weinstein LLP
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Pièce A-2
+[2] Pièce A-1
+[3] Pièce A-5
+[4] Pièce A-8
+[5] Pièce A-9
+[6] Pièce A-6
+[7] Pièce A-4
+[8] Pièce A-3
+[9] Loi de l’impôt sur le revenu, article 3; Canada c. Paletta, 2022 CAF 86, paragraphe 30
+[10] Loi de l’impôt sur le revenu, paragraphe 9(1); Canada c. Paletta, 2022 CAF 86, paragraphe 31
+[11] Loi de l’impôt sur le revenu, paragraphe 9(2); Canada c. Paletta, 2022 CAF 86, paragraphe 31
+[12] Stewart c. Canada, 2002 CSC 46 (CanLII)
+[13] Stewart c. Canada, 2002 CSC 46 (CanLII), paragraphe 50
+[14] Stewart c. Canada, 2002 CSC 46 (CanLII), paragraphe 54
+[15] Stewart c. Canada, 2002 CSC 46 (CanLII), paragraphe 54
+[16] Stewart c. Canada, 2002 CSC 46 (CanLII), paragraphe 50
+[17] Canada c. Paletta, 2022 CAF 86, paragraphe 36; Stewart c. Canada, 2002 CSC 46 (CanLII), paragraphe 60
+[18] Stewart c. Canada, 2002 CSC 46 (CanLII), paragraphe 60
+[19] Stewart c. Canada, 2002 CSC 46 (CanLII), paragraphe 55
+[20] Stewart c. Canada, 2002 CSC 46 (CanLII), paragraphe 55
+[21] Stewart c. Canada, 2002 CSC 46 (CanLII), paragraphe 55
+[22] Stewart c. Canada, 2002 CSC 46 (CanLII), paragraphes 58 et 60
+[23] Loi de l’impôt sur le revenu, alinéa 18(1)a)
+[24] Loi de l’impôt sur le revenu, alinéa 18(1)h)
+[25] Loi de l’impôt sur le revenu, article 67
+[26] Kaegi c. La Reine, 2008 CCI 566, paragraphe 21; Tramble c. La Reine, 2001 CanLII 416 (CCI), paragraphe 6

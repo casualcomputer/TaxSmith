@@ -1,0 +1,146 @@
+---
+title: "Bertucci v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72947/index.do"
+last_modified: "2014-07-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 230"
+citation2: ""
+neutral_citation: "2014 TCC 230"
+decision_date: "2014-07-17"
+language: "en"
+item_id: "72947"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5363
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:38:15.822000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2f08275ee6fcb4fc35bad2979d3bcda1629a6a7ec370edb078fe5d240dc60bf7"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Bertucci v. The Queen
+
+- Citation: 2014 TCC 230
+- Decision date: 2014-07-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5363, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bertucci v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-07-17
+Neutral citation
+2014 TCC 230
+File numbers
+2012-3521(IT)G
+Judges and Taxing Officers
+Valerie A. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3521(IT)G
+BETWEEN:
+FRANK JOSEPH BERTUCCI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on July 11, 2014, at Toronto, Ontario
+Before: The Honourable Justice Valerie Miller
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christian Cheong
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the Appellant’s 2001 and 2002 taxation years is dismissed.
+Signed at Ottawa, Canada, this 17th day of July 2014.
+“V.A. Miller”
+V.A. Miller J.
+Citation: 2014TCC230
+Date: 20140717
+Docket: 2012-3521(IT)G
+BETWEEN:
+FRANK JOSEPH BERTUCCI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+V.A. Miller J.
+[1] The Appellant failed to file income tax returns for the 2001 and 2002 taxation years and the Minister of National Revenue (the “Minister”) assessed him on October 26, 2009 pursuant to subsection 152(7) of the Income Tax Act (the “ITA”).
+[2] In assessing the Appellant, the Minister made the following assumptions of fact:
+2001 Taxation Year
+a) in the 2001 taxation year, the appellant was engaged by Canada Post to provide mail delivery services as an independent contractor;
+b) on December 7, 2001, the appellant assigned his rights and responsibilities with respect to the agreement between himself and Canada Post, dated August 29, 2001, to 1483740 Ontario Ltd.;
+c) 1483740 Ontario Ltd. was wholly owned by the appellant;
+d) 1483740 Ontario Ltd. was incorporated November 14, 2001;
+e) 1483740 Ontario Ltd. reported $nil revenue and $nil income in its return of income for the 2001 taxation year;
+f) in the 2001 taxation year, Canada Post paid $13,333 to the appellant as remuneration for services he provided;
+g) at all relevant times, the appellant was also engaged in the direct selling of products from For-Mor-Canada Inc., to customers as an independent agent;
+h) in the 2001 taxation year, For-Mor Canada Inc. paid $1,595 in commission income to the appellant;
+i) for the 2001 taxation year, Greenock Resources also paid $1,293 in commission income to the appellant;
+2002 Taxation Year
+j) the Minister completed a trust audit exam of the payroll account for 1483740 Ontario Inc. for its 2002 taxation year;
+k) in the 2002 taxation year, 1483740 Ontario Inc. paid $28,082 to the appellant;
+l) for the 2002 taxation year, this Court [2007 TCC 258] held that the appellant was a subcontractor of 1483740 Ontario Inc. and received approximately $2,400 per month as remuneration for his services;
+m) for the 2002 taxation year, For-Mor Canada Inc. paid $1,016 in commission income to the appellant; and
+n) for the 2002 taxation year, Canada Post paid $2,666 to the appellant.
+[3] At the hearing, the Appellant agreed with all of the assumptions except paragraph (i). He stated that he did receive $1,293 in commission income in 2001 but it was from Alive International Inc. and not Greenock Resources.
+[4] In May 2002, the Canada Revenue Agency (“CRA”) issued a Demand that the Appellant file his 2001 income tax return. He replied to the Demand by questioning (i) whether the Demand was in compliance with subsections 150(1) and (2) of the ITA and (ii) who was the person claiming to have not received the return. He did not file his returns for 2001 or 2002.
+[5] At the beginning of the hearing, the Appellant stated that he did not intend to be adversarial; he was in court to represent the “little people” by finding ways to minimize his taxes. It was his position that in 2001 and 2002 he was engaged as an independent contractor and the ITA did not apply to independent contractors. He also argued that the ITA is incomprehensible to the common person and it should not apply.
+[6] Although the Appellant stated that he did not belong to a particular group, he used the concepts and terminology associated with the Organized Pseudolegal Commercial Argument (“OPCA”) litigant who was described by J.D. Rooke A.C.J.Q.B. in Meads v Meads, 2012 ABQB 571. The Appellant relied on a plethora of legislation (none of which was relevant except the ITA); legal maxims; definitions from the Canadian Law Dictionary; forms and letters from the CRA; and forms from various departments in the Ontario government. He stated that the forms from the CRA were not clear whereas the forms from the Ontario government were unambiguous; he questioned whether the T1 form with the General Income Tax and Benefit Guide was “legitimate”; and, whether the CRA represents the Minister of National Revenue. It appeared to me that the essence of his argument was that the definition of “person” in the ITA did not clearly state that it applied to him as a “human being, a private individual” and an independent contractor.
+[7] It is my view that the Appellant, like most litigants who use the tactics of saying that the ITA does not apply to them, did not really misunderstand the ITA. In the present case, the Appellant did not misunderstand the definition of “person” in the ITA. His actions and letters to the CRA indicated a “conscious intention to disobey”. See Meads (supra) at paragraph 561. The Appellant was not trying to minimize his taxes but was avoiding the payment of any taxes. There was absolutely no merit to any of his arguments.
+[8] In conclusion, the Appellant was a “person” resident in Ontario, Canada in 2001 and 2002 and the income he received in those years is taxable. There was never a dispute that he received income of $16,221 and $31,764 in 2001 and 2002 respectively and that he did not file his income tax returns for those years. Late filing penalties were correctly assessed against the Appellant. The appeal is dismissed.
+Signed at Ottawa, Canada, this 17th day of July 2014.
+“V.A. Miller”
+V.A. Miller J.
+CITATION:
+2014TCC230
+COURT FILE NO.:
+2012-3521(IT)G
+STYLE OF CAUSE:
+FRANK JOSEPH BERTUCCI AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 11, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Valerie Miller
+DATE OF JUDGMENT:
+July 17, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christian Cheong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

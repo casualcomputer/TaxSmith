@@ -1,0 +1,119 @@
+Title: Hunter v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27631/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-584-27631-hunter-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-10-31
+
+# Hunter v. The Queen
+
+- Citation: 2006 TCC 584
+- Decision date: 2006-10-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 420, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hunter v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-31
+Neutral citation
+2006 TCC 584
+File numbers
+2006-910(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-910(IT)I
+BETWEEN:
+JOHN HUNTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 20, 2006, at Regina, Saskatchewan
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lyle Bouvier
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2004 taxation year is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Kelowna, British Columbia, this 31st day of October, 2006.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2006TCC584
+Date: 20061031
+Docket: 2006-910(IT)I
+BETWEEN:
+JOHN HUNTER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Regina, Saskatchewan, on October 20, 2006. The Appellant was the only witness.
+[2] Paragraphs 5 to 13, inclusive, of the Reply to the Notice of Appeal outline the matters in dispute. They read:
+5. In computing income for the 2004 taxation year, the Appellant deducted the amount of $15,050.00 as Other Employment Expenses.
+6. By letter dated April 26, 2005 from the Preassessment Review Section with the CRA, the Appellant was requested to provide, among other things, the following information regarding his Other Employment Expenses of $15,050.00;
+(a) a copy of the applicable prescribed form, either the T2200, "Declaration of Conditions of Employment" or the TL2, "Claim for Meals and Lodging Expenses";
+(b) if a rebate was received from his employer, a letter indicating the amount received, the expense it related to and how much of it was included in the T4 slip; and
+(c) if amounts were incurred while carrying on the duties of employment that were charged to an employer's credit card, details of the amounts were requested and whether any portion was included in the T4 slip.
+7. By letter dated June 24, 2005 from the Preassessment Review Section with the CRA, the Appellant was informed that his claim for Other Employment Expenses would be adjusted from $15,050.00 to $4,837.50 for the following reasons:
+(a) without receipts, meals expenses are limited to $15/meal, to a maximum of $45/day per person and he may only claim 50% of the eligible meal expenses;
+(b) the claim for employee and partner GST/HST rebate has been adjusted accordingly; and
+(c) these claims have been adjusted based on a limited review of the information received and may be subject to a further review at a later date.
+8. The Minister of National Revenue (the "Minister"), in assessing the Appellant for the 2004 taxation year, reduced the Other Employment Expenses from $15,050.00 to $4,837.50 as without receipts, meals expenses are limited to $15/meal, to a maximum of $45/day per person and he may only claim 50% of the eligible meal expenses. The Notice of Assessment was dated July 11, 2005.
+9. The Appellant filed a Notice of Objection to that assessment, dated August 3, 2005.
+10. The Minister confirmed the assessment by letter dated January 17, 2006.
+11. In so assessing tax for the Appellant for the 2004 taxation year and in so confirming that assessment, the Minister assumed the same facts, as follows:
+(a) the Appellant's employer's principal business was the transportation of goods;
+(b) during the 2004 taxation year, the Appellant was employed with his employer as a long distance truck driver;
+(c) the duties of the Appellant's employment with his employer required the Appellant to regularly travel, away from the municipality where he normally reported for work, on vehicles used by his employer to transport goods;
+(d) the Appellant was required to pay for the cost of meals incurred in the course of carrying on his duties of employment;
+(e) the Appellant was not in receipt of an allowance or reimbursed from his employer with respect to the cost of his meals;
+(f) the Appellant claimed a deduction from income for meals in the amount of $15,050.00, calculated as follows:
+215 days x $70/day = $15,050.00
+(g) the Appellant was allowed a deduction from income for meals in the amount of $4,837.50, calculated as follows:
+215 days x $45/day = $9,675.00 x 50% = $4,837.50
+(h) the Appellant did not incur amounts for meals in excess of $45.00 per day.
+Other Material Facts
+12. During the 2004 taxation year, the Appellant's employer was 566679 Saskatchewan Ltd. (the "Employer").
+B. ISSUES TO BE DECIDED
+13. The issue is whether the Appellant is entitled to deduct additional transport employee's expenses pursuant to paragraph 8(1)(g) of the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp) (the "Act").
+[3] None of the assumptions in paragraph 11 of the Reply to the Notice of Appeal were refuted. In particular, the Appellant did not testify or provide any evidence that assumption 11(h) was incorrect. He testified generally about meal costs, but he did not give evidence about his own personal costs in 2004 that exceeded a total of $45 per day and he did not provide any receipts.
+[4] The Appellant spoke generally about federal civil servants' per diem travel allowances and submitted exhibits about that; however, these do not apply to this case. He also claimed discrimination against truckers under the Charter; but the Charter does not apply to this category of person.
+[5] The result is that there is no evidence before the Court to upset the assessment or reassessment of the Appellant.
+[6] The appeal is dismissed.
+Signed at Kelowna, British Columbia, this 31st day of October, 2006.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION: 2006TCC584
+COURT FILE NO.: 2006-910(IT)I
+STYLE OF CAUSE: John Hunter v. The Queen
+PLACE OF HEARING: Regina, Saskatchewan
+DATE OF HEARING: October 20, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice D.W. Beaubier
+DATE OF JUDGMENT: October 31, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Lyle Bouvier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

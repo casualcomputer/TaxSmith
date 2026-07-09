@@ -1,0 +1,153 @@
+Title: Legge v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30494/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-413-30494-legge-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-09-06
+
+# Legge v. The Queen
+
+- Citation: 2011 TCC 413
+- Decision date: 2011-09-06
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7234, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Legge v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-09-06
+Neutral citation
+2011 TCC 413
+File numbers
+2010-1802(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2010-1802(IT)G
+BETWEEN:
+DAVID WAYNE LEGGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 18, 2011, at Cornerbrook, Newfoundland
+Before: The Honourable Justice Diane Campbell
+Appearances:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Counsel for the Respondent:
+Devon E. Peavoy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2007 taxation year is allowed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Summerside, Prince Edward Island, this 6th day of September 2011.
+“Diane Campbell”
+Campbell J.
+Citation: 2011 TCC 413
+Date: 20110906
+Docket: 2010-1802(IT)G
+BETWEEN:
+DAVID WAYNE LEGGE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Campbell J.
+Facts:
+[1] The Appellant, David Wayne Legge, claimed an overseas employment tax credit (the “OETC”) pursuant to section 122.3 of the Income Tax Act (the “Act”) in respect to his employment in the State of Qatar. The issue before me is whether Mr. Legge is entitled to the OETC in respect to his 2007 taxation year.
+[2] The Appellant was employed by the College of the North Atlantic (the “CNA”) as an instructor in the Engineering Technology department at its branch campus (the “CNA-Q”) located in Doha in the State of Qatar. The Appellant’s evidence was that he is an instructor of Electronics and Telecommunications Engineering Technology.
+[3] The CNA is a post-secondary educational institution based in the Province of Newfoundland and Labrador. It operates a number of campuses throughout Newfoundland and Labrador as well as its Qatar campus. The overseas campus was established pursuant to a ten-year Comprehensive Agreement (the “Agreement”) entered into in September, 2001 between the CNA and Qatar. In accordance with the Agreement, CNA was to establish a public post-secondary college of technology offering students in Qatar both Canadian and international accreditation in various technological programs, including health sciences, information technology, engineering technology, business studies, banking and security. The CNA-Q is a fully-operational campus with programs that are designed in consultation with industry and State officials in Qatar. The programs are based on current and projected employment prospects.
+[4] The engineering technology program at CNA-Q, where the Appellant was a faculty member, was designed to prepare students for maintenance and operator positions at the technician and technologist levels. The primary obligations, of the State of Qatar under this Agreement, were to ensure that the campus operated in accordance with the State’s laws, to provide funding and facilities and to compensate CNA for establishing and operating the campus. The compensation details were contained in Article 4 of a lengthy and comprehensive Business Plan attached to and forming part of the Agreement. It is clear from the Agreement and Business Plan that CNA intended to make a profit from operating this campus in Qatar. The oral and documentary evidence support that this was a lucrative contract for the college.
+[5] One of the objectives of this Agreement was that CNA deliver high-quality graduates to work in the oil and gas industry in Qatar because many of those positions had been previously staffed by non-Qataris. Consequently, CNA-Q was designed to be responsive to the social and economic requirements of industry and community interests in the State of Qatar. In fact, one of the Guiding Principles listed in the Business Plan states that the “core task…for CNA is to bring the same flexibility and experience to designing systems that work in the unique social and cultural environment of Qatar” (Business Plan, page 1).
+[6] Three of the witnesses, who were senior officials with CNA and who had spent time at the campuses in both Qatar and Newfoundland, provided corroborating evidence of the close ties that CNA-Q had with industries in Qatar, particularly the oil and gas sector.
+[7] Pursuant to the Business Plan, at Article 5.2, the Master Program Plan, specific reference is made to the requirement for CNA to respond to the specific needs of Qatar industry. In addition, Article 5.3 outlines the importance of the “partnership” arrangement between CNA and the Qatar oil and gas industry sector together with the considerable interaction and collaboration that was intended: “…industry will play an integral role in the development of curriculum, definition of required accreditation standards and in the delivery of training.” It is clear from the Business Plan that Qatar industry is intended to have direct input into course content and delivery modes offered at CNA-Q. Although student enrolment was not limited to Qatari nationals, the objective of Qatar was to maximize the enrolment of Qatari nationals in these programs (Article 10.4) and for eventual employment in the Qatar business and industry sector.
+[8] Prior to the establishment of CNA-Q, technical engineering training had been handled on a limited basis by Qatar Petroleum Co. (“QP”), a wholly State-owned and operated company in the oil and gas sector. A Memorandum of Understanding (the “MOU”) dated July 1, 2005 between the Board of Governors of CNA and QP transferred a corporate training program, which included the Technical Preparatory Program (“TPP”) from QP to the college in Qatar. The Appellant’s duties, however, were not pursuant to this MOU. The TPP grants different certificates than those granted under the Engineering Technology program. The purpose of the TPP was to prepare students for entry into a process operations environment. The MOU also established a close working relationship between CNA-Q and QP for purposes of the TPP. For instance, the MOU provided that QP would pay for tuition fees, textbooks and supplies for a minimum of 240 students in the TPP for each academic year. Although QP acts as a sponsor to all students enrolled in the TPP, other Qatari and non-Qatari employers recruit from the TPP.
+[9] Although the campus was governed overall by the CNA Board of Governors, the Agreement established a Joint Oversight Board (“JOB”) to perform specific governance functions at the campus. The JOB included appointees from the State of Qatar, the CNA and local industry, with the State of Qatar maintaining the power to appoint the Chair of this Board.
+[10] Many of the students in the Engineering Technology program, as well as the other programs offered at CNA-Q, are sponsored by Qatari companies. In fact, QP acts as a state-owned umbrella company for many Qatari oil and gas companies, as well as a liaison vehicle for dealings with non-Qatari companies involved in the oil and gas industry. It maintains a full-time office on the CNA-Q campus to deal with those sponsored students. Other corporate entities, such as Qatar Gas and RasGas, Exxon Mobil, Dolphin Energy, Occidental Petroleum, Shell and Petrotec, also have a significant presence on campus and provide considerable support to the college. That support includes providing facilities for workplace training, sponsoring students, providing scholarships and contracting with the college for the provision of specific individualized training to sponsored students/employees (Respondent’s Written Submissions, paragraphs 24 and 25). However, the evidence suggests that QP, as the umbrella company and intermediary between CNA-Q and the oil and gas sector, maintains the most significant presence on campus.
+[11] More than half of all students at CNA-Q are sponsored by local businesses, which pay the students’ costs, including tuition. Sponsored students are either already employed by these companies or will be employed upon graduation. Each sponsored student can obtain a program from CNA-Q that is specifically designed to his or her individual needs. This type of sponsorship is unique to the Qatar college and is very different from the type of sponsorship program available at the Newfoundland campuses, where the sponsorship money is sourced from public funds with minimal private industry involvement. Gregory Chaytor, Vice‑President of the Qatar project, described the sponsorship program as being akin to a “parent” relationship to a student. If sponsored students had issues, the Appellant would communicate with the students’ sponsor.
+The Appellant’s Position:
+[12] The Appellant contends that he is entitled to the OETC because the requirements set out in section 122.3 are satisfied based on two arguments:
+(1) The degree of connection required between CNA’s contract with Qatar (the specified employer) and “the exploration for or exploitation of petroleum, natural gas, minerals or other similar resources” (the qualifying activity) is established through the significant involvement of the oil and gas industry in Qatar with the management and day-to-day administration of the Qatar campus. This connection between the contract and the qualifying activity satisfies the broadest scope interpretation which the Appellant argues should be given to the phrase “with respect to” contained in subparagraph 122.3(1)(b)(i).
+(2) Teaching engineering constitutes an “engineering activity” [clause 122.3(1)(b)(i)(B)]. The Appellant bases this argument on the engineering statutes of four Canadian jurisdictions that include teaching as an aspect of the practice of engineering, the reference in IT-497R4 [May 14, 2004] to teaching as a qualifying activity and the decision in Gabie v The Queen, 98 D.T.C. 2207, which interpreted “engineering activity” broadly and allowed a non‑engineer to claim an OETC.
+The Respondent’s Position:
+[13] The Respondent argues that CNA was not carrying on a business with respect to a qualifying activity pursuant to subparagraph 122.3(1)(b)(i). The Respondent relied on the decision in Humber v The Queen, 2010 TCC 253, [2010] T.C.J. No. 176, to support its position that neither the operation of the CNA-Q campus nor the offering of engineering technology and technical certificate programs in close partnership with QP constitute “engineering activities”. The plain meaning of the phrase “engineering activities” should not be interpreted to include the business of offering educational programs as CNA does. The college does not compete with other overseas companies in making bids on engineering or oil and gas projects and it is not reducing its salary costs in order to compete with other engineering companies because the Appellant was paid more than his colleagues teaching in Newfoundland. Neither is the CNA a subcontractor of the State of Qatar with respect to a qualifying activity carried on by the State simply because Qatar wants to implement educational programs to support its local industries. Finally, the Respondent argued that, since the Appellant’s employment at the CNA was in connection with the Agreement and since this Agreement is not with respect to an engineering activity of the State, the Appellant’s duties were not in connection with a contract under which the CNA carried on business outside Canada with respect to an “engineering activity”.
+Analysis:
+[14] The relevant portion of section 122.3 of the Act provides that:
+122.3 (1) Deduction from tax payable where employment out of Canada. Where an individual is resident in Canada in a taxation year and, throughout any period of more than 6 consecutive months that commenced before the end of the year and included any part of the year (in this subsection referred to as the "qualifying period")
+(a) was employed by a person who was a specified employer, other than for the performance of services under a prescribed international development assistance program of the Government of Canada, and
+(b) performed all or substantially all the duties of the individual's employment outside Canada
+(i) in connection with a contract under which the specified employer carried on business outside Canada with respect to
+(A) the exploration for or exploitation of petroleum, natural gas, minerals or other similar resources,
+(B) any construction, installation, agricultural or engineering activity, or
+(C) any prescribed activity, or
+(ii) for the purpose of obtaining, on behalf of the specified employer, a contract to undertake any of the activities referred to in clause (i)(A), (B) or (C),
+there may be deducted, from the amount that would, but for this section, be the individual's tax payable under this Part for the year, an amount equal to that proportion of the tax otherwise payable under this Part for the year by the individual that the lesser of
+(c) an amount equal to that proportion of $80,000 that the number of days
+(i) in that portion of the qualifying period that is in the year, and
+(ii) on which the individual was resident in Canada is of 365, and
+(d) 80% of the individual's income for the year from that employment that is reasonably attributable to duties performed on the days referred to in paragraph (c)
+is of
+(e) the amount, if any, by which
+(i) if the individual is resident in Canada throughout the year, the individual's income for the year, and
+(ii) if the individual is non-resident at any time in the year, the amount determined under paragraph 114(a) in respect of the taxpayer for the year
+exceeds
+(iii) the total of all amounts each of which is an amount deducted under section 110.6 or paragraph 111(1)(b), or deductible under paragraph 110(1)(d.2), (d.3), (f), (g) or (j), in computing the individual's taxable income for the year.
+[…]
+(2) Definitions -- In subsection (1),
+"specified employer" means
+(a) a person resident in Canada,
+(b) a partnership in which interests that exceed in total value 10% of the fair market value of all interests in the partnership are owned by persons resident in Canada or corporations controlled by persons resident in Canada, or
+(c) a corporation that is a foreign affiliate of a person resident in Canada;
+"tax otherwise payable under this Part for the year" means the amount that, but for this section, sections 120 and 120.2, subsection 120.4(2) and sections 121, 126, 127 and 127.4, would be the tax payable under this Part for the year.
+[15] This provision provides a tax credit to individuals who are residents of Canada but who work for a Canadian employer outside the country. The credit aims to encourage Canadian employers that employ Canadians in overseas jurisdictions to compete in obtaining overseas contracts by allowing such Canadian employers to reduce overhead in respect to salary costs.
+[16] At paragraph 14 of the decision in Rooke v The Queen, 2002 FCA 393, 2002 D.T.C. 7442, the Federal Court of Appeal summarized the conditions that must be satisfied in order for an individual to successfully claim the OETC in a particular year:
+14. […]
+(1) The individual was resident in Canada.
+(2) The individual was employed by a person who was a "specified employer" as defined in subsection 122.3(2).
+(3) The individual's employment for that "specified employer" was for something other than the performance of services under a prescribed international development assistance program of the Government of Canada.
+(4) The individual performed all or substantially all of the duties of his employment (a) outside Canada, and (b) in connection with one or more of the activities described in subparagraph 122.3(1)(b)(i) or (ii).
+(5) Conditions (2), (3) and (4) subsisted for a period of more than six consecutive months within the year, or beginning or ending in the year. That period is referred to as the "qualifying period" for the year.
+[17] In respect to the conditions that must be satisfied in order to successfully claim an OETC, there is no dispute that the CNA is a specified employer, that the Appellant performed all his duties as an employee of the CNA outside of Canada for a period of more than six consecutive months and that the CNA, despite being a publicly-owned, post-secondary educational institution, carried on a business in Qatar. Consequently, the issue focuses on the kind of business that the CNA carried on in Qatar and, more specifically, whether it was carrying on business with respect to a “qualifying activity” within the meaning of clauses 122.3(1)(b)(i)(A) and 122.3(1)(b)(i)(B).
+[18] The same two arguments that the Appellant presented in this appeal were also before Justice Woods in Humber v The Queen, 2010 TCC 253, 2010 D.T.C. 1170. In that case, the taxpayer was also employed as an engineering instructor at CNA-Q. The issues and facts were similar to those before me. Justice Woods dismissed the appeal because first, the connection, between the training offered by a college such as CNA-Q and the engineering activities, was too “remote” and second, the taxpayer failed to prove that CNA carried on a business with respect to an “engineering activity”. The Court held that interpreting “engineering activity” to include the activity of teaching engineering would extend the ordinary meaning of the expression beyond its normal meaning because there is a distinction between “teaching” and “doing”. At paragraph 16 of Humber, Justice Woods observed that there may be “…a stronger connection in this case between CNA’s business and the state-owned petroleum companies. However, the evidence was insufficient to establish this.” This statement implies that such a connection may have been established had the evidence been presented. Although not clear, it would appear that the only evidence that was presented in Humber was that of the taxpayer because she noted again, at paragraph 16, that “… no one from the administration of CNA testified at the hearing.”
+[19] The Appellant argued that sufficient evidence was adduced in the present appeal to establish the necessary connection even without resorting to the argument based on an analysis of the phrase “with respect to” (which is equivalent to the section 222.3 phrase “with respect to”) (Appellant’s Written Submissions, paragraph 25).
+[20] Unlike Humber, where Justice Woods commented that the connection was not described as clearly as she would have liked, the Appellant presented evidence from three senior officials of CNA: Norris Eaton, Dean of Industrial Trades, Gregory Chaytor, Vice-President of the Qatar Project and Gary Tulk, Dean of Engineering Technologies and Industrial Trades at the Qatar campus. They described in detail the close connection and dealings between the Qatar campus and the Qatar industry sector, particularly the oil and gas sector. The evidence before me clearly supports the close association that exists between the teaching activities at the Qatar campus and the oil and gas industry. The terms of the Agreement, together with the attached Business Plan, support the extensive involvement of the Qatar oil and gas industry sector with the campus activities. This is also evidenced by QP’s close working relationship with CNA-Q in the running of the TPP pursuant to the MOU, the student sponsorship program, the corporate “parenting” of students, the presence of a permanent QP office on campus together with other corporate offices, industry participation on the Board of Governors for the campus, QP’s right to appoint a Chair to the Board, programs modified to suit sponsored student requirements and the regular consultation and interaction with Qatar industries in ascertaining and supporting their needs.
+[21] A driving force of the CNA-Q program was to meet the needs of Qatar industries and businesses in respect to projected employability opportunities, especially in the oil and gas sector. The Business Plan refers to the integral role that industry would play in the development of campus programs, curriculum and training. One of the options outlined in the Engineering Technology program specifically references that the input of petroleum and gas operations and industry is to be considerable at this campus. The Agreement and Business Plan are intimately linked to “the exploration for or exploitation of petroleum, natural gas, minerals or other similar resources” (as referenced in clause 122.3(1)(b)(i)(A)). It is clear from the testimony of the witnesses and the documentary evidence that the mutual understanding of the CNA-Q, the State and the Qatari oil and gas companies is that the ultimate success of this industry is dependent upon the skill, talent and knowledge of its present and future workforce. There is an acknowledgment of the dynamics of this inter-relationship reflected through the corporate involvement in the management, administrative and governance of the Qatari campus. In addition, QP enjoys a close working relationship with CNA-Q in the running of the TPP pursuant to the MOU.
+[22] The Appellant contends that the significant connection between the campus and the Qatari oil and gas industry is supported by the terms of the Agreement because it is “with respect to” the exploration for or exploitation of petroleum and natural gas. Even if the phrase “with respect to” contained in subparagraph 122.3(1)(b)(i) is to be given a restricted meaning for purposes of the OETC, as the Respondent submits, I conclude that the intent of the parties to the Agreement is nevertheless “with respect to” the exploration for or exploitation of petroleum, natural gas, minerals or other similar resources. However, the interpretation that should be given to the phrase “with respect to” is broad enough to include Canadian employers, like CNA, that can establish the high degree of connection to a qualifying activity, as occurred in the present appeal. The Respondent suggested that the leading cases of Markevich v The Queen, [2003] 1 S.C.R. 94, and Nowegejick v The Queen, 83 D.T.C. 5041, adopted a wide interpretation of the phrase “in respect of” rather than “with respect to” as contained in section 122.3 but that the Courts did so only because they were dealing with the Indian Act, where the widest interpretation must be applied. I do not agree with this limited view. Both of these decisions, as well as a long line of subsequent cases, have clearly adopted the view that the phrase should generally be given a broad interpretation in scope which is not limited to the Indian Act. The phrase is meant to convey some link between two related subject matters and include other similar phrases such as “with reference to” and “in connection with”. Similarly, the phrase “with respect to” should also be interpreted broadly.
+[23] Parliament could have used different language in drafting section 122.3 to convey a stronger connection to qualifying activities. However, it did not do so. The purpose underlying the OETC is to encourage Canadian companies and provide incentive to them to carry on qualifying activities in a foreign jurisdiction. It is clearly contrary to the policy for allowing an OETC to apply an interpretation of the phrase “with respect to” in a way that would limit the provision to exclude Canadian employers where they can establish this degree of connection to a qualifying activity, as the Appellant has done in this appeal. When Justice Woods in Humber concluded that the connection, between the training offered by the CNA-Q campus and the engineering activities of the Qatar oil and gas sector, was too remote, it appeared to be because there was insufficient evidence before the Court in that appeal to establish this connection, unlike the oral and documentary evidence that sufficiently established such a connection in the present appeal.
+[24] I am supported in my conclusion by the decision in Dunbar v The Queen, 2005 TCC 769, 2005 D.T.C. 1807, where, at paragraph 10, Justice Miller stated that “… all stages necessary to take the natural resource to its maximum value for the pursuit of profit is part of the exploitation process.” It could be argued that the first stage in the exploitation process must begin with the teaching stage because, unless the relevant skills and knowledge are taught to the professionals that will work in these industries, natural resources could not be extracted and eventually sold for profit. The teaching phase for future engineers and technicians is an integral and necessary stage which is preliminary to their involvement in the actual exploration or exploitation process. The CRA administrative position, contained in Interpretation Bulletin IT-497R4, also supports the view that teaching specialized skills and knowledge is part and parcel of the process of carrying out qualifying activities such as the exploitation of gas and oil. That Bulletin adopts the view, at paragraph 7, that, provided all other conditions under section 122.3 are met, “(a) instructors or administrative staff providing supporting services to fallen employees and (b) staff who train the personnel of the foreign customer” can claim the OETC. Clearly, CNA was not hired to undertake the full gamut of activities associated with the exploitation of oil and gas in Qatar. This does not prevent the Appellant, however, from successfully claiming the OETC where the focus of the Agreement and Business Plan encompasses the initial teaching stage of the exploration or exploitation process and establishes a solid connection between the terms of the CNA Agreement and the exploration or exploitation process.
+[25] OETCs may also be claimed where the specified employer is hired as a subcontractor and provides employees to a third party carrying on a qualifying activity abroad. The Respondent submits that CNA is not a subcontractor of the State of Qatar with respect to the qualifying activity of the exploitation of oil and gas carried on by the State. Since QP is a State-owned company, it could be argued, however, that the Agreement is a subcontract pursuant to which CNA undertakes to perform portions of the main contract to carry on a business in respect of the exploration for or exploitation of oil and gas. Such an argument has some support because CNA cannot be characterized as a mere placement agency. However, there are several flaws in the argument that CNA is a subcontractor. QP and its subsidiaries are not the only corporate partners of CNA-Q, yet the only parties to the Agreement are CNA and the State of Qatar. Overall, the subcontracting argument is not strongly supportive of the Appellant’s position.
+[26] The only remaining question to be addressed is whether CNA’s business of teaching engineering could also be characterized as being “with respect to an engineering activity” pursuant to clause 122.3(1)(b)(i)(B). I conclude that it can be. Given the broad interpretation that the Courts have given the phrase “with respect to”, the Agreement can also be characterized as being with respect to engineering activities. Following the argument in clause 122.3(1)(b)(i)(A), the training provided by CNA-Q is sufficiently linked or connected to the engineering activities by virtue of the degree of industry’s involvement with CNA-Q in Qatar.
+[27] The decision in Gabie v The Queen, 98 D.T.C. 2207, expanded the meaning of engineering beyond actual “hand-on” activities or physical construction to include the development of databanks and other software designed to control the flow of information. The claim for an OETC was allowed in Gabie on the basis that the taxpayer performed engineering activities of software engineering as a computer scientist. Based on the broad interpretation given to the term “engineering activity” by Chief Justice Rip in Gabie, I conclude that the teaching of engineering also constitutes an engineering activity where, as in this appeal, the evidence sufficiently meets the requirements of section 122.3. For instance, training an engineer would be similar to the creation of a database in that third parties, in order to make informed decisions, could then draw on the information held by these final products, that is, trained engineers and precise databases. The teaching of skills and knowledge to students who are already working or who will be working in the engineering field is crucial for the proper implementation of other engineering activities.
+[28] The proper training of those who work in such activities and the application of their specialized knowledge are conditions precedent to the successful development of engineering activities. This conclusion is also supported first, by CRA’s view in IT‑497R4 that recognizes teaching as a qualifying activity and second, by the legislation in four provinces which explicitly includes teaching or instructing in engineering in their engineering statutes as an acceptable aspect of the practice of engineering. The remaining provincial jurisdictions do not explicitly exclude teaching from their engineering statutes.
+[29] Based on the evidence before me, the Appellant has satisfied the requirements set out in section 122.3 of the Act. The appeal is therefore allowed, with costs, to permit the Appellant to claim the OETC in respect to his 2007 taxation year.
+Signed at Summerside, Prince Edward Island, this 6th day of September 2011.
+“Diane Campbell”
+Campbell J.
+CITATION: 2011 TCC 413
+COURT FILE NO.: 2010-1802(IT)G
+STYLE OF CAUSE: DAVID WAYNE LEGGE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Cornerbrook, Newfoundland
+DATE OF HEARING: July 18, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Diane Campbell
+DATE OF JUDGMENT: September 6, 2011
+APPEARANCES:
+Counsel for the Appellant:
+Bruce S. Russell, Q.C.
+Counsel for the Respondent:
+Devon E. Peavoy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Bruce S. Russell, Q.C.
+Firm: McInnes Cooper
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

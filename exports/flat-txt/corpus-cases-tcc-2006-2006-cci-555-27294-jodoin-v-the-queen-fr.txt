@@ -1,0 +1,128 @@
+Title: Jodoin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27294/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-555-27294-jodoin-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-10-12
+
+# Jodoin v. The Queen
+
+- Citation: 2006 CCI 555
+- Decision date: 2006-10-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 901, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jodoin v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-10-12
+Référence neutre
+2006 CCI 555
+Numéro de dossier
+2006-946(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-946(IT)I
+ENTRE :
+LESLIE JODOIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 31 août 2006 à Edmonton (Alberta)
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Kiran Kaur Bhinder
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation d’impôt établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2004 est accueilli, et la nouvelle cotisation est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que l’appelante a le droit de déduire de son revenu une perte déductible au titre d’un placement d’entreprise de 42 666 $.
+Signé à Ottawa, Canada, ce 12e jour d’octobre 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 25e jour de janvier 2008.
+Jean David Robert, traducteur
+Référence : 2006CCI555
+Date : 20061012
+Dossier : 2006-946(IT)I
+ENTRE :
+LESLIE JODOIN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] La Cour est saisie d’un appel interjeté à l’encontre d’une nouvelle cotisation établie à l’égard de l’appelante pour l’année d’imposition 2004 dans laquelle le ministre du Revenu national (le « ministre ») a refusé la déduction d’une perte au titre d’un placement d’entreprise (la « PTPE ») de 85 332 $ pour cette année‑là. Le ministre a également modifié la déclaration de revenu de l’appelante pour l’année d’imposition 2003 afin d’admettre la déduction de la PTPE de 85 332 $ pour cette année‑là.
+Faits
+[2] L’appelante, Leslie Jodoin, était l’unique actionnaire de la société Sincerely Yours Ltd. (la « société »), un magasin de détail se consacrant à la vente d’articles cadeaux et d’antiquités. L’exercice financier de la société prenait fin le 31 janvier. L’appelante a exploité cette entreprise pendant environ cinq ans, mais le 31 août 2003, elle a fermé le magasin parce que l’entreprise était en difficulté. Entre le 31 août et le 31 décembre 2003, l’appelante a disposé du reste des actifs de la société, a fait la comptabilité finale de la société et a soumis les dernières déclarations de TPS de celle‑ci à l’Agence du revenu du Canada. Sur l’avis de son comptable, l’appelante n’a pas dissout la société cette année‑là. Elle a témoigné qu’elle n’était pas en mesure de prendre une décision définitive relativement à la dissolution de la société en raison de circonstances personnelles.
+[3] La société a finalement été dissoute le 10 février 2004. L’appelante a fait le choix prévu au paragraphe 50(1) de la Loi de l’impôt sur le revenu (la « Loi »)[1] et a déclaré une perte déductible au titre d’un placement d’entreprise (la « PDTPE ») de 42 666 $ dans sa déclaration de revenu pour l’année 2004, montant qui représentait la moitié de sa PTPE de 85 332 $ pour cette année‑là. La PTPE correspondait à un prêt que l’appelante avait consenti à la société, à titre d’actionnaire, lequel n’avait pas été remboursé au moment de la dissolution.
+Position de l’appelante
+[4] L’appelante fait valoir que la déduction de la PDTPE doit être admise pour l’année d’imposition 2004 parce que la créance irrécouvrable ne s’est matérialisée qu’au moment de la dissolution de la société le 10 février 2004. Elle soutient qu’avant la dissolution, elle aurait pu utiliser la société pour d’autres entreprises, mais qu’à la fin de l’année 2003, elle n’était pas en mesure de prendre une telle décision en raison de circonstances personnelles. L’appelante cite aussi la décision Longerich v. R.[2] et fait valoir que sa déduction d’une PDTPE pour l’année 2004 doit être admise parce qu’elle a fait le choix prévu au paragraphe 50(1) pour cette année‑là et non pour 2003, année à l’égard de laquelle aucun choix n’a été fait.
+Position de l’intimée
+[5] L’intimée soutient que l’appelante avait le droit de déduire la PDTPE de 42 666 $ pour l’année d’imposition 2003, mais non pour l’année 2004. L’intimée fait valoir qu’à la fin de 2003, il était raisonnable de s’attendre à ce que la société soit dissoute ou liquidée à un certain moment. De plus, elle allègue qu’à la fin de cette année‑là, il aurait aussi été raisonnable de s’attendre à ce que l’appelante n’ait aucune intention d’utiliser la société pour exploiter une entreprise dans l’avenir. L’avocate de l’intimée a tiré argument du paragraphe 50(1) et de la décision Jacques St-Onge Inc. v. Canada[3].
+Analyse
+[6] La disposition pertinente de la Loi est ainsi rédigée :
+50(1) Pour l’application de la présente sous-section, lorsque, selon le cas :
+a) un contribuable établit qu’une créance qui lui est due à la fin d’une année d’imposition (autre qu’une créance qui lui serait due du fait de la disposition d’un bien à usage personnel) s’est révélée être au cours de l’année une créance irrécouvrable;
+b) une action du capital‑actions d’une société (autre qu’une action reçue par un contribuable en contrepartie de la disposition d’un bien à usage personnel) appartient au contribuable à la fin d’une année d’imposition et :
+(i) soit la société est devenue au cours de l’année un failli au sens du paragraphe 128(3),
+(ii) soit elle est une personne morale visée à l’article 6 de la Loi sur les liquidations, insolvable au sens de cette loi et au sujet de laquelle une ordonnance de mise en liquidation en vertu de cette loi a été rendue au cours de l’année,
+(iii) soit les conditions suivantes sont réunies à la fin de l’année :
+(A) la société est insolvable,
+(B) ni la société ni une société qu’elle contrôle n’exploite d’entreprise,
+(C) la juste valeur marchande de l’action est nulle,
+(D) il est raisonnable de s’attendre à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise,
+le contribuable est réputé avoir disposé de la créance ou de l’action à la fin de l’année pour un produit nul et l’avoir acquise de nouveau immédiatement après la fin de l’année à un coût nul, à condition qu’il fasse un choix, dans sa déclaration de revenu pour l’année, pour que le présent paragraphe s’applique à la créance ou à l’action.
+[Non souligné dans l’original.]
+[7] En l’espèce, comme la PDTPE découlait d’un prêt consenti par un actionnaire devenu irrécouvrable, l’alinéa 50(1)a) est la disposition applicable. Contrairement à l’alinéa 50(1)b), l’alinéa 50(1)a) n’énonce aucune condition d’attente raisonnable de dissolution ou de liquidation.
+[8] La seule question litigieuse soulevée par l’intimée concerne l’année pour laquelle la PDTPE était déductible. Il est acquis aux débats qu’un choix approprié a été fait par l’appelante dans sa déclaration de revenu produite pour l’année d’imposition 2004 et qu’aucun choix n’a été fait dans celle produite pour l’année 2003. Le paragraphe 50(1) énonce clairement que le contribuable doit faire un choix, dans sa déclaration de revenu pour une année, pour que ce paragraphe s’applique à une créance. Sinon, il ne s’applique pas.
+[9] L’appelante cite la décision Longerich à l’appui de son argument selon lequel la déduction de la PDTPE doit être admise pour l’année d’imposition 2004 parce qu’elle a fait un choix valide prévu au paragraphe 50(1) dans sa déclaration de revenu pour cette année‑là. Dans la décision Longerich, le juge O’Connor a déclaré que « le paragraphe 50(1) de la Loi [...] doit être observé [...] ».
+[10] Dans la décision Harris v. R.[4], la juge Sheridan a estimé que l’omission du contribuable de faire le choix prévu au paragraphe 50(1) entraînait le refus de la déduction d’une PDTPE parce que les mots de ce paragraphe sur lesquels j’ai insisté précédemment établissent une condition nécessaire préalable à la déduction.
+Conclusion
+[11] Pour les motifs énoncés ci‑dessus, je conclus que la première année pour laquelle l’appelante a eu le droit de déduire une PDTPE de 42 666 $ est l’année d’imposition 2004.
+[12] Par conséquent, l’appel est accueilli, et la nouvelle cotisation est déférée au ministre pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant pour acquis que l’appelante a le droit de déduire une PDTPE de 42 666 $ pour l’année d’imposition 2004.
+Signé à Ottawa, Canada, ce 12e jour d’octobre 2006.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 25e jour de janvier 2008.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI555
+Nº DU DOSSIER DE LA COUR : 2006-946(IT)I
+INTITULÉ : Leslie Jodoin et
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 31 août 2006
+MOTIFS DU JUGEMENT : L’honorable juge E.A. Bowie
+DATE DU JUGEMENT : Le 12 octobre 2006
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Avocate de l’intimée :
+Me Kiran Kaur Bhinder
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : s.o.
+Cabinet : s.o.
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. 1 (5e suppl.).
+[2] 2004 DTC 2980; [2004] 4 C.T.C. 2481.
+[3] 2003 DTC 153; [2004] 1 C.T.C. 2094.
+[4] [2005] 4 C.T.C. 2137; 2005 DTC 1179.

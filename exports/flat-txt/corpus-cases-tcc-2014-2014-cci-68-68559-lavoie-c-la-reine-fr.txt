@@ -1,0 +1,287 @@
+Title: Lavoie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/68559/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-68-68559-lavoie-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-03-24
+
+# Lavoie c. La Reine
+
+- Citation: 2014 CCI 68
+- Decision date: 2014-03-24
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5321, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lavoie c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-03-24
+Référence neutre
+2014 CCI 68
+Numéro de dossier
+2012-792(IT)G, 2012-830(GST)I, 2012-971(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2012-971(IT)G
+2012-830(GST)I
+ENTRE :
+ROBERT ANDREW LAVOIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+et
+Dossier : 2012-792(IT)G
+ENTRE :
+CEILIDH SALES & MARKETING INC.
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 22 octobre 2013, à Halifax (Nouvelle‑Écosse).
+Devant : L’honorable juge Campbell J. Miller
+Comparutions :
+Avocat de l’appelant :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimée :
+Me Marcel Prevost
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise pour les années d’imposition 2005, 2006 et 2007 sont accueillis et les nouvelles cotisations sont renvoyées au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse de nouvelles cotisations en tenant compte des faits suivants :
+a) Ceilidh Sales & Marketing Inc. (« Ceilidh ») a droit à des dépenses supplémentaires de 1 602,45 $ pour l’année d’imposition 2005 et de 1 314,62 $ pour l’année d’imposition 2006, ainsi qu’à des DPA supplémentaires calculées en fonction de coûts supplémentaires de 7 414,61 $ pour l’année d’imposition 2005 et de 2 029,89 $ pour l’année d’imposition 2006;
+b) Ceilidh doit payer des pénalités pour faute lourde suivant le paragraphe 163(2) de la Loi uniquement en ce qui a trait aux dépenses se rapportant au mariage, aux jeux vidéo et aux bijoux;
+c) M. Lavoie a reçu de Ceilidh à titre d’actionnaire, en 2005, des avantages s’élevant à 69 875 $, minorés de 1 602,45 $ et des DPA supplémentaires calculées pour l’année d’imposition 2005, et en 2006, des avantages s’élevant à 36 802 $, minorés de 1 014,62 $ et des DPA supplémentaires calculées pour l’année d’imposition 2006 et plus amplement décrites dans les motifs ci‑joints;
+d) M. Lavoie a subi des pertes de 10 193 $ et de 8 052 $ au cours des années d’imposition 2006 et 2007 relativement à la location du chalet;
+e) M. Lavoie a droit, pour 2007, à des crédits de taxe sur les intrants, rajustés afin de tenir compte de la TPS qu’il était tenu de percevoir et de verser, conformément aux déclarations initialement produites;
+f) M. Lavoie n’a pas à payer de pénalités pour faute lourde suivant l’article 285 de la Loi sur la taxe d’accise;
+g) M. Lavoie doit payer des pénalités pour faute lourde suivant le paragraphe 163(2) de la Loi relativement aux avantages qu’il a reçus à titre d’actionnaire par rapport au coût du mariage, des jeux vidéo et des bijoux dont il avait demandé la déduction.
+Aucuns dépens ne sont adjugés.
+Signé à Ottawa, Canada, ce 24e jour de mars 2014.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 26e jour de juin 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2014 CCI 68
+Date : 20140324
+Dossiers : 2012-971(IT)G
+2012-830(GST)I
+ENTRE :
+ROBERT ANDREW LAVOIE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+et
+Dossier : 2012-792(IT)G
+ENTRE :
+CEILIDH SALES & MARKETING INC.
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge C. Miller
+[1] Les appels dont la Cour est saisie portent sur trois affaires liées : (i) une cotisation établie en vertu de la Loi de l’impôt sur le revenu (la « Loi ») à l’égard de Ceilidh Sales & Marketing Inc. (« Ceilidh ») pour les années d’imposition 2005 et 2006, dans laquelle étaient refusées certaines déductions relatives à des dépenses et des déductions pour amortissement (« DPA ») au motif que ces déductions étaient d’ordre personnel et n’avaient aucun lien avec une entreprise; (ii) une cotisation établie en vertu de la Loi de l’impôt sur le revenu à l’égard de M. Lavoie, unique actionnaire de Ceilidh, pour les années d’imposition 2005, 2006 et 2007, qui attribuait à l’actionnaire des sommes appartenant à Ceilidh et s’élevant à 69 875 $ et à 36 803 $ pour 2005 et 2006, et dans laquelle était refusée la déduction de pertes liées à la location d’un chalet situé à l’Île-du-Prince‑Édouard (l’« Î.‑P.‑É ») (le « chalet ») en 2006 et en 2007, pertes s’élevant à 10 192 $ et à 8 052 $, respectivement; et (iii) une cotisation de taxe sur les produits et services (« TPS ») établie à l’égard de M. Lavoie et refusant des crédits de taxe sur les intrants (les « CTI ») de 9 367,16 $ pour le chalet. Des pénalités pour faute lourde sont également contestées.
+[2] Pour situer les appels dans leur contexte, signalons qu’au départ, l’Agence du revenu du Canada (l’« ARC ») a refusé des déductions pour dépenses et des DPA qui dépassaient 93 000 $ pour 2005 et 102 000 $ pour 2006. Après examen, l’agent des appels avait autorisé des déductions supplémentaires de 59 389 $ et de 72 501 $, respectivement. Il est regrettable que les parties n’aient pas réussi à combler le fossé les séparant et à s’éviter ainsi les frais d’un procès.
+[3] M. Lavoie a été le seul à témoigner pour le compte des appelants. Bien qu’il ait donné l’impression d’être un témoin bien informé et sincère, certaines des décisions qu’il a prises donnent à penser qu’il s’est montré avide dans le choix des dépenses à déduire, le coût de son mariage en étant un exemple flagrant. Titulaire d’un diplôme universitaire, il a été employé dans l’industrie agroalimentaire pendant quelques années jusqu’à ce qu’il fonde sa propre entreprise dans le domaine, Ceilidh, en 2001.
+[4] Ceilidh comptait plusieurs clients, et le plus important était York Points Farms, que M. Lavoie a décrit comme une entreprise d’élevage de porcs de race appliquant des normes sanitaires élevées. Les animaux étaient vendus sur les marchés national et international à des producteurs de porcs qui les destinaient à la reproduction et à l’élevage pour les besoins de l’industrie alimentaire. Ceilidh agissait comme courtier dans ce secteur d’activité, non seulement en ce qui concerne les porcs eux-mêmes, mais également l’équipement, l’alimentation du bétail et d’autres produits associés à l’industrie porcine.
+[5] M. Lavoie avait son port d’attache dans la région d’Halifax, même s’il devait se déplacer dans toutes les Maritimes afin de visiter des producteurs de porcs, souvent à l’Île‑du‑Prince‑Édouard. Selon ses estimations, il parcourait chaque année 70 000 km. Il devait également faire voir les exploitations agricoles canadiennes aux clients potentiels des exportateurs de porcs. Dans le cadre du travail de courtier qu’il exerçait par l’entremise de Ceilidh, il était entre autres amené à s’occuper des clients de l’étranger. À cette fin, il organisait des visites de fermes et donnait des présentations à son bureau. M. Lavoie a expliqué dans le détail cet aspect des activités de son entreprise.
+[6] En 2005 et en 2006, M. Lavoie a doté sa maison de Nouvelle‑Écosse d’un garage de trois portes qui lui servirait de bureau ainsi que d’entrepôt pour les produits liés à son commerce. Jusque-là, il avait installé ses bureaux dans une partie de sa maison. Il a indiqué que quelques-unes des dépenses en litige, telles que celles liées à l’installation d’une clôture et à des travaux d’aménagement paysager, visaient à assurer la sécurité des lieux pour les besoins de l’entreprise de même qu’à les rendre attrayants, et ce, dans le but de faire bonne impression auprès d’éventuels clients.
+[7] En 2006, M. Lavoie a acheté le chalet de l’Î.‑P.‑É. Au départ, celui‑ci devait servir de résidence pour sa famille. Or, il se trouve qu’à la même époque, la femme de M. Lavoie a obtenu une promotion qui a forcé la famille à rester en Nouvelle‑Écosse. M. Lavoie a déclaré dans son témoignage qu’il avait alors décidé de louer le chalet de l’Î.‑P.‑É comme lieu de villégiature et de l’utiliser pour recevoir ses invités d’affaires. Il a conçu une annonce pour diffusion par télécopieur sous l’intitulé [traduction] « Chalet/hébergement pour gens d’affaires à louer ». Il a envoyé l’annonce à quelques-uns des collègues de sa femme et à certaines de leurs connaissances. Il n’a pas trouvé preneur en 2006, et en 2007, il n’est parvenu à louer que 10 nuitées à des vacanciers. En revanche, il a indiqué que les invités d’affaires avaient utilisé le chalet pour une quarantaine de nuits en 2007 et que lui‑même s’y installait lorsqu’il voyageait à l’Île‑du‑Prince‑Édouard pour affaires. Pour cette utilisation, il facturait les frais à Ceilidh. Il a affirmé avoir utilisé la résidence une centaine de fois à des fins commerciales au cours de la période en question.
+[8] Le 22 septembre 2008, Ceilidh a été visée par une nouvelle cotisation qui a eu pour effet d’augmenter ses revenus imposables de 93 481 $ et de 102 977 $ pour les années d’imposition 2005 et 2006 par suite du refus d’accorder des déductions pour des dépenses de 86 141 $ en 2005 et de 92 977 $ en 2006, ainsi que d’un rajustement des DPA égal à 7 340 $ en 2005, et à 10 000 $ en 2006.
+[9] Le 23 novembre 2001, Ceilidh a été visée par une nouvelle cotisation qui modifiait les nouvelles cotisations établies le 22 septembre 2008 par une diminution des montants préalablement calculés de l’ordre de 59 389 $ pour 2005 et de 72 501 $ pour 2006. Le ministre du Revenu national (le « ministre ») a également autorisé l’ajout d’un montant de 8 780 $ à l’annexe des DPA de Ceilidh pour 2006, ce qui a eu pour effet d’augmenter les revenus imposables déclarés par Ceilidh pour les années d’imposition 2005 et 2006 de 34 092 $ et de 30 476 $, comme cela est indiqué dans le tableau ci‑dessous :
+2005 2006
+Dépenses refusées 27 242 $ 21 306 $
+Rajustements de DPA 6 850 $ 9 170 $
+Total 34 092 $ 30 476 $
+[10] M. Lavoie a déclaré avoir subi, relativement au chalet de l’Î.‑P.‑É., des pertes locatives de 10 192 $ et de 8 052 $ pour les années d’imposition 2006 et 2007.
+[11] Le 11 septembre 2008, M. Lavoie a fait l’objet d’une nouvelle cotisation faisant état des rajustements suivants :
+2005 2006 2007
+Attributions à un actionnaire 129 262 $ 109 304 $
+Pertes locatives refusées 10 192 $ 8 052 $
+Total 129 262 $ 119 496 $ 8 502 $
+[12] Le 1er décembre 2011, M. Lavoie a fait l’objet d’une nouvelle cotisation réduisant les montants préalablement établis au titre des attributions à un actionnaire pour 2005 et 2006 de 59 387 $ et de 72 501 $, respectivement, ce qui a entraîné des hausses de ses revenus imposables de 69 875 $ et de 36 803 $ pour les années d’imposition 2005 et 2006.
+[13] Dans un avis de cotisation portant la date du 12 août 2008, le ministre a établi l’obligation fiscale nette de M. Lavoie relativement aux déclarations de taxe sur les produits et services/taxe de vente harmonisée (« TPS/TVH ») produites pour la période allant du 1er janvier 2007 au 31 décembre 2007, après avoir refusé une partie des CTI demandés par M. Lavoie :
+Fin de la période CTI TPS/TVH Taxe nette
+percevable
+31 mars 2007 213,62 $ 97,02 $ 16,60 $
+30 juin 2007 35,88 $ 50,82 $ (14,94 $)
+30 septembre 2007 9 295,68 $ 110,88 $ 9 184,80 $
+31 décembre 2007 91,98 $ 138,40 $ (46,42 $)
+Total 9 637,16 $ 397,12 $ 9 240,04 $
+[14] Les tableaux ci‑dessous indiquent les montants dont Ceilidh a demandé la déduction et ceux que l’intimée a refusés :
+2005
+Déduction demandée ($)
+Montant refusé ($)
+Publicité et promotion
+16 177
+12 455
+Taxes d’affaires, licences et droits d’adhésion
+1 012
+1 012
+Frais de bureau
+27 108
+7 337
+Réparations et entretien
+2 626
+1 871
+Frais de déplacement
+50 077
+3 483
+Autres frais/repas
+3 779
+1 084
+Total partiel
+27 242
+DPA
+11 002
+6 850
+Total
+34 092
+2006
+Déduction demandée ($)
+Montant refusé ($)
+Publicité et promotion
+23 543
+9 165
+Régime d’assurance collective
+774
+774
+Frais de bureau
+12 771
+8 765
+Réparations et entretien
+5 740
+1 266
+Frais de déplacement
+54 322
+4 031
+Autres frais/repas
+(2 695)
+Total partiel
+21 306
+DPA
+13 411
+9 170
+Total
+30 476
+Questions en litige
+[15] Les présents appels soulèvent les questions suivantes :
+a) Ceilidh a-t-elle droit à la déduction de dépenses en sus de celles qui ont été admises par le ministre pour les années d’imposition 2005 et 2006?
+b) Ceilidh doit‑elle payer des pénalités pour faute lourde suivant le paragraphe 163(2) de la Loi de l’impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), dans sa version modifiée, pour les années d’imposition 2005 et 2006?
+c) M. Lavoie a-t-il reçu de Ceilidh des avantages à titre d’actionnaire s’élevant à 69 875 $ et à 36 803 $ au cours des années d’imposition 2005 et 2006, respectivement?
+d) M. Lavoie a-t-il subi des pertes s’élevant à 10 192 $ et à 8 052 $ au cours des années d’imposition 2006 et 2007, respectivement, relativement au chalet de l’Î.‑P.‑É.?
+e) M. Lavoie peut-il demander des CTI relativement au chalet de l’Î.‑P.‑É. pour la période allant du 1er janvier 2007 au 31 décembre 2007?
+f) M. Lavoie doit‑il payer des pénalités pour faute lourde suivant le paragraphe 163(2) de la Loi de l’impôt sur le revenu et l’article 285 de la Loi sur la taxe d’accise, L.R.C., ch. E‑15, dans sa version modifiée?
+Analyse
+[16] L’intimée soutient que les dépenses dont la déduction a été refusée étaient des dépenses personnelles de M. Lavoie. L’ARC a refusé les dépenses, soit parce qu’elles n’étaient pas étayées par des documents suffisants, soit parce qu’elles étaient manifestement d’ordre personnel, comme les quelque 8 400 $ dépensés pour le mariage de M. Lavoie (même si celui‑ci a été informé par un comptable que ces dépenses étaient déductibles, car il a été mal conseillé). M. Lavoie a reconnu que ces dépenses étaient de nature personnelle.
+[17] Vu les explications exhaustives qu’il a données au sujet des activités de son entreprise, l’appelant prétend avoir clairement démontré que, à quelques exceptions près, les dépenses refusées ont été engagées à des fins commerciales. Comme je l’ai déjà mentionné, l’appelant renonce aux dépenses du mariage; il reconnaît en outre que les dépenses engagées pour l’achat de bijoux à sa femme étaient de nature personnelle, de même que la moitié des dépenses engagées pour l’aménagement paysager de sa résidence.
+[18] J’ai eu l’impression que M. Lavoie était en effet un homme occupé. Cela dit, le fait qu’il ait été disposé à traiter comme des dépenses d’entreprise les dépenses de son mariage, des visites chez le coiffeur, des bijoux, la totalité du coût d’installation d’une clôture autour de sa maison et le coût d’un voyage effectué par sa femme dans les Caraïbes témoigne d’un état de confusion qu’il n’est pas rare de constater chez celui qui exploite une petite entreprise et qui consiste à penser que le particulier et l’entreprise ne font qu’un et que, partant, toutes les dépenses engagées par le particulier sont des dépenses d’entreprise. Or, ce n’est tout simplement pas le cas.
+[19] À l’issue des processus de vérification et d’appel portant sur les dépenses déduites par Ceilidh, soit 175 000 $ en 2005 et 160 000 $ en 2006, l’ARC a admis l’ensemble des déductions, à l’exception de sommes d’environ 34 000 $ et 30 000 $ (y compris les rajustements de DPA) pour 2005 et 2006, respectivement. Il revient à l’appelant de prouver que les dépenses dont la déduction a été refusée sont des dépenses d’entreprise légitimes. Il peut s’acquitter de ce fardeau en fournissant, pour chacune d’elles, un reçu valable et en expliquant d’une manière plausible en quoi elle est liée à la production d’un revenu d’entreprise. Il ne suffit pas, par exemple, de parler en termes généraux de la nécessité de recevoir d’éventuels acheteurs à la maison et d’engager, pour cette raison, des frais d’entretien ménager sans préciser le moment où ces frais ont été engagés ni fournir les reçus correspondants. Dans le même ordre d’idées, l’argument voulant que les acheteurs éventuels en visite s’attendent à être accueillis dans un cadre professionnel propose un lien trop ténu avec l’entreprise pour justifier la déduction des frais importants engagés pour l’aménagement paysager de la résidence. De même, le fait que M. Lavoie explique la déduction des jeux vidéo achetés à ses fils pour avoir fait le ménage du bureau et le nettoyage du camion, sans autre corroboration, ne permet tout simplement pas de prouver que les dépenses ont été faites à des fins commerciales plutôt que personnelles.
+[20] L’une des difficultés qui se pose en l’espèce tient au fait qu’aucune des parties, dans son argumentaire, n’a passé en revue chacune des dépenses refusées : ni l’appelant, pour me convaincre qu’elles ont été engagées à des fins commerciales en me soumettant des éléments de preuve corroborants, ni l’intimée, pour démontrer l’utilité ou le caractère personnel de ces dépenses en me faisant part des éléments de preuve qu’il aurait fallu produire pour corroborer l’existence d’un lien commercial. J’en suis réduit à devoir tout décortiquer par moi‑même à partir des documents de travail du vérificateur et de l’agent des appels. Dans les faits, on me demande de procéder à une vérification comptable. Il est vrai qu’à la fin du procès, il ne restait plus suffisamment de temps pour la présentation d’arguments et que les parties ont accepté de fournir leurs observations par écrit. Je leur ai offert de leur communiquer quelques réflexions initiales non contraignantes pour le cas où cela pourrait les aider à résoudre les questions en litige sans avoir à présenter leurs observations. Elles ont accepté mon offre, mais ont néanmoins été incapables de parvenir à un règlement par la suite, ce qui est regrettable. Leurs observations écrites sont exposées en termes généraux, de sorte qu’il m’est difficile de me prononcer sur le caractère déductible des dépenses refusées.
+[21] Après avoir examiné la transcription du témoignage de M. Lavoie, j’accepte son explication selon laquelle Ceilidh a engagé les dépenses suivantes en vue de tirer un revenu :
+a) publicité et promotion en 2005 1 093,00 $
+b) frais de bureau de 2005 60,60 $
+(une explication crédible a été donnée 28,48 $
+pour chacun de ces petits montants) 36,72 $
+9,18 $
+17,99 $
+15,26 $
+31,62 $
+52,45 $
+Total 252,30 $
+Viennent s’ajouter les montants suivants inscrits à tort comme DPA en 2005 :
+158,98 $
+37,29 $
+60,88 $
+Total 257,15 $
+c) frais de bureau de 2006 57,16 $
+(ici aussi, l’explication donnée était crédible) 30,99 $
+50,83 $
+55,26 $
+77,48 $
+566,93 $
+48,66 $
+10,96 $
+16,59 $
+34,99 $
+119,77 $
+245,00 $
+Total 1 314,62 $
+[22] En ce qui concerne la demande de DPA, la déduction concernant le coût de la construction du garage aurait dû être demandée par le propriétaire du bien immeuble, M. Lavoie. Je ne retiens pas l’argument de l’appelant selon lequel, suivant la décision Rosene c. M.R.N.[1], Ceilidh aurait la propriété effective du bien immeuble. Aucune preuve n’étaie cette conclusion. Toutefois, Ceilidh était propriétaire de certains objets amovibles qu’elle avait elle-même payés et qui ne constituaient pas des accessoires fixes du garage. L’appelant m’a convaincu que les objets suivants ont été utilisés uniquement aux fins de l’entreprise, qu’ils ne sont pas rattachés au bien-fonds et que Ceilidh en a supporté les frais. J’admets donc ces dépenses aux fins de l’obtention de la DPA :
+2005
+étagères 714,00 $
+classeurs 279,85 $
+ordinateur 3 046,00 $
+projecteur 1 099,99 $
+glacière 149,99 $
+lecteur de DVD 229,88 $
+télécommande de projecteur 199,99 $
+génératrice, aspirateur et tuyaux 1 694,92 $
+Total 7 414,61 $
+2006
+appareil de chauffage 599,99 $
+tondeuse à gazon 599,95 $
+caméscope 819,95 $
+Total 2 029,89 $
+[23] Je tiens à dire que, dans leurs observations écrites, les parties n’ont pas précisé avec autant de soin que je l’aurais souhaité les montants exacts de chacun des postes de dépenses et des DPA en litige. Je me suis donc débrouillé tant bien que mal pour tenter de dégager ces chiffres à partir des pièces produites.
+[24] En résumé, j’admets des dépenses supplémentaires de 1 602,45 $ pour 2005 et de 1 314,62 $ pour 2006 pour Ceilidh, de même que les DPA relatives à des coûts en capital supplémentaires de 7 414,61 $ supportés en 2005 et de 2 029,89 $ supportés en 2006.
+[25] Les avantages attribués à M. Lavoie à titre d’actionnaire sont réduits des mêmes montants.
+[26] Tout bien considéré, je conclus que M. Lavoie n’a pas réussi à prouver que les autres dépenses ont été engagées en vue de tirer un revenu, notamment celles relatives à l’aménagement paysager et à l’installation d’une clôture, de même que les dépenses incontestablement personnelles comme le mariage et les bijoux.
+[27] J’examinerai maintenant la question du refus des pertes subies par rapport au chalet de l’Î.‑P.‑É. L’intimée prétend que le chalet ne constituait pas une source de revenus puisqu’en 2006 et en 2007, il a principalement servi à M. Lavoie, à sa famille et à ses amis.
+[28] J’estime que le chalet était destiné à trois usages : pour la famille Lavoie, il servait de maison de villégiature, pour les relations d’affaires de Ceilidh en visite, de lieu d’hébergement, et pour M. Lavoie, de pied-à-terre lorsqu’il se trouvait à l’Île‑du‑Prince‑Édouard pour affaires, ce qui était fréquent. En témoignage, M. Lavoie a déclaré qu’il considérait le chalet comme une entreprise commerciale, ajoutant que, durant la période en cause, le chalet aurait été utilisé pendant environ 170 jours, dont seulement 10 pour un usage exclusivement personnel. Cette affirmation n’a pas été contredite. Par ailleurs, M. Lavoie a précisé que Ceilidh lui versait un loyer lorsqu’il utilisait le chalet pour affaires. Je crois l’appelant lorsqu’il affirme que le chalet était principalement utilisé à des fins commerciales et, puisqu’aucune preuve ne met en doute la façon dont les pertes ont été calculées, j’admets celles‑ci en entier. Ayant conclu que le chalet faisait partie d’une exploitation commerciale, et en l’absence de contestation des montants des CTI, j’accueille l’appel en matière de TPS, moyennant des rajustements destinés à tenir compte de la TPS qui devait être perçue et versée, conformément aux déclarations initialement produites.
+[29] J’en viens maintenant aux pénalités. Le paragraphe 163(2) de la Loi prévoit notamment ce qui suit (le libellé de l’article 285 de la Loi sur la taxe d’accise est similaire) :
+163(2) Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants :
+[30] Vu la conclusion à laquelle je suis arrivé concernant l’appel relatif à la TPS, aucune pénalité ne peut être imposée à M. Lavoie à cet égard. Pour ce qui est des pénalités pour faute lourde contestées par Ceilidh dans son appel en matière d’impôt sur le revenu, l’intimée soutient qu’en homme d’affaires instruit, M. Lavoie aurait dû savoir que les dépenses dont la déduction a été refusée étaient de nature personnelle. M. Lavoie a tenté d’expliquer plusieurs des dépenses dont il avait demandé la déduction, mais j’ai conclu que ses explications ne permettaient pas de déduire l’ensemble de ces dépenses. Toutefois, cela ne veut pas forcément dire qu’il a commis une faute lourde en demandant les déductions. Les faits de l’espèce se distinguent de ceux des affaires impliquant le groupe Fiscal Arbitrators (voir, par exemple, les motifs que j’ai rédigés dans la décision Torres c. Sa Majesté la Reine)[2] : dans ces affaires, la déduction des pertes ne reposait sur aucun fondement. Nous sommes ici en présence d’une petite entreprise à qui des conseillers ont affirmé, bien qu’à tort, qu’il était possible de déduire le coût d’un mariage si des partenaires d’affaires y assistaient. Il y a certes de la naïveté, et peut-être une propension à la cupidité, dans le fait de croire qu’un mariage peut véritablement constituer une dépense d’entreprise. Comme je l’ai déjà signalé, il arrive souvent que l’exploitant d’une petite entreprise n’ait pas une idée claire du caractère plus ou moins étroit du rapport qui doit exister entre son entreprise et la dépense engagée pour en permettre la déduction. Je reconnais qu’à l’égard de bien des dépenses de Ceilidh dont la déduction a été refusée (l’installation d’une clôture autour de la maison, par exemple), M. Lavoie est allé un peu loin, mais j’estime qu’il n’a pas en cela commis de faute lourde. Ce n’est pas parce que M. Lavoie n’a pu me convaincre, au final, du fait qu’il s’agissait de dépenses d’entreprise légitimes qu’il faut conclure à l’inexistence d’un fondement défendable pour tenter de déduire ces dépenses. Il existe une subtile distinction entre le fait de refuser une déduction et celui de conclure d’emblée que la demande de déduction de cette dépense constitue une faute lourde.
+[31] En revanche, certaines dépenses sont si intrinsèquement personnelles que toute tentative du contribuable de les déduire de ses revenus doit être perçue, dans les circonstances, comme une faute lourde. Les dépenses engagées par le contribuable pour son mariage, l’achat de bijoux pour son épouse et de jeux vidéo pour ses enfants (alors qu’aucune preuve ne corrobore l’affirmation voulant que ces deux derniers articles aient été reçus en guise de rémunération) en sont des exemples. M. Lavoie aurait dû se montrer plus avisé. Je conclus que des pénalités pour faute lourde s’imposent à l’égard de ces dépenses.
+[32] Enfin, pour ce qui est des pénalités pour faute lourde imposées à M. Lavoie à titre personnel, je conclus, de la même façon, qu’elles ne devraient être appliquées qu’aux avantages liés aux coûts du mariage, des bijoux et des jeux vidéo.
+Conclusion
+[33] Les appels sont accueillis et renvoyés au ministre pour qu’il procède à un nouvel examen et qu’il établisse de nouvelles cotisations en tenant compte des faits suivants :
+a) Ceilidh a droit à des dépenses supplémentaires de 1 602,45 $ pour l’année d’imposition 2005 et de 1 314,62 $ pour l’année d’imposition 2006, ainsi qu’à des DPA supplémentaires calculées en fonction de coûts supplémentaires de 7 414,61 $ pour l’année d’imposition 2005 et de 2 029,89 $ pour l’année d’imposition 2006;
+b) Ceilidh doit payer des pénalités pour faute lourde suivant le paragraphe 163(2) de la Loi uniquement en ce qui a trait aux dépenses se rapportant au mariage et aux bijoux;
+c) M. Lavoie a reçu de Ceilidh à titre d’actionnaire, en 2005, des avantages s’élevant à 69 875 $, minorés de 1 602,45 $ et des DPA supplémentaires calculées pour l’année d’imposition 2005, et en 2006, des avantages à titre d’actionnaire s’élevant à 36 802 $, minorés de 1 014,62 $ et des DPA supplémentaires calculées pour l’année d’imposition 2006, le montant des DPA devant être établi conformément au paragraphe 24 des présents motifs;
+d) M. Lavoie a subi des pertes de 10 193 $ et de 8 052 $ au cours des années d’imposition 2006 et 2007 relativement à la location du chalet;
+e) M. Lavoie a droit à des CTI, rajustés afin de tenir compte de la TPS qu’il était tenu de percevoir et de verser, conformément aux déclarations initialement produites;
+f) M. Lavoie n’a pas à payer de pénalités pour faute lourde suivant l’article 285 de la Loi sur la taxe d’accise;
+g) M. Lavoie doit payer des pénalités pour faute lourde suivant le paragraphe 163(2) de la Loi relativement aux avantages qu’il a reçus à titre d’actionnaire par rapport au coût du mariage, des bijoux et des jeux vidéo dont il avait demandé la déduction.
+[34] Comme chacune des parties obtient partiellement gain de cause, je n’adjuge pas de dépens.
+Signé à Ottawa, Canada, ce 24e jour de mars 2014.
+« Campbell J. Miller »
+Juge C. Miller
+Traduction certifiée conforme
+ce 26e jour de juin 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2014 CCI 68
+NOS DES DOSSIERS DE LA COUR : 2012-971(IT)G, 2012-830(GST)I et
+2012-792(IT)G
+INTITULÉ : ROBERT ANDREW LAVOIE ET SA MAJESTÉ LA REINE ET CEILIDH SALES & MARKETING INC. ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Halifax (Nouvelle‑Écosse)
+DATE DE L’AUDIENCE : Le 22 octobre 2013
+MOTIFS DU JUGEMENT : L’honorable juge Campbell J. Miller
+DATE DU JUGEMENT : Le 24 mars 2014
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Bruce S. Russell, c.r.
+Avocat de l’intimée :
+Me Marcel Prevost
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Bruce S. Russell, c.r.
+Cabinet : McInnes Cooper
+Pour l’intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 82 D.T.C. 1620.
+[2] 2013 CCI 380.

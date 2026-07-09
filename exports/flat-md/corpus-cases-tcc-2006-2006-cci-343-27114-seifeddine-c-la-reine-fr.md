@@ -1,0 +1,247 @@
+---
+title: "Seifeddine c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27114/index.do"
+last_modified: "2006-06-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 343"
+citation2: ""
+neutral_citation: "2006 CCI 343"
+decision_date: "2006-06-19"
+language: "fr"
+item_id: "27114"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 919
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:32:10.558000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "efe58211019f51229d45dd08b40a7542a050eb04f46409cad90e4d075a1c1657"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Seifeddine c. La Reine
+
+- Citation: 2006 CCI 343
+- Decision date: 2006-06-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 919, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Seifeddine c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-06-19
+Référence neutre
+2006 CCI 343
+Numéro de dossier
+2005-3916(EI)
+Juges et Officiers taxateurs
+David W. Beaubier
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-3916(EI)
+ENTRE :
+SANNA SEIFEDDINE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 5 juin 2006 à Lethbridge (Alberta)
+Devant : L’honorable juge D.W. Beaubier
+Comparutions :
+Représentant de l’appelante :
+Neal Seifeddine
+Avocat de l’intimé :
+Me Mark Heseltine
+____________________________________________________________________
+JUGEMENT
+L’appel est rejeté, et la décision du ministre est confirmée selon les motifs de jugement ci‑joints.
+Signé à Saskatoon (Saskatchewan), ce 19e jour de juin 2006.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 18e jour de septembre 2006.
+Jean David Robert, traducteur
+Référence : 2006CCI343
+Date : 20060619
+Dossier : 2005-3916(EI)
+ENTRE :
+SANNA SEIFEDDINE,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Beaubier
+[1] Le présent appel a été entendu à Lethbridge en Alberta. L’époux de l’appelante, Neal, a témoigné et il a aussi cité Theodore Pedersen, un cuisinier au restaurant qui était géré par Neal et appartenait aux parents de Neal et où Sanna travaillait pendant la période en cause à Fort McLeod en Alberta.
+[2] La demande de prestations d’assurance‑emploi présentée par l’appelante a été refusée. Les paragraphes 5 à 7 inclusivement de la réponse à l’avis d’appel exposent les questions en litige. Ils sont ainsi rédigés :
+[traduction]
+5. Dans une lettre datée du 13 octobre 2005, le ministre a avisé l’appelante de sa décision que :
+a) l’appelante et le payeur avaient entre eux un lien de dépendance pendant la période du 2 janvier 2005 au 6 mai 2005;
+b) le ministre n’était pas convaincu que l’appelante et le payeur auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+6. La décision du ministre repose sur les hypothèses de fait suivantes :
+a) le payeur exploitait un restaurant et un bar‑salon qui offraient des menus complets;
+b) le capital‑actions du payeur était réparti ainsi :
+Hafex Seifeddine 50 %
+Nora Seifeddine 50 %
+c) l’appelante était la belle-fille des actionnaires;
+d) l’appelante et le payeur étaient des personnes liées entre elles au sens de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), modifiée (la « Loi »);
+e) l’époux de l’appelante (ci‑après « Neal ») gérait l’entreprise pour le compte de ses parents;
+f) l’appelante exerçait notamment les fonctions de cuisinière à la chaîne et de préparatrice d’aliments;
+g) l’appelante n’avait aucune expérience préalable en tant que cuisinière avant de travailler pour le compte du payeur;
+h) l’appelante est tombée enceinte en 2004 et a accouché en mai 2005;
+i) l’appelante a été employée par le payeur pendant moins de cinq mois;
+j) l’appelante a fait du travail bénévole pour le compte du payeur au cours de l’année 2004;
+k) l’appelante gagnait un salaire horaire d’environ 8 $, qui est passé à 9 $, puis à 10 $;
+l) l’appelante était rémunérée sporadiquement et aléatoirement;
+m) le payeur a émis seulement trois chèques à l’ordre de l’appelante;
+n) habituellement, l’appelante et Neal réglaient leurs achats personnels au moyen des cartes de crédit du payeur, et les montants des paiements étaient déduits du salaire de l’appelante;
+o) au moins un des chèques émis à l’ordre de l’appelante a été déposé dans le compte bancaire du payeur;
+p) le mode de rémunération de l’appelante était déraisonnable;
+q) le payeur était normalement ouvert de 11 h à 1 h, 7 jours par semaine;
+r) l’appelante travaillait normalement de 5 à 8 heures par jour, 6 jours par semaine;
+s) les heures de travail de l’appelante n’étaient pas consignées;
+t) l’appelante prenait des congés pour consulter des médecins;
+u) l’appelante ne remplissait pas de feuille de temps;
+v) l’appelante était normalement rémunérée pour 96 heures à la quinzaine, peu importe le nombre d’heures réellement travaillées;
+w) un employé qui n’avait aucun lien de dépendance avec le payeur et qui recevait un salaire horaire verrait ses heures de travail consignées;
+x) les documents de paie établis par le payeur indiquaient que l’appelante a touché les sommes suivantes :
+Période
+Heures
+Salaire brut
+Avance de fonds
+Montant du chèque
+1er au 15 janv
+96
+796,00 $
+670,12 $
+16 au 31 janv
+96
+796,00 $
+219,44 $
+450,68 $
+1er au 15 fév
+96
+796,00 $
+670,12 $
+16 au 28 fév
+80
+640,00 $
+1er au 15 mars
+96
+796,00 $
+670,12 $
+15 au 31 mars
+96
+796,00 $
+527,60 $
+exigible 142,52 $
+1er au 15 avr
+96
+912,00 $
+47,50 $
+16 au 30 avr
+96
+912,00 $
+1 500,00 $
+6 mai
+76
+760,00 $
+657,75 $
+Total
+7 204,00 $
+y) les documents de paie établis par le payeur indiquaient aussi que l’appelante avait reçu 282,56 $ comme paie de vacances, montant qui n’a pas été inclus dans le salaire brut;
+z) l’appelante a rempli une demande de prestations d’assurance‑emploi qui comprenait les renseignements suivants :
+Premier jour de travail 2 janvier 2005
+Dernier jour de travail 6 mai 2005
+Heures travaillées normalement par mois 192 h
+Jours travaillés normalement par semaine 5,5 jours
+aa) le payeur a délivré à l’appelante un relevé d’emploi qui comprenait les renseignements suivants :
+Période de paie à la quinzaine
+Premier jour de travail 2 janvier 2005
+Dernier jour de travail 6 mai 2005
+Total des heures assurables 828 heures
+Total des gains assurables 6 888,96 $
+bb) Neal contrôlait les activités quotidiennes du payeur et prenait les décisions;
+cc) le payeur donnait des instructions et directives à l’appelante et la supervisait;
+dd) l’appelante n’était pas une administratrice ou une actionnaire du payeur;
+ee) l’appelante ne prenait pas de décisions financières ou importantes pour le compte du payeur;
+ff) l’appelante n’avait pas le pouvoir de signer pour le compte du payeur;
+gg) l’appelante devait fournir ses services personnellement et ne pouvait pas se faire remplacer;
+hh) l’appelante ne travaillait pas pour le compte d’autres personnes pendant qu’elle fournissait des services au payeur;
+ii) le payeur fournissait tous les instruments de travail et l’équipement requis;
+jj) l’appelante ne partageait pas les bénéfices de l’entreprise du payeur;
+kk) l’appelante n’était pas responsable des erreurs ou de la négligence;
+ll) l’appelante n’a engagé aucune dépense dans l’exercice de ses fonctions;
+mm) l’appelante a cessé de fournir des services au payeur en raison d’un congé de maternité;
+nn) l’appelante n’a pas été remplacée lorsqu’elle a cessé de travailler pour le compte du payeur;
+oo) l’appelante et le payeur ont affirmé qu’un travailleur qui n’était pas une personne liée serait traité de la même manière que l’appelante;
+pp) le ministre a examiné l’ensemble des faits pertinents qui ont été portés à sa connaissance, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli;
+qq) le ministre était convaincu qu’il était raisonnable de conclure que l’appelante et le payeur n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+B. POINT EN LITIGE
+7. La question à trancher est de savoir si le ministre a correctement exercé son pouvoir d’appréciation en décidant que l’appelante exerçait un emploi exclu auprès du payeur.
+[3] Aucune des hypothèses, excepté 6j), n), o), p), s), t), u), v), bb) et nn), n’a été réfutée et ne requiert un commentaire; les hypothèses pp) et qq) constituent le principal objet du litige.
+[4] En ce qui a trait aux hypothèses formulées ci‑dessus au paragraphe 6 de la réponse à l’avis d’appel :
+j) Il semble qu’il arrivait fréquemment que le payeur ne rétribuait pas le personnel qui était en formation en tant que nouveaux employés potentiels. Ce fut le cas de Sanna en 2004.
+n) La carte de crédit appartenait à Neal et non au payeur. La carte de Neal a aussi servi à régler les achats du payeur. Dans le but d’accumuler des points, la carte de Neal a été abondamment utilisée par toutes les parties.
+o) Il n’était pas rare pour des employés d’encaisser leurs chèques auprès du payeur ou de prélever des avances de fonds sur le salaire dû et, à l’occasion, sur le salaire à venir. Fort McLeod est un petit village quelque peu isolé où les employés sont difficiles à trouver. Le payeur devait donc se montrer flexible.
+p) Le taux de salaire de l’appelante était raisonnable. Elle était rémunérée en partie lorsqu’elle payait ses achats avec la carte de crédit de Neal, ce qui était peut‑être « déraisonnable », mais aucun autre employé ne le faisait, ce qui le rendait « inhabituel ».
+s) Aucun des membres de la famille Seifeddine ne consignait ses heures de travail. Ted a témoigné qu’ils travaillaient autant d’heures ou quelque fois plus que les autres employés, comme l’a fait Sanna. Je le crois.
+t) D’autres employés l’ont également fait.
+u) Au cours de son premier mois de formation, Sanna a rempli une feuille de temps. Elle ne l’a pas fait pendant la période en cause, à l’instar des autres membres de la famille Seifeddine.
+bb) Neal et son frère Brian contrôlaient les activités du payeur et prenaient les décisions.
+nn) L’appelante a remplacé un travailleur, Wayne, lorsqu’elle a été embauchée en janvier après que deux cuisiniers sont partis. Lorsqu’elle est partie en mai, elle n’a pas été remplacée.
+[5] Les hypothèses pp) et qq) constituent l’objet essentiel du litige dont est saisie la Cour :
+pp) La rémunération versée à Sanna, même si l’augmentation est prise en compte, était payée à un taux normal pour ce payeur-employeur à Fort McLeod. La durée, la nature et l’importance du travail accompli par Sanna étaient également normales pour une travailleuse de son expérience. Les modalités de son emploi correspondaient elles aussi, dans l’ensemble, au traitement accordé par le payeur aux employés avec lesquels il n’avait aucun lien de dépendance à Fort McLeod. Sanna recevait un salaire mensuel, mais le taux horaire en fonction duquel il était établi et ses heures de travail étaient à peu près équivalents à ceux d’un employé qui n’avait aucun lien de dépendance avec l’employeur. Cependant, le mode de paiement était inhabituel. Il y avait deux anomalies : les sommes portées au crédit du compte de carte de crédit de Neal et le paiement de 1 500 $ décrit à l’hypothèse 6x). Ces deux modes de paiement n’étaient pas utilisés à l’égard d’autres employés, qu’ils fussent membres de la famille Seifeddine ou non. Il s’agit de modes de paiement que l’on pourrait rencontrer dans une relation d’emploi analogue à l’asservissement ailleurs au Canada ou dans un contexte familial. Les circonstances atténuantes en ce qui concerne Sanna sont qu’elle ne parlait pas anglais. Elle a immigré au Canada en juin 2004 du Moyen‑Orient et s’est immédiatement mariée avec Neal. Elle ne connaissait pas notre langue, notre culture, nos types de magasins, ni aucun des usages de la vie quotidienne au Canada, ce qui explique dans une large mesure l’utilisation de la carte de crédit de Neal.
+Cependant, il faut tenir compte de quatre éléments : l’omission de consigner les heures travaillées, le fait que le salaire fût payé mensuellement, le règlement d’achats au moyen de la carte de crédit de Neal et le paiement isolé de 1 500 $ constituaient tous des modalités d’emploi et de paiement qui n’auraient pas été établies à l’égard d’un employé qui n’avait aucun lien de dépendance avec l’employeur même si celui‑ci avait éprouvé des difficultés en matière de langue.
+qq) Donc, il est raisonnable de conclure que l’appelante et le payeur n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[6] Le ministre a correctement exercé son pouvoir d’appréciation en décidant que l’appelante exerçait un emploi exclu auprès du payeur.
+[7] Le présent appel est rejeté.
+Signé à Saskatoon (Saskatchewan), ce 19e jour de juin 2006.
+« D. W. Beaubier »
+Juge Beaubier
+Traduction certifiée conforme
+ce 18e jour de septembre 2006.
+Jean David Robert, traducteur
+RÉFÉRENCE : 2006CCI343
+Nº DU DOSSIER DE LA COUR : 2005-3916(EI)
+INTITULÉ : Sanna Seifeddine c. MRN
+LIEU DE L’AUDIENCE : Lethbridge (Alberta)
+DATE DE L’AUDIENCE : Le 5 juin 2006
+MOTIFS DU JUGEMENT : L’honorable juge D.W. Beaubier
+DATE DU JUGEMENT : Le 19 juin 2006
+COMPARUTIONS :
+Représentant de l’appelante :
+Neal Seifeddine
+Avocat de l’intimé :
+Me Mark Heseltine
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

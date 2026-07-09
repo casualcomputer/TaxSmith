@@ -1,0 +1,150 @@
+Title: National Installations Ltd v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27761/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-406-27761-national-installations-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-07-17
+
+# National Installations Ltd v. M.N.R.
+
+- Citation: 2007 TCC 406
+- Decision date: 2007-07-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 314, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+National Installations Ltd v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-17
+Neutral citation
+2007 TCC 406
+File numbers
+2006-333(EI)
+Judges and Taxing Officers
+Alexander A. Sarchuk
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-333(EI)
+BETWEEN:
+NATIONAL INSTALLATIONS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 5, 2006, at Vancouver, British Columbia
+By: The Honourable Justice A.A. Sarchuk
+Appearances:
+Agent for the Appellant:
+Chris Cass
+Counsel for the Respondent:
+John Gibb-Carsley
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed, and the ruling of the Minister of National Revenue on the appeal made to him under section 92 of the Act, is confirmed.
+Signed at Ottawa , Canada, this 11th day of July, 2007.
+“A.A. Sarchuk”
+Sarchuk J.
+Citation: 2007TCC406
+Date: 20070711
+Docket: 2006-333(EI)
+BETWEEN:
+NATIONAL INSTALLATIONS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Sarchuk D.J.
+[1] By Notice of Assessment dated August 24, 2004, the Minister of National Revenue assessed the Appellant, National Installations Ltd., with respect to employment insurance premiums in the amount of $5,896.80, plus applicable penalty and interest for the 2003 taxation year. The basis for the assessment is that the premiums were payable by the Appellant under the Employment Insurance Act[1] (the “Act”), in connection with services performed by Michael Vesterback, Ronald A. Jassmann and Rick Musil (the “Workers”), in respect of whose remuneration the Appellant failed to make required remittances to the Receiver General for Canada.
+Background
+[2] Helmut Musil was the owner of National Hydronics Ltd. (Hydronics), a holding company which owned the Appellant. In June 2002, Musil contemplated retirement and looked for someone to take over the business. The Workers approached him and negotiated a purchase of Hydronics. For that purpose, they formed 649902 BC Ltd., in which each acquired a one-third interest, and that company acquired 100% of the shares of Hydronics, which in turn owned 100% of the shares of the Appellant.
+[3] The issue before the Court is whether the employment arrangements between the Appellant and Vesterback, Jassman and Musil were such that the Workers were engaged in insurable employment pursuant to the Act.
+Appellant’s submission
+[4] The Appellant contends that the three employees of National Installations Ltd. were not related to each other, nor did they form a related group as defined by the Income Tax Act. More specifically, the Appellant’s representative noted that the three individuals did not deal at arm’s length in respect of their employment arrangement with the company. Specific reference was made to paragraph 5(2)(i) of the Employment Insurance Act (EI Act), which provides that:
+5(2) Insurable employment does not include
+(a) …
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+And paragraph 251(1)(c) of the Income Tax Act (IT Act) defines “arm’s length” as follows:
+251(1) For the purposes of this Act,
+(a) …
+(c) … it is a question of fact whether persons not related to each other are at a particular time dealing with each other at arm’s length.
+[5] Pursuing this line, the Appellant’s representative submitted that the key factors in a determination of this issue “boil down to whether there exists a common mind directing the transaction from both sides – on both sides of the transaction”.
+[6] Reference was made to Jassman’s testimony which, according to the representative, affirmed the distinction between the Workers and the Appellant’s other employees. Specific reference was made to the following:
+(a) Both he and the other two Workers own all the shares of the numbered company, which owns the holding company, National Hydronics, and therefore control the Appellant. The three make all decisions for it regarding wages, the choosing of projects, hiring and firing of other employees, etc. Their performance is not monitored and they do not report to anyone else.
+(b) At all times, the Workers dictated the terms of their employment agreements.
+(c) No other employees of the Appellant have contracts that are substantially similar to the Workers’ contracts.
+(d) They have unrestricted access to the Appellant’s equipment and any one of them could utilize a company motor vehicle if they needed to do so for personal use.
+(e) They derive their bonuses directly from income earned for the Appellant and bear the risk for any financial difficulties. They are expected to defer salaries should the company require additional working capital and also, they have provided personal guarantees and risked their personal securities and properties in order to achieve the bonding covenant and any bank loans required for the business.
+[7] It was submitted that the Workers and the directors of the Appellant are “factually the same people” and therefore,
+“as employees they share a common interest, by virtue of the shareholder’s agreement. As directors, they share a common interest. There is a lack of an adversarial arrangement here. They all have the same interest. …”
+By way of example, referral was made to the method by which the bonuses were calculated and the representative noted that they
+“Don’t look at performance. They don’t look as if anybody messed up a job or if, you know, so-and-so took two weeks in Italy. They look at the taxable income of the corporation and the taxable income of the parent, and the associated group’s business limit, and then they look at the individual taxable incomes of the corporation - - or of the individuals and the tax rates, and whether or not as a dividend, if they paid a dividend, how much would they have in their pocket? If they paid a bonus, how much would they have in their pocket? It’s the same pocket.”
+[8] Furthermore, the shareholder’s agreement requires unanimous consent of the Workers for most business decisions. This agreement, the representative noted, binds the Workers and creates the common mind and de facto control for non‑arm’s length dealings.[2] Accordingly, the Workers are, in effect, indistinguishable from the Appellant.
+[9] The Appellant’s representative noted the comments of Porter D.J. in Crawford & Co. Ltd. v. M.N.R.,[3] (in which reference was made to Swiss Bank Corporation v. M.N.R.[4]) and submitted that:
+“At paragraph 29, Crawford also indicates that the case law has concluded that even people who are ordinarily arm’s length in their relationship can deal not at arm’s length in certain circumstances.”
+And that:
+“The facts here support the conclusion that the three Workers, as a consequence of their shareholder’s agreement and the requirement to achieve unanimity with the relationships with the subsidiary - - or, sorry, with their employer, cause a common objective and common mind, and that test is fulfilled such that no meaningful bargaining exists between the two in respect of their employment.”
+Respondent’s submission
+[10] The Respondent’s position is that the facts before the Court establish that the Workers were dealing at arm’s length with the Appellant.
+[11] Counsel submitted that what is most relevant in this appeal is the multiplicity of legal entities and roles that the Workers held. Jassman’s testimony is that of a shareholder of 649902 BC Ltd. which owned 100% of Hydronics, which in turn, owned the Appellant. He was also a director and an employee and, in effect, wore three different hats in relation to the Appellant. Furthermore, the Appellant is a completely distinct legal entity owned and controlled by the directors of which Jassman is only one and, counsel noted, it is necessary to keep in mind the roles that the Workers held and the different rights and responsibilities associated with them.
+[12] Reference was made to the manner in which the Workers were paid by the Appellant, and bonuses were granted to them. Jassman testified that his salary in 2003 was approximately $74,000 and was reported on a T4 slip at the end of the year. On the other hand, the bonuses of $100,000 paid to each of the Workers were not treated as dividends or employment income, but were reported as business income. Furthermore the evidence was that the bonus amounts were paid not only from the profits of the Appellant, but also those of National Hydronics and 649902 BC Ltd.
+[13] Counsel submitted that the manner in which the Workers’ salaries were determined was substantially different than the manner in which the $100,000 bonuses were granted to each of the three shareholders in their capacity as directors. By way of example, the testimony established that Musil was not in favour of bonuses, however, since unanimity was required Musil subordinated his interest to that of the corporate entity in order that Vesterback and Jassman could receive bonuses.[5] Counsel noted that in this context, Musil “could not exercise his will” and this clearly establishes the nature of the triple role of Worker as employee, shareholder and director held by the three.
+[14] With respect to the Appellant’s reliance on the decision of Porter D.J. in Crawford, counsel noted that in that case, the trial judge made a point of the fact that the three owners, directors and employees had full access to all the accounts of the company on an individual basis at any time, and thus, there is a substantial distinction between Crawford and the matter before this Court. Specifically, no shareholders’ agreement existed to protect the company from any one of the three employees in that case. Thus, the three had access to the employer’s accounts and to company funds at any time individually, without the consent of the others.
+[15] The facts in the present appeal are substantially different in that the shareholder’s agreement with 649902 BC Ltd. lists items in respect of which a decision of the directors had to be unanimous. The agreement itself is fatal to the Appellant’s case because, counsel submitted, the shareholder’s agreement essentially sets out that a Worker cannot exert individual control over this company as an employee.
+Conclusion
+[16] The Appellant’s position is premised on the assumption that the existence of a requirement where the three Workers were obliged to act as one, coupled with their personal financial stakes and the interdependence created by virtue of the shareholder’s agreement established that what is in the best interest of the individual worker is identical to what would be in the best interest of the company and thus, it cannot be said that the parties were dealing at arm’s length.
+[17] Reference was made by both parties to Peter Cundill and Associates and the three-factor test set out therein, i.e. the existence of a common mind which directs the bargaining for both parties to the transaction; parties to a transaction acting in concert without separate interests, and de facto control, has been adopted and has been appropriately utilized in a number of cases. The foregoing was approved by Miller J. in Terra Remote Sensing Inc. v. The Queen[6] in which he stated:
+“What is important to note is that these factors are to be addressed to the individual Appellants and the corporate Appellant’s dealings in the context of their employment relationship, not their shareholder relationship.”
+[18] The testimony of Jassman established that the Appellant was a general contractor providing:
+“the full spectrum of the – a high-rise building, for example. We would do the plumbing, the mechanical, HVAC systems, sprinkler systems. So we are actually the mechanical contractors for that project.”
+And that his responsibilities as employee were:
+“looking after the day to day operations, the manpower, out in the field, and many times I’m going from job to job making sure that things are in place, materials are there, orders are met. I also look after the service end of the company which requires going to different service contractors that we deal with and satisfying their needs.”
+[19] He further testified that before the Workers acquired the Appellant, he and Musil:
+“were members of the Union and were paid an hourly rate specific to what we did on each job site. For Mike Vesterback, who is one of the estimators, the same applied for him. He was an hourly employee, working in the office, doing estimating, project coordination and purchasing and his salary was determined by the previous owner, and was comparable to our rate as well since he was not a pensionable employee of the Union.”
+[20] Following their acquisition of the Appellant, Jassman said they could have paid themselves whatever they deemed fit as employees, however, they deliberately decided to maintain their salaries at the Union rate with the intention of remaining within the Union structure to retain access to its pension plan, which, their representative noted, was “probably pretty good”. Jassman also noted that Vesterback was not a Union member and therefore, they, in their corporate role agreed to pay him an extra $4.00 per hour to compensate him for the lack of a Union pension.
+[21] He further observed that the Union rate was also necessary because both before and after the acquisition, the Workers tracked their hours including overtime, as was the case with the Appellant’s other Union employees. This was necessary because the Workers’ hours were billed to each specific contract to permit the keeping of a “weekly job cost breakdown” for their employer.
+[22] Given the foregoing, it is necessary to distinguish between the Workers roles as shareholders and directors from their performance of their duties as employees of the Appellant. It is trite law that working for a company in which the employee is also a shareholder does not by itself preclude a finding that a shareholder/employee was in insurable employment since the company and its shareholders each have distinct legal personalities. As was noted in Doyle v. Canada,[7] the appropriate question is what was the nature of the relationship that existed between the Appellant and the Workers.
+[23] In this context, serious consideration must be given to the testimony of Jassman and, more particularly, with respect to the nature of the two roles he held. He said that in his employee function as daily operations manager, he was responsible for the supervision of the manner in which the project was being carried out for the contractors, as well as the work performed by the foreman and other employees. Furthermore if in an individual project that he was supervising, it became necessary to obtain additional material, he, as daily operations manager, was able to make decisions regarding the purchase and provision of such supplies. However, in that case he also noted that he was limited to $1,000 and if any major acquisition was necessary, he was required to conform with the shareholder’s agreement.[8] Although the foregoing described his daily tasks, he noted that:
+“When it comes to the major decisions like whether or not we’re going to accept a bid from Centreville Projects or Concord Pacific, then that’s a group decision. We sit down and we say, Are we going to make this - - are we going to make that leap?”
+This, as counsel for the Respondent noted, creates a substantial distinction between Jassman, in his “Worker” capacity as project supervisor, and his role as one of three directors and shareholders, who on major decisions were required to be unanimous.
+[24] The Appellant failed to recognize that there is no common mind between Jassman, as an employee, and the controlling mind of the unanimous decision of the three, as the employer. Furthermore, the Appellant’s submission confused the second element of the test, “acting in concert”, with the requirement for unanimous consent, and failed to correctly delineate the parties in their appropriate roles in the transactions. I note as well that the particular duties and powers of an individual Worker in his role as employee do not equate with de facto control. This is particularly evident from the testimony of Jassman who indicated that no major decision could be made by any individual employee. In my view, the Appellant failed to understand the distinct personality a corporation has apart from shareholders at law, and has also failed to recognize that the Workers are to be evaluated as individuals and not as a unit when considered in their separate legal roles as employees.
+[25] The evidence is clear that the shareholder’s agreement did precisely what it was designed to do, which was to insulate the Appellant from having a non-arm’s length relationship with any one of the three individual Workers on their own. In the present case, it is most evident that there was a contract of service between the Appellant and the three Workers, making the latter subject to the control of the company and thus, employees of the Appellant.
+[26] The expression dealing with each other at arm’s length involves an analysis of the manner in which the parties to a transaction conducted themselves in forming that transaction. What is asked is whether the parties behaved in the manner in which parties at arm’s length would be expected to behave in conducting their affairs. That is the test. I am satisfied that the Minister was correct in looking at the Appellant as payor and the three individuals as Workers, and not accepting the three collectively as directors, as shareholders, but the three individually, as workers.
+[27] The appeal is dismissed and the decision of the Minister is confirmed.
+Signed at Ottawa, Canada, this 11th day of July, 2007.
+“A.A. Sarchuk”
+Sarchuk D.J.
+CITATION: 2007TCC406
+COURT FILE NO.: 2006-333(EI)
+STYLE OF CAUSE: NATIONAL INSTALLATIONS LTD. and MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: October 5, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice A.A. Sarchuk
+DATE OF JUDGMENT: July 11, 2007
+APPEARANCES:
+Agent for the Appellant:
+Chris Cass
+Counsel for the Respondent:
+John Gibb-Carsley
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] S.C. 1996 c. 23.
+[2] Exhibit A-2.
+[3] 91 DTC 5543, para. 29 and 30. The references made by the Appellant’s representative: M.N.R. v. Sheldon’s Engineering Ltd., William J. McNichol et al v. The Queen, 97 DTC 111, and Peter Cundill & Associates v. The Queen, [1991] 1 C.T.C. 197.
+[4] 72 DTC 6470 (S.C.C.).
+[5] See Exhibit A-2, section 2.6 and Schedule “B” at paras. (h), (i) and (j).
+[6] 2006 TCC 279.
+[7] [1990] F.C.J. No. 210.
+[8] Exhibit A-2, sec. 2.6. Schedule B(d)(ii) - – unanimous consent of shareholders.

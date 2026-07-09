@@ -1,0 +1,126 @@
+---
+title: "Sandia Mountain Holdings Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25212/index.do"
+last_modified: "2006-05-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 297"
+citation2: ""
+neutral_citation: "2006 CCI 297"
+decision_date: "2006-05-25"
+language: "fr"
+item_id: "25212"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2572
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T08:36:35.428000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "44f548359298946865be083f13f09ab6cbfa5dfda23acd9730b2ec3ba092b844"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sandia Mountain Holdings Inc. v. The Queen
+
+- Citation: 2006 CCI 297
+- Decision date: 2006-05-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2572, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sandia Mountain Holdings Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-05-25
+Référence neutre
+2006 CCI 297
+Numéro de dossier
+2003-1672(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Référence : 2006CCI297
+Date : 20060525
+Dossier : 2003-1672(IT)G
+ENTRE :
+SANDIA MOUNTAIN HOLDINGS INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+(Préparés à partir des motifs rendus oralement à l'audience le 24 mars 2006,
+à Toronto (Ontario).)
+La juge Woods
+[1] Les présentes sont les motifs rendus oralement dans une requête présentée par l'intimée dans l'affaire Sandia Mountain Holdings Inc. et Sa Majesté la Reine.
+[2] L'intimée demande la permission de la Cour pour mener un contre-interrogatoire préalable au procès d'un expert qui a été retenu par l'appelante et dont l'opinion a été déposée à la Cour. Selon le paragraphe 145(5) des règles de la procédure générale, l'expert de la partie adverse ne peut pas être contre-interrogé avant l'audience sans permission de la Cour, et si une telle permission est accordée, le témoin ne sera pas de nouveau contre-interrogé à l'audience sans permission supplémentaire de la Cour.
+[3] L'intimée suggère qu'une permission devrait être accordée car la communication intégrale est dans l'intérêt de la justice et peut permettre d'abréger l'audience.
+[4] L'audition du présent appel avait été d'abord prévue pour le mois de janvier dernier et elle a été ajournée au 15 mai. L'ajournement a été ordonné à la suite d'une requête de l'appelante visant à permettre le dépôt tardif d'une déclaration sous serment d'un expert comportant une opinion sur les principes comptables généralement reconnus ( « PCGR » ). La Cour a accordé que la déclaration sous serment soit déposée, mais elle a ajourné l'audience et elle a donné à l'intimée la permission de contre-interroger le témoin. Ce contre-interrogatoire a été mené il y a quelque temps.
+[5] Plus récemment, l'appelante a déposé une déclaration sous serment d'un autre expert qui a donné son opinion sur les mêmes questions de PCGR.
+[6] L'intimée demande la permission de contre-interroger le deuxième expert. Selon les deux avocats, le contre-interrogatoire d'experts avant le procès est rarement mené devant la présente Cour ou devant la Cour fédérale, qui a une règle semblable. Il s'ensuit qu'il ne semble pas y avoir de précédent en ce qui a trait aux mesures que je devrais prendre en compte pour décider si j'accorde ou non la permission.
+[7] Selon l'intimée, bien que la règle ne soit pas habituellement appliquée dans la pratique, il est logique qu'une partie contre-interroge l'expert de la partie adverse avant l'audience pour les mêmes raisons que l'on encourage la communication intégrale. Elle n'a pas cité de jurisprudence ou de doctrine.
+[8] Par contre, l'avocat de l'appelante suggère que puisque la règle exige la permission de la Cour, cela implique que la permission ne devrait être accordée que dans des circonstances exceptionnelles. L'appelante allègue qu'il n'existe pas de circonstances exceptionnelles dans la présente affaire.
+[9] L'appelante m'a fait part de deux décisions d'autres cours. Bien que ces décisions ne soient pas tout à fait applicables dans la présente affaire parce que les règles de procédure en vigueur aux cours dont il s'agit sont différentes des règles de la Cour canadienne de l'impôt, ces décisions fournissent un éclairage utile à la résolution de la question.
+[10] La première affaire est une décision orale de la Cour suprême de l'Ontario dans la cause Snively v. Schacher. Il s'agissait d'une demande de permission en vue d'un interrogatoire oral préalable d'un expert. Selon la règle en vigueur, la Cour de l'Ontario pouvait accorder la permission d'interroger un tiers, sauf si la personne qu'on souhaitait interroger était un expert dont les services avaient été retenus en prévision d'une poursuite. Le fait d'exclure les experts semble découler d'inquiétudes au sujet du secret professionnel. La demande de permission a été refusée dans l'affaire Snively v. Schacher au motif que la personne à interroger était un expert dont les services avaient été retenus en prévision d'une poursuite.
+[11] L'autre décision à laquelle l'appelante se réfère a été rendue par la Cour d'appel de la Nouvelle-Écosse dans l'affaire Central Mortgage & Housing Corporation v. Foundation Company of Canada Ltd. La règle en vigueur dans cette affaire était à l'opposé de celle de l'Ontario; elle s'inscrit dans la droite ligne du modèle américain qui permet l'interrogatoire sans permission de tout tiers, y compris les experts. La question posée à la Cour d'appel était de savoir si l'interrogatoire de l'expert se limitait aux faits invoqués par l'expert ou si ce dernier pouvait être interrogé sur les opinions qu'il émettait. La Cour a décidé que l'interrogatoire ne devrait pas être limité aux faits. La Cour a remarqué que les cours ont parfois interdit l'interrogatoire des experts au sujet de leurs opinions en raison du secret professionnel, mais elle a constaté qu'il n'y avait pas de question de secret professionnel dans cette affaire-là. Il s'ensuit que la Cour n'a trouvé aucune raison de limiter l'interrogatoire.
+[12] En ce qui a trait à la règle en vigueur devant la présente Cour, en l'occurrence le paragraphe 145(5), je suis d'accord avec l'appelante que les termes de cette disposition impliquent que le fait d'accorder la permission devrait être l'exception plutôt que la règle. Je ne pense pas qu'il y ait des circonstances spéciales dans la présente affaire qui justifient de faire droit à la demande de l'intimée.
+[13] L'intimée suggère qu'il est souhaitable que la Cour fasse droit de façon généreuse aux demandes de permission car un interrogatoire des experts avant le procès permettrait généralement de faciliter la procédure. Je ne suis pas convaincue que tous les éléments pertinents m'aient été soumis lors de la présente requête pour que je puisse correctement étudier cette question. Selon les termes du paragraphe 145(5), je ne pense pas qu'une permission devrait être accordée de façon généreuse. Je soulignerais que si l'intimée estime que l'interrogatoire préalable des experts est souhaitable en général, cela pourrait faire l'objet d'une proposition pour modifier le paragraphe 145(5) et la question serait alors étudiée en profondeur.
+[14] Pour les raisons énoncées ci-dessus, la requête est rejetée. Les dépens de la requête sont laissés à la discrétion du juge du procès.
+Signé à Ottawa, Canada, ce 25e jour de mai 2006.
+« J. Woods »
+La juge Woods
+Traduction certifiée conforme
+ce 6e jour de juin 2006.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE :
+2006CCI297
+N ° DU DOSSIER DE LA COUR :
+2003-1672(IT)G
+INTITULÉ DE LA CAUSE :
+Sandia Mountain Holdings Inc. et Sa majesté la Reine
+LIEU DE L'AUDIENCE :
+Toronto (Ontario)
+DATE DE L'AUDIENCE :
+le 24 mars 2006
+MOTIFS DE L'ORDONNANCE PAR :
+L'honorable juge Judith Woods
+DATE DE L'ORDONNANCE :
+le 28 mars 2006
+COMPARUTIONS :
+Avocats de l'appelante :
+Me Richard Fitzsimmons
+Peter Aprile (étudiant stagiaire)
+Avocat de l'intimée :
+Me Bobby J. Sood
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Me Richard Fitzsimmons
+Étude :
+Fitzsimmons & Company
+Toronto, Ontario
+Pour l'intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

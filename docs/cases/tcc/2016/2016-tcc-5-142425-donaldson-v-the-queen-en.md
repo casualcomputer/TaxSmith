@@ -1,0 +1,284 @@
+---
+title: "Donaldson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/142425/index.do"
+last_modified: "2016-01-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 5"
+citation2: ""
+neutral_citation: "2016 TCC 5"
+decision_date: "2016-01-05"
+language: "en"
+item_id: "142425"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3011
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:02:40.580000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "aa596569ba815c4a76122dde455d307dc5702d4ae95789e2d07b6425d73847fb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Donaldson v. The Queen
+
+- Citation: 2016 TCC 5
+- Decision date: 2016-01-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3011, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Donaldson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-01-05
+Neutral citation
+2016 TCC 5
+File numbers
+2013-1565(IT)I, 2013-1567(IT)I
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-1565(IT)I
+BETWEEN:
+CRYSTAL DONALDSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+William Donaldson, 2013-1567(IT)I, on June 2, 2015, at Calgary, Alberta.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+Agent for the Appellant:
+William Donaldson
+Counsel for the Respondent:
+Ian Wiebe
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2008 taxation year is quashed, on the basis that the appellant could not appeal from a nil assessment.
+Signed at Ottawa, Canada, this 5th day of January 2016.
+“Johanne D’Auray”
+D’Auray J.
+Docket: 2013-1567(IT)I
+BETWEEN:
+WILLIAM DONALDSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Chrystal Donaldson, 2013-1565(IT)I, on June 2, 2015, at Calgary, Alberta.
+Before: The Honourable Justice Johanne D’Auray
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ian Wiebe
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2008 taxation year is allowed and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to claim a terminal loss in the amount of $6,057.49.
+The appellant is not entitled to any further relief
+Signed at Ottawa, Canada, this 5th day of January 2016.
+“Johanne D’Auray”
+D’Auray J.
+Citation: 2016 TCC 5
+Date: 20160105
+Docket: 2013-1565(IT)I
+BETWEEN:
+CRYSTAL DONALDSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2013-1567(IT)I
+BETWEEN:
+WILLIAM DONALDSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D’Auray J.
+OVERVIEW [1] These appeals were heard on common evidence. The appellants, Ms. Crystal Donaldson and Mr. William Donaldson, are husband and wife.
+[2] In filing their income tax returns for 2008, Ms. Donaldson and Mr. Donaldson each claimed a terminal loss of $92,500. due to the changes in the use of their residence from personal residence to rental property in 2007 and from rental property to personal residence in 2008.
+[3] On December 5, 2011, by way of Notices of Reassessment, the Minister of National Revenue (“the Minister”) reassessed the appellants and reduced the terminal loss claimed by each of the appellants from $92,500. to $3,512.74. The Minister also allowed to both Ms. Donaldson and Mr. Donaldson a capital loss in the amount of $973.
+[4] The appellants objected to the reassessments. On March 7, 2013, the Minister reassessed them by increasing the terminal loss to $12,099. ($6,049.50 each) and allowed a capital loss of $40,248. ($20,124. each). At trial, the respondent stated that due to an error of calculation, the terminal loss that Mr. Donaldson is entitled to claim should be increased by $7.99 to $6,057.49
+[5] The reassessment dated March 7, 2013, with respect to Ms. Donaldson is a nil reassessment, meaning that Ms. Donaldson does not owe any federal income taxes, penalties or interest, for her 2008 taxation year. Accordingly, the respondent requested that her appeal be quashed.
+APPEAL OF MS. DONALDSON – NIL REASSESSMENT [6] Before going into the factual background of these appeals, I will first determine if the appeal of Ms. Donaldson for her 2008 taxation year should be quashed.
+[7] It is clear from the evidence submitted by the respondent that Ms. Donaldson did not owe any taxes for her 2008 taxation year.
+[8] It is well established that no appeal lies from a nil assessment, that is from an assessment where no tax is being claimed by the Minister: Okalta Oils Ltd. v Minister of National Revenue, [1955] S.C.R. 824 (Okalta Oils Ltd).
+[9] In Interior Savings Credit Union v HMTQ, 2007 FCA 151, the Federal Court of Appeal applied the principles enunciated in Okalta Oils Ltd, and held that a taxpayer cannot challenge an assessment where there are no taxes, penalties or interest assessed for the year. Justice Noël, writing for the Court, stated as follows at paragraphs 15 to 17:
+15 In my respectful view, the Tax Court Judge erred in dismissing the Crown’s Motion to strike. The Minister’s power and duty under subsection 152(1) of the Act is to “... assess the tax for the year, the interest and penalties, if any, ...”. The taxpayer’s right to object (ss 165(1)) and to appeal to the Tax Court of Canada (ss 169(1)) can only be exercised in order “... to have the assessment vacated or varied ...”. It follows that unless the taxpayer challenges the taxes interest or penalties assessed for the year, there is nothing to appeal and indeed no relief which the Tax Court can provide (Chagnon v. Normand (1889), 16 S.C.R. 661 (S.C.C.), at 662).
+16 The Tax Court Judge properly notes in his reasons that the assessment before him was not a nil assessment. However, he goes on to state that even if it was a nil assessment, he would nevertheless allow the appeal to continue. The expression nil assessment does not appear anywhere in the Act. When dealing with a situation where a person owes no taxes, the Act authorizes the Minister to issue a notice “that no tax is payable” (subsection 152(4)).
+17 Nonetheless, the term nil assessment is often used in the case law to identify an assessment which cannot be appealed. There are two reasons why a so-called nil assessment cannot be appealed. First, an appeal must be directed against an assessment and an assessment which assesses no tax is not an assessment (see Okalta Oils Ltd. v. Minister of National Revenue (1955), 55 D.T.C. 1176 (S.C.C.) at p. 1178: “Under these provisions, there is no assessment if there was not tax claimed”). Second, there is no right of appeal from a nil assessment since: “Any other objection but one related to an amount claimed [as taxes] was lacking the object giving rise to the right of appeal ...” (Okalta Oils, supra, at p. 1178).
+[…]
+[Emphasis added.]
+[10] The jurisprudence is therefore clear that a taxpayer cannot appeal a nil assessment. The appeal of Ms. Donaldson is accordingly quashed.
+APPEAL OF MR. DONALDSON [11] I will now deal with the appeal of Mr. Donaldson.
+[12] In April 2005, the appellants purchased a property located at 35 Crystal Shores Point, Okotoks, Alberta (the “property”) for the amount of $355,000. They each owned 50% of the property and used it as their personal residence.
+[13] The property was comprised of the land and the house building. During the period under appeal, 21.70% of the fair market of the property was attributable to the land and 78.30% was attributable to the building.
+[14] In 2007, Mr. Donaldson took employment with Finning in British Columbia. He and his spouse moved to British Columbia. At that time, the real estate market in Alberta was doing well and thinking that the value of their property would continue to increase, the appellants decided to rent the house instead of selling it.
+[15] In June 2007, the appellants began to rent the property. At that time, the fair market value of the property was $695,000. according to an appraisal undertaken by the Bank of Montreal.
+[16] The appellants incurred an appraisal fee in the amount of $472.50.
+[17] Although the appellants were planning to stay in British Columbia on a long-term basis, due to a severe slowdown in the lumber industry, Mr. Donaldson was transferred in May of 2008, to a Finning Branch north of Fort McMurray, Alberta.
+[18] On or about September 30, 2008, the tenants advised the appellants, that they would be moving out of the property. The appellants decided to move back into their property. Accordingly, in October 2008, the property was converted back to the appellants’ personal residence. At that time, an appraisal was done and the fair market value of the property was $510,000.
+[19] There is no disagreement between the parties as to the fair market value of the property in 2007 and in 2008 and to the proportion attributable to the building and to the land.
+[20] For the 2008 taxation year, the appellants each claimed a net rental loss in respect of the property which included a terminal loss in the amount of $185,000. ($92,500. each) calculated as follows:
+Fair Market Value (“FMV”) of the property in June 2007 - first change of use from personal residence to rental property……..……….……..$695,000.
+FMV of the property in September 2008 – second change of use from rental property to personal residence.….…………….………………$510,000.
+Difference - a non-capital loss of $144,000. for the house and a capital loss of $41,000. for the land……………….…………….…………………$185,000.
+Loss claimed by each of the appellant (50%)…..………….…………$92,500.
+QUESTIONS IN ISSUE [21] Did the Minister correctly determine Mr. Donaldson’s terminal loss in respect of the property for his 2008 taxation year?
+[22] Did the Minister correctly determine Mr. Donaldson’s capital loss in respect of the property for his 2008 taxation year?
+POSITION OF THE PARTIES A. APPELLANTS’ POSITION [23] The appellants acknowledge that under the Income Tax Act (the “Act”) a deemed disposition of the property occurred in 2007 when they changed its use from personal residence to a rental property and in 2008 when they changed its use from rental property to personal residence. They also acknowledge that under the Act, they are deemed to have disposed of the property for proceeds equal to the fair market value and to have it reacquired at a cost equal to the fair market value.
+[24] However, the appellants’ position is that they should be allowed to use the fair market value of the property at the moment there was a change in use, namely in June 2007, as the opening undepreciated capital cost (“UCC”), namely $695,000. and not the original purchase price of the property, $350,000. which according to the appellants was used by the Canada Revenue Agency (“CRA”) to calculate the terminal loss. The appellant submitted that the CRA is ignoring the change in use of the property and the deemed disposition that occurred as a result of that change.
+B. RESPONDENT’S POSITION [25] The respondent’s position is that the appellants changed the use of the property from a personal residence to a rental property in 2007 and then again in 2008 from a rental property to a personal residence. The respondent relies on paragraphs 13(7)(a) and 13(7)(b) of the Act to calculate the fair market value of the property at the time of the change of use, namely in 2007 and in 2008.
+[26] With regards to the building portion of the property, the respondent submits that the Minister correctly calculated the terminal loss as $12,114.98 ($6,057.49 attributable to each appellant). The respondent relies on sections 13 and 20 of the Act.
+[27] With regards to the land portion of the property, the respondent submits that the capital loss is $40,248. ($20,124. for Mr. Donaldson). The respondent relies on sections 3 and 39 of the Act.
+APPLICABLE LAW Terminal loss [28] No capital loss can be claimed pursuant to subparagraph 39(1)(b)(i) of the Act on the building portion of the property since it is a depreciable property. A capital loss can only be claimed on the land portion of the property. However, the appellant is entitled to claim a deduction for a terminal loss with respect to the building portion of the property according to subsection 20(16) of the Act.
+[29] Subsection 20(16) reads as follows:
+Terminal loss (16) Notwithstanding paragraphs 18(1)(a), 18(1)(b) and 18(1)(h), where at the end of a taxation year,
+(a) the total of all amounts used to determine A to D.1 in the definition “undepreciated capital cost” in subsection 13(21) in respect of a taxpayer’s depreciable property of a particular class exceeds the total of all amounts used to determine E to K in that definition in respect of that property, and
+(b) the taxpayer no longer owns any property of that class,
+in computing the taxpayer’s income for the year
+(c) there shall be deducted the amount of the excess determined under paragraph 20(16)(a), and
+(d) no amount shall be deducted for the year under paragraph 20(1)(a) in respect of property of that class.
+[30] In order to determine the terminal loss, the UCC of the building must first be established. In order to calculate the UCC, I have to take into account the two changes in use of the property. The first change in use occurred in 2007, when the appellants began to rent the property. At that point, there was a change in use from a personal residence to a rental property pursuant to subparagraph 45(1)(a)(i) of the Act. Therefore pursuant to paragraph 13(7)(b) of the Act there was a deemed disposition. The second change in use occurred in 2008, when the appellants started to use the property again as a personal residence - triggering both a change of use pursuant to subparagraph 45(1)(a)(ii) of the Act, and a deemed disposition pursuant to paragraph 13(7)(a) of the Act.
+[31] Under paragraph 13(7)(b) of the Act, the capital cost of the building, for the first change in use in 2007, is $411,075. determined as follows:
+13(7)(b)(i)
+FMV of the property at the time of the change in use (2007)
+$695,000
+x 78.3%=
+$544,185
+13(7)(b)(ii)(A)
+Cost of the property
+$355,000
+x 78.3% =
+$277,965
+13(7)(b)(ii)(B)
+½ x (FMV at the time of the change in use (2007) – (Cost of the property according to 13(7)(b)(ii)(A) + (2x Amount claimed as a capital gain deduction)
+½ x
+(544,185 – (277,965+ (2 x 0)) =
+½ x 266,220 =
+$133,110
+13(7)(b)(ii)
+The total of (A) and (B) :
+277,965
++ 133,110 =
+$411,075
+13(7)(b)
+Capital cost of the building is the lesser of (i) and (ii)
+$544,185 or $411,075
+$411,075
+[32] Therefore, pursuant to paragraph 13(7)(b) of the Act, the appellants are deemed to have acquired the building at the time of the change in use in 2007 for the amount of $411,075.
+[33] With regards to the second change in use in 2008, paragraph 13(7)(a) of the Act deemed the appellants to have disposed of the property at that time for proceeds equal to its fair market value and to have reacquired it immediately thereafter at a cost equal to its fair market value, namely $510,000. The appellants are deemed to have disposed and reacquired the building at $399,330. ($510,000. x 78.3%).
+[34] As I have stated, subsection 20(16) of the Act is the section that allows a taxpayer to deduct a terminal loss. Paragraph 20(16)(a) of the Act instructs us on how to calculate such a loss according to the definition of “undepreciated capital cost”, found in 13(21) of the Act. Applying subsection 20(16) of the Act in this appeal, the terminal loss is $12,114.97 calculated as follows:
+A
+Capital cost of the building
+(As determined by 13(7)(b) of the Act)
++ Appraisal fee related to the building
+$411,075
++
+($472.50 x 78.3%= 369.97)
+$411,444.97
+B
+Recaptured depreciation included in the appellant’s income in previous years
+$0
+E
+Capital cost allowance deducted by the appellants
+$0
+F
+The lesser of:
+- Proceeds of disposition
+- Capital cost of the property
+510,000 x 78,3% = $399,330
+or $411,444.97
+$399,330
+20(16)
+A + B – E – F = Terminal loss according to 20(16) of the Act
+411,444.97
++ 0
+- 0
+- 399,330 =
+$12,114.97
+[35] Mr. Donaldson’s 50% percent share of the terminal loss in respect of the building is $6,057.49.
+[36] I do not agree with the appellants’ statement in their Notices of Appeal that the Minister “choose to ignore the change of use deemed disposition in June 2007”. As shown by the previous calculations, the Minister did take into account the two deemed dispositions of the property.
+[37] The appellants also submitted four cases in support of their argument. All are distinguishable. In Solomons v R, 2003 DTC 505 (TCC), the facts are similar to those in this appeal. Mr. Solomons bought a house to use as a personal residence. Due to unforeseen circumstances, he began to rent the house. Mr. Solomon argued that the property was a business property and therefore inventory. Justice Bowie did not agree with Mr. Solomons’ position. He held that the property could not be considered as inventory, as the appellant was not in the business of buying and selling houses. Justice Bowie held that the property was a capital asset and that there was a deemed disposition pursuant to subsections 45(1) and 13(7) of the Act when the property changed from a personal use property to a rental property. Justice Bowie also held that the building was depreciable property. Therefore, Mr. Solomons was entitled to claim a terminal loss pursuant to subsection 20(16) of the Act. With respect to the land, Justice Bowie held that it was a non-depreciable capital property, giving rise to a capital loss. It is to be noted that the Minister took the same position in this appeal as in Solomons. In Solomons, Justice Bowie allowed a terminal loss on the house and a capital loss on the land. Therefore, the Solomons decision does not assist the appellants.
+[38] The appellants referred to the decision in Ramesha v R, 2005 TCC 389. The facts in Ramesha are quite different from those in their appeals. Ms. Ramesha was not allowed to claim a loss since the decrease in the value of her house had occurred before the house was used as a rental property. The appellants also submitted the decision in Gill v R, [2001] 4 CTC 2876 (TCC). In Gill, Justice Campbell did not have to discuss the application of the provisions dealing with terminal loss and capital loss, since the parties agreed with the opening UCC being the FMV of the building at the time of change in use and the terminal loss. In Gill the issue that Justice Campbell had to determine was whether there was a reasonable expectation of profit from the rental operations. Lastly, in Apte v R, [1999] 4 CTC 2145, the issue was also whether there was a reasonable expectation of profit from the rental operations. None of these decisions support the appellant’s position.
+Capital Loss [39] I will now turn to the land portion of the property. Pursuant to paragraph 39(1)(b) of the Act, a taxpayer is entitled to claim a capital loss when he or she incurs a loss upon a disposition of capital property, so long as the property does not fall within one of the exceptions enumerated in the subparagraphs of the provision.
+[40] In this appeal, since none of the exceptions applies to Mr. Donaldson, he is entitled to claim a capital loss on the land.
+[41] Paragraph 40(1)(b) of the Act provides how a capital loss is to be calculated. The capital loss of Mr. Donaldson is determined as follows:
+Taxpayer’s proceeds of disposition of the property
+$510,000 x 21.7% =
+$110,670.00
+Adjusted cost base
+$695,000+$472.50=$695,472 x 21.7%=
+$150,917.53
+($40,247.53)
+Capital loss of Mr. Donaldson (39(1)(b) and 40(1)(b)) (50%)
+$20,124.00
+[42] At trial, the appellants also argued that Mr. Davidson should be entitled to claim the building and the land as a capital loss. I do not agree. A taxpayer is not entitled to claim a capital loss on the deemed disposition of a depreciable property by virtue of subparagraph 39(1)(b)(i) of the Act.
+[43] In addition, as stated by the respondent in his supplementary written submissions, which in my view correctly reflect the state of the law, the appellant cannot claim a capital loss on the building since:
+14. The building is not caught by any of the carve-outs from depreciable property found in at s. 1102 of the Income Tax Regulations, CRC, c 945. The Appellant and his spouse held the building for the purpose of owning rental income. If the deemed disposal had not occurred in September 2008, the Appellant would have been entitled to claim a capital cost allowance deduction in respect of the building for the 2008 taxation year pursuant to paragraph 20(1)(a) of the ITA.
+15. In Parelmutter [sic] v HMTQ, Justice Miller confirmed that disposal of a building held for the purpose of earning income resulted in a terminal loss rather than a capital loss.1
+16. The building is included as part of Class 1 of the capital cost allowance classes as set out in Schedule II to the Income Tax Regulations. Class 1 includes:
+(q) a building or other structure, or a part of it, including any component parts such as electric wiring, plumbing, sprinkler systems, air-conditioning equipment, heating equipment, lighting fixtures, elevators (except property described in any of paragraphs (k) and (m) to (p) of this Class or in any of paragraphs (a) to (e) of Class 8).
+17. The Appellant is not entitled to claim a capital loss in respect of the building. He is entitled to a terminal loss pursuant to subsection 20(16), calculated in accordance with the deemed disposition rules of paragraphs 13(7)(a) and (b).
+____________________
+1 Parelmutter [sic] v HMTQ, 2010 TCC 349(IP) at para 21; see also, Solomons v HMTQ, [2003] 2 CTC 2268, 2003 CanLII 604 (TCC) at para 10.
+[44] Therefore, the Minister was correct in determining that the capital loss that Mr. Donaldson could claim on the land was $20,124.
+CONCLUSION [45] The appeal of Ms. Donaldson is quashed, since she could not appeal from a nil assessment.
+[46] The appeal of Mr. Donaldson is allowed to reflect the error of calculation made by the Minister. Mr. Donaldson is therefore entitled to claim a terminal loss in the amount of $6,057.49 instead of $6,049.50. Mr. Donaldson is not entitled to any further relief.
+Signed at Ottawa, Canada, this 5th day of January 2016.
+“Johanne D’Auray”
+D’Auray J.
+CITATION:
+2016 TCC 5
+COURT FILE NO.:
+2013-1565(IT)I
+2013-1567(IT)I
+STYLE OF CAUSE:
+CRYSTAL DONALDSON v HER MAJESTY THE QUEEN
+WILLIAM DONALDSON v HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Calgary, Alberta
+DATE OF HEARING:
+June 2, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Johanne D’Auray
+DATE OF JUDGMENT:
+January 5, 2016
+APPEARANCES:
+Agent for the Appellant Chrystal Donaldson:
+William Donaldson
+For the Appellant William Donaldson:
+The Appellant himself
+Counsel for the Respondent
+Ian Wiebe
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

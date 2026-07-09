@@ -1,0 +1,383 @@
+---
+title: "Porisky c. Le Roi"
+source: "https://norma.lexum.com/tcc-cci/decisions/fr/item/521290/index.do"
+last_modified: "2024-06-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 84"
+citation2: ""
+neutral_citation: "2024 CCI 84"
+decision_date: "2024-06-07"
+language: "fr"
+item_id: "521290"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5503
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2026-05-14T09:00:26.773000+00:00"
+cases_cited_count: 5
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "55714ca92a547975463f6a0758809b2589574eb14e2da388bc67e8f015fc41ee"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Porisky c. Le Roi
+
+- Citation: 2024 CCI 84
+- Decision date: 2024-06-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5503, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Porisky c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-06-07
+Référence neutre
+2024 CCI 84
+Numéro de dossier
+2012-3460(IT)G, 2012-3462(GST)G, 2012-3782(IT)G
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2012-3460(IT)G
+2012-3462(GST)G
+2012-3782(IT)G
+ENTRE :
+RUSSELL ANTHONY PORISKY,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+2012-3459(IT)G
+ET ENTRE :
+ELAINE LOUISE GOULD,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+2012-3461(GST)G
+2012-3780(IT)G
+ET ENTRE :
+ELAINE LOUISE MADELINE GOULD,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+2012-3463(GST)G
+ET ENTRE :
+RUSSELL ANTHONY PORISKY, ELAINE LOUISE GOULD,
+appelants,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu du 22 au 24 novembre 2022, à Vancouver (Colombie-Britannique)
+Devant : l’honorable juge Susan Wong
+Comparutions :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocats de l’intimé :
+Me Mark Shearer
+Me Lalli Deol
+JUGEMENT MODIFIÉ
+L’appel de Mme Gould dans le dossier 2012-3780(IT)G est accueilli, comme l’a concédé l’intimé.
+L’appel de M. Porisky dans le dossier 2012-3782(IT)G est annulé.
+Les autres appels, à savoir 2012-3460(IT)G, 2012-3462(GST)G, 2012-3459(IT)G, 2012-3461(GST)G, et 2012-3463(GST)G, sont rejetés avec dépens.
+Les parties ont jusqu’au 1er octobre 2024 pour parvenir à une entente sur les dépens, faute de quoi l’intimé devra déposer des observations écrites au plus tard le 1er novembre 2024, et les appelants devront déposer leurs observations écrites en réponse au plus tard le 2 décembre 2024. Ces observations ne devront pas dépasser dix pages.
+Si les parties n’avisent pas la Cour qu’elles sont parvenues à une entente et si aucune observation n’est reçue avant ces dates, une seule série de dépens sera adjugée à l’intimé conformément au tarif B.
+Le présent jugement modifié remplace le jugement daté du 7 juin 2024.
+Signé à Ottawa, Canada, ce 18e jour de juillet 2024.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 8e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+Référence : 2024 CCI 84
+Date : Le 18 juillet 2024
+Dossiers : 2012-3460(IT)G
+2012-3462(GST)G
+2012-3782(IT)G
+ENTRE :
+RUSSELL ANTHONY PORISKY,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+2012-3459(IT)G
+ET ENTRE :
+ELAINE LOUISE GOULD,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+2012-3461(GST)G
+2012-3780(IT)G
+ET ENTRE :
+ELAINE LOUISE MADELINE GOULD,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+2012-3463(GST)G
+ET ENTRE :
+RUSSELL ANTHONY PORISKY, ELAINE LOUISE GOULD,
+appelants,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+La juge Wong
+I. Introduction/survol [1] De 2004 à 2008, les appelants ont diffusé l’opinion de M. Porisky sur la fiscalité et fait sa promotion sous l’appellation Paradigm Education Group auprès de membres intéressés du public. Le système Paradigm était fondé sur l’idée qu’il était possible d’interpréter les lois en matière d’impôt et de taxes de manière à se soustraire au paiement de l’impôt sur le revenu ou à la perception de la TPS.
+[2] Les appelants ont organisé des séminaires Paradigm animés par M. Porisky et ont vendu des billets pour y assister. Ils ont vendu des livres, des manuels de formation et des vidéos de Paradigm, en plus d’établir un mode de règlement des honoraires en cascade leur permettant de recevoir une partie des frais exigés par les éducateurs qui enseignaient la vision de Paradigm à des étudiants payants.
+[3] Au cours de la période de cinq ans visée par l’appel, les appelants ont réalisé un revenu brut de plus de 1,4 M$, sans déclarer de revenu, sans payer d’impôt sur le revenu et sans verser de TPS. Ils ont été reconnus coupables d’infractions criminelles en matière fiscale et ont purgé leur peine. Les présents appels portent sur les cotisations relatives aux activités de Paradigm.
+II. Questions à trancher [4] Les questions soulevées sont les suivantes :
+Questions concernant M. Porisky
+a)Déterminer s’il a gagné un revenu non déclaré totalisant 569 277 $ au cours des années d’imposition 2004 à 2008, soit la moitié du revenu net réalisé par Paradigm Education Group au cours de la période[1].
+b)Déterminer si le ministre du Revenu national (le « ministre »)a à juste titre imposé une pénalité à M. Porisky en vertu de l’article 162 de la Loi de l’impôt sur le revenu du fait que ce dernier a omis de produire ses déclarations de revenus de 2004 à 2008[2].
+c)Déterminer si le ministre a à juste titre imposé des pénalités pour faute lourde à l’égard de l’année 2004.
+d)Déterminer si elle a gagné un revenu non déclaré de 569 277 $ au cours des années d’imposition 2004 à 2008, soit la moitié du revenu net réalisé par Paradigm Education Group au cours de la période[3].
+e)Déterminer si le ministre a à juste titre imposé une pénalité à Mme Gould en vertu de l’article 162 de la Loi de l’impôt sur le revenu du fait que cette dernière a omis de produire ses déclarations de revenus de 2004 à 2008[4].
+f)Déterminer si, en tant que société de personnes, ils ont omis de percevoir et de verser une TPS nette totalisant 67 165,17 $ pour la période allant du 1er janvier 2004 au 31 décembre 2008[5].
+g)Déterminer si, en tant que société de personnes, ils ont omis de produire des déclarations de TPS pour la même période et étaient passibles de pénalités imposées en vertu de l’article 280.1 de la Loi sur la taxe d’accise[6].
+h)Déterminer si le ministre leur a à juste titre imposé en tant que société de personnes des pénalités pour faute lourde en vertu de l’article 285 de la Loi sur la taxe d’accise pour la même période[7].
+i)Déterminer si, à titre d’associés de la société de personnes, ils étaient solidairement responsables, en vertu du paragraphe 272.1(5) de la Loi sur la taxe d’accise, du défaut de la société de personnes de payer ou de verser la TPS nette, les pénalités et les intérêts, qui s’élevaient à 98 632,09 $[8].
+Questions concernant Mme Gould Questions concernant M. Porisky et Mme Gould III. Questions préliminaires [5] Au début de l’audience, l’intimé a informé la Cour qu’il concédait l’appel de Mme Gould dans le dossier 2012-3780(IT)G. L’intimé a également présenté une requête préliminaire en annulation de l’appel de M. Porisky dans le dossier 2012‑3782(IT)G parce qu’il visait la cotisation de Mme Gould.
+[6] La requête en annulation a été accueillie, parce que Mme Gould constitue l’appelante à l’égard de la cotisation dans le dossier 2012-3780(IT)G, ce que l’intimé a concédé en tout état de cause.
+[7] Le résumé des questions soulevées au paragraphe 2 des présents motifs ne comprend pas ces deux affaires, et les cinq autres appels ont été entendus sur la base de preuve commune.
+[8] À la fin de la présentation des éléments de preuve à l’audience, les appelants ont demandé à présenter leurs observations par écrit plutôt que par l’intermédiaire d’une plaidoirie. J’ai accédé à leur demande et j’ai seulement entendu la plaidoirie de l’intimé, après quoi la Cour a reçu en janvier 2023 les observations écrites des appelants et la réponse écrite de l’intimé.
+IV. Contexte factuel [9] M. Porisky et Mme Gould vivent ensemble comme conjoints de fait depuis environ 1998. Leur famille reconstituée compte sept enfants qui, en 2004, allaient de dix ans à de jeunes adultes.
+[10] Mme Gould a déclaré que les gens ont commencé à manifester de l’intérêt pour les idées de M. Porisky sur l’impôt sur le revenu vers l’an 2000. Une connaissance a organisé un séminaire très couru, ce qui les a motivés à disséminer ses idées plus souvent et à grande échelle.
+[11] En 2001, M. Porisky a fondé Paradigm Education Group, qui présentait des séminaires sur le régime fiscal canadien à des participants payants[9]. À l’heure actuelle, il travaille comme homme à tout faire et, avant de créer Paradigm, il travaillait dans le secteur de la construction.
+[12] M. Porisky a expliqué que, grâce à ses lectures exhaustives de la Loi de l’impôt sur le revenu et de la Loi sur la taxe d’accise depuis 1993, il avait observé que les contribuables présentaient une dualité. Il a relevé que ces lois décrivent les particuliers comme des personnes physiques et a conclu qu’il y avait des cas où les personnes physiques ne sont pas assujetties à l’impôt. Il a déclaré qu’il avait créé Paradigm parce que c’était son devoir de communiquer cette information et que les gens voulaient entendre ce qu’il avait à dire. Il a expliqué que, à ses yeux, l’impôt sur le revenu était en fait une taxe sur le travail entraînant une forme d’esclavage qui, à son tour, constituait un crime contre l’humanité.
+[13] M. Porisky a déclaré qu’une des différences mises de l’avant par Paradigm était celle entre la personne physique et la personne fictive. Il a ajouté que, selon son interprétation des définitions d’« entreprise » et d’« activité commerciale », une personne qui ne cherche pas à réaliser un profit ne serait pas tenue de payer l’impôt sur le revenu, et que l’impôt devenait une taxe sur le travail.
+[14] Il a déclaré qu’il était de son devoir de communiquer cette information dans les séminaires de Paradigm. Il a également mobilisé d’autres personnes pour l’aider à transmettre l’information et qu’il appelait « éducateurs ». Il a servi de mentor aux éducateurs qui ont, en retour, transmis l’information à des étudiants; ces derniers avaient ensuite le choix de devenir des éducateurs en vue d’aider d’autres personnes.
+[15] Il a déclaré que l’intérêt envers Paradigm a pris de l’ampleur et qu’il n’avait pas idée du nombre d’étudiants et d’éducateurs en 2004. Toutefois, il a reconnu au contre-interrogatoire que Paradigm avait enseigné à un total d’environ 800 étudiants.
+[16] De l’avis de M. Porisky, Paradigm n’était pas une entreprise ni une initiative commerciale, mais plutôt une obligation motivée par la passion. Il a déclaré que Paradigm ne comptait aucun employé et que seule Mme Gould l’aidait à l’occasion. Il a rappelé qu’à l’époque au moins trois des enfants étaient scolarisés à domicile et que Mme Gould gérait la maisonnée. Il passait de nombreuses heures à travailler sur Paradigm dans une pièce arrière de la maison, pendant qu’elle prenait soin de la famille.
+[17] Mme Gould lui donnait un coup de main lors des séminaires ainsi que pour emballer et expédier le matériel commandé par les éducateurs et les étudiants. M. Porisky se chargeait des appels téléphoniques destinés à Paradigm à la maison, mais si les appels concernaient des commandes de marchandises, il les transmettait à Mme Gould.
+[18] Les commandes étaient passées par téléphone, par courrier électronique ou en personne lors des séminaires. Mme Gould a déclaré qu’elle n’acceptait que les paiements par chèque ou comptant, car M. Porisky n’était pas équipé pour les achats par carte de crédit. Dans le cadre du traitement de commandes, Mme Gould s’occupait du paiement, remplissait les bons de commande, émettait les factures et expédiait les commandes. Mme Gould préparait et signait les factures qui indiquaient les articles vendus, le prix de vente et le montant total dû sans la TPS. Chaque facture comprenait une note mentionnant que la TPS ne s’appliquait pas conformément à l’alinéa 240(1)a) de la Loi sur la taxe d’accise[10]. Elle a expliqué que M. Porisky avait établi par ses recherches que, comme il n’était pas une entreprise, il n’y avait pas l’obligation de percevoir la TPS.
+[19] En plus des livres et des vidéos, M. Porisky a conçu des contrats de remboursement de la main-d’œuvre pour renforcer la distinction entre l’impôt sur le revenu et la taxe sur le travail, cette dernière étant interdite selon lui. Les étudiants assistaient à trois ou quatre présentations par an sur différents sujets et passaient des examens pour lesquels il avait rédigé des manuels d’étude. Les éducateurs et les étudiants pouvaient se procurer les livres, les vidéos, les manuels et les contrats.
+[20] M. Porisky a déclaré que Paradigm organisait également des séminaires et percevait de frais auprès des participants. Il agissait comme conférencier à la plupart de ces événements, car les éducateurs et les étudiants n’avaient pas les connaissances approfondies nécessaires. Il a soutenu qu’il était présent pour prendre la parole chaque fois qu’un éducateur souhaitait organiser un événement. Il se souvient d’avoir pris la parole à des séminaires en Ontario, en Alberta, en Saskatchewan et en Colombie-Britannique.
+[21] Mme Gould a déclaré qu’elle avait appliqué ce qu’elle avait appris lors du premier séminaire tenu par une de ses connaissances pour organiser par la suite les séminaires de Paradigm. L’éducateur repérait habituellement un lieu à l’extérieur de la ville et effectuait la réservation initiale, que Paradigm acquittait ensuite. Mme Gould a déclaré qu’elle s’occupait des modalités administratives et qu’elle assistait aux événements pour veiller à ce que tout se passe bien. En règle générale, c’est aussi elle qui signait le contrat pour la salle et se chargeait du paiement[11].
+[22] Les copies des contrats pour la salle et le traiteur montrent que Mme Gould était inscrite comme personne-ressource chez Paradigm et qu’elle signait les ententes[12]. Les noms de M. Porisky et de Mme Gould ensemble ou bien de Mme Gould seulement figuraient sur les affiches des séminaires comme personnes-ressources[13]. Elle a déclaré qu’en 2004, elle assistait à la plupart des séminaires à l’extérieur de la ville. Elle y emmenait parfois les enfants qui s’installaient avec elle à la table d’accueil.
+[23] Les participants achetaient les billets pour le séminaire à l’avance auprès d’un éducateur ou à la porte auprès de Mme Gould. En plus d’accueillir les gens à l’entrée, elle réalisait parfois l’enregistrement vidéo pour une distribution future sur DVD, bien que cette tâche ait été plus souvent exécutée par les éducateurs. Elle regardait ensuite avec les enfants les vidéos de M. Porisky afin de repérer les pépins techniques.
+[24] Les travaux d’impression des livres et des manuels de Paradigm étaient le fruit d’un effort commun; M. Porisky envoyait la commande à l’imprimeur et ils se rendaient ensemble chez l’imprimeur afin qu’il puisse charger le matériel dans le camion pendant qu’elle réglait le paiement par chèque.
+[25] Ils ont tous deux admis que les fonds reçus pour les activités de Paradigm étaient déposés en majorité ou en totalité dans leur compte conjoint. Mme Gould a déclaré qu’elle traitait le courrier de Paradigm avec le courrier de la maisonnée. Les chèques destinés à Paradigm étaient envoyés à leur domicile, elle les déposait dans leur compte conjoint et tenait un livret de dépôts. Elle a précisé que la banque lui avait remis un livret pour le suivi, car elle déposait régulièrement une grande quantité de chèques. Elle était également chargée de régler par chèque les coûts de Paradigm. Elle a déclaré que toutes les dépenses du ménage étaient payées par prélèvement sur le même compte conjoint.
+[26] Paradigm disposait d’un système de rémunération en cascade pour les éducateurs permettant aux éducateurs à la tête d’un groupe d’étude de recevoir la majeure partie des frais versés par les étudiants présents, tandis que Paradigm et le mentor de l’éducateur (M. Porisky) touchaient la tranche restante[14]. Au moment de soumettre leurs factures pour rémunération à Paradigm, les éducateurs ajoutaient parfois des explications à l’intention de M. Porisky et de Mme Gould[15].
+[27] Les éducateurs payaient intégralement ou par versements le mentorat de M. Porisky. Mme Gould tenait un registre des ententes de paiement qui pouvaient généralement atteindre 2 500 $ par éducateur[16]. Elle signait aussi chaque formulaire énonçant les dates d’échéance et le montant de chaque paiement d’une entente donnée[17].
+[28] M. Porisky a déclaré avoir produit une déclaration de revenus pour l’année 2004 en mars 2006, parce qu’il avait reçu une demande à cet effet de l’Agence du revenu du Canada. Autrement, il n’a pas produit d’autres déclarations puisque, selon lui, il n’était pas tenu de déclarer les montants qu’il avait reçus. Dans sa déclaration de 2004, il n’a déclaré aucun revenu ni aucun impôt à payer[18].
+[29] Mme Gould n’a produit aucune déclaration pour les années 2004 à 2008. Elle a affirmé qu’elle estimait ne pas travailler à l’extérieur de la maison, qu’elle ne gagnait aucun revenu imposable et qu’elle ne souhaitait pas bénéficier d’économies d’impôts. Elle a déclaré qu’elle avait choisi d’attendre que le ministre lui envoie une demande de production avant de produire une déclaration, mais elle n’a rien reçu.
+[30] En contre-interrogatoire, M. Porisky a déclaré qu’il ne contestait pas les montants qui font l’objet de cotisations, parce qu’ils étaient fondés sur des concepts qui ne s’appliquaient pas à sa situation. Il a expliqué qu’à son avis, Paradigm n’était pas une entreprise et qu’elle ne constituait donc pas une source de revenus pour les fins de l’impôt; par conséquent, il n’était pas nécessaire de déduire les dépenses d’entreprise ou de percevoir la TPS. Il a déclaré que Paradigm était une personne physique, parce qu’il était Paradigm, ainsi les entrées et les sorties d’argent se faisaient sur un compte personnel. Ils ont tous deux soutenu que Mme Gould travaillait bénévolement et qu’elle exécutait des tâches pour Paradigm pour son propre plaisir.
+[31] Le montant des cotisations établies à l’égard des appelants est réparti ainsi (compte non tenu des pénalités et intérêts)[19] :
+2004
+2005
+2006
+2007
+2008
+Total
+Revenu brut
+174 195,14 $
+317 419,08 $
+384 118,30 $
+328 271,04 $
+222 492,01 $
+1 426 495,50 $
+Dépenses déductibles
+88 422,03 $
+66 172,69 $
+40 343,46 $
+49 837,67 $
+43 166,78 $
+287 942,63 $
+Revenu net d’entreprise
+85 773,11 $
+251 246,39 $
+343 774,84 $
+278 433,38 $
+179 325,23 $
+1 138 552,90 $
+50 % de la part sociale
+42 886,55 $
+125 623,20 $
+171 887,42 $
+139 216,69 $
+89 662,62 $
+569 276,45 $
+TPS payable sur le revenu net d’entreprise
+5 611,32 $
+16 436,68 $
+20 817,49 $
+15 760,38 $
+8 539,30 $
+67 165,17 $
+[32] Le revenu brut a été calculé en fonction des chèques libellés à l’ordre de M. Porisky, de Mme Gould et de Paradigm[20]. Les dépenses refusées comprenaient notamment une unité en multipropriété à Las Vegas en 2006, 2007 et 2008, un achat d’or de 33 307 $ en 2005, un voyage familial à Disneyland en 2006, l’achat d’une maison en rangée à Chilliwack de 112 540 $ en 2005 et l’achat d’une maison à Chilliwack de 316 250 $ en 2007[21]. La maison en rangée et la maison étaient toutes deux enregistrées au nom de Mme Gould. Des taux différents de TPS ont été appliqués selon les années[22].
+[33] M. Porisky a travaillé à l’occasion sur des chantiers de construction de 2004 à 2008, mais il a reconnu qu’il subvenait aux besoins de sa famille grâce aux activités de Paradigm. Mme Gould a été assistante dentaire jusqu’en 1995 ou 1996, après quoi elle a travaillé dans un centre de jardinage jusqu’à la fin 1999 ou le début 2000.
+[34] M. Porisky et Mme Gould ont été déclarés coupables d’évasion fiscale par un jury en application de l’article 239 de la Loi de l’impôt sur le revenu. De plus, M. Porisky a été trouvé coupable de fraude en matière de conseil en vertu de l’article 464 du Code criminel et d’évasion de la TPS en vertu de l’article 327 de la Loi sur la taxe d’accise. Il a écopé d’une peine d’emprisonnement de cinq ans et demi et d’une amende totale de 259 482,33 $ pour évasion de l’impôt sur le revenu et de la TPS, tandis que Mme Gould a été condamnée à une peine d’emprisonnement de six mois et à une amende de 38 241,72 $ pour évasion fiscale. Leur revenu a été réparti à raison d’un ratio 80 % - 20 %, fondée sur la conclusion selon laquelle la participation de Mme Gould au stratagème d’évasion fiscale s’élevait à 20 %, tandis que celle de M. Porisky s’établissait à 80 %[23].
+V. Cadre juridique – Source de revenus tirés d’une entreprise (impôt sur le revenu) [35] Il est bien établi qu’aux fins de la Loi de l’impôt sur le revenu, il doit y avoir une source de revenus pour qu’un revenu soit déclaré au cours d’une année d’imposition[24]. Lorsque la source de revenus est une entreprise, le revenu d’un contribuable pour une année d’imposition donnée est le bénéfice qu’il tire de cette entreprise au cours de l’année en question[25].
+[36] Le critère décisif pour déterminer s’il existe une source de revenus reste la méthode à deux volets définie par la Cour suprême du Canada dans l’arrêt Stewart[26], soit :
+(i)L’activité du contribuable est-elle exercée en vue de réaliser un profit, ou s’agit-il d’une démarche personnelle[27]?
+En d’autres termes, le contribuable a-t-il l’intention d’exercer l’activité dans un but lucratif et existe-t-il des preuves objectives de cette intention subjective[28]? Le contribuable doit établir que son intention prédominante était de tirer profit de l’activité et que cette activité a été exercée conformément à des normes objectives de comportement d’homme d’affaires sérieux[29].
+(ii)S’il ne s’agit pas d’une démarche personnelle, la source du revenu est-elle une entreprise ou un bien[30]?
+[37] Lorsqu’une activité : a) semble être manifestement commerciale, b) ne contient aucun élément personnel ou récréatif, et c) que la preuve étaye la thèse selon laquelle l’activité est exercée dans le but de réaliser un profit, alors une source de revenus existe aux fins de la Loi[31]. Toutefois, lorsque l’activité peut être qualifiée de personnelle, il faut alors déterminer si cette activité est ou non exercée d’une manière suffisamment commerciale pour constituer une source de revenus[32].
+VI. Analyse et discussion – Source de revenus tirés d’une entreprise (impôt sur le revenu) a) L’activité du contribuable était-elle exercée en vue de réaliser un profit, ou s’agissait-il d’une démarche personnelle? [38] En plus de s’appuyer sur les idées de M. Porisky relatives à la fiscalité pour orienter leurs propres décisions fiscales, les appelants ont vendu l’information à des acheteurs intéressés sous forme de séminaires, de vidéos, de livres et de manuels. Ils ont érigé un système pyramidal de rémunération en cascade leur permettant de toucher un pourcentage des sommes reçues par les éducateurs, même lorsque les appelants ne jouaient pas un rôle direct auprès d’un groupe d’étudiants.
+[39] Au cours de la période de cinq ans faisant l’objet de l’appel, les appelants ont tiré un revenu brut de plus de 1,4 M$ de ces activités et, à l’exception de quelques travaux de construction effectués à l’occasion par M. Porisky, ils n’avaient pas d’autre source de revenus. Au cours de cette période, ils ont utilisé ces revenus pour payer tous les aspects de leur vie, y compris l’achat (entre autres) d’une unité en multipropriété à Las Vegas, d’une maison en rangée, d’une deuxième maison, d’or et de vacances familiales à Disneyland.
+[40] Le séminaire qu’a organisé une connaissance de Mme Gould vers l’an 2000 pour sonder l’intérêt envers les idées de M. Porisky sur la fiscalité peut être considéré comme la phase de démarrage. Dès que les appelants ont compris qu’il y avait un vif intérêt, ils ont commercialisé l’information et érigé un système afin d’en tirer des revenus.
+[41] Il est clair qu’en 2004 Paradigm exerçait une activité lucrative d’une manière conforme aux normes objectives d’un comportement commercial. Par exemple, les appelants ont fait de la publicité pour les séminaires, directement ou par l’intermédiaire des éducateurs de Paradigm, ils ont vendu des billets pour ces séminaires, ils ont réservé et réglé les salles pour y tenir les séminaires, ils ont commercialisé et vendu du matériel de formation par la poste et par téléphone, et ils ont établi un système de rémunération en cascade grâce auquel ils sont parvenus à se tailler la part du lion des bénéfices.
+[42] Les appelants proposent une interprétation alambiquée et vertigineuse des lois fiscales qui s’appuie sur la sémantique pour affirmer que la Loi de l’impôt sur le revenu et la Loi sur la taxe d’accise ne s’appliquent pas à leur situation. Toutefois, leur affirmation selon laquelle M. Porisky était Paradigm veut seulement dire que Paradigm n’était pas constituée en société.
+[43] Par conséquent, Paradigm était une source de revenus pour les appelants.
+b) S’il ne s’agit pas d’une démarche personnelle, la source du revenu est-elle une entreprise ou un bien? [44] Les revenus de Paradigm provenaient de la vente des idées de M. Porisky par l’intermédiaire d’un système conçu par les appelants pour faciliter la promotion et la distribution de ces idées moyennant rétribution. Compte tenu des opinions passionnées de M. Porisky sur le sujet, je qualifierais Paradigm de « métier » ou d’« activités de quelque genre que ce soit » au sens de la définition du terme « entreprise »[33].
+[45] Pour ce qui est du montant, les appelants n’ont présenté aucun élément de preuve à l’encontre du montant des cotisations, ainsi les hypothèses du ministre à cet égard n’ont pas été réfutées.
+VII. Cadre juridique – Société de personnes (impôt sur le revenu) [46] La Partnership Act de la Colombie-Britannique établit qu’une société de personnes est [traduction] « la relation qui existe entre des personnes qui exploitent une entreprise en commun en vue de réaliser un bénéfice »[34]. De plus, la réception par une personne d’une quote-part des bénéfices d’une entreprise constitue la preuve, en l’absence de preuve contraire, qu’elle est une associée dans l’entreprise[35].
+[47] Pour qu’il y ait une société de personnes aux fins de l’impôt, la définition de « société de personnes » par la province doit être respectée[36]. Les trois mêmes éléments sont jugés essentiels par les ressorts de common law : a) une entreprise, b) exploitée en commun, et c) en vue de réaliser un bénéfice[37].
+[48] Pour ce qui est de la répartition, il faut partir du principe que les associés détiennent des intérêts égaux, sous réserve d’une convention explicite ou implicite[38]. De plus, l’attribution d’une participation dans une société de personnes fondée sur des critères liés à l’entreprise (comme le travail accompli, le capital investi) se justifie lorsque des membres de la famille immédiate, représentant une entité économique unique, à savoir un conjoint ou des enfants, sont en cause et que la planification fiscale semble être un facteur clé de l’attribution[39].
+VIII. Analyse et discussion – Société de personnes (impôt sur le revenu) [49] J’ai déjà traité les points a) et c) dans ma discussion sur la source de revenus tirés d’une entreprise et j’y ai répondu par l’affirmative.
+[50] Pour ce qui est de savoir si l’entreprise était exploitée en commun, il ressort clairement de la preuve que M. Porisky était l’auteur de l’opinion relative à la fiscalité (telle qu’elle était commercialisée par Paradigm). Toutefois, il apparaît également que Mme Gould était principalement chargée de tout l’aspect administratif de l’opération.
+[51] Lors des séminaires, Mme Gould était la personne-ressource dans les contrats pour la réservation et les services de traiteur. Elle assistait à la plupart des séminaires à l’extérieur de la ville et accueillait les participants à l’entrée, tout en acceptant le paiement des billets. Elle recevait, traitait et expédiait les commandes de marchandises. Elle tenait un registre des versements échelonnés dus par les éducateurs pour le mentorat de M. Porisky et réglait par chèque les dépenses de Paradigm. Enfin, toutes les entrées et sorties d’argent de Paradigm se faisaient à partir du compte conjoint des appelants et Mme Gould effectuait toutes les opérations bancaires.
+[52] La répartition des tâches entre les appelants montre qu’ils ont exploité l’entreprise en commun. Par conséquent, ils étaient des associés dans Paradigm.
+[53] Les sanctions pénales infligées aux appelants ont appliqué une répartition selon un ratio 80 % - 20 % entre M. Porisky et Mme Gould; toutefois, cette répartition était fondée sur leur culpabilité criminelle, dans la mesure où M. Porisky était l’auteur des idées sur la fiscalité (ayant mené à l’évasion).
+[54] Pour les fins de l’impôt, les facteurs à considérer sont liés à l’entreprise au moment de déterminer la participation dans une société de personnes. Les appelants sont des conjoints représentant une entité économique[40]. Tout le revenu de Paradigm était déposé dans leur compte conjoint, mais la maison en rangée et la maison ont été achetées au seul nom de Mme Gould. Les appelants ont déclaré que les fonds utilisés pour acheter ces propriétés en 2005 et en 2007 provenaient des activités de Paradigm, mais qu’il s’agissait d’un cadeau de M. Porisky pour Mme Gould.
+[55] Selon toutes probabilités, bien que les appelants se soient soustraits à leurs obligations fiscales en se fondant sur leur interprétation erronée des lois en matière d’impôt et de taxe, il semble qu’ils aient aussi tenté de se livrer à des opérations de planification fiscale en mettant la maison en rangée et la maison au nom de Mme Gould et en qualifiant l’argent pour l’achat de cadeau. Si M. Porisky a été l’auteur des idées sur la fiscalité et qu’il a été le premier à y croire, il ressort clairement du témoignage de Mme Gould qu’elle a aussi fini par y croire.
+[56] Il n’y avait aucune preuve portant à croire que notre Cour doive déroger au principe de partenariat à parts égales. Par conséquent, les appelants étaient des partenaires à parts égales dans Paradigm et le revenu a été attribué de manière appropriée entre eux.
+IX. Cadre juridique – Faute lourde (impôt sur le revenu) [57] Le paragraphe 163(2) de la Loi de l’impôt sur le revenu précise que :
+163. (2) Faux énoncés ou omissions – Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité [...]
+[58] La faute lourde représente un cas de négligence plus grave qu’un défaut de prudence raisonnable. Il y a un degré important de négligence qui correspond à une action délibérée et à une indifférence au respect de la loi[41].
+X. Analyse et discussion – Faute lourde (impôt sur le revenu) [59] M. Porisky n’a déclaré aucun revenu ni impôt à payer dans sa déclaration de 2004, tout en sachant que : a) Mme Gould et lui ont tiré un revenu brut de 174 195 $ des activités Paradigm cette année-là, b) il n’avait qu’un revenu nul ou négligeable d’une autre source, et c) le revenu de Paradigm servait à financer son mode de vie et celui de sa famille.
+[60] Ses idées sur la fiscalité l’ont amené à conclure que les activités de Paradigm ne relevaient pas de la Loi de l’impôt sur le revenu. Que sa croyance ait été sincère ou non, sa décision de ne pas déclarer le revenu de Paradigm constituait un faux énoncé ou une omission. Soit il a fait preuve d’indifférence au respect de la loi, soit il a délibérément choisi de ne pas s’y conformer. Cet élément est au cœur de la faute lourde.
+XI. Cadre juridique – Pénalités pour défaut de déclaration (impôt sur le revenu) [61] Selon le paragraphe 162(1) de la Loi de l’impôt sur le revenu, toute personne qui ne produit pas de déclaration de revenus pour une année d’imposition selon les modalités et dans le délai prévus est passible d’une pénalité. En fonction des circonstances particulières (c’est-à-dire une déclaration tardive par opposition à l’absence de déclaration), cette pénalité est appelée pénalité pour production tardive ou pénalité pour défaut de déclaration. Il s’agit néanmoins de la même pénalité.
+[62] La pénalité en cas de récidive prévue au paragraphe 162(2) est assortie d’un plus grand nombre de conditions préalables, en particulier : a) la personne qui ne produit pas de déclaration de revenus pour une année d’imposition selon les modalités et dans le délai prévus, b) le ministre lui a fait parvenir une demande de production, et c) une pénalité est imposée pour défaut de production d’une déclaration conformément au paragraphe 162(1) pour une des trois années d’imposition précédentes.
+XII. Analyse et discussion – Pénalités pour défaut de déclaration (impôt sur le revenu) [63] Les éléments de preuve fournis par les appelants montrent clairement que la seule déclaration produite pour l’année d’imposition 2004 est celle faite par M. Porisky en 2006, après réception d’une demande de production du ministre. M. Porisky a reconnu en contre-interrogatoire qu’il n’avait pas produit de déclarations pour les années 2005 à 2008. Mme Gould a déclaré qu’elle entendait produire une déclaration qu’après réception d’une demande de production du ministre; elle n’a rien reçu et n’a donc pas produit de déclarations pour les années 2004 à 2008.
+[64] Les actes de procédure[42] et les observations de l’intimé mentionnent les pénalités pour défaut de déclaration en application des paragraphes 162(1) et (2), sans établir de distinction entre le défaut de produire une déclaration (ou la production tardive) et la récidive. Hormis la demande envoyée à M. Porisky pour qu’il produise sa déclaration de 2004, il n’y a pas la moindre mention des conditions préalables requises pour imposer une pénalité en cas de récidive du défaut de déclaration. Bien que je n’aie pas abordé cette question avec l’avocat au cours de l’audience, il est évident que les pénalités ont été imposées en vertu du paragraphe 162(1) et que les conditions ont été remplies.
+XIII. Cadre juridique – TPS non versée [65] Toute fourniture taxable effectuée au Canada est assujettie à la TPS[43]. Sous réserve de certaines exceptions qui ne s’appliquent pas au présent appel, une « fourniture » désigne une livraison de biens ou prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation[44]. Je n’ai énuméré que les exemples les plus pertinents d’inclusions. Une « fourniture taxable » est définie à son tour comme une fourniture effectuée dans le cadre d’une activité commerciale[45].
+[66] Aux fins du présent appel, on entend par « activité commerciale » une entreprise, un projet à risque ou une affaire de caractère commercial[46]. Une « entreprise » comprend :
+les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois[47].
+Cette définition est plus exhaustive que son équivalent dans la Loi de l’impôt sur le revenu et ne se préoccupe pas de savoir si l’activité est motivée par la recherche d’un profit.
+[67] Pour les motifs déjà évoqués concernant la source de revenus tirés d’une entreprise, l’exploitation de Paradigm par les appelants représentait à la fois une entreprise et une activité commerciale au sens de la Loi sur la taxe d’accise. Ils fournissaient des services qui comprenaient principalement des séminaires et du mentorat, de même que des produits, comme des manuels de formation, des livres et des vidéos.
+[68] Ni les produits ni les services n’étaient des fournitures exonérées ou détaxées aux termes des annexes V et VI de la Loi sur la taxe d’accise, respectivement. Par conséquent, il s’agissait de fournitures taxables au taux prescrit pour les périodes visées par l’appel, et les appelants étaient tenus de percevoir et de verser la TPS s’y rapportant.
+[69] Pour les motifs déjà évoqués concernant la société de personnes pour les fins de l’impôt sur le revenu, les appelants ont aussi exploité Paradigm en tant que société de personnes à parts égales aux fins du calcul de la TPS. Étant donné que les fournitures dépassaient le seuil de petit fournisseur de 30 000 $[48] par an (c’est-à-dire quatre trimestres) et qu’une société de personnes est une « personne » au sens de la Loi sur la taxe d’accise[49], les appelants étaient tenus d’inscrire leur société de personnes aux fins de la TPS.
+[70] Pour ce qui est du montant, les appelants n’ont présenté aucun élément de preuve à l’encontre du montant des cotisations, ainsi les hypothèses du ministre à cet égard n’ont pas été réfutées.
+XIV. Cadre juridique – Pénalités pour défaut de déclaration (TPS) [71] Selon l’article 280.1 de la Loi sur la taxe d’accise, quiconque omet de produire une déclaration pour une période de déclaration selon les modalités et dans le délai prévus est passible d’une pénalité. En fonction des circonstances particulières (c’est-à-dire une déclaration tardive par opposition à l’absence de déclaration), cette pénalité est appelée pénalité pour production tardive ou pénalité pour défaut de déclaration. Il s’agit néanmoins de la même pénalité.
+[72] Les appelants n’ont pas produit de déclarations de TPS parce qu’ils étaient d’avis que les obligations prévues dans la Loi sur la taxe d’accise ne s’appliquaient pas aux activités de Paradigm. Pour les motifs déjà évoqués concernant la TPS non versée, ils étaient tenus de produire des déclarations en tant que société de personnes réalisant des fournitures taxables dans le cadre de leurs activités commerciales. Comme ils ne l’ont pas fait, les conditions de l’article 280.1 sont remplies.
+XV. Cadre juridique – Faute lourde (TPS) [73] L’article 285 de la Loi sur la taxe d’accise est ainsi libellé :
+285. [Pénalité pour faute lourde] Faux énoncés ou omissions – Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, une demande, un formulaire, un certificat, un état, une facture ou une réponse — appelés « déclaration » au présent article — établi pour une période de déclaration ou une opération, ou y participe, y consent ou y acquiesce, est passible d’une pénalité [...]
+[74] À l’exception d’un changement de temps de verbe et du recours à la terminologie propre à la TPS, le libellé de cette disposition est identique à celui de la disposition relative à la faute lourde dans la Loi de l’impôt sur le revenu. Les principes et les seuils appliqués restent donc les mêmes.
+[75] Comme pour l’impôt sur le revenu, la faute lourde représente un cas de négligence plus grave qu’un défaut de prudence raisonnable. Il y a un degré important de négligence qui correspond à une action délibérée et à une indifférence au respect de la loi[50].
+XVI. Analyse et discussion – Faute lourde (TPS) [76] Dans le cadre des activités de Paradigm, les appelants ont réalisé la fourniture de produits et de services et ont reçu un paiement de la part des acquéreurs. De 2004 à 2008, ils ont généré un revenu brut allant de 174 195 $ en 2004 à 384 118 $ en 2006, pour un total de plus de 1,4 M$ sur la période de cinq ans. Un part négligeable de leur revenu provenait d’autres sources, et le mode de vie de leur famille était financé par le revenu de Paradigm.
+[77] Les situations d’exonération de la TPS sont rares, et l’obligation de percevoir et de verser la TPS est la règle par défaut en vertu de la Loi sur la taxe d’accise. Les appelants se sont appuyés sur les idées de M. Porisky sur la fiscalité pour conclure que les activités de Paradigm ne relevaient pas de la Loi sur la taxe d’accise. La nature de ces idées est suffisamment illogique et déraisonnable pour que leur décision de ne pas s’inscrire aux fins de la TPS, de ne pas collecter, verser ou déclarer la TPS soit considérée comme une omission coupable. Ils ont fait preuve d’indifférence au respect de la loi ou ont choisi délibérément de ne pas s’y conformer. En fait, les factures pour leurs produits indiquaient que la TPS ne s’appliquait pas conformément à l’alinéa 240(1)a) qui porte sur l’inscription.
+[78] Par conséquent, les appelants, en tant que société de personnes, ont fait preuve d’une faute lourde aux fins de la TPS.
+XVII. Cadre juridique – Responsabilité solidaire des associés (TPS) [79] Le paragraphe 272.1(5) de la Loi sur la taxe d’accise précise qu’une société de personnes et chacun de ses associés (anciens ou actuels) sont solidairement responsables du paiement ou du versement des montants dus par la société de personnes et de toutes les autres obligations survenues pendant que l’associé est un associé de la société de personnes[51].
+XVIII. Analyse et discussion – Responsabilité solidaire des associés (TPS) [80] J’ai déjà conclu que les appelants étaient une société de personnes au cours des années visées par l’appel; par conséquent. ils sont solidairement responsables des montants dus par la société de personnes au cours de cette période.
+XIX. Autres – Nouvelles questions soulevées dans les observations écrites des appelants [81] Dans leurs observations écrites, les appelants cherchaient à introduire un argument relatif à la Charte et à présenter des copies de la correspondance qui n’avait pas été présentée lors de l’audience.
+[82] Je dois refuser d’examiner ces deux éléments : a) en ce qui concerne les questions constitutionnelles, il existe un protocole à suivre qui prévoit des exigences en matière d’avis, qui sont préalables à l’audience des appels[52], et b) en ce qui concerne la correspondance, il s’agit d’un nouvel élément de preuve qui ne peut pas être introduit après la conclusion de l’audience.
+XX. Conclusion [83] L’appel de Mme Gould portant le numéro 2012-3780(IT)G est accueilli, comme l’a concédé l’intimé.
+[84] L’appel de M. Porisky portant le numéro 2012-3782(IT)G est annulé.
+[85] Les autres appels, à savoir 2012-3460(IT)G, 2012-3462(GST)G, 2012-3459(IT)G, 2012-3461(GST)G, et 2012-3463(GST)G, sont rejetés.
+[86] Compte tenu du gain substantiel remporté par l’intimé, il a droit aux dépens.
+[87] Les parties ont jusqu’au 1er octobre 2024 pour parvenir à une entente sur les dépens, faute de quoi l’intimé devra déposer des observations écrites au plus tard le 1er novembre 2024, et les appelants devront déposer leurs observations écrites en réponse au plus tard le 2 décembre 2024. Ces observations ne devront pas dépasser dix pages.
+[88] Si les parties n’avisent pas la Cour qu’elles sont parvenues à une entente et si aucune observation n’est reçue avant ces dates, une seule série de dépens sera adjugée à l’intimé conformément au tarif B.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement datés du 7 juin 2024.
+Signé à Ottawa, Canada, ce 18e jour de juillet 2024.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+ce 8e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+RÉFÉRENCE :
+2024 CCI 84
+NOS DES DOSSIERS DE LA COUR :
+2012-3460(IT)G, 2012-3462(GST)G, 2012-3782(IT)G, 2012-3459(IT)G, 2012-3461(GST)G, 2012-3780(IT)G et 2012-3463(GST)G
+INTITULÉ :
+RUSSELL ANTHONY PORISKY ET AUTRES c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Du 22 au 24 novembre 2022
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 7 juin 2024
+COMPARUTIONS :
+Pour les appelants :
+Les appelants eux-mêmes
+Avocats de l’intimé :
+Me Mark Shearer
+Me Lalli Deol
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Réponse à l’avis d’appel dans le dossier 2012-3460(IT)G, par. 11n) et o).
+[2] Réponse à l’avis d’appel dans le dossier 2012-3460(IT)G, par. 5 à 8.
+[3] Réponse à l’avis d’appel dans le dossier 2012-3459(IT)G, par. 9n) et o).
+[4] Réponse à l’avis d’appel dans le dossier 2012-3459(IT)G, par. 5 et 6.
+[5] Réponse à l’avis d’appel dans le dossier 2012-3463(GST)G, par. 7(i).
+[6] Réponse à l’avis d’appel dans le dossier 2012-3463(GST)G, par. 9 et 12.
+[7] Réponse à l’avis d’appel dans le dossier 2012-3463(GST)G, par. 4 et 8.
+[8] Réponse à l’avis d’appel dans le dossier 2012-3462(GST)G, par. 5 et 6; Réponse à l’avis d’appel dans le dossier 2012-3461(GST)G, par. 5 et 6.
+[9] Réponse à l’avis d’appel dans le dossier 2012-3460(IT)G, par. 11a); Réponse à l’avis d’appel dans le dossier 2012-3459(IT)G, par. 9b).
+[10] Pièce R-1, onglet 21.
+[11] Pièce R-1, onglet 23.
+[12] Pièce R-1, onglet 23.
+[13] Pièce R-1, onglet 24.
+[14] Pièce R-1, onglet 26.
+[15] Pièce R-1, onglet 26.
+[16] Pièce R-1, onglet 27.
+[17] Pièce R-1, onglet 27.
+[18] Pièce R-1, onglet 1.
+[19] Pièce R-1, onglet 10.
+[20] Pièce R-1, onglet 10.
+[21] Pièce R-1, onglet 10.
+[22] Pièce R-1, onglet 10.
+[23] R v. Gould, 2016 BCSC 1757.
+[24] Loi de l’impôt sur le revenu, art. 3; Canada c. Paletta (Succession), 2022 CAF 86, par. 30.
+[25] Loi de l’impôt sur le revenu, par. 9(1); Canada c. Paletta (Succession), 2022 CAF 86, par. 31.
+[26] Stewart c. Canada, 2002 CSC 46.
+[27] Stewart c. Canada, 2002 CSC 46, par. 50.
+[28] Stewart c. Canada, 2002 CSC 46, par. 54.
+[29] Stewart c. Canada, 2002 CSC 46, par. 54.
+[30] Stewart c. Canada, 2002 CSC 46, par. 50.
+[31] Canada c. Paletta (Succession), 2022 CAF 86, par. 36; Stewart c. Canada, 2002 CSC 46, par .60.
+[32] Stewart c. Canada, 2002 CSC 46, par. 60.
+[33] Loi de l’impôt sur le revenu, par. 248(1), définition de « entreprise ».
+[34] Partnership Act, R.S.B.C. 1996, ch. 348, art. 2.
+[35] Partnership Act, R.S.B.C. 1996, ch. 348, al. 4c).
+[36] Backman c. Canada, 2001 CSC 10, par. 17.
+[37] Continental Bank Leasing Corp c. Canada, [1998] 2 R.C.S. 298, par. 22; Backman c. Canada, 2001 CSC 10, par. 18.
+[38] Loi de l’impôt sur le revenu, art. 103; Partnership Act, R.S.B.C. 1996, ch. 348, al. 27a).
+[39] Paajanen c. La Reine, 2011 CCI 310, par. 19 et 20.
+[40] Paajanen c. La Reine, 2011 CCI 310, par. 20.
+[41] Venne c. Canada, [1984] A.C.F. no 314 (C.F., 1re inst.), par. 28.
+[42] Réponse à l’avis d’appel dans le dossier 2012-3460(IT)G, par. 7, 8, 13 et 19; Réponse à l’avis d’appel dans le dossier 2012-3459(IT)G, par 6, 11 et 14.
+[43] Loi sur la taxe d’accise, par. 165(1).
+[44] Loi sur la taxe d’accise, par. 123(1), définition de « fourniture ».
+[45] Loi sur la taxe d’accise, par. 123(1), définition de « fourniture taxable ».
+[46] Loi sur la taxe d’accise, par. 123(1), définition d’« activité commerciale ».
+[47] Loi sur la taxe d’accise, par. 123(1), définition d’« entreprise ».
+[48] Loi sur la taxe d’accise, par. 148(1).
+[49] Loi sur la taxe d’accise, par. 123(1), définition de « personne ».
+[50] Venne c. Canada, [1984] A.C.F. no 314 (C.F., 1re inst.), par. 37.
+[51] Loi sur la taxe d’accise, par. 272.1(5).
+[52] Loi sur la Cour canadienne de l’impôt, art. 19.2; Règles de la Cour canadienne de l’impôt (procédure générale), art. 61.1.

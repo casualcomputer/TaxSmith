@@ -1,0 +1,439 @@
+---
+title: "Sugnanam v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31230/index.do"
+last_modified: "2013-07-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 TCC 189"
+citation2: ""
+neutral_citation: "2013 TCC 189"
+decision_date: "2013-07-05"
+language: "en"
+item_id: "31230"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5135
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:01:25.410000+00:00"
+cases_cited_count: 8
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "27e6fc5b2c5b9be0e28b6137fd3d9da2c900f7d14791affa837fdded93f191d2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sugnanam v. The Queen
+
+- Citation: 2013 TCC 189
+- Decision date: 2013-07-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5135, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sugnanam v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2013-07-05
+Neutral citation
+2013 TCC 189
+File numbers
+2008-1538(IT)I, 2008-3815(IT)I
+Judges and Taxing Officers
+Johanne D’Auray
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1538(IT)I
+BETWEEN:
+SOBHANADRI NAIDU SUGNANAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeal of
+Esesson Canada Inc. (2008-3815(IT)I) on June 25 and 26, 2012 at Calgary, Alberta, and on January 21, 2013 by conference call
+at Ottawa, Ontario.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Cynthia Isenor
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is dismissed, without costs.
+The appeal from the reassessment made under the Income Tax Act for the 2003 taxation year is allowed, without costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that Mr. Sugnanam is entitled to deduct an amount of $257.60 for his professional association membership fees.
+The filing fee of $100 shall be reimbursed to the appellant.
+Signed at Montreal, Quebec, this 5th day of July 2013.
+“Johanne D’Auray”
+D'Auray J.
+Docket: 2008-3815(IT)I
+BETWEEN:
+ESESSON CANADA INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Sobhanadri Naidu Sugnanam (2008-1538(IT)I) on June 25 and 26, 2012
+at Calgary, Alberta, and on January 21, 2013 by conference call
+at Ottawa, Ontario.
+Before: The Honourable Justice Johanne D'Auray
+Appearances:
+Agent for the Appellant:
+Sobhanadri Naidu Sugnanam
+Counsel for the Respondent:
+Cynthia Isenor
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2002 taxation year is allowed, without costs, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to deduct the following amounts:
+· $445.24 for motor vehicle expenses;
+· $568.58 for property taxes;
+· $1,711.19 for travel expenses;
+· $3,541.37 for repairs and maintenance;
+· $672.35 for office expenses.
+The filing fee of $100 shall be reimbursed to the appellant.
+The appellant will not be entitled to any further relief.
+Signed at Montreal, Quebec, this 5th day of July 2013.
+“Johanne D’Auray”
+D'Auray J.
+Citation: 2013 TCC 189
+Date: 20130705
+Docket: 2008-1538(IT)I
+BETWEEN:
+SOBHANADRI NAIDU SUGNANAM,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Docket: 2008-3815(IT)I
+BETWEEN:
+ESESSON CANADA INC.
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+D'Auray J.
+[1] The appeals of Mr. Sobhanadri Naidu Sugnanam (“Mr. Sugnanam”) and Esesson Canada Inc. (“Esesson”) were heard on common evidence.
+Questions to be decided
+[2] The question to be decided in the appeal of Esesson is whether the expenses incurred by it in the 2002 taxation year were incurred for the purpose of gaining or producing income within the meaning of subsection 9(1) and paragraph 18(1)(a) of the Income Tax Act (the “Act”).
+[3] The questions to be decided in the appeals of Mr. Sugnanam are whether he was entitled to deduct motor vehicle expenses in the amount of $7,607.62 for the 2002 taxation year pursuant to paragraph 8(1)(h.1) of the Act, and whether he was entitled to deduct an amount of $8,090.06 for the 2003 taxation year as a professional business loss pursuant to subsection 9(1) of the Act or employment expenses under paragraphs 8(1)(h) and 8(1)(h.1) and subsections 8(2) and 8(10) of the Act.
+Esesson’s appeal
+[4] Esesson Canada Inc. was incorporated on June 4, 2001.
+[5] Esesson was in the consulting business. According to the testimony of Mr. Sugnanam, Esesson provided medical services (50%) and engineering services (50%). The respondent’s position is that Esesson only provided engineering services.
+[6] Mr. Sugnanam and his spouse, Dr. Nirmala Naidu Sugnanam (“Dr. Sugnanam”), were both directors and shareholders of Esesson, each owning 50% of its shares.
+[7] Mr. Sugnanam was Esesson’s manager and only employee. He is an engineer specializing in the field of oil exploration. Dr. Sugnanam is a gynaecologist.
+[8] In 2001, Mr. Sugnanam was employed by Acres International, a firm based in Calgary, to perform services relating to the White Rose oil project in St. John’s, Newfoundland.
+[9] From January 2002 to June 2002, Mr. Sugnanam continued to perform engineering services for Acres International on the White Rose project in St. John’s. The only difference was the incorporation of Esesson. Mr. Sugnanam became an employee of Esesson, and Acres International paid Esesson for the work performed by Mr. Sugnanam. It was Esesson’s only source of income for the 2002 taxation year.
+[10] Five related appeals were filed before this Court. Esesson and Mr. Sugnanam’s appeals were filed under the informal procedure. Dr. Sugnanam’s appeals were filed under the general procedure.
+[11] The five appeals were case managed by Justice Woods of this Court.
+· On June 18, 2010, Justice Woods ordered that the appeals of Esesson and Mr. Sugnanam be heard with the appeal of Dr. Sugnanam and granted Mr. Sugnanam leave to act as agent of Esesson.
+· On April 12, 2012, Justice Woods ordered that each party provide the opposing party with a copy of the documents that the party intended to introduce at trial, and that they do so by May 11, 2012.
+· On May 7, 2012, Justice Woods extended the time for the exchange of documents until May 18, 2012.
+[12] In the appeal of Dr. Sugnanam, on May 4, 2012, Consent to Judgment was filed with the Court. On May 15, 2012, a judgment was issued by this Court.
+[13] As part of the settlement, Dr. Sugnanam agreed to the removal from Esesson of all the income and expenses relating to her medical practice. Accordingly, the Minister of National Revenue (the “Minister”) allowed Dr. Sugnanam additional expenses of $81,467.81 for the 2002 taxation year and $27,713.16 for the 2003 taxation year.
+[14] Esesson did not agree with the removal of Dr. Sugnanam’s medical practice from Esesson. Mr. Sugnanam stated that he was not aware of the terms of the Consent to Judgment signed by his spouse, Dr. Sugnanam.
+[15] On June 11, 2012, two weeks prior to the hearing, Mr. Sugnanam submitted to the Court an amended notice of appeal for Esesson. At the hearing, Mr. Sugnanam requested that Esesson’s amended notice of appeal be filed. The respondent objected to any such filing.
+[16] I did not allow Esesson to file its amended notice of appeal.
+[17] The amended notice of appeal referred to expenses that were not initially claimed by Esesson in its income tax return. In addition, certain amounts claimed as expenses by Esesson in the amended notice of appeal were either smaller or greater than those the Minister had allowed. With respect to the expenses for which the Minister had allowed more than the amount claimed by Esesson in its amended notice of appeal, Mr. Sugnanam’s position varied during the trial. At first I understood that Esesson was claiming the lower amount, but Mr. Sugnanam subsequently stated that the amounts were in addition to what had been allowed by the Minister.
+[18] Furthermore, the expenses listed in the amended notice of appeal were also categorized differently than the expenses listed in Esesson’s tax return, and subsequently dealt with at the audit stage, and listed in the Notice of Objection and in Esesson’s initial Notice of Appeal.
+[19] The respondent had prepared her case on the basis of the amounts claimed and the categorization of expenses set out at those stages and would be prejudiced if the amounts and the categorization of expenses were changed at trial. It would have been impossible to proceed with the hearing without having the Minister review all of the expenses. An adjournment was not a viable option since Mr. Sugnanam and Dr. Sugnanam came to Calgary from Australia for the hearing.
+[20] Although, I did not allow Esesson to file the amended notice of appeal, I advised Mr. Sugnanam that he could use the schedule of expenses attached to the amended notice of appeal as a guide.
+Relevant Statutory Provisions
+[21] Subsection 9(1), subsection 18(1), paragraph 18(1)(a), paragraph 18(1)(h), subsection 67(1) and the definition of personal and living expenses in section 248 of the Act are applicable to the appeal of Esesson.
+[22] Subsection 9(1) states that a taxpayer’s income from a business or property is the taxpayer’s profit therefrom.
+[23] Subsection 18(1) prohibits a taxpayer from deducting, in calculating business income, expenses that do not fall within the ambit of paragraph 18(1)(a). Under paragraph 18(1)(a), a deduction will only be permitted if the expense was incurred by the taxpayer for the purpose of gaining or producing income.
+[24] Paragraph 18(1)(h) specifically bars any deduction for personal and living expenses of a taxpayer.
+[25] Personal and living expenses are defined in section 248 to include:
+(a) the expenses of properties maintained by any person for the use or benefit of the taxpayer or any person connected with the taxpayer by blood relationship, marriage or common-law partnership or adoption, and not maintained in connection with a business carried on for profit or with a reasonable expectation of profit,
+. . .
+[26] There is also a general limitation with respect to claiming expenses. Pursuant to section 67 of the Act, a taxpayer is able to deduct an expense only to the extent that the expense claimed is reasonable in the circumstances.
+Burden of proof
+[27] In tax cases, the burden of proof is on the taxpayer. The taxpayer has to demolish the assumptions made by the Minister. In The Queen v. Anchor Pointe Energy Ltd., 2007 FCA 188, 2007 DTC 5379, [2008] 1 F.C.R. 839, Justice Létourneau, in an unanimous judgment of the Federal Court of Appeal, stated the following with respect to the burden of proof, at paragraph 35:
+[35] It is trite law that, barring exceptions, the initial onus of proof with respect to assumptions of fact made by the Minister in assessing a taxpayer's tax liability and quantum rests with the taxpayer. In Les Voitures Orly Inc./Orly Automobiles Inc. v. The Queen, 2005 FCA 425, 2006 [G]TC 111[5], at paragraph 20, this Court reasserted the importance of the rule in the following terms:
+To sum up, we see no merit in the submissions of the appellant that it no longer had the burden of disproving the assumptions made by the Minister. We want to firmly and strongly reassert the principle that the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted. There is a very simple and pragmatic reason going back to over 80 years ago as to why the burden is on the taxpayer: see Anderson Logging Co. v. British Columbia, (1925) S.C.R. 45, Pollock v. Canada (Minister of National Revenue) (1993), 161 N.R. 232 (F.C.A.), Vacation Villas of Collingwood Inc. v. Canada [4 GTC 6065] (1996) 133 D.L.R. (4th) 374 (F.C.A.), Anchor Pointe Energy Ltd. v. Canada, [2003 DTC 5512] 2003 FCA 294. It is the taxpayer's business. He knows how and why it is run in a particular fashion rather than in some other ways. He knows and possesses information that the Minister does not. He has information within his reach and under his control. The taxation system is a self-reporting system. Any shifting of the taxpayer's burden to provide and to report information that he knows or controls can compromise the integrity, enforceability and, therefore, the credibility of the system. That being said, we recognize that there are instances where the shifting of the burden may be warranted. This is simply not one of those cases.
+[28] However, if the taxpayer makes out a prima facie case refuting the assumptions of fact made by the Minister, the burden will shift to the respondent. Once the burden is shifted, the Crown will have to bring forward evidence to support the assumptions of fact. Where the Minister’s assumptions have been demolished by unchallenged and uncontradicted evidence, the appellant will succeed.[1]
+Analysis
+[29] The parties agreed that the expenses relating to subcontracts, salaries and wages, rent, professional fees, business tax and licences, and insurance were no longer in issue.
+[30] I was also advised by the respondent that the following additional amounts had been allowed with respect to vehicle, travel, property taxes and repairs and maintenance:
+Expenses
+Allowed before the hearing (June 7, 2012 letter)
+Allowed at the hearing
+Vehicle
+$158.00
+Travel
+$314.97
+Property Taxes
+$568.58
+Repairs and Maintenance
+$3,541.37[2]
+[31] The expenses listed below remained in dispute:
+Expenses claimed by Esesson in its 2002 tax return
+Remaining
+Disallowed Expenses
+Vehicle
+$2,685.00
+$2,649.21
+Telephone
+$3,660.00
+$3,191.00
+Utilities
+$7,626.00
+$5,317.38
+Travel
+$33,931.00[3]
+$14,088.39
+Property Taxes
+$4,201.00
+$3,401.76
+Office Expenses
+$6,193.00[4]
+$4,416.20
+[32] The evidence supporting the expenses was confusing and at times contradictory. There was confusion as to who should claim the expense – some expenses pertained to Dr. Sugnanam’s medical practice. Some expenses were claimed in more than one category, some were capital or clearly personal expenses, and others lacked supporting documentation.
+[33] Mr. Sugnanam’s answers to the respondent’s questions did not do anything to reduce the level of confusion. He was often vague, evasive and defensive.
+[34] He did not convince me that he was unaware of the terms of the settlement reached in the appeal of his spouse, Dr. Sugnanam. He acted as agent for her at the audit, objection and, to a certain extent, the appeal stages. He had to be aware of the terms of the settlement since a few weeks before the hearing, the respondent provided him with a schedule detailing Dr. Sugnanam’s settlement.
+[35] It was difficult to understand why at the hearing Esesson continued to claim expenses related to Dr. Sugnanam’s practice. Mr. Sugnanam also had to know that he was using the same receipts as Dr. Sugnanam used to claim her expenses related to her medical practice. He also had to be aware that some expenses were clearly personal expenses.
+Property expenses
+[36] The expenses for property taxes, telephone, utilities and cable claimed by Esesson related to three properties. One property was located at 14 Georgia Loop, Stephenville, Newfoundland; the second was located at 32 Beaumont Street, St. John’s, Newfoundland; and the third was located at 64 Chatham Drive NW, Calgary, Alberta.
+[37] Esesson owned 14 Georgia Loop in Stephenville and 32 Beaumont Street in St. John’s. Dr. Sugnanam owned 64 Chatham Drive NW in Calgary.
+[38] Esesson’s place of business was located at 14 Georgia Loop in Stephenville. Esesson rented part of 14 Georgia Loop to Mr. Sugnanam and Dr. Sugnanam as their place of residence.
+[39] Esesson also had a place of business at 32 Beaumont Street in St. John’s. Part of the Beaumont Street property was rented to a non-related party.
+[40] The property located at 64 Chatham Drive NW in Calgary was owned by Dr. Sugnanam and was used for her software development business.
+[41] I will first deal with the expenses relating to the Calgary property. Esesson claimed all the property taxes, telephone and utility bills, and office expenses for that property.
+[42] I am not allowing any expenses relating to the Calgary property. Esesson did not own it. As I have previously stated, the property was owned by Dr. Sugnanam; part of it was used for her software development business for her medical practice and the rest of it was rented out. In 2002, Mr. Sugnanam only travelled to Calgary a few times. In addition, at the audit and the objection stages, Mr. Sugnanam stated that the Calgary property was used for the medical practice and not for providing engineering services.
+[43] Esesson did not demolish the Minister’s assumption of fact that the Calgary property was not used by it for the purpose of gaining or producing income. Dr. Sugnanam was present at the hearing. As the owner of the property, she could have testified with respect to Esesson’s use of the Calgary property, if any. However, she chose not to do so.
+[44] With respect to the Georgia Loop property in Stephenville, the Minister allowed 1/3 of the amounts claimed by Esesson for electricity, telephone and insurance. Esesson was also allowed to claim the property taxes in full since it owned the Georgia Loop property. Esesson argued that it should have been allowed 2/3 of these expenses relating to Georgia Loop property.
+[45] I find the Minister’s allowance of 1/3 of the expenses for the Georgia Loop property to be adequate taking into account that Esesson occupied the basement of the two-storey, three-bedroom house. The Sugnanams occupied 2/3 of the house as their residence. There was no evidentiary basis provided by Esesson for allowing more than 1/3 of the expenses relating to the Georgia Loop property.
+[46] The Minister did not allow any expenses for long-distance calls and cable with respect to the Georgia Loop property. Esesson argued that 100% of the long‑distance expenses and the cable expenses should be allowed. At trial, I told Mr. Sugnanam that I found it hard to believe that he and his spouse never made any personal long-distance calls.
+[47] Following my comment, Mr. Sugnanam continued to insist that the calls were made for business purposes, stating that if not 100% at least 99% of the calls were for business purposes.
+[48] I agree with the decision of the Minister to deny the claim for long-distance calls as I am highly sceptical that the long-distance calls made by the Sugnanams could have been for business purposes 100% of the time, or even 99% of the time. The evidence was that there was only one telephone line. In addition, their son Kirthi was living in Calgary and they had a number of relatives living in India. Applying section 67 of the Act, I will not allow any of the long-distance calls claimed by Esesson. The percentage claimed for personal use is unreasonable taking into account the circumstances.[5] Furthermore, Esesson will not be allowed to deduct the amounts claimed for cable for the Georgia Loop property as it was a personal expense of the Sugnanams.
+[49] The other property owned by Esesson, the Beaumont Street property in St. John’s, was not in dispute. The Minister allowed in full all expenses relating to this property, which included heat, electricity, telephone, insurance, and property taxes.
+[50] Mr. Sugnanam also questioned why deductions for certain taxes were denied by the Minister, namely a poll tax of $150 and an amount of $75 for which a receipt was issued by the municipality of Stephenville. The poll tax invoice was addressed to Dr. Sugnanam since she was the tenant. Esesson was therefore not entitled to deduct the pool tax amount. With respect to the $75 receipt, Mr. Sugnanam could not remember why it was issued by the municipality. The receipt might have been for the payment of a fine or, alternatively, it might have been related to advertising for Dr. Sugnanam’s medical practice. As there was no indication as to the purpose of the expense shown on the receipt, Mr. Sugnanam could not prove that this $75 expense was incurred for business purposes.
+Motor vehicle expenses
+[51] There was also some confusion with respect to the claim made by Esesson for motor vehicle expenses.
+[52] Three vehicles were in issue: a Honda owned by Esesson, a Toyota owned by Mr. Sugnanam and a Dodge Neon kept in Calgary. Esesson claimed motor vehicle expenses in the amount of $2,685. The Minister allowed amounts of $36 for cleaning supplies and $140 for vehicle registration with regard to the Honda.
+[53] No logs were submitted by Esesson for the Honda or by Mr. Sugnanam for the Toyota. What was submitted by Esesson was a potpourri of invoices, some of which did not relate to motor vehicle expenses. Those invoices that did relate to motor vehicles included expenses for gas, parking, car maintenance and repairs. I have analyzed each invoice submitted by Esesson.
+[54] Of the gas receipts submitted, 17 were signed by Dr. Sugnanam while 15 were signed by Mr. Sugnanam; two receipts had no signature. It was impossible to discern whether these gas purchases were made for business or personal purposes. It was also impossible to determine if the invoices were related to the Honda owned by Esesson or to Mr. Sugnanam’s personal vehicle, the Toyota. That said, the Minister allowed some motor vehicle expenses, but did not allow any expenses for gas. Common sense would suggest that some of these gas purchases were for Esesson’s business purposes. I therefore decided to give the taxpayer the benefit of the doubt and allow 50% of the gas receipts that were signed by Mr. Sugnanam, which amounts to $227.84. I will also allow as motor vehicle expenses an $18 parking fee incurred at the St. John’s airport and an amount of $41.40 for replacing a mirror on the Honda.
+[55] With respect to car maintenance and repairs, the respondent allowed an additional amount of $3,541.47 before the hearing. From the invoices submitted, I could not determine if the expenses were incurred for the purpose of earning business income. In addition, some expenses related to the personal vehicle of Mr. Sugnanam. Esesson did not prove that it had incurred more repair and maintenance expenses that what had been allowed by the respondent.
+[56] With respect to the Dodge Neon, no evidence was submitted to prove that Esesson was the registered owner of the vehicle or that any expenses relating to it were incurred by Esesson for the purpose of gaining income. In addition, the evidence showed that the Neon was used by the Sugnanams’ son, Kirthi, who was studying at the University of Calgary. Therefore, the motor vehicle expenses claimed by Esesson for the Dodge Neon will not be allowed.
+[57] Accordingly, with respect to motor vehicle expenses, in addition to the amounts allowed by the Minister, an amount of $287.24 will be allowed for motor vehicle expenses.
+Travel expenses
+[58] Esesson claimed $33,931 as travel expenses in its 2002 income tax return. This amount included Dr. Sugnanam’s travel expenses for her medical practice. Pursuant to the settlement, Dr. Sugnanam was allowed an amount of 15,911.67 for her travel expenses.
+[59] With respect to travel expenses, initially, at the audit stage, all of Esesson’s travel expenses were disallowed. Documents were submitted by Mr. Sugnanam on behalf of Esesson and, at the objection stage, the following travel expenses were allowed:
+Air Labrador invoice dated Feb 27/02 for 20 legs of travel between Stephenville and St. John’s
+$3,737.50
+10 receipts for airport improvement fees at $10 each
+$100.00
+Provincial Airlines ticket dated February 28, 2002
+$191.48
+Provincial Airlines ticket dated January 29, 2002
+$129.38
+Less HST
+-$542.39
+Total allowed
+$3,615.97
+[60] At trial, Esesson and the respondent agreed that only three specific trips remained in dispute: the Stephenville to Halifax trip to meet with Blue Atlantic, a trip from Stephenville to Calgary to meet with a Mideast Oil Company, and the Stephenville to Clarenville trip.
+(1) A $1,212.77 e-ticket for travel from Stephenville to Halifax
+Mr. Sugnanam submitted at trial that he received a call by Blue Atlantic, a company involved in deep-sea mining. He was asked to meet them with regard to a possible assignment. He stated that Blue Atlantic’s travel agency, Fraser Hoyt, paid for the trip but that he reimbursed the agency. Mr. Sugnanam stated that he probably reimbursed Fraser Hoyt by credit card or cheque, but did not have any documentation to support this reimbursement.
+(2) A $1,396.22 e-ticket for a flight with Air Canada Tango from St. John’s to Toronto and from Toronto to Calgary
+The trip was from St. John’s to Toronto and then from Toronto to Calgary. Mr. Sugnanam said that he met with a person specialized in deep-sea mining from a Libyan oil company. Mr. Sugnanam stated that he wanted to learn deep-sea mining techniques. It is unclear whether this trip was for Esesson’s business or to improve Mr. Sugnanam’s skills. Mr. Sugnanam could not recall exactly how he paid for the trip; he stated that it was either by cheque or credit card.
+(3) A trip from Stephenville to Clarenville
+According to the invoice, the trip was booked and paid for by North Atlantic Refinery. Mr. Sugnanam stated that he forwarded his resume to North Atlantic after they got in touch with him. It was unclear if he was attempting to obtain employment or if he was trying to get work for Esesson. Mr. Sugnanam claimed that when he checked out he was asked by reception to pay the bill as it had not been paid. There was no record of any such payment.
+[61] Giving the benefit of the doubt to the appellant, I will allow the travel expense of $1,396.22 relating to the St. John’s to Toronto and Toronto to Calgary trip since Mr. Sugnanam went to Calgary for the purpose of improving his skills for future business dealings of Esesson. The invoice for the trip was submitted. It was incurred for business purposes.
+[62] With respect to the other two trips, there is no evidence that Esesson paid for them. On the contrary, the evidence suggests that the first trip was paid for by Blue Atlantic and the second by North Atlantic Refinery. In my view, Esesson has not established that the assumptions of fact made by the Minister with respect to these trips were incorrect.
+Office expenses
+[63] Esesson had originally claimed $6,193 as office expenses. Dr. Sugnanam was allowed an amount of 1,061.80.
+[64] At the audit stage, Esesson was allowed an amount of $713.86 for office expenses, namely $603 for moving expenses and $110.86 relating to the Beaumont Street property in St. John’s.
+[65] Accordingly, an amount of $4,416 of office expenses remained in dispute.
+[66] The office expenses claimed were intermingled with personal expenses. Furthermore, some expenses, such as those for a computer, a monitor, a chair and a camera, were capital expenses. In addition, the same receipts were submitted for expenses already claimed by Dr. Sugnanam.
+[67] After analyzing the invoices submitted by Esesson, the expenses listed below should have been allowed in addition to those already allowed by the Minister. These listed expenses were incurred by Esesson for business purposes:
+Purolator invoice paid on October 16, 2002
+$49.00
+Purolator invoice paid on December 24, 2002
+$49.00
+Printer ink refill for computer, February 23, 2002
+$51.74
+Canon printer ink refill, July 30, 2002
+$34.49
+Computer repairs, May 11, 2002
+$425.49
+Colour ink, February 7, 2002
+$55.19
+Paper bought at WalMart, September 2, 2002
+$7.44
+Total:
+$672.35
+[68] As for the remaining office expenses claimed, Esesson did not provide reliable evidence to establish that the expenses were incurred for business purposes. I am also not allowing the expenses related to office equipment, such as the computer, computer monitor, chair and camera, since they were capital expenditures.
+Conclusion
+[69] Accordingly, the appeal of Esesson is allowed and the matter is referred back to the Minister for reconsideration and reassessment on the basis that the following amounts will be allowed:[6]
+· $445.24 for motor vehicle expenses;
+· $568.58 for property taxes;
+· $1,711.19 for travel expenses;
+· $3,541.37 for repairs and maintenance;
+· $672.35 for office expenses.
+Esesson will not be entitled to any further relief.
+Mr. Sugnanam’s appeals
+[70] I will now deal with the appeals of Mr. Sugnanam for his 2002 and 2003 taxation years.
+[71] For the 2002 taxation year, the question to be decided is whether Mr. Sugnanam was entitled to deduct motor vehicle expenses in the amount of $7,607.62 pursuant to paragraph 8(1)(h.1) of the Act.
+[72] With regard to the 2003 taxation year, Mr. Sugnanam argued that, although he was employed by Esesson, he also operated a separate consulting business in oil engineering. Accordingly, Mr. Sugnanam, instead of claiming employment expenses as he did for the 2002 taxation year, claimed for the 2003 taxation year a professional business loss in the amount of $8,090.06 pursuant to subsection 9(1) and paragraph 18(1)(a) of the Act.
+[73] The respondent argued that I should analyze the expenses claimed by Mr. Sugnanam as employment expenses. She stated that his employment status did not change in 2003. Mr. Sugnanam continued to work for Esesson. She stated that his only income was employment income. In addition, she argued that no evidence was submitted by Mr. Sugnanam indicating that he was operating a business separate and apart from Esesson.
+[74] Mr. Sugnanam did not demolish the assumption of fact made by the Minister that in the 2003 taxation year he was an employee of Esesson. Mr. Sugnanam did not operate a business separate and apart from Esesson in 2003. The business was that of Esesson. The only income he reported was employment income in the amount of $38,000. He did not submit any evidence that he was operating a registered business.
+[75] I will therefore analyze the expenses claimed by Mr. Sugnanam for the 2003 taxation year as employment expenses under subsection 8(1) of the Act.
+[76] At the hearing, Mr. Sugnanam requested that he be allowed to file an amended notice of appeal in order to add expenses that he had not claimed in his 2002 and 2003 income tax returns, such as professional development expenses in the amount of $1,874.44 for 2002 and an automobile insurance expense of $392.72 for 2003.
+[77] I did not allow Mr. Sugnanam to file his amended notice of appeal; it was too late at the hearing stage to do so. In any event, as explained in my analysis below, he would have not been entitled to claim his automobile insurance expenses as he did not meet the requirements of paragraph 8(1)(h.1). Furthermore, subsection 8(1) does not allow Mr. Sugnanam to claim his professional development expenses.
+[78] There was again some confusion relating to the invoices submitted by Mr. Sugnanam in support of his appeals for the 2002 and 2003 taxation years. He submitted in evidence many of the same invoices that were tendered in support of the expenses claimed by Esesson and by Dr. Sugnanam.
+Applicable Statutory Provisions
+[79] Section 8 of the Act is the provision dealing with the deduction of employment expenses. It states that an employee will be entitled to deduct the expenses listed in section 8. In order to do so, the taxpayer will have to meet the conditions enunciated in such provision.
+[80] In this appeal, Mr. Sugnanam has to meet the conditions set out in paragraph 8(1)(h) in order to be entitled to deduct travel expenses from his employment income.
+He has to be ordinarily required to carry on the duties of the office or employment away from the employer’s place of business or in different places, and
+He has to be required under the contract of employment to pay the travel expenses incurred by the taxpayer in the performance of the duties of the office or employment,
+He will not be able to deduct travel expenses if
+He received an allowance for travel expenses that was, because of subparagraph 6(1)(b)(v), (vi) or (vii), not included in computing the taxpayer’s income for the year, or
+. . .
+[Underlining added.]
+[81] In order for Mr. Sugnanam to claim motor vehicle expenses, he needs to meet the conditions set out in paragraph 8(1)(h.1). Those conditions are the same as the ones in paragraph 8(1)(h).
+[82] In addition, subsection 8(10) states that if a taxpayer deducts travel expenses and motor vehicle expenses, he or she is required to obtain from his or her employer a form certifying (T2200) that the conditions set out in the provisions dealing with travel expenses and motor vehicle expenses are met.
+Analysis
+[83] I will first deal with the 2002 taxation year. Mr. Sugnanam reported $40,000 in employment income. He claimed, and the Minister disallowed, as motor vehicle expenses the amount of $7,607.62:
+Employment Expenses
+Claimed
+(as per T1 return)
+Disallowed Expenses
+Fuel
+Car travel
+Professional development travel
+$6,050.00
+$6,050.00
+Insurance
+$1,417.62
+$1,417.62
+Licence and registration
+$140.00
+$140.00
+Total
+$7,607.62
+$7,607.62
+[84] Mr. Sugnanam’s T2200, per subsection 8(10) of the Act was signed by his spouse, Dr. Sugnanam. The initial T2200 signed by Dr. Sugnanam indicated that Mr. Sugnanam received a per diem and was reimbursed for the expenses he incurred for Esesson when away from Stephenville. Following the audit, a second T2200 was signed by Dr. Sugnanam. The second T2200 indicated that Mr. Sugnanam was not reimbursed by Esesson for the expenses he incurred on behalf of Esesson.
+[85] I give no weight to the second T2200 signed by Dr. Sugnanam. The first T2200 is in line with the evidence submitted at trial. Mr. Sugnanam was entitled to be reimbursed for his expenses when working away from Stephenville. Esesson, in calculating its income for the 2002 taxation year, claimed an allowance of $100 per day for Mr. Sugnanam when he worked outside of Stephenville. Furthermore, Dr. Sugnanam could have testified regarding the change in the T2200s, but she chose not to do so. I therefore draw a negative inference from Dr. Sugnanam not being called as a witness.
+[86] Mr. Sugnanam was therefore not entitled to claim his motor vehicle expenses in the amount of $7,607.62 for his 2002 taxation year pursuant to paragraph 8(1)(h.1) of the Act.
+2003 taxation year
+[87] I will now turn to the 2003 taxation year. Mr. Sugnanam claimed, and the Minister disallowed, the following expenses:
+Employment Expenses
+Claimed
+(as per T1 return)
+Disallowed Expenses
+Business taxes and licences
+$274.85
+$274.85
+Insurance
+0
+0
+Meals and entertainment
+$157.50
+$157.50
+Motor vehicle expenses
+$2109.98
+$2109.98
+Accounting
+$92.00
+$92.00
+Travel
+-Air ticket Australia
+-Travel by road
+$5,455.73
+$5,455.73
+Total
+$8,090.06
+$8,090.06
+[88] At trial, the respondent conceded that Mr. Sugnanam was entitled to deduct in the business taxes and licences category, an amount of $257.60 for his professional association membership fees. Mr. Sugnanam in turn conceded that he should not have claimed the accounting fees of $92 since the fees were for the preparation of his personal tax returns.
+[89] With respect to the motor vehicle expenses, the evidence is the same as the 2002 taxation year. Accordingly, my reasoning for disallowing the motor vehicle expenses for the 2002 taxation year also applies to the 2003 taxation year. Accordingly, Mr. Sugnanam is not entitled to deduct his motor vehicle expenses for the 2003 taxation year since he does not meet the requirements of paragraph 8(1)(h.1) of the Act.
+[90] With respect to travel expenses under paragraph 8(1)(h) of the Act, Mr. Sugnanam claimed an amount of $2,662.73 for an air ticket to Australia and an amount of $2,371 for travel by road.
+[91] With respect to the trip to Australia, I am of the view that it is not a deductible employment expense. According to the evidence, the trip was either made on behalf of Esesson in order to seek business opportunities in Australia or made by Mr. Sugnanam to seek employment for himself. In either case, the expense was not deductible by Mr. Sugnanam. If this travel was for Esesson, it was Esesson’s expense, and if it was for Mr. Sugnanam to seek employment, it was a personal expense.
+[92] With respect to the travel by road as well as the meal and entertainment expenses, Mr. Sugnanam was entitled to receive a per diem. He was also entitled to be reimbursed by Esesson for his travel expenses. Therefore, he could not deduct his travel expenses pursuant to paragraph 8(1)(h). Furthermore, subsection 8(1) does not allow Mr. Sugnanam to deduct his entertainment expenses.
+Taxable benefits
+[93] At trial, Mr. Sugnanam raised the point that the Minister had included the amounts of $1,556.62 and $1,442.86 as shareholder benefits in his income for the 2002 and 2003 taxation years respectively.
+[94] The basis for the taxable benefit was that the Sugnanams were residing in the Georgia Loop property in Stephenville, which was owned by Esesson. The amount of the taxable benefit was based on the difference between the fair market monthly rental value namely $450, and the monthly rent charged to the Sugnanams, namely $300. The Minister also included as taxable benefits the amounts paid by Esesson for utilities.
+[95] The rent and utilities amounted to $4,669.86 and $4,328.59 for the 2002 and 2003 taxation years respectively. From these amounts, the Minister subtracted 1/3 since 1/3 of the Georgia Loop property was used by Esesson for business purposes. The table below shows how the benefits were calculated:
+Rent Benefit
+2002
+2003
+Fair Market Rental Value (POU)
+$5,400.00
+$5,400.00
+Less Rent Paid
+$3,600.00
+$3,600.00
+Rent Benefit
+$1,800.00
+$1,80000.00
+Utilities Benefit
+Heat
+$1,808.44
+$1,367.29
+Power
+$1,061.42
+$1,161.30
+Total Utilities Benefit
+$2,869.86
+$2,528.59
+Total Living Expense Benefit
+$4,669.86
+$4,328.59
+Mr. Sugnanam’s Benefit (1/3)
+$1,556.62
+$1,442.86
+[96] The Minister was correct in assessing Mr. Sugnanam’s taxable benefit amounts. At the hearing, Mr. Sugnanam did not question the fair market monthly rental value established by the Minister. Nor did he question the utilities amounts used by the Minister in computing the taxable benefits. He simply disagreed with the inclusion of the benefit in his income for the 2002 and 2003 taxation years.
+Conclusion
+[97] Accordingly, the appeal of Mr. Sugnanam for the 2002 taxation year is dismissed.
+[98] The appeal of Mr. Sugnanam for the 2003 taxation year is allowed and the matter is referred back to the Minister for reconsideration and reassessment on the basis that Mr. Sugnanam was entitled to deduct an amount of $257.60 for his professional association membership fees.
+Signed at Montreal, Quebec, this 5th day of July 2013.
+“Johanne D’Auray”
+D'Auray J.
+CITATION: 2013 TCC 189
+COURT FILE NO.: 2008-1538(IT)I
+2008-3815(IT)I
+STYLE OF CAUSE: SOBHANADRI NAIDU SUGNANAM v. HER MAJESTY THE QUEEN
+ESESSON CANADA INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Calgary, Alberta, and Ottawa, Ontario
+DATE OF HEARING: June 25 & 26, 2012, January 21, 2013
+REASONS FOR JUDGMENT BY: The Honourable Justice Johanne D'Auray
+DATE OF JUDGMENT: July 5, 2013
+APPEARANCES:
+For the Appellant Sobhanadri Naidu Sugnanam:
+Agent for the Appellant Esesson Canada Inc.:
+The Appellant himself
+Sobhanadri Naidu Sugnanam
+Counsel for the Respondent:
+Cynthia Isenor
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Hickman Motors Ltd. v. Canada, [1997] S.C.J. No. 62 (QL), [1997] 2 S.C.R. 336.
+[2] Additional repairs and maintenance: Beaumont property $1,192.14 and 1/3 Georgia Loop property $2,349.23.
+[3] $15,911.67 was allowed to Dr. Sugnanam as part of her settlement. $3,615.97 was allowed to Esesson at the objection stage.
+[4] $1,061.80 was allowed to Dr. Sugnanam as part of her settlement. $715.00 was allowed to Esesson at the audit stage.
+[5] See Stewart v. Canada, 2002 SCC 46, [2002] 2 S.C.R. 645 and Raghavan v. The Queen, 2007 FCA 27, 2007 DTC 5214.
+[6] These amounts included what was allowed by the respondent before and at the hearing.

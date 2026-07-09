@@ -1,0 +1,115 @@
+Title: Hutchings v. The King
+Source: https://norma.lexum.com/tcc-cci/decisions/en/item/521477/index.do
+Corpus path: corpus/cases/tcc/2025/2025-tcc-108-521477-hutchings-v-the-king.md
+Document type: case_law
+Last modified: 2025-08-08
+
+# Hutchings v. The King
+
+- Citation: 2025 TCC 108
+- Decision date: 2025-08-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5412, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hutchings v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-08-08
+Neutral citation
+2025 TCC 108
+File numbers
+2024-1701(IT)I
+Judges and Taxing Officers
+Sophie Matte
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2024-1701(IT)I
+BETWEEN:
+DONNA HUTCHINGS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on May 14 and 15, 2025, at Belleville, Ontario
+Before: Associate Judge Sophie Matte
+Appearances:
+For the Appellant:
+The Appellant Herself
+Counsel for the Respondent:
+Emma Kerkonian
+JUDGMENT
+In accordance with the attached Reasons, the appeals from the Notices of Determination with respect to the Appellant’s eligibility for the Canada Emergency Rent Subsidy for the qualifying periods 8 to 13, from September 27, 2020, to March 13, 2021, and periods 15 to 20, from April 11, 2021, to September 25, 2021, are dismissed, without costs.
+Signed this 8th day of August 2025.
+“Sophie Matte”
+Matte A.J.
+Citation: 2025 TCC 108
+Date: August 8, 2025
+Docket: 2024-1701(IT)I
+BETWEEN:
+DONNA HUTCHINGS,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Matte A.J.
+[1] For over 40 years, Donna Hutchings operated Country Sheers Hair Styling, a hair styling salon in the Westport community of Ontario. Like many small business owners, Ms. Hutchings had to close her hair styling salon for several months during the Covid pandemic because of health restrictions imposed by the authorities. This severely impacted her financial situation and made her unable to meet her obligations.
+[2] With the help of her sister Joan, she applied for the Canada Emergency Rent Subsidy (CERS) and the top-up subsidy. Her request was granted, and she received the financial assistance over several months, for a total amount of $3,640.83.
+[3] The CERS was designed to provide relief to businesses, non-profits and charities that were economically impacted during the COVID-19 pandemic. Eligible rent expenses included commercial rent pursuant to agreements in writing entered into before October 9, 2020. In addition, if the organization was subject to a public health order issued under the laws of Canada, a province or territory, which was the case for hair salons, an additional subsidy top-up was provided.
+[4] In 2022, the Minister of National Revenue (the “Minister”) reviewed Ms. Hutchings’ applications and determined that she was not eligible to receive the CERS on the basis that she did not meet the criteria related to qualifying rent expenses.
+[5] Donna Hutchings and her sister Joan, who has a power of attorney over Donna’s affairs and made the application for the CERS and the top-up subsidy on her behalf, both testified. I found them to be credible witnesses. That said, the facts relevant to the main issue in this appeal are not really in dispute.
+A. Issue [6] The main issue is whether Donna Hutchings had an obligation to pay rent and other expenses under a written agreement in place as of October 9, 2020, and if so, were those expenses indeed paid.
+B. Analysis [7] The amount of rent subsidy an applicant can receive is determined by a formula found at subsection 125.7(2.1) of the Income Tax Act [1]. It is the sum of the CERS and the subsidy top-up. These two amounts are calculated using the “qualifying renter’s qualifying rent expense”. The definition of “qualifying rent expense” is found at subsection 125.7(1) and refers to expenses such as commercial rent, property taxes, and property insurance paid under a written agreement entered into before October 9, 2020.
+[8] Donna Hutchings testified that the rental agreement she entered into in July 2020 with the owners of the property, Mary Jane and Rick Stoness, was verbal. There was no written agreement. She recounted that Mary Jane presented her with a piece of paper that stated the amount of rent agreed upon by her and her husband, and Donna accepted the offer. Joan Hutchings explained that this was customary in a small community like Westport where agreements for the rental of commercial space are regularly made orally and sealed with a handshake. In all the years that Donna Hutchings ran a hair styling salon, she never had a written rental agreement.
+[9] The Appellant’s view is that a verbal agreement such as the one that Donna Hutchings entered into with the owners of the property is as much a binding agreement as a written one. The Appellant argued that the fact the agreement was not in writing should not be determinative in the circumstances.
+[10] A verbal agreement can be as binding and enforceable as a written agreement in some circumstances. However, for the purpose of the Covid rent subsidy, Parliament decided that only obligations under a written agreement entered into prior to October 9, 2020, could qualify for assistance. Had Parliament wished to extend the subsidy to rental expenses paid under a verbal agreement between a property owner and a renter, it would not have expressly specified in subsection 125.7(1) that the agreement had to be in writing. There could be several reasons why Parliament chose to legislate that a written agreement be required, if only to be able to confirm that an agreement was in place when the rent subsidy came into force, on or about October 9, 2020.
+[11] I cannot change the law. I must apply it as enacted with this specific requirement.
+[12] While the term “written agreement” is not defined in the Income Tax Act, its meaning has been considered in the jurisprudence of this Court. In the context of spousal support payments, this court has considered that written documents, even if not signed, could amount to a written agreement. [2] These documents would have to show the essential terms and conditions of the agreement between the parties, and their intent to create a binding contractual relation.
+[13] Absent a formal written rental agreement between Donna Hutchings and the Stonesses, I was not presented with documents that I could consider to constitute an agreement in writing between them and that would satisfy the requirements of the Income Tax Act.
+[14] Donna did not have with her the piece of paper that Mary Jane Stoness presented to her in July 2020 with the amount of the rent. I do not know if it was given to her at the time. In any event, while this piece of paper may have shown one element of their agreement, it would probably have been short of the other essential terms and conditions to form a binding contract, such as the address and description of the rental property, the terms of payment and the duration of the agreement.
+[15] The cashed cheques, proving that Donna Hutchings paid the monthly rent in the amount of $536.75 for the periods at issue, are not of any assistance. There is case law, again in the context of spousal support payments made under a written agreement as required by subsection 60(b) of the Income Tax Act, which confirms that cashed cheques and receipts, alone, do not constitute a written agreement.[3] Moreover, the cashed cheques do not prove that an agreement was in place prior to October 9, 2020, as required by the law for the purpose of CERS.
+[16] As my conclusion is that Donna Hutchings did not have to pay rental expenses under a written agreement, the sub-issue of whether those expenses were indeed paid becomes moot. I could say, nonetheless, that while there was no clear evidence that Donna Hutchings paid property taxes and insurance, I have no doubt that she paid rent to the Stonesses for her commercial space. I am only stating this because it seemed to me at the nearing that the Appellant felt that the actual payments were being unfairly questioned by the Canada Revenue Agency and the Respondent.
+[17] Finally, the Appellant argued that the requirement of a written agreement is clearly wrong and unfair. After serving her community for decades and probably never failing on her obligations, Donna Hutchings faced unprecedented challenges brought on by the pandemic. Compounded by health issues, these challenges eventually forced her to close her business. I have nothing but sympathy for Ms. Hutchings. Unfortunately, the Tax Court of Canada is not a court of equity, and I can only apply the law as enacted. I cannot rewrite it to make it fair in the present circumstances.
+C. Conclusion [18] Ms. Hutchings was not entitled to receive the CERS or the subsidy top-up for all periods at issue as she did not have qualifying rent expenses under the Income Tax Act. I come to this conclusion because she did not have to pay rent and other expenses under a written agreement.
+[19] For these reasons, Ms. Hutchings’ appeals from the Minister’s determinations are dismissed without costs.
+Signed this 8th day of August 2025.
+“Sophie Matte”
+Matte A.J.
+CITATION:
+2025 TCC 108
+COURT FILE NO.:
+2024-1701(IT)I
+STYLE OF CAUSE:
+DONNA HUTCHINGS AND
+HIS MAJESTY THE KING
+PLACE OF HEARING:
+Belleville, Ontario
+DATE OF HEARING:
+May 14 and 15, 2025
+REASONS FOR ORDER BY:
+Associate Judge Sophie Matte
+DATE OF JUDGMENT:
+August 8, 2025
+APPEARANCES:
+For the Appellant:
+The Appellant Herself
+Counsel for the Respondent:
+Emma Kerkonian
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Income Tax Act, RCS, c 1 (5th Supp.), as amended.
+[2] Shaw v. R., 2007 TCC 148 (informal procedure), at paragraphs 14 to 19.
+[3] For example, Fortune v The Queen, 2007 TCC 20, Knapp v M.N.R., 85 D.T.C. 424.

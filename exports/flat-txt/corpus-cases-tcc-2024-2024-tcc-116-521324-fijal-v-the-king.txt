@@ -1,0 +1,360 @@
+Title: Fijal v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521324/index.do
+Corpus path: corpus/cases/tcc/2024/2024-tcc-116-521324-fijal-v-the-king.md
+Document type: case_law
+Last modified: 2024-09-05
+
+# Fijal v. The King
+
+- Citation: 2024 TCC 116
+- Decision date: 2024-09-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5885, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fijal v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2024-09-05
+Neutral citation
+2024 TCC 116
+File numbers
+2019-4226(IT)G, 2019-4255(IT)G, 2020-358(GST)G
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2019-4226(IT)G
+BETWEEN:
+BRIAN FIJAL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on common evidence with the appeals of Three‑Bee General Contracting Inc. (2019-4255(IT)G) and (2020-358(GST)G), on March 19 and 20, and May 29, 2024 at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Laura Zubot
+Chukwuebuka (Stanley) Ndibe
+Counsel for the Respondent:
+Kanga Kalisa
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment in this appeal on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal for the 2012, 2013 and 2014 taxation years is allowed on the following basis:
+a) the Appellant’s reassessed unreported income is reduced for each of 2012, 2013 and 2014 taxation years to the following respective amounts:
+Taxation Year
+Unreported Income
+2012
+$184,842
+2013
+$122,904
+2014
+Nil
+b)the penalties under 163(2) of the Income Tax Act are cancelled;
+The Appellant made misrepresentations owing to negligence in each of the taxation years;
+The reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment.
+One set of costs is provisionally awarded under the applicable Tariff to this Appellant, subject to the right of the Appellant to make written submissions within 30 days of this judgment and the Respondent’s right to respond thereto within 30 days thereafter, with all such written submissions not to exceed 10 pages (excluding authorities); provided that should no submissions be made, this provisional cost order shall become final.
+Signed at Toronto, Ontario this 5th day of September 2024.
+“R.S. Bocock”
+Bocock J.
+Docket: 2019-4255(IT)G
+BETWEEN:
+THREE‑BEE GENERAL CONTRACTING INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on common evidence with the appeals of Brian Fijal (2019-4226(IT)G) and Three‑Bee General Contracting Inc. (2020‑358(GST)G), on March 19 and 20, and May 29, 2024 at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Laura Zubot
+Chukwuebuka (Stanley) Ndibe
+Counsel for the Respondent:
+Kanga Kalisa
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment in this appeal on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal for the 2012, 2013 and 2014 fiscal periods ending July 31 of 2012, 2013 and 2014 is allowed on the following basis:
+a)the Appellant’s reassessed unreported income is reduced in each fiscal year to the following:
+Fiscal Year
+Unreported Income
+2012
+$130,127
+2013
+NIL
+2014
+$22,065
+b)the penalties under 163(2) of the Income Tax Act are cancelled;
+It finds that the Appellant made misrepresentations owing to negligence in each of the taxation years;
+The reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment.
+One set of costs is provisionally awarded under the applicable Tariff to the Appellant, Brian Fijal in his related appeal, specifically subject to the cost provisions in the judgment related to that appeal and the common reasons for judgment.
+Signed at Toronto, Ontario, this 5th day of September 2024.
+“R. S. Bocock”
+Bocock J.
+Docket: 2020-358(GST)G
+BETWEEN:
+THREE‑BEE GENERAL CONTRACTING INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on common evidence with the appeals of Brian Fijal (2019-4226(IT)G) and Three‑Bee General Contracting Inc. (2019‑4255(IT)G), on March 19 and 20, and May 29, 2024 at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Counsel for the Appellant:
+Laura Zubot
+Chukwuebuka (Stanley) Ndibe
+Counsel for the Respondent:
+Kanga Kalisa
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment in this appeal on this date;
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeal for the following reporting periods is allowed on the following basis:
+a)The Appellant’s unreported taxable supplies are as follows:
+Reporting Periods Ending
+Additional Taxable Supplies
+Additional GST Payable
+July 31, 2012
+$130,127
+$16,916
+July 31, 2013
+Nil
+Nil
+July 31, 2014
+$22,065
+$2,868
+b)the subsection 285 gross negligence penalties are cancelled.
+The Appellant made misrepresentations on the returns within the meaning of subsections 298(1) and (4) of the Excise Tax Act.
+The reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment.
+One set of costs is provisionally awarded under the applicable Tariff to the Appellant, Brian Fijal in his related appeal, specifically subject to the cost provisions in the judgment related to that appeal and the common reasons for judgment.
+Signed at Toronto, Ontario this 5th day of September 2024.
+“R.S. Bocock”
+Bocock J.
+Citation: 2024 TCC 116
+Date: 20240905
+Docket: 2019-4226(IT)G
+BETWEEN:
+BRIAN FIJAL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2019-4255(IT)G
+AND BETWEEN:
+THREE-BEE CONTRACTING INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent;
+Docket: 2020-358(GST)G
+AND BETWEEN:
+THREE-BEE CONTRACTING INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+COMMON REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction
+[1] The Appellant, Brian Fijal (“Mr. Fijal”), and Three-Bee General Contracting Inc. (“3 Bee”) were reassessed because the Minister asserts they both had unreported income and 3 Bee had unremitted HST on unreported sales for a period spanning 41 months from July 31, 2011 to December 31, 2014.
+[2] The unreported amounts of income and HST were derived by the Minister by utilizing a net worth assessment (“NWA”) of both Appellants. This also included Mr. Fijal’s spouse because they maintained a common household.
+[3] Mr. Fijal reported income and the Minister reassessed unreported income in the following amounts:
+Description
+2012
+tax year
+2013
+tax year
+2014
+tax year
+Taxpayer Reported Income
+Spouse Reported Income
+Total Household Income
+27,518
+67,533
+95,051
+36,263
+65,247
+101,510
+38,251
+68,131
+106,382
+Total Assets
+(household)
+1.291 million
+1.474 million
+1.533 million
+Assessed Unreported Net Worth Income
+430,357
+184,948
+77,552
+Assessed Unreported Income
+581,000
+366,000
+162,000
+Percentage Difference: Reported vs. Reassessed Income
++612%
++361%
++152%
+[4] In a similar fashion, 3 Bee reported net business income and the Minister reassessed the following amounts consequentially arising from the NWA:
+Description
+Fiscal Period Ending
+July 31/12
+Fiscal Period Ending
+July 31/13
+Fiscal Period Ending
+July 31/14
+Fiscal Period Ending
+July 31/15
+(carry forward)
+Reported Net Business Income
+(loss)
+73
+(2,360)
+(4,841)
+77,266
+Assessed Unreported Business Income
+331,974
+136,555
+222,352
+Reduced non-capital loss by 7,201
+Percetnage Difference: Reported vs. Reassessed Business Income
+331%
+137%
+225%
+N/A
+[5] The Minister assessed, in respect of HST, the following amounts as a function of unreported business income attributable to 3 Bee from the NWA:
+Aggregate Reporting Periods
+Cumulative Unreported Business Income
+Assessed Cumulative Unremitted HST
+Nov. 7, 2011 to Jul. 31, 2015
+1,099,057
+142,877.44
+II. Background [6] 3 Bee provided -- it has presently ceased operations -- construction and renovation services for commercial, industrial and residential projects in and around the Toronto area.
+[7] Mr. Fijal is the embodiment of 3 Bee. He is the sole shareholder, officer and director of 3 Bee and worked full-time for 3 Bee. Singularly, he ran the company on a day-to-day basis. Mr. Fijal has sole signing authority on 3 Bee’s bank accounts, made all deposits and withdrawals and wrote all cheques related to them, oversaw the preparation of invoices for 3 Bee’s clients and maintained all books and records for 3 Bee’s business. He had the contacts with customers, suppliers and office staff, who were minimal. He had operated the business for some 40 years. He had completed high school and studied at university; it is not clear it was in a relevant field of study. He is reasonably articulate, albeit quick to answer before listening.
+[8] As a general contractor, 3 Bee undertook one job at a time. The work sites were generally 15,000 to 30,000 square feet, which is to say fairly large for company 3 Bee’s size. There were generally sub-trades hired rather than employees. 3 Bee owned two trucks; the sub-trades furnished their own work tools needed to install and form the work product from the supplies procured by 3 Bee. The jobs specifically consisted of office and commercial finishing construction and renovations.
+[9] On an annual basis, the details of the general ledger (“G/L”), bank accounts and the client job-site file folders were sent to 3 Bee’s accountant, Mr. Montaldi. According to his testimony, from these information sources, Mr. Montaldi prepared and filed 3 Bee’s and Mr. Fijal’s tax returns and applicable GST/HST returns for the relevant periods. Books were maintained, but not in the usual detailed manner.
+III. Concessions, Remaining Issues and Preliminary Determinations A. Concessions
+[10] At the conclusion of witness testimony on March 20th, counsel for both parties advised the Court concessions were mutually envisaged. Generally, these concessions concerned the inclusion of certain inappropriate expenses by the Appellants on one hand, and detected errors to the NWA by the CRA on the other. Further, while both parties desired to make certain concessions, the exact quantum and extent of the concessions by either remained unknown because they had not suitably conferred and did not know the consequential impact of same on the corporate and HST reassessments.
+[11] The Court seized the moment to afford the parties a mutual opportunity to review each other’s to-be refined concessions, once quantified. This was particularly important because of the impact and effect such concessions might have on the other party’s position on penalties and misrepresentation and the sprinkled impact on the personal and corporate tax positions of the Appellants given the temporal mis-match of tax versus corporate fiscal years.
+[12] Therefore, on consent, the Court agreed to hear closing arguments in March solely on the issue of the necessity for an alternative assessment, and specially the NWA. Once those arguments concluded, the Court directed by Order, without prejudice to the Appellant’s argument that the alternative assessments were unnecessary or unjustified, that:
+the Appellants serve on the Respondent a further version of amended NWA schedules;
+the Respondent subsequently provide his own comments and revisions to the Appellants;
+counsel would then exchange their positions on points of consensus and concessions; and,
+the trial would then continue for remaining submissions, save for the then already heard and closed final submissions on the NWA necessity and justification.
+[13] Importantly, prior to recommencing those final submissions, the Court called upon counsel with reference to the amended NWA schedules, to describe and confirm issues and items upon which counsel were agreed.
+[14] The exercise was a success. Subject to the NWA necessity issue (“necessity issue”) and the statute barred issue (the “statute barred issue”), the parties agree on all aspects of the NWA exercise, save for one issue: the opening credit balance of Mr. Fijal’s shareholder loan account. Mr. Fijal states the net amount of his advances to 3 Bee at December 31, 2011 was $213,910. The Respondent says it is $132,306. The parties agree that one of these sums is an opening balance. Therefore, only items reflecting the opening value of Mr. Fijal’s total assets at the conclusion of the baseline calendar year (2011), before the first year of the NWA (2012), are impacted. Accordingly, it was agreed it may be pursued as a distinct issue in submissions.
+[15] Deductively, should the Court find the NWA was justified and the Minister has met her burden concerning the statute barred issue, then the parties agree the following are the amounts of unreported income for the following periods for Mr. Fijal and 3 Bee, respectively (save for the opening shareholder loan account):
+Fiscal Tax Year Ending
+Mr. Fijal
+Unreported Income
+3 Bee
+Unreported Income
+Original Reassessed Amount per NWA
+July 31, 2012*
+Not applicable
+48,523 (Appellant) 130,127 (Respondent)
+331,974
+December 31, 2012*
+103,239 (Appellant) 184,842 (Respondent)
+Not applicable
+581,000
+July 31, 2013
+Not applicable
+Nil (Agreed)
+136,555
+December 31, 2013
+122,904 (Agreed)
+Not applicable
+162,000
+July 31, 2014
+Not applicable
+22,605 (Agreed)
+222,352
+December 31, 2014
+Nil (Agreed)
+Not applicable
+[16] The asterisk above reflects the two periods and alternate amounts where the consequential difference arising from the continued dispute of the shareholder loan account credit balance on December 31, 2011 (the “shareholder loan balance”) exists. Again, the issue of HST is a function of the unreported income, all of which where net taxable supplies of 3 Bee.
+B. Remaining Issues
+[17] The remaining issues are:
+(i) the necessity and justification for the NWA; (ii) the shareholder loan balance; (iii) the statute barred issue; (iv) the s.163(2) penalties. [18] A reordering of these issues is needed because, if the statute barred burden is not met by the Minister, no tax year or reporting period may be reassessed. In short, all other remaining issues would be moot.
+C. Preliminary Determinations
+(a) the statute barred issue
+[19] The subsection 152(4) test for misrepresentation in a return attributable to neglect, carelessness or wilful default needs only relate to one or any aspect of the return: Venne v. HMQ [1984] CTC 223. Although there are several areas where Mr. Fijal was careless in his returns, the co-mingling of personal and business expenses is the most critical and prevalent.
+[20] Mr. Fijal had 40 years business experience. Yet in testimony, in both chief and cross-examination he made the following statements:
+it’s out of Winnipeg and I am not sure - - I can’t explain this. Sorry – it would have been something - - if it was claimed, it would have something to do with business.
+I believe we still had our cat at that point in tine, and that would have been a personal expense. I doubt I would have claimed that.
+Yes, [shareholders draws and advances]. It would have been recorded through my accountant. I would have made notes on it. It would have been in a file, and he would have dealt with how to handle it based on submitted income tax.
+[21] The clear flavour of Mr. Fijal’s testimony around the keeping of files was that specific commercial job sites warranted a separate paper file folder where expense vouchers, drawn down certificates, payment receipts, supply purchases and purchase orders and contracts were kept. However, much of the business was cash based, particularly around supply purchases, gifts for clients, payment of sub-trades and fuel. Where credit cards were used, they were personally co-mingled. There was neither a cash receipts journal nor an expense journal. There were disproportionate receipts for the LCBO (all described as legitimate business promotion) and food charges (employee and contractor lunches).
+[22] These expenses were claimed as business expenses in the tax returns, all under the assurance, in the absence of a expense journal as back up, that they where accurately described. It is also noted that the first concessions made by Mr. Fijal’s counsel surrounded these hybrid purpose expenses: personal vs. business. Generically, Mr. Fijal said these invoices supported the business expenses, but when questioned on whether they were or were not, he, the person responsible for determining their deductibility, stated in conditional past tense that only business expenses “would have been included”. His testimony was ladened with such vague, passive assumptions which nourish uncertainty.
+[23] The Court finds Mr. Fijal’s own words in testimony, some extracts of which are referenced above, have provided this Court with a sufficient certainty to conclude the Minister has met her burden to establish misrepresentation in the returns based on carelessness. These concern the admitted incorrect categorization of expenses incurred by cash or personal credit card as unilaterally business. This just was not so in each taxation year. On balance, the Court finds some of these expenses, deducted as incurred for business purposes, were personal.
+(b) The necessity of the NWA [24] Mr. Fijal’s records did not meet the standard of accuracy required by section 230 of the Act. This was evident from the documents produced at trial. They lacked clarity, organization and completeness. Aside from the G/L, itself composed at year end by the accountant, and from which most of the shareholder loan balance issues arise, there were no other concurrent, on-site, rolling or live sub-ledgers, journals or even bank books. The bank statements (not journals), credit cards (both personal and corporate, although mostly personal) and invoices (sometimes) formed the source of documents for the year-end “creation” of the G/L.
+[25] Further, and directly bearing on the need to alternatively assess, even these proxies for accurate books and records were withheld from the Minister when requested. Requests for Information (“RFIs”) were needed to secure certain bank statements.
+[26] Cash businesses are not prohibited from functioning as such, but just like other non-cash businesses, they need appropriate records, controls and procedures. Failing to maintain those records to an accurate standard, and, most importantly, then resist turning them over leaves the Minister with little option but to alternatively assess. She did in this case and it was justified.
+[27] On the specific assessment, given Mr. Fijal’s and 3 Bee’s nature of alternatively co-mingled bank accounts, home office, joint ownership of assets and the need for RFIs to secure reliable financial information, it is difficult to see another option available to the Minister to reliably review the filed returns. In any event, aside from resisting the necessity of a s.152(7) assessment in the form of an NWA, the Appellants did not propose another form of alternative assessment. And on a final note, Mr. Fijal confirmed in testimony the accuracy of the NWAs statements and schedules of his assets, liabilities and personal expenses. The NWA was warranted.
+IV. Analysis of Remaining Issues A. S.163(2) Penalties
+[28] The question remains whether Mr. Fijal, and on an associated basis 3 Bee’s, conduct rise to the level of either knowingly, or in circumstances rising to gross negligence, making false statements in the returns. This is a distinct and more nuanced issue.
+[29] Mr. Fijal has been a businessman for four decades. He studied at university. He is reasonably intelligent. He is also unconcerned with the minutiae of detailed record keeping, conventional accounting methods and maintaining currently updated notes concerning “when he spends how much on what”.
+[30] He trusts his accountant and his accountant respects Mr. Fijal’s experience. He dutifully filed his returns, signed them when he was supposed to and paid the tax he said he owed on time. He had a mismatched year end for himself and his company. While not an excuse, that temporal space and needed complexity for precision complicates applying a label of knowingly making a false statement in filing the returns or having disregard rising to the level of intentional acting.
+[31] The relevant question is whether the Minister, who also bears this burden, has established that Mr. Fijal’s untroubled approximate approach to complying with the legislation rose to the level of gross negligence or indifference to complying with the ITA and ETA.
+[32] The Court considers the following facts in the context of the penalties, particularly as seen through the comparative sums in the charts in paragraphs 4 and 17:
+the magnitude of the unreported income, while not inconsiderable, is a fraction of that originally assessed by the Minister;
+for three different taxation or reporting periods, there was no unreported income or unreported sales, contrary to that originally reassessed in the NWA;
+a large portion of the unreported personal and corporate income in the first taxation and fiscal years is on account of a shareholder loan account opening balance dispute which, while resolved in favour of the Crown’s assumptions below, is as much a timing and year-end adjustment issue as opposed to a knowing misstatement or glaring failure to address one’s mind to compliance with the law;
+Mr. Fijal’s subsequent uncooperativeness concerning records during audit is not retroactive evidence of wilful blindness or knowing misstatement at the previous time web he timely completed and filed the numerically inaccurate returns; and,
+Mr. Fijal did keep records and attempted to track expenses; he just was poor and lackadaisical at it.
+[33] On balance, Mr, Fijal, and by association, 3 Bee’s conduct does not surmount the threshold of indifference to complying with the legal obligations imposed by the ITA or ETA. The penalties are cancelled.
+B. The Opening Shareholder Loan Balance
+[34] Unlike the section 152(4) and 163(2) questions, determination of the shareholder loan issue rests with the records, the assumptions and deductive logic.
+[35] The Appellants state that 100% of the total deposits paid into 3 Bee’s bank account, which do not correspond to accounts receivable (i.e. business revenue), are properly allocable to Mr. Fijal as a shareholder advance during the period August 1 to December 31, 2011 (5 months). That number is $297,109.
+[36] The Respondent is willing to concede this speculative, deductive formula. However, the Respondent says reasonably, it should be 5/12th of the annual amount ($297,109), being $123,829.16. Which is correct?
+[37] The opening shareholder loan balances as of January 2012 (for year end December 31, 2011) submitted are directly related to this amount: 213,910 versus 132,306.
+[38] There is no reliable evidence before the Court concerning the accounts receivable values for the period August 1, 2010 to July 31, 2011, a previous fiscal period, or August 1, 2011 to July 31, 2012, a subsequent fiscal period. There are no 3 Bee bank statements for 2011 before the Court. As such, the logical pro rata rule of thumb applied by the Respondent stands for the proposition more likely than not, that only a proportion of the surplus cash be allocable to accounts receivable, rather than all of it. Common sense is more frequently art than science. The Appellants’ positon comprises neither. Therefore, the more likely shareholder loan balance, in the absence of a precise shareholder loan ledger which was never produced for any year, as of December 31, 2011, was $132,306. This is also consistent with the Respondent’s relevant assumptions which have not been demolished by the Appellant’s proffered evidence.
+V. Conclusion A. Summary
+[39] The respective unreported income and 3 Bee’s HST owing is as stated in paragraph 15 above in these reasons. The reassessment beyond the normal reassessment period and the NWA were warranted. The opening shareholder loan balance was $132,306 as at January 1, 2012. The consensus arrived at by the parties applies to the remaining unreported income. The penalties assessed are deleted.
+[40] The HST appeal may only be resolved by using the ultimately unreported taxable supplies applied across the annual periods corresponding to fiscal years. This is despite the original reassessment spread among 12 quarterly reporting periods. Understandable complexity prevented resolution of the HST reassessments over such a granular group of periods, but allowed agreement by default on the gross unreported sales over the annual reporting periods. Further, there was no disallowance of ITC’s claimed by the Appellant in the reassessment to be adjusted against HST otherwise payable.
+B. Costs
+[41] Costs are assessed provisionally. The Appellant, Brian Fijal, shall have one set of costs in accordance with the applicable Tariff, save for disbursements, which shall be as incurred across all appeals. If not acceptable, the Appellants may make further written submissions within 30 days of this judgment and the Respondent may respond thereto within 30 days thereafter to any such written submissions by the Appellant; neither written submissions shall exceed 10 pages (excluding authorities). Provided that should no submissions be made, this provisional cost order shall become final.
+Signed at Toronto, Ontario, this 5th day of September 2024.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2024 TCC 116
+COURT FILE NO.:
+2019-4226(IT)G
+2019-4255(IT)G
+2020-358(GST)G
+STYLE OF CAUSE:
+BRIAN FIJAL v. HIS MAJESTY THE KING
+THREE-BEE GENERAL CONTRACTING INC. v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+March 19 and 20, and May 29, 2024
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+September 5, 2024
+APPEARANCES:
+Counsel for the Appellant:
+Laura Zubot
+Chukwuebuka (Stanley) Ndibe
+Counsel for the Respondent:
+Kanga Kalisa
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Laura Zubot
+Chukwuebuka (Stanley) Ndibe
+Firm:
+Beitel Tax Law Toronto, Ontario
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada

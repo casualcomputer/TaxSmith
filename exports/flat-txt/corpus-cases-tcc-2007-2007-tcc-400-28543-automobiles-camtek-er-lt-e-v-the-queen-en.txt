@@ -1,0 +1,126 @@
+Title: Automobiles Camtek-Er Ltée v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28543/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-400-28543-automobiles-camtek-er-lt-e-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-07-11
+
+# Automobiles Camtek-Er Ltée v. The Queen
+
+- Citation: 2007 TCC 400
+- Decision date: 2007-07-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1076, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Automobiles Camtek-Er Ltée v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-11
+Neutral citation
+2007 TCC 400
+File numbers
+2002-795(GST)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Citation: 2007TCC400
+Court file No.: 2002-795(GST)G
+BETWEEN:
+AUTOMOBILES CAMTEK-ER LTÉE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+EDITED TRANSCRIPT OF THE
+REASONS FOR JUDGMENT
+Attached is an edited version of the transcript of the Reasons for Judgment delivered orally from the Bench at Montréal, Québec, on April 13, 2007. The original transcript was certified by Jean Riopel, Official Court Reporter. I have edited that transcript for typos, spelling, style, punctuation and grammar. I have also made minor changes and additions to improve the clarity.
+Signed at Ottawa, Canada, this 11th day of July 2007.
+"Gaston Jorré"
+Jorré, J.
+Citation: 2007TCC400
+Court file No.: 2002-795(GST)G
+TAX COURT OF CANADA
+Re: the Excise Tax Act
+BETWEEN:
+AUTOMOBILES CAMTEK-ER LTÉE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT DELIVERED
+ORALLY FROM THE BENCH BY JUSTICE GASTON JORRÉ
+in the Courts Administration Service Building,
+30 McGill Street, Montréal, Québec
+on Friday, April 13, 2007 at 15:30
+APPEARANCES:
+Mr. Mamdouh Mansour
+Agent for the Appellant
+Mr. Alain-François Meunier
+Counsel for the Respondent
+ALSO PRESENT:
+Ms. Nicole Champagne
+Court Registrar
+RIOPEL, GAGNON, LAROSE & ASSOCIÉS
+215 Saint-Jacques Street, Room 328
+Montréal, Québec H2Y 1M6
+(514) 286-5454
+JEAN RIOPEL, o.c.r.
+REASONS FOR JUDGMENT
+(Edited from the transcript of the Reasons delivered orally from the Bench
+at Montréal, Québec on April 13, 2007)
+JUSTICE JORRÉ: These are my reasons for judgment in the appeal of Automobiles Camtek-ER Limitée against Her Majesty the Queen, appeal number 2002-795(GST)G.
+This is an appeal from a GST assessment dated 12 December 2000 bearing number 0319269 and covering the period from 1 October 1996 to 31 August 1999.
+Pursuant to this assessment, there was an upward adjustment of $32,285.75 plus penalty and interest thereon pursuant to section 280 of the Excise Tax Act. The Minister’s adjustments in the reassessment were in two parts. First, there was an amount of output tax of $7,434.98 that was reported by the taxpayer but not entered into the Respondent’s data system. This was in respect of the months of June, July and August 1999. Secondly, the assessment of 12 December 2000 reduced the input tax credit claims by an amount of $24,850.77.
+The first issue can be disposed of very rapidly. The amount of $7,434.98 is simply the sum of the output tax, the GST collected on sales, that was reported by the Appellant in its returns for the three months in box 105. These returns are in exhibit R-9 at pages 4.55, 4.56 and 4.57. Nothing in the evidence has persuaded me that the sales, or the GST collected, in those three months were anything less than what was shown in boxes 101 and 105 respectively of the those three pages. The comments I shall make later with respect to the evidence are equally applicable here.
+Turning to the second issue, I should note that the Respondent at the opening of the hearing made a concession that a mathematical error was made and that there should be a reduction in the quantum of investment tax credits disallowed, I will return to this at end of my judgment.
+The Appellant is in the business of selling damaged cars that have been repaired. The Appellant’s representative, Mr. Mansour, testified on behalf of the Appellant. Mr. Mansour testified that he owns the Appellant company and he is its director and president; he also testified that he owned, was director of and president of Automobiles Noratel Limitée. We shall return to Automobiles Noratel shortly.
+I note that exhibit R-10 shows Linda Meadus, or Linda Mansour, Mr. Mansour’s spouse, as owner and director of the company, however, nothing turns on whether it was Mr. or Mrs. Mansour who owned the Appellant.
+The Appellant company was late in filing its GST returns and filed the 28 GST returns covering the period from 1 May 1997 to 31 August 1999 in September 1999.
+When the Appellant was audited, the company did not have any accounting books or records; it simply produced documents such as invoices, sales contracts or cheques.
+Mr. Mansour testified that he was responsible for the tax matters of both the Appellant and Automobiles Noratel. He explained that there was the following relationship between the Appellant and Automobiles Noratel.
+The Appellant is not a conventional used car sales company, it sells damaged cars that are rebuilt. The Appellant would buy the damaged cars, Noratel would repair the cars and would purchase parts needed for the repairs. In fact, Mr. Mansour testified that he filed the GST returns as if the purchases by Noratel were purchases by the Appellant.
+The Respondent called Mrs. Corbière, an auditor of Revenue Québec. Mrs. Corbière took over the file from Mr. Groulx who left the department. She verified the months where net tax was shown as payable. In the returns, monsieur Groulx had already verified months for which there was a net tax refund claimed. Her report is in exhibit R-4 and exhibit R-5 sets out her adjustments. She testified that, in the absence of books and records, she examined the various documents provided by the Appellant. When there were invoices to the Appellant, she accepted that the Appellant was entitled to an investment tax credit; where the invoice was to anyone else, she rejected any investment tax credit claimed by the Appellant.
+The net results are set out in pages 1 and 2 of exhibit R-5. On page 2, the net amount due of $41,314.94, which amount represents the adjustment of Input Tax Credits (“ITCs”) plus interest plus penalty, corresponds with the box “net amount due” on exhibit R-1. She also testified that prior to her work, Mr. Groulx had disallowed approximately $22,000 of input tax credits claimed for the months he examined, the months where a net tax refund was claimed.
+Mr. Mansour in testimony filed exhibits A-1, A‑2 and A-3 in support of his claim that the assessment is in error. In A-1 and A-3, there are summary sheets setting out sales, purchases, GST collected and GST paid as well as net GST. He says that these sheets set out the GST situation for the periods in question.
+I should first note that the documents include periods prior to 1 October 1996. Given that the assessment in issue covers a period beginning on 1 October 1996, I do not need to consider anything prior to that time.
+In A-1 and A-3, we have invoices from Auto Noratel to the Appellant’s company as well as receipts and cheques. It was admitted that the invoices from Noratel and the receipts were prepared after the auditor’s work. Mr. Mansour says this was done to restructure the transactions, to properly reflect sales from Noratel to the Appellant.
+Invoices and receipts prepared after the period can have no value whatsoever. To claim an ITC in the period, there must be GST paid or payable within the period. There is no proof in front of me that any GST was payable or paid by the Appellant to Noratel in the period.
+More generally, I have another difficulty with A-1 and A-3. Exhibit R-9 consists of copies of the Appellant’s GST returns from May 1997 to August 1997. If one adds up the output tax shown, one gets roughly $40,000 in output tax. If one adds up the output tax in the summaries for the same period as R‑9 in exhibit A-1 and A-3 − and I note that A-1 and A-3 have the same summaries − then one gets an output tax that is something like seventy percent lower than that filed in the original returns.
+Put another way, car sales are dramatically lower than as filed. Mr. Mansour takes the position that this results from separating out the Appellant and Noratel. Unfortunately, this cannot be reconciled with the testimony that Noratel did its repair work for the Appellant. The number of car sales and the car sale price does not change because Noratel did work for the Appellant.
+When one compares the ITCs claimed in the returns in R-9 with the same period in A-1 and A-3, one finds that the ITCs claimed have dropped by somewhat less than one half but the net results of the changes in output tax and ITCs is that in the period of 28 months there is now, according to the Appellant, a very substantial net tax refund owing, quite different from what was filed.
+I do not accept Mr. Mansour’s explanations, I do not accept this evidence. I do not see why in 1999, on filing the returns, he would think that the company sold more cars in dollar value than it did but later, he would be aware that the correct value of car sales and the correct value of GST collected would be much lower.
+There are other problems with the evidence presented by the Appellant but for the reasons I have just given, that alone results in my rejecting the Appellant’s evidence.
+The Appellant argued that the level of expenses implied by the audit was inconsistent with the sales. I would only observe that the question here is: what GST did the Appellant company pay (GST that gives rise to ITCs for the Appellant)? It is not what some other company or some other person paid; it is not what the level of expenses is. This is not an income tax appeal; it is not a calculation of profit.
+In the absence of proper books and records, it is not surprising that there are difficulties. The burden of proof is on the Appellant, I do not find that I have heard any evidence that would be a basis for me to change the assessment.
+Penalty was levied under section 280. There is nothing in the evidence to suggest due diligence and I conclude that the penalty must be maintained.
+Finally, I noted earlier that the Respondent conceded a mathematical error in R-5. The error is $5,579.66. As a result, I will allow the appeal only to the extent of the concession but not otherwise. Consequently, the appeal will be allowed and the assessment sent back to the Minister for reconsideration and reassessment on the basis that the amount of input tax credit disallowed, which is shown as $24,850.77 on page 2 of R-5, should be reduced by an amount of $5,579.66.
+I award costs to Her Majesty the Queen.
+END OF JUDGMENT
+CITATION: 2007TCC400
+COURT FILE NO.: 2002-795(GST)G
+STYLE OF CAUSE: AUTOMOBILES CAMTEK-ER LTÉE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Québec
+DATE OF HEARING: April 13, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF ORAL JUDGMENT: April 13, 2007
+DATE OF EDITED REASONS
+FOR JUDGMENT: July 11, 2007
+APPEARANCES:
+Agent for the Appellant:
+Mamdouh Mansour
+Counsel for the Respondent:
+Alain-François Meunier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

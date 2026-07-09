@@ -1,0 +1,384 @@
+Title: Bergeron c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26778/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-286-26778-bergeron-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-09-19
+
+# Bergeron c. La Reine
+
+- Citation: 2003 CCI 286
+- Decision date: 2003-09-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3491, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bergeron c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-19
+Référence neutre
+2003 CCI 286
+Numéro de dossier
+2001-1410(IT)G
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2001-1410(IT)G
+ENTRE :
+JOHANNE BERGERON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Lise Goudreault Bergeron (2001-1411(IT)G) le 11 décembre 2002 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Daniel Bourgeois
+Avocate de l'intimée :
+Me Janie Payette
+_______________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de l'article 160 de la Loi de l'impôt sur le revenu, dont l'avis porte le numéro 13394, en date du 3 mai 2001, est rejeté, le tout avec dépens en faveur de l'intimée, selon les motifs du jugement ci-joints
+Signé à Ottawa, Canada, ce 19e jour de septembre 2003.
+« Alain Tardif »
+Juge Tardif
+Dossier : 2001-1411(IT)G
+ENTRE :
+LISE GOUDREAULT BERGERON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+_______________________________________________________________
+Appels entendus sur preuve commune avec l'appel de Johanne Bergeron (2001-1410(IT)G) le 11 décembre 2002 à Québec (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Avocat de l'appelante :
+Me Daniel Bourgeois
+Avocate de l'intimée :
+Me Janie Payette
+_______________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de l'article 160 de la Loi de l'impôt sur le revenu, dont les avis sont en date du 3 mai 2001 et 22 mai 2001, portant respectivement les numéros 13393 et 19959, sont accueillis en partie.
+Le Tribunal donne acte au consentement à jugement quant à la cotisation au montant de 45 000 $ laquelle est annulée des suites dudit consentement à jugement. Quant à la cotisation au montant de 130 000 $, elle est annulée; le dossier sera retourné à l'Agence des douanes et du revenu du Canada, aux fins qu'il soit établi une nouvelle cotisation en prenant pour acquis que la juste valeur marchande (la « JVM » ), du bien transféré à l'appelante, était de 111 500 $. Un montant de 73 856,40 $ devra être soustrait de la nouvelle cotisation à être émise des suites de la détermination d'une nouvelle JVM correspondant aux paiements faits par l'appelante au bénéfice de la dette fiscale de son ex-conjoint, auteur du transfert dont elle a bénéficié.
+Le tout avec dépens en faveur de l'appelante, selon les motifs du jugement ci-joints
+Signé à Ottawa, Canada, ce 19e jour de septembre 2003.
+« Alain Tardif »
+Juge Tardif
+Référence : 2003CCI286
+Date : 20030919
+Dossiers : 2001-1410(IT)G
+2001-1411(IT)G
+ENTRE :
+JOHANNE BERGERON,
+LISE GOUDREAULT BERGERON,
+appelantes,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Tardif
+[1] Les appelantes ont convenu de procéder au moyen d'une preuve commune. Au moment de l'audition Lise Goudreault Bergeron était devenue ex-conjointe de monsieur Michel Bergeron; quant à Johanne Bergeron, elle était la fille de ces derniers.
+[2] L'appel porte sur des cotisations établies en vertu de l'article 160 de la Loi de l'impôt sur le revenu (la « Loi » ).
+[3] En date du 23 octobre 2000, monsieur Michel Bergeron avait un solde impayé en cotisations d'impôt s'élevant à 354 261,45 $, dont le détail est décrit à l'alinéa 11e) de la Réponse à l'avis d'appel (la « Réponse » ) :
+e) ...
+Pour l'année 1991
+Impôt féd. : 50 954,50 $
+Pénalités : 24 503,88 $
+Intérêts : 87 476,30 $
+Total : 162 934,68 $
+Pour l'année 1992
+Impôt féd. : 39 142,72 $
+Pénalités : 18 113,66 $
+Intérêts : 53 281,36 $
+Total : 110 537,74 $
+Pour l'année 1993
+Impôt féd. : 30 091,25 $
+Pénalités : 14 585,33 $
+Intérêts : 36 112,45 $
+Total : 80 789,03 $
+[4] En date du 8 janvier 2001, le solde impayé des cotisations d'impôt de Michel Bergeron s'élevait à 362,699,86 $, selon le détail décrit à l'alinéa 11n) à la Réponse :
+n) ...
+Pour l'année 1991
+Impôt féd. : 50 954,50 $
+Pénalités : 24 503,88 $
+Intérêts : 90 181,25 $
+Total : 165 639,63 $
+Pour l'année 1992
+Impôt féd. : 39 142,72 $
+Pénalités : 18 113,66 $
+Intérêts : 56 001,87 $
+Total : 113 258,25 $
+Pour l'année 1993
+Impôt féd. : 30 091,25 $
+Pénalités : 14 585,33 $
+Intérêts : 38 125,40 $
+Total : 83 801,98 $
+[5] Quant à la cotisation 13393, les faits suivants ont été admis :
+· L'appelante, Lise Goudreault Bergeron, était l'épouse de monsieur Michel Bergeron, et ce jusqu'au prononcé du jugement de divorce qui a eu lieu le 31 décembre 1997.
+· À la fin 1990 ou début 1991, l'appelante et Michel Bergeron ont acquis ensemble un condominium situé en Floride, au 806 Waterside Village, Hypolux, Florida (33452) au prix de 134 346,56 $US.
+· Le 9 août 1991, l'appelante et Michel Bergeron contractaient un prêt hypothécaire au montant de 75 000 $US dans le cadre de l'acquisition du condo décrit au paragraphe précédent.
+· Le 4 mars 1997, Michel Bergeron obtenait de la Banque TD un prêt hypothécaire au montant de 115 000 $ sur la résidence située au 4696 rue de Courlis à St-Augustin (Québec).
+· Le 10 mars 1997, un montant de 90 630,02 $ était débité dans le compte de banque de monsieur Michel Bergeron afin de rembourser le solde de l'hypothèque du condominium en Floride.
+· Le ou vers le 10 mars 1997, monsieur Michel Bergeron remboursait le solde de l'hypothèque du condominium en Floride pour un montant de 90 630,02 $
+· Il n'y a eu aucune contestation quant au montant de la dette fiscale de monsieur Michel Bergeron au moment du transfert.
+Cotisation 19959 :
+· Le ou vers le 7 mai 1993, monsieur Michel Bergeron a transféré à l'appelante, Lise Goudreault Bergeron, par acte de donation, enregistré à la division d'enregistrement de Charlevoix le 15 juin 1993, une propriété (lots 937 et 938) située en la municipalité de la Baleine, Ile aux Coudres.
+[6] Quant au dossier de l'appelante Johanne Bergeron (2001-1410(IT)G), les admissions ont porté sur les faits suivants :
+· Par chèque en date du 10 septembre 1991, monsieur Michel Bergeron lui a transféré un montant de 25 000 $.
+· Elle est la fille de monsieur Michel Bergeron.
+· Michel Bergeron n'a reçu aucune contrepartie à l'égard de ce transfert d'argent.
+· La dette fiscale de monsieur Michel Bergeron au moment du transfert est admise.
+· Admission quant au montant de 25 000 $ reçu le ou vers le 10 septembre 1991.
+[7] La cotisation dans le dossier Johanne Bergeron (dossier 2001-1410(IT)G) portant le numéro 13394, a été établie le 3 mai 2001. Quant au dossier de Lise Goudreault Bergeron (dossier 2001-1411(IT)G), les cotisations ont été établies le 3 mai 2001 et le 22 mai 2001 et portent les numéros respectifs 13393 et 19959. La cotisation numéro 13393 était au montant de 45 315,01 $ et la cotisation 19959 était au montant de 130 000 $.
+[8] Au début de l'audition, l'intimée a consenti à jugement en ce qui a trait à la cotisation numéro 13393 au montant de 45 315,01 $, le tout ayant pour effet d'annuler ladite cotisation.
+[9] Le 17 octobre 2000, monsieur Michel Bergeron, ex-conjoint de l'appelante et père de Johanne également appelante signifiait à tous ses créanciers, dont l'intimée, un avis d'intention de faire une proposition le tout ayant pour effet de surseoir à toutes les procédures initiées contre lui pour le recouvrement de ses dettes y compris ses dettes fiscales.
+[10] Des suites de l'avis d'intention, un processus de négociation a débuté. Une première offre, en date du 21 décembre 2000, fut soumise; monsieur Bergeron offrait de payer un montant global de 175 000 $ en règlement de toutes ses dettes, y compris les dettes fiscales dues à l'Agence des douanes et du revenu du Canada (l' « ADRC » ) et à Revenu Québec. L'offre était assujettie à la condition que l'ADRC renonce à se prévaloir des dispositions de l'article 160 à l'encontre des appelantes, c'est-à-dire Lise Goudreault Bergeron et sa fille Johanne.
+[11] L'offre de Michel Bergeron était également conditionnelle à l'autorisation de son ex-conjointe de vendre le condominium dont ils étaient co-propriétaires. Le 20 décembre, l'appelante, Lise Goudreault Bergeron, assujettissait son consentement à ce que le condominium en Floride soit vendu, à la renonciation par l'intimée à l'application de l'article 160, tant à son endroit qu'à l'endroit de sa fille Johanne.
+[12] Le 28 décembre, l'ADRC refusait l'offre et soumettait une contre-proposition exigeant le paiement d'un montant de 350 000 $, réservant, en outre, ses droits en vertu des dispositions de l'article 160.
+[13] Le 19 janvier 2001, une nouvelle proposition était faite par Michel Bergeron; il proposait de payer un montant de 250 000 $, le tout toujours à la condition qu'il soit renoncé à l'application des cotisations émises en vertu de l'article 160 à l'encontre des appelantes.
+[14] Le 24 janvier, l'ADRC refusait cette proposition, indiquant, par contre, qu'une somme de 300 000 $ serait acceptable; elle réitérait cependant son refus de renoncer à l'application de l'article 160.
+[15] Le 6 février 2001, la proposition de Michel Bergeron en vertu de laquelle il offrait de payer 300 000 $ était formellement soumise. Des suites de la proposition finale, l'ADRC en date du 9 février, revenait à la charge quant à sa volonté de sauvegarder ses droits à l'égard des appelantes. Pour ce faire, l'intimée s'exprimait comme suit :
+...
+Suite à notre conversation téléphonique d'hier relativement à la proposition de Michel Bergeron déposée le 6 février 2001, nous voudrions ajouter une clause dans la proposition en plus des modifications que nous vous avons discuté hier. Voici la clause à inclure dans la proposition de monsieur Bergeron :
+· L'Agence des douanes et du revenu du Canada conservera tous ses recours en vertu de la Loi de l'impôt sur le revenu.
+Je vous remercie à l'avance de votre précieuse collaboration dans ce dossier en espérant recevoir de vos nouvelles très bientôt sur ce sujet.
+...
+[16] Michel Bergeron, par le biais de Robitaille Delisle et associés, le 16 février, répliquait au moyen d'une note transmise par télécopieur, suggérant une autre façon de formuler la clause relative aux dettes fiscales établies en vertu de l'article 160 de la Loi. Le 21 février, l'ADRC réplique par le biais de la lettre, dont il m'apparaît important de reproduire le contenu : (onglet 18)
+...
+Objet: Michel Bergeron, en proposition
+...
+Québec, le 21 février 2001
+Monsieur,
+Pour faire suite à la réception de votre correspondance du 16 février dernier, nous tenons à vous aviser que la clause proposée n'est pas acceptable pour l'Agence des douanes et du revenu du Canada (ADRC).
+Nous profitons également de l'occasion pour vous informer que nous retirons notre demande du 9 février 2001 qui avait comme objectif d'inclure la clause suivante dans la proposition :
+· L'Agence des douanes et du revenu du Canada conservera tous ses recours en vertu de la Loi de l'impôt sur le revenu.
+Nous vous informons que le fait de ne pas inclure dans la proposition du débiteur la clause que nous vous avions proposée le 9 février dernier ne limite en rien les recours dont dispose l'ADRC en vertu de la Loi de l'impôt sur le revenu.
+Je vous remercie à l'avance de votre précieuse collaboration dans ce dossier en espérant recevoir vos commentaires très bientôt.
+Carl Cloutier
+Recouvrement des recettes
+...
+[17] Le 12 février, Robitaille Delisle et associés, les syndics, préparaient le rapport en vertu de l'article 50(10)B de la Loi sur la faillite et l'insolvabilité.
+[18] Finalement, le 23 février 2001, la proposition soumise par Michel Bergeron était acceptée par la totalité des créanciers présents.
+[19] Lors de l'assemblée des créanciers, monsieur Carl Cloutier, représentant de l'ADRC, informe l'assemblée que l'ADRC conserve tous les recours prévus par l'article 160 de la Loi.
+[20] Le moment précis, où cette réserve a été soumise à l'assemblée des créanciers, a fait l'objet d'un débat animé; l'intimée a affirmé qu'elle avait eu lieu avant le vote et les appelantes ont prétendu qu'elle avait été enregistrée après la tenue du vote.
+[21] La première question en litige consiste à déterminer si l'extinction de la dette fiscale de monsieur Michel Bergeron, des suites de l'acceptation de la proposition, a eu pour effet d'annuler les cotisations établies en vertu de l'article 160 de la Loi.
+[22] La deuxième concerne la juste valeur marchande (la « JVM » ) de la propriété transférée à l'appelante Lise Goudreault Bergeron par acte de donation le 7 mai 1993.
+[23] Finalement, je devrai décider si la contribution financière de l'appelante Lise Goudreault Bergeron dans la proposition acceptée de son ex-conjoint doit réduire pour autant les cotisations dont elle est redevable en vertu de l'article 160. En d'autres termes, la contribution de Lise Goudreault Bergeron respectait-elle les conditions du paragraphe 160(3) de la Loi ?
+[24] Dans un premier temps, les appelantes ont fait valoir que le fait que l'auteur des transferts ait vu sa dette fiscale éteinte à la suite d'une proposition acceptée par les créanciers, faisait en sorte que leur propre dette fiscale, établie en vertu de l'article 160, était également éteinte. Selon elles, la situation était totalement différente de celle où une dette fiscale était éteinte des suites d'une faillite.
+[25] Effectivement, la jurisprudence a clairement établi qu'une dette fiscale, éteinte des suites d'une faillite, ne préjudicie en rien aux droits de l'intimée de recouvrer la même dette fiscale auprès du cessionnaire jusqu'à concurrence de son enrichissement découlant d'un transfert de biens répondant aux exigences de l'article 160 de la Loi.
+[26] Les appelantes ont soutenu qu'il en était autrement en matière de proposition; selon elles, une dette fiscale éteinte des suites d'une proposition acceptée ne pouvait plus faire l'objet de cotisations en vertu de l'article 160 de la Loi.
+[27] En matière de faillite, l'extinction de la dette découle d'un processus prévu par la Loi; le failli n'est aucunement associé au cheminement suivi dans le processus de la liquidation de son patrimoine. D'ailleurs, un failli perd la saisine de tous ses biens; le syndic à la faillite se voit attribuer la saisine des biens et agit comme administrateur. Il en dispose suivant les dispositions de la Loi; en aucun temps, le failli n'est mis à contribution ou ne participe aux décisions relatives à la liquidation des actifs de son patrimoine; il en est totalement exclu.
+[28] Quant à la proposition concordataire, elle est une procédure de liquidation d'une importante partie du patrimoine du proposant en contrepartie de quoi il obtient, si sa proposition est acceptée, l'extinction de ses dettes.
+[29] Durant le processus et ce jusqu'à ce que ses créanciers se prononcent à une date déterminée, le débiteur proposant conserve le contrôle de son patrimoine ou la saisine de ses biens.
+[30] Le débiteur demeure actif dans le processus; il participe à la formulation du contenu de la proposition. En tout temps avant son acceptation par les créanciers, il peut en modifier le contenu. Tout au long du processus devant conduire à l'acceptation ou au refus final, il peut négocier, discuter l'étendue de la masse des actifs devant faire l'objet du partage éventuel entre les créanciers.
+[31] De leur côté, les créanciers, surtout les plus importants, jouent un rôle de premier rang, en ce qu'ils font généralement connaître leurs réactions avant la tenue du vote, d'où le contenu de la proposition fait souvent l'objet de diverses corrections, bonifications ou tractations.
+[32] En substance, le cheminement découlant d'une proposition peut se comparer à un véritable processus de négociation entre les créanciers et le débiteur par l'intermédiaire du syndic; le résultat final est tout à fait semblable à une véritable transaction liant les parties, si la proposition est acceptée. Dans l'hypothèse du refus, cela a pour effet de faire du proposant, un failli.
+[33] Quels sont les effets d'une proposition acceptée sur à une cotisation établie en vertu des dispositions de l'article 160 de la Loi ? L'extinction de la dette fiscale des suites d'une proposition acceptée a-t-elle pour effet d'annuler les cotisations émises au nom du bénéficiaire d'un transfert assujetti à l'article 160 de la Loi ?
+[34] L'article 160 de la Loi prévoit que le bénéficiaire du transfert est solidaire du débiteur fiscal principal et cela, indépendamment de sa volonté. L'obligation naît au moment du transfert et par le seul effet de la Loi.
+[35] Le fondement d'une cotisation établie en vertu de l'article 160 de la Loi est fonction de la valeur transférée sans contrepartie adéquate. Il s'agit d'une cotisation réelle créée par l'effet de la Loi, elle correspond essentiellement à la valeur ajoutée au patrimoine du bénéficiaire du transfert jusqu'à concurrence de la dette fiscale due par l'auteur du transfert du bien. Elle n'a pas pour effet d'appauvrir le bénéficiaire du transfert; elle ne fait que reprendre l'équivalent de l'enrichissement de son patrimoine des suites du transfert ayant appauvri le cédant du bien.
+[36] J'ai répertorié une seule décision, soit Industrial Acceptance Corp. v. Kennedy (1966), 9 C.B.R. (N.S.) 113, où il a été décidé qu'un créancier qui votait en faveur d'une proposition perdait ses recours contre la caution pour les sommes qui lui étaient dues à moins qu'il ne se soit réservé expressément ses recours contre la caution. Ce jugement n'a eu aucune suite et, n'a semble-t-il jamais été repris. D'une part, les obligations découlant d'une caution ne sont pas comparables à celles d'un débiteur fiscal dont la dette a été établie en vertu de l'article 160 de la Loi.
+[37] Même si je souscrivais à cette décision et voulais établir un parallèle, je ne le pourrais pas, puisque la preuve a été déterminante à l'effet que l'intimée a expressément réservé tous ses recours pour le recouvrement des dettes fiscales établies en vertu de l'article 160 de la Loi.
+[38] En effet, les nombreuses discussions et la répétition systématique de la réserve prévue dans toutes les correspondances dans le cadre de la bonification de la proposition originale ne laissent aucun doute quant au refus catégorique de l'intimée de renoncer à ses droits en vertu de l'article 160 de la Loi.
+[39] Je ne vois pas en quoi ni comment une proposition acceptée devrait avoir des effets différents de ceux découlant d'une faillite lesquels ont fait l'objet de plusieurs décisions. Je conclus donc que la proposition acceptée n'a eu aucun effet sur les cotisations à l'origine des présents appels. L'intimée était donc pleinement justifiée d'établir les avis de cotisations à l'encontre des appelantes.
+[40] Je traiterai maintenant de la question de la JVM de l'immeuble qui a fait l'objet d'un transfert, le 7 mai 1993. Lors du transfert de l'immeuble, la donation prévoyait deux clauses particulières. Les clauses en question ont fait l'objet d'interprétations contradictoires.
+[41] Les appelantes ont soutenu que les restrictions prévues à l'acte de donation avaient eu pour effet de réduire considérablement la JVM. De son côté, l'intimée a plaidé que les dites restrictions n'avaient aucun effet sur la JVM.
+[42] Il y a donc lieu d'analyser l'impact des dites réserves exigées par le donateur, monsieur Michel Bergeron. L'acte de donation, en date du 7 mai 1993, prévoyait deux conditions formulées comme suit :
+...
+CONSIDÉRATION
+Cette donation est consentie à titre gratuit mais à la charge pour le donateur un droit d'habitation de façon à lui permettre d'occuper l'immeuble sa vie durant ou jusqu'à la vente de l'immeuble et de lui accorder aussi un droit d'usage des meubles meublants et effets mobiliers se trouvant dans l'immeuble.
+CLAUSES SPÉCIALES
+1. L'immeuble présentement donné ne pourra être vendu ou autrement aliéné à titre onéreux ou gratuit sans le consentement écrit du donateur.
+...
+[43] De telles réserves avaient-elles un impact sur la JVM ? Selon l'expert de l'intimée, monsieur Yvon Ouellet, de telles clauses n'avaient aucun effet sur la JVM. Pour justifier son appréciation, il a soutenu qu'il s'agissait là de droits conférés à la conjointe du donateur ajoutant ainsi qu'ils pouvaient être radiés en tout temps avec la collaboration des parties à la donation.
+[44] De son côté, l'appelante Lise Goudreault Bergeron a soutenu que les réserves exigées par le cédant réduisaient considérablement la JVM de l'immeuble transféré en ce que cela était susceptible de désintéresser tout acquéreur éventuel ou, tout au moins, réduire d'une manière considérable la valeur marchande.
+[45] Pour répondre à cette question, il m'apparaît important de déterminer en premier lieu le moment où la JVM doit s'apprécier. En d'autres termes, la JVM doit-elle être établie au dernier moment, où le bien faisant l'objet du transfert fait encore partie du patrimoine financier du cédant ou au premier moment où il vient s'ajouter au patrimoine du cessionnaire ?
+[46] L'article 160 de la Loi se lit comme suit :
+Transfert de biens entre personnes ayant un lien de dépendance
+160. (1) Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+a) son époux ou conjoint de fait ou une personne devenue depuis son époux ou conjoint de fait;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+d) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement d'une partie de l'impôt de l'auteur du transfert en vertu de la présente partie pour chaque année d'imposition égale à l'excédent de l'impôt pour l'année sur ce que cet impôt aurait été sans l'application des articles 74.1 à 75.1 de la présente loi et de l'article 74 de la Loi de l'impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l'égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l'égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n'est toutefois réputée limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi.
+(Je souligne)
+[47] Je crois que la JVM doit être appréciée dans les secondes précédant le transfert du bien, c'est-à-dire avant que le bien ne fasse partie du patrimoine du cessionnaire. Telle interprétation m'apparaît d'ailleurs conforme à l'esprit de la disposition prévue par l'article 160 de la Loi.
+[48] En effet, le but de la Loi est de faire en sorte qu'un débiteur fiscal ne puisse procéder à un transfert de son actif ou d'une partie de celui-ci avec l'effet d'appauvrir son patrimoine financier en recevant une contrepartie dont la valeur est inférieure à la valeur du bien transféré.
+[49] D'ailleurs la responsabilité fiscale d'un cessionnaire concerné par l'article 160 se limite essentiellement à la valeur ajoutée à son patrimoine découlant du transfert. Cette interprétation est conforme à ce qui a été édicté dans l'affaire Hewett c. Canada, [1996] A.C.I. no 335 (Q.L.).
+[50] L'honorable juge McArthur dans l'affaire Hewett (précitée), dont le jugement a été confirmé par la Cour d'appel fédérale [1997], A.C.F. no 1541 (Q.L.), a traité de cette question d'une façon fort intéressante et ses conclusions ont permis de situer, dans le temps, le moment où doit être déterminée la JVM. Il s'exprimait comme suit :
+46. J'ai minutieusement examiné les arguments que l'avocat de l'appelante a invoqués au sujet du sens de l'expression « juste valeur marchande » telle qu'elle figure à l'article 160. La juste valeur marchande doit-elle être interprétée comme étant la juste valeur marchande du bien entre les mains de l'auteur du transfert ou comme sa juste valeur marchande entre les mains du bénéficiaire du transfert ?
+47. La juste valeur marchande de la part de la maison qui a été cédée à l'appelante est de 80 000 $, comme les deux parties en ont convenu. Après le transfert, l'appelante conservait donc la totalité de la maison, dont la juste valeur marchande totale était de 160 000 $. Si l'expression "juste valeur marchande" figurant à l'article 160 s'entend de la valeur du bien pour le mari au moment du transfert, la valeur est alors de 40 000 $, selon le témoignage de M. Lee, que je retiens.
+48. Pour déterminer l'intention du législateur, il est utile d'examiner le but de l'alinéa 160(1)e). Le but de cette disposition est d'empêcher une personne qui a une dette fiscale importante, comme le mari en l'espèce, de faire échec à la demande du Ministre en transférant à un conjoint ses biens ou l'intérêt qu'il possède sur un bien pour une contrepartie minime ou nulle. La demande du Ministre visait le mari et non l'appelante.
+49. Par conséquent, le ministre a un recours à l'égard de l'intérêt financier du mari qui a transféré sa part de la valeur nette de la maison alors qu'il était endetté envers l'intimée.
+...
+54. À mon avis, il n'est que sensé que le Ministre ne se retrouve pas avec un intérêt financier plus important que celui qu'avait le conjoint de l'appelante au moment du transfert. Je retiens le témoignage de M. Lee, à savoir que le montant en cause était la somme réduite de 40 000 $, et non 80 000 $.
+[51] L'honorable juge Strayer de la Cour d'appel fédérale, dans le même dossier, [1997] A.C.F. no 1541 (Q.L.), s'est exprimé comme suit :
+2. Nous convenons avec le juge de la Cour de l'impôt que le but de l'article 160 de la Loi de l'impôt sur le revenu est d'empêcher un contribuable de faire échec à la réclamation par le Ministre des impôts non payés en transférant ses biens à son conjoint, ou à certaines autres personnes, pour une contrepartie minimale ou nulle. À notre avis, cela signifie que les « biens » dont il est question dans l'article doivent être des biens du contribuable que le Ministre aurait pu saisir si le transfert n'avait pas eu lieu. En l'espèce, il s'agissait du droit de copropriété dans la résidence familiale que détenait le contribuable immédiatement avant la cession à son épouse.
+(Je souligne)
+[52] S'il en était autrement, il est facile d'imaginer toutes sortes de scénarios possibles pour réduire considérablement, sinon anéantir totalement, la JVM d'un bien transféré assujetti aux dispositions de l'article 160 de la Loi. Tout bénéficiaire d'un transfert visé par l'article 160 de la Loi pourrait ainsi réduire sinon empêcher toute éventuelle cotisation en vertu de l'article 160 de la Loi.
+[53] En l'espèce, l'appelante prétend que l'acceptation des conditions restrictives prévues à la donation constituait une contrepartie qui affectait et réduisait considérablement la JVM du bien transféré.
+[54] Si une contrepartie particulière consentie par le bénéficiaire du transfert existait, elle doit s'apprécier et surtout correspondre à une valeur équivalente dans le patrimoine saisissable du cédant. Ainsi, la contrepartie reçue par le cédant doit avoir la même valeur que la valeur diminuée du bien transféré dans le patrimoine du cessionnaire. Il doit, en outre, s'agir d'une valeur objective évaluable dans le cours ordinaire des affaires et non d'une valeur subjective n'ayant aucun intérêt pour un tiers.
+[55] Qu'en est-il de la valeur des réserves prévues au contrat de donation, soit le droit d'habitation et l'interdiction de vendre sans le consentement du donateur ? La réponse partielle à cette question se trouve aux articles 494 et 497 du Code civil du Québec et également aux articles 1172 et 1173 qui se lisent comme suit :
+1172. L'usage est le droit de se servir temporairement du bien d'autrui et d'en percevoir les fruits et revenus, jusqu'à concurrence des besoins de l'usager et des personnes qui habitent avec lui ou sont à sa charge.
+1173. Le droit d'usage est incessible et insaisissable, à moins que la convention ou l'acte qui constitue le droit d'usage ne prévoie le contraire.
+Si la convention ou l'acte est muet sur la cessibilité ou la saisissabilité du droit, le tribunal peut, dans l'intérêt de l'usager et après avoir constaté que le propriétaire ne subit aucun préjudice, autoriser la cession ou la saisie du droit.
+[56] Le droit d'habitation étant personnel au cédant, Michel Bergeron, il n'avait aucune valeur saisissable dans son patrimoine par ses créanciers. Il en était ainsi au niveau de l'interdiction de vendre sans son consentement, qui encore là, n'était pas un droit monnayable ou ayant une quelconque valeur pour un tiers au niveau du patrimoine de Michel Bergeron.
+[57] Conséquemment, la JVM de la résidence de l'Île aux Coudres, transférée par acte de donation le 7 mai 1993, doit être établie en faisant totalement abstraction de la valeur essentiellement subjective des deux avantages conférés au donateur Michel Bergeron, puisque les bénéfices obtenus n'avaient aucune valeur pour ses créanciers éventuels, et ce, conformément au jugement de l'honorable juge Strayer, dont un extrait a été reproduit aux pages précédentes.
+[58] Pour ce qui est de la JVM, l'expert de l'intimée en est arrivé à la conclusion qu'elle était de 135 500 $. Pour arriver à cette JVM, l'expert a dû prendre en considération une foule de facteurs étant donné que l'immeuble transféré avait fait l'objet d'importants travaux de réparations, rénovations et agrandissements et cela, lors de trois phases différentes; au moment où il a visité les lieux la première fois, deux de ces phases avaient déjà été réalisées.
+[59] Le mandat de l'expert consistait à établir la JVM à la date du transfert, soit avant l'exécution des travaux majeurs.
+[60] Le témoignage de monsieur Ouellet a permis de constater que malgré les contraintes majeures, il avait fait un travail sérieux à partir des données disponibles.
+[61] L'expert a cependant reconnu que les comparables utilisées n'étaient pas idéales, en ce qu'il s'agissait de ventes survenues le 10 mai 1995 pour le dossier 1, le 8 novembre 1995 pour le dossier 2 et le 22 août 1995 pour le dossier 3.
+[62] En outre, la date de construction des comparables variait beaucoup : la comparable no 1 fut construite en 1975; la comparable no 2 en 1994 et finalement, la comparable no 3 en 1981. Une photo des trois comparables a d'ailleurs été jointe à l'expertise.
+[63] De son côté, l'appelante n'a eu recours à aucun expert, elle s'en est remise à une description des lieux et aux différentes évaluations municipales et scolaires. Il a été, par contre, longuement fait état des nombreux et importants travaux postérieurs à la donation qui ont complètement transformé les lieux et surtout la JVM des lieux dans les années qui ont suivi le transfert.
+[64] Monsieur Michel Bergeron a produit deux photos démontrant l'état de la résidence au moment de la donation. Construite en 1982, j'ai constaté que la résidence ressemblait étrangement à la comparable no 3, quant à la date de construction et quant à l'allure générale. Une très nette distinction cependant différenciait les deux immeubles au niveau de la superficie du terrain.
+[65] Dans le cas du terrain du bien au centre du présent litige, il s'agit d'une surface de 1 020 314 pi2 alors qu'au niveau de la comparable no 3, il s'agit d'une surface de 25 067 pieds carrés.
+[66] Sur la question du terrain, l'expert de l'intimée a pris pour acquis que l'évaluation municipale des terrains était adéquate et correspondait à la JVM. Il a donc attribué une valeur de 32 800 $ à l'immeuble qui a fait l'objet de la donation; quant à la comparable no 3, l'évaluation municipale était de 16 300 $.
+[67] La considération payée pour la comparable no 3, le 22 août 1995, a été de 54 900 $, alors que l'évaluation municipale était de 58 100 $, soit 16 300 $ pour le terrain et 41 800 $ pour la bâtisse. Il est d'ailleurs très intéressant de constater que les considérations obtenues pour les comparables, toutes trois en 1995, sont inférieures au montant de l'évaluation municipale.
+SUJET
+VENTE No 1
+VENTE
+No 2
+VENTE No 3
+Adresse No
+234
+40
+579
+82
+Rue
+Principale
+Principale
+Des Coudriers
+Principale
+Date de Vente
+07/05/93
+10/05/95
+08/11/95
+22/08/95
+Prix de Vente
+0 $
+170 000 $
+60 000 $
+54 900 $
+Sup. du terrain
+1 020 314
+96 552
+25 962
+25 067
+Éval. municipale
+terrain
+32 800 $
+50 200 $
+14 600 $
+16 300 $
+bâtisse
+94 000 $
+123 100 $
+61 500 $
+41 800 $
+total
+126 800 $
+173 300 $
+76 100 $
+58 100 $
+% égal Mun./prix
+102 %
+127 %
+106 %
+[68] Le différentiel moyen entre le prix de vente pour les trois comparables et l'évaluation municipale est de 11,66 p. 100. Dans les circonstances, je crois raisonnable d'appliquer le même différentiel moyen de 12 p. 100 à l'évaluation municipale établie à 126 800 $ pour l'immeuble ayant fait l'objet de la donation. Je fixe donc la JVM de l'immeuble à 111 500 $.
+[69] Quant au dernier point en litige, il s'agit de décider si la contribution financière de l'appelante à la proposition acceptée doit réduire pour autant sa propre dette fiscale établie au moyen de deux cotisations en vertu de l'article 160 de la Loi. Les appelantes ont soumis que tous les montants que l'appelante avait dégagé pour permettre l'acceptation de la proposition de monsieur Michel Bergeron devaient être déduits pour le motif qu'il s'agissait de paiements faits en conformité avec le paragraphe 160(3) de la Loi, qui se lit comme suit :
+3) Règles applicables - Lorsqu'un auteur et un bénéficiaire du transfert sont devenus, en vertu du paragraphe (1), solidairement responsables de tout ou partie d'une obligation de l'auteur du transfert en vertu de la présente loi, les règles suivantes s'appliquent :
+a) tout paiement fait par le bénéficiaire du transfert au titre de son obligation éteint d'autant l'obligation solidaire;
+b) tout paiement fait par l'auteur du transfert au titre de son obligation n'éteint l'obligation du bénéficiaire du transfert que dans la mesure où le paiement sert à réduire l'obligation de l'auteur du transfert à une somme inférieure à celle dont le paragraphe (1) a rendu le bénéficiaire du transfert solidairement responsable.
+[70] La preuve a révélé que l'appelante, Lise Goudreault Bergeron, avait été associée de façon continue et active au processus ayant mené à l'acceptation finale de la proposition. Cela ressort d'ailleurs très clairement, du consentement à jugement soumis en début d'audition, quant à la cotisation no 13393 au montant de 45 315,01 $ émise le 23 octobre 2000.
+[71] Ce consentement à jugement découlait, selon les explications fournies par l'intimée au moment de sa présentation, au fait que lors des divers pourparlers dans le cadre des négociations relatives à la proposition, il avait pu être compris ou pris pour acquis que la participation financière de l'appelante Lise Goudreault Bergeron aurait des effets directs, quant à sa propre dette fiscale constituée d'une cotisation au montant de 45 315,01 $ à l'origine du consentement à jugement et d'une deuxième au montant de 130 000 $ émise des suites d'un transfert de bien, dont la JVM a été traitée, aux pages précédentes de ce jugement.
+[72] La preuve a établi clairement que l'appelante avait présumé que sa participation financière dans la bonification de l'offre, suivie de l'acceptation de la proposition, aurait un impact direct sur sa propre dette fiscale. D'ailleurs, le Ministre par le biais de monsieur Carl Cloutier, responsable du dossier au niveau du recouvrement, a eu des pourparlers à cet effet avec le représentant financier de l'appelante d'où ses prétentions n'étaient pas essentiellement intuitives. Elle avait de réelles raisons de croire que sa participation et collaboration financière auraient des effets directs sur sa propre dette fiscale.
+[73] En outre, lors des négociations précédant l'offre acceptée, il est ressorti très clairement dans toutes les correspondances que la question de la dette fiscale de l'appelante et de sa fille, également appelante, constituait une préoccupation omniprésente et fondamentale. Certes, l'intimée n'a jamais souscrit à l'exigence voulant qu'elle soit, avec sa fille, exempte de toute cotisation émise en vertu de l'article 160 de la Loi.
+[74] Plusieurs libellés ou formulations ont été utilisés. D'une part, le Ministre ne voulait manifestement pas renoncer à ses droits de recouvrer éventuellement sa créance; d'autre part, il était manifestement intéressé à ce que la proposition devienne acceptable et acceptée.
+[75] Cette volonté compréhensible de l'appelante de vouloir voir annuler les cotisations auxquelles elle devait faire face et la volonté tout aussi compréhensible de l'intimée de vouloir préserver ses recours ressortent très clairement des pièces A-8, A-9, A-10, A-11, A-12, A-13, A-14, A-15, A-16 et A-21.
+[76] Certains extraits des témoignages de monsieur Carl Cloutier et de l'appelante sont tout aussi significatifs à cet égard.
+[77] Les explications qui ont accompagné le dépôt du jugement, en faveur de l'appelante quant à la cotisation au montant de 45 315,01 $, constituent une indication significative quant aux attentes exprimées par l'appelante.
+[78] L'appelante n'avait aucune raison, motif ou autre intérêt de contribuer à l'enrichissement du patrimoine de son ex-conjoint Michel Bergeron, puisqu'elle et sa fille avaient déjà reçu des avis de cotisations, totalisant 200 315,01 $ (45 315,01 $, 130 000 $ et 25 000 $). Elle n'a jamais obtenu les garanties désirées à l'effet que l'intimée renonçait à se prévaloir des dispositions de l'article 160 de la Loi. Il était donc probable que l'intimée ferait éventuellement valoir ses droits pour le recouvrement de sa créance.
+[79] Elle aurait accepté de participer sans raison ni motif, à titre gracieux, d'un montant de plus de 119 171,40 $, selon les détails suivants :
+Part indivise dans le condo de Floride
+121 395,31 $US ¸ 2
+=
+60 696,65 US$
+Transfert en dollars canadiens
+66 949,51 ¸ 2
+=
+33 474,75 $
+Dépôt chèque personnel
+=
+25 000,00 $
+TOTAL
+119 171,40 $
+[80] Une telle interprétation n'est carrément pas raisonnable et constitue le fruit d'une imagination très fertile.
+[81] Elle croyait profondément que sa participation financière réduirait pour autant, espérant même l'annulation pure et simple de sa dette fiscale et celle de sa fille. Elle a effectivement déboursé ou contribué de façon majeure et significative à la proposition pour un montant total de 119 171,40 $, décrite au paragraphe 79.
+[82] Le total des dettes fiscales établi en vertu des dispositions de l'article 160 de la Loi se chiffre à 200 315 $ et se détaille comme suit :
+Dossier Lise Bergeron :
+Cotisation 13393
+45 315 $
+Cotisation 19959
+130 000 $
+175 315 $
+Dossier Johanne Bergeron
+Cotisation 13394
+25 000 $
+TOTAL
+200 315 $
+[83] L'intimée a consenti à jugement quant à la cotisation numéro 13393 au montant de 45 315,01 $. Quant à la cotisation au montant de 130 000 $, elle est annulée. Une nouvelle cotisation devra être établie en prenant pour acquis que l'appelante a bénéficié d'un bien lors du transfert le 7 mai 1993 dont la JVM était alors de 111 500 $. Il devra être tenu compte d'un montant de 73 856,40 $ correspondant aux paiements faits par l'appelante à l'avantage de la dette fiscale due par son ex-conjointe lors de l'établissement de la nouvelle cotisation des suites de la détermination par le présent jugement de la nouvelle JVM. L'appelante a déboursé un montant total de 119 171,40 $. De ce montant doit être soustrait l'équivalent du montant qui a fait l'objet d'un consentement à jugement soit 45 315 $, laissant ainsi un solde de contribution de 73 856,40 $.
+[84] Il s'agit du montant de la participation financière de l'appelante, Lise Goudreault Bergeron au contenu de la proposition acceptée. Ce montant rencontre les exigences de l'article 160(3) de la Loi. Une nouvelle cotisation au montant de 37 643,60 $ devra être établie, le tout avec dépens en faveur de l'appelante.
+[85] Pour ce qui est du dossier de Johanne Bergeron, les prétentions et arguments de l'appelante elle-même à savoir que la dette fiscale était éteinte des suites de l'acceptation par l'intimée de la proposition de son père Michel Bergeron n'ayant pas été retenus par le Tribunal, je confirme donc le bien-fondé de la cotisation, le tout avec dépens en faveur de l'intimée.
+[86] Quant au dossier de l'appelante Lise Goudreault Bergeron, le Tribunal donne acte au consentement à jugement quant à la cotisation au montant de 45 000 $, annule la cotisation au montant de 130 000 $ et retourne le dossier à l'Agence des douanes et du revenu du Canada, aux fins qu'il soit établi une nouvelle cotisation en prenant pour acquis que la JVM de l'immeuble au moment du transfert était de 111 500 $ et qu'un montant de 73 856,40 $ devra être soustrait de la nouvelle cotisation à être émise des suites de la détermination d'une nouvelle JVM correspondant aux paiements faits par l'appelante au bénéfice de la dette fiscale de son ex-conjoint, auteur du transfert dont elle a bénéficié, le tout avec dépens en faveur de l'appelante.
+Signé à Ottawa, Canada, ce 19e jour de septembre 2003.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2003CCI286
+Nos DES DOSSIERS DE LA COUR :
+2001-1410(IT)G et 2001-1411(IT)G
+INTITULÉS DES CAUSES :
+Johanne Bergeron,
+Lise Goudreault Bergeron
+et sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Québec (QC)
+DATES
+de l'audience :
+de l'argumentation additionnelle
+des appelantes :
+le 11 décembre 2002
+le 16 décembre 2002
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 19 septembre 2003
+COMPARUTIONS :
+avocat des appelantes :
+Me Daniel Bourgeois
+Avocate de l'intimée :
+Me Janie Payette
+AVOCAT INSCRIT AU DOSSIER:
+Pour les appelantes :
+Nom :
+Me Daniel Bourgeois
+Étude :
+Pothier Deslisle
+Sainte-Foy (Québec)
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

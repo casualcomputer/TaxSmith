@@ -1,0 +1,143 @@
+Title: Neuberger v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26697/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-359-26697-neuberger-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2004-05-20
+
+# Neuberger v. M.N.R.
+
+- Citation: 2004 TCC 359
+- Decision date: 2004-05-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3443, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Neuberger v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-05-20
+Neutral citation
+2004 TCC 359
+File numbers
+2003-2939(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-2939(EI)
+BETWEEN:
+HERSHEL NEUBERGER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 27, 2004 at Montreal, Quebec
+Before: The Honourable S.J. Savoie, Deputy Judge
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alain Gareau
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the decision rendered by the Minister is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 20th day of May 2004.
+"S.J. Savoie"
+Savoie, D.J.
+Citation: 2004TCC359
+Date: 20040520
+Docket: 2003-2939(EI)
+BETWEEN:
+HERSHEL NEUBERGER,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Savoie, D.J.
+[1] This appeal was heard in Montreal, Quebec, on February 27, 2004.
+[2] This is an appeal from a decision made by the Minister of National Revenue (the "Minister"), wherein he informed the Appellant, at his request, that employment insurance premiums were payable because during the disputed period, from January 1st, 2002 to April 23rd, 2003, he was engaged under a contract of service and therefore, he was an employee of the Payer, Yeshiva Gedola the School of Higher Learning of Montreal.
+[3] In reaching his decision, the Minister relied on the following assumptions of fact:
+a) the Payer was incorporated on December 15, 1967; (admitted)
+b) the Payer was operating a school; (admitted)
+c) the Appellant was engaged by the Payer as a researcher and as a professor; (admitted)
+d) the Appellant was an American citizen; (admitted)
+e) the Appellant had an employment authorization from Immigration Canada; (admitted)
+f) the authorization is valid until September 1st, 2005 for employment with the Payer only; (admitted)
+g) the Appellant's tasks were to teach Talmudic Law, to guide students and to carry out researches in the School's Library; (admitted)
+h) the Appellant was paid $1,700 gross per week by the Payer; (admitted)
+i) the Appellant received his salary by cheque every two weeks; (admitted)
+j) the Appellant worked in the premises of the Payer, 6155 Deacon road, in Montreal; (admitted)
+k) the Payer established and controlled the hours of work of the Appellant; (admitted)
+l) the Appellant worked approximately 31 hours per week for the Payer; (admitted)
+m) the Appellant had to inform the Payer of his absence; (admitted)
+n) the Appellant used the Payer's premises, material and equipment in performing his tasks; (admitted)
+o) the Appellant had no risk of losses or chance of profits. (admitted)
+[4] The Appellant has admitted all the assumptions of fact of the Minister. The position of the Appellant can be found in his two letters which were produced by the Minister. His letter of June 25, 2003 states as follows:
+To Whom It May Concern:
+The question of whether Hershel Neuberger, must pay Employment Insurance, was based upon the fact that he cannot receive the benefits, since he is not Canadian, he only has an Employment Visa.
+His employment visa only allows him to work at the institution he is currently employed.
+Now since he cannot receive benefits if unemployed, he should not have to pay the premium either.
+Kindly, clarify this issue.
+Respectfully,
+Hershel Neuberger
+[5] His second letter, dated August 13, 2003 reads as follows:
+To whom it may concern
+I would like to appeal the ruling stating that I have to pay Employment Insurance.
+My reason is as follows, since my Employment visa allows me to work only for one company, namely Yeshiva Gedola, therefore should I become unemployed, I would not be paid any benefits, since I cannot look for any other employment.
+I feel this issue has not been addressed. This issue is relevant from Nov 2001 - until present date. Included in this letter is a copy of my employment visa.
+Sincerely,
+Hershel Neuberger
+...
+[6] A copy of the Appellant's Visa referred to by the Appellant in the previous letter was attached to his letter of August 13, 2003. The Visa was issued on September 30, 2001 and the stated date of expiration is September 1, 2005. Some of the terms and conditions of the Visa are as follows:
+1. Prohibited from attending any educational institution and taking any academic, professional or vocational training course.
+2. Not authorized to work in any occupation other than stated.
+3. Not authorized to work for any employer other than stated.
+4. Not authorized to work in any location other than stated.
+[7] At the hearing, the Appellant conceded all the facts and assumptions of fact set forth by the Minister. He also agreed with the Minister saying that "the employment appears to be insurable".
+[8] He does, however, take issue with the fairness of the provision under the Employment Insurance Act (the "Act") which labels his employment insurable and the collection of premiums mandatory. His challenge is based on the fact that if he loses his employment, he will not qualify for benefits because he will not be available for work by reason of the restrictive nature of his Visa.
+[9] Although the Appellant's position is logical and commendable from his standpoint, the Minister's decision, on the facts before him under paragraphs 5(1)(a) and (b) of the Act, is inescapable. The relevant paragraphs read as follows:
+5.(1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+(b) employment in Canada as described in paragraph (a) by Her Majesty in right of Canada;
+...
+[10] Granting that the Appellant's arguments are not without empathetic value, and the Court has been attentive to his expressed compelling reasons to be supportive to his predicament, the interpretation of the above paragraphs of the Act by the courts leaves no room for any support to his position. The Appellant has failed to demonstrate any justification for this Court's interference with the decision of the Minister.
+[11] Consequently, the appeal is dismissed and the Minister's decision is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 20th day of May 2004.
+"S.J. Savoie"
+Savoie, D.J.
+CITATION:
+2004TCC359
+COURT FILE NO.:
+2003-2939(EI)
+STYLE OF CAUSE:
+Hershel Neuberger and M.N.R.
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+February 27, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable S.J. Savoie,
+Deputy Judge
+DATE OF JUDGMENT:
+May 20, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alain Gareau
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

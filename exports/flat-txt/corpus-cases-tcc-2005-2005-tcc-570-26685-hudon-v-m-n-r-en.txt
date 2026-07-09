@@ -1,0 +1,173 @@
+Title: Hudon v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26685/index.do
+Corpus path: corpus/cases/tcc/2005/2005-tcc-570-26685-hudon-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2005-08-26
+
+# Hudon v. M.N.R.
+
+- Citation: 2005 TCC 570
+- Decision date: 2005-08-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3431, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hudon v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-08-26
+Neutral citation
+2005 TCC 570
+File numbers
+2005-961(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Decision Content
+Docket: 2005-961(EI)
+BETWEEN:
+GILLES HUDON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on August 4, 2005, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister of National Revenue is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of August 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 30th day of November 2006.
+Monica F. Chamberlain, Reviser
+Citation: 2005TCC570
+Date: 20050826
+Docket: 2005-961(EI)
+BETWEEN:
+GILLES HUDON,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is an appeal from a decision of the Minister of National Revenue ("the Minister") dated January 18, 2005, concerning work done for payer Gestion J.M.P. Inc. from February 20 to September 11, 1999.
+[2] In making his decision, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+(a) The payer, incorporated on January 10, 1985, operated a swimming pool sales and installation business. (admitted)
+(b) Jean-Marc Pelletier was the payer’s sole shareholder. (admitted)
+(c) During the period in issue, the Appellant rendered services to the payer as a salesperson, and later operated a swimming pool installation business. (admitted)
+(d) The Appellant worked as a salesperson on the payer’s premises (in February, March and April 1999). (denied)
+(e) The Appellant did not need to adhere to any work schedule during that time. (denied)
+(f) He received a 5% commission on the products he sold. (denied)
+(g) The Appellant worked numerous hours during these three months of activity and accrued commissions with the payer. (denied)
+(h) By agreement with the payer, the Appellant was paid a fixed amount each week until the commissions he earned were exhausted, namely September 11, 1999. (denied)
+(i) From May to September, the Appellant operated his installation business and went only very rarely to the payer’s office. (denied)
+(j) The Appellant operated his business while continuing to receive remuneration from the payer. (denied)
+(k) On September 16, 1999, the payer issued a Record of Employment (ROE) to the Appellant stating that the first day worked was February 22, 1999, that the last day worked was September 11, 1999, that there were 1218 insurable hours and that his insurable earnings during the period totalled $15,321. (admitted)
+(l) The ROE issued to the Appellant does not reflect the period or hours actually worked by the Appellant. (denied)
+(m) There was an arrangement between the parties for the sole purpose of enabling the Appellant to draw unemployment benefits. (denied)
+[3] The assumptions of fact set out in subparagraphs (a), (b), (c) and (k) were admitted, while the assumptions set out in subparagraphs (d), (e), (f), (g), (h), (i), (j), (l) and (m) were denied.
+[4] Only the Appellant testified in support of his appeal. He explained that he was hired as a swimming pool salesperson for remuneration equal to 5% of sales.
+[5] The commission was paid to him at a rate of $300 per week for the first seven weeks, that is to say, February 10 to April 21, and $600 per week from April 22 to September 4.
+[6] The Appellant explained that he operated his own in‑ground pool installation business in parallel with his work as a commissioned salesperson.
+[7] As part of this business, the Appellant had his own pool installation employees. He claimed that he installed an average of one pool per week and that his attendance was required at the installation site for the first four or five hours, which worked out perfectly, for once the installation was chosen and the excavation was done, his employees were sufficiently competent to finish the work, enabling him to attend to his duties as a salesperson.
+[8] Apart from the sales work and the installation work, the Appellant explained that his business also rendered other services to Gestion J.M.P. Inc.; he looked after calls from pool owners with various problems or breakages. His business sent someone to the site to resolve the problem. The evidence on this aspect of the work was imprecise and even a bit confusing.
+[9] In particular, the Appellant explained that the invoices for work done in connection with these service calls bore the name Société de Gestion J.M.P. Inc., the company that sold the products (or materials) needed to solve the problem; his business was essentially remunerated for the work that was done.
+[10] The evidence disclosed that, from February to September 1999, the Appellant made a total of $161,609.61 in sales, thereby earning him an $8,080.50 commission (Exhibit I‑4, page 4):
+Month
+Number of sales
+Amount
+Commission
+February
+March
+April
+May
+June
+July
+August
+September
+Total
+1
+5
+15
+24
+1
+3
+2
+2
+53
+$169.90
+$20,938.84
+$46,413.76
+$58,764.53
+$2,392.58
+$16,935.00
+$6,895.00
+$9,100.00
+$161,609.61
+$8.50
+$1,046.95
+$2,320.69
+$2,938.23
+$119.63
+$846.75
+$344.75
+$455.00
+$8,080.50
+[11] Since the Record of Employment tendered by the Appellant attests to 1218 hours of work and $15,312 in remuneration (Exhibit A‑1), it appears that the Appellant received $7,231.50 for work other than pool sales.
+[12] The facts of this case are rather unusual in that the Appellant himself acknowledged that he operated his own business during the periods in issue; thus, he claimed that he did work under a genuine contract of service, and parallel work as part of the operation of his own business. Such a situation is not theoretically impossible, but the person concerned would have to be very disciplined, and, above all, would have to be able to establish that there is a clear demarcation between the two contracts.
+[13] The existence of the Appellant's business is not in issue. However, the existence of a contract of service is not nearly as clear. It is obvious that the parties intended the Appellant's work to be performed as part of a contract of service and that they came to an agreement to this effect, which is, in and of itself, entirely legitimate.
+[14] However, based on the facts and the way the work was performed, is it possible to conclude that such a contract of service existed? In order to install the swimming pools, the Appellant had competent employees who performed the work under his control and supervision.
+[15] Can it be concluded that all the work that accounts for the $7,231.50 that the Appellant received in addition to the commissions was for work that the Appellant personally performed? The preponderance of the evidence does not permit such a finding, and the Appellant was unable to explain how all of this was entered in the books.
+[16] He relied frequently and consistently on the explanation that he worked for, earned and was paid the remuneration in accordance with the details set out in the adduced documents.
+[17] The fact that payment for the salesperson's work is essentially a percentage of sales does not prevent the work from being performed under a contract of service.
+[18] Paragraph 5(1)(a) of the Employment Insurance Act, which reads as follows, provides that payment by commission is indeed a possibility:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+[19] I believe that each party entered into an agreement as a businessperson. It was in the interests of the Appellant, who had his own swimming pool installation business, to associate with a business that sold the product he installed.
+[20] In addition, the Appellant's experience and knowledge were of interest to the business that sold these pools, in that it gave the business access to a highly qualified representative with a keen interest that stemmed from the fact that he was essentially paid by commission on his sales.
+[21] But for the service call aspect, which earned the Appellant $7,231.50 from ensuing repairs, it would have been more difficult to reject the possibility that a contract of service existed. However, this amount completes the reasonableness and plausibility of an agreement between two businesses with shared interests. For these reasons, I conclude that the Appellant did the work under a contract of enterprise.
+[22] Consequently, the appeal is dismissed.
+Signed at Ottawa, Canada, this 26th day of August 2005.
+"Alain Tardif"
+Tardif J.
+Translation certified true
+on this 30th day of November 2006.
+Monica F. Chamberlain, Reviser
+CITATION: 2005TCC570
+COURT FILE NO.: 2005-961(EI)
+STYLE OF CAUSE: Gilles Hudon and M.N.R.
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: August 4, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: August 26, 2005
+APPEARANCES:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Stéphanie Côté
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Jérôme Carrier
+City: Lévis, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

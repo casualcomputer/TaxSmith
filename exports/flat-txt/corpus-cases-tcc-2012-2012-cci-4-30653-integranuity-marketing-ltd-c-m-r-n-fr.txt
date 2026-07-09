@@ -1,0 +1,127 @@
+Title: Integranuity Marketing Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30653/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-4-30653-integranuity-marketing-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2012-01-04
+
+# Integranuity Marketing Ltd. c. M.R.N.
+
+- Citation: 2012 CCI 4
+- Decision date: 2012-01-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7210, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Integranuity Marketing Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-01-04
+Référence neutre
+2012 CCI 4
+Numéro de dossier
+2011-2056(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossiers : 2011-2056(EI)
+2011-2057(CPP)
+ENTRE :
+INTEGRANUITY MARKETING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 12 décembre 2011 à Edmonton (Alberta)
+Devant : L’honorable juge J.M. Woods
+Comparutions :
+Avocat de l’appellante :
+Me Gordon Beck
+Avocate de l’intimé :
+Me Gergely Hegedus
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard des décisions rendues par le ministre du Revenu national en vertu de la Loi sur l’assurance-emploi et du Régime de pensions du Canada et selon lesquelles Ian Leslie exerçait auprès de l’appelante un emploi assurable et ouvrant droit à pension est rejeté, et les décisions sont confirmées. Chacune des parties assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 4e jour de janvier 2012.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 15e jour de février 2012.
+Martine Maltais, traductrice
+Référence : 2012 CCI 4
+Date : 20120104
+Dossiers : 2011-2056(EI)
+2011-2057(CPP)
+ENTRE :
+INTEGRANUITY MARKETING LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Integranuity Marketing Ltd. (« Integranuity ») a interjeté appel à l’encontre des décisions rendues par le ministre du Revenu national eu égard à la Loi sur l’assurance-emploi et au Régime de pensions du Canada selon lesquelles Ian Leslie exerçait auprès de l’appelante un emploi assurable et ouvrant droit à pension. La seule question est de déterminer si M. Leslie était engagé à titre d'employé ou à titre d'entrepreneur indépendant.
+[2] La période en cause est celle du 10 octobre 2009 au 22 février 2010.
+Contexte
+[3] Pendant la période pertinente, Integranuity fournissait des services de vente directe à de grands organismes tels des institutions financières et des cabinets de télécommunications. Les ventes se faisaient notamment lors de campagnes de vente à domicile, lors d’événements et à des comptoirs.
+[4] Le siège social d’Integranuity était à Burnaby, en Colombie‑Britannique, et l’entreprise, propriété de Reynold Cha, était gérée par ce dernier.
+[5] Integranuity a embauché le travailleur dont il est question dans le présent appel, Ian Leslie, pour faire de la vente à domicile pour le compte de Shaw Communications. M. Leslie était payé à la commission. Shaw Communications a approuvé l’embauche de M. Leslie et lui a remis l’insigne de Shaw Communications.
+[6] M. Leslie a signé un contrat type, lequel établissait que le travailleur était engagé à titre de distributeur indépendant, et qu’il n’avait pas droit à des avantages sociaux comme le salaire minimum, des indemnités d’accident du travail et l’assurance‑emploi.
+[7] Le contrat décrit le travailleur comme un entrepreneur indépendant qui peut tirer profit de l’exécution de ses tâches, qui risque des pertes, et qui a le contrôle du lieu, de l’heure et des techniques de vente qu’il utilise pour vendre les produits offerts. Le contrat prévoit que le travailleur n’a pas à suivre des trajets prédéterminés, qu’il peut choisir lui‑même ses jours et ses heures de travail et qu’il n’a pas à solliciter d’autorisation pour prendre congé. Cependant, le contrat prévoit qu’Integranuity peut imposer au travailleur l’heure à laquelle il doit ramasser et retourner les produits. Le contrat prévoit aussi que le travailleur a la liberté de mettre au point ses propres démonstrations de vente.
+Analyse
+[8] L’arrêt TBT Personnel Services Inc. c. La Reine, 2011 CAF 256, a récemment déterminé les critères à appliquer dans une affaire de même nature que celle en l’espèce. Une demande en autorisation d’appel est actuellement en instance, mais la décision établit de façon succincte les principes pertinents actuellement applicables. Les parties pertinentes sont ainsi rédigées :
+[8] L’arrêt qui fait autorité en ce qui concerne les principes pour établir une distinction entre un contrat de louage de services et un contrat d’entreprise est Wiebe Door Services Ltd. c. M.N.R. [1986] 3 C.F. 553 (C.A.). Le juge Major, rédigeant l’arrêt de la Cour suprême du Canada, a approuvé Wiebe Door dans l’arrêt 67112 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59, [2001] 2 R.C.S. 983. Il a résumé, aux paragraphes 47 et 48, les principes pertinents comme suit :
+47 […] La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48. Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[9] Dans les arrêts Wolf c. Canada, 2002 CAF 96 (CanLII), 2002 CAF 96, [2002] 4 C.F. 396 (C.A.), et Royal Winnipeg Ballet c. Canada (Ministre du Revenu national - M.N.R.) 2006 CAF 87 (CanLII), 2006 CAF 87, [2007] 1 R.C.F. 35, la Cour a ajouté que lorsqu’il est établi que les parties avaient l’intention commune d’établir une relation juridique entre elles, il est nécessaire de tenir compte de cette preuve, mais il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties.
+[9] La principale question en litige est donc de savoir si M. Leslie travaillait à son propre compte.
+[10] J’examinerai d’abord l’intention des parties. À cet égard, le contrat est bien rédigé. Selon ce document, il était dans l’intention des parties que M. Leslie agisse à titre d’entrepreneur indépendant.
+[11] M. Leslie a témoigné qu’il n’avait pas lu le contrat attentivement. J’accepte ce témoignage sans pour autant que l’intention de M. Leslie soit niée. M. Leslie a volontairement signé ce contrat, et cette action démontre qu’il avait l’intention d’en accepter les conditions.
+[12] J’examine maintenant les critères établis dans l’arrêt Wiebe Door, soit les critères de contrôle, de possibilité de profit, de risque de perte et de la propriété des outils.
+[13] Le contrat écrit intervenu entre les parties donne à penser que nombre des critères établis dans l’arrêt Wiebe Door sont présents en l’espèce et étayent l’intention exprimée par les parties. Il est prévu que le travailleur jouit d’une liberté considérable quant à la manière dont il exécute son travail et qu’il doit assumer les dépenses liées au travail, comme les dépenses de transport. Lors de son témoignage oral, M. Cha a soutenu que le contrat reflète adéquatement la nature de la relation entre les parties.
+[14] Le problème consiste en ce que l’expérience vécue par M. Leslie et relatée dans le témoignage de celui‑ci, ne s’est pas déroulée conformément aux conditions établies dans le contrat. Selon le témoignage de M. Leslie, ce dernier travaillait six jours par semaine et les travailleurs exécutaient leurs tâches en équipe, non de manière indépendante. Les travailleurs commençaient chaque journée de travail à l’heure fixée, au bureau d’Integranuity, où on leur expliquait quelles étaient les offres promotionnelles applicables aux produits pendant la journée et où on leur remettait une liste des maisons à visiter, lesquelles étaient situées dans des territoires précis (cette liste étant appelée la « feuille maîtresse »). Les membres de l’équipe se déplaçaient ensemble, dans un véhicule appartenant à l’un des travailleurs, pour se rendre au territoire désigné. Ils convenaient aussi de l’heure de la pause pour prendre un court repas. Après le travail, ils revenaient au bureau d’Integranuity pour revoir les résultats des ventes de la journée avec la gestion.
+[15] M. Leslie a témoigné qu’à une occasion, on l’a critiqué parce que lui et un ami ne s’étaient pas déplacés avec les autres membres de l’équipe et qu’ils avaient pris une pause avant de commencer à travailler. M. Leslie a aussi déclaré qu’Integranuity avait envoyé quelqu’un pour accompagner son ami pendant qu’il faisait du porte‑à‑porte, présumément pour améliorer le rendement de l’ami en question.
+[16] Ce témoignage, que j’accepte, remet en cause l’absence d’un pouvoir de contrôle d’Integranuity sur le travailleur, comme le prévoyait le contrat écrit.
+[17] L’avocat d’Integranuity prétend que l’expérience qu’a vécue M. Leslie pourrait être expliquée par des raisons qui ne sont pas contraires à ce que prévoyait le contrat écrit. Je suis d’accord. Cependant, aucun élément de preuve satisfaisant ne m’a été présenté à ce sujet. Dans l’ensemble, je ne suis pas convaincue qu’Integranuity a respecté les conditions du contrat écrit.
+[18] Quant au témoignage rendu par M. Cha et qui appuie le contrat, je souligne qu’il s’agissait d’un témoignage intéressé et que seul M. Cha a témoigné pour le compte d’Integranuity. Aucun autre travailleur n’a été appelé à témoigner. De plus, dans son témoignage, M. Cha a mis l’accent en grande partie sur les droits accordés au travailleur par le contrat. Ces droits ne signifient à peu près rien si, en pratique, Integranuity ne les a pas respectés. L’expérience vécue par M. Leslie me donne à penser que la société n’a pas respecté les droits prévus au contrat, du moins en qui a trait à M. Leslie. Dans la mesure où il y a incohérence entre le témoignage de M. Leslie et celui de M. Cha, je préfère celui de M. Leslie, qui me paraît plus direct.
+[19] En me fondant sur les hypothèses du ministre et sur l’ensemble de la preuve, je conclus qu’Integranuity considérait qu’il lui était possible d’exercer un grand contrôle sur la plupart des aspects concernant la manière dont M. Leslie faisait son travail.
+[20] En l’espèce, la présence du facteur de contrôle indique fortement l’existence d’une relation employeur‑employé entre les parties.
+[21] En ce qui a trait aux autres facteurs élaborés dans l’arrêt Wiebe Door, le fait qu’il n’y ait pas eu remboursement de ses dépenses à l’employé étaye la position adoptée par Integranuity en ce qu’elle n’est pas habituelle lorsqu’il y a existence d’une relation employeur‑employé. Cependant, il ne s’agit pas d’un facteur important en l’espèce parce que les frais supportés par l’employé sont minimes – frais de covoiturage pour se rendre sur lieux de travail et frais d’utilisation du téléphone cellulaire personnel de l’employé pour rendre compte des ventes. Quant aux autres facteurs établis dans l’arrêt Wiebe Door, ils sont plutôt neutres. Les travailleurs avaient la possibilité de gagner des commissions, ce qui n’est pas rare dans le cas où il existe une relation employeur‑employé. Il n’y a pas non plus de risque de perte important.
+[22] Après avoir examiné l’ensemble des facteurs, je conclus que la relation de travail qui existait entre les parties n’était pas conforme avec l’intention exprimée dans le contrat. Je suis d’opinion que c’est à titre d’employé que M. Leslie a été embauché.
+[23] L’appel est rejeté et les décisions du ministre sont confirmées. Chacune des parties assumera ses propres dépens.
+Signé à Toronto (Ontario), ce 4e jour de janvier 2012.
+« J. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 15e jour de février 2012.
+Martine Maltais, traductrice
+RÉFÉRENCE : 2012 CCI 4
+Nos DES DOSSIERS DE LA COUR : 2011-2056(EI)
+2011-2057(CPP)
+INTITULÉ : INTEGRANUITY MARKETING LTD. ET LE MINISTRE DU REVENU NATIONAL
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 12 décembre 2011
+MOTIFS DU JUGEMENT : L’honorable juge J.M. Woods
+DATE DU JUGEMENT : Le 4 janvier 2012
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Gordon Beck
+Avocate de l’intimé :
+Me Gergely Hegedus
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Gordon Beck
+Cabinet : Henning Byrne
+Edmonton (Alberta)
+Pour l’intimé : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa (Ontario)

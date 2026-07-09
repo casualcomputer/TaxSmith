@@ -1,0 +1,156 @@
+---
+title: "Vickers v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26274/index.do"
+last_modified: "2004-10-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 678"
+citation2: ""
+neutral_citation: "2004 TCC 678"
+decision_date: "2004-10-21"
+language: "en"
+item_id: "26274"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4005
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:54:09.150000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "226c3f8bb0ca1e53ab3facc02faf2b73ad33ad151a208f463d005f5820c9cbfc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vickers v. The Queen
+
+- Citation: 2004 TCC 678
+- Decision date: 2004-10-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4005, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vickers v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-10-21
+Neutral citation
+2004 TCC 678
+File numbers
+2004-1288(IT)I
+Judges and Taxing Officers
+David W. Beaubier
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-1288(IT)I
+BETWEEN:
+DOUGLAS K. VICKERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on September 30, 2004 at Kelowna, British Columbia
+Before: The Honourable Justice D.W. Beaubier
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amy Francis
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act, notice of which is dated April 3, 2003 and bears number 33975 is dismissed.
+Signed at Saskatoon, Saskatchewan, this 21st day of October 2004.
+"D.W. Beaubier"
+Beaubier, J.
+Citation: 2004TCC678
+Date: 20041021
+Docket: 2004-1288(IT)I
+BETWEEN:
+DOUGLAS K. VICKERS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Beaubier, J.
+[1] This appeal pursuant to the Informal Procedure was heard at Kelowna, British Columbia on September 30, 2004. The Appellant testified. The Respondent called two Canada Revenue Agency officers, Hannah Chesher, a collections officer, and Laura Stolar, a trust examiner.
+[2] The particulars in dispute in the assessment of the Appellant for director's liability respecting employee withholdings are set out in paragraphs 2 to 9 of the Reply to the Notice of Appeal. They read:
+2. By way of Notice of Assessment No. 33975 dated April 3, 2003 ("Assessment"), the Minister of National Revenue ("Minister") assessed the Appellant for $5,069.00 in respect of unpaid Federal Tax, plus applicable interest and penalties payable by Horizon Customer Retention Services Ltd ("Horizon").
+3. The Appellant filed a Notice of Objection to the Assessment on July 2, 2003.
+4. In response to the Appellant's Notice of Objection, the Minister confirmed the Assessment as Horizon has not deducted, withheld or remitted the amounts as required by subsection 153(1) of the Income Tax Act ("Act") and as the Appellant was a director of Horizon, he is jointly and severally liable, together with Horizon, to pay the amount and any interest and penalties under subsection 22.1(1) of the Act. The Notification of Confirmation is dated December 11, 2003.
+5. In so assessing the Appellant and confirming the Assessment, the Minister relied on the same assumptions of fact, as follows:
+a) Horizon was incorporated on August 25, 1999;
+b) at all relevant times, the Appellant was the sole shareholder and director of Horizon;
+c) Horizon employed one person in the 1999 taxation year, Fenton Bolden ("Bolden");
+d) Horizon issued a 1999 T4 to Bolden showing that Bolden had employment earnings of $60,000.00, with deductions of $1,186.50 for Canada Pension Plan ("CPP") contributions, $994.50 for Employment Insurance ("EI") premiums and $17,722.80 for Income Tax;
+e) Horizon filed the 1999 T4 return with the Minister on February 29, 2000 but did not make any remittances to the Receiver General in respect of any of the deductions;
+f) on June 5, 2000, the Minister assessed Horizon in respect of the unremitted deductions along with the employer's portion in respect of both the CPP contributions and the EI premiums, as well as applicable penalty and interest;
+g) in the period between June 5, 2000 and April 28, 2001, no payments were made by Horizon in respect of the balance owing;
+h) on or about April 28, 2001, the Appellant advised the Collections Officer in charge of collecting Horizon's debt that there was an error in the T4 that had been filed for Bolden;
+i) in the period between April 28, 2001 and the end of November 2001, no payments were made by Horizon in respect of the balance owing;
+j) in late November 2001, the Appellant provided information to show that the original T4 issued to Bolden for the 1999 year was incorrect;
+k) a Trust Examination was requested to verify the correct figures for the 1999 T4 and that examination was completed by March 2002;
+l) the June 5, 2001 Notice of Assessment issued to Horizon was cancelled;
+m) an amended 1999 T4 was prepared for Bolden showing employment earnings of $35,275.00 with deductions of $1,112.15 for CPP contributions, $899.53 for EI premiums and $7,578.44 for Federal and Provincial Income Tax;
+n) on April 26, 2002, a Notice of Assessment was issued to Horizon in respect of the revised unremitted deductions along with the employer's contributions for both CPP and EI and applicable penalty and interest;
+o) Horizon failed to remit to the Receiver General Federal Income Tax of $5,069.00 which was deducted from the wages paid to Bolden in the 1999 taxation year;
+p) Horizon failed to pay penalty and interest relating to the unremitted Federal Tax of $485.67 and $1,150.60, respectively;
+q) a Certificate for the amount of Horizon's liability for Federal Income Tax, penalties and interest was registered in the Federal Court of Canada under subsection 223(2) of the Act and execution for such amount has been returned wholly unsatisfied; and
+r) the Appellant did not exercise the degree of care, diligence or skill to prevent the failure to remit the said amount by Horizon that a reasonably prudent person would have exercised in comparable circumstances.
+B. ISSUES TO BE DECIDED
+6. The issue is whether the Appellant is liable under subsection 227.1(1) of the Act for the failure by Horizon to remit to the Receiver General an amount of Federal Income Tax with related penalty and interest thereon as required by section 153 of the Act.
+C. STATUTORY PROVISIONS RELIED ON
+7. He relies on sections 153 and 227.1 and subsection 227(10) of the Act, as amended.
+D. GROUNDS RELIED ON AND RELIEF SOUGHT
+8. He submits that the Minister properly assessed the Appellant pursuant to sections 227 and 227.1 of the Act for the failure by Horizon to remit to the Receiver General an amount of Federal Income Tax with penalties and interest thereon as required by section 153 of the Act.
+9. He submits further that the Appellant did not exercise the degree of care, diligence and skill to prevent the failure to remit the amount by Horizon that a reasonably prudent person would have exercised in comparable circumstances.
+[3] None of the assumptions were refuted.
+[4] The Appellant's main dispute was that if the audit had been done earlier, the withholdings could have been paid by Horizon. He had agreed (as the sole shareholder and director) with Bolden to treat Bolden as an employee after the year-end and had filed the T4s and Revenue Canada documents personally. Therefore in his view he was not negligent.
+[5] However, Horizon had not paid the required instalments during the calendar year because it was treating Bolden as a contractor. Once it agreed to treat Bolden as an employee, the withholdings were due immediately – even though it was after the calendar year. Thus Mr. Vickers' duty as a director was to see that they were paid then and there. When he failed to do that he was negligent within the meaning of sections 227 and 227.1 as summarized in paragraph 9 of the Reply.
+[6] For this reason, the appeal is dismissed.
+Signed at Saskatoon, Saskatchewan, this 21st day of October 2004.
+"D.W. Beaubier"
+Beaubier, J.
+CITATION:
+2004TCC678
+COURT FILE NO.:
+2004-1288(IT)I
+STYLE OF CAUSE:
+Douglas K. Vickers v. The Queen
+PLACE OF HEARING:
+Kelowna, British Columbia
+DATE OF HEARING:
+September 30, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Beaubier
+DATE OF JUDGMENT:
+October 21, 2004
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Amy Francis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

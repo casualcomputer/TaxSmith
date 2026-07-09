@@ -1,0 +1,132 @@
+Title: 1546617 Ontario Ltd. (Toperms) v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29626/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-26-29626-1546617-ontario-ltd-toperms-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-01-28
+
+# 1546617 Ontario Ltd. (Toperms) v. The Queen
+
+- Citation: 2010 TCC 26
+- Decision date: 2010-01-28
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6133, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1546617 Ontario Ltd. (Toperms) v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-01-28
+Neutral citation
+2010 TCC 26
+File numbers
+2007-3918(EI)
+Judges and Taxing Officers
+Norris Weisman
+Subjects
+Employment Insurance Act
+Decision Content
+Citation: 2010 TCC 26
+Date: 20100128
+Docket: 2007-3918(EI)
+2007-3919(CPP)
+BETWEEN:
+1546617 ONTARIO LTD.
+OP TOPERMS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+NOOREEN BHANJI,
+Intervenor.
+REASONS FOR JUDGMENT
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on November 25, 2009 in Toronto, Ontario)
+Weisman D.J.
+[1] Before me today were two appeals by the Appellant 1546617 Ontario Ltd. operating as Toperms against determinations by the Respondent Minister of National Revenue that nine hairdressers who worked in the Appellant's hairdressing establishment in 2006 were in employment such that the Appellant was liable for Employment Insurance premiums and Canada Pension Plan contributions. The Appellant has appealed on the grounds that in its view the nine workers involved were independent contractors and, more than that, were in partnership with the Appellant.
+[2] I have already on the record dismissed the appeal with reference to the Employment Insurance Act and confirmed the decision of the Minister in that regard because of Regulation 6(d) passed under the Employment Insurance Act. I so ruled because the evidence satisfied me that these nine hairdressers were employed in a hairdressing establishment where they, one, provided the services that are normally provided in such an establishment and, two, were not the owner or operator of the establishment.
+[3] While I gave brief reasons for my conclusion earlier on the record, in fairness to the Appellant I should comment on his claim that these nine workers were in partnership. Because there was no evidence of that other than his allegation, I questioned him as to whether they were in partnership with each other or they were in partnership with the Appellant. In his view, they were in partnership with the Appellant, which was of interest because that might make them owners or operators of the establishment pursuant to subparagraph (d)(ii).
+[4] I rejected, and I do reject, the argument that these people were in any way carrying on business in common with a view to profit, either with each other or with the Appellant, there being no partnership agreement, there being no sharing of losses or the risks or the expenses inherent in running such a business. I think that is all that need be said about that.
+[5] What is left to be determined is the appeal under the Canada Pension Plan which has no regulation comparable to 6(d) of the Employment Insurance Regulations and, therefore, falls to be decided as to the status of these nine workers pursuant to the four-in-one guidelines established in Wiebe Door Services v. The Minister of National Revenue, the citation for which is (1986), 87 Dominion Tax Cases at page 5025 in the Federal Court of Appeal.
+[6] In order to resolve the issue before the Court, which has variously been characterized as "fundamental" in Wiebe Door that I have already cited, and characterized as "central" in Sagaz Industries in the Supreme Court of Canada, [2001] Supreme Court Judgments No. 61, and finally as "key" in Royal Winnipeg Ballet v. Minister of National Revenue, [2006] Federal Court of Appeal No. 87, the total relationship of the parties and the combined force of the whole scheme of operations must be considered. To this end the evidence in this matter is to be subjected to the four-in-one test laid down as guidelines by Lord Wright in Montreal City v. Montreal Locomotive Works, (1947), 1 D.L.R. 161 and adopted by Justice MacGuigan in Wiebe Door. The four guidelines are: the payor's control over the workers; whether the workers or the payor owned the tools required to perform the workers’ function; and the workers’ chance of profit and risk of loss in their dealing with the payor.
+[7] Adverting first to the control criterion or guideline, the law is clear that it is not the actual de facto control that is important, but it is the right to control that is to be established. That is in numerous cases, and I have summarized those cases that led to that conclusion in a decision called Logitech Technology Ltd. v. The Minister of National Revenue, [2008] T.C.J. No. 309.
+[8] The evidence is quite clear in the matter before me that there was an extraordinary degree of control exercised by the Appellant over the workers to the extent that witness Rita Duvenny described the working atmosphere as a jail.
+[9] In Exhibit R-1, Tab 1, there are rules and regulations promulgated by the Appellant that all workers were required to sign. They pretty well direct the workers on what to do and how to do it. There are numerous controls and regulations. Rather than reading them all, just by way of example, the preamble says:
+All the following rules must be respected and followed by any and all employees. Anyone who fails to abide by these rules will be dealt with accordingly.
+All subcontractors, stylists and assistants must maintain a neat and professional appearance at any and all times when working on the premises.
+All subcontractors, stylists and assistants are not permitted to read any documents in the service area at any given time in any or all circumstances.
+All subcontractors, stylists and assistants are not permitted under any circumstances to partake in any business affairs. They are not permitted to take any calls regarding business affairs using a business line or their own line under any circumstances.
+All subcontractors, stylists and assistants must not discuss personal problems or hand out personal information to the clientele.
+Religious matters, political matters and racial issues are not to be discussed at any time while on premises or within immediate location of the business.
+[10] Then there are provisions for the workers to clean not only their own work station but the premises in general including cleaning and mopping of the floor.
+[11] More than the rules and regulations, there was a good deal of evidence of further control. One was by division of labour in that in this establishment the workers were not allowed to do the entire job required by any customer. In what I would call a division of labour, one was assigned to cut; another was assigned to colour. The evidence indicates that the intention, consistent with the obvious intention in the rules and regulations, was to ensure that there was no personal relationship built up between any customer and any given hairdresser such that a loyalty and a following would be engendered, with the obvious goal of arrogating all the clientele to the Appellant and making sure that the employees did not have loyal clientele that they might take away from the premises with them.
+[12] Moreover, the prices were set by the Appellant who controlled the cash, to the extent that Mr. Khader on behalf of the Appellant would overrule prices that were historically charged to customers that were previously loyal to a hairdresser. Not only did the hairdresser and the customer not know what would be charged, but the evidence is that the customers would not accept if there was a price increase, and there is evidence that that is exactly what happened, to the extent that they would go elsewhere and cease to deal with the hairdresser that they were accustomed to dealing with.
+[13] The rules and regulations and the actual operation of the premises with regard to the price-setting and overruling of the hairdressers and restricting any sort of conversation and the building up of a relationship between any hairdresser and any given customer is clearly the establishment of a relationship of subordination between the nine workers and the Appellant and an extraordinary degree of control inconsistent with the workers being independent. The control factor tends to indicate that the nine workers during the period under review were employees.
+[14] The sole witness for the Appellant, Mr. Khader, testified that it was his workers who requested the rules and regulations by way of a common vote. In my view, that was absolutely incredible, given the onerous, restrictive nature of the rules and regulations.
+[15] Equally incredible was the evidence of Mr. Khader that there was a Christmas bonus/partnership share scheme available to the workers which was adduced to buttress his allegation that these were partners. The very clear evidence is that the shares in the Appellant are 100 per cent owned by the son of Mr. and Mrs. Khader. Therefore, there is no right to promise shares that are in the control of someone who is not a party to this transaction.
+[16] In any event, it turned out to be an empty promise because none of these documents which are found in Exhibit 1, Tab 5, ever resulted in any shares being given to any employee or any money given in lieu of shares.
+[17] It was these two examples plus numerous other instances where I was left in doubt as to Mr. Khader's reliability as a witness, and I concluded that the evidence of the witnesses for the Appellant was preferable.
+[18] Again, the control criterion indicates that the workers were employees.
+[19] So far as tools are concerned, the well-known case of Precision Gutters v. The Minister of National Revenue, which has been mentioned by counsel for the Respondent Minister, says that, if the worker owns the tools of the trade which it is reasonable for him to own, that suggests that he is an independent contractor even though the alleged employer provides special tools for the particular business. Precision Gutters is cited at [2002] Federal Court Judgments, No. 771 in the Federal Court of Appeal.
+[20] The evidence is that the hairdressers all had the normal tools required of a hairdresser, that they were purchased back in hairdressing school, and that they were brought with them to the Appellant. They were cutters and hairdryers and scissors, among other tools.
+[21] While the payor provided the premises and the chairs and the sinks and all colouring materials and other hair products, the evidence indicates that these workers fit right within Precision Gutters.
+[22] In fairness to the Appellant, I have noted from the evidence that the Appellant deducted from all payees either 10 per cent of the revenue generated by the hairdresser or in one case $85 and in another case $75 for a supposed rent-to-own proposition which would have these workers working towards being what is known as chair renters.
+[23] If it had been established in the evidence that that was the agreed upon scheme, then that payment for the chair and the business overhead, including rent, power and light, could be an expense inherent in these nine hairdressers' working relationship with the Appellant and might constitute a risk of loss. However, the evidence did not really support that. Marilu Dymond testified and was very clear and very convincing and very credible that at no time did she approve of this scheme. As a matter of fact, when she failed to obtain approval for the requisite financing, Mr. Khader promised either to take the $75 a week that she was paying and pay it towards her income taxes or to refund it, but he never did either, keeping the four to five months of $75 per week.
+[24] I mentioned that there was also an $85 figure, and that was being paid by Ms. Magyari.
+[25] While it is true that all workers signed the styling chair short-term lease agreements, which are to be found at tab 4 in Exhibit R-1, they all testified to the effect that there was no meeting of the minds with reference to that. There was no intent to lease, and it was a condition of employment that they signed these agreements if they wanted to work at the premises. Therefore, I did not place any great weight upon the documents found in Tab 4, particularly in view of the good deal of evidence I heard of the workers' intentions being quite to the contrary.
+[26] I pass on now to the chance of profit.
+[27] Mr. Khader insisted on more than one occasion that Rita Duvenny had a GST number and that he was told so by Revenue Canada. Of course, as I indicated to Mr. Khader, that is hearsay and I cannot accept that for its truth. However, there is no doubt that other of the workers not only had a number, but on their invoices charged the Appellant with GST. I am invited, of course, to find that anyone who charges GST must be in business on their own account and with a chance of profit.
+[28] However, I don't find that the mere fact that someone had a GST number is of any probative value. Just like the Federal Court of Appeal has said in Wolf v. The Minister of National Revenue, the printing of business cards is not probative of the issue. Wolf is cited at [2002] Federal Court 396.
+[29] Similarly, I often hear that someone has registered a business name and, therefore, they must be carrying on business on their own account. It is patently clear that one cannot avoid the four-in-one guidelines promulgated in Wiebe Door by the simple expedient of having your business name registered.
+[30] With reference to these workers working on commission as opposed to working in a mall on a wage, I have to agree with counsel for the Minister when he cited Justice Bowie's decision saying that not all commission salespeople are ipso facto independent contractors. There is a series of decisions by Justice Bowman, as he then was, where he finds that some commission salespeople were independent contractors and others were not, all depending on the facts of the case.
+[31] The evidence of Marilu Dunn was very clear and also that of Mrs. Duvenny. Any suggestion that they were working on commission was fanciful because it only came into operation if the worker cleared a minimum financial threshold which was so high that it was unreasonable and no one ever met it.
+[32] A simple exception to that was Agnes Magyari who was clearly paid a commission of 50 per cent of her revenues. However, as I have said, this is not necessarily conclusive on the issue of whether or not she was an independent contractor. She could be an employee who was working on commission.
+[33] That varies with a number of things, mainly whether she was truly independent or whether she was in fact subordinate to the Appellant and whether she could profit by sound management.
+[34] The phrase "profit by sound management" was not of my own invention. It crops up in the jurisprudence in a number of cases and is, in my view, a good and concise element to examine when one tries to understand if there is a chance of profit in the Wiebe Door sense. So far as I can find, it was first articulated by Justice Cooke in Market Investigations v. Minister of Social Security in [1968], All E.R. at page 732 where the judge says:
+…whether and how far he has an opportunity of profiting from sound management in the performance of his tasks.
+That phraseology was picked up by Justice Major in Sagaz at paragraph 44 which I have already quoted. It is quoted in Precision Gutters which I have earlier cited, and it was quoted by Justice MacGuigan in Wiebe Door itself for which I have earlier given you the citation.
+[35] I have said that there are two important elements that I have been examining on the status so far as the one person, Agnes Magyari, who was clearly on commission. The two elements are whether she was truly independent, which means an independent contractor, and the second is whether she could profit by sound management. I don't propose to say anything more about her independence in that I have already found that all workers were subject to extraordinary degrees of control such that they were in a relationship of subordination with the Appellant, inconsistent with their being any kind of contractors.
+[36] As far as any of their abilities to profit by sound management, it is quite clear on the evidence that there was none because of the campaign by the Appellant to break down the possibility of there being any personal relationship and any loyalty between any customer and any given hairdresser. That was done in a number of ways and I have probably already alluded to all of them. There was the division of labour. No one worked on any person's hair from beginning to end, but the tasks were divided up. It was mainly Mrs. Khader who told the workers what to do and how to do it and what part of any particular job was to be done. There was strong evidence that, when it came to colouring, that had to be done by Mrs. Shirley Khader; that the colour chart that pertained to any particular customer was kept on computer by the Appellant for its use and future colouring of that particular person's hair.
+[37] They were not allowed to talk to customers. They could not use telephones.
+[38] It seems to me that there were a number of steps taken to appropriate anyone who walked in the door to the Appellant whether or not they were previously loyal to one of the hairdressers.
+[39] In these circumstances I see no possibility of any of the workers, including Agnes Magyari, profiting by sound management. There is no way that they could do anything to increase their profits.
+[40] Having said that, the statement that I just made is a little broad considering that there was evidence early on in this trial that James Mansur did have his own brochures and, as a matter of fact, quoted a very low price, as I understand it, for some service -- and I don't know exactly which one -- related to hair styling. Which service in particular is not relevant for our purposes. Aside from that very minor evidence of any way that someone could have brought in a customer, there was such overwhelming evidence by everyone else of the impossibility of profiting that I find that there was no chance of profit in the hairdressers' working relationship with the Appellant.
+[41] Then there is the risk of loss. It is clear that the workers had no expenses with reference to the working relationship with the Appellant. The small tools that they owned, as I understand it, were purchased earlier on, and the only expense was very minor involving sharpening those that needed to be sharpened.
+[42] On this rent-to-own, which in some cases was 10 per cent in one case and was $85 in another case and in another case was $75, as I previously said, the evidence indicated in the case of Ms. Dymond that the $75 was not deducted on a lease-to-own basis when she was not approved for the necessary financing. It was promised to be returned to her. So far as Agnes is concerned, her evidence was that she had deducted from her remuneration for nine weeks $85, and then it was 10 per cent for the rest of her time there.
+[43] I was not satisfied on the evidence that there was a genuine rent‑to‑own arrangement agreed upon by the parties and that in effect governed the working relationship between the parties. That is because there was not any witness who approved of the deduction. Ms. Dymond was promised that it would be applied to her income taxes or returned. The witness Agnes Magyari, with 40 years of experience in the field, was adamant that $3,000 for a chair was exorbitant, and she only executed the styling chair short-term lease agreement because she needed the work. In the rest of the cases I find that, even if there was 10 per cent of the sales deducted from their remuneration, this is what is known as a variable as opposed to a fixed expense. In other words, 10 per cent was only payable if they earned the remaining 90 per cent. In these circumstances it is not possible for the 10 per cent to constitute a risk of loss.
+[44] At the risk of repetition, the two exceptions to that are Ms. Dymond at $75 per 45 hours and Ms. Magyari at $85 which dropped to 10 per cent after nine weeks. In the first case, as I have already said, that was promised to be reimbursed or applied to income taxes and therefore did not constitute a risk of loss. In my view, the shift with reference to Ms. Magyari from $85 to 10 per cent means that that expenditure also wound up being a variable expenditure and could not constitute a risk of loss.
+[45] It is trite law that this canvassing of the four-in-one guideline set out in Wiebe Door is only in service of understanding the total relationship between the parties. In my view, this element of control outweighs the other factors and is so consistent with subordination and so inconsistent with independence that it is quite clear that these people were not independent contractors but were employees during the period under review. All four Wiebe Door factors point in the same direction, that the total relationship between the parties was that of employer/employee.
+[46] In these matters the burden is on the Appellant to rebut the assumptions set out in the Minister's Notice of Reply. I have, during the course of the evidence gone over each and every one of the many assumptions set out, and I could not find one that the Appellant succeeded in demolishing. There were two that were subject to clarification by the Appellant, the first being (i), that the workers were paid an hourly rate by cheque made to their personal names. The evidence indicated that that was not true so far as Agnes Magyari was concerned. The other one was (w), that the workers did not advertise their services. I have already said that James Mansur did.
+[47] The law is that, even if the Appellant succeeds in demolishing some of the Minister's assumptions -- and I am referring to the case of Jencan Limited, [1997] Federal Court No. 876 in the Federal Court of Appeal -- if the remaining assumptions are sufficient to support the Minister's determination, the determination must stand, which I find to be the case in the matter before me.
+[48] I have heard the evidence called on behalf of the Appellant and on behalf of the Respondent Minister who testified under oath for the first time, and I found no new evidence or any indication that the evidence considered by the Minister was misunderstood or misconstrued. I find that these nine workers were not carrying on any business on their own account and that the Minister's conclusion and decision was objectively reasonable.
+[49] In the result, the Appellant's appeal under the Canada Pension Plan, like its appeal under the Employment Insurance Act, will be dismissed, and the decision of the Minister will be confirmed.
+Signed at Toronto, Ontario, this 28th day of January 2010.
+“N. Weisman”
+Weisman D.J.
+CITATION: 2010 TCC 26
+COURT FILE NO.’S: 2007-3918(EI)
+2007-3919(CPP)
+STYLE OF CAUSE: 1546617 Ontario Ltd. op Toperms
+and Her Majesty The Queen and Nooreen Bhanji
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 25, 2009
+REASONS FOR JUDGMENT BY: The Honourable N. Weisman, Deputy Judge
+DATE OF ORAL JUDGMENT: November 25, 2009
+APPEARANCES:
+Agent for the Appellant:
+Mike Khader
+Counsel for the Respondent:
+Ian Theil
+For the Intervenor:
+No one appeared
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

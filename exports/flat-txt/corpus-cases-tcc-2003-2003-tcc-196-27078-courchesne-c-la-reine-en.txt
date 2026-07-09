@@ -1,0 +1,199 @@
+Title: Courchesne c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27078/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-196-27078-courchesne-c-la-reine-en.md
+Document type: case_law
+Last modified: 2003-04-04
+
+# Courchesne c. La Reine
+
+- Citation: 2003 TCC 196
+- Decision date: 2003-04-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 948, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Courchesne c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-04
+Neutral citation
+2003 TCC 196
+File numbers
+2002-2970(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-2970(IT)I
+BETWEEN:
+GASTON COURCHESNE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on February 19, 2003, at Trois-Rivières, Quebec
+Before: The Honourable Judge Alain Tardif
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Stéphanie Côté
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 1997 and 1998 taxation years is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of April 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 2nd day of June 2004.
+Sophie Debbané, Revisor
+Citation: 2003TCC196
+Date: 20030404
+Docket: 2002-2970(IT)I
+BETWEEN:
+GASTON COURCHESNE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif, J.T.C.C.
+[1] This is an appeal from assessments made for the 1997 and 1998 taxation years.
+[2] In making the reassessments, the respondent relied on the following assumptions of fact:
+[TRANSLATION]
+(a) the appellant declared the following income for the taxation years at issue:
+SOURCES OF INCOME:
+1997
+1998
+Taxable dividends
+Investment income
+Net rental losses
+Other income
+Taxable capital gains
+$71
+$14,817
+$(3,498)
+$274
+$282
+$14,684
+$(1,386)
+$94
+N/A
+Total income
+$11,664
+$13,674
+Net income
+$11,276
+$13,672
+Taxable income
+$11,276
+$13,672
+(b) the appellant therefore declared no business income for the taxation years at issue;
+(c) during the taxation years at issue, the appellant operated by himself a residence for non-autonomous persons ("the residence");
+(d) at that time the residence housed the appellant, his son, his mother, and seven non-autonomous persons ("the residents") aged between 40 and 96 years of age and referred to him by the Centre local de services communautaires (CLSC) and the Régie régionale de la santé et des services sociaux;
+(e) during the taxation years at issue, the residence was located at 3300, rue Provencher in Trois-Rivières; in 1999 it was transferred to 2845, rue de Normanville in Trois-Rivières;
+(f) at all relevant times, the appellant's personal residence occupied one-third of the building located at 3300, rue Provencher; the residence occupied another third of the building; and the rest of the building was rented out;
+(g) gross rental income was $7,320 and $8,125 for the 1997 and 1998 taxation years respectively;
+(h) the appellant claims to have no sources of non-taxable income other than the residence and to have never received any inheritances or won any lotteries;
+BOOKS AND RECORDS:
+(i) at all relevant times the appellant did not keep any books for the residence or for his rental buildings;
+NET WORTH:
+(j) in light of the foregoing information, the Canada Customs and Revenue Agency (CCRA) auditor used the "net worth" method to audit the appellant's income;
+(k) discrepancies were noted between the income declared by the appellant and the income computed using the "net worth" method in the amounts of $36,249 and $31,365 for the 1997 and 1998 taxation years respectively (the analysis of the discrepancies noted using the "net worth" method is found under the heading "Appendix");
+ASSETS AND LIABILITIES:
+(l) the appellant declared no other real assets during the period at issue and claims to have disposed of no such assets;
+(m) during the taxation years at issue, the appellant had no personal loans payable or receivable and had no credit cards;
+(n) however, during the period at issue, the appellant had mortgage loans with the Caisse populaire St-Sacrement and the Caisse populaire St-Odilon;
+EXPENSES AND INCOME OF RESIDENCE:
+(o) the appellant states that he is unable to estimate how much it costs him in groceries to feed 10 persons;
+(p) Statistics Canada estimates that it costs $5,901 per year to feed two adults under 45 years of age; taking into account the ages of the residents, the CCRA estimated that it would cost a minimum of $2,950 per year (50% of the Statistics Canada figure);
+(q) the CCRA auditor reduced the personal expenses related to the building on rue Provencher by 50% and also reduced the personal expenses related to the appellant's car by 50% in order to take into account the non-personal use of these assets;
+(r) in establishing the appellant's net worth, the CCRA auditor took into account the personal expenses supported by vouchers, in particular the appellant's bank statements;
+(s) the appellant claims to have no employees and to personally prepare the food, do the cleaning, provide the necessary care to the residents, do the laundry and perform other tasks;
+(t) the appellant's son Jonathan, 23 in 1999, lived with the appellant during the taxation years at issue and the appellant supported him;
+(u) according to the appellant, Jonathan had no income during the taxation years at issue, was not studying, and paid the appellant no board;
+(v) according to the appellant, his mother Germaine Prince, 84 in 1999, lived with him starting in July 1996 and paid the appellant no board during the taxation years at issue;
+(w) according to the appellant, his mother gave him some money at the end of the year in order to thank him, but he did not want to state the amount of these gifts;
+TAXABLE AND NON-TAXABLE INCOME:
+(x) the CCRA auditor determined that the appellant did not pass the test set out in sub-paragraph 81(1)(h)(ii) of the Income Tax Act, R.S.C. 1985 (5th Supp.), c. 1, as amended (hereinafter "the Act");
+(y) the CCRA auditor therefore determined that the income from the residence was taxable in the appellant's hands;
+(z) at the objection stage, it is necessary to determine that the residents resided in the taxpayer's principal place of residence and that certain income from the operation of the residence was excluded in computing the appellant's income for the purposes of paragraph 81(1)(h) of the Act;
+(aa) since the appellant's net business income was computed on the basis of the discrepancies noted using the "net worth" method, the objections officer computed a new taxable net business income figure on the basis of the taxable gross business income, expressed as a percentage of total (taxable and non-taxable) gross business income, thus taking into account non-deductible expenses related to non-taxable income;
+(bb) the amounts of taxable and non-taxable income were computed as follows:
+NON-TAXABLE GROSS BUSINESS INCOME:
+1997
+1998
+Payments received from CLSC
+Board deemed paid with Guaranteed Income Supplement (GIS)
+$25,942
+$8,465
+$24,271
+$8,753
+Appendix C
+Appendixes A and B
+Total
+$34,407
+(44%)
+$33,024
+(43%)
+TOTAL GROSS BUSINESS INCOME (Appendix C):
+1997
+1998
+Taxable gross business income
+Non-taxable gross business income
+$43,487
+$34,407
+(56%)
+(44%)
+$43,095
+$33,024
+(57%)
+(43%)
+Total gross business income
+$34,407
+(100%)
+$76,119
+(100%)
+NET BUSINESS INCOME:
+1997
+1998
+Non-taxable gross business income
+Taxable gross business income
+$15,950
+$34,407
+(44%)
+(56%)
+$13,487
+$17,878
+(43%)
+(57%)
+Net business income,
+computed on the basis of discrepancies noted using "net worth" method during audit
+$36,249
+(100%)
+$31,365
+(100%)
+(cc) in issuing the April 25, 2002, Notices of Reassessment, the Minister therefore reduced the appellant's net business income by $15,950 and $13,487 for the 1997 and 1998 taxation years respectively, in order to take into account the non-taxable net business income.
+[3] At issue is whether the Minister of National Revenue was justified in considering the amounts computed using the "net worth" method of $20,299 and $17,878 for the 1997 and 1998 taxation years respectively to be income undeclared by the appellant.
+[4] After the appellant was sworn, I explained to him at length that the onus was on him to establish his claims. The Notices of Assessment were presumed to be founded; I told the appellant that it was his responsibility to adduce a preponderance of evidence that the Notices of Assessment were unfounded in whole or in part by means of his own testimony and possibly that of other persons and by submitting relevant documents.
+[5] In discharging this burden of proof, only the appellant testified, in a very general manner. His testimony never discredited or cast doubt on the quality of the work and the analyses that formed the basis for the assessments.
+[6] Essentially, the appellant argued that the income from looking after nine persons whose care was entrusted to him under an agreement with the CLSC and the Régie régionale de la santé et des services sociaux was non-taxable; he also argued that he was a very economical person who preferred to use his investment income to improve the premises occupied by the persons whose care was entrusted to him rather than to spend it on consumer goods such as cars.
+[7] The appellant never challenged or discredited the quality of the respondent's work or cast doubt on the accuracy of the assumptions of fact.
+[8] The appellant merely stated his disagreement with the basis for the assessments, using explanations and arguments that had no effect on the quality of the assessments.
+[9] I have no doubt that the appellant did very good work in a particular field that is highly demanding and so important to society. Regrettably, although these factors make the appellant's case very sympathetic, essentially the Court must determine whether the assessments being appealed from were unfounded.
+[10] In order to make that determination, it was indispensable that the appellant submit sufficient evidence to establish that the assessments were unfounded and that his claims that no assessments should have been made were founded. Since the appellant submitted no evidence or even rudimentary evidence to this effect, his appeal must be dismissed.
+Signed at Ottawa, Canada, this 4th day of April 2003.
+"Alain Tardif"
+J.T.C.C.
+Translation certified true
+on this 2nd day of June 2004.
+Sophie Debbané, Revisor

@@ -1,0 +1,541 @@
+---
+title: "Sackman v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27940/index.do"
+last_modified: "2007-05-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 455"
+citation2: ""
+neutral_citation: "2007 CCI 455"
+decision_date: "2007-05-10"
+language: "fr"
+item_id: "27940"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1723
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:41:38.056000+00:00"
+cases_cited_count: 3
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5103275735fa0f9ad1a1f2348dd4c5392420103e1400c2211aa8728a26d65548"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Sackman v. The Queen
+
+- Citation: 2007 CCI 455
+- Decision date: 2007-05-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1723, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sackman v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-10
+Référence neutre
+2007 CCI 455
+Numéro de dossier
+2002-4824(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4824(IT)G
+ENTRE :
+JEFFREY SACKMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requêtes entendues le 10 mai 2007, à Toronto (Ontario).
+Devant : L’honorable juge en chef D.G.H. Bowman
+Comparutions :
+Avocat de l’appelant :
+Me Martin Teplitsky, c.r.
+Avocats de l’intimée :
+Me Perry Derksen
+Me Jenna Clark
+Avocat d’Artistic Ideas Inc. :
+Me Irving Marks
+____________________________________________________________________
+ORDONNANCE
+Vu les requêtes que les avocats ont présentées comme suit :
+a) requête présentée par l’intimée en vue de contraindre l’appelant à comparaître de nouveau et à répondre à certaines questions auxquelles il avait refusé de répondre lors de l’interrogatoire préalable;
+b) requête présentée par l’appelant en vue de contraindre le représentant de la Couronne à comparaître de nouveau et à répondre à certaines questions auxquelles il avait refusé de répondre lors de l’interrogatoire préalable;
+c) requête présentée par l’appelant en vue de permettre la modification de son avis d’appel;
+d) requête présentée par l’intimée en vue de permettre à celle‑ci d’interroger au préalable un représentant de la mise en cause Artistic Ideas Inc.
+Après avoir lu les affidavits qui ont été déposés pour le compte des parties;
+Et après avoir entendu les allégations de l’avocat de l’appelant, de l’avocat de l’intimée et de l’avocat d’Artistic Ideas Inc.;
+LA COUR ORDONNE que la requête que l’appelant a présentée en vue de faire modifier l’avis d’appel soit accueillie dans la mesure prévue dans les motifs de l’ordonnance.
+La requête que l’appelant a présentée en vue de contraindre l’intimée à répondre aux engagements qui ont été laissés en suspens, aux refus et aux questions posées lors de l’interrogatoire préalable, et en vue de contraindre le représentant de la Couronne, Salvatore Tringali, à comparaître à un autre interrogatoire est accueillie uniquement à l’égard de la question 18 et elle est par ailleurs rejetée.
+La requête que l’intimée a présentée en vue de contraindre l’appelant à comparaître de nouveau et à répondre aux questions auxquelles il avait refusé de répondre est rejetée.
+La requête que l’intimée a présentée en vue d’interroger une personne désignée par Artistic Ideas Inc., en sa qualité de mise en cause, en vertu de l’article 99 des Règles de la Cour canadienne de l’impôt (procédure générale) est rejetée.
+Artistic Ideas Inc. a droit à ses dépens dans la requête présentée en vertu de l’article 99 des Règles. Aucuns dépens ne sont par ailleurs adjugés à l’une ou l’autre des parties.
+Signé à Ottawa, Canada, ce 17e jour d’août 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 19e jour de novembre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI455
+Date : 20070817
+Dossier : 2002‑4824(IT)G
+ENTRE :
+JEFFREY SACKMAN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge en chef Bowman
+[1] Dans les requêtes dont la Cour est saisie, les parties demandent un certain nombre de réparations comme suit :
+a) requête présentée par la Couronne en vue de contraindre l’appelant à comparaître de nouveau et à répondre à certaines questions auxquelles il avait refusé de répondre lors de l’interrogatoire préalable;
+b) requête présentée par l’appelant en vue de contraindre le représentant de la Couronne à comparaître de nouveau et à répondre à certaines questions auxquelles il avait refusé de répondre lors de l’interrogatoire préalable;
+c) requête présentée par l’appelant en vue de permettre la modification de son avis d’appel;
+d) requête présentée par la Couronne en vue de permettre à celle‑ci d’interroger au préalable un représentant de la mise en cause Artistic Ideas Inc. (« Artistic »).
+[2] L’affaire a avancé à pas lents devant la Cour. L’instance a été engagée au mois de décembre 2002 par le cabinet d’avocats Fraser Milner Casgrain. Une réponse a été déposée le 24 mars 2003 et une réplique a été déposée par l’avocat de l’appelant le 31 mars 2003.
+[3] Le 17 juin 2003, l’appelant a désigné un nouveau cabinet d’avocats, Osler, Hoskin & Harcourt. Le 29 avril 2004, une audience sur l’état de l’instance a été tenue au moyen d’une conférence téléphonique, et un calendrier a été établi pour les interrogatoires préalables et le dépôt de documents; l’audience devait avoir lieu le 13 septembre 2004 et durer deux semaines.
+[4] Des fissures ont alors commencé à apparaître dans le calendrier plutôt serré dont les parties avaient convenu. On a demandé une prorogation du délai dans lequel les interrogatoires préalables devaient être tenus et les engagements respectés ainsi qu’un ajournement de la date de l’instruction pour une période indéterminée.
+[5] Il a été fait droit aux demandes. Le 15 septembre 2004, l’appelant a de nouveau changé de cabinet d’avocats et Teplitsky, Colson a remplacé Osler, Hoskin & Harcourt. Le 12 novembre 2004, un retard a encore une fois été accusé par suite de la demande qui avait été faite pour que l’affaire soit suspendue en attendant le règlement des appels dans les affaires Procureur général du Canada c. Nash, A‑572‑04, Procureur général du Canada c. Tolley, A‑569‑04, Procureur général du Canada c. Quinn, A‑511‑04, ainsi que dans l’appel et dans l’appel incident interjetés dans l’affaire Klotz c. La Reine, 2004 CCI 147. La Couronne a eu gain de cause dans l’affaire Klotz entendue par la Cour d’appel fédérale, le 2 mai 2005, ainsi que dans les appels Nash, Tolley et Quinn, le 21 novembre 2005.
+[6] Au mois de janvier 2006, la Cour a accueilli la demande qui avait été faite pour que le présent appel soit suspendu en attendant la demande d’autorisation de pourvoi devant la Cour suprême du Canada dans les affaires Klotz, Tolley, Quinn et Nash. Au mois d’avril 2006, la Cour suprême du Canada a refusé d’autoriser le pourvoi. Au mois d’août 2006, la Cour a été informée que les parties s’étaient entendues sur un calendrier.
+[7] Enfin, j’ai été saisi de plusieurs requêtes le 10 mai 2007. J’examinerai d’abord la requête que l’appelant a présentée en vue de faire modifier l’avis d’appel. La question essentielle qui est soulevée dans les actes de procédure initiaux est la même que celle qui se posait dans les affaires Klotz, Nash, Tolley et Quinn, à savoir la juste valeur marchande (la « JVM ») d’estampes que l’appelant avait données à des organismes de bienfaisance enregistrés. Subsidiairement, il s’agit de savoir si les estampes étaient un bien à usage personnel. Une troisième question se rapportait à l’imposition de pénalités. L’intimée a maintenant concédé la question des pénalités. Toutes ces questions ont été examinées à fond dans les affaires de donation d’œuvres d’art susmentionnées. L’avocat de l’appelant cherche maintenant à invoquer, non pas exactement une nouvelle question, mais du moins une approche quelque peu différente à l’égard d’une ancienne question, à savoir que l’appelant s’est fondé sur des pratiques et des procédures, en matière d’évaluation, qui ont selon lui toujours été acceptées par l’Agence du revenu du Canada. Les nouveaux points que l’appelant cherche à soulever sont énoncés dans les nouveaux alinéas suivants, 6a) à 6h), 12 et 16a).
+[traduction]
+6a). Pendant la période pertinente, l’Agence du revenu du Canada (l’« ARC ») a publié une politique administrative et des bulletins au sujet de la procédure à suivre à l’égard des donations et des dons de bienfaisance (les « publications de l’ARC »).
+6b). L’appelant a suivi à la lettre les publications de l’ARC et s’est fondé sur ces publications.
+6c). L’ARC a toujours accepté les évaluations effectuées par des évaluateurs professionnels agréés en admettant les déductions.
+6d). Les publications de l’ARC renfermaient un code complet applicable aux donations et aux dons de bienfaisance, de sorte que l’appelant s’attendait, d’une façon légitime et raisonnable, à ce que les déductions soient admises et à ce qu’il ne fasse pas l’objet d’une nouvelle cotisation.
+6e). En 1999, l’ARC a informé les contribuables, dans l’une de ses publications, des pièges possibles que comportaient les dons de bienfaisance. L’ARC a établi un protocole à suivre afin d’éviter des problèmes. L’appelant s’est pleinement conformé à ce protocole.
+6f). L’appelant s’attendait, d’une façon raisonnable, à ce que l’ARC applique la Loi conformément à ses propres publications. Cependant, l’ARC a établi une nouvelle cotisation à l’égard de l’appelant, même si celui‑ci s’était conformé aux publications, et sans fournir elle‑même une preuve d’évaluation en vue de démontrer que la juste valeur marchande était inférieure à celle qui était alléguée.
+6g). L’appelant allègue que l’ARC aurait dû modifier la Loi (ce qu’elle a fait, en fin de compte) si elle voulait mettre fin aux dons de bienfaisance sous forme d’œuvres d’art. L’ARC a plutôt appliqué la « Loi » en vue d’obtenir ce résultat sans tenir compte de ses propres publications, sur lesquelles l’appelant s’était fondé.
+6h). L’appelant allègue que l’ARC a toujours reconnu que la juste valeur marchande était la valeur au détail, lorsqu’il existait un marché de détail pour les œuvres d’art données. L’appelant allègue qu’il existait un marché de détail pour les œuvres d’art qu’il avait données et que la valeur sur ce marché était au moins égale et souvent supérieure à la valeur mentionnée dans les reçus fournis par les organismes de bienfaisance.
+[...]
+12. Dans la nouvelle cotisation, la déduction des dons a été refusée, mais on a inclus dans le revenu de l’appelant un montant de 180 631,19 $ à l’égard de gains en capital imposables sur les œuvres d’art que celui‑ci avait données. Puisqu’il a accepté le montant de 180 631,19 $ à l’égard des gains en capital imposables sur les œuvres d’art données par l’appelant, le ministre ne peut plus contester la juste valeur marchande des dons.
+[...]
+16a). L’appelant a agi d’une façon raisonnable en se fondant sur les publications de l’ARC et il s’attendait, d’une façon raisonnable et légitime, à ce que les déductions soient admises et à ne pas faire l’objet d’une nouvelle cotisation.
+[8] En plus des modifications proposées susmentionnées, l’appelant se propose de supprimer une demande relative au report prospectif d’un don de 25 272,35 $. La Couronne consent à cette suppression ainsi qu’à la substitution, à l’alinéa 13c) de l’avis modifié d’appel, de l’année 2000 à l’année 2002. De plus, au paragraphe 5, l’appelant veut substituer le montant de 771 262,60 $ au montant de 731 262,60 $.
+[9] L’intimée soutient que l’appelant n’est pas autorisé de plein droit à déposer un avis modifié d’appel simplement parce qu’elle a déposé une réponse modifiée à l’avis d’appel. Elle a probablement raison sur ce point. C’est par une réplique qu’il convient de répondre à une réponse ou à une réponse modifiée. Cependant, toute partie a le droit de demander à la Cour de lui permettre de modifier ses actes de procédure, et c’est sur cette base que j’aborde la requête de l’appelant. Le principe qui s’applique, selon moi, se trouve dans l’arrêt The Queen v. Canderel Limited, 93 DTC 5357, page 5361 (C.A.F.) :
+Pour ce qui est des intérêts de la justice, on peut dire que les tribunaux et les parties sont en droit de s’attendre à ce qu’un procès aboutisse, et les retards et la tension et les inquiétudes que suscite chez toutes les parties concernées une modification tardive soulevant une nouvelle question, peuvent fort bien être considérés comme un obstacle aux fins de la justice. [NOTE DE BAS DE PAGE 16 : Voir Johnston v. Law Society of Prince Edward Island (1988), 69 Nfld. & P.E.I.R. 168 (P.E.I.C.A.); Glisic v. Canada, supra note 10]. À notre sens, ces principes ont été le mieux résumés par lord Griffiths, s’exprimant pour la majorité, dans l’arrêt Ketteman v. Hansel Properties Ltd : [NOTE DE BAS DE PAGE 17: Supra, note 12, à la p. 62.]
+[...]
+[Traduction] Il ne s’agissait pas d’une affaire dans laquelle on avait demandé de faire une modification au cours des plaidoiries finales et la Cour n’étudiait pas la nature particulière d’une défense fondée sur la prescription. En outre, quelle que puisse avoir été la règle de conduite il y a cent ans, il n’est pas d’usage aujourd’hui d’autoriser invariablement qu’une défense entièrement différente de celle qui a été plaidée soit opposée au moyen de modifications au terme du procès, même à la condition qu’il y ait ajournement et que le défendeur paie tous les frais faits inutilement. Il existe une claire distinction entre les modifications ayant pour but de rendre plus claires les questions en litige, et celles qui permettent de soulever une défense différente pour la première fois.
+Il appartient au juge de première instance de décider s’il y a lieu d’autoriser une modification, et il doit se laisser guider dans l’exercice de son pouvoir discrétionnaire, par sa perception de la justice. De nombreux et divers facteurs influeront sur l’exercice de ce pouvoir discrétionnaire. Je ne crois pas possible ni sage de tenter de les énumérer tous. Mais la justice ne peut toujours se mesurer en fonction d’une somme d’argent, et à mon sens un juge est en droit de mettre dans la balance la tension que le procès impose aux plaideurs, particulièrement s’il s’agit de particuliers plutôt que de sociétés commerciales, l’inquiétude de faire face à de nouvelles questions litigieuses, les vains espoirs soulevés, et l’attente légitime que le procès réglera les questions dans un sens ou dans l’autre. De plus, autoriser une modification avant le début du procès est tout à fait différent de l’autoriser à la fin, pour donner à un défendeur qui ne semble pas avoir gain de cause la possibilité de reprendre la lutte avec une défense entièrement nouvelle.
+Un autre facteur dont le juge doit tenir compte est la pression exercée sur les tribunaux par l’augmentation considérable des procès, et donc la nécessité que, dans l’intérêt public, les procédures soient conduites efficacement. Nous ne pouvons plus nous permettre de témoigner la même indulgence à l’égard de la conduite négligente des procès que celle peut-être possible à une époque moins fébrile. Dans certaines affaires, la justice sera mieux servie si les avocats doivent assumer les conséquences de leur incurie plutôt que d’être autorisés à faire une modification à une étape très tardive de la procédure.
+[C’est moi qui souligne.]
+et par le juge Bowman, de la Cour canadienne de l’impôt, dans l’arrêt Continental Bank Leasing Corporation et autre c. La Reine [NOTE DE BAS DE PAGE 18 : (1993), 93 DTC 298 (C.C.I.), à la p. 302].
+[...] je préfère tout de même examiner la question dans une perspective plus large: les intérêts de la justice seraient-ils mieux servis si la demande de modification ou de rétractation était approuvée ou rejetée? Les critères mentionnés dans les affaires entendues par d’autres tribunaux sont évidemment utiles, mais il convient de mettre l’accent sur d’autres facteurs également, y compris le moment auquel est présentée la requête visant la modification ou la rétractation, la mesure dans laquelle les modifications proposées retarderaient l’instruction expéditive de l’affaire, la mesure dans laquelle la thèse adoptée à l’origine par une partie a amené une autre partie à suivre dans le litige une ligne de conduite qu’il serait difficile, voire impossible, de modifier, et la mesure dans laquelle les modifications demandées faciliteront l’examen par la Cour du véritable fond du différend. Il n’existe aucun facteur qui soit prédominant, ou dont la présence ou l’absence soit nécessairement déterminante. On doit accorder à chacun des facteurs le poids qui lui revient dans le contexte de l’espèce. Il s’agit, en fin de compte, de tenir compte de la simple équité, du sens commun et de l’intérêt qu’ont les tribunaux à ce que justice soit faite.
+[10] Lors de son argumentation, l’avocat de l’appelant a également accepté de supprimer comme suit certains passages des nouveaux alinéas de l’avis d’appel modifié. À l’alinéa 6d), les mots suivants seront supprimés :
+[traduction]
+[...] de sorte que l’appelant s’attendait, d’une façon légitime et raisonnable, à ce que les déductions soient admises et à ce qu’il ne fasse pas l’objet d’une nouvelle cotisation.
+L’appelant accepte de supprimer de l’alinéa 6f) les mots suivants :
+[traduction]
+L’appelant s’attendait, d’une façon raisonnable, à ce que l’ARC applique la Loi conformément à ses propres publications. Cependant,
+L’appelant accepte de supprimer de l’alinéa 6g) les mots [traduction] « sur lesquelles l’appelant s’était fondé ».
+[11] L’appelant accepte de supprimer de l’alinéa 16a) tout ce qui suit le mot [traduction] « publications ».
+[12] À l’exception du paragraphe 12, sur lequel je reviendrai ci‑dessous, ce qui reste est relativement anodin. Je ne puis voir rien de mal à ce que l’appelant plaide qu’en déterminant la JVM, il s’était fondé sur des pratiques et procédures publiées par l’Agence du revenu du Canada (l’« ARC »). Personnellement, j’accorderais fort peu d’importance aux bulletins et pratiques du Ministère, mais il s’agit de documents que le juge du procès peut considérer comme révélateurs dans le contexte de l’ensemble de la preuve. Il n’appartient pas au juge des requêtes d’usurper les fonctions du juge du procès sur des questions de pertinence ou en ce qui concerne les arguments qui peuvent être avancés. Si les questions soulevées dans les modifications proposées (ou ce qu’il en reste une fois que l’appelant a effectué des suppressions) sont aussi peu pertinentes que l’affirme l’avocat de l’appelant, ces questions peuvent être tranchées bien plus rapidement que le temps qu’il a fallu pour débattre et régler ces requêtes.
+[13] Je ferai une exception au sujet des mots que l’appelant se propose d’ajouter au paragraphe 12 :
+[traduction]
+Puisqu’il a accepté le montant de 180 631,19 $ à l’égard des gains en capital imposables sur les œuvres d’art données par l’appelant, le ministre ne peut plus contester la juste valeur marchande des dons.
+L’incohérence évidente de la position prise par le ministre exige une explication, et je me demande comment les deux positions peuvent toutes deux être maintenues. Toutefois, il ne s’agit pas d’une question de préclusion. La préclusion peut, dans certaines circonstances, s’appliquer à l’encontre de la Couronne (Goldstein v. The Queen, 96 DTC 1029), mais tel n’est pas ici le cas. L’incohérence est une question à débattre, et il se peut bien que l’appelant puisse demander au juge du procès de rajuster la cotisation. Je refuse donc d’autoriser la modification du paragraphe 12. L’appelant a par ailleurs le droit d’effectuer les modifications demandées.
+[14] J’examinerai maintenant la requête visant à contraindre l’intimée à répondre aux engagements qui ont été laissés en suspens, aux refus et aux questions posées lors de l’interrogatoire préalable et à contraindre le représentant de la Couronne, Salvadore Tringali, à comparaître à un autre interrogatoire. Dans le dossier de la requête de l’appelant figure un tableau énonçant les questions auxquelles celui‑ci veut obtenir une réponse. Il s’agit des questions suivantes :
+[traduction]
+Question
+Page
+Question précise
+18
+4
+Sous toute réserve, la remise du dossier Sackman au complet étant donné que l’instance n’a pas donné lieu à une « communication intégrale ».
+41
+12
+Refus de répondre à certaines questions portant sur la politique suivie par le ministre il y a 20 ans et à la question de savoir si la politique concernant le don d’œuvres d’art a changé.
+118
+31
+Refus de faire savoir si l’ARC a retenu les services de ses propres évaluateurs dans d’autres affaires concernant des œuvres d’art.
+125
+32
+Refus de faire savoir s’il existe quelque affaire dans laquelle l’ARC a retenu les services d’un évaluateur.
+131
+35
+Refus de faire de savoir si M. McCarney, ou quelqu’un d’autre à l’administration centrale, a eu quelque chose à voir avec la question de savoir si la Couronne devait retenir les services de ses propres évaluateurs.
+156
+40
+Refus de faire savoir si quelqu’un avait vu les factures que M. Teplitsky avait envoyées au bureau de M. Derskin.
+163
+43
+Refus de répondre à certaines questions fondées sur un document daté du 26 janvier 1998 de John Oulten (pièce 1).
+164
+44
+Refus d’indiquer ce que la pièce 1 est censée être.
+185
+51
+Refus de faire savoir si M. Sackman a fait quoi que ce soit qui soit incompatible avec l’avis que l’ADRC a donné au sujet des évaluations de « dons en nature ».
+194
+54
+Refus de faire savoir si Mme Yeoman est une évaluatrice à laquelle l’ADRC a eu recours par le passé.
+195
+55
+Refus d’indiquer si la Couronne doit déterminer si Mme Yeoman ou M. Rosoff sont des évaluateurs agréés.
+233
+66
+Refus de faire savoir quelle était la politique de l’ARC, avant les multiples affaires de donation d’œuvres d’art, lorsqu’il s’agissait d’admettre la valeur au détail s’il existait un marché de détail.
+[15] Il convient de répondre à la question 18. Le fait que la communication est effectuée en vertu de l’article 81 (communication partielle) plutôt qu’en vertu de l’article 82 (communication intégrale) ne permet pas pour autant de refuser de communiquer quoi que ce soit dans le dossier de l’appelant. La chose est clairement pertinente dans l’appel, au stade de la communication préalable, et il convient donc de produire les renseignements en cause. De fait, j’espère n’avoir jamais à examiner de nouveau une objection aussi peu fondée quant à la production de documents.
+[16] Comme nous le verrons ci‑dessous, l’avocat de l’appelant a refusé de permettre à son client de répondre à de nombreuses questions en invoquant la question de la pertinence. Les deux avocats semblent avoir une idée fort large de la pertinence lorsqu’il s’agit de vouloir obtenir des réponses à certaines questions et une idée technique fort étroite de la pertinence lorsqu’il s’agit de questions auxquelles ils ne veulent pas répondre.
+[17] Les questions à l’égard desquelles la Couronne veut obtenir une réponse sont énoncées à l’annexe E de l’affidavit que Salvatore Tringali, employé à l’Agence du revenu du Canada, a établi le 15 mars 2007. Il s’agit des questions ci‑après énoncées. (Le tableau renferme également les parties pertinentes de la transcription de l’interrogatoire préalable de l’appelant.) Je n’ai pas reproduit les parties de la transcription ou les questions qui, selon les avocats, ne sont plus en litige :
+[traduction]
+Page
+Question
+Description
+Refus concernant l’année 1998
+10-11
+35
+Réponse aux questions concernant les documents produits sous la cote 1, onglet 1, documents de promotion fournis par Artistic Ideas en date de l’année 1998.
+11
+36
+Réponse aux questions concernant l’année d’imposition 1998.
+11-12
+37
+Réponse aux questions concernant la façon dont l’appelant interprétait les modalités d’application du programme lorsqu’il a initialement traité avec Artistic Ideas.
+12-13
+38
+Réponse aux questions concernant la participation de l’appelant à l’achat et à la donation d’œuvres d’art par l’entremise d’Artistic Ideas au cours de l’année d’imposition 1998.
+36
+115-118
+Question de savoir si les documents produits sous la cote 1, onglet 2A, se rapportaient au catalogue d’estampes qui étaient disponibles en 1998.
+43
+156
+Question de savoir si un tableau était joint au moment où l’appelant a conclu l’entente produite sous la cote 1, onglet 66, en 1998.
+45-46
+169
+Se renseigner auprès de M. Richmond afin de déterminer ce qu’il savait au sujet de l’emplacement des estampes [au moment où l’appelant a conclu les contrats d’achat].
+51
+183
+Réponse aux questions se rapportant à un formulaire de commande en 1998 et aux actes de donation signés en 1998.
+52
+184
+Réponse aux questions relatives aux lettres envoyées à l’un des organismes de bienfaisance, pour le compte de l’appelant, par Artistic Ideas en 1998.
+52
+185
+Confirmation des détails concernant les estampes précises que l’appelant a acquises et données en 1998.
+52
+186
+Réponse aux questions relatives aux reçus pour don de bienfaisance et au coût d’achat en 1998.
+74
+260
+En ce qui concerne l’onglet 3, pièce 2, confirmation de la question de savoir s’il s’agit des titres précis que l’appelant a donnés à la Ligue des droits de la personne de B’nai B’rith en 1998.
+Refus concernant l’année 1999
+52
+187
+Question de savoir si l’appelant se rappelle avoir donné à l’un des organismes de bienfaisance, en 1999, dix estampes acquises en 1998.
+62
+212
+Question de savoir si l’appelant a déjà eu en sa possession les dix estampes de 1998, lesquelles auraient été données en 1999, selon la Couronne.
+63
+214
+Circonstances dans lesquelles a eu lieu le don, en 1999, des dix estampes acquises en 1998. Question de savoir si quelqu’un a communiqué avec l’appelant à ce sujet.
+64
+215
+Façon dont l’appelant a choisi les organismes de bienfaisance auxquels les estampes seraient données en 1999.
+75
+261
+En ce qui concerne la pièce 2, onglet 3, confirmation de la question de savoir s’il s’agit des dix onzièmes estampes que l’appelant a acquises en 1998 et données à Ballet Creole en 1999.
+91
+298-299
+Réponse à une série de questions concernant l’année d’imposition 1999.
+Refus concernant l’année 2000
+94-95
+306-308
+Attentes de l’appelant en ce qui concerne l’effet de la clause 7 du document figurant à l’onglet 68, pièce 1, et question de savoir si l’appelant s’attendait à ce que la valeur estimative de chaque groupe de dix estampes soit fixée à 10 000 $.
+118
+370
+Confirmation de l’attente de l’appelant, selon laquelle les estampes qu’il avait acquises dans le cadre de ce contrat d’achat, en l’an 2000, feraient l’objet d’une évaluation au montant d’au moins 21 000 $ par groupe.
+Refus concernant les demandes de crédit d’impôt pour don de bienfaisance en 1998 et en 1999
+125-126
+395-399
+Réponse aux questions relatives aux demandes de crédit d’impôt pour don de bienfaisance en ce qui concerne les déclarations de revenus des années 1998 et 1999 de l’appelant.
+Refus concernant les évaluations
+129-130
+409
+Réponse à la question relative aux évaluations sur lesquelles l’appelant s’est fondé et qui ont été obtenues pour les dons consentis en 1998 et en 1999.
+140-145
+445 & 446
+Production de documents de travail concernant les évaluations préalables au litige fournies par Leslie Fink, Edith Yeomans et Charles Rosoff pour les années 1998, 1999 et 2000, y compris la lettre ou les conditions de l’engagement, le mandat conféré à l’expert, les notes, les documents de travail et les documents connexes, les factures ou tout autre renseignement reçu au sujet des ventes considérées comme comparables, les copies de tout projet de rapport remis par les évaluateurs ou préparé par les évaluateurs, ainsi que les copies de factures et la confirmation du nombre d’heures effectuées selon les factures soumises à Artistic Ideas.
+Refus concernant l’année 2001
+181
+558-661
+Question de savoir si l’appelant a participé au programme de donation d’œuvres d’art d’Artistic en 2001.
+[18] Les avocats des deux parties ont déclaré à maintes reprises qu’il s’agit uniquement de savoir quelle était la JVM des estampes qui ont été données. Il me semble qu’il n’est absolument pas pertinent de savoir si le programme de donation d’œuvres d’art constituait un stratagème d’évitement fiscal, ou de savoir ce à quoi l’appelant aurait pu s’attendre ou ce qu’il aurait pu comprendre en prenant des dispositions en vue de la donation d’œuvres d’art, ou si l’appelant voulait effectuer un don de bienfaisance ou s’il agissait plutôt pour des motifs d’ordre fiscal. En outre, le fait que l’appelant aurait peut‑être pris des dispositions similaires en ce qui concerne la donation d’œuvres d’art au cours d’années antérieures pourrait influer sur son intention et sur ses attentes au cours de l’année 2000, mais cela n’est pas en soi pertinent. Il ne s’agit pas ici d’activités immobilières dans le cadre desquelles le fait qu’un contribuable a conclu des opérations similaires au cours d’autres années est pertinent pour connaître son intention. En l’espèce, l’intention n’est pas une considération pertinente. Comme la cour l’a dit dans la décision Klotz v. The Queen, 2004 DTC 2236, confirmé par la C.A.F., 2005 DTC 5279 :
+[22] Une chose est claire, quoique ce ne soit probablement pas pertinent aux fins qui nous occupent : c’était purement l’avantage fiscal espéré qui amenait M. Klotz à participer à ce programme. L’élargissement des horizons culturels ou intellectuels des étudiants de la FSU n’entrait pas en ligne de compte. M. Klotz n’a jamais demandé ce que la FSU allait faire des gravures. En 1999, la FSU a reçu 1 450 gravures de divers donateurs et a probablement remis des reçus s’élevant à au moins 1 450 000 $.
+[23] M. Klotz a reçu un grand nombre de documents de promotion du programme AFE. Ces documents renferment une page ou deux de verbiage idéaliste et plutôt spécieux au sujet de l’avantage social qu’offre le don d’œuvres d’art à des établissements d’enseignement, mais dans l’ensemble, les documents traitent des avantages fiscaux. Deux avis de cabinets d’avocats bien connus ont été reçus. Les avis étaient soigneusement rédigés, mais comme la plupart des avis juridiques que j’ai vus à l’égard d’opérations dans lesquelles la réduction de l’impôt est un facteur important, ces avis sont davantage de la nature d’une dissertation sur les diverses dispositions de la Loi faisant partie de l’arsenal gouvernemental qui pourraient être utilisées aux fins de la contestation du résultat fiscal envisagé. De tels avis sont assujettis à un si grand nombre de réserves, de conditions et d’hypothèses qu’il est difficile de voir comment ils pourraient rassurer un client.
+[24] M. Klotz n’a reçu l’évaluation de Mme Laverty qu’après avoir donné les œuvres d’art.
+[25] ll est inutile de parler plus longtemps du donateur. M. Klotz a fait un don en masse de gravures à tirage limité à la FSU. Il n’a pas vu ces gravures et il ne les a pas eues en sa possession. Ce qu’étaient ces gravures, à qui elles étaient destinées ou ce que l’on en faisait lui importait peu. Il cherchait uniquement à obtenir un reçu pour don de bienfaisance. Rien de tout cela n’est ici pertinent. Le fait d’avoir une âme charitable n’est pas une condition de l’obtention d’un crédit d’impôt pour don de bienfaisance. Les gens font des dons de bienfaisance pour bien des raisons : à des fins fiscales, commerciales, par vanité, pour des motifs d’ordre religieux, à cause de pressions sociales. Aucun motif en soi ne vicie les conséquences fiscales d’un don de bienfaisance.
+[19] De même, les questions posées par l’avocat de l’appelant auxquelles l’intimée s’est opposée ne me semblent pas pertinentes. Les politiques de l’ARC, ses pratiques passées et courantes n’avancent pas la cause de l’appelant. À supposer que le déposant ait répondu à toutes les questions relatives aux politiques de l’ARC de la façon la plus favorable à l’appelant, on pourrait se demander si ces réponses, si elles étaient consignées dans la preuve, aideraient le moindrement l’appelant. Je crois qu’il faut répondre à cette question par la négative. Dans l’arrêt Gold Coast Selection Trust Limited v. Humphrey (Inspector of Taxes), [1948] A.C. 459, le vicomte Simon a dit que l’évaluation est un art, et non une science exacte. Néanmoins, la JVM d’un objet est une question factuelle objective qui n’a rien à voir avec les politiques formulées par l’ARC. L’identité, l’expérience et les titres des évaluateurs auxquels l’ARC a eu recours en établissant la cotisation ont peu d’importance aux fins de la détermination de la valeur par la Cour.
+[20] C’est avec hésitation que j’ai autorisé l’appelant à modifier son avis d’appel en vue de lui permettre de plaider en fait qu’il s’était fondé sur les politiques publiées par l’ARC à l’égard des dons d’œuvres d’art. Je crois en toute justice que l’appelant devrait être autorisé à avancer un tel argument même si, personnellement, je ne sais vraiment pas en quoi cela étaye sa cause. Étant donné que l’appelant affirme s’être fondé sur des politiques de l’ARC, je ne crois pas que le fait de connaître les politiques et pratiques sur lesquelles il ne s’est pas fondé ou qu’il ne connaissait pas lui soit utile. Toutefois, je crois que, dans leurs interrogatoires préalables, les deux parties se sont lancées, du moins en ce qui concerne les questions auxquelles on a refusé de répondre, dans une recherche à l’aveuglette inutile qui constitue un gaspillage de temps.
+[21] Il m’a semblé qu’en ce qui concerne la simple absence de pertinence des questions posées lors des interrogatoires préalables, les avocats des deux parties étaient plus ou moins à égalité et que si j’exigeais que l’on réponde aux questions de l’appelant, je devrais également l’exiger pour les questions de l’intimée. Toutefois, cette affaire fait depuis suffisamment longtemps l’objet de disputes procédurales insignifiantes. J’espère que les parties feront avancer le litige et se demanderont si les réponses qu’elles espèrent obtenir à l’égard des questions contestées influeront quelque peu, eu égard à la situation dans son ensemble, sur leurs chances de succès. Je sais bien que le critère préliminaire qui s’applique à la pertinence dans le cadre de la communication préalable est relativement peu rigoureux, mais il y a des limites. Les raisons traditionnelles justifiant les interrogatoires préalables – à savoir obtenir des aveux, faciliter la preuve, déterminer la preuve qui sera utilisée au procès, faciliter un règlement – ont été oubliées, disparaissant sous une masse d’interrogatoires ne rimant à rien.
+[22] À l’exception de la question relative au dossier de l’évaluateur, que j’autorise, les requêtes que les deux parties ont présentées en vue de contraindre les témoins à comparaître de nouveau pour répondre aux questions auxquelles ils ont refusé de répondre sont rejetées.
+[23] J’en viens finalement à la requête que la Couronne a présentée en vue d’interroger une personne désignée par Artistic (le promoteur) en sa qualité de mise en cause en vertu de l’article 99 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), qui est rédigé comme suit :
+Interrogatoire de tiers avec autorisation
+99. (1) La Cour peut accorder, à des conditions appropriées, notamment quant aux dépens, l’autorisation d’interroger au préalable une personne, à l’exception d’un expert engagé en prévision d’un litige ou en instance par une partie, ou en son nom, si elle a des raisons de croire que cette personne possède des renseignements pertinents sur une question importante en litige.
+(2) La Cour n’accorde l’autorisation selon le paragraphe (1) que si elle est convaincue :
+a) que le requérant n’a pas été en mesure d’obtenir ce renseignement de l’une des personnes qu’il a le droit d’interroger au préalable ou de la personne qu’il désire interroger;
+b) qu’il est injuste d’exiger que l’instance soit instruite sans que le requérant de la requête ait la possibilité d’interroger cette personne;
+c) que l’interrogatoire n’aura pas pour effet, selon le cas :
+(i) de retarder indûment le début de l’instruction de l’instance,
+(ii) d’entraîner des dépenses injustifiées pour les autres parties,
+(iii) de causer une injustice à la personne que le requérant désire interroger.
+(3) Sauf directive contraire de la Cour, la partie qui interroge oralement une personne en application du présent article signifie, sur demande, une transcription gratuite de l’interrogatoire à toute partie qui y a assisté ou qui s’y est fait représenter.
+(4) Sauf directive expresse contraire de la Cour, la partie interrogatrice n’a pas le droit de recouvrer d’une autre partie les dépens de l’interrogatoire.
+(5) La déposition d’une personne interrogée en application du présent article ne peut être consignée en preuve à l’audience aux fins du paragraphe 100(1).
+L’article 99 est plutôt restrictif, et une ordonnance autorisant l’examen préalable d’un tiers exige une observation stricte des dispositions de l’article 99.
+[24] Le 3 février 2007, l’avocat de l’intimée a écrit aux avocats de l’appelant pour demander qu’Artistic réponde à 86 questions, qui étaient jointes à l’annexe A de la lettre. Cette annexe est jointe à l’appendice A des présents motifs. Il s’agit des questions que la Couronne veut poser au représentant d’Artistic. Ce représentant (Mark Pearlman) a déjà été interrogé et contre‑interrogé dans l’appel qu’Artistic a elle‑même interjeté devant la Cour canadienne de l’impôt. Or, la transcription de l’interrogatoire d’un tiers ne peut pas être utilisée au procès de la même façon que l’interrogatoire préalable d’une partie. Les questions portent sur les activités de promotion d’Artistic lorsqu’elle offrait le programme. Il se peut que la Couronne veuille obtenir la transcription de l’interrogatoire du représentant d’Artistic au cas où ce dernier serait cité comme témoin. La transcription pourrait être utile en vue de récuser ce représentant. Or, on ne saurait utiliser ainsi l’article 99. Il n’y a absolument rien dans les questions figurant à l’appendice A qui puisse aider à déterminer la JVM. Selon moi, les 86 questions figurant à l’annexe A constituent de l’acharnement.
+[25] Les présentes requêtes constituent un exemple par excellence du genre de chose qui justifie les critiques formulées au sujet du coût exorbitant des litiges. Une préparation approfondie est une chose. Un interrogatoire oppressif et excessif portant sur des détails non pertinents est une tout autre chose. Il est grandement temps que les parties aux litiges fiscaux se rendent compte que les querelles procédurales et les interrogatoires préalables inutilement longs ont pour effet de mettre le coût d’un litige devant la Cour canadienne de l’impôt hors de la portée du commun des mortels. Les documents qui ont été déposés dans les requêtes comprenaient des affidavits, des transcriptions d’interrogatoires préalables et de contre‑interrogatoires des déposants, de nombreux recueils de documents et de jurisprudence ainsi que des arguments écrits. Cette avalanche de documents dont les avocats m’ont inondé, d’une épaisseur de près de deux pieds, n’aidait absolument pas à régler ces requêtes. Indépendamment d’encombrer le dossier de la Cour, cela n’a réussi qu’à prolonger l’instance et à la rendre plus coûteuse. On gagne une cause en se concentrant sur la question en litige et en assénant un coup fatal adroit, et non en utilisant une prolifération de tactiques de diversion.
+[26] La requête visant l’interrogatoire d’un représentant d’Artistic est rejetée. Artistic était représentée par un avocat dans la requête. Elle a droit à ses dépens. Je n’adjuge par ailleurs aucuns dépens à l’une ou l’autre des parties.
+Signé à Ottawa, Canada, ce 17e jour d’août 2007.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 19e jour de novembre 2007.
+Johanne Brassard, trad. a.
+APPENDICE A
+[traduction]
+Question
+Début des activités et emplacement
+À quel moment Artistic Ideas Inc. (« Artistic Ideas ») a‑t‑elle été constituée en société?
+À quel moment Artistic Ideas Inc. a‑t‑elle commencé à mettre en œuvre son programme de donation d’œuvres d’art?
+À quelles questions M. Pearlman et M. Turner songeaient‑ils en ce qui concerne la télécopie en date du 8 juillet 1998 produite sous la cote 3, onglet 5?
+Artistic Ideas exploitait‑elle un commerce de la nature d’une galerie d’art, vendait‑elle des œuvres d’art au public? Dans la négative, quelle était la nature de son commerce et où étaient situés ses locaux?
+Nature du programme de donation d’œuvres d’art
+Quelles étaient les modalités d’application du programme de donation d’œuvres d’art d’Artistic Ideas?
+Le programme de donation d’œuvres d’art était‑il offert à tous ceux qui voulaient y participer? Dans la négative, pourquoi pas et quelles étaient les restrictions?
+De quelle façon les clients ou donateurs éventuels étaient‑ils sollicités dans le cadre du programme?
+Artistic Ideas avait-elle recours à des planificateurs financiers à titre de mandataires pour commercialiser son programme de donation d’œuvres d’art?
+Si les services de mandataires étaient retenus pour commercialiser le programme de donation d’œuvres d’art, de quelle façon ceux‑ci étaient‑ils rémunérés?
+Le programme de donation d’œuvres d’art était‑il exploité dans chaque province? Dans la négative, quelle était l’étendue géographique du programme et pourquoi était‑il ainsi restreint?
+Documents de promotion
+1) Artistic Ideas a‑t‑elle distribué le document produit sous la cote 1, onglet 1, aux donateurs intéressés dans le cadre de son programme de donation d’œuvres d’art en 1998?
+2) Artistic Ideas a‑t‑elle distribué les documents produits sous la cote 2, onglets 40 et 41, aux donateurs intéressés dans le cadre de son programme de donation d’œuvres d’art en 1999?
+3) Artistic Ideas a-t-elle distribué des documents de promotion aux donateurs intéressés dans le cadre de son programme de donation d’œuvres d’art en l’an 2000? Dans l’affirmative, allez‑vous fournir une copie des documents?
+Lettres d’opinion
+4) Nous sommes au courant de l’existence d’un avis juridique en date du 7 octobre 1998 que Fraser & Beatty, cabinet d’avocats, a fourni à Artistic Ideas au sujet du programme de donation d’œuvres d’art. Artistic Ideas a‑t‑elle distribué cet avis juridique aux donateurs intéressés?
+5) Nous sommes également au courant de l’existence d’avis juridiques en date du 25 mai 1999, du 14 juin 2000 et du 24 octobre 2000, qui ont été fournis à Artistic Ideas par Fraser, Milner, cabinet d’avocats, au sujet du programme de donation d’œuvres d’art. Artistic Ideas a‑t‑elle distribué ces lettres aux donateurs intéressés?
+Organismes de bienfaisance
+6) Quels étaient les organismes de bienfaisance qui participaient au programme de donation d’œuvres d’art d’Artistic Ideas en 1998, en 1999 et en l’an 2000?
+17) De quelle façon les organismes de bienfaisance étaient‑ils proposés et choisis?
+18) Quelles dispositions Artistic Ideas a‑t‑elle prises avec les organismes de bienfaisance qui acceptaient des œuvres d’art dans le cadre du programme de donation d’œuvres d’art?
+19) En ce qui concerne les ententes conclues avec les organismes de bienfaisance :
+a) La lettre du 7 septembre 1999 d’Artistic Ideas à Friends of Honduran Children produite sous la cote 1, onglet 17, est‑elle une copie de l’entente conclue entre Artistic Ideas et l’organisme de bienfaisance pour l’année 1999? L’original est‑il disponible?
+b) La lettre du 17 novembre 1999 d’Artistic Ideas à Regesh Family & Child Services produite sous la cote 1, onglet 26, est‑elle une copie de l’entente conclue entre Artistic Ideas et l’organisme de bienfaisance pour l’année 1999? L’original est‑il disponible?
+c) La lettre du 19 juillet 2000 d’Artistic Ideas à Don Mills Foundation for Senior Citizens Inc. produite sous la cote 2, onglet 12, est‑elle une copie de l’entente conclue entre Artistic Ideas et l’organisme de bienfaisance pour l’année 2000? L’original est‑il disponible?
+d) Artistic Ideas fournira‑t‑elle des copies des autres ententes conclues avec les organismes de bienfaisance auxquels M. Sackman a fait des dons en 1999 et en l’an 2000, en ce qui concerne en particulier Regesh Family & Child Services pour l’année 2000; Ballet Creole pour 1999; Tel Aide pour les années 1999 et 2000; Aladdin Children’s Charity pour l’année 2000; UMVIRUS Research of Canada pour l’année 2000; Me Association of Ontario pour l’année 2000; Ontario Foundation for Visually Impaired pour l’année 2000; LoveCry – The Street Kids Organization pour l’année 2000; National Children’s Burn Society pour l’année 2000; Azamra Institute pour l’année 2000 et Don Mills Foundation for Senior Citizens pour l’année 2000?
+Catalogues
+20) Le document produit sous la cote 1, onglet 2, est‑il le catalogue d’œuvres d’art disponibles d’Artistic Ideas? Dans l’affirmative, pour quelle année?
+21) Les catalogues d’estampes étaient‑ils disponibles et ont‑ils été distribués en 1999 et en l’an 2000? Dans l’affirmative, Artistic Ideas fournira‑t‑elle des copies?
+22) Qui a préparé les catalogues?
+Documents faisant état des opérations
+23) Artistic Ideas fournira‑t‑elle des copies de ses instructions concernant les commandes pour les années 1998 et 1999?
+24) Y avait‑il des instructions types concernant les commandes pour l’année d’imposition 2000? Dans l’affirmative, Artistic Ideas fournira‑t‑elle des copies de ces instructions?
+25) Les documents produits sous la cote 1, onglets 70, 71, 72 et 73, sont‑ils des copies des mandats types utilisés par Artistic Ideas en 1998, en 1999 et en 2000?
+26) Les documents produits sous la cote 1, onglets 66, 67, 68 et 69, sont‑ils des copies des contrats types d’achat qui ont été utilisés en 1998, en 1999 et en 2000?
+27) Nous croyons comprendre qu’avant le 28 février 2000, les estampes étaient vendues en groupe de onze estampes et qu’elles étaient données en groupe de dix estampes. Le contrat d’achat conclu entre Silver Fine Arts et M. Sackman le 17 novembre 2000 (pièce 1, onglet 69) prévoit deux évaluations pour chaque groupe d’estampes, à un montant d’au moins 21 000 $. Le programme a‑t‑il changé après le 27 février 2000? Dans l’affirmative, qu’est‑ce qui a changé et pourquoi?
+28) Qu’est-ce qu’Artistic Ideas sait ou quels renseignements Artistic Ideas possède‑t‑elle au sujet de la question de savoir si Coleman Fine Arts ou Silver Fine Arts avaient acquis les estampes à la date où les contrats d’achat ont été conclus avec les donateurs?
+29) Où les estampes étaient‑elles à la date à laquelle les contrats d’achat ont été conclus avec les donateurs?
+30) Les documents produits sous la cote 1, onglets 74, 75 et 79, sont‑ils des copies d’actes types de donation qui ont été utilisés en 1998, en 1999 et en 2000?
+31) Les actes de donation renferment une directive voulant que les œuvres soient détenues par l’organisme de bienfaisance pour une période d’au moins dix ans. La directive visait‑elle entre autres à faire en sorte que les estampes ne soient pas mises sur le marché?
+Communication avec les organismes de bienfaisance
+32) En ce qui concerne la lettre du 31 décembre 1998 d’Artistic Ideas à la Ligue des droits de la personne qui a été produite sous la cote 1, onglet 96 :
+a) La lettre est‑elle une copie authentique d’une lettre originale envoyée à l’organisme de bienfaisance pour le compte de M. Sackman au sujet du don que celui‑ci a consenti en 1998?
+b) Le titre des œuvres d’art était‑il connu au moment où la lettre a été envoyée? Dans la négative, pourquoi pas?
+c) Artistic Ideas avait‑elle reçu des évaluations écrites indiquant que les œuvres d’art valaient 100 000 $ à la date à laquelle la lettre a été envoyée? Dans la négative, sur quoi la valeur attribuée était‑elle fondée?
+d) Artistic Ideas a‑t‑elle envoyé des lettres similaires pour le compte d’autres donateurs qui ont participé au programme de donation d’œuvres d’art en 1998?
+33) En ce qui concerne la lettre du 29 décembre 1999 d’Artistic Ideas à Friends of Honduran Children qui a été produite sous la cote 1, onglet 17 :
+a) La lettre est‑elle une copie authentique d’une lettre originale envoyée à l’organisme de bienfaisance pour le compte de M. Sackman au sujet du don que celui‑ci a consenti en 1999?
+b) Le titre des œuvres d’art était‑il connu au moment où la lettre a été envoyée? Dans la négative, pourquoi pas?
+c) Artistic Ideas avait‑elle reçu des évaluations écrites indiquant que les œuvres d’art valaient 100 000 $ à la date à laquelle la lettre a été envoyée? Dans la négative, sur quoi la valeur attribuée était‑elle fondée?
+d) Artistic Ideas a‑t‑elle envoyé des lettres similaires pour le compte de donateurs qui ont participé au programme de donation d’œuvres d’art en 1999?
+34) En ce qui concerne la lettre du 22 février 2000 d’Artistic Ideas à l’Ontario Foundation for Visually Impaired Children qui a été produite sous la cote 3, onglet 11, au sujet du don consenti par M. Sackman :
+a) Artistic Ideas a‑t‑elle envoyé cette lettre pour le compte de M. Sackman?
+b) Artistic Ideas a‑t‑elle envoyé des lettres similaires au sujet des dons consentis par d’autres donateurs qui ont participé au programme de donation d’œuvres d’art?
+c) Artistic Ideas fournira‑t‑elle des copies de toutes les autres lettres envoyées aux organismes de bienfaisance au sujet des dons consentis par M. Sackman?
+Nombre d’opérations
+35) Artistic Ideas convient‑elle que la stratégie qu’elle a adoptée avec Coleman Fine Arts et Silver Fine Arts visait notamment à créer un marché pour les estampes qui faisaient l’objet d’opérations dans le cadre du programme de donation d’œuvres d’art?
+36) Y a‑t‑il eu des cas dans lesquels des particuliers ont acheté un groupe ou des groupes d’estampes, mais n’ont donné que des estampes individuelles plutôt qu’un groupe ou des groupes d’estampes? Dans l’affirmative, veuillez fournir des détails.
+37) Artistic Ideas a‑t‑elle vendu des estampes individuelles plutôt qu’un groupe ou des groupes d’estampes?
+38) Artistic Ideas, Coleman Fine Arts ou Silver Fine Arts étaient‑elles obligées de vendre les estampes faisant l’objet d’opérations dans le cadre du programme de donation d’œuvres d’art?
+39) (i) Combien y avait-il de groupes disponibles aux fins de la vente et (ii) combien de groupes ont été vendus dans le cadre du programme de donation d’œuvres d’art en 1998, en 1999, en 2000 et en 2001?
+40) Combien d’estampes ont été vendues et données par l’entremise du programme de donation d’œuvres d’art en 1998, en 1999, en 2000 et en 2001?
+41) Artistic Ideas peut‑elle fournir une liste détaillée de la composition des groupes et le nombre de chacun des groupes particuliers qui ont été vendus en 1998, en 1999, en 2000 et en 2001? Dans l’affirmative, Artistic Ideas fournira‑t‑elle ces renseignements?
+42) Artistic Ideas peut‑elle fournir une liste détaillée indiquant le nom des donateurs pour les années 1998, 1999, 2000 et 2001 et renfermant les renseignements suivants : la date du contrat d’achat, le nombre de groupes achetés, le prix payé pour chaque groupe, ainsi que la date de l’acte de donation ou des actes de donation? Dans l’affirmative, Artistic Ideas fournira‑t‑elle cette liste?
+43) Artistic Ideas peut‑elle fournir un rapport détaillé, semblable aux rapports produits sous la cote 2, onglets 3 et 4, au sujet de chaque donateur, indiquant le nom du donateur, les organismes de bienfaisance choisis, le titre des estampes données à chaque organisme de bienfaisance pour les années 1998, 1999, 2000 et 2001? Dans l’affirmative, Artistic Ideas fournira‑t‑elle ce rapport?
+44) Artistic Ideas peut-elle fournir un rapport détaillé, par titre d’estampe, indiquant les noms des donateurs qui ont acheté chaque titre et le nombre total de titres achetés par chaque donateur pour les années 1998, 1999, 2000 et 2001? Dans l’affirmative, Artistic Ideas fournira‑t‑elle ce rapport? Un exemple d’un rapport similaire a été produit sous la cote 5, onglet 1.
+45) Artistic Ideas peut-elle fournir un rapport détaillé, par organisme de bienfaisance, indiquant le nom de chaque donateur et les titres des estampes qui ont été données en 1998, en 1999, en 2000 et en 2001? Dans l’affirmative, Artistic Ideas fournira‑t‑elle ce rapport? Un exemple d’un tel rapport a été produit sous la cote 2, onglet 27.
+46) Artistic Ideas peut-elle fournir un rapport détaillé, par organisme de bienfaisance, indiquant le titre des estampes et le nombre de titres qui ont été remis à chaque organisme de bienfaisance en 1998, en 1999, en 2000 et en 2001? Dans l’affirmative, Artistic Ideas fournira‑t‑elle ce rapport? Un exemple d’un tel rapport a été produit sous la cote 1, onglet 26, intitulé « Estampes remises à des organismes de bienfaisance » en ce qui concerne Regesh Family and Child Services.
+47) Artistic Ideas peut-elle fournir un rapport détaillé, par organisme de bienfaisance, indiquant la galerie ou la provenance des estampes ainsi que le titre de chaque estampe et le nombre d’estampes pour les années 1998, 1999, 2000 et 2001? Des exemples de tels rapports ont été produits sous la cote 3, onglet 38, intitulés « Gallery (Detailed) Bragg CL » et « Gallery (Detailed) Bragg ».
+48) Veuillez confirmer qu’Artistic Ideas a maintenu une base de données électroniques au sujet du programme de donation d’œuvres d’art, renfermant des données au sujet des donateurs en cause ainsi que les titres des estampes vendues aux donateurs. Dans l’affirmative, Artistic Ideas fournira‑t‑elle une copie des données électroniques?
+49) Si Artistic Ideas ne peut pas fournir les rapports susmentionnés, quels sont les rapports qui peuvent être générés?
+Rapport Navigant
+50) Nous avons à notre disposition un rapport détaillé préparé par Navigant Consulting. La pièce 5, onglet 1, du rapport est une liste des titres qui, selon ce que nous croyons comprendre, ont été achetés et donnés par M. Sackman en l’an 2000. Pour chaque titre, le rapport indique les noms d’autres donateurs qui ont acheté le même titre et le nombre de titres, ainsi que la date du contrat d’achat. Nous serions heureux de prendre des dispositions appropriées pour que vous puissiez consulter les documents sources au besoin.
+Le rapport est-il exact en ce qui concerne la mesure dans laquelle il désigne les autres donateurs qui ont acheté les mêmes titres que M. Sackman en l’an 2000, le nombre de titres achetés et les dates des contrats? Si le rapport n’est pas exact, est‑ce uniquement parce qu’il ne désigne peut‑être pas tous les autres donateurs qui ont acheté les mêmes titres?
+Évaluations
+51) À quel moment les évaluateurs ont‑ils vu les estampes que M. Sackman a données en 1998, en 1999 et en 2000? Veuillez donner des détails.
+52) En ce qui concerne les évaluations fournies par Leslie Fink, par Edith Yeomans et par Charles Rosoff pour les années 1998, 1999 et 2000, selon le cas, Artistic Ideas fournira‑t‑elle des copies de leurs documents de travail, et notamment les documents suivants : les lettres par lesquelles le mandat a été conféré et les conditions de l’engagement, les notes, factures de vente et autres renseignements examinés pour trouver des ventes comparables, les factures envoyées à Artistic Ideas pour les services rendus et les projets de rapport?
+53) Quels renseignements Artistic Ideas a‑t‑elle fournis aux évaluateurs au sujet du programme de donation d’œuvres d’art?
+54) Artistic Ideas sait‑elle si les évaluateurs savaient que le programme de donation d’œuvres d’art était fondé sur ce que les estampes devaient être évaluées à une juste valeur marchande d’au moins 1 000 $?
+55) Artistic Ideas a‑t‑elle fourni des renseignements aux évaluateurs au sujet du nombre de ventes conclues avec les donateurs participant au programme?
+56 Artistic Ideas a-t-elle informé les évaluateurs des prix payés par les donateurs?
+57) Les évaluateurs ont-ils demandé des renseignements à Artistic Ideas au sujet des ventes conclues avec les donateurs?
+58) Artistic Ideas a-t-elle fourni des copies des évaluations aux organismes de bienfaisance avant que ceux‑ci remettent des reçus pour don de bienfaisance?
+Coleman Fine Arts – Silver Fine Arts et fournisseurs
+59) Artistic Ideas sait-elle si Coleman Fine Arts Ltd., Silver Fine Arts Ltd. ou leur dirigeant, Paul Sloan, étaient affiliés aux organismes de bienfaisance qui participaient au programme de donation d’œuvres d’art ou étaient liés à ces organismes? Dans l’affirmative, veuillez donner des détails.
+60) En ce qui concerne la copie d’une facture datée du 24 mai 2001 produite sous la cote 3, onglet 39 :
+a) Artistic Ideas peut-elle confirmer que Coleman Fine Arts a versé 40 $ pour chacune des 3 738 estampes de Charles Lynn Bragg?
+b) Artistic Ideas peut-elle confirmer que la facture se rapporte aux estampes de Charles Lynn Bragg qui ont été vendues à des donateurs en l’an 2000, et notamment à M. Sackman? Dans la négative, Artistic Ideas peut‑elle confirmer l’année au cours de laquelle les estampes ont été vendues dans le cadre du programme de donation d’œuvres d’art?
+c) Si les estampes de Charles Lynn Bragg que M. Sackman a données en l’an 2000 n’ont pas coûté 40 $ chacune à Coleman Fine Arts et à Silver Fine Arts, combien les estampes ont‑elles coûté?
+d) Artistic Ideas a‑t‑elle reçu une copie de la facture? Dans l’affirmative, que représentait ce document selon Artistic Ideas?
+e) Charles Lynn Bragg a-t-il expédié les estampes mentionnées dans la facture directement à Artistic Ideas?
+f) Artistic Ideas possède-t-elle des copies des contrats datés du 21 septembre 2000 et du 24 mai 2001 dont il est fait mention dans la facture? Dans l’affirmative, veuillez fournir les copies.
+g) Artistic Ideas se renseignera‑t‑elle auprès de Paul Sloan si elle n’est pas en mesure de répondre aux questions susmentionnées et d’obtenir les documents demandés?
+61) En ce qui concerne la copie d’une facture datée du 26 juillet 2001 produite sous la cote 3, onglet 40 :
+a) Artistic Ideas peut-elle confirmer que Silver Fine Arts et Coleman Fine Arts ont versé 40 $ pour chacune des 5 000 estampes de Charles Bragg, soit un montant de 200 000 $ en tout?
+b) Artistic Ideas peut-elle confirmer que la facture se rapporte aux estampes de Charles Bragg qui ont été vendues à des donateurs en l’an 2000, et notamment à M. Sackman? Dans la négative, Artistic Ideas peut‑elle confirmer l’année au cours de laquelle les estampes ont été vendues dans le cadre du programme de donation d’œuvres d’art?
+c) Si les estampes de Charles Bragg que M. Sackman a données en l’an 2000 n’ont pas coûté 40 $ chacune à Coleman Fine Arts et à Silver Fine Arts, combien ont‑elles coûté?
+d) Artistic Ideas a‑t‑elle reçu une copie de la facture?
+e) Charles Bragg a‑t‑il expédié les estampes mentionnées dans la facture directement à Artistic Ideas?
+f) Artistic Ideas se renseignera‑t‑elle auprès de Paul Sloan si elle n’est pas en mesure de répondre aux questions susmentionnées?
+g) Artistic Ideas demandera-t-elle à Paul Sloan des copies de toute entente conclue entre Coleman Fine Arts ou Silver Fine Arts et Charles Bragg, et fournira‑t‑elle ces copies si elles sont disponibles?
+62) En ce qui concerne la lettre que Charles Bragg a envoyée par télécopieur à Paul Sloan le 14 août 2001, produite sous la cote 3, onglet 41 :
+a) Artistic Ideas est-elle en mesure de confirmer qu’il s’agit d’une copie d’une lettre que Charles Bragg a envoyée à Paul Sloan?
+b) Qu’est-ce qu’Artistic Ideas sait au sujet des questions mentionnées dans la lettre ou quels renseignements Artistic Ideas possède-t-elle à ce sujet?
+c) La lettre se rapporte-t-elle à des estampes de Charles Bragg qui ont été vendues dans le cadre du programme de donation d’œuvres d’art en 1998, en 1999 et en 2000?
+d) Edith Yeomans travaillait-elle avec Charles Bragg afin que les évaluations moyennes soient haussées?
+e) Artistic Ideas sait-elle si Charles Bragg a tiré des épreuves des estampes qui ont été vendues dans le cadre du programme de donation d’œuvres d’art ou possède‑t‑elle des renseignements à ce sujet? Dans l’affirmative, veuillez donner des détails.
+f) Artistic Ideas est-elle en mesure de confirmer si le résumé figurant à la page 2 de la lettre est exact?
+g) Artistic Ideas se renseignera‑t‑elle auprès de Paul Sloan si elle n’est pas en mesure de répondre aux questions susmentionnées?
+63) En ce qui concerne la série de factures au nom de Charles Bragg qui ont été produites sous la cote 3, onglets 33, 34 et 35 :
+a) Artistic Ideas a-t-elle reçu des copies de ces documents de Charles Bragg?
+b) Les factures identifient-elles avec exactitude le nombre d’estampes de Charles Bragg qui ont été vendues à des donateurs et expédiées aux organismes de bienfaisance par l’entremise du programme de donation d’œuvres d’art en l’an 2000? Si ce n’était pas en l’an 2000, quelle était l’année en cause?
+c) Charles Bragg a‑t‑il expédié ces estampes à Artistic Ideas? Dans l’affirmative, à quel moment?
+d) Pourquoi Charles Brigg facturait-il les organismes de bienfaisance?
+e) Sur quoi le prix unitaire de chaque estampe était‑il basé? Qui a fourni ces renseignements à Charles Bragg?
+64) En ce qui concerne les documents produits sous la cote 3, onglets 37, 38, 42 et 43 :
+a) Artistic Ideas a-t-elle reçu des copies de ces documents?
+b) Les documents se rapportent-ils aux estampes de Charles Bragg et de Charles Lynn Bragg qui ont été vendues dans le cadre du programme de donation d’œuvres d’art pour l’année 2000? S’ils ne se rapportent pas à l’année 2000, à quelle année se rapportent‑ils?
+c) Les documents indiquent‑ils avec exactitude le nombre d’estampes qui ont été vendues dans le cadre du programme de donation d’œuvres d’art et qui ont été données aux organismes de bienfaisance désignés?
+d) Qu’est-ce qu’Artistic Ideas sait au sujet des documents ou quels renseignements Artistic Ideas possède‑t‑elle à ce sujet?
+e) Qui a fourni les renseignements à Charles Bragg et à Charles Lynn Bragg au sujet de la valeur estimative?
+65) En ce qui concerne les copies de factures produites sous la cote 3, onglets 59, 62, 63, 64, 78 et 79 :
+a) Qu’est-ce qu’Artistic Ideas sait au sujet des estampes que RoGallery a vendues à Paul Sloan, de Coleman Fine Arts, ou quels renseignements Artistic Ideas possède‑t‑elle à ce sujet?
+b) Les titres mentionnés dans les factures ont‑ils été vendus dans le cadre du programme de donation d’œuvres d’art en l’an 2000? Dans l’affirmative, de quelles estampes s’agissait‑il? Si la chose ne s’est pas produite en l’an 2000, en quelle année cela est‑il arrivé?
+c) Plusieurs estampes portent un indicatif alphanumérique au lieu d’un titre. Artistic Ideas peut‑elle indiquer les titres de ces estampes?
+d) Coleman Fines Arts et Silver Fine Arts ont-elles acquis les estampes de la succession Picasso au prix de 60 $ chacune?
+e) Coleman Fine Arts et Silver Fine Arts ont-elles acquis les estampes des autres artistes aux montants indiqués dans les factures?
+f) Les 165 estampes de M. Knigin intitulées « Boldest Native », onglet 78, comprennent‑elles les cinq estampes portant le même titre que M. Sackman a achetées en l’an 2000?
+g) Les 98 estampes de M. Knigin intitulées « Woman Playing a Poppin », onglet 78, comprennent‑elles les trois estampes portant le même titre que M. Sackman a achetées en l’an 2000?
+h) Artistic Ideas se renseignera‑t‑elle auprès de Paul Soan si elle n’est pas en mesure de répondre aux questions susmentionnées?
+66) En ce qui concerne les copies de factures produites sous la cote 3, onglets 97 et 98 :
+a) Qu’est-ce qu’Artistic Ideas sait au sujet de ces factures et des estampes mentionnées dans les factures?
+b) Si les estampes ont été vendues dans le cadre du programme de donation d’œuvres d’art, en quelle année ont‑elles été vendues?
+c) Coleman a-t-elle acquis les estampes aux prix indiqués (c’est‑à‑dire au prix de 60 $ chacune pour les estampes Picasso et de 40 $ chacune pour les autres estampes)?
+d) Artistic Ideas se renseignera-t-elle auprès de Paul Sloan si elle n’est pas en mesure de répondre aux questions susmentionnées?
+67) En ce qui concerne la lettre que Ro Gallery a envoyée à Silver Fine Arts le 8 juin 2001, produite sous la cote 3, onglet 80 :
+a) La lettre mentionne 144 estampes de Faulconer, intitulées « 3 Pansies ». S’agit‑il des mêmes estampes que les six estampes de Faulconer intitulées « Pansies » que M. Sackman a achetées et données en l’an 2000?
+b) Qu’est-ce qu’Artistic Ideas sait au sujet de cette lettre ou quels renseignements Artistic Ideas possède‑t‑elle à ce sujet?
+c) Artistic Ideas se renseignera‑t‑elle auprès de Paul Sloan si elle n’est pas en mesure de répondre aux questions susmentionnées?
+68) En ce qui concerne des documents qui semblent être des documents d’expédition de RoGallery, produits sous la cote 3, onglets 65 à 77 :
+a) Artistic Ideas a-t-elle reçu des copies de ces documents?
+b) Qu’est-ce qu’Artistic Ideas sait au sujet des documents ou quels renseignements Artistic Ideas possède‑t‑elle à ce sujet?
+c) Les documents se rapportent-ils à des estampes que RoGallery a vendues à Coleman Fine Arts ou à Silver fine Arts et qui faisaient partie du programme de donation d’œuvres d’art en l’an 2000? Si ce n’est pas en l’an 2000, à quelle année se rapportent‑ils?
+d) Qui a fourni à RoGallery les renseignements concernant la valeur estimative?
+e) Artistic Ideas se renseignera-t-elle auprès de Paul Sloan si elle n’est pas en mesure de répondre aux questions susmentionnées?
+69) En ce qui concerne les documents produits sous la cote 3, onglets 47, 48, 50, 51 et 54, concernant Museum Masters International Ltd. :
+a) Qu’est-ce qu’Artistic Ideas sait au sujet de ces documents ou quels renseignements Artistic Ideas possède‑t‑elle à ce sujet?
+b) Veuillez confirmer si les estampes mentionnées dans les documents ont été vendues dans le cadre du programme de donation d’œuvres d’art et préciser l’année.
+c) Coleman Fine Arts a-t-elle versé à Museum Masters International un montant de 80 $ pour chaque estampe de Picasso?
+d) M. Sackman a-t-il acquis des estampes provenant de Museum Masters International?
+e) Museum Masters International a-t-elle expédié les estampes à Artistic Ideas?
+f) Artistic Ideas a-t-elle reçu les documents d’expédition figurant à l’onglet 51?
+g) Qui a fourni à Museum Masters International les renseignements concernant le prix unitaire figurant dans les documents, onglet 51? À quel moment les renseignements ont‑ils été fournis?
+h) Les documents figurant à l’onglet 54 indiquent‑ils avec exactitude le nombre d’estampes et les titres des estampes qui ont été vendues à des donateurs et données aux organismes de bienfaisance désignés? Dans l’affirmative, en quelle année?
+i) Artistic Ideas se renseignera‑t‑elle auprès de Paul Sloan si elle n’est pas en mesure de répondre aux questions susmentionnées?
+70) Qu’est-ce qu’Artistic Ideas sait au sujet du prix que Coleman Fine Arts et Silver Fine Arts ont payé pour les autres estampes qui ont été vendues dans le cadre du programme de donation d’œuvres d’art en 1998, en 1999 et en 2000 et dont il n’a pas déjà été question ci‑dessus ou quels renseignements Artistic Ideas possède‑t‑elle à ce sujet? Artistic Ideas se renseignera‑t‑elle auprès de Paul Sloan si elle ne possède pas ces renseignements?
+71) Qu’est-ce qu’Artistic Ideas sait au sujet de la question de savoir comment et où Coleman Fine Arts et Silver Fine Arts ont obtenu les estampes ayant fait l’objet d’opérations dans le cadre du programme de donation d’œuvres d’art en 1998, en 1999 et en 2000 et dont il n’a pas déjà été question ci‑dessus ou quels renseignements Artistic Ideas possède‑t‑elle à ce sujet? Artistic Ideas se renseignera‑t‑elle auprès de Paul Sloan?
+72) Qu’est-ce qu’Artistic Ideas sait au sujet de la question de savoir si Paul Sloan, Coleman Fine Arts ou Silver Fine Arts ont engagé quelqu’un pour acquérir les estampes qui ont fait l’objet d’opérations dans le cadre du programme de donation d’œuvres d’art ou quels renseignements Artistic Ideas possède‑t‑elle à ce sujet? Le cas échéant, des honoraires de démarcheur ont‑ils été payés? Artistic Ideas se renseignera‑t‑elle auprès de Paul Sloan si elle n’est pas en mesure de répondre à ces questions?
+73) Qu’est-ce qu’Artistic Ideas sait au sujet de la question de savoir si les vendeurs ou les sources d’estampes qui ont fait l’objet d’opérations dans le cadre du programme de donation d’œuvres d’art ont été informés de la condition relative à la période de dix ans qui avait été fixée à l’égard des dons ou quels renseignements Artistic Ideas possède‑t‑elle à ce sujet? Artistic Ideas se renseignera‑t‑elle auprès de Paul Sloan si elle n’est pas en mesure de répondre à cette question?
+Nature des estampes
+74) Des estampes ont-elles été créées ou des épreuves ont-elles été tirées pour le programme de donation d’œuvres d’art? En particulier, et sans restreindre la portée générale de la question, des épreuves d’estampes de Charles Bragg ou de Charles Lynn Bragg ont‑elles été tirées à cause du programme de donation d’œuvres d’art? Artistic Ideas se renseignera‑t‑elle auprès de Paul Sloan si elle n’est pas en mesure de répondre à cette question?
+75) Qu’est-ce qu’Artistic Ideas sait au sujet de la provenance des estampes que M. Sackman a achetées et données dans le cadre du programme de donation d’œuvres d’art en 1998, en 1999 et en 2000 ou quels renseignements Artistic Ideas possède‑t‑elle à ce sujet? Artistic Ideas se renseignera‑t‑elle auprès de Paul Sloan à ce sujet?
+76) Artistic Ideas tenait-elle des dossiers concernant les numéros d’édition précis des estampes, de façon que le numéro d’édition d’une estampe puisse être associé à une vente conclue avec un donateur? Ainsi, Artistic Ideas connaît‑elle les numéros d’édition des estampes qui ont été vendues à M. Sackman?
+Paiements effectués aux organismes de bienfaisance
+En ce qui concerne les documents produits sous la cote 3, onglets 15 et 16 :
+a) Le document figurant à l’onglet 15 est‑il une copie d’une lettre qu’Artistic Ideas a reçue de l’Ontario Foundation for Visually Impaired Children? Dans l’affirmative, à quel moment la lettre a‑t‑elle été reçue?
+b) La lettre se rapporte‑t‑elle à l’année de donation 2000?
+c) Le document figurant à l’onglet 16 est‑il une copie d’un chèque de 11 100 $ émis par Artistic Ideas en faveur de l’Ontario Foundation for Visually Impaired Children?
+d) Que représente le paiement de 11 100 $ et comment ce montant a‑t‑il été établi?
+e) Les estampes qui ont été données à l’Ontario Foundation for Visually Impaired Children avaient‑elles été livrées à l’organisme de bienfaisance à la date du paiement? Dans la négative, à quel moment les estampes ont‑elles été livrées à l’organisme de bienfaisance?
+77) En ce qui concerne la copie d’une facture 12 680 $ de LoveCry à Artistic Ideas, datée du 19 février 2001, produite sous la cote 1, onglet 18 :
+a) Qui a créé et préparé la facture?
+b) Artistic Ideas a-t-elle versé un montant de 12 680 $ à LoveCry? Dans l’affirmative, ce montant se rapportait‑il à des dons consentis en l’an 2000?
+c) Si le montant a été payé, où les estampes étaient-elles au moment du paiement?
+d) Qu’est-ce qu’Artistic Ideas sait au sujet des dispositions qui auraient été prises aux fins de l’entreposage des estampes qui avaient été données à LoveCry dans un local appartenant à Cheder Chabad ou quels renseignements Artistic Ideas possède‑t‑elle à ce sujet? L’entreposage était‑il gratuit?
+e) Qu’est-ce qu’Artistic Ideas sait au sujet des dispositions prises par d’autres organismes de bienfaisance qui acceptaient des dons d’estampes aux fins de l’entreposage de ces œuvres d’art ou quels renseignements Artistic Ideas possède‑t‑elle à ce sujet?
+78) Quels sont les autres montants qui ont été versés aux organismes de bienfaisance qui ont accepté des dons d’estampes de M. Sackman en 1998, en 1999 et en 2000 dans le cadre du programme de donation d’œuvres d’art?
+Dispositions d’estampes
+79) Qu’est-ce qu’Artistic Ideas a dit, le cas échéant, au sujet de la vente ou de la disposition des estampes aux organismes de bienfaisance qui ont accepté des dons d’estampes par l’entremise du programme de donation d’œuvres d’art?
+80) Artistic Ideas sait-elle si des organismes de bienfaisance qui ont accepté des estampes par l’entremise du programme de donation d’œuvres d’art ont vendu des estampes ou en ont de quelque autre façon disposé ou quels renseignements Artistic Ideas possède‑t‑elle à ce sujet?
+Questions diverses
+81) La lettre du 28 décembre 2000 d’Artistic Ideas à LoveCry, produite sous la cote 1, onglet 18, est‑elle une copie d’une lettre qu’Artistic Ideas a envoyée à LoveCry? Artistic Ideas a‑t‑elle envoyé des lettres similaires à d’autres organismes de bienfaisance qui ont accepté des estampes dans le cadre du programme de donation d’œuvres d’art?
+82) Une copie du reçu que LoveCry a remis relativement au don consenti par M. Sackman en l’an 2000 est produite sous la cote 1, onglet 59. Artistic Ideas a‑t‑elle participé à l’impression et à la préparation des reçus remis par LoveCry à l’égard d’estampes qui étaient données dans le cadre du programme de donation d’œuvres d’art? Dans l’affirmative, veuillez fournir des détails.
+83) Artistic Ideas a‑t‑elle participé à l’impression et à la préparation de reçus remis par d’autres organismes de bienfaisance?
+84) Qu’est-ce qu’Artistic Ideas sait au sujet de la façon dont les organismes de bienfaisance entreposaient les estampes ou quels renseignements Artistic Ideas possède‑t‑elle à ce sujet?
+85) En ce qui concerne la lettre qu’Artistic Ideas a envoyée à Friends of the Honduran Children le 19 octobre 2000, ainsi que le tableau accompagnant la pièce 1, onglet 17 :
+a) Cette lettre est-elle une copie d’une lettre originale qu’Artistic Ideas a envoyée à l’organisme de bienfaisance pour le compte de M. Sackman?
+b) Cela concerne-t-il le don consenti par M. Sackman pour l’année 1999?
+c) Était‑ce la première fois qu’Artistic Ideas fournissait une liste détaillée des titres d’estampes données par M. Sackman?
+d) Les estampes concernant l’année 1999 ont‑elles été expédiées seulement au mois d’octobre 2000? Dans l’affirmative, quelle était la raison du retard?
+Dispositions financières
+86) En ce qui concerne l’achat par M. Sackman d’estampes par l’entremise du programme de donation d’œuvres d’art en 1998, en 1999 et en 2000, de quelle façon le paiement que ce dernier a effectué a‑t‑il été partagé entre Artistic Ideas et Coleman Fine Arts ou Silver Fine Arts?
+RÉFÉRENCE : 2007CCI455
+No DU DOSSIER DE LA COUR : 2002-4824(IT)G
+INTITULÉ : Jeffrey Sackman
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 10 mai 2007
+MOTIFS DE L’ORDONNANCE : L’honorable juge en chef D.G.H. Bowman
+DATE DE L’ORDONNANCE ET
+DES MOTIFS DE
+L’ORDONNANCE : Le 17 août 2007
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Martin Teplitsky, c.r.
+Avocats de l’intimée :
+Me Perry Derksen
+Me Jenna Clark
+Avocat d’Artistic Ideas Inc. :
+Me Irving Marks
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Teplitsky, Colson
+Avocats
+Cabinet : Bureau 200 – 70, rue Bond
+Toronto (Ontario)
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

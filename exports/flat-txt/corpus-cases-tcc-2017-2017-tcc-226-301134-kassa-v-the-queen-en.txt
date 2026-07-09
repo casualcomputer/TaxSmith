@@ -1,0 +1,167 @@
+Title: Kassa v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/301134/index.do
+Corpus path: corpus/cases/tcc/2017/2017-tcc-226-301134-kassa-v-the-queen-en.md
+Document type: case_law
+Last modified: 2017-11-10
+
+# Kassa v. The Queen
+
+- Citation: 2017 TCC 226
+- Decision date: 2017-11-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7632, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kassa v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2017-11-10
+Neutral citation
+2017 TCC 226
+File numbers
+2016-3024(IT)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3024(IT)I
+BETWEEN:
+AMELEWORK KASSA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on October 20, 2017, at Toronto, Ontario
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+Agent for the Appellant:
+Jagama Gobena
+Counsel for the Respondent:
+Alexander Hinds
+JUDGMENT
+IN ACCORDANCE with the Reasons for Judgment attached, the appeal with respect to the 2010, 2011 and 2012 taxation years is allowed on the basis that the Appellant is entitled to deduct from employment income motor vehicle travel expenses equal to $4,218.74, $4,639.18 and $5,087.42, in each of the taxation years 2010, 2011 and 2012, respectively, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment.
+The Appellant shall have her costs in accordance with the applicable tariff.
+Signed at Ottawa, Canada, this 10th day of November 2017.
+“R.S. Bocock”
+Bocock J.
+Citation: 2017 TCC 226
+Date: 20171110
+Docket: 2016-3024(IT)I
+BETWEEN:
+AMELEWORK KASSA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. Introduction [1] The Appellant, Ms. Kassa, claimed certain expense deductions from employment income for the 2010, 2011 and 2012 taxation years under paragraph 8(1)(h.1) of the Income Tax Act, RSC 1985, c.1, as amended (the “Act”). She also claimed Employee and Partner GST/HST Rebates for the 2010 and 2012 taxation years.
+[2] These deductions and rebates may be summarized as follows:
+Taxation Year 2010 2011 2012
+Motor vehicle expenses 8,010 9,363 8,456
+Supplies 275 277 323
+Cell phone 549 554 1,242
+Boots – uniforms 404 388 379
+Total expenses 9,238 10,582 10,399
+GST/HST Rebates 513 NIL 940
+[3] The Minister of National Revenue (the “Minister”) disallowed all of the deductions and rebates.
+II. Facts a) Employment, Compensation and Records Health Care Worker [4] Ms. Kassa testified at the hearing. She indicated that during the relevant years she worked for a home health care service provider: VHA Home Healthcare (“VHA”). She would travel by car, her own, each day she worked by attending to the basic health needs of six to eight patients. Occasionally, Ms. Kassa would attend the offices of VHA for training and staff meetings. Generally however, she left her home in the morning and during the day sequentially attended to patients in their respective homes. Her claimed employment expenses related to motor vehicle use, supplies, cellphone and uniforms. In two years, as noted above there were GST/HST rebates claimed.
+T2200S [5] For each of the three taxation years, there were executed T2200 forms - - Declarations of Conditions of Employment. There was some confusion concerning the proper completion of the T2200s for the taxation years. Generally, the following situation appears factually accurate for the three years:
+i) Ms. Kassa did use her motor vehicle to carry out certain business activities of VHA. ii) Ms. Kassa was required to expend sums in the course of her employment, at least on motor vehicle. iii) Ms. Kassa was entitled to and received partial reimbursement for her expenses. Reconciling the various versions of T2200s [6] Ultimately, what became clear is that VHA and Ms. Kassa had completed a Form T2200 for each of the three years in question. Further, Ms. Kassa would seek a mileage reimbursement from VHA based upon the per kilometre amount of $0.36 for each kilometre driven by her during the course of her duties for VHA at various patients’ homes. Quite apart from the differing versions of the T2200, the foregoing seems to be the accurate methodology followed and testified to by Ms. Kassa.
+[7] Form T2200s are normally the primary evidence of employee owned vehicle use, any non-taxable reasonable allowances and the obligations of an employee to deploy one’s own assets and resources in carrying out duties for an employer. As is seen throughout, while completed to varying degrees, among differing versions, the evidence concerning Ms. Kassa’s expenses and obligations was reaffirmed and corroborated through other testimony.
+Vehicle Allowance [8] In each of the three taxation years, the travel allowance paid by VHA was between $3,000.00 and $3,600.00. Her summary pay stubs reveal the annual amounts as follows:
+Year Employer Paid Travel Allowance
+2010 $3,067.98 2011 $3,396.76 2012 $3,667.94 [9] The precise amounts may contain some minor variations because the pay periods overlap various calendar years. Generally however, from the employer generated paystubs, the amounts are reliable from year to year as a measurement of the VHA paid travel allowance. From the evidence, the Court concludes that Ms. Kassa was entitled to an employer paid non-taxable vehicle allowance. As is seen within, that did not happen.
+Percentage of Vehicle use for Employment [10] Ms. Kassa testified she rarely, if ever, used her motor vehicle for personal use. With young children and a spouse, she would complete her daily employment tasks and return home. Her spouse, using a different vehicle, undertook the tasks of child pick-up, transportation, groceries, and other daily chores requiring a motor vehicle for such personal matters. Ms. Kassa claimed that 90% of the mileage driven by her in her vehicle was for visits to VHA’s various patients.
+Record of Patient Visits at Various Sites [11] A vehicle log, per se, was not kept. However, Ms. Kassa did maintain a rudimentary monthly calendar system and indicated within it the patients visited each day: the initials written on each day denoted the patient visited by her during that day. As well, this system informed her claim for and payment of the travel allowance by VHA.
+b) Preliminary Issues Expenses other than Motor Vehicle Expenses [12] Unlike the travel expenses, no receipts, other evidence, or convincing testimony was tendered at the hearing concerning reasons, quantum or extent of the expenses incurred for supplies, cellphone or uniforms claimed in each year. The same was true of the GST/HST rebates. No receipts or other documents were tendered. Accordingly, such expenses cannot be maintained on the basis of having been primarily incurred, never mind whether, secondarily, they were incurred in the course of carrying out her duties of employment. Further, there was no testimony that Ms. Kassa was required to supply anything in the course of her employment relating to supplies, cellphone or uniforms, other than the provision of her motor vehicle and directly related expenses.
+III. The Analysis of the Law and the Facts and Decision a) The Statute [13] Symmetrically, the Act provides for both reasonable travel allowances which need not be included in the income of a taxpayer and for deductions by employees of certain allowable motor vehicle expenses. Frequently, but not always, one excludes the other.
+[14] With respect to reasonable allowances reimbursed on a non-taxable basis, subsection 6(1)(b)(vii.1) of the Act provides as follows:
+Amounts to be included as income from office or employment
+6 (1) There shall be included in … the income of a taxpayer …
+Personal or living expenses
+(b) all amounts received by the taxpayer in the year as an allowance for personal or living expenses or as an allowance for any other purpose, except
+…
+(vii.1) reasonable allowances for the use of a motor vehicle received by an employee (other than an employee employed in connection with the selling of property or the negotiating of contracts for the employer) from the employer for travelling in the performance of the duties of the office or employment, …
+[15] Similarly, paragraph 8(1)(h.1) provides for deductions from employment income as follows:
+8(1) Deductions allowed
+Motor vehicle travel expenses
+(h.1) where the taxpayer, in the year,
+(i) was ordinarily required to carry on the duties of the office or employment away from the employer’s place of business or in different places, and
+(ii) was required under the contract of employment to pay motor vehicle expenses incurred in the performance of the duties of the office or employment,
+amounts expended by the taxpayer in the year in respect of motor vehicle expenses incurred for travelling in the course of the office or employment, except where the taxpayer
+(iii) received an allowance for motor vehicle expenses that was, because of paragraph 6(1)(b), not included in computing the taxpayer’s income for the year, or
+(iv) claims a deduction for the year under paragraph 8(1)(f);
+b) Analysis of the facts [16] On the basis of the facts, Ms. Kassa did not exclude from income the reasonable travel allowance paid by VHA. She included it in income. On the basis of the facts when applied to the statute this Court finds she was not required to do so. Not only is this borne out by the evidence, but no contrary assumption regarding the payment of any allowance, included or excluded, was made in the reply by the Minister. The Respondent called no witnesses. A review of the reply confirms the Respondent’s view that:
+(i) without specific reference, the quantum of declared income included the reasonable vehicle allowance paid by VHA; (ii) there was only one workplace or work site of the employer; (iii) all duties were performed at a single workplace in a single day to which Ms. Kassa would drive and from which she would return home; (iv) Ms. Kassa was not required under her contract of employment to incur the motor vehicle or travel expenses; and (v) implicitly, Ms. Kassa primarily used her vehicle for personal use. [17] The defects in the documentary evidence of Ms. Kassa, especially related to the T2200, overall nonetheless demolish such assumptions. On balance, the Court concludes factually that:
+(i) Ms. Kassa used her vehicle extensively for her employer’s business; (ii) she drove from place of business to place of business in the course of her duties on VHA’s behalf without returning home until the end of the day; (iii) a term of her contract, the entire one, not necessarily the confused one reflected in the various T2200s, required her to travel to various locations in a single day in the course of her employment; and (iv) the allowance paid to her was included in income and income tax was paid thereon. [18] An obverse situation was before this Court in the case of Royer v. HMQ, 99 DTC 683 [English translation available at TCC judgments] where Justice Lamarre Proulx described a situation where a taxpayer sought to deduct travel expenses under paragraph 8(1)(h.1). In that case, the claimed expenses were in excess of a reasonable tax-free allowance which itself the Minister maintained ought to have been included in income because there was only one place of business of the employer. A similar confusion exists within the Minister’s pleadings in this appeal. Ms. Kassa falls within the situations, described by Judge Lamarre Proulx where the Judge wrote at paragraphs 16 and 17:
+[16] On the basis of the case law already cited, it is my view that paragraph 8(1)(h.1) of the Act provides for two situations: the first is where an employee is ordinarily required to carry on his or her duties away from the employer’s place of business, and the other is where an employee is ordinarily required to carry on his or her duties in different places. I believe that the first situation covers individuals who report to one place, which is a place of business, and who must ordinarily carry on their duties away from that place.
+[17] As for the second situation, I do not think that the expression “different places” excludes a place of business. I accept the position of counsel for the respondent, which is supported by the above-mentioned case law, that a work site is a place of business. If an employee must carry on his or her duties at several places of business, those places of business come precisely within the meaning of “different places”. If the employee ordinarily works at one of those different places and works at the others at the employer’s discretion, travel to the usual place of business will be personal expenses. The conditions of employment are important in being able to determine which is the usual place of work and which constitute the different places. The distance from one place to another and changes in the place of work based on the employer’s needs will have as a consequence, inter alia, that the places of work will be different places.
+[19] In Ms. Kassa’s case, not only were the expenses not fully reimbursed, but any payments offsetting a portion of the expenses were included by her in income. This removes Ms. Kassa from having “received an allowance”…“not included in computing income”. Therefore, the subparagraph 6(1)(b)(vii.1) exclusion from income was not invoked as an exception to deductibility provided for under subparagraph 8(1)(h.1)(iii). That exception does not apply in this appeal to prohibit deductibility as it frequently does. On that basis, paragraph 8(1)(h.1) is fully operative. Ms. Kassa’s expenses incurred for travel to various mandatory “work sites” each day during the course of her duties should be deductible from the employment income. She earned that income precisely because she undertook such travel to those distinct work sites of VHA.
+Fairly calculating the motor vehicle expenses? [20] VHA’s vehicle reimbursement payment was of limited use to Ms. Kassa because it was taxable. Nonetheless, it is and remains a useful tool for measuring the mileage driven for the employer’s benefit to various work sites in the course of Ms. Kassa’s duties. The employer, as a third party business operator, logically paid only for those distances for which it was responsible. Intuitively, the Court imputes that VHA would not have allowed a claim for over-inflated distances or mileage for personal use. At the rate of $0.36/kilometre, the number of kilometres driven for VHA’s business by Ms. Kassa is reflected in the following rounded quotients derived by dividing the total amount paid by the rate per kilometre:
+Year Taxable Allowance Paid Kilometres Driven for Duties
+2010 $3,067.00 8519 2011 $3,396.00 9433 2012 $3,667.00 10,186 [21] Produced at the hearing were the following prescribed CRA mileage reimbursement rates from Regulation 7306 of the Act:
+Year Reasonable Allowance Rates
+2010 $0.52/km for the first 5000km and thereafter $0.46/km;
+2011 $0.52/km for the first 5000km and thereafter $0.46/km; and
+2012 $0.53/km for the first 5000km and thereafter $0.47/km.
+[22] On that basis, more likely than not, the reasonable costs for expenses, incurred by Ms. Kassa were as follows:
+Year
+Employment Kilometres Driven
+First 5000km at CRA prescribed rates
+Mileage above 5000km at CRA prescribed rates
+Deductible Travel Expenses
+2010
+8519
+$0.52x5000=$2,600.00
+$0.46x3519=$1,618.74
+$4,218.74
+2011
+9433
+$0.52x5000=$2,600.00
+$0.46x4433=$2,039.18
+$4,639.18
+2012
+10,186
+$0.53x5000=$2,650.00
+$0.47x5186=$2,437.42
+$5,087.42
+[23] While these amounts are less than the total actual expenses purportedly incurred, Ms. Kassa kept little in the way of receipts, calculated a very low amount for personal use and gave no testimony regarding the frequency of travel to VHA’s offices. It is noted that the latter two items are personal expenses and not deductible. However, she did use her vehicle in providing services to her employer during the course of her employment. Therefore, she is entitled to the reasonable motor vehicle expense deductions outlined above.
+[24] To the point that the $0.36/km allowance ought not to have been included in income in the first instance, the fact remains that it was. Directing a T1-Adjustement request is not binding on the Minister and is not an available remedy of this Court for Ms. Kassa. Likely, a remedy of this kind could have been effected by the Minister at the objection stage. It was not. In any event, simple non-inclusion of those lesser amounts, in the view of this Court, is insufficient to reflect the actual deductible reasonable travel expenses. Therefore, additional deductible expenses are still warranted. On that basis, and in this informal proceeding, the Court seeks to provide a fair, balanced and all encompassing remedy for total reasonable travel expenses deductible from employment income under paragraph 8(1)(h.1). This foregoing result does that.
+IV. Costs [25] Ms. Kassa shall have her costs on this informal matter in accordance with the tariff.
+Signed at Ottawa, Canada, this 10th day of November 2017.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2017 TCC 226
+COURT FILE NO.:
+2016-3024(IT)I
+STYLE OF CAUSE:
+AMELEWORK KASSA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+October 20, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+November 10, 2017
+APPEARANCES:
+Agent for the Appellant:
+Jagama Gobena
+Counsel for the Respondent:
+Alexander Hinds
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

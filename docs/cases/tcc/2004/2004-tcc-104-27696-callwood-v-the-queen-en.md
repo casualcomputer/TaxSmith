@@ -1,0 +1,136 @@
+---
+title: "Callwood v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27696/index.do"
+last_modified: "2004-02-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 104"
+citation2: ""
+neutral_citation: "2004 TCC 104"
+decision_date: "2004-02-19"
+language: "en"
+item_id: "27696"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 515
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:46:24.384000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "31fd10fd80539c4610bdbc25b38ef1982bfbef3506050799cc51beeb7f8bde35"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Callwood v. The Queen
+
+- Citation: 2004 TCC 104
+- Decision date: 2004-02-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 515, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Callwood v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-19
+Neutral citation
+2004 TCC 104
+File numbers
+2003-2096(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-2096(IT)I
+BETWEEN:
+TRACEY CALLWOOD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 5, 2004, at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+Agent for the Appellant:
+Darrell Callwood
+Counsel for the Respondent:
+Craig Maw
+____________________________________________________________________
+JUDGMENT
+The appeal from the determination made by the Minister of National Revenue under the Income Tax Act in respect of the entitlement of the Appellant to the child tax benefit for the 2000 base taxation year is dismissed.
+Signed at Ottawa, Canada, this 19th day of February, 2004.
+"J.M. Woods"
+J.M. Woods J.
+Citation: 2004TCC104
+Date: 20040219
+Docket: 2003-2096(IT)I
+BETWEEN:
+TRACEY CALLWOOD,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+[1] This appeal is from a determination by the Minister of National Revenue under the Income Tax Act for the 2000 base taxation year that Tracey Callwood is not entitled to the child tax benefit in respect of one of her daughters for the period January, 2002 to June, 2002. The basis for the determination was that Mrs. Callwood was not an "eligible individual" within the meaning of section 122.6 in respect of her daughter on the ground that the mother did not reside with the daughter during the relevant period.
+[2] The amount of the benefit at issue is $1,087.50. The appeal was heard under the Court's informal procedure.
+[3] Mrs. Callwood is married to Darrell Callwood and has 12 children. This appeal concerns a daughter from a previous marriage who was taken from the Callwood home at the age of 16 by relatives without Mrs. Callwood's consent. The question to be determined is whether the mother continued to reside with the daughter after the daughter left the home under these circumstances.
+[4] In December, 2001 the daughter's grandparents came to the Callwood home purportedly to take the children out to buy gifts. Without the consent of Mrs. Callwood, the daughter left the home with her suitcase and accompanied her grandparents to the home of other relatives, Brian and Bonnie Jennings. The daughter lived with the Jennings for a period of time and then moved out. It is not known whether the daughter left the Callwood residence of her own free will or when the daughter left the Jennings' residence. Mrs. Callwood has only spoken to her daughter once since the incident and the daughter did not testify.
+[5] Shortly after her daughter was taken from the home, Mrs. Callwood commenced an action in family court for her daughter's return. Although this action was discontinued in August, 2001, an order was later issued for the Jennings to stay away from Mrs. Callwood's other children.
+[6] Mrs. Callwood claimed a child tax benefit in respect of her daughter until June, 2002. The Minister determined that Mrs. Callwood was not entitled to the child tax benefit for the period January, 2002 to June, 2002 because Mrs. Callwood did not reside with her daughter during this period.
+[7] On a preliminary matter, Mrs. Callwood's husband, who acted as her representative at the hearing, indicated that Mrs. Callwood's main concern in this appeal was the entitlement of Mr. and Mrs. Jennings to the child tax benefit. The Jennings had apparently made a claim for the child tax benefit in respect of Mrs. Callwood's daughter for the same period. Mrs. Callwood requested a determination with respect to the Jennings' entitlement to the child tax benefit but I am not able to do so because this appeal concerns only the Minister's decision with respect to Mrs. Callwood.
+Analysis
+[8] The child tax benefit provisions require that the person claiming the benefit "reside with" the child during the relevant period. The relevant provision is the definition of "eligible individual" in section 122.6 of the Act.
+[9] In this case, the daughter was not physically living at the Callwood home during the relevant period, nor has she since. Mr. Callwood submits that the word "reside" in section 122.6 should include the meaning of "habitual residence" in the Ontario Children's Law Reform Act. Under that statute, the habitual residence of a child for purposes of custody and access is not affected by the "removal or withholding" of the child without the consent of the custodial parent. Mr. Callwood suggests that the daughter's habitual residence remained at the Callwood home because the daughter was removed from the home without his wife's consent.
+[10] Although the circumstances that gave rise to this appeal are unfortunate, I cannot agree with the interpretation of the word "reside" that is suggested by Mr. Callwood. The word "reside" generally means "to live in the same house as:" Burton v. R., [2000] 1 C.T.C. 2727 (T.C.C.). In the context of the child tax benefit, this court in other cases has held that residence is to be determined on a monthly basis and that "reside" is to have its ordinary meaning, not an expanded meaning from other statutory definitions that are enacted for different purposes: Armstrong v. R.,[1999] 4 C.T.C. 2720 (T.C.C.).
+[11] In this case the daughter left the Callwood home with her grandparents in December, 2001 and never returned. Because the daughter did not live in the Callwood home during the relevant period, I find that Mrs. Callwood did not reside with her daughter during this period and therefore Mrs. Callwood was not an eligible individual for purposes of the child tax benefit at that time.
+[12] Mr. Callwood suggests that the law should be flexible enough to deal with unique situations and one of those would be where a child is kidnapped from the home. I would note that section 65 of the Children's Law Reform Act provides that a child of 16 or more years of age is entitled withdraw from parental control. While the circumstances of this case are unfortunate, I find that they do not warrant an interpretation of the word "reside" beyond its ordinary meaning.
+[13] The appeal must be dismissed.
+Signed at Ottawa, Canada on this 19th day of February, 2004.
+"J.M. Woods"
+J.M. Woods J.
+CITATION:
+2004TCC104
+COURT FILE NO.:
+2003-2096(IT)I
+STYLE OF CAUSE:
+Tracey Callwood v. The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 5, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.M. Woods
+DATE OF JUDGMENT:
+February 19, 2004
+APPEARANCES:
+Agent for the Appellant:
+Darrell Callwood
+Counsel for the Respondent:
+Craig Maw
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

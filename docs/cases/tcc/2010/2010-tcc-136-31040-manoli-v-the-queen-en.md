@@ -1,0 +1,153 @@
+---
+title: "Manoli v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/31040/index.do"
+last_modified: "2010-03-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 136"
+citation2: ""
+neutral_citation: "2010 TCC 136"
+decision_date: "2010-03-05"
+language: "en"
+item_id: "31040"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4864
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:35:03.592000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "56417c4f1f172599746aa16fd4f8ebbe96af9903e01c33811ce69cf15a0629f9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Manoli v. The Queen
+
+- Citation: 2010 TCC 136
+- Decision date: 2010-03-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4864, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Manoli v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-03-05
+Neutral citation
+2010 TCC 136
+File numbers
+2008-1554(GST)G
+Judges and Taxing Officers
+Robert James Hogan
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2008-1554(GST)G
+BETWEEN:
+SOHEIL MANOLI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 18, 2010, at Montréal, Québec.
+Before: The Honourable Robert J. Hogan
+Appearances:
+Counsel for the Appellant:
+Éric Potvin
+Jean-Charles Hare
+Counsel for the Respondent:
+Jocelyne Mailloux Martin
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under subsection 323(1) of the Excise Tax Act, notice of which is dated June 29, 2006 and bears number BR 06 1085, is allowed, with costs to the Appellant, and the assessment is vacated in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of March 2010.
+"Robert J. Hogan"
+Hogan J.
+Citation: 2010 TCC 136
+Date: 20100305
+Docket: 2008-1554(GST)G
+BETWEEN:
+SOHEIL MANOLI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hogan J.
+Introduction
+[1] Soheil Manoli (the “Appellant”) was assessed under subsection 323(1) of the Excise Tax Act (the “ETA”) for unpaid goods and services tax, interest and penalties owed by 9007-5227 Québec Inc. (the “Company”). The assessment was issued against the Appellant on June 29, 2006. The Appellant resigned as a director of the Company on January 15, 2004, more than two years before the assessment was issued. Notwithstanding the Appellant’s resignation, the Respondent alleges that the Appellant continued to act as a de facto director of the Company right up to the date that the assessment was issued against him.
+[2] The sole issue in this appeal is whether the assessment against the Appellant for the period from January 1, 2000 to June 30, 2003 was made more than two years after the Appellant ceased to be a director of the Company.
+[3] The Appellant testified that he became a shareholder of the Company in 1995. At that time, the Company operated a small restaurant and bar in the town of Hudson under the name of Patzz Classique Italien (“Patzz”). Patrick O’Grady was the majority shareholder of the Company and was responsible for the day-to-day operations of Patzz. The Appellant lived in the Québec City area at that time and held a part-time teaching position at St. Lawrence College. The Appellant testified that both he and his father loaned money to the Company to finance its operations. The Company also borrowed approximately $100,000 from a local bank to finance the purchase of the building in which Patzz operated.
+[4] The evidence shows that Patzz was losing money under the stewardship of Mr. O’Grady. The Appellant explained that he asked Mr. O’Grady, his co‑shareholder, to either buy him out or allow him to find a new co‑shareholder and manager for the business.
+[5] In January 1998, the Appellant succeeded in restructuring the share ownership of the Company. He became the Company’s new majority shareholder with 51% of its shares. Dean Laflamme became his new co-shareholder with 49% of the shares. Mr. Laflamme, who had experience in the restaurant and bar business, became the manager and operator of the new restaurant, which operated under the business name Mia Resto-Pub.
+[6] The Appellant testified that he was offered a full-time teaching position at St. Lawrence College in early 1999. In light of his new duties, the Appellant entrusted the full management and operation of the business to Mr. Laflamme. He was hopeful that Mr. Laflamme would be able to return the business to profitability so that he (the Appellant) and his father could recover some of the money they had loaned to the business. While business did pick up, the Company did not generate any significant positive cash flow and it continued to struggle to pay its creditors. In late 2003 or early 2004, the Company was experiencing renewed financial difficulties. It was the object of a GST audit undertaken by the Québec taxation authorities on May 22, 2003.
+[7] The Appellant and Dean Laflamme resigned as directors of the Company on January 15, 2004. They were replaced by Caroline Coulombe, who worked as a waitress and assistant manager for Mia Resto-Pub. Ms. Coulombe, called as a witness by the Respondent, confirmed that she was asked by Mr. Laflamme to become the sole director of the Company. It is obvious that Ms. Coulombe was unaware of the Company’s financial difficulties and did not have a good understanding of the path she was embarking on in agreeing to act as a director. Ms. Coulombe corroborated the Appellant’s testimony that he spent very little time at the restaurant. She recalled seeing the Appellant on the premises no more than two or three times a year.
+[8] The Appellant testified that in early 2004 Mr. Laflamme was tasked with finding a new purchaser for the business. In January 2004, Patrick Olliver, acting on behalf of 6198236 Canada Inc. (“Olliver Inc.”) made an offer to purchase the business.
+[9] The evidence shows that Olliver Inc. did not proceed with the purchase at that time because a legal hypothec had been registered against the property for unpaid Québec taxes in the amount of approximately $31,000.
+[10] On April 14, 2004, the Company sold its property to 4192095 Canada Inc. (“Canada Inc.”). Canada Inc. had the same shareholders as the Company. As a result, the two companies were not dealing with each other at arm’s length. The purchase price for the property was $300,000, consisting of an assumption of indebtedness of approximately $240,000 with the balance being paid through the issuance of 60,000 Class A preferred shares.
+[11] The transaction with Mr. Olliver was completed on October 22, 2004. Mr. Olliver had incorporated Olliver Inc. to acquire the restaurant business. The purchase price for the property was $300,000 payable as follows:
+a) Land:
+$35,824.80
+b) Building:
+$96,175.20
+c) Leasehold improvements:
+$90,000.00
+d) Furniture and equipment:
+$77,999.00
+e) Goodwill:
+$1.00
+[12] The Québec tax department brought an action in the Québec Superior Court to have both of the aforementioned sales set aside on the grounds that they were structured, with the help of the purchaser, to avoid the payment of federal and provincial taxes that were otherwise due and payable. The Superior Court declared that the first sale could not be set up against the Québec tax authorities as the parties were related and had acted in concert to avoid the payment of taxes. In the case of the second sale, the Superior Court held that Olliver Inc. was a third-party purchaser acting in good faith.
+[13] In its reply to the notice of appeal, the Respondent alleges that the Appellant continued as a de facto director of the Company following his resignation as a director on January 15, 2004.
+Analysis
+[14] The Appellant does not dispute the fact that the Company was properly assessed GST, interest and penalties. Rather, he suggests that the assessment was issued against him outside the two-year limit prescribed in subsection 323(5) of the ETA, which reads as follows:
+323(5) Liability of directors — Time limit — An assessment under subsection (4) of any amount payable by a person who is a director of a corporation shall not be made more than two years after the person last ceased to be a director of the corporation.
+[15] The Appellant was assessed on June 29, 2006 and he had resigned as a director on January 15, 2004, which means that the assessment against him is valid only if he remained a de facto director of the Company.
+[16] The Respondent alleges that the Appellant did remain a de facto director of the Company following his resignation on January 15, 2004 and continued to act in that capacity right up to or beyond the sale to Olliver Inc. on October 22, 2004. This contention appears to be rooted in the Respondent’s belief that Ms. Coulombe was a director of convenience. The Respondent argues that Ms. Coulombe received her instructions from both of the shareholders of the Company.
+[17] It is now well accepted by this Court that a person may be found to be a director of a company if he or she acts as a director without being legally qualified to do so. Generally speaking, an adverse finding will be made if the evidence shows that a person holds himself or herself out as a director such that a third party relies upon that person’s implicit authority as a director. I would add that a person could be found to be a director if the evidence demonstrates that the person who appears to be the director of the corporation is only a director of convenience acting on the instructions of the other person.
+[18] I do not believe that the Appellant was a de facto director of the Company after he resigned on January 15, 2004. If anything, Ms. Coulombe’s testimony corroborates the Appellant’s assertion that the affairs of the Company were managed by Mr. Laflamme. That witness admitted that the Appellant did not ask her to take on the role of director. It was her superior, Mr. Laflamme, who convinced her to act as a director.
+[19] She testified that she did not speak to the Appellant during the period following his resignation as a director. She also corroborated the Appellant’s testimony that he rarely visited the restaurant. The Appellant lived in the Québec City area and had a full-time teaching position at St. Lawrence College. He had little time to devote to the affairs of the Company. There is not a shred of evidence that the Appellant acted as a de facto director of the Company after he resigned from its board of directors.
+[20] The evidence shows that Mr. Laflamme convinced Ms. Coulombe to act as a director. He also convinced Mr. Olliver to purchase the business. Mr. Laflamme may thus be in a more precarious position than the Appellant with respect to an assessment under subsection 323(1) of the ETA. The Respondent had two years from January 15, 2004 to issue an assessment against the Appellant but waited until June 29, 2006 to issue the assessment. The Respondent could have acted sooner. It failed to do so and, as a result, the assessment was issued outside the two-year limitation period.
+Conclusion
+[21] For these reasons, the appeal is allowed and the assessment is vacated, with costs to the Appellant.
+Signed at Ottawa, Canada, this 5th day of March 2010.
+"Robert J. Hogan"
+Hogan J.
+CITATION: 2010 TCC 136
+COURT FILE NO.: 2008-1554(GST)G
+STYLE OF CAUSE: SOHEIL MANOLI v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Québec
+DATE OF HEARING: January 18, 2010
+REASONS FOR JUDGMENT BY: The Honourable Robert J. Hogan
+DATE OF JUDGMENT: March 5, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Éric Potvin
+Jean-Charles Hare
+Counsel for the Respondent:
+Jocelyne Mailloux Martin
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Éric Potvin
+Firm: Lapointe Rosenstein Marchand Melançon
+Montréal, Québec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

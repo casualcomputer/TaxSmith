@@ -1,0 +1,193 @@
+Title: 853998 Ontario Inc. op B & B Express v. M.N.R
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29798/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-196-29798-853998-ontario-inc-op-b-b-express-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2008-04-09
+
+# 853998 Ontario Inc. op B & B Express v. M.N.R
+
+- Citation: 2008 TCC 196
+- Decision date: 2008-04-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6604, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+853998 Ontario Inc. op B & B Express v. M.N.R
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-04-09
+Neutral citation
+2008 TCC 196
+File numbers
+2007-3147(EI), 2007-3148(CPP)
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-3147(EI)
+BETWEEN:
+853998 ONTARIO INC. op B & B EXPRESS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CHRISTOPHER POLA,
+Intervener.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+853998 Ontario Inc. op B & B Express (2007-3148(CPP)) on April 1, 2008
+and Reasons for Judgment delivered orally on April 4, 2008
+at Ottawa, Canada
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Agent for the Appellant:
+Dennis Bedard
+Counsel for the Respondent:
+For the Intervener:
+Marie-Eve Aubry
+The Intervener himself
+____________________________________________________________________
+JUDGMENT
+The appeals are allowed, without costs, and the decision of the Minister of National Revenue is vacated in accordance with and for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 9th day of April, 2008.
+“J.E. Hershfield”
+Hershfield J.
+Docket: 2007-3148(CPP)
+BETWEEN:
+853998 ONTARIO INC. op B & B EXPRESS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CHRISTOPHER POLA,
+Intervener.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+853998 Ontario Inc. op B & B Express (2007-3147(EI)) on April 1, 2008
+and Reasons for Judgment delivered orally on April 4, 2008
+at Ottawa, Canada
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Agent for the Appellant:
+Dennis Bedard
+Counsel for the Respondent:
+For the Intervener:
+Marie-Eve Aubry
+The Intervener himself
+____________________________________________________________________
+JUDGMENT
+The appeals are allowed, without costs, and the decision of the Minister of National Revenue is vacated in accordance with and for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada this 9th day of April, 2008.
+“J.E. Hershfield”
+Hershfield J.
+Citation: 2008TCC196
+Date: 20080409
+Dockets: 2007-3147(EI)
+2007-3148(CPP)
+BETWEEN:
+853998 ONTARIO INC. op B & B EXPRESS
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CHRISTOPHER POLA,
+Intervener.
+REASONS FOR JUDGMENT
+(Delivered orally from the Bench on April 4, 2008 at Ottawa, Canada)
+Hershfield J.
+[1] The Appellant appeals from the decision of the Minister of National Revenue (the “Minister”) dated March 7, 2007, in which the Minister determined that the engagement of the Intervener, Mr. Christopher Pola (the “Worker”), was insurable and pensionable pursuant to paragraph 5(1)(a) of the Employment Insurance Act and paragraph 6(1)(a) of the Canada Pension Plan for the period from January 1, 2003 to March 19, 2006.
+[2] The Appellant provides delivery services and was contracted by St. Hubert restaurants to provide delivery services for its Ottawa area locations. The Worker was a delivery person at one such location on St. Laurent Boulevard (the “St. Laurent restaurant”) during the period under consideration.
+[3] The sole issue in this appeal is whether the Worker was an employee of the Appellant as opposed to an independent contractor.
+[4] The Appellant called five witnesses: Mr. Smith, a manager of the St. Laurent restaurant; Mr. Holder, Mr. Salem and Mr. Farhadi who are current drivers at that location and Mr. Bedard, the sole shareholder of the Appellant. The Worker was the only witness for the Respondent.
+[5] While I will review the testimony of all these witnesses in some detail, I will first provide an overview of the work being performed by the Appellant for the St. Laurent restaurant through its pool of delivery drivers.
+Overview
+[6] The Appellant currently engages some 21 drivers in a so-called pool of persons who have signed independent contractor contracts to perform delivery services for the Appellant. Mr. Bedard, over the years, estimated that some 75% of the drivers had entered into such written contracts. The Worker was not one that had done so. Mr. Bedard suggested that he had slipped through the cracks as he was away when the Worker first started driving. Nonetheless, all drivers were treated the same and performed the same role.
+[7] As required by the restaurant, Mr. Bedard prepared and posted at the restaurant a schedule of work times for drivers in the pool. The pool for the St. Laurent restaurant consisted of some 18 drivers. Some were regulars who worked on fixed schedules, some worked to help out at peak times or fill in when the restaurant was busy or under staffed and some were drivers who just asked for work when they needed work. The Worker appears to have been one of the regulars.
+[8] The drivers were required to use their own vehicles and pay for all costs relating to their use and operation. Most, it seems, were provided with a cell phone and thermal bag to keep delivery orders warm. They could be provided with a uniform (logo shirt, winter logo jacket, name tag) and a credit card swiper.
+[9] In general, it appears to me that drivers must have followed the posted schedule. This is not to suggest that required work times were imposed. I will deal with that later in these Reasons. Drivers would take delivery orders on a first come first serve basis and there were a few so-called rules or established procedures to ensure deliveries were made on a satisfactory, effective basis. The so-called rules mentioned at the hearing were: not being allowed to take more than 5 deliveries at a time; not being allowed to wait more than 25 minutes for another delivery order in addition to a delivery already assigned; and, to a limited extent, multiple deliveries being assigned, based on delivery location and routing, so as to ensure delivery within an acceptable time frame.
+[10] Drivers were paid primarily by the hour but the rates, terms, times and method of payment were as negotiated on a driver by driver basis. The written contracts left terms of payment open. Some drivers were paid on a delivery (piece-work) basis. The Worker was paid by the hour. He received $6.00 per hour in the first year. At his request it was raised to $7.00 after that. Until mid to late 2005, time was simply kept by the drivers without a formal time reporting system although time sheets seemed to have been available. By fall of 2005 or perhaps in the early summer of 2005, a time clock punch card system was apparently introduced but it was not used by all drivers. The drivers kept track of their time, largely without being monitored by the Appellant. Time was not, in any event, the primary money maker for drivers. That is, there is no question that a driver’s profit from the engagement was largely dependant on tips.
+Witnesses’ Testimony
+[11] Mr. Smith’s testimony appeared credible, particularly since, of all the witnesses, he had the least vested interest in the outcome of this appeal. On the other hand he did not have a lot of direct dealings with drivers, hence, his recounts were based to a large extent on his observations of the drivers.
+[12] Mr. Smith has been a manager with St. Hubert for the past 22 years, the last 12 years of which were spent at the St. Laurent restaurant. He is in charge of the kitchen, including the hiring of cooks, and the take-out deliveries. He confirmed that the drivers were required, in turn, to deliver food as the orders came up. They were paid by the customer. Payments were turned in to the restaurant at the end of the day net of tips.
+[13] The St. Laurent restaurant was open 11:00 a.m. to 10:00 p.m. Sunday through Thursday and 11:00 a.m. until 11:00 p.m. on Friday and Saturday. Early in the week, Monday through Wednesday, between 11:00 a.m. and 4:00 p.m. (day schedule) there would be approximately 4 to 6 drivers scheduled. The day schedule for Thursday and Friday required approximately 8 drivers. These were busy shifts. Between 4:00 p.m. and 10:00 p.m. (the evening schedule) there would be approximately 5 or 6 drivers early in the week. Toward the end of the week, Thursday and Friday, there would be approximately 8 drivers on the evening schedule and on weekends there would be 10 to 12 drivers. During these times, Mr. Smith testified that the drivers were not required to remain at the restaurant in between deliveries and were not required to assist in the kitchen or restaurant. He said that since deliveries were assigned on a first come first serve basis, many of the drivers would stay in close proximity to the restaurant. As to uniforms and training, Mr. Smith stated that he was not aware of any set rules established for the drivers, other than to ensure that they were “presentable - clean” when on a delivery and that the only training would be to limit new drivers to fewer (3 versus 5) deliveries at first to be sure they could do the work on a timely basis. He said he was unaware of any supervision, or supervisor presence, at the St. Laurent restaurant. He did suggest that if a driver did not present well, or wanted one, he would be given a staff shirt. Mr. Pola may have been an example of a driver who, from the outset, wanted to present himself with staff attire.
+[14] Mr. Smith confirmed that a schedule was prepared by Mr. Bedard which listed drivers’ hours on a weekly basis. He testified that on occasion the drivers would send replacements for their scheduled hours, some of whom were unknown to him and who had never driven for St. Hubert before. These replacements were totally acceptable but were limited in deliveries at first (3 versus 5) as noted above. He said that none of the drivers really followed any strict or exact timetable and that while most remained close to the restaurant they were free to come and go as they pleased. If this caused a driver shortage problem, or if for any reason more drivers were needed, Mr. Bedard would be contacted and additional drivers would be called in. On occasion Mr. Bedard filled in himself. As well, despite the established schedule, Mr. Smith commented that some unscheduled drivers would drop in to see if there were any deliveries available and if so they were at liberty to work at unscheduled times.
+[15] Mr. Smith acknowledged that tips were netted out of monies returned to the restaurant. There was no indication that he had receipt problems or concerns even with unknown drivers. He acknowledged he paid a driver a little extra if they were required to redeliver orders due to errors made by the kitchen, even though they would still be paid by the Appellant for the time or delivery. The little extra presumably was to make up for a lost tip in that case. He said he was not aware of any occasion where a driver had been charged for a loss due to a driver’s error.
+[16] The second witness, Mr. Holder, called by the Appellant was a cook with St. Hubert for the past 18 years and who on occasion drove for the Appellant. His testimony was straightforward. He testified that he signed a contract with the Appellant stipulating he was not an employee but rather was an independent agent. His rate and method of pay was negotiated with Mr. Bedard. He said there was no supervision of drivers or any intervention in anything he did. He testified that he was making a profit from delivering, after taking into account his vehicle expenses, otherwise he “wouldn’t be doing it”. His evidence was to the effect that the amount of profit that could be made depended on the expediency in which deliveries were made and tips received from customers. He said that he was paid hourly regardless of whether orders came in, but without making deliveries there was no way of making a profit since there was no opportunity to collect tips. He testified that he chose the method of payment he preferred, hourly versus payment per delivery. He did not feel tied down to his scheduled times and often took time to run errands between deliveries. All the drivers that testified seemed to feel they had this freedom but only one suggested that he self-monitored such time off in terms of reporting hours worked where they were being paid on an hourly basis.
+[17] He said he has seen driver substitutions on many occasions, that he could and did use a helper and that he was free to come and go although he would, as a matter of courtesy, warn Mr. Bedard of times he could not work. He was not required to, nor did he, wear a uniform.
+[18] I rely on the next witness’s testimony the least. Mr. Salem was a driver for over 10 years but his testimony was often argumentative and irreverent especially regarding his testimony as to his freedom to come and go as he pleased, tracking time and not being paid hourly, and, the extent of his negotiations as to method of payment. He did confirm with more sincerity that drivers could replace themselves and that he had seen the Worker replace himself with his son, who he acknowledged was also in the driver pool. Understanding that the Worker was to testify that he was an on-site supervisor, Mr. Salem denied having a supervisory role or that there was any supervision by anyone. Mr. Bedard was rarely at the restaurant so there was no one there with authority over the drivers.
+[19] The last Appellant witness who gave evidence before Mr. Bedard himself testified, was another driver, Mr. Farhadi. He was the most candid. He had been working for the Appellant for the past three years and was contracted as an independent contractor. He stated that he would discuss his availability with Mr. Bedard on a weekly basis to determine when he would be available for the coming week. Although hours were assigned, he testified that he would often go in early to see if there were orders to be taken out and if the restaurant was not busy he would leave. He testified that he was paid hourly and that he submitted his hours on a piece of paper. He made no mention of a time punch card. He had replaced or substituted himself with another driver, billed the Appellant and paid that driver himself. That was allowed. He did not feel he was obliged to explain absences and was not restricted from taking time during his scheduled shifts to go shopping or pick up his son from school. If he was away for a long period during a shift, he would not charge his time. He was not monitored in this regard. He acted responsibly – telling Mr. Bedard what schedules he was available for and not charging for time he was not delivering.
+[20] As a brief re-cap of the drivers’ evidence, I can say they all provided, and were responsible for the expenses relating to the maintenance of, their own delivery vehicles and that they all profited from the engagement. They all confirmed that there was no supervision of the drivers and that they were not required to be in or at the restaurant while scheduled to work and that they could replace themselves. None wore uniforms or felt they were required to do so; the only stipulation was that they were to be “presentable – clean”. They all testified that they felt or believed that they were independent contractors and not in an employment relationship with the Appellant.
+[21] Mr. Bedard was the final witness for the Appellant. He reiterated, with first hand knowledge, much of the evidence attested to by the previous witnesses. He said he brought in the time card system so that drivers would not have to write their hours on little pieces of paper but was not troubled by the general lack of a verification system of hours he paid drivers. He noted that there were two yellow logo-ed commercial delivery vehicles he supplied to the restaurant that were driven by uniformed employees, none of whom were the Worker. He testified that although he prepared work schedules, they were intended as guidelines and that he did not sanction persons for non-adherence. The written contract expressly allows drivers to replace themselves and he respects that provision. However, the drivers needed to work their slots to make money and it was not common for multiple people not to show up for a shift. When they could not work it was common for them to replace themselves or give him notice so he could get a replacement. He could always get last minute replacements when called upon to do so. Drivers had cell phones and could be reached. It would seem that there was always good money to be made and he had a willing pool of drivers.
+[22] He acknowledged that while away, he would give his pager to one of the senior drivers to handle driver fill-ins but they were not supervisors. There was no supervision. He operated this business since 1984 and while there were driver problems once in a while, things were not chaotic. In contrast, the Orleans restaurant sometimes needed a driver coordinator during busy times to keep things organized. The St. Laurent restaurant never required an on site driver coordinator. Schedules submitted tended to confirm this.
+[23] He acknowledged that the driver compensation was usually hourly rates but there was a choice available. The profit was in the tips. The more deliveries and the better the service, the greater the profit. There was motivation regardless of how he paid the drivers.
+[24] The Worker was the only witness for the Respondent. While somewhat righteous and argumentative about his view of certain things (such as there being training, supervision, responsibilities in the kitchen that he felt he was obliged to do and even as to whether he made a profit) and while he was clearly disgruntled about his termination, I am inclined to accept that he may have perceived his engagement in a different light than the others. He did not have an initial meeting with Mr. Bedard or see a contract. He seemed genuine in his testimony about his understanding of replacement drivers who he thought had to be other drivers in the pool and as well he seemed genuine in his understanding that posted shifts were required work shifts. He did not think that remuneration was negotiable other than seeking an hourly rate increase. He may even have believed that he was required to wear a name tag and staff shirt or jacket which were provided when he began driving for the Appellant even though others around him seemingly did not. He may have believed that he was supposed to use the time clock punch card even though others seemingly did not.
+[25] As well, he may be sincere in his belief that the rules, that he and others were obliged to follow, were employer-like control over how he performed his job; rules like: monitoring the time for deliveries; new drivers being limited to taking 3 orders and experienced ones being limited to 5 orders; and having limits on the time they could wait for more deliveries.
+[26] He testified that drivers were reprimanded if the rules were not abided by and that Mr. Salem acted as supervisor in this regard. He said he was reprimanded on at least one occasion by Mr. Salem. I find no corroboration of this although Mr. Salem did strike me as the type that might well butt-in in this way to keep things running. It would be in his interest, if not in the interests of all drivers, to do this.
+[27] While the Worker did not expressly acknowledge work flexibility, his recognition of accepted flexibility was inherent in some of his testimony. He knew he did not have to do a scheduled shift. He just thought he had to get a proper replacement or report it to Mr. Bedard or one of the senior drivers who he saw as a supervisor. This would be one of the senior drivers who had the pager when Mr. Bedard was away. He did not say he was required to stay at or near the restaurant during a slotted time but rather testified he remained in the restaurant during such time for fear of missing a delivery order.
+[28] I must add here that I have an issue with the Worker’s candour on certain things even though I accept the possibility that he may sincerely have a different impression of the regime in which he worked. When asked how he reported his income he said he did not report it. He acknowledged that he had worked as a driver before as an employee and received a T4. He knew he was not being treated as an employee by the Appellant as early as April 2004 by which time he had not received a T4 from the Appellant, but still, he says he thought he was an employee? He does not report the income because of the question of the nature of the income? He takes no issue with this until his termination when there is a question of his insurability under Employment Insurance? This does not affect the legal nature of his engagement but, together with other contradictions, gives me some cause to be concerned about his candour. His evidence is not disinterested.
+[29] Given these facts and observations as to the evidence I have accepted, I now turn to the legal tests that I must apply to determine the question of whether the Worker was an employee or independent contractor.
+Authorities
+[30] In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] S.C.J. No. 61, the Supreme Court of Canada dealt with the issue of distinguishing between an employee and an independent contractor. In reviewing the various tests used for determining whether a person is an employee or an independent contractor Mr. Justice Major, speaking for the Court accepted the use of a four-in-one test as set out in Wiebe Door Services Ltd. v. The Minister of National Revenue, 87 D.T.C. 5025, which looks at (1) control; (2) ownership of tools; (3) chance of profit; and (4) risk of loss as factors to be considered when making such an assessment. These factors should be applied to a central question which is whether the Worker was working as a person in business for his own account. That often engages the question as to whether the Worker has a business of his own in which he is engaged.
+[31] As well, in more recent decisions, the Federal Court of Appeal has said that we must consider the Sagaz/Wiebe Door criteria in light of the parties’ intent regarding the nature of their contractual relationship; (see e.g. Royal Winnipeg Ballet v. Canada (M.N.R.), 2006 FCA 87 and City Water International Inc. v. Canada (M.N.R.), 2006 FCA 350). In the latter case, it was confirmed that where other tests are not determinative, or in a close case where the relevant factors point in both directions with equal force, the parties' contractual intent cannot be disregarded. There must of course be some mutuality expressed or implied and the parties' intention will only be given weight if the contract properly reflects the legal relationship between the parties.
+Analysis
+Control
+[32] The so-called rules that were established to ensure that the drivers interacted in a manner that allowed the proper performance of the task assigned does not constitute control exercised over the drivers. Work is always given out in a manner that ensures that it will be performed in accordance with the requirements of the person engaging the work. An independent contractor is not someone who does what he pleases without concern how it affects other contractors or the result required by the engaging party.
+[33] I am satisfied that there was essentially no supervision or control over the Worker that would put him in a subordinate position. His surrender to a request to help in the kitchen is not relevant. There is no credible evidence that that was required of him. I am satisfied he could turn down work at any time and come and go as he pleased. That he did not do that - that he adhered to a schedule, to the extent he maintained he did – was a reflection of his entrepreneurial efforts to profit. Absences during scheduled times would not be economically viable. Based on the consistent testimony of the other drivers, I have no reason to believe that drivers were censured for absences or that their whereabouts were being monitored. In these circumstances I find applying the control test favours a finding of independent contractor.
+Tools and Ownership of Equipment
+[34] All witnesses agreed that the drivers were responsible for supplying the one fundamental piece of equipment, that being a vehicle, to perform deliveries. Drivers were responsible for all expenses relating to the operation of their vehicles. Additionally, no specifications were given as to what type of vehicle had to be used or even its condition.
+[35] It was confirmed that the Worker owned his own vehicle and used it in performing delivery services.
+[36] That the Worker was provided with a cell phone, card swiper, thermal bags and staff shirts, is not material in a relative sense. He could have done without all of these, as did other drivers, except for the cell phone and thermal bag.
+[37] The fact that the most significant piece of equipment required for the fulfilment of the drivers’ duties was owned by the Worker strongly suggests that the Worker was carrying on his own business.
+Opportunity for Profit and Risk of Loss
+[38] While it is true that an hourly wage is reflective of an employment relationship that is not always the case. In the DHL Express (Canada) Ltd. v. Canada (M.N.R.), 2005 T.C.C. 178, decision of the Federal Court of Appeal dealing with a case involving a delivery driver who owed his own vehicle, the Court stated the following at paragraph 25:
+… There is more to financial risk than just providing the worker a guaranteed minimum. There is the ever-present risk of an accident, a significant risk, given the amount of time spent by Mr. Hiles behind the wheel of his van. That risk was assumed entirely by Mr. Hiles. He also bore the responsibility of all maintenance and repair costs. If any costs resulted from any infraction of laws by Mr. Hiles, again such costs were likewise his responsibility. …
+[39] In another case DRL Group Ltd. v. M.N.R., 2006 T.C.C. 331 the trial court judge dealt with tips received by tour guides and found it to be a means of profiting and an indication of the guides being independent contractors.
+[40] The Worker, and other drivers in the case at bar, had their most material compensation and opportunity for profit, versus a risk of loss, from tips. The hourly or piece-work compensation in common sense would itself be a losing proposition. Fuel, insurance, maintenance, and wear and tear are significant expenses. If drivers are not entrepreneurial in their attitude and performance they will run the risk of a loss. That is why Mr. Bedard for some 24 years has not had to supervise – each driver is self motivated by the contingencies of the enterprise he is engaged in. How they conducted their work determined what they made. If they did errands between deliveries or did not queue up for orders they did not make money. There was testimony that drivers would line-up before the restaurant opened to ensure that they received the first lunch orders for the day which were profitable. Additionally, the expediency in which deliveries could be made and the demeanour with the customer at the door would all account for the sizeable tip that could be received. All the drivers heard from, other than the Worker, were unanimous on this issue. Making a profit, versus suffering a loss, depended on the manner they carried out the work opportunity afforded by their engagement with the Appellant.
+[41] Applying this factor, I do not see anything favouring a finding that the Worker was in an employment relationship with the Appellant.
+Did the Worker engage in a business for his own account?
+[42] It was argued that the Worker had no business of his own but was a worker in the Appellant’s business. While it is true that many workers in this situation would not see themselves as having a business, that perception is not determinative even though that perception is buoyed by such factors as having no business name, no business listing, no business number or GST number, no other customers or promotion activities seeking customers. These indicia might be helpful, if not necessary in some circumstances in terms of allowing a finding that a worker is in business for his own account, but not in a case like this. The perception here even viewed in light of the absence of these common indicia is not reflective of the legal reality. There is truly a business enterprise here operated by each driver including the Worker. The Wiebe Door tests demonstrate that what we have here is an unsubordinated, entrepreneurial enterprise being engaged in by the drivers. One of the stronger indicators of that is that replacement drivers were clearly permitted to use, and were used, even to the point of allowing drivers to hire workers to be responsible to them as opposed to being responsible to the Appellant. That the Worker did not engage in that, or even know he could, is not sufficient to distinguish him from the other drivers. Considering the overall operation of the Appellant’s business and the Worker’s role, I can make no such distinction.
+Intentions
+[43] The Wiebe Door factors here are conclusive so it is not necessary to consider intentions. The test would not assist the Appellant if I were to find that there was no mutuality of intention, although on that point I note that I have some doubts as to the motive of the Worker in denying that he understood that he would be treated as, or that he agreed to be treated as, an independent contractor. Regardless, it is not necessary for me to make a finding on that issue.
+Conclusion
+[44] For all these reasons, I find that the Worker was, at all times during the relevant period, an independent contractor and was not employed in insurable or pensionable employment with the Appellant. The appeals are accordingly allowed.
+Signed at Ottawa, Canada, this 9th day of April, 2008.
+“J.E. Hershfield”
+Hershfield J
+CITATION:
+2008TCC196
+COURT FILE NOS.:
+2007-3147(EI) and 2007-3148(CPP)
+STYLE OF CAUSE:
+853998 Ontario Inc. op B & B Express and The Minister of National Revenue and Christopher Pola
+PLACE OF HEARING:
+Ottawa, Canada
+DATE OF HEARING:
+April 1, 2008
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+April 9, 2008
+APPEARANCES:
+Agent for the Appellant:
+Dennis Bedard
+Counsel for the Respondent:
+For the Intervener:
+Marie-Eve Aubry
+The Intervener himself
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,218 @@
+---
+title: "Wrightson v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26536/index.do"
+last_modified: "2005-01-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 2"
+citation2: ""
+neutral_citation: "2005 CCI 2"
+decision_date: "2005-01-04"
+language: "fr"
+item_id: "26536"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3218
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:24:51.117000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f03746fb12b3a21f1a5c3613f902ab50cb766b38a0bc78b5f5bbb03ed6423519"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wrightson v. The Queen
+
+- Citation: 2005 CCI 2
+- Decision date: 2005-01-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3218, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wrightson v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-01-04
+Référence neutre
+2005 CCI 2
+Numéro de dossier
+2002-3530(IT)G
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-3530(IT)G
+ENTRE :
+CHARLES BRUCE WRIGHTSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 13 mai et le 6 décembre 2004 à Calgary (Alberta).
+Devant : L'honorable juge Judith Woods
+Comparutions:
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Margaret McCabe
+____________________________________________________________________
+JUGEMENT
+L'appel relatif à une nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu à l'égard de l'année d'imposition 2000 est admis et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte de ce qui suit :
+1. l'appelant a le droit de déduire une pension alimentaire pour enfants de 7 200 $;
+2. l'appelant n'a pas droit au crédit d'impôt pour personne entièrement à charge;
+3. l'appelant a le droit de déduire 24 469,73 $ en vertu de l'alinéa 60b) de la Loi.
+Il n'y aura aucune ordonnance relative aux dépens.
+Signé à Toronto (Ontario), ce 4e jour de janvier 2005.
+« J. Woods »
+JugeWoods
+Traduction certifiée conforme
+ce 5e jour de décembre 2005.
+Yves Bellefeuille, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI2
+Date : 20050104
+Dossier : 2002-3530(IT)G
+ENTRE :
+CHARLES BRUCE WRIGHTSON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Woods, C.C.I.
+[1] Le présent appel porte sur la déductibilité d'un montant forfaitaire de 30 000 $ payé par Charles Bruce Wrightson à son ex-épouse, Connie Wrightson, au cours de l'année d'imposition 2000. Monsieur Wrightson soutient que le paiement a été fait pour aider son ex-épouse à acquérir et à rénover une maison et qu'il satisfait aux exigences énoncées dans la disposition déterminative du paragraphe 60.1(2) de la Loi de l'impôt sur le revenu (la « Loi » ).
+Faits
+[2] Charles Bruce Wrightson et Connie Wrightson sont divorcés depuis plusieurs années. Les deux ex-époux ont témoigné à l'audience et ont expliqué de façons assez différentes le paiement de 30 000 $ qui fait l'objet du présent appel.
+[3] Par suite de procédures judiciaires qui semblent avoir été longues et ardues, différentes ordonnances judiciaires ont été rendues en ce qui concerne la garde des trois enfants et l'obligation pour M. Wrightson de verser une pension alimentaire pour conjoint et pour enfants.
+[4] Un accord écrit daté du 1er mai 2000 est particulièrement pertinent dans le cadre du présent appel; il a été conclu plusieurs années après les ordonnances judiciaires, à une époque où les obligations alimentaires imposées à M. Wrightson par les tribunaux à l'égard de son ex-épouse avaient pris fin. L'accord du 1er mai a été rédigé par M. Wrightson sans que ce dernier reçoive des conseils juridiques.
+[5] L'accord du 1er mai comportait diverses dispositions traitant de la garde et des soins relatifs aux enfants et mentionnait un paiement de 30 000 $ en guise de versement final au titre de la pension alimentaire que M. Wrightson devait faire à son ex-épouse au plus tard le 1er mai 2000.
+[6] Le paragraphe pertinent de l'accord du 1er mai est rédigé comme suit :
+[TRADUCTION]
+12. L'intimé versera à la requérante la somme de 30 000 $ au plus tard le 1er mai 2000. Cette somme représente le versement final au titre de la pension alimentaire que doit faire l'intimé. La requérante est responsable de tout l'impôt sur le revenu fédéral et provincial exigible sur cette pension alimentaire de 30 000 $.
+[7] Monsieur Wrightson a déclaré dans son témoignage que Mme Wrightson avait demandé ce montant pour acquérir et rénover une maison. Madame Wrightson a effectivement acheté une maison peu de temps après la signature de l'accord à un prix d'achat de 134 000 $. Monsieur Wrightson a expliqué qu'à l'époque, il n'était pas au courant des arrangements hypothécaires relatifs à la maison, mais qu'il avait accepté de verser la somme de 30 000 $ pour aider son ex-épouse à acquérir la maison et à effectuer les rénovations qu'elle prévoyait entreprendre peu de temps après l'achat.
+[8] Même si M. Wrightson n'avait pas l'obligation juridique de faire ce paiement, puisque ses obligations alimentaires envers son ex-épouse avaient pris fin, il a affirmé qu'il voulait que Mme Wrightson ait une belle maison pour y accueillir les enfants et qu'il était prêt à faire ce paiement dans la mesure où il pouvait le déduire de son revenu imposable. L'accord prévoyait que M. Wrightson s'occuperait des enfants durant l'année scolaire, mais il envisageait aussi que les enfants rendraient fréquemment visite à leur mère.
+[9] L'accord lui-même ne précise pas l'objet du paiement, sauf pour indiquer qu'il constituait un versement final au titre de la pension alimentaire. On mentionnait la maison et les rénovations, toutefois, dans les reçus qu'avait préparés M. Wrightson et que Mme Wrightson avait signés. En tout, il y avait trois reçus correspondant à trois chèques qui totalisaient 30 000 $ (deux chèques émis en avril pour 1 000 $ chacun et un chèque émis en mai pour 28 000 $). Chacun des reçus indiquait que le paiement visait [TRADUCTION] « l'achat et la rénovation de ma maison » .
+[10] Monsieur Wrightson reconnaît que les reçus n'ont pas été signés en même temps que les chèques ont été émis, mais il affirme qu'il avait préparé deux versions antérieures des reçus, que Mme Wrightson n'a pas signées. J'ai l'impression, cependant, que les reçus ont été signés pas très longtemps après l'émission des chèques.
+[11] Bien que M. Wrightson n'ait pas su à l'époque si Mme Wrightson avait ou non souscrit une hypothèque sur la maison, il a obtenu cette information par la suite auprès de Mme Wrightson pour les besoins du présent appel. Il a présenté en preuve un relevé hypothécaire délivré par la Compagnie de fiducie M.R.S. Ce relevé indique qu'il avait été établi le 5 mai 2000, mais il portait l'estampille « Révisé » . Aucune preuve n'a réfuté l'exactitude du relevé hypothécaire, toutefois, et j'ai donc accepté la véracité de son contenu.
+[12] L'état du compte de prêt hypothécaire indique que Mme Wrightson a pris en charge l'hypothèque du vendeur à la conclusion de l'achat de la maison. Le montant pris en charge totalisait 122 348,66 $ et la mensualité au titre du principal et des intérêts se chiffrait à 914,54 $.
+[13] Monsieur Wrightson n'a produit aucune preuve quant au coût des rénovations, mais Mme Wrightson a témoigné que les rénovations avaient coûté approximativement 10 000 $ et s'étaient terminées dans un délai de 18 à 24 mois suivant l'acquisition de la maison en mai 2000.
+[14] Là où les témoignages de M. et Mme Wrightson divergent, c'est à propos de l'objet du paiement de 30 000 $. Madame Wrightson a affirmé que, durant les longues négociations préalables au divorce, elle avait dû payer des honoraires juridiques substantiels et que les 30 000 $ étaient censés servir à lui rembourser une partie de ce montant. Elle a précisé que son ex-époux avait accepté de verser ce montant parce qu'il voulait qu'elle consente à ce qu'il garde les enfants pendant l'année scolaire. Lorsqu'on lui a demandé pourquoi elle avait signé l'accord et les reçus reconnaissant que la somme en question était un paiement final au titre de la pension alimentaire et visait la maison ainsi que les rénovations, elle a expliqué que, étant intéressée uniquement à recevoir l'argent, elle ne s'était pas souciée de la nature des documents qu'elle avait signés.
+[15] En contre-interrogatoire, on a montré à Mme Wrightson une ordonnance judiciaire (rendue sur consentement) datée du 25 août 1995 et obligeant M. Wrightson à verser 10 000 $ en guise de règlement complet et final des dépens accordés à Mme Wrightson en 1993. Madame Wrightson a déclaré ne pas se souvenir de cette ordonnance.
+[16] Madame Wrightson a également été interrogée sur le traitement fiscal du paiement de 30 000 $ et sur la mention, au paragraphe 12 de l'accord du 1er mai, qu'elle était responsable des impôts sur le revenu exigibles sur ce montant. Madame Wrightson a répondu qu'elle avait conclu que le paiement n'était pas imposable pour elle parce qu'il ne s'agissait pas d'une pension alimentaire. Contrairement à ce que l'accord énonçait, c'était un remboursement de frais judiciaires et non pas une pension alimentaire, a-t-elle déclaré.
+[17] Il semble que Mme Wrightson n'ait pas produit de déclarations de revenus pendant quelque temps. Elle a expliqué que, lorsqu'elle avait effectivement produit des déclarations, l'Agence du revenu du Canada l'avait informée qu'il n'était pas nécessaire d'inclure le paiement de 30 000 $ dans son revenu s'il représentait un remboursement de frais judiciaires.
+[18] Devant les témoignages contradictoires des ex-époux ayant traversé de difficiles procédures de divorce, j'accorde un poids considérable aux documents signés par Mme Wrightson à l'époque, soit l'accord du 1er mai et les reçus. Ces documents corroborent la version des faits donnée par M. Wrightson. En outre, le témoignage de ce dernier concorde aussi avec l'achat d'une maison au début de mai et avec les rénovations subséquentes.
+[19] Le témoignage de Mme Wrightson, par contre, n'explique pas adéquatement pourquoi M. Wrightson accepterait de rembourser des frais juridiques pour des procédures conclues plusieurs années auparavant, alors qu'une ordonnance judiciaire de 1995 semblait régler la question des frais de manière définitive.
+[20] Il se peut que Mme Wrightson ait raison lorsqu'elle affirme que M. Wrightson a été motivé à verser le montant en cause parce qu'il voulait conclure une entente au sujet des enfants, mais il s'agit là seulement d'une preuve de ses motifs qui n'est pas incompatible avec l'explication donnée par M. Wrightson, c'est-à-dire que le paiement visait à aider Mme Wrightson à acheter la maison et à la rénover.
+[21] La Couronne fait valoir que le témoignage de M. Wrightson n'est pas crédible parce qu'il n'est pas compatible avec les montants versés par Mme Wrightson comme acompte sur la maison (11 000 $) et pour les rénovations (10 000 $). Selon la Couronne, les chiffres ne concordent tout simplement pas, parce que M. Wrightson déclarait avoir l'intention de payer au maximum 20 % de ces coûts.
+[22] Je ne suis pas d'accord. M. Wrightson a témoigné qu'il avait l'intention de payer 20 % du prix de la maison (134 000 $) et 20 % du coût total qu'il prévoyait pour les rénovations. Ces chiffres se fondaient sur ce qu'il croyait être le montant maximal qui pourrait être déduit aux fins fiscales. C'est là une interprétation erronée des dispositions fiscales applicables, mais elle ne rend pas M. Wrightson moins crédible. Par conséquent, je crois que la preuve établit effectivement que la somme de 30 000 $ visait l'acquisition et la rénovation de la maison et qu'elle était censée être un paiement final au titre de la pension alimentaire.
+[23] Quant à savoir si les parties avaient convenu que Mme Wrightson verserait de l'impôt sur le paiement de 30 000 $ et que M. Wrightson aurait droit à une déduction fiscale à cet égard, je crois que les documents corroborent davantage la version des faits donnée par M. Wrightson, soit que la déduction revêtait une importance critique pour lui et que Mme Wrightson était bien au courant de ce fait ainsi que du fait que le paiement était imposable pour elle.
+[24] Je ne crois pas que le témoignage de Mme Wrightson explique adéquatement sa compréhension des conséquences fiscales. Elle a affirmé qu'elle avait conclu qu'il n'y aurait pas d'impôt à payer parce que, contrairement à ce qu'énonçait l'accord, le paiement ne constituait pas une pension alimentaire. À mon avis, le fait que Mme Wrightson ait signé une entente où elle reconnaissait que le paiement était versé au titre de la pension alimentaire et où elle convenait de payer les impôts fédéral et provincial exigibles sur ce paiement me convainc qu'elle savait bien qu'elle devait inclure le montant en question dans son revenu.
+[25] Dans le présent appel, M. Wrightson demande à pouvoir déduire le paiement de 30 000 $ en vertu de l'alinéa 60b) et de la disposition déterminative qui figure au paragraphe 60.1(2) de la Loi. L'avis d'appel soulevait également la question de la pension alimentaire pour enfants et du crédit d'impôt pour personne entièrement à charge, mais ces points ont depuis été résolus.
+Dispositions légales
+[26] Le point de départ pour déterminer si une pension alimentaire est déductible ou non figure dans la formule énoncée à l'alinéa 60b) de la Loi. La seule partie de la formule qui est pertinente au regard des points en litige dans le présent appel est que le montant doit obligatoirement répondre à la définition d'une « pension alimentaire » .
+[27] Le terme « pension alimentaire » est défini comme suit au paragraphe 56.1(4) de la Loi. Pour l'année d'imposition 2000, la partie pertinente de cette définition était rédigée comme suit :
+« pension alimentaire » Montant payable ou à recevoir à titre d'allocation périodique pour subvenir aux besoins du bénéficiaire, d'enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est le conjoint ou l'ancien conjoint du payeur et vit séparé de celui-ci pour cause d'échec de leur mariage et le montant est à recevoir aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit;
+[...]
+[28] L'autre disposition pertinente dans le cadre du présent appel est la règle déterminative énoncée au paragraphe 60.1(2). Si cette règle déterminative s'applique, alors deux des conditions que renferme la définition du terme « pension alimentaire » sont respectées : le montant est une allocation périodique et le bénéficiaire peut l'utiliser à sa discrétion. Ce paragraphe est rédigé comme suit :
+(2) Pour l'application de l'article 60, du présent article et du paragraphe 118(5), le résultat du calcul suivant :
+A - B
+où :
+A représente le total des montants représentant chacun un montant (sauf celui qui constitue par ailleurs une pension alimentaire) qui est devenu payable par un contribuable au cours d'une année d'imposition, aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit, au titre d'une dépense (sauf la dépense relative à un établissement domestique autonome que le contribuable habite ou une dépense pour l'acquisition de biens corporels qui n'est pas une dépense au titre de frais médicaux ou d'études ni une dépense en vue de l'acquisition, de l'amélioration ou de l'entretien d'un établissement domestique autonome que la personne visée aux alinéas a) ou b) habite) engagée au cours de l'année ou de l'année d'imposition précédente pour subvenir aux besoins d'une personne, d'enfants confiés à sa garde ou à la fois de la personne et de ces enfants, dans le cas où la personne est :
+a) le conjoint ou l'ancien conjoint du contribuable,
+b) si le montant est devenu payable en vertu de l'ordonnance d'un tribunal compétent rendue en conformité avec les lois d'une province, un particulier qui est le père ou la mère d'un enfant dont le contribuable est le père naturel ou la mère naturelle;
+et
+B l'excédent éventuel du total visé à l'alinéa a) sur le total visé à l'alinéa b) :
+a) le total des montants représentant chacun un montant inclus dans le total calculé selon l'élément A relativement à l'acquisition ou à l'amélioration d'un établissement domestique autonome dans lequel la personne habite, y compris un paiement de principal ou d'intérêts sur un emprunt ou une dette contracté en vue de financer, de quelque manière qui ce soit, l'acquisition ou l'amélioration,
+b) le total des montants correspondant chacun à 1/5 du principal initial d'un emprunt ou d'une dette visés à l'alinéa a),
+est réputé, lorsque l'ordonnance ou l'accord écrit prévoit que le présent paragraphe et le paragraphe 56.1(2) s'appliquent à un montant payé ou payable à leur titre, être un montant payable par le contribuable à cette personne et à recevoir par celle-ci à titre d'allocation périodique, que cette personne peut utiliser à sa discrétion.
+Position de la Couronne
+[29] En plus de contester les faits sous-jacents, la Couronne soutient que les faits avancés par M. Wrightson ne satisfont pas à plusieurs des conditions légales qui doivent être remplies pour qu'une déduction prévue à l'alinéa 60b) soit permise. Les arguments de la Couronne ont été énoncés dans plusieurs observations écrites et j'ai essayé de les résumer dans les quatre points suivants.
+[30] Premièrement, et c'est le plus important, la Couronne fait valoir qu'un paiement forfaitaire ayant un caractère de capital ne répond pas aux exigences décrites dans l'arrêt R. c. McKimmon, [1990] 1 C.F. 600, [1990] 1 C.T.C. 109 (C.A.F.). Deuxièmement, la Couronne affirme que le paiement ne constitue pas une pension alimentaire au sens de l'alinéa 60b). Elle soutient également que la disposition déterminative au paragraphe 60.1(2) ne s'applique pas, parce que l'accord écrit ne précise pas l'objet exact du paiement. Enfin, elle prétend que l'accord écrit ne traite pas adéquatement du traitement fiscal du paiement, comme l'exige le paragraphe 60.1(2).
+Analyse
+[31] Les dispositions légales qui sont pertinentes dans le cadre du présent appel sont assez difficiles à comprendre, particulièrement le paragraphe 60.1(2), qui est, à certains égards, rédigé de façon plutôt contraire à l'intuition. Pour cette raison, je tenterai de décrire avec certains détails les exigences légales qui sont pertinentes.
+Interaction entre les dispositions applicables
+[32] L'avocate de la Couronne a répété à plusieurs reprises que le paragraphe 60.1(2) n'était qu'une règle déterminative et que les autres exigences légales devaient aussi être remplies. C'est sans aucun doute vrai. Les arguments de la Couronne, cependant, semblent s'appuyer sur le libellé du paragraphe 60.1(2), sauf en ce qui concerne l'interprétation contextuelle des dispositions relatives à la pension alimentaire et l'arrêt McKimmon. En conséquence, je débuterai par une analyse du paragraphe 60.1(2).
+Paragraphe 60.1(2)
+[33] Voici les éléments du paragraphe 60.1(2) qui, à mon avis, sont pertinents dans le cadre du présent appel. S'ils sont satisfaits, le paragraphe 60.1(2) entrera en jeu et le paiement de 30 000 $ sera réputé être une allocation périodique que Mme Wrightson pouvait utiliser à sa discrétion.
+1. Le montant de 30 000 $ doit être payable au cours d'une année d'imposition aux termes d'un accord écrit.
+2. Le montant de 30 000 $ doit être payable au titre d'une dépense.
+3. La dépense doit être en vue de l'acquisition ou de l'amélioration de la nouvelle maison de Mme Wrightson.
+4. La dépense doit être engagée au cours de l'année d'imposition ou de l'année d'imposition précédente.
+5. Le montant de 30 000 $ doit être engagé pour subvenir aux besoins de Mme Wrightson.
+6. L'accord doit prévoir le traitement fiscal du paiement.
+7. La déduction ne doit pas excéder 1/5 du principal initial de la dette contractée en vue de financer l'acquisition ou l'amélioration de la maison. (Il s'agit d'une restriction visant le montant déductible et non pas une condition régissant l'application du paragraphe, mais je l'ai incluse ici par souci de commodité.)
+[34] J'examinerai maintenant chacun de ces éléments, en commençant par le dernier.
+Déduction limitée à 1/5 de la dette
+[35] En vertu de l'alinéa b) de la définition de l'élément « B » au paragraphe 60.1(2), si un paiement vise l'acquisition ou l'amélioration d'une maison, le montant qui est déductible est limité à un cinquième du principal initial de la dette contractée en vue de financer cette acquisition ou amélioration. Puisque j'ai conclu que le principal initial de la dette contractée par Mme Wrightson en vue de financer l'acquisition se chiffrait à 122 348,66 $, la déduction maximale possible pour M. Wrightson se limite à un cinquième de ce montant, soit 24 469,73 $.
+Montant payable au cours de l'année aux termes d'un accord écrit
+[36] Pour ce qui est de la première condition précitée, la définition de l'élément « A » au paragraphe 60.1(2) exige que le montant soit payable au cours d'une année d'imposition aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit.
+[37] Les parties ne contestent pas que le montant de 30 000 $ était payable au cours de l'année d'imposition 2000 aux termes d'un accord écrit. Cependant, la Couronne fait valoir qu'il est également nécessaire que la dépense soit spécifiée dans cet accord. En l'espèce, l'objet du paiement n'était pas précisé dans l'accord écrit, mais il l'était dans chacun des trois reçus signés par Mme Wrightson.
+[38] D'après mon interprétation de la définition de l'élément « A » , il n'est pas obligatoire que l'accord écrit mentionne l'objet de la dépense. Cette conclusion se fonde sur une lecture grammaticale du libellé. Les mots « aux termes de l'ordonnance d'un tribunal compétent ou d'un accord écrit » sont insérés entre des virgules, de sorte qu'ils viennent modifier les mots qui précèdent, c'est-à-dire « un montant [...] qui est devenu payable par un contribuable au cours d'une année d'imposition » . Par conséquent, il est très clair que l'accord écrit doit mentionner seulement un montant payable au cours de l'année d'imposition en question. Voilà pourquoi je rejette l'argument de la Couronne suivant lequel l'objet de la dépense doit être spécifié dans l'accord écrit.
+Montant payable au titre d'une dépense
+[39] Pour ce qui est de la deuxième condition, la définition de l'élément « A » dispose que la pension alimentaire doit être payable « au titre d'une dépense » .
+[40] Le paiement de 30 000 $ dans la présente affaire est sans doute inusité parce qu'il ne s'agit pas du paiement ou du remboursement d'une dépense particulière. Il visait plutôt un but général, soit financer l'acquisition d'une maison qui coûtait 134 000 $ et des rénovations d'un montant non précisé. Monsieur Wrightson n'était pas au courant des arrangements financiers, c'est-à-dire de la prise en charge d'une hypothèque de 122 348,66 $ et de l'acompte de seulement 11 651 $. Il ne connaissait pas non plus le coût des rénovations. Par conséquent, il fournissait une aide financière générale relativement à la maison et aux rénovations et ne remboursait pas des dépenses particulières.
+[41] Cette situation soulève la question de savoir si le montant était effectivement payable « au titre d'une dépense » (en anglais, « in respect of an expense » ). J'ai conclu qu'il l'était.
+[42] L'expression anglaise « in respect of » ( « au titre de » ) est souvent utilisée dans la Loi de l'impôt sur le revenu. Les tribunaux lui ont donné une interprétation très large, comme en témoigne la déclaration suivante du juge Major dans l'affaire R. c. Markevich, [2003] 1 R.C.S. 94, 2003 D.T.C. 5185 (C.S.C.), au paragraphe 36 :
+La Cour a jugé que l'expression « in respect of » [...] a une portée des plus larges et exprime un lien quelconque entre deux sujets.
+[43] En utilisant cette expression au sens large, le législateur visait à faire en sorte que le paragraphe 60.1(2) s'applique non seulement aux remboursements de dépenses particulières, mais aussi aux paiements qui sont rattachés de façon générale à des dépenses particulières. Dans la présente affaire, il y a un lien clair entre le paiement de 30 000 $ et l'acquisition de la maison et les rénovations. Les 30 000 $ constituaient une aide financière générale relative à ces dépenses et, à mon avis, voilà qui répond à la condition suivant laquelle le paiement doit être fait « au titre d'une dépense » .
+Dépense faite en vue de l'acquisition ou de l'amélioration d'une maison
+[44] Pour ce qui est de la troisième condition, il doit être établi que la dépense est engagée en vue de l'acquisition ou de l'amélioration d'une maison où habitait Mme Wrightson. La définition de l'élément « A » au paragraphe 60.1(2) exclut les dépenses faites pour l'acquisition de biens corporels qui ne sont pas des dépenses au titre de frais médicaux ou d'études ou des dépenses en vue de l'acquisition, de l'amélioration ou de l'entretien d'un établissement domestique autonome que la personne visée habitait.
+[45] Puisque j'ai conclu sur la base des faits que le paiement visait à financer l'acquisition ou l'amélioration de la maison, et pour les raisons susmentionnées relativement au sens du terme « au titre de » , il s'ensuit que le paiement était fait en vue de l'acquisition et de l'amélioration de la maison. Nul ne conteste le fait que Mme Wrightson habitait la maison et, en conséquence, la troisième condition est respectée.
+Dépense engagée au cours de l'année ou de l'année précédente
+[46] Quant à la quatrième condition, la définition de l'élément « A » exige que la dépense particulière soit engagée au cours de l'année d'imposition ou de l'année d'imposition précédente. Dans la présente affaire, le coût de la maison (134 000 $) correspond à une dépense engagée dans l'année d'imposition pertinente (2000), quand la maison a été achetée. La seule preuve relative à la date où les dépenses liées aux rénovations ont été engagées est le témoignage de Mme Wrightson, suivant lequel les rénovations ont coûté environ 10 000 $ et se sont terminées dans les 18 ou 24 mois suivants. Selon ce témoignage, un très fort pourcentage des dépenses totales relatives à la maison et aux rénovations (144 000 $) correspond à des dépenses engagées au cours de l'année d'imposition 2000. Par conséquent, le paiement de 30 000 $ se rattache à des dépenses de plus de 134 000 $ engagées au cours de l'année d'imposition. À mon avis, cela suffit à respecter la condition que la dépense soit engagée au cours de l'année d'imposition ou de l'année d'imposition précédente.
+Montant engagé pour subvenir aux besoins d'une personne ( « for the maintenance of a person » )
+[47] Je me pencherai maintenant sur la condition, aussi énoncée à la définition de l'élément « A » , suivant laquelle le montant doit être engagé pour subvenir aux besoins (en anglais, « for the maintenance » ) du bénéficiaire. L'argument de la Couronne semble se fonder sur son interprétation des éléments de preuve, soit que le paiement visait à rembourser des frais judiciaires et non pas à financer l'acquisition de la maison. Comme je l'ai précisé plus haut, je n'accepte pas cette interprétation de la preuve.
+[48] L'avocate de la Couronne souscrivait à la définition du terme « maintenance » énoncée dans l'arrêt Barker c. Canada, no 96-4055(IT)I, 26 juin 1997, [1997] A.C.I. no 1093 (C.C.I.), au paragraphe 22 :
+L'entretien (maintenance) est défini en partie comme suit dans The Dictionary of Canadian Law, de Daphne A. Dukelow et Betsy Nuse : [TRADUCTION] « Appui financier, y compris l'allocation d'entretien ou la pension alimentaire devant être versées à quelqu'un qui n'est pas un conjoint. [...] Comprend le logement, les vêtements, les soins infirmiers, les traitements médicaux, la formation nécessaire, l'instruction et le transport. » Par conséquent, le logement constitue une forme d'entretien de même que la fourniture d'aliments, de vêtements et d'autres moyens de subsistance.
+[49] Cette définition, qui est confirmée par d'autres dictionnaires juridiques, est assez large pour inclure un montant forfaitaire versé afin d'aider Mme Wrightson à acquérir et à améliorer la maison. Par conséquent, la cinquième condition est satisfaite.
+Traitement fiscal prévu dans l'accord écrit
+[50] Pour ce qui est de la sixième condition, l'accord écrit doit prévoir que les paragraphes 60.1(2) et 56.1(2) s'appliquent au montant. Au paragraphe 12 de l'accord écrit mentionné plus haut, Mme Wrightson accepte d'être responsable des impôts sur le revenu fédéral et provincial relatifs au paiement. La question est de savoir si la condition légale est ainsi respectée.
+[51] Ce point a été examiné récemment par la Cour d'appel fédérale dans l'arrêt Veilleux c. Canada, no A-816-00, 16 mai 2002, [2002] A.C.F. no 737. Cette affaire est assez semblable au présent appel. Dans les deux cas, les accords écrits mentionnent seulement les conséquences fiscales pour le bénéficiaire, pas pour le payeur. En outre, dans les deux cas, les accords ne renvoient pas à des articles particuliers de la Loi. Dans une décision rédigée par le juge Létourneau, la Cour a conclu à l'unanimité qu'il n'est pas nécessaire que l'accord spécifie les conséquences fiscales pour le payeur et qu'il suffit qu'il reconnaisse que l'épouse sera imposée sur les montants payables en vertu de l'accord en question.
+[52] La seule différence importante que je peux voir entre la présente affaire et l'arrêt Veilleux, c'est que, dans ce dernier, la bénéficiaire savait clairement qu'elle devait inclure les montants dans son revenu parce qu'elle l'a fait pendant dix ans. Cependant, ce fait ne semble pas avoir été important dans cette décision, parce que le juge Létourneau s'est fondé sur le libellé de l'accord pour conclure que l'épouse savait qu'elle devait payer de l'impôt sur les paiements.
+[53] À mon avis, une déduction au titre de la pension alimentaire ne devrait pas dépendre de l'existence de preuves corroborantes de la part d'un ex-époux. Comme c'était le cas dans l'affaire Veilleux, l'accord ici est éloquent. Il énonce clairement que la bénéficiaire doit payer les impôts exigibles à l'égard du paiement. Madame Wrightson ne peut se soustraire à son obligation en déclarant qu'elle n'a prêté aucune attention à l'accord qu'elle signait à l'époque. Je suis tout à fait d'accord avec le commentaire suivant formulé dans l'arrêt Veilleux, au paragraphe 38 :
+[38] Refuser dans les circonstances les déductions réclamées par le demandeur équivaut à le pénaliser injustement en lui refusant un droit qui est le pendant de toutes les obligations alimentaires qu'il a assumées et exécutées de bonne foi.
+[54] À l'appui de sa position, l'avocate de la Couronne s'est reportée à plusieurs décisions rendues par la Cour canadienne de l'impôt après l'arrêt Veilleux : Rivkin c. Canada, no 2002-4743(IT)I, 9 octobre 2003, [2004] 1 C.T.C. 2766, Cranswick c. Canada, no 2002-4001(IT)I, 13 février 2004, [2004] 2 C.T.C. 2815, et Carmichael c. La Reine, no 2000-2091(IT)G, 30 mai 2003, 2003 D.T.C. 856.
+[55] À mon avis, toutes ses affaires peuvent être distinguées du présent appel à la lumière des faits. Dans les arrêts Rivkin et Carmichael, les accords ne mentionnaient absolument pas les conséquences fiscales. Dans l'affaire Cranswick, l'accord spécifiait l'incidence fiscale sur le payeur mais pas sur le bénéficiaire. Or l'arrêt Veilleux est clair : l'accord doit préciser les conséquences fiscales pour le bénéficiaire mais pas nécessairement pour le payeur. Pour ces motifs, aucune de ces décisions n'est pertinente compte tenu des faits particuliers du présent appel et je ne vois aucune raison de ne pas appliquer l'arrêt Veilleux. Je conclus que la sixième condition est donc satisfaite.
+Montant forfaitaire ayant un caractère de capital
+[56] Finalement, la Couronne soutient qu'un paiement de cette nature, un montant forfaitaire ayant un caractère de capital, n'entre pas dans la portée de l'alinéa 60b). L'avocate n'a cité aucune disposition légale appuyant cet argument et a fait savoir qu'il ne découlait pas du libellé mais plutôt du contexte entourant les dispositions sur la pension alimentaire. Je ne peux accepter que le contexte de ces dispositions légales sous-entende une exclusion implicite des paiements faits sous la forme de montants forfaitaires ayant un caractère de capital. À mon avis, une restriction, quelle qu'elle soit, visant la déductibilité des montants de pension alimentaire devrait figurer en toutes lettres dans les dispositions pertinentes.
+[57] Je souligne que le législateur semble s'être interrogé sur l'opportunité de limiter le montant qui peut être déduit lorsque la dépense a trait à l'acquisition d'une maison. Selon cette limite, la déduction annuelle ne peut excéder le cinquième du principal initial de la dette contractée relativement au bien. Je ne vois aucune raison d'appliquer des restrictions supplémentaires en raison d'une intention implicite quelconque.
+[58] L'avocate de la Couronne a aussi invoqué l'arrêt McKimmon à l'appui de son argument au sujet des montants forfaitaires ayant un caractère de capital. Dans cette affaire, il fallait déterminer si les versements périodiques d'un montant forfaitaire constituaient une « allocation [...] pour subvenir aux besoins » d'un ex-époux.
+[59] Le libellé des dispositions pertinentes dans le présent appel est différent de celui des dispositions qui étaient applicables dans l'affaire McKimmon. Le sens du terme « subvenir aux besoins » est pertinent et a été examiné plus haut. Le sens du mot « allocation » ne l'est pas, toutefois, parce que si le paragraphe 60.1(2) s'applique, le montant est réputé être une allocation.
+[60] Je ne vois rien dans l'arrêt McKimmon qui impliquerait que les dispositions légales qui sont en cause dans le présent appel ne s'appliquent pas à des montants forfaitaires ou à ceux ayant un caractère de capital. Au contraire, le paragraphe 60.1(2) envisage clairement qu'un paiement relatif à l'acquisition ou à l'amélioration d'une maison peut être considéré comme une pension alimentaire. Puisque la décision McKimmon s'appuie sur des dispositions légales différentes, elle n'est pas pertinente en l'espèce selon moi.
+Application de la règle déterminative
+[61] Pour les motifs précités, je conclus que la règle déterminative énoncée au paragraphe 60.1(2) s'applique à une tranche de 24 469,73 $ du paiement de 30 000 $. Il reste à se demander si ce montant constitue une « pension alimentaire » au sens du paragraphe 56.1(4). Il le sera si le montant était une allocation périodique que Mme Wrightson pouvait utiliser à sa discrétion pour subvenir à ses besoins.
+[62] En vertu du paragraphe 60.1(2), une tranche de 24 469,73 $ du montant est réputée être une allocation périodique et Mme Wrightson est réputée pouvoir l'utiliser à sa discrétion. La seule autre condition pertinente dans la définition d'une « pension alimentaire » est que ce montant doit servir à subvenir aux besoins. Il s'agit également d'une exigence énoncée au paragraphe 60.1(2) et, pour les raisons que j'ai données plus haut, je conclus que le paiement visait à subvenir aux besoins de Mme Wrightson.
+[63] Par conséquent, je conclus qu'une tranche de 24 469,73 $ constitue une « pension alimentaire » et que ce montant est aussi admissible à la déduction prévue à l'alinéa 60b) de la Loi.
+Conclusion
+[64] L'appel est admis et la nouvelle cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte de ce qui suit :
+1. Monsieur Wrightson a le droit de déduire une pension alimentaire pour enfants de 7 200 $;
+2. Monsieur Wrightson n'a pas droit au crédit d'impôt pour personne entièrement à charge;
+3. Monsieur Wrightson a le droit de déduire 24 469,73 $ en vertu de l'alinéa 60b) de la Loi.
+[65] Quant aux dépens, les deux parties ont eu partiellement gain de cause dans le présent appel et l'audience a duré plus longtemps que nécessaire en raison des lacunes des deux parties. Dans les circonstances, il n'y aura aucune ordonnance relative aux dépens.
+Signé à Toronto (Ontario), ce 4e jour de janvier 2005.
+« J. Woods »
+JugeWoods
+Traduction certifiée conforme
+ce 5e jour de décembre 2005.
+Yves Bellefeuille, réviseur

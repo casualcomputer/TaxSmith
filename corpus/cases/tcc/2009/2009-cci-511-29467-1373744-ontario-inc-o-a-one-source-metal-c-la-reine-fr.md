@@ -1,0 +1,165 @@
+---
+title: "1373744 Ontario Inc. o/a One Source Metal c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29467/index.do"
+last_modified: "2009-10-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 CCI 511"
+citation2: ""
+neutral_citation: "2009 CCI 511"
+decision_date: "2009-10-14"
+language: "fr"
+item_id: "29467"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6286
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:28:49.108000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b43a5016116cfa9c23252ae1038d31a2fda99e1f519c94b5a2663a0997d648bc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 1373744 Ontario Inc. o/a One Source Metal c. La Reine
+
+- Citation: 2009 CCI 511
+- Decision date: 2009-10-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6286, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+1373744 Ontario Inc. o/a One Source Metal c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-10-14
+Référence neutre
+2009 CCI 511
+Numéro de dossier
+2008-3566(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-3566(IT)I
+ENTRE :
+1373744 ONTARIO INC.,
+s/n ONE SOURCE METAL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu le 8 juillet 2009, à Toronto (Ontario).
+Devant : L’honorable juge E.A. Bowie
+Comparutions :
+Représentant de l’appelante :
+M. Bill Hutchings
+Représentantes de l’intimée :
+Me Jenna Clark
+Mme Ariane Asselin (stagiaire en droit)
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la nouvelle cotisation établie en vertu de la Loi sur l’impôt sur le revenu pour l’année d’imposition 2005 est rejeté.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2009.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 27e jour de novembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2009 CCI 511
+Date : 20091014
+Dossier : 2008-3566(IT)I
+ENTRE :
+1373744 ONTARIO INC.,
+s/n ONE SOURCE METAL,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Le présent appel a été interjeté à l’égard d’une cotisation d’impôt sur le revenu établie pour l’année d’imposition 2005 de l’appelante. Plus précisément, l’appel porte sur la décision du ministre du Revenu national (le « ministre ») de refuser une déduction demandée au titre d’activités de recherche scientifique et de développement expérimental (la « déduction de RS&DE »). Le ministre a refusé la demande de déduction parce que, selon lui, cette demande n’avait pas été présentée dans le délai fixé par la Loi de l’impôt sur le revenu (la « Loi »). Il n’a pas été remis en cause que la date limite pour présenter une demande de déduction de RS&DE pour 2005 était le 31 mars 2007. Il a aussi été admis qu’une demande de déduction de RS&DE est constituée de deux documents : un formulaire T‑661 accompagné des annexes 31 et 1 (ensemble, le « formulaire T‑661 »), et un rapport technique. Les formulaires T‑661 pour les années 2005 et 2006 ont été présentés au Bureau des services fiscaux de Toronto‑Ouest le 28 mars 2007. Le litige porte sur la question de savoir si le rapport technique a été présenté au même moment. L’appelante affirme qu’il l’a été. L’intimée soutient le contraire, et affirme que le rapport a été présenté pour la première fois au moyen d’une télécopie envoyée et reçue le 12 avril 2007.
+[2] C’est le paragraphe 37(11) de la Loi qui établit l’obligation de présentation qui est en cause :
+37(11) Sous réserve du paragraphe (12), un montant n’est déductible en application du paragraphe (1) au titre d’une dépense qu’un contribuable engagerait, compte non tenu du paragraphe 78(4), au cours d’une année d’imposition qui commence après 1995 que s’il présente au ministre, au plus tard douze mois après la date d’échéance de production qui lui est applicable pour l’année, un formulaire prescrit contenant les renseignements prescrits relativement à la dépense.
+Il n’a pas été contesté que, pour se conformer à cette disposition pour l’année 2005, l’appelante devait présenter et le formulaire T‑661 et le rapport technique avant la fin de mars 2007.
+[3] L’appelante a appelé trois témoins. Benjamin Mair est le directeur de la société appelante. Il a témoigné que le cabinet de comptables auquel l’appelante avait fait appel – Martyn, Dooley and Partners, LLP (le « cabinet ») – a établi les demandes de déduction de RS&DE pour 2005 et 2006, et qu’il s’était rendu au bureau du cabinet pour signer les demandes le 27 mars 2007. Il a laissé les demandes au cabinet pour que l’on s’occupe de les présenter. Plus tard, M. Mair a reçu une copie pour archives de chaque demande, mais il ne savait rien des circonstances entourant leur présentation à proprement parler.
+[4] Kevin Wong est le comptable qui a établi les formulaires T‑661 pour 2005 et 2006. Il avait reçu le rapport technique, qui est le même pour les deux années, du Business Improvement Group, la société qui avait fait le travail à l’égard duquel les demandes de déduction avaient été faites et qui avait établi le rapport technique. M. Wong a assemblé les documents devant être présentés au ministre de la façon suivante : il a agrafé le formulaire T‑661 et les annexes 31 et 1 relatifs à l’année 2005 ensemble, et il a fait la même chose pour le formulaire T‑661 et les annexes 31 et 1 relatifs à 2006. Il a ensuite agrafé toutes les pages du rapport technique. Enfin, il a réuni les trois documents agrafés au moyen d’un trombone. M. Wong n’a pas mis les documents dans une enveloppe. Il a aussi préparé une copie pour archives de chacun de ces documents, copie qui devait être estampillée lorsque le document original allait être produit au Bureau des services fiscaux de Toronto‑Ouest.
+[5] Blair Mabee est un employé du cabinet. Il a témoigné avoir reçu un [traduction] « document de Kevin Wong relativement à la demande de déduction de RS&DE, document qui devait être apporté au bureau de l’Agence du revenu du Canada »[1]. Il a dit que M. Wong lui avait remis deux copies de chaque document, une copie portant l’estampe « copie fédérale » et l’autre, l’estampe « copie pour archives ». M. Mabee a dit qu’il avait reçu l’instruction de produire les « copies fédérales » au bureau de l’Agence du revenu du Canada (« l’ARC ») et de faire timbrer la date sur les « copies pour archives ». Il a dit ne pas se souvenir du nombre de documents réunis au moyen d’un trombone, mais il a affirmé avoir produit auprès de l’ARC tous les documents qu’il avait reçus.
+[6] Les copies pour archives des trois documents ont été déposées en preuve par l’appelante. Le formulaire T-661 et les annexes pour 2005 constituent la pièce A‑1, et le formulaire T‑661 et les annexes pour 2006 constituent la pièce A‑2. Ces deux documents portent l’estampe suivante sur leur première page :
+RECEIVED REÇU
+Canada Revenue Agency
+Agence du revenue au [sic] Canada
+2007-03-28
+CONTENTS NOT EXAMINED
+CONTENU NON EXAMINÉ
+La copie pour archives du rapport technique constitue la pièce A‑3, et elle ne comporte aucune estampe. M. Mabee a expliqué cela de la façon suivante[2] :
+[traduction]
+Q : Pourquoi n’avez‑vous pas fait estampiller la première page du rapport technique alors que vous l’avez fait pour les formulaires T‑661 des deux années?
+R : Habituellement, l’ARC estampille seulement la copie du devant du document qu’elle reçoit. Elle n’examine pas le document, et elle ne fait qu’estampiller la première page du document. Parfois, elle examine les divers documents pour vérifier s’ils sont identiques, puis elle les accepte.
+Q : Donc, il n’y avait aucun – est‑ce qu’il y avait – combien de documents étaient réunis au moyen d’un trombone?
+R : Je ne me souviens pas du nombre de documents qui étaient réunis, mais j’ai donné à l’ARC tous les documents qu’on m’avait remis.
+[7] Christine Lockwood a témoigné pour l’intimée. Elle est agente des appels au bureau de l’ARC à Sudbury. Elle a expliqué que l’ARC traite de façon spéciale les demandes de déduction de RS&DE. Toutes ces demandes sont examinées au bureau de Sudbury. Dès leur réception, elles sont expédiées à ce bureau, où elles sont consignées par un commis aux services spéciaux puis placées dans une voûte spéciale. Les demandes sont seulement retirées de la voûte pour être examinées par un évaluateur, ou, en cas d’opposition, par un agent des appels.
+[8] Mme Lockwood a aussi décrit les recherches qu’elle avait menées au moyen du système informatique de l’ARC, et de celui ministère du Revenu de l’Ontario, auquel elle avait aussi accès. En consultant le système de l’ARC, elle a découvert que, comme le nom commercial de l’appelante – One Source Metal – figurait en haut de la première page du rapport technique, il suffisait de faire une recherche dans le système de l’ARC pour découvrir la dénomination sociale de la société, 1373744 Ontario Inc. Par conséquent, si le rapport technique s’était détaché des deux formulaires T‑661 après avoir été déposé, le personnel de la salle du courrier de Toronto ou un commis aux services spéciaux aurait pu retracer le dossier auquel le rapport technique avait trait.
+[9] Le conseiller technique de Mme Lockwood a accès au système informatique du ministère du Revenu de l’Ontario. Ce ministère numérise toutes les demandes de déduction de RS&DE dès leur réception. Une recherche a permis à Mme Lockwood de découvrir que le rapport technique en cause avait été produit auprès du ministère provincial le 13 avril 2007. En l’espèce, l’évaluateur de l’ARC avait téléphoné à un représentant de l’appelante le 10 avril 2007 pour l’aviser que le rapport technique n’avait pas été produit avec les formulaires T‑661.
+[10] La preuve présentée m’amène à conclure que, selon la prépondérance des probabilités, le rapport technique n’a pas été produit par l’appelante, ou par un de ses représentants, avant l’appel fait le 10 avril 2007 par l’évaluateur de l’ARC. Je suis donc d’avis que le rapport technique a été produit après l’expiration du délai fixé pour la présentation d’une demande de déduction de RS&DE pour 2005. Plusieurs éléments de preuve m’ont conduit à conclure de la sorte, mais le plus important est l’absence de l’estampe « reçu » sur la copie pour archives du rapport technique. Le témoignage de M. Mabee ne m’a pas impressionné. Il ne savait pas combien de documents il avait produits auprès de l’ARC le 28 mars 2007. Il savait devoir faire estampiller la mention « reçu » sur les documents produits, et c’est ce qu’il a fait pour les deux formulaires T‑661. Il serait très peu probable que M. Mabee ait produit trois documents, mais qu’il n’en ait fait estampiller que deux. En l’espèce, l’appelante avait le fardeau de la preuve, et les éléments de preuve présentés ne lui ont pas permis de s’en décharger.
+[11] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 14e jour d’octobre 2009.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 27e jour de novembre 2009.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE :
+2009 CCI 511
+No DU DOSSIER DE LA COUR :
+2008-3566(IT)I
+INTITULÉ :
+1373744 Ontario Inc., s/n One Source Metal,
+et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 8 juillet 2009
+MOTIFS DU JUGEMENT :
+L’honorable juge E.A. Bowie
+DATE DU JUGEMENT :
+Le 14 octobre 2009
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Bill Hutchings
+Représentantes de l’intimée :
+Me Jenna Clark
+Mme Ariane Asselin (stagiaire en droit)
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Transcription du témoignage de Blair Mabee, p. 24, L.24 à p. 25, L.1.
+[2] Transcription du témoignage de Blair Mabee p. 25, L.25 à p. 26, L.14.

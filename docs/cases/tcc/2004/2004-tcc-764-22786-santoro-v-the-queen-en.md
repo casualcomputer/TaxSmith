@@ -1,0 +1,242 @@
+---
+title: "Santoro v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22786/index.do"
+last_modified: "2004-11-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 764"
+citation2: ""
+neutral_citation: "2004 TCC 764"
+decision_date: "2004-11-19"
+language: "en"
+item_id: "22786"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2236
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:49:41.644000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "32439fcce02ac7f1cd7167fd0c9453e10d794390cd96393758e7cbf2cdca230c"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Santoro v. The Queen
+
+- Citation: 2004 TCC 764
+- Decision date: 2004-11-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2236, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Santoro v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-11-19
+Neutral citation
+2004 TCC 764
+File numbers
+2001-3906(IT)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-3906(IT)G
+BETWEEN:
+ANTONIO SANTORO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Architectural Precast Systems Inc. (2001-3907(IT)G)
+on July 19, 2004 at Toronto, Ontario
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+Cosimo Fiorenza and Natasha Miklaucic
+Counsel for the Respondent:
+Franco Calabrese
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1995 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 19th day of November 2004.
+"Gerald J. Rip"
+Rip J.
+Docket: 2001-3907(IT)G
+BETWEEN:
+ARCHITECTURAL PRECAST SYSTEMS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Antonio Santoro (2001-3906(IT)G) on July 19, 2004 at Toronto, Ontario
+Before: The Honourable Justice Gerald J. Rip
+Appearances:
+Counsel for the Appellant:
+Cosimo Fiorenza and Natasha Miklaucic
+Counsel for the Respondent:
+Franco Calabrese
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 1995 taxation year is dismissed, with costs.
+Signed at Ottawa, Canada, this 19th day of November 2004.
+"Gerald J. Rip"
+Rip J.
+Citation: 2004TCC764
+Date: 20041119
+Docket: 2001-3906(IT)G
+BETWEEN:
+ANTONIO SANTORO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2001-3907(IT)G
+AND BETWEEN:
+ARCHITECTURAL PRECAST SYSTEMS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip J.
+Issues
+[1] Appellant Antonio Santoro is the sole shareholder of the appellant Architectural Precast Systems Inc. ("APS"). The appellants have appealed respective assessments for their 1995 taxation years. The issues in these appeals revolve around two possible acquisitions of shares in HLE Capital Corp. ("HLE"). The issues are firstly, to determine if there were one or two acquisitions of shares in HLE by an appellant, secondly, which appellant purchased the shares and, thirdly, whether the losses on the dispositions of shares were on income or capital account[1]. If I find that Mr. Santoro acquired the HLE shares, then I am also to determine whether an amount of income ought to be included in his income as a shareholder's benefit pursuant to subsection 15(1) of the Income Tax Act ("Act"). The appeals were heard on common evidence.
+[2] The appellants claim that APS purchased shares in HLE in January 1995 for $125,000 and in February 1995 for $150,000. The appellants say the $125,000 was money borrowed by APS and the $150,000 was from APS' own funds. APS claimed a loss of $278,000 from the disposition of the shares and interest paid on the borrowed funds in 1995. The Crown denies that either appellant purchased shares in HLE for $125,000 but admits that Mr. Santoro personally purchased HLE shares for $150,000 in February 1995.
+Facts
+[3] Prior to 1995 Mr. Santoro had been working as a vice-president for E & M Precast Ltd. until it shut down operations in 1994. Mr. Santoro incorporated APS in April 1994. Mr. Santoro started buying shares in public companies in February 1993 when he was introduced to Mr. Eric West, a representative of Scotia McLeod.
+[4] Mr. Santoro recalled that his first investments were "small", the source of his funds was from his salary at E & M Precast. However, between February 1993 and 1995 he was actively engaged in buying and selling shares. In his 1995 tax return, for example, he reported over 45 dispositions of shares, all reported as capital transactions. He relied on Mr. West to recommend short-term investments and "long-term RRSP's". He made all his investments through Mr. West.
+[5] At all relevant times APS carried on its business of constructing exterior wall systems for buildings.
+[6] In late summer 1995 an individual by the name of Pino Guido suggested Mr. Santoro purchase HLE shares. Mr. Guido had worked with Mr. Santoro at E & M Precast. They had been introduced by Danny Delmedico, a son of the principal shareholder of E & M Precast. Mr. Guido was a vice-president of the McCauley Club of Sun Life Insurance Company. Mr. Santoro stated that the McCauley Club is made up of persons who achieved high sales with Sun Life.
+[7] Mr. Guido represented to Mr. Santoro that HLE was an "over the counter" stock that was trying to get listed on NASDAQ in New York. Mr. Santoro would be able to purchase shares from treasury at between 10 cents and 20 cents per share. HLE would apply funds raised to acquire technologies. HLE "had a lot of contacts" and that it would do well with "a lot of movement within a two-year period". Mr. Guido indicated the price of the shares could reach $2.00 in fairly short order. He was promoting the stock to corporations, according to Mr. Santoro, trying to sell blocks of HLE shares for $150,000 each. HLE wanted corporate participation, Mr. Guido told Mr. Santoro, so as to give it "stability". According to Mr. Santoro, Mr. Guido was aware that APS was generating revenue and would have money to invest.
+[8] Mr. Santoro testified that Mr. Guido told him HLE had purchased "laser peak technology" and was dealing with the United States military.
+[9] When Mr. Santoro first asked Mr. West if he ever heard of HLE, Mr. West said he had no knowledge of the company. Mr. West later determined that HLE had a head office in Montreal and in late 1994 opened an office in Toronto. Mr. Santoro said Mr. Guido introduced him to HLE's president in November or December 1994 at HLE's office on the 48th floor, he believed, at BCE Place in Toronto. Mr. Santoro recalled that the president of HLE, Mr. Joe Perolini, told him that HLE had paid rent one year in advance for 10,000 square feet of space at BCE Place. Mr. Perolini said that HLE was a good company with a good future. The next day Mr. West visited Mr. Perolini and according to Mr. Santoro, he "felt that there was something going on there ...".
+[10] Mr. Santoro reviewed no contracts of HLE nor did he examine HLE's other assets. HLE did make available to him their future plans and an explanation of the laser peak technology. Mr. Santoro "talked to people [HLE] was making deals with". The people he spoke to, he said, included Messrs. Guido, Perolini, Delmedico and West.
+[11] During his examination for discovery, Mr. Santoro said he trusted Mr. Guido because he sole him all his life insurance, "he knew all my banking and I did investments with Sunlife ... I trusted him".
+January 1995 Payment
+[12] Mr. Santoro testified that APS first invested in HLE in January 1995 when it acquired a block of shares for $125,000.
+[13] According to Mr. Santoro Mr. Guido informed him that a block of HLE shares was available from brokerage firm Thomson & Kernaghan which he could purchase and sell immediately; he would not be compelled to hold the shares for any minimum time. However, in his examination for discovery Mr. Santoro stated that the shares were part of a private placement and he could not sell the shares for three or six months.
+[14] APS did not have the funds to acquire the HLE shares. In January 1995, APS was starting to get a cash flow but "I was stretched because the projects that I was dealing in [sic] so I couldn't take the funds out of APS", Mr. Santoro asserted. Therefore, he explained, he asked two friends to invest and "help me invest".
+[15] In paragraphs 4. b. of their notices of appeal, the appellants claimed that:
+... APS entered into two arrangements with business associates whereby the associates purchased shares of HLE - in one case $100,000 worth and in the second case, $25,000 worth. The business associates agreed that they would only deal with such shares as advised by APS. APS agreed to guarantee them a return of 30% on their original investment. As consideration for the guarantee, APS was entitled to any increase in value on the HLE investments over and above the guarantee return. Based on the trading history of the HLE stock, there was more than a reasonable expectation of profit to APS in respect of the arrangement.
+[16] At trial Mr. Santoro testified that he borrowed money from Rocco Liscio, a long time friend who was a partner in a consulting engineering firm and with whom he had worked at E & M Precast, and Vince Persico, the general manager of APS[2]. He represented to them that in consideration of each lending him money, he would guarantee repayment of their loans "within six months plus 30 per cent" and that APS "would be paying it". On discovery, Mr. Santoro stated the loan was for three to six months. He was sure the shares would increase in value so he was not too concerned about the interest rate, he declared.
+[17] The cash flow from APS would guarantee the loans from Messrs. Liscio and Persico "no matter what the actual stock was", Mr. Santoro insisted. Mr. Persico loaned $25,000 and Mr. Liscio advanced $100,000. Mr. Liscio's cheque dated January 27, 1995, is payable to Thomson & Kernaghan. "We gave the money to Pino and it went through Thomson & Kernaghan." (There is no evidence how or when Mr. Persico advanced the $25,000.) Mr. Santoro believed APS was purchasing the HLE shares in January at between 10 cents and 20 cents each and thinks that some time later the purchase price was established at 20 cents per share. He said that he anticipated APS turning over the shares in six to eight months. It was suggested to Mr. Santoro that the shares could reach $9.00. It appears that only $125,000 worth of shares were purchased, notwithstanding that Mr. Guido's representation that a block would cost $150,000. Respondent's counsel queried whether, since this appeared to be a private placement, and only a portion of a block of shares was acquired, Mr. Santoro contravened s. 72(1)(d) of the Ontario Securities Act[3].
+[18] The loan agreements with Messrs. Liscio and Perscio were not reduced to writing since, Mr. Santoro said, "these are friends that I have known for a long period of time and I think that they trusted me". He recalled his time at E & M Precast where contracts were made on a handshake.
+[19] In his 1995 tax return Mr. Santoro reported personal income of $70,682. He did not believe the loans to be a significant financial commitment, as suggested by respondent's counsel, since in 1995, he thought, APS grossed between $6,000,000 to $9,000,000 and in 1996, its second year of operation, between $12,000,000 to $15,000,000. In fact, APS' gross revenue for 1994 was $2,389,611 and for 1995, $10,780,385. APS reported net earnings for 1995 in the amount of $481,506, after deducting the amount of $278,000, the sum in issue, as a loss on short-term investments. The fiscal year-end of APS is August 31.
+[20] Mr. Santoro confirmed that the guarantees referred to in paragraph 4 b. of the Notices of Appeal were guarantees by APS to his business associates, Messrs. Liscio and Perscio. APS was making the investment and that Messrs. Liscio and Perscio were each to be guaranteed a 30 per cent return. Mr. Santoro insisted APS was the purchaser of the shares, not Messrs. Liscio and Perscio, notwithstanding paragraph 4 b. suggests otherwise. He declared that Messrs. Liscio and Perscio "didn't invest in the stock market". Mr. Santoro testified that Messrs. Liscio and Perscio "didn't know that I was going to be purchasing shares of HLE Capital Corp.".
+[21] Counsel for the respondent asked Mr. Santoro the reason he was willing to pay Messrs. Liscio and Perscio 60 per cent interest, since the loans were for six months, when he could have received a much lower interest rate from Scotia McLeod or a chartered bank. Mr. Santoro had some difficult answering the question, first stating that APS borrowed the money and the lenders felt comfortable with APS that they would be repaid in six months and finally replying that he may have been able to negotiate a loan with a bank but APS had no line of credit "so I didn't even think of actually going to the bank".
+[22] Mr. Santoro stated that he is still in contact with Messrs. Liscio and Perscio but they would not be called upon to testify.
+[23] During the summer of 1995 Mr. Liscio began asking Mr. Santoro for repayment of his loan. Mr. Santoro asked him to "hold on for a couple of months" but by the end of the year Mr. Liscio required the money. The company's third year of operations was to begin in September and the company required all of its resources for its business operations. It could not repay the loan. On December 20, 1995 Mr. Santoro issued to Mr. Liscio a cheque in the amount of $127,800 out of his personal Powerline account at Canada Trust. Mr. Santoro believes that the interest on the Powerline account was 1 1/2 per cent or 2 per cent above prime. Mr. Santoro testified the money came out of his personal account rather than APS's account because he did not want to "weaken the situation" with APS[4].
+[24] Effective August 31, 1995, an adjusting entry of $128,000[5] was made by HLE's chartered accountants from the shareholder's loan account of Mr. Santoro to the short-term investment account of APS. The adjustment was purportedly made to record additional amounts with respect to short-term investments paid directly by Mr. Santoro by personal cheque. Mr. Santoro was given credit on the shareholder's loan account for $128,000, a payment that was not previously in the records of APS.
+[25] In filing its 1995 tax return APS claimed a loss of $278,000 on account of income. Included in the loss was the $128,000 originally credited to Mr. Santoro's loan account and then allocated to the short-term investment account. (The difference of $150,000 is considered later in these reasons.) The Minister added the amount of $278,000 to Mr. Santoro's income for 1995 pursuant to subsection 15(1) of the Act on the basis APS conferred a benefit of $278,000 on Mr. Santoro in his capacity as a shareholder of APS.
+February 1995 transaction
+[26] A month later, in February 1995, a second block of HLE shares was purchased for $150,000. This time, because APS had cash from completed projects, Mr. Santoro explained, APS issued a cheque on February 28, 1995 payable to HLE in the amount of $150,000, which he gave to Mr. Guido. APS says it purchased the block of HLE shares, the Minister says Mr. Santoro purchased the HLE shares with money loaned to him by APS.
+[27] Apparently when APS issued the cheque in the amount of $150,000 in February 1995 APS' bookkeeper was told by the company's external accountant, Samuel Stern, to allocate it to an account and that he would review it when he prepared the books of the company at the end of the year. Apparently at the time Mr. Stern did not discuss the purpose of the $150,000 with Mr. Santoro, APS' director. The company's internal bookkeeper, Mr. George Sebastien, allocated the cheque to the shareholder's loan account.
+[28] Mr. Santoro was asked by his counsel the reason HLE shares were purchased. He replied that his intention was to "strengthen" APS. "I had contracts coming through and I had no line of credit with the bank and I wanted to make sure that I had a certain amount of cash reserves so I can fund bigger projects." Either Mr. Perolini or Mr. Guido had told him, Mr. Santoro declared, that the first block of shares would be able to be sold within a year of purchase and the second block would be sold a year later.
+[29] HLE shares were trading in 1995. Although he could not remember the time period, Mr. Santoro said the shares were "moving at a quick pace, $1.00, $2.00, $3.00". At $3.00, Mr. Santoro said, pension funds were getting involved. He said he "saw the stock go up to $4.00 and $4.40". Trading of the stock was halted several times because of rapid increases, he recalled. However, Mr. Santoro could not recall the dates trading in HLE shares had been halted; he believed the permanent cease trading order was in the fall of 1995. He believes the price at the time was $3.30. HLE eventually shut down, he said, and the investment in HLE was lost.
+[30] Once the HLE shares were over $4.00, Mr. Santoro complained, he was unable to reach Mr. Perolini and it was difficult to "get a hold of" Mr. Guido. Eventually he did manage to speak to Mr. Guido who told him that HLE was going to be taken over by another corporation. Sometime later HLE's name was changed to "Worldtec Sciences Incorporated". Mr. Santoro told Mr. Guido he needed share certificates representing the HLE shares but Mr. Guido said he could not help him because he, also, could not get a hold of Mr. Perolini.
+[31] The persons working on APS matters are Mr. Stern and Nagli Dawji, an associate. The accounting firm prepares financial statements for tax and banking purposes and perform whatever accounting services are required by APS. The firm prepares a review engagement report which Mr. Stern described as gathering information, reviewing the information with the client, reviewing files, understanding the client, understanding the business and putting the facts together to come up with a reasonable statement for the fiscal year. An audit is not performed.
+[32] Appellant's counsel referred Mr. Stern to APS' shareholder's loan account for the period ending August 31, 1995. The loan account statement was prepared by APS' bookkeeper, George Sebastien. One item on the statement dated February 28 is an amount of $150,000 paid to HLE. The comment "out" is written on the statement in either Mr. Stern's or his associate's handwriting. Mr. Stern testified that on reviewing the shareholder's loan account with his client, he questioned the purpose of $150,000 and was told "that it was a purchase for [APS] in a private placement company called HLE". He questioned the nature of the investment, he recalled, and was told it was a penny stock, "it's going to be short term ... and we concluded that it was misposted and we reallocated it to a short term investment". Based on his discussions with Mr. Santoro, Mr. Stern concluded the $150,000 was a corporate investment. An adjusting entry was made effective August 31, 1995 from the shareholder's loan account to HLE's short-term investment account in the amount of $150,000 to correct the bookkeeper's misposting, according to Mr. Stern. This, Mr. Stern asserted, was "part of the normal preparation of financial statements and our working papers".
+[33] The $150,000 was only one of about 30 entries that were "misposted" and reallocated for 1995, Mr. Stern stated. In examination in chief Mr. Stern said the number of adjusted entries on the file was a "big high", but this was the first year he reviewed the account. In subsequent years there were a similar number of adjustments.
+Write Down of Shares
+[34] As of the 1995 year-end of APS, a further adjustment was made by HLE's accountants to write off the investment in HLE in the amount of $278,000. "As we realized at the end of August and when we were doing our review in December that the stock wasn't trading or there was very little activity in it ... we concluded it was dead, so we wrote it off," Mr. Stern explained, for both accounting and tax purposes. Mr. Stern reviewed notes of a meeting had with Mr. Santoro on February 13, 1996. These notes include numerous adjustments for the 1995 fiscal year of APS. One section of the notes appears to
+read "R → Sh Loans" followed by a calculation of a "loss on short term investments" aggregating $278,000 and calculated as follows: "$150,000 + $100,000 + $28,000". There is also reference to crediting certain accounts which appear to be a shareholder account.
+[35] The decisions to make the adjusting entries in the shareholder's loan account and write off the $278,000 investment in HLE were made in December 1995 or in early 1996.
+[36] It is the amount of $278,000 that the Minister has included in Mr. Santoro's income for 1995 as a shareholder benefit from APS.
+[37] In his income tax return for 1995, Mr. Santaro reported two dispositions of shares in HLE[6]; the first was a disposition of 6,000 shares (purportedly acquired on January 2, 1995) for a capital gain of $5,679. The second disposition was actually a "write off" of the cost ($216,071.83) of 20,700 shares purportedly acquired on January 1, 1995. Mr. Santoro testified that during the course of 1995 he personally had purchased additional shares of HLE through Scotia McLeod and I assume these are the shares he was referring to. I also do not know the dates these shares were actually acquired by Mr. Santoro. [The dates of acquisition of January 1 and 2, 1995 are the dates of acquisition reported in his tax return. Since January 1, 1995 is a statutory holiday I doubt that January 1 was the date of the order of the shares or the closing date.] Apparently, Mr. Santoro personally commenced purchasing HLE shares before APS claims it did. The personal dispositions were reported on capital account.
+[38] No share certificates were ever issued by HLE to either Mr. Santoro or APS. The appellants have been unable to obtain any records of shareholders of HLE.
+[39] In 1996 or 1997, Mr. Santoro testified, that the Royal Canadian Mounted Police and the Ontario Securities Commission were investigating the activities of HLE. Officers of the RCMP and OSC officials interviewed Mr. Santoro. He said he gave the investigators documents, including cheques relating to the Persico loan. He said that these documents have not been returned to him.
+Conclusions
+[40] There was no evidence presented at trial that could support the appellants' positions that the Minister's assessments for 1995 were wrong. I shall consider each transaction separately.
+[41] The first transaction concerns the purported acquisition of HLE shares in January 1995 for $125,000. The appellants say the shares were acquired with borrowed funds. The facts alleged in paragraph 4 b. of the appellants' Notices of Appeal and the viva voce evidence of Mr. Santoro concerning the January transaction contradict each other. In their Notices of Appeal the appellants say that Messrs. Liscio and Persico purchased the shares of HLE and had agreed to deal with the shares as advised by APS. There is no suggestion of loans by Messrs. Liscio and Persico to either appellant. These persons were to be guaranteed a return of 30 per cent on their investment; APS was to receive anything above 30 per cent. Mr. Santoro, however, testified that APS purchased the HLE shares for $125,000 with money borrowed from Messrs. Liscio and Persico. He also stated that Messrs. Liscio and Persico did not know what investment was to be purchased with their funds.
+[42] Also, paragraph 4 b. of the Notices of Appeal allege that based on the trading history of HLE stock, "there was more than a reasonable expectation of profit to APS in respect of the arrangement". The appellants produced no evidence of the trading history of HLE stock before January 1995.
+[43] Messrs. Williston and Rolls[7], describe the function of pleadings as fourfold:
+1. To define with clarity and precision the question in controversy between litigants.
+2. To give a fair notice of the case which has to be met so that the opposing party may direct his evidence to the issues disclosed by them. A defendant is entitled to know what it is that the plaintiff asserts against him; the plaintiff is entitled to know the nature of the defence raised in answer to his claim.
+3. To assist the court in its investigation of the truth of the allegations made by the litigants.
+4. To constitute a record of the issues involved in the action so as to prevent future litigation upon the matter adjudicated between the parties.
+[44] The function of pleadings is to permit opposing parties to know what they are required to meet at trial. Each party sets out the facts of his or her case in a pleading so that their cases are well defined and the proper evidence can be led. It is not open to a trial judge to make a finding on a point not raised in the pleading and where no evidence has been particularly directed to it[8].
+[45] In the appeals at bar, it appears, the appellants ignored their own pleadings and led evidence which was contrary to the facts alleged in paragraph 4 b. of their pleadings. The facts alleged in paragraphs 4 b. are crucial to the appellants' cases. Facts alleged in a pleading are admissions and are proof against the party making them. Only if it can be proved the allegation was an error of fact can it be revoked. In an answer to a question by me, appellants' counsel described the reference to the guarantee in paragraphs 4 b. as "a mistaken fact ... the evidence will come out that there was a loan and that ultimately what we have here is [sic] acquisitions of stock, and nothing more than that". If counsel believe the facts pleaded are mistakes, then counsel should make an application to amend the pleadings and prove the fact was an error so that the pleadings contain no "mistaken" facts[9]. On the evidence before me, it did not come out that there was a loan.
+[46] As a result, I am left with contradictory evidence presented by the appellants, none of the evidence of which is corroborated by persons who could have testified.
+[47] I am not willing to accept Mr. Santoro's evidence over that originally posited in the Notices of Appeal. The rate of interest Mr. Santoro was willing to pay to Messrs. Persico and Liscio was excessive, if not unreasonable. He was willing to pay, he says, a 60 per cent rate of interest annually without even making inquires at a bank or his broker for a lower rate of interest. That APS had no line of credit is neither an excuse nor a reason.
+[48] Either or both of Messrs. Liscio and Perscio could have been called by the appellants to corroborate Mr. Santoro's testimony. Because they were not called, although Mr. Santoro is still in touch with them, I must draw an unfavourable inference that these gentlemen would not have supported Mr. Santoro's evidence[10].
+[49] With respect to the January 1995 transaction and, in particular, the Liscio payment, the Minister's position is that the amount paid by Mr. Liscio to Thomson & Kernaghan was not applied to purchase shares of HLE for the benefit of either Mr. Santoro or APS. No shares were issued to either appellant. Neither a receipt from the broker for the money and the broker's application of the funds nor a broker's notice confirming the purchase of HLE shares was produced. The Minister's position is not unreasonable in the circumstances.
+[50] Not only were Messrs. Perscio and Liscio not called to testify but neither was Mr. Guido; no reason was given. Mr. West, who Mr. Santoro relied on for investment matters, also was not called to testify. Mr. Guido could have corroborated Mr. Santoro's evidence that Mr. Guido wished a corporation to purchase the block of shares and that the money paid to Thomson & Kernaghan was for the HLE shares. The appellants produced a copy of a letter dated January 18, 1999 from Worldtec Services Incorporated to "Revenue Canada Customs and Excise" confirming "that in August 1995, HLE entered into an agreement to sell 1,375,000 million [sic] shares to [APS]. HLE received the balance of $150,000 from [APS] directly. In addition HLE ... also received ... the sum of $125,000 from other parties ...". The letter was signed by "P. Guido"[11]. That any purchases of HLE shares may have taken place in August 1995 also contradicts Mr. Santoro's testimony. Again, Mr. Guido did not testify.
+[51] Assuming Thomson & Kernaghan are still carrying on business - and there is no evidence that they are not - an employee of the firm could have been called to testify as to the receipt of the $100,000 from Mr. Liscio and whether the funds were applied to acquire the HLE shares. There is no evidence corroborating Mr. Santoro's testimony as to the use of Mr. Liscio's funds. There were no shares issued and there is no evidence that his money was applied to purchase HLE shares.
+[52] The second transaction in February 1995 is also troubling.
+[53] When the cheque for $150,000 was issued, APS' bookkeeper was told by the company's accountant to allocate the amount to an account and he would review the matter when the APS' books were prepared for year-end. The bookkeeper allocated the cheque to Mr. Santoro's loan account which, Mr. Stern concluded almost a year later, was an error and he reallocated the $150,000 to an APS short-term investment account. It was not unusual for APS to pay expenses on behalf of Mr. Santoro; these expenses were applied to Mr. Santoro's loan account. Here, too, Mr. Sebastien was not called to testify to explain his practice in maintaining the books of APS and any instructions he received from Mr. Santoro.
+[54] It is the directors of the corporation who determine a transaction, not the accountants. Mr. Santoro, not Mr. Stern, ought to have instructed Mr. Sebastien. The accountant merely records the transaction. Accountants do not possess a magic wand that, at their whim, turns black into white, white into black, a shareholder's loan into a short-term investment.
+[55] Accountants often adjust accounts or reallocate funds between accounts after the corporation's year-end. Indeed, adjustments should be made to correct accounting errors, including when a transaction is recorded in the wrong account. But, at the time of the transaction the directors of the corporation must identify and assign a transaction to an account in the most appropriate manner. This requires judgement to decide which account or accounts should be debited or credited. At the end of the accounting period, judgement is required to identify and adjust where necessary[12]. An adjustment is to correct, not create.
+[56] When they review accounts, accountants should have access to corporate records indicating the true nature of the event or transaction before making adjustments or reallocations. Because these adjustments may be made sometime after the fact, both the client and the accountant may be led into temptation and they must defend against this. For example, shares of a corporation acquired in the year may lose their value before the year-end. It may be tempting to reallocate the ownership of the shares from a low income taxpayer to a high income taxpayer so that the high income taxpayer incurs the loss; one may also reclassify the nature of the shares from capital to income account. In these examples there is nothing wrong if the accountant reallocates accounts if he has good evidence of error of who really acquired the shares. But where there is no evidence to refute the original book entry, the accountant ought not make any adjustment between accounts. The accountant is a recorder, not a decision maker.
+[57] In the appeals before me Mr. Stern made no real effort in January 1995 to determine the nature and application of the Liscio and Perscio loans. And in February 1995, he did nothing to determine who was acquiring a block of HLE shares for $150,000. Indeed, in the latter case, he determined he would wait until he prepared the corporation's financial statements for the year. His discussions in early 1995 should not have been with Mr. Sebastien but with Mr. Santoro. Mr. Stern simply told the bookkeeper to enter an amount in an account - apparently any account would have done - and he would make an adjustment later on. At the time no discussions transpired between Mr. Santoro and Mr. Stern concerning who was purchasing the shares.
+[58] This is not good enough. The transaction took place in February 1995 when hopes for HLE shares were high. Discussion for the adjustments took place in December 1995 and early 1996, when HLE shares were worthless. There were no documents prepared in February 1995 nor were instructions reduced to writing at the time describing the transaction and the intentions of the interested parties. All Mr. Stern had before him at trial were notes of discussions he had with Mr. Santoro in late 1995 and early 1996, when the result of the transaction was known. There is absolutely no evidence contemporaneous with the issuance of the cheque for $150,000 by APS or the purchase of the HLE shares in February 1995 that APS was to be the beneficiary of the HLE shares. For example, there are no minutes of directors of APS authorizing the issuance of the cheque or the purchase of the shares. There is no broker's confirmation of the purchase by APS or a broker's monthly statement of account to APS that HLE shares were held for its benefit. All we have is Mr. Stern's decision to reallocate the funds based on discussions with Mr. Santoro almost a year after the event. Mr. Stern did not describe these discussions but I note that APS' income for 1995, before deducting the purported loss of $278,000, was $759,506 and Mr. Santoro's taxable income for 1995 was $32,478. I cannot satisfy myself that the original entry of the $150,000 in the shareholder's loan account was wrong. The purchase of the block of HLE shares in February 1995 was for Mr. Santoro's benefit. He dealt with his other personal acquisitions and dispositions of HLE shares in 1995 on capital account[13]; I have no reason to find that the block of shares was not also acquired by him on capital account.
+[59] The $150,000 was paid for the HLE shares by APS for the benefit of Mr. Santoro. APS conferred a benefit of $150,000 on Mr. Santoro as a shareholder of APS: subsection 15(1) of the Act.
+[60] The appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 19th day of November 2004.
+"Gerald J. Rip"
+Rip J.
+CITATION:
+2004TCC764
+COURT FILE NO.:
+2001-3906(IT)G & 2001-3907(IT)G
+STYLE OF CAUSE:
+Antonio Santoro v. The Queen
+Architectural Precast Systems Inc. v.
+The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+July 19, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Gerald J. Rip
+DATE OF JUDGMENT:
+November 19, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Cosimo Fiorenza and
+Natasha Miklaucic
+Counsel for the Respondent:
+Franco Calabrese
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Cosimo Fiorenza and
+Natasha Miklaucic
+Firm:
+Goodman & Carr
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In its Notice of Appeal, APS claimed that if the loss was on account of capital, its loss was a business investment loss. At trial appellant's counsel abandoned the claim on the basis that APS was unable to obtain access to the corporate records of HLE.
+[2] In his testimony Mr. Santoro would frequently refer to himself when, he says, he was actually referring to APS.
+[3] Section 72(1)(d) of the Ontario Securities Act provides that a prospectus is not required in a distribution of shares where the purchaser purchases as principal, if the trade is a security which has an aggregate acquisition cost to the purchaser of not less than $150,000. The shares acquired for $125,000 would not qualify as a private placement exemption. The results of these appeals were not dependent to any degree on whether or not the transaction contravened the Ontario Securities Act.
+[4] Mr. Persico was apparently repaid his loan of $25,000 plus $7,500, representing interest of 30 per cent interest, from Mr. Santoro's personal bank account on or about February 2, 1994. In preparing the APS' 1996 fiscal statements HLE's accountants also made an adjustment of $32,500 to record short-term investments paid by Mr. Santoro by cheque on February 2, 1996 with respect to the HLE investment. The amount of $32,500 was not previously recorded in the company's books of account. The amount of $32,500 was moved from the shareholder loan account to short-term investments. The amount of $32,500 appears to represent the amount of $25,000 repaid to Mr. Perscio plus interest of $7,500. No reason was given for writing down these shares in 1996 rather than 1995 when the shares became worthless, according to Mr. Santoro.
+[5] I assume the amount of $128,000 refers to the principal amount of $100,000 plus the $27,800 of interest paid to Mr. Liscio. No explanation was offered concerning the difference of $200.
+[6] I refer to the corporation as HLE even though the corporate name may have been changed to Worldtec Sciences Incorporated.
+[7] The Law of Civil Procedure, Butterworth & Co. (Canada) Ltd., Toronto (1970), p. 637
+[8]
+Lubrizol Corp. v. Imperial Oil Ltd. [1996] 3 F.C. 40; Voith GmbH v. Beloit Corp., (1991), 128 N.R. 54 (F.C.A.). See also McMechan & Bourgard, Tax Court Practice, Thomson, Carswell 4-62, 4-63.
+[9] Any examination of discovery of the appellants, I imagine, would have been based on the facts pleaded by the appellants. To change course late in the litigation process is simply not fair to the respondent.
+[10] Sopinka, John; Lederman, Sidney N.; and Bryant, Alan W.; The Law of Evidence in Canada, 2 ed. Butterworths, Toronto, 1999.
+[11] There is nothing in the letter to advise the reader as to Mr. Guido's capacity at Worldtec in 1999.
+[12] Bull, R. J. Accounting in Business, Butterworths, London, 1972.
+[13] I am advised by respondent's counsel that on reassessing Mr. Santoro for 1995, the Minister allowed him a capital loss of $150,000 in respect of these shares.

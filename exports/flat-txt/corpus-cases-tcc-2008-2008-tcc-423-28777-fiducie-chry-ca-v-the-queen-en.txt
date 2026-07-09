@@ -1,0 +1,148 @@
+Title: Fiducie Chry-Ca v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28777/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-423-28777-fiducie-chry-ca-v-the-queen-en.md
+Document type: case_law
+Last modified: 2008-07-18
+
+# Fiducie Chry-Ca v. The Queen
+
+- Citation: 2008 TCC 423
+- Decision date: 2008-07-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1563, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fiducie Chry-Ca v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-07-18
+Neutral citation
+2008 TCC 423
+File numbers
+2007-3856(GST)I
+Judges and Taxing Officers
+Réal Favreau
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-3856(GST)I
+BETWEEN:
+FIDUCIE CHRY-CA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 3, 2008, at Montréal, Quebec
+Before: The Honourable Justice Réal Favreau
+Appearances:
+Agent for the Appellant:
+Rémi Tremblay
+Counsel for the Respondent:
+Brigitte Landry
+____________________________________________________________________
+JUDGMENT
+The appeal from the two assessments made under the Excise Tax Act and dated July 14, 2006, in relation to the period ended December 31, 2005, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Montréal, Quebec, this 18th day of July 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 5th day of September 2008.
+Susan Deichert, Reviser
+Citation: 2008 TCC 423
+Date: 20080718
+Docket: 2007-3856(GST)I
+BETWEEN:
+FIDUCIE CHRY-CA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Favreau J.
+[1] This is an appeal from two notices of assessment dated July 14, 2006, and bearing the reference numbers 14454 5837 RT0001 000002 and 14454 5837 RT0001 000003. Both notices of assessment pertain to the period ended December 31, 2005. By those notices, the Minister of Revenue of Quebec, acting as agent for the Minister of National Revenue (hereinafter "the Minister"), disallowed the two claims for a Goods and Services Tax (GST) rebate in respect of new residential rental complexes located at 1638-1642 Charles Street in Saint-Hubert, Quebec, and 1502-1508 Saint-Paul Street in Lemoyne, Quebec.
+[2] The issue is whether the "first use" of the complexes was as a place of residence for individuals, each of whom had continuous occupancy of a unit under one or more leases for a period of at least one year, throughout which the property was used as the primary place of residence of that individual.
+[3] The facts on which the Minister relied in disallowing the rebate claim are described as follows at paragraph 15 of the Reply to the Notice of Appeal:
+[TRANSLATION]
+(a) The facts admitted to above.
+(b) During the period in issue, the Appellant was a registrant for the purposes of Part IX of the Excise Tax Act, R.S.C. 1985, c. E-15 (hereinafter "the ETA").
+(c) On October 5, 2005, the Appellant filed a new residential rental property GST rebate application with the Minister in connection with the triplex at 1638-1642 Charles Street, Saint-Hubert, Quebec.
+(d) On December 21, 2005, the Appellant filed a new residential rental property GST rebate application with the Minister in relation to the quadruplex at 1502-1508 Saint-Paul Street, Lemoyne, Quebec.
+(e) The Appellant is the builder of the triplex and quadruplex described above at subparagraphs (c) and (d).
+(f) The Appellant rented out all the apartments in the triplex and quadruplex described above at subparagraphs (c) and (d) to Service LTS Inc.
+(g) The term of the lease for the apartments at 1638-1642 Charles Street in Saint‑Hubert is seven and a half months, commencing November 15, 2005, and ending June 30, 2006.
+(h) The term of the lease of the apartments at 1502-1508 Saint-Paul Street in Lemoyne is 15 months, commencing April 1, 2005, and ending June 30, 2006.
+(i) In turn, Service LTS Inc. leased the apartments at 1638-1642 Charles Street in Saint-Hubert and 1502-1508 Saint-Paul Street in Lemoyne to individuals for the duration of the restoration and construction work following incidents that damaged their primary places of residence.
+(j) The terms of the leases to the individuals vary in length depending on the duration of the restoration or construction work, calculated in rental days varying from 30 days to 45 days to 60 days or some other duration.
+(k) Since the apartments are not the individuals' primary places of residence for more than one year, the criteria set out in the definition of "qualifying residential unit" are not met.
+[4] Rémi Tremblay testified, specifying that (i) the Appellant was a family trust that he created for the benefit of his two daughters; (ii) the Appellant had purchased the two parcels of land necessary for the construction of the two buildings; (iii) the Appellant had the buildings constructed by Tremtar, a corporation of which he was the sole owner; and (iv) Service LTS Inc. was a corporation owned by him (75%) and his spouse (25%). Mr. Tremblay also explained that the lease between the Appellant and Service LTS Inc. pertained to vacant apartments, and that Service LTS Inc. furnished those apartments so that they could be leased, fully furnished and equipped, to incident victims. Service LTS Inc. signed leases with the incident victims, not the insurers, but the insurers paid the rent costs.
+[5] The leases described above at subparagraphs 3(g) and 3(h) were adduced in evidence (as Exhibits I‑2 and I‑3) along with the rental agreements between Service LTS Inc. and the incident victims in relation to the complexes concerned (a series of documents forming Exhibit I-4). The following excerpt from these rental agreements is very telling:
+[TRANSLATION]
+The Lessee retains the services of Service LTS Inc. (the Lessor) as a provider of a temporary dwelling for the duration of the post-incident restoration and construction work done at the Lessee’s residence, and agrees to pay the Rent stipulated herein.
+[6] Former lessees also testified about the circumstances under which they occupied an apartment rented from Service LTS Inc.
+Analysis
+[7] The Appellant submits that the first use in 2005 of the complexes in respect of which it claimed new residential rental property rebates was long-term residential housing, not short‑term or temporary residential housing, even though the terms of the incident victims' leases varied from one month to 12 months.
+[8] The Appellant submits that the concept of "qualifying residential unit", as defined in section 256.2 of the ETA, does not require that the dwelling be occupied by a single individual throughout the year. In the Appellant's submission, the residential complex can still qualify if several individuals reside in the unit in succession during the year.
+[9] The definition of "qualifying residential unit" is contained in subsection 256.2(1) of the ETA, which reads as follows:
+256.2 Definitions − (1) The definitions in this subsection apply in this section.
+"qualifying residential unit" of a person, at a particular time, means
+(a) a residential unit of which, at or immediately before the particular time, the person is the owner, a co-owner, a lessee or a sub-lessee or has possession as purchaser under an agreement of purchase and sale, or a residential unit that is situated in a residential complex of which the person is, at or immediately before the particular time, a lessee or a sub-lessee, where
+(i) at the particular time, the unit is a self-contained residence,
+(ii) the person holds the unit
+(A) for the purpose of making exempt supplies of the unit that are included in section 5.1, 6, 6.1 or 7 of Part I of Schedule V, or
+(B) if the complex in which the unit is situated includes one or more other residential units that would be qualifying residential units of the person without regard to this clause, for use as the primary place of residence of the person,
+(iii) it is the case, or can reasonably be expected by the person at the particular time to be the case, that the first use of the unit is or will be
+(A) as the primary place of residence of the person or a relation of the person, or of a lessor of the complex or a relation of that lessor, for a period of at least one year or for a shorter period where the next use of the unit after that shorter period is as described in clause (B), or
+(B) as a place of residence of individuals, each of whom is given continuous occupancy of the unit, under one or more leases, for a period, throughout which the unit is used as the primary place of residence of that individual, of at least one year or for a shorter period ending when
+(I) the unit is sold to a recipient who acquires the unit for use as the primary place of residence of the recipient or of a relation of the recipient, or
+(II) the unit is taken for use as the primary place of residence of the person or a relation of the person or of a lessor of the complex or a relation of that lessor, and
+(iv) except where subclause (iii)(B)(II) applies, if, at the particular time, the person intends that, after the unit is used as described in subparagraph (iii), the person will occupy it for the person’s own use or the person will supply it by way of lease as a place of residence or lodging for an individual who is a relation, shareholder, member or partner of, or not dealing at arm’s length with, the person, the person can reasonably expect that the unit will be the primary place of residence of the person or of that individual; or
+(b) a prescribed residential unit of the person.
+[10] The definition of "qualifying residential unit" refers to the qualifying residential unit of a person. The person in question in the case at bar is the person who claimed the tax rebates, that is to say, the Appellant in its capacity as the builder of multiple‑unit buildings and dwellings. The Appellant was required to pay the taxes under the self-assessment provisions, and the taxes were due when the first unit in each complex was rented. In the instant case, all the units in each complex were rented to Service LTS Inc.
+[11] Following the signature of the leases with the Appellant, Service LTS Inc. took possession of the units and furnished them so that they could be rented out to incident victims fully equipped. Thus, the first use of the units was not as a place of residence of individuals, each of whom is given continuous occupancy of the unit, under one or more leases, for a period of at least one year, throughout which the unit is used as the primary place of residence of that individual, as required by subparagraph 256.2(1)(a)(iii) of the ETA.
+[12] In addition, given the facts adduced in evidence, there is no reason to believe that the first use of the units concerned was to serve as primary place of residence for Service LTS Inc., a relation with whom the Appellant was not dealing at arm's length.
+[13] The arguments above are sufficient to dismiss the appeal, but I will nonetheless consider the Appellant's argument that Service LTS Inc. was not the first user of the residential units. In order for the Appellant to succeed, it would have to show that the residential units in each rental property substantially all served (i.e., 90% or more) as the primary place of residence of individuals who were given continuous occupancy of each unit, under one or more leases, for a period of one year.
+[14] In other words, in order to be entitled to a tax rebate in respect of its multiple-unit residential complexes, the Appellant must show that all the lessees were given continuous occupancy under one or more leases during the first year of use of each unit, throughout which the unit was used as a primary place of residence of each lessee.
+[15] Obviously, the Appellant was unable to make this demonstration in respect of the seven units. On the contrary, the Respondent's witnesses asserted that the units that they occupied were not their primary places of residence, and that they never intended for them to be their primary places of residence.
+[16] Most of the units in the complexes were first used by incident victims who lived in them temporarily for one month to six months as they waited for their primary places of residence to be restored to their normal condition. This is consistent with the purpose of the rental agreements entered into by Service LTS Inc.
+[17] The phrase "primary place of residence" is not defined in the ETA. GST/HST Policy Statement P‑228, issued on March 30, 1999, sets out the position of the Canada Customs and Revenue Agency ("the Agency") in this regard. It states that the question whether a unit is a "primary place of residence" is a question of fact, determined on a case-by-case analysis (page 1, paragraph 2). It also states that the criteria indicative of a primary place of residence are as follows:
+- mailing address;
+- income tax (forms or returns);
+- voting;
+- municipal/school taxes; and
+- telephone listing.
+[18] Under the wording of section 256.2 of the ETA, an individual can possess no more than one primary place of residence. If the individual has more than one place of residence, the individual's more important one must be determined based on factual criteria. The criteria taken into account by the Agency in determining the primary place of residence, as developed in the aforementioned Policy Statement, strike me as reasonable but not exhaustive. Other indicia can be relied upon, such as the current primary place of residence being put up for sale or its lease being cancelled; changes of address; moving arrangements; and whether or not the individual intends to return to his or her current primary place of residence.
+[19] The Appellant's evidence has not satisfied me that each unit in the two complexes in issue was occupied continuously by lessees, during the first year of use, as their primary place of residence.
+[20] Consequently, the appeal is dismissed.
+Signed at Montréal, Quebec, this 18th day of July 2008.
+"Réal Favreau"
+Favreau J.
+Translation certified true
+on this 5th day of September 2008.
+Susan Deichert, Reviser
+CITATION: 2008 TCC 423
+COURT FILE NO.: 2007-3856(GST)I
+STYLE OF CAUSE: Fiducie Chry-Ca v. Her Majesty the Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: April 3, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Réal Favreau
+DATE OF JUDGMENT: July 18, 2008
+APPEARANCES:
+Counsel for the Appellant:
+Rémi Tremblay
+Counsel for the Respondent:
+Brigitte Landry
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

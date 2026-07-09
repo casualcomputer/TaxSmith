@@ -1,0 +1,235 @@
+---
+title: "Courchesne c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27078/index.do"
+last_modified: "2003-04-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 196"
+citation2: ""
+neutral_citation: "2003 CCI 196"
+decision_date: "2003-04-04"
+language: "fr"
+item_id: "27078"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 948
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:19:46.262000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "df618565aa077b3193547c49470e8684944c55cb71b0655db48a5a022d14af0f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Courchesne c. La Reine
+
+- Citation: 2003 CCI 196
+- Decision date: 2003-04-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 948, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Courchesne c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-04-04
+Référence neutre
+2003 CCI 196
+Numéro de dossier
+2002-2970(IT)I
+Juges et Officiers taxateurs
+Alain Tardif
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2970(IT)I
+ENTRE :
+GASTON COURCHESNE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 19 février 2003 à Trois-Rivières (Québec)
+Devant : L'honorable juge Alain Tardif
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocate de l'intimée :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT MODIFIÉ
+(Le texte du jugement émis le 4 avril 2003 a été modifié,
+et les modifications ont été intégrées dans le texte de ce document)
+L'appel des cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1997 et 1998 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 6e jour de février 2004.
+« Alain Tardif »
+Juge Tardif
+Référence : 2003CCI196
+Date : 20030404
+Dossier : 2002-2970(IT)I
+ENTRE :
+GASTON COURCHESNE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT MODIFIÉS
+Le texte du jugement émis le 4 avril 2003 a été modifié
+et les modifications ont été intégrées dans le texte de ce document
+Le juge Tardif
+[1] Il s'agit d'un appel de cotisations établies pour les années d'imposition 1997 et 1998.
+[2] Pour établir les nouvelles cotisations, l'intimée a pris pour acquis les hypothèses de fait suivantes :
+a) l'appelant a déclaré les revenus suivants pour les années en litige :
+SOURCES DE REVENUS :
+Dividendes imposables
+Revenus de placement
+Pertes locatives nettes
+Autres revenus
+Gains en capital imposables
+Revenu total
+Revenu net
+Revenu imposable
+1997
+71 $
+14 817 $
+(3 498 $)
+274 $
+11 664 $
+11 276 $
+11 276 $
+1998
+282 $
+14 684 $
+(1 386 $)
+94 $
+s/o
+13 674 $
+13 672 $
+13 672 $
+b) l'appelant n'a donc déclaré aucun revenu d'entreprise pour les années en litige;
+c) durant les années en litige, l'appelant opérait seul un foyer pour personnes non autonomes (le « foyer » );
+d) le foyer abritait alors l'appelant, son fils, sa mère et sept (7) personnes non autonomes (les « pensionnaires » ) dont l'âge variait entre 40 et 96 ans et qui lui furent référées par le CLSC et la Régie régionale de la Santé et des Services sociaux;
+e) durant les années en litige, le foyer était situé au 3300 Provencher à Trois-Rivières et fut transféré en 1999 au 2845 de Normanville à Trois-Rivières;
+f) en tout temps pertinent, la résidence personnelle de l'appelant occupait le tiers de l'immeuble situé au 3300 Provencher, le foyer en occupait un autre tiers et le reste était loué;
+g) les revenus bruts de location pour les années d'imposition 1997 et 1998 étaient respectivement de 7 320 $ et de 8 125 $;
+h) selon l'appelant, il n'a aucune source de revenus non imposables, autre que le foyer, et il affirme n'avoir reçu aucun héritage et n'avoir rien gagné à la loterie;
+LIVRES ET REGISTRES :
+i) en tout temps pertinent, l'appelant ne maintenait aucune tenue de livres pour le foyer ni pour ses immeubles locatifs;
+AVOIR NET :
+j) compte tenu des faits ci-haut mentionnés, le vérificateur de l'ADRC a procédé par la méthode « d'Avoir net » pour vérifier les revenus de l'appelant;
+k) un écart entre les revenus déclarés par l'appelant et ceux établis par la méthode « d'Avoir net » s'est élevé aux montants respectifs de 36 249 $ et de 31 365 $ pour les années d'imposition 1997 et 1998;
+(l'analyse de l'écart selon la méthode « d'Avoir net » se trouve sous la rubrique intitulée « annexe »
+ACTIFS ET PASSIFS :
+l) l'appelant n'a déclaré aucun autre actif immobilier durant la période en litige et il prétend qu'il n'en a disposé d'aucun;
+m) durant les années en litige, l'appelant n'avait aucun prêt personnel à rembourser ou à recevoir et ne détenait aucune carte de crédit;
+n) il avait cependant pendant cette période, des prêts hypothécaires avec les Caisses Populaires St-Sacrement et St-Odilon;
+DÉPENSES ET REVENUS DU FOYER :
+o) l'appelant se dit incapable d'estimer combien il lui en coûte en épicerie pour nourrir dix personnes;
+p) Statistiques Canada estime qu'il en coûte 5 901 $ par année pour nourrir deux adultes de moins de 45 ans, l'ADRC, en tenant compte de l'âge des pensionnaires, a estimé qu'un montant de 2 950 $ par année serait un montant minimum (50 % des données de Statistiques Canada);
+q) le vérificateur de l'ADRC a réduit de 50 % les dépenses personnelles liées à l'immeuble de la rue Provencher et a également réduit de 50 % les dépenses personnelles liées à l'automobile de l'appelant afin de tenir compte de l'usage non-personnel de ces biens;
+r) dans le calcul de l'Avoir net le vérificateur de l'ADRC a tenu compte des dépenses personnelles appuyées par des pièces justificatives, notamment les relevés bancaires de l'appelant;
+s) l'appelant prétend n'avoir aucun employé et selon lui, il prépare lui-même la nourriture, fait le ménage, donne les soins nécessaires aux pensionnaires, fait la buanderie, etc.;
+t) le fils de l'appelant (Jonathan âgé de 23 ans en 1999) vivait avec lui durant les années en litige et l'appelant subvenait à ses besoins;
+u) selon l'appelant, Jonathan n'avait aucun revenu durant les années en litige, n'était pas aux études et ne lui versait aucune pension;
+v) selon l'appelant, sa mère (Germaine Prince âgée de 84 ans en 1999) vivait avec lui depuis juillet 1996 et elle ne lui payait aucune pension durant les années en litige;
+w) selon l'appelant, sa mère lui faisait un cadeau en argent en fin d'année pour le remercier mais il n'a pas voulu mentionner le montant de ces cadeaux;
+REVENUS IMPOSABLES ET REVENUS NON-IMPOSABLES :
+x) le vérificateur de l'ADRC a déterminé que l'appelant ne répondait pas au critère du sous-alinéa 81(1)h)(ii) de la Loi de l'impôt sur le revenu, L.R.C.(1985), ch. 1(5e suppl.), modifiée (ci-après la « Loi » );
+y) le vérificateur de l'ADRC a ainsi déterminé que les revenus provenant du foyer étaient imposables dans les mains de l'appelant;
+z) au niveau des Oppositions, il faut déterminer que les pensionnaires habitaient au lieu principal du contribuable et que certains revenus provenant de l'exploitation du foyer étaient exclus du calcul du revenu de l'appelant aux fins de l'alinéa 81(1)h) de la Loi;
+aa) puisque le revenu net d'entreprise de l'appelant a été calculé selon l'écart obtenu par la méthode de l'Avoir net, l'agent des Oppositions a établi un nouveau revenu net d'entreprise imposable selon une proportion du revenu brut d'entreprise imposable sur le revenu brut d'entreprise total (imposable et non imposable) afin de tenir compte des dépenses non déductibles reliées aux revenus non imposables;
+bb) les revenus imposables et non-imposables ont été calculés ainsi :
+REVENU BRUT D'ENTREPRISE NON-IMPOSABLE :
+Versements reçus du CLSC
+Pension réputée payée avec le
+supplément de revenu garanti
+Total
+1997
+25 942 $
+8 465 $
+34 407 $ (44%)
+1998
+24 271 $ Annexe C
+8 753 $ Annexe A,B
+33 024 $ (43%)
+REVENU BRUT D'ENTREPRISE TOTAL (Annexe C) :
+Revenu brut d'entreprise imposable
+Revenu brut d'entreprise non imposable
+Total de revenu brut d'entreprise
+1997
+43 487 $ 56%
+34 407 $ 44%
+77 894 $ 100%
+1998
+43 095 $ 57%
+33 024 $ 43%
+76 119 $ 100%
+REVENU NET D'ENTREPRISE :
+Revenu brut d'entreprise non imposable
+Revenu brut d'entreprise imposable
+Revenu net d'entreprise selon l'écart de l'Avoir net, établi lors de la vérification
+1997
+15 950 $ 44%
+20 299 $ 56%
+36 249 $ 100%
+1998
+13 487 $ 43%
+17 878 $ 57%
+31 365 $ 100%
+cc) lorsqu'il a émis des avis de nouvelle cotisation en date du 25 avril 2002, le Ministre a donc réduit le revenu net d'entreprise de l'appelant de 15 950 $ pour l'année d'imposition 1997 et de 13 487$ pour l'année d'imposition 1998 afin de tenir compte du revenu net d'entreprise non-imposable.
+[3] La question en litige consiste à déterminer si le ministre du Revenu national est justifié de considérer comme du revenu non déclaré par l'appelant, les sommes respectives de 20 299 $ et 17 878 $ calculées selon la méthode de « l'Avoir net » , pour les années d'imposition 1997 et 1998.
+[4] Après l'assermentation de l'appelant, je lui ai longuement expliqué qu'il devait démontrer le bien-fondé de ses prétentions. Les avis de cotisations étant présumés bien fondés, j'ai indiqué à l'appelant qu'il devait, par son témoignage, possiblement par celui de d'autres personnes et par la production des documents pertinents, soumettre une preuve prépondérante que les avis de cotisations étaient injustifiés en tout ou en partie.
+[5] Pour relever un tel fardeau de preuve, seul l'appelant a témoigné d'une manière très générale. Son témoignage n'a jamais discrédité ou mis en doute la qualité du travail et de l'analyse desquels ont résulté les avis de cotisations.
+[6] L'appelant a essentiellement fait valoir que les revenus émanant de la garde de neuf (9) personnes, qui lui étaient confiées par le biais d'une entente avec le CLSC et la Régie régionale de la Santé et des Services sociaux, n'étaient pas imposables; il a également soumis qu'il était un homme très économe préférant utiliser ses revenus de placement pour améliorer les lieux occupés par les personnes qu'on lui avait confiées que de dépenser pour l'achat de biens de consommation, telles les voitures.
+[7] Il n'a jamais attaqué ou discrédité la qualité du travail de l'intimée, ni mis en doute l'exactitude des faits pris pour acquis.
+[8] Il s'est limité à exprimer son désaccord quant au bien-fondé des cotisations en faisant valoir des explications et des arguments sans effet sur la qualité des cotisations.
+[9] Je ne doute pas que l'appelant ait accompli un travail de qualité dans un domaine particulier très exigeant et combien essentiel pour la société. Ce sont là des éléments rendant son dossier fort sympathique mais, malheureusement, le Tribunal doit essentiellement décider si les cotisations, dont il fait appel, étaient justifiées ou non.
+[10] Pour faire une telle appréciation, il était indispensable pour l'appelant de soumettre une preuve adéquate démontrant que les cotisations étaient injustifiées et que ses prétentions à l'effet qu'il n'y aurait pas dû y avoir de cotisations étaient justifiées. L'appelant n'ayant soumis aucune preuve ou même de début de preuve à cet effet, son appel doit être rejeté.
+Signé à Ottawa, Canada, ce 6e jour de février 2004.
+« Alain Tardif »
+Juge Tardif
+RÉFÉRENCE :
+2003CCI196
+No DU DOSSIER DE LA COUR :
+2002-2970(IT)I
+INTITULÉ DE LA CAUSE :
+Gaston Courchesne et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Trois-Rivières (Québec)
+DATE DE L'AUDIENCE :
+Le 19 février 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Alain Tardif
+DATE DU JUGEMENT :
+le 6 février 2004
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimée :
+Me Stéphanie Côté
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant :
+Nom :
+Étude :
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

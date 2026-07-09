@@ -1,0 +1,147 @@
+Title: Porter c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29796/index.do
+Corpus path: corpus/cases/tcc/2010/2010-cci-251-29796-porter-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2010-05-06
+
+# Porter c. La Reine
+
+- Citation: 2010 CCI 251
+- Decision date: 2010-05-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6602, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Porter c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-05-06
+Référence neutre
+2010 CCI 251
+Numéro de dossier
+2009-3558(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3558(IT)I
+ENTRE :
+JENNIFER D. PORTER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+________________________________________________________________
+Appel entendu le 26 mars 2010, à Calgary (Alberta).
+Devant : L'honorable juge Wyman W. Webb
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Robert Neilson
+________________________________________________________________
+JUGEMENT
+L'appel interjeté à l'égard de la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2007 de l'appelante est rejeté, sans dépens.
+Signé à Toronto (Ontario), ce 6e jour de mai 2010.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 28e jour de juin 2010.
+Yves Bellefeuille, réviseur
+Référence : 2010 CCI 251
+Date : 20100506
+Dossier : 2009-3558(IT)I
+ENTRE :
+JENNIFER D. PORTER,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question en litige dans le présent appel est celle de savoir si l'appelante peut invoquer le moyen de défense de la diligence raisonnable à l'encontre d'une pénalité imposée en application du paragraphe 163(1) de la Loi de l'impôt sur le revenu relativement à un revenu d'emploi de 16 807 $ qu'elle a omis de déclarer dans la déclaration de revenus qu'elle a produite pour 2007. Ce paragraphe est ainsi rédigé :
+163(1) Toute personne qui ne déclare pas un montant à inclure dans le calcul de son revenu dans une déclaration produite conformément à l'article 150 pour une année d'imposition donnée et qui a déjà omis de déclarer un tel montant dans une telle déclaration pour une des trois années d'imposition précédentes est passible d'une pénalité égale à 10 % du montant à inclure dans le calcul de son revenu dans une telle déclaration, sauf si elle est passible d'une pénalité en application du paragraphe (2) sur ce montant.
+[2] La pénalité prévue au paragraphe 163(1) de la Loi de l'impôt sur le revenu est imposée à la personne qui omet de déclarer dans la déclaration de revenus qu'elle produit pour une année donnée un revenu qui aurait dû être inclus dans sa déclaration de revenus, si elle a également omis de déclarer un revenu qui aurait dû être inclus dans une déclaration de revenus qui a été produite pour une des trois années précédentes. Selon moi, les mots « dans une déclaration produite conformément à l'article 150 » signifient que les conditions pour l'imposition de la pénalité sont réunies (sous réserve de la possibilité d'invoquer le moyen de défense de la diligence raisonnable) si un revenu n'est pas inclus dans une déclaration de revenus produite par un contribuable. Par conséquent, il ne suffirait pas pour un contribuable qui est un employé et qui omet de déclarer un revenu d'emploi dans sa déclaration de revenus de simplement dire qu'un revenu d'emploi a été déclaré par son employeur lorsque ce dernier a établi les feuillets T4. Lorsque l'employeur établit ces feuillets, le montant est déclaré par l'employeur et non l'employé. La pénalité est imposée à la personne qui omet de déclarer un revenu dans sa déclaration de revenus et qui, en l'espèce, est l'employé.
+[3] Il ne faut pas oublier que le revenu d'une personne est également utilisé pour déterminer son admissibilité au crédit pour taxe sur les produits et services, le montant du crédit qui sera payé à la personne ainsi que d'autres montants auxquels cette personne peut avoir droit (par exemple, le cas échéant, la prestation fiscale canadienne pour enfants). Dans un régime d'autodéclaration, il est important que chaque personne déclare tous ses revenus. Comme le juge Woods l'a indiqué dans Saunders c. La Reine, 2006 CCI 51 :
+[15] [...] Le législateur a choisi d'adopter le paragraphe 163(1) pour garantir l'intégrité du régime d'autodéclaration du Canada. [...]
+[4] La pénalité est imposée si une personne a omis de déclarer un revenu dans la déclaration de revenus qu'elle a produite pour une année donnée et si elle a également omis de déclarer un revenu dans une des déclarations de revenus qui ont été produites pour les trois années d'imposition précédentes. Par conséquent, la personne doit avoir omis de déclarer un revenu plus d'une fois au cours d'une période de quatre ans.
+[5] En l'espèce, les deux années où l'appelante n'a pas inclus un revenu dans ses déclarations de revenus sont 2006 et 2007, et il n'est pas contesté en l'espèce que l'appelante a omis de déclarer une partie de son revenu d'emploi dans la déclaration de revenus qu'elle a produite pour 2006 et un revenu d'emploi de 16 807 $ dans la déclaration de revenus qu'elle a produite pour 2007.
+[6] Les montants qui ont été omis de la déclaration de revenus de l'appelante pour 2006, mais qui étaient inscrits sur les feuillets T4 remis à l'appelante, selon les dossiers de l'Agence du revenu du Canada, sont les suivants :
+Silverbirch No. 4 Operations Limited
+283,92 $
+501874 Alberta Ltd.
+75,40 $
+819887 Ontario Inc.
+4 405,00 $
+Total :
+4 764,32 $
+[7] Dans son avis d'appel, l'appelante a indiqué qu'elle ignorait tout à fait avoir travaillé pour ces sociétés en 2006. Au cours de l'audience, l'avocat de l'intimée a produit des documents démontrant que 819887 Ontario Inc. menait ses activités sous la raison sociale Warren Youth Services, et l'appelante a reconnu qu'elle avait travaillé pour Warren Youth Services. Il semble donc clair qu'il y avait un revenu d'emploi d'au moins 4 405 $ (soit le montant inscrit sur le feuillet T4 que Warren Youth Services a remis à l'appelante pour 2006) que l'appelante avait gagné en 2006 et qui n'était pas inclus dans sa déclaration de revenus pour 2006. Il s'agit d'un important revenu pour l'appelante. Selon les dossiers de l'Agence du revenu du Canada, cinq feuillets T4 ont été remis à l'appelante pour 2006. Ils font état des revenus suivants :
+WestJet
+6 434,29 $
+1202232 Alberta Ltd.
+8 847,00 $
+Silverbirch No. 4 Operations Limited
+283,92 $
+501874 Alberta Ltd.
+75,40 $
+819887 Ontario Inc.
+4 405,00 $
+Total :
+20 045,61 $
+[8] Selon ces feuillets T4, le montant de 4 405 $ — celui qui est inscrit sur le feuillet T4 remis par Warren Youth Services (819887 Ontario Inc.) — représentait 22 % du revenu total de l'appelante pour 2006 et 29 % des revenus d'emploi qu'elle a déclarés pour 2006. Dans la déclaration de revenus qu'elle a produite pour 2006, l'appelante a déclaré des revenus d'emploi totalisant 15 281,58 $.
+[9] En 2007, l'appelante a travaillé pour WestJet toute l'année. Elle a travaillé à un centre d'appels pendant une partie de l'année, puis comme agent de bord durant le reste de l'année. WestJet lui a remis deux feuillets T4 pour 2007 — le premier faisant état d'un revenu de 8 560,09 $ et le deuxième d'un revenu de 16 816,36 $. Dans sa déclaration de revenus pour 2007, l'appelante a déclaré un revenu d'emploi total de 20 343,70 $, ce qui excédait de 9,26 $ les montants inscrits sur les feuillets T4 qu'elle avait annexés à sa déclaration de revenus. L'appelante avait joint les feuillets T4 faisant état des montants suivants à sa déclaration de revenus :
+WestJet
+8 560,09 $
+Province de l'Alberta
+9 526,35 $
+Central Alberta's Safe Harbour Society
+2 248,00 $
+Total :
+20 334,44 $
+[10] L'appelante n'a pas annexé à sa déclaration de revenus le deuxième feuillet T4 faisant état du montant de 16 816,36 $ qu'elle avait reçu de WestJet et elle n'a pas inclus le revenu inscrit sur ce feuillet T4 dans les revenus qu'elle a déclarés pour 2007. Cependant, puisque le revenu d'emploi qu'elle a déclaré dépassait de 9,26 $ les montants inscrits sur les feuillets T4 mentionnés ci‑dessus, le revenu non déclaré s'élevait à 16 807,10 $ (16 816,36 $ - 9,26 $).
+[11] La seule explication que l'appelante a fournie pour justifier l'omission des revenus d'emploi non déclarés dans sa déclaration de revenus est qu'elle n'avait pas préparé elle‑même ses déclarations de revenus. Ses déclarations de revenus avaient été préparées par sa mère. Lorsque l'appelante a reçu les feuillets T4, elle n'a pas ouvert l'enveloppe, mais a simplement mis les feuillets T4 dans une autre enveloppe, puis elle les a envoyés à sa mère. Sa mère ne lui a pas posé de questions à propos de ses revenus, et l'appelante n'a pas examiné ses déclarations de revenus avant de les produire. Le montant qu'elle a omis de déclarer pour 2007 est considérable. Les seuls revenus qu'elle a déclarés pour 2007 étaient les revenus d'emploi totalisant 20 343,70 $. Le montant non déclaré de 16 807 $ représentait 83 % du montant qu'elle avait déclaré et 45 % de son revenu total pour 2007, soit 37 151 $.
+[12] Dans Saunders, précité, le juge Woods s'est exprimée de la sorte :
+[12] La pénalité visée par le paragraphe 163(1) est un exemple d'un cas de responsabilité stricte, même si la Cour a déjà jugé que cette pénalité pouvait être annulée si le contribuable réussissait à établir qu'il avait fait preuve de diligence raisonnable. [...]
+[13] Dans Dunlop c. La Reine, 2009 CCI 177, le juge Boyle a répété que la pénalité ne s'applique pas si le contribuable « peut prouver qu'il a montré le niveau requis de diligence raisonnable ».
+[14] Dans Les Résidences Majeau inc. c. La Reine, 2010 CAF 28, une récente décision de la Cour d'appel fédérale, le juge Létourneau, s'exprimant au nom de la Cour d'appel fédérale, s'est prononcé de la façon suivante :
+[7] Quant à la pénalité, nous sommes satisfaits que le juge n'a pas commis d'erreur en la maintenant. Pour y échapper, l'appelante devait établir qu'elle avait fait preuve de diligence raisonnable.
+[8] Selon l'arrêt Corporation de l'école polytechnique c. Canada, 2004 CAF 127, un défendeur bénéficie de la défense de diligence raisonnable s'il établit l'une ou l'autre des deux choses suivantes : soit qu'il a commis une erreur de fait raisonnable, soit qu'il a pris des précautions raisonnables pour empêcher que ne se produise l'évènement qui donne naissance à la pénalité.
+[9] L'erreur de fait raisonnable emporte un double test : subjectif et objectif. Le test subjectif est satisfait si le défendeur établit qu'il s'est mépris en ce qu'il a cru en une situation de fait qui, si elle avait existé, aurait éliminé le caractère fautif de son geste ou de son omission. En outre, pour que cet aspect de la défense opère, il faut aussi que l'erreur soit raisonnable, i.e. une erreur qu'une personne raisonnable placée dans les mêmes circonstances aurait commise. Il s'agit là du test objectif.
+[10] Le deuxième volet de la défense requiert, tel que déjà mentionné, que des gestes soient posés ou des mesures prises pour éviter l'événement qui engendre la pénalité.
+[15] Dans la décision de la Cour d'appel fédérale, il n'est pas fait mention de la pénalité en cause, mais il ressort de la décision[1] dont il a été interjeté appel devant la Cour d'appel fédérale qu'il s'agissait de la pénalité qui, avant le 1er avril 2007, était imposée en vertu de l'article 280 de la Loi sur la taxe d'accise. Il était également possible d'invoquer le moyen de défense de la diligence raisonnable à l'encontre de l'imposition de cette pénalité (voir Pillar Oilfield Projects Ltd. c. La Reine, no 93‑614(GST)I, 19 novembre 1993 (C.C.I.)).
+[16] Il n'y a pas d'erreur de fait raisonnable en l'espèce. Il serait difficile de conclure que l'appelante a fait une erreur de fait raisonnable en supposant que tous ses revenus d'emploi provenant de WestJet étaient inscrits sur le seul feuillet T4 qu'elle a envoyé à sa mère, alors qu'elle n'a même pas ouvert l'enveloppe dans laquelle elle a reçu le feuillet T4, ni examiné sa déclaration de revenus. De même, l'appelante ne peut prouver qu'elle a pris des mesures raisonnables pour éviter les faits qui ont mené à l'imposition de la pénalité. Ces faits sont l'omission de l'appelante d'inclure des revenus dans ses déclarations de revenus pour 2006 et 2007. L'omission de l'appelante d'ouvrir les enveloppes dans lesquelles ses feuillets T4 lui ont été transmis ou d'examiner ses déclarations de revenus prouve qu'elle n'a pas pris des mesures raisonnables pour éviter d'omettre d'inclure les montants non déclarés dans ses déclarations de revenus.
+[17] Par conséquent, l'appel est rejeté, sans dépens.
+Signé à Toronto (Ontario), ce 6e jour de mai 2010.
+« Wyman W. Webb »
+Le juge Webb
+Traduction certifiée conforme
+ce 28e jour de juin 2010.
+Yves Bellefeuille, réviseur
+RÉFÉRENCE : 2010 CCI 251
+No DU DOSSIER DE LA COUR : 2009-3558(IT)I
+INTITULÉ : JENNIFER D. PORTER c. SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Calgary (Alberta)
+DATE DE L'AUDIENCE : Le 26 mars 2010
+MOTIFS DU JUGEMENT : L'honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 6 mai 2010
+COMPARUTIONS :
+Pour l'appelante :
+L'appelante elle-même
+Avocat de l'intimée :
+Me Robert Neilson
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2009 CCI 286.

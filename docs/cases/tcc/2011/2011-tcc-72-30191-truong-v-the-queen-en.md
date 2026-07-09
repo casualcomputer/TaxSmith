@@ -1,0 +1,166 @@
+---
+title: "Truong v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30191/index.do"
+last_modified: "2011-02-07"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 72"
+citation2: ""
+neutral_citation: "2011 TCC 72"
+decision_date: "2011-02-07"
+language: "en"
+item_id: "30191"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7732
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T07:53:18.083000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2f505c048cbae2f046b0437a6156018557ab5f35446c1fadbab06cbb721fcfec"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Truong v. The Queen
+
+- Citation: 2011 TCC 72
+- Decision date: 2011-02-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7732, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Truong v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-02-07
+Neutral citation
+2011 TCC 72
+File numbers
+2009-667(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-667(IT)I
+BETWEEN:
+HI TRUONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on June 28 and November 29, 2010 at Winnipeg, Manitoba
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Melissa Danish
+____________________________________________________________________
+JUDGMENT
+In respect of assessments made under the Income Tax Act for the 2002, 2003, 2004 and 2005 taxation years:
+1. the appeal for the 2002 and 2003 taxation years is dismissed; and
+2. the appeal for the 2004 and 2005 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that income should be reduced by the amounts of $30,968 and $10,967, respectively, and penalties for those taxation years should be vacated.
+Each party shall bear their own costs.
+Signed at Ottawa, Canada this 7th day of February 2011.
+“J. M. Woods”
+Woods J.
+Citation: 2011 TCC 72
+Date: 20110207
+Docket: 2009-667(IT)I
+BETWEEN:
+HI TRUONG,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] This appeal relates to net worth assessments issued to Hi Truong under the Income Tax Act for the 2002, 2003, 2004 and 2005 taxation years. The questions to be decided are: (1) whether income has been properly determined, (2) whether the assessments for the 2002 and 2003 taxation years are statute-barred, and (3) whether gross negligence penalties are appropriate.
+[2] Mr. Truong represented himself at the hearing, with the assistance of an interpreter, and he provided the only testimony on his own behalf. Guy LeBlanc, an auditor from the Canada Revenue Agency (CRA), testified on behalf of the respondent.
+[3] During the relevant period, the appellant was employed on a full-time basis as a casting inspector with Ancast Industries, at an annual remuneration of approximately $40,000.
+[4] An audit of the appellant’s affairs was commenced by the CRA after they received a tip that the appellant was living beyond his means. During the course of their investigation, the CRA determined that the appellant had been arrested in 2005 and convicted of possession for the purpose of trafficking in marijuana. No income had been reported from this activity.
+[5] Based on a net worth analysis of the appellant and his girlfriend, Thua Tran, the appellant was reassessed to include additional income for the 2002 to 2005 taxation years in the amounts of $22,100, $20,504, $30,968, and $10,967, respectively. Federal gross negligence penalties in the amounts of $2,431, $2,324, $3,445, and $1,206 were also assessed.
+Analysis
+[6] I will begin with the observation that it was reasonable for the Minister to undertake a net worth analysis in this case. In light of the drug-related conviction, it is reasonable to expect that the appellant may have earned income that was unreported.
+[7] I would also comment that the CRA’s net worth analysis appears to be conservative and thorough. Unlike many net worth analyzes undertaken by the CRA, estimates were not used to determine personal expenditures. Actual transactions were analyzed based on financial records and land titles searches. The methodology is by no means full proof, but the analysis appears to be meticulous.
+[8] In order to successfully challenge these assessments, the appellant must present detailed and cogent testimony, and supporting evidence where possible, to explain the apparent increases in net worth.
+[9] The same is true for issues on which the Minister bears the burden (penalties and potentially statute-barred years) since it is reasonable to assume that the appellant had unreported income: Lacroix v. The Queen, 2008 FCA 241, 2009 DTC 5029.
+[10] The appellant challenged several aspects of the assessments: (1) the inclusion of his girlfriend’s net worth, (2) the assumption that a property at 1313 Selkirk Ave. was a rental property, (3) the assumption that a property at 6 Cirrus Close was a rental property, (4) the exclusion of loans from relatives, and (5) the exclusion of casino gains.
+[11] Each of these items is considered separately below.
+[12] Before doing so, I would first make a general comment about the appellant’s testimony. Overall, the explanations provided by the appellant were extremely brief, and there was a lack of supporting evidence. In addition, at times the appellant’s testimony was not truthful. For instance, the following excerpt from the transcript reveals that the appellant denied his criminal conviction until he was faced with proof.
+Q […]
+And I understand, Mr. Truong, that you pled guilty to the possession charge, the 5(2) charge, possession for the purposes of trafficking, is that correct?
+A No.
+[…]
+Q You’re saying you did not plead guilty to that charge?
+A (IN ENGLISH) No.
+Q I’m going to show you a copy of a disposition sheet. I’m looking at the second page of that sheet that I have handed you, Mr. Truong. You would agree with me that you pled guilty to the, to possessing for the purposes of trafficking and the Crown stayed the charge under the 7(1) for producing marijuana, is that correct?
+A (IN ENGLISH) Yes.
+[13] Turning to the issues raised by the appellant, the first issue concerns Ms. Tran, the appellant’s girlfriend. The appellant submits that the net worth analysis should exclude Ms. Tran because they were not married and did not live together for much of the assessment period.
+[14] I do not agree.
+[15] First, regardless of whether the appellant and Ms. Tran lived apart or not, they had close connections. Ms. Tran had two daughters, and the appellant admitted that he was the father of at least one of them.
+[16] Second, there was no reasonable explanation as to how Ms. Tran supported herself and her children. The income that she had reported for tax purposes was very modest, less than $50,000 in aggregate for the four taxation years at issue. The appellant only admitted paying for a down payment on their home. There was no explanation given as to how Ms. Tran financed her other personal expenditures.
+[17] In the absence of better evidence explaining how Ms. Tran and her daughters were supported, it is appropriate to include Ms. Tran in the net worth analysis.
+[18] The second issue concerns a property at 1313 Selkirk Avenue, which was registered in the name of Ms. Tran.
+[19] In making the assessments, the Minister assumed that in 2002 the appellant purchased this property as a rental property with a down payment of $15,394 and that in 2005 he sold it at a gain of $8,345.
+[20] The appellant submits that the Selkirk property was Ms. Tran’s home and not a rental property. The appellant admits that he paid the down payment on the property but he testified that he did not pay the mortgage payments or any other expenses associated with the property.
+[21] The evidence as a whole does not convince me that the Minister’s assumptions with respect to the Selkirk property are incorrect.
+[22] First, the evidence presented by the appellant concerning the Selkirk property was very brief. In addition, Ms. Tran had not listed 1313 Selkirk as her address in a 2003 credit application (R-3, Tab 18). Instead, she listed her address as Burrows Avenue (the appellant’s home). Further, as mentioned earlier Ms. Tran’s income does not appear to be sufficient to support herself and her two children in the Selkirk home.
+[23] The next issue concerns a property at 6 Cirrus Close.
+[24] The Minister assumed that this property was held during the audit period as a rental property and that it was sold at a loss of $33,000 in 2004.
+[25] The appellant submits that this property should be excluded from the net worth analysis because he was only holding title to the property and the related mortgage on behalf of a friend who did not have the financial resources to undertake the transaction. He said that he did not pay any of the costs in relation to this property.
+[26] There is some supporting evidence for this testimony.
+[27] In particular, the appellant submitted the solicitor’s reporting letter on the sale of 6 Cirrus Close which provides some support that the property was transferred for consideration equal to the balance outstanding on the mortgage. In addition, I would note that the mailing address for the mortgage statements is 6 Cirrus Close. This supports the appellant’s testimony that the beneficial owners took care of the mortgage payments.
+[28] Although the supporting evidence could be stronger, it is sufficient in my view in the context of an appeal under the informal procedure. Accordingly, the appellant’s version of events in relation to 6 Cirrus Close will be accepted.
+[29] The remaining issue is how this will affect the net worth calculations. The appellant did not make submissions with respect to this.
+[30] The net worth calculations are fairly complex and are contained in two binders comprising 42 tabs. It would be appropriate to make approximate adjustments to the net worth analysis in these circumstances. I did give some thought to referring this matter back to the Minister for recalculation, but I have decided against this in favour of expediency.
+[31] The adjustment that I will make is to reduce income by the amount of the loss that the Minister assumed was incurred on the sale of the property in 2004. This amount, $33,000, was taken into account in the net worth calculations as a personal expenditure in 2004. As such it would have increased the appellant’s income in that year (R-2, Tab 5).
+[32] The next issue relates to loans from relatives. The appellant testified that he received loans from an aunt, uncle and a cousin to assist him with the acquisition of a principal residence at 38 Desna Place.
+[33] There was support provided for the loans from the uncle and aunt in the form of bank drafts issued in 2004 in the amount of $12,000. As for the loan from the cousin, the appellant attempted to introduce a letter from the cousin but I refused to enter it into evidence due to its unreliability.
+[34] I will accept the appellant’s testimony with respect to the bank drafts. The appellant’s income will be reduced by the amount of $12,000.
+[35] The adjustments relating to 6 Cirrus Close and the bank drafts are in aggregate $45,000. Both of these adjustments relate to the 2004 taxation year, in which income was increased by the Minister by only $30,968. Since the adjustments exceed the increase in income, I propose that the balance be applied against the 2005 increase in income in the amount of $10,967. In the result, the additions to income for 2004 and 2005 will be reversed in their entirety. The penalties will also be deleted for those years.
+[36] The appellant also testified that he had gambling wins but he was not able to say how much he won on a net basis. No corroborating evidence was given for this and there is no reasonable basis on which I could conclude that this evidence was reliable. No adjustment will be made to the assessments relating to gambling wins.
+[37] As for the gross negligence penalties and the statute bar issue for 2002 and 2003, I would conclude that the assessments were properly made since no income had been reported from the criminal activity and no satisfactory explanation was provided at the hearing for the increases in net worth in those years.
+[38] In the result, the appeal for the 2002 and 2003 taxation years will be dismissed and the appeal for the 2004 and 2005 taxation years will be allowed.
+[39] The parties shall bear their own costs.
+Signed at Ottawa, Canada this 7th day of February 2011.
+“J. M. Woods”
+Woods J.
+CITATION: 2011 TCC 72
+COURT FILE NO.: 2009-667(IT)I
+STYLE OF CAUSE: HI TRUONG and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Winnipeg, Manitoba
+DATES OF HEARING: June 28 and November 29, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice J. M. Woods
+DATE OF JUDGMENT: February 7, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Melissa Danish
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

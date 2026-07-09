@@ -1,0 +1,166 @@
+Title: Alan W. Cockeram and E. Anne Cockeram Trustees of the Cockeram Family Trust v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25592/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-510-25592-alan-w-cockeram-and-e-anne-cockeram-trustees-of-the-cockeram-family-trust-v-the--en.md
+Document type: case_law
+Last modified: 2003-09-18
+
+# Alan W. Cockeram and E. Anne Cockeram Trustees of the Cockeram Family Trust v. The Queen
+
+- Citation: 2003 TCC 510
+- Decision date: 2003-09-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2088, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Alan W. Cockeram and E. Anne Cockeram Trustees of the Cockeram Family Trust v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-09-18
+Neutral citation
+2003 TCC 510
+File numbers
+2001-3047(IT)G
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Income Tax Act
+Decision Content
+Citation: 2003TCC510
+Date: 20030918
+Docket: 2001-3047(IT)G
+BETWEEN:
+ALAN W. COCKERAM AND E. ANNE COCKERAM, TRUSTEES OF COCKERAM FAMILY TRUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+(Edited from the transcript of Reasons for Judgment delivered orally from the Bench on June 26, 2003 at Saint John, New Brunswick
+Campbell, J.
+[1] The Appellants/Applicants, prior to the hearing of this appeal, have brought an application for summary judgment to allow the appeal.
+[2] For the purposes of this Motion the Respondent admitted the facts which were stated in paragraphs 1 through 6 of the Appellants' Brief on Motion dated March 13th, 2003. Paragraphs 1 through 6 state the following:
+FACTS
+1. The Appellants are the Trustees of the Alan Cockeram Family Trust (the "Trust"). The Appellants received a Notice of Assessment for the Trust for the 1996 Income Tax Year dated May 29, 1997. The Assessment stated that the taxable income of the Trust for 1996 was nil.
+2. A Notice of Reassessment for the Trust for the 1996 Income Tax Year was issued, dated March 17, 2000. The Notice of Reassessment stated the revised taxable income of the Trust for 1996 to be $61,750.00, based on disallowed allocations and designations in the amount of $49,400.00.
+3. The Appellants filed a Notice of Objection to the Reassessment, which was confirmed by the Minister on the basis that:
+The cottage in Maine, US and the investment in Cash Converters have been determined not to be the assets of the Alan Cockeram Family Trust. Therefore, for the purposes of subsection 104(6) of the Income Tax Act, these assets may not be deducted in computing income of a "Trust".
+4. A Notice of Appeal was filed on August 13, 2001, stating that, "The issue to be decided is whether as alleged by the Minister in the Confirmation the Property was not an asset of the Trust."
+5. A Reply was filed by the Respondent on October 17, 2001 (the "Reply"). In the Reply, the Respondent states that:
+The Minister incorrectly reassessed the Family Trust in 1996 to disallow a deduction in the amount of $49,400. The appropriate amount in 1996 was $49,400, the amount deducted by the Family Trust in that year and paid to Anne Cockeram.
+6. The Reply states that the ground relied upon by the Respondent is as follows:
+He respectfully submits that the Family Trust was not entitled to deduct the amount of $49,200 from income in the 1996 taxation year as it did not pay that amount to the beneficiaries and the beneficiaries were not entitled to enforce payment of that amount in that year as required by subsections 104(6) and 104(24) of the Act.
+[3] This motion for summary judgment is brought on the basis that the Respondent has relied upon different grounds in the Reply than those stated in the Notice of Confirmation and that the amount of the assessment itself, has been changed, after the expiry of the normal reassessment period.
+[4] The first issue here is whether summary judgment is available to the Appellants, that is, whether this Court can grant a summary judgment in the circumstances.
+[5] If summary judgment is available to the Appellants, then the issue is whether the Respondent can rely upon the ground as stated in the Reply. The Appellants answer in the negative because they argue that the Respondent is time-barred from making a new argument, or from introducing a new ground, nearly one and one-half years after the expiry of the normal three year period. Therefore, they argue that summary judgment would be the appropriate relief.
+[6] In support of the Appellants' motion the affidavit of Alan W. Cockeram was filed. In that affidavit Mr. Cockeram stated that the basis for confirming the assessment in the Notice of Confirmation, dated May 17th, 2001, was that the amounts were not payable to the beneficiaries because the amounts were derived from property that was not trust property.
+[7] The Appellants, in the Notice of Appeal, based their argument upon the ground which confirmed the assessment as stated in the Notice of Confirmation. The Appellants state that the Reply, dated October 17th, 2001 relied upon a new ground and was filed some four and a half years after the date of the original notice of assessment.
+[8] In the Reply, the Respondent submitted that the Family Trust was not entitled to deductions because the amounts were not paid to the beneficiaries and the beneficiaries were not entitled to enforce payment of those amounts pursuant to subsections 104(6) and 104(24).
+[9] The Appellants argue, therefore, that while the Notice of Confirmation relied on the ground relating to ownership of property, the Reply relied on the ground relating to amounts payable to beneficiaries. They argue that this ground, in the Reply, is entirely different than the basis upon which the assessment was confirmed in the Notice of Confirmation. Since the Respondent is attempting to introduce a new ground, the Appellants argue that the Respondent is time barred from doing so. The Respondent, they argue, is now attempting to advance a new ground after the applicable period has expired.
+[10] Of importance here is whether or not the Respondent's pleadings trigger the application of subsection 152(9) of the Act, which could effectively statute bar the Respondent. Subsection 152(9) states, subject to certain conditions, that the Minister may advance an alternative argument in support of an assessment at any time after the normal reassessment period.
+[11] Associate Chief Judge Bowman in the very recent case of, Loewen v. Canada, [2003] T.C.J. No. 282, provides a comprehensive review and analysis of subsection 152(9). He reviewed marginal notes, case law leading to the enactment of the subsection and the policy behind the section. Judge Bowman concluded that Section 152(9) permits a Respondent to plead new arguments outside the normal reassessment period, provided they support the existing basis for the assessment. It does not allow a Respondent to plead entirely new arguments, outside the normal reassessment period, if those new arguments provide a completely new and different basis for the assessment.
+[12] Specifically, at paragraph 61, page 22 of this decision, Judge Bowman states:
+Subsection 152(9) of the Act does not overrule Continental Bank. It does not sanction the substitution of a wholly different basis of assessment. It permits the Crown to put forward new arguments in support of the existing basis of assessment.
+[13] So let me first address the issue of whether in fact there is any provision in the Tax Court of Canada Act or the Tax Court of Canada Rules (General Procedure) which would allow me to grant summary judgment or the equivalent of summary judgment in the circumstances of this case.
+[14] Neither the Act nor the Rules contain any provision permitting summary judgment. The Appellants state that, because the rules are to be applied liberally, (Rule 4) I have authority to grant this application. Section 171 of the Act clearly establishes how this Court can dispose of an appeal. Section 171 states:
+171. (1) Disposal of appeal - The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[15] Judge Bell, in the case of Thomas Craig Moffat v. Canada, [1994] T.C.J. No. 204 reviewed at some length, not only section 171, but sections 12 and 13 of the Court Act, together with Rule 4. Judge Bell concluded that there is no provision in the Act or the Rules for the equivalent of summary judgment and paraphrased part of his remarks made during the application as follows:
+[17] ... the Courts are controlled by the parameters set out in respective legislation and rules of procedure...
+He went on to conclude that it would be improper for a Court to assume jurisdiction over a matter where no specific provision existed.
+[16] In the Respondent's submissions, counsel argued that Rule 216(1) of the Federal Court Rules specifically provides for summary judgment in that forum and, therefore, as Judge Bell concluded in Moffat: the omission of a similar provision from our rules implies that the avenue of summary judgment is not available for this Court to grant. I believe Respondent may have intended to refer to Rule 432.3 of the Federal Court Rules instead of 216.1. I am limited with library resources here in this city. But regardless of the section numbering, the result for our purposes is that the Tax Court Act and Rules are silent in respect to a remedy of summary judgment. I agree with Respondent's submissions. Since there is no specific provision for summary judgment in this Court, it is simply not available to the Appellants.
+[17] At paragraph 11 of the Respondent submissions, counsel argued that even if summary judgment was available for this Court to grant, it would not be an appropriate case for doing so because the appeal involves questions of fact involving credibility which must be resolved at trial.
+[18] Subsection 58(1) of the Rules allows a party to apply to the Court to determine a question of law, [58(1)(a)], or to strike pleadings when certain conditions are met, [58(1)(b)].
+[19] Respondent counsel referred me to Rules 63 [default judgment and dismissal for delay] and 170.1 (judgments on admissions) and argued that the decision in Kovacevic v. Canada, [2002] T.C.J. No. 384 which permitted a summary judgment application in this Court, fell somewhere within the application of these rules. That case allowed the applicants' application, on the ground that the assessment was never completed by sending a notice to the Appellant.
+[20] While that may have been the case in Kovacevic, I am not making any comments as it regards this matter. I have concluded that there is nothing in the Rules to permit me to grant summary judgment and on the facts and argument presented before me, there is nothing to take this application within any of these other rules or provisions. I simply do not feel I have any authority to dispose of the appeal in the manner proposed in the application.
+[21] In the alternative, Respondent counsel argued that, even if I concluded that summary judgment is available, in the absence of specific rules in this Court governing summary judgment, we must look to the principles enunciated in other courts. Counsel referred me to the Supreme Court case of Guarantee Company of North America v. Gordon Capital Corporation et al., [1999] 3 S.C.R. 423; S.C.J. No. 60 where the test for granting summary judgment was stated as follows at paragraph 27, and I quote:
+The appropriate test to be applied on a motion for summary judgment is satisfied when the applicant has shown that there is no genuine issue of material fact requiring trial, and therefore summary judgment is a proper question for consideration by the court.
+[22] Respondent also referred to several other cases where it was held that the moving party bears the onus of proving on a summary judgment motion that there is no issue for trial. Counsel argued that the issue here, that is, ownership of property, has always been the issue and that evidence was required to establish relevant facts at trial.
+[23] Again, I agree that even if I were able to grant summary judgment, which I have concluded I am not, I do not believe this would be an appropriate case for doing so, as the appeal involves questions of fact that require resolution by means of a hearing.
+[24] The next issue is whether subsection 152(9) has any application here. The primary argument of the Appellants is that the Respondent is time barred from advancing a new basis of argument, after expiry of the normal reassessment period.
+[25] The Respondent's position with respect to Appellants' argument is that both the basis and rationale for the Minister's assessment has not changed, and that there has been no introduction of a new or alternative ground in the Reply.
+[26] In both the Confirmation and the Reply, the subsection relied upon by the Minister was 104(6), which allows deductions in computing income of a trust. In the Notice of Confirmation, the Minister reasoned that amounts were not payable to the beneficiaries because the amounts were derived from property that was not trust property. In the Reply, the Respondent submits that the amounts were not payable to the beneficiaries because subsection 104(24) defines an amount being payable when it is paid in that year to a beneficiary or when the beneficiary is entitled to enforce payment of that amount in the year.
+[27] Respondent, at paragraph 15 of the submissions, provided a summary of the Minister's position and how it had been presented throughout the process. That paragraph states:
+...
+a) The Audit Proposal Letter dated November 10, 1999, referring to the amounts originally in issue, stated: "The Agency's position is that each of these amounts were not paid for the benefit of the beneficiaries";
+Applicants' Brief, Exhibit "C", at p. 4
+b) The Notice of Reassessment dated March 17, 2000 stated that in the 1996 taxation year $49,400 was a "disallowed allocation and designation";
+Applicants' Brief, Exhibit "B", at p. 2
+c) The Notices of Confirmation, issued subsequent to the Applicants' Objection on May 17th, 2001, explained that the Property had been determined not to be an asset of the Family Trust, and as such could not be deducted in computing the Family Trust's income pursuant to subsection 104(6) of the Act; and finally,
+Applicants' Brief, Exhibit "D".
+d) The Reply, dated October 17, 2001 sets out the Minister's assumptions relating to both the acquisition of the Property and the payments made in relation thereto. In the Reply, the Respondent stated that the Family Trust was not entitled to deduct the amount in issue, as it did not pay that amount to the beneficiaries.
+Applicants' Brief, Exhibit "F".
+[28] When I review the wording of the Audit Proposal Letter, the Notice of Reassessment, the Notice of Confirmation and the Reply, there is simply no attempt to advance a new basis for the assessment in the Reply. The case of Continental Bank of Canada v. Canada, [1998] 2 S.C.R. 358 can be distinguished, as a new basis for assessment was advanced based on a different section of the Act. In that case, the Crown was not permitted to raise a new argument. The same can be said of the case of Marina Homes Ltd. v. Canada, [2000] F.C.J. No. 2107, where the Court rejected the Crown's attempt to rely in the alternative on different statutory provisions, which required different assumptions of fact.
+[29] Here, however, there is no attempt to place reliance on new statutory provisions. The sections relied upon have always been subsection 104(2), (6) and (24), and the assumptions of fact upon which the reassessment was based have not changed.
+[30] The wording in the Reply is different from the wording in the Notice of Confirmation, but that does not by itself demonstrate that the entire basis for the reassessment has changed. I agree with Respondent's submissions that whether the money was paid or payable to the beneficiaries of the trust ultimately depends on the central issue of whether the trust owned the property. This is a question of fact and is the basis of the assessment. I do not believe Respondent has argued in the alternative, but even if it can be considered an alternative argument, it is still not a new basis of assessment. Therefore, 152(9) does not apply, and the Respondent is not time barred.
+[31] And finally, the Appellant argued that the Respondent had improperly and unfairly changed the amount of the reassessment thereby prejudicing the Appellants.
+[32] In the case of Loewen, to which I previously referred, Associate Chief Judge Bowman gave examples of what could be a new basis and what would be an alternative argument. Judge Bowman illustrates, through those examples, that if the Respondent is seeking to completely deny deductions, where the Minister has challenged only the amount, that difference would be a new basis.
+[33] In this appeal the amount at issue has not been changed by legal argument. The reassessment amount is slightly different between the Notice of Confirmation and the Reply. Although it is often considered that a new amount is a new basis, (since an assessment is equivalent to the amount of tax liability (Judge Christie in the case of Hagedorn v. The Queen, 95 DTC 288)) I believe that rule should apply only when the Respondent is attempting to increase tax liability. Here the Respondent is seeking to subtract a $200.00 amount, which is less than the amount which the Minister originally assessed.
+[34] Respondent counsel referred to this $200.00 reduction as a clerical error, which was clarified in the Reply in the Appellants' favour. I agree that correcting such errors can in no way constitute an attempt to reassess by changing the amount of the assessment.
+[35] In conclusion, the Appellants∕Applicants' motion is therefore dismissed. The Respondent shall have costs of this motion. An extension of time is granted for the parties to complete examinations for discovery and complete any undertakings from those examinations beyond those set by order of Judge McArthur dated January 22nd of 2003.
+[36] Either I can set those dates today, or the parties ... either party may request a further status telephone conference to deal with those issues. Do counsel have preference?
+Ms. Gallant: I think we'd probably rather just set it today, if I'm not mistaken.
+Ms. Gillis: Yes, today would be fine.
+Madam Justice: I think that would be preferable rather than ... there's a lot of judges on holidays in the summer. It may be difficult to get a status hearing right away.
+So if counsel could look at some dates, I'm agreeable to ... and I will include those in the order.
+Ms. Gillis: I believe for completion of discovery we were looking at mid-August.
+Madam Justice: Madam Registrar, do you have a calendar? Madam Registrar, do you have a calendar?
+The Registrar: No, sorry, Your Honour, I don't.
+Madam Justice: All right. August the 15th then?
+Ms. Gillis: Yes, that would be agreeable.
+Ms. Gallant: What day of the week is that?
+Ms. Gillis: That is a Friday.
+Madam Justice: It's a Friday. And undertakings?
+Ms. Gillis: Three weeks after that should be ... should be sufficient on our part.
+Madam Justice: Do you have a date?
+Ms. Gillis: That's fine.
+Ms. Gallant: Just in case. I mean you know how hard it is to get a hold of some of the information.
+Ms. Gillis: Yeah. So one month after that, Your Honour, would be agreeable.
+Madam Justice: September 15th. Is that a Friday or what day is that?
+Ms. Gillis: September 15th would be a Monday.
+Madam Justice: All right. Those will be included Discoveries to be completed by August 15th, and any undertakings arising from that to be completed by August (sic) the 15th and that will be included in my order then.
+Ms. Gillis: Thank you, Your Honour.
+Madam Justice: All right. Thank you, counsel.
+Signed at Ottawa, Canada, this 18th day of September 2003.
+"Diane Campbell"
+Campbell, J.
+CITATION:
+2003TCC510
+COURT FILE NO.:
+2001-3047(IT)G
+STYLE OF CAUSE:
+Alan W. Cockeram and E. Anne Cockeram, Trustees of Cockeram Family Trust and
+Her Majesty the Queen
+PLACE OF HEARING:
+Saint John, New Brunswick
+DATE OF HEARING:
+June 25, 2003
+REASONS FOR ORDER BY:
+The Honourable
+Justice Diane Campbell
+DATE OF ORAL JUDGMENT:
+June 26, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Nicole L. Gallant
+Counsel for the Respondent:
+V. Lynn W. Gillis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Nicole L. Gallant
+Firm:
+Patterson Palmer
+Saint John, New Brunswick
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

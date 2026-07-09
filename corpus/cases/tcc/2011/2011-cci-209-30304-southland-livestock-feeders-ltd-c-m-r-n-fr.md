@@ -1,0 +1,187 @@
+---
+title: "Southland Livestock Feeders Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30304/index.do"
+last_modified: "2011-04-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 CCI 209"
+citation2: ""
+neutral_citation: "2011 CCI 209"
+decision_date: "2011-04-12"
+language: "fr"
+item_id: "30304"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 8072
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T13:57:16.120000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "14606f2dbd9c629df95494d69ac3cf193bfa7e28493bc2f11c5dc8dbbc90a468"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Southland Livestock Feeders Ltd. c. M.R.N.
+
+- Citation: 2011 CCI 209
+- Decision date: 2011-04-12
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8072, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Southland Livestock Feeders Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2011-04-12
+Référence neutre
+2011 CCI 209
+Numéro de dossier
+2010-2192(CPP)
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2010-2192(CPP)
+ENTRE :
+SOUTHLAND LIVESTOCK FEEDERS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Southland Livestock Feeders Ltd., (2010-2193(EI))
+le 28 mars 2011, à Regina (Saskatchewan)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelante :
+M. Brent Cammer
+Avocate de l’intimé :
+Me Bryn Frape
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté à l’encontre de l’évaluation est accueilli en partant du principe que, en 2007, Walter Penner n’exerçait pas un emploi ouvrant droit à pension au sens de l’alinéa 6(1)a) du Régime de pensions du Canada. La décision du ministre du Revenu national est annulée.
+Signé à Toronto (Ontario), ce 12e jour d’avril 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 28e jour de juin 2011.
+Marie‑Christine Gervais
+Dossier : 2010-2193(EI)
+ENTRE :
+SOUTHLAND LIVESTOCK FEEDERS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Southland Livestock Feeders Ltd., (2010-2192(CPP))
+le 28 mars 2011, à Regina (Saskatchewan)
+Devant : L’honorable juge G. A. Sheridan
+Comparutions :
+Représentant de l’appelante :
+M. Brent Cammer
+Avocate de l’intimé :
+Me Bryn Frape
+____________________________________________________________________
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté à l’encontre de l’évaluation est accueilli en partant du principe que, en 2007, Walter Penner n’exerçait pas un emploi assurable au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi. La décision du ministre du Revenu national est annulée.
+Signé à Ottawa, Canada, ce 12e jour d’avril 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 28e jour de juin 2011.
+Marie‑Christine Gervais
+Référence : 2011CCI209
+Date : 20110412
+Dossiers : 2010-2192(CPP)
+2010-2193(EI)
+ENTRE :
+SOUTHLAND LIVESTOCK FEEDERS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, Southland Livestock Feeders Ltd. (« Southland ») fait appel de la décision du ministre du Revenu national le « ministre » portant qu’en 2007, Walter Penner exerçait un emploi ouvrant droit à pension et assurable au sens de l’alinéa 6(1)a) du Régime de pensions du Canada et de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi, respectivement.
+[2] Un seul témoin a été appelé, soit le directeur de Southland, Brent Cammer. Son témoignage était direct et concis et je n’ai pas de raison d’en douter. Pour les motifs exposés ci-dessous, je suis convaincue que M. Penner a travaillé à titre d’entrepreneur indépendant.
+[3] M. Cammer est propriétaire d’un ranch. En 2007, à titre de directeur de Southland, il exploitait également un parc d’engraissement. Ce genre d’entreprise consiste à engraisser des bovins en vue de leur mise en marché. Le bétail appartient à des tiers qui paient l’exploitant du parc pour ce service. L’une des responsabilités de M. Cammer consistait à surveiller le développement de chaque animal et à ajuster son alimentation afin d’en faire une bête saine et rentable.
+[4] M. Penner avait déjà travaillé dans des parcs d’engraissement. Il était chargé de nourrir les bovins conformément aux instructions de Southland tout en exerçant son jugement pour évaluer l’état de santé du bétail. Pour assurer la prestation de ces services, il se servait des tracteurs, du chariot de mélange des aliments et des vis à grain appartenant à Southland. Il s’occupait aussi de l’entretien et de la réparation du matériel du parc d’engraissement de Southland. Pour ces tâches, il fournissait ses propres instruments de travail. Il pouvait aussi se servir de la soudeuse et du compresseur d’air qui se trouvaient sur les lieux. Southland lui remboursait le coût des pièces de remplacement qu’il achetait.
+[5] Nul ne conteste le fait que M. Penner établissait lui-même son horaire et qu’il effectuait toutes les heures nécessaires à l’accomplissement de ses tâches. Sa charge de travail dépendait du nombre de bovins placés sous sa responsabilité et du temps qu’il faisait; par exemple, pendant les grands gels de janvier, le parc d’engraissement était beaucoup plus en demande qu’en août, lorsque les bêtes avaient accès aux pâturages. Puisqu’il était impossible, quelle que soit la période de l’année, de prévoir le nombre d’heures de travail nécessaire, les parties avaient convenu que M. Penner facturerait le nombre d’heures travaillées à Southland chaque deux mois au taux de 13 $ l’heure[1]. Les exemples de factures déposés devant la Cour indiquent que les heures effectuées par M. Penner allaient de 141 au début de janvier à 75 à la fin d’avril.
+[6] Contrairement à ce que le ministre a présumé, M. Penner n’a pas reçu de formation et n’avait besoin d’aucune supervision. En raison de son expérience et de sa compétence dans le domaine de l’engraissement des bovins, il a suffi de lui faire visiter le parc de Southland pour qu’il puisse se mettre immédiatement au travail.
+[7] Je retiens le témoignage de M. Cammer, qui a déclaré que, lors des négociations M. Penner s’était présenté à Southland comme un travailleur indépendant et qu’il avait insisté pour être payé en argent comptant pour des raisons personnelles qui ne paraissent pas toutes légitimes. Southland a accepté ces conditions et elle n’a donc effectué sur les sommes facturées par M. Penner aucune retenue au titre de l’impôt sur le revenu, des cotisations d’assurance‑emploi et des cotisations au Régime de pensions du Canada (le « RPC »). Elle a produit les reçus des paiements au comptant faits à M. Penner; ceux-ci s’élèvent à 27 000 $.
+[8] En plus de travailler au parc d’engraissement, M. Penner exerçait d’autres activités commerciales, dont l’élevage de chiens de race et de chèvres. Par conséquent, il consacrait environ le tiers de son temps au parc de Southland. S’il n’était pas disponible, Southland devait prendre d’autres dispositions pour nourrir les bovins, ce qui signifiait, concrètement, que M. Cammer s’en occupait personnellement. Quelquefois, M. Penner venait accompagné d’une amie qui l’aidait à faire le travail. M. Cammer n’a pas été en mesure de dire si M. Penner versait une rémunération à cette amie, mais ce qui importe en l’espèce c’est que Southland ne le faisait pas.
+Analyse
+[9] Apparemment, c’est parce que M. Penner a déclaré les gains tirés de son travail à Southland comme étant d’« autres revenus d’emploi » et qu’il n’avait jamais déclaré de revenus d’entreprise par le passé[2] que l’affaire a retenu l’intérêt du ministre. M. Cammer a dit avoir tenté en vain de retrouver M. Penner dans l’espoir de régler ses problèmes avec l’Agence du revenu du Canada. Puisque M. Penner n’a pas témoigné, il incombait à M. Cammer de réfuter les hypothèses de fait sur lesquelles le ministre avait fondé sa décision d’évaluer les cotisations dues par Southland au titre de l’assurance-emploi et du RPC. Or, c’est ce qu’il a fait.
+[10] Pour déterminer si un travailleur est un employé ou un travailleur indépendant, la Cour doit se fonder sur le critère à quatre volets énoncé dans l’arrêt 671122 Ontario Ltd. v. Sagaz Industries Canada Inc.[3] et elle peut aussi, dans certains cas, tenir compte de l’intention des parties; Royal Winnipeg Ballet v. Minister of National Revenue, [2008] 1 C.T.C. 220. Dans le cas qui nous occupe, la preuve se rapportant au critère de Sagaz ne permet pas véritablement de déterminer le statut de M. Penner; à cet égard, l’intention des parties est beaucoup plus utile.
+[11] Tout d’abord, en ce qui concerne les facteurs énoncés dans l’arrêt Sagaz, la preuve relative au degré de contrôle n’est pas forcément conciliable avec l’hypothèse voulant que M. Penner ait eu le statut d’employé. S’il est vrai qu’il était tenu de fournir des services correspondant aux attentes de Southland, celle-ci n’exerçait sur lui aucun « contrôle » au sens où on l’entend normalement. M. Cammer avait des attentes semblables envers les comptables et les avocats de Southland, qui ne sauraient être considérés comme des employés de l’entreprise. Dans les faits, M. Penner pouvait travailler seul de manière efficace, sans avoir reçu de formation et sans supervision, et selon l’horaire qu’il avait choisi pour accomplir ses tâches. Son horaire lui était dicté par les besoins alimentaires des bovins mais, ce fait mis à part, il était libre de travailler pour son propre compte ou pour d’autres et, effectivement, il avait ses propres activités commerciales en plus de travailler à Southland. Pour ce qui est des instruments de travail, Southland et M. Penner fournissaient respectivement le gros équipement et les petits outils nécessaires aux travaux d’entretien et de réparation. Sur cette question, la preuve est neutre, sauf en ce qui concerne l’hypothèse du ministre selon laquelle M. Penner utilisait son propre véhicule pour se rendre au parc d’engraissement de Southland et en revenir. Même en supposant que le ministre a considéré le véhicule comme un « instrument de travail », il faut en conclure que le statut de M. Penner s’apparente plus à celui d’un entrepreneur indépendant qu’à celui d’un employé. En règle générale, c’est lorsque le payeur fournit le transport au travailleur que ce dernier est considéré comme un employé.
+[12] Quant à la possibilité de profit et au risque de perte, la preuve en l’espèce nous incite davantage – ne serait-ce que légèrement – à conclure que M. Penner était un entrepreneur indépendant. Il pouvait, dans une certaine mesure, maximiser ses gains étant donné qu’il exerçait un contrôle sur la manière dont il s’acquittait de ses tâches et sur le moment où il le faisait et qu’il pouvait se faire aider. Aucune preuve n’a permis de dire avec certitude si M. Penner était tenu de compenser les pertes résultant, par exemple, de la mort d’un animal survenue à cause de ses soins, car cela ne s’est jamais produit. Par contre, je peux déduire du témoignage de M. Cammer que si M. Penner avait causé des pertes financières à Southland, il lui aurait fallu, selon toute probabilité, les compenser. Il ne reste qu’à examiner le critère de l’intégration. Il n’est jamais aisé d’appliquer ce critère à une situation concrète et cela est d’autant plus vrai en l’espèce. L’avocate de l’intimé a fait valoir à juste titre qu’il était essentiel, pour l’entreprise de Southland, de nourrir les bovins. Il ne s’ensuit pas pour autant que M. Penner faisait partie intégrante de l’entreprise et qu’il avait le statut d’employé. Dans l’arrêt Wolf c. Canada, 2002 CAF 96, le juge Décary a reconnu que, de nos jours, les tâches essentielles à l’entreprise du payeur sont souvent exécutées par des travailleurs à contrat :
+[120] De nos jours, quand un travailleur décide de garder sa liberté pour pouvoir signer un contrat et en sortir pratiquement quand il le veut, lorsque la personne qui l’embauche ne veut pas avoir de responsabilités envers un travailleur si ce n’est le prix de son travail et lorsque les conditions du contrat et son exécution reflètent cette intention, le contrat devrait en général être qualifié de contrat de service. Si l’on devait mentionner des facteurs particuliers, je nommerais le manque de sécurité d’emploi, le peu d’égard pour les prestations salariales, la liberté de choix et les questions de mobilité.
+[13] En somme, le témoignage de M. Cammer nous pousse à conclure que M. Penner était plutôt un entrepreneur indépendant qu’un employé. Si un doute subsiste, l’intention des parties fait pencher la balance en faveur de Southland. Dans l’arrêt Royal Winnipeg Ballet, la Cour d’appel fédérale a repris d’autres commentaires formulés par le juge Décary dans l’arrêt Wolf :
+Les contribuables peuvent organiser leurs affaires de la façon légale qu’ils désirent. Personne n’a suggéré que M. Wolf ou Canadair ou Kirk-Mayer ne sont pas ce qu’ils disent être ou qu’ils ont arrangé leurs affaires de façon à tromper les autorités fiscales ou qui que ce soit. Lorsqu’un contrat est signé de bonne foi comme un contrat de service et qu’il est exécuté comme tel, l’intention commune des parties est claire et l’examen devrait s’arrêter là. Si ce n’était pas suffisant, il suffit d’ajouter qu’en l’espèce, les circonstances dans lesquelles le contrat a été formé, l’interprétation que lui ont donnée les parties et l’usage dans l’industrie aérospatiale conduisent tous à conclure que M. Wolf n’est pas dans une position de subordination et que Canadair n’est pas dans une position de contrôle[4].
+[14] Le juge Noël, qui a souscrit au résultat, a toutefois nuancé les propos qui précèdent :
+[…] Je reconnais que la façon dont les parties décident de décrire leur relation n’est pas habituellement déterminante, en particulier lorsque les critères juridiques applicables pointent dans l’autre direction. Mais, dans une issue serrée comme en l’espèce, si les facteurs pertinents pointent dans les deux directions avec autant de force, l’intention contractuelle des parties et en particulier leur compréhension mutuelle de la relation ne peuvent être laissées de côté.
+[…]
+Ce n’est pas un cas où les parties qualifiaient leur relation d’une façon telle que cela leur procure un avantage fiscal. Aucune manœuvre frauduleuse ou aucun maquillage de quelque sorte n’est allégué. Il s’ensuit que la manière dont les parties ont pu voir leur entente doit l’emporter à moins qu’elles ne se soient trompées sur la véritable nature de leur relation. À cet égard, la preuve, lorsqu’elle est évaluée à la lumière des critères juridiques pertinents, est pour le moins neutre. Comme les parties ont estimé qu’elles se trouvaient dans une relation d’entrepreneur indépendant et qu’elles ont agi d’une façon conforme à cette relation, je n’estime pas que la juge de la Cour de l’impôt avait le loisir de ne pas tenir compte de cette entente […][5]
+[15] Après avoir procédé à un examen passablement approfondi de ces décisions et de la jurisprudence pertinente, la juge Sharlow a résumé les principes qui s’en dégageaient ainsi que la façon de les appliquer pour déterminer si une personne est un employé ou un entrepreneur indépendant :
+[…] Un de ces principes veut que, lorsqu’il s’agit d’interpréter un contrat, il faut rechercher l’intention commune des parties plutôt que de s’en remettre uniquement au sens littéral des mots utilisés. Un autre principe est que, pour interpréter un contrat, il convient de tenir compte des circonstances dans lesquelles il a été conclu, de l’interprétation que lui ont déjà donnée les parties ou d’autres personnes, ainsi que de l’usage. La conclusion inévitable est qu’il faut toujours examiner les éléments de preuve qui reflètent la façon dont les parties ont compris leur contrat et leur accorder une force probante appropriée[6]. [Non souligné dans l’original.]
+[16] En appliquant ce qui précède aux faits qui nous intéressent, il faut tenir compte du fait que le ministre n’a pas allégué que l’entente entre Southland et M. Penner tenait du subterfuge ou qu’elle avait été conclue dans un but illégitime. Étant donné qu’il s’agissait d’un contrat verbal, on ne peut en dégager les modalités et les circonstances que si le témoignage de M. Cammer à cet égard est véridique. Or, je l’ai mentionné d’entrée de jeu, je n’ai aucune raison de ne pas croire ce dernier sur parole. Il a rendu un témoignage que le contre-interrogatoire n’est pas parvenu à affaiblir. Ayant ainsi laissé plané un doute quant à l’exactitude des hypothèses du ministre, M. Cammer a renvoyé à ce dernier le fardeau de réfuter ses arguments. Or, la Couronne n’a appelé aucun témoin.
+[17] Examinons maintenant les circonstances dans lesquelles cette entente verbale à été conclue. L’entente est intervenue entre deux soigneurs de bovins d’une région d’élevage située au sud-ouest de la Saskatchewan. Les deux parties détenaient l’expérience et les compétences nécessaires au bon fonctionnement d’un parc d’engraissement, elles exploitaient d’autres entreprises et elles disposaient d’un pouvoir de négocier les taux de rétribution et les modalités de prestation par M. Penner de services à Southland à peu près équivalent. À mon sens, s’il y avait déséquilibre en matière de pouvoir de négociation, c’est plutôt Southland qui était désavantagée. Lorsqu’il a expliqué en partie pourquoi il était illogique de demander à M. Penner de fournir lui-même le tracteur, le chariot et les vis à grain, M. Cammer a déclaré qu’il était déjà assez ardu de trouver quelqu’un qui accepte de travailler dans un parc d’engraissement sans qu’il soit nécessaire d’ajouter des conditions onéreuses (et redondantes, puisque de l’équipement identique était déjà présent sur les lieux de travail). Cela laisse supposer que si M. Penner l’avait voulu, il aurait pu négocier afin d’être engagé comme employé; quant à savoir si Southland aurait accepté, c’est là une autre question.
+[18] Les factures que Southland a produites montrent que les parties ont agi conformément à l’entente verbale décrite par M. Cammer. Quant aux faits que le ministre a tenus pour acquis, à savoir que M. Penner avait déclaré les gains tirés de son travail à Southland comme étant d’« autres revenus d’emploi » et non des revenus d’entreprise et qu’il n’avait jamais déclaré de revenus d’entreprise dans le passé, Southland n’a pas à en connaître les raisons et d’ailleurs, cela n’indique pas que M. Penner ne voulait pas travailler comme entrepreneur indépendant. De la même façon, le fait que M. Penner n’était pas inscrit aux fins de la taxe sur les produits et services ne signifie pas qu’il était un employé : en effet, le revenu brut qu’il a tiré de son travail à Southland était inférieur au seuil de revenu rendant l’inscription obligatoire.
+[19] Mais ce qui importe encore plus, puisque l’appel concerne une évaluation pour cotisations non versées au titre de l’assurance-emploi et du RPC, c’est que le ministre s’est intéressé au dossier en raison de la déclaration de revenus produite par M. Penner et non par suite du dépôt d’une demande de prestations d’assurance‑emploi. J’en déduis que M. Penner n’a jamais fait de demande de prestations. Ce constat est d’ailleurs conforme au témoignage de M. Cammer, selon lequel M. Penner se considérait comme un entrepreneur indépendant.
+[20] Compte tenu de l’ensemble des circonstances, je suis convaincue que c’est à titre d’entrepreneur indépendant que M. Penner a travaillé au parc d’engraissement de Southland en 2007. L’appel interjeté à l’encontre de l’évaluation établie par le ministre du Revenu national au titre des cotisations d’assurance‑emploi et des cotisations au Régime de pensions du Canada est accueilli et l’évaluation est annulée.
+Signé à Toronto (Ontario), ce 12e jour d’avril 2011.
+« G. A. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 28e jour de juin 2011.
+Marie‑Christine Gervais
+RÉFÉRENCE : 2011CCI209
+Nos DES DOSSIERS DE LA COUR : 2010-2192(CPP)
+2010-2193(EI)
+INTITULÉ : SOUTHLAND LIVESTOCK FEEDERS LTD. c. M.R.N.
+LIEU DE L’AUDIENCE : Regina (Saskatchewan)
+DATE DE L’AUDIENCE : Le 28 mars 2011
+MOTIFS DU JUGEMENT : L’honorable juge G. A. Sheridan
+DATE DU JUGEMENT : Le 12 avril 2011
+COMPARUTIONS :
+Pour l’appelante :
+M. Brent Cammer
+Avocate de l’intimé :
+Me Bryn Frape
+AVOCATS INSCRITS AU DOSSIER :
+Représentant de l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Pièce A-1.
+[2] Réponse à l’avis d’appel, alinéas 5x) à z).
+[3] [2001] 4 C.T.C. 139.
+[4] Royal Winnipeg Ballet, précité, au paragraphe 51.
+[5] Précité, au paragraphe 52.
+[6] Précité, au paragraphe 60.

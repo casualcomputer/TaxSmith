@@ -1,0 +1,263 @@
+---
+title: "Golini c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/62908/index.do"
+last_modified: "2013-09-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2013 CCI 293"
+citation2: ""
+neutral_citation: "2013 CCI 293"
+decision_date: "2013-09-19"
+language: "fr"
+item_id: "62908"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6071
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:03:20.701000+00:00"
+cases_cited_count: 10
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f5f77dba99d37e7b20b20fe9538fe2add1e55ae2db0a8312ac1475b0388857a6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Golini c. La Reine
+
+- Citation: 2013 CCI 293
+- Decision date: 2013-09-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6071, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Golini c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2013-09-19
+Référence neutre
+2013 CCI 293
+Numéro de dossier
+2013-705(IT)G
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-705(IT)G
+ENTRE :
+PAUL C. GOLINI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+________________________________________________________________
+Requête entendue le 12 septembre 2013, à Toronto (Ontario).
+Devant : L'honorable juge Campbell J. Miller
+Comparutions :
+Avocats de l'appelant :
+Me Geneviève Léveillé
+Me Yves St-Cyr
+Avocats de l'intimée :
+Me Aleksandrs Zemdegs
+Me Marie-Thérèse Boris
+________________________________________________________________
+ORDONNANCE
+VU la requête présentée par l'intimée en vertu de l'article 53 des Règles de la Cour canadienne de l'impôt (procédure générale) en radiation de certains passages de l'avis d'appel modifié de l'appelant.
+LA COUR ORDONNE que les paragraphes 50 à 53, l'alinéa 55a) et les paragraphes 57 à 64 de l'avis d'appel modifié soient radiés.
+Les dépens suivront l'issue de la cause.
+Signé à Ottawa, Canada, ce 19e jour de septembre 2013.
+« Campbell J. Miller »
+Le juge C. Miller
+Traduction certifiée conforme
+ce 27e jour de novembre 2013.
+Yves Bellefeuille, réviseur
+Référence : 2013 CCI 293
+Date : 20130919
+Dossier : 2013-705(IT)G
+ENTRE :
+PAUL C. GOLINI,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge C. Miller
+[1] L'intimée a présenté une requête en vertu de l'article 53 des Règles de la Cour canadienne de l'impôt (procédure générale) en radiation des paragraphes 50, 51, 52, 53, de l'alinéa 55a) et des paragraphes 57 à 64 de l'avis d'appel modifié (les « paragraphes en cause »), joints aux présents motifs à l'annexe A. L'intimée a invoqué le fait que les paragraphes en cause ne révélaient aucun moyen raisonnable d'appel, qu'ils contenaient des allégations qui sont sans pertinence, frivoles ou vexatoires, et qu'ils étaient susceptibles de compromettre ou de retarder l'instruction équitable de l'appel. L'appelant répond que les paragraphes en cause soulèvent une question offrant matière à procès, à savoir la validité des nouvelles cotisations en litige, qu'il est prématuré d'apprécier quelles sont ses chances d'avoir gain de cause sur cette question, et qu'il serait, par conséquent, inapproprié de radier les paragraphes en cause.
+[2] Il convient de retracer une partie de l'historique de la procédure pour saisir la portée des positions respectives des parties. Voici des extraits des observations écrites des parties elles‑mêmes :
+[TRADUCTION]
+Observations écrites de l'appelant
+[...]
+5. Au départ, le ministre du Revenu national (le « ministre ») a établi le montant de la dette fiscale de l'appelant pour l'année d'imposition 2008 le 8 septembre 2009.
+6. En juin 2012, on a informé l'appelant que sa déclaration de revenus personnelle pour l'année d'imposition 2008 ferait l'objet d'une vérification.
+[...]
+Mémoire de l'intimée
+[...]
+7. En juin 2012, on a informé l'appelant que sa déclaration de revenus pour l'année d'imposition 2008 ferait l'objet d'une vérification, et, peu de temps après, l'ARC a demandé à l'appelant de produire un formulaire de renonciation à l'application de la période normale de cotisation pour 2008. L'appelant n'a pas produit ce formulaire.
+[...]
+Observations écrites de l'appelant
+[...]
+7. L'appelant a ensuite collaboré avec l'Agence du revenu du Canada (l'« ARC ») en vue de fournir les renseignements demandés dans la toute première lettre.
+[...]
+Mémoire de l'intimée
+[...]
+10. Le 16 août 2012, l'ARC a proposé d'établir une nouvelle cotisation à l'égard de l'appelant pour 2008 en ajoutant 6 millions de dollars à son revenu, en refusant les frais d'intérêts de 438 626 $ dont il avait demandé la déduction et en lui imposant une pénalité en application du paragraphe 163(2) de la Loi de l'impôt sur le revenu. L'ARC a encore une fois demandé à l'appelant de produire un formulaire de renonciation à l'application de la période normale de cotisation pour 2008.
+11. L'appelant a demandé à l'ARC plus de renseignements au sujet de la nouvelle cotisation proposée, et, par une lettre du 24 août 2012, l'ARC a informé l'appelant de ce qui suit :
+a) le prêt de 6 millions de dollars était un avantage à l'actionnaire ou un paiement indirect au profit de l'appelant qui devait être inclus dans le calcul du revenu de celui‑ci au titre des paragraphes 15(1) et 56(2) de la Loi;
+b) l'ARC a refusé à l'appelant la déduction des intérêts qu'il avait demandée, vu qu'il n'avait payé ni ne devait aucune somme à titre d'intérêts pour l'année en cause;
+c) l'ARC a considéré que le prêt de 6 millions de dollars était un prêt fictif.
+12. L'appelant a alors présenté de nouvelles observations à l'ARC, qui lui a répondu en produisant une troisième lettre de proposition le 31 août 2012, dans laquelle on lui confirmait le refus de déduire les intérêts et on proposait l'inclusion de la somme de 6 millions de dollars dans le calcul de son revenu au titre du paragraphe 84(1) — c'est‑à‑dire un dividende réputé quand on constate une augmentation du capital versé d'une société sans qu'on ait constaté de changement correspondant dans l'actif ou le passif de cette société — puisque le prêt consenti à l'appelant par Metropac était fictif.
+[...]
+Observations écrites de l'appelant
+[...]
+8. La période de cotisation normale à l'égard de l'appelant pour l'année d'imposition 2008 s'est terminée le 8 septembre 2012.
+9. Par un avis de nouvelle cotisation du 7 septembre 2012 (la « nouvelle cotisation »), le ministre a recalculé la dette fiscale de l'appelant, ajoutant dans le calcul du revenu de celui‑ci pour l'année d'imposition 2008 un dividende imposable de 7 500 000 $ et refusant la déduction de frais d'intérêts s'élevant à 438 626 $.
+10. Au début du mois de novembre 2012, l'appelant a reçu, par courrier normal, la nouvelle cotisation.
+[...]
+Mémoire de l'intimée
+[...]
+15. Par avis d'opposition du 13 novembre 2012, l'appelant s'est opposé à la nouvelle cotisation établie à son égard pour 2008. Après avoir signifié son avis d'opposition, l'appelant a demandé les renseignements sur lesquels la nouvelle cotisation était fondée, et on l'a informé que la nouvelle cotisation était une « nouvelle cotisation protectrice » vu que la vérification était en cours.
+16. L'appelant, qui avait attendu 90 jours après la signification de son avis d'opposition, a interjeté appel devant la Cour le 25 février 2013.
+[...]
+Observations écrites de l'appelant
+[...]
+14. Le 25 janvier 2013, l'appelant a demandé, en vertu de la Loi sur la protection des renseignements personnels, la production de tous les documents en la possession de l'ARC qui avaient trait à son année d'imposition 2008, et, plus particulièrement, la production du rapport de vérification.
+15. Par lettre du 31 janvier 2013, l'ARC a confirmé que la déclaration de revenus que l'appelant avait produite pour 2008 faisait l'objet d'un examen par la Division de la vérification de l'ARC, et que les renseignements et les documents sur lesquels la nouvelle cotisation était fondée seraient fournis à l'appelant une fois que l'ARC aurait terminé l'examen de la déclaration de revenus que l'appelant avait produite pour 2008.
+16. Le 25 février 2013, l'appelant a présenté son avis d'appel à la Cour.
+17. Par une lettre du 12 mars 2013, l'ARC a répondu à la demande de l'appelant au titre de la Loi sur la protection des renseignements personnels. L'ARC a refusé de produire le rapport de vérification ou tout autre document sur lequel la nouvelle cotisation était fondée en invoquant le fait que la divulgation de ces documents risquerait vraisemblablement de nuire aux activités destinées à faire respecter les lois fédérales ou au déroulement d'enquêtes licites.
+[...]
+[3] Cet historique est également exposé, en partie, dans l'avis d'appel modifié de l'appelant : les paragraphes 35 à 45 de l'avis d'appel modifié sont joints aux présents motifs, à l'annexe B.
+[4] Il est inutile d'examiner dans les moindres détails le fond de la question en litige en ce qui a trait au bien‑fondé de la cotisation, si ce n'est pour préciser qu'elle porte sur une réorganisation par l'appelant de ses sociétés en 2008.
+[5] Il ressort clairement des paragraphes en cause que l'appelant souhaite remettre en question la validité de la nouvelle cotisation protectrice établie à son égard par le ministre du Revenu national (le « ministre »). L'appelant est d'avis que le ministre a établi une nouvelle cotisation protectrice dans le seul but de disposer du temps nécessaire pour procéder à la vérification, et que cela n'est pas conforme à la procédure correcte telle qu'elle a été définie par la jurisprudence (l'appelant renvoie aux décisions Imperial Oil Limited c. La Reine[1], R. c. Loewen[2], 126632 Canada Ltée c. La Reine[3] et Satin Finish Hardwood Flooring (Ontario) Ltd. c. La Reine[4]). Selon l'appelant, le ministre s'efforce de faire indirectement ce qu'il ne peut pas faire directement, ce qui a ainsi pour effet d'invalider la cotisation.
+[6] L'intimée soutient que la décision rendue par la Cour d'appel fédérale dans l'arrêt Karda c. La Reine[5] rend la position de l'appelant complètement irrecevable, et, si ce n'est pas le cas, l'intimée se fonde sur les décisions Western Minerals Ltd c. M.N.R.[6], R. c. Anchor Pointe Energy Ltd.[7], Imperial Oil et Loewen pour affirmer qu'il n'y a eu aucun vice de procédure qui justifierait d'invalider la cotisation.
+[7] Pour que les paragraphes en cause soient radiés, il doit être absolument évident que le fait de se fonder sur ces paragraphes ne révèle aucune cause d'action raisonnable, qu'invoquer ces paragraphes constitue un exercice absolument futile.
+[8] Il sera utile d'examiner la jurisprudence produite par les avocats afin d'établir quel est exactement l'état du droit relatif à la contestation de la validité d'une cotisation, par opposition au bien‑fondé d'une cotisation. J'apprécierai alors si l'appelant a la moindre chance d'avoir gain de cause en l'espèce. Un bon point de départ est la décision que la Cour d'appel fédérale a récemment rendue dans l'arrêt Ereiser c. La Reine[8], dans lequel elle s'est ainsi exprimée :
+[21] M. Ereiser sollicite de la Cour canadienne de l'impôt l'annulation des nouvelles cotisations faisant l'objet d'un appel. Il s'agit de la mesure appropriée en matière d'appel concernant l'impôt sur le revenu à l'encontre d'une cotisation (y compris une nouvelle cotisation) qui est déclarée non valide ou qui est déclarée infondée. J'emploie le mot « valide » pour désigner la cotisation établie conformément aux dispositions procédurales de la Loi de l'impôt sur le revenu, et les mots « bien fondée » pour désigner une cotisation dans laquelle le montant établi au titre de l'impôt est fondé sur les dispositions applicables de la Loi de l'impôt sur le revenu, interprétées correctement et appliquées aux faits pertinents.
+[22] Parmi les dispositions procédurales de la Loi de l'impôt sur le revenu, il y a les dispositions relatives aux périodes de prescription prévues par la loi. En règle générale, ces dispositions retirent du ministre le pouvoir légal d'établir une cotisation au titre de l'impôt après l'expiration d'une certaine période, période que la Loi de l'impôt sur le revenu définit comme étant la « période normale de cotisation », à moins qu'une exception prévue par la loi ne joue.
+[...]
+[27] Pour comprendre la mission de la Cour canadienne de l'impôt en ce qui a trait aux appels en matière d'impôt sur le revenu, il est utile de commencer par le paragraphe 152(8) de la Loi de l'impôt sur le revenu, qui consacre l'effet juridique d'une cotisation. Ce paragraphe est libellé comme suit :
+152. (8) Sous réserve des modifications qui peuvent y être apportées ou de son annulation lors d'une opposition ou d'un appel fait en vertu de la présente partie et sous réserve d'une nouvelle cotisation, une cotisation est réputée être valide et exécutoire malgré toute erreur, tout vice de forme ou toute omission dans cette cotisation ou dans toute procédure s'y rattachant en vertu de la présente loi.
+152. (8) An assessment shall, subject to being varied or vacated on an objection or appeal under this Part and subject to a reassessment, be deemed to be valid and binding notwithstanding any error, defect or omission in the assessment or in any proceeding under this Act relating thereto.
+[...]
+[31] Vu ces dispositions, notre Cour a statué que la mission de la Cour canadienne de l'impôt lors d'un appel dirigé contre une cotisation d'impôt sur le revenu consistait à déterminer la validité et le bien‑fondé de la cotisation en fonction des dispositions applicables de la Loi de l'impôt sur le revenu et des faits donnant lieu à l'obligation du contribuable prévue par la loi. En toute logique, la conduite du fonctionnaire du fisc qui autorise l'établissement d'une cotisation n'est pas pertinente pour déterminer cette obligation prévue par la loi. Il est évident que la conduite fautive d'un fonctionnaire du fisc n'est pas pertinente quant à la détermination de la validité ou du bien‑fondé de la cotisation. Cela est expliqué dans l'arrêt Roitman, précité, au paragraphe 21 :
+[21] Il est également établi en droit que la Cour canadienne de l'impôt n'a pas compétence pour annuler une cotisation parce qu'elle constitue un abus de procédure ou un abus de pouvoir (voir Main Rehabilitation Co. Ltd. c. La Reine, [2004] A.C.F. no 2030, 2004 CAF 403, paragraphe 6; Obonsawin c. La Reine, 2004 G.T.C. 131 (C.C.I.); Burrow c. Canada, 2005 CCI 761; Hardtke c. Canada, 2005 CCI 263).
+[9] La Cour d'appel fédérale a établi une distinction appropriée entre la validité d'une cotisation d'une part et le bien‑fondé d'une cotisation d'autre part. La Cour est compétente pour examiner ces deux aspects. Il est également clair que la conduite répréhensible d'un fonctionnaire de l'Agence du revenu du Canada (l'« ARC ») n'a aucune incidence sur la validité de la cotisation. En l'espèce, dans l'argumentation de l'appelant, il est question non pas de la conduite répréhensible d'un fonctionnaire de l'ARC, mais simplement du fait que la cotisation protectrice n'a pas été établie conformément à la loi.
+[10] Je me pencherai ensuite sur l'affaire Karda, que j'ai entendue en 2005. Il est utile de répéter une partie de ce que j'ai déclaré dans cette décision, vu qu'il existe d'importantes ressemblances entre les affaires de MM. Karda et Golini :
+[25] L'appelant soutient que la cotisation en date du 2 juin 2000 s'explique uniquement par le refus de M. Karda de signer une renonciation; on lui signifiait ainsi que le gouvernement entendait le priver du bénéfice du délai de prescription de trois ans. L'appelant considère qu'il ne s'agit pas d'une nouvelle cotisation étant donné que le processus ne s'achève qu'avec l'établissement de l'avis de nouvelle cotisation. Il n'y a pas de processus de nouvelle cotisation quand le ministre ne relève même pas d'erreur dans la cotisation précédente. Une nouvelle cotisation qui rejette toutes les déductions demandées par l'appelant à la seule fin de respecter le délai de prescription ne peut pas être considérée comme valide. Avec tout le respect que je dois à l'appelant, je ne partage pas son point de vue.
+[...]
+[27] Dans l'arrêt Provincial Paper Limited v. M.N.R., le président Thorson a déclaré ce qui suit :
+[TRADUCTION]
+[...] Il est donc futile d'essayer de définir ce que le ministre doit faire pour établir une cotisation régulière. Il lui appartient exclusivement de décider de quelle manière, dans une affaire donnée, l'obligation du contribuable doit être déterminée et établie. Il lui appartient de surcroît de déterminer les paramètres de la recherche des faits nécessaire, le cas échéant, lesquels paramètres différeront nécessairement d'une affaire à l'autre.
+Il reste que la principale faiblesse de l'affirmation réside dans l'hypothèse voulant que le ministre n'a pas le droit de déterminer et d'établir l'obligation d'un contribuable en tenant pour acquis l'exactitude présumée de sa déclaration de revenus et qu'il doit faire quelque chose d'autre et que, s'il s'en s'abstient, il n'a donc pas établi de cotisation. Certes, le ministre n'est pas lié par la déclaration de revenus du contribuable, ainsi qu'il est indiqué dans l'arrêt Dezura (précité), mais rien dans la Loi ne l'empêche de la considérer comme exacte et d'établir l'obligation du contribuable en conséquence. Dans l'arrêt Davidson v. The King, (1945) Ex. C.R. 160, à la page 170, j'ai déclaré que, même si la déclaration de revenus du contribuable ne lie pas le ministre, elle peut néanmoins constituer le fondement de la cotisation établie par lui et j'ai indiqué qu'il s'agissait d'une procédure valable étant donné que le contribuable savait mieux que quiconque quel était son revenu.
+Le ministre peut donc décider à bon droit de considérer que la déclaration de revenus d'un contribuable indique le montant exact de son revenu imposable et ne procéder ensuite qu'à une vérification des calculs pour établir son obligation fiscale en conséquence, sans autre examen ni enquête. S'il procède ainsi, on ne peut pas dire qu'il n'a pas établi de cotisation.
+Bien que ces observations aient été formulées relativement à une cotisation plutôt qu'à une nouvelle cotisation, j'estime qu'elles s'appliquent aussi à la nouvelle cotisation, c'est‑à‑dire que le ministre doit faire quelque chose même si ce quelque chose est minime. Me Fitzsimmons, pour le compte de l'appelant, prétend qu'au stade d'une nouvelle cotisation, le ministre doit relever une erreur, sinon le processus ne peut pas être considéré comme valide.
+[28] Qu'a fait le ministre entre les mois de mars et de juin 2000? Il a examiné le dossier, déterminé que des renseignements supplémentaires étaient requis, prié le contribuable de fournir ces renseignements et, faute de réponse, demandé une renonciation, qui lui a été refusée. Le ministre a alors établi l'avis de nouvelle cotisation. Les efforts déployés par l'ADRC débordent largement le cadre d'un examen sommaire. Annuler une nouvelle cotisation au motif que le ministre n'a pas relevé d'erreur dans une nouvelle cotisation précédente dans ces conditions, alors que le contribuable n'a pas fourni les renseignements supplémentaires demandés limiterait considérablement les pouvoirs du ministre.
+[29] Le ministre dispose d'un délai de trois ans pour établir une cotisation à l'égard d'un contribuable (la période est plus longue si les conditions prévues par l'alinéa 152(4)a) sont réunies). Dans la plupart des cas, ce délai devrait être suffisant pour établir une cotisation ou une nouvelle cotisation valide. Le contribuable devrait en outre avoir la certitude qu'une fois ce délai écoulé, à moins qu'il y ait eu présentation erronée des faits de sa part, le gouvernement ne peut réexaminer sa situation fiscale. Il se présentera bien entendu des cas qui prendront plus de temps —, ce que le contribuable et le gouvernement reconnaîtront, et le contribuable acceptera alors avec obligeance de renoncer à l'application du délai de prescription. Dans les cas où, comme en l'espèce, le contribuable refuse de signer une renonciation, deux possibilités s'offrent au gouvernement. Il peut soit établir ce que Me Fitzsimmons appelle une « nouvelle cotisation protectrice » , soit miser sur le fait qu'il est capable de prouver que le contribuable a fait une présentation erronée des faits et établir une nouvelle cotisation après l'expiration du délai de prescription. En établissant la nouvelle cotisation le 2 juin 2000, après de nombreuses tractations avec M. Karda, l'ADRC lui signifiait qu'elle croyait que la cotisation précédente était erronée; cette cotisation contient bel et bien des erreurs, mais faute d'avoir obtenu des renseignements supplémentaires de M. Karda, le ministre est incapable d'être plus précis sur les motifs du rejet des demandes de déduction. Je ne vois rien d'irrégulier dans cette façon de faire qui rendrait la nouvelle cotisation invalide. Il y a eu un examen, des discussions et, compte tenu de l'information reçue, un avis de nouvelle cotisation a été établi avant l'expiration du délai de trois ans. Il s'agit bien d'une nouvelle cotisation valide.
+[11] Dans la décision succincte qu'elle a rendue dans l'affaire Karda, la Cour d'appel fédérale a déclaré ce qui suit :
+[2] L'appelant invoque deux arguments au soutien de son appel. Nous ne trouvons aucun fondement à son premier argument, selon lequel l'avis de nouvelle cotisation du 2 juin 2000 est nul parce qu'il a été établi dans le but de faire échec à la prescription de trois ans. À notre avis, après avoir demandé à l'appelant de fournir des renseignements additionnels sans recevoir de ce dernier les renseignements requis, et après avoir demandé à l'appelant de renoncer à la prescription, ce que ce dernier a refusé, le ministre était tout à fait justifié d'établir une nouvelle cotisation pour préserver ses droits avant l'expiration du délai de trois ans. Nous ne voyons par conséquent aucune erreur dans la conclusion du juge portant que la nouvelle cotisation est valide.
+[12] La Cour d'appel fédérale établit clairement qu'il n'est pas inapproprié que le ministre établisse une cotisation protectrice après avoir demandé à l'appelant de lui communiquer des renseignements, sans résultat, et après avoir demandé à l'appelant de renoncer à la prescription, ce que ce dernier a refusé. Je ne crois pas que cela contredise nécessairement le point de vue que j'ai exprimé lors de l'instruction, selon lequel l'ARC doit au moins faire un examen. Selon ce que laisse entendre l'appelant, c'est cette question qui demeure sans réponse en l'absence d'examen plus poussé. L'appelant soutient que, si le ministre n'a pratiquement rien fait, se contentant d'établir une nouvelle cotisation en supposant les résultats de la vérification, qui n'avait pas été achevée, alors il n'a pas été satisfait à l'exigence selon laquelle un examen minimal doit être mené, et une erreur de procédure a été commise, invalidant ainsi la cotisation.
+[13] Avant de me pencher sur ce point par rapport aux faits qui ont été énoncés dans l'avis d'appel modifié, je vais examiner quelques‑unes des autres décisions qui m'ont été mentionnées.
+[14] Dans l'arrêt de la Cour suprême du Canada Western Minerals, l'appelante prétendait que la cotisation originale était nulle parce que, quand elle avait été établie, après un bref examen de 15 minutes de la déclaration de revenus de la contribuable, il avait été décidé de mener un examen plus poussé à l'égard de cette déclaration. La Cour suprême a déclaré qu'il ne lui appartenait pas d'édicter quel devait être l'examen mené par l'ARC pour que la cotisation soit valide, et, en outre, le juge Martland s'est ainsi exprimé :
+[TRADUCTION]
+[...] Je ne peux pas convenir du fait qu'une cotisation qui serait valide en l'absence de l'intention présente de conduire un examen plus poussé perdrait sa validité dans le cas où elle serait assortie de l'intention présente de conduire un examen plus poussé. Je suis d'avis qu'une cotisation valide peut être établie en dépit du fait qu'on envisage de procéder à un examen plus poussé de la déclaration de revenus. [...]
+[15] Toutefois, l'appelant se fonde sur le commentaire suivant, formulé par l'ancien juge en chef Bowman, dans la décision Satin Finish, pour affirmer qu'il doit exister certaines exigences procédurales exigeant un examen exhaustif sur lequel les hypothèses doivent être fondées :
+[...] Après tout, le ministre du Revenu national a établi une cotisation. On peut présumer que ses fonctionnaires ont fait ce qu'ils avaient à faire. Ils ont dû mener les vastes enquêtes habituelles avant l'établissement de la cotisation, et entendre le point de vue de la contribuable ou de ses représentants. À cette étape, le ministre a dû formuler les « hypothèses » sur lesquelles la cotisation est vraisemblablement fondée. [...]
+En toute déférence, les réflexions de l'ancien juge en chef ne font pas partie du ratio decidendi de la décision, et ne font que prendre acte du fait que le ministre fait un certain examen.
+[16] Dans une autre décision qu'il a rendue et qui a été confirmée par la Cour d'appel fédérale, Imperial Oil, l'ancien juge en chef Bowman a conclu que le ministre était libre de mener des vérifications à l'égard d'un contribuable pendant la période au cours de laquelle un appel est en instance :
+[32] Ni le bon sens ni l'interprétation de la loi ne sauraient justifier la thèse selon laquelle seules peuvent faire l'objet d'une opposition ou d'un appel les cotisations fondées sur une vérification par le ministre du Revenu national ou une cotisation dans laquelle le ministre est arrivé à une conclusion qui contredit la déclaration du contribuable. Si le législateur avait voulu limiter le type de cotisation qui peut faire l'objet d'une opposition ou d'un appel, il aurait été parfaitement capable de l'exprimer. Il serait inopportun de lire la loi de telle façon à lui donner une signification tendue que les termes simples ne portent pas raisonnablement.
+[...]
+[47] Le procureur général du Canada peut traiter des appels alors même que l'ADRC procède à une vérification. L'existence d'un appel en instance ne freine ni ne limite en aucune manière les pouvoirs du ministre en vertu de la Loi de l'impôt sur le revenu.
+[17] Quand elle a confirmé la décision du juge en chef adjoint Bowman, la Cour d'appel fédérale s'est ainsi exprimée :
+[7] Troisièmement, la Couronne prétend que, en s'opposant à la cotisation établie à partir de sa propre déclaration de revenus et en en appelant, le contribuable nuit aux activités de vérification du ministre. Cet argument n'est pas fondé. Le ministre peut procéder à une vérification et établir une nouvelle cotisation dans le délai prescrit même si une opposition ou un appel est en instance. Nous ne croyons pas non plus que le ministre pourrait se voir opposer qu'il y a chose jugée si un redressement après vérification était apporté une fois que la Cour canadienne de l'impôt a entendu un appel relatif à une question dont elle ne pouvait pas être saisie. Le droit du ministre d'établir une nouvelle cotisation dans le délai prescrit par la loi ne peut être ainsi limité. En outre, le principe de la chose jugée offre des garanties inhérentes écartant son application lorsque la justice l'exige dans des circonstances particulières.
+[18] L'appelant laisse entendre que je devrais interpréter les commentaires de la Cour d'appel fédérale comme restreignant les vérifications de l'ARC au délai prescrit pour établir une nouvelle cotisation, et il conclut par conséquent qu'une cotisation qui proroge simplement ce délai est invalide. Je conclus que la déclaration de la Cour d'appel fédérale ne va pas aussi loin; la Cour d'appel fédérale ne s'est pas exprimée sur la situation qui prévaut en l'espèce, où l'appelant a refusé de renoncer à la prescription, alors que toutes les parties étaient bien conscientes du fait qu'une enquête approfondie s'imposait.
+[19] L'appelant m'a également renvoyé à l'arrêt Loewen de la Cour d'appel fédérale, dans lequel elle s'est ainsi exprimée :
+[7] La base d'imposition utilisée pour établir la cotisation est un fait historique; elle est immuable. La base d'imposition — ou fondement — de la nouvelle cotisation comprend normalement tous les faits se rapportant à l'augmentation du revenu imposable du contribuable, tels que le ministre les a perçus lorsqu'il a établi la nouvelle cotisation. Elle comprend aussi la façon dont le ministre a appliqué le droit aux faits de l'espèce lorsqu'il a établi la nouvelle cotisation, ainsi que toute conclusion de droit qui a pu influencer l'application du droit aux faits. [...]
+Encore une fois, le fait que la Cour d'appel fédérale se soit exprimée au sujet de ce que la procédure normale pourrait être ne constitue pas un énoncé de ce que la loi exige.
+[20] Dans l'arrêt Anchor Pointe, la Cour d'appel fédérale s'est penchée sur la question délicate de savoir à qui incombe le fardeau de la preuve lorsque des hypothèses sont formulées lors de la ratification d'une nouvelle cotisation. La Cour d'appel fédérale a néanmoins déclaré ce qui suit :
+[33] Je conviens avec le juge des requêtes que l'appel ne vise pas la ratification de la cotisation. Pour reprendre les mots du juge Hugessen, il vise le produit de cette évaluation : voir aussi la décision Parsons, à la page 814, où le juge Cattanach a affirmé que la « cotisation établie par le Ministre, qui fixe le montant et détermine l'assujettissement à l'impôt, est ce qui fait l'objet de l'appel ». Ce produit renvoie au montant de la dette fiscale initialement établi ou déterminé et ensuite ratifié. De la perspective du processus en soi, l'établissement de la cotisation conformément aux articles 152 à 165 n'est pas terminé tant que le ministre n'a pas déterminé de façon définitive, dans le délai prescrit par la Loi, le montant de la dette fiscale, que ce soit au moyen de l'établissement d'une nouvelle cotisation, modification, suppression ou ratification de la cotisation initiale : voir la décision Parsons, à la page 814.
+[21] Bien que la Cour d'appel fédérale ait reconnu que la « cotisation » pouvait renvoyer tant au processus qu'au produit, c'est ce dernier qui faisait l'objet de l'appel dans cette affaire. Il était question du bien‑fondé d'une cotisation, mais nullement de la validité d'une cotisation, vu que cette question n'était pas en litige devant la Cour d'appel fédérale. Laisser entendre que la cotisation doit être établie dans le délai prescrit par la Loi n'empêche pas d'établir une cotisation protectrice, pas plus que cela n'empêche l'ARC de procéder à un examen plus poussé après avoir établi une telle cotisation.
+[22] À mon avis, la conclusion que la Cour d'appel fédérale a tirée dans l'arrêt Karda, selon laquelle une cotisation protectrice est valide quand elle a été établie après que le ministre eut demandé à l'appelant de lui communiquer des renseignements, sans résultat, et après qu'il eut demandé à l'appelant de renoncer à la prescription, ce que ce dernier a refusé, est une reconnaissance du fait que des situations se présenteront, comme je l'ai souligné dans la décision Karda, dans lesquelles il sera nécessaire de disposer de plus de temps pour mener une enquête et examiner les affaires d'un contribuable, et, si une cotisation protectrice est nécessaire dans ce but, alors la cotisation est valide. Aucune des décisions auxquelles on m'a renvoyé n'établit de distinction entre le fait qu'une enquête plus poussée constitue simplement le fait de demander des renseignements additionnels ou qu'elle soit une vérification complète. Cela ne changerait rien.
+[23] Je suis d'avis qu'il ressort des décisions auxquelles on m'a renvoyé que la question de la validité d'une cotisation peut effectivement se poser. Il n'existe cependant aucune règle de droit aux termes de laquelle une cotisation protectrice est invalide si elle a été établie dans le seul but de laisser la porte ouverte à la conduite ou à la continuation d'une vérification. Je ne vois rien dans la jurisprudence qui inviterait à conclure qu'il s'agit d'une iniquité procédurale ayant pour effet de déroger au libellé clair du paragraphe 152(8) de la Loi, lequel est ainsi rédigé :
+Sous réserve des modifications qui peuvent y être apportées ou de son annulation lors d'une opposition ou d'un appel fait en vertu de la présente partie et sous réserve d'une nouvelle cotisation, une cotisation est réputée être valide et exécutoire malgré toute erreur, tout vice de forme ou toute omission dans cette cotisation ou dans toute procédure s'y rattachant en vertu de la présente loi.
+[24] En fait, je conclus que le droit est clair à cet égard : un examen mené par l'ARC, suivi d'une demande de renseignements additionnels et d'une demande de renonciation à la prescription, qui est refusée, suffit à faire en sorte qu'une cotisation protectrice soit considérée comme une cotisation valide. Et c'est exactement le cas en l'espèce.
+[25] Il ressort clairement de l'avis d'appel modifié (paragraphes 36 à 42) que l'ARC ne s'est pas tourné les pouces en attendant la date limite d'établissement d'une cotisation. Elle communiquait activement avec l'appelant, elle a fourni des explications et a demandé des renseignements additionnels, et elle a finalement demandé à l'appelant de renoncer à la prescription. L'appelant a refusé. Il n'y a aucune règle de droit qui permettrait de déclarer qu'une cotisation établie dans de telles circonstances est invalide. Je conclus que l'appelant n'a absolument aucune chance d'avoir gain de cause en se fondant sur les paragraphes en cause. Il a donc été satisfait au critère permettant d'établir que de telles allégations devaient être radiées, et c'est ce que je fais.
+Signé à Ottawa, Canada, ce 19e jour de septembre 2013.
+« Campbell J. Miller »
+Le juge C. Miller
+Traduction certifiée conforme
+ce 27e jour de novembre 2013.
+Yves Bellefeuille, réviseur
+[TRADUCTION]
+ANNEXE A
+50. Le 25 janvier 2013, l'appelant a demandé, en vertu de la Loi sur la protection des renseignements personnels (Canada), la production de tous les documents en la possession de l'ARC qui avaient trait à son année d'imposition 2008, et, plus particulièrement, du rapport de vérification.
+51. Par lettre du 31 janvier 2013, l'ARC a confirmé que la déclaration de revenus que l'appelant avait produite pour 2008 faisait encore l'objet d'un examen par la Division de la vérification de l'ARC, et que les renseignements et les documents sur lesquels la nouvelle cotisation était fondée seraient fournis une fois que l'ARC aurait terminé l'examen de la déclaration de revenus que l'appelant avait produite pour 2008.
+52. Par une lettre du 12 mars 2013, l'ARC a répondu à la demande de l'appelant au titre de la Loi sur la protection des renseignements personnels.
+53. L'ARC a refusé de produire le rapport de vérification ou tout autre document sur lequel la nouvelle cotisation était fondée en invoquant le fait que la divulgation de ces documents risquerait vraisemblablement de nuire aux activités destinées à faire respecter les lois fédérales ou au déroulement d'enquêtes licites, y compris tout document relatif à l'existence ou à la nature d'une enquête déterminée.
+55a) la nouvelle cotisation que le ministre a établie de manière arbitraire et sans avoir terminé la vérification est une cotisation valide au sens de la Loi;
+57. L'ARC a choisi de produire la nouvelle cotisation sans avoir terminé la vérification, de manière arbitraire et non fondée, en ajoutant un dividende imposable de 7 500 000 $ et en refusant la déduction de frais financiers et de frais d'intérêts s'élevant à 438 626 $ lors du calcul du revenu de l'appelant pour l'année d'imposition 2008.
+58. L'ARC ne peut pas établir de nouvelle cotisation à l'égard d'un contribuable en se fondant sur de seules hypothèses, sans avoir vérifié les faits et sans avoir terminé sa vérification.
+59. Le terme « cotisation » ne renvoie pas uniquement à la « procédure par laquelle la dette fiscale est calculée », mais également au « produit » de ce calcul. Ainsi, pour obtenir un « produit », c'est‑à‑dire le montant calculé dans la cotisation, l'ARC doit d'abord avoir mené à bien une vérification lui permettant d'établir le montant de l'impôt faisant l'objet de la cotisation.
+60. Ce produit, à savoir l'impôt qu'un contribuable doit payer pour une année d'imposition donnée, ne peut être calculé que sur le fondement de faits qui ont été dûment vérifiés, qui sont complets, précis et exacts, et qui ont été déclarés avec honnêteté et ouverture, de manière à permettre au contribuable de cerner les éléments de preuve qu'il doit apporter.
+61. Les contribuables doivent connaître les fondements sur lesquels une cotisation a été établie pour présenter un avis d'opposition en bonne et due forme.
+62. Comme le montre la réponse que l'ARC a faite à la demande de l'appelant au titre de la Loi sur la protection des renseignements personnels dans sa lettre du 31 janvier 2013, l'ARC admet que sa vérification n'était pas terminée quand elle a établi la nouvelle cotisation, et elle refuse de produire tout document sur lequel la nouvelle cotisation est fondée.
+63. En outre, plus de six mois plus tard, le ministre ne peut toujours pas fournir à l'appelant le rapport de vérification étayant la nouvelle cotisation.
+64. Par conséquent, la nouvelle cotisation n'a pas été produite conformément aux exigences de la loi et n'est donc pas valide.
+[TRADUCTION]
+ANNEXE B
+35. Le 8 septembre 2009, le ministre du Revenu national (le « ministre ») a établi une cotisation initiale à l'égard de l'année d'imposition 2008 de l'appelant conformément à la déclaration de celui‑ci.
+36. Par une lettre du 8 juin 2012, on a informé l'appelant que sa déclaration de revenus personnelle pour l'année d'imposition 2008 ferait l'objet d'une vérification. Peu de temps après, l'Agence du revenu du Canada (l'« ARC ») a demandé à l'appelant de produire un formulaire de renonciation à l'application de la période normale de nouvelle cotisation pour l'année d'imposition 2008.
+37. Au cours des mois suivants, l'appelant a collaboré avec l'ARC de manière à fournir aux représentants de celle‑ci tous les renseignements disponibles qu'ils lui avaient demandés.
+38. Le 16 août 2012, l'ARC a proposé d'établir une nouvelle cotisation à l'égard de la dette fiscale de l'appelant pour l'année d'imposition 2008 en ajoutant 6 000 000 $ à son revenu et en lui refusant la déduction de frais d'intérêt s'élevant à 438 626 $. L'ARC a également proposé d'imposer des pénalités en application du paragraphe 163(2) de la Loi. L'ARC n'a fourni aucune explication étayant la nouvelle cotisation proposée.
+39. Dans cette même lettre, l'ARC a également suggéré que l'appelant produise un formulaire de renonciation à l'application de la période normale de nouvelle cotisation pour l'année d'imposition 2008, ce qui permettrait à l'appelant de disposer de plus de temps pour présenter des observations relativement aux modifications proposées.
+40. L'appelant n'a pas compris la modification proposée par l'ARC relativement à son année d'imposition 2008 et il a demandé des renseignements additionnels à l'égard du fondement de la nouvelle cotisation proposée.
+41. Par une lettre du 24 août 2012, l'ARC a fourni une explication relative à la nouvelle cotisation proposée. Pour justifier l'inclusion de 6 000 000 $ dans le calcul du revenu de l'appelant, l'ARC a renvoyé à un prêt du même montant qui constituerait selon elle un avantage à l'actionnaire conféré à l'appelant ou un paiement indirect au profit de celui‑ci, au sens des paragraphes 15(1) et 56(2) de la Loi respectivement. Pour refuser la déduction des frais d'intérêt, l'ARC a « conclu que l'appelant n'avait payé ni ne devait aucune somme à titre d'intérêts découlant d'une obligation légale pendant l'année 2008 ». L'ARC a ajouté qu'elle « considérait que le prétendu prêt était un prêt fictif ».
+42. Après que l'appelant eut présenté de nouvelles observations, l'ARC a produit une troisième lettre de proposition le 31 août 2012. Dans cette lettre, l'ARC proposait de refuser la déduction des frais d'intérêt de 438 626 $ déduits aux termes de l'alinéa 20(1)c) de la Loi. L'ARC continuait de proposer l'inclusion de 6 000 000 $ dans le calcul du revenu de l'appelant pour l'année d'imposition 2008, mais pour justifier cette modification, elle s'appuyait pour la première fois sur le paragraphe 84(1) de la Loi. L'ARC maintenait aussi la possibilité d'imposer des pénalités en application du paragraphe 163(2) de la Loi. Toute la nouvelle cotisation proposée de l'ARC est fondée sur l'hypothèse selon laquelle l'appelant n'a pas reçu de « véritable prêt » de Metropac.
+43. La période normale de nouvelle cotisation à l'égard de l'année d'imposition 2008 de l'appelant s'est terminée le 8 septembre 2012.
+44. Par avis de nouvelle cotisation du 7 septembre 2012 (la « nouvelle cotisation »), le ministre a établi une nouvelle cotisation à l'égard de la dette fiscale de l'appelant pour l'année d'imposition 2008 en ajoutant dans le calcul de son revenu un dividende imposable de 7 500 000 $ et en lui refusant la déduction de frais d'intérêt de 438 626 $.
+45. Vers le 1er octobre 2012, l'appelant a reçu, par courrier normal, un état de compte de l'ARC daté du 21 septembre 2012 dans lequel il était fait référence à une nouvelle cotisation pour 2008 datée du 7 septembre 2012.
+RÉFÉRENCE : 2013 CCI 293
+NO DU DOSSIER DE LA COUR : 2013-705(IT)G
+INTITULÉ : Paul C. Golini c. Sa Majesté la Reine
+LIEU DE L'AUDIENCE : Toronto (Ontario)
+DATE DE L'AUDIENCE : Le 12 septembre 2013
+MOTIFS DE L'ORDONNANCE : L'honorable juge Campbell J. Miller
+DATE DE L'ORDONNANCE : Le 19 septembre 2013
+COMPARUTIONS :
+Avocats de l'appelant :
+Me Geneviève Léveillé
+Me Yves St-Cyr
+Avocats de l'intimée :
+Me Aleksandrs Zemdegs
+Me Marie‑Thérèse Boris
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom : Geneviève Léveillé et Yves St-Cyr
+Cabinet : Heenan Blaikie S.E.N.C.R.L., s.r.l.
+Pour l'intimée : William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] 2003 CCI 46.
+[2] 2004 CAF 146.
+[3] 2008 CCI 132.
+[4] [1995] A.C.I. no 240 (QL) (C.C.I.).
+[5] 2006 CAF 238, conf. 2005 CCI 564.
+[6] [1962] R.C.S. 592, 62 D.T.C. 1163.
+[7] 2007 CAF 188, [2008] 1 R.C.F. 839.
+[8] 2013 CAF 20.

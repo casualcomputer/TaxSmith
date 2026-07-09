@@ -1,0 +1,135 @@
+Title: Hatami v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28242/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-428-28242-hatami-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-06-22
+
+# Hatami v. M.N.R.
+
+- Citation: 2007 TCC 428
+- Decision date: 2007-06-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2053, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hatami v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-22
+Neutral citation
+2007 TCC 428
+File numbers
+2006-2464(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-2464(EI)
+BETWEEN:
+SHAHLA HATAMI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Shahla Hatami, 2007-255(EI), on June 22, 2007, at Vancouver, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christa Akey
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed, and the decision of the Minister of National Revenue on the appeal made to him under section 91 of the Act, is confirmed.
+Signed at Ottawa, Canada, this 23rd day of July, 2007.
+“Campbell J. Miller”
+Miller J.
+Docket: 2007-255(EI)
+BETWEEN:
+SHAHLA HATAMI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Shahla Hatami, 2006-2464(EI), on June 22, 2007, at Vancouver, British Columbia
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christa Akey
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed, and the decision of the Minister of National Revenue on the appeal made to him under section 91 of the Act, is confirmed.
+Signed at Ottawa, Canada, this 23rd day of July, 2007.
+“Campbell J. Miller”
+Miller J.
+Citation: 2007TCC428
+Date: 20070723
+Docket: 2006-2464(EI)
+2007-255(EI)
+BETWEEN:
+SHAHLA HATAMI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] These are appeals pursuant to the Employment Insurance Act, involving the provisions of subsection 5(2) and 5(3) to determine the correctness of the decision of the Minister of National Revenue finding Ms. Hatami and her employer would not have entered a substantially similar contract if they had been dealing at arm’s length. I find it was reasonable for the Minister to have reached that conclusion.
+Facts
+[2] Ms. Hatami’s husband, Iraj Safiyan, commenced a printing/copying business in early 2002 under the name 4U Publishing and Printing and Photo Finishing Ltd. (“4U”). In early 2005, he changed the location of the business and the name of the business to Vancouver Printplus Inc. (“Printplus”). The periods of employment at issue are November and December, 2002, January to March, 2005, both periods of employment which took place at 4U, and April and May, 2005, which employment took place at Printplus.
+[3] Ms. Hatami testified that she helped her husband in his business as he could not afford to hire others. It was not, however, until November 2002 that she appears to have been put on the payroll of 4U. Until then, she may have helped her husband, but not on a regular paid basis. She indicated she was to be paid $1,500 a month for the months of November and December 2002, as that is what she had been getting previously working at a daycare. She could not recall that she actually received the $1,500 a month for November and December 2002. She acknowledged that, unlike other workers, she was prepared to wait to be paid. She maintained that she worked regularly, 9:00 to 5:00 for those two months, and indeed worked harder than anyone else. In November 2002, there was, however, only her and her husband working in the business. Her husband trained her. Ms. Hatami was pregnant at the time and had her first child in August 2003. Due to her pregnancy, she stopped work on December 20, 2002.
+[4] There was some evidence in the form of cheques for $200 and $500, respectively, in the summer of 2002 payable to Mrs. Hatami, suggesting that she received some remuneration at a time when she was not actually employed at the business. She indicated that these cheques were likely made out to her to allow her to get petty cash for business purposes.
+[5] Ms. Hatami was unclear as to whether 4U hired anyone to replace her in January 2003, though she believed her husband tried to hire someone. The business would on occasion rely on what she called practicums, who were not paid.
+[6] Ms. Hatami went back to work in January 2005 when she was pregnant with her second child. She worked at the premises of 4U for the period January to March 2005 while her husband was establishing the new Printplus business at a new location. She had to advise customers of the new location, though she still did photocopying work at the old location. She provided timesheets for the period showing she worked 9:00 to 5:00 every working day for the three-month period of January to March 2005. She said she signed these sheets when she found out that EI Regulations required them. She completed and signed the forms acknowledging that they were not completed contemporaneously with her work. She had not initially completed timesheets as she stated her husband trusted her, but he required other employees to do timesheets.
+[7] Ms. Hatami’s job was to do photocopying and provide customer service. For the five-month period during which she worked in 2005, she stated she was to be paid $1,500 a month, though again she could not recall if she actually received such payment. There were times when she did not cash cheques as the business could not afford to make the payments, but she claimed the payments were made up by the end of the year. In 2005, there was another worker in the business who was paid on an hourly basis at the rate of $9.00 an hour. Ms. Hatami acknowledged that her husband would perform her duties when she was not working.
+Issue- Was Ms. Hatami in insurable employment for the periods November and December 2002 and January to March 2005 with 4U and April and May 2005 with Printplus?
+[8] The key sections of the Employment Insurance Act are subsections 5(2) and 5(3):
+5(2) Insurable employment does not include
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+5(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+There has been considerable jurisprudence surrounding these provisions. A good summary of the current state can be found in the case of Birkland v. M.N.R.,[1] where Justice Bowie wrote:
+4. … This Court's role, as I understand it now, following these decisions, is to conduct a trial at which both parties may adduce evidence as to the terms upon which the Appellant was employed, evidence as to the terms upon which persons at arm's length doing similar work were employed by the same employer, and evidence relevant to the conditions of employment prevailing in the industry for the same kind of work at the same time and place. Of course, there may also be evidence as to the relationship between the Appellant and the employer. In the light of all that evidence, and the judge's view of the credibility of the witnesses, this Court must then assess whether the Minister, if he had had the benefit of all that evidence, could reasonably have failed to conclude that the employer and a person acting at arm's length would have entered into a substantially similar contract of employment. That, as I understand it, is the degree of judicial deference that Parliament's use of the expression "... if the Minister of National Revenue is satisfied ..." in paragraph 5(3)(b) accords to the Minister's opinion.
+[9] I have concluded, having heard Ms. Hatami’s evidence, that the Minister’s decision remains reasonable. I have reached that conclusion for the following reasons.
+[10] Firstly, my overall impression was that Ms. Hatami’s employment arrangement with her husband’s business was very much a matter of a supportive wife helping out as much as possible to get her husband’s business up and going. This meant working sporadically without pay, for example in the summer of 2002. It also meant agreeing to not cash cheques when the business could not afford to pay. Indeed, I was not convinced that Ms. Hatami received, even over time, all of the $1,500 a month payments she may have been entitled to. She provided no records in that regard. This is in no way similar to a contract of employment between arm’s length parties.
+[11] Secondly, Ms. Hatami referred to receiving no more than the other workers, yet there was little evidence of there being, apart from her husband, more than one other worker. There was some suggestion there were volunteers, but only in 2005 did there appear to have been an hourly worker employed. Ms. Hatami maintains that she received no more than the other workers, as her salary of $1,500 was equivalent to a full-time worker paid at $9.00 per hour. This may be, but an hourly worker who is actually paid every month based on time recorded is not the same as a salaried worker, not recording hours (and in that regard, I discount the significance of the timesheets submitted by Ms. Hatami as anything other than after-the-fact window-dressing) and agreeing not to take the salary when the business could not afford it.
+[12] With respect to the nature and importance of the work performed, Ms. Hatami testified that when she left, her husband tried to hire someone else, but often did the work himself. She could not remember the names of anyone employed in her place. I found her evidence of replacement workers not convincing.
+[13] Finally, the duration of her work, being two months in 2002 and five months in 2005, both times when she was pregnant, raises some concern as to similarities with an arm’s length employment relationship. To go back to work when pregnant for a very limited period of time may be the very sort of non‑arm’s length advantage particular to a husband and wife arrangement, that Deputy Judge Rowe may have had in mind when he wrote in the decision of Sharky v. M.N.R.,[2] as follows:
+14 I am satisfied the appellant and her husband proceeded in good faith and attempted to structure her employment situation in a manner that would be consistent with an arm's length relationship. However, there were too many odd aspects to the relationship that were not satisfactorily explained and certain characteristics thereof were open to appropriate interpretation by the Minister in exercising the discretion conferred by statute. Certainly, there was office work actually performed by the appellant but - overall - the facts in the within appeal - like many other similar cases - disclose it is often extremely difficult for spouses to act consistently within a working relationship so that a finding can be made that they would have entered into a substantially similar contract of employment had they been non-related parties instead of husband and wife.
+[14] Ms. Hatami was concerned that she was being denied her legal rights if not found to have been in insurable employment. She no doubt feels that way as she did do some work for her husband’s business. Yet I cannot find in these circumstances that the working arrangement was substantially similar to an arm’s length arrangement. As has been pointed out in other cases, it is not for me to second‑guess the Minister. It was the Minister’s decision. My role is to assess whether the Minister should have or would have come to a different conclusion having heard the evidence I have heard. I am satisfied he would not have reached any different conclusion. The appeals are dismissed.
+Signed at Ottawa, Canada, this 23rd day of July, 2007.
+“Campbell J. Miller”
+Miller J.
+CITATION: 2007TCC428
+COURT FILE NOS.: 2006-2464(EI) and 2007-255(EI)
+STYLE OF CAUSE: SHAHLA HATAMI and THE
+MINISTER OF NATIONAL REVENUE
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: June 22, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: July 23, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Christa Akey
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm: N/A
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] 2005TCC291.
+[2] [2002] T.C.J. No. 229.

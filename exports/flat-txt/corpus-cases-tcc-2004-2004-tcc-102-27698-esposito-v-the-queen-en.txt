@@ -1,0 +1,119 @@
+Title: Esposito v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27698/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-102-27698-esposito-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-02-24
+
+# Esposito v. The Queen
+
+- Citation: 2004 TCC 102
+- Decision date: 2004-02-24
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 487, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Esposito v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-02-24
+Neutral citation
+2004 TCC 102
+File numbers
+2003-1948(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1948(IT)I
+BETWEEN:
+VINCENT ESPOSITO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on January 7, 2004 at Toronto, Ontario
+By: The Honourable Justice J.M. Woods
+Appearances:
+Agent for the Appellant:
+Ian DiNovo
+Counsel for the Respondent:
+Annette Evans
+Jonathon Penney, Student-at-Law
+____________________________________________________________________
+JUDGMENT
+The appeal in respect of the reassessment made under the Income Tax Act for the 2001 taxation year is dismissed.
+Signed at Ottawa, Canada this 24th day of February, 2004.
+"J.M. Woods"
+J.M. Woods J.
+Citation: 2004TCC102
+Date: 20040224
+Docket: 2003-1948(IT)I
+BETWEEN:
+VINCENT ESPOSITO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] Vincent Esposito is a police officer with the Peel Regional Police Services. In October, 2000 he was charged with assaulting a prisoner and, after a lengthy trial, he was acquitted and cleared of all charges. The question in this case is whether legal fees of $4,600 paid by Mr. Esposito to his defence lawyer in the 2001 taxation year are deductible in computing income from employment.
+[2] In October, 2000, Mr. Esposito and his partner were charged under the Criminal Code with assault causing bodily harm to one of the prisoners while they were station duty officers in control of prisoners coming in and out of cells. At the time of their arrest, the officers were temporarily suspended. In November, 2000 they were reinstated and assigned to different duties. In April or May, 2003, Mr. Esposito was acquitted of the criminal charges following an 11-day trial and is still employed by the Peel Regional Police Services.
+[3] In addition to the criminal charges, Mr. Esposito was also charged under the Police Services Act. Rather than face further legal battles, Mr. Esposito pled guilty to these charges. He was sentenced to working 20 days without pay. He also received a one-year demotion from first class constable to second class, which had an attendant reduction in salary. The demotion became effective in about June, 2003.
+[4] If the criminal charges were not successfully defended, Mr. Esposito would have been dismissed and unable to work a police officer. Under police procedures Mr. Esposito was instructed to retain legal counsel to defend himself on these charges. The legal fees incurred were approximately $72,000, of which $40,000 were reimbursed by the police union. This left Mr. Esposito approximately $32,000 out-of-pocket. Mr. Esposito incurred $4,600 of these expenses in the 2001 taxation year. It is the deduction of this amount that is the subject of this appeal. The quantum is not in dispute and neither is the fact that the legal fees were incurred for the defence of the criminal charges.
+Analysis
+[5] Mr. Esposito's representative submits that the legal fees were incurred to enable Mr. Esposito to work as a police officer and therefore are deductible pursuant to paragraph 8(1)(b) of the Income Tax Act because they relate to income-earning activities.
+[6] Paragraph 8(1)(b) provides a deduction for legal fees incurred to collect salary that is owed to a taxpayer. It reads:
+8. (1) In computing a taxpayer's income for a taxation year from an office or employment, there may be deducted such of the following amounts as are wholly applicable to that source or such part of the following amounts as may reasonably be regarded as applicable thereto...
+(b) amounts paid by the taxpayer in the year as or on account of legal expenses incurred by the taxpayer to collect or establish a right to salary or wages owed to the taxpayer by the employer or former employer of the taxpayer;
+(emphasis added)
+[7] At the hearing Mr. Esposito did not suggest that the legal fees were incurred to collect salary or wages that were owed to him and this is fatal to his claim for a deduction under paragraph 8(1)(b). The language of paragraph 8(1)(b) clearly requires this (in passage underlined) and courts have consistently denied a deduction under this provision unless this requirement is satisfied: Turner-Lienaux v. R., [1997] 2 C.T.C. 344 (F.C.A.) and Wilson v. The Queen, 91 DTC 5407 (F.C.A.). Based on the evidence presented at the hearing, the legal fees incurred in defence of the criminal charges were incurred to protect a future source of income. They were not incurred to collect salary that was owed.
+[8] Mr. Esposito's representative suggests that the deduction under paragraph 8(1)(b) is supported by paragraph three of Interpretation Bulletin 99R5 (Consolidated), Legal and Accounting Fees, dated December 14, 2000. This bulletin is of no assistance. Paragraph three suggests that legal fees may be deductible if they are incurred for the purpose of earning income from a business or property. The legal expenses incurred by Mr. Esposito relate to employment and not a business or property.
+[9] During argument, Mr. Esposito's representative suggested that there might be other sections of the Act that would support the deduction. In a written submission received after the hearing, the representative suggests that a deduction is allowed under paragraph 8(1)(i). It is submitted that this paragraph allows a deduction for any expenses incurred by a taxpayer in earning income from employment.
+[10] Paragraph 8(1)(i) is not nearly as broad as Mr. Esposito's representative suggests. It allows a deduction for specified expenses, such as membership dues, the cost of supplies, office rent, and the salary of an assistant. The specified expenses do not include legal fees, and therefore paragraph 8(1)(i) is of no assistance in this case.
+[11] The written submission also suggests a further argument based on paragraph 8(1)(b). It suggests that, during the year to which the legal fees relate, 2001, Mr. Esposito was reduced in rank and compensation for the incidents in question. There was no evidence presented at the hearing concerning a reduction of rank and compensation in 2001. The following is an excerpt from the transcript of the testimony of Mr. Esposito relating to the temporary suspension at the time of the arrest:
+... We were formally arrested and charged with that offence. We were fingerprinted, photographed and put on a temporary suspension at that time. ... I was put on full-capacity duty at the Courthouse in a different function, but in a full capacity as a police officer in November of 2000.
+The following excerpt from the same testimony relates to the charges under the Police Services Act:
+I also received a demotion from first class constable to second class constable, which is approximately $7,000.00 to $8,000.00 in pay, and that's for a year, and that was from, I believe, June of 2003.
+[12] According to this testimony, Mr. Esposito was assigned to other duties shortly after his arrest in October, 2000 but there is no evidence of a reduction of rank and compensation until 2003. Accordingly, there is no evidence properly before me to support a deduction under paragraph 8(1)(b) on the basis that the legal expenses incurred in 2001 were incurred to collect or establish a right to salary owed.
+[13] Mr. Esposito's representative also suggests that the deduction of this type of expense should be allowed as being within the spirit of the Act. I am unable to agree with this suggestion. Under subsection 8(2) of the Act, the deduction of expenses allowed in computing income from employment is limited to deductions specifically permitted by section 8. Subsection 8(2) provides:
+(2) Except as permitted by this section, no deductions shall be made in computing a taxpayer's income for a taxation year from an office or employment.
+In addition to section 8, section 60 of the Act also provides a deduction for certain legal expenses. For example, subsection 60(o.1) allows a deduction, within limits, for legal expenses incurred to collect or establish a right to a retiring allowance, as defined in subsection 248(1). Mr. Esposito's representative did not suggest that this section applies and it appears that it would not apply based on the facts presented at the hearing.
+[14] The appeal is dismissed.
+Signed at Ottawa, Canada this 24th day of February, 2004.
+"J.M. Woods"
+J.M. Woods J.
+CITATION:
+2004TCC102
+COURT FILE NO.:
+2003-1948(IT)I
+STYLE OF CAUSE:
+Vincent Esposito v. The Queen
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+January 7, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.M. Woods
+DATE OF JUDGMENT:
+February 24, 2004
+APPEARANCES:
+Agent for the Appellant:
+Ian DiNovo
+Counsel for the Respondent:
+Annette Evans
+Jonathon Penney (Student-at-Law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

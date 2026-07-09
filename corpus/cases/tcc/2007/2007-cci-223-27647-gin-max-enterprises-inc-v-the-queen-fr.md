@@ -1,0 +1,228 @@
+---
+title: "Gin Max Enterprises Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27647/index.do"
+last_modified: "2007-05-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 CCI 223"
+citation2: ""
+neutral_citation: "2007 CCI 223"
+decision_date: "2007-05-04"
+language: "fr"
+item_id: "27647"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 404
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T09:42:22.460000+00:00"
+cases_cited_count: 0
+cases_citing_count: 14
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6877b864cfa9be81f06e24dfeabb23b3b2f606d32f4e14f82181be090fade34a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gin Max Enterprises Inc. v. The Queen
+
+- Citation: 2007 CCI 223
+- Decision date: 2007-05-04
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 404, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gin Max Enterprises Inc. v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-04
+Référence neutre
+2007 CCI 223
+Numéro de dossier
+2005-2981(GST)I
+Juges et Officiers taxateurs
+Cameron Hugh McArthur
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2005-2981(GST)I
+ENTRE :
+GIN MAX ENTERPRISES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu les 4 et 5 décembre 2006, à Montréal (Québec).
+Devant : L’honorable juge C.H. McArthur
+Comparutions :
+Avocats de l’appelante :
+Me Charles Leibovich et Me Kim Nelson
+Avocat de l’intimée :
+Me Michael Ezri
+____________________________________________________________________
+JUGEMENT
+L’appel de la nouvelle cotisation établie en vertu de la Loi sur la taxe d’accise, dont l’avis est daté du 8 mai 2005 et porte le numéro 01EE0102577, est accueilli, et la cotisation est déférée au ministre du Revenu national pour nouvel examen et nouvelle cotisation, compte tenu du fait que la pénalité est annulée.
+Signé à Ottawa, Canada, ce 4e jour de mai 2007.
+« C.H. McArthur »
+Juge McArthur
+Traduction certifiée conforme
+ce 18e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI223
+Date : 20070504
+Dossier : 2005-2981(GST)I
+ENTRE :
+GIN MAX ENTERPRISES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge McArthur
+[1] Il s’agit d’un appel en vertu de la Loi sur la taxe d’accise[1] (la « Loi ») pour la période du 1er septembre 1999 au 30 novembre 2001. Le ministre du Revenu national (le « ministre ») a établi une nouvelle cotisation à l’égard de l’appelante pour un montant de taxe de 90 324,64 $, des intérêts de 5522,57 $ et une pénalité de 7546,60 $.
+[2] Entre autres activités commerciales, l’appelante exerçait celle de la collecte porte‑à‑porte des ordures ménagères des municipalités de Quispamsis, de Grand Bay‑Westfield et de Rothesay[2] au Nouveau-Brunswick (les « municipalités »). Dans sa facturation aux propriétaires, elle percevait la taxe de vente harmonisée (la « TVH »)[3] à l’égard de la partie de la collecte des ordures, mais pas à l’égard des « redevances de déversement »[4] imposées par les installations d’enfouissement détenues et exploitées par la province. Chaque municipalité utilisait le site d’enfouissement local Crane Mountain détenu et exploité par la Commission de gestion des déchets solides de Fundy (« Fundy »), créée par la province du Nouveau-Brunswick pour exploiter une installation de gestion des déchets solides. Fundy imposait des frais de déversement aux personnes qui souhaitaient jeter des ordures à Crane Mountain. Dans le cas de petites charges comme quelques sacs d’ordures, des redevances étaient imposées par sac; dans le cas de charges plus importantes, les redevances étaient fonction du poids et du type d’ordures. Les résidents locaux pouvaient soit apporter leurs ordures à Crane Mountain, soit engager un entrepreneur privé, tel que l’appelante, qui les transportait pour eux.
+[3] Voici le problème en bref. Environ les deux tiers du coût de l’enlèvement des ordures pour les propriétaires sont constitués par les redevances de déversement[5]. Si un propriétaire mettait ses ordures dans le coffre de sa voiture, les apportait à Crane Mountain et payait les redevances de déversement directement à Fundy, les redevances de déversement étaient exemptées de la TPS en vertu de l’article 20 ou de l’article 21 de la partie VI de l’annexe V (l’« article 21/VI/V ») de la Loi. Lorsque l’appelante transporte les ordures d’un résident et paie les redevances de déversement, le ministre déclare qu’il s’agit de la prestation d’un service complet qui comprend la collecte porte‑à‑porte et n’est pas exempté de la TVH.
+[4] L’appelante a déposé une facture type adressée à un client :
+[traduction]
+Quispamsis
+Prix
+TVH
+Total
+Redevances de déversement
+134,50 $
+0,00 $
+134,50 $
+Collecte des ordures
+50,00 $
+7,50 $
+57,50 $
+Total
+192,00 $
+[5] Les avocats de l’appelante ont succinctement décrit les faits comme suit :
+[traduction]
+Gin Max est un transporteur privé qui s’occupe de l’enlèvement des déchets solides qu’il collecte chez les résidents des municipalités qu’il sert. L’appelante dressait une facture à l’intention des propriétaires pour ce service d’enlèvement, et la facture ventilait les services en deux éléments : la collecte des ordures et les redevances de déversement. L’appelante imposait la taxe de vente pour le service de collecte, mais pas pour les redevances de déversement.
+[6] James D’Entremont était le seul témoin de l’appelante. Il était le directeur général de l’appelante pendant la période pertinente et a travaillé pour elle pendant plus de 30 ans. Il a déclaré que Fundy imposait à l’appelante des redevances de déversement pour chaque camion de déchets qui se déchargeait à Crane Mountain, en fonction du poids des ordures. En utilisant les estimations des années antérieures, l’appelante calculait la moyenne de redevances pour chaque client, peu importe la quantité d’ordures réellement collectées chez chaque propriétaire. L’appelante facturait les mêmes redevances de déversement à chaque client de l’itinéraire. Selon le témoignage de M. D’Entremont, l’appelante n’avait aucun contrat avec les municipalités.
+[7] L’intimée a appelé trois témoins : Michael Brennan, Bruce Gauld et Allison Walker. Michael Brennan, comptable général licencié, était le directeur municipal de Quispamsis pendant la période pertinente. Selon son témoignage, la ville n’avait pas de budget pour la collecte des ordures et n’avait pas entrepris de le faire puisque cela n’était pas possible d’un point de vue économique. Bruce Gauld, ingénieur, était le commissaire des travaux publics de Grant Bay‑Westfield. Il a également témoigné que la ville ne faisait pas la collecte ni l’élimination des ordures et que le budget de la ville ne prévoyait aucun montant pour ces services. Allison Walker, comptable agréé, était le président de Fundy. On a renvoyé M. Walker à des documents qu’il n’avait pas rédigés puisqu’il n’était pas employé par Fundy pendant la période pertinente. Au mieux, son témoignage corroborait une grande partie de celui de M. D’Entremont. Lors de son contre-interrogatoire, il a clairement indiqué que les résidents des municipalités ne pouvaient pas choisir d’éliminer leurs ordures ailleurs qu’à Crane Mountain.
+Dispositions législatives
+[8] L’article 21/V/VI de la Loi est rédigé comme suit :
+21. [Service municipal] – La fourniture d’un service municipal si, à la fois :
+a) la fourniture est effectuée :
+(i) soit par un gouvernement ou une municipalité au profit d’un acquéreur qui est le propriétaire ou l’occupant d’un immeuble situé dans une région géographique donnée,
+(ii) soit pour le compte d’un gouvernement ou d’une municipalité au profit d’un acquéreur, autre que le gouvernement ou la municipalité, qui est le propriétaire ou l’occupant d’un immeuble situé dans une région géographique donnée;
+b) il s’agit d’un service, selon le cas :
+(i) que le propriétaire ou l’occupant ne peut refuser,
+(ii) qui est fourni du fait que le propriétaire ou l’occupant a manqué à une obligation imposée par une loi;
+c) il ne s’agit pas d’un service d’essai ou d’inspection d’un bien pour vérifier s’il est conforme à certaines normes de qualité ou s’il se prête à un certain mode de consommation, d’utilisation ou de fourniture, ou pour le confirmer.
+[9] Avant d’analyser la position respective des parties, il faut souligner que dans l’avis d’appel, l’appelante avait soutenu qu’elle était la mandataire soit de Fundy, soit des municipalités, soit des clients résidents. En présentant ses arguments, elle tentait de faire appliquer à la fourniture qu’elle effectuait les exemptions des alinéas 20h) ou 20i) de la partie VI de l’annexe V de la Loi, qui s’appliquent uniquement aux fournitures effectuées par un gouvernement ou une municipalité, ou par une commission ou un autre organisme établi par ceux-ci. Au procès, l’appelante a semblé abandonner cet argument à juste titre. Je n’ai qu’à m’appuyer sur l’arrêt Glengarry Bingo Association v. R.[6] Entre autres lacunes, les municipalités, Fundy ou les clients résidentiels n’ont jamais donné leur consentement à l’appelante pour que celle-ci agisse comme mandataire en leur nom.
+La position de l’appelante
+[10] L’appelante prétend qu’elle a rendu un service exempté en vertu de l’article 21/VI/V de la Loi, en ce qui a trait aux services de déversement qu’elle fournissait à ses clients. L’appelante soutient qu’elle fournissait un service municipal de base non facultatif aux résidents des municipalités au nom des municipalités. L’appelante soutient que si les clients étaient allés directement à Fundy et y avaient déversé leurs ordures, ils n’auraient pas eu à payer de taxe de vente. L’appelante souligne qu’en définitive, les résidents seraient tenus de payer la taxe de vente sur le déversement si l’appelante devait la payer car elle leur serait imputée.
+La position de l’intimée
+[11] L’intimée soutient que l’appelante effectuait une seule fourniture d’un service de collecte des ordures; elle ne fournissait pas le droit de déposer des ordures soit à titre de mandataire, soit autrement. L’intimée prétend que la partie des redevances de déversement de la facture était simplement un élément de la fourniture globale et non une fourniture distincte.
+[12] L’intimée ajoute que le service de collecte des ordures n’était pas exempté en vertu de l’article 21/VI/V de la Loi, car la fourniture était effectuée par l’appelante en son propre nom et non au nom de la municipalité. De même, les clients résidentiels avaient le choix de ne pas recevoir le service.
+[13] Les points en litige à trancher sont les suivants :
+a) La question de savoir si la collecte et l’élimination des ordures sont deux éléments de la même et unique fourniture ou sont deux fournitures distinctes.
+b) La question de savoir si les dispositions d’exemption de l’article 21/V/VI de la Loi s’appliquent.
+Analyse
+a) La question de savoir si la collecte et l’élimination des ordures sont deux éléments de la même et unique fourniture ou sont deux fournitures distinctes.
+[14] À l’alinéa 9x) de la réponse, le ministre adopte l’hypothèse de fait selon laquelle [traduction] « le service de l’appelante était un service unique et indivisible » et prétend que les divers éléments du service de l’appelante sont si liés les uns aux autres qu’ils constituent une fourniture unique et intégrée. Le paragraphe 123(1) de la Loi définit « fourniture » comme suit :
+« fourniture » Sous réserve des articles 133 et 134, livraison de biens ou prestation de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation.
+[15] Il existe une abondante jurisprudence sur la question de la fourniture unique, qui est essentiellement une combinaison de biens ou de services considérés comme étant une seule fourniture. La décision du juge Rip dans O.A. Brown Ltd. v. Canada[7] est utile. L’appelante achetait pour son propre compte du bétail destiné à des clients et elle leur imposait une commission et des débours, outre le coût du bétail qu’elle leur vendait. La longue analyse du juge Rip qui suit est utile pour décider si l’élimination des ordures constituait une fourniture unique ou deux fournitures distinctes.
+En tranchant cette question, il est d’abord nécessaire de décider ce qui a été fourni en contrepartie du paiement. Il faut alors se demander si la fourniture globale est composée d’une seule fourniture ou de plus d’une fourniture. Le critère qui ressort de la jurisprudence anglaise est de savoir si, au fond et en réalité, la présumée fourniture séparée fait partie intégrante ou est un élément constitutif de la fourniture globale. Il faut examiner la nature véritable de l’opération pour en déterminer les attributs fiscaux. Le critère a été énoncé par le Value Added Tax Tribunal de la façon suivante :
+[traduction]
+À notre avis, lorsque les parties concluent une opération en vertu de la laquelle une partie remet une fourniture à l’autre, la taxe (le cas échéant) exigible à cet égard doit être déterminée par rapport au fond de l’opération, mais le fond de l’opération doit être déterminé par rapport au caractère réel des accords conclus entre les parties.
+Un facteur à prendre en considération est de savoir s’il est possible, en réalité, d’enlever de la fourniture globale la présumée fourniture séparée. Ce facteur n’est pas concluant, mais il aide à déterminer le fond de l’opération. Cette position a été formulée dans les termes suivants :
+[traduction]
+Ce qui devrait constituer une fourniture unique de services, par opposition à deux fournitures séparées, n’est pas établi expressément par les textes législatifs concernant la taxe sur la valeur ajoutée. Il serait donc erroné de tenter de proposer une définition stricte et précise non fondée sur la loi. Il nous semble qu’il faut simplement appliquer le libellé de la loi, en interprétant les termes qui y sont employés, dans la mesure où le sens ordinaire des mots le permet, de façon à faire du régime légal de la taxe sur la valeur ajoutée un régime pratique qui fonctionne bien. À cette fin, il faudrait se demander dans quelle mesure les services qui constitueraient apparemment une fourniture unique sont liés les uns aux autres, quelle est l’étendue de leur interdépendance et de leur enchevêtrement, et si chaque service fait partie intégrante d’un ensemble complet ou en constitue un élément. Il faut se demander si les services sont rendus en vertu d’un seul contrat, ou pour une seule contrepartie non divisée, mais, pour les motifs susmentionnés, ce facteur n’est pas concluant. Compte tenu de la nature, du contenu et de la méthode d’exécution des services, et de toutes les circonstances, par rapport à l’historique du régime de la taxe sur la valeur ajoutée et, en particulier, des méthodes employées pour comptabiliser et payer la taxe, s’il est jugé que les services sont si interdépendants et si enchevêtrés qu’ils font partie intégrante d’un ensemble complet ou en constituent de simples éléments ou composantes à un point tel qu’ils ne peuvent pas, aux fins de la taxe sur la valeur ajoutée, être raisonnablement considérés comme des fournitures séparées de services, il faut considérer qu’en adoptant le régime de la taxe sur la valeur ajoutée, le Parlement a voulu le traiter comme un régime unique; autrement, ces services devraient être considérés, aux fins de la taxe sur la valeur ajoutée, comme des fournitures séparées.
+Le fait que des frais sont exigés séparément à l’égard d’un élément d’une fourniture mixte ne modifie pas les attributs fiscaux de celui-ci. La question de savoir si la taxe est exigée est régie par la nature de la fourniture. Dans chaque cas, il est utile de se demander s’il serait possible d’acheter chacun des divers éléments séparément et d’obtenir néanmoins un article ou service utile. Car si cela n’est pas possible, il faut alors nécessairement conclure qu’une fourniture mixte qui ne peut pas être divisée aux fins de la taxe est en cause.
+[16] La démarche adoptée dans la décision O.A. Brown a été expressément suivie par la Cour d’appel fédérale dans l’arrêt Hidden Valley Golf Resort Assn. v. R.[8], et il existe de nombreuses décisions de la Cour canadienne de l’impôt sur la question[9].
+[17] De même, la position de l’Agence du revenu du Canada est utile, bien qu’elle ne me lie pas. L’énoncé de politique P-077R2[10] décrit cette position et se lit en partie comme suit :
+[…] une fourniture unique est composée de deux éléments ou plus dans une des situations suivantes : les éléments sont des parties intégrantes de la fourniture, les éléments sont inextricablement liés entre eux-mêmes, les éléments sont tellement interdépendants et s’entrecroisent tellement qu’ils doivent être fournis conjointement; un des éléments de l’opération est tellement dominé par un autre élément que ce premier a perdu toute identité aux fins fiscales.
+Au moment d’analyser une situation, il est important que l’analyse s’arrête à l’opération en question et qu’elle ne tienne pas compte d’autres opérations possibles composées d’éléments identiques ou semblables. Il ne faut pas fractionner artificiellement quelque chose qui est commercialement une fourniture unique. De plus, un accord ne peut pas être examiné isolément, mais plutôt à la lumière d’autres facteurs, comme l’intention des parties, les circonstances entourant la transaction et les pratiques commerciales habituelles du fournisseur. Dans certains cas, il pourrait être indiqué de ne pas tenir compte des modalités d’un accord si celles-ci ne reflètent pas la réalité de la transaction.
+[18] L’examen de la jurisprudence révèle que la question de savoir si deux éléments forment une fourniture unique ou deux ou de multiples fournitures exige une analyse de la nature véritable des opérations, et il s’agit d’une question de fait tranchée avec une généreuse dose de bon sens. Il faut examiner si au fond et en réalité le service de collecte et celui d’élimination sont si interreliés et interdépendants qu’ils doivent être fournis ensemble. Dans la décision 1219261 Ontario Inc.[11], le juge Hershfield a précisé ces facteurs comme suit :
+[traduction]
+Comme l’a reconnu la jurisprudence anglaise citée dans la décision O.A. Brown Ltd., il serait erroné de tenter de proposer une définition stricte et précise d’une fourniture unique (mixte) non fondée sur la loi. Parmi ces facteurs, mentionnons la mesure dans laquelle les éléments constitutifs d’une fourniture sont liés les uns aux autres, l’étendue de leur interdépendance et la question de savoir si chaque élément fait partie intégrante d’un ensemble complet ou en constitue un élément. Il faut se demander si les services sont rendus en vertu d’un seul contrat, ou pour une seule contrepartie non divisée, mais ce facteur n’est pas concluant. Comment pourrait-il l’être? En conclure ainsi signifierait que le ministre ne pourrait jamais établir une cotisation à l’égard d’une fourniture taxable distincte lorsqu’elle est jumelée à une fourniture non taxable en vertu d’un seul contrat pour un seul prix.
+[19] Semblables aux critères de la décision Wiebe Door Services Ltd. v. M.N.R.[12] concernant la classification de la relation d’employé ou d’entrepreneur indépendant, aucun critère en soi n’est concluant, et la Cour doit examiner et soupeser tous les éléments de preuve.
+[20] Le fait que l’appelante sépare les services de collecte et d’élimination des ordures dans les factures aux clients résidentiels ne constitue certainement pas un facteur déterminant. Je dois examiner la question de savoir si les fournitures sont si inextricablement liées et interdépendantes qu’elles constituent une fourniture unique. Cela dit, la séparation des deux services, dans les factures, constitue un indice de fournitures distinctes, même s’il est faible.
+[21] L’important critère énoncé dans la décision O.A. Brown soulève la question de savoir s’il est possible ou réaliste d’omettre une composante de la fourniture globale. D’après la preuve, il est évident que le travail prévu par les parties, soit le service de déversement ou d’élimination, ne peut, de façon réaliste, être offert indépendamment du service de collecte.
+[22] L’appelante n’a pas donné aux clients résidentiels le choix de fournir uniquement un des services, que ce soit la collecte ou l’élimination des ordures. Il n’est pas logique qu’un client demande un service de déversement sans le service de collecte. Essentiellement, le seul service proposé était le service global. En conséquence, je conclus que la collecte et l’élimination des ordures n’étaient qu’une seule fourniture. Il n’est pas nécessaire de décider si une de ces fournitures est accessoire, de sorte qu’elle peut être réputée faire partie d’une fourniture unique en vertu de l’article 138 de la Loi[13].
+b) La question de savoir si les dispositions d’exemption de l’article 21/V/VI de la Loi s’appliquent[14].
+[23] Pour que l’appelante puisse se prévaloir de la disposition d’exemption de l’article 21/V/VI, elle doit répondre à cinq éléments essentiels de la disposition :
+i) il doit y avoir fourniture;
+ii) il doit s’agir de la fourniture d’un service municipal;
+iii) la fourniture doit être effectuée au propriétaire ou à l’occupant d’un immeuble situé dans une région géographique donnée;
+iv) la fourniture doit être effectuée « par un gouvernement ou une municipalité » ou « pour le compte d’un gouvernement ou d’une municipalité »;
+v) le service doit être un service que l’occupant ne peut refuser.
+Seuls les deux derniers éléments du critère sont en litige.
+[24] Pour les motifs qui suivent, je conclus que la fourniture n’était pas effectuée pour le compte d’une municipalité.
+[25] Les notes explicatives de juin 2003 sont utiles :
+Selon la version restructurée de l’article 21, le deuxième type de fournitures visé par l’article, à savoir la fourniture d’un service municipal effectuée par une personne autre que l’administration municipale, fait l’objet du sous‑alinéa a)(ii). Cette disposition porte sur le cas où une personne, comme une société du secteur privé, livre le service aux résidents municipaux à titre de fournisseur légal, mais le fait « pour le compte » de l’administration municipale, en ce sens que la prestation du service ferait par ailleurs partie du mandat de l’administration de s’assurer que les résidents sous sa compétence ont accès au service. Le passage selon lequel le service est fourni « pour le compte » de l’administration municipale sert ainsi à qualifier la nature du service visé par la disposition.
+[Non souligné dans l’original.]
+[26] « [P]our le compte de » est certainement plus large que le « mandat » mentionné plus tôt. Les représentants des deux villes de Quispamsis et de Grand Bay‑Westfield ont indiqué dans leur témoignage qu’il n’y avait pas de programme de collecte des ordures, ni de crédit budgétaire pour un tel programme. De même, la Loi sur les municipalités est de nature permissive, et les municipalités « peuvent » fournir un service de collecte des ordures. Aucune autorité municipale n’avait de contrat légal ou d’entente écrite selon lequel l’appelante fournirait des services réguliers de collecte porte‑à‑porte des ordures pour le compte des municipalités[15]. Il n’y avait pas de lettre précisant les services à fournir. Les règlements n’empêchaient pas les personnes d’apporter leurs propres ordures au site d’enfouissement si elles choisissaient de le faire. En effet, certains résidents municipaux apportaient leurs ordures à Crane Mountain. Grand‑Bay Westfield n’avait pas de règlement régissant la collecte des ordures de quelque type que ce soit. De même, l’appelante communiquait avec ses clients au moyen de sa propre publicité et non par l’intermédiaire des municipalités ou selon leurs directives.
+[27] Si j’avais conclu à tort que l’appelante n’effectuait pas une fourniture distincte de service d’élimination, l’appelante serait également déboutée sur ce moyen parce qu’elle ne fournissait pas le service d’élimination pour le compte d’un gouvernement ou d’une municipalité.
+[28] L’appelante doit satisfaire au dernier critère selon lequel elle fournissait un service que le propriétaire ou l’occupant ne pouvait refuser.
+[29] La preuve indique clairement que les résidents municipaux avaient en tout temps le choix d’apporter leurs ordures à Crane Mountain de leur propre initiative. En résumé, l’appelante n’a pas satisfait aux dispositions d’exemption de la partie IV de la Loi. Plus particulièrement, l’appelante n’a pas satisfait aux critères énoncés à l’article 20, car elle n’est pas une municipalité ni un autre organisme établi par celle-ci et elle n’a pas agi à titre de mandataire pour Fundy, les municipalités ou les résidents municipaux. De même, l’appelante n’a pas satisfait aux critères énoncés à l’article 21 de la partie VI, car elle n’a pas agi pour le compte des municipalités, et les résidents municipaux n’étaient pas obligés d’accepter le service de collecte des ordures. Enfin, de manière générale, l’appelante n’a pas réussi à démolir bon nombre des hypothèses du ministre. L’appelante n’a tout simplement pas présenté de preuve prima facie pour réfuter la plupart des hypothèses importantes.
+Pénalité
+[30] La nouvelle cotisation du ministre comprend une pénalité de 7546,60 $ pour la période du 1er septembre 1999 au 30 novembre 2001. Celle-ci n’a pas été revendiquée de façon sérieuse. Je présume que la pénalité a été imposée en vertu de l’article 280 pour remise tardive de la TPS. Dans la décision Pillar Oilfield Projects Ltd. v. R.[16], confirmée par la Cour d’appel fédérale dans l’arrêt Consolidated Canadian Contractors Inc. v. R.[17], le juge Bowman a conclu que la pénalité en vertu de l’article 280 n’était pas automatique. Comme l’a souligné le juge Bowman, il serait répugnant de ne pas avoir l’occasion de se disculper en établissant la diligence raisonnable.
+[31] Je n’ai pas de peine à conclure que l’appelante a respecté la norme élevée de diligence raisonnable énoncée dans la décision Pillar Oilfield. On peut comprendre que l’appelante a conclu qu’il y avait deux fournitures distinctes : i) la collecte des ordures et ii) leur élimination. La décision n’est ni simple, ni tout à fait claire. Les articles interreliés de la Loi sur la taxe d’accise sont complexes. Je n’ai aucune difficulté à écarter la pénalité.
+[32] L’appel est accueilli, mais seulement en ce qui concerne la pénalité. Les dépens ne sont pas adjugés parce que l’appel est interjeté suivant la procédure informelle de la Cour et que le montant de TPS est supérieur à 7500 $. À tous autres égards, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 4e jour de mai 2007.
+« C.H. McArthur »
+Le juge McArthur
+Traduction certifiée conforme
+ce 18e jour d’octobre 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI223
+NO DU DOSSIER DE LA COUR : 2005-2981(GST)I
+INTITULÉ : Gin Max Enterprises Inc. c.
+Sa Majesté La Reine
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATES DE L’AUDIENCE : Les 4 et 5 décembre 2006
+MOTIFS DU JUGEMENT : L’honorable juge C.H. McArthur
+DATE DU JUGEMENT : Le 4 mai 2007
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Charles Leibovich
+Me Kim Nelson
+Avocat de l’intimée :
+Me Michael Ezri
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom : Me Charles Leibovich et Me Kim Nelson
+Cabinet : Wasserman, Stotland, Bratt, Grossbaum
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] L.R.C. (1985), ch. E-15 (et ses modifications).
+[2] Pendant les années pertinentes, l’appelante a exercé ses activités sous plusieurs noms, dont Dominion Refuse Collector et Campbell Stillwell Residential Services.
+[3] Au Nouveau-Brunswick, la TPS et la TVP sont réunies en une TVH.
+[4] Les redevances de déversement désignent les frais imposés pour le déchargement des déchets au site d’enfouissement.
+[5] Une facture caractéristique a été présentée à titre de pièce A-1, onglet R. Cette facture était datée du 1er décembre 2001 pour l’année civile 2002 et, comme telle, elle ne se rapporte pas à la période visée par le présent appel. Cependant, il est évident que même si les redevances de déversement peuvent avoir été plus faibles pour les années 1999, 2000 et 2001, elles étaient certainement beaucoup plus importantes que le montant facturé pour la collecte des ordures.
+[6] [1999] G.S.T.C. 15, 99 G.S.C. 7101 (C.A.F.).
+[7] [1995] G.S.T.C. 40, 3 G.S.T. 2092 (C.C.I.).
+[8] [2000] G.S.T.C. 42, 2000 G.T.C. 4104 (C.A.F.).
+[9] Voir Oxford Frozen Foods Ltd. v. R., [1996] G.S.T.C. 76; Club Med Sales Inc. v. R., [1997] G.S.T.C. 28; Winnipeg Livestock Sales Ltd. v. R., [1998] G.S.T.C. 87; Camp Kahquah Corp. v. R., [1998] G.S.T.C. 100; Sterling Business Academy Inc. v. R., [1998] G.S.T.C. 130; Avenue Business Campuses Ltd. v. R., [2001] G.S.T.C. 125; Robertson v. R., [2002] G.S.T.C. 13; 1219261 Ontario Inc. [Hidden Bay Lodge] v. R., [2004] G.S.T.C. 4; Canada Trustco Mortgage Co. v. R., [2004] G.S.T.C. 169.
+[10] Fourniture unique et fournitures multiples, énoncé de politique daté du 26 avril 2004.
+[11] Précitée, note 9, aux par. 12-14.
+[12] [1986] 3 C.F. 553. Le juge McGuigan énonce un critère en quatre volets pour décider si un travailleur est un employé ou un entrepreneur indépendant.
+[13] Voir les énoncés de politique P-159R1 — Sens de l’expression « peut raisonnablement être considéré comme accessoire » (le 8 mars 1999) et P-160R — Sens de l’expression « le bien ou le service […] est réputé faire partie [d’un] autre bien ou service s’ils ont été fournis ensemble » (le 1er avril 1998) pour la position administrative de l’Agence du revenu du Canada.
+[14] L’article 21/V/VI est inclus dans l’annexe A.
+[15] Des éléments de preuve ont été présentés concernant des contrats pour l’enlèvement des « gros » articles, tels que les appareils ménagers et les meubles mis au rebut. Comme ces ententes ont été conclues à l’extérieur de la période visée, elles ne sont pas particulièrement pertinentes. Elles démontrent toutefois qu’un entrepreneur privé peut effectuer certains services municipaux pour le compte d’une municipalité et que cela a été fait.
+[16] [1993] G.S.T.C. 49 (C.C.I.) [procédure informelle].
+[17] 98 G.T.C. 6303 (C.A.F.).

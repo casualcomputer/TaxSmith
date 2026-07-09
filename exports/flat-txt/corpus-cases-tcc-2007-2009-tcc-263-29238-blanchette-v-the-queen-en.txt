@@ -1,0 +1,165 @@
+Title: Blanchette v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29238/index.do
+Corpus path: corpus/cases/tcc/2007/2009-tcc-263-29238-blanchette-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-12-14
+
+# Blanchette v. The Queen
+
+- Citation: 2009 TCC 263
+- Decision date: 2007-12-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7039, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blanchette v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-12-14
+Neutral citation
+2009 TCC 263
+File numbers
+2007-2344(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2344(IT)I
+BETWEEN:
+ANDRÉ BLANCHETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on December 14, 2007, at Montréal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Mounes Ayadi
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years is dismissed without costs in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 22nd day of May 2009.
+“Gaston Jorré”
+Jorré J.
+Translation certified true
+on this 30th day of June 2009
+Margarita Gorbounova, Translator
+Citation: 2009 TCC 263
+Date: 20090522
+Docket: 2007-2344(IT)I
+BETWEEN:
+ANDRÉ BLANCHETTE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+Issue
+[1] The Minister of National Revenue (the Minister) reassessed the appellant’s tax return in order to add $33,625 to his 2002 income and $11,856 to his 2003 income. The Minister determined these amounts by performing an analysis of the appellant’s and his spouse’s bank deposits. The Minister also imposed penalties under subsection 163(2) of the Income Tax Act (the ITA).
+[2] Two witnesses testified in the appeal: the appellant and the auditor. Eight exhibits were filed.
+The facts
+[3] The appellant was a salaried worker. He also owned a restaurant at an arena in L’Assomption, which he operated in the evenings and on weekends. Furthermore, he was the majority shareholder of 9074-7502 Québec inc., which operated an outfitter in Saguenay. The appellant created the company and was its only shareholder. Later on, his spouse, Pierrette Lemire, became a shareholder.
+[4] The appellant declared a net family income of $33,018 in 2002 and $31,171 in 2003. The appellant’s salary was $44,600 in 2002 and $49,774 in 2003.[1]
+[5] The auditor, Isabelle Vermette, noted material weaknesses in the accounting and undertook an income assessment, analyzing the deposits made to the appellant’s and Ms. Lemire’s bank accounts.
+[6] The auditor described her work method and produced exhibits 1‑1 and 1‑2. In short, she added up all of the deposits and subtracted the declared income and the other amounts that had been explained. She also disregarded any amount that could be a deposit from the outfitter (9074-7502 Québec inc.).[2]
+[7] In general, the appellant did not question the auditor’s method. His claim was that he had received from Ms. Lemire some sums of money that should have been taken into account. Those sums would explain the deposits and, as a result, show that there was no undeclared income.
+[8] The appellant’s explanations were not always easy to follow.
+[9] His notice of appeal states the following: [Translation] “. . . my spouse had transferred $38,500 in cash to me, which I used to compensate for operating deficits after various fast-food chains opened up”. It also states that [Translation] “. . . in return for other sums of money . . . ” he handed over 49% of 9074-7502 Québec inc. to his spouse.
+[10] Before the cross-examination, the appellant had not testified in regard to the $38,500 he used to make up for the operating losses of the restaurant.
+[11] The appellant testified that Ms. Lemire had given him $79,000 over the years 2001 and 2002. She used that sum to buy 49% of the shares of the appellant’s outfitter. No written contract of purchase was drawn up for the purchase of the shares.
+[12] The appellant filed Exhibits A‑1 to A‑6.
+[13] Exhibit A‑4 is Ms. Lemire’s bank statement dated December 31, 2001. The appellant highlighted in yellow the withdrawals of the sums that Ms. Lemire had allegedly given to him. These amounts total $52,350, and the last highlighted withdrawal was made on June 7, 2001.[3] The sums were part of an inheritance that Ms. Lemire had received and were used to operate the outfitter.
+[14] The appellant also filed as Exhibit A‑6 copies of three share certificates for the outfitter. The first one dated March 4, 1999, for 100 shares is in the appellant’s name. The second one dated December 31, 2002, for 410 shares is also in the appellant’s name. The third one dated December 31, 2002, for 490 shares is in Ms. Lemire’s name.
+[15] The appellant also filed the minutes of a special meeting of the company held on September 23, 2003,[4] at which the transfer of 490 of the appellant’s shares to Ms. Lemire was proposed and accepted. That meeting took place almost nine months after the shares were issued to Ms. Lemire.
+[16] The appellant testified that the $52,350 were part of the total amount of $79,000 that Ms. Lemire had paid for the shares. Although Ms. Lemire had made payments on the shares in 2001, the appellant stated that he issued the share certificates only after the shares had been paid off in full.
+[17] During cross-examination, the appellant was asked why Ms. Lemire’s withdrawals were relevant to 2002 and 2003. The appellant replied that he had saved that money and used it, at least partially, in 2002 and 2003 to offset the outfitter’s lack of revenue. Later on in cross-examination, he explained that he kept significant amounts of money at home to finance purchases for the outfitter. These purchases were sometimes urgent. For example, on one occasion, he had to buy a truck in one hour. He was not afraid to keep large sums of money at home because he had a secure location and three dogs.
+[18] The money received from Ms. Lemire also helped offset the restaurant’s losses.
+[19] In addition to the $52,350, the appellant received the rest of the $79,000, that is $26,650, from Ms. Lemire in 2002.
+[20] When the appellant was asked about the $38,500 mentioned in the Notice of Appeal, he replied that it was part of the $79,000 paid for the shares.[5]
+[21] Normally, the restaurant is open from September to March or to mid‑March. The outfitter was operated during four months of the year: from June to October.
+[22] Based on the financial statements filed, the outfitter lost $8,201 in 2001, $10,578 in 2002 and $13,140 in 2003.[6] The restaurant lost $25,486 in 2002 and $29,336 in 2003.[7]
+[23] The revenue of the appellant’s business was not always deposited in the bank. Sometimes it was used to finance business expenses directly.[8]
+[24] During cross-examination, counsel for the respondent suggested the following to the appellant:
+(a) When the auditor first presented the appellant with a draft assessment for the additional income, the appellant’s only explanation was that these were deposits arising from the outfitter.
+(b) The appellant first spoke of the deposits provided by Ms. Lemire only later on, during a phone call on November 30, 2004, after the auditor had redone the draft assessment to ensure that it did not include any deposits that could be part of the outfitter’s revenues.
+(c) The sum provided by Ms. Lemire that was discussed on November 30 was $30,000, not $79,000 or $38,500.
+[25] The appellant disagreed with the first two points and stated that the auditor was aware of the sums provided by Ms. Lemire before November 30, 2004. As for the third point, he stated that he had asked the auditor whether she had taken into account the $38,000 provided by Ms. Lemire.[9]
+[26] The auditor testified that the appellant told her that the discrepancy was in part due to the outfitter’s revenues on November 22, when she gave the appellant a draft assessment. The appellant provided no other explanation at that time.
+[27] The appellant told the auditor that Ms. Lemire had given him $30,000 to cover living expenses when the auditor phoned him on November 30 to inform him that the deposits pertaining to the outfitter did not explain all the discrepancies. The appellant did not say that the $30,000 was used for the outfitter or for the restaurant.[10]
+[28] Ms. Lemire did not testify, and the appellant did not produce a bank statement for her accounts for any period after 2001.
+Analysis
+[29] This is a question of fact.
+[30] The appellant is claiming that the unexplained deposits totalling $45,481[11] are part of the $79,000 that Ms. Lemire paid for the shares: $52,350 paid in 2001 and $26,650 in 2002. This would mean that, by the end of 2001, the appellant had to have been keeping at least $18,831 in cash at his house, a sum that would have become available after 2001.[12] By the end of 2002, he would have to have been keeping at least $11,856 at home, which would have become available in 2003.[13]
+[31] The question is why. According to the appellant, it was to finance the outfitter’s expenses, which were sometimes urgent, even though the outfitter did not operate from October to March. However, it was not necessary to keep those large sums at home in order to finance the expenses in cash, because, according to the appellant, those sums were later deposited in the bank in several instalments.[14]
+[32] Ms. Lemire did not testify. Although the appellant produced her bank statement for 2001, he did not do so for 2002. The appellant’s testimony was not corroborated.
+[33] I accept the auditor’s testimony stating that it was only on November 30 that the sums provided by Ms. Lemire were discussed and that the appellant spoke of $30,000, not $79,000.
+[34] The appellant’s explanations were difficult to follow and seemed to change with time.
+[35] I do not accept the appellant’s evidence.
+[36] Consequently, the changes made by the Minister to the appellant’s income will be retained.
+Penalties
+[37] There is still the issue of penalties to be decided. Subsection 163(2) of the ITA applies to
+[e]very person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return . . ..
+[38] The burden of proof with respect to penalties is on the Minister, and
+“[g]ross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.[15]
+[39] I also have to consider Justice Nadon’s comments in the Federal Court of Appeal decision in Panini v. Canada:[16]
+. . . the law will impute knowledge to a taxpayer who, in circumstances that dictate or strongly suggest that an inquiry should be made with respect to his or her tax situation, refuses or fails to commence such an inquiry without proper justification.
+[40] In this case, the gross business revenue declared by the appellant was $26,744 in 2002 and $25,385 in 2003. The Minister added the amounts of $33,625 in 2002 and $11,856 in 2003, which make up approximately 125% and 45% respectively of the gross business income declared.
+[41] If we compare the undeclared amounts to the total amount of the salaries, amounts withdrawn from an RRSP[17] and gross business income declared,[18] the undeclared amounts make up 47% and 15% of the total income for 2002 and 2003 respectively.
+[42] These amounts are too significant, relatively and in the absolute, to find that there was not, at the very least, an indifference as to whether the ITA was complied with or not. Therefore, there is gross negligence and the penalty is warranted.
+[43] The appeal is dismissed without costs.
+Signed at Ottawa, Canada, this 22nd day of May 2009.
+“Gaston Jorré”
+Jorré J.
+Translation certified true
+on this 30th day of June 2009
+Margarita Gorbounova, Translator
+CITATION: 2009 TCC 263
+COURT FILE NO.: 2007-2344(IT)I
+STYLE OF CAUSE: ANDRÉ BLANCHETTE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: December 14, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: May 22, 2009
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Mounes Ayadi
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit I-2, line 101, pages 1 and 4.
+[2] In 2003, directly, because she could identify the deposits arising from the outfitter going into the Bank of Montréal account, and in 2002, indirectly, by subtracting the entire gross revenue of 9074-7502 Québec inc. minus the amounts deposited into the business account.
+[3] Exhibit A-4 is not easy to read. The last page pertains to the account for the outfitter in 2001. The top of the left column on the first page and the bottom of the right column on the second last page deal in part with a different client of the bank.
+[4] Exhibit A-5, page 1.
+[5] Transcript, questions 130 to 136.
+[6] Exhibits A-1 to A-3. At the start of 2001, the outfitter’s accrued losses were $40,335 (exhibit A-1, page 3).
+[7] Exhibit I-2, page 3, line 135, middle column, and page 6, line 135, middle column.
+[8] Transcript, questions 149, 150, 166, 182 and 183.
+[9] Transcript, questions 152 to 170.
+[10] Transcript, questions 234 and 260 to 269.
+[11] $33,625 in 2002 and $11,856 in 2003.
+[12] The $18,831 had been at his house since June when Ms. Lemire made the last withdrawal in question in 2001.
+[13] Since the appellant claims that Ms. Lemire gave him $26,650 in 2002, and since he has unexplained deposits of $33,625 in 2002 and $11,856 in 2003 ($33,625 + $11,856 = $45,481), the appellant would have had to have $18,831 ($45,481 - $26,650) at his house on December 31, 2001. Since Ms. Lemire made no payments in 2003, the appellant should have had at his house on December 31, 2002, the total amount of the unexplained deposits for 2003, that is, $11,856.
+[14] Exhibit I-1, page 1.
+[15] According to Justice Strayer in Venne v. Canada (Minister of National Revenue - M.N.R.), [1984] F.C.J. No. 314 (QL).
+[16] 2006 FCA 224, paragraph 43.
+[17] Only in 2003.
+[18] These amounts can be found in Exhibit I-2.

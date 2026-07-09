@@ -1,0 +1,310 @@
+---
+title: "CIBC World Markets Inc. v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29972/index.do"
+last_modified: "2010-09-08"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 460"
+citation2: ""
+neutral_citation: "2010 TCC 460"
+decision_date: "2010-09-08"
+language: "en"
+item_id: "29972"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6456
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:02:00.186000+00:00"
+cases_cited_count: 2
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2254c7c19b6a3db6d0540585b4342ad08bde8294e2acbdac8ce1502867ad277b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# CIBC World Markets Inc. v. The Queen
+
+- Citation: 2010 TCC 460
+- Decision date: 2010-09-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6456, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+CIBC World Markets Inc. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-09-08
+Neutral citation
+2010 TCC 460
+File numbers
+2007-3926(GST)G
+Judges and Taxing Officers
+Gerald J. Rip
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2007-3926(GST)G
+BETWEEN:
+CIBC WORLD MARKETS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 10, 2010, at Toronto, Ontario.
+Before: The Honourable Gerald J. Rip, Chief Justice
+Appearances:
+Counsel for the Appellant:
+Sean C. Aylward
+Martha K. MacDonald
+Al Meghji
+Counsel for the Respondent:
+Marilyn Vardy
+Craig Maw
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made pursuant to Part IX of the Excise Tax Act in respect of the period from November 1, 1999 to October 31, 2000 is dismissed with costs.
+Signed at Ottawa, Canada, this 8th day of September 2010.
+"Gerald J. Rip"
+Rip C.J.
+Citation: 2010 TCC 460
+Date: 20100908
+Docket: 2007-3926(GST)G
+BETWEEN:
+CIBC WORLD MARKETS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Rip, C.J.
+[1] CIBC World Markets Inc. appeals from an assessment made pursuant to Part IX of the Excise Tax Act ("ETA") for the period November 1, 1999 to October 31, 2000. In the assessment for 2000 the Minister of National Revenue ("Minister") did not allow the appellant to revise claims for input tax credits ("ITC") ("revised claims") for 1998 and 1999 in its Goods and Services Tax ("GST") return for 2000. According to the Minister, the appellant cannot use a different ITC allocation methodology ("revised methodology") in its 2000 return to claim ITCs for 1998 and 1999 when amounts already claimed for these years were based on a fair and reasonable methodology (“original” or “initial” methodology) determined by the appellant and used consistently by it throughout each of those years: sections 141.01, 169 and 225 of the ETA.[1]
+[2] The appellant also appealed from a penalty assessed under paragraph 280(1)(a) of the ETA on the basis it was duly diligent in calculating and claiming ITCs and otherwise attempting to comply with its obligation under the ETA. The Minister questioned if the appellant has any rights to raise this issue, whether it was duly diligent in preventing the failure to remit net tax and to challenge the imposition of the penalty. Appellant’s counsel declared that if her client were successful, the penalty must fall; if her client does not succeed, the penalty will remain. She conceded any “due diligence” defence.
+[3] The parties agreed on the following facts:
+A.
+The Appellant is a financial services company resident in Canada and a wholly-owned subsidiary of the Canadian Imperial Bank of Commerce, a diversified financial institution resident in Canada.
+B.
+The Appellant is a financial institution registered under the Excise Tax Act (Canada) (the "Act") for purposes of the goods and services tax (the "GST").
+C.
+The Appellant's fiscal year for purposes of the GST is November 1 to October 31.
+D.
+The Appellant filed its GST return:
+(a)
+for the 1998 fiscal period on February 1, 1999 (the "1998 GST return");
+(b)
+for the 1999 fiscal period on January 31, 2000 (the "1999 GST return");
+(c)
+for the 2000 fiscal period on January 31, 2001 (the "2000 GST return");
+E.
+The Appellant carried on business in several divisions during the 1998 to 2000 fiscal years, including the Private Client Investment division (the "PCI division")
+F.
+The amount of GST paid or payable by the PCI division was:
+(a)
+$3,157,271 in the 1998 fiscal year (the "1998 PCI GST");
+(b)
+$2,525,187 in the 1999 fiscal year (the "1999 PCI GST");
+(c)
+$3,581,460 in the 2000 fiscal year (the "2000 PCI GST");
+G.
+The Appellant claimed a total input tax credit ("ITC") of $214,378 in respect of the 1998 PCI GST in its 1998 and 1999 GST returns. The amount of the claim was calculated by multiplying the 1998 PCI GST by a recovery rate of 6.79 per cent.
+H.
+The Appellant claimed an ITC of $152,774 in the 1999 GST return in respect of the 1999 PCI GST by a recovery rate of 6.79 per cent. The amount of the claim was calculated by multiplying the 1999 PCI GST by a recovery rate of 6.05 per cent.
+I.
+The Appellant employed an output-based (revenue) methodology (the "Initial Methodology") to determine the recovery rates of 6.79 per cent and 6.05 per cent, respectively, that were used in calculating the ITC claims described above.
+J.
+The Initial Methodology is fair and reasonable and was used by the appellant consistently throughout the 1998 and 1999 fiscal years.
+K.
+The Minister of National Revenue (the "Minister") allowed the ITC claims made in the 1998 and 1999 GST returns in respect of the 1998 and 1999 PCI GST, except for certain adjustments that are not at issue in this Appeal.
+L.
+The Appellant claimed an additional amount of $577,781 as an ITC in respect of the 1998 PCI GST in its 2000 GST return. Such claim was calculated by multiplying the 1998 PCI GST by a recovery rate of 25.09 per cent, and then subtracting the ITC in respect of the 1998 PCI GST that had been claimed and allowed previously. (Such calculation is reflected on page 2 of the Minister's Schedule J attached hereto at Tab A)[2].
+M.
+The Appellant also claimed an additional amount of $466,402 as an ITC in respect of the 1999 PCI GST in its 2000 GST return. Such claim was calculated by multiplying the 1999 PCI GST by a recovery rate of 24.52 per cent, and then subtracting the ITC in respect of the 1999 PCI GST that had been claimed and allowed previously. (Such calculation is reflected on page 2 of the Minister's Schedule I attached hereto at Tab B)[3].
+N.
+In the 2000 GST return, the Appellant claimed an ITC of $897,941 in respect of the 2000 PCI GST. Such claim was calculated by multiplying the 2000 PCI GST by a recovery rate of 25.07 per cent.
+O.
+The Appellant employed a methodology based on both inputs and outputs (the "Revised Methodology") to determine the recovery rates of 25.09 per cent, 24.52 per cent and 25.07 per cent, respectively, referred to above at paragraphs 12 to 14.
+P.
+For purposes of this particular proceeding only, the Respondent is not challenging that the Revised Methodology is a fair and reasonable method.
+Q.
+If the Court finds that the Appellant was otherwise entitled to claim the amounts of $577,781 and $466,402 (referred to in paragraphs 12 and 13 above)[4] in its 2000 GST return, the Respondent agreed that the amounts were claimed within the two‑year limitation period set out in subsection 225(4) of the Act.
+R.
+The Minister assessed the Appellant's 2000 fiscal year pursuant to the Act by Notice of Assessment No. 05B 11549 dated December 17, 2004 (the "Assessment").
+S.
+By way of the Assessment, the Minister allowed the ITC claim in respect of the 2000 PCI GST but disallowed the additional ITC claims in respect of the 1998 PCI GST (i.e., $577,781) and the 1999 PCI GST (i.e., $466,402). The Minister also assessed a penalty and interest in the Assessment, pursuant to subsection 280(1) of the Act.
+T.
+The Appellant objected to the Assessment on March 14, 2005 and the Minister confirmed the Assessment, as it related to the 1998 and 1999 PCI GST, by Notice of Decision issued on June 26 2007.
+U.
+The Appellant objected to the Assessment on March 14, 2005 and the Minister confirmed the Assessment, as it relates to the 1998 and 1999 PCI GST, by Notice of Decision issued on June 26, 2007.
+[4] The only other evidence were "read‑ins" from examinations for discovery of Ashish Patel, an auditor of the Canada Revenue Agency who was responsible for auditing the appellant's 2000 GST return, representing the Crown and Stephen Bobkin, who at time of discovery on September 15, 2008, was Senior Director of Commodity Taxes with Canadian Imperial Bank of Commerce, the parent company of the appellant. Mr. Bobkin was authorized to represent the appellant.
+[5] A registrant[5] is generally entitled to claim an ITC in respect of GST paid or payable in the course of acquiring a property or service in a commercial activity, pursuant to subsection 169(1)[6] of the ETA. An ITC in respect of a particular property or service arises in the reporting period during which GST is paid or payable by the registrant in respect of the acquisition of the property or service.
+[6] A registrant calculates its "net tax" for each reporting period in its annual GST return. Net tax is generally calculated as the total amount of GST collectible or collected by the registrant less any ITCs claimed by the registrant: subsection 225(1). If the amount of net tax is positive, the registrant is to pay the excess amount to the fisc; if the amount is negative the registrant is entitled a refund of tax[7].
+[7] The appellant’s PCI division carries on both commercial and other activities and is therefore required to determine the extent to which property or services are acquired or imported for consumption, use or supply in its commercial activities, expressed as a percentage: subsection 169(1). The ETA does not specify any method or formula to determine the extent to which property or services were acquired or imported for use partly in commercial activities and partly in other activities. Subsection 141.01(5) simply requires the allocation method to be "fair and reasonable and … be used consistently by the person throughout the year”[8]. The registrant may claim all of part of the ITC which it has so calculated in the return which it files for the reporting period in which tax is paid on the input. Or the registrant may also choose to claim all or part of the credit in a subsequent return but within the limitation period set out in subsection 225(4) of the ETA.
+[8] The appellant is a "specified person"[9] and as such is required to claim an ITC within the three year period described in subparagraph 225(4)(a)(iii), i.e. the reporting period during which GST was paid or payable or in a return for one of the following two reporting periods. The parties agree that the revised ITCs were claimed within this limitation period. Also, before filing the GST return claiming an ITC, the registrant must have obtained documentation to support the amount of the ITC to be determined: subsection 169(4), paragraph 225(3)(a) and the Input Tax Credit Information (GST/HST) Regulations. This was also fulfilled by the appellant.
+[9] The issue in this appeal, according to the appellant, is whether, for purposes of claiming ITCs, its method of allocating inputs between those used in a “commercial activity” and those used in an “exempt activity” was “fair and reasonable” and used consistently throughout each of 1998 and 1999 as required by section 141.01 of the ETA and did not offend section 225 of the ETA.
+[10] The respondent’s view of the issue at bar is whether the appellant is entitled to claim additional ITCs in its 2000 reporting period in respect of tax paid on inputs in its 1998 and 1999 reporting periods. The appellant used a method in calculating its ITCs for 1998 and 1999 that was fair and reasonable as required by subsection 141.01(5) and was used by the appellant consistently throughout each of the 1998 and 1999 reporting periods. The GST returns filed by the appellant for 1998 and 1999 reporting periods were accurate, insofar as they reflected the extent of the use of properties and services acquired by the appellant’s PCI division in commercial activity for each reporting period. The respondent’s position is that once a registrant has made a proper ITC methodology allocation for a fiscal year, the registrant cannot change the method in a later period. For the appellant to succeed, the appellant must establish that subsection 225(3) allows its claim and that it used the revised methodology “consistently” throughout the fiscal year, as described in subsection 141.01(5) of the ETA.
+[11] The initial methodology to determine ITCs for the appellant’s PCI division for 1998 and 1999 was based on outputs and resulted in 6.79 percent and 6.05 percent of GST paid or payable in the 1998 and 1999 fiscal years, respectively, in commercial activities; ITCs were claimed on that basis in the GST returns for 1998 and 1999. The revised or new methodology used in the 2000 GST return was based on both inputs and outputs. The revised methodology determined that 25.09 percent and 24.52 percent of GST was paid or payable in 1998 and 1999 fiscal years, respectively, relating to commercial activities. The appellant claimed ITCs in its 2000 GST return of 18.3 percent and 18.47 percent, respectively, for 1998 and 1999, that is, the difference between 25.09 percent and 6.79 percent for 1998 and the difference between 24.52 percent and 6.05 percent for 1999.
+[12] The appellant submitted that it claimed “additional” ITCs in the 2000 GST return in respect of 1998 and 1999 ITCs for the PCI division (The additional amount is sometimes referred to as “Disputed Credit”). The claim for ITCs by the appellant in its 2000 GST return, it declared, was to recover such portion of the 1998 and 1999 GST for PCI that it had not already claimed, namely 18.3 percent and 18.47 percent, respectively.
+[13] How the initial ITC claims for 1998 and 1999 were determined by the appellant is described in subparagraph G, H and I of paragraph 3 in these reasons. Descriptions of the calculations of the amounts of ITCs claimed using the revised methodology for 1998 and 1999 are contained in subparagraphs L, M and O of paragraph 3 in these reasons.
+[14] Subsection 141.01(5) of the ETA states that:
+(5) The methods used by a person in a fiscal year to determine
+(5) Seules des méthodes justes et raisonnables et suivies tout au long d’un exercice peuvent être employées par une personne au cours de l’exercice pour déterminer la mesure dans laquelle :
+(a) the extent to which properties or services are acquired, imported or brought into a participating province by the person for the purpose of making taxable supplies for consideration or for other purposes, and
+a) la personne acquiert, importe ou transfère dans une province participante des biens ou des services afin d’effectuer une fourniture taxable pour une contrepartie ou à d’autres fins;
+(b) the extent to which the consumption or use of properties or services is for the purpose of making taxable supplies for consideration or for other purposes,
+b) des biens ou des services sont consommés ou utilisés en vue de la réalisation d’une fourniture taxable pour une contrepartie ou à d’autres fins.
+shall be fair and reasonable and shall be used consistently by the person throughout the year.
+[15] One of the conditions of subsection 141.01(5) is that the method used by a registrant in a fiscal year to determine ITCs shall be fair and reasonable. There is no dispute between the parties that both the initial methodology and the revised methodology satisfy subsection 141.01(5)’s requirement that the method be fair and reasonable. And, warned the Federal Court of Appeal, if a method is fair and reasonable it is not my role to choose the best methodology from among a range of fair and reasonable alternatives, but rather to test whether the methodology used by the taxpayer meets the applicable statutory tests: Magog (Ville) v. R.[10] A registrant is free to use any fair and reasonable methodology in determining ITCs.
+[16] The phrase "used consistently by the person throughout the year" in subsection 141.01(5), according to the appellant, means simply that a registrant may not change a methodology partway through a year, that is, one may not use one methodology for GST paid or payable during the first six months of the year and another methodology for the next six months so as to maximize ITC claims. She added that subsection 141.01(5) was not meant “to prevent revisions to methodology.” She referred to Technical Notes[11] published in September 2009 with respect to draft paragraph 141.02(16)(b) for support of her position[12]:
+… Paragraph 141.02(16)(b) requires that such a method be used consistently throughout the financial institution's fiscal year (i.e. a financial institution cannot change a method partway through its fiscal year). The conditions in paragraphs 141.02(16)(a) and (b) are the same as those found in subsection 141.01(5), which apply to input tax credit allocation methods in general.
+[Emphasis added.]
+[17] In Chu v. The Queen[13] my colleague Little J., interpreting paragraph 118(5)(a) of the Income Tax Act in an appeal from an income tax assessment, held that "throughout" means "through the entire time period" and a year means 12 months. Thus, "throughout the year" means the "entire consecutive 12‑month period from January 1 to December 31 of the particular year" or in the case of a fiscal year, the consecutive 12 month period from the first day of the first month to the last day of the last month of the fiscal year.
+[18] Since the appellant used the revised methodology "uniformly over the course of 1998, 1999 and 2000 fiscal periods", appellant’s counsel submitted, the appellant complied with the requirements of subsection 141.01(5)[14]. It used the same methodology consistently throughout each of 1998 and 1999. The appellant refrained from changing methodology partway through a fiscal year and therefore, its counsel concluded, nothing further is required by the phrase in question.
+[19] The respondent stated that the output-based (revenue) methodology initially used by the appellant in calculating its 1998 and 1999 input tax credits was a fair and reasonable method and it was used by the appellant consistently throughout the 1998 and 1999 reporting periods. The GST returns filed by the appellant for each of its 1998 and 1999 reporting periods were accurate.
+[20] The reasons of Mr. Justice Noël in Ville de Magog[15] were cited by respondent’s counsel: that this Court does not have to decide whether another method, such as the revised method invoked by the appellant, is “better” or “truer” than the initial method since both methods were fair and reasonable. Counsel submitted that while the revised method yields a higher rate of tax recovery for the appellant, this does not, in and of itself, make the revised method “truer”, more approximate or “more” fair and reasonable. The fact that the appellant would have been placed in a more economically advantageous position if it had chosen to use the revised method in its 1998 and 1999 fiscal years, instead of the initial method, does not entitle the Court to fail to give effect to the initial method deliberately chosen by the appellant and used of its own volition and accord in its 1998 and 199 returns.
+[21] The ETA does not contemplate that a registrant may retroactively substitute the fair and reasonable method previously adopted and used in a prior fiscal year, according to the respondent. There are no provisions in the ETA, respondent’s counsel argued, which state that where a registrant wishes to apply a method to calculate input tax credit entitlement for a prior fiscal year, which is different than the method previously used in that prior fiscal year, the registrant is deemed not to have used the original or initial method in the prior fiscal year, but is deemed to have used the new method instead. Counsel added that subsection 141.01(5) does not speak of the method used in the fiscal year or any other fair and reasonable method that the registrant may wish to adopt within the statutory limitation period and apply to the fiscal year.
+[22] Parliament has simply not provided any means to substitute the fair and reasonable method used in the particular fiscal year, declared respondent’s counsel. The absence of any provisions in the ETA permitting the retroactive application of a different method or methods to a prior fiscal year is not accidental, but is entirely consistent with Parliament’s intent that registrants would not have the ability to substitute the method or methods used in a particular fiscal year after the fact. In support of her submission, counsel referred to Explanatory Notes to Bill C-62 concerning former section 147, which was replaced by subsection 141.01(5):
+This section provided that, for the purpose of claiming input tax credits, a registrant shall allocate inputs to supplies using a method, or methods, that are fair and reasonable in the circumstances. The legislation allows flexibility in the choice of methods as long as they are fair and reasonable. However, once a registrant adopts a method in a fiscal year, it is to be used at least until the end of that year, or until it becomes unreasonable.
+[emphasis added by counsel]
+The Explanatory Notes to Bill C-13 with respect to subsection 141.01(5) explained:
+As noted above, where properties or services are acquired or imported, or consumed or used, partly for the purpose of making taxable supplies and partly for other purposes, the interaction between subsections 141.01(2) and (3) and 169 leads to an apportionment of the tax payable in respect to the properties or services in determining the related input tax credit. Subsection 141.01(5) essentially provides that the method used to apportion must be fair and reasonable and used consistently throughout the year. It is intended to impose the same onus on registrants as does existing section 147 of the Act which it replaces. The wording of the rule is simply modified to be consistent with new subsections 141.01(2) and (3).
+[emphasis added by counsel]
+[23] Respondent’s counsel referred to the situation at bar as an example of retroactive tax planning, a term the appellant’s counsel objected to. The appellant is seeking to avoid bearing the downside of a decision made to use the output-based (revenue) method in its 1998 and 1999 fiscal years. It wishes to retroactively recharacterize the extent of the use of its inputs in the course of commercial activity in the 1998 and 1999 reporting periods, for the purposes of subsection 169(1) of the ETA, because it has since realized that it could have derived a greater tax advantage in the 1998 and 1999 fiscal years if it had chosen a different input allocation method.[16]
+[24] The appellant, on the other hand, insists that it has complied with subsection 225(3) which, its counsel submitted, was designed solely to prevent registrants from double counting ITCs and other deductions, except in limited circumstances. She referred to Technical Notes, dated July 1997:
+Subsection 225(3) ensures that there is no double counting of an amount that would reduce net tax for a reporting period. Subject to the special cases described in new paragraphs 225(3)(a) and (b), the amendment clarifies that once an amount has been 'claimed' in a return, it cannot be claimed again, whether or not that amount was allowable as an input tax credit or deduction in the first return.
+[Emphasis added]
+[25] Paragraph 225(3)(b) reads:
+225(3) An amount shall not be included in the total for B in the formula set out in subsection (1) for a particular reporting period of a person to the extent that the amount was claimed or included as an input tax credit or deduction in determining the net tax for a preceding reporting period of the person unless
+225(3) Un montant n'est pas à inclure dans le total visé à l'élément B de la formule figurant au paragraphe (1) pour la période de déclaration donnée d'une personne dans la mesure où il a été demandé ou inclus à titre de crédit de taxe sur les intrants ou de déduction dans le calcul de la taxe nette pour une période de déclaration antérieure de la personne. Le présent paragraphe ne s'applique pas si les conditions suivantes sont réunies :
+…
+. . .
+(b) where the person is claiming the amount in a return for the particular reporting period and the Minister has not disallowed the amount as an input tax credit in assessing the net tax of the person for that preceding reporting period,
+b) si la personne demande le montant dans une déclaration pour la période donnée et que le ministre ne l'ait pas refusé à titre de crédit de taxe sur les intrants lors de l'établissement d'une cotisation visant la taxe nette de la personne pour la période antérieure :
+(i) the person reports in writing to the Minister, at or before the time the return for the particular reporting period is filed, that the person made an error in claiming that amount in determining the net tax of the person for that preceding period,
+and
+(i) la personne déclare au ministre par écrit, au plus tard au moment de la production de la déclaration visant la période donnée, qu'elle a commis une erreur en demandant le montant dans le calcul de sa taxe nette pour la période antérieure,
+(ii) if the person does not report the error to the Minister …
+(ii) si elle ne déclare pas l'erreur au ministre …
+[26] The appellant did not double count, its counsel stated. The revised claim is simply the addition of the disputed credit. No part of the disputed credit was previously claimed as an ITC in the appellant’s 1998 and 1999 GST return. The appellant argued that in claiming the disputed credit for each of 1998 and 1999 it complied with the requirements of subsection 225(3) since it refrained from double-counting ITCs and other deductions. And where there is no double-counting, subsection 225(3) is fulfilled, counsel concluded.
+[27] The appellant argued that since it under‑claimed ITCs in its 1998 and 1999 GST returns and, as a result, over remitted GST to the Minister, it is entitled to correct in its 2000 GST return insufficient claims of ITCs in 1998 and 1999 and the corresponding over‑remittance of GST.
+[28] Appellant's counsel stated that in adopting a value-added tax over other tax systems, Parliament considered as a first principle the full recovery of GST paid or payable by any registrant acquiring goods or services in connection with making a taxable supply in the course of a commercial activity[17] and, in appellant's counsel's view, the disallowance of the disputed amount frustrates the fundamental purpose of the GST regime. The appellant under claimed ITCs in its 1998 and 1999 GST returns in respect of the 1998 and 1999 GST by the amount of the disputed amounts and corrected its mistake in the 2000 GST return within the applicable limitation period. To deny such correction is contrary to the purpose of ITCs in the GST regime, counsel insisted.
+[29] At his examination for discovery, Mr. Patel confirmed that at time of assessing the appellant, the Minister assumed that a choice of methodology is considered an "election" that is "executed" at the time of filing the GST return for the relevant period but "cannot be applied retroactively to replace a previous election and thereby affect a prior period filing". When the appellant filed the original GST returns for 1998 and 1999 based on a particular method, according to the Mr. Patel, the appellant filed an election for each year that cannot be changed later, save and except for the two examples in subsection 225(3).
+[30] The appellant rejects the Minister's characterization of a particular allocation method as an irrevocable election since, among other things, it is not supported by a textual, contextual and purposive analysis of subsections 225(3) and 141.01(5). Indeed, according to appellant's counsel, the Minister's view improperly disentitles the appellant to ITCs claimed within the applicable limitation period that arises from GST paid or payable that had not been claimed in an earlier return.
+[31] Counsel for the appellant stated that neither subsection 225(3) nor subsection 141.01(5) refers in any way to an election. A choice of allocation methodology is not an election. She estimated that the words "elect" or "election" are used more than 60 times in the GST portions of the ETA and concluded that Parliament is presumed to use words and expressions consistently across statutes with the same subject matter[18]. If a registrant's choice of methodology does constitute an election, the appellant argued, it would be "an unjustified or unreasonable result". Counsel referred to Nassau Walnut Investments Inc. v. R.[19] for the proposition that where the Income Tax Act does not explicitly provide for the late-fling of a designation or election, only a rebuttable presumption arises as to whether a designation or election may be late-filed. Such presumption may be rebutted where, among other reasons, the denial of a late-filing would be unjustified or unreasonable.
+[32] Subsection 141.01(5) entitles a registrant to choose any method to determine ITCs, so long as it is fair and reasonable and used consistently throughout the year. In making its choice, the registrant will normally take into consideration alternative allocation methods based on their practicality, risk and ability to maximize claimable ITCs. The choice, once put into effect and reported in a GST return, ends up being relied upon by the Minister considering the claim for ITCs for the particular period.
+[33] Canadian courts have applied the principle that an election, once made, is binding, final and cannot be altered. In Savage v. Wilby,[20] Chief Justice Richards of the New Brunswick Supreme Court, Appeal Division, referred to Lord Blackburn in the House of Lords in Scarf v. Jardine:[21]
+And at p. 621: "The principle, I take it, running through all the cases as to what is an election is this: that where a part in his own mind has thought that he would choose one of two remedies, even though he has written it down on a memorandum, or has indicated it in some other way, that alone will not bind him; but so soon as he has not only determined to follow one of this remedies, but has communicated it to the other side in such a way as to lead the opposite party to believe that he has made that choice, he has completed his election and can go no further".
+[Emphasis added.]
+[34] I need not make a finding on whether the making of a determination under subsection 169(1) and the method used by virtue of subsection 141.01(5) is an election.
+[35] Subsection 169(1) of the ETA provides the formula by which a person entitled to an ITC determines the amount of ITC. “B” in the formula is dependent on a methodology which shall be fair and reasonable and used consistently by the person throughout the year: subsection 141.01(5). When the registrant determines the amount of the ITC and then makes the claim in its return for the period, the tax authority will act on this information. To allow revisions to a claim that is void of error would permit fiscal uncertainty, something Parliament does not want.
+[36] The appellant has relied to some extent on the provisions of subsection 225(4) as authority for it to revise its claims for ITCs. The opening words of subsection 225(4) read:
+225(4) An input tax credit of a person for a particular reporting period of the person shall not be claimed by the person unless it is claimed in a return under this Division filed by the person on or before the day that is …
+225(4) La personne qui demande un crédit de taxe sur les intrants pour sa période de déclaration donnée doit produire une déclaration aux termes de la présente section au plus tard le jour suivant : . . .
+[37] The opening words of subsection 225(4) state that a person shall make an ITC claim for a period in a GST return filed within a certain time and, as I understand it, the appellant has already made such claims for 1998 and 1999. Paragraph 225(4)(a) recognizes problems a registrant may have with suppliers, for example, who may not have charged tax, a situation not an issue before me. Paragraph 225(4)(a) does not anticipate subsequent claims be filed for the same period in other circumstances.
+[38] The appellant's counsel referred to a recent decision of the Supreme Court refusing the Minister to retain an overpayment of GST. In United Parcel Service Canada Ltd. v. Canada,[22] the Crown argued that the Minister was entitled to retain an overpayment of GST because, among other things, the taxpayer had not met the procedural rules for claiming a rebate[23]. In a unanimous decision, the Supreme Court rejected the Crown's approach to the rebate entitlement, disallowing the Minister's assessment in its entirety. As Rothstein J., speaking for the Court, commented, "I do not think it lies in the mouth of the Minister to raise such an argument [about potential fraudulent rebate claims] on the facts of this case where he has agreed that there has been an overpayment and where his position is that he is entitled to retain overpaid GST."[24] It would be contrary to the principle enunciated in the UPS decision, appellant submitted, to deny the disputed amount paid in error and permit the Minister to retain the appellant's corresponding over-remission of GST.
+[39] The facts in the appeal at bar are not similar to those in UPS. The UPS case is distinguishable because the appellant at bar had not made any error or failed to "follow procedures" in making its ITC claims in the 1998 and 1999 years. On the contrary, the appellant did follow the necessary procedures and, accordingly, did receive the claims it filed in its original returns for 1998 and 1999. It got what it asked for.
+[40] All agree that the initial methodology used by the appellant for its 1998 and 1999 fiscal years was "a fair and reasonable method" for purposes of subsection 141.01(5). I believe I may assume that the appellant used its best efforts to apply the initial methodology in calculating ITCs for 1998 and 1999. The appellant suggests that in determining the use of the initial method, it erred. The possibility of a registrant making an error and wishing to correct it is contemplated in subsection 225(3). The error, as I understand it may have been the choice of the "initial method" which, in hindsight, failed to identify additional ITCs that the appellant would have uncovered using the revised method. The appellant says it has made corrections to amounts determined by the initial method by adopting the revised method within the period permitted by subsection 225(4).
+[41] Subsection 225(3) prohibits the inclusion of an amount in the total for B in subsection 225(1) for a particular reporting period to the extent that amount was claimed or included as an ITC or deduction in net tax for a preceding reporting period unless the person was not entitled to claim the amount because he could not satisfy the requirements of subsection 169(4) at the time the return for the preceding period was filed, or an error was made in filing of the return for the particular reporting period and notice is given to the Minister. Neither of those exceptions is present at bar. Once a registrant determines the ITC in accordance with section 169, it is not entitled to make another claim under subsection 225(3).
+[42] I have earlier given my reasons why subsection 225(4) does not apply to the facts of the appeal at bar so it will serve no purpose to consider if the appellant made an error contemplated by that provision. However, in any event, I do not believe the adoption of the revised methodology to unveil the revised ITC amounts was to correct any error. There is no evidence before me that the initial claim was made in error of any kind: it was the result of a methodology that, all agree, was fair and reasonable, as required by subsection 141.01(5). There is no error of law and there is no error of fact and I note that Turner, J. in Victoria and Albert Trustees v. The Commissioners of Customs and Excise,[25] had to consider whether, under the United Kingdom Value Added Tax Act 1994 and its regulations, a person changed its original method of apportioning properties because of error, as to properties purchased for business and those for non-business purposes. He wrote:
+While it is well established that "error" within Regulation 64 has to be accorded a wide meaning, the question remains for consideration whether the trustees in making returns using the income‑based method of apportionment made any error. If they had been compelled to make their returns on this basis, when in law they could not be so compelled, there would be a convincing argument to the effect that the trustees had made an error. All that has in fact happened is that the trustees, having sought independent advice, have been able to devise a basis for their returns which produces a more favourable result. The tribunal concluded on this part of the case (see p. 13‑14):
+… we cannot accept that [the] meaning [of error] is as wide as Mr. Thomas contends. In our judgment a taxpayer who has adopted a method which is an acceptable method of apportionment, and has not made a mistake in the way in which he has applied that method, cannot sensibly be regarded as having made an "error" simply because he could have chosen another acceptable method which would have produced a different amount.
+The tribunal was correct in reaching this conclusion. No error of fact or law had been made, simply an incorrect assessment of what would have been most advantageous to the trustees. I did not understand the argument for the trustees to compel a different result. It was to the effect that the word "error" was to be given a broad commonsense meaning, such that a trader who had made an error of law or error of fact should be permitted to rectify his returns and, thus, obtain repayment of sums overpaid. The problem which, as it seems to me, the trustees are unable to surmount is in demonstrating of what the error consisted, that is of fact, law or otherwise. As my holding in relation to appendix J shows, there was no error of law. No error of fact is asserted other than that a method of assessment was chosen which did not provide the most favourable outcome. It was nevertheless not one which involved any intrinsic error of fact or law.
+For these reasons already identified, the tribunal was, in my judgment, correct in the decision at which it arrived, and this appeal must be dismissed.
+[43] The appellant relied on subsection 141.01(5) arguing that the revised methodology was used consistently throughout each of 1998 and 1999. There was no change of methodology partway through a fiscal year. I disagree.
+[44] Firstly, I find it perverse that the ETA would permit a change that could not be made during the year to be made after the year is over. If the methodology is to be used consistently throughout the year it is, among other things, to ensure that there is no double counting, as the parties agree. But if the methodology used consistently throughout the year may be revised for that year once the year is over, then the purpose for the methodology to be used consistently throughout the year is defeated. All a registrant would have to do if it realizes mid-year that there is a more beneficial methodology is to use the "inferior" method consistently throughout the year and, the day after the year is over, change the prior year's methodology to one that yields a better tax result. I do not believe this was the intent of Parliament.
+[45] Secondly, adding an amount, the disputed credit, to the amounts claimed in the original GST returns for 1998 and 1999, is not a correction to the initial methodology consistently used throughout those years when the amount of the disputed credit is founded on a completely different methodology. A registrant cannot extend the limitation period to choose a methodology. The appellant’s submission that it is simply adding the amount of the Disputed Credit to a previous claim for ITCs is inventive. What the appellant did in preparing its 2000 GST return to revise the claims for 1998 and 1999 was to take the amount of GST it had paid, multiplied by the new rate, and then subtracted the amounts it had claimed in the earlier returns. Or, to put it more succinctly, the Disputed Credit, is merely a “top off” to the original ITC claim of $214,378 and $152,774 for 1998 and 1999 respectively. However, in reality, it is more than that: the so-called Disputed Credit is part of an overall claim that includes the original amounts claimed plus the Disputed Credits which are additional amounts, both amounts being the aggregate determined by a methodology different from that originally used to make the initial claims. I cannot find any comfort in the appellant’s submission that the revised methodology was used “consistently” by the appellant in the 1998 or 1999 year, within the meaning of subsection 141.01(5).
+[46] The appeal therefore is dismissed with costs.
+Signed at Ottawa, Canada, this 8th day of September 2010.
+"Gerald J. Rip"
+Rip C.J.
+APPENDIX C
+Excise Tax Act
+Loi sur la taxe d'accise
+169(1) Subject to this Part, where a person acquires or imports property or a service or brings it into a participating province and, during a reporting period of the person during which the person is a registrant, tax in respect of the supply, importation or bringing in becomes payable by the person or is paid by the person without having become payable, the amount determined by the following formula is an input tax credit of the person in respect of the property or service for the period:
+A × B
+where
+A is the tax in respect of the supply, importation or bringing in, as the case may be, that becomes payable by the person during the reporting period or that is paid by the person during the period without having become payable; and
+B is
+(a) where the tax is deemed under subsection 202(4) to have been paid in respect of the property on the last day of a taxation year of the person, the extent (expressed as a percentage of the total use of the property in the course of commercial activities and businesses of the person during that taxation year) to which the person used the property in the course of commercial activities of the person during that taxation year,
+(b) where the property or service is acquired, imported or brought into the province, as the case may be, by the person for use in improving capital property of the person, the extent (expressed as a percentage) to which the person was using the capital property in the course of commercial activities of the person immediately after the capital property or a portion thereof was last acquired or imported by the person, and
+(c) in any other case, the extent (expressed as a percentage) to which the person acquired or imported the property or service or brought it into the participating province, as the case may be, for consumption, use or supply in the course of commercial activities of the person.
+169(1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d'une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu'elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l'importation ou au transfert devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable :
+A × B
+où
+A représente la taxe relative à la fourniture, à l'importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu'elle soit devenue payable;
+B :
+a) dans le cas où la taxe est réputée, par le paragraphe 202(4), avoir été payée relativement au bien le dernier jour d'une année d'imposition de la personne, le pourcentage que représente l'utilisation que la personne faisait du bien dans le cadre de ses activités commerciales au cours de cette année par rapport à l'utilisation totale qu'elle en faisait alors dans le cadre de ses activités commerciales et de ses entreprises;
+b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d'améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l'immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l'immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l'a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+141.01(5) The methods used by a person in a fiscal year to determine
+141.01(5) Seules des méthodes justes et raisonnables et suivies tout au long d'un exercice peuvent être employées par une personne au cours de l'exercice pour déterminer la mesure dans laquelle :
+(a) the extent to which properties or services are acquired, imported or brought into a participating province by the person for the purpose of making taxable supplies for consideration or for other purposes, and
+a) la personne acquiert, importe ou transfère dans une province participante des biens ou des services afin d'effectuer une fourniture taxable pour une contrepartie ou à d'autres fins;
+(b) the extent to which the consumption or use of properties or services is for the purpose of making taxable supplies for consideration or for other purposes,
+b) des biens ou des services sont consommés ou utilisés en vue de la réalisation d'une fourniture taxable pour une contrepartie ou à d'autres fins.
+shall be fair and reasonable and shall be used consistently by the person throughout the year.
+CITATION: 2010 TCC 460
+COURT FILE NO.: 2007-3926(GST)G
+STYLE OF CAUSE: CIBC WORLD MARKETS INC. v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 10, 2010
+REASONS FOR JUDGMENT BY: The Honourable Gerald J. Rip, Chief Justice
+DATE OF JUDGMENT: September 8, 2010
+APPEARANCES:
+Counsel for the Appellant:
+Sean C. Aylward
+Martha K. MacDonald
+Al Meghji
+Counsel for the Respondent:
+Marilyn Vardy
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Sean C. Aylward, Martha K. MacDonald
+and Al Meghji
+Firm: Osler, Hoskin & Harcourt, LLP
+Toronto, Ontario
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The relevant portions of these provisions are reproduced in Appendix A to these reasons. For ease of reading, the provisions may be repeated in the main body of the reasons.
+[2] See Appendix B attached to these reasons.
+[3] See Appendix C attached to these reasons.
+[4] Paragraphs L and M in these reasons.
+[5] A "registrant" means a person who is registered or who is required to be registered, under Subdivision d of Division V of the ETA: subsection 123(1). In this appeal, the registrant is the appellant.
+[6] Reproduced in Appendix A to these reasons.
+[7] The obligation to remit is set out in subsection 228(2); the right to a refund is set out in subsection 229 of the ETA.
+[8] Reproduced in Appendix C to these reasons.
+[9] Subsection 225(4.1) defines a "specified person" during a reporting period as one who is a financial institution described subparagraph 149(1)(a)(i) to (v) during the reporting period, or a person whose threshold amounts determined in accordance with subsection 249(1), exceeds $6 million for both the particular fiscal year of that person that includes the reporting period and the person's previous fiscal year. The appellant was a financial institution during the relevant reporting periods.
+[10] [2001] GSTC 98 (Fr), [2001] GSTC138 (Eng), paragraphs 15-17 and 29.
+[11] From time to time as legislation is proposed, the Department of Finance releases explanation notes referred to as Technical Notes, to explain the intention of the drafters of the proposed legislation.
+[12] It is proposed that paragraph 141.01(16)(b) supersede subsection 141.01(5) for financial institutions. Both provisions use the words "used consistently ... throughout the ... period".
+[13] (2005) 2 C.T.C. 2443; 2005 DTC 599, 601.
+[14] The word "consistently" is defined as meaning "uniformly": The Oxford English Dictionary, 2d ed. 1989.
+[15] Supra, para. 4, 15-17 and 29.
+[16] Trico Industries Ltd. v. M.N.R., [1994] 2 C.T.C. 2053 at pp. 2062-2063 – Gestion Jean-Paul Champagne v. M.N.R., [1996] 2 C.T.C. 2537 (T.C.C.) at pp. 2251-2252 – Nassau Walnut Investments Inc. v. Canada, [1997] 2 F.C. 279(C.A.) at para. 31, 35-37.
+[17] See GST memorandum, dated May 2005. which, in part, reads:
+A fundamental principle underlying the GST/HST is that no tax should be included in the cost of property and services acquired, imported or brought into a participating province by a registrant to make taxable supplies (including zero-rated supplies) in the course of the commercial activities of the registrant. To ensure that a property or service consumed, used or supplied in the course of commercial activities effectively bears no GST/HST, registrants are generally eligible to claim an input tax credit (ITC) for the GST/HST paid or payable on such property or service. Consequently, the ITC enables each registrant to recover the tax incurred in that registrant's stage of the production and distribution process.[17]
+[18] See Sullivan, R., Sullivan on the Construction of Statutes, 5th Ed. (Toronto: LexisNexis, 2008) at pages 214‑215 and 218‑219.
+[19] Nassau Walnut Investments Inc. v. R., [1998] 1 C.T.C. 33, (sub nom R. v. Nassau Walnut Investments Inc.) 97 DTC 5051 at 5059 (F.C.A.).
+[20] [1952] N.B.J. No. 5, paras. 42-43.
+[21] (1882), 51 L.J.Q.B. 612.
+[22] 2009 SCC 20 ("UPS").
+[23] Supra, at para. 16. The provision in question was subsection 261(1) of the ETA, which generally requires the Minister to rebate certain amounts to a person who "has paid an amount" in certain circumstances. The Crown's first argument in UPS was that subsection 261(1) of the ETA applied to a person with a legal liability to pay the tax (i.e. consignees) not to a person who simply transmitted money to the Minister (i.e. UPS).
+[24] UPS, supra at paras. 17, 36 and 38.
+[25] [1996] STC 1016 (QB Division).

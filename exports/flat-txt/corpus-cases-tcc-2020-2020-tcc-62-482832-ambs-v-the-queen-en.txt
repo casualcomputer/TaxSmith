@@ -1,0 +1,255 @@
+Title: Ambs v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/482832/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-62-482832-ambs-v-the-queen-en.md
+Document type: case_law
+Last modified: 2020-07-20
+
+# Ambs v. The Queen
+
+- Citation: 2020 TCC 62
+- Decision date: 2020-07-20
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4593, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ambs v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-07-20
+Neutral citation
+2020 TCC 62
+File numbers
+2016-1015(GST)I, 2016-1016(GST)I, 2016-1022(IT)G, 2016-1023(IT)G
+Judges and Taxing Officers
+Don R. Sommerfeldt
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2016-1015(GST)I
+BETWEEN:
+JAMES DEAN AMBS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-1016(GST)I
+BETWEEN:
+ROBERT ALBERT AMBS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-1022(IT)G
+BETWEEN:
+ROBERT ALBERT AMBS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-1023(IT)G
+BETWEEN:
+JAMES DEAN AMBS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on April 11, 2019, at Thunder Bay, Ontario
+By: The Honourable Justice Don R. Sommerfeldt
+Appearances:
+Counsel for the Appellants:
+Brian R. MacIvor,
+Anthony Russo (student-at-law)
+Counsel for the Respondent:
+Élise Rivest
+JUDGMENT
+These Appeals are dismissed. The Respondent is entitled to costs, if she so desires and if she makes a written request for costs within 30 days of the date of this Judgment, whereupon the Appellants shall have a further 30 days to make written submissions in respect of the Crown’s request.
+Signed at Edmonton, Alberta, this 20th day of July 2020.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+Citation: 2020 TCC 62
+Date: 20200720
+Docket: 2016-1015(GST)I
+BETWEEN:
+JAMES DEAN AMBS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-1016(GST)I
+BETWEEN:
+ROBERT ALBERT AMBS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-1022(IT)G
+BETWEEN:
+ROBERT ALBERT AMBS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+Docket: 2016-1023(IT)G
+BETWEEN:
+JAMES DEAN AMBS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sommerfeldt J.
+I. INTRODUCTION
+[1] These Reasons pertain to the Appeals instituted by James Dean Ambs and Robert Albert Ambs in respect of Notices of Assessment issued to them by the Canada Revenue Agency (the “CRA”), on behalf of the Minister of National Revenue (the “Minister”). The assessments (the “Assessments”) represented by the Notices of Assessment were issued under subsection 227.1(1) and paragraph 227(10)(a) of the Income Tax Act (the “ITA”) [1] and subsections 323(1) and (4) of the Excise Tax Act (the “ETA”). [2]
+[2] During the applicable taxation years, Robert Ambs and James Ambs were directors of Ambs Forest Products Inc. (“AFP”), which failed to remit employee source deductions under the ITA, the Canada Pension Plan, the Employment Insurance Act and the Ontario Income Tax Act. AFP also failed to remit net tax under the ETA.
+II. ISSUE
+[3] Counsel for the Appellants and counsel for the Respondent concur that the only issue in respect of these Appeals is whether Robert Ambs and James Ambs exercised the degree of care, diligence and skill to prevent the remittance failures that a reasonably prudent person would have exercised in comparable circumstances. [3]
+III. FACTS
+[4] Robert Ambs and James Ambs are brothers. Their father was a logger, who taught his business to his sons. Robert, who has a grade 8 education, and James, who has a grade 11 education, worked with their father during summer vacations when they were young and, upon leaving school, worked continuously, on a full time basis, with their father, until his retirement, whereupon they arranged for AFP to be incorporated and for AFP to purchase their father’s company. During the relevant taxation years, Robert and James were the only shareholders of AFP, each owning 50% of the issued shares. They were also the only two directors of AFP. Robert was responsible for AFP’s equipment and field operations, while James looked after AFP’s corporate, financial and tax affairs. James also worked in the field and the shop as his schedule permitted.
+[5] The primary revenue-producing activity of AFP was a “stump to dump” logging business, which involved identifying and marking forested areas to be logged, harvesting logs, processing logs and hauling logs to a mill. The logging activities accounted for approximately 80% of AFP’s revenue. AFP also had a contract to build and maintain forestry roads in the area where it was logging. The road building and maintenance activities accounted for approximately 20% of AFP’s revenue.
+[6] AFP had only a single client. In the early years of AFP’s operations, the corporate client was known as Boise Cascade. It subsequently became Rainy River Forest Products, then Stone Consolidated, then Abitibi Consolidated, and ultimately AbitibiBowater. [4] While a number of logging contractors in the Kenora area harvested logs for AbitibiBowater, AFP was clearly the largest such contractor. As well, it was the only contractor that built and maintained forestry roads in that area.
+[7] AbitibiBowater held the Crown licence to harvest timber in the Kenora area. Many of the harvested logs were hauled to AbitibiBowater’s paper mill in Kenora. Other logs were hauled to a sawmill in Kenora that had once been owned and operated by AbitibiBowater and that was later sold to Kenora Forest Products. In addition, AbitibiBowater also sold logs to other sawmills in and around Kenora.
+[8] In 2007 and 2008, AFP was profitable. AFP’s revenue in 2007 was $3,531,453 and its net income for that year was $52,781. In 2008, AFP’s revenue was $4,829,608 and its net income was $361,203. [5] 2009 told a different story. The revenue for 2009 dropped to $756,318, and AFP recorded a loss from operations of $136,703 for that year. After factoring in a loss sustained on the disposal of assets and income taxes (recovered), [6] AFP’s net loss was $285,137.
+[9] As at April 30, 2007, AFP had no cash, $416 of prepaid expenses and $965,102 of property, plant and equipment (net of accumulated amortization). As at April 30, 2008, AFP had cash in the amount of $37,979, prepaid expenses in the amount of $1,303 and property, plant and equipment (net of accumulated amortization) with a book value of $865,710. A year later, those numbers had diminished. As at April 30, 2009, AFP had no cash, no prepaid expenses and property, plant and equipment (net of accumulated amortization) with a book value of only $311,803.
+[10] James Ambs explained that, during the 28 years that AFP operated in the logging business, the business was cyclical. Plant closures were not uncommon, particularly if the price of paper became too low, such that paper mill owners would close some of their plants in order to drive up prices. Thus, Robert Ambs and James Ambs were not overly concerned when AbitibiBowater closed its Kenora paper mill in late 2007. AFP continued to harvest and haul logs as usual, simply hauling those logs to various sawmills in the area. Robert and James expected that the paper mill would reopen in due course, as it had done previously following other closures.
+[11] In the Kenora area, loggers typically operated in the field for approximately ten months of the year, from late May or early June of one year to late March or early April of the next year. However, during spring break-up (basically April and May), the ground was too wet and soft to support logging equipment and trucks. As well, many of the roads in the area were subject to weight restrictions during the break-up months. Therefore, during spring break-up, AFP and most other logging operators took their equipment to their shops for maintenance and repairs, which were cash-consuming activities. On average, AFP spent approximately $200,000 (although sometimes less or sometimes more) on maintenance and repairs.
+[12] AFP harvested timber under a licence granted by the provincial Crown to AbitibiBowater. Each year, during the first 28 years that AFP had operated, there was an unspoken understanding between AbitibiBowater (or its predecessors) and AFP that, once the ground was firm enough to support trucks and equipment, AFP would resume log harvesting for AbitibiBowater. Usually in May they would have discussions with the forestry manager of AbitibiBowater and plans would be made in respect of the various geographical areas that would be harvested during the coming season. Then, sometime in mid-May, James would receive a telephone call from the forestry manager and would be told to commence operations.
+[13] When AFP concluded its logging operations in March 2008 and moved its trucks and equipment to its shop for the spring break-up maintenance and repairs, Robert and James fully anticipated that approximately two months later they would be returning to the field. However, when the phone call came in mid-May 2008, it was not to instruct AFP to resume cutting, but, rather, to advise that AbitibiBowater had made a decision to surrender its logging permit back to the Crown, with the devastating result that there would be no more logging under that licence by AFP or by any other logging contractor. This came as a complete surprise and shock to Robert and James.
+[14] AbitibiBowater was still responsible for maintaining the forestry roads in the area. Accordingly, it continued to use AFP to do that work during the balance of 2008 and the early part of 2009, with the result that in 2009 AFP maintained a meager revenue stream.
+[15] In 2009, the provincial government awarded a logging licence to Wincrief Renewables, which, as explained by James, was an entity owned by Whitedog First Nation and Greg Moncrief. A decision was made that only Indigenous-owned entities would be permitted to harvest timber under that licence or to build and maintain forestry roads in the area that was the subject of the licence. Accordingly, for the second year in a row, AFP received devastating news, when it was told that it would no longer be engaged to build and maintain roads. Consequently, AFP ceased operations.
+[16] With the termination of its logging activities in the spring of 2008, AFP suddenly found itself with debts, bills and other obligations to satisfy, but with only limited cash flow. Many of the trucks and equipment operated by AFP were financed, with the result that AFP found it necessary to surrender those trucks and equipment to the vendor or the finance company, as the case may be. To the extent that AFP owned outright any logging equipment, it endeavoured to sell that equipment, but was only able to obtain “fire-sale” prices, typically 50 cents on the dollar or thereabouts. The proceeds of those sales were used to pay down debt.
+[17] In 2009, when AFP lost the contract to maintain roads, it surrendered its financed road-building and road-maintenance equipment to the vendor or finance company and sold off, again at fire-sale prices, any road-building or road-maintenance equipment that it owned outright.
+[18] The proceeds from the sale of trucks and equipment were not sufficient to enable AFP to satisfy all its obligations. Accordingly, Robert Ambs and James Ambs liquidated many of their own assets to raise additional cash, which they loaned to AFP to enable it to pay creditors. They sold vehicles, snowmobiles, boats and other personal items to raise money to satisfy AFP’s debts. As well, they withdrew money from their registered retirement savings plans and used the net proceeds thereof for the same purpose. Robert listed his house for sale in a bid to arrange additional funds (but there was no evidence as to whether he sold the house). The total amount of cash contributed by James to AFP in 2008, 2009 and 2010 was $196,110.47 and by Robert was $121,259.96.
+[19] During his testimony, James freely acknowledged that much of the money raised by AFP by selling trucks and equipment and by borrowing from its shareholders went to pay the commercial creditors of AFP, particularly those based in and around Kenora. Robert and James knew many of AFP’s creditors and were concerned to ensure that those creditors were repaid. In fact, Robert and James were successful in repaying all of AFP’s creditors, except the tax authorities.
+[20] AFP did not deliberately fail to pay its tax obligations. In fact, upon completing the sale of its remaining equipment, the very last cheque that James wrote, on behalf of AFP, was a cheque in the approximate amount of $118,000, which he delivered to the CRA in partial satisfaction of AFP’s outstanding source deductions.
+[21] However, the sale of the remaining equipment triggered an obligation to collect and remit harmonized sales tax (“HST”) in the amount of $9,761.61 (or thereabouts), [7] which AFP failed to do, which led to the assessments that were issued under section 323 of the ETA to Robert and James, in their capacity as directors of AFP.
+[22] During his testimony, James Ambs stated that in 2008 and 2009 the CRA was not pressing as aggressively as AFP’s other creditors to be paid. As well, as noted above, Robert and James were concerned to ensure that the local creditors (i.e., the people whom they knew personally) were paid by AFP. In addition, in the last half of 2008 and the early part of 2009, Robert and James were trying to keep AFP’s road-maintenance operations afloat. James stated that it became necessary for him to select which creditors would be paid and to prioritize those creditors.
+[23] During the hearing, in responding to questions about entries on the 2008 balance sheet of AFP, showing liabilities described as “employee deductions payable” and “goods and services tax payable,” James Ambs stated:
+Yes, I mean, when you are operating, like, you have operating expenses and there are things like you need fuel; you need parts. Without fuel you can't operate; without parts you can't operate. You kind of prioritize sometimes. You take -- I need to pay this guy first. Yes, we will get to that one. We will get it.
+What they are going to have to get, you know, go in the back end of the list because I need to pay these bills first. That is sometimes what happens, and I think a lot of people do it. They use those things that they have to remit and I know, like, we have done it for 28 years and then we come to a dead end here. Like I said, I don't think it is because of our doing the result but, like I said, we tried our best. Like sometimes we have to pay other people and you can't pay other things.
+That is why these numbers get to this state and the source deductions got behind, maybe, and the GST got behind. You try what you can do to catch up but if you are still operating, if you are still moving along, you need to pay some things that are prioritized so you shift the payment somewhere else to get by to keep going. [8]
+[24] In response to a question as to whether the employee deductions payable in the amount of $86,748 as of April 30, 2007 were paid later in 2007, James Ambs stated:
+I mean, probably, maybe some of it got carried over. I don't know. I don't know exactly. It depends on when it happened. If it happened in the springtime, we probably would have had a balance to CRA because we got to fix our equipment. We have to spend, like, $200,000 and we need this stuff.
+We are going to get it working, so we go back to work then we can continue paying. There might be periods where you just can't remit because you need that money to fix stuff. You need it fixed to get back to work. [9]
+IV. ANALYSIS
+A. Extent of Failure To Remit
+[25] The 2008 balance sheet of AFP shows that, as at April 30, 2008, AFP had liabilities described as “employee deductions payable” and “goods and services tax payable” (technically, HST) in the respective amounts of $62,124 and $31,946. Similarly, the 2009 balance sheet of AFP indicates that, as at April 30, 2009, AFP had liabilities described as “employee deductions payable” and “goods and services tax payable” in the respective amounts of $158,761 and $34,179. It is my understanding that, in the context of these Appeals, the above-mentioned liabilities for HST payable are not a significant concern, as I understand that those two year-end liabilities were satisfied and that (as mentioned in paragraph 21 above) the only HST liability of AFP that led to the assessments of the directors under section 323 of the ETA pertained to the HST that arose on the sale of the remaining equipment of AFP sometime in 2009 (most likely after April 30, 2009).
+[26] With respect to the liabilities for employee deductions payable, AFP’s accountant testified that AFP was regularly compliant in 2007 and 2008 in satisfying its tax remittance obligations and that it was his understanding that the liabilities shown on the 2007 and 2008 balance sheets pertained only to source deductions accrued in the last month or so of each fiscal year. In other words, the accountant was suggesting that AFP was generally compliant in 2007 and 2008 in satisfying its withholding and remittance obligations and that the outstanding balances as at April 30, 2007 and April 30, 2008 would have been satisfied by AFP by May 15, 2007 and May 15, 2008 respectively.
+[27] Having considered the evidence given by the CRA collections officer and having reviewed a historical representation of the remittances made by AFP, I am not convinced that AFP was consistently compliant in meeting its remittance obligations. For instance, based on the Particulars of Assessment attached to the Notices of Assessment issued to Robert Ambs and James Ambs, [10] and the historical tables prepared by the collections officer, [11] it is my understanding that some of the amounts assessed against Robert Ambs and James Ambs under section 227.1 of the ITA related to unremitted source deductions of AFP dating back to its 2007 taxation year and that other assessed amounts related to the 2008 taxation year. Furthermore, based on the testimony given by James Ambs, [12] it seems that AFP regularly delayed the remittance of source deductions or net HST in order to satisfy other obligations.
+[28] Turning to 2009, for which the year-end liability in respect of employee deductions payable was $158,761, AFP’s accountant assumed that, as the amount of the liability was significantly greater than in 2008, there must have been several months (and not just the last month of the fiscal year) for which source deductions had not been remitted. [13]
+B. Jurisprudence
+[29] The statutory due diligence defence set out in subsection 227.1(3) of the ITA, on which Robert Ambs and James Ambs are relying, states:
+A director is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances. [14]
+The failure referred to in the above provision, in the context of employee source deductions, is a failure to withhold those deductions from salary or wages paid to an employee or a failure to remit the source deductions to the CRA on behalf of the Receiver General for Canada (the “Receiver General”), or, in the context of the goods and services tax (“GST”) or HST, a failure to remit net GST or net HST to the CRA on behalf of the Receiver General.
+[30] The Courts have long recognized that the due diligence defence focuses on preventing a failure to withhold or to remit, rather than a failure to rectify the situation once a failure has occurred. For instance, Justice Taylor, in White, stated:
+As I read that subsection [227.1(3)], it would seem to me that the direct responsibility of a director – any director – is to prevent the failure (to deduct or remit), not to attempt to rectify or remedy the failure at a point in time subsequent to the failure itself. [15] [Emphasis in the original.]
+Also, in Charkowy, Justice Mogan stated:
+… a director who has not exercised the required degree of care, diligence and skill to prevent the failure cannot bootstrap himself under subsection 227.1(3) by proving how hard he tried after the event to rectify or remedy the default. [16]
+[31] The resolution of a director’s liability case is seldom easy and often arises in a context of financial hardship. In a 2003 case, Gordon McKinnon, Associate Chief Justice Bowman (as he then was) made an observation that is likely pertinent to the vast majority of director’s liability cases:
+These cases are usually difficult. We start from the irrefutable fact that the payroll deductions or goods and services tax were in fact not remitted and so the CCRA looks to the directors. [17]
+Associate Chief Justice Bowman also observed that in many situations the money simply is not available to enable a corporation in financial difficulty to meet its remittance obligations:
+Another argument that is frequently made in these cases and which I regard as fallacious runs somewhat as follows: “You were stealing from money held in trust for the Crown to run your business and pay your employees”. This is, I think, an inaccurate and unfair characterization. It implies that there is a separate account (or cookie jar if you will) into which the payroll deductions are put and then withdrawn to pay the company’s expenses. The fact is there is no cookie jar, real or notional, and no money to put into it even if there were. The net amount paid to the employees is all there is to go around. The employees, suppliers and other creditors are paid because if they are not the business will be closed down. Where, as here, unforeseen supervening events make it impossible for the payroll deductions to be paid to the government, I do not think there is anything the appellant could reasonably have done to ensure the payment. [18]
+[32] Counsel for Robert Ambs and James Ambs referred me to the Lecuyer case. [19] In Lecuyer, Mr. Lecuyer owned two corporations, one of which owed source deductions and the other of which had financial resources. The corporation with financial resources used its own funds to pay some of the source deductions of the other corporation. As well, the director took no salary or wages from the corporation in financial difficulty. Nevertheless, that corporation was unable to make all of its remittances, whereupon the director was assessed for the outstanding liability. Justice Little followed Gordon McKinnon and also Kraeker [20] and concluded that there was not much more that Mr. Lecuyer could have done to cause the corporation to make the remittances, such that he had exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances. [21]
+[33] Notwithstanding the decisions in the Gordon McKinnon, Kraeker and Lecuyer cases, over the last two decades the Federal Court of Appeal has applied a strict interpretation of the standard of care required by a corporate director in the context of the remittance of employee source deductions, net GST or HST, and similar amounts. In a number of cases within the past 20 years or so, that Court has emphasized that, while the liability of a director is not absolute, both subsection 227.1(3) of the ITA and subsection 323(3) of the ETA indicate that the due diligence defence depends on a director exercising a degree of care, diligence and skill similar to that of a reasonably prudent person in comparable circumstances, with the view of preventing the failure to remit. [22] For instance, in the Lynda McKinnon case (also known as Worrell), Justice Evans stated:
+70. In my opinion, it is essential to keep in mind the relevant question in this appeal: did the directors exercise due diligence to prevent the company’s failure to remit? This is not necessarily the same as asking whether it was reasonable from a business point of view for the directors to continue to operate the business. In order to avail themselves of the defence provided by subsection 227.1(3) directors must normally have taken positive steps which, if successful, could have prevented the company’s failure to remit from occurring. The question then is whether what the directors did to prevent the failure meets the standard of the care, diligence and skill that would have been exercised by a reasonably prudent person in comparable circumstances.
+71. It will normally not be sufficient for the directors simply to have carried on the business, knowing that a failure to remit was likely but hoping that the company’s fortunes would revive with an upturn in the economy or in their market position. In such circumstances directors will generally be held to have assumed the risk that the company will subsequently be able to make its remittances. Taxpayers are not required involuntarily to underwrite this risk, no matter how reasonable it may have been from a business perspective for the directors to have continued the business without doing anything to prevent future failures to remit. [23] [Emphasis in the original.]
+[34] In Smith, Justice Sharlow stated:
+In certain circumstances, the fact that a corporation is in financial difficulty, and thus may be subject to a greater risk of default in tax remittances than other corporations, may be a factor that raises the standard of care. For example, a director who is aware of the corporation’s financial difficulty and who deliberately decides to finance the corporation’s operations with unremitted source deductions may be unable to rely on the due diligence defence…. In every case, however, it is important to bear in mind that the standard is reasonableness, not perfection. [24]
+[35] One of the leading cases in respect of director’s liability is Buckingham, [25] which confirmed that the “objective subjective” standard of care, diligence and skill set out in the Soper case [26] had been supplanted by the objective standard of care, diligence and skill set out by the Supreme Court of Canada in Peoples Department Stores. [27] In Buckingham, Justice Mainville made a number of comments touching on the statutory requirement that the standard of care, diligence and skill be focused on preventing a failure to remit, rather than curing such a failure after it has occurred:
+33. … The duty of care in subsection 227.1(3) of the Income Tax Act also specifically targets the prevention of the failure by the corporation to remit identified tax withholdings, including notably employee source deductions. Subsection 323(3) of the Excise Tax Act has a similarly [sic] focus. The directors must thus establish that they exercised the degree of care, diligence and skill required “to prevent the failure”. The focus of these provisions is clearly on the prevention of failures to remit….
+40. … In order to rely on these defences, a director must thus establish that he turned his attention to the required remittances and that he exercised his duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts….
+45. … The liability of the directors under subsection 227.1(1) is not conditional on the existence of sufficient cash in the corporation to pay the remittances of employee source deductions, quite the contrary.
+46. The cash-flow analysis proposed by the trial judge also assumes that the time frame in which to assess the director’s conduct begins when the corporation runs out of cash. The assessment of the director’s conduct rather begins when it becomes apparent to the director, acting reasonably and with due care, diligence and skill, that the corporation is entering a period of financial difficulties….
+49. The traditional approach has been that a director’s duty is to prevent the failure to remit, not to condone it in the hope that matters can be rectified subsequently…. In circumstances where a corporation is facing financial difficulties, it may be tempting to divert these Crown remittances in order to pay other creditors and thus ensure the continuation of the operations of the corporation. It is precisely such a situation which both section 227.1 of the Income Tax Act and section 323 of the Excise Tax Act seek to avoid. The defence under subsection 227.1(3) of the Income Tax Act and under subsection 323(3) of the Excise Tax Act should not be used to encourage such failures by allowing a due diligence defence for directors who finance the activities of their corporation with Crown monies on the expectation that the failures to remit could eventually be cured….
+52. … What is required is that the directors establish that they were specifically concerned with the tax remittances and that they exercised their duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts….
+56. A director of a corporation cannot justify a defence under the terms of subsection 227.1(3) of the Income Tax Act where he condones the continued operation of the corporation by diverting employee source deductions to other purposes. The entire scheme of section 227.1 of the Income Tax Act, read as a whole, is precisely designed to avoid such situations. In this case, though the respondent [i.e. the director] had a reasonable (but erroneous) expectation that the sale of the online course development division could result in a large payment which could be used to satisfy creditors, he consciously transferred part of the risks associated with this transaction to the Crown by continuing operations knowing that employee source deductions would not be remitted. This is precisely the mischief which subsection 227.1 of the Income Tax Act seeks to avoid. [28]
+Buckingham, like some of the other decisions referenced above, emphasizes that subsection 227.1(3) of the ITA and subsection 323(3) of the ETA focus on preventing a failure to remit. The case also suggests that the due diligence defence should not be available where directors “finance the activities of their corporation with Crown monies.” [29]
+C. Application
+[36] To avail themselves of the due diligence defence, “directors must establish that they took the appropriate actions in a timely manner to limit the amounts at risk for the tax authorities as tax deductions or GST-related net remittances.” [30] There was little, if any, evidence to show that AFP and its directors had taken steps to ensure that remittances would be made in a timely manner. Rather, the evidence showed that the actions of Robert Ambs and James Ambs were largely curative, rather than preventive.
+[37] It is commendable that Robert Ambs and James Ambs liquidated many of their personal assets and loaned the proceeds to AFP to enable it to pay its creditors. The financial contributions by Robert and James to AFP “must be considered in the context of the care, diligence and skill defence.” [31] However, most, if not all, of those contributions were used by AFP to pay debts other than those owed to the tax authorities.
+[38] The evidence presented at the hearing by Robert Ambs and James Ambs focused on their efforts to satisfy AFP’s creditors, particularly the local trade creditors, after AbitibiBowater surrendered its logging licence in 2008 and after AFP lost the road-maintenance contract in 2009. Neither Robert nor James gave any evidence to show that, before the failures to remit had occurred, they had turned their attention to the required remittances or that they were specifically concerned about AFP making those remittances. The only evidence directed toward the requirement that the directors exercise care, diligence and skill to prevent a failure to remit came from AFP’s accountant, who, as noted above, suggested that AFP was compliant in making those remittances and that the liabilities shown on the 2007 and 2008 balance sheets of AFP related only to source deductions incurred in the last month of the particular fiscal year, i.e., April 2007 and April 2008, and that he expected that those remittances would be made by May 15 of the following month. However, the documentary evidence provided by the CRA collections officer showed that AFP had a history of not being compliant in remitting source deductions and that the outstanding employee deduction remittances shown on the balance sheets as at April 30, 2007 and April 30, 2008 were not made on May 15, 2007 and May 15, 2008 respectively. [32]
+[39] For the 2009 fiscal year, AFP’s accountant acknowledged that there were likely several months in that year in respect of which AFP did not remit source deductions. [33]
+[40] As stated by Justice Smith in Tozer, “the Court must be satisfied on the balance of probabilities and on the basis of cogent and credible evidence that preventative measures were undertaken to prevent the failure.” [34] Here, little such evidence was presented, and it was unpersuasive. Robert Ambs and James Ambs have not demonstrated that they exercised the degree of care, diligence and skill to prevent the failure to remit source deductions and net tax (HST) that a reasonably prudent person would have exercised in comparable circumstances. [35]
+V. CONCLUSION
+[41] As noted in the Gordon McKinnon case, director’s liability cases are usually difficult. [36] The Appeals by Robert Ambs and James Ambs are no exception. As indicated above, Robert contributed more than $120,000 of his own funds and James contributed more than $196,000 of his own funds in an endeavour to satisfy AFP’s creditors. The sense that I had was that, in 2008, 2009 and a few years thereafter, Robert and James did not have significant additional assets that could have been used to pay the remittance arrears that had accumulated. [37] As AFP’s accountant noted, very few directors voluntarily contribute their personal financial resources toward the satisfaction of corporate liabilities, as did Robert and James.
+[42] Nevertheless, and regrettably, the evidence presented at the hearing did not indicate that Robert Ambs and James Ambs took steps to prevent AFP’s failures to remit employee source deductions and to remit net HST. In fact, based on the testimony of James Ambs, there seemed to have been a pattern of AFP using employee source deductions to pay other creditors. The evidence showed that Robert and James made a valiant effort, even drawing upon their personal financial resources, to satisfy all of the creditors of AFP, except the Crown. However, the due diligence defence, in subsection 227.1(3) of the ITA and subsection 323(3) of the ETA, requires a director to exercise a reasonable degree of care, diligence and skill to prevent the failure to remit. In other words, those statutory provisions impose a responsibility on a director to prevent the failure to deduct or remit, rather than attempting to rectify or remedy the failure after it has occurred. [38]
+[43] Given that there was insufficient evidence of any actions that Robert Ambs and James Ambs may have taken to prevent AFP’s failure to remit source deductions and net HST, it is unfortunately necessary to dismiss their Appeals.
+[44] The Crown is entitled to costs, if desired. Given the financial hardship experienced by Robert Ambs and James Ambs, if the Crown seeks costs (and subject to my consideration of any submissions that the Parties may make) , my inclination would likely be to limit such costs to the amount fixed by the Tariff.
+VI. MITIGATING CIRCUMSTANCES
+[45] A significant amount of the liabilities of AFP for which the Minister has assessed Robert Ambs and James Ambs related to interest and penalties. In my view, given the extent to which Robert and James have already contributed their personal resources to satisfy AFP’s liabilities and the resultant financial hardship, this would be an appropriate situation for the Minister, exercising the discretion granted to her by subsection 220(3.1) of the ITA and section 281.1 of the ETA (and assuming that she has not already done so), to cancel some or all of the interest and penalties for which Robert and James are vicariously liable. [39]
+Signed at Edmonton, Alberta, this 20th day of July 2020.
+“Don R. Sommerfeldt”
+Sommerfeldt J.
+CITATION:
+2020 TCC 62
+COURT FILE NOS.:
+2016-1015(GST)I, 2016-1016(GST)I, 2016-1022(IT)G, 2016-1023(IT)G
+STYLE OF CAUSE:
+JAMES DEAN AMBS AND ROBERT ALBERT AMBS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Thunder Bay, Ontario
+DATE OF HEARING:
+April 11, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Don R. Sommerfeldt
+DATE OF JUDGMENT:
+July 20, 2020
+APPEARANCES:
+Counsel for the Appellants:
+Brian R. MacIvor,
+Anthony Russo (Student-at-law)
+Counsel for the Respondent:
+Élise Rivest
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Brian R. MacIvor
+Firm:
+MacIvor Scrimshaw
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Income Tax Act, RSC 1985, c. 1 (5th supplement), as amended.
+[2] Excise Tax Act, RSC 1985, c. E-15, Part IX, as enacted by SC 1990, c. 45, and as subsequently amended.
+[3] See subsection 227.1(3) of the ITA and subsection 323(3) of the ETA.
+[4] The complete corporate names were not put into evidence.
+[5] Exhibit A-1, Tab 7, Statement of Income and Retained Earnings. The net income amount on the 2008 Statement of Income and Retained Earnings was $361,203. In the 2009 Statement of Loss (Exhibit A-1, Tab 8), the comparative column for 2008 shows the net income amount as $279,767. No explanation was given for the difference in the two amounts.
+[6] This was the terminology used in the Statement of Loss to describe the nature of the loss.
+[7] It is my understanding that the amount of $9,761.61 included interest and penalties.
+[8] Transcript, p. 85, line 10 to p. 86, line 2.
+[9] Transcript, p. 87, lines 18-27.
+[10] Exhibit R-1, Tabs 4 and 17. The Notices of Assessment were dated February 4, 2014.
+[11] Exhibit R-3.
+[12] Transcript, p. 85, line 10 to p. 86, line 2 and p. 87, lines 18-27. See paragraphs 23-24 above.
+[13] Transcript, p. 105, lines 9-27.
+[14] Subsection 227.1(3) of the ITA. A similar, but not identical, provision is found in subsection 323(3) of the ETA.
+[15] White v MNR, [1990] 2 CTC 2566, 91 DTC 54 (TCC), at CTC 2574 (DTC 59).
+[16] Charkowy v MNR, [1991] 1 CTC 2095, 91 DTC 284 (TCC), at CTC 2098 (DTC 286). See also Estate of Earl Edwards v MNR, [1995] 1 CTC 2373 (TCC) at 2378.
+[17] Gordon McKinnon v The Queen, 2003 TCC 884, ¶17. I have used the first and last names of the taxpayer in this citation to distinguish the case from the Lynda McKinnon case discussed below.
+[18] Ibid, ¶18.
+[19] Lecuyer v The Queen, 2007 TCC 476.
+[20] Kraeker v The Queen, 2007 TCC 31.
+[21] Lecuyer, supra note 19, ¶36-37.
+[22] See The Queen v Corsano, subnom. Wheeliker, [1999] 3 FC 173 (FCA), ¶23, 28, 35 & 63; Ruffo v The Queen, [2000] 4 CTC 39, 2000 DTC 6317 (FCA) ¶6; and Comparelli v The Queen, 2010 FCA 13, ¶12.
+[23] AG Canada v Lynda McKinnon, subnom. Worrell v The Queen, [2001] 2 FC 203 (FCA), ¶70-71. The online report of this case, available at the FCA’s website, numbers these paragraphs as 68 and 69 respectively.
+[24] Smith v The Queen, 2001 FCA 84, 14th paragraph.
+[25] Buckingham v The Queen, 2011 FCA 142.
+[26] Soper v The Queen, [1998] 1 FC 124 (FCA).
+[27] Peoples Department Stores Inc. (Trustee of) v Wise, 2004 SCC 68.
+[28] Buckingham, supra note 25, ¶33, 40, 45-46, 49, 52 and 56. The principles enunciated in Buckingham are summarized in Balthazard v The Queen, 2011 FCA 331, ¶32. See also Ahmar v The Queen, 2020 FCA 65, ¶15, 18 & 24.
+[29] Buckingham, supra note 25, ¶49. But note that, on March 27, 2020, as part of the federal government’s COVID-19 Economic Response Plan, the Prime Minister of Canada announced that small businesses would be allowed to defer GST/HST payments until June 2020. This generally applied to GST/HST remittances that would otherwise be payable to the Receiver General in March, April or May 2020. The government stated, “This measure is the equivalent of providing up to $30 billion in interest-free loans to Canadian businesses. It will help businesses so they can continue to pay their employees and their bills, and help ease cash-flow challenges across the country.” See News Release, “Prime Minister announces support for small businesses facing impacts of COVID-19,” March 27, 2020, Newswire. While the above relief was undoubtedly needed and welcome, its announcement was also an acknowledgement that GST/HST remittances are sometimes used by businesses as a source of financing, notwithstanding the above statements made by the Federal Court of Appeal to the effect that the due diligence defence is not available where a corporation finances its operations by diverting “Crown remittances in order to pay other creditors” (Buckingham, supra note 25 ¶49; see also Smith, supra note 24, 14th paragraph). While I am sympathetic to the plight of Robert Ambs and James Ambs, and while I acknowledge that the federal government, in responding to the COVID-19 crisis, seemed to condone (albeit only for the period from March to May 2020) small businesses in using money set aside for GST/HST remittances “to pay their employees and their bills” (News Release, March 27, 2020), I am required to follow the decisions of the Federal Court of Appeal on this point.
+[30] Balthazard, supra note 28, ¶50.
+[31] Ibid, ¶59.
+[32] See paragraphs 26-27 above.
+[33] See paragraph 28 above.
+[34] Tozer v The Queen, 2018 TCC 56, ¶114.
+[35] For a statement of the appropriate test to be applied, see Ahmar, supra note 28, ¶27.
+[36] Gordon McKinnon, supra note 17, ¶17.
+[37] No evidence was provided as to the current financial situation of Robert Ambs and James Ambs.
+[38] White, supra note 15, at CTC 2574 (DTC 59). See also Charkowy, supra note 16, at CTC 2098 (DTC 286); and Edwards Estate, supra note 16, at 2378.
+[39] I am aware that subsection 220(3.1) of the ITA and section 281.1 of the ETA refer to ten-year limitation periods. However, the notices of assessment issued under the ITA to Robert and James were dated February 4, 2014, and the notices of assessment issued under the ETA to Robert and James were dated January 24, 2014. Furthermore, I understand that an application for taxpayer relief was submitted to the CRA on or about October 23, 2012 (Exhibit R-1, Tab 16), which was well within ten years of the taxation years and reporting periods that are in issue in these Appeals.

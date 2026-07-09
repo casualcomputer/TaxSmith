@@ -1,0 +1,231 @@
+---
+title: "Krpan v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27337/index.do"
+last_modified: "2006-11-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 595"
+citation2: ""
+neutral_citation: "2006 TCC 595"
+decision_date: "2006-11-01"
+language: "en"
+item_id: "27337"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 910
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:36:26.504000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c75872ea688ade42c1f70e64336f8163cdd30915dc83c1c5694662508fe30229"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Krpan v. The Queen
+
+- Citation: 2006 TCC 595
+- Decision date: 2006-11-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 910, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Krpan v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-11-01
+Neutral citation
+2006 TCC 595
+File numbers
+2003-238(IT)G
+Judges and Taxing Officers
+Murray A. Mogan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-238(IT)G
+BETWEEN:
+JOHN KRPAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on June 12 and 13, 2006, at Toronto, Ontario
+By: The Honourable Justice M.A. Mogan
+Appearances:
+Counsel for the Appellant:
+Allan D. Powell
+Counsel for the Respondent:
+A'Amer Ather
+____________________________________________________________________
+JUDGMENT
+The appeals from reassessments of tax made under the Income Tax Act for the 1999, 2000 and 2001 taxation years are allowed, with costs, and the reassessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that, in computing income, the Appellant is permitted to deduct the amounts of $4,000 per month paid under paragraph 8 of the Court Order (referred to in the Reasons for Judgment) and the amounts of $500 per month paid under paragraph 7 of the Court Order.
+Signed at Ottawa, Canada, this 1st day of November 2006.
+"M.A. Mogan"
+Mogan D.J.
+Citation: 2006TCC595
+Date: 20061101
+Docket: 2003-238(IT)G
+BETWEEN:
+JOHN KRPAN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Mogan J.
+[1] The Appellant and his wife Nancy separated in April 1998. In November 1998, a Judge of the Ontario Superior Court made an order which required the Appellant to pay certain monthly amounts to Nancy and other monthly amounts to a car dealer for the lease of an automobile which Nancywould drive. The Appellant paid those monthly amounts and deducted them as spousal support in computing his income for 1999, 2000 and 2001. The deduction of those amounts was disallowed by Revenue Canadain reassessments issued for the taxation years 1999, 2000 and 2001. The Appellant has appealed to this Court from those reassessments.
+[2] The issue in these appeals is whether all or any part of those amounts are deductible as spousal support in computing income. Ordinarily, I would first review the evidence to establish the facts before applying the law but, in the circumstances of this case, the evidence will appear in a more relevant context if the legislation is reviewed first.
+The Legislation
+[3] For many years prior to 1997, support payments made by one spouse to the other spouse following the breakdown of a marriage were deductible in computing the payer's income and included in the recipient's income if the following three conditions were met:
+(i) the amounts were payable on a periodic basis;
+(ii) the spouses were living separate and apart when the amounts were paid and throughout the remainder of the year; and
+(iii) the amounts were paid under a court order or written agreement.
+The pre-1997 law summarized above is found in paragraphs 56(1)(b) and (c) and 60(b) and (c) of the Income Tax Act (the Act) as it applied at the time.
+[4] After the decision of the Supreme Court of Canada in The Queen v. Thibaudeau, 95 DTC 5273, the Act was amended to change the scheme for deducting and including support payments depending upon whether a payment was child support or exclusively spousal support. The key to the new scheme is two definitions found in subsection 56.1(4) of the Act:
+56.1(4) The definitions in this subsection apply in this section and section 56.
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a legal parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a legal parent.
+[5] Under a somewhat complicated formula in paragraphs 56(1)(b) and 60(b) of the Act, the recipient of support amounts is not required to include "child support amounts" in computing income; and the payer of support amounts is not permitted to deduct "child support amounts" in computing income. A challenge for family law lawyers arises in the definition of "child support amount" because the words "not identified ... as being solely for the support of a recipient" require all payments for the common support of the custodial parent and one or more children to be regarded as "child support amounts". In other words, if all or any part of a support amount is to be deducted by the payer in computing income and included in the income of the recipient, it must be identified as being only for the support of the receiving spouse, commonly referred to as "spousal support". If no part of a single monthly payment for the common support of the custodial parent and one or more children is specifically allocated as "spousal support", then the entire payment will be regarded as child support. This new scheme which restricts the deduction and inclusion of support payments took effect on May 1, 1997.
+[6] The legislation summarized above is at the heart of these appeals because the basic question is whether certain monthly payments made by the Appellant to or for the benefit of Nancycan be identified as "spousal support". The Court Order requiring the payments is dated November 5, 1998. The Appellant was the first witness and his counsel called, as additional witnesses, Herbert E. Huffman, the family law lawyer representing the Appellant in November 1998; and John D. Redfearn, the family law lawyer representing Nancyin November 1998. Counsel for the Respondent called Nancy Cassady, the Appellant's former wife, as his only witness. In these appeals, then, I heard the evidence of both spouses and their two respective family law lawyers who were representing them at the critical time of the court order. At the request of counsel, there was an order excluding witnesses except for the Appellant who was the first to testify.
+The Facts
+[7] The Appellant and Nancy were married in 1990. There were two children born of the marriage: John Anthony, June 18, 1991; and Jennifer Kay, December 9, 1993. The Appellant and Nancy were having marital difficulties by January 1997. See Exhibit R-2, Tabs B and D. They separated on April 20, 1998. After the separation, the Appellant made monthly support payments to Nancyin the range of $3,700 to $4,000 but the Appellant's lawyer, Mr. Huffman, advised him to stop the monthly payments effective October 15, 1998 because the parties did not have an agreement in writing or court order which would permit the Appellant to deduct any part of those payments for income tax purposes.
+[8] After the Appellant's refusal (on or about October 15, 1998) to make any further support payments to Nancy, he brought a motion before the Ontario Court for an Order resolving a number of issues between him and Nancy including: his access to the two children while they continued to reside with Nancy; the sale of the matrimonial home; support payments; and a section 30 assessment with respect to the needs of the two children and the parents' ability to fulfill those needs. It was the Appellant's motion which brought the disputes between him and Nancy before the Ontario Court at Milton, Ontarioon November 5, 1998.
+[9] On that date, Mr. Huffman representing the Appellant and Mr. Redfearn representing Nancyappeared in Court at Milton. When Court opened at 10:00 a.m., all persons having matters set down for that day were informed that the presiding judge was required to be in Brampton by 2:30 p.m. and so the Court at Miltonwould close at 2:00 p.m. Mr. Justice T.M. Dunn (the presiding judge) advised the various parties in Court to settle as much as they could.
+[10] When Messrs. Huffman and Redfearn were told that the presiding judge would have to leave the Court at 2:00 p.m., they commenced serious, good faith negotiations in an attempt to resolve the disputes. They went to a coffee shop in the basement of the Milton Courthouse and proceeded to negotiate the terms of a consent order which they hoped to settle, sign and bring before the judgeby 2:00 p.m. The respective clients (the Appellant and Nancy) were not at the Courthouse but each lawyer spoke by telephone with his respective client more than once through the course of the negotiations which lasted all morning and through the lunch hour. The lawyers finally negotiated the terms of a consent order which they were able to put before Justice Dunn before he left for Brampton. Either Mr. Huffman or Mr. Redfearn seemed to recall signing the handwritten document in the elevator carrying them from the basement coffee shop up to the Courtroom.
+[11] The final handwritten consent order as signed by Mr. Huffman and Mr. Redfearn (Exhibit A-4, Tab B), with certain passages struck out and replaced, was put before Justice Dunn and became the basis of the Court Order dated November 5, 1998, issued in the name of Justice T.M. Dunn but signed at a later date by an officer of the Court (Exhibit A-4, Tab D). For the purpose of these appeals, the three most relevant paragraphs of the Court Order are as follows:
+7. THIS COURT ORDERS that the husband shall pay to the wife $5,000.00 upon the wife and husband entering into a new lease for a replacement vehicle for use by the wife which lease shall have a term of no more than two years with monthly payments greater than $500.00 per month including principal, interest and taxes without the husband's consent. Upon the replacement vehicle being received the wife shall release the Mercedes Benz currently operated by her to the husband and the parties shall sign further Minutes of Settlement or Separation Agreement to provide that as additional spousal support the husband shall pay to the leasing company the said lease payments.
+8. THIS COURT ORDERS that subject to a material change in circumstances, the husband shall pay to the wife the sum of $4,000.00 commencing November 10, 1998 and monthly thereafter. The parties agree that the happening of any of the following events shall without limiting the foregoing entitle either party to request a variation in support:
+(a) the failure of the husband's company to collect the $25,000.00 due to it or begin receipt of the $160,000.00 management fee expected by March 1, 1998;
+(b) the refusal of the bank to defer mortgage payments.
+11. THIS COURT ORDERS that the husband shall pay as child support and therefore not taxable to the wife the children's school expenses of approximately $1,000.00 per month.
+[12] Under paragraph 8 of the Court Order, the Appellant paid $4,000 per month to Nancythroughout the years under appeal and, under paragraph 11, he paid $1,000 per month. Under paragraph 7, the Appellant paid to a Ford car dealer $500 per month for a period of at least 24 months to lease a car for Nancy's use. According to the pleadings, the payments of $4,000 per month to Nancywere disallowed as deductions to the Appellant because (i) Revenue Canada regarded them as child support amounts as defined in the Act; and (ii) Revenue Canada did not admit that the Appellant had paid $48,000 to Nancyfor spousal support in the years under appeal. The car payments of $500 per month to a Ford dealer were disallowed as deductions because (i) Revenue Canada regarded them as payments for tangible property; (ii) the Court Order did not specify subsections 56.1(2) and 60.1(2) of the Act; and (iii) Revenue Canada thought that the Appellant and Nancy had not turned their minds to the income tax consequences of the car payments.
+[13] I note that the definition of "child support amount" is not a "deeming" provision. The words "not identified ... as being solely for the support of a recipient" do not lead to a conclusive presumption. Both counsel presented this case on the basis that extrinsic evidence could be introduced to construe the words of the Court Order (Exhibit A-4, Tab D). Accordingly, I heard the oral testimony of the four witnesses named in paragraph 6 above, and received as exhibits many relevant documents. Relying on that oral testimony and those documentary exhibits, I have concluded that the payments of $4,000 per month under paragraph 8 of Exhibit A-4, Tab D and the payments of $500 per month under paragraph 7 of the same exhibit are spousal support and not child support. The reasons for my conclusion follow.
+[14] The most compelling evidence was given by the two family law lawyers: Mr. Huffman (the Appellant's lawyer) and Mr. Redfearn (Nancy's lawyer). Mr. Redfearn was subpoenaed by the Appellant's counsel in these appeals. I will first review Mr. Huffman's evidence.
+[15] Mr. Huffman was called to the bar of Ontario in 1980. He is still engaged in the practice of law in a three-person law firm. Sixty percent of his practice is family law and the remainder is civil litigation. In 1997, he was fully aware of the important amendments to the Income Tax Act which changed the kind of support payments that could be deducted in computing income, and the corresponding support payments that would be included in the income of the recipient. He was first retained by the Appellant in December 1996 when the Appellant and Nancy had sought marriage counselling.
+[16] Mr. Huffman's next significant connection with the Appellant was in April 1998 when the Appellant and Nancy had separated, and the Appellant had left the matrimonial home. At that time, Catherine Haber was the lawyer representing Nancy. Exhibit R-2, Tab E is a letter from Ms. Haber to Mr. Huffman dated April 23, 1998 discussing certain aspects of the separation of the Appellant and Nancy. The Appellant stated in his affidavit (Exhibit R-2, paragraph 9(x)) that from April to October 1998 he was putting $3,700 to $4,000 into Nancy's account for her personal expenses. In October 1998, Mr. Huffman advised the Appellant not to make any further payments to Nancy; to go to Court by way of a motion to resolve outstanding disputes; and, most importantly, to obtain an order from a "competent tribunal" which would permit the deduction of certain support payments. The Court Order (Exhibit A-4, Tab D) is the direct result of the Appellant's motion.
+[17] On November 5, 1998, when Messrs. Huffman and Redfearn commenced their negotiations in the basement coffee shop of the Courthouse at Milton, it was agreed that Mr. Huffman would do the actual handwriting of the draft terms on which they hoped to settle the outstanding disputes. Mr. Huffman's handwritten notes are Exhibit A-4, Tab B. It is an important exhibit.
+[18] Because Mr. Huffman's handwritten notes (Exhibit A-4, Tab B) and the Court Order which was based on those notes (Exhibit A-4, Tab D) will be referred to frequently in the paragraphs which follow, I will refer to them respectively as "the Notes" and "the Court Order". The Notes show a relatively good quality of hand writing in the sense that they can be understood without much difficulty. The Notes also show the time pressure under which the various terms were negotiated because, on pages 3 and 4, several lines are struck out and replaced with alternative wording. This is particularly true with respect to the paragraphs which became numbers 7 and 8 in the Court Order. At the bottom of page 5 of the Notes, the following paragraph 12 seems to be in Mr. Redfearn's handwriting:
+"Balance of issues adjourned sine die, 4 days' notice".
+Immediately following those words are the signatures of Mr. Redfearn and Mr. Huffman in that order. One of the lawyers recalled signing the Notes in the elevator going up to the Courtroom just before two o'clock in the afternoon when the presiding Judge had to leave for Brampton. Paragraph 12 of the Court Order states:
+12. This Court Orders that the balance of the issues shall be adjourned sine die returnable on four days' notice.
+[19] As a witness in this appeal, Mr. Huffman testified that the monthly payments required under paragraphs 7 and 8 of the Court Order were always intended to be designated as "spousal support". He used the Notes and other documents to support his position. On pages one and two of the Notes, there are a number of words written and then struck out as might be expected when the writer is attempting to negotiate and record at the same time the terms of an agreement. At the bottom of page three, Mr. Huffman started to draft what would have been paragraph 7 as follows:
+7. Predicated upon the husband's company Jatlam
+(a) receiving the 25,000 due to it
+(b) receiving the 160,000 due to it re the Krpan Group Contract by March 1998
+(c) not being required to advance mortgage payments for the matrimonial home
+the husband shall pay to the wife for her support the sum of $4,000 per month commencing November 15th and monthly thereafter.
+This draft paragraph seven was struck out in the negotiating process but it is important to note that (i) the substance of the paragraph is the payment of $4,000 per month to Nancy; and (ii) the amount is described as "shall pay to the wife for her support".
+[20] The very next paragraph on page 4 of the Notes is also designated paragraph 7 because the prior one was struck out. The new paragraph 7 was accepted by the parties because it was not struck out and became paragraph 7 in the Court Order. It deals with the payment of $500 per month for the lease of a car which Nancywould use, and those payments are described in both the Notes and the Court Order as "additional spousal support". Mr. Huffman stated that the word "additional" was used in drafting because the parties had already accepted the concept of the $4,000 per month payments as being spousal support. See the first draft of paragraph 7 on pages 3 and 4 of the Notes - struck out before starting a new paragraph 7 dealing with car lease payments.
+[21] On page 4 of the Notes, immediately after paragraph 7 dealing with car lease payments, Mr. Huffman has started to draft paragraph 8 with the following words:
+8. The husband shall pay to the wife spousal support commencing November 10th, 1998 and monthly thereafter subject to a material sum of 4,000 out of which the wife provided that the support shall be
+These words are struck out but, again, Mr. Huffman pointed out the use of the words "shall pay to the wife spousal support" in relation to the monthly payments of $4,000. At the bottom of page 4 of the Notes immediately after the first draft of paragraph 8 which was struck out, Mr. Huffman started to draft a fresh paragraph 8 which continued on to page 5. It was accepted by the parties and became paragraph 8 of the Court Order. The handwritten draft of paragraph 8 appears as follows in the Notes:
+8. Subject to a material change in circumstances the husband shall pay to the wife the sum of 4000 commencing November 10th, 1998 and monthly thereafter. The parties agree that the happening of any of the following events shall without limiting the foregoing entitle either party to request a variation in support;
+(a) the failure of the husband's company to collect the 25,000.00 due to it or begin receipt of the 160,000.00 management fee expected by March 1, 1998;
+(b) the refusal of the bank to defer mortgage payments.
+Paragraph 8 of the Court Order follows almost verbatim the words of paragraph 8 in the Notes.
+[22] It is important to note that the words "for her support" which appear in the first draft of paragraph 7 (later struck out) on pages 3 and 4 of the Notes, and the words "spousal support" which appear in the first draft of paragraph 8 (later struck out) on page 4 of the Notes, do not appear in the final draft of paragraph 8 of the Notes, or in paragraph 8 of the Court Order. Mr. Huffman explained this as an oversight resulting from the time pressure in which the Consent Order was drafted. He also pointed out that the word "additional" in paragraph 7 of the Notes and Court Order would not have any meaning unless there was some other amount (different from the car lease payments) which was intended by the parties to be spousal support.
+[23] It would be easy to conclude that words like "spousal support" had been consciously omitted from the final draft of paragraph 8 through the negotiating process but all of the collateral evidence which will be reviewed below indicates that it was not a conscious omission. I find that the omission was indeed an oversight. Staying within the Notes and the Court Order, there are no words in paragraph 8 like the following words in paragraph 11: "as child support and therefore not taxable to the wife". Also, as already noted, paragraph 7 in the Court Order contains the phrase "additional spousal support" indicating that there must be some other amount in the document which is spousal support.
+[24] I turn now to the evidence of Mr. Redfearn who represented Nancyin the negotiations with Mr. Huffman. Mr. Redfearn was subpoenaed by the Appellant's counsel to appear at the hearing of these appeals. He was first retained by Nancyin July 1998. In early 1999 (probably March), he was served with a notice of change of solicitors. When he appeared in this Court as a witness, he had not been released by Nancyfrom his solicitor/client privilege. Accordingly, there were certain questions which he declined to answer. He did, however, testify with respect to the negotiations at the Milton Courthouse on November 5, 1998. In his examination-in-chief, the following exchanges took place between Mr. Redfearn and the Appellant's counsel:
+A. We definitely wanted to make a distinction between the child support and the spousal support. The understanding was that the child support would not be taxable. We actually included a separate clause with respect to the child support. That was at my insistence because I didn't want the payment that was being made to be construed as taxable in my client's hands.
+Q. What about the issue of spousal support?
+A. My understanding was that the other money that was referred to in those minutes of settlement was spousal support. Since it was spousal support it was going to be taxable to her. That is why we had a separate clause that said that the other thousand dollars a month was not to be taxable in her hands.
+Q. Did the taxability issue as between yourself and Mr. Huffman come into play when negotiating the amount that was going to be paid by Mr. Krpan?
+A. I don't specifically recall that. Certainly the $4,000 that was referred to, he and I always discussed that it was spousal support. The other thousand dollars was child support and the other amount was always intended to be spousal support.
+(Transcript p. 15, l.11 - p.16, l.13)
+Q. What was the global amount of spousal that you were talking about?
+A. It was $4500.
+Q. How is it then that there came to be involved in the minutes that are before you, in the handwritten notes, a separate paragraph severing out payments of $500 towards a vehicle.
+A. I think all I can say is that that is a result of the negotiations that Mr. Huffman and I had.
+Q. Right. In terms of the global amount of $4500, was it your understanding that the $500 was therefore also intended to be allocated towards the spousal support?
+A. I think we referred to it as additional spousal support. If I could refresh my memory here. Yes. In paragraph 7, I guess it is, we refer to that amount of $500 being a further amount of spousal support, further, in addition to the $4000.
+It is a little confusing because by the time we had negotiated the terms of the spousal support clause it ended up later in the agreement, than earlier. The word "additional" originally referred to the paragraph above; I wasn't happy with the wording in the paragraph above and I was insisting on changes. The paragraph that Herb had originally written out, I made him cross it out. He tried it again, after that paragraph 7, and I still wasn't happy with it.
+We ended up putting it in the next paragraph, which is now paragraph 8.
+(Transcript p. 17, l.20 - p.19, l.3)
+A. ... Again, I wasn't comfortable with the language. I insisted that the paragraph appear as it follows in terms that it was going to be a regular monthly spousal support payment that he didn't have any control over per se. But if either of those events, the failure of his company to get the $25,000 or the receipt of the $160,000, or if the bank would not defer the mortgage payments, if any of those events didn't happen he could come back and ask for a variation because there has been a material change in circumstances. I thought that was much more favourable to my client to have it worded that way.
+Q. The words that you used in giving your evidence, you have said "spousal support".
+A. Yes.
+Q. Yet, as I look at that paragraph, there is no corollary wording; it doesn't say spousal support there. Can you comment?
+A. It was spousal support. It didn't say it, perhaps. In that iteration of the paragraph it didn't use the words spousal support but that was the understanding, that that was spousal support for her.
+(Transcript p. 29, l.7 - p.30, l.7)
+Q. In the various iterations of the paragraphs dealing with the spousal support or the penultimate paragraph which you have identified, although it doesn't say spousal support you intended to be spousal support, there is no reference in any of the drafting to the tax consequences. Was there a reason for that?
+A. No, not at all, because it is such a normal thing. Spousal support is taxable in the hands of the recipient if it is made pursuant to the order and it is periodic, which this was, and tax deductible to the payor.
+Q. At that point in time, and with your experience as a family law practitioner, was there any deviation in your practice with respect to inserting words dealing with tax consequences into the order when you talk about spousal support?
+A. It would have been extremely unusual to add a reference to the taxability of the spousal support in the recipient's hands; that wouldn't be done.
+Q. But yet you did that with respect to the child support?
+A. We did that with respect to the child support because it was one of those things I thought I could protect my client with and make it crystal clear that was a thousand dollars on which she was not going to be taxed.
+I wanted to distinguish that payment as child support from the other payments that were being made because the other payments were, in my mind, spousal support.
+(Transcript p. 32, l.12 - p.33, l.20)
+Q. In these proceedings, the CRA has taken the position that the acquisition of the Ford Windstar van was effectively the acquisition of tangible property. Without breaching your instructions from Nancy, are you able to comment on that interpretation of the provision of the Ford Windstar van in these documents?
+A. I am not really sure what the question is. I can say that the intention of the minutes of settlement at tab "B" were that, altogether, there was to be $4,500 in spousal support. At the end of our negotiation, $500 of that was directed to the lease of the vehicle, rather than a payment directly to her.
+Does that help? I am not sure I answered the question; I don't want to avoid it.
+(Transcript p. 38, lines 2-15)
+Q. In referencing the payment with respect to the Ford Windstar, in your understanding and in your mind, was that to be a component of the $4,500?
+A. Yes.
+(Transcript p. 39, lines 12-16)
+[25] The whole tenor of Mr. Redfearn's evidence was that he regarded the global amount of $4,500 per month as "spousal support" even though $500 was separated as a monthly payment for the lease of Nancy's car. Also, as an experienced family law lawyer, he was aware of the important distinction between spousal support and child support. Mr. Redfearn was not cross-examined by the Respondent's counsel.
+[26] I was favourably impressed with the testimony of both Mr. Huffman and Mr. Redfearn. I conclude that they are intelligent, competent and honourable lawyers; knowledgeable with respect to the income tax consequences of support payments flowing from one spouse to another after a separation. Apart from the testimony of Messrs. Huffman and Redfearn, there was other strong evidence that the payments of $500 and $4,000 per month under paragraphs 7 and 8 (respectively) of the Court Order were spousal support.
+[27] In November 1999, one year after the Notes and the Court Order, Nancy served a Notice of Cross-Motion and swore an affidavit (Exhibit A-4, Tab H) in which she stated at paragraph 22:
+22. On October 7, 1999, my solicitor received a letter saying that my husband was no longer going to pay any support. On November 10th, he gave the children, my spousal support cheque. On November 12, 1999, I attended at my husband's bank to have my support cheque certified and was advised that there were insufficient funds in the account. My solicitor in my presence therefore advised Mr. Huffman's assistant that the funds had to be in his bank account that day to cover my support cheque or she will be bringing a motion on Thursday, November 18, 1999 as the support cheques are my only source of income.
+I note Nancy's use of the words "my spousal support cheque" and "my support cheque" as "my only source of income".
+[28] The calendar year 1999 was the first full year when Nancyreceived the amounts of $4,000 per month because they started only in November 1998. When Nancyfiled her 1999 income tax return in the spring of 2000, she reported $30,000 as "support payments received". See Exhibit A-4, Tab O. At the time of filing, her solicitor was Constance Brown. When asked as a witness how she determined the amount of $30,000 to report for 1999, Nancy stated that she was discussing her 1999 return with Ms. Brown who told her (Nancy) to take an amount "out of the air". And so, Nancytook $30,000 as the amount to report in her return for 1999.
+[29] In March 1999, Constance Brown had written to Mr. Huffman with respect to the Krpan dispute in which she stated: "I just found out from my client that she does not have any post-dated cheques for the interim spousal and child support". See Exhibit A-4, Tab K. Because the payments of $500 per month for the car lease were made directly to the Ford dealer, the only post-dated cheques going to Nancywould be the $4,000 under paragraph 8 of the Court Order and the $1,000 under paragraph 11. I conclude that those are the cheques which Ms. Brown was referring to as "interim spousal and child support".
+[30] And finally, in April 2000, Nancysigned a receipt for the Ontario Family Responsibility Office in which she acknowledged receiving "my support payment in the amount of $4,000 for the month of April 2000 paid to me directly". See Exhibit A-4, Tab L. Apparently, she thought of the $4,000 as being for her support. Nancy did state in her examination-in-chief that she would characterize the $4,000 per month as an amount for child support and to pay for utilities and food; but in the contemporaneous documents of 1998, 1999 and 2000, Nancy and her lawyers (John D. Redfearn and Constance Brown) thought of the $4,000 per month as being spousal support.
+The Law
+[31] Counsel for both parties cited authorities on the question of "ambiguity" in a document, and when a court could use extrinsic evidence to assist in ascertaining the intention of the parties. In Bell ExpressVu v. Rex, [2002] 2 S.C.R. 559, Iacobucci J. writing for the Court made the following statements in paragraphs 29 and 30 at pages 581/582.
+29 What, then, in law is an ambiguity? To answer, an ambiguity must be "real" (Marcotte, supra, at p. 115). The words of the provision must be "reasonably capable of more than one meaning" (Westminster Bank Ltd. v. Zang, [1966] A.C. 182 (H.L.), at p. 222, per Lord Reid). By necessity, however, one must consider the "entire context" of a provision before one can determine if it is reasonably capable of multiple interpretations. In this regard, Major J.'s statement in CanadianOxy Chemicals Ltd. v. Canada (Attorney General), 1999 CanLII 680 (S.C.C.), [1999] 1 S.C.R. 743, at para. 14, is apposite: "It is only when genuine ambiguity arises between two or more plausible readings, each equally in accordance with the intentions of the statute, that the courts need to resort to external interpretive aids" (emphasis added), to which I would add, "including other principles of interpretation".
+30 ... It is necessary, in every case, for the court charged with interpreting a provision to undertake the contextual and purposive approach set out by Driedger, and thereafter to determine if "the words are ambiguous enough to induce two people to spend good money in backing two opposing views as to their meaning" (Willis, supra, at pp. 4-5).
+Also, in Re Noranda Metal Industries Ltd. and I.B.E.W., 44 OR (2d) 529, Dubin J.A. writing for the Court stated at pages 535/536:
+... I agree with Mr. Justice White that the clause was patently ambiguous and the arbitrator was entitled to resort to extrinsic evidence to assist him in ascertaining the true intentions of the parties, but, in any event, he was entitled to resort to extrinsic evidence to determine whether there was any latent ambiguity, or in applying it to the facts.
+That proposition was stated by Gale C.J.O. in Leitch Gold Mines Ltd. et al. v. Texas Gulf Sulphur Co. (Inc.) et al., [1969] 1 O.R. 469 at p. 524, 3 D.L.R. (3d) 161, wherein he stated:
+Extrinsic evidence may be admitted to disclose a latent ambiguity, in either the language of the instrument or in its application to the facts, and also to resolve it, but it is to be noted that the evidence allowed in to clear up the ambiguity may be more extensive than that which reveals it. Thus, evidence of relevant surrounding circumstances can be accepted to ascertain the meaning of the document and may clarify the meaning by indirectly disclosing the intention of the parties.
+[32] In my view, there is no patent ambiguity in paragraph 8 of the Court Order (standing alone) because it simply required a husband to pay $4,000 each month to his wife, with specific circumstances when either party could request that the amount be varied. There is latent ambiguity, however, in trying to determine whether the $4,000 is "child support" under the Act. The only three paragraphs of the Court Order which deal with payment of money are paragraphs 7, 8 and 11. In paragraph 7, the amount is clearly "additional spousal support". In paragraph 11, the amount is clearly "child support". In paragraph 8, the wording does not clearly disclose whether the $4,000 is for the support of the wife alone, the children alone, or the wife and children together. Having regard to the clarity in paragraphs 7 and 11, the words in paragraph 8 contain a latent ambiguity.
+[33] In a way, the discussion of ambiguity seems redundant because, in evidence, both counsel proceeded on the assumption that I should hear both the spouses and their respective lawyers in order to determine the true intent of the parties. Having heard those four individuals, and having reviewed the contemporaneous documents in 1998, 1999 and 2000, I have no hesitation in finding that the $4,000 per month in paragraph 8 of the Court Order is spousal support. In the words of the Act, it is "identified ... as being solely for the support of" Nancy.
+[34] Counsel for the Respondent argued that the $500 per month paid to the Ford dealer under paragraph 7 of the Court Order was not sufficiently connected with subsection 60.1(2) of the Act. Although that subsection was not specifically mentioned in paragraph 7 of the Court Order, the amount of $500 is described as "additional spousal support" and may be contrasted with the amount in paragraph 11 described as "child support". Also, Messrs. Huffman and Redfearn have much experience in family law matters. In paragraph 24 above, Mr. Redfearn is quoted as stating:
+A. It would have been extremely unusual to add a reference to the taxability of the spousal support in the recipient's hands; that wouldn't be done.
+(Transcript p. 32, l.12 - p.33, l.20)
+I am satisfied that Messrs. Huffman and Redfearn had the income tax consequences in mind when they settled the terms of paragraph 7 of the Court Order.
+[35] According to the pleadings, Revenue Canadadid not admit that the Appellant paid $48,000 to Nancyunder paragraph 8 of the Court Order in each year under appeal. The Appellant entered as Exhibits A-6 and A-7 copies of many cheques for $4,000 payable in 2000 and 2001 to or for Nancy. Also, when she testified, she gave no evidence that she had not been paid the $4,000 each month or that those payments were in arrears.
+[36] The appeals are allowed for 1999, 2000 and 2001 on the basis that the $4,000 per month under paragraph 8 of the Court Order is not "child support" as defined in the Act. Also, the amount of $500 per month under paragraph 7 of the Court Order is spousal support for the 24 months of the car lease term and such longer period as it may have been paid. The lease agreement (Exhibit A-2) indicates that it may have been paid for only 24 months. The Appellant is entitled to his costs.
+Signed at Ottawa, Canada, this 1st day of November, 2006.
+"M.A. Mogan"
+Mogan D.J.
+CITATION: 2006TCC595
+COURT FILE NO.: 2003-238(IT)G
+STYLE OF CAUSE: JOHN KRPAN AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: June 12 and 13, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice M.A. Mogan
+DATE OF JUDGMENT: November 1, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Allan D. Powell
+Counsel for the Respondent:
+A'Amer Ather
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Allan D. Powell
+Firm: McLean & Kerr LLP
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

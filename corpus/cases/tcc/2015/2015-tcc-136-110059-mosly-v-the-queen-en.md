@@ -1,0 +1,184 @@
+---
+title: "Mosly v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/110059/index.do"
+last_modified: "2015-06-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 136"
+citation2: ""
+neutral_citation: "2015 TCC 136"
+decision_date: "2015-06-04"
+language: "en"
+item_id: "110059"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2832
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:20:30.327000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2a548ab3c0b49a3229f2ca42df68d4d075f9389e91c9cf9f7d74c7c111f73b79"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mosly v. The Queen
+
+- Citation: 2015 TCC 136
+- Decision date: 2015-06-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2832, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mosly v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-06-04
+Neutral citation
+2015 TCC 136
+File numbers
+2012-3775(IT)G, 2012-3776(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-3775(IT)G
+BETWEEN:
+ADEL MOSLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Adel Mosly, 2012-3776(IT)G
+on June 1 and 2, 2015 at Penticton, British Columbia
+Before: The Honourable Justice David E. Graham
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Karen Truscott
+JUDGMENT
+The Appeal of the Appellant’s 1999 tax year is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant had net business income of $460,000 in his 1999 tax year and that no gross negligence penalties should be applied to that amount.
+Signed at Vancouver, Canada this 4th day of June 2015.
+“David E. Graham”
+Graham J.
+Docket: 2012-3776(IT)G
+BETWEEN:
+ADEL MOSLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of
+Adel Mosly, 2012-3775(IT)G
+on June 1 and 2, 2015 at Penticton, British Columbia
+Before: The Honourable Justice David E. Graham
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Karen Truscott
+JUDGMENT
+The Appeal of the Appellant’s 2003 and 2004 tax years is allowed, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant did not have business income of $63,750 in his 2003 tax year or of $99,827 in his 2004 tax year.
+Signed at Vancouver, Canada this 4th day of June 2015.
+“David E. Graham”
+Graham J.
+Citation: 2015 TCC 136
+Date: 20150604
+Dockets: 2012-3775(IT)G
+2012-3776(IT)G
+BETWEEN:
+ADEL MOSLY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] The Minister of National Revenue reassessed Adel Mosly’s 1999 tax year to include in income an amount that the Minister believes Mr. Mosly obtained through fraud. The Minister also reassessed Mr. Mosly’s 2003 and 2004 taxation years to include income amounts that the Minister believes were earned by Mr. Mosly as a contractor or subcontractor in those years. The Minister applied gross negligence penalties in respect of some of the alleged unreported income in the 1999 tax year and all of the alleged unreported income in the 2003 and 2004 tax years. Mr. Mosly appealed those reassessments in two separate appeals. His appeals were heard on common evidence.
+[2] The key issue in both appeals is whether Mr. Mosly has succeeded in demolishing the Minister’s assumptions of fact.
+[3] The amounts included in the 1999 tax year are unrelated to the amounts included in the 2003 and 2004 tax years. The amounts included in the 2003 and 2004 tax years are related to each other. I will deal first with 1999 and then deal with 2003 and 2004 together.
+1999 Tax Year [4] Mr. Mosly was a shareholder of a BC company known as Saudi Arabian‑Canadian Business Corporation (“SACBC”)[1]. SACBC was hired to provide various services for the benefit of a company named Gang Ranch Limited (“Gang Ranch”) which operated a ranch in British Columbia. SACBC was hired by Gang Ranch’s parent company, BSA Investors Ltd. (“BSA”). BSA was, in turn, owned by a man from Saudi Arabia named Sheik Ibrahim Afandi.
+[5] The parties agree on the following key facts. In 1999, BSA borrowed $550,000 from a bank using Gang Ranch’s property as security. The proceeds of that loan were deposited in BSA’s bank account. Of those proceeds, $460,000 was immediately transferred to SACBC’s bank account. SACBC then immediately transferred the same funds to a brokerage account in its name. The funds were used to acquire shares in Apple Inc. BSA defaulted on the original loan and there were insufficient assets left in SACBC to repay it. BSA sued Mr. Mosly, SACBC and BSA’s lawyers in respect of these lost funds. The BC Supreme Court found that Mr. Mosly had fraudulently taken the funds and that the lawyers were negligent in failing to ensure that the appropriate authorization had been obtained for the borrowing.
+[6] The parties disagree as to some additional transactions that occurred. At some point either before, after, or both before and after, BSA defaulted on its loan, a series of smaller amounts were borrowed from the brokerage using the Apple shares as security. The Respondent assumed that the amounts were borrowed by Mr. Mosly. Mr. Mosly testified that the amounts were borrowed by SACBC. Given my findings below, nothing turns on this question.
+[7] The Minister included net loan proceeds of $491,475 in Mr. Mosly’s income as income from fraud. At the beginning of the trial, counsel for the Respondent conceded that only the $460,000 in loan proceeds that were removed from BSA’s account should have been included in Mr. Mosly’s income.
+[8] Mr. Mosly takes the position that he did not steal $460,000 from BSA. He asserts that his contact at BSA told him to arrange for BSA to borrow the money, told him to move $460,000 to SACBC, told him to invest it in Apple shares and ultimately told him to borrow money against those shares. Mr. Mosly argues that BSA’s lawyers were aware of the transactions and, in fact, prepared all of the legal documents for the loan. He explains that the money that SACBC borrowed against the Apple shares was used to reimburse SACBC for expenses that it had incurred on behalf of Gang Ranch.
+[9] I do not accept Mr. Mosly’s testimony on these points. The story that he presents simply makes no logical sense. He provided no explanation of why, if BSA wanted to buy Apple shares using a loan, it would not have simply bought them in its own name or Gang Ranch’s name instead of borrowing the money and then giving it to SACBC and having SACBC buy the shares. He testified that BSA had auditors and accountants who would have noticed if things were out of place but he did not provide any evidence that would indicate that those auditors or accountants had been aware of and accounted for an investment in Apple shares being made by BSA or the corresponding borrowing nor did he provide financial statements for SACBC showing how it had treated the shares.
+[10] Mr. Mosly was fixated on the idea that he could not have done anything wrong because BSA’s lawyers prepared all of the loan documents. In essence, he was arguing that anything inappropriate that happened was their fault. This argument is illogical. It is like a bank robber blaming the teller who gave him the money for failing to press the alarm soon enough for him to be caught. Clearly the lawyers received instructions from Mr. Mosly. Having given those instructions, Mr. Mosly cannot turn around and blame the lawyers for following them. Even if, as the BC Supreme Court found, the lawyers failed to take the necessary steps to ensure that the loan was properly authorized by BSA, that does not change the fact that it was Mr. Mosly who was giving them instructions and Mr. Mosly who took the money.
+[11] Mr. Mosly also appeared to be arguing that he should not be assessed as the money ended up in SACBC not in his own hands. I agree that the money ended up in SACBC but it got there because Mr. Mosly, having personally taken it from BSA, directed that it be placed there. SACBC did not sign the loan documents, Mr. Mosly did. SACBC was not a director of BSA, Mr. Mosly was. It was in his personal role as a director of BSA that Mr. Mosly arranged for the loan and directed the proceeds to be paid to SACBC.
+[12] Based on all of the foregoing, I find that Mr. Mosly has failed to demolish the Minister’s assumptions of fact and that those assumptions clearly indicate that Mr. Mosly stole $460,000 from BSA in 1999 and thus should have included that amount in his income as income from theft.
+[13] I want to be clear that, in reaching the above conclusion, I am not influenced by the BC Supreme Court decision against Mr. Mosly. The Crown was not a party to that lawsuit so issue estoppel cannot apply. Mr. Mosly attended the hearing for that lawsuit and cross-examined some of the witnesses but chose not to testify himself. Not surprisingly, the Court drew a negative inference from that fact. Mr. Mosly offered a number of different explanations for his decision not to testify. I do not think it is relevant whether I accept those explanations or not. The simple fact is that I am not prepared to rely upon the findings of fact made by a different court in a case involving different parties, than the ones before me, where the key party before me did not, for whatever reason, testify and where I have not heard the testimony of the parties who were adverse in interest to that party. There was nothing wrong with the Minister relying on the judgment in making assumptions of fact, but I do not think that it would be appropriate for me to rely on the judgment in determining whether those assumptions have been demolished. I reached my conclusion that Mr. Mosly had not demolished the assumptions based on the implausibility of his story, not based on the judgment of the BC Supreme Court.
+[14] The Crown had originally assessed Mr. Mosly for an additional $37,000 of alleged unreported income and applied gross negligence penalties thereon in 1999. At the beginning of the hearing, counsel for the Respondent conceded that Mr. Mosly should be reassessed to reverse these amounts.
+[15] Based on all of the foregoing, I conclude that Mr. Mosly’s 1999 tax year should be reassessed to give effect to the two concessions made by the Respondent at trial.
+2003 and 2004 [16] Mr. Mosly was a 50% shareholder of two companies: Morgan Crest Estates Ltd. (“Morgan Crest”) and 660092 BC Ltd. (“BCCo”). The other 50% shareholder was a friend of his named Jose Hilario. The companies were in the business of buying raw land, building houses and selling those houses.
+[17] Mr. Mosly and Mr. Hilario had a falling out. It appears that there was actually a falling out with a significant number of people connected to the companies and the houses. Mr. Hilario sued Mr. Mosly. Mr. Hilario alleged that Mr. Mosly had embezzled significant sums of money from Morgan Crest and BCCo in 2003 and 2004. My understanding is that, at some point, Mr. Hilario’s lawsuit against Mr. Mosly was discontinued. Mr. Mosly did not file any documents evidencing the basis upon which it was discontinued but he described signing what sounded to me like a mutual release. It is clear that the matter did not proceed to court. Mr. Mosly did not indicate that any payments were made as part of the discontinuation of the lawsuit.
+[18] Morgan Crest and BCCo issued T5018 slips to Mr. Mosly reporting that he had the following income in the following years:
+2003
+2004
+Morgan Crest
+$38,638
+$91,342
+BCCo
+$25,112
+$8,485
+Total
+$63,750
+$99,827
+[19] The Minister determined that Mr. Mosly had not reported that income on his 2003 or 2004 tax returns and, accordingly, reassessed him to include that income and to apply gross negligence penalties.
+[20] In so reassessing, the Minister assumed that Mr. Mosly had unreported business income as a contractor or subcontractor of Morgan Crest and BCCo[2]. I find that Mr. Mosly has demolished that assumption. To the extent that Mr. Mosly had unreported income, it was from appropriating funds from Morgan Crest and BCCo, not from compensation for services that he performed as a contractor or subcontractor of those companies. I reach this conclusion based primarily on the fact that I believe that the T5018 slips were not issued in good faith. They were prepared by Morgan Crest’s and BCCo’s accountants presumably on the instructions of Mr. Hilario. As stated above, Mr. Hilario and Mr. Mosly were in a bitter legal dispute. I think it is fair to assume that Mr. Hilario had his own best interests in mind when the T5018 slips were issued. It appears to me from the evidence that those slips were not issued until 2010, well after the years in question. The fact that they were not issued contemporaneously suggests to me that they are less reliable. Most importantly, the amounts appear to have been calculated based on an analysis that a firm of forensic accountants hired by Mr. Hilario performed for the purpose of calculating how much money Mr. Mosly had “embezzled” from Morgan Crest and BCCo. When a 50% shareholder improperly takes money from a company, he or she is taxed under subsection 15(1) with appropriating those funds. The company who lost the money does not get a deduction for them. T5018 slips are issued to people who have performed work pursuant to a contract. Payments to such individuals are deductible by the payor. It appears to me that Mr. Hilario determined that Mr. Mosly had embezzled funds from the companies but Mr. Hilario wanted to be able to claim a deduction for the amounts taken so he decided to treat them as contract payments and arranged for T5018 slips to be issued to Mr. Mosly. The slips did not contain Mr. Mosly’s address which, conveniently, ensured that Mr. Mosly was unaware that they had been issued and was not in a position to immediately dispute them. In these circumstances, I am unable to place any reliance on the accuracy of the T5018 slips. Since the Minister’s assumptions of fact were based on those slips, I find that Mr. Mosly has successfully demolished them.
+[21] The onus is therefore on the Respondent to prove that Mr. Mosly had unreported income. Counsel for the Respondent correctly recognized that the Respondent could not rely on the report prepared by the forensic accountants since those accountants were not called as witnesses. The Respondent did not have any additional evidence upon which she could rely.
+[22] Based on all of the foregoing, the reassessment of Mr. Mosly’s 2003 and 2004 tax years must be reversed.
+Conclusion [23] The appeal of Mr. Mosly’s 1999 tax year is allowed and the matter is referred back to the Minister for reconsideration and reassessment on the basis that Mr. Mosly had net business income of $460,000 in 1999 and that, in accordance with the Respondent’s concessions, no gross negligence penalties should be applied to that amount. The appeal of Mr. Mosly’s 2003 and 2004 tax years is allowed.
+[24] Given the parties’ mixed success on these matters, I will not be awarding costs.
+Signed at Vancouver, Canada this 4th day of June 2015.
+“David E. Graham”
+Graham J.
+CITATION:
+2015 TCC 136
+COURT FILE NOs.:
+2012-3775(IT)G and 2012-3776(IT)G
+STYLE OF CAUSE:
+ADEL MOSLY and HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Penticton, British Columbia
+DATE OF HEARING:
+June 1 and 2, 2015
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+June 4, 2015
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent;
+Karen Truscott
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] There was some debate as to whether Mr. Mosly was the sole shareholder of SACBC or only one of its shareholders. In my view nothing turns on this point. However, had I been required to make a determination, I would have found that Mr. Mosly's vague descriptions of other shareholders were insufficient to overcome the Minister's assumption of fact that he was the sole shareholder.
+[2] The assumptions of fact in the Reply actually indicate that the money was appropriated from the companies but it was clear from the testimony of the CRA auditor, his correspondence, notes and working papers, his reliance on the T5018 slips and the fact that the income had been assessed under section 9 of the Income Tax Act that the assumption that was made would more accurately be described as being that Mr. Mosly had unreported business income as a contractor or subcontractor of the companies.

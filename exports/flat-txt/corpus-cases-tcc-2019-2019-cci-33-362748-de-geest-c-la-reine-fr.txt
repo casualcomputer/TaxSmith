@@ -1,0 +1,239 @@
+Title: De Geest  c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/362748/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-33-362748-de-geest-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-02-01
+
+# De Geest  c. La Reine
+
+- Citation: 2019 CCI 33
+- Decision date: 2019-02-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4353, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+De Geest c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-02-01
+Référence neutre
+2019 CCI 33
+Numéro de dossier
+2015-4454(IT)G
+Juges et Officiers taxateurs
+Steven K. D'Arcy
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2015-4454(IT)G
+ENTRE :
+ROLF DE GEEST,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 12 et 13 septembre 2018
+à Victoria (Colombie-Britannique).
+Devant : L’honorable juge Steven K. D’Arcy
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Christa Akey
+JUGEMENT
+Conformément aux motifs du jugement ci-joints :
+La requête présentée par l’appelant au début de l’audience en radiation de la totalité ou d’une partie des 29 paragraphes de la réponse est rejetée conformément aux motifs rendus oralement à l’audience le 12 septembre 2018.
+L’appel interjeté à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 2009, 2010 et 2011 de l’appelant est rejeté.
+Les dépens sont adjugés à l’intimée.
+Les parties auront 30 jours à compter de la date du présent jugement pour conclure une entente sur les dépens, à défaut de quoi elles devront déposer leurs observations écrites sur les dépens dans les 60 jours suivant la date du présent jugement. Les observations devront être d’une longueur maximale de dix pages.
+Si les parties ne peuvent s’entendre sur les dépens et qu’elles ne déposent pas d’observations écrites, les dépens sont adjugés à l’intimée conformément au tarif.
+Signé à Ottawa, Canada, ce 1er jour de février 2019.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 19e jour de février 2020.
+François Brunet, réviseur
+Référence : 2019 CCI 33
+Date : 20190201
+Dossier : 2015-4454(IT)G
+ENTRE :
+ROLF DE GEEST,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge D’Arcy
+[1] L’appelant interjette appel des nouvelles cotisations établies pour ses années d’imposition 2009, 2010 et 2011. Pour chacune des années en cause, l’appelant a choisi de ne déclarer aucun montant comme revenu provenant de ses activités relatives à l’installation de fenêtres et de portes de maison. Il soutient que ces activités constituaient une démarche personnelle, et qu’elles ne constituaient pas une source de revenu.
+[2] Le ministre s'oppose à cette thèse et a établi une cotisation pour l’appelant au motif qu’il avait omis de déclarer des revenus de 178 274 $, 196 490 $ et 250 392 $ pour ses années d’imposition 2009, 2010 et 2011 respectivement. Le ministre est d’avis que les revenus non déclarés tirés par l’appelant proviennent de l’exploitation d’une entreprise. Le ministre a également imposé des pénalités pour faute lourde de 19 911 $, 22 366 $ et 31 212 $ pour chacune des années d’imposition 2009, 2010 et 2011 respectivement au titre du paragraphe 163(2) de la Loi de l’impôt sur le revenu.
+I. Question préliminaire
+[3] Le 24 juillet 2018, l’appelant a déposé une requête demandant à la Cour de radier la totalité de la réponse ou subsidiairement, la totalité ou une partie des 29 paragraphes de la réponse mentionnés dans l’avis de requête. L’appelant a également demandé l’ajournement de l’audience relative à l’appel prévue pour le 13 septembre 2018.
+[4] J’ai ordonné que l’audition de l’appel commence le 12 septembre 2018, date à laquelle la Cour a entendu la requête de l’appelant. Une fois la requête entendue et tranchée, l’audience s’est poursuivie le 13 septembre 2018 et les questions de fond soulevées dans l’appel ont été discutées.
+[5] Pour les motifs donnés de vive voix à l’audience le 12 septembre 2018, la requête de l’appelant est rejetée.
+II. Résumé des faits
+[6] L’appelant a déclaré lors de son témoignage qu’il a exploité de 1979 jusqu’au début de 2006 une entreprise à propriétaire unique appelée De Geest Construction. Il a déclaré qu’au cours de cette période, il exploitait une entreprise offrant des services de construction générale, y compris l’installation de fenêtres. Dans le cadre de la prestation de ces services, l’appelant :
+- passait des marchés avec les clients;
+- supervisait les divers projets de construction;
+- retenait les services d’autres personnes pour travailler pour lui;
+- achetait les matériaux utilisés pour réaliser les projets;
+- supervisait les chantiers.
+[7] L’appelant a déclaré tous les revenus provenant de l’entreprise dans ses déclarations de revenus pour les années en cause.
+[8] L’appelant a déclaré qu’il a cessé d’exploiter son entreprise à propriétaire unique au début de 2006. Il a déclaré ce qui suit lors de son témoignage : [traduction] « D’accord, le fait est qu’au début de 2006, j’ai pris la décision délibérée de cesser d’exercer mes activités en vue de réaliser un profit ou à des fins commerciales, et de me consacrer exclusivement à une démarche personnelle non commerciale. » [1]
+[9] Dans son témoignage, l’appelant a décrit cette soi-disant démarche personnelle non commerciale de la façon suivante :
+[traduction] [...] Je n’acceptais pas de clients commerciaux ou autres clients pour les années 2009 à 2011. Dans le cadre de ma démarche personnelle à titre d’entrepreneur général non commercial, qui a commencé après le 21 avril 2006, je supervisais les travaux de menuiserie et d’installation de portes et fenêtres réalisés par des sous-traitants commerciaux et non commerciaux dans la région de Victoria pour le compte d’entrepreneurs et de recommandations.
+J’étais rémunéré pour mes activités à titre d’entrepreneur général non commercial. Le montant de la rémunération variait pour chaque contrat non commercial. De façon générale, les sommes tirées de ces activités non commerciales étaient déposées dans un compte bancaire personnel conjoint avec ma fille et mon gendre. [2]
+[10] En contre-interrogatoire, il a décrit les activités qu’il exécutait dans le cadre de sa soi-disant démarche personnelle de la façon suivante :
+- Il négociait des contrats avec des particuliers et des entreprises qui lui demandaient d’effectuer des travaux pour eux. Des particuliers retenaient ses services à la suite de recommandations de la part de diverses entreprises de fenêtres. Lors de son témoignage, l’appelant désigne les particuliers et les entreprises comme des [traduction] « recommandations non commerciales » et les contrats comme des [traduction] « contrats non commerciaux ».
+- Les particuliers et les entreprises ayant conclu des contrats avec l’appelant l’ont payé pour ses services. Il a reconnu qu’il a reçu d’eux les sommes de 246 920 $ en 2009, de 247 264 $ en 2010 et de 371 962 $ en 2011.
+- Il a supervisé divers projets d’installation.
+- Il a engagé des sous-traitants pour installer les fenêtres.
+- Il a acheté du matériel pour les projets.
+- Il a supervisé les chantiers.
+[11] En contre-interrogatoire, l’appelant a admis avoir consacré beaucoup de temps à l’installation de portes et de fenêtres et à des travaux de menuiserie. Il a déclaré que ces activités n’étaient pas de nature caritative ou récréative.
+[12] L’intimée a présenté la pièce R-1 à la Cour qui est, comme l’a reconnu l’appelant, la copie d’un contrat « privé » standard qu’il signait avec les entreprises et les particuliers qui l’engageaient pour l’installation de fenêtres. Le document, intitulé [traduction] « Contrat privé », comporte le nom et l’adresse de l’appelant, décrit la portée des travaux à réaliser ainsi que le montant à facturer, et comporte également le nom et l’adresse de la personne qui a retenu les services de l’appelant (« Jubillee [sic] Windows Ltd. » en l’espèce).
+[13] L’appelant a témoigné qu’il a créé le document et a déclaré :
+[traduction] Il s’agit d’une facture non commerciale. À l’époque, je croyais que c’était la même chose, alors j’ai mis cela là parce que je voulais préciser qu’il s’agissait d’un contrat privé conclu entre le particulier et moi, qu’il ne s’agissait pas d’un contrat commercial pour une entreprise. [3]
+[14] Il a noté que pour lui, ce contrat-facture était une façon d’informer ses clients des travaux qu’il allait réaliser pour les montants facturés.
+[15] Voici ce qui est écrit au bas de la facture : [traduction] « Tous les montants perçus sont reçus en ma qualité de personne physique (selon la définition du Barron’s Canadian Law Dictionary, 4e éd.) pour mon propre avantage, et ne sont pas reçus ou conservés pour l’avantage du ‘‘contribuable’’ » (au sens de la Loi de l’impôt sur le revenu du Canada »). TPS [est] non applicable, conformément au paragraphe 240(1) de la Loi sur la taxe d’accise du Canada ».
+[16] L’appelant a expliqué avoir ajouté cette mention pour les raisons suivantes :
+[traduction] [...] J’ai ajouté cette mention parce que je voulais exprimer par écrit mon intention subjective d’exercer une activité non commerciale. Comme je n’exerçais pas une activité en vue de réaliser un profit au titre de la Loi de l’impôt sur le revenu, je devais m’assurer que je me conformais à la partie IX de la Loi sur la taxe d’accise, et aussi d’informer les entrepreneurs et les recommandations que la TPS ne serait pas perçue parce que je n’effectuais pas une fourniture taxable dans l’exécution d’une activité commerciale. Je n’étais pas non plus tenu d’être inscrit au titre du paragraphe 240(1) de cette même Loi. [4]
+[17] L’appelant a déposé la pièce A-2 qui comporte des copies de trois feuillets T5018 de l’Agence du revenu du Canada qui servent à consigner les paiements effectués par une entreprise à des sous-traitants. Tous les feuillets ont été remplis par une entreprise appelée Jubilee Windows, et indiquent que Jubilee Windows a effectué les paiements suivants à l’appelant à titre de sous-traitant en construction :
+- Pour la période se terminant le 31 octobre 2009 – 23 005,05 $
+- Pour la période se terminant le 31 octobre 2010 – 40 791,28$
+- Pour la période se terminant le 31 octobre 2011 – 30 162,50$
+[18] L’appelant a reconnu avoir reçu tous les paiements indiqués sur les feuillets de renseignements. Il a déclaré que Jubilee Windows avait fourni les feuillets d’information à son insu et sans son consentement.
+[19] Au cours du contre-interrogatoire, l’appelant a déclaré qu’il n’avait pas demandé à l’Agence du revenu du Canada d’autoriser des dépenses dans le calcul du revenu tiré de ses activités puisqu’aucune dépense n’était liée à sa soi-disant démarche personnelle.
+[20] Même si l’appelant n’a pas demandé à l’Agence du revenu du Canada d’autoriser de dépenses, lorsqu’il a établi la cotisation pour l’appelant, le ministre a approuvé des dépenses d’entreprise de 68 646 $, 50 773 $ et 121 570 $ pour le calcul du revenu de l’appelant provenant d’une entreprise pour 2009, 2010 et 2011 respectivement.
+III. Résumé du droit
+[21] La première question dont la Cour est saisie consiste à déterminer si l’appelant avait un revenu non déclaré pour les années d’imposition en cause.
+[22] L’article 3 de la Loi de l’impôt sur le revenu constitue le point de départ pour déterminer le revenu du contribuable pour l'année d’imposition. L’article 3 prévoit que le revenu comprend le revenu du contribuable pour l’année « dont la source se situe au Canada ou à l’étranger, y compris, sans que soit limitée la portée générale de ce qui précède, le revenu tiré de chaque charge, emploi, entreprise et bien ».
+[23] En l’espèce, la question consiste à savoir si l’appelant a tiré un revenu d’une entreprise.
+[24] Voici la définition de l’entreprise au paragraphe 248(1) de la Loi :
+Sont compris parmi les entreprises les professions, métiers, commerces, industries ou activités de quelque genre que ce soit et, sauf pour l’application de l’alinéa 18(2)c), de l’article 54.2, du paragraphe 95(1) et de l’alinéa 110.6(14)f), les projets comportant un risque ou les affaires de caractère commercial, à l’exclusion toutefois d’une charge ou d’un emploi.
+[25] Cette définition est inclusive et non exhaustive.
+[26] La méthode à appliquer pour déterminer si les activités de l’appelant en 2009, 2010 et 2011 constituaient une source de revenu a été consacrée par l’arrêt Stewart c. Canada [5] (« Stewart ») rendu en 2002 par la Cour suprême du Canada. La Cour suprême du Canada a consacré la méthode à deux volets suivante pour déterminer si le contribuable a une source de revenu constituée soit d’une entreprise, soit d’un bien : [1] [2002] 2 R.C.S. 645.
+[...] On peut recourir à la méthode à deux volets suivante pour trancher la question de l’existence d’une source :
+(i) L’activité du contribuable est-elle exercée en vue de réaliser un profit, ou s’agit-il d’une démarche personnelle?
+(ii) S’il ne s’agit pas d’une démarche personnelle, la source du revenu est-elle une entreprise ou un bien?
+Le premier volet du critère vise la question générale de savoir s’il y a ou non une source de revenu; dans le deuxième volet, on qualifie la source d’entreprise ou de bien.
+Assimiler la « source de revenu » à une activité exercée « en vue de réaliser un profit » concorde avec la définition traditionnelle du mot « entreprise » qui est donnée en common law, à savoir [TRADUCTION] « tout ce qui occupe le temps, l’attention et les efforts d’un homme et qui a pour objet la réalisation d’un profit » : Smith, précité, p 258; Terminal Dock, précité. De même, la distinction entre le revenu tiré d’une entreprise et le revenu tiré d’un bien repose généralement sur le fait qu’une entreprise exige un niveau d’activité plus élevé de la part du contribuable : voir Krishna, op. cit., p. 240. Il est donc logique de conclure qu’une activité exercée en vue de réaliser un profit, quel que soit le niveau d’activité du contribuable, sera une source de revenu constituée soit d’une entreprise, soit d’un bien. [6]
+[27] Le premier volet du critère, qui consiste à établir si une source de revenu existe ou non, est le seul qui est pertinent aux fins du présent appel. Dans l’arrêt Stewart, la Cour suprême du Canada a décrit ainsi l’objet du premier volet du critère :
+Ce premier volet du critère vise simplement à établir une distinction entre les activités commerciales et les activités personnelles [...] Ainsi, lorsque la nature de l’entreprise du contribuable comporte des aspects indiquant qu’elle pourrait être considérée comme un passe-temps ou une autre activité personnelle, mais que l’entreprise est exploitée d’une manière suffisamment commerciale, cette entreprise sera considérée comme une source de revenu aux fins d’application de la Loi.
+Nous soulignons que ce critère de l’existence d’une source « en vue de réaliser un profit » ne doit faire l’objet d’une analyse que dans les situations où l’activité en cause comporte un aspect personnel ou récréatif [...] Lorsqu’une activité est clairement de nature commerciale, il n’est pas nécessaire d’analyser les décisions commerciales du contribuable. De telles démarches comportent nécessairement la recherche d’un profit. Il existe donc par définition une source de revenu et il n’est pas nécessaire de pousser l’examen plus loin. [7]
+[28] La Cour suprême résume ainsi son point de vue : « [...] la question de savoir si le contribuable a ou non une source de revenu doit être tranchée en fonction de la commercialité de l’activité en cause. Lorsque l’activité ne comporte aucun aspect personnel et qu’elle est manifestement commerciale, il n’est pas nécessaire de pousser l’examen plus loin.[...] » [8] .
+[Non souligné dans l’original.]
+[29] La deuxième question dont la Cour est saisie consiste à déterminer si l’appelant doit payer des pénalités pour faute lourde.
+[30] Les dispositions liminaires du paragraphe 163(2) de la Loi de l’impôt sur le revenu se lisent comme suit :
+Toute personne qui, sciemment ou dans des circonstances équivalant à faute lourde, fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse (appelé « déclaration » au présent article) rempli, produit ou présenté, selon le cas, pour une année d’imposition pour l’application de la présente loi, ou y participe, y consent ou y acquiesce est passible d’une pénalité égale, sans être inférieure à 100 $, à 50 % du total des montants suivants [...]
+[31] Les dispositions liminaires indiquent deux conditions qui doivent être remplies si l’imposition par le ministre d’une pénalité au titre du paragraphe 163(2) de la Loi de l’impôt sur le revenu doit être maintenue :
+- L’appelant doit avoir fait un faux énoncé ou une omission dans une déclaration, un formulaire, un certificat, un état ou une réponse ou y avoir participé, consenti ou acquiescé (collectivement « une déclaration »).
+- Le faux énoncé ou l’omission doit avoir été fait par l’appelant sciemment ou dans des circonstances équivalant à faute lourde, ou l’appelant doit avoir participé, consenti ou acquiescé à ce faux énoncé ou à cette omission sciemment ou dans des circonstances équivalant à faute lourde.
+[32] Aux termes du paragraphe 163(3) de la Loi de l’impôt sur le revenu, il incombe au ministre d’établir, selon la prépondérance des probabilités, les faits qui justifient l’imposition de la pénalité prévue par le paragraphe 163(2) de la Loi de l’impôt sur le revenu.
+IV. Décision sur l’appel
+A. Source de revenu
+[33] Je discuterai d’abord la question de savoir si l’appelant avait une source de revenu.
+[34] La position de l’appelant est que, pendant les années en cause, il exerçait les activités relatives à l’installation de portes et fenêtres dans le cadre d’une démarche personnelle et que, par conséquent, ces activités ne constituent pas une source de revenu selon les critères consacrés par l’arrêt Stewart. Une autre façon de considérer cet argument est que le contribuable peut choisir de ne pas être assujetti à l’impôt sur le revenu en déclarant son intention subjective d’exercer des activités comme celles dont il est question en l’espèce dans le cadre d’une démarche personnelle.
+[35] Lors de son témoignage, l’appelant a résumé sa position ainsi (transcription, aux pages 25 et 26) :
+[traduction] Mon intention première était d’entreprendre une démarche personnelle afin de payer pour toutes mes dépenses personnelles et mes frais de subsistance. Mon intention secondaire était d’éviter toute obligation fiscale. C’est tout à fait légal, d’après ce que j’ai compris, et je ne connais aucune loi qui l’interdise. Même s’il n’y a pas eu d’impôt à payer sur les montants que j’ai tirés de ma démarche personnelle, je reconnais également que je n’ai reçu aucun avantage.
+[36] Comme l’a déclaré mon collègue le juge Visser dans le jugement Meerman c. The Queen [9] , l’argument de l’appelant est absurde et cherche à déformer la formulation et l’objectif du critère de la source de revenu exposé dans l’arrêt Stewart dans le but d’éviter de payer l’impôt.
+[37] L'affaire Meerman portait sur des faits presque identiques aux faits dont la Cour est maintenant saisie. M. Meerman, qui était mécanicien de machinerie lourde qui, jusqu’au milieu de 2006, a déclaré comme revenu aux fins de la Loi de l’impôt sur le revenu les montants qu’il recevait pour les services fournis à une entreprise intéressée. Il a cessé de déclarer les montants en 2006 et a par la suite fait l’objet d’une cotisation pour ses années d’imposition de 2006 à 2011.
+[38] Le juge Visser a souligné que M. Meerman avait défendu la position selon laquelle, au cours des années d’imposition de 2006 à 2011, il exerçait ses droits privés à l’égard de son travail dans le but d’assurer un gagne-pain pour lui et sa famille, et qu’il avait l’intention pendant toutes les périodes visées de lancer exclusivement dans une démarche personnelle non commerciale.
+[39] Il s’agit exactement de la même position que l’appelant a retenue à partir du début de 2006 puis durant toutes ses années d’imposition de 2009 à 2011. Ce n’est pas surprenant puisque l’appelant a déclaré lors de son témoignage avoir déjà assisté à des réunions avec le Paradigm Education Group, et adopter l’approche de la démarche personnelle après avoir discuté avec son ami Cory Stanchfield. De plus, David Lindsay a aidé l’appelant à interjeter son appel [10] . Dans le jugement Meerman, le juge Visser a fait référence aux relations de M. Meerman avec le Paradigm Education Group, M. Stanchfield et M. Lindsay en ces termes :
+[traduction] [...] M. Meerman a participé à des séminaires organisés par une ou plusieurs personnes liées au Paradigm Education Group et a obtenu l’aide de ses amis, Cory Stanchfield et David Lindsay, pour la préparation de son appel. Il y a une abondante jurisprudence canadienne concernant des personnes liées au Paradigm Education Group. Dans la décision bien connue Meads c. Meads, 2012 ABQB 571, le juge en chef adjoint Rooke décrit certains des [traduction] « arguments commerciaux pseudojuridiques organisés » (ACPO) utilisés par le Paradigm Education Group et d’autres « detaxers », selon l’expression anglaise, et plaideurs de l’ACPO. À partir du paragraphe 85 de la décision Meads rendue en appel, le juge Rooke donne également un aperçu de diverses personnes et de divers groupes qu’il décrit comme des [traduction] « gourous de l’ACPO » qui, selon lui, ne sont [traduction] « rien de plus que des escrocs ». Aux paragraphes 87 à 98 de la décision Meads rendue en appel, il parle de Russell Porisky et du Paradigm Education Group, puis de David Kevin Lindsay aux paragraphes 100 à 108, qui, souligne-t-il au paragraphe 105, a été déclaré plaideur quérulent.
+[40] À la lumière des faits objectifs dont je dispose, il ne fait aucun doute que les activités de l’appelant relatives à l’installation de portes et fenêtres et aux travaux de menuiserie ont été exercées en vue de réaliser un profit. Ces activités ne comportaient aucun aspect dont il ressortirait qu’elles devraient être considérées comme un passe-temps ou comme une démarche personnelle. En fait, l’appelant a admis en contre-interrogatoire que les activités n’étaient pas des activités de bienfaisance ou un passe-temps. Les activités étaient clairement exercées à des fins commerciales et ne comportaient aucun aspect personnel.
+[41] Dans l’arrêt Stewart, la Cour suprême du Canada a précisé que lorsque la nature de l’activité est clairement de nature commerciale, par définition, une source de revenu existe.
+[42] De plus, les activités en cause étaient exactement les mêmes que celles que l’appelant exerçait avant le 21 avril 2006. L’appelant traitait les activités menées avant le 21 avril 2006 comme des activités exercées en vue de tirer un revenu d’une entreprise.
+[43] Au cours des années d’imposition 2009, 2010 et 2011, l’appelant a passé des marchés avec des particuliers et des entreprises visant l’installation de portes et fenêtres et la réalisation de travaux de menuiserie. Il a acheté des matériaux et engagé des sous-traitants pour exécuter les travaux prévus dans les contrats et en a supervisé l’exécution. En 2009, 2010 et 2011, il a reçu 866 146 $ pour ce genre d’activités, et a fait un profit provenant des travaux réalisés. Il a déclaré avoir utilisé les montants générés par ses activités d’entrepreneur pour payer ses dépenses personnelles et ses frais de subsistance.
+[44] En bref, lorsqu’il exerçait ses activités relatives à l’installation de portes et fenêtres et aux travaux de menuiserie, l’appelant se livrait à une activité commerciale consistant à fournir ces services et le matériel requis à des tiers. Il s’agissait d’une entreprise (les « services d’entrepreneur ») et d’une source de revenu. Non seulement l’appelant a-t-il exécuté les activités en vue de réaliser un profit, mais il en a aussi tiré un profit.
+B. La pénalité pour faute lourde
+[45] Je discuterai maintenant la question de savoir si l’appelant doit payer une pénalité pour faute lourde conformément au paragraphe 163(2).
+[46] La première condition énoncée au paragraphe 163(2) évoquée plus haut est remplie puisque l’appelant a fait un faux énoncé ou une omission dans ses déclarations de revenus produites pour chacune des années d’imposition 2009, 2010 et 2011. L’appelant a reconnu avoir préparé et signé chacune des déclarations produites. Dans chacune de ses déclarations, l’appelant a omis de déclarer les revenus provenant de ses services d’entrepreneur.
+[47] La deuxième condition énoncée au paragraphe 163(2) n'est remplie que si l’appelant a fait ce faux énoncé ou cette omission sciemment ou dans des circonstances équivalant à faute lourde.
+[48] Pour déterminer si l’appelant a fait ce faux énoncé ou cette omission sciemment, la Cour doit conclure que l’appelant savait qu’il tirait des revenus des services d’entrepreneur qu’il offrait. Plus précisément, l’appelant avait-il la connaissance subjective qu’il faisait un faux énoncé dans ses déclarations de revenus lorsqu’il les a produites?
+[49] Comme l’a fait remarquer mon collègue, le juge Owen, dans le jugement Peck c. the Queen [11] , en s’appuyant sur l’arrêt Wynter c. Canada [12] , il est possible de démontrer que le contribuable avait la connaissance subjective qu’il faisait un faux énoncé par des éléments de preuve établissant, selon la prépondérance des probabilités, que le contribuable a fait preuve d’ignorance volontaire quant aux faux énoncés contenus dans sa déclaration.
+[50] Le juge Owen a résumé les éléments nécessaires pour établir l’ignorance volontaire :
+[traduction] [46] Pour établir qu’il y a eu ignorance volontaire, il faut prouver, selon la prépondérance des probabilités, que l’appelant savait que les énoncés présents dans sa déclaration et la demande étaient probablement faux, mais qu’il a choisi délibérément de ne pas se renseigner davantage, parce qu’il savait subjectivement ou soupçonnait fortement qu’il découvrirait des renseignements qui confirmeraient que les énoncés étaient bel et bien faux (voir Sansregret c. La Reine, [1985] 1 R.C.S. 570, à la page 584, R. c. Jorgensen, [1995] 4 R.C.S. 55, aux paragraphes 102 et 103, et R. c. Briscoe, 2010 CSC 13, [2010] 1 R.C.S. 411, aux paragraphes 21 à 23). L’arrêt Wynter définit le critère de l’ignorance volontaire en ces mots :
+[13] Un contribuable fait preuve d’ignorance volontaire lorsqu’il prend conscience de la nécessité de se renseigner, mais refuse de le faire parce qu’il ne veut pas connaître la vérité ou qu’il évite soigneusement de la connaître. Il s’agit de la notion de l’ignorance délibérée : R. c. Briscoe, 2010 CSC 13, aux paragraphes 23 et 24, [2010] 1 R.C.S. 411 (Briscoe); Sansregret, au paragraphe 24. Dans ces circonstances, la doctrine de l’ignorance volontaire impute une connaissance au contribuable : Briscoe, au paragraphe 21 [...]
+[47] La connaissance subjective requise pour conclure à la connaissance réelle ou à l’ignorance volontaire fait référence à la connaissance réelle ou subjective qu’a la personne qui commet l’acte prohibé, et non à la connaissance objective ou présumée qu’aurait une personne raisonnable dans les mêmes circonstances (voir, de façon générale, Shand c. The Queen, 2011 ONCA 5, au paragraphe 188 et Roks c. The Queen, 2011 ONCA 526, au paragraphe 132). [13]
+[51] Je n’ai aucune difficulté à conclure qu'il y a eu, de la part de l’appelant, faux énoncé ou l’omission. Il a admis avoir choisi de ne pas déclarer de revenu, mais a soutenu que cette décision était fondée sur un point de droit, à savoir son interprétation douteuse de la jurisprudence Stewart qui, selon lui, enseigne qu’une personne n’a aucune source de revenu si elle choisit d’exploiter son entreprise à titre de « démarche personnelle ».
+[52] Premièrement, je ne crois pas que cette interprétation de la jurisprudence Stewart émanait de l’appelant. Cette méthode de déclaration lui a été suggérée par MM. Stanchfield et Lindsay. Il s’agit de la même position que M. Meerman a défendue dans l’appel qu’il a interjeté. L’appelant n’a pas défendu cette position juridique de bonne foi; l’argument a plutôt été utilisé dans une tentative plutôt brouillonne d’éviter le paiement d’impôts.
+[53] L’appelant a exercé exactement les mêmes activités avant et après le 21 avril 2006; toutefois, il a choisi de cesser de déclarer les revenus tirés de ces activités après le 21 avril 2006. L’appelant est une personne intelligente et il a décidé en toute connaissance de cause de cesser de déclarer les revenus provenant des services d’entrepreneur et de se servir de l’argument absurde de M. Stanchfield pour tenter de justifier son omission de déclarer ses revenus. Par conséquent, l’appelant a sciemment fait un faux énoncé ou une omission dans ses déclarations.
+[54] Je suis également d’avis que l’appelant a fait un faux énoncé ou une omission dans chacune de ses déclarations de revenus pour 2009, 2010 et 2011 dans des circonstances équivalant à faute lourde.
+[55] Les mots « faute lourde » qui figurent au paragraphe 163(2) de la Loi de l’impôt sur le revenu ont fait l’objet d’une discussion dans le jugement Venne c. Canada, [1984] ACF no 314, 84 DTC 6247 (CF 1re inst.), qui a été largement suivie. Dans ce jugement, le juge Strayer a observé à la page 6256 :
+[...] La « faute lourde » doit être interprétée comme un cas de négligence plus grave qu’un simple défaut de prudence raisonnable. Il doit y avoir un degré important de négligence qui corresponde à une action délibérée, une indifférence au respect de la Loi. [...]
+[56] Comme l’enseigne le jugement Venne, la constatation de « faute lourde » exige un degré important de négligence. L’existence (ou la non-existence) d’un degré important de négligence est déterminée en fonction de la norme objective de la personne raisonnable placée dans les mêmes circonstances que la personne visée par la pénalité, et non pas en fonction des caractéristiques ou des croyances subjectives de cette personne.
+[57] La norme objective n’est assouplie que s’il est établi que la personne est incapable de comprendre le devoir de ne pas faire un faux énoncé ou une omission dans une déclaration.
+[58] Il ressort clairement de la preuve dont je dispose que l’intéressé est capable de comprendre son obligation de ne pas faire un faux énoncé ou une omission dans une déclaration. Il est intelligent, et il sait très bien qu’il doit produire ses déclarations de revenus et déclarer son revenu réel.
+[59] Il appartient donc à l’intimée d’établir, selon la prépondérance des probabilités, les faits qui appellent la conclusion que les faux énoncés figurant dans les déclarations de revenus pour 2009, 2010 et 2011 de l’appelant constituaient un écart si marqué et important par rapport à la conduite d’une personne raisonnable dans les mêmes circonstances qu’ils équivalaient à faute lourde.
+[60] L’intimée a établi ces faits.
+[61] Une personne raisonnable à qui l’on présenterait l’argument absurde de M. Stanchfield se rendrait tout de suite compte qu’il y a un grave problème avec cet argument. Personne ne peut tout à coup décider que son revenu provenant d’une entreprise ne soit pas assujetti à l’impôt.
+[62] L’appelant a exercé les mêmes activités après avril 2006 qu’il avait exercées auparavant, mais il a défendu la position selon laquelle ces activités sont devenues non imposables en avril 2006. Cela est manifestement absurde. À mon avis, une personne raisonnable ne croirait pas qu’une activité de nature commerciale, comme la prestation de services d’entrepreneur, deviendrait tout à coup non imposable parce que le fournisseur de ces services a décidé de les désigner comme une « démarche personnelle ».
+[63] Cette constatation suffit à elle seule pour conclure que la conduite de l’appelant constitue un écart si marqué et important par rapport à la conduite d’une personne raisonnable qu’elle équivaut à faute lourde.
+[64] Au moins deux autres facteurs vont dans le sens de cette conclusion.
+[65] L’appelant a déclaré qu’il s’était rendu compte qu’il prenait un risque et qu’il avait sollicité les opinions d’un comptable et d’un avocat au sujet de l’argument de la démarche personnelle. Lorsqu’il lui a été demandé en contre-interrogatoire si le comptable pensait que c’était une bonne idée de retenir l’approche selon laquelle il s’engageait dans une démarche personnelle, il a répondu [traduction] « absolument pas ». Lorsqu’on lui a demandé si son avocat lui avait indiqué qu’il s’agissait d’une bonne idée, l’appelant a répondu [traduction] « bien sûr que non ».
+[66] Une personne raisonnable aurait suivi ce conseil. Deux professionnels ont informé l’appelant que sa position ne tenait pas la route.
+[67] Après les réponses produites par l’appelant lors du contre-interrogatoire au sujet du comptable et de l’avocat, la Cour a pris une courte pause. À la reprise de l’audience, l’appelant a admis avoir parlé durant la pause à ses amis présents dans la salle d’audience qui l’aidaient à interjeter son appel. Il a ensuite tenté de modifier son témoignage au sujet de ses conversations avec le comptable et l’avocat. Je ne retiens pas ce témoignage modifié, car il s’agissait manifestement d’une tentative de réparer les dommages causés par son témoignage durant le contre-interrogatoire. Les actions de l’appelant ont sérieusement miné sa crédibilité.
+[68] L’ampleur du revenu non déclaré éveillerait des soupçons importants chez une personne raisonnable. Le revenu non déclaré s’élevait à environ 625 000 $ pour ces trois années.
+[69] À mon avis, compte tenu des éléments de preuve dont je dispose, le fait que l’appelant a signé et produit ses déclarations de revenus pour 2009, 2010 et 2011 constitue un écart si marqué et important par rapport à la conduite d’une personne raisonnable placée dans les mêmes circonstances qu’il équivaut à faute lourde, ainsi qu’il est expliqué dans le jugement Venne.
+[70] Par conséquent, le faux énoncé et l’omission de la part de l’appelant dans ses déclarations de revenus pour 2009, 2010 et 2011, à savoir son omission de déclarer ses revenus tirés de la prestation de services d’entrepreneur, constituent des circonstances équivalant à faute lourde.
+V. Autre question
+[71] Dans son avis d’appel, l’appelant demande à la Cour de trancher, entre autres, la question suivante : [traduction] « Le ministre a-t-il commis une erreur en établissant une nouvelle cotisation pour l’appelant pour des années de cotisation frappées de prescription? »
+[72] L’appelant a retiré cette question pendant l’instruction. Plus précisément, en contre-interrogatoire, lorsqu’il lui a été demandé quelles années étaient frappées de prescription, il a répondu : [traduction] « Je souhaite laisser tomber cette question. C’était une erreur. » [14]
+[73] Pour les motifs qui précèdent, l’appel est rejeté, avec dépens adjugés à l’intimée.
+[74] Les parties auront 30 jours à compter de la date du présent jugement pour conclure une entente sur les dépens, à défaut de quoi elles devront déposer leurs observations écrites sur les dépens dans les 60 jours suivant la date du présent jugement. Les observations devront être d’une longueur maximale de dix pages.
+[75] Si les parties ne peuvent s’entendre sur les dépens et qu’elles ne déposent pas d’observations écrites, les dépens sont adjugés à l’intimée conformément au tarif.
+Signé à Ottawa, Canada, ce 1er jour de février 2019.
+« S. D’Arcy »
+Juge D’Arcy
+Traduction certifiée conforme
+ce 19e jour de février 2020.
+François Brunet, réviseur
+RÉFÉRENCE :
+2019 CCI 33
+Nº DU DOSSIER DE LA COUR :
+2015-4454(IT)G
+INTITULÉ :
+Rolf De Geest c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Victoria (Colombie-Britannique)
+DATES DE L’AUDIENCE :
+Les 12 et 13 septembre 2018
+MOTIFS DU JUGEMENT PAR :
+L’honorable juge Steven K. D’Arcy
+DATE DU JUGEMENT :
+Le 1er février 2019
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Christa Akey
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] Transcription, à la page 9.
+[2] Transcription, aux pages 10 et 11.
+[3] Transcription, à la page 36.
+[4] Transcription, à la page 12.
+[6] Stewart, aux paragraphes 50 et 51.
+[7] Stewart, aux paragraphes 52 et 53.
+[8] Stewart, paragraphe 60.
+[9] Jugement non publié, numéro de dossier de la Cour 2015-2422 (IT)G. Le contribuable a interjeté appel de la décision devant la Cour d’appel fédérale.
+[10] M. Lindsay a appelé la Cour quelques jours avant l’audience en tant qu’ami de l’appelant pour demander qu’il y ait une pause entre l’audition de la requête et l’audition de l’appel.
+[11] Peck c. The Queen, 2018 TCC 52.
+[12] Wynter c. Canada, 2017 CAF 195.
+[13] Peck, précitée.
+[14] Transcription, à la page 43.

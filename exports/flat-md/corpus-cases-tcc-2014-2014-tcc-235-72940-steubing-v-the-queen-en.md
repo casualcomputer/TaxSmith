@@ -1,0 +1,159 @@
+---
+title: "Steubing v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72940/index.do"
+last_modified: "2014-07-23"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 235"
+citation2: ""
+neutral_citation: "2014 TCC 235"
+decision_date: "2014-07-23"
+language: "en"
+item_id: "72940"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5356
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:37:47.841000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c67ea3c7b3a9dd12c7ac8614a4c911f7085cf49eaa60d26e04b3432296ea5e62"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Steubing v. The Queen
+
+- Citation: 2014 TCC 235
+- Decision date: 2014-07-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5356, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Steubing v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-07-23
+Neutral citation
+2014 TCC 235
+File numbers
+2013-2743(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-2743(IT)I
+BETWEEN:
+DAVID STEUBING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on July 14, 2014, at Edmonton, Alberta
+Before: The Honourable Justice Woods
+Appearances:
+Agent for the Appellant:
+Dan R. Mason
+Counsel for the Respondent:
+Paige MacPherson
+JUDGMENT
+The appeal with respect to assessments made under the Income Tax Act and the Excise Tax Act for the 2010 taxation year is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the appellant is entitled to additional employment deductions in the amount of $7,005 and an additional corresponding goods and services tax rebate. Each party shall bear their own costs.
+Signed at Ottawa, Ontario, this 23rd day of July 2014.
+“J.M. Woods”
+Woods J.
+Citation: 2014 TCC 235
+Date: 20140723
+Docket: 2013-2743(IT)I
+BETWEEN:
+DAVID STEUBING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] David Steubing is employed in power line maintenance and construction in various locations in Alberta. This appeal concerns the 2010 taxation year, in which Mr. Steubing claimed a deduction for employment expenses in the amount of $43,611 and a corresponding GST rebate. The reassessment at issue reduced these amounts to $2,934, for employment expenses, and $139.71, for the GST rebate.
+Preliminary matters
+[2] There are two preliminary matters.
+[3] First, the notice of appeal requests relief on account of corroborating documents that were provided to the Canada Revenue Agency (CRA) and not returned to the appellant. This is no longer an issue, and the supporting documentation has been entered into evidence.
+[4] Second, Mr. Steubing’s representative informed the Court at the commencement of the hearing that the items under dispute relate to expenses with respect to a truck, cell phone, tools, and food. The representative stated that an issue with respect to lodging was resolved prior to the hearing.
+General observations [5] With respect to the items in dispute, Mr. Steubing appears to have reduced the amounts that he is claiming. A revised statement of expenses was entered into evidence in page 6 of the Book of Documents (Ex. A-1). I have assumed that this document reflects Mr. Steubing’s current position.
+[6] Accordingly, the total amount of expenditures now being claimed is $28,248.30. This includes an amount for lodging in the amount of $2,934 which was previously allowed in a reassessment.
+[7] As a general comment, Mr. Steubing does have supporting documentation to establish that almost all of the expenditures were incurred, but he has very little supporting documentation to establish that the expenditures relate to employment rather than personal use. This was a focus of the cross-examination, and Mr. Steubing’s responses were often too vague to be persuasive.
+[8] Finally, I would comment that many of the expenditures being claimed are clearly non-deductible, and yet Mr. Steubing persisted in claiming them at the hearing. This approach made the task of Crown counsel and the Court more difficult than it should have been. I would have considered an award of costs against the appellant, but the Crown did not ask for them.
+[9] I now turn to the specific items in dispute.
+Tools [10] Mr. Steubing claims a deduction for tools in the amount of $333.35. This deduction should be disallowed because the applicable legislation does not permit a deduction for a tradesperson’s tools unless the expenditures exceed $1,050 (s. 8(1)(s) and 8(2) of the Income Tax Act).
+[11] Mr. Steubing’s representative acknowledged the restriction in the legislation but argued that it is unfair to disallow the expense. This argument based on fairness cannot succeed.
+Clothing [12] Mr. Steubing claims a deduction for employment-related clothing in the amount of $299.93. This amount will not be allowed because the employer submitted a form stating that clothing expenditures would be paid for, or reimbursed by, the employer (Ex. A-1, page 4). I am not satisfied that Mr. Steubing incurred any expenditure for clothing.
+Meals [13] Mr. Steubing’s revised claim seeks a deduction for food/meals in the amount of $7,318.50, which is approximately one-half of the food receipts that were submitted.
+[14] These expenditures will not be allowed because Mr. Steubing received a meal allowance from the employer.
+[15] Pursuant to s. 8(1)(h) of the Act, travel expenses cannot be deducted if the taxpayer receives an allowance from the employer that was not included in income by virtue of s. 6(1)(b)(vii). Since this provision permits a reasonable meal allowance to be excluded from income, I have concluded that this allowance likely was not included in Mr. Steubing’s income. Accordingly, the deduction for food is prohibited by s. 8(1)(h).
+Fuel for truck [16] Mr. Steubing submits that he incurred fuel expenses in the amount of $5,065.01 and that approximately 88.6 percent of this amount is attributable to employment and should be deductible (A-1, page 6). Many of these expenditures relate to travel between home and the work sites, which were usually a considerable distance away.
+[17] These expenses are generally reasonable and will be allowed, but the personal use proportion will be increased to 20 percent. This takes into account that Mr. Steubing did not keep a mileage log and that work-related travel was incorrectly calculated from the employer’s place of business instead of Mr. Steubing’s home.
+[18] The total amount of the deduction that will be allowed is $4,052.
+[19] In light of the percentage exclusion for personal use, it is not appropriate to make a further adjustment for specific receipts identified by the Crown as likely personal expenditures.
+Capital cost allowance [20] Mr. Steubing claims a deduction for capital cost allowance on a trailer that he hauled to work sites with his truck. He stated that he preferred to stay in the trailer rather than a motel. Capital cost allowance on the trailer (not the truck) has been claimed as a motor vehicle expense. This claim will be disallowed because the trailer is not a motor vehicle.
+[21] In argument, Mr. Steubing’s representative suggested that the trailer could be claimed as lodging and that the truck could be claimed as a motor vehicle. It is too late to make these arguments after the evidence has been presented.
+[22] The Crown would be prejudiced in several ways if these arguments were accepted. For example, Mr. Steubing’s representative informed the Court at the commencement of the hearing that issues related to lodging had been resolved. In addition, there was no corroborating evidence as to the cost of the truck. Since the Crown did not have sufficient opportunity to consider a response to these new arguments, they will not be allowed.
+Insurance [23] Mr. Steubing submits that he paid insurance on the truck in the amount of $5,800. Supporting evidence for the expenditure was provided in the form of bank statements showing monthly payments to an insurance company. The statements showed two monthly payments for insurance, and the higher amount was claimed as on account of the truck.
+[24] I agree with the Crown that there is not sufficient evidence to tie this expenditure to the truck. In addition to insurance for the truck, Mr. Steubing had insurance for the trailer, a truck used by his spouse, a boat and a home. It is not possible to break out the amounts attributable to the truck.
+[25] In the absence of sufficient supporting documentation, only one-third of this expenditure will be allowed as attributable to the truck. This amount is $1,933. After deducting the personal use proportion (20 percent), the amount allowed as a deduction will be $1,546.
+Cell phone [26] Mr. Steubing claims cell phone expenditures in the amount of $3,053.99.
+[27] The receipts that were provided show that these expenditures relate to four cell phones. Mr. Steubing acknowledged on cross-examination that three of the cell phones belong to family members.
+[28] Another problem with the cell phone claim is that Mr. Steubing has no supporting documentation regarding personal use. The Crown suggested as an alternative argument that Mr. Steubing’s long distance expenditures only be allowed. This amount could be verified and is $1,114. This is a reasonable approach given that the record-keeping is poor.
+Other truck expenses [29] Mr. Steubing submits that he incurred miscellaneous expenditures on his truck as follows: maintenance and repairs in the amount of $1,557.64, registration and licensing in the amount of $113.80, and washes in the amount of $89.60.
+[30] Through a scrutiny of the receipts on cross-examination, the Crown established that likely only $206.58 of the maintenance and repairs was related to employment and the rest were personal expenditures.
+[31] As for registration and licensing, the Crown submits that there was not sufficient evidence to tie the expenses to the truck. There were three receipts. The Crown suggested that only the largest amount, $70.45, should be allowed. I agree with this approach.
+[32] The expense claimed for washes is reasonable.
+[33] After a deduction for personal use (20 percent), the amount allowed will be $293.
+GST rebate [34] There is no dispute about the GST rebate. It will follow from the results of the income tax deductions.
+Conclusion [35] The appeal will be allowed on the basis that additional expenditures in the amount of $7,005 will be allowed as a deduction in computing income and a corresponding GST rebate will be allowed. Each party will bear their own costs.
+[36] Finally, I wish to acknowledge the excellent submissions of counsel for the Crown in this appeal, which required a review of a significant number of receipts. The submissions were of great assistance.
+Signed at Ottawa, Ontario this 23rd day of July 2014.
+“J.M. Woods”
+Woods J.
+CITATION:
+2014 TCC 235
+COURT FILE NO.:
+2013-2743(IT)I
+STYLE OF CAUSE:
+DAVID STEUBING AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+July 14, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Woods
+DATE OF JUDGMENT:
+July 23, 2014
+APPEARANCES:
+Agent for the Appellant:
+Dan R. Mason
+Counsel for the Respondent:
+Paige MacPherson
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+N/A
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Ontario

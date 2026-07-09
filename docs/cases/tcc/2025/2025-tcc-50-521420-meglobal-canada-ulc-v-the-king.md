@@ -1,0 +1,228 @@
+---
+title: "MEGLobal Canada ULC v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521420/index.do"
+last_modified: "2025-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2025 TCC 50"
+citation2: ""
+neutral_citation: "2025 TCC 50"
+decision_date: "2025-03-26"
+language: "en"
+item_id: "521420"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6103
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:27:52.731000+00:00"
+cases_cited_count: 4
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "90a6a52ed9492183b2cc7230d416b65b51493a707e30e7685a8397c8fc4730c6"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# MEGLobal Canada ULC v. The King
+
+- Citation: 2025 TCC 50
+- Decision date: 2025-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6103, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+MEGLobal Canada ULC v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2025-03-26
+Neutral citation
+2025 TCC 50
+File numbers
+2016-5252(IT)G
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-5252(IT)G
+BETWEEN:
+MEGLOBAL CANADA ULC,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion heard on February 21, 2025, at Toronto, Ontario
+Before: The Honourable Justice Ronald MacPhee
+Appearances:
+Counsel for the Appellant:
+Daniel Sandler
+Selena Ing
+Counsel for the Respondent:
+Martin Beaudry
+Jeremy Tiger
+ORDER
+UPON a Motion brought by the Respondent to quash the Appeal pursuant to section 53(3)(a) of the Tax Court of Canada Rules (General Procedure) and upon hearing from the parties:
+NOW THEREFORE THIS COURT ORDERS THAT:
+The Respondent’s motion to quash the Appeal, identified for clarity as docket: 2016-5252 (IT)G, is granted, without leave to amend, because the issues under appeal are outside the jurisdiction of the Tax Court of Canada; and,
+Costs are awarded to the Respondent. Should the parties be unable to agree upon the quantum of costs, brief written submissions by the Respondent must be submitted to the Court within 30 days of the date of this Order. The Appellant shall have 30 days from the date of the receipt of the Respondent’s submissions to provide reply submissions.
+Signed this 26th day of March 2025.
+“R. MacPhee”
+MacPhee J.
+Citation: 2025 TCC 50
+Date: 20250326
+Docket: 2016-5252(IT)G
+BETWEEN:
+MEGLOBAL CANADA ULC,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+MacPhee J.
+I. Introduction [1] The Minister of National Revenue (the “Minister”) declined a request for a downward transfer pricing adjustment from MEGlobal Canada ULC (the “Appellant”), pursuant to subsection 247(10) of the Income Tax Act[1] (the “Act”). The Appellant appealed the Minister’s notices of reassessment in respect of its 2008, 2010, and 2011 taxation years (the “Relevant Period”) to the Tax Court of Canada (the “Tax Court”). The Appellant brought a parallel application for judicial review to the Federal Court.
+[2] His Majesty the King (the “Respondent”) has brought this motion for an order from the Tax Court quashing the appeal pursuant to rule 53(3)(a) of the Tax Court of Canada Rules (General Procedure)[2] (the “Rules”). Alternatively, the Respondent asks the Tax Court for an order permitting the Respondent to file and serve a Reply to the Appellant’s Notice of Appeal within 60 days from the date of the order from the motion, pursuant to rule 44(1)(b) of the Rules.
+II. Background [3] The Appellant’s predecessor corporation entered into a sales agreement to sell ethylene glycol to a non-arm’s length non-resident corporation, and the non‑resident agreed to pay the Appellant an amount for its purchases based on a formula in the sales agreement. In March 2013, the Appellant had an analysis undertaken of its transfer pricing methodology and determined that the non-resident corporation should have paid a lower price for the Appellant’s sale of ethylene glycol.
+[4] The Minister reassessed the Appellant to reflect an upward transfer pricing adjustment under subsection 247(2) of the Act and issued notices of reassessment dated August 14, 2013 for the 2008 tax year, and March 27, 2014 for the 2010 and 2011 tax years. The Appellant’s predecessor objected to the notices of reassessment and argued that there should be a downward transfer pricing adjustment. The Minister vacated the upward adjustments but refused to grant a downward adjustment. In 2016, the Appellant objected to the reassessment and requested that the Minister grant it a downward transfer pricing adjustment. The Minister refused the request. The Appellant filed an appeal to the Tax Court and brought a parallel application for judicial review to the Federal Court.
+[5] The Appellant and Respondent jointly requested that this appeal be held in abeyance pending the outcome of Dow Chemical Canada ULC v Canada (“Dow”).[3] A joint letter from counsel for the Appellant and Respondent to the registrar of the Tax Court, dated March 28, 2019 (“Joint Request Letter”), states, “If the outcome of the DCCU [Dow Chemical] rule 58 application is that the Tax Court has jurisdiction to hear appeals from s. 247(10) decisions, then the appellant will withdraw its Federal Court application and proceed with its Tax Court appeal. If the outcome of the DCCU rule 58 application is that the Tax Court does not have jurisdiction, then the appellant would withdraw its Tax Court appeal and proceed with its Federal Court application”.[4]
+III. Positions of the Parties
+1)Position of the Appellant
+[6] The Appellant argues that the essential nature of this appeal is the correct application of subsection 247(2) of the Act in determining the Appellant’s income. The application of subsection 247(2) must precede the Minister considering the exercise of her discretion under subsection 247(10) of the Act. Since there has not been a finding about the correct application of subsection 247(2) of the Act in respect of the transactions in issue, the Minister prematurely refused to exercise her discretion under subsection 247(10) of the Act.
+[7] The correct application of subsection 247(2) of the Act is within the jurisdiction of the Tax Court because it deals with the non-discretionary determination of taxpayers’ income. If the Tax Court orders that the reassessments at issue be referred back to the Minister for reconsideration (as a downward adjustment was determined to be merited) and the Minister decides not to make the downward adjustment, then the Appellant can make an application for judicial review to the Federal Court.
+[8] Appellant’s counsel also emphasized that if their appeal to the Tax Court is quashed, then the taxation years in the Relevant Period would be statute barred from reassessment. The Minister cannot reassess those years except under subsection 165(3) of the Act (in response to a notice of objection) or under subparagraph 171(1)(b)(iii) of the Act (in response to an order of the Tax Court). Therefore, if the Minister determines that a downward adjustment is appropriate under subsection 247(10), including after an order by the Federal Court, the Minister would not be able to reassess the Appellant for the relevant years if this appeal is quashed.
+2)Position of the Respondent
+[9] The Respondent argues that the appeal should be quashed pursuant to rule 53(3)(a) of the Rules because it asks the Tax Court for relief beyond its jurisdiction. The essential nature of this appeal is a challenge to the Minister’s discretionary decision not to grant a downward transfer pricing adjustment. The Tax Court does not have jurisdiction to overturn discretionary decisions made by the Minister under subsection 247(10) of the Act. The Minister can make a decision under subsection 247(10) of the Act before, after, or instead of making a subsection 247(2) decision.
+IV. Issues
+1)Should the Tax Court quash the Appellant’s appeal for lack of jurisdiction, pursuant to rule 53(3)(a) of the Rules? If so, should the Appellant be able to amend the Notice of Appeal.
+Analysis:
+Should the Tax Court quash the Appellant’s appeal for lack of jurisdiction?
+[10] The issues before the Tax Court, as set in the Notice of Appeal, are as follows:
+58. The issues to be decided are:
+whether the Tax Court has jurisdiction to hear an appeal of the Minister’s decision to deny a downward adjustment under s. 247(10) of the Act; if so,
+whether the appellant’s income from the Transactions in the Appeal Period should be reduced to reflect….
+[11] An appeal to the Tax Court for a downward adjustment was also considered by the Supreme Court in Dow.
+[12] In Dow, Justice Kasirer wrote the following for the majority of the Supreme Court:
+7. By empowering the Minister to weigh her "opinion" of whether circumstances are such that it would be appropriate to depart from the ordinary rule and permit a downward adjustment, Parliament has conferred on the Minister, by s. 247(10), a policy-based discretionary decision-making power that is distinct from an assessment. […]
+43. A tax assessment is, as this Court's jurisprudence confirms, a purely non-discretionary determination by the Minister of the taxpayer's tax liability for a particular taxation year […].[5] […] The amount of tax owing — the product of the process of determining a taxpayer's tax liability for the relevant taxation year — "flows from the Income Tax Act, itself" […].[6]
+46. […] While the ITA empowers the Minister to exercise discretion in some matters, including over whether to issue downward transfer pricing adjustments under s. 247(10), these discretionary decisions are not assessments nor are they part of assessments. When the Minister makes discretionary decisions, she provides her opinion, guided by policy considerations. This is a task that is fundamentally different than the non-discretionary act of preparing an assessment. […]
+52. Section 247(10) must be understood alongside the non-discretionary rule in s. 247(2) of the ITA. When the conditions of s. 247(2) are met, the Minister must issue an upward adjustment of the taxpayer's income to reflect "'... the amounts that would have been determined if' the parties to the transaction had been dealing at arm's length" […].[7] These upward adjustments "are not discretionary" […].[8] By contrast, s. 247(10) allows the Minister, in her discretion, to decide whether a downward adjustment is appropriate in the circumstances, which is "an exception to the mandatory character of subsection 247(2)" […].[9] The Minister may make her decision under s. 247(10) before or after an assessment is issued. In addition, the Minister might decide not to exercise her discretion under s. 247(10) at all. If the Minister refuses to exercise her discretion, "there is virtually no recourse for the taxpayer, short of obtaining a writ of mandamus" in the Federal Court […].[10]
+53. The general non-discretionary rule […] is that a downward transfer pricing adjustment, according to the text of s. 247(10), "shall not be made under s. 247(2)" (R.F., at para. 112). Properly interpreted, the words "shall not" (in French, "ne peut être") are to be construed as prohibitive. The Court of Appeal was right to say that if s. 247(2) would result in a downward transfer pricing adjustment, the general rule in s. 247(10) provides that the adjustment is not to be made […]. Only when the Minister has formed the opinion that the adjustment is appropriate will the general prohibitive rule be displaced and the downward transfer pricing adjustment be made (s. 247(10) ITA). If the Minister has not exercised the discretion afforded under s. 247(10), she is not of the opinion that an adjustment is appropriate, and the general rule therefore applies. If the Minister has been asked to exercise her discretion and has concluded that the adjustment is not appropriate, the general rule continues to apply. In my view, it would be wrong to ignore the clear statutory default rule in s. 247(10) that tax liability must be calculated without making downward transfer pricing adjustments. Section 247(10) prohibits downward adjustments, subject to the discretion of the Minister. […]
+60. Facts underlying the Minister's exercise of discretion are unconnected to the correctness of the assessment […]. With the utmost respect, I disagree with the Tax Court judge's view that an improper exercise of this discretion, or a failure to exercise this discretion, renders the assessment incorrect (T.C.C. reasons, at para. 213). This is incompatible with the statutory scheme which directs in s. 247(10) that the default statutory rule — i.e., no downward transfer pricing adjustment — applies unless the Minister comes to the opinion that an adjustment is appropriate. […]
+104. If the Tax Court determines that an assessment is incorrect, Dow is right to say that the Tax Court may vacate the assessment, vary it, or refer it back to the Minister for reconsideration and reassessment. However, Dow argues that, as part of its power to refer the assessment back to the Minister for reconsideration and reassessment, "the Tax Court can order the Minister to reconsider the decision to deny the downward adjustment under s. 247(10)" (A.F., at para. 64).
+105. I respectfully disagree. As I have emphasized, it is only the Minister's opinion that the downward transfer pricing adjustment is appropriate under s. 247(10) that is relevant to the correctness of an assessment, not the facts that underlie that opinion. If the Tax Court issues an order for reconsideration and reassessment, the Minister will simply be required to issue a reassessment that correctly reflects the very decision that the taxpayer sought to challenge since that decision would not have been quashed. Moreover, an order for reconsideration and reassessment cannot compel the Minister to reconsider her discretionary decision under s. 247(10) because such a decision is not an assessment nor part of one. […]
+106. As Webb J.A. correctly observed, the Federal Court has the power to quash the Minister's discretionary decision, which would require her to reconsider it (para. 77). While "the Federal Court is not allowed to vary, set aside or vacate assessments" (JP Morgan, at para. 93), it has access to administrative law remedies that are appropriate for discretionary decisions by the Minister, which as I have emphasized, are not assessments. I recall that "while it is true that the Federal Court cannot invalidate an assessment ... the Federal Court may grant a declaration based on administrative law principles" in tax matters […].[11] In this context, should the Federal Court quash a decision made under s. 247(10) on administrative law grounds and the Minister issue a new decision that affects the amount of tax owing, the assessment will be incorrect if it does not accurately reflect the new opinion. At that point, the Tax Court may intervene, but only after the Federal Court has quashed the Minister's decision, after the Minister made a new decision, after that new decision results in a change in the taxpayer's tax liability, and if the Minister fails to issue a reassessment to reflect a change in tax liability.
+107. In this light, Webb J.A. correctly observed that "[s]ince the Tax Court does not have the power to quash an opinion rendered under subsection 247(10) of the [ITA], it will remain valid, unless it is quashed by the Federal Court on judicial review" (para. 84). If the Federal Court quashes the Minister's decision under s. 247(10), the Minister will have the opportunity to reconsider it, which may result in the issuance of a reassessment. At that point — if the reassessment is alleged to be incorrect — the taxpayer may challenge it by way of an appeal to the Tax Court. […]
+108. In sum, I agree that reconsideration and reassessment is not an appropriate remedy. Since the Tax Court cannot avail itself of administrative law remedies, and since the Federal Court does not have jurisdiction to hear appeals of the correctness of assessments, Webb J.A. was right to conclude that "the remedies available to both courts may be required if Dow is to succeed" (para. 91). […]
+121. In answer to the question posed under s. 58, I conclude that when the Minister has exercised her discretion under s. 247(10) of the ITA to deny a taxpayer's request for a downward pricing adjustment, that decision falls outside of the jurisdiction of the Tax Court in respect of an appeal, under statute, of the taxpayer's assessment. As there is no express right of appeal from this decision to the Tax Court, the proper forum to challenge the Minister's decision is the Federal Court, pursuant to its exclusive jurisdiction in judicial review under its home statute.
+[13] The decision in Dow makes clear that, when the Minister denies a request for a downward transfer pricing adjustment, that decision is not an “assessment” or part of an “assessment” that can be appealed to the Tax Court. Rather, it is a discretionary decision by the Minister. In reaching this conclusion, Dow recognizes the limited jurisdiction of the Tax Court, as defined by legislation. As a result of this limited jurisdiction, the Appellant’s only recourse in this instance was to make an application for judicial review to the Federal Court.
+[14] The Appellant argues that this case differs from Dow because in Dow a finding had already been made by the Minister that subsection 247(2) of the Act gave rise to a specific amount of downward adjustment, and the Minister exercised her discretion not to make that adjustment. In this matter, the Minister, after doing a 247(2) analysis, found that a downward adjustment was not merited. I fail to see how this distinction benefits the Appellant. I find that, even with this distinction on the facts, the Appellant’s only recourse in seeking a downward adjustment is to make an application for judicial review to the Federal Court.
+[15] Rule 53(3)(a) of the Rules states:
+53(3) On application by the respondent, the Court may quash an appeal if
+(a) the Court has no jurisdiction over the subject matter of the appeal […].
+[16] The Tax Court has no jurisdiction to interfere in any way with the Minister’s discretion in disallowing a downward adjustment. Clearly, the Tax Court does not have jurisdiction to grant the remedy sought by the Appellant as set out in their pleadings (see paragraph 10 above), therefore the Respondent will succeed on his motion to quash the Appeal, pursuant to rule 53(3)(a) of the Rules. Frankly, this did not really seem to be in dispute. As the decision in Dow made clear, the Appeal requests a remedy clearly outside the jurisdiction of the Tax Court.
+Should the Appellant be given leave to amend?
+[17] In describing what he is seeking from the TCC, Appellant’s counsel stated the following:[12]
+JUSTICE: What would my order be if I
+6 --if this trial was in front of me and you are saying I
+7 want a downward adjustment to our filings under 247(10).
+8 And I would say, I cannot do that, I mean, that is
+9 outside my discretion. So you are saying, okay, apply
+10 247(2), (a) and (c) or (b) and (d), and tell me what the
+11 proper transfer price should have been and then what,
+12 then I make a downward adjustment?
+13 MR. SANDLER: No, you could not make
+14 a downward adjustment, but what you could do, Your Honour --
+16 JUSTICE: Okay.
+17 MR. SANDLER: -- is in your reasons
+18 for judgment explicitly state the correct transfer
+19 pricing methodology under subsection 247(2) is 'X'. And
+20 if 'X' is applied to the taxation years, it would, in
+21 the absence of 247(10) result in a downward adjustment.
+22 Full stop.
+[18] Later in the hearing, Appellant’s counsel provided a description of the proposed amendment to the Notice of Appeal:[13]
+JUSTICE: What do you ultimately want
+22 the Tax Court to do for you if you are successful? You
+23 are going to amend your pleadings and request what?
+24 MR. SANDLER: We would amend our
+25 pleadings and request that this Court determine what the
+26 correct transfer pricing methodology is under subsection
+27 247(2) and what the result of that application would be,
+28 okay, in the absence of subsection 247(10) and then this
+1 Court would order that the -- if it comes to that, if it
+2 agrees, okay, that under 247(2) the correct application
+3 of 247(2) would give rise to a downward adjustment, it
+4 would refer the matter back to the Minister for
+5 reconsideration and reassessment based on the reasons of
+6 this Court.
+[19] Counsel goes on to say that the Minister would not be bound by the decision of the Tax Court, the Minister would then exercise its discretion as the Minister saw fit.
+[20] To this argument, the Respondent’s written submissions state the following:[14]
+19. Subclause 171(1)(b)(iii) does not allow such an order. Under 171(1)(b)(iii), this Court “may dispose of an appeal by… allowing it and… referring the assessment back to the Minister for reconsideration and reassessment.” The conjunctive “and” between “reconsideration” and “reassessment” means that reassessment can only be referred back to the Minister if it will necessarily result in a further reassessment (meaning the determination of a tax liability). As Dow confirms, the “default position” is that the law does not allow a reassessment to effect a downward adjustment unless the Minister decides, in her discretion, that one is appropriate.
+[21] I am entirely in agreement with this submission.
+[22] What the Appellant is proposing through an amendment to his Notice of Appeal is not within the authority of the Tax Court. The Appellant would be seemingly seeking an expert opinion from the Tax Court that a downward adjustment is warranted, pursuant to a 247(2) analysis. Presumably this TCC opinion then would be used in an attempt to sway the Minister’s discretion, or used as evidence before the Federal Court.
+[23] This amounts to seeking to obtain and use a judgement of the Tax Court as a collateral attack on the absolute discretion of the Minister under 247(10). Furthermore, it ignores the fact that a Minister’s decision under 247(10) is not an assessment.
+[24] The following from the Dow decision bears repeating:
+108. In sum, I agree that reconsideration and reassessment is not an appropriate remedy. Since the Tax Court cannot avail itself of administrative law remedies, and since the Federal Court does not have jurisdiction to hear appeals of the correctness of assessments, Webb J.A. was right to conclude that "the remedies available to both courts may be required if Dow is to succeed" (para. 91). […]
+121. In answer to the question posed under s. 58, I conclude that when the Minister has exercised her discretion under s. 247(10) of the ITA to deny a taxpayer's request for a downward pricing adjustment, that decision falls outside of the jurisdiction of the Tax Court in respect of an appeal, under statute, of the taxpayer's assessment. As there is no express right of appeal from this decision to the Tax Court, the proper forum to challenge the Minister's decision is the Federal Court, pursuant to its exclusive jurisdiction in judicial review under its home statute.
+[25] The Appellant has no right of Appeal to the Tax Court. I am sympathetic to the Appellant’s plight, specifically that if their appeal to the Tax Court is quashed, then the taxation years in the Relevant Period would be statute barred from reassessment. But even if this is the case, because the Tax Court has no jurisdiction, the matter must be quashed pursuant to the Motion brought by the Respondent.
+[26] If the Appellant were be given an opportunity to amend as proposed, it would be once again requesting a remedy outside the authority of the Tax Court. For that reason, the matter is quashed, without leave to amend.
+[27] Cost shall be payable by the Appellant to the Respondent.
+Signed this 26th day of March 2025.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2025 TCC 50
+COURT FILE NO.:
+2016-5252(IT)G
+STYLE OF CAUSE:
+MEGLOBAL CANADA ULC AND HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+February 21, 2025
+REASONS FOR ORDER BY:
+The Honourable Justice Ronald MacPhee
+DATE OF ORDER:
+March 26, 2025
+APPEARANCES:
+Counsel for the Appellant:
+Daniel Sandler
+Selena Ing
+Counsel for the Respondent:
+Martin Beaudry
+Jeremy Tiger
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Daniel Sandler Selena Ing
+Firm:
+EY Law LLP
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Income Tax Act, RSC 1985, c 1 (5th Supp).
+[2] Tax Court of Canada Rules (General Procedure), SOR 90/688a.
+[3] Dow Chemical Canada ULC v R, 2024 SCC 23.
+[4] Tab 4 of the Respondent’s Motion Record (March 28, 2019).
+[5] Okalta Oils v MNR, 1955 CanLII 70 (SCC) at 825-26; see also C. Campbell, Administration of Income Tax 2023 (2023), at p 405-08, 414; R v Anchor Pointe Energy, 2007 FCA 188 at para 33.
+[6] R v Wesbrook Management Ltd., 96 DTC 6590 (FCA) at 6591.
+[7] R v Wesbrook Management Ltd., 96 DTC 6590 (FCA) at 6591.
+[8] Ibid.
+[9] Ibid.
+[10] Ibid at 326.
+[11] Sifto Canada Corp v MNR, 2014 FCA 140 at para 25; see also Maverick Oilfield Services Ltd v R, 2023 FC 1728.
+[12] Transcript from February 21, 2025 at page 67, line 5 line 22.
+[13] Transcript from February 21, 2025, at page 95, line 22 to page 96, line 6.
+[14] Respondent’s Answers to the Appellant’s Submissions, Filed February 14, 2025, at paragraph 19.

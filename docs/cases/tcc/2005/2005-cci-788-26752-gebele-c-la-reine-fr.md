@@ -1,0 +1,178 @@
+---
+title: "Gebele c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26752/index.do"
+last_modified: "2005-12-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 788"
+citation2: ""
+neutral_citation: "2005 CCI 788"
+decision_date: "2005-12-09"
+language: "fr"
+item_id: "26752"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3498
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:13:27.499000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "72c1c0e8231a53322ebff6cf2eab5d9975131c844da98e09fb606b48ea869f80"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Gebele c. La Reine
+
+- Citation: 2005 CCI 788
+- Decision date: 2005-12-09
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3498, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gebele c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-12-09
+Référence neutre
+2005 CCI 788
+Numéro de dossier
+2004-3293(IT)APP
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2004‑3293(IT)APP
+ENTRE :
+HERMAN GEBELE,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue à St. Catharines (Ontario), le 4 novembre 2005
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Avocat du requérant :
+Me George Gligoric
+Avocate de l’intimée :
+Me Kandia Aird
+____________________________________________________________________
+ORDONNANCE
+Vu la requête présentée par le requérant en application de l’alinéa 116.2(1)a) de la Loi de l’impôt sur le revenu afin d’obtenir une ordonnance prorogeant le délai dans lequel il peut signifier au ministre du Revenu national des avis d’opposition pour les années d’imposition 1988 à 1994 (inclusivement);
+Après avoir entendu les parties et avoir lu les éléments matériels qu’elles ont produits;
+La Cour ordonne que la demande soit rejetée, conformément aux motifs de l’ordonnance ci‑joints, avec dépens en faveur de l’intimée.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 25e jour de septembre 2006.
+Christian Laroche, LL.B.
+Référence : 2005CCI788
+Date :20051209
+Dossier : 2004‑3293(IT)APP
+ENTRE :
+HERMAN GEBELE,
+requérant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+La juge Sheridan
+[1] L’audition de la présente requête a débuté le 30 août 2005 à Hamilton et a été ajournée au 4 novembre 2005 à St. Catharines pour permettre au requérant, Herman Gebele, d’appeler une autre personne à témoigner, soit M. Timothy Wright. Selon les éléments matériels initialement produits, le requérant a demandé à la Cour, en application de l’alinéa 166.2(1)a) de la Loi de l’impôt sur le revenu, de prononcer une ordonnance prorogeant le délai fixé pour la signification au ministre du Revenu national d’avis d’opposition touchant les cotisations et nouvelles cotisations établies relativement à ses années d’imposition 1988 à 1994 (ci‑après, collectivement, les « avis », dont chacun porte une « date de mise à la poste »[1] allant du 19 mars 1996 au 15 mai 1996). À la reprise de l’audition en novembre, le requérant a demandé et obtenu une ordonnance l’autorisant à modifier l’avis de requête afin d’y ajouter la réparation subsidiaire suivante :
+[TRADUCTION]
+À titre subsidiaire, une ordonnance selon laquelle les avis de nouvelle cotisation et les avis de cotisation de 1996 mentionnés à l’annexe « A » jointe à la présente [les « avis »] sont annulés, parce qu’ils n’ont pas été mis à la poste ou envoyés au requérant contrairement aux exigences prévues aux paragraphes 152(2) et (4) ainsi que 165(1) de la Loi et qu’ils sont en outre frappés de prescription suivant l’alinéa 152(3.1)b) et le paragraphe 152(4) de la Loi.
+[2] La Cour doit d’abord se demander si les avis ont été envoyés au requérant et, dans l’affirmative, à quelle date. Selon le requérant, les avis n’ont pas été envoyés au sens du paragraphe 152(2) avant le mois de mars 2004, lorsqu’il a pour la première fois eu vent de leur existence. Le paragraphe 152(2) se lit ainsi :
+(2) Avis de cotisation. Après examen d’une déclaration, le ministre envoie un avis de cotisation à la personne qui a produit la déclaration.
+[3] Le requérant a en outre soutenu qu’après avoir appris l’existence des avis, il avait immédiatement produit des avis d’opposition en avril 2004, bien avant l’expiration du délai prévu au paragraphe 165(1) :
+Article 165 : Oppositions à la cotisation.
+(1) Le contribuable qui s’oppose à une cotisation prévue par la présente partie peut signifier au ministre, par écrit, un avis d’opposition exposant les motifs de son opposition et tous les faits pertinents, dans les délais suivants :
+a) lorsqu’il s’agit d’une cotisation relative à un contribuable qui est un particulier (sauf une fiducie) ou une fiducie testamentaire, pour une année d’imposition, au plus tard le dernier en date des jours suivants :
+(i) le jour qui tombe un an après la date d’échéance de production qui est applicable au contribuable pour l’année,
+(ii) le 90e jour suivant la date de mise à la poste de l’avis de cotisation;
+b) dans les autres cas, au plus tard le 90e jour suivant la date de mise à la poste de l’avis de cotisation.
+[4] Le ministre a reconnu que les avis n’avaient jamais été postés au requérant mais, selon lui, il avait rempli les obligations que lui imposait la loi lorsque, le 16 mai 1996, les fonctionnaires de l’ADRC avaient remis les avis à M. Wright, lequel agissait alors à titre d’agent du requérant. Calculé à partir de ce moment, conformément aux articles 165 et 166.1, le délai pour signifier les avis d’opposition expirait le 14 août 1997, soit quelques sept années avant la date à laquelle le requérant a finalement produit ses oppositions. La Cour n’a donc pas compétence, suivant l’alinéa 166.2(5)a) de la Loi, pour accorder une prorogation du délai applicable à la production des avis d’opposition.
+Les faits
+[5] Pendant son témoignage, le requérant a affirmé qu’en 1994, il avait quitté le Canada pour faire traiter son cancer aux États‑Unis. Avant son départ, il avait vendu à son ancienne épouse, Helga, la maison située au 37, Concerto Court, à Ancaster, en Ontario, dans laquelle ils avaient vécu. Peu après son arrivée aux États‑Unis, le requérant a été accusé d’entrée illégale dans ce pays et il a été emprisonné pendant cinq ans. En mars 2004, après avoir purgé sa peine, il a été raccompagné à la frontière canadienne. C’est à ce moment qu’il a été mis au courant de l’existence des avis. Le 6 avril 2004, il a signifié au ministre des avis d’opposition concernant ces avis.
+[6] Au cours de son contre‑interrogatoire, le requérant a admis qu’il n’avait, à aucun moment avant de quitter le Canada ni pendant son séjour aux Etats-Unis, fourni à l’ADRC une nouvelle adresse ou une adresse de réexpédition. Lorsqu’on lui a demandé comment il croyait que ses affaires fiscales allaient être traitées pendant son absence du Canada, il a répondu qu’il [TRADUCTION] « n’avait réellement pas songé à cela du tout ». Il a également reconnu que, même s’il avait donné instructions à M. Wright de préparer et de produire sa déclaration de revenus pour 1988, il ne l’avait pas autorisé à s’occuper de ses affaires fiscales par la suite. Bien qu’il ait nié avoir donné une autorisation à M. Wright, lorsqu’on lui a montré le formulaire T1013[2] du ministère, daté du 30 janvier 1996, par lequel Revenu Canada (maintenant l’Agence du revenu du Canada) était autorisé à transmettre à M. Wright les renseignements confidentiels le concernant, le requérant a admis que ce document portait sa signature. Il ne se souvenait pas avoir signé ce document ni comment M. Wright en avait eu possession, mais il a affirmé qu’il savait que M. Wright allait fournir le formulaire T1013 à Revenu Canada. Il n’a à aucun moment tenté d’expliquer les contradictions soulevées par son témoignage.
+[7] M. Wright a été appelé à témoigner par le requérant. Il est comptable agréé et il compte une trentaine d’années d’expérience. Même s’il ne connaissait le requérant que de vue, M. Wright avait accepté, pour rendre service à un autre de ses clients, d’écrire à Revenu Canada pour le compte du requérant. La lettre[3] est datée du 16 avril 1996 et est ainsi rédigée :
+[TRADUCTION]
+TIMOTHY WRIGHT
+Comptable agréé
+Le 16 avril 1996
+Revenu Canada
+Hamilton (Ontario)
+OBJET : Herman Gebele
+Madame, Monsieur,
+Helga m’a fourni le consentement ci‑joint de même que les renseignements suivants.
+Revenu de placement gagné 1989/90/91/92/93
+24 000 $ Intérêts hypothécaires
+T4 modifié pour 1993, devrait être 11 575, AC 347,26, impôt déduit 2 232,95, Gains ass. d’AC 11 575.
+Veuillez envoyer les doubles des déclarations de revenus pour 1990 et 1994 qui sont mentionnées dans la lettre de Sudbury datée du 21 mars 1996.
+Prière de m’informer de toute demande de renseignements en suspens et d’envoyer, à l’avenir, tout le courrier à l’adresse suivante :
+Herman Gebele
+C.P. 81027
+Ancaster, L9G 4X1
+Veuillez agréer, Madame, Monsieur, mes salutations distinguées.
+Timothy Wright
+Comptable agréé
+[8] Il a joint à la lettre le formulaire T1013 signé, mais il ne se souvenait pas dans quelles circonstances il l’avait obtenu. Cependant, comme il n’avait jamais rencontré le requérant, il a supposé qu’elle lui avait été remise par Helga. Peu de temps après l’envoi de cette lettre, des fonctionnaires de l’ADRC ont demandé à M. Wright de les rencontrer. Il a conservé un [TRADUCTION] « vif » souvenir de cette rencontre du 16 mai 1996, parce que c’est à cette occasion qu’il a appris que [TRADUCTION] « son client » devait quelque deux millions de dollars en impôt. Cette nouvelle l’a sidéré[4], mais il a persévéré. À la fin de la rencontre, M. McFarlane et son collègue[5] lui ont remis les avis pour lesquels il a signé un accusé de réception du ministère intitulé [TRADUCTION] « Accusé de réception pour des livres, des dossiers et des documents empruntés »[6]. M. Wright ne se rappelait plus ce qu’il a fait des avis, mais il a par la suite rencontré l’avocat du requérant pour rendre compte de sa réunion avec les fonctionnaires. Il n’a reçu aucune autre instruction et, en contrepartie de ses services, des réparations ont été effectuées sur son automobile. Dans son témoignage, il a affirmé qu’il estime maintenant avoir été exploité par les fonctionnaires, parce qu’il ne s’était pas rendu compte, à l’époque, des conséquences que ses actes pouvaient avoir pour le requérant. Il a toutefois reconnu que, dans les circonstances, il n’a donné aux fonctionnaires de Revenu Canada aucune raison de douter du fait que le formulaire T1013 visait à informer Revenu Canada qu’il agissait en qualité de représentant désigné du requérant.
+[9] L’intimée a appelé M. McFarlane, chef d’équipe du services des enquêtes de l’ARC, à témoigner. Bien que ses principales activités concernaient les questions de fraude fiscale, il accompagnait M. Crawford à la rencontre du 16 mai 1996 tenue avec M. Wright. Il a expliqué que le ministère savait que le requérant avait quitté le pays et qu’il n’avait aucune adresse connue autre que celle de son ancienne résidence située au 37, Concerto Court. Ils savaient aussi que son ancienne épouse continuait de résider à cet endroit et qu’aucun document au dossier n’autorisait cette dernière à agir pour le compte du requérant. Comme ils redoutaient de contrevenir aux dispositions de la Loi en matière de confidentialité[7], ils ont décidé de ne pas envoyer les avis à cette adresse. Aucune mesure n’a donc été prise jusqu’à ce qu’ils reçoivent la lettre et le formulaire T1013 signé par le requérant que M. Wright, de son propre chef, a envoyés. Ils ont immédiatement organisé une rencontre avec M. Wright. Convaincus que la signature sur le formulaire T1013 était celle du requérant et croyant que M. Wright agissait comme son représentant dûment autorisé, ils lui ont remis les avis le 16 mai 1996.
+Analyse
+[10] Le requérant a fait valoir que le ministre, par ses actes, ne s’était pas acquitté des obligations que lui imposait le paragraphe 152(2) de la Loi. Cependant, à la lumière de la preuve présentée, je suis convaincue que le ministre s’est acquitté de sa charge de présenter[8] une preuve selon laquelle un avis de cotisation avait été « envoyé » au sens de la Loi. Il appartient au contribuable de tenir le ministre au courant de son adresse postale[9]. Même si on peut comprendre que le requérant s’inquiétait de son état de santé au moment de quitter le Canada, ni ses inquiétudes ni son emprisonnement subséquent ne l’ont soustrait à son obligation de fournir au ministère des renseignements à jour permettant de le joindre.
+[11] À l’inverse, rien dans la Loi n’oblige le ministre à vérifier l’exactitude de l’adresse postale fournie par le contribuable ou à chercher ce dernier à un quelconque autre endroit. En l’espèce, comme le requérant a omis de mettre à jour les renseignements fournis dans sa dernière déclaration, le ministre aurait bien pu s’acquitter de ses obligations prévues par la loi en postant tout simplement les avis à la dernière adresse déclarée du requérant, à savoir le 37, Concerto Court. Toutefois, comme il savait que le requérant avait déménagé et que son ancienne épouse (soit une personne non autorisée) continuait de vivre à cet endroit, le ministre, par mesure de précaution supplémentaire, a décidé de ne pas envoyer les avis à cette adresse. Ce n’est qu’après avoir reçu la lettre de M. Wright accompagnée du formulaire T1013, et après s’être assurés que la signature apposée sur ce document était bien celle du requérant, que les fonctionnaires ont agi : ils ont remis les avis à M. Wright, parce qu’ils avaient de bonnes raisons de croire qu’il avait été désigné par le requérant pour recevoir ces avis en son nom. Outre qu’il a de son propre chef communiqué avec Revenu Canada et fourni aux fonctionnaires les documents nécessaires, M. Wright a volontairement signé un accusé de réception du ministère relativement aux avis et il a emportés ceux‑ci avec lui.
+[12] Compte tenu de la situation, il est difficile d’imaginer à quoi d’autre on aurait pu raisonnablement s’attendre de la part du ministre, en particulier si on considère que le requérant a complètement omis de remplir ses propres obligations. Je suis convaincue que les avis ont été envoyés et que le délai de prescription applicable à la production d’un avis d’opposition a commencé à courir le 16 mai 1996, lorsque les avis ont été remis à M. Wright. Par conséquent, le délai pour présenter au ministre une demande de prorogation du délai dans lequel un avis d’opposition doit être produit a expiré le 14 août 1997. Conformément à l’alinéa 166.2(5)a) de la Loi, la Cour n’a donc pas compétence pour faire droit à la demande du requérant. La demande est rejetée, avec dépens en faveur de l’intimée. À la lumière de la présente décision, il n’est pas nécessaire pour la Cour d’examiner les motifs subsidiaires invoqués par le requérant à l’appui d’une mesure de redressement.
+Signé à Ottawa, Canada, ce 9e jour de décembre 2005.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 25e jour de septembre 2006.
+Christian Laroche, LL.B.
+RÉFÉRENCE : 2005CCI788
+NO DU DOSSIER DE LA COUR : 2004‑3293(IT)APP
+INTITULÉ DE LA CAUSE : Herman Gebele c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : St. Catharines (Ontario)
+DATE DE L’AUDIENCE : Le 4 novembre 2005
+MOTIFS DU JUGEMENT PAR : L’honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 9 décembre 2005
+COMPARUTIONS :
+Avocat du requérant :
+Me George Gligoric
+Avocate de l’intimée :
+Me Kandia Aird
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour le requérant :
+Nom : Me George Gligoric
+Cabinet : 1658, rue King Est
+Hamilton (Ontario)
+Pour l’intimée : Me John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Le ministre du Revenu national a établi de nouvelles cotisations à l’égard du requérant pour ses années d’imposition 1988, 1989, 1991 et 1994 par des avis de nouvelle cotisation datés du 19 mars 1996 et il a établi une nouvelle cotisation à son égard pour son année d’imposition 1992 par un avis de nouvelle cotisation daté du 15 mai 1996. Enfin, le ministre a imposé le requérant pour ses années d’imposition 1990 et 1994 par des avis de cotisation datés du 28 mars 1996.
+[2] Pièce R-1.
+[3] Pièce R-1.
+[4] C’est ainsi que M. McFarlane a qualifié la réaction de M. Wright.
+[5] M. Crawford a pris sa retraite peu de temps avant l’audition de la présente affaire et n’était donc pas présent pour rendre témoignage.
+[6] Pièce R-1.
+[7] Article 241.
+[8] Aztec Industries Inc. v. The Queen (1995), 95 DTC 5235 (C.A.F.); Nasha Properties Ltd. v. Her Majesty the Queen, 98 DTC 1493.
+[9] Denelzen c. Canada, [1998] A.C.F. no 1450 (C.A.F.).

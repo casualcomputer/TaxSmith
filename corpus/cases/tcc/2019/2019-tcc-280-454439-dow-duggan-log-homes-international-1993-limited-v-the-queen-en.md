@@ -1,0 +1,317 @@
+---
+title: "Dow & Duggan Log Homes International (1993) Limited v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/454439/index.do"
+last_modified: "2019-12-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 TCC 280"
+citation2: ""
+neutral_citation: "2019 TCC 280"
+decision_date: "2019-12-12"
+language: "en"
+item_id: "454439"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4292
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:57:28.051000+00:00"
+cases_cited_count: 10
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5c587adeae4aa375264e0f93b76ff8325adce646427a8db4eb3d7c4a93636430"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Dow & Duggan Log Homes International (1993) Limited v. The Queen
+
+- Citation: 2019 TCC 280
+- Decision date: 2019-12-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4292, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Dow & Duggan Log Homes International (1993) Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-12-12
+Neutral citation
+2019 TCC 280
+File numbers
+2017-2928(GST)G
+Judges and Taxing Officers
+Susan Wong
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2017-2928(GST)G
+BETWEEN:
+DOW & DUGGAN LOG HOMES INTERNATIONAL (1993) LIMITED,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 28, 29, and 30, 2019, at Halifax, Nova Scotia
+Before: The Honourable Justice Susan Wong
+Appearances:
+Counsel for the Appellant:
+M. Gerard Tompkins, Q.C.
+Counsel for the Respondent:
+Rhoda Lemphers
+JUDGMENT
+The appeal, made under the Excise Tax Act, from the Notice of Assessment dated September 26, 2014 for the period from May 1, 2011 to December 31, 2013 is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the following basis:
+1. with respect to uncollected HST on sales:
+a) the July 31, 2012 sale in the amount of $64,309.89 is a zero-rated supply;
+b) the June 13, 2011 sale in the amount of $158,372.00 is a zero-rated supply;
+2. with respect to HST on taxable vehicle benefits, HST is reduced by $351.49 for 2011, 2012, and 2013, resulting in a total reduction of $1,054.47;
+3. the section 285 penalty of $50,814.85 with respect to uncollected HST, is deleted; and
+4. the Minister’s assessment is upheld in all other respects.
+Signed at Ottawa, Canada, this 12th day of December 2019.
+“Susan Wong”
+Wong J.
+Citation: 2019 TCC 280
+Date: 20191212
+Docket: 2017-2928(GST)G
+BETWEEN:
+DOW & DUGGAN LOG HOMES INTERNATIONAL (1993) LIMITED,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Wong J.
+Introduction
+[1] The Appellant Dow & Duggan Log Homes International (1993) Limited appeals the Minister of National Revenue’s September 26, 2014 assessment under Part IX of the Excise Tax Act with respect to the period from May 1, 2011 to December 31, 2013 (the “Period”).
+Issues
+[2] Based on the notice of assessment, notice of confirmation, and the pleadings, I would summarize the issues as follows:
+a) under-remitted HST of $13,210.37;
+b) uncollected HST of $202,684.94;
+c) disallowed input tax credits of $8,280.03;
+d) HST of $7,829.58 on taxable vehicle benefits; and
+e) section 285 (gross negligence) penalties on items (b) and (d) of this list.
+[3] At the commencement of the hearing, counsel for the Appellant advised that items (a) and (c) were no longer in dispute.
+[4] At the close of evidence, counsel for the Respondent advised that the Respondent was prepared to concede the following amounts:
+with respect to item (b), the amount of $8,388.25 which pertained to a July 31, 2012 sale totalling $64,309.89 (including HST); and
+with respect to item (e), the entire penalty of $50,814.85 pertaining to item (b).
+[5] Therefore, the outstanding issues distill down to the following:
+uncollected HST of $202,684.94, less the Respondent’s concession of $8,388.25;
+HST of $7,829.58 on taxable vehicle benefits; and
+section 285 (gross negligence) penalties in the amount of $1,957.15 on the taxable vehicle benefits.
+A. Uncollected HST on sales
+[6] There are 22 amounts against which the Minister has assessed HST and they are listed in Schedule B of the Reply to the Notice of Appeal. This schedule was entered into evidence [Exhibit R-2], with the 22 line items numbered. The schedule shows that the sources for the line items include invoices, sales receipts, general journal entries, and cheques.
+[7] As stated under the heading “Issues” in these Reasons, the amount of $8,388.25 [line 14 of Exhibit R-2] was conceded by the Respondent at the close of evidence.
+[8] The Appellant takes the position that the amounts taxed in Exhibit R-2 are either exports (and therefore zero-rated), deposits on sales (and therefore HST would be collected on the eventual sale), work-in-progress (the pre‑processing of wood for future sales so no HST would be collected because there was no sale), or tax-exempt under section 87 of the Indian Act.
+Factual background – Zero-rated supplies
+[9] The Appellant is a Nova Scotia corporation in the business of manufacturing and selling prefabricated log homes.
+[10] The Appellant is owned and operated by two business partners, Stephen Dow and Michael Duggan.
+[11] Messrs. Dow and Duggan started their business from scratch in the early 1980s as Dow & Duggan Log Homes International Limited, with the current version commencing operation in 1993.
+[12] Mr. Duggan focused on the manufacturing and production side of the operation, while Mr. Dow was responsible for finding prospective clientele for the Appellant.
+[13] Mr. Duggan testified that for the last ten years, about half of the Appellant’s sales were exports and that its export component was cyclical because of the economy. He stated that as an example, the Appellant recently sold log homes to Denmark and Germany so the export side of its business was beginning to trend upward again.
+[14] Mr. Dow stated that he was responsible for securing business for the Appellant both domestically and internationally. He testified that the Appellant had to develop a product that could compete with German and Swedish manufacturers and comply with European environmental and energy consumption requirements.
+[15] He stated that the Appellant also had to be able to load and ship its products satisfactorily. He testified that the Appellant used an international freight forwarding company called Alliance World Transport. He stated that the Appellant had shipped three or four thousand log homes over the years and that Alliance was involved in many of the shipments.
+[16] Mr. Duggan testified that during the Period, the Appellant relied on an in‑house bookkeeper who had worked with them for 26 years. Mr. Dow testified that this bookkeeper collected the Appellant’s mail, prepared invoices, and did payroll, among other things. Mr. Duggan stated that he and Mr. Dow worked long days and that they put a great deal of trust in this individual. Mr. Duggan also testified that they later discovered that the bookkeeper had ultimately stolen at least $250,000 from the Appellant by manipulating its records and using its credit card, among other things.
+[17] Mr. Dow testified that the Appellant learned of the ongoing theft when its bank contacted them about some suspicious transactions. He stated that they reported the theft to the RCMP, who told them that an investigation would take a long time and that copies of the Appellant’s records would be needed. He testified that the Appellant could still pursue an RCMP investigation and in the meantime, they decided not to sue the bookkeeper because all of the bookkeeper’s assets were in his wife’s name.
+[18] Hayley Warner is a co-owner and the general manager of Alliance World Transport (“Alliance”). She stated that she had been in the international freight-forwarding business for 25 years and had worked with the Appellant for a number of years. She testified that Alliance ships two to three thousand containers per year and that Nova Scotia is one of their lesser markets. She stated that she could not estimate how many transactions Alliance had with the Appellant during the Period but she could say that the Appellant did the bulk of its business from 2011 to 2013.
+[19] Ms. Warner was shown copies of six completed CAED (Canadian Automated Export Declaration) forms [Exhibits A-8 to A-13]. She stated that every exporter is required to declare to Canada Border Services Agency and Statistics Canada what they are exporting. She confirmed her licence number on the declarations and stated that Alliance would also receive an authorization number for every export.
+[20] Ms. Warner testified that it was up to the exporter to determine the terms for their particular sale of goods so Alliance would not necessarily be involved when ownership of the shipment transferred. She stated that transfer of ownership occurs when the bill of lading is transferred; however, transfer of the bill of lading did not mean that payment had been received by the seller. She emphasized that even when Alliance was involved in the transfer of ownership, it was not involved in the sale.
+[21] With respect to the six CAED declaration forms, she testified in cross-examination that the declaration system is automated and that these forms would have been electronically transferred from Alliance to CBSA. She stated that declaration forms were no longer stamped by CBSA as a result. She also testified that she reprinted these particular forms from Alliance’s records at the Appellant’s request two to three weeks before this hearing.
+[22] With respect to the six CAED declaration forms, Ms. Warner described them as examples of common transactions for the Appellant. She also stated that she recognized one of the consignees, Quarry Walk Park Limited, to be a repeat customer of the Appellant’s [Exhibit A-13].
+Legislative framework – Zero-rated supplies
+[23] Schedule VI of the Excise Tax Act deals with zero-rated supplies, i.e. taxable supplies which are taxed at a rate of zero percent.
+[24] Specifically, Part V of Schedule VI deals with exports and the relevant provisions are sections 1 and 12.
+[25] Section 1 of Schedule VI, Part V addresses situations in which a supply is made to a recipient who in turn immediately exports the goods. There were no intermediary recipients in the present case so only section 12 applies.
+[26] Section 12 states that:
+12. [Goods for delivery outside Canada] –A supply of tangible personal property (other than a continuous transmission commodity that is being transported by means of a wire, pipeline or other conduit) if the supplier
+(a) ships the property to a destination outside Canada that is specified in the contract for carriage of the property;
+(b) transfers possession of the property to a common carrier or consignee that has been retained, to ship the property to a destination outside Canada, by
+(i) the supplier on behalf of the recipient, or
+(ii) the recipient’s employer; or
+(c) sends the property by mail or courier to an address outside Canada.
+[27] A supply which meets one or more of the conditions set out in section 12 will be subject to tax at a rate of zero percent.
+[28] Subsection 1(e) of Schedule VI, Part V contains the following evidentiary requirement:
+1. [Goods purchased for immediate export] – A supply of tangible personal property (other than an excisable good) made by a person to a recipient (other than a consumer) who intends to export the property where
+...
+(e) the person maintains evidence satisfactory to the Minister of the exportation of the property by the recipient.
+[29] Paragraph 16 and the Appendix of the Minister’s GST/HST Memorandum 4.5.2 say that for the purposes of complying with subsection 1(e) of Schedule VI, Part V, satisfactory evidence may include the following documents:
+- sales invoice or purchase contract that identifies the property and the recipient, matched with the respective shipping or delivery instructions on the purchase order;
+- transportation document that describes the delivery service, such as a bill of lading issued by or on behalf of a carrier, which is evidence of a contract of carriage as well as proof of delivery of the property on board a vessel;
+- customs brokers’ or freight forwarders’ invoice that relates to the exported property;
+- import documentation required by the country to which the property is exported;
+- in the case of motor vehicles, boats, ships, and aircraft, registration from the foreign regulatory authority where the property has been licensed; or
+- any other evidence (that is not generated internally by the recipient) satisfactory to the CRA that the property has been exported.
+[30] Section 12 is silent with respect to an evidentiary threshold, although the Minister adopts and applies the same threshold to both sections [per paragraph 21 of GST/HST memorandum 4.5.2].
+Analysis – Zero-rated supplies
+[31] This Court has previously held that the evidentiary threshold in section 1 of Schedule VI, Part V means: (1) that the Minister has the discretion to set the standard as to what evidence will satisfy her for the purposes of zero-rating under that section; and (2) this Court should not intervene unless the Minister commits a reviewable error in exercising her discretion: see Nwaukoni v. The Queen, 2018 TCC 252 at paragraph 15; Style Auto G.J. v. The Queen, 2007 TCC 597, [2007] TCJ No. 491 at paragraph 11; and Uranus Auto Sales Inc. v. The Queen, [2002] GSTC 39 at paragraph 13.
+[32] However, it is section 12 of Schedule VI, Part V which applies to the present case because there were no intermediary recipients of the Appellant’s shipments.
+[33] The Respondent submits that the evidentiary standard from section 1 should apply to section 12, i.e. that the Minister has the discretion to determine what will constitute satisfactory evidence and that this Court should not intervene unless she commits a reviewable error in exercising that discretion.
+[34] The Respondent also submits that with respect to section 12, the list of what constitutes satisfactory evidence is the same as for section 1.
+[35] In Canada Trustco Mortgage Co v. Canada, 2005 SCC 54, 2005 DTC 5523 at paragraph 11, the Supreme Court said the following with respect to Canadian tax legislation:
+Where Parliament has specified precisely what conditions must be satisfied to achieve a particular result, it is reasonable to assume that Parliament intended that taxpayers would rely on such provisions to achieve the result they prescribe.
+[36] In A.Y.S.A. Amateur Youth Soccer Association v. Canada, 2007 SCC 42, [2007] 3 SCR 217 at paragraph 16, the Supreme Court also said the following with respect to taxation statutes:
+It is well known that the modern approach to interpretation applies to taxation statutes no less than it does to other statutes, that is, “the words of an Act are to be read in their entire context and in their grammatical and ordinary sense harmoniously with the scheme of the Act, the object of the Act, and the intention of Parliament” (Placer Dome Canada Ltd. v. Ontario (Minister of Finance), [2006] 1 S.C.R. 715, 2006 SCC 20 (CanLII), at para. 21; E.A. Driedger, Construction of Statutes (2nd ed. 1983), at p. 87). However, because of the degree of precision and detailed characteristics of many tax provisions, an emphasis has often been placed on textual interpretation where taxation statutes are concerned: Canada Trustco Mortgage Co. v. Canada, [2005] 2 S.C.R. 601, 2005 SCC 54 (CanLII), at para. 11; Placer Dome, at para. 23. As McLachlin J. (as she then was) stated for the Court in Shell Canada Ltd. v. Canada, 1999 CanLII 647 (SCC), [1999] 3 S.C.R. 622, at para. 43:
+The [ITA] is a complex statute through which Parliament seeks to balance a myriad of principles. This Court has consistently held that courts must therefore be cautious before finding within the clear provisions of the Act an unexpressed legislative intention: Canderel Ltd. v. Canada, 1998 CanLII 846 (SCC), [1998] 1 S.C.R. 147, at para. 41, per Iacobucci J.; Royal Bank of Canada v. Sparrow Electric Corp., 1997 CanLII 377 (SCC), [1997] 1 S.C.R. 411, at para. 112, per Iacobucci J.; Antosko, supra, at p. 328, per Iacobucci J. Finding unexpressed legislative intentions under the guise of purposive interpretation runs the risk of upsetting the balance Parliament has attempted to strike in the Act.
+[37] I cannot agree with the Respondent that where one provision is silent as to an evidentiary threshold, it is appropriate or correct to take a threshold from another provision and apply it to the silent provision with the same force of law. To do so runs contrary to the principles of statutory interpretation established by the Supreme Court of Canada when dealing with taxation statutes.
+[38] Section 1 of Schedule VI, Part V deals with exports involving intermediary recipients and contains an evidentiary threshold equivalent to Ministerial discretion. Section 12 of Schedule VI, Part V deals with direct exports and lacks any reference to an evidentiary threshold. A consistent statutory interpretation of these two provisions found in the same Schedule and Part of the Act is that Parliament intended only for section 1 to have a discretionary evidentiary threshold.
+[39] I am of the view that when dealing with section 12, it is logical and reasonable to refer to the Minister’s list of satisfactory evidence for qualifying under section 1, as a guideline for section 12. However, there is nothing in the Act to support the interpretation that the Minister has discretionary authority to decide what constitutes adequate proof for the purposes of section 12 such that this Court should not intervene unless she commits a reviewable error.
+[40] I found Mr. Dow, Mr. Duggan, and Ms. Warner to be credible witnesses.
+[41] However, it is difficult to ignore the lack of documentary evidence where the statutory provisions in question rely heavily on documentation. For example, the transaction at line 5 of Exhibit R-2 is supported by an unsigned sales receipt to a U.K. purchaser for $61,730.50 and a signed purchase order; there are no documents relating to delivery.
+[42] Subsection 286(1) of the Act requires every person who carries on a business or is engaged in a commercial activity to keep adequate books and records such that the Minister can determine any amounts owed by or owing to the person. Subsection 286(3) requires that these records be retained for six years after the end of the year to which they relate. Subsection 286(4) states that where a matter is under objection or appeal, the person is required to retain their records until their matter is finally disposed of.
+[43] The audit was completed in September 2014, based on the audit report [Exhibit R-1, Tab 58] and the notice of reassessment [Exhibit R-1, Tab 59]. I believe that the actions of the Appellant’s bookkeeper likely contributed to the lack of complete records. However, I also believe that the principals of the Appellant relied heavily on their everyday knowledge and recollection to conduct business such that a thorough re-creation of their records would probably have been incomplete in any event.
+[44] The oral testimony of Messrs. Dow and Duggan lacked sufficient precision and detail for me to be able to clearly distinguish one transaction from another or to follow a particular transaction from beginning to end. The lack of precision and detail in their testimony was compounded by the fact that the CRA auditor who performed this audit did not testify.
+[45] With respect to the amount of $158,372.00 [Exhibit R-2, line 1], I see the following references in the evidence:
+a) a June 13, 2011 invoice issued to a purchaser in England and showing the recipient to be an individual named John Harris in Bristol [Exhibit R-1, Tab 2];
+b) an April 2, 2011 purchase order signed by Messrs. Dow and Harris. This document identifies Mr. Harris as the signatory for Canadian Log Homes U.K. Ltd., indicates that the purchase is for a complex called Quarry Walk, and estimates that the shipment will require two 40-foot high cube containers [Exhibit R-1, Tab 2];
+c) an email thread with the date range February 28 to March 16, 2012, between Ms. Warner, Mr. Harris, a freight forwarder in Liverpool, and the managing director of Quarry Walk Park Ltd., in which they discuss the logistics of shipping two containers and confirm that the importer will be Quarry Walk Park Ltd. [Exhibit R-1, Tab 61];
+d) a copy of a bill of lading date-stamped March 12, 2012 which identifies the Appellant as the exporter, Quarry Walk Park Ltd. and John Harris together as the consignee, and Alliance as the freight forwarder. The bill of lading indicates that two 40-foot containers were declared [Exhibit R-1, Tab 61];
+e) auditor’s working papers which refer to this transaction as exempt from tax [Exhibit R-1, Tabs 26 and 27];
+f) auditor’s working paper which refers to this transaction as a zero-rated supply [Exhibit R-1, Tab 28];
+g) auditor’s working paper which refers to this transaction as “Verified England[sp] TE”, which I presume means “tax exempt” [Exhibit R-1, Tab 29];
+h) the audit report which says that “[t]he GST/HST tax liabilities have been verified based on place of supply” and “[z]ero rated supplies have been denied for incomplete documentation[sp]” [Exhibit R-1, Tab 58, page F3]; and
+i) the audit report which lists this transaction as one for which an adjustment was made on the basis that the Appellant did not collect and remit HST in the amount of $20,657 [Exhibit R-1, Tab 58, page F6].
+[46] Based on the above evidence, I find on a balance of probabilities that this transaction in the amount of $158,372 was a zero-rated supply of tangible personal property pursuant to subparagraph 12(b)(i) of Schedule VI, Part V, i.e. the Appellant transferred possession of the property to a common carrier or consignee that was retained by the Appellant on behalf of the recipient, to ship the property to a destination outside Canada.
+[47] There was insufficient evidence available for me to adequately trace any of the remaining transactions and conclude that they were zero-rated.
+Factual background – Exemption under section 87 of the Indian Act
+[48] The Appellant sold a log home to an individual named Charles Phillips for $43,500 [Exhibit R-2, Line 2].
+[49] A copy of a September 26, 2011 sales receipt shows that a $10,000 deposit was paid by Mr. Phillips [Exhibit R-1, Tab 10] and a copy of an unsigned April 6, 2013 purchase agreement shows the following:
+a) a purchase price of $43,500;
+b) no tax was charged because Mr. Phillips was a member of a registered First Nation;
+c) Mr. Phillips’ address in Lower Sackville, Nova Scotia; and
+d) a delivery location on Lakeshore Drive in New Russell, Nova Scotia.
+[Exhibit R-1, Tab 10].
+[50] Mr. Dow testified that when he met with Mr. Phillips and his wife, they did not know how to get a proper truck for loading and transporting their purchase. Mr. Dow stated that as a result, the Appellant arranged for the truck on Mr. Phillips’ behalf and had their purchase delivered to the reserve.
+[51] Mr. Phillips did not testify but did sign a handwritten statement (the date is unclear) in which he said that the log home was delivered to him on the reserve at a gas station on Caldwell Road in Dartmouth. A copy of his Certificate of Indian Status was attached to the handwritten statement showing that he is a member of the Millbrook First Nation [Exhibit R-1, Tab 10].
+Legislative framework – Exemption under section 87 of the Indian Act
+[52] Section 87 of the Indian Act says that:
+87. (1) Notwithstanding any other Act of Parliament or any Act of the legislature of a province, but subject to section 83 and section 5 of the First Nations Fiscal Management Act, the following property is exempt from taxation:
+(a) the interest of an Indian or a band in reserve lands or surrendered lands; and
+(b) the personal property of an Indian or a band situated on a reserve.
+[53] Section 83 of the Indian Act deals with money by-laws made by the council of a band while section 5 of the First Nations Fiscal Management Act deals with local revenue laws made by the council of a First Nation, so neither are relevant to this appeal.
+Analysis – Exemption under section 87 of the Indian Act
+[54] A review of the relevant case law shows that the section 87 tax exemption will apply if the personal property is acquired on a reserve: see Union of New Brunswick Indians v. New Brunswick (Minister of Finance), 1998 CanLII 783 (SCC) at paragraphs 35 and 43; Kelly v. Canada, 2013 FCA 171, [2013] 5 CTC 194 at paragraph 52; Ozawagosh v. The Queen, 2013 TCC 311 at paragraph 43.
+[55] The case law is conflicted as to whether the same exemption applies to goods purchased off-reserve and then delivered to a reserve: see 893134 Ontario Inc. (Mega Distributors) v. The Queen, 2010 TCC 357; 9000-6560 Québec Inc. v. The Queen, 2001 CarswellNat 298 at paragraph 66.
+[56] Based on the available evidence, I believe that Mr. Phillips’ log home was probably not delivered to a location on a reserve.
+[57] The Appellant led no evidence with respect to the two addresses in Lower Sackville and New Russell on the purchase agreement [Exhibit R-1, Tab 10], or the Dartmouth address in Mr. Phillips’ handwritten statement [Exhibit R-1, Tab 10]. The Appellant also did not call Mr. Phillips to testify about the transaction. Both factors lead me to draw an adverse inference that Mr. Phillips’ testimony would not have supported the Appellant’s assertion that the log home was delivered to Mr. Phillips on a reserve.
+[58] Therefore, I am unable to find that this transaction was exempt pursuant to section 87 of the Indian Act.
+Factual background – Deposits and work-in-progress
+[59] With respect to work-in-progress, Mr. Duggan testified that for the purposes of the Appellant’s lines of credit, it was more favourable to have work-in-progress than inventory.
+[60] He stated that the Appellant uses a particular type of pine wood produced by only one lumber mill. He testified that the wood is sorted and put into a drying kiln, after which it is removed and processed further. He stated that the wood is then put through a planing process to resize it, after which it is pressed and laminated. He explained that the Appellant referred to this pre-processed wood as work-in-progress and it was the equivalent of creating stock in advance of a future log home sale rather than a sale at that point in time.
+[61] With respect to deposits on sales, Mr. Duggan testified that the Appellant would ordinarily accept a customer’s deposit without HST and upon completion of the sale, would then collect the total tax owing. He stated that the Appellant would return the deposit if the customer subsequently cancelled their plans. He also stated that when a customer decided to postpone their plans, the Appellant would ordinarily hold the deposit in order to reserve the agreed price.
+[62] Mr. Duggan stated that for example, in 2012, the Appellant accepted an $80,000 deposit from an Austrian customer named Enrico Erk. Mr. Duggan testified that Mr. Erk was injured later that year. An email thread between Mr. Erk and the Appellant from October 2012 shows that Mr. Erk asked that his deposit be returned [Exhibit R-1, Tab 11]. Mr. Duggan stated that the deposit was returned to Mr. Erk in the form of partial payments.
+Legislative framework – Deposits and work-in-progress
+[63] With respect to deposits, the relevant provisions are subsections 152(1), 168(1), 168(2), and 168(9), which read as follows:
+152. (1) When consideration due – For the purposes of this Part, the consideration, or a part thereof, for a taxable supply, shall be deemed to become due on the earliest of
+(a) the earlier of the day the supplier first issues an invoice in respect of the supply for that consideration or part and the date of that invoice,
+(b) the day the supplier would have, but for an undue delay, issued an invoice in respect of the supply for that consideration or part, and
+(c) the day the recipient is required to pay that consideration or part to the supplier pursuant to an agreement in writing.
+168. (1) General rule – Tax under this Division in respect of a taxable supply is payable by the recipient on the earlier of the day the consideration for the supply is paid and the day the consideration for the supply becomes due
+(2) Partial consideration – Notwithstanding subsection (1), where consideration for a taxable supply is paid or becomes due on more than one day,
+(a) tax under this Division in respect of the supply is payable on each day that is the earlier of the day a part of the consideration is paid and the day that part becomes due; and
+(b) the tax that is payable on each such day shall be calculated on the value of the part of the consideration that is paid or becomes due, as the case may be, on that day.
+(9) Deposits – For the purposes of this section, a deposit (other than a deposit in respect of a covering or container in respect of which section 137 applies), whether refundable or not, given in respect of a supply shall not be considered as consideration paid for the supply unless and until the supplier applies the deposit as consideration for the supply.
+[64] In other words, as stated by this Court in Tendances et Concepts Inc. v. The Queen, 2011 TCC 141 at paragraph 18:
+[18] Subsection 168(9) of the Act specifies that a deposit, whether refundable or not, given in respect of a supply shall not be considered as consideration paid for the supply unless and until the supplier applies the deposit as consideration for the supply. That time cannot extend beyond the day on which the supplier applies a deposit as partial consideration. If a deposit is applied as consideration, a deposit can no longer be such because as of that moment it becomes a down payment and subsection 168(2) of the Act then applies.
+Analysis – Deposits and work-in-progress
+[65] The Appellant says that the amounts at lines 18 and 22 of Exhibit R-2, as well as amounts within the global amounts at lines 8 and 19 of that exhibit, were either deposits on sales or work-in-progress and therefore, not subject to HST.
+[66] However, a reconciliation of customer deposits for the period from May 1, 2012 to April 30, 2013 shows some amounts recorded as deposits, others recorded as deposits on WIP (work-in-progress), and others recorded as deposits on WIP with a customer name attached [Exhibit R-1, Tab 7].
+[67] The question of when a deposit becomes consideration is based on timing. While there are no legislative provisions dealing specifically with work-in-progress, I believe that timing would logically play a role in whether work-in-progress is (or when it becomes) a taxable supply.
+[68] I refer to my comments at paragraphs 41 to 44 with respect to the obligation under section 286 to keep adequate books and records, and the present case.
+[69] The limited documentary evidence available makes it impossible for this Court to determine when a deposit was applied to a sale (thus becoming consideration) or when work-in-progress was used for a sale (thus becoming a supply). In addition, the fact that deposits appear to have been paid on work-in-progress conflicts with Mr. Duggan’s explanation that the Appellant’s work-in-progress was not associated with particular transactions.
+[70] With respect to line 18 of Exhibit R-2, the only documentary evidence available is a copy of a sales invoice dated April 30, 2013 issued to a purchaser in Newfoundland for $22,976.49 [Exhibit R-1, Tab 25]. The description of the sale reads “YE20, trf bal of credit to sales.” There is nothing on this document to suggest that it is a deposit and it appears to be a sale to a purchaser in Canada.
+[71] With respect to line 22 of Exhibit R-2, the only documentary evidence available is a copy of a sales receipt dated October 17, 2013 issued to Canadian Log Homes UK Ltd. for $26,775.00 [Exhibit R-1, Tab 39]. There is no description as to what this transaction was.
+[72] With respect to line 8 of Exhibit R-2, the only documentary evidence available was a copy of an email dated May 27, 2019 from Mr. Duggan to his counsel [Exhibit A-7]. In the email, Mr. Duggan breaks down the global amount of $403,798.43 into component transactions. However, there is no tracing of the transactions beyond his breakdown and this Court was not referred to any evidence in support of the component transactions listed in the email.
+[73] With respect to line 19 of Exhibit R-2, there was no documentary evidence available with respect to the global amount of $582,480.91 other than the email thread regarding Enrico Erk’s $80,000 deposit [Exhibit R-1, Tab 11]. The email thread is objective third-party evidence based on which I can accept that this amount was a deposit which did not become consideration. However, the auditor’s working paper shows that Mr. Erk’s deposit was already excluded from the Minister’s calculation of the global figure [Exhibit R-1, Tab 7].
+[74] Therefore, I am unable to find that any of these amounts were improperly assessed by the Minister.
+B. HST on taxable vehicle benefits
+Factual background
+[75] In November 2007, the Appellant purchased two 2008 Jeep Grand Cherokee vehicles for use by Messrs. Dow and Duggan.
+[76] According to the conditional sales contracts for each vehicle, the total purchase price of the vehicle driven by Mr. Dow was $64,579.78 while the total purchase price of the one driven by Mr. Duggan was $65,377.78 [Exhibit R-1, Tab 6]. The vehicles and their respective financing arrangements appear to be identical. The cost difference between the two vehicles appears to be due to a costlier service contract purchased for Mr. Duggan’s vehicle.
+[77] The auditor’s report and working papers show that HST was assessed on an operating expense benefit and standby charges with respect to each vehicle for 2011, 2012, and 2013 [Exhibit R-1, Tabs 52 and 58].
+[78] The auditor’s working papers state that no mileage logs were kept by the Appellant and that as a result, the auditor used a conservative estimate of 6,000 km of personal driving per year for each vehicle to calculate the amount of the operating expense benefits. The auditor’s working papers also show that with respect to the standby charges, the auditor used an estimate of 50 percent personal use per year [Exhibit R-1, Tab 52].
+[79] Mr. Duggan testified that it was important to have good vehicles when picking up potential customers from Denmark or Germany. He stated that they used the vehicles to drive potential customers around town to show them houses, as well as to ferry them to and from their hotels. He acknowledged in cross-examination that the vehicles were used for both business and personal trips.
+[80] No mileage logs were tendered into evidence.
+Legislative framework
+[81] Section 173(1) of the Act deals with taxable employee and shareholder benefits. It reads in part in follows:
+173. (1) Employee and shareholder benefits – Where a registrant makes a supply (other than an exempt or zero-rated supply) of property or a service to an individual or a person related to the individual and
+(a) an amount (in this section referred to as the “benefit amount”) in respect of the supply is required under paragraph 6(1)(a), (e), (k) or (l) or subsection 15(1) of the Income Tax Act to be included in computing the individual’s income for a taxation year of the individual, or
+…
+the following rules apply:
+…
+[82] The calculation provisions which then follow are somewhat lengthy. Distilled down, the provision says that a benefit which would either be included in employment income or taxed as a shareholder benefit under the Income Tax Act, is subject to HST. Paragraph 6(1)(k) deals with automobile operating expense benefits and paragraph 6(1)(l) deals with standby charges.
+[83] The HST on these benefits is deemed to have become collectible and collected by the registrant on the last day of the taxation year in which the benefit was supplied to the employee or shareholder: see subparagraph 173(1)(d)(vii).
+Analysis
+[84] I refer again to my comments at paragraphs 41 to 44 with respect to the obligation under section 286 to keep adequate books and records, and the present case.
+[85] In the absence of any documentary evidence, I cannot find the Minister’s methodology for calculating the amount of the benefits or the resulting HST to be incorrect or unreasonable.
+[86] However, when I review the actual calculation of the operating expense benefit with respect to Mr. Duggan’s vehicle, it appears that the auditor used 18,290 personal km per year in the calculation rather than the annual 6,000-km amount stated in the auditor’s notes to that working paper [Exhibit R-1, Tab 52].
+[87] If the auditor had used 6000 personal km per year (as was done with respect to Mr. Dow’s vehicle), then the operating expense benefit for Mr. Duggan would be $1,560.00 per year, i.e. the same as Mr. Dow’s annual benefit. Because the auditor used 18,290 personal km per year in the actual calculation, the amount of the operating expense benefit was $4,755.40 per year. As a result, the HST assessed on the operating expense benefit with respect to Mr. Duggan’s vehicle was $523.09 per year while HST on the same benefit with respect to Mr. Dow’s vehicle was $171.60 per year.
+[88] I believe this discrepancy to be a simple error. Therefore, the amount of the annual operating expense benefit with respect to Mr. Duggan’s vehicle should decrease to $1,560.00 and the resulting HST should be $171.60 per year. Both changes are consistent with the auditor’s stated methodology in the working paper referred to as Schedule 6 [Exhibit R-1, Tab 52]. By my calculations, the reduction in HST would be $351.49 for each of 2011, 2012, and 2013, resulting in a total reduction of $1,054.47.
+C. Section 285 penalties on taxable vehicle benefits
+Factual background
+[89] Catherine Hebert is a CRA auditor who testified on behalf of the Minister with respect to the section 285 penalties; however, she did not conduct the audit under appeal.
+[90] Ms. Hebert testified that prior to the audit under appeal, the Minister had conducted a previous audit of the Appellant. She stated that the previous audit resulted in vehicle benefits being identified, HST being assessed against those benefits, and penalties levied with respect to the omission.
+[91] Mr. Duggan testified that following the previous audit, he remembered instructing the Appellant’s in-house bookkeeper to maintain the necessary records and to report the vehicle benefit accordingly. He stated that he was surprised to see the vehicle benefit issue arise again. In cross-examination, he stated that he and Mr. Dow did not keep mileage logs because they did not realize it was necessary. He stated that they trusted their bookkeeper, who said that he had the matter in hand.
+Legislative framework
+[92] Section 285 of the Act says:
+285. [Gross negligence penalty for] False statements or omissions – Every person who knowingly, or under circumstances amounting to gross negligence, makes or participates in, assents to or acquiesces in the making of a false statement or omission in a return, application, form, certificate, statement, invoice or answer (each of which is in this section referred to as a “return”) made in respect of a reporting period or transaction is liable to a penalty…
+[93] The burden of proof to justify the assessment of this penalty is on the Minister: see subsection 285.1(16).
+Analysis
+[94] In Venne v. Her Majesty the Queen, [1984] C.T.C. 223 at paragraph 37, the Federal Court Trial Division stated that:
+“Gross negligence” must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+[95] In the present case, Messrs. Dow and Duggan appear to have placed all of their reliance on the Appellant’s in-house bookkeeper who appears to not have served the Appellant well. However, I do not find their reliance on the bookkeeper to wholly explain the omission. For example, I would expect Messrs. Dow and Duggan to understand that keeping logs of their vehicle usage would be important for the purpose of separating business versus personal use, regardless of whether they were expressly advised to do so or not.
+[96] In light of the additional fact that the same omission was made in a previous audit, which resulted in a penalty, I find that the Minister has met her burden of proof and specifically, that the conduct of the Appellant was tantamount to an indifference as to whether the law was complied with or not.
+Conclusion
+[97] The appeal is allowed without costs on the following basis:
+With respect to uncollected HST on sales:
+the July 31, 2012 sale in the amount of $64,309.89 is a zero-rated supply (as conceded by the Respondent);
+the June 13, 2011 sale in the amount of $158,372.00 is a zero-rated supply;
+With respect to HST on taxable vehicle benefits:
+3. HST on taxable vehicle benefits is reduced by $351.49 with respect to each of 2011, 2012, and 2013, for a total reduction of $1,054.47; and
+With respect to Section 285 penalties:
+4. the penalty of $50,814.85 with respect to uncollected HST, is deleted (as conceded by the Respondent).
+The Minister’s September 26, 2014 assessment is upheld in all other respects.
+Signed at Ottawa, Canada, this 12th day of December 2019.
+“Susan Wong”
+Wong J.
+CITATION:
+2019 TCC 280
+COURT FILE NO.:
+2017-2928(GST)G
+STYLE OF CAUSE:
+DOW & DUGGAN LOG HOMES INTERNATIONAL (1993) LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Halifax, Nova Scotia
+DATE OF HEARING:
+May 28, 29 and 30, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Susan Wong
+DATE OF JUDGMENT:
+December 12, 2019
+APPEARANCES:
+Counsel for the Appellant:
+M. Gerard Tompkins, Q.C.
+Counsel for the Respondent:
+Rhoda Lemphers
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+M. Gerard Tompkins, Q.C.
+Firm:
+Tompkins Law
+24-260 Brownlow Avenue
+Dartmouth, NS B3B 1V9
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

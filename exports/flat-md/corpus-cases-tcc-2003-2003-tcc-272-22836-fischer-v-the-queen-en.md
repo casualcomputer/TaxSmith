@@ -1,0 +1,159 @@
+---
+title: "Fischer v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/22836/index.do"
+last_modified: "2003-04-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 272"
+citation2: ""
+neutral_citation: "2003 TCC 272"
+decision_date: "2003-04-15"
+language: "en"
+item_id: "22836"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2342
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:16:23.572000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "df3c888fef49c77e7363e58a2400f882e313f4490e2eae0ac58bf34544c67789"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Fischer v. The Queen
+
+- Citation: 2003 TCC 272
+- Decision date: 2003-04-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2342, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Fischer v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-04-15
+Neutral citation
+2003 TCC 272
+File numbers
+2002-722(IT)I
+Judges and Taxing Officers
+Alban Garon
+Subjects
+Income Tax Act
+Decision Content
+Citation:2003TCC272
+Date:20030415
+Docket:2002-722(IT)I
+BETWEEN:
+WILLIAM J. FISCHER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+For the Appellant: The Appellant himself
+Counsel for the Respondent: Michael Van Dam
+____________________________________________________________________
+REASONS FOR JUDGMENT
+(delivered orally from the bench on
+October 23, 2002 in Winnipeg, Manitoba)
+GARON, C.J.T.C.C.
+[1] This is an appeal from a reassessment of the Minister of National Revenue for the 1999 taxation year.
+[2] By this reassessment the Minister of National Revenue added to the Appellant's employment income for the 1999 taxation year the amount of $1,000.00, which had been contributed, in the Minister's view, during the 1999 taxation year by the employer to an employees profit sharing plan on behalf of the Appellant.
+[3] The Appellant was the sole witness at the hearing of this appeal.
+[4] In reassessing the Appellant, the Minister of National Revenue made the assumptions of fact set out in paragraph 8 of the Reply to the Notice of Appeal, which reads as follows:
+(a) during the 1999 Taxation Year, the Appellant was employed with the Employer;
+(b) during the 1999 Taxation Year, the Employer contributed $250.00 to a deferred profit sharing plan (the "DPSP") on behalf of the Appellant;
+(c) during the 1999 Taxation Year, the Employer contributed $1,000.00 (the "Amount") to an employees profit sharing plan (hereinafter "EPSP") on behalf of the Appellant;
+(d) the amounts contributed to the DPSP and the EPSP were to be vested in the Appellant on July 15, 2001;
+(e) the amounts contributed to the DPSP and the EPSP were vested in the Appellant on June 18, 2001;
+(f) the Amount was allocated to the Appellant contingently or absolutely by the Trustee of the EPSP during the 1999 Taxation Year;
+(g) the Appellant is a beneficiary of the EPSP;
+(h) during the 1999 Taxation Year, the Appellant was in receipt of actual dividends of $31.10 through his EPSP;
+(i) the Appellant was in receipt of taxable benefits of $1,250.00 in the 1999 Taxation Year.
+[5] The Appellant admitted subparagraph (a) of paragraph 8 of the Reply to the Notice of Appeal. He denied subparagraphs (g) and (i) of the same paragraph 8 of the Reply to the Notice of Appeal. He also stated that he did not know whether the other subparagraphs of paragraph 8 of the Reply to the Notice of Appeal were correct or not.
+[6] The Appellant also indicated that the amount of $100.00 referred to in paragraph 2(b) of the Reply to the Notice of Appeal is wrong and that it should be $10,000.00. This was conceded by counsel for the Respondent at the hearing of this appeal.
+[7] The Appellant testified that in 1999 he was employed by a firm, Nesbitt Burns, as a stockbroker.
+[8] He claimed that he participated in an employees share ownership plan and not in an employees profit sharing plan. He contributed $2,500.00 in 1999 to an employees share ownership plan, which was administered by an outside firm. He stressed that in 1999 he received no shares and no monies from this plan.
+[9] Reference was made in the Appellant's testimony to his T4 slip for 1999, which was issued by his employer and received by the Appellant. An amount of $1,250.00 appears in Box 40 of the T4 slip, which is described on the back of the slip as referring to "Other taxable allowances and benefits". On the front of the T4 slip, the Appellant had written the following:
+I have removed the taxable benefits of $1,250 from my 1999 Gross Income, and substituted $250 because:
+a) I did not receive $1,250 although I did receive a $250 taxable benefit.
+b) The $1,250 taxable benefit will be paid to me in 4 years, after the fund is fully vested (and who knows where I will be in 4 years).
+c) At my age, I will probably be retired, so why should I pay taxable benefits on something I did not, and may not ever receive.
+Contact Nesbitt Burns, Toronto for further information.
+Thank you.
+[10] On Exhibits R-2 and R-3, both bearing the heading "Employee Share Ownership Plan" on page one and "Activity in Your Share Ownership Plan" on page two, it is shown that the employer contributed $1,000.00 to the employees profit sharing plan of which the Appellant was the beneficiary in 1999, and that all contributions to the plan were withdrawn in 2001, leaving a nil balance.
+Analysis
+[11] The main question in issue - the only one raised in the Notice of Appeal - is whether the amount of $1,000.00 contributed by the Appellant's employer on behalf of the Appellant during the 1999 taxation year to an employees profit sharing plan is to be included in the Appellant's income in the 1999 taxation year.
+[12] The Appellant contends that this amount of $1,000.00 should not have been included in his income for the 1999 taxation year as he did not receive the amount in question during that taxation year. Also this amount did not become vested in the Appellant until June 18, 2001.
+[13] The matter of the appropriate year in which an amount allocated to an employee who is a beneficiary under an employees profit sharing plan is governed by subsection 144(3) of the Income Tax Act.
+[14] Subsection 144(3) of the Income Tax Act reads as follows:
+There shall be included in computing the income for a taxation year of an employee who is a beneficiary under an employees profit sharing plan each amount that is allocated to the employee contingently or absolutely by the trustee under the plan at any time in the year otherwise than in respect of
+(a) a payment made by the employee to the trustee;
+(b) a capital gain made by the trust before 1972;
+(c) a capital gain of the trust for a taxation year ending after 1971;
+(d) a gain made by the trust after 1971 from the disposition of a capital property except to the extent that the gain is a capital gain described in paragraph (c); or
+(e) a dividend received by the trust from a taxable Canadian corporation.
+[15] The general rule referred to in this subsection is that each amount allocated to an employee under an employees profit sharing plan is included in the employee's income in the year the allocation of the amount is made to him and it does not matter whether the allocation to the employee is made on an absolute basis or not. There are, however, five exceptions to this general rule, which are spelled out in paragraphs (a) to (e) of subsection 144(3) of the Income Tax Act. It has not been suggested to me by the Appellant that any one of the exceptions were applicable here.
+[16] Also, there has been some dispute as to whether the amount of $1,000.00 was, in law, contributed to an employees profit sharing plan.
+[17] The Appellant argued, at one point, that the subject contributions to the plan of which he was a beneficiary was, as mentioned earlier, an employees share ownership plan and not an employees profit sharing plan. It appears as though a great deal of the uncertainty in this matter centres around the use of the two terms.
+[18] It is well-known that both employees profit sharing plans and employees share ownership plans are arrangements, which typically exist as additional employee incentives.
+[19] It is also common knowledge that a profit sharing arrangement can take on different forms. In the simplest case, an employees profit sharing plan is essentially a cash bonus paid automatically to eligible employees. Pursuant to section 144 of the Income Tax Act, among other factors, the creation of a trust is an essential requirement for the existence of an employees profit sharing plan.
+[20] An employees share ownership plan generally functions on the premise that the employer corporation will subsidize the employee's purchase of company shares by the pledge to contribute a certain amount (known as a "matching contribution") for each amount contributed by the employee.
+[21] From the evidence presented, it may well be that the incentive program instituted by the Appellant's employer was one in which the employees profit sharing plan was in the form of an employees share ownership plan. There was no evidence adduced as to whether the employer's business profits had any relevance to the plan in question. For whatever reason, the terms employees profit sharing plan and employees share ownership plan were used interchangeably by the employer on documents provided to the Appellant as appears from Exhibits R-2, R-3 and R-4.
+[22] However, the definition of an employees profit sharing plan in subsection 144(1) of the Income Tax Act is very broad and I have not been referred to any feature of the plan with which we are concerned here that would not qualify as an employees profit sharing plan.
+[23] It is important to note that neither side entered a copy of the plan in question into evidence. As was clearly set out in subparagraphs 8(b) and (c) of the Reply to the Notice of Appeal, the Minister was operating under the assumption that the plan was an employees profit sharing plan, as it is defined under subsection 144(1) of the Income Tax Act. Although I have no reason to be skeptical of the Appellant's honest belief that he was not participating in an employees profit sharing plan, he adduced no evidence and made no argument that the plan in which he participated did not fit the definition of "employees profit sharing plan" as it appears in that subsection. Unfortunately for the Appellant, his impression of what the plan entailed is not sufficient to rebut the presumption made by the Minister. There must be some concrete evidence to support his belief.
+[24] In examining this issue further, it is reasonably clear from the decision of the Supreme Court of Canada in Lade v. M.N.R., 65 DTC 5297, that the particular employees share ownership plan discussed in that case did not fall under the definition of employees profit sharing plan in subsection 144(1) of the Income Tax Act since the matching contributions made by the employer were not "computed by reference to [the] employer's profits" in a particular taxation year. However, in the case at bar, the Appellant made no such argument.
+[25] I must therefore hold that the plan in issue here is an employees profit sharing plan within the meaning of subsection 144(1) of the Income Tax Act, as assumed by the Minister of National Revenue even if characterized differently at times by the trustee.
+[26] It therefore follows that the amount of $1,000.00 contributed in 1999 by the Appellant's employer on behalf of the Appellant, was properly included in the Appellant's income for the 1999 taxation year, that year being the year in which the amount was allocated to him by the trustee of the plan.
+[27] For this reason, the appeal is dismissed.
+Signed at Ottawa, Canada, this 15th day of April 2003.
+"Alban Garon"
+C.J.T.C.C.
+CITATION:
+2003TCC272
+COURT FILE NO.:
+2002-722(IT)I
+STYLE OF CAUSE:
+William J. Fischer and
+Her Majesty The Queen
+PLACE OF HEARING:
+Winnipeg, Manitoba
+DATE OF HEARING:
+October 22, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Alban Garon
+Chief Judge
+DATE OF JUDGMENT:
+October 31, 2002
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Michael Van Dam
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

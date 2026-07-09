@@ -1,0 +1,275 @@
+---
+title: "Grupp v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/72960/index.do"
+last_modified: "2014-06-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 TCC 184"
+citation2: ""
+neutral_citation: "2014 TCC 184"
+decision_date: "2014-06-04"
+language: "en"
+item_id: "72960"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5193
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T09:43:38.457000+00:00"
+cases_cited_count: 9
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3dcbc68ce7d644bd503ac182c9f749467b4e707a692f4c8917a0e6b23f0be9f9"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grupp v. The Queen
+
+- Citation: 2014 TCC 184
+- Decision date: 2014-06-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5193, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grupp v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2014-06-04
+Neutral citation
+2014 TCC 184
+File numbers
+2013-3196(GST)I
+Judges and Taxing Officers
+Kathleen T. Lyons
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-3196(GST)I
+BETWEEN:
+GERALD GRUPP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 21, 2014, at Toronto, Ontario.
+Before: The Honourable Justice K. Lyons
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Darren Prevost
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated October 20, 2010, and bears number 1191494, is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 4th day of June 2014.
+"K. Lyons"
+Lyons J.
+Citation: 2014 TCC 184
+Date: 20140604
+Docket: 2013-3196(GST)I
+BETWEEN:
+GERALD GRUPP,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Lyons J.
+[1] The Minister of National Revenue (the “Minister”) assessed Gerald Grupp, the appellant, as a director liable for Persuader Court Agents Inc.'s (“Persuader”) failure to remit to the Receiver General net goods and services tax (“GST”) plus interest and penalties thereon, totalling the amount of $57,059.38 (the “Amount”).[1] The appellant appeals that assessment.
+[2] The Amount comprises the reporting period ended June 30, 1995 and each reporting period ended between June 30, 1997 to June 30, 2009. Persuader was required but failed to remit positive amounts of net GST and file returns on or by September 30 (“Relevant Periods”) after each of the reporting periods ended June 30 for each reporting period in dispute.
+[3] The first issue is whether the Minister discharged his statutory obligation to take appropriate collection action. The second issue is whether the appellant was a director during the Relevant Periods. The third issue is whether GST paid by Persuader in the amount of $1,037.22 has or has not been accounted for in the Amount assessed.
+Facts
+[4] Testifying at the hearing were the appellant and Lance Fergin, a collections officer with the Canada Revenue Agency ("CRA"). Their testimony and documentary evidence revealed the following facts.
+[5] Persuader was incorporated on July 9, 1993, under the Ontario Business Corporations Act, R.S.O. 1990, c. B.16 as amended ("OBCA"). Persuader provided paralegal services.
+[6] Persuader was a GST registrant, an annual filer with its reporting period ended on June 30, and was required to file GST returns, report GST and remit positive amounts of net GST by September 30 of each year.[2]
+[7] Persuader failed to remit positive amounts of net GST for the reporting period ended June 30, 1995 and for each of the reporting periods June 30, 1997 to June 30, 2009, and failed to file all GST returns by the deadline of September 30 after each of those reporting periods. Persuader was reassessed. As at July 17, 2010, the amount of $56,321.69 was outstanding.[3]
+[8] Barbara F. Grupp and Deborah L Grupp, the appellant’s spouse and daughter, respectively, were registered as directors of Persuader upon incorporation. They resigned in 1994.
+[9] In his testimony, the appellant said that he was not a director of Persuader upon incorporation, and without indicating when he became a director said that he had resigned as a director in 1995. During cross-examination, he was presented with a Corporation Point in Time Report from the Province of Ontario ("Province") which indicates that he was a director and the General Manager upon incorporation.[4] He confirmed that in the letter he signed dated June 19, 2010, from Persuader (“2010 Letter”) to the CRA, that he is described as a Manager.[5] He stated he had no recollection that his directorship began on July 9, 1993.
+[10] According to the appellant, he tried to file and re-file a form with the Province indicating that he had resigned as a director, but on each occasion the form was returned to him. He therefore doubts it has a copy and he did not try to obtain a copy from the Province. He stated that he attempted to locate a copy of the form from his records but those are no longer available.
+[11] The appellant does not dispute any other assumptions stated in paragraph 7 of the Minister’s Reply except for the assumption in subparagraph 7(c) indicating that he was a director during the Relevant Periods, and says that the GST paid in the amount of $1,037.22, referred to in the 2010 Letter, has not been accounted for in the Amount owed by Persuader.[6] The remaining admitted assumptions are as follows:
+7. …
+e) PCAI’s [Persuader's] GST returns for the reporting period ending on June 30, 1995 and for the reporting periods from July 1, 1996 to June 30, 2009 were late filed without remittance of net [GST, collected,] having been made at any time [to the Receiver General] as set out below:
+Period ended
+GST Return file (received by CRA) date
+Net tax owing amount on GST returns
+Payment enclosed with GST return
+2009-06-30
+2010-06-29
+1,420.91
+0
+2008-06-30
+2010-06-29
+2,223.72
+0
+2007-06-30
+2010-06-29
+2,697.52
+0
+2006-06-30
+2010-06-29
+1,803.69
+0
+2005-06-30
+2010-06-29
+3,306.74
+0
+2004-06-30
+2010-06-29
+3,213.02
+0
+2003-06-30
+2010-06-29
+3,332.86
+0
+2002-06-30
+2005-02-09
+1,948.24
+0
+2001-06-30
+2005-02-09
+2,368.44
+0
+2000-06-30
+2005-02-09
+1,739.97
+0
+1999-06-30
+2005-02-09
+754.80
+0
+1998-06-30
+1999-02-15
+2,040.66
+0
+1997-06-30
+1999-02-15
+2,540.61
+0
+1995-06-30
+1995-08-30
+171.60
+0
+f) the amounts reported by PCAI [Persuader] in its filed returns, which are the amounts of net tax assessed for PCAI [Persuader] for the Period, are as shown in Schedule "A" [which show the identical amounts of net tax assessed as in assumption 7 (e) above] attached to this Reply;
+g) PCAI [Persuader] collected GST during the Period but none of the $29,562.78 reported total net tax amounts was remitted to the Receiver General;
+h) the Minister advised PCAI [Persuader] that amounts in respect of the net tax and the applicable interest and penalties were owing, but nothing resulted from the requests for remittance and collection efforts;
+i) on or about July 27, 2010, a Certificate for the amount of PCAI’s [Persuader's] liability for net tax, and interest and penalties thereon, was registered with the Federal Court, and execution for the amount was returned wholly unsatisfied by the Sheriff for the Regional Municipality of York, Ontario; and
+j) at all material times, the Appellant did not exercise the degree of care, diligence and skill as a director of PCAI [Persuader] to prevent the failure by PCAI [Persuader] to remit the net tax, and the interest and penalties related to that net tax, that a reasonably prudent person would have exercised in comparable circumstances.
+[12] Lance Fergin explained that in the spring of 2010, Persuader was an account in his inventory because GST returns and GST amounts were outstanding. He outlined the contacts he made with the appellant and subsequently the Sheriff in an attempt to collect Persuader’s unpaid debt. He also outlined the reassessment issued to Persuader, and the subsequent director’s liability assessment issued against the appellant on October 20, 2010, in the Amount.
+[13] Mr. Fergin first telephoned the number on file but it was not in service. He then went to the addresses on file, first to Finch Avenue, and then to Bayview Avenue. At the Bayview address, he left a letter with the concierge of the building to provide to the appellant. Mr. Fergin did not receive any response. He then telephoned the appellant and his spouse’s phone numbers and received a response. Mr. Fergin sent a pre‑assessment letter to the appellant, Barbara Grupp and Deborah Grupp. He received responses from only Barbara Grupp and Deborah Grupp who indicated that they had resigned as directors in the early to mid-1990's and provided documentation in support of that.
+[14] He subsequently telephoned the appellant and said that he planned to send a second pre‑assessment letter to the address in Brampton. The appellant did not respond to that letter. In a subsequent telephone conversation with the appellant, Mr. Fergin was informed that there were no assets in Persuader. The appellant also stated that there would be no payment as the appellant would be bringing an appeal in mid‑July of 2010.
+[15] After that discussion, Mr. Fergin requested and obtained a Certificate from the Federal Court, registered on July 27, 2010, for Persuader’s liability for the positive amount of net GST plus interest and penalties thereon in the amount of $56,321.69.[7] Pursuant to the Certificate, Mr. Fergin asked the Sheriff to execute the Writ of Seizure and Sale (“Writ”) upon Persuader’s property for payment of the amount certified.[8]
+[16] On September 14, 2010, the Sheriff attempted to execute the Writ against Persuader at 7805 Bayview Avenue, #825, Thornhill, Ontario.[9] In the Levy Report, the Sheriff reported that he spoke with the appellant's daughter and left a copy of the Notice of Enforcement with her for the appellant. He also called and spoke with the appellant and informed him of the reason for visiting the appellant's home and demanded payment for the outstanding balance on the Writ for Persuader. The appellant said it was not the address for Persuader, that he could not and would not pay it and reiterated that there were no assets. The Sheriff returned the Writ to Mr. Fergin stating it was unsatisfied in whole or in part, and sent the Levy Report, via mail, to Mr. Fergin before he issued the assessment against the appellant.[10]
+Analysis
+[17] Liability for a director is created by subsection 323(1) of the Excise Tax Act (the "Act"). Before issuing a director's liability assessment, the Minister must satisfy any of the paragraphs in subsection 323(2) of the Act.
+Registration of certificate and execution of writ
+[18] For the purpose of this appeal, the applicable statutory provision is paragraph 323(2)(a) of the Act. It is incumbent on the Minister to demonstrate the registration of the Certificate with the Federal Court for the amount of Persuader's liability and that execution for that amount had been returned unsatisfied in whole or in part.[11] Section 323 states:
+323.(1) If a corporation fails to remit an amount of net tax as required under subsection 228(2) or (2.3) or to pay an amount as required under section 230.1 that was paid to, or was applied to the liability of, the corporation as a net tax refund, the directors of the corporation at the time the corporation was required to remit or pay, as the case may be, the amount are jointly and severally, or solidarily, liable, together with the corporation, to pay the amount and any interest on, or penalties relating to, the amount.
+323.(2) A director of a corporation is not liable under subsection (1) unless
+(a) a certificate for the amount of the corporation’s liability referred to in that subsection has been registered in the Federal Court under section 316 and execution for that amount has been returned unsatisfied in whole or in part;
+(b) the corporation has commenced liquidation or dissolution proceedings or has been dissolved and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the earlier of the date of commencement of the proceedings and the date of dissolution; or
+(c) the corporation has made an assignment or a bankruptcy order has been made against it under the Bankruptcy and Insolvency Act and a claim for the amount of the corporation’s liability referred to in subsection (1) has been proved within six months after the date of the assignment or bankruptcy order.
+[19] The appellant asserts that the collection procedures of the CRA are flawed in that it did not obtain a certificate or writ of seizure and sale against him personally, nor were attempts made to collect the unpaid debt of Persuader from the appellant personally. He argues that the only collection action taken against Persuader was insufficient and perfunctory consisting of a superficial visit from the Sheriff at his home when he was not present.[12] I disagree.
+[20] The requirements in paragraph 323(2)(a) of the Act are to obtain a registered certificate in the Federal Court, in the amount of Persuader’s liability, as against Persuader and seek to collect on the unpaid debt by executing the writ against Persuader prior to issuing the director's liability against the appellant.
+[21] The evidence establishes that before issuing a director’s liability assessment against the appellant on October 20, 2010, the Minister had registered a Certificate, in Persuader’s name, in the Federal Court on July 27, 2010. The Sheriff – having made attempts to collect in September 2010 - returned the Writ to Mr. Fergin because execution of the Writ was unsatisfied in whole or in part. As well, the appellant admitted the assumption in subparagraph 7(i) of the Minister’s Reply that the Certificate was registered and the Writ was unsatisfied in whole or in part.
+[22] The appellant asks this Court to find the collection actions against Persuader were insufficient. The Federal Court of Appeal has enunciated that the Minister is only under a duty of good faith in seeking to satisfy and to collect the tax debt from the assets of the corporation. In Canada v Barrett, 2012 FCA 33, [2012] FCJ No. 130 (QL), the taxpayer had argued that the Minister ought to have searched for particular bank accounts of the corporation and thus take all reasonable steps to collect before pursuing a director’s liability assessment. The Court rejected the reasonable standard and overturned the trial judge’s finding in favour of the taxpayer. The Federal Court of Appeal concluded that the Minister’s only duty is to act in good faith in attempting to collect, and the reasonable standard does not apply.
+[23] After a number of attempts to collect on Persuader’s debt and in light of the appellant’s statement in mid-July 2010 that there were no assets in Persuader, Mr. Fergin obtained the Certificate under the Federal Court seal, and then requested the Sheriff to execute on the Writ. The Sheriff details the efforts he made to collect on Persuader's debt. This commenced on September 14, 2010, by leaving a Notice of Enforcement at the address for service with the appellant’s daughter. The Sheriff followed up with a conversation with the appellant who indicated that there were no assets in Persuader, and that there could, nor would, be any payment.[13] Consequently, the Writ was returned by the Sheriff to Mr. Fergin unsatisfied in whole or in part before the director's liability assessment was issued.
+[24] When asked in cross-examination if the appellant recalled any conversation with the Sheriff, as well as the CRA officer, in 2010 relating to collection activities and that he had indicated that there were no assets in Persuader, he said that he had no recollection of any such conversations.
+[25] By contrast, and notwithstanding the appellant’s request that I disregard Mr. Fergin’s testimony because he had not brought his notes to the hearing, Mr. Fergin was able from his recollection to provide viva voce testimony in identifying the contacts he made with the appellant, the steps he took to obtain the Certificate, and his instructions to, and contact with, the Sheriff. The later two steps were corroborated by documentary evidence.[14]
+[26] In cross-examination, Mr. Fergin acknowledged he had eighty files in his inventory, said he could not remember every detail, and agreed that his collection efforts were directed at Persuader, as the debtor, and not against the appellant personally. Mr. Fergin was clear, concise and direct in providing his testimony and again provided documentary evidence. I agree with the appellant’s observation that Mr. Fergin testified in a forthright manner. I accept and prefer Mr. Fergin’s evidence as more reliable than the appellant’s.
+[27] I find that in having the Sheriff make the attempts outlined so as to collect and seek satisfaction of Persuader’s unpaid debt by executing the Writ, the Minister satisfied his duty of good faith. The appellant’s suggestion to conduct an examination of debtor goes beyond the good faith requirement and would make no sense in any event in light of the appellant’s statements that there were no assets. I conclude that the Minister met the requirements and discharged his statutory obligation under paragraph 323(2)(a) of the Act.
+[28] Turning to the appellant’s comment that collection procedures “should be amended” to include an examination of debtor on Persuader the appellant personally, there is no requirement in the legislation to conduct such examination. Such amendments are for Parliament to decide, not this Court.
+Was the appellant a director during the Relevant Periods?
+[29] If a corporation fails to remit to the Receiver General a positive amount of net GST plus interest and penalties thereon for a reporting period as required,[15] as previously noted a director of the corporation - at the time the corporation failed to remit such amounts - is jointly and severally liable to pay such amounts unless certain exceptions apply. Since Persuader's year-end is June 30, it was required to file GST returns and make remittances during the Relevant Periods.
+[30] Initially the appellant testified that he was not a director upon Persuader's incorporation in 1993, but acknowledged in cross-examination, after the admission into evidence of a document, that he was but said he did not remember that.[16] I find that the appellant was a director upon incorporation in 1993.
+[31] The appellant urges the Court to accept that he resigned as a director of Persuader in 1995. (I will address the resignation later in the reasons). The burden and onus was on the appellant to prove the facts of which he had knowledge including those relating to the office of director, and show on the balance of probabilities that he ceased to be a de jure director and was not a de facto director after his purported resignation in 1995.[17]
+[32] The Act does not provide criteria as to when a person ceases to become a director of a corporation.
+[33] In answering that very question, the Federal Court of Appeal has held that the provincial law governing the corporation is to be applied. In Canada v. Kalef, [1996] 2 CTC 1 (FCA), the Court states at paragraph 10:
+10. The Income Tax Act neither defines the term director, nor establishes any criteria for when a person ceases to hold such a position. Given the silence of the Income Tax Act, it only makes sense to look to the company’s incorporating legislation for guidance. …
+[34] Recently the same Court in Aujla v. Canada, 2008 FCA 304, [2008] GSTC 197 (FCA), applied provincial law,[18] in the context of section 323 of the Act, in determining whether the taxpayer ceased to be a director. At paragraph 23, it states:
+23. Both parties contend that the application of section 323 of the ETA is to be undertaken in light of the applicable provincial corporate law provisions, citing the decision of this Court in Kalef v. R., [1996] 2 C.T.C. 1 (F.C.A). In that decision, McDonald J.A. agreed with the reasoning of MacKay J. in Perri (J.F.) v. M.N.R., [1995] 2 C.T.C. 196 (F.C.) to the effect that the principles that apply to the question of whether a directorship has been terminated are to be determined under the applicable provincial law and that the answer to that question may vary from province to province. Specifically, at page 5, McDonald J.A. stated:
+I agree with the reasoning of MacKay J. While it may be open to Parliament to expressly deviate from the principles of corporate law for the purposes of the Income Tax Act, I do not think such an intention should be imputed.
+[35] Persuader was incorporated under the OBCA.
+[36] The respondent relies on subsection 115(4) of the OBCA in asserting that the appellant is deemed to continue as a director because he was the only remaining director and continued to manage the affairs of Persuader until sometime in 2010.[19]
+[37] Subsection 115(4) of the OBCA deals with the eventuality where all of the directors of a corporation have resigned or have been removed, and if any person manages or supervises the business, that person is deemed to be a director of the corporation. It reads:
+Where all of the directors have resigned or have been removed by the shareholders without replacement, any person who manages or supervises the management of the business and affairs of the corporation shall be deemed to be a director for the purposes of this Act.
+[38] Subsection 115(4) of the OBCA was applied in Moll v Canada, 2008 TCC 234, 2008 DTC 3420, in similar circumstances to that of the appellant. An important consideration for the Court was the taxpayer’s conduct in holding himself out as a director (especially to CRA officials and providing the CRA with post‑dated cheques for the corporation’s debt), plus managing the affairs of the corporation after he purportedly resigned. Even though the taxpayer had tendered a written resignation, V.A. Miller J. found he was deemed to continue as a director for the corporation.[20] Another factor centred around the fact that no evidence was produced by the taxpayer to show he had informed anyone, especially third party creditors, that he was no longer a director. The Moll decision is similar to the circumstances in Bremner v Canada, 2007 TCC 509, [2007] GSTC 113, in which the Associate Chief Justice Rip of this Court (as he then was) had to decide when a de facto and deemed director ceased to be a director.
+[39] By analogy, the appellant said that when he resigned as a director of Persuader in 1995, there were no other directors, no other director was appointed, no one else managed Persuader and he continued to remain active in the business after he resigned and until the business closed down in 2010. Those factors, holding himself out to the CRA in 2010, the 2010 Letter (signed by him), other documentary evidence corroborating he was the manager of Persuaders affairs,[21] plus the fact no evidence was proffered by the appellant to show that he had attempted to disabuse third parties that he was no longer the director, leads me to conclude that he continued as a director of Persuader after his purported resignation in 1995. I find he falls squarely within the requirements of subsection 115(4) of the OBCA and conclude that he is a deemed director. The appellant has failed to discharge his onus to rebut the Minister’s assumption that he was a director during the Relevant Periods.
+GST Paid
+[40] The appellant suggested that the amount of $1,037.22, referenced in the 2010 Letter, has not been recognized by the CRA in the Amount owed by Persuader for the Relevant Periods.[22] Other than his statement, the appellant provided no further elaboration or evidence in support of that assertion. I note that the 2010 Letter states it relates to the reporting period ended June 30, 2009. It shows “GST Collected” ($2,458.13), less the “GST Paid” ($1,037.22), resulting in a “Balance Owing” ($1,420.91). Comparing that to the information on Schedule “A” of the Reply, it is clear that the Balance Owing in the amount of $1,420.91, is the only amount owing for the reporting period ended June 30, 2009. I infer from that, that the CRA has properly recognized the $1,037.22 and it does not form part of the Amount owed.
+[41] My conclusions above are suffice to dispose of the matter. However, I will make some comments with respect to the appellant’s assertion relating to the purported resignation.
+Resignation
+[42] Section 121 of the OBCA identifies when and how a director ceases to hold office. Essentially, a written resignation is required and becomes effective at the time it is received by the corporation or at the time specified in the resignation, whichever is later. The section provides:
+121(1) A director of a corporation ceases to hold office when he or she,
+(a) dies or, subject to subsection 119(2), resigns;
+(b) is removed in accordance with section 122; or
+(c) becomes disqualified under subsection 118(1).
+(2) A resignation of a director becomes effective at the time a written resignation is received by the corporation or at the time specified in the resignation, whichever is later.
+[43] I do not accept the appellant’s evidence that he resigned to himself at some point in 1995, and made an entry in the Persuader Minute Book. If such an entry was made, presumably records maintained by Persuader would corroborate the resignation. However, he did not produce the Minute Book nor other (corporate) documentary evidence to corroborate the purported resignation. During cross‑examination, the appellant admitted that he had not sent a written resignation to Persuader, thus does not comply with subsection 121(2) of the OBCA. Even if I were to accept the appellant’s testimony that he resigned in 1995, and even if he had tendered a valid written resignation in compliance with the provincial legislation, he is still caught by subsection 115(4) of the OBCA as he continued to manage the affairs of Persuader.[23]
+Conclusion
+[44] I conclude the appellant was a deemed director during the Relevant Periods pursuant to subsection 115(4) of the OBCA, the Minister discharged his statutory obligation pursuant to paragraph 323(2)(a) of the Act, and since the appellant has acknowledged that he failed to exercise the standard of care in not preventing Persuader’s failure to remit the Amount when and as due, he is jointly and severally liable as a director for the Amount owed by Persuader.
+[45] The appeal is dismissed.
+Signed at Ottawa, Canada, this 4th day of June 2014.
+"K. Lyons"
+Lyons J.
+CITATION: 2014 TCC 184
+COURT FILE NO.: 2013-3196(GST)I
+STYLE OF CAUSE: GERALD GRUPP and
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: February 21, 2014
+REASONS FOR JUDGMENT BY: The Honourable Justice
+K. Lyons
+DATE OF JUDGMENT: June 4, 2014
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Darren Prevost
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Notice of Assessment issued October 20, 2010, against the appellant in the
+Amount, as calculated up to October 20, 2010, and made pursuant to subsection 323(1) of the Excise Tax Act.
+[2] Assumptions in 7 (e) and (f) of the Reply. Section 238 of the Excise Tax Act.
+[3] This amount comprises net GST plus interest and penalties thereon.
+[4] Exhibit R-1. Corporation Point in Time Report as of January 20, 2014.
+[5] Exhibit R-2. The 2010 Letter indicates Gerald Grupp, B.A., LL.B., LL.M., Manager.
+[6] The Amount owed by Persuader, as at October 20, 2010, is reflected in Schedule “A” of the Reply.
+[7] Exhibit R-3 was obtained pursuant to section 23 of the Canada Evidence Act under seal of the Federal Court.
+[8] Exhibits R-3 and R-4 were received by the Sheriff on September 13, 2010.
+[9] Address for service.
+[10] Exhibit R-5.
+[11] In Marceau v Canada, 2007 FCA 352, 2007 DTC 5727 (FCA), the Federal Court of Appeal found that while the onus is on the appellant to demolish the Minister’s assumptions, (i.e., was not a director at the relevant time, etc.), the Crown is to show that the certificate was issued and the writ was returned unsatisfied in whole or in part.
+[12] The respondent argues that the Minister discharged his statutory obligation in compliance with the requirements in paragraph 323(2)(a) of the Act by certifying and registering the debt in Federal Court, and in taking collection action attempting to execute the Writ which was returned unsatisfied in whole or in part.
+[13] Exhibit R-5. Levy Report.
+[14] The appellant suggested that Mr. Fergin’s testimony should be disregarded because he refreshed his memory from his contemporaneous notes prior to the hearing but he did not bring the notes to the hearing. Aside from the appellant having elected to have his appeal heard under the Tax Court of Canada Rules (Informal Procedure), there is no requirement in general for a witness to bring to court all documents reviewed in preparation for their testimony. Nor did the appellant take steps prior to the hearing to request notes from counsel for the Respondent for potential Crown witnesses.
+[15] Subsection 228(2) of the Act provides that remittances of net GST are to be made when a person is obliged to file a GST return. The obligation as to when to file a GST return is set out in section 238 of the Act.
+[16] Exhibit R-1. Corporation Point in Time Report.
+[17] Normally a taxpayer must also prove that he discharged his duty as director to prevent the corporation’s failure to pay the amount owing, and not perpetuate that. However, the appellant admitted this assumption, thus it is not in issue in this appeal.
+[18] The Court applied the British Columbia Business Corporations Act.
+[19] Counsel for the Respondent also argued that it was doubtful that the appellant tendered an effective resignation as a director of Persuader in compliance with the requirements of subsection 121(2) of the OBCA.
+[20] The Court also found that the written resignation was ineffective as it failed to comply with subsection 121(2) of the OBCA.
+[21] Exhibit R-1. The Corporation Point in Time Report from the Province and the 2010 Letter describes him as General Manager and Manager, respectively.
+[22] Exhibit R-2.
+[23] See the decision of Hogan J. in Ustel v Canada, 2010 TCC 444, 2010 DTC 1303, also involving the OBCA and section 323 of the Act, in which he notes that it makes a mockery of the indoor management rule in circumstances where a taxpayer resigns but then continues to manage the affairs of a corporation and holds himself out as a (de facto) director but asserts he lacked the qualification to escape liability. The Court found that notwithstanding that the taxpayer had resigned in compliance with subsection 121(2) of the OBCA, his conduct was that of a person who was qualified to act as a (de facto) director of the corporation by signing tax returns.

@@ -1,0 +1,340 @@
+---
+title: "Grenon c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/516992/index.do"
+last_modified: "2021-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 CCI 89"
+citation2: ""
+neutral_citation: "2021 CCI 89"
+decision_date: "2021-12-01"
+language: "fr"
+item_id: "516992"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4451
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:54:03.844000+00:00"
+cases_cited_count: 20
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "93be7bc85f923130a92b58f26ab31facf18a540f01148c48b8f393748811b483"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grenon c. La Reine
+
+- Citation: 2021 CCI 89
+- Decision date: 2021-12-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4451, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grenon c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2021-12-01
+Référence neutre
+2021 CCI 89
+Numéro de dossier
+2014-3401(IT)G, 2014-4440(IT)G, 2017-486(IT)G, 2017-605(IT)G, 2017-606(IT)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2014-3401(IT)G
+ENTRE :
+JAMES T. GRENON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2014-4440(IT)G
+ET ENTRE :
+LA FIDUCIE REÉR DE JAMES T. GRENON (552-53721)
+PAR SON FIDUCIAIRE, LA COMPAGNIE TRUST CIBC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2017-486(IT)G
+ET ENTRE :
+MAGREN HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2017-605(IT)G
+ET ENTRE :
+2176 INVESTMENTS LTD. (société ayant remplacé Grencorp Management Inc., société ayant remplacé 994047 Alberta Ltd.),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2017-606(IT)G
+ET ENTRE :
+MAGREN HOLDINGS LTD. (société ayant remplacé 1052785 Alberta Ltd. à la suite d'une fusion),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Observations écrites sur les dépens
+Devant : L'honorable juge Guy R. Smith
+Participants :
+Avocats des appelants :
+Me Cy M. Fien
+Me Brandon Barnes Trickett
+Me Ari M. Hanson
+Me Aron W. Grusko
+Avocats de l'appelante
+Compagnie Trust CIBC :
+Me John J. Tobin
+Me Linda Plumpton
+Me James Gotowiec
+Avocats de l'intimée :
+Me Ifeanyi Nwachukwu
+Me Tanis Halpape
+Me Christopher Kitchen
+Me Jeremy Tiger
+ORDONNANCE
+VU les observations des parties sur les dépens;
+ET CONFORMÉMENT aux motifs de l'ordonnance ci-joints :
+LA COUR ADJUGE à l'intimée des dépens forfaitaires de 1 197 942 $, débours compris, à verser solidairement par les appelants.
+Signé à Ottawa, Canada, ce 1er jour de décembre 2021.
+« Guy R. Smith »
+Le juge Smith
+Référence : 2021 CCI 89
+Date : 20211201
+Dossier : 2014-3401(IT)G
+ENTRE :
+JAMES T. GRENON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2014-4440(IT)G
+ET ENTRE :
+LA FIDUCIE REÉR DE JAMES T. GRENON (552-53721)
+PAR SON FIDUCIAIRE, LA COMPAGNIE TRUST CIBC,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2017-486(IT)G
+ET ENTRE :
+MAGREN HOLDINGS LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2017-605(IT)G
+ET ENTRE :
+2176 INVESTMENTS LTD. (société ayant remplacé Grencorp Management Inc., société ayant remplacé 994047 Alberta Ltd.),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2017-606(IT)G
+ET ENTRE :
+MAGREN HOLDINGS LTD. (société ayant remplacé 1052785 Alberta Ltd. à la suite d'une fusion),
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L'ORDONNANCE
+Le juge Smith
+I. Introduction
+[1] Les présents appels ont été entendus sur preuve commune, et les motifs du jugement dans les appels interjetés par James T. Grenon (les « appels de M. Grenon ») et la fiducie REÉR (l'« appel de la fiducie REÉR ») ont été rendus le 27 avril 2021 (2021 CCI 30). Des motifs du jugement distincts pour les trois sociétés appelantes (les « appels des sociétés ») ont été rendus le 24 juin 2021 (2021 CCI 42).
+[2] Les présents motifs portent sur les dépens et tiennent compte des observations écrites des parties. Les questions fondamentales à trancher sont de savoir qui a droit aux dépens, le cas échéant, ce qui justifie l'adjudication des dépens, et le montant des dépens adjugés.
+[3] Les appelants soutiennent qu'ils ont eu [TRADUCTION] « entièrement gain de cause » dans les appels de M. Grenon, qu'ils ont eu [TRADUCTION] « partiellement gain de cause » dans l'appel de la fiducie REÉR, et qu'ils n'ont pas eu gain de cause dans les appels des sociétés. Les appelants font valoir qu'ils ont droit aux dépens correspondant à la moitié des dépens procureur-client dans les appels de M. Grenon, mais que, pour les motifs exposés ci-après, aucuns dépens ne sont demandés ni ne devraient être adjugés pour l'appel de la fiducie REÉR et pour les appels des sociétés.
+[4] L'intimée soutient qu'elle a droit aux dépens à titre de « partie qui a eu gain de cause » et qu'il convient d'adjuger des dépens majorés pour divers motifs, y compris [TRADUCTION] « le comportement inacceptable des appelants, la complexité du dossier, la quantité de travail nécessaire », ainsi que d'autres facteurs qui seront examinés ci-après. Elle soutient également que la Cour devrait lui adjuger des dépens indemnitaires substantiels équivalant à 80 % de ses dépens procureur‑client pour tous les appels, en plus d'une somme forfaitaire pour les débours.
+[5] Pour les motifs qui suivent, et conformément au calcul indiqué ci‑dessous, la Cour adjuge à l'intimée des dépens forfaitaires de 1 197 942 $, à verser solidairement par les appelants.
+II. Analyse
+[6] L'article 147 des Règles de la Cour canadienne de l'impôt (procédure générale) (les Règles) accorde à la Cour un vaste pouvoir discrétionnaire d'adjuger les dépens. En voici le texte :
+Règles générales
+147(1) La Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter.
+(2) Des dépens peuvent être adjugés à la Couronne ou contre elle.
+(3) En exerçant sa discrétion conformément au paragraphe (1), la Cour peut tenir compte :
+a) du résultat de l'instance;
+b) des sommes en cause;
+c) de l'importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d'une partie qui aurait abrégé ou prolongé inutilement la durée de l'instance;
+h) de la dénégation d'un fait par une partie ou de sa négligence ou de son refus de l'admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l'instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+i.1) de la question de savoir si les dépenses engagées pour la déposition d'un témoin expert étaient justifiées compte tenu de l'un ou l'autre des facteurs suivants :
+(i) la nature du litige, son importance pour le public et la nécessité de clarifier le droit,
+(ii) le nombre, la complexité ou la nature des questions en litige,
+(iii) la somme en litige;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+[...]
+(4) La Cour peut fixer la totalité ou partie des dépens en tenant compte ou non du tarif B de l'annexe II et peut adjuger une somme globale au lieu ou en sus des dépens taxés.
+(5) Nonobstant toute autre disposition des présentes règles, la Cour peut, à sa discrétion :
+a) adjuger ou refuser d'adjuger les dépens à l'égard d'une question ou d'une partie de l'instance particulière;
+b) adjuger l'ensemble ou un pourcentage des dépens taxés jusqu'à et y compris une certaine étape de l'instance;
+c) adjuger la totalité ou partie des dépens sur une base procureur-client.
+[...]
+[7] Dans l'exercice de son pouvoir discrétionnaire, la Cour peut tenir compte des facteurs énoncés aux alinéas 147(3)a) à j). Bien que le terme « peut » donne à penser que la disposition est facultative, je conclus qu'elle vise à baliser et à orienter, et qu'elle constitue un cadre d'analyse pour fixer les dépens selon des principes en exerçant un pouvoir par ailleurs discrétionnaire.
+[8] Le paragraphe 147(4) précise que la Cour peut fixer les dépens en tenant compte ou non du tarif et peut adjuger une somme globale au lieu ou en sus des dépens taxés. Le paragraphe 147(5) décrit d'autres pouvoirs discrétionnaires, notamment le pouvoir d'adjuger des dépens sur une base procureur-client.
+[9] Le pouvoir d'adjuger des dépens « relève dans une grande mesure du pouvoir discrétionnaire du juge de la Cour de l'impôt, car celui‑ci est le mieux placé pour déterminer qui doit payer les dépens ainsi que leur montant [...] ce pouvoir discrétionnaire doit être exercé en respectant les principes établis » : Guibord c. La Reine, 2011 CAF 346 (par. 10), qui renvoie à l'arrêt R. c. Lau, 2004 CAF 10 (par. 5). L'exercice de ce pouvoir discrétionnaire « doit s'articuler sur des principes établis et pertinents à la finalité pour laquelle la discrétion est exercée » et ne doit pas être « arbitraire » : R. c. Landry, 2010 CAF 135 (par. 54).
+[10] L'adjudication des dépens ne vise généralement pas à indemniser entièrement une partie pour les frais qu'elle a supportés. Comme l'a expliqué le juge Boyle dans la décision Martin c. La Reine, 2014 CCI 50 :
+14.3 La méthode adoptée par la Cour pour fixer les dépens devrait être compensatoire et contributive, et non punitive ou extravagante. La question qu'il faut se poser est la suivante : quelle serait la contribution appropriée de la partie déboutée aux dépens de la partie ayant eu gain de cause dans l'appel où la position de cette dernière l'a emporté?
+[11] À moins que les dépens ne soient adjugés conformément au tarif, ils peuvent généralement être qualifiés de dépens procureur-client, de dépens indemnitaires substantiels ou de dépens d'indemnisation partielle (parfois aussi appelés dépens partie‑partie).
+[12] Même si on n'a pas demandé des dépens procureur-client en l'espèce, il convient de souligner qu'ils sont réservés aux cas exceptionnels, et visent la pleine indemnisation des frais juridiques lorsqu'une partie fait montre d'une « conduite répréhensible, scandaleuse ou outrageante » (Québec (Procureur général) c. Lacombe, [2010] 2 R.C.S. 453 (par. 67)). Il s'agit d'une exception à la règle voulant que l'adjudication des dépens soit « compensatoire et contributive, et non punitive ».
+[13] On peut habituellement obtenir des dépens indemnitaires substantiels correspondant à 80 % des dépens procureur‑client en présence d'une offre de règlement qui satisfait aux exigences des paragraphes 147(3.1) à (3.8) des Règles. En l'espèce, l'intimée fait valoir que la Cour devrait accorder des dépens indemnitaires substantiels compte tenu de la conduite des appelants, comme nous le verrons plus loin.
+[14] La Cour adjuge des dépens d'indemnisation partielle lorsqu'elle conclut, dans l'exercice de son vaste pouvoir discrétionnaire, qu'une partie ayant obtenu gain de cause a droit à une indemnisation partielle de ses dépens procureur‑client qui excède celle prévue au tarif.
+[15] Dans l'arrêt Consorzio del prosciutto di Parma c. Maple Leaf Meats Inc., 2002 CAF 417 (par. 8), la Cour d'appel fédérale a expliqué : « Une adjudication de dépens partie-partie ne constitue pas un exercice exact. Il ne s'agit que d'une estimation du montant que la Cour juge approprié à titre de contribution aux dépens avocat-client de la partie qui a obtenu gain de cause [...]. » De plus, dans la décision qui fait autorité, Succession Zeller c. La Reine, 2009 CCI 135, la juge Diane Campbell a expliqué ce qui suit :
+[8] Les dépens entre parties qui sont fondés sur le barème du tarif visent à accorder à la partie à laquelle ils sont adjugés une indemnisation partielle des frais qu'elle doit payer à son propre procureur (Mark Orkin, The Law of Costs, 2e éd., vol. 1 (Aurora : Canada Law Book, 2008), à 1-9). Cependant, récemment, ces dépens ont été utilisés pour plus qu'une indemnisation :
+[TRADUCTION]
+Habituellement, dans notre système de « perdant payeur », une adjudication de dépens avait pour but d'indemniser partiellement ou — dans quelques circonstances restreintes — entièrement, la partie ayant eu gain de cause des frais juridiques que celle-ci avait engagés. Mais les dépens en sont venus récemment à être reconnus comme un outil important entre les mains du tribunal pour influencer la façon dont les parties se comportent et éviter que l'on abuse de la procédure du tribunal. Plus précisément, les trois autres objectifs reconnus d'une adjudication de dépens sont les suivants : encourager à régler l'affaire, éviter les actions et les défenses frivoles et s'abstenir de recourir à des mesures inutiles qui prolongent indûment le litige (Mark Orkin, The Law of Costs, 2e éd., vol. 1 (Aurora : Canada Law Book, 2008), à 2‑1).
+[9] En général, le degré d'indemnisation que représentent les indemnités partielles varie entre 50 % et 75 % des dépens d'indemnisation substantielle ou taxés sur la base procureur-client (Mark Orkin, The Law of Costs, 2e éd., vol. 1 (Aurora : Canada Law Book, 2008), à 2‑3).
+[16] Malgré l'affirmation de la juge Campbell selon laquelle les dépens d'indemnisation partielle varient en général entre 50 % et 75 % des dépens procureur-client ou des dépens d'indemnisation substantielle, la fourchette des dépens est loin d'être réglée en droit.
+[17] Par exemple, dans la décision Klemen c. La Reine, 2014 CCI 369, le juge Hogan a refusé d'adjuger des dépens équivalant à 75 % des frais juridiques, comme on l'avait demandé, en concluant que 30 % était un pourcentage plus approprié. Dans la décision Cameco Corporation c. La Reine, 2019 CCI 92, le juge Owen a accordé des dépens d'indemnisation partielle d'« environ 35 % des honoraires d'avocats de 29,3 millions de dollars », en concluant que « cette adjudication de dépens correspond bien au succès qu'a remporté l'appelante, qu'elle tient compte des sommes en cause et de la complexité des questions en litige et qu'elle contribue de manière appropriée aux frais déboursés », et en ajoutant que cette adjudication n'était ni « extravagante » ni « punitive » (par. 46) à la lumière de son analyse des facteurs. Le juge Owen a utilisé un pourcentage semblable dans la décision CIT Group Securities (Canada) Inc. c. La Reine, 2017 CCI 86, et, plus récemment, dans la décision Damis Properties Inc. c. La Reine, 2021 CCI 44. Dans la décision Succession Paletta c. La Reine, 2021 CCI 41, le juge Spiro a refusé d'adjuger des dépens fixés à 75 % des honoraires d'avocat et a adjugé des dépens équivalant à 45 % de la somme demandée (par. 14 et 45).
+[18] Toutefois, dans la décision Duffy c. La Reine, 2020 CCI 135, le juge Sommerfeldt a souligné que les dépens dans cet appel ne devraient pas « se limiter à ceux prévus au tarif » (par. 52), et a adjugé des dépens d'indemnisation partielle équivalant à 52 % des dépens procureur-client ou 65 % des dépens indemnitaires substantiels, qui, selon lui, se situaient « à l'intérieur de la fourchette définie dans la décision Zeller (Succession) » (par. 56).
+[19] Compte tenu de ce qui précède, je conclus que la fourchette pour les dépens d'indemnisation partielle est d'environ de 30 % à 75 % des dépens procureur-client, ce dernier pourcentage étant le haut de la fourchette. Je conclus que cela n'empêcherait pas l'adjudication d'un pourcentage plus faible dans des circonstances appropriées.
+[20] Après avoir énoncé ces principes généraux, j'examinerai maintenant les facteurs énumérés au paragraphe 147(3).
+1. Alinéa 147(3)a) — Le résultat de l'instance
+[21] Les appelants soutiennent avoir eu [TRADUCTION] « entièrement gain de cause » dans les appels de M. Grenon. Je ne suis pas d'accord, et je conclus que ce succès est nettement éclipsé par la conclusion selon laquelle la RGAÉ s'appliquait. Bien que les appelants aient réussi à convaincre la Cour de rejeter plusieurs arguments (trompe‑l'œil, artifice, paragraphe 56(2) et cotisations excédentaires au REÉR), les appels n'ont été accueillis que parce que la Cour a conclu qu'il ne serait pas raisonnable d'imposer le revenu qui était également assujetti à l'impôt dans l'appel de la fiducie REÉR[1]. De plus, l'intimée avait mentionné à un stade précoce de l'instance qu'elle concéderait les appels de M. Grenon si elle avait finalement gain de cause dans l'appel de la fiducie REÉR.
+[22] Les appelants soutiennent également qu'ils avaient eu [TRADUCTION] « partiellement gain de cause dans l'appel de la fiducie REÉR ». Je ne puis retenir cette thèse. Même s'il est vrai que les appelants ont pu convaincre la Cour que le revenu provenant de placements non admissibles, décrit comme étant les « distributions », devrait être réduit de 136 millions de dollars pour l'année d'imposition 2005, la Cour a également conclu que la somme de 152 millions de dollars était assujettie à un impôt de 1 % calculé mensuellement sur la juste valeur marchande des unités acquises au cours de la même année d'imposition. En outre, la Cour n'a pas retenu l'argument des appelants selon lequel la fiducie REÉR devrait être en droit de déduire une perte de 129 millions de dollars pour l'année d'imposition 2008. En fin de compte, nul ne peut contester que les appels de la fiducie REÉR ont été rejetés.
+[23] L'intimée a eu entièrement gain de cause dans les trois appels des sociétés.
+[24] Dans la décision 2078970 Ontario Inc. c. La Reine, 2018 CCI 214 (par. 9), le juge Graham a tenu compte du résultat de l'instance et a souligné que « le niveau général de réussite d'une partie est un facteur important pour déterminer si les dépens devraient être adjugés » et « le niveau général de réussite de la partie peut également servir de facteur pour déterminer le montant de ces dépens ».
+[25] Compte tenu du « niveau général de réussite » des appelants, je conclus que ce facteur appuie l'adjudication de dépens d'indemnisation partielle dans les appels de M. Grenon, mais à l'extrémité inférieure de la fourchette (à accorder sous forme de crédit).
+[26] L'intimée a réussi à convaincre la Cour de confirmer la majeure partie du montant d'impôt établi, de sorte qu'il n'y a pas de raison de s'écarter de la règle générale voulant qu'une partie qui a gain de cause a droit aux dépens. Par conséquent, ce facteur milite en faveur de l'adjudication de dépens d'indemnisation partielle selon le haut de la fourchette.
+2. Alinéa 147(3)b) — Les sommes en cause
+[27] Les appelants reconnaissent que la somme en cause est [TRADUCTION] « incontestablement une somme importante », et que M. Grenon, un particulier, doit payer de l'impôt [TRADUCTION] « de bien plus de 140 millions de dollars [...] en plus de l'obligation fiscale à laquelle il ferait face indirectement à titre de rentier du REÉR de la Compagnie Trust CIBC ».
+[28] Les appelants font valoir que [TRADUCTION] « la perspective qu'un fardeau fiscal important soit imposé au contribuable est un motif pour lui de donner suite à l'affaire », mais que le seul intérêt de l'intimée est de [TRADUCTION] « s'assurer que les cotisations sont exactes et que la Loi est correctement appliquée ». Les appelants indiquent que [TRADUCTION] « ce facteur joue en faveur de M. Grenon et de la Compagnie Trust CIBC qui ont été motivés à juste titre par les sommes en cause à poursuivre leurs appels jusqu'à ce qu'ils aient gain de cause entièrement ou partiellement, respectivement ».
+[29] L'intimée indique que l'impôt, les intérêts et les pénalités au titre de la partie I et de la partie XI.1 dans l'appel de la fiducie REÉR totalisaient 275 millions de dollars le 15 avril 2021, et que les cotisations établies à l'égard des trois sociétés appelantes, y compris les intérêts, totalisaient 154 millions de dollars le 8 juillet 2021. L'intimée fait valoir que les sommes en cause sont importantes, même si on tient compte du chevauchement de l'impôt selon la partie I et selon la partie X.1 dans les appels de M. Grenon.
+[30] Je ne suis pas convaincu par la thèse des appelants, puisque la seule question à examiner au titre de ce facteur est de savoir si les sommes en cause sont négligeables ou importantes du point de vue du contribuable, et non de savoir si un contribuable subirait des difficultés excessives ou un [TRADUCTION] « fardeau fiscal important ». De plus, je ne retiens pas l'affirmation selon laquelle [TRADUCTION] « seuls » les contribuables sont motivés à juste titre à contester une cotisation. Il est bien établi que le ministre a l'obligation légale de s'assurer que les cotisations sont exactes et a l'obligation concomitante de défendre les cotisations contestées, veillant ainsi à ce que les contribuables paient leur juste part d'impôt conformément à la Loi.
+[31] On a affirmé que les sommes en cause doivent être mises en contexte et évaluées en termes relatifs (voir les décisions Daishowa‑Marubeni International Ltd c. La Reine, 2013 CCI 275 (par. 8), et 9196‑7448 Québec inc. c. La Reine, 2017 CCI 50 (par. 24)). J'estime néanmoins qu'il suffit de reconnaître que le montant de l'impôt établi dans les présents appels est considérable pour conclure que ce facteur favorise la demande de dépens de l'intimée, y compris sa demande de dépens majorés.
+3. Alinéa 147(3)c) — L'importance des questions en litige
+[32] Les deux parties font valoir que les questions soulevées étaient « importantes ».
+[33] Les appelants soutiennent que les questions en litige dans l'appel de la fiducie REÉR et dans les appels des sociétés [TRADUCTION] « n'étaient pas simples et avaient une grande importance quant aux pratiques dans l'industrie et à l'interprétation de dispositions légales importantes qui n'avait pas été déterminée précédemment ».
+[34] De même, l'intimée soutient que les [TRADUCTION] « appels étaient importants non seulement pour les parties, mais également pour préciser le droit fiscal dans l'intérêt général et dans l'intérêt d'un grand nombre de contribuables ». Après avoir examiné plusieurs questions traitées par la Cour, l'intimée conclut que les [TRADUCTION] « appels ont une valeur jurisprudentielle qui appuie la demande de dépens de la Couronne » et qu'une [TRADUCTION] « adjudication de dépens majorés est justifiée compte tenu du nombre de questions importantes examinées par la Cour et du fait que la Couronne a avancé des arguments sur l'effet juridique qui ont permis de trancher les appels de la fiducie REÉR et les trois appels des sociétés ».
+[35] J'estime que les questions soulevées étaient principalement des questions de droit et de fait et que, même si la Cour a examiné certaines dispositions pour la première fois, ces questions n'étaient pas nouvelles ni dans l'intérêt général. Comme l'a mentionné le juge Rip (plus tard juge en chef) dans la décision Brown c. La Reine, 2002 CanLII 936 (C.C.I.), conf. par 2003 CAF 192, [2003] 4 C.F. F‑21 :
+20. [...] Le simple fait qu'une disposition de la Loi soit considérée par la Cour pour la première fois et que cela puisse avoir des répercussions pour d'autres contribuables ne confère pas à cet appel les caractéristiques d'une cause type. L'appel normal en matière d'impôt sur le revenu — ce qu'était cet appel — n'est pas une question d'ordre public [...] ni ne concerne des principes constitutionnels et l'intérêt public [...]. Il s'agit tout simplement d'un différend entre un contribuable et la Couronne, à savoir si le montant d'impôt établi était correct. Le principal objet de ces appels était de régler un litige entre les parties, pas nécessairement de trancher une question de droit. Le fait que la décision d'une cour relativement à un appel en matière d'impôt puisse aider à régler d'autres cotisations et à réduire les frais de la Couronne ne constitue pas un motif suffisant pour obliger la Couronne à prendre en charge les frais et dépens de l'appel.
+[36] Tout compte fait, je conclus que les appels soulevaient plusieurs questions de droit relativement complexes et importantes pour les deux parties et que, par conséquent, ce facteur est neutre.
+4. Alinéa 147(3)d) — Toute offre de règlement présentée par écrit
+[37] Les appelants soutiennent que [TRADUCTION] « ni l'une ni l'autre des parties n'a fait d'offre de règlement meilleure que le résultat final pour l'autre partie, ni même s'en rapprochant », de sorte que [TRADUCTION] « ce facteur ne s'applique pas » au calcul des dépens.
+[38] Les paragraphes 147(3.1) à (3.8) des Règles entrent en jeu lorsqu'une partie a présenté une offre de règlement écrite au moins 90 jours avant l'audience, qu'elle n'a pas retiré l'offre et que l'offre n'a pas expiré. Dans de tels cas, la partie qui a gain de cause peut avoir droit aux « dépens indemnitaires substantiels », définis comme correspondant à « 80 % des dépens établis sur une base procureur-client ». Les parties conviennent que cette règle n'entre pas en jeu.
+[39] L'intimée explique toutefois que les appelants ont fait une offre de règlement le 6 septembre 2018, en offrant de payer 1,7 million de dollars en échange de l'annulation des cotisations ou nouvelles cotisations, mais que le ministre a rejeté cette offre parce qu'elle était fondée sur le risque du litige et non sur le droit et les faits. Le ministre a alors présenté une contre-offre, soit d'annuler les cotisations dans les appels de M. Grenon, à condition que les appelants consentent à mettre fin aux appels de la fiducie REÉR et des sociétés. Cette contre‑offre n'a pas été acceptée.
+[40] L'intimée soutient que, même si la contre‑offre n'entraîne pas l'application des paragraphes 147(3.1) à (3.8), elle demeure pertinente, puisqu'elle [TRADUCTION] « se rapprochait beaucoup plus des résultats obtenus ». Elle ajoute que l'offre de 1,7 million de dollars présentée par les appelants [TRADUCTION] « était très loin de la somme d'environ 428 millions de dollars d'impôt, d'intérêts et de pénalités pour production tardive découlant du jugement ».
+[41] J'estime que ce facteur renvoie à une offre de règlement faite à tout moment au cours du contentieux qui est pertinente au résultat atteint au procès ou qui s'en rapproche. Comme on s'attend à ce que les parties fassent des offres de règlement raisonnables et qu'on les encourage à le faire, et que l'intimée l'a fait, je conclus que ce facteur joue en faveur de sa demande de dépens, y compris des dépens majorés.
+5. Alinéas 147(3)e) et f) — La charge de travail et la complexité des questions en litige
+[42] Les appelants soutiennent que le ministre a [TRADUCTION] « mis en cause une multitude d'opérations et l'existence même des diverses entités » qui portaient sur [TRADUCTION] « des opérations qui se sont étendues sur une période d'environ 15 ans ». Ils ajoutent que la charge de travail [TRADUCTION] « a été amplifiée par la décision du ministre de ne pas établir de cotisation à l'égard des appelants à une date se rapprochant des faits en question », et que cela a été un [TRADUCTION] « facteur contribuant de façon importante à la complexité et à la difficulté des présents appels ».
+[43] Ils ajoutent également que la conduite des appels a été d'autant plus complexe en raison des modifications apportées aux réponses, à trois occasions différentes; les modifications définitives ont été apportées seulement quatre mois avant l'audition de l'appel. En citant un extrait de l'arrêt Global Equity Fund Ltd. c. Canada, 2012 CAF 272, [2013] 1 R.C.F. F‑4 (par. 39), les appelants soutiennent qu'ils [TRADUCTION] « ont dû répondre à des arguments et contrecarrer des thèses de la Couronne qui changeaient constamment, et que parfois, ces arguments et ces thèses contredisaient clairement la position adoptée par la Couronne », surtout en ce qui concerne les appels de M. Grenon et l'appel de la fiducie REÉR.
+[44] En ce qui a trait aux appels de M. Grenon, les appelants soutiennent que [TRADUCTION] « la complexité des questions en litige était aggravée par le nombre important de questions de fait et de droit », alors que l'intimée a en fin de compte été déboutée au sujet du trompe-l'œil, de l'artifice, du paragraphe 56(2) et de la RGAÉ. Les appelants se fondent sur la décision Cameco Corporation c. La Reine, 2019 CCI 92 (par. 26 et 29), à l'appui de leur prétention selon laquelle une allégation de trompe‑l'œil exige nécessairement « une charge de travail considérable » puisqu'elle comprend un élément de tromperie. Les appelants font valoir que tout ce qui précède joue en faveur d'une [TRADUCTION] « adjudication des dépens plus élevée ».
+[45] Sur la question de la charge de travail, l'intimée fournit d'autres détails sur i) le nombre de requêtes interlocutoires; ii) la production d'une quantité considérable de documents, d'interrogatoires préalables et d'engagements connexes; iii) la préparation et la durée du procès, ainsi que les questions tranchées. Les requêtes préalables au procès déposées par les appelants (entendues le 28 septembre 2015 et le 1er mars 2016) ont été rejetées et les dépens devaient être dans l'instance, selon la décision du juge du procès. Les requêtes préalables au procès présentées par l'intimée le 11 septembre 2017 ont été accueillies et les dépens devaient être dans l'instance, selon la décision du juge du procès. L'intimée reconnaît que diverses requêtes entendues en novembre 2018, y compris sa demande d'ajournement, ont été soit retirées, soit rejetées, mais que les dépens de 62 500 $ ont été adjugés aux appelants et qu'il n'est pas nécessaire d'en tenir compte dans ce contexte.
+[46] L'intimée mentionne la préparation de certains « aide‑mémoire » concernant les fonds de revenu et les souscriptions aux unités qui font l'objet d'une contestation, ainsi qu'à une [TRADUCTION] « présentation PowerPoint de 37 pages illustrant les 20 étapes de la réorganisation de la FMO [...] visant à aider la Cour à comprendre » les opérations complexes mettant en cause les trois sociétés appelantes. En fin de compte, M. Grenon a reconnu que la plupart des illustrations présentaient avec exactitude les opérations visées par les appels des sociétés.
+[47] Au sujet de la complexité, l'intimée soutient que [TRADUCTION] « les faits étaient complexes et très contestés », que les [TRADUCTION] « documents relatifs aux opérations étaient longs et complexes », et qu'ils devaient être [TRADUCTION] « distillés » pour pouvoir être présentés en preuve avec [TRADUCTION] « des arguments juridiques complexes, notamment sur le trompe‑l'œil, la RGAÉ et l'effet juridique »; tous ces éléments appuient sa demande de dépens majorés.
+[48] Personne ne conteste que les appels portaient sur de multiples opérations couvrant plusieurs années, et que les faits étaient complexes, très contestés et soulevaient des questions juridiques complexes. Tout compte fait, je conclus que cela favorise l'intimée.
+[49] Même s'il est vrai que les réponses ont été modifiées à trois occasions différentes, je conclus que cela visait à préciser la thèse de l'intimée, et que les appelants n'ont pas subi de préjudice grave pour cette raison.
+[50] Je conclus également que la Cour devrait accorder un certain poids à la préparation des aide-mémoire utilisés dans les appels de M. Grenon et dans l'appel de la fiducie REÉR ainsi qu'à la présentation PowerPoint qui a largement servi dans les appels des sociétés.
+[51] Tout compte fait, je conclus que ce facteur milite en faveur de la demande de dépens de l'intimée, y compris des dépens majorés.
+6. Alinéa 147(3)g) — La conduite des parties
+[52] Les deux parties ont soutenu que ce facteur favorisait leur demande respective de dépens. Les appelants concluent leurs observations en indiquant qu'ils choisissent d'insister sur [TRADUCTION] « la question de l'efficacité » de la préparation du dossier de l'intimée, y compris le fait que l'intimée a demandé un ajournement du procès au milieu de l'année 2018, a contesté le dépôt du rapport d'expert des appelants, n'a pas déposé de résumés des témoignages de ses témoins, a déposé son propre recueil de documents à la dernière minute, alors que les appelants avaient déjà préparé un recueil conjoint de documents, [TRADUCTION] « créant ainsi de la confusion tout au long du procès ». Pour ce motif, les appelants soutiennent que l'intimée [TRADUCTION] « ne devrait pas être autorisée à recouvrer des dépens quelconques en ce qui a trait à sa préparation de la preuve documentaire au procès ».
+[53] L'intimée renvoie aux circonstances particulières de l'espèce, c'est‑à‑dire les attaques personnelles contre l'avocat de la Couronne au cours des observations finales. Dès lors, j'ai affirmé que la conduite de certains avocats [TRADUCTION] « avait franchi la frontière et qu'elle pourrait plutôt être qualifiée d'attaques personnelles [...] ou de commentaires désobligeants sur l'intégrité ou la compétence de l'avocat de la partie adverse ». On a rappelé à ces avocats [TRADUCTION] « l'importance de faire preuve de courtoisie » dans la salle d'audience et que la Cour ne pouvait pas [TRADUCTION] « tolérer » une telle conduite. Aucune autre mesure n'a été prise à ce moment. L'intimée soutient que cela justifie sa demande de dépens majorés.
+[54] Elle fait valoir que les procédures ont été retardées inutilement en raison des objections formulées à l'égard des documents utilisés pendant le contre‑interrogatoire des témoins ou des tentatives de présenter des [TRADUCTION] « annexes » manquantes, objections qui ont par la suite été retirées. Elle fait également valoir qu'elle a déposé une requête en vertu de l'article 58 des Règles sur la question de [TRADUCTION] l'« effet juridique » de l'émission d'unités à des mineurs et à d'autres personnes, mais que les appelants n'en ont pas reconnu la véracité, de sorte que la question a dû être tranchée au procès. En outre, l'intimée a demandé que soit tranchée la question de savoir si les fonds de revenu étaient des placements admissibles pour les REÉR et s'il y avait eu un transfert de la propriété bénéficiaire des unités de la FMO de la fiducie REÉR aux sociétés appelantes. Le refus des appelants d'admettre les faits essentiels sous-tendant ces questions faisait qu'il était nécessaire de présenter ces questions au procès.
+[55] L'intimée soutient que la décision des appelants de déposer un rapport d'expert à la toute dernière minute était une perte de temps, puisqu'on a finalement conclu que le rapport n'était pas fiable et que la Cour n'y avait accordé aucun poids.
+[56] Elle fait également valoir qu'elle a tenté d'abréger la durée de l'instance en signifiant des demandes d'aveux et en présentant des aide-mémoire et une présentation PowerPoint au procès. Elle n'a pas non plus fait comparaître de témoin, faisant ainsi économiser du temps à la Cour.
+[57] Je ne retiens pas la thèse des appelants sur la question de l'inefficacité de la préparation du dossier de l'intimée, y compris l'affirmation selon laquelle l'intimée ne devrait pas avoir droit aux dépens pour la [TRADUCTION] « préparation de la preuve documentaire présentée au procès ». Au contraire, j'accorderais beaucoup de poids à la préparation des aide-mémoire et de la présentation PowerPoint, qui ont été utiles à la Cour. Je suis également d'avis que certains actes de la part des avocats des appelants (que j'ai décrits précédemment et qui sont décrits dans les observations de l'intimée) ont dépassé la limite pour ce qui est du comportement approprié à adopter dans une salle d'audience, et que de tels actes ne devraient pas être admis. Il faut les décourager.
+[58] Par conséquent, je conclus que ce facteur joue en faveur de la demande de dépens de l'intimée selon le haut de la fourchette.
+7. Alinéas 147(3)h), i), (i.1) et j)
+[59] Les parties n'ont pas présenté d'observations précises sur ces dispositions, bien que certains facteurs soient indirectement mentionnés ci-dessus.
+[60] À ce sujet, la Cour est d'avis qu'on a passé trop de temps précieux sur la question du nombre de mineurs, et sur le nombre d'adultes ayant signé des ententes de souscription dans les fonds de revenus pour d'autres adultes. Cette question aurait dû être admise au début de l'audience, et le fait que les appelants [TRADUCTION] « n'aient pas admis le nombre » était une tentative flagrante de transférer le fardeau de la preuve à la Couronne. Cela a causé des retards inutiles.
+[61] Je suis d'avis que cette observation favorise la demande de dépens de l'intimée.
+III. Décision
+[62] Les appelants ont demandé des dépens dans les appels de M. Grenon correspondant à 50 % des dépens procureur-client de 808 715,60 $. Je ne vois aucune raison de mettre en doute les taux horaires ou le nombre total des heures indiquées[2]. Je souligne que cette somme ne comprend pas les frais pour l'appel de la fiducie REÉR et les appels des sociétés. Les appelants ont probablement omis de fournir ces frais parce qu'ils ne demandaient pas de dépens pour ces appels.
+[63] Cela dit, je ne vois rien qui justifie d'adjuger 50 % des dépens procureur‑client, et après examen des facteurs mentionnés précédemment, j'accorderais aux appelants des dépens situés vers le bas de la fourchette, soit 20 % ou 161 743 $.
+[64] L'intimée a présenté une ventilation des dépens pour l'ensemble des appels, y compris 782 128 $ pour les appels de M. Grenon, 1 948 439 $ pour l'appel de la fiducie REÉR et 244 421 $[3] pour les appels des sociétés, pour un total de 2 974 988 $. Encore une fois, je ne vois aucune raison de mettre en doute les taux horaires ou le nombre total des heures indiquées[4]. Je remarque de plus que les frais juridiques de l'intimée dans les appels de M. Grenon se rapprochent de la somme présentée par les appelants.
+[65] Je retiens donc les sommes totales fournies par l'intimée, mais je ne vois rien qui justifie sa demande de dépens indemnitaires substantiels de 80 %. Une telle adjudication devrait être réservée aux cas les plus manifestes, ce qui n'est pas le cas en l'espèce. Cela dit, je n'ai aucune hésitation à conclure que l'intimée a droit aux dépens d'indemnisation partielle se situant entre le milieu et le haut de la fourchette.
+[66] J'estime que plusieurs facteurs énoncés au paragraphe 147(3) militent en faveur de l'adjudication de dépens majorés à l'intimée, y compris i) le niveau général de succès; ii) les sommes en cause; iii) la complexité des faits et du droit; iv) la conduite de certains des avocats des appelants durant les plaidoiries; v) la remise d'une offre de règlement qui se rapproche du résultat atteint.
+[67] Après examen des facteurs pertinents, j'adjuge à l'intimée les dépens dans l'appel de la fiducie REÉR et dans les appels des sociétés, que j'établis à 60 % des dépens procureur-client, en plus des débours établis à 43 969 $, calculés comme suit[5] :
+Dépens dans l'appel de la fiducie REÉR (60 %) :
+1 169 063 $
+Dépens dans les appels des sociétés (60 %) :
+146 653 $
+Débours :
+43 969 $
+Moins les dépens dans les appels de M. Grenon (20 %) :
+(161 743 $)
+Dépens nets adjugés à l'intimée :
+1 197 942 $
+[68] J'estime que cette somme n'est ni « extravagante » ni « punitive », et qu'elle constitue une contribution appropriée aux coûts de l'intimée.
+[69] Les appels ont été entendus sur preuve commune principalement parce qu'ils étaient étroitement liés et qu'ils mettaient en cause la même personne. M. Grenon était le rentier de la fiducie REÉR et contrôlait directement ou indirectement les trois sociétés appelantes. Par conséquent, je conclus qu'il est approprié d'adjuger à l'intimée des dépens payables solidairement par les appelants[6].
+Signé à Ottawa, Canada, ce 1er jour de décembre 2021.
+« Guy R. Smith »
+Le juge Smith
+RÉFÉRENCE :
+2021 CCI 89
+NOS DES DOSSIERS DE LA COUR :
+2014‑3401(IT)G, 2014‑4440(IT)G, 2017‑486(IT)G, 2017‑605(IT)G, 2017‑606(IT)G
+INTITULÉ :
+JAMES T. GRENON, LA FIDUCIE REÉR DE JAMES T. GRENON (552‑53721) PAR SON FIDUCIAIRE, LA COMPAGNIE TRUST CIBC, MAGREN HOLDINGS LTD., 2176 INVESTMENTS LTD. (SOCIÉTÉ AYANT REMPLACÉ GRENCORP MANAGEMENT INC., SOCIÉTÉ AYANT REMPLACÉ 994047 ALBERTA LTD.), MAGREN HOLDINGS LTD. (SOCIÉTÉ AYANT REMPLACÉ 1052785 ALBERTA LTD. À LA SUITE D'UNE FUSION) ET SA MAJESTÉ LA REINE.
+MOTIFS DE L'ORDONNANCE :
+L'honorable juge Guy R. Smith
+DATE DE L'ORDONNANCE :
+Le 1er décembre 2021
+PARTICIPANTS :
+Avocats des appelants :
+Me Cy M. Fien
+Me Brandon Barnes Trickett
+Me Ari M. Hanson
+Me Aron W. Grusko
+Avocats de l'appelante
+Compagnie Trust CIBC :
+Me John J. Tobin
+Me Linda Plumpton
+Me James Gotowiec
+Avocats de l'intimée :
+Me Ifeanyi Nwachukwu
+Me Tanis Halpape
+Me Christopher Kitchen
+Me Jeremy Tiger
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom :
+Me Cy M. Fien
+Me Brandon Barnes Trickett
+Me Ari M. Hanson
+Me Aron W. Grusko
+Cabinet :
+Filmore Riley
+Compagnie Trust CIBC :
+Me John J. Tobin
+Me Linda Plumpton
+Me James Gotowiec
+Cabinet :
+Société d'avocats Torys S.E.N.C.R.L.
+Pour l'intimée :
+François Daigle
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Le paragraphe 245(5) de la Loi de l'impôt sur le revenu, L.R.C. 1985, ch. 1 (5e suppl.), exige que la Cour détermine les « attributs fiscaux raisonnables » à la suite d'une décision portant que la RGAÉ s'applique.
+[2] L'annexe « A » des observations des appelants sur les dépens présente un sommaire de toutes les factures (dans les appels de M. Grenon) du 29 avril 2014 au 30 septembre 2019, et l'annexe « B » apporte des précisions sur les taux horaires.
+[3] Les dépens pour les appels des sociétés semblent peu élevés parce que, comme l'explique Maeve Semple dans son affidavit (au par. 12), ils sont antérieurs à l'ordonnance de réunion des dossiers du 22 septembre 2017 et que la plupart du temps de travail (mais pas l'ensemble) après cette date a été consigné soit au dossier des appels de M. Grenon, soit au dossier de l'appel de la fiducie REÉR.
+[4] L'annexe « A » à l'affidavit de Maeve Semple du 23 août 2021 indique les taux horaires et l'annexe « D » fournit des détails sur le travail effectué du 30 décembre 2014 au 13 septembre 2019.
+[5] Ces sommes comprennent les dépens adjugés à l'une ou l'autre partie pour les requêtes interlocutoires.
+[6] Le paragraphe 147(1) des Règles de la Cour canadienne de l'impôt (procédure générale) dispose que la Cour peut fixer les dépens et les répartir. Voir l'ouvrage de Mark M. Orkin et Robert G. Schipper, The Law of Costs, Toronto (Ontario), Thomson Reuters, 1987 (feuilles mobiles, mis à jour en octobre 2021), au paragraphe 2:42 : [TRADUCTION] « La règle générale veut que les demandeurs qui sont déboutés soient tenus solidairement responsables des dépens, sauf si la Cour, dans l'exercice de son pouvoir discrétionnaire, rend une ordonnance différente. » Voir également la décision Mariano c. La Reine, 2016 CCI 161, par. 105.

@@ -1,0 +1,167 @@
+Title: Morais v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28278/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-538-28278-morais-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2007-10-04
+
+# Morais v. M.N.R.
+
+- Citation: 2007 TCC 538
+- Decision date: 2007-10-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1862, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Morais v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-10-04
+Neutral citation
+2007 TCC 538
+File numbers
+2006-2372(EI)
+Judges and Taxing Officers
+Sylvio J. Savoie
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2006-2372(EI)
+BETWEEN:
+ERNESTINE MORAIS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on July 11, 2007, at Moncton, New Brunswick.
+Before: The Honourable Deputy Justice S.J. Savoie
+Appearances:
+For the Appellant:
+Richard Thériault
+Counsel for the Respondent:
+Jean Lavigne
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Grand-Barachois, New Brunswick, this 4th day of October 2007.
+“S.J. Savoie”
+Savoie D.J.
+Translation certified true
+on this 14th day of November 2007.
+Daniela Possamai, Translator
+Citation: 2007TCC538
+Date: 20071004
+Docket: 2006-2372(EI)
+BETWEEN:
+ERNESTINE MORAIS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Savoie D.J.
+[1] This appeal was heard at Moncton, New Brunswick, on July 11, 2007.
+[2] At the hearing, the parties agreed that the evidence gathered and the Reasons for Judgment would be produced in French even if the Reply to the Notice of Appeal and other documents produced at the hearing were written in English.
+[3] This is an appeal from a decision of the Minister of National Revenue (the Minister) to the effect that the employment held by the Appellant with Fox Island Yachts Inc. (the payor), during the period from June 1, 2004, to June 10, 2005 (the period in question), was not insurable. After reviewing the Appellant’s file, the Minister decided that the employment was excluded for employment insurance purposes, pursuant to paragraphs 5(2)(i) and 5(3)(b) of the Employment Insurance Act (the Act) and section 251 of the Income Tax Act.
+[4] In rendering his decision, the Minister relied on the following assumptions of fact:
+[TRANSLATION]
+a) the facts stated and admitted above; (admitted)
+b) Richard Thériault was the Appellant’s husband; (admitted)
+c) the payor’s sole shareholder was Richard Thériault; (admitted)
+d) the payor operated as Lynx Management Group Inc. prior to changing its business name; (admitted)
+e) Richard Thériault was also a shareholder of Magna/Marine Inc. (hereinafter “Magna”), which operated in the same place of business and in the same field as the payor; (admitted)
+f) the payor manufactured fibreglass boats in workshops situated in Bain-Saint-Anne; (admitted)
+g) Magna ceased its activities in December 2004 and declared bankruptcy in June 2005; (admitted)
+h) the Appellant worked for Magna before taking maternity leave in 2003; (admitted)
+i) the Appellant was paid $525 per week by Magna prior to her maternity leave ($15 per hour x 35 hours per week); (admitted)
+j) after her maternity leave ended, the Appellant returned to work for the payor during the period in issue; the Appellant also continued to provide services to Magna; (admitted)
+k) during the period in issue, the Appellant’s wages increased to $800 per week; (admitted)
+l) the Appellant worked in an office located above her garage at her family residence, in Moncton; (admitted)
+m) the duties performed by the Appellant for the payor during the period in issue included office work consisting in typing texts, preparing bank deposits, ordering supplies, filing documents, answering the telephone and making arrangements for the payor’s participation in weekend trade shows during and after the event; (admitted)
+n) the payor participated in 4 or 5 trade shows per year, mainly in Moncton and Halifax; a trade show required 10 to 15 hours of work during the trade show weekend; (denied)
+o) the Appellant worked at weekend trade shows after Daniel Thériault was dismissed; (admitted)
+p) Daniel Thériault worked for Magna from April 30, 2004, to September 2, 2004, and his duties involved procurement and working at weekend trade shows; (admitted)
+q) Daniel Thériault was paid $630 per week; (admitted)
+r) from June 25, 2004, to August 27, 2004, the Appellant’s wages were paid to her by cheques issued to Lynx Management Group Inc.; (admitted)
+s) from August 28, 2004, to November 11, 2004, the Appellant did not receive her wages; (no knowledge thereof)
+t) from May 28, 2005, to June 3, 2005, the Appellant was paid twice; (admitted)
+u) the Appellant received a cheque from the payor for $4,000 on April 1, 2005; that payment came from the loan account of the payor’s shareholder; (denied)
+v) the Appellant was not a shareholder of the payor; (admitted)
+w) the Appellant received an additional payment for $1,000 from the payor on May 1, 2005; (admitted)
+x) the Appellant did not lend the payor any money. (admitted)
+y) the Appellant received an additional payment for $1,000 from the payor on May 1, 2005; (admitted)
+z) the Appellant did not lend the payor any money. (admitted)
+[5] The Appellant admitted all of the Minister’s assumptions except those set out in subparagraphs n) and u).
+[6] The evidence revealed that the Appellant and Daniel Thériault were in charge of exhibiting the payor’s products at trade shows. The trade shows were held four to five times per year, mainly on weekends during the summer, in Moncton, Halifax or the United States.
+[7] However, evidence of the Appellant’s employment in that activity, during the period in question, was not convincing.
+[8] In her testimony, the Appellant stated as follows [TRANSLATION]: “. . . ‘trade shows’, I think I did one, in summer 2004 . . . Daniel also, I believe . . . maybe it was Daniel? . . . I am not sure anymore . . . in fall 2004, I did one . . . but I can longer recall the year . . . .” As for Daniel Thériault, other employee of the payor, he stated as follows at the hearing [TRANSLATION]: “I do not think that Ernestine Morais did ‘trade shows’ in summer 2004. Besides, I do not believe the payor was involved that year.”
+[9] At the hearing, the Appellant stated that she did not submit any time sheets. She stated as follows [TRANSLATION]: “why times sheets, I lived in the same house. I knew I was paid for my hours. I worked beyond 35 hours per week. My husband was in charge of the technical aspect but there was no record of hours worked.” As for Richard Thériault, he stated as follows in his testimony [TRANSLATION]: “we did not have employee time sheets. It is a family business.” Twice, the Minister’s officers made a written request to the payor that it submit, inter alia, time sheets and other documents. The payor did not submit them and at the hearing he stated as follows [TRANSLATION]: “ I thought I submitted them and I submitted everything I had. What was requested of me by letter—Exhibit I-4—I did not have that.” He added [TRANSLATION]: “I do not recall that letter.”
+[10] After reviewing the documents gathered, the Minister determined that the Appellant did not receive any paycheques during the period from August 28 to November 11, 2004. The Appellant explained in her testimony that it was owing to liquidity constraints. She added [TRANSLATION]: “I was always paid, except for when the payor did not have the means.” When questioned on that point at the hearing, Richard Thériault stated that [TRANSLATION] “. . . the ‘cash’ register could answer that.” He added that during that period, it was hell. He also stated that he did not realize that cheques were missing for that extended period. The evidence revealed that the payor did not have any payroll record.
+[11] Exhibit I-6, which bears the payor’s letterhead, shows that the Appellant only began to receive paycheques on June 25, 2004. No evidence of the Appellant’s employment was produced to support that she worked prior to that date. When questioned on that point, Richard Thériault was incapable of providing an explanation. He was also questioned about the increase in the wages of the Appellant, his wife, from $573 to $800 per week. He explained that owing to the financial difficulties his company was experiencing, seven to eight employees were dismissed and that the remaining employees had a greater workload. He added that the Appellant had 20 years’ experience. However, Daniel Thériault, the other remaining employee, did not receive a wage increase. Richard Thériault explained that he had learned that he was leaving soon.
+[12] The Minister’s assumption, set out at paragraph 5. u) was initially denied by the Appellant, but during her testimony, she admitted that she received the amount of $4,000 from the payor on April 1, 2005. According to her, it was a partial reimbursement of a loan to the payor’s sole shareholder, her husband. When he testified, he confirmed that fact by adding that he had poured everything (his money) into that company. Furthermore, it was established that the $1,000 payment the payor made to the Appellant was an allowance. Richard Thériault was incapable of explaining its validity within the meaning of the Act in this context.
+[13] Exhibits I-2 and I-6 support the Minister’s conclusion that the Appellant was not paid for the first two weeks of June 2004, or, if she did work, she was not paid. In that regard, the Appellant explained that she trusted the payor; she added that she was always paid, except for when the payor did not have the means. She stated that it is possible that she worked without pay and that it is because the company was experiencing financial difficulties.
+[14] The issue concerns the insurability of the employment. The parties to the contract are related in accordance with the definition of that expression in the Income Tax Act, paragraphs 251(1)(a) and 251(2)(a):
+Section 251: Arm’s length.
+(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm's length;
+(2) Definition of “related persons”. For the purpose of this Act, "related persons", or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or
+common-law partnership or adoption;
+[15] Moreover, the Employment Insurance Act (the Act) excludes from insurable employment that in which the employer and employee are not dealing with each other at arm’s length. On this, paragraph 5(2)(i) sets out that
+5.(2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm's length.
+[16] In such circumstances, the Act has set out the context in which the Minister is to carry out his discretionary power to determine whether employment is insurable at paragraph 5(3)(b) of the Act, which states that
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[17] In the instant case, it is pertinent to ask whether
+1. Richard Thériault would have paid to an unrelated employee the amount owed to her as reimbursement of a shareholder loan to the payor’s company;
+2. the Appellant would have worked for an employer without remuneration for a period of three months had she not been related to him;
+3. an unrelated employee would have received from her employer a $1,000 payment as an allowance;
+4. the payor would have increased the wages of an unrelated employee from $573.60 to $800 per week at a time when the financial health of his company was poor and the company was headed toward bankruptcy;
+5. an unrelated employee would have worked without wages for two weeks in June 2004.
+[18] In the context of paragraph 5(3)(b) of the Act, all these pertinent questions were posed to the Appellant and her husband Richard Thériault, the payor’s sole shareholder, but they did not yield meaningful answers.
+[19] It is important to note that the Appellant did not succeed in refuting any of the Minister’s assumptions. On the contrary, the evidence gathered at the hearing convincingly established all of his assumptions.
+[20] It should be added that the evidence, oral and documentary, produced by the Minister was used to establish that the evidence provided by the Appellant and her husband, to the investigating officers and at the hearing, was contradictory. It was inaccurate and was neither sincere nor credible.
+[21] In a similar case, Tardif J. of this Court, in Duplin v. Canada (Minister of National Revenue – M.N.R.), [2001] T.C.J. No. 136, at paragraph 31, stated as follows:
+The fundamental components of a contract of service are essentially economic in nature. The records kept, such as payroll journals and records concerning the mode of remuneration, must be genuine and must also correspond to reality. For example, the payroll journal must record hours worked corresponding with the wages paid. Where a payroll journal records hours that were not worked or fails to record hours that were worked during the period shown, that is a serious indication of falsification. Such is the case where pay does not correspond with the hours worked. Both situations create a very strong presumption that the parties have agreed on a false scenario in order to derive various benefits therefrom, including benefits with respect to taxes and employment insurance.
+[22] The Court analyzed the facts of this case in light of the legislative provisions reproduced above.
+[23] The Court also examined the Minister’s actions in exercising the discretionary power conferred upon him by Parliament.
+[24] In Légaré v. Canada (Minister of National Revenue – M.N.R.), [1999] F.C.J. No. 878, the Federal Court of Appeal ruled on the power conferred upon the Minister and on the jurisdiction of the Tax Court of Canada to review its decisions. At paragraph 4 of that decision, Marceau J. wrote as follows:
+The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[25] It is clear, considering the foregoing, that the Appellant did not succeed in shifting the burden of proof placed upon her. Furthermore, it should be added that the Appellant admitted most of the assumptions of fact the Minister relied on in rendering his decision. It is pertinent to recall in this regard the rule set out by the Federal Court of Appeal in Elia v. Canada (Minister of National Revenue – M.N.R.), [1998] F.C.J. No. 316, where Pratte J. stated as follows:
+. . . the allegations in the reply to the notice of appeal, in which the Minister states the facts on which he based his decision, must be assumed to be true as long as the appellant has not proved them false.
+[37] Accordingly, the appeal is dismissed and the Minister’s decision is confirmed.
+Signed at Grand-Barachois, New Brunswick, this 4th day of October 2007.
+“S.J. Savoie”
+Savoie D.J.
+Translation certified true
+on this 14th day of November 2007.
+Daniela Possamai, Translator
+CITATION: 2007TCC538
+COURT FILE NO.: 2006-2372(EI)
+STYLE OF CAUSE: ERNESTINE MORAIS AND M.N.R.
+PLACE OF HEARING: Moncton, New Brunswick
+DATE OF HEARING: July 11, 2007
+REASONS FOR JUDGMENT BY: The Honourable Deputy Justice S.J. Savoie
+DATE OF JUDGMENT: October 4, 2007
+APPEARANCES:
+For the Appellant:
+Richard Thériault
+Counsel for the Respondent:
+Jean Lavigne
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,159 @@
+---
+title: "Pronovost v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26232/index.do"
+last_modified: "2003-03-18"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 139"
+citation2: ""
+neutral_citation: "2003 CCI 139"
+decision_date: "2003-03-18"
+language: "fr"
+item_id: "26232"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4029
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:27:09.311000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d394a6c466c626091fdb34909bfec13e0293da171c5d12d503d7c272232e6fa5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pronovost v. The Queen
+
+- Citation: 2003 CCI 139
+- Decision date: 2003-03-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4029, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pronovost v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-18
+Référence neutre
+2003 CCI 139
+Numéro de dossier
+2002-1504(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier: 2002-1504(IT)I
+ENTRE :
+DENIS H. PRONOVOST,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 12 mars 2003 à Timmins (Ontario)
+devant l'honorable juge en chef adjoint D. G. H. Bowman,
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocate de l'intimée :
+Me Carole Benoit
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l'encontre de cotisations établies en vertu de la Loi de l'impôt sur le revenu pour les années d'imposition 1999 et 2000 sont admis et les cotisations sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait :
+a) que le camion de marque Dodge Ram de l'appelant constitue du matériel automobile, au sens de la catégorie 10 de l'annexe II du Règlement de l'impôt sur le revenu, et n'est pas une voiture de tourisme au sens de la catégorie 10.1, et que le droit de l'appelant à une déduction pour amortissement à l'égard du camion n'est pas limité par l'alinéa 13(7)g) de la Loi de l'impôt sur le revenu;
+b) que l'appelant a le droit de déduire du calcul de son revenu les montants de 4 136 $ en 1999 et de 2 550 $ en 2000 à titre de frais d'automobile relativement aux frais d'essence;
+c) que la demande de remboursement de l'appelant en vertu du paragraphe 253(1) de la Loi sur la taxe d'accise devrait être recalculée afin de tenir compte des rajustements qui précèdent.
+L'appelant a droit à ses dépens, le cas échéant, conformément au tarif.
+Signé à Ottawa, Canada, ce 18e jour de mars 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 2e jour de février 2005.
+Mario Lagacé, réviseur
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence: 2003CCI139
+Date: 20030318
+Dossier: 2002-1504(IT)I
+ENTRE :
+DENIS H. PRONOVOST,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman
+[1] Ces appels à l'encontre de cotisations établies à l'égard des années d'imposition 1999 et 2000 de l'appelant soulèvent essentiellement deux questions :
+a) si le camion de marque Dodge Ram 1998 de l'appelant, qu'il a acheté au début de 1999, est une « automobile » et une « voiture de tourisme » au sens de l'article 248 de la Loi de l'impôt sur le revenu et s'il est, par conséquent, un bien visé par la catégorie 10.1 de l'annexe II du Règlement d'impôt sur le revenu ou un « matériel automobile » au sens de la catégorie 10;
+b) si la décision du ministre du Revenu national de réduire la déduction de l'appelant au titre des frais d'essence liés à son camion de 5 024,84 $ à 2 400 $ en 1999 et de 3 089,65 $ à 1 600 $ en 2000 était bien fondée.
+[2] La réponse soulevait également une question mineure relative à l'inclusion dans le revenu de l'appelant d'un montant de 293 $ en 1999 et de 213 $ en 2000. Aucune preuve n'a été fournie à cet égard et je ne formule aucune conclusion.
+[3] L'autre question soulevée par la réponse est le montant du remboursement auquel l'appelant a droit en vertu du paragraphe 253(1) de la Loi sur la taxe d'accise. La réponse à cette question dépendra de la réponse aux deux questions principales. Il n'y a aucune autre question à l'égard du droit de l'appelant à une déduction en vertu de l'article 8 à titre de frais liés à l'emploi relativement aux frais d'automobile et à la déduction pour amortissement ( « DPA » ).
+[4] Au cours des années en question, l'appelant était employé par Norbord Industries Inc. à titre de coordonnateur de conformité. Il s'agissait d'un poste de supervision dans le cadre duquel il devait former des employés tant au bureau qu'en forêt, et il devait également se rendre souvent en forêt. Afin d'exécuter ses fonctions, il devait posséder un véhicule à quatre roues motrices.
+[5] Au printemps 1999, il a acheté un camion de marque Dodge Ram 1998 pour la somme de 37 054 $, avant les taxes applicables. Après cet achat, il a été promu au poste de coordonnateur de la conformité et il a utilisé son camion dans le cadre de ses fonctions, bien qu'il ait admis très honnêtement que, lorsqu'il l'a acheté, ce n'était pas en vue de l'utiliser pour son travail de coordonnateur de la conformité. Il se trouve, toutefois, qu'il a été utilisé à cette fin à partir du moment où il a été promu jusqu'au mois d'août 2000 environ, lorsque son employeur lui a fourni un camion pour son travail.
+[6] Le camion de l'appelant a été utilisé pour transporter des outils, de l'équipement de lutte contre les déversements, des trousses de premiers soins ainsi qu'une panoplie d'autres instruments requis dans le cadre du travail effectué par l'appelant pour une société forestière.
+[7] L'appelant est également propriétaire d'une fourgonnette que son épouse et lui-même utilisaient à des fins personnelles avec leur famille.
+[8] Avant d'en arriver à la question précise que je dois trancher, je décrirai brièvement le contexte législatif.
+[9] L'appelant a demandé une DPA à l'égard du camion au montant de 6 326,02 $ en 1999 et de 10 214,22 $ en 2000 en se fondant sur le coût en capital du camion acquis en 1999. La règle de la demi-année a été appliquée à la DPA à l'égard du camion en 1999. Sur le tableau de la DPA, sous le titre « Catégorie » , il a inscrit « 10.1 » pour les deux années. Je crois que cela a été fait par inadvertance. Si le camion fait partie de la catégorie 10.1, plutôt que de la catégorie 10 (c'est-à-dire qu'il s'agit d'une « voiture de tourisme » au sens du paragraphe 248(1) de la Loi de l'impôt sur le revenu), le montant maximal pouvant être déduit au titre de la DPA en 1999 est de 26 000 $, plus la TPS et la TVP.
+[10] La catégorie 10 se lit en partie comme suit :
+Catégorie 10 - (30 pour cent)
+Les biens non compris dans une autre catégorie constitués par
+a) le matériel automobile...
+[11] La catégorie 10.1 se lit comme suit :
+Catégorie 10.1 - (30 pour cent)
+Les biens - voitures de tourisme dont le coût individuel, pour le contribuable, dépasse 20 000 $ ou tout autre montant qui peut être fixé pour l'application du paragraphe 13(2) de la Loi - qui autrement seraient compris dans la catégorie 10.
+[12] Le paragraphe 7307(1) du Règlement prévoit un montant de 26 000 $, pour 1999, aux fins du paragraphe 13(2).
+[13] L'alinéa 13(7)g) de la Loi de l'impôt sur le revenu prévoit qu'aux fins des diverses dispositions de la Loi de l'impôt sur le revenu concernant le calcul de la DPA :
+g) si le coût d'une voiture de tourisme pour un contribuable est supérieur à 20 000 $ ou à tout autre montant fixé par règlement, le coût en capital de la voiture pour le contribuable est réputé être 20 000 $ ou cet autre montant, selon le cas;
+[14] Par conséquent, par ce chemin quelque peu indirect, j'arrive à la question suivante : le camion à quatre roues motrices de marque Dodge Ram 1998 de l'appelant est-il une voiture de tourisme?
+[15] Les termes « voiture de tourisme » et « automobile » sont définis à l'article 248 comme suit :
+« voiture de tourisme » Automobile acquise après le 17 juin 1987 - à l'exclusion d'une automobile acquise après cette date conformément à une obligation écrite contractée avant le 18 juin 1987 - ou automobile louée par contrat de location conclu, prolongé ou renouvelé après le 17 juin 1987.
+« automobile » véhicule à moteur principalement conçu ou aménagé pour transporter des particuliers sur les routes et dans les rues et comptant au maximum neuf places assises, y compris celle du conducteur, à l'exclusion des véhicules suivants :
+a) les ambulances;
+b) les véhicules à moteur acquis principalement pour servir de taxi, les autobus utilisés dans une entreprise consistant à transporter des passagers et les fourgons funéraires utilisés dans une entreprise consistant à organiser des funérailles;
+c) sauf pour l'application de l'article 6, les véhicules à moteur acquis pour être vendus ou loués dans le cadre de l'exploitation d'une entreprise de vente ou de location de véhicules à moteur et les véhicules à moteur utilisés pour le transport de passagers dans le cadre de l'exploitation d'une entreprise consistant à organiser des funérailles;
+d) les véhicules à moteur de type pick-up ou fourgonnette ou d'un type analogue :
+(i) comptant au maximum trois places assises, y compris celle du conducteur, et qui, au cours de l'année d'imposition où ils sont acquis, servent principalement au transport de marchandises ou de matériel en vue de gagner un revenu,
+(ii) dont la totalité, ou presque, de l'utilisation au cours de l'année d'imposition où ils sont acquis est pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu.
+[16] Le camion de l'appelant a une cabine allongée, c'est-à-dire qu'il y a une deuxième banquette qui permettrait à cinq ou six personnes de prendre place dans le camion. Par conséquent, s'il est exclu de la définition d'automobile, il doit être visé par l'exception au sous-alinéa d)(ii). Il s'agit certainement d'un camion pick-up ou d'un véhicule d'un type analogue. Il ne respecte pas le critère du sous-alinéa (i) car il compte plus de trois places assises, soit celles du conducteur et de deux passagers.
+[17] Par conséquent, si le camion est visé par le sous-alinéa (ii), ce sera parce que la « totalité, ou presque, de l'utilisation au cours de l'année d'imposition où [il est] acquis [sera] le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu » en 1999.
+[18] L'appelant a certainement utilisé son camion dans le cadre de ses fonctions pour transporter des biens, du matériel ou des passagers en vue de gagner un revenu. La question est plutôt de savoir s'il s'agissait de la « totalité, ou presque, » de son utilisation.
+[19] Dans les décisions Ruhl (W.) c. Canada, C.C.I. no 96-3597(GST)I, le 25 novembre 1997([1998] G.S.T.C. 4), et Lim c. Canada, C.C.I. no 1999-3180(GST)I, le 4 janvier 2000 ([2000] G.S.T.C. 1), la Cour s'est penchée sur la signification des termes « la totalité, ou presque » et « en grande partie » . Dans l'arrêt Ruhl, la Cour a fait remarquer que ces termes étaient élastiques et « qu'ils ne rendaient pas très bien l'idée d'une proportion du total susceptible d'être déterminée. Il n'est pas nécessaire de leur accoler un pourcentage ou un chiffre absolus. »
+[20] La règle des 90 p. 100 utilisée par l'ADRC n'a aucun fondement législatif, bien qu'il se peut qu'un certain critère rigide doive être appliqué par l'administration. Cela ne signifie pas que la Cour doive la respecter. La règle des 90 p. 100, même si elle était prévue par une loi, est en elle-même défectueuse, car elle n'indique pas de quoi il s'agit : 90 p. 100 du temps, du kilométrage, du nombre ou du poids des passagers, ou des biens transportés?
+[21] En l'espèce, je conclus sans difficulté que le camion était utilisé en « totalité, ou presque, [...] pour le transport de marchandises, de matériel ou de passagers en vue de gagner un revenu » . Le matériel était conservé dans le camion en tout temps, même lorsque l'appelant se rendait au travail et en revenait. La preuve démontre clairement que, au cours de la période du printemps 1999 au mois d'août 2000, le camion était utilisé en quasi-totalité pour le travail de l'appelant. L'utilisation personnelle était minimale. L'appelant et son épouse utilisaient la fourgonnette pour leurs fins personnelles.
+[22] Je crois qu'il y a un autre motif. Une des hypothèses alléguées dans la réponse à l'avis d'appel était que :
+[traduction]
+h) le kilométrage total parcouru par l'appelant au cours des années d'imposition 1999 et 2000 était de 12 000 et de 8 000, et le kilométrage parcouru relativement à l'usage commercial inclus dans les montants précités était de 11 490 et de 7 082 respectivement.
+[23] Ces chiffres proviennent de la déclaration de revenus, sauf le montant de 7 082 kilomètres pour l'année 2000 qui a été légèrement diminué sur la base d'une lettre de l'employeur. L'avocate de l'intimée soutient que je ne devrais pas me fier à l'hypothèse et que je devrais conclure que ce chiffre était élevé. Il est peut-être un peu élevé, mais je ne peux dire dans quelle mesure et, quoi qu'il en soit, il s'agit d'une hypothèse et d'un aveu judiciaire, et elle n'a pas été répudiée ni démolie par l'intimée. La Couronne bénéficie, depuis plus de 50 ans, de la possibilité de plaider des hypothèses, et un nombre incalculable d'appelants ont souffert de leur incapacité apparente de s'acquitter de la « charge de démolir les hypothèses du ministre » . Il pourrait être réconfortant pour les contribuables de savoir que, à l'occasion, ils peuvent obtenir gain de cause parce que l'intimée doit soutenir les hypothèses formulées par le ministre.
+[24] L'autre question porte sur les frais d'essence engagés par l'appelant. Il a déclaré des montants de 5 024,84 $ et de 3 089,65 $ pour chacune des années. Les montants qui ont été admis étaient de 2 400 $ et de 1 600 $.
+[25] L'avocate a soutenu que l'appelant n'avait pas fourni de pièces justificatives au répartiteur. Lors de l'audience, l'appelant a produit quelques exemples d'états de compte hebdomadaires qu'il recevait de Cochrane Co-Operative TIM-BR Mart, où il achetait l'essence qu'il a déduite à titre de dépense. Il a affirmé que sa demande était fondée sur les états de compte hebdomadaires. Je crois que le montant qu'il a déclaré est raisonnablement exact. Son épouse est comptable et c'est elle qui a présenté les déductions et a préparé les déclarations de revenus. Je suis d'avis, toutefois, que la preuve à cet égard est quelque peu incomplète. Il est dommage que son épouse n'ait pu témoigner ou qu'il n'ait pas apporté tous les états de compte hebdomadaires. Il est vrai que, dans le cadre de la procédure informelle, nous devons faire preuve d'une certaine souplesse à l'égard des règles de preuve, mais il y a une limite à cette souplesse.
+[26] Ce que je suis disposé à faire, toutefois, est d'utiliser la méthode employée par la Couronne, c'est-à-dire le nombre de kilomètres parcourus en vue de gagner un revenu (11 490 en 1999 et 7 082 en 2000) multiplié par un taux par kilomètre raisonnable. Aux fins de l'alinéa 18(1)r), le taux prescrit est fixé à l'article 7306 du Règlement. Je crois que l'on peut présumer que le taux d'environ 31 ¢ par kilomètre prescrit aux fins de l'alinéa 18(1)r) représente la limite inférieure de ce qui est raisonnable. D'ailleurs, en 1999 et 2000, les juges (et, je présume, les fonctionnaires) recevaient 38 ¢ et 40 ¢ par kilomètre. Je suis également conscient que l'appelant conduisait le camion sur des routes de gravier, sur des chemins en forêt et, parfois, sur des autoroutes. L'appelant a témoigné que le camion pouvait parcourir entre 12 et 18 milles par gallon, parfois jusqu'à 20 sur l'autoroute. Il s'agit d'un véhicule à huit cylindres et quatre roues motrices qui consomme énormément d'essence.
+[27] En utilisant la méthode du Ministère, je crois que le taux de 36 ¢ du kilomètre est raisonnable. Par conséquent, les frais d'essence de l'appelant s'établissent à 4 136 $ pour l'année d'imposition 1999 et à 2 550 $ pour 2000.
+[28] Le remboursement prévu au paragraphe 253(1) de la Loi sur la taxe d'accise est déterminé en fonction des calculs qui précèdent et devra être rajusté en conséquence.
+[29] Par conséquent, les appels sont admis et les cotisations pour les années d'imposition 1999 et 2000 sont déférées au ministre du Revenu national pour nouvel examen et nouvelle cotisation en tenant compte du fait :
+a) que le camion de marque Dodge Ram de l'appelant constitue du matériel automobile, au sens de la catégorie 10 de l'annexe II du Règlement de l'impôt sur le revenu et n'est pas une voiture de tourisme au sens de la catégorie 10.1, et que le droit de l'appelant à une déduction pour amortissement à l'égard du camion n'est pas limité par l'alinéa 13(7)g) de la Loi de l'impôt sur le revenu;
+b) que l'appelant a le droit de déduire du calcul de son revenu les montants de 4 136 $ en 1999 et de 2 550 $ en 2000 à titre de frais d'automobile relativement aux frais d'essence;
+c) que la demande de remboursement de l'appelant en vertu du paragraphe 253(1) de la Loi sur la taxe d'accise devrait être recalculée afin de tenir compte des ajustements ci-dessus.
+[30] L'appelant a droit à ses dépens, le cas échéant, conformément au tarif.
+Signé à Ottawa, Canada, ce 18e jour de mars 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 2e jour de février 2005.
+Mario Lagacé, réviseur

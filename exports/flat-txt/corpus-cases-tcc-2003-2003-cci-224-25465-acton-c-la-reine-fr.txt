@@ -1,0 +1,168 @@
+Title: Acton c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25465/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-224-25465-acton-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2003-05-06
+
+# Acton c. La Reine
+
+- Citation: 2003 CCI 224
+- Decision date: 2003-05-06
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2353, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Acton c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-05-06
+Référence neutre
+2003 CCI 224
+Numéro de dossier
+2002-3862(IT)I
+Juges et Officiers taxateurs
+Terrence O'Connor
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-3862(IT)I
+ENTRE :
+SHARON LORENE ACTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[traduction française officielle]
+____________________________________________________________________
+Appel entendu conjointement avec l’appel de Allen Grant Acton (2002‑3684(IT)I) le 7 février 2003 à London (Ontario)
+Devant : L’honorable juge Terrence O’Connor
+Comparutions :
+Représentant de l’appelante :
+Allen Grant Acton
+Avocat de l’intimée :
+Me G. Boyd Aitken
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de mai 2003.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 19e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+Dossier : 2002-3864(IT)I
+ENTRE :
+ALLEN GRANT ACTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu conjointement avec l’appel de Sharon Lorene Acton (2002‑3682(IT)I) le 7 février 2003 à London (Ontario)
+Devant : L’honorable juge Terrence O’Connor
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me G. Boyd Aitken
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’encontre de la cotisation établie en application de la Loi de l’impôt sur le revenu pour l’année d’imposition 1999 est rejeté.
+Signé à Ottawa, Canada, ce 6e jour de mai 2003.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 19e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+Référence : 2003CCI224
+Date : 20030506
+Dossier : 2002‑3862(IT)I
+ENTRE :
+SHARON LORENE ACTON,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Dossier : 2002‑3864(IT)I
+ET ENTRE :
+ALLEN GRANT ACTON,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge O’Connor
+[1] Ces appels ont été entendus conjointement le 7 février 2003 à London, en Ontario. En ce qui concerne Allen Grant Acton, étant donné qu’une cotisation néant avait été établie et qu’il n’y avait pas d’appel pour ce type de cotisation, l’appel a été rejeté à l’audience et cette décision est confirmée.
+[2] En ce qui concerne l’appel de Sharon Lorene Acton, le ministre du Revenu national (le « ministre ») avait, pour l’année d’imposition 1999, refusé la demande de Mme Acton relativement à la prise en considération de l’équivalent du montant pour conjoint dans le calcul des crédits d’impôt non remboursables. L’appelante avait demandé un montant de 5 718 dollars au titre de l’équivalent du montant pour conjoint, applicable à son époux Allen Grant Acton. D’après les hypothèses du ministre énoncées dans sa réponse à l’avis d’appel et les éléments de preuve soumis, au cours de l’année d’imposition 1999, Sharon Lorene Acton et Allen Grant Acton vivaient ensemble dans un établissement domestique autonome tenu par eux‑mêmes.
+[3] De plus, selon le ministre, pendant l’année d’imposition 1999, Allen Grant Acton a perçu un revenu en sa qualité de fiduciaire de la succession de son défunt père. Allen Grant Acton conteste ce fait. Il affirme que l’avocat l’aidant à gérer la succession a inscrit ces paiements à titre de droits payables au fiduciaire alors qu’ils auraient dû être inscrits à l’héritage, lequel ne constitue pas un revenu. Par conséquent, ces paiements ne sont pas assujettis à l’impôt sur le revenu et ne peuvent pas influer sur la demande de son épouse à l’égard de crédits d’impôt non remboursables.
+[4] Les alinéas 118(1)a) et 118(1)b) de la Loi de l’impôt sur le revenu (la « Loi ») se lisent comme suit :
+ARTICLE 118 : Crédits d’impôt personnel
+(1) Le produit de la multiplication du total des montants visés aux alinéas a à e) par le taux de base pour l’année est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition;
+118(1)a)
+a) Crédit de personne mariée – si, à un moment de l’année, le particulier est marié et subvient aux besoins de son conjoint dont il ne vit pas séparé pour cause d’échec de leur mariage, le total de 6 000 $ et du résultat du calcul suivant :
+5 000 $ – (C – 500 $)
+où
+C représente le plus élevé de 500 $ et de soit le revenu du conjoint pour l’année soit, si le particulier et son conjoint vivent séparés à la fin de l’année pour cause d’échec du mariage, le revenu du conjoint pour l’année pendant le mariage et alors qu’ils ne vivaient pas séparés;
+118(1)b)
+b) Crédit équivalent pour personne entièrement à charge – le total de 6 000 $ et du résultat du calcul suivant :
+5 000 $ – (D – 500 $)
+où
+D représente 500 $ ou, s’il est supérieur, le revenu d’une personne à charge pour l’année,
+si le particulier ne demande pas de déduction pour l’année par l’effet de l’alinéa a) et si, à un moment de l’année :
+(i) d’une part, il n’est pas marié ou, s’il l’est, ne vit pas avec son conjoint ni ne subvient aux besoins de celui‑ci, pas plus que son conjoint ne subvient à ses besoins,
+(ii) d’autre part, il tient, seul ou avec une ou plusieurs autres personnes, et habite un établissement domestique autonome où il subvient réellement aux besoins d’une personne qui, à ce moment, remplit les conditions suivantes :
+(A) elle réside au Canada, sauf s’il s’agit d’un
+enfant du particulier,
+(B) elle est entièrement à la charge soit du particulier, soit du particulier et d’une ou plusieurs de ces autres personne,
+(C) elle est liée au particulier,
+(D) sauf s’il s’agit du père, de la mère, du grand‑père ou de la grand‑mère du particulier, elle est soit âgée de moins de 18 ans, soit à charge en raison d’une infirmité mentale ou physique;
+[5] Pendant l’année d’imposition 1999, Sharon Lorene Acton était mariée à Allen Grant Acton et tous deux vivaient ensemble dans un établissement domestique autonome tenu par eux‑mêmes.
+[6] De plus, en 1999, le revenu net d’Allen Grant Acton s’est élevé à 6 410 dollars et, selon moi, bien qu’Allen Grant Acton soutienne que ce montant n’aurait pas dû être considéré à titre de revenu ou de droits payables au fiduciaire, c’est ainsi qu’il a été traité et payé et c’est ainsi qu’il doit être considéré.
+[7] On ne sait pas très bien si Sharon Lorene Acton a présenté une demande de crédit en vertu de l’alinéa 118(1)a) ou de l’alinéa 118(1)b). Cependant, la réponse fait référence à l’alinéa 118(1)b). Selon moi, Sharon Lorene Acton n’était admissible à aucun des deux crédits parce que le revenu d’Allen Grant Acton en 1999 dépassait 6 290 dollars. De plus, étant donné que, pendant l’année d’imposition 1999, Allen Grant Acton vivait avec l’appelante dans un établissement domestique autonome tenu par eux‑mêmes, la demande de l’équivalent du montant pour conjoint a été dûment rejetée conformément aux dispositions de l’alinéa 118(1)b) de la Loi.
+[8] Par conséquent, pour l’ensemble des motifs susmentionnés, Sharon Lorene Acton n’était pas admissible au montant pour conjoint ni à l’équivalent du montant pour conjoint pour l’année d’imposition 1999.
+[9] L’appel est donc rejeté.
+Signé à Ottawa, Canada, ce 6e jour de mai 2003.
+« T. O’Connor »
+Juge O’Connor
+Traduction certifiée conforme
+ce 19e jour de mars 2009.
+Christian Laroche, LL.B.
+Réviseur
+RÉFÉRENCE :
+2003CCI224
+Nº DES DOSSIERS DE LA COUR :
+2002-3862(IT)I
+2002-3864(IT)I
+INTITULÉS :
+Sharon Lorene Acton c. La Reine
+Allen Grant Acton c. La Reine
+LIEU DE L’AUDIENCE :
+London (Ontario)
+DATE DE L’AUDIENCE :
+Le 7 février 2003
+MOTIFS du jugement :
+L’honorable juge T. O’Connor
+DATE DU JUGEMENT :
+Le 6 mai 2003
+COMPARUTIONS :
+Pour les appelants :
+M. Allen Grant Acton
+Avocat de l’intimée :
+Me G. Boyd Aitken
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

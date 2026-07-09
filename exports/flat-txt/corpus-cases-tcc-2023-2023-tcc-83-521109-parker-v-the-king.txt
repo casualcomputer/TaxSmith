@@ -1,0 +1,487 @@
+Title: Parker v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521109/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-83-521109-parker-v-the-king.md
+Document type: case_law
+Last modified: 2023-06-08
+
+# Parker v. The King
+
+- Citation: 2023 TCC 83
+- Decision date: 2023-06-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5832, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Parker v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-06-08
+Neutral citation
+2023 TCC 83
+File numbers
+2015-99(IT)I
+Judges and Taxing Officers
+Monica Biringer
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-99(IT)I
+BETWEEN:
+RODERIC PARKER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeal heard on January 25, 2023 at Ottawa, Ontario
+Before: The Honourable Justice Monica Biringer
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Robert Zsigo
+JUDGMENT
+In accordance with the attached Reasons for Judgment:
+The appeal from a reassessment made under the Income Tax Act for the Appellant’s 2006 taxation year is dismissed, without costs.
+Signed at Toronto, Ontario, this 8th day of June 2023.
+“Monica Biringer”
+Biringer J.
+Citation: 2023 TCC 83
+Date: 20230608
+Docket: 2015-99(IT)I
+BETWEEN:
+RODERIC PARKER,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Biringer J.
+I. BACKGROUND
+[1] Roderic Parker (the “Appellant”) appeals the reassessment for his 2006 taxation year. The Appellant was a participant in the Canadian Humanitarian Trust Tax Shelter (“CHT Arrangement”). The Appellant claimed a charitable tax credit on the basis that he had made a cash donation of $14,612 and a donation of pharmaceuticals with a purported value of $44,129 to registered charities, for a total donation of $58,741. The Minister of National Revenue (“Minister”) initially disallowed the entire claim, but subsequently allowed the cash portion. Only the claim relating to the purported in-kind donation of pharmaceuticals remains in issue.
+[2] The CHT Arrangement was previously reviewed by this Court in Morrison v. R[1] where Justice Owen allowed Mr. Morrison’s claim for the cash contribution and dismissed the appeal in respect of the purported donation of pharmaceuticals. Justice Owen found that Mr. Morrison had not established that he had acquired the pharmaceuticals and therefore did not make a gift in-kind to a charity.[2] That decision was affirmed by the Federal Court of Appeal in Eisbrenner v. Canada[3] and leave to appeal to the Supreme Court of Canada was denied. While Morrison was the lead case in a group of appeals, the Appellant did not agree to be bound by the decision and pursued his appeal in this Court.
+II. FACTS
+[3] The Respondent called one witness - Mr. Ronald Monahan. Mr. Monahan is a senior auditor with the Canada Revenue Agency (“CRA”) who acted as a lead auditor for the CHT Arrangement[4] and also testified in Morrison. The Appellant represented himself at the hearing and testified. I found both witnesses to be credible.While the Respondent sought to introduce an affidavit of Mr. Monahan as evidence, in light of Mr. Monahan’s appearance as a witness, I have relied on his oral testimony and not the contents of the affidavit. Certain documents which are tabs to the affidavit were referred to by Mr. Monahan in his testimony and were introduced as evidence.[5]
+[4] The evidence regarding how the CHT Arrangement worked was introduced through Mr. Monahan’s testimony and by assumptions in the Respondent’s Reply that were unchallenged. Mr. Parker was not familiar with the mechanics of the CHT Arrangement.
+[5] The CHT Arrangement is a gifting arrangement tax shelter that operated from 2004 until the end of 2008. 2040126 Ontario Inc., operating as World Health Initiatives, was the promoter (the “Promoter”).
+[6] The stated purpose of the CHT Arrangement was to provide support for recognized Canadian charitable organizations and to assist in the international relief of poverty by offering humanitarian aid, in the form of pharmaceuticals, for distribution in developing countries.
+[7] Under the CHT Arrangement, a participant taxpayer would make a cash contribution to a registered charity (“Cash Charity”) and receive a charitable donation receipt for the amount of cash donated. For Mr. Parker, the Cash Charity was Phoenix Community Works Foundation and the cash donation receipt was for $14,612.
+[8] The participant would, at the same time, complete an application to become a “Class A” beneficiary of one of the CH trusts, which entitled them to receive a stipulated number of World Health Organization Essential Medicine units (“WHOEM Units”), subject to a lien.
+[9] The certificate for the WHOEM Units issued to each individual purported to reflect ownership in an attached list of pharmaceuticals. The list indicated the pharmaceuticals’ purported value; the lien amount was also noted. For Mr. Parker, the trust was CH Trust XVIII, he was entitled to 52 WHOEM Units with a stated value of $52,449.12 with an “encumberance[sic]” of $8,320. The trustee of the trust was CET Fiduciary Services Ltd. and the settlor of the trust was Crunin Investments Limited BVI (“Crunin”).
+[10] Following receipt of the WHOEM Units, the participant would execute a deed of gift of the purportedly owned pharmaceuticals in favour of a registered charity (the “In-Kind Charity”) that would issue a receipt for the purported value of the pharmaceuticals. For Mr. Parker, the deed of gift would have stated that he transferred pharmaceuticals acquired through the CHT Arrangement (the “Pharmaceuticals”) to the Choson Kallah Fund of Toronto (“CKF”). The receipt issued by the CKF was in the amount of $44,129 (the “CKF Receipt”).
+[11] The In-Kind Charity was in turn to transfer the Pharmaceuticals to another charity (the “Distributing Charity”). The Distributing Charity was to distribute the Pharmaceuticals to various non-governmental organizations in Africa, South America and Asia to be used for humanitarian aid. The Respondent did not dispute that some pharmaceuticals were purchased, warehoused and distributed outside of Canada as part of the CHT Arrangement.
+[12] It was not contemplated that Crunin or any participant would take physical possession of pharmaceuticals. Rather, Crunin, the settlor of the CH Trusts, purported to purchase all the pharmaceuticals in bulk from KP Innovispharm Limited (“KP Innovispharm”), a Cyprian company, by taking title. KP Innovispharm allegedly purchased pharmaceuticals from manufacturers outside Canada.
+[13] By Notice of Reassessment dated March 12, 2009, the Minister disallowed the Appellant’s claimed donations in the CHT Arrangement for the 2006 taxation year. On April 7, 2009, the Appellant objected to the reassessment. By Notice of Reassessment dated November 27, 2014, the Minister allowed the Appellant’s claim for a charitable tax credit based on the cash donation.
+III. ISSUE
+[14] At issue is whether the Appellant’s alleged donation of Pharmaceuticals (with a purported value of $44,129) to the CKF is a charitable gift for purposes of the charitable gift tax credit in subsection 118.1(3) of the Income Tax Act (the “Act”).[6]
+IV. THE PARTIES’ POSITIONS
+[15] The Appellant submits that he donated Pharmaceuticals with a value of $44,129 to the CKF and is entitled to a corresponding charitable tax credit.
+[16] The Respondent submits that the alleged donation of Pharmaceuticals does not qualify as a charitable gift and the Appellant is not entitled to a charitable tax credit. The Respondent made various arguments in the Reply,[7] but at the hearing chose to rely on the following arguments:
+There was no “gift” of the Pharmaceuticals to a charity; the Appellant did not acquire the Pharmaceuticals and therefore could not donate the Pharmaceuticals to a charity;[8]
+The Appellant did not have “donative intent”;[9]
+The receipt for the purported gift does not comply with sections 3500 and 3501 of the Income Tax Regulations;[10]
+The principle of judicial comity should apply, since there has been a thorough review of the CHT Arrangement and these issues by Justice Owen in Morrison.[11]
+V. ANALYSIS
+(a) Morrison and Eisbrenner
+[17] In Morrison, the Tax Court of Canada considered the denial of charitable donation tax credits claimed by Mr. Morrison and Mr. Eisbrenner in relation to their participation in the CHT Arrangement and the reduction of a charitable donation tax credit that Mr. Morrison had claimed in relation to his participation in the Canadian Gift Initiatives donation program (“CGI Program”). The appeals were heard on common evidence.
+[18] The Minister had denied Mr. Morrison’s and Mr. Eisbrenner’s tax credit in respect of both the cash donation and the purported donation of pharmaceuticals in the CHT Arrangement. The Minister had determined the fair market value of pharmaceuticals donated by Mr. Morrison in the CGI Program to be less than claimed and accordingly reduced the amount of the charitable donation tax credit. The CGI Program is not relevant to Mr. Parker’s appeal.
+[19] The Tax Court allowed the appellants’ appeals with respect to the cash donations in the CHT Arrangement and dismissed the appellants’ appeals with respect to the purported in-kind donations of pharmaceuticals. Owen, J. found that the appellants had not established that they had acquired the pharmaceuticals that were purportedly gifted to the in-kind charity, that there was no delivery or transfer of property, and therefore no gift. The Tax Court also dismissed Mr. Morrison’s appeal with respect to the charitable donation tax credit for participation in the CGI Program.
+[20] In Eisbrenner, the Federal Court of Appeal considered the appeals by Mr. Morrison and Mr. Eisbrenner from the decision of the Tax Court. The Federal Court of Appeal concluded that the Tax Court Judge did not err in his findings (with respect to the CGI Program for Mr. Morrison and with respect to the CHT Arrangement for both appellants) and dismissed the appeals. The appellants sought leave to appeal to the Supreme Court of Canada, which was denied.[12]
+[21] In both Morrison and Eisbrenner, issues relating to the role of assumptions and onus of proof in tax cases, relating to certain assumptions made in the Minister’s replies, and the admissibility into evidence of certain invoices and bank documents obtained by the CRA on audit, were considered by the Courts. Before considering the central issues in the appeal, I address these same two procedural issues which were also raised at Mr. Parker’s hearing.
+(b) Preliminary Matter - Admissibility of Documentary Evidence
+[22] The Respondent sought to have the following documents admitted into evidence as proof of the truth of their contents:[13]
+Banking documents, including bank statements, from the Bank of Cyprus (“Bank Documents”);[14]
+Invoices obtained from pharmaceutical manufacturers located outside Canada (“Invoices”);[15] and
+Two summaries (prepared by the Canada Revenue Agency) of the above documents (“Summaries”).[16]
+[23] The Appellant did not object to the admission of these documents into evidence. The Respondent confirmed, and I accept, that the Bank Documents and the Invoices were identical to the documents admitted as evidence in Morrison. One of the Summaries is substantially the same as one of the summaries admitted as evidence in Morrison; the other Summary in this proceeding does not correspond directly to the other summary admitted into evidence in Morrison.[17]
+[24] The Bank Documents for KP Innovispharm, Hever International, Bonatrust Services Limited and PK Bonopharm from the Bank of Cyprus were obtained following a request made by the Canadian Competent Authority to the Cyprus Competent Authority.[18] Mr. Monahan testified that while the CRA was able to determine that some of the money received through cash donations to the CHT Arrangement was used to buy pharmaceuticals,[19] they were purchased by Amstelfarma, PK Bonapharm and Medpharm. The CRA did not find any evidence in the Bank Documents that any funds moved from KP Innovispharm to the pharmaceutical manufacturing companies.[20] The Respondent submits that the Bank Documents are relevant to the issue of whether any pharmaceuticals were acquired by Crunin/the CH Trusts or KP Innovispharm and therefore the Appellant.
+[25] Mr. Monahan testified that he was able to identify the batches of pharmaceuticals associated with the CHT Arrangement and then identify the manufacturers of those pharmaceuticals. He contacted the manufacturers directly, and requested copies of invoices for the sales of the pharmaceuticals. The CRA obtained the Invoices directly from the pharmaceutical manufacturers and through Competent Authority requests in the relevant jurisdictions.
+[26] The Respondent submits that the Invoices reflect that the only purchasers of the pharmaceuticals that the CRA identified as part of the CHT Arrangement were MedPharm, Amstelfarma (the owner of the warehouse in Holland) and PK Bonapharm.[21] Mr. Monahan testified that the CRA did not find any evidence that the pharmaceuticals identified in connection with the CHT Arrangement were purchased by Crunin/the CH Trusts or KP Innovispharm.[22] The Respondent submits that the Invoices are relevant to the issue of whether any pharmaceuticals were acquired by Crunin/the CH Trusts or KP Innovispharm and therefore the Appellant.
+[27] The Summaries are Tab M: CHT 2004, 2005 and 2006 Combined Cash Analysis[23] and Tab N: KPI Cash Flow.[24] According to Mr. Monahan, Tab M shows that out of the $222 million of cash donated by the participants from 2004-2006, $204 million went to the Promoter’s trust account, $11.06 million went to the accounts of WHI, and only $6.994 million – 3% of the $222 million - went to the three different classes of charities, with 1% kept for the distributing charity’s own purposes.[25] Tab N shows that “no more than about 10 or 11 million Canadian of the 116 million dollars was actually funneled to a legitimate pharmaceutical company”.[26] The Respondent submits that the Summaries are therefore also relevant to the issue of whether any pharmaceuticals were acquired by Crunin/the CH Trusts or KP Innovispharm and therefore the Appellant.
+[28] In Morrison, the Tax Court provided oral reasons[27] in support of the conclusion that the Bank Documents and Invoices were authentic, relevant and admissible into evidence as proof of their contents under the principled exception to the hearsay rule. The Tax Court also admitted into evidence two summaries, done by the CRA, as support of the audit work that had been done, but not for the truth of the contents.[28] On appeal, in Eisbrenner, the appellants alleged that the trial judge had erred in allowing the Bank Documents and Invoices to be admitted. The Federal Court of Appeal concluded that there was no basis for interference with the Tax Court ’s finding of admissibility.
+[29] The Respondent’s position is that the Bank Documents, Invoices and Summaries should be admitted into evidence on the same basis as and for the reasons provided by the Tax Court in Morrison, as upheld on appeal. They also submit that since this matter is under the Tax Court ’s informal procedure, this Court has broader discretion regarding the admissibility of hearsay evidence pursuant to subsection 18.15(3) of the Tax Court of Canada Act (“TCC Act”). The Appellant did not make submissions on the admissibility of the documents into evidence.
+[30] The documents must be authentic.[29] There is no reason to believe that the Bank Documents or the Invoices are other than what the purport to be. Mr. Monahan testified as to the process by which these documents were obtained. There is no reason to believe that the Bank of Cyprus or the Cyprian Competent Authority would provide anything other than the banking documents requested by the Canadian Competent Authority,[30] or that the pharmaceutical manufacturers would provide anything other than the invoices requested by the CRA audit group directly or through Competent Authority.[31] I accept the Bank Documents and Invoices as authentic.
+[31] In Morrison, the Tax Court found the same documents to be authentic.[32] That determination was upheld by the Federal Court of Appeal in Eisbrenner.[33]
+[32] The documents must be relevant to a material issue.[34] The Invoices are relevant to determining whether the Appellant had title to the Pharmaceuticals, allegedly acquired through KP Innovispharm and Crunin/the CH Trust. The Bank Documents are relevant to determining the flow of funds for the purchase of pharmaceuticals from the manufacturers and whether any of the pharmaceuticals were purchased by Crunin/the CH Trust or KP Innovispharm and subsequently acquired by the Appellant. I accept that the Bank Documents and the Invoices are potentially relevant to whether the Appellant acquired the Pharmaceuticals.
+[33] In Morrison, the Tax Court found the same documents to be relevant.[35] That determination was not in issue before the Federal Court of Appeal in Eisbrenner.[36]
+[34] The Respondent acknowledges that the contents of the Bank Documents and Invoices are hearsay and presumptively inadmissible. The Respondent sought to have the documents admitted under the principled exception to the hearsay rule or subsection 18.15(3) of the TCC Act.[37]
+[35] Under the principled exception to the hearsay rule,[38] hearsay evidence may be admitted if it meets the criteria of threshold reliability and necessity. Threshold reliability is concerned with procedural safeguards or circumstantial guarantees of trustworthiness,[39] which has two aspects: “whether the circumstances tend to negate inaccuracy and fabrication and whether the circumstances provide the trier of fact with a satisfactory basis for evaluating the truth about the facts to be proven.”[40] Necessity must be applied flexibly and does not require that the proposed hearsay evidence is the only evidence available.[41] It can be mere “expediency or convenience” when there are very high circumstantial guarantees of reliability.[42]
+[36] The Federal Court of Appeal in Eisbrenner[43] describes the Tax Court ’s reasons on the principled exception to the hearsay rule in Morrison:
+[57] During the hearing, the Tax Court Judge provided detailed reasons in support of his conclusion that the invoices and the bank statements were admissible into evidence as proof of the truth of their contents under the principled exception to the hearsay rule. The Tax Court Judge referred to the decision of Cromwell, J.A. (as he then was) writing on behalf of the Nova Scotia Court of Appeal in R. v. Wilcox, 2001 NSCA 45, 192 N.S.R. (2d) 159 and to the decision of the British Columbia Court of Appeal in R. v. Lemay, 2004 BCCA 604, 247 D.L.R. (4th) 470.
+[37] The Tax Court ’s determination that the Bank Documents and Invoices were admissible into evidence as proof of the truth of their contents under the principled exception to the hearsay rule was upheld by Federal Court of Appeal in Eisbrenner.[44]
+[38] In R v. Wilcox[45] and R v. Lemay[46], the Courts applied the principled exception to admit business records for the truth of their contents. In R v. Wilcox, Cromwell J.A. (as he then was) wrote for the Nova Scotia Court of Appeal:
+[66] Threshold reliability is not directly concerned with whether the contents of the statement are true, but with whether the circumstances surrounding the statement provide circumstantial guarantees of its trustworthiness: see Starr per Iacobucci, J. at p. 534. The question of whether such guarantees are present has two aspects which reflect the underlying rationalia of the hearsay rule and most of its traditional exceptions. The first concerns whether the statement was made in circumstances tending to negate inaccuracy or fabrication. Factors such as the absence of any motive on the part of the declarant to fabricate the evidence are relevant to this inquiry: see e.g. Starr, supra, at § 214 - 215. The second aspect of threshold reliability is concerned with whether the statement was made in circumstances which provide the trier of fact with a satisfactory basis for evaluating the truth of the statement: see e.g. Hawkins, supra at § 75. Consideration of threshold reliability requires an examination of the specific hearsay dangers raised by the statement and determination of whether the facts surrounding it “...offer sufficient circumstantial guarantees of trustworthiness to compensate for these dangers.”: see Hawkins, supra at § 75. The focus, however, remains on circumstances related to the statement itself, not on extraneous matters relevant to ultimate reliability such as whether there is other confirmatory evidence or on the reputation for truthfulness of the declarant.
+[67] As mentioned earlier, traditional hearsay exceptions may be of assistance in identifying factors which may or may not serve as circumstantial guarantees of trustworthiness. With respect to business records, the routine nature of their creation, the fact that they are relied on for business purposes and the absence of any motive to misrepresent the information recorded have all been identified in the traditional hearsay exception as factors which provide some circumstantial guarantee of trustworthiness justifying reception for its truth of the hearsay contents of such records.[47]
+[Emphasis added.]
+[39] I find that the necessity requirement has been met. As stated in Wilcox, it is not essential to establish that the proposed hearsay evidence would not otherwise be available in a non-hearsay format where there are high circumstantial guarantees of reliability, which I believe to be present. Nonetheless, as the Tax Court Judge observed in Morrison[48]:
+Even if witnesses from the PMCs [pharmaceutical manufacturing companies] and the bank were called to speak to the documents, it is highly unlikely that they could provide any information regarding the content of the documents beyond that which is stated in the documents. Accordingly, if the documents are not admitted as proof of the truth of the contents, this evidence would not be available to this Court”.
+[40] I also find that the threshold reliability requirement is met. Here, the Bank Documents and the Invoices would have been prepared and relied on in the ordinary course of the business of the bank or the pharmaceutical manufacturers, as applicable. The circumstances surrounding their creation provides a guarantee of trustworthiness with respect to the information in the documents. Neither the bank nor the pharmaceutical manufacturers had a motive to falsify or fabricate these business records, since neither has any interest in the outcome of the appeal.
+[41] With respect to the admissibility of the Summaries, the Respondent referred the Court to R v. Scheel[49], a decision of the Ontario Court of Appeal. In that decision, the Court confirmed that a summary of books and records, based on evidence which had been properly admitted, was admissible as an aid in understanding the entire picture represented by voluminous documentary evidence. The usefulness of the summaries depended entirely upon the proof of the facts upon which the summaries were based. In Morrison, the Trial Judge admitted two CRA summaries into evidence, as summaries of the auditor’s work, one of which was substantially similar to Tab N.[50]
+[42] Tab N is a summary prepared by the CRA of information in the Bank Documents. Tab M is a summary of CRA’s conclusions on cash flow based on information apparently gathered from the Bank Documents and other sources. Both of these documents are helpful to demonstrate the audit work done and support Mr. Monahan’s testimony as to the CRA’s conclusions and are admissible into evidence on that basis.
+[43] In summary, the Bank Statements and the Invoices are admissible as proof of the truth of the contents under the principled exception to the hearsay rule, because they meet the threshold reliability and necessity requirements. The Summaries are admissible as evidence of the audit work done.
+[44] Subsection 18.15(3) of the TCC Act concerns procedure with respect to a hearing under the informal procedure in the Tax Court , and provides that the strict rules of evidence do not apply. The provision reads as follows:
+“Notwithstanding the provisions of the Act under which the appeal arises, the Court is not bound by any legal or technical rules of evidence in conducting a hearing and the appeal shall be dealt with by the Court as informally and expeditiously as the circumstances and considerations of fairness permit.”
+[45] As the Federal Court of Appeal determined in Selmeci[51], under subsection 18.15(3) of the TCC Act, a Tax Court Judge has greater latitude for the admission of hearsay evidence in a hearing under the informal procedure: “the Tax Court Judge has a broader discretion and may admit hearsay evidence even though it would not, for example, be sufficiently necessary to satisfy Khan, supra but is nonetheless relevant and reliable.”[52] In Khan[53], it was held that a Trial Judge may admit evidence, once satisfied that it is necessary and reliable, notwithstanding that it is hearsay and inadmissible under one of the exceptions to the exclusionary hearsay rule.
+[46] Given my conclusion on the admissibility of the Bank Statements and Invoices under the principled exception to the hearsay rule, I need not resort to a potentially more lenient standard for admissibility of evidence in an informal procedure hearing. My conclusion on the admissibility of the Summaries does not change when having regard to subsection 18.15(3) of the TCC Act.
+(c) Preliminary Matter – Burden of Proof regarding the Assumptions of Fact
+[47] The issue of onus of proof in tax appeals was thoroughly canvassed by the Tax Court in Morrison[54], and by the Federal Court of Appeal in Eisbrenner[55]. As the Federal Court of Appeal observed, the issue is particularly important because of the limited evidence in relation to the ownership of the pharmaceuticals and how (or whether) the CH Trusts acquired the pharmaceuticals which they purported to convey to the participants. As will be apparent later in these reasons, a central issue in this appeal is whether Mr. Parker owned the Pharmaceuticals and transferred ownership of the Pharmaceuticals to the In-Kind Charity, CKF.
+[48] As in Morrison, the Appellant here had no knowledge of how the CHT Arrangement worked and whether or how he might have come to own the Pharmaceuticals that he purported to donate to the CKF.
+[49] In Eisbrenner, the Federal Court of Appeal concluded that since the appellant had pleaded in the notice of appeal that he had acquired ownership of certain pharmaceuticals and transferred those pharmaceuticals to the in-kind charity, he had the onus of proving that he owned the particular pharmaceuticals on a balance of probabilities. The Court stated that it relied on the well-established principle in civil cases that the person alleging must prove.[56]
+[50] Here, I need not examine the role of the appellant’s Notice of Appeal with respect to the onus of proof and the suggestion, by the Federal Court of Appeal in Eisbrenner, that what is pleaded may shift the burden of proof away from the Minister’s assumptions of fact towards the facts pleaded by the taxpayer.[57] Here, as in many appeals under the Tax Court’s informal procedure, the Notice of Appeal contains few asserted facts, and none regarding the ownership or transfer of the Pharmaceuticals. The facts assumed by the Minister and stated in the Reply are the only facts supporting the assessment of the Appellant.
+[51] Accordingly, I rely on the general principle that the initial onus is on the taxpayer to “demolish” the Minister’s assumptions by at least establishing a prima facie case that the Minister’s assumptions are incorrect. In Hickman Motors Ltd. v. R[58], at p. 5376, Justice L'Heureux-Dubé describes this process:
+It is trite law that in taxation the standard of proof is the civil balance of probabilities … The Minister, in making assessments, proceeds on assumptions … and the initial onus is on the taxpayer to “demolish” the Minister’s assumptions in the assessment … The initial burden is only to “demolish” the exact assumptions made by the Minister but no more … .
+This initial onus of “demolishing” the Minister’s exact assumptions is met where the appellant makes out at least a prima facie case … The law is settled that unchallenged and uncontradicted evidence “demolishes” the Minister’s assumptions … .
+[Emphasis added.]
+[52] Recently, in Kufsky v. Canada[59], the Federal Court of Appeal (in concurring reasons of Monahan, J.) referred to its decision in Amiante Spec Inc. v. Canada[60], where the Court explains a prima facie case as follows:
+[23]A prima facie case is one “supported by evidence which raises such a degree of probability in its favour that it must be accepted if believed by the Court unless it is rebutted or the contrary is proved. It may be contrasted with conclusive evidence which excludes the possibility of the truth of any other conclusion than the one established by that evidence” (Stewart v. Canada, 2000 CanLII 426 (TCC), [2000] T.C.J. No. 53, paragraph 23).
+[24] Although it is not conclusive evidence, “the burden of proof put on the taxpayer is not to be lightly, capriciously or casually shifted”, considering that “[i]t is the taxpayer’s business” (Orly Automobiles Inc. v. Canada, 2005 FCA 425, paragraph 20).
+[53] There are exceptions to the general rule. There may be situations where fairness requires the burden to be shifted away from the taxpayer, including where the pleaded assumptions of fact are exclusively or peculiarly within the knowledge of the Minister.[61] I agree with the Respondent’s submission that this is not the case here. I have determined, as did the Tax Court in Morrison[62], that the relevant facts with respect to the CHT Arrangement are not exclusively or peculiarly known by the Minister. While the Minister, having done a thorough audit, acquired a detailed understanding of the CHT Arrangement, and the Appellant did not, it was potentially open to the Appellant to find out more. The facts would have been known by others involved in the CHT Arrangement and were not within the exclusive or peculiar knowledge of the Minister, even if not known by the Appellant. It would not be unfair to the Appellant here to allow the Minister to assume facts relating to the details of the CHT Arrangement.
+[54] I therefore conclude that, consistent with the principles set out above, the initial onus is on the Appellant to demolish the Minister’s assumptions of fact as stated in the Reply by making out a prima facie case that “demolishes” the Minister’s assumptions.
+[55] Next, I consider the legal issues central to the appeal.
+(d) Validity of the Receipt
+[56] The Respondent submits that the appeal should be dismissed on the basis that the CKF Receipt was deficient.
+[57] Paragraph 118.1(2)(a) of the Act requires that a gift be evidenced by filing with the Minister a receipt that contains prescribed information. Subsection 248(1) of the Act specifies that the term “prescribed” means prescribed by regulation or determined in accordance with rules prescribed by regulation. Part XXXV of the Income Tax Regulations (“Regulations”)[63] contains the relevant provisions. Section 3501 provides a list of requirements for an official receipt to be treated as valid for purposes of claiming a charitable donation tax credit.
+[58] This Court[64] and the Federal Court of Appeal[65] have, on numerous occasions, commented on the strict nature of the requirements. Lack of compliance with any of these requirements is fatal to a claim for a charitable donation tax credit.
+[59] In the recent decision of Kueviakoe, the Federal Court of Appeal refers to various cases[66] and endorses the following passage from the Tax Court decision of Plante[67]:
+[46] The requirements in question are not frivolous or unimportant; on the contrary, the information required is fundamental, and absolutely necessary for checking both that the indicated value is accurate and that the gift was actually made.
+[47] The purpose of such requirements is to prevent abuses of any kind. They are the minimum requirements for defining the kind of gift that can qualify the taxpayer making it for a tax deduction.
+[48] If the requirements as to the nature of the information that a receipt must contain are not met, the receipt must be rejected, with the result that the holder of the receipt loses tax benefits. [...]
+[60] Here, the Respondent submits that the CKF Receipt is not a valid receipt as it does not show the place or locality where the receipt was issued as required by paragraph 3501(1)(d) of the Regulations. I agree. The receipt Mr. Parker received from CKF[68] has the charity’s address but does not have the address where the receipt was issued.
+[61] A similar issue arose in in Kueviakoe. The Federal Court of Appeal determined that where a receipt does not separately indicate the place of issuance of the receipt, it must be rejected as non-compliant.[69] The address of the charity is not enough; a receipt issuing address must be listed separately.[70]
+[62] As such, the CKF Receipt does not meet the requirements of paragraph 3501(1)(d) of the Regulations and is invalid. This determination is sufficient to dismiss the Appellant’s appeal. However, since much of the hearing was spent on the Appellant’s purported gift of Pharmaceuticals to the CKF, I have addressed the parties’ submissions on whether there was a gift.
+(e) Gift
+(i) The Legislation
+[63] Subsection 118.1(3) of the Act[71] allows an individual to claim a tax credit with respect to gifts made to a registered charity. The amount of the tax credit is determined by the amount of the gift. A tax credit cannot exceed the amount of the gift.
+(ii) The Elements of a Gift
+[64] “Gift” is not defined in the Act. The essential elements have been established in the case law. In Friedberg[72], the Federal Court of Appeal wrote:
+“Thus, a gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor.”[73]
+[65] In McNamee v. McNamee[74], the Ontario Court of Appeal elaborated on the essential elements of a “gift”:
+24. The essential ingredients of a legally valid gift are not in dispute. There must be (1) an intention to make a gift on the part of the donor, without consideration or expectation of remuneration, (2) an acceptance of the gift by the donee, and (3) a sufficient act of delivery or transfer of the property to complete the transaction.[75]
+[66] According to these definitions, there are three elements of a gift:
+There must be a voluntary transfer of property;
+The property must be owned by the donor immediately prior to the transfer; and
+There must be an intention to make a gift by the donor, without a benefit or consideration or expectation of remuneration to the donor, often referred to as “donative intent”.[76]
+(iii) Ownership and Transfer of Property
+[67] The Respondent submits that an essential element of a gift is missing – that there was no transfer of property by the Appellant to the CKF.[77] The Respondent submits that the Appellant never acquired the Pharmaceuticals and therefore was unable to donate them.
+[68] The Respondent makes the following assumptions in the Reply with respect to the ownership and alleged transfer of pharmaceuticals, applicable to all participants in the CHT Arrangement, which includes Mr. Parker:
+12.44 the participants never took physical possession of any Pharmaceuticals;
+12.45 the participants never acquired title to any Pharmaceuticals;
+12.46 the In-kind Charities never took possession of any Pharmaceuticals in Canada;
+12.47 none of the Pharmaceuticals ever entered Canada;
+12.48 the CHT Trusts never acquired title to the Pharmaceuticals;
+12.49 the Settlor reported purchasing all the Pharmaceuticals in bulk from a Cyprian company, K.P. Innovispharm Limited;
+12.50 the Pharmaceuticals were manufactured and purchased in a market outside of Canada and were distributed from the offshore manufacturers to third world countries for the purposes of humanitarian relief;
+12.51 the Pharmaceuticals were never intended to be imported into Canada;
+12.52 the Pharmaceuticals were never intended to be used by Canadian consumers;
+[69] The Respondent makes the following assumptions in the Reply with respect to the alleged transfer of Pharmaceuticals by Mr. Parker to the CKF:
+12.61 the Appellant neither took possession of, nor acquired title to, any Pharmaceuticals;
+12.62 the Appellant signed a Deed of Gift stating that the Appellant transferred Pharmaceuticals acquired through the CHT Arrangement to the Choson Kallah Fund of Toronto.
+[70] No assumptions were made with respect to possession, title or ownership of Pharmaceuticals by KP Innovispharm or Crunin/the CH Trust or with respect to the Sale and Supply Agreement between KP Innovispharm and Crunin/the CH Trust.
+[71] Mr. Parker agrees that he never took possession of any pharmaceuticals. He disputes that he did not acquire title to the Pharmaceuticals. He believed that he owned the Pharmaceuticals. The Appellant offered as evidence the certificate received from Canadian Humanitarian Trust XVIII (the “Certificate”).[78]
+[72] The Certificate indicates that Mr. Parker is entitled to receive a distribution of 52 WHOEM Units and that Mr. Parker is the owner of the units set out in the attached schedule. The schedule lists various pharmaceuticals with amounts, indicated as their “price” and “value”. The total “pharmaceutical value” indicated is $52,449.12 with an “encumberance[sic]” of $8,320. The net amount is $44,129.
+[73] The Certificate provided by Mr. Parker was photocopied, and included pages 1, 3 and 5 but is missing pages 2 and 4. Based on what appear to be identical certificates, for Canadian Humanitarian Trusts XI and XVI introduced into evidence as sample certificates[79], and also as the appellants’ certificates in Morrison/Eisbrenner[80] one would expect to see three endorsements/ “deeds of transfer” on the missing second page. The first endorsement/deed of transfer in the sample certificate provides:
+I hereby transfer, give, assign, convey and deliver any and all title to my Units listed herein, to Choson Kallah Fund of Toronto unconditionally and absolutely. For this purpose, I further state that it is my intention that such rights vest absolutely in the aforesaid Units as of the date of this deed of transfer, subject only to a lien against the title of said Units.
+Delivery of a copy of this deed of transfer shall serve as good and sufficient authority to complete the transfer and conveyance of the Units to the above noted on my behalf.
+[74] There is a place for the date, signature of transferor and the name of the transferee. In the sample certificates, this endorsement/deed of transfer was signed by the participant.
+[75] The second endorsement/deed of transfer provides for a further assignment, apparently to the distributing charity.
+[76] There is a place for the date, signature of transferor and the name of the further transferee. In the sample certificates, this endorsement/deed of transfer was signed.
+[77] The third endorsement/deed of transfer provides for a possible further assignment. There is a place for the date, signature of transferor and the name of the further transferee, however in the sample certificates, this was left blank.
+[78] Without the missing pages, there is no evidence of the purported transfer of the WHOEM Units from Mr. Parker to CKF, although the Minister assumed in the Reply that there was such a deed of transfer signed by the Appellant. Even if a full copy of the Certificate had been provided with the endorsement/deed of transfer of the WHOEM Units to the CKF signed by Mr. Parker, it would not affect my conclusions reached further below.
+[79] In Morrison, the certificates were found to be “worthless pieces of paper”, because pharmaceuticals were not acquired by KP Innovispharm at the start of the acquisition chain:
+152 Based on the totality of the evidence of Mr. Monahan regarding the results of the audit of the CHT Program and the absence of any evidence to the contrary, I conclude that the certificates received by the Appellants from CHT are not reliable evidence that pharmaceuticals were acquired by CHT and were distributed by CHT to the Appellants. I find as a fact that the certificates were simply worthless pieces of paper used by WHI to give participants in the CHT Program the impression that pharmaceuticals passed from CHT to the participants and from the participants to the in-kind charities when in fact the pharmaceuticals associated with the CHT Program were sold by the manufacturers of those pharmaceuticals directly to offshore entities, were accumulated in a warehouse in Holland and were then distributed to charities in various countries to provide a veneer of charitable activity which WHI (through CDL) could use to market the CHT Program.
+[Emphasis added]
+[80] After reviewing the content of the certificate, the Federal Court of Appeal upheld the Tax Court’s conclusion that the certificates were “worthless pieces of paper”.[81]
+[81] The Respondent here, like in Morrison, points to an absence of evidence for the purported acquisition of pharmaceuticals by KP Innovispharm from the manufacturers. KP Innovispharm was, according to the CHT Arrangement, to transfer the pharmaceuticals to Crunin, the settlor, who was to settle the pharmaceuticals on the CH Trust, through which the pharmaceuticals were purportedly distributed to the beneficiaries of the trust/participants in the CHT Arrangement. Without a purchase by KP Innovispharm, there is a missing link in the purported chain of transfers.
+[82] Mr. Monahan testified to his belief that all of the drugs that were purchased through the CHT Arrangement were used for humanitarian purposes; however, the CRA found no evidence whatsoever to support a conclusion that KP Innovispharm (or any other person or entity associated with the CHT Arrangement) bought the pharmaceuticals and sold the pharmaceuticals to Crunin. With KP Innovispharm not part of the chain, there was no transfer of title or ownership to Crunin/CH Trust; the whole chain breaks. The CRA reviewed thousands of documents but none showed KP Innovispharm involvement.
+[83] Mr. Monahan testified that, when contacted by the CRA, the manufacturers responded that they had never heard of KP Innovispharm, had never dealt with it, and had never received a purchase order from it. The following excerpts are from the examination of Mr. Monahan by the Respondent’s counsel:
+Q. And- so you mentioned that during the course of the audit, you had contacted the promoters.
+A. That’s correct.
+Q. And you asked for invoicing shipment information- any documents demonstrating that anyone associated with CHT actually came into possession of pharmaceuticals, is that right?
+A. That’s correct. [82]
+…
+Q. So what did the promoters eventually provide you?
+A. Well, right from the beginning, the promoters provided us with a document called the Certificate of Analysis- do you want me to expand on that?[83]
+…
+Q. Okay. So you’re provided these certificates. Do these certificates show who the buyer was?
+A. No. The certificates are strictly a technical document. So the information I laid out, batch number, manufacturer, manufacturing date, products, things like that- raw materials, I should say. But no information on purchaser, no information on- it would say the quantity of the batch, for example, but beyond that, no.
+Q. Okay. So equipped with these certificates of analysis, what was the next step in your audit?[84]
+A. Well, … and then we wrote to the manufacturers, to each one of them, and requested their assistance explaining that we were told that a company named KP Innovis Pharm had purchased pharmaceuticals and were reselling them. And these are the batch numbers that were identified, and asked them for various support documents, purchase invoices, shipping documents, the invoices- everything.[85]
+…
+Q. And what was the response you received from the pharmaceuticals for the 2004, 2005, and 2006 years?
+A. The responses were good. Most of the manufacturers were very cooperative. Some we had to make subsequent requests to the competent authority, but the one consistent response was that no one had ever heard of KP Innovis Pharm, had never dealt with them, had never received a purchase order from them or communication. They were never referenced in any other communication. [86]
+…
+MR. ZSIGO: Q. Yes. So Mr. Monahan, we’ve identified various entities associated with the CHT tax shelter, correct?
+A. Correct.
+Q. Cruden Investments.
+A. Yes.
+Q. KPI.
+A. Yes.
+Q.Various charities.
+A. Yes.
+Q. Right. Did you come across any documentation, whether it be shipping or invoicing, showing that any of these entities associated with the implementation of the CHT tax shelters came into either physical possession or had some other legal title or possessory interest over pharmaceuticals?
+A. No, I have not.
+Q. Okay.[87]
+…
+MR. ZSIGO: Q. Mr. Monahan, do you want to elaborate- or is there anything- since you’re on the stand, is there any clarification you want to make in that regard?
+A. Yeah, I think the point was that we had tried for a very long time to establish the ownership team. …
+…
+A. … We did expect to see that KPI was the purchaser from the manufacturers, but what we- we were never able to find a document that showed that KPI purchased those drugs. … but what we were able to show is that KP Innovis Pharm didn’t become part of that chain. And so if they didn’t have the legal title, they didn’t have the ability to write that Sale and Supply Agreement to Cruden and sell those drugs legally to Cruden. And if they didn’t, then the whole chain broke down. They couldn’t transfer title to the trustee, the trustee couldn’t distribute from the trust, et cetera, et cetera, because that ownership chain had already been broken. We attempted to find that, we looked for it, it wasn’t there. It was nowhere. And we had- as I think I said earlier, we had thousands of documents, and nothing showed KP Innovis Pharm’s involvement.[88]
+[Emphasis added.]
+[84] With reference to the Invoices introduced into evidence in this hearing, the Respondent asked the Court to make the same finding made by the Tax Court in Morrison that:
+150 … None of the Invoices provided by the manufacturers indicate a sale of the pharmaceuticals to KP Innovispharm, Crunin or CHT, nor do they refer to delivery of the pharmaceuticals to KP Innovispharm, Crunin or CHT.
+[85] On the evidence before me, I come to the same conclusion.
+[86] Similarly, with reference to the Bank Documents introduced into evidence in this hearing, the Respondent submits, and I agree, that the Bank Documents do not reflect cash flow from KP Innovispharm, Crunin or CH Trust to the pharmaceutical manufacturers for a purchase of pharmaceuticals.
+[87] The Tax Court in Morrison concluded, based on the totality of the evidence regarding the results of the audit of the CHT Arrangement and the absence of evidence to the contrary, that the certificates were not reliable evidence that the pharmaceuticals were acquired by CH Trust and distributed to the appellants. The Tax Court concluded that Mr. Morrison did not make a gift in-kind of pharmaceuticals: “Simply stated, regardless of the representations of WHI in the CHT Program materials (including the certificates), the Appellants had no pharmaceuticals to gift … [to Choson Kallah Fund]”[89]. The Tax Court ’s conclusion that Mr. Morrison did not own the pharmaceuticals that he purported to donate to the in-kind charity was upheld on appeal, in Eisbrenner.[90]
+[88] Based on the testimony of Mr. Monahan at this hearing regarding the audit of the CHT Arrangement, and the absence of any evidence that pharmaceuticals were acquired by KP Innovispharm, I have concluded that the Certificate received by the Appellant is not reliable evidence that pharmaceuticals were acquired by CHT XVIII and distributed by CHT XVIII to the Appellant. Accordingly, I have concluded that the Appellant did not own the Pharmaceuticals that he claimed he donated to the CKF. The onus is on the Appellant to demolish the assumption made by the Minister that he had no legal title to the pharmaceuticals. I have determined that the Appellant has not presented a prima facie case to demolish the Minister’s assumption.
+[89] I have concluded that the Appellant did not transfer property and therefore did not make a gift to the CKF. On this basis alone, the Appellant’s appeal also fails.
+(f) Donative Intent
+[90] The Respondent’s further alternative argument is that the purported transfer of pharmaceuticals to the CKF does not qualify as a gift because the Appellant did not have a “donative intent” to make a gift to charity.
+[91] The requirement for donative intent derives from the case law meaning of a “gift” (noted above) as “a voluntary transfer of property by a donor to a donee in return for which no benefit or consideration flows to the donor”.[91]
+[92] The Respondent submits there are two reasons the Appellant lacked donative intent. First, the Appellant “knew he would profit or be enriched by participation in the CHT arrangement”[92]. Stated numerically, the Appellant parted with $14,612 in cash, received tax receipts from charities with a total purported donated amount of $58,741, resulting in a claim for tax credits of $23,563 or a “net advantage” of $8,951(measured as the amount of the tax credit less the cash donated).[93]
+[93] Second, the Respondent alleges that Mr. Parker lacked donative intent because, as Mr. Parker testified, his motive in participating in the CHT Arrangement was to reduce his taxes.[94] Mr. Parker agreed with the assumption in the Respondent’s Reply (para 12.64) that he “entered into the CHT Arrangement to secure a tax benefit exceeding the value of the cash payment and not to make a charitable gift to a registered Canadian charity”. The Respondent did not refer to any case law in support of its submission on donative intent.
+[94] The issue of whether the taxpayer had “donative intent” arose in Morrison although the context was different. In Morrison, both the cash donation and the in-kind donation for the CHT Arrangement were in issue. The Tax Court considered whether the “inflated tax receipt” for the CHT in-kind donation vitiated Mr. Morrison’s donative intent with respect to the CHT cash donation. The Tax Court cited Castro[95], a decision of the Federal Court of Appeal, in support of the proposition that the inflated tax receipt for Mr. Morrison’s alleged in-kind donation was not, in and of itself, a benefit that would vitiate the cash gift. The Tax Court acknowledged that an inflated tax receipt coupled with other circumstances may negate the entitlement to a tax credit, but found that those other circumstances did not exist. The Federal Court of Appeal in Eisbrenner did not address the issue of donative intent as it was not raised on appeal.
+[95] Here, the issue is potentially different from that considered by the Tax Court in Morrison in respect of the CHT Arrangement as a charitable tax credit for Mr. Parker’s cash donation was allowed. There is no longer an issue as to whether an inflated tax receipt for the purported in-kind donation vitiates the cash donation as a gift.
+[96] The only issue that remains is the purported in-kind donation and the Respondent’s argument on “donative intent” does not acknowledge this fact. Even if the Respondent were to argue that the Appellant lacked donative intent with respect to the in-kind donation, because the Appellant knew that he would profit from that donation by receiving an “inflated” tax receipt, further evidence on the value of the purported in-kind donation and submissions on the relevant law would be required.
+[97] In light of the Respondent’s failure to do so and my conclusion on the Respondent’s other arguments that are each sufficient to dispose of this appeal, I have not considered whether, if the Pharmaceuticals had been transferred to CKF, the Appellant lacked “donative intent” such that there was no gift.
+(g) Judicial Comity
+[98] The Respondent argues that under the principles of judicial comity, I should follow the decision of Justice Owen in Morrison, unless there is a cogent reason to depart from that decision. They argue that because Mr. Morrison and Mr. Parker both participated in the CHT Arrangement, the present case should have the same result.
+[99] The Federal Court of Appeal summarized this legal concept In Canada (Citizenship and Immigration) v. Kassab:[96]
+35 The doctrine of judicial comity operates to prevent the same legal issue from being decided differently by members of the same Court - the doctrine promotes certainty and predictability in the law. The doctrine is a manifestation of the principle of stare decisis. The Federal Court has applied the doctrine, holding that while decisions rendered by colleagues are persuasive and should be given considerable weight, a departure is authorized when a judge is convinced that the prior decision is wrong and can advance cogent reasons in support of this view (Allergan Inc. v. Canada (Minister of Health), 2012 FCA 308, 440 N.R. 269 (F.C.A.) at paragraph 47, citing dela Fuente v. Canada (Minister of Citizenship & Immigration), 2005 FC 992, 276 F.T.R. 241 (F.C.), at paragraph 29 and Stone v. Canada (Attorney General), 2012 FC 81, 404 F.T.R. 104 (F.C.), at paragraph 12).
+[100] As reflected in Kassab, judicial comity relates to “the same legal issue”, and not findings of fact which must clearly be determined exclusively on the basis of the evidence before the trial judge. In this matter, I do not rely on judicial comity because I am bound, due to the pure application of stare decisis, by the Federal Court of Appeal’s decision in Eisbrenner, with respect to the legal issues decided in that case.
+[101] As already noted, I have followed the guidance in Eisbrenner with respect to the preliminary legal issues of the admissibility of evidence and the role of assumptions. Whether the Appellant transferred property is a question of fact, which I have determined on the basis of the evidence before me. My conclusions on all three issues are consistent with the Tax Court ’s conclusions in Morrison. The issue regarding donative intent is different than what was before the Court in Morrison and I did not make a determination. The validity of the CKF Receipt was not before the Court in Morrison or Eisbrenner.
+VI. CONCLUSION
+[102] For the foregoing reasons, the Appellant’s appeal is dismissed, without costs.
+Signed at Toronto, Ontario, this 8th day of June 2023.
+“Monica Biringer”
+Biringer J.
+Appendix: Statutory Provisions (as in 2006)
+Income Tax Act, RSC 1985, c 1 (5th Supp.), as amended
+Definitions
+118.1 (1) In this section,
+total charitable gifts of an individual for a taxation year means the total of all amounts each of which is the fair market value of a gift (other than a gift the fair market value of which is included in the total Crown gifts, the total cultural gifts or the total ecological gifts of the individual for the year) made by the individual in the year or in any of the 5 immediately preceding taxation years (other than in a year for which a deduction under subsection 110(2) was claimed in computing the individual’s taxable income) to
+(a) a registered charity,
+(b) a registered Canadian amateur athletic association,
+(c) a housing corporation resident in Canada and exempt from tax under this Part because of paragraph 149(1)(i),
+(d) a Canadian municipality,
+(e) the United Nations or an agency thereof,
+(f) a university outside Canada that is prescribed to be a university the student body of which ordinarily includes students from Canada,
+(g) a charitable organization outside Canada to which Her Majesty in right of Canada has made a gift during the individual’s taxation year or the 12 months immediately preceding that taxation year, or
+(g.1) Her Majesty in right of Canada or a province, to the extent that those amounts were,
+(h) not deducted in computing the individual’s taxable income for a taxation year ending before 1988, and
+(i) not included in determining an amount that was deducted under this section in computing the individual’s tax payable under this Part for a preceding taxation year; (total des dons de bienfaisance)
+…
+Proof of gift
+(2) A gift shall not be included in the total charitable gifts, total Crown gifts, total cultural gifts or total ecological gifts of an individual unless the making of the gift is proven by filing with the Minister.
+(a) a receipt for the gift that contains prescribed information;
+(b) in the case of a gift described in the definition total cultural gifts in subsection (1), the certificate issued under subsection 33(1) of the Cultural Property Export and Import Act; and
+(c) in the case of a gift described in the definition total ecological gifts in subsection (1), both certificates referred to in that definition.
+Deduction by individuals for gifts
+(3) For the purpose of computing the tax payable under this Part by an individual for a taxation year, there may be deducted such amount as the individual claims not exceeding the amount determined by the formula
+A × B + C × D + E × F
+where
+A
+is the appropriate percentage for the year;
+B
+is the lesser of $200 and the individual’s total gifts for the year;
+C
+is the highest individual percentage for the year;
+D
+is
+(a) in the case of a trust (other than a graduated rate estate or a qualified disability trust as defined in subsection 122(3)), the amount, if any, by which its total gifts for the year exceeds $200, and
+(b) in any other case, the lesser of
+o(i) the amount, if any, by which the individual’s total gifts for the year exceeds $200, and
+o(ii) the amount, if any, by which the individual’s amount taxable for the year for the purposes of subsection 117(2) exceeds the first dollar amount for the year referred to in paragraph 117(2)(e);
+E
+is 29%; and
+F
+is the amount, if any, by which the individual’s total gifts for the year exceeds the total of $200 and the amount determined for D.
+Income Tax Regulations, CRC c 945, as amended
+PART XXXV
+Receipts for Donations and Gifts
+Interpretation
+3500 In this Part,
+employees’ charity trust means a registered charity that is organized for the purpose of remitting, to other registered charities, donations that are collected from employees by an employer; (fuducie de bienfaisance d’employés)
+official receipt means a receipt for the purposes of subsection 110.1(2) or (3) or 118.1(2), (6) or (7) of the Act, containing information as required by section 3501 or 3502; (reçu officiel)
+official receipt form means any printed form that a registered organization or other recipient of a gift has that is capable of being completed, or that originally was intended to be completed, as an official receipt by it; (formule de reçu officiel)
+other recipient of a gift means a person, to whom a gift is made by a taxpayer, referred to in any of subparagraphs 110.1(1)(a)(iii) to (vii), paragraphs 110.1(1)(b) and (c), subparagraph 110.1(3)(a)(ii), paragraphs (c) to (g) of the definition total charitable gifts in subsection 118.1(1), the definition total Crown gifts in subsection 118.1(1), paragraph (b) of the definition total cultural gifts in subsection 118.1(1) and paragraph 118.1(6)(b) of the Act; (autre bénéficiaire d’un don)
+registered organization means a registered charity, a registered Canadian amateur athletic association or a registered national arts service organization. (organisation enregistrée)
+Contents of Receipts
+3501 (1) Every official receipt issued by a registered organization shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
+(a) the name and address in Canada of the organization as recorded with the Minister;
+(b) the registration number assigned by the Minister to the organization;
+(c) the serial number of the receipt;
+(d) the place or locality where the receipt was issued;
+(e) where the donation is a cash donation, the day on which or the year during which the donation was received;
+(e.1) where the donation is a gift of property other than cash
+(i) the day on which the donation was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the day on which the receipt was issued where that day differs from the day referred to in paragraph (e) or (e.1);
+(g) the name and address of the donor including, in the case of an individual, his first name and initial;
+(h) the amount that is
+(i) the amount of a cash donation, or
+(ii) where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made; and
+(i) the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge donations.
+(1.1) Every official receipt issued by another recipient of a gift shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
+(a) the name and address of the other recipient of the gift;
+(b) the serial number of the receipt;
+(c) the place or locality where the receipt was issued;
+(d) where the donation is a cash donation, the day on which or the year during which the donation was received;
+(e) where the donation is a gift of property other than cash,
+(i) the day on which the donation was received,
+(ii) a brief description of the property, and
+(iii) the name and address of the appraiser of the property if an appraisal is done;
+(f) the day on which the receipt was issued where that day differs from the day referred to in paragraph (d) or (e);
+(g) the name and address of the donor including, in the case of an individual, his first name and initial;
+(h) the amount that is
+(i) the amount of a cash donation, or
+(ii) where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made; and
+(i) the signature, as provided in subsection (2) or (3.1), of a responsible individual who has been authorized by the other recipient of the gift to acknowledge donations.
+(2) Except as provided in subsection (3) or (3.1), every official receipt shall be signed personally by an individual referred to in paragraph (1)(i) or (1.1)(i).
+(3) Where all official receipt forms of a registered organization are
+(a) distinctively imprinted with the name, address in Canada and registration number of the organization,
+(b) serially numbered by a printing press or numbering machine, and
+(c) kept at the place referred to in subsection 230(2) of the Act until completed as an official receipt,
+the official receipts may bear a facsimile signature.
+(3.1) Where all official receipt forms of another recipient of the gift are
+(a) distinctively imprinted with the name and address of the other recipient of the gift,
+(b) serially numbered by a printing press or numbering machine, and
+(c) if applicable, kept at a place referred to in subsection 230(1) of the Act until completed as an official receipt,
+the official receipts may bear a facsimile signature.
+(4) An official receipt issued to replace an official receipt previously issued shall show clearly that it replaces the original receipt and, in addition to its own serial number, shall show the serial number of the receipt originally issued.
+(5) A spoiled official receipt form shall be marked “cancelled” and such form, together with the duplicate thereof, shall be retained by the registered organization or the other recipient of a gift as part of its records.
+(6) Every official receipt form on which
+(a) the day on which the donation was received,
+(b) the year during which the donation was received, or
+(c) the amount of the donation,
+was incorrectly or illegibly entered shall be regarded as spoiled.
+Tax Court of Canada Act, RSC 1985, c T-2
+Hearing
+18.15 (3) Notwithstanding the provisions of the Act under which the appeal arises, the Court is not bound by any legal or technical rules of evidence in conducting a hearing and the appeal shall be dealt with by the Court as informally and expeditiously as the circumstances and considerations of fairness permit.
+CITATION:
+2023 TCC 83
+COURT FILE NO.:
+2015-99(IT)I
+STYLE OF CAUSE:
+RODERIC PARKER v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+January 25, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Monica Biringer
+DATE OF JUDGMENT:
+June 8, 2023
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Robert Zsigo
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+n/a
+Firm:
+n/a
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] 2018 TCC 220 [Morrison].
+[2] Ibid at para 153.
+[3] 2020 FCA 93 [Eisbrenner].
+[4] Pages 59 - 60 of the Transcript.
+[5] These Tabs are identified as being part of Exhibit R-2.
+[6] RSC 1985, c 1 (5th Supp.), as amended.
+[7] See Reply at paras 15 - 22.
+[8] Pages 199 - 204 of the Transcript.
+[9] Pages 186 - 190 of the Transcript.
+[10] Pages 193 - 198 of the Transcript.
+[11] Pages 191 - 192 of the Transcript.
+[12] Eisbrenner, supra note 3.
+[13] Page 16 of the Transcript.
+[14] Exhibit R-5, Cyprus Banking Documents. The same documents were admitted in the Morrison hearing as Exhibit R-43.
+[15] Exhibit R-6, Pharmaceutical Manufacturing Invoices. The same documents were admitted in the Morrison hearing as Exhibit R-42.
+[16]Exhibit R-2, Tab M CHT 2004, 2005 and 2006 Combined Cash Analysis and Tab N KPI Cash Flow. Two summaries were admitted in the Morrison hearing as Exhibit R-30, Offshore Transfer of Funds and Exhibit R-40, Flowchart of KPI Funds. See page 1368 of the Transcript (Vol 12) in Morrison [Morrison Transcript].
+[17] At the hearing, Mr. Monahan was asked: “Q. … are these the same banking records that you submitted as exhibits at the Morrison trial? A. Yes.” (pages 117-118 of the Transcript). Tab N is substantially similar to Exhibit R-40 in Morrison. The Respondent’s counsel submitted that “at Tab M ... This table … was also an exhibit that was put before Justice Owen and was relied upon.” (page 121 of the Transcript). Tab M is not similar to Exhibit R-30 in Morrison.
+[18] Pages 117 - 118 and 124 of the Transcript.
+[19] Page 130 of the Transcript.
+[20] At page 130 of the Transcript, Mr. Monahan testified that “no more than about 10 or 11 million … of the 116 million dollars was actually funneled to a legitimate pharmaceutical company”. At page 142 of the Transcript, the Respondent’s counsel submits that “[s]ome money that went to KPI certainly may have gone to manufacturers of pharmaceuticals who then perhaps shipped pharmaceuticals directly to some developing country” and that “the theory here isn’t that absolutely not, zero pharmaceuticals were purchased”.
+[21] Pages 140, 141 and 145 of the Transcript.
+[22] Page 145 of the Transcript.
+[23] Pages 98 - 101, 103 -105, and 108 - 111 of the Transcript.
+[24] Pages 117 - 118 and 124 - 130 of the Transcript.
+[25] Pages 104, 106, 108, 111 and 115 of the Transcript.
+[26] Page 130 of the Transcript.
+[27] Pages 1362 - 1375 of the Morrison Transcript.
+[28] Pages 47 and 103 of the Morrison Transcript.
+[29] Pfizer Canada Inc. v. Teva Canada Limited at para 93.
+[30] Page 124 of the Transcript.
+[31] Page 136 of the Transcript.
+[32] Pages 1364 and 1367 of the Morrison Transcript.
+[33] Eisbrenner, supra note 3 at paras 59-60.
+[34] R v. MC, 2012 ONSC 868 at para 11; R v. Abbey, 2009 ONCA 624 at paras 82-83; R v. Mohan, 1994 SCC 80 at para 22.
+[35] Pages 1367-1368 of Transcript.
+[36] Eisbrenner, supra note 3 at para 59-65.
+[37] Pages 177 – 183 of the Transcript.
+[38] The principled exception to the hearsay rule is established by the Supreme Court of Canada through a line of cases: Ares v. Venner, [1970] SCR 608; R v. Khan, [1990] 2 SCR 531 (SCC); R v. Smith, [1992] 2 SCR 915 (SCC); R v. B (KG), [1993] 1 SCR 740 (SCC); R v. Hawkins, [1996] 3 SCR 1043 (SCC); and R v. Starr, [2000] 2 SCR 144 (SCC).
+[39] R v. Wilcox, 2001 NSCA 45 at para 66 [Wilcox].
+[40] R v. Lemay, 2004 BCCA 604 at para 50 [Lemay].
+[41] R v. Wilcox, supra note 39, at para 72.
+[42] R. v. B (KG), [1993] 1 SCR 740 (SCC), at 796 – 797.
+[43] Eisbrenner, supra note 3 para 57.
+[44] Eisbrenner, supra note 3 at para 65.
+[45] Wilcox, supra note 39.
+[46] Lemay, supra note 40.
+[47] Wilcox, supra note 39, at para 67.
+[48] Page 1374 of the Transcript in Morrison (Vol 12) May 14, 2018.
+[49] [1978] OJ No 888(ONCA); see also Myatovic, Re 2012 IIROC 47 (Can IIRO); R v. Ajise, 2018 ONCA 494.
+[50] Pages 1368, 1375, 1379 and 1381 of the Morrison Transcript.
+[51] Selmeci v. Canada, 2002 FCA 293.
+[52] Ibid at para 8.
+[53] R v. Khan, [1990] 2 SCR 531 (SCC), [1990] SCJ No 81.
+[54] Morrison, supra note 1 at paras 65-110.
+[55] Eisbrenner, supra note 3 at paras 24-52.
+[56] Eisbrenner, supra note 3 at para 47; Sarmadi v Canada, 2017 FCA 131 at para 19.
+[57] Eisbrenner, supra note 3 at paras 47-48.
+[58] [1997] 2 SCR 336, [1997] SCJ No 62.
+[59] 2022 FCA 66 (CanLII).
+[60] 2009 FCA 139.
+[61] Transocean Offshore Ltd. v. R, 2005 FCA 104 at para 35; Anchor Pointe Energy Ltd. v. R, 2007 FCA 188 at para 36.
+[62] Morrison, supra note 1 at para 117.
+[63] The full text of Regulation 3500 and 3501 is set out in the Appendix.
+[64] Afovia c. R, 2012 TCC 391; 9228-2987 Québec Inc c. La Reine, 2019 TCC 281; Guobadia v. R, 2016 TCC 182.
+[65] Kueviakoe v. Canada, 2021 FCA 64 [Kueviakoe]; Castro v. R, 2015 FCA 225.
+[66] Sowah v. The Queen, 2013 TCC 297 at para 19, aff'd 2015 FCA 103; Bope v. The Queen, 2015 TCC 120 at paras 17-18; Okafor v. The Queen, 2018 TCC 31 at paras 20-22.
+[67] Kueviako, supra note 65 at para 20, quoting from Plante v. R, [2018] TCJ No 20, [1999] 2 CTC 2631.
+[68] Exhibit R-1; tax filing page 65.
+[69] Kueviakoe supra note 65 at para 15.
+[70] Ibid.
+[71] The full text of subsection 118.1(3) and definitions in subsection 118.1(1) are set out in the Appendix.
+[72] Friedberg v. R, 92 DTC 6031 (FCA) at 6032, [1991] FCJ No 1255 [Friedberg]; Marechaux v. R, 2010 FCA 287; Kossow v. R, 2013 FCA 283.
+[73] Friedberg, ibid at 6032.
+[74] 2011 ON CA 533.
+[75] Cochrane v. Moore (1890), 25 QBD 57 (CA), at pp. 72-73; Mary Jane Mossman and William F. Flanagan, Property Law: Cases and Commentary (Toronto: Emond Montgomery, 1998), at p. 441; Bruce Ziff, Principles of Property Law, 5th ed (Toronto: Carswell, 2010), at p 157.
+[76] Mariano v. R, 2015 TCC 244.
+[77] Pages 199 - 204 of the Transcript.
+[78] Page 52 of the Transcript.
+[79] Exhibit R-2, Tab G.
+[80] Exhibits A-24, A-29 and R-20 in Morrison/Eisbrenner.
+[81] Eisbrenner, supra note 3 at para 74.
+[82] Page 133 of the Transcript.
+[83] Page 134 of the Transcript.
+[84] Page 135 of the Transcript.
+[85] Page 136 of the Transcript.
+[86] Page 139 of the Transcript.
+[87] Pages 141 - 142 of the Transcript.
+[88] Pages 144 - 145 of the Transcript.
+[89] Morrison, supra note 1 at para 153.
+[90] Eisbrenner, supra note 3 at para 74.
+[91] Friedberg, supra note 72 at 6032.
+[92] Reply at para 15.2.
+[93] Reply at para 13.6.
+[94] Transcript page 45, lines 1-11.
+[95] Canada v. Castro, 2015 FCA 225 [Castro].
+[96] 2020 FCA 10 [Kassab].

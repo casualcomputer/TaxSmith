@@ -1,0 +1,188 @@
+---
+title: "Hamilton v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30079/index.do"
+last_modified: "2010-11-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 591"
+citation2: ""
+neutral_citation: "2010 TCC 591"
+decision_date: "2010-11-17"
+language: "en"
+item_id: "30079"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7607
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T01:50:46.422000+00:00"
+cases_cited_count: 9
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f2c12211713c7d2a4fef0af08eb951fb35211ea6194c224c5255fb21928ea1f0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hamilton v. The Queen
+
+- Citation: 2010 TCC 591
+- Decision date: 2010-11-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7607, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hamilton v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-11-17
+Neutral citation
+2010 TCC 591
+File numbers
+2009-2304(IT)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-2304(IT)I
+BETWEEN:
+DALE V. HAMILTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Dale V. Hamilton
+(2009-1964(GST)I) on July 5 & 6, 2010, at Halifax, Nova Scotia.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the appellant:
+Daniel F. Wallace
+Counsel for the respondent:
+Melanie Petrunia
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act with respect to the appellant’s 2005 taxation year is allowed in part, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 17th day of November 2010.
+"Patrick Boyle"
+Boyle J.
+Docket: 2009-1964(GST)I
+BETWEEN:
+DALE V. HAMILTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Dale V. Hamilton
+(2009-2304(IT)I) on July 5 & 6, 2010, at Halifax, Nova Scotia.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Counsel for the appellant:
+Daniel F. Wallace
+Counsel for the respondent:
+Melanie Petrunia
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated March 10, 2009, for the period from March 31, 2004 to December 31, 2005, is allowed in part, without costs, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment attached hereto.
+Signed at Ottawa, Canada, this 17th day of November 2010.
+"Patrick Boyle"
+Boyle J.
+Citation: 2010 TCC 591
+Date: 20101117
+Dockets: 2009-2304(IT)I
+2009-1964(GST)I
+BETWEEN:
+DALE V. HAMILTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Boyle J.
+[1] These informal income tax and harmonized sales tax (“HST”) appeals were heard together in Halifax. They involved a net worth assessment of the taxpayer’s 2005 taxation year. Mr. Hamilton is a self‑employed business operator so this resulted in the reassessment of income tax for 2005 and the assessment of additional HST for 2004 and 2005, together with penalties in respect of both the underreported income and the HST.
+I. Concessions by the Parties
+[2] At the opening of trial the respondent made the following concessions to the amounts under appeal:
+1) The business assets should be adjusted by $1,000 to reflect that the land in question sold for $23,000 not $22,000;
+2) There was a $1,265 misstated increase in liability in respect of a Farm Credit loan;
+3) In 2004 there should be additional HST input tax credits (“ITCs”) allowed in the amount of $3,123.37 as satisfactory receipts had been produced pre‑trial;
+4) In 2005 there should be additional HST ITCs allowed in the amount of $2,814.86 as satisfactory receipts had been produced pre‑trial; and
+5) Penalties and interest to be adjusted in respect of 1) through 4) above.
+[3] During the course of the trial, the Crown conceded that the business use of part of the home issue was not relevant.
+[4] During the course of the trial, the taxpayer conceded the ITC issue associated with the Volvo truck.
+II. Facts/History
+[5] Mr. Hamilton was engaged in the logging business on his own account. In addition he occasionally hauled gravel. (He was not involved in gravel sales or welding repair activities in the years in question.) In his logging activities, Mr. Hamilton generally took care of everything himself, starting with standing trees and ending with logs delivered to the mills. He would also haul other people’s logs for sales to the mills. The larger mills paid by cheque. Mr. Hamilton would at times employ log cutters to fell trees on his account.
+[6] Mr. Hamilton is an HST registrant. Mr. Hamilton uses both an outside accountant and an outside bookkeeper in connection with his businesses and their tax compliance.
+[7] Mr. Hamilton was audited for 2004 and 2005, in part because he was reporting business losses that were significant compared to his modest investment income resulting in losses in the tens of thousands of dollars. Also, it was apparent that he was in a business where many of his receipts and expenses were in cash.
+[8] At the outset of the audit, the Canada Revenue Agency (“CRA”) auditor, Ms. Amanda Dawn Stright, had an initial meeting with Mr. Hamilton’s accountant at the accountant’s office. She also attended on the bookkeeper to locate books and records. She then attended at Mr. Hamilton’s residence to look at his books and his business assets. That meeting was relatively short. She was asked to leave at the point where she inquired for his books and records and expressed an interest in how he carried on financially if he lost money from his business activities and had no other source of income. She left before being given access to his records. In her words she was asked to leave. In Mr. Hamilton’s words, when she began inquiring about justifying his reported losses, he pointed to the door and told the auditors they could walk through it or be thrown through it and that they would not be getting the records without a court order.
+[9] Ms. Stright, denied access to records, returned to the office and, based upon the financial information and records she had from the tax filings, the accountant and the bookkeeper, completed a net worth assessment. She issued a net worth assessment in a seemingly outrageous amount that sounded prima facie unreasonable given what she knew of Mr. Hamilton’s business activities and his standard of living. I have no doubt that she did it in compliance with the CRA’s guidelines and policies however, even though she may have had the right to reassess at that level, I doubt that it was the right thing to do. My sense of this is confirmed by the fact that on objection, the appeals officer promptly reduced the amounts by over two‑thirds.
+[10] As it turns out, Mr. Hamilton in fact kept lots of records associated with his revenues and his expenses even though some of his revenues were in cash and most of his expenses, business and personal, were paid in cash. By the time of hearing, the taxpayer had been able to explain to the CRA’s satisfaction approximately 90% of his cash withdrawals against receipted expenses. Hence, to a considerable extent Mr. Hamilton is the author of his own tax misfortune and most of his complaints reflect back on him. He certainly behaved very poorly at the initial audit level in his refusal to provide books and records adequate to substantiate his tax filings.
+[11] The principal components of the HST assessments involves whether HST was chargeable in respect of a sale by Mr. Hamilton of a piece of land and his failure to have the necessary HST registration number of some of his suppliers, principally his subcontracted loggers.
+III. Law
+[12] In Hsu v. The Queen, 2001 FCA 240, 2001 DTC 5459, the Federal Court of Appeal wrote:
+Net worth assessments are a method of last resort, commonly utilized in cases where the taxpayer refuses to file a tax return, has filed a return which is grossly inaccurate or refuses to furnish documentation which would enable Revenue Canada to verify the return (V. Krishna, The Fundamentals of Canadian Income Tax Law, 5th ed. (Toronto: Carswell, 1995) at 1089). The net worth method is premised on the assumption that an appreciation of a taxpayer's wealth over a period of time can be imputed as income for that period unless the taxpayer demonstrates otherwise (Bigayan, supra, at 1619). Its purpose is to relieve the Minister of his ordinary burden of proving a taxable source of income. The Minister is only required to show that the taxpayer's net worth has increased between two points in time. In other words, a net worth assessment is not concerned with identifying the source or nature of the taxpayer's appreciation in wealth. Once an increase is demonstrated, the onus lay entirely with the taxpayer to separate his or her taxable income from gains resulting from non-taxable sources (Gentile v. The Queen, [1988] 1 C.T.C. 253 at 256 (F.C.T.D.)).
+By its very nature, a net worth assessment is an arbitrary and imprecise approximation of a taxpayer's income. Any perceived unfairness relating to this type of assessment is resolved by recognizing that the taxpayer is in the best position to know his or her own taxable income. Where the factual basis of the Minister's estimation is inaccurate, it should be a simple matter for the taxpayer to correct the Minister's error to the satisfaction of the Court.
+[13] I gave a detailed outline of the structure of net worth assessment in Altimimi v. The Queen, 2007 TCC 553, [2008] 2 C.T.C. 2001.
+[14] In challenging a net worth assessment, taxpayers have two available approaches. The first is to demonstrate that the taxpayer did keep adequate books and records which allow his income or loss to be adequately determined to the Court’s satisfaction. The alternative is to dispute on appeal particular components of the net worth assessment. In this case, although Mr. Hamilton kept a lot of records and receipts, they did not in total substantiate his reported loss and he had significant cash revenues and expenses which could not be fully corroborated by the records produced. The taxpayer’s approach was therefore to challenge particular elements of the net worth assessment.
+[15] The law relating to the corroborating documentation and information required to substantiate input tax credits for HST purposes, and the absolute requirement that the GST/HST registration number of a supplier be known in order to qualify for an ITC, in accordance with paragraph 169(4)(a) of the GST/HST legislation and section 3 of the Input Tax Credit Information (GST/HST) Regulations, has been fully described by the Federal Court of Appeal in Systematix Technology Consultants Inc. v. Canada, 2007 FCA 226, [2007] G.S.T.C. 74, and in this Court’s decision in Comtronic Computer Inc. v. The Queen, 2010 TCC 55, [2010] G.S.T.C. 13.
+IV. Legal and Survey Fees
+[16] The evidence satisfies me that the legal fees and survey costs associated with the land sale in 2005 were expenditures made by Mr. Hamilton in 2005 and should therefore be reflected in the 2005 net worth assessment computation and schedules. These are in the amount of $2,619.
+V. Farm Credit Loan
+[17] After the hearing, submissions were received from appellant’s counsel raising a new argument in respect of a possible interpretation of one page in each of two of the documents put into evidence. Each of these is in the respondent’s book of exhibits. Taxpayer’s counsel seeks to use these two documents, one prepared as a schedule by the CRA to the net worth computation and the other having been prepared by Farm Credit Canada, to show that the CRA wrongly characterized an $18,000 Farm Credit advance as a 2004 advance when the advance was actually received by Mr. Hamilton in 2005. In addition counsel seeks to enter new evidence to support his interpretation.
+[18] Neither the taxpayer nor the appellant’s counsel were able to remember this Farm Credit loan when asked at the trial on more than one occasion if there was a loan received in 2005 that might explain the reported loss.
+[19] This is not a case in which the evidence should be reopened to allow further evidence. If new evidence were accepted it would require a further hearing date be set aside to deal with matters that are already in the evidence, albeit inconsistently and albeit the taxpayer and his counsel did not seek to rely upon the document that is arguably favourable to them in evidence or in argument, in order to permit the CRA to introduce new rebuttal evidence regarding how the CRA schedule was prepared. This appears to be a case of an appellant seeking to infill a case after the hearing ended. This would add costs and delay to everyone involved to deal with a point that could have been raised in argument based upon the evidence before the Court. I am not at all satisfied that this would be a proper case to allow additional evidence to be entered and I am therefore not considering the additional document submitted by taxpayer’s counsel.
+[20] With respect to the new argument that the two documents are inconsistent, I see no reason in this case to give the benefit of the doubt to the interpretation favourable to the taxpayer. The inconsistency was identifiable at the time of the trial and consideration should have been given to introducing more evidence, oral or documentary, to clarify the point. In fact, quite the contrary, neither the taxpayer nor his counsel could either remember or had identified this possible receipt of the cash advance under a 2004 loan in 2005 despite the extensive bank record reconciliations that clearly had been undertaken in preparation for trial.
+[21] I am not satisfied on the evidence before the Court that any change needs to be made to the net worth assessments to reflect this particular Farm Credit loan.
+[22] I am also cognisant of the fact that, if the loan amount had been advanced in 2005 instead of 2004, this would have had an equivalent effect in the opposite direction for the 2004 income tax audit which was also completed on a net worth basis which in turn would have had an impact on the 2004 HST issues which are before this Court.
+VI. ITCs and HST Registration Numbers
+[23] There is nothing this Court can do to permit Mr. Hamilton ITCs in respect of any supplies where he could not meet the mandated statutory requirements for information in respect of the supplier, including its GST/HST registration number. This is clear from the interpretation given to this part of the GST/HST legislation by the Federal Court of Appeal in Systematix, above. This information is required under paragraph 169(4)(a) of the GST/HST legislation and section 3 of the Input Tax Credit Information (GST/HST) Regulations.
+VII. ITCs on Land Sale
+[24] I find on the evidence that it is clear that the house on the land sold satisfies the definition of residential unit in section 123 of the GST/HST legislation by virtue of being a detached house that, at the time of sale, was vacant but was last occupied as a place of residence for individuals. The house and the land therefore constitute a residential complex as defined in that section. The portion of the lot that he sold together with the house was attributable to the use of the house and was reasonably necessary for its use and enjoyment as a place of residence for individuals. For that reason it was an exempt supply by virtue of the rules in Schedule V‑I‑2 of the GST/HST legislation in respect of used residential properties. No HST is payable in respect of exempt supplies as it is excluded from the definition of commercial activity and hence from the definition of taxable supply, both in subsection 123(1).
+VIII. No Other Income Tax or HST Changes
+[25] Based upon the evidence, I am not satisfied that there is any need for any other changes to the income tax and HST assessed. The taxpayer has not satisfied the Court with satisfactory credible evidence to otherwise challenge his cash flows and changes in net worth. He has not put forward a reasonable and credible challenge to any other aspects of the net worth assessment’s underlying figures and computations. In common sense terms, he has not been able to explain away his reported losses as a period during which he either lived partly off past savings or new loans.
+IX. Penalties
+[26] Gross negligence penalties were assessed in respect of both the income tax and HST assessments.
+[27] The respondent has the burden of establishing the facts justifying the imposition of these penalties. The standard of proof required is a balance of probabilities. There is no greater standard of proof applicable because a penalty assessment is involved.
+[28] In order for the penalties to be upheld, the respondent must show that Mr. Hamilton made false statements or omissions either knowingly or under circumstances amounting to gross negligence. Gross negligence involves a high degree of negligence tantamount to intentional acting, an indifference to whether the law is complied with or not: Venne v. The Queen, 84 DTC 6247 (FCTD). Generally, the Minister will not be considered to have met this standard of proof if a taxpayer’s conduct is consistent with two viable and reasonable hypotheses, one justifying the penalty and one not: see the Federal Court of Appeal in Panini v. Canada, 2006 FCA 224, 2006 DTC 6450, and the Tax Court of Canada in Farm Business Consultants Inc. v. The Queen, [1994] T.C.J. 760, 95 DTC 200, and Harris v. The Queen, 2005 TCC 501, 2005 DTC 1179.
+[29] With respect to the remaining penalties on the underreported amounts for income tax purposes, the taxpayer has not put forward a viable and reasonable hypothesis which would explain them. These are not insignificant amounts. The taxpayer knew he was dealing with large amounts of cash revenues and expenditures, and, importantly, he remained unable to explain how he survived losses from his income‑producing activities without either depleting investment assets or going into greater debt. Mr. Hamilton was at least grossly negligent with respect to the unreported revenue‑generating activities and transactions. For these reasons the penalties thereon are upheld.
+[30] With respect to the HST penalties, these can be broken down into two for purposes of analysing whether they were properly assessed. First, to the extent the HST penalties assessed relate to the underreported income for tax purposes, those penalties were appropriately assessed for the same reason as Mr. Hamilton’s failure to report the income. The transactions involved in the underreported income had direct HST consequences.
+[31] Second, with respect to the HST penalties in respect of the ITCs on supplies to him that are documented with invoices, receipts or records confirming payment to the payee and the nature of the services, which ITCs were disallowed solely by virtue of the absence of the supplier’s GST/HST registration number, the strict approach to the interpretation of these provisions in Systematix can result in unfairness to a purchaser who pays the HST in good faith. However, the HST remains payable. I do not think that Mr. Hamilton was either intentional or grossly negligent to the extent of having to pay the assessed penalties for the sole reason that he claimed ITCs on some of his invoiced supplies where those invoices did not include a valid GST/HST registration number. That could easily happen on occasion in Canadian businesses without constituting gross negligence. The respondent did not put the CRA penalty report in evidence nor did respondent’s counsel ask any substantive questions in chief of the CRA auditor who assessed the penalties while she was on the stand. In respect of these amounts only, the respondent has not satisfied its burden of proof to establish that the penalties assessed were warranted.
+[32] The appeal is allowed in part only as detailed above. In the circumstances, there will be no order as to costs.
+Signed at Ottawa, Canada, this 17th day of November 2010.
+"Patrick Boyle"
+Boyle J.
+CITATION: 2010 TCC 591
+COURT FILE NOS.: 2009-2304(IT)I, 2009-1964(GST)I
+STYLE OF CAUSE: DALE V. HAMILTON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATES OF HEARING: July 5 & 6, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: November 17, 2010
+APPEARANCES:
+Counsel for the appellant:
+Daniel F. Wallace
+Counsel for the respondent:
+Melanie Petrunia
+COUNSEL OF RECORD:
+For the appellant:
+Name: Daniel F. Wallace
+Firm: McInnes Cooper
+Halifax, Nova Scotia
+For the respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

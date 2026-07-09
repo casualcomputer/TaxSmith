@@ -1,0 +1,123 @@
+Title: Sarsonas v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30635/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-559-30635-sarsonas-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-12-08
+
+# Sarsonas v. The Queen
+
+- Citation: 2011 TCC 559
+- Decision date: 2011-12-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7129, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sarsonas v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-12-08
+Neutral citation
+2011 TCC 559
+File numbers
+2008-3718(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-3718(IT)I
+BETWEEN:
+SERGIO SARSONAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals called for hearing on October 24, 2011 and
+Appeals heard on October 25, 2011, at Toronto, Ontario
+Before: The Honourable Justice G. A. Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Erin Strashin
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeals from the reassessment under the Income Tax Act of the Appellant’s 2003, 2004 and 2006 taxation years are dismissed.
+Signed at Ottawa, Canada, this 8th day of December 2011.
+“G. A. Sheridan”
+Sheridan J.
+Citation: 2011TCC559
+Date: 20111208
+Docket: 2008-3718(IT)I
+BETWEEN:
+SERGIO SARSONAS,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan J.
+[1] The Appellant, Sergio Sarsonas, is one of a large group of taxpayers whose files were discovered among the records of a tax preparer who was ultimately convicted of selling charitable donation receipts to his clientele. During the years under appeal, Ambrose Danso-Dapaah[1] was carrying on business with an associate, George Gudu as ADD Accounting and/or Payless Tax (collectively,“Payless Tax”). Payless Tax charged its clients a fee for preparing their returns and a further 10% of the face value of any charitable donation receipts provided by Payless Tax.
+[2] This scheme was described by the Respondent’s witnesses, Barbara Lovie and Deborah Edyvean. They were involved in the investigation of Payless Tax undertaken by Canada Revenue Agency in 2006. Both were clear and precise in their testimony and I accept without hesitation their evidence. As of the date of this hearing, Ms. Lovie had been with the Canada Revenue Agency for some 35 years, 26 of which had been spent in Enforcement. According to her evidence, the quantum of false donation receipts issued by Payless Tax was approximately $21.6 million resulting in $6.2 million of non‑refundable tax credits for charitable donations.
+[3] The Appellant’s records were among those seized from Payless Tax including, in electronic and/or paper form, copies of tax returns, charitable donation receipt forms and client invoices. As a result, the Minister of National Revenue reassessed the Appellant’s 2003, 2004 and 2006 taxation years in which he had been initially allowed non-refundable tax credits for charitable donations of $4,000, $6,200 and $5,692, respectively. In so reassessing, the Minister assumed that none of these amounts had, in fact, been donated to the charities named in the receipts filed with the Appellant’s income tax returns. The Minister assumed further that rather than making a gift to the charities, the Appellant had merely purchased the ostensibly “official receipts” for 10% of the value shown therein.
+[4] The onus is on the Appellant to disprove these assumptions. In respect of the 2003 taxation year only, the reassessment was made after the normal reassessment period and accordingly, under subsection 152(4) of the Income Tax Act, the Minister bears the threshold onus of proving the reassessment was justified.
+[5] The Appellant represented himself and was the only witness to testify on his behalf. He was candid in his admission that Payless Tax had prepared his returns in 2003, 2004 and 2006, that he had claimed charitable donation deductions in the amounts assumed by the Minister and that he knew nothing about the charities involved. He denied, however, having paid Payless Tax only 10% of the face value of the charitable donation receipts issued to him. He claimed to have paid the full amounts in cash to Payless Tax to donate to charities recommended by Payless Tax.
+[6] Using the 2003 taxation year as an example, the Appellant said he had donated a total of $4,000 in cash to the CanAfrica International Foundation: $2,000 was paid to Payless Tax before his return was filed and the balance of $2,000, after he received the refund triggered by the filing of the charitable donation receipt. However, he had no receipts to show that he had made the cash payments to Payless Tax nor did he produce any bank statements or any other documents which might have substantiated the payment of these amounts.
+[7] Counterbalancing the Appellant’s testimony was the evidence of Ms. Lovie. Explaining that the Appellant’s records had been found among the material seized from Payless Tax, Ms. Lovie then identified a Payless Tax spreadsheet[2] listing the Appellant and his spouse as having donated $4,000 and $2,000, respectively, in 2003 together with a description of goods in-kind (toys, clothes, hardware). Also discovered were copies of “T-1 DON” forms for each[3] of these amounts and an invoice bearing the Appellant’s name only, the text of which reads:
+Re: Preparation of 2003 Personal Income Tax Return and related schedules.
+Tax Return Preparation Fee
+0.00
+reCEIPT (sic) $ 4,000.00
+400.00
+receIPT (sic) $ 2,000.00
+200.00
+Gross
+600.00
+Total
+600.00
+[8] Given what she knew about the Payless Tax charitable donation scheme and read in light of the returns and charitable donation receipts filed by the Appellant and his spouse, Ms. Lovie interpreted the invoice to mean that the Appellant had been billed $400 (representing 10% of the charitable donation of $4,000 he claimed in 2003) and $200 (10% of the $2,000 amount claimed by his spouse) for charitable donation receipts reflecting those amounts.
+[9] The Appellant offered no response to this analysis other than to insist he had paid the full $4,000 claimed. He said he was not sophisticated in tax matters and had relied completely on Payless Tax to do things properly. Notwithstanding the latter comment, he confirmed on cross-examination that he had provided to Payless Tax the figures reported in his returns and they were accurate as reproduced in the corresponding documents seized from Payless Tax.
+[10] Counsel for the Respondent also raised the issue of the Appellant having claimed a non-refundable Transit Pass tax credit of $1,092 in 2006. On cross‑examination, the Appellant denied having claimed it, insisting that he had taken his car to work that year and would not have had a bus pass. However, a review of his 2006 income tax return[4] showed that amount had been claimed. The Appellant said it had never been his intention to claim it and he had not realized Payless Tax had reported it in his return. In any event, he said he was not appealing that aspect of his 2006 taxation year.
+Analysis
+[11] The Respondent having conceded that at the time they were filed, the charitable donation receipts for 2003, 2004 and 2006 conformed to the requirements of the legislation, the only issue is whether the Appellant made a “gift” to a registered charity that would entitle him to claim non-refundable tax credits pursuant to section 118.1 of the Income Tax Act.
+[12] The word “gift” is not defined in the legislation. The leading case on the meaning of “gift” is The Queen v. Friedberg, 92 DTC 6031, where Linden J.A., at page 6032, defined “gift” as:
+… [A] gift is a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor …
+[13] Counsel for the Respondent also cited Coombs et al v. The Queen, 2008 DTC 4004, in which Woods J. listed the requisite elements of this definition as follows:
+[15] … First, it is necessary that the gifted property be owned by the donor, second that the transfer to the charity be voluntary, third that no consideration flow to the donor in return for the gift, and fourth that the subject of the gift be property, which distinguishes it from providing services to the charity. These elements reflect the general notion that a taxpayer must have a donative intent in regards to the transfer of property to the charity. [Emphasis added.]
+[14] In Webb v. The Queen, 2004 TCC 619, [2004] T.C.J. No. 453 at paragraph 16, Bowie J. enlarged on the notion of “donative intent”:
+[16] Much has been written on the subject of charitable donations over the years. The law, however, is in my view quite clear. I am bound by the decision of the Federal Court of Appeal in The Queen v. Friedberg, among others. These cases make it clear that in order for an amount to be a gift to charity, the amount must be paid without benefit or consideration flowing back to the donor, either directly or indirectly, or anticipation of that. The intent of the donor must, in other words, be entirely donative.
+[15] In my view, the Appellant has failed to establish that he made a “gift” as that term is understood in the jurisprudence in any of the taxation years under appeal. Even if I were to accept the Appellant’s story that he gave $4,000 to Payless Tax to donate to the CanAfrica International Foundation in 2003, the payment of that amount would not constitute a “gift” as the transfer of the cash was entirely contingent upon his receiving a tax deduction. But I doubt that is what happened. The Appellant admitted he knew nothing about any of the charities he supposedly donated to yet would have me believe he handed over a sizeable chunk of his rather modest after-tax income to them. His donation history was limited entirely to the years Payless Tax was filing his returns and running its charitable donation scam. As shown by the Transit Pass claim, the Appellant was, at best, not particularly careful in filing his returns. Even leaving aside the damning testimony of Ms. Lovie, his testimony is overall, simply not credible. Overall, I do not believe he made donations in the amounts claimed in any of the taxation years under appeal.
+[16] I do believe that it was thanks to the scoundrels at Payless Tax that the Appellant got himself into trouble. However, that does not diminish the fact that he knew he had not made the donations in question and yet was prepared to file his returns knowing them to contain false information. This is sufficient to justify the Minister’s reassessment of the 2003 taxation year after the normal reassessment period.
+[17] For the reasons set out above, the Appellant’s appeals of the 2003, 2004 and 2006 taxation years are dismissed.
+Signed at Ottawa, Canada, this 8th day of December 2011.
+“G. A. Sheridan”
+Sheridan J.
+CITATION: 2011TCC559
+COURT FILE NO.: 2008-3718(IT)I
+STYLE OF CAUSE: SERGIO SARSONAS AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 25, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice G. A. Sheridan
+DATE OF JUDGMENT: December 8, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Erin Strashin
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-3. Transcript of Sentencing Hearing of Ambrose Danso-Dapaah.
+[2] Exhibit R-4 at page 17.
+[3] Exhibits R-6 and 7, respectively.
+[4] Exhibit R-2 at Schedule 1.

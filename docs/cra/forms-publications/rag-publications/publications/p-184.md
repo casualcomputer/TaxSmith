@@ -1,0 +1,10 @@
+---
+title: "P-184 CANCELLED Credit Card Expenses and the Registrant's Use of Factors for Claiming Input Tax Credits"
+source: https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p-184.html
+last_modified: 2026-06-23
+---
+# P-184 CANCELLED Credit Card Expenses and the Registrant's Use of Factors for Claiming Input Tax Credits
+
+## Notice to the reader
+
+This publication has been cancelled as of 2026-06-23 and replaced with [GST/HST memoradum, 9-4 Reimbursements](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/9-4.html).

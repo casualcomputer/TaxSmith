@@ -1,0 +1,208 @@
+---
+title: "Matchett c. Le Roi"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521339/index.do"
+last_modified: "2024-10-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2024 CCI 133"
+citation2: ""
+neutral_citation: "2024 CCI 133"
+decision_date: "2024-10-11"
+language: "fr"
+item_id: "521339"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6045
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2025-05-19T11:36:01.920000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8a6c1834976b195a986390fef099e131a60daac2b9d3d1d0ecf1989554653916"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Matchett c. Le Roi
+
+- Citation: 2024 CCI 133
+- Decision date: 2024-10-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6045, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Matchett c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-10-11
+Référence neutre
+2024 CCI 133
+Numéro de dossier
+2020-1851(IT)I, 2021-3074(IT)I, 2021-3122(IT)I, 2023-288(IT)I
+Juges et Officiers taxateurs
+Susan Wong
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossiers : 2020-1851(IT)I
+2021-3074(IT)I
+2021-3122(IT)I
+2023-288(IT)I
+ENTRE :
+ALVIN D. MATCHETT,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 5 avril 2023, à Hamilton (Ontario).
+Devant : l’honorable juge Susan Wong
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimé :
+Me Terence Katerynych
+JUGEMENT
+Les appels nos 2020-1851(IT)I et 2021-3074(IT)I concernant respectivement les années d’imposition 2018 et 2019 sont rejetés sans dépens.
+L’appel no 2021-3122(IT)I pour l’année d’imposition 2020 est annulé sans dépens, au motif que l’avis d’appel du 14 décembre 2021 constitue l’avis d’opposition de l’appelant pour cette année.
+L’appel no 2023-288(IT)I pour l’année d’imposition 2021 est annulé sans dépens, au motif que les avis d’opposition et d’appel ont été produits avant la cotisation du 3 février 2023 et qu’ils étaient par conséquent invalides.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2024.
+« Susan Wong »
+La juge Wong
+Traduction certifiée conforme
+Ce 10e jour de mars 2025.
+Meriem Ramdani
+Référence : 2024 CCI 133
+Date : 20 241 011
+Dossiers : 2020-1851(IT)I
+2021-3074(IT)I
+2021-3122(IT)I
+2023-288(IT)I
+ENTRE :
+ALVIN D. MATCHETT,
+appelant,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Wong
+Introduction et aperçu
+[1] La question en litige dans le présent appel est de savoir si le ministre du Revenu national a refusé à juste titre le crédit pour personne entièrement à charge (également connu sous le nom de crédit « équivalent du montant pour conjoint » ou pour « personne à charge admissible ») à M. Matchett pour ses années d’imposition 2018 et 2019.
+Questions préliminaires
+[2] Les réponses relatives aux appels nos 2021-3122(IT)I et 2023-288(IT)I formulent les objections préliminaires suivantes :
+Pour 2021-3122(IT)I – l’appelant n’a pas produit d’avis d’opposition valable ni demandé de prorogation de délai à cet effet[1]. Plus particulièrement, le ministre du Revenu national a établi la cotisation de M. Matchett pour l’année d’imposition 2020 le 1er octobre 2021, lui a demandé des renseignements sur la demande de personne à charge admissible le 1er novembre 2021 et, au lieu de présenter une objection, il a interjeté appel devant la Cour le 14 décembre 2021[2].
+Pour 2023-288(IT)I – en ce qui concerne l’année d’imposition 2021, M. Matchett a produit un avis d’opposition au ministre le 27 janvier 2023 et un avis d’appel auprès de la Cour le 2 février 2023, qui ont tous deux précédé la ratification de la cotisation par le ministre le 3 février 2023[3].
+[3] Dans les deux cas, l’intimé a affirmé que les appels n’étaient pas valables, mais n’a pas produit d’affidavits à l’appui ni fait appel à des témoins à l’appui de sa requête en annulation.
+[4] Au cours des discussions avec M. Matchett et le conseil de l’intimé au début de l’audience, il est apparu clairement que M. Matchett ne contestait pas les délais et reconnaissait qu’il a entamé les appels devant cette Cour très tôt, par frustration. La Cour a expliqué à M. Matchett qu’il n’y a aucune exception à l’obligation de faire opposition avant de faire appel[4] ni au délai minimum légal de 90 jours[5] entre l’opposition et l’appel.
+[5] Pour poursuivre les deux appels valables : (1) sans compromettre le droit de M. Matchett de contester les années d’imposition 2020 et 2021 sur la même question ultérieurement, (2) sans exiger de l’intimé qu’il remédie à l’absence d’affidavits ou de témoins à l’appui de la requête en annulation, et (3) en reconnaissance de ce qui est convenu entre les parties quant aux délais pertinents, la Cour a ordonné ce qui suit :
+Pour 2021-3122(IT)I – l’appel de l’année d’imposition 2020 est annulé au motif que l’avis d’appel du 14 décembre 2021 (produit auprès de la Cour et reçu par l’intimé) constitue l’avis d’opposition de M. Matchett pour 2020.
+Pour 2023-288(IT)I – l’appel de l’année d’imposition 2021 est annulé au motif que les avis d’opposition et d’appel ont été déposés avant la cotisation du 3 février 2023. Ils étaient tous deux prématurés et donc invalides. À la date de l’audience, M. Matchett était dans le délai légal de 90 jours pour produire son avis d’opposition[6] pour 2021 et cette étape a été laissée à ses soins.
+[6] La Cour a ensuite tenu l’audience sur les appels nos 2020-1851(IT)I et 20213074(IT)I, qui portent respectivement sur les années d’imposition 2018 et 2019.
+Cadre législatif
+[7] L’alinéa 118(1)b) de la Loi de l’impôt sur le revenu définit les critères spécifiques pour bénéficier du crédit. Il s’agit de facteurs tels que l’état civil, l’établissement domestique autonome (c.-à-d. le lieu où le demandeur et la personne entièrement à charge vivent), la résidence, la relation entre le demandeur et la personne entièrement à charge, et le fait que la personne entièrement à charge soit âgée de moins de 18 ans ou dépendante en raison d’une infirmité mentale ou physique.
+[8] Le paragraphe 118(5) interdit la déclaration du crédit lorsque le demandeur paie une pension alimentaire à l’égard de la personne entièrement à charge, et est rédigé en ces termes :
+118(5) Pension alimentaire – Aucun montant n’est déductible en application du paragraphe (1) relativement à une personne dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition si le particulier, d’une part, est tenu de payer une pension alimentaire au sens du paragraphe 56.1(4) à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait pour la personne et, d’autre part, selon le cas :
+a) vit séparé de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait tout au long de l’année pour cause d’échec de leur mariage ou union de fait;
+b) demande une déduction pour l’année par l’effet de l’article 60 au titre de la pension alimentaire versée à son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait.
+[9] Une « pension alimentaire » au sens du paragraphe 56.1(4) consiste essentiellement en une pension alimentaire pour époux ou pour enfants découlant soit d’un accord écrit, soit d’une ordonnance du tribunal, et est payable de manière périodique. La définition complète est rédigée en ces termes :
+« Pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui-ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et, selon le cas :
+a) le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du payeur et vit séparé de celui-ci pour cause d’échec de leur mariage ou union de fait et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent ou d’un accord écrit;
+b) le payeur est légalement le père ou la mère d’un enfant du bénéficiaire et le montant est à recevoir aux termes de l’ordonnance d’un tribunal compétent rendue en conformité avec les lois d’une province.
+[10] En ce qui concerne la déduction d’une pension alimentaire en vertu de l’article 60, l’effet pratique de la formule énoncée à l’alinéa 60b) entraîne généralement une déduction de la pension alimentaire pour époux et non de la pension alimentaire pour enfants, lorsque l’ordonnance initiale du tribunal ou l’accord écrit traitant de la pension alimentaire pour enfants est postérieur à avril 1997. Étant donné que nous sommes en 2024, la plupart des accords seraient probablement datés postérieurement à avril 1997.
+[11] Enfin, le paragraphe 118(5.1) dispose que si, en vertu de l’interdiction prévue au paragraphe 118(5), personne n’a droit au crédit, l’interdiction ne s’applique pas, ce qui signifie que le crédit équivalent pour personne entièrement à charge peut être demandé. L’article est rédigé comme suit :
+118(5.1) Non-application du par. (5) (5.1) À supposer que la présente loi s’applique compte non tenu du présent paragraphe, dans le cas où personne n’a droit, par le seul effet du paragraphe (5), à la déduction prévue aux alinéas (1)b) ou b.1) pour une année d’imposition relativement à un enfant, le paragraphe (5) ne s’applique pas relativement à l’enfant pour l’année en cause.
+Question
+[12] La question centrale ici est de savoir si l’interdiction prévue au paragraphe 118(5) ou l’exemption prévue au paragraphe 118(5.1) s’applique dans ces circonstances.
+Contexte factuel
+[13] M. Matchett et son ex-épouse se sont séparés en mars 2016 et ont conclu un accord de séparation écrit le 28 juillet 2016[7]. Ils ont deux enfants, âgés d’environ 13 et 8 ans au moment de l’audience[8].
+[14] L’accord de séparation prévoyait une garde partagée, chaque parent se voyant confier les enfants pour un nombre égal de jours sur un cycle répétitif de quatre semaines[9]. Il a également été convenu que l’ex-épouse de M. Matchett fournirait la résidence principale aux enfants et serait identifiée comme la principale personne s’occupant d’eux à des fins institutionnelles[10].
+[15] En ce qui concerne la pension alimentaire, l’accord stipule ce qui suit :
+[traduction]
+(1) Les parties conviennent que le revenu de l’époux était de 55 000 $ pour l’année civile 2015 et que le revenu de l’épouse était de 36 500 $ au titre de son emploi en 2015. En outre, les parties conviennent que la pension alimentaire pour l’année civile en cours sera basée sur le revenu perçu au cours de l’année précédente et qu’après la divulgation annuelle du revenu, tous les ajustements de la pension alimentaire seront effectués le 1er mai de chaque année à partir de 2012 [sic].
+(2) À compter du 1er septembre 2016, et le 1er jour de chaque mois suivant, l’époux versera à l’épouse, pour la pension alimentaire des enfants, la somme fixée par les Lignes directrices, soit 289 $ par mois, montant calculé sur la base de la compensation de la pension alimentaire en fonction des revenus respectifs des parties […]
+[…]
+(5) Les parties doivent, sur une base annuelle, échanger des renseignements financiers sur leurs revenus respectifs […]
+(6) Les parties ont l’intention de procéder à des ajustements annuels de la pension alimentaire pour enfants et de la contribution aux activités périscolaires en cours, sur la base des renseignements transmis, la date de modification de la pension alimentaire pour enfants en cours étant fixée au 1er mai de chaque année, tant que la pension alimentaire pour enfants est due[11].
+[16] M. Matchett a déclaré qu’il avait versé un chèque correspondant au montant de la compensation à son ex-épouse pour des raisons de commodité, afin d’éviter les inconvénients liés à des échanges de chèques. Il a également déclaré que le crédit lui a été accordé pour 2017 après avoir adressé au ministre une lettre signée en commun, datée du 17 septembre 2018, dans laquelle il indiquait ce qui suit : (1) ils avaient la garde partagée des deux enfants, (2) ils étaient chacun en charge des mêmes dépenses pour un enfant chacun, et (3) l’accord de séparation stipulait qu’il devait verser à son ex-épouse une pension alimentaire mensuelle de 283 $[12]. Comme l’accord indiquait que le paiement s’élevait à 289 $, il peut s’agir d’une erreur typographique[13].
+[17] Lorsque le crédit a été refusé à M. Matchett en 2018 et ultérieurement, il a adressé au ministre une lettre signée en commun, datée du 7 janvier 2023, dans laquelle il indiquait ce qui suit : (1) ils ont toujours eu un accord de garde partagée pour les deux enfants, (2) ils revendiquent chacun le crédit pour un enfant en particulier, et (3) ils font en sorte que les finances soient aussi égales que possible entre eux[14].
+[18] M. Matchett a déclaré que l’accord de règlement était issu d’une médiation et qu’il continuait à effectuer ces paiements actuellement. Il a également déclaré que son ex-épouse avait toute latitude pour utiliser cet argent.
+Analyse et discussion
+[19] La Cour d’appel fédérale a déclaré que dans le contexte des pensions alimentaires et du crédit pour personne entièrement dépendante, le concept de compensation détourne l’attention de la véritable question qui est de savoir si l’appelant est ou non le seul parent payant une pension alimentaire pour enfants[15].
+[20] Dans Verones, l’appelant a versé une pension alimentaire mensuelle pour enfants dont le montant représentait la différence entre ce que lui et son ex-épouse devaient chacun verser en vertu des Lignes directrices fédérales sur les pensions alimentaires pour enfants[16]. Leurs revenus respectifs ont été mentionnés dans l’ordonnance de la cour, mais seul l’appelant a été condamné à payer une pension alimentaire[17].
+[21] En confirmant le rejet de la Cour de l’impôt, la Cour a pris en considération la déclaration de la Cour suprême du Canada selon laquelle le principe sous-jacent aux lignes directrices est que les époux ont une obligation financière conjointe de subvenir aux besoins de leurs enfants en fonction de leurs capacités relatives à le faire[18]. Après avoir déterminé leurs obligations respectives de contribution en vertu des Lignes directrices, l’un des parents peut être tenu de verser une pension alimentaire pour enfants à l’autre; toutefois, le concept de compensation ne transforme pas les obligations respectives en pensions alimentaires aux fins de l’impôt sur le revenu[19].
+[22] Dans le présent appel, l’accord de séparation n’impose à M. Matchett que le versement d’une pension alimentaire pour enfants. En ce qui concerne son exépouse, ses revenus ont été pris en compte dans le calcul effectué dans le cadre de la Ligne directrice et le montant des revenus figure dans l’accord. Toutefois, l’accord ne prévoit pas qu’elle doit verser une pension alimentaire pour enfants à l’appelant sur la base de son revenu fixé par les Lignes directrices.
+[23] Le ministre et les juridictions ont toujours interprété le paragraphe 118(5) comme exigeant une expression claire de l’obligation d’un parent de verser une pension alimentaire pour enfants à l’autre parent. Si les deux parents doivent se verser une pension alimentaire, le paragraphe 118(5) leur interdit à tous deux de demander le crédit, et l’interdiction mutuelle entraîne alors l’application du paragraphe 118(5.1), c’est-à-dire l’autorisation de demander le crédit.
+[24] M. Matchett a cherché à s’appuyer sur la décision de la Cour sur l’impôt dans Lawson[20]. Cependant, les circonstances dans Lawson étaient différentes, car M. Lawson a payé une pension alimentaire qui n’était pas uniquement basée sur les Lignes directrices. La différence de formulation entre l’accord de séparation (qui était contesté)[21] et le procès-verbal de règlement ultérieur qui n’était pas contesté parce qu’il établissait plus clairement que chaque parent devait payer une pension alimentaire pour enfants à l’autre parent[22].
+[25] Je comprends les arguments de M. Matchett et les circonstances qui ont conduit à ces appels. Malheureusement, la législation et la jurisprudence sont claires quant au type de libellé exigé pour pouvoir bénéficier du crédit. J’espère que M. Matchett et son ex-épouse envisageront de mettre à jour le libellé de leur accord afin de refléter correctement leurs intentions déclarées pour l’impôt sur le revenu. Le paragraphe 152(4.1) pourrait alors lui permettre de demander une nouvelle cotisation par consentement, bien qu’il y ait un délai mobile de 10 ans pour le faire.
+Conclusion
+[26] Les appels nos 2020-1851(IT)I et 2021-3074(IT)I concernant respectivement les années d’imposition 2018 et 2019 sont rejetés sans dépens.
+[27] L’appel no 2021-3122(IT)I pour l’année d’imposition 2020 est annulé sans dépens, au motif que l’avis d’appel du 14 décembre 2021 constitue l’avis d’opposition de l’appelant pour cette année.
+[28] L’appel no 2023-288(IT)I pour l’année d’imposition 2021 est annulé sans dépens, au motif que les avis d’opposition et d’appel ont été produits avant la cotisation du 3 février 2023 et qu’ils étaient par conséquent invalides.
+Signé à Ottawa, Canada, ce 11e jour d’octobre 2024.
+« Susan Wong »
+La juge Wong
+RÉFÉRENCE :
+2024 CCI 133
+NO DU DOSSIER DE LA COUR :
+2020-1851(IT)I, 2021-3074(IT)I, 2021‑3122(IT)I, 2023-288(IT)I
+INTITULÉ :
+ALVIN D. MATCHETT c. SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Hamilton (Ontario)
+DATE DE L’AUDIENCE :
+Le 5 avril 2023
+MOTIFS DU JUGEMENT :
+L’honorable juge Susan Wong
+DATE DU JUGEMENT :
+Le 11 octobre 2024
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me Terence Katerynych
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelant :
+Nom :
+S.O.
+Cabinet :
+S.O.
+Pour l’intimé :
+Me Shalene Curtis-Micallef Sous-procureure générale du Canada Ottawa, Canada
+[1] Réponse aux paragraphes 1 à 3
+[2] Réponse aux paragraphes 12 à 14
+[3] Réponse aux paragraphes 1 à 3 et 8 à 10
+[4] Loi de l’impôt sur le revenu, paragraphe 169(1)
+[5] Loi de l’impôt sur le revenu, alinéa 111(1)b)
+[6] Loi de l’impôt sur le revenu, paragraphe 165(1)
+[7] Pièce A-2
+[8] Pièce A-1, troisième page
+[9] Pièce A-2, paragraphe 3(2)
+[10] Pièce A-2, paragraphe 3(1)
+[11] Pièce A-2, paragraphe 8
+[12] Pièce A-1, quatorzième page
+[13] Pièce A-2, paragraphe 8
+[14] Pièce A-1, troisième page
+[15] Verones c. Canada, 2013 CAF 69, paragraphe 6
+[16] DORS/97-175
+[17] Verones c. La Reine, 2012 CCI 291, paragraphe 6, confirmé par Verones c. Canada, 2013 CAF 69, paragraphes 3 et 4
+[18] Contino c. Leonelli-Contino, 2005 CSC 63, paragraphe 32; Verones c. Canada, 2013 CAF 69, paragraphe 7
+[19] Verones c. Canada, 2013 CAF 69, paragraphe 8
+[20] Lawson c. La Reine, 2017 CCI 131
+[21] Lawson c. La Reine, 2017 CCI 131, paragraphe 16
+[22] Lawson c. La Reine, 2017 CCI 131, paragraphe 20

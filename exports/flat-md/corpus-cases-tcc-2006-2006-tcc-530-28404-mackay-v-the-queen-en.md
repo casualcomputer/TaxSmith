@@ -1,0 +1,189 @@
+---
+title: "Mackay v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28404/index.do"
+last_modified: "2006-10-02"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 530"
+citation2: ""
+neutral_citation: "2006 TCC 530"
+decision_date: "2006-10-02"
+language: "en"
+item_id: "28404"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1956
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:43:02.461000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "12a41033e202aa18da51133b793843f32edbdf53bdd9d11568db56d0e3636a36"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mackay v. The Queen
+
+- Citation: 2006 TCC 530
+- Decision date: 2006-10-02
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1956, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mackay v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-02
+Neutral citation
+2006 TCC 530
+File numbers
+2003-3762(IT)G
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-3762(IT)G
+BETWEEN:
+MARIA MACKAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on August 30, 2006 at Toronto, Ontario
+Before: The Honourable Justice T. O'Connor
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Brent E. Cuddy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment and reassessment made under the Income Tax Act for the 2001 taxation year is dismissed in accordance with the attached Reasons for Judgment. There shall be no costs.
+Signed at Ottawa, Canada, this 2nd day of October, 2006.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2006TCC530
+Date: 20061002
+Docket: 2003-3762(IT)G
+BETWEEN:
+MARIA MACKAY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] The only issue in this appeal is whether in the 2001 taxation year the Appellant had a business investment loss ("BIL") as defined in paragraph 39(1)(c) of the Income Tax Act ("Act") and thus be entitled to claim as a deduction from income an allowable business investment loss ("ABIL") (50% of the BIL) pursuant to paragraph 38(c) of the Act.
+[2] The Reply to the Notice of Appeal also refers to a claim by the Appellant to deduct legal fees in the amount of $6,667 but, as indicated by both parties at the hearing of this appeal, this was no longer an issue.
+[3] The amount of the ABIL in question is $26,324.97. It results from a loan made by the Appellant in 1990. It is not necessary to review the exact amount of the loan and the amounts repaid prior to the debt becoming bad, as it is common ground that the actual amount of the ABIL claimed was $26,324.97. Calculations are submitted later in these Reasons which appear to support this number.
+[4] Nor is it necessary to review several of the conditions required for the deduction of an ABIL pursuant to Section 3, paragraphs 38(c), 39(1)(c) and subsection 50(1) of the Act. The only question requiring analysis is whether the loan by the Appellant was made to an individual or to a corporation, because each of the two corporations involved that might be considered as the possible borrower of the loan in question are assumed to qualify as a Canadian-controlled private corporation ("CCPC") and all other required conditions are assumed to have been met. So, was the loan made to an individual or to one or both of the two corporations?
+Facts
+[5] An Agreement (the 1990 Agreement) executed April 23, 1990 between the Appellant ("Maria") and Tibor Zoltan Barath ("Tibor"), filed at Tab "D" of Exhibit A-1 states, inter alia, that Maria and Tibor had cohabited in a relationship resembling that of husband and wife since 1987, that they were each financially responsible for themselves, that there were no matrimonial rights vis‑a‑vis their respective properties and that neither party would be entitled to property rights arising from their cohabitation arrangement. The 1990 Agreement provided further as follows on page 7:
+(4) Maria and Tibor each acknowledge that Tibor is the owner of all the issued shares in 892076 Ontario Limited and 890276 Ontario Limited has a 49% interest in Molnar Food Service Ltd. The parties acknowledge that Maria has no interest whatsoever in 892076 Ontario Limited or Molnar Food Service Ltd.
+(5) Maria and Tibor acknowledge that to facilitate the acquisition of Tibor in the corporations referred to above, Maria and Tibor have agreed to the following:
+(a) Maria has placed a new first mortgage on the family residence for the principal sum of $145,000.00, replacing a previous employee mortgage loan in the sum of $60,000.00;
+(b) Maria shall lend to Tibor the sum of $85,000.00 for the purchase of his shares in the above-mentioned corporations, in consideration for which Tibor has agreed to guaranty payment on the said mortgage;
+(c) Maria shall be responsible for the sum of $600.00 per month on the said mortgage and Tibor shall be responsible for the difference plus all related legal and other expenses associated with negotiation and registration of the said mortgage;
+(d) Tibor agrees to pay the principal sum of $85,000.00 together with accrued interest within ten (10) years of the date of his acquisition of an interest in the corporations referred to above. He shall have the option to make prepayments on the mortgage pursuant to its terms and such payments shall be credited against his liability for the principal sum of the said loan from Maria;
+(e) Until full repayment of the said loan, Maria shall have a lien on the shares of Tibor in 892076 Ontario Limited on the following terms;
+(1) Maria shall receive the equivalent of 50% of the net profits, including income and dividends, received by Tibor or 892076 Ontario Limited by virtue of their interest in Molnar Food Service Ltd.;
+(2) Tibor shall indemnify and save Maria harmless from all claims arising out of the mortgage on the family residence to the extent of his obligations set out above;
+(3) After repayment of the principal sum and accrued interest aforesaid, Maria shall release all claims against the said shares or corporations.
+[6] The Direction (Tab E of Exhibit A-1) to the attorney in charge of the transaction instructed said attorney, inter alia, to pay to 892076 the sum of $75,000.
+[7] Thus, although the loan is to Tibor and the two corporations are not parties, Maria is granted by Tibor a type of lien on the shares of 892076 and $75,000 of the loan proceeds are directed to be paid to 892076. These facts and the imprecise wording of the 1990 Agreement contribute to the difficulties in interpreting that Agreement. The Agreement, however, makes it clear that Tibor, by making payments under the new first mortgage ("mortgage") will be discharging his liability under the "said loan from Maria".
+[8] From 1990 until 1997 Tibor made payments under the 1990 Agreement. After the relationship between Maria and Tibor broke down (sometime in 1995) a further agreement (the "Amending Agreement") was entered into on January 7, 1997 between Maria and Tibor. It appears at "P.5" and following of Tab K of Exhibit A-1. It referred to the 1990 Agreement and amended its terms to alter the amounts and details concerning the respective repayments of the mortgage by the parties. It specifically details the exact amounts of the mortgage for which Tibor remains liable. It also provided that until Tibor had repaid his share of the mortgage in full Maria would be entitled to one-half of Tibor's share in the year end profits before income tax realized by Tibor from Molnar. This Amending Agreement further provided as follows:
+4. Tibor will enter into a Pledge Agreement in the form annexed hereto as Schedule "A" whereby Maria's solicitor, Michael Woods, shall hold as escrow agent the share certificates representing all shares owned by Tibor in 892076, and all shares owned by 892076 in Molnar, as security for repayment of Tibor's share of the Mortgage.
+5. Tibor shall further cause 892076 to execute a guarantee of the obligation of Tibor hereunder, in the form annexed hereto as Schedule "B", and Tibor shall cause Molnar to execute and deliver an Acknowledgment and Covenant in the form annexed hereto as Schedule "C".
+[9] Although the Amending Agreement refers to a guarantee by 892076 as Schedule "B" and an Acknowledgement and Covenant by Molnar as Schedule "C", those documents were not filed. The Pledge Agreement however, referred to as Schedule "A", was filed at Tab G of Exhibit A-1. It is also dated January 7, 1997 and the Parties are Maria, Tibor and 892076; it refers to Maria as "Pledgee"; Tibor as "Pledgor" and 892076 as "892076". Its' principal provisions are as follows:
+...
+WHEREAS the Pledgor is as of the date hereof the registered and beneficial owner of One Hundred (100) common shares in the capital of 892076 (hereinafter referred to as the "892076 Shares"), and 892076 is as of the date hereof the registered and beneficial owner of Forty-Nine (49) common shares in the capital of MOLNAR FOOD SERVICE LTD. (hereinafter referred to as the "Molnar Shares");
+and
+AND WHEREAS the Pledgor has agreed to pledge the 892076 Shares, and 892076 has agreed to pledge the Molnar Shares, to the Pledgee as general and continuing collateral security for the Obligations (as hereinafter defined);
+...
+1. Definitions:
+...
+(g) "Obligations" means the obligation to repay the loan of $85,000.00 made by the Pledgee to Pledgor on or about April, 1990, of which $80,288.90 remains outstanding as of May 1, 1995, as well as any other amount that is now or becomes payable by the Pledgor to the Pledgee pursuant to either Cohabitation/Marriage Contracted dated April 23, 1990, or an Amending Agreement dated the even date hereto which Agreement amend the terms of this Cohabitation/Marriage Contract;
+...
+(i) "Pledged Collateral" means collectively,
+i. the 892076 Shares and all Shares hereafter owned or acquired by the Pledgor in 892076, as well as the Molnar Shares and all Shares hereafter owned or acquired by 892076 in Molnar Food Service Ltd.;
+...
+[ii, iii, iv – irrelevant]
+[10] The Pledge Agreement further provides as follows:
+2. PLEDGE OF SHARES
+(a) Pledge of collateral. As general and continuing collateral security for the due payment and performance of the Obligations, each of the Pledgor and 892076 hereby assign, hypothecate and pledge to and in favour of the Pledgee, and grants the Pledgee a security interest in, all of the Pledged Collateral.
+(b) Acknowledgement of receipt. The Pledgee acknowledges receipt from the Pledgor of Share Certificate No. ___________ issued ___________, 199__ representing the 892076 Shares, and receipt from 892076 of Share Certificate No. ___________ issued _______________, 199_ representing the Molnar Shares, duly endorsed in blank for transfer, or accompanied by a duly signed power of attorney for transfer in blank.
+...
+4. DEFAULT AND ENFORCEMENT
+(a) Remedies. In the event of any default in the due performance or payment of any of the Obligations (an "Event of Default"), the security hereby constituted shall become immediately enforceable and the Pledgee may, in its sole discretion, do any or all of the following:
+i. effect the registration of, and obtain from either 892076 or Molnar Food Service Ltd. a certificate or certificates for any of the Pledged Shares in the name of the Pledgee or its nominee(s), and for such purpose the Pledgee is hereby irrevocably appointed the attorney of the Pledgor and 892076 with full power of substitution to endorse and/or transfer any of the Pledged shares to the Pledgee or its nominee(s);
+ii. vote any or all of the Pledged Shares (whether or not transferred into the name of the Pledgee) and exercise all other rights and powers and perform all acts of ownership in respect thereof as the Pledgor or 892076 might do;
+[11] Tibor made an assignment in bankruptcy January 30, 1998. Up to that time he had made his required payments on the mortgage. The bankruptcy proceedings lasted until sometime in 2001. Maria had filed a Proof of Claim in the bankruptcy proceedings for $83,282.22. On or about January 31, 2001 certain assets of Molnar were sold. The Pledge of Molnar shares in favor of Maria was recognized in the bankruptcy proceedings. Forty-nine percent of the proceeds of the sale of the Molnar assets amounted to $30,632.28. This was apparently paid to Maria leaving the balance of her claim at $52,649.94. This is the BIL amount, 1/2 of which is $26,324.97 which is the amount of the ABIL claimed by Maria in the 2001 taxation year. There is no doubt that the debt, which in 2001 had been reduced to $52,649.94, became bad in 2001. Also filed at Tab H of Exhibit A-1 is an unaudited Balance Sheet of 892076 as of March 31, 1997 indicating a liability of "Mortgage Loan Payable - $77,181.73".
+Submission of the Appellant
+[12] The submission of Maria is essentially that she always believed that because the monies advanced found their way into one or both of the corporations that she became the owner of a debt of a CCPC and when the debt went bad she was entitled to claim an ABIL. She also believed that the agreements referred to above, in particular the Amending Agreement and the Pledge Agreement executed in 1997 plus the fact that through the bankruptcy proceedings she received 49% of the sale proceeds of Molnar assets, must indicate that one or both of the corporations was the debtor.
+Submissions of the Respondent
+[13] The submissions of counsel for the Respondent are seen in the following extracts from the transcript of the hearing:
+...
+In this case it is the Minister's submission that in the 2001 year or at any material time prior to that neither the Ontario corporation, 892076, nor Molnar Food were indebted to the Appellant and that the Appellant did not have a shareholder/creditor relationship to 892076.
+...
+We have an agreement in 1990 between the Appellant and her common-law spouse at the time. In clause 4 at page 7 of that agreement, which is at tab D of Exhibit A-1, it states that Tibor, who was the Appellant's common-law spouse at the time, was the owner of the shares in 892076 Ontario and that 892076 had a 49 per cent interest in Molnar Food Service Ltd. There is an acknowledgment that the Appellant has no interest whatsoever in the numbered company or Molnar.
+...
+We have an agreement between the Appellant and her common-law spouse. There was no debt obligation owing by the numbered company or Molnar to the Appellant. There was no additional agreement beyond this 1990 agreement at the time that would create any other obligations, and neither the numbered company nor Molnar were parties to this agreement.
+...
+From 1990 until 1997 Tibor made payments. It is her evidence that Tibor made the payments every month. In 1997, as result of the breakdown of the relationship in 1995, there was an Amending Agreement written up, once again between the Appellant and Tibor which once again required Tibor to make payments on the mortgage and to make certain payments in respect of the numbered company's profits. It also created a security interest for the Appellant. Should Tibor default on his obligations, it would give the Appellant access to the shares of both Molnar and the numbered company as security.
+When Mr. Barath went bankrupt in 1998, the Appellant exercised the security to control the shares of the numbered company and Molnar. Ultimately, Molnar's assets were sold in 2001, and the Appellant realized roughly $38,000 from that transaction.
+For the purpose of the appeal the Appellant has to demonstrate that she had a capital loss either from the disposition of shares of a small business corporation or from the disposition of a debt owed by a CCPC to her during the year. If the loan went to Tibor and not to the numbered company, it is our submission that she is not able to make out that she is entitled to an allowable business investment loss.
+It is the Minister's submission that the documentation that has been provided, the agreement and the Amending Agreement, are signed by the Appellant. The agreements are between the Appellant and Tibor Barath, not between the Appellant and the numbered company. The obligation to pay, as stated in those agreements, was Tibor's obligation.
+The stated purpose of the loan in the first agreement, the April 1990 agreement, is to facilitate the acquisition of Tibor in the numbered corporation and Molnar. There is no obligation to the corporations or to the Appellant. The only time that a corporation was referred to or became involved in any of those agreements was in the schedule to the Amending Agreement regarding the pledging of shares, and that, we submit, was just to guarantee that, if there was a default by Tibor, the shares go to the Appellant.
+When you look at the agreements, the debt was Tibor's. He had the obligation to pay. He was the one who was going to lose his shares in the company if he defaulted. The investment in the numbered company and in Molnar was Tibor's; it was not the Appellant's investment.
+The only agreement that we have is the 1990 one where she agrees to give money to Tibor, not to the numbered company. The subsequent transfer of the shares upon Tibor's default and the subsequent sale of those shares, I would submit, was in furtherance on her collection of the debt owing to her by Tibor. She is trying to recover the amount that he borrowed and did not pay back. It is not an investment in the company and the company goes bad. The debt that goes bad is when Tibor goes bankrupt and stops making his payments. There is a default, and she exercises her rights under the agreement that she has with Tibor to take over those shares.
+Analysis
+[14] In a decision of the Federal Court of Appeal, namely Rich v. The Queen, 2003 D.T.C. 5117, Rothstein, JA gave an overview of the ABIL rules.
+THE ABIL RULES
+[4] In Fundamentals of Canadian Income Tax, 6th ed, (Toronto: Carswell, 2000) at page 423, Professor Krishna explains that an ABIL is a special type of capital loss that receives preferential treatment for income tax purposes. An ABIL arises on the disposition of shares or a debt of a small business corporation. A small business corporation is a Canadian-controlled private corporation that uses all or substantially all of its assets in an active business in Canada ...
+[5] Unless a lender is in the money-lending business, a bad debt would normally be treated as a capital loss. However, unlike ordinary capital losses, which may be deducted only against capital gains, an ABIL may be deducted against income from any source.
+...
+[7] Counsel for the appellant explained that the purpose of the ABIL rules was to encourage investments in small business corporations. A bad debt from a small business corporation could be deducted from the lender's income from any source, although the amount of the deduction was limited ...
+[15] I am sympathetic to the position of the Appellant but I am satisfied that the submission of counsel for the Respondent is correct. The Appellant may have received bad legal advice and the Amending Agreement and Pledge Agreement executed in 1997, coupled with the fact that 49% of the sale proceeds of Molnar assets came to her in the bankruptcy proceedings may have led her to believe her debtor really was one or both the corporations. However, the documents speak for themselves. It is clear that the debt was owed by Tibor and not by either one of the corporations. There is absolutely no doubt that from 1990 to 1997 that statement was correct. The corporations had nothing to do with the loan, other than the fact it was made to Tibor to provide him with funds to acquire the shares of 892076. It is acknowledged that $75,000 of the loan proceeds were paid by the lawyer to 892076 but the 1990 Agreement makes it clear that this was payment for the shares in 892076 which Tibor acquired.
+[16] The only real connection with the corporations arises in 1997 when the Amending Agreement was executed and the shares of the corporations were pledged. This was subsequently followed by the Appellant realizing on that security. The Amending Agreement and the Pledge Agreement did not operate to change the original debt from a debt owing by Tibor to a debt owing by the corporations. The loan monies were not an investment in a CCPC. They were loaned to Tibor to enable him to acquire the shares in 892076. They were not given to Tibor as a trustee for Maria to invest in the corporations. It is also clear that Maria never became a shareholder in either of the corporations. The unfortunate but relatively clear conclusion is that the debt was a debt of Tibor's and not of the corporations. Consequently, the Appellant is not entitled to the ABIL claimed.
+[17] As this appeal is not concerned with whether the Appellant may be entitled to a net capital loss (as opposed to an ABIL) which might be available as a deduction against capital gains in one or more taxation years, I am not obliged to decide this issue.
+[18] In conclusion for all of the above reasons the appeal is dismissed. There shall be no costs.
+Signed at Ottawa, Canada, this 2nd day of October, 2006.
+"T. O'Connor"
+O'Connor, J.
+CITATION: 2006TCC530
+COURT FILE NO.: 2003-3762(IT)G
+STYLE OF CAUSE: MARIA MACKAY AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: August 30, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice T. O'Connor
+DATE OF JUDGMENT: October 2, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Brent E. Cuddy
+COUNSEL OF RECORD:
+For the :
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

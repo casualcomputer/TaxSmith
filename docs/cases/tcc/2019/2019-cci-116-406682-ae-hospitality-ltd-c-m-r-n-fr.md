@@ -1,0 +1,673 @@
+---
+title: "AE Hospitality Ltd. c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/406682/index.do"
+last_modified: "2019-05-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2019 CCI 116"
+citation2: ""
+neutral_citation: "2019 CCI 116"
+decision_date: "2019-05-17"
+language: "fr"
+item_id: "406682"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4392
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T18:17:38.366000+00:00"
+cases_cited_count: 11
+cases_citing_count: 10
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "d87d680b41a3aa1e67d3e9d4b3e9a1290b259a6bbaee34def01e459d6c56bf63"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# AE Hospitality Ltd. c. M.R.N.
+
+- Citation: 2019 CCI 116
+- Decision date: 2019-05-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4392, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+AE Hospitality Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-05-17
+Référence neutre
+2019 CCI 116
+Numéro de dossier
+2015-1919(EI), 2015-1920(CPP), 2016-3767(CPP), 2016-3768(EI), 2016-3781(CPP), 2016-3782(EI)
+Juges et Officiers taxateurs
+Johanne D’Auray
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2015-1919(EI)
+ENTRE :
+AE HOSPITALITY LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+AE Hospitality Ltd., 2015-1920(CPP), 2016-3768(EI), 2016­3767(CPP), Omar Gonzalez, 2016-3782(EI) et 2016-3781(CPP)
+les 3, 4, 5 et 6 avril 2018 et le 1er octobre 2018 à Toronto (Ontario).
+Devant : L’honorable juge Johanne D’Auray
+Comparutions :
+Avocats de l’appelante :
+Me Ian R. Dick
+Me Stephanie J. Kalinowski
+Avocat de l’intimé :
+Me John Chapman
+JUGEMENT
+L’appel interjeté aux termes du paragraphe 103(1) de la Loi sur l’assurance-emploi est accueilli au motif que AE Hospitality Ltd. n’était pas une agence de placement au sens de l’alinéa 6g) du Règlement sur l’assurance-emploi (le « Règlement »), sauf pour la période allant du 1er juillet 2012 au 30 novembre 2012 en ce qui concerne Mme Sinchi.
+Au sens du Règlement traitant des agences de placement, les décisions rendues par le ministre du Revenu national en date du 28 janvier 2015 pour la période allant du 1er janvier 2012 au 2 décembre 2013 sont modifiées, au motif que Mme Rubio n’occupait pas un emploi assurable pour la période allant du 1er janvier 2012 au 2 décembre 2013 et que sauf pour la période allant du 1er juillet 2012 au 30 novembre 2012, Mme Sinchi n’occupait pas un emploi assurable pour le reste de la période en 2012 jusqu’au 2 décembre 2013.
+Signé à Ottawa, Canada, ce 17e jour de mai 2019.
+« Johanne D’Auray »
+La juge D’Auray
+Dossier : 2015-1920(CPP)
+ENTRE :
+AE HOSPITALITY LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+AE Hospitality Ltd., 2015-1919(EI), 2016-3768(EI), 2016­3767(CPP), Omar Gonzalez, 2016-3782(EI) et 2016-3781(CPP)
+les 3, 4, 5 et 6 avril 2018 et le 1er octobre 2018 à Toronto (Ontario).
+Devant : L’Honorable juge Johanne D’Auray
+Comparutions :
+Avocats de l’appelante :
+Me Ian R. Dick
+Me Stephanie J. Kalinowski
+Avocat de l’intimé :
+Me John Chapman
+JUGEMENT
+L’appel interjeté aux termes du paragraphe 28(1) du Régime de pensions du Canada est accueilli au motif que AE Hospitality Ltd. n’était pas une agence de placement au sens de l’article 34 du Règlement sur le Régime de pensions du Canada (le « Règlement »), sauf pour la période du 1er juillet 2012 au 30 novembre 2012 en ce qui concerne Mme Sinchi.
+Au sens du Règlement traitant des agences de placement, les décisions rendues par le ministre du Revenu national en date du 28 janvier 2015 pour la période allant du 1er janvier 2012 au 2 décembre 2013 sont modifiées, au motif que Mme Rubio n’occupait pas un emploi ouvrant droit à pension pour la période allant du 1er janvier 2012 au 2 décembre 2013 et que sauf pour la période allant du 1er juillet 2012 au 30 novembre 2012, Mme Sinchi n’occupait pas un emploi assurable pour le reste de la période en 2012 jusqu’au 2 décembre 2013.
+Signé à Ottawa, Canada, ce 17e jour de mai 2019.
+« Johanne D’Auray »
+La juge D’Auray
+Dossier : 2016-3768(EI)
+ENTRE :
+AE HOSPITALITY LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+AE Hospitality Ltd., 2015-1919(EI), 2015-1920(CPP), 2016­3767(CPP), Omar Gonzalez, 2016-3782(EI) et 2016-3781(CPP)
+les 3, 4, 5 et 6 avril 2018 et le 1er octobre 2018 à Toronto (Ontario).
+Devant : L’Honorable juge Johanne D’Auray
+Comparutions :
+Avocats de l’appelante :
+Me Ian R. Dick
+Me Stephanie J. Kalinowski
+Avocat de l’intimé :
+Me John Chapman
+JUGEMENT
+L’appel interjeté aux termes du paragraphe 103(1) de la Loi sur l’assurance-emploi est rejeté et les décisions rendues par le ministre du Revenu national, en date du 20 juin 2016, sont ratifiées au motif que les personnes énumérées à l’annexe A des motifs du jugement occupaient un emploi assurable auprès de l’appelante au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi, pour la période allant du 1er janvier 2013 au 31 décembre 2013.
+Signé à Ottawa, Canada, ce 17e jour de mai 2019.
+« Johanne D’Auray »
+La juge D’Auray
+Dossier : 2016­3767(CPP)
+ENTRE :
+AE HOSPITALITY LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+AE Hospitality Ltd., 2015-1919(EI), 2015-1920(CPP), 2016-3768(EI), Omar Gonzalez, 2016-3782(EI) et 2016-3781(CPP)
+les 3, 4, 5 et 6 avril 2018 et le 1er octobre 2018 à Toronto (Ontario).
+Devant : L’Honorable juge Johanne D’Auray
+Comparutions :
+Avocats de l’appelante :
+Me Ian R. Dick
+Me Stephanie J. Kalinowski
+Avocat de l’intimé :
+Me John Chapman
+JUGEMENT
+L’appel interjeté aux termes du paragraphe 28(1) du Régime de pensions du Canada est rejeté et les décisions rendues par le ministre du Revenu national, en date du 20 juin 2016, sont ratifiées au motif que les personnes énumérées à l’annexe A des motifs du jugement occupaient un emploi ouvrant droit à pension auprès de l’appelante au sens de l’alinéa 6(1)a) du Régime de pensions du Canada, pour la période allant du 1er janvier 2013 au 31 décembre 2013.
+Signé à Ottawa, Canada, ce 17e jour de mai 2019.
+« Johanne D’Auray »
+La juge D’Auray
+Dossier : 2016-3782(EI)
+ENTRE :
+OMAR E GONZALEZ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+AE Hospitality Ltd., 2015-1919(EI), 2015-1920(CPP), 2016-3768(EI), 2016­3767(CPP), et Omar Gonzalez, 2016-3781(CPP)
+les 3, 4, 5 et 6 avril 2018 et le 1er octobre 2018 à Toronto (Ontario).
+Devant : L’Honorable juge Johanne D’Auray
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me John Chapman
+JUGEMENT
+L’appel interjeté aux termes du paragraphe 103(1) de la Loi sur l’assurance-emploi est rejeté et les décisions rendues par le ministre du Revenu national, en date du 20 juin 2016, sont ratifiées au motif que l’appelant occupait un emploi assurable auprès de AE Hospitality Ltd. au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi, pour la période allant du 1er janvier 2013 au 31 décembre 2013.
+Signé à Ottawa, Canada, ce 17e jour de mai 2019.
+« Johanne D’Auray »
+La juge D’Auray
+Dossier : 2016­3781(CPP)
+ENTRE :
+OMAR E GONZALEZ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu sur preuve commune avec les appels de
+AE Hospitality Ltd., 2015-1919(EI), 2015-1920(CPP), 2016-3768(EI), 2016­3767(CPP), et Omar Gonzalez, 2016-3782(EI)
+les 3, 4, 5 et 6 avril 2018 et le 1er octobre 2018 à Toronto (Ontario).
+Devant : L’Honorable juge Johanne D’Auray
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimé :
+Me John Chapman
+JUGEMENT
+L’appel interjeté aux termes du paragraphe 28(1) du Régime de pensions du Canada est rejeté et les décisions rendues par le ministre du Revenu national, en date du 20 juin 2016, sont ratifiées au motif que l’appelant occupait un emploi ouvrant droit à pension auprès de AE Hospitality Ltd. au sens de l’alinéa 6(1)a) du Régime de pensions du Canada, pour la période allant du 1er janvier 2013 au 31 décembre 2013.
+Signé à Ottawa, Canada, ce 17e jour de mai 2019.
+« Johanne D’Auray »
+La juge D’Auray
+Référence : 2019 CCI 116
+Date : 20190517
+Dossiers : 2015-1919(EI)
+2015-1920(CPP)
+2016-3768(EI)
+2016­3767(CPP)
+ENTRE :
+AE HOSPITALITY LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+Dossiers : 2016-3782(EI)
+2016­3781(CPP)
+ET ENTRE :
+OMAR E GONZALEZ,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge D’Auray
+I. Résumé des faits
+[1] Au cours de la période visée par les présents appels, AE Hospitality Ltd. (« AE ») fournissait des travailleurs à deux entreprises de service de traiteur, 1513563 Ontario Ltd., exploitée sous le nom Encore Food with Elegance (« Encore »), et Applause Catering Inc. (« Applause »), ou collectivement « les entreprises de service de traiteur », à l’occasion d’événements pour lesquels elles offraient un service de traiteur. AE fournissait des superviseur(e)s, des serveurs/serveuses, des barmans/barmaids et des chefs aux deux entreprises de service de traiteur et les facturait pour ces services.
+[2] AE a interjeté appel des décisions rendues par le ministre du Revenu national (le « ministre ») en lien avec la Loi sur l’assurance-emploi (la « LAE ») [1] et le Régime de pensions du Canada (le « RPC ») [2] , en date du 28 janvier 2015 (les « décisions de 2015 »).
+[3] AE a également interjeté appel des décisions rendues par le ministre en date du 20 juin 2016 (les « décisions de 2016 »), qui concernent également la LAE et le RPC.
+[4] M. Gonzalez a uniquement interjeté appel des décisions de 2016.
+[5] Dans les décisions de 2015, le ministre a jugé que AE était une agence de placement en ce qui concerne deux travailleuses, Mme Gladys Sinchi et Mme Lorena Rubio. Le ministre est d’avis qu’aux termes du Règlement sur l’assurance-emploi (le « RAE ») [3] , Mme Sinchi et Mme Rubio ont été appelées par AE, pour la période allant du 1er janvier 2012 au 2 décembre 2013, à offrir des services aux clients d’AE, sous la supervision et le contrôle de ces clients, soit les entreprises de service de traiteur. Le ministre a également jugé qu’AE était une agence de placement en vertu du Règlement sur le Régime de pensions du Canada (le « RRPC ») [4] , au motif qu’AE a demandé à Mme Sinchi et à Mme Rubio d’offrir des services à ses clients, les entreprises de service de traiteur, alors que les modalités et conditions d’emploi et la rémunération versée constituaient un contrat de louage de services ou y correspondaient.
+[6] Les décisions de 2016 portaient sur la question de savoir si les travailleurs embauchés par AE étaient des « employés » ou des « entrepreneurs indépendants ». Les décisions de 2016 portaient également sur la question de savoir si AE était une agence de placement aux termes des dispositions du RAE et du RRPC. La période visée va du 1er janvier 2013 au 31 décembre 2013.
+[7] Les décisions de 2016 s’appliquent à 218 travailleurs, y compris des superviseur(e)s, des serveurs/serveuses, des barmans/barmaids et des chefs fournis par AE aux entreprises de service de traiteur. Les noms des 218 travailleurs et les postes occupés sont énumérés à l’annexe A, jointe aux motifs du jugement. Mme Sinchi et Mme Rubio font partie de la liste des travailleurs énumérés à l’annexe A. M. Gonzalez fait également partie de la liste des travailleurs de l’annexe A.
+II. Thèse des parties
+[8] La thèse de l’intimé, concernant les décisions de 2016, est que les travailleurs sont employés par AE et sont assujettis à un contrat de louage de services aux termes des alinéas 5(1)a) de la LAE et 6(1)a) du RPC pour la période allant du 1er janvier 2013 au 31 décembre 2013.
+[9] Subsidiairement, la thèse de l’intimé en ce qui concerne les décisions de 2016 est que s’il n’existe pas de contrat de louage de services entre AE et les travailleurs, AE est une agence de placement. L’intimé affirme que selon les dispositions du RAE, les travailleurs ont été appelés, durant la période allant du 1er janvier 2013 au 31 décembre 2013, à fournir des services à des clients d’AE sous la direction et le contrôle de ces clients. L’intimé affirme également que selon les dispositions du RRPC, les travailleurs ont été placés par AE pour fournir des services à ses clients, les entreprises de service de traiteur, alors que les modalités et conditions d’emploi et le paiement de la rémunération constituaient un contrat de louage de services ou y correspondaient.
+[10] AE affirme que les 218 travailleurs énumérés à l’annexe A sont des entrepreneurs indépendants. En conséquence, la thèse d’AE est que les travailleurs ne sont pas des employés assujettis à un contrat de louage de services aux termes des alinéas 5(1)a) de la LAE et 6(1)a) du RPC, comme l’a affirmé l’intimé. Par conséquent, les décisions rendues par le ministre en 2016 sont erronées en fait et en droit.
+[11] AE affirme également qu’elle n’est pas une agence de placement, puisque les conditions s’appliquant à une agence de placement en application des dispositions du RAE et du RRCP ne sont pas satisfaites. Les travailleurs n’étaient pas sous la supervision et le contrôle des entreprises de service de traiteur, comme l’exige le RAE. AE affirme en outre que les travailleurs n’ont pas été placés par AE pour fournir des services à ses clients, les entreprises de service de traiteur, alors que les modalités et conditions d’emploi et le paiement de la rémunération constituaient un contrat de louage de services ou y correspondaient, comme l’exige le RRPC. Par conséquent, les décisions rendues par le ministre en 2015 en ce qui concerne Mme Rubio et Mme Sinchi et les décisions rendues par le ministre en 2016 concernant 218 travailleurs sont erronées en fait et en droit.
+[12] Les appels concernant les décisions de 2015 et de 2016 ont été entendus sur preuve commune.
+III. Questions en litige
+[13] En ce qui concerne les décisions rendues par le ministre en 2016, la question en litige est de savoir si les 218 travailleurs énumérés à l’annexe A sont des entrepreneurs indépendants ou des employés d’AE assujettis à un contrat de louage de services, conformément à l’alinéa 5(1)a) de la LAE et à l’alinéa 6(1)a) du RPC, pour la période allant du 1er janvier 2013 au 31 décembre 2013.
+[14] Subsidiairement, si je devais conclure qu’il n’existait pas de contrat de louage de services entre AE et les travailleurs, la question est de savoir si AE est une agence de placement aux termes de l’alinéa 6g) du RAE et de l’article 34 du RRPC et, par conséquent, l’employeur des travailleurs pour la période allant du 1er janvier 2013 au 31 décembre 2013.
+[15] En ce qui concerne les décisions rendues par le ministre en 2015, la question en litige est de savoir si AE est une agence de placement aux termes de l’alinéa 6g) du RAE et de l’article 34 du RRPC et, par conséquent, l’employeur de Mme Sinchi et de Mme Rubio, pour la période allant du 1er janvier 2012 au 2 décembre 2013.
+IV. Les faits
+[16] Les témoins pour l’appelante à l’audience étaient M. Cary Silber, président et unique actionnaire de AE, Mme Rebecca Belton, serveuse, barmaid et superviseure, Mme Robyn Kirsch, serveuse, barmaid et superviseure pour AE et représentante des ventes pour les entreprises de service de traiteur, M. Omar Gonzalez, serveur et barman, et M. Darrin Green, chef.
+[17] Les témoins pour l’intimé étaient Mme Sinchi, serveuse et superviseure et Mme Amanda Hagerman, chef.
+AE
+[18] AE est une entreprise de dotation. Elle a été constituée en société le 28 juin 2012.
+[19] AE embauche des superviseur(e)s, des serveurs/serveuses, des barmans/barmaids et des chefs pour travailler lors d’événements où Encore ou Applause offre un service de traiteur. Les travailleurs fournissent des services pour différents types d’événements, y compris des mariages, des funérailles, des baptêmes, des bar-mitzvah/bat-mitzvah, des campagnes de financement, des expositions commerciales, des événements corporatifs et autres événements spéciaux. Ces événements peuvent accueillir de deux invités à deux mille invités.
+[20] Pour éviter toute confusion, à moins que je ne fasse référence à une fonction précise, je ferai référence aux superviseur(e)s, aux serveurs/serveuses, et aux barmans/barmaids collectivement en tant que « personnel de service ». Je ferai référence au personnel de service et aux chefs collectivement en tant que « travailleurs ».
+[21] Pendant les années en cause, AE a fourni des travailleurs à seulement deux entreprises de service de traiteur, soit Encore et Applause. AE n’avait pas d’entente écrite avec Encore ou Applause pour fournir les travailleurs.
+[22] M. Cary Silber est l’unique actionnaire, le directeur et le président de AE. Dans son témoignage, M. Silber a affirmé qu’il était dans l’industrie de l’accueil depuis près de 40 ans.
+[23] Concernant AE, le rôle de M. Silber est de s’assurer que des travailleurs qualifiés sont fournis aux entreprises de service de traiteur.
+[24] AE n’a aucun employé. Tous les travailleurs d’AE sont des entrepreneurs indépendants qui travaillent comme superviseur(e)s, serveurs/serveuses, barmans/barmaids et chefs. Le coordonnateur des services de réservation d’AE est également un entrepreneur indépendant.
+[25] Le travail de bureau et de comptabilité est effectué moyennant des frais par le personnel des entreprises de service de traiteur.
+Entreprises de service de traiteur
+[26] Encore a été constituée en société en 2003. Mme Ruth Silber, l’épouse de M. Silber, est l’unique actionnaire d’Encore. M. Silber est également un dirigeant et un administrateur d’Encore.
+[27] M. Silber a affirmé que Encore comptait environ 25 employés durant les années en cause.
+[28] Encore possède une cuisine de production où est préparée la nourriture destinée aux événements. Tous les travailleurs qu’AE fournit à Encore travaillent hors site dans des lieux externes, parce qu’Encore ne possède pas d’installations pour les banquets.
+[29] M. Silber possède 25 % des actions d’Applause par l’entremise de sa société de portefeuille. David Silber, le fils de M. Silber, possède également 25 % des actions d’Applause par l’entremise de sa propre société de portefeuille. Deux autres sociétés possèdent le reste des actions d’Applause.
+[30] M. Silber est également un dirigeant et un administrateur d’Applause.
+[31] Pendant les années en cause, M. Roshan Wanasingha a également possédé des actions d’Applause. Il était un employé d’Encore mais agissait à titre de chef principal (le « chef principal ») pour Encore et Applause. En raison d’un différend, M. Wanasingha a cessé de travailler pour les entreprises de service de traiteur. Il n’est pas parti en bons termes. Un litige est toujours en cours entre M. Wanasingha et M. Silber.
+[32] Applause a été créée pour cibler le marché des événements casher haut de gamme. Applause organise la plupart de ses événements à la synagogue Beth Tzedec, où est située sa cuisine centrale. Applause offre également le service de traiteur pour des événements casher extérieurs. Les travailleurs qu’AE fournit à Applause travaillent sur place à la synagogue ou hors site dans des lieux extérieurs.
+[33] La préparation des aliments casher exige une supervision religieuse afin de s’assurer que la nourriture est préparée selon les lois alimentaires juives. Ces lois sont administrées par le Council of Orthodox Rabbis (conseil des rabbins orthodoxes). Applause est tenue de s’assurer qu’un contrôleur-casher est présent durant la préparation des aliments. Un contrôleur-casher est un superviseur religieux chargé de superviser la préparation des aliments et de s’assurer que les rites casher sont respectés. Le contrôleur-casher travaille pour le conseil des rabbins orthodoxes. AE paie le conseil pour les services du contrôleur-casher. Comme les lois casher exigent que la nourriture soit préparée d’une façon précise, les travailleurs d’AE doivent se conformer aux lois casher dans l’exercice de leurs fonctions lors des événements d’Applause.
+[34] En plus de gérer AE, M. Silber participe également aux activités quotidiennes des entreprises de service de traiteur. À ce titre, les fonctions de M. Silber ont trait aux ventes, à l’administration et aux finances des entreprises de service de traiteur. En ce qui concerne les ventes, ses tâches consistent à aller voir les lieux, à créer des menus, à traiter de toutes les autres questions logistiques et à traiter avec les clients des entreprises de service de traiteur, que j’appellerai les « utilisateurs finaux ». M. Silber signe parfois des contrats avec les utilisateurs finaux au nom des entreprises de service de traiteur. Dans l’exécution de ces fonctions, M. Silber est également appelé à déterminer de combien de travailleurs auront besoin les entreprises de service de traiteur pour un événement. Cependant, ce sont en général les coordonnateurs des services de traiteur et le personnel des ventes des entreprises de service de traiteur qui sont chargés de ces tâches. Les tâches administratives de M. Silber incluent la facturation, la vérification des comptes fournisseurs et des comptes clients et les négociations avec les fournisseurs. Parmi les fournisseurs, on compte des entreprises de location, des entreprises de lingerie et des fleuristes. Les tâches financières de M. Silber incluent la vérification des dépôts bancaires, des relevés bancaires et des flux de trésorerie.
+[35] M. Silber a affirmé que dans une certaine mesure, il participe davantage aux opérations quotidiennes d’Encore et d’Applause qu’à celles d’AE.
+[36] Même si pendant les années en cause, AE a travaillé uniquement avec ces deux entreprises de service de traiteur, les entreprises de service de traiteur ont de leur côté fait des affaires sans la participation d’AE.
+Les travailleurs (le personnel de service et les chefs)
+[37] En ce qui concerne le personnel de service, AE établit une liste de personnes à partir des curriculum vitæ qu’elle reçoit.
+[38] M. Silber a affirmé qu’il n’embauche que des travailleurs avec expérience. Les travailleurs expérimentés n’ont pas besoin de formation. Bon nombre des travailleurs sont embauchés sur recommandation des autres membres du personnel.
+[39] Bon nombre des membres du personnel de service qu’AE embauche occupent plusieurs emplois à l’intérieur et à l’extérieur de l’industrie de l’accueil. AE ne dispose pas d’une politique empêchant le personnel de service d’offrir ses services aux entreprises concurrentes de l’industrie de l’accueil. M. Silber a affirmé que pour de nombreux serveurs/serveuses, AE n’est pas la principale source de revenus, et contrairement aux superviseur(e)s, le taux de roulement est élevé pour ce qui est des serveurs/serveuses.
+[40] Toutefois, la plupart des chefs qui travaillent pour AE sont des chefs de carrière. Ils sont employés par Encore et Applause. M. Silber a affirmé qu’AE a, à l’occasion, eu besoin d’embaucher des chefs qui ne travaillaient pas pour Encore ou Applause.
+[41] M. Wanasingha, le chef principal des entreprises de service de traiteur, embauchait les chefs au nom des entreprises de service de traiteur et d’AE. En raison de son expertise, le chef principal était mieux placé que M. Silber pour embaucher des chefs.
+Les quarts de travail
+[42] Une fois que le coordonnateur des réservations d’AE reçoit la liste des besoins de la part d’Encore ou d’Applause concernant le nombre d’employés de service nécessaires pour un événement, il communique avec les membres du personnel de service pour leur offrir un quart de travail pour un événement. AE utilise StaffMate, un programme informatique utilisé dans l’industrie de l’accueil, pour communiquer avec les membres du personnel de service et leur offrir des quarts de travail.
+[43] Le coordonnateur des réservations d’AE utilise StaffMate pour envoyer un courriel aux membres du personnel de service et leur demander de consulter StaffMate pour prendre connaissance des quarts de travail offerts. Le personnel de service est ensuite en mesure d’accepter ou de refuser les quarts de travail offerts sur StaffMate. M. Silber a indiqué dans son témoignage que le personnel de service pouvait refuser un quart de travail sans conséquences.
+[44] La liste du personnel d’AE compte environ 140 personnes. AE sélectionne le personnel de service à qui un quart de travail est offert à partir de sa liste du personnel. Les personnes sont choisies en fonction du type d’événement, de la taille de l’événement et de l’expérience requise pour l’événement. Les utilisateurs finaux peuvent demander des membres du personnel de service ou des chefs précis pour leur événement et AE tentera de répondre à leurs demandes.
+[45] Un système différent est en place pour les chefs. AE ne possède pas de liste de personnel pour les chefs. Ce n’est également pas StaffMate qui est utilisé pour offrir des quarts de travail aux chefs. C’est plutôt le chef principal ou le gestionnaire de la cuisine d’Encore et d’Applause qui choisit les chefs qui travailleront lors des événements. Les chefs sont des employés d’Encore et d’Applause et sont choisis en fonction de leur degré d’expérience, de leurs qualifications et du type d’événement. Un horaire pour la semaine est préparé pour les chefs. L’horaire est affiché dans la cuisine des entreprises de service de traiteur.
+[46] M. Silber a affirmé qu’AE ne garantit pas un nombre minimal de quarts de travail pour les travailleurs. Il a également affirmé qu’AE n’a pas d’exigences concernant le nombre minimal d’heures que doit faire chaque travailleur. Toutefois, il a affirmé qu’en application des lois ontariennes, les travailleurs doivent être rémunérés pour au moins quatre heures par quart de travail.
+[47] M. Silber a indiqué dans son témoignage que si un membre du personnel de service doit annuler un quart de travail, il doit en informer le coordonnateur des réservations d’AE. Le coordonnateur des réservations d’AE est alors responsable de trouver un remplaçant à partir de la liste du personnel d’AE. AE demande à être avisée d’une annulation au moins 24 heures à l’avance, mais si ce délai n’est pas respecté, AE va quand même trouver un remplaçant pour le travailleur.
+Le jour de l’événement
+[48] Comme je l’ai mentionné plus haut, les événements d’AE peuvent accueillir de deux invités à deux mille invités.
+[49] Pour un événement d’importance, au moins un superviseur est nécessaire. Toutefois, un superviseur n’est pas requis pour les petits événements.
+[50] Avant un événement d’importance, les entreprises de service de traiteur font parvenir un dossier contenant les détails de l’événement au coordonnateur des réservations d’AE. Le coordonnateur des réservations d’AE fait ensuite parvenir ces instructions aux superviseur(e)s.
+[51] Les instructions vont porter sur la configuration de la salle et l’organisation des tables, indiquer s’il s’agit d’un événement où on servira un repas aux invités ou s’il s’agit plutôt d’un buffet, préciser la composition du menu, l’heure à laquelle servir les repas, indiquer si des cocktails seront offerts, s’il faut préparer des boissons spéciales, et donner la liste des travailleurs qui devraient être en service lors de l’événement.
+[52] Le superviseur informe habituellement les barmans/barmaids lorsqu’un bar doit être installé, et leur indique à quelle heure le bar ouvre et ferme et si des boissons spéciales sont nécessaires. Le superviseur communique également avec le chef principal afin de préciser à quel moment doit être servi chaque plat.
+[53] Lors d’événement d’importance, le superviseur sert d’agent de liaison entre le personnel de service, le chef principal et l’utilisateur final. Le jour de l’événement, le superviseur se présente à l’utilisateur final en indiquant qu’il agira comme personne-ressource tout au long de l’événement. Le superviseur confirme les instructions reçues de la part de l’entreprise de service de traiteur avec l’utilisateur final. Après la rencontre avec l’utilisateur final, le superviseur relaie l’information reçue de la part du coordonnateur des réservations d’AE aux travailleurs et s’assure que l’événement se déroule selon les instructions reçues de la part de l’entreprise de service de traiteur.
+[54] Les serveurs/serveuses et les barmans/barmaids doivent se rapporter au superviseur au moment d’arriver sur les lieux de l’événement. Lorsque les serveurs/serveuses ou les barmans/barmaids terminent un quart de travail, ils doivent informer le superviseur qu’ils quittent. Le superviseur prend note de l’heure à laquelle les serveurs/serveuses ou les barmans/barmaids ont débuté et terminé leur quart de travail. Le superviseur envoie la liste avec les heures d’arrivée et de départ au coordonnateur des réservations d’AE, qui consigne les heures travaillées par le personnel.
+[55] Les membres du personnel de service utilisent leurs propres moyens de transport pour se rendre sur les lieux de l’événement. Toutefois, si l’événement se déroule à l’extérieur de la région du Grand Toronto, ils sont rémunérés pour leur déplacement, pour une heure ou une heure et demie, selon l’emplacement de l’événement.
+[56] Afin de réduire le temps de préparation lors de l’événement, les repas pour l’événement sont préparés à l’avance. Le jour de l’événement, certains des chefs ou d’autres employés des entreprises de service de traiteur sont appelés à utiliser la camionnette d’Encore/Applause pour transporter la nourriture jusque sur les lieux de l’événement. Les chefs qui ne sont pas chargés de transporter la nourriture doivent se rendre sur les lieux de l’événement par leurs propres moyens de transport.
+[57] Sur place, le chef principal a les instructions de l’entreprise de service de traiteur concernant la manière dont l’utilisateur final aimerait que soient servis les repas, et à quel moment. Le chef principal relaie les instructions aux chefs et répartit les tâches parmi les chefs selon les besoins. Les chefs décortiquent la commande, vérifient le menu et discutent avec le chef principal afin de déterminer à quel moment chaque plat doit être servi aux invités. Les chefs doivent également voir à monter le buffet, si l’utilisateur final a choisi cette option. Pour les événements d’importance, la finition de la préparation des repas nécessite habituellement que les chefs soient répartis entre quatre sections : la salade, le garde-manger, la section des repas chauds et les desserts. Pour faciliter leur travail, les chefs disposent d’images des aliments préparés.
+[58] Si un problème survient lors de l’événement, l’utilisateur final en parle avec le superviseur, qui prend en charge les différentes questions. En cas de plaintes après l’événement, l’utilisateur final communique généralement avec le responsable des ventes de l’entreprise de service de traiteur; il ne communique pas directement avec AE.
+[59] Pour les événements d’importance, le représentant des ventes de l’entreprise de service de traiteur qui traite avec l’utilisateur final peut assister à l’événement. M. Silber a indiqué dans son témoignage que le représentant des ventes assiste à l’événement afin de garantir une certaine cohérence et parce que les utilisateurs finaux se sentent plus à l’aise s’il est présent. Il a affirmé que le représentant des ventes est principalement présent à l’événement à des fins de relations publiques et non pour superviser l’événement. S’il y a un problème, l’utilisateur final peut communiquer avec le représentant des ventes de l’entreprise de service de traiteur, qui transmettra l’information au superviseur. M. Silber a affirmé qu’il assistait également à certains événements, les petits comme les plus gros, dans le but de développer ses activités. Lorsqu’il assiste à un événement, l’utilisateur final peut également venir le consulter au cas où il aimerait apporter certains changements, comme modifier l’horaire de l’événement.
+[60] Pour les événements plus petits, le personnel de service reçoit les instructions pour l’événement par courriel, envoyé par le coordonnateur des réservations d’AE, lequel a reçu ses instructions de l’entreprise de service de traiteur. Les chefs reçoivent les instructions directement des entreprises de service de traiteur. Selon la taille de l’événement, un ou deux travailleurs peuvent suffire. Lors de l’événement, les travailleurs rencontrent d’abord l’utilisateur final et s’assurent que ses exigences sont satisfaites.
+Relation contractuelle
+[61] La liste de l’annexe A contient les noms de 50 chefs. Seulement cinq conventions d’entrepreneur indépendant ont été déposées en preuve pour les chefs. En ce qui concerne les 45 autres chefs, M. Silber a affirmé que les conventions d’entrepreneur indépendant n’étaient pas disponibles.
+[62] En ce qui concerne le personnel de service, sur les 168 membres du personnel de service, 166 avaient signé une convention d’entrepreneur indépendant. Seules Mme Sinchi et Mme Rubio n’avaient pas signé de convention d’entrepreneur indépendant. M. Silber a affirmé qu’il n’avait pas réalisé, avant le début de la procédure d’appel, que Mme Sinchi et Mme Rubio n’avaient pas signé de convention d’entrepreneur indépendant. M. Silber a affirmé que cela était dû à une erreur administrative.
+[63] La partie pertinente de la convention d’entrepreneur indépendant d’AE se lit comme suit :
+[traduction]
+CONVENTION D’ENTREPRENEUR INDÉPENDANT
+La présente CONVENTION D’ENTREPRENEUR INDÉPENDANT signée ce _____ jour de ______ 201___
+ENTRE :
+AE HOSPITALITY STAFFING, une entreprise constituée en personne morale
+en vertu des lois de l’Ontario
+(l’« entreprise »)
+et
+__________________________________________________Nom
+de la ville de ___________________________ (province de l’Ontario)
+(l’« entrepreneur indépendant »)
+ATTENDU QUE l’entrepreneur indépendant possède une expertise dans le domaine intéressant les affaires de l’entreprise et est prêt à fournir des services à l’entreprise;
+ET ATTENDU QUE l’entreprise est prête à engager l’entrepreneur indépendant à titre d’entrepreneur indépendant, et non à titre d’employé, selon les modalités et conditions établies;
+PAR CONSÉQUENT, il est entendu que :
+EMBAUCHE DE L’ENTREPRENEUR INDÉPENDANT
+L’entreprise embauche par les présentes l’entrepreneur indépendant selon les responsabilités et les dispositions établies dans la présente convention (ci-après les « services »).
+RELATION ENTRE LES PARTIES
+L’entrepreneur indépendant et l’entreprise conviennent expressément que l’entrepreneur indépendant est un travailleur autonome indépendant et n’est pas un employé de l’entreprise, à aucune fin, y compris, sans s’y limiter, (i) les retenues d’impôt à la source, les contributions au Régime de pensions du Canada ou les primes d’assurance-emploi; (ii) la couverture d’assurance contre les accidents du travail; (iii) les avantages sociaux de l’employé.
+SERVICES FOURNIS PAR L’ENTREPRENEUR INDÉPENDANT
+Pour la durée de la présente convention, l’entrepreneur indépendant a l’entière responsabilité de l’exécution des services définis par l’entreprise, conformément aux modalités et conditions énoncées dans la présente convention, et l’entrepreneur indépendant est redevable à l’entreprise pour l’exécution de ces tâches ou de ce travail.
+L’entrepreneur indépendant accepte de fournir tous les services, définis par l’entreprise, conformément à toutes les lois, ordonnances, règles et ordonnances ou décisions judiciaires fédérales, provinciales ou locales applicables à l’heure actuelle ou dans le futur aux services.
+RÉMUNÉRATION POUR LES SERVICES
+L’entrepreneur indépendant doit être rémunéré au tarif prévu pour les entrepreneurs indépendants en fonction des heures travaillées, aux deux semaines. Si un problème ou un différend survient concernant l’admissibilité des heures travaillées par l’entrepreneur indépendant dans l’exécution des services, il sera réglé en toute bonne foi par l’entreprise. L’entrepreneur indépendant comprend et convient que toute modification au montant payable à l’entrepreneur indépendant ne sera pas considérée comme une résiliation de la présente convention par l’entreprise.
+L’entrepreneur indépendant reconnaît et convient que le paiement décrit plus haut constitue l’unique rémunération versée pour les services rendus en vertu de la présente convention, et qu’il n’a droit à aucun autre type de rémunération pour ces services.
+IMPÔT SUR LE REVENU ET INDEMNISATION
+L’entreprise ne doit déduire aucun montant des sommes payables à l’entrepreneur indépendant en vertu de la présente convention pour les taxes fédérales, provinciales ou locales, y compris pour l’impôt sur le revenu fédéral ou provincial et les taxes à l’emploi (y compris les cotisations au Régime de pensions du Canada et à l’assurance-emploi). L’entrepreneur indépendant convient que toute obligation fiscale lui incombant et découlant des paiements faits en vertu de la présente convention est l’entière responsabilité de l’entrepreneur indépendant. L’entrepreneur indépendant indemnisera et dédommagera l’entreprise et chacun de ses administrateurs pour toute décision d’une autorité fiscale, pour avoir omis de retenir tout montant des paiements versés à des fins fiscales.
+[…]
+10. Immédiatement après la résiliation de la présente convention ou la fin des services rendus par l’entrepreneur indépendant à l’entreprise, ou à la demande de l’entreprise, l’entrepreneur indépendant convient de rendre à l’entreprise tous les uniformes et autres articles tangibles.
+[…]
+17. À la résiliation de la présente convention, l’entrepreneur indépendant doit s’abstenir de toute communication écrite ou verbale avec l’un ou l’autre des clients de l’entreprise concernant l’entreprise, ses produits, ses employés ou ses activités.
+[…]
+22. La présente convention ne peut être cédée par l’entrepreneur indépendant sans le consentement préalable par écrit de l’entreprise. L’entrepreneur indépendant ne peut céder toute portion du travail à effectuer en vertu de la présente convention sans le consentement préalable par écrit de l’entreprise. La présente convention peut être cédée par l’entreprise en lien avec une fusion ou la vente de la totalité ou d’une partie substantielle de ses actifs, et dans tout autre cas avec le consentement de l’entrepreneur indépendant, consentement qui ne doit pas être retenu ou retardé de manière déraisonnable.
+[…]
+[Non souligné dans l’original.]
+V. Analyse
+A. Décisions rendues en 2016 par le ministre – Contrat de louage de services entre AE et les travailleurs
+[64] Je traiterai sous cette rubrique uniquement de la question de savoir s’il existait un contrat de louage de services entre AE et les travailleurs en ce qui concerne les décisions rendues en 2016 par le ministre. J’aborderai les décisions rendues par le ministre en 2015 et 2016 concernant la question de l’agence de placement sous une rubrique distincte ci-dessous.
+1) Dispositions pertinentes
+[65] L’alinéa 5(1)a) de la LAE établit ce qu’est un emploi assurable pour les besoins d’un contrat de louage de services. Il est rédigé comme suit :
+5 (1) Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière.
+[66] Les dispositions pertinentes du RPC portant sur l’emploi ouvrant droit à pension sont rédigés comme suit :
+2 (1) Les définitions qui suivent s’appliquent à la présente loi.
+emploi L’état d’employé prévu par un contrat de louage de services ou d’apprentissage, exprès ou tacite, y compris la période d’occupation d’une fonction.
+6 (1) Ouvrent droit à pension les emplois suivants :
+a) l’emploi au Canada qui n’est pas un emploi excepté;
+2) Principes généraux de jurisprudence
+[67] La Cour suprême du Canada dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc. [5] a parlé de l’analyse qui doit être entreprise pour déterminer s’il existe un contrat de louage de services entre un travailleur et un employeur. Le juge Majors, en prononçant les motifs du jugement au nom de la Cour, a fait référence aux principes énoncés par le juge MacGuigan de la Cour d’appel fédérale dans l’arrêt Wiebe Door Services Ltd. c. M.R.N. [6] Le juge Major a écrit ce qui suit :
+44. Selon le juge MacGuigan, c’est le juge Cooke qui a fait la meilleure synthèse du problème dans la décision Market Investigations, Ltd. c. Minister of Social Security, [1968] 3 All E.R. 732 (Q.B.D.), p. 737-738 (suivie par le Conseil privé dans l’arrêt Lee Ting Sang c. Chung Chi-Keung, [1990] 2 A.C. 374, lord Griffiths, p. 382) :
+[traduction] Les remarques de lord Wright, du lord juge Denning et des juges de la Cour suprême des États-Unis laissent à entendre que le critère fondamental à appliquer est celui-ci : « La personne qui s’est engagée à accomplir ces tâches les accomplit-elle en tant que personne à son compte? » Si la réponse à cette question est affirmative, alors il s’agit d’un contrat d’entreprise. Si la réponse est négative, alors il s’agit d’un contrat de service personnel. Aucune liste exhaustive des éléments qui sont pertinents pour trancher cette question n’a été dressée, peut-être n’est-il pas possible de le faire; on ne peut non plus établir de règles rigides quant à l’importance relative qu’il faudrait attacher à ces divers éléments dans un cas particulier. Tout ce qu’on peut dire, c’est qu’il faudra toujours tenir compte du contrôle même s’il ne peut plus être considéré comme le seul facteur déterminant; et que des facteurs qui peuvent avoir une certaine importance sont des questions comme celles de savoir si celui qui accomplit la tâche fournit son propre outillage, s’il engage lui-même ses aides, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion, et jusqu’à quel point il peut tirer profit d’une gestion saine dans l’accomplissement de sa tâche.
+[…]
+47. Bien qu’aucun critère universel ne permette de déterminer si une personne est un employé ou un entrepreneur indépendant, je conviens avec le juge MacGuigan que la démarche suivie par le juge Cooke dans la décision Market Investigations, précitée, est convaincante. La question centrale est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte. Pour répondre à cette question, il faut toujours prendre en considération le degré de contrôle que l’employeur exerce sur les activités du travailleur. Cependant, il faut aussi se demander, notamment, si le travailleur fournit son propre outillage, s’il engage lui-même ses assistants, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion et jusqu’à quel point il peut tirer profit de l’exécution de ses tâches.
+48. Ces facteurs, il est bon de le répéter, ne sont pas exhaustifs et il n’y a pas de manière préétablie de les appliquer. Leur importance relative respective dépend des circonstances et des faits particuliers de l’affaire.
+[Non souligné dans l’original.]
+[68] En ce qui concerne le critère de l’intégration, le juge Majors dans Sagaz a confirmé l’approche adoptée par le juge MacGuigan, selon laquelle le critère de l’intégration peut quand même être utile, mais il doit être envisagé du point de vue de l’employé et non de celui de l’employeur. Le juge Majors s’est exprimé comme suit :
+43. Le juge MacGuigan reconnaît qu’en dépit de ces critiques le critère d’organisation peut être utile (à la p. 563) :
+De toute évidence, le critère d’organisation énoncé par lord Denning et d’autres juristes donne des résultats tout à fait acceptables s’il est appliqué de la bonne manière, c’est-à-dire quand la question d’organisation ou d’intégration est envisagée du point de vue de l’« employé » et non de celui de l’« employeur ». En effet, il est toujours très facile, en examinant la question du point de vue dominant de la grande entreprise, de présumer que les activités concourantes sont organisées dans le seul but de favoriser l’activité la plus importante. Nous devons nous rappeler que c’est en tenant compte de l’entreprise de l’employé que lord Wright [dans l’arrêt Montreal] a posé la question « À qui appartient l’entreprise [?] ».
+[Souligné dans l’original]
+[69] Les décisions rendues dans les arrêts Sagaz et Wiebe Door montrent clairement que la question centrale que doit trancher la Cour pour décider si un travailleur est un employé ou un entrepreneur indépendant est de savoir si la personne qui a été engagée pour fournir les services les fournit en tant que personne travaillant à son compte.
+[70] Le juge Majors a indiqué qu’il faut toujours prendre en considération le degré de contrôle qu’exerce l’employeur sur le travailleur, pour déterminer si une personne travaille à son compte. Il convient aussi de se demander si celui qui accomplit la tâche fournit son propre outillage, s’il engage lui-même ses aides, quelle est l’étendue de ses risques financiers, jusqu’à quel point il est responsable des mises de fonds et de la gestion, et jusqu’à quel point il peut tirer profit d’une gestion saine dans l’accomplissement de sa tâche, et si les employés sont intégrés aux activités de l’employeur. Ces facteurs ne sont pas exhaustifs et le poids accordé à chacun dépend des faits et des circonstances de l’affaire.
+[71] Dans la plupart des affaires traitant de la question de savoir si une personne est un entrepreneur indépendant ou non, certains arguments laisseront entendre qu’un travailleur est un employé, alors que d’autres laisseront entendre qu’il est un entrepreneur indépendant. Comme l’a affirmé le juge MacGuigan dans Wiebe Door, il reste que, dans un grand nombre de cas, le tribunal doit se contenter de comparer deux solutions en évaluant l’importance des facteurs qui tendent vers une solution et en les équilibrant par ceux qui tendent vers la solution contraire. Cela dit, il est toujours important de déterminer quelle relation globale les parties entretiennent entre elles.
+[72] Plus récemment, la Cour d’appel fédérale a tenu compte de l’intention des parties pour décider si une personne est un entrepreneur indépendant ou un employé. Dans l’arrêt 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu National) [7] , le juge Mainville de la Cour d’appel fédérale s’est penché sur les affaires dans lesquelles les intentions des parties ont été prises en considération. Le juge Mainville a affirmé que l’intention devrait constituer la première étape de l’analyse. La seconde étape est de s’assurer que les faits et le comportement des parties confirment leurs intentions. Il a affirmé ce qui suit :
+[37] Étant donné que la qualification de la relation professionnelle a des conséquences juridiques et pratiques importantes et d’une portée considérable, qui intéressent entre autres le droit de la responsabilité délictuelle (la responsabilité du fait d’autrui), les programmes sociaux (l’admissibilité et les cotisations), les relations de travail (la syndicalisation) et la fiscalité (l’enregistrement aux fins de la TPS et la situation au regard de la Loi de l’impôt sur le revenu), on ne peut simplement laisser les parties décider à leur seul gré si elles sont liées par une relation d’employeur à employé ou de client à entrepreneur indépendant. La situation juridique d’entrepreneur indépendant ou d’employé ne se détermine donc pas seulement sur la base de l’intention déclarée des parties. Cette détermination doit aussi se fonder sur une réalité objective et vérifiable.
+[38] C’est pourquoi les arrêts Wolf et Royal Winnipeg Ballet exposent une méthode en deux étapes pour l’examen de la question centrale, telle que l’ont définie les arrêts Sagaz et Wiebe Door, qui est d’établir si l’intéressé assure, ou non, les services en tant que personne travaillant à son compte.
+[39] La première étape consiste à établir l’intention subjective de chacune des parties à la relation. On peut le faire soit d’après le contrat écrit qu’elles ont passé, soit d’après le comportement effectif de chacune d’elles, par exemple en examinant les factures des services rendus, et les points de savoir si la personne physique intéressée s’est enregistrée aux fins de la TPS et produit des déclarations d’impôt en tant que travailleur autonome.
+[40] La seconde étape consiste à établir si la réalité objective confirme l’intention subjective des parties. Comme le rappelait la juge Sharlow au paragraphe 9 de l’arrêt TBT Personnel Services Inc. c. Canada, 2011 CAF 256, 422 N.R. 366, « il est également nécessaire d’examiner les facteurs exposés dans Wiebe Door afin de déterminer si les faits concordent avec l’intention déclarée des parties ». Autrement dit, l’intention subjective des parties ne peut l’emporter sur la réalité de la relation telle qu’établie par les faits objectifs. À cette seconde étape, on peut aussi prendre en considération l’intention des parties, ainsi que les modalités du contrat, puisqu’elles influent sur leurs rapports. Ainsi qu’il est expliqué au paragraphe 64 de l’arrêt Royal Winnipeg Ballet, les facteurs applicables doivent être examinés « à la lumière de » l’intention des parties. Cela dit, cependant, la seconde étape est une analyse des faits pertinents aux fins d’établir si le critère des arrêts Wiebe Door et de Sagaz est, ou non, rempli, c’est-à-dire si la relation qu’ont nouée les parties est, sur le plan juridique, une relation de client à entrepreneur indépendant ou d’employeur à employé.
+[Non souligné dans l’original.]
+[73] J’appliquerai maintenant les principes établis par la Cour suprême du Canada dans l’arrêt Sagaz et par la Cour d’appel fédérale dans l’arrêt Connor Homes aux faits des présents appels.
+[74] La question à trancher est de savoir si les travailleurs embauchés par AE étaient assujettis à un contrat de louage de services, conformément à l’alinéa 5(1)a) de la LAE et à l’alinéa 6(1)a) du RPC, ou si les travailleurs étaient des entrepreneurs indépendants, pour la période allant du 1er janvier 2013 au 31 décembre 2013.
+(a) PREMIÈRE ÉTAPE : INTENTION DES PARTIES
+[75] Selon l’arrêt Connor Homes, la première étape consiste à établir l’intention subjective de chacune des parties à la relation. Les parties entendaient-elles agir comme entrepreneurs indépendants?
+[76] En ce qui concerne le personnel de service, l’intimé reconnaît que les travailleurs avaient l’intention de travailler comme entrepreneurs indépendants. À l’exception de Mme Sinchi et de Mme Rubio, tous les membres du personnel de service ont signé la convention d’entrepreneur indépendant d’AE.
+[77] Sauf pour ce qui est de Mme Sinchi, qui avait l’impression qu’elle travaillait pour AE comme employé, les autres témoins qui ont travaillé comme superviseur(e)s et serveurs/serveuses ont affirmé qu’ils savaient qu’ils étaient des entrepreneurs indépendants. Ils ont également affirmé qu’ils comprenaient qu’étant donné qu’ils étaient des entrepreneurs indépendants, AE n’était pas responsable de leurs déductions à la source. Certains ont affirmé qu’ils exploitaient leur propre entreprise et qu’ils offraient leurs services à AE.
+[78] À la lumière des témoignages, j’estime qu’AE et le personnel de service avaient l’intention d’établir une relation d’entrepreneur indépendant.
+[79] En ce qui concerne les chefs, l’intimé affirme qu’il n’y avait pas suffisamment d’éléments de preuve pour prouver que l’intention des chefs était d’établir une relation d’entrepreneur indépendant avec AE. Puisque seulement cinq contrats sur 50 étaient disponibles pour les chefs, l’intimé demande à la Cour de tirer une conclusion négative. La position de l’intimé est qu’AE aurait dû appeler à titre de témoins le chef principal des entreprises de service de traiteur, M. Wanasingha, ou quelques-uns des autres chefs dont les noms apparaissent à l’annexe A, afin d’établir leur intention d’agir comme entrepreneur indépendant.
+[80] L’intimé s’en remet également au témoignage de Mme Hagerman, chef chez AE et employé des entreprises de service de traiteur durant les années en cause. Elle a affirmé qu’elle avait toujours supposé qu’elle était une employée alors qu’elle travaillait pour AE. À l’audience, quand l’avocat de l’intimé a montré à Mme Hagerman la convention d’entrepreneur indépendant d’AE, elle a affirmé qu’elle n’avait jamais vu, ni signé, une telle convention.
+[81] M. Silber a affirmé que selon la politique d’AE, tous les travailleurs, y compris les chefs, devaient signer la convention d’entrepreneur indépendant au moment de commencer à travailler. Il est important pour AE que les travailleurs comprennent la nature de leur relation de travail. M. Silber a affirmé qu’il avait signé les contrats des chefs au nom d’AE. Il les a retournés à M. Wanasingha. Il a affirmé que les contrats sont disparus autour de 2016 quand M. Wanasingha a quitté les entreprises de service de traiteur en de mauvais termes pour lancer une entreprise concurrente.
+[82] M. Green, chef pour les entreprises de service de traiteur et pour AE, a signé la convention d’entrepreneur indépendant et son intention était d’agir à titre d’entrepreneur indépendant pendant qu’il travaillait pour AE. À l’audience, l’intimé a reconnu que l’intention de M. Green était d’agir à titre d’entrepreneur indépendant pendant qu’il travaillait pour AE.
+[83] Je suis d’accord avec l’intimé qu’il aurait été facile pour AE d’appeler quelques-uns des chefs dont les noms apparaissent à l’annexe A afin de confirmer que les chefs avaient l’intention d’agir à titre d’entrepreneurs indépendants. Toutefois, M. Silber a affirmé qu’il avait signé les conventions d’entrepreneur indépendant pour les chefs. Par conséquent, les contrats ont été signés mais n’étaient simplement pas disponibles à l’audience pour les raisons que j’ai mentionnées précédemment. Je suis d’avis que les témoignages de M. Silber et de M. Green suffisent à établir que l’intention des chefs était également de travailler à titre d’entrepreneur indépendant pendant qu’ils travaillaient pour AE. Je n’ai aucune raison de ne pas croire les témoignages de M. Silber et de M. Green. Le témoignage de Mme Hagerman était moins fiable sur cette question, puisqu’elle ne se souvient pas avoir signé un quelconque document d’emploi lorsqu’elle a été embauchée par les entreprises de service de traiteur ou AE, ce qui reste peu probable.
+(b) DEUXIÈME ÉTAPE – LES FAITS OBJECTIFS
+[84] Selon l’arrêt Connor Homes, la deuxième étape consiste à établir si la réalité objective confirme l’intention subjective des parties. Pour ce faire, j’analyserai les critères énoncés dans l’arrêt Sagaz pour décider si les faits confirment l’intention des parties d’agir à titre d’entrepreneurs indépendants. Il est clair d’après la jurisprudence que l’intention subjective ne peut l’emporter sur la réalité de la relation telle qu’établie par les faits objectifs.
+(i) Degré de contrôle
+[85] Le premier critère consiste à décider si AE exerçait un contrôle sur les travailleurs.
+Thèse d’AE – Degré de contrôle
+[86] AE affirme qu’elle n’exerce aucun contrôle sur les travailleurs. AE ne fait qu’embaucher du personnel expérimenté. Elle agit ainsi parce que les travailleurs expérimentés peuvent exécuter leurs tâches sans formation, instructions ou supervision.
+[87] Lors d’événements d’importance, le superviseur ne contrôle par les serveurs/serveuses ou les barmans/barmaids. Le rôle du superviseur est d’agir comme agent de liaison entre le personnel de service, le chef principal et l’utilisateur final. Par exemple, si l’utilisateur final souhaite modifier l’horaire, le rôle du superviseur est de relayer les demandes de l’utilisateur final au personnel de service et au chef principal et de s’assurer que les requêtes de l’utilisateur sont satisfaites. Le superviseur agit également comme coordonnateur et répartit le travail parmi les serveurs/serveuses. Il indique au personnel de service ce qu’il y a à faire, mais pas comment le faire. Les membres du personnel de service sont expérimentés. Il n’est pas nécessaire qu’on leur dise comment faire leur travail. En ce qui concerne les barmans/barmaids, le rôle du superviseur est de les informer de l’endroit choisi pour monter le bar, à quelle heure ouvrir et fermer le bar, et de leur indiquer si des boissons spéciales sont nécessaires pour l’événement. AE affirme que les superviseur(e)s ne disent pas aux barmans/barmaids comment faire leur travail, et ne font que les informer de ce qui doit être fait.
+[88] AE affirme que lors de l’événement, le superviseur sert de fil conducteur en relayant l’information qu’il reçoit des entreprises de service de traiteur au personnel de service et au chef principal, puisque les instructions des entreprises de service de traiteur reflètent les demandes de l’utilisateur final. Par conséquent, AE soutient que c’est l’utilisateur final, et non le superviseur, qui a le dernier mot.
+[89] AE affirme que le même principe s’applique dans le cas des chefs. Les chefs savent comment faire leur travail. Lors des événements d’importance, le rôle du chef principal est de coordonner les responsabilités et de les répartir entre les différents chefs, et de s’assurer que l’horaire prévu pour la préparation des aliments est respecté.
+[90] Le superviseur et le chef principal doivent s’assurer que le degré de qualité auquel s’attend le client est respecté. AE affirme que surveiller le travail ou s’assurer d’un certain degré de qualité n’équivaut pas à exercer un contrôle.
+[91] AE n’empêche pas le personnel de service de travailler pour ses concurrents. Travailler pour AE n’est pas, pour la plupart des membres du personnel de service, leur principal emploi. Ils ont d’autres emplois, notamment dans le domaine du théâtre ou du spectacle, et certains ont même un emploi à temps plein.
+[92] AE ne garantit à aucun de ces travailleurs un nombre minimal d’heures. De plus, AE affirme que le personnel de service peut accepter ou refuser un quart de travail pour un événement, sans conséquences.
+[93] AE ne procède pas à des examens du rendement.
+[94] À l’exception d’une séance d’information offerte sur les lois casher au moment où Applause a lancé ses activités, AE n’a offert aucune formation.
+[95] AE a souligné que les éléments de preuve montrent que les travailleurs ont négocié leur tarif horaire avant de commencer à travailler pour AE. M. Gonzalez a affirmé que s’il n’avait pas pu négocier un taux horaire le satisfaisant, il aurait quitté et offert ses services à d’autres entreprises du même secteur d’activités qu’AE.
+[96] Le personnel de service présente des factures à AE toutes les deux semaines pour les services fournis.
+[97] Pour les événements plus petits, aucun superviseur n’est nécessaire. L’information concernant l’événement est transmise au personnel de service par le coordonnateur des réservations d’AE, qui reçoit l’information d’Encore ou d’Applause.
+Analyse – Degré de contrôle
+[98] Avant l’événement, le superviseur a déjà reçu le dossier de l’entreprise de service de traiteur par l’intermédiaire du coordonnateur des réservations d’AE. Le dossier contient des instructions détaillées concernant le déroulement de l’événement, les noms des membres du personnel de service et leur nombre pour l’événement, l’horaire de l’événement, l’organisation des tables et toute demande spéciale pour l’installation du buffet ou la présentation du dîner. Lors de l’événement, le superviseur rencontre l’utilisateur final afin de confirmer les instructions reçues de la part du coordonnateur des réservations d’AE. Même si ce n’était peut-être pas la politique d’AE, les témoins qui ont agi à titre de superviseur(e)s ont affirmé qu’au début de chaque événement, le superviseur organise une séance d’information pour transmettre l’information reçue de la part du coordonnateur des réservations d’AE. Dans le cas d’un événement d’Applause, le superviseur explique également les lois casher afin de s’assurer que le personnel de service s’y conforme. Durant la séance d’information, il n’est pas rare que le superviseur monte une table pour montrer aux serveurs comment les autres tables doivent être montées.
+[99] Il n’est pas contesté que les membres du personnel de service ont de l’expérience et savent comment faire leur travail. Les témoignages des membres du personnel de service sont conformes sur ce point. Ils ont tous affirmé qu’ils savaient comment faire leur travail et que le superviseur n’avait pas à leur dire comment accomplir leurs tâches.
+[100] Toutefois, les témoignages des superviseur(e)s et des serveurs/serveuses confirment également que les superviseur(e)s ont la possibilité, si nécessaire, de corriger les serveurs/serveuses et de leur dire comment accomplir leurs tâches.
+[101] En contre-interrogatoire, Mme Belton a affirmé ce qui suit : [8]
+[traduction] Q. Mais les superviseur(e)s peuvent intervenir si les choses se passent mal?
+R. Bien sûr. Cela fait partie de leur travail sur place.
+Q. Et est-ce qu’ils... peuvent-ils corriger le travail des serveurs/serveuses s’ils ne sont pas d’accord sur la manière de faire ce travail.
+R. Oui... oui.
+[102] Quand on a demandé à Mme Belton en réinterrogatoire si l’exemple des accessoires de table ne survenait que dans les cas où on n’utilisait pas les accessoires de table standard, elle a répondu ce qui suit : [9]
+[traduction] R. Habituellement, tout est assez standard. Mais avec les accessoires de table, il peut y avoir aussi tellement de variantes. Il existe 20 manières différentes de plier une serviette, d’accord? Il faut donner un exemple pour le personnel selon ce qu’on veut avoir cette journée-là.
+[103] Mme Kirsch a affirmé ce qui suit concernant son rôle à titre de superviseur : [10]
+[traduction] Q. Mais comme paire d’yeux additionnelle, vous étiez bien placée pour corriger les choses qui n’étaient pas correctement placées sur la table?
+R. Cela faisait partie de mon travail, oui. Et certains sont plus pointilleux que d’autres. Je suis très compulsive sur ce point. Je travaille pour le client, je dois m’assurer que tout est parfait pour lui.
+[104] M. Gonzalez a affirmé ce qui suit concernant le rôle du superviseur lors d’un événement : [11]
+[traduction] Q. Le superviseur pourrait, si vous ne respectiez pas les règles casher, le superviseur pourrait vous dire comment vous y conformer?
+R. Oui, il pourrait vous dire de ne pas boire de café à l’intérieur de la synagogue, ou vous dire que vous ne pouvez pas utiliser votre propre couteau.
+[105] M. Gonzalez a également affirmé que le superviseur commence par monter les accessoires de la table en guise d’exemple, exemple que doivent suivre les serveurs. [12]
+[106] Mme Sinchi a affirmé ce qui suit concernant son rôle lorsqu’elle travaille comme superviseure : [13]
+[traduction] Q. Vous avez dit que vous pourriez monter des accessoires de table en guise d’exemple?
+R. Mm-hmm.
+Q. Que font les serveurs/serveuses après cet exemple? Désolé, les serveurs/serveuses chargés de monter les tables, que font-ils une fois l’exemple donné sur la manière de placer les accessoires de table?
+R. Ils doivent suivre l’exemple donné.
+[107] Mme Sinchi a également ajouté qu’à titre de superviseure, elle doit pousser les personnes à travailler sinon rien ne serait fait. Mme Sinchi a affirmé ce qui suit : [14]
+[traduction] R. Mm-hmm. Et aussi surveiller l’heure, d’accord? Parce que nous avons un horaire à respecter. On ne peut pas y consacrer toute la journée; c’est deux heures pour monter les tables. Non, il faut travailler vite, vite, vite et nous devons aussi pousser les personnes pour nous assurer que tout est parfait.
+Q. Vous avez dit qu’il vous fallait pousser les personnes pour vous assurer que tout est parfait.
+R. Mm-hmm.
+Q. Qu’entendez-vous par là?
+R. Parfois les gens parlent au téléphone, vous savez, ils se cachent derrière les portes pour discuter. Non, celui-là, celui-là, il faut, vous savez, lui dire d’aller travailler, que c’est le temps de travailler. Sinon nous ne l’appellerons plus.
+Q. Vous avez dit qu’en plus de pousser les personnes, vous deviez jeter un œil autour pour vous assurer qu’elles faisaient les bonnes choses.
+R. Mm-hmm.
+[108] En ce qui concerne les chefs, M. Green a expliqué que le milieu du service de traiteur exige une certaine uniformité. Par exemple, cela importe peu qu’il s’agisse d’un petit ou d’un gros événement, si l’utilisateur final commande une des salades au menu, cette salade doit avoir la même apparence que les autres, peu importe la taille de l’événement et à quel moment on la commande. L’uniformité quant à la présentation des plats est de la plus haute importance pour Encore et Applause. En contre-interrogatoire, M. Green a affirmé ce qui suit : [15]
+[traduction] Q. Mais lorsqu’ils préparent, par exemple, une salade de betteraves, les chefs doivent s’assurer qu’elle ressemble à celle de la photo?
+R. Exact. Et pour les événements d’importance, nous aurions ces photos.
+Q. Mais si vous remarquiez, ou si un chef remarquait que le plat ne ressemble pas à ce à quoi il devrait ressembler, ou n’est pas présenté comme il devrait l’être, vous corrigeriez le problème?
+R. Nous avons la possibilité de le faire, oui.
+Q. Et je suppose que puisque vous auriez la possibilité de faire ces correctifs, le chef principal aurait aussi cette possibilité?
+R. Si... je veux dire, le chef... le chef principal est en charge de tout. Donc, s’il n’aime pas le plat, s’il ne ressemble pas à la photo, alors c’est certain que vous aurez une chance de le modifier. Mais nous faisons d’abord les choses sans supervision.
+Q. Et lors d’événements plus petits, je comprends qu’il n’y aurait pas toujours des photos des plats, mais qu’elles seraient disponibles dans les cas où les chefs ne sauraient pas comment présenter un plat?
+R. Exact.
+[109] Il existe également un élément de contrôle lors des événements plus petits où le superviseur n’est pas présent. M. Green a affirmé dans son témoignage que lors des événements plus petits, [traduction] « dans le doute, le chef est responsable » [16] . De plus, les instructions envoyées par courriel au personnel de service et aux chefs sont assez précises. Par exemple, dans l’une de ces instructions, on peut lire : [traduction] « Ne pas toucher au réfrigérateur à vin, ne rien utiliser qui se trouve dans la maison – vérifier avec Venette avant d’utiliser quoi que ce soit – Ne pas se servir de la crédence. » [17] .
+[110] Comme le juge l’a affirmé dans l’arrêt Hennick c. Ministre du Revenu national [18] , le contrôle ne concerne pas l’exercice réel d’un contrôle, mais plutôt le droit ou la capacité d’exercer un contrôle. Je rejette le témoignage de M. Silber quand il affirme que le rôle des superviseur(e)s et du chef principal consistait uniquement à coordonner le travail et à relayer l’information ou les demandes de l’utilisateur final aux travailleurs. Les éléments de preuve montrent que lorsque c’est nécessaire, les superviseur(e)s et le chef principal ont la possibilité d’exercer un contrôle sur les travailleurs.
+[111] AE soutient également que le superviseur sert de fil conducteur en relayant les demandes de l’utilisateur final au personnel. Autrement dit, la position d’AE est que le personnel de service est sous le contrôle de l’utilisateur final, et non sous le contrôle du superviseur. La trousse d’information préparée par les entreprises de service de traiteur et acheminée au superviseur inclut les demandes et les instructions de l’utilisateur final. Par conséquent, ce sont les instructions données par l’utilisateur final, et non par AE, que le superviseur exécute durant l’événement.
+[112] Je dois rejeter l’argument d’AE. La réussite d’AE et des entreprises de service de traiteur dépend de la satisfaction de l’utilisateur final. Il n’est pas nécessaire d’ajouter que le rôle du superviseur est de s’assurer que les demandes de l’utilisateur final sont satisfaites. C’est la « raison d’être » d’AE et des entreprises de service de traiteur. Les méthodes employées pour exécuter le travail nécessaire sont celles d’AE et des entreprises de service de traiteur. En clair, la relation de travail n’est pas entre le personnel de service et l’utilisateur final. L’utilisateur final n’a pas le pouvoir de dire à un serveur ou à une serveuse ce qu’il ou elle doit faire et comment le faire. Par conséquent, je rejette l’idée que le superviseur sert simplement de fil conducteur pour relayer l’information transmise par l’utilisateur final.
+[113] AE avance le même argument concernant la séance d’information sur les lois casher. Selon AE, la séance d’information de 2012 portant sur les lois casher n’équivaut pas à de la formation. Il s’agissait simplement pour AE de prendre les mesures nécessaires pour s’assurer que le personnel de service et les chefs prennent connaissance des souhaits de l’utilisateur final, pour qui les lois religieuses étaient extrêmement importantes, et s’y conforment. Par conséquent, AE affirme que lorsqu’un superviseur dit au personnel de service comment se conformer aux lois casher, il agit également comme un fil conducteur en relayant les demandes de l’utilisateur final, ou peut-être d’une autorité supérieure.
+[114] Je ne partage pas l’opinion d’AE. Applause a été constituée en société pour offrir un service de traiteur lors d’événements casher haut de gamme. Pour connaître le succès, il est important pour AE et Applause que le personnel de service et les chefs respectent les lois casher dans l’accomplissement de leurs tâches. Je conviens avec AE que les lois casher doivent être respectées, peu importe que les travailleurs soient des employés ou des entrepreneurs indépendants. Cela dit, AE et Applause ne laissent pas aux travailleurs eux-mêmes le soin d’en apprendre plus sur les lois casher. AE a offert une formation générale à ce sujet en 2012. AE envoie des courriels aux nouveaux travailleurs concernant la manière d’accomplir leurs tâches lors d’événements casher et, avant chaque événement, le superviseur explique les lois casher.
+[115] La preuve montre également qu’AE et les entreprises de service de traiteur ont mis en place des mécanismes leur permettant d’exercer un contrôle sur les travailleurs, autant pour les petits que les gros événements. D’abord, c’est AE qui choisit à qui est offert un quart de travail pour un événement. C’est également AE qui décide quel rôle assumeront les membres du personnel de service lors d’un événement, soit comme superviseur(e)s, serveurs/serveuses ou barmans/barmaids.
+[116] Bien que le personnel de service puisse refuser un quart de travail sans conséquences, ce qui s’apparente plus à une relation contractuelle qu’à une relation d’emploi, c’est AE qui est responsable de trouver un remplaçant. De plus, le personnel de service n’a pas la possibilité d’offrir en sous-traitance un quart de travail sans l’approbation d’AE. Le fait de ne pas être en mesure de trouver son propre remplaçant ou d’offrir en sous-traitance son quart de travail laisse croire à une relation d’employé plutôt qu’à une relation d’entrepreneur indépendant.
+[117] En ce qui concerne les chefs, c’est le chef principal ou le gestionnaire de la cuisine d’Encore et d’Applause qui choisit les chefs qui travailleront lors de chaque événement et le rôle qu’ils occuperont. Les chefs, lorsqu’ils travaillent pour des événements d’AE, n’occupent pas nécessairement les mêmes rôles que lorsqu’ils travaillent pour Encore ou Applause.
+[118] Mme Hagerman et M. Green, tous deux employés à temps plein des entreprises de service de traiteur durant les années en cause, ont indiqué dans leurs témoignages comment les chefs étaient informés des quarts de travail offerts par AE. M. Green est toujours à l’emploi des entreprises de service de traiteur, mais pas Mme Hagerman. Ils ont expliqué qu’un horaire pour les chefs est affiché dans la cuisine d’Encore ou d’Applause chaque semaine. L’horaire est préparé par le chef principal ou le gestionnaire de la cuisine des entreprises de service de traiteur. L’horaire contient trois colonnes; une colonne indique les jours et les heures durant lesquels les chefs travailleront pour Encore, l’autre colonne fournit les mêmes renseignements mais pour Applause et la troisième colonne indique les jours et les heures durant lesquels les chefs travailleront pour AE lors d’un événement où Encore ou Applause assume le service de traiteur [19] . Les chefs ne sont pas consultés avant la préparation de l’horaire de travail.
+[119] Durant son témoignage, M. Green a affirmé que les quarts de travail pour un événement reviennent aux chefs dont le nom apparaît sur l’horaire, à moins qu’ils ne refusent le quart de travail. Par conséquent, si un chef ne refuse pas explicitement un quart de travail, il doit faire ce quart de travail. En réponse à la question de savoir si on s’attend à ce que les chefs acceptent les quarts de travail, M. Green a affirmé ce qui suit [20] :
+[traduction] R. Oui, c’est le cas, parce que vous savez, Encore et Applause essaient d’envoyer la meilleure équipe qu’elles peuvent former. Donc, si vous refusez leur offre, elles vont devoir trouver un plan B ou un plan C. Elles veulent la meilleure représentation possible en tout temps, alors si elles ne sont plus votre premier choix, elles vont être déçues, d’accord?
+[120] En réponse à la question de savoir s’il se sentait obligé d’accepter les quarts de travail proposés, M. Green a répondu ce qui suit [21] :
+[traduction] R. Obligé? Je prends ça davantage comme un honneur. Si elles ont confiance dans votre travail, elles vont vous offrir des quarts de travail, et vous donner des tâches à accomplir. Si elles n’ont pas confiance en vous, si vous n’êtes pas digne de confiance, vous n’allez rien recevoir.
+[121] Mme Hagerman a affirmé dans son témoignage que selon elle, si un chef refusait un événement, on ne lui offrirait plus autant de quarts de travail à l’avenir. Toutefois, M. Green a affirmé que le fait qu’un chef refuse un quart de travail n’entraînait aucune conséquence. M. Green et Mme Hagerman n’ont jamais refusé un quart de travail offert par AE. Par conséquent, leurs réponses étaient fondées sur leurs perceptions de la situation. M. Silber a répondu ce qui suit à la question [22] :
+[traduction] Q. Et à votre connaissance, y a-t-il déjà eu des conséquences, des mesures de discipline imposées par l’entreprise de service de traiteur – je ne vois pas comment AE pourrait s’engager pour un événement sans être certaine que les chefs n’allaient pas leur signifier un refus?
+R. Non, pas à ma connaissance.
+[122] Même si je devais accepter le fait qu’il n’y a aucune conséquence pour les chefs s’ils refusent un quart de travail offert par AE, le système mis en place pour les chefs par les entreprises de service de traiteur met une certaine pression sur eux pour qu’ils acceptent les quarts de travail et fait qu’il est difficile de refuser un quart de travail. Le quart de travail est le leur, à moins qu’ils ne le refusent. De plus, les chefs ne sont pas consultés avant la préparation de l’horaire de travail. C’est également, à mes yeux, une forme de contrôle.
+[123] Même si les chefs sont autorisés à travailler pour les concurrents d’AE, à dire vrai, ils n’ont tout simplement pas le temps de le faire. Les chefs travaillent à temps plein comme employés d’Encore ou d’Applause, en plus des quarts de travail qui leur sont offerts par AE. M. Green et Mme Hagerman ont affirmé dans leur témoignage que durant les années en cause, ils n’ont pas travaillé pour une entreprise semblable à AE ou pour toute autre entreprise de service de traiteur.
+[124] De plus, le système mis en place par les entreprises de service de traiteur afin de garantir une uniformité du service d’un événement à l’autre, petit ou gros, constitue une forme de contrôle exercé sur les travailleurs. Lors des événements, les plats doivent tous goûter la même chose et être présentés d’une certaine manière. À cette fin, des images sont fournies par les entreprises de service de traiteur lors des événements. Comme l’a expliqué M. Green dans son témoignage, [traduction] « nous essayons toujours de nous assurer que les plats ont tous la même apparence, peu importe qui le prépare. Donc, oui, il y a certaines lignes directrices » [23] . La même chose vaut pour le personnel de service. Le superviseur doit s’assurer que les instructions incluses dans la trousse d’information reçue de la part de l’entreprise de service de traiteur, par l’intermédiaire du coordonnateur des réservations d’AE, sont respectées. Par exemple, les tables doivent être montées d’une certaine manière, et les serviettes doivent être pliées d’une certaine manière. Pour assurer une certaine uniformité, une table est montée en guise d’exemple et les serveurs/serveuses doivent reproduire cette table.
+[125] AE exerce également un contrôle en exigeant des serveurs/serveuses et des barmans/barmaids qu’ils portent un tablier avec le logo d’Encore ou d’Applause. Les chefs ont également affirmé qu’ils ont l’obligation de porter une veste de chef blanche avec le logo des entreprises de service de traiteur. Je comprends qu’il s’agit là d’une façon de faire la promotion des entreprises de service de traiteur. Cela dit, les travailleurs n’ont pas le choix, ils doivent porter le logo de l’entreprise.
+[126] À la lumière des faits qui précèdent, je suis d’avis que le critère du contrôle milite davantage en faveur d’une relation d’employé que d’une relation d’entrepreneur indépendant.
+(ii) Propriété des instruments de travail
+Thèse d’AE – Instruments de travail
+[127] AE s’appuie sur la décision de la Cour d’appel fédérale dans Precision Gutters [24] pour affirmer que ce critère joue en faveur d’une relation d’entrepreneur indépendant dans les présents appels.
+Analyse – Instruments de travail
+[128] Dans l’arrêt Precision Gutters, les travailleurs/poseurs ont été engagés par Precision Gutters pour installer des gouttières d’immeuble. Precision Gutters possédait cinq machines à fabriquer des profils de gouttière. Un certain nombre de travailleurs possédaient leurs propres machines à fabriquer des profils de gouttière. Les autres utilisaient les machines de Precision Gutters. Precision Gutters fournissait aussi les gouttières en aluminium utilisées dans la pose. Toutefois, les travailleurs possédaient leurs propres instruments de travail, ayant généralement une valeur d’environ 2 000 $.
+[129] Le juge Sexton de la Cour d’appel fédérale a conclu dans l’arrêt Precision Gutters que « si les instruments de travail appartenaient au travailleur et qu’il était raisonnable que ceux-ci lui appartiennent, ce critère permet de conclure que la personne est un entrepreneur indépendant même si l’employeur présumé fournit des outils spéciaux pour l’entreprise en cause » [25] .
+[130] AE soutient que les serveurs/serveuses ont affirmé dans leur témoignage qu’ils utilisent leurs propres instruments lorsqu’ils travaillent pour des événements. Par exemple, les serveurs/serveuses apportent certains des instruments suivants : un décapsuleur, un tire-bouchon, un briquet, un carnet de notes, un stylo, un tablier et une cravate [26] . Les barmans/barmaids apportent leurs propres outils de bar. Comme dans le cas des chefs, certains apportent leurs propres couteaux. Par conséquent, AE soutient que le critère des instruments de travail mène à la conclusion que les travailleurs sont des entrepreneurs indépendants, puisque conformément à ce qui est souligné dans l’arrêt Precision Gutters, les instruments de travail appartiennent aux travailleurs et il est raisonnable que ceux-ci leur appartiennent.
+[131] M. Silber a affirmé dans son témoignage qu’AE n’exige pas des serveurs/serveuses et des superviseur(e)s qu’ils fournissent leurs instruments de travail lors des événements, et que seuls les barmans/barmaids doivent fournir leurs propres outils de bar. M. Gonzalez a aussi affirmé dans son témoignage qu’AE ne demande pas au personnel de service d’apporter quelque instrument de travail que ce soit. Cependant, il a affirmé que bien que ce ne soit pas une exigence pour les serveurs/serveuses d’apporter leurs propres instruments de travail, les serveurs/serveuses expérimentés savent qu’il peut être utile d’avoir au moins un briquet pour faire leur travail de manière plus efficiente. La même chose vaut pour les chefs; ce n’est peut-être pas une exigence pour les chefs d’apporter leurs propres couteaux lors des événements, mais certains chefs préfèrent travailler avec leurs propres couteaux. M. Green a affirmé qu’il apporte ses propres couteaux. Il a admis, toutefois, que des couteaux sont disponibles sur les lieux des événements. Mme Hagerman n’a jamais apporté d’instruments de travail lors des événements.
+[132] Contrairement aux serveurs/serveuses et aux chefs, les barmans/barmaids doivent apporter leurs propres outils de bar. Les barmans/barmaids doivent également détenir un certificat de Smart Serve, puisqu’il s’agit là d’une exigence du gouvernement de l’Ontario pour ceux qui servent de l’alcool. AE n’aide pas les barmans/barmaids à obtenir leur certificat de Smart Serve, ni ne rembourse ou paie les barmans/barmaids pour l’obtention d’un tel certificat.
+[133] AE fournit aux chefs une veste de chef blanche portant le logo des entreprises de service de traiteur. Les chefs doivent payer leurs chaussures antidérapantes. Le personnel de service doit acheter un tablier et une cravate auprès d’AE. Lorsqu’ils cessent de travailler pour AE, les membres du personnel de service doivent rendre leur tablier et leur cravate et AE les rembourse [27] . Le tablier porte le logo des entreprises de service de traiteur. Il porte le logo d’Encore sur un côté, et celui d’Applause sur l’autre côté. Le tablier peut aussi être porté sans qu’un logo soit visible.
+[134] Le personnel de service a aussi son code vestimentaire. Les membres du personnel de service doivent porter une chemise noire, des pantalons noirs et des chaussures noires. Ils paient pour leurs propres uniformes. Toutefois, cet uniforme constitue la norme de l’industrie.
+[135] Les entreprises de service de traiteur fournissent les gros équipements comme les cuisinières, les fours, les réfrigérateurs et les chaudrons et casseroles. Des entreprises de location fournissent la majeure partie du reste de l’équipement, comme les tables, la vaisselle, les linges de table, les serviettes et la coutellerie.
+[136] Applause fournit tous les instruments et tout l’équipement lors de ses événements. Les travailleurs ne peuvent utiliser leurs propres instruments de travail en vertu des lois casher.
+[137] J’estime que la décision rendue dans Precision Gutters ne s’applique pas aux présents appels. Dans l’arrêt Precision Gutters, les poseurs ne pouvaient accomplir leurs tâches s’ils n’avaient pas leurs propres instruments. Ce n’est pas le cas en l’espèce. En l’espèce, la preuve montre qu’à l’exception des barmans/barmaids, AE n’exige pas des travailleurs qu’ils apportent leurs propres instruments de travail. Contrairement aux poseurs dans l’arrêt Precision Gutters, les travailleurs dont il est question dans les présents appels peuvent quand même accomplir leurs tâches sans apporter leurs instruments de travail. Comme la preuve l’a montré, un serveur peut emprunter un briquet de quelqu’un d’autre pour allumer les chandelles.
+[138] Quoi qu’il en soit, le critère des instruments de travail ne joue pas un rôle important en l’espèce. Pour les événements d’Encore, les superviseur(e)s et les serveurs/serveuses n’ont pas l’obligation d’apporter leurs instruments de travail et peuvent accomplir leurs tâches sans eux. Seuls les barmans/barmaids sont tenus d’apporter leurs outils de bar. Dans le cas des événements casher, les travailleurs ne sont pas autorisés à apporter leurs propres instruments de travail.
+[139] Si je prends en considération les éléments de preuve, j’estime que le critère des instruments de travail est un facteur neutre.
+(iii) La possibilité de profit et le risque de perte
+Thèse d’AE – Possibilité de profit et risque de perte
+[140] La thèse d’AE est que la preuve concernant ce facteur milite en faveur d’une relation d’entrepreneur indépendant. Les travailleurs sont en mesure de négocier leur tarif horaire au moment d’être embauchés par AE, ou plus tard. De plus, le personnel de service peut également travailler pour des concurrents d’AE ou d’autres entreprises de service de traiteur. Plus les travailleurs acceptent des heures et des quarts de travail, plus ils font de profits. De plus, l’utilisateur final peut demander un certain serveur, barman ou chef pour un événement en fonction de son rendement antérieur, et cela offre au travailleur davantage de possibilités de profit. En outre, les travailleurs peuvent accepter les pourboires de l’utilisateur final, ce qui a pour effet d’accroître leur profit. Le personnel de service est également responsable d’envoyer les factures pour leurs services à AE, toutes les deux semaines.
+[141] AE affirme également qu’elle ne garantit pas aux travailleurs un nombre minimal d’heures de travail par semaine ou par mois. Par conséquent, les travailleurs n’ont aucune garantie de revenus. De plus, les travailleurs peuvent accepter les quarts de travail qui répondent à leur mode de vie et à leurs ambitions professionnelles. Cela n’est habituellement pas le cas dans une relation d’employé.
+[142] AE s’en remet à la décision rendue dans Precision Gutters pour appuyer sa position. Dans cette affaire, le juge Sexton a conclu que les poseurs avaient la possibilité d’accepter ou de refuser un travail, de travailler seuls, d’employer d’autres personnes pour les aider, de négocier les modalités de leurs contrats, et qu’ils devaient retourner réparer les imperfections à leurs dépens. De plus, les poseurs n’avaient aucune garantie de travail et donc aucun salaire minimal garanti. Cela mène à la conclusion que les travailleurs étaient des entrepreneurs indépendants. Le juge Sexton a écrit ce qui suit :
+[27] Le juge de la Cour de l’impôt a conclu qu’il n’y avait aucune possibilité additionnelle de bénéfice étant donné que Precision et le poseur avaient convenu d’un taux au préalable. Par conséquent, celui-ci a conclu que ce critère portait à qualifier les poseurs d’employés. Selon moi, ceci fait fi d’un certain nombre d’aspects importants de la relation existant entre le poseur et Precision. Notamment, chaque poseur était responsable de décider du moment auquel il travaillerait et d’accepter ou de refuser un travail en particulier. Celui-ci était évidemment libre d’accepter du travail chez d’autres fabricants de gouttières. Le prix du contrat, malgré qu’il ait été négocié toutes les fois, a néanmoins été négocié dans 20 à 30 p. 100 des cas. Selon moi, la capacité de négocier les modalités d’un contrat suppose une chance de bénéfice et un risque de perte de la même manière que permettre à une personne d’accepter ou de refuser du travail suppose une chance de bénéfice et un risque de perte. Les poseurs ne se sont pas vus imposer un délai fixe pour l’exécution du contrat et ainsi, une exécution efficace pouvait engendrer plus de bénéfices. Un poseur pouvait choisir de travailler seul ou d’embaucher d’autres personnes afin de l’aider. De toute évidence, plus celui-ci faisait du travail par lui-même, plus celui-ci pouvait faire de bénéfice. Le poseur était responsable des imperfections existantes dans le travail effectué et il devait retourner réparer ces imperfections à ses dépens. Le travail n’était pas garanti chaque jour et il n’y avait aucun salaire minimum garanti ni aucun bénéfice marginal. Tous ces éléments ont mené d’autres tribunaux à conclure qu’il existe une relation d’entrepreneur indépendant. Voir Société de Projets ETPA Inc. v. Minister of National Revenue, 93 D.T.C. 516. Je suis donc d’avis que le juge de la Cour de l’impôt a commis une erreur en statuant que le critère de possibilité de profit ou de perte favorise la qualification des poseurs comme employés [28] .
+[Non souligné dans l’original.]
+Analyse – Possibilité de profit et risque de perte
+[143] AE soutient que tout comme dans le cas de l’arrêt Precision Gutters, les travailleurs en cause dans les présents appels n’ont pas un nombre minimal garanti d’heures de travail. Par conséquent, les travailleurs n’ont aucun revenu garanti. À mon avis, le fait de n’avoir aucune garantie quant au nombre d’heures de travail ou au revenu laisse croire à une relation d’entrepreneur indépendant.
+[144] AE soutient également que les travailleurs ont la possibilité de négocier les modalités de leur contrat, puisqu’ils ont la possibilité de négocier leur tarif horaire. En ce qui concerne la possibilité pour les travailleurs de négocier les modalités de leur contrat, AE s’appuie sur les remarques du juge Sexton quand il affirme : « la capacité de négocier les modalités d’un contrat suppose une chance de bénéfice et un risque de perte de la même manière que permettre à une personne d’accepter ou de refuser du travail suppose une chance de bénéfice et un risque de perte » [29] . Par conséquent, ils bénéficient d’une chance de profit puisque le tarif négocié est plus élevé; le fait d’accepter davantage de quarts de travail mène également à une hausse de la possibilité de profit. De plus, ils peuvent également accepter ou refuser un quart de travail sans conséquences.
+[145] Même si la preuve montre que ce ne sont pas tous les travailleurs qui ont négocié leur tarif horaire, certains des témoins ont affirmé qu’ils avaient bien négocié leur tarif horaire. M. Silber a affirmé qu’AE est prêt à négocier le tarif horaire, à l’intérieur de certaines limites. Les limites de négociation établies au moment des présents appels allaient de 16 $ à 20 $ l’heure pour le personnel de service. M. Silber a affirmé que le tarif horaire versé aux travailleurs dépend de leur expérience de travail. Une fois le tarif horaire établi, le travailleur sera rémunéré en fonction de ce tarif chaque fois qu’il travaillera lors d’événements d’Encore ou d’Applause. De plus, il importe peu que le travailleur participe à un petit ou à un gros événement, il sera rémunéré au même tarif.
+[146] J’estime difficile d’appliquer les conclusions du juge Sexton dans l’arrêt Precision Gutters aux présents appels. Dans l’arrêt Precision Gutters, les poseurs n’étaient pas rémunérés selon un tarif horaire. Ils étaient rémunérés pour chaque contrat de pose de gouttières. Le tarif contractuel était fondé sur un montant par pied. Dans environ 70 à 80 p. 100 des cas, les poseurs acceptaient le montant du contrat offert par Precision Gutters. Dans environ 20 à 30 p. 100 des cas, les poseurs négociaient avec Precision Gutters le montant du contrat.
+[147] Dans l’arrêt Precision Gutters, les poseurs pouvaient évaluer individuellement chaque contrat afin de déterminer s’ils devaient accepter ou refuser le travail. Selon le nombre d’heures estimé pour achever le travail, les poseurs pouvaient accepter ou refuser le contrat en fonction du montant offert par Precision Gutters. Si, en tenant compte de l’emplacement et de la complexité des travaux, les poseurs avaient l’impression que Precision Gutters n’offrait pas un montant suffisant, ils pouvaient refuser le contrat. De plus, comme les poseurs n’avaient pas à travailler un nombre fixe d’heures pour terminer un contrat, un profit pouvait être fait si leur estimation du temps nécessaire pour achever les travaux était exacte. Par exemple, les poseurs pouvaient faire eux-mêmes le travail pour diminuer les dépenses, ou embaucher des assistants pour terminer le travail en moins de temps et faire un profit. Cela dit, si les poseurs estimaient mal le temps nécessaire pour achever les travaux, ou s’ils avaient à apporter des correctifs à des travaux antérieurs, les poseurs pouvaient perdre de l’argent. De plus, les poseurs pouvaient décider d’offrir le contrat en sous-traitance et faire un profit.
+[148] Ce n’est pas le cas en l’espèce. Les travailleurs se voient offrir un quart de travail avec un nombre d’heures précis. Les travailleurs savent combien d’heures ils travailleront et combien ils seront rémunérés pour un événement. Il n’est pas possible d’accepter ou de refuser un quart de travail en fonction du profit engrangé. Il ne peut être accepté ou refusé qu’en fonction du nombre d’heures prévues dans le quart de travail. Le seul moyen pour les travailleurs de faire plus d’argent, c’est de travailler plus d’heures.
+[149] À mon avis, travailler plus d’heures ou moins d’heures n’équivaut pas à une possibilité de profit ou à un risque de perte. Dans la décision 6627148 Ontario Ltd. (Daily Care Health Services) v. M.R.N. [30] , Daily Care Health Services avançait le même argument qu’AE en l’espèce, soit que les travailleurs avaient une possibilité de profit s’ils travaillaient davantage d’heures et un risque de perte s’ils travaillaient moins d’heures. La juge V. Miller n’a pas retenu l’argument avancé par Daily Care Health Services. Elle a affirmé que l’expression « chances de profit/risque de perte » devait être comprise dans le sens entrepreneurial [31] .
+[150] Les travailleurs d’AE, qui sont rémunérés selon un tarif horaire, ne peuvent rien faire pour rendre un quart de travail plus profitable une fois qu’il a été accepté. Même si les travailleurs sont en mesure de trouver des manières plus efficientes d’accomplir leurs tâches, cela n’aura pas de répercussions sur le montant qu’ils recevront. Par conséquent, les travailleurs n’ont pas une possibilité de profit dans le sens entrepreneurial.
+[151] La preuve montre également que les chefs ne préparent pas leurs propres factures. C’est le chef principal qui inscrit sur une feuille les heures pendant lesquelles les chefs ont travaillé durant un événement. AE traite les paiements. Pour ce qui est du personnel de service, les témoins ont affirmé qu’ils facturaient AE toutes les deux semaines. Cela dit, personne ne peut dire si le système de facturation a été mis en place durant les périodes en cause. Aucune facture n’a été déposée en preuve.
+[152] Les travailleurs n’étaient pas financièrement responsables des défaillances.
+[153] Dans les appels en cause, contrairement à la situation qui prévalait dans l’arrêt Precision Gutters, les travailleurs n’ont pas l’obligation de trouver un remplaçant lorsqu’ils ont accepté un quart de travail mais ne peuvent plus se présenter. Quand cela survient, AE est responsable de trouver un remplaçant. Par conséquent, les travailleurs n’ont pas à assumer les coûts pour trouver un remplaçant. Les travailleurs ne peuvent offrir le quart de travail en sous-traitance. Dans la décision Johnson c. M.R.N. [32] , qui concerne un appel portant sur des faits semblables à ceux des appels en cause, BDI fournissait des travailleurs à des entreprises de service de traiteur. Dans la décision Johnson, le juge Archambault a affirmé ce qui suit :
+[132] Mme Johnson n’avait pas d’employés, ce qui concorde davantage avec la situation d’une employée. Elle ne pouvait gagner son salaire que pour chaque heure qu’elle travaillait comme employée. Contrairement à BDI, elle n’avait aucune possibilité de faire un profit. Il faut ajouter qu’elle n’avait pas l’obligation de trouver un remplaçant lorsqu’elle ne pouvait pas être présente à une activité après avoir accepté d’y être affectée. Son seul devoir était d’aviser BDI. Elle ne courait donc pas le risque d’avoir à assumer la charge financière de trouver un remplaçant. Ce risque était assumé par BDI, qui affectait 105 serveurs à une activité quand il n’en fallait que 100. Par expérience, BDI savait qu’un certain nombre de serveurs ne se présenteraient pas au travail, et c’était l’entreprise, non Mme Johnson, qui prenait en charge le coût des cinq serveurs additionnels. C’était BDI qui exploitait l’entreprise, non Mme Johnson. Quand elle ne se présentait pas à une activité, elle risquait d’encourir une perte du seul fait de ne pas gagner son salaire, ce qui est le lot des nombreux employés ne travaillant pas pour des employeurs qui offrent des avantages sociaux comme des congés de maladie payés.
+[154] Dans les appels en cause, les travailleurs ne se vendent pas comme s’ils étaient en affaires durant les événements. Au contraire, les travailleurs, en portant le logo des entreprises de service de traiteur, font la promotion d’Encore et d’Applause, et d’AE dans une certaine mesure.
+[155] De plus, la preuve ne montre pas que les travailleurs assumaient un certain degré de responsabilité en matière d’investissement et de gestion. Il n’y a aucun élément de preuve montrant que les travailleurs devaient emprunter de l’argent ou investir de l’argent pour accomplir leurs tâches. Il n’y a aucune possibilité de profit dans l’accomplissement de leurs tâches, puisque les travailleurs ne peuvent tirer un profit de l’exercice de saines pratiques de gestion dans l’accomplissement de leurs tâches. Comme les travailleurs sont rémunérés selon un tarif horaire pour un nombre d’heures fixe, ils ne peuvent faire un profit au sens entrepreneurial. De plus, le risque que les travailleurs subissent une perte est inexistant, puisque les activités des travailleurs ne nécessitent pas qu’ils prennent un risque financier.
+[156] Par conséquent, je suis d’avis que le critère de la possibilité de profit et du risque de perte milite en faveur d’une relation d’employé.
+(iv) Critère d’intégration
+[157] Le critère d’intégration doit être analysé du point de vue des travailleurs. AE fournit des travailleurs aux deux entreprises de service de traiteur. Les travailleurs fournissent des services aux entreprises de service de traiteur par l’intermédiaire d’AE. Par conséquent, le critère d’intégration est satisfait.
+(c) ÉVALUATION GLOBALE DES FAITS
+[158] En tenant compte des faits, je suis d’avis que les travailleurs étaient des employés d’AE. Même si l’intention des travailleurs était peut-être d’agir comme entrepreneurs indépendants, les faits n’appuient pas une telle intention. Je ne répéterai pas ce que j’ai déjà affirmé dans l’analyse des critères. Les critères qui permettent de décider si un travailleur est un employé ou un entrepreneur indépendant, soit le contrôle, la possibilité de profit et le risque de perte et l’intégration, militent tous en faveur d’une relation d’employé. À mon avis, les travailleurs n’exploitent pas une entreprise à leur propre compte. AE et les entreprises de service de traiteur sont les seules parties qui exploitent une entreprise et assument un risque d’entreprise.
+[159] Comme l’a affirmé la juge Abella dans une récente décision de la Cour suprême du Canada dans Modern Concept d’entretien inc. c. Comité paritaire de l’entretien d’édifices publics de la région de Québec [33] , pour avoir qualité d’entrepreneur indépendant, une personne doit assumer le risque d’entreprise, c’est-à-dire qu’elle est capable d’organiser son entreprise en vue de réaliser un profit. Ce n’est pas le cas en l’espèce.
+[160] Par conséquent, la décision rendue en 2016 par le ministre est confirmée. Les appels d’AE et de M. Gonzalez sont rejetés pour la période allant du 1er janvier 2013 au 31 décembre 2013.
+B. Décisions rendues par le ministre en 2015 et en 2016 – Agence de placement
+1) Dispositions légales pertinentes
+[161] L’alinéa 6g) du RAE, l’article 7 du Règlement sur la rémunération assurable et la perception des cotisations (le « RRAPC ») [34] et l’article 34 du RRPC sont libellés comme suit :
+Règlement sur l’assurance-emploi
+6 Sont inclus dans les emplois assurables, s’ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants ::
+[...]
+g) l’emploi exercé par une personne appelée par une agence de placement à fournir des services à un client de l’agence, sous la direction et le contrôle de ce client, en étant rétribuée par l’agence.
+Règlement sur la rémunération assurable et la perception des cotisations
+7 L’agence de placement qui procure un emploi assurable à une personne selon une convention portant qu’elle versera la rémunération de cette personne est réputée être l’employeur de celle-ci aux fins de la tenue des registres, du calcul de la rémunération assurable de la personne ainsi que du paiement, de la retenue et du versement des cotisations exigibles à cet égard aux termes de la Loi et du présent règlement.
+Règlement sur le Régime de pensions du Canada
+34 (1) Lorsqu’une personne est placée par une agence de placement pour la fourniture de services ou dans un emploi auprès d’un client de l’agence, et que les modalités régissant la fourniture des services et le paiement de la rémunération constituent un contrat de louage de services ou y correspondent, la fourniture des services est incluse dans l’emploi ouvrant droit à pension, et l’agence ou le client, quel que soit celui qui verse la rémunération, est réputé être l’employeur de la personne en ce qui a trait à la tenue de dossiers, la production des déclarations, le paiement, la déduction et le versement des cotisations payables, selon la Loi et le présent règlement, par la personne et en son nom.
+2) Une agence de placement comprend toute personne ou organisme s’occupant de placer des personnes dans des emplois, de fournir les services de personnes ou de trouver des emplois pour des personnes moyennant des honoraires, récompenses ou autres formes de rémunération.
+[Non souligné dans l’original.]
+2) Analyse commune pour les décisions rendues par le ministre en 2015 et en 2016 en ce qui concerne l’agence de placement
+[162] Malgré les similitudes du RRPC et du Règlement sur l’assurance-emploi, le législateur n’a pas rédigé de la même manière les règles portant sur l’agence de placement
+[163] Par exemple, l’expression « agence de placement » n’est pas définie dans le RAE, mais elle l’est au paragraphe 34(2) du RRPC. Cependant, dans Wholistic Child and Family Services Inc. c. M.R.N, le juge Boyle a affirmé qu’afin d’assurer la cohérence, il convenait d’appliquer au RAE la définition d’agence de placement donnée au paragraphe 34(2) du RRPC [35] .
+[164] De plus, les conditions établies à l’alinéa 6g) du RAE et à l’article 7 du RRAPC diffèrent de celles données aux paragraphes 34(1) et (2) du RRPC.
+[165] En application du RAE, une personne doit avoir été appelée par une agence de placement à fournir des services à un client de l’agence, sous la direction et le contrôle de ce client. En l’espèce, cela signifierait que les travailleurs ont été appelés par AE à fournir des services sous la direction et le contrôle d’Encore ou d’Applause.
+[166] En application du RRPC, la personne est placée par une agence de placement pour la fourniture de services ou dans un emploi auprès d’un client de l’agence, et les modalités régissant la fourniture des services et le paiement de la rémunération constituent un contrat de louage de services ou y correspondent. En l’espèce, cela signifierait que les travailleurs travailleraient pour les entreprises de service de traiteur en vertu d’un contrat de louage de services, si les modalités régissant la fourniture des services et le paiement de la rémunération constituaient un contrat de louage de services ou y correspondaient.
+[167] En résumé, en vertu de ces deux règlements, les conditions pour avoir qualité d’agence de placement sont les suivantes :
+L’agence agit comme « agence de placement », selon la définition donnée au paragraphe 34(2) du RRPC.
+Selon l’alinéa 6g) du RAE, les personnes placées en emploi sont sous la direction et le contrôle du client de l’agence. Selon le paragraphe 34(1) du RRPC, les travailleurs sont appelés à fournir des services aux clients de l’agence, alors que les modalités régissant la fourniture des services et le paiement de la rémunération constituent un contrat de louage de services ou y correspondent.
+L’agence doit recevoir des honoraires, une récompense ou autre forme de rémunération de la part de son client.
+Selon l’alinéa 6g) du RAE, la rémunération doit être versée par l’agence. Selon l’article 7 du RRAPC, si l’agence verse la rémunération et que les autres conditions sont satisfaites, l’agence est considérée comme l’employeur des travailleurs.
+Selon le paragraphe 34(1) du RRPC, la rémunération doit être versée par l’agence ou par le client de l’agence. Si les autres conditions sont satisfaites, la partie qui verse la rémunération est considérée comme l’employeur des travailleurs.
+[168] Les conditions 1, 3, 4 et 5 sont satisfaites.
+[169] AE n’a qu’une seule activité et elle consiste à placer des personnes auprès des entreprises de service de traiteur, Encore et Applause. M. Silber a affirmé dans son témoignage qu’AE a été constituée en société dans le but d’agir comme entreprise de dotation. Par conséquent, la première condition est satisfaite.
+[170] Les entreprises de service de traiteur paient AE pour qu’elle leur fournisse des travailleurs. Par conséquent, la troisième condition est satisfaite.
+[171] AE verse la rémunération des travailleurs. Les conditions 4 et 5 sont satisfaites.
+[172] La seule condition qui reste est la deuxième condition. La question est de savoir si les travailleurs sont sous la direction et le contrôle des entreprises de service de traiteur en application du RAE, et si les travailleurs sont assujettis à des modalités et une rémunération qui constituent un contrat de louage de services ou y correspondent, en application du RPPC.
+(a) DÉCISIONS RENDUES PAR LE MINISTRE EN 2016 CONCERNANT LA PÉRIODE ALLANT DU 1ER JANVIER 2012 AU 31 DÉCEMBRE 2013
+[173] J’aborderai d’abord les décisions rendues par le ministre en 2016. J’ai déjà conclu qu’il existe un contrat de louage de services entre AE et les travailleurs. À la lumière de ma conclusion concernant les travailleurs énumérés à l’annexe A, je n’ai pas à analyser l’argument subsidiaire présenté par l’intimé, selon lequel AE est une agence de placement. Toutefois, j’ai décidé d’analyser la thèse subsidiaire présentée par l’intimé, puisqu’elle a été pleinement débattue par les deux parties.
+[174] Comme je l’ai déjà affirmé, les seules questions qu’il reste à trancher sont les suivantes :
+i. Pour les fins du RAE, les travailleurs sont-ils sous la direction et le contrôle des entreprises de service de traiteur?;
+ii. Pour les fins du RRPC, les travailleurs fournissent-ils des services aux entreprises de service de traiteur et les modalités et la rémunération de ces services constituent-elles un contrat de louage de services ou y correspondent-elles?
+(i) Les travailleurs sont-ils sous la direction et le contrôle des entreprises de service de traiteur, en application de l’alinéa 6g) du RAE?
+Personnel de service
+[175] Selon le RAE, AE sera considérée comme une agence de placement, si le personnel de service travaille sous la direction et le contrôle des entreprises de service de traiteur.
+[176] À mon avis, le personnel de service n’est pas sous la direction et le contrôle des entreprises de service de traiteur. L’intimé soutient que des représentants des entreprises de service de traiteur assistent souvent aux événements d’importance et peuvent diriger le personnel de ces services lors de ces événements. Je ne suis pas de cet avis. M. Silber a affirmé dans son témoignage que le représentant de l’entreprise de service de traiteur assiste à l’événement principalement pour faire de la promotion. Cela a également l’avantage de rassurer l’utilisateur final puisque ce dernier a travaillé avec le représentant des ventes dans la préparation de l’événement. Mme Kirsch, qui a agi comme représentante des ventes pour Encore, a affirmé dans son témoignage que ce n’était pas son rôle de diriger ou de contrôler les travailleurs quand elle assiste à un événement à titre de représentante des ventes. Si l’utilisateur final n’est pas satisfait et pense que quelque chose doit être corrigé, Mme Kirsch en informe le superviseur d’AE, qui verra à corriger le problème. Mme Kirsch a affirmé qu’elle ne corrigerait pas directement un serveur. À mon avis, la présence de la représentante des ventes lors des événements n’équivaut pas au degré de direction et de contrôle sur les travailleurs qu’exige l’alinéa 6g) du RAE.
+[177] De plus, c’est le coordonnateur des réservations d’AE, et non les entreprises de service de traiteur, qui donne les instructions aux superviseur(e)s pour les événements. La preuve n’établit pas que les serveurs/serveuses et les barmans/barmaids ont un contact important avec les entreprises de service de traiteur. C’est le superviseur d’AE, et non les entreprises de service de traiteur, qui est responsable du déroulement de l’événement. Pour les plus petits événements, c’est le coordonnateur des réservations d’AE, et non les entreprises de service de traiteur, qui envoie la trousse d’information au personnel de service. Dans son argumentation, l’avocat de l’intimé a admis que le personnel de service est sous le contrôle d’AE, et non des entreprises de service de traiteur, en ce qui concerne les décisions rendues par le ministre en 2016. Il a affirmé ce qui suit en parlant du personnel de service [36] :
+Maintenant, concernant les travailleurs qui restent, je pense que la preuve laisse entendre qu’ils sont sous le contrôle de l’appelante, AE, plutôt que sous le contrôle d’Applause et d’Encore. D’abord, c’est AE qui prend des arrangements avec les travailleurs pour qu’ils acceptent les quarts de travail proposés. AE envoie les instructions, comme l’heure et la description de l’événement, aux travailleurs.
+[178] Selon l’analyse qui précède, j’estime que les entreprises de service de traiteur n’exerçaient pas la direction et le contrôle nécessaires sur le personnel de service. Par conséquent, AE n’était pas une agence de placement selon les dispositions du RAE pour ce qui concerne le personnel de service.
+[179] Comme l’intimé a avancé cet argument en guise d’argument subsidiaire, cette conclusion ne s’applique que si j’ai eu tort en tirant la conclusion qu’il existait un contrat de louage de services entre AE et le personnel de service, en application de l’alinéa 5(1)a) de la LAE.
+Les chefs
+[180] J’estime que la situation est différente en ce qui concerne les chefs. Les chefs sont des employés des entreprises de service de traiteur et des travailleurs d’AE. Les chefs demeurent sous une séquence de contrôle quand ils passent de leur emploi auprès des entreprises de service de traiteur à leur emploi avec AE. D’abord, les chefs sont embauchés par le chef principal des entreprises de service de traiteur. Le chef principal des entreprises de service de traiteur crée également l’horaire de travail des chefs pour les quarts de travail proposés par les entreprises de service de traiteur et les quarts de travail lors des événements. De plus, le chef principal sélectionne les chefs qui travailleront lors des événements et détermine le rôle des chefs lors de ces événements. Les chefs commencent à accomplir leurs tâches dans la cuisine des entreprises de service de traiteur sous le contrôle du chef principal et poursuivent leur travail sous le contrôle du chef principal durant les événements. La preuve montre que durant les événements, le chef principal a la possibilité de diriger et de contrôler les chefs. De plus, certains des chefs doivent transporter la nourriture de la cuisine des entreprises de service de traiteur jusqu’au lieu de l’événement, dans des camionnettes appartenant aux entreprises de service de traiteur. Le chef principal prend note des heures travaillées par les chefs lors des événements et AE paie les chefs, conformément aux feuilles de temps préparées par le chef principal. Lors des petits comme des gros événements, les chefs sont chargés de présenter la nourriture exactement comme l’ont décidé les entreprises de service de traiteur. À cette fin, des images montrant comment les plats doivent être présentés sont disponibles lors des événements. De plus, les chefs doivent porter une veste de chef blanche avec le logo des entreprises de service de traiteur.
+[181] À la lumière des éléments de preuve présentés ci-dessus, les chefs sont sous la direction et le contrôle des entreprises de service de traiteur lorsqu’ils travaillent pour un événement. AE agit comme agence de placement et, par conséquent, AE est considérée comme l’employeur des chefs, puisque les chefs sont rémunérés par AE.
+[182] Comme il s’agit là d’un argument subsidiaire avancé par l’intimé, cette conclusion ne s’applique que si j’ai eu tort en tirant la conclusion qu’il existait un contrat de louage de services entre AE et les chefs, en application de l’alinéa 5(1)a) de la LAE.
+(ii) Les travailleurs fournissent-ils des services aux entreprises de service de traiteur et les modalités et la rémunération de ces services constituent-elles un contrat de louage de services ou y correspondent-elles, conformément au paragraphe 34(1) du RRPC?
+Le personnel de service
+[183] En ce qui a trait au RRPC, la question est de savoir si le personnel de service fournit des services à un client de l’agence, et si les modalités et la rémunération de ces services constituent un contrat de louage de services entre le personnel de service et les entreprises de service de traiteur ou y correspondent.
+[184] L’intimé défend la thèse que l’intention des parties ne doit pas être prise en considération lorsque l’on applique le paragraphe 34(1) du RRPC, puisque cette disposition ne fait pas qu’exiger un contrat de louage de services; la condition peut également être satisfaite si les modalités et les conditions correspondent à un contrat de louage de service. Toutefois, AE soutient que je dois tenir compte de l’intention des parties d’agir comme entrepreneurs indépendants dans mon application du paragraphe 34(1).
+[185] Je suis d’accord avec l’intimé. Le paragraphe 34(1) du RRPC ne fait pas uniquement référence à un contrat de louage de services. Il fait également référence à quelque chose qui correspond à un contrat de louage de services, c’est-à-dire quand les modalités et conditions et la rémunération versée s’apparentent à un contrat de louage de services. De plus, il n’est pas nécessaire de tenir compte de l’intention à la lumière du libellé et de l’objectif du paragraphe 34(1). Le paragraphe 34(1) est une disposition déterminative. Il estime que l’agence – AE – ou les clients de l’agence – les entreprises de service de traiteur – constituent l’employeur. La question dépend de qui paie la rémunération. Il serait difficile de conclure qu’un travailleur avait l’intention d’être un entrepreneur indépendant vis-à-vis une tierce partie, soit le client de l’agence. Selon le paragraphe 34(1) du RRPC, la relation de travail que doit analyser la Cour est la relation entre le personnel de service et les entreprises de service de traiteur.
+[186] Cela dit, dans l’éventualité où j’aurais mal interprété ces dispositions, j’ai décidé pour mon analyse de tenir compte de l’intention des parties. En ce qui concerne les membres du personnel de service, leur intention était d’agir comme entrepreneurs indépendants.
+[187] En ce qui a trait au critère du contrôle, j’ai conclu dans mon analyse que la preuve montre que les entreprises de service de traiteur n’ont pas la possibilité de contrôler le personnel de service. Ce critère ne milite pas en faveur d’un contrat de louage de services ou de quelque chose qui y correspond entre les entreprises de service de traiteur et le personnel de service [37] .
+[188] Le critère des instruments de travail ne constitue pas un critère important pour le personnel de service. Encore ne demande pas au personnel de service, à l’exception des barmans/barmaids, d’apporter ses propres instruments. Durant les événements d’Applause, les instruments qu’utilise le personnel de service sont fournis par Applause en raison des lois casher. Par conséquent, le critère des instruments de travail est un facteur neutre.
+[189] En ce qui concerne la possibilité de profit ou le risque de perte, le personnel de service n’a pas de possibilité de profit ou de perte, pour les motifs que j’ai donnés précédemment. Le personnel de service n’assume pas le risque d’entreprise [38] . Par conséquent, ce critère milite en faveur d’une relation d’employé entre le personnel de service et les entreprises de service de traiteur.
+[190] En ce qui a trait au critère d’intégration, le personnel de service ne fait pas partie des entreprises de service de traiteur.
+[191] À mon avis, pour que le paragraphe 34(1) du RRPC puisse s’appliquer, le client de l’agence doit exercer un contrôle sur les travailleurs envoyés par l’agence pour fournir des services. Comment un contrat de louage de services pourrait-il exister entre le personnel de service et les entreprises de service de traiteur si ces dernières n’exercent pas de contrôle sur le personnel de service? C’est pourquoi j’estime que le libellé de l’alinéa 6g) du RAE, qui parle de « […] fournir des services à un client de l’agence, sous la direction et le contrôle de ce client » convient mieux dans le contexte d’une agence de placement que le libellé employé dans le paragraphe 34(1) du RRPC. À mon avis, pour être une agence de placement, l’entreprise doit placer des personnes pour fournir des services, personnes qui seront sous le contrôle du client de l’agence. En l’espèce, dans le but d’essayer d’introduire une certaine cohérence entre les règlements tout en respectant le libellé du paragraphe 34(1), j’accorderai davantage de poids au critère du contrôle. Les entreprises de service de traiteur n’exercent pas un contrôle sur le personnel de service et, comme le personnel de service n’est pas intégré aux entreprises de service de traiteur, j’estime qu’AE n’est pas une agence de placement. Par conséquent, AE n’est pas considérée comme étant l’employeur du personnel de service selon le paragraphe 34(1) du RRPC.
+[192] Comme l’intimé a avancé cet argument en guise d’argument subsidiaire, cette conclusion ne s’applique que si j’ai eu tort en tirant la conclusion que les membres du personnel de service sont des employés d’AE en vertu d’un contrat de louage de services, en application de l’alinéa 6(1)a) du RPC.
+Les chefs
+[193] Les circonstances sont différentes pour ce qui est des chefs. J’ai déjà conclu que les chefs avaient l’intention d’agir comme entrepreneurs indépendants.
+[194] En ce qui a trait au critère du contrôle, les chefs sont sous le contrôle des entreprises de service de traiteur, pour les mêmes motifs que ceux que j’ai mentionnés dans mon analyse concernant les dispositions du RAE portant sur les agences de placement [39] .
+[195] En ce qui concerne le critère des instruments de travail, c’est Applause qui fournit les instruments et les gros équipements comme les cuisinières et les réfrigérateurs dans le cas des événements casher. Encore fournit également aux chefs les instruments de travail et les gros équipements. Même si certains chefs utilisent leurs propres couteaux lors d’événements organisés par Encore, ce n’est là qu’une question de préférence; ce n’est pas une obligation. Par conséquent, le critère des instruments de travail milite en faveur d’une relation d’employé entre les chefs et les entreprises de service de traiteur.
+[196] De plus, pour les motifs déjà énoncés, les chefs ne peuvent faire un profit ou subir une perte au sens entrepreneurial. Par conséquent, ce critère milite en faveur d’une relation d’employé entre les chefs et les entreprises de service de traiteur.
+[197] Les chefs sont également clairement intégrés aux activités des entreprises de service de traiteur.
+[198] Compte tenu de ces critères, il existait un contrat de louage de services entre les entreprises de service de traiteur et les chefs. Par conséquent, AE était une agence de placement pour ce qui concerne les chefs. De plus, comme AE a payé la rémunération des chefs, elle est considérée comme étant l’employeur des chefs, en application du paragraphe 34(1) du RRPC.
+[199] Comme l’intimé a avancé cet argument en guise d’argument subsidiaire, cette conclusion ne s’applique que si j’ai eu tort en tirant la conclusion que les chefs sont des employés d’AE en vertu d’un contrat de louage de services, en application de l’alinéa 6(1)a) du RPC.
+(b) DÉCISIONS RENDUES PAR LE MINISTRE EN 2015 CONCERNANT MME SINCHI ET MME RUBIO POUR LA PÉRIODE ALLANT DU 1ER JANVIER 2012 AU 2 DÉCEMBRE 2013
+[200] Le ministre s’est uniquement appuyé sur les dispositions touchant les agences de placement pour rendre ces décisions de 2015 concernant Mme Sinchi et Mme Rubio.
+(i) Mme Sinchi et Mme Rubio étaient-elles sous la direction et le contrôle des entreprises de service de traiteur, en application de l’alinéa 6g) du RAE?
+[201] Mme Sinchi a témoigné à l’audience, mais pas Mme Rubio. Mme Sinchi n’avait pas signé de convention d’entrepreneur indépendant. Elle avait l’impression qu’elle était une employée d’Applause, et non d’AE. À première vue, c’est quelque peu surprenant, puisqu’elle recevait ses chèques de paye d’AE. Cependant, si l’on tient compte du fait que les entreprises sont liées, que M. Silber joue un rôle actif dans les trois entreprises et que Mme Sinchi devait porter un tablier avec le logo d’Applause, je comprends qu’elle ait pu être confuse quant à la situation. Mme Sinchi n’avait pas signé de convention d’entrepreneur indépendant. Il est manifeste d’après la preuve que Mme Sinchi avait l’intention d’agir comme employée et non comme entrepreneur indépendant.
+[202] Mme Sinchi a travaillé comme serveuse et comme superviseure pour AE. Mme Sinchi a affirmé qu’elle travaillait sous le contrôle de Mme Pumarino, qui était employée par Applause à titre de gestionnaire des banquets.
+[203] Mme Sinchi a affirmé dans son témoignage que Mme Pumarino était une personne extrêmement pointilleuse et sévère. Elle a donné à Mme Sinchi des directives concernant chaque aspect du travail et la façon de faire les choses. Cependant, la preuve a montré que Mme Pumarino n’a travaillé pour Applause que durant cinq mois, de juillet 2012 à novembre 2012. M. Silber a affirmé que les autres gestionnaires des banquets ne travaillaient pas de la même manière que Mme Pumarino. Il a ajouté que ce n’est pas le rôle d’un gestionnaire des banquets de contrôler les superviseur(e)s embauché(e) par AE. Malgré cela, Mme Pumarino était une employée d’Applause et c’est également elle qui a embauché Mme Sinchi. Il fallait qu’AE lui accorde une certaine autorité. La preuve établit que Mme Sinchi était manifestement sous la direction et le contrôle de Mme Pumarino, de la période allant du 1er juillet 2012 au 30 novembre 2012. Par conséquent, pour cette période, AE a agi comme agence de placement pour ce qui concerne Mme Sinchi. AE était considérée comme étant l’employeur de Mme Sinchi, puisqu’elle rémunérait Mme Sinchi.
+[204] En ce qui concerne le reste de la période en 2012 et jusqu’au 2 décembre 2013, Mme Sinchi n’a pas été claire dans son témoignage. Elle ne se rappelle pas avoir travaillé pour Encore à titre de serveuse. À mon avis, la conclusion que j’ai tirée concernant le personnel de service et les décisions rendues par le ministre en 2016 en application de l’alinéa 6g) du RAE s’applique à Mme Sinchi, de telle sorte que c’était AE, et non les entreprises de service de traiteur, qui dirigeait et contrôlait le travail de Mme Sinchi [40] .
+[205] Par conséquent Mme Sinchi occupait un emploi assurable pour la période allant du 1er juillet 2012 au 30 novembre 2012. Pour le reste de la période en 2012 et jusqu’au 2 décembre 2013, Mme Sinchi n’occupait pas un emploi assurable.
+[206] Mme Rubio n’a pas témoigné. La conclusion que j’ai tirée concernant le personnel de service et les décisions rendues par le ministre en 2016 [41] s’applique à Mme Rubio, de telle sorte que c’était AE, et non les entreprises de service de traiteur, qui dirigeait et contrôlait le travail de Mme Rubio. Par conséquent Mme Rubio n’occupait pas un emploi assurable pour la période allant du 1er janvier 2012 au 2 décembre 2013.
+(ii) Mme Sinchi et Mme Rubio fournissaient-elles des services aux entreprises de service de traiteur et les modalités et la rémunération de ces services constituaient-elles un contrat de louage de services ou y correspondaient-elles, conformément au paragraphe 34(1) du RRPC?
+[207] Ni Mme Sinchi ni Mme Rubio n’ont signé de convention d’entrepreneur indépendant.
+[208] En ce qui a trait au critère du contrôle, la preuve a établi que Mme Pumarino, à titre d’employée d’Applause, avait la possibilité de contrôler Mme Sinchi, mais uniquement pour la période allant du 1er juillet 2012 au 30 novembre 2012. Pour le reste de la période jusqu’au 2 décembre 2013, Mme Sinchi était sous le contrôle d’AE, et non des entreprises de service de traiteur [42] .
+[209] Mme Rubio n’a pas témoigné. La conclusion que j’ai tirée concernant le personnel de service et les décisions rendues par le ministre en 2016 s’applique à Mme Rubio. Ainsi, Mme Rubio n’était pas sous le contrôle des entreprises de service de traiteur.
+[210] En ce qui concerne le critère des instruments de travail, Encore n’exigeait pas du personnel de service qu’il fournisse ses instruments. Pour les événements casher, les instruments étaient fournis par Applause. À mon avis, le critère des instruments de travail ne joue pas un rôle important et est un facteur neutre.
+[211] En ce qui concerne la possibilité de profit et le risque de perte, comme je l’ai déjà expliqué dans mes motifs concernant le personnel de service, Mme Sinchi et Mme Rubio n’assumaient aucun risque d’entreprise [43] . Par conséquent, cela s’apparentait davantage à une relation d’employé.
+[212] En ce qui a trait au critère d’intégration Mme Sinchi et Mme Rubio n’étaient pas intégrées aux activités des entreprises de service de traiteur.
+[213] Pour les raisons que j’ai déjà données dans mes motifs concernant les décisions de 2016 et le paragraphe 34(1) du RRPC, le critère du contrôle joue un rôle important pour ce qui est de déterminer si les conditions pour être une agence de placement sont satisfaites [44] .
+[214] Ni Mme Sinchi ni Mme Rubio n’était sous le contrôle des entreprises de service de traiteur, sauf pour une période de cinq mois durant laquelle Mme Sinchi était sous le contrôle d’Applause. De plus, ni Mme Sinchi ni Mme Rubio n’était intégrée aux activités des entreprises de service de traiteur.
+[215] Par conséquent, j’estime que pour une période de cinq mois, soit du 1er juillet 2012 au 30 novembre 2012, Mme Sinchi était sous le contrôle d’Applause. Pour le reste de la période, Mme Sinchi n’occupait pas un emploi ouvrant droit à pension. Mme Rubio n’occupait pas un emploi ouvrant droit à pension pour la période allant du 1er janvier 2012 au 2 décembre 2013.
+VI. Décision
+[216] Les appels d’AE et de M. Gonzalez concernant les décisions rendues par le ministre en 2016, pour la période allant du 1er janvier 2013 au 31 décembre 2013, sont rejetés.
+[217] Les appels d’AE concernant les décisions rendues par le ministre en 2015 sont accueillis, sauf dans le cas de Mme Sinchi, alors que le ministre doit tenir compte du fait que Mme Sinchi occupait un emploi assurable en application de l’alinéa 6g) du RAE et un emploi ouvrant droit à pension en application du paragraphe 34(1) du RRPC, pour la période allant du 1er juillet 2012 au 30 novembre 2012.
+Signé à Ottawa, Canada, ce 17e jour de mai 2019.
+« Johanne D’Auray »
+La juge D’Auray
+ANNEXE A
+RÉFÉRENCE :
+2019 CCI 116
+NOS DU DOSSIER DE LA COUR :
+2015-1919(EI), 2015-1920(CPP),
+2016-3768(EI), 2016-3767(CPP),
+2016-3782(EI), 2016-3781(CPP)
+INTITULÉ :
+AE HOSPITALITY LTD. c. M.R.N.
+OMAR E GONZALEZ c. M.R.N.
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 3, 4, 5 et 6 avril 2018, et le 1er octobre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Johanne D’Auray
+DATE DU JUGEMENT :
+Le 17 mai 2019
+COMPARUTIONS :
+Avocats pour l’appelante AE Hospitality :
+Me Ian R. Dick
+Me Stephanie J. Kalinowski
+Pour l’appelant Omar Gonzales
+L’appelant lui-même
+Avocat de l’intimé :
+Me John Chapman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Ian R. Dick
+Me Stephanie J. Kalinowski
+Cabinet :
+Hicks Morley Hamilton Steward
+Storie LLP
+Pour l’intimé :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] LC 1996, ch. 23.
+[2] LRC 1985, ch. C-8.
+[3] DORS/96-332.
+[4] CRC, ch. 385.
+[5] 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59 [Sagaz].
+[6] Wiebe Door Services Ltd. v Minister of National Revenue, [1986] 3 FC 553 [Wiebe Door].
+[7] 1392644 Ontario Inc. (Connor Homes) c. Canada (Revenu national), 2013 CAF 85 [Connor Homes].
+[8] Transcription, Volume 1, p. 173, ligne 5.
+[9] Transcription, Volume 1, p. 182, ligne 28.
+[10] Transcription, Volume 2, p. 306, ligne 20.
+[11] Transcription, Volume 2, p. 362, ligne 11.
+[12] Transcription, Volume 2, p. 366.
+[13] Transcription, Volume 3, p. 455, ligne 12.
+[14] Transcription, Volume 3, p. 456, ligne 19.
+[15] Transcription, Volume 3, p. 428, ligne 19.
+[16] Transcription, Volume, 3, p. 394, ligne 11.
+[17] Voir : pièce A-3 de l’appelant.
+[18] Hennick c. Ministre du Revenu national, 1995 CarswellNat 124, [1995] ACF no 294 [Hennick].
+[19] Il s’agissait de trois colonnes ou de trois feuilles séparées : une pour Encore, une pour Applause et une pour AE.
+[20] Transcription, Volume 3, p. 417, ligne 20.
+[21] Transcription, Volume 3, p. 418, ligne 3.
+[22] Transcription, Volume 1, p 67.
+[23] Transcription, Volume 3, p. 395, ligne 19.
+[24] Precision Gutters Ltd. c. Canada (Ministre du revenu national), [2002] ACF no 771 (QL), 2002 CAF 207 [Precision Gutters].
+[25] Ibid, au paragraphe 25.
+[26] Les témoignages des serveurs/serveuses et des superviseur(e)s ne concordaient pas toujours pour ce qui est des instruments qu’ils devaient apporter pour faire leur travail.
+[27] Voir le paragraphe 10 de la convention d’entrepreneur indépendant.
+[28] Precision Gutters, précité, note 24
+, au paragraphe 27.
+[29] Ibid.
+[30] 6627148 Ontario Ltd. (Daily Care Health Services) v. M.R.N., 2013 CCI 169 [Daily Care Health Services].
+[31] Ibid, au paragraphe 27.
+[32] Johnson c. M.R.N., 2018 CCI 201 [Johnson], fait l’objet d’un appel à la Cour d’appel fédérale.
+[33] 2019 CSC 28.
+[34] DORS/97-33.
+[35] 2016 CCI 34, au paragraphe 16 [Wholistic Child and Family Services]. Voir également Carver PA Corporation c. M.R.N., 2013 CCI 125.
+[36] Transcription, Volume 5, p. 38, ligne 3.
+[37] Voir mes motifs aux paragraphes 98 et suivants.
+[38] Voir mes motifs aux paragraphes 143 et suivants.
+[39] Voir mes motifs au paragraphe 180.
+[40] Voir mes motifs aux paragraphes 176 et suivants.
+[41] Voir mes motifs aux paragraphes 176 et suivants.
+[42] Voir mes motifs quant aux raisons pour lesquelles le personnel de service, y compris les superviseur(e)s, était sous le contrôle d’AE, sous la rubrique portant sur les décisions rendues par le ministre en 2016, aux paragraphes 98 et suivants – Degré de contrôle.
+[43] Voir mes motifs aux paragraphes 143 et suivants.
+[44] Voir mes motifs au paragraphe 191.

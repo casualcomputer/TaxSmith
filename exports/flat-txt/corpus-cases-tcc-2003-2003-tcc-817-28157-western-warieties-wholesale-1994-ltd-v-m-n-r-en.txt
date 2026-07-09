@@ -1,0 +1,335 @@
+Title: Western Warieties Wholesale (1994) Ltd. v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28157/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-817-28157-western-warieties-wholesale-1994-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-11-17
+
+# Western Warieties Wholesale (1994) Ltd. v. M.N.R.
+
+- Citation: 2003 TCC 817
+- Decision date: 2003-11-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2003, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Western Warieties Wholesale (1994) Ltd. v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-11-17
+Neutral citation
+2003 TCC 817
+File numbers
+2002-3372(EI)
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-3372(EI)
+BETWEEN:
+WESTERN VARIETIES WHOLESALE (1994) LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Richard Awid (2002-3373(EI)), Kemal Awid (2002-3374(EI)),
+Theodore Awid (2002-3375(EI)) and Lila Awid (2002-3376(EI))
+on October 23, 2003, at Edmonton, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Deryk W. Coward
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue on the appeal made to him under section 92 of the Act is vacated on the basis that Richard Awid, Kemal Awid, Theodore Awid and Lila Awid are excluded from insurable employment within the meaning of paragraph 5(3)(b) of the Act.
+Signed at Ottawa, Canada, this 17th day of November, 2003.
+"Campbell J. Miller"
+Miller J.
+Docket: 2002-3373(EI)
+BETWEEN:
+RICHARD AWID,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Western Varieties Wholesale (1994) Ltd. (2002-3372(EI)),
+Kemal Awid (2002-3374(EI)), Theodore Awid (2002-3375(EI))
+and Lila Awid (2002-3376(EI))
+on October 23, 2003, at Edmonton, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Deryk W. Coward
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue on the appeal made to him under section 91 of the Act is vacated on the basis that the Appellant is excluded from insurable employment within the meaning of paragraph 5(3)(b) of the Act.
+Signed at Ottawa, Canada, this 17th day of November, 2003.
+"Campbell J. Miller"
+Miller J.
+Docket: 2002-3374(EI)
+BETWEEN:
+KEMAL AWID,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Western Varieties Wholesale (1994) Ltd. (2002-3372(EI)),
+Richard Awid (2002-3373(EI)), Theodore Awid (2002-3375(EI))
+and Lila Awid (2002-3376(EI)) on October 23, 2003, at Edmonton, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Deryk W. Coward
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue on the appeal made to him under section 91 of the Act is vacated on the basis that the Appellant is excluded from insurable employment within the meaning of paragraph 5(3)(b) of the Act.
+Signed at Ottawa, Canada, this 17th day of November, 2003.
+"Campbell J. Miller"
+Miller J.
+Docket: 2002-3375(EI)
+BETWEEN:
+THEODORE AWID,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Western Varieties Wholesale (1994) Ltd. (2002-3372(EI)),
+Richard Awid (2002-3373(EI)), Kemal Awid (2002-3374(EI))
+and Lila Awid (2002-3376(EI))
+October 23, 2003, at Edmonton, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Deryk W. Coward
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue on the appeal made to him under section 91 of the Act is vacated on the basis that the Appellant is exluded from insurable employment within the meaning of paragraph 5(3)(b) of the Act.
+Signed at Ottawa, Canada, this 17th day of November, 2003.
+"Campbell J. Miller"
+Miller J.
+Docket: 2002-3376(EI)
+BETWEEN:
+LILA AWID,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeals of
+Western Varieties Wholesale (1994) Ltd. (2002-3372(EI)),
+Richard Awid (2002-3373(EI)), Kemal Awid (2002-3374(EI))
+and Theodore Awid (2002-3375(EI))
+on October 23, 2003, at Edmonton, Alberta
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Counsel for the Appellant:
+Deryk W. Coward
+Counsel for the Respondent:
+Brooke Sittler
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the decision of the Minister of National Revenue on the appeal made to him under section 91 of the Act is vacated on the basis that the Appellant is excluded from insurable employment within the meaning of paragraph 5(3)(b) of the Act.
+Signed at Ottawa, Canada, this 17th day of November, 2003.
+"Campbell J. Miller"
+Miller J.
+Citation: 2003TCC817
+Date: 20031117
+Docket: 2002-3372(EI)
+BETWEEN:
+WESTERN VARIETIES WHOLESALE (1994) LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2002-3373(EI)
+AND BETWEEN:
+RICHARD AWID,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2002-3374(EI)
+AND BETWEEN:
+KEMAL AWID,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2002-3375(EI)
+BETWEEN:
+THEODORE AWID,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+Docket: 2002-3376(EI)
+BETWEEN:
+LILA AWID,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] These five appeals, pursuant to the Employment Insurance Act (the "Act"), were instituted by the Awid family and Western Varieties Wholesale (1994) Ltd. (the "Company") to appeal against the decision of the Minister of National Revenue (the Minister) that the four individual Appellants are deemed to be at arm's length with the Company. The Minister found that, in accordance with section 5 of the Act, the Awids would have entered substantially similar employment contracts if they had been dealing with the Company at arm's length.
+[2] Richard Awid, Kemal Awid, Theodore Awid (Ted) and Lila Awid, the individual Appellants, maintained they were not dealing at arm's length with the Company for the period from January 1, 2001 to March 7, 2002 and, therefore, were not in insurable employment. As has been well established in cases of this nature, this is a two-stage process; the first stage is to review the Minister's decision rendered pursuant to paragraph 5(3)(b) of the Act in light of the facts as proven at trial, in order to determine whether the decision was both lawful and reasonable; the second stage arises only if it is found that the Minister's decision was either unreasonable or unlawful, in which case the Court is to make its own determination as to the applicability of paragraph 5(3)(b).
+[3] All four individual Appellants testified, as did their brother Jim Awid, a former shareholder of the Company. The story of the Awid family is quite a remarkable one. The Appellants are four of 16 siblings. Their father first opened a couple of stores in Edmonton, having first emigrated to Winnipeg, Manitoba, before moving on to Alberta. The Appellants' two oldest brothers became involved in the wholesale business and in the 1950s bought their own business. They first dealt in dry goods and expanded to include giftwares in the 1960s. They operated under the name Western Varieties Wholesale. A number of the siblings worked in the business.
+[4] In 1993-1994, the Company was struggling financially and illnesses of the older brothers caused Kemal, Theodore, Lila and Jim to consider taking over the family business under the auspices of Western Varieties Wholesale (1994) Ltd. As they explained, they did not want the name to disappear. They clearly felt there was goodwill connected to the name "Western Varieties". They arranged financing with CIBC by each pledging their Registered Retirement Savings Plans as collateral. They carried on with their respective responsibilities, though now as owners, as to each a 25 per cent interest. They gave themselves titles: Kemal was general manager, Theodore was manager, Lila was office manager and Jim was president. It was clear from their testimony this was more to accommodate the formalities of the bank's requirements than any serious desire to have titles. There was no written job description. Two of four were required for signing authority at the bank.
+[5] While I will describe each of their roles in more detail later, there was a consistent theme from their evidence that each of them, including Richard, would do whatever had to be done to keep the business operational. This included making coffee, dealing with customers, shovelling snow, delivering a pickup, bank runs, writing up orders and the list went on.
+[6] The four shareholders would hold shareholder meetings regularly for purposes of making major decisions. They would vote at such meetings. Richard was invited to attend.
+[7] When the four siblings took over in 1994, the business was unable to pay them, though after a couple of months some minimal wages were paid. A few months later, on the advice of their accountant, they agreed to $3,250 a month each. They would receive a small advance mid-month, with the balance at month end. As the office manager in the group, Lila would know the Company's finances and would occasionally not cash her cheque for weeks. No bonuses were ever paid. Profits were left in the family business. The $3,250 monthly wages have not varied since the mid‑90s, and apart from Lila's withholding cashing cheques, have been paid regularly and consistently.
+[8] The Company's business was that of a wholesaler, serving customers primarily in Western Canada by supplying every variety of dry goods, housewares, clothes, linens, giftwares and toys. It would also occasionally locate particular goods such as fridges or stoves for particular customers. A major part of the Company's business was providing toys for customers' Christmas parties. Kemal estimated this would represent 50 to 70 per cent of the Company's business. This involved finding the toys, which meant a trip to Montreal and Toronto in the New Year, shipping the toys to the warehouse, wrapping them, labelling and delivering them. The period from mid-October to mid-December was consequently the Company's peak season. This required hiring an additional 10 to 15 employees. During the rest of the year, the four individual Appellants, and until later in 2001, Jim Awid, the older brother, would be able to run the business with two or three other staff and an occasional bookkeeper. One full‑time staff, Jan Watson, had been with the family business for over 25 years.
+[9] During the peak season, the business would open Saturday as well as the regular business hours Monday to Friday. The Appellants would however work well into the night during this two-month period. I will now paint a picture of each individual Appellant's, Jim Awid's and Jan Watson's employment arrangement.
+Kemal Awid
+[10] Kemal would start his days at 6:30 a.m., as often he would be dealing with Eastern Canada. From January to October he would normally leave work at closing time – 4:30 p.m. He would often work one-half day on Saturdays. During the peak season he would work until 9 or 10 in the evening.
+[11] Kemal's primary responsibility was the purchasing of the non-toy dry goods such as housewares. He made the annual Eastern swing with Ted and helped with the Christmas rush. He likewise assisted the others in whatever way was required. He indicated he felt very underpaid, earning probably not much more than minimum wage. Why did he do it? Because it was a family business with loyal customers, and he enjoyed it.
+[12] When asked about vacations, he seemed somewhat puzzled as to what he would be entitled to. He had only taken five days in the last two or three years. It became clear the Awid family simply did not do holidays. Even on a day off he would phone in and come back to the office if needed. He felt he could come and go as he pleased during the day, and would do so on business errands, but limited his personal errands.
+[13] Kemal also acknowledged that he used his own car for business purposes (deliveries and bank runs, for example) without ever charging the Company for related vehicle expenses. He would also bring in his own tools on occasion if anything required fixing. He would also incur incidental meal expenses with customers or while at trade shows, which were not expensed to the Company.
+[14] Kemal explained that there was nothing formal for paid sick leave, but the family would get paid while unrelated employees would not. He described his job as important to the business and as one that he handled competently.
+Theodore (Ted) Awid
+[15] Ted confirmed that the titles that each of the siblings had given themselves were just names for bank purposes. He described his duties as primarily in connection with the purchase of toys for the Christmas customers, though likewise acknowledged he handled shipping and receiving, packing, janitorial, customer relations, delivery and even banking on occasion. Basically he did whatever needed doing. If he could not do something the others would chip in. There was no formal job description.
+[16] Ted could only guess at his take-home pay, though actually did not seem concerned about the amount, other than feeling it was extremely low for what he did. He felt he could get three times this wage anywhere else. He stated that he worked 50-to 60-hour weeks from January to October and 80-hour weeks in the busy Christmas season. He too did the work because he loved it, and that it is simply what you do in a family business. He indicated that in the early stages he had to dip into savings to make ends meet.
+[17] Like the rest of the family Ted took minimal vacation time, citing just three weeks in the last four years, though suggesting he could have taken more had he wanted to. While he felt he could come and go as he pleased he tried not to conduct personal work during regular business hours.
+[18] Ted sometimes brought his own tools to work to effect repairs. He never charged the Company nor did he charge the Company for the use of his car or for other minor incidental expenditures such as the occasional customer's lunch.
+Richard Awid
+[19] Richard was a teacher for many years but upon his retirement in 1999, he joined his sister and brothers in the family business. As a younger man he had often helped out in the business. His job was primarily tied in with the children's Christmas party aspect of the business, which required the packaging and delivering of 40,000 to 50,000 gifts. He stated that such volume required year-round effort. He too did odd jobs around the work place including changing lights, cleaning floors, delivery and pick-up, bank runs and packing. As he said, there was always some kind of crossover with the other positions.
+[20] Unlike the others, Richard was not a shareholder. He punched a time card and was paid on a hourly basis ($8.50 per hour), however he stated that he spent a lot of extra time at the business unaccounted for. He estimated a 50-55 hour workweek though only punched in 40 hours. Why – because as the universal theme went – it was a family business. He considered overtime as donated hours to helping the family. He felt he could ask for a greater wage but did not want to, as he did not want to move into a higher tax bracket. He believed he could get time off whenever he wanted and could come and go as he pleased. Sometimes he would punch in and sometimes he would not. He too would bring the odd bit of equipment such as pliers or snow shovels to work when necessary. He also relied on his personal vehicle without any claim against the Company.
+[21] On going through the Canada Customs and Revenue Agency (CCRA) employment questionnaire in cross-examination, which Richard had signed, he acknowledged several errors in the responses. For example, he did not own shares nor was he a director of the Company. It is clear that all four individual Appellants' questionnaires were identical, regardless of particular circumstances.
+[22] Richard would occasionally sit on shareholders' meetings though not a shareholder, and would take part in major decisions, which impacted on the Christmas party business.
+Lila Awid
+[23] When Lila and her three brothers, Jim, Kemal and Ted decided to continue to run the family business in 1994, none of them were hired as such for any particular position. She simply carried on doing what she had previously done for the two oldest brothers when they were in charge; that is, handle the majority of the office work. This included handling accounts payable, accounts receivable, filing, dealing with customers, shipping, cleaning, doing orders, delivery and pickup, packing, and as she put it, "everything". She even supplied food for staff and customers regularly. At Christmas time she and the family supplied all the food for the office party at no charge to the Company.
+[24] Lila drew the same wage as her brothers, as according to her, they wanted to be fair to one another. At the outset in 1994, she drew nothing for several weeks and tucked into her savings to survive. Since then, if finances warranted, she would not cash a cheque for weeks or months. She estimated she worked 60‑65 hours a week in the off peak times and 80-85 hours a week in the busy Christmas season. She felt she was "absolutely underpaid" and only did it because it was a family business – it was in her blood.
+[25] Lila maintained she had not taken a holiday since 1980 and presumed she had accumulated probably 20 years of vacation time. In 2001, she was off work for several months due to a foot injury. She was advised by an Employment Insurance official that she could not get employment benefits for this period. The Company ultimately paid her salary while she was away.
+Jim Awid
+[26] Jim Awid was not an Appellant. He is the brother of the individual Appellants and the former president of the Company. He had a falling-out with the others in 2001, resigned and sold his 25 per cent interest to them. There has been little, if any, communication between Jim and the others since that time. He is somewhat bitter. The individual Appellants were universal in citing the reason for Jim's departure as his reluctance to sign, with the others, for the corporate borrowings. Jim painted a slightly different picture in that he felt that the Company was seeking too great a loan, and he did not wish to commit to that extent, but would have agreed to the lesser amount finally negotiated. While the individual Appellants were guarded in their description of Jim's departure, it was evident there was some sense amongst them that he was not pulling his weight. Regrettably, this has developed a rift in the family.
+[27] Jim's view of his siblings' remuneration and hours worked differed from the Appellants. He suggested Ted and Lila were overpaid for what they did. Given the family acrimony, I attach less weight to Jim's testimony in this regard.
+Jan Watson
+[28] Ms. Watson did not testify. She was the only long-term (25 years) unrelated employee. She too was not an Appellant. The Appellants claimed she knew the business well, though could not completely fill in properly for Lila during her sick leave. Ms. Watson worked more on the floor as opposed to in the office. She punched in and was paid an hourly wage. She too put in long hours during the peak season for which she was paid overtime. She took no part in the family decisions on major corporate issues. She reported mainly to Kemal, but also to the others.
+[29] In summary, with respect to the working arrangement, the Awid family is a hardworking group, loyal to their business and certainly prepared to do whatever it takes to remain viable. They do not distinguish between themselves by titles nor by their different hats as shareholders, directors and employees. They make major decisions as a group and always try to reach consensus.
+[30] Mr. Orest Slywka, the CPP/EI appeals officer, also testified. As an appeals officer, he approached the Company as he did any other file, as a fresh appeal. While all he would have before him would be the prior rulings file, he acknowledged that he owed no deference to the rulings officer. Upon receipt of this file, he sent out questionnaires to the Awids and the Company, and received back four identical questionnaires from the individual Appellants, as well as the corporate questionnaire. Upon reviewing the questionnaires and the rulings officer's report, he noted some contradictions. He felt the rulings report was more significant. He did not follow up with the Awids. He relied on the Provincial Labour Standards website to conclude that the remuneration to the individual Appellants was in the market, though at the low end in comparison with other sales-like positions. On May 29, 2002, he issued a CPT110 Report, recommending the Awids be found to be in insurable employment. This was forwarded to his supervisor, Ronald Smith, who signed the decision the next day, and mailed it to the Appellants that same day. It stated:[1]
+It has been decided that this employment was insurable for the following reason: Kemal Awid, Theodore Awid, and Lila Awid were engaged under contracts of service and therefore they were employees of yours. The Minister is satisfied that you and Kemal Awid, Theodore Awid, and Lila Awid would have entered into substantially similar contracts of employment if you had been dealing with each other at arm's length.
+Analysis
+[31] Mr. Coward, Appellants' counsel, set the context for the issue in these appeals as follows. The Awids always paid the employment insurance premiums. They had done so since 1994 when they took over the business. But, as non-arm's length employees, they should have been prima facie excluded from the employment insurance scheme. That is what paragraph 5(2)(i) says. Only if the Minister is satisfied, pursuant to paragraph 5(3)(b) that it is reasonable to conclude that they would have entered a substantially similar contract of employment, if they had been dealing at arm's length, do they get swept into the employment insurance regime. So, the Appellants kept paying the premiums. Now they want them back. This is not a situation of the Appellants wanting in and trying to satisfy the Minister of the arm's length nature of the employment. This is a matter of the Minister trying to satisfy himself to bring the reluctant Appellants into the scheme. This appears to run contrary to the Government's questionnaire, which states that the employees must supply details of the working arrangement to satisfy the Minister that the arrangement was in fact different.
+[32] The Crown argues that notwithstanding the questionnaire, the legislation is clear in that the Minister need be satisfied on this point, but does not place the onus on the Appellants to satisfy the Minister. It is simply the Minister's job to make a determination relying on the non-exhaustive factors cited in the section itself. It is helpful at this stage to reproduce the section in question:
+5(3) For the purposes of paragraph (2)(i),
+...
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm's length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+Mr. Coward emphasized that paragraph 5(3)(b) is a remedial measure, designed to assist the related employee who would otherwise be excluded.
+[33] To consider the Minister's decision and replace it with my own decision, it must be established that:
+(a) The Minister acted in bad faith or for an improper motive or in contravention of some principle of law; or;
+(b) failed to take into account all relevant circumstances; or;
+(c) took into account any irrelevant factors.
+[34] Dealing with the first arm of this three-pronged analysis, I am satisfied there has been no evidence of bad faith or improper motive. The issue is whether the Minister acted unlawfully in breaching any principles of natural justice. The Appellants contend the Minister has, and cite the following instances of such breach:
+(i) reaching a decision based primarily on the Rulings file, which was never shown to the Appellants;
+(ii) at the appeals level, a fresh look according to the appeals officer, the appeals officer received questionnaires from the Appellants which contradicted parts of the Rulings report and did nothing other than discount the answers in the questionnaires; and
+(iii) the appeals officer's supervisor sent notices of the decision to the Appellants the day after receiving the appeals officer's recommendations, offering no explanatory reasons for the decisions other than a repetition of paragraph 5(3)(b).
+[35] While the Respondent acknowledged the process leaves something to be desired, she maintains the Minister has done what was statutorily required. The Appellants had two opportunities to make their position clear – first to the Rulings officer and second to the appeals officer through the questionnaire. How much more opportunity must the Minister provide, the Respondent asks. And, yes, agrees the Respondent, the notification is not lengthy, but it does stipulate that the Minister found the employment contracts substantially similar to arm's length employment contracts. No principles of natural justice have been breached, especially given the Appellant's final opportunity to appeal to this Court.
+[36] If the appeal to this Court was simply for a redetermination of the substantive issue, I might agree with the Respondent on the latter point, but this hearing is more in the nature of a judicial review of the Minister's decision. The principles of natural justice should be applied to the process prior to knocking on the Tax Court's door, rather than somehow viewing this Court as some saviour of the principles of natural justice for Appellants such as the Awids.
+[37] The Appellants referred me to my decision in Bancheri v. M.N.R.[2] for support of a finding that the Minister's actions were unlawful. That situation had a element of bad faith which is not present in this case. Do the faults in the procedure followed by the Government in this case, which have been adequately outlined in the three points above, absent that bad faith, constitute sufficient breaches to justify a review? Before answering that question I would add that the very delivery of the questionnaire to the Appellants, framed as it was, putting an onus on them to prove the dissimilarity with an arm's length employment contract is an additional fault in the process.
+[38] It is, as the Respondent pointed out, the Minister's job to make an objective determination. The legislative starting point is that the Awids are excluded due to their non-arm's length relationship. The Minister's approach, through the questionnaires, of insisting the Awids prove the dissimilarity of their contracts with arm's length contracts is misleading: it is certainly not an objective approach. It suggests to the Appellants that you are in the scheme unless you can prove otherwise.
+[39] Relying on the Rulings report, which was never shown to the Appellants, in and of itself is not determinative of an unfair procedure, but relying on it because of contradictions with answers in the subsequent questionnaire, without affording the Awids the opportunity to explain those contradictions, is a serious denial of a right to be heard. The appeals officer never spoke to the Awids. He never contacted them to ask for an explanation of the differences between their written answers on the questionnaire and verbal answers they gave to someone else. Had the questionnaire been consistent with the Rulings report, further follow-up may not have proven necessary. But in acknowledging that he simply relied more on the Rulings report with no further contact with the Appellants, the appeals officer denied the Appellants the right to answer, the right to be heard.
+[40] Finally, the form of the decision would not of its own constitute a severe enough breach to justify a review. It is not sufficient to simply regurgitate the provisions of the Act. In saying this, I am not suggesting a 25-page tome on the subject is required, but certainly some expansion of the factors relied upon would be in order. For example, in reviewing the remuneration factor, a statement to the effect the Appellants' remuneration was compared to information obtained from labour standards, and was found to be in the market range, albeit at the low end, would be helpful. Also, it would be enlightening to the Appellants to see some reference to the regularity of pay. This does not require hours of work. I say this as I am aware of the practical application of a concern regarding the Minister's procedure. Do these concerns translate into costly, labour intensive, time-consuming procedures for which the government may be undermanned? I think not. The answer is not more appeals officers spending a great deal more time. The answer is sufficient disclosure, objective questionnaires, where warranted appropriate follow-up, concluding with understandable reasons not limited to a repetition of the legislation. These have not been egregious breaches, requiring monumental effort to rectify, but cumulatively they justify the Court's intervention.
+[41] While I am prepared to review the Minister's decision based on my finding thus far, I can reach the same conclusion considering the other two stages of the first arm of the analysis; that is, the issues of whether the Minister failed to consider relevant or considered irrelevant factors. Justice Marceau clarified this aspect of the review in Légaré v. M.R.N.[3] where he indicated:
+[4] The Act requires the Minister to make a determination based on his own conviction drawn from a review of the file. The wording used introduces a form of subjective element, and while this has been called a discretionary power of the Minister, this characterization should not obscure the fact that the exercise of this power must clearly be completely and exclusively based on an objective appreciation of known or inferred facts. And the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[42] Were the facts the Minister relied on real and correctly assessed in this case, now fully appreciating the context as has been presented at trial? I do not believe they were, as a review of those facts set out in the Respondent's Reply will reveal. It will not be necessary to go over every fact, which the Respondent pleaded, but I will highlight several which have satisfied me on this point. All references are to paragraph 7 of the Minister's Reply to Notice of Appeal.
+7 In deciding as he did, the Minister relied on the following assumptions of fact:
+...
+(f) Kemal Awid was hired as a general manager and his duties included overseeing the business operation, purchasing house wares and miscellaneous items, hiring staff, dealing with clients, and helping out at Christmas;
+(g) Theodore Awid was hired as a manager and his duties included overseeing the purchasing of toys and other merchandise;
+(h) Lila Awid was hired as an office manager and her duties included receivables, payables, bookkeeping, paper work, freight issues, supervising office staff, hiring, and dealing with clients;
+(i) Richard Awid was hired to organize the Christmas gifts for client Christmas parties and to obtain new clients;
+[43] These statements all suggest a "hiring" took place for specific, identifiable positions. That is simply not the context. No one actually hired the four individual Appellants as such, and certainly not for specific positions. Kemal, Lila and Ted were all family members carrying on doing what they had been doing for years, but as of 1994, on becoming owners, and all that entailed (specifically the new hats of shareholders and directors), they also agreed amongst themselves for bank purposes to give themselves titles. There were no formal hirings, or job descriptions. The Awids simply acted as entrepreneurial owners/managers and agreed amongst themselves they would do what was necessary to keep the business viable. With respect to Richard, upon retirement, it was clear that he would be welcome to join the family firm on a similar basis as the rest of the family; that is, you work as long and as hard as it is necessary.
+[44] 7(l) The Workers' wages were not unreasonable. Mr. Slywka testified that he compared the Awids' salary to those of sales representatives based on a provincial labour standards website. He acknowledged that the high end of that information was over $125,000 annual salary, and that the Awids' wages were at the low end of the range. The individual Appellants testimony was universal on this issue – they believed they were underpaid. They only worked for the Company for this wage because it was family. They drew the same salary since taking over the business since 1994. Kemal, Ted and Lila had all worked in the business for years. These were not junior employees just starting out but people in their 50s and 60s, in the twilight as opposed to dawn, of their careers. This context satisfies me the Crown's assessing of the wages being "not unreasonable" inaccurately describes the situation.
+[45] 7(p) The Appellant's payroll was handled by a payroll service. This is not the case.
+[46] 7(t) The Workers were entitled to paid vacation leave. While the individual Appellants acknowledged they were likely entitled to paid vacation leave, they were all flummoxed by what that actually meant. It was telling that Lila's answer to the question of how much vacation she felt entitled to was "20 years" not two or three weeks as one might suspect. The Appellants did not take significant vacations. In the few days they might take time off, they felt compelled to stay in touch with the office. I find that failing to take into account all the circumstances of the vacation issue was a significant disregard of the relevant facts.
+[47] 7(y) The Workers normally did not come and go as they pleased. While the Appellants acknowledged they did not normally come and go as they pleased, it was not because they felt any contractual obligation not to (indeed they all believed they could come and go and all did to a small degree) but due to their dedication to their family business.
+[48] 7(cc) The Appellant provided all of the tools and equipment required including a fully furnished work location. A glaring exception to this statement is that all individual Appellants relied on their own vehicles to assist in carrying out their responsibilities. No charges were claimed by them from the Company for such use. A minor point as well is that all individual Appellants stated they brought their own small equipment such as screwdrivers or hammers to work, for minor repairs.
+[49] 7(dd) The Workers did not incur any expenses in the performance of their duties. The Appellants indicated that in dealing with customers that they would sometimes pay for incidental disbursements such as lunches, and oftentimes nothing got charged to the Company.
+[50] From these examples, I conclude that the underpinning of the Minister's decision is subject to review, as the facts have not been correctly assessed having regard to the context of the family business and the terms under which the Awids operated. I believe the Awids have presented new facts and provided a context which suggest the facts the Minister relied upon were misunderstood.
+[51] To proceed then to the second stage of the analysis, having determined the Minister's decision is reviewable, I will determine if the individual Appellants and the Company are deemed to deal at arm's length; that is, would they have entered into a substantially similar contract of employment if they had been dealing with each other at arm's length.
+[52] This is not a case of fictitious jobs for family members. There is simply no question of the legitimacy of the Appellants' positions. This is a story of a hard‑working family where lines of responsibility overlap amongst family members, decisions are by consensus and work is everything. "Vacation" appears to be a dirty word. So, on attempting to answer the question of the substantial similarity with an arm's length employment contract, I am not faced with the usual dilemma of being satisfied there are enough trappings of full-time legitimate, relevant, important work. That is not the issue. Here there is no question all four individual Appellants were engaged in meaningful, full-time employment, which they handled competently. The question is whether the circumstances of such employment are substantially similar to an arm's length employment contract. Certainly, none of the Appellants thought so. They were each individually incredulous that anyone would ever consider working under these conditions in anything other than a family business. I should note that none of the Appellants were present for each others' testimony, at their own request.
+[53] The Respondent says this is exactly the type of family employment situation which paragraph 5(3)(b) was intended to cover.
+[54] The legislation requires that I consider "all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed".
+Remuneration
+[55] In 1994, Ted, Kemal and Lila started their owner/manager wholesale business drawing little salary. After a few months, upon the advice of their accountant, they decided to draw $3,250 a month each, a salary which has not changed to this day. While the amount may be within the realm of what someone in the arm's length contract might draw in a managerial sales position, I note the following significant differences from an arm's length contract:
+- the employees set their own wage;
+- the employees never got paid overtime;
+- the employees never sought an increase but drew an amount based more on needs than on jobs worth;
+- the employees got paid for sick time; and
+- the employees never received bonuses.
+Terms and Conditions
+[56] The terms and conditions of the Awids employment are most illustrative of the chasm between their arrangement and an arm's length arrangement. In particular, I rely upon the following factors:
+- the employees' duties were not those of employees hired for specific duties. Though each of the individual Appellants did have major areas of responsibility, the Awids were expected to, and did, cover for one another, as well as doing anything and everything that needed attention to keep the family business going.
+- the employees provided their own vehicles, as well as less significant tools to assist in the performance of their responsibilities. None of them submitted an expense account to the Company for such use.
+- the employees incurred incidental expenses, such as customers' lunches, which came from their own pockets, for which they were not reimbursed.
+- most telling was Lila's description of the staff's Christmas party; the family provided all the food not from the Company's coffer but from their own resources.
+- entitlement to vacation was a fiction for these employees, and even when they took a day here or there, there was an expectation they would check in at the office.
+- the employees could come and go as they pleased, but did not abuse that right. Clearly business came first.
+- the employees are not accountable to any boss and perform their work unsupervised. They are in their position as long as they want to be. As Lila put it, if there are any disagreements about work they simply talked it through.
+Duration and nature and importance of work
+[57] The employees were all long-term employees with full-time important jobs, which they handled competently. In this regard, yes, they were engaged in similar employment to an arm's length employee, but this must be put in context. The Awids were principals of their distributorship business: their relationship with the Company was premised on that basic understanding. Even Richard, who was not an owner, was invited to participate in the decisions which would affect the direction and ongoing viability of the business. The Awids were not in any sense in any subordinate position. They called the shots including the terms of their own employment arrangement, and I am satisfied they could change those terms whenever and however they wanted. That is not the type of third-party employment arrangement I believe is to be captured by paragraph 5(3)(b) of the Act.
+[58] Although the circumstances in Crawford Ltd. v. M.N.R.[4] were different, I endorse the following comments of Judge Porter:
+91 On a final note it seems to me, in general terms, that quite clearly the scheme set up by Parliament excludes from insurable employment, those situations where people are in business for themselves, or have substantial control of the corporations for whom they work, either with persons to whom they are related or with whom they are not dealing at arm's length. If in those situations the working relationship is substantially the same as that which exists between unrelated people dealing with each other at arm's length, then clearly Parliament has tempered the severity of depriving such people of the opportunity to participate, by giving the Minister a discretion to let them into the scheme. It seems clear that this process was not designed by Parliament to draw into the net of the employment insurance scheme, employment arrangements, where people are virtually operating their corporate businesses as their own business; where they are economically intertwined with their corporations to such an extent that there is really no adverse economic interest between them; where in essence they are entrepreneurs not workers engaged in employment.
+92 Whilst it is clear that there are many who make contributions to the scheme, who might never expect to claim from it, which is not the point, it is equally clear that the scheme is designed to be for the benefit of and to be supported by contributions from genuine employees and not from those, who somewhat go out on a limb to pursue their own entrepreneurial interests. Those who do that, take their own risks and are expected by Parliament to look after themselves in the event of bad times. The scheme has been very much set up for the benefit of those in regular employment situations and not for those in business for themselves. Clearly in the appeals at hand the three workers in question were effectively in business for themselves.
+[59] I find Kemal, Ted and Lila were effectively in business for themselves. Although Richard was not an owner, he acted like one. In his case, I am also influenced by his dictating the wages for which he wanted to work, a lesser wage than what he knew he could have demanded elsewhere.
+[60] In summary, the remuneration and terms and conditions of the Appellants' employment are sufficiently dissimilar from an arm's length arrangement to find the Appellants are excluded from insurable employment. The context of their employment as principals of a family business reinforces this view.
+[61] I allow the appeals and refer the matter back to the Minister of National Revenue on the basis that the individual Appellants are excluded from insurable employment. I make no award of costs.
+Signed at Ottawa, Canada, this 17th day of November, 2003.
+"Campbell J. Miller"
+Miller J.
+CITATION:
+2003TCC817
+COURT FILE NO.:
+2003-3372(EI), 2003-3373(EI), 2003-3374, 2003-3375(EI), 2003-3376(EI)
+STYLE OF CAUSE:
+Western Varieties Wholesale (1994) Ltd., Richard Awid, Kemal Awid,
+Theodore Awid and Lila Awid and
+The Minister of National Revenue
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+October 23, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT:
+November 17, 2003
+APPEARANCES:
+Counsel for the Appellant:
+Deryk W. Coward
+Counsel for the Respondent:
+Brooke Sittler
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Deryk W. Coward
+Firm:
+D'arcy & Deacon
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit A-6.
+[2] [2001] T.C.J. No. 278.
+[3] (1999), 246 N.R. 176.
+[4] [1999] T.C.J. No. 850.

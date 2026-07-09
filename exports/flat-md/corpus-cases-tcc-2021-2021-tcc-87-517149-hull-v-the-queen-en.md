@@ -1,0 +1,227 @@
+---
+title: "Hull v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/517149/index.do"
+last_modified: "2021-11-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2021 TCC 87"
+citation2: ""
+neutral_citation: "2021 TCC 87"
+decision_date: "2021-11-26"
+language: "en"
+item_id: "517149"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4436
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:27:55.912000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f10ed16e847c57bfe0665545422d353913f61bc2ffe5f72490b6ee70cce53ace"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hull v. The Queen
+
+- Citation: 2021 TCC 87
+- Decision date: 2021-11-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4436, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hull v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2021-11-26
+Neutral citation
+2021 TCC 87
+File numbers
+2015-2187(IT)G
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-2187(IT)G
+BETWEEN:
+JEFFREY HULL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Motion heard on September 28, 2021 at Toronto, Ontario
+Before: The Honourable Justice Steven K. D’Arcy
+Appearances:
+Counsel for the Appellant:
+A. Christina Tari
+Counsel for the Respondent:
+Christian Cheong
+ORDER
+In accordance with the attached Reasons for Order:
+1. The Appellant’s motion for enhanced costs is denied; and
+The Appellant is awarded costs of $4,096.25 plus disbursements of $10,403.56. The amount will be reduced by the Respondent’s cost of this motion, which is fixed at $2,500.
+Signed at Ottawa, Canada, this 26th day of November 2021.
+“S. D’Arcy”
+D’Arcy J.
+Citation: 2021 TCC 87
+Date: 20211126
+Docket: 2015-2187(IT)G
+BETWEEN:
+JEFFREY HULL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+D’Arcy J.
+[1] The Appellant has brought a motion, pursuant to section 147 of the Tax Court of Canada Rules (General Procedure) (“the Rules”), that costs be awarded to the Appellant at an enhanced rate of 100% for all invoiced fees and disbursements from March 15, 2017 to the present and that costs be awarded to the Appellant at the rate of 75% for all invoiced fees up to and including March 14, 2017 and at a rate of 100% for all invoiced disbursements incurred during this period.
+[2] The appeal in question is from three reassessments issued by the Minister on December 5, 2011 in respect of the Appellant’s 2005, 2008 and 2009 taxation years. When assessing the Appellant, the Minister disallowed claimed business expenses in the 2008 and 2009 taxation years of $133,170 and $150,510, respectively, and disallowed the carryback of a $51,321 non-capital loss to the 2005 taxation year. The federal tax at issue in the appeal was $64,135.
+[3] The Appellant filed his appeal with the Court on May 5, 2015. On September 4, 2020, prior to the hearing of the appeal, the parties filed a consent to judgment with the Court, allowing the appeal in full with respect to the relevant taxation years. The consent did not refer to costs. The covering letter filed by both parties with the consent to judgment stated that the parties had not agreed on the quantum of costs and that the Appellant intended to bring the matter to the Court for resolution.
+[4] On September 24, 2020, the parties filed an amended consent to judgment. The amended consent to judgment allowed the Appellant’s appeal, with costs. The covering letter filed by both parties with the amended consent to judgment stated that the parties had still not agreed on the quantum of costs, and that the Appellant intended to file a motion pursuant to subsection 147(7) within 30 days of receiving the Court’s judgment pursuant to paragraph 170(a).
+[5] On October 14, 2020, my colleague Justice Pizzitelli issued a judgment allowing the appeal, with costs, and referring the reassessments back to the Minister of National Revenue for reconsideration and reassessment in accordance with the terms of the amended consent to judgment.
+[6] The Appellant eventually filed this motion.
+I. Summary of Proceedings
+[7] Since a hearing did not occur, I am limited to the information provided in the pleadings, the Court’s record and an affidavit filed by the Appellant. It is clear from the pleadings that the Appellant carried on business as an independent financial advisor. As discussed previously, the Minister disallowed $133,170 and $150,510 of expenses claimed by the Appellant in the 2008 and 2009 taxation years.
+[8] It appears from the submissions of the parties and the affidavit filed on behalf of the Appellant that the primary issue in the appeal was costs incurred by the Appellant to purchase and use a $105,000, 2008 Chevrolet Corvette Z06 during what was referred to as “track days”. At paragraph 13 of his written submissions, the Appellant describes the track days as “. . . organized events at which owners of luxury cars and motorcycles were afforded the opportunity to safely lap around a track while driving in a high-performance manner to learn and improve their skills at driving their vehicles”.
+[9] Between the time the Appellant filed his appeal on May 5, 2015 and the time the Court, over five years later, issued its judgment based on the amended consent to judgment, the parties completed the following litigation steps and the Court issued the following orders.
+[10] The Reply was filed on August 10, 2015, the Appellant’s list of documents was filed on October 9, 2015 and the Respondent’s list of documents was filed on November 4, 2015.
+[11] The parties submitted a joint request for the completion of the remaining litigation steps on January 8, 2016. As a result of various requests made by the parties, the Court issued the following four orders with respect to the completion of the litigation steps.
+[12] The first order, dated January 26, 2016, required the remaining litigation steps (discovery and satisfaction of undertakings given at the discovery) to be completed by August 31, 2016 and the parties to report to the Court by October 14, 2016.
+[13] As a result of an application made by the Appellant, the Court issued an order on September 28, 2016, amending its original order and requiring the parties to complete the litigation steps by January 31, 2017 and to report to the Court by March 31, 2017.
+[14] As a result of the parties’ joint application, the Court further amended its order to allow for the completion of litigation steps by April 28, 2017 and to require the parties to report to the Court by June 30, 2017. The parties requested the extension to pursue settlement discussions.
+[15] The parties then made a third request to amend the Court’s order. This request was to allow for further questions on written examination for discovery and a September 29, 2017 date for the answers to the further questions and for the answers to undertakings given at the examination for discovery. The Court, on May 8, 2017, granted the parties’ request and issued an order (the “May 8, 2017 Order”) providing that the litigation steps were to be completed by September 29, 2017 and the parties were to report to the Court by November 30, 2017.
+[16] The parties completed the litigation steps as follows.
+[17] On June 10, 2016, the Appellant filed a supplementary list of documents.
+[18] On February 27, 2017, the Respondent provided the first set of written discovery questions to the Appellant. The Respondent asked 47 questions.
+[19] On March 31, 2017, the Appellant provided answers to some of the written discovery questions. However, he provided 20 undertakings to provide answers in the future.
+[20] On July 31, 2017, the Respondent served the second set of written discovery questions.
+[21] On September 29, 2017, the Appellant provided answers to the second set of written discovery questions. He also satisfied some of the outstanding undertakings from the first set of written discovery questions. However, in breach of the Court’s May 8, 2017 Order, he did not satisfy eight of the undertakings.
+[22] On August 18, 2020, the Appellant filed a second supplementary list of documents.
+[23] On August 19, 2020, the Appellant finally satisfied the eight outstanding undertakings. This occurred nearly three years after the date specified in the Court’s May 8, 2017 Order.
+[24] On September 1, 2020, the Appellant filed a third supplementary list of documents.
+[25] The appeal was originally scheduled to be heard on October 5, 2018. However, because of the parties’ request dated August 7, 2018, the hearing was adjourned. On October 31, 2018 and January 7, 2019, the parties requested that the Court delay the scheduled hearing. All three letters state that the reason for the delay was settlement discussions between the parties.
+[26] Because of the numerous delays, the Court scheduled a status hearing, which resulted in the appeal being scheduled to be heard on September 14, 2020.
+[27] The parties made the following settlement offers.
+[28] On March 14, 2017 (prior to the Appellant providing answers to the first set of discovery questions), the Appellant offered to settle the appeal if the Respondent allowed business expenses of $116,543.23 and $130,821 and the loss carry back of $51,321 (the “March 14, 2017 Settlement Offer”). The Respondent did not, at the time, accept this offer.
+[29] On August 27, 2020, eight days after the Appellant finally satisfied the outstanding undertakings, the Respondent offered to settle the appeal on the basis of the March 14, 2017 Settlement Offer, without costs. The Appellant did not accept this offer, but offered to settle on the basis of the March 14, 2017 Settlement Offer plus costs of $120,000.
+[30] On August 28, 2020, the Respondent rejected the Appellant’s offer, but offered to settle on the basis of allowing the $116,543 and $130,821 as expenses as set out in the March 14, 2017 Settlement Offer plus paying $10,000 in respect of costs plus tariff costs and reasonable and necessary disbursements.
+[31] On August 31, 2020, the Appellant rejected the Respondent’s offer and offered to settle the appeal on the basis that the appeal is allowed in full and that the Respondent pay $58,000 as a reimbursement of a portion of the Appellant’s legal costs plus tariff costs and reasonable disbursements.
+[32] On September 3, 2020, the Respondent offered to settle the appeal in full with the Court to determine costs. The Appellant accepted this offer and the parties filed a consent to judgment.
+II. The Law
+[33] As noted by the Court on numerous occasions, a trial judge has absolute and unfettered discretion to award or withhold costs subject only to the applicable rules on costs. This discretion allows judges of the Tax Court of Canada to fashion just and appropriate cost awards suitable to the particular circumstances of individual cases.
+[34] Sections 147 to 152.1 of the Rules contain certain rules and guidelines for the awarding of costs in general procedures. Subsection 147(1) of the Rules provides that “[t]he Court may determine the amount of the costs of all parties involved in any proceeding, the allocation of those costs and the persons required to pay them.”
+[35] When exercising its discretion the Court may consider one or more of the factors listed in subsection 147(3) of the Rules, which reads as follows:
+In exercising its discretionary power pursuant to subsection (1) the Court may consider,
+(a) the result of the proceeding,
+(b) the amounts in issue,
+(c) the importance of the issues,
+(d) any offer of settlement made in writing,
+(e) the volume of work,
+(f) the complexity of the issues,
+(g) the conduct of any party that tended to shorten or to lengthen unnecessarily the duration of the proceeding,
+(h) the denial or the neglect or refusal or any party to admit anything that should have been admitted,
+(i) whether any stage in the proceedings was,
+(i) improper, vexatious, or unnecessary, or
+(ii) taken through negligence, mistake or excessive caution,
+(j) any other matter relevant to the question of costs.
+[36] In addition, pursuant to subsection 147(4), the Court may fix costs without reference to the tariff contained in Schedule II of Rules (the “Tariff”) and may award a lump sum in lieu of or in addition to any taxed costs.
+[37] As Chief Justice Rossiter noted in Velcro Canada Inc. v. The Queen, 2012 TCC 273, “[t]he factors in Rule 147(3) [of the Rules] are the key considerations in the Court’s determination of costs awards as well as the quantum and in determining if the Court should move away from the Tariff”.
+[38] Subsections 147(3.1) to 147(3.8) of the Rules were added effective February 7, 2014. These rules provide for enhanced costs if the Appellant obtains a judgment of the Court that is as favourable as or more favourable than a qualifying offer of settlement. The only provisions relevant for purposes of this motion are subsections 147(3.1) and (3.5), which read as follows:
+(3.1) Unless otherwise ordered by the Court, if an appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement, the appellant is entitled to party and party costs to the date of service of the offer and substantial indemnity costs after that date, as determined by the Court, plus reasonable disbursements and applicable taxes.
+. . .
+(3.5) For the purposes of this section, “substantial indemnity costs” means 80% of solicitor and client costs.
+[39] The use in subsection 147(3.1) of the words “unless otherwise ordered by the Court” recognizes the Court’s discretion to not award enhanced costs.
+[40] My colleague Justice Owen explained this discretion in Sun Life Assurance Company of Canada v. The Queen, 2015 TCC 171, when he stated, “the Court has the discretion to determine what the substantial indemnity costs are in each case and the discretion to override the default rule if the Court is of the view that the circumstances warrant such an approach. The discretionary aspects of the rule are consistent with the general proposition that costs awards are ‘quintessentially discretionary’.” Justice Owen noted that this is consistent with the Federal Court of Appeal’s comments at paragraphs 30 and 31 of Transalta Corporation v. The Queen, 2013 FCA 285.
+[41] I agree with the additional findings Justice Owen made in Sun Life that the discretion to override the default rule in subsection 147(3.1) should only be exercised on a principled basis and that the entitlement created by subsection 147(3.1) should not be taken away lightly.
+[42] Section 149 of the Rules is a provision that may apply when a proceeding is settled. It reads as follows:
+Where a proceeding is settled on the basis that a party shall pay or recover costs and the amount of costs is not included in or determined by the settlement, the costs may be taxed under sections 153 to 159 on the filing of a copy of the minutes of settlement in the Registry.
+[43] This provision allows for the taxing of costs when the parties reach a settlement. The reference to the filing of a copy of the minutes of settlement indicate that it is intended to apply where the parties reach a settlement under subsection 169(3) of the Income Tax Act. In such a situation, the Court does not issue a judgment. Rather, the parties execute minutes of settlement, which are not filed with the Court. Once the Minister reassesses the Appellant pursuant to the minutes of settlement, the parties discontinue the appeal.
+[44] It appears that the drafters of section 149 of the Rules felt that a specific rule was required to allow for the taxing of costs in the situation where the parties, using subsection 169(3) of the Income Tax Act, settle their dispute without a judgment of the Court.
+[45] Section 149 contains the words “may be taxed under sections 153 to 159”. The use of the word “may” recognizes the Court’s discretion to determine how costs are to be determined.
+III. Position of the Parties
+[46] It is the Appellant’s position that his entitlement to costs, from March 15, 2017 to the date of the Court’s judgment, should be determined using subsection 147(3.1) of the Rules since the judgment issued by the Court on October 14, 2020 was more favourable than the Appellant’s March 14, 2017 Settlement Offer. As I just discussed, if the conditions of subsection 147(3.1) are satisfied, the Court will normally award enhanced costs from the date of an offer of settlement. The enhanced costs are normally equal to 80% of the relevant party’s solicitor-client costs.
+[47] However, the Appellant is asking for 100% of solicitor-client costs on the basis that the Respondent did not engage in meaningful settlement discussions between May 2017 and late August 2020.
+[48] The Appellant argues that, for the same reason, he is entitled to 75% of his solicitor-client costs incurred between the date of the filing of the Notice of Appeal and March 14, 2017.
+[49] In total, the Appellant is asking for costs of $260,413.27.
+[50] The Respondent argues that subsection 147(3.1) of the Rules does not apply as the Court did not render a judgment as favourable as or more favourable than the March 14, 2017 Settlement Offer. It is the Respondent’s position that subsection 147(3.1) should only apply when the Court issues a judgment after a hearing. It should not apply where the parties settle the matter without a trial or judicial intervention.
+[51] She argues that the costs should be determined under section 149, using the factors set out in subsection 147(3).
+[52] On the basis of the factors, the Respondent believes a just and appropriate cost award would be $10,000 plus tariff costs and disbursements.
+IV. Disposition of Motion
+[53] The Court clearly has the jurisdiction to determine costs in any appeal before the Court in respect of which it issues a judgment. In the situation where the parties file a consent to judgment, the Court issues a judgment. Although it is based upon the parties’ consent to judgment, it is still a judgment of the Court. Before issuing the judgment the Court must be satisfied that it is a judgment the Court can issue, meaning that it is a judgment that is within the jurisdiction of the Court and is one that the Court can legally grant.
+[54] Section 147(3.1) applies where the Appellant makes an offer of settlement and obtains a judgment as favourable as or more favourable than the terms of the offer of settlement.
+[55] In the current appeal, the Appellant made the March 14, 2017 Settlement Offer. On October 14, 2020, Justice Pizzitelli issued a judgment of the Court based upon the consent judgment signed by the parties. Further, Justice Pizzitelli’s judgment is more favourable than the terms of the March 14, 2017 Settlement Offer. Therefore subsection 147(3.1) could apply to the appeal. However, on the basis of the particular circumstances of the case before me, I have decided that this is an appropriate appeal for the Court to exercise its discretion to not award the enhanced costs provided for in the subsection.
+[56] At the commencement of the hearing, I brought to counsel for the Appellant’s attention the failure of the Appellant to comply with the May 8, 2017 Order of the Court, specifically, the fact that the Appellant did not satisfy all of his undertakings until nearly three years after the date specified in the Court’s May 8, 2017 Order. Counsel responded that the Appellant had an ongoing obligation to update the undertakings, “and so that’s what we did”.
+[57] I then cautioned counsel to be very careful with her response. As an officer of the Court, she has a duty to both her client and to the Court. The duty to the Court is paramount. Part of her duty to the Court is to ensure that the Court is not misled.
+[58] I informed her that I had read the written discovery questions, the undertakings given, and the responses to the undertakings (all of which the Appellant provided in his motion record). It is clear from reading these documents that the August 19, 2020 correspondence from the Appellant was not updating previous responses to undertakings, but rather was, for the first time, satisfying eight of the undertakings given on March 31, 2017.
+[59] In his September 29, 2017 communication, the Appellant, instead of satisfying the outstanding undertakings, stated, for eight of the outstanding undertakings, that he would use best efforts to provide an answer to either all of or a part of the question as soon as possible. The Appellant did not provide these answers until August 19, 2020.
+[60] I also brought to counsel’s attention that her written submissions on this motion acknowledge that the Appellant did not satisfy the undertakings. For example, at paragraph 58 of her written submissions, counsel for the Appellant states the following: “As of September 30, 2017, several undertakings remained outstanding, the satisfaction of which would be costly.”
+[61] Counsel then changed her answer and stated that it was the Appellant’s position that there should not have been a need to satisfy the undertakings after March 31, 2017.
+[62] As I informed counsel for the Appellant, the Court had ordered the Appellant, on May 8, 2017, to satisfy the undertakings by September 29, 2017. It is not for a party before this Court to choose which order of the Court it should follow.
+[63] Parties must follow all orders of the Court. If a party does not follow an order of the Court then it must face the consequences. Normally, in a situation such as the one before the Court, the consequence is the awarding of costs. However, the Court has issued a judgment awarding costs to the Appellant. There was nothing on the Court record at the time of the filing of the consent to judgment to show that the Appellant had breached the Court’s May 8, 2017 Order.
+[64] However, the Court is now aware of this fact. This fact alone leads me to conclude that, because of the Appellant’s conduct, he is not entitled to the enhanced costs provided for under subsection 147(3.1). A party who fails to comply with an order of the Court should not be rewarded by enhanced costs. The Appellant is fortunate to receive any costs at all.
+[65] Although the conduct of the Appellant is determinative of the application of subsection 147(3.1), it is important to note that, in my view, subsection 147(3.1) is not intended to apply in the situation where the parties, not the Court, resolve the dispute.
+[66] The primary purpose of subsection 147(3.1) is to encourage the parties to engage in settlement discussions to determine if they can avoid the cost of a trial. While the subsection may technically apply when the judgment is based upon a consent to judgment, in my view it is only intended to apply where the Court hears the appeal and determines the outcome. It is not intended to apply where the parties have avoided the cost of a hearing by reaching a settlement.
+[67] Having concluded that, as a result of the conduct of the Appellant, subsection 147(3.1) does not apply in the current appeal, I must now determine the specific amount of costs the Appellant is entitled to receive. In doing so, I have considered a number of the factors contained in subsection 147(3).
+[68] The most important factor is the conduct of the Appellant. Not only did he breach an order of the Court, but he also impeded the timely settlement of the appeal by delaying, for nearly three years, his satisfaction of all of the undertakings.
+[69] A proper pre-trial discovery is essential for the efficient operation of the Court. It allows for an efficient trial and avoids “litigation by ambush”. Equally important, a proper discovery frequently leads to the parties settling the appeal in question, once both parties know the facts. The parties require the facts in order to reach an informed settlement.
+[70] The Appellant’s failure to satisfy his undertakings in September 2017 resulted in the Respondent not knowing all of the facts until late August 2020.
+[71] The information provided by the Appellant on August 19, 2020, included detailed breakdowns of the expenses incurred by the Appellant with respect to four expense categories for the 2008 and 2009 taxation years. It also contained PDF documents which were copies of “invoices, receipts, bank/credit card statements” to support the amounts deducted by the Appellant.
+[72] In an appeal such as the current one, where the determination of the issue before the Court is a question of fact, the sharing of factual information, such as that provided by the Appellant on August 19, 2020, is a critical step when the parties are trying to reach a settlement. I am left to conclude that the Appellant’s failure to provide such information for nearly three years impeded the ability of the parties to reach a settlement. Counsel for the Respondent stated, during the hearing of this motion, that it was after the Respondent reviewed the information that the Appellant provided on August 19, 2020 (i.e. after the Respondent knew all the facts) that the Respondent was prepared, for the first time, to settle the matter by allowing the appeal in full.
+[73] A second relevant factor is the complexity of the issue. The appeal involved an issue that is frequently before the Court and is not a complex issue: a factual determination of whether the Appellant incurred certain expenses and, if he did, whether such expenses were deductible in computing his income from a business.
+[74] Other relevant factors are the amount at issue and the importance of the issue. The federal tax at issue in the appeal was $64,135. The Appellant is asking for costs of $260,413.27, approximately four times the amount at issue. It is difficult to think of a situation where the Court would allow costs on a relatively straightforward matter that does not contain any important issues equal to four times the amount at issue.
+[75] After considering these factors, I have decided to award costs as provided for in the Tariff. Counsel for the Appellant provided the Appellant’s bill of costs as Exhibit B31 of his motion record. Page 6 of the bill of costs sets out the amounts the Appellant is claiming under the Tariff for counsel services. It states that the Appellant is entitled to $4,096.25 (inclusive of HST) for services of counsel. On page 5 of the bill of costs, the Appellant claims disbursements of $16,670.65.
+[76] The Respondent accepts that the Appellant has correctly calculated the costs provided for under the Tariff for services of counsel. However, she does not accept counsel’s calculation of disbursements. Specifically, she does not accept the $9,465.26 disbursement incurred on September 1, 2020 to copy the Appellant’s 2020 Revised Book of Documents and the $4,784.82 disbursement incurred on November 16, 2020 to redact and copy the parties’ 2016 Book of Documents.
+[77] Counsel for the Respondent noted that the Respondent’s concern is with respect to charges for after-hours services. The Appellant’s counsel was charged a fee of $3,152.10 ($3,561.87 with HST) for after-hours rush service for the September 1, 2020 copying and $2,394.00 ($2,705.22 with HST) for after-hours rush service for the November 16, 2020 service. In other words, if the documents had been copied in normal business hours the Appellant’s counsel would have been invoiced $5,903.39 and $2,079.60 for the September 1, 2020 and November 16, 2020 services, respectively.
+[78] It is the Respondent’s position that the Appellant had sufficient time to prepare these books of documents and there was no reason to incur such a substantial charge for after-hours service. Counsel for the Appellant argued that she was waiting to see if the matter settled before having the books copied.
+[79] The amounts charged for the after-hours service are substantial. They represent 37% of the September 1, 2020 bill and 56% of the November 16, 2020 bill. I agree with counsel for the Respondent: the Appellant should have had the books copied on a timely basis. The Respondent should not have to pay for charges incurred because of the inaction of the Appellant’s counsel.
+[80] For the foregoing reasons, the Appellant’s motion for enhanced costs is denied. The Appellant is awarded costs of $4,096.25 plus disbursements of $10,403.56. The amount will be reduced by the Respondent’s cost of this motion, which is fixed at $2,500, the amount requested by the Respondent.
+Signed at Ottawa, Canada, this 26th day of November 2021.
+“S. D’Arcy”
+D’Arcy J.
+CITATION:
+2021 TCC 87
+COURT FILE NO.:
+2015-2187(IT)G
+STYLE OF CAUSE:
+JEFFREY HULL v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 28, 2021
+REASONS FOR ORDER BY:
+The Honourable Justice Steven K. D’Arcy
+DATE OF ORDER:
+November 26, 2021
+APPEARANCES:
+Counsel for the Appellant:
+A. Christina Tari
+Counsel for the Respondent:
+Christian Cheong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+A. Christina Tari
+Firm:
+Tari Law
+Toronto, Ontario
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada

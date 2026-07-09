@@ -1,0 +1,232 @@
+Title: Melançon v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/309484/index.do
+Corpus path: corpus/cases/tcc/2018/2018-tcc-73-309484-melan-on-v-the-queen-en.md
+Document type: case_law
+Last modified: 2018-04-19
+
+# Melançon v. The Queen
+
+- Citation: 2018 TCC 73
+- Decision date: 2018-04-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4822, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Melançon v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-04-19
+Neutral citation
+2018 TCC 73
+File numbers
+2015-2479(IT)G
+Judges and Taxing Officers
+Guy R. Smith
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-2479(IT)G
+BETWEEN:
+GABRIEL MELANÇON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on November 16, 2017, at Quebec City, Quebec.
+Before: The Honourable Justice Guy R. Smith
+Appearances:
+Counsel for the appellant:
+The appellant himself
+Counsel for the respondent:
+Marie-Claude Landry
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2007, 2008, 2009, and 2010 taxation years is dismissed, with costs in favour of the respondent in the amount of $1,800.
+Signed at Ottawa, Canada, this 19th day of April 2018.
+“Guy Smith”
+Smith J.
+Translation certified true
+on this 6th day of February 2019.
+Janine Anderson, Revisor
+Citation: 2018 TCC 73
+Date: 20180419
+Docket: 2015-2479(IT)G
+BETWEEN:
+GABRIEL MELANÇON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Smith J.
+I. INTRODUCTION
+[1] Gabriel Melançon, the appellant in this case, is appealing the notices of reassessment made by the Minister of National Revenue (the “Minister”) on March 9, 2015, under the Income Tax Act, R.S.C. 1985, c. 1 (5th Supp.), as amended (the “Act”), in respect of the 2007, 2008, 2009, and 2010 taxation years.
+[2] The Minister added amounts as shareholder benefits under subsection 15(1) of the Act and as unreported rental income to the appellant’s income. For the 2009 taxation year, the Minister applied the penalty set out in subsection 163(2) of the Act. The reassessments for the 2007 and 2008 taxation years were made beyond the normal assessment period pursuant to subparagraph 152(4)(a)(i) of the Act.
+[3] It is relevant to note that the Minister had previously made reassessments on March 25, 2013, and, following the appellant’s objection, reassessments were made on March 9, 2015, specifying the following amounts:
+[BLANK]
+2007
+2008
+2009
+2010
+Benefit:
+personal residence
+$32,876
+[BLANK]
+[BLANK]
+[BLANK]
+Benefit:
+subcontracting expenses
+$13,519
+$5,355
+[BLANK]
+[BLANK]
+Benefit: landscaping
+and pool
+[BLANK]
+[BLANK]
+$40,629
+[BLANK]
+Benefit:
+improvements to basement
+[BLANK]
+[BLANK]
+[BLANK]
+$28,500
+Unreported
+rental income
+[BLANK]
+$4,000
+$4,000
+$4,000
+Penalty – under
+subsection 163(2)
+[BLANK]
+[BLANK]
+$4,151
+[BLANK]
+[4] For the purposes of this appeal, the appellant is not challenging the unreported rental income or the shareholder benefit of $40,629 for the 2009 taxation year. At the start of the hearing, the appellant stated that he was no longer challenging the penalty for this amount.
+[5] Consequently, only the following amounts, which were included in the appellant’s income as shareholder benefits, are in dispute:
+1. The amount of $32,876 related to the construction of the appellant’s personal residence for the 2007 taxation year;
+2. The amount of $28,500 related to leasehold improvements to the basement of said residence for the 2010 taxation year;
+3. The amounts of $13,519 and $5,355, which were identified as subcontracting expenses, for the 2007 and 2008 taxation years.
+[6] In addition to reviewing these issues, the Court must determine whether the Minister was right to assess the appellant beyond the normal assessment period, in accordance with subparagraph 152(4)(a)(i).
+[7] At the hearing, the appellant represented himself and testified on his own behalf. Mathieu Lebel, who audited the appellant’s file, testified for the respondent.
+II. SUMMARY OF FACTS
+[8] The appellant has a CPA-CMA designation. Since his entry into the workforce in 1995, he has held several positions in the construction industry, including as a controller and a project manager.
+[9] He is the sole shareholder of Gexco inc. (“Gexco”), a construction company. Since January 1, 2010, Gexco’s sole shareholder was the management company 9215-3626 Québec inc., of which the appellant is the sole shareholder.
+[10] The appellant is also a 50% shareholder in 9180-7537 Québec inc. (“9180”), a real estate development company.
+The appellant’s personal residence
+[11] Between November 2006 and August 2007, the appellant had his personal residence built. It is located at 2325 Philippe Brodeur Street in Quebec City (the “residence”). The vacant lot had been purchased by his mother around late 2005.
+[12] For the purposes of building the residence, the appellant dealt with building materials suppliers, rental service companies and subcontractors through Gexco given that Gexco had open accounts with many stakeholders in the construction industry. The cost of contracts was first billed to Gexco and was then rebilled to the appellant personally.
+[13] Gexco paid a total of $400,624, before taxes, for expenses related to the building of his residence, including $93,111 in salary paid to the corporation’s employees, less the value of the improvements to the basement of the residence, which were evaluated at $44,000.
+[14] According to the auditor, several reasons indicate that the appellant received a shareholder benefit related to the construction of his personal residence.
+[15] First, he finds that Gexco’s “sales” invoices, which were issued to the appellant, are not a simple rebilling of the expenses incurred by the corporation.
+[16] More than nine Gexco employees worked on the construction of the residence. According to the auditor, Gexco was therefore very involved and the resources used for the construction project could not at the same time be used to complete other projects.
+[17] In Gexco’s books, the amounts received from the appellant were entered as [TRANSLATION] “income from contracts” but did not generate any profit margin. The appellant acknowledges that Gexco did not invoice any management fees. According to the auditor, Gexco’s profit margin related to all of its other construction projects in 2007 was at least 8.09%. Thus, he attributed this rate to the cost of the residence for an amount equivalent to $32,876.
+[18] The auditor also noted that Gexco’s Web site lists the residence in question as being one of the corporation’s achievements.
+Subcontracting expenses
+[19] During the 2007 and 2008 taxation years, 9180 issued cheques to the appellant totalling $13,518 and $5,355, respectively. For several reasons, the auditor finds that those amounts are shareholder benefits and not subcontracting expenses.
+[20] In that regard, it is important to note that for the 2008 and 2009 taxation years, 9180 was arbitrarily assessed on September 30, 2010. Following that assessment, 9180 filed amended returns on February 17, 2011, attaching its financial statements and accounting records for the years in question. Upon reading the accounting records, the auditor noted that the amounts corresponding to the cheques in question were debited as [TRANSLATION] “subcontracting” expenses and the corresponding credit amount was attributed to a supplier account entitled [TRANSLATION] “petty cash – Gabriel Melançon”. He also noted that those amounts were not found in the [TRANSLATION] “shareholder advance” or [TRANSLATION] “owing to shareholder” accounts.
+[21] However, on August 10, 2011, the corporation sent the auditor a revised table of the shareholder advances. The amounts that corresponded to the cheques had been amended and added as an [TRANSLATION] “advance to the shareholder”.
+[22] The appellant then claimed that there was an error and tried to show that the cheques had instead been issued as the reimbursement of advances that he had made to 9180.
+[23] The auditor then informed the appellant that he could not accept those amendments because they were retroactive corrections and the initial financial statements had already been filed.
+Leasehold improvements
+[24] During the taxation years 2007 to 2010, five Gexco employees, including the appellant, occupied the basement of the appellant’s residence for business purposes. At the time that the residence was being built, improvements were made to the basement by Gexco for the business needs of the company. The cost of those improvements was at least $44,000.
+[25] On April 2, 2010, Gexco left the premises and relocated elsewhere. After the departure of Gexco, work was done to the basement of the residence for the appellant’s personal purposes. The cost of the leasehold improvements was not reimbursed to Gexco. Therefore, the appellant benefited from a basement that was finished and available for his personal occupation.
+[26] During his testimony, the appellant explained the accounting treatment that was applied to the leasehold improvements by Gexco. Since they were a depreciable asset, they were amortized over the years of the operation, that is, from 2007 to 2010. Then, after the departure of Gexco, the remaining non‑amortized portion became an expense, considering that it was no longer being used by the company.
+[27] During the audit, the services of a real estate appraiser were retained to appraise the value of the improvements to the basement. The appraiser found that the fair market value of the improvements was at least $28,500, including taxes.
+III. APPLICABLE LAW AND ANALYSIS
+A. Shareholder benefit under subsection 15(1) of the Act
+[28] The aim of subsection 15(1) of the Act is to tax the value of benefits received by a shareholder of a corporation when that benefit was not included in the shareholder’s income. In Post v. The Queen, 2016 TCC 92, para 30, V. Miller J. stated that “[o]ne of the purposes of section 15 of the ITA is to prevent corporations from using an indirect means of conferring an untaxed economic benefit on its shareholders”.
+[29] This provision reads as follows:
+15(1) Benefit conferred on shareholder – If, at any time, a benefit is conferred by a corporation on a shareholder of the corporation, on a member of a partnership that is a shareholder of the corporation or on a contemplated shareholder of the corporation, then the amount or value of the benefit is to be included in computing the income of the shareholder, member or contemplated shareholder, as the case may be, for its taxation year that includes the time, except to the extent that the amount or value of the benefit is deemed by section 84 to be a dividend or that the benefit is conferred on the shareholder . . . .
+[Emphasis added.]
+i. Construction of the appellant’s personal residence
+[30] The appellant claims that he built his residence as part of a personal self‑build project, and that consequently, Gexco only acted as an intermediary with the suppliers for completion of the work. Therefore, he submits that he did not receive any shareholder benefit from Gexco.
+[31] The appellant argues that Gexco has a building licence from the Régie du Bâtiment du Québec and that he is indicated as being the “guarantor”. The appellant argues that the Minister cannot claim to attribute any taxable benefits to him because he is himself a project management specialist in the construction industry. In fact, he claims that without him, as a “guarantor”, Gexco could not perform any work. Consequently, it cannot have conferred a benefit on him because he is the one who confers legitimacy on Gexco as a general contractor, in the construction market.
+[32] The appellant also argues that the use of Gexco’s workers in the construction of his residence is not relevant in determining whether he received a benefit.
+[33] It should first be noted that the appellant’s experience and skills, which are not in dispute, must be distinguished from what constitutes a benefit within the meaning of the Act.
+[34] The appellant admits that the residence was built for personal purposes, but that Gexco was involved for purely practical reasons.
+[35] However, as it was expressly shown in Gexco’s books, the accounting treatment applied to the construction of his residence was considered [TRANSLATION] “income from contracts” and no management fees were calculated and no profit was recorded.
+[36] In addition, it was shown that Gexco’s profit margin in relation to all of its other construction projects was at least 8.09%.
+[37] Shareholder benefits were at issue in Park Haven Designs Inc. v. The Queen, 2006 TCC 685, a case in which the shareholder benefited from a residence built by a corporation of which he was the main shareholder. C. Miller J. stated the following:
+[29] I have no difficulty in deciding that Mr. Jaques received a benefit from Park Haven. How could that not be so? He received a custom built home without having to pay the 10% management fee that any other customer would have had to pay. The benefit is easily determined. It is the 10% management fee, being 10% of construction costs of $259,293 or, $25,929. This is clearly an advantage not available to regular customers and only available to Mr. Jaques due to his position as a shareholder.
+[Emphasis added.]
+[38] I agree with this analysis. Thus, I find that the appellant received a benefit as a Gexco shareholder and the assessment of this benefit at 8.09% on the total cost of the residence is justified.
+ii. Leasehold improvements
+[39] The appellant also claims that he did not receive a shareholder benefit from Gexco regarding the leasehold improvements made to the basement of his residence because they were done for Gexco’s business purposes.
+[40] The appellant argues that those improvements were made solely for the benefit of Gexco as a commercial tenant of the premises. Moreover, he stated that the cost related to those improvements was amortized during Gexco’s occupancy and consequently had zero value at the time when the corporation left the premises.
+[41] The appellant states that he did not receive a shareholder benefit because he applied an appropriate accounting and tax treatment when Gexco left the offices. However, even if I accept that the treatment was appropriate with respect to the corporation, this did not necessarily have the effect of cancelling out the shareholder benefit.
+[42] The evidence shows no reimbursement or assignment for the fair market value of the improvements or, at the very least, for the depreciated or non‑amortized value.
+[43] Those improvements remained in the appellant’s residence. Thus, having not disbursed or reimbursed anything, the appellant benefited from a fully finished basement with a value of $28,500 (according to the Minister’s assessment) without accounting for the potential increase in the residence’s value with a finished basement.
+[44] Although the appellant tried to challenge the Minister’s assessment, he did not submit any contrary evidence calling into question the assessment of $28,500. In addition, despite his remarks, he did not submit any invoices for the renovations that were completed following Gexco’s departure.
+[45] Therefore, I find that the appellant received a benefit in his capacity as a shareholder of Gexco of a clearly identifiable and quantifiable value of $28,500.
+iii. Subcontracting expenses
+[46] The Minister claims that the appellant received a benefit by being a shareholder of 9180, connected to appropriations of funds, identified in the corporation’s books as being subcontracting expenses.
+[47] The appellant claims that the Minister unfairly and unilaterally decided that those amounts represented subcontracting expenses disallowed to 9180 and that it was a shareholder benefit. In that regard, he argues that those were instead reimbursements of advances that he had previously made to 9180. He also argues that the financial statements contained errors and that he made corrections to them in good faith.
+[48] On that point, the sequence of events is important. It must be remembered that 9180 was arbitrarily assessed on September 30, 2010, for the 2007 and 2008 taxation years. Afterwards, on February 17, 2011, an amended return was filed by the appellant together with the corporation’s financial statements and accounting records.
+[49] Following that, on August 10, 2011, corrections were made on the pretext that the initial financial statements contained errors. However, the auditor did not consider those retroactive corrections and refused to accept them.
+[50] It is well established that with respect to returns, a person cannot change their affairs after the fact to establish a less prejudicial position. In Bibby v. The Queen, 2009 TCC 588, Bowie J. stated the following:
+[14] The appellant also relied on several other cases dealing with the deductibility by employers of remuneration which was accrued but not paid, generally for reasons relating to the employer’s ability to pay. None of them, however, support the appellant’s proposition that adjustments to the expenses of a previous fiscal period, and concomitant changes to the income of the employee for a previous year, may be made on a retroactive basis as Rabco and Mr. Bibby sought to do in this case. It is, of course, permissible to enter into a second transaction of the kind dealt with by the Board in Brazelot, so long as it is accounted for in the fiscal period when it takes place. What is not permissible is retroactive implementation of tax planning by purporting to undo, or change, transactions that took place in an earlier period.
+[Emphasis added.]
+[51] In this case, it is at the time that the appellant filed the amended returns for the 2007 and 2008 taxation years that he had to indicate that the disbursed amounts were advances to the shareholder. That is not what happened.
+[52] When the amended returns were filed on February 17, 2011, the financial statements supporting those returns instead showed that the amount were subcontracting expenses. It was only after being questioned by the auditor about those expenses that the appellant made corrections to the initial financial statements.
+[53] In light of the foregoing, I find that the appellant received a shareholder benefit from 9180 in connection with the cheques, initially indicated as being subcontracting expenses, that were issued to him personally.
+B. Assessment beyond the normal assessment period
+[54] The final issue concerns the Minister’s right to make the notices of reassessment after the normal assessment period for the 2007 and 2008 taxation years, in accordance with subparagraph 152(4)(a)(i) of the Act.
+[55] This provision specifies that the Minister can make a reassessment and assess interest and penalties beyond the normal assessment period in a situation where the taxpayer “has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return . . . ”. It is established that the burden in this area is on the Minister.
+[56] The misrepresentation must occur at the time that the return is filed and not at any other time: Vine Estate v. Canada, 2015 FCA 125, paras 33–34 and Nesbitt v. Canada, 96 DTC 6588 (FCA). In College Park Motors Ltd. v. Canada, 2009 TCC 409, Bowie J. explained the following:
+[20] At the risk of redundancy, I wish to reemphasize that the purpose of subparagraph 152(4)(a)(i) is not penal but remedial. It balances the need for taxpayers to have some finality in respect of their taxes for the year with the requirement of a self-reporting system that the taxing authority not be foreclosed from reassessing in those instances where a taxpayer’s conduct, whether through lack of care or attention at one end of the scale, or willful fraud at the other end, has resulted in an assessment more favourable to the taxpayer than it should have been. . . .
+[57] The appellant claims that there is no evidence of misrepresentation and no evidence of neglect, carelessness or wilful default on his part and that he did not commit fraud in filing his return of income for the 2007 and 2008 taxation years or in providing any information related thereto. He argues that he always acted in good faith and that the Minister was statute-barred from reassessing him.
+[58] Before dealing with this issue, it is important to consider the context and assess the appellant’s credibility. I note that he was assessed for a benefit of $40,629 for the 2009 taxation year in relation to personal expenses, those being landscaping work and the construction of a pool at his residence. That amount, however, was recorded as a material and subcontracting expense of Gexco.
+[59] It was only after numerous requests from the auditor that the appellant finally remitted an invoice justifying the amounts in question. However, after the investigation, the auditor found that the services had not been rendered at the address indicated and that the subcontractor did not exist. When confronted with these facts, the appellant had to admit that it was a false invoice. That is no doubt why he decided, but only during the hearing, not to challenge the penalty for gross negligence within the meaning of subsection 163(2).
+[60] It is clear that the preparation of a false invoice was intentional and deliberate. Contrary to the appellant’s claims, it is inconceivable that he genuinely believed that he acted in good faith and in the interests of Gexco on the pretext of protecting a bad debt. In my view, the Minister was right to impose the penalty for gross negligence. These facts are not directly linked to the statute bar issue, but they undermine the appellant’s credibility.
+[61] I find that the appellant made a misrepresentation by not reporting a benefit related to the construction of his residence and that that misrepresentation was attributable to “neglect, carelessness or wilful default” within the meaning of subparagraph 152(4)(a)(i). This finding seems rather clear to me since the fair market value of the residence necessarily had to reflect not only the labour and materials costs that he reimbursed to Gexco, but also the value of the necessary administration fees, a value that would be, in a potential sale, tax exempt by reason of the principal residence exemption. Given the appellant’s knowledge, this was without a doubt very apparent to him. I have no doubt that the action was calculated and deliberate.
+[62] In addition, the appellant tried to enter in evidence a table that indicated names of workers, the hours worked and their adjusted hourly rate. In my view, this table was not prepared contemporaneous with the work, but rather for the purposes of the hearing. I do not give it any weight.
+[63] What remains are the amounts paid directly to the appellant in 2007 and 2008, but recorded as subcontracting expenses in 9180’s books. Despite the documents that were provided to the Court during the hearing, I do not accept the appellant’s claim that he simply made a mistake and that it was in fact a reimbursement of an advance from the shareholder. In view of my finding on the appellant’s credibility, I am instead of the view that this was once again a cover‑up on his part.
+[64] In both cases, the Court must consider that the appellant is a businessman in the construction industry and that he performs the duties of a manager. He has an accounting designation. He is not unfamiliar with accounting and its results.
+[65] I therefore find that the appellant made a misrepresentation in his returns for 2007 and 2008 that was attributable to “neglect, carelessness or wilful default” within the meaning of subparagraph 152(4)(a)(i). Consequently, the Minister was justified in making the reassessments in respect of the 2007 and 2008 taxation years beyond the normal assessment period for those two years.
+IV. CONCLUSION
+[66] Having found that the Minister was right to have made the reassessments for 2007 and 2008, the appellant had the burden of satisfying the Court that the assumptions of fact made by the Minister were erroneous. In particular, he had to satisfy the Court that he did not receive any shareholder benefits from either Gexco or 9180 for the 2007, 2008 and 2010 taxation years. In my view, he did not succeed.
+[67] For these reasons, the appeal is dismissed with costs in favour of the respondent in the amount of $1,800 in accordance with Tariff B of the Tax Court of Canada Rules (General Procedure).
+Signed at Ottawa, Canada, this 19th day of April 2018.
+“Guy Smith”
+Smith J.
+Translation certified true
+on this 6th day of February 2019.
+Janine Anderson, Revisor
+CITATION:
+2018 TCC 73
+COURT FILE NO.:
+2015-2479(IT)G
+STYLE OF CAUSE:
+GABRIEL MELANÇON v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Quebec City, Quebec
+DATE OF HEARING:
+November 16, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Guy R. Smith
+DATE OF JUDGMENT:
+April 19, 2018
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Marie-Claude Landry
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

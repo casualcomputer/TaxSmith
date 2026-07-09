@@ -1,0 +1,557 @@
+---
+title: "Daoust v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28652/index.do"
+last_modified: "2008-06-09"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 TCC 316"
+citation2: ""
+neutral_citation: "2008 TCC 316"
+decision_date: "2008-06-09"
+language: "en"
+item_id: "28652"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1116
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:07:43.415000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "3dc8b4a776fcd5f893e46a004fe4e77eab6c5ab4afc267430931f946b932f4f0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Daoust v. The Queen
+
+- Citation: 2008 TCC 316
+- Decision date: 2008-06-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1116, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Daoust v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-06-09
+Neutral citation
+2008 TCC 316
+File numbers
+2007-706(IT)I
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-706(IT)I
+BETWEEN:
+RÉAL DAOUST,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Nedjma Zidane (2007-705(IT)I), on July 18, 2007, at Montréal, Quebec
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Susan Shaughnessy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2005 taxation year is allowed, without costs, in accordance with the attached Reasons for Judgment, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that $29,847 of the amount of $54,565 that the Minister considered to be a capital expenditure is actually current in nature.
+Signed at Ottawa, Canada, this 9th day of June 2008.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 25th day of July 2008.
+Brian McCordick, Translator
+Docket: 2007-705(IT)I
+BETWEEN:
+NEDJMA ZIDANE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of Réal Daoust
+(2007-706(IT)I), on July 18, 2007, at Montréal, Quebec
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Susan Shaughnessy
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2005 taxation year is allowed, without costs, in accordance with the attached Reasons for Judgment, and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that $29,847 of the amount of $54,565 that the Minister considered to be a capital expenditure is actually current in nature.
+Signed at Ottawa, Canada, this 9th day of June 2008.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 25th day of July 2008.
+Brian McCordick, Translator
+Citation: 2008TCC316
+Date: 20080609
+Dockets: 2007-706(IT)I
+2007-705(IT)I
+BETWEEN:
+RÉAL DAOUST,
+NEDJMA ZIDANE,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+Issue
+[1] These appeals, both of which pertain to the 2005 taxation year, were heard on common evidence.
+[2] The Appellants purchased a building in July 2004, and had work done on it in 2005 and 2006. The issue is the nature of that work. Were the expenditures current expenditures, which are deductible in the year that they were made, or were they capital expenditures, which are deductible by means of the capital cost allowance mechanism contemplated in paragraph 20(1)(a) of the Income Tax Act and Part II of the Income Tax Regulations?
+Facts
+[3] In the paragraph below, I will set out the Respondent's assumptions of fact. I will add, in parentheses and in italics, the Appellants' position with respect to each of those assumptions. In Mr. Daoust's case, I am referring to his Reply to the Notice of Appeal.
+[4] In making his decision, the Minister relied on the following facts:
+(a) The Appellant and his spouse Ms. Nedjma Zidane are co-owners of, inter alia, the building located at civic addresses 568 through 572 Théodore Street in the city of Montréal. (admitted)
+(b) The property in issue is a century-old triplex built in 1900. (admitted)
+(c) In respect of the taxation year in issue, the Appellant claimed his 50% share of the rental loss from the operation of the building bearing the addresses 568, 570 and 572 Théodore Street in Montréal. (admitted)
+(d) On July 22, 2004, the Appellant and Nedjma Zidane purchased the building for $292,000. (admitted)
+(e) The building was in good condition, and the Appellant and his spouse paid the market price for it. (admitted)
+(f) The municipal evaluation of the property at the time of purchase was $164,900. (admitted)
+(g) For the 2005 taxation year, the $56,956 "maintenance and repair" expense claim in respect of the property was broken down in the following manner following an audit:
+(i) computation error
+$541
+(ii) capital expenditures
+$54,565
+(iii) disallowed expenditures
+$233
+(iv) allowed expenditures
+$1,617
+$56,956
+(The Appellant Daoust is not admitting that $54,565 in expenses in point (ii) constitutes capital expenditures, but he is admitting the rest, including the amount of $54,565.)
+(h) An amount of $54,565, claimed as maintenance and repair expense for the property at 568, 570 and 572 Théodore Street in Montréal ("the Montréal property") for the 2005 taxation year, was for the following work:
+(i) check the foundations and make the floor level on the ground floor,
+(ii) consolidate the foundations,
+(iii) repair the brick cladding on two outer walls,
+(iv) raise the balcony railings,
+(v) roof membrane redone,
+(vi) replace the electrical panels with circuit-breaker panels,
+(vii) install fire alarms,
+(viii) redo the ventilation in the bathroom and kitchen, and
+(ix) wiring and plumbing of ground floor redone.
+(The Appellant admits to this paragraph but adds the following particulars: The work was done over a two-year period (2005 and 2006), the work referred to in points (i) and (ii) was done in 2005, the work in point (iii) commenced in 2005, and all the rest was done in 2006.[1])
+(i) The supporting documents in relation to the $54,565 claimed as maintenance and repair expenses in respect of the Montréal property for the 2005 taxation year were examined, and a list was prepared (see attachment). (admitted)
+(j) The said $54,565 is part of a major renovation program, sponsored by the Ville de Montréal and the Société d'habitation du Québec. The program contemplated a total cost of $159,689 for work to be done over a roughly 10‑week period on the Montréal property. (The Appellant admits to the paragraph but adds that the work was done in late 2005 and early 2006.)
+(k) One objective contemplated by the program is to restore all components of the building in order to prevent the need for any work, other than normal maintenance, for a period of 15 years. (denied)
+(l) The program provides subsidies, but no subsidy was paid to the Appellant and his spouse during the 2005 taxation year. (Admitted, though the Appellant adds that he and his spouse, the Appellant Ms. Zidane, received the subsidy in 2006.)
+(m) An amount of $54,565, claimed as maintenance and repair expenses in respect of the Montréal property for the 2005 taxation year, was disallowed for the following reasons:
+(i) the work provided an enduring benefit to the building,
+(ii) the renovation cost is very high in relation to the building's value,
+(iii) revitalization of a century-old building,
+added rental value,
+subsidy granted on the condition, inter alia, that the Ville de Montréal [the municipal government] approve the leases, and
+none of these facts result from work done as part of normal property maintenance (denied)
+(n) The capital cost allowance table for the Montréal property was revised in order to include capital expenditures of $54,565 before adjustments, and deduct such amount, on account of capital cost allowance, as was necessary to cancel any income from the said property for the taxation year in issue. (denied)
+[5] There is no real disagreement on the facts. The crux of the debate is the nature of the expenditures in question.
+[6] The Appellants purchased the building, a residential triplex, in 2004 with the intention of leasing the units. The triplex was built in 1900.[2] According to Mr. Daoust, the building was in good condition.[3]
+[7] In the second year, the Appellants decided to repair the brick cladding and asked for quotes. For better workmanship, it was recommended that new bricks be used.
+[8] The Appellants decided to apply for a subsidy from a major renovation program sponsored by the Ville de Montréal and the Société d'habitation du Québec. In order to be eligible for the program, one must meet certain criteria and spend at least $15,000 per dwelling. In this instance, the brick repairs opened the door to the subsidy.
+[9] Eligibility for the program was subject to other conditions as well. Mr. Daoust explained that the entire building had to be restored in accordance with applicable regulations. Consequently, a whole series of repairs had to be done.
+[10] The work was described in Exhibit A‑4, a quote, reproduced below:
+1. EXTERIOR WALLS 15,700 bricks x $0.55
+1.1 Replace the brick cladding on the alley side 2,100 ft.2 $10.00/ft.2
+wall and back walls as indicated in the plans
+Note: retain the horizontal alignment of the
+openings
+1.2 Replace apron walls and rebuild lintels 6 $75.00
+Note: rebuild lintels, 11 inches high, with 6 $40.00
+bricks in soldier course and overhanging by
+½ inch
+Note: the apron walls will be stone or concrete,
+with a water discharge 2 ½ inches high, and
+will extend past the opening by 4 inches
+1.3 Note: submit a sample of the brick type for
+prior approval
+1.4 Repair the brick cladding (damaged bricks, 100 ft.2 $20.00/ft.2
+hollowed joints) as indicated in the plans
+Subtotal $32,175.00
+DOORS AND WINDOWS
+2.1 Ventilate the cellar using doubled 2 $100.00
+gooseneck, 4 inches in diameter, with grills
+and removable protective covers
+2.2 Redo the sealing joint around the doors 26 $60.00
+and windows
+Subtotal $1,760.00
+OVERHANGS
+3.1 Rebuild the balcony floors in plywood 2 $815.00
+covered with fiberglass
+3.2 Raise the balcony railings to 42 inches 44 LF $20.00/LF
+Subtotal $2,510.00
+4. ROOF
+4.1 Lay new membrane (4-ply felt, asphalt 1,400 ft.2
+and gravel) and all flashing
+4.2 Ventilate the roof space using gooseneck
+at 1 square foot every 300 square feet
+4.3 Note: a copy of the warranty for the new roof
+(10 years) must be submitted to the Division
+de soutien aux projets de logement social et
+abordable before the file is closed
+Subtotal $8,000.00
+5. CLEARING AND DEMOLITION
+5.1 Clear the cladding from all walls and $500.00
+ceilings in the unit on the ground floor
+5.2 Remove all floor covering $1,000.00
+in the unit on the ground floor
+5.3 Demolish the chimney down to the $360.00
+roof decking
+5.4 Remove the brick cladding from the adjoining 2,330 ft.2 $4.00
+alley side wall and from the back facades
+as indicated in the plans
+5.5 Strip the balcony floors $54[illegible]
+5.6 Demolish the back shed $360
+5.7 Remove cladding from unit bathroom walls
+and ceilings on the floors
+5.8 Condemn the chimney at the ground floor
+5.9 Control:
+If the demolition or stripping reveals a weakness
+or deficiency in the structure or any other
+component, immediately notify the service
+representative to decide on the work to be
+undertaken.
+Cleaning:
+Clean the site, inside and outside, as the
+work progresses.
+.
+Safety:
+When doors and windows have been removed,
+block the openings in accordance with regulations.
+Health and safety:
+While work is being carried out, ensure
+that the Occupational Health and Safety
+Regulations are followed
+Subtotal $16,080.00
+6. STRUCTURE AND FRAMING
+6.1 Have a structural engineer inspect the
+building framing and foundation and
+submit a copy of the report and/or plans
+on the condition of the framing and foundation,
+and, if necessary, the modifications to be made
+6.2 Correct the structure as indicated in the $6,750.00
+engineer’s approved report
+*no engineer’s plan on hand
+6.3 Brick up openings in the foundation wall 3 $125.00
+Subtotal $712[illegible]
+7. FLOORS (SUBFLOOR AND FLOORING)
+7.1 Cover all floors on the ground floor with 1,400 ft.2 $3.00/ ft.2
+1/2-inch plywood nailed every 6 inches
+centre to centre along the edges and
+every 8 inches centre to centre everywhere
+else
+7.2 Lay ceramic tile with marble thresholds on 252 ft.2 $7.00/ft.2
+bathroom and kitchen floors on the
+ground floor
+*If crawlspace electrical panels need to be
+moved temporarily for underpinning work,
+additional costs will apply.
+7.3 Lay select yellow birch parquet (or approved 1,150 ft.2 $7.00
+equivalent) on the ground floor as indicated
+in the plans
+Subtotal $15,014.00
+8. ROUGH CARPENTRY
+8.1 Construct dividers (2 in. x 4 in. to 16 in. centre 170 LF $10.00/LF
+to centre) on exposed walls in the ground floor
+unit
+8.2 Refit the rooms in the unit on the ground
+floor in accordance with the project plans 1 $1,760.00
+accepted by the person in charge of grants and
+renovations (new divisions in 2 in. x 4 in. to
+16 in. centre to centre)
+Subtotal $3,640
+9. ELECTRICITY
+[illegible]
+9.1 Replace distribution panels with circuit 3 $1,500.00
+breaker panels. The existing lines are
+sufficient
+9.2 Install:
+- outlets with breakers in building bathrooms
+- counter outlets in ground floor kitchens (on
+an independent circuit)
+- electrical outlets wherever needed on the
+ground floor
+- range outlets on the ground floor
+- washer/dryer outlets on the ground floor
+9.3 Install ceiling fixtures in building bathrooms
+and ground-floor corridors and kitchens
+9.4 Install adequate electric heating (baseboard)
+with a wall thermostat in each unit room
+9.5 Install an outside ventilation hood above the
+ranges (220 cubic feet per minute minimum)
+in each unit
+9.6 Install mechanical ventilation in all bathrooms
+(110 cubic feet per minute minimum) in each
+unit
+9.7 Install a 110-volt (A.C.) automatic smoke
+detector near the bedrooms in each
+unit
+9.8 Install all telephone and television cables in
+the unit on the ground floor
+Subtotal $4,500.00
+or $7,500.00
+10. MECHANICS AND PLUMBING
+10.1 Equip the unit on the ground floor with
+new fixtures: kitchen sink, bathtub with
+shower enclosure, sink, toilets with insulated
+tank and seat
+10.2 Install connections for the washer on
+the ground floor
+10.3 Install rigid exhaust ducts leading outside
+for mechanical ventilation in bathrooms,
+range hoods and dryers
+Subtotal $4,400.00
+11. SOUNDPROOFING
+11.1 Install wool around the plumbing waste 1 $70.00
+stacks on the ground floor
+11.2 In the ceilings separating the occupied 1,400 ft.2 $2,500.00
+areas, install resilient bars, 16 in. centre
+to centre, and acoustical wool, 3 ½ in.
+(5/8 in. type X plasterboard; see
+section 13 – interior cladding)
+Subtotal $2,570.00
+12. THERMAL INSULATION
+12.1 Insulate the roof space with blown glass 1,400 ft.2 $2.50/ft.2
+fibre wool in 8-inch granules (R-28)
+12.2 Install insulation on exposed walls: fibre 90 LF 10 LF
+glass wool in 3 ½ in. weave (R-12) with
+a 2-foot return on party walls
+Subtotal $4,400.00
+13. INTERIOR CLADDING
+13.1 Rebuild the interior cladding on all walls
+and ceilings on the ground floor
+Note: ½ in. type X plasterboard on all
+load-bearing walls. 5/8 in. type X plasterboard
+on walls separating housing units from one
+another and on walls separating housing
+units from common areas. 5/8 in. type X
+plasterboard on all ceilings required to be
+fire-resistant.
+13.2 Rebuild the interior cladding on the walls
+and ceilings of the bathrooms on the floors
+Note: water-resistant plasterboard in bathrooms
+13.3 Repair the interior cladding on walls and 4,500 ft.2 [illegible]
+ceilings following plumbing, electrical and
+ventilation work, and in other areas, as
+necessary
+Subtotal $495
+14. TRIM FINISHING
+14.1 Replace all baseboards, quarter round and 800 LF $1,500.00
+framing on doors and windows on the
+ground floor and in bathrooms on the floors
+14.2 Replace the interior doors on the ground floor 18 $150.00 each
+Subtotal $4,200.00
+15. CABINETS AND VANITIES
+15.1 Install cabinets in the kitchen on the ground 1 $4,000.00
+floor, as shown in the approved plans
+(minimum counter space of 2.5 square feet
+per housing unit and storage space of
+10.5 cubic feet per housing unit)
+15.2 Install cabinets above washers and dryers 1 $250.00
+15.3 Install a vanity under the sink in bathrooms 1 $250.00
+Subtotal $4,500.00
+16. BATHROOMS
+16.1 Install ceramic tile on the walls around 60 ft.2 [illegible]
+bathtubs at least 6 feet above the tub, and
+exceed the tub area by one tile (provide
+for bathroom accessories: roll holder,
+towel holder, soap holder, curtain rod, etc.)
+16.2 Install a recessed medicine cabinet in 1 $135.00
+bathrooms
+Subtotal $495.00
+17. PAINT
+17.1 Paint the ground floor interior (3 coats) $2,500.00
+17.2 Repaint the walls and/or ceilings where
+repairs have been made, and other areas
+as necessary (2 coats)
+17.3 Paint all exterior building projections (2 coats) $4,000.00
+17.4 Clean the units and common areas prior
+to delivery 1 $300.00
+Subtotal $6,800.00
+If you wish to have the work covered by a guarantee plan, contact the
+Association provinciale des constructeurs d’habitation du Québec (APCHQ) at 514‑353‑1120.
+RENOVATION QUEBEC PROGRAM APPLICATION
+Building 568-572 Théodore Street
+Company name
+Robco Renovation/Construction Inc.
+General Contractor's Licence No.
+8300-5470-18
+Address
+767 Moffat, Verdun
+Q.S.T. No.
+1205143595
+Postal code
+[illegible]
+Telephone
+514-765-8747
+Signature:
+Date
+Application valid for 30 days
+Indicate the subtotal for each section of the work program
+This space reserved for the City
+1. Exterior walls
+$32,175.00
+2. Doors and windows
+$1,760.00
+3. Overhangs
+$2,510.00
+4. Roof
+$8,000.00
+5. Clearing and demolition
+$16,080.00
+6. Structure and framing
+$7,125.00
+7. Floors (subfloor and flooring)
+$15,014.00
+8. Rough carpentry
+$3,460.00
+9. Electricity
+$4,500.00
+10. Mechanics and plumbing
+$4,400.00
+11. Soundproofing
+$2,570.00
+12. Thermal insulation
+$4,400.00
+13. Interior cladding
+$4,950.00
+14. Trim finishing
+$4,200.00
+15. Cabinets and vanities
+$4,500.00
+16. Bathrooms
+$495.00
+17. Paint
+$6,800.00
++10%+7%+7.5%
+18. —
+$122,939.00
+Total before taxes and profit
+19. Non-residential areas
+20. Non-grant-aided work
+Total Including profit, administration, taxes
+$155,551.64
+[11] Exhibit I-1, the agreement with the contractor, provides some additional details, but is not as detailed as Exhibit A-4. Moreover, the agreement stipulates one overall price and does not break down the amounts for the different work to be done. I would note that there is a small price difference between Exhibits A‑4 and I‑1. The total amount quoted is $155,551.64,[4] whereas the price contemplated in the agreement is $159,689.08 and includes an amount of $8,000 payable on signing (2005) and an amount of $40,000 payable when the work begins (in 2005).
+[12] Mr. Daoust testified that most of this work could have been spread out over a period of several years, but that, in order to meet the requirements of the major renovation program, the Appellants had to do all the work at the same time.
+[13] The work can be divided into three major categories:
+(a) complete renewal of the exterior brick walls;[5]
+(b) work stemming from the fact that the ground floor was too sloped;[6]
+(c) miscellaneous work, such as painting of exterior overhangs, soundproofing, thermal insulation and replacement of the fuse boxes with circuit-breaker panels.
+Analysis
+[14] In accounting, the role of depreciation is to spread out, over several years, the deduction of expenses that will be useful to a business for several years in order to provide a more accurate idea of the benefits.
+[15] Where the expenses will provide a benefit that will last several years, the purpose of categorizing certain of them as capital expenditures is similar to the purpose of the capital cost allowance contemplated in paragraph 20(1)(a) of the Income Tax Act, even though the accounting and taxation mechanisms differ from each other.
+[16] The case law regarding the distinction between a current expense and a capital expenditure is extensive.[7] In Bergeron et al. v. M.N.R.[8], Judge Lamarre Proulx considered that case law:
+The principles I draw from these cases are the following:
+- income-related expenses include repairs the purpose of which is to make the part or the property repaired suitable for normal use again;
+- capital expenses include work the purpose of which is to replace an asset by a new one and work which involves such a degree of improvement to an asset that it becomes a new one. This asset must have significant value compared to the rest of the property or be an asset in itself; work to change the use of premises or a room or to add new premises or a new room is usually capital in nature; the same is true of a change in the heating system;
+- although the factor of recent purchase is not significant when there is no change of use, the increase in value of the real property over the purchase price, as a result of the repairs, is an indication that the cost or part of the cost of the expenses is in the nature of the purchase price of property;
+- expenses must also be reasonable in the circumstances (section 67 of the Act): the question is whether they were reasonably incurred to derive income or to increase the value of the property, and in what proportion; future profits can be taken into account if the expenses in question reduce subsequent expenses1 and also I suppose the unforeseen scale of the costs.
+1 Halsbury's Laws of England, 4th ed., vol. 23, para. 310.
+[17] In Johns-Manville Canada Inc. v. The Queen,[9] a decision of the Supreme Court of Canada, Estey J. wrote as follows, at paragraphs 31 and 32:
+31 We must also remember the previously cited words of Lord Pearce in B.P. Australia Ltd., supra, at p. 264:
+It is a commonsense appreciation of all the guiding features which must provide the ultimate answer.[10]
+32 . . . The same judge in Hallstroms Pty. Ltd., supra, at p. 648, reminds us that the classification of such expenditures "... depends on what the expenditure is calculated to effect from a practical and business point of view, rather than upon the juristic classification of the legal rights. . . . "[11]
+[18] In light of these principles, certain work can be characterized as repairs and is therefore current in nature, whereas other work is capital in nature. Given the scope of the work, some of it consists of improvements, and the rest constitutes repairs.[12]
+The brick walls
+[19] The work on the brick walls involved the complete replacement of old walls with new ones. The old lane-side and rear walls of the building were completely removed and rebuilt using new bricks. Thus, the work described in sections 1.1 to 1.4 and 5.4 consists of capital expenditures, which amount to $41,495.[13]
+[20] I would note that the facts of the instant case are different from those in Di Fruscia v. The Queen,[14] where Rip A.C.J. stated as follows at paragraph 9 of his decision:
+The repair of a floor is a current expense. There is no addition of an asset. An old asset, because of its use, has been repaired.[4] Similarly, the replacement of bricks to the exterior wall of a building is a repair. No wall is being replaced. Old, damaged brick has been replaced by new bricks to make the building suitable for normal use.[5]
+[4] See Canada Steamship Lines Limited v. M.N.R., 66 DTC 5205, at p. 5207, per Jackett P.
+[5] Gold Bar Developments Ltd. v. Canada, [F.C.T.D., T-952-85, March 5, 1987], 87 DTC 5152.
+[Emphasis added.]
+In the instant case, two outer walls of a house built in 1900 were completely removed, and two completely new walls were built in their place. That expense will endure for a very long time.
+Repairs related to the excessively sloped ground floor
+[21] This work merely levelled the floor and the ground-floor unit.[15] The expenditure is therefore a current one.
+The other expenditures
+[22] The other expenditures are varied. I will list those that are capital in nature.
+(a) the electrical work (Exhibit A-4, items 9.1 to 9.8) constituted improvements: for example, circuit-breaker panels were installed instead of fuse panels, and a ventilation system and smoke detectors were installed; this work totalled $7,500;[16]
+(b) soundproofing, at a cost of $2,570 (Exhibit A-4, item 11);
+(c) insulation, at a cost of $4,400 (Exhibit A-4, item 12);
+(d) ventilation of the basement at a cost of $200 (Exhibit A-4, item 2.1); and
+(e) raising the balcony railings to 42 inches, at a cost of $880 (Exhibit A-4, item 3.2).[17]
+The remainder of this group of expenditures is current in nature.
+The agreement
+[23] Although the quote (Exhibit A-4) provides the details of the different work, the agreement stipulates an overall amount that is not broken down into the different tasks. Moreover, the amount of the contract is somewhat different, and simply contemplates payments
+(a) upon signing,
+(b) upon commencing the work,
+(c) mid-way between the commencement and completion of the work,
+(d) upon commencing the finishing work, and
+(e) upon completion.
+An amount of $48,000 was paid in 2005, and the rest was paid later.
+[24] Consequently, the payments cannot be broken down by specific job. The capital portion of the payments must be deemed to be a prorated amount of the total.
+[25] Since the total amount of the quote was practically identical to the contract amount, one can simply use the quote to calculate the percentage of expenditures that were capital in nature. The capital expenditures listed in paragraph 19 and 22, supra, amount to $57,045, before taxes and profits.[18] This represents approximately 45.3% of the costs.[19]
+Conclusion
+[26] In view of the circumstances, 45.3% of the amount of $48,000 paid to the contractor must be considered a capital expenditure, and 54.7% of that amount must be considered current in nature.[20] In addition to the amount of $48,000, there is an additional $6,565 on account of expert fees, architect's fees, notary's fees, application processing fees and permit fees incurred in order to enable the Appellants to qualify for the major renovation program which subsidized the work.[21] Since these expenditures were essential to the entire project's realization, this amount must be allocated between current and capital expenditures in the same fashion.
+[27] Consequently, the appeals are allowed, without costs, and the matters are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that $29,847 of the amount of $54,565 which the Minister considered to be a capital expenditure was actually current in nature.[22]
+Signed at Ottawa, Canada, this 9th day of June 2008.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 25th day of July 2008.
+Brian McCordick, Translator
+CITATION: 2008TCC316
+COURT FILE NOS.: 2007-706(IT)I, 2007-705(IT)I
+STYLE OF CAUSE: RÉAL DAOUST v. HER MAJESTY THE QUEEN, NEDJMA ZIDANE v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: July 18, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: June 9, 2008
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Agent of the Appellant:
+Réal Daoust
+Counsel for the Respondent:
+Susan Shaughnessy
+COUNSEL OF RECORD:
+For the Appellants:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] I would add that the Appellants incurred additional expenses in 2006.
+[2] Exhibit A-1, at page 2.
+[3] In addition, see Exhibit A-1, at page 3.
+[4] In fact, the difference is minor, because an amount of $3,000 must be added to the quote to cover electrical work (the possibility of which was referred to in the quote) plus 24.5% to cover taxes and profit. Mr. Daoust testified that the additional $3,000 was spent.
+[5] The rear wall and lane-side wall (the front wall is in stone). On the other side, there is no space between the building in question and the adjacent building (photo on the left, Exhibit A-3). This work includes items 1.1 through 1.4 of the quote and item 5.4 of the quote (Exhibit A‑4).
+[6] Not only did the slope of the floor need to be corrected (Exhibit A-4, section 6), but this created a need to do additional work on the ground floor, such as work on the ground-floor walls and doors (items 8 and 14.2) which did not have the effect of altering the ground-floor dwelling.
+[7] The parties cited the following cases: Bowland v. Canada, [1999] T.C.J. No. 588 (QL), Fiore v. Canada, [1992] T.C.J. No. 360 (QL), [1993] F.C.J. No. 250 (QL), Minister of National Revenue v. Haddon Hall Realty Inc., [1962] 2 S.C.R. 109, 62 DTC 1001, Leclerc v. Canada, [1997] T.C.J. No. 479 (QL), Jean Méthé v. Minister of National Revenue, 86 DTC 1364, O'Rourke Marketing Corp. v. The Queen, [2006] 3 C.T.C. 2248 (T.C.C.), Marklib Investments II-A Limited v. The Queen, 2000 DTC 1413, Di Fruscia v. The Queen, 2007 TCC 310. I was also referred to the document entitled "Current and capital expenditures", which is an excerpt from the brochure Individuals and Rental Income, published by Revenu Québec; a document entitled "Capital Expenditures on Depreciable Property versus Current Expenditures on Repairs and Maintenance", which is an excerpt from the Canada Revenue Agency's Interpretation Bulletin IT-128R; and excerpts from what I believe to be Canada Revenue Agency publication T4036, entitled Rental Income.
+[8] 90 DTC 1505, at pages 1505-1511.
+[9] [1985] 2 S.C.R. 46.
+[10] The French translation reads: "C'est une appréciation saine de toutes les caractéristiques directrices qui doit apporter la réponse finale."
+[11] The French translation reads: "Le même juge nous rappelle, dans l'arrêt Hallstroms Pty. Ltd., précité, à la p. 648, que la caractérisation de ces dépenses [TRADUCTION] « ... dépend de l'effet envisagé de la dépense d'un point de vue pratique et commercial plutôt que de la classification juridique des droits.»"
+[12] The Appellant cited Marklib Investments II-A Limited v. The Queen, 2000 DTC 1413, where Judge Brulé held that the expenses were small in relation to the value of the building and that all of them were for current repairs (see paragraph 49). That situation is different from the instant case, where, firstly, the expenses are major in relation to the value of the property — they amount to roughly $160,000 (Exhibit I-1, last page) compared with a purchase price of $292,000 which included the land — and where, secondly, I am satisfied that these were not merely simple repairs, because some of the expenditures improved the building.
+[13] Before taxes and profits.
+[14] 2007 TCC 310; in addition, see the Canada Revenue Agency publication entitled Rental Income.
+[15] In Shabro Investments Limited v. The Queen, 79 DTC 5104, the Federal Court of Appeal accepted the argument that the mere repair of a floor and of pipes damaged by reason of a slump in the ground constituted current expenditures. However, in Shabro, the floor that was built was more solid and better suited to the nature of the ground than the original floor. Consequently, the Federal Court of Appeal determined that the expenditures on the floor were capital in nature, but the rest — including the expenditures on the pipes — was current in nature.
+[16] This amount does not include taxes and profits. Mr. Daoust testified that the work ultimately cost $7,500, not $4,500.
+[17] Expenditures (b) through (e) are improvements,. The amounts do not include taxes and profits.
+[18] See the last page of Exhibit A-4, entitled [TRANSLATION] "Renovation Quebec Program – Application"
+[19] The total quote is $122,939, not including taxes and profits, but $3,000 must be added because the work in item 9 (electrical) was $7,500, not $4,500. The amount of $57,045 corresponds to 45.3% of the costs of $125,939. Since taxes and profits are merely a percentage added on, they have no effect on the percentage that the capital expenditures account for. .
+[20] Although this appeal does not cover the 2006 taxation year, logic would dictate that the same percentages will apply to the remaining payments under the agreement (Exhibit I-1) in 2006.
+[21] See Exhibit I-6.
+[22] 54.7% of $54,565 = $29,847.

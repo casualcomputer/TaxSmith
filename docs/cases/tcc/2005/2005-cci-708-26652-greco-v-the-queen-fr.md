@@ -1,0 +1,185 @@
+---
+title: "Greco v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26652/index.do"
+last_modified: "2005-10-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 708"
+citation2: ""
+neutral_citation: "2005 CCI 708"
+decision_date: "2005-10-31"
+language: "fr"
+item_id: "26652"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3594
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:21:48.946000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "23d02dc8449e3c6b1b97cad0013a0554472ddd63236fd1fedfc4392eb215fdb4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Greco v. The Queen
+
+- Citation: 2005 CCI 708
+- Decision date: 2005-10-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3594, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Greco v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-10-31
+Référence neutre
+2005 CCI 708
+Numéro de dossier
+2002-3618(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+2002-3618(IT)I
+ENTRE :
+MYCHEAL P. GRECO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appels entendus le 15 septembre 2005 à Toronto (Ontario),
+par : l’honorable juge E.A. Bowie
+Comparutions :
+Pour l’appelant :
+l’appelant lui-même
+Avocate de l’intimée :
+Kandia Aird
+____________________________________________________________________
+JUGEMENT
+Les appels des nouvelles cotisations d’impôt établies en vertu de la Loi de l’impôt sur le revenu pour les années d’imposition 1997 et 1998 sont rejetés.
+Signé à Toronto (Ontario), ce 31e jour d’octobre 2005.
+« E.A Bowie »
+Juge Bowie
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2005CCI708
+Date : 20051031
+Dossier : 2002-3618(IT)I
+ENTRE :
+MYCHEAL P. GRECO,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] Une nouvelle cotisation concernant l'impôt sur le revenu a été établie à l’égard de M. Greco relativement aux années d’imposition 1997 et 1998. M. Greco a soutenu avoir subi, au cours de ces deux années, des pertes d’entreprise de 10 023,50 $ et 10 769,58 $ respectivement. On avait admis à son égard des pertes d’entreprise similaires au cours des quatre années précédentes. Plus précisément, il a déclaré le revenu d’entreprise brut et les pertes d’entreprise nettes suivants pour les années 1993 à 1998 :
+Revenu d’entreprise brut
+Perte nette
+1993
+nul
+9 882 $
+1994
+2 150 $
+11 430 $
+1995
+2 250 $
+9 684 $
+1996
+10 500 $
+6 196 $
+1997
+3 376 $
+10 023,50 $
+1998
+5 000 $
+10 769,58 $
+[2] Le 31 juillet 2000, le ministre du Revenu national a déclaré qu’à son avis, M. Greco n’exploitait pas une entreprise, et a établi une nouvelle cotisation à son égard pour rejeter les pertes déclarées pour 1997 et 1998. Il a aussi rejeté une perte déductible au titre d'un placement d'entreprise de 29 625 $, fondée sur une perte au titre d’un placement d’entreprise de 39 500 $, que M. Greco avait déclarée en 1998. M. Greco a délivré des avis d’opposition en bonne et due forme et, après confirmation des avis de nouvelle cotisation, a introduit les présents appels.
+[3] M. Greco a appelé à témoigner Alan Rosenberg, un comptable agréé. M. Rosenberg a témoigné que M. Greco l’avait consulté avant de produire ses déclarations pour les deux années visées par les appels. Il a déclaré ne pas avoir tenu de livres ou préparé des états financiers ou des déclarations de revenus pour M. Greco. Il a simplement examiné un nombre de reçus que M. Greco lui a présentés. Selon lui, à supposer que M. Greco ait dépensé les montants représentés par lesdits reçus en vue de gagner un revenu, ces montants étaient alors bien déductibles à titre de dépenses d’entreprise. Il a clairement souligné que les services qu’il avait fournis à M. Greco s’arrêtaient là. Puisque les questions qui me sont présentées sont celles de savoir s’il y avait une entreprise et, dans l’affirmative, si les dépenses déclarées ont été engagées en vue de gagner un revenu, la preuve de M. Rosenberg n’est pas vraiment utile. Il y a une question supplémentaire portant sur la déclaration de la perte déductible au titre d'un placement d'entreprise, mais tout comme pour les dépenses, M. Rosenberg ne connaît que les faits dont M. Greco lui a fait état et n’a donc pu présenter de preuve utile quant à cette question.
+[4] M. Greco a aussi témoigné. Il a déclaré que son entreprise embryonnaire était celle d’un conseiller en informatique, qu’il exploitait comme entreprise individuelle sous le nom de M P G Computer Consulting. En contre-interrogatoire, il a précisé qu’il avait suivi divers cours de réseautique et de gestion de bases de données en 1989 et en 1990. Il a travaillé pour un marchand de bois appelé Truss-Joist en 1989 et au début de 1990. Il a également indiqué qu’il avait travaillé pour une société de distribution de pièces de télévision par câble. Il a déclaré avoir effectué du travail de consultation pour les deux sociétés ci-haut, bien que la période exacte au cours de laquelle il allègue avoir effectué un tel travail n’ait pas du tout été clairement établie. Selon ses dires, au début de 1990, il a commencé à travailler à temps plein dans le domaine de la consultation. La preuve qu’il a présentée indique qu’il avait des contrats de gestion de bases de données pour la société de distribution de pièces de télévision par câble et pour le marchand de bois, ainsi que d’autres petits contrats. Il a déclaré qu’il travaillait chez lui, mais qu’il louait aussi une aire d’entreposage auprès d’une entreprise appelée Emdex, pour laquelle il travaillait à l’occasion. Il a précisé que son travail comprenait beaucoup d’analyse et de conception, mais peu de travail pratique.
+[5] M. Greco n’a pu nommer que quelques clients de son entreprise, et non sans difficulté. Selon les apparences, il n’avait établi aucune base de données sur ses clients. Il n’avait aucun compte bancaire d’entreprise ni aucun document comptable de quelque genre que ce soit, exception faite de deux enveloppes pleines de reçus et de quelques factures d’un type qui peut être imprimé par quiconque au moyen d’un ordinateur. Non seulement M. Greco ne tenait-il pas de livres, mais il n’avait aussi aucun registre de l’utilisation de son automobile à des fins personnelles et commerciales, bien qu’il ait déclaré que l’automobile avait été utilisée à des fins commerciales dans une proportion de 88 % en 1997. Il a prétendu avoir rendu visite à plusieurs clients potentiels (certains situés aussi loin qu’au Niagara), mais il ne possédait aucun registre de ceux auxquels il avait rendu visite ou de ceux pour lesquels il affirmait avoir travaillé, à l’exception de quelques factures dont je traiterai davantage ci-dessous.
+[6] La déclaration d’une perte au titre d'un placement d'entreprise est fondée sur ce qui, selon M. Greco, constituait un prêt consenti à 155600 Canada Inc. M. Greco a présenté la pièce R-4, un reçu au montant de 39 500 $ apparemment signé pour le compte de la société à dénomination numérique par un certain James Clark. Le reçu est daté du 24 août 1990 et porte la mention [TRADUCTION] « certificat d’actions de placement ». Loin d’être un certificat d’actions, il semble être un reçu d’un type qui serait utilisé par une personne faisant de la sollicitation pour une organisation caritative. Il s’agit d’un formulaire imprimé de piètre qualité qui contient un espace pour le numéro d’enregistrement d’une organisation caritative. Selon la preuve de M. Greco, celui-ci avait gagné le montant ci-haut alors qu’il travaillait au sein d’une entreprise appelée RCA dans les domaines de l’installation de caméras et de la réseautique. Il a déclaré qu’un ami et une connaissance lui avaient parlé de la société ci-haut et qu’il avait donc décidé d’y effectuer un placement. Malgré le libellé du certificat, M. Greco a continué à soutenir qu’il avait conclu un contrat de prêt avec la société. Il a déclaré qu’il avait conclu un contrat de prêt écrit avec la société mais qu’il l’avait égaré. Il a précisé qu’en octobre 1998, la société était devenue insolvable et les banques avaient saisi la totalité de son actif, de sorte qu’il avait perdu ses 39 500 $.
+[7] Plusieurs aspects de la preuve de M. Greco me portent à ne pas la croire. La partie individuelle la plus importante de la perte de plus de 10 000 $ subie par M. Greco en 1997 était constituée de ses frais d’automobile qui, selon ses calculs, s’élevaient à 3 661,07 $. Il a soutenu que les dépenses totales liées au fonctionnement de son automobile au cours de l’année étaient de 4 155,58 $, un montant qui, en soi, n’a rien d’exceptionnel. Ce qui est exceptionnel, c’est sa déclaration selon laquelle il aurait parcouru 21 000 kilomètres, dont 18 500 à des fins commerciales. Étant donné la nature de son entreprise présumée, l’absence de clients et son incapacité de produire un livre de bord à l’égard de son véhicule ou de nommer avec quelque précision que ce soit les clients auxquels il avait rendu visite, notamment les clients potentiels, je ne crois tout simplement pas la preuve qu’il a présentée. Le fait que la demande de déduction pour amortissement de M. Greco visait deux véhicules, dont un qui, selon son témoignage, n’était pas en état de fonctionnement, ne vient certes pas renforcer la crédibilité de la preuve.
+[8] Selon la déclaration de revenus de M. Greco, la deuxième plus grande partie de sa perte représentait une moins-value des stocks de 3 250,85 $. Le stock d’ouverture déclaré, qui était constitué d’ordinateurs et de matériel connexe, s’élevait à 6 050,78 $. M. Greco s’est montré évasif lorsqu’il a été interrogé à ce sujet, tout comme il l’avait été relativement à plusieurs aspects de sa preuve. Cependant, il a finalement déclaré qu’il avait acheté des articles tels que des ordinateurs, des câbles, des concentrateurs ethernet et des routeurs, même s’il n’avait aucun contrat en cours d’exécution dans le cadre duquel ces articles pouvaient être utilisés. Il a précisé que la radiation des stocks résultait de la mise au rebut de deux concentrateurs qui étaient devenus obsolètes. Il n’a pu présenter de registres de stock, ni n’a-t-il pu expliquer pourquoi une personne exploitant une entreprise d’évaluation et de conception et n’ayant presque aucun client dépenserait son fonds de roulement peu abondant pour acheter du matériel de revente, alors qu’il n’avait aucun contrat de consultation en cours d’exécution dans le cadre duquel ce matériel pouvait être utilisé. Il a témoigné que de telles pièces sont susceptibles d’être vite obsolètes. Il n’était tout simplement pas logique qu’il les achète en se fondant sur les spécifications, même à un prix qu’il estimait avantageux. Je ne crois pas du tout une telle preuve.
+[9] La grande majorité des autres dépenses de M. Greco en 1997 étaient justifiées par des reçus qui pourraient représenter des dépenses personnelles tout aussi bien que des dépenses d’entreprise. Par exemple, les postes qu’il a appelés [TRADUCTION] « réparations », « repas », « déplacements » et « téléphone et services publics » sont tous des postes qui auraient pu représenter une utilisation à des fins personnelles plutôt qu’à des fins commerciales.
+[10] Son seul revenu d’entreprise déclaré en 1997 s’élevait à 3 375,95 $, un montant dont la totalité provenait, selon lui, d’un contrat conclu avec une entreprise appelée Langton Financial. Comme toutes les descriptions qu’il a faites de ses rapports avec les clients et les fournisseurs, la preuve que M. Greco a présentée au sujet du contrat sonnait faux. Il n’a pu décrire de manière compréhensible le travail qu’il a soutenu avoir effectué pour Langton Financial. Toutefois, il a déclaré que Langton Financial avait omis de lui payer un montant de 375,89 $ pour du matériel. Il a réclamé ce montant au titre des créances irrécouvrables.
+[11] Pour ce qui est de l’année 1998, la perte de 10 769,58 $ déclarée par M. Greco est calculée comme suit :
+Ventes
+5 000,00 $
+Coût des produits vendus
+15 769,50 $
+Profit (perte)
+(10 769,50 $)
+Il a expliqué qu’il n’a pas pris la peine de déclarer d’autres dépenses pour 1998, puisque ses pertes étaient si importantes qu’il était inutile de déclarer des dépenses supplémentaires. Le coût de ses produits vendus est constitué des deux éléments suivants :
+1. un stock d’ouverture de 769,58 $, qu’il a apparemment radié au cours de l’année, puisqu’il n’a présenté aucun stock de clôture;
+2. un contrat de sous-traitance de 15 000 $, accordé à NTT Network Corp. pour les travaux décrits comme suit :
+[TRADUCTION]
+Installation de six serveurs Compaq
+Liaison par câble à fibres optiques 600 pieds
+Installation de 38 connecteurs de fibres optiques
+15 000 $
+La pièce R-1 semble être une facture de NTT Network Corp. adressée à MPG Computer Consulting pour les travaux décrits ci-haut.
+[12] Au cours de son témoignage, M. Greco a identifié les copies de trois factures qu’il aurait émises sous le nom de MPG Computer Consulting pour du travail qu’il avait effectué. L’une est une facture de 3 375,95 $ adressée à Langton Financial pour l’installation d’un serveur de réseau et de câbles. Elle est datée du 21 mars 1997 et porte l’inscription [TRADUCTION] « facture 01 ». La facture 02 est datée du 2 octobre 1998. Elle est de 5 000 $ et adressée à Micom Technologies, Inc.. Au bas de la facture, une note dactylographiée se lit comme suit : [TRADUCTION] « Dépôt de 1 500 $ – solde dû à la fin des travaux ». L’appelant a présenté les deux factures à la vérificatrice du ministre. Les factures portent un timbre distinctif que la vérificatrice a déclaré avoir apposé sur tous les documents qui lui ont été présentés au cours de la vérification. L’autre facture ne porte pas ce timbre et je conclus qu’elle n’a pas été présentée à la vérificatrice. Elle porte le numéro 03, bien qu’elle soit datée du 2 juillet 1998, précédant la facture 02 de plus de deux mois. Elle est aussi adressée à Micom Technologies, Inc. et vise essentiellement le même travail que celui pour lequel M. Greco a déclaré avoir versé 15 000 $ à NTT Network Corp. conformément à une facture datée du 2 juin 1998. Selon la preuve de M. Greco à cet égard, celui-ci a obtenu le travail de Micom à un prix contractuel de 26 500 $ et a ensuite donné en sous-traitance à NTT Network la plus grande partie du travail. Il a déclaré que Micom a refusé de le payer pour le travail et qu’il s’est donc retrouvé avec une créance irrécouvrable de 26 500 $. Il a précisé que, dans l’intervalle, il a encaissé son REER pour verser les 15 000 $ qu’il devait à NTT Network.
+[13] La preuve de M. Greco n’a aucun sens dans un contexte commercial. S’il avait seulement deux contrats en 1998, pourquoi donnerait-il en sous-traitance presque tout le travail à NTT dans le cadre du plus important des deux contrats? Pourquoi Micom verserait-elle à M. Greco la somme de 26 500 $ pour qu’il effectue un travail qu’il pouvait donner en sous-traitance pour un peu plus de la moitié de cette somme? Pourquoi M. Greco encaisserait-il des REER pour payer NTT pour son travail aux termes du contrat de sous-traitance alors que Micom refusait de payer pour le travail au motif que celui-ci n’était pas satisfaisant? Pourquoi la facture 03 de 26 500 $ adressée à Micom, que la vérificatrice n’a jamais vue, est-elle antérieure à la facture 02 qu’elle a vue? Pourquoi Micom conclurait-elle un contrat avec M. Greco à l’automne 1998 alors qu’elle était apparemment insatisfaite du travail pour lequel il avait été engagé plus tôt au cours de l’année? Pourquoi M. Greco travaillerait-il encore pour Micom alors que celle-ci ne l’avait pas payé pour le contrat précédent? M. Greco n’a pu répondre de façon satisfaisante à ces questions. Toutefois, il était pratique qu’il puisse annuler une créance irrécouvrable de 26 500 $ en 1998 de manière à supprimer son revenu relativement faible et déclarer une perte importante.
+[14] La crédibilité de l’appelant n’est certes pas renforcée par le fait qu’il a reçu, au cours des années faisant l’objet de l’appel, des prestations d’assurance-emploi de plus de 15 000 $ : 7 021 $ en 1997 et 8 260 $ en 1998[1]. Il a aussi gagné un revenu d’emploi de 23 551 $ en provenance de Cabletel Communications Corp. en 1997. L’article 18 de la Loi sur l’assurance-emploi[2] interdit le paiement de prestations à une personne qui n’est pas disponible pour travailler. M. Greco prétend qu’en 1997, il exploitait une entreprise de consultation en informatique depuis quatre années complètes, avec des pertes totales supérieures à 36 000 $.
+[15] La preuve de M. Greco concernant sa demande de déduction d’une perte au titre d’un placement d’entreprise n’est pas moins invraisemblable. Pourquoi « placerait »-il 39 500 $ au moyen d’un prêt, apparemment sans intérêt, auprès d’une société dont il ne savait rien, si ce n’est que par l’intermédiaire de certaines déclarations vagues que lui ont faites deux connaissances, dont aucune ne plaçait son argent auprès de la société? Pourquoi a-t-il obtenu un reçu sur un formulaire inapproprié intitulé « certificat d’actions de placement »? M. Greco a produit les copies de deux lettres qu’il a déclaré avoir écrites à M. Clarke en septembre et en octobre 1997 pour exiger qu’on lui remette son « placement ». Cependant, il n’a pu produire le contrat de prêt parce qu’il l’avait perdu. Il n’avait pas non plus de chèque annulé ni d’autres documents pour corroborer son témoignage au sujet du soi-disant placement.
+[16] Les quelques documents que M. Greco a produits pour étayer son témoignage selon lequel il avait une entreprise de consultation pourraient facilement être créés par n’importe qui sur un ordinateur domestique. Toutes les anomalies que j’ai mentionnées me portent à conclure que tant l’« entreprise » que le « placement » de M. Greco étaient des produits de son imagination et qu’il a créé les documents (les factures et le reçu) à l’appui d’une fabrication. Je conclus qu’aucun élément de sa preuve n’est crédible.
+[17] Même si j’avais cru la totalité de la preuve de M. Greco concernant la demande de déduction d’une perte au titre d’un placement d’entreprise, j’aurais néanmoins été tenu de rejeter cette demande. Pour que l’on puisse dire qu’il y a eu disposition d’une dette pour une contrepartie nulle à la fin de l’année, le contribuable doit, dans sa déclaration de revenus de l’année, faire un choix pour que le paragraphe 50(1) de la Loi s'applique. Or, il ne l’a pas fait.
+[18] Les appels sont rejetés.
+Signé à Toronto, Canada, ce 31e jour d’octobre 2005.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 30e jour de mars 2006.
+Eric Vovan, traducteur
+RÉFÉRENCE :
+2005CCI708
+No DU DOSSIER DE LA COUR :
+2002-3618(IT)I
+INTITULÉ DE LA CAUSE :
+Mycheal P. Greco et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+15 septembre 2005
+MOTIFS DU JUGEMENT PAR :
+l’honorable juge E.A. Bowie
+DATE DU JUGEMENT :
+31 octobre 2005
+COMPARUTIONS :
+Pour l’appelant :
+l’appelant lui-même
+Avocate de l’intimée :
+Kandia Aird
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+s.o.
+Étude :
+s.o.
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Voir les pièces A-1 et A-2.
+[2] L.C. 1996, ch. 23, art. 18.

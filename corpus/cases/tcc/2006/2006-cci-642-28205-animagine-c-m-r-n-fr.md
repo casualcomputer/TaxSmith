@@ -1,0 +1,285 @@
+---
+title: "Animagine c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28205/index.do"
+last_modified: "2006-12-14"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 642"
+citation2: ""
+neutral_citation: "2006 CCI 642"
+decision_date: "2006-12-14"
+language: "fr"
+item_id: "28205"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1986
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:27:35.153000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b1d3b8ebb19956f6b67f7507e0b20cfac0014b0796b723ae54b644c5e9da44b2"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Animagine c. M.R.N.
+
+- Citation: 2006 CCI 642
+- Decision date: 2006-12-14
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1986, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Animagine c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-12-14
+Référence neutre
+2006 CCI 642
+Numéro de dossier
+2006-997(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2006-997(EI)
+ENTRE :
+ANIMAGINE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 19 septembre 2006, à Montréal (Québec)
+Devant : L'honorable S.J. Savoie, Juge suppléant
+Comparutions :
+Représentante de l'appelante :
+Manon Hébert
+Avocate de l'intimé :
+Me Christina Ham
+____________________________________________________________________
+JUGEMENT
+L’appel est accueilli et la décision rendue par le ministre est annulée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 14e jour de décembre 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2006CCI642
+Date : 20061412
+Dossier : 2006-997(EI)
+ENTRE :
+ANIMAGINE INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] L’appel a été entendu à Montréal (Québec), le 19 septembre 2006.
+[2] Il porte sur le caractère assurable de l’emploi de Véronique Lusignan Gravel (la « travailleuse ») lorsqu’elle travaillait pour l’appelante du 20 novembre au 17 décembre 2004 (la « période en litige »).
+[3] Le 6 janvier 2006, le ministre du Revenu national (le « ministre ») informait l’appelante de sa décision selon laquelle la travailleuse occupait un emploi assurable durant la période en litige.
+[4] Le ministre informait également l’appelante que la travailleuse avait exercé un emploi assurable durant 46,5 heures de travail et que sa rémunération assurable était de 511,50 $ durant la période en litige.
+[5] En rendant sa décision, le ministre s’est appuyé sur les faits présumés suivants :
+a) l’appelante, constituée en société le 10 février 1993, est un organisme sans but lucratif dont l’objectif est d’aider les artistes à se trouver des contrats; (admis avec précisions)
+b) les principales activités de l’appelante se résument à offrir un service d’animation dans divers centres commerciaux; (admis)
+c) l’appelante fournit les services de comédiens, de musiciens, de maquilleurs de fantaisie, de personnages divers, d’amuseurs publics, bref, tous les genres de personnages servant à créer des fêtes; (nié)
+d) l’appelante couvre principalement la rentrée scolaire, l’Halloween et Noël; (admis)
+e) l’appelante exploite son entreprise surtout entre les mois d’août et décembre de chaque année; (admis)
+f) lorsqu’elle a besoin d’un travailleur, l’appelante fait du recrutement par le biais d’annonces dans les journaux locaux et fait passer des entrevues; (admis)
+g) dans sa lettre datée du 30 mai 2005 et adressée au chef des appels, l’appelante affirme avoir agit avec la travailleuse comme avec tous les autres artistes, à titre d’intermédiaire entre la travailleuse et des clients potentiels, bien qu’un seul client ait retenu les services de la travailleuse; (admis avec précisions)
+h) la travailleuse a été embauchée, en vertu d’un contrat écrit, pour accueillir les enfants dans le Royaume du Père Noël au centre commercial de la Place Rosemère; (admis)
+i) plus précisément, la travailleuse devait parler et divertir les enfants dans les files d’attente et leur présenter le Père Noël; (admis)
+j) la travailleuse devait se déguiser en soldat de bois; (admis)
+k) selon son contrat de travail, l’appelante devait se présenter au centre commercial habillée en civil et se déguiser une fois sur place pour conserver l’effet de surprise auprès des enfants; (admis)
+l) le costume et les accessoires étaient fournis par l’appelante alors que la travailleuse fournissait son maquillage; (admis, sauf précisions à y apporter)
+m) la travailleuse pouvait se préparer dans une loge fournie par le centre commercial; (admis)
+n) malgré un horaire variable de travail, la travailleuse devait respecter une cédule de travail préparée selon les demandes du centre commercial, celles de l’appelante et selon sa disponibilité; (admis)
+o) si elle ne pouvait se présenter au travail, la travailleuse devait en avertir le payeur 24 heures à l’avance afin de lui permettre de la remplacer; (admis)
+p) sur place, la travailleuse se rapportait à un dénommé Richard, représentant de l’appelante; (nié)
+q) l’appelante recevait 11,00 $ de l’heure et, durant la période en litige, elle a reçu 3 chèques de l’appelante; (admis)
+r) durant la période en litige, la travailleuse a accumulé 46,5 heures de travail auprès de l’appelante; (admis)
+s) durant la période en litige, la travailleuse a reçu une rémunération totalisant 511,50 $ de l’appelante. (admis)
+[6] La travailleuse a affirmé à l’audition que l’appelante avait établi un horaire de travail qu’elle devait suivre. Il fallait se rendre à l’endroit désigné d’avance pour le maquillage. Elle a ajouté que l’heure du souper était fixée par l’appelante. Cependant, cette dernière a expliqué que l’horaire de travail était établi de façon à faciliter un travail d’équipe, mais que l’horaire n’était pas fixe et pouvait être modifié à la demande des travailleurs.
+[7] Par ailleurs, le témoignage de la travailleuse nous révèle que le salaire offert, soit de 11,00 $ l’heure, n’était pas négociable. À cela, l’appelante répond qu’elle avait offert un certain salaire à la travailleuse et que celle-ci l’avait accepté. La travailleuse n’a pas voulu négocier son salaire et n’a signé aucun contrat.
+[8] Il a été établi que l’appelante fournissait parfois le costume des travailleurs, mais cette situation ne survenait que si le travailleur débutait et n’avait pas de costume. Quant au reste, l’appelante exigeait que les travailleurs fournissent eux-mêmes leur costume, soit leur équipement au complet et le nécessaire pour effectuer leur prestation.
+[9] En dépit du contrat signé avec l’appelante, la travailleuse ne se considère pas comme une travailleuse autonome. Elle a indiqué ne pouvoir choisir sa remplaçante lorsqu’elle ne pouvait être présente. Pour sa part, l’appelante a affirmé que les travailleurs étaient libres de travailler ailleurs. C’est également ce qu’est venue confirmer une autre travailleuse, Stéphanie Bacon, qui a affirmé lors de l’audition qu’elle travaillait également pour plusieurs entreprises comme amuseuse publique et qu’elle fournissait ses accessoires. D’ailleurs, dans ce domaine, les travailleurs sont toujours à la recherche d’un emploi futur; ce travail est devenu un mode de vie.
+[10] L’appelante conteste l’affirmation de la travailleuse selon laquelle que Richard Dufresne agissait comme superviseur et précise que ce dernier agissait plutôt comme personne-ressource à qui les travailleurs pouvaient s’adresser s’ils éprouvaient des difficultés ou des problèmes.
+[11] L’appelante a de plus indiqué qu’elle ne fournissait aucune formation aux travailleurs. Les seules démarches faites à l’égard des travailleurs étaient notamment de leur indiquer l’endroit où ils devaient fournir leur prestation et de leur expliquer la base de leur mandat, mais l’appelante les laissait animer à leur façon. L’appelante exigeait le résultat de la prestation des travailleurs soit un résultat intéressant.
+[12] La question en litige est de savoir si la travailleuse occupait un emploi assurable aux fins de la Loi sur l’assurance-emploi (la « Loi »). La disposition pertinente est l’alinéa 5(1)a) de la Loi qui énonce ce qui suit :
+Sous réserve du paragraphe (2), est un emploi assurable :
+a) l’emploi exercé au Canada pour un ou plusieurs employeurs, aux termes d’un contrat de louage de services ou d’apprentissage exprès ou tacite, écrit ou verbal, que l’employé reçoive sa rémunération de l’employeur ou d’une autre personne et que la rémunération soit calculée soit au temps ou aux pièces, soit en partie au temps et en partie aux pièces, soit de toute autre manière;
+[Je souligne.]
+[13] L’article précité définit le terme « emploi assurable ». C’est l’emploi qu’on exerce en vertu d’un contrat de louage de services, c’est-à-dire en vertu d’un contrat de travail. Cependant, la Loi ne définit pas ce qui constitue un tel contrat. Dans l’affaire qui nous préoccupe, il existe un contrat écrit. Il est reproduit ci-après. L’intention des parties est exprimée dans ce contrat.
+[14] Le contrat de louage de services est une notion de droit civil décrite dans le Code civil du Québec. Ce sont les dispositions pertinentes du Code civil qui détermineront la nature de ce contrat.
+[15] Dans un article intitulé Contrat de travail : Pourquoi Wiebe Door Services Ltd. ne s’applique pas au Québec et par quoi on doit le remplacer? publié au cours du quatrième trimestre de 2005 par l’Association de planification fiscale et financière (APFF) et le ministère fédéral de la Justice dans le second recueil d’études en fiscalité de la collection « l’Harmonisation de la législation fédérale avec le droit civil québécois et le bijuridisme canadien », le juge Pierre Archambault de cette Cour décrit, à l’égard de toute période d’emploi postérieure au 30 mai 2001, la démarche que doivent faire les tribunaux depuis l’entrée en vigueur, le 1er juin 2001, de l’article 8.1 de la Loi d’interprétation, L.R.C. (1985), ch. 1-21, telle qu’elle est modifiée, lorsqu’ils sont confrontés à un litige comme celui en l’espèce. Voici ce que le législateur a édicté dans cet article :
+Propriété et droits civils
+8.1 Le droit civil et la common law font pareillement autorité et sont tous deux sources de droit en matière de propriété et de droits civils au Canada et, s’il est nécessaire de recourir à des règles, principes ou notions appartenant au domaine de la propriété et des droits civils en vue d’assurer l’application d’un texte dans une province, il faut, sauf règle de droit s’y opposant, avoir recours aux règles, principes et notions en vigueur dans cette province au moment de l’application du texte.
+[Je souligne.]
+[16] Il convient de reproduire les dispositions pertinentes du Code civil, qui serviront à déterminer l’existence d’un contrat de travail au Québec pour le distinguer du contrat d’entreprise :
+Contrat de travail
+2085. Le contrat de travail est celui par lequel une personne, le salarié, s'oblige, pour un temps limité et moyennant rémunération, à effectuer un travail sous la direction ou le contrôle d'une autre personne, l'employeur.
+2086. Le contrat de travail est à durée déterminée ou indéterminée.
+[…]
+Contrat d’entreprise ou de service
+2098. Le contrat d'entreprise ou de service est celui par lequel une personne, selon le cas l'entrepreneur ou le prestataire de services, s'engage envers une autre personne, le client, à réaliser un ouvrage matériel ou intellectuel ou à fournir un service moyennant un prix que le client s'oblige à lui payer.
+2099. L'entrepreneur ou le prestataire de services a le libre choix des moyens d'exécution du contrat et il n'existe entre lui et le client aucun lien de subordination quant à son exécution.
+[Je souligne.]
+[17] Les dispositions du Code civil reproduites ci-dessus établissent trois conditions essentielles à l’existence d’un contrat de travail :
+1) la prestation sous forme de travail fournie par le salarié; 2) la rémunération de ce travail par l’employeur; 3) le lien de subordination. Ce qui distingue de façon significative un contrat de travail d’un contrat de service, c’est l’existence du lien de subordination, c’est-à-dire le fait pour l’employeur d’avoir un pouvoir de direction ou de contrôle sur le travailleur.
+[18] Les auteurs de doctrine se sont penchés sur la notion de « pouvoir de direction ou de contrôle » et sur son revers, le lien de subordination. Voici ce que l’auteur Robert P. Gagnon écrivait dans Le droit du travail du Québec, 5e éd. Les Éditions Yvon Blais inc., 2003, Cowansville (QC) :
+c) La subordination
+90 – Facteur distinctif – L’élément de qualification du contrat de travail le plus significatif est celui de la subordination du salarié à la personne pour laquelle il travaille. C’est cet élément qui permet de distinguer le contrat de travail d’autres contrats à titre onéreux qui impliquent également une prestation de travail au bénéfice d’une autre personne, moyennant un prix, comme le contrat d’entreprise ou de service régi par les articles 2098 et suivants C.c.Q. Ainsi, alors que l’entrepreneur ou le prestataire de services conserve, selon l’article 2099 C.c.Q., « le libre choix des moyens d’exécution du contrat » et qu’il n’existe entre lui et son client « aucun lien de subordination quant à son exécution », il est caractéristique du contrat de travail, sous réserve de ses termes, que le salarié exécute personnellement le travail convenu sous la direction de l’employeur et dans le cadre établi par ce dernier.
+[Je souligne.]
+[19] Dans le but d’expliquer la nature de son entreprise, son produit, ses objectifs et sa relation avec les travailleurs recrutés, l’appelante a produit la pièce A-1, dont voici le texte intégral :
+INFORMATIONS GÉNÉRALES SUR ANIMAGINE
+Définition de la compagnie (Voir aussi Lettres Patentes ci-jointes)
+La création de concepts
+Incorporée sans but lucratif en 1993, Animagine a pour mission de promouvoir l’animation récréative et les activités s’y rattachant tels : les arts de cirque, la récréation, le théâtre, les Fêtes populaires. Régir les activités d’animation et favoriser la poursuite de l’excellence dans ce domaine. Concrètement, nous concevons des événements spéciaux, des concepts thématiques (journées ou soirées), nous créons des jeux, de l’animation théâtrale pour enfants, des parades, etc. Que nous vendons afin de réaliser ces contrats. Nous faisons appel à des gens de différentes disciplines pour une durée déterminée.
+L’équipe interne
+Animagine est une micro entreprise gérée par un conseil d’administration composé de bénévoles. De l’équipe du Conseil d’administration, seule Nicole Côté (Présidente) est salariée par Animagine car elle est aussi représentante et responsable de la tenue de livre de l’entreprise, à temps plein. Animagine embauche aussi Manon Hébert à temps plein, à titre de représentante et d’idéatrice et Mariève Bourget représentante et recruteur à temps partiel. Christiane Côté occupe aussi un emploi à temps partiel à titre d’assistante à la production. Les 4 membres de l’équipe interne sont salariés avec déductions.
+C’est l’équipe interne qui créé les concepts et répond aux demandes spécifiques par soumissions, elle s’occupe de la publicité, de recruter de nouveaux intervenants et clients, elle rédige les contrats (clients et intervenants), effectue la logistique des gros événements, s’assure du bon déroulement de l’animation sur les lieux de contrats et se procure annuellement une assurance responsabilité civile adéquate.
+Nombre de travailleurs contractuels
+Tous les artistes et intervenants s’exécutant pour Animagine sont des travailleurs contractuels à durée déterminée. Les démarches et les contrats d’Animagine génèrent des emplois occasionnels pour une centaine d’artiste et d’intervenants différents, annuellement (comédiens, musiciens, animateurs, techniciens de son, chanteurs, amuseurs publics, etc.) afin de respecter ses engagements.
+Tous des travailleurs indépendants
+Aucun artiste ou intervenant n’est exclusif à Animage. Tous travaillent ou peuvent travailler aussi pour d’autres compagnies simultanément.
+Durée des mandats confiés aux intervenants
+Chaque contrat proposé est de courte durée (minimum 4 heures et maximum 9 heures par jour (très rare) pour un à 15 jours (très rare)). Aucun contrat n’est renouvelable automatiquement; chaque année amène son lot de demandes différentes selon les besoins des clients ou de leurs réponses aux concepts proposés par Animagine. Un artiste peut travailler à 10 reprises au cours d’une année donnée et pas du tout l’année suivante, Animagine n’offre aucune garanti de travail.
+Les contrats
+Afin de faciliter la bonne compréhension de leur condition de travailleur indépendant, Animagine préfère rédiger un contrat à chaque artiste. Mis à part la description, la date/durée et le lieu du mandat proposé, nos contrats ne sont constitués que de rappels des décharges relatives à leur condition de travailleur autonome.
+Tout en étant tenu de respecter des instructions sur la nature du travail à exécuter, l’artiste a le choix de la méthode à employer; il est pleinement responsable de la qualité de son travail, il a été choisi pour ses compétences et effectue son travail à sa façon. Aucune formation n’est fournie par Animagine.
+Les horaires et versements des cachets
+Dans le domaine de l’animation les intervenants sont souvent appelés à se joindre à une équipe. Dans ces cas, les horaires sont établis selon la disponibilité de chacun. Ils peuvent être modifiés en cours de contrat, nous sommes toujours compréhensives à cet égard et les déroulements sont toujours faits en collaboration avec les artistes.
+Lorsqu’un horaire s’impose, il nous arrive d’inscrire sur nos contrats un cachet sous forme de tarif/heure. Toutefois cela ne diffère en rien d’un contrat stipulant des paiements dits « à la tâche » sous forme de versements.
+Les clients
+La clientèle d’Animagine est composée à 70% de Centres commerciaux et lieux publics, 20% de corporations et 10% de municipalités, écoles et festivals. Aucun de ces acheteurs de services d’animation n’offre de garantie de renouvellement de contrats ou de long terme; chaque année amène son lot de petits contrats différents (toujours de courte durée) en provenance de clients aux besoins fluctuants.
+Matériel fourni et conditions avantageuses pour les travailleurs indépendants
+Chaque intervenant fourni son équipement, son véhicule (si nécessaire), peut être appelé à participer à la rencontre avec le client, il assume son produit et sa qualité, collabore à l’établissement de ses horaires selon ses autres engagements et s’administre (donc s’engage à déclarer ses revenus à l’impôt en fin d’année).
+Afin que cela soit clair, Animagine fourni un contrat d’engagement pour artiste contractuel à chaque intervenant.
+Toutefois, lorsqu’un thème est imposé par Animagine (ou le client), il arrive que nous fournissions certains accessoires tel que le costume afin que l’artiste n’ait pas à s’équiper pour un événement isolé.
+De plus, nous fournissons une assurance responsabilité civile de $ 3 000 000.00 pour couvrir tout incident sur les lieux des contrats, la plupart des artistes n’ont pas les moyens de se pourvoir d’une telle assurance.
+L’AFFAIRE EN CAUSE
+Fonction de Véronique Lusignan Gravel
+Mme Lusignan Gravel, au même titre que tous les animateurs contractuels débutants est venue nous rencontrer à l’automne 2004, désireuse d’obtenir du travail dans ce milieu. Nous l’avons jugée apte à effectuer ce type d’emploi.
+Elle s’est vu offrir un mandat de 62 heures réparties sur 15 jours (ce qui arrive rarement chez Animagine).
+Mme Lusignan Gravel fut donc choisie par Animagine pour animer au Royaume du Père Noël de la Place Rosemère. Dans l’exercice de ses fonctions, elle devait suivre un horaire de travail (qu’elle avait accepté après avoir été consultée). L’horaire est inévitable dans le cadre d’un travail d’équipe. Elle devait divertir la file d’attente et animer les enfants auprès du Père Noël. Elle effectuait le travail à sa façon, selon son expérience et sa compétence, elle était totalement libre de choisir comment elle allait habiter son personnage et quelles interventions elle ferait auprès des enfants. Animagine a fourni son costume car un personnage de Noël s’imposait et Mme Lusignan Gravel ne possédait pas un tel costume et débutait dans le métier. Toutefois, il était de son ressort de fournir tout accessoire complémentaire nécessaire à l’exercice de ses fonctions. Aussi, elle était responsable de l’entretien du costume qui lui était prêté.
+Mme Lusignan Gravel était libre de refuser le contrat dit « d’artiste contractuel » ou pour toute autre raison. Si elle n’avait pas été intéressée par le contrat, Animagine l’aurait proposé à un autre animateur jugé compétent.
+Mme Lusignan Gravel n’a jamais signifié vouloir un statut d’employée, elle a signé un contrat d’artiste contractuel en toute connaissance de cause. Elle a finalement interrompu son contrat avant la fin de son mandat, exécutant au total 46,5 heures plutôt que 62 heures. Elle a touché un cachet total de $ 539,00 plutôt que $ 682,00 .
+[20] L’appelante a aussi produit le contrat d’engagement conclu avec la travailleuse. C’est la pièce A-4, qui est reproduite ci-après :
+CONTRAT D’ENGAGEMENT
+POUR ARTISTE CONTRACTUEL
+ENTRE : ANIMAGINE INC.
+7782, avenue d’Outremont
+Montréal (Québec) H3N 2L9
+TÉL. : (514) 278-6780 Télec. : (514) 495-3198
+COURRIEL : animagine@sympatico.ca
+ET VÉRONIQUE LUSIGNAN GRAVEL
+6195-2 rue Rouge-Gorge
+Laval, (Québec)
+H7L 4X5
+Tél. : (450) 624-0107
+N.A.S. : XXX-XXX-XXX
+FONCTION : Animatrice costumée en Soldat de bois #2
+DATE(S) ET HORAIRE : Entre le 20 novembre et le 24 décembre 2004
+(voir horaire en annexe)
+ÉVÈNEMENT : Programmation des Fêtes
+LIEU : Place Rosemère
+DÉSISTEMENT :
+Si pour une quelconque raison vous désiriez rompre votre contrat avant la fin du mandat qui vous est alloué, vous devrez nous aviser deux semaines à l’avance afin de nous donner un délai raisonnable pour vous remplacer.
+CONGÉDIMENT :
+La compagnie Animagine pourra vous relever de votre tâche sans préavis, si vous dérogez aux consignes décrites dans le document « La parfaite accompagnatrice » dont vous possédez une copie.
+LE COSTUME
+Tous les accessoires qui servent au bon déroulement de votre animation (costumes, accessoires, maquillage, etc.) sont sous votre responsabilité. Votre costume devra toujours être propre. Vous devrez assumer l’entretien de vos chemises et de vos collants et veuillez à ce que rien ne soit jamais froissés.
+Vous devrez aviser Animagine si votre costume de soldat de bois nécessite un nettoyage et ce, avant un congé de 24 heures ou 48 heures de façon à nous donner le temps de le nettoyer.
+Les parties conviennent que tous les articles énoncés dans cette entente ou ses annexes font parties intégrantes de la convention et s’engagent à les respecter.
+CACHET ET MODALITÉ DE PAIEMENT :
+Total du cachet : 62 heures X $ 11.00/heure = $ 682.00
+49 x 11.00
+VERSEMENTS
+1er versement du 20 novembre au 3 décembre 2004 $ 154.00 +27.50=181.50
+2e versement du 4 au 10 décembre 2004 $ 148.50
+3e versement du 11 au 24 décembre 2004 $ 379.50 $ 209.00
+Abandon le 18-12-2004
+Payé 4841
+Payé 4867
+Payé 4933
+ENTENTE À LONG TERME POUR TOUS LES CONTRATS 2004 ALLOUÉS AUX TRAVAILLEURS AUTONOMES OU FOURNISSEURS DE SERVICES D’ANIMATION SE REPRÉSENTANT SOUS LE NOM D’UNE COMPAGNIE DE PRODUCTION OU À TITRE DE « REPRÉSENTANT-RESPONSABLE » D’UNE FORMATION ARTISTIQUE (OU AUTRE) INCLUANT PLUSIEURS INTERVENANTS
+FORCE MAJEUR
+Tous les contrats signés pourraient s’annuler sans préjudice ou mise en demeure pour toute raison de force majeure telle que le décès, la maladie grave, un accident, la destruction des lieux (bureau d’Animagine et lieux d’animation), une grève, la vente de l’établissement (lieux de travail) ou autres raisons incontrôlables de même nature.
+La compagnie Animagine pourrait mettre fin aux contrats d’un travailleur autonome et ce sans aucun pénalité dans tous les cas ou il n’est plus apte à effectuer son mandat ou par non respect d’une consigne du document (annexe au contrat) relative à votre emploi.
+DÉCHARGE DE LA COMPAGNIE ANIMAGINE
+RESPONSABILITÉ CIVILE
+La compagnie Animagine possède une assurance responsabilité civile de $2 000 000 couvrant les clients et leur clientèle, en cas d’incidents sur les lieux de travail.
+Pour la clause suivante, le terme travailleur autonome vous désigne et s’applique aussi à tout fournisseur de services d’animation se représentant sous le nom d’une compagnie de production ou autre.
+Et le terme mandataires désigne toutes personnes physiques ou morales, dont la partie mentionnée est légalement responsable.
+Le travailleur autonome et ses mandataires ne peuvent présenter de réclamation ou de mise en demeure à l’encontre d’Animagine, de ses mandataires et des propriétaires de sont lieux de travail en cas de blessures, de décès, de perte de biens (incluant les véhicules) ou de dommages matériels subis par le travailleur autonome ou ses mandataires qui sont liés au présent contrat ou à toute action ou omission aux termes des présentes ou qui en découlent et le travailleur autonome renonce par les présentes à présenter de telles réclamations ou mises en demeure à l’encontre d’Animagine, de ses mandataires et propriétaires de sont lieux de travail.
+La compagnie Animagine se dégage donc de toute responsabilité concernant les cas de blessures corporelles, d’accidents, de vol de biens personnels ou tout autres incidents causant des dommages par ou au travailleur autonome et ses mandataires.
+Par la présente, le travailleur autonome certifie qu’il ne possède aucun antécédent judiciaire.
+Les parties conviennent que tous les articles énoncés dans cette entente ou ses annexes font parties intégrantes de la convention et s’engagent à les respecter.
+La corporation Animagine n’est pas tenue d’émettre un relevé 1 ainsi qu’un feuillet T4 à la fin de d’année fiscale. Il est de la responsabilité du travailleur autonome de déclarer ses revenus.
+En foi de quoi les parties ont signé ce 10 novembre 2004
+_____________________ ______________________________
+ANIMAGINE INC. TRAVAILLEUR (E) AUTONOME
+[21] Ce contrat a été signé par les parties le 10 novembre 2004.
+[22] Une série d’indices élaborée par la jurisprudence permet au tribunal de déterminer s’il y a présence ou non d’un lien de subordination dans la relation des parties.
+Les indices d’encadrement sont notamment :
+- la présence obligatoire à un lieu de travail
+- le respect de l’horaire de travail
+- le contrôle des absences du salarié pour des vacances
+- la remise de rapports d’activité
+- le contrôle de la quantité et de la qualité du travail
+- l’imposition des moyens d’exécution du travail
+- le pouvoir de sanction sur les performances de l’employé
+- les retenues à la source
+- les avantages sociaux
+- le statut du salarié dans ses déclarations de revenus
+- l’exclusivité des services pour l’employeur
+[23] Il faut préciser, toutefois, qu’il ne faut pas arrêter l’analyse parce que quelques indices étayent la conclusion qu’il existe un lien de subordination. Il faudra poursuivre l’exercice qui servira à déterminer la relation globale des parties. En l’espèce, le lien de subordination entre l’appelante et la travailleuse pourrait peut-être s’établir par les éléments suivants : la présence obligatoire à un lieu de travail, le respect de l’horaire de travail et le contrôle des absences du salarié. Cependant, en raison des explications fournies par l’appelante, cette conclusion est moins convaincante. L’horaire, explique l’appelante, vise à faciliter le travail de toute une équipe et, à son avis, peut être modifié. Quant au lieu de travail, il ne peut être considéré de façon traditionnelle puisque les travaux doivent s’exécuter là où la clientèle se trouve. Ce n’est pas un lieu fixe. Il change constamment selon les besoins du client. Quant aux autres indices, ils étayent surtout la conclusion que la travailleuse était comme travailleuse autonome.
+[24] En raison de la présence d’un contrat d’engagement, il est opportun, je crois, dans cette analyse, de considérer les propos de la Cour d’appel fédérale dans l’arrêt Le Livreur Plus Inc., [2004] CAF 68, où le juge Létourneau affirmait ce qui suit :
+[16] Je crois qu'il n'est pas superflu de rappeler certains des principes juridiques qui gouvernent la question de l'assurabilité d'un emploi. La détermination de cette question implique celle de la nature de la relation contractuelle entre les parties.
+[17] La stipulation des parties quant à la nature de leurs relations contractuelles n'est pas nécessairement déterminante et la Cour peut en arriver à une détermination contraire sur la foi de la preuve qui lui est soumise : D & J Driveway Inc. c. Le ministre du Revenu national, 2003 CAF 453. Mais en l'absence d'une preuve non équivoque au contraire, la Cour doit dûment prendre en compte l'intention déclarée des parties : Mayne Nickless Transport Inc. c. Le ministre du Revenue national, 97-1416-UI, 26 février 1999 (C.C.I.). Car en définitive, il s'agit de déterminer la véritable nature des relations entre les parties. Aussi, leur intention sincèrement exprimée demeure-t-elle un élément important à considérer dans la recherche de cette relation globale réelle que les parties entretiennent entre elles dans un monde du travail en pleine évolution : voir Wolf c. Canada, [2002] 4 F.C. (C.A.F.); Productions Petit Bonhomme Inc. v. Minister of National Revenue, 2004 CAF 54.
+[18] Dans ce contexte, les éléments du critère énoncé dans l'arrêt Wiebe Door Services Ltd. c .M.R.N., 87 D.T.C. 5025, à savoir le degré de contrôle, la propriété des instruments de travail, les chances de bénéfices et les risques de pertes et enfin l'intégration, ne sont que des points de repère : Charbonneau c. Canada (ministre du Revenu national – M.R.N.), (1996), 207 N.R. 299, paragraphe 3. En présence d'un véritable contrat, il s'agit de déterminer si, entre les parties, existe un lien de subordination, caractéristique du contrat de travail, ou s'il n'y a pas, plutôt, un degré d'autonomie révélateur d'un contrat d'entreprise : ibidem.
+[25] La preuve testimoniale a clairement révélé que l’appréciation du travail de la travailleuse émanait des commentaires des clients, c’est-à-dire les enfants, spectateurs de la prestation; il s’agissait donc d’un contrôle de résultat.
+[26] Il existe une jurisprudence constante selon laquelle l’intention claire exprimée par les parties sur la nature de leur relation contractuelle devrait être déterminante dans l’analyse.
+[27] En raison de cette règle, le contrat signé par les parties représente un argument irréfutable en faveur de l’appelante, et fait en sorte que la thèse à l’effet que cette dernière a réussi à prouver que les faits recueillis à l’audition lui permettent de se décharger du fardeau de la preuve qui lui incombait.
+[28] La Cour d’appel fédérale, dans l’arrêt Légaré c. Le ministre du Revenu national, [1999] A.C.F. no 878, a affirmé ce qui suit sur le rôle et le pouvoir de cette Cour dans un travail d’analyse de la décision du ministre :
+[4] La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L’expression utilisée introduit une sorte d’élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu’il s’agit sans doute d’un pouvoir dont l’exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n’est pas sans appel. La loi accorde, en effet, à la Cour canadienne de l’impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n’est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c’est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était « convaincu » paraît toujours raisonnable.
+[29] Aux termes de cette analyse, la Cour doit conclure que les faits retenus par le ministre n’ont pas été appréciés correctement. Le ministre n’a accordé aucune importance à l’intention exprimée par les parties dans le contrat d’engagement produit à l’audition. Donc, la conclusion dont le ministre était « convaincu » ne paraît plus raisonnable.
+[30] En conséquence, l’appel est accueilli et la décision rendue par le ministre est annulée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 14e jour de décembre 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2006CCI642
+Nº DU DOSSIER DE LA COUR : 2006-997(EI)
+INTITULÉ DE LA CAUSE : ANIMAGINE ET M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 19 septembre 2006
+MOTIFS DU JUGEMENT PAR : L'honorable S.J. Savoie, juge suppléant
+DATE DU JUGEMENT : le 14 décembre 2006
+COMPARUTIONS :
+Représentante de l'appelante :
+Manon Hébert
+Avocate de l'intimé :
+Me Christina Ham
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,107 @@
+Title: 2000676 Ontario Limited v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28321/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-744-28321-2000676-ontario-limited-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-11-26
+
+# 2000676 Ontario Limited v. The Queen
+
+- Citation: 2007 TCC 744
+- Decision date: 2007-11-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1840, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2000676 Ontario Limited v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-11-26
+Neutral citation
+2007 TCC 744
+File numbers
+2006-2593(GST)I
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2006-2593(GST)I
+BETWEEN:
+2000676 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 26, 2007, at Toronto, Ontario
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+Agent for the Appellant:
+George Salmon
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Excise Tax Act, notice of which is dated July 10, 2006 and bears number GB060470838081, is dismissed.
+Signed at Ottawa, Canada, this 11th day of December 2007.
+"Patrick Boyle"
+Boyle, J.
+Citation: 2007TCC744
+Date: 20071211
+Docket: 2006-2593(GST)I
+BETWEEN:
+2000676 ONTARIO LIMITED,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+(Delivered orally from the bench on November 26, 2007, in Toronto, Ontario.)
+Boyle, J.
+[1] The Appellant, 2000676 Ontario Limited, has appealed a GST reassessment disallowing approximately $189,000 of input tax credits and assessing penalties in respect of the ITC claimed.
+[2] This appeal originally was heard over two partial days in July of this year. At the close of the Appellant’s evidence in July, the Crown asked for an adjournment to consider bringing a motion to quash the appeal. The Crown did this after the Appellant’s representative and sole witness gave inconsistent and evasive answers to questions about his relationship with the Appellant.
+[3] The Crown argued that motion this morning and I reserved. This is an informal appeal, and the Appellant’s representative has put in evidence that he had a relationship with the Appellant at the material times. As well, he made available to the Court a document, which he had not previously made available to the Court or the Crown, in response to the motion. This document purported to be an express authorization by the sole shareholder for the representative to represent the Appellant and expressly ratified the institution of this appeal.
+[4] In contrast, the Crown has merely continued to question his authority, and its motion materials were from a former shareholder and director to the effect that the affiant had no relevant relationship with the Appellant at any time relevant to the institution of the appeal.
+[5] Given my decision that the Appellant’s appeal has to be dismissed on the ITC matter, this motion has become moot since either the appeal was properly authorized and instituted or the time has lapsed for appealing the CRA decision on the objection in question.
+[6] In July, after the close of his evidence, the Appellant’s representative moved to be allowed to introduce more evidence. That July motion was withdrawn shortly thereafter.
+[7] Today, the Appellant’s representative sought to again move for the introduction of further evidence. He had not made the Crown aware of that or the materials he sought to introduce ahead of time. The Appellant had numerous binders at its table, but when asked, and given a further 25-minute adjournment to find some, could not show me that there were any documents which could independently corroborate or confirm its version of events. These were purportedly documents which in July he testified had never been returned to the Appellant by the CRA, which he has since found and confirms had been returned. These are not a few documents. In July, he was talking about several box loads of documents. In the circumstances, I ruled against allowing the Appellant’s representative to introduce further evidence after the close of his evidence.
+[8] With respect to the evidence, the sole witness for the Appellant was its representative. The Appellant’s exhibits did not include any invoices from suppliers showing GST was paid or payable, nor any schedules showing the names, amounts or registration numbers of such suppliers.
+[9] That is what is required by section 169 of the GST provisions of the Excise Tax Act and the Regulations. The Appellant’s representative was aware that this is what would be needed or helpful to this Court since July. None of the witness’ testimony provided any such information either.
+[10] With respect to the July testimony of the Appellant’s representative as a witness, I found it to be unsatisfactory and not particularly credible. Not only were inconsistent answers given, in cross-examination the witness seemed to be glib and evasive throughout his evidence by clear bobbing, weaving and dodging.
+[11] The representative’s performance in July as a witness influenced my review with him today of what he thought the relevance and usefulness would be of the additional evidence sought to be introduced.
+[12] The Appellant argued that CRA accepted these same amounts as expenses in calculating the Appellant’s income for income tax purposes and that this should also apply for GST purposes.
+[13] Unfortunately for the Appellant, that is not sufficient. The specific documentary requirements of subsection 169(4) and the Regulations must be satisfied. See, for example, the decision of Associate Chief Justice Bowman, as he then was, of this Court in the Helsi matter, which was upheld by the Federal Court of Appeal, as well as the Federal Court of Appeal’s more recent decision in Systematix.
+[14] The Appellant argued that CRA not allowing any ITC in respect of any of its inputs is unreasonable and it would be unreasonable for this Court to do so. Again, my preceding comments about the express statutory requirements of subsection 169(4) apply.
+[15] The Appellant acknowledged this Court has no evidence before it that could possibly satisfy subsection 169(4). The Appellant had ample notice of the need and time to locate it and prepare it. It did not do so. While much was said about the asset-backed lending or factoring arrangements through which the Appellant received its revenues and paid its expenses, that cannot substitute for the documentary information and requirements of the legislation, nor can I deal with what CRA was or wasn’t satisfied with at any earlier point. Returning to any status quo ante is not a realistic option for me in this case, even if it was permitted.
+[16] The Appellant’s argument regarding an inferred transference of the GST debt to the supplier from the purchaser as a result of section 224 is without merit. No such inference should or need be drawn from a provision which is clearly giving the supplier the right to sue its customer for unpaid GST in certain circumstances.
+[17] I cannot conclude that the Respondent was incorrect to not allow any ITCs. The Appellant has not met the onus of showing that the Crown’s assumption 8 h) in its Reply is not correct. I therefore dismiss the Appellant’s appeal with respect to the ITC claimed.
+[18] The Appellant’s only dispute with respect to the penalties assessed is the amount shown on the reassessment and in the Reply as total amount owing. It is concerned that there may be a whole or partial doubling up of the amount assessed. It appears from my calculations that it is the initial $44,926 of refundable ITC claimed that is shown in the amount owing to bring it as high as it is shown. Certainly, the last column of the chart on page 4 of the Crown’s Reply and CRA’s Summary of Changes appended to the Notice of Appeal appear to show the reassessment is for an amount in excess of the sum of net tax, penalties and interest by exactly the amount of $44,926.80 of ITC claimed by the Appellant to be owing to it, which amount I am told was never paid. This same concern arises in the numbers in the Notice of Reassessment itself.
+[19] Since the net tax and penalty amounts shown in the Notice of Reassessment are not in dispute and the problem is with respect to the makeup of the total showing "Amount Owing", I am dismissing the Appellant’s appeal with respect to the ITC and associated penalty. I have no jurisdiction to deal with the reassessment beyond that as regards either the interest charged or the proper accounting for the amount showing as owing.
+[20] This appeal is dismissed.
+Signed at Ottawa, Canada, this 11th day of December 2007.
+"Patrick Boyle"
+Boyle, J.
+CITATION: 2007TCC744
+COURT FILE NO.: 2006-2593(GST)I
+STYLE OF CAUSE: 2000676 ONTARIO LIMITED AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 26, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Patrick Boyle
+DATE OF JUDGMENT: December 11, 2007
+APPEARANCES:
+Agent for the Appellant:
+George Salmon
+Counsel for the Respondent:
+Jenny P. Mboutsiadis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

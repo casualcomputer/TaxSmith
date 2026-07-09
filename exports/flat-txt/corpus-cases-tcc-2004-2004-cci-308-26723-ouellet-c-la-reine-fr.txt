@@ -1,0 +1,338 @@
+Title: Ouellet c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26723/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-308-26723-ouellet-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2004-04-22
+
+# Ouellet c. La Reine
+
+- Citation: 2004 CCI 308
+- Decision date: 2004-04-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3404, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ouellet c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-04-22
+Référence neutre
+2004 CCI 308
+Numéro de dossier
+2002-2897(IT)I
+Juges et Officiers taxateurs
+Louise Lamarre Proulx
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-2897(IT)I
+ENTRE :
+MICHEL OUELLET,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de J. Bryan Arbic (2002-2530(IT)I) les 24 et 25 novembre 2003 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocats de l'intimée :
+Me Anne-Marie Boutin
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1992 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour d'avril, 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Dossier : 2002-2530(IT)I
+ENTRE :
+J. BRYAN ARBIC,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu sur preuve commune avec l'appel de Michel Ouellet (2002-2897(IT)I) les 24 et 25 novembre 2003 à Montréal (Québec)
+Devant : L'honorable juge Louise Lamarre Proulx
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocats de l'intimée :
+Me Anne-Marie Boutin
+Me Dany Leduc
+____________________________________________________________________
+JUGEMENT
+L'appel de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 1992 est rejeté, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 22e jour d'avril, 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+Référence : 2004CCI308
+Date : 20040422
+Dossiers : 2002-2897(IT)I
+2002-2530(IT)I
+ENTRE :
+MICHEL OUELLET,
+J. BRYAN ARBIC,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+La juge Lamarre Proulx
+[1] Ces appels ont été entendus sur preuve commune. L'année d'imposition en litige est 1992. Les questions en litige sont les suivantes :
+(1) Est-ce qu'il existe véritablement une société en nom collectif, et si oui, exploite-t-elle une entreprise?
+(2) Le cas échéant, les appelants sont-ils des associés commanditaires de la société, au sens du paragraphe 96(2.4) de la Loi de l'impôt sur le revenu (la « Loi » ), à un moment donné de l'année 1992?
+(3) Le cas échéant relativement à la question no 1, les appelants sont-ils des associés qui, de façon régulière, continue et importante, tout au long de l'année visée où la société exploite habituellement son entreprise, ne prennent pas une part active dans les activités de l'entreprise de la société, ou n'exploitent pas une entreprise semblable à celle que la société exploitait au cours de l'année visée au sens de la définition « associé déterminé » au paragraphe 248(1) de la Loi.
+(4) Le cas échéant relativement à la question no 1, est-ce que le projet présenté par la société comme étant un projet de recherches scientifiques et développement expérimental était une investigation ou recherche systématique d'ordre scientifique ou technologique, effectuée par voie d'expérimentation ou d'analyse qui pouvait amener à l'avancement de la science au sens du paragraphe 2900(1) du Règlement de l'impôt sur le revenu (le « Règlement » ) et si oui, quels sont les montants de dépenses admissibles au crédit d'impôt à l'investissement?
+[2] En ce qui concerne l'appelant Michel Ouellet, dans sa déclaration d'impôt 1992, il a réclamé une perte d'entreprise au montant de 6 701 $ et un crédit d'impôt à l'investissement de 1 675$ relativement à son investissement dans la société en nom collectif « D-Drive enr. » , (ci-après, la « Société » ).
+[3] La cotisation initiale en date du 20 mai 1993, a accepté ces demandes. Le 15 mars 1996, une nouvelle cotisation a été effectuée relativement à l'année 1992 refusant la déduction de 6 701 $ et le crédit d'impôt à l'investissement de 1 675 $. Un avis d'opposition a été produit le 11 juin 1996. Le 22 avril 2002, le ministre du Revenu national (le « Ministre » ) a ratifié la nouvelle cotisation.
+[4] L'appelant J. Bryan Arbic, a demandé dans sa déclaration de revenu pour l'année 1992, une perte d'entreprise au montant de 13 401 $ et un crédit d'impôt à l'investissement au montant de 3 350 $. La cotisation initiale du 26 juillet 1993 a accepté ces demandes. Elles ont été refusées par une nouvelle cotisation en date du 15 mars 1996. L'avis d'opposition avait été produit en retard. Le 19 juillet 1996, la prorogation du délai pour produire un avis d'opposition a été accordée. La nouvelle cotisation a été ratifiée le 25 mars 2002.
+[5] Pour établir la nouvelle cotisation de cet appelant, le Ministre s'est fondé sur les faits décrits au paragraphe 7 de la Réponse à l'avis d'appel comme suit :
+a) La Société a été enregistrée le 2 septembre 1992 au bureau du protonotaire;
+b) La Société aurait recueilli 127 000 $ de la part de 10 soi-disant sociétaires;
+c) Selon le formulaire T5003, l'appelant aurait investi 10 000 $ dans la Société;
+d) Les états financiers produits par la Société présentaient les informations suivantes :
+BILAN
+Actif
+Encaisse
+964
+Débiteurs
+15 051
+Passif
+Créditeurs
+15 551
+Avoir net
+Mises de fond
+127 000
+Perte nette
+126 536
+ÉTAT DES RÉSULTATS
+Ventes
+0
+Frais de recherche et développement
+124 460
+Honoraires professionnels
+1 770
+Frais d'enregistrement
+200
+Frais financiers
+106
+Perte nette
+126 536
+e) Certains documents démontrent que les présumés partenaires ont emprunté de l'argent de M. Bryan Arbic pour un montant correspondant à 50% de leur participation;
+f) Certains documents démontrent qu'un contrat de recherche a été accordé par la Société à « Les conseillers et distributeurs Consuform inc. » ( ci-après « Consuform » );
+g) M. Brian Arbic était le président et actionnaire de la compagnie Consuform;
+h) Certains documents indiquent que Consuform a acheté les participations des présumés sociétaires pour un montant équivalent au montant emprunté (50%). Ceci était planifié depuis le début de la Société;
+i) Consuform n'a jamais fait aucun chèque aux présumés sociétaires pour l'achat de leur participation. Les participations ont été acquises par l'annulation des présumés prêts consentis par M. Arbic à l'égard des présumés sociétaires;
+j) Consuform indique dans ses états financiers pour la période terminée au 31 décembre 1993, un poste intitulé « autre élément d'actif » pour un montant de 63 500 $;
+k) La vérification effectuée par le Ministre démontre que l'argent aurait circulé de la façon suivante :
+Sociétaire
+(50% du montant
+déclaré investi)
+Bryan Arbic
+50%
+l) Le soi-disant investissement de l'appelant n'était en fait qu'un montage financier par lequel il était prévu d'une part qu'une partie du soi-disant investissement (50%) serait prêtée aux sociétaires et que d'autre part, les participations acquises par les sociétaires dans le cadre de ce montage financier seraient vendues pour un montant équivalent à la somme prêtée;
+m) Le projet présenté par la Société a fait l'objet d'une vérification par un conseiller scientifique et ce dernier a jugé que le projet ne rencontrait pas les critères d'admissibilité;
+n) Rien ne démontre que la Société ait effectué de la recherche et développement, ou opéré une entreprise quelconque.
+[6] Sauf quant au montant de 20 000 $ investi dans la société par monsieur Arbic et paraissant à l'alinéa 6c) de la Réponse à l'avis d'appel le concernant, les autres faits mentionnés à ce paragraphe 6 de la Réponse sont identiques à ceux de la Réponse concernant l'appelant Ouellet.
+[7] Au début de l'audience, lors de ses remarques préliminaires, l'avocat de l'intimée a informé la Cour de la position de l'intimée. Le premier argument est fondé sur l'absence de société, au sens du Code civil du Québec et au sens de la jurisprudence. Dans une telle circonstance, les appelants n'auraient droit ni à une déduction pour les pertes de l'entreprise ni au crédit à l'investissement.
+[8] Selon l'avocat de l'intimée, il y a absence de société parce que cette société n'existait que sur papier. Quelques conditions essentielles à l'existence d'une société n'y étaient pas. Les conditions essentielles sont qu'il y ait un apport ou une contribution des sociétaires, une intention de s'associer, soit une intention de travailler ensemble sur un pied d'égalité, l'affectio societatis, la recherche d'un profit et le partage dans les profits ou les pertes.
+[9] Un deuxième argument est qu'il y a absence d'entreprise. Selon l'article 37 de la Loi, une déduction pour des dépenses de recherches scientifiques et développement expérimental ne peut être réclamée que par une société qui exploite une entreprise. Or, selon l'intimée, aucune entreprise n'était exploitée.
+[10] Un troisième argument est que les deux appelants étaient des associés commanditaires. Les associés commanditaires n'ont pas droit à la déduction pour perte relative à la recherche scientifique ni au crédit d'impôt à l'investissement.
+[11] Un quatrième argument est que, dans l'hypothèse où il y a une société qui existe et que cette société exploite une entreprise et que les appelants ne sont pas des associés commanditaires, ils sont des associés passifs compris dans la définition d'associé déterminé. S'ils sont des associés passifs, les appelants ont droit à la déduction à la perte mais pas au crédit d'impôt à l'investissement. Toutefois, les pertes doivent être relatives à des dépenses engagées dans les circonstances prévues au paragraphe 2900(1) du Règlement. Entre d'autres termes, il doit s'agir de dépenses en recherche scientifique et développement expérimental.
+[12] Monsieur Arbic s'est présenté comme étant un planificateur financier. Il a admis les alinéas 6a) à 6k) de la Réponse, à l'exception de la mention: « Ceci était planifié depuis le début de la société » à l'alinéa 6h). Il a nié l'alinéa 6l) ainsi que l'alinéa 6n).
+[13] En ce qui concerne l'énoncé de l'alinéa 6h), à l'effet que Consuform a acheté la participation des présumés sociétaires pour un montant équivalant au montant emprunté, 50 p. 100, et que ceci était planifié depuis le début de la société, monsieur Arbic dit qu'il ne sait pas si c'était un plan depuis le début de la société mais que c'est sûrement de la façon dont cela s'est déroulé.
+[14] En ce qui concerne l'énoncé de l'alinéa 6l), voulant qu'il était prévu d'avance que 50 p. 100 de l'investissement serait prêté aux sociétaires et que, d'autre part, la participation acquise par les sociétaires serait vendue pour un montant équivalent à la somme prêtée, monsieur Arbic dit que non, ce n'était pas prévu à l'avance et que, si le projet avait réussi, il n'y aurait pas eu besoin de racheter. Le rachat a été fait pour protéger ses amis dans le projet.
+[15] Il a relaté que le rapport d'expert ne lui avait pas été transmis avec les documents à la suite de sa demande d'accès à l'information. Il avait cependant été informé en 1995 que le projet n'était pas admissible.
+[16] Monsieur Arbic dit qu'en 1992, il n'est pas sûr d'avoir été le seul actionnaire de Consuform. Il est possible qu'un monsieur Loignon ait encore fait partie des actionnaires.
+[17] La déclaration de société, auprès du bureau du protonotaire, raisons sociales, de la Cour Supérieure, concernant D-Drive Society (Reg'd) a été produite comme pièce R-1. Ce document est signé du 31 août 1992. La date du début des affaires qui y est indiquée est la même. L'adresse de la Société est 455 St-Antoine ouest, bureau 508. Il s'agit de la même adresse qu'un des deux signataires soit monsieur Michel Hallé. L'autre signataire est monsieur Bryan Arbic.
+[18] Une déclaration amendée signée en date du 2 septembre 1992 par les huit autres sociétaires se joignant à la Société a été produite comme pièce R-2.
+[19] Le plan d'affaires de la Société, daté du 31 août 1992, a été produit comme pièce R-3. Il était prévu à la page 7 du document que la Société accorderait le contrat de recherche à Consuform Inc. Monsieur Arbic dit que c'est lui qui a pris cette décision, décision qui a été prise avant le mois d'août 1992. Le siège social et la principale place d'affaires de Consuform Inc. sont à la même adresse que la résidence de monsieur Arbic. Ce dernier mentionne que c'est là aussi qu'il a son bureau.
+[20] À la page 11 du plan d'affaires (pièce R-3), il y a une table des considérations fiscales pour une contribution de 10 000 $. L'épargne fiscale pour un sociétaire ayant investi 10 000 $ est indiquée au montant de 7 795 $ et pour un « Designated Partner » , 5 010 $. La note 3 du document explique ainsi le calcul relatif au « designated partner » :
+(3) In the case where the Partner is considered for tax purposes as a Designated Partner, he could not claim either the federal provincial Tax Credits. However, the federal tax deduction would be higher by not being reduced by the provincial Tax Credit.
+[21] Le plan d'affaires (pièce R-3) avait été envoyé à Revenu Canada pour obtenir un numéro d'abri fiscal qui a été obtenu.
+[22] La pièce R-4 est la « Contribution Form » de monsieur Arbic au montant de 20 000 $ et est en date du 2 septembre 1992.
+[23] Le contrat de service entre la Société et Consuform a été déposé comme pièce R-6. Le coût est limité à 124 460 $, soit le total des montants investis.
+[24] Le livre des minutes de la Société a été déposé comme pièce R-7. L'adresse de la place d'affaires est changée à 115, 8ième Avenue, Laval, Québec, soit l'adresse de la résidence de monsieur Hallé.
+[25] Monsieur Arbic relate que lors de l'investissement des sociétaires dans D-Drive, chacun a signé un chèque de la moitié du montant investi au nom de la Société. Monsieur Arbic prêtait l'autre moitié à la société pour le sociétaire qui signait un billet à terme. Ce billet ou ces billets ont été déposés comme pièce R-9.
+[26] La formulation de ces billets est identique pour tous les investisseurs. Il n'y a pas de billet pour l'appelant Arbic. Dans le cas de l'appelant Ouellet, ce billet se lisait comme suit :
+Billet à terme / Term Note
+Taux/Rate = 6%/annum montant/amount $ 5000 $
+I, the undersigned, hereby secure my loan from Bryan Arbic by ceding all my intellectual or other proprietary rights of my Interests in "D-DRIVE SOCIETY REG'D" if the said loan is not repaid by 30 June 1993.
+Je, soussigné, donne en garantie pour le prêt consenti par Bryan Arbic tous les droits de propriété, intellectuels ou autres, de mon intérêt dans la Société D-DRIVE Enr. advenant le défaut de remboursement du dit prêt le 30 juin 1993.
+date
+(signature)
+(signé/signed)
+Nom/Name M. Ouellet
+Tél: ( )
+Adresse/address
+[27] Au 30 juin 1993, personne n'avait remboursé le prêt, parce que selon monsieur Arbic, au 30 juin 1993, « nous savions que le projet n'avait pas réussi » , bien qu'ils aient souhaité que le projet réussisse.
+[28] Chaque sociétaire a signé des options d'achat identiques en faveur de Consuform Inc. Ces options d'achat ont été déposées comme pièce R-10.
+[29] L'option d'achat se lisait comme suit dans le cas de l'appelant Ouellet :
+PURCHASE OPTION
+The OPTIONOR, MICHEL OUELLET hereby grants to Consuform Inc., the OPTIONEE, an irrevocable option to purchase all rights, titles and interest in the research and development program in which the OPTIONOR has participated as a Partner of the D-DRIVE SOCIETY REG'D, (the "Interests"), for the exact sum of cinq mille ($5000).
+The purchase of the Interests includes the research reports, the developed technology and the conceived product prototypes, particularly all intellectual proprietary rights of the Partnership Interest. The option may be exercised by the OPTIONEE on or after the 15th of July 1993.
+(signature)
+Consuform Inc. (OPTIONEE)
+by Mr. Bryan Arbic, President
+I, the undersigned, declare this purchase option to be satisfactory and hereby accept such option. I confirm having received a duly signed copy of this option.
+date
+(signature)
+Partner (OPTIONOR)
+[30] Une telle option a également été complétée pour monsieur Arbic.
+[31] Monsieur Arbic confirme que la Société n'a pas eu de revenu en 1992 ni en 1993 et n'a eu aucun client. La Société a été dissoute le 31 décembre 1993.
+[32] Consuform a reçu des factures aux montants approximatifs de 20 000 $ de la part de monsieur Arbic (pièce R-13), de 10 000 $ de la part de monsieur Hallé (pièce R-14), de 3 000 $ de monsieur Ronald Loignon (pièce R-15) et de 16 000 $ de monsieur Michel Ouellet (pièce R-16). Du 63 000 $ réellement investi par les sociétaires, (car du total de 127 000 $, la moitié venait de prêts faits par monsieur Arbic aux sociétaires), presque le tout a été payé à messieurs Arbic, Hallé, Loignon et Ouellet.
+[33] Monsieur Michel Ouellet est un ingénieur. L'appelant a admis les alinéas 7a) à 7f). En ce qui concerne l'énoncé de l'alinéa 7g), il dit qu'il ne sait pas si monsieur Arbic était le président et actionnaire de la compagnie Consuform.
+[34] Au départ, il voulait simplement investir 5 000 $. Monsieur Arbic lui a mentionné qu'il avait une possibilité d'investir 10 000 $. On lui avait expliqué que s'il investissait 10 000 $, qu'il pourrait réclamer une perte ainsi qu'un crédit d'impôt à l'investissement. Il aurait fait son investissement le 22 décembre 1992 selon ses propres documents bancaires déposés comme pièce R-18. Il aurait investi 5 000 $ et emprunté l'autre 5 000 $ de M. Arbic.
+[35] À une question de l'avocat de l'intimée, il répond qu'il n'a pas rencontré tous les participants à la Société. Les liens qu'il a eus avec les autres investisseurs étaient par l'intermédiaire de M. Arbic qui servait, ni plus ni moins, de boîte téléphonique entre tout le monde.
+[36] Le témoin relate qu'il avait déjà travaillé bénévolement pour Consuform, peut-être, en 1991. Il travaille à Hydro Québec à plein temps depuis 1987. C'était le soir ou les fins de semaine qu'il travaillait pour d'autres sociétés. Malgré tout, c'est lui qui s'est occupé du plan de développement du projet pour Consuform.
+[37] Il est surpris de voir que monsieur Frasson, qui est le témoin expert du Ministre, n'ait consulté que l'Annexe C ou le plan d'affaires. Il est vrai qu'il n'y avait pas d'autres documents mais il aurait souhaité que monsieur Frasson lui parle en tant qu'expert en haute technologie.
+[38] Monsieur Arbic s'occupait du côté administratif, lui, de la partie technique.
+[39] La pièce R-16 est une facture présentée par monsieur Michel Ouellet à Consuform Inc. en date du 22 décembre 1992, date qui a été corrigée de façon manuscrite pour indiquer le 1er décembre 1992 et au montant de 11 128 $ et une autre en date du 31 décembre 1992 qui a été changée de façon manuscrite au 29 décembre 1992 au montant de 5 564 $. Le travail décrit consistait en majeure partie à des rencontres avec certaines personnes.
+Les témoins du Ministre
+[40] Monsieur Georges Darsaklis est vérificateur pour Revenu Canada. La vérification de la Société s'est faite en 1994. Il a déposé comme pièce R-22 un cahier de documents. Il prend l'exemple d'un investisseur dont je n'indique que les initiales, soit S.M. Ce dernier a investi 10 000 $. À l'onglet 1 de la pièce R-22, on voit un chèque fait par S.M. en date du 6 novembre 1992, au montant de 5 000 $, à l'ordre de D-Drive Society Reg'd. À la même date, selon la pièce R-9, il signe un billet à terme pour le prêt consenti par Bryan Arbic. Selon la pièce R-10, l'option d'achat donné par S.M est en date du 6 novembre 1992. Elle est au montant de 5 000 $. Les trois documents ont été faits la même journée.
+[41] Comme vérificateur, il a tiré la conclusion qu'une société c'est une association de personnes qui veulent faire des affaires avec des buts de gagner un revenu. Dans des circonstances où un membre d'une société, le même jour où il devient membre, abandonne tous les droits qu'il a dans la société, le vérificateur ne voit pas comment cette personne peut gagner un revenu de cette société. Le rachat se fait à 5 000 $, mais c'est la totalité des parts qui est rachetée. La société Consuform Inc. va payer 5 000 $ pour l'ensemble des parts, qui elles théoriquement valent 10 000 $.
+[42] Le vérificateur présente un tableau du financement de la Société comme pièce R-23. Dans le cas d'un montant présumément investi de 20 000 $, l'investisseur fait un chèque de 10 000 $ à la société de personnes D-Drive. La Société fait un chèque pour la société Consuform de 10 000 $. Consuform fait un chèque de 10 000 $ ou il y a un retrait en faveur de monsieur Arbic. Le même jour, monsieur Arbic le redépose dans la Société, ce qui permet d'avoir une entrée de fonds de 20 000 $ dans les livres.
+[43] Le vérificateur produit un tableau établi à partir des inscriptions dans les livres de la Société et de Consuform comme pièce R-24. Ce document montre les entrées des montants investis et les sorties par prêt. Ce document montre également que Monsieur Arbic n'a lui aussi apporté que 10 000 $ dans la Société.
+[44] Monsieur Serge Huppé, chef d'équipe à l'assurance de la qualité et de la revue à la Direction générale des appels à Ottawa, a témoigné. Il dépose un cahier de documents comme pièce R-27. Il a été impliqué dans les dossiers de recherche et développement scientifique à l'automne 1993. Les investisseurs avaient commencé à recevoir leurs avis de nouvelle cotisation. Ils avaient produit des avis d'opposition et en même temps, ils faisaient des démarches politiques en envoyant des lettres à leurs députés ainsi qu'au ministre du Revenu national, au ministre des Finances et au premier ministre du Canada. En tant qu'agent des appels à l'administration centrale, c'était son rôle de préparer des ébauches de réponses pour les différents députés qui avaient reçu des lettres de leurs commettants.
+[45] Une association des contribuables a été formée par les différents investisseurs. Le comité exécutif de cette association, ainsi que leur avocat, avaient sollicité une rencontre avec le Ministre. Le Ministre a délégué le sous-ministre du Revenu national à cette rencontre qui eut lieu le 15 mars 1995. Y participaient également le sous-ministre adjoint des appels, le sous-ministre adjoint de la politique et de la législation ainsi que le superviseur du témoin. Les autorités fiscales fédérales ont constitué un groupe de travail et un groupe d'étude, composés de fonctionnaires de Revenu Canada, pour les éclairer sur le litige et proposer des solutions acceptables.
+[46] Il y avait environ 176 sociétés en nom collectif et près de 8 000 investisseurs.
+[47] Le 30 juin 1995, un projet de règlement a été offert aux investisseurs dans les abris fiscaux de recherche scientifique. Le règlement offrait aux investisseurs une perte de nature courante lors de la disposition de la participation dans leur société. Il y avait possibilité d'annulation des intérêts, à l'exception de celui qui avait été un promoteur. Par contre, l'investisseur acceptait qu'il n'avait droit à aucune perte d'entreprise pour la société de personnes, ni de crédit d'impôt à l'investissement. Par exemple, une personne qui a souscrit un investissement de 10 000 $ dans l'année 1992, dispose de ses parts en 1993 pour 5 000 $, alors il aurait droit à une perte d'entreprise de 5 000 $ en déduction pour l'année 1993, et il y avait annulation des intérêts. La société de personnes devait avoir un numéro d'abri fiscal et il devait y avoir eu un rachat de la participation dans la société dans une année subséquente à l'année d'investissement.
+[48] À l'onglet 1 de la pièce R-27, se trouve une lettre type en date du 23 novembre 1995 qui était envoyée aux contribuables qui avaient investi dans des sociétés en noms collectifs, utilisées comme abris fiscaux de recherche scientifique et qui n'avaient pas encore accepté le règlement proposé le 30 juin 1995. Cette lettre proposait le même règlement.
+[49] À l'onglet 3 de la pièce R-27, il y a un document montrant que cette lettre a été envoyée à monsieur Arbic le 23 novembre 1995, et à l'onglet 4, à monsieur Michel Ouellet.
+[50] Monsieur Huppé explique que les appelants ont été considérés comme des associés commanditaires parce que le risque relié à leur investissement était limité.
+[51] Le risque était limité au sens qu'il ne pouvait perdre que la moitié de l'investissement. L'offre de rachat aussi était un avantage puisque la Société n'avait plus aucun actif quand le contrat de recherche a été donné.
+[52] Ils auraient pu être considérés comme des associés passifs. Ils ne participaient pas activement dans les activités de l'entreprise de la société de façon régulière, continue et importante. Cela se limitait à avoir accepté qu'un document ait été signé pour confier la recherche à une corporation de recherche et développement.
+[53] Il explique qu'un associé commanditaire n'a droit à aucune perte d'entreprise ni à un crédit d'impôt. L'associé déterminé qui n'est pas commanditaire, (en d'autres termes l'associé passif), a droit à la perte d'entreprise mais n'a pas droit au crédit d'impôt à l'investissement. Il se réfère au document inclus à l'onglet 1 de la pièce R-27, « Sociétés en nom collectif utilisées comme abris fiscaux de recherche scientifique. Questions et réponses » .
+[54] Le témoin relate que 85 p. 100 des gens ont accepté le règlement. Les intérêts étaient annulés jusqu'à la date de la cotisation donnant effet au règlement. Pour la Société, il y avait dix sociétaires. Sept ont accepté le règlement.
+[55] Au mois d'août 1996, 600 contribuables au lieu d'accepter le règlement ont produit un avis d'appel à la Cour. En mars 1997, une cause a été choisie de concert avec l'avocat de ces appelants. Il s'agissait de faits similaires à celles en litige. Le jugement a été rendu le 12 mars 2001. L'avocat s'est retiré du dossier à l'automne 2001.
+[56] Monsieur Claude Frasson est professeur d'informatique à la Faculté des Arts et des sciences de l'Université de Montréal. Parmi ses diverses occupations, il est directeur du laboratoire de recherche Héron de la même faculté et est directeur d'un groupe de recherche regroupant sept universités et composé de 75 chercheurs.
+[57] Le mandat de l'expert dont les services sont retenus par le Ministre est d'examiner les documents relatifs à la recherche qui sont soumis par le contribuable. Le contribuable a le devoir de fournir les documents qui appuient leur recherche. Il a pris connaissance pour son évaluation du plan d'affaire et d'un document intitulé : « Research Report D-Drive Society Reg'D, 31 December 1992 » . Ce document de deux pages a été déposé comme pièce R-28 et montre que les éléments d'incertitude sont les mêmes que ceux qui avaient été posés au départ. Le document mentionne qu'il ne fut pas possible de les résoudre par manque de ressources financières. Toutefois, il n'y a pas eu au départ la description des hypothèses de base et des méthodes pertinentes à la recherche ainsi que l'établissement d'un budget adéquat. En fait, il n'y a eu aucun rapport de données résultant d'une recherche quelconque. Il n'y a eu aucune hypothèse de base, aucun résultat, aucune démonstration d'états intermédiaires montrant qu'il y a eu effectivement du travail, somme toute, aucun document scientifique. Le rapport de l'expert a été déposé comme pièce R-29.
+Plaidoirie
+[58] L'avocat de l'intimée se réfère en premier lieu à l'article 96 de la Loi qui énonce les règles générales du traitement fiscal du revenu d'une société. Selon cet article le revenu d'une société est d'abord calculé comme si la société était une personne. Par la suite, les revenus ou les pertes sont distribués au pro rata des participations des sociétaires. Quant à la perte du contribuable, il faut se référer à l'alinéa 96(1)g) de la Loi.
+[59] L'avocat fait valoir que toutefois pour l'application de l'article 96, il faut au départ qu'il y ait une société et que cette société exerce une entreprise.
+[60] L'avocat fait noter que pour les fins des déductions au titre des recherches scientifiques et de développement expérimental prévues à l'article 37 de la Loi, la société doit exploiter une entreprise et la recherche doit avoir un rapport avec l'entreprise de la société.
+[61] Il se réfère à l'article 1830 du Code civil du Bas Canada qui était d'application pour l'année 1992 :
+Art. 1830. Il est de l'essence du contrat de société qu'elle soit pour le bénéfice commun des associés et que chacun d'eux y contribue en y apportant des biens, son crédit, son habileté ou son industrie.
+[62] Il cite une décision de la Cour du Banc du Roi, Bourboin c. Savard, (1926) B.R. 68, sous la plume du juge Rivard, aux pages 70 et 71 :
+Trois éléments sont essentiels au contrat de société : 1o - la poursuite d'un but commun consistant dans la réalisation d'un bénéfice; 2o - la constitution d'un fonds commun par les apports que chacun y fait de ses biens, de son crédit, de son habileté ou de son industrie; et 3o - la participation dans les profits, ce qui entraîne l'obligation de partager dans les pertes, sauf convention contraire.
+Ces trois éléments comportent qu'il doit y avoir chez les deux parties l'intention, juridiquement prouvée, de poursuivre en commun, à l'aide des apports de tous, la réalisation d'un bénéfice; en d'autres termes, pour qu'il y ait société, il faut à défaut de contrat exprès, que les faits fassent apparaître clairement, chez l'un et l'autre des prétendus associés, l'intention de former un contrat de société et non pas tel ou tel autre contrat qui peut présenter avec la société plus ou moins d'analogie (1). C'est à cela que revient ce que les auteurs ont appelé affectio societatis.
+[63] L'avocat de l'intimée s'est aussi référé à la décision de la Cour suprême du Canada dans Backman c. Canada, [2001] 1 R.C.S. 367, aux passages suivants :
+14 Comme nous l'avons souligné au départ, l'issue du présent pourvoi dépend de l'application des principes du droit relatif aux sociétés de personnes. La principale question en litige consiste à déterminer si l'appelant était membre d'une société de personnes valable et pouvait en conséquence déduire de son revenu les pertes de la société conformément à l'art. 96 de la Loi. ...
+...
+25 Conformément à l'observation suivante, énoncée dans Lindley & Banks on Partnership, op. cit., p. 73, et adoptée dans Continental Bank, précité, par. 23 : [TRADUCTION] « pour déterminer l'existence d'une société en nom collectif [...] il faut tenir compte du contrat et de l'intention véritables des parties ressortant de l'ensemble des faits de l'affaire » . En d'autres termes, pour statuer sur l'existence d'une société de personnes, les tribunaux doivent se demander si la preuve documentaire objective et les circonstances de l'affaire, notamment les actes concrets des parties, sont compatibles avec l'existence d'une intention subjective d'exploiter une entreprise en commun dans le but de réaliser un bénéfice.
+[64] L'avocat fait valoir que l'affaire McKeown (supra) est semblable à celle en litige en ce sens qu'il y avait une société qui avait été créée, qui confiait un mandat de recherche à une corporation et que l'argent investi dans la société allait dans un contrat de recherche. Il s'est référé notamment aux paragraphes 389, 390, 392, 393 et 395 :
+389 Il n'est pas contesté que la qualification que les parties elles-mêmes donnent à une convention n'est pas décisive. Il faut s'assurer si dans les faits les parties à la convention se sont ici comportées comme s'il s'agissait d'une société.
+390 Le tribunal est donc tenu d'examiner la preuve dans le but de s'enquérir si les parties avaient réellement l'intention de former une société.
+...
+392 En outre, malgré qu'ils recevaient des millions de dollars des investisseurs, les groupements en question et leurs membres dans l'ensemble ne se préoccupaient pas réellement de l'avancement des travaux ni des résultats atteints. Les membres de ces groupements ne contrôlaient pas, même d'une façon générale, la marche des travaux de recherche poursuivis par Omzar Technologies Inc. Les membres de ces groupements, y compris l'appelant, n'ont participé à la prise d'aucune décision relative aux activités de ces groupements. Ils n'étaient pas mêlés aux différentes étapes relatives aux travaux de recherche. Les investisseurs ne faisaient que suivre les instructions d'Omzar Technologies Inc. Ces groupements comme tels étaient totalement inactifs.
+393 De la preuve, je conclus que les investisseurs en cause ne recherchaient que l'obtention d'avantages fiscaux importants et qu'ils n'ont jamais manifesté l'intention de travailler en commun à la poursuite d'activités de recherche scientifique et de développement expérimental. Bref, ils n'avaient pas l'intention de constituer une véritable société.
+...
+395 Dans la présente cause, il n'y a eu aucune démarche ou demande quelconque pour s'assurer de la rentabilité du projet. Je ne peux déceler aucun indice laissant entrevoir une possibilité de rentabilité dans le cas de ces groupements. Aucune étude du marché n'avait été faite. Aucun plan de commercialisation n'avait été mis sur pied. De plus, la structure mise en place a été montée uniquement à des fins fiscales, comme l'a d'ailleurs démontré le « Programme de participation » créé uniquement pour donner l'illusion de répondre aux critères du gouvernement.
+[65] L'avocat de l'intimée fait valoir que similairement à l'analyse des faits faite par le juge Garon dans la cause ci-dessus, l'analyse des faits dans la présente cause nous amène à la conclusion que les parties n'avaient pas l'intention subjective de former une société. Ils n'ont jamais manifesté l'intention de travailler en commun à la poursuite d'activités de recherche scientifique et de développement expérimental. Les investisseurs en cause ne recherchaient que les avantages fiscaux. Il n'y a pas eu d'autre action. L'avocat soumet donc qu'il n'y avait pas de société.
+[66] Au cas où il y aurait une société, l'avocat s'attaque aux autres sujets pertinents. Il fait valoir que l'investisseur par le biais du billet à terme avait droit à un avantage tel que décrit au sous-alinéa 96(2.2)d)(iv). Donc, la fraction à risque de l'investisseur était non-existante.
+[67] Il constate que l'appelant, Bryan Arbic n'avait pas signé le billet à terme. Quant à lui, ce serait uniquement le « Purchase Option » qui pourrait être exercé. Selon l'avocat, l'appelant Arbic est un associé commanditaire car il sait d'avance que sa responsabilité sera restreinte à l'égard des pertes.
+[68] Il explique qu'un associé commanditaire n'a droit à aucune perte relative aux dépenses de recherche scientifique et de développement expérimental par le jeu de l'alinéa 96(1)g) car le montant déduit par la Société en application de l'article 37 sont des dépenses de cette nature.
+[69] L'associé déterminé (qui inclut l'associé commanditaire selon la définition figurant au paragraphe 248(1) de la Loi) n'a pas droit au crédit d'impôt à l'investissement en vertu du paragraphe 127(8) de la Loi. Ceci par le jeu de la définition de « crédit d'impôt à l'investissement d'un associé » et « crédit d'impôt à l'investissement » . En prenant pour acquis qu'il y a eu réellement de la recherche scientifique et du développement expérimental, si l'associé est un associé déterminé, pour calculer le crédit d'impôt à l'investissement auquel il pourrait avoir droit, on ne doit pas tenir compte des dépenses admissibles réclamées en vertu de l'article 37.
+[70] L'avocate de l'intimée fait valoir que non seulement les appelants étaient des associés commanditaires, ils étaient aussi des associés passifs. Il n'y a aucune preuve que les appelants participaient à une quelconque activité ou entreprise de la Société de façon continue. Il n'y a aucun indice d'entreprise au niveau de la Société. Le fait d'accorder un certain contrat de recherche à Consuform ne rend pas les appelants actifs au niveau de la Société.
+[71] De plus, selon l'avocate, il est à noter que les deux appelants ont fait des travaux pour Consuform, mais ils les ont fait dans l'exercice de leurs entreprises personnelles. C'est à ce titre que les appelants ont facturé Consuform et c'est à ce titre qu'ils ont été payés.
+[72] De plus, les travaux doivent avoir été qualifiés au niveau des recherches scientifiques et de développement expérimental au sens de l'article 2900 du Règlement. L'expert a clairement démontré que ces travaux ne rencontraient pas les critères de la Loi.
+[73] L'appelant Arbic, pour sa part, a fait valoir qu'il était actif dans la société. Il soutient que D-Drive existe toujours et qu'elle a toujours quelque valeur. Il fait valoir que les options n'ont jamais été exercées. Donc, il y a toujours quelque valeur dans D-Drive. Il se réfère à la décision de la Cour suprême du Canada dans Stewart c. Canada, [2002] 2 R.C.S. 645 et fait valoir que cette décision a mis de côté la notion d'expectative raisonnable de profit quand il n'y a pas d'intérêt personnel. Il se réfère aussi à la décision de la Cour suprême du Canada dans Singleton c. Canada, [2001] 2 R.C.S. 1046. Il fait valoir que les prêts tels que faits par Consuform aux investisseurs étaient en conformité avec la Loi car il s'agissait d'opérations distinctes.
+[74] Monsieur Arbic suggère aussi que le témoin expert, ou que l'expert, aurait dû venir le rencontrer en 1992 et le guider à l'égard de son projet.
+[75] Monsieur Ouellet, quant à lui ajoute, qu'il y a eu beaucoup de réunions concernant la Société.
+Analyse et conclusion
+[76] Bien que le témoin du Ministre ait mentionné que l'appelant Arbic ait été cotisé à titre d'associé commanditaire, à l'onglet 11 de la pièce R-27 paraissent les raisons données dans la ratification de la cotisation :
+We have considered your objection for the year shown above, pursuant to subsection 165(3) of the "Income Tax Act".
+As a result, we hereby confirm that the assessment has been made in accordance with the provisions of the "Income Tax Act" on the basis that:
+The amount claimed for a business loss has been disallowed as a deduction in the calculation of your income pursuant to paragraph 18(1)(a) and subsection 37(1) of the Income Tax Act. This amount does not constitute a loss resulting from a business operating with a reasonable expectation of profit.
+It has not been shown that the investment tax credit were deductible pursuant to section 127 of the Income Tax Act.
+[77] Il m'était difficile de comprendre lors de l'audience pourquoi l'appelant Bryan Arbic se référait à la décision de la Cour suprême dans Stewart, ci-dessus, car l'expectative raisonnable de profit n'était nullement mentionnée dans les motifs de droit de la Réponse à l'avis d'appel. Je crois qu'il est utile pour le bon déroulement d'une audience que la Cour soit informée de ces différents points.
+[78] Je comprends que la décision Stewart a été rendue le 23 mai 2002 et que la Réponse a été signée le 22 août 2002. Bien que, lorsque les motifs d'une réponse soient autres que ceux de la cotisation, cela peut avoir un effet sur le fardeau de la preuve, ici je considère que la preuve a de toute façon été faite par l'intimée. Il est à noter à cet égard que les appelants n'ont produit aucun document.
+[79] L'appelant Arbic, dans ses notes préliminaires écrites, a manifesté de l'indignation parce que l'avocate de l'intimée lui avait indiqué le délai procédural prescrit relativement à la production d'un rapport d'un témoin expert. Il n'a pas fait la demande de faire témoigner un témoin expert lors de l'audience. J'aurais pu considérer cette demande. De toute façon, l'expert du Ministre avait tenu compte des deux documents existants relatifs à la recherche projetée.
+[80] Le même appelant s'est aussi objecté à la longue période de temps écoulé entre l'année en litige et l'année de l'audition de son appel. La preuve a révélé que les appelants ont été cotisés à nouveau dans la période normale de cotisation. Dans ma décision rendue le 3 octobre 2003 sur une requête préliminaire dans Normand Lassonde et La Reine, [2003] A.C.I. no 560 (Q.L.), j'ai trouvé qu'il n'y avait pas motif d'annuler la cotisation pour le laps de temps écoulé entre l'année d'imposition en cause et l'année de l'audition de l'appel relativement à cette cotisation. Cette décision est en appel devant la Cour d'appel fédérale. Pour les fins du présent appel, je m'en tiens à cette décision. Je ne vois pas ici non plus de motifs en fait et en droit pour annuler la présente cotisation.
+[81] En ce qui concerne l'application de la décision de la Cour suprême du Canada dans l'affaire Singleton, il n'y a pas vraiment de nécessité de trancher vu les conclusions auxquelles j'arriverai. Toutefois, je dirai que dans l'affaire Singleton la question qui se posait était de savoir si l'argent emprunté l'avait été pour fins d'affaires ou pour fins personnelles, par des opérations distinctes. Ici, il s'agit de se demander si les associés ont véritablement emprunté la moitié du montant investi vu qu'il n'y avait pas d'obligation exécutoire de rembourser le prêt.
+[82] Je suis d'avis que la preuve a révélé que les faits pris en compte par le Ministre étaient exacts. De plus, je suis d'avis que selon mon analyse des faits, du droit applicable et de la jurisprudence, les arguments des avocats de l'intimée sont correctement fondés et je les adopte comme miens.
+[83] Y a t'il eu formation d'une véritable société? Je suis d'avis que les mêmes constatations qu'a faites le juge Garon dans la décision McKeown ci-dessus peuvent se faire aussi dans la présente affaire. Je ne vois aucune manifestation d'une intention de travailler en commun de la part des investisseurs, incluant les appelants. Il n'y a eu aucune discussion sur la façon de gérer la Société et quelles seraient ses activités. Les membres de la Société n'étaient que des investisseurs qui se sont comportés comme tels et n'ont d'aucune manière participé à la vie de celle-ci. Les appelants Arbic et Ouellet, surtout monsieur Arbic, avaient tout décidé à l'avance. Bien que monsieur Arbic ait nié ce fait, la preuve a révélé clairement que tout avait été décidé d'avance et qu'il s'agissait d'un plan d'investissement pour fins d'économies fiscales prenant la forme d'une société, mais d'une société qui n'était pas de la nature d'une société.
+[84] En me fondant sur la décision Backman, ci-dessus, je conclus que la preuve documentaire et les circonstances de l'affaire, notamment les actes des parties, ne sont pas compatibles avec l'intention subjective d'exploiter une entreprise en commun dans le but de réaliser un bénéfice.
+[85] Regardons tout de même les dispositions législatives concernant les notions d'associés commanditaires. Les alinéas 96(1)a) et g) de la Loi se lisent comme suit :
+96(1) Règles générales - Lorsqu'un contribuable est membre d'une société, son revenu, le montant de sa perte autre qu'une perte en capital, de sa perte en capital nette, de sa perte agricole restreinte et de sa perte agricole, s'il y en a, pour une année d'imposition, ou son revenu imposable gagné au Canada pour une année d'imposition, selon le cas, est calculé comme si
+a) la société était une personnes distincte résidant au Canada;
+...
+g) la perte du contribuable - à concurrence de la part dont il est tenu - résultant d'une source ou de sources situées dans un endroit donné, pour l'année d'imposition du contribuable dans laquelle l'année d'imposition de la société se termine, équivalait à l'excédent éventuel :
+(i) de la perte de la société, pour une année d'imposition, résultant de cette source ou de ces sources,
+sur :
+(ii) dans le cas d'un associé déterminé (au sens de la définition d' « associé déterminé » figurant au paragraphe 248(1), mais sans tenir compte de l'alinéa b) de celle-ci) de la société dans l'année, le montant éventuellement déduit par la société en application de l'article 37 dans le calcul de son revenu pour l'année d'imposition provenant de cette source ou de ces sources,
+(iii) dans les autres cas, zéro.
+[86] La définition d' « associé déterminé » se définit ainsi au paragraphe 248(1) de la Loi :
+« associé déterminé » s'entend dans un exercice financier ou une année d'imposition, selon le cas, d'une société, de tout associé qui :
+a) soit est commanditaire ou assimilé de la société, au sens du paragraphe 96(2.4), à un moment de l'exercice ou de l'année,
+b) soit, de façon régulière, continue et importante tout au long de la partie de l'exercice ou de l'année où la société exploite habituellement son entreprise :
+(i) ne prend pas une part active dans les activités de la société, sauf dans celles qui ont trait au financement de l'entreprise de la société, ou
+(ii) n'exploite pas une entreprise semblable à celle que la société exploitait au cours de l'exercice ou de l'année, sauf à titre d'associé d'une société;
+[87] L'alinéa 96(1)g)ii) ne s'applique pas à l'associé passif mais il s'applique à l'associé commanditaire. Dans ce cas, l'effet des deux dispositions est qu'un associé commanditaire ne peut déduire les montants déduits par la société relativement aux dépenses de recherche scientifique et développement expérimental.
+[88] Si la Société était une véritable société, les appelants étaient-ils des associés commanditaires?
+[89] Cette notion est définie au paragraphe 96(2.4) de la Loi :
+Commanditaire ou assimilé. Pour l'application du présent article et des articles 111 et 127, le contribuable qui est, à un moment donné, associé commanditaire d'une société en commandite ou associé d'une autre société de personnes est commanditaire ou assimilé de cette société si son intérêt dans celle-ci n'est pas, à cette date, un intérêt exonéré au sens du paragraphe (2.5) et si, à cette date ou dans les trois ans suivants,
+a) sa responsabilité comme associé est limitée par la loi qui régit le contrat de société;
+b) le contribuable ou une personne avec qui il a un lien de dépendance a le droit de recevoir un montant ou avantage visé à l'alinéa (2.2)d) abstraction faite des sous-alinéas (2.2)d)(ii) et (vi);
+c) il est raisonnable de considérer que le contribuable qui a l'intérêt en question existe, entre autres :
+(i) pour limiter la responsabilité d'une autre personne, liée à cet intérêt, et
+(ii) non pour permettre à une personne qui a un intérêt chez le contribuable d'exploiter son entreprise - à l'exclusion d'une entreprise de placements - de la manière la plus efficace; ou
+d) il existe une convention ou un autre mécanisme prévoyant la disposition d'un intérêt dans la société et dont il est raisonnable de considérer qu'un des principaux objets consiste à tenter de soustraire le contribuable à l'application du présent paragraphe.
+[90] Les avocats ont proposé que les appelants étaient commanditaires en vertu de l'alinéa 96(2.4)b) de la définition ci-dessus qui incorpore l'alinéa 96(2.2)d) qui se lit comme suit :
+Fraction à risques d'un intérêt dans une société. Pour l'application du présent article et des articles 111 et 127, la fraction à risques de l'intérêt d'un contribuable dans une société dont il est commanditaire ou assimilé à une date donnée correspond à l'excédent éventuel du total :
+...
+d) le montant ou l'avantage que le contribuable ou une personne avec qui il a un lien de dépendance a le droit, immédiat ou futur et conditionnel ou non, de recevoir - sous forme de remboursement, compensation, garantie de recettes, produit de disposition ou autre - et qui est accordé en vue de supprimer ou réduire l'effet d'une perte dont le contribuable serait tenu en tant qu'associé de la société ou du fait qu'il a un intérêt dans la société ou qu'il en dispose, sauf si le montant ou l'avantage est inclus en application du sous-alinéa 66.1(6)b)(ix), 66.2(5)b)(xi) ou 66.4(5)b)(viii) relativement au contribuable ou si ce droit résulte :
+(i) d'un contrat d'assurance avec une compagnie d'assurance qui n'a de lien de dépendance avec aucun associé de la société, et par lequel le contribuable est assuré contre toute réclamation pouvant découler d'une obligation dans le cours normal des activités de l'entreprise de la société,
+(ii) d'une garantie de recettes visée par règlement relative à une production cinématographique visée par règlement,
+(iii) du décès du contribuable,
+(iv) d'une convention permettant au contribuable de disposer de son intérêt dans la société pour un montant qui ne dépasse pas sa juste valeur marchande - déterminée indépendamment de la convention - à la date de la disposition,
+(v) d'une garantie de recettes ou autre convention par laquelle les recettes brutes sont gagnées par la société, sauf dans la mesure où il est raisonnable de considérer que cette garantie ou convention assure au contribuable ou à cette personne la réception d'un gain sur une partie de l'investissement du contribuable,
+(vi) d'un montant non compris dans la fraction à risques de l'intérêt du contribuable calculée sans tenir compte du présent alinéa, ou
+(vii) d'une obligation exclue, au sens du paragraphe 6202.1(5) du Règlement de l'impôt sur le revenu, relativement à l'action qu'une corporation émet à la société.
+Pour l'application du présent paragraphe : d'une part, il est entendu que le montant ou l'avantage auquel le contribuable a droit à une date donnée et qui est prévu par une convention ou un autre mécanisme par lesquels le contribuable a le droit absolu ou conditionnel - sauf par suite de son décès - d'acquérir un autre bien en échange de tout ou partie de son intérêt dans la société, doit être au moins égal à la valeur marchande de cet autre bien à cette date; d'autre part, il est entendu que le montant ou l'avantage auquel le contribuable a droit à une date donnée et qui est prévu par garantie ou sûreté ou par un dédommagement ou accord analogue sur un prêt ou sur une autre obligation du contribuable, par la société ou par une personne ou société avec qui la société a un lien de dépendance, doit être au moins égal au total du montant impayé du prêt ou de l'obligation à cette date et de tous autres montants non remboursés sur le prêt ou l'obligation à cette date.
+[91] Je crois qu'en effet par le jeu des billets à terme et des options d'achat, les associés n'engageaient rien de plus que leur apport. Ils étaient donc des associés commanditaires. En ce qui concerne la fraction à risque, encore là en fonction des billets à terme et des options d'achat, elle devenait non-existante.
+[92] Tel que mentionné précédemment, l'associé commanditaire n'a droit à aucune perte relative aux dépenses de recherche scientifique et de développement expérimental en vertu de l'alinéa 96(1)g). Il n'a pas droit non plus au crédit d'impôt à l'investissement en vertu du paragraphe 127(8) de la Loi.
+[93] De toute façon, pour avoir droit aux déductions des dépenses pour recherche scientifique et développement expérimental, ces dépenses doivent être admissibles. Je suis convaincue par le témoignage du témoin-expert que ces dépenses ne l'étaient pas, car elles n'étaient pas en conformité avec les exigences de l'article 2900 du Règlement.
+[94] Les appels sont rejetés parce que la Société n'était pas une société véritable au sens du droit applicable aux sociétés; s'il s'était agi d'une véritable société, dans les faits les appelants étaient des associés déterminés (notion qui inclut l'associé commanditaire et l'associé passif); et même, si les appelants avaient été des associés dans le plein sens du terme, les dépenses censément engagées pour
+fins de recherche scientifique et développement expérimental, n'étaient pas des dépenses admissibles.
+Signé à Ottawa, Canada, ce 22e jour d'avril, 2004.
+« Louise Lamarre Proulx »
+Juge Lamarre Proulx
+RÉFÉRENCE :
+2004CCI308
+Nos DES DOSSIERS DE LA COUR :
+2002-2897(IT)I et 2002-2530(IT)I
+INTITULÉS DES CAUSES :
+Michel Ouellet et Sa Majesté la Reine
+J. Bryan Arbic et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Montréal (Québec)
+DATE DE L'AUDIENCE :
+le 24 novembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'hon. juge Louise Lamarre Proulx
+DATE DU JUGEMENT :
+le 22 avril 2004
+COMPARUTIONS :
+Pour les appelants :
+les appelants eux-mêmes
+Pour l'intimée :
+Me Anne-Marie Boutin et
+Me Dany Leduc
+AVOCAT INSCRIT AU DOSSIER:
+Pour les appelants :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

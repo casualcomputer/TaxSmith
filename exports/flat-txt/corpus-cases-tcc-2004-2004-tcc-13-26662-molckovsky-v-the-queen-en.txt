@@ -1,0 +1,123 @@
+Title: Molckovsky v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26662/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-13-26662-molckovsky-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-01-12
+
+# Molckovsky v. The Queen
+
+- Citation: 2004 TCC 13
+- Decision date: 2004-01-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3604, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Molckovsky v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-01-12
+Neutral citation
+2004 TCC 13
+File numbers
+2003-1810(IT)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2003-1810(IT)I
+BETWEEN:
+BOHDAN MOLCKOVSKY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on December 18, 2003 at Toronto, Ontario
+Before: The Honourable Judge
+Appearances:
+Agent for the Appellant:
+Irene Molckovsky
+Counsel for the Respondent:
+J. Penney (Student-at-law)
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 1999 and 2000 taxation years is dismissed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 12th day of January 2004.
+"T. O'Connor"
+O'Connor, J.
+Citation: 2004TCC13
+Date: 20040112
+Docket: 2003-1810(IT)I
+BETWEEN:
+BOHDAN MOLCKOVSKY,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] This appeal was heard at Toronto, Ontario on December 18, 2003. Testimony was given by the Appellant and by his wife Irene.
+[2] The issue relates to expenses claimed by the Appellant, a family physician in the 1999 and 2000 taxation years.
+[3] Paragraphs 8 and 9 of the Reply to the Notice of Appeal read as follows:
+8. In reassessing the Appellant for the 1999 and 2000 taxation years, by concurrent Notices of Reassessment dated May 24, 2002, the Minister decreased professional expenses claimed by the Appellant in the amounts of $5,014 and $3,865, respectively, inclusive of:
+Taxation years 1999 2000
+a) Automobile expenses $4,482. $2,559.
+b) Advertising and promotion 532. -0-
+c) General expenses
+-0- 1,306.
+Total expenses disallowed $5,014. $3,865.
+9. The Appellant filed Notices of Objection dated June 26, 2002 against the reassessments dated May 24, 2002 for the 1999 and 2000 taxation years and in addition the Appellant requested a claim for work space in the home in the amount of $1,100 for both taxation years.
+[4] Also the Notice of Appeal states with respect to interest as follows:
+I feel that the arrears interest of $505.68 for the year 1999 and $165.37 for the year 2000, should be cancelled under the Fairness Legislation.
+[5] The Appellant, prior to or during the hearing of the appeal stated that he was now only contesting the disallowance of the claim for work space in the home of $1,100 in each of the years 1999 and 2000 and the assessment of interest.
+[6] As to interest I explained that this Court does not have jurisdiction to alter an amount of interest and advised the Appellant that if he wished to press that issue further he should apply to the Fairness Committee himself requesting a waiver or cancellation of interest. Counsel for the Respondent was requested to assist the Appellant in this procedure.
+[7] In connection with interest reference is made to subsection 220(3.1) of the Income Tax Act which gives the Minister of National Revenue a wide discretion to wage or cancel interest. Reference is also made to the judgment of Mogan, J. of this Court in Adamson v. Her Majesty the Queen, 2002 DTC 1540 at paragraphs 14 and 15 where Judge Mogan stated as follows
+[14] The Appellant seems to think that this Court can compel the Minister to exercise his/her discretion under subsection 220(3.1) in a particular way. This Court has no jurisdiction over the Minister in the proposed exercise of discretion under subsection 220(3.1). If the Appellant were to request a waiver of interest or penalties under subsection 220(3.1), and if the Minister were to refuse the request, the Appellant could commence a proceeding in the Federal Court to review the Minister's exercise of discretion with respect to procedural fairness or error of law but that proceeding would start after the Minister had actually exercised his/her discretion under subsection 220(3.1).
+[15] In his claim with respect to subsection 220(3.1), the Appellant is premature because he has not yet asked for relief from interest or penalties; and he is in the wrong Court. ...
+[8] With respect to the disallowance for expenses related to office space in the home the Appellant and his wife explained that the Appellant had his principal physician's office at Hurontario Street in Mississauga. They testified further that in their house which comprised two stories, a basement, living room, dining room and three bedrooms for a total of 3,000 square feet and included in that total was 140 square feet of office space and 160 square feet of storage space for medical records and other storage items. This total of space with respect to his practice was thus 300 square feet which is equal to 10% of the total area of 3,000 square feet in the home and consequently since the total house expenses were $11,000 in each year 10% of that, or $1,100, was claimed in each of the years 1999 and 2000.
+[9] Other evidence was presented as to how the office space was used to see patients and how it was equipped with a desk, space for filing, a computer and other normal office items and medical instruments. The computer was connected with the computer files at the hospital where the Appellant was an employee and where on average he treated approximately 16 patients. The majority of his practice was conducted at his primary office on Hurontario Street where he would have seen approximately 35 patients a day. At the home office he only received one patient a week generally and approximately seven telephone calls a week. The Appellant and his wife referred to the decision of Lamarre-Proulx T.C.J. in Vanka v. Her Majesty the Queen (2001) 4 C.T.C. 2832. In that decision which was favourable to the physician in that case there were certain elements of similarity to the situation of the Appellant. However on a close examination of the Vanka decision it is clear that the extent of the use of the space in home was significantly more than that of the Appellant. Thus the Vanka case is distinguishable. Doctor Vanka received an average of seven calls in the evening and Justice Lamarre-Proulx considered that a regular and continuous use of office space in the house. By contrast the Appellant received approximately one call per day at his home office.
+Analysis
+[10] The relevant provision of the Income Tax Act is section 18(12). It provides the following:
+(12) Work space in home - Notwithstanding any other provision of this Act, in computing an individual's income from a business for a taxation year,
+(a) no amount shall be deducted in respect of an otherwise deductible amount for any part (in this subsection referred to as the "work space") of a self-contained domestic establishment in which the individual resides, except to the extent that the work space is either
+(i) the individual's principal place of business, or
+(ii) used exclusively for the purpose of earning income from business and used on a regular and continuous basis for meeting clients, customers or patients of the individual in respect of the business:
+...
+[11] The Court has every sympathy for the Appellant and accepts his credibility and the credibility of his wife Irene. However based on all of the evidence both oral and written I conclude that the Appellant does not meet the stringent conditions of subparagraph 18(12)(a)(ii). The space in home is not used exclusively for the purpose of earning income nor used on a regular and continuous basis for meeting patients.
+[12] Regrettably, therefore, the appeal is dismissed. However I would recommend, given the Appellant's agreement not to contest several expenses and considering the fact that there definitely was office and warehouse space in the home for his physician operation, although not actually meeting the strict conditions of section 18(12), I nevertheless would recommend that if an application is made for a waiver of interest that the application be granted.
+Signed at Ottawa, Canada, this 12th day of January 2004.
+"T. O'Connor"
+O'Connor, J.
+CITATION:
+2004TCC13
+COURT FILE NO.:
+20031810(IT)I
+STYLE OF CAUSE:
+Bohdan Molckovsky and H.M.Q.
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+December 18, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice T. O'Connor
+DATE OF JUDGMENT:
+January 12, 2004
+APPEARANCES:
+Agent for the Appellant:
+Irene Molckovsky
+Counsel for the Respondent:
+J. Penney (Student-at-law)
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

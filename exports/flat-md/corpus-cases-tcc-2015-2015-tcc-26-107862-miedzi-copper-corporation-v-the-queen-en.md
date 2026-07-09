@@ -1,0 +1,180 @@
+---
+title: "Miedzi Copper Corporation v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/107862/index.do"
+last_modified: "2015-02-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2015 TCC 26"
+citation2: ""
+neutral_citation: "2015 TCC 26"
+decision_date: "2015-02-03"
+language: "en"
+item_id: "107862"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2742
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:31:43.487000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b6d75f04ea83b9513df1d3cecff9b819cea94eb882ef98024503f3959b9601e5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Miedzi Copper Corporation v. The Queen
+
+- Citation: 2015 TCC 26
+- Decision date: 2015-02-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2742, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Miedzi Copper Corporation v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2015-02-03
+Neutral citation
+2015 TCC 26
+File numbers
+2013-4274(GST)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2013-4274(GST)I
+BETWEEN:
+MIEDZI COPPER CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on May 6, 2014, at Vancouver, British Columbia
+Before: The Honourable Justice B. Paris
+Appearances:
+Counsel for the Appellant:
+Timothy W. Clarke
+Counsel for the Respondent:
+Zachary Froese
+JUDGMENT
+The appeal from the reassessments made under the Excise Tax Act, for the reporting periods ending March 31, 2011 through September 30, 2012 is allowed, without costs, on the basis that the appellant is entitled to additional ITCs of $47,909.07 for those periods.
+Signed at Vancouver, British Columbia this 3rd day of February 2015.
+“B.Paris”
+Paris J.
+Citation: 2015 TCC 26
+Date: 20150203
+Docket: 2013-4274(GST)I
+BETWEEN:
+MIEDZI COPPER CORPORATION,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] This is an appeal from a reassessment under Part IX of the Excise Tax Act (“ETA”) by which the Minister of National Revenue (“Minister”) disallowed $47,909.07 of input tax credits (ITCs) claimed by Miedzi Copper Corporation (“Miedzi”) for its reporting periods ending March 31, 2011 through September 30, 2012.
+[2] Miedzi is a holding company that carries on a mineral exploration business through a number of foreign subsidiaries. It owns all of the shares of a Luxembourg company which, in turn, holds all of the shares of six mineral exploration companies in Poland.
+[3] In the relevant periods, Miedzi claimed ITCs of $165,708.18 by virtue of subsections 186(1) and (3) of the ETA for HST that it paid on management, professional and geological services.
+[4] In the absence of subsection 186(1), a holding company would not be able to claim ITCs. Subsection 169(1) of the ETA requires that property or services on which tax giving rise to the ITC is paid be acquired for consumption use or supply in the course of commercial activities of the company, and holding shares of another company is not commercial activity as that term is defined in the ETA. However, where certain conditions are met, subsection 186(1) deems a holding company to be carrying on commercial activities, thereby allowing it to claim ITCs.
+[5] Subsection 186(3) allows for the application of subsection 186(1) to tiers of related corporations.
+[6] Subsections 186(1) and (3) read as follows:
+186.(1) Related corporations [ITCs for holding companies] — Where
+(a) a registrant (in this subsection referred to as the “parent”) that is a corporation resident in Canada at any time acquires, imports or brings into a participating province particular property or a service that can reasonably be regarded as having been so acquired, imported or brought into the province for consumption or use in relation to shares of the capital stock, or indebtedness, of another corporation that is at that time related to the parent, and
+(b) at the time that tax in respect of the acquisition, importation or bringing in becomes payable, or is paid without having become payable, by the parent, all or substantially all of the property of the other corporation is property that was last acquired or imported by the other corporation for consumption, use or supply by the other corporation exclusively in the course of its commercial activities,
+except where subsection (2) applies, for the purpose of determining an input tax credit of the parent, the parent is deemed to have acquired or imported the particular property or service or brought it into the participating province, as the case may be, for use in the course of commercial activities or the parent to the extent that the parent can reasonably be regarded as having so acquired or imported the particular property or service, or as having so brought it into the province, for consumption or use in relation to the shares or indebtedness.
+. . .
+(3) Shares, etc., held by corporation — Where at any time all or substantially all of the property of a particular corporation is property that was acquired or imported by it for consumption, use or supply exclusively in the course of its commercial activities, all shares of the capital stock of the particular corporation owned by, and all indebtedness of the particular corporation owed to, any other corporation that is related to the particular corporation shall, for the purposes of this section, be deemed to be, at that time, property that was acquired by the other corporation for use exclusively in the course of its commercial activities.
+[7] In this case, the only issue is whether the services acquired by Miedzi, in respect of which it claimed the disallowed ITCs, met the condition in subsection 186(1) that they could “reasonably be regarded as having been… acquired… for consumption or use in relation to the shares or indebtedness” of its Luxembourg subsidiary. The outcome of the case will depend on whether the phrase “in relation to” in subsection 186(1) is given a wide or narrow interpretation.
+Facts [8] The facts in this case are not in dispute. The CFO of Miedzi, Martin Rip, gave evidence and was the only witness at the hearing.
+[9] Miedzi is a GST registrant resident in Canada and headquartered in Vancouver. It carries on no other activity than holding the shares of Miedzi Copper Luxembourg S.à.r.l. (“Luxco”). Miedzi is the sole shareholder of Luxco.
+[10] Luxco owns all of the shares of six mineral exploration companies (the “Opcos”) resident in Poland. Luxco carries on no other activity. The Opcos hold mineral properties in Poland for use in mineral exploration and development, and have commenced exploration work on some of those properties.
+[11] Miedzi funded the operations of the Opcos by making loans to Luxco which Luxco would use to make loans to the Opcos. At the end of each year, the loans owing by Luxco to Miedzi would be converted into Mandatorily Redeemable Preference Shares (“MRPS”) of Luxco and given to Miedzi.
+[12] Miedzi raised the funds to make the loans to Luxco by undertaking a private placement. The placement consisted of two tranches of $50 million each. Mr. Rip estimated that, to the date of the hearing, Miedzi had funded approximately $29 million of exploration work carried out by or on behalf of the Opcos.
+[13] Miedzi had no employees or office premises of its own. All of its operations were carried out in Vancouver by individuals and certain consulting firms whose services were provided to Miedzi on a contract basis by Lumina Asset Management Inc. (“LAM” ) from LAM’s premises.
+[14] LAM billed Miedzi on the basis of time spent by the individuals providing services to Miedzi, and charged Miedzi for consulting services provided to Miedzi and for expenses incurred on Miedzi’s behalf.
+[15] Miedzi also incurred certain expenses on its own behalf, including:
+- legal fees incurred by Miedzi for its own incorporation, for the private placement, for corporate reporting and filing services, for advice relating to the HST issue in this appeal, for advice concerning a shareholder’s agreement, a stock option plan and related amendments to articles;
+- accounting fees incurred for the preparation of Canadian tax returns, for the audit of financial statements, for advice concerning Miedzi’s tax reporting obligations and advice relating to the HST audit;
+- miscellaneous cell phone, parking, meal and courier charges;
+- charge for web domain name registration; and
+- charges for hotel accommodation at the Prospector’s and Developer’s Association of Canada conference.
+[16] Miedzi claimed ITCs in respect of all HST it paid for the periods in issue on the basis that all of the services and property it acquired were for use or consumption in relation to the shares or indebtedness of Luxco.
+[17] The Minister disallowed a portion of the ITCs claimed in respect of the management services provided by LAM, as well as all of the ITCs claimed in respect of the items set out in paragraph 15.
+Appellant’s Position [18] The appellant maintains that Parliament intended subsection 186(1) to be applied as a look-through rule to allow a holding company to claim ITCs that the underlying corporation could have claimed if it incurred the costs of the services or property directly.
+[19] Counsel argues that the Opcos would have been able to claim ITCs for the management costs, legal and accounting fees and miscellaneous expenses had they been incurred directly by them and that Miedzi being able to claim the ITCs is precisely the purpose of subsection 186(1).
+[20] Counsel for the appellant submits that all of the services in issue were acquired for use in relation to the shares or debt of Luxco since the only activity that Miedzi was carrying on was holding the shares of or loaning money to the Luxembourg entity.
+[21] Subsection 186(1) in conjunction with subsection 186(3) treat Miedzi as if it were carrying on the commercial activities of the Opcos directly and enable it to claim the ITCs.
+[22] Counsel relied on the decision of this Court in Stantec Inc. v. Her Majesty the Queen, 2008 TCC 400 upheld on appeal, in which the appellant holding company was seeking ITCs in respect of services associated with listing its own shares on the New York Stock Exchange. The listing was required as part of the appellant’s acquisition of the shares of an unrelated company which it intended to merge with one of its wholly owned subsidiaries. The appellant argued that the stock listing services were acquired in relation to the shares or debt of the target corporation within the meaning of subsection 186(1). The Court agreed with the appellant that the phrase “in relation to” in that provision should be given a broad interpretation.
+[23] On the basis of the Stantec decision, the appellant contends that subsection 186(1) “is not intended to limit or otherwise restrict the ability of a holding company to claim input tax credits where the subsidiary would clearly be entitled to claim them.”
+[24] Counsel also says that there is an even stronger nexus between the legal fees incurred for the private placement and the shares and debt of Luxco since the funds raised in the placement were loaned or destined to be loaned to Luxco and converted into Luxco shares. Furthermore, the investors would not have provided funds for the private placement if Miedzi was non-compliant for tax purposes or not compliant with general corporate law.
+Respondent’s Position
+[25] The respondent argues that the costs in dispute are Miedzi’s own corporate costs which were not related to holding the shares and cannot reasonably be regarded as related to the shares in the Luxco. Counsel maintained that Miedzi would have incurred those expenses regardless of the exempt activity it was involved in.
+[26] Miedzi has chosen to arrange its affairs in a certain way and one of the consequences to the use of the holding company structure it has chosen is that the ultimate parent corporation is engaged in an exempt activity under the ETA and therefore not eligible for ITCs corresponding to each expense that it incurs.
+[27] Counsel maintains that the words “in relation to” cannot be interpreted without looking at the context in which those words are found. That context includes the qualifying phrases “to the extent that” and “can be reasonably be regarded” to limit the costs which would qualify for ITCs.
+[28] To the extent that the parent can reasonably be regarded as having so acquired the particular property or service, or as having so brought it into the province, for consumption or use in relation to the shares or indebtedness.
+[29] The use of these qualifiers indicate that Parliament did not intend for a whole cost to be eligible for ITCs merely because some portion of it could be connected to holding shares in a subsidiary. This imposes an obligation to distinguish between costs that relate to the shares and costs that do not. Counsel also submitted that, if Parliament wanted to allow every cost of a parent corporation that holds shares in a subsidiary, it would have made holding shares in a related company a commercial activity.
+[30] What the courts do is look for an actual relationship between the expense at issue and the shares of the subsidiary.
+[31] In the alternative, the onus is on the appellant to show which of the expenses are linked to the holdings in the subsidiaries.
+Analysis
+[32] In Stantec, this Court held that the phrase “in relation to” in subsection 186(1) should be given a broad interpretation and that the link between the consumption or use of the service or property and the shares of the subsidiary corporation need not be direct or substantial. At paragraphs 14 and 15 of that decision, Campbell Miller J. stated:
+“Reasonably regarded in relation to” is an expression of the widest possible import. The Supreme Court of Canada addressed the phrase “in relation to” in Slattery (Trustee of) v. Slattery [1993] 3 S.C.R. 430 suggesting it implies a wide, rather than narrow, view in connecting two matters. When this expansive approach has a lead-in with the words “reasonably regarded”, I reach the inevitable conclusion that it should not take very much to draw a nexus between acquiring the listing services and the shares of either Keith Companies or Stantec California.
+There is no question there is a strong nexus between the listing services and the Stantec shares – they were the very shares listed, but the connection need not be one of a primary nor substantial nor directly related nature. The concept of “in relation to” is not one of prominence let alone exclusivity.
+[33] These comments, while directed at the requirements found in subsection 186(1) of the ETA, were equally applicable to the test found in subsection 186(2) of the ETA which requires that the acquisition of a service be “related to” an acquisition or proposed acquisition by the company of the shares of another company.
+[34] This Court’s interpretation of the phrase “related to” was upheld on appeal. At paragraphs 14 to 17 of its reasons the Federal Court of Appeal stated:
+The Tax Court judge examined all of the circumstances surrounding the transaction having regard to the purpose of the subsection in the context of the provisions as a whole….
+The fourth prerequisite is satisfied if the listing services (those obtained by Stantec to list and trade its own shares on the New York Stock Exchange) are related to the acquisition. The appellant claims, at the relevant time, the services were not in relation to Keith’s or Stantec’s subsidiary’s shares.
+The Tax Court judge had regard to Slattery (Trustee of) v. Slattery, 1993 CanLII 73 (SCC), [1993] 3 S.C.R. 430 where the Supreme Court of Canada interpreted the phrase “in relation to”. Applying the Supreme Court’s construction, he reasoned that the nexus between acquiring the listing services and the shares of either Keith or Stantec California need not be one of prominence, let alone exclusivity. He concluded that the listing services were acquired so that Stantec could complete its deal to own all the shares of the company resulting from the merger of Keith and Stantec California. This was a context-driven inquiry.
+Miller J. found, as a fact, that the services “can readily and reasonably be regarded as being in relation to the shares of either Keith Companies or Stantec California or the shares of the merged company, that is, the investment by Stantec in its new acquisition.” We can detect no palpable and overriding error in this factual conclusion.
+[35] In this case, Miedzi exists to hold the shares of Luxco. Apart from that share ownership and the lending of money to Luxco, it has no other activity. In this sense, everything Miedzi does can be said to be done in relation to the shares or indebtedness of Luxco. Therefore, there is a clear nexus between the administrative, management and legal services in issue and the shares or indebtedness of Luxco. But for its ownership of the Luxco shares and its funding of Luxco by debt, Miedzi would not have acquired those services.
+[36] I agree with counsel for the appellant’s submission that subsection 186(1) was intended by Parliament to be a look-through rule and that this purpose would not be served by the narrow reading of the provision suggested by the respondent.
+[37] The appeal is therefore allowed and the matter is referred back to the Minister for reassessment on the basis that the appellant is entitled to additional ITCs of $47,909.07 for the periods under appeal. As the amount in dispute exceeds $7000, no costs are awarded.
+Signed at Vancouver, British Columbia, this 3rd day of February 2015.
+“B.Paris”
+Paris J.
+CITATION:
+2015 TCC 26
+COURT FILE NO.:
+2013-4274(GST)I
+STYLE OF CAUSE:
+MIEDZI COPPER CORPORATION AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+May 6, 2014
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+February 3, 2015
+APPEARANCES:
+Counsel for the Appellant:
+Timothy W. Clarke
+Counsel for the Respondent:
+Zachary Froese
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Timothy W. Clarke
+Firm:
+Moodys Gartner Tax Law LLP
+Vancouver, British Columbia
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

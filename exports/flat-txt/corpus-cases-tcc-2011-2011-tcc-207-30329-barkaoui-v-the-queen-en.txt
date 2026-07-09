@@ -1,0 +1,201 @@
+Title: Barkaoui v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30329/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-207-30329-barkaoui-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-04-29
+
+# Barkaoui v. The Queen
+
+- Citation: 2011 TCC 207
+- Decision date: 2011-04-29
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 8033, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Barkaoui v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-04-29
+Neutral citation
+2011 TCC 207
+File numbers
+2007-3896(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-3896(IT)G
+BETWEEN:
+MOHAMED BARKAOUI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION] ____________________________________________________________________
+Appeals heard on August 18 and 19, 2010, at Québec, Quebec
+Before: The Honourable Justice François Angers
+Appearances:
+Counsel for the appellant:
+Nadia El Ghandouri
+Counsel for the respondent:
+Dany Leduc
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2002 and 2003 taxation years are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 29th day of April 2011.
+"François Angers"
+Angers J.
+Translation certified true
+on this 22nd day of July 2011
+François Brunet, Revisor
+Citation: 2011 TCC 207
+Date: 20110429
+Docket: 2007-3896(IT)G
+BETWEEN:
+MOHAMED BARKAOUI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers, J.
+[1] On October 31, 2005, the Minister of National Revenue (the Minister) made reassessments for the appellant's 2002 and 2003 taxation years adding the following amounts to his income:
+2002
+$
+2003
+$
+Other income
+Unreported net professional income
+6,619
+6,000
+33,724
+32,000
+[2] In addition, the Minister imposed penalties under subsection 163(2) of the Income Tax Act (the Act) for the unreported net professional income of $6,000 and $32,000.
+[3] After receiving the appellant's notice of objection, on June 21, 2007, the Minister confirmed the appellant's reassessment for the 2002 taxation year and made a reassessment for the 2003 taxation year, reducing by $6,619 the amount that had been added to the appellant's income earlier under the "Other income" item. The appellant is appealing from these reassessments.
+[4] The "Other income" item for the 2002 and 2003 taxation years shows reductions, which the Minister considered unjustified, with respect to a long‑term loan made to the appellant by the company 9075-1017 Québec Inc. (9075) as it appeared in assets on 9075's balance sheet for the two years at issue.
+[5] This case commenced following an audit of 9075, which was incorporated on March 10, 1999, and for which the appellant is the sole shareholder, director and president. The company's main activity is information technology consulting. Its fiscal year ends on October 31.
+[6] At the time of her audit, the auditor noted in regard to the internal control of 9075 that the appellant:
+(a) performed all routine tasks at the company;
+(b) planned for and hired sub-contractors;
+(c) took care of purchases, invoicing and banking;
+(d) submitted his expense invoices, invoices and bank documents to his accountant at the end of each year.
+In regard to income, the appellant submitted to his accountant sheets on which were written the amounts of original contracts obtained. The accountant calculated the income by adding up the overall amount for contracts and subtracting expenses on the basis of supporting documents. He did no double-entry bookkeeping; thus, there was no account follow-up. According to the auditor, as a practical matter, no accounting was done at 9075. The appellant kept a synoptic journal but no ledger or book of original entry. A simple sheet of paper showed a summary of 9075's income.
+[7] The appellant admitted the following facts in the Reply to the Notice of Appeal with respect to the analysis done by the auditor under the [Translation] "Owed by the shareholder" item:
+(i) The balance of the [Translation] "Owed by the shareholder" account, appearing on the Corporation's balance sheets for the 2000, 2001, 2002 and 2003 taxation years, was as follows:
+Year
+Amount
+2000
+2001
+2002
+2003
+$46,884
+$79,481
+$77,583
+$40,718
+(j) Note 4 on the Corporation’s balance sheet at October 31, 2003, showed a loan of $79,481 for 25 years with 4% interest, renewable after 5 years, with monthly payments of $418.09.
+(k) The appellant signed the Corporation's financial statements produced for its 2000 and 2001 fiscal years.
+(l) Following her analysis, the auditor noticed unjustified decreases of $6,618.92 and $33,723.93 in the [Translation] "Owed by the shareholder" account for the 2002 and 2003 taxation years respectively.
+(m) The auditor therefore added to the appellant's income $6,618.92 and $33,723.93 for the 2002 and 2003 taxation years respectively, as benefits conferred on him by the Corporation.
+(n) The objections officer decreased by $6,619 the amount of the benefit that had been conferred on the appellant for the 2003 taxation year in order to take into account the decrease in the opening balance of the [Translation] "Owed by the shareholder" account in calculating the fluctuation of that account for that taxation year.
+As for unreported income, the appellant admitted the following facts:
+(o) The auditor audited the appellant's bank accounts for the 2002 and 2003 taxation years;
+(p) During the audit, the auditor noted two deposits described below:
+Date
+Amount
+2002-09-03
+2003-09-10
+$6,000.00
+$32,000.00
+(q) Those deposits were made by cheques payable to the appellant from a company called RTAN;
+(r) The September 10, 2003, deposit was made up of three cheques ($15,500, $15,000 and $1,500).
+(s) Based on the Minister's records, during the taxation years at issue, RTAN was physically located at 5–2435 Laurier Blvd, Sillery, Quebec.
+(u) The auditor therefore added $6,000.00 and $32,000.00 as net professional income for the appellant's 2002 and 2003 taxation years respectively.
+Shareholder benefits
+[8] In order to understand the decrease in the [Translation] "Owed by the shareholder" account or the loan based on the financial statements, the auditor asked the accountant for 9075 to provide explanations susceptible of justifying the decrease, but the accountant was unable to provide her with anything that justified the situation. On July 12, 2005, the appellant provided his own calculations to the auditor but those calculations did not show a detailed analysis of the account. After several formal requests, the auditor never received anything but an incomprehensible reply from the accountant. She was also never informed that there had been errors on the balance sheet and that adjustments had been made.
+[9] Since she had the bank records, the auditor reconstructed the owing to the shareholder account and that was how she obtained the unjustified decrease in the shareholder's loan of $6,619 for the 2002 taxation year and $33,724 for the 2003 taxation year thus creating a shareholder benefit under subsection 15(1) of the Act. All calculations can be found at tab 2 of Exhibit A-1.
+[10] The auditor presented her calculations to the appellant. She received no explanation from the appellant's accountant but the appellant provided her with his own calculations found in Exhibits I-7 and I-8. However, he failed to provide the relevant supporting documents. The calculations in Exhibits I-7 and I-8 are not the same. The difference between the auditor's and the appellant's calculations lies mainly in the loan’s opening balance used in the calculations. The auditor used an opening balance of $79,481, while the appellant used $46,884, which was the loan balance as of 2000. The auditor refused to modify the opening balance because it was the amount indicated in 9075's financial statements, which the appellant had signed and submitted with 9075's tax returns and which are also found in the agreement on corollary relief for the marital breakdown signed by the appellant and his spouse on January 14, 2003. That agreement refers to a loan of $77,000 associated with a residence (Exhibit A-1, tab 13). The auditor never saw the loan contract between the appellant and 9075.
+[11] The appellant came to Canada in 1995 and became a Canadian citizen in 2001. Since he had no accounting knowledge, a friend recommended that he hire the accountant Serge Simoneau to do the business’s accounting. As admitted, he brought all documents associated with 9075 to the accountant. He saw the accountant three times per year: in November to drop off the documents, in December to pick them up and in April to fill out his personal tax return. The appellant admitted that he had signed financial statements but without looking at them or asking his accountant questions because he had trusted him.
+[12] The appellant married Ines Ayadi in Tunisia on July 24, 1999. When they returned to Canada, their marriage was short-lived: they separated on March 1, 2002. According to the appellant, it was when he settled with his spouse on January 14, 2003, that he noticed that the balance of a loan connected with his residence was $77,000.
+[13] The residence in question was purchased by the appellant alone on July 28, 2000, for $87,000. To finance that purchase, the appellant obtained a hypothecary loan of $62,000 from the Caisse populaire de l'Université Laval. Ms. Ayadi did not undertake to repay the hypothecary loan and her signature on the document only authorized the appellant to encumber the family's principal residence with a hypothec. The appellant claims to have made a personal down payment of $25,578 combined with other expenses for a total of $27,500. Exhibit A-6 is a cheque from 9075 payable to the appellant dated July 26, 2000, in the amount of $27,000. Nothing is written on the cheque that could shed some light on its destination, and the appellant claims that it pertains to a loan that his company granted him to help him with the down payment for the purchase of his residence. The appellant also maintains that he had borrowed money from 9075 before he purchased his residence and after to repay the hypothec with the Caisse populaire. However, the appellant provided no details on the loans made to him by 9075 and no contract or note confirming the amount, conditions of repayment or interest rate. On that point, the appellant stated that he had trusted his accountant and that he had repaid the loan on the basis of the calculations provided by the accountant in the financial statements of 9075. He noted a large number of errors made by the accountant at the time of the audit.
+[14] As mentioned above, it was when he signed the agreement for corollary relief when he separated from his spouse on January 14, 2003, that the appellant realized that there was an error in the balance of the loan connected with his residence. He asked his accountant to give him the calculations for the balance so that he could determine the value of his patrimony. When it was confirmed that the balance of the loan made to him by 9075 as it appeared in 9075's financial statements at October 31, 2002, was $77,583, he asked his accountant to change that amount. According to the appellant, the amount of the loan that he owed to 9075 in January 2003 was only around $40,000. The financial statements at October 31, 2003, show a loan of $40,718, that is, the amount corrected by the accountant at the appellant's request. However, note 4 of those same financial statements for 9075 still shows that 9075 granted a loan of $79,481 to the appellant.
+[15] 9075's financial statements from previous years had not been corrected. Thus, it is noted that, at October 31, 2002, the amount of the appellant's loan was $77,583, as mentioned above. There is a reference to note 4, but there is no note 4 in those financial statements. As for 9075's financial statements at October 31, 2001, the appellant's loan was $79,481 on the date of the balance sheet. In the financial statements from the previous year, the loan in question was only $46,884. Note 4 in the financial statements at October 31, 2001, states that 9075 granted a loan of $79,481 to the appellant and the loan conditions provided for a 25‑year term, a fixed interest rate renewable after 5 years, which was at 4% at that time with monthly payments of $418.09. As for 9075's financial statements ending October 31, 2000, they indicate that the loan was $46,884, and note 4 indicates that 9075 made a loan of $47,000 to the appellant. The loan conditions provide for a 25-year term and a fixed interest rate of 7% renewable after 5 years. The financial statements for 9075 show a loan to the shareholder of $24,613. According to the appellant, it is an error just like the one with respect to the income because, according to him, in 1999, there was nothing under that item. The accountant allegedly entered the amount of a contract instead of the payment that had actually been received.
+[16] The appellant did not take the time to ask his lawyer to correct the agreement on corollary relief for the marital breakdown, which he and his spouse signed on January 14, 2003. He argues that he did not have time because Ms. Ayadi left Canada very quickly. The agreement still stipulates that the balance of a loan connected with the residence is $77,000. It is strange that the agreement stipulates that the appellant would assume the balance of the loan connected with residence alone. Yet, his spouse had no obligation with respect to the repayment of the hypothec, given that she had simply authorized her spouse to encumber the property identified as being the family's principal residence with a hypothec.
+[17] At the objection stage and at the trial, the appellant produced tabs 4, 5, 6 and 7 of Exhibit A-1. He redid the accountant's work, and those tabs contain his version of the facts. The tabs in question show 9075's revenues and expenses from the time it was incorporated until 2003, and each balance at the end of the fiscal year shows the amount of his loan. The numbers used by the appellant match those of the auditor except for the balance of the loan at the beginning of the fiscal year ending on October 31, 2000, as stated above.
+[18] According to the appellant, his business made him the first loan when he bought his residence in July 2000. It made other loans to him in the following years, namely, loans on which he had made payments. He stated that he had also borrowed money from other sources in order to repay the Caisse faster, more specifically, some $30,000 from his friends, but he did not produce any supporting documents to back up his statements.
+[19] In cross-examination, the appellant stated that he had documents concerning 9075's loans, but he did not file them in evidence. The appellant repaid his loans in accordance with his accountant's instructions. He was repaying the loan with the Caisse, and he wanted to have only one loan with the company. No details regarding the repayment of the loan with the Caisse were provided at the hearing.
+[20] The version of the facts presented by the appellant to justify the decrease in the owed by the shareholder account has many contradictions as well as statements that were not confirmed by supporting documents or testimony.
+[21] The first difficulty arises from the fact that the appellant stated under oath that he had documents supporting the loans made to him by 9075 and then failed to produce them in evidence at the trial, which leads the Court to believe that those documents do not exist.
+[22] The second difficulty that I note concerns the fact that the appellant stated that he had provided information that enabled the accountant to prepare the financial statements and that the error originated in 9075's financial statements for 1999 and was then reproduced. However, the appellant signed and accepted each of 9075's financial statements for the following years up to October 31, 2003, as well as all of 9075's income tax returns. The appellant stated that he had asked the accountant to correct the financial statements when he had signed the separation agreement with his spouse, but only the financial statements dated October 31, 2003, had been corrected, and the copy filed in evidence does not mention the supposed error in note 4 of the statements. The previous financial statements were not corrected nor was the separation agreement with his spouse. However, according to the appellant, the error was made in 1999. The changes made by the accountant to correct the supposed error have not been filed in evidence. I cannot ignore the fact that the accountant did not testify and corroborate the appellant's statements or explain the errors. From this, I conclude that his testimony would not have been favourable to the appellant.
+[23] According to the appellant, he realized that the supposed error had been made only at the time when he signed the agreement on corollary relief for the marital breakdown with his spouse on January 14, 2003. The appellant signed the document in the presence of his lawyer. Who gave the lawyer the information that was used to draft that agreement? How did the appellant notice the error only when he was signing the document and not trouble to correct it immediately, especially since the document had to be attached as an agreement on corollary relief as part of a petition for divorce (Exhibit A-1, tab 13, paragraph 15), which became official on May 20, 2003? In fact, the correction was made only at the end of 9075's fiscal year at October 31, 2003, although the appellant stated that he had informed his accountant of the error as soon as he had found out that the amount was exaggerated. According to Ms. Valois, she was not informed of this correction during her audit.
+[24] It is difficult to believe that the appellant could rely on his accountant for all those years, especially in repaying his loan according to the calculations made by the accountant based on 9075's financial statements, and be unaware of the errors the accountant had made.
+[25] The evidence was insufficient; therefore, I find that the decreases in the loan were unfounded or that the loan amount is incorrect. Consequently, the Minister was entitled to conclude that the decreases in the loan to the shareholder were unjustified and to add those benefits in computing the appellant's income under subsection 15(1) of the Act.
+Unreported income
+[26] The appellant was assessed for $6,000 and $32,000 in unreported income for the 2002 and 2003 taxation years respectively. It is known that those amounts correspond to two deposits made in cheques payable to the appellant drawn up by the company RTAN. The cheque for $6,000 is dated September 3, 2002. The amount of $32,000 was paid in three cheques: $15,500, $15,000 and $1,500, all signed on September 10, 2003.
+[27] RTAN was incorporated on May 17, 2002, and it is active in the field of research and technology solutions. Its director and shareholder is Jaouhar Fattahi, a friend of the appellant. Although RTAN was incorporated only on May 17, 2002, it had become active in January 2002. It worked for the Department of National Defence as a sub-contractor of 9075 on a project called Karma and also for other companies. The contracts under which RTAN was sub‑contracted by the appellant are in Exhibit A-1, tab 3.
+[28] According to Mr. Fattahi, RTAN was overloaded with work at the time and that was why it retained the services of Ines Ayadi, the appellant's spouse, to verify programs made up of several modules mainly to find errors. Mr. Fattahi himself drafted the employment contract for Ms. Ayadi, which can be found in Exhibit A‑1, tab 17. The copy in evidence is not signed, but it is dated May 1, 2002. It had apparently been given to the appellant and the auditor by Mr. Fattahi. In his testimony, Mr. Fattahi acknowledged that the contract may not have been signed. When the appellant received the contract, he forwarded it to his brother in Tunisia, who allegedly asked Ms. Ayadi to certify it, which explains why the date of December 24, 2005, is stamped on the contract.
+[29] According to the contract, Ms. Ayadi's work had to be done between May 1, 2002, and April 30, 2005. The conditions of payment were described as follows:
+[Translation]
+Subject to the contractor's satisfactorily carrying out all her obligations under the contract, the contractor will be paid a firm price of $60,000. Payment shall be made after delivery and acceptance of the work.
+[30] Notwithstanding that clause, Mr. Fattahi stated that the contract price was based on an hourly rate of $10 spread over three years, that is, about $20,000 per year. He had chosen Ms. Ayadi because he believed that she had the skills required to do the work and because he could pay her later. He stated that Ms. Ayadi did her work in Tunisia and communicated with him via e-mail. He believes that she, in fact, worked 40 hours per week and that he could monitor her hours by verifying the work she had done. Mr. Fattahi was not certain if Ms. Ayadi sent him invoices and repeated that he had chosen her because things were not complicated with her and paying her could wait.
+[31] In regard to that, the appellant stated directly in his testimony and in a letter that he forwarded to the Appeals Division following the audit (Exhibit A-1, tab 7, page 6) that Ms. Ayadi was paid $10.25 per hour. In cross-examination, he admitted that he did not know Ms. Ayadi's hourly rate and that it was only an estimation. He also stated that Ms. Ayadi had done the work from Tunisia. In my opinion, the appellant is not in a position to be making such statements.
+[32] The cheque for $6,000 dated September 2, 2002 (Exhibit A-2) thus apparently represented part of Ms. Ayadi's wages at that time and it was allegedly given to the appellant at Ms. Ayadi's request. According to Mr. Fattahi, that request was made of him by e-mail but he had not saved a copy of that e-mail. Mr. Fattahi added that he also felt that he was protected because Ms. Ayadi had informed him of the existence of an agreement on corollary relief for the repayment of debt that Ms. Ayadi had signed with the appellant on May 4, 2002 (Exhibit A-1, tab 27) and in which she acknowledged that she owed the appellant $43,500, which represented all of Ms. Ayadi's expenses paid by the appellant since her arrival in Canada in August 1999.
+[33] With respect to the three cheques dated September 10, 2003 (Exhibit A-2), together with the one for $6,000 dated 2002, they represent the total amount owed to Ms. Ayadi under her contract with RTAN. According to Mr. Fattahi, there was no follow-up with National Defence in 2003, and Project Karma was abandoned. The three cheques correspond to the three portions of the tasks that Ms. Ayadi had to complete and constitute a subjective evaluation of the value of her work.
+[34] In cross-examination, Mr. Fattahi confirmed that all of Ms. Ayadi's work had been done from Tunisia. He testified that she had worked from May 1, 2002, to September 2003, except during her divorce, which lasted two and a half to three months at the end of 2002. He explained that Ms. Ayadi did not receive any money for a year simply because she did not insist that he pay her. According to him, the same goes for the rest of the contract, that is, the difference between the debt of $60,000 and the amount of $38,000 that had been paid. He said that Ms. Ayadi was a friend, and that, morally, she would not institute proceedings against him. However, he added that he did not know what her intentions were.
+[35] Mr Fattahi and RTAN have the same accountant as the appellant. Mr. Fattahi acknowledged that, in RTAN's financial statements for 2003, the payment of $32,000, which was made to the appellant as a result of Ms. Ayadi's contract, was not included in that company's expenditures. Just like the appellant, Mr. Fattahi blames the accountant for that error and has allegedly asked him to correct it.
+[36] For his part, the appellant explained that when he purchased the residence in July 2000, he made an agreement with his spouse that she would repay him half of $87,000 paid to purchase it, that is, $43,500, when she started working. That was the reason why Ms. Ayadi agreed that RTAN pay her salary directly to the appellant and why she and the appellant signed the agreement dated May 4, 2002 (Exhibit A-1, tab 27). Thus, the appellant received a first cheque for $6,000 from RTAN on September 2, 2002, while Ms. Ayadi was in Tunisia. The appellant added that he had sent that money to Ms. Ayadi after their separation. In reality, he gave her $5,000, an airplane ticket for $895 and the equivalent of the price of travel between Québec and Montréal in January 2003, following the signing of their separation agreement on January 14 (Exhibit A-1, tab 13). Under the heading [Translation] "Waiver of support", the agreement stipulates that, at the time of signing the agreement, the male spouse will pay the female spouse, for herself, a lump sum of $5,000, receipt of which will be given by her on that day. Other relevant stipulations, in my opinion, were those specifying that Ms. Ayadi would return to live with her family in Tunisia within a week, where she would provide for her own needs in her country, that Ms. Ayadi waived the right to any spousal support, that the male spouse would keep the family residence and assume alone the remainder of the loan on the residence, that they gave each other complete and final mutual release and that the male spouse would repay any government aid received by Ms. Ayadi, specifically, that provided by the Quebec government as last resort assistance benefits received between October 24, 2002, and January 10, 2003, which amounted to around $1,500. In the preamble, it is indicated that at that time Ms. Ayadi had no employment income.
+[37] Concerning unreported income for the 2003 taxation year, the appellant testified that, after Ms. Ayadi left Canada on January 17, 2003, she asked him to advance her the money. Through his father, he apparently advanced to Ms. Ayadi around $29,000 between February and September 2003 using the money he had in Tunisia. He is now claiming that it was to repay him for those advances that RTAN gave him the three cheques totalling $32,000 on September 10, 2003, for the contract that Ms. Ayadi had with RTAN (Exhibit A-1, tab 17). In cross‑examination, the appellant added that Ms. Ayadi had told him that she would have no money until September 2003 without providing any more details.
+[38] According to the judgment of divorce (Exhibit I-1), Ms. Ayadi left the appellant on March 1, 2002, and went to live in a shelter. According to the appellant, she stayed in Tunisia in January and February 2002 and came back to Canada at the end of February. In May 2002, she went back to Tunisia and returned to Canada in October 2002. It was at that time that she received social assistance benefits.
+[39] After Ms. Ayadi returned from Tunisia in January 2003, the appellant had direct contact with her during the year. Later on, he communicated with her in December 2005 through his brother. The contact information for Ms. Ayadi that he provided to the appeals officer on March 21, 2007, did not make it possible for the Canada Revenue Agency to contact Ms. Ayadi directly. It was also in that document (Exhibit A-1, tab 6, page 2) that the appellant informed the appeals officer that the debt of $43,500 represented Ms. Ayadi's part of their house bought in July 2000. He added that Ms. Ayadi and he had made the decision to purchase a house and to share the purchase price, which was $87,000. They had agreed that she would pay her share when she started working.
+[40] In cross-examination, the appellant acknowledged that, in his first few meetings with the auditor, he had not provided her with any details on the debt that Ms. Ayadi owed him. He submitted to her the agreement on measures to repay the debt (Exhibit A-1, tab 27) and told her that the $43,500 were Ms. Ayadi's expenses. He added that, even though the $43,500 represented half of the price of the family residence, that amount constituted the total of all of Ms. Ayadi's expenses since her arrival in Canada in August 1999 and the wording of the agreement indicated that there was no other debt. At the objection stage, the appellant had simply referred to Ms. Ayadi's debt to him without providing further details (see tab 4 of Exhibit A-1).
+[41] It must therefore be determined whether the income not reported by the appellant in respect of the 2002 and 2003 taxation years was actually a repayment of debt by Ms. Ayadi to the appellant, which was done by RTAN with Ms. Ayadi's consent directly to the appellant using Ms. Ayadi's salary.
+[42] To show this, the appellant presented evidence that, in my view, is based on numerous contradictions, especially in his testimony and that of Mr. Fattahi and in the documentation submitted. It is also quite astonishing to note the number of errors found in various documents, whether they be 9075's financial statements, which were blamed on the accountant, or the various agreements submitted that do not correspond to the testimony.
+[43] According to the evidence presented, Ms. Ayadi was hired by RTAN on May 1, 2002, to work from May 1, 2002, until April 30, 2005, under a very simple one‑page contract, which seems to have been based on a one-time payment of $60,000 after delivery and acceptance of the work. It seems that the contract was not signed. It did not stipulate that the work could be done in Tunisia. However, according to the evidence, Ms. Ayadi left Canada for Tunisia in May 2002.
+[44] Mr. Fattahi told us in his testimony that, notwithstanding the contract, Ms. Ayadi was paid $10 per hour for 40-hour weeks and that he monitored her time by verifying the amount of work that she completed and sent to him. He told us that he liked doing business with Ms. Ayadi because she did not have an urgent need to get paid for her work and that she could wait. It is surprising hearing such remarks from this witness, considering the fact that the contract mentions an amount of $60,000 upon delivery and acceptance of the work and that he issued advances to the appellant. It is still more surprising that he paid the appellant $6,000 on Ms. Ayadi's behalf in September 2002, when she received social assistance benefits in October, November and December 2002 and even stated in the agreement on corollary relief for the marital breakdown (Exhibit A-1, tab 13) dated January 14, 2003, that she had no employment income.
+[45] Just as surprising is the fact that the appellant knew the details of this supposed employment contract and could specify the hourly rate, the number of hours worked per week and the fact that the work was done from Tunisia. As for Mr. Fattahi, he had been unable to produce any evidence confirming that Ms. Ayadi had done any work for RTAN.
+[46] Next, there is the agreement on the repayment of the debt dated May 4, 2002 (Exhibit A-1, tab 27), in which Ms. Ayadi acknowledged that she owed the appellant $43,500. According to the agreement, it was the total of all of Ms. Ayadi's expenses since her arrival in Canada in August 1999, which had been paid by the appellant. In his testimony, the appellant explained that it was the value of half of the purchase price of the family residence, which was $87,000. However, the sale contract for the family residence (Exhibit A-1, tab 28) clearly indicates that the appellant was the only purchaser of that property and the deed of hypothec (Exhibit A-1, tab 29) identified the appellant as the borrower. The only role played by Ms. Ayadi was to authorize her spouse to encumber the residence in question by a hypothec. If Ms. Ayadi had to, indeed, repay the appellant the price of half of the house, how is it that the agreement on repaying the debt (Exhibit A‑1, tab 27) does not state that Ms. Ayadi purchased half of the family residence?
+[47] Furthermore, the agreement on corollary relief for the marital breakdown (Exhibit A-1, tab 13) does not mention the debt of $43,500. Ms. Ayadi and the appellant released each other, and, although the appellant released Ms Ayadi from having to pay the balance of the loan on the residence, it must be recalled that she had never undertaken an obligation to the hypothecary creditor.
+[48] The appellant also alluded to Ms. Ayadi's debt that was incurred after the signing of the agreement on corollary relief for the marital breakdown. More specifically, the advances he allegedly made to Ms. Ayadi in January and September 2003 through his father in Tunisia. It was money that the appellant was holding in a bank account in Tunisia. It seem strange to me that Ms. Ayadi would have needed the appellant's financial help. She had just waived spousal support, according to Exhibit A-1, tab 13, and she was working full time for RTAN, which had allegedly already advanced her some money, specifically, $6,000, in September 2002. Why would Ms. Ayadi then say to the appellant that she would have no money before September 2003? According to Mr. Fattahi, he had never refused to pay her and he was merely happy that she was not asking him for anything.
+[49] Neither the appellant's father nor Ms. Ayadi testified at the hearing. No evidence concerning the appellant's bank accounts in Tunisia or the acknowledgement of debt for advances made by the appellant to Ms. Ayadi was produced.
+[50] It is surprising to learn that the first time the appellant decided to reveal that debt to the Canada Revenue Agency was in 2007 (Exhibit A-1, tab 5) in a letter in which he stated that he had lent Ms. Ayadi the equivalent of $32,000 in Tunisian dinars. In his testimony at the trial, he spoke of an advance of $29,000.
+[51] The appellant's and Mr. Fattahi's testimony are completely unreliable. Those two witnesses leave us with the impression that they are prepared to say anything to support their versions, and, if they are contradicted, it is always someone else's fault or the documents are riddled with errors. They both blame the accountant. In Mr. Fattahi's case, one wonders how a businessman who spent $32,000 in 2003 does not think it useful to account for that expenditure in his financial statements.
+[52] All these contradictions and inconsistencies in the versions presented by these two witnesses make it impossible for me to accept the appellant's position.
+Penalty
+[53] The Minister had the burden of proving, on the balance of probabilities, that the circumstances of this case justified the assessment of a penalty under subsection 163(2) of the Act. The penalties were applied in respect of the additional income of $6,000 and $32,000 for the two taxation years at issue respectively.
+[54] Subsection 163(2) provides that a taxpayer who, knowingly, or under circumstances amounting to gross negligence, makes a false statement or omission in a return is liable to a penalty.
+[55] In this case, it is clear that I will not accept the appellant's version of the facts and that I consider his explanations not to be credible. Accordingly, I will follow Lacroix v. R., [2008] F.C.J. No. 1092, a Federal Court of Appeal decision, where it is stated:
+29 . . . In the case at bar, the Minister found undeclared income and asked the taxpayer to justify it. The taxpayer provided an explanation that neither the Minister nor the Tax Court of Canada found to be credible. Accordingly, there is no viable and reasonable hypothesis that could lead the decision-maker to give the taxpayer the benefit of the doubt. The only hypothesis offered was deemed not to be credible.
+30 The facts in evidence in this case are such that the taxpayer’s tax return made a misrepresentation of facts, and the only explanation offered by the taxpayer was found not to be credible. Clearly, there must be some other explanation for this income. It must therefore be concluded that the taxpayer had an unreported source of income, was aware of this source and refused to disclose it, since the explanations he gave were found not to be credible. In my view, given such circumstances, one must come to the inevitable conclusion that the false tax return was filed knowingly, or under circumstances amounting to gross negligence. This justifies not only a penalty, but also a reassessment beyond the statutory period.
+[56] In these circumstances, I rule that the Minister was justified in assessing the penalties in question. The appeals are dismissed with costs.
+Signed at Ottawa, Canada, this 29th day of April 2011.
+"François Angers"
+Angers J.
+Translation certified true
+on this 22nd day of July 2011
+François Brunet, Revisor
+CITATION: 2011 TCC 207
+COURT FILE NO.: 2007-3896(IT)G
+STYLE OF CAUSE: Mohamed Barkaoui v. Her Majesty the Queen
+PLACE OF HEARING: Québec, Quebec
+DATES OF HEARING: August 18 and 19, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: April 29, 2011
+APPEARANCES:
+For the appellant:
+Nadia El Ghandouri
+Counsel for the respondent:
+Dany Leduc
+COUNSEL OF RECORD:
+For the appellant:
+Name: Nadia El Ghandouri
+Firm: Gagné Letarte, s.e.n.c.r.l.
+Québec, Quebec
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

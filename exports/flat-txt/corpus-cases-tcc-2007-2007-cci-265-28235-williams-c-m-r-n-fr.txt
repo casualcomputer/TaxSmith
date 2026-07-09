@@ -1,0 +1,128 @@
+Title: Williams c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28235/index.do
+Corpus path: corpus/cases/tcc/2007/2007-cci-265-28235-williams-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2007-05-18
+
+# Williams c. M.R.N.
+
+- Citation: 2007 CCI 265
+- Decision date: 2007-05-18
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2082, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Williams c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2007-05-18
+Référence neutre
+2007 CCI 265
+Numéro de dossier
+2006-3844(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 2006-3844(EI)
+ENTRE :
+HELEN WILLIAMS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 24 avril 2007, à Sydney (Nouvelle-Écosse).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Représentant de l’appelante :
+M. Gordie Gosse
+Avocate de l’intimé :
+Me Lindsay Holland
+____________________________________________________________________
+JUGEMENT
+L’appel que l’appelante a interjeté en vertu de la Loi sur l’assurance‑emploi (la « Loi »), par suite de la décision de l’intimé selon laquelle, au cours de la période allant du 27 novembre 2005 au 17 février 2006, l’appelante n’exerçait pas un emploi assurable au sens de l’article 5 de la Loi, est accueilli et l’affaire est renvoyée au ministre du Revenu national pour qu’il l’étudie de nouveau et rende une nouvelle décision, compte tenu du fait que l’emploi de l’appelante, au cours de cette période, était un emploi assurable en vertu de l’article 5 de la Loi.
+Signé à Halifax (Nouvelle‑Écosse), ce 3e jour de mai 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 28e jour d’août 2007.
+Johanne Brassard, trad. a.
+Référence : 2007CCI265
+Date : 20070503
+Dossier : 2006-3844(EI)
+ENTRE :
+HELEN WILLIAMS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] Il s’agit en l’espèce de savoir s’il était raisonnable pour l’intimé de décider que l’emploi qu’Helen Williams exerçait auprès de B & M Burner Services Ltd. au cours de la période allant du 27 novembre 2005 au 17 février 2006 n’était pas un emploi assurable pour l’application de la Loi sur l’assurance‑emploi (la « Loi »).
+[2] Le paragraphe 5(2) de la Loi prévoit notamment ce qui suit :
+(2) N’est pas un emploi assurable :
+[...]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+[3] Le paragraphe 5(3) de la Loi prévoit ce qui suit :
+(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[4] En l’espèce, les actions de B & M Burner Services Ltd. étaient détenues par Helen Williams (17 p. 100), par son mari, Frank Williams (17 p. 100), par son fils Glenn Williams (33 p. 100) et par son fils Gary Williams (33 p. 100). Par conséquent, Helen Williams et B & M Burner Services Ltd. étaient des personnes liées pour l’application de la Loi de l’impôt sur le revenu, par suite des dispositions de l’alinéa 251(2)b) de cette loi, et elles sont donc réputées avoir entre elles un lien de dépendance en vertu de l’alinéa 251(1)a). Par conséquent, il s’agit ici de savoir s’il était raisonnable pour le ministre du Revenu national, de décider qu’Helen Williams et B & M Burner Services Ltd. n’auraient pas conclu entre elles un contrat de travail à peu près semblable au cours de la période en question si elles n’avaient pas eu de lien de dépendance.
+[5] Dans la décision Porter c. M.R.N., 2005 CCI 364, la juge Campbell, de la présente cour, a examiné les décisions rendues par la Cour et par la Cour d’appel fédérale en ce qui concerne le rôle de la Cour de l’impôt dans les appels de cette nature. Au paragraphe 13 de cette décision, la juge Campbell a dit ce qui suit :
+En résumé, le rôle de la Cour consiste à vérifier l’existence et l’exactitude des faits sur lesquels le ministre se fonde, à examiner tous les faits mis en preuve devant elle, notamment tout nouveau fait, et à décider ensuite si la décision du ministre paraît toujours « raisonnable » à la lumière des conclusions de fait tirées par la Cour. Elle doit accorder une certaine déférence au ministre dans le cadre de cet exercice.
+[6] B & M Burner Services Ltd. exploite une petite entreprise dans le cadre de laquelle elle fournit des services d’entretien de chaudières au mazout; l’entreprise est exploitée depuis des locaux situés près de Sydney (Nouvelle‑Écosse). Il s’agissait d’une entreprise saisonnière qui était exploitée entre la fin de l’automne et la fin du printemps, selon le temps qu’il faisait. Helen Williams était employée comme secrétaire; ses tâches consistaient notamment à répondre au téléphone, à organiser des rendez‑vous, à envoyer les travailleurs lorsque les clients appelaient et à effectuer des travaux de dactylographie et de classement. Elle travaillait habituellement chaque jour de 8 h à 17 h, mais elle s’occupait également, après les heures normales de travail, des appels des clients dont l’appareil de chauffage était défectueux. Ces appels pouvaient être effectués au milieu de la nuit.
+[7] Dans la réponse, l’intimé a admis qu’Helen Williams [traduction] « travaillait comme secrétaire sur une base saisonnière pour B & M Burner Services Ltd. (le « payeur ») depuis environ 23 ans ». L’agente des appels, à l’Agence du revenu du Canada, a témoigné qu’en concluant que les modalités d’emploi existant entre Helen Williams et le payeur n’étaient pas à peu près les mêmes que celles qui auraient existé en l’absence d’un lien de dépendance, elle avait comparé les tâches d’Helen Williams et celles d’Alura Williams ainsi que le montant que chacune recevait. Alura Williams était la belle‑fille d’Helen Williams.
+[8] Alura Williams travaillait également comme secrétaire. Helen Williams a témoigné que ses tâches et celles d’Alura Williams étaient à peu près les mêmes. Elles répondaient toutes deux au téléphone et elles s’occupaient des clients qui se présentaient au bureau. Elles acceptaient toutes deux les paiements. Helen Williams s’occupait davantage d’organiser les rendez‑vous, mais Alura Williams commençait également à le faire. Alura Williams établissait les factures à l’ordinateur et Helen Williams dactylographiait les factures qui étaient rédigées à la main. Helen Williams s’occupait des problèmes des clients après les heures régulières de travail, alors qu’Alura Williams ne s’en occupait pas.
+[9] Helen Williams touchait 12 $ l’heure et Alura Williams touchait 11 $ l’heure. L’agente des appels a témoigné avoir fondé sa décision sur le fait que, compte tenu des réponses qu’elle avait reçues, Alura Williams semblait assumer plus de responsabilités, alors que sa rémunération était inférieure à celle d’Helen Williams, de sorte qu’Helen Williams touchait une rémunération supérieure à celle que toucherait une employée sans lien de dépendance occupant le même poste qu’elle. L’agente des appels a témoigné ne pas avoir tenu compte de l’ancienneté ou de l’expérience relatives de ces deux travailleuses. Helen Williams travaillait pour le payeur sur une base saisonnière depuis 1983 et Alura Williams avait commencé à travailler pour l’entreprise en 2003. En 2006, cela aurait voulu dire qu’Helen Williams comptait 23 années d’expérience, alors qu’Alura Williams en comptait trois. À mon avis, il s’agit d’un facteur important dont il aurait fallu tenir compte dans l’analyse des montants différents qui étaient versés à ces deux travailleuses. En l’absence d’un lien de dépendance, il serait raisonnable de s’attendre à ce qu’une employée comptant 23 années d’expérience gagne plus qu’une employée comptant trois années d’expérience seulement.
+[10] Il n’est pas non plus clair qu’Alura Williams ait assumé plus de responsabilités qu’Helen Williams. Comme il en a ci‑dessus été fait mention, Alura Williams entrait les factures à l’ordinateur (ce qu’Helen Williams ne faisait pas), mais Helen Williams en préparait certaines à la machine à écrire. De plus, Helen Williams a déclaré que Glenn Williams entrait certaines factures à l’ordinateur. Alura Williams n’était donc pas la seule personne à entrer des factures à l’ordinateur. En outre, Helen Williams s’occupait d’organiser les rendez‑vous plus souvent qu’Alura Williams et Helen Williams s’occupait également des problèmes des clients après les heures normales de bureau. Alura Williams ne s’occupait pas des problèmes des clients après les heures normales de bureau.
+[11] Helen Williams a témoigné qu’au fil des ans, il y avait eu chez le payeur d’autres employés de bureau sans lien de dépendance qui accomplissaient des tâches à peu près semblables aux siennes et dont la rémunération était supérieure à la sienne.
+[12] Compte tenu des tâches exécutées par Helen Williams et par Alura Williams, telles qu’Helen Williams les a décrites, et compte tenu du nombre d’années d’expérience de chaque employée, il n’est pas raisonnable à mon avis de conclure que la rémunération d’Helen Williams était trop élevée.
+[13] L’avocate de l’intimé a également soutenu qu’Helen Williams tardait à encaisser ses chèques de paie. Helen Williams a reçu douze chèques de paie en tout pour la période en question. Dans chaque cas, le chèque avait été émis moins d’une semaine après la semaine pour laquelle le paiement était effectué. Huit des douze chèques ont été encaissés dans les quatre jours qui ont suivi la date de leur émission. Les chèques datés des 3, 9 et 15 février 2006 ont été encaissés les 20 et 30 mars et le 2 mai 2006 seulement. Il semble que le chèque du 21 février 2006 n’ait pas été encaissé.
+[14] Helen Williams a témoigné que l’hiver avait été exceptionnellement doux, ce qui avait eu des incidences négatives sur l’entreprise du payeur. Par temps doux, la demande d’entretien de chaudières est moins forte. Les relevés bancaires du payeur montrent que la situation financière du payeur était précaire. Lorsque Helen Williams a été embauchée à l’automne 2005, le payeur ne savait pas que l’hiver serait doux et que l’entreprise en souffrirait. L’avocate de l’intimé a soutenu que le temps qu’Helen Williams avait mis à encaisser les chèques (sans encaisser le dernier chèque) permettait raisonnablement de conclure qu’un employé sans lien de dépendance n’aurait pas conclu une telle entente.
+[15] L’avocate de l’intimé a mentionné l’arrêt Kadziolka v. R., [1999] 2 C.T.C. 194 (C.A.F.). Toutefois, dans cette affaire, les chèques n’avaient été encaissés que plusieurs mois plus tard et il s’agissait uniquement de l’un de plusieurs facteurs examinés par la cour, y compris le fait que dans ce cas‑là, l’employée touchait deux fois plus que l’employé le mieux rémunéré. Tel n’est pas ici le cas.
+[16] Dans la décision Camilleri c. Ministre du Revenu national, 2005 CCI 602, les retards ont été décrits comme suit :
+6 À mon avis, les longs retards mis dans le paiement de la rémunération permettent à eux seuls de conclure que les modalités d'emploi de Mme Camilleri n'étaient pas à peu près semblables à des modalités dont auraient convenu des personnes n'ayant aucun lien de dépendance. Dans sa réplique, le ministre résume la question des dates auxquelles les chèques ont été émis pour les périodes de paie. Il fait état d'une tendance constante à émettre les chèques en retard. Certains de ces retards étaient courts, mais nombre d'entre eux s'étalaient sur des mois. Ainsi, les chèques de paie pour la période de février à juillet 2003 n'ont été émis qu'au mois d'août, tandis que les chèques de paie pour la période d'août à décembre 2003 n'ont été émis qu'en décembre. Les retards se sont poursuivis tout au long de la période pertinente, bien qu'avec le temps, ils aient été plus courts.
+7 Mme Camilleri a expliqué, en ce qui concerne les retards, que l'entreprise éprouvait des problèmes de trésorerie et qu'elle-même arrivait difficilement à travailler avec le système de comptabilité dont son père n'avait pas eu le temps de s'occuper en raison de son calendrier chargé. À mon avis, des employés sans lien de dépendance ne travailleraient pas, de manière générale, dans de telles circonstances. Mme Camilleri a produit des éléments de preuve visant à établir que d'autres employés avaient dû patienter avant de toucher leur paie en raison de l'insuffisance de fonds. Toutefois, ces retards n'étaient pas courants et ne s'étalaient pas sur de longues périodes. À mon avis, les retards dans le cas de Mme Camilleri excèdent ce que la plupart des employés toléreraient.
+[17] Dans l’affaire Camilleri, certains éléments de preuve montraient que d’autres employés avaient dû patienter avant de toucher leur paie en raison de l’insuffisance de fonds. Toutefois, le retard de plusieurs mois, dans le cas de Mme Camilleri, était plus long que ce à quoi on s’attendrait en l’absence d’un lien de dépendance.
+[18] Si l’employeur fait face à des difficultés financières et n’arrive pas à verser les salaires, il importe peu de savoir s’il existe ou non un lien de dépendance avec l’employé – si l’employeur ne peut pas rémunérer l’employé, celui‑ci devra attendre pour être rémunéré. Dans les régions où le chômage est élevé, les choix sont restreints pour les employés sans lien de dépendance qui cherchent à se trouver un autre emploi; par conséquent, il serait à mon avis raisonnable de s’attendre à ce qu’un employé sans lien de dépendance qui travaille sur une base saisonnière pour un employeur depuis 23 ans soit prêt à attendre quelques semaines pour encaisser son chèque de paie lorsque l’employeur fait face à des difficultés financières en raison de circonstances indépendantes de sa volonté et que l’employé est établi dans une région où le chômage est élevé. Malheureusement, le Cap‑Breton est depuis plusieurs années une région où le chômage est élevé.
+[19] Les conditions météorologiques étaient indépendantes de la volonté du payeur et celui‑ci ne pouvait pas savoir, lorsque Helen Williams a été embauchée à l’automne 2005, que l’hiver serait doux. Il n’y a eu ici que quatre chèques pour lesquels le retard était de plus de quatre jours et trois de ces chèques ont été encaissés dans un délai de trois mois. L’intimé a déclaré que le dernier chèque, en date du 21 février 2006, n’avait pas été encaissé et qu’Helen Williams ne pouvait pas expliquer pourquoi il ne l’avait pas été. Il importe de noter qu’Helen Williams a été atteinte d’une grave dépression pendant l’été 2006 et l’encaissement de ce chèque de 336,77 $ n’était probablement pas l’une de ses principales préoccupations à ce moment‑là.
+[20] Je ne puis donc pas conclure que le fait que l’on a tardé à encaisser les chèques était suffisant pour qu’il soit possible de conclure qu’Helen Williams et le payeur n’auraient pas conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[21] L’agente des appels a également indiqué qu’il avait été tenu compte du nombre de semaines de travail effectuées par Helen Williams par opposition au nombre de semaines que celle‑ci devait effectuer afin de demander des prestations d’emploi. La preuve indique que cette entreprise n’était exploitée que sur une base saisonnière et qu’Helen Williams avait été licenciée lorsqu’il était devenu évident que les affaires tournaient au ralenti, étant donné la clémence de l’hiver. Rien n’indiquait qu’une personne sans lien de dépendance aurait effectué un moins grand nombre de semaines en pareil cas.
+[22] Par conséquent, je ne puis conclure que la décision du ministre semble encore « raisonnable » à la lumière de la preuve qui a été présentée et, par conséquent, l’appel interjeté par Helen Williams en vertu de la Loi est accueilli.
+Signé à Halifax (Nouvelle‑Écosse), ce 3e jour de mai 2007.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 28e jour d’août 2007.
+Johanne Brassard, trad. a.
+RÉFÉRENCE : 2007CCI265
+Nos DES DOSSIERS DE LA COUR : 2006-3844(EI) ET 2006‑1865(EI)
+INTITULÉ : Helen Williams
+c.
+Le ministre du Revenu national
+LIEU DE L’AUDIENCE : Sydney (Nouvelle-Écosse)
+DATE DE L’AUDIENCE : Le 24 avril 2007
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 3 mai 2007
+COMPARUTIONS :
+Représentant de l’appelante :
+M. Gordie Gosse
+Avocate de l’intimé :
+Me Lindsay Holland
+AVOCAT INSCRIT AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

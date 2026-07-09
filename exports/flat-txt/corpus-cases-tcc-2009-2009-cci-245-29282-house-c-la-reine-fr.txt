@@ -1,0 +1,145 @@
+Title: House c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29282/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-245-29282-house-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2009-04-21
+
+# House c. La Reine
+
+- Citation: 2009 CCI 245
+- Decision date: 2009-04-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7083, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+House c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-04-21
+Référence neutre
+2009 CCI 245
+Numéro de dossier
+2007-1803(IT)G
+Juges et Officiers taxateurs
+Eugene P. Rossiter
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-1803(IT)G
+ENTRE :
+CLYDE HOUSE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête entendue sur le fondement des observations écrites des parties
+Devant : L’honorable juge en chef adjoint E. P. Rossiter
+Avocat de l’appelant :
+Me Ronald Cole
+Avocat de l’intimée :
+Me Martin Hickey
+____________________________________________________________________
+ORDONNANCE
+Vu la requête de l’appelant visant à obtenir une ordonnance annulant le jugement rendu oralement le 22 avril 2009, à St. John’s (Terre‑Neuve);
+Et vu les observations écrites des parties;
+La requête est rejetée conformément aux motifs de l’ordonnance ci‑joints.
+Signé à Ottawa, Canada, ce 19e jour de juin 2009.
+« E. P. Rossiter »
+Juge en chef adjoint Rossiter
+Traduction certifiée conforme
+ce 27e jour de juillet 2009.
+Alya Kaddour‑Lord, traductrice
+Référence : 2009 CCI 245
+Date : 20090619
+Dossier : 2007-1803(IT)G
+ENTRE :
+CLYDE HOUSE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Requête tranchée par l’honorable juge en chef adjoint E. P. Rossiter
+sur le fondement d’observations écrites.
+Comparutions :
+Avocat de l’appelant :
+Me Ronald Cole
+Avocat de l’intimée :
+Me Martin Hickey
+____________________________________________________________________
+MOTIFS DE L’ORDONNANCE
+Le juge en chef adjoint Rossiter
+[1] Les 21 et 22 avril 2009, j’ai entendu l’appel qui avait été interjeté par M. House à St. John’s (Terre‑Neuve), appel que j’ai rejeté oralement à l’audience le 22 avril 2009, pour les motifs qui sont énoncés au dossier.
+[2] L’appelant a déposé un avis de requête en redressement en vertu des articles 168 et 172 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »). À l’appui de sa requête, l’appelant a déposé en preuve son propre affidavit ainsi que celui de son comptable agréé, Fred Cole, qui a témoigné à l’audience. Les moyens invoqués par l’appelant sont les suivants, tels qu’ils apparaissent dans l’avis de requête :
+[traduction]
+L’appel de M. House a été rejeté oralement à l’audience en totalité ou en partie parce que l’appelant n’a pas fourni les documents de base, par erreur ou par omission, et parce que les motifs écrits n’ont pas encore été déposés; l’appelant souhaite se voir donner l’occasion de trouver et de déposer en preuve les documents de base afin de corriger l’erreur, et ce, afin qu’une décision éclairée soit rendue.
+L’article 172
+[3] L’article 172 des Règles prévoit :
+172. (1) Le jugement qui :
+a) comporte une erreur découlant d’un lapsus ou d’une omission;
+b) doit être modifié relativement à une question sur laquelle la Cour n’a pas statué,
+peut être modifié par la Cour, sur demande ou de son propre chef.
+(2) Une partie peut demander, par voie de requête dans l’instance, selon le cas :
+a) l’annulation ou la modification d’un jugement en raison d’une fraude ou de faits survenus ou découverts après qu’il a été rendu;
+b) un sursis d’exécution d’un jugement;
+c) une mesure de redressement différente de celle qui a déjà été accordée.
+[4] Le 22 avril 2009, un jugement a été rendu oralement à l’audience, mais l’ordonnance/le jugement écrit n’avait pas encore été signé au moment où la Cour a reçu l’avis de requête. L’article 2 des Règles assimile l’ordonnance à un jugement. Je ne crois pas que le présent appel se prête à l’application de l’article 172(1) des Règles, et ce, pour plusieurs raisons :
+1. L’article 172(1) des Règles traite des lapsus ou des omissions de la Cour. La décision en cause ne comporte pas d’erreur découlant d’un lapsus ou d’une omission de la Cour. Aucune preuve n’indique que la Cour a commis une erreur découlant d’un lapsus ou d’une omission. Seulement une partie des motifs sur lesquels la décision se fonde consiste à affirmer que l’appelant n’a déposé en preuve aucun document de base afin d’appuyer sa position à l’audience, en dépit du fait que deux occasions de le faire se soient présentées à lui. À l’occasion des discussions qu’il a eues avec l’intimée lors du processus d’établissement de la cotisation et de la nouvelle cotisation, l’appelant a expressément refusé de produire les documents de base demandés et a refusé à l’intimée l’accès aux sources de renseignements. De même, à l’audience, l’appelant n’a déposé en preuve aucun document de base à l’appui de sa position. Il a été représenté par un avocat et a reçu les conseils d’un comptable agréé; ils auraient tous deux dû savoir qu’il était important de produire des documents de base afin de permettre à la Cour de trancher les questions dont elle a été saisie en l’espèce.
+2. À mon avis, il n’est pas nécessaire de modifier le jugement qui a été rendu relativement aux questions sur lesquelles la Cour n’a pas statué, considérant que la Cour a statué sur toutes les questions dont elle a été saisie lors de l’audition de l’appel.
+3. Le 22 avril 2009, j’ai rendu un jugement oralement à l’audience; le temps que je rentre à mon bureau d’Ottawa et avant même que je n’aie signé la décision, c’est‑à‑dire l’ordonnance écrite dans laquelle étaient consignés les motifs que j’avais rendus oralement, j’avais reçu l’avis de requête de l’appelant. Je ne vais pas me pencher sur la question de savoir si cet avis de requête est prématuré étant donné que je pense, quand bien même c’était le cas, que la présente affaire ne se prête pas à l’application de l’article 172(1) des Règles, et ce, pour les motifs que j’ai exposés.
+L’article 168
+[5] En ce qui concerne une requête déposée en vertu de l’article 168 en vue d’obtenir une ordonnance de nouvel examen d’un jugement disposant d’un appel, l’article 168 prévoit ce qui suit :
+168. Lorsque la Cour a prononcé un jugement disposant d’un appel, toute partie peut, dans les dix jours de la date à laquelle elle a pris connaissance du prononcé du jugement, demander, par voie de requête, un nouvel examen des termes du prononcé du jugement, mais seulement pour l’une ou l’autre des raisons suivantes :
+a) le prononcé n’est pas en accord avec les motifs, le cas échéant
+b) on a négligé ou accidentellement omis de traiter dans le jugement d’une question dont on aurait dû traiter.
+Je suis d’avis que le prononcé du jugement est en accord avec les motifs du jugement. Le jugement a été signé le même jour et rend compte du fait que l’appel a été rejeté oralement le 22 avril 2009, comme le dossier le précise. La Cour n’a pas négligé ou accidentellement omis de traiter dans le jugement d’une question dont elle aurait dû traiter. La Cour a traité de toutes les questions dont elle a été saisie. L’appelant a omis de présenter des documents de base à l’appui de sa position. Comme il a été mentionné, l’appelant a eu deux occasions de présenter ces documents, la première à la demande de l’Agence du revenu du Canada, et la seconde à l’audience. L’appelant n’a présenté aucun document de base à l’appui de sa position.
+[6] L’affidavit de Clyde House a été déposé en preuve à l’appui de la présente requête. Il est en partie rédigé ainsi :
+[traduction]
+5. Je crois qu’il se peut que j’aie toujours en ma possession, ou que je sois en mesure d’obtenir, les documents de base ou une copie de ces documents. […]
+Aucun document n’était joint à cet affidavit.
+[7] L’affidavit de Fred Cole, le comptable agréé, a également été déposé en preuve à l’appui de la requête. Des copies de trois chèques étaient jointes à cet affidavit : le premier daté du 29 mai 2000, d’un montant de 200 000 $ et libellé à l’ordre du Labrador Savings & Credit Union (le « LSCU »); le deuxième d’un montant de 5 000 $, libellé à l’ordre du LSCU et daté du 16 novembre 2000; et le troisième d’un montant de 100 000 $, libellé au nom du Groupe Investors et daté du 18 janvier 1999. Ces chèques s’élèvent à un total de 305 000 $, mais ils ne corroborent pas les déclarations faites à l’audience voulant que la somme de 305 000 $ vienne d’Air Northland et ait été transférée au LSCU, au nom de l’épouse de l’appelante. De plus, il y a des incohérences d’ordre chronologique. Comme je l’ai dit, le prononcé du jugement est en accord avec les motifs du jugement et la Cour a tranché toutes les questions dont elle a été saisie. La Cour n’a pas négligé ou accidentellement omis de traiter de certaines questions.
+L’article 138
+[8] L’article 138 des Règles, qui traite de la réouverture de l’audience, est ainsi rédigé :
+138. (1) Le juge peut rouvrir l’audience avant que le jugement n’ait été prononcé aux fins et aux conditions qui sont appropriées.
+(2) À tout moment avant le jugement, le juge peut attirer l’attention des parties sur toute lacune dans la preuve de certains faits ou de certains documents pertinents à la cause d’une partie, ou sur toute lacune dans l’instance, et permettre à une partie de la combler aux fins et aux conditions qui sont appropriées.
+[9] Dans l’arrêt 671122 Ontario Ltd. c. Sagaz Industries Canada Inc., 2001 CSC 59 (CSC), la Cour suprême du Canada a décrit le critère applicable à la réouverture de l’audience.
+1. Si le nouvel élément de preuve avait été présenté, l’issue du procès aurait‑elle été vraisemblablement différente?
+2. Aurait‑il été possible d’obtenir l’élément de preuve avant le procès en faisant preuve de diligence raisonnable?
+[10] En ce qui concerne la première question, qui est de savoir si l’issue du procès aurait vraisemblablement été différente dans le cas où le nouvel élément de preuve avait été présenté, je ne dispose d’aucune information relative à ce que cet élément de preuve peut être. Je dispose de l’affidavit de l’appelant, dans lequel celui‑ci déclare qu’il croit avoir en sa possession ou être en mesure d’obtenir des documents de base ou des copies de ces documents, mais je n’ai aucune information au sujet de la nature de ces documents. En outre, je souscris à l’observation de l’intimée voulant que rien ne laisse entendre comment de tels documents, dont j’ignore la nature, pourraient changer l’issue du procès.
+[11] En l’espèce, pour savoir si l’article 138 s’applique, il faut établir si l’élément de preuve aurait pu être obtenu avant le procès avec toute la diligence raisonnable. L’appelant aurait certainement pu obtenir les documents susceptibles d’appuyer sa position à l’audience. Les documents en question se trouvaient dans les propres dossiers de l’appelant, ou alors dans les dossiers des institutions financières avec lesquelles il faisait affaire. Il apparaît clairement du fait que le comptable de l’appelant a été en mesure de produire trois chèques datés de 1999 et de 2000, la période au cours de laquelle des poursuites ont été intentées devant la Cour, à moins de cinq jours de la date à laquelle la Cour a rendu sa décision oralement, que les documents en question auraient pu et auraient dus être présentés à l’audience. L’appelant était représenté par un avocat et un comptable agréé à l’audience, tous deux ayant représenté l’appelant bien avant que l’appel soit entendu et ayant également traité avec l’intimée bien avant que le procès ne commence.
+[12] Dans les motifs que j’ai rendus oralement, j’ai informé les parties qu’il s’agissait d’une affaire pour laquelle on aurait dû effectuer un interrogatoire préalable et dans le cadre de laquelle l’appelant aurait dû produire des documents. J’ai rappelé aux parties que la date du procès n’avait été fixée qu’après qu’elles en eurent conjointement fait la demande; la Cour ne la leur a pas imposée. Une demande de date de procès formulée conjointement par les deux parties indique qu’elles sont prêtes à se présenter devant la Cour. L’appelant n’était pas prêt. Les parties se sont présentées au procès sans avoir effectué d’interrogatoire préalable et sans avoir mis de l’ordre dans leurs documents, dans une affaire pour laquelle elles savaient, ou auraient dû savoir, que ces documents constitueraient un élément important à l’appui des faits que l’appelant devait prouver.
+[13] D’après moi, il ne s’agit pas d’une affaire justifiant la réouverture de l’audience, considérant que l’appelant n’a pas satisfait aux conditions énoncées à l’article 138.
+[14] La requête de l’appelant est rejetée et les dépens afférents à la présente requête sont adjugés à l’intimée.
+Signé à Ottawa, Canada, ce 19e jour de juin 2009.
+« E. P. Rossiter »
+Juge en chef adjoint Rossiter
+Traduction certifiée conforme
+ce 27e jour de juillet 2009.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE : 2009 CCI 245
+NO DU DOSSIER DE LA COUR : 2007-1803(IT)G
+INTITULÉ : Clyde House et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : St. John’s (Terre‑Neuve)
+DATE DE L’AUDIENCE : Requête présentée par voie d’observations écrites
+MOTIFS DE L’ORDONNANCE : L’honorable juge en chef adjoint E. P. Rossiter
+DATE DE L’ORDONNANCE : Le 19 juin 2009
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Ronald A. Cole
+Avocat de l’intimée :
+Me Martin Hickey
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Ronald A. Cole
+Cabinet : Cole Law Offices
+Pour l’intimée : John H. Sims, c.r.
+Sous‑procureur général du Canada
+Ottawa, Canada

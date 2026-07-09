@@ -1,0 +1,569 @@
+Title: Calgary Board of Education c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30677/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-7-30677-calgary-board-of-education-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-01-08
+
+# Calgary Board of Education c. La Reine
+
+- Citation: 2012 CCI 7
+- Decision date: 2012-01-08
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7174, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Calgary Board of Education c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-01-08
+Référence neutre
+2012 CCI 7
+Numéro de dossier
+2007-3806(GST)G
+Juges et Officiers taxateurs
+Gaston Jorré
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2007-3806(GST)G
+ENTRE :
+CALGARY BOARD OF EDUCATION,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de
+Boardwalk Equities Inc. (2007-3723(GST)G),
+les 19 et 20 août 2010, à Calgary (Alberta).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocats de l’appelant :
+Me Salvatore Mirandola
+Me Jean-Philippe Couture
+Avocate de l’intimée :
+Me Kathleen T. Lyons
+JUGEMENT
+Pour les motifs énoncés dans les motifs du jugement ci‑joints, l’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise pour la période allant du 1er janvier 2001 au 28 février 2002, dont l’avis est daté du 6 juin 2003, est rejeté avec dépens.
+Signé à Ottawa (Ontario), ce 8e jour de janvier 2012.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 27e jour d’avril 2012.
+Mario Lagacé, jurilinguiste
+Dossier : 2007-3723(GST)G
+ENTRE :
+BOARDWALK EQUITIES INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel du
+Calgary Board of Education (2007-3806(GST)G),
+les 19 et 20 août 2010, à Calgary (Alberta).
+Devant : L’honorable juge Gaston Jorré
+Comparutions :
+Avocats de l’appelante :
+Me Salvatore Mirandola
+Me Jean-Philippe Couture
+Avocate de l’intimée :
+Me Kathleen T. Lyons
+JUGEMENT
+Pour les motifs énoncés dans les motifs du jugement ci‑joints, l’appel de la cotisation établie en vertu de la Loi sur la taxe d’accise pour la période allant du 1er janvier au 31 décembre 2001, dont l’avis est daté du 8 juillet 2003, est rejeté avec dépens.
+Signé à Ottawa (Ontario), ce 8e jour de janvier 2012.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 27e jour d’avril 2012.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 7
+Date : 20120108
+Dossiers : 2007-3806(GST)G
+2007-3723(GST)G
+ENTRE :
+CALGARY BOARD OF EDUCATION,
+BOARDWALK EQUITIES INC.,
+appelants,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Jorré
+Introduction
+[1] Au début de l’année 2001, les prix de l’énergie en Alberta avaient considérablement augmenté.
+[2] D’une part, la déréglementation du marché de l’électricité avait donné lieu à d’importantes augmentations du prix de l’électricité. D’autre part, la demande de gaz naturel était très élevée et les prix payés par les clients, en Alberta, pour le gaz naturel au mois de janvier 2001 étaient environ trois fois plus élevés que ceux de l’année précédente[1].
+[3] Le gouvernement de l’Alberta voulait offrir de l’aide. Il a pris des mesures en vue d’améliorer le fonctionnement du marché de l’électricité.
+[4] Le gouvernement de l’Alberta a également pris un certain nombre de mesures en vue de réduire l’impact immédiat des prix élevés de l’énergie pour les clients. Il a notamment mis en œuvre un programme de remboursement pour l’électricité; il a également mis en œuvre un programme de remboursement pour l’huile de chauffage[2]. Un remboursement de la taxe sur l’énergie de 300 $ a également été accordé à chaque adulte.
+[5] L’ampleur de ces mesures était passablement importante; pour les clients résidentiels, le remboursement, à l’égard de l’électricité, était de 40 $ par mois pour une période d’un an et le remboursement, à l’égard du gaz naturel, était de 150 $ par mois pour une période de quatre mois, soit un montant global de 1 080 $[3].
+[6] Les clients non résidentiels tels que les appelants pouvaient également recevoir des remboursements, mais ces remboursements étaient calculés en fonction de l’utilisation, contrairement au tarif fixe dont bénéficiaient les clients résidentiels.
+[7] Il s’agit ici de savoir si la taxe sur les produits et services (la « TPS ») des appelants doit être calculée sur le montant brut que leurs fournisseurs facturaient pour l’électricité ou le gaz, comme le soutient l’intimée, ou si elle doit être calculée sur le prix de l’énergie utilisée une fois déduit le montant du remboursement, comme l’affirment les appelants[4].
+Les faits
+Exposé conjoint partiel des faits / recueil conjoint de documents
+[8] Les faits sous-jacents ne sont pas vraiment contestés[5]. La plupart des éléments de preuve, en l’espèce, ont été présentés sur consentement. Les parties ont déposé un recueil conjoint de documents ainsi qu’un exposé conjoint partiel des faits.
+[9] De plus, Terry Holmes, directeur des services publics ruraux, Alberta Agriculture and rural Development[6], a témoigné et certaines parties de la transcription de l’interrogatoire préalable de Grant Breen, du Calgary Board of Education (le « Conseil scolaire de Calgary », le « Conseil »), ont été consignées en preuve.
+[10] Les parties m’ont informé que le montant n’était pas en litige[7]. L’exposé conjoint partiel des faits dit ce qui suit :
+[traduction]
+Programmes de remboursement de l’Alberta – Introduction
+1. Au mois de décembre 2000, la province de l’Alberta (l’« Alberta ») a annoncé la mise en œuvre de programmes de remboursement à l’égard de l’énergie, en vue de l’octroi de subventions et de crédits au profit des Albertains afin de venir en aide à ceux‑ci à l’égard de leur consommation d’énergie, pour le chauffage et l’éclairage d’habitations ou d’autres locaux. Les subventions étaient accordées pour le gaz naturel (le « gaz »), le propane ou d’autres huiles de chauffage pour la période allant du 1er janvier au 30 avril 2001 (la « période pertinente »). Des crédits étaient accordés à l’égard de l’électricité pour toute l’année 2001 (la « période pertinente »). Les périodes de demandes relatives à la TPS dans la présente instance sont les mêmes que les périodes pertinentes.
+2. L’Alberta a instauré les subventions et les crédits (les « remboursements ») pour les périodes pertinentes en vue de fournir aux Albertains une protection contre la montée en flèche et l’augmentation des prix de l’énergie ainsi qu’en vue de leur accorder une assistance.
+3. Tous les consommateurs résidentiels et la plupart des consommateurs non résidentiels (les « consommateurs ») étaient admissibles à un remboursement quelconque au cours des périodes pertinentes.
+4. L’Alberta pouvait à son gré accorder les remboursements directement aux consommateurs ou accorder les remboursements aux fournisseurs d’énergie au profit des consommateurs.
+5. L’émission directe de chèques aux consommateurs aurait été trop compliquée et aurait pris beaucoup de temps pour l’Alberta sur le plan administratif, en ce sens que l’Alberta se serait vue obligée de mettre sur pied un système et de recueillir des renseignements sur les catégories de consommation et de tarif. Étant donné que les fournisseurs disposaient déjà d’un système leur permettant de communiquer avec tous les clients et d’enregistrer leur consommation d’énergie, l’utilisation des systèmes de facturation des fournisseurs évitait d’avoir à créer un système. Dans la plupart des cas, pour l’année 2001, l’Alberta a décidé d’accorder les remboursements aux fournisseurs d’énergie. Les fournisseurs d’énergie tels qu’Atco Gas (« Atco ») et Enmax (« Enmax ») pour l’électricité ainsi que d’autres fournisseurs d’énergie (les « fournisseurs ») imputaient ensuite les remboursements aux factures mensuelles qu’ils envoyaient aux consommateurs, de façon à fournir une aide immédiate aux Albertains.
+6. Un processus de demande était nécessaire dans les cas moins communs – par exemple, si les consommateurs d’énergie pour le chauffage de locaux ne recevaient pas de factures des fournisseurs d’énergie ou s’ils avaient reçu une facture sans obtenir de remboursement; si les consommateurs achetaient du propane ou d’autres huiles de chauffage, ou s’ils voulaient faire examiner le montant du remboursement indiqué dans leur facture pour le gaz ou s’ils voulaient un remboursement autre que celui qui leur avait été accordé; ou encore si le système de facturation du fournisseur de gaz n’était pas disponible. En pareil cas, les consommateurs pouvaient remplir un formulaire et demander directement à l’Alberta les remboursements ou un rajustement des remboursements. L’Alberta remettait alors directement des chèques de remboursement aux consommateurs s’ils fournissaient des renseignements à l’appui[8].
+7. Les fournisseurs participaient au processus d’octroi de remboursements sans qu’une entente écrite ou un arrangement formel ait été conclu avec l’Alberta. L’Alberta estimait que, si les remboursements étaient accordés de cette façon, les fournisseurs pouvaient maintenir de bonnes relations avec leurs clients à un moment où les coûts de l’énergie étaient à la hausse.
+8. Les remboursements étaient distribués, avec la participation des fournisseurs, par imputation aux factures de gaz. En ce qui concerne les remboursements applicables à l’électricité, le Balancing Pool Allocation Regulation prévoyait que les fournisseurs d’électricité devaient distribuer les remboursements en les incluant dans les factures d’électricité.
+9. Les remboursements étaient accordés aux fournisseurs et ils étaient imputés aux factures d’énergie des consommateurs.
+10. Pendant les périodes pertinentes, l’Alberta n’était pas tenue de fournir du gaz ou de l’électricité aux consommateurs.
+Programme de remboursement relatif au gaz et remboursements
+11. Compte tenu de l’augmentation des redevances, l’Alberta avait la possibilité d’atténuer l’impact pour les consommateurs au cours d’une période où les factures de gaz étaient particulièrement élevées. Un règlement existant a été modifié en vue de permettre l’octroi de remboursements (c’est‑à‑dire des subventions relatives au gaz). Le programme de remboursement relatif au gaz s’appliquait du 1er janvier au 30 avril 2001. Des remboursements s’élevant en tout à 1,1 milliard de dollars ont été accordés aux Albertains au cours de la période pertinente. Les remboursements pour le gaz étaient financés à l’aide des recettes provenant des redevances.
+12. Initialement, les consommateurs résidentiels devaient recevoir un remboursement de 50 $ par mois. Le montant du remboursement a ensuite été porté à 150 $ par mois dans les factures de gaz au cours de la période pertinente, et ce, peu importe les modalités d’achat du gaz et peu importe de qui le gaz était acheté.
+13. Les consommateurs non résidentiels recevaient au cours de la période pertinente un remboursement en fonction de la consommation réelle de gaz, de 6 $ par gigajoule (« GJ »), jusqu’à un maximum de 5 000 GJ ou de 30 000 $ par mois, dans leurs factures de gaz, indépendamment du tarif qu’ils payaient au fournisseur avec qui ils avaient conclu un contrat ou à tout fournisseur par défaut. Les consommateurs commerciaux d’un « bâtiment résidentiel » recevaient un remboursement en fonction de la consommation de gaz, de 6 $ le GJ.
+14. Les consommateurs de propane ou d’huile de chauffage étaient admissibles, sur demande présentée à l’Alberta, à un remboursement équivalent basé sur leur consommation.
+Administration du programme de remboursement relatif au gaz et remboursements
+15. En 2001, il y avait environ 110 fournisseurs de gaz. Le processus, pour l’octroi de remboursements relatifs au gaz, était le suivant : les fournisseurs de gaz envoyaient des factures aux consommateurs selon leurs pratiques de facturation normales. Certaines factures étaient basées sur la consommation réelle, si le compteur était lu, alors que d’autres étaient basées sur des estimations.
+16. Sauf dans de rares cas, comme il en est fait mention au paragraphe 22 du présent document, les fournisseurs de gaz, en 2001, ne fournissaient pas à l’Alberta une estimation des remboursements qu’ils imputeraient aux factures des consommateurs. Dans le cas des consommateurs non résidentiels, les remboursements étaient calculés et accordés en fonction de la quantité d’énergie consommée indiquée dans les factures des consommateurs. Le montant du remboursement était imputé aux factures générées à l’aide du système de facturation du fournisseur de gaz. Les factures étaient envoyées aux consommateurs selon les pratiques de facturation du fournisseur de gaz, la date du paiement à effectuer par le consommateur étant établie selon la pratique du fournisseur de gaz. Il pouvait s’écouler, selon le fournisseur, de 21 à 35 jours entre la date de la facturation et celle du paiement.
+17. Les fournisseurs de gaz présentaient ensuite une demande à l’Alberta à l’égard du montant des remboursements qu’ils avaient réellement imputé aux factures de leurs clients. Les fournisseurs pouvaient envoyer à l’Alberta la demande relative aux montants des remboursements dès qu’ils avaient achevé leurs processus de facturation, ou n’importe quand par la suite.
+18. Après avoir examiné la demande, l’Alberta remettait aux fournisseurs de gaz les montants des remboursements réels indiqués dans les factures des consommateurs. Dans la plupart des cas, l’Alberta remettait les montants des remboursements aux fournisseurs de gaz au moyen d’un dépôt direct dans leur compte bancaire le jour où les factures des consommateurs étaient dues ou la veille de ce jour. Toutefois, si un fournisseur de gaz présentait en retard à l’Alberta sa demande de remboursement, les dépôts directs auraient été effectués après la date d’échéance indiquée dans la facture du consommateur. C’était le consommateur et non l’Alberta qui devait payer les intérêts et les pénalités au fournisseur de gaz sur tout montant dû après la date d’échéance.
+19. Dans le cas des consommateurs résidentiels, un remboursement fixe de 150 $ par mois était imputé à leurs factures. Toutefois, le même processus était également suivi aux fins du calcul des remboursements, des demandes de remboursement que les fournisseurs présentaient à l’Alberta et du dépôt direct des remboursements effectués par l’Alberta le jour où les factures des consommateurs étaient dues ou la veille de ce jour, étant donné que les demandes se rapportaient à un cycle de facturation.
+20. Les sommes que l’Alberta versait aux fournisseurs de gaz pour les remboursements n’avaient pas à être séparées.
+21. Les petits fournisseurs de gaz établissaient normalement des factures mensuelles – c’est‑à‑dire qu’ils produisaient une seule série de factures chaque mois. Les fournisseurs de gaz plus importants utilisaient la facturation par cycle – c’est‑à‑dire qu’ils envoyaient chaque jour des factures à une partie de leurs clients. La plupart des gros fournisseurs effectuent de 20 à 21 cycles par mois. Le regroupement des consommateurs dans un cycle précis dépend des dates de lecture du compteur. Ainsi, tous les clients dont le compteur est normalement lu le troisième jour du mois faisaient partie du même cycle de facturation. Un cycle de facturation serait généralement composé d’un ensemble de clients résidentiels, commerciaux et industriels.
+22. Dans de rares cas, l’Alberta versait les remboursements aux fournisseurs en fonction d’estimations. Cela se produisait lorsque l’Alberta traitait avec des petits fournisseurs qui faisaient face à certains défis sur le plan de l’administration du programme de remboursement. Si un petit fournisseur n’était pas en mesure de fournir les renseignements concernant la consommation mensuelle réelle dans les délais prescrits, l’Alberta estimait la consommation en fonction des montants réels des mois antérieurs et les sommes pour les remboursements étaient versées aux fournisseurs sur cette base. Un rapprochement était effectué entre les montants réels avant que les sommes pour les remboursements du mois suivant soient versées et le rajustement approprié était effectué. En fin de compte, l’Alberta veillait à ce que le bon montant soit versé à chaque fournisseur. Les fournisseurs en cause dans les présents appels ne sont pas de petits fournisseurs.
+23. Lorsque les programmes de remboursement prenaient fin, l’Alberta effectuait de la manière suivante un rapprochement avec tous les fournisseurs de gaz, et tout manque était payé ou tout excédent était remboursé. Tous les fournisseurs, sauf Atco, remettaient à l’Alberta un extrait de données de leurs systèmes de facturation et l’Alberta effectuait un rapprochement entre ces renseignements et les renseignements dont elle disposait quant aux montants qu’elle avait versés aux fournisseurs pour les remboursements. Atco, en sa qualité de gros fournisseur, a fait l’objet d’une vérification en vue de confirmer que tous les montants que l’Alberta lui avait versés pour les remboursements avaient été imputés aux consommateurs dans leurs factures à titre de remboursements.
+Programme de remboursement relatif à l’électricité et remboursements
+24. Le programme de remboursement relatif à l’électricité s’appliquait à l’année 2001. La réorganisation du secteur de l’électricité, avant l’année 2001, visait à encourager un marché concurrentiel de détail de l’électricité en permettant à ce marché de répondre aux changements de l’offre et de la demande, de façon à offrir aux consommateurs des prix plus concurrentiels et un plus grand nombre de choix à l’égard des fournisseurs d’électricité. Le Power Pool Council administre le Balancing Pool (le « BP »). Le BP a été établi en 1999 à titre de compte financier aux fins de la réception et du versement des fonds provenant de la transition vers un marché de production énergétique concurrentiel pour le compte des consommateurs d’électricité.
+25. La vente aux enchères publique d’accords d’achat d’énergie (les « AAE ») concernant le droit d’acheter la production future d’électricité constituait un élément important de cette transition. Les AAE ont été créés en vue d’assurer une plus grande concurrence. Les AAE ont été vendus dans des ventes aux enchères publiques aux soumissionnaires, aux fournisseurs d’énergie et aux participants au BP, aux mois d’août et de décembre 2000. Le produit net de 2,1 milliards de dollars des ventes aux enchères a été placé dans le BP.
+26. La législation établissait les rôles et les responsabilités des fournisseurs d’électricité et du BP à l’égard de la distribution des remboursements relatifs à l’électricité (c’est‑à‑dire les crédits du BP) pour les consommateurs et aux consommateurs. En 2001, les remboursements ont été versés aux fournisseurs d’électricité par le Power Pool Council à l’aide du BP et ils ont ensuite été imputés aux factures des consommateurs au moyen du processus de facturation des fournisseurs d’électricité. Le Balancing Pool obligeait les fournisseurs d’électricité à imputer les remboursements aux factures d’électricité envoyées aux consommateurs. Ces remboursements visaient à venir en aide aux consommateurs au cours d’une période où les prix étaient élevés.
+27. Les sommes que l’Alberta versait aux fournisseurs d’électricité pour les remboursements n’avaient pas à être séparées.
+28. En 2001, des remboursements relatifs à l’électricité s’élevant en tout à 2,1 milliards de dollars ont été distribués aux Albertains. Les prix élevés du pool d’électricité ont entraîné un versement plus rapide des sommes prévues pour les remboursements au moyen du BP en vue de venir en aide aux consommateurs.
+29. Au cours de la période pertinente, les consommateurs résidentiels recevaient un remboursement de 40 $ par mois sur leurs factures d’électricité, en fonction d’une consommation mensuelle de 650 kilowattheures pour un ménage moyen.
+30. Au cours de la période pertinente, les consommateurs non résidentiels (industriels, commerciaux, groupes de consommateurs et entreprises) recevaient un remboursement mensuel à l’égard des factures d’électricité, en fonction de la consommation réelle globale admissible. On calculait le remboursement en multipliant 3,6 cents le kilowattheure par la consommation réelle admissible des consommateurs. Les agriculteurs recevaient des remboursements à titre de consommateurs résidentiels et de consommateurs non résidentiels d’électricité.
+Administration du programme de remboursement relatif à l’électricité et remboursements
+31. En 2001, les fournisseurs d’électricité devaient calculer sur une base mensuelle les remboursements pour les consommateurs et imputer ensuite les remboursements aux factures d’électricité envoyées chaque mois aux consommateurs. Les montants des remboursements mensuels étaient basés sur la consommation réelle mensuelle admissible d’électricité.
+32. Les fournisseurs devaient fournir des données au BP au plus tard le septième jour ouvrable de chaque mois. Les fournisseurs qui faisaient affaire avec des consommateurs résidentiels devaient indiquer la consommation réelle admissible du mois précédent. Tous les fournisseurs, quel que soit le type de consommateur, devaient signaler le plus tôt possible tout rajustement apporté aux montants des remboursements imputés au cours des mois antérieurs. Les rajustements devaient correspondre aux montants imputés aux factures des consommateurs.
+33. À l’automne 2001, les fournisseurs devaient établir des prévisions pour les mois qui restaient en 2001 aux fins de l’imputation mensuelle dans le cas des consommateurs résidentiels et aux fins de l’imputation de la consommation mensuelle admissible dans le cas des consommateurs non résidentiels. Si un fournisseur avait obtenu des remboursements en fonction de prévisions, un rajustement unique était effectué, de façon que les montants des remboursements établis selon les prévisions correspondent à la consommation réelle admissible.
+Déréglementation des prix et tarif
+34. En 2001, les consommateurs de l’Alberta pouvaient acheter du gaz d’un fournisseur en vertu d’un contrat prévoyant habituellement la fourniture du gaz à un prix fixe par GJ pour une période précise ou selon un tarif variable. Les consommateurs qui décidaient de ne pas acheter du gaz en vertu d’un contrat obtenaient le gaz selon un tarif par défaut (le soi‑disant « tarif réglementé »). En 2001, ce tarif par défaut était établi selon une méthode approuvée par l’Energy and Utilities Board (l’« EUB »), mais le tarif reflétait les forces du marché. Cette méthode visait à assurer l’uniformité parmi les fournisseurs. Les fournisseurs demandaient l’approbation de l’EUB, qui veillait à ce que ceux‑ci utilisent la méthode approuvée. Les remboursements étaient imputés aux factures des consommateurs, et ce, que ceux‑ci achètent le gaz en vertu d’un contrat conclu avec un fournisseur moyennant un tarif fixe ou variable ou qu’ils obtiennent le gaz d’un fournisseur par défaut selon le tarif par défaut.
+35. La Electric Utilities Act a été édictée au mois de mai 1995. Elle établissait le pool d’énergie, le nouveau marché au comptant et les couvertures législatives. L’électricité produite en Alberta fait partie du pool d’énergie. Cette réorganisation du secteur de l’électricité visait à encourager un marché concurrentiel de détail de l’électricité en permettant à ce marché de répondre aux changements de l’offre et de la demande, de façon à offrir aux consommateurs des prix plus concurrentiels et un plus grand nombre de choix de fournisseurs d’électricité. Un système de « couvertures législatives » maintenait le régime du prix réglementé pour la plupart des clients, tant que les couvertures n’expiraient pas, jusqu’au 31 décembre 2000. La couverture devait maintenir le prix réglementé pour la production d’électricité réglementée existant en 1995 – un volume précis de capacité de production – et le prix réglementé de l’électricité était réparti entre les services publics de distribution selon leur quote-part. Bref, le service public de distribution qui livrait un pourcentage de la charge provinciale avait droit à son pourcentage proportionnel au prix réglementé de l’électricité. En 2001, les consommateurs ont été exposés aux prix déterminés sur le marché de gros.
+36. Le 1er janvier 2001, les consommateurs d’électricité qui avaient décidé de ne pas conclure de contrat avec un fournisseur d’électricité ont automatiquement été placés dans l’option de tarif réglementé (l’« OTR »); le service d’électricité continuait à être assuré par le fournisseur d’énergie existant. En 2001, tous les fournisseurs faisant partie de l’OTR étaient tenus de demander onze cents le kilowattheure dans les factures d’électricité adressées aux clients. Si, par la suite, un déficit était accusé ou un surplus était accumulé relativement aux onze cents, parce que l’électricité était achetée sur le marché concurrentiel, les fournisseurs pouvaient présenter une demande à l’EUB, après le mois d’octobre 2001, pour que celle‑ci approuve la perception de la différence auprès des clients ou le remboursement de celle‑ci par ces derniers. L’OTR était basée sur la stratégie d’achat de chaque fournisseur d’énergie et le prix variait en fonction du prix du marché.
+Le Calgary Board of Education (le « CBE »)
+37. Le CBE est le conseil scolaire de la ville de Calgary et un organisme de services publics au sens de l’article 259 de la partie IX de la Loi sur la taxe d’accise.
+38. Le CBE a demandé, et a obtenu, à titre d’organisme de services publics, un remboursement correspondant à 68 p. 100 de la taxe exigible à l’égard du gaz et de l’électricité (l’« énergie ») qu’il avait acquis au cours des périodes pertinentes.
+39. Pendant les périodes pertinentes, le CBE était un consommateur non résidentiel d’énergie.
+40. Pendant la période pertinente, le CBE avait conclu avec Atco une entente écrite qui était semblable à l’entente qu’il avait conclue avec Enmax. En vertu de l’entente, le CBE devait payer à Atco le prix du gaz que cette dernière lui fournissait en fonction de la quantité d’énergie consommée.
+41. Le CBE recevait d’Atco des factures mensuelles sur lesquelles figuraient divers montants, incluant notamment le coût de livraison du gaz, le coût du gaz basé sur la quantité consommée au cours de la période de facturation, les tarifs de gaz et les frais municipaux de concession. La facture indiquait également le rajustement du remboursement relatif au gaz naturel du gouvernement de l’Alberta découlant du programme de remboursement relatif au gaz naturel du gouvernement de l’Alberta, lequel était calculé en fonction de la quantité réelle de gaz consommée.
+42. Au mois de décembre 2000, le CBE a conclu avec Enmax une entente écrite, l’entente de prestation de services d’électricité (l’« entente ») qui entrait en vigueur le 1er janvier 2001. Conformément à l’entente :
+(i) le CBE choisissait Enmax aux fins de la prestation de services d’électricité à compter du 1er janvier 2001;
+(ii) Enmax s’engageait à fournir de l’électricité au CBE et le CBE convenait d’acheter l’électricité d’Enmax;
+(iii) le CBE recevait d’Enmax des factures mensuelles indiquant divers montants, notamment le coût de l’électricité, basé sur la quantité d’électricité consommée au cours d’un cycle de facturation particulier, les frais d’accès au système, les frais d’accès à la distribution, ainsi que les frais municipaux de consentement et d’accès pour l’électricité fournie au CBE au cours de la période pertinente;
+(iv) le prix de l’approvisionnement en électricité était déterminé à l’aide des montants au kilowattheure sur lesquels le CBE et Enmax s’étaient entendus au cours des périodes de pointe et des périodes hors pointe, compte tenu des quantités d’électricité consommées;
+(v) le CBE devait payer à Enmax le prix de l’électricité qu’Enmax lui fournissait compte tenu de la quantité d’électricité consommée.
+43. Les factures d’Enmax indiquaient également le remboursement relatif à l’électricité non résidentielle de l’Alberta pour chaque mois, le calcul étant fondé sur la quantité réelle d’électricité consommée.
+44. La TPS de 7 p. 100 était calculée sur le montant compte tenu de la valeur des frais figurant dans les factures que le CBE recevait des fournisseurs d’énergie. La TPS était calculée sur le coût du gaz, sur le coût de distribution du gaz et sur les frais municipaux de consentement, avant les remboursements relatifs à l’énergie. Le CBE acquittait les factures.
+45. Le CBE a cherché à obtenir des remboursements de la TPS auprès du ministre du Revenu national pour la partie de la TPS qu’il affirmait avoir payée par erreur relativement aux montants de la TPS attribuables aux remboursements.
+46. Le CBE communiquait directement avec les fournisseurs plutôt qu’avec l’Alberta s’il se posait certaines questions au sujet du paiement de la facture. Les fournisseurs communiquaient avec le CBE en cas de désaccord quant à l’entente, à la facture ou à l’énergie fournie.
+47. Pendant les périodes pertinentes :
+a) l’Alberta n’intervenait pas dans le choix des fournisseurs d’énergie que faisait le CBE et n’insistait pas sur le choix d’un fournisseur;
+b) l’Alberta n’était pas responsable des commandes d’approvisionnement en gaz et en électricité passées auprès d’Atco ou d’Enmax pour le compte du CBE;
+c) l’Alberta n’était pas partie aux ententes conclues entre le CBE et Atco ou entre le CBE et Enmax au sujet de l’approvisionnement en gaz ou en électricité;
+d) l’Alberta n’agissait pas à titre de cosignataire à l’égard des comptes de gaz ou d’électricité que le CBE détenait auprès d’Atco ou d’Enmax;
+e) l’Alberta n’était pas responsable des services visés par les factures qu’Atco ou Enmax envoyaient au CBE.
+48. S’il se posait un problème au sujet de l’entente que les consommateurs concluaient avec un fournisseur d’énergie ou de la facture d’un fournisseur d’énergie, l’Alberta n’intervenait pas dans la relation existant entre le fournisseur et le consommateur relativement à l’approvisionnement en énergie. L’Alberta avait établi un bureau responsable du programme qui aidait les consommateurs et répondait aux demandes de renseignements se rapportant à des questions de remboursement. Un certain nombre de consommateurs communiquaient directement avec l’Alberta pour demander des explications au sujet des programmes de remboursement.
+Boardwalk Equities Inc. (« Boardwalk »)
+49. Boardwalk est propriétaire de bâtiments; elle loue des habitations multifamiliales dans ces bâtiments; chaque bâtiment faisant partie des complexes comporte de 40 à une centaine de logements locatifs.
+50. En 2001 :
+a) Boardwalk exploitait 17 000 logements locatifs en Alberta et 9 000 logements locatifs dans deux autres provinces; elle possédait des ensembles de maisons en rangée qui étaient louées pour une période d’au moins un mois, la plupart des habitations étant cependant louées à long terme;
+b) C’était parfois Boardwalk qui était responsable de la fourniture d’énergie aux logements locatifs de chaque ensemble résidentiel et c’était parfois le locataire qui en était responsable; Boardwalk devait veiller à ce que l’énergie soit rétablie lorsqu’un logement était inoccupé et qu’aucun locataire ne payait les fournisseurs d’énergie;
+c) Boardwalk veillait à ce que l’énergie soit fournie dans les aires communes des immeubles;
+d) Boardwalk louait une partie des ensembles résidentiels en tant que locaux commerciaux;
+e) Boardwalk était un consommateur non résidentiel de gaz (c’est‑à‑dire un consommateur commercial d’énergie pour les immeubles d’habitation renfermant des logements locatifs) au titre du programme de remboursement relatif au gaz;
+f) Boardwalk était un consommateur non résidentiel d’électricité et, dans certains cas isolés, un consommateur résidentiel d’électricité au titre du programme de remboursement relatif à l’électricité.
+51. Pendant les périodes pertinentes, Boardwalk choisissait les fournisseurs aux fins de l’approvisionnement en gaz et en électricité.
+52. Les fournisseurs s’engageaient à fournir le gaz et l’électricité et Boardwalk s’engageait à acheter le gaz et l’électricité des fournisseurs respectifs d’énergie.
+53. Pendant les périodes pertinentes, Boardwalk avait conclu des ententes avec Atco pour le gaz et avec Enmax pour l’électricité ainsi qu’avec d’autres fournisseurs d’énergie, elle s’était engagée à payer les fournisseurs et elle était responsable du paiement se rattachant à la fourniture d’énergie, compte tenu de la quantité d’énergie consommée.
+54. Le prix de l’approvisionnement en gaz était déterminé par le prix, fixe ou variable, au GJ sur lequel Boardwalk et les fournisseurs de gaz s’étaient entendus compte tenu de la quantité réelle de gaz consommée par Boardwalk.
+55. Le prix de l’approvisionnement en électricité était déterminé par le prix au kilowattheure au cours des périodes de pointe et des périodes hors pointe sur lequel Boardwalk et les fournisseurs d’électricité s’étaient entendus compte tenu de la quantité réelle d’électricité consommée par Boardwalk.
+56. En vertu des ententes conclues entre Boardwalk et les fournisseurs de gaz ou d’électricité, Boardwalk était responsable du paiement du prix de l’électricité et du gaz qu’elle fournissait.
+57. Boardwalk recevait des fournisseurs de gaz des factures mensuelles indiquant divers frais, incluant notamment le coût de livraison du gaz, le coût du gaz basé sur la quantité réelle de gaz consommée au cours de la période de facturation, les tarifs de gaz et les frais municipaux de concession. La facture indiquait également le rajustement du remboursement relatif au gaz naturel du gouvernement de l’Alberta découlant du programme de remboursement relatif au gaz naturel de l’Alberta, lequel était calculé en fonction de la quantité réelle de gaz consommée par les consommateurs non résidentiels.
+58. Boardwalk recevait des fournisseurs d’électricité des factures mensuelles indiquant divers frais, notamment le coût de l’électricité basé sur la quantité réelle d’électricité consommée au cours d’un cycle de facturation, les frais d’accès au système, les frais d’accès à la distribution, ainsi que les frais municipaux de consentement et d’accès pour l’électricité fournie à Boardwalk au cours de la période pertinente. Les factures des fournisseurs d’électricité indiquaient le remboursement relatif à l’électricité non résidentielle de l’Alberta qui était accordé chaque mois, lequel était calculé en fonction de la quantité réelle d’électricité consommée à titre de consommateur non résidentiel. Une facture indiquait un remboursement de 40 $, soit un montant fixe, alors que d’autres factures indiquaient des remboursements à des taux variables, à titre de consommateur résidentiel.
+59. La TPS de 7 p. 100 était calculée sur le montant de la valeur des frais figurant dans les factures que Boardwalk recevait de chacun des fournisseurs de gaz et d’électricité. Pour le gaz, la TPS était calculée sur le coût du gaz, sur le coût de livraison du gaz et sur les frais municipaux de concession, avant les remboursements relatifs au gaz. Pour l’électricité, la TPS était calculée sur divers frais, notamment les frais d’électricité, les frais de distribution et les frais municipaux de consentement et d’accès, avant les remboursements relatifs à l’électricité. C’était Boardwalk qui acquittait les factures.
+60. Boardwalk a cherché à obtenir des remboursements auprès du ministre pour la partie de la TPS qu’elle affirmait avoir payée par erreur relativement aux montants de la TPS attribuables aux montants des remboursements.
+61. Boardwalk communiquait directement avec les fournisseurs s’il se posait un problème au sujet des ententes, des factures ou de l’énergie fournie.
+62. Pendant les périodes pertinentes :
+a) l’Alberta n’intervenait pas dans le choix des fournisseurs d’énergie que faisait Boardwalk et n’insistait pas sur le choix d’un fournisseur;
+b) l’Alberta n’était pas responsable des commandes d’approvisionnement en gaz et en électricité passées auprès des fournisseurs d’énergie pour le compte de Boardwalk;
+c) l’Alberta n’était pas partie aux ententes conclues entre Boardwalk et les fournisseurs d’énergie au sujet de l’approvisionnement en gaz ou en électricité;
+d) l’Alberta n’agissait pas à titre de cosignataire à l’égard des comptes de gaz ou d’électricité que Boardwalk détenait auprès des fournisseurs d’énergie;
+e) l’Alberta n’était pas responsable des services visés par les factures que les fournisseurs d’énergie envoyaient à Boardwalk.
+63. En 2001, aucune entente écrite et aucune convention de fiducie n’avaient été conclues entre l’Alberta, le BP et les fournisseurs d’énergie au sujet du versement de tout remboursement relatif au gaz et à l’électricité en litige.
+64. En 2001, aucune entente écrite et aucune convention de mandat n’avaient été conclues entre l’Alberta, le BP et les fournisseurs d’énergie aux consommateurs au sujet du versement de tout remboursement relatif au gaz et à l’électricité en litige.
+65. À part les ententes mentionnées aux paragraphes 40, 42 et 53 du présent document, le CBE et Boardwalk n’avaient conclu aucune autre entente (et plus précisément, aucune entente écrite ni aucune convention de fiducie ou de mandat) en 2001.
+66. Lorsque les programmes de remboursement prenaient fin, un rapprochement était effectué entre tous les fournisseurs de gaz et l’Alberta et tout manque était payé ou tout excédent était remboursé […].
+[11] Le remboursement relatif au gaz naturel était financé par la province au moyen des recettes générales[9].
+[12] Comme il en a été fait mention ci‑dessus aux paragraphes 24 et 25 de l’exposé conjoint partiel des faits, les ventes aux enchères d’accords d’achat d’énergie avaient généré un montant d’environ 2,1 milliards de dollars, lequel avait été placé dans le Balancing Pool et constituait la source des fonds pour les remboursements relatifs à l’électricité.
+[13] Afin de générer les 2,1 milliards de dollars, les soumissionnaires retenus doivent avoir cru que, sur le marché déréglementé, ils seraient en mesure de vendre l’électricité à des prix plus élevés que le total des montants dans les soumissions lors de la vente aux enchères, plus le coût de l’électricité, conformément aux accords d’achat d’énergie[10].
+Le témoignage de M. Holmes
+[14] Une bonne partie du témoignage de M. Holmes confirmait les faits déjà énoncés dans l’exposé conjoint partiel des faits.
+[15] M. Holmes a aidé à élaborer le programme de remboursement relatif au gaz naturel et son administration. Il connaissait également le programme de remboursement relatif à l’électricité, mais il ne le connaissait pas aussi bien que le programme de remboursement relatif au gaz.
+[16] M. Holmes a expliqué que le programme de remboursement relatif à l’huile de chauffage avait été mis en place fort rapidement et que la province n’aurait pas pu organiser et mettre en œuvre en temps opportun un système permettant aux bénéficiaires de demander un remboursement et de recevoir ensuite un chèque du gouvernement. La création d’un système de demande et de remboursement aurait pris trop de temps lorsqu’il s’agissait de fournir une assistance aux clients[11].
+[17] Le gouvernement a donc cherché à trouver une façon efficace sur le plan administratif de verser les remboursements relatifs au gaz et elle a pris des dispositions avec les fournisseurs de gaz. Aucune entente écrite n’a été conclue avec les fournisseurs de gaz[12].
+Passages de l’interrogatoire préalable de M. Breen qui ont été consignés en preuve
+[18] M. Breen était le représentant du Conseil. Il a convenu qu’en vertu des ententes conclues en vue de la fourniture d’énergie ici en cause, le Conseil était responsable du paiement des montants facturés pour le gaz ou l’électricité et que la province n’était aucunement tenue de payer les fournitures pour le compte du Conseil.
+[19] L’appelant a également consigné en preuve certaines réserves que l’avocat avait faites, à savoir que le Conseil prenait la position selon laquelle le remboursement réduisait la valeur de la contrepartie et que, si le Conseil n’avait pas acquitté sa facture, le fournisseur d’énergie aurait uniquement exigé du Conseil le montant net qui était dû sur la facture, une fois le remboursement déduit.
+Les points en litige
+[20] Dans leurs avis d’appel, les appelants ont libellé les questions de droit en ces termes :
+[traduction]
+En ce qui concerne la fourniture de l’électricité :
+(i) La valeur de la contrepartie à verser pour la fourniture à l’appelant comprend‑elle une réduction de la facture correspondant au crédit accordé par le Balancing Pool?
+(ii) Le crédit accordé par le Balancing Pool constitue‑t‑il une contrepartie versée par le gouvernement de l’Alberta pour une fourniture?
+S’il est répondu à l’une ou l’autre question par l’affirmative, le résultat entraînera une réduction de la contrepartie à payer par l’appelant, la TPS devant s’appliquer sur ce montant réduit.
+En ce qui concerne la fourniture du gaz naturel :
+(iii) La valeur de la contrepartie à verser pour la fourniture à l’appelant comprend‑elle le montant de la réduction indiqué sur la facture correspondant à la subvention?
+(iv) La subvention constitue‑t‑elle une contrepartie versée par le gouvernement de l’Alberta pour une fourniture?
+S’il est répondu à l’une ou l’autre question par l’affirmative, le résultat entraînera une réduction de la contrepartie à payer par l’appelant, la TPS devant s’appliquer sur ce montant réduit[13].
+[21] Dans ses réponses modifiées, l’intimée a libellé les points en litige ainsi :
+[traduction]
+Les questions à trancher sont de savoir si, pour les besoins de la TPS, les remboursements relatifs à l’énergie :
+a) réduisent la contrepartie que l’appelante était, en vertu des ententes, tenue de verser aux fournisseurs de gaz ou aux fournisseurs d’électricité pour le gaz ou l’électricité fournis;
+b) constituent une contrepartie versée par l’Alberta pour les fournitures[14].
+[22] Le point de vue des parties, quant aux questions en litige, avait quelque peu évolué lorsque l’instruction a débuté.
+Analyse
+[23] Il est utile d’examiner au départ la situation des appelants, indépendamment du programme de remboursement du gouvernement de l’Alberta.
+[24] Il est très clair que les deux appelants ont conclu des ententes contractuelles avec les fournisseurs d’énergie, qu’il s’agisse du gaz ou de l’électricité, et que ces ententes prévoyaient ce qui suit :
+a) le prix de l’énergie fournie était calculé en fonction du prix de chaque unité d’énergie, déterminé conformément à l’entente contractuelle, multiplié par la quantité d’énergie consommée;
+b) les appelants s’étaient engagés à payer, et elles étaient tenues de payer, ce prix aux fournisseurs pour la quantité d’électricité fournie[15].
+La législation relative à la TPS
+[25] La disposition d’imposition fondamentale, soit le paragraphe 165(1) figurant dans la partie IX de la Loi sur la taxe d’accise (ci‑après la « Loi sur la TPS »[16]), prévoit ce qui suit :
+Sous réserve des autres dispositions de la présente partie, l’acquéreur d’une fourniture taxable effectuée au Canada est tenu de payer à Sa Majesté du chef du Canada une taxe calculée au taux de 5 % sur la valeur de la contrepartie de la fourniture.
+[Non souligné dans l’original.]
+Au moment pertinent, le taux d’imposition était de 7 p. 100.
+[26] Les définitions suivantes figurant au paragraphe 123(1) de la Loi sur la TPS sont également pertinentes :
+Les définitions qui suivent s’appliquent à l’article 121, à la présente partie et aux annexes V à X.
+[...]
+« acquéreur »
+a) Personne qui est tenue, aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+b) personne qui est tenue, autrement qu’aux termes d’une convention portant sur une fourniture, de payer la contrepartie de la fourniture;
+c) si nulle contrepartie n’est payable pour une fourniture :
+(i) personne à qui un bien, fourni par vente, est livré ou mis à sa disposition,
+(ii) personne à qui la possession ou l’utilisation d’un bien, fourni autrement que par vente, est transférée ou à la disposition de qui le bien est mis,
+(iii) personne à qui un service est rendu.
+Par ailleurs, la mention d’une personne au profit de laquelle une fourniture est effectuée vaut mention de l’acquéreur de la fourniture.
+[...]
+« contrepartie » Est assimilé à une contrepartie tout montant qui, par effet de la loi, est payable pour une fourniture.
+[...]
+« fourniture » Sous réserve des articles 133 et 134, livraison de biens ou prestations de services, notamment par vente, transfert, troc, échange, louage, licence, donation ou aliénation.
+[...]
+« service » Tout ce qui n’est ni un bien, ni de l’argent, ni fourni à un employeur par une personne qui est un salarié de l’employeur, ou a accepté de l’être, relativement à sa charge ou à son emploi.
+[Non souligné dans l’original.][17]
+La situation en l’absence des programmes de remboursement
+[27] Il est incontestable qu’en l’absence des programmes de remboursement, les fournisseurs qui fournissent l’énergie, qu’il s’agisse de gaz ou d’électricité, effectuent une fourniture en faveur des appelants et que la contrepartie de la fourniture est le prix prévu dans les contrats, multiplié par le nombre d’unités d’énergie fournies. Par conséquent, la TPS devra être payée sur la totalité de la contrepartie versée par les appelants.
+[28] Les programmes de remboursement changent-ils quoi que ce soit à la situation?
+Le contexte juridique des programmes de remboursement
+[29] Le contexte juridique des deux programmes de remboursement est important; certaines dispositions de la législation pertinente de l’Alberta sont reproduites ci‑dessous.
+[30] En ce qui concerne les remboursements relatifs au gaz :
+a) L’article 13 de la Government Organization Act de l’Alberta, R.S.A. 2000, chapitre G‑10, prévoit ce qui suit :
+[traduction]
+13(1) Le ministre peut accorder des subventions si les conditions suivantes sont réunies :
+a) un règlement pris en vertu de la présente disposition autorise le ministre à accorder des subventions;
+b) un crédit est voté aux fins pour lesquelles la subvention doit être accordée.
+(2) Le lieutenant-gouverneur en conseil peut prendre des règlements :
+a) autorisant le ministre à accorder des subventions;
+b) énumérant les fins pour lesquelles des subventions peuvent être accordées;
+[...]
+m) autorisant le ministre à conclure une entente concernant toute question se rapportant au paiement d’une subvention.
+(3) Tout règlement pris en vertu du paragraphe (2) peut être d’application spécifique ou générale.
+(4) Malgré les dispositions de l’alinéa 2g), le ministre peut imposer des conditions additionnelles non prescrites par règlement lorsqu’il accorde une subvention particulière.
+b) Le Transportation and Utilities Grants Regulation (règlement 355/1986 de l’Alberta) prévoit ce qui suit :
+[traduction]
+1 Le ministre est par les présentes autorisé à accorder des subventions conformément au présent règlement.
+Entente
+2 Le ministre est autorisé à conclure une entente concernant toute question se rapportant au paiement d’une subvention et peut demander formellement à toute personne présentant une demande de subvention en vertu du présent règlement de conclure une entente concernant toute question se rapportant au paiement de la subvention.
+3 Abrogé.
+Objet de la subvention
+4 Le bénéficiaire d’une subvention accordée en vertu du présent règlement ne peut utiliser la subvention que pour l’une ou l’autre des fins suivantes :
+a) les fins décrites à l’annexe pour lesquelles la subvention a été accordée;
+b) les fins pour lesquelles la demande de subvention a été présentée;
+c) dans le cas où la demande initiale de subvention ou les fins pour lesquelles la subvention est accordée ont été modifiées par le ministre et par la personne qui a présenté la demande de subvention, à ces nouvelles fins.
+Preuve de l’utilisation d’une subvention
+5 Le bénéficiaire d’une subvention produit, sur demande formelle du ministre, une preuve satisfaisante des modalités d’utilisation de la subvention; toute personne ou tout organisme qui reçoit une subvention en fiducie pour un bénéficiaire de subvention et tout bénéficiaire de subvention produisent, sur demande du ministre, une preuve satisfaisante des modalités d’utilisation de la subvention.
+Paiement
+6(1) Le ministre verse la subvention sous la forme d’une somme forfaitaire ou de versements; il peut prescrire le moment où les moments auxquels la subvention sera versée.
+(2) Le ministre peut verser la subvention au bénéficiaire de la subvention ou il peut verser la subvention en fiducie à une personne ou à un organisme au profit du bénéficiaire de la subvention.
+[...]
+ANNEXE 10
+SUBVENTIONS RELATIVES AUX FRAIS DE CHAUFFAGE
+1(1) Le ministre peut accorder des subventions en vue d’atténuer l’impact pour les consommateurs de l’augmentation des prix du gaz naturel, du propane et de l’huile de chauffage en Alberta.
+(2) Le ministre peut accorder une subvention, en vertu de la présente disposition, à un consommateur directement ou à toute autre personne au profit d’un consommateur.
+(3) Sous réserve du paragraphe (4), toute subvention prévue par la présente disposition s’applique aux mois de janvier, de février, de mars et d’avril 2001.
+[...]
+[Non souligné dans l’original.]
+c) L’arrêté ministériel 6/01, daté du 12 février 2001[18], renferme l’annexe suivante :
+[traduction]
+1. Le remboursement relatif au gaz naturel sera versé aux utilisateurs de gaz naturel en Alberta.
+2. Les remboursements s’appliquent à la période allant du mois de janvier au mois d’avril 2001.
+3. Les utilisateurs admissibles de gaz naturel qui ne reçoivent pas de remboursement, par l’entremise de leur fournisseur habituel, à valoir à titre de déduction sur leurs factures mensuelles, ou qui demandent un examen du montant du remboursement, doivent demander un rajustement. Les formulaires et les renseignements à l’appui doivent être envoyés par la poste ou livrés aux adresses ou envoyés par télécopie aux numéros indiqués dans les formulaires de demande au plus tard le 31 juillet 2001.
+4. Catégories et taux de remboursement :
+· Résidentiel
+Définition
+Remboursement mensuel maximum
+Habitation unifamiliale
+150 $
+Pension de famille (maison comportant au moins une chambre louée à des fins d’habitation)
+150 $
+Foyer d’accueil (résidence familiale dans laquelle au moins un enfant a été placé)
+150 $
+Habitation unifamiliale (150 $) comportant au moins un logement locatif autonome ($75)
+225 $
+Chaque logement d’un immeuble comportant au plus quatre logements autonomes
+150 $
+Immeuble d’habitation uniquement muni d’un compteur principal utilisé comme foyer de groupe, refuge, dortoir ou autre établissement multi-résidentiel similaire.
+150 $
+[...]
+· Commercial
+Définition
+Remboursement mensuel maximum
+Immeuble d’habitation uniquement muni d’un compteur principal, comportant plus de quatre logements autonomes, notamment : maisons à appartements, condominiums, résidences pour personnes âgées, résidences-services, établissements de soins prolongés et autres établissements multi‑résidentiels similaires
+6 $/gigajoule
+Tout immeuble commercial non résidentiel (notamment bureaux, commerces, bâtiments municipaux, salles communautaires, installations récréatives, bâtiments agricoles, serres, etc.)
+6 $/gigajoule jusqu’à un maximum de 30 000 $/mois
+[...]
+[Non souligné dans l’original.][19]
+[31] En ce qui concerne l’électricité :
+a) L’alinéa 45.97r) de la Electric Utilities Act de l’Alberta, R.S.A. 2000, chapitre E‑5, prévoit ce qui suit :
+[traduction]
+Le ministre peut prendre un règlement
+[...]
+r) concernant la constitution et l’exploitation par le Power Pool Council d’un Balancing Pool, indiquant notamment comment calculer les montants à payer au Balancing Pool ou par le Balancing Pool, le moment où ces montants doivent être payés et les personnes à qui il incombe de payer ces montants;
+b) Le Balancing Pool Allocation Regulation (règlement 330/2000 de l’Alberta) prévoit ce qui suit :
+[traduction]
+2(1) L’administrateur du Balancing Pool établit et applique les procédures par lesquelles un crédit mensuel de 40 $ sera accordé, en 2001, aux personnes suivantes :
+[...]
+b) à un client résidentiel
+[...]
+3(1) L’administrateur du Balancing Pool établit et applique les procédures par lesquelles un crédit du Balancing Pool sera accordé en 2001 en fonction de la consommation globale admissible du client pour l’année 2001 à tous les emplacements où le client est responsable du paiement de la facture d’électricité :
+[...]
+b) à chaque client non résidentiel.
+(2) Le crédit accordé à un client par le Balancing Pool en vertu de la présente disposition est le produit de la multiplication de 3,6 cents le kilowattheure par la consommation admissible du client pour l’année 2001 à tous les emplacements où le client est responsable du paiement de la facture d’électricité.
+[...]
+Obligation de tenir des registres et communication des registres
+6(1) Toute personne s’occupant de la distribution des crédits accordés par le Balancing Pool ou de la perception des frais du Balancing Pool tient :
+a) un registre des renseignements fournis à l’administrateur du Balancing Pool et aux autres personnes s’occupant de la distribution des crédits accordés par le Balancing Pool et de la perception des frais du Balancing Pool;
+b) un registre des crédits accordés aux clients par le Balancing Pool et des frais du Balancing Pool perçus des clients.
+(2) Toute personne s’occupant de la distribution des crédits accordés par le Balancing Pool ou de la perception des frais du Balancing Pool communique sur demande à l’administrateur du Balancing Pool les renseignements figurant dans les registres mentionnés au paragraphe (1).
+[...]
+9(1) Les crédits et les frais du Balancing Pool mentionnés aux articles 2, 3 et 4 sont indiqués dans les factures d’électricité remises aux clients au cours du cycle normal de facturation.
+(2) Tout crédit accordé par le Balancing Pool en vertu de l’article 2 est identifié dans les factures d’électricité comme étant un « remboursement relatif à l’électricité résidentielle en Alberta ».
+(3) Tout crédit accordé par le Balancing Pool en vertu de l’article 3 est identifié dans les factures d’électricité comme étant un « remboursement relatif à l’électricité non résidentielle en Alberta ».
+[...]
+Obligation de coopérer
+10 Toute personne s’occupant de la distribution des crédits accordés par le Balancing Pool et de la perception des frais du Balancing Pool :
+a) doit coopérer avec le Power Pool Council et avec l’administrateur du Balancing Pool;
+b) doit appliquer en temps opportun et d’une façon efficace les procédures et exigences établies par le Power Pool Council et par l’administrateur du Balancing Pool.
+[Non souligné dans l’original.]
+c) Les Balancing Pool Rules, Balancing Pool for Alberta’s Electricity Consumers, révisées au 1er octobre 2001[20] prévoient ce qui suit :
+[traduction]
+1.1 Définitions générales
+Les définitions qui suivent s’appliquent aux présentes règles :
+[...]
+« Allocation de consommation mensuelle admissible » À l’égard de chaque mois, le crédit accordé par le Balancing Pool qui sera payé ou les frais du Balancing Pool qui seront reçus à l’égard de chaque emplacement d’un client non résidentiel ou d’un agriculteur compte tenu de la consommation admissible;
+« Allocation mensuelle » À l’égard de chaque mois, le crédit accordé par le Balancing Pool qui sera payé ou les frais du Balancing Pool qui seront reçus à l’égard de chaque emplacement pour lequel un client résidentiel ou un agriculteur est responsable du paiement de la facture d’électricité et qui peuvent être établis au prorata en vertu des présentes règles;
+[...]
+« BPAR » Le Balancing Pool Allocation Regulation (330/2000), tel qu’il est modifié de temps en temps;
+[...]
+3.1 Allocation du Balancing Pool
+3.1.1 Crédits accordés par le Balancing Pool pour l’année 2001
+a) L’allocation mensuelle pour l’année 2001 est un crédit de 40 $ accordé par le Balancing Pool;
+b) L’allocation de consommation mensuelle admissible pour l’année 2001 est un crédit de 3,6 cents le kilowattheure accordé par le Balancing Pool.
+3.1.2 Crédit résidentiel accordé aux détaillants pour l’année 2001
+a) Chaque détaillant crédite l’allocation mensuelle sur la facture d’électricité de chacun de ses clients résidentiels [...] pour chaque période de facturation de l’année 2001;
+[...]
+e) Sous réserve des autres dispositions de l’article 3 des règles, chaque détaillant a le droit de recevoir du Balancing Pool pour chaque mois de l’année 2001 et pour les mois applicables de l’année 2002 un montant égal à l’ensemble des allocations mensuelles attribuées à la période de facturation de l’année 2001 de tous ses clients résidentiels [...] au cours de ces mois.
+3.1.3 Crédit non résidentiel accordé aux détaillants pour l’année 2001
+a) Chaque détaillant crédite les allocations de consommation mensuelles admissibles à chacun de ses clients non résidentiels [...] pour l’année 2001;
+b) Chaque détaillant veillera à ce que les allocations de consommation mensuelles admissibles soient identifiées sur les factures d’électricité de ses clients, comme le prévoit le paragraphe 9(3) du BPAR.
+[...]
+d) Sous réserve des autres dispositions de l’article 3 des règles, chaque détaillant a le droit de recevoir du Balancing Pool pour chaque mois de l’année 2001 et pour les mois applicables de l’année 2002 un montant égal à l’ensemble des allocations de consommation mensuelles admissibles attribuées en 2001 à tous ses clients non résidentiels [...] au cours de ces mois.
+[Non souligné dans l’original.][21]
+Arguments des parties
+[32] Il est utile d’exposer ici une partie des arguments des parties.
+[33] L’argument des appelants est principalement fondé sur le fait que les remboursements en question représentaient une réduction de la contrepartie qu’elles devaient payer pour le gaz et l’électricité achetés au cours de la période en question.
+[34] Les appelants affirment en outre que, pour arriver à cette conclusion, il faut d’abord répondre à deux questions :
+a) Les remboursements ont-ils été versés aux clients et au profit des clients ou aux fournisseurs d’énergie et au profit des fournisseurs d’énergie?
+Selon les appelants, les remboursements ont été versés au profit des fournisseurs à condition d’être transmis aux clients à titre de réduction de la contrepartie que les appelants devaient payer pour l’énergie.
+b) Si les remboursements ont été versés au profit des fournisseurs d’énergie, ces remboursements constituaient-ils la contrepartie d’une fourniture effectuée à la province ou au Power Pool Council?
+Selon les appelants, il faut répondre à cette question par l’affirmative.
+[35] L’intimée a en partie répondu qu’il n’y avait pas de réduction de la contrepartie versée pour la fourniture d’énergie aux appelants et que les fournisseurs d’énergie agissaient simplement à titre de canalisateurs aux fins du transfert des remboursements versés par la province ou par le Balancing Pool (administré par le Power Pool Council) à des clients tels que les appelants[22].
+[36] Je suis d’accord avec les parties lorsqu’elles disent que la nature de la relation entre les entités accordant les remboursements, l’Alberta et le Power Pool Council d’une part et les fournisseurs d’énergie d'autre part est un point crucial lorsqu’il s’agit de trancher les questions en litige dans les présents appels.
+[37] Bref, il faut d’abord décider :
+a) si les fonds (les remboursements) ont été versés aux fournisseurs d’énergie en échange d’une réduction du prix unitaire de l’énergie accordée par ceux‑ci à leurs clients[23], et notamment aux deux appelants;
+ou subsidiairement :
+b) si les fournisseurs transféraient les fonds (les remboursements) aux clients en créditant les comptes de ceux‑ci du montant du remboursement, en compensation d’une partie des factures d’énergie des clients.
+[38] Les appelants ont soutenu que la thèse du canalisateur, avancée par l’intimée, laissait entendre que les fournisseurs d’énergie doivent entretenir une relation mandant-mandataire avec les entités qui versent les remboursements ou, subsidiairement, que les montants des remboursements ont été versés aux fournisseurs d’énergie en fiducie pour les consommateurs d’énergie.
+[39] L’intimée a déclaré qu’elle ne débattait pas la question du mandat ou de l’existence d’une relation fiduciaire. Je me fonderai donc sur le fait qu’il n’y avait pas de fiducie ou de convention de mandat[24].
+[40] Je ne suis pas d’accord avec les appelants. Pour que quelqu’un agisse à titre de canalisateur, il n’est pas nécessaire qu’il y ait une convention de mandat ou une fiducie. Si A conclut avec B un arrangement par lequel B remet à C une enveloppe contenant de l’argent, cet arrangement ne comporte aucune convention de mandat et n’entraîne pas la création d’une fiducie; il en va de même en l’espèce si l’arrangement était un arrangement selon lequel les fournisseurs d’énergie agissaient à titre de canalisateurs.
+La nature de la relation entre les entités accordant les remboursements et les fournisseurs d’énergie
+[41] Par conséquent, afin de décider si le programme de remboursement modifie la relation existant entre les appelants et les fournisseurs d’énergie, il faut établir quelle était la relation entre les fournisseurs d’énergie et les entités accordant les remboursements.
+Les remboursements relatifs au gaz
+[42] En ce qui concerne les remboursements relatifs au gaz, quelle est la relation exacte entre l’Alberta et les fournisseurs de gaz?
+[43] Il n’y avait pas d’ententes écrites.
+[44] Nous savons que sur le plan opérationnel les fournisseurs de gaz naturel veillaient à ce que le client bénéficie des remboursements conformément au contexte juridique créé par l’Alberta.
+[45] C’est ce que montrent les factures, dans lesquelles le coût du gaz est indiqué avant le remboursement, le remboursement étant indiqué à titre de crédit porté au compte du client, le coût net une fois le remboursement effectué étant également indiqué[25].
+[46] Le coût net est le montant que le client paie. Toutefois, dans le cas du gaz, si le fournisseur de gaz recevait le montant du remboursement après la date d’échéance, le client continuait à être responsable du paiement des intérêts et des pénalités résultant du paiement tardif[26].
+[47] Le remboursement est basé sur l’utilisation, de sorte que le client doit d’abord consommer le gaz pour que la province effectue un paiement.
+[48] Sur le plan administratif, les fournisseurs demandaient à l’Alberta le montant des remboursements après avoir envoyé aux clients les factures indiquant les remboursements[27].
+[49] Le gouvernement versait ensuite aux fournisseurs un montant correspondant aux remboursements.
+[50] La conduite réelle des fournisseurs de gaz et du gouvernement permet de croire que les fournisseurs agissaient à titre de canalisateurs étant donné qu’en général, les actions du gouvernement et des fournisseurs ne donnent pas à penser que les clients bénéficiaient d’une réduction du prix du gaz naturel.
+[51] La facture indique le prix complet du gaz, le remboursement étant ensuite déduit[28]. S’il s’agissait d’une réduction de prix, on s’attendrait à ce que les fournisseurs de gaz en fassent mention dans les factures.
+[52] On s’attendrait également à ce que les communiqués de presse du gouvernement de l’Alberta fassent mention d’une réduction de prix; en général, les communiqués de presse parlent de remboursements, mais il existe un document d’information qui comporte un tableau composé de trois colonnes : [traduction] « Tarif d’hiver », [traduction] « Remboursement » et [traduction] « Prix après le remboursement »[29]. Les mots [traduction] « Prix après le remboursement » sont ambigus et l’on ne sait pas trop si le prix lui-même est réduit.
+[53] En soi, la conduite apparente que les fournisseurs de gaz et le gouvernement avaient entre eux ne nous apprend pas d’une façon certaine quel était l’arrangement qu’ils avaient conclu.
+[54] La question est d’autant plus difficile qu’à part la TPS, l’incidence sur le plan pratique pour les deux appelants est la même, et ce, que l’on paye les fournisseurs pour qu’ils réduisent le prix ou que ceux‑ci agissent à titre de canalisateurs[30].
+[55] Toutefois, le contexte législatif de l’Alberta aide à trancher la question.
+[56] Comme nous l’avons vu ci‑dessus, le ministre peut accorder des subventions si, entre autres, le règlement l’autorise à le faire; de plus, le Transportation and Utilities Grants Regulation autorisait l’octroi de subventions, notamment :
+[traduction]
+[...] en vue d’atténuer l’impact pour les consommateurs de l’augmentation des prix du gaz naturel, du propane et de l’huile de chauffage en Alberta.
+Le ministre pouvait également accorder une subvention :
+[traduction]
+[...] à un consommateur directement ou à toute autre personne au profit d’un consommateur.
+[57] Le ministre a ensuite mis en œuvre un programme de subventions au moyen de l’arrêté ministériel 6/01 susmentionné, lequel prévoyait ce qui suit :
+[traduction]
+1. Le remboursement relatif au gaz naturel sera versé aux utilisateurs de gaz naturel en Alberta.
+[...]
+3. Les utilisateurs admissibles de gaz naturel qui ne reçoivent pas de remboursement, par l’entremise de leur fournisseur habituel, à valoir à titre de déduction sur leurs factures mensuelles [...] doivent demander un rajustement. [...]
+[Non souligné dans l’original.]
+[58] Le règlement autorise le ministre à accorder des subventions au consommateur ou à quelqu’un au profit du consommateur, mais lorsque le ministre a mis en œuvre le programme de subventions, il a délivré un arrêté tout à fait clair : le [traduction] « remboursement sera versé aux utilisateurs de gaz naturel en Alberta »[31]. Le ministre a fort clairement choisi d’effectuer les paiements en faveur des consommateurs plutôt que de les effectuer en faveur des fournisseurs au profit des consommateurs.
+[59] Cela étant, la conclusion semble inévitable : le seul arrangement que la province pouvait conclure était un arrangement selon lequel les fournisseurs de gaz agissaient à titre de canalisateurs[32]; le ministre n’a pas choisi de créer l’autorité nécessaire en vue de conclure des arrangements selon lesquels les sociétés étaient payées pour réduire leur prix. Par conséquent, l’arrangement qui a été conclu devait être un arrangement selon lequel les fournisseurs d’énergie agissaient à titre de canalisateurs.
+[60] Par conséquent, il n’y a pas eu de changement dans la relation existant entre les appelants et les fournisseurs de gaz, tel qu’elle existait avant la mise en œuvre des programmes de remboursement, et il n’y a pas eu de réduction de la contrepartie que les appelants devaient payer.
+Remboursements relatifs à l’électricité
+[61] La situation est plus claire dans le cas de l’électricité.
+[62] Aucune entente écrite n’a été conclue entre les fournisseurs d’électricité et le Power Pool Council, mais le fonctionnement du système de remboursement est clairement énoncé dans le contexte juridique créé par la province.
+[63] Le Balancing Pool Allocation Regulation prévoit que l’administrateur du Balancing Pool doit veiller à ce [traduction] qu’« un crédit du Balancing Pool [soit accordé] en 2001 en fonction de la consommation globale admissible du client pour l’année 2001 [...] à chaque client non résidentiel (non souligné dans l’original). Le crédit est de 3,6 cents le kilowattheure, soit le montant du remboursement que les appelants ont reçu[33].
+[64] Le règlement imposait aux fournisseurs d’électricité les obligations suivantes :
+a) tenir des registres et communiquer les renseignements à l’administrateur du Balancing Pool[34];
+b) [traduction]
+[...] coopérer avec le Power Pool Council et avec l’administrateur du Balancing Pool, et [...] appliquer en temps opportun et d’une façon efficace les procédures et exigences établies par le Power Pool Council et par l’administrateur du Balancing Pool[35].
+et
+c) satisfaire à l’exigence selon laquelle :
+[traduction]
+Tout crédit accordé par le Balancing Pool en vertu de l’article 3 est identifié dans les factures d’électricité comme étant un « remboursement relatif à l’électricité non résidentielle en Alberta[36].
+[65] De leur côté, les Balancing Pool Rules[37] susmentionnées définissent [traduction] l’« allocation de consommation mensuelle admissible » pour les clients non résidentiels, tels que les appelants, comme étant [traduction] « le crédit accordé par le Balancing Pool qui sera payé à [...] chaque client non résidentiel compte tenu de la consommation admissible »[38] (non souligné dans l’original); les règles prévoyaient en outre ce qui suit :
+[traduction]
+a) chaque détaillant crédite les allocations de consommation mensuelles admissibles à chacun de ses clients non résidentiels [...] pour l’année 2001;
+b) chaque détaillant veille à ce que les allocations de consommation mensuelles admissibles soient identifiées sur les factures d’électricité de ses clients, comme le prévoit le paragraphe 9(3) du BPAR;
+[...]
+d) [...] chaque détaillant a le droit de recevoir du Balancing Pool pour chaque mois de l’année 2001 [...] un montant égal à l’ensemble des allocations de consommation mensuelles admissibles attribuées en 2001 à tous ses clients non résidentiels [...][39].
+[66] Ce contexte juridique comporte principalement deux effets en ce qui concerne les questions qui sont ici en litige.
+[67] En premier lieu, le contexte juridique crée un système d’allocation de crédits (les remboursements en question) à l’aide des fonds qui sont dans le Balancing Pool, lesquels [traduction] « seront versés » aux clients non résidentiels.
+[68] En second lieu, le contexte juridique oblige les fournisseurs d’électricité à coopérer aux fins de l’administration du système.
+[69] À l’appui de leur position, les appelants soutiennent que les Balancing Pool Rules prévoient clairement que les fournisseurs d’électricité recevaient les remboursements pour leur propre compte. L’alinéa 3.1.3d) des règles précitées dit clairement que les fournisseurs recevront un montant égal aux [traduction] « allocations de consommation mensuelles admissibles », ce qui est également compatible avec le fait pour les fournisseurs de recevoir les montants en échange d’une réduction de prix ou avec le fait pour les fournisseurs de recevoir les montants en échange de l’octroi aux comptes des clients d’un crédit du même montant.
+[70] Le texte de la définition de [traduction] l’« allocation de consommation mensuelle admissible » n’est pas ambigu; le crédit [traduction] « sera payé à chaque client non résidentiel ». Il est tout simplement impossible d’interpréter ces termes comme créant d’une façon ou d’une autre un système selon lequel les fournisseurs d’électricité sont payés pour réduire leurs prix.
+[71] Par conséquent, il n’existe aucune réduction de la contrepartie que les appelants devaient payer aux fournisseurs d’électricité au cours de la période en question.
+Autres arguments
+[72] Compte tenu de ces conclusions, je n’ai pas à examiner les autres arguments invoqués par les parties.
+[73] En particulier, je note qu’à supposer qu’il existe une fourniture effectuée moyennant contrepartie par les fournisseurs d’énergie en faveur de la province et du Power Pool Council, cette fourniture se rapporte au service de virement des fonds aux comptes des clients, ce qui n’a aucun effet sur la contrepartie payable par les appelants[40].
+Conclusion[41]
+[74] Étant donné que le programme de remboursement ne changeait rien à la contrepartie que les appelants devaient payer, le ministre du Revenu national a eu raison de refuser les remboursements. Les appels sont rejetés avec dépens.
+Signé à Ottawa (Ontario), ce 8e jour de janvier 2012.
+« Gaston Jorré »
+Juge Jorré
+Traduction certifiée conforme
+ce 27e jour d’avril 2012.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 7
+Nos DES DOSSIERS DE LA COUR : 2007-3806(GST)G
+2007-3723(GST)G
+INTITULÉ : CALGARY BOARD OF EDUCATION,
+BOARDWALK EQUITIES INC.
+c.
+SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Calgary (Alberta)
+DATES DE L’AUDIENCE : Les 19 et 20 août 2010
+MOTIFS DU JUGEMENT : L’honorable juge Gaston Jorré
+DATE DU JUGEMENT : Le 8 janvier 2012
+COMPARUTIONS :
+Avocats des appelants :
+Me Salvatore Mirandola
+Me Jean-Philippe Couture
+Avocate de l’intimée :
+Me Kathleen T. Lyons
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelants :
+Nom : Salvatore Mirandola
+Cabinet : Borden Ladner Gervais s.e.n.c.r.l., s.r.l.
+Toronto (Ontario)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa (Ontario)
+[1] Voir le recueil conjoint de documents (pièce R-1), onglet 7, pages 4 et 5.
+[2] Pour plus de commodité, j’ai généralement employé le mot « remboursement » (rebate) qui figurait dans l’exposé conjoint partiel des faits. La législation pertinente de l’Alberta et les avis donnés par la province font parfois mention de subventions, de crédits ou de remboursements – voir ci‑dessous; par exemple, en ce qui concerne les remboursements relatifs au gaz, la législation, le règlement et l’arrêté ministériel pertinents parlent de subventions, alors que dans l’annexe jointe à l’arrêté, dans laquelle sont énumérés les catégories de bénéficiaires et les taux d’allocation, le mot « remboursement » (rebate) est utilisé.
+L’emploi des mots « subvention » et « remboursement » en même temps peut être compatible, comme l’a expliqué la Cour d’appel de l’Ontario dans l’arrêt Fourth Generation Realty Corp. v. Ottawa (City), 2005 CanLII 16568, où un règlement municipal était contesté :
+[traduction]
+52 Il n’existe pas non plus de jurisprudence nous aidant à faire une distinction entre les subventions et les remboursements. De fait, dans Colony Farm Holding Ltd. v. British Columbia (Racing Commission), [1991] B.C.J. No. 2837 (C.S.C.‑B.), le juge des requêtes parle d’une subvention sous la forme d’un remboursement. Au troisième paragraphe de ses motifs, il dit :
+Ce qui est en jeu, c’est une subvention d’encouragement accordée par le gouvernement à un promoteur aux fins de la construction d’un nouvel hippodrome qui doit remplacer l’Exhibition Park, lorsque le bail, à Hastings Park, à Vancouver, prendra fin le 31 décembre 1993. La subvention est faite au moyen du remboursement, sur une période de dix ans, d’une partie importante des recettes perçues conformément à la Horse Racing Tax Act, R.S.B.C. 1979, ch. 175. [Non souligné dans l’original.]
+53 Le mot « grant » (subvention) est défini ainsi dans le Black’s Law Dictionary, 6e éd., (1990), à la p. 699 :
+Décerner; conférer à quelqu’un qui n’est pas la personne ou l’entité qui accorde la subvention. Décerner ou conférer avec ou sans compensation [...] par exemple un bien-fonds ou de l’argent.
+54 Le mot « rebate » (remboursement) est défini en ces termes à la p. 1266 :
+Réduction; déduction ou remboursement d’argent en échange d’un paiement effectué à bref délai. [...] Déduction ou drawback d’un paiement, d’un montant ou d’un tarif stipulé, [...] qui n’est pas effectué avant le paiement, mais qui est accordé au débiteur une fois que celui‑ci a versé la somme intégrale stipulée.
+Un remboursement de taxe est un montant retourné [...] au contribuable une fois que celui‑ci a payé le montant intégral de la taxe.
+55 Compte tenu de ces définitions, la distinction à faire entre une subvention et un remboursement est à mon avis la suivante : la subvention consiste essentiellement à accorder une allocation, notamment de l’argent, à l’aide d’un fonds. D’autre part, le mot « remboursement » se rapporte à la remise d’une partie de la somme réellement versée. Dans certaines circonstances, un remboursement peut être subsumé dans la notion de subvention. Dans ce cas‑ci, un remboursement s’entend de la remise d’une partie des impôts fonciers réellement payés par un particulier.
+En l’espèce, il ne s’agit pas d’un remboursement de la taxe et, comme la Cour d’appel de l’Ontario l’a fait remarquer au paragraphe 55, un remboursement peut être un remboursement partiel ou une déduction à valoir sur le montant à payer; voir également la définition du terme « rebate » (remboursement) dans le Canadian Oxford Dictionary, deuxième édition, 2004.
+[3] Voir le communiqué de presse du gouvernement de l’Alberta du 30 janvier 2001, More royalty revenues to be returned to Albertans through bigger natural gaz rebates, onglet 7 du recueil conjoint de documents, dans lequel le premier ministre de l’époque, Ralph Klein, aurait dit : [traduction] « En fait, si l’on additionne le remboursement de la taxe sur l’énergie de 300 $, le remboursement de l’électricité résidentielle de 40 $ par mois pour une période d’un an et les remboursements relatifs au gaz naturel, un ménage composé de deux adultes en Alberta reçoit en tout un montant de 1 680 $ au titre des remboursements [...] ».
+[4] Les deux appelants ont payé la taxe et ont demandé des remboursements de la taxe payée par erreur; le ministre du Revenu national n’était pas d’accord et il a refusé de rembourser la taxe. En théorie, les appelants ont demandé un remboursement de la taxe et le ministre a établi des avis de cotisation par lesquels il refusait le remboursement demandé. Le Conseil scolaire de Calgary est un organisme de services publics au sens de l’article 259 de la partie IX de la Loi sur la taxe d’accise et, en cette qualité, il a reçu un remboursement correspondant à 68 p. 100 de la taxe exigible; dans le présent appel, le Conseil cherche à obtenir la différence de 32 p. 100.
+[5] Les parties ne s’entendent pas sur les conclusions à tirer de ces faits sous-jacents.
+[6] M. Holmes occupait le même poste en 2001 et au moment de l’audience.
+[7] Les parties m’ont également informé qu’il existe un certain nombre d’autres appels dans lesquels il a été convenu que le résultat des présents appels serait suivi quant aux principes applicables.
+[8] Des exemples des formulaires de demande se trouvent aux onglets 13, 14 et 15 du recueil conjoint de documents. (La présente note de bas de page a été ajoutée dans les motifs du jugement et ne fait pas partie de l’exposé conjoint partiel des faits.)
+[9] Voir le recueil conjoint de documents, onglet 1, page 2; les recettes élevées provenant des redevances de gaz naturel ont aidé la province à financer les remboursements relatifs au gaz, voir le recueil conjoint de documents, onglet 5, page 1, ainsi que le paragraphe 11 de l’exposé conjoint partiel des faits, ci‑dessus.
+[10] Les dispositions législatives se rapportant aux accords d’achat d’énergie sont énoncées dans la partie 4.1 de la Electric Utilities Act, R.S.A. 2000, chapitre E‑5.
+[11] Voir, entre autres, la page 41 de la transcription du 19 août 2010. Le programme de remboursement relatif au gaz a été annoncé à la mi-décembre 2000; il prévoyait des remboursements pour les mois de janvier à avril 2001 inclusivement.
+[12] M. Holmes a également traité avec l’autorité juridique responsable des remboursements. Je reviendrai sur la question lorsqu’il sera question de la législation pertinente.
+[13] Voir le paragraphe 35 de l’avis d’appel de Boardwalk Equities Inc.
+[14] Voir le paragraphe 25 de la réponse modifiée déposée à l’égard de Boardwalk Equities Inc.
+[15] Voir les paragraphes 40, 42 (et en particulier les sous-alinéas (iv) et (v)), 53, 54 et 55 de l’exposé conjoint partiel des faits ainsi que l’onglet 16 du recueil conjoint de documents, en particulier la clause 4 à la première page de l’onglet, annexe B, et la clause 2 de l’annexe C.
+Je note également que le paragraphe 18 de l’exposé conjoint partiel des faits dit que, dans le cas du gaz, si l’Alberta versait le montant du remboursement à un fournisseur après la date d’échéance du paiement du compte du client, le client continuait à être responsable des intérêts et des pénalités qui étaient dus sur tout montant de la facture qui n’était pas encore réglé après la date d’échéance.
+[16] En théorie, il s’agit de la Loi sur la taxe d’accise, mais il est plus simple et plus clair de parler de la partie IX de cette loi comme étant la Loi sur la TPS puisqu’elle est intitulée : « Taxe sur les produits et services ».
+[17] Je note également les définitions suivantes figurant au paragraphe 123(1) :
+« activité commerciale » Constituent des activités commerciales exercées par une personne :
+a) l’exploitation d’une entreprise (à l’exception d’une entreprise exploitée sans attente raisonnable de profit par un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où l’entreprise comporte la réalisation par la personne de fournitures exonérées;
+b) les projets à risque et les affaires de caractère commercial (à l’exception de quelque projet ou affaire qu’entreprend, sans attente raisonnable de profit, un particulier, une fiducie personnelle ou une société de personnes dont l’ensemble des associés sont des particuliers), sauf dans la mesure où le projet ou l’affaire comporte la réalisation par la personne de fournitures exonérées;
+c) la réalisation de fournitures (sauf des fournitures exonérées) d’immeubles appartenant à la personne, y compris les actes qu’elle accomplit dans le cadre ou à l’occasion des fournitures.
+[...]
+« bien » À l’exclusion d’argent, tous biens – meubles et immeubles – tant corporels qu’incorporels, y compris un droit quelconque, une action ou une part.
+[...]
+« entreprise » Sont compris parmi les entreprises les commerces, les industries, les professions et toutes affaires quelconques avec ou sans but lucratif, ainsi que les activités exercées de façon régulière ou continue qui comportent la fourniture de biens par bail, licence ou accord semblable. En sont exclus les charges et les emplois.
+[...]
+« fourniture taxable » Fourniture effectuée dans le cadre d’une activité commerciale.
+[Non souligné dans l’original.]
+[18] L’arrêté ministériel 17/01 en date du 16 mai 2001 (Minister of Infrastructure de l’Alberta), rescindait l’arrêté 6/01 et, en fait, le remplaçait (les arrêtés ont été versés par les deux avocats dans leur recueil de jurisprudence). Les deux arrêtés sont fort similaires. Ils ne comportent pas de différences pertinentes aux fins des présents appels.
+[19] J’ai supprimé les notes de bas de page des deux tableaux reproduits ci‑dessus.
+[20] Recueil conjoint de documents, onglet 18.
+[21] Les passages soulignés sont en italiques. Les passages en gras sont reproduits tels qu’ils figurent dans le texte initial.
+[22] Voir la transcription du 19 août 2010, pages 168 (milieu de la page) et 170 (haut de la page).
+[23] Autrement dit, si les fonds étaient versés en échange de la réduction de la contrepartie à verser par unité d’énergie.
+[24] Je n’ai pas à examiner ces questions, mais j’aimerais faire remarquer qu’il n’y a rien en l’espèce qui donne à penser qu’il existait une fiducie. En outre, il ne peut pas y avoir de convention de mandat étant donné qu’il n’y a rien en l’espèce qui donne à penser qu’il existait une relation juridique par laquelle les fournisseurs d’énergie étaient autorisés à créer ou à modifier les relations juridiques existant entre ceux qui fournissaient les remboursements et des tiers ou qu’ils avaient la capacité de le faire.
+[25] Voir, par exemple, les factures qu’Atco envoyait au Conseil scolaire de Calgary, onglet 10 du recueil conjoint de documents.
+[26] Voir le paragraphe 18 de l’exposé conjoint partiel des faits. À mon avis, c’est le droit qui est admis, plutôt que les faits : en effet, selon mon interprétation du droit, un point de droit ne peut pas être admis.
+Toutefois, il pourrait être considéré que les appelants ne contestent pas que le client continuait à être responsable du paiement intégral de la facture si la province ne versait pas le remboursement. Je considérerai ainsi cet énoncé; cette conclusion est la bonne étant donné qu’aucun élément de preuve ne montre qu’il y ait eu quelque genre d’entente ou d’arrangement en vue de libérer le client de l’obligation d’acquitter la facture et des conséquences d’un paiement tardif.
+[27] Voir le paragraphe 17 de l’exposé conjoint partiel des faits.
+[28] Voir, par exemple, les factures qu’Atco envoyait au Conseil scolaire de Calgary, onglet 10 du recueil conjoint de documents.
+[29] Voir la page 5 sur 6, onglet 7 du recueil conjoint de documents.
+[30] Il existe une différence sur un autre point. Si les fournisseurs recevaient les fonds en échange de la réduction du prix du gaz naturel, il est difficile de comprendre comment le client pourrait être responsable du paiement des intérêts lorsque le gouvernement effectuait un paiement en retard.
+[31] Plus précisément, l’arrêté ministériel 6/01, et l’arrêté 17/01 qui le remplaçait, délèguent, conformément à l’article 9 de la Government Organization Act de l’Alberta, susmentionnée, le pouvoir du ministre d’administrer et de payer les subventions accordées dans le programme de remboursement relatif au gaz naturel conformément à l’annexe 10 du Transportation and Utilities Grants Regulation, aux personnes occupant certains postes [traduction] « conformément aux critères énoncés à l’annexe », de sorte que les conditions figurant dans l’annexe s’appliquaient au programme de subventions.
+[32] Les appelants ont accordé de l’importance au libellé du paragraphe 3 de l’annexe de l’arrêté ministériel 6/01 lorsqu’il parle d’un [traduction] « remboursement [...] à valoir à titre de déduction sur leurs factures mensuelles ».
+Étant donné les termes clairs du paragraphe 1, le [traduction] « remboursement [...] sera versé aux utilisateurs de gaz naturel » et comme ni l’arrêté ministériel ni l’annexe 10 du Transportation and Utilities Grants Regulation ne font mention de la réduction du prix du gaz naturel, je suis convaincu qu’il convient d’interpréter les paragraphes 1 et 3 ensemble comme prévoyant que le remboursement sera porté au crédit du compte du client, de façon à réduire le montant à payer.
+[33] Balancing Pool Allocation Regulation, précité, paragraphes 3(1) et (2).
+[34] Ibid., article 6.
+[35] Ibid., article 10.
+[36] Ibid., paragraphe 9(3).
+[37] Recueil conjoint de documents, onglet 18. Je note également que le Power Pool Council est tenu d’établir les règles du Balancing Pool conformément à l’article 2 du Balancing Pool Regulation (règlement 169/1999 de l’Alberta) ainsi que conformément à l’article 8 du Balancing Pool Allocation Regulation, précité. Je note également que l’article 2.3 du Balancing Pool Rules prévoit que [traduction] « [l]e Conseil fera en sorte que le Balancing Pool soit administré et exploité conformément aux présentes règles ».
+[38] Ibid., page 2, article 1.1.
+[39] Ibid., page 7, article 3.1.3. Dans ce paragraphe, j’ai supprimé ce qui était en gras des passages cités du Balancing Pool Rules.
+[40] Je note également que je n’ai donc pas à examiner les décisions citées et notamment les arrêts Commission scolaire Des Chênes c. Canada, 2001 CAF 264, et Canada c. Calgary (Ville), 2010 CAF 127. Ici encore, à supposer qu’il existe une contrepartie et un lien direct entre la prestation du service de virement de fonds aux comptes des clients, cela n’influe pas sur la contrepartie que les appelants doivent payer.
+[41] Il n’est pas surprenant que la province ait décidé d’établir le système de remboursement de façon que le remboursement soit versé aux clients, plutôt que d’adopter un système selon lequel la province payait en échange d’une réduction des prix de l’énergie; en exerçant ce choix, la province rendait plus apparente l’aide qu’elle apportait aux clients.

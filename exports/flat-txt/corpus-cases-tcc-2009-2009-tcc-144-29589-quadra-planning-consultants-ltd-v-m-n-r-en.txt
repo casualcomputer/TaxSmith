@@ -1,0 +1,154 @@
+Title: Quadra Planning Consultants Ltd v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29589/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-144-29589-quadra-planning-consultants-ltd-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2009-02-19
+
+# Quadra Planning Consultants Ltd v. M.N.R.
+
+- Citation: 2009 TCC 144
+- Decision date: 2009-02-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6341, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Quadra Planning Consultants Ltd v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-02-19
+Neutral citation
+2009 TCC 144
+File numbers
+2008-891(CPP)
+Judges and Taxing Officers
+Diane Campbell
+Subjects
+Canada Pension Plan
+Decision Content
+Citation: 2009 TCC 144
+Docket: 2008-891(CPP)
+BETWEEN:
+QUADRA PLANNING CONSULTANTS LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+CERTIFICATION OF TRANSCRIPT OF
+REASONS FOR JUDGMENT
+Let the attached certified transcript of my Reasons for Judgment delivered orally from the Bench at Vancouver, British Columbia on February 12, 2009, be filed.
+“Diane Campbell”
+Campbell J.
+Signed in Ottawa, Canada, this 23rd day of March 2009.
+IN THE TAX COURT
+2008-891(CPP)
+BETWEEN:
+QUADRA PLANNING CONSULTANTS LTD.,
+Appellant;
+- and -
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+--------------
+Held before Madam Justice Campbell in Courtroom No. 602, 6th Floor, 701 West Georgia Street, Vancouver, B.C., on Thursday, February 12, 2009.
+--------------
+APPEARANCES:
+Ms. Michelle Moriartey, Counsel for the Appellant;
+Mr. Matthew Turnell, Counsel for the Respondent.
+--------------
+THE REGISTRAR: C. DeSantos
+--------------
+Allwest Reporting Ltd.
+#1200 - 1125 Howe Street
+Vancouver, B.C.
+V6Z 2K8
+Per: S. Leeburn
+REASONS FOR JUDGMENT
+(Delivered Orally from the Bench
+in Vancouver, B.C. on February 12, 2009)
+REGISTRAR: Madam Justice.
+JUSTICE: Thank you. And thank you to both counsel for coming back this morning. I appreciate it.
+All right. Let the record show that I am delivering oral reasons in the matter of the appeal of Quadra Planning Consultants Ltd., which I heard yesterday.
+This is an appeal from a determination by the Minister of National Revenue that the workers, Michael McPhee and Larry Wolfe, were employed by the Appellant, Quadra Planning, in pensionable employment during the period January 1, 2005 through to February 28, 2007.
+At the outset of the hearing Respondent counsel advised the Court that the Minister was conceding that one of the workers, Larry Wolfe, was employed as an independent contractor during the period and therefore was not engaged in pensionable employment.
+The issue concerning the remaining worker, Michael McPhee, is whether he was employed in pensionable employment with Quadra pursuant to the Canada Pension Plan during that same period. Both Mr. McPhee and Mr. Wolfe gave evidence and I also heard from Rosemary Basha, the Appeals Officer.
+The Appellant was incorporated in 1987. Since its incorporation, Mr. McPhee and Mr. Wolfe have each owned 50 percent of the shares. They are the directors and officers of the company although there are no written agreements between them. The company engages primarily in environmental consulting services.
+Prior to the incorporation of Quadra, Mr. McPhee had operated his own environmental consulting business as a soul proprietor. Both Mr. McPhee and Mr. Wolfe testified that they viewed Quadra as a vehicle that would enable them to compete with larger corporations in the industry to improve their image within the industry, recognizing many potential customers preferred to deal with corporations. It also enabled them to market and work cooperatively with smaller independent consultants.
+Both Mr. McPhee and Mr. Wolfe agreed that each could provide consulting services to others and that they were not providing these services exclusively to Quadra at all times. Mr. Wolfe testified that he considered Quadra as one umbrella under which they would collaborate to provide their services.
+During the period under appeal Mr. McPhee provided consulting services through his own proprietorship to the Galiano Institute and in addition he worked three-quarters time as a professor at Douglas College. Both Mr. McPhee and Mr. Wolfe testified that they attracted clients by attending lectures, conferences, workshops, engaging in proposals and maintaining general contacts within the industry. Work is obtained by preparing and submitting project proposals on behalf of Quadra.
+During this period three proposals prepared by Mr. McPhee were unsuccessful and did not result in a work project. Preparation of proposals take one to two days with more complex proposals taking up to a week to complete. Project preparation involved client contact, developing a project concept, research, budget preparation, preparation of the proposal bid, and in some cases dealing with the hiring of additional sub-contract consultants. The proposals would also contain an estimate of professional fees expected to be incurred together with expenses.
+The evidence was that Mr. McPhee was never reimbursed by Quadra for the time spent on obtaining or on preparation of these proposals even when they were successful in their bid. The professional fees submitted in these proposals did not include an amount to cover the preparation time and costs.
+The evidence suggests that both Mr. McPhee and Mr. Wolfe worked independently on their own proposals and contracts in the same manner, but during the relevant period Mr. Wolfe had spent more time pursuing his own interests as a sole proprietor doing fewer projects within the Quadra umbrella.
+When either Mr. McPhee or Mr. Wolfe wrote a proposal that they successfully obtained, that person would sign the contract and manage the project. Both confirmed that they had little communication in respect to the projects each was conducting. Mr. Wolfe stated that he did not review Mr. McPhee's proposals, review his contracts or the final project reports. He testified that Mr. McPhee did not require his permission to pursue these proposals and indicated that the only communication would be communication on more complex projects. In fact Mr. Wolfe testified that he was not aware of all of the projects which Mr. McPhee engaged in on behalf of Quadra during this period.
+When the proposals are successful, Quadra's project contracts are fixed price contracts, which are, according to the evidence, typical within the environmental consulting industry. Both Mr. McPhee and Mr. Wolfe testified that as project managers, in regard to their respective projects, they were each paid professional fees, pursuant to the contracts, less a percentage payment retained on each project by Quadra. When either Mr. McPhee or Mr. Wolfe provided more hours on a project than were included in their budgeted costs, they did not bill amounts for this additional time that would be required to complete the project. When repair, correction or adjustments were required after the project was completed Mr. McPhee was responsible to attend to the problem without further compensation by Quadra.
+Although no assistants were hired during the relevant period, the evidence was that Mr. McPhee would have the right to personally hire an assistant if preapproved by the customer.
+Mr. McPhee received no overtime or vacation pay, paid leave, or statutory holiday pay. Neither did he receive the usual benefits such as insurance, health, dental or disability.
+Mr. McPhee and Mr. Wolfe worked from their home offices without compensation by Quadra for such use. Quadra maintains no office space. They also use their own vehicles and cell phones. Computers were supplied by Quadra to each worker. The evidence suggests that office supplies and furniture may have been supplied by both Quadra and the workers.
+The evidence also revealed that Mr. McPhee had guaranteed a line of credit in Quadra's name. A bonus was also paid to him for the first time in 2006. In addition, the evidence suggests that Mr. McPhee withdrew amounts from Quadra's account, which were in excess of his invoices to Quadra. His evidence was that these amounts were advances.
+I will turn now to my analysis in this case.
+I want to state at the outset that this is not a black and white situation. The evidence suggests a lot of grey area and the outcome is dependant primarily on my review and interpretation of the facts before me.
+I also want to commend both counsel in their presentations. I know you are both relatively new to the arena of the Court setting. But I also know you both spent a lot of time on preparation before coming before me. It does not go unnoticed and I certainly appreciate it. I do expect that both of you will have great futures as practitioners in this Court if the presentations in this appeal are indicative of your future work. So I thank both of you.
+I want to begin by addressing the factor of the intention of the parties in this appeal. Mr. McPhee and Mr. Wolfe had a meeting of minds when they incorporated Quadra: that they would provide services to the company and be treated as independent contractors. This was also reflected in the reasons they came together in 1987, in that they considered Quadra as a vehicle to provide a more acceptable face to their collaboration in terms of attracting clients and competing with larger corporations within the industry. They each retained their own sole proprietorships and the evidence suggested that over the years they each used those respective proprietorships to complete work in addition to using Quadra.
+Mr. McPhee maintained a business and GST number and reported business income and expenses on his tax return. Quadra never issued T4s to Mr. McPhee. He always invoiced Quadra for the services he rendered and collected GST on those.
+The evidence of both Mr. McPhee and Mr. Wolfe was that their common intention and understanding throughout was that they should be considered independent contractors.
+If intent alone were determinative, then I believe the evidence of both Mr. McPhee and Mr. Wolfe of their understanding of their relationship, together with the fact that they invoiced Quadra for services and charged GST, points to Mr. McPhee being an independent contractor. That is clearly how they viewed themselves in relation to Quadra. In addition, none of the usual employee benefits were paid or provided to either of them. They were only as successful as their next proposal, and if they were unsuccessful over a period of time in obtaining the projects despite the bids, or simply did not pursue proposals at all, then they received no revenue.
+All of this brings them within the sphere of what we usually think of as independent contractors. I believe it is also clear that where we have a meeting of minds or a common understanding expressed by both parties as to what they intended their relationship with the payor to be, then I cannot ignore the factor of intention.
+I do not however believe that my analysis ends there because the entire relationship must be considered in light of the evidence to ascertain whether it supports the stated intent of the parties. Therefore although intention is not determinative because both Mr. McPhee and Mr. Wolfe had a common intention, it is one of the factors which must be considered in an overall analysis of their relationship. This means that I must now go to an analysis of the Wiebe Door factors in light of the facts before me. (Wiebe Door Services Ltd. v. M.N.R., 87 DTC 5025)
+As Justice Bowman stated in the case of Lang et al. v. M.N.R., 2007 DTC 1754, if an analysis of the Wiebe Door factors is inconclusive then a consideration of the findings on intent becomes all the more important and decisive in the circumstances.
+Now, I turn to the first factor of control. In an examination of any of these factors it must be remembered that Quadra is a separate legal entity with a distinct existence that must be respected. It also makes any analysis a little more complicated because in other decisions regarding employee versus independent contractor status, the worker is not always a shareholder, director and officer of the payor as in this appeal.
+Mr. McPhee established his own hours and schedule, negotiated contracts independently and signed those without the need to consult with anyone else. In fact Mr. Wolfe confirmed that he was often unaware of Mr. McPhee's projects and the evidence suggests that neither had any right to veto contract work of the other.
+Mr. McPhee could hire individuals to assist him if he required them. He determined which projects he would or would not pursue. He withdrew money from the Quadra account, which he referred to as advances, as and when he needed funds. In fact, they both worked so independently of each other that Mr. Wolfe was unaware of these advances until just recently. Mr. McPhee also signed a line of credit in respect to Quadra.
+Of course it is important to remember that it is not the actual control that Quadra could exercise but the right to exercise that control regardless of whether in fact the company did or did not exercise it.
+Since its incorporation, both Mr. McPhee and Mr. Wolfe treated Quadra as a marketing vehicle in which the two of them could pool their resources and contacts within the industry and further their business interest as sole proprietors. This is reflected in the fact that Quadra had no office. They worked independently of each other for the most part and neither scrutinized the work of the other.
+None of the usual employee benefits were paid. They established their own hours, chose which contracts they wanted to bid on. The evidence of both Mr. McPhee and Mr. Wolfe suggests that neither could have interfered with the other’s projects, nor was there any evidence to suggest that Quadra retained any latent power to control these workers.
+While it is true that the revenue from the projects flowed through Quadra, there is nothing in the evidence to suggest that the corporation had any right to direct or instruct Mr. McPhee to accept or reject a particular project or to direct how it would be completed after it was accepted. The evidence does not suggest that there was any power in Quadra to control Mr. McPhee in these aspects. In fact, it supports the evidence of both Mr. McPhee and Mr. Wolfe as to the reasons for their initial coming together in the first place and incorporating Quadra. Quadra is a separate legal entity but with two 50 percent shareholders. In light of their conduct toward each other throughout the life of the incorporation, there was very little actual residual control or right to control in the corporate vehicle known as Quadra. But this is not surprising as it reflects the state of intention surrounding the incorporation of Quadra and the conduct of their activities thereafter.
+I consider the factor of tools to be neutral because the evidence suggests that each party supplied equipment. However, I do consider the home office base to be the item of most importance in this type of business where much of the proposal groundwork required such a workspace to complete the work. This could tip the scale slightly perhaps in favor of an independent contractor status.
+Although the Respondent suggested that because there was no written agreement it would be a reasonable inference that some of the fees paid to Mr. McPhee on the projects could be considered compensation for home office use, I reject that argument as there was simply nothing in the evidence to suggest such a conclusion. It is mere conjecture.
+The chance of profit, risk of loss factors must be considered from the perspective of the worker, again not losing sight of the existence of Quadra as a separate legal entity.
+Mr. McPhee's evidence was that he had to search out clients and then he could spend days working on a proposal which he might not be successful in obtaining. He was not compensated in any manner for these hours nor did he expect to be. This is far removed from an employee situation where the expectation would be for compensation. Certainly his income was dependant on how aggressively he pursued proposal bids and how successful he was in obtaining them: similar again to how independent contractors operate. In fact, Mr. Wolfe testified that he had pursued other areas in the relevant period and consequently his project numbers and revenue were down significantly.
+Mr. McPhee also risked further loss if clients were unhappy and he had to address these concerns after completion of the projects. Costs associated with this were again his personal responsibility.
+The extent to which Mr. McPhee shouldered the responsibility for these costs would never be something that typically an employee would agree to undertake without additional compensation. The Respondent suggested that there would be no significant chance of profit for Mr. McPhee because the remuneration was fixed as per the project and the only opportunity to increase the profit might be to complete the work more quickly. However, Mr. McPhee's evidence was that on one project for Fisheries and Oceans Canada he was able to increase his professional fees by successfully reducing the expenses, which he incurred in performing his services, thereby increasing his profit margin. Again this is not typical of an employee/employer relationship.
+In respect to the integration factor, Justice Bowman in Lang cautioned against using this test as it is rarely useful or determinative. Recent case law seems to be moving in a direction that gives less emphasis on this factor. If it is a consideration at all, I believe there are factors pointing in both directions. Were his activities so integrated into those of the corporation that Quadra could cease to exist without his efforts? The answer to this is not as easy as the question appears on its face. There is evidence to suggest that other planning consultants were engaged by Quadra to work on and complete proposals. Some of the documents at Exhibit A-1 included invoices and letter agreements, which an individual by the name of Victoria McFarlane signed as principal on behalf of Quadra.
+I do not believe this factor assists me in any helpful manner here.
+In summary, if I view the relationship between Quadra and Mr. McPhee based on intention alone, it falls on the side of independent contractor. If I look at it from the sole perspective of my analysis of the Wiebe Door factors then it also points to Mr. McPhee as an independent contractor.
+When I step back and look at all of the evidence in light of all of these factors and ask “whose business is it?”, then I must conclude it is Mr. McPhee's. And this is so despite very able and persuasive argument by Respondent counsel.
+The appeal is therefore allowed without costs on the basis of the concession by the Respondent that Mr. Wolfe is not engaged in pensionable employment pursuant to the Canada Pension Plan and my conclusion that Mr. McPhee is an independent contractor and as a result he is not engaged in pensionable employment with the Appellant, Quadra.
+That concludes my reasons in the appeal. I thank both counsel again. That is the work for the Tax Court for the day in this week in Vancouver,
+Thank you very much.
+(PROCEEDINGS ADJOURNED AT 11:30 A.M.)
+I hereby certify that the FOREGOING is a true and accurate transcript of the proceedings herein to the best of my skill and ability.
+__________________________________
+S. Leeburn, COURT REPORTER
+CITATION:
+2009 TCC 144
+COURT FILE NO.:
+2008-891(CPP)
+STYLE OF CAUSE:
+Quadra Planning Consultants Ltd. and The Minister of National Revenue
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 11, 2009
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Diane Campbell
+DATE OF ORAL JUDGMENT:
+February 12, 2009
+APPEARANCES:
+Counsel for the Appellant:
+Michelle Moriartey
+Counsel for the Respondent:
+Matthew Turnell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Michelle Moriartey
+Firm:
+Fraser Milner Casgrain
+Barristers and Solicitors
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

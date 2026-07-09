@@ -1,0 +1,620 @@
+Title: Quentin v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29402/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-461-29402-quentin-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-09-15
+
+# Quentin v. The Queen
+
+- Citation: 2009 TCC 461
+- Decision date: 2009-09-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6983, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Quentin v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-09-15
+Neutral citation
+2009 TCC 461
+File numbers
+2008-173(IT)I
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-173(IT)I
+BETWEEN:
+DENIS QUENTIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of
+9117-4508 Québec inc. (2008-174(IT)I),
+on July 6, 2009, at Rimouski, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Vlad Zolia
+____________________________________________________________________
+JUDGMENT
+The appeal against the reassessments established under the Income Tax Act for the 2002, 2003 and 2004 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 15th day of September 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 30th day of October 2009.
+Elizabeth Tan, Translator
+Docket: 2008-174(IT)I
+BETWEEN:
+9117-4508 QUÉBEC INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on common evidence with the appeal of
+Denis Quentin (2008-173(IT)I),
+on July 6, 2009, at Rimouski, Quebec.
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Agent for the appellant:
+Denis Quentin
+Counsel for the respondent:
+Vlad Zolia
+____________________________________________________________________
+JUDGMENT
+The appeal against the reassessments established under the Income Tax Act for the 2003 and 2004 taxation years is allowed, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment, in accordance with the attached reasons for judgment.
+Signed at Ottawa, Canada, this 15th day of September 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 30th day of October 2009.
+Elizabeth Tan, Translator
+Citation: 2009 TCC 461
+Date: 20090915
+Dockets: 2008-173(IT)I
+2008-174(IT)I
+BETWEEN:
+DENIS QUENTIN and
+9117-4508 QUÉBEC INC.,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] These are appeals heard on common evidence. The appellant is appealing from reassessments established against it for the 2002, 2003 and 2004 taxation years, and the appellant company is appealing from reassessments established against him for the 2003 and 2004 taxation years.
+[2] On September 8, 2006, the Minister of National Revenue (the Minister) established reassessments against the appellant for the 2002, 2003 and 2004 taxation years. In establishing these reassessments, the Minister used the net worth method to determine the appellant had unreported income in the amounts of $53,671 in 2002, $25,433 in 2003 and $4,301 in 2004, according to the details provided in the attached Appendices 1, 2 and 3, and imposed a penalty for each of these years in accordance with subsection 163(2) of the Income Tax Act (the Act). In response to the objection filed by the appellant against these September 8, 2006, reassessments, the Minister:
+[translation]
+(a) established a reassessment on August 27, 2007, for the 2002 taxation year:
+(i) reducing the previously added income by $19,860;
+(ii) reducing the penalty under subsection 163(2) of the Act accordingly;
+(b) amended the September 8, 2006, reassessments for the 2003 and 2004 taxation years on August 27, 2007.
+[3] On August 16, 2006, the Minister established reassessments for the appellant company for the 2003 and 2004 taxation years. In doing so, the Minister used the net worth method to determine that the appellant company had unreported income of $56,225 in 2003 and $27,179 in 2004, according to the details provided in the attached Apendices 1, 2 and 3, and imposed a penalty for each of these years, in accordance with subsection 163(2) of the Act. On August 29, 2006, the Minister established reassessments for the 2003 and 2004 taxation years, correcting previously imposed penalties for these taxation years. In response to the objection filed by the appellant company against these August 29, 2006, reassessments, the Minister:
+(a) established a reassessment on August 1, 2007, for the 2003 taxation year:
+(i) reducing the previously added income by $19,860;
+(ii) reducing the penalty under subsection 163(2) of the Act accordingly;
+(b) amended the August 29, 2006, reassessment for the 2004 taxation year on August 1, 2007.
+[4] As for the appellant, when establishing the reassessments that are the subject of the present case, the Minister relied on the following presumptions of fact, stated at paragraph 8 of the Reply to the Notice of Appeal in Docket 2008‑173(IT)I :
+[TRANSLATION]
+(a) During the taxation years in question, the appellant was the sole shareholder of the company 9117-4508 Québec Inc. (hereinafter, the Company); (admitted)
+(b) The Company operated a canteen; (admitted)
+(c) According to the CIDREQ company register system, the Company was incorporated on June 6, 2002; (admitted)
+(d) The Company's fiscal year ended on March 31 of each year; (admitted)
+(e) The Company and the appellant were audited by the Minister; (admitted)
+Advantage conferred on the appellant
+(f) In his income tax reports for the 2002, 2003 and 2004 taxation years, the appellant reported the following income: (admitted)
+DESCRIPTION
+2002
+2003
+2004
+Employment income
+$2,839
+$0
+$4,992
+Employment-insurance benefits
+$6,117
+n/a
+n/a
+TOTAL
+$8,956
+$0
+$4,992
+(g) In his income tax reports for the 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000 and 2001 taxation years, the appellant reported the following total income: (admitted)
+YEAR
+TOTAL
+INCOME
+1991
+$6,149
+1992
+$9,795
+1993
+$10,570
+1994
+$23,426
+1995
+$13,380
+1996
+$14,659
+1997
+$11,363
+1998
+$8,231
+1999
+$12,824
+2000
+$17,319
+2001
+$17,567
+(h) In its income tax reports for the 2003 and 2004 taxation years, the Company reported the following net loss: (admitted)
+2003
+2004
+($8,818)
+($10,802)
+(i) During the audit, the Minister's auditor (hereinafter the auditor) noted that regarding internal control:
+(i) All the Company's sales were made in cash; (admitted)
+(ii) All operations (sales, deposits, bill payments) were performed by the appellant; (admitted)
+(iii) The appellant also did the Company's accounting; (admitted)
+(iv) There was no record or bookkeeping for the balance sheet accounts; (denied)
+(v) There was no bookkeeping for the "amounts owing to the shareholder" account; (denied)
+(vi) The shareholder himself indicated to his accountant the "amounts owing to the shareholder"; (admitted)
+(vii) Internal control was non-existent; (denied)
+(j) In the Company's financial records, during the period of April 1, 2002, to March 31, 2004, it was indicated that the appellant made investments of $49,260; (admitted)
+(k) Considering the above, the auditor used the indirect audit method of "net worth differential" to carry out her audit for the taxation years in question; (admitted)
+(l) Using the indirect "net worth" method, the auditor determined that the following amounts were unreported by the appellant (see detail in appendices): (admitted)
+2002
+2003
+2004
+$53,671
+$25,433
+$4,301
+(m) At the objection stage, an analysis of the "net worth" was carried out by the Minister's officer (hereinafter, the officer); (no knowledge)
+(n) Further to this analysis, the officer determined that the $19,860.22 submitted as an adjustment to the total income as of December 31, 2002, under "Money from the company 9117-4508 Qc Inc." had already been taken into consideration when establishing the appellant's personal assets; (admitted)
+(o) As a result, the Minister reduced the benefit conferred on the appellant from $53,671 to $33,811 for the 2002 taxation year. (admitted)
+[5] Regarding the appellant company, to establish the reassessments that are the subject of the present case, the Minister relied on the following presumptions of fact, stated at paragraph 8 of the Reply to the Notice of Appeal in docket 2008‑174(IT)I:
+[translation]
+(a) During the taxation years in question, Denis Quentin was the sole shareholder of the appellant company (hereinafter, the shareholder);
+(b) The appellant company operated a canteen;
+(c) According to the CIDREQ company registration system, the appellant company was incorporated on June 6, 2002;
+(d) The appellant company's fiscal year ended March 31 of each year;
+(e) The shareholder and the appellant company were audited by the Minister;
+Unreported income
+(f) In his income tax reports for the 2002, 2003 and 2004, the shareholder reported the following income:
+DESCRIPTION
+2002
+2003
+2004
+Employment income
+$2,839
+$0
+$4,992
+Unemployment insurance benefits
+$6,117
+n/a
+n/a
+TOTAL
+$8,956
+$0
+$4,992
+(g) In his income tax reports for the 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000 and 2001 taxation years, the shareholder reported the following total income:
+YEAR
+TOTAL
+INCOME
+1991
+$6,149
+1992
+$9,795
+1993
+$10,570
+1994
+$23,426
+1995
+$13,380
+1996
+$14,659
+1997
+$11,363
+1998
+$8,231
+1999
+$12,824
+2000
+$17,319
+2001
+$17,567
+(h) In its income tax reports for the 2003 and 2004 taxation years, the appellant company reported the following net losses:
+2003
+2004
+($8,818)
+($10,802)
+(i) During the audit, the Minister's auditor (hereinafter the auditor) noted that regarding internal control:
+(i) All the appellant company's sales were made in cash;
+(ii) All operations (sales, deposits, bill payments) were performed by the shareholder;
+(iii) The shareholder also did the appellant company's accounting;
+(iv) There was no record or bookkeeping for the appellant company's balance sheet accounts;
+(v) There was no bookkeeping for the "amounts owing to the shareholder" account;
+(vi) The shareholder himself indicated to his accountant the "amounts owing to the shareholder" in the appellant company's balance sheet;
+(vii) Internal control was non-existent;
+(j) In the appellant company's financial records, for the period of April 1, 2002, to March 31, 2004, it was indicated that the shareholder made investments of $49,260;
+(k) Considering the above, the auditor used the indirect audit method of "net worth differential" to carry out her audit for the taxation years in question;
+(l) Using the indirect "net worth" method, the auditor determined that the following amounts were unreported by the shareholder (see detail in appendices):
+2002
+2003
+2004
+$53,671
+$25,433
+$4,301
+(m) Considering the only source of income for the shareholder during the taxation years in question was the operation of the appellant company, the auditor determined that the amounts $56,225 ($53,671 + $2,554) and $27,179 ($22,878 + $4,301) for the 2003 and 2004 taxation years, respectively, were unreported income in the appellant company;
+(n) Considering the above, the Minister imposed the amounts of $56,225 and $27,179 on the appellant company for its 2003 and 2004 taxation years respectively, as unreported income;
+(o) At the objection stage, a "net worth" analysis was carried out by the Minister's officer (hereinafter, the officer);
+(p) Further to this analysis, the officer determined that the $19,860.22 submitted as an adjustment to the total income as of December 31, 2002, under "Money from the company 9117-4508 Qc Inc.", had already been taken into consideration when establishing the shareholder's personal assets;
+(q) As a result, the Minister reduced the appellant company's unreported income from $56,225 to $36,365 for its 2003 taxation year.
+[6] The objections raised by the appellant are in regard to:
+(i) the Minister establishing the reassessment for the 2002 taxation year after the end of the normal reassessment period;
+(ii) the Minister applying a penalty regarding the additional income for each of the 2002, 2003 and 2004 taxation years;
+(iii) the additional income for the taxation years in question, the specific elements of which are:
+(a) Cash on hand on March 31, 2002
+[7] The appellant claimed that the Minister did not take into consideration that he had around $40,000 in cash on March 31, 2002. He claimed this amount came from savings he had collected over his 18 years of work.
+(b) $10,000 loan granted to the appellant
+[8] The appellant claimed he borrowed $10,000 from his cousin, Christian Romestin, in 2003.
+(c) Cost of living
+[9] The appellant claimed that his cost of living during the period in question was not $12,000 as the Minister claimed, but around $6,000 a year.
+Preliminary remarks
+[10] I will note that in his Reply to the Notice of Appeal, the Minister claimed that the appellant's sole source of income for the taxation years in question was the "operation of the appellant company". In other words, the Minister alleged that the appellant's unreported income necessarily came from operating the appellant company's canteen. However, the evidence submitted by the appellant showed that it had granted the appellant loans or advances of $20,000 before the canteen even began operating. As a result, at the hearing, the Minister admitted that the $20,000 the appellant invested could not have come from the appellant company's canteen operations and he admitted that the amount was necessarily cash the appellant claimed to have on March 31, 2002. Therefore, the Minister agreed to reduce the amount previously added to the appellant's income for the 2002 taxation year under the August 27, 2007, reassessment by $20,000. The Minister also agreed to reduce the amount previously added to the appellant company's income for the 2003 taxation year under the August 1, 2007, reassessment by $20,000. I will note that because of the evidence submitted by the appellant, the Minister admitted that the appellant had borrowed $10,000 from his cousin in 2003. The result is the Minister agreed to reduce the amount previously added to the appellant's income for the 2003 taxation year under the September 8, 2006, reassessment by $10,000. The Minister also agreed to reduce the amount previously added to the appellant company's income for the 2004 taxation year under the August 29, 2006, reassessment by $10,000. As a result, the amounts of the appellant's unreported income that are still in question for the 2002, 2003 and 2004 taxation years are: $13,811, $15,433, and $4,301, respectively. As a result, the amounts of the appellant company's unreported income that are still in question for the 2003 and 2004 taxation years are: $13,811 and $17,179, respectively.
+[11] The appellant's testimony showed that:
+(i) on March 31, 2002, he had around $40,000 in cash that he kept at his residence. The appellant explained that this cash was gifts from his parents, and also mostly savings he had collected from his employment income over the 18 previous years. The appellant stated that, in particular, he saved around $15,000 in 1994, 1995 and 1996. I immediately note that the evidence showed that the average net income (excluding income of $17,750 in 1994 related to the crystallization of a capital gain) for the three years was $11,238. The appellant added that he had around $5,000 in cash when he arrived in Canada in 1988. Lastly, the appellant testified that he kept this cash at his residence instead of depositing it in a bank because he did not trust the Canadian banking system.
+(ii) his cost of living during the years in question was not $1,000 a month as the Minister claimed, but around $500 a month. The appellant explained the low cost of living: he did not smoke, he only drank alcohol on occasion, he essentially fed himself with products from his farm and had almost no hobbies, except for the occasional snowmobile ride on an old snowmobile he himself had fixed up. The appellant added that the municipal and school taxes for the farm where he lived during the years in question had been paid by Denis and Francis Quentin during those years. The appellant explained that the payment of these taxes was considered rent Messrs. Quentin paid in return for the use of part of his farm.[1] Lastly, the appellant noted that Quebec's tax authorities recognized his cost of living during these years was around $500 a month.
+[12] Moreover, the evidence showed that the average net income (excluding the $17,750 income related to the crystallization of a capital gain in 1994) during the period of 1991 to 2005 was $10,106. I note that the evidence makes no mention of the appellant's income for 1984 to 1991.
+Analysis and conclusion
+[13] I would state again that because of the Minister's admissions at the hearing, the amounts of the appellant's unreported income that were still in question for the 2002, 2003 and 2004 taxation years were $13,811, $15,433 and $4,301, respectively. I would also state that because of the Minister's admissions at the hearing, the appellant company's unreported income still in question was $13,811 for the 2003 taxation year and $17,179 for the 2004 taxation year.
+[14] In this case, the only issue I need to determine seems to be whether the appellant's testimony regarding his cost of living is credible, since essentially, the evidence he submitted in this regard is based on his testimony. Only such a low cost of living could make the appellant's version likely and credible, that he was able to save around $40,000 from his employment income from 1984 to 2002, despite a very low average net income during those years. I would state again that, on this subject, the Minister admitted at the hearing that the appellant had saved around $20,000 during those years.
+[15] In this case, the appellant convinced me that his cost of living was around $500 a month for 2002, 2003 and 2004. This means the difference according to net worth for the appellant established by the Minister is reduced by $4,500 in 2002, $6,000 in 2003 and $1,500 in 2004; it also means the difference according to net worth for the appellant company established by the Minister is reduced by $6,000 for the 2003 taxation year and $6,000 for the 2004 taxation year. The appellant also convinced me that his cost of living was very low during the preceding years and he was thus able to save around $40,000, notwithstanding his otherwise low income. To me, his uncontested testimony on this subject seemed likely, believable, sincere and spontaneous. The following reinforced my feeling that the appellant was sincere: during the hearing, the appellant testified that the municipal and school taxes for his farm had been paid by Mr. Quentin during the relevant years. I then asked him if he had documentary evidence to support this testimony. The appellant said the evidence existed, but he did not have it with him because he did not know he needed to bring it to the hearing. To test his credibility, I suspended the hearing so he could go get this documentary evidence (Exhibit A-6) (and other documentary evidence linked to the payment of the appellant company's accounts before it began operating the canteen). The appellant submitted this documentary evidence upon the return of the hearing.
+[16] Considering my findings regarding the appellant's cost of living for 2002, 2003 and 2004, and the cash he had on hand March 31, 2002, the differences according to net worth established by the Minister for the appellant and the appellant company are explained, and therefore the appeals of the appellant and the appellant company are allowed.
+Signed at Ottawa, Canada, this 15th day of September 2009.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 30th day of October 2009.
+Elizabeth Tan, Translator
+Taxpayer: Denis Quentin APPENDIX 1
+Prepared: July 19/06
+Audit period: 01/04/02
+to 31/03/04
+Statement - assets
+31/03/2002
+31/12/2002
+31/03/2003
+31/12/2003
+31/03/2004
+F/T
+PERSONAL ASSETS
+Cash on hand
+-
+-
+-
+-
+-
+Bank account #405423
+465.09
+191.48
+23.56
+175.12
+59.97
+Accounts receivable from 9117-4508 Québec Inc.
+-
+30,160.00
+30,160.00
+49,260.00
+49,260.00
+Shares in 9117-4508 Québec Inc.
+-
+100.00
+100.00
+100.00
+100.00
+Land and residence Rg. Fleuriault
+1.00
+1.00
+1.00
+1.00
+1.00
+[illegible] 1983 / 25-05-1999
+1.00
+1.00
+1.00
+1.00
+1.00
+Yamaha ATV YTM 1984 / 21-06-1993
+1.00
+1.00
+1.00
+1.00
+1.00
+Yamaha VX750 1992 / 11-08-2003
+-
+-
+-
+500.00
+500.00
+Volks Fox 1987 / 05-12-2000
+1.00
+1.00
+1.00
+1.00
+1.00
+Honda ATV ATC20 1984 / 30-10-2001
+1.00
+1.00
+1.00
+1.00
+1.00
+Acura Integra 1990 / 03-12-2003
+-
+500.00
+500.00
+500.00
+500.00
+Hyundai Elantra 1994 / 26-03-2004
+-
+-
+-
+-
+500.00
+Trailer 2003 / 11-08-2003
+-
+-
+-
+500.00
+500.00
+Volks Jetta 1986 / 23-04-2001
+1.00
+1.00
+1.00
+1.00
+1.00
+Volks Passat 1993 / 13-03-2004
+-
+-
+-
+-
+-
+Volks Jetta 1987 / 19-08-1997
+1.00
+1.00
+1.00
+1.00
+1.00
+Volks Jetta 1987 / 18-06-2003
+-
+-
+-
+-
+500.00
+Volks Jetta 1990 / 18-03-1998
+1.00
+1.00
+1.00
+1.00
+1.00
+Volks Jetta 1992 / 10-07-2001
+1.00
+1.00
+1.00
+1.00
+1.00
+TOTAL PERSONAL ASSETS
+474.09
+30,960.48
+30,792.56
+51,044.12
+51,928.97
+Taxpayer: Denis Quentin APPENDIX 2
+Prepared: July 19/06
+Audit period: 01/04/02
+to 31/03/04
+Statement - assets
+31/03/2002
+31/12/2002
+31/03/2003
+31/12/2003
+31/03/2004
+F/T
+PERSONAL ASSETS
+Personal loan from Louis Valcourt
+-
+-
+-
+5,000.00
+5,000.00
+Credit [illegible]
+-
+-
+-
+-
+-
+Credit card Royal Bank Visa
+5.39
+(2.35)
+96.96
+13.44
+(2.22)
+Credit card National Bank Master
+190.93
+2.24
+45.20
+503.65
+39.84
+TOTAL PERSONAL ASSETS
+196.32
+(0.11)
+196.21
+5,517.09
+5,037.62
+Net worth (minus assets)
+277.77
+30,960.59
+30,596.35
+45,527.03
+46,891.35
+Net worth previous year
+n/a
+277.77
+30,960.59
+30,596.35
+45,527.03
+Increase (decrease) of net worth
+n/a
+30,682.82
+(364.24)
+14,930.68
+1,364.32
+Taxpayer: Denis Quentin APPENDIX 3
+Prepared: July 19/06
+Audit period: 01/04/02
+to 31/03/04
+Calculation of difference in total income using net worth
+31/12/2002
+31/03/2003
+31/12/2003
+31/03/2004
+F/T
+Increase (decrease) of net worth (according to Appendix 2
+30,682.82
+(364.24)
+14,930
+1,364.32
+Adjustment to total income
+Additions
+Personal expenses / $1,000 per month
+9,000.00
+3,000.00
+9,000.00
+3,000.00
+[illegible] from the company 9117-4508 Qc. Inc.
+19,860.22
+-
+-
+-
+Federal income tax
+145.70
+-
+-
+-
+Provincial income tax
+97.12
+-
+-
+-
+QPP on income
+82.30
+-
+-
+-
+EI on income
+-
+-
+-
+-
+Federal tax on employment insurance
+176.50
+-
+-
+-
+Provincial tax on employment insurance
+92.00
+-
+-
+-
+Total additions
+29,453.84
+3,000.00
+9,000.00
+3,000.00
+Deductions
+Federal tax reimbursement
+-
+-
+322.05
+-
+Provincial tax reimbursement
+69.74
+-
+363.42
+-
+GST credit
+241.50
+81.25
+208.59
+63.67
+QST credit
+257.00
+-
+158.00
+-
+Total deductions
+568.24
+81.25
+1,052.06
+63.67
+Net adjustments (additions minus deductions)
+28,885.60
+2,918.75
+7,947.94
+2,936.33
+Total income according to adjusted net worth
+59,568.42
+2,554.51
+22,878.62
+4,300.65
+Less: Total reported income (line 150)
+Employment insurance from April 1 to December 31
+3,058.50
+-
+-
+-
+Canteen income from April 1 to December 31
+2,839.00
+-
+-
+-
+Difference in total income according to net worth
+53,670.92
+2,554.51
+22,878.62
+4,300.65
+CITATION: 2009 TCC 461
+COURT FILE NO.: 2008-173(IT)I
+2008-174(IT)I
+STYLE OF CAUSE: DENIS QUENTIN and 9117-4508 QUÉBEC INC. AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Rimouski, Quebec
+DATE OF HEARING: July 6, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: September 15, 2009
+APPEARANCES:
+For the appellants:
+The appellant Denis Quentin himself
+Counsel for the respondent:
+Vlad Zolia
+COUNSEL OF RECORD:
+For the appellants:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] See Exhibit A-6.

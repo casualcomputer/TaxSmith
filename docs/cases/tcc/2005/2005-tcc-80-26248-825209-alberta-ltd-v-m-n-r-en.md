@@ -1,0 +1,183 @@
+---
+title: "825209 Alberta Ltd v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26248/index.do"
+last_modified: "2005-01-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 TCC 80"
+citation2: ""
+neutral_citation: "2005 TCC 80"
+decision_date: "2005-01-31"
+language: "en"
+item_id: "26248"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4015
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T21:05:34.731000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "c2e193f8b2d59047db5c96f96dbd65d58cf9c70cab26e42bebca78e31b06756f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 825209 Alberta Ltd v. M.N.R.
+
+- Citation: 2005 TCC 80
+- Decision date: 2005-01-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4015, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+825209 Alberta Ltd v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2005-01-31
+Neutral citation
+2005 TCC 80
+File numbers
+2004-1859(EI)
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Canada Pension Plan
+Employment Insurance Act
+Old Age Security Act
+Decision Content
+Dockets: 2004-1859(EI)
+2004-1860(CPP)
+BETWEEN:
+825209 ALBERTA LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeals heard on January 10 and 11, 2005 at Edmonton, Alberta.
+Before: The Honourable Associate Chief Justice D.G.H. Bowman
+Appearances:
+Agent for the Appellant:
+William G. Coles
+Counsel for the Respondent:
+Galina M. Bining
+____________________________________________________________________
+JUDGMENT
+The appeals made pursuant to the Employment Insurance Act and the Canada Pension Plan are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the Reasons for Judgment.
+Signed at Ottawa, Canada, this 31st day of January 2005.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+Citation: 2005TCC80
+Date: 20050131
+Dockets: 2004-1859(EI)
+2004-1860(CPP)
+BETWEEN:
+825209 ALBERTA LTD.,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] These appeals are from assessments made under the Employment Insurance Act and the Canada Pension Plan whereby the Minister of National Revenue assessed the appellant for Canada Pension Plan contributions and employment insurance premiums in respect of a number of individuals whose services the appellant retained as painters from time to time for specific jobs. The issue is whether the individuals were engaged under contracts of service or contracts for services or, in the phrase that is more commonly and colloquially used, whether they were employees or independent contractors in the years 1999, 2000, 2001 and 2002.
+[2] The appellant is owned equally by William Coles and his wife Charlene Coles. It carried on a painting business, a construction business, a paint store and a computer store. It has since disposed of the computer business.
+[3] We are concerned here with the status of persons whose services the appellant engaged in the painting business, which it carried on under the name Billy's Construction & Painting.
+[4] The part of the painting business involved in these appeals was the painting of the interior of hotels and motels which were being constructed throughout British Columbia, Alberta, Saskatchewan, Manitoba and in one case, Fort Frances in Ontario and in another, Yellowknife.
+[5] Once the appellant was engaged by a general contractor to do the painting of the hotel that was under construction, Mr. Coles would, in some cases, contact local painters in the city where the work was being done and in others he would contact painters whom he knew or who had been recommended to him by contractors in Three Hills (where the appellant's office was located) or elsewhere. They would then discuss the hourly rate, the nature of the painting job to be done and the time frame in which the job was to be done. The appellant would sometimes transport the painters to the job site in its van and, at least in one case that I recall from the evidence, Mr. Coles let the painters borrow the van. If the painters did not live in or near the city or town where the work was being done, the appellant paid for the hotel. The painters were free to accept or decline the engagement.
+[6] The appellant supplied the paint since, as the owner of a paint store, it could obtain better prices. It also supplied the masking tape.
+[7] The painters supplied their own brushes, knives and other tools and usually, drop sheets. If they owned paint sprayers they supplied them and charged a higher hourly rate. If not, the appellant would provide a sprayer.
+[8] Many of the painters had their own proprietorships operating under a different name such as "Polymar Man" or "Polymar Paints", "Continental Painting and Drywalling", "Morrow Painting Services", or "Rosco & Son Paint Company". They were free to hire helpers and in some cases they were a husband and wife team.
+[9] The painters would submit invoices showing the hours worked and the hourly rate, usually at the end of the job. The appellant would pay them by cheque when it got paid. The painters were not shown on any payroll and no tax, Canada Pension Plan or employment insurance premiums were withheld.
+[10] So far as supervision was concerned Mr. Coles exercised very little. I appreciate that the appropriate question is not whether the payor in fact controlled the worker but whether it had the power to do so. (Groupe Desmarais Pinsonneault & Avard Inc. v. Canada, 2002 FCA 144, 291 N.R. 389). Here it is difficult to see what control Mr. Coles could have exercised. Painters are, in general, a pretty independent lot. You show them the room or the building you want painted, leave them alone and come back when the job is done and if it is satisfactory you pay them. There is no "control" (or relationship of subordination to use a phrase that is seen sometimes in cases of this sort in which the tests in the Quebec Civil Code are relevant, such as Vulcain Alarme Inc. v. M.N.R., 1999 FCA). The painters were not required to keep any particular hours so long as they got the job done within the necessary time frame. In many cases Mr. Coles never met the painters.
+[11] The painters were free to take other work, either during the engagement or between engagements. Many of them were musicians who supplemented their income earned from musical gigs by picking up odd painting jobs. There is no continuity in their work with the appellant. If the work was there they got it. If not, they looked elsewhere.
+[12] Wiebe Door Services Ltd. v. M.N.R., [1986] 2 C.T.C. 200 sets out what has come to be known as the four-in-one test (control, ownership of tools, chance of profit/risk of loss and integration). These have been substantially confirmed by the Supreme Court of Canada in 671122 Ontario Ltd. v. Sagaz Industries Canada Inc. [2001] 4 C.T.C. 139.
+[13] One must however not apply the parts of the test slavishly or accord to any one component an importance that overrides all of the other factors. Some factors may, in the context of a particular case, have little or no significance. Each must be assigned such significance in the overall context as the facts of the case require. For example, both MacGuigan J.A. in Wiebe and Major J. in Sagaz found that it could be difficult to apply the integration test. I have yet to see the integration test used as a stand-alone determinative test (except perhaps in the decision of the Tax Court in Wiebe Door which was reversed in the Federal Court of Appeal). What must be looked at ultimately is the overall composite picture.
+[14] I have mentioned above the four components in the Wiebe Door test. Wiebe Door is still good law but other factors seem to be emerging. For example, in Poulin v. M.N.R., 2003 FCA 50, the Federal Court of Appeal appears to have attenuated, in some measure, the concept of control and to have placed somewhat greater emphasis on the intention of the parties. The following passages from the judgment of Létourneau J.A. are illustrative of the way the law is developing in this area:
+[12] With respect, I think the legal nature of the relationship between the applicant and the three workers providing services to him has been misunderstood. This misunderstanding stems from a misapplication of some of the tests in the Wiebe Door Services Ltd. case, supra, and a failure to pay sufficient attention to the intention of the parties in the determination of the overall relationship they have to each other: 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983, at paragraphs 46 and 47. I will begin my remarks with the test of control and the subordinate relationship cited by the Tax Court of Canada.
+(a) existence of control and a relationship of subordination
+[13] The issue under this test is whether, based on the evidence as a whole, there is control on the one hand, i.e. the applicant, and subordination on the other, the workers: Wolf v. Her Majesty the Queen, A-563-00, Neutral Citation 2002 FCA 96, March 15, 2002, para. 117 (per Décary J.A.). Technically, the two notions define an important element in the contract of employment, as opposed to the contract for services. Article 2085 of the Civil Code of Québec, which determines the applicable law in this case since the contract must be interpreted in accordance with the laws of the province of Quebec (see Federal Law - Civil Law Harmonization Act No. 1, S.C. 2001, c. 4), states:
+Art. 2085
+A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[14] Conversely, the contract for services or of enterprise does not involve any relationship of subordination in respect of performance and the provider of services is free to choose the means of performing the contract: article 2099 of the Civil Code of Québec. The provider who operates a business or simply provides some services does so on his own account.
+[15] What must be retained from these definitions of the two contracts is that the notion of control is important to the legal determination of the nature of the relationship between the parties. However, this notion of control is not always conclusive in itself, notwithstanding the importance it must be given. As our colleague, Madam Justice Desjardins, said in Wolf, supra, at paragraph 76, "While the control test is the traditional civil law criterion of employment, it is often inadequate because of the increased specialization of the workforce": see also Wiebe Door Services Ltd., supra, at pages 558-59, where our colleague, Mr. Justice MacGuigan, states that the test has broken down completely in relation to highly skilled and professional workers, who possess skills far beyond the ability of their employers to direct.
+[16] Furthermore, the notion of control is not necessarily lacking in the contract for service. It is generally apparent, albeit to varying degrees, as it is somewhat in the contract of employment, and sometimes to a surprising extent without necessarily distorting its nature as a contract of enterprise. For example, control in regard to the premises in general and the specific places in which the work is to be performed is exercised over general contractors and their subcontractors. The latter are also given specific instructions as to the materials and the drawings and specifications with which they must comply. Often the times and work schedules of some in relation to others are also controlled and determined to ensure the effective and harmonious operation of the construction site. The work performed by contract for services is also subject to some performance, productivity and quality controls.
+. . . . .
+[28] This leads me to examine the intention of the parties, in order to determine the overall relationship that they wished to maintain between themselves.
+(d) intention of the parties
+[29] There is not, in this case, as is often the case in similar matters, any written agreement; this obviously makes the search for intention more difficult but not necessarily impossible.
+. . . . .
+[31] As for the workers, there is no indication whatever that they considered the applicant to be their employer. The Tax Court of Canada noted that these workers were not opposed to having their employment declared insurable employment, inferring from this that they considered themselves employees. But the three workers testified at the hearing of the assessment appeal filed by the applicant and none of them stated that he or she considered themselves employees of the applicant. Equally significant, perhaps, and indicative of their intention at the time when the agreement was entered into with the applicant, is the fact that these three workers never complained to the Minister about the insurability of their job and never asked that it be declared an insurable employment: they considered themselves self-employed workers and thought that it was in that capacity that they had dealt with the applicant.
+[15] It must of course be acknowledged that some of the cases referred to above depended upon a specific provision in the Quebec Civil Code. Nonetheless, the principles enunciated in them are instructive in cases arising in common law provinces. The question of intention was also discussed in Wolf v. Canada, 2002 DTC 6853 by Nöel J.A. He states at page 6870:
+[122] I too would allow the appeal. In my view, this is a case where the characterization which the parties have placed on their relationship ought to be given great weight. I acknowledge that the manner in which parties choose to describe their relationship is not usually determinative particularly where the applicable legal tests point in the other direction. But in a close case such as the present one, where the relevant factors point in both directions with equal force, the parties' contractual intent, and in particular their mutual understanding of the relationship cannot be disregarded.
+[16] So far as intention in concerned it is obvious that Mr. Coles did not intend the painters to be employees. He saw them as independent contractors and nothing in his dealings with them was inconsistent with that intention. Indeed, the one witness called by the respondent, Mr. Martin Zinger, was looking for any kind of work he could get. He took on a painting job with the appellant. He supplied his own tools and invoiced the appellant and was paid when the job was done. He stated that he saw himself as a subcontractor or self-employed, and never considered himself an employee. He felt free to take other jobs and between engagements he looked for other work. From Mr. Coles' testimony, Mr. Zinger was typical of all of the painters. Indeed, Mr. Coles stated that since the ruling that is in issue here he has had difficulty in finding painters because no one wants to be an employee.
+[17] The test relating to chance of profit or risk of loss is connected with the question whether the worker is in business on his own. This was mentioned in Sagaz at paragraph 44 where the Supreme Court of Canada cited the passage in Wiebe Door which quoted the judgment of Cooke J. in Market Investigations v. Minister of Social Security, [1968] 3 All E.R. 732. The passage reads:
+[44] According to MacGuigan J.A., the best synthesis found in the authorities is that of Cooke J. in Market Investigations v. Minister of Social Security, [1968] 3 All E.R. 732 (Eng. Q.B.), at pp. 737-38 (followed by the Privy Council in Sang v. Chi-Keung, [1990] 2 A.C. 374 (Hong Kong P.C.), per Lord Griffiths, at p. 382):
+The observations of LORD WRIGHT, of DENNING L.J. and of the judges of the Supreme Court in the U.S.A. suggest that the fundamental test to be applied is this: "Is the person who has engaged himself to perform these services performing them as a person in business on his own account?" If the answer to that question is "yes", then the contract is a contract for services. If the answer is "no" then the contract is a contract of service. No exhaustive list has been compiled and perhaps no exhaustive list can be compiled of considerations which are relevant in determining that question, nor can strict rules be laid down as to the relative weight which the various considerations should carry in particular cases. The most that can be said is that control will no doubt always have to be considered, although it can no longer be regarded as the sole determining factor; and that factors, which may be of importance, are such matters as whether the man performing the services provides his own equipment, whether he hires his own helpers, what degree of financial risk he takes, what degree of responsibility for investment and management he has, and whether and how far he has an opportunity of profiting from sound management in the performance of his task. [Emphasis added.]
+[18] Clearly the painters have the chance of profit and the risk of loss. They negotiate the terms of the engagement, including the hourly rate and the time frame. If the work did not materialize they were not paid and indeed if the appellant did not get paid neither did the painters. Whether they got work from the appellant depended on their being called by Mr. Coles. They were free to accept a job or reject it. Mr. Coles as well could call a particular painter or not as he saw fit.
+[19] What is the overall picture that emerges? Clearly we have a number of independent contractors in business for themselves working at times for the appellant when it had a hotel job, otherwise looking for work and working for anyone else who was prepared to offer them work.
+[20] This case is in my view at least as strong as or possibly even stronger than that of Precision Gutters Ltd. v. M.N.R., 2002 FCA 207, where the Federal Court of Appeal reversed a decision of this court and held that installers of eaves troughs were independent contractors. The following passages are illustrative:
+[3] Precision's business consists of manufacturing and installing eaves troughing (gutters). Precision pays installers to perform the installation work and the dispute is whether those installers are employees or independent contractors.
+[4] Precision would negotiate contracts with customers and then hire installers to perform the work. There was no guarantee of ongoing work for the installer. Precision had no right to the exclusive services of any of the installers and they worked for other gutter installation companies without informing Precision. As a result, an installer might refuse a job on the basis that the distance was too great and the gross revenue was not sufficient to make it worthwhile.
+[5] Installers could work alone but more often worked in pairs. Furthermore, installers could have a helper. Precision would offer an amount for each contract and the installers would negotiate amongst themselves for the proper allocation of payment and the installers would pay their own helpers. Thus Precision would sometimes issue a cheque to only one person who would then pay the rest of the crew. Sometimes Precision would issue multiple cheques to each crew members based on the advice of the crew members. In order to get paid, the installer would have to render an invoice to Precision.
+[6] Contracts were paid based on a per-foot amount. Around 70-80% of the time, installers would accept the contract amount offered by Precision. Around 20-30% of the time, installers would negotiate with Precision over the contract amount.
+[7] Precision owns five gutter-roll forming machines that are capable of forming the material into the required shape. Some installers own their own gutter rollers. Others use Precision's machines. The installers own their own tools (typically having a value of around $2,000). Precision provides the aluminum gutters used for installation.
+[8] Typically one installer would pick up the gutter roller and the rest of the crew would go directly to the job site. Precision would notify installers of work opportunities by posting notices at the business premises of the main material supplier.
+[9] Installers did not work under any deadlines, although jobs typically lasted no more than two days. The work was not supervised and work was not inspected.
+The resemblance to this case is obvious. I do not propose to quote any further from this case except for paragraph 30 which reads:
+[30] What the Tax Court Judge has failed to appreciate is that there may well have been in the instant case two businesses, one on the part of Precision and a second business on the part of the installers. The question is not "whose business is it" but rather "is the person who has engaged himself to perform the services performing then as a person in business for his own account". To pose the question in the form set out by the Tax Court Judge is to perhaps imply that there is only one business. Clearly there can be, and in this case, there were, two businesses - manufacturing gutters and installing them.
+[21] It is clear that on all of the tests in Wiebe Door, as discussed in Precision Gutters, as well as the recent test of intent in Poulin, the painters were independent contractors. I see no reason to list them by name. Counsel suggested that since not all of them were listed by name in the notice of objection this court lacked jurisdiction to deal with any painters whose names did not appear in the notice of objection. With respect, I disagree.
+[22] On an appeal to this court the court has the power to look at the assessment as a whole. It would be deplorable if an unrepresented litigant in the informal procedure were to lose all or a portion of its case because its notice of objection did not list everyone in respect of whom the assessment was issued. The Employment Insurance Act and the Canada Pension Plan does not require that type of specificity in a notice of objection any more than the Income Tax Act requires specificity in a notice of objection (except for large corporations).
+[23] There is another group of workers who worked in the computer store or the paint store. They were paid an hourly rate and worked under the constant and direct supervision of the store manager. It was not seriously argued that they were not employees. I find that they were employees.
+[24] There was one final person, an artist by the name of Martin who turned up, to use Mr. Coles' terminology, "higher than a kite". Mr. Coles paid him $50 to go away. I doubt that he fell within either category. Although he was obviously independent, perhaps unduly so, he was scarcely a contractor. He was, rather, merely a free spirit of short passage.
+[25] The appeals are allowed and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with these reasons.
+Signed at Ottawa, Canada, this 31st day of January 2005.
+"D.G.H. Bowman"
+Bowman, A.C.J.
+CITATION:
+2005TCC80
+COURT FILE NO.:
+2004-1859(EI)
+2004-1860(CPP)
+STYLE OF CAUSE:
+825209 Alberta Ltd. and
+Her Majesty The Queen
+PLACE OF HEARING:
+Edmonton, Alberta
+DATE OF HEARING:
+January 10 and 11, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman, Associate Chief Justice
+DATE OF JUDGMENT AND REASONS FOR JUDGMENT:
+January 31, 2005
+APPEARANCES:
+Agent for the Appellant:
+William G. Coles
+Counsel for the Respondent:
+Galina M. Bining
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Address:
+Box 826,
+Three Hills, Alberta
+T0M 2A0
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,157 @@
+Title: Boutique Militaire Québec Inc. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27117/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-40-27117-boutique-militaire-qu-bec-inc-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2006-01-30
+
+# Boutique Militaire Québec Inc. c. M.R.N.
+
+- Citation: 2006 CCI 40
+- Decision date: 2006-01-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 922, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Boutique Militaire Québec Inc. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-01-30
+Référence neutre
+2006 CCI 40
+Numéro de dossier
+2005-1773(EI)
+Juges et Officiers taxateurs
+Sylvio J. Savoie
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2005-1773(EI)
+ENTRE :
+BOUTIQUE MILITAIRE QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 24 novembre 2005, à Québec (Québec)
+Devant : L'honorable S.J. Savoie, Juge suppléant
+Comparutions :
+Représentant de l'appelante :
+Maurice Lemieux
+Avocate de l'intimé :
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Grand-Barachois (Nouveau-Brunswick) ce 30e jour de janvier 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+Référence : 2006CCI40
+Date : 20060130
+Dossier : 2005-1773(EI)
+ENTRE :
+BOUTIQUE MILITAIRE QUÉBEC INC.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge suppléant Savoie
+[1] Cet appel a été entendu à Québec (Québec) le 24 novembre 2005.
+[2] Il s'agit d'un appel portant sur l'assurabilité de l'emploi de Pascal Lemieux, le travailleur, lorsqu'au service de l'appelante, du 1er janvier au 30 septembre 2004.
+[3] Le ministre du Revenu national (le « Ministre » ) a informé l'appelante et le travailleur de sa décision selon laquelle le travailleur occupait un emploi assurable.
+[4] En rendant sa décision, le Ministre s'est appuyé sur les faits présumés suivants :
+5 a) l'appelante, constituée en société le 1er avril 1993, exploite une entreprise dans le domaine de vente de vêtements militaires neufs et usagés, vêtements de travail, vêtements de plein air et équipements de camping;
+b) en 2003 et 2004, l'appelante a réalisé des ventes brutes d'environ 500 000 $ et a déclaré un profit net d'environ 50 000 $;
+c) l'appelante embauche 4 personnes, Maurice Lemieux, père du travailleur, le travailleur, Lisette Gamache, mère du travailleur et Sophie Beaupré, amie du travailleur;
+d) Maurice Lemieux s'occupe, auprès de l'appelante, des achats, des ventes, de l'administration, de la comptabilité et de toutes autres tâches;
+e) le travailleur s'occupe de toutes les tâches de Maurice Lemieux en son absence; lorsque son père est présent, il s'occupe avec lui des mêmes tâches et bénéficie de ses conseils en prévision de le remplacer;
+f) il n'existe aucun contrat de travail écrit entre le travailleur et l'appelante;
+g) Maurice Lemieux et le travailleur ont le droit de signer les chèques au nom de l'appelante, une seule signature est requise;
+h) le travailleur possède une grande latitude concernant les opérations quotidiennes de l'appelante mais il doit consulter son père concernant l'embauche et autres décisions importantes;
+i) le fichier informatique de l'appelante indique que le travailleur faisait 40 heures de travail par semaine alors que Maurice Lemieux précise que le travailleur en faisait plus à chaque semaine;
+j) le travailleur avait un horaire fixe établi par l'appelante, il travaillait une semaine de 6 jours, soit le lundi, mardi, jeudi, vendredi, samedi et dimanche suivi d'une semaine de 4 jours, le lundi, mardi, jeudi et vendredi;
+k) les heures de travail du travailleur n'étaient consignées dans aucun registre ni sur aucune feuille de temps;
+l) le travailleur accomplissait ses tâches dans les locaux de l'appelante, sauf celles liées à la comptabilité qu'il effectuait à l'aide d'un ordinateur à la résidence de Maurice Lemieux et il utilisait le matériel et équipement appartenant à l'appelante;
+m) lorsqu'il rencontrait des fournisseurs dans la région de Québec, il utilisait son véhicule personnel et lorsqu'il rencontrait des fournisseurs à Montréal, il utilisait le véhicule personnel de Maurice Lemieux;
+n) ses frais d'essence ne lui étaient pas remboursés lorsqu'il travaillait à Québec mais il réclamait ses frais de déplacement, de repas et d'hébergement quand il devait venir à Montréal;
+o) durant les semaines se terminant entre le 10 janvier et le 28 août 2004, le travailleur a reçu une rémunération hebdomadaire de 625 $ (15,63 $ de l'heure) alors que, pour les semaines se terminant entre le 4 et le 30 septembre 2004, il a reçu une rémunération hebdomadaire brute de 650 $ (16,25 $ de l'heure);
+p) le travailleur bénéficiait d'une assurance accident de la CSST dont les primes étaient assumées par l'appelante.
+6 a) la compagnie 9071-3033 Québec inc. était la seule actionnaire de l'appelante;
+b) M. Maurice Lemieux était l'unique actionnaire de la compagnie 9071-3033 Québec inc.
+c) Pascal Lemieux est le fils de Maurice Lemieux;
+d) le travailleur était lié à une personne qui contrôlait l'appelante.
+7 a) compte tenu de ses tâches et de ses responsabilités, le salaire du travailleur était raisonnable;
+b) le travailleur occupait un poste permanent auprès d'une compagnie exploitée à l'année;
+c) le travail du travailleur était essentiel à la bonne marche de l'entreprise de l'appelante.
+[5] L'appelante a admis tous les faits présumés du Ministre énoncés aux paragraphes 5 et 6 de la Réponse à l'avis d'appel.
+[6] L'appelante a nié les affirmations du Ministre énoncées au paragraphe 7, mais il s'agit là des conclusions du Ministre suite à son analyse.
+[7] Il convient de souligner que les faits, en l'espèce, ne sont pratiquement pas contestés; mais il faut dire que Maurice Lemieux, l'actionnaire unique de 9071-3033 Québec inc., et de l'appelante, tout en admettant les faits énoncés à l'alinéa 5 h), a quelque peu rejeté cette notion dans son témoignage.
+[8] C'est donc là où se situe le litige, en l'espèce. Bien que les parties s'entendent pour reconnaître qu'elles sont liées par un contrat de travail, selon le Code civil du Québec, elles ne s'entendent pas sur l'assurabilité de cet emploi.
+[9] Puisque le travailleur était lié à une personne qui contrôlait l'appelante, le Ministre a déterminé que ces personnes avaient entre elles un lien de dépendance, tel que le prescrit la Loi de l'impôt sur le revenu, au sous-alinéa 251(2)b)(iii) reproduit ci-dessous :
+(2) Définition de « personnes liées » . Pour l'application de la présente loi, sont des « personnes liées » ou des personnes liées entre elles :
+...
+b) une société et :
+...
+(iii) toute personne liée à une personne visée au sous-alinéa (i) ou (ii);
+[10] En vertu de ce qui précède, le Ministre soutient que l'emploi du travailleur est exclu en vertu de l'alinéa 5(2)i) de la Loi sur l'assurance-emploi (la « Loi » ), reproduit ci-dessous :
+(2) N'est pas un emploi assurable :
+...
+i) l'emploi dans le cadre duquel l'employeur et l'employé ont entre eux un lien de dépendance.
+[11] Il appartient donc au Ministre d'exercer son pouvoir discrétionnaire pour déterminer l'assurabilité de l'emploi du travailleur selon le mandat qu'il a reçu du Législateur sous l'alinéa 5(3)b) qui édicte ce qui suit :
+(3) Pour l'application de l'alinéa (2)i) :
+...
+b) l'employeur et l'employé, lorsqu'ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu'il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d'emploi ainsi que la durée, la nature et l'importance du travail accompli, qu'ils auraient conclu entre eux un contrat de travail à peu près semblable s'ils n'avaient pas eu de lien de dépendance.
+[12] Le Ministre a donc procédé à l'analyse de l'emploi du travailleur selon l'alinéa 5(2)i) de la Loi.
+RÉTRIBUTION
+[13] Le travailleur Pascal Lemieux a reçu un salaire fixe de 625,00 $ brut par semaine au cours de la période du 4 janvier au 28 août 2004; à partir du 29 août jusqu'au 30 septembre 2004, son salaire a été fixé à 650,00 $ brut par semaine. Son salaire lui a été versé par chèque chaque semaine, pour une semaine d'environ 45 heures de travail. Le Ministre a déterminé que le salaire du travailleur lui paraissait adéquat, compte tenu de ses responsabilités et du fait que l'appelante voulait lui confier la relève de l'entreprise. La pièce I-1, produite à l'audition, contient des statistiques d'Emploi Québec pour un travail semblable à celui du travailleur. Ce document confirme que le salaire du travailleur, quoique légèrement supérieur à la statistique, supporte la notion examinée sous ce critère, c'est-à-dire qu'un travailleur non lié aurait accepté un salaire à peu près semblable.
+MODALITÉS D'EMPLOI
+[14] Pascal Lemieux avait un horaire fixe de travail qui a été établi en fonction des heures d'ouverture de l'entreprise de l'appelante. Il travaillait une semaine de six jours soit les lundi, mardi, jeudi, vendredi, samedi et dimanche; la semaine suivante, il travaillait les lundi, mardi, jeudi et vendredi. Il alternait ainsi, selon cet horaire, avec Maurice Lemieux afin que tous deux puissent obtenir une fin de semaine de congé aux deux semaines. Il est vrai que le travailleur n'était pas assujetti à un contrôle du temps travaillé mais cette situation n'était pas déraisonnable compte tenu de ses responsabilités au sein de l'entreprise où il travaillait comme cadre. La notion de contrôle est peu existante au sein de l'entreprise en ce qui concerne les décisions quotidiennes. Le travailleur avisait Maurice Lemieux pour toutes les décisions importantes; toutefois, il n'attendait pas son approbation pour effectuer des transactions. Il a été établi que le travailleur bénéficiait d'une assurance accident de travail de la (Commission de la santé et de la sécurité du travail), payée par l'appelante. En outre, le travailleur était autorisé à utiliser une carte de débit au nom de l'appelante pour payer les fournisseurs.
+[15] Examiné sous ce critère, on peut conclure qu'une personne sans lien de dépendance aurait accepté de telles modalités d'emploi, au sein d'un poste de même nature.
+DURÉE DU TRAVAIL ACCOMPLI
+[16] Le travailleur a été embauché par l'appelante en 1993 et il a travaillé pour cette entreprise depuis cette date. Il s'agissait donc d'un emploi permanent pour une entreprise qui opère à l'année.
+NATURE ET IMPORTANCE DU TRAVAIL ACCOMPLI
+[17] Il a été déterminé que le travail de Pascal Lemieux était essentiel à la bonne marche de l'entreprise puisqu'il partageait les tâches administratives de l'appelante en s'occupant des achats et des ventes. En outre, il faut constater que sans les services rendus par le travailleur, l'appelante aurait été dans l'obligation de trouver une autre personne pour exécuter ces tâches.
+[18] L'appelante demande à cette Cour de renverser la décision du Ministre. Pendant l'étude de ce dossier, l'attention de cette Cour a été portée sur l'arrêt Industrie J.S.P. Inc. c. Canada (ministre du Revenu national - M.R.N.), [1999] A.C.I. no 423, où le juge Tardif de cette Cour en résumait les faits, similaires à la cause sous étude, en ces termes :
+Madame Marie-Claude Perreault a témoigné, expliqué et décrit au moyen de plusieurs exemples son intérêt, son enthousiasme et son dynamisme et celui de ses frères pour les intérêts de la compagnie oeuvrant dans le domaine difficile et très compétitif de la construction de meubles.
+Se partageant des responsabilités importantes et stratégiques de l'entreprise, elle et ses frères ne négligeaient strictement rien pour le mieux-être et le développement de l'entreprise contrôlée par monsieur Jacques Perreault, détenant 1,000 actions votantes mais non participantes.
+Chacun touchait un salaire plus que raisonnable et profitait, à la fin de chaque année, d'un boni qui variait suivant les performances économiques de l'entreprise et la qualité du travail offert par les membres de la famille.
+Les décisions importantes se prenaient dans la collégialité et consensus. Chacun consacrait un minimum de 60 heures dans le cadre de ses fonctions respectives pour la compagnie.
+La prépondérance de la preuve a donc été à l'effet que les membres de la famille Perreault se dévouaient entièrement et totalement aux affaires de la compagnie. Ils y investissaient la plus grande partie de leur disponibilité (minimum 60 heures) de manière à ce que la compagnie puisse réussir dans un marché difficile où la compétition est féroce.
+Après cette analyse, le juge Tardif déclarait ce qui suit :
+Le fait de contribuer et d'être associé à la gérance, à l'administration ou au développement d'une entreprise, et tout particulièrement lorsqu'il s'agit d'une petite entreprise, fait en sorte que la description de tâches est fortement empreinte d'éléments propres et caractéristiques de celles souvent assumées par les propriétaires d'entreprise eux-mêmes ou de personnes détenant plus de 40 p. 100 des actions votantes de la compagnie dans laquelle ils ont un emploi. En d'autres termes, à ce niveau de responsabilités, la composante rétribution doit s'apprécier avec prudence au niveau d'une comparaison avec des tiers; il existe souvent des avantages qui compensent pour le salaire moindre.
+et a conclu que l'emploi exercé par les membres de cette même famille, donc ayant un lien de dépendance, n'était pas exclu des emplois assurables.
+[19] Il a été établi que l'actionnaire unique de l'appelante ne s'est jamais départi du contrôle de la compagnie. Le travailleur a témoigné que : « mon père a le dernier mot ... j'avais pas le pouvoir de signature ... » .
+[20] Selon la jurisprudence, c'est le pouvoir de contrôle qui est important dans l'analyse des faits sous ce critère, non pas l'exercice du contrôle. En l'espèce, le pouvoir de contrôle se manifeste par la propriété des actions dans l'entreprise. Dans les faits, le père du travailleur détient toujours la totalité des actions.
+[21] Cette Cour a analysé les faits, en l'espèce, à la lumière des textes législatifs reproduits ci-haut. Cette Cour a également examiné l'exercice fait par le Ministre conformément au mandat que lui a confié le législateur. La Cour d'appel fédérale a statué sur le mandat qu'ont reçu le Ministre et cette Cour, en révision de la décision du Ministre, dans l'arrêt Légaré c. Canada (ministre du Revenu national - M.R.N.) [1999] A.C.F. no 878 où le juge Marceau au paragraphe 4 statuait ce qui suit :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L'expression utilisée introduit une sorte d'élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu'il s'agit sans doute d'un pouvoir dont l'exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n'est pas sans appel. La Loi accorde, en effet, à la Cour canadienne de l'impôt le pouvoir de la réviser sur la base de ce que pourra révéler une enquête conduite, là, en présence de tous les intéressés. La Cour n'est pas chargée de faire la détermination au même titre que le ministre et, en ce sens, elle ne saurait substituer purement et simplement son appréciation à celle du ministre : c'est ce qui relève du pouvoir dit discrétionnaire du ministre. Mais la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus, et après cette vérification, elle doit décider si la conclusion dont le ministre était "convaincu" paraît toujours raisonnable.
+[22] Au terme de cet exercice, cette Cour doit conclure que le Ministre a exercé son mandat tel que prescrit par la loi et la jurisprudence.
+[23] En outre, je dois conclure que les faits supposés ou retenus par le Ministre sont réels et ont été appréciés correctement en tenant compte du contexte où ils sont survenus. À mon avis, la conclusion dont le Ministre était « convaincu » me paraît toujours raisonnable.
+[24] En conséquence l'appel est rejeté et la décision rendue par le Ministre est confirmée.
+Signé à Grand-Barachois (Nouveau-Brunswick), ce 30e jour de janvier 2006.
+« S.J. Savoie »
+Juge suppléant Savoie
+RÉFÉRENCE : 2006CCI40
+N º DU DOSSIER DE LA COUR : 2005-1773(EI)
+INTITULÉ DE LA CAUSE : BOUTIQUE MILITAIRE QUÉBEC INC. ET M.R.N.
+LIEU DE L'AUDIENCE : Québec (Québec)
+DATE DE L'AUDIENCE : le 24 novembre 2005
+MOTIFS DU JUGEMENT PAR : L'honorable S.J. Savoie, Juge suppléant
+DATE DU JUGEMENT : le 30 janvier 2006.
+COMPARUTIONS :
+Représentant de l'appelante :
+Maurice Lemieux
+Avocate de l'intimé :
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelante:
+Nom :
+Étude :
+Pour l'intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,172 @@
+Title: Delisle c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/126628/index.do
+Corpus path: corpus/cases/tcc/2015/2015-cci-281-126628-delisle-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2015-11-16
+
+# Delisle c. La Reine
+
+- Citation: 2015 CCI 281
+- Decision date: 2015-11-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2681, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Delisle c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2015-11-16
+Référence neutre
+2015 CCI 281
+Numéro de dossier
+2013-1829(IT)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-1829(IT)I
+ENTRE :
+SYLVAIN DELISLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 9 juin 2015 à Québec (Québec).
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Représentante de l'appelant :
+Hélène Lamarche
+Avocat de l'intimée :
+Me Simon Vincent
+JUGEMENT
+L’appel à l’encontre d’une nouvelle cotisation établie par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu en date du 9 juin 2011 à l’égard de l’année d’imposition 2007 de l’appelant est rejeté selon les motifs du jugement ci-joints.
+Signé à Montréal, Canada, ce 16e jour de novembre 2015.
+« Réal Favreau »
+Juge Favreau
+Référence : 2015 CCI 281
+Date : 20151116
+Dossier : 2013-1829(IT)I
+ENTRE :
+SYLVAIN DELISLE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L’appelant a interjeté appel devant cette Cour en se prévalant de la procédure informelle à l’encontre d’une nouvelle cotisation établie en date du 9 juin 2011 par le ministre du Revenu national (le « ministre ») en vertu de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), telle que modifiée, (la « Loi ») concernant l’année d’imposition 2007.
+[2] En produisant sa déclaration de revenu pour l’année d’imposition 2007, l’appelant a réclamé une perte déductible au titre d’un placement d’entreprise (« PDTPE ») au montant de 21 457 $, soit 50% d’une perte au titre d’un placement d’entreprise subie par l’appelant.
+[3] En vertu de la nouvelle cotisation datée du 9 juin 2011, le ministre a refusé à l’appelant la PDTPE de 21 457 $.
+[4] Pour fixer l’impôt payable par l’appelant pour l’année d’imposition 2007, le ministre s’est fondé sur les conclusions et les hypothèses de fait suivantes :
+a) l’appelant est le conjoint de madame Hélène Lamarche au moment du prêt et jusqu’à ce jour.
+b) selon le registraire des entreprises du Québec (système CIDREQ), madame Lamarche est jusqu’à ce jour, la seule actionnaire de la société Épicerie-Boucherie Lam-Bher Inc.
+c) la société Épicerie-Boucherie Lam-Bher Inc. a été constituée le 26 avril 1988, selon la Loi sur les compagnies partie 1A, RLRQ, C.C-38, (ci-après la société).
+d) la société fait la vente au détail de produits alimentaires et autres produits connexes.
+e) le 4 janvier 1997, l’appelant et madame Lamarche auraient signé un effet à payer au montant de 20 000 $ pour un investissement dans la compagnie de madame Lamarche, pour lequel, il n’est spécifié aucune modalité de paiement, date d’échéance et de taux d’intérêt.
+f) le 15 janvier 2004, l’appelant et madame Lamarche auraient signé un effet à payer au montant de 12 000 $ pour un investissement dans la compagnie de madame Lamarche, pour lequel, il n’est spécifié aucune modalité de paiement, date d’échéance et de taux d’intérêt.
+g) la société n’a pas produit de déclaration de revenus des sociétés pour les années d’imposition 2006 et suivantes.
+h) le commerce aurait été vendu à la sœur de madame Lamarche en 2007, ce qui n’est pas confirmé par une déclaration au système de CIDREQ.
+i) selon le système de CIDREQ, il n’y a aucune information déclarée concernant l’existence d’une faillite.
+j) le ministre a envoyé à l’appelant un avis de confirmation lui disant qu’il refusait de lui accorder la PTPE au montant de 42 914 $.
+k) l’appelant n’a pas acquis de créance de la société Lam-Bher.
+l) même si on concluait que l’appelant a acquis une créance de la société Lam-Bher, cette créance n’aurait pas été acquise en vue de tirer un profit.
+[5] Madame Hélène Lamarche a témoigné à l’audience et elle a déposé comme pièce A-1 les ententes privées de financement datées du 4 janvier 1997 et du 15 janvier 2004 qu’elle a conclues avec son conjoint.
+[6] En vertu de l’entente du 4 janvier 1997, madame Lamarche s’est engagée à rembourser à l’appelant la somme de 20 000 $, avec intérêts, qu’il lui a versée pour investir dans sa société. Le délai de remboursement était flexible et des intérêts au taux de 2% devaient être rajoutés au montant du prêt.
+[7] En vertu de l’entente du 15 janvier 2014, madame Lamarche s’est engagée à rembourser à l’appelant, la somme de 12 000 $, avec intérêts, qu’il lui a versée pour investir dans sa société. Le délai de remboursement devait être fixé dès que le commerce de madame Lamarche aurait atteint le seuil de la rentabilité. Des intérêts aux taux en vigueur lors de l’octroi du prêt devaient être rajoutés au montant total du prêt à la fin du remboursement.
+[8] Madame Lamarche a mis en preuve l’emprunt hypothécaire contracté par son conjoint auprès de la Caisse populaire de Rivière-à-Pierre le 30 octobre 1996 au montant de 20 000 $ comportant un terme de cinq ans et un taux d’intérêt de 8,125 % de même que l’emprunt personnel contracté par son conjoint auprès de la même caisse populaire le 21 octobre 2003 au montant de 12 000 $.
+[9] Madame Lamarche a expliqué lors de son témoignage que son conjoint lui avait consenti d’autres avances qui furent déposées dans le compte de banque de la société, lesquelles avances auraient totalisées 20 572 $ au cours de la période débutant le 26 août 2004 et se terminant le 20 mars 2006. Madame Lamarche n’a pas fourni d’explications concernant les modalités de remboursement de ces avances, ni le taux d’intérêt applicable mais elle a précisé que ces avances provenaient d’un compte qu’elle détenait avec son conjoint et dans lequel la paye de son conjoint était déposée.
+[10] Lors de son témoignage, madame Lamarche a mis en preuve la proposition déposée le 1er mars 2006 auprès du séquestre officiel en vertu de laquelle les créanciers non-garantis devaient accepter de recevoir la somme de 40 000 $ en paiement complet et final des réclamations prouvables. Le syndic agissant à la proposition a émis le 5 juin 2007, un certificat d’exécution intégrale de la proposition, telle qu’elle a été déposée auprès du séquestre officiel le 1er mars 2006 et amendée lors de l’assemblée des créanciers tenue le 22 mars 2006, par lequel il a confirmé que la proposition a été complètement exécutée à compter du 5 juin 2007. Dans le cadre de cette proposition concordataire, l’appelant a déposé une réclamation de 50 000 $ et il a obtenu un paiement de 7 085,98 $.
+[11] Madame Lamarche a indiqué que sa société avait vendu à la société Épicerie-Boucherie Claire Lamarche Inc, une société appartenant à la sœur de madame Lamarche et à son conjoint, ses immeubles et ses actifs pour un prix de 172 000 $, dont 109 000 $ payé comptant lors de la vente, soit le 26 mai 2007, et 63 000 $ payable au moyen de 63 versements mensuels, égaux et consécutifs de 1 000 $ débutant le jour du 5e anniversaire de la vente, soit du 5 mai 2012 au 5 août 2017, date à laquelle tout solde deviendra dû et exigible. Le solde de 63 000 $ du prix d’achat ne portait pas d’intérêts mais tout paiement non effectué à son échéance portait intérêt au taux de 12% l’an. Selon madame Lamarche, sa société n’a jamais reçu le montant de 63 000 $ puisque l’immeuble et les biens meubles qui ont été acquis par la société « Épicerie-Boucherie Claire Lamarche Inc. » ont été vendus sous contrôle de la justice le 3 novembre 2008.
+[12] Aux états financiers de la société Épicerie-Boucherie Lam-Bher Inc. pour les exercices financiers se terminant le 30 avril 2004 et le 30 avril 2003, le prêt de 20 000 $ consenti par l’appelant en 1997 et le prêt de 12 000 $ consenti par l’appelant en 2004, soit 32 000 $ au total sont inscrits comme des effets à payer, sans intérêt et sans mode prévu de remboursement. Madame Lamarche a expliqué que cette présentation comptable avait pour but de satisfaire une exigence de la Caisse populaire pour l’octroi de prêts.
+[13] L’appelant a également témoigné à l’audience et il a précisé qu’il avait attendu jusqu’en 2007 pour réclamer la perte subie sur ses prêts parce que le solde du prix de vente des actifs de la société « Épicerie-Boucherie Lam-Bher Inc. », au montant de 63 000 $ aurait été suffisant pour rembourser toutes les dettes de ladite société.
+Analyse [14] À l’ouverture de l’audience, l’intimée a admis que l’appelant avait consenti des prêts de 20 000 $ et de 12 000 $ à la société « Épicerie-Boucherie Lam-Bher Inc. » mais l’intimée n’a pas admis les autres avances consenties par l’appelant parce qu’elles provenaient d’un compte détenu conjointement par l’appelant et par sa conjointe. Malgré l’admission par l’intimée des prêts de 20 000 $ et 12 000 $, l’intimée a refusé d’accorder la PDTPE à cause de l’imbroglio entourant les intérêts payables sur ces prêts. Les ententes du 4 janvier 1997 et du 15 janvier 2014 qui ont été déposées par l’appelante comportaient des intérêts alors que les états financiers de la société « Épicerie-Boucherie Lam-Bher Inc. » indiquaient qu’il s’agissait de prêts sans intérêt. Selon l’intimée, ces prêts n’ont pas été octroyés par l’appelant dans le but de générer un revenu tirer d’une entreprise ou d’un bien.
+[15] Les articles pertinents de la Loi pour déterminer le droit à une PDTPE sont les suivants :
+Sous-section c – Gains en capital imposables et pertes en capital déductibles
+ARTICLE 38 : Sens de gain en capital imposable et de perte en capital déductible
+Pour l’application de la présente loi :
+[…]
+c) la perte déductible au titre d’un placement d’entreprise d’un contribuable, pour une année d’imposition, résultant de la disposition d’un bien est égale à la moitié de la perte au titre d’un placement d’entreprise que ce contribuable a subie, pour l’année, à la disposition du bien.
+ARTICLE 39 : Sens de gain en capital et de perte en capital
+(1) Pour l’application de la présente loi :
+[…]
+c) une perte au titre d’un placement d’entreprise subie par un contribuable, pour une année d’imposition, résultant de la disposition d’un bien quelconque s’entend de l’excédent éventuel de la perte en capital que le contribuable a subie pour l’année résultant d’une disposition, après 1977 :
+(i) soit à laquelle le paragraphe 50(1) s’applique,
+(ii) soit en faveur d’une personne avec laquelle il n’avait aucun lien de dépendance,
+(iii) soit une action du capital-actions d’une société exploitant une petite entreprise,
+(iv) soit une créance du contribuable sur une société privée sous contrôle canadien (sauf une créance, si le contribuable est une société, sur une société avec laquelle il a un lien de dépendance) qui est :
+(A) une société exploitant une petite entreprise,
+(B) un failli, au sens du paragraphe 128(3), qui était une société exploitant une petite entreprise au moment où il est devenu un failli pour la dernière fois,
+(C) une personne morale visée à l’article 6 de la Loi sur les liquidations qui était insolvable, au sens de cette loi, et qui était une société exploitant une petite entreprise au moment où une ordonnance de mise en liquidation a été rendue à son égard aux termes de cette loi,
+ARTICLE 40 : Règles générales
+(2) Restrictions. Malgré le paragraphe (1) :
+[…]
+g) est nulle la perte subie par un contribuable et résultant de la disposition d’un bien, dans la mesure où elle est :
+[…]
+(ii) une perte résultant de la disposition d’une créance ou d’un autre droit de recevoir une somme, sauf si la créance ou le droit a été acquis par le contribuable en vue de tirer un revenu (qui n’est pas un revenu exonéré) d’une entreprise ou d’un bien, ou en contrepartie de la disposition d’une immobilisation en faveur d’une personne avec qui le contribuable n’avait aucun lien de dépendance,
+ARTICLE 50 : Créances reconnues comme irrécouvrables et actions d’une société en faillite
+50. (1) Pour l’application de la présente sous-section, lorsque, selon le cas :
+a) un contribuable établit qu’une créance qui lui est due à la fin d’une année d’imposition (autre qu’une créance qui lui serait due du fait de la disposition d’un bien à usage personnel) s’est révélée être au cours de l’année une créance irrécouvrable;
+b) une action du capital-actions d’une société (autre qu’une action reçue par un contribuable en contrepartie de la disposition d’un bien à usage personnel) appartient au contribuable à la fin d’une année d’imposition et :
+(i) soit la société est devenue au cours de l’année un failli au sens du paragraphe 128(3),
+(ii) soit elle est une personne morale visée à l’article 6 de la Loi sur les liquidations, insolvable au sens de cette loi et au sujet de laquelle une ordonnance de mise en liquidation en vertu de cette loi a été rendue au cours de l’année,
+(iii) soit les conditions suivantes sont réunies à la fin de l’année :
+(A) la société est insolvable,
+(B) ni la société ni une société qu’elle contrôle n’exploite d’entreprise,
+(C) la juste valeur marchande de l’action est nulle,
+(D) il est raisonnable de s’attendre à ce que la société soit dissoute ou liquidée et ne commence pas à exploiter une entreprise,
+le contribuable est réputé avoir disposé de la créance ou de l’action à la fin de l’année pour un produit nul et l’avoir acquise de nouveau immédiatement après la fin de l’année à un coût nul, à condition qu’il fasse un choix, dans sa déclaration de revenu pour l’année, pour que le présent paragraphe s’applique à la créance ou à l’action.
+[16] Pour qu’un contribuable puisse avoir droit à une PDTPE, il faut d’abord qu’il établisse qu’il a subi, au cours d’une année d’imposition donnée, une perte en capital suite à la disposition d’un bien, laquelle perte doit être une perte d’un genre particulier, soit une perte au titre d’un placement d’entreprise.
+[17] Une perte au titre d’un placement d’entreprise s’entend de l’excédent éventuel de la perte en capital que le contribuable a subie pour l’année résultant de la disposition d’un bien quelconque, après 1977, à l’égard de laquelle le paragraphe 50(1) de la Loi s’applique, ou qui est créance d’une société privée sous contrôle canadien qui est une société exploitant une petite entreprise.
+[18] Le paragraphe 50(1) de la Loi prévoit notamment que lorsqu’une créance qui est due au contribuable à la fin d’une année d’imposition donnée s’est révélée être au cours de l’année une créance irrécouvrable, le contribuable est réputé avoir disposé de la créance pour un produit nul et l’avoir acquise de nouveau immédiatement après la fin de l'année à un coût nul, à la condition qu’il fasse un choix dans sa déclaration de revenu pour que le présent paragraphe s’applique à la créance.
+[19] Pour avoir droit à une PTPE en vertu des articles 38 et 39 de la Loi, l’appelant doit démontrer qu’il a subi une perte en capital résultant de la disposition d’un bien. Aux termes de l’article 50 de la Loi, le contribuable est réputé avoir disposé d’une créance qui lui est due à la fin de l’année pour un produit nul si cette créance s’est révélée irrécouvrable au cours de l’année. Pour que l’article 50 puisse s’appliquer, il faut que la créance existe à la fin de l’année d’imposition du contribuable, soit au 31 décembre 2007 dans ce cas-ci.
+[20] Pour déterminer si la créance de l’appelant envers la société existait toujours au 31 décembre 2007, la Cour doit décider à quel moment la société a été libérée de son obligation de rembourser les avances consenties par l’appelant suite à la proposition concordataire.
+[21] La Loi sur la faillite et l’insolvabilité (la « LFI ») est muette sur le moment où un débiteur est libéré de ses obligations lorsqu’une proposition concordataire est acceptée par les créanciers. Deux thèses s’opposent à cet égard, lesquelles ont été exposées aux paragraphes 34 à 37 dans la décision que j’ai rendue dans l’affaire Jacques St-Hilaire c. Sa Majesté la Reine, 2014 CCI 336 qu’il y a lieu de reproduire ici :
+[34] En matière de faillite, la LFI est sans ambiguïté et le débiteur failli est libéré au moment du prononcé de l’ordonnance de libération. Comme les dispositions de la LFI en matière de faillite jouent un rôle supplétif grâce auxquelles les dispositions relatives aux propositions concordataires sont précisées par analogie, certains auteurs avancent que l’extinction partielle d’une dette et la libération partielle du débiteur dans le cadre d’une proposition fondée sur la LFI ont lieu au moment du prononcé de l’ordonnance de libération du syndic ou au moment où le syndic remet le certificat selon laquelle la proposition a été exécutée intégralement. Cette thèse est celle qui a été retenue par la Cour d’appel fédérale dans l’arrêt Rita Congiu et 9100-7146 Québec Inc. c. La Reine, 2014 CAF 73, lorsqu’elle cite l’extrait suivant tiré de la décision de la Cour d’appel du Québec rendue le 7 février 2014 dans l’arrêt Rita Congiu c. L’Agence du Revenu du Québec, 2014 QCCA 242 :
+[42] La proposition concordataire de [Canada inc.] a peut-être eu l’effet reporter dans le temps l’exigibilité de la dette de celle-ci, mais pas de l’éliminer. […]
+[35] L’autre thèse qui prévaut est celle à l’effet que la date de la libération partielle du débiteur et celle de la libération partielle de la dette initiale visée par la proposition fondée sur la LFI est celle de la ratification, par le tribunal, de la proposition à la suite de son acceptation par les créanciers. Cette thèse repose notamment sur les observations de Jacques Deslauriers dans un ouvrage intitulé « La faillite et l’insolvabilité au Québec », Montréal, Wilson et Lafleur, 2004 à la page 132, dans lequel il soutient que la date d’entrée en vigueur du règlement de la dette dans le cadre d’une proposition concordataire n’est pas celle à laquelle le tribunal prononce la libération du syndic :
+i) Libération des dettes du débiteur
+La proposition peut avoir pour effet de libérer le débiteur de ses dettes. En effet, une proposition prévoyant le versement d’un certain pourcentage des créances (par exemple 30%) aura pour effet de libérer le débiteur pour le solde si ce concordat est accepté (article 62(2) L.f.i). […]
+[36] Les observations de L.W. Houlden et G.B. Morawetz dans l’ouvrage intitulé « Bankruptcy and Insolvency Law of Canada », 3e éd. (révisée), vol. 2, Toronto, Carswell, à la page 2-166 abondent dans le même sens que celles de l’auteur Deslauriers :
+[TRADUCTION]
+Lorsqu’une proposition est acceptée par les créanciers et approuvée par le tribunal, le débiteur bénéficie du même avantage que celui qu’il obtiendrait s’il était libéré d’une faillite, à savoir l’extinction de l’ensemble des dettes et des obligations qu’il a envers les créanciers non garantis, à l’exception de celles énumérées à l’article 178 : [. . .]
+[37] Dans l’arrêt Réal Martel c. Sa Majesté la Reine, 2010 CCI 634, le juge Boyle a considéré les deux thèses et il a choisi de suivre les opinions exprimées par Houlden et Morawetz et de Deslauriers tout en se basant sur la décision Anderson c. Canadian Imperial Bank of Commerce (1999), 11 C.B.R. (4th) 157 de la Cour de justice de l’Ontario, ayant compétence en matière d’application de la LFI dans cette province.
+[22] Dans le cas présent, la majorité requise des créanciers a dûment accepté la proposition concordataire amendée lors de l’assemblée des créanciers tenue le 22 mars 2006 et, le 19 avril 2006, la Cour supérieure du Québec (Chambre commerciale) a homologué et ratifié à toutes fins que de droit les décisions prises par les créanciers lors de l’assemblée du 22 mars 2006 et a déclaré que la proposition concordataire amendée liait tous et chacun des créanciers de la partie débitrice/proposante. Par conséquent, la société « Entreprise-Boucherie Lam-Bher Inc. » a été libérée du solde des dettes et obligations qu’elle avait envers ses créanciers non-garantis le 19 avril 2006. Le solde de la créance impayée de l’appelant a été radié par les termes mêmes de la proposition concordataire et a cessé d’exister. L’appelant a ainsi disposé de sa créance pour fins fiscales en 2006. À la fin de l’année d’imposition 2007, aucune dette n’était due par la société à l’appelant.
+[23] Comme la créance de l’appelant n’existait plus au 31 décembre 2007, les dispositions de l’article 50 de la Loi ne peuvent s’appliquer et l’appelant n’a pas droit à la perte au titre d’un placement d’entreprise pour l’année 2007.
+[24] De plus, l’appelant n’avait pas le droit de réclamer en 2007 une perte au titre d’un placement d’entreprise à l’égard de sa créance envers la société « Épicerie-Boucherie Lam-Bher Inc. » en tant que société privée sous contrôle canadien qui exploitait une petite entreprise, parce qu’il a disposé de sa créance en 2006 et non en 2007, dans le cadre de la proposition concordataire. À la fin de l’année d’imposition 2006, seul le solde de 7 085,98 $ était dû à l’appelant en vertu de la proposition concordataire.
+[25] Pour ces motifs, l’appel est rejeté.
+Signé à Montréal, Canada, ce 16e jour de novembre 2015.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2015 CCI 281
+Nº DU DOSSIER DE LA COUR :
+2013-1829(IT)I
+INTITULÉ DE LA CAUSE :
+Sylvain Delisle et Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+le 19 juin 2015
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 16 novembre 2015
+COMPARUTIONS :
+Représentante de l'appelant :
+Hélène Lamarche
+Avocat de l'intimée :
+Me Simon Vincent
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

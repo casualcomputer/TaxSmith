@@ -1,0 +1,476 @@
+Title: Pangaea One Acquisition Holdings XII S.À.R.L. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/317256/index.do
+Corpus path: corpus/cases/tcc/2018/2018-cci-158-317256-pangaea-one-acquisition-holdings-xii-s-r-l-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2018-07-31
+
+# Pangaea One Acquisition Holdings XII S.À.R.L. c. La Reine
+
+- Citation: 2018 CCI 158
+- Decision date: 2018-07-31
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4941, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pangaea One Acquisition Holdings XII S.À.R.L. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-07-31
+Référence neutre
+2018 CCI 158
+Numéro de dossier
+2016-1480(IT)G
+Juges et Officiers taxateurs
+Guy R. Smith
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-1480(IT)G
+ENTRE :
+PANGAEA ONE ACQUISITION
+HOLDINGS XII S.À.R.L.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 16 janvier 2018, à Montréal (Québec)
+Devant : L’honorable juge Guy R. Smith
+Comparutions :
+Avocats de l’appelante :
+Me Pierre Martel
+Me Nicholas Grenier
+Avocat de l’intimée :
+Me Yanick Houle
+JUGEMENT
+Conformément aux motifs du jugement ci-joints, l’appel interjeté de la cotisation établie sous le régime de la partie XIII de la Loi de l’impôt sur le revenu est rejeté, avec dépens en faveur de l’intimée, qui doivent être calculés selon le tarif B.
+Signé à Ottawa, Canada, ce 31e jour de juillet 2018.
+« Guy Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 9e jour d’octobre 2019.
+François Brunet, réviseur
+Référence : 2018 CCI 158
+Date : 20180731
+Dossier : 2016-1480(IT)G
+ENTRE :
+PANGAEA ONE ACQUISITION
+HOLDINGS XII S.À.R.L.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Smith
+I. Introduction
+[1] Pangaea One Acquisition Holdings XII S.À.R.L. (Pangaea ou l’appelante) a été constituée en personne morale sous le régime des lois luxembourgeoises, et est non-résidente du Canada aux fins du calcul de l’impôt sur le revenu.
+[2] L’appelante interjette appel d’une cotisation établie sous le régime de la partie XIII de la Loi de l’impôt sur le revenu, L.R.C., 1985, ch. 1 (5e suppl.) (la Loi) par laquelle le ministre du Revenu national (le ministre) a rejeté sa demande de remboursement de 750 000 $, somme retenue d’un paiement effectué par un résident du Canada.
+[3] La question en litige dans le présent appel est de savoir si le paiement a été correctement qualifiée de « clause restrictive » aux termes du paragraphe 56.4(2) de la Loi, et si la somme d’argent précitée, versée au receveur général du Canada, a été correctement retenue en vertu de l’alinéa 212(1)i) de la Loi.
+II. Les faits
+[4] Les faits matériels ne sont pas controversés, et les parties ont déposé l’exposé conjoint partiel des faits joint aux présentes à l’annexe A.
+[5] Pangaea, Thomvest Seed Capital Inc. (« Thomvest ») et M. William T. Dodds (M. Dodds) détenaient toutes les actions émises et en circulation de Public Mobile Holdings Inc. (Public Mobile) qui ont été vendues à Telus Communications Inc. (Telus).
+[6] Pangaea, Thomvest et M. Dodds ont signé une convention unanime des actionnaires (CUA) en date du 5 juin 2013, encadrant la propriété des actions détenues dans Public Mobile. Cette convention prévoyait notamment que les actions ne pouvaient pas être transférées sans le consentement préalable écrit des [traduction] « actionnaires à la majorité qualifiée ». Pangaea était l’une de ces actionnaires.
+[7] Lors des discussions et des négociations qui ont abouti à la vente des actions de Public Mobile à Telus, Pangaea et Thomvest ont conclu une entente le 23 septembre 2013 (la lettre d’entente). Cette lettre d’entente stipulait que Thomvest paierait un certain montant d’argent (le montant du paiement) en échange de quoi Pangaea signerait l’accord d’achat d’actions (AAA) relativement à la vente des actions en question à Telus.
+[8] Il ressort clairement de la lettre d’entente que le montant d’argent devait être versé par Thomvest [traduction] « en échange de quoi Pangaea signerait l’AAA ». À la date de la vente, le montant d’argent a été établi à 3 000 000 $.
+[9] Le 30 septembre 2013, les actionnaires, y compris Pangaea, ont signé l’AAA avec Telus, et l’opération s’est conclue le 29 novembre 2013.
+[10] La lettre d’entente, telle qu’elle est décrite précédemment, stipulait notamment que Thomvest [traduction] « retiendrait du montant du paiement la somme qu’il était tenu de retenir selon les lois en vigueur, et qu’il le remettrait à l’autorité gouvernementale compétente […] ». Thomvest l’a fait, et, le 16 décembre 2013, il a remis la somme de 750 000 $ (correspondant à 25 % du montant du paiement) au receveur général du Canada conformément au paragraphe 215(1) de la Loi.
+[11] Par la suite, le 16 janvier 2014, Pangaea a déposé une demande de remboursement de l’impôt retenu sous le régime de la partie XIII de la Loi, en indiquant que ce [traduction] « paiement avait été effectué conformément à l’article 56.4 de la Loi de l’impôt sur le revenu », et que la demande de remboursement était faite en raison de son [traduction] « droit à l’exonération prévue à l’article 7, en tant que résidente au Luxembourg au moment du paiement ».
+[12] Au final, le ministre a établi une cotisation en vertu du paragraphe 227(7) de la Loi, refusant le remboursement au motif [traduction] « que le paiement était un paiement relatif à une clause restrictive conformément au paragraphe 56.4(1) de la Loi » et qu’il [traduction] « ne bénéficiait pas d’un allègement prévu par la convention fiscale entre les pays ».
+III. Thèses des parties
+A. La thèse de l’appelante
+[13] L’appelante reconnaît que le paragraphe 56.4(2) de la Loi exige que la personne cédant un paiement relatif à une « clause restrictive » inclue la totalité des sommes reçues à titre de revenus, et que si le montant est payé par une personne qui ne réside pas au Canada, l’alinéa 212(1)i) impose une retenue d’impôt de 25 %.
+[14] L’appelante soutient toutefois que cela exclut « un accord ou un engagement […] qui dispose des biens du contribuable », citant l’alinéa 56.4(1)a). Elle ajoute que la lettre d’entente est une entente qui [traduction] « influe ou vise à influer sur […] l’acquisition ou la fourniture de ses biens ou services », soit les actions détenues dans Public Mobile. Par conséquent, elle est exclue de la définition de la « clause restrictive », au motif que le gain est assujetti à l’impôt à titre de gain en capital.
+[15] L’appelante soutient également que la définition des « biens » au paragraphe 248(1) comprend « les droits de quelque nature qu’ils soient, les actions ou parts », de même que les droits de veto établis dans la CUA.
+[16] Elle se fonde sur la jurisprudence RCI Environmental, ci-après (plus précisément les paragraphes 69 à 71), et affirme que puisque les droits de veto lui étaient exclusivement réservés, ils constituaient des « biens » aux fins de la Loi. La disposition de ces droits et la contrepartie reçue doivent être assimilées à une disposition de biens résultant en un grain en capital.
+[17] Enfin, selon l’appelante, les biens faisant l’objet d’une disposition ne sont pas des « biens canadiens imposables » au sens du paragraphe 248(1) de la Loi et qu’en conséquence, le gain n’est pas imposable au Canada conformément à l’alinéa 2(3)c).
+B. La thèse de l’intimée
+[18] Selon l’intimée, en signant une lettre d’entente, l’appelante a renoncé à son droit, prévu par la CUA, de bloquer la vente des actions dans Public Mobile à Telus. En ce sens, la lettre d’entente « a influé sur […] la fourniture de biens » par l’appelante en faveur de Telus. Par conséquent, le montant du paiement reçu en échange de la renonciation par l’appelante à ses droits de veto est assujetti à l’impôt de la partie XIII, conformément à l’alinéa 212(1)a) et au paragraphe 56.4(2).
+[19] L’intimée soutient que l’adoption du paragraphe 56.4(2) visait à répondre aux problèmes découlant d’une certaine jurisprudence (comme il est indiqué plus loin) enseignant qu’un montant reçu relativement à une clause restrictive n’était ni un revenu ni un bien aux fins de calcul de l’impôt sur le revenu.
+[20] Elle soutient que la définition de la « clause restrictive » doit être interprétée de façon large afin qu’elle englobe non seulement les clauses restrictives négatives, mais également la promesse positive d’accomplir un acte en particulier. En définitive, l’intimée soutient que l’adoption du paragraphe 56.4(2) visait à englober les paiements reçus par un contribuable, qui ne sont pas par ailleurs inclus dans le revenu.
+[21] Elle ajoute que la lettre d’entente ne constitue pas « un accord ou un engagement […] qui dispose des biens » et qu’elle n’est donc pas exclue de la définition de la « clause restrictive ». En fait, la renonciation par l’appelante à son droit de bloquer la vente des actions dans Public Mobile était une clause qui a influé sur l’acquisition ou la fourniture de biens, à savoir les actions dans Public Mobile.
+[22] L’intimée cite l’alinéa 12(1)x) de la Loi qui cherche à imposer les montants reçus par un contribuable « en vue de tirer un revenu d’une entreprise ou d’un bien », versés à titre de « paiement incitatif », tel que défini plus amplement aux présentes. Aux termes du sous-alinéa12(1)x)(v.1), est exclue une somme reçue relativement à une clause restrictive, imposable aux termes du paragraphe 56.4(2). L’intimée soutient que le montant du paiement n’a pas été reçu par l’appelante « en vue de tirer un revenu d’une entreprise ou d’un bien », de sorte qu’il n’est pas imposable selon cette disposition. Le paragraphe 56.4(2) visait à combler une lacune et à englober le paiement en question qui pouvait par ailleurs être qualifié de « paiement incitatif ».
+IV. Les dispositions législatives pertinentes
+[23] La partie XIII de la Loi s’intitule « Impôt sur le revenu de personnes non-résidentes provenant du Canada ». Le paragraphe 212(1) se lit ainsi :
+212(1) Toute personne non-résidente doit payer un impôt sur le revenu de 25 % sur toute somme qu’une personne résidant au Canada lui paie ou porte à son crédit, ou est réputée en vertu de la partie I lui payer ou porter à son crédit, au titre ou en paiement intégral ou partiel : [...]
+[24] Cette disposition impose l’obligation de payer un impôt de 25 % (souvent réduit par un traité fiscal) sur une vaste gamme de paiements effectués à des non-résidents, y compris les frais de gestions, les frais, les intérêts, les loyers, les redevances, les prestations de retraite, tel qu’il est plus amplement défini aux présentes, et comprend les paiements relatifs aux « clauses restrictives ». L’alinéa 212(1)i) se lit ainsi :
+212(1)i) – d’une somme qui, si la personne non-résidente avait résidé au Canada tout au long de l’année d’imposition au cours de laquelle la somme a été reçue ou était à recevoir, serait à inclure, en application de l’alinéa 56(1)m) ou du paragraphe 56.4(2), dans le calcul du revenu de la personne non-résidente pour cette année;
+[25] Le paragraphe 56.4(2) se trouve dans la partie 1 de la Loi, à la sous-section D intitulée « Autres sources de revenu ». Cette disposition se lit ainsi :
+56.4(2) Est à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition le total des sommes dont chacune a trait à une clause restrictive du contribuable et est reçue ou à recevoir au cours de l’année par le contribuable ou par un contribuable avec lequel il a un lien de dépendance, à l’exception de toute somme qui a été incluse soit dans le calcul du revenu du contribuable par l’effet du présent paragraphe pour une année d’imposition antérieure, soit dans le revenu de la société admissible du contribuable par l’effet du présent paragraphe pour l’année ou pour une année d’imposition antérieure.
+[26] Les mots « clause restrictive » sont définis au paragraphe 56.4(1) :
+clause restrictive En ce qui concerne un contribuable, accord, engagement ou renonciation à un avantage ou à un droit, ayant force exécutoire ou non, qui est conclu, pris ou consenti par lui et qui influe, ou vise à influer, de quelque manière que ce soit, sur l’acquisition ou la fourniture de biens ou de services par lui ou par un autre contribuable avec lequel il a un lien de dépendance, à l’exception d’un accord ou d’un engagement qui, selon le cas :
+a) dispose des biens du contribuable;
+b) a pour objet l’exécution d’une obligation visée à l’article 49.1 qui ne constitue pas une disposition, sauf si l’obligation se rapporte à un droit sur des biens ou des services que le contribuable a acquis pour une somme inférieure à leur juste valeur marchande. (restrictive covenant)
+[27] Il convient de noter que la disposition susmentionnée a d’abord été adoptée le 7 octobre 2003, mais que le projet de loi définitif n’a reçu la sanction royale que le 26 juin 2013. La version complète est reproduite à l’annexe B.
+[28] Lorsqu’une somme doit être payée par « une personne résidant au Canada » à une « personne non-résidente » en application du paragraphe 212(1), le paragraphe 215(1) (qui se trouve également dans la partie XIII de la Loi) dispose que le bénéficiaire doit « en déduire ou en retenir l’impôt applicable et le remettre sans délai au receveur général au nom de la personne non-résidente [...] » qui peut alors déposer une demande de remboursement de l’impôt payé en son nom, comme l’a fait Pangaea en l’espèce.
+[29] Lorsque le ministre n’est pas convaincu que « la personne n’était pas tenue de payer un impôt quelconque », il doit établir une cotisation pour un montant payable et envoyer un avis de cotisation, comme cela a été fait en l’espèce et qui a donné lieu à la cotisation établie le 11 décembre 2014, soit l’objet du présent appel.
+V. La jurisprudence pertinente
+[30] Il y a peu de jurisprudence portant sur le paragraphe 56.4(2), voire aucune, mais il y en a au moins trois décisions antérieures aux dispositions pertinentes pour la présente analyse.
+[31] Dans l’affaire Fortino c. R., [1997] 2 C.T.C. 2184, (confirmée par la Cour d’appel fédérale : [2000] 1 C.T.C. 349) (Fortino), les appelantes avaient vendu les actions de leur entreprise à une entité contrôlée par les épiceries Loblaws, et avaient signé des ententes de non-concurrence (ENC) en échange desquelles elles ont chacune reçu un paiement (paiement effectué dans le cadre des ENC). La contrepartie reçue pour la vente des actions a été déclarée comme un gain en capital, mais le paiement effectué dans le cadre des ENC n’a pas été déclaré.
+[32] Une nouvelle cotisation a été établie à l’égard des appelantes et, lors de l’audition de l’appel, le ministre a soutenu que le paiement effectué dans le cadre des ENC devait être imposé à titre de revenu conformément à l’article 3 de la Loi; subsidiairement, à titre de biens en immobilisation admissibles au sens du paragraphe 14(1) et, subsidiairement encore, à titre de gains en capital. Les appelantes ont soutenu qu’aucune disposition de la Loi ne rendait les paiements imposables.
+[33] La juge Lamarre (tel était alors son titre) a observé que la première étape à suivre pour déterminer si les sommes reçues sont imposables est [traduction] « d’établir la nature et le caractère des encaissements » (paragraphe 37), notant que l’article 3 de la Loi précise [traduction] « cinq sources principales dont le revenu peut provenir d’une charge, d’un emploi, d’une entreprise, d’un bien ou de gains en capital » (paragraphe 29). Elle a conclu qu’en présence d’une clause de non-concurrence, les appelantes avaient [traduction] « renoncé à une source de revenus potentielle » (paragraphe 49) et qu’en conséquence, les [traduction] « sommes ne doivent pas être imposables selon l’article 3 » (paragraphe 53).
+[34] La juge Lamarre a alors recherché si le paiement effectué dans le cadre des ENC devait être assimilé à un bien en immobilisation admissible mentionnant qu’il fallait conclure que les paiements avaient été effectués [traduction] « en vue de tirer un revenu d’une entreprise [...] », comme le dispose le paragraphe 14(1). Puisque ce sont les actions de la société qui ont été vendues, et non celles des actionnaires individuels qui exploitaient l’entreprise, elle a conclu que les paiements ne pouvaient pas être considérés comme des biens en immobilisation admissibles.
+[35] L’intimée a soutenu que le paiement effectué dans le cadre des ENC [traduction] « constituait un produit déguisé de la disposition des actions » (paragraphe 78) et qu’il devait être imposé à titre de gains en capital en application des articles 38 et 39 de la Loi. La juge Lamarre a refusé de tenir compte de cet argument puisqu’il n’avait pas été plaidé adéquatement, et a conclu, à titre d’opinion incidente, que les paiements [traduction] « étaient davantage de la nature d’une rentrée de capital » (paragraphe 54). En définitive, elle a conclu que les paiements effectués dans le cadre des ENC étaient des rentrées d’argent non imposables.
+[36] Dans une affaire ultérieure Manrell c. R., [2002] 1 C.T.C. 2543, 2002 D.T.C. 1222 (Manrell), l’appelant et d’autres personnes avaient vendu leurs actions d’une entreprise en exploitation et convenu de signer des ENC, en échange desquelles elles ont reçu un paiement. Citant la jurisprudence Fortino, précitée, les appelants soutenaient que le paiement reçu en échange de l’entente de non-concurrence n’était pas imposable.
+[37] Le juge McArthur, de notre Cour, a conclu que les ENC étaient des « biens » au sens du paragraphe 248(1) de la Loi. Il a conclu que les appelants avaient disposé de leur droit de faire concurrence, lequel droit était [traduction] « inextricablement lié au paiement des actions » (paragraphe 22), donnant lieu à un gain en capital imposable.
+[38] La Cour d’appel fédérale a rejeté cette thèse (Manrell c. Canada, 2003 CAF 128), et a conclu qu’une entente de non-concurrence ne constitue pas un bien. La Cour a observé que la définition des « biens » au paragraphe 248(1) qui comprend « les droits de quelque nature qu’ils soient, les actions ou parts », n’élargit pas le sens de ce mot et ne va donc pas au-delà de la common law.
+[39] La juge Sharlow a conclu plus précisément que, si le mot « biens » avait un « sens fort large [...] », « il ne s’agit pas d’un mot dont le sens est illimité », et qu’il ne peut « inclure tout droit imaginable » (au paragraphe 50). Soulignant que l’issue n’était pas satisfaisante sur le plan de la politique, elle a néanmoins conclu que rien ne justifiait de conclure que « les paiements [...] reçus en vertu des ententes de non-concurrence représentaient le produit de la disposition d’un bien » (au paragraphe 68). Par conséquent, il a été conclu que les paiements étaient des « rentrées de capital non imposables » (au paragraphe 69).
+[40] Dans l’affaire RCI Environnement Inc. (Centres de Transbordement et de Valorisation Nord-Sud Inc.) c. La Reine, 2007 TCC 647 (RCI), les appelants avaient acquis des biens commerciaux et avaient obtenu des ENC des vendeurs. Suite à une fusion avec une société établie aux États-Unis, il a été conclu que les vendeurs n’avaient pas respecté les ENC. Suite à une transaction, il fut convenu que les appelants reçoivent un paiement de 12 000 000 $ en contrepartie de la résiliation des ENC.
+[41] Le traitement fiscal du montant reçu était en cause. Les appelants alléguaient que le montant reçu ne constituait ni un revenu d’entreprise ni des rentrées de capital imposables, soulignant que les ENC « ne constituent pas des biens […] et qu’il n’y a pas eu de disposition aux fins de la Loi » (au paragraphe 14).
+[42] Le juge Archambault a observé que « les ententes de non-concurrence visaient à préserver l’achalandage [...] acquis », que cela procurait « un avantage durable » et que pour ce motif, elles devraient être considérées comme une « immobilisation » (au paragraphe 28). Ayant rejeté l’autre thèse portant que les paiements effectués dans le cadre des ENC constituent des gains fortuits non imposables, il a conclu qu’il s’agissait d’un montant en immobilisations admissible, aux termes du paragraphe 14(1).
+[43] En appel devant la Cour d’appel fédérale (2008 CAF 419), la Cour a convenu que les ENC constituaient des biens puisqu’elles « avaient évidemment l’effet de préserver [...] l’achalandage obtenu [...] » (au paragraphe 38). Le juge Noël (tel était alors son titre) a ajouté :
+39 Quant à la notion de « bien » en vertu de la Loi, il est reconnu depuis longtemps qu’elle a une portée large qui peut s’étendre à des droits contractuels (Canada c. Golden, [1986] 1 R.C.S. 209, à la p. 214). Plusieurs décisions furent depuis rendues appliquant la notion de bien à des droits contractuels ou même personnels (voir par exemple, Valley Equipment Ltd. c. La Reine, 2008 CAF 65, para. 26; Nadeau c. La Reine, 2003 CAF 400, para. 28; Kieboom c. M.R.N., [1992] 3 CF 488 (C.A.F.), pp. 499 et 500; Sani Sport Inc. c. La Reine, [1990] 2 C.T.C. 15 (C.A.F.), p. 23; La Capitale, Cie D’assurance générale c. La Reine, 98 DTC 6215 (C.A.F.), p. 6221; Rapistan Canada Ltd. c. M.R.N., [1974] 1 CF 739 (C.A.F.), p. 742; Pe Ben Industries Co. c. La Reine, 88 DTC 6347 (CF 1ère instance), p. 6351, 3ième para. avant la fin).
+40 Par ailleurs, comme l’explique le juge de la CCI, la décision de notre Cour dans l’affaire Manrell c. La Reine, 2003 CAF 128, [2003] 3 C.F. 727 n’assiste aucunement l’avocat de RCI (2006) (motifs, paras. 61 à 63). Le principe qui découle de cette décision est que seul un droit qui confère un recours contre quelqu’un d’autre constitue un « bien ». Le droit conféré à RCI et CTVNS en vertu des ententes de non-concurrence était évidemment de cette nature.
+41 En ce qui a trait à la notion de « disposition », le juge de la CCI n’a pas commis d’erreur en attribuant à ce mot son sens usuel dans l’application de l’article 14. C’est ce qu’avait fait la Cour suprême dans l’affaire Compagnie Immobilière BCN, supra, où il fut décidé que le mot « disposition » en anglais (« aliéné » en français) avait une portée suffisamment large pour englober l’extinction d’un droit conféré par un bail (ibidem, pp. 878 à 879).
+42 Le juge de la CCI a d’emblée eu raison de conclure qu’aux fins des dispositions relatives au gain en capital, il y eut « disposition » selon la définition prévue à l’alinéa 54a) selon laquelle ce mot comprend « un événement donnant droit […] au produit de disposition d’un bien ». J’ajouterai qu’au niveau des principes ou de la politique fiscale, il n’y a aucune raison de traiter la notion de « disposition » différemment selon qu’il s’agisse de biens visés à l’article 38 ou à l’article 14.
+[Non souligné dans l’original.]
+VI. Discussion
+i) Interprétation des lois
+[44] Puisque, à l’heure actuelle, il n’y a aucune jurisprudence portant sur le paragraphe 56.4(2), il convient de noter d’entrée de jeu la règle établie en matière d’interprétation des lois, souvent rappelée, selon laquelle « il faut lire les termes d’une loi dans leur contexte global en suivant le sens ordinaire et grammatical qui s’harmonise avec l’esprit de la loi, l’objet de la loi et l’intention du législateur » : Elmer A Dreidger, Construction of Statutes, 2e éd., Toronto, Butterworths, 1983, à la page 87).
+[45] Le droit est maintenant bien fixé : l’analyse textuelle, contextuelle et téléologique vaut également pour les lois fiscales : «Toutefois, le caractère détaillé et précis de nombreuses dispositions fiscales a souvent incité à mettre davantage l’accent sur l’interprétation textuelle [...] » : arrêt Placer Dome Canada Ltd. c. Ontario (Ministre des Finances), [2006] 1 RCS 715, au paragraphe 21.
+[46] Ce qui précède est conforme à l’article 12 de la Loi d’interprétation, L.R.C. (1985), ch. I­21, qui dispose : « Tout texte est censé apporter une solution de droit et s’interprète de la manière la plus équitable et la plus large qui soit compatible avec la réalisation de son objet. »
+ii) Y avait-il une entente?
+[47] La « clause restrictive », telle que définie au paragraphe 56.4(1), peut être ainsi qualifiée :
+i) accord, engagement ou renonciation à un avantage ou à un droit, ayant force exécutoire ou non, qui est conclu, pris ou consenti par lui et;
+ii) qui influe, ou vise à influer, de quelque manière que ce soit, sur l’acquisition ou la fourniture de biens ou de services par lui ou par un autre contribuable avec lequel il a un lien de dépendance;
+iii) à l’exception d’un accord ou d’un engagement qui, selon le cas, dispose des biens du contribuable;
+iv) et a pour objet l’exécution d’une obligation visée à l’article 49.1 (nulle de ces exceptions n’a été soulevée en l’espèce).
+[48] Il ressort d’abord de la simple lecture de cette disposition qu’il doit y avoir « un accord », « un engagement » ou une « renonciation à un avantage ou à un droit ». Cette énumération est disjonctive, de sorte qu’il pourrait s’agir de l’un ou de l’autre.
+[49] Il n’est pas controversé entre les parties que la lettre d’entente était une [traduction] « entente » conclue entre l’appelante et Thomvest, aux termes de laquelle l’appelante a convenu de [traduction] « signer les ENC » portant sur la vente des actions dans Public Mobile à Telus. L’entente visant la signature des ENC a été conclue [traduction] « en contrepartie des promesses, engagements et accords respectifs » contenus aux présentes, et comprenait [traduction] « toute autre contrepartie bonne et valable », y compris l’entente de Thomvest visant à remettre le montant du paiement à la date de la clôture, correspondant au « montant d’argent dû à Pangaea qui avait consenti à signer les ENC ».
+[50] Bien que l’on puisse également affirmer que l’appelante [traduction] « s’était engagée » à signer les ENC, il suffit, aux fins de la présente affaire, de conclure que la lettre d’entente constitue « une entente », sans qu’il soit nécessaire de procéder à une autre analyse pour déterminer si elle constitue également « un engagement ». La réponse à cette question attendra.
+[51] La lettre d’entente elle-même ne fait pas expressément référence au droit de l’appelante de bloquer la vente des actions en tant qu’[traduction] « actionnaire à majorité qualifiée », mais il ressort clairement de la preuve documentaire et testimoniale que l’appelante s’est initialement opposée à la vente projetée des actions de Public Mobile à Telus. Elle a fait part de son objection et a indiqué qu’elle pourrait se prévaloir de ce qui est maintenant qualifié de « droit de veto », avant de finalement consentir à signer la lettre d’entente de renonciation à ce droit.
+[52] Compte tenu de ce qui précède, je conclus que la lettre d’entente peut être considérée comme « un accord », « un engagement » ou « une renonciation à un avantage ou à un droit ».
+[53] Il convient également de mentionner que la dernière partie de la première condition comprend les mots « ayant force exécutoire ou non ». Il en ressort qu’« un accord », « un engagement » ou une « renonciation à un avantage ou à un droit » qui n’a pas force exécutoire serait également visé par cette stipulation. De toute manière, aux fins des présentes, je tiendrai pour acquis que la lettre d’entente avait force exécutoire.
+iii) La lettre d’entente influe-t-elle sur l’acquisition ou la fourniture de biens?
+[54] Selon la deuxième condition, l’entente doit influer ou viser à influer, de quelque manière que ce soit, sur l’acquisition ou la fourniture de biens ou de services par le contribuable. Cela semble indiquer qu’il doit y avoir un lien évident entre l’entente et l’acquisition ou la fourniture des biens ou des services en question.
+[55] En l’espèce, l’appelante soutient que le droit de veto est visé par la définition des « biens » du paragraphe 248(1) de la Loi, et que dans les faits, elle disposait de ce droit donnant lieu à un gain en capital. Elle cite la jurisprudence RCI, précitée, à l’appui de l’idée selon laquelle la notion de biens s’étend aux droits contractuels, et que conformément à la lettre d’entente, elle a disposé de son droit de veto donnant lieu à un produit de disposition et donc à un gain en capital. Par conséquent, la lettre d’entente n’est pas visée par la définition de « clause restrictive ».
+[56] Je conclus qu’il y a là une tentative de qualifier différemment la nature de l’opération. Je conclus plus précisément qu’aucun élément de preuve ne vient appuyer la thèse selon laquelle le droit de veto a fait l’objet d’une disposition. Il n’y avait aucun élément de preuve tendant à établir le transfert, voire la cession de ce droit à un tiers.
+[57] Il ressort de la réalité commerciale de l’opération et des éléments de preuve que Thomvest n’a pas acquis le droit de veto. Il y a eu consentement à accorder le montant du paiement en contrepartie duquel l’appelante a convenu de renoncer à ce droit et de signer les ENC avec Telus. La lettre d’entente n’a pas eu pour effet de disposer du droit de veto ni d’éteindre ce droit. L’appelante a renoncé au droit de veto et ce n’est qu’au moment où l’opération portant sur la vente des actions a été conclue que le droit veto s’est éteint. Telus a acquis la totalité des actions émises et en circulation de Public Mobile et, ce faisant, il n’a pas été nécessaire qu’elle acquière le droit de veto de l’appelante. De toute façon, ce droit découlait d’une entente conclue entre les actionnaires à laquelle elle n’a jamais été partie.
+[58] En me fondant sur les éléments de preuve dont je dispose, je conclus qu’il y avait un lien évident entre la lettre d’entente et la disposition des actions en faveur de Telus. En fait, selon le préambule de la lettre d’entente, l’appelante [traduction] « parallèlement avec la conclusion de la présente lettre d’entente […] prévoit conclure une convention d’achat d’actions […] ». Je conclus que cela suffit à établir que la lettre d’entente influait ou visait à influer sur la « fourniture de biens », soit la vente des actions de Public Mobile à Telus.
+iv) L’accord ou l’engagement a-t-il pour effet de disposer des biens du contribuable?
+[59] La question qui reste à trancher est de savoir si l’« accord », l’« engagement » ou la « renonciation à un avantage ou à un droit » a eu dans les faits pour effet de « disposer des biens du contribuable ». Dans l’affirmative, ils ne sont pas visés par la définition de la « clause restrictive », et le produit de la disposition n’a pas à être inclus dans le calcul du revenu conformément au paragraphe 56.4(2) de la Loi.
+[60] J’interpréterais cette exception comme signifiant que lorsque le contribuable conclut une entente visant à disposer de ses biens, soit tous les éléments d’actif nécessaires à l’exploitation d’une entreprise ou toutes les actions d’une entreprise en exploitation, et que l’intégralité de la contrepartie monétaire est imputée à ces biens, la disposition sur la « clause restrictive » ne s’appliquera pas. Tel serait le cas si, par exemple, lors d’une opération portant sur la vente de la totalité des actions d’une entreprise en exploitation, le principal est affecté aux ENC, mais l’intégralité de la contrepartie monétaire est imputée aux actions. Dans ce cas, la disposition concernant la « clause restrictive » ne s’applique pas puisque le produit de la disposition est habituellement imposé à titre de gain en capital. Il y aurait certes d’autres variantes d’une telle opération, mais dans la plupart des cas, des éléments de preuve sous forme d’acte de vente ou de contrat bilatéral sont requis pour étayer le transfert et la contrepartie payée.
+[61] Selon l’appelante, la lettre d’entente ne constitue pas une « clause restrictive » puisqu’il y a eu transfert ou disposition de son droit de veto. Cette thèse est distincte de la thèse susmentionnée, mais l’analyse demeure la même.
+[62] Je conclus qu’il n’y a aucun élément de preuve tendant à établir le transfert ou la disposition du droit de veto de l’appelante, même s’il peut être à juste titre qualifié de « bien ». Comme je l’ai signalé, il n’y avait aucun élément de preuve sous forme d’acte de vente ou de contrat bilatéral ou encore d’une cession du droit de veto à un tiers, qui aurait permis à l’appelante de se prévaloir de l’exception relative à la disposition des « biens du contribuable ». La lettre constituait une entente distincte aux termes de laquelle l’appelante a renoncé à son droit de veto, mais il n’y avait aucun élément de preuve tendant à établir une disposition réelle.
+[63] L’appelante se fonde sur la conclusion tirée dans la décision RCI, précitée, où la Cour a conclu qu’un droit contractuel constituait un « bien ». Les faits de cette affaire étaient toutefois très différents. Les appelants avaient reçu un montant d’argent important en contrepartie de la résiliation des ENC existantes. Le juge de première instance a conclu que ce « droit contractuel » constituait un « bien », et que la disposition de ce droit était imposable à titre de bien en immobilisation admissible conformément au paragraphe 14(1). La Cour d’appel fédérale a retenu cette solution. Même si je ne suis pas tenu de faire de même dans le cadre du présent appel, je tends à croire que l’issue de l’affaire RCI serait la même aujourd’hui, malgré l’adoption du paragraphe 56.4(2), puisque la Cour a conclu en l’existence d’éléments de preuve tendant à établir la disposition réelle des biens des appelants.
+VII. Conclusion
+[64] En l’espèce, la nature fondamentale et le fond de l’opération constituaient une vente des actions de l’appelante et d’autres actionnaires de Public Mobile en faveur à Telus. La lettre d’entente par laquelle l’appelante a consenti à renoncer à son droit de veto n’était pas une condition préalable à cette opération, même si elle était requise pour régler la mésentente entre Thomvest et l’appelante. En ce sens, elle « influait » ou « visait à influer » sur la disposition projetée des actions. Pour ce motif, je conclus qu’elle constituait une « clause restrictive » au sens du paragraphe 56.4(1).
+[65] Pour tous les motifs qui précèdent, l’appel est rejeté avec dépens en faveur de l’intimée, qui doivent être calculés conformément au tarif B.
+Signé à Ottawa, Canada, ce 31e jour de juillet 2018.
+« Guy Smith »
+Le juge Smith
+Traduction certifiée conforme
+ce 9e jour d’octobre 2019.
+François Brunet, réviseur ANNEXE A
+20016-1480(IT)G
+COUR CANADIENNE DE L’IMPÔT
+ENTRE :
+PANGAEA ONE ACQUISITION HOLDINGS XII S.À. R. L.
+appelante
+et
+SA MAJESTÉ LA REINE,
+intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+EXPOSÉ CONJOINT PARTIEL DES FAITS
+Les parties s’entendent sur l’exposé conjoint partiel des faits suivants aux fins du présent appel. Aucune partie ne déposera d’éléments de preuve contraires aux faits contenus dans les présentes.
+I — CHRONOLOGIE
+1. Le 29 novembre 2013, Pangaea One Acquisition Holdings XII s.à.r.l. (Pangaea), Thomvest Seed Capital Inc. (Thomvest) et M. William T. Dodds (Dodds) ont vendu leurs actions de Public Mobile Holdings Inc. (Public Mobile) à TELUS Communications Inc. (TELUS) [1] .
+2. Outre le prix convenu avec TELUS en contrepartie de la vente de ses actions de Public Mobile, Pangaea devait également recevoir la somme de 3 000 000 $ (montant payable) de Thomvest [2] .
+3. Pangaea étant une personne non résidente au Canada, Thomvest a rempli un formulaire Impôt des non-résidents – Renseignements sur le compte (formulaire NR75) ainsi qu’un formulaire Pièce de versement de l’impôt des non-résidents (formulaire NR92) et les a soumis à l’Agence du revenu du Canada (Agence) le 16 décembre 2013 avec un chèque de 750 000 $ à l’ordre du receveur général du Canada, conformément au paragraphe 215(1) de la Loi [3] .
+4. Le 16 janvier 2014, Pangaea a rempli un formulaire Demande de remboursement des retenues d’impôt selon la partie XIII (formulaire NR7-R) et l’a déposé à l’Agence selon les termes du paragraphe 227(6) de la Loi [4] . La copie du feuillet État des sommes payées ou créditées à des non-résidents du Canada (feuillet NR4) rempli par Thomvest quant aux formulaires NR75 et NR92 a été jointe au formulaire NR7-R. L’original du feuillet NR4 a ensuite été déposé à l’Agence par Thomvest le 17 janvier 2014 ou vers cette date [5] .
+5. Le 11 décembre 2014, le ministre du Revenu national (le ministre) a délivré un avis de cotisation conformément au paragraphe 227(7) de la Loi refusant le formulaire NR7-R de Pangaea et établissant que cette dernière devait verser de l’impôt sur le revenu sur le montant payable selon les termes du paragraphe 56.4(2) et de l’alinéa 212(1)i) de la Loi [6] .
+6. Le 10 mars 2015, Pangaea s’est opposé à l’avis de cotisation en vertu des paragraphes 165(3) et 227(7) de la Loi [7] .
+7. Le 28 janvier 2016, le ministre a confirmé l’avis de cotisation en vertu des paragraphes 165(3) et 227(7) de la Loi [8] .
+8. Le 12 avril 2016, Pangaea a interjeté appel auprès de notre Cour en vertu de l’alinéa 169(1)a) de la Loi.
+II - FAITS MATÉRIELS
+9. Pangaea est une société dûment incorporée en vertu des lois du Luxembourg. Elle n’est pas résidente au Canada aux fins de l’application de la Loi [9] .
+10. Thomvest est une société dûment constituée en vertu des lois de l’Ontario (Canada). Elle est résidente au Canada aux fins de l’application de la Loi [10] .
+11. Pangaea, Thomvest et Dodds étaient propriétaires de toutes les actions en circulation de Public Mobile [11] jusqu’au 29 novembre 2013.
+12. À titre d’actionnaires de Public Mobile, Pangaea, Thomvest et Dodds étaient tous parties à la troisième entente unanime remodifiée et réitérée des actionnaires (l’entente unanime des actionnaires) conclue le 5 juin 2013 entre tous les actionnaires de Public Mobile. L’entente unanime des actionnaires régissait la propriété des actions de Public Mobile. L’entente unanime des actionnaires interdisait aux actionnaires de Public Mobile de transférer ses actions sans le consentement écrit des actionnaires majoritaires spéciaux. Pangaea était l’un des actionnaires majoritaires spéciaux de Public Mobile [12] .
+13. Le 30 septembre 2013, Pangaea, Thomvest, Dodds, Public Mobile et TELUS ont conclu un accord d’achat d’actions (l’AAA) pour la vente de toutes les actions en circulation de Public Mobile à TELUS (la vente) [13] . L’AAA a été modifié le 29 novembre 2013 [14] .
+14. Pangaea et Thomvest ont conclu une entente par voie de lettre le 27 septembre 2013 (la lettre d’entente). Aux termes de cette lettre d’entente, Thomvest devait verser le montant payable à Pangaea [15] .
+15. Dans la lettre d’entente, il était expressément convenu et entendu que Thomvest retiendrait du montant du paiement la somme qu’il était tenu de retenir selon les lois en vigueur, et qu’il le remettrait à l’autorité étatique compétente au nom de Pangaea [16] .
+16. La vente a été conclue le 29 novembre 2013 [17] .
+17. Le montant payable était fixé à 3 000 000 $.
+18. Le 29 novembre 2013, Thomvest a effectué les démarches suivantes :
+a) enjoint Public Mobile de verser la somme de 2 500 000 $ à Pangaea [18] en son nom;
+b) retenu la somme de 750 000 $ et l’a ensuite remis au receveur général du Canada au nom de Pangaea le 16 décembre 2013 [19] .
+FAIT dans la ville de Montréal, dans la province du Québec, ce 30e jour de janvier 2017.
+Stikeman Elliott S.E.N.C.R.L., s.r.l.
+Procureur général du Canada
+Ministère de la Justice Canada
+Bureau régional du Québec
+1155, boul. René-Lévesque Ouest
+Direction du droit fiscal
+Montréal (Québec)
+Complexe Guy-Favreau
+H3B 3V2
+Tour Est, 9e étage
+200, boul. René-Lévesque Ouest
+Montréal (Québec) H2Z 1X4
+Me Pierre Martel
+Me Yanick Houle
+Me Nicholas Grenier
+Tél : 514-496-2318
+Tél : 514-397-3045
+Téléc. : 514-283-8427
+Téléc. : 514-397-3410
+Courriel : yanick.houle@justice.gc.ca
+Courriel : pmartel@stikeman.com
+Avocat de l’appelante
+Avocat de l’intimée
+ANNEXE B
+SOUS-SECTION D
+Autres sources de revenu
+SUBDIVISION D
+Other Sources of Income
+. . .
+. . .
+Clauses restrictives
+Restrictive Covenants
+Définitions
+Definitions
+56.4 (1) Les définitions qui suivent s’appliquent au présent article.
+56.4 (1) The following definitions apply in this section.
+clause restrictive En ce qui concerne un contribuable, accord, engagement ou renonciation à un avantage ou à un droit, ayant force exécutoire ou non, qui est conclu, pris ou consenti par lui et qui influe, ou vise à influer, de quelque manière que ce soit, sur l’acquisition ou la fourniture de biens ou de services par lui ou par un autre contribuable avec lequel il a un lien de dépendance, à l’exception d’un accord ou d’un engagement qui, selon le cas :
+a) dispose des biens du contribuable;
+b) a pour objet l’exécution d’une obligation visée à l’article 49.1 qui ne constitue pas une disposition, sauf si l’obligation se rapporte à un droit sur des biens ou des services que le contribuable a acquis pour une somme inférieure à leur juste valeur marchande. (restrictive covenant)
+contribuable Y sont assimilées les sociétés de personnes. (taxpayer)
+établissement stable S’entend au sens qui est donné à ce terme pour l’application du paragraphe 16.1(1). (permanent establishment)
+montant pour achalandage Est le montant pour achalandage d’un contribuable la somme qu’il a reçue ou peut devenir en droit de recevoir qui serait, en l’absence du présent article, à inclure dans le produit de disposition d’un bien compris dans la catégorie 14.1 de l’annexe II du Règlement de l’impôt sur le revenu, ou une somme à laquelle le paragraphe 13(38) s’applique, relativement à une entreprise qu’il exploite par l’entremise d’un établissement stable situé au Canada. (goodwill amount)
+participation admissible Immobilisation d’un contribuable qui est :
+a) une participation dans une société de personnes qui exploite une entreprise;
+b) une action du capital-actions d’une société qui exploite une entreprise;
+c) une action du capital-actions d’une société dont au moins 90 % de la juste valeur marchande est attribuable à des participations admissibles dans une autre société. (eligible interest)
+particulier admissible S’entend, relativement à un vendeur à un moment donné, d’un particulier, à l’exception d’une fiducie, qui est lié au vendeur et qui est âgé d’au moins 18 ans à ce moment. (eligible individual)
+société admissible Est une société admissible d’un contribuable toute société canadienne imposable dont il détient, directement ou indirectement, des actions du capital-actions. (eligible corporation)
+eligible corporation, of a taxpayer, means a taxable Canadian corporation of which the taxpayer holds, directly or indirectly, shares of the capital stock. (société admissible)
+eligible individual, in respect of a vendor, at any time means an individual (other than a trust) who is related to the vendor and who has attained the age of 18 years at or before that time. (particulier admissible)
+eligible interest, of a taxpayer, means capital property of the taxpayer that is
+(a) a partnership interest in a partnership that carries on a business;
+(b) a share of the capital stock of a corporation that carries on a business; or
+(c) a share of the capital stock of a corporation 90% or more of the fair market value of which is attributable to eligible interests in one other corporation. (participation admissible)
+goodwill amount, of a taxpayer, is an amount the taxpayer has or may become entitled to receive that would, if this Act were read without reference to this section, be required to be included in the proceeds of disposition of a property included in Class 14.1 of Schedule II to the Income Tax Regulations, or is an amount to which subsection 13(38) applies, in respect of a business carried on by the taxpayer through a permanent establishment located in Canada. (montant pour achalandage)
+permanent establishment means a permanent establishment as defined for the purpose of subsection 16.1(1). (établissement stable)
+restrictive covenant, of a taxpayer, means an agreement entered into, an undertaking made, or a waiver of an advantage or right by the taxpayer, whether legally enforceable or not, that affects, or is intended to affect, in any way whatever, the acquisition or provision of property or services by the taxpayer or by another taxpayer that does not deal at arm’s length with the taxpayer, other than an agreement or undertaking
+(a) that disposes of the taxpayer’s property; or
+(b) that is in satisfaction of an obligation described in section 49.1 that is not a disposition except where the obligation being satisfied is in respect of a right to property or services that the taxpayer acquired for less than its fair market value. (clause restrictive)
+taxpayer includes a partnership. (contribuable)
+Revenu — clause restrictive
+Income — restrictive covenants
+(2) Est à inclure dans le calcul du revenu d’un contribuable pour une année d’imposition le total des sommes dont chacune a trait à une clause restrictive du contribuable et est reçue ou à recevoir au cours de l’année par le contribuable ou par un contribuable avec lequel il a un lien de dépendance, à l’exception de toute somme qui a été incluse soit dans le calcul du revenu du contribuable par l’effet du présent paragraphe pour une année d’imposition antérieure, soit dans le revenu de la société admissible du contribuable par l’effet du présent paragraphe pour l’année ou pour une année d’imposition antérieure.
+(2) There is to be included in computing a taxpayer’s income for a taxation year the total of all amounts each of which is an amount in respect of a restrictive covenant of the taxpayer that is received or receivable in the taxation year by the taxpayer or by a taxpayer with whom the taxpayer does not deal at arm’s length (other than an amount that has been included in computing the taxpayer’s income because of this subsection for a preceding taxation year or in the taxpayer’s eligible corporation’s income because of this subsection for the taxation year or a preceding taxation year).
+Non-application du paragraphe (2)
+Non-application of subsection (2)
+(3) Le paragraphe (2) ne s’applique pas à la somme reçue ou à recevoir par un contribuable donné au cours d’une année d’imposition au titre d’une clause restrictive qu’il a accordée à un autre contribuable (appelé « acheteur » au présent paragraphe et au paragraphe (4)) avec lequel il n’a aucun lien de dépendance (déterminé compte non tenu de l’alinéa 251(5)b)) si l’un des faits ci­après se vérifie :
+(3) Subsection (2) does not apply to an amount received or receivable by a particular taxpayer in a taxation year in respect of a restrictive covenant granted by the particular taxpayer to another taxpayer (referred to in this subsection and subsection (4) as the “purchaser”) with whom the particular taxpayer deals at arm’s length (determined without reference to paragraph 251(5)(b)), if
+a) la somme a été incluse, en application des articles 5 ou 6, dans le calcul du revenu du contribuable donné pour l’année, ou l’aurait été si elle avait été reçue au cours de cette année;
+(a) section 5 or 6 applied to include the amount in computing the particular taxpayer’s income for the taxation year or would have so applied if the amount had been received in the taxation year;
+b) la somme serait, en l’absence du présent article, à inclure dans le produit de disposition d’un bien compris dans la catégorie 14.1 de l’annexe II du Règlement de l’impôt sur le revenu, ou est une somme à laquelle le paragraphe 13(38) s’applique, relativement à l’entreprise à laquelle la clause restrictive se rapporte, et le contribuable donné fait le choix sur le formulaire prescrit, à titre individuel ou conjointement avec l’acheteur si la somme est payable par ce dernier relativement à une entreprise qu’il exploite au Canada, d’appliquer le présent alinéa relativement à la somme;
+(b) the amount would, if this Act were read without reference to this section, be required to be included in the proceeds of disposition of a property included in Class 14.1 of Schedule II to the Income Tax Regulations, or is an amount to which subsection 13(38) applies, in respect of the business to which the restrictive covenant relates, and the particular taxpayer elects (or if the amount is payable by the purchaser in respect of a business carried on in Canada by the purchaser, the particular taxpayer and the purchaser jointly elect) in prescribed form to apply this paragraph in respect of the amount; or
+c) sous réserve du paragraphe (9), la somme se rapporte directement à la disposition, par le contribuable donné, d’un bien qui est, au moment de la disposition, soit une participation admissible dans la société de personnes ou la société qui exploite l’entreprise à laquelle la clause restrictive se rapporte, soit une participation admissible par l’effet de l’alinéa c) de la définition de participation admissible au paragraphe (1) lorsque l’entreprise à laquelle la clause restrictive se rapporte est exploitée par l’autre société visée à cet alinéa, et, à la fois :
+(c) subject to subsection (9), the amount directly relates to the particular taxpayer’s disposition of property that is, at the time of the disposition, an eligible interest in the partnership or corporation that carries on the business to which the restrictive covenant relates, or that is at that time an eligible interest by virtue of paragraph (c) of the definition eligible interest in subsection (1) where the other corporation referred to in that paragraph carries on the business to which the restrictive covenant relates, and
+(i) la disposition est effectuée en faveur de l’acheteur ou d’une personne qui lui est liée,
+(i) the disposition is to the purchaser (or to a person related to the purchaser),
+(ii) la somme représente la contrepartie de l’engagement du contribuable donné de ne pas fournir, directement ou indirectement, de biens ou de services sous un régime de concurrence avec les biens ou services fournis ou à fournir par l’acheteur ou par une personne qui lui est liée,
+(ii) the amount is consideration for an undertaking by the particular taxpayer not to provide, directly or indirectly, property or services in competition with the property or services provided or to be provided by the purchaser (or by a person related to the purchaser),
+(iii) il est raisonnable de considérer que la clause restrictive a été accordée dans le but de maintenir ou de protéger la valeur de la participation admissible dont il est disposé en faveur de l’acheteur,
+(iii) the restrictive covenant may reasonably be considered to have been granted to maintain or preserve the value of the eligible interest disposed of to the purchaser;
+(iv) si la clause restrictive est accordée après le 17 juillet 2005, le paragraphe 84(3) ne s’applique pas à la disposition,
+(iv) if the restrictive covenant is granted on or after July 18, 2005, subsection 84(3) does not apply to the disposition,
+(v) la somme est ajoutée au produit de disposition, au sens de l’article 54, du contribuable donné pour ce qui est de l’application de la présente loi à la disposition de la participation admissible de ce contribuable,
+(v) the amount is added to the particular taxpayer’s proceeds of disposition, as defined by section 54, for the purpose of applying this Act to the disposition of the particular taxpayer’s eligible interest, and
+(vi) le contribuable et l’acheteur font, sur le formulaire prescrit, le choix d’appliquer le présent alinéa relativement à la somme.
+(vi) the particular taxpayer and the purchaser elect in prescribed form to apply this paragraph in respect of the amount.
+Somme payée ou payable par l’acheteur
+Treatment of purchaser
+(4) La somme payée ou payable par un acheteur relativement à une clause restrictive fait l’objet du traitement suivant :
+(4) An amount paid or payable by a purchaser for a restrictive covenant is
+a) si elle est à inclure dans le calcul du revenu d’un employé de l’acheteur par l’effet des articles 5 ou 6, elle est considérée comme un salaire versé ou à verser à l’employé par l’acheteur;
+(a) if the amount is required because of section 5 or 6 to be included in computing the income of an employee of the purchaser, to be considered to be wages paid or payable by the purchaser to the employee;
+b) si le choix prévu à l’alinéa (3)b) a été fait à son égard, elle est considérée comme étant engagée par l’acheteur à titre de capital aux fins du calcul du coût du bien ou pour l’application du paragraphe 13(35), selon le cas, et comme n’étant pas une somme payée ou payable pour l’application des autres dispositions de la présente loi;
+(b) if an election has been made under paragraph (3)(b) in respect of the amount, to be considered to be incurred by the purchaser on account of capital for the purpose of determining the cost of the property or for the purposes of subsection 13(35), as the case may be, and not to be an amount paid or payable for all other purposes of the Act; and
+c) si le choix prévu à l’alinéa (3)c) a été fait à son égard et qu’elle a trait à l’acquisition par l’acheteur d’un bien qui, aussitôt acquis, est une participation admissible pour lui, elle est à inclure dans le calcul du coût de cette participation pour lui et est considérée comme n’étant pas une somme payée ou payable pour l’application des autres dispositions de la présente loi.
+(c) if an election has been made under paragraph (3)(c), in respect of the amount and the amount relates to the purchaser’s acquisition of property that is, immediately after the acquisition, an eligible interest of the purchaser, to be included in computing the cost to the purchaser of that eligible interest and considered not to be an amount paid or payable for all other purposes of the Act.
+Non-application de l’article 68
+Non-application of section 68
+(5) En cas d’application du présent paragraphe à une clause restrictive accordée par un contribuable, l’article 68 ne s’applique pas de manière qu’une contrepartie soit réputée être reçue ou à recevoir par le contribuable pour la clause restrictive.
+(5) If this subsection applies to a restrictive covenant granted by a taxpayer, section 68 does not apply to deem consideration to be received or receivable by the taxpayer for the restrictive covenant.
+Application du paragraphe (5) — clause restrictive accordée par l’employé
+Application of subsection (5) — if employee provides covenant
+(6) Le paragraphe (5) s’applique à une clause restrictive si les conditions ci-après sont réunies :
+(6) Subsection (5) applies to a restrictive covenant if
+a) la clause restrictive est accordée par un particulier à un autre contribuable (appelé « acheteur » au présent paragraphe) avec lequel il n’a aucun lien de dépendance;
+(a) the restrictive covenant is granted by an individual to another taxpayer with whom the individual deals at arm’s length (referred to in this subsection as the “purchaser”);
+b) la clause restrictive se rapporte directement à l’acquisition par l’acheteur d’une ou de plusieurs autres personnes (appelées « vendeurs » au présent paragraphe et au paragraphe (12)) d’un intérêt ou, pour l’application du droit civil, d’un droit sur l’employeur du particulier, sur une société liée à cet employeur ou sur une entreprise exploitée par cet employeur;
+(b) the restrictive covenant directly relates to the acquisition from one or more other persons (in this subsection and subsection (12) referred to as the “vendors”) by the purchaser of an interest, or for civil law purposes a right, in the individual’s employer, in a corporation related to that employer or in a business carried on by that employer;
+c) le particulier n’a de lien de dépendance ni avec l’employeur, ni avec les vendeurs;
+(c) the individual deals at arm’s length with the employer and with the vendors;
+d) la clause restrictive est un engagement du particulier de ne pas fournir, directement ou indirectement, de biens ou de services sous un régime de concurrence avec les biens ou services fournis ou à fournir par l’acheteur, ou par une personne qui lui est liée, dans le cadre de l’exploitation de l’entreprise à laquelle la clause restrictive se rapporte;
+(d) the restrictive covenant is an undertaking by the individual not to provide, directly or indirectly, property or services in competition with property or services provided or to be provided by the purchaser (or by a person related to the purchaser) in the course of carrying on the business to which the restrictive covenant relates;
+e) aucun produit n’est reçu ou à recevoir par le particulier pour avoir accordé la clause restrictive;
+(e) no proceeds are received or receivable by the individual for granting the restrictive covenant; and
+f) la somme qu’il est raisonnable de considérer comme étant la contrepartie de la clause restrictive n’est reçue ou n’est à recevoir que par les vendeurs.
+(f) the amount that can reasonably be regarded to be consideration for the restrictive covenant is received or receivable only by the vendors.
+Application du paragraphe (5) — réalisation du montant pour achalandage et disposition d’un bien
+Application of subsection (5) — realization of goodwill amount and disposition of property
+(7) Sous réserve du paragraphe (10), le paragraphe (5) s’applique à une clause restrictive accordée par un contribuable si les conditions ci-après sont réunies :
+(7) Subject to subsection (10), subsection (5) applies to a restrictive covenant granted by a taxpayer if
+a) la clause restrictive est accordée par le contribuable (appelé « vendeur » au présent paragraphe et au paragraphe (8)) :
+(a) the restrictive covenant is granted by the taxpayer (in this subsection and subsection (8) referred to as the “vendor”) to
+(i) soit à un autre contribuable (appelé « acheteur » au présent paragraphe) avec lequel il n’a aucun lien de dépendance (déterminé compte non tenu de l’alinéa 251(5)b)) au moment où la clause restrictive est accordée,
+(i) another taxpayer (in this subsection referred to as the “purchaser”) with whom the vendor deals at arm’s length (determined without reference to paragraph 251(5)(b)) at the time of the grant of the restrictive covenant, or
+(ii) soit à une autre personne qui est un particulier admissible relativement à lui au moment où la clause restrictive est accordée;
+(ii) another person who is an eligible individual in respect of the vendor at the time of the grant of the restrictive covenant;
+b) en cas d’application du sous-alinéa a)(i), la clause restrictive est un engagement du vendeur de ne pas fournir, directement ou indirectement, de biens ou de services sous un régime de concurrence avec les biens ou services fournis ou à fournir par l’acheteur, ou par une personne liée à celui-ci, dans le cadre de l’exploitation de l’entreprise à laquelle la clause restrictive se rapporte et, selon le cas :
+(b) where subparagraph (a)(i) applies, the restrictive covenant is an undertaking of the vendor not to provide, directly or indirectly, property or services in competition with the property or services provided or to be provided by the purchaser (or by a person related to the purchaser) in the course of carrying on the business to which the restrictive covenant relates, and
+(i) la somme qu’il est raisonnable de considérer comme étant la contrepartie de la clause restrictive est :
+(i) the amount that can reasonably be regarded as being consideration for the restrictive covenant is
+(A) soit incluse par le vendeur dans le calcul d’un montant pour achalandage quant à lui,
+(A) included by the vendor in computing a goodwill amount of the vendor, or
+(B) soit reçue ou à recevoir par une société qui était une société admissible du vendeur au moment où la clause restrictive a été accordée, et incluse par cette société dans le calcul d’un montant pour achalandage quant à elle relativement à l’entreprise à laquelle la clause restrictive se rapporte,
+(B) received or receivable by a corporation that was an eligible corporation of the vendor when the restrictive covenant was granted and included by the eligible corporation in computing a goodwill amount of the eligible corporation in respect of the business to which the restrictive covenant relates, or
+(ii) il est raisonnable de conclure que la clause restrictive fait partie intégrante d’une convention écrite aux termes de laquelle, selon le cas :
+(ii) it is reasonable to conclude that the restrictive covenant is integral to an agreement in writing,
+(A) le vendeur ou sa société admissible dispose de biens (sauf des biens visés à la division (B) ou au sous-alinéa (i)) en faveur de l’acheteur ou de la société admissible de celui-ci pour une contrepartie reçue ou à recevoir par le vendeur ou par sa société admissible, selon le cas,
+(A) under which the vendor or the vendor’s eligible corporation disposes of property (other than property described in clause (B) or subparagraph (i)) to the purchaser, or the purchaser’s eligible corporation, for consideration that is received or receivable by the vendor, or the vendor’s eligible corporation, as the case may be, or
+(B) il est disposé d’actions du capital-actions d’une société (appelée « société cible » au présent paragraphe et au paragraphe (12)) en faveur de l’acheteur ou d’une autre personne qui lui est liée et avec laquelle le vendeur n’a aucun lien de dépendance (déterminé compte non tenu de l’alinéa 251(5)b));
+(B) under which shares of the capital stock of a corporation (in this subsection and subsection (12) referred to as the “target corporation”) are disposed of to the purchaser or to another person that is related to the purchaser and with whom the vendor deals at arm’s length (determined without reference to paragraph 251(5)(b)),
+c) en cas d’application du sous-alinéa a)(ii), la clause restrictive est un engagement du vendeur de ne pas fournir, directement ou indirectement, de biens ou de services sous un régime de concurrence avec les biens ou services fournis ou à fournir par le particulier admissible, ou par une société admissible de celui-ci, dans le cadre de l’exploitation de l’entreprise à laquelle la clause restrictive se rapporte et, à la fois :
+(c) where subparagraph (a)(ii) applies, the restrictive covenant is an undertaking of the vendor not to provide, directly or indirectly, property or services in competition with the property or services provided or to be provided by the eligible individual (or by an eligible corporation of the eligible individual) in the course of carrying on the business to which the restrictive covenant relates, and
+(i) selon le cas :
+(i) either
+(A) la somme qu’il est raisonnable de considérer comme étant la contrepartie de la clause restrictive est :
+(A) the amount that can reasonably be regarded as being consideration for the restrictive covenant is
+(I) soit incluse par le vendeur dans le calcul d’un montant pour achalandage quant à lui,
+(I) included by the vendor in computing a goodwill amount of the vendor, or
+(II) soit reçue ou à recevoir par une société qui était une société admissible du vendeur au moment où la clause restrictive a été accordée, et incluse par cette société dans le calcul d’un montant pour achalandage quant à elle relativement à l’entreprise à laquelle la clause restrictive se rapporte,
+(II) received or receivable by a corporation that was an eligible corporation of the vendor when the restrictive covenant was granted and included by the eligible corporation in computing a goodwill amount of the eligible corporation in respect of the business to which the restrictive covenant relates, or
+(B) il est raisonnable de conclure que la clause restrictive fait partie intégrante d’une convention écrite aux termes de laquelle, selon le cas :
+(B) it is reasonable to conclude that the restrictive covenant is integral to an agreement in writing
+(I) le vendeur ou sa société admissible dispose de biens (sauf des biens visés à la subdivision (II) ou à la division (A)) en faveur du particulier admissible ou de la société admissible de celui-ci pour une contrepartie reçue ou à recevoir par le vendeur ou par sa société admissible, selon le cas,
+(I) under which the vendor or the vendor’s eligible corporation disposes of property (other than property described in subclause (II) or clause (A)) to the eligible individual, or the eligible individual’s corporation, for consideration that is received or receivable by the vendor, or the vendor’s eligible corporation, as the case may be, or
+(II) il est disposé d’actions du capital-actions de la société admissible du vendeur (appelée « société familiale » au présent paragraphe et au paragraphe (12)) en faveur du particulier admissible ou de la société admissible de celui-ci,
+(II) under which shares of the capital stock of the vendor’s eligible corporation (in this subsection and subsection (12) referred to as the “family corporation”) are disposed of to the eligible individual or the eligible individual’s eligible corporation,
+(ii) le vendeur réside au Canada au moment de l’octroi de la clause restrictive et de la disposition mentionnée à la division (i)(B),
+(ii) the vendor is resident in Canada at the time of the grant of the restrictive covenant and the disposition referred to in clause (i)(B), and
+(iii) le vendeur n’a pas, directement ou indirectement, de quelque manière que ce soit, d’intérêt ou, pour l’application du droit civil, de droit sur la société familiale ou sur la société admissible du particulier admissible, selon le cas, après l’octroi de la clause restrictive;
+(iii) the vendor does not, at any time after the grant of the restrictive covenant and whether directly or indirectly in any manner whatever, have an interest, or for civil law a right, in the family corporation or in the eligible corporation of the eligible individual, as the case may be;
+d) aucun produit n’est reçu ou à recevoir par le vendeur pour avoir accordé la clause restrictive;
+(d) no proceeds are received or receivable by the vendor for granting the restrictive covenant;
+e) le paragraphe 84(3) ne s’applique pas à la disposition d’une action de la société cible ou de la société familiale, selon le cas;
+(e) subsection 84(3) does not apply in respect of the disposition of a share of the target corporation or family corporation, as the case may be;
+f) il est raisonnable de considérer que la clause restrictive a été accordée dans le but de maintenir ou de protéger la juste valeur marchande :
+(f) the restrictive covenant can reasonably be regarded to have been granted to maintain or preserve the fair market value of any of
+(i) de l’avantage de la dépense qui découle du montant pour achalandage visé au sous-alinéa b)(i) ou à la division c)(i)(A) et à l’égard duquel le choix conjoint prévu à l’alinéa g) a été fait,
+(i) the benefit of the expenditure derived from the goodwill amount referred to in subparagraph (b)(i) or clause (c)(i)(A) and for which a joint election referred to in paragraph (g) was made,
+(ii) des biens visés à la division b)(ii)(A) ou à la subdivision c)(i)(B)(I),
+(ii) the property referred to in clause (b)(ii)(A) or subclause (c)(i)(B)(I), or
+(iii) des actions mentionnées à la division b)(ii)(B) ou à la subdivision c)(i)(B)(II);
+(iii) the shares referred to in clause (b)(ii)(B) or subclause (c)(i)(B)(II); and
+g) un choix conjoint afin que le paragraphe (5) s’applique à la somme mentionnée au sous-alinéa b)(i) ou à la division c)(i)(A), dans le cas où ce paragraphe s’applique par ailleurs, est fait sur le formulaire prescrit :
+(g) a joint election in prescribed form to apply subsection (5) to the amount referred to in subparagraph (b)(i) or clause (c)(i)(A), if otherwise applicable, is made by
+(i) dans le cas du sous-alinéa b)(i), par celui du vendeur ou de sa société admissible qui est tenu d’inclure le montant pour achalandage dans le calcul de son revenu, et par celui de l’acheteur ou sa société admissible qui engage la dépense qui représente le montant pour achalandage pour le vendeur ou pour sa société admissible, selon le cas,
+(i) in the case of subparagraph (b)(i), the vendor, or the vendor’s eligible corporation, if it is required to include the goodwill amount in computing its income, and the purchaser, or the purchaser’s eligible corporation, if it incurs the expenditure that is the goodwill amount to the vendor or the vendor’s eligible corporation, as the case may be, or
+(ii) dans le cas de la division c)(i)(A), par celui du vendeur ou de sa société admissible qui est tenu d’inclure le montant pour achalandage dans le calcul de son revenu, et par celui du particulier admissible ou de sa société admissible qui engage la dépense qui représente le montant pour achalandage pour le vendeur ou pour sa société admissible, selon le cas.
+(ii) in the case of clause (c)(i)(A), the vendor, or the vendor’s eligible corporation, if it is required to include the goodwill amount in computing its income, and the eligible individual, or the eligible individual’s eligible corporation, if it incurs the expenditure that is the goodwill amount to the vendor or the vendor’s eligible corporation, as the case may be.
+Application du paragraphe (7) et de l’article 69 — règles spéciales
+Application of subsection (7) and section 69 — special rules
+(8) Les règles ci-après s’appliquent dans les cas suivants :
+(8) For the purpose
+a) pour l’application du paragraphe (7), la division (7)b)(ii)(A) et la subdivision (7)c)(i)(B)(I) ne s’appliquent à l’octroi d’une clause restrictive que si les conditions ci-après sont réunies :
+(a) of applying subsection (7), clause (7)(b)(ii)(A) and subclause (7)(c)(i)(B)(I) apply to a grant of a restrictive covenant only if
+(i) la contrepartie qu’il est raisonnable de considérer comme étant en partie la contrepartie de la clause restrictive est reçue ou à recevoir par le vendeur ou par sa société admissible, selon le cas, en contrepartie de la disposition du bien,
+(i) the consideration that can reasonably be regarded as being in part the consideration for the restrictive covenant is received or receivable by the vendor or the vendor’s eligible corporation, as the case may be, as consideration for the disposition of the property, and
+(ii) dans le cas où il est raisonnable de considérer que la totalité ou une partie de la contrepartie se rapporte à un montant pour achalandage, le paragraphe (2), l’alinéa (3)b), le sous-alinéa (7)b)(i) ou la division (7)c)(i)(A) s’appliquent à cette contrepartie;
+(ii) if all or a part of the consideration can reasonably be regarded as being for a goodwill amount, subsection (2), paragraph (3)(b), subparagraph (7)(b)(i) or clause (7)(c)(i)(A) applies to that consideration; and
+b) lorsqu’il s’agit de déterminer si les conditions énoncées à l’alinéa (7)c) sont remplies, et pour l’application de l’article 69, relativement à une clause restrictive accordée par un vendeur, la juste valeur marchande d’un bien correspond à la somme qu’il serait raisonnable de considérer comme étant la juste valeur marchande du bien si la clause restrictive faisait partie de celui-ci.
+(b) of determining if the conditions described in paragraph (7)(c) have been met, and for the purpose of applying section 69, in respect of a restrictive covenant granted by a vendor, the fair market value of a property is the amount that can reasonably be regarded as being the fair market value of the property if the restrictive covenant were part of the property.
+Règle anti-évitement — non-application de l’alinéa (3)c)
+Anti-avoidance rule — non-application of paragraph (3)(c)
+(9) L’alinéa (3)c) ne s’applique pas à la somme qui, en l’absence des paragraphes (2) à (14), serait incluse dans le calcul du revenu d’un contribuable provenant d’une source qui est une charge, un emploi, une entreprise ou un bien selon l’alinéa 3a).
+(9) Paragraph (3)(c) does not apply to an amount that would, if this Act were read without reference to subsections (2) to (14), be included in computing a taxpayer’s income from a source that is an office or employment or a business or property under paragraph 3(a).
+Anti-évitement — non-application du paragraphe (7)
+Anti-avoidance — non-application of subsection (7)
+(10) Le paragraphe (7) ne s’applique pas relativement à l’octroi d’une clause restrictive par un contribuable dans le cas où le fait de ne pas appliquer l’article 68 à la contrepartie reçue ou à recevoir pour avoir accordé la clause restrictive aurait notamment pour résultat que l’alinéa 3a) ne s’appliquerait pas à toute contrepartie qui, en l’absence des paragraphes (2) à (14), serait incluse dans le calcul du revenu d’un contribuable provenant d’une source qui est une charge, un emploi, une entreprise ou un bien.
+(10) Subsection (7) does not apply in respect of a taxpayer’s grant of a restrictive covenant if one of the results of not applying section 68 to the consideration received or receivable in respect of the taxpayer’s grant of the restrictive covenant would be that paragraph 3(a) would not apply to consideration that would, if this Act were read without reference to subsections (2) to (14), be included in computing a taxpayer’s income from a source that is an office or employment or a business or property.
+Précision en cas d’application du paragraphe (2) — somme reçue par une autre personne
+Clarification if subsection (2) applies — where another person receives the amount
+(11) Il est entendu que toute somme reçue ou à recevoir par un contribuable qui est incluse, par l’effet du paragraphe (2), dans le calcul du revenu d’un autre contribuable n’est pas à inclure dans le calcul du revenu du premier contribuable.
+(11) For greater certainty, if subsection (2) applies to include in computing a taxpayer’s income an amount received or receivable by another taxpayer, that amount is not to be included in computing the income of that other taxpayer.
+Précision en cas d’application du paragraphe (5)
+Clarification if subsection (5) applies
+(12) Il est entendu que, si le paragraphe (5) s’applique relativement à une clause restrictive :
+(12) For greater certainty, if subsection (5) applies in respect of a restrictive covenant,
+a) la somme visée à l’alinéa (6)f) est à ajouter dans le calcul de la somme reçue ou à recevoir par les vendeurs en contrepartie de la disposition de l’intérêt ou du droit visé à l’alinéa (6)b);
+(a) the amount referred to in paragraph (6)(f) is to be added in computing the amount received or receivable by the vendors as consideration for the disposition of the interest or right referred to in paragraph (6)(b); and
+b) la somme qu’il est raisonnable de considérer comme étant en partie la contrepartie reçue ou à recevoir pour une clause restrictive à laquelle la division (7)b)(ii)(B) ou la subdivision (7)c)(i)(B)(II) s’applique est à ajouter dans le calcul de la contrepartie qui est reçue ou à recevoir par chaque contribuable qui dispose d’actions de la société cible ou d’actions de la société familiale, selon le cas, jusqu’à concurrence de la partie de la contrepartie qui est reçue ou à recevoir par le contribuable.
+(b) the amount that can reasonably be regarded as being in part consideration received or receivable for a restrictive covenant to which clause (7)(b)(ii)(B) or subclause (7)(c)(i)(B)(II) applies is to be added in computing the consideration that is received or receivable by each taxpayer who disposes of shares of the target corporation, or shares of the family corporation, as the case may be, to the extent of the portion of the consideration that is received or receivable by that taxpayer.
+Production du formulaire prescrit
+Filing of prescribed form
+(13) Pour l’application des alinéas (3)b) et c) et du paragraphe (7), le choix présenté sur le formulaire prescrit selon ces dispositions doit être accompagné d’une copie de la clause restrictive et être produit selon les modalités suivantes :
+(13) For the purpose of paragraphs (3)(b) and (c) and subsection (7), an election in prescribed form filed under any of those provisions is to include a copy of the restrictive covenant and be filed
+a) si la personne ayant accordé la clause restrictive résidait au Canada au moment où celle-ci a été accordée, le choix est présenté par la personne au ministre au plus tard à la date d’échéance de production qui lui est applicable pour l’année d’imposition qui comprend le jour où la clause restrictive a été accordée;
+(a) if the person who granted the restrictive covenant was a person resident in Canada when the restrictive covenant was granted, by the person with the Minister on or before the person’s filing-due date for the taxation year that includes the day on which the restrictive covenant was granted; and
+b) dans les autres cas, le choix est présenté au ministre au plus tard le jour qui suit de six mois le jour où la clause restrictive est accordée.
+(b) in any other case, with the Minister on or before the day that is six months after the day on which the restrictive covenant is granted.
+Non-application de l’article 42
+Non-application of section 42
+(14) L’article 42 ne s’applique pas à la somme reçue ou à recevoir en contrepartie d’une clause restrictive.
+(14) Section 42 does not apply to an amount received or receivable as consideration for a restrictive covenant.
+RÉFÉRENCE :
+2018 CCI 158
+No DU DOSSIER DE LA COUR :
+2016-1480(IT)G
+INTITULÉ :
+PANGAEA ONE ACQUISITION HOLDINGS XII S.À.R.L. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 16 janvier 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge Guy R. Smith
+DATE DU JUGEMENT :
+Le 31 juillet 2018
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Pierre Martel
+Me Nicholas Grenier
+Avocat de l’intimée :
+Me Yanick Houle
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Noms :
+Me Pierre Martel
+Me Nicholas Grenier
+Cabinet :
+Stikeman Elliott S.E.N.C.R.L., s.r.l.
+Montréal (Québec)
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada
+[1] L’accord d’achat d’actions et l’accord d’achat d’actions modifié se trouvent aux annexes 1 et 2 du présent exposé conjoint des faits.
+[2] Voir la lettre d’entente jointe à l’annexe 3 du présent exposé conjoint des faits.
+[3] Les formulaires NR-75 et NR92 et le chèque figurent aux annexes 4 et 5 du présent exposé conjoint des faits.
+[4] Voir le formulaire NR7-R joint au présent exposé conjoint des faits.
+[5] Voir le feuillet NR4 joint à l’annexe 7 du présent exposé conjoint des faits.
+[6] Voir la décision, soit le refus du formulaire NR7-R par l’Agence, ainsi que l’avis de cotisation aux annexes 8, 9 et 10 du présent exposé conjoint des faits.
+[7] Voir l’avis d’opposition à l’annexe 11 du présent exposé conjoint des faits.
+[8] Voir l’avis de confirmation à l’annexe 12 du présent exposé conjoint des faits.
+[9] Voir l’alinéa 4.1b) de l’accord d’achat d’actions joint à l’annexe 1 du présent exposé conjoint des faits.
+[10] Voir l’alinéa 4.1a) de l’accord d’achat d’actions joint à l’annexe 1 du présent exposé conjoint des faits.
+[11] Voir le paragraphe 1 de la lettre d’entente jointe à l’annexe 3 du présent exposé conjoint des faits. Voir également le paragraphe 1a) du mémoire et des directives sur le mouvement des fonds et l’entente unanime des actionnaires figurant aux annexes 13 et 14 du présent exposé conjoint des faits.
+[12] Voir l’entente unanime des actionnaires à l’annexe 14 du présent exposé conjoint des faits.
+[13] Voir l’accord d’achat d’actions à l’annexe 1 du présent exposé conjoint des faits.
+[14] Voir l’accord d’achat d’actions modifié à l’annexe 2 du présent exposé conjoint des faits.
+[15] Voir l’alinéa 3 de la lettre d’entente jointe à l’annexe 3 du présent exposé conjoint des faits.
+[16] Voir l’alinéa 4 de la lettre d’entente jointe à l’annexe 3 du présent exposé conjoint des faits.
+[17] Voir le préambule du mémoire et des directives sur le mouvement des fonds à l’annexe 13 du présent exposé conjoint des faits.
+[18] Voir le sous-alinéa 4b)(ii) du mémoire et des directives sur le mouvement des fonds à l’annexe 13 du présent exposé conjoint des faits.
+[19] Voir les formulaires NR-75 et NR92 et le chèque aux annexes 4 et 5 du présent exposé conjoint des faits.

@@ -1,0 +1,155 @@
+---
+title: "Grossett v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30710/index.do"
+last_modified: "2012-01-19"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 TCC 51"
+citation2: ""
+neutral_citation: "2012 TCC 51"
+decision_date: "2012-01-19"
+language: "en"
+item_id: "30710"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7513
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T08:38:41.140000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a2d53d0dcd200ba1078ffd21b8587233fed8f7dbe19b4e7ae41cd69a1b3fb004"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Grossett v. The Queen
+
+- Citation: 2012 TCC 51
+- Decision date: 2012-01-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7513, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Grossett v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2012-01-19
+Neutral citation
+2012 TCC 51
+File numbers
+2008-1720(IT)I
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1720(IT)I
+BETWEEN:
+JAMES O. GROSSETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Motion heard on January 19, 2012 at
+Toronto ,
+Ontario
+Before: The Honourable Justice J.M. Woods
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ernesto Caceres
+____________________________________________________________________
+ORDER
+UPON motion by the appellant for an order setting aside a judgment of this Court dated April 26, 2011 which dismissed an appeal in respect of assessments made under the Income Tax Act for the 2002, 2003, 2004, 2005 and 2006 taxation years;
+IT IS ORDERED that the motion is granted, and the judgment is set aside.
+IT IS FURTHER ORDERED that the appeal is fixed for hearing before this Court at the Federal Judicial Centre, 180 Queen Street West, 6th Floor, Toronto, Ontario, commencing at 9:30 a.m. on March 28, 2012 for an estimated duration of three (3) days.
+The parties shall bear their own costs in respect of this motion.
+Signed at
+Toronto ,
+Ontario
+, this 14th day of February 2012.
+“J.W. Woods”
+Woods J.
+Citation: 2012 TCC 51
+Date: 20120214
+Docket: 2008-1720(IT)I
+BETWEEN:
+JAMES O. GROSSETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+Woods J.
+[1] In this motion, the appellant, James Grossett, seeks to reopen an appeal which was dismissed following the failure of the appellant to appear at a status hearing. The judgment was issued by Rossiter A.C.J. on April 26, 2011.
+[2] The appeal relates to reassessments made under the Income Tax Act for the 2002 to 2006 taxation years, inclusive.
+[3] The respondent objects to the motion on the ground that the application was not made as soon as circumstances permitted. Counsel submits that he spoke to the appellant in May, 2011 and advised him of the judgment. Yet it appears that the appellant took no action to set aside the judgment until August, 2011. The appellant filed a letter with the Court dated April 15, 2011 which sought to have the judgment set aside, but for reasons not satisfactorily explained by the appellant, the Court received the letter on August 15, 2011.
+[4] Following the respondent’s objection to the application, the Court directed that the application be dealt with by way of a motion heard in Court. The appellant therefore filed a notice of motion on January 10, 2012.
+[5] The respondent refers to section 18.21 of the Tax Court of Canada Act, which is reproduced below.
+Failure to appear
+18.21 (1) Where an appellant does not appear on the day fixed for the hearing, or obtain an adjournment of the hearing, of an appeal, the Court shall, on application by the respondent and whether or not the appellant has received notice of the application, order that the appeal be dismissed, unless the Court is of the opinion that circumstances justify that the appeal be set down for hearing at a later date.
+Application
+(2) An appellant whose appeal has been dismissed pursuant to subsection (1) may apply to have the order of dismissal set aside and the appeal set down for hearing.
+Where order set aside
+(3) The Court may set aside an order of dismissal made under subsection (1) where
+(a) it would have been unreasonable in all the circumstances for the appellant to have attended the hearing; and
+(b) the appellant applied to have the order of dismissal set aside as soon as circumstances permitted the application to be brought but, in any event, not later than one hundred and eighty days after the day on which the order was mailed to the appellant.
+[6] I agree with the respondent that the appellant could have applied earlier to have the judgment set aside. However, this is not fatal to this motion.
+[7] Paragraph 18.21(3) of theTax Court of Canada Act permits the Court to set aside an order dismissing an appeal if two conditions are satisfied. One of the requirements is that the application be made as soon as circumstances permit.
+[8] The problem with relying on this provision is that it does not apply to a dismissal following a failure to appear at a status hearing. The provision only applies if an appellant fails to appear at the hearing of the appeal. Status hearings are preliminary proceedings and are not commonly held in appeals governed by the informal procedure. It is not surprising that there is no specific legislative provision that applies in this case.
+[9] In the absence of an applicable legislative provision, the motion should be decided on a more general principle, namely, whether it would be just and equitable to set the judgment aside considering all the circumstances, including whether the application was brought on a timely basis. In my view, the balance in this case favours setting the judgment aside.
+[10] First, although the appellant could have acted sooner, the delay is not inordinate.
+[11] Second, it appears that the appellant may not have received the notice of the status hearing, or the judgment itself. These documents were sent back to the Registry as undeliverable. Counsel for the respondent was informed of this for the first time at the hearing.
+[12] Third, the respondent requests that I take into account that the appeal has no merit. I was informed by counsel that these appeals are similar to several others which have been dismissed by this Court and which relate to inflated donation receipts. Apparently one of the perpetrators pled guilty to a criminal charge in relation to the scheme: Scott v The Queen, 2010 TCC 237, 2010 DTC 1172, para. 17.
+[13] The notice of appeal filed by the appellant suggests that the donation receipts are valid. Whether this is true can only be determined based on evidence properly introduced at the hearing of the appeal. It is not appropriate, in my view, to conclude that the appeal has no merit.
+[14] Fourth,it appears that the respondent would not be significantly prejudiced if the appeal were reopened. Counsel for the respondent informed me that similar appeals have been set down for hearing over a three-day period commencing March 28, 2012. This appeal could be scheduled to be heard at the same time.
+[15] For these reasons, I have concluded that the judgment dismissing the appeals should be set aside. The hearing of the appeal will be fixed to commence on March 28, 2012.
+[16] There will be no order as to costs.
+Signed at
+Toronto ,
+Ontario
+this 14th day of February 2012.
+“J. M. Woods”
+Woods J.
+CITATION: 2012 TCC 51
+COURT FILE NO.: 2008-1720(IT)I
+STYLE OF CAUSE: JAMES O. GROSSETT v.
+HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto ,
+Ontario
+DATE OF HEARING: January 19, 2012
+REASONS FOR ORDER BY: The Honourable Justice J.M. Woods
+DATE OF ORDER: February 14, 2012
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Ernesto Caceres
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of
+Canada
+Ottawa ,
+Ontario

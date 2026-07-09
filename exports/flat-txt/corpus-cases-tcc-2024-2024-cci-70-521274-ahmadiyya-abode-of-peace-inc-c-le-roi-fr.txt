@@ -1,0 +1,176 @@
+Title: Ahmadiyya Abode of Peace Inc. c. Le Roi
+Source: https://norma.lexum.com/tcc-cci/decisions/fr/item/521274/index.do
+Corpus path: corpus/cases/tcc/2024/2024-cci-70-521274-ahmadiyya-abode-of-peace-inc-c-le-roi-fr.md
+Document type: case_law
+Last modified: 2024-05-15
+
+# Ahmadiyya Abode of Peace Inc. c. Le Roi
+
+- Citation: 2024 CCI 70
+- Decision date: 2024-05-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5510, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Ahmadiyya Abode of Peace Inc. c. Le Roi
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2024-05-15
+Référence neutre
+2024 CCI 70
+Numéro de dossier
+2020-515(GST)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2020-515(GST)G
+ENTRE :
+AHMADIYYA ABODE OF PEACE INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu à Toronto (Ontario), le 10 avril 2024
+Devant : l’honorable juge Bruce Russell
+Comparutions :
+Avocat de l’appelante :
+Me Ian Iatzko
+Avocat de l’intimé :
+Me Ian Pillai
+JUGEMENT
+L’appel visant les deux cotisations établies le 16 janvier 2019 en vertu de la Loi sur la taxe d’accise est rejeté, avec dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 15e jour de mai 2024.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 21e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+Référence : 2024 CCI 70
+Date : 20240515
+Dossier : 2020-515(GST)G
+ENTRE :
+AHMADIYYA ABODE OF PEACE INC.,
+appelante,
+et
+SA MAJESTÉ LE ROI,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Russell
+I. Introduction [1] L’appelante, Ahmadiyya Abode of Peace Inc., établie à North York, exploite un projet domiciliaire à but non lucratif de 166 logements et participe à un programme municipal de services de soutien au logement. L’appelante n’est pas un inscrit au titre de la loi fédérale applicable, soit la Loi sur la taxe d’accise (la « Loi »).
+[2] L’appelante a interjeté appel à l’égard de deux cotisations établies par le ministre du Revenu national (le « ministre ») en vertu de la Loi le 16 janvier 2019. Dans cette décision, le ministre a refusé d’accorder à l’appelante les deux remboursements de TPS/TVH, qui s’élevaient à 29 027,60 $ et à 33 592,75 $ respectivement, qu’elle cherchait à obtenir à titre d’organisme de services publics (la ou les « demande(s) de remboursement »). Les deux demandes de remboursement ont été présentées au ministre le 11 janvier 2019.
+[3] La question en litige est celle de savoir si, comme le fait valoir l’appelante, les deux demandes de remboursement datées du 11 janvier 2019 constituaient des modifications à une demande de remboursement qu’elle avait présentée le 23 juin 2016.
+II. Contexte [4] Le 23 juin 2016, l’appelante a présenté au ministre une demande de remboursement de 62 620,35 $ de la TPS/TVH relativement à une période de demande qui s’étendait du 1er janvier au 31 décembre 2014.
+[5] Les paragraphes 297(1) et (2) de la Loi prévoient ce qui suit :
+(1) Détermination du remboursement – Sur réception de la demande de remboursement d’une personne selon l’article 215.1 ou la section VI, le ministre examine, avec diligence, la demande et établit une cotisation visant le montant du remboursement.
+(2) Nouvelle cotisation – Le ministre peut établir une nouvelle cotisation ou une cotisation supplémentaire au titre d’un remboursement sans tenir compte des cotisations établies antérieurement à ce titre.
+[6] Le ministre a examiné cette demande de remboursement (au titre de la section IV) datée du 23 juin 2016 conformément au paragraphe 297(1) de la Loi avant d’établir à néant le remboursement le 20 juillet 2016. Selon l’avis de cotisation émis en conséquence le 20 juillet 2016, aucun remboursement n’était accordé au motif que la demande de remboursement datée du 23 juin 2016 ne faisait pas référence à la bonne période de demande au sens de la Loi.
+[7] L’expression « période de demande » est définie comme suit au paragraphe 259(1) de la Loi :
+« période de demande » S’agissant de la période de demande d’une personne à un moment donné :
+a) si la personne est un inscrit à ce moment, sa période de déclaration qui comprend ce moment;
+b) sinon, la période qui comprend ce moment et qui représente :
+(i) soit les premier et deuxième trimestres d’exercice d’un exercice de la personne,
+(ii) soit les troisième et quatrième trimestres d’exercice d’un exercice de la personne.
+[8] Selon cette définition et compte tenu du fait que l’appelante n’était pas un inscrit et que son exercice coïncidait avec l’année civile, les périodes de demande de cette dernière étaient les deux périodes de six mois suivantes : celle du 1er janvier au 30 juin 2014 et celle du 1er juillet au 31 décembre 2014. Or, comme je viens de le mentionner, l’appelante s’est trompée dans sa demande de remboursement datée du 23 juin 2016, dans laquelle elle a mentionné une seule période de demande, à savoir la période de douze mois allant du 1er janvier au 31 décembre 2014.
+[9] Dans son témoignage à l’audience, le gestionnaire de l’appelante, M. Karim Tahir, a déclaré que l’appelante n’avait pas reçu l’avis de cotisation datée du 20 juillet 2016. Il a ajouté que c’est lui-même qui s’occupe du courrier. Cependant, l’appelante n’a pas contesté le fait que cet avis de cotisation lui a été envoyé à la bonne adresse et que l’Agence du revenu du Canada (l’« ARC ») n’a rien reçu en provenance de cette adresse. Rien n’indique que l’appelante a contesté le fait que l’avis de cotisation daté du 20 juillet 2016 lui a bel et bien été envoyé[1].
+[10] Quoi qu’il en soit, l’appelante n’a pas présenté d’avis d’opposition relativement à l’avis de cotisation daté du 20 juillet 2016. Or, le paragraphe 301(1.1) de la Loi prévoit que l’avis d’opposition peut être présenté dans les 90 jours suivant le jour où l’avis de cotisation en cause a été envoyé.
+[11] En outre, le paragraphe 303(7) de la Loi prévoit qu’une demande de prorogation du délai applicable à la présentation d’un avis d’opposition peut être présentée dans l’année qui suit l’expiration de ce délai de 90 jours. L’appelante n’a pas présenté une telle demande même si elle avait jusqu’au 18 octobre 2017 pour le faire.
+[12] M. Tahir a déclaré dans son témoignage que c’est en 2017 qu’il s’est rendu compte que l’appelante n’avait pas reçu le remboursement qu’elle avait demandé pour l’année 2014. Ce n’est que l’année suivante, soit en octobre 2018, qu’il s’est adressé à l’ARC à ce sujet. À cette occasion, l’ARC lui a dit qu’il n’était pas un représentant de l’appelante avec qui elle pouvait communiquer.
+[13] M. S. Formusa, le comptable indépendant chargé de traiter le dossier de l’appelante, a également témoigné. Il a déclaré dans son témoignage qu’en sa qualité de personne-ressource pour les besoins de l’ARC, il a communiqué avec cette dernière à la fin de 2018 au sujet du remboursement « manquant » pour l’année 2014. C’est alors qu’il a appris qu’une cotisation néant avait été établie le 20 juillet 2016 à l’égard de la demande de remboursement datée du 23 juin 2016 (dans laquelle l’appelante avait indiqué la mauvaise période de demande).
+[14] M. Formusa a également déclaré dans son témoignage que le remboursement de la TPS/TVH pour les périodes de demande de 2015 et de 2016 que l’appelante avait demandé n’avait pas été reçu. Il a déclaré que l’appelante a réussi à régler ces demandes en présentant ce qu’il a qualifié de demandes de remboursement « modifiées » qui faisaient référence aux bonnes périodes de demande. Aucun document à ce sujet n’a été déposé en preuve et ces demandes de remboursement ne font pas l’objet du présent appel.
+[15] Comme je le mentionne plus haut, le 11 janvier 2019, l’appelante a déposé deux demandes de remboursement relativement aux périodes de demande de l’année 2014. L’appelante soutient que ces demandes constituaient des modifications de la demande de remboursement datée du 23 juin 2016 qui avait mené à l’établissement de la cotisation néant le 20 juillet 2016.
+[16] L’une de ces deux demandes de remboursement datées du 11 janvier 2019 visait à obtenir un remboursement de 29 027,60 $ relativement à la période de demande du 1er janvier au 30 juin 2014, alors que l’autre demande visait à obtenir un remboursement de 33 592,75 $ relativement à la période de remboursement du 1er juin au 31 décembre 2014. M. Formusa a déclaré dans son témoignage qu’il ne s’était pas rendu compte que dans cette dernière demande, il avait mentionné à tort que la période de demande débutait le 1er juin au lieu du 1er juillet 2014.
+[17] L’alinéa 259(5)b) de la Loi prévoit que les personnes qui ne sont pas des inscrits, telle l’appelante, doivent présenter toute demande de remboursement relativement à une période de demande au plus tard quatre ans suivant le dernier jour de cette période.
+[18] Voici l’alinéa 259(5)b) de la Loi :
+(5)b) – Demande de remboursement [date limite] – Un remboursement prévu au présent article relativement à une période de demande de l’exercice d’une personne est accordé si la personne en fait la demande après le premier jour de cet exercice où elle est un organisme déterminé de services publics, un organisme de bienfaisance ou un organisme à but non lucratif admissible et dans les quatre ans suivant […], [si la personne n’est pas un inscrit,] le dernier jour de la période de demande.
+[19] Par conséquent, les demandes de remboursement datées du 11 janvier 2019 devaient être présentées au plus tard le 30 juin 2018 et le 31 décembre 2018 respectivement. Les deux demandes de remboursement datées du 11 janvier 2019 ont donc été présentées après l’expiration du délai prévu à l’alinéa 259(5)b) de la Loi.
+[20] C’est pour cette raison que le 16 janvier 2019, le ministre a établi une cotisation néant à l’égard des deux demandes de remboursement datées du 11 janvier 2019. De plus, le ministre a établi une cotisation néant à l’égard de la demande de remboursement datée du 11 janvier 2019 pour la période de demande se terminant le 31 décembre 2014 au motif que cette demande mentionnait que le début de la période était le 1er juin 2014 et non le 1er juillet 2014.
+[21] Le lendemain, soit le 17 janvier 2019, l’appelante a présenté une autre demande de remboursement de 33 592,75 $ relativement à la deuxième période de l’année, cette fois en y mentionnant correctement que la période débutait le 1er juillet 2014.
+[22] Moins d’une semaine plus tard, soit le 23 janvier 2019, la ministre a établi une cotisation néant à l’égard de la demande datée du 17 janvier 2019 encore une fois au motif que la demande avait été présentée après l’expiration du délai de quatre ans applicable.
+[23] Le 19 février 2019, l’appelante a déposé un avis d’opposition en vertu du paragraphe 301(1.1) de la Loi relativement à chaque cotisation établie le 16 janvier 2019.
+[24] Le 15 novembre 2019, le ministre a confirmé les deux cotisations du 16 janvier 2019 auxquelles l’appelante s’était opposée au motif que les deux demandes de remboursement datées du 11 janvier 2019 avaient été présentées après l’expiration des délais de quatre ans applicables et qu’en conséquence, elles ne pouvaient constituer des modifications apportées à la cotisation établie le 20 juillet 2016.
+[25] Les deux avis de confirmation, signés par M. Navpreet Bains, l’agent de l’ARC chargé des appels, au nom du ministre, mentionnaient également que les demandes de remboursement déposées en retard, soit le 11 janvier 2019, [traduction] « ne pouvaient pas constituer des modifications de la demande initiale, car elles visaient deux périodes de demande distinctes au sens du paragraphe 259(1) […] ».
+[26] Les avis de confirmation de M. Bains mentionnaient également que les deux demandes de remboursement datées du 11 janvier 2019 [traduction] « avaient été déposées en retard » et qu’elles ne pouvaient donc pas être examinées [traduction] « peu importe les circonstances ».
+[27] Dans l’avis d’appel qu’elle a déposé devant notre Cour, l’appelante fait valoir que ses deux demandes de remboursement datées du 11 janvier 2019 étaient des modifications de sa demande de remboursement datée du 23 juin 2016 et que sa demande de remboursement datée du 17 janvier 2019 visait à corriger la date du début de la période de demande, qui avait été mentionnée à tort comme étant le 1er juin 2014.
+[28] Dans son argumentation, l’avocat de l’appelante a fait référence à un court document de l’ARC daté du 11 septembre 2014 et intitulé « Modifier une déclaration ou un remboursement », qui contient le passage suivant :
+[traduction]
+Au moyen du « Mon dossier d’entreprise », [il est possible] de faire modifier en ligne une demande de remboursement pour les organismes de services publics qui a fait l’objet d’une cotisation.
+Pour faire modifier un autre type de demande de remboursement, veuillez communiquer avec le Centre fiscal de l’Île-du-Prince-Édouard.
+Une fois que vous avez un ID utilisateur et un mot de passe pour Mon dossier d’entreprise, ouvrez une session et sélectionnez l’option « Modifier un remboursement OSP ». Une liste de périodes admissibles au rajustement électronique s’affichera. […] Vous serez en mesure d’entrer les renseignements mis à jour dans des écrans […]. [Non souligné dans l’original.]
+[29] Ainsi, il est possible de demander le rajustement d’une cotisation relative à un remboursement pour un organisme de services publics pour une période de demande « admissible au rajustement ». Selon la Loi, il faut alors déposer un avis d’opposition. Or, l’avocat n’a pas indiqué en quoi ce document gouvernemental datant de septembre 2014 explique ce qui rend une période de demande « admissible au rajustement ». Bien entendu, ce qui rend une période de demande admissible ne peut être contraire à la Loi.
+[30] L’avocat de l’appelante a également fait référence à une publication de l’ARC intitulée « Remboursement de la TPS/TVH pour les organismes de services publics », dont la première page contient le passage suivant : « [c]e guide utilise un langage clair et simple pour expliquer les situations fiscales les plus courantes. Il est donné à titre indicatif seulement et ne remplace pas la loi ». En outre, la page 11 fournit la courte explication suivante sous la rubrique « Comment modifier une demande de remboursement que vous avez déjà produite » :
+Si vous avez besoin de modifier une demande de remboursement que vous avez déjà produite, vous pouvez :
+- utiliser les services numériques de l’ARC à Mon dossier d’entreprise [à canada.ca/dossier-entreprise] ou Représenter un client [à canada.ca/representer-client]
+- envoyer une lettre à l’ARC dans laquelle vous indiquez les modifications. [Non souligné dans l’original.]
+[31] Autrement dit, le contribuable qui a présenté une demande de remboursement et qui se rend compte par la suite qu’il s’est trompé peut simplement envoyer une lettre à l’ARC dans laquelle il indique les modifications qu’il souhaite apporter à sa demande. Cela me semble acceptable, en particulier au stade qui précède l’établissement de la cotisation relative au bon remboursement. Cependant, ce n’est pas ce qui s’est produit dans la présente affaire quant à la description erronée de la période de demande. Encore une fois, cette flexibilité informelle est assujettie aux dispositions contenues dans la Loi. Comme le dit le document lui-même, l’information qu’il fournit « ne remplace pas la loi ».
+[32] Je fais remarquer que la version anglaise de ces deux documents de l’ARC n’utilise pas les termes « modifier » ou « modification ».
+III. Positions des parties [33] L’appelante avance que la demande de remboursement datée du 23 juin 2016 a été modifiée par les deux demandes de remboursement datées du 11 janvier 2019 (et également par la demande de remboursement datée du 17 janvier 2019). Elle soutient qu’en conséquence, une nouvelle cotisation devrait être établie à l’égard de la demande de remboursement datée du 23 juin 2016, car la demande de remboursement relative aux deux périodes de demande corrigées pour 2014 devrait être accueillie. Ainsi, le 23 juin 2016 deviendrait alors la date de la demande de remboursement relative aux deux périodes de demande corrigées et aux demandes de remboursement connexes qui, elles, ont été déposées le 11 janvier 2019. Or, comme je le mentionne plus haut, contrairement à la demande de remboursement du 23 juin 2016, les demandes de remboursement des 11 janvier et 17 janvier 2019 ont été présentées après l’expiration des délais de quatre ans applicables.
+[34] Pour sa part, l’intimé fait valoir que les deux demandes de remboursement du 11 janvier 2019 ne constituaient pas des modifications. Selon lui, elles sont ce qu’elles mentionnent elles-mêmes, à savoir des demandes de remboursement, et elles ont donc été présentées après l’expiration des délais applicables à cet égard, qui prenaient fin les 30 juin et 31 décembre 2018 respectivement. Par conséquent, l’appel devrait être rejeté.
+IV. Analyse [35] La question est de savoir si la demande de remboursement datée du 23 juin 2016, par laquelle l’appelante cherchait à obtenir un remboursement de 60 620,35 $ et que le ministre a examinée le 20 juillet 2016 pour établir par la suite une cotisation néant – cotisation à laquelle l’appelante ne s’est pas opposée – pouvait être modifiée le 11 janvier 2019 et ensuite être examinée à nouveau.
+[36] Les dispositions suivantes de la Loi traitent de ce que j’appelle le « caractère définitif » des demandes de remboursement et des cotisations en résultant.
+[37] Les paragraphes 262(1) et (2) de la Loi prévoient ce qui suit :
+(1) Forme et production de la demande [de remboursement] – Une demande de remboursement selon la présente section, exception faite de l’article 253, est présentée au ministre en la forme et selon les modalités qu’il détermine et contient les renseignements requis.
+(2) Demande unique – L’objet d’un remboursement ne peut être visé par plus d’une demande selon la présente section.
+[38] Dans la décision Fanshawe College of Applied Arts and Technology c. La Reine, 2006 CCI 652, la juge Woods, alors juge à la Cour canadienne de l’impôt, a déclaré qu’à son sens, le mot « objet » au paragraphe 262(2) de la Loi se rattache à une « opération »[2]. Cette disposition prévoit donc qu’une seule demande de remboursement de la TPS/TVH ne peut être présentée relativement à une opération donnée.
+[39] En outre, les paragraphes 299(3) et (4) de la Loi prévoient ce qui suit :
+(3) Cotisation valide et exécutoire – Sous réserve d’une nouvelle cotisation et d’une annulation prononcée par suite d’une opposition ou d’un appel fait selon la présente partie, une cotisation est réputée valide et exécutoire.
+(4) Présomption de validité – Sous réserve d’une nouvelle cotisation et d’une annulation prononcée lors d’une opposition ou d’un appel fait selon la présente partie, une cotisation est réputée valide et exécutoire malgré les erreurs, vices de forme ou omissions dans la cotisation ou dans une procédure y afférent en vertu de la présente partie. [Non souligné dans l’original.]
+[40] Le paragraphe 299(3) de la Loi établit ce que le paragraphe 299(4) répète, à savoir qu’une cotisation est « valide et exécutoire » tant et aussi longtemps que la personne qui a présenté la demande de remboursement n’a pas produit en temps utile d’avis d’opposition à l’égard de la cotisation.
+[41] Le dépôt d’un avis d’opposition est la première étape en vue de demander l’établissement d’une nouvelle cotisation pour remplacer une cotisation valide et exécutoire ou l’annulation d’une telle cotisation. Il se peut alors que le ministre accepte l’opposition et établisse une nouvelle cotisation ou annule la cotisation en question. Si, au contraire, le ministre n’accepte pas l’opposition, la personne qui a formulé cette dernière peut interjeter appel de cette décision du ministre devant notre Cour et lui demander d’annuler la cotisation ou d’ordonner au ministre d’établir une nouvelle cotisation conformément à ses directives.
+[42] Sinon, en l’absence du dépôt de tout avis d’opposition, la cotisation établie par le ministre demeure valide et exécutoire conformément au paragraphe 299(4) de la Loi, et ce, « malgré les erreurs, vices de forme ou omissions dans la cotisation ou dans une procédure y afférent en vertu de la présente partie ».
+[43] La demande de remboursement présentée par l’appelante le 23 juin 2016 a mené à l’établissement, le 20 juillet 2016, d’une cotisation (qui n’accordait aucun remboursement) valide et exécutoire, car aucune opposition n’a été formulée à son égard. La demande de remboursement datée du 23 juin 2016, quant à elle, n’a plus d’effet, car elle a déjà été traitée.
+[44] La Loi n’accorde aucun effet à une demande de remboursement une fois que le ministre a établi une cotisation à son égard quant au montant du remboursement pour la période visée par la demande. La cotisation est « valide et exécutoire » tant et aussi longtemps qu’elle n’a pas été annulée ou qu’une nouvelle cotisation n’a pas été établie pour la même demande. Or, ni l’une ni l’autre de ces éventualités ne peut se produire sans le dépôt d’un avis d’opposition.
+[45] Par conséquent, en l’absence de tout avis d’opposition, la cotisation établie le 20 juillet 2016 demeure valide et exécutoire. La Loi ne prévoit pas que la demande de remboursement qui a mené à la cotisation peut plus tard être modifiée ou autrement changée. Ce serait inutile étant donné que la cotisation à laquelle elle a mené demeure valide et exécutoire.
+[46] En outre, toute modification d’une demande de remboursement déjà traitée en vue d’obtenir une autre cotisation négligerait complètement de prendre en compte le processus de dépôt d’un avis d’opposition prévu par la Loi.
+[47] La Loi reconnaît que, malgré l’existence d’un processus de dépôt d’un avis d’opposition, le processus d’établissement d’une cotisation à l’égard d’une demande de remboursement de la TPS/TVH revêt un caractère définitif.
+[48] Dans la décision Fanshawe College, la juge Woods a fait remarquer que la procédure à suivre pour corriger toute erreur sur la base de laquelle une cotisation a été établie relativement à une demande de remboursement est le dépôt d’un avis d’opposition :
+La façon appropriée de corriger ces erreurs consiste à s’opposer aux cotisations correspondant aux périodes de demande à l’égard desquelles ces erreurs ont été commises. Ce moyen n’a pas été utilisé et, comme l’a souligné la Couronne dans son argumentation, les cotisations en question sont maintenant réputées valides en vertu du paragraphe 299(3)[3]. [Non souligné dans l’original.]
+[49] Cette disposition empêche donc l’utilisation d’autres demandes de remboursement pour modifier une demande de remboursement déjà présentée. La « modification » que l’appelante cherche à obtenir dans la présente affaire n’en est pas une; il s’agit plutôt d’un remplacement complet de la demande de 2016 par la ou les demandes de 2019. Or, il s’agit de nouvelles demandes se rapportant aux mêmes opérations, ce que le paragraphe 262(2) de la Loi empêche de faire.
+[50] Pour terminer, je traiterai brièvement du motif pour lequel le ministre a rejeté les demandes de remboursement des 11 et 17 janvier 2019 parce qu’il s’agissait de modifications. À mon avis, toute demande de remboursement présentée avant l’expiration du délai de quatre ans prévu à l’alinéa 259(5)b) de la Loi peut être modifiée de manière accessoire après l’expiration de ce délai, bien que cela doive se faire avant que le ministre n’établisse une cotisation à l’égard de la demande. Une fois que le ministre a établi une cotisation, la façon de soulever toute préoccupation à cet égard ne consiste pas à tenter de modifier la demande de remboursement, qui n’a plus aucun effet : il faut plutôt déposer un avis d’opposition pour contester la validité et le caractère exécutoire de la cotisation.
+V. Conclusion [51] Pour conclure, le présent appel est rejeté sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 15e jour de mai 2024.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 21e jour de mai 2026.
+Guillaume Chénard, jurilinguiste principal
+RÉFÉRENCE :
+2024 CCI 70
+NO DU DOSSIER DE LA COUR :
+2020-515(GST)G
+INTITULÉ :
+AHMADIYYA ABODE OF PEACE INC. ET SA MAJESTÉ LE ROI
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 10 avril 2024
+MOTIFS DU JUGEMENT :
+L’honorable juge Bruce Russell
+DATE DU JUGEMENT :
+Le 15 mai 2024
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Ian Iatzko
+Avocat de l’intimé :
+Me Ian Pillai
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Ian Iatzko
+Cabinet :
+Spectrum Tax & Estate Planning
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous-procureure générale du Canada
+Ottawa (Canada)
+[1] Je fais remarquer au passage que le paragraphe 334(1) de la Loi prévoit que, pour l’application de la partie IX de la Loi, tout envoi en première classe ou l’équivalent est réputé reçu par le destinataire à la date de sa mise à la poste.
+[2] Fanshawe College, par. 58.
+[3]Fanshawe College, par. 60.

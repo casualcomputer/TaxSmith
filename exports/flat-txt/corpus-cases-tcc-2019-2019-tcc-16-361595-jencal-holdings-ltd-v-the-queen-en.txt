@@ -1,0 +1,209 @@
+Title: Jencal Holdings Ltd. v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/361595/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-16-361595-jencal-holdings-ltd-v-the-queen-en.md
+Document type: case_law
+Last modified: 2019-01-18
+
+# Jencal Holdings Ltd. v. The Queen
+
+- Citation: 2019 TCC 16
+- Decision date: 2019-01-18
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4337, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jencal Holdings Ltd. v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-01-18
+Neutral citation
+2019 TCC 16
+File numbers
+2016-3757(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-3757(IT)G
+BETWEEN:
+JENCAL HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeals heard on October 24, 25 and 26, 2018, at Vancouver, British Columbia
+Before: The Honourable Justice David E. Graham
+Appearances:
+Counsel for the Appellant:
+Michel Bourque
+Jacqueline A. Fehr
+Counsel for the Respondent:
+Whitney Dunn
+Lisa Macdonell
+JUDGMENT
+The appeals of the Appellant’s taxation years ending February 28, 2013 and 2014 are dismissed.
+The appeal of the Appellant’s taxation year ending February 29, 2012 is allowed and the matter referred back to the Minister of National Revenue for reassessment on the basis that the interest income that the Appellant received from Kal Tire Holdings Ltd. is to be treated as active business income.
+Costs are awarded to the Respondent. The parties shall have 30 days from the date hereof to reach an agreement on costs, failing which the Respondent shall have a further 30 days to file written submissions on costs and the Appellant shall have yet a further 30 days to file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, costs shall be awarded to the Respondent as set out in the Tariff.
+Signed at Ottawa, Canada, this 18th day of January 2019.
+“David E. Graham”
+Graham J.
+Citation: 2019 TCC 16
+Date: 20190118
+Docket: 2016-3757(IT)G
+BETWEEN:
+JENCAL HOLDINGS LTD.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Graham J.
+[1] This appeal involves the application of the specific anti-avoidance rule found in subsection 256(2.1) of the Income Tax Act.
+[2] Kal Tire is a global tire business with roots in western Canada. The business was established by the late Tom Foord and was carried on by a large number of companies and subsidiaries. All of those entities were owned by the Kal Tire Partnership. Mr. Foord’s interest in the Kal Tire Partnership was held indirectly through a company called Kal Tire Holdings Ltd. (“KT Holdings”).
+[3] In 2007, KT Holdings underwent a significant reorganization (the “2007 Reorganization”). The 2007 Reorganization included the creation of one holding company for each of Mr. Foord’s five children (the “HoldCos”). The Appellant is the HoldCo that was created for one of Mr. Foord’s daughters, Jean Finch.
+[4] The 2007 Reorganization was designed in a way that allowed the HoldCos to claim the small business deduction in respect of active business income that flowed to them from KT Holdings.
+[5] The Minister of National Revenue reassessed the Appellant’s taxation years ending February 29, 2012, February 28, 2013 and February 28, 2014 to deny the Appellant the small business deduction. In doing so, the Minister relied on the specific anti-avoidance rule in subsection 256(2.1).
+[6] Subsection 256(2.1) prevents a company from claiming the small business deduction if it may reasonably be considered that one of the main reasons for the separate existence of that company was to reduce the amount of taxes that would otherwise be payable under the Act. Subsection 256(2.1) states that:
+For the purposes of this Act, where, in the case of two or more corporations, it may reasonably be considered that one of the main reasons for the separate existence of those corporations in a taxation year is to reduce the amount of taxes that would otherwise be payable under this Act . . ., the two or more corporations shall be deemed to be associated with each other in the year.
+[7] The issue in this appeal is whether one of the main reasons for the separate existence of the Appellant was to reduce the amount of tax that was otherwise payable under the Act. For the reasons set out in detail below, I find that it was.
+[8] I will first discuss how the separate existence of the Appellant resulted in a reduction in tax otherwise payable under the Act. Following that discussion, I will explain why I have concluded that this tax reduction was one of the main reasons for the Appellant’s separate existence.
+A. Tax Reduction
+[9] The Appellant admits that its separate existence resulted in a reduction in tax otherwise payable under the Act. However, I think that it is nonetheless important to understand how that tax reduction was achieved. In order to do that, it is necessary to first understand more about the relevant corporate structure and the small business deduction.
+Previous corporate structure
+[10] Prior to the 2007 Reorganization, the structure of Mr. Foord’s investment in the Kal Tire Partnership was relatively straightforward. The structure was the result of an estate freeze that occurred in 1987. The following is a simplified description of the structure. Mr. Foord’s interest in the Kal Tire Partnership was held by a company known as Kal Tire Ltd. Kal Tire Ltd. was a wholly owned subsidiary of KT Holdings. Mr. Foord controlled KT Holdings through a class of voting preferred shares. The common shares of KT Holdings were owned by a trust known as the Kal Management Trust. The five Foord children (Jean Finch, Colin Foord, Nancy Kurbis, Janet Bowers and Robert Foord) were beneficiaries of the trust. Mr. Foord was the trustee.
+[11] The Respondent provided a simplified diagram depicting the structure prior to the 2007 Reorganization. A copy is attached as Appendix “A”.
+Small business deduction pre-reorganization
+[12] Pursuant to section 125, Canadian-controlled private corporations are taxed at a lower rate on their first $500,000 of active business income. However, subsection 125(5.1) eliminates the small business deduction if a corporation becomes too large. It does so by grinding a corporation’s business limit for a taxation year to the extent that the corporation and any corporations associated with the corporation have significant taxable capital employed in Canada. The grind completely eliminates the business limit once the taxable capital employed in Canada exceeds $15,000,000.
+[13] From 2001 to 2007, subsection 125(5.1) prevented KT Holdings and Kal Tire Ltd. from claiming the small business deduction. [1]
+2007 Reorganization
+[14] The 2007 Reorganization resulted in a significant change in the structure of KT Holdings. The 2007 Reorganization saw the distribution of the shares of the Kal Management Trust to the Foord children, the creation of the HoldCos, the transfer of the Foord children’s shares to the HoldCos and the freezing of the interests of four of the Foord children in their HoldCos in favour of four new family trusts.
+[15] The following is a simplified description of the structure that existed after the 2007 Reorganization. Each HoldCo held 20% of the shares of a class of voting, non-participating common shares of KT Holdings. Each HoldCo also owned 100% of the shares of one of five classes of non-voting, participating common shares of KT Holdings.
+[16] As a result of the 2007 Reorganization, Jean Finch owned preferred shares in the Appellant that effectively froze all of the value of the Appellant’s interest in KT Holdings. Ms. Finch also owned voting, non-participating common shares in the Appellant. A trust known as the Jean Finch Family Trust held voting, participating common shares in the Appellant for the benefit of Ms. Finch’s children and grandchildren. Jean Finch was the trustee of that trust.
+[17] The shares of the HoldCos for Colin Foord, Nancy Kurbis and Janet Bowers were held in the same manner as that of the Appellant with those Foord children having frozen their interests in favour of trusts for their children and grandchildren. Robert Foord owned all of the shares of his HoldCo. He did not have a family trust.
+[18] The Respondent provided a simplified diagram depicting the structure following the 2007 Reorganization. A copy is attached as Appendix “B”.
+Small business limit post-reorganization
+[19] After the 2007 Reorganization, each HoldCo was associated with KT Holdings. That meant that, pursuant to subsection 256(2), each HoldCo was deemed to be associated with each other HoldCo for the purposes of the Act.
+[20] Under section 125, associated corporations are generally required to share one $500,000 business limit among themselves. However, when two corporations are associated with each other by virtue of their common association with a third company (in this case KT Holdings), the third company may make an election under subsection 256(2) not to be associated with either of the other companies for the purpose of section 125. KT Holdings made that election. The result was that each HoldCo was able to maintain its own $500,000 business limit.
+Dividend and loan transactions
+[21] The 2007 Reorganization also involved a series of dividend and loan transactions. Pursuant to those transactions, Kal Tire Ltd. withdrew funds from the Kal Tire Partnership. It used those funds to pay dividends to KT Holdings. KT Holdings then used those funds to pay dividends to each HoldCo. The HoldCos then took the funds that they had received and lent them back to KT Holdings, which lent them to Kal Tire Ltd., which recontributed the funds to the partnership. This series of dividend and loan transactions happened several times in the years following the 2007 Reorganization. The amount of dividends paid and the interest rate on the loans were chosen to ensure that, once all of the transactions had occurred, each HoldCo would earn $500,000 of interest income each year. [2]
+Conversion into active business income
+[22] Only active business income qualifies for the small business deduction. Normally, passive interest income earned by a corporation is taxed as income from property rather than as active business income. However, if a Canadian‑controlled private corporation pays interest to an associated corporation, then, pursuant to paragraph 129(6)(b), that interest is deemed to be active business income of the associated corporation.
+[23] The election that KT Holdings made under subsection 256(2) not to be associated with each HoldCo only applied for the purposes of section 125. It did not apply for other purposes of the Act. As a result, KT Holdings and each HoldCo were deemed to be associated for the purposes of paragraph 129(6)(b) and the interest income that the HoldCos received from KT Holdings was deemed to be active business income.
+Tax reduction
+[24] As a result of the 2007 Reorganization and the elections described above, the Appellant had active business income of $500,000 and a corresponding small business limit of $500,000 in each of the years in question. This allowed the Appellant to claim a small business deduction of approximately $84,000 each year. [3]
+[25] If the Appellant did not exist, this tax reduction would not have occurred. The interest income earned by the Appellant would instead have been earned by Jean Finch and/or the Jean Finch Family Trust, neither of whom was entitled to claim the small business deduction. Thus, the first condition of subsection 256(2.1) has been met. The separate existence of the Appellant has resulted in a reduction of tax that would otherwise have been payable under the Act.
+B. Separate Existence
+[26] Subsection 256(2.1) requires me to consider whether one of the main reasons for the separate existence of the Appellant in each year was the reduction of tax. There may be more than one main reason for the separate existence of a company. [4] The burden is on the Appellant to show that reducing tax was not one of the main reasons for its separate existence. The Appellant has not done so. I reach this conclusion for five reasons:
+(a) there was no direct evidence of the main reasons for the Appellant’s separate existence;
+(b) there was no direct evidence of the main reasons for the separate existence of the other HoldCos;
+(c) the indirect evidence of the main reasons for the separate existence of the HoldCos was not reliable;
+(d) the documentary evidence indicates that tax reduction was an important reason for the use of the HoldCos; and
+(e) most of the alternative explanations offered for the separate existence of the HoldCos were not convincing.
+No direct evidence of the main reasons for the separate existence of the Appellant
+[27] The Appellant did not call Jean Finch as a witness. Ms. Finch is the individual who incorporated the Appellant. She, more than anyone, would have the best knowledge of the main reasons why the Appellant existed. As Associate Chief Justice Lamarre observed in Gerbro Holdings Co. v. The Queen, [5] a “person’s reasons for doing something are intrinsically personal”. While I may be able to infer Ms. Finch’s main reasons for the existence of the Appellant from other evidence, hearing those reasons directly from her would have been preferable.
+[28] Jean Finch is married to Ken Finch. The Appellant also did not call Mr. Finch as a witness. Mr. Finch is a partner in the Kal Tire Partnership and is currently the chair of Kal Tire’s board. [6] Mr. Finch was very involved in the family discussions leading up to the 2007 Reorganization. My understanding is that he represented a competing perspective as to how KT Holdings should be owned and managed after the 2007 Reorganization. As such, Mr. Finch would have had significant personal insight into the main reasons for the separate existence of the Appellant.
+[29] The Appellant did not provide me with any compelling reason why Ms. or Mr. Finch could not have testified.
+[30] The Respondent has asked me to draw an adverse inference from the failure of either of Ms. or Mr. Finch to testify. In the circumstances, I think it is appropriate for me to do so. I infer that, had either of them been called to testify, their evidence would not have supported the Appellant’s position. That said, drawing this inference does not affect my conclusion. In the absence of direct testimony from Ms. or Mr. Finch, there is simply insufficient evidence to prove the Appellant’s position.
+No direct evidence of the main reasons for the separate existence of the other HoldCos
+[31] None of the owners of the other HoldCos testified. Had they done so, I might have been able to infer that the main reasons for the separate existence of the Appellant were the same or similar to the reasons for the separate existence of the other HoldCos. While I do not draw an adverse inference from the failure of these individuals to testify, the absence of their evidence harms the Appellant’s position.
+The indirect evidence was not reliable
+[32] The only oral evidence of the main reasons for the separate existence of the HoldCos came from a lawyer named Doug Lemiski. Mr. Lemiski is a partner in the Kal Tire Partnership and has been a senior vice president at Kal Tire since 2013. However, during the years surrounding the 2007 Reorganization, he was a partner at the law firm that advised Kal Tire. At first, Mr. Lemiski worked only on Kal Tire’s commercial matters but, over time, he also began to provide advice to Mr. Foord and members of the Foord family.
+[33] Mr. Lemiski described the key players in the Foord family in the early 2000s as follows. Mr. Foord was still active in the big-picture aspects of the business but had moved away from day-to-day operations. Colin Foord was involved in the business but not in a meaningful way. Robert Foord had significant involvement in the business. He was a partner in the Kal Tire Partnership. [7] Tom Foord hoped that Robert would succeed him as the leader of the business. Nancy Kurbis, Jean Finch and Janet Bowers had no involvement in the business. However, Nancy Kurbis’ husband, Ken Kurbis, was in-house legal counsel at Kal Tire and, as described above, Mr. Finch was a partner in the Kal Tire Partnership. By 2007, Mr. Finch was second in command in the business. He ultimately became president of Kal Tire when Tom Foord stepped aside following the 2007 Reorganization.
+[34] At numerous points in his testimony, Mr. Lemiski described the intentions or motivations of Mr. Foord, the Foord children, Mr. Kurbis and Mr. Finch. These descriptions are hearsay. The Respondent did not object to the testimony so I allowed it to come in. However, the question remains how much weight I should give to this evidence.
+[35] I am not prepared to give any weight to Mr. Lemiski’s evidence regarding the intentions and motivations of the Foord children, Mr. Kurbis and Mr. Finch. There was no suggestion that these individuals were unavailable to testify. Furthermore, I have serious concerns about the reliability of Mr. Lemiski’s evidence of their intentions and motivations. My concern is that these individuals may not have been forthright with Mr. Lemiski. Mr. Lemiski testified that, during the consultations and negotiations leading up to the 2007 Reorganization, he provided advice to Mr. Foord, KT Holdings, the Foord children, Mr. Kurbis and Mr. Finch. Mr. Lemiski testified that the Foord children, Mr. Kurbis and Mr. Finch had conflicting views on how KT Holdings should be governed. In particular, Mr. Lemiski observed that Mr. Finch and Mr. Kurbis did not see eye to eye regarding the future governance of both the Kal Tire Partnership and KT Holdings and the intergenerational transfer of shares. Mr. Lemiski’s observation was that Mr. Finch was focused on his family’s interests over the interests of the Foord family as a whole and that Mr. Kurbis was focused on preventing the Finch family from gaining control. Since Mr. Lemiski’s conversations with all of these individuals would not have been privileged and since the individuals knew that Mr. Lemiski was talking to everyone involved, I have real concerns that some or all of these individuals may have been circumspect in what they told Mr. Lemiski or may even have told him things that were inaccurate. As a result, while I accept that Mr. Lemiski has truthfully conveyed to me what he was told by these individuals, I am not satisfied that I can rely on the accuracy of the underlying statements.
+[36] I reach a different conclusion in respect of Mr. Lemiski’s testimony regarding Mr. Foord’s intentions. Mr. Foord is deceased. He died before the litigation commenced. As a result, it would not have been possible to obtain his evidence directly. I accept that Mr. Lemiski was a close confidant of Mr. Foord and that, in particular, Mr. Lemiski was heavily involved with Mr. Foord throughout the discussions leading up to the 2007 Reorganization. I see little motivation for Mr. Foord to have been anything but forthcoming with Mr. Lemiski.
+[37] Mr. Lemiski explained that Mr. Foord had always been focused on growing the business rather than creating personal wealth for himself and his family. As a result, Kal Tire Partnership had a policy of retaining profits in the business and paying its partners only what Mr. Lemiski described as relatively modest draws. Although the capital accounts of the partners grew, the partners had no right to access their accounts prior to retirement. Mr. Lemiski testified that Mr. Foord’s priorities leading into the 2007 Reorganization were to ensure that the business continued to grow, to maintain family involvement in and ownership of the business through successive generations, to maintain the existing philosophy of a modest but secure lifestyle for family members and to ensure that all of these things happened in a way that maintained or increased family harmony. I accept that these were Mr. Foord’s goals. The problem for the Appellant is that none of these goals specifically requires the use of holding companies for each of Mr. Foord’s children.
+Documentary evidence
+[38] The best evidence that I have of the main reasons for the separate existence of the Appellant is the documentary evidence. That evidence indicates that reducing tax was one of the main reasons for the separate existence of the HoldCos.
+[39] The impetus for the 2007 Reorganization was the need for the Kal Management Trust to distribute its shares in KT Holdings to the trust’s beneficiaries before the 21-year rule in subsection 104(4) forced a deemed disposition of the shares at their fair market value. The 21-year rule would have come into effect in February 2008.
+[40] In 1998, KPMG prepared an initial plan for distributing the shares (the “1998 Plan”). [8] The plan called for a winding up of the Kal Management Trust, the distribution of the trust’s shares in KT Holdings to the Foord children and the freezing of the Foord children’s interests in favour of family trusts for each child. The 1998 Plan raised many issues regarding corporate and partnership governance, the inter-generational transfers of shares and dividend policies. The 1998 Plan did not contemplate the use of holding companies. The 1998 Plan was not executed. [9]
+[41] In a letter sent in June 2000, KPMG commented further on the succession plan (the “2000 Letter”). KPMG continued to call for the winding up of the Kal Management Trust and the distribution of the trust’s shares in KT Holdings to the Foord children. However, when discussing the potential freezing of the Foord children’s interests in favour of family trusts, KPMG suggested that any child who chose to freeze his or her interest would likely accomplish that by using a personal holding company. The 2000 Letter is the first documentary evidence of a discussion of the use of holding companies. The fact that the idea of holding companies was discussed prior to the creation of the tax reduction plan is important as it indicates that there may have been another reason for their separate existence. It is not, however, determinative. The test is not whether tax reduction was the first reason for incorporating the Appellant. The test is whether it was one of the main reasons for the Appellant’s existence in the years in question.
+[42] In December 2000, a meeting was held among the Foord family members and others. A document purporting to be the minutes of that meeting was entered into evidence. [10] These purported minutes are hearsay. The Respondent did not object to their introduction into evidence so I allowed them in. That does not, however, mean that I have to give them any weight. According to the purported minutes, one of the topics that was discussed was the use of holding companies. Mr. Lemiski was present at the meeting but left immediately before that discussion occurred so he cannot confirm that the minutes are accurate. The minutes were prepared by Ken Kurbis. On their face, they have neither been signed nor approved by anyone else in attendance. Mr. Kurbis was not called to testify. As set out above, I am not aware of any reason why Mr. Kurbis could not have testified. Furthermore, given the conflict that Mr. Lemiski described among the Foord family members, I am concerned that the views stated in the minutes may represent only Mr. Kurbis’ perspective rather than the perspective of all family members. Mr. Lemiski made it clear that, in his view, Mr. Kurbis often acted as if he spoke for the entire family despite the fact that it was clear that he did not. Given the apparent conflict between Mr. Kurbis and Mr. Finch, I am particularly concerned that the minutes may not reflect Ms. Finch’s perspective on the use of holding companies. Since hers is the perspective that truly matters, I believe that the risk of giving weight to these purported minutes outweighs the probative value of doing so.
+[43] In March 2001, Mr. Lemiski prepared a memo regarding a proposed shareholders’ agreement for KT Holdings. Mr. Lemiski testified that he does not have a clear recollection of when or where the concept of holding companies was introduced but that, by this time, it was imbedded in the discussions. In the memo, Mr. Lemiski stated that “[a]s I understand the current proposed structure, each branch of the family will become shareholders in a holding corporation which will hold shares in [KT Holdings]”. [11] Mr. Lemiski also described his understanding that “the holding company structure has been established in order to ensure that the shares in [KT Holdings] never come under control of third parties”. [12]
+[44] In January 2002, KPMG gave instructions to Mr. Lemiski’s firm to create five new holding companies as part of an updated reorganization that included the use of dividend and loan transactions to access the small business deduction (the “2002 Plan”). This is the first documentary evidence of a desire to multiply the small business limit. KPMG formally presented the 2002 Plan to the Foord family. Tax minimization was identified as one of three objectives of the 2002 Plan. The multiplication of the small business limit was one of the highlighted tax benefits. Tax minimization was the only identified objective that required the use of holding companies. The other objectives (business continuity and retention of control by the Foord children) did not require the use of holding companies. The fact that KPMG described these objectives does not mean that they were Ms. Finch’s objectives. However, it is evidence that Ms. Finch was aware, as early as 2002, that tax reduction would result from the use of a holding company.
+[45] In 2004, KPMG sent Ken Kurbis a planning memo setting out the specific steps and share structures necessary to access the multiple small business limits (the “2004 Memo”).
+[46] In 2006, KPMG made a presentation in which it continued to emphasize the tax benefits of the structure. The presentation specifically highlighted the small business deduction as an advantage of using holding companies. The presentation did not identify any non-tax reasons for using holding companies. Again, this is not evidence that tax reduction was one of Ms. Finch’s objectives, but it is evidence that in the year before the reorganization occurred, Ms. Finch was reminded of the significant tax benefits of using a holding company.
+[47] The 2007 Reorganization proceeded in substantially the same manner contemplated by the 2002 Plan as set out in the 2004 Memo.
+[48] In 2008, even after the reorganization had already occurred, KPMG continued to make presentations emphasizing the tax benefits of the structure.
+[49] In summary, the documentary evidence shows that, over the five years leading up to the incorporation of the Appellant, Ms. Finch was made aware of the tax advantages of using a holding company at least twice. While the documentary evidence shows that other reasons for the use of holding companies were raised, there is no reliable documentary evidence that suggests that Ms. Finch was aware of these reasons.
+Alternative explanations
+[50] The Appellant provided me with a number of alternative explanations for the separate existence of the HoldCos. I did not find most of these explanations compelling.
+[51] In his testimony, Mr. Lemiski appeared to be trying to create the impression that the HoldCos played an essential part in resolving the discord that plagued the Foord family. However, he did not actually identify how the HoldCos did so. It was as if Mr. Lemiski hoped that if he pointed out enough pre-reorganization problems I would conclude that the separate existence of the HoldCos must have solved those problems. When I asked Mr. Lemiski to clarify how the HoldCos solved these problems, he became evasive, neither confirming my concerns that the HoldCos would have had nothing to do with the solutions nor explaining why I was wrong.
+[52] Mr. Lemiski explained that corporate governance and the orderly transfer of shares to the next generation (i.e. Mr. Foord’s grandchildren) were both significant issues that were examined in the years leading up to the 2007 Reorganization. I accept that this was the case. It was clear from the evidence that these issues were the primary hurdles for the family to overcome in the negotiations. A number of external advisors were brought in to help the family address these issues. However, it is unclear to me how the separate existence of the HoldCos addressed these issues in a manner that a comprehensive shareholders’ agreement could not have. It seems to me that these issues would have existed with or without the HoldCos and, to an extent, were amplified by the insertion of the HoldCos. Mr. Lemiski became evasive when I asked him for clarification of this point. I would also observe that these issues were not fully addressed until sometime after the 2007 Reorganization. Finally, I would note that, while the family wrestled with these issues for more than five years, during that period almost nothing about the corporate structure changed. This suggests that the existence of the HoldCos was driven by something other than concerns about intergenerational transfers and corporate governance.
+[53] Mr. Lemiski explained that it was important to some of the Foord family that ownership of the shares of KT Holdings did not fall into the hands of non-blood relatives. He expressed that, if such a policy were implemented, it would potentially cause a problem if a Foord child died prior to his or her spouse. He explained that the solution to this problem was that KT Holdings would acquire life insurance policies on the Foord children’s lives and would use the proceeds of those policies to buy out the interest of a deceased child’s HoldCo in KT Holdings. Mr. Lemiski appeared to want me to conclude that this was a reason for the separate existence of the HoldCos. I cannot see the connection. I acknowledge that life insurance funded buyouts are a common feature in shareholders’ agreements. However, my understanding is that life insurance funded buyouts work regardless of whether the deceased shareholder’s shares are held through a holding company or not. Again, Mr. Lemiski became evasive when I asked for clarification of whether I had misunderstood his explanation.
+[54] During the course of the hearing, the Appellant acknowledged that creditor protection was not a reason for the separate existence of the HoldCos.
+[55] The Appellant submits that investment planning was a main reason for the separate existence of the HoldCos. I acknowledge that holding companies are commonly used to allow individual shareholders to make personal, tax-effective decisions about how they want to deal with dividends that they have received from an operating company. Some shareholders may need all of the money to fund their annual expenses. These shareholders derive little benefit from using a holding company. Other shareholders may have no immediate personal use for the money and may prefer to invest it in passive investments or in some other business venture. For these shareholders, a holding company provides significant flexibility. My understanding is that some of the Foord children were better off financially than the others. In theory, those children may have had more use for a holding company for investment planning purposes. However, since the Kal Tire Partnership had a policy of not distributing profits and KT Holdings had a history of providing shareholders with a relatively modest income and an expressed goal of continuing that policy, it is more difficult to see how any of the Foord children would have benefitted from using holding companies for investment planning purposes. The dividend and loan transactions resulted in significant dividends being paid to the HoldCos, but those funds were immediately lent back to KT Holdings. It does not appear that any HoldCo had the option of keeping the funds for its own purposes. More importantly, I am concerned not with a hypothetical benefit that a holding company may have offered, but rather with the actual benefit that Ms. Finch derived or intended to derive from the Appellant. I have no evidence of that benefit. In summary, I am unwilling to consider investment planning to be a main reason for the HoldCo’s existence. There is no direct evidence in support of the idea and the indirect evidence suggests it is unlikely.
+[56] One of the benefits of the 2007 Reorganization was the reduction of future tax payable by the estates of four of the Foord children. This benefit was achieved through estate freezes that passed the future growth in value of Kal Tire onto the next generations. It would have been possible to directly freeze each child’s interest in KT Holdings. This was what the 1998 Plan contemplated. However, using individual holding companies to effect the freezes undoubtedly provided greater estate planning flexibility for each child. I accept that this may have been a main reason for the use of the HoldCos, possibly the reason that caused KPMG to introduce holding companies in the 2000 Letter.
+[57] In summary, of the alternative explanations that the Appellant offered for the separate existence of the HoldCos, only estate planning is supported by the evidence.
+Conclusion
+[58] Based on all of the foregoing, I find that the reduction of tax was a main reason for the separate existence of the HoldCos. The documentary evidence shows that tax reduction emerged as a main reason early in the planning process and, from that point forward, remained important. The initial structure that was suggested to achieve the tax benefits was the structure that was ultimately used.
+[59] The Appellant has highlighted four potential reasons for the separate existence of the HoldCos: estate planning for the Foord children, keeping ownership within the Foord family, corporate and partnership governance and investment planning.
+[60] I find that estate planning for the Foord children was likely a main reason for the separate existence of the HoldCos in general. However, as I have no evidence from Ms. Finch, I do not know whether this was a main reason for the separate existence of the Appellant.
+[61] I do not accept that keeping ownership within the Foord family was a reason for the separate existence of the HoldCos. The risk of ownership moving beyond the family existed with or without the HoldCos. The reduction of that risk did not come from introducing the HoldCos but rather through carefully drafted shareholders’ agreements and carefully planned life insurance funded buyout arrangements.
+[62] I do not accept that the need for proper corporate and partnership governance of KT Holdings and the Kal Tire Partnership was a reason for the separate existence of the HoldCos. I accept that the Foord family had very serious concerns about governance issues. However, I cannot accept that these concerns were in any way solved by creating the HoldCos. On the contrary, it appears that the creation of the HoldCos caused additional governance complexity.
+[63] I do not accept that investment planning was a main reason for the separate existence of the HoldCos. There was no evidence from the Foord children to support that position. Kal Tire’s long standing policy of not distributing profits suggests that the contrary was true.
+[64] Based on all of the foregoing, I find that the Appellant has failed to show it is reasonable to consider that none of the main reasons for the separate existence of the Appellant was the reduction of tax. Accordingly, I find that subsection 256(2.1) applied to deem the Appellant to be associated with KT Holdings in the years in question. As a result, subsection 125(5.1) applied to reduce the small business limit available to the Appellant to nil.
+C. Alternative Assessing Position
+[65] The Minister’s alternative assessing position was that the general anti-avoidance rule (the “GAAR”) applied to deny the Appellant the benefit of the small business deduction. Since I have concluded that subsection 256(2.1) applies, there is no need for me to consider the application of the GAAR.
+D. Concession
+[66] The Appellant reported the interest income that it received from KT Holdings as active business income. In reassessing the Appellant, the Minister erroneously recharacterized that interest income as being income from property. The Minister corrected that error in respect of two of the taxation years but not in respect of the third. At the commencement of the trial, the Respondent conceded that, regardless of the outcome at trial, the Appellant’s taxation year ending February 29, 2012 should be reassessed to characterize the interest income that the Appellant received from KT Holdings as active business income.
+E. Conclusion
+[67] Based on all of the foregoing, the appeal of the Appellant’s taxation year ending February 29, 2012 is allowed to give effect to the Respondent’s concession that the interest income that the Appellant received from KT Holdings was active business income. The appeals of the Appellant’s taxation years ending February 28, 2013 and 2014 are dismissed.
+[68] Costs are awarded to the Respondent. The parties shall have 30 days from the date hereof to reach an agreement on costs, failing which the Respondent shall have a further 30 days to file written submissions on costs and the Appellant shall have yet a further 30 days to file a written response. Any such submissions shall not exceed 10 pages in length. If the parties do not advise the Court that they have reached an agreement and no submissions are received within the foregoing time limits, costs shall be awarded to the Respondent as set out in the Tariff.
+Signed at Ottawa, Canada, this 18th day of January 2019.
+“David E. Graham”
+Graham J.
+Appendix “A”
+Pre-2007 Corporate Structure
+Appendix “B”
+Simplified Structure Post-2007 Reorganization
+CITATION:
+2019 TCC 16
+COURT FILE NO.:
+2016-3757(IT)G
+STYLE OF CAUSE:
+JENCAL HOLDINGS LTD. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+October 24, 25 and 26, 2018
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Graham
+DATE OF JUDGMENT:
+January 18, 2019
+APPEARANCES:
+Counsel for the Appellant:
+Michel Bourque
+Jacqueline A. Fehr
+Counsel for the Respondent:
+Whitney Dunn
+Lisa Macdonell
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Michel Bourque
+Jacqueline A. Fehr
+Firm:
+KPMG Law LLP
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] In these years, the business limit ranged from $200,000 to $400,000. It was raised to $500,000 in 2009 and remained at that level throughout the years in issue.
+[2] Each HoldCo received total dividends from KT Holdings of approximately $8.334 million and lent those funds back to KT Holdings at 6% interest.
+[3] Similar claims were made by Colin Foord’s, Nancy Kurbis’ and Janet Bowers’ HoldCos. My understanding is that Robert Foord’s HoldCo was associated with another company that already had sufficient active business income to use up its $500,000 business limit. Kal Tire Ltd.’s tax was also reduced as a result of the $2,500,000 deduction that it was able to claim on the interest it paid on the funds it borrowed from KT Holdings.
+[4] Gerbro (infra) and Groupe Honco Inc. v. The Queen, 2013 FCA 128.
+[5] 2016 TCC 173, at para. 154; upheld 2018 FCA 197.
+[6] Mr. Finch’s partnership interest is held through a corporation. The details of the corporate ownership are not material.
+[7] Like Tom Foord and Ken Finch, Robert Foord held his partnership interest through a corporation. The details of the corporate ownership are not material.
+[8] Exhibit J-1, Tab 7 contains a detailed plan. Exhibit J-1, Tab 21, pgs 12-20 contain the slides used to explain the plan.
+[9] Exhibit J-1, Tab 21, pgs 7-11 contains a memo prepared by Ken Kurbris that purports to set out what happened to the 1998 Plan. This document is hearsay. The Respondent did not object to it being entered into evidence. However, as Mr. Kurbris did not testify and as I have concerns about both the necessity of having to rely on this evidence without his testimony and on the reliability of the views expressed therein, I have not placed any weight on this document.
+[10] Exhibit J-1, Tab 18.
+[11] Exhibit J-1, Tab 19, pg 3.
+[12] Exhibit J-1, Tab 19, pg. 5.

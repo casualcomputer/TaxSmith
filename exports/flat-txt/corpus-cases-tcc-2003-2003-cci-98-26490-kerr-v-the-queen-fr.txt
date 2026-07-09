@@ -1,0 +1,111 @@
+Title: Kerr v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26490/index.do
+Corpus path: corpus/cases/tcc/2003/2003-cci-98-26490-kerr-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2003-03-03
+
+# Kerr v. The Queen
+
+- Citation: 2003 CCI 98
+- Decision date: 2003-03-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3238, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kerr v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-03-03
+Référence neutre
+2003 CCI 98
+Numéro de dossier
+2002-2352(IT)I
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Dossier : 2002-2352(IT)I
+ENTRE :
+HELENE KERR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 21 janvier 2003, à Toronto (Ontario)
+Devant : l'honorable D. G. H. Bowman, juge en chef adjoint
+Comparutions :
+Pour l'appelante :
+l'appelante elle-même
+Avocate de l'intimée :
+Me Nimanthika Kaneira
+____________________________________________________________________
+JUGEMENT
+Il est ordonné que l'appel interjeté à l'encontre de la cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l'année d'imposition 2000 soit rejeté.
+Signé à Ottawa, Canada, ce 3e jour de mars 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 24e jour de novembre 2004.
+Sophie Debbané, réviseure
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Référence : 2003CCI98
+Date : 20030303
+Dossier : 2002-2352(IT)I
+ENTRE :
+HELENE KERR,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge en chef adjoint Bowman, C.C.I.
+[1] Le présent appel a été interjeté à l'encontre d'une nouvelle cotisation établie à l'égard de l'appelante pour l'année d'imposition 2000. Il se rapporte au refus du ministre du Revenu national de permettre à l'appelante de déduire des frais de garde d'enfant de l'ordre de 1 170 $.
+[2] Jusqu'au 16 décembre 2000, l'appelante était une mère célibataire qui subvenait aux besoins de son fils issu d'un mariage précédent. Au cours des années précédentes, elle avait demandé et obtenu le crédit équivalent pour personne entièrement à charge en vertu de l'alinéa 118(1)b) de la Loi de l'impôt sur le revenu ainsi que la déduction des frais de garde d'enfant en vertu de l'article 63.
+[3] Le 16 décembre 2000, elle s'est remariée. Le revenu de son conjoint en l'an 2000 était inférieur au sien. Elle a demandé le crédit équivalent pour personne entièrement à charge en vertu de l'alinéa 118(1)b) et l'a obtenu. Elle a fait une demande de déduction des frais de garde d'enfant mais elle a été rejetée; toutefois, elle a été accordée à son conjoint.
+[4] Elle soutient qu'il est anormal qu'elle obtienne le crédit équivalent pour personne entièrement à charge mais pas la déduction des frais de garde d'enfant même si elle subvenait entièrement aux besoins de son fils et payait les frais avant de se marier.
+[5] Je reconnais qu'il semble plutôt étrange qu'alors qu'elle payait les frais avant son mariage le 16 décembre 2000, son conjoint, qui ne payait rien, devrait obtenir la déduction du seul fait que son revenu était inférieur au sien en l'an 2000.
+[6] Le fait que l'appelante ait obtenu le crédit équivalent pour personne entièrement à charge bien qu'elle se soit mariée vers la fin de 2000 est assez facile à expliquer. Les conditions nécessaires à l'application du crédit en vertu de l'alinéa 118(1)b) (notamment, être célibataire et subvenir aux besoins de son enfant qui était entièrement à sa charge) sont remplies pourvu qu'elles aient existé « à un moment de l'année » . Elles existaient certainement jusqu'au 16 décembre 2000.
+[7] Les dispositions législatives de l'article 63 sont plus complexes. L'idée généralement admise est que les frais de garde d'enfants visés à l'article 63 ne peuvent être déduits que par le conjoint dont le revenu est le moins élevé. La Cour d'appel fédérale est arrivée à cette conclusion dans l'affaire Kuchta c. Canada, [1999] A.C.F. no 1427, où l'appelante payait les frais mais son conjoint, qui n'avait aucun revenu, avait droit à la déduction parce que son revenu était inférieur.
+[8] Dans deux causes entendues par le juge O'Connor, Stone v. Canada, [2000] T.C.J. no 619, et Kwarteng c. R., [2001] A.C.I. no390, une situation presque identique à celle-ci s'est produite lorsque les contribuables, qui avaient assumé tous les frais de garde d'enfants avant leur mariage à la fin de l'année avec des conjoints dont le revenu était inférieur au leur, se sont vus refuser la déduction. Dans les trois affaires, la Cour s'est dite navrée du résultat injuste mais elle a précisé que la loi était claire et qu'elle devait s'appliquer.
+[9] Toutes ces affaires concernaient des années d'imposition antérieures (1995 ou 1996). L'article 63 est régulièrement modifié et il est fort probable que le gouvernement tienne toujours à ce que le conjoint dont le revenu est le plus faible obtienne la déduction indépendamment de la personne qui paie les frais et nonobstant l'injustice ou l'iniquité du résultat. Si c'est ce qu'indique l'article 63 tel qu'il s'appliquait à l'année d'imposition 2000, je dois, bien entendu, y donner suite.
+[10] Le paragraphe 63(1) se lisait en partie comme suit en 2000 :
+Sous réserve du paragraphe (2), lorsque le formulaire prescrit contenant les renseignements prescrits accompagne la déclaration de revenu d'un contribuable produite en vertu de la présente partie pour une année d'imposition (à l'exclusion de celle produite ou déposée en application des paragraphes 70(2) ou 104(23), de l'alinéa 128(2)e) ou du paragraphe 150(4)), est déductible dans le calcul du revenu du contribuable pour l'année le montant qu'il demande, ne dépassant pas le total des montants représentant chacun un montant, au titre des frais de garde d'enfants engagés pour des services rendus au cours de l'année relativement à un enfant admissible du contribuable, payé :
+(a) par le contribuable, lorsqu'il est un contribuable visé au paragraphe (2) et que la personne assumant les frais d'entretien de l'enfant pour l'année est une personne visée au sous-alinéa (2)b)(vi);
+(b) par le contribuable ou la personne assumant les frais d'entretien de l'enfant pour l'année, dans les autres cas,
+dans la mesure où [...] :
+[...]
+[11] Il s'ensuit un certain nombre de conditions et de restrictions qui n'ont rien à voir avec la question qui nous concerne présentement.
+[12] Selon la définition de « personne assumant les frais d'entretien » qui figure au paragraphe 63(3), le conjoint est la personne assumant les frais d'entretien de l'enfant admissible de l'appelante.
+[13] Le problème que pose la partie du paragraphe 63(1) que je viens de citer ci-dessus est que le paragraphe 63(2) en l'an 2000 ne comportait aucun sous-alinéa (2)b)(vi). Par conséquent, l'une des deux conditions de l'alinéa 63(1)a) ne pouvait être satisfaite, à savoir que la personne assumant les frais d'entretien de l'enfant devait être visée au sous-alinéa (2)b)(vi). Auparavant, il y avait le sous-alinéa (2)b)(vi). Il décrivait une personne qui, pour cause d'échec de son mariage, vivait séparée du contribuable à la fin de l'année.
+[14] Cette erreur flagrante a été relevée par le réviseur de la 29e édition (2000) de la Loi de l'impôt sur le revenu de Stikeman où une note de bas de page se rapportant au renvoi au sous-alinéa (2)b)(vi) se lit comme suit :
+[TRADUCTION]
+Sic. Il faut désormais se reporter à l'article 63(1)b)C(i)(D).
+[15] L'erreur a été corrigée par le projet de loi technique de 2001, en vigueur pour 1998 et les années suivantes, de façon à remplacer le renvoi au sous-alinéà 63(2)b)(vi) par le renvoi à l'article 63(1)b)C(i)(D). L'alinéa 63(1)a), dans sa version modifiée, se lit maintenant comme suit :
+(a) par le contribuable, lorsqu'il est un contribuable visé au paragraphe (2) et que la personne assumant les frais d'entretien de l'enfant pour l'année est une personne visée à la division (i)(D) de l'élément C de la formule figurant à l'alinéa (2)b).
+[16] Bien qu'il y ait une présomption à l'encontre des dispositions fiscales rétroactives, elle peut être réfutée si le libellé est clair, comme c'est le cas en l'espèce (C.I. Mutual Funds Inc. c. Canada, [1999] 2 C.F. 613 (C.A.)).
+[17] La personne visée à la division (D) de l'élément C de la formule est une personne qui vit séparée du contribuable pour cause d'échec de leur mariage.
+[18] Le conjoint de l'appelante ne répondait pas à ces critères en 2000. Par conséquent, l'alinéa 63(1)a) ne s'applique pas et l'alinéa 63(1)b) permet donc au contribuable ou à la personne qui assume les frais d'entretien de faire cette déduction, sous réserve du paragraphe 63(2). Aux termes du paragraphe 63(2), le contribuable n'a aucun droit à la déduction.
+[19] L'appelante est une personne intelligente qui se trouve piégée dans un bourbier législatif débouchant sur ce qu'elle considère, à juste titre, comme un résultat injuste et même absurde. J'ai dit à d'autres occasions qu'il est inacceptable qu'une mesure législative qui touche autant de gens, comme les dispositions relatives à la pension alimentaire pour enfants de l'article 63 ou les dispositions relatives à la pension alimentaire pour enfants et les articles portant sur l'entretien et la pension alimentaire de la Loi de l'impôt sur le revenu, soit parmi les plus complexes de la Loi.
+[20] L'appelante a droit à une explication. Le paragraphe 63(1) lui donne le droit de déduire les frais de garde d'enfant. Le paragraphe 63(2) le lui retire si elle gagne plus que son conjoint. Elle a le droit de déduire le montant le moins élevé qu'elle pouvait autrement déduire en vertu du paragraphe 63(1) ainsi qu'un montant déterminé par la formule (A + B) x C, avant sa modification rétroactive de 2001 applicable à l'an 2000.
+[21] Aux termes de la disposition antérieure, la formule était la suivante: « A » représente 175 $ x le nombre d'enfants admissibles de moins de 7 ans (ou d'autres personnes déficientes à charge) tandis que « B » représente 100 $ x le nombre d'enfants admissibles de 7 ans et plus.
+[22] Dans le cas de l'appelante, cela serait 100 $ puisque son fils a 14 ans.
+[23] Toutefois, « C » est égal à zéro parce qu'il représente le nombre de semaines au cours desquelles son conjoint etait un étudiant inscrit dans un établissement d'enseignement, une personne attesté comme étant incapable de prendre soin des enfants à cause d'une infirmité mentale ou physique, une personne en prison ou séparé d'elle pour cause d'échec du mariage.
+[24] Son nouveau conjoint n'était rien de tout cela.
+[25] Je dois préciser que la formule (A + B) x C n'existe que depuis trois ans, au cours desquels l'article 63 a été modifié chaque année. En 2001, une nouvelle formule, A x C, a été établie rétroactivement à 2000.
+[26] À la lumière de l'erreur législative dont j'ai fait état précédemment, j'ai invité les parties à soumettre une plaidoirie écrite. Bien que l'appelante ne soit pas avocate, sa plaidoirie écrite était claire, soigneusement formulée et bien réfléchie, et elle illustre le résultat anormal auquel aboutit la loi.
+[27] Malheureusement, en dépit du fait que la loi puisse être difficile à comprendre, il semble clair, une fois qu'on arrive à la comprendre, que l'appelante n'a pas droit à la déduction.
+[28] À regret, je dois rejeter l'appel.
+Signé à Ottawa, Canada, ce 3e jour de mars 2003.
+« D. G. H. Bowman »
+J.C.A.
+Traduction certifiée conforme
+ce 24e jour de novembre 2004.
+Sophie Debbané, réviseure

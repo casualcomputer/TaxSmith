@@ -1,0 +1,211 @@
+Title: Gagné-Lessard Sports Inc. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27787/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-300-27787-gagn-lessard-sports-inc-c-la-reine-en.md
+Document type: case_law
+Last modified: 2007-07-16
+
+# Gagné-Lessard Sports Inc. c. La Reine
+
+- Citation: 2007 TCC 300
+- Decision date: 2007-07-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 268, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Gagné-Lessard Sports Inc. c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-16
+Neutral citation
+2007 TCC 300
+File numbers
+2004-3730(GST)G
+Judges and Taxing Officers
+Pierre Archambault
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2004-3730(GST)G
+BETWEEN:
+GAGNÉ-LESSARD SPORTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on April 2, 2007, at Sherbrooke, Quebec
+Before: The Honourable Justice Pierre Archambault
+Appearances:
+Counsel for the Appellant:
+Marc Vaillancourt
+Counsel for the Respondent:
+Benoît Denis
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which bears the number 22270 and is dated October 28, 2002, is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that an amount of $79,790.25 must be excluded from the taxable supplies.
+Signed at Ottawa, Canada, this 16th day of July 2007.
+"Pierre Archambault"
+____________________________________
+Archambault J.
+Translation certified true
+on this 20th day of February 2008
+François Brunet, Revisor
+Citation: 2007CCI300
+Date: 20070716
+Docket: 2004-3730(GST)G
+BETWEEN:
+GAGNÉ-LESSARD SPORTS INC.,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Archambault J.
+[1] Gagné‑Lessard Sports Inc. ("GLS") is appealing from a Goods and Services Tax ("GST") assessment made on October 28, 2002, under the Excise Tax Act ("the Act" or "the ETA") in respect of the period from July 1, 1998, to June 30, 2002 ("the relevant period"). In its assessment, the Ministère du Revenu du Québec ("the MRQ"), acting on behalf of the Minister of National Revenue ("the Minister"), increased GLS's net tax by $129,553.20, and the interest thereon is $12,599.39.[1]
+[2] At the beginning of the hearing, counsel for the Respondent noted that he had informed the Appellant, at a pre‑trial conference held on November 3, 2006, that he would consent to a judgment concerning the supplies made by the Appellant prior to October 2000. Counsel for the Respondent quantified these supplies at $78,103.25, to which the sum of $1,867 was to be added, for a total of $79,790.25. According to the calculations made by counsel for the Respondent, and as shown in Exhibit I‑4, the amounts that are still in dispute are as follows:
+[translation]
+. . .
+− sales of parts
+service access (TOTAL)
+$551.56
+− insurance tax (TOTAL)
+- $26.93
+− sales of tires and of new and used vehicles to non-residents (TOTAL)
+$49,238.32
+$49,762.95
+[3] Counsel for GLS stated that the only amount that he is disputing is $49,238.32. He submits that the vehicle sales in question were exported from Canada. In fact, the issue and the facts of the case at bar are similar to those in Évasion Hors Piste Inc. v. Her Majesty the Queen, 2006 TCC 477.
+Facts
+[4] Mr. Gagné, the shareholder of GLS, and Brigitte Fontaine, CGA, an employee of GLS during the relevant period, testified at the hearing. They discussed the circumstances under which GLS sold off‑road vehicles to American consumers. GLS operated a business that sold off‑road vehicles such as motorcycles and all‑terrain vehicles in Coaticook, a town located roughly 15 km from the Canada-U.S. border. Mr. Gagné noted that there was a time when the Canadian‑U.S. dollar exchange rate prompted many of GLS's customers to buy off‑road vehicles in the United States. However, during the relevant period, the situation was reversed, and many American customers came to GLS.
+[5] In order to ensure that GLS was complying with all the provisions of the Act, Mr. Gagné asked Ms. Fontaine to consult with the MRQ in order to find out about the procedure for exporting his vehicles to the United States. Initially, a GLS employee used a company truck to deliver the off‑road vehicles to the border station parking lot. A photograph of the border station shows that the parking lot in front of the station is on U.S. territory.
+[6] GLS, being concerned about observing the requirement to provide proof of delivery, decided to use a common carrier, which was also to deliver off‑road vehicles intended for American customers to the border station. Unfortunately, the U.S. customs officers did not agree to systematically stamp the contracts of sale pertaining to the off‑road vehicles. According to Mr. Gagné, this left GLS in a vulnerable position. The Canadian customs officers had already notified GLS that they had nothing to do with its exports of off‑road vehicles.
+[7] Following a conference held by the Coaticook chamber of commerce, which Ms. Fontaine attended, a woman from the duty‑free shop raised doubts about GLS's procedures. When Ms. Fontaine told Mr. Gagné about this, he told her that a gentleman named Mr. Roy, a U.S. resident who worked for the American customs brokerage company Norman G. Jensen Inc. ("Jensen"), had offered him customs brokerage services for the purposes of U.S. legislation. GLS accepted this offer.
+[8] From that point onward, the vehicles were exported in the following manner. The American consumer personally came to GLS's place of business and signed a contract to purchase the off‑road vehicle. The contract stated not only the name and address of the American consumer, but also a description of the vehicle, including the serial number and the agreed price. There was no reference to GST or provincial tax, but the contract bore the statement "For U.S.A. export only". The American consumer then took possession of the off‑road vehicle and transported it himself with his own tow truck or that of a friend who came along, since the vehicle was not registered and could not be operated in Canada. In addition to the contract of sale, the consumer signed a form entitled "Proforma Invoice", which provided Jensen's business name and a description of the off‑road vehicle, including its serial number. On the form, GLS was described as the "Exporter, shipper, seller" and the American consumer was described as the "Consignee" at one location and the owner at another location. The form included the following "Carrier's Certificate", which was signed by the American consumer:
+To the district director of customs, port of arrival
+The undersigned carrier to whom or upon whose order the articles described above must be released hereby certifies that Norman G. Jensen, Inc. is the owner or consignee of such articles within the purview of section 484(H), Tariff Act of 1930. I certify that this manifest is correct and true to the best of my knowledge.
+[9] Although Mr. Roy did not testify at the hearing, counsel for the Respondent admitted that if he had done so, he would have confirmed that he was present at the U.S. border station when each of the vehicles was transported by GLS's American consumers, and that he filled out all the documentation necessary for the purposes of U.S. laws on those occasions. The vehicles could not have been used in the United States before being cleared by custoMs. In addition, Mr. Roy apparently told GLS that it did not have to collect GST under these circumstances.
+[10] Once the formalities to be carried out at the U.S. border were completed, Jensen would send GLS a statement of account setting out any American fees that the American consumer had to pay, plus the brokerage fees and an "MPF user fee". Upon selling an off‑road vehicle to an American consumer at its place of business, GLS collected these American fees and remitted a receipt therefor to the American consumers. The American fees were then paid to Jensen.
+[11] According to Mr. Gagné, it was more expensive to use Jensen's services than to deliver the off‑road vehicles to the U.S. border station himself. He resigned himself to the latter approach so that he could obtain irrefutable proof. According to him, the documentation provided by Jensen was the best evidence that the off‑road vehicles were exported to the United States. Indeed, counsel for the Respondent admitted, at the beginning of the hearing, that all the vehicles intended for American consumers and covered by the assessment were indeed exported to the United States. Consequently, Mr. Gagné did not understand why the Canadian tax authorities were asking him to remit GST on sales to these American consumers.
+[12] I should add that Ms. Fontaine had contacted MRQ representatives prior to this in order to ensure that this new procedure complied with the Act. According to her testimony, she told the customer information officer that the American consumers came to her place of business and personally delivered the vehicles to the U.S. border station. Unfortunately, Ms. Fontaine did not take down the name of the person who provided her with the information, and did not take notes concerning the conversation. Moreover, she acknowledged that she did not go to the MRQ's office with the relevant documentation.
+[13] Mr. Gagné's frustration with the MRQ's assessment was worsened by the fact that the MRQ's auditor had been at GLS's place of business for several months, including during part of the relevant period (specifically, from April to June 2002) and that she never told him that what GLS was doing was inappropriate. The auditor had undertaken the audit because GLS was claiming input tax credits (ITCs) that were significant in relation to the GST collected. During her audit, she found only one mistake in the way that the net tax was calculated, and the amount involved was roughly $500. The auditor even told GLS that its accounting was exemplary and of a high quality that was rarely encountered. In August 2002, when GLS contacted the MRQ to find out how much GST it would have to remit following the audit, the company was shocked to learn that the unpaid GST amount had increased from $500 to approximately $150,000.
+[14] This shock turned to anger when the Minister took collection measures to recover these amounts. Although an agreement providing for the payment of $5,000 per month was made with the collection officers, and there were not supposed to be any seizures, the Minister not only withheld tax refunds, but also seized amounts payable by GLS customers for goods or services supplied by the company. Mr. Gagné stated that the MRQ's actions lost him his co-shareholder and several employees. He stated that he incurred roughly $78,000 in legal fees by reason of the MRQ's assessment on behalf of the Minister. For the period from July 31, 2005, to February 15, 2007, the legal fees and disbursements billed by the lawyer who represented him at the hearing amount to $57,603 including taxes, or roughly $50,000 before taxes. Thus, Mr. Gagné's business suffered enormously as a result of the Minister's assessment and the collection measures taken for the Minister's benefit.
+[15] It should also be added that Mr. Gagné offered to pay the MRQ the amount of uncollected GST on sales to American consumers so that those consumers could claim a refund of that tax. It was then explained to him that they would only be able to obtain such a refund if the sale was made within the past year and that, consequently, it was not in GLS's interest to initiate efforts in this regard, because this would amount to an admission that the assessment in respect of the period prior to the past year was well founded. He was apparently told: [translation] "Forget that idea!" Consequently, GLS did not move forward on its offer. According to Mr. Gagné, this arrangement would have enabled him to obtain a $25,000 GST refund for the year in question.
+[16] Ms. Fontaine revealed that the MRQ cancelled the assessment made under the Act respecting the Québec sales tax ("QST"), not only with respect to the vehicles delivered prior to October 2000 by a GLS employee or by a common carrier, but also with respect to vehicles personally transported by the American consumers to the border station for customs clearance by Jensen. Unfortunately, the Minister refused to agree to an administrative settlement similar to the one made by the MRQ.
+[17] After receiving its assessment, GLS asked the MRQ to provide it with a signed description of the correct approach to take, since it was not in compliance with the Act. The only thing that the MRQ provided in response to this request was a copy of the statutory provisions, which came ten days following the request.
+GLS's position
+[18] In his oral argument, counsel for GLS submitted that the assessment should be vacated because the off‑road vehicles were delivered to the United States. In his view, the handing of the vehicles to the American consumers at his client's place of business was not delivery in the legal sense. In support of his position, he cited several provisions of the Civil Code of Québec ("C.C.Q.") and the following provisions in particular:[2]
+1456. The allocation of fruits and revenues and the assumption of risks incident to property forming the object of a real right transferred by contract are principally governed by the Book on Property.
+The debtor of the obligation to deliver the property continues, however, to bear the risks attached to the property until it is delivered. [Toutefois, tant que la délivrance du bien n'a pas été faite, le débiteur de l'obligation de délivrance continue d'assumer les risques y afférents.]
+1717. The obligation to deliver the property [délivrer le bien] is fulfilled when the seller puts the buyer in possession of the property or consents to his taking possession of it and all hindrances are removed.
+[Emphasis added.]
+[19] He also cited sections 22.7 and 22.9 of the QST statute, which deal with the presumption associated with the delivery [délivrance] of property:
+22.7 Supply of corporeal movable property by way of sale — A supply of corporeal movable property by way of sale is deemed to be made in Québec if the property is delivered [délivré] in Québec to the recipient of the supply.
+22.9 Property is deemed to be delivered [Présomption quant à la délivrance d'un bien] − Property is deemed to be delivered
+1) in Québec where the supplier
+(a) ships the property to a destination in Québec that is specified in the contract for carriage of the property or transfers possession of the property to a common carrier or consignee that the supplier has retained on behalf of the recipient to ship the property to such a destination, or
+(b) sends the property by mail or courier to an address in Québec; and
+2) outside Québec where the supplier
+(a) ships the property to a destination in another province that is specified in the contract for carriage of the property or transfers possession of the property to a common carrier or consignee that the supplier has retained on behalf of the recipient to ship the property to such a destination, or
+(b) sends the property by mail or courier to an address in another province.
+Exception — The first paragraph does not apply where the property is corporeal movable property supplied by way of sale that is, or is to be, delivered outside Canada to the recipient.
+[Emphasis added.]
+[20] On the basis of these provisions of the QST, counsel for the Appellant submitted that the off‑road vehicles intended for American consumers were not delivered [délivrés] at GLS's establishment, but, rather, at the U.S. border station. In his submission, customs clearance was one of the hindrances contemplated by article 1717 C.C.Q.
+[21] Counsel for the Appellant also cited Turcotte c. Lacombe, SOQUIJ AZ‑75011072 a decision of the Quebec Court of Appeal. The summary of the decision reads [translation]: "The surrender of the documents required by the law and the administrative body was an indispensable component of the delivery [délivrance] of the buses, and the delivery [délivrance] was not completed."[3]
+[22] He also cited Bernier c. Boissonneault, 2007 QCCQ 565, a decision of the Court of Québec, Small Claims Division. In that case, the plaintiff claimed $3,934 for the loss of the value of a vehicle purchased for $3,600, plus $334 in related fees paid to the Société de l'assurance‑automobile du Québec. In 2000, the plaintiff had purchased an all‑terrain vehicle, which he registered on February 3, 2001. He was able to renew the registration for two subsequent years, but was unfortunately unable renew it in 2003 because, according to the explanations of a Quebec provincial police detective, the vehicle's serial number was invalid and the vehicle was seized to be destroyed. Labbé J. held that the obligation to deliver the property sold, with all its accessories, was not performed, and he cited articles 1717 and 1718 C.C.Q. in this regard. At paragraph 13 of his decision, he stated: [translation] "The fact that it was impossible to register the purchased vehicle in 2003, for a reason that existed at the time of the sale, constitutes a hindrance within the meaning of article 1717 C.C.Q., which prevents the purchaser from having a full right of ownership in the vehicle in question." (Emphasis added.) In support of his decision, Labbé J. cited Turcotte, supra.
+[23] I wish to note some of the decisions in GLS's Book of Authorities. The first is Nicholas c. Doré, SOQUIJ AZ‑50224494, B.E. 2004BE‑443, a decision of Judge Michel Parent of the Court of Québec, Small Claims Division. There, a claimant sought $2,700, consisting of the purchase instalments for a power shovel that that respondent never received. After referring to articles 1716 and 1717 C.C.Q., the judge, at paragraph 36 of his reasons, cited Jacques Deslauriers, in Collection de droit: Obligations et contrats, 2003‑2004, vol. 5 (Cowansville: Yvon Blais) at page 169:
+[TRANSLATION]
+[36] Jacques Deslauriers writes as follows on the subject of delivery [délivrance]:
+Concretely, delivery [délivrance] can be effected in various ways. One way is to hand over the keys that provide access to the property, such as a house or car. Another way is to submit the title document, such as a bill of lading, which allows the purchaser to claim the property from a third party, or an obligation [sic][4] to the buyer of the place where he can pick up the materials that he has purchased. In the case of an immovable, this will also involve the signature of a deed of sale that is to be published in order to be opposable to third parties (art. 1719 C.C.Q.). The seller bears the costs of delivery. The purchaser, for his part, bears the costs of removing the property (arts. 1722 and 1734 C.c.Q.).
+In ordinary physical, there is a tendency to confuse delivery [délivrance] with delivery [livraison]. Strictly speaking, delivery [livraison], which pertains to corporeal movable property, requires the seller to take physical steps to remit the property to the buyer; a sale with delivery includes transportation of the property to the buyer's residence or place of business. It should be noted that there can be delivery [délivrance] without delivery [livraison]. In addition, there can be delivery [livraison] without delivery [délivrance] within the meaning of art. 1714 C.C.Q. Consider, for example, the rental of an appliance with an option to purchase. If the lessee of the appliance avails herself of the purchase option in the allotted time, delivery [délivrance] will occur by inversion of title. The lessor of the appliance will cease to act as lessor. The lessee, who was simply the holder of the appliance, will now be in possession of it. The payments will now be considered to be in satisfaction of the purchase price, as opposed to being rent. Thus, delivery [délivrance] is a notional process that is occasionally completed by a physical delivery [livraison] process. A situation where the buyer and seller agree that the buyer will take possession of the property on premises to which the seller will facilitate the buyer's access, also involves delivery [délivrance]. So do cases where the buyer disassembles the property in order to transport it. In such circumstances, the seller's obligation might be limited to the provision of unhindered access to the premises, and there is legal delivery [délivrance] but not necessarily physical delivery within the strict meaning of the term livraison. In fact, these cases merely involve removal by the buyer. (Emphasis added.)
+[24] Here is what Parent J. added at paragraph 44, and what he concluded at paragraphs 47‑48:
+[translation]
+[44] A distinction must be drawn between transfer of ownership, delivery [délivrance] and physical delivery [livraison]. Mr. Nicholas was entitled to take possession of the piece of equipment in St‑Amable upon making the payment. It was only for personal, practical reasons that he delayed taking possession. Nothing and nobody was opposed to his taking possession of the equipment in St‑Amable. Mr. Nicholas did not need Mr. Doré's authorization. Consequently, Mr. Doré fulfilled his obligation to legally deliver the property by leaving it up to the claimant to personally transport the equipment when it suited him.
+. . .
+[47] Article 1456(2) C.C.Q. provides that "[t]he debtor of the obligation to deliver the property continues, however, to bear the risks attached to the property until it is delivered [délivrance]."
+[48] First of all, the Court has already held that Mr. Doré fulfilled his obligation of delivery [obligation de délivrance].
+[Emphasis added.]
+[25] In Paré c. Francoeur, SOQUIJ AZ‑00021539, J.E. 2000‑1079, Taschereau J. made the following comment after analyzing article 1456 C.C.Q. and article 1717 C.C.Q.
+[translation]
+It is clear that the seller has only fulfilled his obligation to deliver the thing sold to the buyer if he has done everything that could be done to enable the buyer to use the thing, and thereby derive all the profits and benefits that an owner can normally expect.[5]
+[Emphasis added.]
+[26] In Décors Jacques Parent inc. c. Slater, SOQUIJ AZ‑01036227, B.E. 2001BE‑466, Gagnon J. had to decide whether the plaintiff was liable for the delivery of furniture to Colorado in a damaged condition. The defendants, who bought the furniture in Canada, had asked for it to be shipped to them at their expense. The judge held that the plaintiff, Les Décors Jacques Parent Inc., had fulfilled its obligation of delivery [délivrance]. He wrote:
+[translation]
+. . . In this regard, the Court finds that delivery [délivrance] within the legal meaning of the word was complete when the property was entrusted to a carrier in good condition and property packed. . . .
+[Emphasis added.]
+[27] The judge cited Léon Faribault, who wrote the following observation on article 1493 of the old Civil Code of Lower Canada:
+[translation]
+Where the items must be delivered F.O.B. to a common carrier, the carrier becomes an agent of the buyer, and in order for valid delivery [délivrance] to be made, it is sufficient for the seller to hand over the items to the carrier.
+[Emphasis added.]
+[28] Professor Denys‑Claude Lamontagne wrote on the concept of delivery [délivrance] in Droit de la vente, 3d ed. (Cowansville: Yvon Blais), at pages 78‑79, paragraphs 144 and 147:
+[translation]
+(i) Nature of delivery [délivrance]
+[144] Delivery [délivrance] consists of the seller changing the detention of the property sold, either physically (in which case it coincides with the buyer's taking of possession) or by the property being placed at the buyer's disposal. In short, it is the performance of an act: the transfer of control, or of the ability to exercise control, over the property to the buyer, enables him to concretely benefit from the effects of the transfer of ownership.
+• Such a transfer occurs by contracting parties' mere exchange of consents (articles 1386 and 1708 C.C.Q.).
+• The transmutation of ownership implies a transfer of possession: the buyer acquires the animus and the corpus, even though he may be in possession through the seller, who detains it precariously (articles 921 et seq. C.C.Q.). Thus, it is inaccurate to state that delivery [délivrance] effects a transfer of possession (article 1717 C.C.Q.): only detention is transferred.
+. . .
+[147] Theory of risks − The date of delivery [délivrance] is important in a sale, notably because risk and ownership may be transferred at different times. In such matters, the res perit domino principle (article 950 C.C.Q.) is superseded by the res perit debitori principle. Notwithstanding the transfer of ownership, where the property is determinate as to its kind only (articles 1562 and 1563 C.C.Q.), the seller assumes the risks of loss until the property has been delivered [délivrance] (articles 1456 and 1846 C.C.Q.) (supra, paragraphs 116 et seq.). In other words, control or detention of the property warrants legal responsibility. However, the principle is not absolute.
+[Emphasis added.]
+[29] It should be noted that I saw no statutory enactment, case or doctrine in GLS's Book of Authorities that stands for the proposition that the obligation to deliver goods [obligation de délivrance] includes an obligation to clear off‑road vehicles sold by a Canadian or Quebec seller to a foreigner. I should also note that before GLS began using Jensen's services, it delivered its off‑road vehicles without looking after the customs clearance.
+Analysis
+[30] Despite his excellent oral submissions, counsel for GLS has not succeeded in satisfying the Court that the Minister's assessment was wrong. First of all, it should be noted that provisions relevant to a decision in this matter are subsection 165(1) and paragraph 142(1)(a) of the ETA, which I shall reproduce here:
+165(1) Imposition of goods and services tax — Subject to this Part, every recipient of a taxable supply made in Canada shall pay to Her Majesty in right of Canada tax in respect of the supply calculated at the rate of 7% on the value of the consideration for the supply.
+[Emphasis added.]
+142(1) General rule — in Canada -- For the purposes of this Part, subject to sections 143, 144 and 179, a supply shall be deemed to be made in Canada if
+(a) in the case of a supply by way of sale of tangible personal property [bien meuble corporel], the property is, or is to be, delivered [livré] or made available in Canada to the recipient of the supply;
+[Emphasis added.]
+[31] According to paragraph 142(1)(a) of the Act, tangible personal property supplied by way of sale is deemed to be supplied in Canada if it is "delivered" [livré] or "made available" to the recipient in Canada. It should be noted from the outset that the enactment refers to "livraison", not "délivrance", of property in Canada. As for the expressions "delivered" and "made available", it is not necessary to refer to the rules, principles or concepts of Quebec civil law to ascertain their meaning. Since it is not necessary to refer to the Civil Code of Québec,[6] section 8.1 of the Interpretation Act is of no assistance here.[7]
+[32] The issue that the Court must rule on is whether goods that GLS sold to American consumers were delivered [livrés] to these consumers, or, at at least, made available to them. The evidence clearly shows that GLS transferred possession of the off‑road vehicles to those consumers in Canada after transferring the title of ownership to them. In addition, GLS clearly made the off‑road vehicles available to the consumers in Canada. Consequently, as far as the all‑terrain vehicles were concerned, the American consumers could have decided not to transport them to the United States and to use them on land that they owned or leased in Canada.[8]
+[33] Unfortunately for GLS, its appeal must meet with the same fate as the appeal of Évasion Hors Piste (the company referred to above) for the same reasons.
+[34] I must also emphasize that the following comments, which I found to be completely justified in Évasion Hors Piste Inc., are even more compelling in the case at bar, not only beause counsel for the Respondent acknowledges that all the goods covered by the assessment was exported to the United and because the MRQ cancelled the provincial assessment in relation to all the vehicles exported to the United States, but also by reason of the role of the MRQ in its communication with the Appellant's representative and of the auditor's actions in her capacity as agent for the Minister during her audit. I wrote as follows at paragraph 21 of the decision in Évasion Hors Piste Inc.:
+[21] While the Minister's assessment is consistent with the letter of the ETA, I cannot help but note that it does not conform to its spirit. It is clear from the provisions of the ETA that tangible personal property exported outside Canada should not be subject to GST. In fact, this reflects one of the major reasons for replacing the old federal sales tax with the GST: to make Canadian goods more competitive in the global marketplace. Since both the auditor and counsel for the Respondent acknowledge that some of EHP's vehicles were truly exported to the United States but that the proper procedure was not followed, EHP is being penalized by having to pay a tax that would not have had to be collected if EHP had followed the correct procedure. Consequently, I strongly recommend that the Minister exercise his power under subsection 23(2) of the Financial Administration Act and issue a remission order reimbursing EHP for the GST, interest and penalty for which it was assessed, but — and this is obvious — only to the extent that he is satisfied that the vehicles were actually exported to the United States. If the Minister does not take this measure, a grave injustice will be done to EHP, which is unable to force its U.S. customers to pay it the GST that they should have paid it in its capacity as agent for the Minister. Indeed, the American courts refuse to allow foreign countries to enforce tax debts in the United States, and this should be one more reason for the Minister to remedy this injustice.
+[35] Counsel for GLS has asked that the Respondent be ordered to pay costs by reason of her conduct. I have found that the Minister's assessment is well founded in law, and thus, while the situation is completely different when it is analyzed from the perspective of fairness, the Respondent cannot be blamed for defending her assessment before this Court. I should add that, at the beginning of the hearing, the Respondent conceded that a part of the net tax had to be cancelled. I can award costs to deter "impetuous, frivolous and abusive behaviour and litigation" or to "compensate, at least in part, the successful party who has incurred, sometimes, large expenses to vindicate its rights."[9] However, I do not believe that it is this Court's role to compensate a party that believes, whether for legally correct or incorrect reasons, that he suffered damages due to the erroneous communication of information that was required in connection with the administration of the Act. That event is external to the judicial challenge process against the assessment.
+[36] For all these reasons, GLS's appeal is allowed, without costs, and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that an amount of $79,790.25 must be excluded from the taxable supplies.
+Signed at Ottawa, Canada, this 16th day of July 2007.
+"Pierre Archambault"
+____________________________________
+Archambault J.
+Translation certified true
+on this 20th day of February 2008
+François Brunet, Revisor
+CITATION: 2007TCC300
+COURT FILE NO.: 2004-3730(GST)G
+STYLE OF CAUSE: GAGNÉ-LESSARD SPORTS INC. v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Sherbrooke, Quebec
+DATE OF HEARING: April 2, 2007
+REASONS FOR JUDGMENT BY: The Honourable Justice Pierre Archambault
+DATE OF JUDGMENT: July 16, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Marc Vaillancourt
+Counsel for the Respondent:
+Benoit Denis
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Marc Vaillancourt
+Firm: Vaillancourt Guertin
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] According to counsel for the Respondent, the interest amount does not include the "penalty" component contemplated in paragraph 280(1)(a) of the ETA (in force prior to April 1, 2007). (In addition, see Exhibit I‑1, tab 1).
+[2] Art. 1453 C.C.Q., which pertains to the transfer of the right of ownership, should also be borne in mind:
+1453. The transfer of a real right in a certain and determinate property, or in several properties considered as a universality, vests the acquirer with the right upon the formation of the contract, even though the property is not delivered immediately [quoique la délivrance n'ait pas lieu immédiatement] and the price remains to be determined.
+The transfer of a real right in a property determined only as to kind vests the acquirer with that right as soon as he is notified that the property is certain and determinate.
+[Emphasis added.]
+[3] According to the summary of the case, these consisted in [translation] "documents necessary for the transfer of the buses' registration."
+[4] Mr. Deslauriers actually wrote "indication", i.e. telling the buyer where he can pick up the materials.
+[5] Léon Faribault, Traité de droit civil du Québec, vol. 10 (Montréal: Wilson & Lafleur, 1961), at page 182, paragraph 210.
+[6] However, I do find the observations made by Jacques Deslauriers, supra, distinguishing livraison and délivrance, to be of interest. As stated in the quote at paragraph 23 of these reasons, he notes that there can be legal delivery [délivrance] without physical delivery [livraison]. It should be added that even if the concept of "délivrance" for the purposes of article 1717 of the Civil Code of Québec were relevant for the purposes of paragraph 142(1)(a) of the ETA, I doubt that a Quebec court would hold that the delivery [délivrance] of the off‑road vehicle was not complete until it was cleared by U.S. customs. The U.S. customs documents are of a different nature from the documents in Bernier. They are not required in order to transfer the registration of the off‑road vehicles, as least not in Canada. They do not prevent the American buyer from [TRANSLATION] "having a full right of ownership in the vehicle in question". By analogy, it could be added that the mere fact that a person has not paid the GST on his vehicle does not mean that he does not have a [TRANSLATION] "full right of ownership in the vehicle in question."
+The fact is that the off‑road vehicles were delivered [livrés] to the American consumers, and that GLS's obligation to deliver [délivrer] the good was fulfilled when it gave possession of the vehicle to the American consumers. In my opinion, clearing the property through customs is not one of the hindrances contemplated in article 1717 C.C.Q. The documents demanded in Turcotte were, in all likelihood, the seller's registration certificates. Naturally, in Bernier, since it was impossible to deliver a vehicle with a valid serial number, the courts were able to hold that there was no delivery [délivrance] within the meaning of the Civil Code of Québec. The vehicle in issue there had almost certainly been stolen. The registration of this type of vehicle ensures that its recipient validly acquired his right of ownership.
+[7] Section 8.1 of the Interpretation Act reads:
+8.1 Both the common law and the civil law are equally authoritative and recognized sources of the law of property and civil rights in Canada and, unless otherwise provided by law, if in interpreting an enactment it is necessary to refer to a province's rules, principles or concepts forming part of the law of property and civil rights, reference must be made to the rules, principles and concepts in force in the province at the time the enactment is being applied.
+[Emphasis added.]
+The only concept found in paragraph 142(1)(a) of the Act that could form part of "the law of property and civil rights" is "sale". Now, that concept is not in issue here. Moreover, subsection 123(1) of the ETA provides us with the following definition of "sale":
+"sale", in respect of property, includes any transfer of the ownership of the property and a transfer of the possession of the property under an agreement to transfer ownership of the property.
+[8] I do not know whether it is legal to use an all‑terrain vehicle on privately-owned land in Quebec without getting the vehicle registered first. However, whether such use is lawful or unlawful for the purposes of the Quebec legislation that governs these issues, an American customer of GLS, to whom possession of an off‑road vehicle in respect of which no GST had been collected was transferred, would have been able, as a matter of fact, to use such a vehicle in Canada without having to pay the GST. In my opinion, it is to prevent such an eventuality that the Act requires GST to be collected when goods intended for export is delivered or made available to a foreign consumer in Canada, unless the vehicle is delivered to a common carrier or a consignee, whose role as third-party intermediary provides a guarantee that the property truly has been exported from Canada.
+[9] See Sherman v. M.N.R., 2003 FCA 202, [2003] 4 F.C. 865, [2003] G.S.T.C. 85, at paragraph 46, the relevant excerpt of which is quoted in Fournier v. The Queen, 2005 FCA 131, [2005] G.T.C. 1398, at paragraph 12.

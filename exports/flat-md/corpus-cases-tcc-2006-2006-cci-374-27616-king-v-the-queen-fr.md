@@ -1,0 +1,136 @@
+---
+title: "King v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27616/index.do"
+last_modified: "2006-07-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 CCI 374"
+citation2: ""
+neutral_citation: "2006 CCI 374"
+decision_date: "2006-07-26"
+language: "fr"
+item_id: "27616"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 437
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T23:52:33.802000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "11cedc8fce3d9bc92f6b1ee3ae0d5116decf2242598e078b3849ca7b85fffeee"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# King v. The Queen
+
+- Citation: 2006 CCI 374
+- Decision date: 2006-07-26
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 437, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+King v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-07-26
+Référence neutre
+2006 CCI 374
+Numéro de dossier
+2006-603(GST)I
+Juges et Officiers taxateurs
+François M. Angers
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2006-603(GST)I
+ENTRE :
+JEANNE KING,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 19 juin 2006, à Moncton (Nouveau-Brunswick).
+Devant : L'honorable juge François Angers
+Comparutions :
+Pour l'appelante :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Catherine McIntyre
+____________________________________________________________________
+JUGEMENT
+L'appel à l'encontre de la cotisation établie en vertu de la Loi sur la taxe d'accise, dont l'avis est daté du 3 mars 2005 et porte le numéro 05011503112370003, est rejeté.
+Signé à Edmundston (Nouveau-Brunswick) ce 26e jour de juillet 2006.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 4e jour de décembre 2006.
+Nathalie Boudreau, traductrice
+Référence : 2006CCI374
+Date : 20060726
+Dossier : 2006-603(GST)I
+ENTRE :
+JEANNE KING,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Angers
+[1] Il s'agit d'un appel à l'encontre d'une cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise (la « Loi » ) et datée du 3 mars 2005. L'appelante a demandé un remboursement de la TPS/TVH pour habitations neuves de 3 121,59 $ à l'égard d'une maison située au 275 de l'avenue Université à Moncton (Nouveau-Brunswick). La demande de remboursement est datée du 16 décembre 2004 et se rapporte à des rénovations effectuées dans cette maison. Le ministre a refusé la demande de remboursement de l'appelante pour le motif que les rénovations effectuées ne constituaient pas des « rénovations majeures » au sens du paragraphe 123(1) de la Loi.
+[2] S'il est quand même conclu qu'il s'agissait de « rénovations majeures » au sens de la Loi, le ministre s'oppose au remboursement de certaines des dépenses visées par la demande de remboursement pour le motif que ces dépenses n'ont pas été payées en contrepartie de produits ou de services qui donnent droit au remboursement.
+[3] Le paragraphe 256(2) de la Loi prévoit que le ministre verse le remboursement prévu par la Loi dans le cas où « le particulier, lui-même ou par un intermédiaire, construit un immeuble d'habitation - immeuble d'habitation à logement unique [...] - ou y fait des rénovations majeures [...] » . La question est presque toujours de savoir si les travaux effectués dans chaque cas particulier remplissent les critères nécessaires pour pouvoir être qualifiés de « rénovations majeures » au sens du paragraphe 123(1) de la Loi. La définition de cette expression est ainsi libellée :
+« rénovations majeures » Fait l'objet de rénovations majeures le bâtiment qui est rénové ou transformé au point où la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée, dans le cas où, après l'achèvement des travaux, le bâtiment constitue un immeuble d'habitation ou fait partie d'un tel immeuble.
+[4] L'appelante a acheté sa maison le 14 juillet 2003 et a commencé les rénovations le mois suivant. La maison est un bâtiment de deux étages qui repose sur une fondation en béton de 25 pieds sur 30 pieds, ce qui donne une superficie de 750 pieds carrés par étage. Le sous-sol et le grenier n'étaient pas aménagés. Au rez-de-chaussée, il y a une cuisine et une salle à manger, et au deuxième étage, il y a quatre chambres à coucher et une salle de bains. L'appelante a déposé en preuve une série de photos de la maison avant et après les rénovations et diverses factures à l'appui des dépenses dont le remboursement a été refusé par le ministre.
+[5] Les rénovations effectuées dans la maison consistaient en l'ajout d'une annexe à la cuisine et en la construction d'une terrasse grillagée qui a été désignée comme étant un solarium. Un garage double a été construit et, tout comme l'annexe et la terrasse grillagée, il est situé à l'extérieur de la maison. Avant le début des rénovations, il n'y avait au sous-sol que des murs de ciment brut et un appareil de chauffage. L'appelante a fait goudronner les murs et y a fait poser de l'isolant. Elle a également fait poser de l'isolant sur le plafond du sous-sol, et un espace a été aménagé de façon à ce qu'il soit plus tard possible d'y installer une salle de bains. Pendant que les rénovations avaient lieu, la toilette et l'évier n'avaient pas été installés. Le sous-sol est maintenant aménagé, mais une certaine quantité de travail avait été faite avant la période qui est pertinente pour les besoins du remboursement dont il est question en l'espèce. Des cloisons avaient été posées pour diviser le sous-sol en plusieurs pièces. Toutefois, le plancher n'avait pas été posé, et rien n'avait été peint. Il est convenu qu'après les rénovations, le sous-sol n'était pas habitable.
+[6] Au rez-de-chaussée, le mur arrière a été enlevé pour ajouter le solarium. Le plafond de la cuisine a été enlevé pour installer la plomberie pour une nouvelle salle de bains. Les armoires de la cuisine ont été remplacées. L'escalier a été remplacé par des marches en bois et une rampe en fer forgé. Toutes les pièces du rez-de-chaussée ont été repeintes, et la plupart des moulures et des boiseries ont été remplacées.
+[7] Au deuxième étage, une des chambres à coucher a été transformée en salle de bains. On a monté des murs dans deux chambres à coucher pour pouvoir y installer de longs placards. Un petit placard a été installé dans la troisième chambre à coucher. De plus, des portes coulissantes encloisonnées ont été installées entre deux des chambres à coucher. Toutes les pièces du deuxième étage ont été repeintes.
+[8] On a posé de l'isolant et des cloisons sèches au grenier et on a peint le grenier. Le plancher a été remplacé, deux lucarnes ont été installées et les marches pour monter au grenier ont été remplacées. Une couche de revêtement a été posée sur le toit, sur lequel de nouveaux bardeaux ont été fixés.
+[9] Le coût total de ces rénovations était de 71 358 $. Il ne fait aucun doute que les rénovations faites par l'appelante ont coûté très cher, mais est-ce que leur étendue justifie que je tire une conclusion selon laquelle le bâtiment a été rénové ou transformé au point où la totalité, ou presque, du bâtiment qui existait immédiatement avant les travaux, exception faite des fondations, des murs extérieurs, des murs intérieurs de soutien, des planchers, du toit et des escaliers, a été enlevée ou remplacée? Vu la définition de l'expression « rénovations majeures » , je ne peux tenir compte des travaux effectués sur les escaliers et sur le toit.
+[10] À mon avis, les rénovations sur les photos présentées en preuve et décrites par l'appelante ne remplissent pas les critères nécessaires pour être considérées comme étant des « rénovations majeures » . Il s'agit principalement de rénovations de nature superficielle. Le fait de réparer des fenêtres, de peindre des murs, de remplacer les armoires de cuisine, d'installer de nouveaux planchers, de poser de nouvelles boiseries, d'ajouter une annexe à la cuisine et d'aménager le grenier n'est pas suffisant pour justifier une conclusion selon laquelle la totalité, ou presque, de la maison de l'appelante a été enlevée ou remplacée. La construction d'un garage double derrière la maison de l'appelante ne correspond certainement pas à des rénovations majeures d'un immeuble d'habitation.
+[11] M. le juge Hershfield, dans la décision Erickson v. R., [2001] G.S.T.C. 19, a conclu que la Loi n'autorise pas de remboursement à l'égard d'une rénovation, importante ou non, à moins que presque tout l'édifice ne soit refait. En l'espèce, je peux uniquement conclure que la structure originale de la maison de l'appelante est restée inchangée et qu'elle constitue toujours une partie importante de la maison qui existe après les rénovations. Cela étant dit, les rénovations ne donnent pas droit à un remboursement de taxe.
+[12] Comme je suis arrivé à cette conclusion, je n'ai pas à me pencher sur la question des dépenses dont le remboursement a été refusé. L'appel est donc rejeté.
+Signé à Edmundston (Nouveau-Brunswick) ce 26e jour de juillet 2006.
+« François Angers »
+Juge Angers
+Traduction certifiée conforme
+ce 4e jour de décembre 2006.
+Nathalie Boudreau, traductrice
+RÉFÉRENCE : 2006CCI374
+NO DU DOSSIER : 2006-603(GST)I
+INTITULÉ : Jeanne King et M.R.N.
+LIEU DE L'AUDIENCE : Moncton (Nouveau-Brunswick)
+DATE DE L'AUDIENCE : Le 19 juin 2006
+MOTIFS DU JUGEMENT PAR : L'honorable juge François Angers
+DATE DU JUGEMENT : Le 26 juillet 2006
+COMPARUTIONS :
+Pour l'appelant :
+L'appelante elle-même
+Avocate de l'intimé :
+Me Catherine McIntyre
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelante :
+Nom :
+Cabinet :
+Pour l'intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

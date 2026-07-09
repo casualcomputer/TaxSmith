@@ -1,0 +1,207 @@
+---
+title: "Lefebvre c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72945/index.do"
+last_modified: "2014-07-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 225"
+citation2: ""
+neutral_citation: "2014 CCI 225"
+decision_date: "2014-07-16"
+language: "fr"
+item_id: "72945"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5361
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:49:46.640000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5702f00e4eb576fd3aac76d466800265523bd854d8b446f981fec5ca476f6a81"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Lefebvre c. La Reine
+
+- Citation: 2014 CCI 225
+- Decision date: 2014-07-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5361, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lefebvre c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-07-16
+Référence neutre
+2014 CCI 225
+Numéro de dossier
+2013-4740(IT)I
+Juges et Officiers taxateurs
+Valerie A. Miller
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-4740(IT)I
+ENTRE :
+JEAN-MARC LEFEBVRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 10 juin 2014, à Ottawa (Ontario).
+Devant : L’honorable juge Valerie Miller
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Gabrielle White
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour les années d’imposition 2008 et 2009 de l’appelant est accueilli, sans dépens, et l’affaire est déférée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse une nouvelle cotisation en tenant compte du fait que l’appelante a le droit de déduire le montant de 2 316,74 $ en 2009.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 1er jour de mars 2016.
+Espérance Mabushi, M.A. Trad. Jur.
+Référence : 2014 CCI 225
+Date : 20140716
+Dossier : 2013-4740(IT)I
+ENTRE :
+JEAN-MARC LEFEBVRE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge V.A. Miller
+[1] Le présent appel porte sur les années d’imposition 2008 et 2009 de M. Lefebvre dans lesquelles le ministre du Revenu national (le « ministre ») a refusé certaines dépenses que l’appelant avait déduites au titre de dépenses d’entreprise pour son cabinet d’avocat. Les seuls montants en cause en l’espèce sont de 14 257 $ et de 8 486 $ en 2008 et en 2009, respectivement, dont voici le détail :
+2008
+2009
+Entretien et réparation
+9 048 $
+3 718 $
+Téléphone et services publics
+3 226 $
+3 287 $
+Impôts fonciers
+1 983 $
+1 480 $
+Total
+14 257 $
+8 486 $
+Faits [2] L’appelant exerçait le droit à titre de professionnel exerçant seul sous le nom de « The Law Office of Jean-Marc Lefebvre, Q.C. » (le « cabinet d’avocat »). Durant les années en cause, le cabinet d’avocat exerçait ses activités à partir d’un immeuble appartenant à une société à numéro de l’appelant. Les précisions concernant la propriété de l’immeuble sont fournies ci‑après.
+[3] En 1989, l’appelant a acheté auprès de la Banque Royale du Canada un immeuble en briques de 100 ans à Alexandria, en Ontario. En 1991, il a transféré l’immeuble à son épouse et à lui‑même et ils en sont devenus tenants conjoints. En 1997, son épouse et lui, en tant que locateurs, ont donné à bail l’immeuble au cabinet d’avocat de l’appelant. Le bail était un bail à loyer hypernet (le « bail ») aux termes duquel le cabinet d’avocat devait assumer les impôts fonciers, les services publics, les frais d’entretien, les frais d’assurance et [traduction] « la totalité des autres charges, impôts, frais et dépenses de quelque nature que ce soit » relatifs aux « locaux ». En 1998, l’immeuble a été vendu à une société à numéro qui appartenait à l’appelant.
+[4] L’immeuble comportait des locaux à bureaux au rez‑de‑chaussée et un appartement à usage résidentiel aux deux étages supérieurs. Durant les années en cause, le cabinet d’avocat utilisait le rez‑de‑chaussée et le sous‑sol de l’immeuble pour ses activités et l’appelant vivait dans l’appartement situé aux deux étages supérieurs de l’immeuble.
+[5] Le cabinet d’avocat versait à la société à numéro un loyer annuel de 25 000 $ et l’appelant versait à la société à numéro un loyer mensuel de 650 $ (un montant annuel de 7 800 $). L’appelant a déclaré que son loyer personnel et celui de son cabinet d’avocat équivalaient tous les deux à la juste valeur marchande eu égard à l’emplacement de l’immeuble et à la qualité des lieux.
+[6] En 2008 et en 2009, l’appelant a respectivement déclaré un revenu de profession libérale brut de 265 284 $ et de 309 776 $ provenant de son cabinet d’avocat et il a déduit des dépenses d’entreprise de 235 616 $ et de 211 219 $.
+[7] Les dépenses que le cabinet d’avocat a déduites en 2008 et en 2009 comprenaient des frais de téléphone et des frais de service public de 15 931 $ et de 16 619 $, des impôts fonciers de 7 082 $ et de 5 284 $ ainsi que des frais d’entretien et de réparation de 40 634 $ et de 13 389 $, respectivement.
+[8] L’appelant a soutenu que le bail avait été reconduit entre le cabinet d’avocat et la société à numéro en tant que bailleur et que, compte tenu du bail, le cabinet d’avocat devait assumer toutes les dépenses relatives à l’immeuble. Dans son avis d’appel, l’appelant a précisé que le cabinet d’avocat avait payé toutes les dépenses qui sont en cause et qu’il devrait avoir le droit de les déduire.
+[9] Le ministre a fait valoir qu’une partie des frais de téléphone et de services publics ainsi que des impôts fonciers était des dépenses personnelles supportées par l’appelant relativement aux deux étages supérieurs de l’immeuble qu’il occupait. Le ministre a estimé que la superficie de l’appartement représentait au moins 38 % de la superficie de l’immeuble. Toutefois, le ministre a accepté les observations de l’appelant selon lesquelles le cabinet d’avocat de ce dernier occupait 72 % de la superficie de l’immeuble et que l’appartement n’occupait que 28 % de la superficie de l’immeuble. Le ministre a refusé 28 % des montants déduits par le cabinet d’avocat pour les frais de téléphone et de services publics ainsi que pour les impôts fonciers compte tenu du fait qu’ils représentaient des frais personnels ou de subsistance de l’appelant.
+[10] En ce qui concerne les frais d’entretien et de réparation, le ministre a soutenu que le montant supporté relativement au cabinet d’avocat était respectivement de 30 639 $ et de 9 671 $ en 2008 et en 2009. Il a établi une nouvelle cotisation à l’égard de l’appelant en tenant compte du fait que les frais d’entretien et de réparation de 9 047 $ en 2008 et de 248 $ en 2009 se rapportaient à la demeure personnelle de l’appelant et que le montant de 3 455 $ concernant l’année 2009 était une dépense d’immobilisation. Le ministre a conclu qu’un montant de 15 $ faisant partie de la déduction demandée au titre des frais d’entretien et de réparation en 2009 n’avait pas été supporté par l’appelant.
+Droit [11] Les dispositions pertinentes de la Loi de l’impôt sur le revenu (la « Loi ») sont les alinéas 18(1)a), b) et h). Elles sont ainsi libellées :
+18(1) Exceptions d’ordre général — Dans le calcul du revenu du contribuable tiré d’une entreprise ou d’un bien, les éléments suivants ne sont pas déductibles :
+a) Restriction générale — les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l’entreprise ou du bien;
+b) Dépense ou perte en capital — une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+[…]
+h) Frais personnels ou de subsistance — le montant des frais personnels ou de subsistance du contribuable — à l’exception des frais de déplacement engagés par celui-ci dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui;
+[12] Selon l’alinéa 18(1)a) de la Loi, dans le calcul de son revenu tiré d’une entreprise, le contribuable ne peut déduire qu’une dépense qui a été engagée en vue de tirer un revenu de l’entreprise. Cela suppose une analyse de l’objet pour lequel la dépense a été engagée : arrêt Symes c Canada, [1993] 4 RCS 695, aux paragraphes 75 et 76.
+[13] Dans l’arrêt Symes (précité), le juge Iaccobuccci a également énoncé un certain nombre de facteurs pertinents à prendre en compte pour décider si une dépense sera déductible. Ces facteurs sont les suivants :
+1. La dépense en cause est‑elle habituellement engagée par d’autres dans une entreprise de même nature que celle du contribuable?
+2. La déduction est‑elle ordinairement acceptée à titre de dépense d’entreprise par les comptables?
+3. Une dépense donnée aurait‑elle été engagée si le contribuable ne visait pas la production d’un revenu d’entreprise?
+[14] C’est le troisième facteur qui est le plus pertinent en l’espèce. Il s’agit d’un critère du « à défaut de », qui a été énoncé dans l’arrêt Symes, au paragraphe 79, de la manière suivante :
+[…] Plus précisément, il peut être utile de recourir au critère du « à défaut de » pour l’appliquer non pas à la dépense, mais aux besoins que la dépense satisfait. Indépendamment de l’entreprise, le besoin existerait‑il? Si un besoin existe même en l’absence de l’activité d’entreprise, et indépendamment de ce que le besoin a été ou aurait été satisfait par des sommes versées à un tiers ou par le coût d’option du labeur personnel, la dépense faite pour répondre au besoin est considérée traditionnellement comme une dépense personnelle.
+[15] L’alinéa 18(1)h) de la Loi interdit au contribuable de déduire le montant des frais personnels ou de subsistance dans le calcul de son revenu d’entreprise à l’exception des frais de déplacement qu’il a engagés dans le cadre de l’exploitation de son entreprise pendant qu’il était absent de chez lui.
+Analyse [16] Je n’ai reçu aucun document démontrant comment le bail avait été reconduit avec la société à numéro en tant que bailleur. Toutefois, même si la société à numéro est devenue le bailleur aux termes du bail, un examen du bail n’appuie pas l’argument de l’appelant selon lequel le bail exigeait que le cabinet d’avocat paie tous les frais d’entretien et de réparation, de téléphone, de services publics ainsi que les impôts fonciers relatifs à l’immeuble.
+[17] Selon l’alinéa 2(4)a) du bail, le cabinet d’avocat assumait les dépenses relatives aux [traduction] « Locaux ». Le terme « Locaux » a été défini dans l’annexe A du bail comme étant [traduction] « toutes les parties de l’immeuble situé au 32, rue Main Nord et au 12, rue Kenyon Ouest, à Alexandria, que le cabinet d’avocat de Jean‑Marc Lefebvre souhaitera occuper à tout moment […] ». Selon le témoignage de l’appelant, le cabinet d’avocat n’occupait que le sous‑sol et le rez‑de‑chaussée de l’immeuble. À mon avis, le cabinet d’avocat ne peut déduire que les dépenses qui ont été attribuées à l’espace qu’il occupait. L’appelant a admis que le cabinet d’avocat occupait 72 % de la superficie de l’immeuble et qu’il ne peut déduire que 72 % des dépenses supportées pour l’immeuble.
+Téléphone, services publics et impôts fonciers [18] Vingt‑huit pour cent des frais de téléphone et de services publics et des impôts fonciers reviennent à 5 209 $ et à 4 767 $ en 2008 et en 2009, respectivement. Ces frais ont été supportés relativement à la demeure personnelle de l’appelant et ils ne sont pas déductibles selon le bail. Ils ne sont pas non plus déductibles selon les alinéas 18(1)a) et h) de la Loi. Ils concernent l’appartement de l’appelant et sa vie personnelle. Ces besoins existeraient même en l’absence du cabinet d’avocat.
+[19] En l’espèce, le cabinet d’avocat n’a pas tiré de revenus de la location de l’appartement. L’appelant payait son loyer à la société. Les frais de téléphone et de services publics et les impôts fonciers de 5 209 $ et de 4 767 $ en 2008 et en 2009, respectivement, sont des frais personnels ou de subsistance de l’appelant et c’est à juste titre que le ministre a refusé au cabinet d’avocat de déduire ces montants.
+Entretien et réparations [20] En 2008, l’appelant a supporté des frais de 1 461,29 $ pour rénover la salle de bains de son appartement. Le ministre a entièrement refusé la déduction de ce montant en application des alinéas 18(1)a) et h) de la loi. À mon avis, le ministre avait raison de le faire.
+[21] En 2008, l’appelant a effectué des travaux de réparation du toit et de l’escalier extérieur de l’immeuble. Le coût de ces réparations s’élevait à 27 071 $. Le ministre a réparti ces frais de réparation selon le pourcentage de l’espace occupé par le cabinet d’avocat et celui occupé par l’appelant à titre personnel. Il a autorisé le cabinet d’avocat à déduire 72 % de ces frais de réparation. J’estime que le ministre a correctement réparti ces frais. Le ministre a refusé la déduction de 28 % de ces frais dont le total était de 7 580 $.
+[22] En 2009, la demande de déduction des frais d’entretien et de réparation pour le cabinet d’avocat se présentait de la manière suivante :
+Désignation
+Demandé
+Accordé
+Refusé
+Tapis Richard
+Ranger Carpet
+1 140,33 $
+1 140,44 $
+Electricom
+2 314,64 $
+2 314,64 $
+A&C Upholstery
+200,70 $
+200,70 $
+Canadian Tire
+333,48 $
+286 $
+62,48 $
+[23] Les frais de 200,70 $ ont été supportés pour la fabrication d’une boîte à rideaux pour les fenêtres d’une des chambres à coucher de l’appartement. L’appelant a déclaré dans son témoignage que la boîte à rideaux ne pouvait convenir à aucune autre fenêtre et devait rester dans l’immeuble.
+[24] J’estime que la boîte à rideaux était une dépense purement personnelle et que le ministre avait raison de refuser la déduction de la dépense. Il importe peu que l’appelant ne puisse pas utiliser la boîte à rideaux pour autre chose que la fenêtre pour laquelle elle a été fabriquée.
+[25] Selon le relevé de Canadian Tire, l’appelant a acheté des bâtonnets d’engrais pour plantes d’intérieur, une pellicule isolante pour porte‑fenêtre coulissante, une pellicule rétractable pour fenêtres et un article inconnu pour un montant de 15 $. Dans son témoignage, l’appelant a précisé qu’il n’avait de plantes d’intérieur que dans son cabinet et que la pellicule isolante pour porte‑fenêtre coulissante et la pellicule rétractable avaient servi à l’isolation des fenêtres de son appartement. Les frais de 15 $ n’ont été étayés par aucun élément de preuve.
+[26] L’appelant pourra déduire 2,10 $ pour les frais relatifs aux bâtonnets d’engrais pour plantes d’intérieur. Tous les autres articles contestés figurant sur le relevé en question étaient des dépenses personnelles de l’appelant.
+[27] Les frais de 1 140,33 $ ont été supportés pour l’achat et l’installation d’un revêtement en linoléum dans la salle de bains de l’appartement de l’appelant. Les frais de 2 314,64 $ ont été supportés pour changer le ballast des luminaires dans les locaux occupés par le cabinet d’avocat. Le ministre a estimé que les deux montants étaient des dépenses en capital.
+[28] Il n’existe pas de critère établi permettant de qualifier la nature d’une dépense, mais, de manière générale, l’on doit prendre en compte les facteurs suivants :
+a) C’est l’objet d’une dépense plutôt que son résultat qui détermine si elle constitue une dépense en capital ou une dépense courante : décision Marklib Investments II‑A Ltd. v The Queen, [2000] CTC 2513 (CCI).
+b) Une dépense engagée pour entretenir un bien ou le remettre en bon état est une dépense courante.
+c) Si l’objet de la dépense est de remplacer un bien par un bien nouveau, la dépense sera une dépense en capital : Bergeron v Minister of National Revenue, [1990] 2 CTC 2200 (CCI).
+d) Une dépense faite en vue de créer un bien ou un avantage pour le bénéfice durable d’une entreprise est considérée comme une dépense en capital.
+[29] L’appelant a déclaré qu’il avait fait poser un revêtement en linoléum dans la salle de bains de son appartement parce que le plancher en bois existant ne pouvait pas être réparé. Il estimait que cette dépense était une dépense courante et qu’elle devrait être déductible. La dépense n’a servi qu’à l’entretien du bien, elle ne l’a pas amélioré.
+[30] À mon avis, la dépense concernant l’installation du linoléum dans l’appartement de l’appelant aurait été une dépense courante de la société à numéro si elle avait été payée par celle‑ci. En l’espèce, il ne s’agit pas d’une dépense du cabinet d’avocat parce qu’elle n’a pas été engagée par le cabinet d’avocat en vue de gagner un revenu et elle ne peut pas être déduite par celui‑ci.
+[31] Quant aux luminaires, l’appelant a déclaré qu’il avait participé à un programme offert par le gouvernement de l’Ontario. Au total cinquante‑six ballasts ont été remplacés dans son éclairage fluorescent afin de rendre l’éclairage plus efficace et de réduire ses factures d’électricité. L’appelant s’est plaint du fait qu’il n’avait réalisé aucune économie sur ses frais d’électricité et a soutenu que son cabinet devrait pouvoir déduire le montant de 2 314,64 $ en tant que dépense courante. Seuls les luminaires situés dans le local occupé par le cabinet d’avocat ont été remplacés.
+[32] Je suis d’avis que le remplacement des ballasts sur les luminaires n’était pas une dépense en capital. Il s’agissait d’une dépense courante du cabinet d’avocat.
+[33] En conclusion, c’est à juste titre que le ministre a refusé au cabinet d’avocat la déduction de la totalité des frais de téléphone, des services publics et des impôts fonciers. Certains de ces frais ont été supportés par l’appelant à titre personnel. L’appelant a donné au ministre le rapport entre l’utilisation professionnelle et l’utilisation personnelle de l’immeuble. L’appel est accueilli et l’appelant a le droit de déduire le montant de 2 316,74 $ en 2009.
+Signé à Ottawa, Canada, ce 16e jour de juillet 2014.
+« V.A. Miller »
+Juge V.A. Miller
+Traduction certifiée conforme
+ce 1er jour de mars 2016.
+Espérance Mabushi, M.A. Trad. Jur.
+RÉFÉRENCE :
+2014 CCI 225
+NO DU DOSSIER DE LA COUR :
+2013-4740(IT)I
+INTITULÉ :
+JEAN-MARC LEFEBVRE et SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Ottawa (Ontario)
+DATE DE L’AUDIENCE :
+Le 10 juin 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Valerie Miller
+DATE DU JUGEMENT :
+Le 16 juillet 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Gabrielle White
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

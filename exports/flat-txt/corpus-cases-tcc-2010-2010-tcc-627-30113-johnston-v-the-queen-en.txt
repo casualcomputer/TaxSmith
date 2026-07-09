@@ -1,0 +1,131 @@
+Title: Johnston v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30113/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-627-30113-johnston-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-12-07
+
+# Johnston v. The Queen
+
+- Citation: 2010 TCC 627
+- Decision date: 2010-12-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7635, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Johnston v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-12-07
+Neutral citation
+2010 TCC 627
+File numbers
+2007-1899(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-1899(IT)I
+BETWEEN:
+ROZELLA JOHNSTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on October 12, 2010, at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Brandon Siegal
+Andrea Jackett
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2004 and 2005 taxation years are dismissed, without costs.
+Signed at Toronto, Ontario, this 7th day of December 2010.
+“L.M. Little”
+Little J.
+Citation: 2010 TCC 627
+Date: December 7, 2010
+Docket: 2007-1899(IT)I
+BETWEEN:
+ROZELLA JOHNSTON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. FACTS
+[1] The Appellant said that she wanted to read her statement into the record.
+[2] The Appellant said that she is a field support worker for the Ontario Federation of Indian Friendship Centres.
+[3] The Appellant said that she is a citizen of the Chippewas of Nawash First Nation’s unceded territory.
+[4] The Appellant said that she is not a Canadian citizen.
+[5] The Appellant also said:
+a) While the Saugeen Ojibway land claim is still ongoing, the issue of taxation has never been discussed with the Nation nor has it ever been negotiated;
+b) She said that her lands remain separate while we remain in the treaty process with Canada;
+c) She said that she understood that I am limited in what I can do here today, and that I am bound by the government’s policy;
+d) She then made the following comments:
+I only have to say this about the policies that Canada has made regarding the attempted taxation on me and my people. To attempt to tax the most impoverished people in this country is shameful.
+(Transcript, page 70, lines 8 to 12)
+I simply do not agree or consent. I recognize that this act of law was not well thought out. Still to my knowledge, the issue of taxation has never been discussed with my leadership. I hope that you will reconsider these actions and return to the Minister and ask them to respect Treaty rights. It can’t be hard. I do it everyday.
+(Transcript, page 71, lines 13 to 20)
+[6] Mr. Siegal, counsel for Respondent, said:
+The first thing I note is that we are here today based upon an issue as to whether the appellant is entitled to an exemption from taxable income by virtue of Section 87 of the Indian Act. This is the pleading that was filed with the Court, for us, the Amended Notice of Appeal. Whether that income is exempt or not is a novel issue. There is clear case law on this issue. There is a test that has been well established called the Conducting Factors Test. (Note: this should be “Connecting Factors Test”)
+(Transcript, page 73, line 18 to page 74, line 1)
+I note that Ms. Johnson chose not to lead any evidence with respect to her connecting factors, also chose not to lead any argument with respect to her connecting factors, and made no arguments whatsoever in accordance with the [Fresh As] Amended Notice of Appeal. Where we are today is basically dealing with issues that are not before the Court and are not with respect to her appeal.
+(Transcript, page 74, lines 9 to 17)
+B. ANALYSIS AND DECISION
+[7] The Tax Court of Canada was formed by an Act of Parliament, the Tax Court of Canada Act, R.S.C. 1985, c. T-2. The Tax Court came into existence in 1983.
+[8] The jurisdiction of the Tax Court is set out in section 12 of the Tax Court of Canada Act.
+[9] Subsection 12(1) provides as follows:
+12. (1) The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the Air Travellers Security Charge Act, the Canada Pension Plan, the Cultural Property Export and Import Act, Part V.1 of the Customs Act, the Employment Insurance Act, the Excise Act, 2001, Part IX of the Excise Tax Act, the Income Tax Act, the Old Age Security Act, the Petroleum and Gas Revenue Tax Act and the Softwood Lumber Products Export Charge Act, 2006 when references or appeals to the Court are provided for in those Acts.
+(emphasis added)
+[10] The remedies that this Court may grant in relation to appeals arising under the Income Tax Act (the “Act”) are set out in subsection 171(1) of the Act which provides that:
+171. (1) Disposal of Appeal. The Tax Court of Canada may dispose of an appeal by
+(a) dismissing it; or
+(b) allowing it and
+(i) vacating the assessment,
+(ii) varying the assessment, or
+(iii) referring the assessment back to the Minister for reconsideration and reassessment.
+[11] The Tax Court does not have the power to compel the Respondent to pursue any other process to resolve a dispute related to taxes payable under the Act.
+[12] The Appellant did not file any evidence or raise any legal arguments in relation to the Reassessments that were appealed to this Court. Furthermore, the Appellant made no attempt to distinguish her case from other cases that have been previously decided in relation to individuals who were employees of Native Leasing Services or a related company, namely:
+1. The Queen v. Shilling, 2001 D.T.C. 5420 (FCA). Application for eave to appeal this decision to the Supreme Court of Canada was dismissed ([2001] S.C.C.A. No. 434);
+2. Horn et al v. The Queen et al, 2007 D.T.C. 5589 (FC). Appeals to the FCA were dismissed (2008 FCA 352, 2008 D.T.C 6743). Application for leave to appeal this decision to the Supreme Court of Canada was dismissed ([2009] S.C.C.A. No. 8);
+3. Roe et al v. The Queen, 2008 TCC 667, 2009 D.T.C. 1020, (9 Appellants);
+4. Googoo et al v. The Queen, 2009 D.T.C. 1061;
+5. McIvor et al. v. The Queen, 2009 TCC 469, 2009 D.T.C. 1330, (6 Appellants); and
+6. Sarah B. Doxtator/Joanna Wemigwans v. The Queen, 2010 D.T.C. 1291, (indexed as Lafontaine v. The Queen).
+It should be noted that all of the above Appellants were claiming that their income was exempt from tax by virtue of section 87 of the Indian Act, R.S.C. 1985, c. I-5. All of the appeals were dismissed.
+(Note: In addition to the 19 appeals referred to above, there were many appeals filed by individuals who were employees of Native Leasing Services. When these appeals were called for hearing before the Tax Court, the individuals did not appear and did not have counsel or an agent represent them. The appeals were dismissed for want of prosecution.)
+C. CONCLUSION
+[13] Since the Appellant did not introduce any evidence or legal argument to this Court with respect to the Reassessment issued under the Income Tax Act for the 2004 and 2005 taxation years, her appeals are dismissed, without costs.
+Signed at Toronto, Ontario, this 7th day of December 2010.
+“L.M. Little”
+Little J.
+CITATION: 2010 TCC 627
+COURT FILE NO.: 2007-1899(IT)I
+STYLE OF CAUSE: ROZELLA JOHNSTON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: October 12, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: December 7, 2010
+APPEARANCES:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Brandon Siegal
+Andrea Jackett
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

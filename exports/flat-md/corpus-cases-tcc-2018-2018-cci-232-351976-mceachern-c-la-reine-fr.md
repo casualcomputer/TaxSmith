@@ -1,0 +1,181 @@
+---
+title: "McEachern c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/351976/index.do"
+last_modified: "2018-12-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 CCI 232"
+citation2: ""
+neutral_citation: "2018 CCI 232"
+decision_date: "2018-12-11"
+language: "fr"
+item_id: "351976"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4982
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:40:24.355000+00:00"
+cases_cited_count: 3
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "1b3d815333a3c30ac339b84908a7d8b77a7e7db1120a17bbbc523b4aeff0db08"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McEachern c. La Reine
+
+- Citation: 2018 CCI 232
+- Decision date: 2018-12-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4982, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McEachern c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2018-12-11
+Référence neutre
+2018 CCI 232
+Numéro de dossier
+2017-2932(IT)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2017-2932(IT)I
+ENTRE :
+TERRY McEACHERN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+Intimée
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 17 septembre 2018, à Miramichi (Nouveau-Brunswick).
+Devant : L’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Pour l’appelant :
+Avocate de l’intimée :
+L’appelant lui-même
+Me Dominique Gallant
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie au titre de la Loi de l’impôt sur le revenu pour l’année d’imposition 2014 est rejeté, conformément aux motifs ci-joints.
+Signé à Kingston (Canada), ce 11ejour de décembre 2018.
+« Rommel G. Masse »
+Juge suppléant Masse
+Référence : 2018 CCI 232
+Date : 20181211
+Dossier : 2017-2932(IT)I
+ENTRE :
+TERRY McEACHERN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Masse
+[1] L’appelant a interjeté appel à l’encontre d’une nouvelle cotisation établie pour son année d’imposition 2014.
+[2] Il cherche à faire exclure de son revenu imposable un avantage appelé [traduction] « allocation d’attraction et de rétention » (l’allocation) que son employeur, Diavik Diamond Mines Inc. (DDMI), lui a versé pour compenser ses frais de déplacement personnels entre sa résidence au Nouveau-Brunswick et le point d’embarquement de DDMI à Edmonton, en Alberta.
+[3] Un peu de contexte s’impose. Au cours de l’année d’imposition 2014, l’appelant travaillait pour DDMI au site minier Lac de Gras, dans les Territoires du Nord-Ouest. Toutefois, pendant toute la période pertinente, l’appelant a conservé sa résidence principale à Tabusintac, au Nouveau-Brunswick. L’appelant travaillait selon un horaire tournant alternant entre deux semaines de travail et deux semaines de relâche. Lorsqu’il travaillait, il demeurait au site minier, et retournait à sa résidence principale au Nouveau-Brunswick durant ses semaines de relâche.
+[4] Pour se rendre au travail, l’appelant devait se déplacer de son lieu de résidence au Nouveau-Brunswick, jusqu’à Edmonton, en Alberta, le point d’embarquement pour les employés de DDMI. À partir du point d’embarquement, DDMI payait un vol nolisé pour aller chercher les employés et les transporter à Yellowknife puis jusqu’à la mine en région éloignée. Selon les conditions d’emploi énoncées dans le document [traduction]Rémunération, avantages sociaux et conditions d’emploi (le document), il incombe à l’appelant de payer ses propres frais de déplacement entre son lieu principal de résidence et le point d’embarquement de DDMI à Edmonton. Toutefois, DDMI versait à l’appelant une allocation équivalant à 4,5 % du point de contrôle de sa fourchette salariale pour contribuer au paiement de ces frais de déplacement. Le document indique expressémentque l’allocation vise à [traduction] « aider DDMI à demeurer concurrentielle dans le recrutement et le maintien en poste de cadres, de professionnels et de membres du personnel technique clés afin d’assurer la viabilité à long terme de ses activités. » Le document précise également ce qui suit :
+[traduction] Pour tous les employés dont le lieu principal de résidence se trouve à l’extérieur des Territoires du Nord-Ouest ou à l’ouest de Kitikmeot, DDMI assume le coût du vol nolisé entre Yellowknife dans les T.N.-O. et le site minier pour chaque rotation des employés. DDMI est consciente qu’un grand nombre de ses employés qui viennent du Sud doivent se rendre à Edmonton, en Alberta, à partir de leur résidence et payer des frais de déplacement et d’hébergement pour profiter du vol nolisé offert par DDMI. Pour aider à compenser ces dépenses personnelles, vous recevrez une allocation d’attraction et de rétention correspondant à 4,5 % du point de contrôle de votre fourchette salariale.
+[5] Les employés doivent donc payer les frais de déplacement et d’hébergement engagés entre leur domicile et le point d’embarquement à Edmonton. L’allocation est un avantage payé par DDMI à ses employés pour les aider à compenser ces dépenses personnelles.
+[6] Au cours de l’année d’imposition 2014, l’allocation de l’appelant s’élevait à 5 749,70 $. Cependant, les frais réels engagés pour les déplacements entre sa résidence au Nouveau-Brunswick et le point d’embarquement à Edmonton ont totalisé 10 383,40 $, une somme largement supérieure au montant de l’allocation. L’appelant a reçu un relevé T4 État de la rémunération payée par son employeur pour l’année d’imposition 2014. Le montant de l’allocation, soit 5 749,70 $, était inclus dans la rémunération de l’appelant et était par conséquent imposable. DDMI n’a jamais attesté de formulaire TD4 Déclaration d’exemption – Emploi sur un chantier particulier, et n’a jamais confirmé que l’allocation versée pouvait être exclue du revenu de l’appelant. En l’absence d’un formulaire TD4 dûment rempli, le montant de l’allocation versée à l’appelant par DDMI était un avantage qui devait être inclus dans son revenu imposable.
+[7] L’appelant a tenté à plusieurs reprises de convaincre DDMI de remplir et de lui remettre un formulaire TD4 afin d’exclure la valeur de l’allocation de son revenu imposable, mais DDMI a refusé de le faire. DDMI était d’avis que l’appelant satisfaisait aux exigences de l’exemption relative à un emploi en un endroit éloigné pour le travail qu’il effectuait à la mine. C’est pourquoi DDMI n’a pas inclus dans le revenu de l’appelant ses frais de transport engagés entre le point d’embarquement à Edmonton et le chantier, ainsi que la valeur de la pension et du logement qui lui ont été fournis à la mine. DDMI était d’avis que l’allocation n’était pas admissible à l’exemption relative à un emploi en un endroit éloigné. Pour être exclue du revenu, l’allocation devait être raisonnable. Selon DDMI, l’allocation n’était pas raisonnable puisqu’elle était calculée en fonction d’un pourcentage du salaire de base plutôt qu’en fonction d’une estimation des frais de déplacement. L’allocation ne correspondait nullement aux frais de déplacement engagés par l’employé, et n’était donc pas raisonnable. Aux yeux de la Cour, il ressort clairement de cela que la détermination du montant de l’allocation était arbitraire et n’était nullement liée aux frais de déplacement réels.
+[8] De plus, DDMI était d’avis que le formulaire TD4 doit être utilisé pour une demande d’exemption pour un emploi sur un chantier particulier au titre du sous-alinéa 6(6)a)i) de la Loi de l’impôt sur le revenu, LRC 1985, ch. 1 (5e suppl.) (la Loi) et non pour une demande d’exemption pour un emploi en un endroit éloigné au titre du sous-alinéa 6(6)a)ii) de laLoi, l’exemption à laquelle l’appelant a droit.
+[9] La seule question soulevée devant la Cour est celle de savoir si le ministre du Revenu national a établi à juste titre que l’allocation versée par DDMI devait être incluse dans le revenu imposable de l’appelant pour l’année d’imposition 2014.
+[10] L’appelant fait valoir que l’allocation versée par DDMI devrait être exclue de son revenu imposable en raison de son travail en un endroit éloigné dans un site minier situé dans les Territoires du Nord-Ouest. Il dépense beaucoup plus en billets d’avion annuellement pour se rendre au point d’embarquement que les montants qu’il reçoit de DDMI en guise d’allocation. L’appelant soutient que DDMI avait agi déraisonnablement en ne lui remettant pas de formulaire TD4. Un formulaire TD4 aurait dû lui être remis et, par conséquent, l’appelant demande à la Cour de lui donner raison et de déterminer que l’allocation est déductible d’impôt même en l’absence d’un formulaire TD4.
+[11] Pour ces raisons, l’appelant soutient que son appel doit être accueilli.
+[12] L’intimée soutient que l’allocation versée à l’appelant a été incluse à juste titre dans le revenu imposable puisque DDMI n’a pas fourni de formulaire TD4 Déclaration d’exemption – Emploi sur un chantier particulier. L’absence d’un formulaire TD4 dûment rempli est nécessaire pour que l’allocation puisse être exclue du revenu imposable. De plus, l’allocation était calculée selon un pourcentage du salaire de l’appelant, sans égard à la distance qu’un employé devait parcourir pour se rendre au point d’embarquement, ni aux frais réels engagés. Par conséquent, l’allocation est davantage un incitatif ou une prime qu’une allocation de déplacement. De plus, l’appelant a choisi de vivre dans la province du Nouveau-Brunswick plutôt que de se rapprocher du point d’embarquement. Ce choix était personnel. Par conséquent, l’allocation versée par DDMI à l’appelant est un avantage qui doit être inclus dans le revenu imposable comme le prévoit le paragraphe 6(1) de la Loi , et ne peut être exclue du revenu imposable au titre du paragraphe 6(6) de la Loi.
+[13] Par conséquent, l’intimée soutient que l’appel doit être rejeté sans dépens.
+[14] Les dispositions pertinentes de la Loi en l’espèce sont les suivantes :
+Théorie de l’appelant
+Théorie de l’intimée
+Dispositions législatives
+Éléments à inclure à titre de revenu tiré d’une charge ou d’un emploi
+6 (1) Sont à inclure dans le calcul du revenu d’un contribuable tiré, pour une année d’imposition, d’une charge ou d’un emploi, ceux des éléments suivants qui sont applicables :
+Valeur des avantages
+a) la valeur de la pension, du logement et de tout autre avantage que reçoit ou dont jouit le contribuable, ou une personne avec laquelle il a un lien de dépendance, au cours de l’année au titre, dans le cadre ou en raison de la charge ou de l’emploi du contribuable [...]
+Frais personnels ou de subsistance
+b) les sommes qu’il a reçues au cours de l’année à titre d’allocations pour frais personnels ou de subsistance ou à titre d’allocations à toute autre fin [...]
+….
+Emploi sur un chantier particulier ou en un endroit éloigné
+(6) Malgré le paragraphe (1), un contribuable n’inclut, dans le calcul de son revenu tiré, pour une année d’imposition, d’une charge ou d’un emploi, aucun montant qu’il a reçu, ou dont il a joui, au titre, dans l’occupation ou en vertu de sa charge ou de son emploi et qui représente la valeur des frais — ou une allocation (n’excédant pas un montant raisonnable) se rapportant aux frais — qu’il a supportés pour :
+a) sa pension et son logement, pendant une période donnée :
+(i) soit sur un chantier particulier qui est un endroit où le travail accompli par lui était un travail de nature temporaire, alors qu’il tenait ailleurs et comme lieu principal de résidence, un établissement domestique autonome :
+(A) d’une part, qui est resté à sa disposition pendant toute la période et qu’il n’a pas loué à une autre personne,
+(B) d’autre part, où on ne pouvait raisonnablement s’attendre à ce qu’il retourne quotidiennement étant donné la distance entre l’établissement et le chantier,
+(ii) ) soit à un endroit où on ne pouvait raisonnablement s’attendre à ce qu’il établisse et tienne un établissement domestique autonome, étant donné l’éloignement de cet endroit de toute agglomération,
+si la période au cours de laquelle son travail l’a obligé à s’absenter de son lieu principal de résidence ou à être sur ce chantier ou à cet endroit était d’au moins 36 heures;
+b) le transport, au titre d’une période visée à l’alinéa a) pendant laquelle il a reçu de son employeur la pension et le logement ou une allocation raisonnable au titre de la pension et du logement, entre :
+(i) soit son lieu principal de résidence et le chantier particulier visés au sous-alinéa a)(i),
+(ii) soit l’endroit mentionné au sous-alinéa a)(ii) et un endroit au Canada ou un endroit dans un pays où le contribuable est employé.
+...
+Analyse
+[15] En général, tous les avantages sociaux accordés ou dont bénéficie un employé au titre d'une charge ou d’un emploi sont imposables pour l’employé. Les allocations versées à un employé et la valeur de la pension et du transport fournis par l’employeur à destination et en provenance d’un lieu de travail doivent être incluses dans le revenu de l’employé conformément au paragraphe 6(1) de la Loi. Le paragraphe 6(6) prévoit toutefois une exception à cette règle générale en permettant d’exclure du revenu certains avantages liés à un emploi sur un chantier particulier ou en un endroit éloigné. Cette exception ne s’applique que dans des circonstances limitées.
+[16] Le sous-alinéa 6(6)b)i) de la Loi permet à un employé d’exclure de son revenu la valeur du transport gratuit ou subventionné, ou d’une allocation raisonnable reçue pour les frais de transport qu’a entraînés l’accomplissement de ses fonctions de nature temporaire s’il a reçu de son employeur la pension et le logement ou une allocation raisonnable au titre de la pension et du logement pour une période visée. Le transport assuré par l’employeur ou l’allocation de transport doivent se rapporter au transport de l’employé entre le son lieu principal de résidence et le chantier particulier. En l’espèce, l’allocation n’a pas été accordée pour le transport de l’appelant entre son lieu de résidence et un chantier particulier, mais pour son transport entre son lieu de résidence et le point d’embarquement, à Edmonton, en Alberta. Edmonton n’est pas un chantier particulier aux termes du sous-alinéa 6(6)a)(i) de la Loi.DDMI reconnaît que les frais de déplacement entre le lieu de résidence de l’employé et le point d’embarquement, soit Edmonton, sont des dépenses personnelles. Dans le cas présent, l’allocation visait à aider l’employé à payer les frais de déplacement entre son lieu de résidence et Edmonton, en Alberta. Edmonton n’était pas un chantier particulier, mais uniquement un point d’embarquement et nullement un lieu de travail.
+[17] En vertu du sous-alinéa 6(6)b)ii) de la Loi, lorsqu’un employé effectue un travail à un endroit considéré comme lieu de travail éloigné, la valeur du transport ou l’allocation raisonnable pour le transport entre le lieu de travail éloigné et tout endroit au Canada peut être exclue du revenu de l’employé admissible. En l’espèce, DDMI assurait le transport entre le site minier, un endroit de travail éloigné, et le point d’embarquement d’Edmonton, que l’on pourrait considérer comme « tout autre endroit » au Canada aux termes du sous-alinéa 6(6)b)ii) de la Loi. Si j’ai bien compris, les frais entraînés pour le transport entre Edmonton et le lieu de travail éloigné n’étaient pas inclus dans le revenu de l’appelant.
+[18] Lorsque les exigences énoncées au paragraphe 6(6) sont respectées, l’employeur et l’employé doivent remplir le formulaire TD4, Déclaration d’exemption – Emploi sur un chantier particulier afin d’exclure l’avantage ou l’allocation du revenu de l’employé par application du sous-alinéa 6(6)b)i). Dans le formulaire, l’employeur et l’employé doivent attester que les exigences du paragraphe 6(6) ont été respectées. En l’espèce, DDMI a refusé de fournir un formulaire TD4 au motif que l’allocation versée n’était pas raisonnable et que le formulaire TD4 doit être utilisé pour une demande d’exemption pour un emploi sur un chantier particulier au titre du sous-alinéa 6(6)a)(i) de la Loi et non pour une demande d’exemption pour un emploi en un endroit éloigné au titre du sous-alinéa 6(6)a)(ii) de la Loi, soit l’exemption à laquelle l’appelant était admissible.
+[19] L’appelant soutient que DDMI aurait dû lui remettre un formulaire TD4 et a agi déraisonnablement en refusant de le faire. Cela soulève la question de savoir si la Cour peut permettre l’exclusion d’une allocation du revenu au titre du paragraphe 6(6) de la Loi pour un emploi sur un chantier particulier en l’absence d’un formulaire TD4. À la suite des recherches effectuées dans les bases de données jurisprudentielles habituelles, seulement trois décisions publiées abordent sommairement le formulaire TD4. Aucune de ces décisions ne traite de l’absence du formulaire TD4. Par conséquent, la Cour a dû se reporter aux enseignements tirés de décisions traitant de la question des exigences du formulaire T2200 concernant le droit à la déduction des dépenses d’emploi. Les dispositions du paragraphe 8(10) de la Loi relatives à l’attestation T2200 doivent être respectées, à défaut de quoi le contribuable ne peut déduire de dépenses liées à son emploi, comme les frais afférents à un véhicule à moteur, au titre de l’article 8 de la Loi. Il a été conclu que le défaut d’obtenir une attestation T2200 constitue un obstacle insurmontable à la réussite d’une demande de déduction de dépenses liées à l’emploi.
+[20] Dans le jugement Brochu c. La Reine, 2010 CCI 274, le juge Boyle de notre Cour écrit au paragraphe 11 de ses motifs qu'un contribuable peut obtenir en l’absence du formulaire T2200 une déduction des frais afférents à un véhicule à moteur dans des circonstances exceptionnelles,par exemple si l’employeur a refusé sans motif valable de produire le formulaire T2200. Cependant, aucune circonstance exceptionnelle n’a été démontrée dans l’instance dont il était saisi.
+[21] Dans la décision Kreuz c. La Reine., 2012 CCI 238, l’employeur n’a pas remis à l’appelant le formulaire T2200 prescrit dont parle le paragraphe 8(10) de la Loi, un formulaire attestant qu’il remplissait les conditions de l’alinéa 8(1)h.1) de la Loi. Dans la décision Kreuz, l’employeur était d’avis que l’appelant ne remplissait pas les conditions de l’alinéa 8(1)h.1) de la Loi, et il n’a donc pas délivré le formulaire T2200. L’appelant était d’avis que l’employeur a agi déraisonnablement en ne lui remettant pas de formulaire T2200. La juge D’Auray de la Cour écrit au paragraphe 76 que pour pouvoir déduire ses frais afférents à un véhicule à moteur, l’appelant devait impérativement obtenir un formulaire T2200. L’appelant n’avait pas établi que ses employeurs avaient agi déraisonnablement ou de mauvaise foi en ne lui remettant pas de formulaire T2200.
+[22] Plus récemment, dans la décision Chao c. La Reine., 2018 CCI 72, la Cour s’est penchée sur la question suivante : « Le formulaire T2200 est-il toujours obligatoire? » Le juge Jorré de la Cour a conclu, au paragraphe 93, que dans un cas où l’employeur a refusé de remplir le formulaire, il conviendrait de démontrer que l’employeur a agi de façon déraisonnable ou de mauvaise foi. Toutefois, l’appelant dans la cause Chaon’avait pas réussi à démontrer cela.
+[23] En l’espèce, je ne suis pas en mesure de conclure que DDMI a agi de façon déraisonnable ou de mauvaise foi en refusant de remettre un formulaire TD4 dûment rempli à l’appelant. L’allocation équivalant à 4,5 % du salaire de l’employé a été établie de façon arbitraire et ne correspondait nullement aux frais réels de déplacement engagés entre le lieu principal de résidence de l’appelant et Edmonton, en Alberta.
+[24] En l’espèce, l’appelant a décidé de conserver sa résidence principale au Nouveau-Brunswick et de se rendre au point d’embarquement pour entreprendre ses deux semaines de travail. Il s’agit d’un choix manifestement personnel qui est certainement compréhensible. Cependant, ce choix a des conséquences qu’il doit accepter. Les déplacements de l’appelant entre le Nouveau-Brunswick et Edmonton, en Alberta, étaient essentiellement de nature personnelle puisqu’il a choisi de conserver son lieu principal de résidence dans une autre province. Il est établi depuis longtemps que les dépenses liées au déplacement entre le lieu de résidence d’une personne et son lieu de travail correspondent à des dépenses personnelles. Si l’employeur couvre ces dépenses ou en paie une partie, alors il s’agit d’un avantage imposable.
+[25] En résumé, j’en arrive aux conclusions suivantes :
+a) L’allocation n’a pas été versée pour le transport de l’appelant entre son lieu principal de résidence et un chantier particulier; elle servait plutôt au transport de l’employé entre son lieu de résidence et le point d’embarquement, à Edmonton, en Alberta. Edmonton n’est pas un chantier spécial aux termes du sous-alinéa 6(6)a)i) de la Loi.
+Conclusion
+b) Je suis d’accord avec l’avocate de l’intimée pour dire que l’allocation versée à l’appelant était davantage une mesure incitative visant à attirer et à retenir des employés de qualité.
+c) DDMI a refusé de remettre à l’appelant un formulaire TD4 Déclaration d’exemption – Emploi sur un chantier particulier dûment rempli attestant que les exigences du paragraphe 6(6) ont été respectées. Le formulaire TD4 est requis pour pouvoir exclure du revenu imposable l’allocation de déplacement entre le lieu principal de résidence de l’employé et un chantier particulier.
+d) Je ne suis pas en mesure de conclure que DDMI a agi de façon déraisonnable ou de mauvaise foi en refusant de remettre à l’appelant un formulaire TD4 dûment rempli. L’allocation équivalant à 4,5 % du salaire de l’employé a été établie de façon arbitraire et ne correspondait nullement aux frais réels de déplacement entre le lieu principal de résidence de l’appelant et Edmonton, en Alberta. De plus, la position de DDMI selon laquelle le formulaire TD4 ne s’applique qu’à l’exemption au titre du sous-alinéa 6(6)b)i) concernant un emploi sur un chantier particulier, et non au titre du sous-alinéa 6(6)b)ii) concernant un emploi en un endroit éloigné, est correcte.
+e) La décision de l’appelant de conserver son lieu principal de résidence au Nouveau-Brunswick était un choix personnel. Je respecte ce choix. Cependant, ce choix a des conséquences qu’il doit accepter. Les déplacements de l’appelant entre le Nouveau-Brunswick et Edmonton, en Alberta, étaient essentiellement de nature personnelle puisqu’il a choisi de conserver son lieu principal de résidence dans une autre province. Il est établi depuis longtemps que les dépenses liées au déplacement d’une personne entre son lieu de résidence et son lieu de travail sont des dépenses personnelles. Si l’employeur couvre ces dépenses ou en paie une partie, alors il s’agit d’un avantage imposable.
+[26] Pour les motifs qui précèdent, le présent appel est rejeté.
+Signé à Kingston (Canada), ce 11e jour de décembre 2018.
+« Rommel G. Masse »
+Juge suppléant Masse
+RÉFÉRENCE :
+2018 CCI 232
+Nº DU DOSSIER DE LA COUR :
+2017-2932(IT)I
+INTITULÉ :
+TERRY McEACHERN c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Miramichi (Nouveau-Brunswick)
+DATE DE L’AUDIENCE :
+Le 17 septembre 2018
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT :
+Le 11 décembre 2018
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Dominique Gallant
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)

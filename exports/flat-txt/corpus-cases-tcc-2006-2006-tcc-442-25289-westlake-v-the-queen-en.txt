@@ -1,0 +1,127 @@
+Title: Westlake v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25289/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-442-25289-westlake-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-08-04
+
+# Westlake v. The Queen
+
+- Citation: 2006 TCC 442
+- Decision date: 2006-08-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2402, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Westlake v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-08-04
+Neutral citation
+2006 TCC 442
+File numbers
+2006-527(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-527(IT)I
+BETWEEN:
+ALAN WESTLAKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on July 6, 2006, at Halifax, Nova Scotia.
+Before: The Honourable Justice Georgette Sheridan
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Catherine McIntyre
+____________________________________________________________________
+JUDGMENT
+In accordance with the attached Reasons for Judgment, the appeal of the reassessment of the Minister of National Revenue under the Income Tax Act is allowed, and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to deduct child support amounts of $300 per month for the period June to December 2003, inclusive.
+Signed at Ottawa, Ontario this 4th day of August 2006.
+"G. Sheridan"
+Sheridan J.
+Citation: 2006TCC442
+Date: 20060804
+Docket: 2006-527(IT)I
+BETWEEN:
+ALAN WESTLAKE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant, Alan Westlake, is appealing the reassessment of the Minister of National Revenue disallowing the deduction from his income of certain child support amounts paid by the Appellant in 2003. The basis for the Minister's decision was that the 1995 order[1] (the "Original Order) under which child support amounts of $300 per month per child were first made payable, was varied by a subsequent order[2] (the "Variation Order") issued in 2004. According to the Minister, the effect of the Variation Order was to change the child support amount per child payable by the Appellant; this meant the date upon which that new amount became payable, June 1, 2003, was a "commencement day" under subparagraph 56.1(4)(b)(ii) of the Income Tax Act. As that date is later than April 1997, the child support amount was not deductible under paragraph 60(b) of the Act.
+[2] The relevant portions of subsection 56.1(4) of the Act are:
+"child support amount" means any support amount that is not identified in the agreement or order under which it is receivable as being solely for the support of a recipient who is a spouse or common-law partner or former spouse or common-law partner of the payer or who is a parent of a child of whom the payer is a natural parent.
+"commencement day" at any time of an agreement or order means
+...
+(b) where the agreement or order is made before May 1997, the day, if any, that is after April 1997 and is the earliest of
+...
+(ii) where the agreement or order is varied after April 1997 to change the child support amounts payable to the recipient, the day on which the first payment of the varied amount is required to be made,
+...
+[3] With the exception of subparagraphs (f) and possibly (h)[3], the parties agree on the Minister's assumed facts as set out in paragraph 5 of the Reply to the Notice of Appeal:
+In reassessing the Appellant and in confirming that reassessment, the Minister relied on the same assumptions of fact as follows:
+a) ...
+b) the Appellant and his Former Spouse have two children: Nicholas Alan, born May 25, 1984, and Matthew Thomas, born March 1, 1989;
+c) a Corollary Relief Judgment was issued on March 2, 1995 and required the Appellant to pay child support of $300 per month for each of the two children of the marriage;
+d) a Variation Order was issued on February 27, 2004;
+e) the first child support payment under the Variation Order was due on June 1, 2003;
+f) the Variation Order required the Appellant to pay child support of $504 per month from June 1, 2003 to December 1, 2003 and $400 per month commencing on January 1, 2004;
+g) the child support payments required by the Variation Order were for Matthew Thomas, and Nicholas Alan was no longer considered to be a dependant child;
+h) prior to June 1, 2003, the Appellant paid child support of $600 per month from January to April inclusive ($2,400) and $300 in May; and
+i) prior to June 1, 2003, the Appellant paid no more than $2,700 as child support payments.
+[4] The Appellant represented himself at the hearing of this appeal under the Informal Procedure. Decisions rendered under the Informal Procedure are without precedential value. The Appellant was a credible witness who presented his argument clearly and succinctly. I accept his evidence that it was the intention of the judge who issued the Variation Order to maintain, in accordance with the prior and continuing agreement between the Appellant and his former spouse, the pre-1997 tax treatment[4] of the child support amounts. Neither the Appellant nor his former spouse was represented by counsel at the family Court application in 2004. They met only with a family Court counselor to attempt to resolve certain contentious issues; when that did not produce results, the matter went before the judge who then issued the Variation Order.
+[5] The relevant clauses in the Variation Order are:
+2. From June 1, 2003, to and including December 1, 2003, [the Appellant] is responsible to pay $504.00 per month for the support and maintenance of the child, [MTW], born March 1, 1989. Such maintenance payments are to be taxable in the hands of [the Appellant's former spouse];
+3. Arrears owing by [the Appellant] as of December 31, 2003, are set at $1,228.00;
+4. Commencing January 1, 2004, and on the first day of each month thereafter [the Appellant] shall pay child maintenance in the amount of $400.00 per month
+[6] The difficulty with this case is that the Appellant has found himself in a bad spot despite his own good actions and everyone's good intentions, not least of which, those of the officials at the Canada Revenue Agency. Faced with the Variation Order, and in the absence of any additional facts, they concluded subsection 56.1(b)(ii) of the Act was applicable to the Appellant's situation. As for the Appellant, throughout 2003, he had faithfully paid his child support payments regularly and on time. Indeed, in the last two months of 2003, even without the benefit of the recent Supreme Court of Canada decision on retroactive child support[5], he voluntarily paid an extra $100 per month as a consequence of having received a raise in salary. In respect of the May 2003 payment[6] for his elder son, he ended up paying it twice, following his former spouse's objection to his having given the payment, in the first instance, directly to their son. As a result, he paid to his former spouse another $300 in child support for the month of May 2003. There was no evidence before the Court that the former spouse had any desire to change the tax treatment of the child support amounts. Finally, as shown by the last sentence in paragraph 2 of the Variation Order, the Court was expressly concerned with maintaining the status of the child support amounts as income for the former spouse and implicitly, as deductible from the Appellant's income.
+[7] Counsel for the Respondent is quite right, however, in her submission that the Supreme Court of Nova Scotia is without jurisdiction to render deductible child support amounts that are not properly deductible under the Act. I am also persuaded by her argument that subparagraph 56.1(4)(b)(ii) is the relevant provision for the determination of the "commencement day" in the present circumstances. What I am less convinced of, however, is whether the $504 amount ordered payable under paragraph 2 of the Variation Order was truly a "child support amount", as assumed by the Minister in the disputed assumption at subparagraph 5(f) of the Reply to the Notice of Appeal:
+f) the Variation Order required the Appellant to pay child support of $504 per month from June 1, 2003 to December 1, 2003 and $400 per month commencing on January 1, 2004;
+[8] Under the definition in subsection 56.1(4), the term "child support amount" is defined, by default, as "any support amount that is not identified in the ... order under which it is receivable as being solely for the support of a recipient who is a ... former spouse ... of the payer...". [Emphasis added]. Effectively, then, a child support amount is the residual amount, after the former spouse's support amount has been carved out of the total ordered to be paid. The definition for "support amount" appears in subsection 56.1(4):
+"support amount" means an amount payable or receivable as an allowance on a periodic basis for the maintenance of the recipient, children of the recipient or both the recipient and children of the recipient, if the recipient has discretion as to the use of the amount, and
+(a) the recipient is the spouse or common-law partner or former spouse or common-law partner of the payer, the recipient and payer are living separate and apart because of the breakdown of their marriage or common-law partnership and the amount is receivable under an order of a competent tribunal or under a written agreement; or
+(b) the payer is a natural parent of a child of the recipient and the amount is receivable under an order made by a competent tribunal in accordance with the laws of a province.
+[9] In my view, when paragraphs 2, 3 and 4 of the Variation Order are read together, the effect is that the $504 amount must be broken down into its constituent parts: $300 per month for the maintenance of the one child still eligible for child support, and $204 per month as an allowance payable on a periodic basis for the maintenance of the former spouse in 2003. Although the total amount of $504 is made payable in paragraph 2, that paragraph has to be read in light of paragraph 3 which identifies the total of the $204 amounts as "arrears" of $1,228. The Appellant, however, was not in arrears in respect of his child support obligations. I accept the Appellant's evidence that the $204 per month was ordered payable to his former spouse in respect of what the family Court judge considered to be the tax consequences she experienced. Though ordered for this purpose, there is nothing in the Variation Order itself compelling her to do so; that was left to her discretion. Thus, when paragraphs 2 and 3 are read together in the context in which the Variation Order was made, in my view, the $204 amount meets the criteria for a "support amount": an allowance payable on a periodic basis for the maintenance of the Appellant's former spouse in respect of which she had discretion as to its use. Further support for this interpretation is found in paragraph 4; this is the only provision in the Variation Order directed at changing the amount of the existing $300 child support amount; under paragraph 4, the Supreme Court of Nova Scotia increased the Appellant's monthly payment from $300 per month to $400, effective January 1, 2004. The 2004 taxation year is not under appeal. From this it can be inferred that in 2003, the child support payable in respect of the child remained fixed at $300 per month.
+[10] Having found that the amount of $204 per month was a "support amount", the remaining amount was a child support amount of $300 per month payable for the one child still eligible to receive such payments. Thus, the Variation Order did not change, as contemplated by paragraph 56.1(1)(b)(ii) of the Act, the child support amount payable in 2003 and no "commencement day" was triggered. Accordingly, the payments made from June to December 2003 were properly deductible by the Appellant in that taxation year.
+[11] Accordingly, the appeal of the reassessment of the Minister of National Revenue under the Income Tax Act is allowed, and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant is entitled to deduct child support amounts of $300 per month for the period June to December 2003, inclusive.
+Signed at Ottawa, Ontario this 4th day of August 2006.
+"G. Sheridan"
+Sheridan J.
+CITATION: 2006TCC442
+COURT FILE NO.: 2006-527 (IT)I
+STYLE OF CAUSE: ALAN WESTLAKE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Halifax, Nova Scotia
+DATE OF HEARING: July 6, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Georgette Sheridan
+DATE OF JUDGMENT: August 4, 2006
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Catherine McIntyre
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Exhibit R-1.
+[2] Exhibit A-1.
+[3] The Appellant was paying a total of $600 per month payable as $300 per month per child for each of the two children then eligible for child support.
+[4] Under which the child support amounts ordered prior to May 1997 were taxable in the hands of the Appellant's former spouse and deductible from his income.
+[5] D.B.S. v. S.R.G.; L.J.W. v. T.A.R. 2006 SCC 37 (S.C.C.)
+[6] Not in issue in this appeal.

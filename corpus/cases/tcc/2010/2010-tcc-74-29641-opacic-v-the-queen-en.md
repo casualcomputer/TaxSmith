@@ -1,0 +1,360 @@
+---
+title: "Opacic v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29641/index.do"
+last_modified: "2010-02-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 TCC 74"
+citation2: ""
+neutral_citation: "2010 TCC 74"
+decision_date: "2010-02-05"
+language: "en"
+item_id: "29641"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6148
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:40:04.943000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "24882b5f580380245297914d456e1f1f48281c0eef7383db2ef79c2995c2eb4a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Opacic v. The Queen
+
+- Citation: 2010 TCC 74
+- Decision date: 2010-02-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6148, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Opacic v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-02-05
+Neutral citation
+2010 TCC 74
+File numbers
+2009-1396(IT)I
+Judges and Taxing Officers
+Leslie M. Little
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1396(IT)I
+BETWEEN:
+MILAN OPACIC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of
+Dragica Opacic (2009‑1425(IT)I) on January 14, 2010
+at Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Costa A. Abinajem
+Counsel for the Respondent:
+Toks C. Omisade
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2004 and 2005 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 5th day of February 2010.
+"L.M. Little"
+Little J.
+Docket: 2009-1425(IT)I
+BETWEEN:
+DRAGICA OPACIC,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on common evidence with the appeals of Milan Opacic (2009‑1396(IT)I) on January 14, 2010 at
+Toronto, Ontario
+Before: The Honourable Justice L.M. Little
+Appearances:
+Agent for the Appellant:
+Costa A. Abinajem
+Counsel for the Respondent:
+Toks C. Omisade
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 2004 and 2005 taxation years are dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Vancouver, British Columbia, this 5th day of February 2010.
+"L.M. Little"
+Little J.
+Citation: 2010 TCC 74
+Date: 20100205
+Dockets: 2009-1396(IT)I
+2009-1425(IT)I
+BETWEEN:
+MILAN OPACIC,
+DRAGICA OPACIC,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Little J.
+A. Facts
+[1] The above appeals were heard in Toronto, Ontario on common evidence.
+[2] The Appellants were married in what was then known as Yugoslavia. The Appellants moved to Canada in 1995.
+[3] The Appellants take the position that each of them owns a 50% interest in various properties. They maintain that they each own a 50% interest in an apartment located in Bosnia and they each own a 50% interest in a store located in Serbia. They also maintain that they were 50-50 partners in a partnership formed by them in Toronto under the name of “D-Plus Co.”
+[4] In their income tax returns for the 2004 and 2005 taxation years, the Appellants claimed the following rental losses in connection with the apartment in Bosnia:
+Loss Claimed on Apartment
+2004
+2005
+Dragica Opacic
+$532
+$1,862
+Milan Opacic
+$532
+$1,862
+[5] In their income tax returns for the 2004 and 2005 taxation years, the Appellants claimed the following rental losses in connection with the store in Serbia:
+Loss Claimed on Store
+2004
+2005
+Dragica Opacic
+$946
+$1,928
+Milan Opacic
+$946
+$1,928
+[6] In their income tax returns for the 2004 and 2005 taxation years, the Appellants claimed the following business losses in connection with the activities of D-Plus Co.:
+2004
+2005
+Dragica Opacic
+$ 5,400
+$ 4,998
+Milan Opacic
+$13,345
+$14,256
+[7] By Notices of Reassessment dated November 5, 2007, the Minister of National Revenue (the “Minister”) reassessed the Appellants for the 2004 and 2005 taxation years. In the Reassessments the Minister disallowed a portion of the rental expenses in respect of the store in the amount of $379 and $1,407 for each of the Appellants. The Minister also disallowed all of the rental expenses in respect of the apartment ($532 and $1,862 for each Appellant). The Minister also disallowed all of the business losses claimed by the Appellants in connection with D-Plus Co.
+B. Issues
+[8] The issues are:
+(a) whether the Minister correctly reassessed the Appellants so as to disallow the deduction of (i) the rental losses in respect of the store and (ii) the rental losses in respect of the apartment in the 2004 and 2005 taxation years; and
+(b) whether the Minister correctly reassessed the Appellants so as to disallow the deduction of the business losses in respect to “D‑Plus Co. Import/Export” in the 2004 and 2005 taxation years.
+C. Analysis and Decision
+[9] In the Replies to the Notices of Appeal filed by the Respondent, it was stated that each of the Appellants claimed the following losses for the years indicated:
+Dragica Opacic:
+Store and Apartment
+Year
+Gross Rental Income
+Net Rental Losses
+2002
+$
+Nil
+$
+-5,137
+2003
+633
+-4,010
+2004
+705
+-1,478
+2005
+856
+-3,790
+2006
+532
+-4,578
+2007
+2,720
+-2,357
+$
+5,446
+$
+-21,350
+Milan Opacic:
+Store and Apartment
+Year
+Gross Rental Income
+Net Rental Losses
+2002
+$
+Nil
+$
+-5,137
+2003
+633
+-4,010
+2004
+705
+-1,478
+2005
+856
+-3,790
+2006
+532
+-4,578
+2007
+2,720
+-2,357
+$
+5,446
+$
+-21,350
+[10] In the Replies to the Notices of Appeal filed by the Respondent, it was stated that each of the Appellants claimed business losses for the years 2002 through 2007 re the operation of D-Plus Co. The following business losses were claimed by each Appellant:
+Dragica Opacic:
+Year
+Gross Business Income
+Net Business Losses
+2002
+$
+5,845
+$
+-5,844
+2003
+207
+-4,118
+2004
+835
+-5,400
+2005
+1,253
+-4,998
+2006
+1,203
+-3,225
+2007
+2,500
+-8,259
+$
+11,843
+$
+-31,844
+Milan Opacic:
+Year
+Gross Business Income
+Net Business Losses
+2002
+$
+Nil
+$
+-8,877
+2003
+207
+-11,414
+2004
+835
+-13,345
+2005
+1,253
+-14,256
+2006
+16,278
+-3,486
+2007
+2,000
+-7,524
+$
+20,573
+$
+-58,902
+[11] During the hearing, neither of the Appellants made any comment or produced any evidence to indicate or suggest that the losses shown in paragraphs [9] and [10] were incorrect.
+[12] The Appellants said that they and their family have visited Bosnia and Serbia on an annual basis for a number of years since they moved to Canada and including the years under appeal. The Appellants said that they charged 50% of their airline tickets as business expenses.
+[13] The Appellant, Dragica Opacic, said that they discontinued the operation of D-Plus Co. in 2007. MD-Progress Co. is a sole proprietorship operated by Dragica Opacic since 2007 and it has continued the business of D-Plus Co.
+[14] In support of his argument that the losses claimed by the Appellants were deductible, Mr.Abinajem, the agent for the Appellants, referred me to a number of Court decisions:
+A. Appellants’ Position
+(a) Williams v. The Queen, 2009 TCC 93, 2009 D.T.C. 1090
+The Appellants’ agent referred to the decision in Williams, where Justice Webb said,
+[17] It is also not appropriate in my opinion to simply deny expenses on the basis that they exceed revenue. This could lead to a conclusion that a person could never incur a loss for tax purposes. Simply the fact that the expenditures exceed revenue is not, in and of itself, sufficient to deny a deduction for such expenditures.
+(b) Tannenbaum v. The Queen, 2005 TCC 13, 2005 D.T.C. 173
+The agent noted that Justice Rip (now Chief Justice Rip) allowed the appeal. Justice Rip said at paragraph 15:
+… The Minister relied on paragraph 18(1)(a) and section 67 of the Act to disallow “deemed interest expenses” and business losses of $1,855,800. …
+(c) Guy Bertomeu v. The Queen, 2006 TCC 85, 2008 D.T.C. 4673
+In this case, Justice Archambault of the Tax Court allowed the taxpayer to deduct the management fees that he had paid.
+B. Respondent’s Position
+[15] Counsel for the Respondent said in his submissions:
+The underlying issue that addresses those deductions is whether the appellant had a source of income with respect to the rental property in Yugoslavia and with respect to the D-Plus business. Essentially, did the appellant have a source of income that would qualify or meet the requirements under section 3 of the act that gives a breakdown for business and property.
+The second issue is whether the appellant is entitled to expenses that were disallowed by the Minister.
+[16] Counsel for the Respondent continued:
+To give the Court a very brief overview of the issues that I have outlined, it essentially boils down to was there a source of income in relation to the rental income, the rental property in Yugoslavia, and was there a source of income in relation to the business for D-Plus. That is one issue.
+The second issue is that if the Court does find that there was a source of income in relation to the property and to the business, were the expenses incurred for the purposes of earning or producing income as required by section 18(1)(a) and (h), as well, the limitation periods in those paragraphs of the Income Tax Act.
+[17] Counsel continued:
+I would like to note that, with regards to the store, the Minister’s position is not that there wasn’t such a source of income; it is that the expenses that were disallowed were not either incurred or were not incurred for the purpose of producing or gaining income or earning income from that property.
+In subsection 248(1) of the Income Tax Act, there is a definition for business that provides a definition for what a business is. This definition can be found in tab 7 of the respondent’s book of authorities. This is an inclusive definition, it is not an exhaustive definition. It defines a business as including a profession, calling… .
+[18] Counsel for the Respondent said:
+… The key case on whether an activity constitutes a source of income for business or property is the Stewart case, [2002 SCC 46], that I am sure the Court is very familiar with. This is the Supreme Court of Canada 2002 decision that changed the rules on determining whether an activity constitutes a source of income for purposes of the Income Tax Act in relation to a business and to a property.
+(Emphasis added)
+The old test that used to be applied prior to Stewart was the reasonable expectation of profit test. In Stewart, prior to 2002, the Court said and the Canada Revenue Agency used this approach to determine whether or not an activity constituted a source of income for purposes of the Income Tax Act.
+After Stewart, the rules were changed and the Court articulated a different test. … [In Stewart] [t]he Court states that:
+“In our view the reasonable expectation of profit analysis cannot be maintained as an independent source test.”
+… At paragraph 5 of [Stewart], the Court stated that:
+“It is undisputed that the concept of a source of income is fundamental to the Canadian tax system. However, any test which assesses the existence of a source must be firmly based on the words and scheme of the act. As such, in order to determine whether a particular activity constitutes a source of income, the taxpayer must show that he or she intends to carry on that activity in pursuit of profit and support that intention with evidence.”
+There is a subjective portion that has to be examined in addition to objective criteria that the Court lists out, as well. I will address those objective criteria a little further down in my submissions:
+“The purpose of this test is to distinguish between commercial and personal activities and, where there is no personal or hobby element to a venture undertaken with a view for profit, the activity is commercial and the taxpayer’s pursuit of profit is established. However, where there is a suspicion that the taxpayer’s activity is a hobby or a personal endeavour, rather than a business, the taxpayer’s so-called reasonable expectation of profit is a factor – so it is one factor – among others which can be examined to ascertain whether the taxpayer has a commercial intent.”
+[19] Counsel for the Respondent said that paragraph 50 in Stewart is the key provision of this case. It says:
+It is clear that in order to apply section 9, the taxpayer must first determine whether he or she has a source of either business or property income. As has been pointed out, commercial activity which falls short of being a business may nevertheless be a source of property income. As well, it is clear that some taxpayers’ endeavours are neither businesses nor sources of property income but are mere personal activities. As such, the following two-stage approach with respect to the source question can be employed.
+[20] Counsel quoted paragraph 52 of Stewart:
+The purpose of this first stage of the test is simply to distinguish between commercial and personal activities…
+[21] Paragraph 54 of Stewart says:
+It should also be noted that the source of income assessment is not a purely a subjective inquiry. Although in order for an activity to be classified as commercial in nature, the taxpayer must have the subjective intention to profit, in addition, as stated in Moldowan, this determination should be made by looking at a variety of objective factors. Thus, in expanded form, the first stage of the above test can be restated as follows: “Does the taxpayer intend to carry on an activity for profit and is there evidence to support that intention?” This requires the taxpayer to establish that his or her predominant intention is to make a profit from the activity and that the activity has been carried out in accordance with objective standards of businesslike behaviour.
+[22] Counsel continued:
+The Court then expands a little bit on some of those objective factors:
+“The objective factors listed by Justice Dickson in Moldowan were – (1) the profit and loss experience in past year, (2) the taxpayer’s training, (3) the taxpayer’s intended course of action and, (4) the capability of the venture to show a profit.”
+[23] Counsel said that the key part is:
+The overall assessment to be made is whether or not the taxpayer is carrying on an activity in a commercial manner.
+(Emphasis added)
+[24] I agree with the position as outlined by counsel for the Respondent. In my opinion, the Stewart decision of the Supreme Court of Canada established new rules for determining whether a taxpayer can deduct losses suffered on property losses or business losses.
+[25] If we apply the new rules as established by the Stewart decision, we must address the following points:
+1. The Profit and Loss Experience
+It will be noted that each of the Appellants claimed rental losses of $21,350 for the 2002 to 2007 taxation years.
+The Appelant Dragica Opacic claimed business losses of $31,844 from 2002 to 2007.
+The Appellant Milan Opacic claimed business losses of $58,902 from 2002 to 2007. In addition, each of the parties admitted that they took a vacation for part of the time they visited Bosnia and Serbia on behalf of D-Plus Co. and claimed one-half of the cost of their airline tickets as business expenses.
+I suggest that significant losses such as the losses suffered by the Appellants as outlined above show a lack of commercial enterprise, i.e. the activities were not being carried on in a commercial manner.
+2. Taxpayers’ Training
+Dragica Opacic said that she took a course in International Trading at a Community College. She received a Certificate when she completed this course. However, there was no evidence produced to indicate any details surrounding this course. There was no evidence that Milan Opacic took any training. There was no evidence that either Appellant had any detailed personal experience in dealing with a successful import and export business.
+3. Intended Course of Action
+There is no evidence that the Appellants changed their course of action to make any of the activities profitable. It should be noted that Dragica Opacic discontinued D-Plus Co. in 2007 and formed a sole proprietorship called MD‑Progress Co. However, the losses continued.
+4. The Capability of the Venture to Show a Profit
+Based on a careful analysis of the evidence, I have concluded that the activities under review could never show a profit.
+[26] The Stewart case refers to the necessity to establish that the taxpayer was carrying on the activity in a commercial manner.
+[27] Based upon an analysis of all of the evidence, I have concluded that the Appellants were not carrying on the activities under review in a commercial manner.
+[28] The appeals are dismissed without costs.
+Signed at Vancouver, British Columbia, this 5th day of February 2010.
+“L.M. Little”
+Little J.
+CITATION: 2010 TCC 74
+COURT FILE NOS.: 2009-1396(IT)I
+2009-1425(IT)I
+STYLE OF CAUSE: Milan Opacic and
+Dragica Opacic
+v. Her Majesty The Queen
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: January 14, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice L.M. Little
+DATE OF JUDGMENT: February 5, 2010
+APPEARANCES:
+Agent for the Appellants:
+Costa A. Abinajem
+Counsel for the Respondent:
+Toks C. Omisade
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

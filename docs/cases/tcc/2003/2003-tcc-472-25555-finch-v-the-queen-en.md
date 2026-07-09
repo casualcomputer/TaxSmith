@@ -1,0 +1,151 @@
+---
+title: "Finch v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/25555/index.do"
+last_modified: "2003-07-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 472"
+citation2: ""
+neutral_citation: "2003 TCC 472"
+decision_date: "2003-07-04"
+language: "en"
+item_id: "25555"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2457
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T17:59:49.043000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f19d0dfff1ef60291a41ce4edb19032ef66cf06cb29fe4621c8a24aa5780e876"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Finch v. The Queen
+
+- Citation: 2003 TCC 472
+- Decision date: 2003-07-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2457, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Finch v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-07-04
+Neutral citation
+2003 TCC 472
+File numbers
+2002-1240(GST)I
+Judges and Taxing Officers
+Terrence O'Connor
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2002-1240(GST)I
+BETWEEN:
+PERCY FINCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+_______________________________________________________________
+Appeal heard on May 30, 2003 at Toronto, Ontario
+Before: The Honourable Justice Terrence O'Connor
+Appearances:
+Agent for the Appellant:
+Sean McKillop
+Counsel for the Respondent:
+Lorraine Edinbord
+_______________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated August 23, 2001, and bears number 58870 is allowed and the said assessment is vacated.
+Signed at Ottawa, Canada this 4th day of July, 2003.
+"O'Connor, J."
+Citation: 2003TCC472
+Date: 20030704
+Docket: 2002-1240(GST)I
+BETWEEN:
+PERCY FINCH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+O'Connor, J.
+[1] This appeal was heard on May 30, 2003 at Toronto, Ontario.
+[2] The issue is whether or not Percy Finch, the Appellant, is liable under Section 325 of the Excise Tax Act ("Act") in the amount of $14,000. The Minister of National Revenue ("Minister") maintains that the $14,000 was transferred to the Appellant by one David Maybee ("David") at a time when David was indebted for Goods and Service Tax ("GST") in the amount of $45,745; it being acknowledged that David was not dealing at arm's length with the Appellant because the Appellant is the common-law husband of Lorraine McConnell ("Lorraine") and the mother of Kenneth Maybee ("Kenneth"), who in turn is the father of David.
+[3] The Appellant's submission is that the $14,000 transferred to him was in fact monies belonging to Kenneth and not David and therefore there was no transfer by a person owing GST with the result that the Appellant is not liable. The Appellant and Kenneth submit further that the Appellant and his common-law wife, Lorraine had in 1998 purchased a truck from Kenneth for $39,000, that the said truck was subsequently confiscated by the police as a stolen vehicle and that the $14,000 represented the balance owing to the Appellant by Kenneth after taking into consideration an amount of $15,000 which had been paid to the Appellant by the Motor Dealers Compensation Fund ("Fund"), being the maximum amount payable by the Fund under its insurance plan and it being further acknowledged that at the time of the confiscation, the truck had a value of $29,000. Thus the $15,000 and the $14,000 compensated the Appellant for his loss.
+[4] Subsections 325(1) and 325(2) of the Act reads as follows:
+Where at any time a person transfers property, either directly or indirectly, by means of a trust or by any other means, to
+(a) the transferor's spouse or common-law partner or an individual who has since become the transferor's spouse or common-law partner,
+(b) an individual who was under eighteen years of age, or
+(c) another person with whom the transferor was not dealing at arm's length, the transferee and transferor are jointly and severally liable to pay under this Part an amount equal to the lesser of
+(There follows a formula which if applied to the facts in this Appeal, would impose an indirect liability on the Appellant of $14,000.)
+(2) Assessment - The Minister may at any time assess a transferee in respect of any amount payable by reason of this section, and the provisions of sections 296 to 311 apply, with such modifications as the circumstances require.
+[5] Kenneth testified that he received an amount of $21,284.13 as his after-tax- bonus from his employer, Boyer Pontiac and Buick and that the said amount was deposited into the account of J.K. Auto Sales, a proprietorship owned by Danielle, the wife of David. The deposit was made on January 13, 2000 and on January 14, 2000 a cheque was issued to Kenneth in the amount $1,000 thus making Kenneth's net deposit $20,284.13. The Appellant and Kenneth maintain that this represented a temporary loan to Danielle to help her in the start up of her J.K. Auto Sales business, essentially to assist her to buy cars. It provided the necessary funds until such time as Danielle was able to obtain a bank loan. It was understood that the said amount would be paid back on one week's notice, so that Kenneth could pay certain debts including the said amount of $14,000 which Kenneth owed to the Appellant. The Appellant was in Florida from January to March 2000 and according to the testimony he only required the $14,000 when he returned from Florida to his home. When the Appellant returned home in March, 2000 David signed and delivered the $14,000 cheque to Kenneth, who handed it to the Appellant. It was the further testimony of Kenneth that a cheque for $5,000 drawn on the same account was also signed by, David, payable to Brad Maybee, ("Brad") another son of Kenneth, to assist Brad in his education at St. Lawrence College. This $5,000 cheque was also delivered to Kenneth who in turn delivered it to Brad. So from the original net deposit of $20,284.13, $19,000 ($14,000 and $5,000) was paid out, leaving a balance of 1,284.13 which Kenneth left in the same account for use by Danielle in her business.
+[6] The Respondent maintains that J.K. Auto Sales was in fact a business owned and operated by David, that the proprietorship was only put in the wife's name as protection so that creditors of David could not seize assets of that business, it being in his wife's name.
+[7] David had signing authority on the bank account of J.K. Auto Sales and in fact he did sign the cheques for $14,000 payable to the Appellant and the $5,000 payable to Brad.
+[8] The question arises as to why Kenneth did not pay the sum of $14,000 directly to the Appellant. Kenneth testified that he wanted to help his sister-in-law, Danielle, in the start up of her business as described above.
+[9] The Respondent maintains, as mentioned, that J.K. Auto Sales was in fact the business of David, that he had signing authority over the bank account of that business and consequently the $14,000 which came out of that account represents money that was truly owned by David and not Kenneth.
+[10] On being asked why the $14,000 cheque was signed by David, Kenneth replied as follows:
+HIS HONOUR: Well, could you explain why the cheque is signed by David?
+THE WITNESS: Because Dave drove the two truck up to Boyer Pontiac all the time to pick up cars that I'd sold Danielle. So when she opened the account she gave him signing authority on her account so that he could issue cheques to me at Boyer Pontiac or at CNC Auto Exchange, or where we bought cars. So he didn't own the business. He didn't run it. He just - he had signing authority when he'd come to pick up cars for me.
+HIS HONOUR: Why would he sign a cheque for 14,000?
+THE WITNESS: Because he was paying back a loan that I had made to his wife, and that was the deal. As soon as I needed the money back, he would pay me back. And as soon as my parents came home from Florida, I said, pay them the 14,000 from the 20,000 that I'd lent them, so he did, and then I said I need $5,000 for my son for his tuition, so he gave him a cheque as well.
+I didn't have signing authority on the account, or I'd have done it myself, which would have been a lot simpler. Like, the money was my money form my income at Boyer Pontiac. It was not Dave's.
+ANALYSIS
+[11] The bottom line in resolving this issue is to ask the question whose money was it, i.e. did the $14,000 represent monies which were the property of Kenneth rather than David?
+[12] In my opinion it is abundantly clear that the $14,000 formed part of the $21,284.13 representing the bonus that Kenneth had received (and paid taxes on) from his employer, Boyer Pontiac. and Buick. Thus it is clear that Kenneth was the owner of the $21,284.13 and that that sum provided the funds for the $14,000 cheque loaned to the Appellant.
+[13] It is also clear that Kenneth owed $14,000 to the Appellant and that the origin of this debt was established as being caused by the vehicle which Kenneth had sold to the Appellant and which was subsequently confiscated as a stolen vehicle, as explained above.
+[14] The mere fact that David had signing authority and may have exercised certain powers and control over J.K. Auto Sales is not sufficient to establish that the monies in question were his.
+[15] The fact of a cheque for $5,000 for Brad being signed and delivered in the same manner as the $14,000 cheque is consistent with the other facts which demonstrated that the $14,000 and $5,000 represented part of the sum of $21,284.13 which was the property of Kenneth, notwithstanding that it had been deposited in the account of J.K. Auto Sales for the reasons explained above.
+[16] It is to be noted that the $14,000 which the Appellant received was subsequently invested in a one-third ownership of 52 Hibbard Drive, Ajax, Ontario, which property was rented out. The other two-thirds ownership belonged to Brad and Lorraine equally.
+[17] In my opinion it is abundantly clear that the $14,000 represented monies that belonged to Kenneth and not to David and consequently there was no transfer as contemplated in subsection 325(1) of the Act. Consequently the appeal is allowed and the assessment dated August 23, 2001, numbered 58870 is vacated.
+[18] There shall be no costs.
+Signed at Ottawa, Canadathis 4th day of July, 2003.
+"O'Connor, J."
+CITIATION NO.:
+2003TCC472
+COURT FILE NO.:
+2002-1240(GST)I
+STYLE OF CAUSE:
+Percy Finch v. The Queen
+PLACE OF HEARING
+Toronto, Ontario
+DATE OF HEARING
+May 30, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable Justice O'Connor
+DATE OF JUDGMENT
+July 4th, 2003
+APPEARANCES:
+Agent for the Appellant
+Sean McKillop
+Counsel for the Respondent:
+Lorraine Edinboro
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

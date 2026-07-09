@@ -1,0 +1,299 @@
+---
+title: "SWS Communication Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/31002/index.do"
+last_modified: "2012-10-25"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 377"
+citation2: ""
+neutral_citation: "2012 CCI 377"
+decision_date: "2012-10-25"
+language: "fr"
+item_id: "31002"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4884
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:18:55.525000+00:00"
+cases_cited_count: 15
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9007d70461ba40d67712ef3b877dc6d3638a8accdc888087d2b27cc4df4f3caf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# SWS Communication Inc. c. La Reine
+
+- Citation: 2012 CCI 377
+- Decision date: 2012-10-25
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4884, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+SWS Communication Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-25
+Référence neutre
+2012 CCI 377
+Numéro de dossier
+2009-3624(GST)G, 2009-3625(GST)G, 2010-1733(GST)G
+Juges et Officiers taxateurs
+Robert James Hogan
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossiers : 2009-3624(GST)G
+2010-1733(GST)G
+ENTRE :
+SWS COMMUNICATION INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l’appelante :
+Me Caroline Desrosiers
+Me Nicolas Simard
+Avocat de l'intimée :
+Me Benoît Denis
+____________________________________________________________________
+ORDONNANCE
+VU les motifs du jugement rendu le 4 avril 2012;
+ET VU les observations des parties au sujet des dépens;
+Les dépens de 37 282,56 $ sont adjugés à l’appelante et à la société Centre les Voyages Miracle Inc. conformément aux motifs de l’ordonnance ci-joints;
+Les débours seront taxés de la façon habituelle.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2012.
+« Robert J. Hogan »
+Juge Hogan
+Dossier : 2009-3625(GST)G
+ENTRE :
+CENTRE LES VOYAGES MIRACLE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Devant : L'honorable juge Robert J. Hogan
+Comparutions :
+Avocats de l’appelante :
+Me Caroline Desrosiers
+Me Nicolas Simard
+Avocat de l'intimée :
+Me Benoît Denis
+____________________________________________________________________
+ORDONNANCE
+VU les motifs du jugement rendu le 4 avril 2012;
+ET VU les observations des parties au sujet des dépens;
+Les dépens de 37 282,56 $ sont adjugés à l’appelante et à SWS Communication Inc. conformément aux motifs de l’ordonnance ci-joint;
+Les débours seront taxés de la façon habituelle.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2012.
+« Robert J. Hogan »
+Juge Hogan
+Référence : 2012 CCI 377
+Date : 20121025
+Dossiers : 2009-3624(GST)G
+2010-1733(GST)G
+ENTRE :
+SWS COMMUNICATION INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée,
+Dossier : 2009-3625(GST)G
+ENTRE :
+CENTRE LES VOYAGES MIRACLE INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DE L’ORDONNANCE
+Le juge Hogan
+I. INTRODUCTION
+[1] À la conclusion de mes motifs du jugement dans les présents appels, j’ai prévu que les parties avaient 30 jours pour s’entendre sur les dépens, à défaut de quoi, elles devaient déposer des observations écrites à la Cour.
+[2] Le 27 avril 2012, SWS Communication Inc. (« SWS ») et Centre les Voyages Miracle Inc. (« CVM ») ont présenté à l’intimée une offre de règlement quant au montant des dépens. N’ayant reçu aucune réponse de la part de l’intimée, SWS et CVM ont déposé leurs observations écrites le 18 mai 2012[1]. Pour sa part, le procureur de l’intimée n’a pas déposé d’observations. Les parties ont également eu l’occasion de faire valoir leurs prétentions lors d’une conférence téléphonique tenue le 13 juin 2012.
+II. LES OBSERVATIONS DES APPELANTES
+[3] SWS et CVM demandent des dépens de 124 865,12 $ sur la base procureur-client, soit des frais facturés de 45 100,37 $ et des frais à facturer de 29 464,75 $ auxquels s’ajoute une prime de 50 000 $. Les frais à facturer sont des honoraires calculés sur une base horaire qui n’ont pas encore été facturés, mais qui le seront puisque les appelantes ont obtenu gain de cause sur le fond. Les appelantes prétendent qu’il est approprié que la Cour leur accorde des dépens excédant les montants prévus à l’annexe II, tarif B des Règles (le « tarif ») en raison (1) de la complexité des appels, (2) du rejet par l’intimée d’offres écrites de règlement qui lui étaient plus favorables que le jugement, (3) du comportement de l’intimée pendant le litige.
+[4] SWS et CVM prétendent que leurs appels étaient d’une grande complexité principalement en raison de la technologie en cause, soit la technologie voix sur protocole Internet (« VoIP »), qui permet de transmettre des communications par Internet plutôt qu’au moyen de lignes téléphoniques traditionnelles. Ainsi, les appelantes sont d’avis que pour se préparer à l’audience, elles devaient avoir une compréhension approfondie de cette technologie afin de pouvoir comprendre l’application des règles de la LTA à celle-ci.
+[5] SWS et CVM demandent donc que la Cour, comme elle l’a fait dans la décision Taylor c. La Reine[2], s’éloigne du tarif en raison de la complexité élevée des questions en litige.
+[6] En se fondant sur la directive sur la procédure no 17[3], de même que sur les décisions IPAX Canada[4], Barrington Lane Developments[5] et Imperial Oil Resources Ltd.[6], les appelantes affirment également que l’existence d’offres écrites de règlement est l’un des principaux et plus importants facteurs à considérer lorsqu’une Cour adjuge des dépens.
+[7] SWS et CVM affirment avoir présenté plusieurs offres afin de régler les appels, qui portaient sur la taxe qui n’aurait été ni perçue ni remise lors de la fourniture de certains services par CVM à Convergia et par SWS à Convergia et à BMT.
+[8] En vertu de la première offre présentée à l’intimée le 8 décembre 2010, soit plus d’un an avant l’audience, les appelantes étaient prêtes à accepter que les cotisations soient confirmées quant aux fournitures à Convergia, étant donné que Convergia possède une société affiliée, Convergia Networks Inc., qui était inscrite à la TPS et à la TVQ. Toutefois, les appelantes demandaient que la TPS réclamée pour les fournitures effectuées à BMT soit annulée.
+[9] Cette offre a été faite de nouveau le 26 janvier, le 1er décembre et le 23 décembre 2011. De plus, plusieurs propositions orales auraient été faites à l’intimée au cours de l’année 2011. Finalement, le 1er février 2012, les appelantes ont offert, par écrit, d’accepter la cotisation en ce qui concerne les services fournis à Convergia et ont en plus offert que 30 % du montant des cotisations soit confirmé quant à la TPS pour les fournitures à BMT.
+[10] SWS et CVM prétendent que l’intimée n’a exprimé de position quant aux offres de règlement que la veille du procès, lorsque le procureur de l’intimée a rejeté la dernière offre qui lui avait été présentée.
+[11] SWS et CVM avancent qu’en vertu de l’alinéa 147(3)g) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), le manque de coopération de l’intimée devrait être découragé par l’adjudication de dépens plus élevés que les montants prévus au tarif. Plus précisément, les appelantes reprochent à l’intimée de ne pas avoir fait les hypothèses de fait nécessaires pour justifier les nouvelles cotisations, de ne pas avoir répondu aux offres de règlement présentées à de nombreuses reprises, d’avoir omis de rappeler leurs avocats et de répondre à leurs courriels et de n’avoir fait connaître sa position quant à la dernière offre qui lui avait été présentée que la veille de l’audience. Les appelantes prétendent qu’un tel comportement de la part de l’intimée doit être découragé.
+III. LES OBSERVATIONS DE L’INTIMÉE
+[12] L’intimée concède que SWS et CVM ont droit aux dépens. L’intimée demande toutefois que les dépens soient adjugés aux appelantes conformément au tarif.
+[13] L’intimée reconnaît la déficience de ses réponses aux avis d’appel de SWS et CVM, mais prétend que celle-ci découle principalement de la brièveté des avis d’appels de SWS et CVM.
+[14] L’intimée admet ne pas avoir répondu de façon adéquate aux offres de règlement qui lui ont été présentées. Le procureur de l’intimée affirme avoir répondu oralement à la première offre des appelantes. Par la suite, il ne pouvait répondre aux offres de règlement, puisqu’il n’avait pas de mandat de sa cliente à cet égard. Ce n’est que la veille de l’audience qu’il a pu refuser l’offre finale.
+[15] L’intimée prétend que de toute façon, ces offres de règlement ne doivent pas être prises en considération lors de l’adjudication des dépens puisqu’il lui était légalement impossible de les accepter, parce que les règlements proposés n’avaient pas de fondement factuel. Selon l’intimée, il était impossible de prétendre que certaines fournitures étaient taxables alors que d’autres ne l’étaient pas. L’intimée compare les offres de règlement de SWS et CVM à celle ayant fait l’objet de la décision de la Cour d’appel fédérale dans l’arrêt CIBC World Markets[7].
+[16] Le procureur de l’intimée affirme ne pas avoir adopté un comportement inapproprié, incorrect, répréhensible, outrageant ou scandaleux. Son défaut de déposer des observations écrites conformément à l’ordonnance du 4 avril 2012 découle d’une mauvaise compréhension de l’ordonnance.
+[17] Le procureur de l’intimée affirme que l’adjudication de dépens supérieurs à ceux prévus au tarif n’est donc pas justifiée en l’espèce.
+IV. ANALYSE
+A. Possibilité de s’écarter des montants prévus au tarif
+[18] Il est bien établi qu’un juge possède un pouvoir discrétionnaire absolu et illimité de refuser ou d’accorder des dépens, pourvu que ce pouvoir ne soit pas exercé de façon arbitraire, mais bien dans le respect des principes établis et des règles applicables[8]. À cet égard, les articles 147 à 152.1 des Règles encadrent l’exercice de ce pouvoir discrétionnaire sous le régime de la procédure générale.
+[19] En vertu du paragraphe 147(1) des Règles, la Cour peut fixer les frais et dépens, les répartir et désigner les personnes qui doivent les supporter. Le paragraphe 147(3) des Règles dispose qu’en exerçant sa discrétion, la Cour peut tenir compte:
+a) du résultat de l’instance;
+b) des sommes en cause;
+c) de l’importance des questions en litige;
+d) de toute offre de règlement présentée par écrit;
+e) de la charge de travail;
+f) de la complexité des questions en litige;
+g) de la conduite d’une partie qui aurait abrégé ou prolongé inutilement la durée de l’instance;
+h) de la dénégation d’un fait par une partie ou de sa négligence ou de son refus de l’admettre, lorsque ce fait aurait dû être admis;
+i) de la question de savoir si une étape de l’instance,
+(i) était inappropriée, vexatoire ou inutile,
+(ii) a été accomplie de manière négligente, par erreur ou avec trop de circonspection;
+j) de toute autre question pouvant influer sur la détermination des dépens.
+[20] Le paragraphe 147(4) stipule que la Cour peut fixer les dépens en tenant compte ou non du tarif et peut adjuger une somme globale au lieu ou en sus des dépens taxés. Pour sa part, l’alinéa 147(5)c) des Règles accorde à la Cour le pouvoir d’adjuger les dépens sur la base procureur-client.
+[21] Ces dispositions des Règles démontrent la grande discrétion accordée à la Cour, comme l’a reconnu la Cour d’appel fédérale dans l’arrêt Canada c. Lau[9].
+[22] Bien que SWS et CVM n’aient pas expressément utilisé l’expression « dépens sur la base procureur-client » afin de décrire les dépens qu’elles demandaient, c’est ce qu’elles réclament dans les faits. En effet, les appelantes demandent 100 % des honoraires et des frais supportés pour la préparation du litige.
+[23] Il est bien établi que l’adjudication des dépens sur la base procureur-client est l’exception et non la règle. De tels dépens ne peuvent être adjugés qu’en présence d’une conduite répréhensible, scandaleuse ou outrageante par l'une des parties[10]. Or, le comportement du procureur de l’intimée ne satisfait pas à ce critère. Il est vrai qu’il a négligé, jusqu’à la veille de l’audience, de répondre aux offres de règlement qui lui ont été présentées et qu’il ne s’est pas conformé à l’ordonnance de la Cour. Bien que ce comportement soit loin d’être exemplaire, il ne saurait être qualifié de répréhensible, de scandaleux ou d’outrageant. Ainsi, l’adjudication des dépens sur la base procureur-client n’est pas justifiée en l’espèce.
+[24] Cependant, cette conclusion ne signifie pas nécessairement que les dépens adjugés aux appelantes doivent suivre les montants prévus au tarif. En effet, dans plusieurs décisions récentes, la Cour a adjugé des dépens inférieurs aux dépens procureur-client, mais supérieurs aux montants au tarif[11].
+[25] L’intimée fait valoir qu’il doit y avoir malfaisance ou inconduite pour que le juge puisse s’éloigner du tarif.
+[26] Le raisonnement de l’intimée découle d’une mauvaise compréhension de la distinction entre les dépens sur la base procureur‑client et les dépens entre parties. Il s’agit de deux types de dépens distincts, auxquels s’appliquent des règles différentes[12]. Ainsi, le refus d’adjuger des dépens sur la base procureur‑client dans les décisions Young[13] et Alemu[14] en raison de l’absence de comportement répréhensible par l’intimée ne saurait être transposé directement à l’analyse des dépens entre parties, qui sont un autre type de dépens, auxquels s’appliquent des règles distinctes[15].
+[27] Dans la décision Banque continentale du Canada c. La Reine[16], le juge en chef Bowman (tel était alors son titre), a fait les commentaires suivants quant à la possibilité d’adjuger des dépens excédant ceux au Tarif :
+9. Il est manifeste que les montants prévus au tarif ne sont nullement censés compenser entièrement une partie des frais juridiques que celle-ci a engagés dans la poursuite d'un appel. Le fait que les montants prévus au tarif paraissent excessivement bas par rapport aux dépens réels d'une partie n'est pas une raison pour adjuger des dépens supplémentaires à ceux que prévoit le tarif. Je ne crois pas que, chaque fois que la présente Cour est saisie d'une cause de nature fiscale importante et complexe, nous devrions user de notre pouvoir discrétionnaire pour hausser les dépens adjugés à un montant qui corresponde davantage à celui que les avocats des contribuables factureront vraisemblablement. Il doit avoir été évident aux membres des comités de rédaction des règles qui ont fixé le tarif que les dépens entre parties qui peuvent être recouvrés sont de peu d'importance par rapport aux frais réels qu'une partie peut avoir engagés. Nombreuses sont les causes importantes et complexes dont la Cour est saisie. Les litiges de nature fiscale sont un aspect complexe et spécialisé du droit, et les rédacteurs des Règles auxquelles nous sommes soumis devaient le savoir.
+10. Il faut habituellement respecter le tarif, à moins de circonstances exceptionnelles, dont une inconduite de la part de l'une des parties, un retard abusif, une prolongation inutile de l'instance, des querelles procédurales inutiles, pour n'en citer que quelques-unes. Aucun de ces éléments n'est présent en l'espèce.
+[28] À première vue, ce passage semble militer fortement contre une déviation des montants prévus au tarif, à moins de circonstances exceptionnelles quant au comportement des parties justifiant l’adjudication de dépens sur la base procureur-client. Or, rien n’indique que seul le comportement outrageant de l’une des parties permette de s’éloigner du tarif. D’ailleurs, les exemples de circonstances exceptionnelles que cite l’ancien juge en chef sont en fait certains des facteurs énumérés au paragraphe 147(3) des Règles qui doivent être pris en considération lors de la détermination des dépens[17]. Ainsi, cette décision appuie l’affirmation voulant que l’analyse des facteurs prévus au paragraphe 147(3) permette de déterminer le montant approprié des dépens.
+[29] Parmi les neuf facteurs énumérés au paragraphe 147(3) des Règles, seulement trois concernent le comportement des parties, les six autres étant le résultat de l’instance, les sommes en cause, l’importance des questions en litige, la charge de travail, la complexité des questions en litige et toute autre question pouvant influer sur la détermination des dépens.
+[30] Dans la décision Velcro[18] rendue récemment par la Cour, le juge en chef adjoint Rossiter a adjugé des dépens supérieurs aux montants prévus au tarif, et cela, malgré l’absence de toute conduite répréhensible de la part de l’intimée. Dans son analyse, le juge en chef adjoint a traité le tarif de « point de repère que la Cour peut utiliser si elle le désire »[19]. Selon lui, l’existence de circonstances exceptionnelles est loin d’être essentielle à l’adjudication de dépens déviant des montants prévus au tarif[20]. Ainsi, le juge en chef adjoint propose l’approche suivante lors de l’adjudication des dépens :
+17. J'estime que, dans tous les cas, le juge devrait examiner la question des dépens à la lumière des facteurs énoncés au paragraphe 147(3) des Règles et appliquer ces facteurs en se fondant sur des principes avant même de décider s'il doit se tourner vers le tarif B de l'annexe II.
+[31] Il importe à présent d’appliquer ce raisonnement aux faits des présents appels et de nous attarder à l’analyse des facteurs énumérés au paragraphe 147(3) des Règles afin de déterminer si une adjudication de dépens supérieurs aux montants prévus au tarif est justifiée en l’espèce.
+B. Facteurs encadrant l’adjudication des dépens
+[32] Parmi les critères énumérés au paragraphe 147(3) des Règles, six méritent d’être soupesés en l’espèce, soit le résultat de l’instance, les sommes en cause, l’importance des questions en litige, la complexité des questions en litige, les offres de règlement présentées par écrit et la conduite de l’intimée.
+Les sommes en cause et le résultat de l’instance
+[33] Le montant des cotisations établies à l’encontre de SWS et CVM atteignait près de 110 000 $[21]. Autant SWS que CVM ont obtenu tout ce qu’elles demandaient, soit la conclusion que l’ensemble des fournitures en litige étaient détaxées.
+[34] Comme l’indique la décision Capital générale électrique, une importante tendance jurisprudentielle accepte le principe en vertu duquel l’adjudication de dépens ne devrait pas être distributive, en ce sens que les montants adjugés ne devraient pas dépendre du résultat des différents arguments avancés par les parties[22]. Ainsi, les arguments des appelantes ne doivent pas être analysés individuellement afin d’établir le montant des dépens à adjuger. Seul le résultat global des appels, soit l’annulation complète des cotisations établies à l’encontre des appelantes, est pertinent.
+L’importance et la complexité des questions en litige
+[35] Les présents appels ont permis à la Cour de se pencher la première fois sur l’interprétation à donner au paragraphe 132(2) de la LTA. Cette disposition n’est toutefois pas très complexe. L’interprétation qu’en faisait l’intimée était tout simplement erronée, puisqu’elle allait à l’encontre de ce qui ressortait pourtant clairement du texte même de la disposition[23].
+[36] Les appelantes prétendent que la complexité des appels découlait principalement de la technologie en jeu, la VoIP. À cet égard, il est vrai que le témoignage de l’expert sur les technologies de transmission de communications orales par Internet était pertinent et que l’intimée doit en payer le coût, ce à quoi elle ne s’oppose pas. Cependant, les appels ne sauraient être décrits comme complexes uniquement en raison de cet aspect technologique, qui n’était qu’accessoire au litige opposant les parties.
+Les offres de règlement
+[37] La présentation d’offres écrites de règlement joue un rôle central lors de l’adjudication des dépens.
+[38] L’intimée admet ne pas avoir répondu de façon adéquate aux offres de règlement qui lui ont été présentées à plusieurs reprises par le procureur des appelantes. Elle affirme toutefois que ces offres de règlement ne doivent pas être prises en considération lors de l’adjudication des dépens, puisqu’il lui était légalement impossible de les accepter en raison de l’absence d’un fondement factuel pour le règlement proposé.
+[39] L’intimée fonde ses prétentions sur la décision CIBC World Markets[24], où la Cour d’appel fédérale a reconnu que pour que le refus d’une offre de règlement plus favorable que la décision rendue puisse entraîner des conséquences défavorables quant aux dépens, il faut que cette offre puisse être légalement acceptée[25]. Dans cette affaire, la contribuable avait offert à l’intimée de régler l’appel par l’établissement d’une cotisation permettant à la contribuable de recevoir 90 % des crédits de taxe sur les intrants réclamés dans sa déclaration de TPS[26]. L’intimée, qui affirmait ne pouvoir établir qu’une cotisation qui soit justifiée par les faits et le droit, se disait incapable d’accepter cette offre, qui ne pouvait être justifiée ni par les faits, ni par le droit. À cet égard, la Cour d’appel fédérale, sous la plume du juge Stratas, a déclaré :
+[19] Vu les faits particuliers de la présente espèce, je pense comme le ministre que celui‑ci n’aurait pu accorder à CIBC World Markets dans aucune hypothèse de fait ou de droit une tranche de 90 % des crédits de taxe sur les intrants qu’elle avait demandés. Il aurait pu en aller autrement si, par exemple, le montant des crédits de taxe sur les intrants avait été en litige et que le ministre s’était trouvé théoriquement à même de justifier en fait et en droit la proportion de 90 %. Mais en l’occurrence, le point à décider était une question d’interprétation législative ne pouvant recevoir qu’une réponse de tout ou rien.
+[40] Ainsi, puisque le ministre ne peut établir de cotisation en raison d’un compromis, sans égard aux faits et au droit applicables à l’affaire[27], on ne saurait lui reprocher de ne pas avoir accepté une offre de règlement ne pouvant être justifiée par les faits ou par le droit.
+[41] Dans le présent appel, SWS et CVM ont premièrement offert que les cotisations soient confirmées quant aux fournitures effectuées à l’un des acquéreurs, Convergia, étant donné que Convergia possède une société affiliée du Québec qui est inscrite à la TPS et à la TVQ, mais d’annuler les cotisations quant aux fournitures effectuées à l’autre acquéreur, soit BMT (la « première offre »). Par la suite, SWS et CVM ont offert d’accepter la cotisation en ce qui concerne les services fournis à Convergia et en outre de confirmer les cotisations pour 30 % des montants de TPS liés aux transactions avec BMT (la « deuxième offre »).
+[42] L’intimée soutient qu’il était impossible de prétendre que certaines fournitures étaient taxables alors que d’autres ne l’étaient pas. Selon elle, il s’agissait d’une question pouvant uniquement être répondue par la négative ou par l’affirmative. Ainsi, l’intimée prétend qu’elle ne pouvait accepter ces offres qui reposaient sur un compromis, sans égard aux faits et au droit applicables.
+[43] La première offre a clairement un fondement factuel, qui a d’ailleurs été clairement exposé par les appelantes lors de la présentation de l’offre au procureur de l’intimée. En effet, rien n’empêchait l’intimée de supposer que l’un des deux acquéreurs était résident du Québec et que les fournitures effectuées à son égard étaient taxables, contrairement aux fournitures effectuées au second acquéreur, en raison de son statut de non-résident du Québec.
+[44] Dans la décision Potash[28], l’intimée prétendait ne pouvoir légalement accepter l’offre de règlement présentée par la contribuable puisque cela supposait qu’elle accepte plusieurs hypothèses de fait, ce que l’intimée se disait incapable de faire. Or, le juge Hershfield a rejeté les prétentions de l’intimée et a affirmé :
+[TRADUCTION]
+[58] [...] Rien dans l'arrêt CIBC World Markets de la Cour d'appel fédérale ne laisse entendre que la Couronne ne peut régler une question de droit en tenant compte des probabilités, ce qui lui donne une liberté considérable. En outre, un règlement peut tenir compte, d'une façon convenable, de la proportionnalité. La Couronne peut elle aussi, dans certaines circonstances, envisager de céder sur une question de fait, s'il est peu probable qu'elle convainque le juge et s'il en coûte bien plus de présenter la question au tribunal que d'y renoncer.
+[59] S'il n'en était pas ainsi, la Couronne pourrait prétendre qu'elle ne peut jamais accepter un règlement. [...]
+[45] Ainsi, rien n’empêchait l’intimée d’accepter l’hypothèse de fait selon laquelle Convergia était une résidente du Québec et BMT ne l’était pas. L’intimée n’avait donc aucune raison légale de ne pouvoir accepter la première offre de SWS et CVM faite le 8 décembre 2010, qui lui était plus favorable que la décision rendue.
+[46] La deuxième offre est également justifiable en fait et en droit. L’offre, qui proposait de confirmer 30 % des montants de TPS liés aux transactions avec BMT, était également fondée sur une hypothèse de fait que l’intimée pouvait accepter. En effet, le paragraphe 132(2) de la LTA dispose que la personne non résidente qui possède un établissement stable au Canada n’est réputée y résider qu’en ce qui a trait aux services qui y sont utilisés. Ainsi, il était tout à fait possible pour l’intimée d’accepter l’hypothèse de fait selon laquelle 30 % des services fournis par SWS à BMT ont été utilisés au Canada, et 70 % des services ont été utilisés à l’étranger.
+[47] Par conséquent, la présentation de la première offre et de la deuxième offre peut justifier l’adjudication de dépens supérieurs aux montants prévus au tarif.
+La conduite de l’intimée
+[48] Finalement, SWS et CVM prétendent que la conduite non coopérative de l’intimée milite pour l’adjudication de dépens déviant des montants prévus au tarif. Comme nous l’avons déjà dit, il est vrai que l’absence de réponse de l’intimée aux offres de règlements qui lui ont été faites est regrettable. Le défaut de l’intimée de se conformer à l’ordonnance de la Cour de déposer ses observations écrites quant à l’adjudication des dépens l’est autant. Cependant, rien au dossier ne permet de prêter quelque mauvaise foi que ce soit au procureur de l’intimée.
+C. Autres considérations
+La prime
+[49] Les appelantes réclament également l’adjudication de 50 000 $ en tant que prime en raison des résultats exceptionnels qui ont été obtenus[29].
+[50] Orkin s’exprime ainsi quant à la possibilité d’inclure une prime dans le calcul des dépens :
+[TRADUCTION]
+Dans des circonstances convenables, une prime peut être un élément approprié d'un mémoire de dépens entre parties sur la base procureur‑client, mais [...] une prime est incompatible avec un mémoire de dépens sur la base partie‑partie. [30]
+[51] Les appelantes s’appuient sur la décision Debora v. Debora[31] pour affirmer qu’une prime peut validement être adjugée dans les circonstances de l’espèce[32]. Or, il est essentiel de souligner que dans cette décision, la Cour supérieure de justice de l’Ontario avait adjugé des dépens sur la base d’une indemnisation substantielle. De même, une prime a été incluse dans le calcul des dépens dans la décision Roberts c. Morana[33] où une partie des dépens a été calculée sur la base procureur-client. Comme nous l’avons déjà dit, l’absence de comportement outrageant de la part de l’intimée empêche l’adjudication de dépens sur la base procureur-client, ce qui empêche de même d’inclure une prime dans le calcul des dépens.
+[52] Il importe toutefois de mentionner que le juge en chef Bowman (tel était alors son titre) semble avoir accordé de l’importance à la prime réclamée par les appelants dans la décision Scavuzzo[34], et cela, malgré que la conduite de la Couronne n’ait pas été jugée suffisamment répréhensible, scandaleuse ou outrageante pour justifier une adjudication sur la base procureur-client[35]. Dans cette affaire, les dépens demandés par les appelants s'élevaient à 549 738,45 $, ce qui incluait une prime de 107 000 $ (prévue à l'entente d'honoraires conditionnels, si les appelants avaient gain de cause)[36]. Après avoir déterminé que des dépens supérieurs aux montants prévus au tarif devaient être adjugés, la Cour a analysé en détail de nombreux facteurs, dont l’existence de la prime de 107 000 $ qui avait été facturée aux appelants[37]. Ainsi, les dépens ont été fixés à 275 000 $ et le juge en chef Bowman a précisé que ce montant représentait environ 50 % du montant total facturé (incluant la prime de 107 000 $)[38].
+[53] En l’espèce, le procureur des appelantes reconnaît que la prime demandée n’a pas encore été facturée aux appelantes et, contrairement à la décision Scavuzzo, rien n’indique l’existence d’une entente d'honoraires conditionnels entre les appelantes et leur procureur.
+[54] De toute façon, même si une prime pouvait être adjugée dans le cas de dépens entre parties, les circonstances en l’espèce ne sauraient le justifier. SWS et CVM prétendent que la prime de 50 000 $ est méritée en raison de la complexité des appels, des résultats exceptionnels obtenus[39] et de l’absence de réponse de la part de l’intimée aux offres de règlement qui lui ont été présentées. Comme nous l’avons dit, les appels ne sauraient être qualifiés de fort complexes et les résultats, d’exceptionnels. Le fait que l’intimée n’ait répondu aux offres de règlement que la veille de l’audience, bien que militant par l’adjudication de dépens supérieurs aux montants prévus au tarif, ne saurait justifier également l’adjudication d’une prime de près de la moitié des honoraires demandés.
+La répartition des dépens entre les deux paliers de gouvernement
+[55] L’Entente relative à l’administration par le Québec de la Partie IX de la Loi sur la taxe d’accise concernant la taxe sur les produits et services conclue par le gouvernement du Canada et le gouvernement du Québec (l’« entente »), signée le 11 août 1992, régit les relations des deux paliers de gouvernement en ce qui concerne l’administration de la TPS au Québec. En vertu de cette entente, le Québec est responsable de l’administration et de la perception de la TPS au Québec[40]. De plus, les avocats du Québec assument la conduite des litiges en matière de TPS au Québec, à moins de directives contraires[41].
+[56] Puisqu’une cotisation en matière de TPS au Québec découle d’une cotisation en matière de TVQ, deux appels pratiquement identiques procèdent en parallèle, l’un devant la Cour canadienne de l’impôt et l’autre devant la Cour du Québec. La pratique veut que les procureurs des deux parties s’entendent pour faire avancer le dossier devant l’un ou l’autre des tribunaux et pour mettre en suspens l’appel devant l’autre tribunal. Dans l’immense majorité des cas, le second appel se règle selon la décision rendue par le tribunal dans le premier appel. Ainsi, le travail effectué par les procureurs pour l’un des deux appels sert en fait aux deux appels.
+[57] Le procureur des appelantes prétend que la très grande majorité des frais demandés portent sur la préparation du procès devant notre Cour. Cependant, il est intéressant de noter que SWS et CVM ont indiqué que la prime demandée était justifiée [TRADUCTION] « en raison de l’offre règlement et du résultat exceptionnel qui s’appliquera aux appels en matière de TPS et de TVQ». De plus, le procureur des appelantes a reconnu qu’il avait l’intention de demander à Revenu Québec d’appliquer le résultat du présent appel à l’appel en matière de TVQ. Dans ce contexte, j’estime qu’il ne serait pas approprié que l’intimée ait à supporter tous les dépens dans cette cause. Il faudrait plutôt adjuger à SWS et à CVM 50 % des dépens réclamés après soustraction de la prime demandée.
+V. CONCLUSION
+[58] Le montant de 124 865,12 $ demandé par les appelantes est excessif. Comme nous l’avons dit, ce montant représente les dépens sur la base procureur-client. Or, le comportement du procureur de l’intimée ne saurait justifier l’adjudication de ce type de dépens. Par le fait même, l’ajout d’une prime de 50 000 $ est injustifié.
+[59] Après avoir analysé en détail les facteurs énumérés ci-dessus, il me semble tout à fait justifié d’adjuger des dépens supérieurs à ceux prévus au tarif. Le paragraphe 147(4) des Règles dispose expressément que la Cour peut adjuger une somme globale. D’ailleurs, dans plusieurs décisions, la Cour a adjugé une somme globale[42].
+[60] Comme l’a dit la Cour d’appel fédérale dans l’arrêt Consorzio del Prosciutto di Parma c. Maple Leaf Meats Inc.[43] :
+8. Une adjudication de dépens partie-partie ne constitue pas un exercice exact. Il ne s'agit que d'une estimation du montant que la Cour juge approprié à titre de contribution aux dépens avocat-client de la partie qui a obtenu gain de cause (ou, de façon inhabituelle, à ceux de la partie déboutée). […]
+[61] En l’espèce, la somme de 37 282,56 $[44] paraît appropriée, compte tenu des sommes en cause, du résultat de l’instance, de la modeste importance et du niveau modéré de complexité des questions en cause, des offres de règlement demeurées sans réponse jusqu’à la veille de l’audience, et du défaut de l’intimée de se conformer aux instructions de la Cour.
+[62] Enfin, les débours devraient être taxés de la façon habituelle.
+Signé à Ottawa, Canada, ce 25e jour d’octobre 2012.
+« Robert J. Hogan »
+Juge Hogan
+RÉFÉRENCE : 2012 CCI 377
+Nºs DES DOSSIERS DE LA COUR : 2009-3624(GST)G, 2009-1733(GST)G,
+2009-3625(GST)G
+INTITULÉS : SWS COMMUNICATION INC. c. SA MAJESTÉ LA REINE ET
+CENTRE LES VOYAGES MIRACLE INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Ottawa (Ontario)
+DATE DE L’AUDIENCE : Le 13 juin 2012
+MOTIFS DE L’ORDONNANCE
+PAR: L'honorable juge Robert J. Hogan
+DATE DE L’ORDONNANCE: Le 25 octobre 2012
+COMPARUTIONS :
+Avocats des appelantes :
+Me Caroline Desrosiers
+Me Nicolas Simard
+Avocat de l'intimée :
+Me Benoît Denis
+AVOCATS INSCRITS AU DOSSIER :
+Pour les appelantes:
+Nom : Me Caroline Desrosiers
+Me Nicolas Simard
+Cabinet : Spiegel Sohmer Inc.
+Montréal (Québec)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Observations écrites de SWS et CVM, 18 mai 2012.
+[2] [2000] A.C.I. no 854 (C.C.I.).
+[3] Directive sur la procédure no 17, 13 janvier 2010. Il est à noter que la directive sur la procédure no 18, modifiée le 10 février 2011, modifie la directive sur la procédure no 17.
+[4] IPAX Canada Ltd. c. La Reine, 2011 TCC 50 [IPAX].
+[5] Barrington Lane Developments Ltd. c. La Reine, 2010 CCI 476 [Barrington Lane].
+[6] Imperial Oil Resources Ltd. c. Canada, 2011 FC 652.
+[7] CIBC World Markets Inc. c. La Reine, 2012 CAF 3 [CIBC World Markets].
+[8] Mark M. Orkin, The Law of Costs, 2e edition, feuilles mobiles (Aurora, Canada Law Book Inc., 1987) au par. 11A02.1 (consulté en août 2012) [Orkin]; Capital générale électrique du Canada Inc. c. La Reine, 2010 TCC 490, au par. 13 [Capital générale électrique]; Canada c. Landry, 2010 CAF 135, au par. 54; LeRiche c. La Reine, 2012 TCC 19, au par. 4 [LeRiche].
+[9] 2004 CAF 10, au par. 5 [Lau].
+[10] Young c. Young, [1993] 4 R.C.S. 3, p. 137 [Young]; Capital générale électrique, précité, aux par. 20-24; LeRiche, précité, au par. 10; Alemu c. La Reine, 99 D.T.C. 591 [1999] A.C.I. no 219 (QL) (CCI), aux par. 13-16 [Alemu].
+[11] Voir, par exemple, Capital générale électrique, précité, Scavuzzo, 2006 CCI 90 [Scavuzzo]; Lau, précité; Alemu, précité; Potash Corporation of Saskatchewan Inc. c. La Reine, 2012 TCC 235 [Potash]; Velcro Canada Inc. c. La Reine, 2012 CCI 273 [Velcro]; Hunter c. La Reine, 2003 D.T.C. 51, [2002] A.C.I. no 625 (QL); Zeller (Succession) c. La Reine, 2009 CCI 135; Canada c. Donato, 2010 CAF 312 [Donato].
+[12] Capitale générale électrique, précité.
+[13] Young, précité.
+[14] Alemu, précité.
+[15] Velcro, précité, au par. 6; Capitale générale électrique, précité, au par. 27.
+[16] [1994] A.C.I. no 863 (QL).
+[17] Sommerer c. La Reine, no 2007-2583 (IT)G, adjudication des dépens, 14 juillet 2011, p. 3 de la transcription.
+[18] Velcro, précité.
+[19] Ibid., au par. 8.
+[20] Ibid., au par. 6.
+[21] SWS Communication Inc. c. La Reine, 2012 CCI 114 [SWS Communication], aux par. 2-3.
+[22] Capital générale électrique, précité, au par. 31.
+[23] SWS Communication, précité, au par. 19.
+[24] CIBC World Markets, précité.
+[25] Ibid., aux par. 14-15.
+[26] Ibid., au par. 2.
+[27] Ibid., aux par. 20-21.
+[28] Potash, précité.
+[29] Observations des appelantes, précité, au par. 15.
+[30] Orkin, précité, au par. 602.3(13). Voir aussi Ontex Resources Ltd. v. Metalore Resources Ltd., [1996] O.J. No. 3336 (QL), où l’adjudication d’une prime a été refusée, puisque les dépens étaient taxés entre parties, et non sur la base procureur-client.
+[31] 14 R.F.L. (6th) 245, [2005] O.J. No. 1055 (QL) (Cour Sup. Ont.).
+[32] Observations des appelantes, précité, au par. 15.
+[33] 37 O.R. (3d) 342, conf. par 49 O.R. (3d) 157 (C.A. Ont.).
+[34] Scavuzzo, précité.
+[35] Ibid., au par. 4.
+[36] Ibid., au par. 8.
+[37] Ibid., à l’alinéa 9g).
+[38] Ibid., au par. 10.
+[39] Observations des appelantes, précité, au par. 15.
+[40] Article 6.
+[41] Partie V, « Litiges et avis juridiques », art. 71, et Annexe D, « Litiges et avis juridiques », art. 3.
+[42] Voir, par exemple, Lau, précité; Capital générale électrique, précité; Velcro, précité; Potash, précité.
+[43] 2002 CAF 417, [2003] 2 C.F. 451.
+[44] Ce montant est obtenu en additionnant les frais facturés et les frais à facturer, puis en divisant le total par deux, soit (45 100,37 $ + 29 464,75 $) / 2.

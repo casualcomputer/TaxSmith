@@ -1,0 +1,171 @@
+---
+title: "Southen v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26504/index.do"
+last_modified: "2004-11-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 745"
+citation2: ""
+neutral_citation: "2004 CCI 745"
+decision_date: "2004-11-05"
+language: "fr"
+item_id: "26504"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3252
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:52:09.787000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "481a5c1d538fd6d09961fe4b4ad9aba0e9078e5b86193ea60d2d23b326f21fcc"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Southen v. The Queen
+
+- Citation: 2004 CCI 745
+- Decision date: 2004-11-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3252, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Southen v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-11-05
+Référence neutre
+2004 CCI 745
+Numéro de dossier
+2003-3388(IT)I
+Juges et Officiers taxateurs
+Eric A. Bowie
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2003-3388(IT)I
+ENTRE :
+DAVID G. SOUTHEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appels entendus le 25 août 2004 à London (Ontario)
+Devant : L'honorable E.A. Bowie
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Ifeanyi Nwachukwu
+JUGEMENT
+Les appels interjetés à l'encontre des cotisations d'impôt établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1999 et 2000 sont admis, et les cotisations sont renvoyées au ministre du Revenu national pour qu'il procède à un nouvel examen et qu'il établisse une nouvelle cotisation compte tenu du fait que l'appelant a droit à des déductions pour intérêts de 5 915,45 $ en 1999 et de 6 362,21 $ en 2000. Il n'y aura pas d'ordonnance quant aux dépens.
+Signé à Ottawa, Canada, ce 5e jour de novembre 2004.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 7e jour de juillet 2005.
+Sara Tasset
+Référence : 2004CCI745
+Date : 20041105
+Dossier : 2003-3388(IT)I
+ENTRE :
+DAVID G. SOUTHEN,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bowie
+[1] M. Southen conteste en appel les cotisations établies en vertu de la Loi de l'impôt sur le revenu (la « Loi » ) à l'égard des années d'imposition 1999 et 2000. Il se plaint du fait que le ministre, en établissant les cotisations, a refusé de nombreuses déductions dont il voulait se prévaloir au titre des intérêts payés sur de l'argent emprunté ainsi qu'au titre de certains autres frais de possession relatifs au bien immobilier qu'il avait acheté avec les fonds empruntés. À la date où j'ai été saisi de l'affaire pour la tenue du procès, en août 2004, les parties s'étaient entendues sur la majorité des points qui étaient initialement en litige. De fait, le ministre a admis que M. Southen avait droit aux déductions qu'il avait demandées dans sa déclaration de revenus, à l'exception de celles qui ont trait au bien immobilier résidentiel situé à Inwood, en Ontario. Plus précisément, selon leur entente, l'appelant a droit à des déductions totalisant 5 915,45 $ pour l'année d'imposition 1999 et 6 362,21 $ pour l'année d'imposition 2000 à l'égard des biens autres que la propriété située à Inwood. À ce sujet, il me reste un point à trancher.
+[2] M. Southen travaille dans le secteur immobilier à London, en Ontario, et dans les environs. Son épouse et lui ont décidé qu'ils voulaient habiter à une certaine distance de la ville de London, de sorte qu'ils ont acheté en mai 1993, pour la somme de 68 250,00 $, une maison située dans le village d'Inwood. Ils ont contracté un prêt hypothécaire de premier rang de 51 187,00 $ auprès de la Royal Trust Company of Canada. Vers la fin de 1996, ils ont décidé qu'ils préféraient vivre en ville et louer la propriété d'Inwood. L'appelant a alors racheté la moitié de la maison qui appartenait à son épouse pour la somme de 40 000 $, accordant une hypothèque de second rang à la Laurentian Trust Company. M. Southen a ensuite loué les lieux à des locataires. Cette décision s'est révélée un désastre, pour des raisons qu'il ne m'est pas nécessaire de préciser dans la présente décision, sauf que je dirai qu'après moins de deux ans, M. Southen a décidé qu'il devait vendre la propriété plutôt que de tenter de l'exploiter comme habitation à usage locatif.
+[3] Au printemps 1998, M. Southen a trouvé deux personnes, Wendy et Colleen, qui souhaitaient acheter la propriété, et les parties ont conclu un accord de vente au prix de 85 000,00 $. À ce moment-là, la maison était grevée de deux charges en faveur de Royal Trust et de Laurentian Trust. M. Southen a fait vérifier la solvabilité des acheteuses, ce qui a confirmé ses craintes qu'elles ne soient pas en mesure d'obtenir d'autre financement en vue de clore la transaction. L'appelant était impatient de conclure la vente et il a donc demandé aux acheteuses de lui accorder ce qu'on appelle parfois une hypothèque intégrante. Selon cette entente, les acheteuses ont acquis le titre de la propriété sous réserve des deux hypothèques en vigueur et d'une troisième hypothèque en faveur de l'appelant, et elles ont accepté de verser à celui-ci chaque mois un montant qui couvrirait les sommes exigibles dans le cadre des deux premiers prêts hypothécaires et de la troisième hypothèque ainsi que le un douzième des taxes foncières annuelles estimatives liées à la propriété. De son côté, l'appelant convenait de verser les sommes dues aux deux premiers prêteurs hypothécaires (sommes dont il était déjà responsable en vertu des accords relatifs à ces hypothèques) et il a accepté de payer les taxes nécessaires à la municipalité aux dates d'exigibilité.
+[4] Si les acheteuses avaient seulement respecté leurs obligations chaque mois, l'appelant aurait pu mettre fin de manière satisfaisante à un investissement désastreux. Cependant, au lieu de verser les 750 $ par mois dont elles étaient responsables en vertu de l'accord de vente, Wendy et Colleen ont seulement payé un total de 2 250,00 $ en 1999 et de 4 000,00 $ en 2000. Vers la fin de 2000, elles ont accepté de rétrocéder la propriété à l'appelant, ce qu'elles ont fait au moyen d'un acte de transport par renonciation en février 2001. Entre-temps, toutefois, l'appelant avait payé les sommes qu'il devait aux deux premiers prêteurs hypothécaires. Ces sommes incluaient des intérêts de 6 295,33 $ en 1999 et de 6 603,46 $ en 2000, et ce sont ces montants, ainsi que des taxes et impôts de 2 012,39 $ pour 1999 et de 2 370,00 $ pour 2000, que l'appelant prétend être en droit de déduire de son revenu pour ces années, mais après déduction des montants de 2 250,00 $ et de 4 000,00 $ que Wendy et Colleen lui ont versés. Il affirme également avoir le droit de déduire en 1999 le coût des vérifications de la solvabilité qu'il a effectuées au moment de la vente, soit 22,58 $. Le montant net des déductions qu'il demande au titre de ces dépenses s'établit comme suit :
+1999
+2000
+Intérêts
+6 295,33 $
+6 603,46 $
+Taxes
+2 012,39
+2 370,00
+Vérification de la solvabilité
+22,58
+Sous-total
+8 330,30 $
+8 973,46 $
+Moins les montants reçus
+2 250,00
+4 000,00
+Déduction demandée
+6 080,30 $
+4 973,46 $
+[5] M. Southen a fait valoir simplement qu'une fois que son épouse et lui-même ont cessé d'utiliser la propriété comme lieu de résidence, la détention et la vente subséquentes de cette propriété étaient une question de nature commerciale, de sorte que la perte subie à cet égard, calculée ci-dessus, constituait une perte d'entreprise devant être déduite dans le calcul de son revenu pour les années en question. Il n'a pas tenté de distinguer les montants imputables au revenu et les montants imputables au capital ni de prendre en considération des dispositions quelconques de la Loi. Toutes les sommes qu'il a déboursées ont été considérées comme des dépenses, dont il a déduit le total des paiements reçus de Wendy et Colleen pour parvenir à un montant net. Il a considéré ce montant comme une perte attribuable à la propriété qu'il pouvait déduire dans le calcul de son revenu en vertu de l'article 3 de la Loi.
+[6] Les dispositions suivantes de la Loi sont pertinentes :
+18(1) Dans le calcul du revenu du contribuable tiré d'une entreprise ou d'un bien, les éléments suivants ne sont pas déductibles
+a) les dépenses, sauf dans la mesure où elles ont été engagées ou effectuées par le contribuable en vue de tirer un revenu de l'entreprise ou du bien;
+b) une dépense en capital, une perte en capital ou un remplacement de capital, un paiement à titre de capital ou une provision pour amortissement, désuétude ou épuisement, sauf ce qui est expressément permis par la présente partie;
+20(1) Malgré les alinéas 18(1)a), b) et h), sont déductibles dans le calcul du revenu tiré par un contribuable d'une entreprise ou d'un bien pour une année d'imposition celles des sommes suivantes qui se rapportent entièrement à cette source de revenus ou la partie des sommes suivantes qu'il est raisonnable de considérer comme s'y rapportant :
+a) [...]
+c) la moins élevée d'une somme payée au cours de l'année ou payable pour l'année (suivant la méthode habituellement utilisée par le contribuable dans le calcul de son revenu) et d'une somme raisonnable à cet égard, en exécution d'une obligation légale de verser des intérêts sur :
+(i) de l'argent emprunté et utilisé en vue de tirer un revenu d'une entreprise ou d'un bien (autre que l'argent emprunté et utilisé pour acquérir un bien dont le revenu serait exonéré ou pour contracter une police d'assurance-vie),
+(ii) une somme payable pour un bien acquis en vue d'en tirer un revenu ou de tirer un revenu d'une entreprise (à l'exception d'un bien dont le revenu serait exonéré ou à l'exception d'un bien représentant un intérêt dans une police d'assurance-vie),
+(iii) [...]
+[7] Les sommes de 6 295,33 $ pour 1999 et de 6 603,46 $ pour 2000 sont celles que l'appelant a versées aux deux premiers prêteurs hypothécaires, respectivement. Elles n'entrent pas dans la portée de l'alinéa 20(1)c) de la Loi, qui est la seule disposition pouvant permettre leur déduction. Quatre conditions doivent être satisfaites pour qu'une somme soit visée par cet alinéa[1]. Elle doit avoir été payée ou être payable pour l'année; il doit y avoir une obligation légale de verser des intérêts; l'argent emprunté doit être utilisé en vue de tirer un revenu non exonéré d'une entreprise ou d'un bien; la somme doit être raisonnable. C'est la troisième condition que l'appelant ne peut remplir en l'espèce. Il est bien établi que l'utilisation de l'argent qui est pertinente lorsqu'on se demande si des intérêts peuvent ou non être déduits est l'utilisation courante, dans l'année pour laquelle le contribuable demande la déduction. Dans la présente affaire, l'appelant et son épouse ont emprunté initialement les fonds visés par l'hypothèque de premier rang afin d'acquérir une résidence, ce qui représente une utilisation non admissible. En 1996, l'appelant a contracté un deuxième prêt hypothécaire pour racheter la part de son épouse, puis il a transformé la maison en un bien locatif. De 1996 à 1998, l'utilisation des fonds tirés du premier et du deuxième prêt hypothécaire était donc admissible. En 1998, il a vendu la maison à Wendy et Colleen, sous réserve des deux prêts hypothécaires en vigueur et d'une troisième hypothèque qu'elles lui ont cédée pour le solde du prix de vente, à peu près 7 475,00 $. À partir de là, le seul bien productif de revenu pertinent détenu par l'appelant était la troisième hypothèque, mais ce bien n'a pas été acquis avec les fonds empruntés. L'appelant en a pris possession en échange de sa part de la maison au moment de la vente en 1998, et la source de cette acquisition n'était pas les fonds empruntés mais l'argent comptant que l'appelant avait versé lors de l'achat et la plus-value subséquente. On ne peut donc pas conclure que les fonds empruntés ont servi à acquérir l'hypothèque.
+[8] Pour que l'appelant puisse déduire les taxes municipales qu'il a payées, il aurait à montrer qu'elles ont été payées dans le but d'obtenir ou de produire un revenu : voir l'alinéa 18(1)a) de la Loi. Ce n'était clairement pas le cas. Les taxes étaient la responsabilité des propriétaires du terrain, Wendy et Colleen. L'appelant a structuré les obligations de paiement comme il l'a fait en vue de s'assurer que les taxes étaient payées et donc de protéger la valeur de sa troisième hypothèque à l'égard de la propriété. S'il y avait eu une vente forcée résultant des taxes non acquittées, il est peu probable que son hypothèque aurait eu une valeur quelconque. Le paiement des taxes par l'appelant ne pourrait d'aucune façon être considéré comme ayant été fait en vue de tirer un revenu, cependant.
+[9] Une autre raison explique pourquoi l'appelant n'a pas le droit de déduire les taxes payées en 1999 et en 2000. Il semble, d'après les éléments de preuve, qu'il n'ait pas payé ces montants avant 2001. Puisqu'il fonctionnait d'après la comptabilité de caisse, les montants en question ne pourraient aucunement, de par leur nature, avoir été déductibles durant les années visées par le présent appel.
+[10] Il reste la déduction dont veut se prévaloir l'appelant du montant de 22,58 $ qu'il a dépensé en 1999 pour faire vérifier la solvabilitédes acheteuses de la propriété en vue de déterminer si elles constituaient un risque de crédit acceptable pour les deux premiers prêteurs hypothécaires. Il est clair que l'objet de cette dépense n'était pas l'obtention ni la production d'un revenu; il s'agissait simplement d'une dépense relative à la vente d'un bien en immobilisation, la maison. Elle n'est donc pas déductible dans le calcul du revenu. Cependant, elle peut servir à réduire le produit de la vente et, partant, à accroître la perte en capital subie par l'appelant sur la maison.
+[11] Pour ces motifs, les appels doivent être rejetés à l'égard des points relatifs à la propriété d'Inwood. Conformément à l'entente déposée sur les autres points, les appels sont admis et les cotisations sont renvoyées au ministre pour qu'il procède à un nouvel examen et qu'il établisse une nouvelle cotisation compte tenu du fait que l'appelant a droit à des déductions pour intérêts de 5 915,45 $ en 1999 et de 6 362,21 $ en 2000. Il n'y aura aucune ordonnance sur les dépens.
+Signé à Ottawa, Canada, ce 5e jour de novembre 2004.
+« E.A. Bowie »
+Juge Bowie
+Traduction certifiée conforme
+ce 7e jour de juillet 2005.
+Sara Tasset
+RÉFÉRENCE :
+2004CCI745
+NO DU DOSSIER DE LA COUR :
+2003-3388(IT)I
+INTITULÉ DE LA CAUSE :
+David G. Southen et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+London (Ontario)
+DATE DE L'AUDIENCE :
+25 août 2004
+MOTIFS DU JUGEMENT PAR :
+L'honorable E.A. Bowie
+DATE DU JUGEMENT :
+5 novembre 2004
+COMPARUTIONS :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Ifeanyi Nwachukwu
+AVOCATS INSCRITS AU DOSSIER :
+Pour l'appelant :
+Nom :
+s.o.
+Cabinet :
+s.o.
+Pour l'intimée :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Shell Canada Ltée c. Canada, [1999] 3 R.C.S. 622; Singleton c. Canada [2001] 2 R.C.S. 1046.

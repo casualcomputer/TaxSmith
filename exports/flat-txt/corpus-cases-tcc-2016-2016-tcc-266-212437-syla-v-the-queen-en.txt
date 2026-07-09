@@ -1,0 +1,128 @@
+Title: Syla v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/212437/index.do
+Corpus path: corpus/cases/tcc/2016/2016-tcc-266-212437-syla-v-the-queen-en.md
+Document type: case_law
+Last modified: 2016-11-17
+
+# Syla v. The Queen
+
+- Citation: 2016 TCC 266
+- Decision date: 2016-11-17
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2939, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Syla v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-11-17
+Neutral citation
+2016 TCC 266
+File numbers
+2016-988(IT)I, 2016-989(IT)I
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2016-988(IT)I
+BETWEEN:
+FATMIR SYLA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November, 4, 2016
+at Toronto, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Alexandra Humphrey
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2003, 2004, 2005 and 2006 taxation years is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of November 2016.
+“B. Paris”
+Paris J.
+Docket: 2016-989(IT)I
+BETWEEN:
+LILIJETA SYLA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on November, 4, 2016
+at Toronto, Ontario
+Before: The Honourable Justice B. Paris
+Appearances:
+For the Appellant:
+The Appellant herself
+Counsel for the Respondent:
+Alexandra Humphrey
+JUDGMENT
+The appeal from the assessments made under the Income Tax Act for the 2003, 2004 and 2005 taxation years is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 17th day of November 2016.
+“B.Paris”
+Paris J.
+Citation: 2016 TCC 266
+Date: 20161117
+Dockets: 2016-988(IT)I
+2016-989(IT)I
+BETWEEN:
+FATMIR SYLA,
+LILIJETA SYLA,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Paris J.
+[1] These appeals were heard on common evidence at the request of the parties.
+[2] The issues in these appeals are: whether Mr. Syla is entitled to charitable donation tax credits for his 2003, 2004, 2005 and 2006 taxation years; whether Mrs. Syla is entitled to charitable donation tax credits for her 2003, 2004 and 2005 taxation years; and whether the Minister was entitled to reassess the 2003 and 2004 taxation years of both taxpayers after the normal assessment period.
+[3] With respect to the 2003 and 2004 taxation years, the Respondent bears the onus of proving that the Minister was entitled to reopen those years for reassessment. The Respondent must show that the Sylas made a misrepresentation on each of their returns for those years and that those misrepresentations were due to carelessness, neglect or wilful default.
+[4] In this case, Mr. and Mrs. Syla admit that they did not make charitable donations in the amounts they each reported in their income tax returns for the years in issue. Those returns were prepared and filed on their behalf by William Ankomah, who later pled guilty to defrauding the Crown by making false charitable donation claims for his clients in tax returns he prepared and filed for them.
+[5] Therefore the evidence shows that the charitable donation claims contained in their 2003 and 2004 tax returns were false, and constituted misrepresentations within the meaning of paragraph 152(4)(a) of the Income Tax Act (“ITA”).
+[6] The question to be determined then is whether the Sylas exercised reasonable care in the filing of their returns for 2003 and 2004. According to their testimony, they were referred by a friend of a friend to Mr. Ankomah in early 2004 because his rates for preparing returns were lower than what other tax preparers were asking. It was Mr. Ankomah who recommended that they make charitable donations to a charity he was involved with, in order to obtain tax refunds. Mr. Ankomah told them that the donation requirement could be met by giving him Mrs. Syla’s tax refund after it was received. The Sylas say they accepted this advice and trusted Mr. Ankomah, because he appeared to be a professional tax adviser and knowledgeable in the field. They had almost no experience with income tax, arriving in Canada in 1999 as refugees from Kosovo, where they said there was no income tax.
+[7] Neither Mr. or Mrs. Syla reviewed the returns that Mr. Ankomah prepared and filed, but they received a one page summary of the information contained on the returns. They did not review that form either because they said that they did not understand the language well enough. This same process was repeated for the 2004 year.
+[8] I accept that neither Mr. or Mrs. Syla had any intention to deceive anyone concerning the charitable donation claims. When the matter was reviewed by the Canada Revenue Agency in 2009 and the reassessments were issued, Mr. and Mrs. Syla admitted that they did not make the donations reported in their returns.
+[9] Still, I am not convinced that they exercised reasonable care in the filing of their 2003 and 2004 tax returns. First and foremost they did not go over their returns with Mr. Ankomah. If they had, they would have immediately discovered that the amounts of the charitable donation claims were false. Even though they had difficulties with the language, they were accompanied by their son, a young adult, who was more proficient in English than they were and who was assisting them with translation. Therefore, the false claims should have been obvious to them had they taken the time to simply review the returns. I also believe that they were careless in not attempting to get more information from Mr. Ankomah or other acquaintances or work colleagues on how they could be entitled to tax refunds roughly three times as large, collectively, as the amounts they paid Mr. Ankomah. I believe this kind of windfall would strike anyone as very unusual and meriting further investigation. However, neither Mr. or Mrs. Syla asked any questions about it or sought any further advice. Their decision to trust Mr. Ankomah in this regard strikes me as reckless. Had they taken reasonable steps to investigate the representations made by Mr. Ankomah, they would have discovered that the donation claims were false.
+[10] In summary, while Mr. and Mrs. Syla were misled by Mr. Ankomah, they took no reasonable steps to ensure that the tax returns he filed were accurate. For this reason, the Minister is entitled to reassess the Sylas for their 2003 and 2004 taxation years.
+[11] Mr. and Mrs. Syla both testified that they did not receive any donation receipts from Mr. Ankomah to support any of the amounts claimed. There was, however, a charitable donation receipt in the amount of $2750 attached to the copy of Mr. Syla’s 2006 tax return produced by the Respondent at the hearing. I find though that the receipt is invalid because Mr. Syla admitted that he did not make a donation in that amount in 2006. Since, according to paragraph 118.1(2)(a) of the ITA, a claim for a charitable donation tax credit must be supported by a donation receipt from the charity and since the Sylas do not meet this condition for any of the years in issue, their appeals cannot succeed.
+[12] Furthermore, the lesser amounts paid each year by Mr. and Mrs. Syla to Mr. Ankomah cannot be considered charitable gifts, because I find that Mr. and Mrs. Syla only made the payments in order to receive the tax refunds. They cannot be said to have made any gifts to any charities because, in order to constitute a gift, there must be a voluntary transfer of property owned by a donor to a donee, in return for which no benefit or consideration flows to the donor (The Queen v. Friedberg, 92 DTC 6031 at 6032). It is clear to me that, had Mr. Ankomah not told them that they would be entitled to tax refunds in excess of the amounts they paid, that they would not have paid him the lesser amounts as purported donations.
+[13] For all these reasons, I have no choice but to dismiss both Mr. and Mrs. Syla’s appeals for all years.
+Signed at Ottawa, Canada this 17th day of November 2016.
+“B.Paris”
+Paris J.
+CITATION:
+2016 TCC 266
+COURT FILE NOs.:
+2016-988(IT)I and 2016-989(IT)I
+STYLE OF CAUSE:
+FATMIR SYLA and LILIJETA SYLA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+November 4, 2016
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Paris
+DATE OF JUDGMENT:
+November 17, 2016
+APPEARANCES:
+For the Appellants:
+The Appellant themselves
+Counsel for the Respondent:
+Alexandra Humphrey
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

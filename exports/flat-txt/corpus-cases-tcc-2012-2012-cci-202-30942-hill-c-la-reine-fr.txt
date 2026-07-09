@@ -1,0 +1,206 @@
+Title: Hill c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30942/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-202-30942-hill-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2012-06-07
+
+# Hill c. La Reine
+
+- Citation: 2012 CCI 202
+- Decision date: 2012-06-07
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7438, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hill c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-07
+Référence neutre
+2012 CCI 202
+Numéro de dossier
+2011-3973(IT)APP
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2011-3973(IT)APP
+ENTRE :
+SEDWICK HILL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande de prorogation de délai entendue le 21 mars 2012
+à Toronto (Ontario).
+Devant : L’honorable juge B. Paris
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Tony Cheung
+____________________________________________________________________
+ORDONNANCE
+La demande de l’appelant visant à obtenir la prorogation du délai dans lequel il peut déposer un avis d’appel à l’égard des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu relativement à ses années d’imposition 2000, 2001, 2003, 2004, 2005 et 2006 est rejetée.
+Signé à Ottawa, Canada, ce 7e jour de juin 2012.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 19e jour de septembre 2012.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+Référence : 2012 CCI 202
+Date : 20120607
+Dossier : 2011-3973(IT)APP
+ENTRE :
+SEDWICK HILL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Paris
+[1] Monsieur Hill a présenté une demande en vertu de l’article 167 de la Loi de l’impôt sur le revenu (la « LIR ») afin d’obtenir une ordonnance prorogeant le délai dans lequel il peut déposer un avis d’appel à l’égard des nouvelles cotisations établies à l’égard de ses années d’imposition 2000, 2001, 2003, 2004, 2005 et 2006. À l’audience, M. Hill a également fait mention d’une nouvelle cotisation relative à son année d’imposition 1999, mais la Cour n’est pas saisie de cette dernière.
+Années d’imposition 2005 et 2006
+[2] Le 15 mai 2009, M. Hill a produit des déclarations de revenus pour ses années d’imposition 2005 et 2006 et, le 5 octobre 2010, le ministre a établi des cotisations relativement à celles‑ci. Le 20 novembre 2010, M. Hill a produit un avis d’opposition à l’égard de ces cotisations, mais le ministre n’a pas répondu à cette opposition. Même si l’intimée ne conteste pas la demande par laquelle M. Hill tente d’obtenir la prorogation du délai pour déposer un avis d’appel relativement à ses années d’imposition 2005 et 2006, il n’est pas opportun en l’espèce de rendre une ordonnance à cet effet, car le délai pour déposer un avis d’appel n’est pas encore expiré. Selon le paragraphe 169(1) de la LIR, M. Hill a actuellement le droit d’interjeter appel à la Cour et aucune prorogation du délai imparti pour déposer un appel relativement aux années d’imposition 2005 et 2006 n’est requise. M. Hill devrait maintenant déposer à la Cour un avis d’appel ainsi que les frais de dépôt applicables, le cas échéant.
+Années d’imposition 2000, 2001, 2003 et 2004
+[3] Les années d’imposition 2000 et 2001 de M. Hill ont initialement fait l’objet de cotisations le 27 janvier 2003. Il s’agissait de cotisations arbitraires établies en vertu du paragraphe 152(7) de la LIR parce que M. Hill n’avait pas produit de déclarations pour ces années. Il a subséquemment produit des déclarations pour les années 2000 et 2001 le 1er mars 2005 et le 7 mars 2005, respectivement, et ces années ont fait l’objet de nouvelles cotisations le 22 octobre 2007.
+[4] La preuve ne permet pas de savoir quand M. Hill a produit des déclarations de revenus pour ses années d’imposition 2003 et 2004, mais celles‑ci ont fait l’objet de cotisations initiales le 14 avril 2005, puis de nouvelles cotisations le 27 octobre 2007.
+[5] Les nouvelles cotisations d’octobre 2007 visant les années d’imposition 2000, 2001, 2003 et 2004 ont eu pour effet d’accroître le revenu total de M. Hill d’environ un million de dollars. Elles comportaient en outre des pénalités et des intérêts. M. Hill s’est opposé à ces nouvelles cotisations le 2 novembre 2007.
+[6] Vers le 29 décembre 2008, M. Hill a retenu les services de M. Gianni De Micco pour le représenter dans le cadre de ces oppositions. M. De Micco a présenté des observations à l’agent des appels de l’ARC, M. Ron Tammer, entre janvier et mars 2009.
+[7] Le 4 mars 2009, M. De Micco a envoyé le courriel suivant à M. Hill :
+[traduction]
+Bonjour Sedwick,
+J’ai de bonnes nouvelles pour vous. M. Ron Tammer a finalement capitulé et il a accepté la plupart des modifications que nous demandions dans notre dernière lettre d’observations, soit celle de février 2009.
+Nous avions demandé une réduction d’environ 254 984 $ (comprenant le prêt d’avocat, le refinancement de Maple, les pertes immobilières, Carl Lewis).
+Il fera parvenir à nos bureaux une nouvelle offre de règlement comprenant ces modifications. Nous vous en enverrons une copie en format PDF lorsque nous l’aurons reçue.
+Pour que cette nouvelle offre soit acceptée, M. Tammer demande qu’elle soit signée au plus tard vendredi de cette semaine.
+Monsieur Tammer a également mentionné que les années d’imposition 2005 et 2006 avaient fait l’objet de cotisations arbitraires, qu’il est disposé à accepter vos documents originaux à cet égard et que, si vous les lui remettez au plus tard le 30 avril 2008, il en tiendra compte dans le cadre des oppositions et il annulera les sommes établies arbitrairement. Vous avez avantage à produire ces documents.
+J’ai dit que je vous demanderais des instructions sur ces points. Voulez‑vous que nous remplissions vos déclarations de revenus relatives à 2005 et à 2006? Dans l’affirmative, veuillez nous faire parvenir les documents pertinents.
+Monsieur Hill a répondu ce qui suit :
+[traduction]
+C’est une excellente nouvelle. Oui, je veux produire mes déclarations pour 2005 et 2006. Je vais réunir les documents nécessaires sous peu. Merci.
+Sedwick Hill
+[8] L’offre présentée par M. Tammer réduisait les nouvelles cotisations d’une somme totale d’environ 400 000 $. Pour conclure le règlement, l’ARC exigeait que M. Hill renonce à son droit d’opposition ou d’appel relativement aux questions traitées dans le règlement. Cette renonciation est ainsi libellée :
+[TRADUCTION]
+RENONCIATION AU DROIT D’OPPOSITION OU D’APPEL
+Paragraphe 165(1.2)
+Restriction – Malgré les paragraphes (1) et (1.1), aucune opposition ne peut être faite par un contribuable à une cotisation établie en application des paragraphes 118.1(11), 152(4.2), 169(3) ou 220(3.1). Il est entendu que cette interdiction vaut pour les oppositions relatives à une question pour laquelle le contribuable a renoncé par écrit à son droit d'opposition.
+Paragraphe 169(2.2)
+Questions faisant l’objet d’une renonciation – Malgré les paragraphes (1) et (2), il est entendu qu’un contribuable ne peut interjeter appel auprès de la Cour canadienne de l’impôt pour faire annuler ou modifier une cotisation établie en vertu de la présente partie relativement à une question à l’égard de laquelle le contribuable a renoncé par écrit à son droit d’opposition ou d’appel.
+Années d’imposition – 1999, 2000, 2001, 2003 et 2004
+Je renonce à tous les droits d’opposition et d’appel en ce qui concerne les éléments suivants :
+• revenus non déclarés;
+• déductions refusées;
+• pertes autres que pertes en capital refusées.
+Cette renonciation est conditionnelle à ce que l’Agence du revenu du Canada établisse de nouvelles cotisations comme il est précisé ci‑dessous :
+Revenu d’entreprise brut
+1999
+2000
+2001
+2003
+2005
+Modifications proposées par l’agent des appels
+-3 700,00
+-19 492,00
+-59 698,63
+-67 785,63
+-258 841,34
+J’ai lu les dispositions de la Loi de l’impôt sur le revenu reproduites ci‑dessus et je comprends que je ne pourrai pas présenter d’opposition ou d’appel relativement aux années d’imposition susmentionnées.
+Je comprends et j’accepte que le présent règlement lie mes héritiers, mes exécuteurs testamentaires, mes fiduciaires, mes administrateurs successoraux ainsi que toute autre personne dont la responsabilité pourrait être retenue au titre des impôts, des intérêts et des pénalités découlant du présent règlement.
+__________________________
+Signature du contribuable
+Sedwick Hill, NAS : XXXXXX XXX
+__________________________
+Date
+[9] À l’audience, M. Hill a témoigné qu’il avait subi une énorme pression en raison du bref délai que M. Tammer lui avait donné pour accepter l’offre de règlement. Selon son témoignage, M. Tammer lui a dit que l’offre était à prendre ou à laisser, mais que, s’il ne l’acceptait pas, il serait tenu de payer l’impôt pour le revenu supplémentaire d’un million de dollars faisant l’objet des nouvelles cotisations. M. Hill a témoigné que M. De Micco lui avait aussi expliqué que le fait de ne pas signer le règlement équivaudrait à renoncer à celui‑ci. M. De Micco aurait aussi dit à M. Hill qu’ils pourraient contester [traduction] « plus tard » le solde de 600 000 $ visé par les nouvelles cotisations.
+[10] Monsieur Hill a affirmé qu’il avait signé l’offre de règlement et inscrit sur le formulaire la mention [traduction] « signé sous la contrainte », ou des termes au même effet, et qu’il avait retourné le document à M. De Micco. Ce dernier a répondu ainsi à M. Hill par courriel le 11 mars 2009 :
+[traduction]
+Bonjour Sedwick,
+Nous avons reçu le document signé par télécopieur. Évidemment, nous ne pouvons utiliser une signature apposée sous la contrainte puisqu’il n’y aurait alors aucune entente. Nous avons envoyé le document signé sans la mention de la signature apposée sous la contrainte. Le document a été envoyé par télécopieur à M. Ron Tammer aujourd’hui et nous avons obtenu confirmation de cet envoi.
+Nous allons maintenant nous occuper des déclarations de revenus pour 2005 et 2006.
+Nous devrons également produire une déclaration pour 2008 afin de réclamer une importante PDTPE.
+YSIS devra aussi produire des déclarations de revenus des sociétés.
+Sedwick, nous voulons en outre mettre votre compte à jour. En effet, une facture est exigible depuis presque 60 jours. Auriez‑vous l’obligeance de nous faire parvenir un chèque de 1 504,13 $ à l’ordre de « Urgent Solutions Inc. ». Comme nous en avons déjà discuté, vous pouvez dater le chèque du 15 mars 2009.
+Veuillez agréer nos salutations distinguées.
+Gianni De Micco, B. Comm.
+[11] Monsieur Hill a répondu ce qui suit par courriel[1] :
+[traduction]
+Merci Gianni, je m’en occupe.
+Sedwick
+[12] L’intimée a contesté le témoignage de M. Hill voulant qu’il ait inscrit sur l’offre de règlement une quelconque mention laissant entendre qu’il signait le document sous la contrainte. Cependant, à la lumière du courriel envoyé par M. De Micco à M. Hill, lequel courriel paraît authentique et renvoie à la mention visant la [traduction] « signature apposée sous la contrainte » inscrite par M. Hill, j’accepte le fait que ce dernier a, comme il l’affirme, ainsi qualifié sa signature de l’offre et que la mention supplémentaire a d’une façon ou d’une autre été supprimée par M. De Micco avant que le document constatant le règlement ne soit renvoyé à M. Tammer.
+[13] De nouvelles cotisations conformes à l’entente de règlement ont été établies à l’égard de M. Hill. Ces nouvelles cotisations portent la date du 9 avril 2009.
+[14] Le témoignage de M. Hill sur ce qui s’est passé ensuite est vague. Bien qu’il affirme avoir continuellement informé l’ARC depuis l’établissement de ces nouvelles cotisations du fait que les renonciations ont été signées sous la contrainte, il n’a pu fournir aucune précision sur ses communications avec l’ARC antérieures à juin 2010, moment où il a écrit au ministre. Il n’avait de double d’aucune pièce de correspondance avec l’ARC antérieurement à celle adressée au ministre ni aucun document établissant une quelconque communication avec M. De Micco après avril 2009.
+[15] En octobre 2009, M. Hill a effectivement envoyé une lettre au greffe de la Cour. Elle était ainsi adressée : [traduction] « À : ARC ». M. Hill précisait qu’il voulait [traduction] « [s]’opposer à l’impôt fixé arbitrairement par les vérificateurs de l’ARC sur [s]on revenu ». Cette lettre ne faisait mention ni de l’entente de règlement intervenue le 9 mars 2009, ni des nouvelles cotisations datées du 9 avril 2009, ni du fait qu’un règlement avait été conclu sous la contrainte.
+[16] Le 6 novembre 2009, le greffe a informé M. Hill que son avis d’appel ne précisait pas la date de la nouvelle cotisation, de la confirmation ou de la décision visée par son opposition. Le greffe l’a en outre informé du délai de 90 jours prévu par la LIR pour la production d’un appel et de son droit de présenter une demande de prorogation de délai si la période de 90 jours était expirée. On lui a remis les formulaires nécessaires pour préparer une demande et un appel, et on lui a demandé de répondre dans les 15 jours. Le greffe lui a à nouveau écrit en février 2010 et en juin 2010 pour lui faire savoir qu’il attendait toujours ses documents et que, s’il ne recevait rien dans les 15 jours suivants, il ne prendrait aucune autre mesure.
+[17] Il ne semble pas que le greffe ait reçu quoi que ce soit d’autre de M. Hill jusqu’à ce que la présente demande soit déposée le 16 décembre 2011.
+[18] Cependant, M. Hill a témoigné qu’en février 2010, il avait fait poster à la Cour de l’impôt par une amie un avis d’appel qu’il avait préparé. Il a également produit une déclaration signée sous serment par Sandra Tulshi, dans lequel cette dernière affirme avoir posté certains documents à la Cour de l’impôt pour M. Hill. Mme Tulshi n’a pas été appelée à témoigner à l’audience et M. Hill n’avait pas en sa possession un double des documents qui auraient été postés à la Cour.
+[19] Monsieur Hill a aussi déclaré qu’il avait appelé à la Cour de l’impôt, peut‑être en juin 2010, et que le greffe l’avait informé qu’il n’avait rien reçu de sa part. Dans la demande en cause, M. Hill a écrit qu’il n’avait pas donné suite parce qu’il était alors en négociation avec divers services de l’ARC dans l’espoir de régler l’affaire sans recourir aux tribunaux.
+[20] Le 10 juin 2010, il a adressé au ministre du Revenu national une lettre dans laquelle il soulevait la question de la contrainte et demandait au ministre d’intervenir. Le 16 août 2010, le ministre a répondu à M. Hill que ce denier avait renoncé à son droit d’interjeter appel des nouvelles cotisations et que l’affaire ne serait pas examinée à nouveau.
+[21] En août 2010, M. Hill a produit auprès de l’ARC des déclarations de revenus modifiées relativement à ses années d’imposition 2001, 2003 et 2004, déclarations par lesquelles il demandait que des ajustements soient apportés à certains éléments n’ayant aucun lien avec les questions réglées dans l’entente de règlement de mars 2009. Selon un affidavit fait par un fonctionnaire de l’ARC, les déclarations modifiées ont été considérées comme une demande fondée sur le paragraphe 152(4.2) de la LIR parce que la période normale de nouvelle cotisation pour ces déclarations avait expirée. Le paragraphe 152(4.2) confère au ministre, lorsque le contribuable demande un ajustement, le pouvoir d’établir une nouvelle cotisation à l’égard d’une année d’imposition pour laquelle la période de nouvelle cotisation a pris fin. Les droits d’opposition et d’appel visant ce genre de nouvelles cotisations sont abolis par les paragraphes 165(1.2) et 169(2.2) de la LIR. Le paragraphe 152(4.2) est ainsi libellé :
+152(4.2) Nouvelle cotisation et nouvelle détermination – Malgré les paragraphes (4), (4.1) et (5), pour déterminer, à un moment donné après la fin de la période normale de nouvelle cotisation applicable à un contribuable – particulier, autre qu’une fiducie, ou fiducie testamentaire – pour une année d’imposition le remboursement auquel le contribuable a droit à ce moment pour l’année ou la réduction d’un montant payable par le contribuable pour l’année en vertu de la présente partie, le ministre peut, si le contribuable demande pareille détermination au plus tard le jour qui suit de dix années civiles la fin de cette année d’imposition, à la fois :
+a) établir de nouvelles cotisations concernant l’impôt, les intérêts ou les pénalités payables par le contribuable pour l’année en vertu de la présente partie;
+b) déterminer de nouveau l’impôt qui est réputé, par les paragraphes 120(2) ou (2.2), 122.5(3), 122.51(2), 122.7(2) ou (3), 127.1(1), 127.41(3) ou 210.2(3) ou (4), avoir été payé au titre de l’impôt payable par le contribuable en vertu de la présente partie pour l’année ou qui est réputé, par le paragraphe 122.61(1), être un paiement en trop au titre des sommes dont le contribuable est redevable en vertu de la présente partie pour l’année.
+[22] Le 5 octobre 2010, le ministre a accordé certains des ajustements demandés par M. Hill et il a envoyé des avis de nouvelle cotisation relativement à ces années conformément au paragraphe 152(4.2).
+[23] Le 30 novembre 2010, M. Hill a demandé d’autres ajustements pour les années d’imposition 2001, 2003 et 2004, cette fois à l’égard d’éléments qui étaient visés par l’entente de règlement. Le ministre a traité la demande comme s’il s’agissait d’une demande d’examen administratif de la décision du 5 octobre 2010 d’établir de nouvelles cotisations à l’égard de ces années et il a refusé les ajustements le 8 août 2011.
+[24] Monsieur Hill a à nouveau écrit à l’ARC le 14 septembre 2011 afin, semble‑t‑il, de réitérer sa demande du 30 novembre 2010. L’ARC a refusé cette demande par une lettre datée du 27 octobre 2011.
+[25] Le 16 décembre 2011, M. Hill a déposé la demande en cause auprès de la Cour.
+Question en litige
+[26] Il s’agit en l’espèce de décider si la renonciation du 9 mars 2009 signée par M. Hill l’empêche d’interjeter appel relativement aux questions exposées dans la renonciation. M. Hill soutient qu’il a signé la renonciation sous la contrainte et qu’il devrait pouvoir contester toutes les sommes visées par les nouvelles cotisations établies relativement aux années en cause.
+Analyse
+[27] Il est clairement établi en droit qu’une partie peut répudier un contrat par ailleurs valide si elle y a consenti sous la contrainte. Dans son ouvrage intitulé The Law of Contract in Canada (5e éd. 2006), à la page 308, l’auteur G.H.L. Fridman s’exprime en ces termes :
+[traduction]
+L’idée essentielle qui sous‑tend un argument fondé sur la contrainte tient au fait qu’une personne a exercé sur une autre une pression indue ou illégitime afin que cette dernière agisse malgré elle à l’encontre de ses propres intérêts.
+[28] Il m’incombe de décider en l’espèce si l’agent des appels de l’ARC a exercé une pression indue ou illégitime sur M. Hill pour qu’il signe la renonciation. Il s’agit d’une question de fait.
+[29] La preuve révèle que M. Hill a eu connaissance de l’offre de règlement par un courriel envoyé par M. De Micco le mercredi 4 mars 2009. Dans ce courriel, M. De Micco écrit que l’agent des appels de l’ARC impose la condition suivante : [traduction] « Pour que cette nouvelle offre [de règlement] soit acceptée, M. Tammer demande qu’elle soit signée au plus tard vendredi de cette semaine ». M. Hill a affirmé qu’on lui avait dit que, s’il refusait l’offre, le dossier serait classé sans aucun ajustement et qu’il devrait payer l’impôt pour le revenu d’un million de dollars, conformément aux nouvelles cotisations.
+[30] À mon avis, les actes de l’agent des appels de l’ARC, tels qu’ils sont décrits par M. Hill, ne constituent pas une pression indue ou illégitime. Il me semble que les conditions prévues par l’offre de règlement ne pouvaient constituer une surprise totale pour M. Hill. Selon le courriel que M. De Micco a envoyé à ce dernier le 4 mars 2009, le règlement proposé reflétait en grande partie ce que M. De Micco avait proposé au nom de M. Hill. La partie pertinente du courriel de M. De Micco est ainsi rédigée :
+[traduction]
+J’ai de bonnes nouvelles pour vous. M. Ron Tammer [le vérificateur de l’ARC] a finalement capitulé et il a accepté la plupart des modifications que nous demandions dans notre dernière lettre d’observations, soit celle de février 2009.
+[Non souligné dans l’original.]
+[31] Dans ce contexte, comme il ressort des courriels de M. De Micco, le court délai fixé pour répondre à l’offre ne paraît pas déraisonnable. De plus, le délai n’était apparemment pas très ferme, car M. Hill n’a signé et retourné la renonciation à M. De Micco que le mercredi de la semaine suivante, soit le 11 mars 2009. Je remarque également que M. Hill n’a pas tenté d’obtenir une prorogation de ce délai.
+[32] Compte tenu de l’ensemble de la situation, je ne suis pas convaincu que la renonciation a été obtenue par suite d’une quelconque pression indue ou illégitime qu’aurait exercée le vérificateur de l’ARC sur M. Hill. L’imposition d’un court délai pour l’acceptation d’une offre de règlement et la condition voulant que l’offre soit [traduction] « à prendre ou à laisser » ne peuvent être assimilées au genre de pression ou de menace susceptible de permettre à M. Hill de considérer l’entente comme nulle.
+[33] Cette conclusion est compatible avec la jurisprudence relative à des affaires où des contribuables ont allégué que les renonciations consenties en faveur de l’ARC l’avaient été sous la contrainte.
+[34] Dans l’arrêt Smerchanski c. Ministre du Revenu national, [1977] 2 R.C.S. 23, la Cour suprême du Canada a estimé que la renonciation obtenue d’un contribuable sous la menace de poursuites pour fraude fiscale était exécutoire parce que le ministère du Revenu national avait de bonnes raisons d’intenter des poursuites, fait dont avait convenu le contribuable. La Cour suprême a donc conclu que la menace de poursuites dans cette affaire n’était pas indue ou illégitime.
+[35] Dans la décision Anthony c. La Reine, 2007 CCI 606, la Cour est arrivée à la conclusion que la pression, exercée sur un contribuable pour qu’il signe une renonciation, par un vérificateur qui voulait [traduction] « classer le dossier » ne constituait pas une preuve suffisante de contrainte.
+[36] En outre, l’affirmation de l’agent des appels selon laquelle M. Hill serait tenu de payer toutes les sommes fixées dans les nouvelles cotisations s’il n’acceptait pas le règlement ne me semble pas être une « menace ». Il s’agissait simplement d’un constat des conséquences juridiques qui découleraient de l’établissement des nouvelles cotisations en l’absence d’un règlement. Il importe également de signaler qu’en cas de refus de l’offre, M. Hill aurait toujours eu le droit d’interjeter appel des nouvelles cotisations à la Cour canadienne de l’impôt.
+[37] Même si j’avais conclu que la renonciation en l’espèce avait été obtenue au moyen de la contrainte, je conviens avec l’avocat de l’intimée que M. Hill, par sa conduite postérieure à la signature de la renonciation, a ratifié l’entente de règlement. Comme un contrat conclu sous la contrainte est susceptible d’annulation plutôt que frappé de nullité absolue[2], il subsistera toujours une entente exécutoire si le contrat est ratifié une fois que la présumée contrainte a pris fin[3].
+[38] Dans la présente affaire, M. Hill n’a pas réussi à montrer qu’il a pris, dès que M. De Micco a envoyé l’entente signée, de quelconques mesures pour aviser ce dernier ou le vérificateur de l’ARC qu’il n’était pas d’accord avec l’entente de règlement. En fait, dans sa réponse au courriel de M. De Micco l’informant que l’entente avait été envoyée à l’ARC sans mention relative à la contrainte, M. Hill n’a même pas soulevé ce point ni manifesté le moindre désaccord avec ce que M. De Micco avait fait.
+[39] Aucun élément de preuve en l’espèce ne permet de conclure que M. Hill a demandé à M. De Micco de retirer l’acceptation. Je note aussi que l’avis d’appel envoyé à la Cour par M. Hill en octobre 2009 ne faisait nullement état de la renonciation ou de la question de la contrainte. Par conséquent, M. Hill n’a pas établi qu’il a pris des mesures dès que possible après la cessation de la présumée contrainte pour faire annuler l’entente de règlement et la renonciation.
+[40] Pour ces motifs, je conclus qu’il n’est pas loisible à M. Hill d’agir maintenant comme si le règlement et la renonciation étaient nuls. Comme le paragraphe 169(2.2) de la LIR l’empêche d’interjeter appel des nouvelles cotisations établies relativement à ses années d’imposition 2000, 2001, 2003 et 2004, la demande de prorogation du délai pour interjeter appel de ces nouvelles cotisations doit être rejetée.
+[41] Pour les motifs exposés ci‑dessus, la demande présentée à l’égard des années d’imposition 2005 et 2006 est également rejetée, et M. Hill peut déposer auprès de la Cour un avis d’appel concernant les nouvelles cotisations relatives à ces années ainsi que les frais de dépôt applicables.
+Signé à Ottawa, Canada, ce 7e jour de juin 2012.
+« B. Paris »
+Juge Paris
+Traduction certifiée conforme
+ce 19e jour de septembre 2012.
+Jean-François Leclerc-Sirois, LL.B, M.A.Trad.Jur.
+RÉFÉRENCE : 2012 CCI 202
+NO DU DOSSIER DE LA COUR : 2011-3973(IT)APP
+INTITULÉ : Sedwick Hill c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 21 mars 2012
+MOTIFS DE L’ORDONNANCE : L’honorable juge B. Paris
+DATE DU JUGEMENT : Le 7 juin 2012
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me Tony Cheung
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Même si l’heure figurant sur le courriel du 9 mars 2009 que M. Hill a adressé à M. De Micco précède le moment où M. De Micco a envoyé son courriel à M. Hill ce jour‑là, il est évident que ce dernier répondait au courriel de M. De Micco. Il ressort de l’examen de chacun des courriels antérieurs produits sous la cote A‑2 que l’heure figurant sur les réponses envoyées par courriel par M. Hill précède toujours celle des courriels de M. De Micco auxquels il répond. J’en déduis donc que, pour une raison ou pour une autre, le système de télécopie ou l’horloge de l’ordinateur de M. Hill ne montre pas l’heure exacte.
+[2] Voir Byle v. Byle, [1990] 65 D.L.R. (4th) 641, à la p. 649 (C.A. C.-B.).
+[3] Chitty on Contracts, 30e éd., 2008, aux p. 621 et 622.

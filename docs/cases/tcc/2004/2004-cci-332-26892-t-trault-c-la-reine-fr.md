@@ -1,0 +1,495 @@
+---
+title: "Tétrault c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26892/index.do"
+last_modified: "2004-05-11"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 CCI 332"
+citation2: ""
+neutral_citation: "2004 CCI 332"
+decision_date: "2004-05-11"
+language: "fr"
+item_id: "26892"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 764
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T20:29:18.652000+00:00"
+cases_cited_count: 1
+cases_citing_count: 12
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0bcaec59d9a2a901b46a391635913658648c09cf31c5c3c4673d620b0c55cef3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tétrault c. La Reine
+
+- Citation: 2004 CCI 332
+- Decision date: 2004-05-11
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 764, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tétrault c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-05-11
+Référence neutre
+2004 CCI 332
+Numéro de dossier
+2002-4333(IT)I
+Juges et Officiers taxateurs
+Pierre Archambault
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2002-4333(IT)I
+ENTRE :
+SUZANNE TÉTRAULT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+____________________________________________________________________
+Appel entendu le 19 novembre 2003 à Sherbrooke (Québec)
+Devant : L'honorable juge Pierre Archambault
+Comparutions :
+Représentant de l'appelante :
+Charles Bourgeois
+Avocat de l'intimée :
+Me Philippe Dupuis
+____________________________________________________________________
+JUGEMENT
+Les appels des cotisations établies en vertu de la Loi de l'impôt sur le revenu à l'égard des années d'imposition 1994, 1995, 1996, 1998 et 1999 sont rejetés, le tout selon les motifs ci-joints.
+Signé à Montréal (Québec), ce 11e jour de mai 2004.
+« Pierre Archambault »
+Juge Archambault
+Référence : 2004CCI332
+Date : 20040511
+Dossier : 2002-4333(IT)I
+ENTRE :
+SUZANNE TÉTRAULT,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Archambault
+[1] Le ministre du Revenu national (ministre ou Agence) a établi le 23 octobre 2001, en vertu de l'article 160 de la Loi de l'impôt sur le revenu (Loi), une cotisation par laquelle il réclamait à madame Suzanne Tétrault une somme de 11 893,96 $. De cette somme, 9 710,86 $ représente le montant d'impôt dû par le mari de madame Tétrault, monsieur Paul Tétrault, à l'égard des années d'imposition 1994, 1995, 1996, 1998 et 1999 (période pertinente) et 2 183,10 $ représente des intérêts. Il semble que la dette fiscale de monsieur Tétrault résulte en bonne partie du fait que le ministre lui a refusé la déduction de ses pertes subies dans une entreprise agricole, et ce, au motif qu'il n'avait pas d'espoir raisonnable d'en tirer un profit. Au début de l'audience, le représentant de madame Tétrault n'a pas nié l'existence de la dette fiscale de son mari. Au contraire, il l'a même admise[1].
+[2] À l'appui de sa contestation, madame Tétrault invoque dans son avis d'appel plusieurs arguments, dont les suivants. D'abord, le transfert en sa faveur des prestations du régime de pension (pension) de l'ancien employeur de son mari et le transfert, à elle également, de la rente (rente) du Régime de rentes du Québec versée à son mari n'ont pas été faits dans le but d'éluder le paiement de l'impôt. Ces sommes ont servi à payer des dépenses courantes. De plus, elles ont été versées en contrepartie des services rendus par madame Tétrault dans le cadre de l'exploitation agricole de son mari. Finalement, elle reproche au ministre d'avoir modifié la justification invoquée à l'appui de la cotisation établie en vertu de l'article 160. Dans un premier temps, le ministre semblait indiquer que les sommes transférées par monsieur Tétrault au bénéfice de sa femme avaient servi à payer l'hypothèque de cette dernière et, de ce fait, étaient assujetties à l'application de l'article 160, alors que, par la suite, le ministre aurait indiqué que les sommes transférées et utilisées à des fins autres que le paiement de l'hypothèque étaient assujetties à l'article 160 de la Loi.
+Faits
+[3] Il n'y a pas vraiment de dispute entre les parties quant aux faits pertinents de cette affaire. Monsieur Tétrault, un ancien policier de la Communauté urbaine de Montréal (CUM), a dû prendre sa retraite forcée lorsque le comité médical de l'Association de bienfaisance et de retraite des policiers de la CUM a conclu, de façon unanime, à l'inaptitude de monsieur Tétrault à remplir l'ensemble de ses fonctions policières à la suite de l'infarctus aigu du myocarde survenu le 11 avril 1983. Quoique le représentant de monsieur Tétrault ait admis l'alinéa 3 b) de la Réponse à l'avis d'appel, où il est indiqué qu'à toutes les deux semaines la pension était transférée du compte de monsieur Tétrault à la Caisse d'économie des policiers de la CUM à celui de madame Tétrault, monsieur Tétrault a dit lors de son témoignage qu'il ne possédait aucun compte bancaire ni aucune carte de crédit depuis de nombreuses années. Tout chèque qu'il recevait était endossé en faveur de madame Tétrault et sa pension et sa rente étaient transférées directement dans le compte bancaire de cette dernière. Il a affirmé que c'était sa femme qui s'occupait de le faire vivre avec l'argent ainsi déposé dans son compte, et cela depuis bien avant la période pertinente.
+[4] Par contre, dans son témoignage, madame Tétrault a reconnu que les chèques de prestations de la sécurité de la vieillesse (pension de vieillesse) reçus par monsieur Tétrault[2] et par elle-même étaient considérés comme des biens propres de chacun des époux et étaient dépensés par eux à leur guise. Toutefois, la pension de vieillesse n'a été reçue que pour les années 1997 et suivantes, 1997 étant l'année au cours de laquelle monsieur et madame Tétrault ont atteint l'âge de 65 ans.
+[5] Le 27 novembre 1982, quelques mois avant que monsieur Tétrault ne subisse son infarctus, madame Tétrault a fait l'acquisition d'une ferme de 200 acres située dans la municipalité du canton de Wotton. Sur cette ferme se trouvaient, en plus de la maison, une grange, un garage et une remise à machinerie. L'objectif poursuivi par le couple Tétrault était de s'installer dans une région éloignée à la fois de la grande ville de Montréal et de toute autre ville de moindre importance. Dans l'acte d'achat de cette ferme, madame Tétrault déclare qu'elle est mariée sous le régime de la séparation de biens, suivant un contrat de mariage signé devant notaire le 27 novembre 1953.
+[6] Au cours des années subséquentes, le couple Tétrault s'est livré à des activités d'élevage, tout d'abord de moutons, par la suite, de porcs et de lapins. Le nombre de moutons n'a pas dépassé huit ou dix. Quant aux porcs, leur nombre n'a pas dépassé 10 et l'élevage ne se faisait que durant l'été : aucun porc n'était gardé durant l'hiver. Quant à l'élevage de lapins, monsieur Tétrault a indiqué qu'il possédait, au cours de l'année 1994, 28 cases de mères lapins et que le chiffre n'avait pas dépassé 56 cases en 1997 ou 1998. Selon lui, il fallait posséder au moins 200 cases pour pouvoir exploiter une entreprise viable. De plus, il était tout à fait contre l'élevage de lapins à l'aide des techniques de production industrielle. Il a reconnu manger deux fois par semaine du lapin et a dit qu'il vendait une partie de ses lapins à un acheteur de l'Union des producteurs agricoles (UPA).
+[7] En plus de ses activités à la ferme, monsieur Tétrault a fait partie de différentes associations, dont notamment l'UPA, le Syndicat des producteurs cunicoles de l'Estrie (il a été d'abord vice-président et puis président de ce syndicat), le Comité des producteurs de viandes de spécialités de la région d'Asbestos et le Comité touristique de la région d'Asbestos.
+[8] Dans son rapport, la vérificatrice du ministère du Revenu du Québec (MRQ) indique, comme motif pour conclure qu'aucune entreprise agricole n'avait été exploitée par monsieur Tétrault, qu'il n'avait pas d'espoir raisonnable de profit. Elle se fondait notamment sur le fait qu'il n'avait pas les capacités physiques pour exploiter une telle entreprise. De plus, elle a indiqué dans son rapport : « Vous savez que pour que votre ferme soit rentable, vous devriez avoir au moins trois fois plus de lapins que maintenant. Il est donc évident qu'en ayant pas plus de lapins que ce que vous avez, votre entreprise ne deviendra pas rentable. »
+[9] Le montant des pertes agricoles dont la déduction a été réclamée s'élevait à 14 004 $ en 1994, à 18 741 $ en 1995 et à 18 091 $ en 1996. Même si monsieur et madame Tétrault ont reconnu avoir exercé les activités agricoles ensemble et que la ferme appartenait à madame Tétrault, seulement monsieur Tétrault a réclamé la déduction de ces pertes. Monsieur et madame Tétrault n'ont reçu aucun salaire pour leurs services. Le traitement fiscal des pertes a été suggéré par une teneuse de livres qui n'a pas témoigné lors de l'audience. Toutefois, il semble plus que probable qu'elle a décidé de réclamer la déduction des pertes agricoles au seul nom de monsieur Tétrault en raison du fait que lui seul avait des revenus au cours des années 1994 à 1996. À partir de 1997, l'année où elle commençait à recevoir une pension de vieillesse, la déduction des pertes agricoles a été réclamée par madame Tétrault [3].
+[10] Lorsque le ministre a décidé d'établir de nouvelles cotisations et de refuser la déduction des pertes agricoles réclamée par monsieur Tétrault, ce dernier a été incapable de verser les sommes qu'il devait au ministre. Par la suite, il a fait faillite et a obtenu, le 16 décembre 2000, un certificat de libération automatique de toutes ses dettes, à l'exception de celles mentionnées à l'article 178(1) de la Loi sur la faillite et l'insolvabilité. Les créanciers dans la faillite étaient le MRQ et l'Agence. Le montant dû au créancier garanti (le MRQ) s'élevait à 13 000 $ et ceux dus aux créanciers non garantis s'élevaient à 22 120,54 $. Monsieur Tétrault n'avait qu'une somme de 1 111,64 $ (nette du montant total des débours) pouvant être répartie parmi ses créanciers non garantis. Il semble que le créancier garanti ait pu être payé grâce à une hypothèque légale détenue sur quatre terrains que monsieur Tétrault détenait à St-Basile-le Grand.
+[11] Les revenus déclarés par monsieur et madame Tétrault sont les suivants pour la période pertinente :
+Revenus déclarés par Paul Tétrault
+Année
+Régime des
+rentes du
+Québec (RRQ)
+Prestations de
+sécurité de la
+vieillesse
+Revenus de
+pension
+Revenu annuel
+total
+1994
+1995
+1996
+1998
+1999
+8 622,00 $
+8 622,00 $
+8 820,00 $
+7 070,00 $
+7 133,00 $
+0,00 $
+0,00 $
+0,00 $
+4 901,00 $
+4 959,00 $
+22 900,00 $
+22 900,00 $
+22 706,00 $
+20 615,00 $
+20 946,00 $
+31 522,00 $
+31 522,00 $
+31 526,00 $
+32 586,00 $
+33 038,00 $
+Total
+40 267,00 $
+9 860,00 $
+110 067,00 $
+160 194,00 $
+Revenus déclarés par Suzanne Tétrault
+Année
+Régime des
+rentes du
+Québec (RRQ)
+Prestations de
+sécurité de la
+vieillesse
+Autres Revenus
+Revenu annuel
+total
+1994
+1995
+1996
+1998
+1999
+0,00 $
+0,00 $
+0,00 $
+543,00 $
+547,00 $
+0,00 $
+0,00 $
+0,00 $
+4 901,00 $
+4 959,00 $
+999,00 $
+465,00 $
+0,00 $
+0,00 $
+0,00 $
+999,00 $
+465,00 $
+0,00 $
+5 444,00 $
+5 506,00 $
+Total
+1 090,00 $
+9 860,00 $
+1 464,00 $
+12 414,00 $
+[12] Le total des sommes dues au ministre par monsieur Tétrault et celui des sommes versées dans le compte de madame Tétrault pour la période pertinente se détaillent de la façon suivante :
+Détail de la dette fiscale impayée de Paul Tétrault
+et des sommes transférées par ce dernier à Suzanne Tétrault
+Année
+Impôt impayé
+Intérêts sur le
+solde d'impôt
+Dette fiscale
+totale
+Sommes transférées
+1994
+1995
+1996
+1998
+1999
+2 198,86 $
+3 201,64 $
+3 001,12 $
+881,34 $
+427,90 $
+162,26 $
+1 154,80 $
+793,74 $
+72,30 $
+0,00 $
+2 361,12 $
+4 356,44 $
+3 794,86 $
+953,64 $
+427,90 $
+25 085,00 $
+26 523,00 $
+28 450,00 $
+22 201,00 $
+24 194,00 $
+Total
+9 710,86 $
+2 183,10 $
+11 893,96 $
+126 453,00 $
+[13] Pour financer l'acquisition de la ferme en 1982, madame Tétrault a dû faire un emprunt à la Caisse populaire de St-Hippolythe de Wotton. Le prix d'achat de la ferme s'élevait à 65 000 $, dont une somme de 15 000 $ a été versée lors de l'achat. Monsieur Tétrault s'est porté caution envers la Caisse populaire relativement à l'emprunt de son épouse. Voici le détail des paiements hypothécaires effectués par monsieur Tétrault :
+Année
+Paiements
+hypothécaires
+Solde au
+31 décembre
+Capital
+accumulé
+Intérêts payés
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+N/A
+5 736,90 $
+6 104,12 $
+6 132,72 $
+N/A
+6 095,60 $
+5 910,00 $
+47 221,71 $
+44 943,95 $
+42 673,67 $
+40 211,23 $
+37 522,33 $
+34 562,91 $
+31 230,29 $
+N/A
+2 277,76 $
+2 270,28 $
+2 462,44 $
+N/A
+2 959,42 $
+3 332,62 $
+N/A
+3 459,14 $
+3 833,84 $
+3 670,28 $
+N/A
+3 136,18 $
+2 577,38 $
+Total
+29 979,34 $
+N/A
+13 302,52 $
+16 676,82 $
+[14] Une analyse des dépenses du couple fournit les chiffres suivants :
+Dépenses du ménage
+Année
+Nourriture
+Frais d'entretien de la ferme
+Paiements
+hypothécaires
+Frais Globaux
+Portion
+personnelle-1/3
+1994
+1995
+1996
+1998
+1999
+5 200,00 $
+5 200,00 $
+5 200,00 $
+5 200,00 $
+5 200,00 $
+7 725,00 $
+6 772,00 $
+4 546,00 $
+4 187,00 $
+4 609,00 $
+2 575,00 $
+2 257,00 $
+1 515,00 $
+1 396,00 $
+1 536,00 $
+5 736,90 $
+6 104,12 $
+6 132,72 $
+6 095,60 $
+5 910,00 $
+Total
+26 000,00 $
+27 839,00 $[4]
+9 279,00 $
+29 979,34 $
+Analyse
+[15] La disposition pertinente aux fins du litige est le paragraphe 160(1) de la Loi, qui se lit comme suit :
+160(1) Transfert de biens entre personnes ayant un lien de dépendance - Lorsqu'une personne a, depuis le 1er mai 1951, transféré des biens, directement ou indirectement, au moyen d'une fiducie ou de toute autre façon à l'une des personnes suivantes :
+a) son conjoint ou une personne devenue depuis son conjoint;
+b) une personne qui était âgée de moins de 18 ans;
+c) une personne avec laquelle elle avait un lien de dépendance,
+les règles suivantes s'appliquent :
+d) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement d'une partie de l'impôt de l'auteur du transfert en vertu de la présente partie pour chaque année d'imposition égale à l'excédent de l'impôt pour l'année sur ce que cet impôt aurait été sans l'application des articles 74.1 à 75.1 de la présente loi et de l'article 74 de la Loi de l'impôt sur le revenu, chapitre 148 des Statuts révisés du Canada de 1952, à l'égard de tout revenu tiré des biens ainsi transférés ou des biens y substitués ou à l'égard de tout gain tiré de la disposition de tels biens;
+e) le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement en vertu de la présente loi d'un montant égal au moins élevé des montants suivants :
+(i) l'excédent éventuel de la juste valeur marchande des biens au moment du transfert sur la juste valeur marchande à ce moment de la contrepartie donnée pour le bien,
+(ii) le total des montants dont chacun représente un montant que l'auteur du transfert doit payer en vertu de la présente loi au cours de l'année d'imposition dans laquelle les biens ont été transférés ou d'une année d'imposition antérieure ou pour une de ces années;
+aucune disposition du présent paragraphe n'est toutefois réputée limiter la responsabilité de l'auteur du transfert en vertu de quelque autre disposition de la présente loi.
+[Je souligne.]
+[16] La juge Desjardins de la Cour d'appel fédérale a écrit au paragraphe 14 de l'arrêt Medland v. Canada, [1998] A.C.F. no 708 (Q.L.), que « la politique fiscale qui sous-tend le paragraphe 160(1), ou son objet et son esprit consistent à empêcher un contribuable de transférer ses biens à son conjoint afin de faire échec aux efforts déployés par le ministre pour percevoir l'argent qui lui est dû. » Même si tel est le but de la disposition, le représentant de madame Tétrault a tort de prétendre qu'une intention d'éluder l'impôt doit exister pour que cet article soit applicable. Tout d'abord, il est évident qu'une telle condition n'est pas requise par l'article 160 de la Loi. Cette interprétation, selon laquelle aucun élément intentionnel n'est requis, a d'ailleurs été adoptée par mon collègue le juge Dussault dans l'affaire Montreuil et al. v. The Queen, 94 DTC 1821, à la page 1828. De plus, la même approche a été suivie récemment par la Cour d'appel fédérale dans l'arrêt Wannan c. Canada, [2003] A.C.F. no 1693 (Q.L.), au paragraphe 3. Voici ce qu'on y dit :
+L'article 160 de la Loi de l'impôt sur le revenu est un instrument important de recouvrement des impôts, parce qu'il contrarie les tentatives d'un contribuable de mettre de l'argent ou d'autres biens hors de la portée du fisc en les transférant censément à des amis. C'est cependant une disposition draconienne. [. . . ] Cet article peut s'appliquer au cessionnaire de biens qui n'a pas l'intention d'aider le débiteur fiscal primaire à se soustraire à l'impôt. Il peut même s'appliquer au cessionnaire qui n'a pas connaissance de la situation fiscale du débiteur primaire. [. . . ]
+[17] En ce qui concerne l'argument selon lequel le ministre a modifié la base de sa cotisation, je ne vois pas comment madame Tétrault peut en avoir subi un préjudice dans les circonstances de cette affaire. Tout d'abord, les faits sur lesquels le ministre s'est fondé pour établir sa cotisation et qui sont énoncés au paragraphe 3 de la réponse à l'avis d'appel ont tous été admis par le représentant de madame Tétrault. Il ne reste qu'à décider si ces faits et ceux mis en preuve lors de l'audience justifient la cotisation. Ou bien le ministre tenait madame Tétrault responsable des impôts de son mari jusqu'à concurrence des sommes versées pour les paiements hypothécaires, auquel cas elle devait faire valoir en droit que l'article 160 n'était pas applicable, ou bien le ministre prétendait que c'étaient les sommes utilisées à des fins autres que les paiements hypothécaires qui étaient assujetties à l'article 160, et alors il revenait à madame Tétrault d'établir pour quelle raison ces sommes ne devaient pas y être assujetties.
+[18] Quant à l'argument selon lequel l'argent avait été versé en contrepartie des services de madame Tétrault, on n'a produit aucune preuve établissant qu'elle agissait comme salarié de monsieur Tétrault. Madame Tétrault a reconnu que ce dernier ne versait aucun salaire ni à lui-même ni à elle. De toute façon, il est probable que l'entreprise, si entreprise il y avait, appartenait à madame Tétrault[5], ou qu'à tout le moins, il y avait une société de personnes composée des Tétrault. Rappelons que c'est madame Tétrault qui était la propriétaire de la ferme et c'est elle qui payait tout en se servant de son compte[6]. Dans un cas comme dans l'autre, madame Tétrault n'a pas travaillé en contrepartie d'un salaire et les sommes que monsieur Tétrault lui a versées n'ont été ainsi payées en contrepartie d'aucun service fourni par elle[7].
+[19] Pour contester la cotisation, le représentant de madame Tétrault s'appuie également sur la décision rendue par mon collègue le juge McArthur dans l'affaire Ferracuti c. Canada, [1998] A.C.I no 883 (Q.L.), en particulier le paragraphe 23, que je reproduis ici :
+23 En l'espèce, je conclus, que c'est pour s'acquitter de son obligation juridique de subvenir aux besoins de sa famille que M. Ferracuti a payé les intérêts hypothécaires à London Life, qu'il a payé à la ville d'Etobicoke les impôts fonciers, l'électricité et les services d'adduction d'eau et qu'il a payé à Valeroite Insurance l'assurance-habitation. Ces paiements ne constituent pas un transfert au sens de l'article 160 de la Loi.
+[Je souligne.]
+[20] Pour en arriver à cette décision, le juge McArthur s'est fondé notamment sur la décision rendue par la juge Lamarre Proulx de cette Cour dans l'affaire Michaud c. Canada, [1998] A.C.I. no 908 (Q.L.). Il en a cité les paragraphes 19 et 20 au paragraphe 22 de ses motifs :
+22 La juge Lamarre-Proulx de cette cour déclarait aux paragraphes 19 et 20 de la décision Michaud c. La Reine, 13 août 1998, Québec, 97-1312(IT)G (C.C.I.), inédite :
+Je suis d'avis que lorsque l'ex-conjoint de l'appelante a payé les charges hypothécaires de la maison familiale qui était la propriété de l'appelante, il ne faisait qu'exécuter une obligation légale soit celle de subvenir aux besoins de sa famille en lui procurant le logement dont elle avait besoin. L'appelante aurait pu payer elle-même ces frais hypothécaires et le mari aurait pu payer ce que l'appelante avait pris à sa charge. Mais ce n'était pas ainsi que les charges familiales s'étaient naturellement réparties dans ce couple. De toute façon, cette répartition pécuniaire des charges familiales n'est pas de l'essence de ma décision. Car ici, il s'agit d'un couple où les deux époux gagnent de l'argent. S'il s'était agi d'un couple où seul un des deux époux gagnait le revenu familial, ma décision serait la même : le paiement de l'emprunt hypothécaire fait sur la demeure familiale n'est pas de la nature d'un transfert de biens fait sans contrepartie valable s'il est en fait en exécution de l'obligation légale de pourvoir aux besoins de sa famille.*
+* Le soulignement est de moi.[8]
+Je veux préciser que c'est quand la preuve révèle que le paiement hypothécaire est fait en exécution de l'obligation légale de subvenir aux besoins de la famille, qu'il est fait pour une contrepartie valable au sens du paragraphe 160(l) de la Loi. Si par hypothèse, le mari dans la présente affaire avait payé un loyer a [sic] son épouse et en plus aurait [sic] fait les paiements hypothécaires, il est peu probable que les paiements hypothécaires auraient été faits en exécution d'une obligation légale de subvenir aux besoins de la famille.
+[21] Finalement, ajoutons que la juge Lamarre Proulx, pour en arriver à cette conclusion, s'est fondée sur l'affaire Dupuis c. M.N.R., 93 DTC 723, qu'elle a citée au paragraphe 18 de Michaud :
+18 J'ai déjà, dans l'affaire Dupuis c. M.N.R., 93 DTC 723, indiqué que l'exécution d'une obligation légale ne constituait pas un transfert au sens de l'article 160 de la Loi :
+[TRADUCTION]
+En ce qui concerne le troisième argument, portant que les sommes d'argent que l'appelante a reçues de son mari ont été versées pour contrepartie valable, j'estime que la preuve a démontré que c'est la vérité. À mon avis, il est vraisemblable que les paiements représentaient les contributions du mari de l'appelante aux charges du ménage et de la famille et que, dans certains cas, il s'agissait du remboursement d'emprunts ou d'un moyen d'obtenir de l'argent comptant.
+[Je souligne.]
+[22] À mon avis, le raisonnement adopté dans ces trois décisions ne peut être concilié avec celui adopté par mes collègues le juge Mogan dans Raphael c. Canada, [2000] A.C.I. no 688 (Q.L.), le juge Bowie dans l'affaire Logiudice (précitée) et le juge Sobier dans Sinnott c. Canada, [1996] A.C.I. no 424 (Q.L.) (angl. 97 DTC 596)[9]. Dans Raphael, le juge Mogan a analysé les décisions Ferracuti et Michaud. Quant à Ferracuti, il a fait remarquer que le juge McArthur, dans cette décision-là, s'était inspiré d'un arrêt dans lequel la Cour suprême du Canada avait examiné le concept de l'enrichissement sans cause[10]. Au paragraphe 25 de sa décision, le juge Mogan écrit ce qui suit :
+25 Je n'invoquerais pas le principe d'enrichissement injustifié en interprétant ou en appliquant l'article 160 de la Loi. Dans l'affaire Pettkus c. Becker, Mme Becker soutenait qu'il y avait eu un enrichissement injustifié après la fin de sa relation avec M. Pettkus qui avait duré dix-neuf ans. Un véritable différend avait pris naissance entre Mme Becker et M. Pettkus lorsque Mme Becker avait fait valoir qu'il y avait eu un enrichissement injustifié, et il y avait au moins la possibilité d'un tel enrichissement. La Cour suprême du Canada a reconnu une fiducie judiciaire pour accorder une certaine mesure de redressement à Mme Becker. Une fiducie judiciaire est un redressement reconnu en equity. Dans le présent appel, il n'y a aucun différend entre l'appelante et Ernest. En fait, ils agissaient de concert dans l'endossement, le dépôt et le décaissement des chèques de REER d'Ernest. Leur conduite concertée permettait à Ernest de déterminer quels créanciers seraient payés et quels créanciers attendraient.
+[Je souligne.]
+[23] De façon plus générale, en ce qui a trait à ces deux décisions, le juge Mogan a conclu que les obligations familiales ne pouvaient constituer une contrepartie au sens de l'article 160. Voici de quelle façon il s'est exprimé sur cette question aux paragraphes 27 et 28 :
+27 Pour ce qui est des décisions rendues dans les affaires Ferracuti et Michaud, les obligations familiales d'un conjoint ou parent de fournir les choses nécessaires à la vie comme de la nourriture, des vêtements et un toit sont très réelles en ce sens qu'elles sont reconnues devant les tribunaux lorsque de telles obligations sont mises à exécution. Ces mêmes obligations familiales ne peuvent toutefois représenter une "contrepartie" au sens de l'article 160, car le sous-alinéa 160(1)e)(i) énonce expressément :
+[...] la juste valeur marchande à ce moment de la contrepartie donnée pour le bien, [...]
+Une obligation familiale peut être exprimée sous la forme d'une somme d'argent à des fins d'exécution, mais cette somme d'argent ne signifie pas que l'obligation familiale a une juste valeur marchande. Et même si l'obligation familiale avait bel et bien une juste valeur marchande, il ne s'agit pas d'une valeur « donnée » par le bénéficiaire du transfert « pour le bien » .
+28 Les obligations familiales résultant d'une relation familiale sont extrêmement personnelles et ne doivent pas être utilisées comme "contrepartie" pour camoufler des transferts de biens. En particulier, je conclurais qu'un paiement fait par un conjoint pour réduire le principal de la dette hypothécaire relative à une maison familiale appartenant à l'autre conjoint est un transfert de bien sans contrepartie de valeur au sens du paragraphe 160(1). À mon avis, l'utilisation d'une doctrine en equity n'est pas utile (et n'est peut-être pas permise) quand on interprète une loi fiscale. Dans la plupart des lois en matière d'insolvabilité, il y a des restrictions qui empêchent des créanciers d'enlever le pain de la bouche à un enfant. De telles restrictions relèvent du droit en matière d'insolvabilité plutôt que du droit fiscal.
+[Je souligne.]
+[24] La décision du juge Mogan dans l'affaire Raphael a été confirmée par la Cour d'appel fédérale dans Raphael c. Canada, [2002] A.C.F. no 82 (Q.L.). Le jugement de la Cour a été rendu oralement par le juge Sexton, qui a conclu à un « transfert » des REER dans le compte de l'épouse; il a conclu ainsi au motif que cette dernière n'avait qu'une obligation morale de débourser ces sommes selon les directives de son mari et que cette obligation morale ne pouvait constituer une contrepartie suffisante. Par contre, il prenait soin d'ajouter :
+12 Toutefois, il ne faut pas considérer que nous souscrivons à toutes les remarques que le juge de la Cour de l'impôt a faites au sujet de la question de savoir si une contrepartie peut être donnée entre le mari et sa conjointe de façon à empêcher l'application du paragraphe 160(1).
+[25] Il est important de souligner que devant la Cour canadienne de l'impôt, l'argument de la contribuable avait été le suivant : « L'appelante a fait valoir que, s'il y a eu un transfert, il y a eu une contrepartie, car Ernest avait l'obligation de payer les frais afférents à la maison familiale et elle, en tant que principal soutien de famille, était remboursée de certaines dépenses domestiques. » De plus, notons qu'au paragraphe 13 de la décision de la Cour d'appel dans l'affaire Raphael, le juge Sexton dit : « Nous estimons donc qu'il y a eu transfert de biens au sens du paragraphe 160(1) et qu'il n'a pas été établi qu'une contrepartie ait été donnée. » [Je souligne.] Notons que dans son exposé des faits, au paragraphe 2 de sa décision, le juge Sexton indique : « [. . .]. L'argent a dûment été déposé dans le compte de l'appelante qui, à son tour, a versé de l'argent à un grand nombre des créanciers de son mari selon les instructions de celui-ci. Toutefois, l'appelante payait également des dépenses personnelles effectuées par les deux conjoints. Environ la moitié seulement de l'argent du mari a servi au remboursement des dettes existantes de celui-ci. [. . .] »
+[26] Dans Logiudice, le juge Bowie s'est interrogé sur la signification du mot « contrepartie » utilisé dans le contexte de l'article 160. Voici comment il s'est exprimé sur cette question au paragraphe 16 de sa décision :
+16 Le mot « contrepartie » , tel qu'il est utilisé dans le contexte de l'article 160 de la Loi, dans son sens ordinaire, signifie la contrepartie qu'une partie à un contrat donne à l'autre partie en échange du bien transféré. L'article 160 vise de toute évidence à empêcher les contribuables de se soustraire à leur obligation fiscale ainsi qu'aux intérêts et aux pénalités prévus par les dispositions de la Loi en plaçant les biens exigibles entre les mains de parents ou d'autres personnes avec lesquels ils ont un lien de dépendance, et donc hors de la portée immédiate du percepteur d'impôt. La disposition restrictive du sous-alinéa 160(1)e)(i) de la Loi vise à protéger les véritables opérations commerciales de l'application de la disposition, jusqu'à concurrence de la juste valeur marchande de la contrepartie donnée pour le bien qui a été transféré. Par conséquent, il est évident que pour que le bénéficiaire du transfert puisse se prévaloir de cette disposition protectrice, il doit être en mesure de prouver que le bien lui a été transféré conformément aux conditions d'une véritable entente contractuelle.
+[Je souligne.]
+[27] Dans l'affaire Logiudice, le juge Bowie a rejeté l'argument de l'appelante selon lequel la contrepartie donnée pour les sommes d'argent versées par son fils était l'usage d'une résidence et d'une propriété industrielle par ce dernier sans qu'il n'ait à payer de loyer. En effet, le juge Bowie a fait remarquer que l'appelante avait elle-même reconnu qu'elle n'attendait rien de son fils en échange de l'utilisation des deux propriétés[11].
+[28] À mon avis, la position exprimée par les juges Mogan et Bowie dans les affaires Raphael et Logiudice est plus conforme à l'esprit et à la lettre de l'article 160 de la Loi que celle adoptée dans les affaires Ferracuti, Michaud et Dupuis. Comme je ne souscris pas entièrement à toutes les remarques du juge Mogan dans l'affaire Raphael, particulièrement celle relative à la notion de transfert, je crois nécessaire d'exposer ma propre analyse de la portée du paragraphe 160(1) de la Loi.
+[29] Dans plusieurs décisions jurisprudentielles, on cite les propos qu'à tenus le juge Hamlyn de cette Cour dans l'affaire Williams c. Canada, [2000] A.C.I. no 459 (Q.L.), et le juge Mogan le fait lui aussi, dans Raphael, au paragraphe 2, que je reproduis ici :
+2 Dans une décision récente de notre cour (Doreen Williams c. La Reine; no de dossier 98-1604; 24 juillet 2000), le juge Hamlyn a dit que quatre conditions doivent être remplies pour que le paragraphe 160(1) s'applique :
+(i) il doit y avoir eu un transfert de biens;
+(ii) il faut que l'auteur et le bénéficiaire du transfert aient un lien de dépendance;
+(iii) le bénéficiaire du transfert ne doit pas avoir donné de contrepartie à l'auteur du transfert (ou doit lui avoir donné une contrepartie insuffisante);
+(iv) l'auteur du transfert devait payer un montant en vertu de la Loi au cours de l'année dans laquelle les biens ont été transférés ou d'une année antérieure ou pour une de ces années.
+[Je souligne.]
+[30] Cet exposé des conditions par le juge Hamlyn m'apparaît imprécis et même erroné, au moins quant à deux aspects qui peuvent porter à confusion[12]. Tout d'abord, il m'apparaît plus juste d'affirmer que deux conditions doivent être remplies pour que l'article 160 s'applique. Il doit y avoir : i) transfert par une personne (auteur du transfert) de biens depuis le 1er mai 1951, et ii) ce transfert doit avoir été fait au bénéfice de l'une (bénéficiaire) des trois personnes suivantes : a) le conjoint de l'auteur du transfert ou une personne devenue depuis son conjoint; b) une personne qui était âgée de moins de 18 ans; c) une personne avec laquelle l'auteur du transfert avait un lien de dépendance. La deuxième condition énoncée par le juge Hamlyn ne se rapporte qu'au troisième bénéficiaire possible.
+[31] Il faut également souligner qu'il n'est pas nécessaire qu'il existe un lien de dépendance lorsque le bénéficiaire est une personne âgée de moins de 18 ans. Il n'est pas nécessaire non plus d'établir l'existence d'un tel lien de dépendance lorsque le bénéficiaire est le conjoint[13]. Il suffit dans ce dernier cas d'établir que le bénéficiaire était au moment du transfert le conjoint de l'auteur du transfert ou l'est devenu depuis. Un lien de dépendance pourrait ne pas avoir existé au moment du transfert si le bénéficiaire n'était pas le conjoint de l'auteur du transfert. Il suffit que le bénéficiaire le soit devenu depuis pour que cette condition soit remplie.
+[32] Quand les deux conditions susmentionnées sont réunies, les deux règles suivantes s'appliquent. S'applique tout d'abord la règle énoncée à l'alinéa 160(1)d) (règle de l'alinéa 160(1)d)), selon laquelle le bénéficiaire et l'auteur du transfert sont solidairement responsables du paiement d'une partie de l'impôt sur le revenu tiré de biens transférés au bénéficiaire ou sur le gain en capital résultant de la disposition de ces biens, lorsque ce revenu ou ce gain sont assujettis aux règles d'attribution énoncées aux articles 74.1 à 75.1 de la Loi et à l'article 74 de la Loi de l'impôt sur le revenu, chap. 148, S.R.C. 1952 (Loi de 1952)[14]. Il faut souligner que, dans ce cas, il n'est pas question de déterminer s'il existe un excédent de la juste valeur marchande (JVM) des biens transférés sur la JVM de la contrepartie. La responsabilité solidaire est applicable dès qu'il y a un impôt à payer sur le revenu ou sur le gain en capital assujettis aux règles d'attribution. De plus, contrairement à ce que dit le juge Hamlyn plus haut, le paragraphe 160(1) de la Loi est applicable même si le bénéficiaire a donné une contrepartie suffisante pour le bien que l'auteur du transfert lui a transféré[15]. Cela est notamment le cas quant à la règle d'attribution énoncée à l'article 74 de la Loi de 1952. En effet, même si un des conjoints a payé la JVM pour le bien transféré par l'autre conjoint, la règle d'attribution est applicable, en dépit de ce qui est prévu au paragraphe 74.5(1) de la Loi[16].
+[33] Selon la deuxième règle, la règle de l'alinéa 160(1)e), le bénéficiaire et l'auteur du transfert sont solidairement responsables à l'égard de toute somme que l'auteur du transfert doit payer en vertu de la Loi au cours de l'année d'imposition dans laquelle les biens ont été transférés. Toutefois, la responsabilité du bénéficiaire est limitée au moins élevé des deux montants suivants : i) l'excédent éventuel de la JVM des biens au moment du transfert sur la JVM à ce moment de la contrepartie donnée pour ces biens et ii) le montant de la dette fiscale de l'auteur du transfert.
+[34] Une remarque s'impose donc. Il est erroné d'affirmer que : « [p]our qu'il y ait transfert au sens de l'article 160 de la Loi, le transfert doit avoir été fait sans contrepartie de valeur. » [17] Comme on l'a vu plus haut, le paragraphe 160(1) peut être applicable qu'il y ait eu transfert avec contrepartie suffisante ou sans contrepartie suffisante. De plus, il est manifeste que le paragraphe 160(1) de la Loi s'applique qu'il y ait eu vente d'un bien ou don d'un bien. C'est par le mécanisme du calcul du montant correspondant à la responsabilité du bénéficiaire qu'on tiendra compte de la JVM de la contrepartie donnée, si contrepartie il y a, pour les biens transférés par l'auteur du transfert. Ce mécanisme ne s'applique qu'aux fins de la règle de l'alinéa 160(1)e) de la Loi.
+[35] Appliquons le paragraphe 160(1) de la Loi aux faits de cet appel. En fait, l'alinéa 160(1)e) est la disposition pertinente en l'espèce. À l'égard des deux conditions nécessaires à l'application de cet alinéa, il n'y a pas de doute que la deuxième condition est remplie ici : le transfert, si transfert il y a eu, a été effectué en faveur de madame Tétrault depuis le 1er mai 1951 et madame Tétrault était l'épouse de monsieur Tétrault au moment du transfert. La seule condition litigieuse est la première, soit celle selon laquelle il doit y avoir eu transfert.
+[36] Avant de trancher la question de savoir s'il y a eu transfert, il est important de préciser l'étendue de cette notion. Dans de nombreuses décisions portant sur l'application de l'article 160 de la Loi, on a cité l'affaire Fasken Estate v. M.N.R., [1948] Ex. C.R. 580. Dans l'affaire Raphael, mon collègue le juge Mogan n'a pas fait exception et je citerai donc la traduction qu'on trouve au paragraphe 14 de ses motifs :
+14 En appliquant le paragraphe 160(1) à des circonstances particulières, de nombreux juges ont cité l'affaire Fasken Estate v. M.N.R., [1948] Ex. C.R. 580, dans laquelle le président Thorsen [sic], de la Cour de l'Échiquier, a déclaré :
+[TRADUCTION]
+Le mot « transfert » n'est pas un terme technique et n'a pas de sens technique. Il n'est pas nécessaire qu'un transfert de biens d'un mari à sa femme revête une forme particulière ou qu'il soit fait directement. Il suffit que le mari se départisse [sic] des biens en faveur de sa femme, c'est-à-dire qu'il lui cède les biens. Le moyen par lequel il parvient à ce résultat, que ce soit directement ou indirectement, peut à juste titre être appelé un transfert. [...]
+[Je souligne.]
+[37] Une autre décision pertinente, que l'on a citée moins souvent, est Dunkelman v. M.N.R., 59 DTC 1242, également de la Cour de l'Échiquier du Canada. Dans cette affaire, comme dans Fasken Estate, il s'agissait de déterminer si les règles d'attribution étaient applicables. Par contre, dans Dunkelman, il fallait aussi déterminer si un prêt consenti à une fiducie constituait un transfert aux fins du paragraphe 22(1) de la Loi de l'impôt sur le revenu, S.C. 1948, chap. 52. Après avoir cité Fasken Estate et St. Aubyn v. Attorney-General, [1952] A.C. 15, le juge Thurlow dit à la page 1246 :
+[. . .] I do not think it can be denied that, by loaning money to the trustees, the appellant, in the technical sense, transferred money to them, even though he acquired in return a right to repayment of a like sum with interest and a mortgage on the Butterfield Block as security, or even though he has since then been repaid with interest. But, in my opinion, it requires an unusual and unnatural use of the words "has transferred property" to include the making of this loan. [. . .] I also think that, if Parliament had intended to include a loan transaction such as the present one, the words necessary to make that intention clear would have been added, and it would not have been left to an expression which, in its usual and natural meaning, does not clearly include such a transaction. To apply the test used by Lord Simonds, I do not think this transaction was one which the language of the subsection, according to its natural meaning, "fairly" or "squarely" hits. I am, accordingly, of the opinion that the making of the loan in question was not a transaction within the meaning of the expression "has transferred property" and that s. 22(1) does not apply.
+In reaching this conclusion, I have also considered the wide words "or by any other means whatsoever," but I think that they are directed to the means or procedure by which transfers may be accomplished, rather than to the scope of the expression "has transferred property" and that they do not expand that scope beyond the natural meaning of the expression.
+[Je souligne.]
+[38] Dans la décision McVey v. The Queen, 96 DTC 1225, mon collègue le juge Rip a reconnu implicitement cette interprétation comme celle à retenir dans l'application du paragraphe 160(1) de la Loi lorsqu'il a conclu que la cotisation du ministre était valide, que l'on considère les sommes transférées comme l'ayant été à titre de don, auquel cas s'appliquerait le paragraphe 160(1) de la Loi, ou qu'on les considère comme un prêt, auquel cas s'appliquerait le paragraphe 224(4) de la Loi[18].
+[39] À mon avis, il ressort des décisions Fasken et Dunkelman que, pour qu'il y ait un transfert d'un bien aux fins des règles d'attribution, il est essentiel que l'auteur du transfert se soit départi de son droit de propriété et que le bien ait été dévolu au bénéficiaire. La simple possession d'un bien prêté avec l'obligation de le rendre ne satisfait pas à cette condition. À mon avis, tel est le sens qu'il faut donner à l'expression « qu'il lui cède les biens » [19]. Il faut également retenir ce sens aux fins du paragraphe 160(1) de la Loi. Comme le disait la juge Desjardins dans l'arrêt Medland (précité) au paragraphe 14 : « [. . .] la politique fiscale qui sous-tend le paragraphe 160(1), ou son objet et son esprit consistent à empêcher un contribuable de transférer ses biens à son conjoint afin de faire échec aux efforts déployés par le ministre pour percevoir l'argent qui lui est dû. » Or, le prêt d'argent ne constituerait pas une façon de faire échec à la perception de l'impôt dû par le prêteur. En vertu du paragraphe 224(4) de la Loi, le ministre pourrait saisir en mains tierces la somme prêtée. Cette notion de « transfert » est donc conciliable avec l'objet poursuivi par le paragraphe 160(1) de la Loi.
+[40] Il découle de l'analyse de la notion de transfert utilisée au paragraphe 160(1) de la Loi que des sommes versées à un mandataire pour être dépensées au bénéfice du mandant ne constituent pas non plus un transfert aux fins de ce paragraphe. Dans ces circonstances, le mandant ne se départ pas de son droit de propriété sur les sommes confiées au mandataire et elles ne sont pas dévolues au mandataire. Le mandant demeure le propriétaire de ces sommes. Aux fins de la présente analyse, on peut envisager au moins trois scénarios distincts. Premièrement, si les sommes confiées par le mandant (par exemple, le mari) n'ont pas encore été utilisées par le mandataire (par exemple, l'épouse) aux fins de l'achat de biens et de services pour la famille, le mandataire pourrait être tenu de rembourser au mandant toute somme qui n'a pas été ainsi utilisée. Un mandant peut en tout temps mettre fin au mandat et un créancier saisissant pourrait exiger que le mandataire lui remette les biens appartenant au mandant débiteur. Dans de telles circonstances, le ministre pourrait exercer une saisie en mains tierces en vertu de l'article 224 de la Loi.
+[41] Le deuxième scénario que l'on peut envisager est celui où la femme a dépensé l'argent que son mari lui a confié pour l'achat de biens ou de services « consommés » par le reste[20] de la famille ou appartenant au reste de la famille. Cet argent ne serait pas considéré non plus, aux fins du paragraphe 160(1) de la Loi, comme ayant été « transféré » à la femme, puisqu'elle ne l'a dépensé qu'à titre de mandataire de son mari et qu'elle l'a fait au bénéfice de son mari et du reste de la famille. Cette interprétation a le mérite d'exclure (au moins en partie) de l'application de ce paragraphe l'argent confié par le mari (dans notre exemple) à sa femme pour contribuer aux charges du mariage et d'éviter l'injustice de tenir celle-ci responsable des dettes fiscales du mari alors qu'elle ne s'est pas enrichie[21].
+[42] Le troisième scénario est celui où la femme acquiert des biens avec l'argent que lui a confié son mari en vertu du mandat, lesquels biens lui sont dévolus et entrent dans son patrimoine. Il y a là un transfert de biens, direct ou indirect, visé par le paragraphe 160(1) et la question qui doit alors être tranchée est de savoir si la femme a donné une contrepartie pour ces biens et quelle en est la JVM[22].
+[43] Pour illustrer ce scénario, on pourrait utiliser l'exemple du mari qui autorise sa femme à utiliser une partie des sommes d'argent qu'il lui confie en vertu du mandat pour payer le prix d'achat d'un manteau de fourrure dont elle devient la propriétaire. Peut-on affirmer, comme cela a été dit dans Michaud,qu'il n'y a pas là de transfert au sens de l'article 160 de la Loi? Je crois qu'il est manifeste que la remise par le mari des sommes d'argent ayant servi à l'achat d'un tel manteau (dont la femme est devenue la propriétaire) constitue un transfert aux fins du paragraphe 160(1), à moins que la femme n'ait l'obligation de rembourser ces sommes. Dans ce dernier cas, il s'agirait d'un prêt qui, comme on l'a vu, ne constitue pas un transfert. Au cas contraire, l'argent sort du patrimoine du mari et entre dans celui de son épouse, ce qui permet à cette dernière d'acquérir le manteau de fourrure.
+[44] Si l'utilisation de l'argent dans ces circonstances équivaut à un transfert, les seules autres questions qui peuvent et, à mon avis, doivent, être soulevées, sont celles de savoir si une contrepartie a été donnée et quelle en était, le cas échéant, la JVM. Peut-on soutenir que le droit de la femme, comme bénéficiaire de l'obligation familiale du mari (celle de contribuer aux besoins du mariage), de recevoir de l'argent pour l'achat d'une résidence, d'une voiture ou d'un manteau de fourrure constitue la contrepartie donnée au mari? Pour répondre à cette question, il faut tout d'abord déterminer l'étendue de l'obligation du mari dans une telle situation. Le Code civil, la source législative de cette obligation au Québec, dispose comme suit :
+392. Les époux ont, en mariage, les mêmes droits et les mêmes obligations.
+Ils se doivent mutuellement respect, fidélité, secours et assistance.
+Ils sont tenus de faire vie commune.
+396. Les époux contribuent aux charges du mariage à proportion de leurs facultés respectives.
+Chaque époux peut s'acquitter de sa contribution par son activité au foyer.[23]
+[45] Il faut souligner tout d'abord que ces dispositions ne créent pas d'obligation pour un conjoint de transférer dans le patrimoine de l'autre conjoint un élément d'actif donné, que ce soit une résidence, une voiture ou un manteau de fourrure. Même si un seul des conjoints avait les ressources financières pour acheter cette résidence, cette voiture ou ce manteau, ce conjoint n'aurait pas l'obligation de donner ces biens à l'autre conjoint, à moins qu'il ne s'y soit engagé par un contrat de mariage. Ainsi, un conjoint pourrait s'acquitter de l'obligation de fournir un toit, un moyen de transport et même des vêtements à l'autre conjoint en ne lui fournissant que la jouissance ou l'usage[24] de tels biens, tout en gardant pour lui-même la propriété de ceux-ci[25]. De plus, il faut tenir compte du fait que cette obligation de contribuer aux charges du mariage s'applique aux deux conjoints en fonction de « leurs facultés respectives » . En outre, l'étendue de l'obligation peut varier d'une année à l'autre selon la capacité qu'a chacun des conjoints de contribuer aux charges en question.
+[46] L'analyse des dispositions pertinentes du Code civil ne révèle aucune obligation de la part de l'autre conjoint de fournir une contrepartie en échange de cette obligation familiale; en d'autres mots, dans notre exemple, la femme n'est pas tenue de donner quelque chose ou de rendre des services à son mari pour bénéficier de l'obligation familiale du mari. Comme on l'a vu plus haut, l'obligation familiale incombe aux deux époux et, en cela, le Code civil « consacre textuellement, au plan des principes, l'égalité juridique absolue des époux » [26]. De plus, « [c]haque époux peut s'acquitter de sa contribution par son activité au foyer » . Toutefois, cette obligation familiale peut être asymétrique. Comme l'étendue de l'obligation familiale est « à proportion de leurs facultés respectives » , une femme qui gagnerait des revenus sensiblement plus élevés que ceux de son mari serait tenue de contribuer davantage aux charges du mariage que celui-ci. D'autre part, un mari serait tenu de s'acquitter de son obligation familiale même si sa femme était dans le coma et ne contribuait rien aux charges du mariage. L'obligation familiale de chacun des époux est donc unilatérale et celle de l'un d'eux ne dépend ni de la valeur de la contribution de l'autre ni de la capacité de celui-ci à exécuter sa propre obligation : l'obligation de l'un n'est pas corrélative à l'obligation de l'autre. Une obligation familiale existe du fait de la loi - le Code civil - et elle ne dépend aucunement de l'existence d'une contrepartie, quoique les époux « se doivent mutuellement [. . .] secours et assistance » .
+[47] La contribution aux charges du mariage est, à mon avis, de la nature d'une donation par laquelle un bien est donné sans aucune contrepartie [27]. Cette analyse de l'obligation familiale rejoint celle faite par le juge Mogan dans la décision Raphael,où il est dit « [c]es mêmes obligations familiales ne peuvent toutefois représenter une « contrepartie » au sens de l'article 160 [. . .] » (par. 27 de la décision). Elle rejoint également celle dans Logiudice où l'on précise que le « mot "contrepartie", tel qu'il est utilisé dans le contexte de l'article 160 de la Loi, dans son sens ordinaire, signifie la contrepartie qu'une partie à un contrat donne à l'autre partie en échange du bien transféré » et que le « sous-alinéa 160(1)e)(i) de la Loi vise à protéger les véritables opérations commerciales de l'application de la disposition » (par. 16 de la décision). Elle est conforme aussi à l'analyse faite par le juge Sobier dans la décision Sinnott v. The Queen, précitée au paragraphe 19 (Q.L.), (page 598 DTC) :
+L'avocate de l'appelante a accordé beaucoup d'importance à l'argument selon lequel une contrepartie avait été donnée à l'égard du transfert. Cependant, quelle était cette contrepartie? Est-il possible de dire que le paiement des dépenses de ménage constitue la contrepartie donnée à l'égard des transferts? Selon le sous-alinéa 160(1)e)(i), l'auteur et le bénéficiaire du transfert sont solidairement responsables du paiement d'un montant égal à l'excédent de la juste valeur marchande du bien au moment de son transfert sur la juste valeur marchande à ce moment de la contrepartie donnée à l'égard du bien. Au moment où les transferts ont eu lieu, aucune contrepartie n'a été donnée.
+[Je souligne.]
+[48] L'absence d'une contrepartie donnée pour l'exécution de l'obligation familiale explique aisément qu'il soit hautement problématique, sinon impossible, de déterminer quelle serait la JVM du droit du bénéficiaire de recevoir les biens transférés par l'auteur du transfert en vertu de son obligation familiale. En outre, comme le disait le juge Mogan, même si une JVM pouvait être établie, ce droit ne constituerait pas une « contrepartie donnée pour le bien » [28].
+[49] Non seulement cette interprétation m'apparaît plus en harmonie avec le texte de l'article 160 de la Loi, mais elle s'impose en raison du principe d'interprétation de la cohérence et du caractère systématique de la loi.[29] Il faut tenir compte ici de l'ensemble de l'article 160 pour en déterminer la portée. Or, le paragraphe 160(4)[30] de la Loi dispose que la règle de l'alinéa 160(1)e) est sans effet lorsqu'un conjoint transfère des biens à l'autre conjoint à la suite de l'échec du mariage. Aux fins de cette règle, la JVM du bien transféré est réputée être nulle. S'il fallait appliquer le raisonnement adopté dans les décisions Ferracuti, Michaud et Dupuis, il faudrait conclure que le paragraphe 160(4) n'est d'aucune utilité, car, lors d'une séparation[31], le droit d'un époux de recevoir une partie du patrimoine de l'autre époux est reconnu par la loi, ici le Code civil, notamment dans les règles sur le partage du patrimoine familial énoncées aux articles 414 et suivants dudit code. Il s'agit donc « d'un transfert de biens[. . . ]fait en exécution [d'une] obligation légale » [32]. En outre, si le droit de recevoir ces biens en vertu du Code civil constituait une contrepartie dont la JVM est égale à la JVM des biens transférés, il n'aurait pas été nécessaire d'édicter que la JVM des biens transférés est nulle. Au contraire, je crois que le législateur a tenu pour acquis qu'un tel transfert lors d'une séparation constitue un transfert sans contrepartie et, n'eût été le paragraphe 160(4) de la Loi, le bénéficiaire de ce transfert aurait pu être tenu solidairement responsable de toute dette fiscale de l'auteur du transfert.
+[50] Par conséquent, une conclusion s'impose : le transfert de biens en vertu d'une obligation légale (comme celle en matière de partage du patrimoine familiale) constitue un « transfert » aux fins de l'article 160 de la Loi et est assujetti à cet article. Le simple droit d'être le bénéficiaire de cette obligation ne constitue pas une contrepartie donnée. Pareillement, le transfert de biens à l'autre conjoint en exécution d'une obligation familiale constitue un transfert pour lequel aucune contrepartie n'a à être donnée et rien à l'article 160 n'autorise cette Cour à soustraire ce transfert à son application[33].
+[51] J'ai traité jusqu'à maintenant du cas de sommes d'argent confiées au bénéficiaire en vertu d'un mandat. Ces sommes pourraient également être remises, purement et simplement, par un conjoint à l'autre de façon à ce qu'elles soient dévolues à l'autre conjoint et que celui-ci en devienne le propriétaire[34]. Il s'agirait là d'un simple don ou, à tout le moins, d'un transfert sans aucune contrepartie. Ce transfert pourrait également être assujetti à une obligation de prendre soin de l'auteur du transfert, un peu comme cela a été fait ici par monsieur Tétrault. Il faudrait alors parler d'un don avec charge, une forme de don reconnue à l'article 1810 du Code civil[35] et dans la jurisprudence. Dans un cas comme dans l'autre, il y a transfert. Dans le premier cas, il n'est pas question de contrepartie. Alors, le paragraphe 160(1) serait applicable jusqu'à concurrence du moins élevé de la JVM du bien donné et du montant de la dette fiscale du donateur. Dans le deuxième cas, il faudrait en plus évaluer la JVM de la contrepartie donnée lors de la constitution du don, à savoir l'engagement à subvenir aux besoins du donateur du don avec charge, avec toutes les difficultés qu'une telle évaluation comporte.
+[52] Appliquons maintenant la règle de l'alinéa 160(1)e) aux faits de cet appel. Au moins trois interprétations sont possibles lorsqu'il s'agit de déterminer la nature juridique de la relation existant entre les Tétrault. Éliminons tout d'abord celle selon laquelle les sommes versées par monsieur Tétrault l'ont été en vertu de son obligation familiale (celle de contribuer aux charges du mariage). Soulignons d'abord qu'il ne remettait pas à son épouse uniquement les sommes nécessaires pour subvenir aux besoins du couple; il lui remettait toutes les sommes d'argent qu'il recevait - en tout cas jusqu'au moment où il a commencé à toucher sa pension de vieillesse en 1997[36]. Tout au plus, seulement une partie de ces sommes pourrait être considérée comme ayant été versée à son épouse en exécution de son obligation familiale. Toutefois, la preuve est insuffisante pour déterminer cette partie.
+[53] Un autre indice que les sommes remises par monsieur Tétrault ne représentaient pas un paiement pour les seuls besoins familiaux du couple est le fait qu'une partie des sommes ainsi remises à sa femme devait nécessairement représenter l'impôt qu'il devait aux autorités fiscales sur ses revenus, à savoir sur sa pension et sa rente[37]. Le Code civil prévoit que les époux doivent contribuer aux charges du mariage en fonction de leurs facultés respectives. Or, ces facultés doivent être déterminées en ne tenant compte que des revenus nets d'impôt qu'un époux peut gagner durant le mariage. Je ne peux imaginer qu'un tribunal puisse ordonner à un mari de verser au titre de son obligation familiale envers son épouse un montant supérieur à ses revenus nets d'impôt. Ici, il m'apparaît clair qu'une partie des sommes remises à madame Tétrault au cours de chacune des années de la période pertinente représente le montant d'impôt que devait monsieur Tétrault au ministre pour chacune de ces années et que ce montant ne pouvait pas constituer le paiement d'une somme en exécution de l'obligation familiale de monsieur Tétrault envers son épouse. Par conséquent, la théorie selon laquelle le paiement effectué en « exécution d'une obligation légale ne [constitue] pas un transfert au sens de l'article 160 de la Loi » ne s'applique pas ici, non seulement parce qu'elle est mal fondée, mais aussi parce qu'il ne s'agit pas d'un tel paiement.
+[54] Une deuxième interprétation possible consisterait à conclure à l'existence d'un don avec charge. Selon son propre témoignage, monsieur Tétrault a remis tous ses chèques de pension et de rente à sa femme avec charge pour cette dernière de subvenir à ses besoins. C'est elle qui devait le faire vivre. Un don constitue manifestement un transfert au sens du paragraphe 160(1) de la Loi. Compte tenu de la charge à laquelle monsieur Tétrault affirme avoir assujetti le don, la JVM de cette charge doit être déterminée et, pour éviter toute responsabilité de madame Tétrault, la JVM devrait être égale à celle des biens donnés.
+[55] Or, madame Tétrault n'a pas présenté de preuve de cette JVM. Il n'a pas été établi non plus quelle somme il fallait pour répondre aux besoins domestiques du couple, encore moins pour répondre à ceux de monsieur Tétrault. Le tableau reproduit plus haut indiquant les dépenses de ménage du couple est incomplet. Il ne comprend que les dépenses de nourriture, les versements hypothécaires et les frais d'entretien de la ferme. Il manque notamment les frais de vêtements, de transport et de loisirs. Dans ces circonstances, je ne peux conclure que la cotisation du ministre est mal fondée. Au contraire, il est raisonnable de croire que la valeur de la charge de faire vivre monsieur Tétrault ne peut dépasser le revenu net d'impôt gagné par celui-ci. Dans cette hypothèse, il resterait comme JVM minimale des biens donnés par monsieur Tétrault le montant représenté par l'impôt qu'il devait aux autorités fiscales. Madame Tétrault serait ainsi responsable, en vertu de l'alinéa 160(1)a) de la Loi, de l'impôt dû par son mari.
+[56] La troisième interprétation possible pour la détermination de la nature de la relation contractuelle entre les Tétrault serait de conclure à l'existence d'un mandat. Les sommes remises par monsieur Tétrault auraient ainsi été détenues par madame Tétrault à titre de mandataire de son mari et elles auraient pu être saisies en vertu de l'article 224 de la Loi[38]. Comme les Tétrault n'ont pas fait état d'un tel mandat au cours de leur témoignage à l'audience et que monsieur Tétrault n'a pas déclaré les sommes remises à sa femme comme un actif de sa faillite, je suis plus enclin à conclure à l'existence d'un don avec charge qu'à un mandat. De toute façon, même si j'avais conclu à l'existence d'un tel mandat, j'aurais tout de même confirmé la cotisation du ministre en raison de l'utilisation d'une partie des sommes confiées à madame Tétrault pour le paiement de son hypothèque. À mon avis, dans cette hypothèse les sommes ayant servi à rembourser le prêt hypothécaire seraient passées du patrimoine de monsieur Tétrault pour entrer dans celui de sa femme sans qu'il n'y ait eu de « contrepartie donnée pour le bien » 39. Je souligne également que le montant des mensualités hypothécaires pour chacune des années de la période pertinente dépasse celui de l'impôt dû par monsieur Tétrault pour ces mêmes années. (Voir les tableaux ci-dessus).
+[57] Pour tous ces motifs, l'appel de madame Tétrault est rejeté.
+Signé à Montréal (Québec), ce 11e jour de mai 2004.
+« Pierre Archambault »
+Juge Archambault
+___________________
+39 Il faut rappeler que madame Tétrault est mariée sous le régime de la séparation de biens, en vertu d'un contrat de mariage, et que c'est elle qui est la propriétaire de la ferme (y compris la résidence) et la débitrice principale du prêt hypothécaire. Il faut ajouter qu'en vertu des règles québécoises du partage du patrimoine familial lors d'une séparation ou d'un divorce, monsieur Tétrault ne posséderait aucun intérêt dans cette résidence. Le plus qu'il pourrait revendiquer serait une créance personnelle lui assurant la moitié de cette résidence, du mobilier la meublant, des voitures et du fonds de pension du couple. Compte tenu du fait qu'il est déjà propriétaire de son fonds de pension et de ses prestations du Régime des rentes du Québec, il n'est pas certain qu'il pourrait obtenir une somme représentant une partie de la valeur de la résidence. (Voir notamment l'article 419 du Code civil.)
+RÉFÉRENCE :
+2004CCI332
+No DU DOSSIER DE LA COUR :
+2002-4333(IT)I
+INTITULÉ DE LA CAUSE :
+Suzanne Tétrault et Sa Majesté la Reine
+LIEU DE L'AUDIENCE :
+Sherbrooke (Québec)
+DATE DE L'AUDIENCE :
+le 19 novembre 2003
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge Pierre Archambault
+DATE DU JUGEMENT :
+le 11 mai 2004
+COMPARUTIONS :
+Pour l'appelante :
+Charles Bourgeois (représentant)
+Pour l'intimé(e) :
+Me Philippe Dupuis
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelant(e) :
+Nom :
+Étude :
+Pour l'intimé(e) :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Dans ses observations écrites fournies après la conclusion de l'audience, le représentant de madame Tétrault ne la conteste pas directement non plus, mais il soutient que l'activité agricole de monsieur Tétrault constitue une entreprise et non un « hobby » ! Ces observations ont été fournies à ma demande et ont trait à la question de la portée de l'obligation de contribuer aux charges du mariage (l'obligation familiale) édictée par les articles 392 et 396 du Code civil du Québec (Code civil). Je suis surpris par ce changement de position, surtout si on tient compte du témoignage de monsieur Tétrault. Je reviendrai sur cette question dans l'exposé des faits. Voir notamment la note 3 ci-après.
+[2]
+Madame Tétrault a reconnu qu'elle encaissait le chèque de la pension de vieillesse de son mari et qu'elle lui remettait en main propre l'argent en espèces.
+[3] Comme le représentant de madame Tétrault avait admis l'existence des dettes fiscales de monsieur Tétrault et n'avait pas contesté leur bien-fondé, j'ai tenu pour acquis que l'activité de monsieur Tétrault ne constituait pas une entreprise et cette question n'a donc pas été approfondie lors de l'interrogatoire des Tétrault. Je crois qu'il était trop tard pour que ce représentant puisse soulever cette question dans ses observations écrites, après avoir fait son admission et après que la preuve a été close. Toutefois, sur la base de la preuve que j'ai entendue, je n'entretiens aucun doute sur la nature récréative des activités agricoles des Tétrault. Tout d'abord, il y a ici un élément personnel important puisqu'une partie des dépenses ont trait à maison de ferme occupée par les Tétrault (sans oublier la consommation personnelle de certains des animaux). De plus, l'ampleur des activités agricoles est nettement insuffisante pour que l'on puisse conclure à l'existence d'une source de revenu.
+[4] Le montant des dettes fiscales de monsieur Tétrault n'ayant pas fait l'objet d'un débat, aucune preuve n'a été faite du caractère raisonnable de ces dépenses.
+[5] Comme cela a été décidé dans Laframboise c. Canada, [2002] A.C.I. no 628 (Q.L.) (angl. [2003] 1 C.T.C. 2672, 2003 DTC 781). De plus, le représentant de madame Tétrault reconnaît à la page 3 du mémoire accompagnant l'avis d'appel de madame Tétrault qu'on « peut arguer que la ferme appartenait à Madame Tétrault et non à Monsieur Tétrault [...] » .
+[6]
+Évidemment, il n'est pas impossible qu'elle ait déboursé cet argent pour le compte de son mari.
+[7] Ce résultat est conforme à celui obtenu dans l'affaire Logiudice c. Canada, [1997] A.C.I. no 742 (Q.L.). Voir les par. 22 et 23 plus bas. De plus, ajoutons que cela ne signifie pas que madame Tétrault n'a pas rendu de services méritoires. Ils n'étaient pas, toutefois, la contrepartie de l'argent transféré par son mari.
+[8] Celui du juge McArthur.
+[9] Je reviendrai sur cette décision plus bas.
+[10] Voir les paragraphes 19 et 20 de la décision Ferracuti.
+[11] Voir le paragraphe 17 de Logiudice.
+[12] Cette analyse indique qu'il peut être inapproprié de se fonder sur un résumé des dispositions de la Loi plutôt que de se référer au texte même.
+[13] En vertu des articles 251 et 252 de la Loi, les conjoints sont réputés être des personnes liées entre eux et ils sont de ce fait réputés avoir entre eux un lien de dépendance.
+[14] Il s'agit de la Loi de 1952 dans sa version modifiée par l'article 1 du chapitre 63 des Statuts du Canada de 1970-71-72 et par toute loi ultérieure sanctionnée avant décembre 1991. ( Article 69 des Règles concernant l'application de l'impôt sur le revenu, L.R.C. 1985, ch. 2 (5e suppl.)).
+[15] Il faut souligner que ses remarques visaient non pas la règle de l'alinéa 160(1)d) mais plutôt la deuxième règle, celle de l'alinéa 160(1)e) de la Loi (règle de l'alinéa 160(1)e)).
+[16] Voici un extrait des notes explicatives publiées par le ministre des Finances lorsque le paragraphe 74.5(1) a été ajouté à la Loi par le projet de loi C-84; S.C. 1986, ch. 6, art. 38 :
+Les règles d'attribution actuelles s'appliquent aux biens transférés par un particulier à son conjoint ou à une personne âgée de moins de 18 ans. Aux fins de ces règles, le transfert de biens comprend la vente de biens pour une contrepartie égale à la juste valeur marchande. Les nouvelles règles d'attribution prévoient une exception à l'égard de ces ventes. Cette exception est indiquée dans le nouveau paragraphe 74.5(1). [Je souligne.]
+[17] Voir notamment le paragraphe 18 dans la décision Ferracuti (précitée) et le paragraphe 19 dans la décision Michaud (précitée).
+[18] Dans cette affaire, le ministre avait exigé par écrit que des fonds autrement payables au débiteur fiscal soient remis au receveur général au titre de l'obligation du débiteur fiscal. Or, le tiers saisi avait indiqué au ministre que l'argent lui avait été donné comme don et qu'il ne représentait pas un prêt à rembourser au débiteur fiscal. Par la suite, le ministre avait établi à l'égard du tiers saisi une cotisation en vertu du paragraphe 160(1) de la Loi. Avant que cette cotisation ne soit confirmée, le contribuable avait informé le ministre qu'il s'agissait bien d'un prêt et le procureur du contribuable a soutenu que le ministre aurait dû établir une nouvelle cotisation en vertu de l'article 224 de la Loi.
+[19] Il est utile de rappeler la version originale anglaise de ce passage : « [a]ll that is required is that the husband should so deal with the property as to divest himself of it and vest it in his wife, that is to say, pass the property from himself to her. » Cette version anglaise est plus claire que la version française. [Je souligne.]
+[20]
+C'est-à-dire tout membre de la famille autre que la femme.
+[21] Ce résultat répond, au moins en partie, aux préoccupations d'équité tout à fait justifiées qu'avaient les juges de cette Cour dans les décisions Ferracuti, Michaud et Dupuis. Ajoutons, par contre, que le conjoint mandataire devra fournir une preuve suffisante de l'existence du mandat et de l'utilisation des sommes qu'on lui a confiées s'il veut éviter que soit engagée sa responsabilité en vertu du paragraphe 160(1) de la Loi. Notamment, il faudra démontrer que le mandataire n'a pas fait d'acquisition de biens qui sont entrés dans son patrimoine.
+[22] Voir l'arrêt Raphael (précité) de la Cour d'appel fédérale, dont il est question au par. 23 plus haut.
+[23] Ces dispositions sont d'ordre public selon l'article 391 du Code civil :
+391. Les époux ne peuvent déroger aux dispositions du présent chapitre, quel que soit leur régime matrimonial.
+[24] Il n'est pas question ici de démembrements du droit de propriété, comme l'usufruit (articles 1120 et suivants du Code civil) ou le droit d'usage (articles 1172 et suivants du Code civil).
+[25] Bien évidemment, rien n'empêche le mari de donner à la femme l'argent ou les biens en question. Bien des conjoints le font.
+[26] Michel Tétrault, Droit de la famille, Éditions Yvon Blais, 2e édition, à la page 66.
+[27] On peut soutenir que, strictement parlant, il manque ici la libéralité nécessaire à l'existence d'une donation. Toutefois, la plupart des gens qui font vie commune contribueraient bien volontiers aux charges du mariage, même en l'absence d'une telle obligation familiale; c'est généralement lors d'une séparation ou d'un divorce que la situation devient conflictuelle et que l'existence d'une telle obligation devient importante.
+[28] Par. 27 de Raphael et le sous-alinéa 160(1)e)(i) de la Loi.
+[29] Voir notamment Pierre-André Côté, Interprétation des lois, 3e édition, Les Éditions Thémis, Montréal, 1999, aux pages 388 et suivantes.
+[30] Ce paragraphe se lit comme suit :
+(4) Règles concernant les transferts à un conjoint - Malgré le paragraphe (1), lorsqu'un contribuable a transféré un bien à son conjoint en vertu d'une ordonnance ou d'un jugement d'un tribunal compétent ou en vertu d'un accord écrit de séparation et que, au moment du transfert, le contribuable et son conjoint vivaient séparément par suite de la rupture de leur mariage, les règles suivantes s'appliquent :
+a) relativement à un bien ainsi transféré après le 15 février 1984 :
+(i) le conjoint ne peut être tenu, en vertu du paragraphe (1), de payer un montant relatif au revenu provenant du bien transféré ou du bien qui y est substitué ou un montant relatif au gain provenant de la disposition du bien transféré ou du bien qui y est substitué,
+(ii) pour l'application de l'alinéa (1)e), la juste valeur marchande du bien au moment du transfert est réputée être nulle;
+[...]
+aucune disposition du présent paragraphe n'a toutefois pour effet de réduire les obligations du contribuable en vertu d'une autre disposition de la présente loi.
+[31] Le transfert après le divorce n'est pas généralement assujetti à l'article 160 puisque le bénéficiaire n'est plus le conjoint de l'auteur du transfert.
+[32] Pour utiliser les mots de la décision Michaud, par. 19 et 20.
+[33] À mon avis, une modification à la Loi, comme celle adoptée par S.C. 1984, chap. 45, par. 65(1), applicable après le 15 février 1984, pour le paragraphe 160(4), serait nécessaire pour soustraire à l'application de l'article 160 les biens transférés en exécution d'une obligation familiale. On pourrait s'inspirer de dispositions comme celles des articles 552 et suivants du Code de procédure civile du Québec, qui énumèrent les choses qui ne peuvent être saisies, notamment « la nourriture, les combustibles, le linge et les vêtements nécessaires à la vie du ménage » .
+[34] Voir l'arrêt Raphael (précité) de la Cour d'appel fédérale, dont il est question au par. 23 plus haut.
+[35] Cet article se lit comme suit :
+1810. La donation rémunératoire ou la donation avec charge ne vaut donation que pour ce qui excède la valeur de la rémunération ou de la charge.
+[36] Chacun pouvait dépenser sa pension de vieillesse comme bon lui semblait. Il s'agit là de la seule exception à la démarche suivie par le couple durant la période pertinente (de 1994 à 1999).
+[37] Cela est manifeste pour les trois premières années de la période pertinente alors que monsieur Tétrault remettait tous ses revenus gagnés à sa femme.
+[38] Il n'est aucunement en preuve qu'une telle saisie a été effectuée ici.

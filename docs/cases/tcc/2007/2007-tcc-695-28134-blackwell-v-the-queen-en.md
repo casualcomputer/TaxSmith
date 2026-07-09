@@ -1,0 +1,216 @@
+---
+title: "Blackwell v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28134/index.do"
+last_modified: "2007-07-12"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 695"
+citation2: ""
+neutral_citation: "2007 TCC 695"
+decision_date: "2007-07-12"
+language: "en"
+item_id: "28134"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1653
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:55:45.383000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "98f70bf210f894b1d863d0cf7ddc0e2c28ce1c470038b2b345fd39289f344fb5"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Blackwell v. The Queen
+
+- Citation: 2007 TCC 695
+- Decision date: 2007-07-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1653, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blackwell v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-07-12
+Neutral citation
+2007 TCC 695
+File numbers
+2002-310(IT)G
+Judges and Taxing Officers
+Judith Woods
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-310(IT)G
+BETWEEN:
+JOAN M. BLACKWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Michael C. Jenkinson
+(2002-314(IT)G) on November 20, 21, 22, 23, 2006,
+April 2, 3, 5, May 28 and July 12, 2007 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+Counsel for the Appellant:
+For Michael Jenkinson:
+Robert K. Brown
+Michael Jenkinson
+Counsel for the Respondent:
+Brent E. Cuddy
+JUDGMENT
+The appeal in respect of assessments made under the Income Tax Act for the 1989 and 1990 taxation years is allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that no part of the restitution order should be included in the appellant’s income, and that the related penalties should be deleted.
+Signed at Ottawa, Canada, this 16th day of November 2007.
+"J. Woods"
+Woods J.
+Docket: 2002-314(IT)G
+BETWEEN:
+MICHAEL C. JENKINSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on common evidence with the appeal of Joan M. Blackwell
+(2002-310(IT)G) on November 20, 21, 22, 23, 2006,
+April 2, 3, 5, May 28 and July 12, 2007 at Toronto, Ontario
+By: The Honourable Justice Judith Woods
+Appearances:
+For the Appellant:
+Counsel for Joan Blackwell:
+The Appellant himself
+Robert K. Brown
+Counsel for the Respondent:
+Brent E. Cuddy
+JUDGMENT
+The appeal in respect of assessments made under the Income Tax Act for the 1989 and 1990 taxation years is allowed, with costs, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that no part of the restitution order should be included in the appellant’s income, and that the related penalties should be deleted.
+Signed at Ottawa, Canada, this 16th day of November 2007.
+"J. Woods"
+Woods J.
+Citation: 2007TCC695
+Date: 20071116
+Docket: 2002-310(IT)G
+BETWEEN:
+JOAN M. BLACKWELL,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+Docket: 2002-314(IT)G
+MICHAEL C. JENKINSON,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Woods J.
+[1] The question to be decided in these appeals is whether the appellants are required to include in their income amounts for which they were convicted of fraud. The assessments relate to the 1989 and 1990 taxation years.
+[2] The appeals were heard together, with Michael Jenkinson representing himself and Joan Blackwell being represented by counsel.
+The assessments
+[3] In the fall of 1994, the appellants were tried and convicted by an Ontario court on 13 counts of fraud. They were sentenced to four and one-half years in prison, and ordered to pay restitution to the victims in a total amount of $1,858,000. None of this had been paid when these appeals were heard.
+[4] A Canada Revenue Agency auditor was an observer at the trial and she commenced an audit in relation to these transactions shortly after the trial was completed. The assessments which are under appeal resulted from that audit and were issued in 1998.
+[5] For purposes of assessing, the Minister took the view that the amount of the restitution order should be included in the income of the appellants as business income under section 9 of the Income Tax Act. The total amount, $1,858,000, was divided equally between the appellants, and it was included in their income for either the 1989 or 1990 taxation years depending on when the amounts were received. In addition, the Canada Revenue Agency informed the appellants that a deduction would be allowed if the restitution order was later satisfied.
+[6] The appellants were also assessed penalties under subsection 163(2) of the Act for failing to report this amount in their income tax returns. No penalty was imposed for Michael Jenkinson’s 1990 taxation year, however, because the Minister believed that he had not filed an income tax return for that year. It seems a little odd that taxpayers who file tax returns should be penalized more heavily than taxpayers who do not, but nothing turns on this.
+The revised position
+[7] During discoveries, Ms. Blackwell provided the Crown with nine bound volumes of financial records and other documents that had been used at the criminal trial. A review of these documents ultimately led the Crown to concede that the appellants should not be taxed on the entire restitution order, but only on a much lower figure.
+[8] There was considerable confusion at the commencement of the hearing as to exactly what the Crown’s revised position was. Was the Crown changing the basis of the income inclusion from business income to the receipt of shareholder benefits? What were the revised amounts that were now being proposed to be brought into income?
+[9] It is unfortunate that the pleadings were not amended to make the Crown’s position clear prior to the hearing, especially because Mr. Jenkinson was self-represented and Ms. Blackwell’s counsel did not appear to be a tax specialist. From what I can gather, the focus of attention prior to the hearing had been on settlement discussions, and these discussions had led the appellants to believe that the Crown’s case was shifting to a shareholder benefit analysis. As important as settlement discussions are, they do not alleviate the need to clearly set out the essential facts and issues in the pleadings.
+[10] Matters were partly clarified by counsel for the Crown during his opening, but needless to say this gave the appellants no time to shift gears. Counsel stated that he would not attempt to argue that there were shareholder benefits because the pleadings had not been amended. The amounts at issue, however, could not be clarified. Counsel informed me that he had provided the appellants with a draft proposal but he said that the amounts had not been finalized. The draft may have assisted the appellants in preparing their case but I was left a bit in the dark as to exactly how the new position differed from the old.
+[11] The Crown’s position became clear when the appeals officer took the witness stand, which was after the appellants had testified. The Crown based its argument on net amounts received by the appellants which could not be traced to business uses. The amount was settled at $341,919, which was allocated to each of the appellants as set out in the following chart.
+1989 Income Inclusion
+1990 Income Inclusion
+Jenkinson
+$91,097.01
+$134,748.89
+Blackwell
+$56,668.40
+$59,404.65
+Factual background
+[12] The only witnesses at the hearing were the appellants themselves and the appeals officer from the Canada Revenue Agency who had reviewed the objections. This oral testimony did not shed much light as to the circumstances which led to the convictions, but the judge in the criminal proceeding had provided extensive reasons. Many of the following findings of fact are based on these.
+[13] The appellants met in 1987 while attending a mortgage brokers’ course and decided to form a business partnership. Each of the appellants had a background in real estate, and the business concept was to create several businesses that had a real estate connection in one way or another. Joan Blackwell had a background in banking and mortgages. Although Michael Jenkinson had been a police officer, he was also a real estate investor.
+[14] In short order, the appellants had incorporated a large number of companies, each carrying on a separate business. The transactions which are the focus of these appeals centre on three of these: a horse breeding operation (Cholderton Farms), a mortgage business (Ansdel Mortgage), and an office condominium development (Meadowvale Project).
+[15] All of the businesses operated extensively on credit, and the whole enterprise quickly became in desperate financial condition. As described by the trial judge in the criminal proceeding, the appellants then embarked on an aggressive scheme to raise money from individual investors.
+[16] It appears that most of the investors provided cheques to the appellants or their companies and were given promissory notes in return, upon promises that their money would be invested in a particular manner, such as to acquire a joint venture interest in the office condominium development or to acquire a mortgage on the farm properties used in Cholderton Farms. It appears that most, if not all, of the investments were lost. The largest restitution order was granted to a couple who ran the horse breeding operation. They had owned a farm property that lost its value when it was used to raise money by way of mortgages.
+[17] In the criminal proceeding, the Crown had engaged a forensic accountant to trace the funds provided by the investors. Some of it could be traced, but it was impossible to track it all. Part of the reason for the difficulty was that the money was often deposited into Mr. Jenkinson’s personal bank account, and the companies’ bookkeeper presumably had no way to keep track of it.
+[18] When the investors’ money could be traced, it was sometimes traced to the specific use intended by the investor, and in other cases the money was diverted to other uses, often being used to pay down whatever bank overdraft was at its limit.
+[19] The appellants were convicted on all counts of fraud that were brought, 13 in all.
+[20] It is relevant for these appeals that the fraud convictions were not always dependent on a finding that the funds had been diverted to a use not intended by the investor. In many cases the investors had been defrauded by misrepresentations as to the financial state of the businesses that were being invested in. In these cases, the fraud consisted of the misrepresentations, not the diversion of funds.
+[21] It is also relevant that not all investors sought restitution in the criminal proceeding. It appears that other investors likely lost money, but the circumstances of their losses were not extensively discussed by the trial judge.
+[22] During the criminal trial, the appellants attempted to defend themselves by testifying that none of the investors had been deceived. According to their testimony, each of the investors knew exactly how their money was being used.
+[23] All of this testimony was rejected out of hand by the judge in the criminal proceeding. At times his comments were scathing, as illustrated by the following excerpt from his oral reasons:
+[…] I not only reject that evidence as a lie, but it illustrates the blatant audacity with which the accused expect to mislead and bamboozle whomever they deem fit to listen to them.
+Discussion
+[24] After reviewing the financial records, the Crown was satisfied that much of the investors’ money was put into bona fide businesses and it was conceded that in such cases the amounts should not be included in the appellants’ income. It becomes necessary, then, to determine how much of the investors’ money was not put into the businesses. As mentioned earlier, it was not necessary for the judge at the criminal trial to make this determination.
+[25] The appellants attempted to satisfy me, mainly by their own testimony, that they had not used any of the investors’ money for personal purposes, at least without an investor’s consent, and that they had other sources of funds to live on.
+[26] I see no reason to accept this evidence without clear supporting evidence, and there was none. The simple fact that a portion of the investors’ money was traced to Mr. Jenkinson’s personal bank account and that accurate record keeping was impossible suggests that part of the money was probably used for personal purposes. Because none of the appellants’ testimony was well supported either by documentation or independent witnesses, I have given it no weight, especially in light of the nature of their criminal convictions, which were based on a large scale deception of investors.
+[27] That is not the end of the matter, however. The appellants argue that they cannot realistically respond to the Crown’s case when the relevant transactions took place so long ago and they suggest that it would be unfair for them to bear the onus to establish what the funds were used for. I agree with this.
+[28] The assessments were issued in 1998, which is approximately nine years after the relevant transactions took place. At that time, and until shortly before this hearing commenced, the Crown took the view that all of the investors’ money had the quality of business income to the appellants, regardless of whether the funds were actually invested in the businesses.
+[29] Accordingly, until very recently it was not necessary to determine how much of the investors’ money, if any, was expended by the appellants for personal purposes. The appellants cannot possibly be expected to trace these funds 17 years after the fact. This is precisely the type of situation where the onus of proof should shift to the Crown, especially because the Crown did not provide a reasonable explanation for why this position was being taken so late.
+[30] Moreover, although the parties did not raise this as an issue, I would note that the Crown’s revised position involves facts which were not assumed at the time of the assessments. It is well established that the Crown has the burden of proof with respect to them. In The Queen v. Loewen, 2004 D.T.C. 6321 (F.C.A.), Sharlow J.A. states:
+11 The constraints on the Minister that apply to the pleading of assumptions do not preclude the Crown from asserting, elsewhere in the reply, factual allegations and legal arguments that are not consistent with the basis of the assessment. If the Crown alleges a fact that is not among the facts assumed by the Minister, the onus of proof lies with the Crown. This is well explained in Schultz v. Canada, [1996] 1 F.C. 423, [1996] 2 C.T.C. 127, 95 D.T.C. 5657 (F.C.A.) (leave to appeal refused, [1996] S.C.C.A. No. 4).
+[31] In this case, the Crown’s revised position not only requires determining what funds were used for personal purposes, but it also requires looking at all of the funds raised by the appellants, and not just funds from investors who received restitution. None of this was relevant to the assessments.
+[32] I conclude, then, that the Crown should have the burden to prove the amount of investors’ money that was used by the appellants for personal purposes. Furthermore, for the reasons below, I conclude that this burden has not been satisfied.
+[33] The only witness for the Crown was the appeals officer from the Canada Revenue Agency who first became involved in this matter in 2001. In her testimony, she gamely attempted to show that at least $341,919 was received by the appellants and could not be traced to a business use. Her main source of information for this conclusion was the bank statements and journal entries contained in the nine volumes of documents that were used in the criminal trial.
+[34] The documentation on which the appeals officer relied is not, in my judgment, sufficient. I would first note that although Ms. Blackwell did not object to the introduction of the documents, Mr. Jenkinson did, on the basis that the authenticity of the bank records was not established in accordance with the Canada Evidence Act. He was correct. Also, the appeals officer obviously did not have first hand knowledge of the documents, and she had not conducted any investigation herself, except to review whatever records the appellants provided. Also, it appears that the documents that the appeals officer examined were only the tip of the iceberg in terms of documents that were seized in the criminal investigation. In all, there was somewhere in the neighbourhood of 50 to 60 boxes seized, as I understand it. I would also note that Ms. Blackwell’s bank account records were never seized, and these would have been very relevant to the analysis.
+[35] In addition to this, each of the appellants had provided a line by line criticism of the appeals officer’s analysis in extensive written submissions. The Crown did not provide any response to this, even though they were provided with the opportunity to do so.
+[36] As mentioned earlier, it seems improbable that the appellants did not use a portion of the investors’ money for themselves, but the evidence before me is not sufficient for me to make any finding as to how much of the investors’ money was in fact so used.
+[37] I am also not satisfied that the amounts received have the quality of business income. In this regard, I note that amounts received by the appellants were recorded in the corporations’ journal entries as shareholder loans, which tends to suggest that they are not business income.
+[38] These findings are sufficient to dispose of these appeals and it is not necessary that I consider in detail a statute bar issue that arose during the hearing. I will comment on it briefly.
+[39] Three of the four assessments that are being appealed were issued beyond the normal reassessment period and are statute barred unless the Crown can establish that the appellants either carelessly or fraudulently failed to report at least some portion of this amount in their income tax returns. There is no dispute about this. The issue is whether the fourth assessment, which was issued to Mr. Jenkinson for the 1990 taxation year, is subject to the same condition.
+[40] It is not clear from the evidence whether Mr. Jenkinson’s 1990 assessment was issued beyond the normal reassessment date or not. The Crown takes the position that this is not relevant, and that the statute bar requirements in subsection 152(4) do not apply if the taxpayer does not file an income tax return for the year. I have trouble seeing how the failure to file a return allows the Minister to escape from the requirements of subsection 152(4), but in any event the Crown should be precluded from taking a different position with respect to this assessment as this issue was not raised in a timely manner. It was not clearly raised in the pleadings and it was only raised midway through the hearing, after Mr. Jenkinson had testified. In my view this was simply too late.
+[41] In the result, the appeals will be allowed in their entirety. The assessments will be referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the full amount of the restitution order should be excluded from the appellants’ income, as well as the related penalties. The appellants are also awarded costs.
+Signed at Ottawa, Canada, this 16th day of November 2007.
+"J. Woods"
+Woods J.
+CITATION:
+2007TCC695
+COURT FILE NOS.:
+2002-310(IT)G, 2002-314(IT)G
+STYLE OF CAUSE:
+JOAN M. BLACKWELL AND HER MAJESTY THE QUEEN,
+MICHAEL C. JENKINSON AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATES OF HEARING:
+November 20, 21, 22, 23, 2006, April 2, 3, 5, May 28 and July 12, 2007
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Judith Woods
+DATE OF JUDGMENT:
+November 16, 2007
+APPEARANCES:
+Counsel for Joan M. Blackwell:
+For Michael C. Jenkinson:
+Robert K. Brown
+The Appellant himself
+Counsel for the Respondent:
+Brent E. Cuddy
+COUNSEL OF RECORD:
+For Joan M. Blackwell:
+Name:
+Robert K. Brown
+Firm:
+Stutz & Associates
+Orangeville, Ontario
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

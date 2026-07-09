@@ -1,0 +1,129 @@
+Title: Crockett v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/422969/index.do
+Corpus path: corpus/cases/tcc/2019/2019-tcc-203-422969-crockett-v-the-queen.md
+Document type: case_law
+Last modified: 2019-10-08
+
+# Crockett v. The Queen
+
+- Citation: 2019 TCC 203
+- Decision date: 2019-10-08
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4206, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Crockett v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2019-10-08
+Neutral citation
+2019 TCC 203
+File numbers
+2018-3615(IT)I
+Judges and Taxing Officers
+Ronald MacPhee
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2018-3615(IT)I
+BETWEEN:
+DUSTIN CROCKETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on June 12, 2019 and September 9, 2019,
+at Vancouver, British Columbia
+By: The Honourable Justice Ronald MacPhee
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+W. Natasha Tso
+JUDGMENT
+Upon consent of both parties, the style of cause shall be amended to read “Dustin Crockett v. Her Majesty the Queen”.
+The Appeal from the assessment made under the Income Tax Act for the Appellant’s 2013 and 2014 taxation years is allowed, without costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment.
+Signed at Ottawa, Canada, this 8th day of October 2019.
+“R. MacPhee”
+MacPhee J.
+Citation: 2019 TCC 203
+Date: 20191008
+Docket: 2018-3615(IT)I
+BETWEEN:
+DUSTIN CROCKETT,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+MacPhee J.
+I. Overview
+[1] The Appellant, Dustin Crockett is appealing the Minister of National Revenue’s (the “Minister”) assessment disallowing rental losses for the 2013 and 2014 taxation years. The losses related to a vacation rental home, owned by the Appellant’s mother but rented by the Appellant, located in Tulameen, British Columbia. The amounts of claimed losses in issue were $28,938.34 in 2013 and $25,903.43 in 2014.
+[2] The issue in this Appeal is whether the rental of the Tulameen property (the “property”) constituted a source of income to the Appellant within the meaning of the Income Tax Act (the “Act”), and if so, whether the expenses claimed in relation to the property were incurred to earn income from business or property, or in the alternative were personal expenses of the Appellant.
+[3] In order to make a determination on this matter I must determine whether the rental of the property was carried on predominantly for profit rather than as a personal endeavour. The Crown concedes there was a commercial element to the Appellant’s endeavour, acknowledging that the Appellant made the property available to renters, advertised it and rented it during the 2013 and 2014 taxation years. The question I must answer is whether the predominant purpose of the endeavour for the Appellant was to make a profit.
+[4] The Crown relies upon the test set out in Stewart v. The Queen (2002 SCC 460) to determine whether, given the personal aspect of the Appellant’s activity, there existed a source of income.
+II. Facts and analysis:
+[5] There was very little dispute on the facts of the case. The dispute between the parties arises in analyzing the facts to determine the intention of the Appellant.
+[6] As described in Stewart, a non-exhaustive list that may assist the Court in assessing the commerciality of a taxpayer’s endeavour includes the following:
+(i) the profit and loss experience of the venture in previous years;
+(ii) the taxpayer’s training or experience;
+(iii) the taxpayer’s intended course of action, and
+(iv) the capability of the venture to show a profit.
+[7] In support of the Minister’s assessment, the Respondent argues that the Appellant’s main goal in this endeavour was to help his mother in a time a need, which was a personal endeavour. In determining whether this is correct I will apply the facts of this case to the criteria listed in Stewart.
+A. The profit and loss experience of the venture:
+[8] The profit and loss history of the endeavour does not shed much light on the issue. There are only two years before the Court, which were the first and only two years of the endeavour. Understandably the Appellant lost money in both these years. The evidence at trial showed that there were substantial start-up costs. The house was in need of numerous repairs. [1] The Appellant also made upgrades to the property to make the property more appealing to his renters. [2]
+[9] The Appellant testified that over the years, return renters, plus positive word of mouth would most likely have increased his revenues. He was fairly positive that a small profit would have been achieved in the upcoming years. This belief was based upon the long term success his sister had renting a vacation property in the same area. Upon a review of the costs claimed by the Appellant, and his estimate as to how often he would have to rent the property in order to turn a profit, this belief in future profits is reasonable.
+[10] The Crown acknowledged in her submissions that the endeavour would most likely have been profitable in the near future. She cited the Appellant’s closing of the rental business as evidence that his main goal was not to turn a profit, but to help his mother out.
+[11] I do not accept this argument.
+[12] I accept the Appellant’s explanation that he closed down the endeavour in 2015 because he was faced with a substantial tax bill of approximately $10,000. He was underemployed at the time and working in Ontario to pay the family bills. His wife was also ill. The Appellant simply did not have the finances to both cover the costs of the property and pay the family bills.
+[13] Overall, this criteria neither helps nor hurts the Appellant’s Appeal.
+B. The taxpayer’s training or experience:
+[14] The Appellant is a business intelligence consultant. He is an independent contractor who has an entrepreneurial spirit. He has been involved in various businesses over the recent years, including owning other rental properties, owning a recording studio, he was in the local food sales business and he made an unsuccessful attempt to invest in a ski hill.
+[15] Overall, the taxpayer’s training and experience does support his position that he was again starting a business with the Tulameen property in order to seek a profit.
+C. The taxpayer’s intended course of action:
+[16] This is where the true dispute between the parties lies. The Crown argues that the Appellant’s main goal in this endeavour was helping out his mother in a time a need, which would make this a personal endeavour. The uncontested facts that support this position are as follows. In 2013 the Appellant’s mother was going through a marriage break up. She wished to move out of her Tulameen home. Unfortunately, the sales market for her home was weak. The Crown contends that the Appellant took over the family home and began paying his mother rent solely to help his mother in a time of need.
+[17] Not surprisingly, the Appellant contests this position. He testified that he knew the Tulameen area well, having grown up there. He knew his sister had a profitable rental property in the area, and he was also interested in such an investment. When his mother decided to leave her home, this gave him an investment opportunity that would benefit both he and his mother. He was able to access a property well situated in the area without having to provide sufficient capital to buy a rental property. This type of investment was consistent with his previous history. I also note that the Appellant’s mother testified at trial. She appeared honest and forthright and confirmed the Appellant’s version of events.
+[18] The home needed numerous repairs when the Appellant took it over. These upgrades were both costly and time consuming for the Appellant, but he did them as part of his investment in the property. I accept the Appellant’s evidence that the upgrades were done with a view to making the property more enticing to potential renters. The Appellant was never reimbursed for the upgrades, even after his mother sold the property in 2017. A list of the expenses incurred by the Appellant, which is not in dispute, can be found at Schedule A and Schedule B to this decision.
+D. The capability of the venture to show a profit:
+[19] The Appellant argues that from 2013, when he entered into a verbal contract to rent his mother’s home, until 2015, when the business was no longer viable, the Appellant did all he could to create and run a viable active business. In addition to the repairs and upgrades he carried out, he listed the property on a local Tulameen website for people seeking rentals (as part of his marketing campaign he named the home Buckhorn). He also advertised on Facebook, and in Canada 411. He made rent payments to his mother by covering the mortgage, interest and all ongoing expenses of the home.
+[20] On the revenue side, the Appellant set up a Pay Pal account to collect rental payments. He collected some rent while he was still fixing up the property. These amounted to approximately $1925 in 2013 and $3567 in 2014. He hired cleaners each time the property was rented.
+[21] Going forward, after all renovations were completed on the property, the Appellant hoped the he could charge $200 per night for the whole property, or $125 a night for the upstairs (3 beds) and/or $125 per night for the downstairs. Based on his calculations, if he could rent out the property for two weeks a month he would cover all expenses and have a small profit. Tulameen is a year round vacation destination. He hoped to reach profitability by year three. I accept that this was a reasonable belief held by the Appellant.
+[22] Other factors I considered were as follows. The Appellant only stayed in the property when he was working on it. He did have a business number with CRA for the rental business. Finally he did not purchase commercial insurance on the property, but instead left it insured as residential. He testified that he was willing to accept the risk of doing so.
+[23] All these factors convince me that the Appellant’s predominant intention with respect to the property was to earn a profit. The Appeal is allowed in its entirety.
+Signed at Ottawa, Canada, this 8th day of October 2019.
+“R. MacPhee”
+MacPhee J.
+CITATION:
+2019 TCC 203
+COURT FILE NO.:
+2018-3615(IT)I
+STYLE OF CAUSE:
+DUSTIN CROCKETT AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+June 12, 2019 and September 9, 2019
+REASONS FOR JUDGMENT BY:
+The Honourable Justice Ronald MacPhee
+DATE OF JUDGMENT:
+October 8, 2019
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+W. Natasha Tso
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] An obvious example was changing the flooring in the basement units as black mold had formed under the carpets.
+[2] To give the property more of a country vacation home feeling, pine was installed on some of the ceilings, and decorative antlers were put in a room.

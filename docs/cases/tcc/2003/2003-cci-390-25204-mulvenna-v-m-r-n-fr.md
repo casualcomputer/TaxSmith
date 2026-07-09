@@ -1,0 +1,162 @@
+---
+title: "Mulvenna v. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/25204/index.do"
+last_modified: "2003-06-16"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 390"
+citation2: ""
+neutral_citation: "2003 CCI 390"
+decision_date: "2003-06-16"
+language: "fr"
+item_id: "25204"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2564
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T19:04:49.555000+00:00"
+cases_cited_count: 0
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "6443f6e24e9ddbd05071f8ccf30d1ef9a2b5d8141ed0144e7f34b2d358c24c77"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mulvenna v. M.R.N.
+
+- Citation: 2003 CCI 390
+- Decision date: 2003-06-16
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2564, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mulvenna v. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-06-16
+Référence neutre
+2003 CCI 390
+Numéro de dossier
+2002-2844(EI)
+Juges et Officiers taxateurs
+Campbell J. Miller
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2002-2844(EI)
+ENTRE :
+SHERRI-LYNN MULVENNA,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 29 avril et le 2 mai 2003 à Toronto (Ontario)
+Par : L'honorable juge Campbell J. Miller
+Comparutions :
+Représentant de l'appelante :
+Michael Mulvenna
+Avocate de l'intimé :
+Me Nimanthika Kaneira
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté conformément au paragraphe 103(1) de la Loi sur l'assurance-emploi est accueilli et la décision du ministre du Revenu national concernant l'appel porté devant lui en vertu de l'article 91 de ladite loi est modifiée, compte tenu du fait que l'appelante a accumulé 845 heures additionnelles d'emploi assurable au cours de la période admissible en sus des 726 heures déjà admises.
+Signé à Ottawa, Canada, ce 16e jour de juin 2003.
+« Campbell J. Miller »
+J.C.C.I.
+Traduction certifiée conforme
+ce 1er jour d'octobre 2003.
+Mario Lagacé, réviseur
+Référence : 2003CCI390
+Date : 20030616
+Dossier : 2002-2844(EI)
+ENTRE :
+SHERRI-LYNN MULVENNA,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Miller
+[1] En 1997, lors de la naissance de son second enfant, Mme Mulvenna a pris un congé de maternité et un congé parental et a reçu des prestations d'assurance-emploi ainsi qu'un complément salarial de son employeur pour en arriver à un montant équivalant à 75 p. 100 de son salaire. Plusieurs mois après le retour de Mme Mulvenna au travail, son conjoint a été transféré de Toronto à Kingston. Elle a donc quitté son emploi et demandé des prestations d'assurance-emploi. Elle a perçu des prestations pendant 20 semaines, soit en fonction de ses heures d'emploi assurable. Dans le calcul de ces heures d'emploi assurable, ni le congé de maternité ni le congé parental n'a été pris en compte. Mme Mulvenna soutient que le nombre d'heures assurables à son actif devrait être augmenté pour justifier une période de prestations supérieure à 20 semaines. En outre, elle maintient que le refus d'augmenter ses heures assurables constitue une discrimination contre les femmes et contrevient à l'article 15 de la Charte canadienne des droits et libertés (la « Charte » ).
+[2] Bien que les faits de l'espèce ne sont pas beaucoup plus complexes que ce que décrit le premier paragraphe, le bourbier procédural dont Mme Mulvenna a dû se dépêtrer pour atteindre la présente étape est loin d'être simple. Cela découle des deux courants d'appel dont dispose un employé en vertu des dispositions sur l'assurance-emploi, en fonction de la nature de la plainte : par l'intermédiaire du ministre du Revenu national (le « ministre » ) ou par l'intermédiaire de la Commission de l'assurance-emploi du Canada. Ils partagent les responsabilités administratives en vertu de la Loi sur l'assurance-emploi (la « Loi » ). Ce qui complique encore plus la procédure, c'est que Mme Mulvenna a également déposé une contestation constitutionnelle assujettie, elle aussi, à ses propres exigences procédurales. Dans un effort pour tenter de démêler cet imbroglio procédural et d'en arriver au fond de la question, je présenterai les faits de façon chronologique :
+Janvier 1996 : Mme Mulvenna donne naissance à son premier enfant et prend un congé de maternité et un congé parental.
+Janvier 1996 à juillet 1996 : Mme Mulvenna est en congé de maternité suivi d'un congé parental. Pendant un certain nombre d'années avant janvier 1996, Mme Mulvenna a travaillé à l'hôpital St. Mary's of the Lake Hospital ( « St. Mary's » ) à Kingston. Elle avait travaillé à temps plein pendant 12 années avant la naissance de son premier enfant.
+Juillet 1996 à mars 1997 : Mme Mulvenna travaille à temps plein à St. Mary's.
+Mars 1997 :
+Mme Mulvenna donne naissance à son second enfant. Juste auparavant, elle a signé un formulaire de St. Mary's qui indiquait qu'elle souhaitait continuer de jouir des avantages sociaux.
+Mars 1997 à septembre 1997 : Mme Mulvenna est en congé de maternité et en congé parental. Elle reçoit les prestations de l'assurance-emploi plus un complément de 89 $ par période de rémunération de St. Mary's, ce qui amène son revenu à 75 p. 100 de son salaire. Le complément salarial est versé en vertu des exigences de la convention collective signée avec St. Mary's. Mme Couldridge, une employée du service de la paie de St. Mary's, décrit le congé de Mme Mulvenna comme un congé sans solde.
+Août 1997 : M. Mulvenna trouve du travail à Toronto.
+Septembre 1997 à mars 1998 : Mme Mulvenna reprend le travail à temps plein à St. Mary's. Elle accumule 726 heures d'emploi assurable.
+Mars 1998 : Mme Mulvenna quitte son emploi pour rejoindre son mari à Toronto. Le déménagement à Toronto est retardé par la vente de la propriété de Kingston. Les Mulvenna se logent temporairement à Whitby, car ils ne peuvent pas emménager dans leur nouvelle demeure de Markham avant le mois de juillet.
+Avril 1998 : Mme Mulvenna présente une demande de prestations d'assurance-emploi et est informée qu'elle a droit à 20 semaines sur la base des 726 heures assurables.
+Mai et juin 1998 : Mme Mulvenna cherche du travail à Toronto. Le bureau de l'assurance-emploi de Kingston lui demande de chercher du travail à Kingston car elle ne peut pas encore fournir d'adresse permanente à Toronto. Elle se sent obligée de se conformer à la demande tout en reconnaissant l'inutilité d'une telle recherche.
+Août 1998 : Les Mulvenna emménagent dans leur nouvelle demeure à Markham (Ontario). Mme Mulvenna épuise ses prestations d'assurance-emploi. Pendant cette période allant d'avril à août 1998, Mme Mulvenna dépose un appel devant le Conseil arbitral.
+Janvier 1999 : Le Conseil arbitral rejette la demande de Mme Mulvenna, indiquant que son droit à des prestations pendant 20 semaines sur la base de 726 heures d'emploi assurable a été déterminé correctement.
+Le Conseil confirme également que le complément salarial perçu par Mme Mulvenna entre mars 1997 et septembre 1997 ne fait pas l'objet de cotisations à l'assurance-emploi. Mme Mulvenna interjette appel de la décision de l'arbitre devant le juge-arbitre, y incluant une contestation constitutionnelle.
+Octobre 2000 : Le juge-arbitre ajourne l'appel pour que Mme Mulvenna puisse se conformer aux termes de l'article 57 de la Loi de la Cour d'appel fédérale qui exige que tous les procureurs généraux du Canada soient informés de l'existence d'une contestation constitutionnelle.
+Février 2001 : Le juge-arbitre ordonne le dépôt d'un dossier de requête après l'envoi de l'avis constitutionnel.
+Avril 2001 : Mme Mulvenna envoie l'avis constitutionnel requis.
+Juillet 2001 : Le juge-arbitre détermine qu'aucune décision ne peut être rendue avant que la Cour canadienne de l'impôt ( « CCI » ) rende une décision quant au nombre correct d'heures assurables. Ce n'est qu'alors que le juge-arbitre sera en mesure de déterminer le nombre de semaines de prestations dont Mme Mulvenna peut bénéficier.
+Août 2001 : Une demande de décision relative à l'assurabilité est déposée auprès de l'Agence des douanes et du revenu du Canada ( « ADRC » ) par Développement des ressources humaines Canada ( « DRHC » ) qui donne comme raison de la demande une ordonnance de la Cour. Les périodes d'assurabilité couvertes vont de mars 1997 à septembre 1997 et de septembre 1997 à mars 1998. Alors qu'il n'existe aucune preuve documentaire directe de la décision, les actions suivantes de Mme Mulvenna indiquent qu'une décision a dû être rendue entre août 2001 et décembre 2001.
+Décembre 2001 : Mme Mulvenna interjette appel de la décision CE200159789239 auprès du chef des appels de l'ADRC à Ottawa. La lettre d'appel est acheminée au chef des appels à London. Cet appel porte sur la question de savoir si elle répondait au critère fixé pour déterminer si elle exerçait un emploi assurable pendant son congé de maternité et son congé parental.
+Avril 2002 : L'ADRC informe Mme Mulvenna, St. Mary's et DRHC de sa décision selon laquelle [traduction] « Il a été décidé que les sommes reçues pour augmenter les prestations de maternité et parentales versées pendant la période susmentionnée sont exclues de la rémunération assurable. Des heures assurables ne peuvent pas être attribuées à ces revenus. » L'ADRC informe également Mme Mulvenna que, si elle n'est pas d'accord avec cette décision, elle peut interjeter appel auprès de la CCI.
+Mai 2002 : Mme Mulvenna envoie un deuxième ensemble d'avis de contestation de nature constitutionnelle aux procureurs généraux du Canada.
+Juillet 2002 : Mme Mulvenna interjette appel auprès de la CCI.
+Août 2002 : L'ADRC informe la CCI de l'appel de Mme Mulvenna en date du mois de décembre 2001 ainsi que de sa décision du mois d'avril 2002.
+Octobre 2002 : Le ministre dépose une réponse à l'avis d'appel devant la CCI. Alors que la réponse fait mention de l'assurabilité du complément versé pendant la période de congé de maternité et le congé parental en 1997, aucune mention n'est faite aux directives du juge-arbitre.
+Avril 2003 : Mme Mulvenna envoie son troisième ensemble d'avis de contestation de nature constitutionnelle. Trois jours avant l'audience, l'intimé présente une demande à la CCI visant l'ajournement de cette question au motif qu'il faut plus de temps pour préparer la plaidoirie constitutionnelle. Mme Mulvenna souhaite aller de l'avant comme prévu. J'ai rejeté la demande d'ajournement.
+[3] En avril 1998, Mme Mulvenna a informé le gouvernement qu'elle pensait avoir droit à des prestations d'assurance-emploi pour une période de 40 et non de 20 semaines. Cinq ans se sont écoulés. Elle a envoyé des avis de contestation de nature constitutionnelle à trois reprises. Elle a traité avec le ministre, DRHC, la Commission de l'assurance-emploi du Canada, le Conseil arbitral, deux juges-arbitres, au moins deux fonctionnaires de l'assurance-emploi et au moins deux fonctionnaires de l'ADRC. Elle a comparu devant la CCI à deux reprises, dont une fois parce que l'intimé avait demandé un ajournement. Elle a été informée par le gouvernement qu'elle devait chercher du travail à Kingston alors que les fonctionnaires savaient pertinemment qu'elle était en cours de déménagement vers Toronto. Je ne suis pas du tout surpris que Mme Mulvenna ait semblée quelque peu indignée quand elle a décrit sa situation. Comment le public peut-il avoir confiance en notre système administratif, quasi judiciaire et judiciaire lorsque ce qui semble une question relativement simple - vous ne m'avez pas versé la totalité des prestations d'assurance-emploi auxquelles j'avais droit - ne trouve réponse qu'à la fin d'un difficile parcours? Il ne m'incombe pas de légiférer, de réglementer ou d'établir des pratiques administratives, c'est-à-dire de fixer les règles du jeu. Je reconnais pourtant la frustration justifiable d'un appelant lorsque les règles et leur administration deviennent si tortueuses que le désespoir s'installe. Ce n'est pas sain. L'équité même que les règles sont censées avoir pour but de garantir laisse une impression quasi indélébile que l'on arrive au résultat contraire.
+[4] La question à laquelle la Cour doit répondre est celle de savoir combien, s'il en est, d'heures d'emploi assurable ont été accumulées par Mme Mulvenna au cours de son congé allant du mois de mars 1997 au mois de septembre 1997. La réponse de l'intimé : aucune. Il soutient que, même si je conclus qu'il existait des heures assurables, cela n'aiderait pas Mme Mulvenna puisque ces heures se trouvent hors de la « période de référence » . La période de référence est la période pendant laquelle Mme Mulvenna doit accumuler un nombre suffisant d'heures assurables pour fonder une demande. Je souhaite examiner ce point en premier. En l'espèce, je ne suis pas d'accord avec la description que l'avocate de l'intimé fait de la période de référence. Elle a indiqué que la période de référence :
+[traduction]
+[...] sera la plus courte des périodes suivantes, soit la période de 52 semaines que j'ai mentionnée ou, en fait, le temps écoulé depuis la fin de la dernière période de prestation de l'appelante.
+Donc, pour l'appelante, vous ne remonteriez pas, elle a déposé sa demande de prestations d'assurance-emploi en mars 1998, vous ne remontez pas les 52 semaines jusqu'à mars 1997 pour déterminer si l'appelante avait accumulé assez d'heures d'emploi assurable. Vous remontez à septembre 1997, lorsque le versement de ses prestations a pris fin, ses prestations de maternité et parentales ont pris fin. Donc, vous ne comptez que les heures se trouvant entre septembre, les seules heures pertinentes, les heures entre septembre et mars. Les heures entre septembre 1997 et mars 1998.
+(Transcription page 37, lignes 11 à 24)
+[...]
+[...] même si vous rendez ici une décision selon laquelle l'appelante a accumulé un nombre donné d'heures assurables pendant la période de son congé de maternité et de son congé parental, cela ne lui servirait pas beaucoup en ce qui concerne son admissibilité au versement des prestations car ces heures ne feraient pas partie de sa période de référence.
+(Transcription page 40, lignes 6 à 12)
+[5] Mais l'article 8 de la Loi est libellé comme suit :
+8(1) Sous réserve des paragraphes (2) à (7), la période de référence d'un assuré est la plus courte des périodes suivantes :
+a) la période de cinquante-deux semaines qui précède le début d'une période de prestations prévue au paragraphe 10(1);
+b) la période qui débute en même temps que la période de prestations précédente et se termine à la fin de la semaine précédant le début d'une période de prestations prévue au paragraphe 10(1).
+[6] Cela ne m'indique pas que la période de référence exclut la période de prestations précédente, mais inclut explicitement la période de prestations précédente en renvoyant à une période qui débute en même temps que la période de prestations précédente et non qui débute en même temps que la fin de la période de prestations précédente. La période de prestations de Mme Mulvenna, qui va de mars 1997 à septembre 1997 semble, à la simple lecture de l'article 8, faire partie de sa période de référence aux fins du calcul des heures assurables accumulées pour sa prochaine période de prestations.
+[7] Ayant conclu que sa période de prestations qui va de mars à septembre 1997 peut être considérée comme faisant partie de la période de référence aux fins de la détermination des heures assurables, c'est le calcul desdites heures sur lequel il faut maintenant se pencher. Pour rendre cette décision, il est nécessaire de consulter la Partie I des Règlements sur l'assurance-emploi (les « Règlements » ), plus particulièrement l'article 10.1, qui se lit comme suit :
+10.1 (1) Lorsqu'un assuré est rétribué par l'employeur pour une période de congé payé, il est réputé avoir exercé un emploi assurable pendant le nombre d'heures qu'il aurait normalement travaillées et pour lesquelles il aurait normalement été rétribué durant cette période.
+(2) Lorsqu'un assuré est rétribué par l'employeur pour une période de congé par un paiement forfaitaire déterminé sans égard à la durée de la période, il est réputé avoir exercé un emploi assurable pendant le moins élevé des nombres d'heures suivants :
+a) le nombre d'heures qu'il aurait normalement travaillées et pour lesquelles il aurait normalement été rétribué durant cette période;
+b) le nombre d'heures obtenu par division du montant du paiement forfaitaire par le taux normal de salaire horaire.
+[8] Si je conclus que Mme Mulvenna était en congé payé au sens l'article 10.1, elle accumulerait, selon cet article, 32,5 heures d'emploi assurable pour chaque semaine de son congé, ce qui correspond au nombre d'heures pendant lesquelles elle travaillait normalement chaque semaine. Par conséquent, comme son congé a duré 26 semaines, cela représenterait 845 heures.
+[9] L'intimé soutient que le seul fait que Mme Mulvenna a perçu un complément s'élevant à 89 $ par période de rémunération pendant cette période n'est pas suffisant pour qualifier son congé de « congé payé » . L'intimé utilise un certain nombre d'arguments. Premièrement, si l'on examine le paragraphe 10.1(2) (le paragraphe portant sur une somme forfaitaire versée à un employé en congé), le nombre d'heures est déterminé sur la base de l'élément le moins élevé parmi deux dont l'un est la somme forfaitaire divisée par le taux normal de salaire horaire. Si cette approche était celle adoptée à l'égard des rentrées de revenu réelles de Mme Mulvenna, le nombre d'heures serait beaucoup moins élevé.
+[10] D'ailleurs, l'intimé a suggéré qu'il était absurde que la seule méthode de paiement, le versement forfaitaire par opposition au versement périodique, crée une telle différence. Cependant, la distinction entre versement forfaitaire et périodique est une distinction qui, dans les lois de l'impôt sur le revenu, crée, de fait, une différence considérable. Je n'ai jamais entendu les avocats de la Couronne se prévaloir de l'argument de l'absurdité dans ces cas. Si l'intimé pense qu'il en découle une absurdité, une nouvelle rédaction de la législation ne fait pas partie des attributions de la Cour. Le fait est que Mme Mulvenna n'a pas reçu de somme forfaitaire. Je ne suis pas convaincu que l'on peut faire fi du sens ordinaire du paragraphe 10.1(1) du Règlement.
+[11] Deuxièmement, l'intimé a renvoyé à une décision de 1985, Alberta v. Alberta Union of Provincial Employees and MOLO[1],rendue par la Cour d'appel de l'Alberta, pour y trouver un éclairage sur la façon de définir le terme « leave » ( « congé » ). On suggère dans cette décision que le terme « leave » comporte l'idée de permission donnée par l'employeur à l'employé de ne pas se présenter au travail. Cela semblerait aider Mme Mulvenna puisqu'il ne fait aucun doute qu'elle n'était pas au travail et que c'était avec la permission de son employeur, même si cette permission avait été accordée par le truchement des modalités de la convention collective. Je conclus que Mme Mulvenna était en congé.
+[12] Troisièmement, l'intimé soutient que, si ce genre d'absence doit être considéré comme un congé, ce n'est pas un congé payé malgré le fait que Mme Mulvenna ait reçu un complément de la part de son employeur. L'intimé compare Mme Mulvenna à une employée en congé de maternité ou en congé parental qui ne reçoit aucun complément. D'après l'argument de l'intimé, il est certain que cette personne ne se trouve pas en congé payé. Il serait par conséquent injuste et illogique d'accorder des prestations à Mme Mulvenna pour la simple raison qu'elle a reçu un complément. L'intimé me demande d'appliquer des principes d'équité ou de logique pour passer outre ce qui m'est apparu, à la lecture, comme un libellé législatif sans aucune ambiguïté. Il ne fait aucun doute que l'intimé a maintes fois obtenu gain de cause sur des questions en matière fiscale bien que cela ait semblé bien injuste et illogique au contribuable. Je ne suis pas du tout convaincu qu'en l'espèce il existe une injustice ou que ce soit un principe approprié sur lequel fonder une décision en faveur du gouvernement alors que c'est ce dernier qui a rédigé la loi. L'argument de l'intimé ne tient pas. La raison pour laquelle je ne suis pas convaincu qu'il y ait une injustice, c'est parce qu'un syndicat pourrait introduire une disposition sur les compléments comme celle qui existe en l'espèce afin d'obtenir pour ses membres exactement les mêmes prestations qui sont en litige ici. L'employé qui ne fait pas partie d'un tel syndicat n'est pas traité injustement à cause de la législation sur l'assurance-emploi mais, s'il l'est, c'est à cause de la diversité des contrats d'emploi.
+[13] Quatrièmement, l'intimé mentionne le témoignage de l'agente de la paye de l'appelante qui a déclaré qu'elle ne considérait pas que Mme Mulvenna était en congé payé. Sauf tout le respect que je lui dois, je ne trouve pas le témoignage de Mme Couldridge convaincant en ce qui concerne la définition de congé payé aux fins de l'article 10.1 du Règlement. Elle n'a pas allégué avoir participé à la négociation de la convention collective pour pouvoir donner des indications sur le point de vue du syndicat quant à l'ajout de la disposition portant sur le complément. Il ne fait aucun doute que ces paiements constituaient une rémunération.
+[14] L'intimé a lu la convention collective et a fait remarqué qu'elle ne renvoie pas à ce congé particulier comme à un congé payé. Cependant, elle ne le qualifie pas non plus de congé sans solde, expression se trouvant ailleurs dans la convention collective. Je conclus que la convention collective n'étaye pas un argument selon lequel le congé de Mme Mulvenna n'est pas un congé payé. Elle prévoit précisément le niveau de paie que Mme Mulvenna devait recevoir pendant cette période de congé particulière.
+[15] Enfin, je me penche sur le fonds réel de la plaidoirie de l'intimé selon lequel, traiter le congé de Mme Mulvenna comme un congé payé aux fins de l'article 10.1 du Règlement n'a aucun sens dans le contexte du système général d'assurance-emploi puisque cela revient à traiter la période pendant laquelle elle a reçu des prestations d'assurance-emploi comme une période qui lui donne droit à des prestations d'assurance-emploi supplémentaires. L'intimé compare Mme Mulvenna à la personne qui travaille réellement et reçoit des heures d'emploi assurable pour les heures réellement travaillées. Il suggère que Mme Mulvenna obtient une meilleure couverture et, encore une fois, cela est absurde. Je peux comprendre que Mme Mulvenna puisse obtenir la même couverture mais je ne vois pas comment la couverture est meilleure. Selon l'argument de l'intimé, Mme Mulvenna ne travaillait pas et elle ne devrait pas accumuler des heures d'emploi assurable. Ce raisonnement est contraire à l'article 10.1 du Règlement. En vertu de la Loi, il est explicitement permis à une personne ne travaillant pas d'accumuler néanmoins des heures assurables. L'approche de l'intimé ne reconnaît pas le véritable fond de la question que Mme Mulvenna tente de soulever selon lequel, tout comme elle continue à accumuler de l'ancienneté pendant son congé, elle devrait continuer à accumuler des heures assurables. Le fait pour une personne de se trouver en congé en raison d'une naissance ne devrait pas lui faire perdre son statut d'employé, pas plus que le fait de se trouver en congé payé pour tout autre motif.
+[16] La véritable inquiétude de l'intimé est que les 89 $ versés par période de rémunération ne sont pas suffisants pour justifier la prestation, c'est-à-dire qu'il ne devrait pas y avoir de congé payé à moins que l'employeur ne verse à l'employé son salaire complet. L'intimé n'a fourni aucune jurisprudence, aucune définition ni aucune interprétation des lois de l'impôt ou des lois portant sur l'emploi ou le travail pour appuyer la thèse que le complément versé à un employé en vue de lui permettre de toucher 75 p. 100 de son salaire total ne suffit pas pour faire de ce congé un congé payé. Comme le législateur a prévu, au paragraphe 10.1(2), un calcul fondé sur le montant réellement versé, il aurait bien pu prévoir au paragraphe 10.1(1) quelque chose de similaire. Or, il ne l'a pas fait. L'intimé ne se fonde que sur l'expression « congé payé » . Il ne fait aucun doute que Mme Mulvenna était en congé et il ne fait aucun doute qu'elle était payée. Je ne trouve rien d'absurde ou d'injuste dans le fait de décider que le temps passé par une femme, qui a travaillé à temps plein depuis 12 ans, en congé de maternité ou en congé parental continue à compter comme heures assurables aux fins de l'assurance face à la possibilité subséquente d'un besoin imprévu d'assurance comme, par exemple, le transfert de son mari. Dans ce contexte, j'interprète le paragraphe 10.1(1) du Règlement comme s'appliquant à Mme Mulvenna. Étant donné cette conclusion, il n'est pas nécessaire que je me penche sur la question de nature constitutionnelle qui a été soulevée.
+[17] J'accueille l'appel de Mme Mulvenna et je renvoie la question au juge-arbitre compte tenu du fait que Mme Mulvenna a accumulé 845 heures supplémentaires d'emploi assurable pendant la période de référence en sus des 726 heures déjà admises.
+Signé à Ottawa, Canada, ce 16e jour de juin 2003.
+« Campbell J. Miller »
+J.C.C.I.
+Traduction certifié conforme
+ce 1er jour d'octobre 2003.
+Mario Lagacé, réviseur
+[1] 65 A.R. 84.

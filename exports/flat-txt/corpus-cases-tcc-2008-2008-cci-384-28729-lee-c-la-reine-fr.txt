@@ -1,0 +1,229 @@
+Title: Lee c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28729/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-384-28729-lee-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-06-19
+
+# Lee c. La Reine
+
+- Citation: 2008 CCI 384
+- Decision date: 2008-06-19
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1452, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lee c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-06-19
+Référence neutre
+2008 CCI 384
+Numéro de dossier
+2007-4558(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-4558(IT)I
+ENTRE :
+MICHAEL B. LEE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appels entendus le 29 mai 2008
+à Dieppe (Moncton) (Nouveau‑Brunswick).
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocate de l’intimée :
+Me Lindsay D. Holland
+____________________________________________________________________
+JUGEMENT
+Les appels interjetés à l’encontre des nouvelles cotisations établies en vertu de la Loi de l’impôt sur le revenu (la « Loi ») pour les années d’imposition 2002, 2003 et 2004 sont accueillis, avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelant a le droit de déduire les montants suivants pour les assurances, les intérêts, les impôts fonciers et les services publics dans le calcul de son revenu pour les années 2002, 2003 et 2004 aux fins de la Loi :
+Année
+Déduction permise
+2002
+2 181,66 $
+2003
+4 406,32 $
+2004
+17 365,74 $
+Signé à Ottawa (Ontario), ce 19e jour de juin 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 5e jour de septembre 2008.
+Aleksandra Koziorowska, LL.B.
+Référence : 2008CCI384
+Date : 20080619
+Dossier : 2007-4558(IT)I
+ENTRE :
+MICHAEL B. LEE,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La principale question en litige en l’espèce consiste à savoir quand le bâtiment que l’appelant a commencé à construire en 2003 pour y habiter en plus d’y exploiter un gîte touristique a été effectivement terminé aux fins du paragraphe 18(3.3) de la Loi de l’impôt sur le revenu (la « Loi »). Un autre point en litige concerne certains honoraires professionnels qui ont été déduits dans le calcul du revenu de l’appelant pour 2002 et 2003.
+[2] L’appelant a acheté trois maisons à étage à deux vendeurs différents en 2002. Ces maisons portent, depuis la renumérotation des adresses par la municipalité, les adresses suivantes : 5, chemin Points, 11, chemin Points et 15, chemin Points, à Grand Bay (Nouveau‑Brunswick). La maison située au 5, chemin Points n’était pas en bon état et elle a été démolie. L’appelant a déplacé la maison située au 15, chemin Points au 5, chemin Points et a construit un nouveau bâtiment au 15, chemin Points, constituant en partie sa résidence et en partie un gîte touristique. La maison située au 5, chemin Points (après le déplacement de la maison située au 15, chemin Points) et celle située au 11, chemin Points ont été achetées en vue de les louer. Pendant les années visées par le présent appel, l’appelant n’a tiré aucun revenu de la location des maisons situées au 5, chemin Points ou au 11, chemin Points, ni de l’exploitation du gîte touristique.
+[3] L’appelant a déduit différentes dépenses relatives à ces bâtiments dans ses déclarations de revenus pour 2002, 2003 et 2004. Toutes ces déductions ont été refusées par l’Agence du revenu du Canada. L’appelant a décidé d’interjeter appel seulement de la décision de refuser les déductions des sommes relatives aux assurances, aux intérêts, aux impôts fonciers, aux services publics et aux honoraires professionnels. Par conséquent, la seule question en litige à l’audience consistait à savoir si ces sommes étaient déductibles dans les années en cause comme l’appelant le prétend. L’intimée et l’appelant sont parvenus à un accord au cours de l’audience relativement aux sommes dépensées à des fins commerciales, et l’intimée n’a pas contesté le fait que ces sommes, sur lesquelles les parties se sont entendues, avaient été dépensées à des fins commerciales. Elle a, par contre, contesté la déductibilité de ces montants dans les années en cause. Selon elle, les sommes dépensées pour les assurances, les intérêts, les impôts fonciers et les services publics (les « frais accessoires ») l’ont été pendant la période de construction, de rénovation ou de transformation des bâtiments, de sorte qu’elles devraient être ajoutées au coût des bâtiments suivant le paragraphe 18(3.1) de la Loi, étant donné qu’aucun revenu de location n’a été gagné pendant ces années. Pour ce qui est des honoraires professionnels, l’intimée a fait valoir que ceux qui avaient été engagés en 2002 se rapportaient à l’acquisition des biens et que ceux engagés en 2003 étaient des coûts attribuables à la période de construction, de rénovation ou de transformation des bâtiments.
+[4] Comme il a été mentionné précédemment, l’appelant et l’intimée sont parvenus, à l’audience, à un accord sur la fraction des dépenses qui avaient un caractère commercial. Comme une partie du bâtiment qui a été construit au 15, chemin Points constitue la résidence de l’appelant et de son épouse, il fallait décider quelle partie des dépenses avaient été engagées à des fins commerciales et quelle partie étaient des dépenses personnelles. L’appelant et l’intimée se sont entendus sur les montants suivants pour ce qui est des dépenses faites à des fins commerciales :
+2002
+2003
+2004
+Assurances
+1 538,00 $
+1 572,00 $
+1 717,50 $
+Intérêts
+2 810,00 $
+2 769,53 $
+10 432,50 $
+Impôts fonciers
+1 770,55 $
+1 515,70 $
+3 868,40 $
+Services publics
+426,44 $
+1 516,57 $
+1 347,34 $
+Honoraires professionnels
+11 912,68 $
+902,00 $
+0
+[5] L’appelant a indiqué que les travaux qui ont été effectués à la maison située au 11, chemin Points étaient surtout des réparations et des travaux mineurs qui devaient être faits à cette maison. L’avocate de l’intimée a reconnu à l’audience que les travaux qui avaient été effectués à la maison située au 11, chemin Points ne constituaient pas des travaux de construction, de rénovation ou de transformation. Les restrictions prévues au paragraphe 18(3.1) de la Loi ne s’appliquent donc pas à cette maison.
+[6] En ce qui concerne la maison située au 15, chemin Points qui a été déplacée au 5, chemin Points, l’appelant avait affirmé que la transformation de la maison était terminée en avril 2003. L’avocate de l’intimée a convenu à l’audience que c’est cette date qui devait être utilisée pour cette maison aux fins des paragraphes 18(3.1) et (3.3) de la Loi.
+[7] Par conséquent, la question qui se pose relativement aux paragraphes 18(3.1) et (3.3) de la Loi consiste à savoir quand la construction du gîte touristique situé au 15, chemin Points a été effectivement terminée.
+[8] Le paragraphe 18(3.3) de la Loi prévoit ce qui suit :
+(3.3) Pour l’application du paragraphe (3.1), la construction, la rénovation ou la transformation d’un bâtiment est terminée au premier en date des jours suivants : le jour où la construction, la rénovation ou la transformation est effectivement terminée et le jour où la totalité, ou presque, du bâtiment est utilisée aux fins auxquelles il a été construit, rénové ou transformé.
+[9] Il y a deux dates auxquelles on peut considérer que la construction est terminée : la date à laquelle la construction est effectivement terminée et la date à laquelle la totalité, ou presque, du bâtiment est utilisée aux fins auxquelles il a été construit, rénové ou transformé. Comme la partie du bâtiment devant servir de gîte touristique n’a pas du tout été utilisée à cette fin pendant les années visées par les présents appels, la seule question qui se pose en l’espèce consiste à savoir si la construction du bâtiment a été effectivement terminée au cours de ces années et, le cas échéant, à quelle date.
+[10] L’appelant fait valoir que le bâtiment a été terminé en juillet 2003. Il a produit une copie du certificat de garantie d’Atlantic Home Warranty, selon lequel il avait pris possession du bien le 23 août 2003. L’appelant a affirmé que ce certificat avait été délivré après que la construction avait été terminée et que différentes inspections avaient été effectuées.
+[11] L’avocate de l’intimée a soutenu que, s’il restait des travaux à effectuer au gîte touristique, alors la construction n’était pas effectivement terminée. Or, une telle affirmation pourrait signifier qu’aucun bâtiment ne pourrait jamais être considéré comme étant effectivement terminé puisque l’on pourrait toujours trouver des défauts mineurs ou des petites choses qui n’ont pas été faites au moment de la construction.
+[12] En l’espèce, l’appelant a reconnu qu’il a dépensé des sommes importantes pour la peinture du gîte touristique, notamment l’extérieur du bâtiment qui était couvert de bardeaux de cèdre, après avoir reçu le certificat de garantie pour nouvelle maison. Les frais de main‑d’œuvre suivants ont été engagés pour la peinture de ce bien :
+Date
+Montant
+29 sept. 2003
+1 000 $
+30 sept. 2003
+1 500 $
+10 oct. 2003
+1 825 $
+17 oct. 2003
+2 480 $
+22 oct. 2003
+899 $
+10 nov. 2003
+372 $
+Total
+8 076 $
+[13] Ces frais de main‑d’œuvre engagés pour la peinture d’une maison qui, selon l’appelant, a été effectivement terminée en juillet 2003 sont élevés. Il ne me semble pas que l’on puisse considérer que cette maison a été effectivement terminée en juillet 2003 vu que l’appelant a dépensé plus de 8 000 $ en frais de main‑d’œuvre (sans compter les fournitures) pour la peinture de la maison à l’automne 2003.
+[14] Le montant des honoraires d’architecte engagés en 2004 relativement à l’escalier et au foyer était également contesté. Aucune preuve ne permettait cependant de savoir quel travail avait été effectivement fait à cet égard. Le seul élément de preuve fourni indiquait qu’une somme avait été dépensée en 2004 pour des honoraires d’architecte relativement à des modifications à la forme de l’escalier et du foyer. Il semble logique de conclure que l’escalier et le foyer devaient exister avant que l’appelant et son épouse déménagent dans la maison et avant que le certificat de garantie pour nouvelle maison soit délivré. Il devait donc s’agir de travaux qui auraient été effectués pour modifier ces éléments. La seule hypothèse formulée à ce sujet par l’intimée dans sa réponse se trouve à l’alinéa 23m) :
+[TRADUCTION]
+23. Le ministre s’est fondé sur les hypothèses de fait suivantes lorsqu’il a établi l’obligation fiscale de l’appelant pour les années d’imposition 2002, 2003 et 2004 (la « période en question ») :
+[…]
+m) les rénovations effectuées aux maisons situées au 5 et au 11, chemin Points et la construction de la maison située au 15, chemin Points étaient en cours pendant la période en question.
+[15] L’avocate de l’intimée a interrogé l’appelant au sujet des honoraires d’architecte. L’appelant a répondu que ceux‑ci avaient trait à l’escalier et au foyer. L’avocate de l’intimée n’a toutefois pas cherché à savoir quels travaux avaient été effectués relativement à l’escalier et au foyer en 2004, et elle n’a produit aucun autre élément de preuve concernant cette question. Comme aucune hypothèse n’a été formulée au sujet de travaux effectués en 2004, il incombait à l’intimée de démontrer que de tels travaux avaient été effectués en 2004 relativement à l’escalier et au foyer si elle voulait faire valoir que des travaux de transformation avaient été effectués en 2004.
+[16] Dans l’arrêt Loewen, 2004 CAF 146, la juge Sharlow a fait les remarques suivantes au nom de la Cour d’appel fédérale :
+[11] Les contraintes imposées au ministre lorsqu’il invoque des hypothèses n’empêchent cependant pas Sa Majesté de soulever, ailleurs dans la réponse, des allégations de fait et des moyens de droit qui sont étrangers au fondement de la cotisation. Si Sa Majesté allègue un fait qui ne fait pas partie des faits présumés par le ministre, la charge de la preuve repose sur elle. Ce principe est bien expliqué
+dans la décision Schultz c. Canada, [1996] 1 C.F. 423, [1996] 2 C.T.C. 127, 95 D.T.C. 5657 (C.A.F.) (autorisation d’appel refusée [1996] A.C.S.C. no 4).
+[Non souligné dans l’original.]
+[17] L’autorisation d’interjeter appel devant la Cour suprême du Canada de l’arrêt rendu par la Cour d’appel fédérale dans Loewen a été refusée (338 N.R. 195 (note)).
+[18] Ne disposant d’aucune preuve concernant les travaux qui ont été effectivement exécutés en 2004 relativement à l’escalier et au foyer, je conclus, suivant la prépondérance des probabilités, que l’escalier et le foyer ont été terminés avant août 2003 et qu’aucune rénovation ou transformation n’a eu lieu en 2004.
+[19] La seule autre preuve que des travaux ont été effectués sur cette propriété après juillet 2003 démontrait que des travaux avaient été réalisés dans le vide sanitaire, sous le bâtiment. Selon l’appelant, ces travaux avaient été effectués parce que l’isolation ne demeurait pas en place. Il s’agissait de réparations et non de construction, de transformation ou de rénovation. Une maison peut être terminée sans que le vide sanitaire ne le soit.
+[20] En conséquence, j’estime que la construction du bâtiment situé au 15, chemin Points (la résidence personnelle et le gîte touristique) était effectivement terminée à la mi‑novembre 2003, lorsque la dernière partie des frais de main‑d’œuvre se rapportant à la peinture du bâtiment a été engagée. Comme il n’y avait aucune preuve relativement à la date à laquelle la peinture a été effectivement terminée, la date du 15 novembre 2003 sera considérée comme la date à laquelle les travaux ont été terminés car elle tombe cinq jours après la date du dernier paiement de 372 $ se rapportant à la main‑d’œuvre, laissant assez de temps pour terminer la peinture, même si les frais de main‑d’œuvre ont été payés à l’avance.
+[21] L’appelant a affirmé que le prix d’achat initial des biens de 150 000 $ environ a été réparti également entre les trois maisons. Pour calculer le montant des frais accessoires qui ont été engagés en 2002 et en 2003 et qui peuvent être déduits, ces frais seront répartis également entre les trois maisons et calculés au prorata en fonction de la date à laquelle les travaux ont été terminés pour chacune des maisons.
+[22] Le tableau qui suit montre le montant total des frais accessoires qui ont été engagés à des fins commerciales en 2002, en 2003 et en 2004 :
+2002
+2003
+2004
+Assurances
+1 538,00 $
+1 572,00 $
+1 717,50 $
+Intérêts
+2 810,00 $
+2 769,53 $
+10 432,50 $
+Impôts fonciers
+1 770,55 $
+1 515,70 $
+3 868,40 $
+Services publics
+426,44 $
+1 516,57 $
+1 347,34 $
+Total
+6 544,99 $
+7 373,80 $
+17 365,74 $
+Frais accessoires – 2002
+[23] L’avocate de l’intimée a fait valoir que les impôts fonciers pour 2002, qui ont été payés à la clôture de la vente des biens, devaient être ajoutés au coût des biens parce qu’il s’agit de frais engagés pour les acquérir. Il ressort cependant clairement des rajustements de clôture que les impôts fonciers qui ont été payés à la clôture étaient simplement un rajustement visant à rembourser au vendeur les impôts fonciers qu’il avait payés relativement à la période postérieure à la clôture. Par conséquent, le montant après rajustement des impôts fonciers qui a été payé au moment de la clôture devrait être traité de la même façon que s’il avait été payé à la municipalité.
+[24] Étant donné que la maison située au 11, chemin Points n’a pas été construite, rénovée ou transformée et que les transformations effectuées à la maison située au 5, chemin Points et la construction du bâtiment situé au 15, chemin Points n’ont été terminées qu’après 2002, un tiers des frais accessoires engagés en 2002 sera déductible pour cette année (1/3 x 6 544,99 $ = 2 181,66 $).
+Frais accessoires – 2003
+[25] Si l’on répartit également entre les maisons les frais accessoires engagés en 2003, un montant de 2 457,93 $ (1/3 x 7 373,80 $) est attribué à chacune.
+[26] Comme la maison située au 11, chemin Points n’a pas été construite, rénovée ou transformée, le montant total des frais accessoires engagés en 2003 et attribués à cette maison (2 457,93 $) pourra être déduit dans le calcul du revenu de l’appelant pour 2003.
+[27] Comme la transformation de la maison déplacée au 5, chemin Points était terminée à la fin d’avril 2003, deux tiers du montant des frais accessoires attribués à ce bâtiment pour 2003 (2/3 x 2 457,93 $ = 1 638,62 $) pourront être déduits dans le calcul du revenu de l’appelant pour 2003.
+[28] Étant donné que la construction de la maison située au 15, chemin Points était effectivement terminée le 15 novembre 2003 et qu’il restait 46 jours à l’année 2003 après cette date, le montant des frais accessoires attribués à ce bâtiment pour 2003 qui pourra être déduit dans le calcul du revenu de l’appelant pour 2003 est le suivant :
+46 / 365 x 2 457,93 $ = 309,77 $
+[29] Le montant total des frais accessoires qui pourra être déduit dans le calcul du revenu de l’appelant pour 2003 sera donc :
+Maison
+Déduction permise
+11, chemin Points
+2 457,93 $
+5, chemin Points
+1 638,62 $
+15, chemin Points
+309,77 $
+Total
+4 406,32 $
+Frais accessoires – 2004
+[30] Comme la maison située au 11, chemin Points n’a pas été construite, rénovée ou transformée et que la transformation de la maison située au 5, chemin Points et la construction du bâtiment situé au 15, chemin Points ont été terminées avant 2004, le montant des frais accessoires qui pourra être déduit dans le calcul du revenu de l’appelant pour 2004 sera de 17 365,74 $.
+Honoraires professionnels
+[31] Les honoraires professionnels engagés en 2002 avaient trait à l’acquisition des maisons. Ces honoraires, qui incluaient les honoraires de l’arpenteur, la commission de l’agent immobilier et les honoraires d’avocat, devraient être répartis entre le fonds de terre et les bâtiments et être ajoutés au prix de base rajusté et au coût en capital du fonds de terre et des bâtiments et ne seraient pas déductibles à titre de dépenses courantes en 2002.
+[32] En ce qui concerne les honoraires professionnels engagés en 2003, ils totalisaient 1 803,23 $. L’appelant et l’intimée se sont entendus sur le fait que la fraction de ces honoraires qui avait été engagée à des fins commerciales était de 902 $, soit les honoraires de l’arpenteur et de l’avocat. L’appelant a indiqué que ces honoraires avaient trait au refinancement des propriétés. Plus de 95 % de ces honoraires ont été engagés en juillet 2003 (et la totalité avant la fin de septembre 2003) et, comme la moitié du montant total des honoraires professionnels engagés en 2003 était, selon les parties, des dépenses personnelles, il semble logique de supposer que le refinancement avait trait à la construction du bâtiment situé au 15, chemin Points – où se trouvait notamment la résidence principale de l’appelant – qui, selon lui, a été terminée en juillet 2003. J’estime que les honoraires professionnels engagés en 2003 étaient attribuables à la période de construction du bâtiment situé au 15, chemin Points et qu’ils ne sont donc pas déductibles en 2003 en raison des dispositions du paragraphe 18(3.1) de la Loi.
+[33] Par conséquent, l’appel est accueilli, avec dépens, et l’affaire est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et établisse de nouvelles cotisations en tenant compte du fait que l’appelant a le droit de déduire les frais accessoires suivants dans le calcul de son revenu pour les années 2002, 2003 et 2004 aux fins de la Loi :
+Année
+Déduction permise
+2002
+2 181,66 $
+2003
+4 406,32 $
+2004
+17 365,74 $
+Signé à Ottawa (Ontario), ce 19e jour de juin 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 5e jour de septembre 2008.
+Aleksandra Koziorowska, LL.B.
+RÉFÉRENCE : 2008CCI384
+NO DU DOSSIER DE LA COUR : 2007-4558(IT)I
+INTITULÉ : Michael B. Lee et Sa Majesté la Reine
+LIEU DE L’AUDIENCE : Dieppe (Moncton) (Nouveau-Brunswick)
+DATE DE L’AUDIENCE : Le 29 mai 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 19 juin 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Lindsay D. Holland
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

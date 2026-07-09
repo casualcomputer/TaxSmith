@@ -1,0 +1,159 @@
+Title: Windsor Clinical Research Inc. v. The King
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521203/index.do
+Corpus path: corpus/cases/tcc/2023/2023-tcc-179-521203-windsor-clinical-research-inc-v-the-king-en.md
+Document type: case_law
+Last modified: 2023-12-22
+
+# Windsor Clinical Research Inc. v. The King
+
+- Citation: 2023 TCC 179
+- Decision date: 2023-12-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5670, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Windsor Clinical Research Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-12-22
+Neutral citation
+2023 TCC 179
+File numbers
+2021-742(IT)G
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2021-742(IT)G
+2021-1678(IT)G
+BETWEEN:
+WINDSOR CLINICAL RESEARCH INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Motion in Writing
+Before: The Honourable Justice G. Jorré, Deputy Judge
+Submissions by:
+Counsel for the Appellant:
+Christopher R. Mostovac
+Counsel for the Respondent:
+Julien Dubé-Senécal
+ORDER
+Having reviewed the materials filed by the parties, in accordance with the attached reasons for order;
+IT is ordered that:
+The Respondent may file the Amended Replies to the Notices of Appeal filed with its Motion Records in appeals 2021-742(IT)G & 2021-1678(IT)G.
+Costs in respect of the Motions will be in the cause.
+Signed at Ottawa, Canada, this 22nd day of December 2023.
+“G. Jorré”
+Jorré D.J.
+Citation: 2023 TCC 179
+Date: 20231222
+Docket: 2021-742(IT)G
+2021-1678(IT)G
+BETWEEN:
+WINDSOR CLINICAL RESEARCH INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR ORDER
+Jorré J.
+I. Introduction
+[1] The Respondent has filed motions for an order granting leave of the Court to file the Amended Replies to the Notices of Appeal in each of these appeals, pursuant to section 54 of the Rules.
+[2] The Appellant opposes the amendment.
+[3] In the two years under appeal, the appellant filed its tax returns on the basis that certain projects that it carried out qualified as scientific research and experimental development for the purposes of the Income Tax Act.
+[4] The Canada revenue agency assessed the appellant on the basis that certain of the claimed projects, or parts of the projects, did not qualify as scientific research and experimental development because they did not meet the requirements of the definition of “scientific research and experimental development” contained in subsection 248(1) of the Income Tax Act.
+[5] The proposed amendments in respect of the 2017 year appeal add some factual allegations at proposed paragraph 28: i) that, with respect to second part of part of Project 1 and with respect to Project 5, the work conducted was in the field of psychology rather than dermatology and ii) that the work was not completed in support of research in dermatology.
+[6] In the grounds relied on section (Part C) of the proposed amended reply there are corresponding amendments adding submissions relating to the additional factual allegations and the definition of scientific research and experimental development in subsection 248(1) of the Act.
+[7] The proposed amendments in respect of the 2019 taxation year are not substantially different in any respect that matters for the purpose of the motion. The analysis below is equally applicable to both appeals.
+II. Analysis (a) General Civil Litigation Considerations [8] There are two aspects to these motions.
+[9] The first relates to the question: when in civil litigation is it appropriate to allow an amendment? This first issue was not raised by the appellant in opposition to the motion and so I will deal with it very briefly.
+[10] The principle is summarized in the following quotation from the decision of the Federal Court of Appeal in Canada v. Pomeroy Acquireco Ltd:[1]
+[…] The controlling principle is that an amendment should be allowed at any stage of an action if it assists in determining the real questions in controversy between the parties, provided it would not result in an injustice not compensable in costs and that it would serve the interests of justice. A court should give significant consideration to amendments which further the ability of the trial court to determine the questions in controversy … (Citations omitted.)
+[11] Parties must also comply with the Rules of Court.
+[12] The Appellant, apart from opposing the amendment, is not seeking any alternative remedy such as further discovery, if the motion is allowed.[2]
+[13] In terms of this first question there is no injustice or prejudice to the Appellant. The amendments allow fuller examination of the controversy.
+(b) Tax Litigation Considerations
+[14] This second aspect is this: are there specific tax litigation considerations limiting how the Respondent may defend an appeal? Considerations that may constrain amendments that are otherwise permissible under the general rules of civil litigation.
+[15] The essence of the Appellant’s objection to the amendments is that they would deprive the Appellant of its right to rely on the specific approach taken by the auditors and appeal officers.[3]
+[16] Among other things, in its submissions the Respondent invoked subsection 152(9) of the Income Tax Act. I shall come back to that subsection. There are other matters that must be considered first.
+[17] I do not agree with the Appellant.
+[18] It is well established that on an appeal from an assessment there is a normal trial of the issues. The hearing in this court is not some form of judicial review.
+[19] It is also clear that the ultimate issue on an appeal is: whether the amount of tax is too high, not the process or reasoning by which it was reached?[4] It is also well settled that the Court can not increase the amount of tax assessed.
+[20] Logically, it follows from this that neither party is bound by their approach prior to the court appeal.[5]
+[21] Some decades ago, it may have been that straightforward.
+[22] With one exception I will come to below, this is true for Appellants. Subject to the general civil litigation considerations, they may raise new arguments and new issues not raised previously.
+[23] The exception is with respect to “large corporations” as defined in the Income Tax Act.[6]
+[24] With respect to the Respondent, limitations on what arguments and issues may be raised emerged from a number of court decisions. Notably, the Supreme Court of Canada said in Continental Bank of Canada that: “… The Crown is not permitted to advance a new basis for reassessment after the limitation period has expired. …”[7]
+[25] The Canadian Oxford English Dictionary, Second Edition 2004, defines basis as follows:
+the foundation or support of something, esp. an idea or argument.
+the main or determining principle or ingredient …
+the starting point of a discussion.
+[26] Similarly in Okanagan College Faculty Association v. Okanagan College (2013 BCCA 561 (CanLII) at paragraph 43) the British Columbia Court of Appeal in discussing the meaning of “basis of the decision or award” of an arbitration board under the Labour Relations Code states:
+“… In other words, “the basis” of the award must mean the “main constituent”, not necessarily “every constituent” (at 298). …”
+[27] I am not aware of a definition of “basis” in the context of income tax. However, while the context of the decision is somewhat different, given that the basis of the assessment limitation set out in Continental Bank stems from the limitation period for reassessing, the following comments of Rivoalen J.A. in Viterra Inc. v. Canada (2019 FCA 55 (CanLII) at paragraph 21) are relevant:
+As concerns the second issue, that being whether the Judge erred in law in his interpretation of the Minister’s reassessing powers when considering an objection under the Excise Tax Act, the Judge made no order to this effect. Rather, the Judge undertook an analysis of subsection 298(3) of the Excise Tax Act and concluded that, although the wording is different than the wording of subsection 165(5) of the Income Tax Act, R.S.C. 1985, c.1 (5th Supp.) Parliament’s intention is the same in both cases; that is, that the Minister cannot, after the expiry of the assessment period, increase the net tax of the registrant or take into account different transactions [than] the ones that formed the basis of the assessment that was made within the statutory reassessment period.
+[28] In this case, based on the pleadings, the foundation or main constitution element of the assessment is that certain activities do not constitute scientific research or experimental development within the meaning of the Income Tax Act. The proposed amendments involve adding factual allegations in support of that. The proposed amendments do not constitute a new or additional basis of assessment.
+[29] As a result there is no need to turn to subsection 152(9) of the Income Tax Act.[8]
+III. Conclusion [30] Accordingly, the Amendments will be allowed.[9]
+Signed at Ottawa, Canada, this 22nd day of December 2023.
+“G. Jorré”
+Jorré D.J.
+CITATION:
+2023 TCC 179
+COURT FILE NO.:
+2021-742(IT)G
+2021-1678(IT)G
+STYLE OF CAUSE:
+WINDSOR CLINICAL RESEARCH INC. AND HIS MAJESTY THE KING
+REASONS FOR ORDER BY:
+The Honourable Justice Gaston Jorré, Deputy Judge
+MOTION MATERIAL RECEIVED BY JUDGE:
+June 26, 2023
+DATE OF ORDER:
+SUBMISSIONS BY:
+December 22, 2023
+Counsel for the Appellant:
+Christopher R. Mostovac
+Counsel for the Respondent:
+Julien Dubé-Senécal
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Christopher R. Mostovac
+Firm:
+Starnino Mostovac
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] 2021 FCA 187 see especially paragraphs 2, 4, 13, and 14. See also Chad v. Queen 2022 TCC 18 at paragraphs 6 to 13.
+[2] A trial date has been set in October 2024.
+[3] See paragraphs 16 to 20 of the Appellant’s Written Representations in 2021-1678(IT)G which read as follows:
+16. The amendments are proposed by the Respondent as a new alternative to an existing position.
+17. To grant the amendments at this stage would be contrary to the interests of justice as it allows the Respondent to circumvent the normal tax audit process and act in contradiction of the previous decisions rendered by the CRA itself.
+18. The respondent’s new position prevents a taxpayer from making any argument on this issue during the audit and objection process.
+19. By allowing the Respondent to make new arguments, just before the fixing the trial, on the basis of information known to the CRA since the audit prevents the taxpayer from relying on the conformity of the arguments contained in the decisions of auditors.
+20. The role of the Respondent should not be to change or reinforce his file in order to win at all cost, but should be to reflect the decision made previously by tax authorities based on the available information or Taxpayers can no longer rely on the system.
+The Appellant’s Written Representations in 2021-742(IT)G are substantially the same.
+[4] See, for example, the comments of Associate Chief Justice Christie in Hagedorn (E.) v. Canada, 1993 CanLII 17446 (TCC); [1993] 2 CTC 3141 at pages 3144 and 3145:
+When the appellant appealed the reassessment of October 16, 1989, to this Court regarding his 1988 taxation year, what was subject to being appealed has been described by judicial authority in different words but, in my opinion, the substance of the language employed is the same. What is open on an appeal to this Court is the result of an assessment, not the process or reasoning by which it was arrived at. In Vineland Quarries and Crushed Stone Ltd. v. M.N.R., [1970] C.T.C. 12, 70 D.T.C. 6043 (Ex. Ct.), Cattanach, J. said at pages 15-16 (D.T.C. 6045):
+As I understand the basis of an appeal from an assessment by the Minister, it is an appeal against the amount of the assessment.
+In Harris v. M.N.R., [1964] C.T.C. 562, 64 D.T.C. 5332 (Ex. Ct.), my brother Thurlow said at page 571 (D.T.C. 5337):
+On a taxpayer's appeal to the Court the matter for determination is basically whether the assessment is too high. This may depend on what deductions are allowable in computing income and what are not but as I see it the determination of these questions is involved only for the purpose of reaching a conclusion on the basic question....
+In Midwest Oil Production Ltd. v. The Queen, [1982] C.T.C. 107, 82 D.T.C. 6092 (F.C.T.D.), Mr. Justice Mahoney said at page 110 (D.T.C. 6094-95): "It is to be emphasized that it is the Minister's assessment, not his reasons for it, that is the subject matter of the appeal." On appeal to the Federal Court of Appeal ([1983] C.T.C. 338, 83 D.T.C. 5304 at page 338 (D.T.C. 5304)), Mr. Justice Ryan speaking for the Court said: "I agree with the reasons for judgment of the learned trial judge and, accordingly, I would dismiss the appeal with costs." Leave to appeal to the Supreme Court of Canada was refused on November24, 1983: [1983] 2 S.C.R. x, 52 N.R. 313.
+In The Queen v. Consumers' Gas Co., [1987] 1 C.T.C. 79, 87 D.T.C. 5008 (F.C.A.), Mr. Justice Hugessen, speaking for the Court, said at pages 83-84 (D.T.C. 5012):
+What is put in issue on appeal to the courts under the Income Tax Act is the Minister's assessment. While the word "assessment" can bear two constructions, as being either the process by which tax is assessed or the product of that assessment, it seems to me clear, from a reading of sections 152 to 177 of the Income Tax Act, that the word is there employed in the second sense only. This conclusion flows in particular from subsection 165(1) and from the well established principle that a taxpayer can neither object to nor appeal from a nil assessment.
+[5] TransCanada Pipelines Ltd. v. MNR, 2001 FCA 314. (CanLII)
+[6] See, inter alia, subsections 165(1.11), 169(2.1) and 225.1(8).
+[7] See the Judgment of Justice Bastarache in Continental Bank of Canada v. Canada, 1998 CanLII 795 (SCC), [1998] 2 SCR 358 at paragraph 10. In French the sentence reads: “La Couronne n’est pas autorisée à invoquer un nouveau fondement pour justifier une nouvelle cotisation après l’expiration du délai prévu à cette fin.” See also the Judgment of Justice McLachlin, as she then was, at the end of paragraph 18. It is clear that including a new transaction not part of the assessment in issue after the limitation period would also constitute a new basis
+[8] Subsection 152(9) of the Act was enacted in response to Continental Bank and subsequently further amended. In this case, there is no need to consider its scope although on its current wording it appears to be quite wide. It currently reads as follows:
+At any time after the normal reassessment period, the Minister may advance an alternative basis or argument — including that all or any portion of the income to which an amount relates was from a different source — in support of all or any portion of the total amount determined on assessment to be payable or remittable by a taxpayer under this Act unless, on an appeal under this Act
+(a) there is relevant evidence that the taxpayer is no longer able to adduce without the leave of the court; and
+(b) it is not appropriate in the circumstances for the court to order that the evidence be adduced.
+[9] In argument the Appellant also takes the position the proposed paragraph 26(bb) constitutes legal statements or conclusions and should be struck; in support, the Appellant cites Anchor Pointe Energy Ltd. V. R. 2003 FCA 294 at para. 13. The only remedy sought is for the Respondent’s motion to be struck and nothing else in the alternative. However, proposed paragraph 26(bb) is framed as an allegation and not an assumption; the opening words of 26 are “In addition to the assumptions of fact stated above, the AGC states the following:” (Emphasis added.) Such an allegation does not cast an initial onus on the Appellant. There is no reason to strike the paragraph.

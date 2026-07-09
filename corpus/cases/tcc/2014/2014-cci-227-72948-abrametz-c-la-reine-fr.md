@@ -1,0 +1,242 @@
+---
+title: "Abrametz c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72948/index.do"
+last_modified: "2014-07-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 227"
+citation2: ""
+neutral_citation: "2014 CCI 227"
+decision_date: "2014-07-17"
+language: "fr"
+item_id: "72948"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5364
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:49:20.330000+00:00"
+cases_cited_count: 5
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0ba607798b98b49eecdd8a88cbb561b99be14fe38b2e0978f10c2b21ff096922"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Abrametz c. La Reine
+
+- Citation: 2014 CCI 227
+- Decision date: 2014-07-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5364, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Abrametz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-07-17
+Référence neutre
+2014 CCI 227
+Numéro de dossier
+2012-1470(GST)G
+Juges et Officiers taxateurs
+David E. Graham
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-1470(GST)G
+ENTRE :
+PETER V. ABRAMETZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête de l’intimée jugée sur la foi d’observations écrites.
+Devant : L’honorable juge David E. Graham
+Participants :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Ainslie Schroeder
+ORDONNANCE
+Les paragraphes 8, 9, 14, 16 et 17, ainsi que les alinéas 13i) et 13iv) de l’avis d’appel sont radiés.
+La Cour tire les conclusions suivantes sur les questions de droit :
+a) le ministre du Revenu national n’est pas tenu de remplir les conditions préalables énoncées au paragraphe 323(2) de la Loi sur la taxe d’accise avant d’établir, en vertu du paragraphe 323(4), une nouvelle cotisation ordonnée par la cour;
+b) compte tenu du paragraphe 323(4), l’alinéa 298(3)a) de la Loi sur la taxe d’accise a pour effet d’empêcher le délai de prescription de deux ans fixé au paragraphe 323(5) de s’appliquer à une nouvelle cotisation établie en vertu du paragraphe 323(4) à la suite d’une ordonnance judiciaire;
+c) la Cour n’a pas compétence pour trancher la question de savoir si la somme qu’un administrateur est tenu de payer au titre du paragraphe 323(1) a été réduite compte tenu du fait que la dette de la personne morale concernée au titre de la TPS a été payée, en totalité ou en partie, par cet administrateur ou toute autre personne, directement ou indirectement, selon quelque méthode que ce soit et à quelque moment que ce soit.
+La Cour tient pour avéré que le ministre a établi la nouvelle cotisation à l’encontre de M. Abrametz en se conformant à l’arrêt de la Cour d’appel fédérale Abrametz c. La Reine, 2009 CAF 70.
+La requête de l’intimée en rejet de l’appel est rejetée.
+Les dépens sont accordés à l’intimée en ce qui concerne la présente requête. Les parties sont invitées à s’accorder sur le montant des dépens. À défaut d’accord, elles auront 60 jours à compter de la date de la présente ordonnance pour présenter des observations sur les dépens.
+Signé à Toronto (Ontario), ce 17e jour de juillet 2014.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 24e jour d’octobre 2014.
+Mario Lagacé, jurilinguiste
+Référence : 2014 CCI 227
+Date : 20140717
+Dossier : 2012-1470(GST)G
+ENTRE :
+PETER V. ABRAMETZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Graham
+[1] Une cotisation a été établie au titre du paragraphe 323(1) de la Loi sur la taxe d’accise (la « LTA ») à l’encontre de Peter Abrametz, en sa qualité d’unique administrateur de la société Mada Construction Company Ltd., pour la TPS, les intérêts et les pénalités impayés de Mada (la « cotisation initiale »). M. Abrametz a interjeté appel contre la cotisation initiale devant la Cour. Son seul moyen d’appel était le fait que la somme sous-jacente comprenant la TPS, les intérêts et les pénalités censément dus par Mada avait été calculée de manière inexacte par le ministre du Revenu national. La juge Sheridan a rejeté l’appel de M. Abrametz[1]. M. Abrametz a fait appel de ce rejet devant la Cour d’appel fédérale. Son appel a été accueilli, et l’affaire a été renvoyée au ministre, pour nouvelle cotisation, étant donné que six montants totalisant 166 250 $ « étaient des emprunts et des virements inter-comptes, qui n’auraient pas dû être assujettis à la TPS[2] ». Ni l’intimée ni M. Abrametz n’ont fait appel de la décision de la Cour d’appel fédérale. Le ministre a établi une nouvelle cotisation à l’égard de M. Abrametz, dans l’intention d’exécuter la décision de la Cour d’appel fédérale (la « nouvelle cotisation subséquente »). M. Abrametz fait maintenant appel de la nouvelle cotisation subséquente devant la Cour.
+[2] L’intimée voudrait que soit rendue, en vertu de l’article 53 des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »), une ordonnance radiant les paragraphes 8, 9, 14, 16 et 17, ainsi que les alinéas 13i) et 13iv) de l’avis d’appel, compte tenu du fait que M. Abrametz ne peut pas prétendre que la cotisation sous-jacente établie à l’égard de Mada était inexacte, qu’il a exercé une diligence raisonnable ou que les conditions préalables prévues au paragraphe 323(2) de la LTA n’étaient pas remplies lors de l’établissement de la cotisation initiale. Subsidiairement, l’intimée voudrait que soit rendue une ordonnance radiant ces paragraphes et alinéas, compte tenu du fait que le fait d’autoriser M. Abrametz à avancer de telles prétentions constituerait un abus de procédure.
+[3] L’intimée voudrait aussi que, en application de l’alinéa 58(1)a) des Règles, les décisions suivantes soient rendues[3] :
+a) le ministre n’était pas tenu de répéter les étapes contenues dans l’article 323 quand il a établi la nouvelle cotisation subséquente;
+b) la nouvelle cotisation subséquente apportait les changements ordonnés par la Cour d’appel fédérale;
+c) les points soulevés par M. Abrametz concernant le paiement de sa dette fiscale ou de celle de Mada échappent à la compétence de la Cour.
+[4] L’intimée voudrait aussi être autorisée à produire une preuve à l’appui de la requête déposée en vertu de l’article 58 des Règles.
+[5] Si je me prononce en faveur de l’intimée à l’égard des requêtes déposées en vertu des articles 53 et 58 des Règles, alors l’intimée voudrait que soit rendue une ordonnance rejetant l’appel au motif qu’il ne reste pas d’autres points à décider.
+[6] Vu le caractère déroutant des actes de procédure de M. Abrametz, il est quelque peu difficile de déchiffrer la raison précise qui l’a conduit à faire appel de la nouvelle cotisation subséquente. Il n’est donc pas possible d’examiner pleinement les points sur lesquels l’intimée voudrait obtenir une décision sans d’abord analyser le fondement de l’appel de M. Abrametz.
+[7] Je déterminerai donc d’abord le fondement de l’appel de M. Abrametz, puis je me demanderai si l’intimée peut produire une preuve à l’appui de cette requête, après quoi je passerai aux points précis que l’intimée a soulevés dans cette requête. Finalement, le cas échéant, je me demanderai si l’appel de M. Abrametz devrait être rejeté avec dépens.
+Quel est le fondement de l’appel? [8] Le fondement précis de l’appel formé par M. Abrametz n’est pas tout à fait clair. Les questions exposées dans l’avis d’appel ne cadrent pas avec les moyens sur lesquels M. Abrametz entend se fonder dans l’avis d’appel. Ses positions, exposées à la fois dans l’avis d’appel et dans ses observations écrites, sont souvent vagues et entremêlent les questions au point qu’il est difficile de savoir précisément ce que conteste M. Abrametz. Par conséquent, en ce qui concerne la présente requête, pour trancher les questions à propos desquelles M. Abrametz fait appel, j’interpréterai le plus largement possible l’avis d’appel et les observations écrites de l’appelant. Fort de cette interprétation, je conclus que M. Abrametz invoque cinq moyens d’appel distincts.
+L’argument de la cotisation sous-jacente [9] Dans son premier moyen d’appel, M. Abrametz affirme que la cotisation sous-jacente, qui concerne la dette de Mada au titre de la TPS, était inexacte[4]. Aucun autre détail n’est donné à l’appui de cet argument, que ce soit dans l’avis d’appel ou dans les observations écrites de l’appelant. Pour les besoins de cette requête, je présumerai que M. Abrametz souhaite contester le fondement tout entier sur lequel a été calculée la TPS que devait verser Mada. J’appellerai cet argument l’« argument de la cotisation sous-jacente ».
+L’argument des conditions préalables de la cotisation initiale et l’argument des conditions préalables de la nouvelle cotisation subséquente [10] Le deuxième moyen d’appel concerne diverses conditions préalables énoncées aux paragraphes 323(2), (5) et (6). Il est clair que M. Abrametz fait appel de la nouvelle cotisation subséquente en considérant qu’elle devrait être annulée parce que ces conditions préalables n’étaient pas remplies[5]. Cependant, on ne sait trop si, d’après lui, les conditions préalables n’étaient pas remplies à la date d’établissement de la cotisation initiale ou bien à la date d’établissement de la nouvelle cotisation subséquente, ou aux deux dates. Pour les besoins de cette requête, je présumerai que, d’après lui, aucune des conditions préalables n’était remplie à aucune de ces deux dates. J’appellerai « argument des conditions préalables de la cotisation initiale » l’argument selon lequel les conditions préalables n’étaient pas remplies à la date d’établissement de la cotisation initiale, et « argument des conditions préalables de la nouvelle cotisation subséquente » l’argument selon lequel les conditions préalables n’étaient pas remplies à la date d’établissement de la nouvelle cotisation subséquente.
+L’argument de la diligence raisonnable [11] Le troisième moyen d’appel se rapporte au paragraphe 323(3). M. Abrametz fait appel de la nouvelle cotisation subséquente en considérant qu’il a exercé la diligence voulue en tant qu’administrateur de Mada[6]. J’appellerai cet argument l’« argument de la diligence raisonnable ».
+L’argument de la nouvelle cotisation subséquente [12] Le quatrième moyen d’appel concerne le rajustement apporté dans la nouvelle cotisation subséquente. M. Abrametz soutient que, en établissant la nouvelle cotisation subséquente, le ministre ne s’est pas conformé à l’arrêt de la Cour d’appel fédérale[7]. J’appellerai cet argument l’« argument de la nouvelle cotisation subséquente ».
+L’argument du paiement [13] Le cinquième moyen d’appel est décrit ainsi à l’alinéa 13iii) de l’avis d’appel :
+[traduction]
+Les sommes en litige, qui ont été imputées au revenu de Peter V. Abrametz, étaient-elles englobées dans les taxes payées par Peter V. Abrametz, ou contenues dans sa cotisation personnelle?
+[14] On ne sait trop ce qu’il veut dire par là. La question est reprise ainsi aux paragraphes 11 et 18 de l’avis d’appel :
+[traduction]
+[11] La cotisation établie à l’encontre de la société a été portée au compte de Peter V. Abrametz sur sa cotisation personnelle.
+[…]
+[18] L’appelant entend également soutenir que la dette fiscale de MADA Construction a été payée par une cotisation personnelle au titre de cette dette, et par une imputation de cette dette à l’impôt sur le revenu personnel de Peter V. Abrametz, impôt personnel dont Peter V. Abrametz s’est dûment acquitté.
+[15] Ces descriptions n’éclaircissent nullement la question. Il y a, dans les observations écrites de l’appelant, une rubrique ainsi formulée [traduction] « LA COMPÉTENCE DE LA COUR CANADIENNE DE L’IMPÔT EN MATIÈRE DE RECOUVREMENT ». Les paragraphes qui suivent cette rubrique n’ont absolument rien à voir avec la compétence de la Cour ni avec l’impôt sur le revenu personnel de M. Abrametz. Ils concernent plutôt les conditions préalables énoncées à l’article 323[8]. Il y a, dans les observations écrites de l’appelant, une autre rubrique ainsi formulée [traduction] « LA COMPÉTENCE DE LA COUR CANADIENNE DE L’IMPÔT EN MATIÈRE DE RECOUVREMENT ». Le paragraphe qui suit cette rubrique renferme simplement ce qui suit[9] :
+[traduction]
+L’appelant fait respectueusement valoir que la Cour canadienne de l’impôt dispose d’une vaste compétence et qu’elle a le pouvoir d’examiner tous les aspects de l’appel, y compris la validité du certificat du ministre, la légalité des brefs de fieri facias, ainsi que toutes les questions se rapportant au recouvrement de l’impôt dû par le contribuable.
+[16] Les points évoqués dans le paragraphe ci-dessus concernent principalement les conditions préalables de l’article 323. Dire simplement que la Cour [traduction] « dispose d’une vaste compétence et qu’elle a le pouvoir d’examiner […] toutes les questions se rapportant au recouvrement de l’impôt » ne fait rien pour clarifier ce que M. Abrametz voulait dire dans les paragraphes 11 et 18 ainsi que l’alinéa 13iii) de l’avis d’appel.
+[17] Pour les besoins de cette requête, et pour donner à ce cinquième moyen d’appel l’interprétation la plus libérale possible, je traiterai le cinquième moyen d’appel comme si la question était de savoir si la responsabilité de M. Abrametz a été réduite compte tenu du fait que la dette de Mada au titre de la TPS a été payée, en totalité ou en partie, par M. Abrametz ou toute autre personne, directement ou indirectement, selon quelque méthode que ce soit, avant la date d’établissement de la cotisation initiale, ou après la date d’établissement de la nouvelle cotisation subséquente, ou entre ceux deux dates. J’appellerai cet argument l’« argument du paiement ».
+L’intimée devrait-elle être autorisée à produire une preuve? [18] Rien ne s’oppose à ce que l’une ou l’autre des parties produise une preuve concernant une requête présentée en vertu de l’article 53 des Règles. Selon l’alinéa 58(2)a) des Règles, une preuve n’est pas admissible à l’égard d’une requête présentée au titre de l’alinéa 58(1)a) sauf avec le consentement de la partie adverse ou avec l’autorisation de la Cour. Les deux parties voudraient être autorisées à produire une preuve, et toutes deux ont produit une preuve par affidavit au soutien de leurs positions. L’intimée ne s’est pas opposée à ce que M. Abrametz produise une preuve par affidavit.
+[19] Dans ses observations écrites, M. Abrametz faisait valoir que je ne devrais pas autoriser l’intimée à produire une preuve. M. Abrametz exposait ainsi sa position, au paragraphe 17 :
+[traduction]
+17. […] permettre à la requérante [sic, il faut sans doute lire « l’intimée »] de produire une preuve à ce stade aurait les effets suivants :
+i) empêcher le requérant (l’appelant) d’exercer effectivement son droit de faire appel;
+ii) empêcher effectivement l’appelant d’exercer son droit d’interroger et de contre-interroger des témoins et son droit d’examiner les documents préparés par l’intimée, Sa Majesté la Reine.
+18. L’appelant soutient respectueusement que la preuve que l’intimée tente de produire n’est pas complète, que l’intimée a présenté une preuve sélective à la Cour et que la preuve principale portant sur les questions fondamentales soulevées dans l’appel, comme nous le voyons, n’a pas été présentée par le Canada.
+[20] J’examinerai successivement chacun de ces points :
+a) L’appelant est empêché d’exercer effectivement son droit de faire appel : Il m’est impossible de voir en quoi le fait pour moi d’autoriser l’intimée à produire une preuve pourrait priver M. Abrametz de son droit de faire appel, à moins que la preuve de l’intimée puisse me conduire à conclure que l’appel de M. Abrametz devrait être rejeté. Si c’est ce qu’il veut dire, alors il prétend simplement que l’intimée ne devrait pas être autorisée à produire une preuve parce que ses prétentions à lui concernant la requête pourraient être rejetées. Ce n’est pas là un argument convaincant.
+b) Perte du droit de contre-interroger : M. Abrametz a soulevé ce point auparavant dans une requête en contre-interrogatoire du déposant de l’intimée. J’ai rejeté cette requête dans mon ordonnance datée du 10 mars 2014. Les raisons que j’avais de la rejeter restent inchangées. L’affidavit produit par l’intimée ne fait guère plus qu’annexer au dossier les documents suivants :
+• extraits des questions de l’intimée sur l’interrogatoire préalable écrit;
+• extraits des réponses de l’appelant sur l’interrogatoire préalable écrit;
+• extraits des questions supplémentaires de l’intimée sur l’interrogatoire préalable écrit;
+• extraits des réponses supplémentaires de l’appelant sur l’interrogatoire préalable écrit;
+• décision de la juge Sheridan dans l’appel interjeté par M. Abrametz;
+• décision de la Cour d’appel fédérale dans l’appel interjeté par M. Abrametz.
+Je ne vois rien dans les pièces susmentionnées qui puisse requérir un contre-interrogatoire. Si M. Abrametz estimait que les extraits des interrogatoires préalables écrits ne rendaient pas fidèlement compte des questions posées par l’intimée, ou de ses réponses à lui, il aurait pu facilement inclure d’autres extraits dans son affidavit. Il ne l’a pas fait, et il n’a pas produit dans son affidavit le moindre élément de preuve susceptible de contredire les extraits en question, ce qui m’amène à conclure que son allégation selon laquelle il devrait pouvoir contre-interroger le déposant de l’intimée n’est pas fondée.
+c) Preuve incomplète ou sélective : M. Abrametz se limite simplement à dire que la preuve produite par l’intimée est incomplète ou sélective. Il ne précise pas quels éléments de preuve sont manquants. Comme je l’ai déjà mentionné, il aurait pu facilement inclure dans son affidavit des extraits supplémentaires des interrogatoires préalables écrits s’il estimait que cela était nécessaire. L’allégation de M. Abrametz selon laquelle l’intimée n’a pas produit une preuve ayant trait aux questions fondamentales est elle aussi sans fondement. Ce que dit en réalité M. Abrametz, c’est que, selon lui, l’appel devrait être instruit en fonction des points qu’il a cernés, et il voudrait que l’intimée axe sa preuve sur les points en question plutôt que d’attaquer les points eux‑mêmes. Si la requête de l’intimée est rejetée, alors M. Abrametz aura tout le loisir, à l’instruction, de produire la preuve dont il a besoin pour traiter les points qu’il a cernés.
+[21] Outre ce qui précède, j’observe que M. Abrametz a déjà admis qu’une preuve pouvait être produite concernant la requête. Le 4 novembre 2013, les parties ont écrit à la Cour pour lui dire où en était l’appel. M. Abrametz a signé la lettre. On peut lire ce qui suit au deuxième paragraphe de la lettre :
+[traduction]
+Les parties reconnaissent toutefois qu’une telle requête pourrait être tranchée valablement sur la base d’observations écrites, conformément à l’article 69 des Règles de la Cour canadienne de l’impôt (procédure générale), et elles prient donc la Cour, conformément à l’article 12 des Règles, de les autoriser à procéder de cette manière selon le calendrier suivant : que l’intimée dépose sa requête (y compris les éléments de preuve à l’appui et les observations) au plus tard le 30 janvier 2014, et que l’appelant dépose sa réponse (y compris les éléments de preuve à l’appui et les observations) au plus tard le 14 mars 2014.
+[Non souligné dans l’original.]
+[22] Eu égard à tout ce qui précède, l’autorisation de produire une preuve par affidavit selon la forme dans laquelle elle a déjà été déposée est accordée aux deux parties.
+La préclusion pour question déjà tranchée empêche-t-elle M. Abrametz d’avancer divers arguments? [23] Selon l’intimée, M. Abrametz n’est pas recevable à avancer l’argument de la cotisation sous-jacente, l’argument des conditions préalables de la cotisation initiale et l’argument de la diligence raisonnable, et elle demande donc la radiation de divers paragraphes et alinéas de l’avis d’appel.
+[24] Trois conditions doivent être remplies pour que puisse être invoquée la préclusion pour question déjà tranchée[10] :
+a) la question doit être la même que celle qui a été tranchée dans la décision antérieure;
+b) la décision antérieure doit être définitive;
+c) les parties aux deux instances, ou leurs ayants droit, doivent être les mêmes.
+[25] La décision rendue par la Cour d’appel fédérale dans l’appel interjeté par M. Abrametz était une décision définitive. Les parties à cet appel sont les mêmes que dans le présent appel. La seule question qu’il reste à trancher est donc celle de savoir si les questions soulevées dans le présent appel sont les mêmes que celles qui ont été tranchées dans l’appel antérieur.
+[26] La question centrale est la même dans les deux appels. M. Abrametz contestait, et conteste encore, une cotisation dont l’effet est de lui imputer, en sa qualité d’administrateur de la société Mada, la dette de cette société au titre de la TPS pour un ensemble précis de périodes de déclaration. La seule chose qui ait changé de façon générale est le fait que le montant de la nouvelle cotisation subséquente est légèrement inférieur à celui de la cotisation initiale, par suite de la décision de la Cour d’appel fédérale. Il ne fait aucun doute que les questions précises soulevées dans le présent appel ne sont pas les mêmes que celles qui ont été tranchées dans l’appel initial[11]. Cependant, la Cour d’appel fédérale a jugé que le fait qu’un jugement « ne s’appliqu[e] pas à toutes les questions […] qui auraient pu [être soulevées] dans les instances antérieures relativement à la cause d’action de l’appelant » n’empêche pas l’application du principe de la préclusion pour question déjà tranchée[12]. De même, dans un cas très comparable à celui de M. Abrametz, la juge Woods a estimé que la préclusion pour question déjà tranchée s’appliquait à l’appel formé par un administrateur concernant sa responsabilité au titre de la TPS, quand l’administrateur avait été à même de soulever les points pertinents dans l’appel initial[13]. J’arrive donc à la conclusion que les trois conditions de la préclusion pour question déjà tranchée sont remplies.
+[27] La Cour dispose d’un pouvoir restreint de passer outre au principe de la préclusion pour question déjà tranchée dans les cas où il en résulterait une injustice. Nous n’avons pas affaire ici à l’un de ces cas. M. Abrametz n’a pas expliqué en quoi il en résulterait une injustice. Je ne vois pas ce qui l’aurait empêché d’avancer, durant l’instruction, l’argument des conditions préalables de la cotisation initiale, l’argument de la diligence raisonnable, ou le reste de l’argument de la cotisation sous-jacente. En fait, la transcription du procès montre que, à l’ouverture du procès, M. Abrametz a abandonné d’autres points qu’il avait soulevés dans son avis d’appel[14]. Qui plus est, il était représenté par un avocat durant son procès initial. Il est également avocat lui-même et il n’est donc sans doute pas étranger à la notion de préclusion pour question déjà tranchée, ni à la nécessité correspondante de soulever durant le procès tous les points pertinents.
+[28] Eu égard à tout ce qui précède, la requête de l’intimée en radiation de certains paragraphes et alinéas de l’avis d’appel est accueillie.
+L’abus de procédure [29] Compte tenu de mes conclusions sur la préclusion pour question déjà tranchée, il ne m’est pas nécessaire de considérer l’argument subsidiaire de l’intimée se rapportant à l’abus de procédure.
+Question de droit – l’argument des conditions préalables d’une nouvelle cotisation subséquente [30] L’intimée voudrait que, en application de l’alinéa 58(1)a) des Règles, je me prononce sur une question de droit, celle de savoir si le ministre a l’obligation de remplir diverses conditions préalables énoncées à l’article 323 avant d’établir une nouvelle cotisation par suite d’une ordonnance de la Cour d’appel fédérale. Il s’agit là selon moi d’une question de droit qu’il me revient à juste titre d’examiner au titre de l’alinéa 58(1)a) des Règles. Si je devais répondre à la question dans le sens que souhaite l’intimée, cela voudrait dire que M. Abrametz n’avait aucun espoir d’obtenir gain de cause relativement à l’argument des conditions préalables d’une nouvelle cotisation subséquente. Le rejet de cet argument aurait pour effet d’abréger substantiellement la procédure et donc d'entraîner une économie substantielle des frais des deux parties.
+[31] Dans l’argument des conditions préalables d’une nouvelle cotisation subséquente, M. Abrametz met l’accent sur les paragraphes 323(2), (5) et (6). J’examinerai la question de droit soulevée par l’intimée au regard de chacune de ces dispositions.
+Le paragraphe 323(2) [32] Le paragraphe 323(2) dispose que l’administrateur d’une personne morale n’encourt de responsabilité selon le paragraphe 323(1) que si l’une de trois conditions préalables est remplie. En résumé, ces conditions préalables concernent la preuve de l’incapacité de la personne morale concernée de s’acquitter de sa dette au titre de la TPS. Il semble que M. Abrametz entend faire valoir que la nouvelle cotisation subséquente devrait être annulée parce que l’une des trois conditions préalables n’était pas remplie avant qu’elle soit établie.
+[33] Si le ministre estime que l’une des conditions préalables du paragraphe 323(2) est remplie et que l’administrateur est responsable au titre du paragraphe 323(1), alors il peut établir une cotisation en vertu du paragraphe 323(4). Si l’administrateur fait appel d’une cotisation établie au titre de sa responsabilité en tant qu’administrateur et que la Cour ordonne au ministre d’établir une nouvelle cotisation à l’encontre de l’administrateur de manière à réduire sa responsabilité, le ministre n’a pas, une nouvelle fois, l’obligation de satisfaire à l’une des trois conditions préalables du paragraphe 323(2) avant d’établir la nouvelle cotisation. Les conditions préalables du paragraphe 323(2) sont des conditions préalables de la responsabilité, non des conditions préalables de la cotisation. Contrairement à ce que prétend M. Abrametz, la Cour d’appel fédérale n’a pas annulé la cotisation initiale en ramenant de ce fait le ministre à son point de départ sans se prononcer sur la responsabilité, elle a plutôt elle-même conclu à la responsabilité de l’administrateur et ordonné au ministre d’établir sur ce fondement une nouvelle cotisation.
+[34] Compte tenu de ce qui précède, je me prononce sur la question de droit en déclarant que le ministre n’est pas tenu de remplir l’une des trois conditions préalables énoncées au paragraphe 323(2) avant d’établir, en vertu du paragraphe 323(4), une nouvelle cotisation ordonnée par la cour.
+Le paragraphe 323(5) [35] À la différence du paragraphe 323(2), qui limite les cas où un administrateur peut encourir une responsabilité, le paragraphe 323(5) limite les cas où une cotisation peut être établie à l’encontre d’un administrateur. Selon le paragraphe 323(5), l’administrateur qui autrement encourrait une responsabilité ne peut être l’objet d’une cotisation plus de deux ans après qu’il a cessé pour la dernière fois d’être administrateur de la société concernée. Il semble que M. Abrametz entend prétendre qu’il ne peut être l’objet d’une nouvelle cotisation parce qu’il a cessé d’être administrateur plus de deux ans avant l’établissement de la nouvelle cotisation subséquente.
+[36] Le paragraphe 123(1) de la LTA dispose qu’une cotisation comprend une nouvelle cotisation. Par conséquent, à première vue, le paragraphe 323(5) semblerait empêcher le ministre d’établir une quelconque nouvelle cotisation, selon l’article 323, à l’encontre d’un administrateur qui a cessé pour la dernière fois d’être administrateur plus de deux ans auparavant. Cependant, cette conclusion ne tient pas après une lecture plus attentive des dispositions applicables. Le paragraphe 323(5) fixe un délai de prescription pour les cotisations relevant du paragraphe 323(1). Les délais de prescription applicables aux cotisations générales relevant de l’article 296 de la LTA se trouvent au paragraphe 298(1). L’alinéa 298(3)a) dispose que les délais de prescription fixés au paragraphe 298(1) ne s’appliquent pas à une nouvelle cotisation établie en vue d’exécuter la décision rendue par suite d’un appel. Le paragraphe 323(4) prévoit que les dispositions de l’article 298 s’appliquent, compte tenu des adaptations de circonstances, aux cotisations établies en vertu du paragraphe 323(4). Par conséquent, l’alinéa 298(3)a) empêche le délai de prescription de deux ans fixé au paragraphe 323(5) de s’appliquer à une nouvelle cotisation établie en vertu du paragraphe 323(4) par suite d’une ordonnance judiciaire. Toute interprétation du paragraphe 323(5) autre que celle-ci rendrait le processus d’appel théorique pour tout administrateur qui a cessé d’être administrateur plus de deux ans avant que la Cour canadienne de l’impôt ne statue sur son appel, puisque le ministre serait empêché, en raison de la prescription, d’établir une nouvelle cotisation à l’encontre de l’administrateur en vue d’exécuter une ordonnance judiciaire consécutive à un appel qui a été accueilli. Le législateur ne saurait avoir voulu un résultat aussi absurde.
+[37] Eu égard à ce qui précède, je me prononce sur la question de droit en déclarant que, vu le paragraphe 323(4), l’alinéa 298(3)a) a pour effet d’empêcher le délai de prescription de deux ans fixé au paragraphe 323(5) de s’appliquer à une nouvelle cotisation établie en vertu du paragraphe 323(4) par suite d’une ordonnance judiciaire.
+Le paragraphe 323(6) [38] Le paragraphe 323(6) fixe une limite à la dette fiscale d’une personne morale qui peut être recouvrée par le ministre auprès d’un administrateur de cette personne morale. La limite est la somme figurant dans le certificat que le ministre peut enregistrer, remplissant ainsi la condition préalable établie à l’alinéa 323(2)a). On ne sait trop si M. Abrametz entend soutenir que le paragraphe 323(6) a été enfreint parce que le ministre n’a pas obtenu un nouveau certificat avant d’établir la nouvelle cotisation subséquente, ou parce que le ministre tente de recouvrer une somme plus élevée que la somme précisée dans le certificat qui a été obtenu avant l’établissement de la cotisation initiale. Dans le premier cas, l’argument sera rejeté pour les raisons précisées plus haut concernant le paragraphe 323(2). Dans le deuxième cas, il sera rejeté pour les raisons exposées ci-après concernant l’argument du paiement. Dans l’un et l’autre cas, il ne m’est pas nécessaire de me prononcer sur la question de droit précise concernant le paragraphe 323(6).
+Question de droit – l’argument du paiement
+[39] L’intimée voudrait que, en application de l’alinéa 58(1)a) des Règles, je me prononce sur une question de droit, celle de savoir si la Cour a compétence pour entendre l’argument du paiement. Selon moi, c’est là une question de droit qu’il me revient à juste titre d’examiner au titre de l’alinéa 58(1)a) des Règles. Si je devais répondre à la question dans le sens que souhaite l’intimée, cela aurait pour effet d’abréger substantiellement la procédure et donc d'entraîner une économie substantielle des frais des deux parties.
+[40] En résumé, l’argument du paiement concerne le point de savoir si la Cour a compétence pour se demander si la somme pour laquelle l’administrateur encourt une responsabilité selon le paragraphe 323(1) a été réduite compte tenu du fait que la dette de la personne morale concernée au titre de la TPS a été payée, en totalité ou en partie, par cet administrateur ou toute autre personne, directement ou indirectement, selon quelque méthode que ce soit et à quelque moment que ce soit. Cet argument intéresse le recouvrement de la taxe plutôt que le calcul de la taxe. C’est à la Cour fédérale, non à la Cour canadienne de l’impôt, qu’il appartient de statuer sur les questions de recouvrement.
+[41] Eu égard à ce qui précède, je me prononce sur la question de droit en déclarant que la Cour n’a pas compétence pour se demander si la somme pour laquelle l’administrateur encourt une responsabilité selon le paragraphe 323(1) a été réduite compte tenu du fait que la dette de la personne morale concernée au titre de la TPS a été payée, en totalité ou en partie, par cet administrateur ou une autre personne, directement ou indirectement, selon quelque méthode que ce soit et à quelque moment que ce soit.
+Question de fait – l’argument de la nouvelle cotisation subséquente [42] L’intimée voudrait que, en application de l’alinéa 58(1)a) des Règles, je me prononce sur une question de fait, celle de savoir si le ministre a apporté à la nouvelle cotisation subséquente les modifications ordonnées par la Cour d’appel fédérale. À mon avis, c’est là une question de fait qu’il me revient à juste titre d’examiner au titre de l’alinéa 58(1)a). Si je devais répondre à la question dans le sens que souhaite l’intimée, cela voudrait dire que M. Abrametz n’avait aucun espoir d’obtenir gain de cause relativement à l’argument de la nouvelle cotisation subséquente. Vu ma conclusion ci-dessus, l’argument de la nouvelle cotisation subséquente est l’unique argument que M. Abrametz puisse encore avancer. Le rejet de cet argument aurait pour effet de rendre inutile le reste de la procédure et donc d’entraîner une économie substantielle des frais des deux parties.
+[43] M. Abrametz prétend dans son avis d’appel que la nouvelle cotisation subséquente n’a pas réduit du montant requis le montant de la taxe nette qu’il lui est demandé d’acquitter. La Cour d’appel fédérale avait ordonné au ministre d’établir la nouvelle cotisation en tenant pour acquis que des dépôts d’une valeur de 166 250 $ faits dans le compte bancaire de Mada étaient des emprunts et des virements inter-comptes et qu’ils n’étaient donc pas assujettis à la TPS. M. Abrametz croit que cela aurait dû entraîner une réduction de 11 637,50 $ du montant de la taxe nette qu’il lui est demandé d’acquitter. Il arrive à ce chiffre en multipliant 166 250 $ par la TPS de 7 %.
+[44] M. Abrametz reconnaît que la nouvelle cotisation subséquente a réduit de 10 876,17 $ la taxe nette[15]. Selon l’intimée, ce chiffre a été obtenu en multipliant 166 250 $ par 7/107. Cette méthode de calcul est celle qui serait employée pour obtenir la TPS comprise dans un montant si ce montant représente un total englobant la TPS. Le propre comptable de M. Abrametz a témoigné au procès que c’était la méthode qu’avait employée le vérificateur pour calculer la TPS[16].
+[45] À l’alinéa 1u) des réponses, M. Abrametz reconnaît que, en établissant la cotisation à l’encontre de Mada, le ministre avait présumé que chaque dépôt fait dans le compte bancaire de Mada [traduction] « comprenait la contrepartie des fournitures taxables faites par [Mada] et la TPS de 7 % sur cette contrepartie ». Il s’ensuit que, si M. Abrametz reconnaît que la cotisation sous-jacente a été établie de cette manière, alors la méthode qui devrait être employée pour annuler la TPS sur les dépôts de 166 250 $ faits dans le compte bancaire de Mada est la méthode effectivement employée par le ministre, non la méthode préconisée par M. Abrametz.
+[46] Compte tenu de ce qui précède, je me prononce sur la question de fait en déclarant que le ministre a établi la nouvelle cotisation à l’encontre de M. Abrametz conformément à la décision de la Cour d’appel fédérale.
+L’appel devrait-il être rejeté?
+[47] Les seuls arguments qui n’ont pas été radiés de l’avis d’appel en conséquence de la préclusion pour question déjà tranchée sont l’argument de la nouvelle cotisation subséquente, l’argument des conditions préalables de la nouvelle cotisation subséquente et l’argument du paiement. Ma réponse ci-dessus à la question de fait montre clairement que M. Abrametz n’a aucune chance d’obtenir gain de cause relativement à l’argument de la nouvelle cotisation subséquente, et mes réponses ci-dessus aux questions de droit montrent clairement, quant à elles, qu’il n’a aucune chance d’obtenir gain de cause relativement à l’argument des conditions préalables de la nouvelle cotisation subséquente et à l’argument du paiement.
+[48] L’intimée m’invite donc à rejeter l’appel. La requête ne précise pas la disposition en vertu de laquelle je devrais, selon l’intimée, rejeter l’appel. L’intimée se fonde sans doute sur l’alinéa 58(1)b) des Règles, tel que cette disposition était formulée à l’époque où la requête fut présentée. Cette disposition m’autorise à rejeter un appel s’il ne révèle aucun moyen raisonnable d’appel. Cependant, l’alinéa 58(2)b) dispose qu’aucune preuve n’est admissible à l’égard d’une requête présentée en vertu de l’alinéa 58(1)b). L’intimée a produit une preuve au soutien de sa requête visant à faire trancher une question de fait. Il y aurait perversion des Règles si, m’étant prononcé sur une question de fait d’une manière qui favorise l’intimée, en m’appuyant sur la preuve avancée par elle, j’affirmais maintenant pouvoir dire, compte tenu de ma conclusion sur la question de fait (par opposition à la preuve qui a conduit à cette conclusion), que M. Abrametz n’avait aucun moyen raisonnable d’appel, pour en définitive rejeter son appel. La requête de l’intimée en rejet de l’appel est donc rejetée.
+[49] En dépit de ce qui précède, j’avertis M. Abrametz de la manière la plus claire qui soit que, si, malgré ma conclusion selon laquelle il n’a aucune chance d’obtenir gain de cause à l’issue d’un procès, il choisit quand même d’aller en procès, alors il doit savoir que le juge qui présidera le procès ne manquera pas de sanctionner ce mauvais choix quand il adjugera les dépens.
+Sommaire [50] En résumé :
+a) les paragraphes 8, 9, 14, 16 et 17, ainsi que les alinéas 13i) et 13iv) de l’avis d’appel sont radiés;
+b) la Cour conclut, en réponse à une question de droit, que le ministre n’est pas tenu de remplir les conditions préalables énoncées au paragraphe 323(2) de la LTA avant d’établir en vertu du paragraphe 323(4) une nouvelle cotisation ordonnée par la cour;
+c) la Cour conclut, en réponse à une question de droit, que, compte tenu du paragraphe 323(4), l’alinéa 298(3)a) de la LTA a pour effet d’empêcher le délai de prescription de deux ans fixé au paragraphe 323(5) de s’appliquer à une nouvelle cotisation établie en vertu du paragraphe 323(4) à la suite d’une ordonnance judiciaire;
+d) la Cour conclut, en réponse à une question de droit, qu’elle n’a pas compétence pour trancher la question de savoir si la somme qu’un administrateur est tenu de payer au titre du paragraphe 323(1) a été réduite compte tenu du fait que la dette de la personne morale concernée au titre de la TPS a été payée, en totalité ou en partie, par cet administrateur ou toute autre personne, directement ou indirectement, selon quelque méthode que ce soit et à quelque moment que ce soit;
+e) la Cour conclut, en réponse à une question de fait, que le ministre a établi la nouvelle cotisation à l’encontre de M. Abrametz en se conformant à la décision de la Cour d’appel fédérale;
+f) la requête de l’intimée en rejet de l’appel est rejetée.
+Les dépens [51] Les dépens sont accordés à l’intimée en ce qui concerne la présente requête. J’invite les parties à s’accorder sur le montant des dépens. À défaut d’accord, les parties auront 60 jours à compter de la date de la présente ordonnance pour présenter des observations sur les dépens.
+[52] Dans ses efforts en vue de trouver un accord, M. Abrametz voudra sans doute garder à l’esprit que, selon moi, cette requête a été rendue inutilement complexe pour plusieurs raisons : la nature déroutante de son avis d’appel, le fait qu’il s’est opposé sans raison valable à ce que l’intimée dépose par affidavit une preuve non sujette à controverse, enfin son refus obstiné de reconnaître que la nouvelle cotisation subséquente a été établie conformément à la décision de la Cour d’appel fédérale. Si M. Abrametz ne parvient pas à me convaincre que je suis dans l’erreur, la décision que je suis appelé à rendre à l’égard des dépens tiendra compte de ces considérations.
+Signé à Toronto (Ontario), ce 17e jour de juillet 2014.
+« David E. Graham »
+Juge Graham
+Traduction certifiée conforme
+ce 24e jour d’octobre 2014.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE :
+2014 CCI 227
+N° DU DOSSIER DE LA COUR :
+2012-1470(GST)G
+INTITULÉ :
+PETER V. ABRAMETZ c. LA REINE
+DATE DE L’AUDIENCE :
+Requête jugée sur la foi d’observations écrites
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge David E. Graham
+DATE DE L’ORDONNANCE :
+Le 17 juillet 2014
+PARTICIPANTS :
+Pour l’appelant :
+L’appelant lui-même
+Avocate de l’intimée :
+Me Ainslie Schroeder
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 2007 CCI 316.
+[2] 2009 CAF 70, au paragraphe 8.
+[3] Les articles 53 et 58 des Règles ont été modifiés, et les nouveaux articles sont entrés en vigueur le 26 février 2014. Comme la requête de l’intimée a été déposée avant cette date, j’appliquerai les anciennes règles.
+[4] Avis d’appel, alinéa 13i).
+[5] Avis d’appel, alinéas 13ii) et iv), et paragraphes 15 et 17.
+[6] Avis d’appel, sous‑alinéa 13iv)(ii) et paragraphe 16.
+[7] Avis d’appel, paragraphe 4.
+[8] Observations écrites de l’appelant, paragraphes 30 à 41.
+[9] Observations écrites de l’appelant, paragraphe 48.
+[10] Danyluk c. Ainsworth Technologies Inc., 2001 CSC 44, au paragraphe 25.
+[11] Le seul point soulevé dans l’appel initial de M. Abrametz était celui de savoir si la cotisation sous-jacente était valide en ce qui concernait les six dépôts bancaires totalisant 166 250 $. M. Abrametz n’avait pas soulevé, au cours de l’instruction, l’argument des conditions préalables de la cotisation initiale, ni l’argument de la diligence raisonnable, et il n’avait pas non plus évoqué un quelconque aspect de l’argument de la cotisation sous-jacente, à l’exception des six dépôts.
+[12] Goodfellow c. La Reine, 2010 CAF 23, au paragraphe 5.
+[13] Lee c. La Reine, 2012 CCI 335.
+[14] Transcription de la Cour canadienne de l’impôt extraite du procès de M. Abrametz devant la juge Sheridan, page 3. Je n’ai pas été informé des points qui étaient soulevés dans l’avis d’appel initial, mais le paragraphe 3 de la décision de la juge Sheridan montre qu’ils ont pu concerner l’argument de la diligence raisonnable.
+[15] Réponses à l’interrogatoire préalable écrit, alinéa 1e).
+[16] Transcription de la Cour canadienne de l’impôt extraite du procès de M. Abrametz devant la juge Sheridan, page 19, lignes 7 à 9.

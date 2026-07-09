@@ -1,0 +1,179 @@
+---
+title: "Mintzer c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28450/index.do"
+last_modified: "2008-02-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2008 CCI 72"
+citation2: ""
+neutral_citation: "2008 CCI 72"
+decision_date: "2008-02-05"
+language: "fr"
+item_id: "28450"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1183
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T11:11:14.203000+00:00"
+cases_cited_count: 3
+cases_citing_count: 3
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "06d2b5b4cc5e3d89a3daff7315b012a6fd313f9cda0255428962a25309a42edb"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Mintzer c. La Reine
+
+- Citation: 2008 CCI 72
+- Decision date: 2008-02-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1183, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Mintzer c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-02-05
+Référence neutre
+2008 CCI 72
+Numéro de dossier
+2006-3892(IT)G
+Juges et Officiers taxateurs
+Donald G.H. Bowman
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2006-3892(IT)G
+ENTRE :
+NORMAN A. MINTZER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requêtes entendues le 28 janvier 2008, à Toronto (Ontario).
+Devant : L’honorable D.G.H. Bowman, juge en chef
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocates de l’intimée :
+Me Margaret J. Nott
+Me Andrea Jackett
+____________________________________________________________________
+ORDONNANCE
+La requête de l’intimée visant à obtenir une ordonnance prorogeant le délai de signification de la réponse à la demande d’aveux présentée par l’appelant est accueillie, sans dépens, et le délai de signification de la réponse est prorogé jusqu’au jour où celle‑ci a été signifiée à l’appelant;
+Les requêtes de l’appelant mentionnées dans les motifs de l’ordonnance sont rejetées avec dépens, lesquels sont fixés à 350,00 $.
+Signé à Ottawa, Canada, ce 5e jour de février 2008.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 17e jour de mars 2008.
+Michèle Ledecq, réviseure
+Référence : 2008CCI72
+Date : 20080205
+Dossier : 2006-3892(IT)G
+ENTRE :
+NORMAN A. MINTZER,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge en chef Bowman
+[1] Le 28 janvier 2008, la Cour a entendu trois requêtes dans le cadre de la présente affaire.
+[2] La première requête est présentée par l’intimée qui souhaite obtenir une ordonnance prorogeant le délai dans lequel elle peut répondre à la demande d’aveux de l’appelant. Par inadvertance, l’avocate de l’intimée a mal calculé le délai de production d’une réponse, laquelle a par conséquent a été déposée tardivement. M. Mintzer m’a informé qu’il n’était pas satisfait de certaines des réponses données. Je lui ai répondu qu’à mon avis il ne s’agissait pas d’une raison appropriée pour s’opposer à la requête. Il était d’accord, et il ne s’est pas opposé plus avant à cette requête.
+[3] La deuxième requête est présentée par M. Mintzer qui souhaite obtenir les mesures de redressement suivantes :
+[TRADUCTION]
+1. Une ordonnance suspendant le présent appel jusqu’à ce qu’il soit statué de manière définitive sur l’action intéressant les parties aux présentes et introduite à la Cour fédérale sous le numéro de greffe T‑827‑83.
+2. Une ordonnance suspendant l’exécution des mesures fiscales, quelles qu’elles soient, découlant des nouvelles cotisations ou du présent appel jusqu’à ce que la Cour fédérale ait statué de manière définitive sur les actions portant les numéros de greffe T‑827‑03 et T‑1604‑06.
+3. La radiation des alinéas 6(b), 12(a) à (d), (f) à (i), ainsi que (k) et (l) de la réponse de l’intimée.
+4. Une ordonnance de communication intégrale en application de l’article 82 des Règles.
+5. Une ordonnance portant radiation des avis de nouvelles cotisations et des avis de ratification de ces nouvelles cotisations qui sont visées par le présent appel, et portant admission de l’appel.
+6. Les autres mesures de redressement que la Cour estime justes.
+[4] Avant de me prononcer sur ces demandes, il convient de donner quelques précisions quant au contexte dans lequel elles sont formulées. M. Mintzer est un ancien avocat. Il a été accusé de fraude sous le régime du Code criminel. On allègue dans la réponse à son avis d’appel qu’il est l’auteur d’un stratagème utilisé contre Développement des ressources humaines Canada par lequel il a réussi à obtenir des avantages dans le cadre du Régime de pensions du Canada, de la Loi sur la sécurité de la vieillesse et du Supplément de revenu garanti, et contre le ministère des Finances de l’Ontario dans le cadre du Régime de revenu annuel garanti. Il a obtenu ces avantages au nom de trois personnes décédées, soit le frère, la sœur et la mère de son ancienne épouse.
+[5] Après avoir avoué sa culpabilité, il a été condamné à une peine d’emprisonnement avec sursis de deux ans moins un jour et à payer aux autorités gouvernementales qu’il avait fraudées les sommes qu’il avait ainsi obtenues.
+[6] La somme totale visée par les accusations s’élevait à environ 258 000 $. Je ne suis pas tout à fait certain de l’argument qu’il pourrait invoquer contre la cotisation relative aux 258 000 $ si l’affaire fait l’objet d’une audience. Pendant le débat, j’ai mentionné trois décisions dont j’ai connaissance : Svidal (K.L.) v. Canada, [1995] 1 C.T.C. 2692; Neeb v. The Queen, 97 DTC 895, et The Queen v. Poynton, 72 DTC 6329 (C.A. Ont.).
+[7] M. Mintzer a également intenté contre Sa Majesté la Reine du chef du Canada deux actions devant la Cour fédérale, soit T‑827‑03 et T‑1604‑06. La Couronne a présenté une requête afin d’obtenir le rejet de l’action T‑827‑03. M. le juge Russell de la Cour fédérale a accueilli en partie la requête de la Couronne, mais il n’a pris aucune mesure relativement à l’assertion voulant que la Couronne ait été responsable du pontage coronarien subi par M. Mintzer ainsi que de la perquisition et de la saisie illégales de ses documents fiscaux. La Cour d’appel fédérale a rejeté l’appel formé contre cette ordonnance.
+[8] M. Mintzer a intenté une deuxième action contre Sa Majesté la Reine du chef du Canada, soit T‑1604‑06, devant la Cour fédérale. Il demande des dommages‑intérêts pour un certain nombre de raisons. M. le juge Hughes de la Cour fédérale a ordonné que cette action soit suspendue jusqu’à ce que l’appel en matière d’impôt sur le revenu soit tranché de manière définitive.
+[9] Par souci d’exhaustivité, il importe de signaler que M. Mintzer a également intenté une action analogue contre Sa Majesté la Reine du chef du Canada. M. le juge Carnwath de la Cour supérieure de justice de l’Ontario a rejeté cette action dans le cadre d’une requête, et l’appel à la Cour d’appel de l’Ontario a été rejeté avec dépens.
+[10] En ce qui touche les deux premières mesures de redressement demandées, je ne vois aucun motif justifiant que l’appel interjeté à la présente cour soit suspendu jusqu’à ce qu’il soit statué sur l’action T‑827‑83 intentée devant la Cour fédérale. La décision rendue à l’égard de cette action n’aura pas d’incidence sur l’appel interjeté à la Cour canadienne de l’impôt.
+[11] Quant à la deuxième mesure, la présente cour n’a pas compétence pour suspendre l’exécution d’une mesure fiscale dans l’attente qu’une action intentée devant la Cour fédérale fasse l’objet d’une décision. Ce pouvoir relève de la Cour fédérale.
+[12] À l’appui de la requête en radiation des alinéas 6(b), 12(a) à (d), (f) à (i) et (k) et (l) de la réponse de l’intimée à l’avis d’appel, on fait valoir que, comme la Cour provinciale a décidé que les sommes en cause avaient été obtenues frauduleusement, il est inopportun pour l’intimée de donner des précisions (comme ce qu’elle fait aux alinéas attaqués) sur la façon dont la fraude a été perpétrée. Pour l’essentiel, les alinéas de la réponse dont M. Mintzer demande la radiation décrivent comment l’identité de la sœur, du frère et de la mère de son ancienne épouse ont, en réalité, été volées de sorte qu’il a pu, avec succès, présenter une demande afin d’obtenir les divers chèques de prestations sociales. L’appelant allègue que les sommes ne constituent pas un revenu. Il affirme au paragraphe 80 de son avis d’appel qu’elles constituent une dette, comme l’a décidé la Cour de justice de l’Ontario, qu’elles ne sont pas assujetties à l’impôt sur le revenu et qu’elles n’ont pas été obtenues par la fraude ou par suite d’une quelconque autre activité criminelle. Au paragraphe 90, il soutient qu’il n’existe aucun fondement justifiant l’imposition de pénalités. À la lumière de ces assertions, il est des plus pertinents de savoir comment il a perpétré la fraude. La formulation d’hypothèses exige que l’on offre à l’appelant et au tribunal davantage que la seule énonciation aride de conclusions. On s’attend à ce que les hypothèses alléguées soient complètes, exactes et informatives. Bien que les juges ne soient pas entièrement d’accord sur ce que constituent des « faits pertinents » par opposition à des éléments de preuve[1], je préfère que la réponse soit trop complète, plutôt que pas assez, à la condition, évidemment, qu’elle ne tombe pas dans l’excès inverse et qu’il ne s’agisse pas d’une énonciation sans queue ni tête d’éléments de preuve et de conclusions de droit.
+[13] Outre le fait que plusieurs nouvelles mesures ont été prises par l’appelant avant de présenter la requête contestant la réponse [alinéa 8b) des Règles de la Cour canadienne de l’impôt (procédure générale)], j’estime que les paragraphes attaqués constituent à tous points de vue des allégations admissibles.
+[14] Je me penche maintenant sur la demande ayant pour objet l’obtention d’une ordonnance de communication intégrale de documents en application de l’article 82 des Règles de la Cour canadienne de l’impôt (procédure générale) plutôt qu’une communication partielle suivant l’article 81 de ce règlement. La règle relative à la communication partielle prévue à l’article 81 est plutôt particulière. La plupart, voire la totalité, des autres tribunaux judiciaires au Canada exigent la communication intégrale. Il n’est pas inhabituel que la présente cour rende une ordonnance de communication intégrale en application de l’article 82 si la partie qui demande l’ordonnance est en mesure d’établir que des motifs légitimes justifient son prononcé. Il doit toutefois exister un certain fondement pour obliger la partie adverse à subir les frais et les ennuis liés à la nécessité de réunir un grand nombre de documents. Compte tenu de la nature de l’appel dont je suis saisi et des questions soulevées, je crois que les documents supplémentaires susceptibles d’être obtenus en application de l’article 82 ne seraient très vraisemblablement d’aucune utilité.
+[15] Dans la décision Ikea Ltd. c. Idea Design Ltd., [1987] 3 C.F. 317, M. le juge McNair de la Cour fédérale a procédé à un examen approfondi des situations dans lesquelles les tribunaux peuvent ordonner une communication intégrale en application de l’article 448 des Règles de la Cour fédérale (tel qu’il était alors libellé). Cette disposition correspond à l’article 82 des Règles de la Cour canadienne de l’impôt (procédure générale). Le juge McNair s’exprime en ces termes à la page 325 :
+20. Il est nécessaire d’examiner le texte de la Règle 448 pour déterminer l’étendue de son application et ce qu’elle vise. Elle est ainsi conçue :
+Règle 448. (1) La Cour pourra ordonner à toute partie à une action d’établir, déposer et signifier à toute autre partie une liste des documents qui sont ou ont été en sa possession, sous sa garde ou son autorité et qui ont trait à tout point litigieux de l’affaire ou de la question (Formule 20), et elle peut en même temps ou subséquemment lui ordonner d’établir et déposer un affidavit attestant l’exactitude de cette liste (Formule 21) et d’en signifier copie à l’autre partie.
+(2) Une ordonnance rendue en vertu de la présente Règle peut se restreindre aux documents ou catégories de documents ou points litigieux de l’affaire ou de la question mentionnés dans l’ordonnance.
+21. W.R. Jackett, ancien président de la Cour de l’Échiquier et ex‑juge en chef de la Cour fédérale du Canada, a écrit, sur la pratique adoptée sous le régime des nouvelles Règles de la Cour fédérale, un excellent traité intitulé A Manual of Practice. En comparant les anciennes Règles de la Cour de l’Échiquier avec les nouvelles Règles concernant la communication de documents, l’auteur tient ces propos à la page 68 du manuel :
+[TRADUCTION] En vertu des nouvelles Règles, le droit à la communication des documents qui se trouvent en la possession ou sous le contrôle de la partie adverse et qui pourraient être utiles à la partie qui en fait la demande n’existe plus. Ce droit a disparu bien que la communication de tels documents soit évidemment dans l’intérêt de la justice. La raison invoquée pour restreindre ainsi la portée de la communication en tant que droit est d’ordre purement pratique : on estime d’une part qu’il [page 326] existe relativement peu de cas où une partie peut fonder ses moyens de défense sur les documents qu’elle espère obtenir de son adversaire, et d’autre part que c’est une tâche pénible, ennuyeuse et difficile, qui entraîne des dépenses et des délais considérables, que de préparer une liste de documents qui pourraient être utiles à son adversaire. C’est particulièrement le cas lorsqu’une partie se livre à ces opérations de grande envergure et qu’elle préfère ne pas en révéler les détails à son adversaire qui est également son concurrent commercial. Tout bien considéré, il semble probable que les frais et les délais qu’entraîne une telle communication l’emportent dans la plupart des cas sur les avantages théoriques qui en découlent.
+Certes, la portée de la communication en tant que droit a été restreinte; mais une partie peut, en vertu de l’ancienne Règle, demander une ordonnance enjoignant à son adversaire de communiquer les documents qui sont ou ont été en sa possession, sous sa garde ou son autorité et qui ont trait à tout point litigieux de l’affaire ou de la question (Règle 448). Une telle demande ne sera accueillie que si le requérant arrive à convaincre la Cour que les circonstances particulières de l’affaire exigent ce type plus coûteux de communication, et elle peut être accueillie avec certaines restrictions (Règle 448(2)). Il existe un droit automatique d’examiner les documents communiqués en vertu d’une telle ordonnance et d’en prendre copie (Règle 453).
+22. La cause qui fait autorité est l’arrêt Compagnie Financière du Pacifique v. Peruvian Guano Company (1882), 11 Q.B.D. 55 (C.A.), où le lord juge Brett a énoncé à la page 63 le principe applicable à l’interprétation des mots [TRADUCTION] « un document qui a trait à tout point litigieux de l’action » :
+[TRADUCTION] À mon avis, un document a trait aux points litigieux de l’action non seulement lorsqu’il constitue une preuve à l’égard de ces points litigieux mais également lorsqu’on peut raisonnablement supposer qu’il contient des renseignements pouvant – et non devant – soit directement soit indirectement, permettre à la partie qui exige l’affidavit ou bien de plaider sa propre cause ou bien de nuire à celle de son adversaire. J’ai dit « soit directement soit indirectement » parce que, à mon avis, un document peut, à proprement parler, contenir des renseignements pouvant permettre à la partie qui exige l’affidavit soit de plaider sa propre cause soit de nuire à celle de son adversaire s’il s’agit d’un document susceptible de la lancer dans une enquête et d’entraîner l’une ou l’autre de ces deux conséquences...
+23. Au cours des années, les tribunaux ont constamment suivi et appliqué ce principe et ont étendu son application à la production de documents.
+[16] Dans la décision Owen Holdings Ltd. v. Canada, [1997] 3 C.T.C. 2286, M. le juge Rip a analysé le sens des termes « a trait à » – lesquels ont été interprétés comme ayant une portée très large – et il renvoie avec approbation au jugement prononcé par le juge McNair dans la décision Ikea.
+[17] Je ne crois pas, dans les circonstances de la présente affaire, qu’une ordonnance fondée sur l’article 82 soit justifiée. M. Mintzer a déjà obtenu des documents supplémentaires sous le régime de la Loi sur l’accès à l’information. Compte tenu de la façon dont les questions en litige ont été formulées, toute autre production de documents serait coûteuse en temps et en argent et ne permettrait probablement pas à l’appelant en l’espèce d’obtenir de quelconques éléments susceptibles de lui être utiles.
+[18] L’appelant demande en outre à titre de redressement une ordonnance portant radiation des avis de ratification et de nouvelles cotisations. À mon sens, rien ne justifie une mesure aussi draconienne. Le processus d’appel à la Cour canadienne de l’impôt vise justement, au fond, à permettre l’annulation de cotisations. Les juges de la Cour n’exercent pas cette compétence d’une façon sommaire ou arbitraire.
+[19] Dans sa deuxième requête, M. Mintzer demande une ordonnance portant radiation de la réponse et admission de son appel. Les moyens invoqués à cet égard sont les suivants :
+[TRADUCTION]
+1. Dans le cadre d’une requête déposée à la Cour, l’intimée a produit un affidavit qui révèle que l’appelant a offert de régler le présent appel et qui l’accuse d’avoir menti au sujet d’engagements qu’il a pris lors des interrogatoires préalables. L’intimée a ainsi dressé un obstacle insurmontable au regard du processus d’appel en l’espèce et rendu impossible la tenue d’une audience juste et impartiale.
+2. L’intimée a fait des assertions ex parte au greffier de la Cour canadienne de l’impôt, sans donner aucun avis à l’appelant et à l’insu de ce dernier, de manière à obtenir un avantage dans le cadre du présent appel, ce qui s’est effectivement produit.
+3. Les actes de l’intimée constituent un déni de justice naturelle, contrairement aux principes de justice fondamentale, de même qu’un recours abusif à la Cour et ils ont pour effet de déconsidérer l’administration de la justice.
+[20] En ce qui touche le premier moyen, aucun affidavit produit pour le compte de l’intimée dans la présente instance n’accuse M. Mintzer de mentir au sujet de quelque engagement que ce soit. Certes, il est question d’engagements, mais rien qui, de près ou de loin, laisse entendre que l’appelant aurait fait preuve de malhonnêteté dans sa façon d’agir dans le présent appel. Quant à la lettre dans laquelle l’avocate de l’intimée aurait informé le greffier que l’appelant avait présenté une offre de règlement, elle ne révèle en rien les modalités de ce règlement. Des offres de règlement sont couramment présentées dans le cadre des instances devant la Cour. Les juges savent très bien que les négociations se poursuivent jusqu’au matin de l’instruction et parfois même plus tard. Le fait que les offres de règlement et les contre‑offres sont choses courantes n’influe ni sur moi ni sur les autres juges. La mention d’une lettre de règlement par l’une des parties ne cause un préjudice à personne dans la mesure où les modalités de ce règlement ne sont pas dévoilées.
+[21] Par inadvertance, on a omis d’envoyer à l’appelant un double de la lettre que Me Nott a adressée au greffier. Me Nott reconnaît que cette omission est regrettable et elle a présenté des excuses à M. Mintzer. Ce dernier n’a subi aucun préjudice de quelque nature que ce soit.
+[22] Il n’existe aucun fondement me justifiant de radier la réponse ou d’admettre l’appel.
+[23] La requête de la Couronne visant à proroger le délai de signification d’une réponse à la demande d’aveux est accueillie, et ce délai est prorogé jusqu’au jour où la réponse a été signifiée à l’appelant. Je n’adjuge aucuns dépens relativement à cette requête.
+[24] Les deux requêtes de l’appelant sont rejetées avec dépens, lesquels sont fixés à la somme totale de 350,00 $.
+Signé à Ottawa, Canada, ce 5e jour de février 2008.
+« D.G.H. Bowman »
+Juge en chef Bowman
+Traduction certifiée conforme
+ce 17e jour de mars 2008.
+Michèle Ledecq, réviseure
+RÉFÉRENCE :
+2008CCI72
+NO DU DOSSIER DE LA COUR :
+2006-3892(IT)G
+INTITULÉ DE LA CAUSE :
+Norman A. Mintzer
+c.
+Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 28 janvier 2008
+MOTIFS DE L’ORDONNANCE PAR :
+L’honorable D.G.H. Bowman, juge en chef
+DATE DE L’ORDONNANCE ET DES MOTIFS DE L’ORDONNANCE :
+Le 5 février 2008
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocates de l’intimée :
+Me Margaret J. Nott
+Me Andrea Jackett
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelant
+Nom :
+Cabinet :
+Pour l’intimée :
+John H. Sims, c.r.
+Sous-procureur général du Canada
+[1] Voir Gould v. The Queen, 2005 DTC 1311; Zelinski v. Canada, 2002 DTC 1204, conf. par 2002 DTC 7395.

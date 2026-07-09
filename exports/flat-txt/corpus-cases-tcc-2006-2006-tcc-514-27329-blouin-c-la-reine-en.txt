@@ -1,0 +1,154 @@
+Title: Blouin c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27329/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-514-27329-blouin-c-la-reine-en.md
+Document type: case_law
+Last modified: 2006-10-23
+
+# Blouin c. La Reine
+
+- Citation: 2006 TCC 514
+- Decision date: 2006-10-23
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 869, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Blouin c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-10-23
+Neutral citation
+2006 TCC 514
+File numbers
+2005-529(IT)G
+Judges and Taxing Officers
+Paul Bédard
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2005-529(IT)G
+BETWEEN:
+ROGER BLOUIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on September 13, 2006, at Québec, Quebec
+Before: The Honourable Justice Paul Bédard
+Appearances:
+Counsel for the Appellant:
+Marc-Antoine Deschamps
+Counsel for the Respondent:
+Martin Gentile
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under subsections 160(1), 163(2) and 15(1) of the Income Tax Act in respect of the 1997 taxation year, notices of which are dated October 21, 2002, and December 17, 2002, and bear the numbers 1094466 and 19606, respectively, are dismissed, with costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 23rd day of October 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 20th day of February 2008.
+François Brunet, Revisor
+Citation: 2006TCC514
+Date: 20061023
+Docket: 2005-529(IT)G
+BETWEEN:
+ROGER BLOUIN,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Bédard J.
+[1] Mr. Blouin is appealing, under the general procedure,
+(a) from the assessment dated October 21, 2002, by which
+(i) the Minister of Revenue of Canada ("the Minister") included, in computing the Appellant's income for the 1997 taxation year, an amount of $624,277, which was added to the Appellant's income because the Minister determined that the Appellant appropriated this amount from Les Constructions Roger Blouin Inc. ("the Corporation") and thereby received a benefit as a shareholder under subsection 15(1) of the Income Tax Act ("the Act"), and
+(ii) the Minister imposed a penalty on the Appellant under subsection 163(2) of the Act in respect of his 1997 taxation year; and
+(b) from the assessment dated December 17, 2002, for the 1997 taxation year, by which the Minister claimed the sum of $529,189.68 from the Appellant under subsection 160(1) of the Act.
+The Appellant's testimony
+[2] The Appellant testified as follows:
+(i) He was the sole director and shareholder of the Corporation since its incorporation. The Corporation operated a construction business starting in 1975. The Appellant was a shareholder and director of other corporations as well.
+(ii) On July 2, 1985, the Guarantee Company of North America ("The Guarantee") and the Société Immobilière du Québec ("SIMQ") granted the Corporation a contract to continue and finish some construction work that another company had been unable to complete. The Corporation completed the work on or about December 29, 1987.
+(iii) From the completion date to June 19, 1991, the Corporation had undertaken efforts to recover money (withholdings, extras and damages) that it was owed by The Guarantee and SIMQ in connection with the performance of the contract that was awarded to it on July 2, 1985.
+(iv) For all intents and purposes, the Corporation ceased to carry on business on the completion date of December 22, 1987, because it no longer had the financial resources needed to operate.
+(v) Since the negotiations with The Guarantee and SIMQ were at an impasse, the Corporation launched an action against them to recover $1,097,683.03 (Exhibit A‑1, tab 5).
+(vi) In order to preserve its reputation with its suppliers and bankers and with other stakeholders in the construction field, the Appellant assumed or paid the following debts of the Corporation in the early 1990s ("the Liabilities"):
+i) a $175,000 bank loan payable to the Bank of Nova Scotia;
+ii) an account of $108,729.38 payable to Otis Canada Inc.;
+iii) an account of $186,729.90 payable to P.P.G. Canada Inc.
+iv) an account of $18,997 payable to Vézina Pouliot & Associés;
+v) an account of $60,000 payable to the Municipalité de Charny; and
+vi) an account of $54,000 payable to Entreprise d’Électricité R. Simard.
+The Appellant was unable to specify the dates on which he paid the Liabilities, but he claimed that he assumed them in the early 1990s, that is to say, over a period extending from 1990 to 1994.
+(vii) The Corporation retained the books, records and documentation related to its operations (including the documentation related to the existence and payment of the Liabilities) until the closing of its place of business in 1995. The Appellant testified that he would have liked to retain all this documentation in his apartment afterwards, but that it was too cramped. He added that his efforts to retrieve the supporting documents in question from the Corporation's creditors proved unsuccessful because some of the creditors were no longer in business and others had a policy under which they would only retain supporting documents for a certain number of years.
+(viii) The Appellant paid the Liabilities from the personal savings that he and his spouse had amassed over the years — savings that came from an average annual family income of $70,000.
+(ix) In March 1997, the Corporation received a net amount of $624,277 in an out-of-court settlement of the proceedings that it had instituted to recover the money. This amount consists of $720,000 minus the fees paid to the Corporation's lawyers. The Appellant deposited a cheque for $624,277 in his personal bank account on March 29, 1997 (Exhibit I‑1, tab 9).
+(x) Neither the Corporation nor the Appellant reported the $720,000 in income from the out-of-court settlement. The Appellant explained that he had never thought the Corporation had to report the income from the settlement. He added that he had not even thought of consulting his accountants to find out how the corporation should treat the settlement cheque.
+[3] The evidence also revealed that the Corporation, in its financial statements attached to the returns that it filed for its 1991, 1992, 1993, and 1994 taxation years, did not account for the advances that the Appellant made to it during those years.
+The Respondent's position
+[4] The Respondent submits that the Corporation did not owe the Appellant any money at the time that he deposited the amount of $624,277 into his bank account. The Respondent submits that the Minister properly added $624,277 to the Appellant's income for his 1997 taxation year because the Appellant appropriated this amount from the Corporation and therefore received a benefit as a shareholder within the meaning of subsection 15(1) of the Act.
+[5] At the time that the Appellant deposited the $624,277 cheque into his personal bank account ("the Transfer"), the Corporation owed the Minister $529,189. Since the Appellant and the Corporation were at arm's length at the time of the Transfer, and the Minister was of the opinion that the Transfer was an appropriation of funds (that is to say, a transfer for no consideration), the Respondent submits that the Minister properly assessed the Appellant for $529,189 under section 160 of the Act.
+[6] Lastly, the Respondent submitted that the Appellant, either knowingly or under circumstances that warrant a finding of gross negligence, made a false statement in his income tax return for his 1997 taxation year when he failed to report the $624,277 in income, and that the Minister was therefore justified in imposing a penalty under subsection 163(2) of the Act in respect of his 1997 taxation year.
+The Appellant's position
+[7] The Appellant submits that the Corporation owed him $603,456 at the time of the Transfer because he had paid the Liabilities, which totalled $603,456, prior to the Transfer. Thus, he says, the $603,456 which the Corporation paid him was not an appropriation of funds, but, rather, a reimbursement of the advances that he had made to the Corporation. He adds that since he did not appropriate funds belonging to the Corporation, the Minister has no lawful basis on which to assess him for $529,189 under section 160 of the Act. In the alternative, the Appellant challenges the Corporation's tax debt at the time of the Transfer, arguing that the $720,000 received by the Corporation as part of the out-of-court settlement was not income earned by Corporation, but, rather, in the nature of a capital payment.
+[8] Counsel for the Appellant submits that the Respondent has not met her burden of proof with respect to the penalty under subsection 163(2) of the Act.
+[9] Lastly, in the event that I determine that the Appellant did not advance a total of $603,456 prior to the Transfer, counsel for the Appellant asks that I retrospectively treat the Transfer as a liquidation dividend.
+Analysis and conclusion
+[10] The Appellant's evidence with respect to the assumption of the Liabilities consisted essentially of his testimony, since there was practically no documentary evidence to speak of. Thus, the assessment of his credibility plays an important role, as his testimony was not supported by adequate documentation or by independent, credible witnesses. It is true that the testimony of a single person may be sufficient to meet one's persuasive burden. That being said, the Appellant must understand that a judge does not have to believe an uncontradicted witness. Indeed, his uncontradicted account can be determined implausible based on the circumstances revealed by the evidence or on common-sense principles. It is even more difficult to believe a witness whose account of the facts is contradicted by objective evidence that he himself has provided, who is content to make general and unverifiable comments, and who provides evasive, ambiguous and unintelligible explanations. Moreover, the hesitations of this witness, the time that he took to answer questions, his attitude, and the holes in his memory, often raise even more doubts in this judge's mind with respect to the credibility of the witness.
+[11] In the case at bar, I find the Appellant's assertions with respect to the Liabilities to be implausible and without credibility because his testimony on the subject was contradicted by the financial statements of the Corporation for the 1991, 1992, 1993 and 1994 fiscal years, which were attached to the tax returns filed by the Corporation for those years. Indeed, the advances which the Appellant purportedly made to the Corporation during those years, advances which, as stated, totalled $603,456, were not recorded in those financial statements. The Appellant's explanations, to the effect that he did not consider it necessary to account for such advances to the Corporation in its financial statements because the Corporation was not carrying on business, are simply implausible in my view. I cannot imagine that an experienced businessman, and one as well-advised as the Appellant, could be so unaware of the potential consequences of a failure to account for the advances in the Corporation's financial statements.
+[12] In addition, I find it very difficult to believe that the Appellant retained no documentary evidence related to the payment of the Liabilities. I can understand that the Corporation was unable, after the complete closure of its place of business in 1995, to retain all the books, records and documents related to its operations. I can also understand that the Appellant was unable to store all this documentation in his apartment because of its space limitations. However, these space limitations surely did not prevent the Appellant from retaining at least the six cheques with which the Liabilities were paid. Once again, I find it implausible that a businessman as well-informed as the Appellant could have minimized the importance of retaining such supporting documents, assuming they existed.
+[13] I can also understand that it could sometimes be very difficult to find supporting documents that go so far back in time. The Appellant's evidence with respect to his efforts to find these documents were, once again, wholly dependent on his unverifiable general statements. The absence of any documentary or testimonial evidence pertaining, at the very least, to the Appellant's efforts to find this documentation, simply added to my doubts about the existence of the purported advances.
+[14] The Appellant's explanations about the source of the funds that served to cover the Liabilities were also general and deliberately imprecise. I find it implausible that the Appellant saved roughly $604,000 from his low household income. Once again, the Appellant could have substantiated his assertions with documentary evidence showing that he had this amount of capital at the time that he assumed the Liabilities. It is difficult to believe that it was absolutely impossible to track down any documentation directly or indirectly showing the existence of such capital, or to find an independent, credible witness who could have substantiated the Appellant's assertions on the subject. Once again, the absence of any documentary evidence which, at the very least, substantiated the Appellant's efforts to track down such documentary evidence, merely added to my doubts as to the existence of such capital.
+[15] The Appellant's explanations regarding the Corporation's failure to report the $720,000 in income from its 2003 taxation year further added to my doubts about the Appellant's credibility. I find it implausible that it never occurred to an experienced businessman like the Appellant that the Corporation should perhaps have recorded an amount as small as $720,000 in its income, or that the issue should at least be raised with the Corporation's accountants or tax specialists.
+[16] As I stated, the Appellant deposited a cheque for $624,277 into his personal bank account. The cheque was made payable to the Corporation under the terms of an out-of-court settlement of the action to collect a debt. The Appellant claimed that he did not appropriate this amount from the Corporation. He claimed that the Corporation owed him $603,456 at the time that the cheque was cashed because he had paid off the Liabilities, which totalled $603,456, before then. Thus, he submitted that the $603,456 which the Corporation thereby paid him constituted a reimbursement of the advances that he had made to the Corporation, not an appropriation of funds. I note that the cheque cashed by the Appellant was for $624,277 and that the Liabilities that he claims to have paid off totalled $603,456. Thus, there remains a $20,821 difference between the two amounts — a difference that the Appellant never explained.
+[17] For these reasons, the Appellant has not satisfied me that he paid the Liabilities prior to the Transfer. Therefore, the Minister properly added the sum of $624,277 to the Appellant's income for the 1997 taxation year. In my opinion, when the Appellant cashed the $624,277 cheque payable to the Corporation, he appropriated this amount from the Corporation and thereby received a benefit as a shareholder within the meaning off subsection 15(1) of the Act.
+[18] The issue of the penalties for the 1997 taxation year remains to be addressed. The Respondent submitted that the penalties in respect of the 1997 taxation year should be upheld. They were imposed pursuant to subsection 163(2) of the Act, which reads as follows:
+163(2) False statements or omissions. Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+Subsection 163(3) of the Act provides that the Minister has the burden of proof. It reads:
+Burden of proof in respect of penalties. Where, in an appeal under this Act, a penalty assessed by the Minister under this section or section 163.2 is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[19] Thus, the onus was on the Minister to establish the facts warranty the imposition of the penalties. In the case at bar, this means that the Minister had to prove that the taxpayer made a false statement or omission in a tax return, and that this false statement or omission was made knowingly or under circumstances amounting to gross negligence. The Minister's onus is not to make proof beyond a reasonable doubt, but, rather, simply to make proof on a balance of probabilities.
+[20] Generally, the Minister cannot discharge his burden of proof simply by arguing that the taxpayer was unable to refute the assessment. In Dowling v. Canada, [1996] T.C.J. No. 301, docket 93-934(IT)G, 96 DTC 1250, my colleague Lamarre J. explained this point as follows, at paragraph 102:
+The Minister must present evidence to the effect that the taxpayer made a false statement or omission in filing the return. This evidence must amount to more than just showing that the net worth statement was not disproved. Once the Minister proves, on a balance of probabilities, that a false statement or omission was made in the return, evidence must be presented that this misrepresentation was made knowingly or under circumstances amounting to gross negligence. In Venne, supra, Justice Strayer defined gross negligence at 6256:
+. . . "Gross negligence" must be taken to involve greater neglect than simply a failure to use reasonable care. It must involve a high degree of negligence tantamount to intentional acting, an indifference as to whether the law is complied with or not.
+. . . The sub-section obviously does not seek to impose absolute liability but instead only authorizes penalties where there is a high degree of blamewortheness [sic] involving knowing or reckless misconduct [6258].
+[21] Here, the appellant signed his tax return knowing full well that he had appropriated $624,277 from the Corporation. He made a voluntary omission of tremendous proportions. In my opinion, the Minister has discharged his burden of proof in the instant case and was therefore warranted in imposing the penalty contemplated in subsection 163(2) of the Act on the Appellant's unreported income, which totalled $624,277 in 1997.
+[22] With respect to the assessment in the amount of $529,189 against the Appellant under section 160 of the Act, I note that the Appellant submitted that:
+(i) the Minister was not warranty in assessing the Appellant under section 160 of the Act because he did not appropriate funds from the Corporation; and
+(ii) the Corporation had no tax liability at the time of the Transfer because the $720,000 payment that the Corporation received as part of the out-of-court settlement was not income earned by the Corporation, but, rather, in the nature of a capital payment.
+[23] Lastly, as I have stated, counsel for the Appellant asked me to treat the transfer like a liquidation dividend if I were to find that he had not advanced $603,456 to the Corporation as of the date of the Transfer.
+[24] First of all, I am of the opinion that the amount of $720,000 which was received by the Corporation in connection with the out-of-court settlement of the action to collect a debt from The Guarantee and SIMQ was clearly compensation awarded by reason of a failure to pay an amount that would have constituted income if it had been received. Thus, I hold that the compensation was income.
+[25] As for the request by counsel for the Appellant to treat the cashing of the $603,456 cheque as a liquidation dividend, I simply cannot accept it. First of all, that argument was raised for the first time in the oral submissions by counsel for the Appellant, without having been raised in the Notice of Appeal. In addition, the Appellant never proved that the Corporation authorized the distribution of a liquidation dividend. On the contrary, the Appellant incessantly repeated that the cashing of the cheque payable to the Corporation effected a set-off because it was a reimbursement of advances that he had made to the Corporation prior to the Transfer.
+[26] For these reasons, the appeals are dismissed, with costs.
+Signed at Ottawa, Canada, this 23rd day of October 2006.
+"Paul Bédard"
+Bédard J.
+Translation certified true
+on this 20th day of February 2008.
+François Brunet, Revisor
+CITATION: 2006TCC514
+COURT FILE NO.: 2005-529(IT)G
+STYLE OF CAUSE: ROGER BLOUIN AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: September 13, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice Paul Bédard
+DATE OF JUDGMENT: October 23, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Marc-Antoine Deschamps
+Counsel for the Respondent:
+Martin Gentile
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Marc-Antoine Deschamps
+Firm: Pothier, Delisle
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

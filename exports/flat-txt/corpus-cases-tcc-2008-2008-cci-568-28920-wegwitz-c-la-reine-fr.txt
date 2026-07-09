@@ -1,0 +1,117 @@
+Title: Wegwitz c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28920/index.do
+Corpus path: corpus/cases/tcc/2008/2008-cci-568-28920-wegwitz-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2008-10-15
+
+# Wegwitz c. La Reine
+
+- Citation: 2008 CCI 568
+- Decision date: 2008-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1428, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wegwitz c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2008-10-15
+Référence neutre
+2008 CCI 568
+Numéro de dossier
+2007-3956(IT)I
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2007-3956(IT)I
+ENTRE :
+LEONARD WEGWITZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 8 octobre 2008, à Lethbridge (Alberta)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Avocat de l’appelant :
+Me Barrie G. Broughton
+Avocat de l’intimée :
+Me Valerie Meier
+____________________________________________________________________
+JUGEMENT
+L’appel formé contre la nouvelle cotisation établie en vertu de la Loi de l'impôt sur le revenu pour l’année d’imposition 2005 de l’appelant est rejeté, sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 15e jour d’octobre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 21e jour de novembre 2008.
+S. Tasset
+Référence : 2008CCI568
+Date : 20081015
+Dossier : 2007-3956(IT)I
+ENTRE :
+LEONARD WEGWITZ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] L’appelant a fait appel de l’inclusion de la somme de 10 132 $ dans son revenu de l’année 2005. Il ne conteste pas que ce revenu a été gagné en 2005, mais, selon lui, il ne s’agissait pas de son revenu à lui, mais plutôt du revenu de sa société, Southern Gem Enterprises Inc.
+[2] L’appelant est âgé de 75 ans, et il avait donc 72 ans en 2005. Il a occupé divers emplois depuis 2005. Durant 36 ans, il a travaillé pour le gouvernement fédéral, au ministère de l’Agriculture. Après avoir quitté ce poste pour prendre sa retraite, il a géré un ranch durant environ deux ans et a occupé d’autres emplois. En 2003, il a constitué la société Southern Gem Enterprises Inc., car il voulait se servir de cette société pour fournir des services. Cette société fournissait des services aux sociétés Midwest Laundry Equipment et Goodlife Foods. Cependant, ces deux sociétés exerçaient des compressions budgétaires à ce moment‑là et, lorsqu’il vit dans le journal une offre d’emploi pour un poste de gardien de sécurité, il a décidé de poser sa candidature. Il n’avait jamais travaillé comme gardien de sécurité, mais il avait décidé de tenter sa chance. Il a répondu à cette annonce et a réussi à obtenir un poste de gardien de sécurité. La somme qui fut versée en 2005 par la société G4S Security Services (Canada) Ltd. (10 132 $) correspond au revenu qui est en litige dans la présente affaire.
+[3] Il est fait référence à diverses sociétés en ce qui concerne le payeur – G4S Security Services (Canada) Ltd., Group 4 Securitas (Canada) Ltd., et Group 4 Falck (Canada) Ltd. Dans son avis d’appel, l’appelant indiquait que c’est G4S Security Services (Canada) Ltd. qui était le payeur de la somme en cause et l’émetteur du feuillet T4 pour l’année 2005. Dans sa réponse, l’intimée reconnaît que cette société a émis le feuillet T4 et payé la somme qui est en cause. Le formulaire de demande d’emploi parle de « Group 4 Securitas (Canada) Ltd. », et d’autres formulaires parlent de « Group 4 Falck (Canada) Ltd. ». Il semble donc que le payeur utilisait simplement des formulaires qui avaient été préparés pour diverses sociétés faisant partie du même groupe de sociétés. Puisque les parties reconnaissent que la personne à l’origine des paiements était G4S Security Services (Canada) Ltd., il n’y a aucun différend sur l’identité du payeur dans le contrat relatif aux services de gardien de sécurité, et le payeur sera appelé ici « G4S ». Pour que l’appelant obtienne gain de cause dans la présente affaire, il devra établir que les services de gardien de sécurité devaient être fournis par Southern Gem Enterprises Inc. à G4S (et non par l’appelant à G4S).
+[4] Une copie de la lettre que l’appelant avait envoyée en réponse à l’annonce parue dans le journal a été produite comme preuve. La lettre porte la date du 31 août 2004. Elle est signée par l’appelant lui-même. La seule mention de Southern Gem Enterprises Inc. dans la lettre se trouve dans le passage suivant :
+[traduction] Si cela vous convient, et si je suis embauché, je pourrais travailler selon des conditions contractuelles. J’ai constitué la société Southern Gem Enterprises Inc. Je puis me mettre à disposition moyennant un bref préavis.
+[5] Ce paragraphe de la lettre est conditionnel. Il débute par les mots « si cela vous convient », puis l’appelant écrit ensuite qu’il pourrait travailler selon des conditions contractuelles. La lettre ne dit pas d’une manière catégorique qu’il devra travailler selon des conditions contractuelles ni que la personne qui s’offre à fournir les services de gardien de sécurité était Southern Gem Enterprises Inc. Au lieu de cela, et uniquement si cela convenait au payeur, l’appelant, ou bien sa société, pouvait travailler selon des conditions contractuelles. Cela n’est pas une preuve concluante que la personne avec laquelle la société G4S s’était entendue était Southern Gem Enterprises Inc., puisque la lettre évoque uniquement la possibilité que les services puissent être fournis par Southern Gem Enterprises Inc.
+[6] À la suite de l’entretien de l’appelant avec G4S, l’appelant a rempli un certain nombre de formulaires de sa propre main, puis les a signés. Dans le formulaire de demande d’emploi, l’appelant a écrit son propre nom comme nom de l’employé, et son nom a été répété dans chacun des autres formulaires. Il n’a écrit le nom de la société Southern Gem Enterprises Inc. dans aucun de ces formulaires. Dans le formulaire de demande d’emploi, l’appelant a inscrit la société Midwest Laundry Equipment et la société Goodlife Foods comme anciens employeurs. Ces deux sociétés étaient des sociétés auxquelles des services avaient été fournis par Southern Gem Enterprises Inc., mais ce formulaire n’indiquait nulle part que c’est Southern Gem Enterprises Inc. qui avait fourni les services à ces deux sociétés.
+[7] L’appelant a récemment changé l’adresse à laquelle ses talons de chèques de paie devaient être envoyés, pour une adresse qui indique encore le nom de l’appelant, et il a demandé que le document doit lui être envoyé aux soins de Southern Gem Enterprises Inc. Cependant, cette mention de Southern Gem Enterprises Inc. fait simplement partie de l’adresse où la feuille de paie doit être envoyée, et le simple fait d’insérer le nom de la société dans l’adresse ne saurait modifier l’identité de la personne qui est partie au contrat.
+[8] Mme Heilman, la gérante de district de G4S pour le territoire qui comprend Lethbridge, a elle aussi témoigné. Elle a été un témoin crédible et j’accepte sa déposition. Elle a dit que, même si la compagnie nationale embauche parfois des personnes en tant qu’entrepreneurs indépendants, sa succursale n’a jamais retenu les services d’un gardien de sécurité en tant qu’entrepreneur indépendant. Si une personne devait être embauchée comme entrepreneur indépendant, il faudrait alors qu’elle remplisse des formulaires autres que ceux qui ont été utilisés dans la présente affaire. Mme Heilman a dit que la première fois qu’elle a entendu parler de Southern Gem Enterprises Inc., c’était après que l’appelant avait été embauché et alors qu’elle se préparait à témoigner à la présente audience. Elle a catégoriquement affirmé que le contrat avait été conclu avec l’appelant et non avec Southern Gem Enterprises Inc., et que l’appelant avait été embauché comme employé.
+[9] Les primes d’assurance-emploi et l’impôt sur le revenu étaient déduits des sommes payées par G4S, et un feuillet T4 était établi à la fin de l’année, qui désignait l’appelant comme employé de G4S et qui indiquait le montant du revenu et des déductions. Cela s’accorde avec la position de G4S, pour qui l’appelant était un employé de G4S, et cela s’accorde aussi avec tous les formulaires remplis et signés par l’appelant.
+[10] Les sommes payées par G4S étaient virées directement au compte bancaire de Southern Gem Enterprises Inc. Cependant, il s’agissait là simplement du compte bancaire désigné pour le dépôt direct des sommes en question, ce qui ne prouve pas que Southern Gem Enterprises Inc. était la partie au contrat conclu avec G4S. Puisque l’appelant avait désigné ce compte, G4S pouvait présumer que les sommes dues à l’appelant pouvaient être déposées dans ce compte et qu’elles seraient considérées comme des paiements faits à l’appelant. Le simple fait que les sommes soient déposées dans un compte de Southern Gem Enterprises Inc. ne fait pas de cette société la partie au contrat qui a été conclu avec G4S.
+[11] L’appelant a tenté de montrer que les sommes étaient payées à Southern Gem Enterprises Inc., en faisant adopter une résolution par les administrateurs de cette société. Cette résolution prévoyait ce qui suit :
+[traduction]
+Sujet : Sommes reçues par Southern Gem Enterprises Inc. au titre de services rendus à Group 4 Falk Security, payées au nom de Len Wegwitz, déposées directement au compte bancaire de Southern Gem Enterprises Inc.
+Raison : Une licence de gardien de sécurité délivrée par le solliciteur général provincial doit être délivrée à une personne physique plutôt qu’à une personne morale. Southern Gem Enterprises Inc. souscrit à la procédure requise par le mode de paiement de Group 4 Security pour les services rendus.
+[12] Une résolution unilatérale signée par les administrateurs de Southern Gem Enterprises Inc. ne saurait modifier la relation entre G4S et l’appelant. Cette résolution reconnaît toutefois que les sommes payées par G4S étaient payées à l’appelant, puisque c’est lui qui détenait la licence de gardien de sécurité.
+[13] La mention de la licence de gardien de sécurité se rapporte aux exigences fixées par la loi albertaine dite Private Investigators and Security Guards Act, R.S.A. 2000, ch. P-23. Les paragraphes 4(1) et (2) de cette loi prévoient ce qui suit :
+[traduction]
+4(1) Nul ne peut exercer l’activité consistant à fournir des services de gardien de sécurité, à titre onéreux ou à titre gracieux, sans une licence d’agence de gardiens de sécurité délivrée en vertu de la présente loi.
+(2) Nul ne peut, sans une licence de gardien de sécurité délivrée en vertu de la présente loi, agir comme gardien de sécurité pour une personne dont l’activité consiste à fournir des services de gardien de sécurité.
+[14] L’appelant avait obtenu la licence de gardien de sécurité dont parle le paragraphe 4(2) de la loi albertaine. Il reconnaît clairement que Southern Gem Enterprises Inc. n’avait pas obtenu une licence d’agence de gardiens de sécurité (celle dont parle le paragraphe 4(1) de la loi albertaine), licence qui aurait été nécessaire si c’est Southern Gem Enterprises Inc. qui avait fourni des services de gardien de sécurité à G4S. Southern Gem Enterprises Inc. n’aurait pu obtenir une licence de gardien de sécurité (celle dont parle le paragraphe 4(2) de la loi albertaine) puisque le Règlement d’application 71/1991 de la loi albertaine, à savoir le Private Investigators and Security Guards Regulation, qui prévoit un certain type de formulaire à remplir pour obtenir une licence de gardien de sécurité, limite aux personnes physiques la délivrance des licences de gardien de sécurité. Il aurait fallu à Southern Gem Enterprises Inc. une licence d’agence de gardiens de sécurité (au coût de 400 $), outre la licence de gardien de sécurité que l’appelant a obtenue (au coût de 30 $), si l’appelant avait travaillé pour Southern Gem Enterprises Inc. en tant que gardien de sécurité, et si Southern Gem Enterprises Inc. avait fourni des services de gardien de sécurité à G4S.
+[15] En l’espèce, les parties au contrat en vertu duquel des services de gardien de sécurité ont été fournis en 2005 étaient G4S et l’appelant. Par conséquent, la somme de 10 132 $ a été incluse à juste titre dans le revenu de l’appelant pour 2005. L’appelant avait fait valoir qu’il avait été embauché comme entrepreneur indépendant et non comme employé. Il n’importe pas que l’appelant ait été un employé ou un entrepreneur indépendant. Il a reçu une rémunération de 10 132 $ en 2005, et cette somme, sous réserve des frais qu’il pourrait avoir le droit de déduire, sera incluse dans son revenu de l’année 2005. La seule utilité de savoir si l’appelant était un employé ou un entrepreneur indépendant au regard du présent appel interjeté en vertu de la Loi de l'impôt sur le revenu concernerait certaines dépenses qu’il pourrait avoir le droit de déduire en tant qu’entrepreneur indépendant et qu’il ne pourrait pas déduire en tant qu’employé. Cependant, le détail des dépenses qui ont été engagées par l’appelant n’a pas été donné, et donc la somme qui sera incluse dans son revenu pour l’année 2005 sera 10 132 $, qu’il ait été un employé ou un entrepreneur indépendant.
+[16] L’appel est rejeté, sans dépens.
+Signé à Halifax (Nouvelle-Écosse), ce 15e jour d’octobre 2008.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 21e jour de novembre 2008.
+S. Tasset
+RÉFÉRENCE : 2008CCI568
+N° DU DOSSIER DE LA COUR : 2007-3956(IT)I
+INTITULÉ : LEONARD WEGWITZ ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Lethbridge (Alberta)
+DATE DE L’AUDIENCE : Le 8 octobre 2008
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 15 octobre 2008
+COMPARUTIONS :
+Avocat de l’appelant :
+Me Barrie G. Broughton
+Avocat de l’intimée :
+Me Valerie Meier
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom : Me Barrie G. Broughton
+Cabinet : North & Co. LLP
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada

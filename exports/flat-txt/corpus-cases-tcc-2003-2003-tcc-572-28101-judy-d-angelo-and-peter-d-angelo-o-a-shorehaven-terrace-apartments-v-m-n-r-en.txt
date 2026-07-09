@@ -1,0 +1,160 @@
+Title: Judy D'Angelo and Peter D'Angelo O-A Shorehaven Terrace Apartments v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28101/index.do
+Corpus path: corpus/cases/tcc/2003/2003-tcc-572-28101-judy-d-angelo-and-peter-d-angelo-o-a-shorehaven-terrace-apartments-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2003-08-12
+
+# Judy D'Angelo and Peter D'Angelo O-A Shorehaven Terrace Apartments v. M.N.R.
+
+- Citation: 2003 TCC 572
+- Decision date: 2003-08-12
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1686, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Judy D'Angelo and Peter D'Angelo O-A Shorehaven Terrace Apartments v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-08-12
+Neutral citation
+2003 TCC 572
+File numbers
+2002-4135(EI)
+Judges and Taxing Officers
+Donald G.H. Bowman
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-4135(EI)
+BETWEEN:
+JUDY D'ANGELO AND PETER D'ANGELO,
+O/A SHOREHAVEN TERRACE APARTMENTS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Judy D'Angelo and Peter D'Angelo, o/a Shorehaven Terrace Apartment,
+(2002-4136(CPP)) on August 7, 2003 at North Bay, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+Agents for the Appellant:
+Peter D'Angelo
+Daralynn D'Angelo
+Counsel for the Respondent:
+Joanna Hill
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is dismissed and the decision of the Minister, on the appeal made to him under section 91 of the Act is confirmed.
+Signed at Toronto, Ontario, this 12th day of August 2003.
+"D.G.H. Bowman"
+A.C.J.
+Docket: 2002-4136(CPP)
+BETWEEN:
+JUDY D'ANGELO AND PETER D'ANGELO,
+O/A SHOREHAVEN TERRACE APARTMENTS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of
+Judy D'Angelo and Peter D'Angelo, o/a Shorehaven Terrace Apartment,
+(2002-4135(EI)) on August 7, 2003 at North Bay, Ontario.
+Before: The Honourable D.G.H. Bowman, Associate Chief Justice
+Appearances:
+Agents for the Appellant:
+Peter D'Angelo
+Daralynn D'Angelo
+Counsel for the Respondent:
+Joanna Hill
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 28(1) of the Canada Pension Plan is dismissed and the decision of the Minister, on the appeal made to him under section 27 of the Plan, is confirmed.
+Signed at Toronto, Ontario, this 12th day of August 2003.
+"D.G.H. Bowman"
+A.C.J.
+Citation: 2003TCC572
+Date: 20030812
+Docket: 2002-4135(EI)
+BETWEEN:
+JUDY D'ANGELO AND PETER D'ANGELO,
+O/A SHOREHAVEN TERRACE APARTMENTS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+AND
+2002-4136(CPP)
+BETWEEN:
+JUDY D'ANGELO AND PETER D'ANGELO,
+O/A SHOREHAVEN TERRACE APARTMENTS,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Bowman, A.C.J.
+[1] These appeals are from determinations made under the Employment Insurance Act and the Canada Pension Plan that Sherri L. Chapple was employed by the appellants in insurable and pensionable employment during the period from January 1, 2001 to December 20, 2001. A similar ruling for the period of February 1, 1999 to December 31, 2000 was made on February 22, 2002 but an appeal was not taken, possibly because the ruling request was not made in time. At all events counsel for the respondent informed me that the Minister would, as a matter of administrative policy, reassess the earlier periods if the decision in this appeal is in favour of the appellants.
+[2] The appellants, who live in Toronto, own a 44‑unit apartment building in North Bay. Sherri Chapple ("Sherri") and her spouse Michael Cameron ("Mike") were tenants in this building. The appellants needed a superintendent for the building because the existing superintendent was leaving. They approached Sherri and Mike in the fall of 1998 and on January 8, 1999 the appellants signed an agreement with Sherri described as a Superintendent Contract. To the agreement was attached a three‑page schedule outlining Sherri's duties.
+[3] Under the agreement Sherri agreed to be the building superintendent. Her responsibilities included tenant comfort, care and security, building and ground cleaning, maintenance of all systems, minor repairs and restoration, including plumbing, electrical, mechanical and carpentry work, painting, and bathoom restoration. She was paid $750 per month and was given a free apartment.
+[4] Although he did not sign the contract it was understood by all parties that the contract was also with Mike. While he was there Mike did the outside work, the painting and some of the plumbing, whereas Sherri did the cleaning and the tenant relations.
+[5] Mike left Sherri in December 1999 as the result of matrimonial problems. He moved back with Sherri in 2002 after she had left the apartment and the position as superintendent.
+[6] While Mike lived with Sherri they shared the work more or less equally. The reason he did not sign the contract was that he had been receiving a disability pension and was concerned if he were shown as working for the appellant it might be difficult to resume his disability pension.
+[7] After he left, Mike came back from time to time to help Sherri with some of the jobs, but essentially Sherri was left with the full responsibility. Occasionally a friend of Sherri's, Robert Gauthier, would come and help with some of the jobs. For this he would be paid separately by the appellants.
+[8] Relations between Sherri and the appellants deteriorated. Some of her functions were contracted out to others and ultimately Sherri left. The dispute arose because Sherri demanded vacation pay which the appellants refused on the basis that she was an independent contractor. The matter came before the Ontario Labour Relations Board and the appellants were ordered to pay a total of $2,056.73. Ultimately the parties settled for one half of this amount. However, the dispute came to the attention of the Canada Customs and Revenue Agency and the result was the determination that is in issue here.
+[9] The question of course is: Was Sherri an employee of the appellants or was she an independent contractor, or, put differently, was her contract with the appellants of service or for services?
+[10] In a very thorough and well researched argument the appellants point to a number of considerations that they contend support the view that Sherri was an independent contractor.
+(a) the relative lack of supervision by them since they lived in Toronto;
+(b) the fact that the contract was essentially with both Sherri and Mike;
+(c) the fact that she was free to take other cleaning jobs, such as ERB Transport or Jackman Flowers;
+(d) the fact that her hours for doing the various jobs were relatively flexible.
+[11] There are no hard and fast rules for determining these questions. Each case turns on its own facts. Some factors may point in one direction, others in another. Each must be assigned its proper weight in the context of the overall relationship. MacGuigan J. developed a four-in-one test in Wiebe Door Services Ltd. v. M.N.R., [1986] 3 F.C. but he acknowledged that no single test has been found.
+[12] In 671122 Ontario Ltd. v. Sagaz Industries Canada Inc., [2001] 2 S.C.R. 983 Major J., speaking for the Court said at paragraphs 46, 47 and 48:
+In my opinion, there is no one conclusive test which can be universally applied to determine whether a person is an employee or an independent contractor. Lord Denning stated in Stevenson Jordan, supra, that it may be impossible to give a precise definition of the distinction (p. 111) and, similarly, Fleming observed that "no single test seems to yield an invariably clear and acceptable answer to the many variables of ever changing employment relations ..." (p. 416). Further, I agree with MacGuigan J.A. in Wiebe Door, at p. 563, citing Atiyah, supra, at p. 38, that what must always occur is a search for the total relationship of the parties:
+[I]t is exceedingly doubtful whether the search for a formula in the nature of a single test for identifying a [page1005] contract of service any longer serves a useful purpose.... The most that can profitably be done is to examine all the possible factors which have been referred to in these cases as bearing on the nature of the relationship between the parties concerned. Clearly not all of these factors will be relevant in all cases, or have the same weight in all cases. Equally clearly no magic formula can be propounded for determining which factors should, in any given case, be treated as the determining ones.
+Although there is no universal test to determine whether a person is an employee or an independent contractor, I agree with MacGuigan J.A. that a persuasive approach to the issue is that taken by Cooke J. in Market Investigations, supra. The central question is whether the person who has been engaged to perform the services is performing them as a person in business on his own account. In making this determination, the level of control the employer has over the worker's activities will always be a factor. However, other factors to consider include whether the worker provides his or her own equipment, whether the worker hires his or her own helpers, the degree of financial risk taken by the worker, the degree of responsibility for investment and management held by the worker, and the worker's opportunity for profit in the performance of his or her tasks.
+It bears repeating that the above factors constitute a non-exhaustive list, and there is no set formula as to their application. The relative weight of each will depend on the particular facts and circumstances of the case.
+[13] Some of the factors that have been mentioned are control, ownership of tools, chance of profit and risk of loss, integration. The last, integration, has never been a particularly useful or meaningful test, at least in the context of the cases which we have to consider under the Employment Insurance Act or the Canada Pension Plan.
+[14] So far as the others are concerned, Sherri was paid a monthly salary. Her time was not her own — she had to be on call or in the building for a large part of the day, her other cleaning jobs were done on weekends or at night, virtually all the tools were supplied by the appellants and her salary was the same whether there were vacancies or not. Although the appellants did not directly supervise her work she was given a specific set of rules to follow. I do not think that the relative autonomy that she enjoyed was inconsistent with an employment relationship. It was the type of autonomy enjoyed by any trusted and skilled employee. Even applying the "traditional" tests, singly or cumulatively, she was an employee. More importantly, the overall relationship has the usual earmarks of employment.
+[15] The appeals are dismissed.
+Signed at Toronto, Ontario, this 12th day of August 2003.
+"D.G.H. Bowman"
+A.C.J.
+CITATION:
+2003TCC572
+COURT FILE NO.:
+2002-4135(EI)
+2002-4136(CPP)
+STYLE OF CAUSE:
+Judy D'Angelo & Peter d'Angelo
+o/a Shorehaven Terrace Apartments and The Minister of National Revenue
+PLACE OF HEARING
+North Bay, Ontario
+DATE OF HEARING
+August 7, 2003
+REASONS FOR JUDGMENT BY:
+The Honourable D.G.H. Bowman
+Associate Chief Justice
+DATE OF REASONS FOR JUDGMENT:
+August 12, 2003
+APPEARANCES:
+Agents for the Appellant:
+Peter D'Angelo and
+Daralynn D'Angelo
+Counsel for the Respondent:
+Joanna Hill
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada

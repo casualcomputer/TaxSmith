@@ -1,0 +1,187 @@
+---
+title: "Wunderlich v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30637/index.do"
+last_modified: "2011-12-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2011 TCC 539"
+citation2: ""
+neutral_citation: "2011 TCC 539"
+decision_date: "2011-12-01"
+language: "en"
+item_id: "30637"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7131
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T02:49:02.718000+00:00"
+cases_cited_count: 2
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "2f8fa0151df639e4e52d6749b820f247dca7e3bb002c210bd6b4ebb2a23b269a"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Wunderlich v. The Queen
+
+- Citation: 2011 TCC 539
+- Decision date: 2011-12-01
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7131, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Wunderlich v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-12-01
+Neutral citation
+2011 TCC 539
+File numbers
+2011-386(IT)I
+Judges and Taxing Officers
+Wyman W. Webb
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2011-386(IT)I
+BETWEEN:
+GLEN WUNDERLICH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on November 22, 2011 at Hamilton, Ontario
+Before: The Honourable Justice Wyman W. Webb
+Appearances:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Leslie Ross
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act (the “Act”) for the 2008 taxation year is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to deduct moving expenses of $33,160 in determining his income for 2008.
+The Respondent shall pay costs to the Appellant which are fixed in the amount of $250.
+Signed at Ottawa, Canada, this 1st day of December, 2011.
+“Wyman W. Webb”
+Webb, J.
+Citation: 2011TCC539
+Date: 20111201
+Docket: 2011-386(IT)I
+BETWEEN:
+GLEN WUNDERLICH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Webb, J.
+[1] In determining his income for 2008 the Appellant claimed moving expenses of $33,160. In assessing the Appellant for 2008, the Canada Revenue Agency denied these expenses on the basis that the Appellant did not have a “new work location”.
+[2] The Appellant commenced employment with Boehringer Ingelheim (Canada) Ltd. (the “employer”) on June 1, 2004. The employer was (and still is) located at 5180 South Service Road, Burlington, Ontario. At that time the Appellant was living at 76 Crossovers Street, Toronto. In February 2007 the Appellant accepted a promotion and he determined that he would need to move closer to his place of work. The Appellant and his family moved to Oakville, Ontario and there is no dispute that the new residence is 50 kms closer to his work than his former residence. The Respondent did not dispute that the Appellant had incurred the costs as claimed in relation to his move in 2008 and the Respondent agrees that the Appellant was not reimbursed for such costs.
+[3] As provided in subsection 62(1) of the Income Tax Act (the “Act”) a taxpayer may claim moving expenses (subject to certain limitations that are not in dispute in this appeal) that have been incurred in respect of an eligible relocation. An eligible relocation is defined in subsection 248(1) of the Act, in part, as follows:
+“eligible relocation” means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location in Canada (in section 62 and this subsection referred to as “the new work location”), or
+…
+(b) both the residence at which the taxpayer ordinarily resided before the relocation (in section 62 and this subsection referred to as “the old residence”) and the residence at which the taxpayer ordinarily resided after the relocation (in section 62 and this subsection referred to as “the new residence”) are in Canada, and
+(c) the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location
+except that, in applying subsections 6(19) to (23) and section 62 in respect of a relocation of a taxpayer who is absent from but resident in Canada, this definition shall be read without reference to the words “in Canada” in subparagraph (a)(i), and without reference to paragraph (b);
+[4] Counsel for the Respondent referred to the decision of then Chief Justice Christie in Bracken v. Minister of National Revenue, [1984] C.T.C. 2922, 84 DTC 1813 and to some of the decisions of this Court which followed this decision, including the decision of Justice Bowman (as he then was) in Jaggers v. The Queen, [1997] 3 C.T.C. 2372, 97 DTC 1317. In Bracken, then Chief Justice Christie stated that:
+15 My reading of subsection 62(1) is that it contemplates the existence of four separate elements: old work location, new work location, old residence and new residence, and the comparison of two distances, i.e. the distance from the old residence to the new work location with the distance from the new residence to the new work location, the former of which must exceed the latter by 40 or more kilometers in order for the moving expenses to be deductible. In this case two of the four elements are each combined with one of the other two resulting in two components. That is to say the old work location was joined with the old residence and the new work location is joined with the new residence thereby leaving only the distance between the two components capable of any conceivably meaningful measurement. In my opinion the subsection is not properly applicable to these circumstances.
+[5] It is important to note that then Chief Justice Christie’s comments were based on his reading of subsection 62(1) of the Act which would be his reading of the Act as it read in 1981, which was the taxation year in issue. At that time subsection 62(1) of the Act provided (in part) as follows:
+62. (1) Where a taxpayer
+(a) has, at any time,
+(i) ceased to carry on business or to be employed at the location or locations, as the case may be, in Canada at which he ordinarily so carried on business or was so employed, or
+(ii) ceased to be a student in full-time attendance at an educational institution in Canada that is a university, college or other educational institution providing courses at a post-secondary school level,
+and commenced to carry on a business or to be employed at another location in Canada (hereinafter referred to as his “new work location”), or
+(b) has, at any time, commenced to be a student in full-time attendance at an educational institution (hereinafter referred to as his “new work location”) that is a university, college or other educational institution providing courses at a post-secondary school level,
+and by reason thereof has moved from the residence in Canada at which, before the move, he ordinarily resided on ordinary working days (hereinafter referred to as his “old residence”) to a residence in Canada at which, after the move, he ordinarily so resided (hereinafter referred to as his “new residence”), so that the distance between his old residence and his new work location is not less than 40 kilometres greater than the distance between his new residence and his new work location, in computing his income for the taxation year in which he moved from his old residence to his new residence or for the immediately following taxation year, there may be deducted amounts paid by him as or on account of moving expenses incurred in the course of moving from his old residence to his new residence, to the extent that …
+[6] The four elements identified by then Chief Justice Christie were clearly identified in the provisions of subsection 62(1) of the Act as it then read. In 1981 there was a requirement that a person cease to carry on business or be employed (or cease to be a student) at a particular location and commence to carry on a business or be employed at another location. These are the first two elements identified by then Chief Justice Christie. The other two elements (the old residence and the new residence) have not changed and are not in dispute in this case. Since in 1981 there was a reference to the work location where the taxpayer had been employed (and at which he ceased to be employed) and a reference to another location, it would be logical to refer to the new location at which the taxpayer was working as the “new work location”.
+[7] By S.C. 1984, c. 45, s. 21, (applicable with respect to relocations occurring after 1983) subsection 62(1) of the Act was amended to read (in part) as follows:
+62. (1) Where a taxpayer has, at any time, commenced
+(a) to carry on a business or to be employed at a location in Canada (in this subsection referred to as “the new work location”), or
+(b) to be a student in full-time attendance at an educational institution (in this subsection referred to as “the new work location”) that is a university, college or other educational institution providing courses at a post-secondary school level,
+and by reason thereof has moved from the residence in Canada at which, before the move, the taxpayer ordinarily resided (in this section referred to as “the old residence”) to a residence in Canada at which, after the move, the taxpayer ordinarily resided (in this section referred to as “the new residence”), so that the distance between the old residence and the new work location is not less than 40 kilometres greater than the distance between the new residence and the new work location, in computing the taxpayer's income for the taxation year in which the taxpayer moved from the old residence to the new residence or for the immediately following taxation year, there may be deducted amounts paid by the taxpayer as or on account of moving expenses incurred in the course of moving from the old residence to the new residence, to the extent that
+[8] The requirement that the taxpayer must cease to be employed or to be a student was removed. Hence the requirement for an “old work location” was removed. Commencing in 1983 the only requirement related to a work location was that the taxpayer had commenced to be employed at a location in Canada. The label that was put on this location was the “new work location”. It should also be noted that the same label “new work location” was also placed on the educational institution if the taxpayer was a student. This emphasizes the point that “new work location” is simply the name or the label that was placed on the particular location. The words used as part of this label (in particular new and work) should not be used to define the expression “new work location”. “New work location” is the expression or label that, prior to 1998, was defined in subsection 62(1) of the Act and was the location where the taxpayer commenced to be employed (or at which he commenced to be a student).
+[9] By S.C. 1999, c. 22, subsec. 17(1), (applicable after 1997), subsection 62(1) of the Act was again amended. In 1999 subsection 62(1) of the Act was amended to read, in part, as follows:
+62. (1) There may be deducted in computing a taxpayer's income for a taxation year amounts paid by the taxpayer as or on account of moving expenses incurred in respect of an eligible relocation, to the extent that…
+[10] The requirements related to the location of the work and the old residence and the new residence were moved to the definition of “eligible relocation” in subsection 248(1) of the Act, which is quoted above. The requirement that the taxpayer must have “commenced …to be employed” has been changed to a “relocation [that] occurs to enable the taxpayer…to be employed”.
+[11] The argument of the Respondent is that the Appellant was employed by the same employer prior to his promotion in 2007 and his move in 2008 and therefore there was no “old work location” nor was there a “new work location”. The requirement for an “old work location” was based on the comments of then Chief Justice Christie in Bracken, above. It seems to me that the comments of then Chief Justice Christie in Bracken, above, were based on the Act as it read in 1981. Since the Act was amended in 1984 to remove the requirement that a taxpayer cease to be employed at a particular location and therefore removed the requirement for an “old work location”, it seems to me that there is no longer any requirement that there must be an “old work location”.
+[12] With respect to the requirement related to a “new work location”, the expression that is defined is “new work location”. This expression is defined within the definition of “eligible relocation” in subsection 248(1) of the Act. “Eligible relocation” is defined, in part, as follows:
+“eligible relocation” means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a location in Canada (in section 62 and this subsection referred to as “the new work location”),
+[13] Therefore “the new work location”, as defined in the definition of “eligible relocation” in subsection 248(1) of the Act, is simply a location in Canada where the taxpayer is employed. There is no reference in the part of the subsection in which the definition is found to any requirement that the location be a “new” location. If instead the provision were to read:
+“eligible relocation” means a relocation of a taxpayer where
+(a) the relocation occurs to enable the taxpayer
+(i) to carry on a business or to be employed at a new work location in Canada,
+then it would be necessary to determine how the words “new” and “work” would modify the location and how they would affect the determination of whether a particular location is a new work location. However this is not how the provision reads. The provision refers to “a location in Canada” [at which the person is employed] which is referred to as “the new work location”. If the provision, instead of stating that it is referred to as “the new work location”, were to state that it is referred to as “the work location” or “the specified location”, then “the work location” or “the specified location” would have the same meaning as would be ascribed to “the new work location” as only the label for the expression would be changed, not the meaning assigned to that label. The words used as part of the phrase should not be used to interpret the phrase when the phrase is defined in the Act.
+[14] The Appellant relied on the decision of Justice C. Miller in Gelinas v. The Queen, 2009 TCC 111, 2009 DTC 1091, [2009] 4 C.T.C. 2232. In that case the taxpayer changed her job from a part-time job to a full-time job. Justice C. Miller found that there was no requirement that there be an “old work location” and found that the change in the taxpayer’s job from a part-time job to a full-time job was sufficient to allow the taxpayer to claim moving expenses, even though the Appellant was employed by the same employer.
+[15] It seems to me that in this case, based on the decision of Justice C. Miller in Gelinas, the change in the Appellant’s job would also support the Appellant’s claim for moving expenses. The Appellant stated that his new position was a management position. He described his commute as barely manageable prior to his new job and as a result of his new managerial responsibilities he felt that he needed to be closer to his work.
+[16] It also seems to me that there is another basis on which the Appellant’s claim for moving expenses should be allowed. In Beyette v. Minister of National Revenue, [1989] T.C.J. No. 1001, 89 DTC 701, Justice Taylor stated that:
+The only issue raised in this appeal, is whether, all other conditions being met (and they were) the taxpayer is entitled to the deduction claimed for moving to his new employment site in 1986, from his old employment site after he had already been working at the new site (commuting daily) for the intervening five year period. The Respondent's assessment explanation read:
+"The general rule is that you may deduct moving expenses from your income if you move from the residence you ordinarily live in to commence employment at a new location. As the information submitted indicates that you commuted from Winnipeg to Beausejour for several years, you do not meet the above-mentioned criteria."
+Counsel for the Respondent argued that Section 62(1) of the Act implied a certain time limit - between the change of work site and the move - and that five years was unreasonable. In addition the critical word in the legislation was "commenced", in his view and there was a requirement for a relationship between the "commencement of employment" and the "move".
+I do not agree with either point raised by the Respondent. In this matter, I was satisfied from the evidence and testimony that there were good reasons for which the taxpayer delayed his move from Winnipeg to Beausejour - illness, lack of housing in Beausejour, inactive real estate selling market in Winnipeg, etc. - but that is probably irrelevant. In my opinion, the taxpayer and he alone is left to determine the timing of the move, and the costs associated with the move, and no time limit is expressed by the wording of the Act. While clearly five years is an unusually long period of time between the change of work locale and the move, that cannot be put in issue - the respondent has no basis upon which to conclude (I.T. Bulletin 178R2) that there is some time frame that is "reasonable" and another that is unreasonable. As I read Section 62(1) of the Act, it is a requirement that the taxpayer "-- has -- commenced to be employed previous to the move for which an expense claim is made. I do not see that one should read into the word "commenced" more than that. Mr. Beyette "commenced to be employed" in 1981 at the new work location, he "moved" in 1986 and is entitled to his costs of moving.
+[17] In Simard v. The Queen, [1996] T.C.J. No. 626, [1998] 2 C.T.C. 2312, Justice Watson also allowed a taxpayer to deduct moving expenses that had been incurred five years after the taxpayer started to work at the “new work location”, as then defined in section 62 of the Act (now defined within the definition of “eligible relocation” in subsection 248(1) of the Act). Justice Watson stated that:
+17 I concur with Judge Taylor. In my view, the Income Tax Act does not require that the move to the new work location be completed within a prescribed period of time.
+[18] Justice Watson quoted the provisions of section 62 as they read at that time. In part section 62 provided that:
+(1) Where a taxpayer has, at any time, commenced
+(a) to carry on a business or to be employed at a location in Canada (in this subsection referred to as his "new work location"), or
+…
+and by reason thereof has moved from the residence in Canada at which, before the move, he ordinarily resided (in this section referred to as his "old residence") to a residence in Canada at which, after the move, he ordinarily resided (in this section referred to as his "new residence"), …
+[19] At the time that the decisions of this Court in Beyette and Simard were rendered, in order to claim moving expenses in relation to employment, a person must have commenced to be employed at a location and by reason of the commencement of such employment, must have moved. The current wording is that there must be a relocation which enables the person to be employed at a “new work location”. Just as the previous version of section 62 of the Act did not provide any time period within which a move must occur following the commencement of employment at a “new work location”, the current version of section 62 of the Act and the definition of “eligible relocation” in subsection 248(1) of the Act do not provide any time period within which a move must occur following the commencement of employment at a “new work location”.
+[20] In Attorney General of Canada v. Hoefele, et al., 95 DTC 5602, Justice Linden, writing on behalf of the majority of the Justices of the Federal Court of Appeal, stated that:
+…What must be determined is whether those portions of the mortgage loans taken out by the taxpayers in respect of the Toronto homes, and to which the interest subsidy was directed, came about 'because of', 'as a consequence of' or 'by virtue of' employment.
+In resolving this question, one must first note that subsection 80.4(1), whether in its older or newly amended form, requires a close connection between the loan or debt and employment, a connection much closer than that required by paragraph 6(1)(a) as between benefit and employment. In the latter, a benefit may arise if it is received merely 'in respect of' employment. The phrase 'in respect of' connotes only the slightest relation between two subjects and is intended to convey very wide scope. In Nowegijick v. The Queen, the Supreme Court of Canada stated the following concerning the words 'in respect of':
+The words 'in respect of' are, in my opinion, words of the widest possible scope. They import such meanings as 'in relations to', 'with reference to' or 'in connection with'. The phrase 'in respect of' is probably the widest of any expression intended to convey some connection between two related subject matters. [ FOOTNOTE 19 : [1983] 1 S.C.R. 29 at 39 per Dickson, J. See also Linden, J.A. in Blanchard. ]
+On the other hand, the phrases used in the amended subsection 80.4(1), 'because of', or 'as a consequence of', as well as in the original version, 'by virtue of', require a strong causal connection. I find little or no difference between the meanings of the phrases 'because of', 'as a consequence of' and 'by virtue of'. Each phrase implies a need for a strong causal relation between subject matters, not merely a slight linkage between them.
+(emphasis added)
+[21] It seems to me that “by reason of” would be equivalent to “because of”, “as a consequence of” and “by virtue of”. If the strong causal connection between the commencement of employment and the move that would have been required when Beyette and Simard were decided, based on the wording of section 62 of the Act at that time, would not result in a time period within which the move must occur, then, in my opinion, the change in wording from the requirement that:
+(a) a person had to commence work at the “new work location” and move by reason of the commencement of such employment,
+to
+(b) a relocation has occurred to enable a person to be employed at a “new work location”
+cannot be construed as adding a time period within which a person must move or create any stronger connection or link between the move and the commencement of employment at the “new work location”. If anything the change in wording to provide that a relocation must occur to enable the person to be employed suggests less of a causal connection between the move and the commencement of employment than did the previous requirement that the person had to move by reason of commencing employment. There is no longer any reference to the commencement of employment in section 62 of the Act or in the definition of “eligible relocation” in subsection 248(1) of the Act.
+[22] Since it seems to me that it must be accepted that it is not necessary to move before the employment commences at the “new work location” in order to qualify for the deduction, whether the move occurs a short time after the commencement of the employment at the “new work location” or a longer time after such commencement, the relocation has occurred to enable the person to be employed. It does not seem to me that there is any reason to now read into the definition of eligible relocation a requirement that the person must move within a certain amount of time after commencing employment at a “new work location”. If a move within one month of commencing such employment enables a person to be employed at that location, then a move within two months of commencing such employment would also enable the person to be employed at that location, as would a move within one year or two years and so on. Therefore the Appellant’s move in 2008 could be considered to have occurred to enable him to be employed, even though the employment commenced in 2004.
+[23] As a result, since there was no dispute that the Appellant otherwise satisfied the requirements of section 62 of the Act and the definition of “eligible relocation” in subsection 248(1) of the Act, the Appellant is entitled to deduct moving expenses in the amount of $33,160 in computing his income for 2008.
+[24] The appeal from the reassessment made under the Act for the 2008 taxation year is allowed and the matter is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that the Appellant is entitled to deduct moving expenses of $33,160 in determining his income for 2008.
+[25] The Respondent shall pay costs to the Appellant which are fixed in the amount of $250.
+Signed at Ottawa, Canada, this 1st day of December, 2011.
+“Wyman W. Webb”
+Webb, J.
+CITATION: 2011TCC539
+COURT FILE NO.: 2011-386(IT)I
+STYLE OF CAUSE: GLEN WUNDERLICH AND
+HER MAJESTY THE QUEEN
+PLACE OF HEARING: Hamilton, Ontario
+DATE OF HEARING: November 22, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice Wyman W. Webb
+DATE OF JUDGMENT: December 1, 2011
+APPEARANCES:
+For the Appellant:
+The Appellant Himself
+Counsel for the Respondent:
+Leslie Ross
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada

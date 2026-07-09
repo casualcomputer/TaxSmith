@@ -1,0 +1,147 @@
+Title: Tkaczewski v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27239/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-137-27239-tkaczewski-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2006-03-07
+
+# Tkaczewski v. M.N.R.
+
+- Citation: 2006 TCC 137
+- Decision date: 2006-03-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 811, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tkaczewski v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-03-07
+Neutral citation
+2006 TCC 137
+File numbers
+2003-3301(EI)
+Judges and Taxing Officers
+Lucie Lamarre
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2003-3301(EI)
+BETWEEN:
+MARIA TKACZEWSKI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Appeal heard on April 1, 2005, at Ottawa, Ontario.
+Before: The Honourable Justice Lucie Lamarre
+Appearances:
+Agent for the Appellant:
+John Tkaczewski
+Counsel for the Respondent:
+Tomasz Zych
+____________________________________________________________________
+JUDGMENT
+The appeal pursuant to subsection 103(1) of the Employment Insurance Act is allowed and the August 7, 2003, decision of the Minister of National Revenue is varied on the basis that the amount of $45,334.85 is to be included in insurable earnings.
+Signed at Ottawa, Canada, this 7th day of March 2006.
+"Lucie Lamarre"
+Lamarre J.
+Citation: 2006TCC137
+Date: 20060307
+Docket: 2003-3301(EI)
+BETWEEN:
+MARIA TKACZEWSKI,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Lamarre J.
+[1] The appellant is appealing a decision by the Minister of National Revenue ("Minister") that the lump sum payment of $45,334.85 received by her from Nortel Networks Limited ("Nortel") on January 22, 2002, does not constitute insurable earnings since it is considered to be a retiring allowance and is thus excluded under paragraph 2(3)(b) of the Insurable Earnings and Collection of Premiums Regulations ("Regulations").
+[2] The Minister considered the lump sum payment as a termination payment made to the appellant in recognition of past service with Nortel. In making his decision, the Minister relied on a letter sent by Nortel to the appellant on October 18, 2001. This letter, which was filed as Exhibit R-1, Tab 1, reads in part as follows:
+Dear Maria:
+This letter confirms our discussion today, at which time you were advised that your employment will terminate on November 19, 2001. On the termination date, your service, employment, and all pay and benefits not expressly extended to you in this letter will end.
+Henceforth, you are no longer required to attend at work. To assist you in finding alternate employment, the professional career transition services of Right Management Consultants will be provided to you.
+. . .
+Conditional upon: (i) your compliance with all terms and conditions of this letter; and (ii) your not obtaining employment with the Corporation, prior to the termination date, that would enable you to continue your employment with the Corporation, the Corporation shall, on or immediately following the termination date, pay you a lump sum of $45,334.85 less statutory deductions. This payment ("the termination payment") in addition to the provided period of paid notice, is intended to recognize your past service with the Corporation and to compensate you in all respects for the loss of employment. It is inclusive of any severance and/or termination payment to which you may be entitled as a consequence of the termination of your employment under applicable employment standards legislation. Payment will be made to you upon receipt of an executed copy of this letter and the completed Distribution of Termination Allowance, which is attached. In accordance with the Income Tax Act, you are eligible, based on your years of service up to December 31, 1995, to make a deposit into an RRSP as a retiring allowance in the amount of $8,000.00. If you wish to direct a portion of the termination payment into an RRSP, you must also complete the attached TD2 form and return it, together with the executed second copy of this letter to Maryse Chaurette.
+Since you are considered bridgeable to pension, on November 20, 2001 you may elect to proceed on a special leave prior to pension and receive pension-equivalent amounts, paid on the same schedule as you currently receive your pay, as set out in the attached estimate document. Also attached is a Benefit Information Summary.
+If you make this selection, you may elect to receive the termination payment as a taxable lump sum as indicated above or in equal taxable payments over the bridging period. On your pension date, your special leave and its associated benefits will end, and you will proceed to pension and receive pensioner treatment under the pension plan you elected, an estimate of which is included in the Summary.
+. . .
+If you recommence employment with the Corporation after the termination date but prior to August 12, 2002, you agree that you will return to the Corporation the portion of the termination payment equivalent to your gross weekly/daily salary with the Corporation multiplied by the number of weeks/days during which you were employed with the Corporation prior to August 12, 2002.
+. . .
+In consideration of the foregoing, and by accepting these arrangements, you hereby: release and forever discharge the Corporation, its directors, officers, employees, and representatives of and from all manner of actions, causes of actions, suits, debts, accounts, covenants, contracts, claims, including, without limitation, claims under applicable human rights legislation, and demands whatsoever which you have had, now have or which your heirs, executors, administrators, or assigns or any of them, hereafter can, shall or may have against the Corporation, its employees and representatives, for or by reasons of any cause, matter or thing whatsoever in connection with your employment with the Corporation, including without limitation the termination of such employment; and agree that, until your termination date, and for one year following the termination of your employment with the Corporation, you shall not, on behalf of yourself or others, directly or indirectly, recruit, induce or solicit or attempt to recruit, induce or solicit any individual who is supplying services to the Corporation, whether as an employee, contractor, consultant or otherwise, to terminate their employment or contractual arrangements with the Corporation or to accept engagement with another person or entity unrelated to the Corporation.
+You acknowledge that the payment and other arrangements offered herein do not represent an admission or recognition of liability on the part of the Corporation and they shall not be referred to, directly or indirectly, as such an admission or recognition of liability.
+This letter constitutes the entire agreement of the parties with respect to the termination of your employment. There are no promises, understandings or representations other than those set forth herein. Further, this letter supercedes any other arrangements, written or otherwise, relating to your employment and the cessation of your employment. This letter may be modified only with a written instrument duly executed by you and an authorized representative of the Corporation.
+[3] In a letter sent to the appellant on May 27, 2003 (Exhibit R-1, Tab 2), Nortel provided the following explanation to the Canada Customs and Revenue Agency:
+To whom it may concern:
+Mrs. Tkaczweski [sic] has faxed to my attention a letter, sent to her from your office, dated May 8, 2003. The letter stated that the lump sum amount paid to her from Nortel Networks for $45,334.85 was being classified as a retiring allowance and is not considered insurable earnings by HRDC. The information that probably led you to this conclusion was a letter that was given to Mrs. Tkaczweski [sic] when she was being notified by Nortel Networks that her employment with Nortel was no longer needed. The letter that she was given was based on the assumption that she would [be] terminating her employment with Nortel and be given a severance package. The letter did not discuss her options if she elected to go [on] the Special Leave Prior to Pension. Employees going to Special Leave Prior to Pension stay on the active payroll and receive active benefits.
+Mrs. Tkaczweski [sic] did elect to proceed to Special Leave Prior to Pension. During this leave she would receive the monthly equivalent of her pension as her salary and we would give her a lump sum bonus to compensate for the loss of income between her annual salary and her pension equivalent salary. This amount would equate to 8 months of her salary and she had the option of taking that money over the number of weeks until she turned 55 years of age or as a lump sum. Because this money is classified as earned income, and not a retiring allowance, she would not be eligible to roll this money into a RRSP nor would it appear on a T4A. Mrs. Tkaczweski [sic], chose to take the money as a lump sum.
+. . .
+Lise Willard
+Employee Services
+Nortel Networks
+[4] Ms. Sharyn Congdon, a senior employee relations adviser with Nortel, testified that 95 percent of the terminations at Nortel involve the kind of termination letter that was sent to the appellant on October 18, 2001 (Exhibit R-1, Tab 1), in which a severance package is offered and, if the individual is eligible for tax sheltering based on years of service, that is offered as well. She testified that in five percent of the cases an employee is eligible for a bridge to pension.
+[5] In the case of the appellant, she was eligible for a bridge to pension, but this was discovered only after the termination letter had been sent to her. In fact, at the time the termination letter was sent, on October 18, 2001, Ms. Congdon said, the appellant was "within two years of being eligible for what we call a class E pension, which is an actuarially-reduced pension from Nortel" (see transcript, page 3).
+[6] Ms. Congdon explained that when an employee is eligible for a bridge to pension, there is a "pension estimate that is provided which is separate from the termination" (see transcript, page 3). In the case of the appellant, she was offered the bridge to pension, which she accepted and she chose to receive it in the form of a lump sum payment.
+[7] The appellant therefore remained on Nortel's active payroll at a reduced salary, paying employment insurance ("EI") premiums and Quebec Pension Plan ("QPP") contributions, as well as being subject to full tax deductions, until the end of her employment with Nortel on January 11, 2003.
+[8] Her full remuneration, including the lump sum payment, was reported on a T4 slip issued by Nortel, unlike a termination allowance or severance pay, which is reported on a T4A slip and does not attract EI or QPP deductions. Furthermore, as the appellant elected to take a bridge to pension, her employment relationship with Nortel was not severed and she was not allowed to shelter in an RRSP a portion, based on years of service, of the lump sum payment, as proposed in the termination letter (Exhibit R-1, Tab 1). As a result of her choice to bridge to pension, Form TD-2 completed by the appellant (as per Exhibit A-1) and showing an eligible tax sheltering portion of $8,000 was never processed, and the $8,000 was never directed into an RRSP as could have been done in the case of a termination payment.
+[9] In cross-examination, Ms. Congdon explained that during the bridgeable period the appellant received a pension of $131 payable biweekly (described as pension-equivalent amounts in the termination letter, Exhibit R-1, Tab 1, page 2) and that she also received the amount of $45,334.85 on January 22, 2002. That lump sum payment was designed to compensate the appellant for part of the loss of income represented by the difference between the pension equivalent payments ($131 biweekly) and her regular full-time salary (which was approximately $65,000 a year). Ms. Congdon said that the lump sum did not make up entirely for her regular full-time salary: it equated to eight month's salary. Indeed, the lump sum amount was not intended to fully compensate for the difference between the appellant's full salary and the drastically reduced pension. It was intended to be a bridge, and Nortel's practice is to use as the bridge lump sum amount, the amount offered as a termination allowance.
+[10] The treatment of that lump sum differs, however, for both accounting and tax purposes, as the bridge lump sum is treated by Nortel as salary (in the same way that the $131 pension received biweekly is treated as salary) and not as a termination allowance. Evidence of this is found in the T4 slip and in the pay stubs issued by Nortel and filed as Exhibit R-1, Tab 3 and Tab 4, 5th page. Indeed, the $131 biweekly payment is described as a "pension-equivalent" amount and the $45,334.85 is described as a pension supplement, of which an amount of $858 was deducted at source for EI premiums. If that payment had been considered a termination payment by Nortel, no such deduction would have been made, nor would any pension adjustment. Ms. Congdon explained that the appellant remained entitled to all employee benefits, except short-term and long-term disability coverage, up until January 11, 2003, even though she ceased delivering any services to Nortel on November 19, 2001.
+Issue
+[11] There is no question that the appellant remained an employee of Nortel for the duration of her leave prior to pension, that is, until January 11, 2003. The only question at issue is whether the lump sum amount of $45,334.85 received by the appellant during that leave is insurable. The Minister is of the view that this amount constitutes a retiring allowance within the meaning of subsection 1(1) of the Regulations, which is excluded from insurable earnings by paragraph 2(3)(b) of the Regulations. These provisions read as follows:
+INTERPRETATION
+1. (1) The definitions in this subsection apply in these Regulations.
+"Act" means the Employment Insurance Act.
+. . .
+"retiring allowance" means an amount received by a person
+. . .
+(b) in respect of a loss of an office or employment of the person, whether or not received as, on account or in lieu of payment of, damages or pursuant to an order or judgment of a competent tribunal.
+. . .
+PART I - INSURABLE EARNINGS
+Earnings from Insurable Employment
+2. . . .
+(3) For the purposes of subsections (1) and (2), "earnings" does not include
+. . .
+(b) a retiring allowance.
+[12] The respondent argues that despite Nortel's consistent treatment of the lump sum amount as salary, the letter of termination (Exhibit R-1, Tab 1) considers it as termination pay. The respondent is of the view that it has not been shown that the nature of this payment differs from that stated in the termination letter. According to the respondent, the purpose of this amount was to compensate the appellant for her loss of employment. Counsel for the respondent acknowledges, however, that the loss of employment occurred not previous to her special leave prior to pension, but after the end of that leave, that is, at the end of her bridge period on January 11, 2003.
+Analysis
+[13] In my view, the lump sum amount of $45,334.85 does not constitute a retiring allowance within the meaning of the Regulations. The respondent relied entirely on the termination letter sent to the appellant on October 18, 2001 (Exhibit R-1, Tab 1), to support the view that it was a termination payment made in respect of a loss of employment. I consider that the letter from Nortel dated May 27, 2003, together with the testimony of Ms. Congdon clarify the situation and show the clear intention of Nortel and the appellant to treat that payment as a reduced salary during her leave prior to pension. This is evidenced by the way it was treated for accounting purposes by Nortel in issuing the T4 slips and the pay stubs, by Nortel's not processing Form TD-2 requesting that a portion of the lump sum be sheltered in an RRSP (which would have been done if the payment had been treated as a retiring allowance), and by the fact that the appellant remained on the active payroll of Nortel until the end of her employment on January 11, 2003.
+[14] In Overin v. The Queen, 98 DTC 1299, page 1302, [1997] T.C.J. No. 1264 (QL), paragraphs 16-18, Judge Rip of this Court said the following:
+. . . In order for the retiring allowance provision to have real meaning, however, some limit must be placed on the ambit or scope of the required connection between a receipt and a loss of employment. In this regard two decisions may be of some assistance. First, in Merrins, supra, Pinard, J. observed at 6670:
+There is no doubt that the amount was received by the plaintiff in respect of the loss of his employment with AECL. Had there been no loss of employment, there would have been no grievance, no settlement, no award and, therefore, no payment of the sum to the plaintiff.
+What is implied from Pinard, J.'s analysis is that in determining the limit to be placed on the connection between a payment and a loss of employment, the appropriate test is to ask "but for the loss of employment would the amount have been received?" If the answer to that question is in the negative, then a sufficient nexus exists between the receipt and the loss of employment for the payment to be considered a retiring allowance.
+In Leest, supra, Dussault, J.T.C.C. observed:
+As there is no doubt in my mind that the appellant lost, for all practical purposes and effect his employment for a lengthy period, although not permanently as he was later reinstated by the Arbitration Board, I also conclude that the award of damages by the Arbitration Board was directly related to that loss and directed at compensating it.
+In that sense, the amount was "with respect of" the loss of employment. This being so, such damages can rightly be considered a "retiring allowance" as that term is now defined by subsection 248(1) of the Act. They are thus taxable by virtue of subparagraph 56(1)(a)(ii) of the Act.
+It is quite clear then that in addition to the "but/for" test, where the purpose of a payment is to compensate a loss of employment it may be considered as having been received "with respect to" that loss.
+[15] Here, the evidence is clear enough, in my view, to allow one to conclude that the lump sum was paid to the appellant as a bridge to the pension to which she was entitled under the terms of her employment with Nortel. It was not paid as compensation for loss of employment. In the first place, she was still an employee of Nortel when she received that payment. Indeed, she received the payment in January 2002 while her loss of employment occurred on January 11, 2003. As a matter of fact, she was entitled to all employee benefits, with the exception of short-term and long-term disability coverage, until January 11, 2003. In the second place, the lump sum was paid to compensate her for part of the differential between her pension-equivalent payments and her regular salary and was treated as salary by Nortel during her leave prior to pension.
+[16] In my view, this is sufficient evidence to demonstrate that Nortel never applied the terms of the termination letter sent to the appellant on October 18, 2001. Ms. Congdon said that that type of letter was sent to 95 percent of terminated employees because these employees were not eligible for a bridge to pension. She specifically said that this letter was sent to the appellant before they discovered that she was eligible for a bridge to pension. Once the appellant elected to take special leave prior to pension, Nortel forbore acting upon the termination letter sent on October 18, 2001. It treated the lump sum as salary and did not process the request to direct part of that lump sum into an RRSP. I do not see why the respondent should rely on that letter in these circumstances.
+[17] I therefore conclude that the amount of $45,334.85 is not a termination payment made in respect of the appellant's loss of employment and is therefore not a retiring allowance within the meaning of the Regulations.
+[18] The appeal is allowed on the basis that this amount of $45,334.85 is to be included in insurable earnings.
+Signed at Ottawa, Canada, this 7th day of March 2006.
+"Lucie Lamarre"
+Lamarre J.
+CITATION: 2006TCC137
+COURT FILE NO.: 2003-3301(EI)
+STYLE OF CAUSE: MARIA TKACZEWSKI v. M.N.R.
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: April 1, 2005
+REASONS FOR JUDGMENT BY: The Honourable Justice Lucie Lamarre
+DATE OF JUDGMENT: March 7, 2006
+APPEARANCES:
+Agent for the Appellant:
+John Tkaczewski
+Counsel for the Respondent:
+Tomasz Zych
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

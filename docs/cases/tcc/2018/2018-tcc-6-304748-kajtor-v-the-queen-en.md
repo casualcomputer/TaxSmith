@@ -1,0 +1,177 @@
+---
+title: "Kajtor v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/304748/index.do"
+last_modified: "2018-01-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2018 TCC 6"
+citation2: ""
+neutral_citation: "2018 TCC 6"
+decision_date: "2018-01-05"
+language: "en"
+item_id: "304748"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7272
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T11:56:10.313000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "397c710f917c83be99e65e332e5e8161231a9ddb076588a44e218a3554c66a88"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Kajtor v. The Queen
+
+- Citation: 2018 TCC 6
+- Decision date: 2018-01-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7272, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Kajtor v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2018-01-05
+Neutral citation
+2018 TCC 6
+File numbers
+2012-4290(IT)G
+Judges and Taxing Officers
+Bruce Russell
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2012-4290(IT)G
+BETWEEN:
+KATALIN KAJTOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Appeal heard on July 7, 2017, at Hamilton, Ontario
+Before: The Honourable Justice B. Russell
+Appearances:
+For the Appellant:
+The Appellant Herself
+Counsel for the Respondent:
+Dominque Gallant
+AMENDED JUDGMENT
+The appeal of the reassessment raised June 25, 2010 under the federal Income Tax Act (Act) for the Appellant’s 2008 taxation year is allowed, without costs, and said reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant ought not be assessed a penalty per subsection 163(2) of the Act, in accordance with the attached amended reasons for judgment.
+This Amended Judgment is issued in substitution for the Judgment dated January 5, 2018.
+Signed at Ottawa, Canada, this 8th day of February 2018.
+“B. Russell”
+Russell J.
+Citation: 2018TCC6
+Date: 20180208
+Docket: 2012-4290(IT)G
+BETWEEN:
+KATALIN KAJTOR,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+Russell J.
+Introduction: [1] The Appellant, Katalin Kajtor, appeals a reassessment raised June 25, 2010 under the federal Income Tax Act (Act) for her 2008 taxation year, whereby she was denied a business loss and was assessed a “gross negligence” penalty per subsection 163(2) of the Act. The assessed amount for this penalty was $24,760 plus provincial penalty plus interest totalling approximately $41,000.
+[2] The only issue in this appeal is the gross negligence penalty. The denial of the claimed business loss of $178,172 is not contested.
+[3] Per subsection 163(3) of the Act, in section 163 penalty appeals the burden of establishing the facts justifying the assessment of the penalty is upon the Respondent Crown.
+Evidence: [4] The Appellant, representing herself, testified and documents were entered in evidence. She immigrated to Canada from Romania approximately 25 years ago, having a high school education. In Canada she worked as a seamstress, had a child and for the last 15 years as a single parent has raised her son, who is now starting university, while she has been employed as an associate in the southwestern Ontario warehouse of a multinational corporation.
+[5] Her evidence was that some seven years earlier her boyfriend Brian Shaw’s brother Jim Shaw called Brian Shaw to say Canada Revenue Agency (CRA) had notified him that he would receive an approximately $50,000 tax refund; this upon Jim Shaw having engaged a certain tax consultant who had held himself out as able to obtain much increased income tax refunds for primarily T4’d taxpayers. (In cross-examination of Brian Shaw, a manager in the same warehouse in which the Appellant worked, he testified that brother Jim Shaw was an employee at a car parts factory. He was not an accountant although previously he had been a corporate auditor for 20 years.) The Appellant and Brian Shaw were skeptical of Jim Shaw’s information, and waited to see if any legal problems arose.
+[6] Two months or so later Jim Shaw apparently did receive from CRA a cheque of approximately $50,000, reflective of an income tax refund. The Appellant testified that Jim Shaw told them he had called CRA to confirm if he could cash the cheque without problem, and was advised there would be no problem. (Jim Shaw was not called as a witness, nor was he present at the hearing.) Then, the Appellant and Brian Shaw travelled to the town in which Jim Shaw lived, to view Jim Shaw’s cheque for themselves. The Appellant said they saw the cheque and thus concluded this was legal.
+[7] The Appellant testified that she and Brian Shaw decided to do this themselves; that is, engage the same tax return preparer in each likewise seeking to obtain an increased income tax refund.
+[8] The Appellant entered into evidence as Exhibit A-1 a short compilation of documents including an extract of CRA’s Taxpayer Bill of Rights. The Appellant drew attention to several of the briefly stated provisions thereof, including item 14 headed, “You have the right to expect us to warn you about questionable tax schemes in a timely manner”. (Item 14 concludes with the statement, “We can only warn you about tax schemes after we become aware of them and have determined that they may be questionable.”)
+[9] The Appellant concluded her testimony in chief stating she felt she has been mistreated by CRA, she did not do anything wrong, she saw Jim Shaw’s cheque and he said he’d called CRA to ensure all was good. Yes, she signed a piece of paper, and if she had known this was not honest she would not have “listened”. She and her now fiancé Brian Shaw are innocent people in this.
+[10] In cross-examination she confirmed she had attained a grade 12 education when she left Romania 25 years ago, and she has been working in manual employment in a warehouse for the last 15 years. She confirmed her testimony re Jim Shaw and deciding to view his refund cheque. She did not know any details as to how the claim for enhanced tax refunds would work. She always has had someone else do her returns - usually H&R Block for a fee of $80 to $100 for typically a $1,000 or so refund. She never paid a percentage fee, always a flat rate.
+[11] Also in cross-examination she acknowledged (Exhibit R-2) her July 5, 2010 notice of objection with her signature, plus attachments thereto. Part of this exhibit is a document that she signed, headed “Financial Consulting Solutions” (FCS), with a sub-heading, “Promise to Pay/Consulting Fee” stating that she would pay FCS, “30% of my income tax amount for the 2008 tax year, when I receive my 2008 refund”. It further provided that she, “agree[d] to request a loss carry back for a refund of my taxes, for years 1999 to 2007, and agree to pay [FCS] 45% of my net tax refund, for those carry back years [1999 to 2007], as they are received.” Her signature on this is dated September 9, 2009 and her phone number, S.I.N. and date of birth also are noted.
+[12] She testified she signed this at Jim Shaw’s house, with no one from FCS present. She did not ask Jim Shaw questions. She also acknowledged (Exhibit A-1) her CRA “T1 Adjustment Request” form (T1-ADJ E 08/08), blank except for, just above the signature block, the typed-in statement, “Please adjust above return to include above amounts as per attached statement and original receipts”, and with the word “Per” handwritten just to the left of where the Appellant was to and did sign.
+[13] Immediately above the Appellant’s signature and within the form’s signature block was this CRA form’s normal printed statement, “I certify that the information given on this form and any documents attached is, to the best of my knowledge, correct and complete.” The Appellant signed this in blank and it was left for FCS. She testified that she did not read the certification and she knew “Per” was there. Also she testified she never saw this document with information filled in.
+[14] In the same exhibit is page 2 of 2 of a CRA 2008 loss carryback form (T1A E (08)). It also was left by FCS with Jim Shaw for the Appellant’s signature, again completely in blank except for the handwritten word “Per” just to the left of where the Appellant’s signature was to go and where she in fact did sign. Immediately above the signature space and within the form’s signature block was this CRA form’s usual printed statement, “I certify that the information given on this form is correct and complete.”
+[15] The Appellant’s “Statement of Agent Activities” form (Exhibit R-3), filed with the T1 Adjustment Request for the 2008 taxation year, showed a claimed loss of $178,172. That statement as well has on it the Appellant’s hand printed signature, appearing within the otherwise typed phrase, “I certify that I am the principal for the agent Katalin Kajtor and declare all information to be complete and accurate as of 2008-12-31.”
+[16] The one page statement otherwise is replete with fictitious statements such as that the Appellant’s “Business Service” is “Agent”, and “Amount to principal in exchange for labour” is “$185,177.10” - all this on top of her T4 reported income of $51,546. Also at the bottom of the said Statement just above the Appellant’s printed signature is the following, bolded and underlined: “This Statement, prepared by the principal, is your original receipt!”
+[17] In cross-examination the Appellant said she did not remember that there were any numbers on this Statement when she signed it. She never thought this was illegal. She referred again to having seen Jim Shaw’s cheque. She said CRA should have warned them that a fraudulent program was in operation.
+[18] Brian Shaw also testified, largely reiterating what the Appellant had said. He said his brother Jim Shaw also had told them he had consulted with his wife’s son who was a police officer, concerning a name – Tom Thompson – on a business card that he had been given in conjunction with the FCS, and was advised that the police had no information on him. He testified as well that Jim Shaw had told them he had called “the CRA hotline” to learn if any issues with the Tom Thompson name, and had not learned anything of concern or relevance. I consider this evidence not hearsay as it was offered not for its truth but to help explain the Appellant’s conduct and why she should not be considered liable for the assessed gross negligence penalty.
+[19] He said also that the Appellant was guilty only of trusting his brother and the government. He said that if not for him, the Appellant would not have participated in this. “It breaks [his] heart that working people can be treated like this.”
+[20] In cross-examination he described his brother Jim Shaw’s current and prior employment positions (as noted above) and said he did not really know why Jim Shaw would be entitled to a large refund. He was not present when his brother called CRA. The “hotline” was just a recording.
+[21] The Appellant called no further evidence and the Respondent called no evidence. The above review of evidence in some detail is given because as noted the evidentiary onus normally on the Appellant here is on the Respondent as the issue involves a section 163 penalty.
+Issue: [22] As stated, the herein issue is whether the assessment of the subsection 163(2) “gross negligence” penalty for the Appellant’s 2008 taxation year was correct.
+Submissions: [23] In argument the Appellant submitted that she had signed a piece of paper, she shouldn’t have and she believed other people. She is being made responsible for a tax scam. She feels she is being punished for something she did not intend to do. She never received any (refund) money, unlike others. She trusts the government. Interest on the penalty is not right. If she did wrong, the government did too. The government is not out any money. The government should have warned her. She did see Jim Shaw’s cheque, which she considered proved the whole program was legal, before deciding to use the same tax preparer.
+[24] The Respondent’s submissions were, in brief, that this is a case in the same pattern as others, termed “fiscal arbitrator” cases. If it looks too good to be true, it usually is. In some cases, perhaps including Jim Shaw’s, CRA would assess as filed, issue a corresponding cheque even of substantial amount, and then on reassessment wholly reverse. In either type of situation the gross negligence penalty can be applied. The distinctive feature of this case is that forms were signed by the Appellant that had not been filled out. That is how the trouble began. The Respondent considered that here both witnesses (the Appellant and Brian Shaw) were very credible and believable. The Appellant worked and always paid taxes on time, recovering small refunds.
+[25] The Respondent further submitted that the Appellant had signed the T1 Adjustment form for her 2008 taxation year in blank. In reviewing “red flags” from Torres v. Her Majesty, 2013 TCC 380, a leading decision on application of the gross negligence penalty where dishonest tax preparers had been used, the Respondent submitted that as to the factor of “magnitude” of the tax refund claim, the Appellant was unaware; the factor of “blatancy” of the submission the Appellant was unaware; the factor of “lack of acknowledgment of the preparer on the return” did not apply; the factor of “unusual requests by the preparer” did not apply; the factor of “previously unknown to the taxpayer” is major - she only knew Jim Shaw had used this person and saw a business card. She knew a police background check had been done. She took no real look into credentials. Yet she agreed to sign in blank, and trust.
+[26] The Respondent further submitted that the “red flag” factor of “incomprehensible explanations” did not apply as no explanations were sought or provided; the factor of being “warned against it” did not apply. Here her partner in fact encouraged her to do this, and he did it too. The factor of “fee structure” should have raised a red flag, as she was required to pay a percentage fee. While she understood that Jim Shaw had checked the CRA “hotline”, which turned up nothing re this “scam”, no enquiries were made of reliable professionals.
+[27] The Respondent cited several other cases as well, noted below. It was submitted the Appellant had made no effort to comply with the law, was hoping for a refund, and so the penalty was properly imposed. The penalties are harsh, but that is not a factor in deciding the case. The Respondent left the matter of costs to the discretion of the Court.
+Analysis: [28] The relevant portion of the subsection 163(2) “gross negligence” penalty provision for purposes of this appeal provides:
+(2) Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a “return”) filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of…
+[29] The two elements of subsection 163(2) to be established are:
+a) a false statement or omission in a return;
+b) knowledge or gross negligence in the making of, assenting to or acquiescing in the making of that false statement or omission.
+[30] In accordance with Venne v. Canada, [1984] F.C.J. 314 (TD), gross negligence requires something more than mere negligence. It involves a high degree of negligence tantamount to intentional acting or indifference as to whether the law is complied with or not.
+[31] I have considered the decisions of Torres (supra); Strachan v. R., 2015 F.C.A. 60; Lauzon v. R., 2016 T.C.C. 71; Lauzon v. R., 2016 F.C.A. 298; Tomlinson v. R., 2016 T.C.C. 246; Chartrand v. R., 2015 T.C.C. 298. As noted in Torres (supra) at paragraph 62, it is settled law that gross negligence can include wilful blindness. See also Villeneuve v. Canada, 2004 D.T.C. 6077 (F.C.A.).
+[32] The Appellant has not contested that false statements were made in her 2008 T1 adjustment return. The false statements were to do with the claim that she had a business loss in that year, and that it totalled $178,172. The Appellant’s position is that she inadvertently participated or caused another person to make that statement through unknowingly having retained a dishonest tax preparer. The remaining question is whether actual knowledge or gross negligence including wilful blindness on the part of the Appellant led to the making of, assenting to or acquiescing in the making of these false statements.
+[33] I note the evidence does not support that the Appellant had any actual knowledge of false statements being made on her behalf in her 2008 revised filing. Notable also is the Respondent’s view that the Appellant and Brian Shaw were entirely credible in giving their evidence – a view with which I concur.
+[34] Did the Appellant conduct herself in a negligent manner tantamount to intentional acting or indifference as to whether the law was complied with or not?
+[35] I would have answered this question in the affirmative but for the Appellant’s clear and un-contradicted evidence that she wanted to see Jim Shaw’s refund cheque before deciding herself to engage the same tax return preparers. In my view this was a significant and reasonable step taken by a person unsophisticated in tax matters to assure herself as to the legality of work done by the tax return preparers that Jim Shaw had utilized. The Appellant’s background and education are such that she would not be expected to know that in administering the Act the Minister may well on occasion issue substantial refund cheques based on initial assessment as filed, only to - on reassessment a year or so later - completely reverse that initial assessment and then abruptly require repayment of the previously paid substantial tax refund.
+[36] The Appellant relied also upon information given to her that Jim Shaw had spoken with CRA and had been advised he could go ahead and cash the cheque, and that also the CRA “hotline” had been called and a family member police officer had done a background check, both without anything untoward being identified. The Respondent did not express doubt as to these further steps. The Respondent did say they were not enough and that the Appellant should have consulted with a reliable tax professional as to the merits of these new tax return preparers.
+[37] But while in hindsight obviously desirable, I do not agree that this was necessary in this context of considering sufficiency of enquiries that were made. The Appellant was not used to dealing with tax professionals other than H&R Block tax return preparers and she had no compellingly obvious reason to further the enquiries noted above that she already had made and or had been advised of.
+[38] The matter of application of a subsection 163(2) penalty is very fact specific.
+[39] In respect of the guiding jurisprudence of Torres (supra) which proposes a check-list of items to be considered as “red flags” suggestive of an enquiry, absent such enquiry wilful blindness constituting gross negligence may be found. I refer to paragraphs 25 and 26 herein which set out that the Respondent considered that many of these red flag factors did not apply in this present case.
+[40] The major consideration for the Respondent was that the Appellant had signed two documents in blank. That is major consideration for me as well. However I consider that in the full context of this case, the enquiries she made and otherwise relied upon to confirm in her mind legitimacy of these tax return preparers keep the Appellant from crossing the line into gross negligence territory including wilful blindness that is tantamount to intentional acting.
+[41] I do not attach much weight to her signing after the inserted word “per” or whether she specifically read the accompanying certification on the CRA signature blocks. With respect to the latter she would have known in any event that her signature represented truthfulness of content, although through the unscrupulous person(s) with whom she was dealing this turned out not to be so. The fact is that she trusted them, having satisfied herself through enquiries as noted above in this regard. While these enquiries always could have been more extensive, I consider they were extensive enough to suffice for purposes of negating a finding of wilful blindness in the context of her decision that she could trust the new tax return preparers.
+[42] I do not attach much weight to the Appellant’s expectation that CRA could have done more to warn the public about fraudulent tax return preparers. I expect that CRA does what it can in this regard. But I have noted that as part of the enquiries made by or reported to the Appellant so as to satisfy herself that this tax return preparer was or was not “on the up and up”, two were enquiries directed specifically to CRA (phone call regarding the Jim Shaw cheque and call to the “hotline”); neither of which apparently raised any issues of concern.
+[43] Turning back to the Statement of Agent Activities, the evidence was she could not specifically remember signing this, and whether numbers (all lined up at the right of the single page) were on it when she signed. It includes language as to the “Agent” and “Amount to principal in exchange for labour.” The Appellant has a grade 12 education and modest employment record. She is an immigrant from Eastern Europe (albeit 18 years ago at the relevant time) and English is not her first language. Again whether the Appellant ever saw this in complete form before it was submitted on her behalf is uncertain. And of course the onus was on the Respondent for proof of facts in this penalty matter.
+[44] There are two more points to be noted. First, one of the Torres red flag factors is whether anyone close to the particular taxpayer, such as a spouse, warned the taxpayer against engaging the new tax return preparer. Here this did not happen. But, the opposite did. As Brian Shaw affirmed in his testimony, he had urged the Appellant to proceed with this (as apparently he himself did, to his own subsequent chagrin). So, if this factor is relevant in one direction, when a spouse or near spouse warns against involvement, it should be relevant going the opposite way - when the relationship partner urges in favour of participating. In testifying, the Appellant did not overtly seek to attribute blame or responsibility to Brian Shaw; however her basic position remains that she got caught up in this because of mis-placed trust.
+[45] Second, in closing argument Respondent’s counsel Ms. Gallant fairly stated that having heard the Appellant’s testimony including in her own cross-examination of her, the Respondent now accepted that the Appellant had not known that she actually was signing a fictitious claim for a substantial business loss. That is my view too, and my view further is that she had not signed through wilful blindness, given the circumstances as to enquiries she had made and been advised of. And also as noted above, the Respondent acknowledged that the Appellant had testified credibly.
+[46] The Appellant repeated that she received no refund money and others did and she nevertheless was assessed the same penalty. I attach no weight to this; it reflects simply the misconception of a layperson unsophisticated in tax matters that the Minister of National Revenue (Minister) would not make vigorous efforts for recovery of wrongfully paid tax refunds, with interest.
+[47] I am aware the majority of these types of appeals are dismissed. However, each appeal is different and the issue itself is certainly fact specific. In the particular and unique matrix of factual circumstances in this appeal, reviewed above, I am unable to clearly conclude that the Appellant should be liable for the subject subsection 163(2) penalty. This is a harsh penalty that Parliament has provided, and so it must follow that Parliament intended it for, in the view of the adjudicating judge, clearly deserving circumstances.
+Conclusion: [48] Accordingly this appeal is allowed, albeit without costs, and the appealed June 25, 2010 reassessment is referred back to the Minister for reconsideration and reassessment on the basis that the Appellant ought not be assessed a penalty per subsection 163(2) of the Act.
+This Amended Reasons for Judgment is issued in substitution for the Reasons for Judgment dated January 5, 2018.
+Signed at Ottawa, Canada, this 8th day of February 2018.
+“B. Russell”
+Russell J.
+CITATION:
+2018TCC6
+COURT FILE NO.:
+2012-4290(IT)G
+STYLE OF CAUSE:
+KATALIN KAJTOR AND HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Hamilton, Ontario
+DATE OF HEARING:
+July 7, 2017
+REASONS FOR JUDGMENT BY:
+The Honourable Justice B. Russell
+DATE OF JUDGMENT:
+January 5, 2018
+DATE OF AMENDED
+JUDGMENT & REASONS
+FOR JUDGMENT: February 8, 2018
+APPEARANCES:
+For the Appellant:
+The Appellant Herself
+Counsel for the Respondent:
+Dominique Gallant
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

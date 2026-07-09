@@ -1,0 +1,133 @@
+Title: Minhas c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30850/index.do
+Corpus path: corpus/cases/tcc/2012/2012-cci-221-30850-minhas-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2012-06-21
+
+# Minhas c. M.R.N.
+
+- Citation: 2012 CCI 221
+- Decision date: 2012-06-21
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7409, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Minhas c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-06-21
+Référence neutre
+2012 CCI 221
+Numéro de dossier
+2010-3846(EI)
+Juges et Officiers taxateurs
+Wyman W. Webb
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2010‑3846(EI)
+ENTRE :
+SURJIT MINHAS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 5 juin 2012 à Edmonton (Alberta)
+Devant : L’honorable juge Wyman W. Webb
+Comparutions :
+Pour l’appelante :
+L’appelante elle‑même
+Pour l’intimé :
+Mme Mary Anne Loney (stagiaire en droit)
+Me Gregory Perlinski
+____________________________________________________________________
+JUGEMENT
+L’appel fondé sur les dispositions de la Loi sur l’assurance‑emploi (la « LAE ») est accueilli sans dépens, et la décision du ministre du Revenu national rendue en vertu de cette loi est modifiée compte tenu du fait que l’appelante occupait un emploi assurable pour l’application de la LAE pendant la période allant du 15 août 2009 au 15 janvier 2010.
+Signé à Toronto (Ontario), ce 21e jour de juin 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 1er jour d’août 2012.
+Marie-Christine Gervais
+Référence : 2012CCI221
+Date : 20120621
+Dossier : 2010‑3846(EI)
+ENTRE :
+SURJIT MINHAS,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Webb
+[1] La question à trancher en l’espèce est de savoir si l’appelante occupait un emploi assurable auprès de la 1303886 Alberta Ltd. (la « société ») pour l’application de la Loi sur l’assurance‑emploi (la « LAE ») durant la période allant du 15 août 2009 au 15 janvier 2010. L’intimé avait estimé que ce n’était pas le cas compte tenu du fait qu’il existait entre l’appelante et la société un lien de dépendance.
+[2] La société exploitait un dépanneur « Tag’s » à Slave Lake (Alberta) et a employé l’appelante comme gérante adjointe du 15 août 2009 au 15 janvier 2010. La société appartenait à parts égales à deux sociétés de portefeuille. L’époux et le beau‑frère de l’appelante étaient propriétaires de l’une et, deux cousins de son époux, de l’autre.
+[3] Un emploi assurable désigne en règle générale un emploi occupé au Canada. Cependant, l’alinéa 5(2)i) de la LAE prévoit que « l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance » n’entre pas dans cette catégorie. Si l’employeur et l’employé sont liés (au sens de la Loi de l’impôt sur le revenu), l’emploi ne sera alors assurable que si les conditions énoncées à l’alinéa 5(3)b) de la LAE sont remplies.
+[4] Au début de l’audience, l’avocat de l’intimé a mentionné que l’intimé estimait que l’appelante était liée à la société pour l’application de la Loi de l’impôt sur le revenu, et qu’elle était donc réputée avoir un lien de dépendance avec cette dernière suivant l’alinéa 251(1)a) de cette même loi.
+[5] L’article 251 de la Loi de l’impôt sur le revenu prévoit notamment :
+251(2) Pour l’application de la présente loi, sont des « personnes liées », ou des personnes liées entre elles :
+a) des particuliers unis par les liens du sang, du mariage, de l’union de fait ou de l’adoption;
+b) une société et :
+(i) une personne qui contrôle la société si cette dernière est contrôlée par une personne,
+(ii) une personne qui est membre d’un groupe lié qui contrôle la société,
+(iii) toute personne liée à une personne visée au sous‑alinéa (i) ou (ii);
+[…]
+251(4) Les définitions qui suivent s’appliquent à la présente loi.
+« groupe lié » Groupe de personnes dont chaque membre est lié à chaque autre membre du groupe;
+[…]
+251(6) Pour l’application de la présente loi :
+a) des personnes sont unies par les liens du sang si l’une est l’enfant ou un autre descendant de l’autre ou si l’une est le frère ou la sœur de l’autre;
+b) des personnes sont unies par les liens du mariage si l’une est mariée à l’autre ou à une personne qui est ainsi unie à l’autre par les liens du sang;
+b.1) des personnes sont unies par les liens d’une union de fait si l’une vit en union de fait avec l’autre ou avec une personne qui est unie à l’autre par les liens du sang;
+c) des personnes sont unies par les liens de l’adoption si l’une a été adoptée, en droit ou de fait, comme enfant de l’autre ou comme enfant d’une personne ainsi unie à l’autre par les liens du sang (autrement qu’en qualité de frère ou de sœur).
+[6] Pour l’application de la Loi de l’impôt sur le revenu, l’époux de l’appelante n’est pas lié à ses cousins (son frère ne l’est pas davantage). La société n’est donc pas contrôlée par un groupe lié, et l’appelante n’est pas liée à la société, au sens de cette loi.
+[7] Comme l’appelante n’est pas liée à la société, l’existence d’un lien de dépendance entre elles est une question de fait[1].
+[8] Dans la décision Parrill c. Ministre du Revenu national, [1996] A.C.I. no 1680 (confirmée par la Cour d’appel fédérale, [1998] A.C.F. no 836), le juge Cuddihy a déclaré :
+20 Il ressort de ces jugements que des parties ont un lien de dépendance lorsque la considération prédominante ou l’intérêt global ou encore la méthode utilisée est assimilé à un processus qui n’est pas caractéristique de ce à quoi l’on pourrait s’attendre de parties n’ayant effectivement entre elles aucun lien de dépendance.
+21 Les parties ont entre elles un lien de dépendance s’il existe une même personne qui dirige les négociations des deux parties à une opération ou que les parties à une opération agissent de concert, sans avoir d’intérêts distincts, ou que l’une ou l’autre partie à une opération exerçait une influence ou un contrôle sur l’autre ou avait le pouvoir de le faire et que les opérations des parties ne sont pas compatibles avec l’objet et l’esprit des dispositions de la loi et n’indiquent pas une juste participation au jeu normal des forces économiques du marché*.
+22 Donc, un cas ne répond pas aux critères du lien de dépendance s’il existe un ou plusieurs de ces facteurs non conformes à la juste négociation entre l’employeur et l’employé et non conformes à l’objet et à l’esprit de la loi.
+(* Désigne une note de bas de page figurant dans le texte original mais qui n’a pas été incluse.)
+[9] L’appelante et son époux ont témoigné à l’audience. Quelque temps avant qu’elle ne soit engagée comme gérante adjointe, une certaine Joan Bolton occupait ce poste. Le fait que cette dernière n’avait pas de lien de dépendance avec la société n’a pas été contesté. Lorsque Jean Bolton a été engagée comme gérante adjointe, l’appelante était aussi disponible pour travailler, mais la société lui a préféré Joan Bolton. Cela qui montre que l’appelante n’a pas été engagée ensuite parce que son époux était l’un des actionnaires, autrement elle aurait obtenu ce poste plus tôt à la place de Joan Bolton.
+[10] Lorsque l’appelante a été engagée comme gérante adjointe, son salaire était supérieur à celui de Joan Bolton : 3 000 $ par mois au lieu de 2 300 $. Cependant, ses fonctions et son horaire de travail n’étaient pas les mêmes. L’appelante s’occupait de la franchise National Car Rental, que la société ne détenait pas du temps de Joan Bolton. L’appelante travaillait de plus longues heures que Joan Bolton, environ 8 à 10 heures par jour, et n’était pas rémunérée pour ses heures supplémentaires. En règle générale, elle travaillait six jours de suite et prenait ensuite deux jours de congé. Joan Bolton travaillait huit heures par jour, mais pas les fins de semaine. Si elle dépassait ses huit heures de travail quotidiennes, elle était payée pour ses heures supplémentaires selon un taux majoré de moitié.
+[11] Le relevé d’emploi indique que l’appelante a travaillé 1 260 heures durant les cinq mois qu’elle a été employée par la société (ce qui correspond à 252 heures par mois). Ce nombre d’heures a été établi par le comptable de la société qui n’a pas témoigné. La méthode de calcul du total des heures inscrit dans ce relevé d’emploi n’est pas claire. J’accepte le témoignage de l’appelante selon lequel elle travaillait 8 à 10 heures par jour. Comme elle était (et est toujours) une travailleuse très diligente et qui s’assurait de terminer ses tâches, je conclus qu’elle travaillait au moins neuf heures par jour. L’appelante est actuellement employée par Wal‑Mart où elle reçoit un salaire fixe; elle continue pourtant de faire des heures supplémentaires pour s’assurer de finir son travail.
+[12] Comme l’appelante travaillait six jours et prenait ensuite deux jours de congé, elle effectuait plus d’heures de travail en un mois que Joan Bolton, qui travaillait cinq jours puis prenait deux jours de congé. Sur une période de 56 jours[2], Joan Bolton travaillait 40 jours et l’appelante 42. L’appelante travaillait donc à peu près un jour de plus par mois que Joan Bolton. Si on suppose que Joan Bolton travaillait 22 jours pendant un mois, l’appelante accumulait environ 23 jours de travail pour la même période. Comme Joan Bolton recevait 2 300 $ pour des journées de 8 heures, en supposant qu’elle travaillait 22 jours pendant le mois, son salaire horaire était donc de 13,07 $. En supposant que l’appelante travaillait 23 jours par mois, 9 heures par jour, son salaire horaire était donc de 14,49 $ puisqu’elle recevait 3 000 $ par mois. Cette différence de 1,42 $ l’heure ne me paraît pas démontrer un lien de dépendance entre l’appelante et la société étant donné que l’appelante avait plus de responsabilités que Joan Bolton, notamment la paye, le paiement des fournisseurs et tout ce qui se rapportait à la franchise de location de voitures mentionnée plus haut.
+[13] Par ailleurs, si le nombre d’heures de travail de Joan Bolton est bien établi, il n’est pas certain que ce chiffre corresponde à neuf heures par jour pour l’appelante. Son emploi actuel de gérante adjointe chez Wal-Mart comporte un horaire quotidien de 8 heures, mais elle a mentionné qu’elle effectuait en fait entre 9 et 10 heures. Son époux a déclaré qu’elle travaillait 10 heures par jour chez Wal-Mart. Si elle en faisait autant pour la société, son salaire horaire, sur une période de 23 jours, aurait été de 13,04 $, ce qui n’est inférieur que de 0,03 $ à celui de Joan Bolton.
+[14] Rien n’indique qu’une même personne dirigeait les négociations relatives à l’opération conclue entre l’appelante et la société ou que ces dernières agissaient de concert. Rien n’indique non plus que l’entreprise exerçait une influence ou un contrôle sur l’appelante ou que leurs rapports n’étaient pas compatibles avec l’objet et l’esprit de la LAE. Le salaire de l’appelante, eu égard au nombre de ses heures de travail et à ses fonctions, pas plus que les autres conditions de son emploi, ne suggère de lien de dépendance avec la société. Le fait qu’elle était disponible pour remplacer d’autres employés à la dernière minute ne signifie pas qu’elle avait un lien de dépendance avec l’entreprise. Cette femme travaille fort et est disposée à mettre des heures supplémentaires, ce qu’elle continue d’ailleurs de faire chez Wal‑Mart.
+[15] Sa mise à pied s’explique par un ralentissement des affaires. L’appelante était l’employée la mieux payée, mais toute entreprise confrontée à une baisse des ventes et soucieuse de réduire ses dépenses chercherait à remplacer son employée la mieux payée par l’un de ses actionnaires (c’est ce qui s’est passé en l’occurrence lorsque l’époux de l’appelante a pris son poste). L’appelante n’a fourni aucun service à la société après qu’il eut été mis fin à son emploi, et ce, jusqu’à ce qu’elle soit réengagée.
+[16] Par conséquent, je conclus que l’appelante n’avait pas de lien de dépendance avec la société : l’appel au titre de la LAE est accueilli sans dépens, et la décision rendue par le ministre du Revenu national en vertu de cette loi est modifiée compte tenu du fait que l’appelante occupait un emploi assurable pour l’application de la LAE pendant la période allant du 15 août 2009 au 15 janvier 2010.
+Signé à Toronto (Ontario), ce 21e jour de juin 2012.
+« Wyman W. Webb »
+Juge Webb
+Traduction certifiée conforme
+ce 1er jour d’août 2012.
+Marie-Christine Gervais
+RÉFÉRENCE : 2012CCI221
+No DU DOSSIER DE LA COUR : 2010‑3846(EI)
+INTITULÉ : SURJIT MINHAS c. M.R.N.
+LIEU DE L’AUDIENCE : Edmonton (Alberta)
+DATE DE L’AUDIENCE : Le 5 juin 2012
+MOTIFS DU JUGEMENT : L’honorable juge Wyman W. Webb
+DATE DU JUGEMENT : Le 21 juin 2012
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle‑même
+Pour l’intimé :
+Mme Mary Anne Loney (stagiaire en droit)
+Me Gregory Perlinski
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimé : Myles J. Kirvan
+Sous‑procureur général du Canada
+Ottawa, Canada
+[1] Alinéa 251(1)c) de la Loi de l’impôt sur le revenu.
+[2] 56 jours correspondent à 7 périodes de 8 jours et à 8 périodes de 7 jours.

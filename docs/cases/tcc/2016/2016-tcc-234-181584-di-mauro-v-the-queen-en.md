@@ -1,0 +1,324 @@
+---
+title: "Di Mauro v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/181584/index.do"
+last_modified: "2016-10-21"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2016 TCC 234"
+citation2: ""
+neutral_citation: "2016 TCC 234"
+decision_date: "2016-10-21"
+language: "en"
+item_id: "181584"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2980
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T10:38:57.182000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "49001e94e9d75a05c4c958ef84f0b4edbfd5561dd1277c149b6c0bd018130239"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Di Mauro v. The Queen
+
+- Citation: 2016 TCC 234
+- Decision date: 2016-10-21
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2980, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Di Mauro v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2016-10-21
+Neutral citation
+2016 TCC 234
+File numbers
+2012-3399(IT)I, 2012-4035(IT)G
+Judges and Taxing Officers
+Patrick J. Boyle
+Subjects
+Income Tax Act
+Decision Content
+Dockets: 2012-3399(IT)I
+2012-4035(IT)G
+BETWEEN:
+ALEXANDER DI MAURO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+Status hearing held on August 23, 2016, at Toronto, Ontario.
+Before: The Honourable Justice Patrick Boyle
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rishma Bhimji
+ORDER
+In accordance with the attached reasons for order, the Appellant shall pay $50 in respect of costs to each of the other seven Appellants who were present in Court when his status hearing was held. The costs are payable within 30 days of the date of this order, and are to be paid to the Court to be delivered to the Appellants.
+Signed at Ottawa, Canada, this 21st day of October 2016.
+“Patrick Boyle”
+Boyle J.
+Citation: 2016 TCC 234
+Date: 20161021
+Dockets: 2012-3399(IT)I
+2012-4035(IT)G
+BETWEEN:
+ALEXANDER DI MAURO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER ON COSTS
+Boyle J.
+[1] Mr. Di Mauro’s tax appeals in respect of his Fiscal Arbitrators claims were the subject of a case‑managed status hearing in Toronto, Ontario, on August 23, 2016. On that day, there were about 20 Fiscal Arbitrators files set down for pre-hearings or status hearings. A number of taxpayers were self‑represented and a number were represented by counsel. Mr. Di Mauro represented himself. While only one of his appeals had been set down for a status hearing, he made a joint request to the Court to also address his other appeal which was in the general procedure, which joint request was granted.
+[2] The Court first called the appeals where no one had appeared for the appellants. The Court then called the appellants who only had informal appeals pending. The Court then called the appeals where the parties had already agreed to a schedule within which to complete pre‑hearing steps that was ready to be submitted to the Court.
+[3] Following this, the remaining eight appeals were called together so that a single approach was taken with each of them. Mr. Di Mauro’s appeals were called at this time with the appeals of the seven other Appellants. A common target timetable was first addressed and established, following which Appellants for whom a target date did not work were addressed and accommodated, and thereafter parties were allowed to address individual concerns relating to readying their appeals for trial.
+[4] At this final stage, the Respondent asked that Mr. Di Mauro please confirm on the record that, notwithstanding his notices of appeal in this Court, he was now only appealing his assessment of penalties and was abandoning his appeal relating to the tax assessed which denied his claims to Fiscal Arbitrators deductions.
+[5] This required simply acknowledging that he had already confirmed to the Federal Court of Appeal (“FCA”) when it reinstated his appeals Di Mauro v. Canada, 2015 FCA 210, which had been dismissed by this Court (Di Mauro v. The Queen, October 25, 2013, 2012-3399(IT)I and 2012-4035(IT)G), and confirming that, notwithstanding that he has not since then further amended his notices of appeal, he was indeed now only appealing the penalties assessed. The Respondent’s request was for confirmation that, notwithstanding he has not amended his notices of appeal, he had not changed his mind from the day of the FCA hearing.
+[6] Instead, Mr. Di Mauro chose to selfishly and manipulatively waste everyone’s time by deceitfully and smugly playing games. A transcript of the relevant portions of his exchange with the Court is attached. Prior to the Respondent’s counsel intervening to advise the Court of the earlier proceedings before the FCA, Mr. Di Mauro went so far as to state categorically to this Court that he had never intended to limit his appeals to penalties. Mr. Di Mauro’s baseless, self‑indulging, nonsensical performance went on for at least 20 minutes.
+[7] This Court has the power to award costs against a party who proceeds in a manner that causes unnecessary delay. This is one of the specifically enumerated considerations in Rule 147 of the Tax Court of Canada Rules (General Procedure).
+[8] This Court has the power to award costs where a party abuses the processes of the Court. See the FCA decision in Fournier v. Canada, 2005 FCA 131, etc. There is nothing in the FCA’s reasons in Brown v. Canada, 2014 FCA 301, or Di Mauro v. Canada, 2015 FCA 210, which excludes appellants who are only appealing penalties from being subject to the same considerations if they are abusing process as any other party before the Court.
+[9] This is not a case where an appellant was only wasting the time of the Court and the Respondent. Judges, registrars, court reporters and Justice counsel are all paid to be in court listening to what an appellant wants to say. Perhaps what Mr. Di Mauro did would not warrant a cost award against him in such a case.
+[10] In this case, Mr. Di Mauro was intentionally, and for his own purposes, wasting the time of seven other Canadians whose status hearings had been called at the same time. Mr. Di Mauro’s behaviour could not help advance the resolution of his appeals, nor was it responsive to the question the Respondent had asked the Court to have him answer or clarify. These seven other Canadians had other responsibilities and things to do. They were taking time off work or were away from their business, some were paying for their lawyers to be present, undoubtedly some were paying for caregivers, and some were paying for parking in downtown Toronto’s financial district by the half‑hour.
+[11] I apologized to these other Appellants on behalf of the Court.
+[12] This Court also has the power to order costs payable by or to an appropriate person who is not a party to the particular appeal. See, for example, Justice Pizzitelli’s decision in Mariano v. The Queen, 2016 TCC 161. I am satisfied that this is an appropriate case for the cost award against Mr. Di Mauro to be payable not to the other party, but to each of the other Appellants whose hearings were called and being heard at the same time.
+[13] Mr. Di Mauro will be ordered to pay $50 in respect of costs to each of the other seven Appellants. These costs, totalling $350, are payable within 30 days. These other Appellants are:
+- Angela Stanley v. The Queen, 2014-4029(IT)I, 2012-3678(IT)G;
+- Timothy Stanley v. The Queen, 2012-3565(IT)G;
+- Marc Dupéré v. The Queen, 2011-2367(IT)G;
+- Janet Frez v. The Queen, 2014-3865(IT)G;
+- Yongwoo Kim v. The Queen, 2011-4095(IT)G, 2012-4057(IT)G;
+- Layton Plummer v. The Queen, 2014-697(IT)G;
+- Barbara Adjei v. The Queen, 2013-1340(IT)I.
+[14] The total amount of $350 is to be paid to the Court to be delivered to these Appellants. The Court has their addresses and Mr. Di Mauro does not.
+Signed at Ottawa, Canada, this 21st day of October 2016.
+“Patrick Boyle”
+Boyle J.
+Transcript of the relevant portions of Mr. Di Mauro’s exchange with the Court at the hearing of August 23, 2016:
+. . .
+JUSTICE BOYLE: Anything else I can do this morning to help move this along or help you understand what is being moved along?
+MS. BHIMJI: If I may?
+JUSTICE BOYLE: Yes.
+MS. BHIMJI: With respect to the Di Mauro appeal, if I can clarify for the record what exactly is at issue, whether it is the penalty only, or if that includes business losses?
+JUSTICE BOYLE: So if you can ask to have that clarified? Or if you can tell me... clarify me?
+MS. BHIMJI: I am asking you if we can have that clarified for the Court, by the Appellants, if they can put that on the record.
+JUSTICE BOYLE: Okay. Mr. Di Mauro?
+MR. DI MAURO: It’s already on the record, isn’t it? Is it not on record?
+MS. BHIMJI: Not...
+MR. DI MAURO: I am not clear what you wish to have clarified.
+JUSTICE BOYLE: Sorry?
+MR. DI MAURO: I am not clear what she... what... what the Respondent would like to have clarified. I...
+JUSTICE BOYLE: Are you only appealing the penalties assessed, or are you also appealing the denial of your claim for the tax deduction and refund?
+MR. DI MAURO: Well, given that you are putting that question to me now...
+JUSTICE BOYLE: I am not putting the question to you.
+MR. DI MAURO: Oh, sorry.
+JUSTICE BOYLE: You asked me what she was asking.
+MR. DI MAURO: Yes. Initially, I was appealing what gave rise to the penalties.
+JUSTICE BOYLE: Right.
+MR. DI MAURO: Okay? And if your Honour could clarify: If a matter is before the Court on penalties, is that saying that the Notice of Assessment has been partially agreed to? – because I am not very clear on what the intent of limiting it to the penalties, if that is actually a segmentation process of... a limiting process.
+JUSTICE BOYLE: Oh, it would be very much a limiting process.
+MR. DI MAURO: I’m sorry?
+JUSTICE BOYLE: So... it would be very much a limiting process. So I am not pulling out your Notice of Appeal and looking at it, but I am taking it you objected in a way that either intentionally or ambiguously has you objecting to both the tax reassessment and the penalty assessment.
+MR. DI MAURO: Yes.
+JUSTICE BOYLE: And if you are only appealing the... you are only appealing whatever you choose to appeal; the rest of the assessment is correct.
+MR. DI MAURO: I see.
+JUSTICE BOYLE: So if you only appealed the penalty at the outset, or you now limit yourself to only the penalty, you are accepting the reassessment of the tax deduction.
+MR. DI MAURO: That was never my intent.
+JUSTICE BOYLE: Okay.
+MR. DI MAURO: My intent on penalties is given the fact that the burden of proof on penalties is on the Minister, then it is up to the Minister to produce the support, the evidence, for their penalties.
+JUSTICE BOYLE: Right.
+MR. DI MAURO: In other words, we’re...
+JUSTICE BOYLE: But if you are objecting to both, then you’ve got the...
+MR. DI MAURO: May I finish, your Honour?
+JUSTICE BOYLE: Yes, certainly.
+MR. DI MAURO: They would be required to produce the evidence to support the penalties and, ergo, what gave rise to the penalties. And everything that I have seen within the act speaks to a false statement, what gives rise to the false statement.
+So my suggestion is I don’t want it to be limited to the monetary aspect of the Notice of Assessment but, in fact, what gave rise to the penalty in the first place. In some manner, they are actually putting the business loss before the Court because, if they can’t... and I don’t want to be stuck on that. Given some of the latest information that I have looked at, I am actually prepared to... I am in the position actually to defend both, at this point.
+So if it is a limiting aspect of the penalties...
+JUSTICE BOYLE: I am not sure what you are talking about when you say limiting aspect of the penalties.
+MR. DI MAURO: Okay. On...
+JUSTICE BOYLE: So I am confused.
+MR. DI MAURO: Okay. Let me just draw your attention to... a Notice of Assessment contains some numbers on it. One of them would be penalties.
+JUSTICE BOYLE: Right.
+MR. DI MAURO: If we take a literal view of the number, the penalty amount, on its own, then it would indicate to the Respondent that there is some kind of agreement as to the remaining part of the assessment, the other monetary part of the assessment.
+On the other hand, if we broaden the objection of penalties to the broader scope which is, if you cannot produce the... this is the point: If you cannot produce the evidence, the burden of... if you can’t meet the burden of proof, on penalties, then it must mean that the original filing was correct.
+JUSTICE BOYLE: No.
+MR. DI MAURO: That’s all I’m...
+JUSTICE BOYLE: See? There, you are just dead wrong, Sir.
+MR. DI MAURO: Okay.
+JUSTICE BOYLE: Okay?
+MR. DI MAURO: Well, that’s what I wanted to clarify.
+JUSTICE BOYLE: Okay.
+MR. DI MAURO: Because...
+JUSTICE BOYLE: It’s...
+MR. DI MAURO: ... all, this whole matter on penalties has gotten me confused, ergo, because we seem to be focused on the monetary aspect...
+JUSTICE BOYLE: No, no. No, let’s...
+MR. DI MAURO: Okay.
+JUSTICE BOYLE: And, please, let me clarify.
+MR. DI MAURO: Okay.
+JUSTICE BOYLE: And there are some really simple things and there are some complicating factors. But simply, a penalty is assessed separately from the tax. So they deny your tax claim.
+MR. DI MAURO: Yes.
+JUSTICE BOYLE: And then they decide, do I or do I not assess a penalty as well. They only assess a penalty where they think they can establish that you made a misrepresentation in your return based on gross negligence, if not wilfully. So it is sort of called a gross negligence penalty. They have to establish that; they know that when they assess it.
+But just because they don’t assess a penalty, or if the Court decides that you weren't grossly negligent, you were only moderately negligent, you were reasonably negligent, you reasonably made a misstatement, it doesn’t mean you get the taxes you wanted.
+So there are two distinct questions. So the assessment has, let’s call them tax, which is reversing the deduction you claimed.
+MR. DI MAURO: Mm-hmm...
+JUSTICE BOYLE: It’s got interest to the date of assessment and it’s got a penalty, or not, as the case may be. You’ve got the onus if you want to contest the tax or interest; Crown’s got the onus if it's penalties.
+So if you’re contesting... if the Court ultimately decides penalty is not appropriate, it doesn’t mean you win on the tax claim.
+In fact, the complicating aspect is because the taxpayer’s got the onus on the tax claim, if you really think you are entitled to that deduction, then you’ve essentially got to go first and give evidence, which gives... which can be unhelpful to you in establishing whether you were grossly negligent or not on the penalty.
+MR. DI MAURO: Mm-hmm...
+JUSTICE BOYLE: If you are only contesting the penalty, and not the tax...
+MR. DI MAURO: Right.
+JUSTICE BOYLE: ... you don’t have to go first because you don’t have a burden. You still have to answer their questions on discovery, under oath. They can still subpoena you, have you as a witness, but you are not the one who’s got the first onus.
+But if you are contesting the tax, then the taxpayer is invariably going to go first because if you can persuade the judge that you are entitled to the tax deduction, we don’t even have to hear about the penalty.
+MR. DI MAURO: Right.
+JUSTICE BOYLE: The Crown was way off.
+MR. DI MAURO: Okay. There are two cases; one is the informal. That’s purely on penalties. So I’ll remain on the penalties on that, because the tax was already paid.
+JUSTICE BOYLE: Okay.
+MR. DI MAURO: That’s fine. And even though I attempted to withdraw it, way back when, they didn’t want to, so...
+So on that, I will leave it at penalties. But under...
+JUSTICE BOYLE: Sorry? You attempted to withdraw it and they didn’t want to? Who didn’t want to? Is that the Court didn’t let you withdraw your informal?
+MR. DI MAURO: The CRA didn’t want to withdraw it; it actually sent a... it was based on a tax adjustment going back to nineteen-ninety-...
+JUSTICE BOYLE: Okay. So it was more of a settlement discussion...
+MR. DI MAURO: For a settlement discussion...
+JUSTICE BOYLE: ... not an outright withdrawal by you?
+MR. DI MAURO: Well, it was an outright withdrawal, because I had put in a few more...
+JUSTICE BOYLE: Only if they did something.
+MR. DI MAURO: Yes. No, I had put in...
+JUSTICE BOYLE: So that is not outright, right?
+MR. DI MAURO: I had put in an adjustment and then they said, “We are not buying that.”
+JUSTICE BOYLE: Okay.
+MR. DI MAURO: “So we are going to charge you a penalty.”
+JUSTICE BOYLE: Okay.
+MR. DI MAURO: And I said, “Well, why not just withdraw it? I mean, what’s the big deal, right?” The tax was already paid. And that’s why we are here on that matter. So I will stay with the penalties on that matter.
+JUSTICE BOYLE: Okay. So, on your informal...
+MR. DI MAURO: Informal...
+JUSTICE BOYLE: ... It’s penalties only.
+MR. DI MAURO: Penalties only.
+JUSTICE BOYLE: Okay. And on your general procedure?
+MR. DI MAURO: On the general, I would like to put before the Court the losses.
+JUSTICE BOYLE: Okay. Let me just...
+MR. DI MAURO: The deduction.
+JUSTICE BOYLE: ... Pull your ...
+MR. DI MAURO: Expense deduction, whatever.
+JUSTICE BOYLE: ... file, Mr. Di Mauro. So I’ve...
+MR. DI MAURO: That’s really what I want to do.
+JUSTICE BOYLE: You’ve got your general... and I’ve got two of yours, but they are... no, no, they are both labelled for the same... in the informal. And is this the general we haven’t called yet?
+MR. DI MAURO: It’s the general you haven’t called yet, yes.
+JUSTICE BOYLE: Okay. So you’re okay talking about it and getting it resolved, pretrial?
+MR. DI MAURO: Yes.
+JUSTICE BOYLE: Okay, great.
+MR. DI MAURO: Yes.
+JUSTICE BOYLE: I am not sure why it wasn’t called, but I think that means I don’t have the file in front of me and you don’t have the file here, either.
+Do either of you have a copy of the Notice of Appeal I can look at, in that? And if only to let the Registrar call the matter, so we are properly talking about it?
+MS. BHIMJI: No. We only have the informal file with us because I just thought of the general this morning.
+JUSTICE BOYLE: Okay.
+MS. BHIMJI: Sorry.
+JUSTICE BOYLE: We do have the file number? Okay.
+MS. BHIMJI: I have the file number, yes.
+JUSTICE BOYLE: Okay. So we can call it, then.
+THE REGISTRAR: Okay. Calling file No. 2012-4035(IT)G, between Alexander Di Mauro, the Appellant v. Her Majesty the Queen, the Respondent. The Appellant is appearing on his own behalf and, for the Respondent, we have Ms. Rishma Bhimji.
+JUSTICE BOYLE: Thank you. So now we are talking about the informal and the general, officially.
+MR. DI MAURO: And I really appreciate your Honour clarifying the process. So...
+JUSTICE BOYLE: Do you have your Notice of Appeal in your general with you? No? Okay.
+MR. DI MAURO: No, I didn’t bring anything with me, because I...
+JUSTICE BOYLE: Okay.
+MR. DI MAURO: Things are in a little disarray.
+JUSTICE BOYLE: Ms. Bhimji?
+MR. DI MAURO: I was just expecting to have the dates today.
+JUSTICE BOYLE: No, that’s okay. Ms. Bhimji?
+MS. BHIMJI: If I may, I just wanted to... so the reason I wanted to clarify this for the Court is because we have actually had to clarify this before and we have gone to the Federal Court of Appeal and now we are back, and we are getting...
+JUSTICE BOYLE: Do I have a history on this file? The name sounds familiar, that’s all, but...
+MS. BHIMJI: Alexander Di Mauro...
+JUSTICE BOYLE: ... It could just be...
+MS. BHIMJI: No. With this?
+JUSTICE BOYLE: Okay.
+MS. BHIMJI: Not... no. You weren’t.
+JUSTICE BOYLE: Okay.
+MS. BHIMJI: We haven’t been in front of you. But I wanted to give you the Federal Court of Appeal judgment so that you can take a look at it.
+JUSTICE BOYLE: In this general procedure case?
+MS. BHIMJI: In both. It was both the informal and the general.
+JUSTICE BOYLE: So when I am reading the Federal Court of Appeal, Justice Webb writes:
+“The Appellant confirmed at the hearing of this appeal that he is now restricting his appeal to the striking of the parts of his Notices of Appeal...
+... so in both...
+... related to the assessment of penalties under subsection 163(2).”
+. . .
+So, based on that, the Court of Appeal reinstated the prior striking of your appeals. So they have only reinstated it on the basis that you have told the Court of Appeal that you were restricting both to penalties.
+MR. DI MAURO: Well, that’s why I was confused by the Respondent’s position on clarifying what I wanted to do. It’s... to me, it sounds like do I still have an option...
+JUSTICE BOYLE: Then why were you just playing games with me...
+MR. DI MAURO: I am not, Sir.
+JUSTICE BOYLE: ... and everybody else for the last half hour, Sir?
+MR. DI MAURO: I... I am not, your Honour. I am not. She...
+JUSTICE BOYLE: No. The question was very clear...
+MR. DI MAURO: Yes.
+JUSTICE BOYLE: ... from Ms. Bhimji...
+MR. DI MAURO: Yes.
+JUSTICE BOYLE: ... and your first was the rhetorical question, “I have already answered that, why am I having to?” I take you at face value and ignore the apparent rhetoric, and we have carried on for 20 minutes, Sir, going full circle, to you saying, “Well, of course I knew I did that. That’s why I said at the outset, I didn’t understand the question.”
+MR. DI MAURO: I don’t understand...
+JUSTICE BOYLE: Really?
+MR. DI MAURO: ... why you’re upset at me.
+JUSTICE BOYLE: Yes, I am.
+MR. DI MAURO: But she raised it. Ms. Bhimji raised...
+JUSTICE BOYLE: No. Ms. Bhimji had a question...
+MR. DI MAURO: For me to clarify...
+JUSTICE BOYLE: ... that you answered rhetorically, that I gave you the benefit of the doubt and assumed you would not behave this way, Mr. Di Mauro, because I give all Canadians that benefit of the doubt, even ones who have appeared in front of me before.
+MR. DI MAURO: But...
+JUSTICE BOYLE: Everybody wakes up a new day and maybe a changed person.
+MR. DI MAURO: Your Honour, I was not intending to... in... you know, to...
+JUSTICE BOYLE: Well, let’s end...
+MR. DI MAURO: ... upset the Court.
+JUSTICE BOYLE: ... it here.
+MR. DI MAURO: What...
+JUSTICE BOYLE: It’s not me. I am looking out at a whole bunch of Canadians who have better things to do than listen to this nonsense. It’s them that I feel for, Sir. It’s the Registrar’s job, it’s Ms. Bhimji’s job, it’s my job. They are Canadians with other things to do: kids to take care of, jobs to run, businesses to run, probably serving you at times. And you have no respect for them.
+So...
+MR. DI MAURO: May I...
+JUSTICE BOYLE: ... Is there anything else on this, Ms. Bhimji? Because it is clear that there is no doubt that his appeals have been restricted; that is the only reason they are still around.
+MS. BHIMJI: No.
+JUSTICE BOYLE: Okay.
+MS. BHIMJI: I have nothing further on this.
+. . .
+CITATION:
+2016 TCC 234
+COURT FILE NOS.:
+2012-3399(IT)I, 2012-4035(IT)G
+STYLE OF CAUSE:
+ALEXANDER DI MAURO v. THE QUEEN
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+August 23, 2016
+REASONS FOR ORDER BY:
+The Honourable Justice Patrick Boyle
+DATE OF ORDER:
+October 21, 2016
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Rishma Bhimji
+COUNSEL OF RECORD:
+For the Appellant:
+Firm:
+For the Respondent:
+William F. Pentney
+Deputy Attorney General of Canada
+Ottawa, Canada

@@ -1,0 +1,334 @@
+Title: M.N.R. v. McMahon
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/485272/index.do
+Corpus path: corpus/cases/tcc/2020/2020-tcc-104-485272-m-n-r-v-mcmahon-en.md
+Document type: case_law
+Last modified: 2020-09-15
+
+# M.N.R. v. McMahon
+
+- Citation: 2020 TCC 104
+- Decision date: 2020-09-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4565, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+M.N.R. v. McMahon
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-09-15
+Neutral citation
+2020 TCC 104
+File numbers
+2015-2676(IT)G, 2016-5317(IT)I, 2017-1117(IT)G, 2017-3153(IT)G
+Judges and Taxing Officers
+David E. Graham
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2015-2676(IT)G
+BETWEEN:
+THE MINISTER OF NATIONAL REVENUE,
+Applicant,
+and
+DANIEL McMAHON,
+Respondent.
+Motion determined by written submissions
+Before: The Honourable Justice David E. Graham
+Participants:
+Counsel for the Applicant:
+Jenna Clark Priya Bains John Chapman Sandra Tsui
+Counsel for the Respondent:
+Charles Haworth
+ORDER
+Costs of $900 are awarded to Mr. McMahon in respect of the application filed under section 174 of the Income Tax Act by the Minister of National Revenue.
+The above costs are payable by the Minister immediately.
+No costs are awarded to either party in respect of his/her submissions on costs.
+Signed at Ottawa, Canada, this 15th day of September 2020.
+“David E. Graham”
+Graham J.
+Docket: 2016-5317(IT)I
+BETWEEN:
+THE MINISTER OF NATIONAL REVENUE,
+Applicant,
+and
+CHARLOTTE PINATE,
+Respondent.
+Motion determined by written submissions
+Before: The Honourable Justice David E. Graham
+Participants:
+Counsel for the Applicant:
+Jenna Clark Priya Bains John Chapman
+Sandra Tsui
+For the Respondent:
+The Respondent herself
+ORDER
+Costs of $131.08 are awarded to Ms. Pinate in respect of disbursements incurred in respect of the application filed under section 174 of the Income Tax Act by the Minister of National Revenue.
+The above costs are payable by the Minister immediately.
+No costs are awarded to either party in respect of her submissions on costs.
+Signed at Ottawa, Canada, this 15th day of September 2020.
+“David E. Graham”
+Graham J.
+Docket: 2017-1117(IT)G
+BETWEEN:
+THE MINISTER OF NATIONAL REVENUE,
+Applicant,
+and
+JASON FOROGLOU,
+Respondent.
+Motion determined by written submissions
+Before: The Honourable Justice David E. Graham
+Participants:
+Counsel for the Applicant:
+Jenna Clark Priya Bains John Chapman Sandra Tsui
+Counsel for the Respondent:
+Duane R. Milot Igor Kastelyanets
+ORDER
+Costs of $5,504 are awarded to Mr. Foroglou in respect of the application filed under section 174 of the Income Tax Act by the Minister of National Revenue.
+The above costs are payable by the Minister immediately.
+No costs are awarded to either party in respect of his/her submissions on costs.
+Signed at Ottawa, Canada, this 15th day of September 2020.
+“David E. Graham”
+Graham J.
+Docket: 2017-3153(IT)G
+BETWEEN:
+THE MINISTER OF NATIONAL REVENUE,
+Applicant,
+and
+NAISHADHSINH BIHOLA,
+Respondent.
+Motion determined by written submissions
+Before: The Honourable Justice David E. Graham
+Participants:
+Counsel for the Applicant:
+David Silver
+For the Respondent:
+The Respondent himself
+ORDER
+Costs of $350 are awarded to Mr. Bihola in respect of the application filed under section 174 of the Income Tax Act by the Minister of National Revenue.
+The above costs are payable by the Minister immediately.
+No costs are awarded to either party in respect of his/her submissions on costs.
+Signed at Ottawa, Canada, this 15th day of September 2020.
+“David E. Graham”
+Graham J.
+Citation: 2020 TCC 104
+Date: 20200915
+Docket: 2015-2676(IT)G
+BETWEEN:
+THE MINISTER OF NATIONAL REVENUE,
+Applicant,
+and
+DANIEL McMAHON,
+Respondent;
+Docket: 2016-5317(IT)I
+AND BETWEEN:
+THE MINISTER OF NATIONAL REVENUE,
+Applicant,
+and
+CHARLOTTE PINATE,
+Respondent;
+Docket: 2017-1117(IT)G
+AND BETWEEN:
+THE MINISTER OF NATIONAL REVENUE,
+Applicant,
+and
+JASON FOROGLOU,
+Respondent;
+Docket: 2017-3153(IT)G
+AND BETWEEN:
+THE MINISTER OF NATIONAL REVENUE,
+Applicant,
+and
+NAISHADHSINH BIHOLA,
+Respondent.
+REASONS FOR ORDER
+Graham J.
+[1] The Minister of National Revenue brought an application pursuant to section 174 of the Income Tax Act (the “Application”). Jason Foroglou, Naishadhsinh Bihola, Charlotte Pinate and Daniel McMahon (collectively, the “Named Taxpayers”) were among the taxpayers named in the Application. The Minister subsequently withdrew the Application. The Named Taxpayers are each seeking costs in respect of the Application.
+[2] The primary issue before me is whether costs in respect of the Application should be awarded now or when the Named Taxpayers’ appeals are resolved. If costs should be awarded now, the secondary issue is the amount of costs that should be awarded to each of the Named Taxpayers.
+A. Background
+[3] The Named Taxpayers claimed donation tax credits in respect of gifts that they each claim to have made through a tax shelter known as the Global Learning Gifting Initiative (“GLGI”). The Minister of National Revenue reassessed each of the Named Taxpayers to deny those credits. The Named Taxpayers appealed those denials.
+[4] There were tens of thousands of other taxpayers who also claimed donation tax credits in respect of gifts purportedly made to GLGI. The Crown took two lead cases to trial. The Named Taxpayers chose not to be bound by those lead cases. In a decision reported as Mariano v. The Queen (“Mariano”), [1] Justice Pizzitelli dismissed the appeals. He found, among other things, that the appellants “did not have the donative intent to make any of their gifts, did not own or transfer the property that is the subject matter of the gift in kind . . . and that the Program was a sham”. [2]
+B. History of the Application
+[5] Subsection 174(1) allows the Minister to apply to the Court for a determination of a question if the Minister is of the opinion that the question is common to assessments in respect of two or more taxpayers arising out of substantially similar transactions. Pursuant to subsection 174(2), an application under subsection 174(1) shall set out, among other things, the question in respect of which the Minister requests a determination and the names of the taxpayers that the Minister seeks to have bound by that determination.
+[6] The Minister brought the Application in May 2016. The Application initially named four taxpayers and sought a determination of whether those taxpayers had made any gifts of cash or property within the meaning of section 118.1 of the Income Tax Act as a result of their participation in the GLGI program. All four of those taxpayers had already filed appeals in respect of their GLGI reassessments.
+[7] The Application also sought to name approximately 17,000 other taxpayers. Those were taxpayers who had objected to GLGI reassessments, had not agreed to be bound by the outcome in Mariano, had not yet had their objections confirmed by the Minister and had not yet appealed. The Minister never provided the Court with the names of those taxpayers.
+[8] The Application was subsequently amended a number of times to add other specific taxpayers who had also filed appeals in respect of their GLGI reassessments.
+[9] Mr. McMahon was one of the initial four taxpayers named in the Application. Mr. Foroglou, Ms. Pinate and Mr. Bihola were added to the Application in 2017.
+[10] I was appointed case management judge in respect of both the Application and all GLGI appeals in the spring of 2019. I had significant concerns about the practicality of proceeding with an application involving thousands of taxpayers spread out across the country who did not have common representation. I decided that, before proceeding further, I wanted the Minister to demonstrate to me how she thought the Application could work. Since it would have been absurd to hold a case management conference involving approximately 17,000 taxpayers for the purpose of determining whether it was practical to proceed with a matter involving 17,000 taxpayers, I decided to proceed on an ex parte basis. I asked the Registry to determine the Minister’s availability for an ex parte hearing.
+[11] On April 15, 2019, shortly after receiving my request, the Minister withdrew the Application.
+C. Opportunity to Make Submissions on Costs
+[12] I gave the 17 taxpayers who had been specifically named in the Application the opportunity to make submissions regarding costs related to the Application. Only the Named Taxpayers chose to make submissions.
+[13] As the Court does not know the names of the approximately 17,000 unnamed taxpayers referred to in the Application, it was not possible to seek submissions from them regarding costs. In any event, as the Minister never informed those taxpayers that she wanted to include them in the Application, it would be difficult to argue that they had incurred any costs.
+D. Timing of Awarding Costs
+[14] The Minister submits that the Named Taxpayers participated in the Application as part of their ongoing appeals and, as a result, costs in respect of the Application should be determined at the end of those appeals and should be awarded in the cause. I disagree.
+[15] The Minister is confusing the Application with the Named Taxpayers’ appeals. The Application was neither a step in the Named Taxpayers’ appeals nor an interlocutory proceeding in those appeals. It was a completely separate proceeding brought by the Minister pursuant to an entirely different provision of the Income Tax Act and involving very different parties. The Minister is not even a party to the Named Taxpayer’s appeals. Her Majesty the Queen is the respondent in those appeals. [3]
+[16] An appeal is not a condition precedent for a section 174 application. Section 174 applications may name taxpayers who are still at the objection stage, who have not yet objected or who have not even been assessed. The question to be determined must simply be “common to assessments or proposed assessments in respect of two or more taxpayers”. [4]
+[17] The Tax Court of Canada Rules (General Procedure) (the “Rules”) clearly contemplate that costs may be awarded in a section 174 application, not as a step in an appeal, but as a proceeding unto itself. Schedule II, Tariff A, subparagraph 1(b)(iii) classifies a reference under section 174 as a Class B proceeding.
+[18] Section 174 applications must be distinguished from applications brought under section 58 of the Rules. Both applications involve asking the Court to determine a specific question of law, fact or mixed fact and law. However, a Rule 58 motion is an interlocutory application brought in the course of an existing appeal. It involves only the parties to that appeal. By contrast, a section 174 application is a separate proceeding brought by the Minister outside of any existing appeal. It involves a variety of parties. Those parties may have their own separate appeals or may not have any appeal at all.
+[19] Paragraph 174(3)(b) states that taxpayers named in a section 174 application may be joined to an existing appeal at the discretion of the judge hearing the application. I can understand that, if the question to be determined on a section 174 application were determined in the course of such an appeal, it would generally be both practical and appropriate to deal with the costs related to the application at the same time as the costs in respect of the appeal. This is because any taxpayer joined to an appeal becomes a party to the appeal and thus the taxpayers who were parties to the application and the appeal would be identical.
+[20] However, the above reasoning does not apply to the matters before me. The Application was never joined to an appeal, let alone to the Named Taxpayers’ appeals. Since the Minister withdrew the Application, that proceeding is now complete. The Application will have no impact whatsoever on the outcomes of the Named Taxpayers’ appeals. So why should the Named Taxpayers have to wait to receive costs and why should their success or failure in their appeals have any bearing on their costs in respect of the Application?
+[21] In submitting that costs should be in the cause, the Minister is saying that, if the Named Taxpayers lose their appeals, Her Majesty the Queen should receive costs in respect of the Application. This is illogical. An example will illustrate why. As set out above, the Application included approximately 17,000 unnamed taxpayers who had filed objections but had not yet appealed. Assume that the Minister had, in fact, served the Application on those 17,000 taxpayers and that those taxpayers had each taken steps to deal with the Application before the Minister withdrew it. Those taxpayers would be entitled to costs in respect of the Application. Their entitlement would exist despite the fact that they had never filed appeals with the Court. They would receive costs in respect of the Application because they were parties to the Application. Their entitlement to those costs would not change if they eventually filed appeals with the Court nor would it change if those appeals were dismissed. Why, then, should the Named Taxpayers’ entitlement to the same costs be dependent on the outcome of their appeals? If the Named Taxpayers lose their appeals, why should that prevent them from receiving costs that I would have awarded to the 17,000 taxpayers who never filed appeals and instead subject the Named Taxpayers to have to pay costs for the Application?
+[22] Based on all of the foregoing, I conclude that the costs of the Application should be dealt with now.
+[23] Each of the Named Taxpayers seeks very different costs. Although these reasons deal with the Named Taxpayers as a group, I have based the costs awards on the specific relief sought by each of the Named Taxpayers.
+E. Mr. Foroglou
+[24] Mr. Foroglou is seeking costs of $56,500. The Minister submits that costs of $900 would be appropriate.
+[25] In June 2019, Mr. Foroglou submitted a bill of costs in respect of the Application. He sought $11,008.01 in costs. Those costs were calculated on a substantial indemnity basis. [5] I decided that the matter of costs would be dealt with at a later time. In December 2019, I sought submissions on costs from all parties. Mr. Foroglou then submitted a second bill of costs. He asked that I ignore his initial bill of costs and, instead, award costs of $56,500. [6] Again, he calculated those costs on a substantial indemnity basis. For the following reasons, I find that the initial bill of costs represents a more accurate statement of Mr. Foroglou’s costs associated with the Application than the second bill of costs.
+[26] I struggle to understand how Mr. Foroglou’s costs relating to the Application could have changed so dramatically between June and December 2019. The Minister had already withdrawn the Application when Mr. Foroglou submitted his initial bill of costs, so no additional costs in respect of the Application could have been incurred after that time.
+[27] Mr. Foroglou submits that the initial bill of costs “did not take into account all of the case management conferences attended and the 3 years of litigation that has already elapsed since the [Minister] commenced the . . . Application.” The initial bill of costs referred to “attendance at case management conferences”, so I must assume that the cost of attending case management conferences relating to the Application was already factored into the initial bill. While there have been many other case management conferences relating to Mr. Foroglou’s appeal, the issue before me does not concern an award of costs in his appeal. The issue before me is whether to award costs in respect of the Application. I am not awarding costs in respect of other litigation steps Mr. Foroglou may have taken in relation to his appeal during the period when the Application was outstanding.
+[28] The second bill of costs makes reference to “clients”. The reference to “clients” suggests that the second bill of costs may include fees relating to people other than Mr. Foroglou.
+[29] Mr. Foroglou’s submissions on costs also make reference to the length of the Reply, the number of documents in the list of documents and the length of that list. These things relate to Mr. Foroglou’s appeal. They have nothing to do with the Application. The fact that references to them were included in Mr. Foroglou’s submissions further suggests that he is seeking costs in respect of more than just the Application.
+[30] The affidavit of Heather Thompson filed with Mr. Foroglou’s submissions makes reference to the following matters, all of which relate to his appeal rather than the Application:
+a) a case management conference held on June 21, 2019;
+b) a case management conference held on December 17, 2019;
+c) correspondence relating to the completion of the remaining steps in his appeal; and
+d) correspondence relating to the ongoing conduct of his appeal.
+[31] Again, Ms. Thompson’s reference to those matters suggests that the costs submitted in Mr. Foroglou’s second bill of costs relate to more than the Application.
+[32] Based on all of the foregoing, I find that the initial bill of costs represents a more accurate statement of Mr. Foroglou’s costs associated with the Application than the second bill of costs. I will therefore use the initial bill of costs for the balance of my analysis.
+[33] Subsection 147(3) of the Rules sets out factors that the Court may consider in awarding costs. I will consider those factors below.
+Result of the Proceeding
+[34] The Minister withdrew the Application. Very little had occurred prior to the withdrawal. This argues for lower costs.
+Amount in Issue
+[35] Had the Application proceeded, the question that the Minister sought to have determined would most likely have resolved Mr. Foroglou’s appeals one way or the other. Thus, I consider the amount that Mr. Foroglou had in issue in his appeals to be a relevant factor in the determination of his costs. Mr. Foroglou is disputing approximately $400,000 in tax and interest. This amount argues for slightly higher costs.
+Importance of the Issues
+[36] Traditionally, most section 174 applications have involved two taxpayers who were connected in some manner (e.g. husband and wife; purchaser and vendor). In recent years, the Minister has begun using section 174 applications to try to deal with large groups of taxpayers. Because this is a recent development, there was no case law on this use of section 174 at the time that the Minister brought the Application.
+[37] Had the Application proceeded, it would have shed light on a number of important procedural issues. In particular, it would have led to the development of the law regarding the types of questions that are properly asked in a section 174 application, the rights of taxpayers named in a section 174 application to appear before the Court as part of that application, the proper service of taxpayers named in a section 174 application and the extent to which the Court has the discretion to reject a section 174 application on the basis that it is either impractical or impossible to ensure procedural fairness for all parties. These issues would certainly have been important to the development of tax law, to the public’s interest and to a broad number of people. As a result, this factor argues for higher costs.
+Settlement Offers
+[38] No settlement offers were exchanged regarding the Application.
+Complexity of the Issues
+[39] As set out above, the procedural issues in the Application were both novel and complex. This factor argues for higher costs.
+Volume of Work
+[40] The initial bill of costs submitted by Mr. Foroglou clearly covers more than simply the time that his counsel spent reviewing the Application and attending case management conferences. While the Application did not proceed far enough to address any of the procedural issues described above, it is entirely understandable that Mr. Foroglou would have incurred legal fees trying to understand those issues and preparing to address them. It is appropriate that costs awarded to Mr. Foroglou would reflect those fees.
+Stages Taken Through Negligence, Mistake or Excessive Caution
+[41] I find that the Minister’s decision to bring the Application was a mistake. It should have been plain and obvious to the Minister that it would never be practical to proceed with the Application.
+[42] The Minister attempted to name approximately 17,000 taxpayers in the Application. I do not have any information about those taxpayers, but, to judge by the taxpayers whose GLGI appeals have been heard by the Court, it is fair to assume that they reside in many different cities in many different provinces and that they are either self-represented or represented by a number of different lawyers or agents. Holding a single hearing involving such a large and disparate group of taxpayers would have been entirely impractical.
+[43] The Minister cannot possibly have thought that the Court could conduct such a large hearing. In the circumstances, the only logical explanation for the Minister’s filing of the Application is that the Minister incorrectly assumed that the taxpayers named in a section 174 application would not have a right to participate in the application.
+[44] Section 174 is a powerful tool and, correctly used, has the potential to achieve significant efficiency, but there is nothing in the section that suggests that Parliament intended to deprive taxpayers of their basic legal rights. There is nothing that suggests that Parliament intended that the Minister could simply name taxpayers whose assessments the Minister believed shared a question in common with those of other taxpayers and, in doing so, have those named taxpayers bound by whatever the Court determined was the answer to that question without ever giving them the opportunity:
+a) to challenge whether they should be named;
+b) to challenge whether the question was appropriate;
+c) to make submissions as to the manner in which the question should be determined;
+d) to challenge whether, under paragraph 174(3)(b), they should be joined as a party to another taxpayer’s appeal and, if they were joined, to participate in all of the stages of that appeal; and
+e) most importantly, to participate in the determination of the question.
+[45] Had the Minister turned her mind to the fact that all of the taxpayers named in the Application would have had the right to participate in the process, she would never have brought the Application. Her failure to do so caused Mr. Foroglou to incur significant unnecessary costs. This factor weighs very heavily in favour of a higher award of costs.
+Conduct Affecting the Duration of the Proceeding
+[46] There was no evidence of any conduct affecting the duration of the proceeding.
+Denial or Refusal to Admit
+[47] There was no evidence that would suggest that either party had denied or refused to admit anything that should have been admitted.
+Improper, Vexatious or Unnecessary Stages
+[48] There is no evidence that would suggest that any stage in the proceeding was improper, vexatious or unnecessary. The absence of such evidence is important, as Mr. Foroglou has requested costs on a substantial indemnity basis.
+[49] There is a significant difference between bringing an application in good faith based on a mistaken understanding of the procedural issues involved and bringing an application in bad faith. There is no evidence that the Minister was acting in bad faith. On the contrary, it appears that the Minister was attempting to resolve a significant number of tax disputes in what she believed to be the most efficient way possible.
+Irrelevant Factors
+[50] I think that it is important that I highlight a number of factors that are not relevant to my decision on costs.
+[51] Mr. Foroglou submits that increased costs are justified because the Minister has failed to issue Notices of Confirmation to the approximately 17,000 taxpayers who are still at the objection stage. The Minister’s decision on whether and when to issue Notices of Confirmation to other taxpayers has no bearing on Mr. Foroglou’s costs in respect of the Application. Mr. Foroglou has brought a separate motion in respect of this issue as part of his appeal. I will address his concerns on the issue when I deal with that motion.
+[52] Mr. Foroglou also submits that increased costs are justified because of delays in his appeal. Counsel for the respondent (Her Majesty the Queen) in Mr. Foroglou’s appeal asked that the appeal be held in abeyance and that the respondent be relieved from her obligation to file a Reply until after the Application had been determined. This had the effect of delaying the resolution of Mr. Foroglou’s appeal by approximately 25 months. [7] Since the Application should not have been brought in the first place, this delay was unnecessary.
+[53] However, to the extent that the delay is a factor that should be considered when determining costs, the costs in question would be costs in respect of Mr. Foroglou’s appeal. As set out above, the Application and the appeal are two separate proceedings. I am awarding costs in respect of the Application, not the appeal. Costs in respect of the appeal will be awarded, as appropriate, by the trial judge and will depend in large part on whether Mr. Foroglou is successful in his appeal. To the extent that the trial judge decides to award costs to Mr. Foroglou, he or she will be in a better position to balance the unnecessary delay against other costs factors relating to the appeal.
+[54] The Minister has advised the Court that she has told Mr. Foroglou that she will be waiving any interest that accrued on Mr. Foroglou’s tax liability during the period of time between the filing of the Application and its withdrawal. In my view, this waiver is appropriate.
+Summary
+[55] Mr. Foroglou has requested substantial indemnity costs. The Application should never have been brought, but there is no evidence that the Minister brought it with ill intent. It appears that the Minister was simply trying to deal with a large number of tax files in what she believed was the most efficient manner possible. In the circumstances, substantial indemnity costs are not appropriate, but higher costs are. I award costs to Mr. Foroglou in the amount of $5,504, being 40% of his costs. [8]
+F. Mr. McMahon
+[56] Mr. McMahon seeks $900 in costs. These are his costs of reviewing the Application and attending three case management conferences. They are calculated in accordance with the Tariff for a Class B proceeding. The Minister concedes that, if I find that costs in respect of the Application should be dealt with now, $900 is a reasonable amount of costs to be awarded to Mr. McMahon. Accordingly, I will award him $900 in costs.
+[57] I acknowledge that the costs awarded to Mr. McMahon are significantly lower than those awarded to Mr. Foroglou. I presume that Mr. McMahon requested costs appropriate to the expenses that he incurred. My role is to determine whether those costs should be awarded. It is not to second-guess his actual costs or to grant him costs that he has not requested. [9]
+G. Ms. Pinate
+[58] Ms. Pinate seeks $12,191.08 in costs consisting of:
+a) $131.08 in disbursements for the cost of a transcript of one of the case management calls;
+b) $180 for attending three case management calls;
+c) $180 for a “witness” attending those case management calls;
+d) $3,825 for reading all CRA correspondence related to the Application;
+e) $7,650 for responding to all CRA correspondence related to the Application; and
+f) $225 for phone calls for legal advice and legal information on section 174.
+Determination of Costs
+[59] The Minister accepts that Ms. Pinate is entitled to $131.08 in disbursements for the cost of a transcript of one of the case management calls. I will award costs to her in this amount.
+[60] Ms. Pinate is self-represented. The balance of her claim is for her own time. She values her time at a rate of $30 per hour. The Minister takes the position that Ms. Pinate should not be compensated for her own time.
+[61] The awarding of costs to self-represented litigants in respect of their own time is neither automatic nor routine but rather something that is left to the discretion of the judge. For the following reasons, I find that Ms. Pinate’s case is not one in which I should exercise that discretion.
+[62] The leading cases on awarding costs to self-represented litigants are the two Federal Court of Appeal decisions in Sherman v. Minister of National Revenue [10] Mr. Sherman was a self-represented lawyer. The Federal Court of Appeal awarded costs to him in respect of time that he spent “to do the work that would have normally been done by the lawyer who would have represented him if one had been retained to conduct litigation” and that did not involve steps in the litigation that would have been required his attendance in any event. [11] The Court held that any such costs awarded to a self-represented litigant should generally be less than the costs that would have been awarded to counsel and should never exceed the Tariff. The Court awarded Mr. Sherman “a moderate allowance for the time and effort devoted to preparing and presenting the case . . . on proof that the appellant, in so doing, incurred an opportunity cost by forgoing remunerative activity”. [12]
+[63] In awarding costs to Mr. Sherman, the Federal Court of Appeal appears to have been significantly influenced by the value that he brought to the process. The Court referred to Mr. Sherman being “a reputable tax expert”, raising “new issues of public interest”, behaving “with great propriety throughout the litigation”, submitting “good quality” work and presenting submissions that were “well documented and helpful.” [13]
+[64] Despite the large number of self-represented taxpayers that appear in this Court, the Sherman decisions have not been widely applied. I am only aware of the decisions being applied in two appeals. [14] Both of those appeals involved self-represented lawyers.
+[65] I do not see anything special about Ms. Pinate’s situation that would justify awarding her costs in respect of her own time. She did not provide any particular assistance to the Court or offer any particular expertise. To the extent that the Court considered new issues, those issues arose as a result of the Minister bringing the Application rather than from any action on Ms. Pinate’s part. Furthermore, there is no evidence to suggest that Ms. Pinate lost out on any remunerative activity.
+[66] I am sympathetic to the fact that Ms. Pinate did have to take on extra work because of the Minister’s mistaken belief that it was appropriate to bring the Application. That is not enough, however, for me to award costs to Ms. Pinate in respect of her time. My view on this issue would have been different had I found that the Minister brought the Application in bad faith. In those circumstances, I would have considered awarding a small amount of costs to Ms. Pinate, not as compensation for her time, but rather as a deterrent.
+[67] Considering all of the foregoing, I will not award costs to Ms. Pinate in respect of her own time.
+Alternative Relief
+[68] If I am wrong and costs should be awarded to Ms. Pinate in respect of her own time, I would award costs of $300, being $50 for each of the four case management conference calls that she attended and $100 for reviewing the Application. I reach this conclusion for the following two reasons.
+[69] First, I have serious concerns about the amounts claimed by Ms. Pinate. It appears that Ms. Pinate may have attempted to claim costs unrelated to the Application. Ms. Pinate specifically refers to investing time over “more than 10 years”. [15] Ms. Pinate filed her Notice of Appeal in December 2016. Accordingly, if she is requesting costs relating to time she has spent over more than 10 years, she must be including the time that she spent preparing her Notice of Appeal, dealing with CRA Appeals and, possibly, dealing with her audit. I am awarding costs in respect of the Application, not Ms. Pinate’s appeal and certainly not in respect of time spent prior to commencing her appeal.
+[70] Second, Sherman directs that costs awarded should generally be less than what would be awarded to counsel and should never exceed the Tariff. The amounts claimed by Ms. Pinate far exceed the $900 in Tariff fees that I have awarded to Mr. McMahon for the services of his lawyer and even exceed the approximately $12,177 in legal costs (before HST) that I have found Mr. Foroglou incurred in respect of the Application.
+Delay in Appeal
+[71] Ms. Pinate objected strenuously to her appeal being held in abeyance while the Application was resolved. She raised that issue numerous times during the course of the Application. I find that Ms. Pinate’s appeal was delayed by 27 months as a result of the Application. [16] Since the Application should not have been brought in the first place, that delay was unnecessary.
+[72] As set out in my analysis of Mr. Foroglou’s costs, any costs arising from the delay in the appeal would be costs in respect of Ms. Pinate’s appeal. The Application and the appeal are two separate proceedings. I am awarding costs in respect of the Application, not the appeal. Costs in respect of the appeal will be awarded, as appropriate, by the trial judge and will depend in large part on whether Ms. Pinate is successful in her appeal. To the extent that the trial judge decides to award costs to Ms. Pinate, he or she will be in a better position to balance the unnecessary delay against other costs factors relating to the appeal.
+[73] The Minister has advised the Court that she will be waiving any interest that accrued on Ms. Pinate’s tax liability during the period of time between the filing of the Application and its withdrawal. In my view, this waiver is appropriate.
+Summary
+[74] Based on all of the foregoing, I award costs of $131.08 to Ms. Pinate.
+H. Mr. Bihola
+[75] Mr. Bihola is also self-represented. It is unclear from his submissions exactly what costs he is seeking. Most of what he describes in his submissions appears to be the tax and interest in dispute in his appeal. The only amount that appears to relate to costs is a request for $5,000 in respect of “2012 to Dec, 2019 Total Expensss” [sic]. I asked Mr. Bihola to provide more detail about this amount. Mr. Bihola did not provide any additional information. Given that Mr. Bihola is self-represented, it seems very unlikely that the $5,000 that he has claimed relates to anything other than his own time. The time period that he references also suggests that he is claiming costs both in respect of his appeal and in respect of matters that occurred prior to his appeal.
+[76] As set out in my analysis of Ms. Pinate’s costs, the Court does not normally award costs to self-represented taxpayers in respect of their time spent on the litigation. I find that this is not a situation where it would be appropriate to depart from that general practice. As a result, in normal circumstances, I would not award any costs to Mr. Bihola. However, the Minister has conceded that, if costs are to be awarded now, it would be appropriate to award $350 in costs to Mr. Bihola. This is odd given the position that the Minister took in respect of Ms. Pinate. [17] However, it is not my role to second-guess a concession made by a party. As a result, I will award costs of $350 to Mr. Bihola.
+[77] Like Mr. Foroglou and Ms. Pinate, Mr. Bihola objected to his appeal being held in abeyance while the Application was resolved. As set out above, this is something that Mr. Bihola is welcome to raise with the trial judge when costs are being determined in respect of his appeal.
+I. Summary
+[78] Costs of $5,504 are awarded to Mr. Foroglou. Costs of $900 are awarded to Mr. McMahon. Costs of $131.08 are awarded to Ms. Pinate. Costs of $350 are awarded to Mr. Bihola. All of these costs are payable forthwith.
+[79] No costs are awarded to any of the parties in respect of their submissions on costs.
+Signed at Ottawa, Canada, this 15th day of September 2020.
+“David E. Graham”
+Graham J.
+CITATION:
+2020 TCC 104
+COURT FILE NOS.:
+2015-2676(IT)G
+2016-5317(IT)I
+2017-1117(IT)G
+2017-3153(IT)G
+STYLES OF CAUSE:
+The Minister of National Revenue v. Daniel McMahon
+The Minister of National Revenue v. Charlotte Pinate
+The Minister of National Revenue v. Jason Foroglou
+The Minister of National Revenue v. Naishadhsinh Bihola
+PLACE OF HEARING:
+Motion determined by written submissions
+REASONS FOR ORDER BY:
+The Honourable Justice David E. Graham
+DATE OF ORDER:
+September 15, 2020
+PARTICIPANTS:
+Counsel for the Applicant in respect of Daniel McMahon, Jason Foroglou and Charlotte Pinate:
+Jenna Clark Priya Bains John Chapman Sandra Tsui
+Counsel for the Applicant in respect of Naishadhsinh Bihola:
+David Silver
+Counsel for the Respondent Daniel McMahon:
+For the Respondent Charlotte Pinate:
+For the Respondent Naishadhsinh Bihola:
+Counsel for the Respondent Jason Foroglou:
+Charles Haworth
+The Respondent herself
+The Respondent himself
+Duane R. Milot Igor Kastelyanets
+COUNSEL OF RECORD:
+For the Applicant:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the Respondent Daniel McMahon:
+Name:
+Charles Haworth
+Firm:
+Radnoff Law Offices
+For the Respondent Jason Foroglou:
+Name:
+Duane R. Milot Igor Kastelyanets
+Firm:
+Milot Law
+[1] 2015 TCC 244.
+[2] Mariano at para. 146.
+[3] For administrative convenience these matters are recorded in the Court’s registry system under the file numbers used for each of the Named Taxpayers’ appeals. This does not alter the fact that they are entirely separate proceedings. Rather, it reflects certain technological challenges faced by the Court under its current case management system.
+[4] Subsection 174(1).
+[5] Mr. Foroglou claimed 80% of his total costs (including HST) of $13,760.01.
+[6] This is approximately 80% of Mr. Foroglou's total costs (including HST).
+[7] This is the number of months from the date that was 60 days after the date that the Registry served Mr. Foroglou’s Notice of Appeal on the Department of Justice to the date that the Reply was actually served.
+[8] Mr. Foroglou's costs were $13,760.01, including HST.
+[9] Kibalian v. The Queen, 2019 FCA 160, at paras. 14-17.
+[10] 2003 FCA 202 and 2004 FCA 29.
+[11] 2003 FCA 202 at para. 52.
+[12] 2003 FCA 202 at para. 52.
+[13] 2004 FCA 29 at para. 15.
+[14] Landry v. The Queen (2009 TCC 154) and Wetzel v. The Queen (2004 TCC 767). In Preston v. The Queen (2007 TCC 761), Chief Justice Bowman referred to Sherman but stated that his decision was ultimately more in line with the Federal Court of Appeal decision in Turner v. The Queen (2003 FCA 173).
+[15] Letter from Ms. Pinate to the Respondent containing a revised Bill of Costs dated March 5, 2020.
+[16] I find that the appeal was delayed from February 2017 until April 2019.
+[17] This difference may be explained by the fact that the Minister's representations in respect of Ms. Pinate were made by different counsel than the counsel making the representations in respect of Mr. Bihola.

@@ -1,0 +1,183 @@
+---
+title: "Zanatta c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/97823/index.do"
+last_modified: "2014-10-01"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 293"
+citation2: ""
+neutral_citation: "2014 CCI 293"
+decision_date: "2014-10-01"
+language: "fr"
+item_id: "97823"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5173
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:43:52.868000+00:00"
+cases_cited_count: 5
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "b31bc97b3913e66b019059c0a7e9dfc85831c611c50014d611baa461f6fa5b2f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Zanatta c. La Reine
+
+- Citation: 2014 CCI 293
+- Decision date: 2014-10-01
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5173, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Zanatta c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-10-01
+Référence neutre
+2014 CCI 293
+Numéro de dossier
+2014-562(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Notes
+Contenu de la décision
+Dossier : 2014-562(IT)I
+ENTRE :
+Todd Edward Zanatta,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 11 septembre 2014, à Vancouver (Colombie‑Britannique).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Shankar Kamath
+JUGEMENT
+L’appel interjeté à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2012 est rejeté.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 20e jour d’octobre 2014.
+Marie-Christine Gervais, traductrice
+Référence : 2014 CCI 293
+Date : 20141001
+Dossier : 2014-562(IT)I
+ENTRE :
+Todd Edward Zanatta,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelant a demandé un crédit d’impôt pour frais médicaux relativement à des frais médicaux s’élevant à 80 808 $ supportés au cours de son année d’imposition 2012.
+[2] Le ministre du Revenu national (le « ministre ») a refusé la somme de 63 721,10 $ payée à titre de contrepartie à une mère porteuse et au titre des frais médicaux supportés par la mère porteuse.
+[3] La déduction de ces frais a été refusée compte tenu du fait que les frais payés à la mère porteuse pour porter l’embryon et pour donner naissance au bébé de l’appelant et de son époux ne constituent pas des frais médicaux admissibles de l’appelant pour l’application des dispositions relatives au crédit d’impôt pour frais médicaux, étant donné que ces frais ne sont pas visés par l’alinéa 118.2(2)a) de la Loi de l’impôt sur le revenu (la « LIR »).
+[4] Le ministre estime également que les frais médicaux payés par l’appelant pour le compte de la mère porteuse ne sont pas des frais médicaux admissibles à l’égard de services fournis à l’appelant, à son époux ou à son conjoint de fait, ou à une personne à charge de l’appelant au sens du paragraphe 118(6) de la LIR.
+[5] Le ministre a toutefois accordé un montant de 16 675 $ à l’égard du processus in vitro compte tenu du fait, si j’ai bien compris, que ces frais médicaux avaient trait à des services fournis à l’appelant (pièce R-I et alinéa 7b) de la réponse à l’avis d’appel).
+[6] Les dispositions législatives pertinentes sont les suivantes :
+118 (6) Sens de personne à charge — Pour l’application des alinéas (1)d) et e) et (4)e), la personne aux besoins de laquelle un particulier subvient au cours d’une année d’imposition est une personne à charge relativement au particulier à un moment de l’année si elle est, par rapport au particulier ou à son époux ou conjoint de fait :
+a) son enfant ou petit-enfant;
+b) son père ou sa mère, son grand-père ou sa grand-mère, son oncle ou sa tante, son frère ou sa sœur, son neveu ou sa nièce, qui réside au Canada à un moment de l’année.
+[…]
+118.2 (1) Crédit d’impôt pour frais médicaux — La somme obtenue par la formule ci‑après est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition :
+A x [(B - C) + D]
+où :
+A représente le taux de base pour l’année;
+B le total des frais médicaux du particulier, engagés à son égard ou à l’égard de son époux ou conjoint de fait ou de son enfant qui n’a pas atteint l’âge de 18 ans avant la fin de l’année et qui, à la fois :
+[…]
+C 1 813 $ ou, si elle est moins élevée, la somme représentant 3 % du revenu du particulier pour l’année;
+[…]
+118.2(2) Frais médicaux — Pour l’application du paragraphe (1), les frais médicaux d’un particulier sont les frais payés :
+a) à un médecin, à un dentiste, à une infirmière ou un infirmier, à un hôpital public ou à un hôpital privé agréé, pour les services médicaux ou dentaires fournis au particulier, à son époux ou conjoint de fait ou à une personne à la charge du particulier (au sens du paragraphe 118(6)) au cours de l’année d’imposition où les frais ont été engagés;
+[…]
+g) à une personne dont l’activité est une entreprise de transport, dans la mesure où ce paiement se rapporte au transport, entre la localité où habitent le particulier, son époux ou conjoint de fait ou une personne à charge visée à l’alinéa a) et le lieu — situé à 40 kilomètres au moins de cette localité — où des services médicaux sont habituellement dispensés, ou vice-versa, des personnes suivantes :
+(i) le particulier, l’époux ou conjoint de fait ou la personne à charge,
+(ii) un seul particulier accompagnant le particulier, l’époux ou conjoint de fait ou la personne à charge, si ceux-ci sont, d’après le certificat d’un médecin, incapables de voyager sans l’aide d’un préposé à leurs soins,
+si les conditions suivantes sont réunies :
+(iii) il n’est pas possible d’obtenir dans cette localité des services médicaux sensiblement équivalents,
+(iv) l’itinéraire emprunté par le particulier, l’époux ou conjoint de fait ou la personne à charge est, compte tenu des circonstances, un itinéraire raisonnablement direct,
+(v) le particulier, l’époux ou conjoint de fait ou la personne à charge se rendent en ce lieu afin d’obtenir des services médicaux pour eux‑mêmes et il est raisonnable, compte tenu des circonstances, qu’ils s’y rendent à cette fin;
+h) pour les frais raisonnables de déplacement, à l’exclusion des frais visés à l’alinéa g), engagés à l’égard du particulier, de l’époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a) et, si ceux‑ci sont, d’après le certificat d’un médecin, incapables de voyager sans l’aide d’un préposé à leurs soins, à l’égard d’un seul particulier les accompagnant, afin d’obtenir des services médicaux dans un lieu situé à 80 kilomètres au moins de la localité où le particulier, l’époux ou le conjoint de fait ou la personne à charge habitent, si les conditions visées aux sous-alinéas g)(iii) à (v) sont réunies;
+[…]
+l.1) au nom du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a), qui doit subir une transplantation de la moelle épinière ou d’un organe :
+(i) pour les frais raisonnables, excluant les frais visés au sous-alinéa (ii) mais incluant les frais judiciaires et les primes d’assurance, engagés dans la recherche d’un donneur compatible et dans les préparatifs de la transplantation,
+(ii) pour les frais raisonnables de déplacement, de pension et de logement, à l’exclusion des frais visés aux alinéas g) et h), du donneur (et d’une autre personne qui l’accompagne) et du particulier (et d’une autre personne qui l’accompagne) engagés relativement à la transplantation;
+o) pour les actes de laboratoires, de radiologie ou autres actes de diagnostic et les interprétations nécessaires, sur ordonnance d’un médecin ou d’un dentiste, en vue de maintenir la santé, de prévenir les maladies et de diagnostiquer ou traiter une blessure, une maladie ou une invalidité du particulier, de son époux ou conjoint de fait ou d’une personne à charge visée à l’alinéa a).
+[7] Dans la décision Zieber c. La Reine, 2008 CarswellNat 1716, 2008 DTC 4175, 2008 CCI 328, rendue sous le régime de la procédure informelle, la Cour a conclu que les frais liés à un contrat de grossesse donnaient droit au crédit d’impôt pour frais médicaux compte tenu du fait que la transplantation d’un embryon constitue une transplantation d’organe pour l’application de l’alinéa 118.2(2)l.1).
+[8] Cette décision a par la suite été analysée dans d’autres instances devant la Cour sans toutefois être suivie (Warnock v. The Queen, 2014 CarswellNat 2957, 2014 TCC 240, et Carlson v. The Queen, 2012-3063 (IT)I, dont les motifs du jugement rendus oralement datés du 13 juin 2013 n’ont pas été publiés).
+[9] Dans la décision Warnock, la juge Woods a fait remarquer que la décision Zieber ne traitait pas de tous les aspects pertinents de l’alinéa 118.2(2)l.1) de la LIR. Elle a finalement conclu que, considérée dans son ensemble, cette disposition ne s’applique pas aux contrats de grossesse, principalement parce que la mère porteuse qui reçoit la transplantation n’est pas le particulier, l’époux ou conjoint de fait ou une personne à charge du particulier au sens de l’alinéa 118.2(2)a) de la LIR. Le juge Archambault est arrivé à la même conclusion dans la décision Carlson, précitée. Je souscris à ces deux décisions.
+[10] Pour les mêmes raisons, les frais relatifs à des services donnant par ailleurs droit au crédit, qui sont énoncés aux alinéas 118.2(2)g), h) et o), ont été supportés pour le compte de la mère porteuse et ne sont donc pas des frais admissibles, car la mère porteuse n’est pas le particulier, son époux ou conjoint de fait ou une personne à charge du particulier au sens de l’alinéa 118.2(2)a) de la LIR.
+Discrimination [11] L’appelant a aussi fait valoir que couples d’hommes gais sont victimes de discrimination en raison de l’application de l’alinéa 118.2(2)a) de la LIR. Il a dit qu’ils ont le droit d’être traités comme les couples hétérosexuels et les couples de lesbiennes, qui ont la possibilité de demander le crédit d’impôt pour frais médicaux à l’égard de traitements de fécondation in vitro. Autrement dit, comme les couples d’hommes gais n’ont pas d’ovaires pour produire des ovules ni d’utérus pour porter un fœtus, ils doivent avoir recours à des mères porteuses, alors que ce n’est pas le cas pour les couples hétérosexuels et les couples de lesbiennes.
+[12] La question qui se pose est donc de savoir si l’alinéa 118.2(2)a) viole les droits garantis par l’article 15 de la Charte canadienne des droits et libertés (la « Charte »).
+[13] Le paragraphe 15(1) de la Charte dispose ce qui suit :
+La loi ne fait acception de personne et s’applique également à tous, et tous ont droit à la même protection et au même bénéfice de la loi, indépendamment de toute discrimination, notamment des discriminations fondées sur la race, l’origine nationale ou ethnique, la couleur, la religion, le sexe, l’âge ou les déficiences mentales ou physiques.
+[14] Le processus d’analyse de l’article 15 de la Charte comporte deux étapes. Dans l’arrêt Eldridge c. Colombie‑Britannique (Procureur général), [1997] 3 R.C.S. 624, au paragraphe 58, le processus en deux étapes est décrit de la manière suivante :
+[…] La personne qui allègue une violation du par. 15(1) doit d’abord établir que, en raison d’une distinction faite entre elle et d’autres personnes, elle est privée de la « même protection » ou du « même bénéfice » de la loi. En deuxième lieu, elle doit démontrer que cette privation constitue une discrimination fondée sur l’un des motifs énumérés au par. 15(1) ou sur un motif analogue. […]
+[15] Dans l’arrêt Auton (Tutrice à l’instance de) c. Colombie‑Britannique (Procureur général), [2004] 3 R.C.S. 657, au paragraphe 27, la Cour suprême du Canada mentionne que, pour avoir gain de cause, les demandeurs doivent d’abord établir « l’inégalité de traitement sous le régime de la loi, c’est‑à‑dire qu’ils n’ont pas obtenu un avantage prévu par la loi ou qu’ils se sont vu imposer une obligation que la loi n’imposait pas à d’autres ».
+[16] Je conviens avec l’intimée que l’appelant en l’espèce n’a pas prouvé qu’il n’avait pas pu obtenir un avantage prévu par la loi qui est fourni à d’autres. J’estime également que l’appelant ne s’est pas vu imposer une obligation que la loi n’imposait pas à d’autres.
+[17] Personne n’a jamais pu déduire les frais liés à une mère porteuse, qu’il s’agisse de couples hétérosexuels, de couples de lesbiennes ou de couples d’hommes gais.
+[18] Tant dans la décision Warnock, précitée, que dans la décision Carlson, précitée, il était question d’un couple hétérosexuel qui avait payé pour obtenir les services d’une mère porteuse (dans la décision Warnock, la contribuable, et dans la décision Carlson, l’épouse du contribuable, étaient des femmes qui souffraient d’infertilité et qui étaient incapables de porter un enfant).
+[19] Dans la décision Ismael c. La Reine, 2014 CarswellNat 1817, 2014 DTC 1140, 2014 CCI 157, la contribuable avait a subi des traitements de fécondation in vitro au moyen d’un ovule fourni par une donneuse d’ovules, lequel avait été implanté dans le corps de la contribuable après avoir été fécondé. La déduction de tous les frais liés à la donneuse d’ovules avait été refusée.
+[20] Il s’agit d’exemples de cas où des femmes (qu’il s’agisse de la contribuable ou de l’épouse du contribuable), qui, pour cause d’infertilité, ont eu recours aux services d’une mère porteuse ou d’une donneuse d’ovules pour avoir un enfant et où les contribuables n’ont pas eu le droit de déduire les frais liés à une mère porteuse ou à une donneuse d’ovules.
+[21] Les trois cas susmentionnés montrent que, sans égard au sexe ou à l’orientation sexuelle, personne ne peut déduire des frais liés à une mère porteuse au titre de l’alinéa 118.2(2)a). L’obligation que la loi impose aux couples d’hommes gais n’est pas plus lourde que celle imposée aux autres.
+[22] Par conséquent, je conclus que l’alinéa 118.2(2)a) de la LIR ne viole pas les droits garantis par l’article 15 de la Charte.
+[23] L’appel est rejeté.
+Signé à Ottawa, Canada, ce 1er jour d’octobre 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 20e jour d’octobre 2014.
+Marie-Christine Gervais, traductrice
+RÉFÉRENCE :
+2014 CCI 293
+NO DU DOSSIER DE LA COUR :
+2014-562(IT)I
+INTITULÉ :
+Todd Edward Zanatta c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Vancouver (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 11 septembre 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT :
+Le 1er octobre 2014
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui‑même
+Avocat de l’intimée :
+Me Shankar Kamath
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa (Canada)

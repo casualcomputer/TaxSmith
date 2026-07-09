@@ -1,0 +1,219 @@
+Title: Bingley c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/521133/index.do
+Corpus path: corpus/cases/tcc/2023/2023-cci-110-521133-bingley-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2023-08-10
+
+# Bingley c. M.R.N.
+
+- Citation: 2023 CCI 110
+- Decision date: 2023-08-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5850, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bingley c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2023-08-15
+Référence neutre
+2023 CCI 110
+Numéro de dossier
+2023-268(EI)
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2023-268(EI)
+ENTRE :
+ARLENE W. BINGLEY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+I’SE THE BYE FISHERIES LTD.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 11 juillet 2023, à Sydney (Nouvelle-Écosse)
+Devant : l’honorable juge Ronald MacPhee
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimé :
+Me Jennifer Goodhart
+Représentant de l’intervenante :
+Wallace Bingley
+JUGEMENT MODIFIÉ
+Conformément aux motifs du jugement ci-joints, l’appel est accueilli et la nouvelle cotisation est renvoyée au ministre pour nouvel examen et nouvelle cotisation sur le fondement que la décision du ministre doit être modifiée pour indiquer que l’appelante occupait un emploi assurable au cours de la période du 21 avril 2022 au 2 juillet 2022.
+Le présent jugement modifié remplace le jugement daté du 10 août 2023.
+Signé à Sydney (Nouvelle-Écosse), ce 15e jour d’août 2023.
+« R. MacPhee »
+Le juge Macphee
+Traduction certifiée conforme
+Ce 1er jour d’août 2024
+Sébastien D’Auteuil, jurilinguiste
+Référence : 2023 CCI 110
+Date : Le 15 août 2023
+Dossier : 2023-268(EI)
+ENTRE :
+ARLENE W. BINGLEY,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé,
+et
+I’SE THE BYE FISHERIES LTD.,
+intervenante.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT MODIFIÉS
+Le juge Macphee
+I. Introduction
+[1] Arlene Bingley (l’« appelante ») interjette appel de la décision du ministre, datée du 9 décembre 2022, dans laquelle il a été déterminé qu’elle n’occupait pas un emploi assurable auprès de I’se The Bye Fisheries Limited (la « payeuse »). Le refus du ministre était fondé sur le fait que les parties étaient liées et qu’elles avaient entre elles un lien de dépendance pendant la période s’échelonnant du 21 avril 2022 au 2 juillet 2022 (la « période »). De plus, le ministre a déterminé que les conditions d’emploi n’étaient pas typiques des parties sans lien de dépendance, en ce que l’appelante et son employeur n’auraient pas conclu de tel contrat d’emploi s’il n’y avait pas eu de lien de dépendance entre elles.
+II. Faits
+[2] À la suite de la demande de prestations d’assurance-emploi (« AE ») de l’appelante, Service Canada a demandé à la Division des décisions RPC/AE de l’Agence du revenu du Canada (la « Division ») de rendre une décision concernant l’assurabilité de l’emploi de l’appelante auprès de la payeuse pendant la période.
+[3] Dans des lettres datées du 28 septembre 2022, la Division a avisé l’appelante, la payeuse et Service Canada qu’elle avait déterminé que l’appelante était une employée; toutefois, l’appelante et la payeuse étaient des parties liées, de sorte que l’appelante n’occupait pas un emploi assurable pendant la période, en application de l’alinéa 5(2)i) de la Loi sur l’assurance-emploi (la « LAE ») (la « décision initiale »).
+[4] La décision initiale n’allant pas dans le sens qu’elle souhaitait, l’appelante a interjeté appel auprès du ministre.
+[5] Dans des lettres datées du 9 décembre 2022, le ministre a informé l’appelante, la payeuse et Service Canada que la décision initiale était confirmée (la « décision du ministre »).
+[6] Pour rendre sa décision, le ministre s’est fondé sur les hypothèses de fait suivantes :
+la payeuse exploite une entreprise saisonnière de pêche au homard;
+la payeuse a été constituée en société le 21 janvier 2022 et a obtenu son permis de pêche en avril 2022;
+la saison de pêche de la payeuse s’échelonnait du 19 avril 2022 au 20 juin 2022, avec une prolongation jusqu’au 22 juin 2022;
+l’unique actionnaire de la payeuse est Wallace Bingley (« M. Bingley »);
+M. Bingley est l’époux de Mme Bingley;
+le bureau de la payeuse est situé au domicile de M. Bingley et de Mme Bingley;
+la payeuse a engagé Mme Bingley comme employée pour effectuer la tenue des livres et des tâches générales de main-d’œuvre;
+l’embauche de Mme Bingley n’était pas le résultat d’un processus de dotation et la payeuse n’a pas envisagé d’autres candidats;
+Mme Bingley a accompli les tâches de tenue de livres suivantes pour les comptes clients et les comptes fournisseurs de la payeuse :
+i. la payeuse a émis une facture par semaine à l’entreprise qui a acheté toutes les prises et fourni tous les appâts,
+ii. la payeuse a effectué 55 achats par carte de crédit et a émis 50 chèques pendant la saison de pêche;
+l’appelante a accompli des tâches liées à la paye, notamment l’émission de chèques de paye et le versement de retenues à la source pour elle-même et deux travailleurs non liés;
+les deux travailleurs non liés étaient des matelots de pont sur le bateau de la payeuse et avaient été embauchés comme employés;
+l’appelante tenait les dossiers de pêche de la payeuse à raison d’une heure par jour environ;
+l’appelante a accompli des tâches d’ordre général, comme aider à faire le plein du bateau et peindre des bouées;
+l’appelante exerçait la plupart de ses fonctions au bureau de la payeuse;
+l’appelante ne disposait pas du pouvoir de signature pour le compte bancaire de la payeuse;
+les deux premières semaines de la période, l’appelante a organisé le bureau de la payeuse et a suivi une formation au travail auprès du comptable de la payeuse afin d’apprendre comment effectuer la tenue de livres;
+la payeuse ne supervisait pas directement l’appelante;
+la payeuse supervisait directement les travailleurs non liés;
+ni la payeuse ni l’appelante n’ont fait le suivi des heures réellement travaillées par l’appelante;
+la payeuse a fait le suivi des heures réellement travaillées par les travailleurs non liés;
+l’appelante n’était pas tenue de respecter un horaire fixe et avait la possibilité de choisir quand elle travaillait;
+les travailleurs non liés devaient travailler plus tôt qu’à l’habitude certains jours;
+l’appelante a travaillé tous les jours pendant la période, sept jours par semaine;
+les travailleurs non liés n’ont pas travaillé tous les jours pendant la période;
+l’appelante n’avait aucune expérience en tenue de livres et touchait un salaire de 25,00 $ l’heure;
+en Nouvelle-Écosse, le salaire moyen d’un comptable ayant une ou deux années d’expérience est de 20,25 $ l’heure;
+les travailleurs non liés touchaient un salaire de 35 $ l’heure;
+l’appelante était rémunérée par la payeuse pour une semaine de travail de 40 heures;
+la payeuse n’exigeait pas que l’appelante fasse une semaine de travail de 40 heures;
+la payeuse a versé à l’appelante un montant fixe de 1 000,00 $ par semaine, peu importe les heures réellement travaillées;
+le premier chèque de paye de l’appelante était pour une semaine complète de paye, même si l’appelante n’avait pas travaillé une semaine complète, sa première journée de travail ayant été le jeudi 21 avril 2022;
+chaque semaine, la payeuse versait aux travailleurs non liés un montant variable en fonction du nombre d’heures réellement travaillées;
+la payeuse rémunérait l’appelante et les travailleurs non liés par chèque sur une base hebdomadaire et leur versait en plus une indemnité de congé de 4 %;
+la payeuse n’a versé aucune prime à l’appelante;
+la payeuse a versé aux travailleurs non liés une prime de fin de saison de 2 500 $ chacun;
+l’appelante a émis son propre relevé d’emploi (« RE ») où le motif invoqué était le [traduction] « manque de travail ou [la] fin du contrat ou de la saison ».
+[7] Le ministre a également noté que l’appelante avait besoin d’au moins 420 heures assurables pour être admissible à l’AE et que 440 heures assurables avaient été déclarées sur le RE.
+[8] Deux témoins ont témoigné lors du procès : l’appelante et son époux, Wallace Bingley.
+[9] L’année examinée par la Cour était la première année où M. Bingley a pêché pour son propre compte. La saison a été une expérience d’apprentissage fructueuse.
+[10] Les témoignages de M. et Mme Bingley portaient sur le rôle de l’appelante au quotidien dans son emploi. L’appelante a ainsi pu démontrer que certaines des hypothèses du ministre étaient inexactes. En outre, il est devenu manifeste que le ministre avait omis certains faits qui auraient dû être pris en compte dans la décision.
+[11] L’appelante effectuait de nombreuses tâches pour la payeuse, dont gérer la paye de trois employés, payer les factures, préparer des relevés quotidiens pour faire le suivi de l’endroit où le homard avait été pêché (avec de nombreux autres détails), traiter les courriels et les appels téléphoniques, examiner les bordereaux d’acheteurs et les entrer dans le logiciel de comptabilité, préparer la paye, effectuer le rapprochement des relevés bancaires et des cartes de crédit, calculer et verser les retenues à la source, saisir plus de 200 écritures de journal, préparer des registres mensuels et les envoyer à Atlantic Catch Data, commander des fournitures pour le bateau et effectuer des déplacements de 3,5 heures, aller-retour, deux fois par semaine pour aller chercher les fournitures, s’assurer qu’il y a suffisamment de carburant pour le bateau, aider à ravitailler le bateau en carburant et peindre des bouées.
+[12] Je conclus que les hypothèses suivantes, sur lesquelles le ministre s’est appuyé, sont erronées :
+hypothèse h) : la payeuse a envisagé d’embaucher quelqu’un d’autre pour effectuer la tenue des livres de l’entreprise, soit son cabinet comptable, situé à Antigonish (Nouvelle-Écosse). Le tarif proposé par ce dernier était d’environ 175 $ l’heure, ce que la payeuse a jugé trop cher;
+hypothèse p), selon laquelle les deux premières semaines de travail de l’appelante consistaient en une formation sur ses tâches de tenue de livres : cette hypothèse est inexacte. L’appelante possédait une vaste expérience et de vastes connaissances en tenue de livres, acquises au fil de plusieurs dizaines d'années sur le marché du travail. Elle a appris seule à utiliser le logiciel comptable nécessaire;
+hypothèse s), selon laquelle les heures de travail de l’appelante n’étaient pas suivies : en réalité, étant donné la courte durée de la saison du homard, on s’attendait à ce que l’appelante travaille des journées complètes, sept jours par semaine, pendant toute la saison;
+hypothèse y), selon laquelle l’appelante n’avait aucune expérience antérieure en tenue de livres : l’appelante a des dizaines d’années d’expérience en tenue de livres acquise auprès de plusieurs employeurs;
+hypothèse ee), selon laquelle l’appelante a reçu une semaine complète de paye pour sa première semaine, même si elle n’a pas travaillé une semaine complète : les éléments de preuve produits au procès ont montré qu’elle n’avait pas travaillé une semaine plus courte, contrairement à ce qui était allégué;
+hypothèse z) : l’appelante nie que le salaire horaire moyen d’un comptable en Nouvelle‑Écosse soit de 21 $ et avance que, selon ses recherches, effectuées sur Google, un salaire horaire de 28 $ serait plus juste. De plus, le salaire horaire de 21 $ avancé par le ministre était pour un comptable ayant une ou deux années d’expérience. Comme il est indiqué ci-dessus, l’appelante en a des dizaines;
+hypothèses r), t), v), x), aa), ff) et ii), qui comparent les conditions de travail et la paye de l’appelante aux conditions de travail et aux obligations des deux matelots de pont sur le bateau de la payeuse : ces comparaisons ont peu de valeur, voire aucune. Le rôle qu’a joué l’appelante en tant que comptable et aide générale sur terre ne peut être comparé au travail accompli par les matelots de pont sur le bateau. Il en va de même pour leur rémunération respective. Je conclus que le fait d’utiliser les matelots de pont comme point de comparaison mène à des conclusions erronées en l’espèce.
+[13] Les hypothèses sur lesquelles le ministre s’est appuyé se veulent une description du travail effectué par l’appelante et des heures qu’elle a travaillées.
+[14] Or, cette description sous-estime largement le travail réellement effectué par l’appelante.
+[15] Au regard des éléments de preuve, l’appelante a vraisemblablement travaillé davantage que les 40 heures hebdomadaires qu’elle avait convenu de faire. Ce fait est pertinent, car la question de savoir si une partie sans lien de dépendance travaillerait plus que les 40 heures hebdomadaires convenues est un élément de mon analyse.
+III. Questions à trancher
+[16] La question est de savoir s’il était raisonnable pour le ministre de conclure, compte tenu de toutes les circonstances de l’emploi de l’appelante, que celle-ci n’aurait pas conclu de contrat d’emploi à peu près semblable si elle n’avait pas eu de lien de dépendance avec la payeuse.
+DROIT
+[17] Aux termes de l’alinéa 5(2)i) et du paragraphe 5(3) de la LAE, les employés ayant un lien de dépendance avec leur employeur ne sont pas considérés comme ayant exercé un emploi assurable, sauf si le ministre est convaincu qu’ils auraient conclu un contrat d’emploi à peu près semblable avec leur employeur s’ils n’avaient pas eu de lien de dépendance.
+[18] L’alinéa 5(2)i) et le paragraphe 5(3) sont ainsi libellés :
+5(2) N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+5(3) Pour l’application de l’alinéa (2)i) :
+a) la question de savoir si des personnes ont entre elles un lien de dépendance est déterminée conformément à la Loi de l’impôt sur le revenu;
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[19] L’alinéa 5(2)i) prévoit que, lorsqu’un employé et un employeur ont entre eux un lien de dépendance, l’employeur et l’employé n’ont pas à verser de prestations d’AE et que l’employé n’a droit à aucune prestation d’AE.
+[20] L’alinéa 5(3)a) prévoit que la question de savoir si un employé et un employeur ont entre eux un lien de dépendance est tranchée conformément à l’article 251 de la Loi de l’impôt sur le revenu (la « LIR »). Selon l’alinéa 251(1)a) de la LIR, les personnes liées sont réputées avoir entre elles un lien de dépendance. Les personnes non liées pourraient également être considérées comme ayant un lien de dépendance en fonction des faits.
+(1) Exception prévue à l’alinéa 5(3)b) de la LAE
+[21] L’alinéa 5(3)b) de la LAE prévoit qu’un employeur et un employé liés sont réputés ne pas avoir de lien de dépendance si le ministre est convaincu que, compte tenu de toutes les circonstances, il est raisonnable de conclure qu’ils auraient conclu un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance. Les facteurs à prendre en compte sont les suivants :
+1)la rétribution versée;
+2)les modalités d’emploi;
+3)la durée du travail accompli;
+4)la nature et l’importance du travail accompli[1].
+[22] Dans l’arrêt Légaré, la Cour d’appel fédérale a expliqué le rôle du ministre en ce qui concerne la question de l’assurabilité d’un travailleur ayant un lien de dépendance avec son employeur :
+La Loi confie au ministre le soin de faire une détermination à partir de la conviction à laquelle son examen du dossier peut le conduire. L’expression utilisée introduit une sorte d’élément de subjectivité et on a pu parler de pouvoir discrétionnaire du ministre, mais la qualification ne devrait pas faire oublier qu’il s’agit sans doute d’un pouvoir dont l’exercice doit se fonder pleinement et exclusivement sur une appréciation objective des faits connus ou supposés. Et la détermination du ministre n’est pas sans appel[2].
+[23] La Cour d’appel fédérale a également expliqué le but et l’origine de l’exception :
+L’exclusion des emplois entre personnes liées au niveau de la Loi sur l’assurance-chômage repose évidemment sur l’idée qu’on peut difficilement se fier aux affirmations des intéressés et que la possibilité d’emplois fictifs, aux conditions farfelues, est trop présente entre personnes pouvant si facilement agir de connivence. Et l’exception de 1990 a simplement voulu diminuer la portée de la présomption de fait en acceptant d’exclure de la sanction (ce qui n’était que justice) les cas où la crainte d’abus n’avait plus raison d’être[3].
+(2) Appel de la décision du ministre
+[24] Les appels d’une décision prise par le ministre en vertu du paragraphe 5(3) de la LAE devant la Cour canadienne de l’impôt sont particuliers. Si la plupart des appels, y compris les appels d’une décision prise par le ministre en vertu de l’alinéa 5(3)a), sont des procès, les appels concernant l’alinéa 5(3)b) s’apparentent à une forme de contrôle judiciaire.
+[25] Dans la décision Lalande, le juge Sommerfeldt a résumé le processus ainsi :
+a)Lorsqu’elle examine une conclusion du ministre dans le contexte de l’alinéa 5(3)b) de la LAE, la Cour doit vérifier si les faits supposés ou retenus par le ministre sont réels et ont été appréciés correctement par le ministre.
+b)Après avoir examiné tous les faits, la Cour doit décider si la conclusion du ministre paraît toujours raisonnable.
+c)En vertu de la LAE, la Cour doit faire preuve d’une certaine déférence à l’égard de l’appréciation initiale du ministre.
+d)Lorsqu’il n’y a pas de faits nouveaux et que rien ne permet de penser que les faits connus ont été mal perçus par le ministre, la Cour ne peut substituer sa propre opinion à celle du ministre[4].
+(3) Les conclusions du ministre semblent-elles raisonnables?
+[26] Les faits présentés au procès ne soutiennent pas les conclusions du ministre. Comme il est exposé ci-dessus, le ministre a formulé des hypothèses que je juge inexactes. Je conclus que ces hypothèses sont cruciales à l’issue du présent appel.
+[27] En outre, en examinant les hypothèses formulées par le ministre, il m’apparaît évident que le ministre avait sous-estimé les tâches accomplies par l’appelante. L’appelante a travaillé beaucoup plus d’heures et a accompli beaucoup plus de tâches que le ministre ne le pensait. Je conclus que cet élément est pertinent pour évaluer le caractère raisonnable de la décision du ministre.
+[28] Le ministre semblait également s’appuyer, au détriment de l’appelante, sur une comparaison entre le travail et la rémunération de l’appelante et ceux des matelots de pont. Il s’agit de comparaisons trompeuses. Je conclus que cet élément est pertinent pour évaluer le caractère raisonnable de la décision du ministre.
+[29] L’appelante a vraisemblablement travaillé plus de 40 heures par semaine pendant la saison du homard. Je reconnais qu’il s’agit là d’une conséquence du fait que la payeuse était en phase d’apprentissage et que son entreprise en était à sa première année d’exploitation. C’était aussi la première année d’emploi de l’appelante. Il n’est donc pas surprenant qu’elle ait travaillé plus d’heures que prévu. Je conclus que cela ne milite pas en faveur de la décision du ministre.
+[30] Dans mon examen de la décision du ministre, je conclus que les faits corrigés et une description plus complète du travail accompli par l’appelante soutiennent la conclusion selon laquelle l’appelante a joué un rôle crucial dans l’entreprise de l’appelante. Elle a reçu une juste rémunération de la payeuse et la durée de son emploi était logique, puisqu’elle coïncidait avec la saison de la pêche au homard.
+IV. Conclusion
+[31] À la lumière de tout ce qui précède, je conclus que, si le ministre avait disposé de tous les éléments de preuve dont dispose la Cour, il aurait rendu une décision différente. La seule conclusion raisonnable qui se serait offerte au ministre était que la payeuse et une employée n'ayant pas de lien de dépendance avec elle auraient conclu un contrat d’emploi à peu près semblable à celui conclu entre la payeuse et l’appelante.
+[32] Étant donné que la décision du ministre n’était pas raisonnable, à la lumière de l’ensemble de la preuve, j’ordonnerai que la décision du ministre soit modifiée pour indiquer que l’appelante occupait un emploi assurable au cours de la période du 21 avril 2022 au 2 juillet 2022.
+Les présents motifs du jugement modifiés remplacent les motifs du jugement datés du 10 août 2023.
+Signé à Sydney (Nouvelle-Écosse), ce 15e jour d’août 2023.
+« R. MacPhee »
+Le juge Macphee
+RÉFÉRENCE :
+2023 CCI 110
+NO DU DOSSIER DE LA COUR :
+2023-268(EI)
+INTITULÉ :
+ARLENE W. BINGLEY
+ET
+LE MINISTRE DU REVENU NATIONAL
+ET
+I’SE THE BYE FISHERIES LTD. (intervenante)
+LIEU DE L’AUDIENCE :
+Sydney (Nouvelle-Écosse)
+DATE DE L’AUDIENCE :
+Le 11 juillet 2023
+MOTIFS DU JUGEMENT MODIFIÉS :
+L’honorable juge Ronald Macphee
+DATE DES MOTIFS DU JUGEMENT MODIFIÉS :
+Le 15 août 2023
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocate de l’intimé :
+Me Jennifer Goodhart
+Représentant de l’intervenante :
+Wallace Bingley
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+s.o.
+Cabinet :
+Pour l’intimé :
+Shalene Curtis-Micallef
+Sous‑procureure générale du Canada
+Ottawa, Canada
+[1] Pour des exemples d’application de cette disposition en contexte, voir : Gray c. Canada (Ministre du Revenu national), 2002 CAF 40; Miller c. Canada, 2002 CAF 412; CB Woodcraft Ltd c. M.R.N., 2004 CCI 477; Actech Electrical Limited c. M.R.N., 2004 CCI 572; Lenover c. M.R.N., 2007 CCI 594.
+[2] Légaré c. Canada (ministre du Revenu national), [1999] A.C.F. no 878, 1999 CanLII 8105, par. 4.
+[3] Ibid., par. 12
+[4] Lalande c. M.R.N., 2016 CCI 33, par. 31.

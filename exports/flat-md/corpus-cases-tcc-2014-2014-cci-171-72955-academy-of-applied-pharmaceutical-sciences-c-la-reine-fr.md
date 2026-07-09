@@ -1,0 +1,200 @@
+---
+title: "Academy of Applied Pharmaceutical Sciences c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/72955/index.do"
+last_modified: "2014-06-05"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 171"
+citation2: ""
+neutral_citation: "2014 CCI 171"
+decision_date: "2014-06-05"
+language: "fr"
+item_id: "72955"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5188
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:54:07.256000+00:00"
+cases_cited_count: 2
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "0c93fa8a2b10e670656829cae810884defe8528ef06616e7c73e09211d044180"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Academy of Applied Pharmaceutical Sciences c. La Reine
+
+- Citation: 2014 CCI 171
+- Decision date: 2014-06-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5188, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Academy of Applied Pharmaceutical Sciences c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-06-05
+Référence neutre
+2014 CCI 171
+Numéro de dossier
+2013-3119(GST)I
+Juges et Officiers taxateurs
+Rommel G. Masse
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2013-3119(GST)I
+ENTRE :
+Academy of Applied
+Pharmaceutical Sciences,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 14 février 2014, à Toronto (Ontario).
+Devant : L’honorable juge suppléant Rommel G. Masse
+Comparutions :
+Représentante de l’appelante :
+Mme Laleh Bighash
+Avocat de l’intimée :
+Me Laurent Bartleman
+JUGEMENT
+L’appel interjeté à l’égard d’une cotisation de taxe sur les produits et services/taxe de vente harmonisée datée du 15 janvier 2013, établie au titre de la partie IX de la Loi sur la taxe d’accise pour la période allant du 1er juillet 2010 au 30 juin 2012, est rejeté.
+Signé à Kingston (Ontario), ce 5e jour de juin 2014.
+« Rommel G. Masse »
+Juge suppléant Masse
+Traduction certifiée conforme
+ce 16e jour de juillet 2014.
+Alya Kaddour‑Lord, traductrice
+Référence : 2014 CCI 171
+Date : 20140605
+Dossier : 2013-3119(GST)I
+ENTRE :
+Academy of Applied
+Pharmaceutical Sciences,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge suppléant Masse
+[1] Il s’agit d’un appel interjeté à l’égard d’une cotisation de taxe sur les produits et services/taxe de vente harmonisée (« TPS/TVH ») datée du 15 janvier 2013, établie au titre de la partie IX de la Loi sur la taxe d’accise (la « Loi ») pour la période allant du 1er juillet 2010 au 30 juin 2012. Par cette cotisation, l’Agence du revenu du Canada (l’« ARC ») a refusé la demande de crédits de taxe sur les intrants (« CTI ») de l’appelante s’élevant à environ 30 000 $.
+[2] L’appelante a déposé un avis d’opposition le 23 janvier 2013. Cet avis d’opposition a été rejeté et, le 19 juillet 2013, l’ARC a ratifié la nouvelle cotisation. C’est ce qui explique que l’appelante a interjeté appel devant la Cour.
+Le contexte factuel [3] L’appelante, l’Academy of Applied Pharmaceutical Sciences, était pendant toute la période en cause un inscrit aux fins de la TPS/TVH. L’appelante est un établissement d’enseignement supérieur pour les personnes souhaitant faire carrière dans le domaine de la pharmacie. L’appelante offre également des programmes de formation continue à l’intention des personnes travaillant dans l’industrie pharmaceutique.
+[4] L’Academy of Applied Pharmaceutical Sciences offre les deux types de programmes suivants :
+1) Un programme menant à un diplôme en science pharmaceutique, lequel est exonéré de la TPS/TVH;
+2) Un programme d’ateliers offrant de la formation continue sous forme de conférences sur les nouvelles tendances dans le domaine de la science pharmaceutique. Le programme d’ateliers est assujetti à la TPS/TVH.
+[5] Laleh Bighash est la fondatrice et administratrice de l’Academy of Applied Pharmaceutical Sciences. Elle a décrit les faits qui sont à l’origine du présent litige.
+[6] En juin 2008, Mme Sherrie Yu, vérificatrice auprès de l’ARC, a mené une vérification à l’égard du montant de taxe nette exigible de l’appelante au titre de la TPS (qui a précédé l’actuelle TVH) pour la période allant du 1er janvier 2007 au 31 décembre 2007. Au terme de sa vérification, Mme Yu était d’avis que, pour que l’appelante satisfasse aux exigences prévues par la loi, il convenait qu’elle apporte des améliorations à son système de tenue des registres. Mme Yu a établi que l’appelante tenait bien un compte des revenus générés par son programme menant à un diplôme (lequel était exonéré de TPS) distinct de celui des revenus générés par son programme d’ateliers (taxable), comme il convenait de le faire. Toutefois, l’appelante ne tenait pas de comptes distincts des dépenses afférentes à ces programmes. Il est ressorti de la vérification que l’appelante a demandé des CTI à l’égard de toutes les dépenses qu’elle avait faites, indépendamment du fait qu’il s’agissait de dépenses pour gagner des revenus exonérés ou taxables. Afin de corriger cette situation, il a été nécessaire d’associer chaque dépense au type de revenus générés : taxables ou exonérés. L’appelante a effectué certaines dépenses pour gagner un revenu mixte (p. ex. : les dépenses partagées, comme la location des bureaux, le marketing, les services publics et l’administration, et les coûts liés aux salles de cours qui servaient tant pour le programme menant à un diplôme que pour le programme d’ateliers, etc.). Mme Yu a discuté avec Mme Bighash et son comptable de ce qui constituerait le pourcentage raisonnable de ventilation des dépenses mixtes entre les revenus taxables et les revenus exonérés pour calculer les CTI admissibles. Il a été établi que, pour la période en cause, et compte tenu de l’état des registres de l’appelante, il serait raisonnable d’associer un pourcentage de 50 % des dépenses mixtes, ou intrants d’entreprise, aux activités commerciales. Mme Bighash est d’avis que c’est Mme Yu qui a suggéré qu’on associe 50 % des dépenses mixtes aux activités commerciales. Mme Yu a préparé un rapport de vérification ainsi qu’un état des redressements après vérification datés du 27 juin 2008 (pièce A-1). Elle a adressé ces documents à l’appelante, à l’attention de Mme Bighash. Dans ce rapport, Mme Yu a formulé les recommandations suivantes en vue d’améliorer la tenue des registres :
+a) séparer les revenus taxables des revenus exonérés;
+b) séparer les dépenses relatives aux revenus taxables, les dépenses relatives aux revenus exonérés et les dépenses relatives aux revenus mixtes, taxables et exonérés;
+c) demander des CTI dans la mesure où les achats et les dépenses en cause sont faits pour la consommation, l’utilisation ou la fourniture de biens et de services taxables.
+[7] Au terme de la vérification, Mme Yu a associé un pourcentage de 50 % des dépenses mixtes à la fourniture d’activités commerciales taxables pour la période allant du 1er janvier 2007 au 31 décembre 2007. Mme Bighash a déclaré que Mme Yu avait informé l’appelante du fait qu’elle pourrait se fonder sur ce même pourcentage de 50 % de ses dépenses mixtes associé à des activités commerciales pour demander des CTI à l’avenir. L’appelante a considéré Mme Yu comme une personne en situation d’autorité à l’ARC, qui pouvait lui imposer une ligne de conduite. Par la suite, l’appelante a par conséquent associé un pourcentage de 50 % à ses dépenses mixtes pour les années qui ont suivi la vérification, y compris les années en cause en l’espèce. Mme Bighash est d’avis que, dans leurs discussions, Mme Yu n’a jamais mentionné le fait que l’appelante devrait revoir le pourcentage attribué aux dépenses chaque année. Mme Bighash a expliqué que les opérations de l’appelante n’avaient essentiellement pas changé depuis 2007, et qu’elle avait donc eu l’impression que le pourcentage de ventilation de 50 % serait tout aussi acceptable qu’il l’avait été pour 2007.
+[8] En novembre 2012, M. Dunstan Egbert de l’ARC a entrepris une autre vérification à l’égard de l’appelante pour la période allant du 1er janvier 2008 au 30 juin 2012. Après qu’il a terminé sa vérification, M. Egbert a informé l’appelante qu’un pourcentage de ventilation de 50 % n’était tout simplement pas raisonnable dans les circonstances pour la période en cause. M. Egbert a établi qu’on n’aurait pas dû associer aux dépenses mixtes un pourcentage supérieur à 11 % pour la période allant du 1er janvier 2010 au 31 décembre 2010. Il a également établi que ce n’était pas plus de 14 % des dépenses mixtes que l’appelante avait faites pendant la période allant du 1er janvier 2011 au 30 juin 2012 qui avaient trait à l’offre de fournitures taxables. M. Egbert a recommandé à l’appelante de revoir et de réévaluer la ventilation de ses dépenses mixtes chaque année.
+[9] L’appelante ne conteste pas le caractère raisonnable du pourcentage de 14 % qui a été appliqué à ses dépenses mixtes pour la période allant du 1er juillet 2010 au 30 juin 2012. Toutefois, l’appelante a l’impression qu’il est terriblement injuste qu’une fonctionnaire de l’ARC lui ait dit qu’un pourcentage de 50 % était acceptable et que ce pourcentage ait été modifié au terme d’une seconde vérification. L’appelante a le sentiment d’être pénalisée du fait qu’elle s’est fiée à l’expertise d’une vérificatrice de l’ARC.
+[10] Lors du contre‑interrogatoire, Mme Bighash a convenu du fait que l’appelante avait mécaniquement appliqué un pourcentage de 50 % pour la période en cause. L’appelante ne s’est jamais demandé si ce pourcentage traduisait la réalité de ses activités commerciales.
+La thèse de l’appelante [11] Essentiellement, l’appelant invoque les doctrines de la préclusion et de l’erreur provoquée par une personne en autorité. L’appelante est d’avis que Mme Yu, fonctionnaire de l’ARC, a laissé entendre que l’appelante pourrait à l’avenir se servir d’un pourcentage de ventilation de 50 % à l’égard de ses dépenses mixtes. Mme Yu n’a jamais laissé entendre que l’appelante devrait réviser la ventilation chaque année. L’appelante a considéré que Mme Yu était une experte dans le domaine, et elle s’est fiée à son expertise et à ses suggestions. Il serait injuste et inéquitable d’autoriser le ministre du Revenu national (le « ministre ») à changer maintenant d’avis et à revenir sur la position prise par une de ses vérificatrices.
+[12] L’appelante soutient qu’il convient par conséquent d’accueillir l’appel.
+La thèse de l’intimée [13] L’ARC est d’avis qu’il n’y a aucune preuve du fait qu’une de ses fonctionnaires a dit à l’appelante, ou a autorisé celle‑ci, à se servir d’un pourcentage de ventilation de 50 % à l’avenir. L’appelante était légalement tenue d’établir un pourcentage de ventilation tout à la fois juste et raisonnable. La ventilation de 14 % des dépenses mixtes était raisonnable dans toutes les circonstances, et toute observation que Mme Yu aurait éventuellement faite ne lie pas le ministre. L’appelante ne peut tout simplement pas se prévaloir des doctrines de la préclusion et de l’erreur provoquée par une personne en autorité.
+[14] L’intimée soutient qu’il convient par conséquent de rejeter l’appel.
+Les dispositions législatives [15] Les dispositions pertinentes de la Loi sur la taxe d’accise, L.R.C., 1985, c E‑15, sont les suivantes :
+169(1) Sous réserve des autres dispositions de la présente partie, un crédit de taxe sur les intrants d’une personne, pour sa période de déclaration au cours de laquelle elle est un inscrit, relativement à un bien ou à un service qu’elle acquiert, importe ou transfère dans une province participante, correspond au résultat du calcul suivant si, au cours de cette période, la taxe relative à la fourniture, à l’importation ou au transfert devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable :
+A × B
+où :
+A
+représente la taxe relative à la fourniture, à l’importation ou au transfert, selon le cas, qui, au cours de la période de déclaration, devient payable par la personne ou est payée par elle sans qu’elle soit devenue payable;
+B
+:
+a) dans le cas où la taxe est réputée, par le paragraphe 202(4), avoir été payée relativement au bien le dernier jour d’une année d’imposition de la personne, le pourcentage que représente l’utilisation que la personne faisait du bien dans le cadre de ses activités commerciales au cours de cette année par rapport à l’utilisation totale qu’elle en faisait alors dans le cadre de ses activités commerciales et de ses entreprises;
+b) dans le cas où le bien ou le service est acquis, importé ou transféré dans la province, selon le cas, par la personne pour utilisation dans le cadre d’améliorations apportées à une de ses immobilisations, le pourcentage qui représente la mesure dans laquelle la personne utilisait l’immobilisation dans le cadre de ses activités commerciales immédiatement après sa dernière acquisition ou importation de tout ou partie de l’immobilisation;
+c) dans les autres cas, le pourcentage qui représente la mesure dans laquelle la personne a acquis ou importé le bien ou le service, ou l’a transféré dans la province, selon le cas, pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+141.01(5) Sous réserve de l’article 141.02, seules des méthodes justes et raisonnables et suivies tout au long d’un exercice peuvent être employées par une personne au cours de l’exercice pour déterminer la mesure dans laquelle :
+a) la personne acquiert, importe ou transfère dans une province participante des biens ou des services afin d’effectuer une fourniture taxable pour une contrepartie ou à d’autres fins;
+b) des biens ou des services sont consommés ou utilisés en vue de la réalisation d’une fourniture taxable pour une contrepartie ou à d’autres fins.
+Analyse [16] Le paragraphe 169(1) de la Loi définit la règle générale pour établir dans quelle mesure un inscrit peut demander des CTI. Quand l’inscrit acquiert un bien ou un service pour consommation, utilisation ou fourniture, il a le droit de demander un CTI égal au pourcentage de la taxe payée ou payable pour l’acquisition ou l’importation de ce bien ou service représentant la mesure dans laquelle il a acquis ou importé le bien ou le service pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales.
+[17] L’article 141.01 de la Loi exige de l’inscrit qu’il établisse la mesure dans laquelle il utilise des intrants en se fondant sur la mesure dans laquelle il a consommé ou utilisé, ou acquis, importé ou transféré dans une province particulière pour consommation ou utilisation, ces intrants en vue de la réalisation de fournitures taxables pour une contrepartie ou à d’autres fins. Cette ventilation est pertinente pour le calcul des CTI. Le paragraphe 141.01(5) de la Loi prévoit que la méthode qu’une personne utilise pour ventiler les intrants doit être juste et raisonnable et suivie tout au long de l’exercice.
+[18] Il ressort de la lettre de Mme Yu datée du 27 juin 2008 et des documents qui y sont annexés (pièce A-1) que, pour la période alors en cause, la vérificatrice avait accepté que 50 % des CTI demandés à l’égard des dépenses mixtes soient liés à des activités commerciales ou à des fournitures taxables. Dans sa lettre, Mme Yu a clairement précisé que les dépenses faites pour gagner des revenus imposables devraient être séparées des dépenses faites pour gagner des revenus exonérés, et qu’on ne pouvait demander des CTI que si on avait fait les dépenses en question pour consommation, utilisation ou fourniture dans le cadre de ses activités commerciales. Bien qu’on se soit servi d’un pourcentage de ventilation de 50 % aux fins de la première vérification, dans la lettre, il n’est nullement fait mention du fait que l’appelante devrait ou pourrait dorénavant se servir d’un pourcentage de ventilation de 50 %.
+[19] L’appelante a fait valoir qu’elle a subi un préjudice du fait qu’elle s’est fiée aux observations de Mme Yu selon lesquelles elle pourrait dorénavant se servir d’un pourcentage de ventilation de 50 % à l’égard de ses dépenses mixtes. Mme Yu n’a pas comparu devant la Cour pour attester du fait qu’elle avait bien formulé une telle observation. Toutefois, dans le contexte de la décision que je dois rendre, je tiendrai pour acquis qu’elle a bien formulé une telle observation. Il est clair en droit que le fait que des fonctionnaires de l’ARC formulent de telles observations ne lie en rien le ministre. En fait, le ministre n’est même pas lié par ses propres décisions antérieures.
+[20] Dans la décision Wenger’s Ltd. v. M.N.R., [1992] 2 C.T.C. 2479, une des questions en litige était de savoir si le ministre était lié par une décision qu’il avait rendue par le passé d’annuler un appel en partant du principe que la même question avait été tranchée en 1974. Le juge Rip, maintenant juge en chef de la Cour, a formulé les observations suivantes au paragraphe 93 de ses motifs :
+[93] En donnant son consentement à jugement en 1974, le Ministre n’a pas pris d’engagement envers Wenger’s au sujet de la procédure qu’il entendait suivre ultérieurement. En fait, l’acte constitué par l’établissement d’une cotisation d’impôt par le Ministre n’est pas une question de procédure; il s’agit de l’objet même de la Loi. Toute entente par laquelle le Ministre conviendrait de ne pas imposer ce qui, d’après la Loi, doit l’être constituerait un manquement à son devoir d’assurer l’exécution de la Loi. Si le Ministre voyait les choses de manière différente les années antérieures, il a le droit de changer d’avis. Ainsi que l’a déclaré le juge Cattanach dans l’affaire Admiral Investments Limited v. M.N.R., 67 D.T.C. 5114, à la page 5120 :
+[traduction]
+[…] le fait qu’une concession ait pu être faite à un contribuable une année donnée n’empêche pas, en l’absence d’une disposition contraire d’une loi, le Ministre de se faire une opinion différente des faits au cours d’une année ultérieure, lorsqu’il dispose de données plus complètes sur la question [...]. Une cotisation n’est déterminante entre les parties qu’à l’égard de l’impôt relatif à l’année pour laquelle elle a été établie.
+[Non souligné dans l’original.]
+[21] Dans la décision Panar v. R., 2001 G.T.C. 400 (CCI), le juge Sarchuk s’est ainsi exprimé au sujet de la doctrine de la préclusion telle qu’elle s’applique en droit fiscal :
+[17] Bien qu’il soit clair qu’elle a agi à son détriment par suite des déclarations faites par des employés de Revenu Canada quant aux dispositions pertinentes de la Loi, l’appelante ne peut avoir gain de cause. L’issue estoppel (préclusion fondée sur la chose jugée) a été examinée dans un certain nombre de causes, et le principe qui peut s’en dégager est que la Couronne ne peut être liée par une déclaration en matière d’interprétation du droit faite par l’un de ses employés ou représentants. Dans l’arrêt M.R.N. c. Inland Industries Limited [(1971), 72 D.T.C. 6013 (C.S.C.), à la page 6017], la Cour suprême du Canada a examiné certains articles de la Loi de l’impôt sur le revenu concernant la déductibilité de cotisations au titre de services passés à un régime de pension initialement accepté par le ministère du Revenu national pour fins d’enregistrement, mais à l’égard duquel des déductions ont ultérieurement été refusées. Parlant pour la Cour, le juge Pigeon a en fait disposé de toute question de préclusion en disant :
+[…] Toutefois, il me paraît clair qu’une approbation donnée sans que les conditions prescrites par la loi ne soient remplies ne lie pas le ministre.
+Ce principe a été appliqué dans l’affaire Stickel c. M.R.N. [(1972), 72 D.T.C. 6178 (C.F., 1re inst.), à la page 6185] par le juge Cattanach, qui a dit :
+En bref, les fins de non-recevoir [la préclusion] sont soumises à une règle générale : elles ne peuvent aller à l’encontre des lois d’application générale.
+[18] Le raisonnement à la base du principe exprimé dans ces causes a été succinctement résumé par le juge Bowman dans l’affaire Goldstein c. La Reine [(1995), 96 D.T.C. 1029 (C.C.I.), à la page 1034] :
+On dit parfois que la préclusion n’est pas recevable contre la Couronne. Cette affirmation n’est pas exacte et semble provenir d’une mauvaise application du terme préclusion. Le principe de la préclusion lie la Couronne, tout comme d’autres principes de droit. La préclusion du fait du comportement, telle qu’elle s’applique à la Couronne, comprend des déclarations de faits de fonctionnaires de la Couronne sur lesquelles le sujet s’est fondé et en fonction desquelles il a agi, à son détriment. La doctrine n’a aucune application lorsqu’une interprétation particulière d’une loi a été communiquée à un sujet par un fonctionnaire de l’État, que le sujet s’est fondé sur cette interprétation à son détriment et que le gouvernement a ensuite retiré ou modifié l’interprétation. Dans un tel cas, un contribuable cherche parfois à invoquer la doctrine de la préclusion. Ce n’est pas approprié non pas parce que ces déclarations donnent lieu à une préclusion qui ne lie pas la Couronne, mais plutôt parce qu’aucune préclusion ne peut se poser lorsque de telles déclarations ne sont pas conformes au droit. Bien que la préclusion soit maintenant un principe de droit positif, elle prend son origine dans le droit de la preuve et, en tant que telle, se rapporte aux déclarations de faits. Elle n’a aucun rôle à jouer lorsque des questions d’interprétation du droit sont en cause, car la préclusion ne peut déroger au droit.
+[Non souligné dans l’original.]
+[22] Dans la décision Denhaan c. La Reine, 2008 CCI 126, un mari et une femme exploitaient une entreprise inscrite aux fins de la TPS au sens de la Loi. Le ministre a établi une cotisation d’impôt sur le revenu à l’égard du mari pour 1997 et 1998 en partant du principe qu’il exploitait une entreprise individuelle. Le mari a interjeté appel, mais il s’en est par la suite désisté. Le ministre a par la suite établi une cotisation à l’égard de la femme, au titre de sa responsabilité à l’égard de la TPS que l’entreprise devait pour 2002 et 2003, en partant du principe qu’elle était associée dans l’entreprise. La femme a interjeté appel de cette cotisation, soutenant que les règles d’equity empêchaient le ministre de prendre une position à son égard qui était incompatible avec la position qu’il avait adoptée à l’égard de son mari. Le juge Bowie, de la Cour, a rejeté son appel, déclarant ce qui suit :
+[12] Au fond, l’argument de l’appelante peut se résumer ainsi : comme dans les nouvelles cotisations d’impôt sur le revenu que le ministre a établies à l’égard de M. DenHaan ce dernier n’était pas considéré comme un associé de l’appelante au cours des années 1997 et 1998, les règles d’equity empêchaient le ministre de retenir un fondement incompatible avec cette prémisse dans la cotisation qu’il a établie à l’égard de l’appelante pour les années 2002 et 2003 en vertu de la LTA. Il y a plusieurs raisons pour lesquelles cet argument ne saurait être retenu. D’abord, même s’il était établi qu’il n’existait aucune société de personnes en 1997 et en 1998, cette position n’est pas incompatible avec celle selon laquelle il en existait une au cours des années ultérieures. L’appelante a dit que la façon dont HTC exerçait ses activités n’avait pas changé entre ces deux périodes. Si la Cour ajoute foi à ce témoignage, et il n’y aucune raison de ne pas le croire, il s’ensuit simplement que les nouvelles cotisations établies à l’égard de M. DenHaan, ou bien la cotisation établie à l’égard de l’appelante étaient inexactes. Il est bien établi que, si le ministre commet une erreur dans une cotisation, il n’est pas obligé de refaire la même erreur à l’avenir [références omises].
+[…]
+[14] Enfin, ma compétence se limite à apprécier le bien‑fondé de la cotisation dont il est interjeté appel en me fondant sur les faits établis par la preuve portée à ma connaissance et sur les dispositions de la LTA. Je n’ai pas compétence pour accorder une réparation en raison de la position que le ministre a pu adopter dans une affaire antérieure. Ce principe a été affirmé et réaffirmé à maintes reprises par la Cour et la Cour d’appel fédérale. […]
+[23] Ainsi, nous voyons que l’application de la doctrine de la préclusion est très limitée en droit fiscal.
+[24] Je dois également examiner une doctrine très proche du principe de la préclusion, celle de l’erreur provoquée par une personne en autorité. Ce principe est étroitement lié à l’argument selon lequel l’appelante a été conduite à adopter un comportement qui lui a été nuisible en raison des conseils erronés que Mme Yu, une fonctionnaire de l’ARC, lui a donnés. Je suis d’avis que la doctrine de l’erreur provoquée par une personne en autorité ne s’applique tout simplement pas dans le cas d’appels interjetés à l’égard de cotisations fiscales. Dans l’arrêt Klassen c. Canada, 2007 CAF 339, le juge Noël de la Cour d’appel fédérale a déclaré de façon définitive que tel était bien le cas. Au paragraphe 27 de cet arrêt, le juge Noël s’est ainsi exprimé :
+[27] Enfin, la prétention de l’appelante selon laquelle il y a lieu de modifier la cotisation en raison d’une erreur provoquée par un fonctionnaire m’apparaît dénuée de fondement. Il est bien établi en droit que la réparation accordée par un tribunal dans le cadre d’un appel interjeté à l’encontre d’une nouvelle cotisation en vertu de la LIR doit être prévue par la loi. S’il s’avère qu’un acte de négligence a induit l’appelante en erreur, d’autres recours s’offrent à elle. Aucun redressement ne peut cependant être accordé pour ce motif dans le contexte d’un appel en matière d’impôt.
+[25] En outre, l’éminent auteur David Sherman, dans son ouvrage Canada GST Service, Carswell, Toronto, parvient à la même conclusion. Il s’y exprime ainsi :
+[traduction]
+Dans le contexte du droit criminel (comme dans le cas d’un procès relatif à des accusations pour évasion de la TPS), on pourrait vraisemblablement se prévaloir du moyen de défense de l’« erreur provoquée par une personne en autorité ». Voir l’arrêt R. c. Jorgensen, [1995] 4 R.C.S. 55 (C.S.C.). On ne peut toutefois pas se prévaloir de ce moyen de défense dans le cas d’appels interjetés à l’égard de cotisations fiscales.
+[26] Par conséquent, tout comme la doctrine de la préclusion reconnue en equity, on ne peut pas non plus se prévaloir de la doctrine de l’erreur provoquée par une personne en autorité comme moyen de défense dans le contexte d’appels interjetés en matière d’impôt.
+[27] L’appelante n’a pas démontré que le fait d’avoir utilisé un pourcentage de ventilation de 50 % pour demander les CTI relatifs à la période en cause en l’espèce reposait sur un fondement rationnel, si ce n’est qu’elle a déclaré que l’ARC avait accepté ce pourcentage dans le passé. Il n’y a aucun fondement rationnel au fait d’utiliser un taux de ventilation qui s’appliquait à une période antérieure. Il est possible de calculer facilement le rapport entre les revenus exonérés et les revenus taxables pourvu que des procédures de tenue des registres adéquates soient en place. Le rapport peut grandement varier d’une période à l’autre, et il va de soi qu’il est nécessaire de le réévaluer.
+[28] Il est clair que l’appelante effectuait tant des fournitures et des services exonérés que taxables dans le contexte de ses activités. Il est également très clair que l’appelante n’a pas le droit de demander des CTI au titre du paragraphe 169(1) de la Loi pour la TVH qui est devenue payable ou qui a été payée sur les services et les biens employés pour effectuer des fournitures exonérées, vu que l’appelante n’a pas fait l’acquisition de ces fournitures dans le cadre de ses activités commerciales. Comme le prévoit le paragraphe 141.01(5) de la Loi, la méthode employée par un inscrit tout au long de l’exercice pour déterminer la mesure dans laquelle il a acquis des biens et des services dans le but d’effectuer des fournitures taxables doit être juste et raisonnable. Il n’était ni juste ni raisonnable de la part de l’appelante de se servir d’un pourcentage dont une fonctionnaire de l’ARC s’était servie dans le contexte d’une vérification antérieure et de l’appliquer arbitrairement aux années ultérieures sans vérifier si ce pourcentage traduisait de quelque manière que ce soit la réalité de ses affaires en tant qu’inscrite. Une appelante ne peut pas se contenter de choisir un pourcentage au hasard; il faut que ce pourcentage soit fondé sur un semblant de réalité, qui soit fondé non pas sur ce qu’une fonctionnaire de l’ARC aurait pu déclarer, mais plutôt sur les activités de l’appelante, comme, par exemple, sur les données relatives aux revenus exonérés et taxables.
+[29] Quelles qu’aient été les observations faites par Mme Yu, il s’agissait d’observations relatives à l’application de la loi et non d’observations de fait. Toutes les prétendues observations de Mme Yu ne lient pas le ministre, et il est loisible à ce dernier d’établir une nouvelle cotisation à l’égard de l’appelante sous réserve des délais de prescription applicables. Cela ne décharge pas l’appelante de son obligation de déclarer ses obligations avec précision, comme le prévoit la Loi. Cela ne décharge pas l’appelante de son obligation de ventiler ses dépenses de manière à distinguer les fournitures exonérées des fournitures taxables ou activités commerciales dans ses dépenses mixtes, d’une manière qui soit juste et raisonnable, et qui trouve son fondement dans les activités de l’appelante.
+Conclusion [30] Pour finir, je conclus ce qui suit :
+a) L’appelante ne peut se prévaloir ni de la doctrine de la préclusion ni de la doctrine de l’erreur provoquée par une personne en autorité dans les circonstances, en partant du principe que Mme Yu ait pu laisser entendre que le pourcentage de 50 % qu’elle avait utilisé pour ventiler les dépenses mixtes pourrait être utilisé à l’avenir. Il n’y a rien dans la loi qui empêche le ministre d’établir une nouvelle cotisation de TPS/TVH à l’égard de l’appelante pour la période en cause.
+b) L’appelante n’a pas démontré, selon la prépondérance des probabilités, que les pourcentages de dépenses attribuables à ses fournitures taxables et à ses activités commerciales, de 11 % et 14 % pour les périodes allant du 1er janvier 2010 au 31 décembre 2010, et du 1er janvier 2011 au 30 juin 2012, respectivement, n’étaient pas justes ou raisonnables et ne traduisaient pas la réalité des activités de son entreprise.
+[31] L’appelant soutient également que l’ARC a employé la manière forte, en ce sens que l’ARC a engagé la procédure de recouvrement avant même que l’appelante ait reçu un avis de confirmation du fait que son opposition serait rejetée. Le cas échéant, je conviens que c’est injuste. Toutefois, je n’ai pas la compétence voulue pour me prononcer sur cette question en l’espèce.
+[32] Pour tous les motifs qui précèdent, l’appel est rejeté.
+Signé à Kingston (Ontario), ce 5e jour de juin 2014.
+« Rommel G. Masse »
+Juge suppléant Masse
+Traduction certifiée conforme
+ce 16e jour de juillet 2014.
+Alya Kaddour‑Lord, traductrice
+RÉFÉRENCE :
+2014 CCI 171
+NO DU DOSSIER DE LA COUR :
+2013-3119(GST)I
+INTITULÉ :
+Academy of Applied Pharmaceutical Sciences c. Sa Majesté la Reine
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Le 14 février 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge suppléant Rommel G. Masse
+DATE DU JUGEMENT :
+Le 5 juin 2014
+COMPARUTIONS :
+Représentante de l’appelante :
+Mme Laleh Bighash
+Avocat de l’intimée :
+Me Laurent Bartleman
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous‑procureur général du Canada
+Ottawa, Canada

@@ -1,0 +1,130 @@
+Title: Lavoie c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29092/index.do
+Corpus path: corpus/cases/tcc/2008/2008-tcc-635-29092-lavoie-c-la-reine-en.md
+Document type: case_law
+Last modified: 2008-12-16
+
+# Lavoie c. La Reine
+
+- Citation: 2008 TCC 635
+- Decision date: 2008-12-16
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6655, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lavoie c. La Reine
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2008-12-16
+Neutral citation
+2008 TCC 635
+File numbers
+2008-1372(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2008-1372(IT)I
+BETWEEN:
+FRANCIS LAVOIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on November 17, 2008, at Montréal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+For the appellant:
+The Appellant himself
+Counsel for the Respondent:
+Antonia Paraherakis
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2000 and 2001 taxation years are dismissed, in accordance with the attached Reasons for Judgment.
+The appeal from the assessment made under the Income Tax Act for the 2002 taxation year is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 16th day of January 2009.
+“François Angers”
+Angers J.
+Translation certified true
+on this 18th day of July 2011.
+Daniela Possamai, Translator
+Citation: 2008 TCC 635
+Date: 20081216
+Docket: 2008-1372(IT)I
+BETWEEN:
+FRANCIS LAVOIE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] These are appeals concerning the Appellant's 2000, 2001 and 2002 taxation years. With regard to 2000 and 2001, notices of reassessment were sent to the Appellant on January 5, 2006, in which the Minister of National Revenue (the Minister), in computing the Appellant's farm business income, disallowed the deduction of his share of interest expenses of $8,292 and $10,093, respectively, for the fiscal years ending December 31, 2000, and 2001. The notice of assessment for 2002 was sent to the Appellant on January 5, 2006, and the Minister disallowed the deduction of $27,424 as expenses incurred for the purpose of earning professional income. The Appellant duly objected and the Minister confirmed the assessments on March 12, 2008.
+[2] In addition to the Minister's refusal to allow the expenses described above, the Court must determine whether the Minister was justified in making reassessments for the 2000 and 2001 taxation years beyond the normal assessment period under subsection 152(4) of the Income Tax Act (the Act).
+[3] The Appellant admitted that the interest expenses of $8,292 and $10,093 claimed in his tax returns for the 2000 and 2001 taxation years are in fact capital reimbursements and that they should not have been claimed as interest paid. The statements of account from the Caisse populaire for the years in question were submitted with the amounts of interest paid clearly indicated. The Appellant attributes this error to the fact that his wife transcribed the amounts in his income tax software and that the incorrect data were inadvertently given to the accountant who prepares his income tax returns. The Appellant admitted that he did not review or even look at either his statements or his income tax returns for the two years in question.
+[4] As for the auditor, he argued that not only were the amounts clearly indicated in the statements of account, but that the interest amounts claimed by the Appellant were greater than what would have been reasonable having regard to the amount of the loans or his indebtedness. The evidence also revealed that the statements of account were submitted to the accountant.
+[5] Subsection 152(4) enables the Minister to assess any person who files an income tax return for a taxation year if the taxpayer or person filing the return has made any misrepresentation that is attributable to neglect, carelessness or wilful default or has committed any fraud in filing the return.
+[6] Therefore, there is no doubt in this case that there was misrepresentation involving the disallowed interest claimed by the Appellant in that the amounts were capital reimbursements and not interest payments. The Respondent submits that the Appellant made this misrepresentation through neglect or carelessness on the ground that it was very easy to ascertain the amount paid in interest simply by looking at the statements of account issued by the Caisse populaire and by looking at the total amount deducted in relation to the amount of the loans. The evidence showed that the Appellant is an experienced businessman.
+[7] The explanation given by the Appellant was that his wife and accountant made a mistake, but the fact remains that in this case they were his income tax returns and that it was his responsibility and his duty to make sure that his tax returns were accurate and correct. The Appellant in this case did not read the statements of account or his tax returns and did not verify them. In this case, it cannot be said that he exercised diligence in preparing his income tax returns. If the Appellant had taken the time to look over his tax returns, he would have noticed that the amounts claimed as interest were exorbitant in the circumstances. The Minister has met his burden of proof and was therefore justified in assessing the Appellant beyond the normal assessment period. The appeals concerning the 2000 and 2001 taxation years are therefore dismissed.
+[8] As for the year 2002, the Appellant submits that the majority of the expenses claimed are expenses relating to lawyers' fees for representation in various cases, including one in particular in which he sued his former partner in 2002. The Appellant, however, was not able to produce a single invoice included on his list of accounting and legal expenses except for four invoices from the firm Ogilvy Renault, that is, the firm whose services he retained in the fall of 2002 to bring the action against his former partner. It should be noted that the list produced is taken from a document originating from his computer, printed on November 14, 2008. The list sets out the expenses paid under the heading [TRANSLATION] "accounting and legal fees" for 2002.
+[9] At the audit stage, he supplied the same four invoices from Ogilvy Renault and informed the auditor that the $27,424 claimed was for the four invoices. The following is a summary of the four invoices:
+Invoice No. 250527
+September 24, 2002
+$5,664.42
+Invoice No. 253688
+October 23, 2002
+$2,795.03
+Invoice No. 257340
+November 25, 2002
+$16,336.89
+Invoice No. 264994
+November 29, 2003
+$4,262.51
+[10] It is important to note that the client whose name appears on the four invoices is Camille Boutin and that the invoices refer to the Appellant.
+[11] The list of accounting and legal expenses refers only to the first three invoices described above and the amounts paid to Ogilvy Renault total $13,459.45, that is, the total of the first two invoices and an instalment payment of $5,000 for the third invoice. The other invoices on the list are for the fees of other lawyers and other law firms. The nature of the services rendered is not specified except for the lawsuit against the Appellant's former partner. According to the Appellant, the lawyers Bernier and Jodoin invoiced fees relating to the lawsuit before the case was transferred to the law firms whose invoices are described above.
+[12] The action brought by the Appellant against his former partner involves, according to the Appellant, an oral agreement he had with his partner regarding a financial interest in real property and professional fees that were owed to him. However, the Appellant did not produce the notice of action brought by him. He filed his former partner's statement of defence as evidence that he had claimed fees. As for his former partner, he denied in his statement of defence the allegations of the lawsuit and stated that the Appellant had been paid for his services.
+[13] In February 2004, the Appellant, through new counsel, brought actions against his former partner and several other stakeholders with regard to his business relationship with his former partner. This action led to negotiations that brought about an out-of-court settlement of all litigation which was made enforceable by the Quebec Court of Appeal. The settlement concerns three related cases in addition to the main proceeding, that is, the action brought by the Appellant against his former partner. The settlement put an end to all past, present and future claims directly or indirectly related to contractual and extra-contractual relationships as well as any business relationship existing or having existed between the Appellant, his former partner and the other stakeholders. The Appellant received, inter alia, a lump sum of $280,000 following that agreement which was declared enforceable on December 14, 2005.
+[14] According to the Appellant, in order to pay for the action he brought against his former partner in 2002 and the other actions that followed, he had to borrow money from Camille Boutin, whose name appears as a client on the four invoices tendered in evidence. The Appellant stated that the law firm in question preferred to invoice Mr. Boutin. Once the invoice was paid by Mr. Boutin, the Appellant acknowledged his debt to him by signing promissory notes. In support of his statement, the Appellant filed a copy of a deed of hypothecary loan which he signed in favour of that person on October 3, 2002, to secure a loan of $100,000.
+[15] When the Appellant failed to reimburse the loan and Mr. Boutin passed away, Mr. Boutin's heiress sued the Appellant in Quebec Superior Court in the fall of 2006. In the statement of claim, the heiress alleged that the sum of $100,000 had been paid incrementally as evidenced by a promissory note dated October 13, 2003, for an amount of $59,568.88 and a series of cheques totalling $35,352.40. Among the cheques, there is one payable to Ogilvy Renault and bearing the number 383 which was issued on January 21, 2004, in the amount of $23,400. The claim refers to only one of the four invoices, that is invoice number 264994 of January 29, 2003, and to the statement of account of May 20, 2003, where the total fees of $56,200.05 were reduced by the amount of the cheque, that is, $23,400. The Appellant testified that the three 2002 invoices were covered by the promissory note of October 13, 2003, in the amount of $59,568.88, and were therefore not covered by the payment made by way of cheque number 383.
+[16] The three 2002 invoices mentioned above total $24,796.34. The total amount of accounting and legal expenses submitted by the Appellant in Exhibit A-1 is $27,424.81, that is, exactly the same amount he claimed under this heading in his tax return for the 2002 taxation year. In that list, he states that he paid Ogilvy Renault the amount of $13,459.45 and refers to the three aforementioned invoice numbers. Invoices 250527 and 253688 were paid in full, and as for invoice 257340, it is a $5,000 payment on account. The invoices are all dated December 31, 2002.
+[17] Accordingly, the Appellant has the burden of establishing on a balance of probabilities that the expenses he is seeking to deduct were actually incurred and that, if so, he is entitled to deduct them from his income on the ground that they were incurred for the purpose of earning income.
+[18] The evidence shows that at the objection stage the Appellant produced four invoices from a law firm addressed to Camille Boutin and where the Appellant's name is indicated for reference purposes. The Appellant explained to the auditor that they were supporting documents for the claimed expense of $27,424. At the trial, the Appellant produced a list of expenses under the heading [TRANSLATION] "accounting and legal fees", the total of which corresponds exactly to the amount claimed in his income tax return. The list came from the Appellant's computer and was printed on November 14, 2008.
+[19] I must also point out that, according to the list and the evidence heard, the Appellant did business with at least seven lawyers or law firms in 2002 and possibly an eighth who is merely identified in the list as [TRANSLATION] "lawyer". No supporting document was filed and no explanation of the nature of these expenses was given except for the fact that at least one lawyer was retained in his tax case and other lawyers were retained in the case against his former partner. According to the Appellant, the lawyers Jodoin and Bernier represented him before the matter was transferred to Ogilvy Renault. In his cross-examination, the Appellant acknowledged that the Quebec Superior Court minute book entry concerning his proceedings against his former partner mentioned a lawyer whose name did not appear anywhere.
+[20] It is therefore difficult if not impossible to identify the nature of the professional services rendered as the evidence is limited to the expenses incurred in the action against the Appellant's former partner. It is also difficult to establish whether the action was brought for the purpose of claiming the payment of professional fees or whether it involved an interest the Appellant may have had in real property and companies or possibly both. As for the settlement agreement made enforceable by the Quebec Court of Appeal, it refers in very general terms to the payment of a lump sum as settlement of all existing business relationships and contractual and extra-contractual relationships without providing any other details.
+[21] As for the submissions that Camille Boutin's legal fees were incurred for the benefit of the Appellant, the only evidence supporting that assertion would be the payment of invoice 264994 from Ogilvy Renault on November 29, 2003, by cheque number 383 issued by Camille Boutin, which is referred to in the allegations in the heiress's motion against the Appellant. That same motion refers to several other invoices from Ogilvy Renault paid in 2003, that is, the year following the year in question, and also to invoices from other lawyers. It should also be noted that the promissory note which constitutes part of the $100,000 debt was signed on October 13, 2003, and that, according to the Appellant, that amount was used to pay the four invoices from Ogilvy Renault, three of which date from 2002. The evidence does not specify why the promissory note was signed in October 2003 for the payment of invoices issued in fall 2002.
+[22] Such evidence is insufficient and, in my opinion, unreliable. The Appellant did not establish on a balance of probabilities that he was entitled to deduct the amount of expenses claimed. He did not answer the question as to whether expenses were actually incurred, and if so, in what proportion they were incurred for the purpose of earning income. For these reasons, the appeal from the assessment for the 2002 taxation year is dismissed.
+Signed at Edmundston, New Brunswick, this 16th day of December 2008.
+“François Angers”
+Angers J.
+Translation certified true
+on this 18th day of July 2011.
+Daniela Possamai, Translator
+CITATION: 2008 TCC 635
+COURT FILE NO.: 2008-1372(IT)I
+STYLE OF CAUSE: Francis Lavoie and Her Majesty The Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: November 17, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: December 16, 2008
+DATE OF AMENDED JUDGMENT: January 16, 2009
+APPEARANCES:
+For the appellant:
+The Appellant himself
+Counsel for the Respondent:
+Antonia Paraherakis
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

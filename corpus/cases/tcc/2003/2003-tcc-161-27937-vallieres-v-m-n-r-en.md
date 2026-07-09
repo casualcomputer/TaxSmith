@@ -1,0 +1,231 @@
+---
+title: "Vallieres v. M.N.R."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27937/index.do"
+last_modified: "2003-03-26"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 TCC 161"
+citation2: ""
+neutral_citation: "2003 TCC 161"
+decision_date: "2003-03-26"
+language: "en"
+item_id: "27937"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 1720
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T18:23:49.828000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "20bdc937c137d36faf7becac031f03582126a3ce3020a29026c5a390a05b53f0"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Vallieres v. M.N.R.
+
+- Citation: 2003 TCC 161
+- Decision date: 2003-03-26
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1720, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Vallieres v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2003-03-26
+Neutral citation
+2003 TCC 161
+File numbers
+2002-1274(EI)
+Judges and Taxing Officers
+Jerome F. Somers
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2002-1274(EI)
+BETWEEN:
+CHANTAL VALLIÉRES,
+and
+THE MINISTER OF NATIONAL REVENUE,
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on January 31, 2003, at Québec, Quebec
+Before:
+Honourable Deputy Judge J. F. Somers
+Appearances:
+Counsel for the Appellant:
+Jérôme Carrier
+Counsel for the Respondent:
+Marie-Claude Landry
+____________________________________________________________________
+JUDGMENT
+The appeal is dismissed and the Minister’s decision is upheld in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 26th day of March 2003.
+"J. F. Somers"
+D.J.T.C.C.
+Translation certified true
+on this 15th day of March 2004.
+Shulamit Day-Savage, Translator
+Citation: 2003TCC161
+Date: 20030326
+Docket: 2002-1274(EI)
+BETWEEN:
+CHANTAL VALLIÉRES,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR JUDGMENT
+Somers, D.J.T.C.C.
+[1] This appeal was heard at Québec, Quebec, on January 31, 2003.
+[2] The Appellant appealed from the decision of the Minister of National Revenue (the "Minister") that the employment with the Payor, Les Entreprises de peinture Daniel Olivier Inc., from July 2 to September 29, 2001, is excluded from insurable employment within the meaning of the Employment Insurance Act (the "Act") because there was not an arm’s-length relationship between the Payor and the Appellant.
+[3] Subsection 5(1) of the Employment Insurance Act (the “Act”) reads, in part, as follows:
+5. (1) Subject to subsection (2), insurable employment is
+(a) employment in Canada by one or more employers, under any express or implied contract of service or apprenticeship, written or oral, whether the earnings of the employed person are received from the employer or some other person and whether the earnings are calculated by time or by the piece, or partly by time and partly by the piece, or otherwise;
+. . .
+[4] Subsections 5(2) and 5(3) of the Act read, in part, as follows:
+5. (2) Insurable employment does not include
+. . .
+(i) employment if the employer and employee are not dealing with each other at arm’s length.
+(3) For the purposes of paragraph (2)(i),
+(a) the question of whether persons are not dealing with each other at arm’s length shall be determined in accordance with the Income Tax Act; and
+(b) if the employer is, within the meaning of that Act, related to the employee, they are deemed to deal with each other at arm’s length if the Minister of National Revenue is satisfied that, having regard to all the circumstances of the employment, including the remuneration paid, the terms and conditions, the duration and the nature and importance of the work performed, it is reasonable to conclude that they would have entered into a substantially similar contract of employment if they had been dealing with each other at arm’s length.
+[5] Section 251 of the Income Tax Act reads, in part, as follows:
+Section 251: Arm’s length
+(1) For the purposes of this Act,
+(a) related persons shall be deemed not to deal with each other at arm’s length;
+. . .
+(2) Definition of "related persons". For the purpose of this Act, "related persons", or persons related to each other, are
+(a) individuals connected by blood relationship, marriage or common-law partnership or adoption;
+. . .
+[6] The burden of proof is on the Appellant. The Appellant must show, on a balance of probabilities, that the Minister's decision is unfounded in fact and in law. Each case stands on its own merits.
+[7] In making his decision, the Minister relied on the following presumptions of fact outlined in paragraph 5 of the Reply to the Notice of Appeal, which were admitted or denied by the Appellant:
+(a) The Payor, incorporated on March 16, 1984, is a painting, joint‑treatment and wallpaper-hanging business operating mainly in the commercial sector. (admitted)
+(b) During the period at issue, Daniel Olivier, spouse of the Appellant, was the Payor’s sole shareholder. (admitted)
+(c) During the period at issue, the Payor’s major clients were the Découvreurs school board and Université Laval. (admitted)
+(d) The Payor operates his business year-round and hires between two and four individuals depending upon the contracts that he obtains. (admitted)
+(e) Prior to the period at issue, the Appellant worked as a trainer for the Club de nage Synchro‑Élite de Québec Inc.; she was laid off on May 6, 2001. (admitted)
+(f) During the period at issue, the Appellant performed services for the Payor for pay, for the first time. (admitted)
+(g) The Appellant’s major tasks were answering the phone, taking care of the mail and invoices and running errands, as needed, for the Payor. (admitted)
+(h) The Appellant generally worked at home, on the kitchen table, while also taking care of her two young children. (denied)
+(i) The Appellant was not responsible for keeping books for the Payor, who hired an accountant for this purpose. (admitted)
+(j) The Appellant’s working hours were up to her. She was required to work four hours per day depending upon her availability. (denied)
+(k) The Payor did not track or account for the Appellant’s alleged work hours. (denied)
+(l) The Appellant received a fixed salary of $300 gross per week for an alleged 20-hour workweek. (denied)
+(m) The Payor claimed that the Appellant prepared the paycheques but the Appellant stated that the accountant prepared them since she had no knowledge in this area. (denied)
+(n) The Payor allegedly hired the Appellant because he had increased revenue of $116,275 during the period at issue, whereas in 1999 and 2000, revenue was $91,871 and $89,106 during the same period; at that time he did not hire anyone to carry out the Appellant’s duties. (denied)
+(o) The Appellant’s alleged work period did not correspond with the Payor’s most active seasons. (denied)
+(p) The Appellant provided services to the Payor prior to the period at issue. (denied)
+[8] The Payor, incorporated on March 16, 1984, operates a painting, joint‑treatment and wallpaper‑hanging business; 95% of this work takes place in the commercial sector. The Payor’s major clients were the Découvreurs school board and Université Laval. During the period at issue, Daniel Olivier, the Appellant’s spouse, was the Payor’s sole shareholder.
+[9] The Payor operates his business year-round and hires between two and four people depending on the contracts that he obtains.
+[10] Prior to the period at issue, the Appellant worked as a trainer for the Club de nage Synchro‑Élite de Québec Inc. and her hourly wage was between $13 and $15. She was laid off on May 6, 2001.
+[11] The Appellant provided services to the Payor for pay for the first time during the period at issue, and received remuneration of $15 per hour. Her duties involved answering the phone, taking care of the mail and invoices, and, as needed, doing errands for the Payor and transcribing bids prepared by the Payor into final copies.
+[12] The Payor’s busiest period was from May to the fall of each year; there was an increase in business in 2002.
+[13] Daniel Olivier, the Payor, confirmed that he hired the Appellant in July 2001 and that she worked two hours in the morning and two hours in the afternoon, five days per week, for a total of 20 hours; it was the first time he had hired a secretary.
+[14] The Payor’s office was located in the basement of the family home and had a desk, two filing cabinets and a typewriter. The computer was set up on the first floor of the home.
+[15] According to the Payor, he gave the Appellant her instructions in the morning and checked her work in the evening. According to him, she prepared the employees’ paycheques and cheques for suppliers.
+[16] A general ledger list, submitted as Exhibit I-1, demonstrates income of $26,475 for May 2001; $28,270 for June; $79,975 for August; $31,595 for September and $42,000 for December. The Payor explained that the amounts represent the billing dates and not the dates on which the work was performed. He added that most of the bids are submitted in the summer, approximately four or five per day.
+[17] The Payor’s accountant prepared the balance sheet and financial statements for the business, as well as the cheques, and took care of the line of credit.
+[18] The Appellant stated that she has no bookkeeping training and that her duties were to answer the phone, take care of the mail and invoices, and, as needed, do errands for the Payor. Her work schedule was set by the Payor. She worked two hours in the morning and two hours in the afternoon, which enabled her to look after the house and children, and answer the phone. The Appellant stated that her mother sometimes took care of the children while she worked in the office located in the basement of the home. She added that she did not do any work for the Payor outside of the period at issue except for occasionally answering the phone.
+[19] The Appellant recognized that she had signed a statutory declaration before Nicole Jean, an investigator with Human Resources Development Canada, on November 13, 2001, (Exhibit I-2) in which, among other things, she said:
+[translation]
+. . . I was paid for 20 hours per week on average, but the hours were not counted; there was no set schedule. The work could be done in the evenings, on the weekend or during the day. I was free to organize my own work and I usually did the shopping during the day, I took the family car . . . I was not required to report . . . The accountant prepared the paycheques; I only had to write the amounts on the cheque stubs. He also did all the accounting for the business. I have no knowledge in that area. I have provided services to my spouse for as long as he has been in business but I was not paid because he is my spouse. Usually it was my spouse who did all this work and he is still the one who does it. . . . Usually I had enough hours to qualify for benefits with the job I had at Club de nage Synchro‑Élite de Québec, but that year they replaced me because I was on maternity leave, that is why I worked for my spouse; I needed hours to qualify for benefits. . .
+[20] During the initial examination, the Appellant stated that she called Nicole Jean the day after her statutory declaration to say she had not said, [translation] "I was not required to report." Nicole Jean, in her testimony, stated that it is possible that the Appellant had called her the day after her declaration to correct it and she told her that she could give her explanation to someone else.
+[21] Upon cross-examination, the Appellant stated that the Payor approached her to offer her this job. She admitted that her application for employment insurance benefits had been denied because she didn’t have enough hours, and confirmed that she worked four hours per day, two hours in the morning and two hours in the afternoon.
+[22] During her testimony, Nicole Jean stated that the meeting with the Appellant went well and that the responses in the statutory declaration are those that were given to her by the Applicant.
+[23] During his testimony, Jean Vézina, appeals officer with the Canada Customs and Revenue Agency, stated that he had a telephone conversation with the Appellant on March 11, 2002. As it appears in his report on an appeal submitted as Exhibit I-3, the Appellant contradicts the answers she gave on her statutory declaration; she told Jean Vézina that she worked two hours in the morning and two hours in the afternoon, from 9 a.m. to 11 a.m. and from 1 p.m. to 3 p.m.
+[24] Jean Vézina also had a telephone conversation with the Payor on March 11, 2002. According to his report, the Payor stated that the Appellant prepared the paycheques because the accountant only had the number of hours, which contradicts the Appellant’s statement that the accountant prepared the paycheques. The Payor admitted, during this telephone conversation, that he would not have hired someone at arm’s length under the same working conditions.
+[25] According to the report on an appeal (Exhibit I-3), the Payor stated that he paid the Appellant at the same hourly rate as she had earned in her job at Club de nage Synchro‑Élite, which was $15. The Payor added that he had hired the Appellant because the July revenue of $90,000 was higher than in previous years.
+[26] In this same report, Jean Vézina relates the following facts taken from documents provided by the Payor’s accountant, dated March 4, 2002:
+[translation]
+The payroll journal indicates that the Appellant had worked for 13 consecutive weeks from July 6, 2001, until September 29, for 20 hours per week, with a gross salary of $300, or $15/hour, for a total of 260 hours. In addition, during the period of employment, there were five employees: the Appellant, her spouse, one employee, one other who only started in August and one who only worked two weeks . . .
+Of a total of 13 paycheques, two are dated July 12, 2001, most of them are endorsed by the Appellant, except those for August 16 (#648), and one that was dated March 28 (#647). There were four for the net amount of $245.23 and nine for the net amount of $248.81. Two different styles of handwriting can be found on the cheques. . .
+According to the sales records for 2001, the total was $265,000. The monthly table below gives the following results:
+Month
+Amount
+January
+$3,400
+February
+$19,155
+March
+$3,950
+April
+$11,979
+May
+$26,475
+June
+$28,270
+July
+$4,905
+August
+$79,775
+September
+$31,595
+October
+$5,545
+November
+$8,648
+December
+$42,000
+Total
+$265,697
+The Payor’s declared income for the GST program from 1999 gives the following results, according to insurability file # CE 2001 6824 0654: . . .
+Date
+1999
+2000
+2001
+March 31
+$24,140
+$15,526
+$27,055
+June 30
+$14,832
+$32,688
+$66,774
+September 30
+$91,871
+$89,106
+$116,275
+December 31
+$34,075
+$40,747
+Not available
+[27] The appeals officer stated in his report that the Appellant’s salary was too high since she had no experience in this area and, in his opinion, a qualified and experienced secretary would have earned $15/hour.
+[28] In Légaré v. Canada (Minister of National Revenue – M.N.R.), [1999] F.C.J. No. 878, Marceau J. of the Federal Court of Appeal said the following:
+. . . the Minister's determination is subject to review. In fact, the Act confers the power of review on the Tax Court of Canada on the basis of what is discovered in an inquiry carried out in the presence of all interested parties. The Court is not mandated to make the same kind of determination as the Minister and thus cannot purely and simply substitute its assessment for that of the Minister: that falls under the Minister's so-called discretionary power. However, the Court must verify whether the facts inferred or relied on by the Minister are real and were correctly assessed having regard to the context in which they occurred, and after doing so, it must decide whether the conclusion with which the Minister was "satisfied" still seems reasonable.
+[29] In Bérard v. Canada (Minister of National Revenue – M.N.R.), [1997] F.C.A. No. 88, Hugessen J. of the Federal Court of Appeal expressed it this way:
+. . . The clear purpose of the legislation is to except contracts of employment between related persons that are not similar in nature to a normal contract between persons dealing with each other at arm's length. It is in our view clear that this abnormality can just as well take the form of conditions unfavourable to the employee as of favourable conditions.
+[30] According to the Act, the Minister had the right to exercise his discretion and to make a decision based on the facts obtained. This Court cannot substitute its opinion for that of the Minister unless it can be established that the Minister, in making his decision, acted in bad faith or for an improper purpose or motive, failed to take into account all of the relevant circumstances, or took into account an irrelevant factor (see Canada (Attorney General) v. Jencan Ltd. (C.A.), [1998] 1 F.C. 187).
+[31] There is not an arm’s length relationship between the Payor and the Appellant. Prior to the period at issue, the Appellant worked as a trainer for the Club de nage Synchro‑Élite. When she was laid off in the spring of 2001 she submitted an application for employment insurance benefits. This application was refused since the Appellant had not accumulated a sufficient number of insurable hours to qualify.
+[32] According to the statutory declaration, the Appellant was hired by the Payor because she was missing 50 hours to qualify for employment insurance benefits. However, she worked for the Payor for approximately 250 hours. The Appellant was hired by the Payor on only one occasion, which was during the period at issue. Before and after the period at issue, the Payor took care of the duties carried out by the Appellant.
+[33] According to the evidence, the Appellant did very little secretarial work. The accountant took care of the paycheques and accounting; in addition, the Appellant admitted that she had no experience in the area.
+[34] According to the appeals officer, in this region a qualified and experienced secretary would be paid an hourly rate of $15/hour. In his opinion, because of her lack of experience, the Appellant was overpaid. The Payor paid her $15/hour, which was what she received when she was a trainer at the Club de nage Synchro‑Élite.
+[35] There are contradictions with respect to the Appellant’s working hours; further, they were not counted. In her statutory declaration, the Appellant stated that she did not have any set schedule and that she was not "required to report". She added that the work could be done in the evening or during the weekends, but then changed her version stating that she worked regular hours, four hours per day, two hours in the morning and two in the afternoon. Since the Appellant made her statutory declaration shortly after her employment with the Payor ended, her statements must be retained. The Appellant again contradicted herself when she said that she worked at the dining room table and another time said that she worked in the office set up in the basement of the residence.
+[36] After having accumulated a sufficient number of hours with the Payor to qualify for employment insurance benefits, the Appellant made another application for benefits. It should be noted that the Appellant worked for the Payor for more hours than were required to qualify for employment insurance.
+[37] According to the evidence, the purpose of the Appellant’s employment with the Payor was to qualify for employment insurance benefits, which is not objectionable in itself. However, the terms and conditions of work would not have been the same had the Appellant and the Payor been dealing with one another at arm’s length. Since the Appellant did not have any experience in the field, the pay was too high under the circumstances; her hours were not counted and she had to take care of the children during her working hours since her mother only took care of them occasionally.
+[38] The Payor’s revenue for the years prior to 2001, the year of the period at issue, were more or less the same. Since the Payor was able to carry out the duties done by the Appellant before and after the period at issue, the Appellant’s services were not essential to the proper operation of the business.
+[39] In light of all the circumstances, this Court is convinced that the Appellant did not succeed in establishing, on the balance of evidence, that the Minister acted wilfully or arbitrarily.
+[40] As a result, the appeal is dismissed and the Appellant’s employment is excluded from insurable employment within the meaning of paragraph 5(2)(i) of the Act.
+Signed at Ottawa, Canada, this 26th day of March 2003.
+"J. F. Somers"
+D.J.T.C.C.
+Translation certified true
+on this 15th day of March 2004.
+Shulamit Day-Savage, Translator

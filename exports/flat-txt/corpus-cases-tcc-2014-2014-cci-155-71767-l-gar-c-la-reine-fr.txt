@@ -1,0 +1,171 @@
+Title: Légaré c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71767/index.do
+Corpus path: corpus/cases/tcc/2014/2014-cci-155-71767-l-gar-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2014-05-15
+
+# Légaré c. La Reine
+
+- Citation: 2014 CCI 155
+- Decision date: 2014-05-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5335, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Légaré c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-05-15
+Référence neutre
+2014 CCI 155
+Numéro de dossier
+2012-1891(GST)I
+Juges et Officiers taxateurs
+Réal Favreau
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2012-1891(GST)I
+ENTRE :
+ANDRÉ LÉGARÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+Appel entendu le 3 février 2014, à Québec (Québec)
+Devant : L'honorable juge Réal Favreau
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Pier-Olivier Julien
+JUGEMENT
+L’appel à l’encontre de la cotisation établie en date du 27 octobre 2006 en vertu de la Partie IX de la Loi sur la taxe d’accise afin de refuser un montant de 3 865,59 $ réclamé par l’appelant à titre de remboursement pour habitation neuve est rejeté selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 15e jour de mai 2014.
+« Réal Favreau »
+Juge Favreau
+Référence : 2014CCI155
+Date : 20140515
+Dossier : 2012-1891(GST)I
+ENTRE :
+ANDRÉ LEGARÉ,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+MOTIFS DU JUGEMENT
+Le juge Favreau
+[1] L’appelant appelle d’une cotisation établie par le ministre du Revenu national par l’entremise du ministre du Revenu du Québec (le « ministre » ), en date du 27 octobre 2006 en vertu de la Partie IX de la Loi sur la taxe d’accise L.R.C. 1985, c.E-15, telle que modifiée (la « LTA » ), en vertu de laquelle un montant de 3 865,59 $ réclamé par l’appelant à titre de remboursement pour habitation neuve a été refusé.
+[2] Le litige concerne principalement la date à laquelle l’immeuble de l’appelant était achevé en grande partie.
+[3] En établissant et maintenant la cotisation, le ministre s’est fondé, entre autres, sur les conclusions et les hypothèses de faits suivantes :
+• l’appelant a entrepris lui-même ou par l’intermédiaire d’une personne qu’il a engagée des travaux de construction d’un immeuble d’habitation situé au 53, rue du Bord-de-l’Eau à Portneuf [ci-après l’« immeuble » ]; (admis)
+• l’immeuble a été porté au rôle d’évaluation de la municipalité en date du 1er septembre 2002; (admis)
+• une demande de remboursement de taxe pour habitation neuve a été produite au ministre le 20 juin 2006; (admis)
+• l’examen des factures d’achat soumises par l’appelant, dans sa demande de remboursement, a permis au ministre de constater que les dépenses ont été engagées essentiellement durant les années 2001 et 2002; (nié)
+• durant l’année 2003, l’appelant a acheté de la peinture, un système d’alarme, de la tourbe, une clôture et d’autres matériaux pour l’aménagement extérieur; (admis)
+• durant l’année 2004, les travaux ont été effectués presqu’exclusivement sur le cabanon de l’immeuble et dans la finition d’un atelier; (admis)
+• le ministre a donc déterminé que le 1er janvier 2004 était la date où l’immeuble a été achevé en grande partie. (nié)
+[4] L’appelant prétend, qu’au moment où il a demandé le remboursement des taxes, le 20 juin 2006, moins de 90% des travaux de construction de la nouvelle résidence avait été réalisé, et ce, malgré le fait qu’il ait déménagé dans la nouvelle résidence le 14 juillet 2004. Il prétend également que sa demande de remboursement a été présentée dans le délai prescrit par la LTA, soit le 20 juin 2006, qui est dans les deux (2) ans de la date du déménagement dans la nouvelle résidence.
+[5] L’appelant a témoigné à l’audience et il a fourni la chronologie des travaux de construction effectués à l’immeuble d’habitation situé au 53, rue du Bord‑de‑l’Eau à Portneuf (l’« immeuble » ). Le terrain fut acquis au printemps de l’année 2001 et les travaux ont débuté en octobre 2001. La construction du solage, des murs extérieurs et du toit fut confiée à un entrepreneur. L’appelant s’est réservé la finition de l’immeuble comme projet de retraite. L’appelant demeurait alors à Donnacona à environ 10 kilomètres de distance de l’immeuble.
+[6] L’appelant a pris sa retraite du secteur de l’éducation en 1993 mais, de 1993 à 2006, il a rendu des services de consultation. Ses principaux clients étaient des autochtones, qui vivaient souvent dans des régions éloignées du Québec. L’appelant devait voyager à travers le Québec pour rencontrer ses clients et exécuter ses mandats. Ces absences, à la fois fréquentes et prolongées, ont considérablement retardé l’exécution des travaux de construction de l’immeuble qui se sont échelonnés de 2001 à 2006.
+[7] L’appelant a produit avec sa demande de remboursement de taxes les factures originales des dépenses effectuées. Le coût total des travaux (matériaux et main d’œuvre) était de 153 605,39 $ et le prix payé pour le terrain était de 42 000 $. Le pourcentage des dépenses effectuées au cours de chacune des années 2001, 2002, 2003 et 2004 par rapport aux dépenses totales du projet de construction était comme suit :
+appelant
+Revenu Québec
+2001
+52,99%
+53,53%
+2002
+34,37%
+34,72%
+2003
+5,68%
+5,74%
+2004
+3,74%
+3,78%
+[8] Au 31 décembre 2003, l’appelant avait effectué 93,04% des dépenses alors que, selon les calculs de Revenu Québec, le pourcentage des dépenses effectuées en 2001, 2002 et 2003 représentait 93,99% des dépenses totales. L’écart entre les pourcentages de dépenses n’est pas vraiment significatif.
+[9] L’immeuble a été porté au rôle d’évaluation de la Ville de Portneuf le 28 février 2003 pour l’année 2003. Le terrain était alors évalué à 10 410 $ et le bâtiment à 84 000 $. Pour l’année 2004, la valeur du terrain était de 23 200 $ et la valeur du bâtiment était toujours de 84 000 $.
+[10] Pour les fins d’assurance, la valeur du bâtiment (sans le terrain) était comme suit aux dates suivantes :
+2001 (novembre)
+100 000 $
+2002 (août)
+106 000 $
+2003 (août)
+106 000 $
+2004 (août)
+112 000 $
+2004 (septembre)
+130 000 $
+2005 (août)
+137 000 $
+2006 (août)
+175 000 $
+[11] À l’audience, l’appelant a déposé une liste des travaux, qui, en date du 1er janvier 2004, devaient être réalisés pour parachever la construction de l’immeuble. Cette liste comprenait les travaux suivants :
+− escalier menant à l’étage, rampe d’escalier et barreaux
+− finition du dessous de l’escalier
+− construction d’une bibliothèque encastrée dans le mur face à la descente de l’escalier
+− construction d’un rangement sous l’escalier, plâtrage et peinture
+− remplacement du poteau de soutènement du plancher en porte-à-faux par une colonne définitive
+− finition du plafond de la descente de l’escalier
+− finition du plafond du rez-de-chaussée et peinture du plafond
+− finition du plancher flottant au rez-de-chaussée
+− muret de sécurité en haut de la cage d’escalier
+− mur de division du bureau, avec 4 portes coulissantes par rapport à la chambre à coucher et à la salle de bain
+− la peinture du 2e étage : chambre à coucher, salle de bain, bureau, salle de billard
+− pose des cadrages des ouvertures, portes et fenêtres
+− pose des moulures
+− peinture de finition
+− plancher de l’étage, bois flottant
+− finition de la salle de billard : demi mur en merisier, éclairage (descente de plafond pour lampe de billard) plancher flottant
+[12] L’appelant a de plus expliqué que, pendant la construction de l’immeuble, la salle de billard servait d’atelier pour le travail à l’étage et que les travaux de finition de l’escalier, de la garde et de la rampe, du muret, de la bibliothèque et de la peinture ne pouvaient être complétés avant le déménagement du piano et de la table de billard. Enfin, l’appelant a précisé que le poteau temporaire soutenant le plancher du 2e étage en porte-à-faux a été remplacé par une colonne de finition et que, par la suite, le plafond du 2e étage a été plâtré et peinturé et le plancher du rez-de-chaussée a été complété.
+[13] Selon l’appelant, les matériaux étaient en très grande partie achetés, entreposés et utilisés au besoin selon ses disponibilités.
+[14] Le paragraphe 256(3) de la LTA fixe le délai dans lequel le particulier doit demander son remboursement de taxes. Le paragraphe 256(3) se lit comme suit :
+256(3) Les remboursements prévus au présent article ne sont versés que si le particulier en fait la demande au plus tard :
+a) à la date qui suit de deux ans le premier en date des jours suivants :
+(i) le jour qui suit de deux ans le jour où l’immeuble est occupé pour la première fois de la manière prévue au sous-alinéa (2)d)(i),
+(ii) le jour où la propriété est transférée conformément au sous-alinéa (2)d)(ii),
+(iii) le jour où la construction ou les rénovations majeures de l’immeuble sont achevées en grande partie;
+b) à toute date postérieure à celle prévue à l’alinéa a), fixée par le ministre.
+[15] Il ne fait pas de doute ici que la disposition pertinente est l’alinéa 256(3)a)(iii). L’appelant a produit sa demande dans les deux (2) ans de la date de son déménagement alors que le critère prescrit par la LTA est dans les deux (2) ans à compter du jour où la construction de l’immeuble est achevée en grande partie. L’appelant n’a jamais accepté que le 1er janvier 2004 était la date pertinente aux fins du calcul du délai pour la production de sa réclamation. L’appelant soutient qu’il n’a pas déménagé avant le 14 juillet 2004 parce que l’immeuble n’était pas convenablement habitable avant cette date, i.e. que l’immeuble ne pouvait être utilisé pour les fins pour lesquelles l’immeuble a été construit.
+[16] L’expression « achevée en grande partie » n’est pas définie dans la LTA et on doit s’en remettre à l’interprétation qu’en fait une personne raisonnable. Au fil des ans, la jurisprudence a appliqué le critère du 90% des travaux effectués pour déterminer le moment où les travaux de construction sont achevés en grande partie. Il s’agit là d’une interprétation généreuse et très favorable aux contribuables parce que le pourcentage de 90% est normalement utilisé pour définir l’expression « la totalité ou la quasi-totalité » que l’on retrouve souvent dans la LTA. La LTA exige seulement que la construction de l’immeuble soit achevée en grande partie et non pas qu’elle soit achevée en totalité ou en quasi-totalité.
+[17] Dans l’arrêt récent de Claude Mercure c. La Reine, 2013 CAF 102, la Cour d’appel fédérale a considéré que la construction de la maison du contribuable était achevée en grande partie en décembre 2006 parce qu’à cette date, le contribuable avait encouru 97,3% du total des dépenses liées à la construction de la maison, bien que le contribuable ait stocké une certaine quantité de matériaux dans son garage. La Cour s’est ainsi exprimée au paragraphe 22 :
+[…] Bien que monsieur Mercure ait stocké une certaine quantité de matériaux dans son garage, comme il l’a fait valoir devant nous, il n’en reste pas moins que le pourcentage très élevé de dépenses encourues dès la fin de l’année 2006 ne laisse place à aucune autre conclusion que la construction de sa maison était achevée en grande partie en décembre 2006. […]
+[18] La situation de l’appelant est très similaire à celle de monsieur Mercure dans l’arrêt cité au paragraphe précédent. Au 1er janvier 2004, l’appelant avait encouru pas moins de 93,04% du total des dépenses liées à la construction de la maison. Au 31 décembre 2002, plus de 87% des dépenses totales de construction avaient déjà été effectuées.
+[19] L’ampleur des travaux de construction réalisés en 2001, 2002 et 2003 tend à démontrer que la maison de l’appelant était, au 1er janvier 2004, habitable ou était sur le point de l’être. L’appelant a mis sa résidence de Donnacona en vente au mois de mars 2004 et il a emménagé dans sa nouvelle résidence le 14 juillet 2004. Rappelons qu’en 2004, l’appelant agissait toujours comme consultant et qu’il ne pouvait consacrer tout son temps à la construction de la maison.
+[20] La liste des travaux à compléter au 1er janvier 2004, telle que fournie par l’appelant, indique qu’il s’agissait essentiellement des travaux de finition au 2e étage (bureau avec bibliothèque encastrée et salle de billard). L’appelant a de plus admis que les travaux effectués durant l’année 2004 ont presqu’exclusivement été réalisés sur le cabanon de l’immeuble et dans la finition d’un atelier.
+[21] Pour ces motifs, l’appel est rejeté puisque la réclamation a été déposée après l’expiration du délai prévu par la LTA.
+Signés à Ottawa, Canada, ce 15e jour de mai 2014.
+« Réal Favreau »
+Juge Favreau
+RÉFÉRENCE :
+2014CCI155
+Nº DU DOSSIER DE LA COUR :
+2012-1891(GST)I
+INTITULÉ DE LA CAUSE :
+ANDRÉ LÉGARÉ ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Québec(Québec)
+DATE DE L’AUDIENCE :
+le 3 février 2014
+MOTIFS DE JUGEMENT PAR :
+L'honorable juge Réal Favreau
+DATE DU JUGEMENT :
+le 15 mai 2014
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Avocat de l'intimée :
+Me Pier-Olivier Julien
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada

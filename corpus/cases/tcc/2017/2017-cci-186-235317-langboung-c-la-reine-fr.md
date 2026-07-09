@@ -1,0 +1,143 @@
+---
+title: "Langboung c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/235317/index.do"
+last_modified: "2017-09-22"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2017 CCI 186"
+citation2: ""
+neutral_citation: "2017 CCI 186"
+decision_date: "2017-09-22"
+language: "fr"
+item_id: "235317"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2205
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T17:21:56.577000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a2571ef632971b45950fe4b4b062cc4100fa6d015e341d2e7694446b4ddd816f"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Langboung c. La Reine
+
+- Citation: 2017 CCI 186
+- Decision date: 2017-09-22
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2205, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Langboung c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2017-09-22
+Référence neutre
+2017 CCI 186
+Numéro de dossier
+2016-2563(IT)I
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2016-2563(IT)I
+ENTRE :
+GABRIEL K. LANGBOUNG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+Appel entendu le 29 mars 2017, à Edmonton (Alberta)
+Devant : L’honorable juge B. Russell
+Comparutions :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me E. Ian Wiebe
+JUGEMENT MODIFIÉ
+L’appel interjeté à l’encontre des nouvelles cotisations établies le 21 janvier 2008 sous le régime de la Loi de l’impôt sur le revenu (Canada) pour les années d’imposition 2002, 2003 et 2004 de l’appelant et à l’encontre de la nouvelle cotisation établie le 29 février 2008 pour l’année d’imposition 2005 de l’appelant est rejeté, sans dépens, conformément aux motifs du jugement ci-joints.
+Le présent jugement modifié remplace le jugement daté du 22 septembre 2017.
+Signé à Ottawa, Canada, ce 4e jour d’octobre 2017.
+« B. Russell »
+Le juge Russell
+Référence : 2017 CCI 186
+Date : 20171004
+Dossier : 2016-2563(IT)I
+ENTRE :
+GABRIEL K. LANGBOUNG,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+MOTIFS MODIFIÉS DU JUGEMENT
+Le juge Russell
+[1] Les paragraphes qui suivent exposent mes motifs de jugement dans l’appel interjeté par M. Langboung (appelant) en application de la Loi de l’impôt sur le revenu (la Loi). L’appelant interjette appel du refus par le ministre du Revenu (le ministre) de ses déductions au titre de dons de bienfaisance pour les années d’imposition 2002, 2003, 2004 et 2005. Les crédits d’impôt refusés concernant des dons de bienfaisance qui auraient été faits par l’appelant s’élèvent à 5 050 $, à 8 500 $, à 5 044 $ et à 3 095 $ pour ces années, respectivement. Les années d’imposition 2002 et 2003 ont fait l’objet d’une nouvelle cotisation en dehors de la période normale de nouvelle cotisation applicable pour l’appelant et, par conséquent, le fardeau de la preuve relatif à la nouvelle cotisation en litige pour ces deux années incombe à la Couronne.
+[2] L’appelant s’est représenté lui-même à l’audition de cette affaire entendue sous le régime de la procédure informelle et il était le seul témoin. L’intimée n’a convoqué aucun témoin. Certains documents ont été déposés en preuve par l’intimée avec le consentement de l’appelant.
+[3] L’appelant a affirmé dans son témoignage qu’il a eu des reçus pour les dons de bienfaisance déduits. L’église à laquelle il a fait des dons l’a aidé lorsqu’il est arrivé au Canada. L’église, « Redeemers’ Victory », en Ontario, n’existe plus. En contre-interrogatoire, l’appelant a affirmé en outre que ses dons à cette église étaient sous forme d’espèces et qu’il achetait parfois un article pour donner à l’église, par exemple, une télévision ou un microphone. Il n’a aujourd’hui aucun des chèques oblitérés; les boîtes dans lesquelles ils étaient conservés ont été égarées. Il affirme qu’il a habité dans cinq endroits au cours des dernières années et que ses documents ont été perdus au cours de ces déménagements. Il a affirmé dans son témoignage qu’il croyait qu’il avait déposé tous les documents avant son avis d’opposition de février 2009. Son avis d’opposition indiquait qu’il déposerait les documents, mais rien au dossier n’indique qu’ils ont été déposés.
+[4] L’appelant a affirmé dans son témoignage qu’il avait retenu les services d’une comptable pour préparer ses déclarations. Il faisait confiance à la comptable et n’a donc pas examiné ses déclarations. Il ne savait pas qu’elle a par la suite été déclarée coupable de fraude. Il a déclaré qu’il a eu des photocopies de tous les documents déposés, mais il les a perdues aussi. Il a quitté l’Ontario pour déménager à Edmonton en 2008. Il a admis que son revenu net pour 2002 s’élevait à 26 102 $ et qu’il avait demandé un crédit d’impôt pour dons de bienfaisance de 5 050 $ pour cette année. Il a reconnu que ses gains totaux pour 2003 s’élevaient à 40 966 $ et qu’il avait demandé un crédit d’impôt pour dons de bienfaisance de 8 500 $. Il a également reconnu que son revenu net de 2004 s’élevait à 43 920 $ et qu’il avait demandé un crédit d’impôt pour dons de bienfaisance de 5 044 $, et que son revenu net était de 27 730 $ en 2005 lorsqu’il a demandé un crédit d’impôt pour dons de bienfaisance de 3 095 $.
+[5] L’appelant n’a présenté aucune observation lors de sa plaidoirie initiale. L’intimée a soutenu qu’elle s’était acquittée du fardeau qui lui incombait pour pouvoir procéder à l’établissement de nouvelles cotisations pour les années d’imposition 2004 et 2005, frappées de prescription. Il n’y avait aucun chèque oblitéré et, en fait, aucun document à l’appui de quelque nature que ce soit. Il y a eu une longue période d’opposition, mais aucun document n’a jamais été déposé pour étayer l’un ou l’autre des montants déduits au titre de dons de bienfaisance. La corroboration est essentielle en ce qui concerne les dons en espèces, les dons en nature, en particulier au vu des montants déduits relativement élevés par rapport à son revenu. Un témoignage non corroboré ne suffit pas.
+[6] De plus, aucun document ayant trait à l’église n’a été présenté, église qui n’existe plus aujourd’hui. Il n’y a aucune lettre d’une personne ayant été membre de cette église, ni aucune confirmation qu’elle ait été un organisme de bienfaisance enregistré.
+[7] L’alinéa 118.2(2)a) de la Loi précise qu’un don de bienfaisance ne peut être inclus dans le total des dons de bienfaisance, à moins que le don ne soit attesté par la présentation au ministre d’« un reçu contenant les renseignements prescrits ». Le sous-alinéa 152(4)a)(i) de la Loi précise qu’il est possible de revenir sur une année d’imposition frappée de prescription s’il est établi que le contribuable « soit a fait une présentation erronée des faits, par négligence, inattention ou omission volontaire, ou a commis quelque fraude en produisant la déclaration ou en fournissant quelque renseignement sous le régime de la présente loi ». En outre, le sous-alinéa 152(4.01)a)(i) de la Loi prévoit qu’une nouvelle cotisation établie pour une année frappée de prescription ne peut l’être que si elle se rapporte à une présentation erronée des faits elle-même. On ne peut revenir sur l’année dans son ensemble.
+[8] Enfin, le paragraphe 3501(1) du Règlement de l’impôt sur le revenu fédéral prévoit qu’un reçu de don de bienfaisance en espèces doit inclure certains des renseignements qui y sont énumérés, y compris le nom et l’adresse de l’organisation de bienfaisance, le numéro d’enregistrement de l’organisation, le numéro de série du reçu, le lieu ou l’endroit où le reçu a été délivré et, lorsque le don est un don en espèces, la date ou l’année où il a été reçu. La disposition prévoit également des exigences semblables pour les reçus de dons de bienfaisance autres que des dons en espèces.
+[9] Dans ses observations finales, M. Langboung a affirmé que c’était trop demander à une personne que de conserver de tels documents, comme des reçus, pendant une période de six ou sept ans. Il les a simplement égarés et il les a cherchés pendant les trois derniers jours. De plus, à l’étape des oppositions, le ministre a simplement refusé les montants réclamés. Il n’y avait aucune lettre du ministre indiquant qu’il avait les documents et qu’ils n’étaient pas suffisants.
+[10] À mon avis, en l’espèce, les nouvelles cotisations établies par l’intimée doivent être retenues. Il y a absence totale d’éléments de preuve appuyant le témoignage non corroboré de l’appelant fait de vive voix et sous serment. La loi est claire, pour pouvoir demander un crédit d’impôt au titre de dons de bienfaisance, le contribuable doit fournir des documents à l’appui sous forme de reçus contenant les renseignements prescrits. Non seulement l’appelant n’avait pas un seul reçu, mais il n’avait également aucun autre document de quelque nature que ce soit; pas même quelque chose de la présumée église en Ontario qui aurait été la bénéficiaire des prétendus dons de bienfaisance.
+[11] De plus, je suis d’avis que l’intimée a réussi à justifier une réouverture du dossier concernant les deux années frappées de prescription, soit 2002 et 2003, pour lesquelles les nouvelles cotisations établies faisaient également l’objet du présent appel. Une présentation erronée des faits par négligence, inattention ou omission volontaire a été établie pour chacune de ces années en raison, encore une fois, de l’absence absolue des documents qu’exigent la loi – ou même d’un témoignage par un tiers –, qui permettraient de corroborer, même un peu, les affirmations faites par l’appelant dans ses déclarations de revenus, pour lesquelles il demande des crédits d’impôt au titre de dons de bienfaisance pour chacune de ces années.
+[12] Par conséquent, l’appel est rejeté en ce qui concerne chacune des nouvelles cotisations visées par l’appel pour les années d’imposition 2002, 2003, 2004 et 2005 de l’appelant, respectivement.
+Les présents motifs modifiés du jugement remplacent les motifs du jugement datés du 22 septembre 2017.
+Signé à Ottawa, Canada, ce jour d’octobre 2017.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+Ce 12e jour d’août 2019
+Lionbridge
+RÉFÉRENCE :
+2017 CCI 186
+No DU DOSSIER DE LA COUR :
+2016-2563(IT)I
+INTITULÉ :
+GABRIEL K. LANGBOUNG c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 29 mars 2017
+MOTIFS DU JUGEMENT :
+L’honorable juge B. Russell
+DATE DU JUGEMENT :
+Le 22 septembre 2017
+DATE DU JUGEMENT MODIFIÉ : Le 4 octobre 2017
+COMPARUTIONS :
+Pour l’appelant :
+L’appelant lui-même
+Avocat de l’intimée :
+Me E. Ian Wiebe
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelant :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa, Canada

@@ -1,0 +1,225 @@
+Title: G&L Distributors Ltd. c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/28014/index.do
+Corpus path: corpus/cases/tcc/2004/2004-cci-479-28014-g-l-distributors-ltd-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2004-06-29
+
+# G&L Distributors Ltd. c. M.R.N.
+
+- Citation: 2004 CCI 479
+- Decision date: 2004-06-29
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 1600, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+G&L Distributors Ltd. c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2004-06-29
+Référence neutre
+2004 CCI 479
+Numéro de dossier
+2003-3125(EI)
+Juges et Officiers taxateurs
+Judith Woods
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2003-3125(EI)
+ENTRE :
+G&L DISTRIBUTORS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de Cary Craig
+(2003-3126(EI)), le 26 mars 2004, à Edmonton (Alberta).
+Devant : L’honorable J.M. Woods
+Comparutions :
+Avocat de l’appelante :
+Me Deryk W. Coward
+Avocate de l’intimé :
+Me Dawn Taylor
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la décision du ministre du Revenu national rendue sous le régime de la Loi sur l’assurance‑emploi est accueilli et la décision selon laquelle Cary Craig exerçait un emploi assurable chez G&L Distributors Ltd. est annulée.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 19e jour de janvier 2005.
+Jacques Deschênes, traducteur
+Dossier : 2003-3126(EI)
+ENTRE :
+CARY CRAIG,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu sur preuve commune avec l’appel de G&L Distributors Ltd.
+(2003-3125(EI)), le 26 mars 2004, à Edmonton (Alberta).
+Devant : L’honorable J.M. Woods
+Comparutions :
+Avocat de l’appelant :
+Me Deryk W. Coward
+Avocate de l’intimé :
+Me Dawn Taylor
+____________________________________________________________________
+JUGEMENT
+L’appel interjeté à l’égard de la décision rendue par le ministre du Revenu national sous le régime de la Loi sur l’assurance‑emploi est accueilli et la décision selon laquelle Cary Craig exerçait un emploi assurable chez G&L Distributors Ltd. est annulée.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 19e jour de janvier 2005.
+Jacques Deschênes, traducteur
+Référence : 2004CCI479
+Date : 20040629
+Dossier : 2003-3125(EI)
+ENTRE :
+G&L DISTRIBUTORS LTD.,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+et
+Dossier : 2003-3126(EI)
+CARY CRAIG,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Woods
+[1] Il s’agit d’appels interjetés par Cary Craig et son employeur, G&L Distributors Ltd., à l’égard de la décision par laquelle le ministre du Revenu national a conclu que M. Craig exerçait un emploi assurable pour l’application de la Loi sur l’assurance‑emploi pendant la période allant du 1er janvier 2002 au 29 novembre 2002.
+[2] Les activités commerciales de la société G&L Distributors touchent à l’emballage de fournitures de pique‑nique qu’elle vend principalement à d’importantes chaînes de magasins d’alimentation. L’entreprise, qui a été fondée il y a plus de 20 ans par le père de M. Craig, Gordon Craig, emploie maintenant plus de 20 personnes. M. Craig est âgé de 30 ans et il travaille comme directeur de l’usine. M. Craig est propriétaire de cinq pour cent des actions de G&L Distributors; les autres actions appartiennent à ses parents.
+[3] Les personnes qui sont liées à l’employeur, comme dans le cas de M. Craig, n’occupent pas un emploi assurable au sens de la Loi sur l’assurance‑emploi à moins que le ministre ne soit convaincu que les modalités d’emploi sont à peu près semblables à celles qui s’appliqueraient en l’absence de lien de dépendance.
+[4] Les présents appels découlent d’une demande de remboursement de cotisations d’assurance‑emploi. Le ministre a conclu que les modalités d’emploi étaient à peu près semblables à celle qui auraient été fixées en l’absence d’un lien de dépendance et il a décidé que l’emploi était assurable.
+Dispositions législatives
+[5] Les dispositions législatives pertinentes se trouvent aux alinéas 5(2)i) et 5(3)b) de la Loi sur l’assurance‑emploi. Elles sont ainsi rédigées :
+(2) N’est pas un emploi assurable :
+[…]
+i) l’emploi dans le cadre duquel l’employeur et l’employé ont entre eux un lien de dépendance.
+(3) Pour l’application de l’alinéa (2)i) :
+[…]
+b) l’employeur et l’employé, lorsqu’ils sont des personnes liées au sens de cette loi, sont réputés ne pas avoir de lien de dépendance si le ministre du Revenu national est convaincu qu’il est raisonnable de conclure, compte tenu de toutes les circonstances, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli, qu’ils auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+[Non souligné dans l’original.]
+[6] La présente affaire est un de quatre appels analogues que j’ai entendus à Edmonton (Alberta) au cours de la même semaine. Dans le jugement statuant sur une autre de ces affaires, C&B Woodcraft Ltd., j’ai formulé des observations générales sur la portée de ces dispositions. Je n’examinerai pas cette question à nouveau ici.
+Décision du ministre
+[7] Le ministre a conclu que Cary Craig occupait un emploi assurable parce que les modalités de son emploi étaient à peu près semblables à celles qui auraient été fixées en l’absence d’un lien de dépendance. Les faits sur lesquels le ministre s’est appuyé sont exposés sous forme d’hypothèses de fait dans les actes de procédure et sont joints à titre d’annexe aux présents motifs.
+[8] M. Craig et son père ont témoigné à l’audience. À la lumière de leur témoignage, j’estime que le ministre a omis de tenir compte de nombreux faits qui auraient dû avoir une incidence sur sa décision. En voici quelques‑uns :
+- Même s’il a à juste titre pris en considération le salaire de 51 000 $ et la gratification de 31 000 $ versés à M. Craig, le ministre n’a pas tenu compte du fait que certains facteurs reliés à la situation personnelle de ce dernier avaient influé sur le montant de cette rémunération. Par exemple, la gratification que M. Craig a obtenue en 2002 lui a été versée parce qu’il souhaitait acheter une nouvelle automobile.
+- Le ministre n’a pas tenu compte de la mesure dans laquelle les modalités d’emploi étaient souples. Bien qu’il ait pris en considération le fait que M. Craig pouvait aller et venir à sa guise, le ministre a également supposé que les directeurs sans lien de dépendance bénéficiaient de la même latitude. Je crois que le ministre n’a pas correctement apprécié la différence entre les modalités d’emploi de M. Craig et les conditions de travail des directeurs sans lien de dépendance. À titre d’exemple, M. Craig a signalé qu’il s’absentait pendant les heures normales de travail pour se rendre à son club de rugby. Dans son témoignage, son père a mentionné que les directeurs sans lien de dépendance devaient lui rendre compte s’ils s’absentaient du bureau. Vraisemblablement, les employés sans lien de dépendance n’auraient pas été autorisés à prendre congé à des fins de loisir. Le père est un propriétaire qui met la main à la pâte et on dit de lui qu’il est strict avec les employés sans lien de dépendance. Je ne puis accepter l’hypothèse du ministre voulant que les directeurs sans lien de dépendance aient pu aller et venir à leur guise. M. Craig, quant à lui, jouissait de cette latitude, probablement en raison de la confiance que son père devait avoir en lui.
+- Le ministre a omis de tenir compte du fait que M. Craig avait davantage de souplesse au chapitre des vacances que les autres employés. M. Craig pouvait prendre des vacances quand cela lui plaisait, tandis que les employés sans lien de dépendance devaient obtenir une autorisation afin d’éviter que leur absence ne nuise aux activités de l’entreprise.
+- Le ministre n’a pas pris en considération la mesure dans laquelle M. Craig participait à la gestion de l’entreprise. Les chefs de service lui rendaient compte, il s’occupait des affaires bancaires et participait à la plupart des décisions importantes touchant la gestion. J’accepte le témoignage du père selon lequel il n’aurait pas eu une aussi grande confiance en des employés sans lien de dépendance. Ce n’était certainement pas le cas avec le directeur précédent, lequel agissait à titre de contrôleur.
+- M. Craig a une carte de crédit de la société. Les employés sans lien de dépendance n’en ont pas et j’accepte le témoignage du père selon lequel il n’aurait pas donné une carte de crédit de la société à des employés sans lien de dépendance.
+Modalités d’emploi et lien de dépendance
+[9] Il est ressorti à l’audience que M. Craig était traité beaucoup plus comme un associé de l’entreprise que comme un employé sans lien de dépendance. Il a obtenu des actions dans la société, il participait aux décisions de gestion, il se chargeait de l’entreprise lorsque son père était malade, ses heures de travail étaient plus souples et sa situation personnelle influait sur sa rémunération. À mon sens, ses modalités générales d’emploi étaient sensiblement différentes de celles auxquelles il serait assujetti s’il était un employé sans lien de dépendance.
+Conclusion
+[10] Les appels sont accueillis et la décision du ministre voulant que Cary Craig exerce un emploi assurable est annulée.
+Signé à Ottawa, Canada, ce 29e jour de juin 2004.
+« J.M. Woods »
+Juge Woods
+Traduction certifiée conforme
+ce 19e jour de janvier 2005.
+Jacques Deschênes, traducteur
+ANNEXE
+Hypothèses de fait
+Le ministre s’est appuyé sur les hypothèses de fait suivantes pour arriver à sa décision :
+a) l’appelante exploitait une entreprise qui emballait et distribuait des fournitures de pique‑nique jetables;
+b) l’entreprise de l’appelante était exploitée toute l’année, mais l’été et Noël constituaient les périodes les plus achalandées;
+c) les actionnaires de l’appelante étaient les personnes suivantes :
+Gordon Craig 54 % (mari) (ci‑après l’« actionnaire »)
+Lorraine Craig 51 % (épouse)
+le travailleur 5 %
+d) les trois actionnaires susmentionnés agissaient également à titre d’administrateurs de l’appelante;
+e) le travailleur est le fils de l’actionnaire et de Lorraine Craig;
+f) le travailleur et l’appelante sont liés au sens de la Loi de l’impôt sur le revenu, L.R.C. (1985), ch. 1 (5e suppl.), et ses modifications (la « Loi »);
+g) le travailleur a été embauché à titre de directeur;
+h) les fonctions du travailleur englobaient la surveillance de la gestion courante ainsi que la supervision des acheteurs, des ventes, de la production et du personnel de l’entrepôt;
+i) le travailleur gagnait un salaire fixe de 51 000,00 $ par année;
+j) le travailleur recevait la somme de 2 125,00 $ deux fois par mois;
+k) l’appelante fixait le taux de salaire du travailleur;
+l) le salaire du travailleur était raisonnable;
+m) le salaire du travailleur faisait l’objet de retenues au titre des cotisations, des primes et de l’impôt;
+n) le travailleur était payé à intervalles réguliers et de façon constante;
+o) le travailleur n’a pas fourni de services non payés au cours de la période visée;
+p) le travailleur a également reçu les gratifications suivantes :
+2000 8 000 $
+2001 23 000 $
+2002 31 000 $
+q) les directeurs sans lien de dépendance travaillant pour l’appelante avaient également la possibilité de recevoir des gratifications;
+r) les décisions relatives aux gratifications étaient prises par l’appelante;
+s) selon les T4, la rémunération versée par l’appelante au travailleur est la suivante :
+2000 63 706 $
+2001 73 422 $
+2002 82 639 $
+t) le travailleur bénéficiait de vacances payées;
+u) l’appelante offrait un régime d’avantages sociaux à ses employés, y compris le travailleur;
+v) l’appelante avait des heures de bureau fixes, soit de 8 h à 16 h 30, du lundi au vendredi;
+w) le travailleur était habituellement au travail pendant les heures de bureau de l’appelante;
+x) le travailleur travaillait en moyenne 40 heures par semaine;
+y) les heures et les jours de travail du travailleur étaient fonction des impératifs liés à l’entreprise et au secteur d’activité;
+z) l’appelante s’attendait à ce que le travailleur travaille aussi longtemps qu’il était nécessaire pour accomplir les tâches qu’elle lui confiait;
+aa) le travailleur pouvait aller et venir à sa guise;
+bb) les directeurs sans lien de dépendance de l’appelante avaient également la possibilité d’aller et venir comme ils l’entendaient;
+cc) le travailleur n’était pas supervisé;
+dd) l’actionnaire était le président de l’appelante;
+ee) l’actionnaire était le président de l’entreprise;
+ff) l’actionnaire Lorraine Craig et le travailleur participaient tous à la prise des décisions importantes;
+gg) au bout du compte, il appartenait à l’actionnaire de prendre les décisions importantes;
+hh) le travailleur pouvait s’adresser à l’actionnaire s’il avait des questions ou besoin d’aide;
+ii) le travailleur rencontrait périodiquement l’actionnaire pour discuter des décisions de l’entreprise;
+jj) le travailleur était autorisé à signer les documents relatifs au compte bancaire de l’appelante;
+kk) le travailleur n’a pas signé de prêts à l’entreprise ni de garanties au nom de l’appelante;
+ll) le travailleur n’a pas prêté ni emprunté de l’argent à l’appelante;
+mm) le travailleur avisait l’appelante lorsqu’il devait s’absenter;
+nn) le travailleur était tenu de remplir ses fonctions lui‑même;
+oo) le travailleur exécutait ses fonctions dans les locaux de l’appelante;
+pp) l’appelante fournissait tout le matériel nécessaire, y compris un ordinateur, un téléphone, des bureaux et un lieu de travail;
+qq) l’appelante fournissait au travailleur une carte de crédit de la société devant servir aux dépenses d’emploi;
+rr) l’appelante remboursait au travailleur les dépenses importantes qu’il engageait;
+ss) l’appelante a mentionné que le travailleur était traité différemment des autres employés parce qu’il participait à toutes les décisions et qu’elle ne l’aurait pas remplacé;
+tt) le ministre a tenu compte de tous les faits pertinents qui lui ont été présentés, notamment la rétribution versée, les modalités d’emploi ainsi que la durée, la nature et l’importance du travail accompli;
+uu) le ministre était convaincu qu’il était raisonnable de conclure que le travailleur et l’appelante auraient conclu entre eux un contrat de travail à peu près semblable s’ils n’avaient pas eu de lien de dépendance.
+RÉFÉRENCE :
+2004CCI479
+NOS DES DOSSIERS DE LA COUR :
+2003-3125(EI)
+2003-3126(EI)
+INTITULÉ DE LA CAUSE :
+G&L Distributors Ltd. c. M.R.N.
+Cary Craig c. M.R.N.
+LIEU DE L’AUDIENCE :
+Edmonton (Alberta)
+DATE DE L’AUDIENCE :
+Le 26 mars 2004
+MOTIFS DU JUGEMENT PAR :
+L’honorable J.M. Woods
+DATE DU JUGEMENT :
+Le 29 juin 2004
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Deryk W. Coward
+Avocate de l’intimé :
+Me Dawn Taylor
+AVOCAT(E) INSCRIT(E) AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Deryk W. Coward
+Cabinet :
+D'Arcy & Deacon
+Pour l’intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

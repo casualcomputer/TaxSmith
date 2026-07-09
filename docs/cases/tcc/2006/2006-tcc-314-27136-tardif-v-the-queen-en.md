@@ -1,0 +1,214 @@
+---
+title: "Tardif v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27136/index.do"
+last_modified: "2006-06-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2006 TCC 314"
+citation2: ""
+neutral_citation: "2006 TCC 314"
+decision_date: "2006-06-15"
+language: "en"
+item_id: "27136"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 939
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:00:47.742000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "db8f65abc191e03128e6d9b0cfd973d6c7874330b77678dbf746821195a40ab3"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Tardif v. The Queen
+
+- Citation: 2006 TCC 314
+- Decision date: 2006-06-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 939, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Tardif v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-06-15
+Neutral citation
+2006 TCC 314
+File numbers
+2002-3406(IT)G
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2002-3406(IT)G
+BETWEEN:
+SERGE TARDIF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeals heard on May 18, 2006, at Rivière-du-Loup, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Janie Payette
+____________________________________________________________________
+JUDGMENT
+The appeals from the assessments made under the Income Tax Act for the 1997, 1998 and 1999 taxation years are allowed in part, and the assessments are referred back to the Minister of National Revenue for reconsideration and reassessment on the basis of the Consent to Judgment reducing the taxable benefit for 1997 from $82,687 to $55,687, plus related penalties, and cancelling the interest added to the loans taxed in the appellant's hands under subsection 15(2) of the Act, all in accordance with the attached Reasons for Judgment.
+The respondent is entitled to her costs.
+Signed at Ottawa, Canada, this 15th day of June 2006.
+"François Angers"
+Angers J.
+Translation certified true
+on this 31st day of October 2007.
+Erich Klein, Revisor
+Citation: 2006TCC314
+Date: 20060615
+Docket: 2002-3406(IT)G
+BETWEEN:
+SERGE TARDIF,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The appellant is appealing from reassessments made against him on September 24, 2001. The reassessments pertain to his 1997, 1998 and 1999 taxation years. The Minister of National Revenue ("the Minister") added to the appellant's reported income additional income for each of the taxation years in issue and assessed penalties with respect to the income added as shareholder benefits. The additional income attributed to the appellant can be summarized as follows for each taxation year, with references to the relevant provisions of the Income Tax Act ("the Act"):
+1997
+1998
+1999
+Rental income
+(Hôtel Biencourt Inc.) (subs. 9(1) of the Act)
+$14,400.00
+$14,400.00
+Shareholder benefits
+(subs. 15(1) of the Act)
+$82,687.00
+$28,453.00
+$33,343.00
+Shareholder debt (loans) (subs. 15(2) of the Act)
+$186,429.00
+$94,251.00
+Interest on loans (deemed benefit)
+(subs. 80.4 of the Act)
+$1,755.00
+$2,922.00
+$713.00
+Penalties
+(subs. 163(2) of the Act)
+$9,979.01
+$3,135.69
+$3,479.11
+[2] The respondent notified the appellant and the Court that $27,000 had been added in error as a shareholder benefit for 1997, and thus, the amount of $82,687 has now been changed to $55,687.
+[3] During the taxation years in issue, the appellant was the sole shareholder of Hôtel Biencourt Inc. ("Biencourt"), Les Exploitations Forestières S. Tardif Inc. ("Exploitations Forestières"), Le câble du Haut‑Pays Inc. ("Haut‑Pays") and Télé‑câble St‑Eugène de Ladrière Inc. ("Télé‑câble"). During the taxation year in issue, the appellant was also the majority shareholder of Les Distributions Stec Inc. ("Stec"), a director of a non-profit company called Télécâble 13, a director of the Emballage Unik corporation ("Unik") and a member of the Place Aulmier partnership ("Place Aulmier"). All the amounts added to the appellant's income are from financial transactions between the appellant and these various entities.
+[4] The audit of the appellant and of Biencourt, Exploitations Forestières, Haut‑Pays and Télé‑câble, began in October 2000, and a draft assessment was sent to the appellant on March 8, 2001. The appellant was asked to comment on the draft and provide any other relevant documents. The auditor contacted the appellant's accountants and gave them time to produce evidence on the basis of which she could change the draft assessment. She received certain documents from the appellant on July 16, 2001, but no changes could be made to the draft assessment on the basis of those documents. Accordingly, the file was submitted to the team leader and the disputed reassessments were issued.
+[5] In her testimony, the auditor provided detailed explanations of each heading under which income was added. Thus, for each of the three years in issue she showed the connection between the accounting information contained in the general ledgers of the corporations in question, the financial statements of those corporations, the spreadsheets of the accountants retained by the appellant and the corporations, and the banking transaction history of the appellant's personal account. The auditor was also able to reconcile the spreadsheets with the financial statements and thus to confirm the nature of the advances to the shareholder or director from the way that they were entered in the financial statements of the corporations in question. Except in a few cases, the documentation that she was provided with contained nothing that might show that these were intercompany transactions. Even the appellant's accountants concluded that they were advances to a shareholder. The auditor also explained in detail the tax consequences of the advances or loans to the appellant by his corporations, and the calculation of the interest on these loans.
+[6] All this information is contained in a summary that the respondent adduced in evidence and that contains all the sources of her information as well as the conclusions she drew to complete her audit. The following is a summary of the explanations concerning each of the four additional income headings.
+1 – Taxable benefits under subsection 15(1) of the Act
+[7] The amounts of $55,687, $28,453 and $33,343 represent unreported income of Exploitations Forestières and Biencourt. The funds were deposited into the appellant's personal account at the Caisse populaire de Squatec, folio 3858. On analyzing the deposits, the auditor observed that the accounting method used by the two corporations for deposits and withdrawals was that when such deposits were made, the "advances to shareholder" account of the corporations was debited and the corresponding revenue was credited to the corporations' sales, and when cheques were issued or withdrawals were made from folio 3858 and the amounts paid to the two corporations, the corporations' "advances to shareholder" account was credited and the corresponding expense was debited. However, the auditor noticed that some of the two corporations' deposits were not debited to the "advances to shareholder" account. These deposits were never explained; they can be found in the summary tendered in evidence by the auditor. They are the deposits that the appellant appropriated, that is, those that were not accounted for or credited to the two corporations' "advances to shareholder" account and that are referred to above. It would appear from the deposit slips that the appellant also appropriated some other deposits, and these were never explained.
+2 – Penalties on the aforementioned additional income
+[8] The auditor assessed penalties on the aforementioned amounts on the basis that the proposed adjustments are very large in relation to the income that the appellant reported in each of the years in issue, namely, 214%, 95% and 113% respectively. She maintains that, in light of how much unreported income was involved, the appellant knew or ought to have known that he had not reported all his income in his tax return. She maintains that he was negligent in managing his affairs and in his bookkeeping, and that, given his business experience, he understood the importance of the taxation aspect and, above all, knew that he had to give his accountants all the information necessary to prepare his tax returns.
+[9] The appellant had been audited in 1984 and he was told at the time about the importance of adequate bookkeeping. In the case at bar, his bookkeeping left a good deal to be desired and a number of documents to substantiate transfers from the corporations to his personal account were missing. The auditor doubts that the salary of $313 weekly paid to the appellant would have been sufficient to cover the expenses that he incurred to meet his family obligations. Her conclusion is that he must have used the advances and other benefits obtained from the corporations to fulfil his obligations and financial responsibilities.
+3 – Shareholder debt or loans under subsection 15(2) of the Act for the 1998 and 1999 taxation years
+[10] Under this heading, the auditor added to the appellant's income for the 1998 and 1999 taxation years, in accordance with the provisions of subsection 15(2) of the Act, amounts representing loans from Exploitations Forestières, Télé‑câble and Haut‑Pays or indebtedness to those corporations.
+[11] In the case of Exploitations Forestières, advances totalling $117,052 at August 31, 1998, and $75,368 at August 31, 1999, were established on the basis of Exploitations Forestières's own accounting, as shown in the "advances to shareholder" account in the accounting records. In addition, during its fiscal year ended August 31, 1998, Exploitations Forestières advanced $14,628 to Stec, and the auditor had to attribute this sum to the appellant because he is Stec's majority shareholder and because Stec had never produced any financial statements since its incorporation in 1993. It was therefore impossible to verify whether Stec owed money to Exploitations Forestières. The appellant provided no cheque, bank statement or transfer document that might show that these advances were paid to Exploitations Forestières. The accountant for the appellant and for the corporations entered these advances under "advances to a director" (the director being the appellant) in the financial statements of Exploitations Forestières, which explains why the advances were attributed to the appellant.
+[12] In the case of Haut‑Pays, advances totalling $1,326 at August 31, 1998, and $3,155 at August 31, 1999, were established by the auditor on the basis of Haut‑Pays's books, as shown in the "advances to shareholder" account. Haut‑Pays had also advanced a total of $33,467 at August 31, 1998, and $2,417 at August 31, 1999, to Télécâble 13, and the auditor attributed these advances to the appellant for reasons similar to those given regarding the advances by Exploitations Forestières to Stec described above. The appellant acknowledged and conceded that the advances by Haut‑Pays to Place Aulmier totalling $3,000 at August 31, 1998, were correctly attributed to him by the auditor. Lastly, Haut‑Pays had made to Emballage Unik at August 31, 1998, a $3,000 advance, which the auditor attributed to the appellant for the same reasons as those described above. Moreover, the evidence disclosed that the advances were used to satisfy a judgment against the appellant in his capacity as guarantor of a loan to Emballage Unik by the Caisse populaire Desjardins de St‑Cyprien.
+[13] With respect to the advances by Télé‑câble, the auditor established on the basis of Télé‑câble's own accounting, as shown in the "advances to shareholder" account in the accounting records, that a total of $1,000 in advances was made for each fiscal year ended August 31. As for the advances by Télé‑câble to Télécâble 13 amounting to $2,456 at August 31, 1998, they were attributed to the appellant for the reasons set out above. Télé‑câble also advanced to Place Aulmier amounts of $10,500 at August 31, 1998, and $12,311 at August 31, 1999, which the appellant acknowledges are attributable to him.
+4 – Interest
+[14] The auditor tendered a table setting out the calculation of interest at the prescribed rates under section 80.4 of the Act.
+5 – Rent
+[15] In 1997 and 1998, Biencourt was the lessee of an immovable owned by the appellant. Biencourt's records for the fiscal years ended August 31, 1997, and August 31, 1998, included an adjusting entry showing that the $14,400 in rent was assumed by Biencourt. In computing his income for the two taxation years in question, the appellant did not include the rental income, which explains why the auditor added it to his income. The auditor asked the appellant for explanations in this regard, but he provided none to her, nor did he provide any at the hearing of his appeals.
+[16] According to the auditor, none of the loans or advances described above come within the exclusions in subsections 15(2.2), (2.3), (2.4), (2.5) and (2.6).
+[17] In his testimony, the appellant spoke of his frustration with the accountants that he had retained for his personal purposes and the corporations' for the taxation years in question. In particular, he said that he did not understand how an accountant that he had never met or retained could have prepared and signed the financial statements of his various corporations. However, this frustration sheds no light on the content of the financial statements and on what they reveal, nor do they provide any enlightenment as to the basis for the assessments.
+[18] According to the appellant, the accounting complications began in 1997, when Revenu Québec seized the bank accounts of Biencourt and Exploitations Forestières. The appellant accordingly began to deposit both corporations' revenues into his personal account at the caisse populaire in order to prevent them from being seized, and he used that account to pay both corporations' bills. He claims that all these transactions were accounted for, but says that, according to his accountant, they had to be entered in the books as "advances to shareholder." He tendered a working document for 1997, which shows the nature of the transactions on his personal account as opposed to the corporations' transactions. However, none of this information can be used to rectify or change anything in the audit or to provide explanations regarding the deposits that the auditor was unable to clarify. The appellant did not call as witnesses the accountants who prepared the spreadsheets that were used to prepare the financial statements.
+[19] Apart from the appellant himself, the appellant's secretary was the only person who testified. She explained how she did things, and confirmed that the corporations' revenues were deposited into the appellant's personal account and that their debts were paid out of that account. She asked the appellant's accountants how to make sense of it all, but says she never got an answer. However, she recalls having indicated "advance to shareholder" if she deposited corporate revenue into the appellant's personal account. She basically confirmed the auditor's assertion regarding the manner in which these transactions were accounted for.
+[20] The appellant's evidence as a whole is clearly insufficient to allow me to find on a balance of probabilities that the reassessments in issue are erroneous, except for the change that the respondent acknowledged at the beginning of the hearing. The appellant's explanations and his willingness to explain how he operated are not enough for me to make any change to the additional income. The auditor's work is based on the financial statements, the spreadsheets and the work of the accountants for the appellant and his corporations, and in the absence of this evidence or of an admission that the accounting method used was incorrect, I am unable to change or correct a thing. The appellant is the person most familiar with his case and who is in a position to defend it. His way of doing things leads to consequences that are reflected in the assessments issued against him.
+[21] As for the loans or advances that the auditor attributed to him, the appellant did not establish that they could have been intercompany loans or advances, which it was all the more incumbent upon him to do since his accountants had entered them in the financial statements as advances to a shareholder. However, I cannot allow the interest that the auditor attributed to the appellant under section 80.4 of the Act. Paragraph 80.4(3)(b) states that subsections (1) and (2) do not apply in respect of any loan or debt that that was, as here, included in computing the income of a person under Part I of the Act. For these reasons, the interest thus attributed should not be allowed.
+[22] In my opinion, the respondent has discharged her burden of proof with respect to the penalties. The auditor's assessments of penalties meet the requirements of the Act. The appellant's bookkeeping lacked thoroughness and, in particular, does not enable a distinction to be drawn between his personal affairs and the income of his corporations. He was not unaware that this would have an impact on his income tax returns and could constitute false statements in those returns. In the circumstances of this case, I find that the appellant was not oblivious of the fact that his standard of living was such that he required additional income in the form of benefits from his corporations; consequently, he had to report that income.
+[23] For the foregoing reasons, the appeals are dismissed in part. The assessments are referred back to the Minister for reconsideration and reassessment on the basis of the Consent to Judgment reducing the taxable benefit for 1997 from $82,687 to $55,687, plus related penalties, and cancelling the
+interest added to the loans taxed in the appellant's hands under subsection 15(2) of the Act. The respondent is entitled to her costs.
+Signed at Ottawa, Ontario, this 15th day of June 2006.
+"François Angers"
+Angers J.
+Translation certified true
+on this 31st day of October 2007.
+Erich Klein, Revisor
+CITATION: 2006TCC314
+COURT FILE NO.: 2002-3406(IT)G
+STYLE OF CAUSE: SERGE TARDIF v. THE QUEEN
+PLACE OF HEARING: Rivière-du-Loup, Quebec
+DATE OF HEARING: May 18, 2006
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: June 15, 2006
+APPEARANCES:
+For the Appellant:
+the Appellant himself
+Counsel for the Respondent:
+Janie Payette
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+APPENDIX
+Relevant statutory provisions
+Subsections 15(1) and 15(2)
+(1) Benefit conferred on shareholder — Where at any time in a taxation year a benefit is conferred on a shareholder, or on a person in contemplation of the person becoming a shareholder, by a corporation otherwise than by
+(a) the reduction of the paid-up capital, the redemption, cancellation or acquisition by the corporation of shares of its capital stock or on the winding-up, discontinuance or reorganization of its business, or otherwise by way of a transaction to which section 88 applies,
+(b) the payment of a dividend or a stock dividend,
+(c) conferring, on all owners of common shares of the capital stock of the corporation at that time, a right in respect of each common share, that is identical to every other right conferred at that time in respect of each other such share, to acquire additional shares of the capital stock of the corporation, and, for the purpose of this paragraph,
+(i) where
+(A) the voting rights attached to a particular class of common shares of the capital stock of a corporation differ from the voting rights attached to another class of common shares of the capital stock of the corporation, and
+(B) there are no other differences between the terms and conditions of the classes of shares that could cause the fair market value of a share of the particular class to differ materially from the fair market value of a share of the other class,
+the shares of the particular class shall be deemed to be property that is identical to the shares of the other class, and
+(ii) rights are not considered identical if the cost of acquiring the rights differs, or
+(d) an action described in paragraph 84(1)(c.1), (c.2) or (c.3),
+the amount or value thereof shall, except to the extent that it is deemed by section 84 to be a dividend, be included in computing the income of the shareholder for the year.
+(2) Shareholder debt — Where a person (other than a corporation resident in Canada) or a partnership (other than a partnership each member of which is a corporation resident in Canada) is
+(a) a shareholder of a particular corporation,
+(b) connected with a shareholder of a particular corporation, or
+(c) a member of a partnership, or a beneficiary of a trust, that is a shareholder of a particular corporation
+and the person or partnership has in a taxation year received a loan from or has become indebted to the particular corporation, any other corporation related to the particular corporation or a partnership of which the particular corporation or a corporation related to the particular corporation is a member, the amount of the loan or indebtedness is included in computing the income for the year of the person or partnership.
+Subsection 80.4(1)
+(1) Loans [to employees — deemed interest] — Where a person or partnership receives a loan or otherwise incurs a debt because of or as a consequence of a previous, the current or an intended office or employment of an individual, or because of the services performed or to be performed by a corporation carrying on a personal services business, the individual or corporation, as the case may be, shall be deemed to have received a benefit in a taxation year equal to the amount, if any, by which the total of
+(a) all interest on all such loans and debts computed at the prescribed rate on each such loan and debt for the period in the year during which it was outstanding, and
+(b) the total of all amounts each of which is an amount of interest that was paid or payable in respect of the year on such a loan or debt by
+(i) a person or partnership (in this paragraph referred to as the "employer") that employed or intended to employ the individual,
+(ii) a person (other than the debtor) related to the employer, or
+(iii) a person or partnership to or for whom or which the services were or were to be provided or performed by the corporation or a person (other than the debtor) who does not deal at arm's length with that person or any member of that partnership,
+exceeds the total of
+(c) the amount of interest for the year paid on all such loans and debts not later than 30 days after the end of the year, and
+(d) any portion of the total determined in respect of the year under paragraph (b) that is reimbursed in the year or within 30 days after the end of the year by the debtor to the person or entity who made the payment referred to in that paragraph.
+Paragraph 80.4(3)(b)
+(3) Where ss. (1) and (2) do not apply — Subsections (1) and (2) do not apply in respect of any loan or debt, or any part thereof,
+. . .
+(b) that was included in computing the income of a person or partnership under this Part.
+Subsection 163(2)
+(2) False statements or omissions — Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .

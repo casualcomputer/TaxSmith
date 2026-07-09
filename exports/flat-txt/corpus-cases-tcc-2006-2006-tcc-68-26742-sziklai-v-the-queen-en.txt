@@ -1,0 +1,207 @@
+Title: Sziklai v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26742/index.do
+Corpus path: corpus/cases/tcc/2006/2006-tcc-68-26742-sziklai-v-the-queen-en.md
+Document type: case_law
+Last modified: 2006-04-05
+
+# Sziklai v. The Queen
+
+- Citation: 2006 TCC 68
+- Decision date: 2006-04-05
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3423, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Sziklai v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2006-04-05
+Neutral citation
+2006 TCC 68
+File numbers
+2003-2685(GST)G
+Judges and Taxing Officers
+Joe E. Hershfield
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2003-2685(GST)G
+BETWEEN:
+PETER SZIKLAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Peter Sziklai (2003-2686(IT)G) on December 14, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Richard C. Baker
+Counsel for the Respondent:
+Shawna Cruz
+____________________________________________________________________
+JUDGMENT
+The appeal from the third party assessment made under Part IX of the Excise Tax Act, notice of which is dated October 22, 2002 and bears number 11BU-100380997-001 is allowed, with costs, and the assessment is referred back to the Minister of National Revenue for reconsideration and reassessment for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of April 2006.
+"J.E. Hershfield"
+Hershfield J.
+Docket: 2003-2686(IT)G
+BETWEEN:
+PETER SZIKLAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on common evidence with the appeal of Peter Sziklai (2003-2685(GST)G) on December 14, 2005 at Vancouver, British Columbia
+Before: The Honourable Justice J.E. Hershfield
+Appearances:
+Counsel for the Appellant:
+Richard C. Baker
+Counsel for the Respondent:
+Shawna Cruz
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under subsections 227(10) and 227.1(1) of the Income Tax Act, notice of which is dated October 22, 2002 and bears number 34471 is allowed, with costs, and the assessment is referred back to the Minister for reconsideration and reassessment for the reasons set out in the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 5th day of April 2006.
+"J.E. Hershfield"
+Hershfield J.
+Citation: 2006TCC68
+Date: 20060405
+Dockets: 2003-2685(GST)G
+2003-2686(IT)G
+BETWEEN:
+PETER SZIKLAI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Hershfield J.
+[1] The Appellant has appealed assessments made pursuant to subsection 227(10) and section 227.1 of the Income Tax Act and section 323 of the Excise Tax Act. The assessments concern the Appellant's liability as a director of Baker Street Automotive Ltd. (the "Corporation") for unremitted amounts collected in respect of wages paid (including federal and provincial income tax, Employment Insurance premiums and Canada Pension Plan contributions) and GST collected on taxable supplies made by the Corporation.
+[2] There is no question that the amounts assessed have been correctly calculated, that such amounts were withheld/collected by the Corporation, that such amounts were not remitted as required, that the Respondent has exhausted its remedies against the Corporation and that the Appellant was the sole officer and director and shareholder of the Corporation at all relevant times.
+[3] The amounts assessed in respect of unremitted GST amounts are in respect of the entire 1999 calendar year. Quarterly remittances were required, so the first GST remittance missed was in April 1999. The amounts assessed in respect of the Corporation's liability arising in respect of source deductions include amounts not remitted from September 1999 to December 31, 1999. The amounts assessed include interest and penalties in both cases.
+[4] The Appellant relies solely on subsection 227.1(3) of the Income Tax Act and subsection 323(3) of the Excise Tax Act both of which provide that a director (or a director of a corporation):
+. . . is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.
+[5] The Appellant was the only witness to give evidence at the hearing. He struck me as an honest witness although his apparent lack of sophistication in the business dealings that gave rise to these appeals is a little hard to understand given his educational background. However, I do not believe that he cloaked himself with an unsophisticated aura to better access the due diligence defence. He was not dealing with sophisticated persons in a sophisticated setting. It is not uncommon to maintain loose and poorly drafted arrangements just to keep things simple - without intending that such conduct might impact on one's legal obligations. I like to think that there are still business people who believe in a hand shake, or a letter, to define an arrangement meant to be legally effective. I accept that that was the case here.
+[6] The following is a summary of that part of the Appellant's evidence that provides an overview of the circumstances surrounding the Corporation's failure to make the required remittances:
+· The Appellant has a B.Sc. in Forestry and an M.B.A. degree. He testified that his M.B.A. program did not focus on accounting or finance.
+· Between 1976 and 1981 the Appellant was employed in the forestry industry.
+· As well, between 1977 and 1979, the Appellant and a partner were involved in a hot rod auto racing concern carried on by the Corporation but same was abandoned in 1979.
+· The Appellant enrolled in the M.B.A. program in 1983, about the time that the Corporation commenced its automotive body repair business. The Appellant was the sole director and shareholder at that time and remained so until sometime in 2001 or 2002.
+· The business grew slowly but by 1988 the Corporation employed six to seven workers and in the early 1990s a part-time office worker was added.
+· The business was not particularly successful but sustained itself. Payables were addressed in a 30 to 90 day period and statutory remittances were routinely made on a timely basis. If remittances were late, which happened on a few occasions, penalties and interest were paid as assessed. The Appellant was responsible for the accounting and payment of required remittances until March 1998.
+· In 1995 the Appellant had an opportunity to take over a body shop business in Tsawwassen carried on by a separate corporation (Tsawwassen Collision Ltd.). The Appellant moved to Ladner to operate that body shop.
+· Notwithstanding the new undertaking, the Corporation continued to operate. A Mr. Martin von Holst was hired as operations manager at some point in 1996. He was known to the Appellant as an operations manager of a body shop in New Westminster.
+· The Appellant began spending less time at the Corporation's body shop but still attended at the premises several times a week for short periods. The new operations manager's duties included scheduling work, distributing work load amongst workers, writing estimates, contacting insurance companies and being the front-line person to deal with customers regarding repairs and complaints. The Appellant continued to oversee accounting matters including remittances.
+· The new operations manager proved very competent, honest and trustworthy. The Appellant became very comfortable with Mr. von Holst's demonstrated abilities. After a year or so he demonstrated that he could carry on the business of the Corporation and perhaps realize its potential to grow even though by early 1998 it was still only operating on a marginal basis after Mr. von Holst's $3,500.00 monthly draw.
+· Largely due to his commitment in Tsawwassen, in early 1998 the Appellant decided that he would not continue to operate the Corporation's business and that it would not renew its lease for the premises on which it operated which was due to expire in October 1999. However he thought it was sellable to Mr. von Holst.
+· The Appellant testified that in March of 1998 he entered into an agreement with Mr. von Holst whereby von Holst would operate the business for his own account until the fall of 1999. At that time von Holst would either renew the lease in his name and take legal ownership of the business as a going concern or walk from the arrangement. I will refer to that arrangement as an assignment of the beneficial interest in the business.
+· The terms of the agreement were said to have been in a letter but same could not be found. Further, the Appellant was not very articulate in explaining the fine points or legal subtleties of the arrangement. Nonetheless, I am left with little doubt that they entered into the arrangement with a view that it have legal affect on terms specific enough and sufficiently understood by the parties so as to create binding obligations. The conduct of the parties and a subsequent letter entered in evidence referring to the first letter (which could not be found), supports this conclusion.[1] While the second letter might have been clearer, I am satisfied that the parties understood the arrangement as I have pieced it together from the testimony, the events as they unfolded and the documentary evidence.
+· There was consideration payable and paid for the assignment of the beneficial interest in the Corporation's business and for its ultimate sale if completed. Mr. von Holst agreed to pay the Corporation $3,500.00 a month from March 1998 to October 2000 or a total consideration of approximately $100,000.00. I have had to approximate this total since the first part of the consideration was payable by Mr. von Holst's agreeing to pay down the Corporation's accounts payable which were some $58,000.00 when the payments started. The second variable arises from the fact that the Appellant could not be exact as to when the payments started but both variables would have been known to the parties at the time.
+· The implementation of this arrangement was fairly loose. The Corporation continued as the legal owner of every aspect of the business. It was the employer of all the workers. It was the buyer of all supplies. It operated with the same bank account as it always had. Mr. von Holst was just added as an authorized person to sign at the bank. However, he did run the business for his own account and he was trusted to do so. But for the Appellant's faith in Mr. von Holst's honesty and integrity, this arrangement would have been a perilous one for the Corporation to have engaged in.
+· As a signing officer at the bank, Mr. Von Holst was able to draw monies from the Corporation as compensation for or as profit from operating the business for his own account provided the accounts payable were reduced as per the arrangement and other accounts were provided for. There is no evidence however as to whether he drew funds or contributed funds to maintain his end of the bargain.
+· In any event, as well as taking over the business and essentially taking over much of the Corporation's bank dealings, Mr. von Holst took over the administrative end of the business including ensuring required remittances were being made. This was the case from March 1998 to the end of 1999 when the legal transfer of the business was all but closed.
+· By March 1998 the Appellant had in place a competent staff and reliable accounting software systems that tracked withholding, collection and remittances. Based on regular visits to the Corporation's premises offices, the Appellant could see that these systems were maintained by Mr. von Holst.[2] Indeed the evidence is that the Appellant had made sufficient enquiry to determine that in June 1999 there were no outstanding Employment Insurance or Canada Pension Plan or income tax remittances after well over a year of matters being left in Mr. von Holst's hands.[3]
+· Mr. von Holst ceased making payments under the assignment arrangement at or about the time he assumed the lease in October 1999. The total of those payments exceeded the Corporation's accounts payable (as at the starting date of the assignment) but there was still a $42,000.00 balance of the purchase price owing. That was the total still payable for the 12 months (October 1999 to September 2000) at the agreed $3,500.00 per month.[4] Legal transfer of the business was not completed until January 2000. Mr. von Holst made no payments under the sale arrangement.
+· The Appellant was not aware of any remittance failures until May of 2000 when the Canada Revenue Agency ("CRA") first advised him of the failures by letter to the Corporation directed to his attention. Earlier notices were sent to the Corporation's mailing address in the normal course but due to Mr. von Holst having taken over operations, such notices never came to the Appellant's attention.
+· The first notice of remittance failures from the CRA was on August 11, 1999. It was directed to "Sir or Madam". A second notice addressed again to the Corporation was sent on September 28, 1999 and was directed to "Payroll Manager". That notice indicated that personal contact had been attempted and urged follow-up contact with the CRA. By October 7, 1999 the CRA was in contact with Mr. von Holst and it appeared they stayed in contact with him for some time well into 2000 as he was making payments on account of the Corporation's remittance failures including giving the CRA cheques post-dated as late as October 2000. At some point such cheques were not honoured due to Mr. von Holst's own financial problems but, nonetheless, the evidence supports a finding that after the legal transfer of the business, Mr. Von Holst accepted responsibility for the remittance failures.
+Analysis
+[7] We have here a case of reliance, from March 1998 to December 1999, on a third party adhering to established procedures where experience shows such reliance was justified. There were systems in place to help ensure compliance and excepting one GST remittance failure which was not known to the Appellant, withholding and remittance requirements were complied with from March 1998 until at least the end of July 1999. For 16 consecutive months, during financially marginal times, a trusted, reliable person had seen to the proper payment of statutory remittances as expected by the Appellant. That frames the question in this appeal as posed by the Appellant. In such circumstances, the Appellant argues he should not be liable for remittance failures. Applying the standard of a reasonably prudent person in his circumstances, he was entitled to rely on the proper payment of statutory remittances being made.
+[8] The Respondent argues that applying the standard of a reasonably prudent person in his circumstances, the Appellant, as the sole director of a company that he knew to be in a financially marginal position, should have done more to satisfy himself that required remittances were being made.
+[9] There is considerable authority for the Respondent taking this position. The strongest authority, as a starting point, for this position as it relates to the Appellant is Justice Mogan's decision in Weyand v. R., 2004 G.T.C. 306 (T.C.C.). There he suggested that a sole director is always an inside director who is responsible for the acts of third persons. At paragraph 28, Justice Mogan stated:
+I will consider the Appellant first as an inside director and second as an outside director. When there are two or more directors of a corporation, a particular director may be characterized as "inside" or "outside" depending on the role which that particular director plays in the business affairs of the corporation. When there is only one director of a corporation, and when that person knows that he or she is the only director, that person in my opinion is implicitly an inside director because that person knows that he or she cannot rely on any other individual to bear the responsibilities of a director. Accordingly, I hold that the Appellant was an inside director of Blackberry from and after May 24, 2000. If a sole director (knowing that he or she is the only director) permits some third party to be responsible for corporate management, I would regard the third party as the agent of the sole director, and the conduct of the third party as the conduct of the sole director.
+[10] The inevitable agency of which Justice Mogan speaks is what he infers makes the sole director both an insider and a person liable for remittance failures. With respect, that is a troublesome inference. In Soper v. R.[5] Robertson J.A. described the basis of the distinction between inside and outside directors by saying at paragraph 44:
+... inside directors, meaning those involved in the day-to-day management of the company and who influence the conduct of its business affairs, will have the most difficulty in establishing the due diligence defence. For such individuals, it will be a challenge to argue convincingly that, despite their daily role in corporate management, they lacked business acumen to the extent that that factor should overtake the assumption that they did know, or ought to have known, of both remittance requirements and any problem in this regard. In short, inside directors will face a significant hurdle when arguing that the subjective element of the standard of care should predominate over its objective aspect.
+As to outside directors not involved directly in the operation of the business he observed at paragraphs 52 and 53 that they could:
+... rely on the day-to-day corporate managers to be responsible for the payment of debt obligations such as those owing to Her Majesty ...
+In my view, the positive duty to act arises where a director obtains information, or becomes aware of facts, which might lead one to conclude that there is, or could reasonably be, a potential problem with remittances. Put differently, it is indeed incumbent upon an outside director to take positive steps if he or she knew, or ought to have known, that the corporation could be experiencing a remittance problem.[6]
+[11] By definition then an insider is a person involved in the business. To impute involvement to a person not involved is incompatible with that defining factor. Further, to impute involvement to a sole director, and regard the acts of the person who failed in a duty to be the acts of that director, would mean there is no due diligence defence available to sole directors. That clearly cannot be the case nor, in my view, should Justice Mogan be taken to have meant that as a firm rule in all cases.
+[12] This is not to suggest that the Appellant does not have a standard of care higher than that placed on an outside director. The purpose for identifying "inside" versus "outside" directors is to assist in the determination of what a reasonably prudent person would do in the circumstances. In this context, the issue might be better posed by asking more simply whether the Appellant was, by virtue of his position and involvement, in a position to detect the potential problem and deal with it. This was the approach taken by Justice Bonner in Mariani v. R.[7] At paragraph 19 he observed:
+I cannot agree with the respondent's position. The segregation of directors into inside and outside categories is not undertaken as part of a mechanical process of classification into rigidly defined categories of winners and losers. Rather it is a recognition of the self-evident. Some directors are better situated than others, usually by reason of participation in day-to-day management, to detect the potential for failure and to deal with it and that situation is a relevant circumstance.
+[13] Usually a person in the position to detect and deal with a remittance failure is a person involved in the day-to-day management which is not the case here. Here, the Appellant is not involved in the day-to-day management of the business that gave rise to the remittance failures. The business has been assigned. On the other hand, he still was involved in the affairs of the Corporation. He directed the accountants to prepare financial statements and tended to the filing of annul returns and the preparation and filing of tax returns. He was a signing officer of the Corporation that remained responsible for the obligations incurred in its name by the assignee, Mr. von Holst. The Appellant attended at the premises of the business on a regular basis and had access to the Corporation's mail. He knew the situation and had signing authority at the bank. These factors point to a person who would have a higher standard of care than an "outsider". Further, even if the Appellant is subjected, in the first instance, to a lower standard due to his non-involvement in the day-to-day management of the business, his knowledge of the financial situation of the Corporation imposes a stricter duty on him in any event. In this context he may well be viewed as an insider.
+[14] Even then, however, there is flexibility in the application of tests applicable even to insiders. The standard is reasonableness, not perfection, even in the case of an insider of a marginal company. The question is always the same: "What does the situation prescribe a reasonably prudent person in the Appellant's position to do in the circumstances?" Justice Sharlow of the Federal Court of Appeal commented that the standard is not perfection in Smith v. The Queen[8]:
+[12] The inherent flexibility of the due diligence defence may result in a situation where a higher standard of care is imposed on some directors of a corporation than on others. For example, it may be appropriate to impose a higher standard on an "inside director" (for example, a director with a practice of hands-on management) than an "outside director" (such as a director who has only superficial knowledge of and involvement in the affairs of the corporation).
+[13] That is particularly so if it is established that the outside director reasonably relied on assurances from the inside directors that the corporation's tax remittance obligations were being met. See, for example, Cadrin v. Canada (1998), 240 N.R. 354, [1999] 3 C.T.C. 366, 99 DTC 5079 (F.C.A.).
+[14] In certain circumstances, the fact that a corporation is in financial difficulty, and thus may be subject to a greater risk of default in tax remittances than other corporations, may be a factor that raises the standard of care. For example, a director who is aware of the corporation's financial difficulty and who deliberately decides to finance the corporation's operations with unremitted source deductions may be unable to rely on the due diligence defence (Ruffo v. Canada, 2000 DTC 6317 (F.C.A.)). In every case, however, it is important to bear in mind that the standard is reasonableness, not perfection.
+Considerable tolerance is shown in these remarks. There is even a suggestion that a person who does not benefit from a failure to remit might have better access to the due diligence defence.
+[15] Consider again the Appellant's situation. He has seemingly trusted the Appellant not only with remittances but, indirectly, with his personal financial well-being and reputation. Mr. von Holst, in the name of the Corporation, could do more than fail to make remittances. This might underline the Appellant's trust in Mr. von Holst. On the other hand, the Appellant did regularly frequent the Corporation's business premises and gave no evidence that would defray any suggestion that he may have been more diligent in checking transactions affecting his economic interests than in checking remittances. As well, there was, perhaps, little to lose by not being diligent. But for the assignment, he was closing down the business when the lease expired. Anything left behind after the assignment ended, regardless of whether Mr. von Holst took over the lease and continued payments for the legal transfer of the business, was a bonus. Considering the absence of evidence in respect of these possibilities, the Appellant's apparent trust in Mr. von Holst in respect of his personal interests, does not, in my view, help advance the Appellant's position.
+[16] Nonetheless, I accept the Appellant's evidence that by the end of June 1999, he had satisfied himself that statutory remittance requirements had been complied with. Correspondence corroborates this testimony. While further enquiries in June may have revealed one GST remittance failure, I am satisfied he was mindful of the importance of his determining the status of remittances. Having confirmed to his satisfaction that they were up to date, his trust in the Mr. von Holst would only have been confirmed if not bolstered. But that does not, in the circumstances, obviate the need for more enquiries at some later point. Indeed it underlines the importance of such enquiries. If they were relevant enquiries reasonably made in June, it would seem only reasonable that diligence would require him to peruse those enquiries again at some later point.
+[17] This leads me to consider whether the Appellant should be partially liable for the subject remittance failures; that is, liable at some point after June 1999 but before the end of the year. What is the period of grace, if any, that would reasonably be allowed a prudent person in these circumstances?
+[18] Six months' grace seems excessive in the circumstances. That is, I am not satisfied that the Appellant's trust in Mr. von Holst relieves him of his director's liability for six months after what must have been his last enquiry at the end of June 1999. Trust in a system and a person are one thing, but there was an obvious potential problem brewing in this case and, as noted, directors have a higher standard of care where a company is in financial difficulty.
+[19] Indeed, as noted, by June of 1999 the Appellant was concerned about the financial viability of the business assigned to the Mr. von Holst. His June letter confirms he knew the importance of remittances being made in the context of a business that needed financing. Further, the Appellant testified that from about the time Mr. von Holst took over the lease in October 1999, the Corporation never received any further monies in respect of the consideration payable for either the assignment or the sale of the business. Indeed, the evidence is wanting as to when payments actually stopped. Sooner or later negative inferences become harder to avoid. As well, by the end of September two notices of the remittance failure had been sent to the Corporation's offices. The Appellant had an interest in accessing the Corporation's mail, yet these notices never came to his attention. This shows some lack of diligence on his part, in my view.
+[20] While I place weight on the Appellant's bona fide, and to a point reasonable, reliance on Mr. von Holst's diligence and on Mr. von Holst's recognition that he was the person responsible for and beneficiary of the remittance failures, at some point that reliance and third party acceptance of liability pales in the face of other factors such as those I have considered above. In my view a reasonably prudent person in the same circumstances would, after enquiring in June, have made further enquires well before the end of the year. However, there are no bright lines in cases such as these. Giving the Appellant the benefit of some doubt as to where to draw the line in this case, I find that the Appellant can only rely on the due diligence defence in these appeals in respect of remittance failures prior to the end of September 1999. By that time a reasonably prudent person in the same circumstances, would, in my view, have exercised greater diligence, discovered the remittance failures and made efforts to rectify the situation in respect of remittances payable at the end of September and in the following months.
+[21] Accordingly, the appeals are allowed on that basis, with costs.
+Signed at Ottawa, Canada, this 5th day of April 2006.
+"J.E. Hershfield"
+Hershfield J.
+CITATION:
+2006TCC68
+COURT FILE NO.:
+2003-2685(GST)G
+STYLE OF CAUSE:
+Peter Sziklai and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 14, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+April 5, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Richard C. Baker
+Counsel for the Respondent:
+Shawna Cruz
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+CITATION:
+2006TCC68
+COURT FILE NO.:
+2003-2686(IT)G
+STYLE OF CAUSE:
+Peter Sziklai and
+Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+December 14, 2005
+REASONS FOR JUDGMENT BY:
+The Honourable Justice J.E. Hershfield
+DATE OF JUDGMENT:
+April 5, 2006
+APPEARANCES:
+Counsel for the Appellant:
+Richard C. Baker
+Counsel for the Respondent:
+Shawna Cruz
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent:
+John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] The subsequent letter is an undated letter agreement that the Appellant testified was signed by him and Mr. von Holst in October or November of 1998. It refers to the arrangement made in March 1998.
+[2] That the Appellant regularly went to the Corporation's premises several times a week for short visits was clear from his testimony at least for some period after the assignment. By 1999 the visits may have been less frequent but they were nonetheless regular.
+[3] The evidence is a letter written by the Appellant in June 1999 giving some financial advice to Mr. von Holst. The letter shows the Appellant's knowledge of the company's "frustrating cash problem" and the need to consider an external infusion of cash but also recognizes all remittances as being current. This was true but for one GST remittance requirement having been missed. Financial statements for 1998 showed no failures to remit in prior periods.
+[4] The letter agreement entered in evidence refers to months not dates. However payments from the time of formally assuming the lease in October 1999 to the last payment obligation date in October 2000 is clearly meant to be 12 months.
+[5] [1998] 1 F.C. 124 (F.C.A.).
+[6] In Peoples Department Stores Inc. (Trustee of) v. Wise, [2004] 3 S.C.R. 461, the due diligence defence for director's liability in the Canada Business Corporations Act was found to be an objective test. In Soper the test was said to be a subjective/objective test. The difference is not relevant in this case in my view.
+[7] 2002 G.T.C. 266.
+[8] 2001 DTC 5226.

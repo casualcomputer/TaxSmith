@@ -1,0 +1,81 @@
+Title: Qadir v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29724/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-405-29724-qadir-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-04-13
+
+# Qadir v. The Queen
+
+- Citation: 2007 TCC 405
+- Decision date: 2007-04-13
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6532, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Qadir v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-04-13
+Neutral citation
+2007 TCC 405
+File numbers
+2003-22(IT)G
+Judges and Taxing Officers
+Brent Paris
+Subjects
+Income Tax Act
+Decision Content
+Court File No. 2003-22(IT)G
+2003-2023(IT)G
+TAX COURT OF CANADA
+BETWEEN:
+IRFAN S. QADIR
+Appellant
+- and -
+HER MAJESTY THE QUEEN
+Respondent
+JUDGMENT RENDERED BY HONOURABLE MR. JUSTICE PARIS
+at Courts Administration Service, Room 6B,
+180 Queen Street West, 6th Floor,
+Toronto, Ontario
+on Friday, April 13, 2007 at 2:00 p.m.
+APPEARANCES
+Mr. Thomas McRae for the Appellant
+Ms Marie-Therese Boris for the Respondent
+Ms Jenna Clark
+Also Present:
+Ms Roberta Colombo Court Registrar
+Ms Shirley Sereney Court Reporter
+A.S.A.P. Reporting Services Inc. 8 2007
+200 Elgin Street, Suite 807 130 King Street W., Suite 1800
+Ottawa, Ontario K2P 1L5 Toronto, Ontario M5X 1E3
+(613) 564-2727 (416) 861-8720
+Toronto, Ontario
+--- Upon resuming on Friday, April 13, 2007
+at 2:03 p.m.
+THE REGISTRAR: The Court is now resumed.
+JUSTICE PARIS: The Appellant has brought a motion pursuant to rule 140(2) of the General Procedure Rules for an order setting aside the judgments issued by Chief Justice Bowman on March 13, 2007 dismissing these appeals.
+The appeals were dismissed because no one appeared on behalf of the Appellant at a show cause hearing held on March 7, 2007 and because the Appellant had failed to communicate with the Court by February 1, 2007 to advise of the status of the appeals, as required by a previous Order of the Court dated October 26, 2006.
+Upon learning of the dismissals, counsel for the Appellant brought this motion and filed affidavits of the Appellant and of Mr. Martin O’Brien, who represented the Appellant up until March 7, 2007.
+Mr. O’Brien’s affidavit sets out the circumstances which led to his failure to appear at the show cause hearing, and the affidavit of Mr. Qadir indicates Mr. Qadir’s intention at all times to proceed with his appeals.
+Apparently counsel did not contact the Court by February 1, 2007 as required by the Order dated October 26, 2006 because he was aware that the Respondent's counsel had sent a letter to the Court on that date regarding the status of the appeals, and he believed that this was sufficient to meet the requirement in the Order that the parties contact the Court.
+Mr. O’Brien states in his affidavit that he had no recollection of seeing the Order of the Court requiring the Appellant's attendance at the March 7, 2007 show cause hearing. He also states that he had advised Respondent's counsel in February 2007 that the Appellant wished to proceed with his appeals and that answers to the undertakings arising from the examination for discovery of the Appellant were delivered to the Respondent's counsel on March 2, 2007 prior to the show cause hearing.
+The contents of the affidavit of Mr. O'Brien were not contradicted by the affidavit material filed by on behalf of the Respondent.
+Counsel for the Appellant contends that the affidavit evidence shows that Mr. O’Brien’s failure to contact the Court by February 1, 2007 and to attend at the show cause hearing was due to Mr. O’Brien’s error and was not due to any fault of the Appellant himself and could not be taken as proof of an intention not to proceed.
+Counsel for the Respondent opposed the application to set aside the judgment on the basis that, in addition to counsel's failure to comply with the said Order and to attend the show cause hearing, the Appellant also failed to comply with the Order requiring him to provide answers to undertakings by December 22, 2006. Counsel for the Respondent takes the position that none of these failures to comply with Court Orders is explained in a satisfactory manner in the affidavit evidence presented by the Appellant on the motion.
+Firstly, I do not accept that I ought to take into account in deciding this matter the Appellant's failure to meet the deadline for providing answers to undertakings. Since the undertakings had been answered by the time of the show cause hearing, this ground was not relied upon by Chief Justice Bowman in dismissing the appeals.
+This is not to condone the Appellant's failure, however, and I recognize the frustration of Respondent's counsel in having to deal with the delay.
+Secondly, while I agree with counsel for the Respondent that the explanations of counsel for the failure to contact the Court and to appear at the show cause hearing are short on detail, they were not contradicted and they show that the failures were the result of counsel error. What is material here is that the Appellant himself was not responsible for those failures.
+I accept that the Appellant should not be deprived of his right to proceed with his appeals because of an error or errors of his counsel.
+The principles upon which the Court will set aside a default judgment are set out by Chief Justice Bowman in Farrow v. The Queen, 2003 TCC 885:
+The circumstances under which a court can exercise its discretion to set aside a judgment regularly signed are pretty well settled. The application should be made as soon as possible after the judgment comes to the knowledge of the defendant, but mere delays will not bar the application unless an irreparable injury would be done to the plaintiff or the delay had been wilful … The application should be supported by an affidavit setting out the circumstances under which the default arose and disclosing a defence on the merits. (citing Klein v. Shill, [1921] 2 W.W.R. 78)
+Here the application has been brought without delay, and no allegation of prejudice has been made by the Respondent. Furthermore, the Respondent does not dispute the Appellant's claim that he has an arguable case in each of these appeals.
+Finally, the affidavits set out the circumstances in which the defaults referred to in the judgment arose, and I accept that explanation although I would add that the explanation does not reflect well on counsel who was acting at the time for the Appellant.
+The application is therefore allowed, and the judgments dismissing the appeals are set aside.
+Costs in the motion, fixed in the amount of $1,000, are awarded to the Respondent payable in any event of the cause.
+--- Whereupon the transcript of oral reasons concludes.

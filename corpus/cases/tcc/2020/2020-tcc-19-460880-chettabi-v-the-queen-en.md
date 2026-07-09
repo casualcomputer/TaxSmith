@@ -1,0 +1,228 @@
+---
+title: "Chettabi v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/460880/index.do"
+last_modified: "2020-01-31"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2020 TCC 19"
+citation2: ""
+neutral_citation: "2020 TCC 19"
+decision_date: "2020-01-31"
+language: "en"
+item_id: "460880"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4258
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-07-24T06:11:08.407000+00:00"
+cases_cited_count: 3
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "f6f630dbd1ed5d42f8bda0c79b2747b14a9c446f6e185e158f15d6888d9da53e"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Chettabi v. The Queen
+
+- Citation: 2020 TCC 19
+- Decision date: 2020-01-31
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4258, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Chettabi v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2020-01-31
+Neutral citation
+2020 TCC 19
+File numbers
+2013-337(IT)G
+Judges and Taxing Officers
+Dominique Lafleur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2013-337(IT)G
+BETWEEN:
+MOHAMED CHERIF CHETTABI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeals heard on January 10, 2019, and November 20, 2019,
+at Montreal, Quebec
+Before: The Honourable Justice Dominique Lafleur
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Christina Ham
+JUDGMENT
+(1) Given the concessions made by the Minister of National Revenue (the "Minister") at the start of the hearing, the appeal from the reassessment made under the Income Tax Act (the "Act") for the 2006 taxation year is allowed and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that no additional amount as unexplained deposits needs to be included in Mr. Chettabi's income;
+(2) In accordance with the attached reasons for judgment:
+(a) The appeal from the reassessment made under the Act for the 2007 taxation year and the appeal from the assessment made under the Act for the 2008 taxation year are allowed and the reassessment and assessment are referred back to the Minister for reconsideration and reassessment on the basis that no additional amount as unexplained deposits needs to be included in Mr. Chettabi's income for the 2007 taxation year and that no amount as exchange transactions needs to be included in Mr. Chettabi's income for the 2008 taxation year; and
+(b) The appeal from the assessment made under the Act for the 2009 taxation year is dismissed;
+(3) The whole without costs.
+Signed at Ottawa, Canada, this 31st day of January 2020.
+"Dominique Lafleur"
+Lafleur J.
+Translation certified true
+on this 13th day of May 2021.
+Janine Anderson, Revisor
+Citation: 2020 TCC 19
+Date: 20200131
+Docket: 2013-337(IT)G
+BETWEEN:
+MOHAMED CHERIF CHETTABI,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Lafleur J.
+A- INTRODUCTION
+[1] Mr. Chettabi is appealing the reassessments made by the Minister of National Revenue (the "Minister") under the Income Tax Act (the "Act") for the 2006 and 2007 taxation years, notices of which are dated February 25, 2011, and assessments for the 2008 and 2009 taxation years, notices of which are dated March 3, 2011.
+[2] The Minister reassessed the 2006 and 2007 taxation years using the deposit method; thus, on the basis of an analysis of the various deposits made to Mr. Chettabi's bank accounts, the Minister added $35,002 and $40,514 to Mr. Chettabi's income for the 2006 and 2007 taxation years, respectively, which represented the amounts of the unexplained deposits in his bank accounts.
+[3] The Minister assessed the 2008 and 2009 taxation years without Mr. Chettabi having filed any income tax returns. The Minister added $26,144 and $1,003,273 to Mr. Chettabi's income for the 2008 and 2009 taxation years, respectively, those amounts representing the total amounts exchanged by Mr. Chettabi at various currency exchange offices in those years. According to the Minister, those amounts were from a source of taxable income and, consequently, they constitute taxable income that Mr. Chettabi failed to report. However, no penalty was imposed.
+[4] At the hearing, Mr. Chettabi was not represented by counsel and he did testify. Annie Najm, a team leader with the Canada Revenue Agency ("CRA") and the person in charge of the audit, testified for the respondent.
+[5] In these reasons, all references to statutory provisions are references to the Act.
+B- ISSUES
+[6] At the commencement of the second day of the hearing, after the respondent's evidence was heard, the respondent told the Court that the Minister consented to the Court rendering a judgment that allows Mr. Chettabi's appeal from the reassessment for the 2006 taxation year. The respondent also indicated that the Minister agreed to reduce the unreported income of $40,514 in the reassessment for the 2007 taxation year to $20,514.
+[7] Thus, given the concessions of the Minister, the only issues that the Court must address are whether the amounts of $20,514, $26,144 and $1,003,273 must be added to Mr. Chettabi's income for the 2007, 2008 and 2009 taxation years, respectively.
+C- THE ACT
+[8] The income must be calculated pursuant to section 3, the relevant part of which reads as follows:
+3 The income of a taxpayer for a taxation year for the purposes of this Part is the taxpayer's income for the year determined by the following rules:
+(a) determine the total of all amounts each of which is the taxpayer's income for the year (other than a taxable capital gain from the disposition of a property) from a source inside or outside Canada, including, without restricting the generality of the foregoing, the taxpayer's income for the year from each office, employment, business and property,
+(b) . . .
+D- ANALYSIS
+1- The reassessment for the 2007 taxation year
+1.1 Factual background
+[9] Mr. Chettabi explained that 2006 had been extremely difficult for him because he had been in a serious car accident in October 2005. Following the accident, he received benefits from the Société de l'assurance automobile du Québec ("SAAQ") but had to initiate legal proceedings to obtain those benefits. His employer at the time had paid his salary in the meantime, but after he received the SAAQ benefits, Mr. Chettabi had to pay it back to his employer. In April 2006, he was dismissed. Mr. Chettabi also had fairly significant health issues in the subsequent years and was unable to work.
+[10] According to Mr. Chettabi, some of his friends as well as one of his cousins lent him money in 2006 and 2007 because of his health issues. However, Mr. Chettabi did not submit documents showing that the loans existed.
+[11] Mr. Chettabi testified that his primary bank account is with the Royal Bank of Canada ("RBC") and that he also has bank accounts with Scotia Bank (“Scotia”) and the Caisse populaire Desjardins ("Caisse"). Mr. Chettabi often makes cash withdrawals or withdrawals at the counter so that he can then put money into his other bank accounts. Mr. Chettabi does not use a credit card and pays most of his expenses with cash.
+[12] When the hearing resumed, Mr. Chettabi entered into evidence a table reconciling the amounts deposited to and withdrawn from his various bank accounts during the period at issue (the "Reconciliation Table").
+[13] According to Ms. Najm, the net worth method was not the best audit method in Mr. Chettabi's case because his only asset was a condominium. Ms. Najm therefore decided to conduct the audit by analyzing his bank deposits.
+[14] For her analysis, she subtracted the employment income, the SAAQ benefits, the employment insurance benefits and the GST/QST amounts that Mr. Chettabi received during the period in question. Ms. Najm testified that in doing her calculations she also subtracted from the unexplained deposits amount the corresponding amounts that had been withdrawn the same day or the day before from another bank account. Although she presented her worksheet to Mr. Chettabi in 2010, before the notice of reassessment was sent, no comments were provided by Mr. Chettabi.
+[15] The income tax return filed by Mr. Chettabi for the 2007 taxation year indicated a total income of $22,031.
+1.2 Positions of the parties
+[16] According to Mr. Chettabi, the Reconciliation Table shows that no amount needs to be added to his income because the deposits are all justified by previous withdrawals from one of his various bank accounts.
+[17] According to the respondent, the Reconciliation Table cannot be used to justify the deposit and withdrawal amounts because certain withdrawals from the bank accounts are used to justify deposits made several months later. The Reconciliation Table does not contain any transaction that would normally be completed in the course of everyday life. Furthermore, the Reconciliation Table is not coherent because if this Court accepted it, it would have to be concluded that Mr. Chettabi lives a very simple life with only minimal expenses.
+1.3 Discussion
+[18] For the following reasons, I find that in determining Mr. Chettabi's income for the 2007 taxation year, no amount needs to be added as unexplained deposits in the bank accounts; thus, Mr. Chettabi's appeal is allowed.
+[19] The Act stipulates that the Minister is not bound by a return supplied by a taxpayer and can therefore use an alternative audit method to assess the tax payable (subsection 152(7)). In this case, Ms. Najm used the deposit method, which is a method accepted by the courts.
+[20] In Cantore v. The Queen, 2010 TCC 367 (at paragraph 12), Justice Hogan of this Court described the deposit method as follows:
+The deposit method is based on an analysis of all deposits made in all of the taxpayer's bank accounts. Deposits are assumed by the Minister to constitute taxable revenue. Net income is determined by subtracting transfers of funds among the taxpayer's bank accounts and also borrowings by the taxpayer. The deposit method has been accepted by this Court as an appropriate alternative audit technique.
+[21] However, it is accepted that this method is less reliable than the net worth method.
+[22] In order to succeed, Mr. Chettabi needs to present detailed and convincing testimony, and supporting evidence, where possible, to explain the deposits in his bank accounts. For example, Mr. Chettabi could succeed by establishing, on a balance of probabilities, new facts that the Minister did not take into account or by showing that the Minister's assumptions of fact are wrong.
+[23] Aside from providing evidence to rebut the Minister's assumptions, Mr. Chettabi could also demonstrate that the reassessment is inherently wrong. Justice Bowman (as he then was) provided the following explanation in Bigayan v. The Queen, 1999 CanLII 86 (TCC), [2000] 1 C.T.C. 2229, 2000 DTC 1619 ("Bigayan") (at paragraphs 3 and 4) regarding an assessment made using the net worth method:
+[3] The best method of challenging a net worth assessment is to put forth evidence of what the taxpayer's income actually is. A less satisfactory, but nonetheless acceptable method is described by Cameron J. in Chernenkoff v. Minister of National Revenue, 49 DTC 680, at page 683:
+In the absence of records, the alternative course open to the appellant was to prove that even on a proper and complete "net worth" basis the assessments were wrong.
+[4] This method of challenging a net worth assessment is accepted, but even after the adjustments have been completed one is left with the uneasy feeling that the truth has not been fully uncovered. Tinkering with an inherently flawed and imperfect vehicle is not likely to perfect it. The appellant chose to use the second method.
+[24] These comments from Bigayan also apply in the case of an assessment made based on the deposit method.
+[25] Thus, in addition to assessing the credibility of Mr. Chettabi's testimony and the documents entered into evidence during the hearing, the Court may also consider the overall reasonableness of the assessment made based on the deposit method to decide whether to allow or dismiss the appeal.
+[26] In this case, the evidence showed that, on a balance of probabilities, several deposits considered unexplained in the context of the audit were justified by a withdrawal made the day before or the same day, or even a few days before, from another bank account held by Mr. Chettabi. The concessions made by the Minister at the start of the second day of the hearing mean that the reassessment for 2007 is reduced to $20,514 to take those various transfers into account.
+[27] In addition, Mr. Chettabi was able to establish that $2,861.46, which was considered an unexplained deposit in the context of the audit and added to Mr. Chettabi's income, came from the SAAQ.
+[28] Thus, taking into account the amounts from the SAAQ and other withdrawals that were not conceded by the Minister or, moreover, that were not considered by the auditor to justify the subsequent deposits ($1,000 withdrawn from the Scotia account on May 16, 2007, and $6,000 withdrawn from the Caisse account on May 17, 2007), the unexplained deposits are reduced to $10,653 from $40,514, which is the amount initially assessed by the Minister.
+[29] In light of all of the evidence, I find that Mr. Chettabi established, on a balance of probabilities, that there were significant flaws in the deposit method used by the auditor as the basis for the reassessment.
+[30] First, Ms. Najm justified the use of the deposit method by the fact that Mr. Chettabi owned only one condominium and therefore the net worth method was not appropriate. I note, however, that Mr. Chettabi also held guaranteed investment certificates ("GICs") with the RBC in Canadian dollars (GIC for Can$50,262.67 cashed on July 27, 2006) and in American dollars (GIC for US$21,352.08 cashed on July 13, 2007). Thus, given the aforementioned assets, I question the merits of the reason given to justify the use of the deposit method in Mr. Chettabi's case.
+[31] Although Mr. Chettabi's testimony seemed disjointed and unclear at times, on balance, I find that he was able to demonstrate that his family and friends lent him money after his accident and after he starting experiencing health issues as a result of the accident. Furthermore, the Reconciliation Table submitted by Mr. Chettabi at the hearing reasonably establishes the movement of funds between the bank accounts.
+[32] Consequently, no amount as unexplained deposits in the bank accounts needs to be added when calculating Mr. Chettabi's income for the 2007 taxation year.
+2- Assessments for the 2008 and 2009 taxation years
+2.1 Factual background
+[33] Mr. Chettabi did not file income tax returns with the CRA for the 2008 and 2009 taxation years.
+[34] The Minister made the assessments based on the exchange transactions disclosed to Ms. Najm in response to the requirements she sent to various currency exchange offices. After obtaining the information, Ms. Najm prepared a worksheet with a list of all of Mr. Chettabi's transactions and it was entered into evidence as Exhibit I‑3. All of the exchange transactions listed by the auditor involve Mr. Chettabi changing American currency into Canadian currency, except for a transaction completed on April 10, 2009, by which Mr. Chettabi changed Canadian currency into American currency. The auditor established that Mr. Chettabi, in March and November 2008, completed three transactions totalling $26,144 and in February and March 2009, completed about 40 transactions totalling $1,003,273. It was the amounts of these transactions that were included, as unreported income, in the calculation of Mr. Chettabi's income for the taxation years in question.
+[35] At the hearing, Mr. Chettabi entered into evidence tables indicating the exchange transactions for the years 2008 and 2009, which I will refer to in these reasons as the "Transaction Tables".
+[36] These tables detail the American currency into Canadian currency conversion transactions that were completed at various currency exchange offices in downtown Montreal and that were listed by the auditor, as well as the corresponding Canadian currency into American currency conversion transactions that were subsequently completed the same day at the same currency exchange office on Union Avenue in Montreal (the "Union Office").
+[37] However, Mr. Chettabi was unable to introduce as evidence the statements for the Canadian currency into American currency conversion transactions because, according to Mr. Chettabi's testimony, the clerk at the Union Office, where he converted Canadian currency into American currency, refused to give him the statements. Also, the auditor did not send a requirement to the Union Office because Mr. Chettabi had not provided her with the name of that currency exchange office for the audit. The Union Office has since ceased operations.
+[38] The first Transaction Table, filed as A‑11, is the analysis of the exchange transactions for 2008, which took place in March and November 2008. In addition to describing the three American currency to Canadian currency conversion transactions that the auditor listed, the table also shows three transactions in which the Canadian currency thus obtained was exchanged for American currency at the Union Office. Mr. Chettabi testified that the exchange rates used in that part of the table were approximate, but that he was able to reconstitute the transactions using information recorded in a small notebook that he had kept and notes recorded in his cellular phone.
+[39] According to the table, the gains on exchange were minimal, that is, US$15. The table also shows a transaction in which Canadian currency was converted into American currency for which no statement was entered into evidence and which apparently resulted in a loss of US$1,320. According to the table, at the end of 2008, Mr. Chettabi had US$27,770 in hand.
+[40] The second Transaction Table, filed as A‑16, is the analysis of the exchange transactions for 2009. This table details the 39 transactions in which American currency was converted to Canadian currency that were listed by the auditor and the 39 corresponding transactions in which Canadian currency was converted to American currency that were subsequently completed at the Union Office on the same day as the transaction that converted American currency into Canadian currency. According to the table, the gains on exchange were rather minimal, that is, US$744.
+[41] At the hearing, Mr. Chettabi testified that the sums used in the exchange transactions came from his family, who reportedly helped him financially at certain times in his life, as well as from his own funds. Thus, to demonstrate that he had held the funds in American currency since at least October 2005, he entered into evidence RBC bank statements for the period from October 2005 to February 2006, which indicated a balance of approximately US$20,410 in his American currency bank account. The evidence also showed withdrawals from this account, that is, withdrawals of US$20,000 and US$2,000 on June 13, 2008, and October 9, 2008, respectively, after a GIC was cashed. Also, until June 2008, Mr. Chettabi's RBC Canadian currency bank account showed a balance of $50,308 after a GIC for $57,450 was cashed in March 2008. More specifically, according to Mr. Chettabi, the funds for the first transaction, which was in the amount of US$7,000 and which was completed in March 2008, came from his family. The funds for the transactions completed in November 2008 (US$5,000 and US$10,000) came from his RBC American currency bank account. According to Mr. Chettabi, the amounts used for the exchange transactions in 2009 came from a balance of US$27,770 that remained at the end of 2008, which he reused in whole or in part for the transactions completed in 2009.
+[42] Mr. Chettabi testified that he went from one currency exchange office to the next with a bag filled with bank notes. When the exchange rate on the display in a currency exchange office was favourable, he proceeded with an exchange transaction. He also acknowledged that all of the Canadian currency to American currency conversion transactions were completed at the Union Office because that was the currency exchange office that offered the best rates on Canadian to American currency conversions at that time. Mr. Chettabi testified that the clerk at the Union Office asked for money in exchange for the exchange transactions statements and that he swindled him. However, Mr. Chettabi did not subpoena this person, claiming that such a measure was very costly, although he discovered that this person now has an address in Ontario, in the Toronto region.
+[43] In her testimony, Ms. Najm indicated that she did not know how to conclude the audit. Because she was unable to find transactions by which Canadian currency was changed into American currency, Mr. Chettabi was assessed based on the total amounts that were exchanged at the various currency exchange offices. However, Ms. Najm testified that, although it is plausible that the same sum of money was reused for all of the exchange transactions, since no statement showing the existence of transactions converting Canadian currency to American currency was provided to her, she was unable to reduce the amounts in the assessments.
+2.2 Positions of the parties
+[44] According to Mr. Chettabi, the Transaction Tables accurately reflect the transactions made in the 2008 and 2009 taxation years. Though he did not have the statements for the transactions converting Canadian currency into American currency, he was able to reconstitute the transactions using the notes he kept on his cellular phone and the small notebook in which he recorded transactions. Certain other documents were given to his counsel, who withdrew from the case before the Court, and Mr. Chettabi was unable to get those documents back.
+[45] According to the respondent, the Court should give little or no probative value to the Transaction Tables because Mr. Chettabi did not keep any statements for the transactions converting Canadian currency into American currency. Similarly, the small notebook in which Mr. Chettabi claimed to record his transactions was not entered into evidence at the hearing. In addition, according to the respondent, since the Transaction Tables were never provided to the CRA or even to the respondent before being submitted at the hearing in 2019 and since Mr. Chettabi agreed that they had been prepared by a third party, who did not testify at the hearing, one must question the probative value to be given to them.
+[46] The respondent questions the origin of the US$7,000 used for the first transaction completed in March 2008 when the withdrawals from the RBC American currency account were not made until June of that year.
+[47] Regarding the Union Office, the respondent finds it not credible that Mr. Chettabi would use a single currency exchange office to complete the Canadian currency into American currency conversion transactions when the American currency into Canadian currency conversion transactions were completed at at least four currency exchange offices.
+2.3 Discussion
+[48] For the following reasons, I find:
+(i) that, in computing Mr. Chettabi's income for the 2008 taxation year, no amount must be added as unreported income and, accordingly, Mr. Chettabi's appeal for that year is allowed;
+(ii) that, in computing Mr. Chettabi's income for the 2009 taxation year, an amount of $1,003,273 must be added as taxable income and, accordingly, Mr. Chettabi's appeal for that year is dismissed.
+[49] The audit method used to make the assessments for the 2008 and 2009 taxation years is not the net worth method or the deposit method. The amounts added as unreported taxable income to Mr. Chettabi's income for those years represent the total amount of American currency exchanged by Mr. Chettabi for Canadian currency at various currency exchange offices.
+[50] As indicated above, in order to succeed, Mr. Chettabi must establish, on a balance of probabilities, that the Minister's assessments are incorrect. Thus, he could demonstrate new facts that the Minister did not consider in making the assessments or demonstrate that the assumptions of fact on which the Minister relied in making the assessments are wrong. Mr. Chettabi must provide detailed and convincing testimony, and, where possible, supporting evidence, to explain the origin of the funds used in the exchange transactions and how he completed the various transactions. Aside from providing evidence to rebut the Minister's assumptions, Mr. Chettabi could also show that the assessments are inherently flawed.
+[51] In assessing the credibility of Mr. Chettabi's testimony, I can consider inconsistencies or weaknesses in the evidence, prior inconsistent statements, and the overall sense of the evidence. In Nichols v. The Queen, 2009 TCC 334, Justice Miller aptly summarized the proper approach as follows:
+[22] . . . In considering the evidence adduced, I may believe all, some or none of the evidence of a witness or accept parts of a witness' evidence and reject other parts.
+[23] In assessing credibility I can consider inconsistencies or weaknesses in the evidence of witnesses, including internal inconsistencies (that is, whether the testimony changed while on the stand or from that given at discovery), prior inconsistent statements, and external inconsistencies (that is, whether the evidence of the witness is inconsistent with independent evidence which has been accepted by me). Second, I can assess the attitude and demeanour of the witness. Third, I can assess whether the witness has a motive to fabricate evidence or to mislead this court. Finally, I can consider the overall sense of the evidence. That is, when common sense is applied to the testimony, does it suggest that the evidence is impossible or highly improbable.
+[52] Mr. Chettabi's testimony for those taxation years was also confused and hard to follow because he spoke quickly and jumped from one topic to another, in no particular order. As a result, the credibility of the explanations he provided at the hearing was not easy to establish.
+[53] Mr. Chettabi testified that, for the 2008 taxation year, US$22,075 came from his RBC bank account. The statement for Mr. Chettabi's RBC American currency bank account does show the cashing of a GIC worth US$22,000 and subsequent withdrawals totalling US$22,000 in June and October 2008, that is, before the last exchange transactions that took place in November 2008. The evidence showed that those amounts were not deposited again in that American currency bank account in 2008, nor were they deposited in Mr. Chettabi's other bank accounts at Scotia, RBC or the Caisse. In addition, the bank statements that Mr. Chettabi entered into evidence show that an amount of US$20,397 had been in his RBC American currency bank account since at least October 2005. It therefore seems plausible to me that he used this amount in American currency to complete the exchange transactions that took place in November 2008.
+[54] Regarding the US$7,000 used in March 2008 to complete the first exchange transaction, Mr. Chettabi testified that that amount came from his family, who he alleged helped him financially after his car accident in October 2005. I also note that Mr. Chettabi withdrew Can$10,000 from his RBC bank account on March 20, 2008, which is the same day as the first exchange transaction. On balance, while Mr. Chettabi's testimony was confused and hard to follow, in light of the evidence, the information from the bank statements, and the absence of deposits corresponding to the withdrawals, I find Mr. Chettabi's explanation that this amount came from his family to be reasonable and plausible.
+[55] Therefore, regarding the 2008 taxation year, Mr. Chettabi has succeeded in establishing, on a balance of probabilities, the origin of the funds in American currency that were used to complete the American currency into Canadian currency conversion transactions. On the evidence, I conclude that the amounts used to complete these exchange transactions were amounts that came from Mr. Chettabi's own money, that is, from his American currency bank account in which he had US$22,075, an amount that he held since at least October 2005, and from money that he had received from his family, who apparently lent him money in the years following his 2005 car accident, which resulted in significant and persistent health issues. Therefore, those funds are not from a source of taxable income for the 2008 taxation year, and no amounts should be added to Mr. Chettabi's income for that taxation year.
+[56] According to the 2008 Transaction Table, at the end of that year, Mr. Chettabi reportedly had a total of US$27,770 in hand, that is, the initial amount of US$29,075 to which the gains on exchange of US$15 were added and from which the loss of US$1,320 was subtracted. Mr. Chettabi testified that the amount of US$27,770 was used and reused to complete all of the exchange transactions in the 2009 taxation year. According to the 2009 Transaction Table, a gain on exchange of US$744 was realized on those transactions.
+[57] However, Mr. Chettabi did not convince me that, on a balance of probabilities, exchange transactions were completed to convert Canadian currency into American currency at the Union Office in 2008. Therefore, I am not convinced that Mr. Chettabi had US$27,770 in hand at the end of 2008. I am also not convinced that Mr. Chettabi used the amount of US$27,770 to complete exchange transactions in 2009 by reusing the same funds in these exchange transactions.
+[58] First, no statement for the exchange transactions completed at the Union Office was entered into evidence. Mr. Chettabi claims that the clerk at the Union Office swindled him and asked him for money in exchange for providing the statements for the transactions by which Canadian currency was converted into American currency. This part of Mr. Chettabi's testimony is not plausible and I cannot accept it. During the audit, Mr. Chettabi never told the auditor that he completed all of those Canadian currency to American currency conversion transactions at the Union Office. Furthermore, the Union Office was never mentioned in any meetings with the auditor. According to Mr. Chettabi's testimony, since all of the Canadian currency to American currency conversion transactions—at least around 40 of them—were done at a single currency exchange office, Mr. Chettabi should have recalled the Union Office and told the auditor about it. The fact that Mr. Chettabi made no mention of the Union Office to the auditor makes his testimony not credible in this respect. The only exchange transactions that were identified by the auditor were those by which American currency was converted into Canadian currency.
+[59] Second, Mr. Chettabi testified that the Union Office was the currency exchange office in downtown Montreal that offered the best exchange rates for converting Canadian currency into American currency and that that was why he converted all of his Canadian currency into American currency there. These explanations seem implausible to me because it is unlikely that the same currency exchange office would always offer the best exchange rate day after day over a two-month period. Moreover, the evidence showed that Mr. Chettabi went to several currency exchange offices to convert his American currency into Canadian currency. This element also means that little credibility can be given to Mr. Chettabi's testimony in this regard.
+[60] Furthermore, the way Mr. Chettabi did things seems implausible to me. According to his testimony, when the exchange rates displayed on the exchange boards were favourable, he completed currency conversion transactions. He then went to the Union Office to complete the corresponding inverse transaction, that is, converting the Canadian currency that he had just obtained into American currency and, according to the Transaction Tables, he managed to make a small profit on the exchange transactions. The Transaction Tables showed these corresponding transactions, which occurred on the same day as the initial exchange transactions. Once again, that way of doing things seems implausible to me, and in particular, it seems implausible to me that exchange rates would always be favourable within the same day, in the conversion of such currency into the other currency.
+[61] Furthermore, the Transaction Tables for 2008 and 2009 were likely prepared during 2019 from information that was kept in a notebook that was not submitted into evidence or from notes recorded in Mr. Chettabi's cellular phone. The notice of appeal in this case was, however, filed with the Court in 2013. It is surprising, even if consideration is given to Mr. Chettabi's particular circumstances (the accident and the change of counsel), that so much time passed before such tables were prepared and submitted to the respondent. In light of the foregoing, and given that the Transaction Tables were prepared by a third party who did not testify at the trial, I cannot give probative value to those tables.
+[62] Lastly, the lack of credibility of Mr. Chettabi's testimony is also proven by certain changes in his version of the facts regarding where the funds in American and Canadian currency came from. During the audit, he told Ms. Najm that the American money was not all his because he sometimes completed exchange transactions for friends who were leaving on or returning from a trip. After that, Mr. Chettabi reportedly told Ms. Najm that it was his own money. In argument, Mr. Chettabi also stated that some of his friends did not want to deal with the banks to get money in American currency so they did business with him to do that. He also stated that people sometimes brought American currency back from abroad, which he converted into Canadian currency.
+E- CONCLUSION
+[63] Given the concessions made by the Minister at the start of the hearing, the appeal from the reassessment made under the Act for the 2006 taxation year is allowed and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that no additional amount as unexplained deposits needs to be included in Mr. Chettabi's income.
+[64] For the reasons stated above, the appeal from the reassessment made under the Act for the 2007 taxation year is allowed and the reassessment is referred back to the Minister for reconsideration and reassessment on the basis that no additional amount as unexplained deposits needs to be included in Mr. Chettabi's income.
+[65] For the reasons stated above, the appeal from the assessment made under the Act for the 2008 taxation year is allowed and the assessment is referred back to the Minister for reconsideration and reassessment on the basis that no amount representing exchange transactions needs to be included in Mr. Chettabi's income.
+[66] For the reasons stated above, the appeal from the assessment made under the Act for the 2009 taxation year is dismissed.
+[67] No costs are awarded.
+Signed at Ottawa, Canada, this 31st day of January 2020.
+"Dominique Lafleur"
+Lafleur J.
+Translation certified true
+on this 13th day of May 2021.
+Janine Anderson, Revisor
+CITATION:
+2020 TCC 19
+COURT FILE NO.:
+2013-337(IT)G
+STYLE OF CAUSE:
+MOHAMED CHERIF CHETTABI
+v. HER MAJESTY THE QUEEN
+PLACE OF HEARING:
+Montreal, Quebec
+DATE OF HEARING:
+January 10, 2019, and November 20, 2019
+REASONS FOR JUDGMENTBY:
+The Honourable Justice Dominique Lafleur
+DATE OF JUDGMENT:
+January 31, 2020
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Christina Ham
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+[BLANK]
+Firm:
+[BLANK]
+For the respondent:
+Nathalie G. Drouin
+Deputy Attorney General of Canada
+Ottawa, Canada

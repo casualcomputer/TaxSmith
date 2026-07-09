@@ -1,0 +1,389 @@
+---
+title: "Spruce Credit Union c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30984/index.do"
+last_modified: "2012-10-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2012 CCI 357"
+citation2: ""
+neutral_citation: "2012 CCI 357"
+decision_date: "2012-10-15"
+language: "fr"
+item_id: "30984"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4803
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T14:21:19.359000+00:00"
+cases_cited_count: 9
+cases_citing_count: 4
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "583afe9009c53ac3242bb647d64241074d45a1c540477fc4572f243d01b55e63"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Spruce Credit Union c. La Reine
+
+- Citation: 2012 CCI 357
+- Decision date: 2012-10-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4803, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Spruce Credit Union c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2012-10-15
+Référence neutre
+2012 CCI 357
+Numéro de dossier
+2009-3121(IT)G
+Juges et Officiers taxateurs
+Patrick J. Boyle
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2009-3121(IT)G
+ENTRE :
+SPRUCE CREDIT UNION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu les 14, 15, 16 et 17 juin 2011 à Vancouver (Colombie-Britannique)
+Devant : L’honorable juge Patrick Boyle
+Comparutions :
+Avocats de l’appelante :
+Me Peter L. Rubin
+Me Robert Alan Kopstein
+Me Edward Rowe
+Me Luke W. Mlynarczyk
+Avocats de l’intimée :
+Me Robert Carvalho
+Me Bruce Senkpiel
+Me David Everett
+JUGEMENT
+L’appel relatif à la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2005 de l’appelante est accueilli, avec dépens, conformément aux motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 15e jour d’octobre 2012.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 28e jour de février 2013.
+Mario Lagacé, jurilinguiste
+Référence : 2012 CCI 357
+Date : 20121015
+Dossier : 2009‑3121(IT)G
+ENTRE :
+SPRUCE CREDIT UNION,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Boyle
+[1] L’appelante dont il est question en l’espèce est une caisse de crédit de la Colombie-Britannique. Une quarantaine d’autres caisses de crédit de la Colombie-Britannique ayant interjeté appel ou fait opposition ont convenu d’être liées par l’issue de la présente cause type. Dans l’année en question, on comptait 54 caisses de crédit en Colombie-Britannique.
+I. Les questions à trancher [2] Il y a deux questions à trancher en l’espèce. La première consiste à savoir si un dividende que l’appelante a reçu d’une compagnie d’assurance-dépôts de la Colombie-Britannique est déductible à titre de dividende intersociétés en vertu de l’article 112 de la Loi de l’impôt sur le revenu (la « Loi »). L’intimée est d’avis que le montant, même s’il a été déclaré et payé à titre de dividende, n’est pas déductible en vertu de l’article 112 du fait de l’article 137.1 de la Loi. Cette position découle du fait que, d’une part, les montants de dividende ont été payés aux caisses de crédit à titre d’allocations proportionnelles aux cotisations que la compagnie d’assurance-dépôts a reçues des caisses de crédit, et ils devaient être inclus dans les revenus de ces dernières en application de l’alinéa 137.1(10)a), et, d’autre part, l’article 137.1 constitue un code complet à l’égard de ces montants et il n’autorise pas à en faire ensuite la déduction.
+[3] La seconde question, subsidiaire celle-là, consiste à savoir si la disposition générale anti-évitement (la « DGAE ») visée à l’article 245 s’applique aux opérations ayant donné lieu à la réception du dividende. Selon l’intimée, dans la mesure où le montant du dividende était aussi un montant décrit à l’alinéa 137.1(10)a), la DGAE s’applique et les montants de dividende devraient être requalifiés, conformément à la DGAE, en tant que remboursement de primes à inclure dans le revenu de l’appelante en vertu du paragraphe 137.1(10) de la Loi, de façon à ne pas être un dividende, et à ne pas être déductibles par la suite.
+II. La réglementation des caisses de crédit de la Colombie-Britannique [4] Dans les années en question, la réglementation des caisses de crédit de la Colombie-Britannique était principalement régie par la Financial Institutions Act de la Colombie-Britannique (la « FIA »), et le principal organisme de réglementation était la Financial Institutions Commission (la « Commission »), un organisme du gouvernement de la Colombie-Britannique.
+[5] Depuis 1989, la réglementation des caisses de crédit de la Colombie-Britannique était l’affaire de deux compagnies d’assurance-dépôts : la Credit Union Deposit Insurance Corporation (la « CUDIC ») et la Stabilization Central Credit Union of British Columbia (la « STAB »). Nul ne conteste qu’elles étaient toutes deux des compagnies d’assurance-dépôts pour l’application de la Loi.
+A. La CUDIC [6] La CUDIC est une société canadienne imposable contrôlée et exploitée par la Commission, et elle est une branche du gouvernement de la Colombie-Britannique. Elle a pour responsabilité de protéger les consommateurs contre les pertes qu’ils pourraient subir à l’égard de leurs dépôts et de leurs actions non participatives. La FIA exige que la CUDIC tienne un fonds d’assurance-dépôts garantissant les dépôts et les actions non participatives jusqu’à hauteur de limites prescrites. Conformément à la FIA, chaque membre de la Commission est également un administrateur de la CUDIC, et les seuls membres de cette dernière sont ses administrateurs.
+[7] La CUDIC était principalement financée par les cotisations que lui versaient les caisses de crédit de la Colombie-Britannique. Aux termes de l’article 9 et du paragraphe 137.1(11) de la Loi, les caisses de crédit pouvaient déduire les cotisations qu’elles versaient à la CUDIC, et les montants n’étaient pas imposables entre les mains de la CUDIC en vertu du paragraphe 137.1(2). Les cotisations de la CUDIC étaient perçues de temps à autre en fonction de la taille des comptes de dépôt tenus et des actions non participatives émises par chaque caisse de crédit. En date du 31 décembre 2003, la CUDIC avait accumulé un fonds d’assurance-dépôts représentant environ 44 points de base (0,44 %) du total des comptes de dépôt et des actions non participatives des caisses de crédit.
+B. La STAB [8] La STAB est une société canadienne imposable. Il s’agit d’une caisse de crédit centrale assujettie à la Credit Union Incorporation Act de la Colombie-Britannique. Aux termes de la FIA, la STAB est l’organisme de stabilisation désigné et elle est tenue de superviser les caisses de crédit, une tâche que lui délègue la Commission. Chaque caisse de crédit de la Colombie-Britannique doit être membre de la STAB et détenir les actions de catégorie A que détermine le conseil d’administration de la STAB. En 2005, 54 caisses de crédit de la Colombie-Britannique, dont l’appelante, étaient membres et actionnaires de cet organisme.
+[9] La STAB était également financée par des cotisations que lui versaient les caisses de crédit de la Colombie-Britannique, et ces cotisations étaient perçues en fonction de la taille de l’actif de chaque caisse de crédit. Ces paiements de prime étaient également déductibles par les caisses de crédit en vertu de l’article 9 et du paragraphe 137.1(11) et exclus du revenu de la STAB conformément au paragraphe 137.1(2). Entre 1989, l’année de son établissement, et la fin de 2002, la STAB avait perçu des primes cumulatives de 82 900 000 $ auprès des caisses de crédit de la Colombie-Britannique, dont la somme de 205 000 $ payée par l’appelante, la Spruce Credit Union. La part proportionnelle des cotisations annuelles de la STAB que supportait chaque caisse de crédit changeait chaque année en fonction du rendement relatif et de la consolidation du secteur.
+[10] En 2003, le fonds de protection des dépôts de la STAB était d’environ 108 000 000 $.
+[11] De temps à autre, la STAB rééquilibrait les actions que détenaient ses membres afin de refléter la taille relative de ces derniers à ce moment-là.
+C. La responsabilité partagée à l’égard du fonds de l’assurance-dépôts et du fonds de protection des dépôts [12] Aux termes de la FIA, la CUDIC assumait seule la responsabilité de la tenue du fonds d’assurance-dépôts. Ce fonds devait servir à garantir le montant des dépôts et des actions non participatives jusqu’à hauteur de limites prescrites en cas de défaillance ou de défaut d’une caisse de crédit.
+[13] La responsabilité légale de la STAB consistait à maintenir la stabilité des caisses de crédit de la Colombie-Britannique, c’est-à-dire d’éviter les retraits massifs, les défaillances ou les défauts. Les mesures de stabilisation peuvent revêtir la forme d’injection de fonds à une caisse de crédit en difficulté. Manifestement, la stabilisation fructueuse d’une caisse de crédit évite d’avoir à faire des paiements qui couvrent les dépôts garantis. C’est la raison pour laquelle la STAB a souvent décrit sa responsabilité et ses activités comme une fonction de protection de dépôts et non d’assurance-dépôts.
+[14] Avant 2005, la STAB a rarement eu besoin de prendre des mesures de stabilisation. Depuis l’établissement de la STAB, aucune caisse de crédit n’avait fait défaut en Colombie-Britannique et il n’y avait donc eu aucun paiement à des déposants assurés.
+[15] À la fin de chaque exercice, les revenus de la STAB tirés des cotisations et des investissements, moins le total de ses frais d’exploitation, de l’aide financière avancée aux caisses de crédit et de ses impôts étaient inclus dans ses bénéfices non répartis. Sur le plan pratique, le fonds de protection des dépôts de la STAB était constaté dans ses bénéfices non répartis.
+[16] Au su et avec la bénédiction de la Commission, entre 1989 et 2005 le fonds d’assurance-dépôts prévu par la loi a été tenu en partie par la CUDIC et en partie par la STAB, et celles‑ci ont toutes deux perçu des cotisations connexes. Une entente conclue en 1991 a fixé le fonds total visé à 55 points de base des dépôts et des actions non participatives des caisses de crédit, et a précisé que le fonds devait être détenu à parts égales par la CUDIC et par la STAB. Les cotisations annuelles de la STAB et de la CUDIC ont fait l’objet de discussions et ont été coordonnées entre les deux. Dans certaines années, seule la CUDIC percevait des cotisations, et non la STAB; dans d’autres années, la CUDIC et la STAB percevaient toutes deux des cotisations auprès des caisses de crédit de la Colombie-Britannique. La STAB n’a jamais fait de cotisations inutiles.
+[17] Durant toute cette période était en vigueur une convention de protection des dépôts (garantie parfois par une convention de garantie ou une lettre de crédit générale) dans le cadre de laquelle la STAB s’était engagée à mettre une partie de son fonds de protection des dépôts à la disposition de la CUDIC au cas où celle-ci aurait besoin de regarnir son fonds d’assurance-dépôts.
+III. L’examen réglementaire de la taille et de la propriété du fonds d’assurance-dépôts [18] Cette responsabilité/détention/propriété conjointe du fonds d’assurance-dépôts et du fonds de protection des dépôts s’est poursuivie sans problème jusqu’en 2000. À ce moment-là, à la suite d’un changement parmi les cadres supérieurs de la Commission, des discussions ont eu lieu entre cette dernière, la CUDIC et la STAB au sujet du montant approprié du fonds d’assurance-dépôts total et de la nécessité que la CUDIC détienne directement la totalité du fonds d’assurance-dépôts. Un comité mixte a été créé en vue de régler les préoccupations qu’avaient en 2000 la Credit Union Central of BC, la CUDIC et la STAB. (La Credit Union Central faisait office d’institution bancaire centrale et de chambre de compensation, etc. Elle était membre de la STAB, et elle ne payait pas de cotisations à la STAB ou à la CUDIC.)
+[19] La Commission, à la suite des consultations d’usage, de rapports de consultation et de son propre examen, a décidé en 2003 qu’il fallait que la CUDIC exerce un contrôle exclusif sur un fonds de 85 points de base (0,85 %) de façon à satisfaire à ses obligations légales en matière de protection de dépôts. La CUDIC a fait part de cette décision à la STAB.
+[20] Pour financer le fonds d’assurance-dépôts de 85 points de base de la CUDIC que la Commission avait prescrit, soit près du double du montant du fonds dont la CUDIC disposait à ce moment-là, il a été reconnu que, d’un point de vue pratique, il était obligatoire et nécessaire que le solde découle en quelque sorte d’une forme quelconque de transfert des fonds de protection des dépôts détenus jusque-là par la STAB et promis à la CUDIC en vue de soutenir, en cas de besoin, ses obligations légales en matière d’assurance-dépôts. Il n’y avait pas d’autres sources d’où tirer les fonds nécessaires pour faire passer la taille du fonds d’assurance-dépôts de la CUDIC au niveau que la Commission venait de fixer. Compte tenu de l’engagement donné ainsi que des ententes et des motifs antérieurs concernant les cotisations de la STAB et le fonds de protection des dépôts de la STAB, cette dernière n’aurait pas besoin de cette partie-là de ses fonds une fois que la CUDIC aurait augmenté son fonds d’assurance-dépôts d’un montant équivalent.
+[21] Il fallait que les fonds soient transférés directement ou indirectement de la STAB à la CUDIC. La CUDIC n’exerçait aucun contrôle sur la STAB et, à part l’engagement de celle‑ci, elle n’avait aucun droit légitime relatif aux éléments d’actif de la STAB. La CUDIC n’était ni actionnaire ni membre de la STAB et celle-ci n’était pas obligée ou capable de transférer ses éléments d’actif à la CUDIC, sauf dans le contexte de l’engagement donné ou moyennant contrepartie. La CUDIC n’était pas habilitée à percevoir des primes auprès de la STAB, mais elle avait toutefois le pouvoir de percevoir directement des cotisations auprès des membres de la STAB – les caisses de crédit de la Colombie-Britannique.
+[22] Dans ce contexte, la Commission, la CUDIC, la STAB et le comité mixte ont étudié diverses options en vue d’obtenir le résultat prescrit par le gouvernement. Il a été envisagé de transférer directement des fonds de la STAB à la CUDIC. Un tel paiement était impossible à justifier, puisqu’il n’y avait entre elles pas d’actions détenues et pas d’obligations. La levée de l’obligation d’engagement ne pouvait pas justifier un transfert de 100 % du montant visé par l’engagement compte tenu de la probabilité historiquement faible que l’on s’en prévale un jour. La CUDIC n’exerçait sur la STAB aucun contrôle qui lui aurait permis d’exiger qu’elle lui transfère les fonds. La CUDIC n’avait aucun pouvoir légal d’imposer une cotisation à la STAB.
+[23] Vraisemblablement, un transfert direct aurait pu être fait avec l’accord de toutes les parties intéressées, dont la CUDIC et ses membres ainsi que la STAB et ses membres. Vraisemblablement aussi, le gouvernement de la Colombie-Britannique aurait pu également présenter un projet de loi en vue d’atteindre ce résultat.
+[24] Le résultat fiscal d’un transfert direct aurait été des plus vagues ou insatisfaisants. La STAB n’aurait pas pu déduire le montant transféré. Cependant, ce montant aurait apparemment été un revenu entre les mains de la CUDIC, et ce fait a été confirmé à l’époque par l’Agence du revenu du Canada (l’« ARC ») et corroboré implicitement par le fait que le ministère des Finances avait proposé d’apporter des modifications à la Loi (lesquelles n’ont jamais été adoptées) afin de permettre que certains transferts directs entre sociétés d’assurance-dépôts soient exempts d’impôt.
+[25] La CUDIC avait le pouvoir légal - et, pourrait-on dire, l’obligation - d’imposer d’autres cotisations aux caisses de crédit de la Colombie-Britannique. Pour aider ces dernières à financer les cotisations additionnelles de la CUDIC, la STAB pouvait décider, voire être tenue par ses membres, de procéder à une distribution en faveur de ses caisses de crédit membres. Elle avait le pouvoir et la capacité d’effectuer de telles distributions par voie de dividendes ou par voie de remboursements de primes à ses membres. Des facteurs différents limitaient le montant de dividendes qu’il était possible de distribuer à une caisse de crédit membre, ainsi que le montant qui pouvait être remis à titre de remboursement de prime. Il est peu clair et peu probable que la STAB disposait d’autres moyens de distribuer des fonds aux membres.
+[26] Ce sont là les deux principales méthodes qui ont été envisagées.
+IV. Le changement réglementaire prescrit par l’organisme de réglementation de la Colombie-Britannique [27] Il ressort clairement de la preuve que la STAB, dont les actionnaires membres étaient les caisses de crédit, n’était pas d’accord avec la position de la CUDIC selon laquelle celle-ci devait avoir la garde et le contrôle exclusifs d’un fonds d’assurance-dépôts de 85 points de base. Les rapports entre la CUDIC et la STAB se sont détériorés après 2001, et le comité mixte n’est nullement parvenu à produire un rapport final accepté ou entériné par les trois parties.
+[28] La STAB n’a jamais été en faveur de la proposition de la CUDIC et elle s’y est fortement opposée. L’un des résultats évidents de cette proposition était qu’elle priverait concrètement de plusieurs dizaines de millions de dollars la STAB, qui appartenait aux caisses de crédit, et que ces fonds appartiendraient par la suite au gouvernement provincial, à l’égard duquel les caisses de crédit n’avaient aucun droit, contrôle ou intérêt financier.
+[29] En fin de compte, la STAB a capitulé face à la réalité, à savoir que la CUDIC exercerait son pouvoir légal pour percevoir par voie de cotisation auprès des caisses de crédit le montant qu’elle voulait obtenir. Les caisses de crédit seraient tenues par la loi de payer ces cotisations. D’un point de vue pratique, si rien d’autre n’était fait, le montant total du fonds de protection des dépôts et du fonds d’assurance-dépôts serait nettement supérieur à ce qui, tous en convenaient, était raisonnablement nécessaire, et cet excédent proviendrait des fonds d’exploitation des caisses de crédit. La STAB a donc commencé à examiner comment elle pourrait réduire son fonds de protection des dépôts d’un montant approprié et correspondant et avancer cet argent aux caisses de crédit afin de les aider le mieux possible à payer les nouvelles cotisations qu’allait percevoir la CUDIC. Cette dernière était disposée à retarder quelque peu ses cotisations, jusqu’à ce que la STAB puisse déterminer la meilleure façon de procéder.
+[30] Il n’y avait manifestement pas d’autre raison pour transférer, directement ou indirectement, à la CUDIC une partie des fonds d’assurance-dépôts de la STAB, à part les exigences de la législation de la Colombie-Britannique, telles que la Commission les interprétait et les appliquait.
+V. Les opérations effectuées en vue de se conformer au changement réglementaire prescrit par le gouvernement de la Colombie-Britannique [31] En 2005, la CUDIC détenait un fonds d’assurance-dépôts d’environ 110 millions de dollars. Cette année-là, les éléments d’actif de la STAB qui constituaient son fonds de protection des dépôts étaient d’environ 110 millions de dollars. En fin de compte, la CUDIC a résolu d’accroître son fonds d’assurance-dépôts en percevant une cotisation auprès des caisses de crédit. À l’évidence, elle savait que les caisses de crédit allaient devoir financer d’une certaine façon la nouvelle cotisation à l’aide de montants qu’elles recevraient de la STAB. Sans cela, les fonds combinés allaient excéder le montant nécessaire, et ce, à un prix inutile et considérable pour les caisses de crédit, et il se pouvait que cela mette certaines d’entre elles dans une situation financière difficile.
+[32] Le conseil d’administration de la CUDIC a adopté une résolution le 8 septembre 2005 en vue de percevoir auprès de ses membres des primes d’assurance-dépôts d’un montant équivalant à 28 ou 29 points de base du total des dépôts. L’appelante s’est vu imposer une cotisation de 198 859 $. La cotisation totale s’élevait à 83 131 608 $.
+[33] Le conseil d’administration de la STAB a déclaré le paiement de deux dividendes à ses actionnaires le 21 septembre 2005. Cela a été fait de façon tout à fait indépendante de la CUDIC et de la Commission, et sans les consulter. Le premier dividende a été d’un montant de 1 047,43 $ par action, payable le 31 octobre 2005. Le second dividende a été d’un montant de 1 526,21 $ par action, payable le 7 novembre 2005. Pour l’appelante, la part du premier dividende a été de 78 557 $ et celle du second de 114 466 $, soit 193 023 $ en tout. Le montant total des dividendes que la STAB a payé à ses actionnaires a été de 83 131 145 $, soit 33 833 036 $ dans le cas du premier dividende (appelé le « dividende A ») et 49 298 109 $ dans le cas du second (appelé le « dividende B »).
+[34] La raison pour laquelle le montant a été scindé en deux (les dividendes A et B) découlait du fait que la Direction des décisions et le Comité de la DGAE de l’ARC avaient indiqué qu’un dividende qui reflétait le total du revenu de placement accumulé de la STAB ne susciterait pas de préoccupations sur le plan technique ou du point de vue de la DGAE. La STAB a donc décidé de scinder le montant de la distribution de dividendes en deux (les dividendes A et B) en fonction du rapport entre le total de son revenu de placement cumulatif et le total de son revenu de cotisation cumulatif. Le premier est devenu le dividende A et le second, le dividende B. La STAB a procédé ainsi pour établir avec le plus de certitude possible les conséquences fiscales du dividende A et pour permettre à chacun de ses membres de décider de quelle façon déclarer son revenu du dividende B sur le plan fiscal.
+[35] L’appelante a inclus le montant des dividendes reçus de la STAB dans son revenu de 2005. Elle a déduit ce montant dans le calcul de son revenu imposable de 2005 conformément à l’article 112 de la Loi.
+VI. Les témoins [36] Le principal témoin important a été M. Corsbie, comptable agréé. Ce dernier connaissait très bien la réglementation relative aux caisses de crédit de la Colombie-Britannique. Il a exercé à son compte durant une dizaine d’années jusqu’au milieu des années 1980, et il a participé aux vérifications de caisses de crédit, de la Credit Union Central et du Credit Union Reserve Board. Il a aussi travaillé avec des caisses de crédit en difficulté financière. Il a exercé les fonctions d’agent de supervision à la CUDIC à partir de 1986, jusqu’à ce que celle-ci passe dans le giron de la Commission en 1990. À la CUDIC, il a été chargé d’un portefeuille de caisses de crédit placées sous supervision réglementaire, habituellement à cause de difficultés financières. De 1990 à 1998, il a exercé les fonctions de surintendant adjoint des caisses de crédit auprès de la Commission. En 1998, M. Corsbie est devenu chef de la direction de la STAB, un poste qu’il a occupé jusqu’en 2006. M. Corsbie a été un témoin tout à fait informé et digne de foi, dont je retiens le témoignage sans aucune hésitation.
+[37] Le seul autre témoin a été le directeur général de l’appelante, la Spruce Credit Union. Le poste de directeur général est le poste le plus élevé dans la hiérarchie de cette caisse de crédit. Il s’est joint à cette dernière à titre de directeur général en mars 2005 et n’a pris connaissance des dividendes de la STAB qu’en octobre 2005. Son témoignage a été lui aussi tout à fait clair, digne de foi et solide.
+VII. Le droit applicable et l’analyse A. Le fond : les articles 112 et 137.1 de la Loi [38] Les passages applicables du paragraphe 112(1) de la Loi sont les suivants :
+(1) Lorsqu’une société a reçu, au cours d’une année d’imposition, un dividende imposable :
+a) soit d’une société canadienne imposable;
+[…]
+une somme égale au dividende peut être déduite du revenu pour l’année de la société qui le reçoit, dans le calcul de son revenu imposable.
+(1) Where a corporation in a taxation year has received a taxable dividend from
+(a) a taxable Canadian corporation,
+…
+an amount equal to the dividend may be deducted from the income of the receiving corporation for the year for the purpose of computing its taxable income.
+[39] Un « dividende imposable » est défini au paragraphe 89(1) de la Loi :
+« dividende imposable »
+“taxable dividend”
+« dividende imposable » Dividende autre :
+a) [non applicable]
+b) [non applicable]
+“taxable dividend”
+« dividende imposable »
+“taxable dividend” means a dividend other than
+(a) [not applicable]
+(b) [not applicable]
+[40] La section F de la Loi est intitulée « Règles spéciales applicables en certains cas » et l’article 137.1 en fait partie. Les articles 137 et 137.1 sont précédés de la rubrique « Caisses de crédit, caisses d’épargne et de crédit et compagnies d’assurance-dépôts ». Les passages applicables de l’article 137.1 sont les suivants :
+137.1 (1) Pour le calcul du revenu d’un contribuable qui est une compagnie d’assurance-dépôts, pour une année d’imposition, les règles suivantes s’appliquent :
+a) le revenu de la compagnie est calculé, sauf disposition contraire du présent article, conformément aux règles applicables au calcul du revenu dans le cadre de la présente partie [1];
+[…]
+(2) Le montant de toute prime ou cotisation reçue ou à recevoir de ses institutions membres, au cours d’une année d’imposition, par un contribuable qui est une compagnie d’assurance-dépôts n’est pas inclus dans le calcul de son revenu.
+[…]
+(4) Aucune déduction ne peut être faite, dans le calcul du revenu, pour une année d’imposition, d’un contribuable qui est une compagnie d’assurance-dépôts, à l’égard :
+[…]
+(c) de tout montant versé à ses institutions membres à titre d’allocations proportionnelles aux montants visés au paragraphe (2);
+[…]
+(10) Le contribuable qui est une institution membre au cours d’une année d’imposition doit inclure dans le calcul de son revenu pour cette année le total des montants suivants :
+a) tout montant visé à l’un des alinéas (4)a) à c) et qu’il a reçu au cours de l’année d’une compagnie d’assurance-dépôts, dans la mesure où il n’a pas remboursé ce montant à la compagnie au cours de l’année;
+[…]
+137.1 (1) For the purpose of computing the income for a taxation year of a taxpayer that is a deposit insurance corporation, the following rules apply :
+(a) the corporation’s income shall, except as otherwise provided in this section, be computed in accordance with the rules applicable in computing income for the purposes of this Part [1]; and
+. . .
+(2) The amount of any premiums or assessments received or receivable by a taxpayer that is a deposit insurance corporation from its member institutions in a taxation year shall not be included in computing its income.
+. . .
+(4) No deduction shall be made in computing the income for a taxation year of a taxpayer that is a deposit insurance corporation in respect of
+. . .
+(c) any amounts paid to its member institutions as allocations in proportion to any amounts described in subsection 137.1(2); or
+. . .
+(10) Where in a taxation year a taxpayer is a member institution, there shall be included in computing its income for the year the total of all amounts each of which is
+(a) an amount received by the taxpayer in the year from a deposit insurance corporation that is an amount described in any of paragraphs 137.1(4)(a) to 137.1(4)(c), to the extent that the taxpayer has not repaid the amount to the deposit insurance corporation in the year,
+. . .
+[41] À l’évidence, la totalité des exigences relatives à la déduction d’un dividende intersociétés que comporte l’article 112 de la Loi semblent avoir été remplies pour ce qui est des dividendes que l’appelante a reçus. L’article 112 n’exige pas que le montant du dividende qu’un contribuable a reçu soit inclus dans son revenu en vertu du paragraphe 82(1), même si, habituellement, c’est ce paragraphe qui amène à inclure dans le revenu le montant des dividendes imposables. À l’article 112, il ne semble pas y avoir de fondement pour traiter le dividende B différemment du dividende A à cet égard.
+[42] Les dividendes A et B étaient clairement, en fait et en droit, des dividendes. Cela, l’intimée ne le conteste pas. En fait, c’est ce qui est dit dans l’exposé conjoint partiel des faits.
+[43] Ce résultat semble approprié. L’appelante a reçu les deux dividendes à titre de dividendes imposables. Le montant des dividendes imposables reçus doit être inclus dans le revenu du contribuable en application du paragraphe 82(1) de la Loi. L’objet de la déduction pour dividendes intersociétés reçus que prévoit l’article 112 est d’éviter d’imposer deux fois les bénéfices après impôt d’une société, car ils sont payés par voie de dividendes à des sociétés actionnaires. Cela fait partie de l’approche suivie dans la Loi en vue d’assurer une certaine intégration de l’impôt prélevé auprès d’une société et d’un particulier à l’égard du revenu gagné par l’entremise d’une société.
+[44] L’intimée est d’avis que le montant du dividende B n’est toutefois pas déductible en vertu du paragraphe 112(1), car :
+(i) le dividende B était un montant décrit à l’alinéa 137.1(10)a) et, aux termes de cet alinéa, il devait être inclus dans le revenu de l’appelante vu qu’il s’agissait d’un montant reçu par la caisse de crédit membre d’une compagnie d’assurance-dépôts et versé aux caisses de crédit membres à titre d’allocation proportionnelle au montant des cotisations reçues de ces dernières;
+(ii) l’article 137.1 est un code complet qui régit le traitement fiscal des montants de cette nature.
+[45] La preuve produite en l’espèce n’étaye pas la position de l’intimée selon laquelle le montant du dividende B était un montant que la STAB avait versé à l’appelante et à ses membres à titre d’allocation proportionnelle aux cotisations reçues de ces dernières.
+[46] L’alinéa comporte l’expression « à titre de ». Il ne comporte pas l’expression plus générale « à l’égard de » ou « au titre de », ou une autre formule semblable de plus large portée. Il n’y est pas question des montants que l’on pourrait raisonnablement considérer comme liés à des cotisations préalablement reçues, ou financés directement ou indirectement par ces dernières. La forme ou la nature du montant du paiement est expressément décrite vu l’emploi des mots « à titre de » en français et « as » en anglais.
+[47] Il semble bel et bien possible qu’un montant payé à titre de dividende puisse aussi être un montant décrit à l’alinéa 137.1(10)a). Dans le cas présent, le dividende a été versé à chacun des actionnaires de la STAB, comme on pourrait s’y attendre, proportionnellement au nombre d’actions qu’il détenait. Le nombre d’actions détenues dans la STAB était fonction de la taille de l’actif à court terme de chaque caisse de crédit membre (et ce nombre avait été récemment rééquilibré en vue de refléter la taille de cet actif).
+[48] En l’espèce, les dividendes en question n’ont pas non plus été versés par la STAB proportionnellement aux cotisations reçues de ses membres, et ce, ni en 2005, ni dans les années 1989 à 2005, période qui reflète la durée d’existence de la STAB, ni dans les années dans lesquelles des caisses de crédit membres particulières étaient des actionnaires. La taille relative de l’actif à court terme était différente du total cumulatif relatif des cotisations payées pour un certain nombre de raisons, les plus évidentes étant des taux de cotisation annuels différents, un rendement relatif annuel différent, ainsi qu’une consolidation et d’autres changements intervenus dans le secteur.
+[49] Le sens du terme « proportionnel à » n’est ni vague ni ambigu. Une proportion est un rapport comparatif, c’est-à-dire une partie considérée par rapport à un tout. Pour que deux choses soient proportionnelles l’une à l’autre, il faut qu’il y ait une égalité de rapports. Pour qu’un montant payé à des personnes soit proportionnel aux cotisations de celles‑ci, il est obligatoire que ces personnes reçoivent la partie du montant total payé que représentent les cotisations reçues d’elles par rapport au total des cotisations reçues. Il doit donc y avoir une égalité de rapports. Le fait que le montant qui leur a été payé a été, pourrait-on dire, financé par le payeur en tout ou en partie, directement ou indirectement, au moyen des cotisations reçues, ou du revenu tiré de ces cotisations, n’est clairement pas suffisant. Cette position exigerait que l’on fasse abstraction du sens du terme « proportionnel à ». Dans le même ordre d’idées, le fait qu’un membre ait reçu une partie du total payé ne mène aucunement à la conclusion que cette partie a été payée proportionnellement aux cotisations perçues. Pour que la position de l’intimée soit correcte au vu des faits de l’espèce, il faudrait que je remplace le mot « cotisations » qui figure dans la Loi par « actions détenues ».
+[50] Ce sens ordinaire d’une allocation proportionnelle concorde avec la définition de l’expression « répartition proportionnelle à l’importance de l’emprunt » qui figure au paragraphe 137(6) en rapport avec les sociétés coopératives.
+[51] Ce sens n’est pas incompatible avec la décision que la Cour a rendue dans l’affaire Civil Service Co-operative Credit Society Ltd. c. La Reine, 2001 DTC 790 (« CS Coop »). Je n’ai pas à décider si, dans l’ensemble, cette affaire a été débattue ou tranchée convenablement. Les questions dont la Cour était saisie dans cette affaire consistaient à savoir si les montants perçus étaient des « cotisations » et les montants payés des « allocations », et les arguments invoqués étaient axés sur le régime législatif particulier de l’Ontario. Il n’était pas demandé à la Cour de traiter de la question des allocations proportionnelles, et elle ne l’a pas fait. Le juge ne fait référence qu’en passant à la proportionnalité, à la dernière phrase du paragraphe 53, ce qui, dans le meilleur des cas, dénote que, lorsqu’une allocation est versée à moins que le nombre total des membres, la meilleure façon de vérifier la proportionnalité serait par rapport à une distribution hypothétique à la totalité des membres. À l’évidence, ce paragraphe ne traite que du sens du terme « allocation », et la Cour avait à trancher les questions que les parties avaient formulées. Par contraste, en l’espèce, la question de savoir si la STAB était propriétaire de l’argent recueilli sous forme de cotisations et payé plus tard à ses membres ne pose pas de problème.
+[52] Au vu des faits de l’espèce, les montants du dividende B n’étaient pas des montants décrits à l’alinéa 137.1(10)a). Ils n’ont pas été payés proportionnellement à des allocations reçues. Il n’est pas nécessaire que je décide si ces montants étaient ou non des « allocations ». La position de l’intimée ne peut pas être retenue.
+[53] Dans les circonstances, je n’ai pas à traiter de la question de savoir si l’article 137.1 est un code complet qui régit les montants payés à titre d’allocations proportionnelles aux cotisations reçues.
+[54] Par conséquent, sous réserve de l’application possible de la DGAE, l’appelante est autorisée à déduire en vertu du paragraphe 112(1) le montant du dividende B qu’elle a reçu et qu’elle a inclus dans son revenu.
+B. La disposition générale anti-évitement (DGAE) En général
+[55] Le cadre analytique qui s’applique à la DGAE a été exposé de manière claire et cohérente par la Cour suprême du Canada dans les arrêts suivants : Hypothèques Trustco Canada c. Canada, 2005 CSC 54, [2005] 2 R.C.S. 601, 2005 DTC 5523 et Lipson c. Canada, 2009 CSC 1, [2009] 1 R.C.S. 3, 2009 DTC 5015, et il a été confirmé tout récemment dans l’arrêt Copthorne Holdings Ltd. c. Canada, 2011 CSC 63, 2012 DTC 5006. Le tribunal se doit de procéder à une analyse objective et approfondie en suivant le cadre détaillé de la Cour suprême et de justifier sa conclusion relative à la DGAE[1].
+[56] Sous réserve de l’application possible de la DGAE, les contribuables sont en droit d’opter pour les avenues ou les opérations qui sont propres à réduire leur obligation fiscale, conformément au principe énoncé dans l’arrêt Duke of Westminster[2]. Les contribuables ont le droit de savoir avec une certaine certitude que les dispositions de la Loi visent les opérations ayant une raison d’être économique[3].
+[57] La DGAE est une disposition de dernier recours exceptionnelle que le ministre du Revenu national (le « ministre ») peut invoquer s’il croit que les opérations que le contribuable a choisies, même si elles respectent à la lettre les dispositions en question de la Loi, ne concordent pas avec l’esprit, la raison d’être ou l’objet de ces dispositions et, en fait, les contrecarre et en abuse[4]. La DGAE crée chez les contribuables un degré d’incertitude inévitable et, pour cette raison, le tribunal doit effectuer son analyse en faisant preuve de prudence[5]. Le ministre est tenu de démontrer clairement l’abus qu’il allègue[6], et tout doute résiduel est tranché en faveur du contribuable[7].
+C. Les dispositions législatives concernant la DGAE [58] À l’article 245 de la Loi, les passages pertinents relatifs à la DGAE sont les suivants :
+245(1) Les définitions qui suivent s’appliquent au présent article.
+« attribut fiscal » S’agissant des attributs fiscaux d’une personne, revenu, revenu imposable ou revenu imposable gagné au Canada de cette personne, impôt ou autre montant payable par cette personne, ou montant qui lui est remboursable, en application de la présente loi, ainsi que tout montant à prendre en compte pour calculer, en application de la présente loi, le revenu, le revenu imposable, le revenu imposable gagné au Canada de cette personne ou l’impôt ou l’autre montant payable par cette personne ou le montant qui lui est remboursable.
+« avantage fiscal » Réduction, évitement ou report d’impôt ou d’un autre montant exigible en application de la présente loi ou augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi. Y sont assimilés la réduction, l’évitement ou le report d’impôt ou d’un autre montant qui serait exigible en application de la présente loi en l’absence d’un traité fiscal ainsi que l’augmentation d’un remboursement d’impôt ou d’un autre montant visé par la présente loi qui découle d’un traité fiscal.
+« opération » Sont assimilés à une opération une convention, un mécanisme ou un événement.
+(2) En cas d’opération d’évitement, les attributs fiscaux d’une personne doivent être déterminés de façon raisonnable dans les circonstances de façon à supprimer un avantage fiscal qui, sans le présent article, découlerait, directement ou indirectement, de cette opération ou d’une série d’opérations dont cette opération fait partie.
+(3) L’opération d’évitement s’entend :
+a) soit de l’opération dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable;
+b) soit de l’opération qui fait partie d’une série d’opérations dont, sans le présent article, découlerait, directement ou indirectement, un avantage fiscal, sauf s’il est raisonnable de considérer que l’opération est principalement effectuée pour des objets véritables — l’obtention de l’avantage fiscal n’étant pas considérée comme un objet véritable.
+(4) Le paragraphe (2) ne s’applique qu’à l’opération dont il est raisonnable de considérer, selon le cas :
+a) qu’elle entraînerait, directement ou indirectement, s’il n’était pas tenu compte du présent article, un abus dans l’application des dispositions d’un ou de plusieurs des textes suivants :
+(i) la présente loi,
+(ii) le Règlement de l’impôt sur le revenu,
+(iii) les Règles concernant l’application de l’impôt sur le revenu,
+(iv) un traité fiscal,
+(v) tout autre texte législatif qui est utile soit pour le calcul d’un impôt ou de toute autre somme exigible ou remboursable sous le régime de la présente loi, soit pour la détermination de toute somme à prendre en compte dans ce calcul;
+b) qu’elle entraînerait, directement ou indirectement, un abus dans l’application de ces dispositions compte non tenu du présent article lues dans leur ensemble.
+[…]
+245(1) In this section,
+“tax benefit” means a reduction, avoidance or deferral of tax or other amount payable under this Act or an increase in a refund of tax or other amount under this Act, and includes a reduction, avoidance or deferral of tax or other amount that would be payable under this Act but for a tax treaty or an increase in a refund of tax or other amount under this Act as a result of a tax treaty;
+“tax consequences” to a person means the amount of income, taxable income, or taxable income earned in Canada of, tax or other amount payable by or refundable to the person under this Act, or any other amount that is relevant for the purposes of computing that amount;
+“transaction” includes an arrangement or event.
+(2) Where a transaction is an avoidance transaction, the tax consequences to a person shall be determined as is reasonable in the circumstances in order to deny a tax benefit that, but for this section, would result, directly or indirectly, from that transaction or from a series of transactions that includes that transaction.
+(3) An avoidance transaction means any transaction
+(a) that, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit; or
+(b) that is part of a series of transactions, which series, but for this section, would result, directly or indirectly, in a tax benefit, unless the transaction may reasonably be considered to have been undertaken or arranged primarily for bona fide purposes other than to obtain the tax benefit.
+(4) Subsection (2) applies to a transaction only if it may reasonably be considered that the transaction
+(a) would, if this Act were read without reference to this section, result directly or indirectly in a misuse of the provisions of any one or more of
+(i) this Act,
+(ii) the Income Tax Regulations,
+(iii) the Income Tax Application Rules,
+(iv) a tax treaty, or
+(v) any other enactment that is relevant in computing tax or any other amount payable by or refundable to a person under this Act or in determining any amount that is relevant for the purposes of that computation; or
+(b) would result directly or indirectly in an abuse having regard to those provisions, other than this section, read as a whole.
+. . .
+[59] Dans les arrêts Hypothèques Trustco, Lipson et Copthorne, la Cour suprême du Canada fait remarquer que, selon une simple lecture de la DGAE, une analyse appropriée de cette disposition oblige le tribunal à répondre à trois questions :
+1) Y a-t-il eu un avantage fiscal?
+2) L’opération ayant donné lieu à l’avantage fiscal était-elle une opération d’évitement?
+3) L’opération d’évitement ayant donné lieu à l’avantage fiscal était-elle abusive?
+D. L’avantage fiscal [60] La première étape de l’analyse consiste à déterminer l’avantage fiscal et à l’isoler des objets non fiscaux des opérations que le contribuable a choisies.
+[61] Lorsqu’une déduction est demandée à l’égard d’un revenu imposable dans le cadre de l’opération ou de la série d’opérations qui est contestée, il est évident qu’il existe un avantage fiscal étant donné qu’une déduction entraîne une diminution d’impôt[8].
+[62] Subsidiairement, il est possible d’établir l’existence d’un avantage fiscal en comparant les opérations choisies par le contribuable avec une autre opération qui aurait pu raisonnablement être exécutée, n’eût été l’avantage fiscal[9].
+[63] Il incombe au contribuable de réfuter la présomption du ministre quant à l’existence d’un avantage fiscal[10].
+[64] L’existence – ou non – d’un avantage fiscal est une question de fait, sujette à appel pour cause d’erreur manifeste et dominante[11].
+E. L’opération d’évitement [65] L’application de la DGAE est toujours subordonnée à l’existence d’une « opération d’évitement » dont découle un avantage fiscal[12].
+[66] Une opération qui donne lieu à un avantage fiscal est une opération d’évitement, sauf si elle est principalement effectuée pour un objet non fiscal véritable. Lorsqu’il existe une série d’opérations qui donne lieu directement ou indirectement à un avantage fiscal, n’importe quelle opération ou étape faisant partie de la série sera une opération d’évitement si cette étape n’est pas effectuée principalement pour un objet non fiscal véritable.
+[67] La question de savoir si une opération a été principalement effectuée pour un objet non fiscal doit être tranchée de manière objective, au vu de l’ensemble de la preuve présentée à la Cour[13]. C’est au contribuable qu’il incombe de prouver l’existence d’un objet non fiscal véritable[14]. Il s’agit également d’une question de fait que le juge du procès doit trancher et elle commande en général la déférence, à moins d’une erreur manifeste et dominante[15].
+[68] Les tribunaux doivent, à ce stade, examiner les rapports entre les parties et les opérations véritablement intervenues entre elles. Une opération ne peut pas être une opération d’évitement parce qu’une autre opération, qui aurait permis d’atteindre un résultat équivalent, se serait soldée par un montant d’impôt supérieur. Cela ne suffit pas pour établir l’existence d’une opération d’évitement[16], quoique, comme il a été résumé ci-dessus, cela puisse suffire pour établir l’existence de l’avantage fiscal.
+[69] Conformément à la décision qu’elle a rendue dans l’arrêt Hypothèques Trustco, la Cour suprême du Canada, dans l’arrêt Copthorne, ne laisse pas entendre qu’il est valable, au stade « opération d’évitement » de l’analyse, de comparer l’opération ou la série d’opérations choisies par le contribuable à d’autres structures possibles afin de vérifier si le contribuable a fait son choix parmi ces options en se fondant principalement sur des conséquences ou des considérations d’ordre fiscal. Cela est logique. S’il en était autrement, les contribuables seraient contraints de choisir une option donnant lieu à un impôt supérieur, et le principe énoncé dans l’arrêt Duke of Westminster serait tout à fait vain. Il semble, dans cette mesure du moins, que la Cour suprême du Canada souligne à maintes reprises que le principe énoncé dans l’arrêt Duke of Westminster coexiste avec la DGAE.
+[70] Une opération peut avoir une motivation fiscale, et le contribuable sera vraisemblablement au courant des répercussions fiscales d’une opération, mais cela ne veut pas forcément dire que la motivation fiscale est la raison première de l’opération. Si l’opération effectivement exécutée (ou chacune des étapes de la série) vise principalement un objet non fiscal, il n’y a pas d’opération d’évitement et la DGAE ne peut pas s’appliquer, même s’il peut y avoir un avantage fiscal accessoire[17].
+[71] Dans le même ordre d’idées, il s’ensuit que les considérations fiscales peuvent jouer un rôle de premier plan dans le choix que fait un contribuable parmi les options de structuration possibles en vue de mettre en œuvre une opération ou une série d’opérations sans faire nécessairement en sorte que l’opération elle-même vise principalement un objet fiscal.
+F. La série d’opérations [72] Vu la nature inclusive du sens à donner à une série d’opérations aux termes du paragraphe 248(10) de la Loi, la Cour suprême du Canada préconise le recours à une interprétation large à l’égard de cette question. Le point de départ est la série de common law dans laquelle chaque opération faisant partie de la série est planifiée d’avance en vue de produire un résultat final. Ensuite, le paragraphe 248(10) considère que toute opération liée qui est terminée en vue de réaliser une série fait partie de cette série.
+[73] La question de fait qui doit être tranchée au regard du paragraphe 248(10) est celle de savoir si la décision d’exécuter l’opération liée a été prise en raison de la série ou relativement à celle-ci. Cela est moins qu’un lien étroit, mais plus qu’une simple possibilité ou qu’un lien d’un degré d’éloignement extrême. Chaque affaire doit être jugée en fonction des faits qui lui sont propres, et le temps qui s’écoule entre les étapes ainsi que n’importe quel événement intermédiaire peuvent être des facteurs pertinents[18].
+[74] Les mots « en vue de réaliser » qui figurent au paragraphe 248(10) permettent de faire un lien soit prospectif soit rétrospectif entre une opération liée et une série de common law. Ces mots peuvent être appliqués à des événements soit antérieurs soit postérieurs à l’opération d’évitement de base. Une série d’opérations inclut à la fois les opérations liées terminées en vue de réaliser une série d’opérations postérieure, de même que les opérations liées que le contribuable a terminées en vue de réaliser une série d’opérations antérieure. Les mots « en vue de réaliser » sont employés non pas dans le sens d’une connaissance véritable, mais dans le sens plus général de « en raison de » ou « relativement à » la série[19].
+[75] Pour décider si une étape ou une opération faisant partie d’une série d’opérations constitue une opération d’évitement, c’est-à-dire si cette étape ou cette opération a un objet non fiscal véritable, la Cour suprême du Canada, dans l’arrêt Copthorne, compare la série qui comporte cette étape ou cette opération à la série qui ne la comporte pas[20]. Cela est nettement différent du fait de comparer la série choisie à d’autres opérations ou séries d’opérations qui s’offrent au contribuable.
+[76] La détermination de l’existence d’une série et des opérations qui la composent est une question de fait à trancher selon la prépondérance des probabilités, et il incombe au contribuable de réfuter les présomptions du ministre au sujet de la série d’opérations[21].
+G. L’abus ou le mauvais usage [77] Les termes anglais « misuse » et « abuse » ont tous deux le même sens, à savoir celui d’« abus ». La DGAE s’appliquera si une opération d’évitement constitue un abus. Vu l’importance du principe énoncé dans l’arrêt Duke of Westminster en droit fiscal canadien, la DGAE n’autorise ou n’exige pas que l’on se lance à la recherche d’économies d’impôt obtenues de manière reprochable ou éhontée, et le mot « abus » ne vise pas à dénoter l’existence de toute autre réprobation morale. Il est loisible aux Canadiens de faire preuve de créativité dans leur recherche d’économies d’impôt[22].
+1) Déterminer l’objet ou l’esprit des dispositions [78] Pour ce qui est de la question de l’abus, la Cour suprême du Canada prescrit une analyse en deux volets. Premièrement, le tribunal doit déterminer l’objet ou l’esprit des dispositions sur lesquelles le contribuable s’est fondé pour obtenir l’avantage fiscal[23], et cela doit être fait en tenant compte de l’économie de la Loi, des dispositions pertinentes et des moyens extrinsèques admissibles.
+[79] L’objet ou l’esprit, ou la raison d’être législative des dispositions précises ou interdépendantes de la Loi, doivent être déterminés par le tribunal en recourant à la méthode d’interprétation textuelle, contextuelle et téléologique unifiée dont on se sert habituellement pour l’interprétation des lois[24]. Il y a toutefois une différence entre une interprétation de la loi qui vise à discerner le sens d’un texte législatif et l’analyse textuelle, contextuelle et téléologique relative à la DGAE qui vise à discerner l’objet ou l’esprit d’une disposition. Dans une analyse relative à la DGAE, le texte de la loi peut être clair, mais il est possible que le simple sens des mots employés ne reflète pas la raison d’être du libellé d’une disposition. Il n’est toutefois pas loisible à un juge de donner à des mots le sens qui lui convient de façon à obtenir ce qui, selon lui, est le résultat correct ou approprié.
+[80] Il est nécessaire d’examiner le texte de la disposition pour voir s’il jette un peu de lumière sur ce qu’elle était destinée à faire, même s’il est tenu pour acquis dans une analyse relative à la DGAE que le texte de la disposition n’interdit pas l’avantage fiscal[25].
+[81] L’examen du contexte d’une disposition suppose l’examen d’autres dispositions de la Loi, ainsi que de moyens extrinsèques admissibles[26]. Les autres dispositions de la Loi qu’il faut prendre en considération sont celles qui sont regroupées ou qui interagissent pour la mise en œuvre d’un plan plausible et cohérent[27].
+[82] Le principe, la raison d’être ou l’objet des dispositions doivent être ancrés dans une interprétation textuelle, contextuelle et téléologique des dispositions particulières qui sont en litige. Un tribunal ne peut entreprendre un examen d’une politique fiscale ni chercher un objet, un principe ou une raison d’être qui ne sont pas ancrés dans une analyse textuelle, contextuelle et téléologique des dispositions précises de la Loi, ou qui n’y sont pas liés[28]. Une disposition peut comporter toute une gamme d’objets indépendants et interdépendants[29]. Il ne faut pas confondre la détermination de la raison d’être des dispositions pertinentes avec un jugement de valeur quant à ce qui est bien ou mal, non plus qu’avec des conjectures sur ce que devrait être une loi fiscale ou sur l’effet que celle-ci devrait avoir[30].
+2) Déterminer si l’opération d’évitement effectuée par le contribuable contrecarre l’objet défini [83] La seconde étape consiste, pour la Cour, à examiner si l’opération d’évitement effectuée par le contribuable est conforme à l’objet défini de la disposition ou des dispositions sur lesquelles se fonde le contribuable, ou si elle le contrecarre[31].
+[84] L’opération d’évitement débordera le cadre de l’objet défini, contrecarrera cet objet et sera abusive si : 1) l’opération produit un résultat que la disposition législative visait à empêcher, 2) l’opération va à l’encontre de la raison d’être de la disposition, ou 3) l’opération contourne l’application de la disposition d’une manière qui contrecarre son objet ou son esprit[32].
+[85] Cette étape s’applique exclusivement à l’opération d’évitement et, dans le cas d’une série d’opérations, elle s’applique exclusivement à l’étape d’évitement. Cependant, cette opération ou cette étape doit être prise en considération dans le contexte de la série dans laquelle elle s’inscrit et de l’effet global obtenu[33].
+[86] S’ajoutent à cette étape de l’analyse le fait de mettre l’accent sur l’opération d’évitement précise et l’examen de ses résultats du point de vue fiscal[34]. La Cour suprême ne laisse pas entendre que cela peut être fait en examinant d’autres opérations que le contribuable aurait peut-être pu effectuer.
+[87] À ce stade, la nature abusive de l’opération doit être claire aux yeux du tribunal. La DGAE ne s’appliquera pas si l’on peut considérer de manière raisonnable que l’opération ou la série d’opérations a été réalisée d’une manière conforme à l’objet ou à l’esprit des dispositions invoquées[35].
+[88] Il incombe au ministre de convaincre la Cour qu’une opération d’évitement est clairement abusive[36]. Le contribuable n’a pas à prouver qu’en se conformant à la lettre aux dispositions de la Loi, il n’a pas contrevenu à leur objet ou à leur esprit. Il appartient au ministre de décrire l’objet ou l’esprit des dispositions dont on a censément abusé, d’énoncer la politique qui se rapporte à ces dispositions et de déterminer les moyens extrinsèques utilisés[37].
+VIII. L’application de la DGAE aux faits de l’espèce A. L’avantage fiscal [89] L’appelante admet que l’obtention du dividende intersociétés visé à l’article 112 de la Loi a donné lieu à un avantage fiscal.
+B. L’opération d’évitement [90] Une opération d’évitement requiert que l’opération, ou l’une des étapes ou des opérations faisant partie d’une série d’opérations, n’ait pas été exécutée principalement pour un objet non fiscal véritable. Si l’on reformule cette phrase de manière positive ou affirmative, une opération, ou l’une des étapes ou des opérations faisant partie d’une série d’opérations, constitue une opération d’évitement si elle est exécutée ou insérée principalement pour un objet fiscal.
+[91] Dans le cas présent, l’opération générale par laquelle la STAB a payé des dividendes à ses caisses de crédit membres a été clairement exécutée en vue de procurer à ces dernières les fonds nécessaires pour payer les cotisations de la CUDIC et de réduire les fonds de stabilisation et de protection des dépôts de la STAB au niveau inférieur qui était requis à la suite de la cotisation extraordinaire de la CUDIC. Il s’agit manifestement là d’un objet non fiscal véritable[38]. L’intimée reconnaît l’existence d’un [traduction] « objectif non fiscal général consistant à transférer des fonds de la STAB à la CUDIC ».
+[92] Contrairement à la situation dont il était question dans l’affaire Copthorne, en l’espèce aucune étape n’a été insérée ou exécutée principalement en vue de pouvoir obtenir un résultat fiscal souhaité ou privilégié.
+[93] L’acte consistant à faire un choix parmi un éventail de structures ou d’opérations disponibles en vue d’accomplir un objet non fiscal, en se fondant en tout ou en partie sur les résultats fiscaux différents de chacune, n’est pas une opération. Prendre une décision ne peut pas être une opération d’évitement.
+[94] Dans le cas présent, la STAB, dont l’appelante était membre, a entrepris de procurer à ses membres des fonds leur permettant de payer la cotisation extraordinaire de la CUDIC. Elle a examiné d’autres moyens possibles de le faire et a opté pour la solution qui était la plus avantageuse du point de vue fiscal – celle dans le cadre de laquelle les caisses de crédit membres paieraient le moins d’impôt. C’est là prendre une décision qui concorde avec le principe énoncé dans l’arrêt Duke of Westminster. Le fait de prendre une telle décision ne peut pas être considéré comme une opération pour l’application de la DGAE.
+[95] Nous avons ici un exemple d’affaire dans laquelle un contribuable :
+(i) décide d’agir d’une certaine façon pour un objet tout à fait commercial ou un autre objet non fiscal – (procurer des fonds à ses actionnaires afin qu’ils puissent payer leurs obligations commerciales et recalibrer le niveau du fonds de stabilisation et d’assurance-dépôts qui est tenu pour leur avantage en fonction du niveau maintenant requis);
+(ii) examine les options qui s’offrent à lui pour accomplir ce qu’il faut faire, ce qui inclut un examen des conséquences fiscales et des coûts de chacune;
+(iii) choisit une option qui n’est pas celle dont le coût fiscal est le plus élevé, peut-être même celle dont le coût fiscal est le plus bas, voire tout à fait nul.
+[96] À la condition que l’obtention de l’avantage fiscal n’ait été le but principal d’aucune étape ou opération insérée dans les opérations commerciales mettant en application la structure choisie, ni le choix du contribuable ni la mise en application de la structure choisie ne peuvent correspondre à la définition légale d’une « opération d’évitement » selon l’interprétation faite par la Cour suprême du Canada.
+[97] Un exemple comparable (non alourdi par le fait que, dans le cas présent, c’était la STAB qui avait choisi et mis en application la décision de payer des dividendes à ses membres, y compris l’appelante, et que cette décision découlait d’une obligation gouvernementale imposée unilatéralement aux caisses de crédit, y compris l’appelante) serait le suivant : une société possède deux divisions d’exploitation distinctes : la division A et la division B. Elle décide de vendre la division A à une partie sans lien de dépendance à sa juste valeur marchande. Elle entend conserver la division B et continuer de l’exploiter. Pour mettre en œuvre et réaliser une telle vente, les actionnaires de la société disposent d’au moins trois options évidentes. La société peut vendre les éléments d’actif de la division A à l’acheteur. Elle peut transférer la division A à une nouvelle société sœur à offrir en vente et conserver les éléments d’actif de la division B. Elle peut transférer les éléments d’actif de la division B à une nouvelle société sœur appartenant aux actionnaires et faire en sorte que les actionnaires de cette société offrent de vendre les actions de cette dernière qu’ils possèdent à l’acheteur, dont les éléments d’actif n’incluraient maintenant que ceux de la division A. Soit la division A, soit la division B doit être transférée hors de la société de façon à pouvoir vendre la division A. Les ventes d’éléments d’actif comportent invariablement des répercussions fiscales différentes de celles des ventes d’actions. Si l’acheteur veut acheter des actions, on ne peut blâmer les actionnaires de la société d’avoir choisi une option qui soit plus avantageuse du point de vue fiscal. À la condition que la structure des opérations exécutées pour mettre en application leur choix n’inclue aucune étape dont l’objet premier est de les mettre en état d’obtenir l’avantage fiscal souhaité, ou ne vise pas par ailleurs un but de nature principalement fiscale, l’avantage fiscal dont ils bénéficient ne peut pas être le résultat d’une opération d’évitement et la DGAE, de par son texte, ne peut pas s’appliquer. Voir, par exemple, la décision de l’ancien juge en chef Bowman dans l’affaire Geransky v. Canada, 2001 DTC 243.
+[98] L’intimée considère l’avantage fiscal que retirent les caisses de crédit appelantes comme un abus des dispositions invoquées. Cela pourrait être effectivement le cas. Cependant, l’intimée a, dans l’ensemble, été incapable de constater l’existence d’une opération d’évitement au sens où une telle opération est définie par la DGAE et interprétée par la Cour suprême du Canada. La constatation d’une opération d’évitement est une condition préalable à l’application de la DGAE. La Cour suprême souligne que la DGAE ne permet pas de sauter à une conclusion de résultat fiscal abusif parce qu’il existe un avantage fiscal découlant d’une opération, et elle explique pourquoi cela ne concorderait pas avec le texte de la DGAE, pas plus que ce ne serait par ailleurs approprié.
+[99] Dans la réponse, l’intimée exprime l’avis que les aspects suivants sont des opérations d’évitement :
+1. la décision de la STAB de restituer des primes sous forme de dividendes;
+2. la décision de la STAB de payer les dividendes A et B;
+3. la perception sous forme de cotisation, par la CUDIC, des primes extraordinaires;
+4. le paiement, par la STAB, des dividendes déclarés;
+5. le paiement, par les caisses de crédit, des cotisations de la CUDIC.
+Dans son argumentation, l’intimée a nuancé sa position relative à l’application de la DGAE à la décision prise par la STAB de distribuer des fonds sous forme de dividendes : le fait que la STAB, à partir des options qu’elle a effectivement prises en considération, ait choisi une structure pour mettre en œuvre l’opération globale parce qu’elle procurait un avantage fiscal, a fait de ce choix une opération d’évitement.
+[100] Je ne souscris pas à ces positions de l’intimée au sujet des opérations d’évitement :
+1. le fait de choisir entre plusieurs options n’est pas une opération. Dans le même ordre d’idées, la décision de faire une chose ou non n’est pas une opération. Une décision n’est pas considérée comme une opération au sens où ce mot est généralement entendu, pas plus qu’elle ne correspond à la définition inclusive et élargie d’une opération qui figure au paragraphe 245(1);
+2. le choix de la STAB de payer un dividende unique ou de fractionner le dividende en deux (A et B) ne change rien aux conséquences fiscales du dividende B que l’appelante a reçu dans le cas présent. L’analyse et les résultats fiscaux auraient été les mêmes;
+3. la perception, par la CUDIC, de la prime extraordinaire par voie de cotisation visait un objet de nature tout à fait non fiscale et était considérée comme défavorable aux caisses de crédit de la Colombie-Britannique et contraire aux souhaits et aux intérêts de celles‑ci. Il est clair, au vu des faits de l’espèce, que la cotisation a été effectuée entièrement pour un objet non fiscal;
+4. le paiement des dividendes, par la STAB, visait principalement un objet non fiscal : la distribution de fonds à ses membres. Que l’on ait décidé de procéder à la distribution sous la forme d’un dividende à cause de considérations d’ordre fiscal ne fait pas de l’impôt l’objet premier des dividendes;
+5. le paiement, par les caisses de crédit, des cotisations de la CUDIC représentait le paiement, par elles, d’obligations légales envers le gouvernement de la province afin de permettre aux caisses de crédit de continuer à exercer leurs activités. On ne paie pas une dépense d’entreprise tout à fait non discrétionnaire principalement en vue d’obtenir la déduction fiscale.
+[101] Dans l’ensemble, il m’est impossible de relever une étape ou une opération que l’on a exécutée pour une raison autre qu’un objet principalement non fiscal. Cela fait contraste avec, par exemple, l’arrêt Copthorne, où l’appelante avait dû convertir sa structure société mère-filiale préexistante en une structure de sociétés sœurs à titre d’étape préliminaire ou intermédiaire distincte en vue de pouvoir obtenir l’avantage fiscal souhaité. Dans la présente affaire, aucune étape ou opération n’a été exécutée principalement dans un tel but.
+[102] Le fait de scinder le dividende en deux parties, le dividende A et le dividende B, n’a pas changé les résultats fiscaux du dividende B. Comme nous l’avons vu plus tôt, cette mesure a simplement procuré à chacune des caisses de crédit membres la possibilité de décider d’éviter le litige avec l’ARC que l’appelante était disposée à mener. Dans le même ordre d’idées, le fait de rééquilibrer les actions détenues par les membres en 2005 n’a pas eu d’incidence sur le droit de l’appelante à l’avantage fiscal que représentait la déduction du montant intégral des dividendes qu’elle avait reçus de la STAB. Comme nous l’avons vu plus tôt, il était nécessaire de procéder à un rééquilibrage périodique, et cela était fait, pour faire en sorte que les actions détenues par les caisses de crédit correspondent à la taille relative de leur actif à court terme. Cela ne pouvait avoir une incidence que sur le montant des dividendes payés à l’appelante et à d’autres caisses de crédit, et non sur les conséquences fiscales en découlant.
+[103] Après que la Cour suprême du Canada eut rendu sa décision dans l’affaire Copthorne, les parties aux présentes ont présenté d’autres observations écrites. Malgré les commentaires explicites de la Cour suprême du Canada sur le fait qu’il doit y avoir une opération d’évitement pour que la DGAE puisse s’appliquer et pour que l’on puisse procéder à une analyse relative à la question de l’abus, l’intimée n’a pas précisément abordé la question de l’opération d’évitement mais a voulu sauter de l’avantage fiscal à l’abus fiscal.
+[104] La DGAE ne peut pas s’appliquer en l’espèce car l’opération globale et chacune des opérations qui ont été exécutées pour la réaliser visaient principalement des objets non fiscaux véritables. Comme l’a décrété la Cour suprême du Canada :
+[…] Toutefois, l’application de la RGAÉ est toujours subordonnée à l’existence d’une opération d’évitement dont découle un avantage fiscal. […][39]
+[…] Toutefois, lorsqu’une opération est effectuée principalement pour un objet non fiscal, il n’y a pas d’opération d’évitement et, de ce fait, l’existence d’un avantage fiscal accessoire ne fait pas entrer en jeu la RGAÉ. […][40]
+La deuxième condition d’application de la RGAÉ est que l’opération qui génère l’avantage fiscal soit une opération d’évitement au sens du par. 245(3). Cette condition sert à soustraire à l’application de la RGAÉ les opérations ou séries d’opérations qui peuvent raisonnablement être considérées comme ayant été principalement effectuées pour un objet non fiscal. La plupart des avantages fiscaux demandés par les contribuables dans leurs déclarations annuelles échappent à l’application de la RGAÉ en raison du par. 245(3). La RGAÉ, qui représente une mesure de dernier recours destinée à prévenir l’évitement fiscal abusif, ne devait pas créer de l’incertitude en matière de planification fiscale.[41]
+[…] À l’inverse, si chaque opération de la série a été principalement effectuée pour de véritables objets non fiscaux, la RGAÉ ne permet pas de supprimer un avantage fiscal.[42]
+C. L’abus ou le mauvais usage [105] À défaut de pouvoir conclure à l’existence d’une opération d’évitement, et conformément à la méthode d’analyse rigoureuse que prescrit la Cour suprême du Canada, il n’est nul besoin de poursuivre et d’examiner la question de l’abus dans la présente affaire.
+IX. Conclusion [106] En règle générale, il n’appartient pas à la Cour d’interpréter la Loi ou une de ses dispositions, dont la DGAE, en y ajoutant ou en en supprimant des éléments. La présente affaire ne fait pas partie de ces situations extraordinaires dans lesquelles la juste interprétation d’une disposition de la Loi permettrait ou exigerait que ce soit fait.
+[107] Dans le cas présent, les dispositions de la Loi sont claires. L’appelante a droit à la déduction pour dividendes que prévoit l’article 112. Le dividende B n’est pas un montant décrit à l’alinéa 137(10.1)a) parce qu’il n’a pas été distribué à titre d’allocation proportionnelle aux cotisations payées.
+[108] En ce qui concerne l’application de la DGAE, la Cour se doit de suivre la méthode d’analyse rigoureuse qu’a prescrite la Cour suprême du Canada. Il ne lui est pas loisible de s’écarter de cette méthode.
+[109] Les conditions d’application de la DGAE exigent l’existence d’une opération d’évitement, indépendamment de la présence d’un résultat vraisemblablement abusif. En l’espèce, je ne puis relever aucune opération d’évitement. Il est raisonnablement possible de considérer que l’opération globale et chacune des étapes ou des opérations en faisant partie ont été exécutées principalement pour des objets non fiscaux véritables.
+[110] Il importe peu que le résultat fiscal de l’opération choisie me semble approprié ou non. En tant que juge, il m’est tout aussi impossible d’introduire un élément dans la Loi que le législateur a rédigée parce que je pense qu’il y manque une chose et que cette chose est nécessaire pour obtenir ce qui me semble être le résultat approprié du point de vue des principes, que de faire abstraction d’une disposition que le législateur a rédigée parce que, toujours du point de vue des principes, je suis en désaccord avec elle.
+[111] L’appel est accueilli, avec dépens.
+Signé à Ottawa, Canada, ce 15e jour d’octobre 2012.
+« Patrick Boyle »
+Juge Boyle
+Traduction certifiée conforme
+ce 28e jour de février 2013.
+Mario Lagacé, jurilinguiste
+RÉFÉRENCE : 2012 CCI 357
+No DU DOSSIER DE LA COUR : 2009‑3121(IT)G
+INTITULÉ : SPRUCE CREDIT UNION ET SA MAJESTÉ LA REINE
+LIEU DE L'AUDIENCE : Vancouver (Colombie-Britannique)
+DATES DE L’AUDIENCE : Les 14, 15, 16 et 17 juin 2011
+MOTIFS DU JUGEMENT : L’honorable juge Patrick Boyle
+DATE DU JUGEMENT : Le 15 octobre 2012
+COMPARUTIONS :
+Avocats de l’appelante :
+Me Peter L. Rubin
+Me Robert Alan Kopstein
+Me Edward Rowe
+Me Luke W. Mlynarczyk
+Avocats de l’intimée :
+Me Robert Carvalho
+Me Bruce Senkpiel
+Me David Everett
+AVOCATS INSCRITS AU
+DOSSIER :
+Pour l’appelante :
+Noms : Me Peter L. Rubin
+Me Robert Alan Kopstein
+Me Edward Rowe
+Me Luke W. Mlynarczyk
+Cabinet : Blake, Cassels & Graydon LLP
+Vancouver (Colombie-Britannique)
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Copthorne, paragraphe 68.
+[2] Copthorne, paragraphe 65.
+[3] Hypothèques Trustco, paragraphes 49 et 57.
+[4] Copthorne, paragraphes 66 et 109.
+[5] Copthorne, paragraphes 66 et 67.
+[6] Copthorne, paragraphe 123.
+[7] Copthorne, paragraphe 72.
+[8] Hypothèques Trustco, paragraphe 20.
+[9] Copthorne, paragraphe 35; Hypothèques Trustco, paragraphe 20.
+[10] Copthorne, paragraphe 34; Hypothèques Trustco, paragraphe 63.
+[11] Copthorne, paragraphe 34.
+[12] Copthorne, paragraphe 119.
+[13] Copthorne, paragraphe 59; Hypothèques Trustco, paragraphes 28 et 29.
+[14] Copthorne, paragraphe 63; Hypothèques Trustco, paragraphes 63 et 66
+[15] Hypothèques Trustco, paragraphe 66.
+[16] Hypothèques Trustco, paragraphe 30.
+[17] Copthorne, paragraphes 119 et 120.
+[18] Copthorne, paragraphe 47.
+[19] Copthorne, paragraphes 55 et 56; Hypothèques Trustco, paragraphe 26.
+[20] Copthorne, paragraphes 62 et 63.
+[21] Copthorne, paragraphes 45 et 47; Hypothèques Trustco, paragraphe 63.
+[22] Copthorne, paragraphe 65.
+[23] Copthorne, paragraphe 69; Hypothèques Trustco, paragraphe 55.
+[24] Copthorne, paragraphe 70; Hypothèques Trustco, paragraphe 47; Lipson, paragraphe 26.
+[25] Copthorne, paragraphe 88.
+[26] Copthorne, paragraphe 91; Hypothèques Trustco, paragraphe 55.
+[27] Copthorne, paragraphe 91.
+[28] Hypothèques Trustco, paragraphes 41 et 42.
+[29] Copthorne, paragraphe 115; Hypothèques Trustco, paragraphe 53.
+[30] Copthorne, paragraphe 70.
+[31] Copthorne, paragraphes 71 et 125; Hypothèques Trustco, paragraphes 44 et 45.
+[32] Copthorne, paragraphe 72; Hypothèques Trustco, paragraphe 45; Lipson, paragraphe 40.
+[33] Copthorne, paragraphe 71; Lipson, paragraphe 34.
+[34] Copthorne, paragraphe 71.
+[35] Copthorne, paragraphes 68 et 72; Hypothèques Trustco, paragraphe 62.
+[36] Copthorne, paragraphes 72 et 123.
+[37] Hypothèques Trustco, paragraphe 65.
+[38] Cette détermination de l’objet de l’opération concorde avec celle qu’a effectuée l’ancien juge en chef Bowman dans la décision Evans c. La Reine, 2005 DTC 1762, aux paragraphes 19 et 20.
+[39] Copthorne, paragraphe 119.
+[40] Copthorne, paragraphe 120.
+[41] Hypothèques Trustco, paragraphe 21.
+[42] Hypothèques Trustco, paragraphe 34.

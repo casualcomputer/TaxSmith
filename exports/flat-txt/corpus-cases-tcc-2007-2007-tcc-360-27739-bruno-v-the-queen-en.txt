@@ -1,0 +1,131 @@
+Title: Bruno v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27739/index.do
+Corpus path: corpus/cases/tcc/2007/2007-tcc-360-27739-bruno-v-the-queen-en.md
+Document type: case_law
+Last modified: 2007-06-19
+
+# Bruno v. The Queen
+
+- Citation: 2007 TCC 360
+- Decision date: 2007-06-19
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 293, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bruno v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-06-19
+Neutral citation
+2007 TCC 360
+File numbers
+2006-2144(IT)I
+Judges and Taxing Officers
+Eugene P. Rossiter
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2006-2144(IT)I
+BETWEEN:
+LEONARD G. BRUNO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on May 15, 2007 at Vancouver, British Columbia
+and
+conference call held on June 19, 2007 at Ottawa, Canada
+Before: The Honourable Justice E. P. Rossiter
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Max Matas
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessment made under the Income Tax Act for the 2004 taxation year is allowed and the reassessment is referred back to the Minister for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 20th day of June, 2007.
+"E. P. Rossiter"
+Rossiter, J.
+Citation: 2007TCC360
+Date: 20070620
+Docket: 2006-2144(IT)I
+BETWEEN:
+LEONARD G. BRUNO,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Delivered orally by conference call on June 19, 2007, at Ottawa, Canada
+Rossiter, J.
+Issue
+[1] The issue in this matter is whether the Appellant can claim the wholly dependent deduction ("equivalent to spouse" credit) within the meaning of wholly dependent person referred to in paragraph 118(1)(b) of the Income Tax Act for the 2004 taxation year.
+Facts
+[2] The Appellant and his spouse are the parents of three children, namely Gianluca Alexander Bruno, born July 22, 1992, Lorenzo Angelo Bruno, born September 8, 1993 and Sabrina Isabella Bruno, born July 23, 1997.
+[3] The Appellant and his spouse suffered a breakdown of their marriage in 2004, and concluded a written separation agreement dated July 26, 2005. After their marriage breakdown, the Appellant resided in a self-contained one bedroom basement suite (suite) in the matrimonial home located at 1673 Taralawn Court, Burnaby, British Columbia, (matrimonial home) where he resided until his spouse vacated the matrimonial home on February 12, 2005. During this intervening time period (time period), there were no support payments by either spouse to the other. After the spouse had moved out of the matrimonial home in February 2005, the children remained in the matrimonial home where the Appellant resided until the spouse had set up her own independent housekeeping and then they started formally sharing custody.
+[4] The suite occupied by the Appellant was a completely self-contained 650 square foot unit with all amenities necessary for independent living. Prior to the separation the suite was rented to a tenant and had a separate entrance from the other entrances to the matrimonial home but also had a doorway which, when unlocked on both sides, could result in a free flow of traffic back and forth between the main portion of the matrimonial home occupied by the spouse, and the suite. During the time period, the Appellant occupied the suite and, with the amiable relationship which appeared to exist between the Appellant and the spouse, this door remained unlocked and there could be free uninterrupted access to and from the suite and to the matrimonial home but, necessarily, each party would respect the privacy of the other.
+[5] The living arrangements of the Appellant and his spouse were undertaken so as to not displace the children, in the short term. When the spouse eventually found another place to live, the Appellant planned to move upstairs in the matrimonial home and the shared custody arrangement between the parties would continue, resulting in the least disruption to the children’s lives as possible.
+[6] The custodial arrangement for the children was on a 50/50 basis. The Appellant's spouse travelled during the course of her work being away approximately one day per week and in some cases about every three months being away for a week at a time.
+[7] The Appellant gave evidence that he did not have to ask for an invitation from his spouse to enter the other portion of the matrimonial home but each person respected their separate living areas and when his spouse travelled he would go into his spouse's living area and deal with the children going to school and other matters in relation to the children. For three days per week the children would be with the Appellant (Monday, Tuesday and Wednesday) and four days would be with the Appellant's spouse (Thursday through to Sunday). The children all attended school on the same street where the Appellant and spouse resided. For the three days when the children would be with the Appellant, in the morning, he would get the children out of bed (they were sleeping in the portion of the matrimonial home occupied by the spouse). The children would all have breakfast with the Appellant in the suite and he would make their breakfast as well as make their lunch for them to take to school. They would then go to their respective rooms, do some personal hygiene in either, the spouse's washroom facilities or the washroom facilities in the suite. The Appellant would walk the children to school. After school the children would come to the suite or he would pick them up at school depending on what extracurricular activities they participated in at the time. After school the children would change from their regular school clothing. The Appellant would deal with their homework or they would be outdoors playing. At supper time he would prepare their supper in his suite and they would eat their meal in the suite. After supper he might go for a walk or he might take the children to hockey practice, visit neighbours or they might entertain friends in the suite. Later in the evening he would put Sabrina to bed in her own bedroom and ensured she said her prayers.
+[8] Lorenzo was claimed by the Appellant for the wholly dependent deduction for the time period (equivalent to spouse credit). Lorenzo was 11 years of age and his bedroom was on the same floor level in the matrimonial home as the suite occupied by the Appellant but in that portion of the house occupied by the spouse. A wall separated Lorenzo's bedroom and the suite. Lorenzo would do his toiletries either in the spouse's washroom facilities or the suite washroom facilities. He would sleep in a bedroom adjacent to the suite and had free access to go to and from the suite occupied by the Appellant. The Appellant would get him up in the morning, ensure Lorenzo's toiletries were completed; prepare him breakfast and lunch in the suite; take him to school; pick him up after school; play with him after school; help with his homework; have him visit with his friends or entertain them in the suite. Lorenzo kept his clothes in his bedroom. When he came to the Appellant's unit he would bring his own toys and other things that he wanted to play with or use when he was with the Appellant but most of the children’s personal possessions were in their own specific bedrooms. Laundry was in the common area used by the Appellant and the spouse.
+Position of the Appellant
+[9] The Appellant takes the position that he is entitled to the wholly dependent deduction (equivalent to spouse credit) for his son, Lorenzo, notwithstanding the fact that while he is supporting Lorenzo in his self-contained domestic establishment, the child sleeps in that portion of the premises occupied by the spouse.
+Position of the Respondent
+[10] The Respondent takes the position that the Appellant is not entitled to the wholly dependent deduction for Lorenzo because the Appellant did not wholly support his son within the self-contained establishment. The Respondent asserts that there are three elements that must be established in order for the Appellant to be entitled to the deduction: (1) the Appellant must be unmarried or if married, not living with a spouse and not paying support to his ex-spouse, (2) the Appellant must maintain a self-contained domestic establishment and actually support in that place the dependent person, (the dependent must sleep in the unit occupied by the parent), (3) the dependent person must be wholly dependent on the taxpayer.
+[11] The Respondent takes the position that the Appellant would meet conditions one and three but not the second because the child, Lorenzo, was not sleeping in the self-contained establishment. The Respondent takes the position that it is absolutely necessary to be wholly dependent to sleep in a self-contained domestic establishment notwithstanding what other support dependency activities may take place between the Appellant and the dependent in the self-contained domestic establishment.
+The Law
+[12] Paragraph 118(1)(b) of the Income Tax Act states:
+wholly dependent person ["equivalent to spouse" credit] – in the case of an individual who does not claim a deduction for the year because of paragraph (a) and who, at any time in the year,
+(i) is
+...
+(B) a person who is married or in a common-law partnership, who neither supported nor lived with their spouse or common-law partner and who is not supported by that spouse or common-law partner, and
+(ii) whether alone or jointly with one or more other persons, maintains a self-contained domestic establishment (in which the individual lives) and actually supports in that establishment a person who, at that time, is
+...
+(B) wholly dependent for support on the individual, or the individual and the other person or persons, as the case may be, ...
+(emphasis added)
+[13] Subsection 248(1) of the Act defines "self-contained domestic establishment" as:
+means a dwelling-house, apartment or other similar place of residence in which place a person as a general rule sleeps and eats.
+Analysis
+[14] Upon review of paragraph 118(1)(b) of the Act, it is evident that it is the person who provides the support, who must maintain a self-contained domestic establishment and it is that person who must provide support in that establishment to a person who is totally dependent on the support of the individual. Referring to subsection 248(1) of the Act the definition of self-contained establishment, reference is made to a place where a person as a general rule sleeps and eats. The reference to the person refers to the individual as noted in paragraph 118(1)(b) so it is the person who is providing the support that is the person who must generally sleep and eat in the self-contained domestic establishment not the actual dependent. The combination of this paragraph 118(1)(b) and subsection 248(1), (the definition of self-contained establishment) require that:
+(a) The individual claiming credit must be the supporting individual;
+(b) The individual claiming credit must maintain and live in a self-contained domestic establishment;
+(c) The individual claiming the credit must as a general rule sleep and eat in the self-contained domestic establishment;
+(d) The individual claiming a credit must support the dependent person in the self-contained domestic establishment.
+It should be noted that this section does not require the dependent person to sleep and eat in the self-contained domestic establishment. It does require the individual claiming the credit, as a general rule, to sleep and eat in the self-contained domestic establishment. As such, whether or not the dependent sleeps or eats in the self-contained domestic establishment is really neither here nor there, in and of itself. There are a whole variety of factors, which go into providing support. Justice Beaubier in Badger v. Her Majesty the Queen, [2001] 3 C.T.C. 2715 stated in part at paragraph 10 as follows:
+… The word “support” respecting children is not limited to money (or to food or to shelter every other weekend). “Support” is defined by the Shorter Oxford Dictionary as:
+To furnish food or maintenance for; to supply with the necessities of life … to keep up the strength of … to sustain … to keep … from failing or giving away; to give courage, confidence or power of endurance to … to preserve from failure …
+That is “support” for a family member within the meaning of paragraph 118(1)(b). No doubt that can be shared by a child’s parents, and is shared where they are living together. Similarly, it is the kind of “support” each gives to another spouse. But it does not occur on mere bi-weekly visits.
+[15] There is no dispute but that the Appellant does occupy a self-contained domestic establishment. The only issue is whether or not Lorenzo was wholly dependent for support on the Appellant. This issue appears to revolve around the question of whether or not Lorenzo actually lives with the Appellant during the period of time. According to the Respondent it is essential that the dependent sleep in the self-contained establishment. As per my analysis of paragraph 118(1)(b) and subsection 248(1), I believe this position is erroneous.
+[16] From the evidence it is quite clear that the child Lorenzo was dependent upon the Appellant and supported by him while the child was in custody of the Appellant during the time period in a self-contained domestic establishment, notwithstanding the fact that Lorenzo slept in, and only slept in, that portion of the premises occupied by the spouse which happens to be a bedroom separated from the suite by a common wall, yet be accessible through a door between the suite and the remainder of the matrimonial home, one wall away from the self-contained establishment occupied by the Appellant. In this particular case it is evident that the Appellant carried out all the responsibility that any parent would in a self-contained establishment when a child is wholly dependent upon them for a certain period of time. The Appellant during the time period, (a) awoke Lorenzo on a daily basis; (b) made sure that Lorenzo looked after his appropriate toiletries whether it be in the suite or the other washroom in the matrimonial home; (c) made sure he was properly attired for school; (d) made breakfast for Lorenzo and had the child eat his breakfast in the suite; (e) walked Lorenzo to school; (f) made lunch for Lorenzo daily; (g) picked Lorenzo up after school; (h) returned Lorenzo to the suite; (i) ensured that the homework was done; (j) played and engaged with Lorenzo and entertained his friends in the suite; (k) ensured that Lorenzo's play toys and other items of interest were in the suite for the child to use while the child was there; (l) made dinner for the child; (m) ensured that the child's laundry was done and clothing was available; (n) ensured the child was properly dressed; (o) provided direction and supervision for the child during the period of time; and, (p) made sure that the child went to bed at the appropriate time. The simple fact that the child slept in a bed which was a wall away from the suite on the same level as the suite is only one aspect of dependency and support. During the time in question, the child was supported by the Appellant in the self-contained establishment.
+[17] I have considered a variety of cases including Narsing v. Her Majesty the Queen, 98 DTC 6176; Her Majesty the Queen v. Scheller, 75 DTC 5406; Ruzicka v. Her Majesty the Queen, 95 DTC 365; E.A. Baltazar v. Her Majesty the Queen, [1995] 1 C.T.C. 2877; Mujawamariya v. Her Majesty the Queen, [2003] 4 C.T.C. 2125 and Jankowska-Kamac v. Her Majesty the Queen, [2001] 3 C.T.C. 2084. In these particular cases, the alleged dependent did not live in the same premises as the person providing the support; in fact in most cases did not even live in the same country as the person claiming support. In Narsing, supra, the claimant and the dependent lived in totally separate buildings; in Scheller, supra, the child lived in Estonia; in Ruzicka, supra, the child lived in Czechoslovakia; in E.A. Baltazar, supra, the child lived in the Philippines; in Mujawamariya, supra, the child lived in Rawanda and in Jankowska-Kamac, supra, the child lived in Poland. Each of these cases is significantly different on the facts than the case that is presently before this Court and can be distinguished on that basis.
+[18] If I am in error in my interpretation of paragraph 118(1)(b) and subsection 248(1) of the Act (which I believe I am not) then notwithstanding such error, I find, based upon the evidence, that Lorenzo was dependent upon the Appellant and supported by him in a self-contained establishment while the child was in custody of the Appellant during the time period. I find this notwithstanding the fact that Lorenzo slept and only slept in that portion of the premises occupied by the spouse which happens to be in a bedroom separated from the suite by a common wall yet be accessible through a door between the suite and the remainder of the matrimonial home, one wall away from the self-contained establishment occupied by the Appellant. I find that it is not necessary in order for the Appellant to provide support in a self-contained establishment in the circumstances of this particular case, that the dependent actually slept in the self-contained establishment as this is one and only one aspect of support. In essence, the bedroom occupied by Lorenzo, was basically a swing unit. When Lorenzo was supported by the Appellant, his bedroom formed part of the suite. When Lorenzo was not being supported by his father, the bedroom he occupied would form part of the matrimonial home, occupied by the spouse. For all the reasons cited earlier, (paragraph 16) where I referred to the evidence and the activities of the Appellant and the son and the type of support provided by the Appellant during the time period the Appellant was supporting the child in a self-contained establishment as contemplated in paragraph 118(1)(b), I find the Appellant is entitled to the equivalent to spouse credit.
+[19] The Respondent stated that the purpose of the credits in question in the Income Tax Act is to offset the expense of caring for the child. The Appellant, in this case, was carrying all the expenses with respect for child caring during the time period the child was with him so why should he not be entitled to the relevant credits. The Respondent takes the position that the child must sleep in the self-contained establishment in order to qualify as a dependent. What happens in the circumstances where the child falls asleep in the self-contained domestic establishment and is carried by the father, the Appellant, to the child's bedroom where he is actually put to bed and where the bedroom is in the other portion of the same premises but not in the suite? What happens in the circumstances when the child falls asleep in his own bed in the portion of the premises occupied by the spouse and is removed during the night, each night, from that area to some sleeping accommodations in the suite? For the Respondent to take the position that it is absolutely necessary for the child to sleep in the self-contained domestic establishment or else the credit is not allowed is unreasonable. The Minister fails to consider that each particular case can vary depending on the facts. I have found based on the facts of this particular case that the Appellant is entitled to the wholly dependent deduction (equivalent to spouse credit). The appeal is allowed and the matter is referred back to the Minister for reassessment.
+Signed at Ottawa, Canada, this 20th day of June, 2007.
+Rossiter, J.
+CITATION: 2007TCC360
+COURT FILE NO.: 2006-2144(IT)I
+STYLE OF CAUSE: LEONARD G. BRUNO AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Vancouver, British Columbia
+DATE OF HEARING: May 15, 2007
+ORAL REASONS FOR JUDGMENT
+BY: The Honourable Justice Eugene P. Rossiter
+DATE OF ORAL JUDGMENT: June 19, 2007
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+Max Matas
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

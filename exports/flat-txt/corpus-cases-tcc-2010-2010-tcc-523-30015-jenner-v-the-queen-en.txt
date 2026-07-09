@@ -1,0 +1,150 @@
+Title: Jenner v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30015/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-523-30015-jenner-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-10-14
+
+# Jenner v. The Queen
+
+- Citation: 2010 TCC 523
+- Decision date: 2010-10-14
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7671, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Jenner v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-10-14
+Neutral citation
+2010 TCC 523
+File numbers
+2009-1680(IT)I
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-1680(IT)I
+BETWEEN:
+BRIAN JENNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+____________________________________________________________________
+Appeal heard on June 22, 2010, at Québec, Quebec.
+Before: The Honourable Justice Alain Tardif
+Appearances:
+For the appellant:
+The appellant himself
+Counsel for the respondent:
+Philippe Dupuis
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Income Tax Act for the 2003 taxation year is dismissed, without costs, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 14th day of October 2010.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 6th day of December 2010.
+Daniela Possamai, Translator
+Citation: 2010 TCC 523
+Date: 20101014
+Docket: 2009-1680(IT)I
+BETWEEN:
+BRIAN JENNER,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Tardif J.
+[1] This is a very unique case in that, based on the circumstances, it appears that the appellant wants restart or redo a trial in which he was unsuccessful both before the Tax Court of Canada and the Federal Court of Appeal. The Supreme Court of Canada denied him permission to be heard.
+[2] Faced with such a situation, the respondent is asking the Court to sanction the appellant for abuse of process.
+[3] I explained to the appellant at length that he could not restart a trial that had already taken place, that this Court could not revise a decision that had already been rendered and, moreover, confirmed by the Federal Court of Appeal.
+[4] In reaction to that, the appellant stated and reiterated that there are new developments.
+[5] The assumptions of fact relied upon in support of the appeal are as follows:
+(a) The appellant was employed by The Helicopter Association of Canada (hereinafter, “HAC”);
+(b) On October 16, 2003, the appellant purchased a Land Rover utility vehicle for $83,000 (hereinafter “vehicle”);
+(c) In 2003, the appellant paid $1,147.78 in interest on the amount borrowed to purchase the vehicle;
+(d) The vehicle was leased to HAC for only 5 years, January 1, 2004, to December 31, 2008;
+(e) HAC put the vehicle at the appellant’s disposal solely for work-related purposes.
+[6] The appellant explained the reasoning behind the matter and what led him to reappeal. He mainly stated that the judge who heard the case relied on certain factual assumptions that proved to be quite different in the months that followed the judgment. From that, the appellant concluded that it involved a new case.
+[7] Contrary to the appellant’s claim, this appeal involves the same years and the facts are exactly the same as those of the first trial.
+[8] As Archambault J. pointed out, the obligation for a lessor of a property to perform major repairs does not transform property income into business.
+[9] At the first trial, the appellant was able to argue all the facts he deemed useful and relevant to meet the burden of proof imposed on him, but also, and mainly, to justify the relevance of his appeal. In the case at bar, the appellant wishes to make the same argument again in a different way.
+I - Res judicata
+[10] Article 2848 of the Civil Code of Québec (C.C.Q.), which states that res judicata is found in Book Seven dealing with the evidence and reads as follows:
+The authority of a final judgment (res judicata) is an absolute presumption; it applies only to the object of the judgment when the demand is based on the same cause and is between the same parties acting in the same qualities and the thing applied for is the same.
+[11] In order for res judicata to apply, three conditions must be met: there must be a mutuality of parties (1), identity of object (2) and identity of cause (3). The mutuality of parties is not an issue in this case, whereas the issues of identity of object and cause are less obvious.
+A – Identity of cause
+[12] The Supreme Court of Canada describes in the following terms the notion of cause:
+First, it is clear that a body of facts cannot in itself constitute a cause of action. It is the legal characterization given to it which makes it, in certain cases, a source of obligations. A fact taken by itself apart from any notion of legal obligations has no meaning in itself and cannot be a cause; it only becomes a legal fact when it is characterized in accordance with some rule of law. The same body of facts may well be characterized in a number of ways and give rise to completely separate causes. For example, the same act may be characterized as murder in one case and as civil fault in another.[1]
+[13] Dufresne J. of the Superior Court of Quebec summarized the words of the Supreme Court as follows:
+[Translation]
+The cause of action is the legal fact that gave rise to the right claimed. This is what must be proven to be successful.[2]
+B – The identity of object
+[14] Professor Royer defined the notion of object as follows:
+[Translation]
+The subject of a legal action is the benefit a litigant seeks or the right he or she wishes to have sanctioned, diminished or abrogated. The presumption of section 2848 C.C.Q. does not require that there be a physical identity of the thing demanded. It suffices that there be an abstract or formal identity of the right claimed.[3]
+[15] In the case at bar, the only difference is in the way he presented his case based on the same facts. Having read, understood and learned a certain number of elements as to the scope of certain provisions of the Act and/or judgments, the appellant would like to have a second chance to argue his points; to subscribe to the logic of the appellant would mean that anyone could restart a lost trial with new counsel, which is obviously completely contrary to the stability and coherence of the system.
+[16] Furthermore, the appellant seems to be earnest on the one hand, and on the other, the obvious serious preparation of his case has allowed him to find that the issue involves a number of aspects of which certain characteristics can lead to various interpretations. The appellant undoubtedly identified certain elements which he did not know existed in his first experience before the Court and would like to take advantage of this appeal to introduce those elements so that they be taken into account.
+[17] A judgment was rendered based on the evidence submitted by the parties; the judgment is definitive and cannot be revised by way of an appeal that is now before the Court.
+[18] The appellant appeal that judgment and the Federal Court of Appeal confirmed the judgment of the Honourable Justice Pierre Archambault.
+[19] Still not accepting the result, the appellant tried to obtain from the Supreme Court of Canada leave to appeal, which was denied.
+[20] The judgment of Archambault J. and that of the Federal Court of Appeal which confirmed it settled the case’s fate once and for all.
+[21] As regards the request for sanction for abuse of process, I do not believe that it is founded and, consequently, I dismiss it.
+[22] Abuse of process has at its foundation the decision of the Supreme Court of Canada in Toronto (City) v. Canadian Union of Public Employees (C.U.P.E.).[4] The power to intervene in cases of abuse of process is described as an inherent and residual discretion.[5] The doctrine of abuse of process engages the inherent power of the court to prevent the misuse of its procedure, in a way that would be manifestly unfair to a party to the litigation before it or would in some other way bring the administration of justice into disrepute.[6] Abuse of process is a doctrine that was applied by the Federal Court of Appeal in tax cases.[7]
+[23] The doctrine of abuse of process may be applied where “the litigation before the court is found to be in essence an attempt to relitigate a claim which the court has already determined”[8] and it concentrates on the following principles:
+. . .First, there can be no assumption that relitigation will yield a more accurate result than the original proceeding. Second, if the same result is reached in the subsequent proceeding, the relitigation will prove to have been a waste of judicial resources as well as an unnecessary expense for the parties and possibly an additional hardship for some witnesses. Finally, if the result in the subsequent proceeding is different from the conclusion reached in the first on the very same issue, the inconsistency, in and of itself, will undermine the credibility of the entire judicial process, thereby diminishing its authority, its credibility and its aim of finality.[9]
+[24] According to the Supreme Court, the doctrine of abuse of process should not be applied in the following cases:
+. . .There may be instances where relitigation will enhance, rather than impeach, the integrity of the judicial system, for example: (1) when the first proceeding is tainted by fraud or dishonesty; (2) when fresh, new evidence, previously unavailable, conclusively impeaches the original results; or (3) when fairness dictates that the original result should not be binding in the new context. . . .
+. . . There are many circumstances in which the bar against relitigation, either through the doctrine of res judicata or that of abuse of process, would create unfairness. If, for instance, the stakes in the original proceeding were too minor to generate a full and robust response, while the subsequent stakes were considerable, fairness would dictate that the administration of justice would be better served by permitting the second proceeding to go forward than by insisting that finality should prevail. An inadequate incentive to defend, the discovery of new evidence in appropriate circumstances, or a tainted original process may all overcome the interest in maintaining the finality of the original decision.[10]
+(Emphasis added.)
+[25] The appellant submits that there are new legal arguments to make. In that regard, the Supreme Court does not consider that the existence of new arguments may preclude the application of the doctrine of abuse of process.
+[26] Determined and tenacious, the appellant, who is earnest, would like this Court to take into consideration the hypothetical elements raised by Archambault J., which, in the months that followed the judgment, became a reality. Even it involved one of the major forces behind the decision of Archambault J., which is not the case, it would not change anything with regard to res judicata.
+[27] However, given the uniqueness of the case in a context where the appellant represents himself, I prefer to accept the thesis of tenacity and determination rather than that of stubbornness or abuse.
+[28] I also understood that the appellant would have perhaps prepared and presented different evidence had he known beforehand all the case law he consulted after the trial before Archambault J.
+[29] From that perspective, it is easy to imagine and understand the underlying rationale for the res judicata rule, which contributes to coherence in the judicial system. A multitude of options exist following a judgment. I am referring specifically to the reopening of an inquiry, revocation and appeal. They are procedures that are subject to strict and specific conditions which are moreover also subject to mandatory timelines.
+[30] In the case at bar, the decision of the Federal Court of Appeal permanently halted the tax implications of the economic activities undertaken by the appellant and at issue in this case for the 2003 taxation year.
+[31] For these reasons, the appeal is dismissed.
+Signed at Ottawa, Canada, this 14th day of October 2010.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 6th day of December 2010.
+Daniela Possamai, Translator
+CITATION: 2010 TCC 523
+COURT FILE NO.: 2009-1680(IT)I
+STYLE OF CAUSE: BRIAN JENNER v. HER MAJESTY THE QUEEN
+PLACE OF HEARING: Québec, Quebec
+DATE OF HEARING: June 22, 2010
+REASONS FOR JUDGMENT BY: The Honourable Justice Alain Tardif
+DATE OF JUDGMENT: October 14, 2010
+APPEARANCES:
+For the appellant:
+The appellant himself
+Counsel for the Respondent:
+Philippe Dupuis
+COUNSEL OF RECORD:
+For the appellant:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada Ottawa, Canada
+[1] Rocois Construction Inc. v. Québec Ready Mix Inc., [1990] 2 S.C.J. 440 (QL), para. 24.
+[2] Angers v. Centre Start Montréal Inc., REJB 2005-87198 (SC).
+[3] Jean-Claude Royer and Sophie Lavallée, La preuve civile, 4th edition, Cowansville (Qc), Éditions Yvon Blais, 2008, para. 835, p. 720.
+[4] Toronto (City) v. Canadian Union of Public Employees (C.U.P.E.), [2003] S.C.J. No. 64 (QL).
+[5] Toronto (City) v. Canadian Union of Public Employees (C.U.P.E.), para. 35.
+[6] Toronto (City) v. Canadian Union of Public Employees (C.U.P.E.), para. 37.
+[7] Golden v. Canada, 2009 FCA 86; Morel v. Canada, 2008 FCA 53.
+[8] Toronto (City) v. Canadian Union of Public Employees (C.U.P.E.), para. 37.
+[9] Toronto (City) v. Canadian Union of Public Employees (C.U.P.E.), para. 51.
+[10] Toronto (City) v. Canadian Union of Public Employees (C.U.P.E.), para. 52 and 53.

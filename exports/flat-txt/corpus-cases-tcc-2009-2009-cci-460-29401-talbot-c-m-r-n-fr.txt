@@ -1,0 +1,138 @@
+Title: Talbot c. M.R.N.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/29401/index.do
+Corpus path: corpus/cases/tcc/2009/2009-cci-460-29401-talbot-c-m-r-n-fr.md
+Document type: case_law
+Last modified: 2009-09-15
+
+# Talbot c. M.R.N.
+
+- Citation: 2009 CCI 460
+- Decision date: 2009-09-15
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6924, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Talbot c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2009-09-15
+Référence neutre
+2009 CCI 460
+Numéro de dossier
+2008-3281(EI)
+Juges et Officiers taxateurs
+Paul Bédard
+Sujets
+Loi sur l'assurance-emploi
+Contenu de la décision
+Dossier : 2008-3281(EI)
+ENTRE :
+GILLES TALBOT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu à Montréal, Québec, le 3 juin 2009.
+Devant : L'honorable juge Paul Bédard
+Comparutions :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimé :
+M. Robert Ledoux (stagiaire)
+Me Stéphanie Côté
+____________________________________________________________________
+JUGEMENT
+L'appel interjeté en vertu du paragraphe 103(1) de la Loi sur l'assurance‑emploi est rejeté et la décision du ministre du Revenu national est confirmée, selon les motifs du jugement ci-joints.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2009.
+« Paul Bédard »
+Juge Bédard
+Référence : 2009 CCI 460
+Date : 20090915
+Dossier : 2008-3281(EI)
+ENTRE :
+GILLES TALBOT,
+appelant,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Bédard
+[1] Dans la présente affaire, il s’agit de déterminer si monsieur Gilles Talbot (le « travailleur ») satisfaisait aux exigences d’un contrat de louage de services, au sens de l’alinéa 5(1)a) de la Loi sur l’assurance-emploi (la « Loi »), pendant la période allant du 1er juillet 2006 au 18 novembre 2007 (la « période visée ») au cours de laquelle il était au service de Loblaws (le « payeur »).
+[2] Pour rendre sa décision, le ministre du Revenu national (le « ministre ») s’est appuyé sur les hypothèses de fait suivantes énoncées au paragraphe 5 de la Réponse à l’avis d’appel, lesquelles ont été admises par le travailleur, à l’exception des hypothèses énoncées aux paragraphes 5d) et 5h) au sujet desquelles il ne savait rien :
+a) l’appelant a déjà été chef-cuisinier et avait plus de 30 ans d’expérience en cuisine;
+b) l’appelant a répondu à une offre d’emploi à titre de chef démonstrateur sur le site d’Emploi Québec;
+c) l’offre d’emploi provenait de Gestion Culinaire André P. Moreau inc. (Gestion APM) qui recherchait un chef animateur devant offrir ses services comme travailleur autonome auprès du payeur;
+d) M. André P. Moreau était l’unique actionnaire de Gestion APM et chef cuisinier de profession;
+e) Gestion APM détenait un contrat de Provigo/Loblaws pour agir comme intermédiaire et recruter des chefs cuisiniers pour l’animation ou pour donner des cours culinaires dans les succursales de Loblaws;
+f) le chef cuisinier pour animation, tel que l’appelant, avait un travail plus stable car il était assuré de 24 heures de travail par semaine alors que le chef donnant des cours travaillait sur un horaire variable;
+g) M. André P. Moreau a recruté 32 ou 33 cuisiniers pour les 37 succursales de Loblaws; il vérifiait l’expérience et les compétences du chef cuisinier avant de le référer à l’une des succursales;
+h) Gestion APM ne recevait pas de prime pour chacun des chefs cuisiniers en poste mais uniquement un montant pour le recrutement et le remplacement de ceux-ci;
+i) après avoir répondu à l’offre d’emploi, l’appelant a été embauché par Caroline Bulbulian, collaboratrice de Gestion APM;
+j) l’appelant a été embauché verbalement et après avoir travaillé 2 ou 3 jours chez Loblaws de St-Hyacinthe, il a travaillé durant toute la période en litige au supermarché Loblaws à Granby;
+k) l’appelant n’a pas passé d’entrevue avec le directeur de la succursale du magasin où il a travaillé;
+l) l’appelant travaillait au supermarché où il devait préparer, généralement 2 recettes par semaine, pour les faire goûter aux clients;
+m) l’appelant recevait de M. Moreau, une semaine à l’avance, les 2 recettes à préparer durant sa semaine de travail;
+n) l’appelant achetait les produits requis pour les recettes directement au supermarché et passait à la caisse où ces aliments étaient portés à un compte spécifique (code de déboursé);
+o) le payeur ne faisait qu’indiquer à l’appelant l’endroit où il désirait qu’il s’installe dans le magasin pour offrir les dégustations;
+p) l’appelant fournissait ses couteaux et sa planche à découper alors que le payeur fournissait le poêle à butane, une planche démontable et ses casseroles;
+q) l’appelant pouvait communiquer avec M. Moreau s’il désirait plus de détails sur une recette mais il ne recevait pas de directives du gérant du supermarché;
+r) l’appelant se déplaçait de Farnham à Granby pour travailler et il devait assumer les frais de déplacement de son véhicule;
+s) l’appelant devait travailler selon un horaire précis établi par le payeur dans toutes les succursales de Loblaws; il travaillait de 15 h à 20 h les jeudis et vendredis et de 9 h à 16 h les samedis et dimanches pour un total de 24 heures par semaine;
+t) le dimanche, il remettait au payeur une feuille sur laquelle était inscrit son nom, son adresse, le code de déboursé, le numéro de transit et le nombre d’heures travaillées (soit 24 heures);
+u) l’appelant remettait sa « facture de temps » à la caissière du magasin qui le payait directement en argent (sauf pour la 1ère semaine alors qu’il a été rémunéré par chèque;
+v) l’appelant recevait une rémunération fixe de 600 $ par semaine du payeur;
+w) contrairement aux employés du magasin, l’appelant n’avait pas à « poinçonner » ses heures; il n’avait qu’à remettre sa « facture de temps »;
+x) contrairement aux employés du payeur, l’appelant ne bénéficiait d’aucun avantage du payeur (assurances médicaments ou invalidité, régime de retraite et autres avantages sociaux);
+y) l’appelant pouvait apporter et remettre ses propres cartes d’affaires aux clients du magasin;
+z) en 2006 et 2007, l’appelant a déclaré des revenus d’entreprise dans ses déclarations d’impôt.
+[3] La preuve a aussi révélé que :
+i) le travailleur n’avait pas de contrat avec Loblaws;
+ii) le payeur ne donnait aucune directive à l’égard de la préparation des recettes. Je souligne que le travailleur a reconnu qu’il pouvait modifier la recette lorsqu’un ingrédient nécessaire à sa préparation n’était pas disponible à la succursale Loblaws où il travaillait;
+iii) le travailleur pouvait refuser de travailler. Il pouvait aussi prendre des congés à ses frais. En cas d’absence, il avertissait Gestion APM qui devait lui trouver un remplaçant. Je souligne ainsi que le travailleur a témoigné qu’à titre de travailleur autonome, il croyait pouvoir demander une avance sur sa rémunération;
+iv) Gestion APM avait communiqué avec le travailleur pour mettre fin à son contrat à la suite d’un appel du directeur de la succursale Loblaws où il travaillait.
+Analyse et conclusion
+[4] Pour être admissible à de l’assurance-emploi, il faut détenir un emploi assurable au sens de l’alinéa 5(1)a) de la Loi. On y retrouve les termes « contrat de louage de services », « employeur » et « employé », ce dernier devant être rémunéré par l’employeur ou une autre personne pour déterminer le statut de travailleur.
+[5] La Loi ne définit pas ce qu’est un contrat de louage de services. L’alinéa 5(1)a) de la Loi doit donc être analysé à la lumière du droit civil québécois lorsque le droit provincial applicable est celui du Québec.[1]
+[6] Le contrat de travail, anciennement désigné sous le nom de « contrat de louage de services », est défini à l’article 2085 du Code civil du Québec. Trois critères doivent être présents pour qu’il y ait un contrat de travail, soit : une prestation de travail, une rémunération et un contrôle de la part de l’employeur. Toutefois, il ne faut pas confondre contrôle du résultat avec contrôle du travailleur.
+[7] Il faut déterminer en l’espèce s’il y avait un lien de subordination entre le payeur et le travailleur. Autrement dit, il faut déterminer si le payeur avait le droit de diriger ou de contrôler le travailleur.
+[8] En l’espèce, les seuls faits mis en preuve qui pourraient nous inciter à conclure qu’il y avait un lien de subordination entre le payeur et le travailleur portaient sur :
+i) l’horaire de travail;
+ii) l’endroit précis où le travailleur devait exécuter les recettes à la succursale Loblaws où il travaillait.
+[9] Je ne crois pas qu’on doive voir dans ces faits un lien de subordination entre le payeur et le travailleur. Je suis d’avis que les exigences liées à un horaire de travail et au lieu de travail ne sont pas l’apanage et le propre d’un contrat de travail. En effet, rares sont les donneurs d’ouvrages qui ne s’assurent pas que le travail est exécuté en conformité avec leurs exigences et aux lieux convenus. Il faut voir en l’espèce dans ces faits un contrôle du résultat et non un contrôle de l’exécution du travail.
+[10] Bien que nous ayons conclu qu’il n’y avait pas de lien de subordination entre le travailleur et le payeur, nous examinerons par ailleurs la question à savoir si le travailleur détenait tout de même un emploi assurable au sens de l’alinéa 5(1)a) de la Loi.
+[11] À cet égard, la Loi permet à la Commission de l’assurance-emploi du Canada, avec l’accord du gouverneur en conseil, d’étendre par réglementation la couverture d’assurance à des emplois normalement non assurables. Il faut donc se référer au règlement pour connaître les emplois qui sont inclus dans les emplois assurables ou qui sont exclus de ceux-ci. L’alinéa 6g) du Règlement sur l’assurance‑emploi se lit comme suit :
+6. Sont inclus dans les emplois assurables, s’ils ne sont pas des emplois exclus conformément aux dispositions du présent règlement, les emplois suivants :
+[…]
+g) l’emploi exercé par une personne appelée par une agence de placement à fournir des services à un client de l’agence, sous la direction et le contrôle de ce client, en étant rétribuée par l’agence.
+Il ressort de cette disposition que le travailleur aurait détenu un emploi assurable s’il avait été sous la direction et le contrôle du payeur et s’il avait été rétribué par Gestion APM. En l’espèce, la preuve a révélé que le travailleur avait été rétribué par le payeur et non par Gestion APM. De plus, je rappelle que j’ai conclu qu’il n’y avait pas de lien de subordination entre le travailleur et le payeur. Par conséquent, le travailleur ne peut prétendre avoir détenu un emploi assurable en vertu de l’alinéa 6g) du Règlement sur l’assurance-emploi.
+[12] Pour ses motifs, l’appel est rejeté.
+Signé à Ottawa, Canada, ce 15e jour de septembre 2009.
+« Paul Bédard »
+Juge Bédard
+RÉFÉRENCE : 2009 CCI 460
+Nº DU DOSSIER DE LA COUR : 2008-3281(EI)
+INTITULÉ DE LA CAUSE : GILLES TALBOT ET M.R.N.
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : le 3 juin 2009
+MOTIFS DU JUGEMENT PAR : L'honorable juge Paul Bédard
+DATE DU JUGEMENT : le 15 septembre 2009
+COMPARUTIONS :
+Pour l'appelant :
+l'appelant lui-même
+Pour l'intimé :
+M. Robert Ledoux (stagiaire)
+Me Stéphanie Côté
+AVOCAT INSCRIT AU DOSSIER :
+Pour l'appelant:
+Nom :
+Cabinet :
+Pour l’intimé : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Grimard c. Canada, 2009 CAF 47; 9041-6868 Québec Inc. c. Canada (Ministre du Revenu national - M.R.N.) 2005 CAF 334.

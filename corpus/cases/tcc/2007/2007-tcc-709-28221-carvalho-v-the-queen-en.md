@@ -1,0 +1,150 @@
+---
+title: "Carvalho v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/28221/index.do"
+last_modified: "2007-12-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2007 TCC 709"
+citation2: ""
+neutral_citation: "2007 TCC 709"
+decision_date: "2007-12-04"
+language: "en"
+item_id: "28221"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 2068
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T22:30:35.577000+00:00"
+cases_cited_count: 0
+cases_citing_count: 5
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5e77884deb68bb5b4f29b3b7244d18dad704ad4fc566ed733a7647159b7dd172"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Carvalho v. The Queen
+
+- Citation: 2007 TCC 709
+- Decision date: 2007-12-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 2068, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Carvalho v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2007-12-04
+Neutral citation
+2007 TCC 709
+File numbers
+2007-3324(EI)
+Judges and Taxing Officers
+Alain Tardif
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-3324(EI)
+BETWEEN:
+CARLOS CARVALHO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+____________________________________________________________________
+Motion heard on October 2, 2007, at Montréal, Quebec
+Before: The Honourable Justice Alain Tardif
+Appearances:
+Counsel for the Appellant:
+Marc‑Antoine Oberson
+Counsel for the Respondent:
+Dany Leduc
+____________________________________________________________________
+ORDER
+On motion by the Respondent, the decision to reject the request for an extension of time is confirmed and the Notice of Appeal is struck out on the ground that it is without basis, in accordance with the attached Reasons for Order.
+Signed at Ottawa, Canada, this 4th day of December 2007.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 23rd day of January 2008.
+Brian McCordick, Translator
+Citation: 2007TCC709
+Date: 20071204
+Docket: 2007-3324(EI)
+BETWEEN:
+CARLOS CARVALHO,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent.
+REASONS FOR ORDER
+Tardif J.
+[1] This is a motion to dismiss on the ground that the Notice of Appeal is void on its face.
+[2] The grounds cited in support of the motion are as follows:
+[TRANSLATION]
+1. On April 11, 2002, the Minister of National Revenue ("the Minister") issued a notice of assessment to the Appellant under section 227.1 of the I.T.A. and under the E.I.A. in the amount of $39,136.05, representing unpaid deductions, interest and penalties payable by Groupe Carsil Inc.
+2. On April 2, 2007, the Appellant filed a notice of objection to the notice of assessment and a request for an extension of time.
+3. On May 2, 2007, the Respondent rejected the Appellant’s notice of objection and request for an extension of time because the request was not made within one year after the expiration of the time otherwise limited for filing a notice of objection, as required by paragraph 166.1(7)(a) of the I.T.A.
+4. No decision was made by the Respondent under subsection 93(3) of the E.I.A.
+[3] In order for the Respondent to obtain the order he was seeking, the Respondent had to prove on a balance of probabilities that the notice of assessment was sent to the Appellant, although the Act does not require that the Minister deliver a notice by special or registered mail, the usual procedure of delivery by regular mail being sufficient.
+[4] The Appellant argues that the Notice of Appeal was filed in accordance with the provisions of the Act, in that, he says, he never received anything relating to the assessment made in his regard. In other words, he submits that he acted within the time allowed, which began to run on the date on which he first had knowledge of the assessment. The basis of the Appellant’s arguments is that he never received anything relating to the assessment, and, moreover, that no one informed him of any assessment.
+[5] The Respondent adduced essentially circumstantial evidence that offered probative and probable proof of the attention given to the case and the work done on it, which cannot be doubted.
+[6] The person responsible for the case, Dany Guay, explained the work he did, but also, and most importantly, the efforts made to ensure that the case was handled in a such a way as to resolve it.
+[7] There are three scenarios before the Court, arising from the Appellant’s arguments. The first is that the work was done, but there was never any follow‑up in terms of communication. The first scenario must be rejected, because Mr. Guay reported conversations he had with one or more people close to the Appellant. Given the practice followed, which involves systematically recording in writing everything that is done in a case, the reasonable conclusion is that the testimony explaining the efforts made carries obvious credibility or weight.
+[8] The second scenario is that the material sent was addressed to the wrong place, or addressed incorrectly. That scenario is the most reasonable, and in fact it is possible that the various items mailed, including the notice of assessment, were addressed to a place where the Appellant did not live. Were the person or persons who received the item or items mailed friends or family of the Appellant, and did they deliver the notices to him or inform him of the content? Those are all questions to which it is not essential to have an answer or answers. In our tax system, where the rule is self-assessment, it is essential, for the smooth operation of a system of this nature, that the taxpayer or taxpayers ensure that their correct address is known to the tax authorities at all times, failing which they must accept responsibility for the consequences of non-communication or incorrect communication.
+[9] In the case at bar, there was not just one item mailed, but several. I strongly doubt that the Appellant did not receive any of them. If that is so, he alone is responsible for the situation.
+[10] A third scenario is possible, in which the Appellant saw the notice or notices, or the people who received them informed him that the notice or notices in question had been received, and he deliberately and expressly chose to ignore them, counting on disputing his receipt of them.
+[11] None of the three scenarios can be used by the Appellant to avoid the obligation he had to leave an address where any notice or correspondence that the Respondent might wish to send him could be sent.
+[12] In this regard, not only did the Appellant do absolutely nothing to show that he had such an address at the relevant time, but quite the opposite: his testimony was confused, evasive and incoherent, and he systematically refused to provide details in response to the questions put to him in that regard.
+[13] What is more, counsel for the Respondent had given his counterpart notice in advance to provide him with the various dates when the Appellant was incarcerated or living in halfway houses before he was given full parole. The Appellant ignored the request, advancing a whole series of far-fetched excuses.
+[14 Not only did he refuse to confirm certain facts with respect to a possible address or addresses, but he deliberately tried to suggest that he had no real address, and if he did have one, he did not remember it.
+[15 Moreover, I find the Appellant’s testimony to be without credibility, for the following reasons:
+· although he could have provided exact dates, he did not do so;
+· although he could have called people to support or verify some of his statements, he did not do so; and
+· his testimony was confused and incoherent.
+[16] The Appellant gave various excuses, each as far-fetched as the others, for refusing to answer specific questions.
+[17] He even went so far as to criticize the answers given by the people who worked on the case for being unclear, suggesting that these were probably lies or things made up out of whole cloth, because the testimony was too specific and clear to be true.
+[18] Lastly, it is also very interesting to note the evidence that he refused to accept mail from the Respondent within the weeks preceding the hearing, even though the mail had been sent to the address given on his Notice of Appeal and the address that he himself gave when he was sworn. This fact is subsequent to the facts in issue, I agree, but it is still a fact that supports the interpretation of the facts that are themselves relevant to the period in issue in this case.
+[19] On a balance of probabilities, it seemed more probable to me that the mail was in fact addressed and sent to the Appellant at the addresses provided, which, moreover, were to all appearances valid.
+[20] When all of this was brought to the Appellant’s attention, he claimed he had never received them, obviously believing that this would be to his advantage. The explanation provided runs counter to the preponderance of the evidence, which was that the notices of assessment were correctly addressed and sent to the address available, to which he had access. In any event, the Appellant had an obligation to make his address known and the evidence is that he did no such thing.
+[21] For all these reasons, the motion is allowed and the decision to reject the request for an extension of time is confirmed. In addition, the Notice of Appeal is struck out on the ground that it is without any basis.
+Signed at Ottawa, Canada, this 4th day of December 2007.
+“Alain Tardif”
+Tardif J.
+Translation certified true
+on this 23rd day of January 2008.
+Brian McCordick, Translator
+CITATION: 2007TCC709
+COURT FILE NO.: 2007-3324(EI)
+STYLE OF CAUSE: CARLOS CARVALHO AND THE QUEEN
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: October 2, 2007
+REASONS FOR ORDER BY: The Honourable Justice Alain Tardif
+DATE OF ORDER: December 4, 2007
+APPEARANCES:
+Counsel for the Appellant:
+Marc‑Antoine Oberson
+Counsel for the Respondent:
+Dany Leduc
+COUNSEL OF RECORD:
+For the Appellant:
+Name: Marc‑Antoine Oberson
+City: Montréal, QC
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

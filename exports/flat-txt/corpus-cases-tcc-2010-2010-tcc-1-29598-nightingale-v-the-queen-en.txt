@@ -1,0 +1,192 @@
+Title: Nightingale v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29598/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-1-29598-nightingale-v-the-queen-en.md
+Document type: case_law
+Last modified: 2010-01-11
+
+# Nightingale v. The Queen
+
+- Citation: 2010 TCC 1
+- Decision date: 2010-01-11
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6167, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Nightingale v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-01-11
+Neutral citation
+2010 TCC 1
+File numbers
+2007-2523(IT)I, 2007-4728(IT)I
+Judges and Taxing Officers
+Campbell J. Miller
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2007-2523(IT)I
+2007-4728(IT)I
+BETWEEN:
+JAMES NIGHTINGALE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeals heard on December 16, 2009, at Ottawa, Ontario
+By: The Honourable Justice Campbell J. Miller
+Appearances:
+Agent for the Appellant:
+Jack R. Bowerman
+Counsel for the Respondent:
+Andrew Miller
+____________________________________________________________________
+JUDGMENT
+The appeals from the reassessments made under the Income Tax Act for the 2004 and 2005 taxation years are dismissed.
+Signed at Ottawa, Canada, this 11th day of January, 2010.
+"Campbell J. Miller"
+C. Miller J.
+Citation: 2010TCC1
+Date:20090111
+Docket: 2007-2523(IT)I
+2007-4728(IT)I
+BETWEEN:
+JAMES NIGHTINGALE,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Miller J.
+[1] Mr. Nightingale, a Canadian resident and Canadian citizen, entered a personal services contract with Vietnam Veterans of America Foundation (the “VVAF”) in late 2004. He was to serve as a Technical Advisor in Iraq for VVAF’s Information Management and Mine Action Program. He worked for VVAF in Iraq in late 2004 and all of 2005. The issue is whether he is entitled to a deduction of his income earned from VVAF for this period based on:
+a) subparagraph 110(1)(f)(iii) of the Income Tax Act (the “Act”), which deducts income from employment with a prescribed international organization; in this regard, Mr. Nightingale claims his employment was indirectly with the United Nations, a prescribed international organization;
+b) Article 15 of the Canadian Charter of Rights and Freedoms (the “Charter”), claiming that Mr. Nightingale has been discriminated against in two ways:
+i) as a Canadian citizen resident in Canada versus a United States citizen resident in Canada who, according to Mr. Nightingale’s agent, would not be taxed in the United States due to their danger pay laws and also not taxed in Canada due to the application of Article XV of the Canada–United-States Income Tax Convention (1980) (the “Convention”); and
+ii) as a civilian Canadian versus Canadian military and police who are not taxed in Canada in accordance with subparagraph 110(1)(f)(v) of the Act.
+I find none of the Appellant’s arguments persuasive.
+Facts
+[2] In the years preceding and years subsequent to Mr. Nightingale’s work with the VVAF in 2004 and 2005, he worked directly for the United Nations. However, in late 2004 and throughout 2005, the United Nations, for security reasons, was not officially in Iraq. It was necessary for the United Nations to contract work to other organizations. This is explained in a memo dated April 19, 2004, from the United Nations Mine Action Service (the “UNMAS”)[1]:
+…
+Given the hazardous security situation and the restriction on the United Nations to directly deploy staff in Iraq, the United Nations and the NMAA have developed a strategy to provide mine-action services through NGO’s or commercial companies that do not have restrictions on their presence in the country or through remotely managed projects using existing national expertise and resources.
+…
+This situation is also confirmed in a letter from the United Nations Development Program (the “UNDP”) to the Canada Revenue Agency dated November 23, 2006[2]:
+Subject: Cooperation between UNDP and Vietnam Veterans of America Foundation for Mine Action in Iraq
+This is to confirm that during the period between January 14, 2005, and April 30, 2006, the United National Development Program (UNDP) contracted for Vietnam Veteran’s of America Foundation (VVAF) as our implementation partner for the provision of technical advisory support to the Iraqi National Mine Action Authority as well as it’s regional centers, the Regional Mine Action Centers in Erbil and Basra, in Iraq.
+[3] VVAF was one of the NGOs with whom the United Nations contracted for services in Iraq. VVAF in turn contracted with Mr. Nightingale, the Consultant, which contract stipulated in part, the following:[3]
+…
+VVAF has retained the services of the Consultant to act as a Technical Advisor for VVAF’s Information Management & Mine Action Programs in cooperation with the Department of State (“DOS”) through its project, Landmine Impact Survey, Iraq.
+…
+The Consultant shall work at the direction of William Barron and Joseph Donahue and shall make his monthly reports to Mr. Barron. …
+In consideration for these services, VVAF shall compensate the Consultant in the amount of $8500 per month. … It is understood that the Consultant is an independent contractor.
+This Agreement is subject to and contingent upon adequate funding VVAF programs (including its agreement with the DOS), and satisfactory performance of the Consultant. …
+In a letter of February 16, 2006, to his agent, Mr. Nightingale stated:
+…
+It was necessary for me to take the employment offered by VVAF in Iraq as it was the only work open to me at that particular time in my specific field. We hoped that by seizing whatever employment VVAF offered, that I would be “first in line” when another position came up with the UN. …
+[4] With respect to funding, Mr. Nightingale outlined in an email to his agent, that he understood funding came from the International Monitoring and Advisory Board Members including representatives of the Arab Fund for Economic and Social Development, the International Monetary Fund, United Nations, the World Bank and the Iraqi Interim Government.
+[5] Mr. Nightingale did work in northern Iraq (Erbil) and later in 2005 in southern Iraq (Basrah). It is clear that his work was involved with United Nations’ projects, and he would, on occasion, have to leave Iraq to communicate with United Nations’ personnel such as UNDP Mine Action Program Managers. It was also clear that Mr. Nightingale’s remuneration was received directly from VVAF for the period in question, though deposited to a United Nations Federal Credit Union account in New York. VVAF in Washington reviewed Mr. Nightingale’s monthly timesheets and expense accounting.
+[6] Mr. Nightingale did not file United States Income Tax Returns for the period in issue. He reported $131,943 of employment income from VVAF in 2005 and $20,416 in 2004 for Canadian tax purposes. He seeks now to rely on subparagraph 110(1)(f) of the Act and Article 15 of the Charter to have these amounts excluded from income for Canadian tax purposes.
+Analysis
+[7] Mr. Nightingale has three arguments:
+i. Subparagraph 110(1)(f)(iii) of the Act provides for a deduction of income from employment with the United Nations, a prescribed international organization (prescribed by regulation 8900 of the Income Tax Regulations (the “Regulations”)). Mr. Nightingale’s agent argued that Mr. Nightingale’s employment was indirectly with the United Nations and thus qualifies for this deduction.
+ii. Subparagraph 110(1)(f) of the Act is discriminatory under Article 15 of the Charter as it discriminates against Canadian citizens who are Canadian residents versus United States citizens who are Canadian residents. Mr. Bowerman, Mr. Nightingale’s agent, argues that the United States citizen - Canadian resident, in the same position as Mr. Nightingale in Iraq, would not be taxable in Canada and that is discrimination on the basis of national origin.
+iii. Section 110(1)(f) of the Act is discriminatory under Article 15 of the Charter as it discriminates against Canadian civilians working on missions in Iraq versus Canadian military or police deployed in Iraq. Their income is deductible pursuant to subparagraph 110(1)(f)(v).
+Subparagraph 110(1)(f)(iii) argument
+[8] Subparagraph 110(1)(f)(iii) reads as follows:
+110 (1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable
+(a) …
+(f) any social assistance payment made on the basis of a means, needs or income test and included because of clause 56(1)(a)(i)(A) or paragraph 56(1)(u) in computing the taxpayer's income for the year or any amount that is
+(i) …
+(iii) income from employment with a prescribed international organization,
+Section 8900 of the Regulations prescribes the United Nations.
+[9] The key issue regarding the application of these provisions is whether Mr. Nightingale was employed by the United Nations. There is no question that VVAF was not a prescribed international organization, as it was not a specialized agency brought into relationship with the United Nations in accordance with Article 63 of the Charter of the United Nations.
+[10] Mr. Nightingale was not an employee of the United Nations. He had no contractual relationship with the United Nations. There was no evidence of any direct control of Mr. Nightingale’s activities by the United Nations. The United Nations did not pay him. Mr. Nightingale acknowledged in correspondence that he was contracted with VVAF – indeed, a copy of the contract was produced. He was remunerated by VVAF. The United Nations, given its official position regarding Iraq, could not have been the employer, and I find, was not the employer.
+[11] Mr. Bowerman made a valiant effort to rely on case law to establish a substance over form argument, that the contract with VVAF was not the true legal arrangement, though was effectively just a screen for the employment arrangement between Mr. Nightingale and the United Nations. The evidence does not bear this out. The cases of Dunbar v. R.[4] and Purves v. R.[5] do not assist Mr. Bowerman in this regard.
+[12] This same issue was dealt with recently by Justice Little in the case of Herchak v. R.[6]. He addressed some of the same precedents referred to by Mr. Bowerman and had this to say:
+…
+11. The Tax Court considered a similar issue in the decision of Creagh v. Canada, [1997] 1 C.T.C. 2392. In that case, the Appellant had argued that he was entitled to the exemption from tax provided in subparagraph 110(1)(f)(iii) because he was employed by the United Nations. The facts indicated the Appellant was an employee of Canadian Helicopter who earned income while participating in a peacekeeping mission in Cambodia. The Court reviewed the relevant provisions and stated that, to succeed in a claim of the type being made by the Appellant, there has to be a contractual relationship between the taxpayer and the United Nations. It is not enough that a taxpayer works on a peacekeeping mission, the worker has to be employed by the United Nations. The Court found that the exemption did not apply.
+…
+15. In Lalancette v. The Queen, 2001 DTC 352, the Tax Court dealt with a taxpayer who was a police officer "on loan" to the United Nations for a mission in Haiti. The taxpayer in that case was apparently subject to United Nations authority and daily supervision. The taxpayer was also apparently granted rights and immunities as a representative of the United Nations. The Court in Lalancette stated that a taxpayer cannot unilaterally declare himself to be an employee of the United Nations, and evidence from the United Nations is necessary for a successful claim.
+16. The Tax Court's decision in Lalancette was confirmed by the Federal Court of Appeal, 2002 FCA 335. The Federal Court of Appeal stated that the taxpayer was not an employee of the United Nations, as ultimate control of the taxpayer remained with the RCMP. Although daily control of the Appellant may have rested with the United Nations in Haiti, ultimately the Appellant was controlled by the RCMP. In this situation, the Appellant may have been operating in a country subject to governance by the United Nations, but it is clear that ultimately control of the Appellant lay with Chemonics who hired, supervised and was responsible for any termination of the Appellant's contract.
+…
+22. In the court decisions referred to above, the Tax Court has held that when a person is hired by a company, which contracts with a corporation which, in turn, has a contract with the United Nations, there is no deduction pursuant to paragraph 110(1)(f) of the Act. The Appellant remained the employee of Chemonics despite working in the course of a project in a United Nations controlled country.
+23. As stated by the Federal Court of Appeal in Lalancette, the relevant enquiry for determining whether a taxpayer is an employee of the United Nations is determining who controls the employee. In this appeal, the evidence is clear that the United Nations did not control the Appellant, either directly on a day-to-day basis or ultimately in terms of discipline or termination.
+…
+[13] Mr. Nightingale is in no different position than Mr. Herchak, and I reach the same conclusion as Justice Little. The contractual relationship was between Mr. Nightingale and VVAF, not with the United Nations. Mr. Nightingale cannot avail himself of the subparagraph 110(1)(f)(iii) deduction, as he has been unable to prove he was employed with the United Nations.
+[14] I should note at this point that the Respondent raised an argument not addressed in the pleadings, and that is the fact that Mr. Nightingale’s contract with VVAF was drawn up as of one of an independent contractor and not an employee. This would deny him access to the subparagraph 110(1)(f)(iii) deduction altogether. Mr. Bowerman objected to this argument on the basis it was not the issue the Appellant believed the Respondent and Appellant had identified for purposes of this litigation. Mr. Bowerman suggested if the Crown was going to raise the issue at trial, he wanted an adjournment so he could put the issue of Mr. Nightingale’s residence in issue. To this point, the parties had agreed that Mr. Nightingale was a Canadian resident. It is unnecessary for me to deal with these issues and, indeed, I was not presented with sufficient evidence to deal with them. I have, though, been able to reach a decision on the facts presented to me on the basis that Mr. Nightingale earned employment income as a Canadian resident.
+Charter argument based on citizenship
+[15] The pertinent provisions are Article XV and Article XXV of the Convention and Article 15 of the Charter and subparagraph 110(1)(f)(i) of the Act. They are reproduced as follows:
+Article XV
+1. Subject to the provisions of Articles XVIII (Pensions and Annuities) and XIX (Government Service), salaries, wages and other similar remuneration derived by a resident of a Contracting State in respect of an employment shall be taxable only in that State unless the employment is exercised in the other Contracting State. If the employment is so exercised, such remuneration as is derived therefrom may be taxed in that other State.
+2. Notwithstanding the provisions of paragraph 1, remuneration derived by a resident of a Contracting State in respect of an employment exercised in a calendar year in the other Contracting State shall be taxable only in the first-mentioned State if:
+(a) such remuneration does not exceed ten thousand dollars ($10,000) in the currency of that other State; or
+(b) the recipient is present in the other Contracting State for a period or periods not exceeding in the aggregate 183 days in that year and the remuneration is not borne by an employer who is a resident of that other State or by a permanent establishment or a fixed base which the employer has in that other State.
+Article XXV[7]
+1. Citizens of a Contracting State, who are residents of the other Contracting State, shall not be subjected in that other State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which citizens of that other State in the same circumstances are or may be subjected.
+2. Citizens of a Contracting State, who are not residents of the other Contracting State, shall not be subjected in that other State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which citizens of any third State in the same circumstances (including State of residence) are or may be subjected.
+ARTICLE 15 – CANADIAN CHARTER
+15.(1) Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination and, in particular, without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+Subparagraph 110(1)(f)(i) Income Tax Act
+(1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable
+(a) …
+(f) any social assistance payment made on the basis of a means, needs or income test and included because of clause 56(1)(a)(i)(A) or paragraph 56(1)(u) in computing the taxpayer's income for the year or any amount that is
+(i) an amount exempt from income tax in Canada because of a provision contained in a tax convention or agreement with another country that has the force of law in Canada,
+[16] Mr. Bowerman argues that Article XV of the Convention permits the United States to tax Mr. Nightingale, even though a Canadian resident, because his employment was, in accordance with Article XV of the Convention, "exercised" in the United States. Mr. Bowerman’s argument gets a little murky at this point. He seems to suggest that the United States citizen resident in Canada, by relying on Article XV and Article XXV, could then also rely on subparagraph 110(1)(f)(i) of the Act to escape Canadian tax liability. My interpretation of Article XV of the Convention, however, is that if the Canadian resident is exercising employment in the United States then Article XV would apply, regardless of the citizenship. Mr. Bowerman, however, has not argued that Article XV applied to Mr. Nightingale, but somehow suggests that there is discrimination between the Canadian citizen and the United States citizen. I simply do not follow this reasoning. If Article XV applies to a Canadian resident because that resident is working in the United States, then there is no Canadian tax liability. That resident would be subject to the Internal Revenue Code and may or may not be taxable depending on the provisions of the Code.
+[17] If Article XV does not apply, that is, the employment is not exercised in the United States, which I find is the situation before me, then the Canadian resident would be subject to Canadian tax, again regardless of citizenship. In either event, there does not appear to me to be any discrimination based on citizenship.
+[18] Mr. Bowerman raises Article XXV of the Convention to suggest that pursuant to that Article, a United States citizen might be treated more favourably than a Canadian citizen, both resident in Canada, facing circumstances similar to Mr. Nightingale’s. Again, I do not follow this approach. Article XXV deals with the situation of an American citizen residing in Canada being taxed greater than the Canadian citizen residing in Canada. That is simply not the situation before me. There are no parallels to Mr. Nightingale’s situation and I can discern no discrimination based on citizenship arising from this Article. There is simply no discrimination based on citizenship that brings the Canadian Charter into play.
+Charter argument based on occupation
+[19] Subparagraph 110(1)(f)(v) of the Act reads:
+110(1) For the purpose of computing the taxable income of a taxpayer for a taxation year, there may be deducted such of the following amounts as are applicable
+(a) …
+(f) any social assistance payment made on the basis of a means, needs or income test and included because of clause 56(1)(a)(i)(A) or paragraph 56(1)(u) in computing the taxpayer's income for the year or any amount that is
+(i) …
+(v) the lesser of
+(A) the employment income earned by the taxpayer as a member of the Canadian Forces, or as a police officer, while serving on
+(I) a deployed operational mission (as determined by the Department of National Defence) that is assessed for risk allowance at level 3 or higher (as determined by the Department of National Defence),
+(II) a prescribed mission that is assessed for risk allowance at level 2 (as determined by the Department of National Defence), or
+(III) any other mission that is prescribed, and
+(B) the employment income that would have been so earned by the taxpayer if the taxpayer had been paid at the maximum rate of pay that applied, from time to time during the mission, to a non-commissioned member of the Canadian Forces;
+to the extent that it is included in computing the taxpayer's income for the year;
+The Appellant’s argument is that the Canadian military and the police get a deduction courtesy of these provisions, and it is discrimination that a civilian does not get such a deduction. I would describe this as a discrimination based on occupation status. The Supreme Court of Canada had occasion to hear an Article 15 Charter case where discrimination based on occupation status was argued. In the case of Baier v. Alberta,[8] the Supreme Court of Canada stated:
+63 The appellants submit that the LAEA Amendments violate s. 15(1) of the Charter by infringing their right to the equal protection and equal benefit of the law without discrimination on the alleged analogous ground of occupational status. There is no need to describe here the steps in a s. 15(1) analysis, which were elaborated by Iacobucci J. in Law, at paras. 21-87 and summarized at para. 88, and have been reiterated in many cases since. Applying this approach, I find that there is differential treatment of school employees under the LAEA Amendments, as compared with the comparator group identified by the appellants, which consists of municipal employees. However, this differential treatment is not based on an enumerated or analogous ground.
+64 In Corbiere v. Canada (Minister of Indian and Northern Affairs), [1999] 2 S.C.R. 203, at para. 13, McLachlin J. (as she then was) and Bastarache J. for the majority discussed how to identify analogous grounds:
+What then are the criteria by which we identify a ground of distinction as analogous? The obvious answer is that we look for grounds of distinction that are analogous or like the grounds enumerated in s. 15 -- race, national or ethnic origin, colour, religion, sex, age, or mental or physical disability. It seems to us that what these grounds have in common is the fact that they often serve as the basis for stereotypical decisions made not on the basis of merit but on the basis of a personal characteristic that is immutable or changeable only at unacceptable cost to personal identity... . Other factors identified in the cases as associated with the enumerated and analogous grounds, like the fact that the decision adversely impacts on a discrete and insular minority or a group that has been historically discriminated against, may be seen to flow from the central concept of immutable or constructively immutable personal characteristics, which too often have served as illegitimate and demeaning proxies for merit-based decision making.
+They also stated at para. 8 that analogous grounds "stand as constant markers of suspect decision making or potential discrimination".
+65 I cannot find any basis for identifying occupational status as an analogous ground on the evidence presented in this case. Neither the occupational status of school employees nor that of teachers have been shown to be immutable or constructively immutable characteristics. School employees cannot be characterized as a discrete and insular minority. The appellants have not established that the occupational status of school employees is a constant marker of suspect decision making or potential discrimination.
+[20] I find Mr. Nightingale’s position as a Canadian civilian employed in a combat zone, as opposed to a Canadian soldier employed in a combat zone, is discrimination based on occupation status and, therefore, not covered as an analogous ground under Article 15 of the Charter. The same finding could be made in the comparison of a civilian employed by the United Nations versus the civilian employed by private enterprise working in Iraq. These are differences that do not go to the characteristics or stereotypes intended to be captured by Article 15 of the Charter.
+[21] In conclusion, Mr. Nightingale has not satisfied me that he either qualifies for a deduction pursuant to subparagraph 110(1)(f) of the Act, nor that he has been discriminated against in a fashion that invokes Article 15 of the Charter. His appeals are dismissed.
+Signed at Ottawa, Canada, this 11th day of January, 2010.
+"Campbell J. Miller"
+C. Miller J.
+CITATION: 2010 TCC 1
+COURT FILE NO.: 2007-2523(IT)I and 2007-4728(IT)I
+STYLE OF CAUSE: JAMES NIGHTINGALE AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Ontario
+DATE OF HEARING: December 16, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice Campbell J. Miller
+DATE OF JUDGMENT: January 11, 2010
+APPEARANCES:
+Agent for the Appellant:
+Jack R. Bowerman
+Counsel for the Respondent:
+Andrew Miller
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1][1] Tab 11, Appellant's Book of Documents.
+[2] Tab 19, Respondent's Book of Documents.
+[3] Tab 4, Respondent's Book of Documents.
+[4] 2005 TCC 769.
+[5] 2005 TCC 290.
+[6] 2009 TCC 486.
+[7] Note that this Article was revised in 2007.
+[8] 2007 SCC 31.

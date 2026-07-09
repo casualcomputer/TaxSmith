@@ -1,0 +1,211 @@
+---
+title: "Browning v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/26001/index.do"
+last_modified: "2004-06-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2004 TCC 414"
+citation2: ""
+neutral_citation: "2004 TCC 414"
+decision_date: "2004-06-10"
+language: "en"
+item_id: "26001"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3734
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-02T19:21:29.952000+00:00"
+cases_cited_count: 1
+cases_citing_count: 1
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "090fc713990fa11a746a06ef2aa251b515c3ed09f6a43b7c5d7443e53e389f0b"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Browning v. The Queen
+
+- Citation: 2004 TCC 414
+- Decision date: 2004-06-10
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3734, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Browning v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-06-10
+Neutral citation
+2004 TCC 414
+File numbers
+2001-2170(IT)G
+Judges and Taxing Officers
+Cameron Hugh McArthur
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2001-2170(IT)G
+BETWEEN:
+DEBRA BROWNING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on February 18, 2004, at Vancouver, British Columbia,
+By: The Honourable Justice C.H. McArthur
+Appearances:
+Counsel for the Appellant:
+David A.G. Birnie
+Counsel for the Respondent:
+Susan Wong
+____________________________________________________________________
+AMENDED JUDGMENT
+The appeal from the reassessment of tax made under subsection 224(4) of the Income Tax Act, notice of which is dated March 16, 2001 and bears number 13942 is allowed, and the reassessment is referred back to the Minister of National Revenue for reconsideration and reassessment in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 3rd day of September, 2004
+"C.H. McArthur"
+McArthur J.
+Citation: 2004TCC414
+Date: 20040903
+Docket: 2001-2170(IT)G
+BETWEEN:
+DEBRA BROWNING,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+AMENDED REASONS FOR JUDGMENT
+McArthur J.
+[1] The Minister of National Revenue assessed the Appellant in the amount of $254,438 on March 16, 2001 for failing to comply with "Requirements to Pay" issued pursuant to subsection 224(1) of the Income Tax Act, a garnishment section. The assessment reads:
+A credit reassessment pertaining to the liability under subsection 224(4) of the Income Tax Act in the amount of $181,607.06 in respect of a previous assessment dated July 30, 1997 bearing #03711 for failure to comply with Requirements to Pay dated November 3, 1993, January 7, 1994, March 31, 1994, June 21, 1994, September 23, 1994, January 4, 1995 and March 7, 1996 re: Berkeley Point Developments Inc. ...
+Statement of Account
+Original Assessment dated July 30, 1997 $364,755.86
+Decrease 181,607.06
+Revised Amount 183,048.80
+Plus interest to March 16, 2001 71,390.16
+Amount unpaid and hereby requested $254,438.96
+[2] During the relevant period, the Appellant was the wife of Richard Browning. Richard owned Berkeley Point Developments Inc. (Berkeley) and directed the corporation to advance in 1988, 1989 and 1990, the amount of $553,688 to the Appellant to purchase land and build their home. Berkeley owed the Minister of National Revenue (the Minister) for income tax for its 1989 and 1990 taxation years. The Minister served the Appellant with several "Requirements to Pay" which were not complied with. The underlying Berkeley assessment was not seriously challenged by the Appellant. The only comment was by Richard Browning who stated to the effect that he did not entirely agree with it. This comes a little late. Berkeley discontinued operating in the mid-1990s.
+[3] The Appellant's position:
+(i) The Minister has the burden of proving its assessment of Berkeley (the underlying debt); and
+(ii) The Appellant did not have a liability to pay Berkeley when the Requirements to Pay were made by the Minister because she transferred corporate shares to Berkeley essentially satisfying her indebtedness.
+[4] The Appellant was a director and/or shareholder of various corporations controlled by her husband Richard. She was totally unaware of the facts and issues having been a puppet of her husband with respect to the matters before the Court. Her testimony was of no assistance. Richard and Fred Masuch,[1] Berkeley's accountant during the period in question, provided the background. Mr. Masuch was active in the structuring of Richard's business activities from 1988 to 1995. From August 26, 1988 to April 30, 1990, Berkeley advanced $553,688 to the Appellant under an unregistered mortgage prepared by Mr. Masuch. The money was used towards the completion of a principal place of residence for the Brownings.
+[5] A Requirement to Pay of $249,658 was made to the Appellant by the Minister on November 3, 1993. It was ignored. She submits, through her lawyer,[2] that she repaid $500,000 of her mortgage debt to Berkeley by selling her shares in 316221 B.C. Ltd. (316)[3] to Richard who sold them to Berkeley on January 1, 1994 reducing the mortgage debt by $500,000. An issue arises with respect to the value of those shares and the timing of the transfer. The shares of 316 derived that value because of its ownership of the shares in Saybrook Holdings Ltd. (Saybrook).
+[6] The relevant legislation in this appeal is contained in subsections 224(1) and 224(4) which read in part:
+224(1) Where the Minister has knowledge or suspects that a person is, or will be within one year, liable to make a payment to another person who is liable to make a payment under this Act (in this subsection and subsections (1.1) and (3) referred to as the "tax debtor"), the Minister may in writing require the person to pay forthwith, where the moneys are immediately payable, and in any other case as and when the moneys become payable, the moneys otherwise payable to the tax debtor in whole or in part to the Receiver General on account of the tax debtor's liability under this Act.[4]
+224(4) Every person who fails to comply with a requirement under subsection (1), ... is liable to pay to Her Majesty an amount equal to the amount that the person was required under subsection (1), ...
+Subsection 224(1) empowers the Minister to collect unpaid taxes by serving a garnishment letter on any person liable to make a payment (in this instance the Appellant) to the tax debtor (Berkeley). The garnishment letter to the Appellant requires her to make amounts owing by her to Berkeley payable to the Receiver General. The Appellant made no effort to pay. Berkeley is no longer active.
+[7] In this instance, the Minister chose to proceed by way of assessing the Appellant rather than attempting to recover the tax debt through the Federal Court or any other Court of competent jurisdiction pursuant to section 222 of the Act. The Appellant's primary position is that the Minister was required to prove that Berkeley was liable to make a payment to the Minister, i.e. the underlying assessment. I find there was no such requirement. The Appellant did not challenge the underlying assessment although she had a right to do so as found by the Federal Court of Appeal in Gaucher v. The Queen.[5]
+[8] With regard to the shift in onus, the Appellant referred to The Queen v. Cyrus J. Moulton Limited.[6] Moulton differed from the present facts in that it was a collection proceeding. The Minister was the Plaintiff and had the burden of proof. In the present appeal, the Minister proceeded by way of assessment. The Appellant appealed and had carriage of the action and the burden of proof which was decided in Johnson v. M.N.R.[7]
+[9] The Appellant's second position is that there is no clear provision in the mortgage for the Appellant to pay anyone and the ambiguity in the mortgage should be resolved in her favour. Counsel goes on to state that if she did not make any payment, the liability would still remain but for the fact that the 316 share transfer effectively reduced the Appellant's liability to Berkeley by $500,000.
+[10] Counsel for the Appellant submits that there is no evidence of a debt between Berkeley and the Minister and to be successful the Minister has the burden of proving that Berkeley was liable to make a tax payment. I disagree. There is reference to the Berkeley tax debt in assumption of fact 7(f) of the Reply to the Notice of Appeal which reads:
+f) as of April 4, 1997, Berkeley was indebted to the Crown in the amount of $482,607.59 for its 1989 and 1990 taxation years;
+Clearly, the Appellant had the burden of disproving this assumption.
+[11] Richard acknowledged the debt during his cross-examination stating something to the effect that he did not entirely agree with the Berkeley assessment. I infer that he did not cause Berkeley to challenge the original assessment when it had the opportunity to do so. Further, the Appellant had the opportunity to challenge Berkeley's assessment during the hearing but failed to do so. The Appellant cannot sit back and say to the Minister - prove the underlying debt or I do not have to pay it particularly in this instance where her spouse controlled Berkeley and arranged for Berkeley to lend her over $550,000. The Appellant was a party to circuitous and confusing financial manoeuvrings. Saybrook owned an interest in Red Robin Restaurants. 316 owned the shares of Saybrook, the Appellant owned the shares of 316, and sold those shares to Richard for $500,000 who sold them to Berkeley who apparently forgave $500,000 of the $553,000 mortgage debt owing to Berkeley by the Appellant. The Appellant owed money to Berkeley and Berkeley owed the money to the Minister. It is understandable that the Minister was not prepared to remain silent.
+[12] Paragraph 7(j) of the Reply does not apply:
+(j) the corporate records of Saybrook Holdings Ltd. did not show that the Appellant ever held shares nor was there any transfer of shares worth $500,000 to Berkeley during any part of the fiscal period between November 1, 1993 and October 31, 1994.
+In paragraph 6 of the Reply to the Notice of Appeal reference is made to five Requirements to Pay issued by the Minister and there were two further demands referred to in the Notice of Appeal dated November 3, 1993 and September 27, 1994 for a total of seven Requirements to Pay issued to the Appellant by the Minister. All of these requirements are referred to in the assessment that is the subject of this appeal.
+[13] The second submission by the Appellant' counsel is that the Minister did not establish that she had any liability to make a mortgage payment. Again, I disagree. The Appellant owed Berkeley $553,688 plus interest as evidenced by the mortgage document and by the fact that Berkeley funds were advanced. She cannot take the position that she has no liability because she knows nothing about it. She received the Berkeley money, she signed the mortgage contract and her husband was directing the entire transaction. She has to take responsibility for her participation. She was part of her husband's corporate arrangements. She is not an innocent or unaffected third party. Further, the Appellant cannot rely on ambiguous language in the mortgage to conclude that no payments are required by her at all or for 25 or 30 years. The document was prepared by her husband's accountant, for her benefit. It is not to be compared to the common institutional mortgage transactions which are prepared by the lender for the benefit of the lender. To determine the Appellant's obligations, if any, the contract, referred to as a mortgage[8] must be scrutinized. It reads in part:
+THIS Indenture made the twenty-sixth day of August, 1988 Between:
+Debra Browning, businesswoman
+of 3380 Craigend Road
+West Vancouver, B.C.
+(hereinafter called the Mortgagor)
+AND
+Berkeley Point Development Group Ltd., a
+corporation with registered offices at
+1750 - 1040 W. Georgia Street
+Vancouver, B.C.
+(hereinafter called the Mortgagee)
+1. WITNESS that in providing consideration of advances not to exceed $560,000 Canadian dollars, the Mortgagor does grant and mortgage to the Mortgagee all and singular, the following lands and premises (hereinafter referred to as the "said lands") situated in the New Westminster Assessment District in the Province of British Columbia:
+3380 Craigend Road
+West Vancouver, B.C.
+...
+3. The amount of principal money advanced on this mortgage is the sum paid to the Mortgagor as aforesaid and the rate of interest chargeable thereon is nine per centum (9.0%) per annum, calculated half-yearly, not in advance, as well after as before maturity of this mortgage, until paid.
+It is agreed that payments are to be applied firstly to interest calculated as aforesaid on the principal moneys from time to time outstanding and the balance of the said monthly instalments shall be applied on account of principal except however in the case of default by the Mortgagor, the Mortgagee may then apply any payments received during the period of default in whatever order it may elect as between taxes, interest, repairs, insurance premiums or other advances made on behalf of the Mortgagor.
+It is further agreed that for five years from August 26, 1988, no payments will be made against the principal moneys. For the twenty-five years following the aforesaid five year period, payments will be made sufficient to extinguish the principal moneys plus all interest calculated during the period.
+4. THE Mortgagor covenants with the Mortgagee that the Mortgagor will pay the mortgage money and interest and observe the above provisions.
+5. AND the Mortgagor covenants with the Mortgagee that the Mortgagor has a good title in fee-simple to the said lands.
+6. AND the Mortgagor covenants with the Mortgagee that the Mortgagor has the right to convey the said lands to the Mortgagee.
+7. AND the Mortgagor covenants with the Mortgagee that on default the Mortgagee shall have possession of the said lands free from all encumbrances.
+8. AND the Mortgagor covenants with the Mortgagee that the Mortgagor will execute such further assurances of the said lands as may be requisite.
+...
+10. AND at any time during the period referred to in paragraph 3, the Mortgagor may pay all outstanding principal moneys and interest due without penalty, at which time the Mortgagee agrees to release any and all claims against said lands.
+[14] The document can and should be interpreted to make sense as a whole. Certain sentences or phrases that support the Appellant's present position cannot be relied on to the exclusion of the remaining document. The Appellant's accountant drafted the mortgage and the Appellant and Richard relied on its terms when it was to their benefit, namely to take $553,688 out of Berkeley tax free. It is the first five-year period from August 26, 1988 to August 27, 1993 that is somewhat troublesome or ambiguous and requires the making of inferences to give it a common sense meaning.
+[15] Reading the document as a whole, I find that there is a valid contract wherein the Appellant owes Berkeley the principal sum of $553,688 being the total of advances made to her. The question arises as to whether interest accrued on the principal advanced from time to time from August 26, 1988 to August 27, 1993. The Respondent's counsel concluded in her submissions[9] that it was not an issue but to give meaning to the contract I feel obligated to deal with it.
+[16] The interest rate of 9% per annum is not contested. If the first five-year period was to be interest free, the drafter, Mr. Masuch, who prepared the mortgage for the benefit of the Appellant, should have and would have said so.[10] The parties did not have adverse interests. Berkeley was controlled by Richard and the intent was to take $553,688 out of Berkeley tax free to provide for a family home. No effort was ever made over the years to pay back Berkeley other than the transfer of the 316 shares. Before reference is made to monthly instalments, the mortgage provides in the first paragraph of item 3 that the principal money advanced on this mortgage is the sum paid to the mortgagor (the Appellant) and the rate of interest chargeable thereon is 9% per annum, calculated half-yearly, not in advance. Surely, this is to be interpreted as providing for interest to accrue on the principal advances as they were made. This is common sense and common practice. There is nothing mysterious or creative about it. The reference to no payments in the last paragraph of item 3 refers to no payments of the principal money during the first five years. This supports the conclusion that interest accrued on the principal advanced during the first five years.
+[17] The principal was fully advanced on April 30, 1990 and interest continued to accrue and accumulate at 9% calculated half-yearly and became payable on August 27, 1993 when monthly payments of principal and interest amortized over 25 years were to commence. When the first Requirement to Pay was made on November 3, 1993, considerable interest was due and payable by the Appellant to Berkeley. I have no way of calculating how much, not knowing the dates progress advances were made. In any event, this was not argued by the Respondent and need not be pursued further. My findings with respect to the first five years have no effect on the Appellant and this decision.
+[18] An interpretation with respect to the period commencing August 27, 1993 is much easier. The final paragraph of item 3 provides "For the twenty-five years following the aforesaid five year period, payments will be made sufficient to extinguish the principal moneys plus all interest calculated during the period". This obviously provides for principal and interest payments amortized over 25 years with a term of 25 years. The previous paragraph of item 3 provides for monthly payments. Item 10 corroborates the payment requirement by granting the Appellant the privilege to repay "at any time" all outstanding principal moneys and interest due without penalty. I find that the mortgage provided for principal and interest at the rate of 9%, calculated half-yearly, not in advance, amortized over 25 years with a 25 year term payable monthly. The first payment of principal and interest was due and payable September 27, 1993 and payable each and every month thereafter for 25 years when all of the principal and interest will have been paid. An amortization schedule will have to be obtained to reflect the amount of these monthly payments.
+[19] Should the parties be unable to agree to a monthly calculation of the payment, it shall be determined by a computer-calculated amortization schedule providing for principal - $553,688, interest 9% calculated half-yearly, for 25 years commencing August 27, 1993 with the first of the monthly payments due and payable September 27, 1993. On November 3, 1993, there was owing by the Appellant to Berkeley the monthly payments that were due and payable for September 27, 1993 and October 27, 1993. In addition the November 3, 1993 Requirement to Pay was valid for 90 days and captured payments due November 27, 1993 and December 27, 1993 and January 27, 1994. The January 27, 1994 payment would be considerably less because of a $250,000 principal reduction of the indebtedness dealt with below. The Appellant is liable to pay to the Minister, all Berkeley monthly mortgage payments as required in the Requirement to Pay of November 3, 1993 and the six subsequent Requirements respecting the time limitations in section 224 of the Act as amended in 1994.
+[20] I will now move on to the question of the transfer of the 316 shares. I believe the Respondent's position is that, although the Appellant has not established that the 316 shares had a $500,000 value, they were worth something and that amount was subject to the Minister's garnishee of November 3, 1993 which was in effect for 90 days including on January 1, 1994 when the 316 shares were transferred from the Appellant to Berkeley. This is somewhat nebulous.
+[21] The Appellant's position is that the subsection 224(1) Requirement to Pay does not attach to property which includes shares. I accept the Appellant's counsel's position that:
+... a garnishee cannot attach to a transfer of property. It can only attach to a payment of money, and I take that view from the fact that although the word payment is used in the opening words of ss. 224(1), the section goes on to say that where those two conditions for payment have been met, the Minister may in writing require the person to pay forthwith, and then it says, "where the monies are immediately payable, and in any other case as and when the monies become payable." He can require the monies otherwise payable to the tax debtor in whole or part be paid to the Receiver General.
+(Transcript page 54 lines 14 to 25)
+[22] I am left to deal with the value of the 316 shares as of January 1, 1994. The evidence with respect to value submitted by the Appellant was vague and general in nature. The shares probably had some value. The Appellant reported the disposition in her 1994 income tax return indicating a taxable gain of $374,000 and taking advantage of a $500,000 capital gain exemption in effect at that time.
+[23] The Appellant had the burden of proving the value of $500,000 as of January 1, 1994. A PriceWaterhouse appraisal was presented for Red Robin's Restaurants as of July 25, 1993. This was of little assistance. The connection to the share value of 316 as of January 1, 1994 was not specific. Mr. Masuch stated that they were worth at least $500,000 yet he advanced no evidence as to their market value but for reference to Saybrook's financial statement, particularly the retained earnings of $258,446 in 1992. Again, this lacked specificity and is of little assistance. Saybrook last filed corporate returns in 1992 and was struck from corporate records in 1994.
+[24] To rely on a value of $500,000, the Appellant has to provide at the least an evaluation by an expert professional appraiser of shares with details establishing the value. This, of course, would permit the Minister to properly evaluate the Appellant's position and make an educated decision. This was not possible with the generally vague references to value advanced by the Appellant. The Appellant through her advisors, tried to carry out aggressive tax planning to achieve tax savings and possibly other benefits. In doing so, careful attention to correct formal steps is important: "In tax law, form matters".[11]
+[25] The documentary evidence produced does not support the $500,000 value. The burden of proof on a balance of probabilities has only been partially discharged. The degree of probability required to discharge the burden of proof in a civil case was described by Lord Denning in Miller v. Minister of Pensions[12] as follows:
+... That degree is well settled. It must carry a reasonable degree of probability, but not so high as is required in a criminal case. If the evidence is such that the tribunal can say: "We think it more probable than not", the burden is discharged, but, if the probabilities are equal, it is not.
+That degree has not been achieved yet, even the Respondent admits that the shares had some value on January 1, 1994. I have difficulty completely ignoring this fact. While it is a somewhat rough and ready solution, I place a value of $250,000 on the shares to be credited to the Appellant as a partial paydown of the mortgage principal made by the Appellant on January 1, 1994. There is sufficient evidence from a combination of the evidence of Richard and Mr. Masuch, the Saybrook financial statement and the Red Robin Restaurants' evaluation to conclude that $250,000 is a reasonable estimate of value. In arriving at this decision, I am guided by the reasoning of Walsh J. in Bibby Estate v. The Queen[13] where he stated:
+While it has frequently been held that a Court should not, after considering all the expert and other evidence merely adopt a figure somewhere between the figure sought by the contending parties, it has also been held that the Court may, when it does not find the evidence of any expert completely satisfying or conclusive, nor any comparable especially apt, form its own opinion of valuation, provided this is always based on the careful consideration of all the conflicting evidence. The figure so arrived at need not be that suggested by any expert or contended for by the parties.
+Conclusion
+[26] The Appellant failed to comply with the requirement under subsection 224(1) and under subsection 224(4), is liable to pay the Minister as follows based on a principal payment of $250,000 on January 1, 1994: monthly payments due under the $553,688 Berkeley mortgage for September 27, 1993, October 27, 1993, November 27, 1993 and December 27, 1993; the monthly payments due on the reduced principal of approximately $303,000 due on the 27th of each and every month as required by the Requirement to Pay commencing January 27, 1994. Having been advised by counsel for the Appellant at the outset of the hearing that the Respondent's claim for interest was abandoned, and counsel for the Respondent having conceded the interest issue, I make no order with respect to interest as claimed in paragraph 13 of the Reply to the Notice of Appeal. In view of the divided success, no costs are awarded.
+Signed at Ottawa, Canada, this 3rd day of September, 2004.
+"C.H. McArthur"
+McArthur J.
+CITATION:
+2004TCC414
+COURT FILE NO.:
+2001-2170(IT)G
+STYLE OF CAUSE:
+Debra Browning and Her Majesty the Queen
+PLACE OF HEARING:
+Vancouver, British Columbia
+DATE OF HEARING:
+February 18, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice C.H. McArthur
+DATE OF AMENDED JUDGMENT:
+September 3, 2004
+APPEARANCES:
+Counsel for the Appellant:
+David A.G. Birnie
+Counsel for the Respondent:
+Susan Wong
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+David A.G. Birnie
+Firm:
+Birnie & Company
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] He did the accounting for all the relevant corporations and parties up to the end of 1994.
+[2] In reality, as stated, she knew absolutely nothing about this transaction.
+[3] She owned all of the issued shares of 316.
+[4] This section was amended in 1994 to provide for one year rather than 90 days but this amendment has no practical effect on the present appeal.
+[5] 2000 DTC 6678.
+[6] 76 DTC 6239.
+[7] [1948] 3 DTC 1182 S.C.C.
+[8] Exhibit R-1, Tab 20.
+[9] Page 40 of transcript.
+[10] Simple interest on $553,688 at 9% is approximately $250,000.
+[11] The Queen v. A.D. Friedberg, 92 DTC 6031 at 6032.
+[12] [1947] 2 All E.R. 372 at 374.
+[13] 83 DTC 5149 at 5157.

@@ -1,0 +1,145 @@
+Title: Bensouilah v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29456/index.do
+Corpus path: corpus/cases/tcc/2009/2009-tcc-440-29456-bensouilah-v-the-queen-en.md
+Document type: case_law
+Last modified: 2009-10-07
+
+# Bensouilah v. The Queen
+
+- Citation: 2009 TCC 440
+- Decision date: 2009-10-07
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6947, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bensouilah v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-10-07
+Neutral citation
+2009 TCC 440
+File numbers
+2009-944(IT)I
+Judges and Taxing Officers
+François M. Angers
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2009-944(IT)I
+BETWEEN:
+ABDELAZIZ BENSOUILAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on August 26, 2009, at Montréal, Quebec.
+Before: The Honourable Justice François Angers
+Appearances:
+Agent for the appellant:
+Nabil Warda
+Counsel for the respondent:
+Dany Leduc
+____________________________________________________________________
+JUDGMENT
+The appeal from the reassessments made under the Income Tax Act for the 2001, 2002 and 2003 taxation years is dismissed, in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 7th day of October 2009.
+"François Angers"
+Angers J.
+Translation certified true
+on this 30th day of November 2009.
+Daniela Possamai, Translator
+Citation: 2009 TCC 440
+Date: 20091007
+Docket: 2009-944(IT)I
+BETWEEN:
+ABDELAZIZ BENSOUILAH,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Angers J.
+[1] The appellant is appealing from reassessments made by the Minister of National Revenue (the Minister) on July 8, 2008, for the 2001, 2002 and 2003 taxation years, reassessments that were confirmed on February 27, 2009. The amounts of $45,420, $46,064 and $41,110 were added to the appellant's income for the 2001, 2002 and 2003 taxation years, respectively, and in respect of which the penalties were applied under subsection 163(2) of the Income Tax Act (the Act). The Minister also determined that he was entitled to make reassessments outside the normal assessment period for the 2001 and 2002 taxation years. The Minister also added a taxable capital gain of $6,187 for 2001 and other income of $4,221 for 2003.
+[2] In the Notice of Appeal, the agent for the appellant simply argued, under the heading [Translation] "Reasons for the Appeal," that the assessments were not [Translation] "consistent either in fact or law." In his reply, the respondent raised the issues of limitation period, penalties and of the refusal of the Minister to grant the appellant the overseas employment tax credit. The respondent relied on the grounds raised by the appellant at the objection stage.
+[3] The agent for the appellant informed counsel for the appellant during a telephone conversation that took place a few weeks before the hearing that he intended to raise the fact that the appellant was not a resident of Canada during the years at issue, and that he would claim new deductions, where applicable. The agent for the appellant did not however amend his Notice of Appeal prior to the hearing and eventually the new grounds were raised with the Court's permission.
+[4] The agent for the appellant also informed the Court that he was abandoning the argument that his client was entitled to an overseas employment tax credit.
+[5] The audit in the present case was conducted by Revenu Québec auditors. The appellant's case was chosen as part of an organizational project aimed at combating tax evasion, namely the "Indices de richesse" [wealth indicators] project. The audit relied on the use of the cash flow method to determine undeclared income over the course of each year audited. According to the auditor's report, this method, like the net worth method, makes it possible to determine variations in the taxpayer's net worth as well as his cost of living.
+[6] Up until 2008, the appellant had filed an income tax return every year since his arrival in Canada in July 1995. The tax returns for the three years at issue were filed electronically and no income was reported. In all of his tax returns, the appellant stated that he was a resident of Canada. In fact, he indicated Quebec as his province of residence and put down as his address that of his residence in Quebec. The initial assessment for 2001 is dated March 25, 2002, that of 2002 is dated April 23, 2003, and that of 2003 is dated March 25, 2004.
+[7] The audit made it possible to establish a significant gap between the income reported and the cash flow. The taxpayer was therefore contacted and, owing to the information obtained, the auditor was able to determine the wages the appellant earned in Saudi Arabia. Following the appellant's objection, the auditor also discovered that the appellant had not added to his income a capital gain realized during the 2001 taxation year.
+[8] The assessments were therefore made on the basis of the appellant's failure to report his overseas employment income during the three years at issue. The appellant settled his file with Revenu Québec, notwithstanding the fact that even after the overseas employment income was added, there was still an unexplained discrepancy.
+[9] As already mentioned, the appellant immigrated to Canada in July 1995; he was accompanied by his wife and their three children. He was living in an apartment at the time. But, in June 2000, the appellant purchased a home. He obtained his Canadian citizenship in June 2000. Unable to obtain suitable employment, he returned to Saudi Arabia in October 2000 to work. Hi salary varied between C$40,000 and C$45,000 per year. His employer deducted from his salary rent, a health insurance fee, a car payment and a voluntary contribution to Zakat. The appellant kept some money for himself and the rest was transferred to his bank account in Canada and was to be used to support his family. The amounts so transferred were approximately $37,000 in 2001, $38,000 in 2002 and $34,000 in 2003. The bank statements were, in fact, adduced in evidence.
+[10] During the years at issue, the appellant was entitled to 30 vacation days per year and he would come to Canada to spend them with his family. While in Saudi Arabia, he purchased a car and holds a driver's licence from there. Although he has a Quebec health card, he claims to have never used it. As for his wife, she does not work and did not have any income during the three years in issue. The appellant holds a Canadian passport and a Saudi Arabian passport.
+[11] During the years at issue, the appellant and his spouse had a joint bank account in Canada. They also owned a car in Canada for which they made monthly payments of $500 during the years in question. He also paid $318 per month for his daughter's car. Furthermore, he repaid a bank loan used to put in a pool at his home in Montréal. In 2004, the appellant sold his home and purchased another, still in the Montréal area.
+[12] The income tax returns for the three years at issue were entrusted to H&R Block. The appellant instructed his wife to have the income tax returns prepared. Regarding the issue as to whether he was required to report his employment income from Saudi Arabia, the appellant testified that he did not consider it normal to have to report that income and that he therefore thought he did not have to report it.
+[13] During and after the audit, the appellant was represented by an accountant. The accountant negotiated a settlement with Revenu Québec. On the issue as to whether he was a resident of Canada or not, the appellant testified having told the accountant that he was not a Canadian resident. However, there is nothing in any of the documentation that indicates that this issue was raised, at any time or stage, with Revenu Québec or the Canada Revenue Agency. Nor was it raised orally, according to the respondent's witnesses.
+[14] For the taxation years following those in issue, the appellant stated that his income came from Saudi Arabia and indicated that he was a resident of the province of Quebec on his income tax returns. He also applied for the Goods and Services Tax Credit. He stated that his accountant told him to do so. The appellant himself signed his 2004, 2005 and 2006 tax returns and they were all filed at the same time. As for the settlement with Revenu Québec, although the appellant agreed to settle everything, he was under the impression that he would not have to pay more than $8,000 in taxes—which was not the case, however. As for the appellant's wife, she admits that she did not ask their accountant to take up the issue of non-resident status with tax authorities and stated that the issue was never raised at the objection stage.
+[15] The first issue to be determined is whether the appellant was a resident of Canada during the three taxation years at issue. It is provided in subsection 2(1) of the Act that an income tax shall be paid, as required by the Act, on the taxable income for each taxation year of every person resident in Canada at any time in the year. Subsection 250(3) states that a reference to a person resident in Canada includes a person who was at the relevant time ordinarily resident in Canada.
+[16] The most cited case when determining a taxpayer's place of residence is Thomson v. Canada, [1946] C.T.C. 51, rendered by the Supreme Court of Canada. In that decision, at pages 63 and 64, Rand J. held as follows:
+The gradation of degrees of time, object, intention, continuity and other relevant circumstances, shows, I think, that in common parlance "residing" is not a term of invariable elements, all of which must be satisfied in each instance. It is quite impossible to give it a precise and inclusive definition. It is highly flexible, and its many shades of meaning vary not only in the contexts of different matters, but also in different aspects of the same matter. In one case it is satisfied by certain elements, in another by others, some common, some new.
+The expression "ordinarily resident" carries a restricted signification, and although the first impression seems to be that of preponderance in time, the decisions on the English Act reject that view. It is held to mean residence in the course of the customary mode of life of the person concerned, and it is contrasted with special or occasional or casual residence. The general mode of life is, therefore, relevant to a question of its application.
+For the purposes of income tax legislation, it must be assumed that every person has at all times a residence. It is not necessary to this that he should have a home or a particular place of abode or even a shelter. He may sleep in the open. It is important only to ascertain the spatial bounds within which he spends his life or to which his ordered or customary living is related. Ordinary residence can best be appreciated by considering its antithesis, occasional or casual or deviatory residence. The latter would seem clearly to be not only temporary in time and exceptional in circumstance, but also accompanied by a sense of transitoriness and of return.
+But in the different situations of so-called "permanent residence", "temporary residence", "ordinary residence", "principal residence" and the like, the adjectives do not affect the fact that there is in all cases residence; and that quality is chiefly a matter of the degree to which a person in mind and fact settles into or maintains or centralizes his ordinary mode of living with its accessories in social relations, interests and conveniences at or in the place in question. It may be limited in time from the outset, or it may be indefinite, or so far as it is thought of, unlimited. On the lower level, the expressions involving residence should be distinguished, as I think they are in ordinary speech, from the field of "stay" or "visit".
+[17] This issue has been dealt with in several decisions of this Court and of the Federal Court of Appeal. Its resolution is mostly a question of facts. In Gaudreau v. Canada, [2004] T.C.J. No. 637 (QL), at paragraphs 24 and 25, Lamarre J. provides, in my opinion, a good summary of some of the factors the Court must consider:
+24 Accordingly, as suggested by counsel for the appellant, the question is to determine where, during the period at issue, the appellant, in his settled routine of life, regularly, normally or customarily lived. One must examine the degree to which the appellant in mind and fact settled into, maintained or centralized his ordinary mode of living, with its accessories in social relations, interests and conveniences, at or in the place in question.
+25 This is mainly a question of fact. In The Queen v. Reeder, 75 DTC 5160 (F.C.T.D.), referred to by the appellant, the court listed some factors considered to be material in determining the question of fiscal residence, at page 5163:
+. . . While the list does not purport to be exhaustive, material factors include:
+a. past and present habits of life;
+b. regularity and length of visits in the jurisdiction asserting residence;
+c. ties within that jurisdiction;
+d. ties elsewhere;
+e. permanence or otherwise of purposes of stay abroad.
+The matter of ties within the jurisdiction asserting residence and elsewhere runs the gamut of an individual's connections and commitments: property and investment, employment, family, business, cultural and social are examples, again not purporting to be exhaustive. Not all factors will necessarily be material to every case. They must be considered in the light of the basic premises that everyone must have a fiscal residence somewhere and that it is quite possible for an individual to be simultaneously resident in more than one place for tax purposes.
+[18] I believe it is also important to cite other passages from her decision, where she quotes Rip J. from Snow v. Canada, [2004] T.C.J. No. 267 (QL). The passages are paragraphs 30 and 32:
+30 As Rip J. said in his recent decision in Snow v. Canada, [2004] T.C.J. No. 267 (Q.L.), at paragraph 18:
+A person may be resident of more than one country for tax purposes. The nature of a person's life and the frequency he or she comes to Canada are important matters to consider in determining one's residence.2 The words "ordinarily resident" in s.s. 250(3) refer to the place where, in the person's settled routine of life, the person normally or customarily lives.3 The intention of a taxpayer, while obviously relevant in determining the "settled routine" of a taxpayer's life, is not determinative.4 A person's temporary absence from Canada does not necessarily lead to a loss of Canadian residence if a family household remains in Canada, or possibly even if close personal and business ties are maintained in Canada.
+. . .
+32 It is clear from the employment agreement that the appellant was given an assignment in Egypt for which he was even paid an expatriation premium for the duration thereof. The agreement provided for air transportation back and forth between the appellant's home location and his work location. The appellant kept all his assets in Canada and before leaving Canada made all the necessary arrangements to have someone look after those assets. His purpose in accepting the contract in Egypt was not to give up his ties with Canada but mainly to earn a living. The appellant agreed to go there on a contractual basis and did not sever his attachments to, or his links with, Canada. The appellant did not in mind and fact abandon his general mode of life in Canada. As a matter of fact, the house in Timmins was available at all times as a place in which he could customarily live. To use the words of Rand J. in the Thomson case, he and his wife maintained their ordinary mode of living, with its accessories in social relations, interests and conveniences, in Canada. If I may distinguish the present case from the Boston case, the duration of the contract here was a lot shorter and the appellant did not demonstrate that he became active in the community in which he lived in Egypt. He was only there to do his work. Finally, the Boston case was considered but not followed in the McFadyen case, which was affirmed by the Federal Court of Appeal.
+[19] That said, and as stated by Sheridan J. in Mullen v. Canada, [2008] T.C.J. No. 224 (QL), we understand from those decisions that it is not easy to stop being a resident of Canada. As for the issue in this case, there are certain factors that weigh in the appellant's favour. He has a Saudi Arabian passport; he has a Saudi Arabian driver's licence and a car in Saudi Arabia, where he spends eleven months out of the year; he has medical insurance and permanent employment in that country. Is that enough to allow me to conclude that the appellant no longer has economic and personal relations with Canada or that those relations have weakened enough for him to no longer be a resident of Canada?
+[20] The appellant in this case immigrated to Canada with his wife and their three children in 1995 to settle here permanently. Unable to find appropriate employment and having to provide for his family, the appellant returned to Saudi Arabia in October 2000 to take up employment. He held that employment during the three years at issue.
+[21] Despite his absence from Canada, it becomes difficult to believe that the appellant's mode of life did not continue to be centralized in Canada. Not only did his family stay in Canada at all times, but the appellant also kept and held a residence in Canada which he later sold to purchase another. He had a pool put in during the years at issue after obtaining a loan for that purpose.
+[22] During the years in issue, the appellant had a joint bank account with his wife in which he deposited almost all of his employment income from Saudi Arabia which he use to provide for himself and his family, including reimbursing the loan for the car he had in Canada, the loan for the pool and the loan for his daughter's car. The appellant still had a mailing address in Canada and always stated that he was a resident of Canada in all of his income tax returns. He uses his Canadian passport and keeps his Quebec health card, even though he has not used it. I believe the appellant never severed his ties with Canada nor did he ever intend to do so. The reason for returning to Saudi Arabia was mainly a means to earn a living and provide for his family. He was only there to work. He therefore did not give up, in thought or fact, his customary mode of life in Canada. Accordingly, the appellant ordinarily resided in Canada during the years at issue.
+[23] Are 2001 and 2002 statute-barred because the assessments made for those years were outside the normal assessment period? The Minister may reassess after the normal reassessment period if he establishes that the taxpayer made a misrepresentation that is attributable to neglect, carelessness or wilful default; this is provided specifically in subparagraph 152(4)(a)(i) of the Act.
+[24] The purpose of subsection 152(4) was summarized by Strayer J. of the Federal Court of Appeal in Nesbitt v. Canada, [1996] F.C.J. No. 1470 (QL), at paragraph 8:
+. . .
+It appears to me that one purpose of subsection 152(4) is to promote careful and accurate completion of income tax returns. Whether or not there is misrepresentation through neglect or carelessness in the completion of a return is determinable at the time the return is filed. A misrepresentation has occurred if there is an incorrect statement on the return form, at least one that is material to the purposes of the return and to any future reassessment. It remains a misrepresentation even if the Minister could or does, by a careful analysis of the supporting material, perceive the error on the return form. It would undermine the self-reporting nature of the tax system if taxpayers could be careless in the completion of returns while providing accurate basic data in working papers, on the chance that the Minister would not find the error but, if he did within four years, the worst consequence would be a correct reassessment at that time.
+[25] The appellant has been in Canada since 1995. He has been filing income tax returns since his arrival. He is a computer specialist by profession. His wife, to whom he entrusted the task of having his income tax returns prepared, has a Masters in Linguistics. She had H&R Block prepare his tax returns for the three years in question. According to the appellant, he did not consider it normal to report the income he earned in Saudi Arabia. The evidence does not reveal the source of that opinion nor does it reveal whether the appellant or his wife consulted a financial advisor prior to deciding not to report that income. It is certain, according to the evidence, that the issue of residence was not a factor as the issue was in fact only raised a few weeks prior to the hearing. Furthermore, the appellant's wife admitted during cross-examination that she never instructed their representative to raise the issue of residence at the objection or negotiation stage with Revenu Québec and Canada Revenue Agency officials.
+[26] There is no doubt that the taxpayer made a misrepresentation in the 2001 and 2002 income tax returns in this case and that the misrepresentation was attributable to neglect or carelessness when the returns were filed. The appellant did not make any inquiries and simply chose not to report his employment income from Saudi Arabia as he did not find it normal to have to report that income. A tax return must be prepared with attention and care so as to respect the "self-reporting" nature of the tax system. The Minister therefore discharged his onus of proof and that accordingly justifies the 2001 and 2002 reassessments outside the normal assessment period.
+[27] The Minister also imposed penalties, under subsection 163(2) of the Act, for failing to report income for the three years in issue. That subsection reads as follows:
+Every person who, knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in a return, form, certificate, statement or answer (in this section referred to as a "return") filed or made in respect of a taxation year for the purposes of this Act, is liable to a penalty of the greater of $100 and 50% of the total of
+. . .
+[28] The onus therefore shifts to the Minister to show, on the balance of probabilities, that the appellant knowingly, or under circumstances amounting to gross negligence, has made or has participated in, assented to or acquiesced in the making of, a false statement or omission in his returns for the three years in issue. According to Venne v. Canada (M.N.R.), [1984] F.C.J. No. 314 (QL), the Minister must prove a high degree of negligence, one that is tantamount to intentional acting or an indifference as to whether the law is complied with or not.
+[29] What is clear from the evidence is that, contrary to what the appellant claims, never during the three years in issue, nor at the objection, negotiation or settlement stage with Revenu Québec, did the appellant not have to report the employment income from Saudi Arabia on the ground that he was no longer a resident of Canada. According to the evidence heard, the appellant did not report that income for the simple reason that he did not consider it normal to report it. In fact, in all of his income tax returns from 1995 to 2006, the appellant indicates that he is a resident of Canada, more specifically Quebec, and provides his address in Montréal. He could neither believe nor think that it was the non-resident status that justified the fact that he did not report his income during the three years in issue. To simply believe that it is not normal to report one's income, as the appellant stated in this case, is, in my opinion, an indifference as to whether the law is complied with or not. The Minister discharged his burden of proof and I am satisfied that the appellant knowingly made a false statement in his returns for the three years in issue.
+[30] The agent for the appellant is claiming certain additional deductions as well as tax credits not claimed by the appellant. He will have to submit the amendments to his tax returns to the Agency so that they can be processed in normal course.
+[31] The appeals are dismissed.
+Signed at Ottawa, Canada, this 7th day of October 2009.
+"François Angers"
+Angers J.
+Translation certified true
+on this 30th day of November 2009.
+Daniela Possamai, Translator
+CITATION: 2009 TCC 440
+COURT FILE NO.: 2009-944(IT)I
+STYLE OF CAUSE: Abdelaziz Bensouilah and Her Majesty The Queen
+PLACE OF HEARING: Montréal, Quebec
+DATE OF HEARING: August 26, 2009
+REASONS FOR JUDGMENT BY: The Honourable Justice François Angers
+DATE OF JUDGMENT: October 7, 2009
+APPEARANCES:
+Agent for the appellant:
+Nabil Warda
+Counsel for the respondent:
+Dany Leduc
+COUNSEL OF RECORD:
+For the appellant:
+Name:
+Firm:
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

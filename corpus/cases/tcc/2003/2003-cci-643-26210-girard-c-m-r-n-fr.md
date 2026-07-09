@@ -1,0 +1,154 @@
+---
+title: "Girard c. M.R.N."
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26210/index.do"
+last_modified: "2003-09-17"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2003 CCI 643"
+citation2: ""
+neutral_citation: "2003 CCI 643"
+decision_date: "2003-09-17"
+language: "fr"
+item_id: "26210"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 3941
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T18:44:45.870000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "4e275012339416e69a0a62c94ee2c99b738d378a6ad0cc64b1cfba936e04a0f4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Girard c. M.R.N.
+
+- Citation: 2003 CCI 643
+- Decision date: 2003-09-17
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 3941, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Girard c. M.R.N.
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2003-09-17
+Référence neutre
+2003 CCI 643
+Numéro de dossier
+1999-3411(EI)
+Juges et Officiers taxateurs
+Brent Paris
+Sujets
+Loi sur l'assurance-emploi
+Régime de pensions du Canada
+Contenu de la décision
+Dossier : 1999-3411(EI)
+ENTRE :
+JOSÉE GIRARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+____________________________________________________________________
+Appel entendu le 26 mai 2003 à Québec (Québec)
+Devant : L'honorable juge Brent Paris
+Comparutions :
+Avocat de l'appelante :
+Me Michel Poulin
+Avocate de l'intimé :
+Me Nancy Dagenais
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté et la décision rendue par le Ministre est confirmée selon les motifs du jugement ci-joints.
+Signé à Ottawa (Canada), ce 17e jour de septembre 2003.
+« B. Paris »
+L'honorable juge Paris
+Référence : 2003CCI643
+Date : 20030917
+Dossier :1999-3411(EI)
+ENTRE :
+JOSÉE GIRARD,
+appelante,
+et
+LE MINISTRE DU REVENU NATIONAL,
+intimé.
+MOTIFS DU JUGEMENT
+Le juge Paris
+[1] Il s'agit d'un appel à l'encontre d'une décision du ministre du Revenu national (le « Ministre » ) rendue le 19 mai 1999 à l'effet que l'emploi exercé par l'appelante auprès de Gertrex R.S.I. Inc., le « payeur » , au cours des périodes suivantes : du 6 mai au 2 août 1991, du 3 septembre au 8 novembre 1991, du 26 mars 1992 au 11 juin 1993 et du 15 mars 1995 au 15 mars 1996, était un emploi exclus en vertu de l'alinéa 3(2)c) de la Loi sur l'assurance-chômage et du paragraphe 5(2)(i) de la Loi sur l'assurance-emploi.
+[2] Le fait que l'appelante travaillait pour le payeur en vertu d'un contrat de louage de services au cours de ces périodes n'est pas contesté. La question est plutôt de savoir si le Ministre a bien exercé son pouvoir discrétionnaire en décidant que l'appelante et le payeur n'auraient pas conclu un contrat de travail à peu près semblable si les parties n'avaient pas eu entre elles un lien de dépendance.
+[3] Les faits sur lesquels s'est appuyé le Ministre pour prendre sa décision sont énoncés au paragraphe 5 de la réponse à l'avis d'appel. Ils se lisent comme suit :
+a) Le payeur, constitué en société le 12 novembre 1986, exploite une entreprise de rénovation et d'aménagement intérieur d'immeubles commerciaux ou industriels.
+b) Mme Pauline Tremblay, belle-mère de l'appelante, était l'unique actionnaire du payeur.
+c) M. Gilles A. Tremblay, conjoint de Pauline Tremblay et beau-père de l'appelante, était l'administrateur du payeur; il était celui qui qualifiait la société auprès de la Régie de la Construction du Québec.
+d) La société est propriétaire de l'immeuble où elle est sise et dans lequel elle loue 6 autres espaces commerciaux.
+e) L'appelante travaillait comme secrétaire-réceptionniste depuis de nombreuses années au siège social du payeur.
+f) Au cours des périodes en litige, l'appelante aurait prêté jusqu'à 7 000 $ au payeur, sans aucun intérêt.
+g) L'appelante prétend que ses heures de travail étaient compilées par le payeur alors que M. Gilles A. Tremblay, seul administrateur du payeur, ne connaissait pas les heures de travail de l'appelante.
+h) L'appelante prétend qu'elle travaillait de 8 h 30 à 16 h 30, du lundi au vendredi, durant les périodes en litige alors qu'elle ne faisait que quelques heures par semaine durant les semaines où elle recevait des prestations d'assurance-chômage/emploi.
+i) Lorsqu'elle était inscrite au registre des salaires à plein temps, l'appelante recevait une rémunération fixe de 500 $ par semaine et ce, sans tenir compte des heures réellement travaillées.
+j) Au cours des périodes en litige, l'appelante a reçu, en plus de sa rémunération, des sommes de 4 700 $ en 1993 et de 2 000 $ en 1995 du payeur.
+k) L'appelante est inscrite au registre des salaires du payeur lorsque son conjoint ne l'est pas et elle n'y est pas inscrite lorsque son conjoint y est inscrit à plein temps.
+l) L'appelante rendait des services à l'année longue au payeur; il y avait arrangement entre elle et le payeur pour lui permettre de se qualifier pour recevoir des prestations d'assurance-chômage/emploi entre ses prétendues périodes de travail.
+m) Les relevés d'emploi soumis par l'appelante ne reflètent pas la réalité quant aux périodes travaillées et quant à la rémunération gagnée.
+[4] Les alinéas 5a), b), c) et e) ont été admis par l'appelante. L'alinéa 5d) a également été admis par l'appelante, sous réserve du fait que le payeur louait seulement cinq (et non six) autres espaces commerciaux dans l'immeuble dont il était propriétaire. L'appelante a également admis qu'elle avait prêté de l'argent au payeur (alinéa 5f)) et a affirmé que l'argent dont il est question à l'alinéa 5j) représentait le remboursement des sommes qu'elle avait prêtées au payeur. Je retiens le témoignage de l'appelante sur ce point.
+[5] En ce qui a trait aux heures de travail et au salaire de l'appelante, elle a témoigné qu'elle effectuait le nombre d'heures de travail par semaine qui était nécessaire pour accomplir le travail. Elle a affirmé qu'elle travaillait parfois 30 heures par semaine alors que, à d'autres moments, elle travaillait plus de 40 heures. Ni l'appelante ni le payeur n'a consigné les heures de travail qu'elle a effectuées. Son salaire était fixé à 500 $ par semaine, mais il arrivait à l'occasion que le payeur lui versait un salaire inférieur car il manquait d'argent.
+[6] L'hypothèse du Ministre énoncée à l'alinéa 5k) était appuyée par la preuve. Mme Bousquet, l'agente des appels de l'Agence des douanes et du revenu du Canada (ADRC) qui a traité le dossier de l'appelante, a été appelée à témoigner. Elle a produit un tableau (pièce I-5) où elle a consigné les périodes au cours desquelles l'appelante et son conjoint, Mario Tremblay, ont travaillé pour le payeur ainsi que les périodes au cours desquelles ils ont été mis à pied et qu'ils ont perçu des prestations d'assurance-chômage et d'assurance-emploi. Le tableau a confirmé que, pendant de longues périodes, l'appelante a travaillé pour le payeur alors que son conjoint n'avait pas d'emploi et recevait des prestations, et que, lorsqu'elle n'avait pas d'emploi et recevait des prestations, son conjoint travaillait pour le payeur. Le payeur n'a pas remplacé l'appelante lorsqu'il l'a mise à pied. Ainsi, elle a continué d'accomplir du travail pour le payeur, parfois bénévolement, parfois en contrepartie d'une rémunération de 100 $ par semaine.
+[7] Mme Bousquet a témoigné que l'appelante lui avait dit que, lorsque son conjoint (Tremblay) travaillait pour le payeur, il y avait suffisamment de travail pour l'occuper à temps plein. Lorsque son conjoint ne travaillait pas pour le payeur, son beau-père, Gilles Tremblay, avait parfois du travail à faire pour le payeur mais que cela ne suffisait pas pour occuper l'appelante à temps plein. Mme Bousquet n'a pas été contre-interrogée à cet égard et l'appelante, bien qu'elle ait été appelée à témoigner de nouveau, n'a pas été interrogée sur ses déclarations antérieures. La preuve a confirmé que Mario Tremblay était principalement responsable des opérations du payeur, dont l'obtention et l'exécution de contrats de construction, et que Gilles Tremblay ne jouait qu'un rôle mineur et s'absentait environ quatre mois par année.
+[8] Les périodes d'emploi de l'appelante ne coïncidaient pas avec les périodes d'emploi de son conjoint auprès du payeur. En fait, c'était plutôt le contraire. L'appelante travaillait pour le payeur tandis que son conjoint recevait des prestations, et elle était mise à pied au cours des périodes où son conjoint travaillait pour le payeur.
+[9] En ce qui a trait à l'hypothèse du Ministre énoncée à l'alinéa l), la preuve démontre clairement que l'appelante a continué de travailler pour le payeur après qu'elle a été mise à pied. L'appelante a affirmé qu'elle travaillait moins au cours de ces périodes, mais cela ne concorde pas avec le fait que c'est Mario Tremblay qui générait le plus de travail pour le payeur et qu'il était employé par le payeur pendant de longues périodes lorsque l'appelante était mise à pied. La preuve me convainc que l'arrangement mentionné à cet alinéa existait et qu'il y avait peu de corrélation entre les périodes au cours desquelles l'appelante a travaillé et la somme de travail devant être accomplie pour le payeur.
+[10] En résumé, l'appelante n'a pas réussi à me convaincre que le Ministre a commis une erreur dans l'exercice de son pouvoir discrétionnaire qui lui est conféré par le sous alinéa 3(2)(c)(ii) de la Loi sur l'assurance-chômage et le paragraphe 5(3)(b) de la Loi sur l'assurance-emploi à l'égard des périodes pertinentes. La preuve démontre que seulement deux hypothèses mineures (sous-alinéas 5f) et j)) n'auraient pas dû être considérées par le Ministre. Cela n'est pas suffisant pour annuler la décision du Ministre prise en vertu de son pouvoir discrétionnaire. Les autres facteurs considérés étaient tous pertinents au soutien de cette décision et ensemble seraient suffisants pour appuyer la décision. Il n'y a pas de preuve non plus de mauvaise foi de la part du Ministre.
+[11] Étant donné ma conclusion à l'égard de l'exercice par le Ministre de son pouvoir discrétionnaire, il n'est pas nécessaire que je me prononce sur la conclusion du Ministre à l'effet que les parties n'auraient pas conclu un contrat de travail à peu près semblable si elles n'avaient pas eu entre elles un lien de dépendance.
+[12] L'avocat de l'appelante a soulevé une dernière question relative à la compétence du Ministre de prendre la décision qui fait l'objet du présent appel. Il a produit en preuve une lettre datée du 17 juin 1995 dans laquelle un agent préposé aux demandes de l'ADRC informait l'appelante que l'emploi dont il est question en l'espèce était assurable. Deux ans plus tard, un autre agent préposé aux demandes avait tiré une conclusion contraire, ce qui a conduit au présent appel. L'avocat de l'appelante soutient que le Ministre n'a pas le pouvoir d'annuler la décision antérieure. Il soutient que l'appelante a subi un préjudice parce qu'elle est maintenant hors délai pour demander le remboursement des cotisations à l'assurance-chômage qu'elle a versé au cours des premières périodes d'emploi, car le délai pour ce faire est de trois ans. Si on lui avait dit que son emploi n'était pas assurable en juin 1996, elle aurait fait une demande de remboursement à cette époque.
+[13] Toutefois, la Cour d'appel fédérale, dans l'arrêt Breault c. M.R.N. (C.A.F.), [1990] A.C.F. n ° 286, a conclu que le fait qu'une décision à l'égard de l'assurabilité d'un emploi ait déjà été prise par un agent préposé aux demandes n'empêche pas qu'une deuxième nouvelle décision à cet égard soit prise à une date ultérieure. Le Ministre ne perd pas sa compétence en raison d'une « prise de position » antérieure.
+[14] Pour tous ces motifs, l'appel est rejeté.
+Signé à Ottawa (Canada), ce 17e jour de septembre 2003.
+« B. Paris »
+L'honorable juge Paris
+RÉFÉRENCE :
+2003CCI643
+No DU DOSSIER DE LA COUR :
+1999-3411(EI)
+INTITULÉ DE LA CAUSE :
+Josée Girard et M.R.N.
+LIEU DE L'AUDIENCE :
+Québec (Québec)
+DATE DE L'AUDIENCE :
+le 29 octobre 2002
+MOTIFS DE JUGEMENT PAR :
+l'honorable juge B. Paris
+DATE DU JUGEMENT :
+Le 17 septembre 2003
+COMPARUTIONS :
+Pour l'appelante :
+Me Michel Poulin
+Pour l'intimé :
+Me Marie-Claude Landry
+AVOCAT(E) INSCRIT(E) AU DOSSIER:
+Pour l'appelante :
+Nom :
+Me Michel Poulin
+Étude :
+Poulin, Vézina, Dignard
+Ste-Foy (Québec)
+Pour l'intimé :
+Morris Rosenberg
+Sous-procureur général du Canada
+Ottawa, Canada

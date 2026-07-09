@@ -1,0 +1,133 @@
+Title: Hide and Seek Bailiff Services Ltd. c. La Reine
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/424144/index.do
+Corpus path: corpus/cases/tcc/2019/2019-cci-251-424144-hide-and-seek-bailiff-services-ltd-c-la-reine-fr.md
+Document type: case_law
+Last modified: 2019-11-05
+
+# Hide and Seek Bailiff Services Ltd. c. La Reine
+
+- Citation: 2019 CCI 251
+- Decision date: 2019-11-05
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4273, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hide and Seek Bailiff Services Ltd. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2019-11-05
+Référence neutre
+2019 CCI 251
+Numéro de dossier
+2018-1426(GST)I
+Juges et Officiers taxateurs
+Ronald MacPhee
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2018-1426(GST)I
+ENTRE :
+HIDE & SEEK BAILIFF SERVICES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+Appel entendu le 2 octobre 2019, à Kamloops (Colombie-Britannique)
+Devant : L’honorable juge Ronald MacPhee
+Comparutions :
+Avocate de l’appelante :
+Me Corine LeBourdais
+Avocat de l’intimée :
+Me Keelan Sinnott
+JUGEMENT
+L’appel interjeté par l’appelante à l’encontre des cotisations établies aux termes de la Loi sur la taxe d’accise pour les périodes de déclaration de l’appelante allant du 1er janvier 2010 au 31 décembre 2010 et du 1er janvier 2011 au 31 décembre 2011 est accueilli, sans dépens, et les cotisations sont renvoyées au ministre du Revenu national pour réexamen et établissement de nouvelles cotisations au motif que l’appelante a droit à des crédits de taxe sur intrants supplémentaires de 246 $ et 158 $, respectivement, pour les périodes de déclaration allant du 1er janvier 2010 au 31 décembre 2010 et du 1er janvier 2011 au 31 décembre 2011.
+Signé à Ottawa, Canada, ce 5e jour de novembre 2019.
+« R. MacPhee »
+Le juge MacPhee
+Référence : 2019 CCI 251
+Date : 20191105
+Dossier : 2018-1426(GST)I
+ENTRE :
+HIDE & SEEK BAILIFF SERVICES LTD.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE CERTIFIÉE, NON RÉVISÉE]
+MOTIFS DU JUGEMENT
+Le juge MacPhee
+I. APERÇU
+[1] L’appelante, Hide & Seek Bailiff Services (Hide & Seek), a été constituée en société en Colombie-Britannique, en 2003. Hide & Seek offre divers services d’huissier, notamment des services de reprise de possession de véhicules, de signification d’actes de procédure et de dépistage.
+[2] En 2010 et 2011, le ministre du Revenu national (le ministre) a établi des cotisations à l’égard de l’appelante et augmenté le montant de la TPS exigible aux termes de la Loi sur la taxe d’accise, L.R.C. (1985), ch. E-15 (la Loi). Les montants revus à la hausse en litige étaient de 4 230,51 $ et de 1 860 $, respectivement, pour les périodes de déclaration 2010 et 2011 (les périodes de déclaration). Le ministre a également refusé des crédits de taxe sur intrants (CTI) de 3 517 $ réclamés en 2010 et de 5 475 $ réclamés en 2011 (désignés collectivement les cotisations).
+[3] L’appelante a interjeté appel auprès de notre Cour afin qu’elle tranche les questions suivantes :
+i) Le ministre a-t-il correctement établi la TPS perçue ou à percevoir pour les périodes en litige devant la Cour?
+ii) Le ministre a-t-il correctement établi le montant des CTI auxquels l’appelante avait droit durant les périodes de déclaration?
+iii) Le ministre a-t-il évalué correctement les pénalités pour faute lourde imposées à l’appelante aux termes de l’article 285 de la Loi?
+[4] Dès le début du procès, l’intimée a admis que l’appelante avait droit à des CTI supplémentaires de 246 $ pour 2010 et de 158 $ pour 2011.
+II. EXPOSÉ DES FAITS
+[5] L’unique actionnaire de l’appelante est M. Mark Hanson (M. Hanson). M. Hanson était l’âme dirigeante de l’entreprise de l’appelante, dirigeant les activités quotidiennes de la société depuis son domicile. M. Hanson exécutait la majeure partie du travail de fond au nom de l’appelante, et embauchait à l’occasion d’autres employés pour l’aider au besoin. Il s’occupait également de la facturation et de l’émission des reçus pour le compte de l’appelante, en faisant appel aux services d’un expert-comptable et d’un commis comptable au besoin.
+[6] Durant son témoignage, M. Hanson a déclaré que ses connaissances de la préparation des registres comptables étaient très limitées et qu’il ne connaissait rien de l’impôt sur le revenu des sociétés, notamment de la production des déclarations T2 ou de la manière de bien calculer la TPS à remettre. Ses éléments de preuve n’ont donc été guère utiles pour étayer les questions en litige devant la Cour.
+[7] Durant son témoignage, il n’a fourni aucun détail sur les ventes totales réalisées par l’appelante en 2010 ou 2011. De même, il n’a fourni aucun élément de preuve concernant les montants qui auraient dû être perçus et remis par l’appelante aux fins de la TPS.
+[8] En ce qui concerne les CTI en litige, l’appelante n’a pas précisé quels CTI avaient été refusés, ni présenté d’élément de preuve indiquant pourquoi Hide & Seek aurait dû avoir droit aux CTI qui lui ont été refusés par le ministre.
+[9] Le ministre s’est notamment fondé sur les hypothèses suivantes présentées à la Cour pour justifier les cotisations établies :
+1. Durant les périodes de déclaration, l’appelante a réalisé des ventes supérieures à :
+a. 156 822,33 $ pour la période prenant fin le 31 décembre 2010;
+b. 126 891,55 $ pour la période prenant fin le 31 décembre 2011;
+2. Durant les périodes de déclaration, le montant de la TPS/TVH perçue ou à percevoir par l’appelante était supérieur à :
+a. 13 329,90 $ pour la période prenant fin le 31 décembre 2010;
+b. 15 266,99 $ pour la période prenant fin le 31 décembre 2011;
+3. Durant les périodes de déclaration, les CTI auxquels avait droit l’appelante ne dépassaient pas :
+a. 4 216,55 $ pour la période prenant fin le 31 décembre 2010;
+b. 5 886,07 $ pour la période prenant fin le 31 décembre 2011;
+[10] Le seul témoin appelé par l’intimée a été Mme Denise Eaton, vérificatrice de l’Agence du revenu du Canada (Agence). Mme Eaton a expliqué comment le ministre avait calculé le revenu total aux fins de la TPS. Elle a aussi expliqué comment le ministre avait calculé les CTI autorisés aux fins de l’établissement de la cotisation. Enfin, Mme Eaton a confirmé que, durant sa préparation au procès, elle avait pu corroborer les cotisations en litige établies par le ministre aux fins de la TPS à partir des registres comptables de l’appelante qui avaient été transmis à l’Agence sous forme électronique.
+III. DROIT ET DISCUSSION
+[11] Le fardeau de la preuve repose sur la prépondérance des probabilités, et il incombe au contribuable de réfuter les hypothèses du ministre, comme l’a expliqué de façon exhaustive la Cour suprême du Canada dans l’arrêt Hickman Motors Ltd. c. Canada [1] . Même si la question en litige dans Hickman portait sur l’impôt sur le revenu, les principes qui y sont énoncés s’appliquent également aux procédures visant la TPS [2] . Le fait d’imposer le fardeau de la preuve au contribuable signifie uniquement qu’il incombe à la personne la plus au fait des éléments à l’appui des cotisations établies de réfuter les allégations [3] .
+[12] L’appelante conteste les calculs du ministre. Cependant, les éléments de preuve qu’elle a présentés sont tout simplement insuffisants pour infirmer les hypothèses qui sous-tendent les cotisations établies. De plus, les éléments de preuve du témoin de l’Agence corroborent les cotisations établies, et ces éléments de preuve n’ont pas été contestés d’une manière significative. M. Hanson n’a pas réussi à réfuter les hypothèses formulées par le ministre à l’appui des cotisations établies.
+[13] Le critère pour l’imposition de pénalités est défini au paragraphe 285.1(16) de la Loi, qui dispose clairement que le fardeau de la preuve incombe au ministre. Selon l’article 285 de la Loi, il incombe à l’intimée de démontrer que l’appelante a sciemment fait un faux énoncé ou une omission dans sa déclaration ou que, dans les circonstances, les énoncés faits par l’appelante dans les déclarations en litige équivalaient à une faute lourde.
+[14] Dans ses observations, l’intimée fait valoir que l’imposition de pénalités pour négligence peut être justifiée par une piètre tenue des livres et registres comptables par le contribuable, citant à l’appui Développement Priscilla Inc. c. La Reine [4] , [1] 2007 CCI 728, [2007] G.S.T.C. 181.
+[15] Durant son contre-interrogatoire, M. Hanson a indiqué qu’il avait fait une bonne tenue des livres et des registres comptables aux fins des CTI. Cependant, outre cet élément de preuve et une brève mention des livres et registres par Mme Eaton, aucun autre élément de preuve ne me permet d’évaluer les livres et registres de l’appelante. Aucun livre ni registre ne m’a été présenté par l’une ou l’autre partie. De plus, l’intimée n’a présenté aucune description des lacunes relevées dans les livres ou registres comptables. L’intimée ne s’étant pas acquittée du fardeau exigé par la Loi, aucune pénalité ne sera imposée à l’appelante.
+[16] L’appel est par conséquent accueilli en fonction des concessions faites par l’intimée au début du procès. L’appelante a droit à des CTI supplémentaires de 246 $ et de 158 $, respectivement, pour les périodes 2010 et 2011. Le reste de l’appel est rejeté. Chaque partie assumera ses propres dépens.
+Signé à Ottawa, Canada, ce 5e jour de novembre 2019.
+« R. MacPhee »
+Le juge MacPhee
+Traduction certifiée conforme
+Ce 14e jour de novembre 2019
+Lionbridge
+RÉFÉRENCE :
+2019 CCI 251
+NO DU DOSSIER DE LA COUR :
+2018-1426(GST)I
+INTITULÉ :
+HIDE & SEEK BAILIFF SERVICES LTD. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Kamloops (Colombie-Britannique)
+DATE DE L’AUDIENCE :
+Le 2 octobre 2019
+MOTIFS DU JUGEMENT :
+L’honorable juge Ronald MacPhee
+DATE DU JUGEMENT :
+Le 5 novembre 2019
+COMPARUTIONS :
+Avocate de l’appelante :
+Me Corine LeBourdais
+Avocat de l’intimée :
+Me Keelan Sinnott
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+[EN BLANC]
+Cabinet :
+[EN BLANC]
+Pour l’intimée :
+Nathalie G. Drouin
+Sous-procureure générale du Canada
+Ottawa (Canada)
+[1] Morrison v. The Queen, 2018 TCC 220, au paragraphe 68, 298 A.C.W.S. (3d) 439 [Morrison], citant Hickman Motors Ltd. c. Canada [1997] 2 R.C.S. 336; [1998] 1 C.T.C. 213 [Hickman].
+[2] Voir Amiante Spec Inc. c. Canada, 2009 CAF 139; 186 ACWS (3d) 279, et Pro-Poseurs Inc. c. Canada, 2012 CAF 200.
+[3] Sarmadi c. Canada 2017 CAF 131, au paragraphe 62, [2018] 2 C.T.C. 99 [Sarmadi].

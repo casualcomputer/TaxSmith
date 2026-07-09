@@ -1,0 +1,268 @@
+---
+title: "2227414 Ontario Inc. v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521018/index.do"
+last_modified: "2022-11-04"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 TCC 133"
+citation2: ""
+neutral_citation: "2022 TCC 133"
+decision_date: "2022-11-04"
+language: "en"
+item_id: "521018"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5813
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2023-12-01T11:28:15.249000+00:00"
+cases_cited_count: 1
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "9e5f602f3f03de3146764eb235c4f8eaa7012eb0b5262624828b0de6e3880b28"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# 2227414 Ontario Inc. v. The King
+
+- Citation: 2022 TCC 133
+- Decision date: 2022-11-04
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5813, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+2227414 Ontario Inc. v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2022-11-04
+Neutral citation
+2022 TCC 133
+File numbers
+2018-3114(GST)I
+Judges and Taxing Officers
+David E. Spiro
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2018-3114(GST)I
+BETWEEN:
+2227414 ONTARIO INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeals heard on September 20 and 21, 2022, at Toronto, Ontario
+Before: The Honourable Justice David E. Spiro
+Appearances:
+Agent for the Appellant:
+Tania D'Souza
+Counsel for the Respondent:
+William Switzer
+JUDGMENT
+The appeals for the Appellant’s reporting periods ended March 31, 2012, June 30, 2012, September 30, 2012, and December 31, 2012 are allowed with costs and the assessment under Part IX of the Excise Tax Act for each reporting period is referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that net tax be reduced by:
+a) $9,580.59 for the reporting period ended March 31, 2012;
+b) $10,531.07 for the reporting period ended June 30, 2012;
+c) $9,665.30 for the reporting period ended September 30, 2012; and
+d) $11,235.14 for the reporting period ended December 31, 2012;
+and that all penalties be deleted.
+Signed at Ottawa, Canada, this 4th day of November 2022.
+“David E. Spiro”
+Spiro J.
+Citation: 2022 TCC 133
+Date: 20221104
+Docket: 2018-3114(GST)I
+BETWEEN:
+2227414 ONTARIO INC.,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Spiro J.
+[1] The Minister assessed the Appellant under Part IX of the Excise Tax Act (the “GST Act”) to increase its net tax by:
+a) $9,580.59 for the reporting period ended March 31, 2012;
+b) $10,531.07 for the reporting period ended June 30, 2012;
+c) $9,665.30 for the reporting period ended September 30, 2012; and
+d) $11,235.14 for the reporting period ended December 31, 2012. [1]
+The Minister also assessed gross negligence penalties under section 285 of the GST Act.
+[2] I have allowed the appeal for each of the Appellant’s four reporting periods on the basis that the Appellant succeeded, on a balance of probabilities, in demolishing the assumptions of fact made by the Minister in assessing. The onus was then on the Respondent to adduce evidence, on a balance of probabilities, to support those assumptions. The Respondent failed to do so. In addition, the Respondent failed to adduce sufficient evidence, on a balance of probabilities, to support the Minister’s assessment of gross negligence penalties assessed against the Appellant. [2]
+[3] The Appellant’s shareholders, Mr. Jason Delgado and Mr. Rick Carter testified at trial. I found them credible. The auditor responsible for issuing the assessment at the Canada Revenue Agency (the “CRA”), Ms. Farnoosh Fardi, was called to testify by the Appellant. The Respondent called no witnesses.
+[4] The Appellant sold, installed, and serviced networked telephone systems for businesses, large and small, across Canada. It also sold, installed, and serviced closed-circuit television systems, audio-visual equipment, and paging systems for factories and warehouses. In addition to working with its clients, the Appellant had a wide range of suppliers and vendors with whom it contracted to source, and provide, goods and services for various projects.
+The Minister’s Adjustments to Net Tax
+[5] The Minister adjusted the Appellant’s net tax upward for each of its four reporting periods in 2012 by increasing unremitted GST/HST and decreasing input tax credits.
+A. Increasing Unremitted GST/HST
+[6] The Minister suspected that the Appellant did not remit all of the GST/HST collectible on taxable supplies of goods and services it had made in 2012. The Minister assumed that there were “unreported sales” that year and assessed on that basis to increase the amount of GST/HST the Appellant was required to remit for each of its four reporting periods in 2012. [3]
+[7] Paragraph 6(h) of the Amended Reply reads as follows:
+6. In so assessing the Appellant’s net tax liability for the Period, the Minister relied on the following assumptions of fact:
+***
+h) the Appellant did not maintain sufficient books and records from which its GST/HST collectible for the Period could be accurately determined;
+[8] Mr. Delgado testified that the Appellant had a bookkeeper and an external accountant to prepare and maintain the Appellant’s books and records in 2012 and to make all required filings and returns. The auditor never explained to the Court whether she chose to use an alternative method of assessment and, if so, on what basis she found it necessary to use that alternative method. Alternative methods of assessment, such as a bank deposit analysis, tend to be used when the existing books and records are inadequate to allow for the accurate determination of tax payable.
+[9] Paragraph 6(i) of the Amended Reply reads as follows:
+6. In so assessing the Appellant’s net tax liability for the Period, the Minister relied on the following assumptions of fact:
+***
+i) the Appellant’s bank records and those of its Shareholders indicate unidentified deposits during the Period;
+[10] This is the single most important assumption of fact made by the Minister in assessing additional net tax to the Appellant. The Minister drew the inference that so‑called “unidentified deposits” to (a) the Appellant’s bank account and (b) the shareholders’ bank accounts in 2012 reflected “unreported sales” by the Appellant. The Appellant’s evidence demolished this assumption of fact.
+[11] The Appellant’s agent took Mr. Delgado and Mr. Carter to a number of bank entries the auditor had presumably flagged as “unidentified deposits”. Mr. Delgado and Mr. Carter provided credible explanations for each. For example, the Appellant’s agent referred Mr. Delgado to an account history for 2012 for Mr. Delgado’s bank account. Mr. Delgado identified a deposit of $28,817 as his gross payroll. [4] That record does not indicate unreported sales by the Appellant.
+[12] The Appellant’s agent referred Mr. Delgado to his 2012 bank statements for a transfer of funds from a line of credit that he maintained with a financial institution. Mr. Delgado identified $3,590 as an amount transferred from his line of credit to his bank account. This was a personal borrowing on his personal line of credit. That record does not indicate unreported sales by the Appellant.
+[13] The Appellant’s agent referred Mr. Delgado to deposits to a joint account with his spouse of $100 per month during 2012. Mr. Delgado identified those amounts as universal child tax benefits. This amounted to $1,200 for the year. That record does not indicate unreported sales by the Appellant.
+[14] The Appellant’s agent referred Mr. Delgado to deposits of $335.94, $4,500.80, and $1,096.29 in 2012. Mr. Delgado identified those deposits as reimbursements to his bank account for money spent by him as assistant coach and manager of a minor league hockey team. By way of background, Mr. Delgado’s son played for the Scarborough Ice Raiders in 2012. As manager of the team, Mr. Delgado incurred certain expenses. For example, he rented a skating rink for the team to use during the summer. Mr. Delgado also referred to a cheque of $1,578 deposited to his bank account in 2012. He explained that he received a cheque in that amount made payable to him personally. The cheque should have been made payable to the Scarborough Ice Raiders. He deposited the cheque as it was made payable to him personally but then wrote another cheque in the same amount to the Scarborough Ice Raiders. The amount of $1,578 went in and out of his bank account. Those records do not indicate unreported sales by the Appellant.
+[15] Finally, the Appellant’s agent took Mr. Delgado to an amount of $99,612.41 that the Minister assumed reflected “unreported sales” of the Appellant. According to Mr. Delgado, that amount was a provision in the financial statements for accounts established to have been doubtful as at the end of the Appellant’s 2012 fiscal year. That record does not indicate unreported sales by the Appellant.
+[16] Taken as a whole, the Appellant’s evidence demolished the Minister’s assumptions of fact in paragraph 6(m) and (q):
+6. In so assessing the Appellant’s net tax liability for the Period, the Minister relied on the following assumptions of fact:
+***
+m) during the Period, income from sales of the Appellant was deposited into the Appellant’s business accounts as well as Account #4 (Carter) and Account #5 (Delgado);
+***
+q) the Appellant failed to report sales in the total amount of $198,844.56 during the Period, calculated as follows:
+Total Deposits
+$1,104,854.97
+Less:
+Fees and Refunds
+($3,644.82)
+Shareholders’ T1 income
+($59,380.00)
+Adjustment for Bad Debt
+$99,613.41
+Accounts Receivable:
+Less Opening
+Plus Closing
+($218,697.00)
+$166,197.00
+Reported Sales and tax
+$890,099.00
+Unreported Sales
+$198,844.56
+B. Reducing Input Tax Credits
+[17] The Minister also increased the Appellant’s net tax for each of its four reporting periods in 2012 by reducing input tax credits. The Minister assumed that (a) another operating company called “NorComm Cable Systems Inc.” was the recipient of supplies of certain goods and services in 2012 rather than the Appellant and that (b) the Appellant’s shareholders arranged its affairs so that the Appellant would claim input tax credits in respect of their own personal expenditures for that year.
+[18] Why did payors sometimes refer to the Appellant on their payment documents as “NorComm Cable Systems Inc.”? Mr. Carter explained that he had established a sole proprietorship in 1998 under the name “NorComm Cable Systems” which he incorporated as “NorComm Cable Systems Inc.” when Mr. Delgado joined him in the business in 2000. Although Mr. Carter continues to be a shareholder of NorComm Cable Systems Inc., along with Mr. Delgado and another individual, NorComm Cable Systems Inc. ceased carrying on business in 2010. The Appellant was incorporated in 2010 and used “NorComm” as its trade name as the Appellant had taken over the business formerly carried on by NorComm Cable Systems Inc. Simply put, people knew the Appellant’s business as “NorComm”.
+[19] Mr. Delgado testified that in 2012 some of the Appellant’s clients, suppliers, and vendors referred to the Appellant as “NorComm Cable Systems Inc.”. When the Appellant took over the business of NorComm Cable Systems Inc., it sent letters to clients, suppliers, and vendors asking them to use the Appellant’s name on payment documents. Notwithstanding that request, certain payment documents received by the Appellant continued to reflect the name “NorComm Cable Systems Inc.” or simply “NorComm” even after the transition. The Appellant tried to register its trade name several times. It finally succeeded years later after retaining a consultant to secure the registration.
+[20] In disallowing input tax credits claimed by the Appellant in computing net tax for each of the four reporting periods in 2012, the Minister made the following assumptions of fact:
+6. In so assessing the Appellant’s net tax liability for the Period, the Minister relied on the following assumptions of fact:
+***
+s) the Appellant claimed ITCs on its GST/HST returns for the Period in respect of supplies made to other recipients and not the Appellant, as set out in Schedule “A”, including Norcomm Cable Systems Inc., Buy Direct Telecom Inc. and the Shareholders;
+t) the Appellant claimed ITCs on its GST/HST returns for the Period in respect of personal expenditures of the Shareholders which were not used in the course of the commercial activities of the Appellant, as set out in Schedule “B”;
+u) the Appellant claimed ITCs in respect of the personal credit cards of the Shareholders, which were used to pay the personal expenses of the Shareholders;
+v) the Appellant claimed ITCs in respect of invoices from Car Quarters Inc. which was for the maintenance on a Porsche;
+w) the Appellant did not pay tax on invoices from Intact Insurance Co. in the amount of $214.18;
+[21] The Appellant’s evidence demolished the assumption of fact pleaded in paragraph 6(s) of the Amended Reply. The Court heard evidence that the input tax credits claimed by the Appellant for its four reporting periods in 2012 were in respect of supplies of goods or services made to it, not to NorComm Cable Systems Inc. There can be no suggestion that the Appellant and NorComm Cable Systems Inc. conspired to defraud the government by claiming the same input tax credits twice.
+[22] The Appellant’s evidence demolished the assumptions of fact pleaded in paragraph 6(t) and 6(u) of the Amended Reply. After hearing the evidence of the shareholders and the auditor, nothing suggests that the Appellant claimed input tax credits in respect of any of the shareholders’ personal expenses. On the contrary, I find that the evidence of expenses placed before the Court reflect expenses that were incurred by the Appellant in the course of its commercial activities. For example, Mr. Delgado testified that the Appellant had used a pre-owned 2006 Porsche Cayenne SUV in its business in 2012. The Appellant thereby demolished the assumption of fact pleaded in paragraph 6(v) of the Amended Reply.
+[23] Finally, the Respondent failed to link insurance invoices referred to in paragraph 6(w) of the Amended Reply to input tax credits claimed by the Appellant and disallowed by the Minister. The Court does not know whether the Appellant claimed input tax credits in respect of such invoices for any of the four reporting periods at issue or whether the Minister disallowed any such claim in computing input tax credits for any of those four reporting periods.
+The Auditor’s Evidence
+[24] It was the Appellant, not the Respondent, who called the CRA auditor as a witness. Regardless of which party called the auditor, she did not bring an audit report with her. She did not bring working papers with her. She did not bring spreadsheets with her. She did not refer to Schedule “A” or Schedule “B” attached to the Amended Reply. [5] Her evidence left the Court in the dark about:
+(a) what particular (rather than total) amounts she included as unreported sales for each reporting period and on what basis; and
+(b) what particular (rather than total) amounts she disallowed as input tax credits for each reporting period and on what basis.
+[25] The Court did have the table at paragraph 3 of the Amended Reply which set out the “Adjustments to Net Tax” made by the Minister which, the Court presumes, reflects the auditor’s conclusions:
+Period Ending
+Unreported Sales
+Unreported GST/HST
+Adjustments to ITCs
+Adjustments to Net Tax
+March 31, 2012
+$49,711.14
+$6,462.45
+($3,118.14)
+$9,580.59
+June 30, 2012
+$49,711.14
+$6,462.45
+($4,068.62)
+$10,531.07
+September 30, 2012
+$49,711.14
+$6,462.45
+($3,202.85)
+$9,665.30
+December 31, 2012
+$49,711.14
+$6,462.45
+($4,772.69)
+$11,235.14
+TOTALS
+$198,844.56
+$25,849.80
+($15,162.30)
+$41,012.10
+[26] On a similar note, paragraph 6(q) of the Amended Reply simply reflects an arithmetic calculation of how the auditor arrived at a total of $198,844.56 in “unreported sales” for all four reporting periods together. Once the Appellant adduced evidence sufficient to demolish those assumptions of fact on a balance of probabilities, the onus was on the Respondent to adduce evidence to support the assumptions of fact made by the Minister in assessing. The Respondent failed to do so.
+[27] A number of fundamental question remain unanswered with respect to the input tax credits disallowed by the Minister. Why did the Minister disallow $3,118.14 in computing input tax credits for the reporting period ended March 31, 2012? Why did the Minister disallow $4,068.62 in computing input tax credits for the reporting period ended June 30, 2012? Why did the Minister disallow $3,202.85 in computing input tax credits for the reporting period ended September 30, 2012? Why did the Minister disallow $4,772.69 in computing input tax credits for the reporting period ended December 31, 2012? The Court has no idea how the auditor arrived at those totals and, in particular, which amounts she chose to include or exclude in assessing the Appellant’s input tax credits and why.
+Penalties
+[28] The Minister assessed penalties against the Appellant under section 285 of the GST Act. The Respondent failed to demonstrate on a balance of probabilities that the Appellant knowingly, or under circumstances amounting to gross negligence, made or participated in, assented to or acquiesced in the making of a false statement or omission in a return made in respect of any of the four reporting periods at issue.
+Afterword
+[29] Although the Appellant’s agent did not raise the issue, the Amended Reply suggests that all four reporting periods of the Appellant were assessed as a single “Period” defined as “the period January 1, 2012, to December 31, 2012”. For example, the paragraph in which the Respondent pleads each assumption of fact made by the Minister in assessing is preceded by this overarching statement:
+In so assessing the Appellant’s net tax liability for the Period, the Minister relied on the following assumptions of fact:
+[emphasis added]
+[30] The Appellant was a registrant required to file GST/HST returns on a quarterly basis. [6] Under paragraph 296(1)(a) of the GST Act, the Minister is only authorized to assess the net tax of a person “for a reporting period of the person”. For a registrant required to file GST/HST returns on a quarterly basis, may the Minister assess net tax liability for an entire calendar year? The answer is no. When assessing a person, the Minister must allocate GST collectible and input tax credits to the correct reporting periods. In Club Intrawest v The Queen, 2016 TCC 149, Justice D’Arcy reminds us of the relevant statutory scheme:
+[326] The net tax of a person for a specific reporting period is determined under subsection 225(1). Generally speaking, that determination is made as follows:
+GST that became collectable during the reporting period
++ GST that was collected during the reporting period
+- input tax credits claimed in the GST return filed by the person
+[327] There is no provision in the GST Act that specifically states when the tax becomes collectable. However, subsection 221(1) provides that every person who makes a taxable supply shall collect the tax payable by the recipient in respect of the supply. Accordingly, it would appear that GST becomes collectable by a registrant at the time it becomes payable by the recipient of the supply. . . .
+[328] Subsections 168(1) and (2) of the GST Act contain the general rules for determining when GST in respect of a taxable supply becomes payable. Subsection 168(1) provides that the tax becomes payable on the earlier of the day the consideration for the supply is paid and the day it becomes due. Subsection 168(2) provides that if the consideration is paid or becomes due on more than one day, the tax becomes payable on a part of the consideration on the earlier of the day that that part is paid and the day that it becomes due.
+[329] Section 152 of the GST Act provides that the consideration for a taxable supply is deemed to be due on the earliest of the following three dates:
+- The earlier of the day an invoice is issued in respect of the supply for that consideration or part and the date of the invoice,
+- The day the invoice would have been issued but for undue delay, and
+- The day the recipient is required to pay that consideration or part to the supplier pursuant to an agreement in writing.
+***
+[336] . . . instead of following sections 168 and 152, the Canada Revenue Agency used their own method to determine the Appellant’s net tax for its October reporting periods, a method that is not consistent with the definition of net tax in subsection 225(1) and does not comply with the provisions of sections 168 and 152.
+***
+[340] The Canada Revenue Agency, when assessing a GST registrant, must follow the provisions of the GST Act. It cannot use its own administrative methods simply because they facilitate the assessing process.
+[emphasis added]
+[31] As Justice D’Arcy points out at paragraph 339 of his reasons, an assessment of net tax on an annual basis for a registrant such as the Appellant would also raise issues with respect to other provisions. For example, it would be inconsistent with the rules in subsection 225(4) of the GST Act providing a two‑year or four‑year limitation period for the claiming of input tax credits, the rules in section 298 that provide for a four-year limit for assessment, and the provisions that provide for the calculation of interest and penalties on unremitted net tax.
+Disposition
+[32] The appeals for the Appellant’s reporting periods ended March 31, 2012, June 30, 2012, September 30, 2012, and December 31, 2012 will be allowed with costs and the assessment under Part IX of the Excise Tax Act for each reporting period referred back to the Minister of National Revenue for reconsideration and reassessment on the basis that net tax will be reduced by:
+a) $9,580.59 for the reporting period ended March 31, 2012;
+b) $10,531.07 for the reporting period ended June 30, 2012;
+c) $9,665.30 for the reporting period ended September 30, 2012; and
+d) $11,235.14 for the reporting period ended December 31, 2012.
+Penalties assessed under section 285 of the GST Act will be deleted as well.
+Signed at Ottawa, Canada, this 4th day of November 2022.
+“David E. Spiro”
+Spiro J.
+CITATION:
+2022 TCC 133
+COURT FILE NO.:
+2018-3114(GST)I
+STYLE OF CAUSE:
+2227414 ONTARIO INC. AND
+HIS MAJESTY THE KING
+PLACE OF HEARING:
+Toronto, Ontario
+DATE OF HEARING:
+September 20 and 21, 2022
+REASONS FOR JUDGMENT BY:
+The Honourable Justice David E. Spiro
+DATE OF JUDGMENT:
+November 4, 2022
+APPEARANCES:
+Agent for the Appellant:
+Tania D'Souza
+Counsel for the Respondent:
+William Switzer
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Tania D'Souza
+Firm:
+For the Respondent:
+François Daigle
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Amended Reply, paragraph 3. The amount reported by the Appellant as net tax on its quarterly return for each of those four reporting periods is at paragraph 2 of the Amended Reply. Those amounts were $6,593.31, $16,540.65, $9,131.62, and $6,471.06, respectively.
+[2] In paragraph 7 of the Amended Reply, the Respondent improperly pleaded that the allegations in support of the Minister’s assessment of gross negligence penalties were assumptions of fact, suggesting that the burden rested on the Appellant to demolish them. Such a pleading is contrary to subsection 285(16) of the GST Act which provides that where a section 285 penalty is in issue, the burden of establishing the facts justifying the assessment of the penalty is on the Minister.
+[3] The Minister increased unremitted GST/HST by an equal amount for each period. See the second and third columns of the table at paragraph 25 of these reasons.
+[4] That is the same amount as total income reported for 2012 by Mr. Delgado. See paragraph 6(o) of the Amended Reply.
+[5] At the commencement of the hearing, I granted leave for the Respondent to file the Amended Reply. The Amended Reply added Schedules “A” and “B” which were not previously included in the Reply. Schedule “A” is part of paragraph 6(s) and Schedule “B” is part of paragraph 6(t) of the Amended Reply in which the Respondent pleads assumptions of fact made by the Minister in disallowing input tax credits. They are just that — assumptions — not evidence. Once the Appellant adduced evidence sufficient to demolish those assumptions on a balance of probabilities, the onus was on the Respondent to adduce evidence to support them. The Respondent failed to do so.
+[6] Amended Reply, paragraph 6(b).

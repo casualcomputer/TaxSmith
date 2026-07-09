@@ -1,0 +1,200 @@
+---
+title: "Pekofsky c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/71817/index.do"
+last_modified: "2014-06-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2014 CCI 183"
+citation2: ""
+neutral_citation: "2014 CCI 183"
+decision_date: "2014-06-03"
+language: "fr"
+item_id: "71817"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5388
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T15:54:51.873000+00:00"
+cases_cited_count: 4
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "a57031cc1c52bbf2fb85f5f4a7ec18db1a185ca15772a558aa0c8cdecebd2439"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Pekofsky c. La Reine
+
+- Citation: 2014 CCI 183
+- Decision date: 2014-06-03
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5388, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Pekofsky c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2014-06-03
+Référence neutre
+2014 CCI 183
+Numéro de dossier
+2013-421(IT)I
+Juges et Officiers taxateurs
+Lucie Lamarre
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2013-421(IT)I
+ENTRE :
+Carrie Pekofsky,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Appel entendu le 28 avril 2014, à Montréal (Québec).
+Devant : L’honorable juge Lucie Lamarre
+Comparutions :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Gabriel Girouard
+JUGEMENT
+L’appel interjeté en vertu de la Loi de l’impôt sur le revenu (la « LIR ») est accueilli et la détermination datée du 12 mars 2012 est renvoyée au ministre du Revenu national pour nouvelle détermination, étant entendu que l’appelante a droit au crédit d’impôt pour déficience mentale ou physique à l’égard de sa fille, conformément aux articles 118.3 et 118.4 de la LIR, pour les années d’imposition 2009, 2010, 2011 et 2012.
+Signé à Ottawa, Canada, ce 3e jour de juin 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 3e jour de juillet 2014.
+M.-C. Gervais
+Référence : 2014 CCI 183
+Date : 20140603
+Dossier : 2013-421(IT)I
+ENTRE :
+CARRIE Pekofsky,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Lamarre
+[1] L’appelante interjette appel d’une détermination par laquelle le ministre du Revenu national (le « ministre ») a refusé le montant du crédit d’impôt pour personnes handicapées transféré d’un particulier qu’elle avait demandé, conformément aux articles 118.3 et 118.4 de la Loi de l’impôt sur le revenu (la « LIR »), à l’égard de sa fille pour les années d’imposition 2010, 2011 et 2012[1].
+[2] La fille de l’appelante est née en mars 1997. Il a été diagnostiqué qu’elle souffre du syndrome de Gilles de La Tourette et elle est dyslexique. Bien qu’elle soit capable d’accomplir des activités de la vie courante comme se laver, manger et se vêtir, elle a, selon son propre témoignage et celui de l’appelante, de sérieux problèmes sur le plan de la mémoire à court terme et aussi sur celui de l’atteinte d’objectifs et du jugement (ses capacités de raisonnement et de prise de décision sont plus lentes que celles de ses pairs). La fille a déclaré qu’elle est constamment isolée à l’école afin de pouvoir rattraper son retard par rapport à ce que les autres apprennent pendant les heures de cours ordinaires. À la maison, sa mère doit constamment lui rappeler ce qu’elle a à faire au cours de la journée (comme prendre régulièrement ses cachets).
+[3] Le ministre a refusé le crédit parce qu’il n’était pas convaincu que la fille avait plus que des problèmes scolaires, ce qui, d’après la jurisprudence, ne constitue pas une déficience donnant droit au crédit.
+[4] L’appelante a déposé le rapport qu’un psychologue a établi après que sa fille a terminé ses études primaires; il a diagnostiqué un trouble de l’apprentissage sur le plan de la compréhension de lecture et a recommandé qu’elle continue de suivre des cours particuliers à l’école secondaire (rapport de M. Yaniv Elharrar, pièce A‑1). Durant ses études primaires, elle a suivi tout le programme Davis de correction de la dyslexie qu’offre Dyslexiability Inc. (pièce A‑8).
+[5] M. Elharrar a rempli le formulaire de demande de supplément pour enfant handicapé de la Régie des rentes du Québec, en précisant que l’on avait diagnostiqué chez la fille de l’appelante un trouble de l’apprentissage le 25 juin 2009 (pièce A‑2).
+[6] Le 18 mars 2011, M. Elharrar a rempli un certificat pour le crédit d’impôt pour personnes handicapées (pièces R‑1 et A‑3). Même s’il a précisé que la fille de l’appelante n’était pas limitée de façon marquée sur le plan de l’accomplissement des fonctions mentales nécessaires aux activités de la vie courante, il a également noté qu’elle souffre depuis 2009 de déficiences sur le plan de l’élocution et des fonctions mentales, dont l’effet cumulatif équivaut à une limitation marquée de la capacité d’accomplir une activité courante de la vie quotidienne. Les fonctions mentales mentionnées sont les suivantes : apprentissage fonctionnel à l’indépendance, mémoire, résolution de problèmes, atteinte d’objectifs et jugement.
+[7] Dans ce même certificat, M. Elharrar a expliqué que la fille de l’appelante souffre d’un trouble neurologique causé par le syndrome de Gilles de La Tourette, assorti d’un trouble de l’apprentissage concomitant.
+[8] En mai 2013, la fille de l’appelante a été vue par une autre psychologue, Mme Elsa Lo, qui a confirmé le diagnostic du syndrome de Gilles de La Tourette, assorti de troubles de l’attention concomitants (pièce A‑4). Mme Lo a rempli un certificat pour le crédit d’impôt pour personnes handicapées dans lequel elle a signalé que sa patiente était toujours ou presque toujours limitée de façon marquée dans sa capacité d’accomplir les fonctions mentales nécessaires aux activités de la vie courante, et elle a ajouté que cette situation existe vraisemblablement depuis la naissance de l’enfant en 1997 (pièce A‑5).
+[9] Mme Lo a expliqué que la fille de l’appelante souffre du syndrome de Gilles de La Tourette, assorti d’un trouble déficitaire de l’attention avec hyperactivité concomitant, ce qui donne lieu à une déficience marquée de la mémoire (sur le plan tant verbal que spatio-visuel) ainsi qu’à des problèmes de fonctions exécutives qui se répercutent sur la capacité de planification et d’autosurveillance.
+[10] Mme Lo a répondu « non » à la question de savoir si la déficience s’est améliorée au point où la patiente ne serait plus limitée de façon marquée.
+Les dispositions législatives applicables [11] Les dispositions pertinentes des articles 118.3 et 118.4 de la LIR sont annexées aux présents motifs.
+L’analyse [12] L’objet des articles 118.3 et 118.4 de la LIR a été analysé dans l’arrêt Johnston c. Canada, [1998] CarswellNat 169, [1998] A.C.F no 169 (QL), où la Cour d’appel fédérale a écrit ce qui suit :
+10 L’objectif des articles 118.3 et 118.4 ne vise pas à indemniser la personne atteinte d’une déficience mentale ou physique grave et prolongée, mais plutôt à l’aider à défrayer les coûts supplémentaires liés au fait de devoir vivre et travailler malgré une telle déficience. Comme le juge Bowman le dit dans l’arrêt Radage v. R., à la p. 2528 :
+L’intention du législateur semble être d’accorder un modeste allégement fiscal à ceux et celles qui entrent dans une catégorie relativement restreinte de personnes limitées de façon marquée par une déficience mentale ou physique. L’intention n’est pas d’accorder le crédit à quiconque a une déficience ni de dresser un obstacle impossible à surmonter pour presque toutes les personnes handicapées. On reconnaît manifestement que certaines personnes ayant une déficience ont besoin d’un tel allégement fiscal, et l’intention est que cette disposition profite à de telles personnes.
+Le juge poursuit à la p. 2529 en faisant la remarque suivante, à laquelle je souscris :
+Pour donner effet à l’intention du législateur, qui est d’accorder à des personnes déficientes un certain allégement qui atténuera jusqu’à un certain point les difficultés accrues avec lesquelles leur déficience les oblige à composer, la disposition doit recevoir une interprétation humaine et compatissante.
+11 En effet, même si elles ne s’appliquent qu’aux personnes gravement limitées par une déficience, ces dispositions ne doivent pas recevoir une interprétation trop restrictive qui nuirait à l’intention du législateur, voire irait à l’encontre de celle-ci.
+[13] Il est évident que, dans le cas présent, la fille de l’appelante souffre d’une déficience grave et prolongée des fonctions mentales. L’autre condition à remplir pour avoir droit au crédit est que la déficience des fonctions mentales doit être telle que la capacité de la fille d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée, et ce fait doit être attesté par un médecin en titre sur le formulaire prescrit.
+[14] Les fonctions mentales nécessaires aux activités de la vie courante sont définies à l’alinéa 118.4(1)c.1) de la LIR; il s’agit de la mémoire, de la résolution de problèmes, de l’atteinte d’objectifs et du jugement, de même que de l’apprentissage fonctionnel de l’indépendance. De plus, le patient doit être, toujours ou presque toujours, incapable d’accomplir ces fonctions mentales sans y consacrer un temps excessif.
+[15] Dans l’arrêt Canada (Procureur général) c. Buchanan, 2002 CAF 231, 2002 CarswellNat 1204, [2002] 3 C.T.C. 301, 2002 DTC 7397, il est précisé au paragraphe 18 que « [l]a Cour de l’impôt examinera l’affaire en se fondant sur la preuve qui lui est soumise, et ce, même si le ministre n’avait pas cette preuve à sa disposition lorsqu’il a établi la cotisation. »
+[16] Selon le rapport de M. Elharrar, la fille de l’appelante souffre d’importantes limitations qui ont pour effet cumulatif de limiter de façon marquée sa capacité d’accomplir une activité courante de la vie quotidienne. Dans son rapport, Mme Lo mentionne que sa patiente est, toujours ou presque toujours, limitée de façon marquée dans sa capacité d’accomplir les fonctions mentales nécessaires aux activités de la vie courante.
+[17] Je suis donc convaincue que, lus conjointement, les certificats que ces deux psychologues différents ont remplis étayent la conclusion que la fille de l’appelante est limitée de façon marquée dans sa capacité d’accomplir une activité courante de la vie quotidienne. L’intimée ne s’est pas opposée au dépôt de ces certificats et ne l’a pas contesté non plus.
+[18] Il a toutefois été établi dans la jurisprudence que le dépôt de formulaires dûment remplis par des médecins en titre n’est pas déterminant. Il faut également que la Cour soit convaincue que les exigences juridiques sont bel et bien remplies (Walkowiak c. La Reine, 2012 CCI 453, 2012 CarswellNat 5006, [2013] 2 C.T.C. 2087, 2013 DTC 1036).
+[19] J’ai eu le privilège de voir et d’entendre la mère et la fille devant le tribunal.
+[20] Bien que n’étant pas moi-même psychologue, j’ai pu entrevoir l’exactitude des conclusions que les psychologues ont tirées. Selon ce que j’ai compris, la fille a de la difficulté à accomplir non seulement à ses activités d’apprentissage à l’école, mais aussi ses activités de la vie courante, en raison de ses troubles de mémoire à court terme et de son dysfonctionnement quant à la capacité de faire preuve de jugement. La mère a expliqué, notamment, qu’elle a constamment besoin de superviser sa fille et que, pour cette dernière, tout prend plus de temps à accomplir que dans le cas des autres enfants de son âge.
+[21] Je suis donc disposée à admettre que les exigences juridiques concernant le crédit d’impôt pour personnes handicapées (la déficience étant, en l’espèce, la déficience des fonctions mentales nécessaires aux activités de la vie courante) sont remplies.
+[22] Une question a été soulevée devant la Cour à propos des années pour lesquelles il faudrait accorder le crédit. L’appelante demande que ce soit pour l’année 2009 et les années suivantes.
+[23] Il est mentionné dans la réponse à l’avis d’appel que l’intimée a refusé le crédit pour les années 2010, 2011 et 2012. Ni le formulaire T2201 ni la détermination portée en appel n’ont été déposés en preuve. Comme il a été mentionné plus tôt, l’avis d’appel ne mentionne aucune année particulière. L’un des certificats médicaux remplis précise que la déficience a été diagnostiquée en 2009. Selon le certificat de Mme Lo, la déficience existe depuis la naissance de la fille.
+[24] L’alinéa 118.3(1)b) de la LIR exige que le particulier qui demande le crédit ait présenté au ministre le certificat médical qui s’applique à l’année d’imposition pertinente. À mon avis, les certificats déposés en preuve couvrent l’année d’imposition 2009 et les années suivantes.
+[25] Je suis donc d’avis d’accueillir l’appel et de renvoyer la détermination au ministre pour nouvelle détermination, étant entendu que l’appelante a droit au crédit d’impôt pour déficience mentale ou physique à l’égard de sa fille, conformément aux articles 118.3 et 118.4 de la LIR, pour les années d’imposition 2009, 2010, 2011 et 2012.
+Signé à Ottawa, Canada, ce 3e jour de juin 2014.
+« Lucie Lamarre »
+Juge Lamarre
+Traduction certifiée conforme
+ce 3e jour de juillet 2014.
+M.-C. Gervais
+Loi de l’impôt sur le revenu
+118.3 (1) Crédit d’impôt pour déficience mentale ou physique — Un montant est déductible dans le calcul de l’impôt payable par un particulier en vertu de la présente partie pour une année d’imposition, si les conditions suivantes sont réunies :
+a) le particulier a une ou plusieurs déficiences graves et prolongées des fonctions physiques ou mentales;
+a.1) les effets de la ou des déficiences sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante si les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne, ou sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence de soins thérapeutiques qui, à la fois :
+(i) sont essentiels au maintien d’une fonction vitale du particulier,
+(ii) doivent être administrés au moins trois fois par semaine pendant une durée totale moyenne d’au moins 14 heures par semaine,
+(iii) selon ce à quoi il est raisonnable de s’attendre, n’ont pas d’effet bénéfique sur des personnes n’ayant pas une telle déficience;
+a.2) s’il s’agit d’une déficience des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir une seule activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence des soins thérapeutiques mentionnés à l’alinéa a.1), un médecin en titre — ou, dans chacun des cas ci-après, la personne mentionnée en regard du cas — atteste, sur le formulaire prescrit, qu’il s’agit d’une déficience grave et prolongée des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée ou le serait en l’absence de ces soins :
+(i) s’il s’agit d’une déficience visuelle, un optométriste,
+(ii) s’il s’agit d’un trouble de la parole, un orthophoniste,
+(iii) s’il s’agit d’une déficience auditive, un audiologiste,
+(iv) s’il s’agit d’une déficience quant à la capacité de s’alimenter ou de s’habiller, un ergothérapeute,
+(v) s’il s’agit d’une déficience quant à la capacité de marcher, un ergothérapeute ou, après le 22 février 2005, un physiothérapeute,
+(vi) s’il s’agit d’une déficience des fonctions mentales nécessaires aux activités de la vie courante, un psychologue;
+a.3) s’il s’agit d’une ou de plusieurs déficiences des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante, l’une des personnes ci-après atteste, sur le formulaire prescrit, que la ou les déficiences sont des déficiences graves et prolongées des fonctions physiques ou mentales dont les effets sont tels que la capacité du particulier d’accomplir plus d’une activité courante de la vie quotidienne est limitée de façon importante et que les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une seule activité courante de la vie quotidienne :
+(i) s’il s’agit d’une déficience quant à la capacité de marcher, de s’alimenter ou de s’habiller, un médecin en titre ou un ergothérapeute,
+(ii) s’il s’agit d’une autre déficience, un médecin en titre;
+b) le particulier présente au ministre l’attestation visée aux alinéas a.2) ou a.3) pour une année d’imposition;
+c) aucun montant représentant soit une rémunération versée à un préposé aux soins du particulier, soit des frais de séjour du particulier dans une maison de santé ou de repos, n’est inclus par le particulier ou par une autre personne dans le calcul d’une déduction en application de l’article 118.2 pour l’année (autrement que par application de l’alinéa 118.2(2)b.1)).
+Le montant déductible est déterminé selon la formule suivante : […]
+118.4 (1) Déficience grave et prolongée — Pour l’application du paragraphe 6(16), des articles 118.2 et 118.3 et du présent paragraphe :
+a) une déficience est prolongée si elle dure au moins 12 mois d’affilée ou s’il est raisonnable de s’attendre à ce qu’elle dure au moins 12 mois d’affilée;
+b) la capacité d’un particulier d’accomplir une activité courante de la vie quotidienne est limitée de façon marquée seulement si, même avec des soins thérapeutiques et l’aide des appareils et des médicaments indiqués, il est toujours ou presque toujours aveugle ou incapable d’accomplir une activité courante de la vie quotidienne sans y consacrer un temps excessif;
+b.1) un particulier n’est considéré comme ayant une limitation équivalant au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne que si sa capacité d’accomplir plus d’une activité courante de la vie quotidienne (y compris, à cette fin, la capacité de voir) est toujours ou presque toujours limitée de façon importante malgré le fait qu’il reçoit des soins thérapeutiques et fait usage des instruments et médicaments indiqués, et que si les effets cumulatifs de ces limitations sont équivalents au fait d’être limité de façon marquée dans la capacité d’accomplir une activité courante de la vie quotidienne;
+c) sont des activités courantes de la vie quotidienne pour un particulier :
+(i) les fonctions mentales nécessaires aux activités de la vie courante,
+(ii) le fait de s’alimenter ou de s’habiller,
+(iii) le fait de parler de façon à se faire comprendre, dans un endroit calme, par une personne de sa connaissance,
+(iv) le fait d’entendre de façon à comprendre, dans un endroit calme, une personne de sa connaissance,
+(v) les fonctions d’évacuation intestinale ou vésicale,
+(vi) le fait de marcher;
+c.1) sont compris parmi les fonctions mentales nécessaires aux activités de la vie courante :
+(i) la mémoire,
+(ii) la résolution de problèmes, l’atteinte d’objectifs et le jugement (considérés dans leur ensemble),
+(iii) l’apprentissage fonctionnel à l’indépendance;
+d) il est entendu qu’aucune autre activité, y compris le travail, les travaux ménagers et les activités sociales ou récréatives, n’est considérée comme une activité courante de la vie quotidienne;
+e) le fait de s’alimenter ne comprend pas :
+(i) les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des aliments,
+(ii) l’activité qui consiste à préparer des aliments, dans la mesure où le temps associé à cette activité n’y aurait pas été consacré en l’absence d’une restriction ou d’un régime alimentaire;
+f) le fait de s’habiller ne comprend pas les activités qui consistent à identifier, à rechercher, à acheter ou à se procurer autrement des vêtements.
+RÉFÉRENCE :
+2014 CCI 183
+No DE DOSSIER DE LA COUR :
+2013-421(IT)I
+INTITULÉ :
+CARRIE Pekofsky c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Montréal (Québec)
+DATE DE L’AUDIENCE :
+Le 28 avril 2014
+MOTIFS DU JUGEMENT :
+L’honorable juge Lucie Lamarre
+DATE DU JUGEMENT
+Le 3 juin 2014
+COMPARUTIONS :
+Pour l’appelante :
+L’appelante elle-même
+Avocat de l’intimée :
+Me Gabriel Girouard
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée :
+William F. Pentney
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] Devant la Cour, l’appelante a dit qu’elle avait aussi demandé le crédit pour l’année d’imposition 2009. Les années en cause n’étaient pas mentionnées dans son avis d’appel, et l’avocat de l’intimée n’a pas expliqué non plus pourquoi la détermination ne faisait pas référence à l’année 2009. L’intimée a déclaré, au paragraphe 2 de la réponse à l’avis d’appel, que [traduction] « [l]’appelante a déposé le formulaire T‑2201 – Certificat pour le crédit d’impôt pour personnes handicapées (ci-après, le « formulaire T2201 ») le 23 janvier 2012 pour les années d’imposition 2010, 2011 et 2012 ». Ce formulaire n’a toutefois pas été déposé en preuve

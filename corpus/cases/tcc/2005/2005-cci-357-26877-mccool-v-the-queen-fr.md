@@ -1,0 +1,126 @@
+---
+title: "McCool v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/26877/index.do"
+last_modified: "2005-05-20"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2005 CCI 357"
+citation2: ""
+neutral_citation: "2005 CCI 357"
+decision_date: "2005-05-20"
+language: "fr"
+item_id: "26877"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 749
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T22:53:11.961000+00:00"
+cases_cited_count: 0
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "8802143b1ccd9bd59f314b2c3edb6118c1f4315b06f267fdf140f2efd48fdf96"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# McCool v. The Queen
+
+- Citation: 2005 CCI 357
+- Decision date: 2005-05-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 749, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+McCool v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2005-05-20
+Référence neutre
+2005 CCI 357
+Numéro de dossier
+2004-659(GST)I
+Juges et Officiers taxateurs
+Michael J. Bonner
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2004-659(GST)I
+ENTRE :
+PATRICK McCOOL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Appel entendu le 28 janvier 2005 à Toronto (Ontario)
+Devant : l'honorable juge Michael J. Bonner
+Comparutions :
+Pour l'appelant :
+L'appelant lui-même
+Avocat de l'intimée :
+Me Craig Maw
+____________________________________________________________________
+JUGEMENT
+L'appel est rejeté.
+Signé à Toronto, Ontario, ce 20e jour de mai 2005.
+Michael J. Bonner
+Le juge Bonner
+Traduction certifiée conforme
+ce 2e jour de novembre 2005.
+Joanne Robert, traductrice
+Référence : 2005CCI357
+Date : 20050520
+Dossier : 2004-659(GST)I
+ENTRE :
+PATRICK McCOOL,
+appelant,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+Le juge Bonner
+[1] Il s'agit d'un appel d'une cotisation établie en vertu de la partie IX de la Loi sur la taxe d'accise (la Loi) pour la période de déclaration se terminant le 31 décembre 1997. Dans la cotisation en question, le ministre du Revenu national (le ministre) a refusé une partie d'une déduction demandée aux termes du paragraphe 231(1) de la Loi à l'égard des comptes débiteurs de 1995 de l'appelant se rapportant à la pratique du droit.
+[2] L'article 231 permet une déduction dans le calcul de la taxe nette payable relativement aux créances irrécouvrables radiées par le contribuable. Le montant de la déduction équivaut, en fait, à la partie de la créance établie comme étant irrécouvrable qui correspond à la taxe. Les paragraphes 231(1) et (3) sont libellés comme suit :
+(1) Créances irrécouvrables - La personne qui effectue une fourniture taxable, sauf une fourniture détaxée, pour une contrepartie au profit d'un acquéreur avec lequel elle n'a aucun lien de dépendance peut, dans la mesure où il est établi que tout ou partie de la contrepartie et de la taxe payable relativement à la fourniture est devenu une créance irrécouvrable, déduire, dans le calcul de la taxe nette pour sa période de déclaration où elle radie la créance de ses livres comptables ou pour une période de déclaration postérieure, le résultat du calcul suivant, à condition qu'elle indique la taxe percevable relativement à la fourniture dans la déclaration qu'elle produit aux termes de la présente section pour la période de déclaration au cours de laquelle la taxe est devenue percevable et verse la totalité de la taxe nette qui est à verser selon cette déclaration :
+B
+A x C
+où :
+A représente la taxe payable relativement à la fourniture;
+B le total de la contrepartie, de la taxe et d'un montant qu'il est raisonnable d'attribuer à une taxe imposée en vertu d'une loi provinciale qui constitue une taxe visée par règlement pour l'application de l'article 154 (appelée « taxe provinciale applicable » au présent article), qui demeure impayé relativement à la fourniture et qui a été radié à titre de créance irrécouvrable;
+C le total de la contrepartie, de la taxe et de la taxe provinciale applicable payables relativement à la fourniture.
+(3) Recouvrement - La personne qui recouvre tout ou partie d'une créance irrécouvrable pour laquelle elle a déduit un montant en application du paragraphe (1) est tenue d'ajouter, dans le calcul de la taxe nette pour sa période de déclaration au cours de laquelle la somme est recouvrée, le montant obtenu par la formule suivante :
+B
+A x C
+où :
+A représente la somme recouvrée par la personne;
+B la taxe payable relativement à la fourniture à laquelle la créance se rapporte;
+C le total de la contrepartie, de la taxe et de la taxe provinciale applicable payables relativement à la fourniture.
+[3] Le paragraphe (1) impose donc deux conditions devant être remplies par le contribuable qui demande une déduction. D'abord, il doit être établi que tout ou partie de la contrepartie et de la taxe payable relativement à la fourniture est devenu une créance irrécouvrable. Ensuite, la déduction doit avoir été faite dans les livres comptables du contribuable pour la période de déclaration ou une période postérieure. La deuxième condition est celle qui nous intéresse ici.
+[4] Lors de l'audience de l'appel, des témoignages ont été donnés par l'appelant et par Maureen Pappin, une conseillère fiscale qui a aidé l'appelant. Les témoignages étaient quelque peu confus et insuffisants, non pas parce que l'un ou l'autre des témoins ne disait pas la vérité, mais plutôt parce que Mme Pappin mêlait plaidoirie et témoignage. De plus, une grande partie de son témoignage consistait en ouï-dire fondés sur des renseignements reçus de l'appelant. Heureusement, l'appelant a témoigné après Mme Pappin et a donc pu être contre-interrogé sur les renseignements qu'il avait fournis à Mme Pappin.
+[5] L'appelant est un avocat exerçant dans le domaine du droit pénal. La majorité des honoraires qu'il gagne sont payés par le Régime d'aide juridique de l'Ontario. Selon l'appelant, en 1995, le système d'aide juridique faisait l'objet de changements et les avocats étaient encouragés à présenter leurs comptes aussi rapidement que possible. Les comptes étaient soumis à un examen et à une réduction par les cadres du Régime. Il y a eu de longs retards de paiement. Ainsi, en 2002, l'appelant a examiné ses comptes débiteurs impayés pour 1995 et a constaté que, du total de 175 comptes débiteurs, 142 étaient des comptes payables par le Régime d'aide juridique.
+[6] À mon avis, une créance irrécouvrable ne peut être considérée comme ayant été rayée des livres comptables d'une personne à moins qu'une note n'ait été faite dans ces livres selon laquelle la créance en question a été radiée. Une décision non consignée ne suffit pas. Une écriture de journal devrait être faite pour ramener à zéro chaque compte débiteur sans valeur. Sinon, il serait impossible d'appliquer le paragraphe 231(3).
+[7] Les livres comptables de l'appelant étaient tenus selon un système de comptabilité par décalque. Ils consistaient en un journal des décaissements, un journal de facturation et de rentrées de fonds, un journal de comptes en fiducie et une carte bancaire. Avant la fin de la période de déclaration 1997, aucune écriture n'avait été faite dans l'un ou l'autre de ces registres financiers pour indiquer que les comptes débiteurs en question avaient été radiés comme étant irrécouvrables. Avant la fin de cette année-là, l'appelant a examiné les comptes débiteurs. Il a établi un résumé ou une note indiquant le montant total des créances qu'il considérait comme irrécouvrables. Il a toutefois omis d'énumérer dans cette liste les comptes individuels constituant le total. Il a remis le résumé à Mme Pappin. Il n'a fait aucune note dans les livres comptables identifiant les comptes qu'il croyait être irrécouvrables. À mon avis, l'appelant a omis de se conformer aux exigences du paragraphe 231(1).
+[8] L'appel est rejeté.
+Signé à Toronto, Ontario, ce 20e jour de mai 2005.
+Michael J. Bonner
+Le juge Bonner
+Traduction certifiée conforme
+ce 2e jour de novembre 2005.
+Joanne Robert, traductrice

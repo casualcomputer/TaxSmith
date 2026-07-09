@@ -1,0 +1,144 @@
+Title: Buma v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/27435/index.do
+Corpus path: corpus/cases/tcc/2004/2004-tcc-808-27435-buma-v-the-queen-en.md
+Document type: case_law
+Last modified: 2004-12-09
+
+# Buma v. The Queen
+
+- Citation: 2004 TCC 808
+- Decision date: 2004-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 256, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Buma v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2004-12-09
+Neutral citation
+2004 TCC 808
+File numbers
+2004-720(IT)I
+Judges and Taxing Officers
+Georgette Anne Sheridan
+Subjects
+Income Tax Act
+Decision Content
+Docket: 2004-720(IT)I
+BETWEEN:
+CAROL BUMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+SIMON BUMA,
+Third Party.
+Appeal heard on November 1, 2004 at Ottawa, Canada
+Before: The Honourable Justice G. Sheridan
+Appearances:
+Counsel for the Appellant:
+Hélène Desormeau
+Counsel for the Respondent:
+Joanna Hill
+For the Third Party:
+Simon Buma
+JUDGMENT
+The appeal from the redetermination of the Minister of National Revenue in respect of the 2000 and 2001 base taxation years is allowed and the matter is referred back to the Minister of National Revenue for redetermination on the basis that:
+1) the Appellant, Carol Buma was the "eligible individual" for the months of May and June 2002; and
+2) the Third Party, Simon Buma was the "eligible individual" for the months July, August, September and October 2002.
+Signed at Ottawa, Canada, this 9th day of December, 2004.
+"G. Sheridan"
+Sheridan, J.
+Citation: 2004TCC808
+Date: 20041209
+Docket: 2004-720(IT)I
+BETWEEN:
+CAROL BUMA,
+Appellant,
+and
+HER MAJESTY THE QUEEN,
+Respondent,
+and
+SIMON BUMA,
+Intervenor.
+REASONS FOR JUDGMENT
+Sheridan, J.
+[1] The Appellant Carol Buma is appealing a redetermination of the Minister of National Revenue that for the base years 2000 and 2001, she was not the "eligible individual" within the meaning of section 122.6 of the Income Tax Act and therefore, not entitled to the Child Tax Benefit. Ms. Buma's former spouse, Simon Buma, was added as a Third Party under section 174 of the Income Tax Act. He supports the Minister's position that he was the "eligible individual" for the period in question. It was agreed by the parties at the beginning of the hearing that only the period April 2002 to October 2002 is relevant to this appeal.
+[2] The first issue in this appeal is whether Ms. Buma resided[1] with her children. Ms. Buma has the burden of disproving the Minister's assumption that she did not. Only if she is successful in this threshold issue will it be necessary to decide whether she was the parent who primarily fulfilled the responsibility[2] for the "care and upbringing" of the children. On this issue, the onus shifts to the Crown to rebut the presumption created under subsection 122.6(f)[3] that Ms. Buma, as the female parent, fulfilled this role. If the Crown succeeds on this point, section 6302 of the Income Tax Regulations comes into play. In making its determination of which parent primarily fulfilled the responsibility for the "care and upbringing" of the children, the Court must consider the factors listed in section 6302.
+[3] The relevant provisions are set out below:
+Section 122.6 of the Income Tax Act:
+"eligible individual" in respect of a qualified dependant at any time means a person who at that time
+(a) resides with the qualified dependant,
+(b) is the parent of the qualified dependant who primarily fulfils the responsibility for the care and upbringing of the qualified dependant,
+...
+(f) where the qualified dependant resides with the dependant's female parent, the parent who primarily fulfils the responsibility for the care and upbringing of the qualified dependant is presumed to be the female parent,
+(g) the presumption referred to in paragraph (f) does not apply in prescribed circumstances, and
+(h) prescribed factors shall be considered in determining what constitutes care and upbringing.
+Section 6302 of the Income Tax Regulations:
+For the purposes of paragraph (h) of the definition "eligible individual" in section 122.6 of the Act, the following factors are to be considered in determining what constitutes care and upbringing of a qualified dependant:
+(a) the supervision of the daily activities and needs of the qualified dependant;
+(b) the maintenance of a secure environment in which the qualified dependant resides;
+(c) the arrangement of, and transportation to, medical care at regular intervals and as required for the qualified dependant;
+(d) the arrangement of, participation in, and transportation to, educational, recreational, athletic or similar activities in respect of the qualified dependant;
+(e) the attendance to the needs of the qualified dependant when the qualified dependant is ill or otherwise in need of the attendance of another person;
+(f) the attendance to the hygenic needs of the qualified dependant on a regular basis;
+(g) the provision, generally, of guidance and companionship to the qualified dependant; and
+(h) the existence of a court order in respect of the qualified dependant that is valid in the jurisdiction in which the qualified dependant resides.
+[4] Both Ms. Buma and Mr. Buma testified at the hearing. Prior to the breakup of their marriage, they had operated a dairy farm together. Ms. Buma was responsible for the running of the household but also shared in the milking and other farm duties. They have four children who are "qualified dependents"[4], as that term in defined in the Act. Their marriage effectively ended on April 1, 2002. Although Ms. Buma remained in the family home for that month and carried on with her normal household and motherly duties, she and Mr. Buma were living separate and apart in the residence. According to the subparagraphs 11(c) and (i) of the Reply to the Notice of Appeal, the Minister assumed that Ms. Buma left the family home on April 1, 2002; I find, however, that she did not move out until the beginning of May 2002 after the family celebrated the birthday of one of the children.
+[5] Winding down a marriage is rarely easy and is all the more difficult in the farm context where the parties have shared not only a way of life, but a source of income. Because Ms. Buma and her former spouse were in the process of negotiating the division of the matrimonial property, Ms. Buma was without the means to acquire a residence in which she could be with the children, or to provide for them when they were with her. For his part, during this period, Mr. Buma continued to live and work on the farm. The children were with him and although he had to see to their material needs, he also had possession of the couple's only source of income - the farm. Given this situation, he "advanced"[5] approximately $10,000 to Ms. Buma between April and October 2002 on the understanding that adjustments would be made accordingly after the matrimonial property settlement was completed. The evidence on the matrimonial property division was incomplete and in any event, is not the concern of this Court. I am satisfied, however, that the parties ultimately agreed to a settlement that took these advances into consideration in dividing the property.
+[6] Their marital problems aside, both parents hoped to preserve the children's life on the farm. Ms. Buma testified that her primary concern was that the children be able to grow up on the farm they love. It was with that in mind that upon her departure in May 2002, Ms. Buma removed only her personal belongings. All furnishings and appliances were intended to remain at the farm with adjustments to reflect this fact to be made upon the final distribution of property. She sought temporary shelter with friends and family until October 31, 2002 when she took possession of her new home. During the months of May and June, she spent her days at the farm continuing to look after the children, to keep the house and, albeit to a lesser extent, to help with the farm chores. After school ended in June, Ms. Buma's time at the farm was significantly reduced. She and the children spent a week camping together and some time at the movies or other entertainment outings.
+[7] Dealing first with the months of May and June 2002, I am satisfied on the evidence before me that for these months Ms. Buma continued to reside with the children. The termination of her conjugal relationship with her former spouse did not alter her maternal or farm worker role at the family farm during this time. All that changed was that she did not sleep at the house which, in my view, is not sufficient to displace her status as being resident with the children.
+[8] Having thus established her residency under subsection 122.6(a), Ms. Buma is entitled to the benefit of the presumption in subsection 122.6(f). I find that the Minister has not shown on a balance of probabilities that Ms. Buma was not the parent who primarily fulfilled the responsibility for the care and upbringing of the children during these two months. In his evidence, Mr. Buma acknowledged her ongoing contribution not only to the care of the children, but also to the running of the farm. I accept her evidence that until the end of the school year, she continued to get the children to school, make their lunches, pick them up from school and take them to sports activities and medical/dental appointments and help them with their homework. In addition, she did all of the housework (including laundry, which Mr. Buma admitted he did not master until sometime in July under the guiding hand of his mother-in-law), the cooking of family meals. These are exactly the sorts of activities contemplated by the factors in section 6302 of the Income Tax Regulations. For all of these reasons, I find that Ms. Buma was the "eligible individual" for this period.
+[9] By July 2002, however, things had changed. Considering first the question of residency, I find that Ms. Buma was no longer residing with the children during the period July to October 2002. Her time with the children was much reduced. At the farm, her presence was sporadic and limited, more in the character of a visitor: after she left the farm, except for the week she took the children on a camping trip, she was without any suitable place to spend any significant amount of time with them. Accordingly, the children passed most of their school holiday time on the family farm with their father helping with chores as their ages permitted, swimming in the family pool, playing around outside. When they returned to school in the fall, in their mother's absence, they organized themselves for school, rode the school bus instead of being driven, took on (with their father) the domestic chores that had once been the domain of their mother. While I accept that their mother sometimes brought them cakes and cookies when she visited, these were in addition to the normal groceries and supplies at the farm. All of the items needed in their daily lives - food, clothing, bedding, toys, school books, and other household items such as the telephone - were located at the farm. I do not doubt that Ms. Buma's emotional bond with and her concern for her children remained as strong as in the previous period, but the notion of physical residency is something apart from that connection. On these facts and for the purposes of the Act, it is difficult to see how Ms. Buma can be said to have resided with her children between July and October 2002. Given this finding, the residency requirement in subsection 122.6 has not been satisfied. This is sufficient to preclude Ms. Buma from claiming the "eligible individual" status for this period. I further find that Mr. Buma was residing with the children during this time and fulfilled the primary responsibility for their care and upbringing.
+[10] Accordingly, the appeal is allowed and the Minister's redetermination in respect of the 2000 and 2001 base taxation years is referred back to the Minister of National Revenue for redetermination on the basis that the Appellant, Carol Buma was the "eligible individual" for the months of May and June 2002 and that the Third Party, Simon Buma was the "eligible individual" for the months July, August, September and October 2002.
+Signed at Ottawa, Canada, this 9th day of December, 2004.
+"G. Sheridan"
+Sheridan, J.
+CITATION:
+2004TCC808
+COURT FILE NO.:
+2004-720(IT)I
+STYLE OF CAUSE:
+Carol Buma and H.M.Q. and
+Simon Buma
+PLACE OF HEARING:
+Ottawa, Ontario
+DATE OF HEARING:
+November 1, 2004
+REASONS FOR JUDGMENT BY:
+The Honourable Justice G. Sheridan
+DATE OF JUDGMENT:
+December 9, 2004
+APPEARANCES:
+Counsel for the Appellant:
+Hélène Desormeau
+Counsel for the Respondent:
+Joanna Hill
+For the Third Party:
+Simon Buma
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+Hélène Desormeau
+Firm:
+Cass Grenkie
+Chesterville, Ontario
+For the Third Party:
+Name:
+Firm:
+For the Respondent:
+Morris Rosenberg
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Pursuant to Subsection 122.6(a) of the Income Tax Act.
+[2] Pursuant to Subsection 122.6(b) of the Income Tax Act.
+[3] Subsection 122.6(g) has no application on the facts of this appeal.
+[4] Pursuant to section 122.6 of the Income Tax Act.
+[5]

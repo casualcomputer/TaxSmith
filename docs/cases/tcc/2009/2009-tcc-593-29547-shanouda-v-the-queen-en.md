@@ -1,0 +1,175 @@
+---
+title: "Shanouda v. The Queen"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29547/index.do"
+last_modified: "2009-11-03"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2009 TCC 593"
+citation2: ""
+neutral_citation: "2009 TCC 593"
+decision_date: "2009-11-03"
+language: "en"
+item_id: "29547"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 6365
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-03T00:47:35.351000+00:00"
+cases_cited_count: 0
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "49a0db49d88b2bf9913c99e1412440834c017ec4f063ae5f326264b74632bd09"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Shanouda v. The Queen
+
+- Citation: 2009 TCC 593
+- Decision date: 2009-11-03
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6365, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Shanouda v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2009-11-03
+Neutral citation
+2009 TCC 593
+File numbers
+2009-2870(GST)APP, 2009-2871(GST)APP
+Judges and Taxing Officers
+Steven K. D'Arcy
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2009-2870(GST)APP
+2009-2871(GST)APP
+BETWEEN:
+MARLIN SHANOUDA,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+NABIL SHANOUDA,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Applications heard on November 3, 2009, at Toronto, Ontario
+Before: The Honourable Justice Steven K. D'Arcy
+Appearances:
+For the Applicants:
+Marlin Shanouda
+Counsel for the Respondent:
+Thang Trieu
+____________________________________________________________________
+ORDER
+Upon applications for an Order extending the time within which Notices of Objection may be served with respect to an assessment made under the Excise Tax Act (the “Act”) by the Minister of National Revenue, notices of which are dated March 5, 2008, and bear numbers 08046510212370003 and 08046510212370002;
+And whereas the applications were brought beyond the time line provided for in subsection 304(5) of the Act;
+And upon reading the materials filed, and hearing from the Applicants, Marlin Shanouda and Nabil Shanouda, and counsel for the Respondent;
+It is ordered that the applications are dismissed.
+There shall be no order as to costs.
+Signed at
+Ottawa ,
+Canada
+, this 17th day of November 2009.
+“S. D’Arcy”
+D'Arcy, J.
+Citation: 2009 TCC 593
+Date: 20091117
+Dockets: 2009-2870(GST)APP
+2009-2871(GST)APP
+BETWEEN:
+MARLIN SHANOUDA,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent;
+AND BETWEEN:
+NABIL SHANOUDA,
+Applicant,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR ORDER
+(Delivered orally from the bench on
+November 3, 2009, in
+Toronto ,
+Ontario
+.)
+[1] There are two applications before the Court. One application has been brought by Nabil Shanouda and another application has been brought by Marlin Shanouda.
+[2] Each application is for an order extending the time within which the Applicant may serve on the Minister of National Revenue a Notice of Objection in respect of the reassessment of the Goods and Services Tax rebate.
+[3] The evidence before the Court is as follows:
+- Each of the Applicants filed a GST New Residential Property Rebate application on January 24, 2008.
+- The Minister denied each of the Applicant’s rebate claims and issued a Notice of Assessment to each Applicant on March 5, 2008.
+- The Notices of Assessment were received by each of the Applicants.
+- Each of the Applicants filed a Notice of Objection with the Minister on June 19, 2009.
+- On August 26, 2009, the Minister determined that the Notices of Objection were not validly filed. In addition, the Minister concluded that he could not grant applications for extensions of time within which to file the Notices of Objection.
+[12] Each of the Applicants testified at the hearing. It is clear from their testimony that the delay in the filing of their Notices of Objection was caused solely by the actions of their professional advisor.
+[13] The Applicants’ professional advisor was an accountant who had been acting for the family for 15 years.
+[14] The Applicants relied upon the accountant to file the original rebate claims and to deal with the notices of assessment.
+[15] With respect to the notices of assessment, the accountant informed the Applicants that he was pursuing the matter with the CRA’s fairness committee and that “it was only a matter of time before the rebate applications would be approved”.
+[16] After a while, the Applicants began to question the advice they were receiving from the accountant. They requested the contact information for the CRA’s fairness committee. The accountant refused to provide the information.
+[17] The Applicants then tried to contact the CRA’s fairness committee directly. Although they contacted their local CRA office, they were not able to obtain the contact information for the fairness committee.
+[18] However at some point, they were informed by the CRA that they should be filing a notice of objection.
+[19] Subsection 301(1.1) of Part IX of the Excise Tax Act (the “GST Act”) provides a taxpayer with the right to file a notice of objection with respect to an assessment issued by the Minister denying a rebate claim. The notice of objection must be filed within 90 days of the day the notice of assessment is sent to the person. In the present case, this 90 day period expired on June 3, 2008.
+[20] Section 303 of the GST Act contains provisions that allow a taxpayer to make an application to the Minister of National Revenue to extend the time for filing of the notice of objection.
+[21] However, subsection 303(7) of the GST Act provides that the Minister is not permitted to grant such an extension, unless the request is filed within one year after the expiration of the time limited by subsection 301(1.1).
+[22] In other words, the Minister does not have the right to grant an extension in respect of a notice of objection filed more than one year after the expiration of the 90 day period for the filing of the notice of objection.
+[23] In the present case, the last day for the filing of the notices of objection was June 3, 2008. The notices of objection were filed on June 19, 2009, more that one year after June 3, 2008.
+[24] In such a situation, the Minister does not have the discretion to accept the late filed notices of objection.
+[25] Section 304 of the GST Act contains provisions that allow a taxpayer to request this Court to make an order requiring the Minister of National Revenue to accept the late filed notice of objection.
+[26] However, subsection 304(5) of the GST Act provides that the Court is not permitted to make an order extending the time for the filing of the Notice of Objection, unless the request for the extension of time for the filing of the Notice of Objection was filed with the Minister of National Revenue within one year after the expiration of the 90 day period for the filing of the notice of objection.
+[27] In short, this Court does not have the jurisdiction to grant an extension in respect of a notice of objection that is filed after the one year period.
+[28] As noted previously, the notices of objection in the present case were filed after the expiration of the one year period.
+[29] Unfortunately, in such a situation there is nothing that the Court can do. It simply does not have the jurisdiction to extend the time for the filing of the notices of objection
+[30] I am extremely troubled by the result in this case.
+[31] I am concerned that the delay in the filing of the notices of objection was a result of the Applicants’ belief that the matter was being dealt with by the CRA’s fairness committee. I am also troubled that the Applicants were not able to obtain the contact information for the fairness committee.
+[32] I would strongly suggest that the Respondent’s counsel obtain the contact information for the fairness committee and provide such information to the Applicants. Further, I would suggest that the Respondent’s counsel ensure that his client provides the facts of this case to its fairness committee.
+[33] Unfortunately for the Applicants, I have no choice but to dismiss the applications.
+[34] There will no order with respect to costs.
+Signed at
+Ottawa ,
+Canada
+, this 17th day of November, 2009.
+“S. D’Arcy”
+D’Arcy, J.
+CITATION: 2009 TCC 593
+COURT FILE NOs.: 2009-2870(GST)APP
+and 2009-2871(GST)APP
+STYLE OF CAUSE: MARLIN SHANOUDA AND HER MAJESTY THE QUEEN and NABIL SHANOUDA AND HER MAJESTY THE QUEEN
+PLACE OF HEARING: Toronto, Ontario
+DATE OF HEARING: November 3, 2009
+REASONS FOR ORDER BY: Justice Steven K. D’Arcy
+DATE OF ORDER: November 17, 2009
+APPEARANCES:
+For the Applicants:
+Marlin Shanouda
+Counsel for the Respondent:
+Thang Trieu
+COUNSEL OF RECORD:
+For the Applicants:
+Name: n/a
+Firm:
+For the Respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada

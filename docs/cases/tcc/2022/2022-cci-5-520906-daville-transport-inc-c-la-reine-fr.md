@@ -1,0 +1,173 @@
+---
+title: "Daville Transport Inc. c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/520906/index.do"
+last_modified: "2022-02-10"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2022 CCI 5"
+citation2: ""
+neutral_citation: "2022 CCI 5"
+decision_date: "2022-02-10"
+language: "fr"
+item_id: "520906"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 4442
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-04-10T10:12:58.692000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "18312729cf1971b178b5f07787882074ab985749fc444ff3798b498892a315b4"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Daville Transport Inc. c. La Reine
+
+- Citation: 2022 CCI 5
+- Decision date: 2022-02-10
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 4442, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Daville Transport Inc. c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2022-02-10
+Référence neutre
+2022 CCI 5
+Numéro de dossier
+2018-1216(GST)G
+Juges et Officiers taxateurs
+Bruce Russell
+Sujets
+Partie IX de la Loi sur la taxe d'accise (TPS)
+Contenu de la décision
+Dossier : 2018-1216(GST)G
+ENTRE :
+DAVILLE TRANSPORT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+Requête jugée sur la base d’observations écrites, sans audience
+Devant : L’honorable juge B. Russell
+Comparutions :
+Avocat de l’appelante :
+Me Osborne G. Barnwell
+Avocat de l’intimée :
+Sebastian Budd
+ORDONNANCE
+Conformément aux motifs écrits, joints aux présentes, LA COUR ORDONNE :
+a) la requête de l’appelante en réexamen des dépens est accueillie, le total des dépens étant fixé par les présentes à 8 110 $ (au lieu des 4 000 $ adjugés le 29 juillet 2021), y compris les débours relatifs à l’appel sous-jacent;
+b) les dépens relatifs à la présente requête sont accordés à l’appelante et fixés à 840 $; et
+c) l’intimée versera promptement ces deux sommes fixées comme dépens.
+Signé à Halifax, Canada, ce 10e jour de février 2022.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 10e jour de mai 2022.
+François Brunet, réviseur
+Référence : 2022 CCI 5
+Date : 20220210
+Dossier : 2018-1216(GST)G
+ENTRE :
+DAVILLE TRANSPORT INC.,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Russell
+[1] L’appelante, Daville Transport inc. (DTI) a déposé une requête, devant être jugée sur la base d’observations écrites, en réexamen des dépens adjugés sous ma plume le 29 juillet 2021 dans l’appel au fond (2021 CCI 47). Ce jugement accueillait l’appel de DTI et fixait les dépens de cette dernière à 4 000 $.
+[2] La requête est présentée en vertu du paragraphe 147(7) des Règles de la Cour canadienne de l’impôt (procédure générale) (les « Règles »). Le paragraphe 147(7) permet à une partie de « demander à la Cour […] qu’elle reconsidère son adjudication des dépens. »
+[3] DTI soutient principalement qu’elle peut utilement invoquer le paragraphe 147(3.1) des Règles, dont voici le texte :
+Sauf directive contraire de la Cour, lorsque l’appelant fait une offre de règlement et qu’il obtient un jugement qui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens entre parties jusqu’à la date de la signification de l’offre et, après cette date, aux dépens indemnitaires substantiels que fixe la Cour, plus les débours raisonnables et les taxes applicables. [Non souligné dans l’original.]
+[4] Autrement dit, lorsqu’un appelant fait une offre de règlement qui n’est pas acceptée, que l’appel est instruit et que l’appelant obtient finalement un jugement qui lui est au moins aussi favorable que l’offre de règlement, l’appelant a droit aux dépens majorés, appelés « dépens indemnitaires substantiels ».
+[5] Selon la définition qu’en donne le paragraphe 147(3.5) des Règles, les « dépens indemnitaires substantiels » dont il est question au paragraphe 147(3.1) des Règles, ci-dessus, « correspondent à 80 % des dépens établis sur une base procureur-client ». Les dépens établis sur la base procureur-client sont les frais que l’avocat facture à son client pour tous les services essentiels qu’il lui a rendus comme avocat plaidant.
+[6] Ces frais sont considérablement plus élevés que les « dépens entre parties », qui sont le type courant de dépens adjugés, sur la base d’un reçu de frais judiciaires, et généralement prévus aux règles de procédure d’un tribunal. Les dépens entre parties couvrent seulement un faible pourcentage des dépens établis sur une base procureur-client.
+[7] Dans ses observations écrites, DTI fait référence à l’offre de règlement sur laquelle se fonde sa demande de dépens indemnitaires substantiels en vertu du paragraphe 147(3.1) des Règles. L’avocat de DTI a fait l’offre à celui de l’intimée dans un courriel du 4 octobre 2020. Dans son « offre de règlement », DTI indique qu’elle [traduction] « consent à un jugement allouant 15 000 $ de TVH exigible pour la période de 2014 à 2016 ». On n’y mentionne aucun argument de droit sur lequel repose cette offre.
+[8] Dans un courriel du 23 octobre 2018, l’avocat de DTI a indiqué ce qui suit à l’avocat de l’intimée :
+[traduction]
+Je vous contacterai à propos du principe sur lequel se base l’offre envoyée. Honnêtement, je pense avoir pris un pourcentage de ce qui était vu comme la TVH applicable à la portion canadienne de la TVH exigible pour la période. Cependant, j’y jetterai un coup d’œil.
+[9] Le lendemain, l’avocat de DTI a indiqué ceci dans un autre courriel à l’avocat de l’intimée :
+[traduction]
+Je vous recontacte parce que j’avais promis de vous communiquer le raisonnement/principe derrière l’offre de règlement.
+Le montant de TVH en litige est de 118 300 $. Environ 70 % de cette somme se rapporte au carburant acheté aux États-Unis par les camionneurs non inscrits. Comme l’indique l’acte de procédure, il n’y a pas de taxe de vente, etc., sur les achats effectués aux États-Unis. Le reste de la somme se rapporte au carburant acheté au Canada, que ces non-inscrits ont payé avec la carte de paiement.
+L’offre correspond approximativement à 50 % de la portion canadienne de la TVH, soit environ 15 000 $. L’idée est de donner une somme substantielle à l’ARC afin de pouvoir clore l’affaire et, si l’offre est rejetée, d’être en mesure de garantir des dépens plus élevés pour la suite. [Non souligné dans l’original.]
+[10] L’intimée interprète ainsi cette offre de DTI :
+[TRADUCTION]
+[…] que la TVH établie pour les fournitures de carburant effectuées au Canada soit réduite d’environ 50 % (c.-à-d. 15 000 $) pour régler l’appel, mais qu’elle ne s’est basée sur aucun fondement juridique ou principe établi pour arriver à l’estimation de 50 % ou aux 15 000 $ proposés[1].
+[11] Telle est également mon interprétation. Selon cette offre, il est proposé que les parties se partagent arbitrairement des chiffres ronds que DTI détermine comme le montant de TVH établi dans la cotisation pour les fournitures de carburant effectuées au Canada. Cette offre ne respecte ni ne reflète les dispositions de la Loi sur la taxe d’accise, pas même implicitement.
+[12] Comme l’intimée l’a souligné, dans CIBC World Markets Inc. c. La Reine (2012 CAF 3), la Cour d’appel fédérale a confirmé que le ministre du Revenu national peut seulement établir l’impôt à payer d’après sa vision des faits et son interprétation de la loi. Aux paragraphes 20 à 22, la Cour a observé :
+20. Est‑il loisible au ministre d’accepter une offre de règlement qui commanderait l’établissement d’une nouvelle cotisation ne pouvant se justifier en fait et en droit? Autrement dit, le ministre est‑il investi du pouvoir d’établir de nouvelles cotisations sur la base de compromis, sans égard pour les faits et le droit en question?
+21. Je dois répondre à ces questions par la négative.
+22. […] le Ministre a l’obligation, aux termes de la Loi, de fixer le montant de l’impôt exigible d’après les faits qu’il établit et en conformité de son interprétation de la loi. […] Le ministre ne peut établir de cotisation « que d’après les faits et en conformité de la loi, et non pour donner effet à un compromis ». [Non souligné dans l’original.]
+[13] Dans la présente affaire, DTI a fait une offre de règlement arbitraire, sans faire état des faits sous-jacents, conformément au droit. Par son offre de règlement, il était simplement propose de « couper la poire en deux ».
+[14] Étant donné que l’offre de règlement arbitraire de DTI n’était pas fondée sur les faits, conformément au droit, l’intimée ne pouvait pas la prendre en considération. Cette offre de règlement n’entrait donc pas dans le champ du paragraphe 147(3.1) des Règles.
+[15] Par conséquent, l’allégation de DTI selon laquelle elle a droit aux dépens indemnitaires substantiels prévus au paragraphe 147(3.1) des Règles est rejetée.
+[16] Y a-t-il autre chose dont il faudrait tenir compte dans cette requête en réexamen des dépens? L’avocat de l’intimée soutient que non, affirmant ce qui suit :
+[traduction]
+L’adjudication par la Cour de dépens de 4 000 $ était raisonnable, vu le gain de cause partiel de l’appelante dans l’instance, le montant de taxe en litige et l’absence d’offre de règlement valable, […] et ne devrait pas être modifiée[2].
+[17] Cependant, en reconsidérant mon adjudication des dépens dans l’appel sous-jacent, je suis arrivé à la conclusion que les 4 000 $ adjugés sont un peu maigres. Cette conclusion est motivée par le mémoire de frais de DTI, déposé au dossier de sa requête. Ce mémoire est basé sur le « Tarif B – Sommes pouvant être accordées pour les dépens taxés entre parties » de notre Cour, à l’annexe II des Règles. Il s’élève à 4 720 $ (j’ai vérifié que les dépens ont été correctement calculés en fonction des dispositions sur les frais de service du tarif B), auquel s’ajoutent des débours de 558 $ (raisonnables, à mon avis), pour un total de 5 278 $.
+[18] Mon pouvoir discrétionnaire à l’égard des dépens ne nécessite pas que j’alloue les dépens conformément à un tarif. Le tarif B n’a pas été modifié ces dernières années. Bien que DTI n’ait eu qu’un gain de cause partiel dans le présent appel, elle a eu gain de cause à l’égard d’une portion substantielle de la somme en litige.
+[19] Par conséquent, je pense qu’il est approprié, en appliquant mon pouvoir discrétionnaire au réexamen des dépens, de les fixer d’abord aux 4 720 $ qu’indique le mémoire de frais, multipliés par un facteur de 1,6 parce que le tarif n’est plus du tout à jour, ce qui donne 7 552 $. En y ajoutant les débours de 558 $, il en résulte des dépens de 8 110 $.
+[20] Vient enfin la question des dépens relatifs à la requête elle-même. Le principal argument de DTI, par lequel elle demandait les dépens indemnitaires substantiels prévus au paragraphe 147(3.1) des Règles, a été rejeté. Le mémoire de frais de DTI montre qu’elle demandait des dépens indemnitaires substantiels de 17 775 $, qui lui ont été refusés.
+[21] Pourtant, DTI a obtenu une majoration de 4 110 $ des dépens de 4 000 $ adjugés le 29 juillet 2021. J’accorde donc à DTI les dépens relatifs à la présente requête.
+[22] Le tarif B établit à 525 $ les honoraires d’un avocat pour une requête. Comme je l’ai fait plus tôt, je multiplie cette somme par un facteur de 1,6 pour établir à 840 $ les dépens de DTI relativement à cette requête.
+[23] Par conséquent, je rends l’ordonnance suivante :
+a) La requête de l’appelante en réexamen des dépens relatifs à l’appel sous-jacent est accueillie et, par conséquent, le total des dépens, y compris les débours, est fixé à 8 110 $ (au lieu des 4 000 $ précédemment adjugés).
+b) De plus, les dépens relatifs à la présente requête sont accordés à l’appelante et fixés à 840 $.
+Signé à Halifax, Canada, ce 10e jour de février 2022.
+« B. Russell »
+Le juge Russell
+Traduction certifiée conforme
+ce 10e jour de mai 2022.
+François Brunet, réviseur
+RÉFÉRENCE :
+2022 CCI 5
+NO DU DOSSIER DE LA COUR :
+2018-1216(GST)G
+INTITULÉ :
+DAVILLE TRANSPORT INC. c. SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE :
+Toronto (Ontario)
+DATE DE L’AUDIENCE :
+Les 3 et 4 novembre 2021
+MOTIFS DE L’ORDONNANCE :
+L’honorable juge B. Russell
+DATE DE L’ORDONNANCE :
+Le 10 février 2022
+COMPARUTIONS :
+Avocat de l’appelante :
+Me Osborne G. Barnwell
+Avocat de l’intimée :
+Sebastian Budd
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Me Osborne G. Barnwell
+Cabinet :
+Avocat
+Pour l’intimée :
+François Daigle Sous-procureur général du Canada Ottawa, Canada
+[1] Observations écrites de l’intimée, paragraphe 19.
+[2] Ibidem, paragraphe 34.

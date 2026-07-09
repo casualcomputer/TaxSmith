@@ -1,0 +1,140 @@
+Title: Lindsay Cowan v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/27286/index.do
+Corpus path: corpus/cases/tcc/2006/2006-cci-512-27286-lindsay-cowan-v-the-queen-fr.md
+Document type: case_law
+Last modified: 2006-09-20
+
+# Lindsay Cowan v. The Queen
+
+- Citation: 2006 CCI 512
+- Decision date: 2006-09-20
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 893, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Lindsay Cowan v. The Queen
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2006-09-20
+Référence neutre
+2006 CCI 512
+Numéro de dossier
+2005-3234(IT)I
+Juges et Officiers taxateurs
+Georgette Anne Sheridan
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2005-3234(IT)I
+ENTRE :
+MARY LINDSAY COWAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+___________________________________________________________________
+Appel entendu le 23 mai 2006, à Montréal (Québec).
+Devant : L’honorable juge G. Sheridan
+Comparutions :
+Représentante de l’appelante :
+Lorraine Cowan
+Avocate de l’intimée :
+Me Suzanne Morin
+____________________________________________________________________
+JUGEMENT
+L’appel à l’encontre de la nouvelle cotisation établie en vertu de la Loi de l’impôt sur le revenu pour l’année d’imposition 2003 est accueilli, et la nouvelle cotisation est renvoyée au ministre du Revenu national pour qu’il procède à un nouvel examen et qu’il établisse une nouvelle cotisation, conformément aux motifs du jugement ci-joints, en tenant compte du fait que l’appelante a le droit de déduire un montant de 19 437,27 $ dans le calcul de son revenu pour 2003.
+Signé à Calgary (Alberta), ce 20e jour de septembre 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 14e jour de juin 2007.
+D. Laberge, LL.L.
+Référence : 2006CCI512
+Date : 20060920
+Dossier : 2005-3234(IT)I
+ENTRE :
+MARY LINDSAY COWAN,
+appelante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DU JUGEMENT
+La juge Sheridan
+[1] L’appelante, Mary Lindsay Cowan, interjette appel à l’encontre de la nouvelle cotisation établie par le ministre du Revenu national (le « ministre ») à l’égard de son année d’imposition 2003. Le ministre a refusé sa demande de déduction pour la somme payée à son ex-époux à titre de remboursement de la pension alimentaire effectué en application de l’alinéa 60c.2) de la Loi de l’impôt sur le revenu[1]. Selon le ministre, l’appelante n’a pas remboursé une pension alimentaire, mais plutôt un paiement en trop d’intérêt qui lui a été fait lors de l’exécution du partage de la pension de son ex-époux.
+[2] L’appelante est une retraitée. Sa fille adulte était avec elle pour l’aider lors de l’audition de la présente affaire, qui est régie par la procédure informelle.
+Faits
+[3] L’appelante et son ex-époux étaient à la retraite au moment de la rupture de leur mariage. Comme revenu, ils recevaient une pension de la sécurité de la vieillesse, et l’ex-époux de l’appelante touchait une pension versée par son ancien employeur. Le patrimoine familial était composé des REER du couple et du fonds de pension de l’ex-époux de l’appelante.
+[4] Le 29 mars 1999, l’ex-époux de l’appelante a présenté une requête en divorce.
+[5] Le 9 juin 1999, par une ordonnance provisoire, on a ordonné à l’ex-époux de l’appelante de verser à l’appelante une pension alimentaire de 1 014 $ par mois (soit la moitié de sa pension mensuelle de 2 028 $), indexée conformément à la loi.
+[6] Par une ordonnance datée du 17 décembre 2001 (« l’ordonnance de 2001 »), la Cour supérieure du Québec a prononcé le divorce et ordonné le partage en parts égales du patrimoine familial, avec effet rétroactif au 30 mars 1999, soit la date de l’introduction de l’instance. La Cour a également ordonné qu’aucune autre pension alimentaire ne serait payable à compter du 1er février 2002 étant donné qu’à cette date l’appelante aurait reçu sa partie des prestations de retraite mensuelles.
+[7] La partie de l’ordonnance de 2001 qui se rapporte au partage du régime de retraite est ainsi libellée :
+[TRADUCTION]
+[14] 1. ORDONNANCES The Gazette (société Southam ou Can West), l’ancien employeur de M. Douglas Cowan, qui est à la retraite, doit verser ou transférer à Mme Mary Lindsay Cowan la moitié de la valeur de rachat du régime de retraite détenu le 30 mars 1999 et enregistré au nom de M. Douglas Cowan;
+IL EST ORDONNÉ à Mme Cathy Trotier, ou au gestionnaire, coordonnateur des prestations du secteur des ressources humaines de The Gazette, d’effectuer le paiement ou le transfert susmentionné selon les instructions de Mme Mary Lindsay Cowan au moment de la signification du présent jugement[2];
+[8] Par conséquent, l’administrateur du régime de retraite a versé à l’appelante une somme de 132 495,62 $, soit la moitié de la valeur du fonds de pension en date du 30 mars 1999, et un montant d’intérêt y afférent de 19 437,27 $ à partir de cette date, conformément à l’article 48 du Règlement sur les régimes complémentaires de retraite[3].
+[9] L’ex-époux de l’appelante a interjeté appel en alléguant que le montant payé à l’appelante donnait lieu à un partage inéquitable des biens. Il a notamment soutenu que l’appelante n’aurait pas dû avoir droit à la moitié de sa pension mensuelle à titre de pension alimentaire pendant la période allant de mars 1999 au 31 janvier 2002 inclusivement et aux intérêts courus sur la valeur en capital.
+[10] La Cour supérieure du Québec a accueilli la requête de l’ex-époux de l’appelante et a ordonné à celle-ci « de payer [à son ex-époux] la somme de 19 437,27 $ avec intérêts à compter de la date de l’assignation[4] ».
+[11] L’appelante a immédiatement payé la somme de 20 331,92 $ (19 437,27 $ plus les intérêts courus) à son ex-époux, qui a signé en faveur de l’appelante une mainlevée visant toute réclamation découlant du jugement de 2003.
+[12] Dans sa déclaration de revenus pour 2003, l’appelante a déduit dans le calcul de son revenu imposable un montant de 20 331,92 $ à titre de remboursement d’une pension alimentaire en application de l’alinéa 60c.2) de la Loi.
+Point en litige
+[13] Il s’agit en l’espèce de savoir si le montant dûment remboursé par l’appelante était un remboursement d’une « pension alimentaire » suivant l’alinéa 60c.2).
+Analyse
+[14] Il n’est pas contesté que les paiements mensuels qu’avait reçus l’appelante entre les mois de mars 1999 et de janvier 2002 constituaient une « pension alimentaire » au sens paragraphe 56.1(4) :
+« pension alimentaire » Montant payable ou à recevoir à titre d’allocation périodique pour subvenir aux besoins du bénéficiaire, d’enfants de celui‑ci ou à la fois du bénéficiaire et de ces enfants, si le bénéficiaire peut utiliser le montant à sa discrétion et […].
+[15] Pour que le remboursement effectué par l’appelante puisse être déduit dans le calcul de son revenu, il doit remplir les conditions énoncées dans les passages pertinents de l’alinéa 60c.2) :
+Remboursement de la pension alimentaire – une somme que le contribuable a payée au cours de l’année ou d’une des deux années d’imposition précédentes, en vertu d’une ordonnance ou d’un jugement rendus par un tribunal compétent, à titre de remboursement d’un montant inclus en application des alinéas 56(1)b) ou c), ou de l’alinéa 56(1)c.1) (tel qu’il s’applique, dans le calcul du revenu du contribuable pour l’année ou pour une année d’imposition antérieure, aux ordonnances ou jugements rendus avant 1993), dans la mesure où elle n’a pas été déduite dans le calcul du revenu du contribuable pour une année d’imposition antérieure;
+[16] L’alinéa 60c.2) vise à permettre un réajustement dans les cas où le contribuable a dû rembourser une pension alimentaire qui avait déjà été incluse dans le calcul de son revenu pour une année antérieure. L’alinéa 60c.2) évite la double imposition de ce montant en prévoyant qu’un tel remboursement soit déductible dans le calcul du revenu de l’année courante.
+[17] L’appelante a le fardeau de démontrer qu’elle satisfait aux quatre exigences énoncées à l’alinéa 60c.2), soit que : (1) le montant visé par la demande a été remboursé par le contribuable au cours de l’année d’imposition en question; (2) que le remboursement a été effectué en vertu d’une ordonnance ou d’un jugement rendus par un tribunal compétent; (3) que le remboursement se rapporte à un montant qui a déjà été inclus dans le calcul du revenu du contribuable à titre de pension alimentaire en application des alinéas 56(1)b) ou c), ou de l’alinéa 56(1)c.1); (4) que le montant du remboursement n’a pas été déduit dans le calcul du revenu pour une année d’imposition antérieure.
+[18] L’appelante a remboursé un montant à son ex-époux en 2003 et le montant en question n’avait pas été déduit dans le calcul du revenu du contribuable pour une année antérieure. La question à laquelle il faut répondre est celle de savoir si le montant remboursé en application du jugement de 2003 consistait en une pension alimentaire au sens de l’alinéa 60c.2).
+[19] L’intimée allègue que non. L’avocate de l’intimée a soutenu assez énergiquement que le montant remboursé était tout simplement un paiement en trop d’intérêt que, en raison du manque d’instructions indiquant le contraire, l’administrateur du régime a ajouté à la partie de l’appelante de la pension de son ex-époux. À l’appui de sa position, l’avocate de l’intimée a invoqué les paragraphes suivants du jugement de 2003 :
+[13] Bien que les procureurs doivent connaître les effets d’un partage de fonds de pension lorsque la partie détentrice du droit reçoit déjà sa rente mensuelle de retraite durant l’instance, aucun n’a cru bon de le mentionner au Tribunal et même aux parties, car tous en ignoraient les conséquences.
+[27] Dans la présente cause, refuser le droit à [l’ex-époux de l’appelante] de récupérer les intérêts versés à [l’appelante] va à l’encontre de [l’ordonnance de 2001], puisqu’il fait en sorte que [l’appelante] reçoit plus du partage du patrimoine familial que [l’ex-époux de l’appelante], puisque durant l’instance, soit du 30 mars 1999 à la date du partage, [l’ex-époux de l’appelante] a versé à [l’appelante] la somme de 35 847,94 $, soit la moitié du 2 028 $ par mois de [pension alimentaire][5], 1 014 $ par mois, plus l’indexation, alors que la rente ne l’était pas.
+[20] Le fait que l’argumentation de l’intimée repose sur une conception très restrictive des faits me pose problème. Bien que j’accepte que le paiement d’intérêt que l’administrateur du régime a fait à l’appelante a donné lieu au jugement de 2003, je ne vois pas cela comme le début de l’histoire. Pour pouvoir bien comprendre les passages invoqués par l’avocate de l’intimée, il faut les lire dans le contexte de certaines autres parties du jugement de 2003 :
+[22] Le Tribunal [dans l’ordonnance de 2001] ne se prononce pas sur les intérêts car les parties ni les procureurs n’ont cru bon de l’informer des effets d’un partage de fonds de pension lorsqu’une rente est versée durant l’instance.
+[21] En plus de reconnaître que le Tribunal, dans l’ordonnance de 2001, ne s’était pas penché sur l’incidence des intérêts dans le cadre du partage du fonds de pension, dans ses observations finales, la juge Bénard a établi un lien entre le paiement en trop et sa cause, c’est-à-dire le paiement de la pension alimentaire :
+[28] Madame reçoit donc la moitié de la rente et plus par l’octroi d’une pension alimentaire, et lors du partage, elle reçoit en plus les intérêts, car l’administrateur du régime, en l’absence de conclusions précises sur cette question, se doit d’appliquer la loi. Seule une ordonnance du Tribunal ou le consentement des parties peut y donner une portée différente.
+[29] Madame ayant, par la perception de sa pension alimentaire, reçu plus que sa part des intérêts, il serait injuste de ne pas lui ordonner de rembourser à Monsieur ce qu’elle a reçu à ce titre[6]. [Non souligné dans l’original.]
+[22] L’avocate de l’intimée a rappelé à la Cour, avec raison d’ailleurs, que celle-ci n’a pas le pouvoir d’accorder une réparation en equity[7]. Comme la juge Bénard l’a mentionné dans son jugement, il est regrettable que la cour de première instance n’ait pas eu à sa disposition tous les documents nécessaires, afin que tous les aspects pertinents aient pu être pris en considération lors de l’audience sur le divorce tenue en 2001. Ce qui aurait dû être un partage relativement simple d’un patrimoine familial composé de peu de biens est maintenant devant la Cour canadienne de l’impôt après s’être vu conférer une attention judiciaire considérable. Pour arriver à ma décision, je ne me suis pas fondée sur ce qui était équitable; je me suis plutôt fondée uniquement sur la preuve présentée à l’audience, y compris les actes de procédure devant la Cour supérieure du Québec, et sur mon interprétation de la loi applicable. Si la méthode utilisée a entraîné un résultat équitable, on ne peut rien y faire même si ce n’était pas le but visé.
+[23] Au moment de rendre l’ordonnance de 2001, le Tribunal n’avait pas entendu d’observations concernant l’incidence de la pension alimentaire déjà reçue sur l’intérêt exigible. Après avoir lu le jugement de 2003, je peux conclure que le paiement en trop peut être lié à l’omission de la cour de première instance d’avoir tenu compte de l’incidence de la pension alimentaire versée par l’ex-époux de l’appelante avant le partage final des biens, ce qui, par la suite, a donné lieu à l’omission d’inclure, dans l’ordonnance de 2001, des instructions à l’intention de l’administrateur du régime pour qu’il réduise le montant des intérêts qui, en l’absence de tels renseignements, seraient payables selon la loi à l’appelante. C’est dans ce contexte que, lorsqu’il a ordonné le remboursement, le Tribunal n’a parlé que du paiement de « la somme de 19 437,27 $ avec intérêts à compter de la date de l’assignation »[8] dans le jugement de 2003. Rien dans le libellé ne change le fait que, dans les derniers paragraphes du jugement, le Tribunal a mis l’accent sur le fait que la pension alimentaire était la cause du paiement en trop. On ne peut certainement pas tirer une conclusion expresse selon laquelle le paiement ordonné se rapportait à l’intérêt qui n’a pas été correctement inclus par l’administrateur du régime dans le partage final de la pension.
+[24] Compte tenu des faits quelque peu inusités de la présente affaire, qui est régie par la procédure informelle, je suis convaincue que le montant remboursé se rapportait aux paiements que l’appelante avait reçus de son ex-époux à titre de pension alimentaire et qu’elle avait dûment inclus dans le calcul de son revenu. Dans ces circonstances, l’alinéa 60c.2) s’applique pour permettre le réajustement de l’obligation fiscale de l’appelante pour qu’elle cadre avec la réalité de la situation.
+[25] Par conséquent, l’appel à l’encontre de la nouvelle cotisation établie par le ministre du Revenu national en vertu de la Loi de l’impôt sur le revenu est accueilli, et la nouvelle cotisation est renvoyée au ministre pour qu’il procède à un nouvel examen et pour qu’il établisse une nouvelle cotisation en tenant compte du fait que l’appelante a le droit de déduire le montant de 19 437,27 $ dans le calcul de son revenu pour 2003. L’intérêt exigible sur ce montant en vertu du jugement de 2003 ne se rapportait pas au remboursement de la pension alimentaire et n’est donc pas déductible dans le calcul du revenu.
+Signé à Calgary (Alberta), ce 20e jour de septembre 2006.
+« G. Sheridan »
+Juge Sheridan
+Traduction certifiée conforme
+ce 14e jour de juin 2007.
+D. Laberge, LL.L.
+RÉFÉRENCE : 2006CCI512
+No DU DOSSIER DE LA COUR : 2005-3234(IT)I
+INTITULÉ : MARY LINDSAY COWAN ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Montréal (Québec)
+DATE DE L’AUDIENCE : Le 23 mai 2006
+MOTIFS DU JUGEMENT : L’honorable juge G. Sheridan
+DATE DU JUGEMENT : Le 20 septembre 2006
+COMPARUTIONS :
+Représentante de l’appelante :
+Lorraine Cowan
+Avocate de l’intimée :
+Me Suzanne Morin
+AVOCATS INSCRITS AU DOSSIER :
+Pour l’appelante :
+Nom :
+Cabinet :
+Pour l’intimée : John H. Sims, c.r.
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] 60c.2) Remboursement de la pension alimentaire – une somme que le contribuable a payée au cours de l’année ou d’une des deux années d’imposition précédentes, en vertu d’une ordonnance ou d’un jugement rendus par un tribunal compétent, à titre de remboursement d’un montant inclus en application des alinéas 56(1)b) ou c), ou de l’alinéa 56(1)c.1) (tel qu’il s’applique, dans le calcul du revenu du contribuable pour l’année ou pour une année d’imposition antérieure, aux ordonnances ou jugements rendus avant 1993), dans la mesure où elle n’a pas été déduite dans le calcul du revenu du contribuable pour une année d’imposition antérieure;
+[2] Pièce A-4, paragraphe 9.
+[3] ch. R-15.1, r.1, art. 19
+[4] Pièce A-4, paragraphe 31.
+[5] En anglais, j’ai utilisé l’expression « support payments », au lieu du mot « pension » qui apparaît dans la traduction du jugement de 2003, pour éviter toute confusion avec les paiements mensuels versés dans le cadre du régime de retraite. Le mot « pension » est utilisé de façon quelque peu au hasard dans la traduction pour faire référence au fonds de pension qui a été partagé et à la « pension alimentaire », qui correspond aux paiements mensuels que l’ex-époux de l’appelante a versés à celle-ci.
+[6] Pièce A-4, paragraphes 28 et 29.
+[7] Maplesden c. Canada (Ministre du Revenu national), [1997] A.C.F. 1709.
+[8] Pièce A-4, paragraphe 31.

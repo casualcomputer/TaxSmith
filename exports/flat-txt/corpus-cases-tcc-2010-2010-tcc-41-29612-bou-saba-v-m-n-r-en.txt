@@ -1,0 +1,222 @@
+Title: Bou Saba v. M.N.R.
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/29612/index.do
+Corpus path: corpus/cases/tcc/2010/2010-tcc-41-29612-bou-saba-v-m-n-r-en.md
+Document type: case_law
+Last modified: 2010-01-22
+
+# Bou Saba v. M.N.R.
+
+- Citation: 2010 TCC 41
+- Decision date: 2010-01-22
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 6181, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Bou Saba v. M.N.R.
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2010-01-22
+Neutral citation
+2010 TCC 41
+File numbers
+2007-3842(EI)
+Judges and Taxing Officers
+Gaston Jorré
+Subjects
+Employment Insurance Act
+Decision Content
+Docket: 2007-3842(EI)
+BETWEEN:
+MOUNTAHA BOU SABA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CLAUDETTE BERGERON,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+Appeal heard on August 20 and November 5, 2008, at Montréal, Quebec.
+Before: The Honourable Justice Gaston Jorré
+Appearances:
+Counsel for the appellant:
+François De Vette
+Counsel for the respondent:
+Christina Ham
+Counsel for the intervener:
+Guy Lauzon
+____________________________________________________________________
+JUDGMENT
+The appeal under subsection 103(1) of the Employment Insurance Act is dismissed, and the decision of the Minister of National Revenue dated July 13, 2007, is confirmed in accordance with the attached Reasons for Judgment.
+Signed at Ottawa, Canada, this 22nd day of January 2010.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 24th day of June 2010
+Margarita Gorbounova, Translator
+Citation: 2010 TCC 41
+Date: 20100122
+Docket: 2007-3842(EI)
+BETWEEN:
+MOUNTAHA BOU SABA,
+Appellant,
+and
+THE MINISTER OF NATIONAL REVENUE,
+Respondent,
+and
+CLAUDETTE BERGERON,
+Intervener.
+[OFFICIAL ENGLISH TRANSLATION]
+REASONS FOR JUDGMENT
+Jorré J.
+INTRODUCTION
+[1] The appellant, Mountaha Bou Saba, is appealing from a decision of the Minister of National Revenue (the Minister) according to which she did not hold insurable employment from September 29, 2003, to April 9, 2004.
+[2] Article 2085 of the Civil Code of Québec reads as follows:
+A contract of employment is a contract by which a person, the employee, undertakes for a limited period to do work for remuneration, according to the instructions and under the direction or control of another person, the employer.
+[3] The main issue is whether the appellant worked for the intervener during the period in question. Therefore, this is a question of fact.
+[4] The appellant and the intervener, Dr. Claudette Bergeron, testified, as did the appellant's daughter‑in‑law, Taline Bou Karam; the intervener’s former employee Gina Di Cesare; the intervener's spouse, Raffi Kirdi; and the investigator with Service Canada, Human Resources and Skills Development Canada, Daniel Doucet.
+[5] Ms. Bou Karam worked for the intervener, who is a dental surgeon, as a dental assistant before the period at issue. She took maternity leave in February 2003 and later returned to work.
+THE APPELLANT’S POSITION
+[6] According to the appellant, she was the intervener's employee from September 29, 2003, to April 9, 2004.
+[7] During the first month, she cleaned at the dental clinic in the evenings, after hours and prepared meals. She worked about 40 hours per week.
+[8] According to the appellant, after the first month, she only prepared meals, namely, lunch and supper, making enough food to feed five or six people, seven days a week.[1] She performed this work at home, and it took about 40 hours per week.
+[9] The appellant's position is that, during the period at issue, Ms. Bou Karam worked part time for a maximum of five hours per week.
+THE RESPONDENT AND INTERVENER’S POSITION
+[10] The intervener made a voluntary disclosure in 2005, and as a result, the government conducted an investigation.
+[11] The respondent and intervener's position is that the appellant did not work for the intervener from September 29, 2003, to April 9, 2004, that during that period, Ms. Bou Karam worked full time and that the intervener kept double accounts and paid the appellant for most of Ms. Bou Karam's hours of work.
+[12] The intervener acknowledges that she purchased meals from the appellant for her personal consumption during a period that began after April 2004 and ended in September 2004.
+THE EVIDENCE
+The appellant's testimony
+[13] The appellant testified with the help of an interpreter. She said that she spoke very little French, and that, because of this, it was her son Jacques Nicolas and her daughter‑in‑law[2] Ms. Bou Karam who had organized her first meeting with the intervener. In addition, her evidence as well as that of Ms. Bou Karam demonstrated that the appellant always communicated with the intervener through Mr. Nicolas or Ms. Bou Karam.
+[14] That first meeting took place in the intervener's clinic.[3]
+The first month
+[15] According to the appellant, she cleaned at the clinic in the evenings, after hours. She started her work at 7 p.m. and finished at 9 or 9:30 p.m. The only person present during her cleaning was the intervener. She worked five to seven days per week, which works out to 14 or 15 hours of work per week.[4]
+[16] She testified that she had prepared meals for two people[5] during her first month of work and that it took her 25 hours per month. She prepared the meals after cleaning, and it could take her five to six hours.[6]
+After the first month
+[17] According to the appellant, after the first month, she was no longer asked to clean, but rather to prepare lunch and supper every day for six people.[7]
+[18] The appellant's answers varied with regard to the number of people she prepared meals for.[8] Preparing the meals took about 40 hours per week.
+[19] The appellant testified that she prepared the meals between 7 p.m. and midnight or 1 a.m.[9] Later, in cross-examination, she said that she had prepared the meals between 7 a.m. and 12:30 p.m.[10] She brought the lunch and supper meals to the clinic around 12:30 p.m. every day.[11]
+[20] In a statutory declaration[12] dated July 6, 2005, the appellant stated that she had prepared lunch and supper every day for the intervener, the intervener's spouse and the intervener's sister, who worked at the clinic, and that on weekends she prepared larger meals because they were for the intervener's family.
+[21] The appellant stated that she spent $50 to $100 per week on the food that she prepared. The intervener reimbursed her for the food.[13]
+[22] The intervener phoned four or five times per day to tell the appellant what she wanted.[14] Mr. Nicolas or Ms. Bou Karam acted as interpreters and transmitted the information.
+Taline Bou Karam’s testimony
+[23] Ms. Bou Karam was already working for the intervener as a dental assistant before the period at issue.
+[24] She took maternity leave in February 2003. She testified that she knew that the intervener was looking for someone to do cleaning and that she had asked her mother-in-law whether she was interested. The intervener met the appellant at her house and hired her.
+[25] Ms. Bou Karam testified that the intervener phoned her or Mr. Nicolas in the evening to tell them what she wanted for her meals. There were always three dishes.[15]
+[26] Ms. Bou Karam denied that there had been special arrangements, that is, that she worked full time for the intervener, but that it was not reported.
+[27] During the period at issue, she came to work when she was asked to do so, for a half-hour or an hour at a time. This work consisted inputting files in order.
+[28] In her testimony, Ms. Bou Karam said that she had returned to work full time in February 2004.[16] In cross-examination, she agreed that she had been paid part time until April 9, 2004.[17]
+[29] On January 24, 2005, Ms. Bou Karam filed a complaint against the intervener with the Commission de la santé et de la sécurité du travail, in which she stated the following, among other things:
+[Translation]
+I have been working at Clinique Dr Bergeron for two years, and I've always been regular full time at 40 or more hours a week . . . [18]
+Daniel Doucet’s testimony
+[30] Mr. Doucet verified the appellant's employment insurance claim following the intervener's voluntary disclosure.
+[31] He met with the appellant and Mr. Nicolas. On several occasions, Mr. Nicolas replied to the questions instead of his mother. Several times, Mr. Doucet asked Mr. Nicolas to ask his mother the questions, but Mr. Nicolas insisted on replying himself. Although Mr. Doucet wanted to draft the declaration right away, he was unable to do so because Mr. Nicolas had to leave for work. Therefore, he drafted the declaration using his notes and then sent it to the appellant. The declaration was signed by the appellant and faxed back.
+[32] During his investigation, Mr. Doucet spoke, among others, to two former employees of the intervener, Karla Osegueda and Emmanuelle Bertrand. Ms. Osegueda stated that Ms. Bou Karam had returned to work part time in July 2003. She was uncertain whether Ms. Bou Karam had started to work full time in September 2003, but she was certain that Ms. Bou Karam was working full time in December 2003. Ms. Bertrand told Mr. Doucet that Ms. Bou Karam had returned to work part time in July 2003, but she did not remember whether Ms. Bou Karam had started working full time in September or October 2003.
+[33] The benefits claim stated that the appellant did office work.[19]
+[34] Before the intervener's voluntary disclosure, there was no ongoing investigation concerning the appellant.
+Gina Di Cesare’s testimony
+[35] Ms. Di Cesare worked at the intervener's clinic as a secretary and receptionist from November 1996 to June 2007. She worked Monday to Wednesday from 9 or 9:30 a.m. to 7 or 8 p.m. From October 2003 to April 2004, she also worked from 9 or 9:30 a.m. to 2 p.m. on Fridays.
+[36] During Ms. Di Cesare's years of work at the intervener's clinic, the intervener never provided any meals.
+[37] From September 2003 to April 2004, she never saw the appellant or Ms. Bou Karam bring meals.[20] In cross-examination, Ms. Di Cesare acknowledged that Ms. Bou Karam had brought meals, but that had taken place after April 2004 and lasted several months.[21]
+[38] Ms. Di Cesare said that she had never seen the appellant clean in the evening at the clinic.[22] During the period between October 2003 and April 2004, Ms. Di Cesare worked 32 hours per week, and she saw Ms. Bou Karam working during the hours she herself was at work.[23]
+[39] In 2003 and 2004, the accountant for the clinic was Éric Lamarre, and his office was located on the Rive-Sud. The intervener had no sister who worked at the clinic.[24]
+The intervener's testimony
+[40] The intervener testified that at first Mr. Nicolas was a patient. At one point, she suffered serious health problems,[25] which weakened her physically and psychologically, thus making her vulnerable.
+[41] According to the intervener, Mr. Nicolas then exerted pressure on her, among other things, so that she would hire Ms. Bou Karam, which she eventually did.
+[42] Everything involving the working relationship between her and Ms. Bou Karam always went through Mr. Nicolas.
+[43] She testified that, during the period at issue, she never hired the appellant to clean or to prepare meals and that Ms. Bou Karam worked over 40 hours per week.[26] She kept double accounts to make it appear that the appellant worked for her, even though this did not reflect reality.
+[44] According to the intervener, she did that because of the pressure exerted by Mr. Nicolas, who wanted Ms. Bou Karam to continue receiving employment insurance payments while also working.[27]
+[45] Towards the end of 2004, there were more disagreements between the intervener, Ms. Bou Karam and Mr. Nicolas relating to Ms. Bou Karam's job. Mr. Nicolas exerted pressure again.
+[46] The intervener had a surveillance camera with a microphone installed in her clinic. Exhibits V‑10, V‑11 and V‑12 are video recordings made on December 9, 16 and 17, 2004. According to the intervener, the recordings show Mr. Nicolas's habitual behaviour when he came to the clinic to obtain something.[28]
+[47] The videos confirm that Mr. Nicolas exerted pressure on the intervener.
+[48] No one else lived with the intervener and her spouse.
+[49] The intervener testified that she spent around $150 per week on food for her and her spouse and that they ate out regularly. The intervener filed credit card statements in evidence.[29]
+[50] It is clear from the statements that the intervener or her spouse made over 75 payments to restaurants in the Montréal area during the period at issue. The amounts could represent a meal for one or two people as the case may be. In addition, ten payments at restaurants outside Canada and a number of payments for airplane tickets were made. Thus, the intervener, her spouse or both of them went out to eat many times.
+[51] The intervener bought meals from the appellant starting in April 2004. She paid $10 a day for lunch and supper only for herself usually during the week and occasionally on weekends. When she started purchasing meals, her spouse was abroad on business. The intervener received three dishes from Ms. Bou Karam.[30] When she no longer wanted meals, she had difficulty putting an end to their delivery.
+Raffi Kirdi's testimony
+[52] Mr. Kirdi is the intervener's spouse. They have no children.
+[53] Mr. Kirdi testified that he had not eaten any food prepared by the appellant. He said that he was Lebanese of Armenian origin and that he did not like Arab Lebanese cuisine.
+[54] He is a photographer and often travels on business. When he is in Montréal, he helps out at the clinic, among other things, by doing the cleaning, but not in the operating rooms, which are cleaned by the dental assistants.
+ANALYSIS
+[55] I do not accept the appellant's evidence. Her claims are not probable. However, I accept the intervener's testimony. Several reasons have led me to this finding, including the following:
+(a) In her testimony, the appellant said that she provided two meals per day for four to six people every day after her first month of work. She mostly spoke of five to six people, which would add up to 70 to 84 meals per week. Considering that there were only the intervener and her spouse to eat those meals, that quantity of food makes no sense, even without taking into account that the intervener, her spouse or both of them ate out from time to time and that the spouse travelled occasionally.
+(b) In addition, that number of meals cannot be reconciled with the appellant's statutory declaration, in which she stated that she had prepared meals for three people, namely, the intervener, her spouse, and the intervener's sister who worked at the clinic as an accountant.
+(c) The intervener had no sister who worked at the clinic. One of her sisters worked in technical accounting and lived in St-Sauveur, another lived in St-Jérôme, and a third lived in the Montréal area, but did not really keep in touch with the intervener.[31]
+(d) It is not credible that $50 to $100 per week would be enough to buy food to prepare 70 to 84 meals per week.
+(e) The appellant did not seem certain of the time when she prepared the meals. She said that she spent five to six hours per day every day of the week over several months preparing the meals in question. Despite this fact, at one point, her testimony indicated that she started working at 7 p.m. and at another time, that she started at 7 a.m.
+(f) I accept Ms. Di Cesare's testimony, according to which she has never seen the appellant cleaning and has never seen meals delivered during the period at issue.
+(g) The credit card statements confirm that the intervener, her spouse or both of them ate out over 75 times during the six-month period in question.
+(h) The appellant's testimony, according to which her first meeting with the intervener took place at the clinic contradicts Ms. Bou Karam's testimony, according to which the first meeting took place at the intervener's home.
+[56] Therefore, I find that the appellant did not work for the intervener during the period at issue.[32]
+CONCLUSION
+[57] Consequently, the appeal will be dismissed.
+Signed at Ottawa, Canada, this 22nd day of January 2010.
+"Gaston Jorré"
+Jorré J.
+Translation certified true
+on this 24th day of June 2010
+Margarita Gorbounova, Translator
+CITATION: 2010 TCC 41
+COURT FILE NO.: 2007-3842(EI)
+STYLE OF CAUSE: MOUNTAHA BOU SABA v. M.N.R. and CLAUDETTE BERGERON
+PLACE OF HEARING: Montréal, Quebec
+DATES OF HEARING: August 20 and November 5, 2008
+REASONS FOR JUDGMENT BY: The Honourable Justice Gaston Jorré
+DATE OF JUDGMENT: January 22, 2010
+APPEARANCES:
+Counsel for the appellant:
+François De Vette
+Counsel for the respondent:
+Christina Ham
+Counsel for the intervener:
+Guy Lauzon
+COUNSEL OF RECORD:
+For the appellant:
+Name: François De Vette
+Firm: Boucherville, Quebec
+For the respondent: John H. Sims, Q.C.
+Deputy Attorney General of Canada
+Ottawa, Canada
+For the intervener:
+Name: Guy Lauzon
+Firm: Lauzon Avocats inc.
+Montréal, Quebec
+[1] However, the appellant's testimony with respect to the number of days varies. See below.
+[2] Married to Jacques Nicolas's brother.
+[3] Transcript from August 20, 2008, question 13.
+[4] Ibid., questions 21 and 92 to 101. The appellant first answered that she had worked seven days per week and then changed her answer.
+[5] Ibid., question 19.
+[6] Ibid., question 22. If the appellant came home at 9:45 p.m. and worked for, let us say, five and a half hours, mathematically that would mean that she finished preparing the meals after 3 a.m.
+[7] Ibid., questions 244 to 246, and 325 and 326.
+[8] Ibid., for example, at question 19 (four or five people), at question 55 (six people), at question 141 (six people) and at question 243 (six people).
+[9] Ibid., question 65.
+[10] Ibid., question 128.
+[11] Ibid., questions 138 to 141. On Saturdays and Sundays, she brought the meals to the clinic.
+[12] Exhibit I-1.
+[13] Transcript form August 20, 2008, questions 142 and 143.
+[14] Ibid., question 64.
+[15] Ibid., questions 447 to 451.
+[16] However, the payroll journal prepared by Ceridian (Exhibit V-4) at the time – that is, before the intervener's voluntary disclosure – indicates that Ms. Bou Karam worked five hours or less per two-week period until April 9, 2004.
+[17] Transcript from August 20, 2008, questions 603 to 605.
+[18] Exhibit V-7.
+[19] See also Exhibit I-1, in which the appellant stated the following:
+[Translation] “My son indicated that I worked as an office clerk because there was no term for housekeeping.”
+[20] Transcript from August 20, 2008, question 805. Although Ms. Di Cesare did not eat at the clinic, I am satisfied that, over a six-month period, she would have seen meals being delivered, had they been delivered.
+[21] Ibid., questions 845, 848 to 860, and 913 to 929, and Exhibit A-3.
+[22] Ibid., questions 869 to 876.
+[23] Ibid., questions 890 to 908, and 959 to 964.
+[24] Ibid., questions 930 to 946. See also paragraph 55(c) below.
+[25] Exhibit V-8.
+[26] Transcript from August 20, 2008, questions 1,003 to 1,011 and 1,128 to 1,129.
+[27] Ibid., questions 1,015 to 1,024. Exhibit V-6 indicates the actual hours of work according to the intervener.
+[28] Ibid., questions 1,092 to 1,098.
+[29] Exhibit V-13.
+[30] Transcript from August 20, 2008, questions 1,393 to 1,427.
+[31] Ibid., questions 1,362 to 1,371.
+[32] A secondary question arises: presuming the appellant did work for the intervener, would it have been under a contract of service or a contract of enterprise or for services? In view of my finding, it is not necessary to answer that question.

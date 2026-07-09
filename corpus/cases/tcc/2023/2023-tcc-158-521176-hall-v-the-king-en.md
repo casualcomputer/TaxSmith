@@ -1,0 +1,213 @@
+---
+title: "Hall v. The King"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/521176/index.do"
+last_modified: "2023-05-15"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2023 TCC 158"
+citation2: ""
+neutral_citation: "2023 TCC 158"
+decision_date: "2023-05-15"
+language: "en"
+item_id: "521176"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 5696
+raw_text_field: "unofficial_text_en"
+raw_url_field: "url_en"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2024-07-13T11:11:43.656000+00:00"
+cases_cited_count: 2
+cases_citing_count: 0
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "54d7f0c9ff4220cf02f844202503970be83c3b15315aa38398e5f0400bfc4abf"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Hall v. The King
+
+- Citation: 2023 TCC 158
+- Decision date: 2023-05-15
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 5696, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Hall v. The King
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2023-05-15
+Neutral citation
+2023 TCC 158
+File numbers
+2021-338(GST)I
+Judges and Taxing Officers
+Randall S. Bocock
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Dockets: 2021-338(GST)I
+2020-2295(IT)I
+BETWEEN:
+MICHAEL HALL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+Appeals heard concurrently on May 15, 2023,
+at St. John's, Newfoundland and Labrador with
+follow-up submissions received August 17, 2023.
+Before: The Honourable Mr. Justice Randall S. Bocock
+Appearances:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+James Whittier
+JUDGMENT
+WHEREAS the Court has published its reasons for judgment on this date.
+NOW THEREFORE THIS COURT ORDERS THAT:
+The appeals in relation to Notices of Assessment numbers 5858901, 5858934 and 5858822 all dated August 27, 2019, relating to directors’ liabilities under section 227.1(1) of the Income Tax Act and section 323 of the Excise Tax Act, respectively, are dismissed; and
+There shall be no costs.
+Signed at Ottawa, Canada, this 16th day of November 2023.
+“R.S. Bocock”
+Bocock J.
+Citation: 2023 TCC 158
+Date: 20231116
+Dockets: 2021-338(GST)I
+2020-2295(IT)I
+BETWEEN:
+MICHAEL HALL,
+Appellant,
+and
+HIS MAJESTY THE KING,
+Respondent.
+REASONS FOR JUDGMENT
+Bocock J.
+I. INTRODUCTION [1] These appeals relate to 3 assessments against Michael Hall (“Mr. Hall”) on account of director’s liability. Two are levied under section 227.1 of the Income Tax Act (“ITA”), for unremitted source deductions, and one under subsection 323(1) for uncollected net GST payable under the Excise Tax Act (“ETA”).
+[2] Mr. Hall has not challenged the tax owing under the ITA or ETA by the actual taxpayer, Eastern Restoration Limited. (“ERI”). Mr. Hall also concedes he was a director of ERI during the relevant periods.
+[3] Similarly, there is no challenge to the Minister’s proof of the two tranches of the uncollected debt under the ITA and one under the ETA, of which the principal, penalties and interest portions are $5,891.31, $3,917.54 and $21,056.00, respectively. The arrears concern payroll periods January to December 2010 and the same 12 months in 2011. Almost all of the entire amounts assessed were due to the Crown in the 2010 period.
+[4] Mr. Hall asserts due diligence defences under the materially identical provisions of the ITA and ETA.
+II. FACTS [5] Mr. Hall is a full-time firefighter. He had undertaken secondary businesses beyond that vocation for some time. In doing so, he had previously acted as a director of a company. His secondary work from 2008 to 2011 involved managing restoration and renovations through contracts with property loss liability insurers in Newfoundland and Labrador. The operating company was a local renovator, 55668 Newfoundland & Labrador Ltd., c.o.b. as Paul Davis Systems Newfoundland (“556 Ltd.”). Related roofing repairs were completed by a related company, Canadian Roofing Solutions Inc.(“Canadian Roofing”).
+[6] 556 Ltd. was a licensed user of the “Paul Davis Systems” trade name and other intellectual property. Mr. Hall streamed his part of remuneration for such services entirely through ERI. On that basis, he billed his personal renovating consulting services through ERI to 556 Ltd. He testified that ERI had no other employees, its primary reasons for existence was for “the tax implications” of his service fees. In essence, ERI’s only role was to receive Mr. Hall’s invoiced remuneration from 556 Ltd. (and Canadian Roofing) and then pay it to him.
+[7] The last quarter of 2009 spelled big trouble for 556 Ltd. By early 2010, Paul Davis Systems, the licensor, ejected 556 Ltd. from its premises, changed the locks, seized the renovation consulting business and ultimately found a new franchisee.
+[8] Mr. Hall did not simply roll over. He commenced intensive, and what turned out to be, protracted litigation against assorted defendants in the Superior Court of Newfoundland and Labrador. The parties involved were all the persons involved in the operations of “Paul Davis Systems”, both before the lockout and during Mr. Hall’s management, and anyone else responsible for exercising, triggering or receiving the franchisor’s “rights”. This includes the assignee to whom the franchisor transferred the rights to use Paul Davis Systems in Newfoundland and Labrador.
+[9] The claims and cross-claims include a full legal lexicon of property rights: conspiracy, conversion of goods, economic loss by unlawful means, unjust enrichment, breach of duty of good faith and debt collection for royalties and franchise fees.
+[10] At the hearing, Mr. Hall did not have a copy of the decision or its citation. He also had no copies of the CRA release letters concerning his director’s liability for 556 Ltd. and Canadian Roofing. He did insist they were relevant and would assist the Court in its deliberations. On consent, he filed and served those documents subsequently. Thereafter, the Respondent filed further submissions. The Court is now in a position to conclude its reasons and decide the appeals.
+The Litigation
+[11] The Paul Davis Systems franchise issues were tried before the Superior Court of Newfoundland and Labrador. The trial took 27 days and stretched over 19 months because of the COVID-19 pandemic. The decision of Justice Knickle yields certain conclusions by that Court in a 98-page decision issued August 1, 2022: 55668 Newfoundland and Labrador Limited v Sullivan, 2022 NLSC 127. Those conclusions may be summarized as follows:
+a) there was no unilateral “winner” in the litigation. At the end of the day, the net amount payable to Mr. Hall was approximately $85,000. A conversion of property of 556 Ltd. and the wrongful retention of funds occurred, on one hand, but was set-off against outstanding royalties and license fees on the other.
+b) 556 Ltd. was insolvent by late 2009, but Mr. Hall did not recognize such a state.
+c) on January 22, 2010, the franchisor changed the locks, hampering Mr. Hall’s access to 556 Ltd.’s premises.
+d) although Mr. Hall did not have access to the books and records of 556 Ltd., he still maintained input and direction and, as found by the Court, executed the lease assignment to the new franchisee and was also capable of exercising control.
+e) he also signed various cheques drawn on 556 Ltd.’s account from January through March 2010 and maintained input and control over certain funds and who was paid from same to a point in March, 2010.
+f) there were actual disputes in early 2010 about which creditors ought to be paid, with specific identification by others to Mr. Hall of the liabilities to the Crown for statutory remittances and HST.
+g) there was little evidence to suggest that the payment of creditors by the new franchisee would have benefited 556 Ltd., if handled differently.
+Director’s liability assessments of 556 Ltd and Canadian Roofing
+[12] Upon its receipt post-hearing, the Court reviewed the CRA’s correspondence regarding HST and statutory remittances for the operating companies. In 2014, the Minister assessed Mr. Hall as a director of Canadian Roofing and 556 Ltd. for their unremitted source deductions. By way of example, this included the following amounts concerning Canadian Roofing:
+Company
+Date
+Statutory Provision
+Amount
+Canadian Roofing
+December 9, 2014
+301(3) ETA
+27,053.90
+Canadian Roofing
+December 9, 2014
+165(3) ITA
+79,806.63
+[13] Mr. Hall contested those assessments in 2016 through submissions concerning his director’s liability for 556 Ltd. Canadian Roofing. Mr. Hall was adamant that this Court review those situations because it is evidence of the circumstances which hampered any remedy of default in payment.
+CRA’s release of Mr. Hall re. 556 Ltd.
+[14] The Minister released Mr. Hall from such liabilities. The CRA absolved Mr. Hall of his vicarious director’s liability for the unremitted source deductions and GST for these two primary operating companies: 556 Ltd. and Canadian Roofing Solutions Inc. (“Canadian Roofing”).
+[15] The release letter is considered, deliberate and fulsome. It concludes with the following statement [the relevant amounts are added in square parentheses for completeness reflecting the CRA’s exoneration concerning director’s liability for 556 Ltd.]:
+The basis of your objection is that you made sufficient effort as the director of the company to anticipate financial shortcomings in the business before, during and following the life of Canadian Roofing Solutions Inc. and circumstances beyond your control prevented you from satisfying the outstanding balance on the company’s GST/HST account.
+A review of the facts and documents indicates that you have demonstrated that you exercised a degree of care, diligence and skill required for the due diligence defence pursuant to subsection 323(3) of the Excise Tax Act [and pursuant to subsection 227.1(3) of the Income Tax Act] in regard to failure to remit an amount of next tax payable by Canadian Roofing Solutions Inc. in the amount of $27,053.90 [and $79,806.63 for 556 Ltd.]. As a result, memo assessment 2926912 [and 2926928] will be reversed.
+[16] The periods relevant to these released directors’ liabilities are not entirely clear, however most likely they roughly coincided with the periods for which the Minister seeks to collect the unremitted ITA source deductions and GST owing from Mr. Hall concerning ERI.
+III. THE LAW
+[17] The due diligence defences relied upon by Mr. Hall may be summarized as follows:
+A director is not liable for a failure under subsection (1) where the director exercised the degree of care, diligence and skill to prevent the failure that a reasonably prudent person would have exercised in comparable circumstances.[1]
+[18] What has the director failed to do? If under the ITA, it is the company’s failure to retain the deductions at source from employees’ remuneration, or that it retained the amounts but failed to pay them to the Crown. If under the ETA it is net GST (or HST) which has not been paid.
+[19] The cases of Buckingham (in relation to the ITA) and Balthazard (in relation to the ETA), both rendered in the same year [2] by Justice Mainville in the Federal Court of Appeal, are the genesis of, and continue to summarize well, the modern, slightly restated approach to directors’ liability appeals.
+[20] The initial flavour of that taste is sampled in Buckingham at paragraphs 40, 52 and Balthazard at paragraphs 50 and 51:
+Firstly, from Buckingham:
+[40] The focus of the inquiry under subsections 227.1(3) of the Income Tax Act and 323(3) of the Excise Tax Act will however be different than that under 122(1)(b) of the CBCA, since the former require that the director’s duty of care, diligence and skill be exercised to prevent failures to remit. In order to rely on these defences, a director must thus establish that he turned his attention to the required remittances and that exercised his duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts.
+[52] Parliament did not require that directors be subject to an absolute liability of their corporations. Consequently, Parliament has accepted that a corporation may, in certain circumstances, fail to effect remittances without its directors incurring liability. What is required is that the directors establish that they were specifically concerned with the tax remittances and that they exercised their duty of care, diligence and skill with a view to preventing a failure by the corporation to remit the concerned amounts.
+Secondly, from Balthazard3[3] :
+[50] In fact, to exempt themselves from liability by means of a care, diligence and skill defence, directors must establish that they took the appropriate actions in a timely manner to limit the amounts at risk for the tax authorities as tax deductions or GST‑related net tax remittances. A reasonably prudent director facing the imminent bankruptcy of his or her corporation would take the appropriate actions to minimize the tax authorities’ losses. Although each case turns on its own facts and must be analyzed in light of all of the relevant circumstances, the more a business falls behind in making its tax remittances, the more difficult it is to argue that the business is not using the sums owing to the tax authorities to finance its activities. Therefore, it is important for directors to quickly make the necessary decisions if they wish to successfully mount a due diligence defence against their joint and several, or solidary, liability.
+IV. THE ISSUES
+The issues may be identified as follows:
+(i) Did Mr. Hall take actions in a timely manner to limit the failures and were those actions sufficient in the circumstances to rise to the objective standard of a reasonably prudent person?; and,
+(ii) In conclusion, has the due diligence threshold been met?
+The positions of the Parties
+(i)The Appellant
+[21] Mr. Hall points to his actions concerning the 556 Ltd. litigation, the observations of the Superior Court of Newfoundland and Labrador and the previous conclusions of the CRA concerning the derivative assessments he faced for 556 Ltd. and Canadian Roofing because those assessments were vacated and so should these related assessments for ERI.
+[22] Moreover, he asserts that the January 22, 2010 “lock out” was an additional circumstance otherwise impeding a more tangible effort, demonstrable actions and observable result of his attempts to pay the arrears.
+(ii)The Respondent
+[23] Respondent’s counsel trains focus on the reasonably prudent person standard, which reveals no evidence to prevent or rectify the failure to remit, once known. Mr. Hall was experienced and sophisticated, failed to contact CRA regarding the failures, never altered his director’s status and was passive in directly addressing the failures to remit. In the final analysis, the long-term litigation was a “bet” which Mr. Hall lost.
+[24] Further, the Respondent has argued that the CRA releases of vicarious director’s liability for 556 Ltd. and Canadian Roofing are immaterial to the liability of ERI because the releases:
+(i) relate to a different “time period” and circumstances;
+(ii) involve different corporations and essentially different businesses.
+[25] As well, the Respondent argues that the 556 Ltd. decision of the Newfoundland and Labrador Superior Court found:
+(i)the Appellant maintained some control of the accounting records or financial decisions of 556 Ltd.
+(ii)was able to attend the premises;
+(iii)made some business decisions;
+(iv)had access, albeit delayed, to the financial records; and
+(v) that the assertion of “no control” over what happened to 556 Ltd. or Canadian Roofing was incorrect.
+A “lock out” is obviously a different fact set
+[26] The majority of appeals before this Court where a due diligence defence is asserted rarely involve:
+a change of locks against an owner who has a “colour of right” to occupy the operating business premises;
+a “live fire” war between franchisors and franchisees of a business, or
+a protracted, extensive assertion of property and civil rights in the highest trial courts that may hear them: superior courts of inherent jurisdiction in the provinces.
+Are such circumstances concerning 556 Ltd. and Canadian Roofing relevant to ERI such to confound pronounced reasonable efforts to prevent default and take remedial action?
+[27] The CRA may well have considered the lock out and resulting lengthy litigation to be relevant circumstances, and reasonably prudent steps (or impeding such reasonable steps) to prevent and remediate the accrued remittance arrears of 556 Ltd. and Canadian Roofing. One can see that point in those circumstances. The operating assets generating income to pay the amounts owing by 556 Ltd. and Canada Roofing were seized by someone other than a director, worse case, and constrained and redeployed to a third party, in the best case. On balance, this is plausible and Mr. Hall was relieved of his obligations by virtue of a due diligence defence for the arrears of those two operating companies in 2010 and 2011.
+[28] Factually, ERI is a difficult kettle of fish. Its sole purpose was to receive, as a conduit, remuneration paid by 556 Ltd. and Canadian Roofing to Mr. Hall. Mr. Hall, as sole director, would then, as a director and officer of ERI, take those funds as received and pay himself, presumably less the statutory withholdings and HST collected. If nothing was paid by 556 Limited or Canadian Roofing to ERI, then what could be paid to Mr. Hall by ERI? Consequently, what then could be owing to the Crown? For “tax implications”, as Mr. Hall stated, he would receive remuneration as invoiced, pay himself and all would be well. But, he skipped a step.
+[29] Omitted from Mr. Hall’s testimony, is why in response to the Crown’s assumptions, he did not separate, retain and remit the withholdings to the Crown when he, and no one else, was solely and exclusively responsible to pay himself and remit the remainder to the Crown. If he had simply paid the Crown contemporaneously with himself from the appropriate portion received from ERI, there would be no assessments for directors’ liabilities. He was not reasonably prudent enough to do so.
+[30] Mr. Hall was not a new business owner or novice director. Given his education, experience, and own admission that he needed to do so, there is no evidence that he took any steps concerning ERI’s debt to the Crown to prevent its arrears or, once known, correct the payment deficiency. The litigation referenced did not involve ERI. ERI had no assets to constrain, no lease to distrain or business to appropriate. ERI’s sole business was to collect the fees of Mr. Hall and pay them to him. It did so to the exclusion of the Crown despite having received the withholdings and GST collectible when it got paid by 556 Ltd. and/or Canadian Roofing. There no circumstance justifying that slippage betwixt hand and mouth.
+[31] He is liable for the unremitted amounts and the appeals are dismissed. There shall be no costs.
+Signed at Ottawa, Canada, this 16th day of November 2023.
+“R.S. Bocock”
+Bocock J.
+CITATION:
+2023 TCC 158
+COURT FILE NOS.:
+2021-338(GST)I
+2020-2295(IT)I
+STYLE OF CAUSE:
+MICHAEL HALL v. HIS MAJESTY THE KING
+PLACE OF HEARING:
+St. John's, Newfoundland and Labrador
+DATE OF HEARING:
+May15, 2023
+REASONS FOR JUDGMENT BY:
+The Honourable Mr. Justice Randall S. Bocock
+DATE OF JUDGMENT:
+November 16, 2023
+APPEARANCES:
+For the Appellant:
+The Appellant himself
+Counsel for the Respondent:
+James Whittier
+COUNSEL OF RECORD:
+For the Appellant:
+Name:
+The Appellant himself
+Firm:
+N/A
+For the Respondent:
+Shalene Curtis-Micallef Deputy Attorney General of Canada Ottawa, Canada
+[1] Subsection 227.1(3) of the ITA. A similar, but not identical, provision is found in subsection 323(3) of the ETA.
+[2] Buckingham, paras. 33, 40 infra, 45-46, 49, 52 infra, and 56. The principles enunciated in Buckingham are summarized in Balthazard v. The Queen, 2011 FCA 331, para.
+[3] Balthazard v. The Queen, 2011 FCA 331 para. 50.

@@ -1,0 +1,157 @@
+Title: Eirikson v. The Queen
+Source: https://decision.tcc-cci.gc.ca/tcc-cci/decisions/en/item/30640/index.do
+Corpus path: corpus/cases/tcc/2011/2011-tcc-562-30640-eirikson-v-the-queen-en.md
+Document type: case_law
+Last modified: 2011-12-09
+
+# Eirikson v. The Queen
+
+- Citation: 2011 TCC 562
+- Decision date: 2011-12-09
+- Court: Tax Court of Canada
+- Language: en
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7134, field `unofficial_text_en`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Eirikson v. The Queen
+Court (s) Database
+Tax Court of Canada Judgments
+Date
+2011-12-09
+Neutral citation
+2011 TCC 562
+File numbers
+2011-96(GST)I
+Judges and Taxing Officers
+Theodore E. Margeson
+Subjects
+Part IX of the Excise Tax Act (GST)
+Decision Content
+Docket: 2011-96(GST)I
+BETWEEN:
+LARRY AND SUSAN EIRIKSON,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+____________________________________________________________________
+Appeal heard on October 19, 2011, at Ottawa, Canada.
+Before: The Honourable Justice T.E. Margeson
+Appearances:
+For the Appellants:
+Larry Eirikson
+Counsel for the Respondent:
+Shane Aikat
+____________________________________________________________________
+JUDGMENT
+The appeal from the assessment made under the Excise Tax Act, notice of which is dated August 24, 2009, and bears number 09104001012320032, for the period from March 7, 2008 to December 31, 2008, is dismissed, and the Minister’s assessment is confirmed.
+Signed at Ottawa, Canada, this 9th day of December 2011.
+“T.E. Margeson”
+Margeson J.
+Citation: 2011 TCC 562
+Date: 20111209
+Docket: 2011-96(GST)I
+BETWEEN:
+LARRY AND SUSAN EIRIKSON,
+Appellants,
+and
+HER MAJESTY THE QUEEN,
+Respondent.
+REASONS FOR JUDGMENT
+Margeson J.
+[1] This is an appeal from an assessment of the Minister of National Revenue (the “Minister”) under the Excise Tax Act (the “Act”) for the period from March 7, 2008 to December 31, 2008, notice of which is numbered 09104001012320032 and dated August 24, 2009. By that assessment, the Minister assessed the Appellants in respect of a Goods and Services Tax (“GST”) return for the reporting period referred to above, in the amount of $6,866.67, as well as interest in the amount of $100.92 and disallowed input tax credits claimed by the Appellants.
+Evidence
+[2] Larry Eirikson testified that he registered for GST in the year 2008 and received a GST number. He referred to the Reply to the Notice of Appeal, paragraph 7, and agreed with all of the presumptions with the exception of subparagraphs h), j), k) and l) as well as the presumptions in paragraphs 8 and 9.
+[3] He agreed that the amount in issue is $6,866.67.
+[4] At issue in this appeal is the claim for an input tax credit related to the purchase of a yacht used by the Appellants in a charter enterprise during the relevant period of time.
+[5] He said that there was no personal use of the yacht in question since 2008. The boat was anchored over eight hours away from his residence. The Appellants signed a contract for its use and if they are going to use it personally, they must advise the management company, Canadian Yacht Charters (“CYC”) of their intention and must pay for its use.
+[6] The way that they entered into this charter business was standard in the industry. They have been chartering with the same company since the year 2000.
+[7] He identified Tab 1 of Exhibit R-1 as the agreement that he and his wife signed with CYC. By the terms of this agreement, he pays 50% of the fees earned to CYC.
+[8] Between 2000 and 2008, the Appellants have owned two different yachts. Both were financed and they made monthly payments on them and sometimes paid a lump sum at the end of the year against the interest.
+[9] On the present boat, they paid $13,795 interest in the 2009 taxation year.
+[10] They financed $206,019.48 for the second boat at 3.25% interest. They have been unable to reduce the interest payments below $13,000 per year.
+[11] The rental season runs from May 1 to October 21 but the prime season is during the summer holidays with occasional rentals in May, September and October. The yacht has a furnace and full enclosure.
+[12] The witness identified Exhibit R-2 which was the statements of income and expenses for the yacht.
+[13] The history of rentals for the yacht in question showed only one rental in May and none in October. It was never booked for all of September. Occasionally it was booked for two weeks in September but normally only for one week.
+[14] Between the years 2000 and 2010, there has never been a profit on the operations.
+[15] He indicated that the most accurate information was contained in the income tax returns. Some of the expenses were not covered by the charter company and were paid for by the Appellants.
+[16] He testified as to the projections that he made for the business in the year 2009 as set out in Tab 5 of Exhibit R-1. Interest was not included in the projections.
+[17] He agreed that to meet the projected income of $42,800, as found in Exhibit R-1 at Tab 5, for the year 2011, the boats would have to be fully booked for July and August and for two weeks in September and October. Even with the new boat, they were never fully booked in July and August and they never had the additional two weeks in June and September. He agreed that the interest payments were prohibiting them from making a profit. If they were able to pay down the principal, they could make a profit. He agreed that the first boat lost 34% of its value in ten years and that yachts never appreciate in value over time. The net worth of the new boat was between $150,000 to $160,000. This must be considered.
+[18] In re-direct, he said that his projections were based on the economy at the time they were made.
+[19] They considered paying down the debt and making a profit but they did not get around to doing it.
+[20] The Respondent called Jina Choi who was a litigation officer for Canada Revenue Agency (“CRA”). She had a personal knowledge of this case. She identified the internet filings of the Appellants and the T1 taxation returns were accepted into evidence. The figures shown in Tab 3 of Exhibit R-1 were extracted from the financial data report and they are current.
+[21] She identified Tab 13 of Exhibit R-1 which was a graph showing the income trends of the Appellants over ten years.
+[22] In cross-examination, she said that she worked on this file since May of 2011. She had no experience with the charter business.
+[23] She indicated that Tab 8 of Exhibit R-1 contained no data since there was a paper filing which was accepted as filed. Only the GST return was audited. She did not know why.
+[24] In completing the graph at Tab 13 of Exhibit R-1, she did not take into account capital cost allowance (“CCA”). In the year 2007 without a consideration of CCA, there would have been a profit.
+Argument on behalf of the Respondent
+[25] In written and oral argument, counsel for the Respondent admits that the Appellants had some experience with boats and yachts but even if you remove CCA from the equation, this enterprise would be in a loss position except for a small profit of $715 in 2005.
+[26] The Appellants have been operating the same business since 2000 except for the purchase of the new yacht. As in the case of Canadian Dredge and Dock Company Limited v. The Minister of National Revenue, 81 DTC 154, we should look at the profit and loss positions since its inception. By looking at the graph, you can see that interest is constantly knocking out the profit. The business is “too highly leveraged” to be able to reasonably return a profit. In spite of nearly ten years of consecutive losses, there has been no change instituted that could turn it around. There is no reasonable expectation of profit here. Therefore, it cannot constitute a commercial activity and therefore under section 169 of the Act, the Appellant would not be entitled to claim an input tax credit on the purchase of the yacht.
+[27] When the Appellants purchased the second boat they had all of the information about income, expenses and particularly the interest factor. The Appellants should have known that the business could not have been carried on with a “reasonable expectation of profit” (R.E.O.P.), and therefore it could not constitute a commercial activity.
+[28] The projections that the Appellants made were unrealistic mathematically and there was no R.E.O.P. according to the financial data. The Appellants’ share of the revenue was not enough to cover the operational expenses. The situation here is akin to that described in Stacey v. Canada, [1997] 2 C.T.C. 2703 and Dinnall v. R., [1996] 3 C.T.C. 2647.
+[29] Counsel argued that in a GST case the Moldowan[1] test may be used to determine R.E.O.P. because as indicated in Bowden v. Canada, 2011 FCA 218, the Court indicated that “. . . the entitlement of a taxpayer to input tax credits does not depend upon whether the taxpayer has paid GST in relation to a “business”. Rather, it depends upon whether the taxpayer has paid GST in relation to a “commercial activity”.
+[30] Here the taxpayer has moved beyond the reasonable start-up period and there was no R.E.O.P.
+[31] With respect to the taxpayers’ intention here, it is necessary to show an objective intention to pay down the debt in order to have a R.E.O.P. and this was not done. There was no realistic plan to reduce the debt shortly after the purchase to allow a profit. Here there was no meeting of the burden by the taxpayer (see Klotzin v. Canada., [2000] 3 C.T.C. 2074).
+[32] The kind of seasons that were enjoyed by the taxpayers did not allow enough income to make a profit. Only operational expenses could be paid even when the yacht was fully booked during July and August. The profit projections did not include the payment of interest and were related to principal only.
+[33] At some point, the taxpayer must take depreciation into account.
+[34] The appeals should be dismissed.
+Argument on behalf of the Appellants
+[35] The Appellants argued that there was no personal use of the yacht and therefore there could be no disallowance on that basis.
+[36] There was a business and a source of income. The Appellants hired a management company to promote the business and invest funds into it to ensure its long-term viability. The Respondent’s counsel has admitted that there was a business and if it were a business then R.E.O.P. does not apply because it is not a personal endeavour. There is no personal factor.
+[37] As can be seen at Tab 12 of Exhibit R-1, there was a profit in 2005 if you take out CCA. In 2008, if a new vessel had not been purchased there would have been a profit.
+[38] Based upon near profit levels in 2008 and upon advice received from consultants, it was a good idea to have a new boat.
+[39] CCA is an accounting entry and not cash. In 2005 and 2007, there was a profit or near profit situations without considering CCA. They paid down the principal by $16,000.
+[40] The first boat reached profitability in 2005. The age of the boat and maintenance costs caused them to change boats.
+[41] In 2008, they had to put $4,000 of new equipment on the boat due to regulations. In 2010, they had an unusual expense in replacing a lost dinghy and repairs that were not covered by the seller due to a bankruptcy.
+[42] In 2008 and 2009, all expenses incurred were standard items that were required for the charter season. The expenses made in 2009 were more typical expenses than those made in 2008 when the boat was purchased.
+[43] The prediction made should have been achieved in five years and were not due to changes in the business. This is a risk of the business.
+[44] The business was the same between 2000 and 2008 but they made changes to increase the income stream by changing the rate from $2,500 per week to $3,700 per week.
+[45] The Appellants dispute the Respondent’s argument that it was unreasonable for them to go into the charter business because many others are in it and it brings in a lot of money.
+[46] In re-direct, counsel for the Respondent pointed out that the requirements are not the same as under the Income Tax Act. R.E.O.P. is still a requirement under the GST legislation.
+[47] You cannot have a business for GST purposes without considering R.E.O.P. Counsel did not concede that he referred to the operation as a “business”. One must consider the definition in the statute.
+[48] The Appellants said that they reduced debt by $16,000 over two years but they obviously did not reduce it enough to get a R.E.O.P. within a few years of acquiring the property. The spreadsheets should have been based upon the real expenses and not just the receipts.
+[49] It is not enough just to take into account the interest expense alone. One must consider all of the operating expenses.
+Analysis and Decision
+[50] It was clear from the evidence and argument of the Appellants that because of an article he had read he believed that R.E.O.P. had no place in the consideration as to whether he was entitled to claim the input tax credit which he seeks. From that article, he concluded that since there was no personal use of the yachts and since the Minister’s solicitor had accepted that he was “running a business”, then one had only to consider whether he operated it in a businesslike way.
+[51] The Court is not satisfied that when counsel for the Respondent discussed the Appellants’ “business” that he meant anything more than an “enterprise” or “undertaking” or activity.
+[52] In any event, the Court is satisfied that the Moldowan principle is still good law and that R.E.O.P. as discussed in that case is a proper consideration when considering the right of the Appellants here to an input tax credit under the provisions of the Excise Tax Act.
+[53] In this case, as in Bowden, the Stewart[2] and Walls[3] limitation does not assist the Appellants. That case clearly indicates that “. . . the entitlement of the taxpayer to input tax credits does not depend upon whether the taxpayer has paid GST in relation to a “business”. Rather, it depends upon whether the taxpayer has paid GST in relation to a “commercial activity”.
+[54] In this context, the phrase “commercial activity” does not bear its ordinary meaning. It is specifically defined for GST purposes to mean a business that is carried on with a reasonable expectation of profit (see the definition in the Act). This definition implicitly recognizes that a business may exist without a reasonable expectation of profit but it states that a business without a reasonable expectation of profit is not a “commercial activity”.
+[55] The Court is satisfied that under the circumstances of this case, the operation was too highly leveraged to be able to reasonably return a profit.
+[56] As argued by counsel for the Respondent, this operation was carried on with over ten years of consecutive losses. During that period of time, the Appellants did very little to turn things around except that they purchased a new yacht with greater capabilities and changed their fee structure to earn more income. However, neither of these changes resulted in any significant change in the bottom line.
+[57] By looking at the spreadsheet and the graph located at Tab 13 of Exhibit R-1 introduced into evidence, it is clear that the business has suffered continuous losses since 2000. When the CCA charge is removed, there is still a loss situation except in 2005 when there would have been a small profit of $715.
+[58] It is clear from the graph that the Appellants have not been realizing a profit because of the interest charges. Without some substantial reduction in the interest charges, there is no R.E.O.P. There was no evidence that the Appellants had any plans to bring about this substantial reduction in the interest charges. The only move was to pay down the principal by $16,000 but this did not enable the Appellants to turn around the rather dismal financial practices that had persisted from the beginning.
+[59] They also increased the rental charges for the yacht, but again this did not have any real effect on the bottom line.
+[60] The Appellants did have several unexpected expenses but these were no more than reasonable business persons could have expected. The Appellants failed to meet their own predictions and on the basis of all of the evidence, the Court must conclude that these predictions were not reasonable. It is obvious from the evidence that the only way that the Appellants could have reached the stage where there was a R.E.O.P. were if they earned substantially more income than they did and if they significantly reduced the interest payments. This they did not do.
+[61] It was not feasible for them to reduce operating expenses significantly because these charges were fairly constant.
+[62] As argued by counsel for the Respondent “the taxpayers have not shown an intent to retire a meaningful portion of the debt . . . to show that they had a realistic plan to reduce the principal amount borrowed within a few years of the yacht’s acquisition, to allow for profitability.”
+[63] There is no doubt that the taxpayers have been allowed a reasonable start-up period to bring about profitability and this has not been achieved.
+[64] The appeal is dismissed and the Minister’s assessment is confirmed.
+Signed at Ottawa, Canada, this 9th day of December 2011.
+“T.E. Margeson”
+Margeson J.
+CITATION: 2011 TCC 562
+COURT FILE NO.: 2011-96(GST)I
+STYLE OF CAUSE: LARRY AND SUSAN EIRIKSON and HER MAJESTY THE QUEEN
+PLACE OF HEARING: Ottawa, Canada
+DATE OF HEARING: October 19, 2011
+REASONS FOR JUDGMENT BY: The Honourable Justice T.E. Margeson
+DATE OF JUDGMENT: December 9, 2011
+APPEARANCES:
+For the Appellants:
+Larry Eirikson
+Counsel for the Respondent:
+Shane Aikat
+COUNSEL OF RECORD:
+For the Appellant:
+Name: N/A
+Firm:
+For the Respondent: Myles J. Kirvan
+Deputy Attorney General of Canada
+Ottawa, Canada
+[1] Moldowan v. Canada, [1978] 1 S.C.R. 480.
+[2] Stewart v. Canada, 2002 SCC 46, [2002] 2 S.C.R. 645.
+[3] Walls v. Canada, 2002 SCC 47, [2002] 2 S.C.R. 684.

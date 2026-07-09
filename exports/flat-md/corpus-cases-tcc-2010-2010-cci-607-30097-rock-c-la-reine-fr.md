@@ -1,0 +1,265 @@
+---
+title: "Rock c. La Reine"
+source: "https://decision.tcc-cci.gc.ca/tcc-cci/decisions/fr/item/30097/index.do"
+last_modified: "2010-11-30"
+court: "Tax Court of Canada"
+court_key: "tcc"
+court_database: "Tax Court of Canada Judgments"
+citation: "2010 CCI 607"
+citation2: ""
+neutral_citation: "2010 CCI 607"
+decision_date: "2010-11-30"
+language: "fr"
+item_id: "30097"
+case_scope: "all"
+data_source: "A2AJ Canadian Case Law"
+data_source_dataset: "a2aj/canadian-case-law"
+data_source_url: "https://huggingface.co/datasets/a2aj/canadian-case-law"
+data_source_last_updated: "2026-07-05"
+raw_format: "parquet"
+raw_source_path: "data/a2aj_case_law/TCC/train.parquet"
+raw_row_index: 7651
+raw_text_field: "unofficial_text_fr"
+raw_url_field: "url_fr"
+markdown_conversion: "decision text copied from A2AJ unofficial_text field; no structural parsing by default"
+scraped_timestamp: "2022-09-04T12:24:33.452000+00:00"
+cases_cited_count: 15
+cases_citing_count: 2
+upstream_license: "See upstream license, including non-commercial use and other restrictions: https://perma.cc/73PG-VE38. Note: This is an unofficial reproduction of a Tax Court of Canada decision that is published by the Government of Canada, without endorsement or affiliation by the Tax Court of Canada or the Government of Canada."
+text_sha256: "5ea8cef6c68638950b29e3c1b97ff404250e0d94adac17dea6cc881d0abb931d"
+downloaded_at: "2026-07-09"
+authority_type: tcc_case
+document_type: case_law
+source_family: case_law_tcc
+---
+
+# Rock c. La Reine
+
+- Citation: 2010 CCI 607
+- Decision date: 2010-11-30
+- Court: Tax Court of Canada
+- Language: fr
+- Data source: A2AJ Canadian Case Law
+- Raw source: `data/a2aj_case_law/TCC/train.parquet` row 7651, field `unofficial_text_fr`
+- Conversion note: decision text is copied from the A2AJ source field without structural parsing.
+
+## Decision Text
+
+Rock c. La Reine
+Base de données – Cour (s)
+Jugements de la Cour canadienne de l'impôt
+Date
+2010-11-30
+Référence neutre
+2010 CCI 607
+Numéro de dossier
+2008-447(IT)APP
+Juges et Officiers taxateurs
+Joe E. Hershfield
+Sujets
+Loi de l'impôt sur le revenu
+Contenu de la décision
+Dossier : 2008-447(IT)APP
+ENTRE :
+JODI ROCK
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande de prorogation de délai entendue sur preuve commune avec les demandes de Michelle Rice 2009-1117(IT)APP,
+et de Brenda Laforme 2009-199(IT)APP, le 22 novembre 2010
+et motifs de l’ordonnance rendus à l’audience
+le 26 novembre 2010 à Toronto (Ontario).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de la requérante :
+Scott A. Smith
+Avocat de l’intimée :
+Brandon Siegal
+____________________________________________________________________
+ORDONNANCE
+Après avoir entendu la demande visant à obtenir une ordonnance prorogeant le délai imparti pour interjeter appel de la cotisation établie au titre de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 1995;
+et après avoir entendu les allégations et les arguments des parties;
+La Cour ordonne que le délai pour interjeter appel soit prorogé jusqu’à la date de la présente ordonnance, et l’avis d’appel reçu avec la demande est réputé être un avis d’appel valide, le tout conformément aux motifs exposés dans les motifs de l’ordonnance ci‑joints.
+EN CONSÉQUENCE, LA COUR ORDONNE CE QUI SUIT :
+l’intimée doit déposer et signifier une réponse à l’avis d’appel modifié au plus tard le 24 janvier 2011;
+l’instruction de l’appel aura lieu au Centre de la magistrature fédérale, 180, rue Queen Ouest, 6e étage, Toronto (Ontario), à compter de 9 h 30 le 7 février 2011 ou à une date ultérieure dans la semaine comme le décidera la Cour à cette date.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2010.
+« J.E. Hershfield »
+Le juge Hershfield
+Dossier : 2009-1117(IT)APP
+ENTRE :
+MICHELLE RICE
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande de prorogation de délai entendue sur preuve commune avec les demandes de Jodi Rock 2008-447(IT)APP, et de
+Brenda Laforme 2009-199(IT)APP, le 22 novembre 2010
+et motifs de l’ordonnance rendus à l’audience
+le 26 novembre 2010 à Toronto (Ontario).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de la requérante :
+Scott A. Smith
+Avocat de l’intimée :
+Brandon Siegal
+____________________________________________________________________
+ORDONNANCE
+Après avoir entendu la demande visant à obtenir une ordonnance prorogeant le délai imparti pour interjeter appel de la cotisation établie au titre de la Loi de l’impôt sur le revenu à l’égard de l’année d’imposition 2006;
+et après avoir entendu les allégations et les arguments des parties;
+La Cour ordonne que le délai pour interjeter appel soit prorogé jusqu’à la date de la présente ordonnance, et l’avis d’appel reçu avec la demande est réputé être un avis d’appel valide, le tout conformément aux motifs exposés dans les motifs de l’ordonnance ci‑joints.
+PAR CONSÉQUENT, LA COUR ORDONNE CE QUI SUIT :
+l’intimée doit déposer et signifier une réponse à l’avis d’appel modifié au plus tard le 3 janvier 2011;
+l’instruction de l’appel aura lieu au Centre de la magistrature fédérale, 180, rue Queen Ouest, 6e étage, Toronto (Ontario), à compter de 9 h 30 le 11 janvier 2011 ou à une date ultérieure dans la semaine comme le décidera la Cour à cette date.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2010.
+« J.E. Hershfield »
+Le juge Hershfield
+Dossier : 2009-199(IT)APP
+ENTRE :
+BRENDA LAFORME
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+____________________________________________________________________
+Demande de prorogation de délai entendue sur preuve commune avec les demandes de Jodi Rock 2008-447(IT)APP, et de
+Michelle Rice 2009-1117(IT)APP, le 22 novembre 2010
+et motifs de l’ordonnance rendus à l’audience
+le 26 novembre 2010 à Toronto (Ontario).
+Devant : L’honorable juge J.E. Hershfield
+Comparutions :
+Avocat de la requérante :
+Scott A. Smith
+Avocat de l’intimée :
+Brandon Siegal
+____________________________________________________________________
+ORDONNANCE
+Après avoir entendu la demande visant à obtenir une ordonnance prorogeant le délai imparti pour interjeter appel des cotisations établies au titre de la Loi de l’impôt sur le revenu à l’égard des années d’imposition 2005 et 2006;
+et après avoir entendu les allégations et les arguments des parties;
+La Cour ordonne que le délai pour interjeter appel soit prorogé jusqu’à la date de la présente ordonnance, et que l’avis d’appel reçu avec la demande soit réputé être un avis d’appel valide, le tout conformément aux motifs exposés dans les motifs de l’ordonnance ci‑joints.
+PAR CONSÉQUENT, LA COUR ORDONNE CE QUI SUIT :
+l’intimée doit déposer et signifier une réponse à l’avis d’appel modifié au plus tard le 30 novembre 2010;
+l’instruction de l’appel aura lieu au Centre de la magistrature fédérale, 180, rue Queen Ouest, 6e étage, Toronto (Ontario), à compter de 9 h 30 le 6 décembre 2010 ou à une date ultérieure dans la semaine comme le décidera la Cour à cette date.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2010.
+« J.E. Hershfield »
+Le juge Hershfield
+Référence : 2010 CCI 607
+Date : 20101130
+Dossier : 2008-447(IT)APP
+ENTRE :
+JODI ROCK
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2009-1117(IT)APP
+ET ENTRE :
+MICHELLE RICE,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée;
+Dossier : 2009-199(IT)APP
+ET ENTRE :
+BRENDA LAFORME,
+requérante,
+et
+SA MAJESTÉ LA REINE,
+intimée.
+[TRADUCTION FRANÇAISE OFFICIELLE]
+MOTIFS DE L’ORDONNANCE
+Le juge Hershfield
+Introduction et contexte factuel
+[1] Chacune des requérantes présente une demande en vertu du paragraphe 167(5) de la Loi de l’impôt sur le revenu (la « Loi ») demandant une prorogation de délai pour déposer des avis d’appel à l’égard de certaines cotisations qui ont refusé l’exemption accordée aux Indiens en vertu de l’article 87 de la Loi sur les Indiens. Michelle Rice et Branda Laforme ont toutes deux témoigné à l’audience. L’avocat de Jodi Rock a présenté des preuves documentaires concernant son emploi, mais elle n’a pas témoigné en raison d’une urgence personnelle.
+[2] Au cours de chacune des années à l’égard desquelles les requérantes demandent une prorogation du délai pour déposer un avis d’appel, elles étaient à l’emploi de Native Leasing Services (« NLS »).
+[3] NLS est une entreprise exploitée par un seul et unique propriétaire, un Indien inscrit, ayant son siège social sur la réserve des Six-Nations de Grand River.
+[4] Au cours des années en litige, NLS a retenu les services de chacune des requérantes pour des placements sur des lieux de travail particuliers. Les services de Brenda Laforme ont été retenus pour travailler au Fort Erie Native Friendship Centre situé à Fort Erie (Ontario), qui n’est pas sur une réserve. Mme Laforme est titulaire d’un baccalauréat en travail social. Elle a fourni des services de travail social. La requérante Michelle Rice a été retenue par NLS afin de fournir des services de tenue de livres pour les Ontario Federation of Indian Friendship Centres situés à Toronto (Ontario). Mme Rice a terminé un programme de CGA de quatre ans. Les preuves documentaires présentées à l’égard de Jodi Rock n’indiquent pas précisément où elle exécutait les fonctions liées à son emploi, malgré que les contrats soumis en preuve indiquent qu’elle suivait les directives de Pine Tree Native Centre of Brant en ce qui a trait à l’exercice de ses fonctions qui consistait à fournir des services d’emploi aux clients du centre.
+[5] Afin d’avoir gain de cause, les cinq exigences prévues au paragraphe 167(5) de la Loi doivent être satisfaites.
+[6] L’alinéa (5)a) exige que les demandes soient présentées dans un délai d’un an et 90 jours de l’envoi des ratifications. L’intimée reconnaît que cette exigence a été respectée.
+[7] En ce qui a trait aux sous-alinéas (5)b)i) et iii), l’intimée reconnaît que les requérantes avaient véritablement l’intention d’interjeter appel et elle ne conteste pas l’affirmation voulant que les demandes aient été présentées dès que les circonstances le permettaient. La preuve appuie les concessions de l’intimée à cet égard. Par conséquent, je conclus que les exigences de ces sous-alinéas ont été satisfaites.
+[8] Le sous-alinéa (5)b)ii) exige de tirer une conclusion selon laquelle il serait juste et équitable de faire droit à la demande compte tenu des motifs indiqués dans la demande et des circonstances de l’affaire. L’intimée affirme que cette exigence n’a pas été satisfaite.
+[9] De même, l’intimée affirme que l’exigence du sous-alinéa (5)b)iv), selon laquelle l’appel doit être raisonnablement fondé, n’a pas été satisfaite.
+[10] L’avocat des requérantes soutient qu’une preuve prima facie a été établie par les deux requérantes qui ont témoigné à l’audience et que cela suffit pour respecter l’exigence prévue au sous-alinéa (5)b)iv) voulant que l’appel soit raisonnablement fondé. S’en remettant principalement à l’iniquité d’imposer un fardeau financier impossible aux requérantes en niant à celles‑ci la possibilité d’être entendues en cour pour défendre le fondement de leur appel, l’avocat des requérantes soutient que l’exigence selon laquelle il serait juste et équitable de faire droit à la demande prévue au sous-alinéa (5)b)ii) a été satisfaite.
+[11] La preuve des deux requérantes qui ont témoigné à l’audience concernant l’exigence du sous-alinéa (5)b)iv), voulant que l’appel soit raisonnablement fondé, établissait qu’elles avaient fourni des services à des Indiens inscrits à des centres d’amitié (friendship centres) dont la nature était intrinsèquement liée à la vie des autochtones sur les réserves. Elles sont toutes deux des Indiennes inscrites elles-mêmes, bien qu’aucune d’elles n’ait vécu sur une réserve à un moment pertinent. Elles ont toutes deux effectué une partie de leur travail sur des réserves, mais de toute évidence pour la majeure partie, leur travail et la part la plus importante de leurs fonctions ont été exécutés à des endroits qui n’étaient pas situés sur des réserves.
+[12] L’un des points cruciaux de l’argumentation juridique voulant que l’appel soit raisonnablement fondé se concentre autour des conclusions de la Cour suprême du Canada dans l’arrêt Williams c. Canada [1] qui ont confirmé qu’un Indien aux termes de la Loi sur les Indiens a un choix par rapport à l’endroit où situer un bien sur la réserve ou hors réserve, et dans l’arrêt Newegijick c. La Reine [2] , concluant que le situs du revenu d’emploi était là où le débiteur résidait. Même si ces arguments semblent voués à l’échec d’après les décisions sur lesquelles s’appuie l’intimée, les requérantes ont également mis l’accent sur l’exigence voulant que la Cour examine chaque cas individuellement afin d’apprécier d’autres facteurs de rattachement comme, plus particulièrement, le type d’activité et la nature du travail [3] .
+[13] Ceci m’amène donc à examiner les éléments de preuve des deux requérantes présentés dans leur témoignage.
+Les témoignages des requérantes
+[14] Brenda Laforme s’est identifiée comme étant Haudenosaunee et même si elle a dit qu’elle était attachée à la réserve des Six-Nations de Grand River sur le plan juridique par l’intermédiaire de son père, son témoignage était quelque peu confus concernant son statut et son lien à l’égard de cette réserve et de la réserve avoisinante des Mississaugas de New Credit. Quoi qu’il en soit, je conclus, et il n’est pas contesté qu’elle est une Indienne inscrite aux termes de la Loi sur les Indiens.
+[15] Elle a témoigné s’être enfuie de sa réserve avec sa mère quand elle avait environ cinq ans. Elles se sont toutes deux enfuies à Buffalo afin qu’elle ne soit pas placée dans un pensionnat indien. Après s’être enfuie de la réserve, elle n’est jamais retournée y habiter. Elle a grandi à Buffalo et est ensuite revenue au Canada. Après avoir travaillé à St. Catharines, elle est retournée aux études et a obtenu son baccalauréat en travail social. Elle a poursuivi des études supérieures dans un programme de maîtrise à l’Université Carlton, mais elle n’a jamais terminé sa thèse.
+[16] Même si elle n’est jamais retournée habiter sur la réserve, elle a entretenu des liens familiaux profonds tant avec la réserve des Six-Nations de Grand River qu’avec la réserve New Credit où les familles de ses parents vivaient. En outre, elle se présentait régulièrement à la réserve pour les cérémonies qui se tiennent dans les longues maisons. De cette façon, elle et ses enfants ne perdent pas de vue qui ils sont et la communauté dont ils font partie. Elle affirme que son lien avec la réserve est une partie fondamentale de son identité. Je pense que cela est vrai, et je respecte son sens d’identité, lequel est fortement Haudenosaunee, Peuple de la maison longue.
+[17] En tant que travailleuse sociale, elle a conclu un contrat par l’intermédiaire de NLS afin de travailler au Fort Erie Native Friendship Centre. Elle exerce ses fonctions hors réserve à Fort Erie et à St. Catharines. Elle a travaillé avec des adolescents autochtones à risque élevé, ou à risque, qui n’avaient pas développé de lien avec leur héritage. Elle a parlé de son emploi comme étant celui d’un agent de réunification de la jeunesse qui travaille auprès des jeunes des villes pour tisser des liens avec les réserves dans le cadre de programmes portant sur les cérémonies autochtones, sur les cercles de guérison et sur l’histoire, tout en établissant des liens spirituels et culturels afin de les aider à sortir de leurs styles de vie dysfonctionnels.
+[18] Elle a également travaillé avec les aînés sur les réserves afin de les aider dans le processus visant à composer avec leur expérience dans les pensionnats indiens. Elle y a aussi amené des adolescents des villes pour qu’ils aient accès à des services. Exagérant un peu, elle dit qu’elle passe peut-être cumulativement un mois par année à travailler sur des réserves comme celle des Six-Nations, un trajet d’une heure et demie de Fort Erie en voiture.
+[19] En résumé, je ne peux qu’ajouter qu’elle croit fermement servir tant les peuples autochtones en général que la communauté autochtone de la réserve, peu importe où elle fournit ce service. En effet, je retiens de son témoignage qu’elle ne fait pas de différence entre les deux.
+[20] Le témoignage de Michelle Rice était plus limité que celui de Mme Laforme. Elle a travaillé principalement à Toronto, où elle habitait. Elle a témoigné qu’elle avait en effet fourni des services de comptabilité sur des réserves dans le cadre de son rôle de supervision des programmes de divers centres d’amitié, dont certains étaient situés sur les réserves. Son souvenir quant aux réserves précises sur lesquelles elle avait passé du temps, en quelque capacité que ce soit, était au mieux vague même si elle a mentionné Fort Francis, Kenora et Perry Island à plus d’une reprise.
+[21] Mme Laforme et Mme Rice avaient toutes deux des contrats avec NLS qui prévoyaient le paiement de 1,5 % ou 3 % à NLS afin de créer un fonds pour lutter contre l’Agence du revenu du Canada si ces dernières donnaient l’instruction à NLS de ne pas déduire d’impôt de leurs paiements de salaire. Aucun impôt n’a été perçu de ni l’une ni l’autre. Leurs salaires ont tous deux été payés par NLS, présumément à leurs comptes bancaires hors réserve.
+[22] Les deux requérantes ont témoigné de la pression financière qu’elles subiraient si elles devaient payer les cotisations d’impôt qui leur avaient été imposées. De telles préoccupations n’éclairent pas les questions en litige dont je suis saisi ou n’ont pas de répercussion sur elles.
+Argument des requérantes
+[23] Comme il a été noté d’entrée de jeu, le point crucial de l’argumentation des requérantes est qu’elles s’étaient acquittées du fardeau de prouver que leur appel est raisonnablement fondé; que travailler pour NLS et être payé sur la réserve, là où le débiteur réside, constitue l’exercice d’un choix qu’elles ont le droit d’exercer, qui est de situer leurs biens sur leur réserve ou sous sa protection. Le motif invoqué comme fondement permettant d’instituer leurs appels est la présence et le travail de NLS sur la réserve à titre d’employeur et à titre de débiteur relativement aux biens personnels, le droit au revenu qui est situé sur la réserve. Comme il a été noté au début, cet argument est tiré de l’arrêt Nowegijick de la Cour suprême et d’un seul paragraphe de l’arrêt Williams de la Cour suprême, à savoir, le paragraphe 18. Si l’Indien inscrit peut choisir où situer un bien personnel afin d’empêcher la réduction de ce bien par saisie ou taxation, rien ne devrait interférer par rapport à ce choix, exercé en choisissant un employeur situé sur une réserve qui retient nos services hors réserve.
+[24] Un autre motif souligne que même en vertu des critères de rattachement, il est possible de soutenir que les appels sont raisonnablement fondés en l’espèce. L’importance des critères et l’importance qui doit être accordée à chacun est souple et elle permet un examen au cas par cas. Au paragraphe 35 de l’arrêt Williams, il est souligné qu’à l’égard de différentes catégories de cas, on peut accorder plus de poids à un facteur de rattachement dans une catégorie qu’à un autre. De même, dans la décision McKay c. La Reine [4] , le juge Little note au paragraphe 51 que le situs d’un revenu d’emploi aux fins de l’article 87 de la Loi sur les Indiens dépend des faits qui lui sont propres. Même le juge Evans a dit dans la décision Horn et al. c. Canada, [5] et Williams au paragraphe 8, qu’appliquer le critère des facteurs de rattachement est particulièrement lié aux faits. Par ailleurs, même dans la décision Shilling c. M.N.R. [6] , au paragraphe 33, il est reconnu que l’importance à accorder à différents facteurs peut varier d’un cas à l’autre en accordant une attention particulière à la nature du travail et aux circonstances qui l’entourent. Aux paragraphes 31 et 32 de cette affaire, il est noté que tout avantage qu’en tire la réserve et le lieu où l’employé est payé sont des facteurs qui peuvent être pertinents.
+[25] Les facteurs de rattachement sur lesquels les requérantes se fondent le plus sont le lieu où les employés sont rémunérés, la nature du travail, leurs liens avec la réserve et l’avantage qu’en tire la réserve. Dans la décision McKay, le juge Little s’est concentré sur le type de travail effectué et la nature de l’avantage du travail pour la réserve. Une moindre importance a été accordée à la résidence hors réserve compte tenu des liens solides avec la réserve et de ses visites régulières sur celle-ci. Il a conclu que l’exécution du travail hors réserve ne constituait pas un facteur déterminant pour ce qui est de situer le lieu du revenu d’emploi dérivé d’un tel travail hors réserve.
+[26] Hormis le fait d’affirmer qu’il y a une preuve prima facie selon laquelle leurs appels sont raisonnablement fondés, l’avocat des requérantes soutient que le droit d’être entendu, de pouvoir se défendre, a une importance prépondérante et que ce droit ne peut pas être miné par des décisions prématurées de ce qui pourrait constituer un appel raisonnablement fondé.
+Argument de l’intimée
+[27] L’intimée cite la décision Johnston c. La Reine [7] comme décision où le tribunal a conclu que les demandes en litige ne répondaient pas à l’exigence du sous-alinéa (5)b)iv), voulant que l’appel soit raisonnablement fondé.
+[28] L’affaire traite quatre demandes que l’intimée décrit comme étant des demandes types portant sur trois sortes de groupes. Celui d’importance à l’égard des présentes demandes est le groupe qui a déposé ses demandes en dehors de l’exigence du délai de dépôt initial de 90 jours, mais dans le délai permis d’un an, à la condition de répondre aux quatre exigences notées ci-dessus, comme il est énoncé à l’alinéa 167(5)b) de la Loi. La requérante qui faisait partie de ce groupe était Pamela Johnston. L’exigence sur laquelle le juge a mis l’accent dans son cas était celle énoncée au sous-alinéa (5)b)iv) selon laquelle l’appel doit être raisonnablement fondé.
+[29] Il a été conclu que les circonstances de Mme Johnston ne pouvaient pas être distinguées de celle de Mme Shilling, dont l’appel s’était rendu à la Cour d’appel fédérale. Mme Shilling avait été embauchée par NLS pour travailler à Anishnawbe Health Toronto, exactement au même endroit où travaillait Mme Johnston. Aucun facteur de rattachement possible n’ayant pas déjà été examiné dans la décision Shilling n’a même été proposé. Par conséquent, la Cour a conclu que l’appel de Mme Johnston n’était pas raisonnablement fondé et sa demande a été rejetée.
+[30] L’intimée soutient que les faits des demandes actuelles sont semblables, sinon impossibles à distinguer, de la décision Shilling. Dans tous les cas, les requérantes vivaient et travaillaient hors réserve à une installation qui servait les intérêts des peuples autochtones. Dans la décision Shilling, ces faits n’ont pas donné lieu à l’exemption prévue par l’article 87 de la Loi sur les Indiens, même si les requérantes avaient été payées par un employeur situé sur la réserve.
+[31] Le critère des facteurs de rattachement établi dans l’arrêt Williams est invoqué comme étant le critère pertinent à appliquer et toute affirmation qui s’appuie sur l’arrêt Nowegijick comme nécessitant simplement que le débiteur habite sur la réserve à titre de bon droit n’est pas correcte. L’intimée cite le juge Evans de la Cour d’appel fédérale dans la décision Horn [8] et Williams, au paragraphe 5, où il affirme, après avoir noté que la Cour suprême du Canada a toujours refusé l’autorisation d’interjeter appel des décisions portant sur l’article 87 jugé par la Cour d’appel fédérale en appliquant le critère des facteurs de rattachement. Il a poursuivi en suggérant, en fait, que sans l’intervention du législateur, la validité du cadre analytique du critère des facteurs de rattachement, élaboré et appliqué à ce jour, ne pouvait être examinée que par la Cour suprême du Canada.
+[32] On fait valoir que d’après ce critère, comme dans Johnston, aucun élément de preuve n’a été produit à l’égard des demandes dont je suis saisi qui laisserait entendre toute possibilité raisonnable que les appels soient accueillis. Par conséquent, les demandes devraient être refusées.
+[33] L’avocat de l’intimée m’a également renvoyé à la décision Roe c. La Reine [9] . Dans cette affaire, certains des arguments soulevés par l’avocat des demandeurs ont été abordés par le juge Paris. En effet, certains des éléments factuels abordés dans cette affaire sont similaires à ceux présentés dans les demandes en litige. Un des appelants, par exemple, travaillait à un centre d’amitié faisant présumément du bon travail pour les Autochtones, tel qu’il a été mentionné concernant le travail réalisé par Mme Laforme. De même, dans les décisions Googoo c. La Reine [10] et McIvor c. La Reine [11] , un des appelants travaillait à un centre d’amitié dans des circonstances qui, d’après l’intimée, ne devraient pas être distinguées de celles concernant, par exemple, l’appel de Mme Laforme. Dans toutes ces causes, les appels ont été rejetés. Dans la décision Roe, l’un des appelants, Mme Matilpi, travaillait pour une association de centres d’amitié, ce qui suggère que la nature de son travail pourrait avoir des similitudes à celle de Mme Rice. Mme Matilpi n’a pas eu gain de cause en appel.
+Analyse
+[34] Fait intéressant, on ne m’a pas référé à des décisions discutant précisément de l’étendue du fardeau de la preuve et de la signification de l’expression « raisonnablement fondé » dans le contexte de l’exigence du sous-alinéa 167(5)b)iv) voulant que l’appel soit raisonnablement fondé.
+[35] Je n’ai pas demandé que des observations soient présentées à cet égard et je ne me suis pas non plus aventuré à faire des recherches sur la question. Mes conclusions sont simples et claires. Elles sont pragmatiques et, à mon avis, en toute logique, elles se fondent principalement sur le droit des requérantes d’être entendues. En termes simples, le sous‑alinéa 167(5)b)(iv) ne concerne pas les probabilités relatives d’obtenir gain de cause, mais le fait d’avoir un appel raisonnablement fondé.
+[36] Les requérantes ont un avocat compétent, qui représente des personnes sérieuses, lesquelles cherchent soit à rentrer dans un cadre duquel elles et d’autres personnes ont été exclues, soit à élargir ce cadre en voulant, de manière persistante, appliquer ces principes et arguments juridiques dont elles ont espoir qu’ils pourraient être retenus, dans certains cas du moins. La loi n’est pas figée, après tout, et certaines situations peuvent justifier l’application du critère des facteurs de rattachement, comme l’a fait valoir l’avocat relativement à ces demandes. Toutefois, je tiens particulièrement à souligner que toute demande visant à appliquer l’exemption prévue à l’article 87 en fonction de tout autre élément que le critère des facteurs de rattachement pourrait être tellement futile que cela justifierait une conclusion selon laquelle l’appel n’est pas raisonnablement fondé. La Cour d’appel fédérale a davantage éclairci ce point. Le juge Evans a conclu, au paragraphe 5 de l’arrêt Horn et Williams, comme je l’ai déjà mentionné, que le critère des facteurs de rattachement est le seul critère applicable. Il a également conclu que la protection accordée aux Indiens par la Cour suprême du Canada dans l’arrêt McDiarmid Lumber Ltd c. Première Nation de God’s Lake [12] concernant les biens situés sur une réserve et déterminés par le lieu de résidence du débiteur, s’applique uniquement contre une saisie, et non à l’égard de la taxation.
+[37] J’ai toujours des réserves à propos de l’utilisation du sous-alinéa 167(5)b)iv) comme moyen pour invoquer les doctrines de la chose jugée, de la préclusion ou de l’abus de procédure afin d’empêcher de remettre en cause une question. Certainement, le sous-alinéa 167(5)b)iv) pourrait être mieux caractérisé comme étant là afin d’empêcher les appels frivoles, vexatoires ou de nuisance. Les appels ne devraient pas faire l’objet d’un préjugement par ces premières auditions de demande informelles. Si aucun autre élément de preuve n’est présenté à un appel, les appels des requérantes peuvent très bien être rejetés, mais ceci n’est pas cohérent, à mon avis, avec le refus de notre système de justice d’autoriser un procès à cette étape des procédures à l’égard de ces requérantes. Cela ne veut pas dire que le sous-alinéa 167(5)b)iv) ne devrait jamais être invoqué au motif qu’il en résulterait inévitablement l’équivalent d’un préjugement. Lorsqu’il est évident que la poursuite de l’appel n’est pas légitime, jumelé aux autres exigences du paragraphe 167(5), cela ne constituerait pas le préjugement d’une demande. Dans ce cas, elles pourraient ne pas avoir gain de cause dans une demande, même sous la bannière de leur droit fondamental d’être entendues.
+[38] En définitive donc, comme les appels interjetés dans ces affaires seront vraisemblablement rejetés, j’accueillerai les demandes. Je suis encouragé à adopter cette vue, à l’égard de ces demandes, actuellement, en raison de deux facteurs. Premièrement, Mme Laforme et Mme Rice ont d’autres années d’imposition en litige qui ont été fixées pour instruction pour les mêmes faits et questions puisqu’elles portent sur l’année ou les années à l’égard desquelles les présentes demandes ont été présentées. L’avocat a accepté que si j’autorisais les présentes demandes, les appels portant sur ces demandes soient entendus ensemble, au même moment et au même endroit que les autres appels déjà fixés pour instruction. Ceci inclurait également celui de Mme Rock. Cela fait en sorte que même si les appels étaient rejetés, aucun délai ni aucune ressource n’aura été utilisé par l’autorisation des présentes demandes. J’ai entendu six causes concernant NLS cette semaine, et aucun indice ne permet de conclure que le fait d’ajouter une autre année à l’un ou l’autre des appels aurait ajouté une minute de plus à la procédure [13] .
+[39] Deuxièmement, ayant entendu les six appels cette semaine, je demeure incertain quant à leur issue. Cela veut dire qu’il pourrait bien y avoir certaines situations où les faits particuliers et les circonstances factuelles d’un appel concernant NLS pourraient permettre d’invoquer l’exemption prévue à l’article 87. Comme l’a souligné le juge Evans dans l’arrêt Horn et Williams, au paragraphe 8, il appartient avant tout au juge de première instance, selon les circonstances de l’affaire, d’évaluer le poids relatif qu’il doit accorder aux éléments constitutifs d’un critère comportant de multiples facteurs. Par conséquent, il convient de faire preuve de prudence, et le juge saisi de la demande ne doit pas exercer cette fonction prématurément en effectuant un classement par catégorie de toutes les causes de NLS, même celles où il est évident que les faits sont similaires à ceux des causes qui ont été rejetées, comme relevant d’une catégorie non-exemptée. Certaines causes dont les faits sont très semblables peuvent être présentées sous un angle différent, comme en témoignent les décisions Robertson c. La Reine [14] et Ballantyne c. La Reine [15] . Dans ces affaires, chacun des juges a été influencé par différents facteurs, en fonction des éléments de preuve présentés. Et ici, je tiens à souligner que, dans l’arrêt Shilling, aux paragraphes 40 et 41, on a relevé l’absence d’éléments de preuve. Des éléments de preuve complets auraient donné lieu à des résultats différents. D’où la prudence de se garder de préjuger.
+[40] Cet avertissement, toutefois, n’est pas une invitation à accueillir toutes les demandes de prolongation de délai. Il s’agit simplement d’une mise en garde que je formule en permettant que les années dont font l’objet les présentes demandes soient instruites rapidement. J’ai ajouté mes propres italiques ici.
+[41] Par conséquent, les demandes sont accueillies. Les appels portant sur les présentes demandes seront entendus ici, dans les locaux de Toronto, au cours des semaines commençant, dans le cas de Michelle Rice, le 11 janvier 2011, dans le cas de Brenda Laforme, le 6 décembre 2010, et dans le cas de Jodi Rock, le 7 février 2011. Les dates et lieux précis des auditions seront fixés par l’avocat, sur permission de la Cour. Les délais de l’intimée pour produire des réponses aux avis d’appels, maintenant reçus comme étant déposés à juste titre, seront comme suit : à l’égard de Michelle Rice, le 3 janvier 2011, à l’égard de Brenda Laforme, le 30 novembre 2010, et à l’égard de Jodi Rock, le 24 janvier 2011.
+Signé à Ottawa, Canada, ce 30e jour de novembre 2010.
+« J.E. Hershfield »
+Le juge Hershfield
+RÉFÉRENCE : 2010 CCI 607
+NO DU DOSSIER DE LA COUR : 2008-447(IT)APP; 2009-1117(IT)APP; 2009-199(IT)APP
+INTITULÉ : JODI ROCK ET SA MAJESTÉ LA REINE; ET
+ENTRE MICHELLE RICE ET SA MAJESTÉ LA REINE; BRENDA LAFORME ET SA MAJESTÉ LA REINE
+LIEU DE L’AUDIENCE : Toronto (Ontario)
+DATE DE L’AUDIENCE : Le 22 novembre 2010
+MOTIFS DE L’ORDONNANCE : L’honorable juge J.E. Hershfield
+DATE DE L’ORDONNANCE : Le 30 novembre 2010
+COMPARUTIONS :
+Avocat de la requérante :
+Scott A. Smith
+Avocat de l’intimée :
+Brandon Siegal
+AVOCATS INSCRITS AU DOSSIER :
+Pour la requérante
+Nom : Scott A. Smith
+Cabinet : Gowling Lafleur Henderson LLP
+1 First Canadian Place
+100, rue King Ouest, bureau 1600
+Toronto (Ontario)
+M5X 1G5
+Pour l’intimée : Myles J. Kirvan
+Sous-procureur général du Canada
+Ottawa, Canada
+[1] [1992] 1 R.C.S. 877, [1992] 1 CTC 225.
+[2] [1983] 1 R.C.S. 29, [1983] CTC 20.
+[3] La Cour suprême dans l’arrêt 52 DTC 6084 https://www.canlii.org/fr/ca/caf/doc/1998/1998canlii7300/1998canlii7300.html Johnston c. La Reine Ce devrait être 2009 DTC 1198 (dans le contexte de l’emploi) a proposé une liste assez longue de critères qui pourraient être pris en compte.
+[4] 2007 CCI 757.
+[5] 2008 CAF 352.
+[6] 2001 CAF 178, 2001 DTC 5420, autorisation d’interjeter appel devant la Cour suprême du Canada refusée, [2001] S.C.C.A. no 434.
+[7] 2009 DTC 1072.
+[8] 2008 DTC 6743.
+[9] 2008 CCI 667, 2009 DTC 1020.
+[10] 2008 CCI 589, 2009 DTC 1061.
+[11] 2009 CCI 469, 2009 DTC 1330.
+[12] [2006] 2 R.C.S. 846.
+[13] Certes, ce n’est pas le cas pour Mme Rock, dont l’appel sera ajouté à la liste des autres appelants en circonstances semblables, comme convenu par l’avocat. Toutefois, étant donné que ces appels ont été sollicités par l’avocat, et compte tenu de mon expérience cette semaine, il semble improbable qu’ajouter ses appels à une semaine d’appels semblables visant NLS n’ajoute plus d’une heure supplémentaire à toute la semaine.
+[14] 2010 CCI 552.
+[15] 2009 CCI 325, [2010] 1 CTC 2317.
